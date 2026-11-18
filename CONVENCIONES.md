@@ -1,9 +1,12 @@
 # Convenciones de esta base
 
-Lo propio de este Vault para el skill `conocimiento` (the-software-co/skills). El método general
-está en el skill; esto lo completa.
+Lo propio de este Vault para la skill `documentar` (the-software-co/skills). El método general
+está en la skill; esto lo completa.
 
-- **Base**: `Conocimiento/`, compartida por Matias y Fer. El Mapa raíz es `conocimiento.md`.
+- **Base**: la raíz de este repo, compartida por Matias y Fer. El Mapa raíz es `conocimiento.md`, y el
+  Mapa de cada Tema es `<Tema>/<tema>.md`. Es un vault de Obsidian: los enlaces van como `[[id]]`.
+- **Temas nuevos**: los arma el modo `nuevo` de la skill, con su `ALCANCE.md` y sus informes
+  crudos en `<Tema>/.investigacion/` (Obsidian no muestra esa carpeta).
 - **Dueños** (`dueno`): `matias`, `fer` o `familia`.
 - **Apuntes personales**: quedan en la carpeta de cada Persona (p. ej. `Fer/Estudio/`) y se citan
   en `fuentes`.

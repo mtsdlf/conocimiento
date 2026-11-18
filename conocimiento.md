@@ -17,7 +17,7 @@ parte_de: []
 Mapa raíz del Conocimiento compartido de Matías y Fer: enlaza el Mapa de cada Tema, agrupados
 por área.
 
-Cómo se escribe y se mantiene cada nota: [[CONVENCIONES]] y el skill `conocimiento`.
+Cómo se escribe y se mantiene cada nota: [[CONVENCIONES]] y la skill `documentar`.
 
 ## Plataforma y entrega
 
@@ -48,3 +48,7 @@ Cómo se escribe y se mantiene cada nota: [[CONVENCIONES]] y el skill `conocimie
 ## Deporte
 
 - [[golf]] — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
+
+## Animales
+
+- [[gecko-leopardo]] — cuidado del gecko leopardo en terrario: qué necesita, cómo se nota que está bien o mal y qué hacer.
