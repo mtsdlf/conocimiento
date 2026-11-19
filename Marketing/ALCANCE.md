@@ -9,6 +9,13 @@ fuera:
   - precio y modelo de negocio en profundidad (mtsdlf/fundar)
 fuentes:
   - "April Dunford, Obviously Awesome (2019): el tipo de fuente que manda como puente"
+preguntas:
+  - "¿Qué escuelas de marketing hay, qué sostiene cada una y con qué evidencia?"
+  - "¿Dónde chocan las escuelas, y cómo se decide en cada choque para un emprendimiento chico?"
+  - "¿Cuánto del esfuerzo va a marca y cuánto a activación, y cuánto sostiene la evidencia el 60:40?"
+  - "¿Cómo se sabe si un canal causa ventas o solo las registra?"
+  - "¿Qué cambia al venderle a empresas en vez de a consumidores?"
+  - "¿Qué mitos de marketing contradice la evidencia?"
 aprobado: 2026-11-19
 ---
 
