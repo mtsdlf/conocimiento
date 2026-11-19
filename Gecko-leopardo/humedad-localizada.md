@@ -35,10 +35,10 @@ El gecko es de zonas áridas, pero la piel retenida en dedos y cabeza produce da
 
 ## Cómo funciona
 
-Igual que con el calor ([[termorregulacion-conductual|termorregulación conductual]]), el animal elige dónde estar. Hay aire seco en el terrario y un refugio con sustrato húmedo, donde entra y sale.
+Igual que con el calor ([[termorregulacion-conductual|termorregulación conductual]]), el animal elige dónde estar: aire seco en el terrario y un refugio con sustrato húmedo, donde entra y sale.
 
 - Merck da 20 a 30 % de humedad ambiente. Un refugio húmedo previene la piel retenida (Vet Times) y la deficiencia de vitamina A contribuye.
-- Juveniles estudiados por Craioveanu et al. 2017 (resumen, n = 8): la humedad del sustrato influyó en la elección de refugio. No se leyó el estudio completo.
+- Juveniles estudiados por Craioveanu et al. 2017 (resumen, n = 8): la humedad del sustrato influyó en la elección de refugio. Sin leer completo.
 - En el experimento de Oonincx et al. 2020 había un refugio con arena mantenida húmeda y otro seco, sin medir su humedad.
 
 > [!IMPORTANT]
@@ -53,11 +53,11 @@ Igual que con el calor ([[termorregulacion-conductual|termorregulación conductu
 
 ## Contraste con la casa
 
-En el terrario de la casa, `CONTEXT.md` de `terrario-gecko-leopard` fija 30 a 40 % de humedad ambiente y una cueva húmeda, y afirma que subir la humedad general es "la causa principal" de infecciones respiratorias. Los 30 a 40 % coinciden con las hojas de criadores y quedan por encima de los 20 a 30 % de Merck. Lo de la causa principal no tiene fuente que lo pruebe ni que lo refute.
+En la casa, `CONTEXT.md` de `terrario-gecko-leopard` fija 30 a 40 % de humedad ambiente y una cueva húmeda, y afirma que subir la humedad general es "la causa principal" de infecciones respiratorias. Los 30 a 40 % coinciden con las hojas de criadores y superan los 20 a 30 % de Merck; la causa principal no tiene fuente que la pruebe ni la refute.
 
 ## Para profundizar
 
-- **[Merck, tabla de manejo de reptiles](https://www.merckvetmanual.com/multimedia/table/important-husbandry-requirements-for-selected-reptiles)**: la fila del gecko leopardo y sus notas al pie, donde está el aviso sobre la muda. Fijarse en que habla de aire, no de refugio.
+- **[Merck, tabla de manejo de reptiles](https://www.merckvetmanual.com/multimedia/table/important-husbandry-requirements-for-selected-reptiles)**: la fila del gecko leopardo y sus notas al pie, con el aviso sobre la muda; habla de aire, no de refugio.
 
 ## Relaciones
 

@@ -43,29 +43,29 @@ Elegir la temperatura del punto caliente del gecko leopardo: medida en superfici
 | Oonincx 2020 | Termostato; superficie medida | 32 °C; 33,0 °C atrás, 29,9 °C al centro, 29,8 °C al frente |
 | ReptiFiles (criadores) | Zona caliente | 90–95 °F (32–35 °C) |
 
-Merck no escribe un punto caliente: ~30–35 °C es una suma de sus dos datos.
+Merck no da un punto caliente: ~30–35 °C suma dos de sus datos.
 
 ## Cuándo cada una
 
-Cada valor mide algo distinto (aire o superficie), así que primero hay que fijar dónde se mide. El [[calor-por-contacto|calor por contacto]] se mide con la sonda sobre el sustrato, no en el aire. Con superficie, las fuentes más altas respaldadas (Oonincx, UV-Tool) rondan 32–33 °C; con aire, la zona óptima de Merck llega a 30 °C y su asoleo, sumando los 5 °C que indica, a unos 35 °C.
+Cada valor mide algo distinto (aire o superficie): primero hay que fijar dónde se mide. El [[calor-por-contacto|calor por contacto]] se mide sobre el sustrato. En superficie rondan 32–33 °C (Oonincx, UV-Tool); en aire, la zona óptima de Merck llega a 30 °C y su asoleo a unos 35 °C.
 
 ## Debate abierto
 
 > [!IMPORTANT]
-> Disputado: 32–35 °C o 26–30 °C. Posición de criadores: ReptiFiles y otras hojas de criadores dan 32–35 °C, y Oonincx y UV-Tool usan 32 °C en superficie. Posición veterinaria: la RSPCA da 28–30 °C y Vet Times 26–30 °C sobre la malla. Además, Werner (2005, solo por resumen) midió una temperatura corporal preferida media de ~25,8 °C en un gradiente, y Autumn y DeNardo (1995, solo resumen) usaron 30 °C como preferida en un experimento de crecimiento. No hay una temperatura preferida única consensuada.
+> Disputado: 32–35 °C o 26–30 °C. Criadores: ReptiFiles y otras hojas dan 32–35 °C, y Oonincx y UV-Tool usan 32 °C en superficie. Veterinaria: RSPCA 28–30 °C y Vet Times 26–30 °C sobre la malla. Werner (2005, solo resumen) midió una temperatura corporal preferida media de ~25,8 °C en un gradiente; Autumn y DeNardo (1995, solo resumen) usaron 30 °C en un experimento de crecimiento. No hay una temperatura preferida única consensuada.
 
-Una guía comercial da 90–100 °F (35–38 °C), por encima de lo que respaldan Oonincx y Merck; se trata como no respaldada. Otra advierte que 94–95 °F o más es peligroso.
+Una guía comercial da 90–100 °F (35–38 °C), por encima de Oonincx y Merck: no respaldada. Otra advierte que 94–95 °F o más es peligroso.
 
 > [!NOTE]
-> Sin fuente todavía: temperatura máxima segura del punto caliente (alto riesgo; ninguna fuente la probó como límite), mediciones de campo de madrigueras y comparación experimental entre calor por contacto y radiante. La base no es consejo veterinario.
+> Sin fuente todavía: temperatura máxima segura, mediciones de campo de madrigueras y comparación experimental entre calor por contacto y radiante. La base no es consejo veterinario.
 
 ## Contraste con la casa
 
-En el terrario de la casa, CONTEXT.md apunta a 32–35 °C en el punto cálido con malla y termostato on/off, y sigue a los criadores. Eso queda por encima de los 26–30 °C veterinarios; el extremo bajo coincide con los 32–33 °C de las fuentes que midieron la superficie, y los 35 °C solo los respaldan criadores. Lo que sí coincide con las fuentes es medir el piso: la casa pone el sensor bajo la cueva caliente, y Vet Times y la RSPCA piden la sonda del termostato sobre el sustrato. Otra fuente de criadores dice que la malla no da el gradiente de aire necesario; la casa lo tiene como plan B a verificar con sus sensores.
+CONTEXT.md de la casa apunta a 32–35 °C en el punto cálido con malla y termostato on/off, siguiendo a criadores, sobre los 26–30 °C veterinarios; el extremo bajo coincide con los 32–33 °C medidos en superficie, y los 35 °C solo los respaldan criadores. Coincide medir el piso: la casa pone el sensor bajo la cueva caliente, y Vet Times y la RSPCA piden la sonda sobre el sustrato. Otra fuente de criadores dice que la malla no da gradiente de aire; la casa la tiene de plan B.
 
 ## Para profundizar
 
-[Merck, tabla de requerimientos](https://www.merckvetmanual.com/multimedia/table/important-husbandry-requirements-for-selected-reptiles): leé las notas al pie sobre la regla de ±5 °C y fijate en que son temperaturas de aire. [Oonincx et al. 2020](https://edepot.wur.nl/531850): Tabla 1, para las temperaturas medidas en superficie.
+[Merck, tabla de requerimientos](https://www.merckvetmanual.com/multimedia/table/important-husbandry-requirements-for-selected-reptiles): notas al pie sobre la regla de ±5 °C, que son temperaturas de aire. [Oonincx et al. 2020](https://edepot.wur.nl/531850): Tabla 1, temperaturas medidas en superficie.
 
 ## Relaciones
 
