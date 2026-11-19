@@ -49,6 +49,10 @@ Cómo se escribe y se mantiene cada nota: [[CONVENCIONES]] y la skill `documenta
 
 - [[golf]] — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
 
+## Negocio
+
+- [[marketing]] — posicionamiento, JTBD, cómo crecen las marcas, elección de canales y métricas.
+
 ## Animales
 
 - [[gecko-leopardo]] — cuidado del gecko leopardo en terrario: qué necesita, cómo se nota que está bien o mal y qué hacer.
