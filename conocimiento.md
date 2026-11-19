@@ -51,7 +51,7 @@ Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCION
 
 ## Negocio
 
-- [Marketing](Marketing/marketing.md) — posicionamiento, JTBD, cómo crecen las marcas, elección de canales y métricas.
+- [Marketing](Marketing/marketing.md) — escuelas y fuentes, cliente y propuesta, marca y crecimiento, B2B y salida al mercado, medición y persuasión, con la evidencia de cada idea.
 
 ## Animales
 
