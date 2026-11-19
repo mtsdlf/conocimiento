@@ -39,7 +39,7 @@ estables que una persona puede mantener. [Team Topologies](team-topologies.md) u
 
 De esa serie, Team Topologies saca agrupaciones compatibles:
 
-- **un equipo**: de 5 a 8 personas, según la experiencia de la industria;
+- **un equipo**: de 5 a 8 personas, según la experiencia de la industria (la definición de equipo del libro, en [Team-first](team-first.md), dice de cinco a nueve);
 - **una familia o "tribu"** de equipos: hasta 50 personas;
 - **una división o línea de negocio**: hasta 150 personas.
 

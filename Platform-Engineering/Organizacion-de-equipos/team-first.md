@@ -26,7 +26,7 @@ separado, y por eso el trabajo se asigna solo a equipos.
 
 ## Tamaño, estabilidad, ownership, motivación y Team API
 
-**Tamaño**: de cinco a nueve personas, según los [números de Dunbar](numero-de-dunbar.md).
+**Tamaño**: de cinco a nueve personas en la definición de equipo del libro. La escala de los [números de Dunbar](numero-de-dunbar.md), en el mismo capítulo, da de 5 a 8 "según la experiencia de la industria": las dos cifras son del libro y no se contradicen, una define el equipo y la otra es el tamaño cómodo.
 
 **Estabilidad**: un equipo tarda de dos semanas a tres meses o más en cohesionarse. La ley de
 Brooks advierte que sumar gente no aumenta la capacidad de inmediato. El modelo de Tuckman
