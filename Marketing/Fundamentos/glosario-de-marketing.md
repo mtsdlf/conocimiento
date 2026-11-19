@@ -82,6 +82,7 @@ Algunas notas marcan con estas siglas cuánto se leyó de cada fuente; otras lo 
 | Atribución | El reparto del crédito de una venta entre los puntos de contacto que la precedieron, como clics o anuncios vistos. | [Incrementalidad](../Medicion/incrementalidad.md) |
 | Incrementalidad | La parte de las ventas que no habría ocurrido sin el anuncio o la campaña. | [Incrementalidad](../Medicion/incrementalidad.md) |
 | Lift | La diferencia en el resultado entre el grupo que vio la campaña y el grupo de control: el efecto medido. | [Incrementalidad](../Medicion/incrementalidad.md) |
+| Contrafáctico | Lo que habría pasado sin la campaña; el grupo de control lo estima. | [Incrementalidad](../Medicion/incrementalidad.md) |
 | Holdout | Un grupo de personas elegido al azar al que no se le muestra el anuncio, para comparar contra los expuestos. | [Incrementalidad](../Medicion/incrementalidad.md) |
 | Geo-lift (experimento geográfico) | Un experimento que asigna regiones, no personas, a recibir o no la campaña, y compara sus ventas. | [Incrementalidad](../Medicion/incrementalidad.md) |
 | MMM (marketing mix modeling) | Un modelo estadístico que estima cuánto aporta cada canal a partir de series agregadas de ventas y gasto. | [Incrementalidad](../Medicion/incrementalidad.md) |

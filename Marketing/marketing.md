@@ -41,6 +41,8 @@ flowchart LR
 - [Comunicación](Comunicacion/comunicacion.md) — cómo se arma el mensaje y por qué persuade, desde la economía del comportamiento hasta la respuesta directa.
 - [Medición](Medicion/medicion.md) — qué número mirar en cada etapa, si la unidad de negocio cierra y si un canal causa ventas o solo las registra.
 
+Aparte de las seis partes, [Fundamentos](Fundamentos/fundamentos.md) reúne lo que las cruza a todas: el [glosario](Fundamentos/glosario-de-marketing.md), las [escuelas](Fundamentos/escuelas-de-marketing.md), las [fuentes](Fundamentos/fuentes-de-marketing.md) y los [mitos](Fundamentos/mitos-de-marketing.md) que la evidencia desmiente.
+
 ## Las cinco ideas que cambian cómo se lo ve
 
 ```mermaid
