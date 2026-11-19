@@ -32,7 +32,7 @@ resetear.
 
 ## Antes de empezar
 
-- Entender qué modo de [[cilium]], el plugin de red (CNI) que conecta los pods, conviene: túnel o ruteo nativo, con o sin kube-proxy.
+- Entender qué modo de [Cilium](cilium.md), el plugin de red (CNI) que conecta los pods, conviene: túnel o ruteo nativo, con o sin kube-proxy.
 - Una máquina de control con Git y Python, y acceso SSH a todos los nodos con un usuario que use
   sudo sin contraseña.
 - Nodos con un sistema soportado por la versión de Kubespray elegida (la lista está en su README;
@@ -54,7 +54,7 @@ resetear.
 4. **Variables del clúster**: en `inventory/micluster/group_vars/k8s_cluster/k8s-cluster.yml` poné
    `kube_network_plugin: cilium`.
 5. **Variables de Cilium**: en `inventory/micluster/group_vars/k8s_cluster/k8s-net-cilium.yml` elegí el modo; los
-   valores están en [[kubespray-variables-cilium]].
+   valores están en [Variables de Cilium en Kubespray](kubespray-variables-cilium.md).
 6. **Desplegar**: corré `ansible-playbook -i inventory/micluster/inventory.ini cluster.yml -b -v`.
 7. **Verificar**: en un control plane, con `sudo` o con `KUBECONFIG=/etc/kubernetes/admin.conf`,
    `kubectl get nodes -o wide` debe mostrar todos los nodos
@@ -74,6 +74,6 @@ termina sin fallas. Para usar kubectl sin sudo, copiá `/etc/kubernetes/admin.co
 
 ## Relaciones
 
-- Requiere: [[cilium]] — hay que elegir el modo de red antes de configurar.
-- Detallado por: [[kubespray-variables-cilium]] — las variables exactas del paso 5.
-- Ver también: Kubespray es un conjunto de playbooks de Ansible; Ansible todavía no tiene nota (pendiente en [[devops]]).
+- Requiere: [Cilium](cilium.md) — hay que elegir el modo de red antes de configurar.
+- Detallado por: [Variables de Cilium en Kubespray](kubespray-variables-cilium.md) — las variables exactas del paso 5.
+- Ver también: Kubespray es un conjunto de playbooks de Ansible; Ansible todavía no tiene nota (pendiente en [DevOps](../DevOps/devops.md)).

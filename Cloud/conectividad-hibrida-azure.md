@@ -42,9 +42,9 @@ el ancho de banda y si el tráfico pasa por internet.
 | **ExpressRoute** | La red propia con Microsoft por un proveedor | Circuito privado, no internet | Ancho de banda estable, latencia predecible, cumplimiento |
 
 - **El gateway** vive en una subred propia (`GatewaySubnet`) de la VNet. Las rutas de la red propia
-  llegan por BGP (ver [[ruteo-en-azure]]).
-- **Gateway transit**: en una [[topologia-hub-and-spoke]], el gateway está en el hub y cada spoke
-  activa *use remote gateways* en su [[vnet-peering]]. Una VNet tiene un solo gateway, propio o
+  llegan por BGP (ver [Ruteo en Azure](ruteo-en-azure.md)).
+- **Gateway transit**: en una [Topología hub-and-spoke](topologia-hub-and-spoke.md), el gateway está en el hub y cada spoke
+  activa *use remote gateways* en su [VNet peering](vnet-peering.md). Una VNet tiene un solo gateway, propio o
   remoto.
 - **SKU**: los SKU de VPN Gateway sin redundancia de zona (VpnGw1 a VpnGw5) no se pueden crear
   desde noviembre de 2025 y se migran a los AZ (VpnGw1AZ a VpnGw5AZ). El SKU Basic sigue, sin BGP.
@@ -57,12 +57,12 @@ IP privada, sin gateway propio.
 
 ## No confundir con
 
-El [[vnet-peering]], que une dos VNets de Azure por el backbone de Microsoft sin gateway. La
+El [VNet peering](vnet-peering.md), que une dos VNets de Azure por el backbone de Microsoft sin gateway. La
 conectividad híbrida une Azure con una red que no es de Azure.
 
 ## Relaciones
 
-- Requiere: [[virtual-network-azure]] — el gateway vive en una subred de la VNet.
-- Usa: [[vnet-peering]] y [[ruteo-en-azure]] — gateway transit y rutas BGP.
-- La usa: [[dns-privado-para-private-link]] — desde la red propia, los nombres `privatelink.*` se
+- Requiere: [Virtual Network (Azure)](virtual-network-azure.md) — el gateway vive en una subred de la VNet.
+- Usa: [VNet peering](vnet-peering.md) y [Ruteo en Azure](ruteo-en-azure.md) — gateway transit y rutas BGP.
+- La usa: [DNS privado para Private Link](dns-privado-para-private-link.md) — desde la red propia, los nombres `privatelink.*` se
   resuelven por este camino.

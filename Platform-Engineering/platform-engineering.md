@@ -22,48 +22,48 @@ desarrollo entreguen software con autonomía, seguridad y menos carga cognitiva;
 las notas de Matías sobre organización de equipos, developer experience, la plataforma interna y
 el diagnóstico Dev–Ops.
 
-Para aprenderlo en orden: [[recorrido-platform-engineering]].
+Para aprenderlo en orden: [Platform engineering desde cero](recorrido-platform-engineering.md).
 
 ## Organización de equipos
 
-- [[ley-de-conway]] — por qué el sistema copia la comunicación entre equipos; es la base del resto del grupo.
-- [[maniobra-inversa-de-conway]] — cómo diseñar los equipos para obtener la arquitectura buscada.
-- [[numero-de-dunbar]] — cuánta gente cabe en un equipo y en un grupo de equipos.
-- [[team-first]] — por qué el equipo estable, y no la persona, es la unidad de entrega.
-- [[team-topologies]] — el modelo de cuatro tipos de equipo y tres modos de interacción.
-- [[stream-aligned-team]] — el equipo principal, que entrega de punta a punta.
-- [[platform-team]] — el equipo que ofrece capacidades internas como producto.
-- [[modo-de-interaccion-entre-equipos]] — qué esperar de la relación entre dos equipos.
+- [Ley de Conway](ley-de-conway.md) — por qué el sistema copia la comunicación entre equipos; es la base del resto del grupo.
+- [Maniobra inversa de Conway](maniobra-inversa-de-conway.md) — cómo diseñar los equipos para obtener la arquitectura buscada.
+- [Número de Dunbar](numero-de-dunbar.md) — cuánta gente cabe en un equipo y en un grupo de equipos.
+- [Team-first](team-first.md) — por qué el equipo estable, y no la persona, es la unidad de entrega.
+- [Team Topologies](team-topologies.md) — el modelo de cuatro tipos de equipo y tres modos de interacción.
+- [Stream-aligned team](stream-aligned-team.md) — el equipo principal, que entrega de punta a punta.
+- [Platform team](platform-team.md) — el equipo que ofrece capacidades internas como producto.
+- [Modo de interacción entre equipos](modo-de-interaccion-entre-equipos.md) — qué esperar de la relación entre dos equipos.
 
 ## Developer experience
 
-- [[developer-experience]] — qué es DevEx y sus tres dimensiones.
-- [[carga-cognitiva]] — los tres tipos de carga y las técnicas para reducirla.
-- [[mechanical-sympathy]] — por qué no conviene ocultarle todo al desarrollador.
+- [Developer experience](developer-experience.md) — qué es DevEx y sus tres dimensiones.
+- [Carga cognitiva](carga-cognitiva.md) — los tres tipos de carga y las técnicas para reducirla.
+- [Mechanical sympathy](mechanical-sympathy.md) — por qué no conviene ocultarle todo al desarrollador.
 
 ## La plataforma interna
 
-- [[internal-developer-platform]] — qué es una IDP y de qué partes se compone; la puerta de entrada al grupo.
-- [[plataforma-como-producto]] — qué cambia al tratar la plataforma como producto.
-- [[capacidad-de-plataforma]] — la unidad de lo que ofrece la plataforma, separada de la tecnología.
-- [[self-service]] — qué hace que pedir un recurso no necesite un ticket.
-- [[plataforma-api-first]] — por qué cada capacidad se expone primero como API.
-- [[gobernanza-de-plataforma]] — cómo se da autonomía sin perder control ni trazabilidad.
-- [[golden-path]] — el camino estándar con plantillas para lo común.
-- [[developer-portal]] — la interfaz web de la plataforma, como Backstage.
-- [[crossplane]] — cómo ofrecer infraestructura como APIs declarativas sobre Kubernetes.
+- [Internal Developer Platform](internal-developer-platform.md) — qué es una IDP y de qué partes se compone; la puerta de entrada al grupo.
+- [Plataforma como producto](plataforma-como-producto.md) — qué cambia al tratar la plataforma como producto.
+- [Capacidad de plataforma](capacidad-de-plataforma.md) — la unidad de lo que ofrece la plataforma, separada de la tecnología.
+- [Self-service](self-service.md) — qué hace que pedir un recurso no necesite un ticket.
+- [Plataforma API-first](plataforma-api-first.md) — por qué cada capacidad se expone primero como API.
+- [Gobernanza de plataforma](gobernanza-de-plataforma.md) — cómo se da autonomía sin perder control ni trazabilidad.
+- [Golden path](golden-path.md) — el camino estándar con plantillas para lo común.
+- [Developer portal](developer-portal.md) — la interfaz web de la plataforma, como Backstage.
+- [Crossplane](crossplane.md) — cómo ofrecer infraestructura como APIs declarativas sobre Kubernetes.
 
 ## Operar la plataforma
 
-- [[observabilidad]] — qué permite entender un sistema desde sus métricas, logs y traces, y en qué se diferencia del monitoreo.
-- [[observability-driven-development]] — cómo hacer de la telemetría y las alertas un criterio de aceptación de cada ítem del backlog.
+- [Observabilidad](observabilidad.md) — qué permite entender un sistema desde sus métricas, logs y traces, y en qué se diferencia del monitoreo.
+- [Observability-driven development](observability-driven-development.md) — cómo hacer de la telemetría y las alertas un criterio de aceptación de cada ítem del backlog.
 
 ## Diagnóstico Dev–Ops
 
-- [[devops-topologies]] — los nueve Types y ocho Anti-Types de la relación Dev–Ops.
-- [[anti-patron-equipo-devops]] — por qué un equipo "DevOps" intermedio se vuelve cuello de botella.
-- [[evaluar-la-colaboracion-dev-ops]] — los pasos para diagnosticar una organización con entrevistas.
-- [[cuestionario-de-colaboracion-dev-ops]] — las 42 preguntas y la rúbrica, para usar en las entrevistas.
+- [DevOps Topologies](devops-topologies.md) — los nueve Types y ocho Anti-Types de la relación Dev–Ops.
+- [Anti-patrón del equipo DevOps](anti-patron-equipo-devops.md) — por qué un equipo "DevOps" intermedio se vuelve cuello de botella.
+- [Evaluar la colaboración Dev–Ops de una organización](evaluar-la-colaboracion-dev-ops.md) — los pasos para diagnosticar una organización con entrevistas.
+- [Cuestionario de colaboración Dev–Ops](cuestionario-de-colaboracion-dev-ops.md) — las 42 preguntas y la rúbrica, para usar en las entrevistas.
 
 ## Pendiente
 

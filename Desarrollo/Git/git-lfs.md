@@ -27,7 +27,7 @@ repositorio y deja en su lugar un archivo puntero chico, versionado como cualqui
 
 ## Por qué importa
 
-Git guarda cada versión de cada archivo para siempre (ver [[modelo-de-objetos-de-git]]). Un
+Git guarda cada versión de cada archivo para siempre (ver [Modelo de objetos de Git](modelo-de-objetos-de-git.md)). Un
 `.psd` de 200 MB editado diez veces suma unos 2 GB al historial, y todo clon los descarga, aunque
 solo necesite la última versión. Los binarios casi no se comprimen por deltas, así que el
 repositorio crece con cada cambio.
@@ -52,7 +52,7 @@ lo libera.
 
 **Migrar un repo existente**: `git lfs track` solo afecta a lo que se agrega desde ese momento.
 Para mover archivos que ya están en el historial, `git lfs migrate import --include="*.psd"`
-reescribe los commits del branch actual (con `--everything`, los de todos los branches y tags), con las mismas consecuencias que un [[rebase]] sobre branches compartidos.
+reescribe los commits del branch actual (con `--everything`, los de todos los branches y tags), con las mismas consecuencias que un [Rebase](rebase.md) sobre branches compartidos.
 
 ## Ejemplo
 
@@ -73,5 +73,5 @@ cambian junto con el código, como diseños o datos de prueba; los binarios que 
 
 ## Relaciones
 
-- Requiere: [[modelo-de-objetos-de-git]] — explica por qué un binario grande pesa en cada clon.
-- Relacionado: [[git-en-repositorios-grandes]] — LFS es una de las técnicas para que un repositorio grande siga siendo usable.
+- Requiere: [Modelo de objetos de Git](modelo-de-objetos-de-git.md) — explica por qué un binario grande pesa en cada clon.
+- Relacionado: [Git en repositorios grandes](git-en-repositorios-grandes.md) — LFS es una de las técnicas para que un repositorio grande siga siendo usable.

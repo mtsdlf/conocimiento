@@ -27,7 +27,7 @@ de un CSV, separar salida y errores, renombrar en lote.
 ## Fuente
 
 Recetas propias; cada comando se documenta en su página de manual (`man awk`, `man sort`). La
-sintaxis de pipes y redirecciones está en [[pipe-y-redireccion]].
+sintaxis de pipes y redirecciones está en [Pipe y redirección](pipe-y-redireccion.md).
 
 ## Valores
 
@@ -107,4 +107,4 @@ el motivo.
 
 ## Relaciones
 
-- Detalla y requiere: [[pipe-y-redireccion]] — la sintaxis que usan todas las recetas.
+- Detalla y requiere: [Pipe y redirección](pipe-y-redireccion.md) — la sintaxis que usan todas las recetas.

@@ -31,7 +31,7 @@ diff y log, tags, bisect, submódulos, firma, plumbing y mantenimiento.
 La referencia completa de cada comando está en [git-scm.com/docs](https://git-scm.com/docs);
 `git <comando> --help` abre la misma página. Esta ficha agrupa los usos comunes, verificados
 contra esa documentación el 2026-10-03. Deshacer y recuperar está en
-[[recuperar-trabajo-perdido-en-git]].
+[Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md).
 
 ## Valores
 
@@ -104,4 +104,4 @@ Para reescribir la historia en masa (sacar un archivo de todos los commits), la 
 
 ## Relaciones
 
-- Detalla: [[modelo-de-objetos-de-git]], [[branch-git]], [[merge-de-tres-vias]] y [[rebase]] — los conceptos detrás de estos comandos.
+- Detalla: [Modelo de objetos de Git](modelo-de-objetos-de-git.md), [Branch (Git)](branch-git.md), [Merge de tres vías](merge-de-tres-vias.md) y [Rebase](rebase.md) — los conceptos detrás de estos comandos.

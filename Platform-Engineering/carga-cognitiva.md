@@ -53,8 +53,8 @@ Según Effective Platform Engineering, se mide de forma subjetiva (los desarroll
 estado) o cuantitativa (mediciones estructuradas), y se reduce con tres técnicas:
 
 - **aceleradores**: formas estándar y automatizadas de usar la plataforma, como un
-  [[golden-path]];
-- **una fuente central** de documentación, recursos y feedback, como un [[developer-portal]];
+  [Golden path](golden-path.md);
+- **una fuente central** de documentación, recursos y feedback, como un [Developer portal](developer-portal.md);
 - **democratizar los datos**: los mismos datos en todo el ciclo de vida, como trazas
   distribuidas que muestran dónde se traba un request.
 
@@ -67,10 +67,10 @@ servicio desplegar y cómo se comporta.
 ## No confundir con
 
 Ocultarle todo al desarrollador. Una plataforma que esconde por completo el sistema de abajo le
-quita también lo que necesita entender para escribir buen código: eso es [[mechanical-sympathy]].
+quita también lo que necesita entender para escribir buen código: eso es [Mechanical sympathy](mechanical-sympathy.md).
 
 ## Relaciones
 
-- Parte de: [[developer-experience]] — es una de sus tres dimensiones.
-- Relacionado: [[mechanical-sympathy]] — marca hasta dónde conviene reducir la carga.
-- Base de: [[team-topologies]] y [[golden-path]].
+- Parte de: [Developer experience](developer-experience.md) — es una de sus tres dimensiones.
+- Relacionado: [Mechanical sympathy](mechanical-sympathy.md) — marca hasta dónde conviene reducir la carga.
+- Base de: [Team Topologies](team-topologies.md) y [Golden path](golden-path.md).

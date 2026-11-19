@@ -62,8 +62,8 @@ regenera desde lo que aprendió.
 
 ## Relaciones
 
-- Parte de: [[conceptos-ia]] — Mapa del Tema IA.
-- Base de: [[mixture-of-experts]] — una arquitectura para hacer LLM más grandes sin más cómputo
+- Parte de: [IA](conceptos-ia.md) — Mapa del Tema IA.
+- Base de: [Mixture of experts](mixture-of-experts.md) — una arquitectura para hacer LLM más grandes sin más cómputo
   por token.
-- Base de: [[guardrails]] — las capas que acotan lo que un LLM emite, justamente porque no
+- Base de: [Guardrails de LLM](guardrails.md) — las capas que acotan lo que un LLM emite, justamente porque no
   garantiza que sea correcto.

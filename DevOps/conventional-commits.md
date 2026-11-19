@@ -29,7 +29,7 @@ permite calcular la próxima versión y generar el changelog de forma automátic
 ## Por qué importa
 
 Si el mensaje dice qué tipo de cambio es, una herramienta puede decidir el próximo número de
-[[versionado-semantico]] sin que nadie lo elija a mano. El changelog sale agrupado por tipo, y en
+[Versionado semántico](versionado-semantico.md) sin que nadie lo elija a mano. El changelog sale agrupado por tipo, y en
 un PR se ve de un vistazo qué cambia.
 
 ## Cómo funciona
@@ -79,6 +79,6 @@ cambio. Un commit `feat` mal etiquetado produce una versión equivocada igual.
 
 ## Relaciones
 
-- Requiere: [[versionado-semantico]] — la numeración que los tipos de commit alimentan.
-- Relacionado: [[gobernanza-de-repositorios]] — el formato del mensaje se exige como check obligatorio.
-- Relacionado: [[trazabilidad-de-cambios]] — el tipo y el alcance del commit explican cada versión.
+- Requiere: [Versionado semántico](versionado-semantico.md) — la numeración que los tipos de commit alimentan.
+- Relacionado: [Gobernanza de repositorios](gobernanza-de-repositorios.md) — el formato del mensaje se exige como check obligatorio.
+- Relacionado: [Trazabilidad de cambios](trazabilidad-de-cambios.md) — el tipo y el alcance del commit explican cada versión.

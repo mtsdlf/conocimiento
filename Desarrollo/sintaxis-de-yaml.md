@@ -99,5 +99,5 @@ bloques que de verdad se repiten.
 
 ## Relaciones
 
-- Detalla: [[yaml]] — el concepto y el modelo de datos.
-- Ver también: [[resilience4j-en-spring-boot]] (Arquitectura) — un `application.yml` real.
+- Detalla: [YAML](yaml.md) — el concepto y el modelo de datos.
+- Ver también: [Proteger un cliente HTTP con Resilience4j en Spring Boot](../Arquitectura/resilience4j-en-spring-boot.md) (Arquitectura) — un `application.yml` real.

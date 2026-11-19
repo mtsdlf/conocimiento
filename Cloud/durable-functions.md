@@ -28,7 +28,7 @@ funciones sin estado resuelven mal.
 
 ## Por qué importa
 
-Una función de [[azure-functions]] no recuerda nada entre ejecuciones. Para encadenar pasos,
+Una función de [Azure Functions](azure-functions.md) no recuerda nada entre ejecuciones. Para encadenar pasos,
 esperar a una persona o juntar resultados en paralelo, sin esta extensión hay que coordinar colas,
 tablas de estado y timeouts a mano. Durable Functions guarda el progreso del flujo y lo retoma
 después de un reinicio o de una espera larga.
@@ -73,4 +73,4 @@ conectores. Durable Functions se escribe en código (C#, JavaScript, Python, Jav
 
 ## Relaciones
 
-- Parte de y requiere: [[azure-functions]] — es una extensión de Functions y corre en sus planes.
+- Parte de y requiere: [Azure Functions](azure-functions.md) — es una extensión de Functions y corre en sus planes.

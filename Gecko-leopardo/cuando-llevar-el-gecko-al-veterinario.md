@@ -33,17 +33,17 @@ Cómo decidir si un gecko leopardo necesita un veterinario de exóticos ya, a pa
 
 ## Antes de empezar
 
-- Tené a mano el peso y las notas recientes de [[revisar-pesar-y-registrar|revisar, pesar y registrar]]: la pérdida sostenida de peso es una señal en sí misma.
+- Tené a mano el peso y las notas recientes de [revisar, pesar y registrar](revisar-pesar-y-registrar.md): la pérdida sostenida de peso es una señal en sí misma.
 - Buscá de antemano un veterinario que atienda reptiles; un animal enfermo consulta tarde.
 
 ## Pasos
 
-1. Mirá primero si hay una señal de las que no se espera: mandíbula o patas blandas, fracturas, temblores o signos neurológicos, prolapso, tetania. Si aparece alguna, andá al veterinario (ver [[enfermedad-metabolica-osea|enfermedad metabólica ósea]]).
+1. Mirá primero si hay una señal de las que no se espera: mandíbula o patas blandas, fracturas, temblores o signos neurológicos, prolapso, tetania. Si aparece alguna, andá al veterinario (ver [enfermedad metabólica ósea](enfermedad-metabolica-osea.md)).
 2. Si el animal está colapsado o débil, sobre todo si podría tener huevos retenidos, no esperes.
-3. Revisá ojos y piel: cualquier ojo cerrado, turbio o con secreción, o piel retenida en dedos o cabeza, se consulta ([[problemas-oculares|problemas oculares]], [[retencion-de-muda|retención de muda]]).
-4. Si hay pérdida de peso sostenida, anorexia o diarrea, consultá antes de que avance ([[criptosporidiosis|criptosporidiosis]]).
+3. Revisá ojos y piel: cualquier ojo cerrado, turbio o con secreción, o piel retenida en dedos o cabeza, se consulta ([problemas oculares](problemas-oculares.md), [retención de muda](retencion-de-muda.md)).
+4. Si hay pérdida de peso sostenida, anorexia o diarrea, consultá antes de que avance ([criptosporidiosis](criptosporidiosis.md)).
 5. Si la base de la cola está hinchada y hace esfuerzo, consultá (infección de hemipene, según una sola fuente).
-6. Si sospechás una obstrucción por sustrato, no esperes a que se note: el curso es silencioso ([[impactacion|impactación]]).
+6. Si sospechás una obstrucción por sustrato, no esperes a que se note: el curso es silencioso ([impactación](impactacion.md)).
 
 ## Cómo saber que salió
 
@@ -54,8 +54,8 @@ El veterinario tiene un cuadro claro de qué viste y desde cuándo; si es una de
 - Un plazo de ayuno que justifique la consulta no tiene fuente.
 
 > [!NOTE]
-> Sin fuente todavía: cuántos días sin comer justifican ir al veterinario sin otros síntomas, y cómo distinguir la baja de apetito invernal de la enfermedad (ver [[brumacion|brumación]]).
+> Sin fuente todavía: cuántos días sin comer justifican ir al veterinario sin otros síntomas, y cómo distinguir la baja de apetito invernal de la enfermedad (ver [brumación](brumacion.md)).
 
 ## Relaciones
 
-- Requiere: [[revisar-pesar-y-registrar|revisar, pesar y registrar]] — sin registro no se nota la pérdida de peso ni los cambios del cuerpo.
+- Requiere: [revisar, pesar y registrar](revisar-pesar-y-registrar.md) — sin registro no se nota la pérdida de peso ni los cambios del cuerpo.

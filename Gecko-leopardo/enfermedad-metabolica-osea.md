@@ -30,7 +30,7 @@ idioma: es
 Enfermedad del hueso por mal manejo del calcio, la vitamina D3, la luz y el calor: ablanda la mandíbula y las patas, causa fracturas y, avanzada, tiembla y mata.
 
 > [!NOTE]
-> La base no es consejo veterinario. Ante cualquier señal de esta nota, [[cuando-llevar-el-gecko-al-veterinario|la consulta al veterinario de exóticos]] va primero.
+> La base no es consejo veterinario. Ante cualquier señal de esta nota, [la consulta al veterinario de exóticos](cuando-llevar-el-gecko-al-veterinario.md) va primero.
 
 ## Cómo se reconoce
 
@@ -40,9 +40,9 @@ Enfermedad del hueso por mal manejo del calcio, la vitamina D3, la luz y el calo
 
 ## Por qué pasa
 
-Merck la llama "una enfermedad de mal manejo": relación calcio:fósforo baja, déficit de D3, falta de UVB o calor inadecuado. Vet Times coincide (calcio, UVB, suplementación o calor insuficientes). Es la única afirmación de esta nota con dos fuentes independientes. El mecanismo del calcio y la D3 está en [[calcio-y-vitamina-d3|calcio y vitamina D3]].
+Merck la llama "una enfermedad de mal manejo": relación calcio:fósforo baja, déficit de D3, falta de UVB o calor inadecuado. Vet Times coincide (calcio, UVB, suplementación o calor insuficientes). Es la única afirmación de esta nota con dos fuentes independientes. El mecanismo del calcio y la D3 está en [calcio y vitamina D3](calcio-y-vitamina-d3.md).
 
-La luz no es el único camino. En juveniles, un estudio de 6 meses (Oonincx et al. 2020) mostró que la D3 en la dieta bastó para crecer sin síntomas, con o sin UVB. Ese debate está en [[uvb-si-o-no|UVB sí o no]].
+La luz no es el único camino. En juveniles, un estudio de 6 meses (Oonincx et al. 2020) mostró que la D3 en la dieta bastó para crecer sin síntomas, con o sin UVB. Ese debate está en [UVB sí o no](uvb-si-o-no.md).
 
 ## Qué hacer
 
@@ -51,7 +51,7 @@ La luz no es el único camino. En juveniles, un estudio de 6 meses (Oonincx et a
 - **Pronóstico**: según una sola fuente (Vet Times), los casos leves se tratan con calcio oral, vitamina D, UVB y temperaturas correctas, y los avanzados se eutanasian. El tratamiento lo indica el veterinario; esta nota no da dosis.
 
 > [!NOTE]
-> Sin fuente todavía: prevalencia de la enfermedad en geckos leopardo. El único dato clínico cuantitativo de la especie en las fuentes leídas es oftálmico (ver [[problemas-oculares|problemas oculares]]).
+> Sin fuente todavía: prevalencia de la enfermedad en geckos leopardo. El único dato clínico cuantitativo de la especie en las fuentes leídas es oftálmico (ver [problemas oculares](problemas-oculares.md)).
 
 ## Para profundizar
 
@@ -59,4 +59,4 @@ La luz no es el único camino. En juveniles, un estudio de 6 meses (Oonincx et a
 
 ## Relaciones
 
-- Requiere: [[calcio-y-vitamina-d3|calcio y vitamina D3]] — la enfermedad es la falla de ese mecanismo.
+- Requiere: [calcio y vitamina D3](calcio-y-vitamina-d3.md) — la enfermedad es la falla de ese mecanismo.

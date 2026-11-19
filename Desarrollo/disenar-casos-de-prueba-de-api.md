@@ -28,9 +28,9 @@ categorías que hay que cubrir, del camino feliz a la concurrencia.
 ## Antes de empezar
 
 - Tener el contrato de la API (OpenAPI o equivalente) y los criterios de aceptación de cada
-  [[historia-de-usuario]].
-- Si la API es multi-tenant o acepta reintentos, entender [[multi-tenancy]] y
-  [[clave-de-idempotencia]]: generan categorías propias.
+  [Historia de usuario](historia-de-usuario.md).
+- Si la API es multi-tenant o acepta reintentos, entender [Multi-tenancy](../Arquitectura/multi-tenancy.md) y
+  [Clave de idempotencia](../Arquitectura/clave-de-idempotencia.md): generan categorías propias.
 
 ## Pasos
 
@@ -74,6 +74,6 @@ código de estado.
 
 ## Relaciones
 
-- Requiere: [[clave-de-idempotencia]] (Arquitectura) — la categoría de idempotencia.
-- Requiere: [[multi-tenancy]] (Arquitectura) — la categoría de aislamiento entre tenants.
-- Relacionado: [[historia-de-usuario]] — de sus criterios de aceptación salen los casos.
+- Requiere: [Clave de idempotencia](../Arquitectura/clave-de-idempotencia.md) (Arquitectura) — la categoría de idempotencia.
+- Requiere: [Multi-tenancy](../Arquitectura/multi-tenancy.md) (Arquitectura) — la categoría de aislamiento entre tenants.
+- Relacionado: [Historia de usuario](historia-de-usuario.md) — de sus criterios de aceptación salen los casos.

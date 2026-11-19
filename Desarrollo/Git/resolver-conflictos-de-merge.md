@@ -29,7 +29,7 @@ continuar o abortar, y automatizar los conflictos repetidos con rerere y merge d
 
 ## Antes de empezar
 
-- Entender qué son base, ours y theirs: [[merge-de-tres-vias]].
+- Entender qué son base, ours y theirs: [Merge de tres vías](merge-de-tres-vias.md).
 - Activar una vez el estilo que muestra también la base, que hace legibles los conflictos:
   `git config --global merge.conflictStyle zdiff3` (desde Git 2.35; antes, `diff3`).
 
@@ -91,5 +91,5 @@ padres (en un rebase, los commits reaplicados en línea), y las pruebas pasan so
 
 ## Relaciones
 
-- Requiere: [[merge-de-tres-vias]] — el conflicto es lo que queda sin resolver en las tres vías.
-- Ver también: [[rebase]] — un rebase genera los mismos conflictos, commit por commit.
+- Requiere: [Merge de tres vías](merge-de-tres-vias.md) — el conflicto es lo que queda sin resolver en las tres vías.
+- Ver también: [Rebase](rebase.md) — un rebase genera los mismos conflictos, commit por commit.

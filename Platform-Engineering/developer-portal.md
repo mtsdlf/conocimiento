@@ -44,11 +44,11 @@ tres piezas centrales:
 - **catálogo de software**: todos los servicios, librerías, pipelines de datos y modelos, con su
   dueño;
 - **plantillas de software**: para crear proyectos nuevos según las prácticas de la organización,
-  que es donde viven los [[golden-path|golden paths]];
+  que es donde viven los [golden paths](golden-path.md);
 - **TechDocs**: documentación escrita como código, junto al repositorio.
 
 El portal no tiene lógica de negocio propia: consume las APIs de la plataforma
-([[plataforma-api-first]]). Como inferencia: si el portal crea recursos por su cuenta, la CLI y
+([Plataforma API-first](plataforma-api-first.md)). Como inferencia: si el portal crea recursos por su cuenta, la CLI y
 la automatización no pueden hacer lo mismo y las reglas quedan duplicadas.
 
 ## Ejemplo
@@ -59,11 +59,11 @@ de API en Java.
 
 ## No confundir con
 
-La [[internal-developer-platform]] entera. El portal es una ventana a la plataforma; quitarlo no
+La [Internal Developer Platform](internal-developer-platform.md) entera. El portal es una ventana a la plataforma; quitarlo no
 debería impedir pedir un recurso por la CLI o la API.
 
 ## Relaciones
 
-- Parte de: [[internal-developer-platform]] — una de sus interfaces.
-- Relacionado: [[plataforma-api-first]] — el portal es una presentación de esas APIs.
-- Relacionado: [[golden-path]] — las plantillas que el portal ofrece.
+- Parte de: [Internal Developer Platform](internal-developer-platform.md) — una de sus interfaces.
+- Relacionado: [Plataforma API-first](plataforma-api-first.md) — el portal es una presentación de esas APIs.
+- Relacionado: [Golden path](golden-path.md) — las plantillas que el portal ofrece.

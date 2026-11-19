@@ -52,8 +52,8 @@ documentación.
 
 | Concepto | GA4 | Amplitude | Mixpanel | PostHog |
 |---|---|---|---|---|
-| [[retencion-de-n-dias]] | Estándar | Return On (N-day) | On | On (por defecto) |
-| [[retencion-unbounded]] | — | Return On or After | On or After (por defecto) | On or after |
+| [Retención de N días](retencion-de-n-dias.md) | Estándar | Return On (N-day) | On | On (por defecto) |
+| [Retención unbounded](retencion-unbounded.md) | — | Return On or After | On or After (por defecto) | On or after |
 | Volver en todos los períodos hasta N | Rolling | — | — | — |
 | Volver en algún período hasta N | Cumulative | — | — | — |
 
@@ -64,6 +64,6 @@ de un resumen de búsqueda, no de la página, y falta verificarlo.
 
 ## Relaciones
 
-- Detalla: [[tasa-de-retencion-por-cohorte]] — dónde se calcula en cada herramienta.
-- Detalla: [[retencion-de-n-dias]] y [[retencion-unbounded]] — cómo se llama cada variante en
+- Detalla: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — dónde se calcula en cada herramienta.
+- Detalla: [Retención de N días](retencion-de-n-dias.md) y [Retención unbounded](retencion-unbounded.md) — cómo se llama cada variante en
   cada herramienta.

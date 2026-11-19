@@ -47,7 +47,7 @@ corta la fuga de datos hacia destinos no autorizados.
 - **Logs de acceso**: se envían por diagnostic settings a Log Analytics o Storage.
 - **Estado**: disponible en todas las regiones públicas. La lista de servicios incorporados y su
   estado (GA o preview) cambia; está en la sección *Onboarded private link resources* de la doc.
-- **Límite**: no admite tráfico por [[service-endpoint]].
+- **Límite**: no admite tráfico por [Service endpoint](service-endpoint.md).
 
 ## Ejemplo
 
@@ -57,9 +57,9 @@ agrega esa regla de entrada y se pasa a Enforced.
 
 ## No confundir con
 
-El [[private-endpoint]], que da una IP privada dentro de una VNet para llegar a un recurso. El
+El [Private endpoint](private-endpoint.md), que da una IP privada dentro de una VNet para llegar a un recurso. El
 perímetro no mete al recurso en ninguna red: controla su acceso público. Se pueden usar juntos.
 
 ## Relaciones
 
-- Relacionado: [[private-endpoint]] — la otra forma de cerrar el acceso público a un PaaS.
+- Relacionado: [Private endpoint](private-endpoint.md) — la otra forma de cerrar el acceso público a un PaaS.

@@ -40,20 +40,20 @@ Las estrategias se distinguen por cuántas ramas de larga vida tienen:
 
 | Estrategia | Ramas de larga vida | Encaja con |
 |---|---|---|
-| [[trunk-based-development]] | solo `main` | despliegue varias veces por día |
+| [Trunk-based development](trunk-based-development.md) | solo `main` | despliegue varias veces por día |
 | GitHub Flow | solo `main`; cada cambio en una rama corta con PR | servicios web que despliegan al mergear |
 | GitLab Flow | `main` y ramas por entorno (`preprod`, `production`) | promoción controlada por etapas |
-| [[gitflow]] | `main` y `develop`, más ramas de release y hotfix | software con versiones programadas |
+| [Gitflow](gitflow.md) | `main` y `develop`, más ramas de release y hotfix | software con versiones programadas |
 
 Fowler desaconseja las ramas por entorno: la diferencia entre entornos conviene que viva en la
-configuración, no en ramas distintas. En [[gitops]] la promoción entre entornos se hace por
-carpeta o por rama del repo de configuración; ver [[promocion-entre-entornos]].
+configuración, no en ramas distintas. En [GitOps](gitops.md) la promoción entre entornos se hace por
+carpeta o por rama del repo de configuración; ver [Promoción entre entornos](promocion-entre-entornos.md).
 
 **Rebase o merge como política de equipo**: rebasar es reaplicar los commits propios encima de
 la punta actual de `main`. Una regla habitual es rebasar la rama propia antes del PR, para que el
 historial quede lineal y el PR muestre solo los cambios propios, y no reescribir nunca una rama
 compartida. El merge final puede ser un merge commit (conserva los commits de la rama) o un
-squash (junta todos los commits del PR en uno solo). La mecánica de cada operación está en [[git]].
+squash (junta todos los commits del PR en uno solo). La mecánica de cada operación está en [Git](../Desarrollo/Git/git.md).
 
 ## Ejemplo
 
@@ -64,13 +64,13 @@ escritorio con versiones trimestrales y varias versiones soportadas elige Gitflo
 ## No confundir con
 
 La convención de nombres de ramas (`feature/<ticket>`). Los nombres son una regla de
-[[gobernanza-de-repositorios]]; la estrategia decide cuántas ramas viven y hacia dónde fluyen
+[Gobernanza de repositorios](gobernanza-de-repositorios.md); la estrategia decide cuántas ramas viven y hacia dónde fluyen
 los cambios.
 
 ## Relaciones
 
-- Casos: [[trunk-based-development]] — la estrategia de una sola rama de larga vida.
-- Casos: [[gitflow]] — la estrategia de ramas de release y hotfix.
-- Relacionado: [[gobernanza-de-repositorios]] — las reglas que protegen las ramas que la estrategia define.
-- Relacionado: [[versionado-semantico]] — el número que reciben los tags de las ramas que se publican.
-- Ver también: [[integracion-continua]] — la práctica que exige integrar seguido a la rama principal.
+- Casos: [Trunk-based development](trunk-based-development.md) — la estrategia de una sola rama de larga vida.
+- Casos: [Gitflow](gitflow.md) — la estrategia de ramas de release y hotfix.
+- Relacionado: [Gobernanza de repositorios](gobernanza-de-repositorios.md) — las reglas que protegen las ramas que la estrategia define.
+- Relacionado: [Versionado semántico](versionado-semantico.md) — el número que reciben los tags de las ramas que se publican.
+- Ver también: [Integración continua](integracion-continua.md) — la práctica que exige integrar seguido a la rama principal.

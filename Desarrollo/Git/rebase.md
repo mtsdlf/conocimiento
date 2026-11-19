@@ -42,11 +42,11 @@ tenía, sus copias quedan huérfanas.
 1. busca el ancestro común de `feature` y `main`;
 2. toma cada commit de `feature` posterior a ese ancestro como un parche;
 3. lo aplica, uno por uno, sobre la punta de `main`, y crea un commit nuevo con otro padre y, por
-   lo tanto, otro hash (ver [[modelo-de-objetos-de-git]]);
+   lo tanto, otro hash (ver [Modelo de objetos de Git](modelo-de-objetos-de-git.md));
 4. mueve `feature` al último commit nuevo.
 
 Los commits viejos no se borran: siguen en el reflog hasta que vence. Por eso un rebase mal hecho
-se deshace; ver [[recuperar-trabajo-perdido-en-git]].
+se deshace; ver [Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md).
 
 La regla de Pro Git: no se rebasan commits que ya existen fuera del repositorio propio y sobre los
 que otros pudieron basar trabajo. Si hay que publicar un branch propio rebasado, se usa
@@ -75,13 +75,13 @@ git push --force-with-lease       # el branch es solo mío: se puede reescribir
 
 ## No confundir con
 
-Un [[merge-de-tres-vias]]. El merge no toca los commits existentes y agrega uno que une los dos
+Un [Merge de tres vías](merge-de-tres-vias.md). El merge no toca los commits existentes y agrega uno que une los dos
 historiales; es seguro sobre branches compartidos. El rebase da un historial lineal a cambio de
 reescribir.
 
 ## Relaciones
 
-- Requiere: [[branch-git]] — un rebase mueve un branch a commits nuevos.
-- Relacionado: [[merge-de-tres-vias]] — la otra forma de integrar, sin reescribir.
-- Ver también: [[resolver-conflictos-de-merge]] — un rebase puede parar en cada commit con un conflicto.
-- Ver también: [[estrategia-de-branching]] (DevOps) — rebasar antes del PR como política de equipo.
+- Requiere: [Branch (Git)](branch-git.md) — un rebase mueve un branch a commits nuevos.
+- Relacionado: [Merge de tres vías](merge-de-tres-vias.md) — la otra forma de integrar, sin reescribir.
+- Ver también: [Resolver conflictos de merge](resolver-conflictos-de-merge.md) — un rebase puede parar en cada commit con un conflicto.
+- Ver también: [Estrategia de branching](../../DevOps/estrategia-de-branching.md) (DevOps) — rebasar antes del PR como política de equipo.

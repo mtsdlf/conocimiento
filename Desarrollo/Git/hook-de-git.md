@@ -74,6 +74,6 @@ desarrolla.
 
 ## Relaciones
 
-- Ver también: [[gestion-de-secretos]] (DevOps) — la detección de secretos en pre-commit.
-- Ver también: [[conventional-commits]] (DevOps) — el formato que valida un hook `commit-msg`.
-- Ver también: [[gobernanza-de-repositorios]] (DevOps) — las reglas que imponen los hooks de servidor o la plataforma.
+- Ver también: [Gestión de secretos](../../DevOps/gestion-de-secretos.md) (DevOps) — la detección de secretos en pre-commit.
+- Ver también: [Conventional Commits](../../DevOps/conventional-commits.md) (DevOps) — el formato que valida un hook `commit-msg`.
+- Ver también: [Gobernanza de repositorios](../../DevOps/gobernanza-de-repositorios.md) (DevOps) — las reglas que imponen los hooks de servidor o la plataforma.

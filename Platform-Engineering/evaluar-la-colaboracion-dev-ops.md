@@ -25,8 +25,8 @@ organización y arman el plan para pasar a la siguiente.
 
 ## Antes de empezar
 
-- Conocer los Types y Anti-Types de [[devops-topologies]]: el diagnóstico se expresa en ellos.
-- Tener el [[cuestionario-de-colaboracion-dev-ops]], con sus 12 secciones y la rúbrica.
+- Conocer los Types y Anti-Types de [DevOps Topologies](devops-topologies.md): el diagnóstico se expresa en ellos.
+- Tener el [Cuestionario de colaboración Dev–Ops](cuestionario-de-colaboracion-dev-ops.md), con sus 12 secciones y la rúbrica.
 - Acordar con un sponsor ejecutivo que las respuestas se usan para mejorar, no para evaluar
   personas.
 
@@ -61,5 +61,5 @@ organización y arman el plan para pasar a la siguiente.
 
 ## Relaciones
 
-- Requiere: [[devops-topologies]] — el vocabulario del diagnóstico.
-- Relacionado: [[cuestionario-de-colaboracion-dev-ops]] — el instrumento que se usa en los pasos 2 a 4.
+- Requiere: [DevOps Topologies](devops-topologies.md) — el vocabulario del diagnóstico.
+- Relacionado: [Cuestionario de colaboración Dev–Ops](cuestionario-de-colaboracion-dev-ops.md) — el instrumento que se usa en los pasos 2 a 4.

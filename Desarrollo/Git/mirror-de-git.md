@@ -81,6 +81,6 @@ mirror no recibe commits directos y solo sigue al original.
 
 ## Relaciones
 
-- Requiere: [[branch-git]] — un mirror copia y sincroniza refs.
-- Ver también: [[git-en-repositorios-grandes]] — un mirror local es una de las formas de acelerar los clones.
-- Ver también: [[recuperar-trabajo-perdido-en-git]] — un mirror o un bundle es la última fuente para recuperar un commit.
+- Requiere: [Branch (Git)](branch-git.md) — un mirror copia y sincroniza refs.
+- Ver también: [Git en repositorios grandes](git-en-repositorios-grandes.md) — un mirror local es una de las formas de acelerar los clones.
+- Ver también: [Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md) — un mirror o un bundle es la última fuente para recuperar un commit.

@@ -43,15 +43,15 @@ El proyecto OpenGitOps (CNCF) fija cuatro principios en su versión 1.0.0:
 3. **Traído automáticamente**: agentes de software traen las declaraciones desde la fuente, sin
    que nadie las empuje.
 4. **Reconciliado continuamente**: los agentes observan el estado real y lo llevan al deseado.
-   Ese bucle se explica en [[reconciliacion-gitops]].
+   Ese bucle se explica en [Reconciliación (GitOps)](reconciliacion-gitops.md).
 
 Argo CD recomienda guardar los manifiestos en un repositorio distinto del código de la
 aplicación. Así un cambio de configuración no dispara un build, el historial muestra solo los
 cambios de entorno, y quien programa no necesita permiso para tocar producción.
 
-GitOps es la forma natural de operar una [[internal-developer-platform]]: con
-[[crossplane]], la misma idea declarativa se extiende de las aplicaciones a la infraestructura.
-Los manifiestos suelen salir de la [[infraestructura-como-codigo]].
+GitOps es la forma natural de operar una [Internal Developer Platform](../Platform-Engineering/internal-developer-platform.md): con
+[Crossplane](../Platform-Engineering/crossplane.md), la misma idea declarativa se extiende de las aplicaciones a la infraestructura.
+Los manifiestos suelen salir de la [Infraestructura como código](infraestructura-como-codigo.md).
 
 ## Ejemplo
 
@@ -59,7 +59,7 @@ Un equipo cambia la imagen de su servicio de `v1.2.3` a `v1.2.4` en el repositor
 configuración y abre un PR. Al mergearlo, Argo CD detecta el commit en su siguiente consulta y
 actualiza el Deployment del clúster. Si alguien edita el Deployment a mano, Argo CD lo marca
 como desincronizado y, con self-heal activo (la opción que corrige sola las ediciones manuales),
-lo vuelve al valor de Git. Ese bucle se detalla en [[reconciliacion-gitops]].
+lo vuelve al valor de Git. Ese bucle se detalla en [Reconciliación (GitOps)](reconciliacion-gitops.md).
 
 ## No confundir con
 
@@ -68,9 +68,9 @@ desde un pipeline que empuja. GitOps suma el agente que trae y reconcilia de for
 
 ## Relaciones
 
-- Partes: [[reconciliacion-gitops]] — el bucle que aplica el estado de Git.
-- Partes: [[promocion-entre-entornos]] — cómo un cambio pasa de un entorno al siguiente.
-- Relacionado: [[devsecops]] — los PR de GitOps son el punto donde se aplican los controles de seguridad.
-- Relacionado: [[gestion-de-secretos]] — Git no puede guardar secretos en claro, y GitOps necesita una forma de declararlos.
-- Ver también: [[internal-developer-platform]] — la plataforma que GitOps suele operar.
-- Ver también: [[crossplane]] — la extensión de GitOps a recursos de infraestructura.
+- Partes: [Reconciliación (GitOps)](reconciliacion-gitops.md) — el bucle que aplica el estado de Git.
+- Partes: [Promoción entre entornos](promocion-entre-entornos.md) — cómo un cambio pasa de un entorno al siguiente.
+- Relacionado: [DevSecOps](devsecops.md) — los PR de GitOps son el punto donde se aplican los controles de seguridad.
+- Relacionado: [Gestión de secretos](gestion-de-secretos.md) — Git no puede guardar secretos en claro, y GitOps necesita una forma de declararlos.
+- Ver también: [Internal Developer Platform](../Platform-Engineering/internal-developer-platform.md) — la plataforma que GitOps suele operar.
+- Ver también: [Crossplane](../Platform-Engineering/crossplane.md) — la extensión de GitOps a recursos de infraestructura.

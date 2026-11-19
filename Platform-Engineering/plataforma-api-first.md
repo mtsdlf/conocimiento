@@ -36,20 +36,20 @@ El white paper de la CNCF pide que la plataforma ofrezca sus capacidades por int
 consistentes (GUI, CLI y API) para llegar a los usuarios donde estén. El principio API-first va
 más allá de la CNCF, como decisión de diseño, y agrega un orden:
 
-1. Cada [[capacidad-de-plataforma]] se diseña primero como API, con su contrato (por ejemplo, una
+1. Cada [Capacidad de plataforma](capacidad-de-plataforma.md) se diseña primero como API, con su contrato (por ejemplo, una
    especificación OpenAPI) y su dueño.
 2. Toda interacción pasa por esa API: nada de scripts internos, accesos directos a la base de la
    plataforma ni tickets.
 3. Portal, CLI y bots consumen la API. Si una regla vive en el portal y no en la API, quien usa
    la CLI o llama a la API directamente no la cumple.
 4. Todo cambio relevante que pasa por la API emite un evento y queda registrado, lo que sostiene
-   la [[gobernanza-de-plataforma]].
+   la [Gobernanza de plataforma](gobernanza-de-plataforma.md).
 
 El costo es un esfuerzo inicial mayor: hay que diseñar contratos antes de mostrar una pantalla.
 Un portal que resuelve todo desde su interfaz sale más rápido; como inferencia, escala peor,
 porque las reglas quedan atadas a una sola presentación.
 
-Las APIs declarativas, como los recursos de Kubernetes que ofrece [[crossplane]], cuentan como
+Las APIs declarativas, como los recursos de Kubernetes que ofrece [Crossplane](crossplane.md), cuentan como
 API si pasan por los mismos controles y la misma auditoría que el resto.
 
 ## Ejemplo
@@ -65,6 +65,6 @@ APIs. Acá el principio es interno.
 
 ## Relaciones
 
-- Requiere: [[capacidad-de-plataforma]] — lo que se expone por cada API.
-- Relacionado: [[developer-portal]] — el portal es una presentación de estas APIs.
-- Relacionado: [[crossplane]] — ofrece APIs declarativas para recursos de infraestructura.
+- Requiere: [Capacidad de plataforma](capacidad-de-plataforma.md) — lo que se expone por cada API.
+- Relacionado: [Developer portal](developer-portal.md) — el portal es una presentación de estas APIs.
+- Relacionado: [Crossplane](crossplane.md) — ofrece APIs declarativas para recursos de infraestructura.

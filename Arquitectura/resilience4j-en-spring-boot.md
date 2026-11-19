@@ -28,7 +28,7 @@ con su fallback y su configuración en `application.yml`.
 
 ## Antes de empezar
 
-- Entender los estados de un [[circuit-breaker]] y decidir la [[degradacion-controlada]] de la
+- Entender los estados de un [Circuit breaker](circuit-breaker.md) y decidir la [Degradación controlada](degradacion-controlada.md) de la
   llamada: qué devuelve el fallback.
 - Tener las dependencias `io.github.resilience4j:resilience4j-spring-boot3`,
   `spring-boot-starter-aop` y `spring-boot-starter-actuator`.
@@ -91,7 +91,7 @@ con su fallback y su configuración en `application.yml`.
    abierto. Resilience4j elige el fallback cuyo tipo coincide mejor, y un 4xx sin fallback se
    propaga, porque es un error de quien llama.
 5. **Reintentá solo lo idempotente.** Un `POST` de pago se reintenta solo si lleva una
-   [[clave-de-idempotencia]].
+   [Clave de idempotencia](clave-de-idempotencia.md).
 
 | Parámetro del breaker | Qué controla | Default |
 |---|---|---|
@@ -111,6 +111,6 @@ responden enseguida con el fallback. `GET /actuator/circuitbreakers` muestra la 
 
 ## Relaciones
 
-- Parte de: [[circuit-breaker]] — una implementación del patrón en Java.
-- Requiere: [[degradacion-controlada]] — define qué devuelve el fallback.
-- Ver también: [[sintaxis-de-yaml]] (Desarrollo) — la sintaxis del `application.yml`.
+- Parte de: [Circuit breaker](circuit-breaker.md) — una implementación del patrón en Java.
+- Requiere: [Degradación controlada](degradacion-controlada.md) — define qué devuelve el fallback.
+- Ver también: [Sintaxis de YAML](../Desarrollo/sintaxis-de-yaml.md) (Desarrollo) — la sintaxis del `application.yml`.

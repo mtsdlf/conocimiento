@@ -49,7 +49,7 @@ Las capas, de abajo hacia arriba:
 
 El **espacio del kernel** corre con privilegios completos del procesador. El **espacio de
 usuario** es todo lo demás: corre con privilegios reducidos y pide cada servicio al kernel
-mediante una [[llamada-al-sistema]].
+mediante una [Llamada al sistema](llamada-al-sistema.md).
 
 El **shell** es un programa más del espacio de usuario: interpreta lo que se escribe y lanza
 otros procesos. Por eso se puede cambiar `bash` por `zsh` o `fish` sin tocar el sistema; cada
@@ -68,8 +68,8 @@ de usuario: gestor de paquetes, versiones de bibliotecas y configuración por de
 
 ## Relaciones
 
-- Base de: [[llamada-al-sistema]] — la puerta entre las dos capas principales.
-- Base de: [[daemon]] — los servicios que viven en el espacio de usuario.
-- Base de: [[arranque-de-linux]] — el orden en que se levantan las capas.
-- Base de: [[pseudo-sistema-de-archivos]] — cómo el kernel se muestra al espacio de usuario.
-- Detalle en: [[fhs]] — dónde vive cada capa en el árbol de directorios.
+- Base de: [Llamada al sistema](llamada-al-sistema.md) — la puerta entre las dos capas principales.
+- Base de: [Daemon](daemon.md) — los servicios que viven en el espacio de usuario.
+- Base de: [Arranque de Linux](arranque-de-linux.md) — el orden en que se levantan las capas.
+- Base de: [Pseudo-sistema de archivos](pseudo-sistema-de-archivos.md) — cómo el kernel se muestra al espacio de usuario.
+- Detalle en: [FHS](fhs.md) — dónde vive cada capa en el árbol de directorios.

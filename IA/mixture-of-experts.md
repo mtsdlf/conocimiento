@@ -65,5 +65,5 @@ aprende cada uno sale del entrenamiento.
 
 ## Relaciones
 
-- Parte de: [[conceptos-ia]] — Mapa del Tema IA.
-- Requiere: [[llm]] — MoE es una forma de construir la red que predice el siguiente token.
+- Parte de: [IA](conceptos-ia.md) — Mapa del Tema IA.
+- Requiere: [LLM](llm.md) — MoE es una forma de construir la red que predice el siguiente token.

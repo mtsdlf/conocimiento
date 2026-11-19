@@ -47,15 +47,15 @@ La OWASP DevSecOps Guideline ordena los controles según la etapa del ciclo:
 | Producción | seguridad en ejecución | comportamientos anómalos de procesos y contenedores |
 
 Cada etapa produce un reporte legible por máquina que se guarda junto al build. El **policy
-gate** lee esos reportes y decide con reglas escritas como [[policy-as-code]], por ejemplo "no
+gate** lee esos reportes y decide con reglas escritas como [Policy as code](policy-as-code.md), por ejemplo "no
 avanza con vulnerabilidades críticas sin excepción aprobada".
 
 El pipeline mismo también es un blanco. OWASP lista diez riesgos propios del CI/CD, entre ellos
 el manejo pobre de credenciales y la validación insuficiente de la integridad de los
-artefactos. Esos dos se tratan en [[gestion-de-secretos]] y en
-[[cadena-de-suministro-de-software]].
+artefactos. Esos dos se tratan en [Gestión de secretos](gestion-de-secretos.md) y en
+[Cadena de suministro de software](cadena-de-suministro-de-software.md).
 
-Las herramientas concretas de cada fila están en [[herramientas-de-seguridad-del-pipeline]].
+Las herramientas concretas de cada fila están en [Herramientas de seguridad del pipeline](herramientas-de-seguridad-del-pipeline.md).
 
 ## Ejemplo
 
@@ -66,12 +66,12 @@ llegara igual a la etapa de despliegue, el mismo gate lo frenaría ahí.
 ## No confundir con
 
 **DevSecOps**: es la práctica completa, con cultura y responsabilidades
-([[devsecops]]). Esta nota es solo la parte automática dentro del pipeline.
+([DevSecOps](devsecops.md)). Esta nota es solo la parte automática dentro del pipeline.
 
 ## Relaciones
 
-- Parte de y requiere: [[devsecops]] — es la forma automática de aplicar DevSecOps.
-- Relacionado: [[policy-as-code]] — las reglas que usa el policy gate.
-- Relacionado: [[gestion-de-secretos]] — el control de secretos antes del commit y el manejo de credenciales del pipeline.
-- Relacionado: [[cadena-de-suministro-de-software]] — firma y verificación del artefacto que sale del pipeline.
-- Detallada en: [[herramientas-de-seguridad-del-pipeline]] — las herramientas de cada control.
+- Parte de y requiere: [DevSecOps](devsecops.md) — es la forma automática de aplicar DevSecOps.
+- Relacionado: [Policy as code](policy-as-code.md) — las reglas que usa el policy gate.
+- Relacionado: [Gestión de secretos](gestion-de-secretos.md) — el control de secretos antes del commit y el manejo de credenciales del pipeline.
+- Relacionado: [Cadena de suministro de software](cadena-de-suministro-de-software.md) — firma y verificación del artefacto que sale del pipeline.
+- Detallada en: [Herramientas de seguridad del pipeline](herramientas-de-seguridad-del-pipeline.md) — las herramientas de cada control.

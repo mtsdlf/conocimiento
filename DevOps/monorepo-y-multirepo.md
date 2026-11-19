@@ -47,17 +47,17 @@ dependencia. Un esquema híbrido junta en un repo las bibliotecas compartidas y 
 servicio en el suyo.
 
 La regla es elegir por la frontera de integración y despliegue, no por el tamaño del equipo: lo
-que se despliega junto conviene que viva junto. Por la [[ley-de-conway]], la forma de repartir
+que se despliega junto conviene que viva junto. Por la [Ley de Conway](../Platform-Engineering/ley-de-conway.md), la forma de repartir
 los repos termina pareciéndose a cómo se reparten los equipos, y viceversa.
 
 En multirepo, además del código de cada servicio, suele haber repos aparte para la
 infraestructura como código (las definiciones de clústeres y redes que aplica Terraform o un
 agente GitOps) y para las plantillas compartidas. Las versiones fijadas, los bots de
 actualización y los manifiestos que mantienen todo alineado se explican en
-[[coordinacion-entre-repositorios]].
+[Coordinación entre repositorios](coordinacion-entre-repositorios.md).
 
 Un monorepo grande necesita herramientas para no clonar ni construir todo: clon parcial, sparse
-checkout y builds por ruta. La mecánica está en [[git]].
+checkout y builds por ruta. La mecánica está en [Git](../Desarrollo/Git/git.md).
 
 ## Ejemplo
 
@@ -73,5 +73,5 @@ monorepo puede contener muchos microservicios, y un monolito puede depender de v
 
 ## Relaciones
 
-- Relacionado: [[coordinacion-entre-repositorios]] — lo que hay que resolver cuando se elige multirepo.
-- Ver también: [[ley-de-conway]] — por qué la división de repos copia la de los equipos.
+- Relacionado: [Coordinación entre repositorios](coordinacion-entre-repositorios.md) — lo que hay que resolver cuando se elige multirepo.
+- Ver también: [Ley de Conway](../Platform-Engineering/ley-de-conway.md) — por qué la división de repos copia la de los equipos.

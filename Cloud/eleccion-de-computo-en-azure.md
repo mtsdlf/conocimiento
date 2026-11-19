@@ -40,9 +40,9 @@ Functions para un proceso de horas choca con sus límites.
 
 | Servicio | Se elige cuando | Lo que hay que saber |
 |---|---|---|
-| **[[maquina-virtual-azure]]** (y VM Scale Sets) | Hace falta el SO entero: drivers, licencias, software legacy | Se opera todo: parches, backup, escalado |
+| **[Máquina virtual (Azure)](maquina-virtual-azure.md)** (y VM Scale Sets) | Hace falta el SO entero: drivers, licencias, software legacy | Se opera todo: parches, backup, escalado |
 | **App Service** | Una web o API HTTP, sin querer administrar SO | Slots para staging y swap (desde el plan Standard); la integración con VNet es solo de salida, la entrada privada es con private endpoint |
-| **[[azure-functions]]** | Código chico disparado por eventos, con picos impredecibles | El plan decide cold start, escala a cero y acceso a la VNet |
+| **[Azure Functions](azure-functions.md)** | Código chico disparado por eventos, con picos impredecibles | El plan decide cold start, escala a cero y acceso a la VNet |
 | **Container Apps** | Contenedores y eventos sin administrar Kubernetes | Escala con KEDA, Dapr, revisiones con reparto de tráfico, jobs; escala a cero salvo con reglas de CPU o memoria |
 | **AKS** | Hace falta Kubernetes completo: operadores, malla de servicios, control fino | Más operación: actualizaciones, red, seguridad del clúster |
 
@@ -65,6 +65,6 @@ un servicio ya elegido, no entre servicios.
 
 ## Relaciones
 
-- Detallada en: [[maquina-virtual-azure]] y [[azure-functions]] — los dos extremos de control.
-- La usa: [[disenar-una-solucion-en-azure]] — el paso de elegir cómputo.
-- En otro Tema: [[desplegar-en-aks-con-azure-pipelines]] — cómo llega una imagen a AKS.
+- Detallada en: [Máquina virtual (Azure)](maquina-virtual-azure.md) y [Azure Functions](azure-functions.md) — los dos extremos de control.
+- La usa: [Diseñar una solución en Azure](disenar-una-solucion-en-azure.md) — el paso de elegir cómputo.
+- En otro Tema: [Desplegar en AKS con Azure Pipelines](../DevOps/desplegar-en-aks-con-azure-pipelines.md) — cómo llega una imagen a AKS.

@@ -31,7 +31,7 @@ pueden usar actions reutilizables.
 ## Por qué importa
 
 El pipeline vive en el mismo repositorio que el código, en `.github/workflows/`, y se revisa en
-el mismo pull request. Es la forma habitual de hacer [[integracion-continua]] en proyectos alojados
+el mismo pull request. Es la forma habitual de hacer [Integración continua](integracion-continua.md) en proyectos alojados
 en GitHub, sin un servidor de CI aparte.
 
 ## Cómo funciona
@@ -81,10 +81,10 @@ jobs:
 ## No confundir con
 
 Una action. La action es una pieza que un step usa; el workflow es el proceso entero que orquesta
-jobs y steps. Las formas de reutilizar ambos están en [[reutilizacion-en-github-actions]].
+jobs y steps. Las formas de reutilizar ambos están en [Reutilización en GitHub Actions](reutilizacion-en-github-actions.md).
 
 ## Relaciones
 
-- Base de: [[reutilizacion-en-github-actions]], [[environment-de-github-actions]], [[artifact-y-cache-de-github-actions]] y [[secret-de-github-actions]] — detallan partes de un workflow.
-- Ver también: [[pipeline-de-ci-cd]] — el concepto general que un workflow implementa.
-- Ver también: [[integracion-continua]] — la práctica que más se automatiza con GitHub Actions.
+- Base de: [Reutilización en GitHub Actions](reutilizacion-en-github-actions.md), [Environment de GitHub Actions](environment-de-github-actions.md), [Artifact y cache de GitHub Actions](artifact-y-cache-de-github-actions.md) y [Secret de GitHub Actions](secret-de-github-actions.md) — detallan partes de un workflow.
+- Ver también: [Pipeline de CI/CD](pipeline-de-ci-cd.md) — el concepto general que un workflow implementa.
+- Ver también: [Integración continua](integracion-continua.md) — la práctica que más se automatiza con GitHub Actions.

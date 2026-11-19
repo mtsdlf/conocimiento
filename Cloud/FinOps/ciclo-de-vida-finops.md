@@ -66,5 +66,5 @@ un ciclo de gestión que puede durar semanas por vuelta.
 
 ## Relaciones
 
-- Parte de y requiere: [[que-es-finops]] — las fases organizan los principios en trabajo concreto.
-- Usa: [[showback-y-chargeback]] y [[costo-unitario]] — dos capacidades centrales de la fase Inform.
+- Parte de y requiere: [FinOps](que-es-finops.md) — las fases organizan los principios en trabajo concreto.
+- Usa: [Showback y chargeback](showback-y-chargeback.md) y [Costo unitario](costo-unitario.md) — dos capacidades centrales de la fase Inform.

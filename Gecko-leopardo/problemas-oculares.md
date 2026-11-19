@@ -29,7 +29,7 @@ idioma: es
 La enfermedad ocular, sobre todo corneal o conjuntival, fue el problema clínico más medido en la especie: 46% de los pacientes de un hospital docente.
 
 > [!NOTE]
-> La base no es consejo veterinario. Un ojo cerrado, turbio o con secreción se lleva al [[cuando-llevar-el-gecko-al-veterinario|veterinario de exóticos]].
+> La base no es consejo veterinario. Un ojo cerrado, turbio o con secreción se lleva al [veterinario de exóticos](cuando-llevar-el-gecko-al-veterinario.md).
 
 ## Cómo se reconoce
 
@@ -48,7 +48,7 @@ Wiggans et al. (*JAVMA* 2018) revisaron 144 leopardos atendidos entre 1985 y 201
 | Ninguna fuente de calor | 6,55 (1,17-36,61) |
 | Vitamina A en la dieta | 0,11 (0,023-0,52), protectora |
 
-Más edad se asoció con más enfermedad, y las hembras tuvieron menos. La disecdisis de la cabeza fue el único trastorno concurrente significativo, de ahí la relación con la [[retencion-de-muda|retención de muda]]. En 5 necropsias hubo metaplasia escamosa de la conjuntiva.
+Más edad se asoció con más enfermedad, y las hembras tuvieron menos. La disecdisis de la cabeza fue el único trastorno concurrente significativo, de ahí la relación con la [retención de muda](retencion-de-muda.md). En 5 necropsias hubo metaplasia escamosa de la conjuntiva.
 
 Los propios autores acotan: hospital docente (sesgo de derivación), intervalos amplios, y la toalla de papel puede marcar animales ya enfermos o en cuarentena. La causa es probablemente multifactorial y no se conoce el requerimiento de vitamina A en la especie.
 
@@ -62,4 +62,4 @@ Prevenir lo que las fuentes asocian: refugio húmedo y muda sin retención (Vet 
 
 ## Relaciones
 
-- Requiere: [[retencion-de-muda|retención de muda]] — la disecdisis de la cabeza es el trastorno asociado.
+- Requiere: [retención de muda](retencion-de-muda.md) — la disecdisis de la cabeza es el trastorno asociado.

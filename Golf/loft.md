@@ -40,7 +40,7 @@ pegan igual y uno sobra; si están muy separados, queda una distancia sin palo.
 - La separación pareja de lofts entre palos se llama **gapping**.
 
 Los wedges llevan el loft grabado en la cabeza: un Vokey "60-04" tiene 60° de loft; el segundo
-número es el [[bounce]].
+número es el [Bounce](bounce.md).
 
 Los hierros nuevos suelen tener menos loft que los de hace 20 años. Por eso un "hierro 7" moderno
 puede pegar como un 6 viejo: el número no es comparable entre modelos, el loft sí.
@@ -58,6 +58,6 @@ incorrecto desvía la pelota hacia un costado, pero no cambia la altura.
 
 ## Relaciones
 
-- Requiere: [[palo-de-golf]] — el loft es una característica de la cabeza.
-- Base de: [[bounce]] — el otro ángulo que se graba en un wedge.
-- Detalle en: [[distancias-por-palo]] — la tabla de lofts y distancias de referencia.
+- Requiere: [Palo de golf](palo-de-golf.md) — el loft es una característica de la cabeza.
+- Base de: [Bounce](bounce.md) — el otro ángulo que se graba en un wedge.
+- Detalle en: [Distancias por palo](distancias-por-palo.md) — la tabla de lofts y distancias de referencia.

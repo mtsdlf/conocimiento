@@ -26,7 +26,7 @@ atrás; el mallet gira menos en los golpes descentrados y suele ser más fácil 
 
 ## Por qué importa
 
-El putter es el palo que más se usa en una vuelta: el [[par]] cuenta dos putts por green, 36 en
+El putter es el palo que más se usa en una vuelta: el [Par](par.md) cuenta dos putts por green, 36 en
 18 hoyos, y un principiante suele hacer más. Un putter que se adapta al golpe propio deja menos
 putts cortos sin embocar.
 
@@ -37,7 +37,7 @@ putts cortos sin embocar.
 | **Blade** | Fina, con el peso en punta y talón | Sensación precisa y más información del golpe | Gira más si se pega fuera del centro |
 | **Mallet** | Grande, con el peso hacia atrás y los bordes | Más estable y más líneas de alineación | Sensación más apagada |
 
-El mismo principio de [[perdon-del-palo]] explica la diferencia: el peso lejos del centro resiste
+El mismo principio de [Perdón del palo](perdon-del-palo.md) explica la diferencia: el peso lejos del centro resiste
 el giro de la cabeza; esa resistencia se llama **momento de inercia (MOI)**.
 
 **Balance**: si se apoya la vara en un dedo cerca del **hosel** (la pieza que une vara y cabeza), la cara de un putter **face
@@ -53,10 +53,10 @@ descentrados. Un Ping tipo Anser es un blade clásico con toe hang, pensado para
 ## No confundir con
 
 Blade de putter y blade de hierro: en el putter, "blade" es una forma de cabeza; en los hierros
-es el diseño macizo y exigente que describe [[perdon-del-palo]].
+es el diseño macizo y exigente que describe [Perdón del palo](perdon-del-palo.md).
 
 ## Relaciones
 
-- Requiere: [[palo-de-golf]] — el putter es uno de los cinco tipos de palo.
-- Relacionado: [[putt]] — el golpe que se hace con este palo.
-- Relacionado: [[perdon-del-palo]] — el mismo principio de peso al perímetro.
+- Requiere: [Palo de golf](palo-de-golf.md) — el putter es uno de los cinco tipos de palo.
+- Relacionado: [Putt](putt.md) — el golpe que se hace con este palo.
+- Relacionado: [Perdón del palo](perdon-del-palo.md) — el mismo principio de peso al perímetro.

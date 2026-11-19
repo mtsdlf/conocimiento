@@ -28,7 +28,7 @@ El grip es la forma de agarrar el palo con las dos manos; hay tres variantes: su
 
 Las manos son el único contacto con el palo. Si el grip deja la cara abierta o cerrada al
 impactar, la pelota sale torcida aunque el resto del swing esté bien, como explica
-[[vuelo-de-la-pelota]].
+[Vuelo de la pelota](vuelo-de-la-pelota.md).
 
 ## Cómo funciona
 
@@ -55,10 +55,10 @@ dos o tres nudillos de la mano izquierda, suele corregirlo.
 ## No confundir con
 
 El grip como agarre y el grip como pieza: la misma palabra nombra la empuñadura de goma del
-[[palo-de-golf]].
+[Palo de golf](palo-de-golf.md).
 
 ## Relaciones
 
-- Requiere: [[palo-de-golf]] — se agarra por su grip.
-- Relacionado: [[vuelo-de-la-pelota]] — el grip decide la cara al impacto.
-- Base de: [[setup-de-golf]] — la postura se arma con el grip ya hecho.
+- Requiere: [Palo de golf](palo-de-golf.md) — se agarra por su grip.
+- Relacionado: [Vuelo de la pelota](vuelo-de-la-pelota.md) — el grip decide la cara al impacto.
+- Base de: [Setup de golf](setup-de-golf.md) — la postura se arma con el grip ya hecho.

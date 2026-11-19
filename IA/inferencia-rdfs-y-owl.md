@@ -76,5 +76,5 @@ es de mundo cerrado: lo que falta es una violación. OWL infiere; SHACL chequea.
 
 ## Relaciones
 
-- Parte de: [[conceptos-ia]] — Mapa del Tema IA.
-- La usa: [[llm-emite-reasoner-verifica]] — el reasoner que verifica lo que emite un LLM.
+- Parte de: [IA](conceptos-ia.md) — Mapa del Tema IA.
+- La usa: [El LLM emite, el reasoner verifica](llm-emite-reasoner-verifica.md) — el reasoner que verifica lo que emite un LLM.

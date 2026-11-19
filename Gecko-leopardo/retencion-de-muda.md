@@ -44,7 +44,7 @@ Las listas de causas son de fuentes secundarias de autor veterinario y difieren:
 - PetMD: humedad baja, recinto demasiado frío, falta de superficies ásperas, mala dieta, lesión, infección, parásitos y, rara vez, tiroides.
 - Vet Times (artículo sobre la especie): contribuye la deficiencia de vitamina A; la prevención es hidratación, humedad y un refugio húmedo.
 
-El vínculo con el ojo es el dato más sólido: en el estudio de UC Davis, la disecdisis de la cabeza fue el único trastorno concurrente significativo con la enfermedad ocular. Ver [[problemas-oculares|problemas oculares]]. La muda normal está en [[muda-del-gecko|muda]]; el refugio húmedo, en [[humedad-localizada|humedad localizada]].
+El vínculo con el ojo es el dato más sólido: en el estudio de UC Davis, la disecdisis de la cabeza fue el único trastorno concurrente significativo con la enfermedad ocular. Ver [problemas oculares](problemas-oculares.md). La muda normal está en [muda](muda-del-gecko.md); el refugio húmedo, en [humedad localizada](humedad-localizada.md).
 
 ## Qué hacer
 
@@ -52,7 +52,7 @@ El vínculo con el ojo es el dato más sólido: en el estudio de UC Davis, la di
 - PetMD advierte no tirar de la piel, no remojar sin supervisión y reservar la amputación para la necrosis.
 
 > [!IMPORTANT]
-> Disputado: retirar la piel a mano. Wright describe retirarla con la mano tras el remojo; PetMD dice "nunca tirar de la piel". Sin ese detalle resuelto, ante piel en dedos o cabeza lo seguro es [[cuando-llevar-el-gecko-al-veterinario|consultar al veterinario]].
+> Disputado: retirar la piel a mano. Wright describe retirarla con la mano tras el remojo; PetMD dice "nunca tirar de la piel". Sin ese detalle resuelto, ante piel en dedos o cabeza lo seguro es [consultar al veterinario](cuando-llevar-el-gecko-al-veterinario.md).
 
 Un sitio de aficionados da 24 horas como plazo para intervenir; no es regla, porque no tiene respaldo veterinario.
 
@@ -61,4 +61,4 @@ Un sitio de aficionados da 24 horas como plazo para intervenir; no es regla, por
 
 ## Relaciones
 
-- Requiere: [[muda-del-gecko|muda]] — la retención es la muda que falla.
+- Requiere: [muda](muda-del-gecko.md) — la retención es la muda que falla.

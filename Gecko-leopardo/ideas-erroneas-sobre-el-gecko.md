@@ -39,15 +39,15 @@ Cada fila dice la idea, qué muestra la evidencia y dónde está tratada.
 
 | Idea | Qué dice la evidencia | Nota |
 |---|---|---|
-| "Sin UVB siempre hay enfermedad metabólica ósea" | Juveniles con D3 en la dieta crecieron igual, sin síntomas, con o sin UVB durante 6 meses (Oonincx 2020). El UVB sí subió el 25(OH)D3 (61 ± 20 contra 38 ± 8 nmol/L); su beneficio clínico no está probado. | [[uvb-si-o-no|UVB sí o no]], [[enfermedad-metabolica-osea|enfermedad metabólica ósea]] |
-| "Es de desierto, no necesita humedad" | La piel retenida en dedos y cabeza causa necrosis y problemas oculares (Vet Times, UC Davis). Se previene con un refugio húmedo. | [[humedad-localizada|humedad localizada]], [[retencion-de-muda|retención de muda]] |
-| "Sin fuente de calor está bien" | Sin ninguna fuente de calor, OR 6,55 de enfermedad ocular (UC Davis); el calor inadecuado figura entre las causas de enfermedad metabólica ósea (Merck, Vet Times). | [[problemas-oculares|problemas oculares]] |
-| "La toalla de papel es lo más seguro" | Asociada a OR 8,89 de enfermedad ocular, pero el estudio no separa causa de selección; Vet Times la recomienda para juveniles y cuarentena. Debate abierto. | [[sustrato-suelto-o-solido|sustrato suelto o sólido]] |
-| "La arena nunca (o siempre) impacta" | Ninguna está probada; no hay estudio controlado. Debate abierto. | [[impactacion|impactación]] |
-| "La roca térmica es buena fuente de calor" | Merck: las "hot rocks" "frequently result in burns". | [[calor-por-contacto|calor por contacto]] |
-| "Calcio normal en sangre descarta la enfermedad ósea" | Una sola fuente (Vet Times): puede ser normal en casos avanzados. | [[enfermedad-metabolica-osea|enfermedad metabólica ósea]] |
-| "El gusano de harina es alimento base" | Merck: relación Ca:P de 0,11 y cerca de 35% de grasa en materia seca; la recomendada es al menos 1:1, mejor 2:1. Fuente única. | [[alimentar-y-suplementar|alimentar y suplementar]] |
-| "Si se ve sano, no está infectado" | Hay portadores asintomáticos de *Cryptosporidium* (solo resúmenes de buscador). | [[criptosporidiosis|criptosporidiosis]] |
+| "Sin UVB siempre hay enfermedad metabólica ósea" | Juveniles con D3 en la dieta crecieron igual, sin síntomas, con o sin UVB durante 6 meses (Oonincx 2020). El UVB sí subió el 25(OH)D3 (61 ± 20 contra 38 ± 8 nmol/L); su beneficio clínico no está probado. | [UVB sí o no](uvb-si-o-no.md), [enfermedad metabólica ósea](enfermedad-metabolica-osea.md) |
+| "Es de desierto, no necesita humedad" | La piel retenida en dedos y cabeza causa necrosis y problemas oculares (Vet Times, UC Davis). Se previene con un refugio húmedo. | [humedad localizada](humedad-localizada.md), [retención de muda](retencion-de-muda.md) |
+| "Sin fuente de calor está bien" | Sin ninguna fuente de calor, OR 6,55 de enfermedad ocular (UC Davis); el calor inadecuado figura entre las causas de enfermedad metabólica ósea (Merck, Vet Times). | [problemas oculares](problemas-oculares.md) |
+| "La toalla de papel es lo más seguro" | Asociada a OR 8,89 de enfermedad ocular, pero el estudio no separa causa de selección; Vet Times la recomienda para juveniles y cuarentena. Debate abierto. | [sustrato suelto o sólido](sustrato-suelto-o-solido.md) |
+| "La arena nunca (o siempre) impacta" | Ninguna está probada; no hay estudio controlado. Debate abierto. | [impactación](impactacion.md) |
+| "La roca térmica es buena fuente de calor" | Merck: las "hot rocks" "frequently result in burns". | [calor por contacto](calor-por-contacto.md) |
+| "Calcio normal en sangre descarta la enfermedad ósea" | Una sola fuente (Vet Times): puede ser normal en casos avanzados. | [enfermedad metabólica ósea](enfermedad-metabolica-osea.md) |
+| "El gusano de harina es alimento base" | Merck: relación Ca:P de 0,11 y cerca de 35% de grasa en materia seca; la recomendada es al menos 1:1, mejor 2:1. Fuente única. | [alimentar y suplementar](alimentar-y-suplementar.md) |
+| "Si se ve sano, no está infectado" | Hay portadores asintomáticos de *Cryptosporidium* (solo resúmenes de buscador). | [criptosporidiosis](criptosporidiosis.md) |
 
 ## Por qué pasa
 
@@ -59,4 +59,4 @@ Contrastar cada regla con la fuente de su fila y tratar como disputado lo que lo
 
 ## Relaciones
 
-- Requiere: [[eublepharis-macularius|gecko leopardo]] — las ideas son sobre esta especie y su origen árido.
+- Requiere: [gecko leopardo](eublepharis-macularius.md) — las ideas son sobre esta especie y su origen árido.

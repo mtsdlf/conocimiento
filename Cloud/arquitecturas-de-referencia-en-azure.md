@@ -38,20 +38,20 @@ alertas). El Azure Architecture Center publica versiones detalladas de cada una.
 **Web global segura**
 
 1. Entrada: Front Door con WAF, que cachea y elige la región (ver
-   [[balanceadores-de-carga-azure]]).
+   [Balanceadores de carga en Azure](balanceadores-de-carga-azure.md)).
 2. Cómputo: App Service, Container Apps o AKS, sin IP pública (ver
-   [[eleccion-de-computo-en-azure]]).
-3. Datos: SQL, Cosmos DB o Storage por [[private-endpoint]], con acceso público apagado; Redis como
+   [Elección de cómputo en Azure](eleccion-de-computo-en-azure.md)).
+3. Datos: SQL, Cosmos DB o Storage por [Private endpoint](private-endpoint.md), con acceso público apagado; Redis como
    cache y Service Bus para desacoplar lo lento.
 4. Seguridad: managed identity, Key Vault y Defender for Cloud.
-5. Red: [[topologia-hub-and-spoke]] con firewall en el hub.
-6. Operación: [[azure-monitor]] con alertas sobre los SLO.
+5. Red: [Topología hub-and-spoke](topologia-hub-and-spoke.md) con firewall en el hub.
+6. Operación: [Azure Monitor](azure-monitor.md) con alertas sobre los SLO.
 
 **Por eventos**
 
 - Event Grid dispara Functions o Container Apps cuando algo cambia.
 - Service Bus lleva el trabajo que tiene que cumplirse en orden y sin perderse.
-- Event Hubs recibe la telemetría masiva (ver [[mensajeria-en-azure]]).
+- Event Hubs recibe la telemetría masiva (ver [Mensajería en Azure](mensajeria-en-azure.md)).
 
 **Analítica**
 
@@ -66,12 +66,12 @@ Apps lo procesa. Es la combinación de los dos primeros patrones.
 
 ## No confundir con
 
-La [[azure-landing-zone]]: es la base común de todas las suscripciones. Estas arquitecturas son lo
+La [Azure landing zone](azure-landing-zone.md): es la base común de todas las suscripciones. Estas arquitecturas son lo
 que cada carga de trabajo despliega encima.
 
 ## Relaciones
 
-- Requiere: [[balanceadores-de-carga-azure]] y [[eleccion-de-computo-en-azure]] — las dos
+- Requiere: [Balanceadores de carga en Azure](balanceadores-de-carga-azure.md) y [Elección de cómputo en Azure](eleccion-de-computo-en-azure.md) — las dos
   decisiones que cada patrón toma.
-- Usa: [[mensajeria-en-azure]], [[almacenamiento-y-bases-de-datos-en-azure]] y [[azure-monitor]].
-- La usa: [[disenar-una-solucion-en-azure]] — como punto de partida.
+- Usa: [Mensajería en Azure](mensajeria-en-azure.md), [Almacenamiento y bases de datos en Azure](almacenamiento-y-bases-de-datos-en-azure.md) y [Azure Monitor](azure-monitor.md).
+- La usa: [Diseñar una solución en Azure](disenar-una-solucion-en-azure.md) — como punto de partida.

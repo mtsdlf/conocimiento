@@ -44,4 +44,4 @@ ansiedad (medidas claras, devoluciones, reseñas) y hábito (facilidad, combos q
 
 ## Relaciones
 
-- Relacionado: [[posicionamiento]] — el posicionamiento se arma para un trabajo y un segmento.
+- Relacionado: [Posicionamiento](posicionamiento.md) — el posicionamiento se arma para un trabajo y un segmento.

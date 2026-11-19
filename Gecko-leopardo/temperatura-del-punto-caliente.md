@@ -47,7 +47,7 @@ Merck no da un punto caliente: ~30–35 °C suma dos de sus datos.
 
 ## Cuándo cada una
 
-Cada valor mide algo distinto (aire o superficie): primero hay que fijar dónde se mide. El [[calor-por-contacto|calor por contacto]] se mide sobre el sustrato. En superficie rondan 32–33 °C (Oonincx, UV-Tool); en aire, la zona óptima de Merck llega a 30 °C y su asoleo a unos 35 °C.
+Cada valor mide algo distinto (aire o superficie): primero hay que fijar dónde se mide. El [calor por contacto](calor-por-contacto.md) se mide sobre el sustrato. En superficie rondan 32–33 °C (Oonincx, UV-Tool); en aire, la zona óptima de Merck llega a 30 °C y su asoleo a unos 35 °C.
 
 ## Debate abierto
 
@@ -69,4 +69,4 @@ CONTEXT.md de la casa apunta a 32–35 °C en el punto cálido con malla y termo
 
 ## Relaciones
 
-- Requiere: [[calor-por-contacto|calor por contacto]] — el valor depende de dónde se mide el calor del piso.
+- Requiere: [calor por contacto](calor-por-contacto.md) — el valor depende de dónde se mide el calor del piso.

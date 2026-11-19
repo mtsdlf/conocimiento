@@ -34,7 +34,7 @@ hace falta una IP privada.
 ## Cómo funciona
 
 1. Se habilita el service endpoint de un servicio (p. ej. `Microsoft.Storage`) en una subred de
-   la [[virtual-network-azure]].
+   la [Virtual Network (Azure)](virtual-network-azure.md).
 2. Desde ese momento, el tráfico de la subred al servicio va por el backbone y llega con la IP
    privada de origen, no con una pública.
 3. En el firewall del servicio se agrega una regla de red virtual que permite esa subred y se
@@ -59,11 +59,11 @@ subred recibe 403.
 
 ## No confundir con
 
-El [[private-endpoint]]: crea una NIC con IP privada para una instancia del servicio, accesible
+El [Private endpoint](private-endpoint.md): crea una NIC con IP privada para una instancia del servicio, accesible
 también desde la red propia, y cuesta por hora y por GB. El service endpoint no crea IP privada
 y abre el acceso al servicio, no a una instancia.
 
 ## Relaciones
 
-- Requiere: [[virtual-network-azure]] — se habilita por subred.
-- Relacionado: [[private-endpoint]] — la alternativa recomendada, con IP privada.
+- Requiere: [Virtual Network (Azure)](virtual-network-azure.md) — se habilita por subred.
+- Relacionado: [Private endpoint](private-endpoint.md) — la alternativa recomendada, con IP privada.

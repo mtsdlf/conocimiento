@@ -50,11 +50,11 @@ Tres propiedades que conviene distinguir:
 Las herramientas se agrupan por categoría: aprovisionamiento (Terraform, Pulumi), configuración
 (Ansible, Puppet, Chef), imágenes (Dockerfile) y orquestación (manifiestos de Kubernetes, Helm).
 
-En el [[pipeline-de-ci-cd]], un PR corre el formato y el plan (qué cambiaría) como verificación;
+En el [Pipeline de CI/CD](pipeline-de-ci-cd.md), un PR corre el formato y el plan (qué cambiaría) como verificación;
 el merge a la rama principal aplica el cambio con una cuenta de servicio del pipeline, no la de una persona. Los entornos
 se modelan como carpetas con diferencias chicas entre sí (overlays). Una tarea periódica compara
 la infraestructura real con el código y avisa el **drift**; si además lo corrige sola, es
-[[gitops]].
+[GitOps](gitops.md).
 
 ## Ejemplo
 
@@ -66,10 +66,10 @@ muestra el plan; al aprobarse, el entorno queda creado en 20 minutos.
 
 Automatizar con scripts sueltos. Un script que crea un servidor no es idempotente ni describe
 el estado: correrlo dos veces crea dos servidores. Tampoco es lo mismo que ofrecer la
-infraestructura como API a otros equipos, que es lo que hace [[crossplane]].
+infraestructura como API a otros equipos, que es lo que hace [Crossplane](../Platform-Engineering/crossplane.md).
 
 ## Relaciones
 
-- Relacionado: [[pipeline-de-ci-cd]] — valida y aplica cada cambio de infraestructura.
-- Ver también: [[gitops]] — agrega la reconciliación continua del estado declarado.
-- Ver también: [[crossplane]] — infraestructura como APIs declarativas sobre Kubernetes.
+- Relacionado: [Pipeline de CI/CD](pipeline-de-ci-cd.md) — valida y aplica cada cambio de infraestructura.
+- Ver también: [GitOps](gitops.md) — agrega la reconciliación continua del estado declarado.
+- Ver también: [Crossplane](../Platform-Engineering/crossplane.md) — infraestructura como APIs declarativas sobre Kubernetes.

@@ -31,7 +31,7 @@ Infección intestinal por un protozoo que produce pérdida de peso, anorexia y d
 
 ## Cómo se reconoce
 
-Anorexia, pérdida de peso progresiva, vómito y diarrea; puede ser mortal. Un caso argentino de tres geckos leopardo (*Open Veterinary Journal*, 2016, solo resumen de buscador) tuvo diarrea, anorexia y caquexia. Sostener la pérdida de peso o la diarrea es motivo de [[cuando-llevar-el-gecko-al-veterinario|consulta veterinaria]]; el [[eublepharis-macularius|gecko leopardo]] no avisa de otro modo.
+Anorexia, pérdida de peso progresiva, vómito y diarrea; puede ser mortal. Un caso argentino de tres geckos leopardo (*Open Veterinary Journal*, 2016, solo resumen de buscador) tuvo diarrea, anorexia y caquexia. Sostener la pérdida de peso o la diarrea es motivo de [consulta veterinaria](cuando-llevar-el-gecko-al-veterinario.md); el [gecko leopardo](eublepharis-macularius.md) no avisa de otro modo.
 
 ## Por qué pasa
 
@@ -57,4 +57,4 @@ Los oxiuros, otro parásito, son poco patógenos y se tratan si hay signos o car
 
 ## Relaciones
 
-- Requiere: [[eublepharis-macularius|gecko leopardo]] — la especie y su manejo en terrario.
+- Requiere: [gecko leopardo](eublepharis-macularius.md) — la especie y su manejo en terrario.

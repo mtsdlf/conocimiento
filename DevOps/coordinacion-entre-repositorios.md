@@ -38,7 +38,7 @@ producción y releases que nadie sabe con qué versiones se armaron.
 ## Cómo funciona
 
 - **Versiones fijadas**: cada repo depende de una versión exacta de otro, por tag de
-  [[versionado-semantico]] o por SHA de commit, nunca de "la última".
+  [Versionado semántico](versionado-semantico.md) o por SHA de commit, nunca de "la última".
 - **Bots de actualización**: Renovate o Dependabot leen los manifiestos y abren un PR cuando sale
   una versión nueva. El CI de ese PR prueba la combinación antes de mergearla.
 - **Triggers entre repos**: cuando un repo publica un artefacto, dispara el pipeline del repo que
@@ -50,7 +50,7 @@ producción y releases que nadie sabe con qué versiones se armaron.
   corre sobre la combinación que propone el manifiesto.
 - **Meta-repo o catálogo**: no prueba nada; lista todos los repos con su dueño y sus
   dependencias. La
-  automatización lo usa para saber qué clonar, y el catálogo de un [[developer-portal]] cumple la
+  automatización lo usa para saber qué clonar, y el catálogo de un [Developer portal](../Platform-Engineering/developer-portal.md) cumple la
   misma función con interfaz web.
 
 ## Ejemplo
@@ -69,12 +69,12 @@ registrada en Git.
 
 ## No confundir con
 
-Un [[pipeline-reutilizable]]: comparte la definición del pipeline entre repos, pero no coordina
+Un [Pipeline reutilizable](pipeline-reutilizable.md): comparte la definición del pipeline entre repos, pero no coordina
 qué versión de cada uno va con cuál.
 
 ## Relaciones
 
-- Relacionado: [[monorepo-y-multirepo]] — esta coordinación es el costo de elegir multirepo.
-- Relacionado: [[versionado-semantico]] — el número con que se fijan las dependencias.
-- Ver también: [[developer-portal]] — su catálogo de servicios cumple el papel del meta-repo.
-- Ver también: [[pipeline-reutilizable]] — lo que sí se comparte entre repos: la definición del pipeline.
+- Relacionado: [Monorepo y multirepo](monorepo-y-multirepo.md) — esta coordinación es el costo de elegir multirepo.
+- Relacionado: [Versionado semántico](versionado-semantico.md) — el número con que se fijan las dependencias.
+- Ver también: [Developer portal](../Platform-Engineering/developer-portal.md) — su catálogo de servicios cumple el papel del meta-repo.
+- Ver también: [Pipeline reutilizable](pipeline-reutilizable.md) — lo que sí se comparte entre repos: la definición del pipeline.

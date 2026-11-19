@@ -64,11 +64,11 @@ convertirlo en un Type 5, con fecha de disolución, y llegar después al Type 1.
 
 ## No confundir con
 
-[[team-topologies|Team Topologies]], el modelo posterior de los mismos autores, que generaliza el
+[Team Topologies](team-topologies.md), el modelo posterior de los mismos autores, que generaliza el
 diagnóstico a todos los tipos de equipo.
 
 ## Relaciones
 
-- Relacionado: [[team-topologies]] — el modelo general que vino después.
-- Relacionado: [[anti-patron-equipo-devops]] — el Anti-Type B, con nota propia.
-- Base de: [[evaluar-la-colaboracion-dev-ops]] — el diagnóstico usa estos Types y Anti-Types.
+- Relacionado: [Team Topologies](team-topologies.md) — el modelo general que vino después.
+- Relacionado: [Anti-patrón del equipo DevOps](anti-patron-equipo-devops.md) — el Anti-Type B, con nota propia.
+- Base de: [Evaluar la colaboración Dev–Ops de una organización](evaluar-la-colaboracion-dev-ops.md) — el diagnóstico usa estos Types y Anti-Types.

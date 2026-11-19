@@ -41,15 +41,15 @@ qué control cubre cada una; las opciones y versiones se consultan allí.
 
 Copiado el 2026-10-03 de la documentación de cada proyecto. Todas son de código abierto.
 
-Siglas de la tabla (cada control se explica en [[seguridad-en-el-pipeline]]):
+Siglas de la tabla (cada control se explica en [Seguridad en el pipeline](seguridad-en-el-pipeline.md)):
 
 - **SAST**: análisis estático del código propio, sin ejecutarlo.
 - **SCA**: análisis de las dependencias de terceros y sus vulnerabilidades.
 - **DAST**: pruebas contra la aplicación en ejecución.
 - **IaC**: infraestructura como código (Terraform, Helm, manifiestos de Kubernetes).
 - **CVE**: identificador público de una vulnerabilidad conocida.
-- **SBOM**: lista de componentes de un artefacto; ver [[cadena-de-suministro-de-software]].
-- **Rego**: el lenguaje de políticas de OPA; ver [[policy-as-code]].
+- **SBOM**: lista de componentes de un artefacto; ver [Cadena de suministro de software](cadena-de-suministro-de-software.md).
+- **Rego**: el lenguaje de políticas de OPA; ver [Policy as code](policy-as-code.md).
 
 | Control | Herramienta | Qué hace |
 |---|---|---|
@@ -58,7 +58,7 @@ Siglas de la tabla (cada control se explica en [[seguridad-en-el-pipeline]]):
 | SCA, imagen, IaC | Trivy | escanea repositorios, imágenes, artefactos y clústeres de Kubernetes; encuentra CVE y configuraciones inseguras, y genera SBOM |
 | IaC | Checkov | escanea Terraform, CloudFormation, Kubernetes, Helm, plantillas ARM y otros antes de aplicarlos |
 | DAST | ZAP (Zed Attack Proxy) | escáner de aplicaciones web en ejecución; hoy lo patrocina Checkmarx |
-| Policy gate | OPA con Conftest | evalúa archivos de configuración contra políticas en Rego; ver [[policy-as-code]] |
+| Policy gate | OPA con Conftest | evalúa archivos de configuración contra políticas en Rego; ver [Policy as code](policy-as-code.md) |
 | Ejecución | Falco | detecta comportamiento anómalo en hosts, contenedores y Kubernetes a partir de eventos del kernel |
 | SBOM | Syft | genera el SBOM de una imagen o un sistema de archivos en SPDX o CycloneDX |
 
@@ -69,12 +69,12 @@ propia a partir de lo que cubre cada una, no una recomendación de las fuentes.
 **TerraGoat no es un escáner.** Es un repositorio de Terraform vulnerable a propósito, para
 practicar y probar escáneres como Checkov. No se ejecuta en un pipeline real ni se despliega.
 
-Las herramientas de firma (cosign, gitsign) están en [[cadena-de-suministro-de-software]], y
-las de secretos para GitOps (SOPS, Sealed Secrets) en [[gestion-de-secretos]].
+Las herramientas de firma (cosign, gitsign) están en [Cadena de suministro de software](cadena-de-suministro-de-software.md), y
+las de secretos para GitOps (SOPS, Sealed Secrets) en [Gestión de secretos](gestion-de-secretos.md).
 
 ## Relaciones
 
-- Detalla y requiere: [[seguridad-en-el-pipeline]] — esta ficha pone nombre a cada control de esa nota.
-- Ver también: [[cadena-de-suministro-de-software]] — las herramientas de firma y procedencia, y qué es un SBOM.
-- Ver también: [[policy-as-code]] — cómo se escriben las reglas que evalúa Conftest.
-- Ver también: [[gestion-de-secretos]] — las herramientas para guardar secretos.
+- Detalla y requiere: [Seguridad en el pipeline](seguridad-en-el-pipeline.md) — esta ficha pone nombre a cada control de esa nota.
+- Ver también: [Cadena de suministro de software](cadena-de-suministro-de-software.md) — las herramientas de firma y procedencia, y qué es un SBOM.
+- Ver también: [Policy as code](policy-as-code.md) — cómo se escriben las reglas que evalúa Conftest.
+- Ver también: [Gestión de secretos](gestion-de-secretos.md) — las herramientas para guardar secretos.

@@ -44,12 +44,12 @@ cuántos de ellos vuelven a comprar en agosto, septiembre y octubre.
 
 ## No confundir con
 
-La [[cohorte-de-comportamiento|cohorte de comportamiento]] agrupa por lo que el usuario hizo
+La [cohorte de comportamiento](cohorte-de-comportamiento.md) agrupa por lo que el usuario hizo
 (usó una función, completó un paso), no por cuándo llegó. La de adquisición dice *cuándo* empezó
 cada grupo; la de comportamiento ayuda a explicar *por qué* unos se quedan más.
 
 ## Relaciones
 
-- Parte de: [[cohorte]] — es un tipo de cohorte, con la llegada como evento de entrada.
-- Requiere: [[cohorte]] — define el evento de entrada y la ventana, que esta nota da por sabidos.
-- Relacionado: [[cohorte-de-comportamiento]] — el otro tipo; se combinan para buscar causas.
+- Parte de: [Cohorte](cohorte.md) — es un tipo de cohorte, con la llegada como evento de entrada.
+- Requiere: [Cohorte](cohorte.md) — define el evento de entrada y la ventana, que esta nota da por sabidos.
+- Relacionado: [Cohorte de comportamiento](cohorte-de-comportamiento.md) — el otro tipo; se combinan para buscar causas.

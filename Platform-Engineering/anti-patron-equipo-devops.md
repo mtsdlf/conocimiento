@@ -31,7 +31,7 @@ cuello de botella.
 Según Skelton y Pais, el aporte de DevOps fue mostrar los problemas de interacción entre equipos
 a lo largo de la cadena de entrega: demoras, retrabajo, fallas y poca empatía con los otros
 equipos. Un equipo "DevOps" que se pone en el medio repite ese problema con otro nombre. En
-[[devops-topologies|DevOps Topologies]] es el Anti-Type B, "DevOps Team Silo".
+[DevOps Topologies](devops-topologies.md) es el Anti-Type B, "DevOps Team Silo".
 
 ## Cómo funciona
 
@@ -49,8 +49,8 @@ Tres preguntas lo detectan:
 
 Las salidas que propone DevOps Topologies son un equipo con fecha de disolución (Type 5), un
 equipo que facilita sin operar (Type 6) o un equipo que ofrece infraestructura como servicio
-(Type 3). En [[team-topologies|Team Topologies]], el equivalente es un platform team que construye
-[[self-service]], o un enabling team que enseña y se retira.
+(Type 3). En [Team Topologies](team-topologies.md), el equivalente es un platform team que construye
+[Self-service](self-service.md), o un enabling team que enseña y se retira.
 
 ## Ejemplo
 
@@ -65,6 +65,6 @@ hace el trabajo por ellos.
 
 ## Relaciones
 
-- Requiere: [[self-service]] — la alternativa que este equipo no construye.
-- Requiere: [[team-topologies]] — el modelo con que se diagnostica y se corrige.
-- Relacionado: [[devops-topologies]] — donde figura como Anti-Type B.
+- Requiere: [Self-service](self-service.md) — la alternativa que este equipo no construye.
+- Requiere: [Team Topologies](team-topologies.md) — el modelo con que se diagnostica y se corrige.
+- Relacionado: [DevOps Topologies](devops-topologies.md) — donde figura como Anti-Type B.

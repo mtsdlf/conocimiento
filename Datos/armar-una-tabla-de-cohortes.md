@@ -29,10 +29,10 @@ definición.
 
 - Una tabla de eventos con, al menos, el identificador de usuario, el nombre del evento y la
   fecha.
-- Saber leer una [[tabla-de-cohortes]], que es el resultado de estos pasos.
+- Saber leer una [Tabla de cohortes](tabla-de-cohortes.md), que es el resultado de estos pasos.
 - Cuatro decisiones escritas: el evento de entrada, el evento de retorno, la granularidad (día,
-  semana o mes) y la forma de contar el retorno, [[retencion-de-n-dias|N días]] o
-  [[retencion-unbounded|unbounded]].
+  semana o mes) y la forma de contar el retorno, [N días](retencion-de-n-dias.md) o
+  [unbounded](retencion-unbounded.md).
 
 ## Pasos
 
@@ -59,6 +59,6 @@ definición.
 
 ## Relaciones
 
-- Requiere: [[cohorte-de-adquisicion]] — define las filas.
-- Requiere: [[tabla-de-cohortes]] — es la forma del resultado y explica cómo se lee.
-- Usa: [[tasa-de-retencion-por-cohorte]] — es lo que se calcula en cada celda.
+- Requiere: [Cohorte de adquisición](cohorte-de-adquisicion.md) — define las filas.
+- Requiere: [Tabla de cohortes](tabla-de-cohortes.md) — es la forma del resultado y explica cómo se lee.
+- Usa: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — es lo que se calcula en cada celda.

@@ -31,7 +31,7 @@ La muda del gecko leopardo es el recambio periódico de la piel, que el animal s
 
 ## Por qué existe
 
-Animal Diversity Web registra que la especie "eats the sloughed skin". La muda acompaña el crecimiento, así que es más frecuente en [[crecimiento-del-gecko|crías]]. Falla cuando la piel no se suelta: ver [[retencion-de-muda|retención de muda]].
+Animal Diversity Web registra que la especie "eats the sloughed skin". La muda acompaña el crecimiento, así que es más frecuente en [crías](crecimiento-del-gecko.md). Falla cuando la piel no se suelta: ver [retención de muda](retencion-de-muda.md).
 
 ## Cómo funciona
 
@@ -45,7 +45,7 @@ Un sitio de aficionado sin revisión veterinaria (reptile.guide) da esta frecuen
 
 Otras fuentes de buscador (no leídas) dan cada 2 a 4 semanas para juveniles. Las señales previas, según el mismo sitio: se ve opaco o "papery", baja el apetito, el patrón se vuelve grisáceo y hay irritabilidad.
 
-La [[humedad-localizada|humedad localizada]] es el factor que más pesa: la piel retenida se encoge al secarse y puede formar bandas que cortan la circulación y llevan a perder la extremidad (Wright, DVM). Otras causas de retención que listan las fuentes veterinarias: vitamina A baja, parásitos o infección, terrario frío, falta de superficies ásperas, mala dieta y lesión.
+La [humedad localizada](humedad-localizada.md) es el factor que más pesa: la piel retenida se encoge al secarse y puede formar bandas que cortan la circulación y llevan a perder la extremidad (Wright, DVM). Otras causas de retención que listan las fuentes veterinarias: vitamina A baja, parásitos o infección, terrario frío, falta de superficies ásperas, mala dieta y lesión.
 
 ## Ejemplo
 
@@ -53,7 +53,7 @@ Un adulto opaco deja de comer un día, pasa tiempo en el refugio húmedo y sale 
 
 ## No confundir con
 
-- **"Es de desierto, no necesita humedad."** Ver [[humedad-localizada|humedad localizada]]: el aire sigue seco, pero la muda necesita un refugio húmedo.
+- **"Es de desierto, no necesita humedad."** Ver [humedad localizada](humedad-localizada.md): el aire sigue seco, pero la muda necesita un refugio húmedo.
 
 > [!NOTE]
 > Sin fuente todavía: frecuencia de muda por edad con fuente veterinaria; cuánto esperar antes de consultar (un sitio sin veterinario dice 24 h y otra fuente no leída, 3 días con parches grandes); y riesgos de una cueva húmeda siempre disponible. La base no es consejo veterinario.
@@ -64,4 +64,4 @@ Un adulto opaco deja de comer un día, pasa tiempo en el refugio húmedo y sale 
 
 ## Relaciones
 
-- Requiere: [[humedad-localizada|Humedad localizada]] — sin refugio húmedo la piel se retiene.
+- Requiere: [Humedad localizada](humedad-localizada.md) — sin refugio húmedo la piel se retiene.

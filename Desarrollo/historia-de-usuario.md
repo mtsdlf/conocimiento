@@ -74,4 +74,4 @@ visible: es un paso para cumplir una historia y se planifica dentro de ella.
 
 ## Relaciones
 
-- Relacionado: [[disenar-casos-de-prueba-de-api]] — cada criterio de aceptación se convierte en uno o más casos de prueba.
+- Relacionado: [Diseñar casos de prueba de una API](disenar-casos-de-prueba-de-api.md) — cada criterio de aceptación se convierte en uno o más casos de prueba.

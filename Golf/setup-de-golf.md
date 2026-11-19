@@ -59,11 +59,11 @@ apuntando paralelo al objetivo, y otro sobre la línea entre la pelota y el obje
 
 ## No confundir con
 
-Setup y swing: el setup es estático y se controla mirando; el [[swing-de-golf]] es el movimiento
+Setup y swing: el setup es estático y se controla mirando; el [Swing de golf](swing-de-golf.md) es el movimiento
 que sale de él.
 
 ## Relaciones
 
-- Requiere: [[grip-de-golf]] — el setup se arma con el palo ya agarrado.
-- Base de: [[swing-de-golf]] — el swing arranca del setup.
-- Base de: [[putt]] — el putt tiene su propio setup, con la misma idea de alineación.
+- Requiere: [Grip de golf](grip-de-golf.md) — el setup se arma con el palo ya agarrado.
+- Base de: [Swing de golf](swing-de-golf.md) — el swing arranca del setup.
+- Base de: [Putt](putt.md) — el putt tiene su propio setup, con la misma idea de alineación.

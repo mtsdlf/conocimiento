@@ -31,7 +31,7 @@ Azure DNS Private Resolver.
 
 ## Por qué importa
 
-El [[private-endpoint]] puede estar bien creado y la aplicación igual sale a la IP pública, porque
+El [Private endpoint](private-endpoint.md) puede estar bien creado y la aplicación igual sale a la IP pública, porque
 resolvió el nombre con un DNS que no conoce la zona privada. Con el acceso público apagado, eso
 se ve como un 403 o un timeout que no parece un problema de DNS.
 
@@ -73,12 +73,12 @@ spoke.
 
 ## No confundir con
 
-[[split-horizon-dns]]: un nombre que resuelve distinto según quién pregunta. La zona `privatelink`
+[Split-horizon DNS](../Infraestructura/split-horizon-dns.md): un nombre que resuelve distinto según quién pregunta. La zona `privatelink`
 es un caso de eso dentro de Azure: el mismo nombre da la IP privada en las VNets vinculadas y la
 pública en internet.
 
 ## Relaciones
 
-- Requiere: [[private-endpoint]] — la zona guarda la IP del endpoint.
-- Usa: [[conectividad-hibrida-azure]] — el camino desde la red propia hasta el resolver.
-- En otro Tema: [[split-horizon-dns]] — el mismo principio aplicado a una LAN.
+- Requiere: [Private endpoint](private-endpoint.md) — la zona guarda la IP del endpoint.
+- Usa: [Conectividad híbrida en Azure](conectividad-hibrida-azure.md) — el camino desde la red propia hasta el resolver.
+- En otro Tema: [Split-horizon DNS](../Infraestructura/split-horizon-dns.md) — el mismo principio aplicado a una LAN.

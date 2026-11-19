@@ -49,7 +49,7 @@ La regeneración se estudió en 89 juveniles de menos de un año, a unos 24 °C 
 | VI | 18 a 30 d |
 | VII | 25 o más |
 
-La estructura nueva difiere de la [[cola-del-gecko|cola]] original: un cono cartilaginoso reemplaza al esqueleto, un tubo ependimario a la médula, no se regeneran vértebras ni notocorda y "bone is never developed", aunque el cartílago puede calcificarse.
+La estructura nueva difiere de la [cola](cola-del-gecko.md) original: un cono cartilaginoso reemplaza al esqueleto, un tubo ependimario a la médula, no se regeneran vértebras ni notocorda y "bone is never developed", aunque el cartílago puede calcificarse.
 
 ## Ejemplo
 
@@ -57,7 +57,7 @@ Tras la pérdida, las fuerzas de reacción del suelo del miembro posterior bajar
 
 ## No confundir con
 
-- **Cola regenerada igual a la original.** No lo es: Vet Times lo dice y los porcentajes de [[cola-del-gecko|cola]] lo muestran.
+- **Cola regenerada igual a la original.** No lo es: Vet Times lo dice y los porcentajes de [cola](cola-del-gecko.md) lo muestran.
 
 > [!NOTE]
 > Sin fuente todavía: protocolo de cuidado después de la pérdida (limpieza, sustrato, cuándo consultar). Tampoco hay fuente leída sobre qué dispara la autotomía en libertad, más allá de la defensa.
@@ -70,4 +70,4 @@ Según el resumen de un estudio de *Zoology* 2015 (no leído completo), en juven
 
 ## Relaciones
 
-- Requiere: [[cola-del-gecko|Cola]] — la autotomía suelta esa parte y la regeneración la reemplaza.
+- Requiere: [Cola](cola-del-gecko.md) — la autotomía suelta esa parte y la regeneración la reemplaza.

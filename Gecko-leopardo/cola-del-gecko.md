@@ -35,9 +35,9 @@ Jagnandan et al. 2014 midieron 7 hembras adultas de 39,4 ± 1,2 g: la cola origi
 
 ## Cómo funciona
 
-La cola del [[eublepharis-macularius|gecko leopardo]] funciona como reserva y su tamaño cambia con la condición del animal. Hay dos casos.
+La cola del [gecko leopardo](eublepharis-macularius.md) funciona como reserva y su tamaño cambia con la condición del animal. Hay dos casos.
 
-- **Cola original:** esqueleto de vértebras y médula. Si se pierde, ver [[autotomia|autotomía]].
+- **Cola original:** esqueleto de vértebras y médula. Si se pierde, ver [autotomía](autotomia.md).
 - **Cola regenerada:** según Jagnandan et al., llega al 61 % del largo original y al 131 % del diámetro máximo. Por eso se ve más corta y gruesa. Pesa el 15 % de la masa corporal. Su esqueleto es un cono de cartílago, sin vértebras (McLean y Vickaryous 2011).
 
 ## Ejemplo
@@ -51,7 +51,7 @@ Una hembra adulta de unos 39 g con cola original debería llevar en ella alreded
 > [!NOTE]
 > Sin fuente todavía: un índice cola/cuello o una escala de condición corporal validados para la especie. No existe una regla publicada; las reglas que circulan son de criadores. Tampoco hay fuente sobre ojos hundidos ni prolapso cloacal como señales de estado.
 
-La piel, la mandíbula y las patas también muestran estado: una mandíbula blanda o patas arqueadas se describen en [[enfermedad-metabolica-osea|enfermedad metabólica ósea]]. La base no es consejo veterinario.
+La piel, la mandíbula y las patas también muestran estado: una mandíbula blanda o patas arqueadas se describen en [enfermedad metabólica ósea](enfermedad-metabolica-osea.md). La base no es consejo veterinario.
 
 ## Para profundizar
 
@@ -59,4 +59,4 @@ La piel, la mandíbula y las patas también muestran estado: una mandíbula blan
 
 ## Relaciones
 
-- Parte de: [[eublepharis-macularius|Gecko leopardo]] — la cola es una parte de su cuerpo.
+- Parte de: [Gecko leopardo](eublepharis-macularius.md) — la cola es una parte de su cuerpo.

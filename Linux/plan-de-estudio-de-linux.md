@@ -28,7 +28,7 @@ objetivo, práctica, herramientas y mini-proyecto de cada mes, con la bibliograf
 ## Fuente
 
 Plan generado con una IA y revisado al migrarlo. Las notas del Tema explican los conceptos; el
-orden de lectura está en [[recorrido-linux-por-dentro]].
+orden de lectura está en [Linux por dentro](recorrido-linux-por-dentro.md).
 
 ## Valores
 
@@ -39,7 +39,7 @@ discos, USB ni el arranque de los meses 2 y 3.
 ### Mes 1. Arquitectura y espacio de usuario
 
 - **Objetivo**: entender cómo está armado Linux y cómo se combinan sus herramientas.
-- **Leer**: [[arquitectura-de-linux]], [[llamada-al-sistema]], [[fhs]], [[pipe-y-redireccion]].
+- **Leer**: [Arquitectura de Linux](arquitectura-de-linux.md), [Llamada al sistema](llamada-al-sistema.md), [FHS](fhs.md), [Pipe y redirección](pipe-y-redireccion.md).
 - **También**: shells y sus archivos (`.bashrc`, `.profile`), variables de entorno y `PATH`,
   secciones del manual (`man 7`, `apropos`, `whatis`, `tldr`).
 - **Práctica**: recorrer `/proc/<PID>/` y `/sys`; un script que gestione logs, usuarios y un
@@ -52,7 +52,7 @@ discos, USB ni el arranque de los meses 2 y 3.
 ### Mes 2. Arranque, systemd y servicios
 
 - **Objetivo**: entender cómo arranca Linux y cómo administra procesos y servicios.
-- **Leer**: [[arranque-de-linux]], [[daemon]], [[systemd]].
+- **Leer**: [Arranque de Linux](arranque-de-linux.md), [Daemon](daemon.md), [systemd](systemd.md).
 - **También**: señales, usuarios y grupos (`useradd`, `sudoers`, PAM, polkit), `cron`.
 - **Práctica**: un servicio propio con dependencias; backups con timers; analizar el arranque
   con `systemd-analyze`.
@@ -64,7 +64,7 @@ discos, USB ni el arranque de los meses 2 y 3.
 ### Mes 3. Sistemas de archivos, almacenamiento y kernel
 
 - **Objetivo**: manejar el almacenamiento y las interfaces del kernel.
-- **Leer**: [[pseudo-sistema-de-archivos]], [[fhs]].
+- **Leer**: [Pseudo-sistema de archivos](pseudo-sistema-de-archivos.md), [FHS](fhs.md).
 - **También**: inodos, ACLs y capabilities; ext4, XFS, btrfs y ZFS; LVM, RAID y snapshots;
   tmpfs, loop devices, bind mounts y OverlayFS; `udev`.
 - **Práctica**: crear y montar volúmenes LVM y configurar `fstab`; cambiar parámetros del kernel
@@ -77,7 +77,7 @@ discos, USB ni el arranque de los meses 2 y 3.
 ### Mes 4. Red, namespaces y cgroups
 
 - **Objetivo**: dominar la red moderna y el aislamiento del kernel.
-- **Leer**: `man 7 namespaces` y `man 7 cgroups`; repasar [[systemd]], que ordena los servicios en cgroups.
+- **Leer**: `man 7 namespaces` y `man 7 cgroups`; repasar [systemd](systemd.md), que ordena los servicios en cgroups.
 - **También**: `iproute2` y netlink; interfaces, rutas, bridges, VLANs y bonding; namespaces
   (`pid`, `net`, `mnt`, `uts`, `ipc`, `user`, `cgroup`); cgroups v2; cómo los usan Docker,
   Podman y Kubernetes.
@@ -126,4 +126,4 @@ discos, USB ni el arranque de los meses 2 y 3.
 
 ## Relaciones
 
-- Se lee con: [[recorrido-linux-por-dentro]] — el orden de lectura de las notas que enlaza cada mes.
+- Se lee con: [Linux por dentro](recorrido-linux-por-dentro.md) — el orden de lectura de las notas que enlaza cada mes.

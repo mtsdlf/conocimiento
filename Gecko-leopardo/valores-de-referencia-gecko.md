@@ -35,7 +35,7 @@ idioma: es
 
 Valores de referencia del gecko leopardo (temperaturas, humedad, luz, frecuencia de comida, pesos, tamaños y recinto), cada uno con su fuente y su desacuerdo; para varios no hay fuente primaria todavía y queda dicho.
 
-Copiado de las fuentes del frontmatter el 2026-11-11, con las unidades de cada fuente. Los valores salen de manuales, una ONG de bienestar y estudios de laboratorio; ninguno es una prescripción. La base no es consejo veterinario, y vale para los valores de salud de esta ficha. El modelo detrás de los números está en [[termorregulacion-conductual|termorregulacion-conductual]]: el animal elige entre temperaturas, así que los valores describen un rango y no un punto.
+Copiado de las fuentes del frontmatter el 2026-11-11, con las unidades de cada fuente. Los valores salen de manuales, una ONG de bienestar y estudios de laboratorio; ninguno es una prescripción. La base no es consejo veterinario, y vale para los valores de salud de esta ficha. El modelo detrás de los números está en [termorregulacion-conductual](termorregulacion-conductual.md): el animal elige entre temperaturas, así que los valores describen un rango y no un punto.
 
 ## Temperatura
 
@@ -51,7 +51,7 @@ Copiado de las fuentes del frontmatter el 2026-11-11, con las unidades de cada f
 | Zona caliente / lado frío según criadores | 90–95 °F / 72–77 °F | ReptiFiles | Secundaria, sin estudios |
 
 > [!IMPORTANT]
-> Disputado: el punto caliente. RSPCA propone 28–30 °C y Merck una zona óptima de 25–30 °C con el asoleo 5 °C más arriba. ReptiFiles propone 90–95 °F (unos 32–35 °C). El estudio de Oonincx midió 33,0 °C en superficie, con termostato a 32 °C. Nadie probó un máximo de seguridad, y esa temperatura máxima descansa en dos fuentes que no la ensayaron como límite. Detalle en [[temperatura-del-punto-caliente|temperatura-del-punto-caliente]].
+> Disputado: el punto caliente. RSPCA propone 28–30 °C y Merck una zona óptima de 25–30 °C con el asoleo 5 °C más arriba. ReptiFiles propone 90–95 °F (unos 32–35 °C). El estudio de Oonincx midió 33,0 °C en superficie, con termostato a 32 °C. Nadie probó un máximo de seguridad, y esa temperatura máxima descansa en dos fuentes que no la ensayaron como límite. Detalle en [temperatura-del-punto-caliente](temperatura-del-punto-caliente.md).
 
 Otras guías de comercio, vistas solo en resúmenes de buscador, dan 88–95 °F, 90–92 °F y hasta 90–100 °F (35–38 °C); este último está por encima de lo que respaldan Merck y el estudio, y no se toma como valor. Una guía advierte que 94–95 °F o más es peligroso.
 
@@ -65,7 +65,7 @@ Otras guías de comercio, vistas solo en resúmenes de buscador, dan 88–95 °F
 | Humedad ambiente según criadores | 30–40 % | ReptiFiles |
 
 > [!NOTE]
-> Sin fuente todavía: la humedad de la cueva húmeda (en guías ronda 70 %). El estudio de Oonincx incluyó un refugio con arena húmeda pero no midió su humedad. Cómo se aplica está en [[humedad-localizada|humedad-localizada]].
+> Sin fuente todavía: la humedad de la cueva húmeda (en guías ronda 70 %). El estudio de Oonincx incluyó un refugio con arena húmeda pero no midió su humedad. Cómo se aplica está en [humedad-localizada](humedad-localizada.md).
 
 ## Luz
 
@@ -75,7 +75,7 @@ Otras guías de comercio, vistas solo en resúmenes de buscador, dan 88–95 °F
 | UVI usado en crías, 2 h por día | 1,0 a 1,6 (33–51 µW/cm²) | Oonincx 2020 |
 | Iluminación especial | "NS" (sin requisitos especiales); luz de amplio espectro recomendada | Merck |
 
-El desacuerdo sobre si hace falta UVB está en [[uvb-si-o-no|uvb-si-o-no]].
+El desacuerdo sobre si hace falta UVB está en [uvb-si-o-no](uvb-si-o-no.md).
 
 > [!NOTE]
 > Sin fuente todavía: fotoperíodo recomendado. Un estudio usó 12:12 y otro 12/12, pero como diseño experimental, no como recomendación.
@@ -89,7 +89,7 @@ El desacuerdo sobre si hace falta UVB está en [[uvb-si-o-no|uvb-si-o-no]].
 | Ejemplo medido | Larvas al 5 % del peso corporal, tres veces por semana, machos adultos; comieron unos 2,74 % del peso por comida | Boykin et al. 2020 |
 
 > [!NOTE]
-> Sin fuente todavía: calendario de comidas por edad y cantidades. Las frecuencias para adultos de cada 2 a 4 días y las cantidades salen solo de fichas comerciales. Ver [[alimentar-y-suplementar|alimentar-y-suplementar]].
+> Sin fuente todavía: calendario de comidas por edad y cantidades. Las frecuencias para adultos de cada 2 a 4 días y las cantidades salen solo de fichas comerciales. Ver [alimentar-y-suplementar](alimentar-y-suplementar.md).
 
 ## Pesos y tamaños
 
@@ -103,7 +103,7 @@ El desacuerdo sobre si hace falta UVB está en [[uvb-si-o-no|uvb-si-o-no]].
 | Largo hocico-cloaca máximo medido | 137,8 mm machos, 128,7 mm hembras | Kratochvíl y Frynta 2002 | Crecimiento asintótico |
 
 > [!NOTE]
-> Sin fuente todavía: una curva de peso por edad de fuente veterinaria o institucional. Las tablas por edad halladas son de sitios de mascotas y no se usan. Contexto en [[crecimiento-del-gecko|crecimiento]].
+> Sin fuente todavía: una curva de peso por edad de fuente veterinaria o institucional. Las tablas por edad halladas son de sitios de mascotas y no se usan. Contexto en [crecimiento](crecimiento-del-gecko.md).
 
 ## Recinto
 
@@ -114,8 +114,8 @@ El desacuerdo sobre si hace falta UVB está en [[uvb-si-o-no|uvb-si-o-no]].
 | Según criadores | 36 × 18 × 18 pulgadas y al menos 4,5 sq ft de piso | ReptiFiles |
 
 > [!IMPORTANT]
-> Disputado: el tamaño mínimo. La RSPCA fija 60 × 30 cm de base; ReptiFiles, unos 91 × 46 cm, y rechaza los 10 o 20 galones de otras guías sin citar estudios. Ninguna fuente primaria justifica un mínimo con datos propios. Ver [[armar-el-terrario|armar-el-terrario]].
+> Disputado: el tamaño mínimo. La RSPCA fija 60 × 30 cm de base; ReptiFiles, unos 91 × 46 cm, y rechaza los 10 o 20 galones de otras guías sin citar estudios. Ninguna fuente primaria justifica un mínimo con datos propios. Ver [armar-el-terrario](armar-el-terrario.md).
 
 ## Relaciones
 
-- Requiere: [[termorregulacion-conductual|termorregulacion-conductual]] — los valores de temperatura describen el rango entre el que el animal elige.
+- Requiere: [termorregulacion-conductual](termorregulacion-conductual.md) — los valores de temperatura describen el rango entre el que el animal elige.

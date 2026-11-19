@@ -42,8 +42,8 @@ Más baja es mejor. Con un churn mensual constante *c*, la vida media de un clie
 - Promedia toda la base: mezcla clientes nuevos, que se van más, con veteranos, que se van menos.
   Según Fader y Hardie, el churn de una cohorte baja con su antigüedad aunque ningún cliente
   cambie, porque los propensos a irse se van primero. Para ver si los nuevos se van más rápido se
-  usa la [[tasa-de-retencion-por-cohorte|tasa de retención por cohorte]].
-- En productos sin contrato depende de la ventana de inactividad elegida (ver [[churn]]).
+  usa la [tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md).
+- En productos sin contrato depende de la ventana de inactividad elegida (ver [Churn](churn.md)).
 - El churn de ingresos (MRR perdido ÷ MRR inicial) es otra métrica: cuenta dinero, no clientes.
 
 ## Dónde se calcula
@@ -59,6 +59,6 @@ Este Tema todavía no tiene un modelo enlazable.
 
 ## Relaciones
 
-- Requiere: [[churn]] — define qué cuenta como irse.
-- Relacionado: [[tasa-de-retencion-por-cohorte]] — la mirada por cohorte que corrige el sesgo del
+- Requiere: [Churn](churn.md) — define qué cuenta como irse.
+- Relacionado: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — la mirada por cohorte que corrige el sesgo del
   promedio.

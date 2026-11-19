@@ -58,7 +58,7 @@ La especificación aclara que `v1.2.3` no es una versión semántica: la versió
 
 Una biblioteca en `2.3.1` agrega un parámetro opcional: pasa a `2.4.0`. Después quita un método
 público: pasa a `3.0.0`. Antes de publicarla saca `3.0.0-rc.1` para que la prueben otros equipos.
-Si los mensajes de commit siguen [[conventional-commits]], el pipeline calcula ese número solo.
+Si los mensajes de commit siguen [Conventional Commits](conventional-commits.md), el pipeline calcula ese número solo.
 
 ## No confundir con
 
@@ -67,7 +67,7 @@ compatibilidad, no cuándo se publicó.
 
 ## Relaciones
 
-- La usa: [[conventional-commits]] — la convención de commits que calcula la próxima versión con estas reglas.
-- Relacionado: [[estrategia-de-branching]] — define qué ramas producen versiones publicables.
-- Relacionado: [[gitflow]] — pone un tag de versión en `main` al cerrar cada release.
-- Relacionado: [[coordinacion-entre-repositorios]] — fija las versiones de las que depende cada repo.
+- La usa: [Conventional Commits](conventional-commits.md) — la convención de commits que calcula la próxima versión con estas reglas.
+- Relacionado: [Estrategia de branching](estrategia-de-branching.md) — define qué ramas producen versiones publicables.
+- Relacionado: [Gitflow](gitflow.md) — pone un tag de versión en `main` al cerrar cada release.
+- Relacionado: [Coordinación entre repositorios](coordinacion-entre-repositorios.md) — fija las versiones de las que depende cada repo.

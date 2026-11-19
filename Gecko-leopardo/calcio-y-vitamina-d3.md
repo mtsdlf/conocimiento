@@ -31,7 +31,7 @@ El gecko leopardo obtiene vitamina D3 de la dieta y también puede sintetizarla 
 
 ## Por qué existe
 
-Durante años las guías populares afirmaron que una especie [[actividad-crepuscular|crepuscular]] no necesita UVB (Tremper 2012, citado por Oonincx et al.). En 2018 y 2020 dos estudios midieron que sí sintetiza D3 con UVB. Esa síntesis no prueba que la necesite, y esa pregunta sigue abierta.
+Durante años las guías populares afirmaron que una especie [crepuscular](actividad-crepuscular.md) no necesita UVB (Tremper 2012, citado por Oonincx et al.). En 2018 y 2020 dos estudios midieron que sí sintetiza D3 con UVB. Esa síntesis no prueba que la necesite, y esa pregunta sigue abierta.
 
 ## Cómo funciona
 
@@ -43,7 +43,7 @@ La D3 llega por dos vías: la dieta, o la piel, donde la UVB de 280 a 320 nm con
 
 ## No confundir con
 
-- **"Sin UVB siempre hay enfermedad metabólica ósea."** Los juveniles con D3 dietaria no la tuvieron en seis meses. Merck y Vet Times, en cambio, citan el UVB inadecuado entre las causas de [[enfermedad-metabolica-osea|enfermedad metabólica ósea]], junto con calcio, suplementación y calor.
+- **"Sin UVB siempre hay enfermedad metabólica ósea."** Los juveniles con D3 dietaria no la tuvieron en seis meses. Merck y Vet Times, en cambio, citan el UVB inadecuado entre las causas de [enfermedad metabólica ósea](enfermedad-metabolica-osea.md), junto con calcio, suplementación y calor.
 - **"Más suplemento es mejor."** Hay riesgo de exceso de vitamina D, pero no hay umbral para la especie.
 
 > [!NOTE]
@@ -57,4 +57,4 @@ Todos los animales de Oonincx recibían además D3 oral: el estudio muestra sín
 
 ## Relaciones
 
-- Requiere: [[actividad-crepuscular|Actividad crepuscular]] — el hábito de actividad explica por qué la UVB se creyó innecesaria.
+- Requiere: [Actividad crepuscular](actividad-crepuscular.md) — el hábito de actividad explica por qué la UVB se creyó innecesaria.

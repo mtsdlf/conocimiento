@@ -67,6 +67,6 @@ los sistemas que se enchufan a esa capa.
 
 ## Relaciones
 
-- Requiere: [[arquitectura-de-linux]] — expone el kernel al espacio de usuario.
-- Relacionado: [[systemd]] — usa los cgroups de `/sys/fs/cgroup` para seguir y limitar cada servicio.
-- Relacionado: [[fhs]] — `/proc`, `/sys`, `/dev` y `/run` son directorios del estándar sin datos en disco.
+- Requiere: [Arquitectura de Linux](arquitectura-de-linux.md) — expone el kernel al espacio de usuario.
+- Relacionado: [systemd](systemd.md) — usa los cgroups de `/sys/fs/cgroup` para seguir y limitar cada servicio.
+- Relacionado: [FHS](fhs.md) — `/proc`, `/sys`, `/dev` y `/run` son directorios del estándar sin datos en disco.

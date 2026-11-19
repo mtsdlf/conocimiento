@@ -57,7 +57,7 @@ como falla.
 
 Un servicio de carrito llama a Precios con una ventana de 20 llamadas y un umbral del 50 %. Si
 11 de las últimas 20 fallan, el breaker se abre por 10 segundos y el carrito usa su
-[[degradacion-controlada]]: muestra el último precio guardado marcado como estimado.
+[Degradación controlada](degradacion-controlada.md): muestra el último precio guardado marcado como estimado.
 
 ## No confundir con
 
@@ -67,6 +67,6 @@ y el breaker evita reintentar contra una dependencia caída.
 
 ## Relaciones
 
-- Base de: [[degradacion-controlada]] — qué se devuelve cuando el breaker está abierto.
-- Casos: [[resilience4j-en-spring-boot]] — una implementación en Java.
-- Relacionado: [[saga]] — en un checkout, una falla con el breaker abierto dispara las compensaciones de la saga.
+- Base de: [Degradación controlada](degradacion-controlada.md) — qué se devuelve cuando el breaker está abierto.
+- Casos: [Proteger un cliente HTTP con Resilience4j en Spring Boot](resilience4j-en-spring-boot.md) — una implementación en Java.
+- Relacionado: [Saga](saga.md) — en un checkout, una falla con el breaker abierto dispara las compensaciones de la saga.

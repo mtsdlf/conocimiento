@@ -32,7 +32,7 @@ parcial, sparse checkout, worktrees y mantenimiento programado.
 ## Por qué importa
 
 Un clon normal descarga todos los objetos de toda la historia (ver
-[[modelo-de-objetos-de-git]]). En un monorepo de años, eso puede ser decenas de GB y minutos de
+[Modelo de objetos de Git](modelo-de-objetos-de-git.md)). En un monorepo de años, eso puede ser decenas de GB y minutos de
 espera en cada job de CI, y `git status` tarda porque recorre cientos de miles de archivos. Cada
 técnica ataca una de esas dos cosas: lo que se descarga o lo que se mira.
 
@@ -54,7 +54,7 @@ sueltos, porque es mucho más rápido de evaluar; el modo sin cone está desacon
 `scalar`, incluido en Git desde la 2.38, configura todo esto junto en un comando
 (`scalar clone <url>`): clon parcial, sparse checkout, monitor de archivos y mantenimiento.
 
-Los binarios grandes son otro problema: no se resuelven con estas técnicas sino con [[git-lfs]].
+Los binarios grandes son otro problema: no se resuelven con estas técnicas sino con [Git LFS](git-lfs.md).
 
 ## Ejemplo
 
@@ -65,12 +65,12 @@ de frontend usa `scalar clone` y `git sparse-checkout set apps/web libs/ui`: su 
 ## No confundir con
 
 Partir el repositorio. Pasar de monorepo a varios repos es una decisión de organización, con
-otros costos; ver [[monorepo-y-multirepo]] en DevOps. Estas técnicas hacen viable un repo grande
+otros costos; ver [Monorepo y multirepo](../../DevOps/monorepo-y-multirepo.md) en DevOps. Estas técnicas hacen viable un repo grande
 sin partirlo.
 
 ## Relaciones
 
-- Requiere: [[modelo-de-objetos-de-git]] — qué son los blobs y trees que se dejan de descargar.
-- Relacionado: [[git-lfs]] — la solución para archivos binarios grandes.
-- Ver también: [[mirror-de-git]] — un mirror local acelera los clones de CI.
-- Ver también: [[monorepo-y-multirepo]] (DevOps) — cuándo conviene un repo grande.
+- Requiere: [Modelo de objetos de Git](modelo-de-objetos-de-git.md) — qué son los blobs y trees que se dejan de descargar.
+- Relacionado: [Git LFS](git-lfs.md) — la solución para archivos binarios grandes.
+- Ver también: [Mirror de Git](mirror-de-git.md) — un mirror local acelera los clones de CI.
+- Ver también: [Monorepo y multirepo](../../DevOps/monorepo-y-multirepo.md) (DevOps) — cuándo conviene un repo grande.

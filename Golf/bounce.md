@@ -43,7 +43,7 @@ patina en lugar de cortar. Titleist agrupa los wedges en tres rangos:
 | Alto | más de 10° | Pasto blando, arena suelta y jugadores que sacan mucho divot |
 
 El bounce va grabado en la cabeza, después del loft: un Titleist Vokey "60-04" tiene 60° de
-[[loft]] y 4° de bounce. El **grind** es el desgaste que el fabricante le hace a la suela para
+[Loft](loft.md) y 4° de bounce. El **grind** es el desgaste que el fabricante le hace a la suela para
 cambiar cómo apoya el palo; Vokey lo identifica con letras (F, S, M, K, L).
 
 ## Ejemplo
@@ -59,5 +59,5 @@ del vuelo; el bounce es el de la suela y decide cómo entra el palo al piso.
 
 ## Relaciones
 
-- Requiere: [[loft]] — el bounce se lee junto al loft en el wedge.
-- Base de: [[juego-corto]] — el bounce se usa sobre todo en el golpe de bunker y el pitch.
+- Requiere: [Loft](loft.md) — el bounce se lee junto al loft en el wedge.
+- Base de: [Juego corto](juego-corto.md) — el bounce se usa sobre todo en el golpe de bunker y el pitch.

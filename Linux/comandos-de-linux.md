@@ -50,7 +50,7 @@ coreutils, util-linux, procps e iproute2.
 | Función | Comandos |
 |---|---|
 | Procesos | `ps`, `pgrep`, `pkill`, `pstree`, `kill`, `nice`, `renice`, `jobs` |
-| Servicios ([[systemd]]) | `systemctl start\|stop\|status\|enable <unidad>`, `systemd-analyze blame` |
+| Servicios ([systemd](systemd.md)) | `systemctl start\|stop\|status\|enable <unidad>`, `systemd-analyze blame` |
 | Logs | `journalctl -u <unidad>`, `journalctl -b`, `dmesg`, `logger` |
 | Tareas programadas | `crontab -e`, `at`, `systemctl list-timers` |
 | Sesiones | `loginctl`, `who`, `w` |
@@ -127,6 +127,6 @@ pacman -Syu                      # Arch: actualizar todo
 
 ## Relaciones
 
-- Detalla: [[daemon]] y [[systemd]] — los comandos para ver y controlar servicios.
-- Detalla: [[llamada-al-sistema]] — `strace` y `ltrace`.
-- Detalla: [[pipe-y-redireccion]] — los comandos de texto que se combinan con pipes.
+- Detalla: [Daemon](daemon.md) y [systemd](systemd.md) — los comandos para ver y controlar servicios.
+- Detalla: [Llamada al sistema](llamada-al-sistema.md) — `strace` y `ltrace`.
+- Detalla: [Pipe y redirección](pipe-y-redireccion.md) — los comandos de texto que se combinan con pipes.

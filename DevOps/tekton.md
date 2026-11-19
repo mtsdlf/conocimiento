@@ -29,7 +29,7 @@ clúster, con params y workspaces, y los dispara ante eventos externos con Tekto
 
 ## Por qué importa
 
-Un [[pipeline-de-ci-cd]] en Tekton vive en el mismo clúster donde se despliega: se versiona como
+Un [Pipeline de CI/CD](pipeline-de-ci-cd.md) en Tekton vive en el mismo clúster donde se despliega: se versiona como
 cualquier manifiesto, escala con los nodos y no necesita un servidor de CI aparte. OpenShift lo
 distribuye como OpenShift Pipelines.
 
@@ -83,17 +83,17 @@ flowchart LR
 
 ## Ejemplo
 
-Argo CD es el agente de [[gitops]] que aplica en el clúster lo que hay en un repositorio. Un push llega al EventListener; el TriggerBinding toma la URL del repositorio y la rama; el
+Argo CD es el agente de [GitOps](gitops.md) que aplica en el clúster lo que hay en un repositorio. Un push llega al EventListener; el TriggerBinding toma la URL del repositorio y la rama; el
 TriggerTemplate crea un PipelineRun que clona, construye la imagen y actualiza `values.yaml` en el
-repositorio GitOps; Argo CD detecta el commit y despliega (ver [[promocion-entre-entornos]]).
+repositorio GitOps; Argo CD detecta el commit y despliega (ver [Promoción entre entornos](promocion-entre-entornos.md)).
 
 ## No confundir con
 
 Argo CD. Tekton ejecuta pasos (CI, empaquetado); Argo CD reconcilia el estado declarado en Git con
-el clúster (ver [[gitops]]). Suelen usarse juntos.
+el clúster (ver [GitOps](gitops.md)). Suelen usarse juntos.
 
 ## Relaciones
 
-- Base de: [[disparar-tekton-desde-azure-devops]] — la guía para conectar Triggers con Azure Repos.
-- Ver también: [[pipeline-de-ci-cd]] — el concepto general que Tekton implementa.
-- Ver también: [[gitops]] — el modelo de despliegue que suele seguir al pipeline de Tekton.
+- Base de: [Disparar Tekton desde Azure DevOps](disparar-tekton-desde-azure-devops.md) — la guía para conectar Triggers con Azure Repos.
+- Ver también: [Pipeline de CI/CD](pipeline-de-ci-cd.md) — el concepto general que Tekton implementa.
+- Ver también: [GitOps](gitops.md) — el modelo de despliegue que suele seguir al pipeline de Tekton.

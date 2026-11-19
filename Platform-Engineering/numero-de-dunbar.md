@@ -60,9 +60,9 @@ organiza en tribus de hasta 50, y cada tribu en equipos de 5 a 8.
 
 ## No confundir con
 
-La ley de Brooks, que se explica en [[team-first]]: Dunbar acota cuánta gente cabe en un grupo de
+La ley de Brooks, que se explica en [Team-first](team-first.md): Dunbar acota cuánta gente cabe en un grupo de
 confianza; Brooks dice que sumar gente a un equipo no aumenta su capacidad de inmediato.
 
 ## Relaciones
 
-- Base de: [[team-first]] — de estos límites sale el tamaño de un equipo estable.
+- Base de: [Team-first](team-first.md) — de estos límites sale el tamaño de un equipo estable.

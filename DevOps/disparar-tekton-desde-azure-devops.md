@@ -33,7 +33,7 @@ un Secret.
 ## Antes de empezar
 
 - Un clúster OpenShift con OpenShift Pipelines (Tekton Pipelines y Triggers) instalado.
-- Un Pipeline ya aplicado que reciba el repositorio y la rama por params (ver [[tekton]]).
+- Un Pipeline ya aplicado que reciba el repositorio y la rama por params (ver [Tekton](tekton.md)).
 - Permiso de administrador del proyecto en Azure DevOps.
 - Un token generado al azar, guardado en el gestor de contraseñas. Acá se escribe `<TOKEN>`.
 
@@ -91,5 +91,5 @@ un Secret.
 
 ## Relaciones
 
-- Requiere: [[tekton]] — explica EventListener, interceptores, bindings y templates.
-- Ver también: [[gestion-de-secretos]] — por qué el token vive en un Secret y no en el manifiesto.
+- Requiere: [Tekton](tekton.md) — explica EventListener, interceptores, bindings y templates.
+- Ver también: [Gestión de secretos](gestion-de-secretos.md) — por qué el token vive en un Secret y no en el manifiesto.

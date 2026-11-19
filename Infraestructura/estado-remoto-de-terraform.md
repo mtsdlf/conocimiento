@@ -66,6 +66,6 @@ bloqueo del estado es un lock temporal mientras corre una operación.
 
 ## Relaciones
 
-- Base de: [[organizar-entornos-en-terraform]] — cada entorno tiene su propio estado.
-- Base de: [[pipeline-de-terraform]] — el pipeline usa el backend remoto y su bloqueo.
-- Base de: [[secretos-en-terraform]] — lo que llega al estado define cómo se manejan los secretos.
+- Base de: [Organizar entornos en Terraform](organizar-entornos-en-terraform.md) — cada entorno tiene su propio estado.
+- Base de: [Armar un pipeline de Terraform](pipeline-de-terraform.md) — el pipeline usa el backend remoto y su bloqueo.
+- Base de: [Secretos en Terraform](secretos-en-terraform.md) — lo que llega al estado define cómo se manejan los secretos.

@@ -50,7 +50,7 @@ Hay dos formas de coordinarla, según microservices.io:
 
 Una saga no tiene aislamiento: otro proceso puede ver el stock reservado antes de que la compra
 termine. Los pasos y las compensaciones tienen que ser idempotentes, porque se reintentan ante
-fallas de red; ver [[clave-de-idempotencia]].
+fallas de red; ver [Clave de idempotencia](clave-de-idempotencia.md).
 
 ## Ejemplo
 
@@ -66,6 +66,6 @@ compensación es una operación de negocio nueva sobre cambios que ya se confirm
 
 ## Relaciones
 
-- Relacionado: [[clave-de-idempotencia]] — hace seguro reintentar cada paso.
-- Relacionado: [[circuit-breaker]] — una dependencia con el breaker abierto es una de las fallas que disparan compensaciones.
-- Relacionado: [[degradacion-controlada]] — decide si un paso fallido aborta la saga o queda pendiente.
+- Relacionado: [Clave de idempotencia](clave-de-idempotencia.md) — hace seguro reintentar cada paso.
+- Relacionado: [Circuit breaker](circuit-breaker.md) — una dependencia con el breaker abierto es una de las fallas que disparan compensaciones.
+- Relacionado: [Degradación controlada](degradacion-controlada.md) — decide si un paso fallido aborta la saga o queda pendiente.

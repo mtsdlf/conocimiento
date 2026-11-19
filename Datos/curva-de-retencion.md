@@ -35,7 +35,7 @@ adquisición solo llena un balde agujereado.
 ## Cómo funciona
 
 El eje X es el período desde la entrada (día, semana, mes); el eje Y, la
-[[tasa-de-retencion-por-cohorte|tasa de retención por cohorte]], que empieza en 100 %. Se dibuja
+[tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md), que empieza en 100 %. Se dibuja
 una curva por cohorte, o un promedio ponderado por tamaño. Casi siempre hay una caída fuerte al
 principio, de gente que probó y no volvió, y después una pendiente más suave.
 
@@ -58,5 +58,5 @@ aunque cada curva de retención caiga a cero, si la adquisición crece más ráp
 
 ## Relaciones
 
-- Requiere: [[tasa-de-retencion-por-cohorte]] — es lo que se grafica.
-- Relacionado: [[tabla-de-cohortes]] — la misma información en forma de tabla.
+- Requiere: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — es lo que se grafica.
+- Relacionado: [Tabla de cohortes](tabla-de-cohortes.md) — la misma información en forma de tabla.

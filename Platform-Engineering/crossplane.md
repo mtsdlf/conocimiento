@@ -26,7 +26,7 @@ para que la plataforma ofrezca recursos de infraestructura como APIs declarativa
 
 ## Por qué importa
 
-Un equipo de plataforma quiere ofrecer "una base de datos" como [[capacidad-de-plataforma]], no
+Un equipo de plataforma quiere ofrecer "una base de datos" como [Capacidad de plataforma](capacidad-de-plataforma.md), no
 como el detalle de un proveedor de nube. Crossplane permite definir ese recurso como una API
 propia de la plataforma y conectarla con la infraestructura real. Es un proyecto graduado de la
 CNCF, y el white paper de plataformas lo nombra como forma de provisionar capacidades de manera
@@ -48,7 +48,7 @@ managed resources; los providers los crean en la infraestructura. Como corre sob
 Crossplane reconcilia todo el tiempo: si alguien cambia el recurso a mano, lo vuelve a dejar como
 dice la definición.
 
-En una [[plataforma-api-first]], los recursos de Crossplane son una API declarativa más, y pasan
+En una [Plataforma API-first](plataforma-api-first.md), los recursos de Crossplane son una API declarativa más, y pasan
 por los mismos controles y la misma auditoría que el resto.
 
 ## Ejemplo
@@ -65,5 +65,5 @@ Kubernetes que otros equipos consumen.
 
 ## Relaciones
 
-- Requiere: [[capacidad-de-plataforma]] — Crossplane implementa capacidades de infraestructura.
-- Relacionado: [[plataforma-api-first]] — sus recursos son una forma declarativa de la API de la plataforma.
+- Requiere: [Capacidad de plataforma](capacidad-de-plataforma.md) — Crossplane implementa capacidades de infraestructura.
+- Relacionado: [Plataforma API-first](plataforma-api-first.md) — sus recursos son una forma declarativa de la API de la plataforma.

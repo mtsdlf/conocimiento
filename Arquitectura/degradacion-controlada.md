@@ -26,7 +26,7 @@ parciales en lecturas, error explícito o estado "pendiente" en comandos crític
 
 ## Por qué importa
 
-Un [[circuit-breaker]] abierto evita esperar, pero deja la pregunta de qué responder. Si la
+Un [Circuit breaker](circuit-breaker.md) abierto evita esperar, pero deja la pregunta de qué responder. Si la
 respuesta se improvisa en el código, una página de producto sin promociones puede terminar en un
 error 500, y un checkout sin confirmación de stock puede terminar vendiendo algo que no hay. La
 regla de degradación se decide por tipo de operación, antes de escribir el fallback.
@@ -43,7 +43,7 @@ La pregunta que ordena la decisión es si una respuesta incompleta puede causar 
 | **Integración externa asíncrona** (pago, email) | registrar como pendiente y reintentar en segundo plano | intento de pago `PENDING`; email en una tabla outbox |
 
 En escritura, lo que no se puede degradar se aborta entero: un cambio a medias es peor que un
-error. Si ya hubo efectos en otros servicios, se deshacen con las compensaciones de una [[saga]].
+error. Si ya hubo efectos en otros servicios, se deshacen con las compensaciones de una [Saga](saga.md).
 
 El fallback es el método que implementa la estrategia. Recibe la excepción, así que puede
 distinguir un breaker abierto de un timeout o de un 4xx, que no conviene degradar porque indica un
@@ -64,6 +64,6 @@ logs y las métricas.
 
 ## Relaciones
 
-- Requiere: [[circuit-breaker]] — la degradación es la respuesta cuando el breaker está abierto.
-- Relacionado: [[saga]] — cuando un comando crítico falla a mitad de camino, la saga compensa los pasos hechos.
-- Base de: [[resilience4j-en-spring-boot]] — cómo se escribe un fallback en Java.
+- Requiere: [Circuit breaker](circuit-breaker.md) — la degradación es la respuesta cuando el breaker está abierto.
+- Relacionado: [Saga](saga.md) — cuando un comando crítico falla a mitad de camino, la saga compensa los pasos hechos.
+- Base de: [Proteger un cliente HTTP con Resilience4j en Spring Boot](resilience4j-en-spring-boot.md) — cómo se escribe un fallback en Java.

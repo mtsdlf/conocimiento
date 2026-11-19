@@ -48,7 +48,7 @@ Driessen propone mergear con `--no-ff`, que crea siempre un merge commit: así e
 muestra qué commits formaron cada funcionalidad y revertirla entera es más fácil. Al cerrar una
 release o un hotfix se pone en `main` un tag (un nombre fijo que marca un commit, como
 `2.4.0`), normalmente con
-[[versionado-semantico]].
+[Versionado semántico](versionado-semantico.md).
 
 ## Ejemplo
 
@@ -59,12 +59,12 @@ abre `hotfix/2.4.1` desde `main`.
 
 ## No confundir con
 
-[[trunk-based-development]], donde no hay `develop` ni ramas de release largas. Tampoco con la
+[Trunk-based development](trunk-based-development.md), donde no hay `develop` ni ramas de release largas. Tampoco con la
 herramienta de línea de comandos `git-flow`, que solo automatiza la creación y el cierre de
 estas ramas.
 
 ## Relaciones
 
-- Parte de: [[estrategia-de-branching]] — una de las estrategias posibles.
-- Relacionado: [[trunk-based-development]] — la alternativa sin ramas de larga vida.
-- Relacionado: [[versionado-semantico]] — el formato de los tags que Gitflow pone en `main`.
+- Parte de: [Estrategia de branching](estrategia-de-branching.md) — una de las estrategias posibles.
+- Relacionado: [Trunk-based development](trunk-based-development.md) — la alternativa sin ramas de larga vida.
+- Relacionado: [Versionado semántico](versionado-semantico.md) — el formato de los tags que Gitflow pone en `main`.

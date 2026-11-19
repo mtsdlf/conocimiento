@@ -73,5 +73,5 @@ solo las llamadas al sistema.
 
 ## Relaciones
 
-- Parte de y requiere: [[arquitectura-de-linux]] — es la frontera entre el espacio de usuario y el kernel.
-- Detalle en: [[comandos-de-linux]] — `strace`, `ltrace` y el resto de las herramientas de diagnóstico.
+- Parte de y requiere: [Arquitectura de Linux](arquitectura-de-linux.md) — es la frontera entre el espacio de usuario y el kernel.
+- Detalle en: [Comandos de Linux](comandos-de-linux.md) — `strace`, `ltrace` y el resto de las herramientas de diagnóstico.

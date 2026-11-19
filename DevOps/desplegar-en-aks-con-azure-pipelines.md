@@ -32,7 +32,7 @@ el permiso de AKS para leer de ACR.
 
 - Un ACR y un clúster AKS en la misma suscripción, y un repositorio con un `Dockerfile`.
 - Rol Owner (o User Access Administrator) para asignar roles en Azure.
-- Entender las etapas de un [[pipeline-de-ci-cd]].
+- Entender las etapas de un [Pipeline de CI/CD](pipeline-de-ci-cd.md).
 
 Hay tres permisos, y cada uno se configura aparte:
 
@@ -76,5 +76,5 @@ imágenes.
 
 ## Relaciones
 
-- Requiere: [[pipeline-de-ci-cd]] — las etapas y el artefacto que este pipeline concreta.
-- Ver también: [[gestion-de-secretos]] — por qué preferir workload identity federation a un secreto.
+- Requiere: [Pipeline de CI/CD](pipeline-de-ci-cd.md) — las etapas y el artefacto que este pipeline concreta.
+- Ver también: [Gestión de secretos](gestion-de-secretos.md) — por qué preferir workload identity federation a un secreto.

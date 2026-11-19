@@ -76,6 +76,6 @@ es el mismo.
 
 ## Relaciones
 
-- Relacionado: [[yaml]] — `application.yml` es la alternativa en YAML a `application.properties`.
-- Base de: [[levantar-un-entorno-local-con-docker-compose]] — cómo se inyectan las variables en local.
-- Ver también: [[gestion-de-secretos]] (DevOps) — dónde viven los secretos fuera del código.
+- Relacionado: [YAML](yaml.md) — `application.yml` es la alternativa en YAML a `application.properties`.
+- Base de: [Levantar un entorno local con Docker Compose](levantar-un-entorno-local-con-docker-compose.md) — cómo se inyectan las variables en local.
+- Ver también: [Gestión de secretos](../DevOps/gestion-de-secretos.md) (DevOps) — dónde viven los secretos fuera del código.

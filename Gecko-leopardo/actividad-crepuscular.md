@@ -42,7 +42,7 @@ Responde qué implica su hábito para la luz y el ciclo de día. Oonincx et al. 
 
 **Qué no.** En Oonincx el crecimiento y el peso fueron iguales con y sin UVB, sin signos clínicos de deficiencia, y todos los animales recibían además D3 oral. El estudio demuestra que sintetiza D3, no que lo necesite. Sus autores dicen que falta investigar si los niveles más altos mejoran densidad ósea o inmunidad. Un estudio de 2024 con 15 animales reportó que no hubo diferencias de calcio ionizado entre grupos, pero solo se conoce por fragmentos de búsqueda. Gould dio 1 h al amanecer y 1 h al atardecer; Oonincx dio 2 h al mediodía.
 
-La decisión práctica está en [[uvb-si-o-no|uvb-si-o-no]]; la ruta del calcio, en [[calcio-y-vitamina-d3|calcio-y-vitamina-d3]].
+La decisión práctica está en [uvb-si-o-no](uvb-si-o-no.md); la ruta del calcio, en [calcio-y-vitamina-d3](calcio-y-vitamina-d3.md).
 
 ## Ejemplo
 
@@ -50,7 +50,7 @@ Con una dieta bien suplementada, el grupo sin UVB de Oonincx creció igual que e
 
 ## No confundir con
 
-"Nocturno, luego no necesita ninguna luz ni calor diurno." Se documenta que para crecer al máximo necesita calor de día (ver [[termorregulacion-conductual|termorregulacion-conductual]]) y que sintetiza D3 con UVB.
+"Nocturno, luego no necesita ninguna luz ni calor diurno." Se documenta que para crecer al máximo necesita calor de día (ver [termorregulacion-conductual](termorregulacion-conductual.md)) y que sintetiza D3 con UVB.
 
 > [!NOTE]
 > Sin fuente todavía: datos de campo de actividad y de temperatura de madrigueras; un fotoperíodo recomendado (12/12 aparece solo como diseño experimental en Craioveanu et al. 2017 y Boykin et al. 2020); texto completo de Gould et al. 2018 (UVI, distancia y lámpara no verificados).
@@ -61,4 +61,4 @@ Con una dieta bien suplementada, el grupo sin UVB de Oonincx creció igual que e
 
 ## Relaciones
 
-- Relacionado: [[uvb-si-o-no|uvb-si-o-no]] — la decisión práctica que se apoya en esta evidencia.
+- Relacionado: [uvb-si-o-no](uvb-si-o-no.md) — la decisión práctica que se apoya en esta evidencia.

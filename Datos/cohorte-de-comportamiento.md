@@ -35,7 +35,7 @@ la primera semana retienen el doble, esa acción es candidata a empujarse en el 
 Se define la acción, su ventana (por ejemplo, "en los primeros 7 días desde el alta") y, a veces,
 una cantidad mínima ("al menos 3 veces"). Después se compara la retención de quienes la hicieron
 contra la de quienes no. La comparación se hace dentro de una misma
-[[cohorte-de-adquisicion|cohorte de adquisición]], para no mezclar usuarios de épocas distintas.
+[cohorte de adquisición](cohorte-de-adquisicion.md), para no mezclar usuarios de épocas distintas.
 
 ## Ejemplo
 
@@ -51,7 +51,7 @@ los usuarios.
 
 ## Relaciones
 
-- Parte de: [[cohorte]] — es un tipo de cohorte, con una acción como evento de entrada.
-- Requiere: [[cohorte]] — define el evento de entrada y la ventana, que esta nota da por sabidos.
-- Relacionado: [[cohorte-de-adquisicion]] — se cruza con ella para comparar dentro de la misma
+- Parte de: [Cohorte](cohorte.md) — es un tipo de cohorte, con una acción como evento de entrada.
+- Requiere: [Cohorte](cohorte.md) — define el evento de entrada y la ventana, que esta nota da por sabidos.
+- Relacionado: [Cohorte de adquisición](cohorte-de-adquisicion.md) — se cruza con ella para comparar dentro de la misma
   época.

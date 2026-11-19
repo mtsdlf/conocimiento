@@ -68,10 +68,10 @@ uno aprobado por una persona.
 
 Un entorno de infraestructura. El environment de GitHub es una regla y un lugar para secrets; el
 clúster o la cuenta de nube a la que apunta se configura aparte, y su paso de un entorno al
-siguiente se describe en [[promocion-entre-entornos]].
+siguiente se describe en [Promoción entre entornos](promocion-entre-entornos.md).
 
 ## Relaciones
 
-- Requiere: [[github-actions]] — jobs y workflows.
-- Relacionado: [[secret-de-github-actions]] — el environment es uno de los tres niveles donde se guardan secrets.
-- Ver también: [[promocion-entre-entornos]] — el concepto general de pasar un cambio de staging a producción.
+- Requiere: [GitHub Actions](github-actions.md) — jobs y workflows.
+- Relacionado: [Secret de GitHub Actions](secret-de-github-actions.md) — el environment es uno de los tres niveles donde se guardan secrets.
+- Ver también: [Promoción entre entornos](promocion-entre-entornos.md) — el concepto general de pasar un cambio de staging a producción.

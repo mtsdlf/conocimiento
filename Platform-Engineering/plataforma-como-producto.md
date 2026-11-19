@@ -62,5 +62,5 @@ busca qué necesitan muchos equipos y lo resuelve una vez, como servicio.
 
 ## Relaciones
 
-- Base de: [[platform-team]] — es la forma de trabajo que define a ese equipo.
-- Base de: [[internal-developer-platform]] — la plataforma que se construye con este enfoque.
+- Base de: [Platform team](platform-team.md) — es la forma de trabajo que define a ese equipo.
+- Base de: [Internal Developer Platform](internal-developer-platform.md) — la plataforma que se construye con este enfoque.

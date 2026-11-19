@@ -64,4 +64,4 @@ hándicap.
 
 ## Relaciones
 
-- Requiere: [[par]] — el hándicap se expresa en golpes sobre el par.
+- Requiere: [Par](par.md) — el hándicap se expresa en golpes sobre el par.

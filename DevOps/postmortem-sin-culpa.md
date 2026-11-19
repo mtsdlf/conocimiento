@@ -30,7 +30,7 @@ mejorar el sistema, sin señalar a ninguna persona ni equipo como culpable.
 Según el libro de SRE de Google, si en una organización se señala y avergüenza a quien "hizo
 lo incorrecto", la gente deja de reportar problemas por miedo al castigo. Sin reportes no hay
 aprendizaje, y el mismo incidente se repite. Por eso el postmortem sin culpa es la práctica
-central de las dimensiones Culture y Sharing de [[calms]].
+central de las dimensiones Culture y Sharing de [CALMS](calms.md).
 
 ## Cómo funciona
 
@@ -66,4 +66,4 @@ permitió ese error.
 
 ## Relaciones
 
-- Relacionado: [[calms]] — es la práctica que concreta Culture y Sharing.
+- Relacionado: [CALMS](calms.md) — es la práctica que concreta Culture y Sharing.

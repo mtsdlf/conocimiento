@@ -42,7 +42,7 @@ Cada cosa que systemd gestiona es una **unidad**, un archivo de texto con el tip
 
 | Tipo | Qué describe |
 |---|---|
-| `.service` | un proceso o [[daemon]] y cómo arrancarlo, pararlo y reiniciarlo |
+| `.service` | un proceso o [Daemon](daemon.md) y cómo arrancarlo, pararlo y reiniciarlo |
 | `.socket` | un socket que systemd abre y que arranca el servicio al primer pedido |
 | `.timer` | un horario que activa otra unidad; reemplaza a `cron` |
 | `.target` | un grupo de unidades que marca un estado del sistema, como `multi-user.target` (antes, los runlevels numerados) |
@@ -70,7 +70,7 @@ runit y SysVinit cumplen el mismo rol con otro diseño.
 
 ## Relaciones
 
-- Requiere: [[arranque-de-linux]] — el momento en que systemd toma el control.
-- Requiere: [[daemon]] — lo que systemd arranca y vigila.
-- Relacionado: [[pseudo-sistema-de-archivos]] — systemd ordena los procesos en cgroups expuestos en `/sys/fs/cgroup`.
-- Detalle en: [[comandos-de-linux]] — `systemctl`, `journalctl` y `systemd-analyze`.
+- Requiere: [Arranque de Linux](arranque-de-linux.md) — el momento en que systemd toma el control.
+- Requiere: [Daemon](daemon.md) — lo que systemd arranca y vigila.
+- Relacionado: [Pseudo-sistema de archivos](pseudo-sistema-de-archivos.md) — systemd ordena los procesos en cgroups expuestos en `/sys/fs/cgroup`.
+- Detalle en: [Comandos de Linux](comandos-de-linux.md) — `systemctl`, `journalctl` y `systemd-analyze`.

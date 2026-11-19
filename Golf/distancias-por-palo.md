@@ -66,4 +66,4 @@ promedio de las otras 6 hasta donde caen, sin contar lo que ruedan.
 
 ## Relaciones
 
-- Detalla: [[loft]] — el loft de cada palo explica sus distancias.
+- Detalla: [Loft](loft.md) — el loft de cada palo explica sus distancias.

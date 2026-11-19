@@ -51,5 +51,5 @@ toda la base no suman 100 %.
 
 ## Relaciones
 
-- Relacionado: [[retencion]] — el mismo fenómeno visto desde los que se quedan.
-- Se mide con: [[tasa-de-churn]] — lo cuantifica como porcentaje de la base en un período.
+- Relacionado: [Retención](retencion.md) — el mismo fenómeno visto desde los que se quedan.
+- Se mide con: [Tasa de churn](tasa-de-churn.md) — lo cuantifica como porcentaje de la base en un período.

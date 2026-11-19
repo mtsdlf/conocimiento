@@ -33,7 +33,7 @@ período, y por eso mueve el valor de un cliente a lo largo de su vida.
 
 Para medirla se fijan tres cosas:
 
-- Quién empieza: casi siempre una [[cohorte]].
+- Quién empieza: casi siempre una [Cohorte](cohorte.md).
 - Qué cuenta como seguir: el evento de retorno (abrir la app, comprar, pagar la suscripción).
 - Cuándo se mira: el día 7, la semana 4 o el mes 3 desde el inicio.
 
@@ -53,5 +53,5 @@ inicio.
 
 ## Relaciones
 
-- Relacionado: [[churn]] — mira el mismo fenómeno desde los que se van.
-- Se mide con: [[tasa-de-retencion-por-cohorte]] — la cuantifica sobre una cohorte.
+- Relacionado: [Churn](churn.md) — mira el mismo fenómeno desde los que se van.
+- Se mide con: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — la cuantifica sobre una cohorte.

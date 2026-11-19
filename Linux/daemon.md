@@ -37,7 +37,7 @@ qué daemon cubre cada área dice a quién mirar cuando esa área falla.
 El manual de Linux (`man 7 daemon`) distingue dos estilos. El **daemon clásico** (SysV) se
 separaba solo de la terminal: hacía dos `fork`, cerraba sus descriptores y escribía un archivo
 con su PID. El **daemon moderno** no hace nada de eso: corre en primer plano, escribe sus logs en
-la salida estándar y deja que [[systemd]] lo ponga en el fondo, lo reinicie si se cae y guarde lo
+la salida estándar y deja que [systemd](systemd.md) lo ponga en el fondo, lo reinicie si se cae y guarde lo
 que imprime.
 
 Por convención, el nombre termina en `d`. Los más comunes, por área:
@@ -65,6 +65,6 @@ quien lo lanzó y muere al cerrarla; un daemon pertenece al sistema y lo vigila 
 
 ## Relaciones
 
-- Parte de y requiere: [[arquitectura-de-linux]] — es la capa de servicios del espacio de usuario.
-- Base de: [[systemd]] — hay que saber qué es un daemon antes de ver cómo systemd los arranca y supervisa.
-- Detalle en: [[comandos-de-linux]] — los comandos para ver y controlar servicios.
+- Parte de y requiere: [Arquitectura de Linux](arquitectura-de-linux.md) — es la capa de servicios del espacio de usuario.
+- Base de: [systemd](systemd.md) — hay que saber qué es un daemon antes de ver cómo systemd los arranca y supervisa.
+- Detalle en: [Comandos de Linux](comandos-de-linux.md) — los comandos para ver y controlar servicios.

@@ -35,7 +35,7 @@ El gecko es de zonas áridas, pero la piel retenida en dedos y cabeza produce da
 
 ## Cómo funciona
 
-Igual que con el calor ([[termorregulacion-conductual|termorregulación conductual]]), el animal elige dónde estar: aire seco en el terrario y un refugio con sustrato húmedo, donde entra y sale.
+Igual que con el calor ([termorregulación conductual](termorregulacion-conductual.md)), el animal elige dónde estar: aire seco en el terrario y un refugio con sustrato húmedo, donde entra y sale.
 
 - Merck da 20 a 30 % de humedad ambiente. Un refugio húmedo previene la piel retenida (Vet Times) y la deficiencia de vitamina A contribuye.
 - Juveniles estudiados por Craioveanu et al. 2017 (resumen, n = 8): la humedad del sustrato influyó en la elección de refugio. Sin leer completo.
@@ -61,4 +61,4 @@ En la casa, `CONTEXT.md` de `terrario-gecko-leopard` fija 30 a 40 % de humedad a
 
 ## Relaciones
 
-- Requiere: [[termorregulacion-conductual|Termorregulación conductual]] — la humedad se elige moviéndose, igual que la temperatura.
+- Requiere: [Termorregulación conductual](termorregulacion-conductual.md) — la humedad se elige moviéndose, igual que la temperatura.

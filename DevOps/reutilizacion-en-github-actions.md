@@ -33,7 +33,7 @@ JavaScript y contenedor Docker.
 
 Sin reutilizar, cada repositorio copia el mismo YAML de build y despliegue, y un arreglo hay que
 hacerlo en decenas de lugares. Una definición central y versionada es la base de un
-[[pipeline-reutilizable]].
+[Pipeline reutilizable](pipeline-reutilizable.md).
 
 ## Cómo funciona
 
@@ -81,5 +81,5 @@ cuenta y aparece como un solo step en el log; un workflow reutilizable aporta jo
 
 ## Relaciones
 
-- Parte de y requiere: [[github-actions]] — workflows, jobs, steps y actions.
-- Ver también: [[pipeline-reutilizable]] — el patrón general que estas piezas implementan.
+- Parte de y requiere: [GitHub Actions](github-actions.md) — workflows, jobs, steps y actions.
+- Ver también: [Pipeline reutilizable](pipeline-reutilizable.md) — el patrón general que estas piezas implementan.

@@ -68,9 +68,9 @@ aplica.
 ## No confundir con
 
 **Monitoreo del servicio**: la reconciliación compara configuración declarada con configuración
-real; no mide si el servicio responde bien. Eso es parte de la [[observabilidad]].
+real; no mide si el servicio responde bien. Eso es parte de la [Observabilidad](../Platform-Engineering/observabilidad.md).
 
 ## Relaciones
 
-- Parte de y requiere: [[gitops]] — es el cuarto principio de GitOps y da por sabido el resto.
-- Ver también: [[observabilidad]] — mide el comportamiento del servicio, que la reconciliación no ve.
+- Parte de y requiere: [GitOps](gitops.md) — es el cuarto principio de GitOps y da por sabido el resto.
+- Ver también: [Observabilidad](../Platform-Engineering/observabilidad.md) — mide el comportamiento del servicio, que la reconciliación no ve.

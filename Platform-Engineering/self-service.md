@@ -40,14 +40,14 @@ Una acción es self-service cuando cumple tres condiciones:
 1. El equipo la inicia solo, desde una interfaz de la plataforma.
 2. Se completa de forma automática, sin que una persona ejecute pasos.
 3. Respeta límites definidos de antemano (cuotas, políticas, permisos), que pone la
-   [[gobernanza-de-plataforma]].
+   [Gobernanza de plataforma](gobernanza-de-plataforma.md).
 
 Los recursos típicos son bases de datos, buckets, colas, credenciales y entornos; las acciones
 típicas son desplegar, volver atrás una versión o crear un servicio desde una plantilla.
 
 El self-service es también la prueba de un equipo de plataforma sano. Según Team Topologies, un
 equipo que ejecuta pasos de entrega por los demás, en lugar de construir capacidades self-service,
-se vuelve una dependencia: el [[anti-patron-equipo-devops]].
+se vuelve una dependencia: el [Anti-patrón del equipo DevOps](anti-patron-equipo-devops.md).
 
 ## Ejemplo
 
@@ -62,6 +62,6 @@ a mano, la interfaz cambió pero el proceso sigue siendo manual.
 
 ## Relaciones
 
-- Parte de: [[internal-developer-platform]] — es la forma en que se consumen sus capacidades.
-- Base de: [[gobernanza-de-plataforma]] y [[anti-patron-equipo-devops]].
-- Relacionado: [[observability-driven-development]] — ODD pide que cada equipo cree sus alertas y tableros por self-service.
+- Parte de: [Internal Developer Platform](internal-developer-platform.md) — es la forma en que se consumen sus capacidades.
+- Base de: [Gobernanza de plataforma](gobernanza-de-plataforma.md) y [Anti-patrón del equipo DevOps](anti-patron-equipo-devops.md).
+- Relacionado: [Observability-driven development](observability-driven-development.md) — ODD pide que cada equipo cree sus alertas y tableros por self-service.

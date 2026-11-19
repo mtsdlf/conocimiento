@@ -77,5 +77,5 @@ archivos (sin guardar datos en disco) y conecta procesos que no lanzó el mismo 
 
 ## Relaciones
 
-- Base de: [[recetas-de-pipes]] — las combinaciones listas para usar.
-- Detalle en: [[comandos-de-linux]] — los comandos de texto que se combinan con pipes.
+- Base de: [Recetas de pipes](recetas-de-pipes.md) — las combinaciones listas para usar.
+- Detalle en: [Comandos de Linux](comandos-de-linux.md) — los comandos de texto que se combinan con pipes.

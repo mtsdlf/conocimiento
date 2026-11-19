@@ -60,6 +60,6 @@ en cada consulta: en los términos de esta nota, un segmento.
 
 ## Relaciones
 
-- Casos: [[cohorte-de-adquisicion]] y [[cohorte-de-comportamiento]] — los dos tipos de cohorte
+- Casos: [Cohorte de adquisición](cohorte-de-adquisicion.md) y [Cohorte de comportamiento](cohorte-de-comportamiento.md) — los dos tipos de cohorte
   según el evento de entrada.
-- La usa: [[analisis-de-cohortes]] — compara cohortes entre sí a la misma edad.
+- La usa: [Análisis de cohortes](analisis-de-cohortes.md) — compara cohortes entre sí a la misma edad.

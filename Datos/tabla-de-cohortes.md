@@ -29,14 +29,14 @@ cohorte a esa edad.
 
 ## Por qué importa
 
-Es la forma estándar de mostrar un [[analisis-de-cohortes|análisis de cohortes]]: en una vista
+Es la forma estándar de mostrar un [análisis de cohortes](analisis-de-cohortes.md): en una vista
 se ve cómo cae cada cohorte y si las nuevas retienen mejor que las viejas.
 
 ## Cómo funciona
 
 - Filas: las cohortes, de la más vieja (arriba) a la más nueva (abajo), con su tamaño.
 - Columnas: el período desde la entrada (semana 0, 1, 2…), no la fecha de calendario.
-- Celdas: la [[tasa-de-retencion-por-cohorte|tasa de retención por cohorte]] en ese período. La
+- Celdas: la [tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) en ese período. La
   columna 0 es 100 %.
 
 Las cohortes nuevas todavía no vivieron los períodos tardíos, así que la esquina inferior derecha
@@ -67,6 +67,6 @@ a las cohortes en el mismo punto de su vida.
 
 ## Relaciones
 
-- Requiere: [[tasa-de-retencion-por-cohorte]] — es lo que va en cada celda.
-- Relacionado: [[curva-de-retencion]] — la misma información, con cada fila dibujada como línea.
-- Usa: [[cohorte]] — cada fila es una.
+- Requiere: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — es lo que va en cada celda.
+- Relacionado: [Curva de retención](curva-de-retencion.md) — la misma información, con cada fila dibujada como línea.
+- Usa: [Cohorte](cohorte.md) — cada fila es una.

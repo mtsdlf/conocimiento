@@ -76,8 +76,8 @@ solo cambia qué commit nombra el puntero.
 
 ## Relaciones
 
-- Requiere: [[modelo-de-objetos-de-git]] — un branch apunta a un commit, que apunta a un tree.
-- Base de: [[merge-de-tres-vias]] — combina las puntas de dos branches.
-- Base de: [[rebase]] — mueve los commits de un branch a otra base.
-- Base de: [[recuperar-trabajo-perdido-en-git]] — recuperar es volver a apuntar un branch a un commit.
-- Ver también: [[estrategia-de-branching]] (DevOps) — qué branches tiene un equipo y cómo se integran.
+- Requiere: [Modelo de objetos de Git](modelo-de-objetos-de-git.md) — un branch apunta a un commit, que apunta a un tree.
+- Base de: [Merge de tres vías](merge-de-tres-vias.md) — combina las puntas de dos branches.
+- Base de: [Rebase](rebase.md) — mueve los commits de un branch a otra base.
+- Base de: [Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md) — recuperar es volver a apuntar un branch a un commit.
+- Ver también: [Estrategia de branching](../../DevOps/estrategia-de-branching.md) (DevOps) — qué branches tiene un equipo y cómo se integran.

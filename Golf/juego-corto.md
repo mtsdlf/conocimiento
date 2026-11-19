@@ -43,7 +43,7 @@ Regla práctica: si no hay nada en el camino, el chip es más seguro, porque un 
 cambia poco el resultado de un golpe que rueda.
 
 **Golpe de bunker**: el palo no toca la pelota. Con la cara abierta y la pelota adelantada, se
-pega a la arena unos 3 a 5 cm detrás de la pelota, sin frenar el palo. La suela con [[bounce]]
+pega a la arena unos 3 a 5 cm detrás de la pelota, sin frenar el palo. La suela con [Bounce](bounce.md)
 patina en la arena y la arena empuja la pelota afuera. Con arena dura o húmeda conviene abrir
 menos la cara.
 
@@ -56,10 +56,10 @@ y frena.
 ## No confundir con
 
 Juego corto y putt: el putt se hace en el green, con el putter, y la pelota no vuela; tiene su
-propia nota, [[putt]].
+propia nota, [Putt](putt.md).
 
 ## Relaciones
 
-- Requiere: [[swing-de-golf]] — chip y pitch son swings recortados.
-- Requiere: [[bounce]] — el golpe de bunker funciona por el bounce del sand wedge.
-- Relacionado: [[putt]] — el golpe que sigue al chip o al pitch.
+- Requiere: [Swing de golf](swing-de-golf.md) — chip y pitch son swings recortados.
+- Requiere: [Bounce](bounce.md) — el golpe de bunker funciona por el bounce del sand wedge.
+- Relacionado: [Putt](putt.md) — el golpe que sigue al chip o al pitch.

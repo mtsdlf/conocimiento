@@ -68,14 +68,14 @@ llaman con la versión `1.4.0` y distintos rangos.
 ## No confundir con
 
 Un provider, que habla con la API de una nube y define los tipos de recurso; el módulo combina
-recursos de uno o varios providers. Tampoco con [[crossplane]], que corre dentro de
+recursos de uno o varios providers. Tampoco con [Crossplane](../Platform-Engineering/crossplane.md), que corre dentro de
 Kubernetes y corrige desvíos todo el tiempo; Terraform aplica un plan cuando alguien lo ejecuta.
 
 ## Relaciones
 
-- Base de: [[organizar-entornos-en-terraform]] — cada entorno es un root module que llama a módulos comunes.
-- Base de: [[adoptar-terraform-en-un-equipo]] — armar módulos versionados es una etapa de la adopción.
-- Ver también: [[capacidad-de-plataforma]] (Platform-Engineering) — una plataforma puede ofrecer
+- Base de: [Organizar entornos en Terraform](organizar-entornos-en-terraform.md) — cada entorno es un root module que llama a módulos comunes.
+- Base de: [Adoptar Terraform en un equipo](adoptar-terraform-en-un-equipo.md) — armar módulos versionados es una etapa de la adopción.
+- Ver también: [Capacidad de plataforma](../Platform-Engineering/capacidad-de-plataforma.md) (Platform-Engineering) — una plataforma puede ofrecer
   módulos de Terraform como forma de proveer infraestructura.
-- Ver también: [[golden-path]] (Platform-Engineering) — los módulos aprobados son el camino
+- Ver también: [Golden path](../Platform-Engineering/golden-path.md) (Platform-Engineering) — los módulos aprobados son el camino
   estándar para crear infraestructura.

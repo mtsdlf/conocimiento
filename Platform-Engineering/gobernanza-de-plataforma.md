@@ -27,7 +27,7 @@ cambio.
 
 ## Por qué importa
 
-El [[self-service]] le da autonomía a los equipos, y sin límites esa autonomía termina en recursos
+El [Self-service](self-service.md) le da autonomía a los equipos, y sin límites esa autonomía termina en recursos
 huérfanos, costos sin dueño y auditorías imposibles. La gobernanza incorporada resuelve la
 tensión: los equipos no piden permiso, porque las reglas ya están en la plataforma.
 
@@ -44,7 +44,7 @@ La gobernanza tiene cuatro partes:
 - **controles**: aprobaciones solo donde el riesgo lo pide, como un despliegue a producción
   marcado de riesgo;
 - **trazabilidad**: cada pedido, cambio y recurso deja un evento consultable, que alimenta
-  auditoría, costos y reportes; con una [[plataforma-api-first]], ese registro sale de la API;
+  auditoría, costos y reportes; con una [Plataforma API-first](plataforma-api-first.md), ese registro sale de la API;
 - **dueño registrado**: cada recurso y cada capacidad tiene un responsable, y no se agrega nada
   "por la puerta de atrás".
 
@@ -61,5 +61,5 @@ plataforma escribe las reglas una vez y las aplica en cada pedido de forma autom
 
 ## Relaciones
 
-- Requiere: [[self-service]] — gobierna lo que los equipos hacen por su cuenta.
-- Requiere: [[plataforma-api-first]] — la API es el punto donde se aplican y registran las reglas.
+- Requiere: [Self-service](self-service.md) — gobierna lo que los equipos hacen por su cuenta.
+- Requiere: [Plataforma API-first](plataforma-api-first.md) — la API es el punto donde se aplican y registran las reglas.

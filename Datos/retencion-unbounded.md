@@ -37,7 +37,7 @@ no con qué frecuencia vuelve.
 ## Cómo leerla
 
 La retención unbounded baja o se mantiene a medida que crece *N*, y para la misma *N* queda
-por encima de la [[retencion-de-n-dias|retención de N días]]. Conviene en productos de uso irregular. Su
+por encima de la [retención de N días](retencion-de-n-dias.md). Conviene en productos de uso irregular. Su
 complemento también se lee: 1 menos la retención unbounded en *N* es la proporción que no volvió
 nunca desde *N*.
 
@@ -51,7 +51,7 @@ nunca desde *N*.
 ## Dónde se calcula
 
 Es la opción por defecto en Mixpanel; en Amplitude y PostHog se elige. Los nombres exactos están
-en [[cohortes-en-herramientas-de-analitica]].
+en [Cohortes en herramientas de analítica](cohortes-en-herramientas-de-analitica.md).
 
 ## Contexto para agentes
 
@@ -62,6 +62,6 @@ en [[cohortes-en-herramientas-de-analitica]].
 
 ## Relaciones
 
-- Parte de: [[tasa-de-retencion-por-cohorte]] — es una de sus dos formas de contar el retorno.
-- Requiere: [[tasa-de-retencion-por-cohorte]] — da por sabidos la fórmula y el denominador.
-- Relacionado: [[retencion-de-n-dias]] — la forma exacta por período; da números más bajos.
+- Parte de: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — es una de sus dos formas de contar el retorno.
+- Requiere: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — da por sabidos la fórmula y el denominador.
+- Relacionado: [Retención de N días](retencion-de-n-dias.md) — la forma exacta por período; da números más bajos.

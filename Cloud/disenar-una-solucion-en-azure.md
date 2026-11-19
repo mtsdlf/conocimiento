@@ -26,8 +26,8 @@ requisitos, servicio mínimo que los cumple, trade-offs, HA y DR, costos y opera
 
 ## Antes de empezar
 
-- Conocer las combinaciones de [[arquitecturas-de-referencia-en-azure]] y cómo se elige el
-  cómputo ([[eleccion-de-computo-en-azure]]).
+- Conocer las combinaciones de [Arquitecturas de referencia en Azure](arquitecturas-de-referencia-en-azure.md) y cómo se elige el
+  cómputo ([Elección de cómputo en Azure](eleccion-de-computo-en-azure.md)).
 - Tener a mano los cinco pilares del Well-Architected Framework de Microsoft: confiabilidad,
   seguridad, costo, excelencia operativa y rendimiento. Cada paso de abajo toca uno o más.
 
@@ -40,15 +40,15 @@ requisitos, servicio mínimo que los cumple, trade-offs, HA y DR, costos y opera
    - Cómputo: App Service o Container Apps por simplicidad; AKS si hace falta Kubernetes; VMs
      solo para lo legado.
    - Datos: SQL o Cosmos DB según el modelo; Redis como cache; Service Bus para desacoplar.
-3. **Cerrá la seguridad**: [[private-endpoint]] con acceso público apagado, managed identity,
-   Key Vault, [[azure-policy]] y roles con PIM.
-4. **Dibujá la red**: [[topologia-hub-and-spoke]], DNS privado, salida por firewall o NAT Gateway.
+3. **Cerrá la seguridad**: [Private endpoint](private-endpoint.md) con acceso público apagado, managed identity,
+   Key Vault, [Azure Policy](azure-policy.md) y roles con PIM.
+4. **Dibujá la red**: [Topología hub-and-spoke](topologia-hub-and-spoke.md), DNS privado, salida por firewall o NAT Gateway.
 5. **Explicá los trade-offs** en voz alta: costo contra rendimiento, simplicidad contra control,
    rapidez de entrega contra portabilidad.
-6. **Resolvé HA y DR** con los números del paso 1 (ver [[alta-disponibilidad-y-dr-en-azure]]).
+6. **Resolvé HA y DR** con los números del paso 1 (ver [Alta disponibilidad y DR en Azure](alta-disponibilidad-y-dr-en-azure.md)).
 7. **Estimá y bajá el costo**: autoescalado, reservas o savings plans, egreso, retención de logs
-   (ver [[optimizacion-de-costos-en-azure]]).
-8. **Contá cómo se opera**: [[azure-monitor]] y alertas sobre los SLO, IaC con Bicep o Terraform,
+   (ver [Optimización de costos en Azure](FinOps/optimizacion-de-costos-en-azure.md)).
+8. **Contá cómo se opera**: [Azure Monitor](azure-monitor.md) y alertas sobre los SLO, IaC con Bicep o Terraform,
    despliegue con slots o revisiones, y las cuotas que hay que pedir antes.
 
 ## Cómo saber que salió bien
@@ -58,5 +58,5 @@ dicho, y hay un número para el RTO, el RPO y el costo mensual aproximado.
 
 ## Relaciones
 
-- Requiere: [[arquitecturas-de-referencia-en-azure]] — el punto de partida del paso 2.
-- Usa: [[alta-disponibilidad-y-dr-en-azure]] y [[optimizacion-de-costos-en-azure]] — los pasos 6 y 7.
+- Requiere: [Arquitecturas de referencia en Azure](arquitecturas-de-referencia-en-azure.md) — el punto de partida del paso 2.
+- Usa: [Alta disponibilidad y DR en Azure](alta-disponibilidad-y-dr-en-azure.md) y [Optimización de costos en Azure](FinOps/optimizacion-de-costos-en-azure.md) — los pasos 6 y 7.

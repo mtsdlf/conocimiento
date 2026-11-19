@@ -34,7 +34,7 @@ integración.
 Cuanto más tiempo vive un cambio sin integrar, más difícil es juntarlo con el de los demás. La
 integración continua detecta el conflicto o la regresión minutos después de causarlo, cuando
 todavía es chico, y mantiene la rama principal siempre en un estado desplegable. Es la base de
-la [[entrega-continua]].
+la [Entrega continua](entrega-continua.md).
 
 ## Cómo funciona
 
@@ -47,7 +47,7 @@ por día". Sus prácticas centrales son:
   commit suele ser lo más rápido.
 - **Build rápido**: Fowler propone unos diez minutos; un build lento desalienta integrar seguido.
 
-Cada push o pull request (PR: el pedido de integrar una rama, que otros revisan) dispara el [[pipeline-de-ci-cd]], que corre linters, pruebas unitarias
+Cada push o pull request (PR: el pedido de integrar una rama, que otros revisan) dispara el [Pipeline de CI/CD](pipeline-de-ci-cd.md), que corre linters, pruebas unitarias
 y escaneos, y reporta el resultado en el commit. El merge se permite solo con todo en verde.
 
 En repositorios con muchos merges por día aparece un problema: dos PRs pasan sus pruebas por
@@ -65,10 +65,10 @@ hay una "semana de integración" antes de una versión.
 
 Tener un servidor de CI. Correr un pipeline sobre ramas que viven semanas no es integración
 continua: el cambio sigue sin integrarse con el de los demás. La frecuencia de integración a la
-rama principal es lo que la define; ver [[estrategia-de-branching]].
+rama principal es lo que la define; ver [Estrategia de branching](estrategia-de-branching.md).
 
 ## Relaciones
 
-- Relacionado: [[pipeline-de-ci-cd]] — la automatización que valida cada integración.
-- Base de: [[entrega-continua]] — no hay entrega continua sin integración continua.
-- Ver también: [[estrategia-de-branching]] — decide cuánto vive una rama antes de integrarse.
+- Relacionado: [Pipeline de CI/CD](pipeline-de-ci-cd.md) — la automatización que valida cada integración.
+- Base de: [Entrega continua](entrega-continua.md) — no hay entrega continua sin integración continua.
+- Ver también: [Estrategia de branching](estrategia-de-branching.md) — decide cuánto vive una rama antes de integrarse.

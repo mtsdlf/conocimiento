@@ -62,10 +62,10 @@ terminan con tres capas de contratos rígidos, aunque el producto pida cortes po
 
 ## No confundir con
 
-La [[maniobra-inversa-de-conway]] es el uso deliberado de esta ley: diseñar primero los equipos
+La [Maniobra inversa de Conway](maniobra-inversa-de-conway.md) es el uso deliberado de esta ley: diseñar primero los equipos
 para obtener la arquitectura buscada. La ley describe lo que pasa; la maniobra actúa sobre eso.
 
 ## Relaciones
 
-- Base de: [[maniobra-inversa-de-conway]] — la maniobra aplica esta ley al revés.
-- Base de: [[team-topologies]] — el modelo diseña equipos contando con que el sistema los va a copiar.
+- Base de: [Maniobra inversa de Conway](maniobra-inversa-de-conway.md) — la maniobra aplica esta ley al revés.
+- Base de: [Team Topologies](team-topologies.md) — el modelo diseña equipos contando con que el sistema los va a copiar.
