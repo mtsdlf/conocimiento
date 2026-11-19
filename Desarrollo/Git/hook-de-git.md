@@ -1,16 +1,12 @@
 ---
-tipo: concepto
 resumen: >-
   Un hook de Git es un script que Git ejecuta en un evento de su ciclo (antes de un commit, al
   recibir un push); del lado del cliente ayuda a quien desarrolla, y del lado del servidor impone
   reglas.
 estado: borrador
 estabilidad: estable
-dueno: matias
 revisado:
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Git Documentation, githooks: https://git-scm.com/docs/githooks"
   - "Scott Chacon y Ben Straub, Pro Git, 8.3 Git Hooks: https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks"
@@ -18,9 +14,6 @@ fuentes:
   - "pre-commit, A framework for managing and maintaining multi-language pre-commit hooks: https://pre-commit.com/"
   - "Archivo/DevOps/git/git-automation-integration.md (original, texto generado con IA)"
 aliases: [Git hook, Hooks de Git, pre-commit, pre-receive, commit-msg, core.hooksPath]
-parte_de: []
-requiere: []
-relacionado: []
 ---
 
 # Hook de Git
@@ -29,14 +22,14 @@ Un hook de Git es un script que Git ejecuta en un evento de su ciclo (antes de u
 recibir un push); del lado del cliente ayuda a quien desarrolla, y del lado del servidor impone
 reglas.
 
-## Por qué importa
+## Avisar antes del commit, rechazar en el servidor
 
 Un formateador o un detector de secretos que corre solo en CI avisa minutos después del push,
 cuando el secreto ya salió de la máquina. Un hook local avisa antes del commit. Y un hook de
 servidor es la única forma, en un servidor Git propio, de rechazar un push que no cumple una
 regla.
 
-## Cómo funciona
+## Hooks de cliente y de servidor
 
 Un hook es un archivo ejecutable (con permiso de ejecución) en `.git/hooks/`, con el nombre del
 evento. Si un hook que corre antes de la acción (`pre-commit`, `commit-msg`, `pre-push`,
@@ -61,19 +54,19 @@ los guarda en una carpeta del repo y cada persona apunta Git ahí con
 En GitHub o GitLab en la nube no se instalan hooks de servidor; el equivalente son las reglas de
 protección de ramas y los checks obligatorios.
 
-## Ejemplo
+## Gitleaks en pre-commit
 
 `.pre-commit-config.yaml` con Gitleaks: al hacer `git commit`, el framework corre Gitleaks sobre
 los archivos agregados al index y, si encuentra una clave, el commit no se crea.
 
-## No confundir con
+## Hook y webhook
 
 Un webhook. El webhook lo dispara la plataforma (GitHub, GitLab) y manda un HTTP POST a otro
 sistema, por ejemplo un servidor de CI; no lo ejecuta Git ni corre en la máquina de quien
 desarrolla.
 
-## Relaciones
+## Ver también
 
-- Ver también: [Gestión de secretos](../../DevOps/gestion-de-secretos.md) (DevOps) — la detección de secretos en pre-commit.
-- Ver también: [Conventional Commits](../../DevOps/conventional-commits.md) (DevOps) — el formato que valida un hook `commit-msg`.
-- Ver también: [Gobernanza de repositorios](../../DevOps/gobernanza-de-repositorios.md) (DevOps) — las reglas que imponen los hooks de servidor o la plataforma.
+- [Gestión de secretos](../../DevOps/DevSecOps/gestion-de-secretos.md) (DevOps) — la detección de secretos en pre-commit.
+- [Conventional Commits](../../DevOps/Ramas-y-versiones/conventional-commits.md) (DevOps) — el formato que valida un hook `commit-msg`.
+- [Gobernanza de repositorios](../../DevOps/Repositorios/gobernanza-de-repositorios.md) (DevOps) — las reglas que imponen los hooks de servidor o la plataforma.

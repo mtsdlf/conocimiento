@@ -1,23 +1,16 @@
 ---
-tipo: ficha
 resumen: >-
   La tabla de directorios del Filesystem Hierarchy Standard: qué va en /etc, /usr, /var y el
   resto, con las rutas de logs y de usuarios más consultadas.
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Original archivado (generado con IA): Archivo/Linux/linux-componentes-sistema.md, secciones 6, 10 y 11"
   - "Filesystem Hierarchy Standard 3.0 (Linux Foundation, 2015): https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html"
   - "man 7 hier: https://man7.org/linux/man-pages/man7/hier.7.html"
 aliases: [Filesystem Hierarchy Standard, FHS, Árbol de directorios de Linux, Jerarquía de directorios]
-parte_de: []
-requiere: [arquitectura-de-linux]
-relacionado: [pseudo-sistema-de-archivos]
+creado: 2026-10-03
+revisado:
 ---
 
 # FHS
@@ -25,13 +18,16 @@ relacionado: [pseudo-sistema-de-archivos]
 La tabla de directorios del Filesystem Hierarchy Standard: qué va en /etc, /usr, /var y el
 resto, con las rutas de logs y de usuarios más consultadas.
 
-## Fuente
+Detalla la [Arquitectura de Linux](arquitectura-de-linux.md): dónde vive cada capa en el árbol. Los
+directorios sin datos en disco los explica [Pseudo-sistema de archivos](pseudo-sistema-de-archivos.md).
+
+## El estándar y `man 7 hier`
 
 El estándar completo es el [FHS 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html),
 mantenido por la Linux Foundation. En cada máquina, `man 7 hier` describe la jerarquía que usa esa
 distribución.
 
-## Valores
+## Las tablas
 
 ### Directorios de la raíz
 
@@ -83,8 +79,3 @@ viejas siguen funcionando.
 | `/etc/group` | grupos y sus miembros |
 | `/etc/sudoers` y `/etc/sudoers.d/` | quién puede usar `sudo`; se editan con `visudo` |
 | `/etc/security/limits.conf` | límites de recursos por usuario |
-
-## Relaciones
-
-- Detalla y requiere: [Arquitectura de Linux](arquitectura-de-linux.md) — dónde vive cada capa en el árbol.
-- Relacionado: [Pseudo-sistema de archivos](pseudo-sistema-de-archivos.md) — explica los directorios sin datos en disco.

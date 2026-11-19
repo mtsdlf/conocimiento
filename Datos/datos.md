@@ -1,51 +1,58 @@
 ---
-tipo: mapa
 resumen: >-
-  Mapa del Tema Datos: conceptos y métricas de análisis de datos, por ahora centrado en
-  análisis de cohortes, retención y churn, para quien está aprendiendo Data Analytics.
+  Datos reúne conceptos y métricas de análisis de datos; por ahora cubre el análisis de
+  cohortes: cómo se agrupa a los usuarios, qué se mide sobre cada grupo (retención y churn) y cómo
+  se lee el resultado.
 estado: borrador
-estabilidad: semi
-dueno: matias
+estabilidad: estable
+fuentes: []
 creado: 2026-10-03
-autoria: ia
-idioma: es
-parte_de: [conocimiento]
+revisado:
 ---
 
 # Datos
 
-Mapa del Tema Datos: conceptos y métricas de análisis de datos, por ahora centrado en
-análisis de cohortes, retención y churn, para quien está aprendiendo Data Analytics.
+Datos reúne conceptos y métricas de análisis de datos; por ahora cubre el análisis de
+cohortes: cómo se agrupa a los usuarios, qué se mide sobre cada grupo (retención y churn) y cómo
+se lee el resultado.
 
-Para aprenderlo en orden: [Análisis de cohortes desde cero](recorrido-analisis-de-cohortes.md).
+Es para quien está aprendiendo Data Analytics. La idea que ordena el tema: un promedio de toda la
+base mezcla usuarios nuevos con veteranos y esconde los cambios, así que se sigue a grupos fijos
+que empezaron en el mismo período y se los compara a la misma edad. El análisis es descriptivo:
+muestra diferencias entre grupos, no prueba causas. El valor de vida del cliente (LTV) todavía no
+tiene nota.
 
-## Conceptos base
+## De qué está hecho un análisis de cohortes
 
-- [Cohorte](cohorte.md) — qué es una cohorte y en qué se diferencia de un segmento; se lee primero.
-- [Cohorte de adquisición](cohorte-de-adquisicion.md) — agrupar por cuándo llegó cada usuario; la cohorte por defecto.
-- [Cohorte de comportamiento](cohorte-de-comportamiento.md) — agrupar por lo que hizo; para buscar qué acciones van con
-  quedarse.
-- [Retención](retencion.md) — qué significa que un usuario "se quede" y las tres cosas que se definen para
-  medirlo.
-- [Churn](churn.md) — la pérdida de clientes; cómo se define "irse" con contrato y sin él.
-- [Análisis de cohortes](analisis-de-cohortes.md) — por qué se comparan cohortes a la misma edad en vez de promedios.
+Tres partes, encadenadas: las cohortes definen a quién se sigue, la retención y el churn dicen qué
+se mide sobre cada una, y la tabla y la curva muestran el resultado para compararlas.
 
-## Métricas
+```mermaid
+flowchart LR
+  C[Cohortes] -->|fijan el denominador de| R[Retención y churn]
+  R -->|llenan las celdas de| L[Lectura de cohortes]
+  L -->|compara a la misma edad las| C
+```
 
-- [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — la métrica central: % de la cohorte que vuelve en el
-  período N.
-- [Retención de N días](retencion-de-n-dias.md) — volver en el período exacto (D1, D7, D30); para productos de uso
-  frecuente.
-- [Retención unbounded](retencion-unbounded.md) — volver en N o después; para productos de uso irregular.
-- [Tasa de churn](tasa-de-churn.md) — % de la base que se va en un período, y por qué el promedio engaña.
+- [Cohortes](Cohortes/cohortes.md) — qué es una cohorte, sus dos tipos y por qué se comparan a la misma edad. Se lee
+  primero.
+- [Retención y churn](Retencion-y-churn/retencion-y-churn.md) — qué significa quedarse o irse, las métricas que lo
+  cuentan y cómo se llaman en cada herramienta de analítica.
+- [Lectura de cohortes](Lectura-de-cohortes/lectura-de-cohortes.md) — la tabla de cohortes, la curva de retención y
+  cómo armar la tabla desde una tabla de eventos.
 
-## Leer y armar cohortes
+Aparte, [Fundamentos de datos](Fundamentos/fundamentos-de-datos.md) guarda el recorrido para aprender el
+tema desde cero.
 
-- [Tabla de cohortes](tabla-de-cohortes.md) — cómo se lee el triángulo por fila, columna y diagonal.
-- [Curva de retención](curva-de-retencion.md) — qué dice la forma de la curva: si se aplana o cae a cero.
-- [Armar una tabla de cohortes](armar-una-tabla-de-cohortes.md) — los pasos para calcularla desde una tabla de eventos.
+## Una retención sin sus tres definiciones no se compara
 
-## Referencia de herramientas
+Cada número de retención depende de quién empieza (la cohorte), qué cuenta como seguir (el evento
+de retorno) y cuándo se mira (el período). Cambiar cualquiera de las tres cambia el número, y lo
+mismo pasa con la forma de contar el retorno: en el período exacto o en ese período o después.
+Por eso una D7 de una herramienta no se compara con la retención unbounded de otra, y la tasa de
+churn de toda la base no es 100 % menos la retención de una cohorte.
 
-- [Cohortes en herramientas de analítica](cohortes-en-herramientas-de-analitica.md) — dónde está la retención en GA4, Amplitude,
-  Mixpanel y PostHog, y cómo se llama cada variante en cada una.
+## De la cohorte a la tabla armada a mano
+
+Para aprenderlo en orden: [Análisis de cohortes desde cero](Fundamentos/recorrido-analisis-de-cohortes.md), trece
+pasos que van de la cohorte a armar una tabla de cohortes desde datos crudos.

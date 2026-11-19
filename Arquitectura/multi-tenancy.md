@@ -1,15 +1,9 @@
 ---
-tipo: concepto
 resumen: >-
   Multi-tenancy es servir a varios clientes (tenants) desde una misma instancia, con los datos de
   cada uno aislados de los demás.
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "AWS, SaaS Lens, Silo, pool, and bridge models: https://docs.aws.amazon.com/wellarchitected/latest/saas-lens/silo-pool-and-bridge-models.html"
   - "Microsoft, Multi-tenant SaaS database tenancy patterns: https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-app-design-patterns"
@@ -17,9 +11,8 @@ fuentes:
   - "Archivo/Arquitectura/mvp-ecommerce-arquitectura.md (original, texto generado con IA)"
   - "Archivo/Desarrollo/epicas-historias-usuario-ecommerce.md (original)"
 aliases: [Multitenancy, Multi-tenant, Multiinquilino, Tenant]
-parte_de: []
-requiere: []
-relacionado: [api-led-connectivity]
+creado: 2026-10-03
+revisado:
 ---
 
 # Multi-tenancy
@@ -27,14 +20,14 @@ relacionado: [api-led-connectivity]
 Multi-tenancy es servir a varios clientes (tenants) desde una misma instancia, con los datos de
 cada uno aislados de los demás.
 
-## Por qué importa
+## Cuánto se comparte entre clientes
 
 Una plataforma que da una tienda online a cada comercio no puede levantar una instalación por
 cliente sin que el costo y la operación crezcan con cada alta. Compartir la instancia baja ese
 costo, pero cualquier consulta que olvide filtrar por tenant expone datos de otro cliente. La
 decisión central es cuánto se comparte.
 
-## Cómo funciona
+## Pool, bridge y silo, y dónde se resuelve el tenant
 
 AWS agrupa los modelos de aislamiento en tres: pool, bridge y silo. Microsoft describe los
 extremos (base multi-tenant con columna de tenant, y base por tenant) y los híbridos.
@@ -51,25 +44,23 @@ el token, para que nadie pida otro tenant cambiando un valor. Después viaja por
 arquitectura [API-led connectivity](api-led-connectivity.md), la capa Experience lo resuelve y lo pasa a Process y System.
 
 Los identificadores únicos se definen por tenant: dos comercios pueden tener cada uno un producto
-con el SKU `SKU-001`. Lo mismo vale para las claves de idempotencia y las cuotas.
+con el SKU `SKU-001`. Lo mismo vale para las [claves de idempotencia](clave-de-idempotencia.md) y las cuotas.
 
 Si un tenant pide un recurso de otro, la API responde 404 y no 403. Un 403 confirma que el
 recurso existe; RFC 9110 (sección 15.5.4) permite responder 404 justamente para no revelarlo.
 
-## Ejemplo
+## Un catálogo con `tenant_id` en cada tabla
 
 Un catálogo multi-tenant usa una sola base PostgreSQL con `tenant_id` en cada tabla. Un filtro
 global del ORM agrega `WHERE tenant_id = ?` a toda consulta, con el valor del header
 `X-Tenant-Id`. Un caso de prueba consulta como tenant B un producto creado por el tenant A y espera
 404.
 
-## No confundir con
+## Tenants no son usuarios
 
-Una aplicación con varios usuarios. Los usuarios de un mismo tenant comparten datos (el catálogo
+Los usuarios de un mismo tenant comparten datos (el catálogo
 de su comercio); los tenants no comparten nada entre sí.
 
-## Relaciones
+## Ver también
 
-- Relacionado: [API-led connectivity](api-led-connectivity.md) — define en qué capa se resuelve el tenant.
-- Ver también: [Clave de idempotencia](clave-de-idempotencia.md) — las claves también se aíslan por tenant.
-- La usa: [Diseñar casos de prueba de una API](../Desarrollo/disenar-casos-de-prueba-de-api.md) (Desarrollo) — el aislamiento entre tenants es una categoría de casos.
+- [Diseñar casos de prueba de una API](../Desarrollo/Especificacion-y-prueba/disenar-casos-de-prueba-de-api.md), en Desarrollo: el aislamiento entre tenants es una categoría de casos.

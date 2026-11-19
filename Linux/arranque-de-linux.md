@@ -1,24 +1,17 @@
 ---
-tipo: concepto
 resumen: >-
   El arranque de Linux es la secuencia firmware → gestor de arranque → kernel con initramfs →
   PID 1 (init) → servicios → login.
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Original archivado (generado con IA): Archivo/Linux/linux-componentes-sistema.md, sección 7"
   - "man 7 bootup: https://man7.org/linux/man-pages/man7/bootup.7.html"
   - "man 7 boot: https://man7.org/linux/man-pages/man7/boot.7.html"
   - "Kernel docs, Using the initial RAM disk (initrd): https://docs.kernel.org/admin-guide/initrd.html"
 aliases: [Boot sequence, Secuencia de arranque, Boot de Linux]
-parte_de: []
-requiere: [arquitectura-de-linux]
-relacionado: []
+creado: 2026-10-03
+revisado:
 ---
 
 # Arranque de Linux
@@ -26,13 +19,14 @@ relacionado: []
 El arranque de Linux es la secuencia firmware → gestor de arranque → kernel con initramfs →
 PID 1 (init) → servicios → login.
 
-## Por qué importa
+## La última etapa dice dónde buscar
 
-Cuando una máquina no arranca, la última etapa que se completó dice dónde buscar. No es lo mismo
+La secuencia levanta primero el kernel y después el espacio de usuario de la
+[Arquitectura de Linux](arquitectura-de-linux.md). Cuando una máquina no arranca, la última etapa que se completó dice dónde buscar. No es lo mismo
 quedarse en el menú de GRUB (gestor de arranque) que en una consola de emergencia del initramfs
 (no encontró el disco raíz) o en un servicio que no levanta (init).
 
-## Cómo funciona
+## Las seis etapas
 
 1. **Firmware** (BIOS o UEFI): inicializa el hardware mínimo y busca un gestor de arranque en un
    disco. Con UEFI, el firmware también puede cargar el kernel directo.
@@ -48,19 +42,14 @@ quedarse en el menú de GRUB (gestor de arranque) que en una consola de emergenc
 6. **Login**: init lanza `getty` en las consolas o un gestor de pantalla. Al entrar, el shell lee
    sus archivos de inicio (`~/.profile`, `~/.bashrc`).
 
-## Ejemplo
+## Una consola `(initramfs)` después de cambiar de disco
 
 Después de cambiar de disco, el sistema cae a una consola `(initramfs)`. El kernel arrancó, pero
 el initramfs no encontró el disco `root=UUID=…` que le pasó GRUB, porque el disco nuevo tiene otro
 UUID. El arreglo está en la línea de comandos del kernel que arma el gestor de arranque, no en
 los servicios.
 
-## No confundir con
+## Arranque del sistema y arranque de un servicio
 
-El arranque de un servicio. `systemctl start` levanta un servicio con el sistema ya andando; el
+El arranque del sistema no es el arranque de un servicio. `systemctl start` levanta un servicio con el sistema ya andando; el
 arranque es la secuencia que lleva de la máquina apagada al sistema en funcionamiento.
-
-## Relaciones
-
-- Requiere: [Arquitectura de Linux](arquitectura-de-linux.md) — la secuencia levanta primero el kernel y después el espacio de usuario.
-- Base de: [systemd](systemd.md) — el init que toma el control en el paso 4.

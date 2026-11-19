@@ -1,22 +1,16 @@
 ---
-tipo: concepto
 resumen: >-
   La práctica de FinOps avanza en tres fases que se repiten (Inform, Optimize y Operate) y madura
   cada capacidad por separado en tres niveles: Crawl, Walk y Run.
 estado: borrador
 estabilidad: estable
-dueno: matias
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "FinOps Foundation, FinOps Phases: https://www.finops.org/framework/phases/"
   - "FinOps Foundation, FinOps Maturity Model: https://www.finops.org/framework/maturity-model/"
   - "FinOps Foundation, FinOps Framework: https://www.finops.org/framework/"
 aliases: [fases de FinOps, Inform Optimize Operate, Crawl Walk Run, madurez FinOps]
-parte_de: [que-es-finops]
-requiere: [que-es-finops]
-relacionado: []
+creado: 2026-10-03
+revisado:
 ---
 
 # Ciclo de vida de FinOps
@@ -24,18 +18,19 @@ relacionado: []
 La práctica de FinOps avanza en tres fases que se repiten (Inform, Optimize y Operate) y madura
 cada capacidad por separado en tres niveles: Crawl, Walk y Run.
 
-## Por qué importa
+## No se optimiza lo que no se ve
 
 Las fases dicen qué hacer primero: no se optimiza lo que no se ve. El modelo de madurez evita
-querer automatizar todo de entrada: se arranca chico y se crece donde el valor lo justifica.
+querer automatizar todo de entrada: se arranca chico y se crece donde el valor lo justifica. Las
+fases organizan los principios de [FinOps](que-es-finops.md) en trabajo concreto.
 
-## Cómo funciona
+## Las tres fases y los tres niveles
 
 **Las fases**, según la FinOps Foundation:
 
 | Fase | Qué se hace | Capacidades que la alimentan |
 |---|---|---|
-| **Inform** | Mirar los datos de costo, uso y eficiencia para saber dónde se está | Ingesta de datos, asignación, reportes, pronóstico, economía unitaria |
+| **Inform** | Mirar los datos de costo, uso y eficiencia para saber dónde se está | Ingesta de datos, [asignación](showback-y-chargeback.md), reportes, pronóstico, [economía unitaria](costo-unitario.md) |
 | **Optimize** | Buscar oportunidades de mejorar la eficiencia y el valor con lo que mostró Inform | Optimización de uso, optimización de tarifas, ubicación de cargas |
 | **Operate** | Aplicar los cambios que salieron de Optimize | Gobernanza, automatización, educación |
 
@@ -53,18 +48,13 @@ el cómputo y en Inform para el almacenamiento.
 
 El modelo oficial tiene esos tres niveles y nada más.
 
-## Ejemplo
+## La asignación de Crawl a Walk
 
 Un equipo empieza en Crawl en asignación: etiqueta a mano los recursos de producción y publica un
 reporte mensual (Inform). Encuentra discos sin usar (Optimize) y los borra con un script (Operate).
 Cuando una política obliga las etiquetas al crear recursos, la asignación pasa a Walk.
 
-## No confundir con
+## Un ciclo de gestión, no un pipeline
 
 Las fases de un pipeline de CI/CD. Inform, Optimize y Operate no son pasos de un despliegue sino
 un ciclo de gestión que puede durar semanas por vuelta.
-
-## Relaciones
-
-- Parte de y requiere: [FinOps](que-es-finops.md) — las fases organizan los principios en trabajo concreto.
-- Usa: [Showback y chargeback](showback-y-chargeback.md) y [Costo unitario](costo-unitario.md) — dos capacidades centrales de la fase Inform.

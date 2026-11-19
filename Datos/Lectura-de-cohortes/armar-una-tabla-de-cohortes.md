@@ -1,0 +1,52 @@
+---
+resumen: >-
+  Pasos para armar una tabla de retención por cohorte a partir de una tabla de eventos (con
+  SQL o una planilla), cuando la herramienta de analítica no la da o se quiere controlar la
+  definición.
+estado: borrador
+estabilidad: semi
+creado: 2026-10-03
+fuentes:
+  - https://support.google.com/analytics/answer/9670133?hl=en
+  - https://amplitude.com/docs/analytics/charts/retention-analysis/retention-analysis-calculation
+aliases: [cómo hacer un análisis de cohortes, cohort table en SQL, tabla de cohortes en Excel]
+---
+
+# Armar una tabla de cohortes
+
+Pasos para armar una tabla de retención por cohorte a partir de una tabla de eventos (con
+SQL o una planilla), cuando la herramienta de analítica no la da o se quiere controlar la
+definición.
+
+## Qué hace falta: eventos, la tabla y cuatro decisiones
+
+- Una tabla de eventos con, al menos, el identificador de usuario, el nombre del evento y la
+  fecha.
+- Saber leer una [Tabla de cohortes](tabla-de-cohortes.md), que es el resultado de estos pasos.
+- Cuatro decisiones escritas: el evento de entrada, el evento de retorno, la granularidad (día,
+  semana o mes) y la forma de contar el retorno, [N días](../Retencion-y-churn/retencion-de-n-dias.md) o
+  [unbounded](../Retencion-y-churn/retencion-unbounded.md).
+
+## De la tabla de eventos al triángulo, en siete pasos
+
+1. Para cada usuario, buscá la fecha mínima del evento de entrada y truncala a la granularidad.
+   Queda una fila por usuario con su [cohorte de adquisición](../Cohortes/cohorte-de-adquisicion.md).
+2. Contá los usuarios distintos por cohorte. Ese es el denominador de cada fila.
+3. Para cada evento de retorno, truncá la fecha a la misma granularidad y quedate con los pares
+   únicos (usuario, período). Queda cuándo estuvo activo cada usuario.
+4. Uní los pasos 1 y 3 por usuario y calculá el número de período: período activo menos
+   cohorte. Descartá las edades negativas.
+5. Contá los usuarios distintos por (cohorte, número de período). Si contás unbounded, en cada
+   celda *N* contá a los usuarios con algún período activo en *N* o después.
+6. Dividí cada celda por el tamaño de su cohorte (paso 2): queda la
+   [tasa de retención por cohorte](../Retencion-y-churn/tasa-de-retencion-por-cohorte.md) de cada celda.
+7. Pivoteá: cohortes en filas, número de período en columnas. Marcá las celdas cuyo período
+   todavía no terminó.
+
+## Cuatro chequeos de la tabla terminada
+
+- La columna 0 da 100 % en todas las filas, si el evento de retorno incluye al de entrada.
+- Ninguna celda supera 100 %, y la esquina inferior derecha queda vacía: son los períodos que
+  las cohortes nuevas todavía no vivieron.
+- La suma de los tamaños de cohorte da el total de usuarios distintos con evento de entrada.
+- Una celda calculada a mano para un par de usuarios coincide con la tabla.

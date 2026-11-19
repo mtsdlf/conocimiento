@@ -1,54 +1,72 @@
 ---
-tipo: mapa
 resumen: >-
-  Qué es el golf como juego, con qué se juega y cómo se pega: la cancha, las reglas, el equipo y
-  la técnica básica; para quien empieza desde cero.
+  El golf es un juego en el que se lleva una pelota desde el área de salida hasta el agujero de
+  cada hoyo con la menor cantidad de golpes, con hasta 14 palos y bajo Reglas que son las mismas en
+  todo el mundo.
 estado: borrador
-estabilidad: semi
-dueno: matias
-revisado:
+estabilidad: estable
+fuentes:
+  - "R&A, Reglas de Golf: https://www.randa.org/rog/the-rules-of-golf"
 creado: 2026-10-12
-autoria: ia
-idioma: es
-parte_de: [conocimiento]
+revisado:
 ---
 
 # Golf
 
-Qué es el golf como juego, con qué se juega y cómo se pega: la cancha, las reglas, el equipo y
-la técnica básica; para quien empieza desde cero.
+El golf es un juego en el que se lleva una pelota desde el área de salida hasta el agujero de
+cada hoyo con la menor cantidad de golpes, con hasta 14 palos y bajo Reglas que son las mismas en
+todo el mundo.
 
-Para aprenderlo en orden: [Golf desde cero](recorrido-golf-desde-cero.md).
+Una vuelta tiene 18 hoyos (o 9), y cada uno se cuenta contra su par, pensado para un jugador
+experto; el hándicap ajusta la diferencia para que jugadores de distinto nivel compitan parejo. El
+tema está escrito para quien empieza desde cero, con un juego de palos usado: cómo se juega un
+hoyo, con qué palos, cómo se pega y cómo se comporta uno en la cancha.
 
-## La cancha y el juego
+## De qué está hecho el golf
 
-- [Hoyo de golf](hoyo-de-golf.md) — las cinco áreas de un hoyo; la puerta de entrada al Tema.
-- [Par](par.md) — cuántos golpes "debería" llevar un hoyo y cómo se nombra el resultado (birdie, bogey).
-- [Hándicap](handicap.md) — el número que permite comparar jugadores de distinto nivel; leerla al querer
-  competir.
-- [Reglas básicas de golf](reglas-basicas-de-golf.md) — las reglas que aparecen en casi todas las vueltas: pelota perdida,
-  fuera de límites, área de penalización.
-- [Etiqueta de golf](etiqueta-de-golf.md) — seguridad, ritmo de juego y cuidado de la cancha; leerla antes de la
-  primera vuelta.
+Cinco partes. La cancha fija dónde se juega y cómo se cuenta; las Reglas dicen qué se puede hacer
+en cada área; el equipamiento da un palo para cada distancia; el golpe completo lleva la pelota
+hasta cerca del green, y el juego corto y el putt terminan el hoyo.
 
-## Equipamiento
+```mermaid
+flowchart LR
+  CP[Cancha y puntaje] -->|define el área donde se aplican| RE[Reglas y etiqueta]
+  RE -->|limita a 14 los palos de| EQ[Equipamiento]
+  EQ -->|da el palo para cada distancia del| GC[Golpe completo]
+  EQ -->|da wedges y putter para| CG[Cerca del green]
+  GC -->|deja la pelota| CG
+  CG -->|termina el hoyo y suma golpes contra el par de| CP
+```
 
-- [Palo de golf](palo-de-golf.md) — partes y tipos de palos, y el límite de 14 en la bolsa.
-- [Loft](loft.md) — el ángulo de la cara que decide altura y distancia de cada palo.
-- [Perdón del palo](perdon-del-palo.md) — por qué un hierro cavity back es más fácil que un blade.
-- [Flex de la vara](flex-de-la-vara.md) — regular contra stiff, grafito contra acero.
-- [Bounce](bounce.md) — el ángulo de la suela de un wedge y por qué cambia el golpe desde arena y pasto.
-- [Tipos de putter](tipos-de-putter.md) — blade contra mallet.
+- [Cancha y puntaje](Cancha-y-puntaje/cancha-y-puntaje.md) — las áreas de un hoyo, el par y el
+  hándicap. Se lee primero, porque todo lo demás se ubica en un área del hoyo.
+- [Reglas y etiqueta](Reglas-y-etiqueta/reglas-y-etiqueta.md) — qué hacer con una pelota perdida,
+  fuera de límites o en el agua, y cómo comportarse en la cancha. Antes de la primera vuelta.
+- [Equipamiento](Equipamiento/equipamiento.md) — los cinco tipos de palo y las características que
+  los distinguen: loft, perdón, flex, bounce y forma del putter.
+- [Golpe completo](Golpe-completo/golpe-completo.md) — grip, setup, swing y cómo leer el vuelo de
+  la pelota.
+- [Cerca del green](Cerca-del-green/cerca-del-green.md) — chip, pitch, golpe de bunker y putt.
 
-## Técnica
+## La cara del palo manda la dirección
 
-- [Grip de golf](grip-de-golf.md) — cómo se agarra el palo.
-- [Setup de golf](setup-de-golf.md) — postura, posición de la pelota y alineación antes de pegar.
-- [Swing de golf](swing-de-golf.md) — las fases del golpe completo.
-- [Vuelo de la pelota](vuelo-de-la-pelota.md) — por qué la pelota sale torcida o se curva: cara y trayectoria.
-- [Juego corto](juego-corto.md) — chip, pitch y golpe de bunker.
-- [Putt](putt.md) — el golpe en el green: mecánica, velocidad y lectura.
+La misma idea aparece en el golpe completo y en el green: hacia dónde mira la cara del palo en el
+impacto decide hacia dónde sale la pelota. Con un hierro, las fuentes le atribuyen a la cara entre
+el 75 % y el 85 % de la dirección inicial ([Vuelo de la pelota](Golpe-completo/vuelo-de-la-pelota.md));
+en el putt, según Dave Pelz, pesa seis veces más que la trayectoria ([Putt](Cerca-del-green/putt.md)).
+Por eso el [grip](Golpe-completo/grip-de-golf.md), que orienta la cara, es lo primero que se
+corrige ante un slice.
 
-## Para consultar
+## El peso lejos del centro perdona
 
-- [Distancias por palo](distancias-por-palo.md) — lofts y distancias de referencia, con espacio para las propias.
+El otro principio que cruza el equipamiento: una cabeza con el peso repartido hacia los bordes gira
+menos en un golpe descentrado. Separa a un hierro cavity back de un blade
+([Perdón del palo](Equipamiento/perdon-del-palo.md)) y a un putter mallet de uno blade
+([Tipos de putter](Equipamiento/tipos-de-putter.md)), y es lo que más importa al elegir palos para
+empezar.
+
+## Del hoyo al green
+
+Para aprender, el orden es el del diagrama con una excepción: las reglas y la etiqueta se leen al
+final, justo antes de salir a la cancha. El orden paso a paso, con el porqué de cada nota, está en
+[Fundamentos](Fundamentos/fundamentos-de-golf.md).

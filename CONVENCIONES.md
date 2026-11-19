@@ -5,7 +5,7 @@ está en la skill; esto lo completa.
 
 - **Base**: la raíz de este repo, compartida por Matias y Fer. La entrada raíz es `conocimiento.md`, y la
   entrada de cada Tema y de cada vertical se llama como su carpeta (`<Tema>/<tema>.md`). Los enlaces van como Markdown relativo
-  (`[texto](../Datos/cohorte.md)`), que se leen en GitHub y en cualquier editor. Nació como
+  (`[texto](Datos/Cohortes/cohorte.md)`), que se leen en GitHub y en cualquier editor. Nació como
   vault de Obsidian y se pasó a Markdown común en 2026-11.
 - **Temas**: se estructuran por capas (el todo, las verticales como carpetas, los componentes y lo
   operativo), como dice el método de la skill. Los arma el modo `nuevo`, con su `ALCANCE.md` y sus

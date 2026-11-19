@@ -1,16 +1,10 @@
 ---
-tipo: concepto
 resumen: >-
   Un pipe conecta la salida estándar de un comando con la entrada del siguiente, y una redirección
   conecta un flujo (stdin, stdout, stderr) con un archivo; juntos permiten armar tareas combinando
   programas pequeños, como propone la filosofía Unix.
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Original reemplazado: nota linux-pipes-unix (secciones A, B, C.5 y D), borrada al migrar"
   - "Bash Reference Manual, Pipelines: https://www.gnu.org/software/bash/manual/html_node/Pipelines.html"
@@ -19,9 +13,8 @@ fuentes:
   - "Bash Reference Manual, Process Substitution: https://www.gnu.org/software/bash/manual/html_node/Process-Substitution.html"
   - "man 7 pipe: https://man7.org/linux/man-pages/man7/pipe.7.html"
 aliases: [Pipe, Tubería, Redirección, stdin, stdout, stderr, Filosofía Unix]
-parte_de: []
-requiere: []
-relacionado: []
+creado: 2026-10-03
+revisado:
 ---
 
 # Pipe y redirección
@@ -30,13 +23,13 @@ Un pipe conecta la salida estándar de un comando con la entrada del siguiente, 
 conecta un flujo (stdin, stdout, stderr) con un archivo; juntos permiten armar tareas combinando
 programas pequeños, como propone la filosofía Unix.
 
-## Por qué importa
+## La filosofía Unix hecha sintaxis
 
 La filosofía Unix pide programas que hagan una sola cosa bien y que se puedan combinar. Los pipes
 son lo que hace posible esa combinación: `grep`, `sort` y `uniq` no saben nada de logs, pero
 encadenados cuentan errores por IP sin escribir un programa nuevo.
 
-## Cómo funciona
+## Flujos, pipes y redirecciones
 
 Todo proceso arranca con tres **flujos estándar**, numerados: 0 es la entrada (**stdin**), 1 la
 salida (**stdout**) y 2 los errores (**stderr**). Por defecto, los tres apuntan a la terminal.
@@ -65,17 +58,15 @@ un nombre de archivo: `diff <(sort a.txt) <(sort b.txt)`.
 Además, los comandos se encadenan por resultado: `a ; b` corre los dos siempre, `a && b` corre
 `b` solo si `a` terminó bien y `a || b` solo si falló.
 
-## Ejemplo
+Las combinaciones listas para usar están en [Recetas de pipes](recetas-de-pipes.md), y los comandos
+de texto que se combinan con pipes, en [Comandos de Linux](comandos-de-linux.md).
+
+## Contar errores sin mezclar los avisos
 
 `grep ERROR app.log 2> errores.txt | wc -l` cuenta las líneas con ERROR; si `app.log` no existe,
 el aviso de `grep` va a `errores.txt` y no se cuenta como una línea más.
 
-## No confundir con
+## Pipe y pipe con nombre
 
-Un pipe con nombre (FIFO, creado con `mkfifo`). Funciona igual, pero tiene un nombre en el sistema de
+Un pipe con nombre (FIFO, creado con `mkfifo`) es otra cosa. Funciona igual, pero tiene un nombre en el sistema de
 archivos (sin guardar datos en disco) y conecta procesos que no lanzó el mismo shell.
-
-## Relaciones
-
-- Base de: [Recetas de pipes](recetas-de-pipes.md) — las combinaciones listas para usar.
-- Detalle en: [Comandos de Linux](comandos-de-linux.md) — los comandos de texto que se combinan con pipes.

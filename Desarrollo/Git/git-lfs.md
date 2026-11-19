@@ -1,23 +1,16 @@
 ---
-tipo: concepto
 resumen: >-
   Git LFS (Large File Storage) es una extensión de Git que guarda los archivos grandes fuera del
   repositorio y deja en su lugar un archivo puntero chico, versionado como cualquier otro.
 estado: borrador
 estabilidad: estable
-dueno: matias
 revisado:
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Git LFS: https://git-lfs.com/"
   - "git-lfs, documentación de git-lfs-track, git-lfs-lock y git-lfs-migrate: https://github.com/git-lfs/git-lfs/tree/main/docs/man"
   - "Archivo/DevOps/git/git-scaling-performance.md y git-advanced-collaboration.md (originales, texto generado con IA)"
 aliases: [LFS, Large File Storage, git lfs track, Archivos grandes en Git]
-parte_de: []
-requiere: [modelo-de-objetos-de-git]
-relacionado: [git-en-repositorios-grandes]
 ---
 
 # Git LFS
@@ -25,14 +18,15 @@ relacionado: [git-en-repositorios-grandes]
 Git LFS (Large File Storage) es una extensión de Git que guarda los archivos grandes fuera del
 repositorio y deja en su lugar un archivo puntero chico, versionado como cualquier otro.
 
-## Por qué importa
+## Cada versión de un binario, en cada clon
 
 Git guarda cada versión de cada archivo para siempre (ver [Modelo de objetos de Git](modelo-de-objetos-de-git.md)). Un
 `.psd` de 200 MB editado diez veces suma unos 2 GB al historial, y todo clon los descarga, aunque
 solo necesite la última versión. Los binarios casi no se comprimen por deltas, así que el
-repositorio crece con cada cambio.
+repositorio crece con cada cambio. LFS es una de las técnicas para que un
+[repositorio grande](git-en-repositorios-grandes.md) siga siendo usable.
 
-## Cómo funciona
+## Filtros, punteros, bloqueo y migración
 
 - `git lfs install` registra los filtros de LFS en la configuración global de Git, una vez por
   usuario.
@@ -54,7 +48,7 @@ lo libera.
 Para mover archivos que ya están en el historial, `git lfs migrate import --include="*.psd"`
 reescribe los commits del branch actual (con `--everything`, los de todos los branches y tags), con las mismas consecuencias que un [Rebase](rebase.md) sobre branches compartidos.
 
-## Ejemplo
+## Versionar diseños y videos
 
 ```bash
 git lfs install
@@ -65,13 +59,8 @@ git commit -m "Agrega la portada en LFS"
 
 `git lfs ls-files` lista los archivos que quedaron como punteros.
 
-## No confundir con
+## LFS y repositorio de artefactos
 
 Un repositorio de artefactos (Nexus, Artifactory, un bucket). LFS versiona archivos fuente que
 cambian junto con el código, como diseños o datos de prueba; los binarios que produce el build
 (jars, imágenes de contenedor) van a un repositorio de artefactos, no a Git.
-
-## Relaciones
-
-- Requiere: [Modelo de objetos de Git](modelo-de-objetos-de-git.md) — explica por qué un binario grande pesa en cada clon.
-- Relacionado: [Git en repositorios grandes](git-en-repositorios-grandes.md) — LFS es una de las técnicas para que un repositorio grande siga siendo usable.

@@ -1,16 +1,12 @@
 ---
-tipo: concepto
 resumen: >-
   Un mirror de Git es un clon bare que copia todas las refs del original (branches, tags, notas) y
   se sincroniza pisándolas; se usa como respaldo, como cache de CI o como réplica en otro
   servidor.
 estado: borrador
 estabilidad: estable
-dueno: matias
 revisado:
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Git Documentation, git-clone (--mirror): https://git-scm.com/docs/git-clone"
   - "Git Documentation, git-push (--mirror): https://git-scm.com/docs/git-push"
@@ -19,9 +15,6 @@ fuentes:
   - "Git Documentation, git-fsck: https://git-scm.com/docs/git-fsck"
   - "Archivo/DevOps/git/git-scaling-performance.md (original, texto generado con IA)"
 aliases: [Mirror, Espejo de Git, git clone --mirror, Respaldo de un repositorio Git, git bundle]
-parte_de: []
-requiere: [branch-git]
-relacionado: []
 ---
 
 # Mirror de Git
@@ -30,14 +23,15 @@ Un mirror de Git es un clon bare que copia todas las refs del original (branches
 se sincroniza pisándolas; se usa como respaldo, como cache de CI o como réplica en otro
 servidor.
 
-## Por qué importa
+## Por qué un clon común no reconstruye el servidor
 
-Un clon común trae los branches del remoto como `origin/*` y no copia todas las refs, así que no
+Un clon común trae los branches del remoto como `origin/*` y no copia todas las [refs](branch-git.md), así que no
 sirve para reconstruir el servidor si se pierde. Un mirror sí: tiene exactamente las mismas refs
 que el original. También baja la carga del servidor principal cuando muchos jobs de CI clonan el
-mismo repositorio.
+mismo repositorio: es una de las formas de acelerar los clones en
+[repositorios grandes](git-en-repositorios-grandes.md).
 
-## Cómo funciona
+## Clon bare, push --mirror y bundles
 
 `git clone --mirror <url>` crea un repositorio **bare** (sin directorio de trabajo) y configura un
 refspec que mapea todas las refs del remoto a las mismas refs locales. Después,
@@ -58,10 +52,13 @@ el original, la próxima sincronización copia el borrado. Para respaldo convien
   `git bundle verify`, ejecutado dentro de un repositorio.
 - `git fsck` verifica la integridad de los objetos del mirror o del clon restaurado.
 
+Un mirror o un bundle es la última fuente para
+[recuperar un commit perdido](recuperar-trabajo-perdido-en-git.md).
+
 Los mirrors no copian lo que la plataforma guarda fuera de Git: issues, PRs, wikis en otro
 almacenamiento, configuración de protección de ramas.
 
-## Ejemplo
+## Un job nocturno y los runners de CI
 
 Un job nocturno actualiza un mirror y guarda un bundle con la fecha:
 
@@ -74,13 +71,7 @@ Los runners de CI clonan con `git clone --reference /respaldos/catalogo.git --di
 reutilizan los objetos del mirror y descargan solo lo que falta. Sin `--dissociate`, el clon
 queda dependiendo del mirror, y se rompe si el mirror borra objetos en un `gc`.
 
-## No confundir con
+## Mirror y fork
 
 Un fork. El fork es una copia en la plataforma que diverge a propósito y recibe trabajo propio; el
 mirror no recibe commits directos y solo sigue al original.
-
-## Relaciones
-
-- Requiere: [Branch (Git)](branch-git.md) — un mirror copia y sincroniza refs.
-- Ver también: [Git en repositorios grandes](git-en-repositorios-grandes.md) — un mirror local es una de las formas de acelerar los clones.
-- Ver también: [Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md) — un mirror o un bundle es la última fuente para recuperar un commit.

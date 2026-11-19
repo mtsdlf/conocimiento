@@ -1,22 +1,15 @@
 ---
-tipo: ficha
 resumen: >-
   Combinaciones de pipes y redirecciones listas para usar: contar IPs en un log, sumar una columna
   de un CSV, separar salida y errores, renombrar en lote.
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Original reemplazado: nota linux-pipes-unix (secciones C y D), borrada al migrar; la receta de renombrado se corrigió"
   - "Bash Reference Manual, Process Substitution: https://www.gnu.org/software/bash/manual/html_node/Process-Substitution.html"
 aliases: [Recetas de bash, One-liners de Linux]
-parte_de: []
-requiere: [pipe-y-redireccion]
-relacionado: []
+creado: 2026-10-03
+revisado:
 ---
 
 # Recetas de pipes
@@ -24,12 +17,12 @@ relacionado: []
 Combinaciones de pipes y redirecciones listas para usar: contar IPs en un log, sumar una columna
 de un CSV, separar salida y errores, renombrar en lote.
 
-## Fuente
+## De dónde salen
 
 Recetas propias; cada comando se documenta en su página de manual (`man awk`, `man sort`). La
 sintaxis de pipes y redirecciones está en [Pipe y redirección](pipe-y-redireccion.md).
 
-## Valores
+## Las recetas
 
 ### IPs con más errores en un log de acceso
 
@@ -104,7 +97,3 @@ grep -q 'algo' archivo && echo 'Encontrado' || echo 'No encontrado'
 
 Si `archivo` no existe, también dice "No encontrado": `grep` sale con error y `||` no distingue
 el motivo.
-
-## Relaciones
-
-- Detalla y requiere: [Pipe y redirección](pipe-y-redireccion.md) — la sintaxis que usan todas las recetas.
