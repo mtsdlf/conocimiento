@@ -23,7 +23,7 @@ fuentes:
   - "Matias/Estudio/terraform-modulos-avanzados.md (CI/CD con Terraform)"
 aliases: [CI/CD de Terraform, pipeline de infraestructura]
 parte_de: []
-requiere: [estado-remoto-de-terraform, secretos-en-terraform]
+requiere: [secretos-en-terraform]
 relacionado: []
 ---
 
@@ -72,7 +72,7 @@ y un `terraform plan` posterior dice `No changes`.
 
 ## Relaciones
 
-- Requiere: [[estado-remoto-de-terraform]] — el pipeline toma el lock del estado compartido.
 - Requiere: [[secretos-en-terraform]] — la identidad del pipeline lee los secretos.
 - La usa: [[adoptar-terraform-en-un-equipo]] — el pipeline es la etapa de automatización.
 - Ver también: [[pipeline-de-ci-cd]] (DevOps) — el pipeline de aplicaciones, con las mismas ideas.
+- Usa: [[estado-remoto-de-terraform]] — el pipeline toma el lock del estado compartido.

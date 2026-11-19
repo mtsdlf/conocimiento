@@ -16,7 +16,7 @@ fuentes:
   - "internaldeveloperplatform.org, What is an Internal Developer Platform: https://internaldeveloperplatform.org/what-is-an-internal-developer-platform/"
 aliases: [IDP, Plataforma interna, Plataforma interna de desarrollo]
 parte_de: []
-requiere: [platform-team, plataforma-como-producto]
+requiere: [platform-team]
 relacionado: []
 ---
 
@@ -68,5 +68,5 @@ tablero ya armado. No abrió ningún ticket.
 ## Relaciones
 
 - Requiere: [[platform-team]] — el equipo que la construye y opera.
-- Requiere: [[plataforma-como-producto]] — el enfoque con que se diseña.
 - Incluye: [[capacidad-de-plataforma]], [[self-service]], [[golden-path]], [[developer-portal]].
+- Usa: [[plataforma-como-producto]] — el enfoque con que se diseña.

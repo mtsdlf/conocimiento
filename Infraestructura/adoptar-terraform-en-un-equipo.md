@@ -19,7 +19,7 @@ fuentes:
   - "HashiCorp, Import: https://developer.hashicorp.com/terraform/language/import"
 aliases: [plan de adopción de Terraform, migrar a Terraform]
 parte_de: []
-requiere: [modulo-de-terraform, estado-remoto-de-terraform, organizar-entornos-en-terraform, pipeline-de-terraform]
+requiere: [organizar-entornos-en-terraform, pipeline-de-terraform]
 relacionado: []
 ---
 
@@ -68,9 +68,9 @@ desvíos; y todo cambio de infraestructura tiene un PR con su plan.
 
 ## Relaciones
 
-- Requiere: [[modulo-de-terraform]] — la etapa 5 arma los módulos.
-- Requiere: [[estado-remoto-de-terraform]] — la etapa 2 lo configura.
 - Requiere: [[organizar-entornos-en-terraform]] — la estructura se fija en la etapa 1.
 - Requiere: [[pipeline-de-terraform]] — la etapa 8 lo implementa.
 - Ver también: [[gobernanza-de-plataforma]] (Platform-Engineering) — policy-as-code como forma
   de gobierno de una plataforma.
+- Usa: [[modulo-de-terraform]] — la etapa 5 arma los módulos.
+- Usa: [[estado-remoto-de-terraform]] — la etapa 2 lo configura.

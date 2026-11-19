@@ -18,7 +18,7 @@ fuentes:
   - "Microsoft Learn, Troubleshoot connections with Azure Network Watcher: https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-portal"
 aliases: [probar private endpoint, troubleshooting de red en Azure]
 parte_de: []
-requiere: [private-endpoint, dns-privado-para-private-link, topologia-hub-and-spoke]
+requiere: [dns-privado-para-private-link, topologia-hub-and-spoke]
 relacionado: []
 ---
 
@@ -66,8 +66,8 @@ Esa combinación prueba acceso privado, egreso fijo y aislamiento entre proyecto
 
 ## Relaciones
 
-- Requiere: [[private-endpoint]] — lo que se prueba en los pasos 1 y 2.
 - Requiere: [[dns-privado-para-private-link]] — la causa más común de que el paso 1 falle.
 - Requiere: [[topologia-hub-and-spoke]] — explica por qué el paso 4 tiene que fallar.
 - Usa: [[nat-gateway]], [[network-security-group]] y [[ruteo-en-azure]] — lo que se revisa en los
   pasos 3 y 5.
+- Usa: [[private-endpoint]] — lo que se prueba en los pasos 1 y 2.
