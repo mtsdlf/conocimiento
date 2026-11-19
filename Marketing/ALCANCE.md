@@ -6,7 +6,7 @@ escuela:
 fuera:
   - lo específico de Lind o de otra empresa (va a su repo de negocio)
   - lo operativo de cada plataforma de ads (va a mtsdlf/marketing, conocimiento/plataformas/)
-  - precio y modelo de negocio en profundidad (mtsdlf/fundar)
+  - precio y modelo de negocio en profundidad (tema Emprender)
 fuentes:
   - "April Dunford, Obviously Awesome (2019): el tipo de fuente que manda como puente"
 preguntas:

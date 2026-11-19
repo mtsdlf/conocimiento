@@ -18,7 +18,7 @@ revisado:
 
 Propuesta es la parte del marketing que decide qué se le promete al cliente y contra qué alternativas se compara el producto, y si se compite por ser percibido distinto o por ser reconocido.
 
-Recibe de [Mercado y cliente](../Mercado-y-cliente/mercado-y-cliente.md) a quién y para qué: el trabajo que el cliente quiere hacer, según [Jobs to be done](../Mercado-y-cliente/jobs-to-be-done.md), dice para quién se posiciona. Le pasa a [Marca](../Marca/marca.md) qué se tiene que recordar, y de la propuesta salen el mensaje que lleva [Comunicación](../Comunicacion/comunicacion.md) y los [Canales](../Canales/canales.md). El precio y el modelo de negocio también forman parte de lo que se promete; viven en `mtsdlf/fundar` y todavía no tienen notas.
+Recibe de [Mercado y cliente](../Mercado-y-cliente/mercado-y-cliente.md) a quién y para qué: el trabajo que el cliente quiere hacer, según [Jobs to be done](../Mercado-y-cliente/jobs-to-be-done.md), dice para quién se posiciona. Le pasa a [Marca](../Marca/marca.md) qué se tiene que recordar, y de la propuesta salen el mensaje que lleva [Comunicación](../Comunicacion/comunicacion.md) y los [Canales](../Canales/canales.md). El precio y el modelo de negocio también forman parte de lo que se promete; viven en [Emprender](../../Emprender/emprender.md) y todavía no tienen notas.
 
 ## Las cinco piezas del posicionamiento
 

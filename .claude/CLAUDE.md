@@ -2,7 +2,7 @@
 
 Este repo es la base de conocimiento compartida, en Markdown con enlaces relativos (nació como vault de Obsidian y ya no depende de él): la capa de lo general en la organización (skill `tsc-organizacion`). Todo se escribe y se mantiene con la skill `documentar` (the-software-co/skills), que reemplazó a `conocimiento`; lo propio de esta base está en `CONVENCIONES.md` y la entrada raíz es `conocimiento.md`.
 
-Lo que es de una empresa va a su repo (`tsc-negocio`, `lind-negocio`), y lo que es nuestro saber sobre emprender, a `fundar`.
+Dónde va cada cosa (este repo, `marketing` o el repo de una empresa) está en `CONVENCIONES.md`. Lo que es saber va acá aunque la sesión haya empezado en otro repo; emprender es el tema `Emprender/`, que absorbió a `mtsdlf/fundar`.
 
 Quien te habla puede no ser de sistemas: contale lo que cambia en castellano llano y encargate de git, en una rama propia y con un PR contra `main`.
 
