@@ -39,28 +39,28 @@ Decidir si el gecko leopardo necesita luz UVB: está demostrado que sintetiza vi
 
 ## Cuándo cada una
 
-- **Con UVB** si se busca imitar la síntesis natural de [[calcio-y-vitamina-d3|vitamina D3]] y se puede dar sombra. La RSPCA recomienda un tubo 2–5 % sobre un tercio a la mitad del largo, con UVI 0,7 en la zona caliente y cero en la sombra. Merck dice que el gecko no necesita iluminación especial, pero recomienda luz de amplio espectro porque "likely to have health benefits".
-- **Sin UVB** si la dieta trae calcio y D3 adecuados. Oonincx midió crecimiento y peso iguales con y sin UVB y sin signos clínicos en seis meses, con D3 oral en todos los animales.
+- **Con UVB** para imitar la síntesis natural de [[calcio-y-vitamina-d3|vitamina D3]]. La RSPCA recomienda tubo 2–5 % sobre un tercio a la mitad del largo, con UVI 0,7 en la zona caliente y cero en la sombra. Merck: sin iluminación especial, pero recomienda luz de amplio espectro porque "likely to have health benefits".
+- **Sin UVB** si la dieta trae calcio y D3 adecuados (Oonincx: crecimiento y peso iguales, sin signos clínicos en seis meses).
 
-El hábito [[actividad-crepuscular|crepuscular y nocturno]] no resuelve la pregunta: la síntesis de D3 se midió igual en un animal que casi no se asolea.
+El hábito [[actividad-crepuscular|crepuscular y nocturno]] no zanja la pregunta: la síntesis se midió en un animal que casi no se asolea.
 
 ## Debate abierto
 
 > [!IMPORTANT]
-> Disputado: si el UVB hace falta. A favor: en Oonincx 2020 el 25(OH)D3 fue 61 ± 20 frente a 38 ± 8 nmol/L con UVB de 33–51 μW/cm² durante 2 h diarias; en adultos, según lo cita ese mismo trabajo, Gould 2018 pasó de 42 a 80 nmol/L en 30 días (la metodología es "unclear" según Oonincx). En contra: Oonincx concluye que la D3 dietaria sola cubre el crecimiento de los primeros seis meses, y la forma activa 1,25(OH)2D3 no cambió entre grupos. Nadie niega que el UVB sube el 25(OH)D3; falta saber si aporta densidad ósea o inmunidad.
+> Disputado: si el UVB hace falta. A favor: en Oonincx 2020 el 25(OH)D3 fue 61 ± 20 frente a 38 ± 8 nmol/L con UVB de 33–51 μW/cm² durante 2 h diarias; Gould 2018 (citado por Oonincx, que llama "unclear" a su metodología) pasó de 42 a 80 nmol/L en 30 días. En contra: la D3 dietaria cubre el crecimiento y la forma activa 1,25(OH)2D3 no cambió entre grupos. Nadie niega que sube el 25(OH)D3; falta saber si aporta densidad ósea o inmunidad.
 
-Los estudios son chicos (n = 12 y n = 18) y falta evidencia en hembras reproductoras, el caso donde Oonincx ve más probable un beneficio. UV-Tool admite que hay "hardly any scientific data to back the recommendation of any particular level of UV-B for any particular species". Si se usa, las fuentes respaldan dosis baja con sombra obligatoria. Un estudio de 2024 con 15 animales no pudo leerse completo. No hay un umbral de D3 tóxica para la especie en las fuentes leídas; la dosis de suplemento va según la marca, y la base no es consejo veterinario.
+Los estudios son chicos y faltan hembras reproductoras, donde Oonincx ve más probable un beneficio. UV-Tool admite que hay "hardly any scientific data to back the recommendation of any particular level of UV-B for any particular species". Un estudio de 2024 (15 animales) no se leyó completo. Ninguna fuente da un umbral de D3 tóxica; la dosis de suplemento, según la marca, y la base no es consejo veterinario.
 
-En el terrario de la casa todavía no hay UVB y la D3 viene del polvo (DIETA.md); CONTEXT.md contempla un UVB de bajo nivel, lo que coincide con la dosis baja y la sombra de las fuentes.
+La casa todavía no usa UVB y la D3 viene del polvo (DIETA.md); CONTEXT.md contempla un UVB de bajo nivel, acorde con las fuentes.
 
 > [!NOTE]
-> Sin fuente todavía: zona de Ferguson de la especie en el UV-Tool (no confirmada), UVI y distancia en Gould 2018, y frecuencia de reemplazo de la lámpara más allá del aviso de Merck de renovarla una vez al año.
+> Sin fuente todavía: zona de Ferguson de la especie en el UV-Tool (no confirmada), UVI y distancia en Gould 2018, y reemplazo de lámpara salvo el aviso de Merck de renovarla una vez al año.
 
 ## Para profundizar
 
-[Oonincx et al. 2020](https://edepot.wur.nl/531850): introducción y discusión; fijate en que todos recibían D3 oral, así que demuestra síntesis y no necesidad. [UV-Tool, Baines et al. 2016](https://jzar.org/jzar/article/download/150/89): introducción y "Limits of the tool"; fijate en la fila de *E. macularius* de la tabla de zoológicos.
+[Oonincx et al. 2020](https://edepot.wur.nl/531850): todos recibían D3 oral: demuestra síntesis, no necesidad. [UV-Tool, Baines et al. 2016](https://jzar.org/jzar/article/download/150/89): "Limits of the tool" y la fila de *E. macularius* de la tabla de zoológicos.
 
 ## Relaciones
 
-- Requiere: [[calcio-y-vitamina-d3|calcio y vitamina D3]] — la dieta es la alternativa al UVB.
-- Relacionado: [[actividad-crepuscular|actividad crepuscular]] — el ritmo de luz del animal enmarca la exposición.
+- Requiere: [[calcio-y-vitamina-d3|calcio y vitamina D3]] — la dieta es la alternativa.
+- Relacionado: [[actividad-crepuscular|actividad crepuscular]] — su ritmo de luz enmarca la exposición.

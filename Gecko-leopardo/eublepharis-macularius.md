@@ -30,31 +30,30 @@ El gecko leopardo (Eublepharis macularius) es un gecko terrestre de zonas árida
 
 ## Por qué existe
 
-Es el representante de Asia del Sur y del oeste asiático de una familia antigua. Según Agarwal et al. 2022, Eublepharidae empezó a diversificarse en el Cretácico, y *Eublepharis* se separó de sus géneros hermanos africanos entre el Paleoceno y el Eoceno. Es además el gecko más conocido en cautiverio, tema de [[del-salt-range-al-terrario|del-salt-range-al-terrario]].
+Representa en Asia del Sur y occidental a una familia antigua: según Agarwal et al. 2022, Eublepharidae empezó a diversificarse en el Cretácico, y *Eublepharis* se separó de sus géneros hermanos africanos entre el Paleoceno y el Eoceno. Es el gecko más conocido en cautiverio ([[del-salt-range-al-terrario|del-salt-range-al-terrario]]).
 
 ## Cómo funciona
 
-**La familia.** Eublepharidae es "the least diverse of gekkotan families, with just six genera and 40 described species". Los géneros son *Aeluroscalabotes*, *Goniurosaurus* (24 especies), *Coleonyx* (8, del sudoeste de EE. UU. a Centroamérica), *Hemitheconyx* y *Holodactylus* (2 cada uno, en África) y *Eublepharis*. Los rasgos comunes son los párpados móviles, el hábito terrestre, la falta de almohadillas subdigitales (con la excepción del trepador *Aeluroscalabotes*) y los huevos de cáscara blanda no calcárea. La Reptile Database registra lamelas subdigitales con pequeños tubérculos, así que "sin almohadillas adhesivas" es más exacto que "sin lamelas".
+**La familia.** Eublepharidae es "the least diverse of gekkotan families, with just six genera and 40 described species". Son *Aeluroscalabotes*, *Goniurosaurus* (24 especies), *Coleonyx* (8, del sudoeste de EE. UU. a Centroamérica), *Hemitheconyx* y *Holodactylus* (2 cada uno, en África) y *Eublepharis*. Rasgos comunes: párpados móviles, hábito terrestre, sin almohadillas subdigitales (salvo el trepador *Aeluroscalabotes*) y huevos de cáscara blanda no calcárea. La Reptile Database registra lamelas subdigitales con pequeños tubérculos: "sin almohadillas adhesivas" es más exacto que "sin lamelas".
 
-**Las especies cercanas.** El listado del género en la Reptile Database (leído por resumen) suma ocho: *angramainyu*, *fuscus*, *hardwickii*, *jhuma*, *macularius*, *pictus*, *satpuraensis* y *turcmenicus*. Agarwal et al. 2022 contaba seis reconocidas a su fecha. Casi todas viven en hábitats secos y abiertos; solo *hardwickii* y *satpuraensis* ocurren en bosques deciduos, lo que el estudio considera una condición derivada.
+**Las especies cercanas.** El listado de la Reptile Database (por resumen) suma ocho: *angramainyu*, *fuscus*, *hardwickii*, *jhuma*, *macularius*, *pictus*, *satpuraensis* y *turcmenicus*. Agarwal et al. 2022 contaba seis. Casi todas viven en hábitats secos y abiertos; solo *hardwickii* y *satpuraensis* ocurren en bosques deciduos, condición que el estudio considera derivada.
 
-**Dónde vive.** La Reptile Database lo ubica en el este de Afganistán, Pakistán, el noroeste de la India y Nepal; la localidad tipo es Salt Range, Punjab. Agarwal et al. muestrearon más de 1.100 km en Pakistán, entre unos 120 y 1.800 m de altitud. Es una especie "secretive, ground-dwelling, nocturnally active" (Rawat et al. 2019, primer registro en Nepal), con noches de diciembre de hasta 5 °C en ese sitio.
+**Dónde vive.** Para la Reptile Database vive en el este de Afganistán, Pakistán, el noroeste de la India y Nepal; la localidad tipo es Salt Range, Punjab. Agarwal et al. muestrearon más de 1.100 km en Pakistán, entre unos 120 y 1.800 m de altitud. Es "secretive, ground-dwelling, nocturnally active" (Rawat et al. 2019, primer registro en Nepal), con noches de diciembre de hasta 5 °C allí.
 
 > [!IMPORTANT]
-> Disputado: cuántas especies tiene *Eublepharis*. Agarwal et al. 2022 proponen 10 especies, con cuatro linajes posiblemente sin nombre en Irán, India y Pakistán; Mirza 2024 propone revalidar *E. madarensis* para Rajasthan, y la Reptile Database advierte que ese trabajo no aporta datos claros de los ejemplares tipo. El género no tiene revisión taxonómica desde Börner (1976, 1981) y Grismer (1988).
+> Disputado: cuántas especies tiene *Eublepharis*. Agarwal et al. 2022 proponen 10 especies, con cuatro linajes posiblemente sin nombre en Irán, India y Pakistán; Mirza 2024 propone revalidar *E. madarensis* para Rajasthan, y la Reptile Database advierte que no aporta datos claros de los ejemplares tipo. El género no tiene revisión taxonómica desde Börner (1976, 1981) y Grismer (1988).
 
 ## Ejemplo
 
-Un gecko leopardo de terrario y un gecko de pared (con almohadillas adhesivas) se distinguen a simple vista: el primero camina por el suelo y parpadea.
+Se distingue de un gecko de pared (con almohadillas adhesivas): camina por el suelo y parpadea.
 
 ## No confundir con
 
-- **Un animal de Irán.** Las fichas populares lo ubican allí, pero la Reptile Database señala que no hay registros iraníes confirmados (Rastegar-Pouyani et al. 2008).
-- **Un trepador.** No tiene almohadillas adhesivas; es terrestre.
+- **Un animal de Irán.** Las fichas populares lo ubican allí, pero la Reptile Database no registra casos iraníes confirmados (Rastegar-Pouyani et al. 2008).
 
 > [!NOTE]
-> Sin fuente todavía: estado de conservación con año y tendencia (solo "LC" vía la Reptile Database, la IUCN no abrió); y clima del rango nativo (lluvia, temperaturas estacionales). Agarwal et al. dicen que de su historia natural en el rango nativo "almost nothing is known".
+> Sin fuente todavía: estado de conservación con año y tendencia (solo "LC" vía la Reptile Database, la IUCN no abrió) y clima del rango nativo (lluvia, temperaturas estacionales). De su historia natural allá "almost nothing is known" (Agarwal et al.).
 
 ## Para profundizar
 
-- **[Agarwal et al. 2022](https://www.danieljablonski.com/a/soubory/Agarwal_et_al_2022_Evolutionary_history_Eublepharis_macularius_MPE.pdf)**: leer la Introducción (familia y comercio), la sección 4.1.1 (taxonomía) y la Fig. 1 (localidades tipo y árbol). Fijarse en la lista de seis nombres sinónimos y en la advertencia de que el género sigue sin revisar. Ver la advertencia de arriba sobre su estado.
+- **[Agarwal et al. 2022](https://www.danieljablonski.com/a/soubory/Agarwal_et_al_2022_Evolutionary_history_Eublepharis_macularius_MPE.pdf)**: Introducción, sección 4.1.1 y Fig. 1, con la lista de seis nombres sinónimos.

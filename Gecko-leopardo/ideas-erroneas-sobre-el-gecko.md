@@ -51,7 +51,7 @@ Cada fila dice la idea, qué muestra la evidencia y dónde está tratada.
 
 ## Por qué pasa
 
-La especie es de zonas áridas y de ahí se deduce que no necesita agua, calor ni cuidado.
+Inferencia propia, sin fuente: varias de estas ideas parten de que la especie es de zonas áridas, y de ahí se deduce que no necesita humedad, calor ni cuidado especial.
 
 ## Qué hacer
 
