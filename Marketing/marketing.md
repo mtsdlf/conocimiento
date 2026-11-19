@@ -16,7 +16,7 @@ revisado:
 
 El marketing es el trabajo de decidir a quién se le vende, qué se le promete, cómo se lo recuerda, por dónde se llega y cómo se sabe si funcionó.
 
-Termina donde empiezan la venta (cerrar con un comprador concreto) y el producto (qué se construye), aunque los toca a los dos. El precio y el modelo de negocio también son decisiones de marketing; en esta organización viven en `mtsdlf/fundar`. Las definiciones de referencia (AMA, Kotler) y dónde discrepan están en [Qué es marketing](Fundamentos/que-es-marketing.md).
+Termina donde empiezan la venta (cerrar con un comprador concreto) y el producto (qué se construye), aunque los toca a los dos. El precio y el modelo de negocio también son decisiones de marketing; en esta base viven en [Emprender](../Emprender/emprender.md). Las definiciones de referencia (AMA, Kotler) y dónde discrepan están en [Qué es marketing](Fundamentos/que-es-marketing.md).
 
 No es una ciencia con un solo cuerpo de evidencia: conviven escuelas académicas y corrientes de práctica que llegan a conclusiones distintas, y casi toda la evidencia viene de marcas grandes, maduras y de mercados anglosajones. Por eso cada nota dice de qué corriente sale lo que afirma y cuánto se sabe para un emprendimiento chico, B2B o argentino.
 
