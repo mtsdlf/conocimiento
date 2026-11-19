@@ -39,7 +39,7 @@ reglas y queda conectado a lo compartido.
 El Cloud Adoption Framework de Microsoft la divide en dos partes:
 
 - **Landing zone de plataforma**: lo compartido. Suscripciones de identidad, de conectividad (el
-  hub de la [[topologia-hub-and-spoke]], el DNS privado) y de administración (Log Analytics).
+  hub de la [Topología hub-and-spoke](topologia-hub-and-spoke.md), el DNS privado) y de administración (Log Analytics).
 - **Landing zones de carga de trabajo** (antes "de aplicación"): una suscripción por proyecto o
   equipo, bajo un management group (Online, Corp) que le aplica políticas.
 
@@ -48,13 +48,13 @@ políticas y los roles asignados arriba se heredan hacia abajo.
 
 **Las ocho áreas de diseño** que hay que decidir: facturación y tenant de Entra ID; identidad y
 acceso; organización de recursos (nombres, etiquetas); topología de red y conectividad; seguridad;
-administración (monitoreo, backup); gobernanza ([[azure-policy]], costos); y automatización de la
+administración (monitoreo, backup); gobernanza ([Azure Policy](azure-policy.md), costos); y automatización de la
 plataforma y DevOps.
 
 **La implementación** se hace con el portal o como código. Para Terraform, el módulo
 `caf-enterprise-scale` está deprecado y archivado desde septiembre de 2026; Microsoft lo reemplaza
 por el acelerador basado en Azure Verified Modules. Un diseño propio en stacks se describe en
-[[landing-zone-con-terraform]].
+[Landing zone con Terraform](landing-zone-con-terraform.md).
 
 ## Ejemplo
 
@@ -71,10 +71,10 @@ suscripciones, políticas y red que las rodea.
 
 ## Relaciones
 
-- Requiere: [[topologia-hub-and-spoke]] — la red de la plataforma.
-- Requiere: [[azure-policy]] — las reglas que cada suscripción hereda.
-- Usa: [[identidad-y-acceso-en-azure]] — el área de identidad y acceso.
-- Detallada en: [[landing-zone-con-terraform]] — cómo se despliega como código.
-- En otro Tema: [[gobernanza-de-plataforma]] — las políticas de la landing zone son gobernanza
-  incorporada a la plataforma; [[golden-path]] y [[self-service]] — un spoke nuevo desde
+- Requiere: [Topología hub-and-spoke](topologia-hub-and-spoke.md) — la red de la plataforma.
+- Requiere: [Azure Policy](azure-policy.md) — las reglas que cada suscripción hereda.
+- Usa: [Identidad y acceso en Azure](identidad-y-acceso-en-azure.md) — el área de identidad y acceso.
+- Detallada en: [Landing zone con Terraform](landing-zone-con-terraform.md) — cómo se despliega como código.
+- En otro Tema: [Gobernanza de plataforma](../Platform-Engineering/gobernanza-de-plataforma.md) — las políticas de la landing zone son gobernanza
+  incorporada a la plataforma; [Golden path](../Platform-Engineering/golden-path.md) y [Self-service](../Platform-Engineering/self-service.md) — un spoke nuevo desde
   plantilla es un camino soportado para el equipo que lo pide.

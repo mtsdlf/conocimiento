@@ -77,5 +77,5 @@ actualiza solo.
 
 ## Relaciones
 
-- Casos: [[derivar-nombres-en-un-arquetipo-de-maven]] — cómo generar nombres de clase a partir del `artifactId`.
-- Ver también: [[golden-path]] (Platform-Engineering) — un arquetipo es la plantilla de un golden path para servicios Java.
+- Casos: [Derivar nombres en un arquetipo de Maven](derivar-nombres-en-un-arquetipo-de-maven.md) — cómo generar nombres de clase a partir del `artifactId`.
+- Ver también: [Golden path](../Platform-Engineering/golden-path.md) (Platform-Engineering) — un arquetipo es la plantilla de un golden path para servicios Java.

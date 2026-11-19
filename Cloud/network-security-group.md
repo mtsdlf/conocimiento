@@ -29,7 +29,7 @@ VMs para usarlas como origen o destino de esas reglas.
 
 ## Por qué importa
 
-Dentro de una [[virtual-network-azure]], por defecto todo habla con todo. El NSG es el primer
+Dentro de una [Virtual Network (Azure)](virtual-network-azure.md), por defecto todo habla con todo. El NSG es el primer
 filtro y no tiene costo: separa la subred de aplicación de la de datos o deja entrar solo el
 puerto 443 desde un balanceador.
 
@@ -64,6 +64,6 @@ egreso de varias VNets. El NSG filtra por IP y puerto en cada subred. Se usan ju
 
 ## Relaciones
 
-- Requiere: [[virtual-network-azure]] — filtra tráfico entre sus subredes.
-- La usa: [[verificar-conectividad-privada-en-azure]] — revisar las reglas efectivas es un paso del
+- Requiere: [Virtual Network (Azure)](virtual-network-azure.md) — filtra tráfico entre sus subredes.
+- La usa: [Verificar la conectividad privada en Azure](verificar-conectividad-privada-en-azure.md) — revisar las reglas efectivas es un paso del
   diagnóstico.

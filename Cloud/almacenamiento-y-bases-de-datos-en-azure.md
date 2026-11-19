@@ -55,7 +55,7 @@ la clave de partición se eligen al principio y cambiarlos implica migrar.
   Eventual; Session es el más usado.
 - **Retiros**: Azure Cache for Redis Enterprise se retira el 31 de marzo de 2027 y los tiers
   Basic, Standard y Premium el 30 de septiembre de 2028; el reemplazo es Azure Managed Redis.
-- **Acceso**: todos admiten [[private-endpoint]] y acceso público apagado.
+- **Acceso**: todos admiten [Private endpoint](private-endpoint.md) y acceso público apagado.
 
 ## Ejemplo
 
@@ -71,5 +71,5 @@ servicios atienden a la aplicación en línea.
 
 ## Relaciones
 
-- La usa: [[alta-disponibilidad-y-dr-en-azure]] — la réplica de cada servicio de datos.
-- La usa: [[arquitecturas-de-referencia-en-azure]] — los datos detrás de cada patrón.
+- La usa: [Alta disponibilidad y DR en Azure](alta-disponibilidad-y-dr-en-azure.md) — la réplica de cada servicio de datos.
+- La usa: [Arquitecturas de referencia en Azure](arquitecturas-de-referencia-en-azure.md) — los datos detrás de cada patrón.

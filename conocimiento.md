@@ -17,42 +17,42 @@ parte_de: []
 Mapa raíz del Conocimiento compartido de Matías y Fer: enlaza el Mapa de cada Tema, agrupados
 por área.
 
-Cómo se escribe y se mantiene cada nota: [[CONVENCIONES]] y la skill `documentar`.
+Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
 ## Plataforma y entrega
 
-- [[platform-engineering]] — plataformas internas, Team Topologies, developer experience y
+- [Platform Engineering](Platform-Engineering/platform-engineering.md) — plataformas internas, Team Topologies, developer experience y
   observabilidad.
-- [[devops]] — cultura y métricas DORA, CI/CD, branching, GitOps y DevSecOps; con Recorrido.
-- [[infraestructura]] — Terraform, Kubernetes y Cilium, certificados y DNS, SOPS y NetDevOps.
-- [[cloud]] — Azure (gobernanza, redes, cómputo, datos, operación) y [[finops]]; con Recorrido
+- [DevOps](DevOps/devops.md) — cultura y métricas DORA, CI/CD, branching, GitOps y DevSecOps; con Recorrido.
+- [Infraestructura](Infraestructura/infraestructura.md) — Terraform, Kubernetes y Cilium, certificados y DNS, SOPS y NetDevOps.
+- [Cloud](Cloud/cloud.md) — Azure (gobernanza, redes, cómputo, datos, operación) y [FinOps](Cloud/FinOps/finops.md); con Recorrido
   de redes.
 
 ## Software
 
-- [[desarrollo]] — herramientas de quien escribe software: [[git]], YAML, configuración,
+- [Desarrollo](Desarrollo/desarrollo.md) — herramientas de quien escribe software: [Git](Desarrollo/Git/git.md), YAML, configuración,
   arquetipos e historias y casos de prueba.
-- [[arquitectura]] — patrones para sistemas distribuidos: APIs entre servicios, circuit breaker,
+- [Arquitectura](Arquitectura/arquitectura.md) — patrones para sistemas distribuidos: APIs entre servicios, circuit breaker,
   sagas, idempotencia y multi-tenancy.
 
 ## Sistemas e IA
 
-- [[linux]] — cómo está hecho y cómo se administra Linux; con Recorrido.
-- [[conceptos-ia|IA]] — modelos de lenguaje y cómo se acota lo que emiten.
+- [Linux](Linux/linux.md) — cómo está hecho y cómo se administra Linux; con Recorrido.
+- [IA](IA/conceptos-ia.md) — modelos de lenguaje y cómo se acota lo que emiten.
 
 ## Datos
 
-- [[datos]] — análisis de cohortes, retención y churn, para quien aprende Data Analytics; con
+- [Datos](Datos/datos.md) — análisis de cohortes, retención y churn, para quien aprende Data Analytics; con
   Recorrido.
 
 ## Deporte
 
-- [[golf]] — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
+- [Golf](Golf/golf.md) — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
 
 ## Negocio
 
-- [[marketing]] — posicionamiento, JTBD, cómo crecen las marcas, elección de canales y métricas.
+- [Marketing](Marketing/marketing.md) — posicionamiento, JTBD, cómo crecen las marcas, elección de canales y métricas.
 
 ## Animales
 
-- [[gecko-leopardo]] — cuidado del gecko leopardo en terrario: qué necesita, cómo se nota que está bien o mal y qué hacer.
+- [Gecko leopardo](Gecko-leopardo/gecko-leopardo.md) — cuidado del gecko leopardo en terrario: qué necesita, cómo se nota que está bien o mal y qué hacer.

@@ -35,12 +35,12 @@ aislados quedan y cuánto código se repite.
 ## Cómo funciona
 
 - **Carpeta por entorno**: `environments/dev`, `environments/test` y `environments/prod` tienen
-  cada una un root module chico que llama a los [[modulo-de-terraform|módulos]] comunes. Si los
+  cada una un root module chico que llama a los [módulos](modulo-de-terraform.md) comunes. Si los
   módulos están en el mismo repo (`modules/`), se llaman por ruta y todos los entornos usan la misma
   copia; si se publican en un registry o en un repo con tags, cada entorno fija su versión. Los
   valores propios de cada entorno (tamaños, rangos, nombres) van en sus argumentos o en un
   `terraform.tfvars` de la carpeta. Cada carpeta tiene su propio backend, con lo que
-  cada entorno tiene su [[estado-remoto-de-terraform|estado]] y puede usar credenciales distintas.
+  cada entorno tiene su [estado](estado-remoto-de-terraform.md) y puede usar credenciales distintas.
 - **Workspaces de la CLI**: varias instancias de estado sobre la misma configuración y el mismo
   backend. HashiCorp aclara que, por compartir backend, no son un mecanismo de aislamiento adecuado
   cuando los entornos necesitan credenciales y controles de acceso distintos; para eso recomienda
@@ -62,6 +62,6 @@ variables y permisos, más parecida a una carpeta por entorno que a un workspace
 
 ## Relaciones
 
-- Requiere: [[modulo-de-terraform]] — cada entorno llama a los módulos comunes.
-- Requiere: [[estado-remoto-de-terraform]] — la separación real es un estado por entorno.
-- La usa: [[adoptar-terraform-en-un-equipo]] — la estructura de entornos se fija al empezar.
+- Requiere: [Módulo de Terraform](modulo-de-terraform.md) — cada entorno llama a los módulos comunes.
+- Requiere: [Estado remoto de Terraform](estado-remoto-de-terraform.md) — la separación real es un estado por entorno.
+- La usa: [Adoptar Terraform en un equipo](adoptar-terraform-en-un-equipo.md) — la estructura de entornos se fija al empezar.

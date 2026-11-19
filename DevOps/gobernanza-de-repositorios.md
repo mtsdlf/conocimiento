@@ -43,7 +43,7 @@ alguien se acuerde de controlar.
 - **Ramas protegidas**: en GitHub, una regla sobre `main` puede exigir PR con aprobaciones,
   status checks en verde (los resultados que el CI reporta sobre el commit), conversaciones
   resueltas, commits firmados, historial lineal o merge queue (una fila que prueba cada PR sobre
-  lo ya mergeado; ver [[integracion-continua]]). También puede bloquear el force push, que
+  lo ya mergeado; ver [Integración continua](integracion-continua.md)). También puede bloquear el force push, que
   reescribe el historial remoto, y el borrado. Los **rulesets** hacen lo mismo con más
   flexibilidad: varios se aplican a la misma rama, y si dos chocan rige el más restrictivo;
   cubren también tags y se desactivan sin borrarlos.
@@ -67,12 +67,12 @@ todo cambio de Terraform pase por el equipo de plataforma.
 
 ## No confundir con
 
-La [[gobernanza-de-plataforma]], que aplica políticas a lo que se pide a la plataforma interna
+La [Gobernanza de plataforma](../Platform-Engineering/gobernanza-de-plataforma.md), que aplica políticas a lo que se pide a la plataforma interna
 (recursos, costos, permisos). La gobernanza de repositorios regula cambios de código.
 
 ## Relaciones
 
-- Relacionado: [[estrategia-de-branching]] — define las ramas que estas reglas protegen.
-- Relacionado: [[conventional-commits]] — el formato del mensaje se exige como check.
-- Relacionado: [[trazabilidad-de-cambios]] — las aprobaciones y checks son la evidencia de auditoría.
-- Ver también: [[gobernanza-de-plataforma]] — la misma idea aplicada a la plataforma interna.
+- Relacionado: [Estrategia de branching](estrategia-de-branching.md) — define las ramas que estas reglas protegen.
+- Relacionado: [Conventional Commits](conventional-commits.md) — el formato del mensaje se exige como check.
+- Relacionado: [Trazabilidad de cambios](trazabilidad-de-cambios.md) — las aprobaciones y checks son la evidencia de auditoría.
+- Ver también: [Gobernanza de plataforma](../Platform-Engineering/gobernanza-de-plataforma.md) — la misma idea aplicada a la plataforma interna.

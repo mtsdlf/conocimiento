@@ -68,5 +68,5 @@ según su propio código de conducta.
 
 ## Relaciones
 
-- Requiere: [[hoyo-de-golf]] — las prácticas cambian según el área (bunker, green).
-- Relacionado: [[reglas-basicas-de-golf]] — la Regla 1.2 forma parte de las Reglas.
+- Requiere: [Hoyo de golf](hoyo-de-golf.md) — las prácticas cambian según el área (bunker, green).
+- Relacionado: [Reglas básicas de golf](reglas-basicas-de-golf.md) — la Regla 1.2 forma parte de las Reglas.

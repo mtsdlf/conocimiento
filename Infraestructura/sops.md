@@ -72,5 +72,5 @@ usa claves externas (age, KMS), y el mismo archivo se puede descifrar en otra m�
 
 ## Relaciones
 
-- Relacionado: [[secretos-en-terraform]] — la alternativa de dejar el secreto en un gestor y leerlo al aplicar.
-- Ver también: [[gitops]] (DevOps) — SOPS es lo que permite guardar secretos en el repo de GitOps.
+- Relacionado: [Secretos en Terraform](secretos-en-terraform.md) — la alternativa de dejar el secreto en un gestor y leerlo al aplicar.
+- Ver también: [GitOps](../DevOps/gitops.md) (DevOps) — SOPS es lo que permite guardar secretos en el repo de GitOps.

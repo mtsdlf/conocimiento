@@ -37,7 +37,7 @@ idioma: es
 
 Qué fuentes sobre gecko leopardo hay, cuáles sirven y cuáles no, con su tipo, para qué se usan y qué advertencia llevan; la evidencia primaria específica de la especie es escasa y casi todo es manual veterinario genérico o literatura de criadores.
 
-Estado al 2026-11-11. La base de este documento es la investigación hecha para el [[eublepharis-macularius|gecko leopardo]]; la columna "Lectura" dice si la fuente se leyó o solo se vio un resumen. Las fuentes de salud se toman con la misma cautela: esta base no es consejo veterinario.
+Estado al 2026-11-11. La base de este documento es la investigación hecha para el [gecko leopardo](eublepharis-macularius.md); la columna "Lectura" dice si la fuente se leyó o solo se vio un resumen. Las fuentes de salud se toman con la misma cautela: esta base no es consejo veterinario.
 
 ## Fuentes que sirven
 
@@ -57,7 +57,7 @@ Estado al 2026-11-11. La base de este documento es la investigación hecha para 
 
 - **ReptiFiles** (criadores y divulgadores; la autora no es veterinaria según su sitio): el mejor argumento del lado "recinto grande" y "sustrato suelto con condiciones", pero no cita estudios. Sirve de contraste, no de base.
 - **Vet Times, 2011** (artículo clínico): el resumen por enfermedad más completo, pero se leyó vía un resumen de fetch, es de 2011 y muchas afirmaciones tienen una sola fuente.
-- **Hojas de cuidado de tiendas, clínicas y refugios**: de calidad dispar. Una tienda grande dice que el UVB "no es estrictamente necesario"; otras fuentes lo recomiendan. Ver [[uvb-si-o-no|uvb-si-o-no]].
+- **Hojas de cuidado de tiendas, clínicas y refugios**: de calidad dispar. Una tienda grande dice que el UVB "no es estrictamente necesario"; otras fuentes lo recomiendan. Ver [uvb-si-o-no](uvb-si-o-no.md).
 - **Wikis y foros de comunidad**: útiles para saber qué se hace, no como evidencia.
 
 > [!NOTE]
@@ -74,4 +74,4 @@ Páginas con texto copiado o sin relación con el tema que aparecieron en la bú
 
 ## Relaciones
 
-- Requiere: [[eublepharis-macularius|gecko-leopardo]] — evalúa las fuentes que hablan de esa especie.
+- Requiere: [gecko-leopardo](eublepharis-macularius.md) — evalúa las fuentes que hablan de esa especie.

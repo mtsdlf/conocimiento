@@ -57,11 +57,11 @@ un Load Balancer interno reparte entre las VMs de la API.
 
 ## No confundir con
 
-Una [[nat-gateway]], que da salida a internet a una subred; los balanceadores reciben tráfico de
+Una [NAT Gateway](nat-gateway.md), que da salida a internet a una subred; los balanceadores reciben tráfico de
 entrada. Un Load Balancer público también puede dar salida, con reglas de salida, pero con un cupo
 fijo de puertos por VM.
 
 ## Relaciones
 
-- La usa: [[arquitecturas-de-referencia-en-azure]] — la web global segura empieza con Front Door.
-- La usa: [[eleccion-de-computo-en-azure]] — lo que va detrás del balanceador.
+- La usa: [Arquitecturas de referencia en Azure](arquitecturas-de-referencia-en-azure.md) — la web global segura empieza con Front Door.
+- La usa: [Elección de cómputo en Azure](eleccion-de-computo-en-azure.md) — lo que va detrás del balanceador.

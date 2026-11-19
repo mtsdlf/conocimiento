@@ -47,7 +47,7 @@ Una capacidad bien definida tiene:
 - **dueño**: un equipo responsable de su evolución y su soporte;
 - **contrato**: una interfaz versionada y documentada;
 - **ciclo de vida**: cómo se crea, se cambia, se da de baja y se reemplaza su backend;
-- **límites**: quién puede pedirla y cuánto, según la [[gobernanza-de-plataforma]].
+- **límites**: quién puede pedirla y cuánto, según la [Gobernanza de plataforma](gobernanza-de-plataforma.md).
 
 Las capacidades se agrupan en dominios según quién responde por ellas: identidad, recursos,
 despliegue, observabilidad, seguridad. En un diagrama de plataforma, cada caja es una capacidad
@@ -66,7 +66,7 @@ que el usuario puede hacer ("desplegar mi servicio"), no el programa que lo hace
 
 ## Relaciones
 
-- Parte de: [[internal-developer-platform]] — una IDP es un conjunto de capacidades.
-- Base de: [[plataforma-api-first]] — cada capacidad se ofrece por una API.
-- Base de: [[crossplane]] — un proveedor de capacidades de infraestructura.
-- Relacionado: [[observabilidad]] — Effective Platform Engineering propone ofrecerla como una capacidad de la plataforma.
+- Parte de: [Internal Developer Platform](internal-developer-platform.md) — una IDP es un conjunto de capacidades.
+- Base de: [Plataforma API-first](plataforma-api-first.md) — cada capacidad se ofrece por una API.
+- Base de: [Crossplane](crossplane.md) — un proveedor de capacidades de infraestructura.
+- Relacionado: [Observabilidad](observabilidad.md) — Effective Platform Engineering propone ofrecerla como una capacidad de la plataforma.

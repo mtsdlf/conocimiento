@@ -69,9 +69,9 @@ funcione.
 El desafío **DNS-01**. DNS-01 publica el token en un registro TXT `_acme-challenge.<dominio>`: no
 necesita el puerto 80 abierto y permite certificados wildcard, que HTTP-01 no permite. A cambio,
 el cliente necesita credenciales de la API del DNS. Conviene DNS-01 cuando el servicio no es
-alcanzable desde internet, por ejemplo en una LAN con [[split-horizon-dns]] o detrás de un túnel;
+alcanzable desde internet, por ejemplo en una LAN con [Split-horizon DNS](split-horizon-dns.md) o detrás de un túnel;
 el homelab `home-k8` usa DNS-01 con Cloudflare por esa razón.
 
 ## Relaciones
 
-- Relacionado: [[split-horizon-dns]] — un nombre que solo existe en la LAN no puede validarse por HTTP-01.
+- Relacionado: [Split-horizon DNS](split-horizon-dns.md) — un nombre que solo existe en la LAN no puede validarse por HTTP-01.

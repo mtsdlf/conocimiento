@@ -29,7 +29,7 @@ El calor por contacto es el que el gecko leopardo recibe de una superficie calie
 
 ## Por qué existe
 
-La [[termorregulacion-conductual|termorregulación conductual]] necesita una fuente de calor entre las opciones del gradiente. Un gecko terrestre de [[actividad-crepuscular|hábito nocturno]] pasa gran parte del tiempo apoyado en el suelo, así que una fuente bajo el sustrato sirve.
+La [termorregulación conductual](termorregulacion-conductual.md) necesita una fuente de calor entre las opciones del gradiente. Un gecko terrestre de [hábito nocturno](actividad-crepuscular.md) pasa gran parte del tiempo apoyado en el suelo, así que una fuente bajo el sustrato sirve.
 
 ## Cómo funciona
 
@@ -42,7 +42,7 @@ La sonda del termostato va sobre el sustrato, encima de la malla, según Vet Tim
 En la casa, la malla térmica calienta por contacto y el proyecto razona que un sensor de aire puede leer 30 °C mientras el sustrato sobre la malla está a 45 °C (valor del proyecto, no medido en una fuente), por lo que planea una sonda DS18B20 sobre el sustrato, como la fuente veterinaria. Esa fuente da 26–30 °C sobre la malla; la casa apunta a 32–35 °C siguiendo a criadores.
 
 > [!IMPORTANT]
-> Disputado: qué temperatura de superficie es adecuada. Vet Times 2011 da 26–30 °C sobre la malla y 20–21 °C en el extremo frío. Hojas de criadores (secundarias, no verificadas en origen) dan 32–33 °C de superficie. Detalle en [[temperatura-del-punto-caliente|temperatura-del-punto-caliente]].
+> Disputado: qué temperatura de superficie es adecuada. Vet Times 2011 da 26–30 °C sobre la malla y 20–21 °C en el extremo frío. Hojas de criadores (secundarias, no verificadas en origen) dan 32–33 °C de superficie. Detalle en [temperatura-del-punto-caliente](temperatura-del-punto-caliente.md).
 
 ## No confundir con
 
@@ -58,5 +58,5 @@ En la casa, la malla térmica calienta por contacto y el proyecto razona que un 
 
 ## Relaciones
 
-- Requiere: [[termorregulacion-conductual|termorregulacion-conductual]] — el calor de piso es una de las opciones que el animal elige dentro del gradiente.
-- Relacionado: [[equipos-del-terrario|equipos]] — los tipos de calefactor que dan este calor.
+- Requiere: [termorregulacion-conductual](termorregulacion-conductual.md) — el calor de piso es una de las opciones que el animal elige dentro del gradiente.
+- Relacionado: [equipos](equipos-del-terrario.md) — los tipos de calefactor que dan este calor.

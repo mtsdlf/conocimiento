@@ -58,7 +58,7 @@ después, una caída en el medio deja el efecto hecho y la clave sin registrar.
 Una API de catálogo recibe dos veces `POST /products` con `Idempotency-Key: abc123` y el SKU
 `SKU-002`. La primera vez responde 201 Created con el `id` del producto; la segunda devuelve la
 misma respuesta, 201 con el mismo `id`, y la base tiene un solo producto. En un sistema
-[[multi-tenancy]], la clave se guarda junto con el tenant, para que dos clientes no choquen.
+[Multi-tenancy](multi-tenancy.md), la clave se guarda junto con el tenant, para que dos clientes no choquen.
 
 ## No confundir con
 
@@ -68,6 +68,6 @@ intento funcionó.
 
 ## Relaciones
 
-- Relacionado: [[saga]] — los pasos y compensaciones de una saga se reintentan y necesitan ser idempotentes.
-- Ver también: [[multi-tenancy]] — la clave se aísla por tenant.
-- La usa: [[disenar-casos-de-prueba-de-api]] (Desarrollo) — cada operación que acepta la clave lleva un caso de reintento.
+- Relacionado: [Saga](saga.md) — los pasos y compensaciones de una saga se reintentan y necesitan ser idempotentes.
+- Ver también: [Multi-tenancy](multi-tenancy.md) — la clave se aísla por tenant.
+- La usa: [Diseñar casos de prueba de una API](../Desarrollo/disenar-casos-de-prueba-de-api.md) (Desarrollo) — cada operación que acepta la clave lleva un caso de reintento.

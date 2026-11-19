@@ -62,5 +62,5 @@ diferencia es práctica: desde el rough la pelota sale más difícil.
 
 ## Relaciones
 
-- Base de: [[par]] — el par se fija por hoyo.
-- Base de: [[reglas-basicas-de-golf]] — qué hacer cuando la pelota termina en cada área.
+- Base de: [Par](par.md) — el par se fija por hoyo.
+- Base de: [Reglas básicas de golf](reglas-basicas-de-golf.md) — qué hacer cuando la pelota termina en cada área.

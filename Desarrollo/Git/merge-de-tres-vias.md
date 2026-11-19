@@ -46,7 +46,7 @@ base = B  (git merge-base main feature)
 
 Git calcula los cambios de B a D y de B a G. Lo que cambió de un solo lado se toma; lo que cambió
 igual de los dos lados, también. Donde los dos lados cambiaron la misma zona de forma distinta,
-hay conflicto: ver [[resolver-conflictos-de-merge]]. El resultado es un **merge commit** con dos
+hay conflicto: ver [Resolver conflictos de merge](resolver-conflictos-de-merge.md). El resultado es un **merge commit** con dos
 padres, D y G.
 
 Si `main` no hubiera avanzado desde que salió `feature` (sin C ni D, la punta de `main` sería B,
@@ -75,12 +75,12 @@ si ambos hubieran cambiado la 10, habría conflicto.
 
 ## No confundir con
 
-Un [[rebase]]. El merge conserva los dos historiales y los une con un commit nuevo; el rebase
+Un [Rebase](rebase.md). El merge conserva los dos historiales y los une con un commit nuevo; el rebase
 reescribe los commits de un lado para que el historial quede lineal.
 
 ## Relaciones
 
-- Requiere: [[branch-git]] — se combinan las puntas de dos branches.
-- Relacionado: [[rebase]] — la otra forma de integrar un branch, reescribiendo commits.
-- Base de: [[resolver-conflictos-de-merge]] — qué hacer con lo que el merge no resuelve solo.
-- Ver también: [[estrategia-de-branching]] (DevOps) — merge commit o squash como política de equipo.
+- Requiere: [Branch (Git)](branch-git.md) — se combinan las puntas de dos branches.
+- Relacionado: [Rebase](rebase.md) — la otra forma de integrar un branch, reescribiendo commits.
+- Base de: [Resolver conflictos de merge](resolver-conflictos-de-merge.md) — qué hacer con lo que el merge no resuelve solo.
+- Ver también: [Estrategia de branching](../../DevOps/estrategia-de-branching.md) (DevOps) — merge commit o squash como política de equipo.

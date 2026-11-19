@@ -53,7 +53,7 @@ entorno es la opción por defecto, salvo una razón concreta para ramas.
 
 La protección del entorno sale de los permisos del repositorio: Argo CD recomienda que quien
 puede cambiar el código no sea necesariamente quien puede escribir la configuración de
-producción. Las reglas de esos permisos están en [[gobernanza-de-repositorios]].
+producción. Las reglas de esos permisos están en [Gobernanza de repositorios](gobernanza-de-repositorios.md).
 
 ## Ejemplo
 
@@ -70,11 +70,11 @@ Argo CD Image Updater automatiza el paso 2: vigila el registry y escribe la nuev
 ## No confundir con
 
 **Estrategia de branching** del código: decide cómo se integra el código de la aplicación
-([[estrategia-de-branching]]). La promoción decide qué versión ya construida corre en cada
+([Estrategia de branching](estrategia-de-branching.md)). La promoción decide qué versión ya construida corre en cada
 entorno, y vive en otro repositorio.
 
 ## Relaciones
 
-- Parte de y requiere: [[gitops]] — es la forma de desplegar en un modelo GitOps.
-- Ver también: [[estrategia-de-branching]] — las ramas del código, que no deberían repetirse como ramas de entorno.
-- Ver también: [[gobernanza-de-repositorios]] — los permisos que protegen la carpeta de producción.
+- Parte de y requiere: [GitOps](gitops.md) — es la forma de desplegar en un modelo GitOps.
+- Ver también: [Estrategia de branching](estrategia-de-branching.md) — las ramas del código, que no deberían repetirse como ramas de entorno.
+- Ver también: [Gobernanza de repositorios](gobernanza-de-repositorios.md) — los permisos que protegen la carpeta de producción.

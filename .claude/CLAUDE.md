@@ -1,6 +1,6 @@
 # CLAUDE.md — conocimiento
 
-Este repo es un vault de Obsidian: la base de conocimiento compartida, la capa de lo general en la organización (skill `tsc-organizacion`). Todo se escribe y se mantiene con la skill `documentar` (the-software-co/skills), que reemplazó a `conocimiento`; lo propio de esta base está en `CONVENCIONES.md` y el Mapa raíz es `conocimiento.md`.
+Este repo es la base de conocimiento compartida, en Markdown con enlaces relativos (nació como vault de Obsidian y ya no depende de él): la capa de lo general en la organización (skill `tsc-organizacion`). Todo se escribe y se mantiene con la skill `documentar` (the-software-co/skills), que reemplazó a `conocimiento`; lo propio de esta base está en `CONVENCIONES.md` y el Mapa raíz es `conocimiento.md`.
 
 Lo que es de una empresa va a su repo (`tsc-negocio`, `lind-negocio`), y lo que es nuestro saber sobre emprender, a `fundar`.
 

@@ -30,7 +30,7 @@ pipeline que se autentica en Azure con OIDC.
 
 ## Por qué importa
 
-Un solo estado para toda la [[azure-landing-zone]] obliga a planear el hub cada vez que un equipo
+Un solo estado para toda la [Azure landing zone](azure-landing-zone.md) obliga a planear el hub cada vez que un equipo
 toca su spoke, y un error en un proyecto bloquea a todos. Con un estado por stack, cada `plan` es
 chico y el daño de un `apply` queda dentro de su stack.
 
@@ -40,12 +40,12 @@ chico y el daño de un `apply` queda dentro de su stack.
   red y zonas DNS compartidas. Los mantiene el equipo de plataforma.
 - **Stacks de proyecto**: el spoke, los vínculos de DNS y los private endpoints de cada proyecto.
   Se agregan copiando el stack de un proyecto y cambiando variables.
-- **Estado**: cada stack guarda el suyo en un [[estado-remoto-de-terraform]]. Un stack expone
+- **Estado**: cada stack guarda el suyo en un [Estado remoto de Terraform](../Infraestructura/estado-remoto-de-terraform.md). Un stack expone
   outputs (el ID de la VNet del hub, los IDs de las zonas DNS) y el siguiente los lee con
   `terraform_remote_state`.
-- **Módulos**: los stacks llaman a [[modulo-de-terraform]] reutilizables (VNet, peering, NAT,
+- **Módulos**: los stacks llaman a [Módulo de Terraform](../Infraestructura/modulo-de-terraform.md) reutilizables (VNet, peering, NAT,
   private endpoint), así un proyecto nuevo no reescribe recursos.
-- **Pipeline**: el [[pipeline-de-terraform]] corre cada stack en el orden de sus dependencias y
+- **Pipeline**: el [Armar un pipeline de Terraform](../Infraestructura/pipeline-de-terraform.md) corre cada stack en el orden de sus dependencias y
   entra a Azure con una identidad federada por OIDC, sin secretos guardados. Funciona igual con
   **HCP Terraform (Terraform Cloud)**, un workspace por stack con credenciales dinámicas, o con
   **GitHub Actions**, un job por stack con `azure/login` y backend `azurerm`.
@@ -69,14 +69,14 @@ vínculos DNS, endpoints) con sus variables; el hub y los otros proyectos no se 
 
 ## No confundir con
 
-[[organizar-entornos-en-terraform]], que separa dev, test y prod. Acá se separa por capa y por
-proyecto; cada stack puede tener además sus entornos. [[crossplane]] es la alternativa por
+[Organizar entornos en Terraform](../Infraestructura/organizar-entornos-en-terraform.md), que separa dev, test y prod. Acá se separa por capa y por
+proyecto; cada stack puede tener además sus entornos. [Crossplane](../Platform-Engineering/crossplane.md) es la alternativa por
 reconciliación continua desde Kubernetes, en lugar de `plan` y `apply` desde un pipeline.
 
 ## Relaciones
 
-- Requiere: [[azure-landing-zone]] — define qué piezas hay que desplegar.
-- Requiere: [[estado-remoto-de-terraform]] — cada stack comparte outputs a través de su estado.
-- Usa: [[modulo-de-terraform]] y [[pipeline-de-terraform]] — los bloques reutilizables y el flujo
+- Requiere: [Azure landing zone](azure-landing-zone.md) — define qué piezas hay que desplegar.
+- Requiere: [Estado remoto de Terraform](../Infraestructura/estado-remoto-de-terraform.md) — cada stack comparte outputs a través de su estado.
+- Usa: [Módulo de Terraform](../Infraestructura/modulo-de-terraform.md) y [Armar un pipeline de Terraform](../Infraestructura/pipeline-de-terraform.md) — los bloques reutilizables y el flujo
   de `plan` y `apply`.
-- Alternativa: [[crossplane]] — infraestructura como API declarativa reconciliada.
+- Alternativa: [Crossplane](../Platform-Engineering/crossplane.md) — infraestructura como API declarativa reconciliada.

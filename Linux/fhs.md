@@ -86,5 +86,5 @@ viejas siguen funcionando.
 
 ## Relaciones
 
-- Detalla y requiere: [[arquitectura-de-linux]] — dónde vive cada capa en el árbol.
-- Relacionado: [[pseudo-sistema-de-archivos]] — explica los directorios sin datos en disco.
+- Detalla y requiere: [Arquitectura de Linux](arquitectura-de-linux.md) — dónde vive cada capa en el árbol.
+- Relacionado: [Pseudo-sistema de archivos](pseudo-sistema-de-archivos.md) — explica los directorios sin datos en disco.

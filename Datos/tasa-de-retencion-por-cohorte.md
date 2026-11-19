@@ -38,9 +38,9 @@ mes N).
 ## Cómo leerla
 
 Baja a medida que crece *N* y, si el producto retiene a alguien, se aplana (ver
-[[curva-de-retencion]]). Se compara entre cohortes a la misma *N*. Contar el retorno solo en el
-período exacto ([[retencion-de-n-dias|retención de N días]]) da números más bajos que contarlo en
-ese período o después ([[retencion-unbounded|retención unbounded]]).
+[Curva de retención](curva-de-retencion.md)). Se compara entre cohortes a la misma *N*. Contar el retorno solo en el
+período exacto ([retención de N días](retencion-de-n-dias.md)) da números más bajos que contarlo en
+ese período o después ([retención unbounded](retencion-unbounded.md)).
 
 ## Limitaciones
 
@@ -50,8 +50,8 @@ ese período o después ([[retencion-unbounded|retención unbounded]]).
 
 ## Dónde se calcula
 
-En una herramienta de analítica de producto (ver [[cohortes-en-herramientas-de-analitica]]) o
-con SQL sobre una tabla de eventos (ver [[armar-una-tabla-de-cohortes]]).
+En una herramienta de analítica de producto (ver [Cohortes en herramientas de analítica](cohortes-en-herramientas-de-analitica.md)) o
+con SQL sobre una tabla de eventos (ver [Armar una tabla de cohortes](armar-una-tabla-de-cohortes.md)).
 
 ## Contexto para agentes
 
@@ -62,7 +62,7 @@ con SQL sobre una tabla de eventos (ver [[armar-una-tabla-de-cohortes]]).
 
 ## Relaciones
 
-- Requiere: [[cohorte]] — define el denominador.
-- Requiere: [[retencion]] — es la idea que esta métrica cuantifica.
-- Relacionado: [[tasa-de-churn]] — su complemento solo cuando se mide sobre el mismo grupo y
+- Requiere: [Cohorte](cohorte.md) — define el denominador.
+- Requiere: [Retención](retencion.md) — es la idea que esta métrica cuantifica.
+- Relacionado: [Tasa de churn](tasa-de-churn.md) — su complemento solo cuando se mide sobre el mismo grupo y
   período.

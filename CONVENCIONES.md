@@ -1,10 +1,12 @@
 # Convenciones de esta base
 
-Lo propio de este Vault para la skill `documentar` (the-software-co/skills). El método general
+Lo propio de esta base para la skill `documentar` (the-software-co/skills). El método general
 está en la skill; esto lo completa.
 
 - **Base**: la raíz de este repo, compartida por Matias y Fer. El Mapa raíz es `conocimiento.md`, y el
-  Mapa de cada Tema es `<Tema>/<tema>.md`. Es un vault de Obsidian: los enlaces van como `[[id]]`.
+  Mapa de cada Tema es `<Tema>/<tema>.md`. Los enlaces van como Markdown relativo
+  (`[texto](../Datos/cohorte.md)`), que se leen en GitHub, en cualquier editor y en Obsidian. Nació como
+  vault de Obsidian y se pasó a Markdown común en 2026-11.
 - **Temas nuevos**: los arma el modo `nuevo` de la skill, con su `ALCANCE.md` y sus informes
   crudos en `<Tema>/.investigacion/` (Obsidian no muestra esa carpeta).
 - **Dueños** (`dueno`): `matias`, `fer` o `familia`.

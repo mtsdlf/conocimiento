@@ -35,8 +35,8 @@ solo desde ramas protegidas.
 
 ## Antes de empezar
 
-- El estado en un backend remoto con bloqueo: ver [[estado-remoto-de-terraform]].
-- Una identidad para el pipeline, sin claves fijas: ver [[secretos-en-terraform]].
+- El estado en un backend remoto con bloqueo: ver [Estado remoto de Terraform](estado-remoto-de-terraform.md).
+- Una identidad para el pipeline, sin claves fijas: ver [Secretos en Terraform](secretos-en-terraform.md).
 - Ramas protegidas en el repo: nadie hace push directo a `main`.
 
 ## Pasos
@@ -72,7 +72,7 @@ y un `terraform plan` posterior dice `No changes`.
 
 ## Relaciones
 
-- Requiere: [[secretos-en-terraform]] — la identidad del pipeline lee los secretos.
-- La usa: [[adoptar-terraform-en-un-equipo]] — el pipeline es la etapa de automatización.
-- Ver también: [[pipeline-de-ci-cd]] (DevOps) — el pipeline de aplicaciones, con las mismas ideas.
-- Usa: [[estado-remoto-de-terraform]] — el pipeline toma el lock del estado compartido.
+- Requiere: [Secretos en Terraform](secretos-en-terraform.md) — la identidad del pipeline lee los secretos.
+- La usa: [Adoptar Terraform en un equipo](adoptar-terraform-en-un-equipo.md) — el pipeline es la etapa de automatización.
+- Ver también: [Pipeline de CI/CD](../DevOps/pipeline-de-ci-cd.md) (DevOps) — el pipeline de aplicaciones, con las mismas ideas.
+- Usa: [Estado remoto de Terraform](estado-remoto-de-terraform.md) — el pipeline toma el lock del estado compartido.

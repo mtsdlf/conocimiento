@@ -55,7 +55,7 @@ workflow, el repositorio, el commit, el evento y el environment que lo produjero
 la identidad OIDC del job: un token de vida corta que GitHub emite para esa ejecución. Se
 verifica con `gh attestation verify`. Según GitHub, da SLSA Build Level 2 por sí sola: el build
 corre en una plataforma hospedada que firma la procedencia, así que falsificarla exige un ataque
-deliberado (los niveles de SLSA están en [[cadena-de-suministro-de-software]]). No dice que el artifact sea seguro: solo de dónde salió.
+deliberado (los niveles de SLSA están en [Cadena de suministro de software](cadena-de-suministro-de-software.md)). No dice que el artifact sea seguro: solo de dónde salió.
 
 ## Ejemplo
 
@@ -66,9 +66,9 @@ compila, sube `dist/` como artifact y genera su attestation. El job `deploy` baj
 
 Un paquete o una imagen publicada. El artifact vive en la ejecución y vence; lo que se despliega
 a largo plazo va a un registro, con la procedencia que describe
-[[cadena-de-suministro-de-software]].
+[Cadena de suministro de software](cadena-de-suministro-de-software.md).
 
 ## Relaciones
 
-- Requiere: [[github-actions]] — jobs, runners y steps.
-- Ver también: [[cadena-de-suministro-de-software]] — las attestations son una pieza de la procedencia del software.
+- Requiere: [GitHub Actions](github-actions.md) — jobs, runners y steps.
+- Ver también: [Cadena de suministro de software](cadena-de-suministro-de-software.md) — las attestations son una pieza de la procedencia del software.

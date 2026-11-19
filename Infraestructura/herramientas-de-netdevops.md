@@ -63,4 +63,4 @@ Cada fila enlaza a la documentación oficial; las descripciones salen de ahí (c
 
 ## Relaciones
 
-- Detalla: [[netdevops]] — las herramientas concretas de cada paso del pipeline.
+- Detalla: [NetDevOps](netdevops.md) — las herramientas concretas de cada paso del pipeline.

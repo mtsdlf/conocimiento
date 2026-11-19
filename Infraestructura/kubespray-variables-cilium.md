@@ -82,5 +82,5 @@ Sin kube-proxy, Cilium necesita la dirección real del apiserver (`k8sServiceHos
 
 ## Relaciones
 
-- Detalla: [[desplegar-kubernetes-con-kubespray]] — el paso 5 usa estas variables.
-- Detalla: [[cilium]] — cada variable corresponde a un modo de Cilium.
+- Detalla: [Desplegar Kubernetes con Kubespray](desplegar-kubernetes-con-kubespray.md) — el paso 5 usa estas variables.
+- Detalla: [Cilium](cilium.md) — cada variable corresponde a un modo de Cilium.

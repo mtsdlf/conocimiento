@@ -54,8 +54,8 @@ Evaluar en los dos lugares cubre los dos caminos: el pipeline da aviso temprano 
 clúster rechaza lo que llegue por otro lado.
 
 Es la herramienta con la que una plataforma da autonomía sin perder control, como describe
-[[gobernanza-de-plataforma]]; las reglas sobre el repositorio mismo están en
-[[gobernanza-de-repositorios]].
+[Gobernanza de plataforma](../Platform-Engineering/gobernanza-de-plataforma.md); las reglas sobre el repositorio mismo están en
+[Gobernanza de repositorios](gobernanza-de-repositorios.md).
 
 ## Ejemplo
 
@@ -81,7 +81,7 @@ listas. Policy as code son las reglas propias de la organización, escritas por 
 
 ## Relaciones
 
-- Parte de y requiere: [[devsecops]] — es la forma de expresar los controles de DevSecOps.
-- Relacionado: [[seguridad-en-el-pipeline]] — el policy gate del pipeline evalúa estas reglas.
-- Ver también: [[gobernanza-de-plataforma]] — la autonomía con límites que estas reglas hacen cumplir.
-- Ver también: [[gobernanza-de-repositorios]] — las reglas sobre quién cambia qué en un repositorio.
+- Parte de y requiere: [DevSecOps](devsecops.md) — es la forma de expresar los controles de DevSecOps.
+- Relacionado: [Seguridad en el pipeline](seguridad-en-el-pipeline.md) — el policy gate del pipeline evalúa estas reglas.
+- Ver también: [Gobernanza de plataforma](../Platform-Engineering/gobernanza-de-plataforma.md) — la autonomía con límites que estas reglas hacen cumplir.
+- Ver también: [Gobernanza de repositorios](gobernanza-de-repositorios.md) — las reglas sobre quién cambia qué en un repositorio.

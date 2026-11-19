@@ -35,7 +35,7 @@ Kratochvíl y Frynta (2002) midieron animales cada 1 a 2 meses desde la eclosió
 
 ## Cómo funciona
 
-Las crías del [[eublepharis-macularius|gecko leopardo]] miden unos 85 mm y los adultos unos 220 mm de largo total (Animal Diversity Web). En longitud hocico-cloaca, la asíntota logística es 124,79 mm en machos y 113,12 mm en hembras; el máximo medido, 137,8 y 128,7 mm.
+Las crías del [gecko leopardo](eublepharis-macularius.md) miden unos 85 mm y los adultos unos 220 mm de largo total (Animal Diversity Web). En longitud hocico-cloaca, la asíntota logística es 124,79 mm en machos y 113,12 mm en hembras; el máximo medido, 137,8 y 128,7 mm.
 
 - **Peso.** Crías de 3,2 ± 0,54 g y 3,3 ± 0,48 g al nacer llegaron a 52,0 ± 6,81 g y 59,6 ± 12,36 g a los 175 días (Oonincx et al. 2020), pero con alimentación ad libitum: es un techo. Siete hembras adultas pesaban 39,4 ± 1,2 g (Jagnandan et al. 2014).
 - **Calor.** Con regulación térmica a 30 °C, el crecimiento fue de 0,16 g/día contra 0,11 g/día a 25 °C constantes (Autumn y DeNardo 1995, solo resumen).
@@ -57,8 +57,8 @@ Madurez sexual: Animal Diversity Web cita unos 18 meses y 16 a 24 en cautiverio;
 
 - **[Kratochvíl y Frynta 2002](https://web.natur.cuni.cz/~kratoch1/_private/BJLS.pdf)**: Tablas 1 y 2 para tamaños por sexo, y la discusión del crecimiento asintótico. Fijarse en que las condiciones de laboratorio no son las de un hogar.
 
-Lo que hay sobre frecuencias y presas está en [[alimentar-y-suplementar|alimentar y suplementar]]; ninguna fuente da una pauta por edad.
+Lo que hay sobre frecuencias y presas está en [alimentar y suplementar](alimentar-y-suplementar.md); ninguna fuente da una pauta por edad.
 
 ## Relaciones
 
-- Requiere: [[eublepharis-macularius|Gecko leopardo]] — la especie cuyo crecimiento se describe.
+- Requiere: [Gecko leopardo](eublepharis-macularius.md) — la especie cuyo crecimiento se describe.

@@ -26,7 +26,7 @@ negocio, que construye y entrega valor de punta a punta sin pasarle trabajo a ot
 
 ## Por qué importa
 
-Es el tipo de equipo principal de [[team-topologies]]: los otros tres tipos existen para bajarle
+Es el tipo de equipo principal de [Team Topologies](team-topologies.md): los otros tres tipos existen para bajarle
 la carga. Cada traspaso a otro equipo agrega una cola de espera; un equipo que hace todo el
 recorrido entrega más rápido y aprende de lo que pasa en producción.
 
@@ -52,14 +52,14 @@ que las desarrollan.
 
 El equipo de checkout de una tienda online decide, construye, despliega y monitorea todo lo que
 pasa entre "agregar al carrito" y "pago confirmado". Para la base de datos usa el servicio del
-[[platform-team]] sin esperar a nadie.
+[Platform team](platform-team.md) sin esperar a nadie.
 
 ## No confundir con
 
 Un equipo por capa técnica (frontend, backend, base de datos). Ese equipo necesita a los otros
-para entregar cualquier cambio, y la [[ley-de-conway]] hace que la arquitectura copie esas capas.
+para entregar cualquier cambio, y la [Ley de Conway](ley-de-conway.md) hace que la arquitectura copie esas capas.
 
 ## Relaciones
 
-- Parte de: [[team-topologies]] — es uno de sus cuatro tipos de equipo.
-- Base de: [[platform-team]] — la plataforma existe para servir a estos equipos.
+- Parte de: [Team Topologies](team-topologies.md) — es uno de sus cuatro tipos de equipo.
+- Base de: [Platform team](platform-team.md) — la plataforma existe para servir a estos equipos.

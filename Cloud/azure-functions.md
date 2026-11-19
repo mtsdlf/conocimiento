@@ -62,11 +62,11 @@ apagado, la integración con VNet del plan le permite leerlo por private endpoin
 
 ## No confundir con
 
-[[durable-functions]]: una extensión de Functions para flujos con estado (orquestaciones, esperas
+[Durable Functions](durable-functions.md): una extensión de Functions para flujos con estado (orquestaciones, esperas
 largas). Functions sola no recuerda nada entre ejecuciones.
 
 ## Relaciones
 
-- Base de: [[durable-functions]] — la extensión con estado.
-- La compara: [[eleccion-de-computo-en-azure]] — cuándo Functions y cuándo Container Apps o App
+- Base de: [Durable Functions](durable-functions.md) — la extensión con estado.
+- La compara: [Elección de cómputo en Azure](eleccion-de-computo-en-azure.md) — cuándo Functions y cuándo Container Apps o App
   Service.

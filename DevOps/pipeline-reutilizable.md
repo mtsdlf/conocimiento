@@ -34,7 +34,7 @@ declare lo propio.
 Con 50 servicios y un pipeline copiado en cada uno, agregar un escaneo de seguridad son 50 PRs, y
 al año hay 50 variantes distintas. Con una definición central, el cambio se hace una vez y todos
 los servicios lo reciben al subir de versión. Además, los servicios quedan con un archivo corto
-en vez de un [[pipeline-de-ci-cd]] complejo.
+en vez de un [Pipeline de CI/CD](pipeline-de-ci-cd.md) complejo.
 
 ## Cómo funciona
 
@@ -56,8 +56,8 @@ build y otra de pruebas. Las reglas comunes (escaneos de seguridad, revisión de
 de calidad, es decir, etapas que frenan el pipeline si no se cumple un umbral) viven una sola
 vez.
 
-Es la forma técnica de un [[golden-path]]: el camino estándar para construir y desplegar.
-Mantenerlo suele ser trabajo de un [[platform-team]], que lo ofrece como producto interno.
+Es la forma técnica de un [Golden path](../Platform-Engineering/golden-path.md): el camino estándar para construir y desplegar.
+Mantenerlo suele ser trabajo de un [Platform team](../Platform-Engineering/platform-team.md), que lo ofrece como producto interno.
 
 ## Ejemplo
 
@@ -86,7 +86,7 @@ path.
 
 ## Relaciones
 
-- Requiere: [[pipeline-de-ci-cd]] — es un pipeline, definido una vez para muchos repos.
-- Ver también: [[golden-path]] — el pipeline reutilizable es su parte de construcción y despliegue.
-- Ver también: [[platform-team]] — el equipo que suele mantenerlo.
-- Ver también: [[reutilizacion-en-github-actions]] — cómo se hace en GitHub Actions.
+- Requiere: [Pipeline de CI/CD](pipeline-de-ci-cd.md) — es un pipeline, definido una vez para muchos repos.
+- Ver también: [Golden path](../Platform-Engineering/golden-path.md) — el pipeline reutilizable es su parte de construcción y despliegue.
+- Ver también: [Platform team](../Platform-Engineering/platform-team.md) — el equipo que suele mantenerlo.
+- Ver también: [Reutilización en GitHub Actions](reutilizacion-en-github-actions.md) — cómo se hace en GitHub Actions.

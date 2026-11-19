@@ -36,7 +36,7 @@ ephemeral o argumentos write-only para que no queden en el estado.
 ## Por qué importa
 
 Un secreto en un `.tf` o en un `tfvars` versionado queda en el historial de Git para siempre. Y
-aunque no esté en Git, Terraform guarda en el [[estado-remoto-de-terraform|estado]] y en los
+aunque no esté en Git, Terraform guarda en el [estado](estado-remoto-de-terraform.md) y en los
 archivos de plan, en texto plano, todo valor que pase por un recurso o un data source.
 
 ## Cómo funciona
@@ -68,11 +68,11 @@ pasa al argumento write-only de la base. El estado registra la base, pero no la 
 
 ## No confundir con
 
-[[sops]]. SOPS guarda el secreto cifrado dentro del repo y lo descifra quien tiene la clave; acá el
+[SOPS](sops.md). SOPS guarda el secreto cifrado dentro del repo y lo descifra quien tiene la clave; acá el
 secreto nunca entra al repo, vive en el gestor y Terraform lo lee al aplicar.
 
 ## Relaciones
 
-- Requiere: [[estado-remoto-de-terraform]] — el estado es donde un secreto se filtra sin avisar.
-- Relacionado: [[sops]] — la otra forma de tener secretos junto al código.
-- La usa: [[pipeline-de-terraform]] — el pipeline es quien se autentica y lee los secretos.
+- Requiere: [Estado remoto de Terraform](estado-remoto-de-terraform.md) — el estado es donde un secreto se filtra sin avisar.
+- Relacionado: [SOPS](sops.md) — la otra forma de tener secretos junto al código.
+- La usa: [Armar un pipeline de Terraform](pipeline-de-terraform.md) — el pipeline es quien se autentica y lee los secretos.

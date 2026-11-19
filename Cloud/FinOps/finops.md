@@ -19,16 +19,16 @@ madurez, cómo se asigna y se mide el gasto, y cómo se baja el costo en Azure.
 
 ## La práctica
 
-- [[que-es-finops]] — la definición, los seis principios oficiales y las personas; se lee primero.
-- [[ciclo-de-vida-finops]] — las fases Inform, Optimize y Operate, y la madurez Crawl, Walk, Run.
+- [FinOps](que-es-finops.md) — la definición, los seis principios oficiales y las personas; se lee primero.
+- [Ciclo de vida de FinOps](ciclo-de-vida-finops.md) — las fases Inform, Optimize y Operate, y la madurez Crawl, Walk, Run.
 
 ## Medir y asignar
 
-- [[showback-y-chargeback]] — cómo se reparte la factura entre equipos y en qué se diferencian
+- [Showback y chargeback](showback-y-chargeback.md) — cómo se reparte la factura entre equipos y en qué se diferencian
   mostrar y cobrar.
-- [[costo-unitario]] — la métrica que relaciona el costo con lo que produce un servicio.
+- [Costo unitario](costo-unitario.md) — la métrica que relaciona el costo con lo que produce un servicio.
 
 ## Optimizar en Azure
 
-- [[optimizacion-de-costos-en-azure]] — las palancas concretas (rightsizing, reservas, savings
+- [Optimización de costos en Azure](optimizacion-de-costos-en-azure.md) — las palancas concretas (rightsizing, reservas, savings
   plans, Spot, egreso y logs) para bajar el costo sin romper los SLO.

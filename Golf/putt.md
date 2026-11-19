@@ -26,7 +26,7 @@ cara apuntando a la línea, la velocidad correcta y la lectura de la pendiente.
 
 ## Por qué importa
 
-El [[par]] reserva dos putts por hoyo: la mitad de los golpes del par de una cancha. Es el golpe
+El [Par](par.md) reserva dos putts por hoyo: la mitad de los golpes del par de una cancha. Es el golpe
 más fácil de practicar en casa, con una alfombra y un vaso.
 
 ## Cómo funciona
@@ -58,6 +58,6 @@ seguro que un chip. Sacar la pelota del green en el aire no es obligatorio.
 
 ## Relaciones
 
-- Requiere: [[setup-de-golf]] — el putt usa la misma idea de alineación.
-- Relacionado: [[tipos-de-putter]] — el palo que se usa.
-- Relacionado: [[juego-corto]] — los golpes que dejan la pelota en el green.
+- Requiere: [Setup de golf](setup-de-golf.md) — el putt usa la misma idea de alineación.
+- Relacionado: [Tipos de putter](tipos-de-putter.md) — el palo que se usa.
+- Relacionado: [Juego corto](juego-corto.md) — los golpes que dejan la pelota en el green.

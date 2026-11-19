@@ -46,7 +46,7 @@ Un archivo puede estar en tres lugares, y cada comando lo mueve entre ellos:
 `git add` no es una marca que sigue al archivo: guarda su contenido de ese momento como blob y
 anota el hash en el index (si el archivo es nuevo, además empieza a versionarse). Si el archivo cambia después del `add`, el commit lleva la versión vieja
 hasta el próximo `add`. `git commit` convierte el index en trees y escribe un commit nuevo que
-apunta a ellos; ver [[modelo-de-objetos-de-git]].
+apunta a ellos; ver [Modelo de objetos de Git](modelo-de-objetos-de-git.md).
 
 `git add -p` muestra cada bloque de cambios (hunk) y pregunta si entra. Así se commitea una parte
 de un archivo.
@@ -71,5 +71,5 @@ de trabajo y del index para limpiar el árbol y retomarlos después.
 
 ## Relaciones
 
-- Requiere: [[modelo-de-objetos-de-git]] — el index guarda hashes de blobs y se convierte en trees.
-- Ver también: [[recuperar-trabajo-perdido-en-git]] — cómo sacar algo del index o volver atrás un commit.
+- Requiere: [Modelo de objetos de Git](modelo-de-objetos-de-git.md) — el index guarda hashes de blobs y se convierte en trees.
+- Ver también: [Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md) — cómo sacar algo del index o volver atrás un commit.

@@ -30,7 +30,7 @@ El gecko leopardo (Eublepharis macularius) es un gecko terrestre de zonas árida
 
 ## Por qué existe
 
-Representa en Asia del Sur y occidental a una familia antigua: según Agarwal et al. 2022, Eublepharidae empezó a diversificarse en el Cretácico, y *Eublepharis* se separó de sus géneros hermanos africanos entre el Paleoceno y el Eoceno. Es el gecko más conocido en cautiverio ([[del-salt-range-al-terrario|del-salt-range-al-terrario]]).
+Representa en Asia del Sur y occidental a una familia antigua: según Agarwal et al. 2022, Eublepharidae empezó a diversificarse en el Cretácico, y *Eublepharis* se separó de sus géneros hermanos africanos entre el Paleoceno y el Eoceno. Es el gecko más conocido en cautiverio ([del-salt-range-al-terrario](del-salt-range-al-terrario.md)).
 
 ## Cómo funciona
 

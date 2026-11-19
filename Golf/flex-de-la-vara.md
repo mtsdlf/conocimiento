@@ -67,4 +67,4 @@ puede ser regular. La letra va impresa en la vara o en su etiqueta.
 
 ## Relaciones
 
-- Requiere: [[palo-de-golf]] — la vara es una de sus tres partes.
+- Requiere: [Palo de golf](palo-de-golf.md) — la vara es una de sus tres partes.

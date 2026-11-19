@@ -70,6 +70,6 @@ para valores no sensibles, como una región o un nombre de imagen.
 
 ## Relaciones
 
-- Requiere: [[github-actions]] — workflows, jobs y steps.
-- Relacionado: [[environment-de-github-actions]] — el nivel más restringido para guardar un secret.
-- Ver también: [[gestion-de-secretos]] — la práctica general de mantener credenciales fuera del código.
+- Requiere: [GitHub Actions](github-actions.md) — workflows, jobs y steps.
+- Relacionado: [Environment de GitHub Actions](environment-de-github-actions.md) — el nivel más restringido para guardar un secret.
+- Ver también: [Gestión de secretos](gestion-de-secretos.md) — la práctica general de mantener credenciales fuera del código.

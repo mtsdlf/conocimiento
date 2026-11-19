@@ -35,22 +35,22 @@ estables según el flujo de trabajo: por área de negocio, no por conocimiento t
 
 ## Cómo funciona
 
-Parte de tres ideas: el equipo estable como unidad ([[team-first]]), el límite de
-[[carga-cognitiva]] de cada equipo y la [[ley-de-conway]]. Sobre eso define cuatro tipos de
+Parte de tres ideas: el equipo estable como unidad ([Team-first](team-first.md)), el límite de
+[Carga cognitiva](carga-cognitiva.md) de cada equipo y la [Ley de Conway](ley-de-conway.md). Sobre eso define cuatro tipos de
 equipo:
 
 | Tipo | Qué hace |
 |---|---|
-| [[stream-aligned-team\|Stream-aligned]] | entrega valor de punta a punta en un flujo de trabajo del negocio; es el tipo principal |
+| [Stream-aligned](stream-aligned-team.md) | entrega valor de punta a punta en un flujo de trabajo del negocio; es el tipo principal |
 | Enabling | ayuda a un stream-aligned a superar obstáculos o aprender una práctica, y detecta capacidades que faltan |
 | Complicated-subsystem | se ocupa de una parte que pide matemática o una especialidad técnica profunda |
-| [[platform-team\|Platform]] | ofrece un producto interno que acelera la entrega de los demás |
+| [Platform](platform-team.md) | ofrece un producto interno que acelera la entrega de los demás |
 
 Los otros tres tipos existen para bajar la carga de los stream-aligned. Una organización empieza
 con varios stream-aligned y suma los demás cuando hacen falta. Los tipos se repiten a escala: un
 grupo de equipos puede funcionar, como conjunto, de platform team para otros grupos.
 
-La relación entre dos equipos se fija con un [[modo-de-interaccion-entre-equipos]]:
+La relación entre dos equipos se fija con un [Modo de interacción entre equipos](modo-de-interaccion-entre-equipos.md):
 collaboration, X-as-a-Service o facilitating. La estructura cambia con el tiempo según las
 señales que da la organización.
 
@@ -62,13 +62,13 @@ contrato a checkout.
 
 ## No confundir con
 
-[[devops-topologies|DevOps Topologies]], el catálogo anterior de los mismos autores, que solo
+[DevOps Topologies](devops-topologies.md), el catálogo anterior de los mismos autores, que solo
 describe la relación entre Dev y Ops. Team Topologies lo generaliza a toda la organización de
-equipos. La [[maniobra-inversa-de-conway]] es la técnica que el modelo aplica al trazar límites.
+equipos. La [Maniobra inversa de Conway](maniobra-inversa-de-conway.md) es la técnica que el modelo aplica al trazar límites.
 
 ## Relaciones
 
-- Requiere: [[team-first]], [[carga-cognitiva]] y [[ley-de-conway]] — las tres ideas de las que parte.
-- Incluye: [[stream-aligned-team]], [[platform-team]], [[modo-de-interaccion-entre-equipos]].
-- Relacionado: [[devops-topologies]] — el antecedente acotado a Dev y Ops.
-- Relacionado: [[maniobra-inversa-de-conway]] — cómo se eligen los límites entre equipos.
+- Requiere: [Team-first](team-first.md), [Carga cognitiva](carga-cognitiva.md) y [Ley de Conway](ley-de-conway.md) — las tres ideas de las que parte.
+- Incluye: [Stream-aligned team](stream-aligned-team.md), [Platform team](platform-team.md), [Modo de interacción entre equipos](modo-de-interaccion-entre-equipos.md).
+- Relacionado: [DevOps Topologies](devops-topologies.md) — el antecedente acotado a Dev y Ops.
+- Relacionado: [Maniobra inversa de Conway](maniobra-inversa-de-conway.md) — cómo se eligen los límites entre equipos.

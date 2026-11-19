@@ -30,19 +30,19 @@ anteriores.
 ## Por qué importa
 
 Los promedios de toda la base mezclan usuarios de distintas antigüedades. Si en un mes entran
-muchos usuarios nuevos, la retención promedio cae aunque ninguna [[cohorte]] haya empeorado. Al
+muchos usuarios nuevos, la retención promedio cae aunque ninguna [Cohorte](cohorte.md) haya empeorado. Al
 revés, una base vieja de clientes fieles puede esconder que los nuevos se van rápido. Separar
 por cohorte saca ese efecto de mezcla, un caso de la paradoja de Simpson.
 
 ## Cómo funciona
 
 1. Se agrupa a los usuarios en cohortes, casi siempre de
-   [[cohorte-de-adquisicion|adquisición]].
+   [adquisición](cohorte-de-adquisicion.md).
 2. Se elige una métrica por período desde el inicio. La más común es la
-   [[tasa-de-retencion-por-cohorte|tasa de retención por cohorte]]; también sirven los ingresos o
+   [tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md); también sirven los ingresos o
    las compras por usuario.
 3. Se comparan las cohortes a la misma edad (todas en su semana 4, por ejemplo), en una
-   [[tabla-de-cohortes|tabla de cohortes]] o en [[curva-de-retencion|curvas de retención]].
+   [tabla de cohortes](tabla-de-cohortes.md) o en [curvas de retención](curva-de-retencion.md).
 
 Comparar a la misma edad deja una sola diferencia entre las cohortes: la época en que llegaron.
 
@@ -60,5 +60,5 @@ cohortes es descriptivo: muestra diferencias entre grupos, no prueba causas.
 
 ## Relaciones
 
-- Requiere: [[cohorte]] — es la unidad que se compara.
-- Requiere: [[retencion]] — es lo que casi siempre se mide por cohorte.
+- Requiere: [Cohorte](cohorte.md) — es la unidad que se compara.
+- Requiere: [Retención](retencion.md) — es lo que casi siempre se mide por cohorte.

@@ -29,7 +29,7 @@ El gecko leopardo entró al comercio internacional de mascotas como mínimo en l
 
 ## Por qué existe
 
-De acá sale el animal de hoy, cuyo cuidado se apoyó en guías de criadores más que en estudios. Parte del [[eublepharis-macularius|gecko leopardo]], del que según Agarwal et al. 2022 casi nada se sabe en el rango nativo.
+De acá sale el animal de hoy, cuyo cuidado se apoyó en guías de criadores más que en estudios. Parte del [gecko leopardo](eublepharis-macularius.md), del que según Agarwal et al. 2022 casi nada se sabe en el rango nativo.
 
 ## Cómo funciona
 
@@ -64,4 +64,4 @@ Una "domesticación" demostrada. Wikipedia lo llama "sometimes considered as the
 
 ## Relaciones
 
-- Requiere: [[eublepharis-macularius|gecko-leopardo]] — hay que saber qué animal es antes de seguir su historia.
+- Requiere: [gecko-leopardo](eublepharis-macularius.md) — hay que saber qué animal es antes de seguir su historia.

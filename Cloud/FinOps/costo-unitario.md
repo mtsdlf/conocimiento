@@ -32,7 +32,7 @@ la distorsione.
 - **Unidad y grano**: moneda por unidad (USD por 1.000 transacciones, USD por cliente activo), por
   mes o por semana.
 - **Incluye**: el costo asignado al servicio, con su parte de lo compartido (red, observabilidad)
-  según el criterio de [[showback-y-chargeback]].
+  según el criterio de [Showback y chargeback](showback-y-chargeback.md).
 - **Excluye**: lo que no se puede asignar al servicio; si se deja afuera, se dice.
 
 La FinOps Foundation distingue dos familias:
@@ -72,5 +72,5 @@ datos sean confiables.
 
 ## Relaciones
 
-- Parte de: [[que-es-finops]] — es la capacidad de economía unitaria del marco.
-- Requiere: [[showback-y-chargeback]] — sin asignar el costo al servicio no hay numerador.
+- Parte de: [FinOps](que-es-finops.md) — es la capacidad de economía unitaria del marco.
+- Requiere: [Showback y chargeback](showback-y-chargeback.md) — sin asignar el costo al servicio no hay numerador.

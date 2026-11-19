@@ -27,7 +27,7 @@ tráfico pase por un firewall.
 
 ## Por qué importa
 
-En una [[virtual-network-azure]] no hay router que configurar: el ruteo ya funciona. Hace falta
+En una [Virtual Network (Azure)](virtual-network-azure.md) no hay router que configurar: el ruteo ya funciona. Hace falta
 tocarlo cuando el tráfico tiene que pasar por un punto de control (un firewall en el hub) o cuando
 la red propia anuncia rutas que Azure tiene que conocer.
 
@@ -55,11 +55,11 @@ efectivas de la NIC muestran la UDR como activa y la ruta de sistema a internet 
 
 ## No confundir con
 
-El [[network-security-group]], que decide si un paquete pasa; la ruta decide por dónde va. Un
+El [Network security group](network-security-group.md), que decide si un paquete pasa; la ruta decide por dónde va. Un
 paquete puede tener ruta y estar bloqueado, o estar permitido y no tener ruta.
 
 ## Relaciones
 
-- Requiere: [[virtual-network-azure]] — las rutas se aplican por subred.
-- La usa: [[topologia-hub-and-spoke]] — el egreso centralizado en el hub depende de UDR.
-- La usa: [[conectividad-hibrida-azure]] — las rutas de la red propia llegan por BGP.
+- Requiere: [Virtual Network (Azure)](virtual-network-azure.md) — las rutas se aplican por subred.
+- La usa: [Topología hub-and-spoke](topologia-hub-and-spoke.md) — el egreso centralizado en el hub depende de UDR.
+- La usa: [Conectividad híbrida en Azure](conectividad-hibrida-azure.md) — las rutas de la red propia llegan por BGP.

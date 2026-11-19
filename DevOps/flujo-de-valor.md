@@ -31,7 +31,7 @@ limitar el trabajo en curso lo acelera.
 
 Cada área suele optimizar su tramo (desarrollo, pruebas, operaciones) y el cambio igual tarda
 semanas. Mirar el flujo de punta a punta muestra que la mayor parte del tiempo no es trabajo
-sino espera entre tramos. Es lo que la dimensión Lean de [[calms]] pide mejorar.
+sino espera entre tramos. Es lo que la dimensión Lean de [CALMS](calms.md) pide mejorar.
 
 ## Cómo funciona
 
@@ -59,17 +59,17 @@ con diffs enormes son el anti-patrón de lotes grandes.
 
 Un cambio de una línea tarda 12 días en llegar a producción. El mapa muestra 2 horas de trabajo
 y 3 esperas: 4 días por una revisión, 5 por un entorno de QA compartido y 3 por un comité de
-cambios. Las [[metricas-dora]] dan el lead time total; el mapa dice dónde se pierde.
+cambios. Las [Métricas DORA](metricas-dora.md) dan el lead time total; el mapa dice dónde se pierde.
 
 ## No confundir con
 
 El pipeline de CI/CD. El pipeline automatiza un tramo del flujo; el flujo de valor incluye
 también lo manual y lo organizacional, desde la idea hasta el usuario. Organizar equipos
-alrededor de un flujo es lo que hace un [[stream-aligned-team]].
+alrededor de un flujo es lo que hace un [Stream-aligned team](../Platform-Engineering/stream-aligned-team.md).
 
 ## Relaciones
 
-- Relacionado: [[calms]] — el flujo es el objeto de la dimensión Lean.
-- Relacionado: [[metricas-dora]] — miden el resultado del flujo; el mapa explica la causa.
-- Ver también: [[stream-aligned-team]] — el equipo organizado alrededor de un flujo de valor.
-- Ver también: [[carga-cognitiva]] — los traspasos y las herramientas sueltas la aumentan.
+- Relacionado: [CALMS](calms.md) — el flujo es el objeto de la dimensión Lean.
+- Relacionado: [Métricas DORA](metricas-dora.md) — miden el resultado del flujo; el mapa explica la causa.
+- Ver también: [Stream-aligned team](../Platform-Engineering/stream-aligned-team.md) — el equipo organizado alrededor de un flujo de valor.
+- Ver también: [Carga cognitiva](../Platform-Engineering/carga-cognitiva.md) — los traspasos y las herramientas sueltas la aumentan.

@@ -31,9 +31,9 @@ policy-as-code.
 
 ## Antes de empezar
 
-Conviene entender qué es un [[modulo-de-terraform]], por qué el estado va en un
-[[estado-remoto-de-terraform|backend remoto]], cómo se [[organizar-entornos-en-terraform|separan
-los entornos]] y qué hace un [[pipeline-de-terraform]]. Cada etapa se apoya en la anterior: un
+Conviene entender qué es un [Módulo de Terraform](modulo-de-terraform.md), por qué el estado va en un
+[backend remoto](estado-remoto-de-terraform.md), cómo se [separan
+los entornos](organizar-entornos-en-terraform.md) y qué hace un [Armar un pipeline de Terraform](pipeline-de-terraform.md). Cada etapa se apoya en la anterior: un
 pipeline sin estándares automatiza código inconsistente.
 
 ## Pasos
@@ -50,7 +50,7 @@ pipeline sin estándares automatiza código inconsistente.
    de datos), con variables validadas, y publicalos con versión semántica en un registry privado o
    en un repo con tags. Si un recurso ya importado pasa a un módulo, un bloque `moved` le
    avisa a Terraform que es el mismo y evita que lo recree.
-6. **Secretos**: sacá todo secreto del código y leelo de un gestor; ver [[secretos-en-terraform]].
+6. **Secretos**: sacá todo secreto del código y leelo de un gestor; ver [Secretos en Terraform](secretos-en-terraform.md).
 7. **Controles locales**: sumá hooks de pre-commit con `terraform fmt`, `validate` (que necesita
    un `terraform init` previo) y `tflint`, para que el error aparezca antes del PR.
 8. **Pipeline**: automatizá plan en cada PR, escaneo de seguridad, aprobación en producción y apply
@@ -68,9 +68,9 @@ desvíos; y todo cambio de infraestructura tiene un PR con su plan.
 
 ## Relaciones
 
-- Requiere: [[organizar-entornos-en-terraform]] — la estructura se fija en la etapa 1.
-- Requiere: [[pipeline-de-terraform]] — la etapa 8 lo implementa.
-- Ver también: [[gobernanza-de-plataforma]] (Platform-Engineering) — policy-as-code como forma
+- Requiere: [Organizar entornos en Terraform](organizar-entornos-en-terraform.md) — la estructura se fija en la etapa 1.
+- Requiere: [Armar un pipeline de Terraform](pipeline-de-terraform.md) — la etapa 8 lo implementa.
+- Ver también: [Gobernanza de plataforma](../Platform-Engineering/gobernanza-de-plataforma.md) (Platform-Engineering) — policy-as-code como forma
   de gobierno de una plataforma.
-- Usa: [[modulo-de-terraform]] — la etapa 5 arma los módulos.
-- Usa: [[estado-remoto-de-terraform]] — la etapa 2 lo configura.
+- Usa: [Módulo de Terraform](modulo-de-terraform.md) — la etapa 5 arma los módulos.
+- Usa: [Estado remoto de Terraform](estado-remoto-de-terraform.md) — la etapa 2 lo configura.

@@ -36,7 +36,7 @@ casi igual lo que pasa en el impacto: eso es lo que hay que lograr.
 
 | Fase | Qué pasa |
 |---|---|
-| **Address** | El [[setup-de-golf]]: la posición quieta antes de pegar; address y setup son lo mismo |
+| **Address** | El [Setup de golf](setup-de-golf.md): la posición quieta antes de pegar; address y setup son lo mismo |
 | **Backswing** | Los hombros giran y el palo sube; el peso va al pie de atrás |
 | **Transición** | Arriba de todo, el movimiento cambia de sentido empezando por la cadera |
 | **Downswing** | La cadera gira hacia el objetivo, después el torso, los brazos y el palo |
@@ -64,5 +64,5 @@ orden de la cadena y del contacto en el centro de la cara.
 
 ## Relaciones
 
-- Requiere: [[setup-de-golf]] — el address es la primera fase.
-- Base de: [[vuelo-de-la-pelota]] — cómo llega el palo al impacto decide el vuelo.
+- Requiere: [Setup de golf](setup-de-golf.md) — el address es la primera fase.
+- Base de: [Vuelo de la pelota](vuelo-de-la-pelota.md) — cómo llega el palo al impacto decide el vuelo.

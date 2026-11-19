@@ -40,5 +40,5 @@ Dunford suma un sexto, opcional: una **tendencia** que haga el producto más rel
 
 ## Relaciones
 
-- Relacionado: [[jobs-to-be-done]] — el trabajo elegido dice para quién se posiciona.
-- Relacionado: [[como-crecen-las-marcas]] — Sharp y Dunford tiran en direcciones distintas, y esa nota dice cómo se compatibilizan.
+- Relacionado: [Jobs to be done](jobs-to-be-done.md) — el trabajo elegido dice para quién se posiciona.
+- Relacionado: [Cómo crecen las marcas](como-crecen-las-marcas.md) — Sharp y Dunford tiran en direcciones distintas, y esa nota dice cómo se compatibilizan.

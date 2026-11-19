@@ -32,7 +32,7 @@ Cómo alimentar y suplementar a un gecko leopardo: presas, frecuencia, carga de 
 
 ## Antes de empezar
 
-- Entender que los insectos traen poco calcio y mucho fósforo: [[calcio-y-vitamina-d3|calcio y vitamina D3]].
+- Entender que los insectos traen poco calcio y mucho fósforo: [calcio y vitamina D3](calcio-y-vitamina-d3.md).
 - Tener insectos vivos y un recipiente aparte.
 
 ## Pasos
@@ -51,11 +51,11 @@ Frecuencia: la RSPCA indica juveniles a diario y adultos día por medio; Merck, 
 
 ## Cómo saber que salió
 
-Come con ganas, mantiene peso y la cola proporcionada: [[revisar-pesar-y-registrar|revisar, pesar y registrar]].
+Come con ganas, mantiene peso y la cola proporcionada: [revisar, pesar y registrar](revisar-pesar-y-registrar.md).
 
 ## Si algo falla
 
-- Mandíbula o patas blandas, temblores: [[enfermedad-metabolica-osea|enfermedad metabólica ósea]].
+- Mandíbula o patas blandas, temblores: [enfermedad metabólica ósea](enfermedad-metabolica-osea.md).
 
 > [!NOTE]
 > Sin fuente todavía: cantidades por edad, frecuencia de adultos salvo "día por medio", y calendario de multivitamínico y de D3. Un estudio de 2024 con 15 geckos (calcio ionizado estable sin suplementar por 42 días) no se pudo leer.
@@ -68,7 +68,7 @@ DIETA.md de la casa se declara "consenso de keepers, no consejo veterinario":
 - Base de *Blaptica dubia*, cada 2–3 días, 5–7 feeders y presa no mayor que el espacio entre los ojos: sin fuente.
 - Engorde de 24–48 h con verdura: cercano a la RSPCA.
 - Calcio con D3 sin UVB: compatible con Oonincx. Vet Times (2011) recomienda calcio y multivitamínico a diario en juveniles y día por medio en adultos, más que la casa.
-- Multivitamínico semanal: la vitamina A en la dieta se asoció a menos enfermedad ocular ([[problemas-oculares|problemas oculares]]); ninguna fuente dice si la trae.
+- Multivitamínico semanal: la vitamina A en la dieta se asoció a menos enfermedad ocular ([problemas oculares](problemas-oculares.md)); ninguna fuente dice si la trae.
 - Calcio sin D3 con UVB: sin respaldo ni contradicción.
 
 ## Para profundizar
@@ -77,4 +77,4 @@ DIETA.md de la casa se declara "consenso de keepers, no consejo veterinario":
 
 ## Relaciones
 
-- Requiere: [[calcio-y-vitamina-d3|calcio y vitamina D3]] — de ahí sale por qué se espolvorea.
+- Requiere: [calcio y vitamina D3](calcio-y-vitamina-d3.md) — de ahí sale por qué se espolvorea.

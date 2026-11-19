@@ -71,5 +71,5 @@ una copia viva lista para atender.
 
 ## Relaciones
 
-- Usa: [[almacenamiento-y-bases-de-datos-en-azure]] — las opciones de réplica de cada servicio.
-- La usa: [[disenar-una-solucion-en-azure]] — el paso de HA y DR.
+- Usa: [Almacenamiento y bases de datos en Azure](almacenamiento-y-bases-de-datos-en-azure.md) — las opciones de réplica de cada servicio.
+- La usa: [Diseñar una solución en Azure](disenar-una-solucion-en-azure.md) — el paso de HA y DR.

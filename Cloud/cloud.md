@@ -19,69 +19,69 @@ Mapa del Tema Cloud: Azure (gobernanza, redes, cómputo, datos, mensajería, obs
 HA/DR y diseño de soluciones) y FinOps; sirve de consulta y, para redes, como camino de
 aprendizaje.
 
-Para aprender redes en Azure en orden: [[recorrido-redes-en-azure]].
+Para aprender redes en Azure en orden: [Redes en Azure para quien ya sabe redes](recorrido-redes-en-azure.md).
 
 ## Gobernanza e identidad
 
-- [[azure-landing-zone]] — qué trae la base común de un entorno de Azure y cómo se reparte entre plataforma y proyectos.
-- [[azure-policy]] — cómo se hacen cumplir reglas sobre los recursos (negar, auditar, desplegar lo que falta).
-- [[identidad-y-acceso-en-azure]] — Entra ID, RBAC, PIM, managed identities, OIDC y Key Vault.
-- [[landing-zone-con-terraform]] — cómo se despliega una landing zone en stacks de Terraform con estado propio.
+- [Azure landing zone](azure-landing-zone.md) — qué trae la base común de un entorno de Azure y cómo se reparte entre plataforma y proyectos.
+- [Azure Policy](azure-policy.md) — cómo se hacen cumplir reglas sobre los recursos (negar, auditar, desplegar lo que falta).
+- [Identidad y acceso en Azure](identidad-y-acceso-en-azure.md) — Entra ID, RBAC, PIM, managed identities, OIDC y Key Vault.
+- [Landing zone con Terraform](landing-zone-con-terraform.md) — cómo se despliega una landing zone en stacks de Terraform con estado propio.
 
 ## Redes
 
-- [[virtual-network-azure]] — la red privada de Azure, sus subredes y la salida a internet; se lee primero.
-- [[network-security-group]] — el filtro por IP y puerto de cada subred o NIC.
-- [[ruteo-en-azure]] — rutas de sistema, UDR y BGP, y cómo forzar el paso por un firewall.
-- [[vnet-peering]] — cómo se unen dos VNets y por qué no es transitivo.
-- [[topologia-hub-and-spoke]] — lo compartido en el hub y cada proyecto aislado en su spoke.
-- [[conectividad-hibrida-azure]] — VPN y ExpressRoute para unir la red propia con Azure.
-- [[nat-gateway]] — IP de salida fija y sin agotamiento de SNAT.
-- [[balanceadores-de-carga-azure]] — Front Door, Application Gateway y Load Balancer: cuál para qué.
+- [Virtual Network (Azure)](virtual-network-azure.md) — la red privada de Azure, sus subredes y la salida a internet; se lee primero.
+- [Network security group](network-security-group.md) — el filtro por IP y puerto de cada subred o NIC.
+- [Ruteo en Azure](ruteo-en-azure.md) — rutas de sistema, UDR y BGP, y cómo forzar el paso por un firewall.
+- [VNet peering](vnet-peering.md) — cómo se unen dos VNets y por qué no es transitivo.
+- [Topología hub-and-spoke](topologia-hub-and-spoke.md) — lo compartido en el hub y cada proyecto aislado en su spoke.
+- [Conectividad híbrida en Azure](conectividad-hibrida-azure.md) — VPN y ExpressRoute para unir la red propia con Azure.
+- [NAT Gateway](nat-gateway.md) — IP de salida fija y sin agotamiento de SNAT.
+- [Balanceadores de carga en Azure](balanceadores-de-carga-azure.md) — Front Door, Application Gateway y Load Balancer: cuál para qué.
 
 ## Acceso privado a servicios PaaS
 
-- [[private-endpoint]] — una IP privada para una instancia de un PaaS; la forma recomendada.
-- [[dns-privado-para-private-link]] — por qué el nombre tiene que resolver a la IP privada y cómo.
-- [[service-endpoint]] — la alternativa sin IP privada, más barata y más limitada.
-- [[network-security-perimeter]] — una frontera de acceso público alrededor de varios PaaS.
+- [Private endpoint](private-endpoint.md) — una IP privada para una instancia de un PaaS; la forma recomendada.
+- [DNS privado para Private Link](dns-privado-para-private-link.md) — por qué el nombre tiene que resolver a la IP privada y cómo.
+- [Service endpoint](service-endpoint.md) — la alternativa sin IP privada, más barata y más limitada.
+- [Network security perimeter](network-security-perimeter.md) — una frontera de acceso público alrededor de varios PaaS.
 
 ## Cómputo
 
-- [[eleccion-de-computo-en-azure]] — VM, App Service, Functions, Container Apps o AKS: cuándo cada uno.
-- [[maquina-virtual-azure]] — de qué depende una VM y qué se cobra aparte.
-- [[azure-functions]] — serverless por eventos y qué cambia cada plan de hosting.
-- [[durable-functions]] — flujos con estado sobre Functions y sus patrones.
+- [Elección de cómputo en Azure](eleccion-de-computo-en-azure.md) — VM, App Service, Functions, Container Apps o AKS: cuándo cada uno.
+- [Máquina virtual (Azure)](maquina-virtual-azure.md) — de qué depende una VM y qué se cobra aparte.
+- [Azure Functions](azure-functions.md) — serverless por eventos y qué cambia cada plan de hosting.
+- [Durable Functions](durable-functions.md) — flujos con estado sobre Functions y sus patrones.
 
 ## Datos, mensajería y operación
 
-- [[almacenamiento-y-bases-de-datos-en-azure]] — Storage, SQL, Cosmos DB, Postgres/MySQL y Redis: qué resuelve cada uno.
-- [[mensajeria-en-azure]] — Service Bus, Event Hubs y Event Grid: en qué se diferencian.
-- [[azure-monitor]] — métricas, logs, trazas, alertas y el costo de los logs.
-- [[alta-disponibilidad-y-dr-en-azure]] — zonas, regiones, backup y réplica según RTO y RPO.
+- [Almacenamiento y bases de datos en Azure](almacenamiento-y-bases-de-datos-en-azure.md) — Storage, SQL, Cosmos DB, Postgres/MySQL y Redis: qué resuelve cada uno.
+- [Mensajería en Azure](mensajeria-en-azure.md) — Service Bus, Event Hubs y Event Grid: en qué se diferencian.
+- [Azure Monitor](azure-monitor.md) — métricas, logs, trazas, alertas y el costo de los logs.
+- [Alta disponibilidad y DR en Azure](alta-disponibilidad-y-dr-en-azure.md) — zonas, regiones, backup y réplica según RTO y RPO.
 
 ## Diseño de soluciones
 
-- [[arquitecturas-de-referencia-en-azure]] — tres combinaciones probadas de servicios.
+- [Arquitecturas de referencia en Azure](arquitecturas-de-referencia-en-azure.md) — tres combinaciones probadas de servicios.
 
 ## Cómo hacer
 
-- [[verificar-conectividad-privada-en-azure]] — probar private endpoints, egreso por NAT y aislamiento entre spokes.
-- [[disenar-una-solucion-en-azure]] — responder un diseño de solución paso a paso, p. ej. en una entrevista.
+- [Verificar la conectividad privada en Azure](verificar-conectividad-privada-en-azure.md) — probar private endpoints, egreso por NAT y aislamiento entre spokes.
+- [Diseñar una solución en Azure](disenar-una-solucion-en-azure.md) — responder un diseño de solución paso a paso, p. ej. en una entrevista.
 
 ## Fichas
 
-- [[tamanos-de-vm-azure]] — las familias de tamaño de VM con su uso típico (copiadas con fecha).
+- [Tamaños de VM en Azure](tamanos-de-vm-azure.md) — las familias de tamaño de VM con su uso típico (copiadas con fecha).
 
 ## Sub-Mapas
 
-- [[finops]] — la práctica de FinOps según la FinOps Foundation y cómo bajar el costo en Azure.
+- [FinOps](FinOps/finops.md) — la práctica de FinOps según la FinOps Foundation y cómo bajar el costo en Azure.
 
 ## Otros Temas
 
-- [[modulo-de-terraform]], [[estado-remoto-de-terraform]] y [[pipeline-de-terraform]] — la base
+- [Módulo de Terraform](../Infraestructura/modulo-de-terraform.md), [Estado remoto de Terraform](../Infraestructura/estado-remoto-de-terraform.md) y [Armar un pipeline de Terraform](../Infraestructura/pipeline-de-terraform.md) — la base
   de Terraform que usa la landing zone; viven en Infraestructura.
-- [[split-horizon-dns]] — el principio detrás del DNS de Private Link, en Infraestructura.
-- [[desplegar-en-aks-con-azure-pipelines]] — CI/CD hacia AKS, en DevOps.
-- [[gobernanza-de-plataforma]], [[golden-path]] y [[observabilidad]] — la mirada de plataforma
+- [Split-horizon DNS](../Infraestructura/split-horizon-dns.md) — el principio detrás del DNS de Private Link, en Infraestructura.
+- [Desplegar en AKS con Azure Pipelines](../DevOps/desplegar-en-aks-con-azure-pipelines.md) — CI/CD hacia AKS, en DevOps.
+- [Gobernanza de plataforma](../Platform-Engineering/gobernanza-de-plataforma.md), [Golden path](../Platform-Engineering/golden-path.md) y [Observabilidad](../Platform-Engineering/observabilidad.md) — la mirada de plataforma
   interna, en Platform-Engineering.

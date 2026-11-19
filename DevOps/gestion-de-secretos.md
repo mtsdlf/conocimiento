@@ -47,7 +47,7 @@ credenciales entre los diez riesgos principales del CI/CD.
 - **Vida corta y mínimo privilegio**: cada automatización usa su propia identidad, con permisos
   mínimos y credenciales que expiran o rotan solas. Una deploy key (una clave SSH que da acceso a un solo
   repositorio) de solo lectura es mejor que un token personal con acceso a todo.
-- **Cifrado en Git para GitOps**: [[gitops]] necesita declarar todo en Git, secretos incluidos.
+- **Cifrado en Git para GitOps**: [GitOps](gitops.md) necesita declarar todo en Git, secretos incluidos.
   **SOPS** cifra los valores de un YAML o JSON y deja las claves legibles, con claves de age o PGP
   (herramientas de cifrado de archivos) o con un KMS de nube (el servicio que guarda y usa
   claves de cifrado, como AWS KMS). **Sealed Secrets** cifra un Secret con la clave pública de un controlador, y solo ese
@@ -71,6 +71,6 @@ Mezclarlos con secretos lleva a cifrar todo o a no cifrar nada.
 
 ## Relaciones
 
-- Parte de y requiere: [[devsecops]] — es uno de los dominios de seguridad del ciclo de entrega.
-- Relacionado: [[seguridad-en-el-pipeline]] — la detección de secretos es su primer control.
-- Relacionado: [[gitops]] — GitOps obliga a declarar los secretos en Git sin exponerlos.
+- Parte de y requiere: [DevSecOps](devsecops.md) — es uno de los dominios de seguridad del ciclo de entrega.
+- Relacionado: [Seguridad en el pipeline](seguridad-en-el-pipeline.md) — la detección de secretos es su primer control.
+- Relacionado: [GitOps](gitops.md) — GitOps obliga a declarar los secretos en Git sin exponerlos.

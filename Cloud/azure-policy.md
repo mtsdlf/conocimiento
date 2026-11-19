@@ -70,7 +70,7 @@ política lo niega.
 
 ## Relaciones
 
-- Base de: [[azure-landing-zone]] — las reglas que heredan las suscripciones.
-- La usa: [[showback-y-chargeback]] — obliga las etiquetas de asignación de costos.
-- En otro Tema: [[policy-as-code]] — el mismo principio en el pipeline y en el clúster;
-  [[gobernanza-de-plataforma]] — los límites del self-service.
+- Base de: [Azure landing zone](azure-landing-zone.md) — las reglas que heredan las suscripciones.
+- La usa: [Showback y chargeback](FinOps/showback-y-chargeback.md) — obliga las etiquetas de asignación de costos.
+- En otro Tema: [Policy as code](../DevOps/policy-as-code.md) — el mismo principio en el pipeline y en el clúster;
+  [Gobernanza de plataforma](../Platform-Engineering/gobernanza-de-plataforma.md) — los límites del self-service.

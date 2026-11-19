@@ -72,5 +72,5 @@ se ocupa de qué IP ve cada red para el mismo nombre público.
 
 ## Relaciones
 
-- Relacionado: [[desafio-acme-http-01]] — un nombre que solo existe en la LAN necesita DNS-01 para
+- Relacionado: [Desafío ACME HTTP-01](desafio-acme-http-01.md) — un nombre que solo existe en la LAN necesita DNS-01 para
   obtener un certificado.

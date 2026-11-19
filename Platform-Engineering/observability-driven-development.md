@@ -37,7 +37,7 @@ equipo de plataforma sepa en todo momento qué hace el software nuevo.
 ## Cómo funciona
 
 ODD suma un criterio de aceptación a todo el trabajo del backlog: el ítem no está terminado
-hasta que su comportamiento se ve en la [[observabilidad]] del sistema. El libro resume la
+hasta que su comportamiento se ve en la [Observabilidad](observabilidad.md) del sistema. El libro resume la
 práctica en cinco principios:
 
 1. **Instrumentación como código**: las métricas, los logs y los traces se escriben con el
@@ -67,6 +67,6 @@ reales. ODD no reemplaza los tests.
 
 ## Relaciones
 
-- Requiere: [[observabilidad]] — ODD da por sabido qué es la telemetría y para qué sirve.
-- Relacionado: [[golden-path]] — una plantilla que trae la telemetría conectada de fábrica cumple buena parte de ODD sin esfuerzo extra.
-- Relacionado: [[self-service]] — el cuarto principio pide que cada equipo cree sus alertas y tableros sin ticket.
+- Requiere: [Observabilidad](observabilidad.md) — ODD da por sabido qué es la telemetría y para qué sirve.
+- Relacionado: [Golden path](golden-path.md) — una plantilla que trae la telemetría conectada de fábrica cumple buena parte de ODD sin esfuerzo extra.
+- Relacionado: [Self-service](self-service.md) — el cuarto principio pide que cada equipo cree sus alertas y tableros sin ticket.

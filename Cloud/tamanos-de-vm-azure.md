@@ -53,4 +53,4 @@ Copiados el 2026-10-03.
 
 ## Relaciones
 
-- Detalla: [[maquina-virtual-azure]] — qué tamaño darle a una VM.
+- Detalla: [Máquina virtual (Azure)](maquina-virtual-azure.md) — qué tamaño darle a una VM.

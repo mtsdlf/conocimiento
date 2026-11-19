@@ -26,7 +26,7 @@ la arquitectura de software deseada surja de esa estructura.
 
 ## Por qué importa
 
-Si la [[ley-de-conway]] se cumple de todos modos, conviene elegir qué estructura va a copiar el
+Si la [Ley de Conway](ley-de-conway.md) se cumple de todos modos, conviene elegir qué estructura va a copiar el
 sistema en vez de pelear contra ella. La maniobra convierte una restricción en una herramienta de
 diseño.
 
@@ -40,7 +40,7 @@ deseada".
 
 Team Topologies da cuatro criterios para trazar esos límites:
 
-1. Elegir los límites del software según lo que un equipo puede sostener (ver [[team-first]]).
+1. Elegir los límites del software según lo que un equipo puede sostener (ver [Team-first](team-first.md)).
 2. Vigilar los monolitos ocultos y los acoplamientos en la cadena de entrega, como un pipeline o
    una base de datos compartidos.
 3. Usar como límites los contextos acotados (bounded contexts) del dominio de negocio.
@@ -61,5 +61,5 @@ arquitectura tampoco.
 
 ## Relaciones
 
-- Requiere: [[ley-de-conway]] — la maniobra es esa ley usada a propósito.
-- Relacionado: [[team-topologies]] — el modelo que da los tipos de equipo para aplicar la maniobra.
+- Requiere: [Ley de Conway](ley-de-conway.md) — la maniobra es esa ley usada a propósito.
+- Relacionado: [Team Topologies](team-topologies.md) — el modelo que da los tipos de equipo para aplicar la maniobra.

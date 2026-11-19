@@ -40,17 +40,17 @@ dos VNets con rangos superpuestos no se pueden unir por peering.
 - **Precio**: la VNet es gratis; se cobran los recursos y el tráfico entre VNets.
 - **Salida a internet**: desde el 31 de marzo de 2026, las subredes de VNets nuevas creadas con
   las API actuales son privadas por defecto (`defaultOutboundAccess=false`): una VM no sale a
-  internet sin un método explícito, como una [[nat-gateway]]. Las VNets existentes y las creadas
+  internet sin un método explícito, como una [NAT Gateway](nat-gateway.md). Las VNets existentes y las creadas
   con versiones de API anteriores conservan el acceso de salida por defecto.
-- **Lo que se le suma**: el filtrado con [[network-security-group]], el ruteo con
-  [[ruteo-en-azure]], la conexión con otras VNets por [[vnet-peering]] y con la red propia por
-  [[conectividad-hibrida-azure]].
+- **Lo que se le suma**: el filtrado con [Network security group](network-security-group.md), el ruteo con
+  [Ruteo en Azure](ruteo-en-azure.md), la conexión con otras VNets por [VNet peering](vnet-peering.md) y con la red propia por
+  [Conectividad híbrida en Azure](conectividad-hibrida-azure.md).
 
 **Para llegar a un servicio PaaS** desde la VNet hay tres formas:
 
 1. Desplegar una instancia dedicada del servicio dentro de la VNet (p. ej. App Service Environment).
-2. Un [[private-endpoint]]: una IP privada en la subred para una instancia del servicio.
-3. Un [[service-endpoint]]: la subred se identifica ante el servicio, que sigue con IP pública.
+2. Un [Private endpoint](private-endpoint.md): una IP privada en la subred para una instancia del servicio.
+3. Un [Service endpoint](service-endpoint.md): la subred se identifica ante el servicio, que sigue con IP pública.
 
 ## Ejemplo
 
@@ -65,5 +65,5 @@ Azure Resource Manager.
 
 ## Relaciones
 
-- Base de: [[network-security-group]], [[ruteo-en-azure]], [[vnet-peering]], [[private-endpoint]],
-  [[service-endpoint]], [[nat-gateway]] y [[conectividad-hibrida-azure]].
+- Base de: [Network security group](network-security-group.md), [Ruteo en Azure](ruteo-en-azure.md), [VNet peering](vnet-peering.md), [Private endpoint](private-endpoint.md),
+  [Service endpoint](service-endpoint.md), [NAT Gateway](nat-gateway.md) y [Conectividad híbrida en Azure](conectividad-hibrida-azure.md).

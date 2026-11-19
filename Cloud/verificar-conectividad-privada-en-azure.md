@@ -32,9 +32,9 @@ una falla es de red o de la aplicación.
 
 - Una máquina dentro del spoke para probar: una VM sin IP pública (entrando con Bastion o Run
   Command) o un contenedor de prueba en una subred del spoke.
-- Saber cómo un [[private-endpoint]] depende del [[dns-privado-para-private-link]], y cómo una
-  [[topologia-hub-and-spoke]] aísla los spokes.
-- La IP pública de la [[nat-gateway]] del spoke, a mano.
+- Saber cómo un [Private endpoint](private-endpoint.md) depende del [DNS privado para Private Link](dns-privado-para-private-link.md), y cómo una
+  [Topología hub-and-spoke](topologia-hub-and-spoke.md) aísla los spokes.
+- La IP pública de la [NAT Gateway](nat-gateway.md) del spoke, a mano.
 
 ## Pasos
 
@@ -66,8 +66,8 @@ Esa combinación prueba acceso privado, egreso fijo y aislamiento entre proyecto
 
 ## Relaciones
 
-- Requiere: [[dns-privado-para-private-link]] — la causa más común de que el paso 1 falle.
-- Requiere: [[topologia-hub-and-spoke]] — explica por qué el paso 4 tiene que fallar.
-- Usa: [[nat-gateway]], [[network-security-group]] y [[ruteo-en-azure]] — lo que se revisa en los
+- Requiere: [DNS privado para Private Link](dns-privado-para-private-link.md) — la causa más común de que el paso 1 falle.
+- Requiere: [Topología hub-and-spoke](topologia-hub-and-spoke.md) — explica por qué el paso 4 tiene que fallar.
+- Usa: [NAT Gateway](nat-gateway.md), [Network security group](network-security-group.md) y [Ruteo en Azure](ruteo-en-azure.md) — lo que se revisa en los
   pasos 3 y 5.
-- Usa: [[private-endpoint]] — lo que se prueba en los pasos 1 y 2.
+- Usa: [Private endpoint](private-endpoint.md) — lo que se prueba en los pasos 1 y 2.

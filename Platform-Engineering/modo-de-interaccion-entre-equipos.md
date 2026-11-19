@@ -26,7 +26,7 @@ definen qué esperar de la relación entre dos equipos durante un período.
 
 ## Por qué importa
 
-Según la [[ley-de-conway]], la comunicación entre equipos termina en la arquitectura. Si no se
+Según la [Ley de Conway](ley-de-conway.md), la comunicación entre equipos termina en la arquitectura. Si no se
 dice cómo se relacionan dos equipos, cada uno supone algo distinto: uno espera reuniones diarias y
 el otro una API documentada. Nombrar el modo fija esas expectativas.
 
@@ -38,7 +38,7 @@ el otro una API documentada. Nombrar el modo fija esas expectativas.
 | X-as-a-Service | un equipo ofrece algo y el otro lo consume, con poca interacción | lo ofrecido ya es estable |
 | Facilitating | un equipo ayuda y acompaña a otro a superar un obstáculo o aprender una práctica | es el modo típico de un enabling team |
 
-Los modos cambian con el tiempo. Un [[platform-team]] suele empezar en collaboration con un
+Los modos cambian con el tiempo. Un [Platform team](platform-team.md) suele empezar en collaboration con un
 stream-aligned para diseñar una capacidad nueva y pasa a X-as-a-Service cuando la capacidad se
 estabiliza. Una collaboration que no termina nunca indica que el límite entre los equipos está
 mal puesto.
@@ -55,9 +55,9 @@ X-as-a-Service.
 
 ## No confundir con
 
-La Team API de un equipo (descrita en [[team-first]]), que es lo que el equipo ofrece: código,
+La Team API de un equipo (descrita en [Team-first](team-first.md)), que es lo que el equipo ofrece: código,
 documentación, canales. El modo es cómo se relacionan dos equipos concretos en un momento dado.
 
 ## Relaciones
 
-- Parte de: [[team-topologies]] — es uno de los dos ejes del modelo, junto con los tipos de equipo.
+- Parte de: [Team Topologies](team-topologies.md) — es uno de los dos ejes del modelo, junto con los tipos de equipo.

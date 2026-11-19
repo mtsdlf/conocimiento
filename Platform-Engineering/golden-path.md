@@ -31,7 +31,7 @@ el soporte.
 
 Sin un camino estándar, cada equipo arma su servicio a su manera y la organización termina con
 decenas de variantes de lo mismo. Spotify introdujo los golden paths para resolver esa
-fragmentación. Además bajan la [[carga-cognitiva]] extrínseca: el desarrollador no tiene que
+fragmentación. Además bajan la [Carga cognitiva](carga-cognitiva.md) extrínseca: el desarrollador no tiene que
 decidir ni aprender todo lo que la plantilla ya resuelve.
 
 ## Cómo funciona
@@ -61,11 +61,11 @@ sin entender Helm, Kubernetes ni OpenAPI para desplegar.
 ## No confundir con
 
 Un estándar obligatorio. El golden path se elige porque ahorra trabajo, no porque esté impuesto.
-Tampoco debe esconder del todo lo que genera: ese límite es la [[mechanical-sympathy]].
+Tampoco debe esconder del todo lo que genera: ese límite es la [Mechanical sympathy](mechanical-sympathy.md).
 
 ## Relaciones
 
-- Parte de: [[internal-developer-platform]] — una de las piezas que ofrece la plataforma.
-- Requiere: [[carga-cognitiva]] — es la carga que el golden path reduce.
-- Relacionado: [[developer-portal]] — el lugar habitual desde donde se elige y se lanza una plantilla.
-- Relacionado: [[observability-driven-development]] — una plantilla con la telemetría ya conectada cumple de fábrica buena parte de lo que pide ODD.
+- Parte de: [Internal Developer Platform](internal-developer-platform.md) — una de las piezas que ofrece la plataforma.
+- Requiere: [Carga cognitiva](carga-cognitiva.md) — es la carga que el golden path reduce.
+- Relacionado: [Developer portal](developer-portal.md) — el lugar habitual desde donde se elige y se lanza una plantilla.
+- Relacionado: [Observability-driven development](observability-driven-development.md) — una plantilla con la telemetría ya conectada cumple de fábrica buena parte de lo que pide ODD.

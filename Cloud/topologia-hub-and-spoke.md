@@ -31,7 +31,7 @@ los spokes quedan aislados entre sí.
 
 Lo caro o lo delicado (el gateway a la red propia, el firewall, el DNS) se paga y se opera una vez,
 en el hub. Cada proyecto recibe su spoke y no puede llegar a otro por accidente: el aislamiento
-sale de que el [[vnet-peering]] no es transitivo.
+sale de que el [VNet peering](vnet-peering.md) no es transitivo.
 
 ## Cómo funciona
 
@@ -40,8 +40,8 @@ sale de que el [[vnet-peering]] no es transitivo.
   administrar VMs sin IP pública, y el DNS (p. ej. DNS Private Resolver). Hay un hub por región.
 - **Los spokes**: una VNet por proyecto o por equipo, con peering al hub y sin peering entre sí.
 - **Tráfico entre spokes**: no existe salvo que se fuerce. Para habilitarlo, una UDR en cada spoke
-  manda ese tráfico al firewall del hub, que decide (ver [[ruteo-en-azure]]).
-- **Egreso a internet**: centralizado en el firewall del hub, o una [[nat-gateway]] por spoke si
+  manda ese tráfico al firewall del hub, que decide (ver [Ruteo en Azure](ruteo-en-azure.md)).
+- **Egreso a internet**: centralizado en el firewall del hub, o una [NAT Gateway](nat-gateway.md) por spoke si
   alcanza con una IP fija y no se necesita inspección.
 
 ```mermaid
@@ -76,7 +76,7 @@ VNet propia.
 
 ## Relaciones
 
-- Requiere: [[vnet-peering]] — une cada spoke con el hub.
-- Usa: [[ruteo-en-azure]], [[nat-gateway]] y [[dns-privado-para-private-link]] — el egreso y el
+- Requiere: [VNet peering](vnet-peering.md) — une cada spoke con el hub.
+- Usa: [Ruteo en Azure](ruteo-en-azure.md), [NAT Gateway](nat-gateway.md) y [DNS privado para Private Link](dns-privado-para-private-link.md) — el egreso y el
   DNS compartido viven en el hub o en cada spoke.
-- Base de: [[azure-landing-zone]] — la red de una landing zone suele ser hub-and-spoke.
+- Base de: [Azure landing zone](azure-landing-zone.md) — la red de una landing zone suele ser hub-and-spoke.

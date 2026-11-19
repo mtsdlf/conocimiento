@@ -34,7 +34,7 @@ a volar la pelota, así que conocer la bolsa es la base de cada golpe.
 **Partes**
 - **Cabeza**: la parte que golpea. Tiene la **cara** (donde pega la pelota), la **suela** (la base
   que toca el piso) y el **hosel** (donde entra la vara).
-- **Vara** (shaft): el tubo de acero o grafito. Su rigidez se explica en [[flex-de-la-vara]].
+- **Vara** (shaft): el tubo de acero o grafito. Su rigidez se explica en [Flex de la vara](flex-de-la-vara.md).
 - **Grip**: la empuñadura de goma. Se gasta y se cambia.
 
 **Tipos**
@@ -48,7 +48,7 @@ a volar la pelota, así que conocer la bolsa es la base de cada golpe.
 | Putter | Hacer rodar la pelota en el green | — |
 
 A mayor número de hierro, más corto el palo, más inclinada la cara y menos distancia; lo explica
-[[loft]]. Hoy el driver tiene un volumen máximo de 460 cm³.
+[Loft](loft.md). Hoy el driver tiene un volumen máximo de 460 cm³.
 
 ## Ejemplo
 
@@ -62,6 +62,6 @@ los palos antiguos de cabeza de madera.
 
 ## Relaciones
 
-- Base de: [[loft]], [[perdon-del-palo]], [[flex-de-la-vara]], [[tipos-de-putter]] — cada una
+- Base de: [Loft](loft.md), [Perdón del palo](perdon-del-palo.md), [Flex de la vara](flex-de-la-vara.md), [Tipos de putter](tipos-de-putter.md) — cada una
   explica una característica del palo.
-- Relacionado: [[reglas-basicas-de-golf]] — el límite de 14 palos.
+- Relacionado: [Reglas básicas de golf](reglas-basicas-de-golf.md) — el límite de 14 palos.

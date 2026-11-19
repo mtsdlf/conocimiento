@@ -33,7 +33,7 @@ separado, y por eso el trabajo se asigna solo a equipos.
 
 ## Cómo funciona
 
-**Tamaño**: de cinco a nueve personas, según los [[numero-de-dunbar|números de Dunbar]].
+**Tamaño**: de cinco a nueve personas, según los [números de Dunbar](numero-de-dunbar.md).
 
 **Estabilidad**: un equipo tarda de dos semanas a tres meses o más en cohesionarse. La ley de
 Brooks advierte que sumar gente no aumenta la capacidad de inmediato. El modelo de Tuckman
@@ -65,5 +65,5 @@ duraderos a los que llega el trabajo, no gente que se reparte entre proyectos.
 
 ## Relaciones
 
-- Requiere: [[numero-de-dunbar]] — de ahí sale el tamaño del equipo.
-- Base de: [[team-topologies]] — el modelo da por sentado al equipo estable como unidad.
+- Requiere: [Número de Dunbar](numero-de-dunbar.md) — de ahí sale el tamaño del equipo.
+- Base de: [Team Topologies](team-topologies.md) — el modelo da por sentado al equipo estable como unidad.

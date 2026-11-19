@@ -70,6 +70,6 @@ roja o amarilla permite seguir desde cerca del agua.
 
 ## Relaciones
 
-- Requiere: [[hoyo-de-golf]] — las reglas cambian según el área.
-- Relacionado: [[etiqueta-de-golf]] — la Regla 1.2 trata la conducta del jugador.
-- Relacionado: [[palo-de-golf]] — el límite de 14 palos define qué entra en la bolsa.
+- Requiere: [Hoyo de golf](hoyo-de-golf.md) — las reglas cambian según el área.
+- Relacionado: [Etiqueta de golf](etiqueta-de-golf.md) — la Regla 1.2 trata la conducta del jugador.
+- Relacionado: [Palo de golf](palo-de-golf.md) — el límite de 14 palos define qué entra en la bolsa.

@@ -33,7 +33,7 @@ rollback.
 
 Reemplazar todo de golpe deja al servicio caído durante el cambio y expone a todos los usuarios
 a un posible error. Cada estrategia cambia cuánta gente ve la versión nueva, cuánto tiempo y cómo
-se vuelve atrás. Es lo que permite el [[despliegue-continuo]] sin aprobación manual.
+se vuelve atrás. Es lo que permite el [Despliegue continuo](despliegue-continuo.md) sin aprobación manual.
 
 ## Cómo funciona
 
@@ -63,10 +63,10 @@ subido, el tráfico vuelve entero a la versión vieja en segundos.
 ## No confundir con
 
 La promoción entre entornos. Las estrategias de despliegue cambian la versión dentro de un
-entorno; la [[promocion-entre-entornos]] decide cuándo una versión pasa de staging a producción.
+entorno; la [Promoción entre entornos](promocion-entre-entornos.md) decide cuándo una versión pasa de staging a producción.
 
 ## Relaciones
 
-- Relacionado: [[entrega-continua]] — el paso a producción usa una de estas estrategias.
-- Relacionado: [[despliegue-continuo]] — el despliegue gradual reemplaza a la aprobación manual.
-- Ver también: [[promocion-entre-entornos]] — el paso de una versión de un entorno al siguiente.
+- Relacionado: [Entrega continua](entrega-continua.md) — el paso a producción usa una de estas estrategias.
+- Relacionado: [Despliegue continuo](despliegue-continuo.md) — el despliegue gradual reemplaza a la aprobación manual.
+- Ver también: [Promoción entre entornos](promocion-entre-entornos.md) — el paso de una versión de un entorno al siguiente.

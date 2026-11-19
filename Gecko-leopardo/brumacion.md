@@ -30,7 +30,7 @@ La brumación es el letargo invernal de reptiles. En el gecko leopardo está dis
 
 ## Por qué existe
 
-Como ectotermo, el gecko depende de la [[termorregulacion-conductual|termorregulación conductual]]: sin calor disponible, baja su actividad. No se halló un paper ni un texto veterinario leído sobre brumación de esta especie. Todo lo que sigue es de una cita de buscador y de aficionados.
+Como ectotermo, el gecko depende de la [termorregulación conductual](termorregulacion-conductual.md): sin calor disponible, baja su actividad. No se halló un paper ni un texto veterinario leído sobre brumación de esta especie. Todo lo que sigue es de una cita de buscador y de aficionados.
 
 ## Cómo funciona
 
@@ -45,7 +45,7 @@ Un adulto baja el apetito en invierno con calefacción constante. La hoja veteri
 
 ## No confundir con
 
-- **Enfermedad.** Letargo con pérdida de peso o cola adelgazada se parece a parásitos o a [[enfermedad-metabolica-osea|enfermedad metabólica ósea]]. Esto es inferencia, no un hallazgo de fuente.
+- **Enfermedad.** Letargo con pérdida de peso o cola adelgazada se parece a parásitos o a [enfermedad metabólica ósea](enfermedad-metabolica-osea.md). Esto es inferencia, no un hallazgo de fuente.
 
 > [!NOTE]
 > Sin fuente todavía: cómo distinguir brumación de enfermedad; qué hacer ante una baja de apetito invernal; si hay beneficio fisiológico del frío. Falta una fuente veterinaria leída. La base no es consejo veterinario.
@@ -54,8 +54,8 @@ Un adulto baja el apetito en invierno con calefacción constante. La hoja veteri
 
 - **Lafeber, hoja básica del gecko leopardo (https://lafeber.com/vet/?p=4445)**: hoja veterinaria específica de la especie. No pudo abrirse (403); leerla a mano y fijarse en qué dice del invierno y del apetito.
 
-Ante letargo con pérdida de peso, la referencia es [[cuando-llevar-el-gecko-al-veterinario|cuándo ir al veterinario]], que lista las señales que no esperan; para saber si bajó de peso hace falta el registro de [[revisar-pesar-y-registrar|revisar, pesar y registrar]].
+Ante letargo con pérdida de peso, la referencia es [cuándo ir al veterinario](cuando-llevar-el-gecko-al-veterinario.md), que lista las señales que no esperan; para saber si bajó de peso hace falta el registro de [revisar, pesar y registrar](revisar-pesar-y-registrar.md).
 
 ## Relaciones
 
-- Requiere: [[termorregulacion-conductual|Termorregulación conductual]] — el letargo depende de la temperatura disponible.
+- Requiere: [Termorregulación conductual](termorregulacion-conductual.md) — el letargo depende de la temperatura disponible.

@@ -33,13 +33,13 @@ Según Fowler, esto lleva a muchos despliegues a producción por día.
 
 ## Cómo funciona
 
-El pipeline es el mismo de la [[entrega-continua]], pero el último paso no espera a nadie: si
+El pipeline es el mismo de la [Entrega continua](entrega-continua.md), pero el último paso no espera a nadie: si
 las pruebas, los escaneos y las verificaciones de los entornos previos pasan, el cambio se
 despliega. Como no hay una persona que frene un cambio malo, el pipeline necesita:
 
 - pruebas automáticas que den confianza suficiente para no revisar a mano;
 - una estrategia de despliegue gradual, como canary o blue/green (ver
-  [[estrategias-de-despliegue]]), con rollback automático;
+  [Estrategias de despliegue](estrategias-de-despliegue.md)), con rollback automático;
 - monitoreo que detecte la degradación minutos después del despliegue;
 - feature flags para desplegar código incompleto sin mostrarlo al usuario.
 
@@ -55,11 +55,11 @@ La funcionalidad nueva de checkout está desplegada desde hace dos semanas, apag
 
 ## No confundir con
 
-[[entrega-continua]], donde el paso a producción queda en manos de una persona. Fowler: "para
+[Entrega continua](entrega-continua.md), donde el paso a producción queda en manos de una persona. Fowler: "para
 hacer despliegue continuo hay que estar haciendo entrega continua". Tampoco implica liberar todo
 al usuario apenas se despliega: eso lo decide el flag.
 
 ## Relaciones
 
-- Requiere: [[entrega-continua]] — agrega el paso automático a producción sobre ella.
-- Relacionado: [[estrategias-de-despliegue]] — el despliegue gradual reemplaza a la aprobación manual.
+- Requiere: [Entrega continua](entrega-continua.md) — agrega el paso automático a producción sobre ella.
+- Relacionado: [Estrategias de despliegue](estrategias-de-despliegue.md) — el despliegue gradual reemplaza a la aprobación manual.

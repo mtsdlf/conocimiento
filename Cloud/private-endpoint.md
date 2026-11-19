@@ -30,7 +30,7 @@ apagar su acceso público.
 ## Por qué importa
 
 Un servicio PaaS nace con una IP pública. Con un private endpoint, la aplicación llega al
-servicio por una IP de su propia [[virtual-network-azure]] y el servicio puede quedar con
+servicio por una IP de su propia [Virtual Network (Azure)](virtual-network-azure.md) y el servicio puede quedar con
 *public network access: Disabled*. Es la pieza de un diseño "privado por defecto", y Microsoft la
 recomienda sobre los service endpoints.
 
@@ -43,9 +43,9 @@ recomienda sobre los service endpoints.
   VPN o ExpressRoute.
 - **DNS**: el cliente sigue usando el nombre público (`cuenta.blob.core.windows.net`). Para que
   resuelva a la IP privada hace falta la zona `privatelink.*`; es la parte que más falla (ver
-  [[dns-privado-para-private-link]]).
+  [DNS privado para Private Link](dns-privado-para-private-link.md)).
 - **Precio**: cada endpoint se cobra por hora más los GB procesados de entrada y de salida.
-- **Gobernanza**: [[azure-policy]] puede negar los recursos con acceso público y crear el registro
+- **Gobernanza**: [Azure Policy](azure-policy.md) puede negar los recursos con acceso público y crear el registro
   DNS de cada endpoint automáticamente.
 
 ## Ejemplo
@@ -56,14 +56,14 @@ subred `app`, el nombre del blob resuelve a `10.1.2.4`; desde internet, la conex
 
 ## No confundir con
 
-- [[service-endpoint]]: la subred se identifica ante el servicio, pero el servicio sigue con IP
+- [Service endpoint](service-endpoint.md): la subred se identifica ante el servicio, pero el servicio sigue con IP
   pública y no se llega desde la red propia. El private endpoint da una IP privada real.
-- [[network-security-perimeter]]: limita el acceso público de varios PaaS como grupo, sin poner
+- [Network security perimeter](network-security-perimeter.md): limita el acceso público de varios PaaS como grupo, sin poner
   IPs en una VNet.
 
 ## Relaciones
 
-- Requiere: [[virtual-network-azure]] — la NIC vive en una subred.
-- Base de: [[dns-privado-para-private-link]] — sin DNS privado, el endpoint no se usa.
-- Relacionado: [[service-endpoint]] — la alternativa más vieja, sin IP privada.
-- Relacionado: [[network-security-perimeter]] — otra forma de cerrar el acceso público a un PaaS.
+- Requiere: [Virtual Network (Azure)](virtual-network-azure.md) — la NIC vive en una subred.
+- Base de: [DNS privado para Private Link](dns-privado-para-private-link.md) — sin DNS privado, el endpoint no se usa.
+- Relacionado: [Service endpoint](service-endpoint.md) — la alternativa más vieja, sin IP privada.
+- Relacionado: [Network security perimeter](network-security-perimeter.md) — otra forma de cerrar el acceso público a un PaaS.

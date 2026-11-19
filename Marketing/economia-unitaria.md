@@ -29,4 +29,4 @@ La economía unitaria mide si cada venta deja plata después de pagar lo que cos
 
 ## Relaciones
 
-- Relacionado: [[metrica-que-importa]] — es la métrica de la etapa de ingresos.
+- Relacionado: [Una métrica que importa por etapa](metrica-que-importa.md) — es la métrica de la etapa de ingresos.

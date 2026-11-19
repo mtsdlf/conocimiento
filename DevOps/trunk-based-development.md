@@ -29,7 +29,7 @@ En trunk-based development todos integran en una sola rama, el trunk, con ramas 
 
 Si nadie trabaja lejos del trunk, los merges son chicos y los conflictos aparecen el mismo día.
 DORA lo asocia, con datos de 2016 y 2017, a mejor desempeño de entrega. Es la base práctica de
-la [[integracion-continua]]: sin integrar seguido a una rama común no hay integración continua.
+la [Integración continua](integracion-continua.md): sin integrar seguido a una rama común no hay integración continua.
 
 ## Cómo funciona
 
@@ -42,7 +42,7 @@ la [[integracion-continua]]: sin integrar seguido a una rama común no hay integ
   integración aparte, porque el trunk ya está integrado todo el tiempo.
 - **Trabajo incompleto oculto**: lo que no está listo entra apagado detrás de un feature flag,
   un interruptor de configuración que activa o desactiva una funcionalidad sin redesplegar (ver
-  [[estrategias-de-despliegue]]).
+  [Estrategias de despliegue](estrategias-de-despliegue.md)).
   Para cambios largos se usa branch by abstraction: una capa intermedia permite reemplazar una
   implementación por partes, sin rama larga.
 - **Releases**: se publica desde el trunk, o desde una rama de release creada justo antes, que
@@ -56,11 +56,11 @@ corta. Producto prende el flag cuando la funcionalidad está completa.
 
 ## No confundir con
 
-[[gitflow]]: ahí `develop` y las ramas de release viven semanas, y la integración con `main` se
+[Gitflow](gitflow.md): ahí `develop` y las ramas de release viven semanas, y la integración con `main` se
 hace por lotes. En trunk-based la única rama de larga vida es el trunk.
 
 ## Relaciones
 
-- Parte de: [[estrategia-de-branching]] — una de las estrategias posibles.
-- Relacionado: [[gitflow]] — la estrategia opuesta, con ramas de larga vida.
-- Ver también: [[integracion-continua]] — la práctica que este modelo de ramas hace posible.
+- Parte de: [Estrategia de branching](estrategia-de-branching.md) — una de las estrategias posibles.
+- Relacionado: [Gitflow](gitflow.md) — la estrategia opuesta, con ramas de larga vida.
+- Ver también: [Integración continua](integracion-continua.md) — la práctica que este modelo de ramas hace posible.

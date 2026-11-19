@@ -40,7 +40,7 @@ Azure se hace con:
 
 - **La jerarquía**: una suscripción o un grupo de recursos por equipo o proyecto.
 - **Etiquetas** (`equipo`, `entorno`, `centro-de-costo`), obligadas al crear el recurso con
-  [[azure-policy]].
+  [Azure Policy](../azure-policy.md).
 - **Un criterio para lo compartido**: el hub de red o el clúster común se reparte por uso, en
   partes iguales o queda como costo de plataforma.
 
@@ -61,6 +61,6 @@ equipos. Se usan juntos.
 
 ## Relaciones
 
-- Parte de y requiere: [[que-es-finops]] — es una capacidad de la práctica.
-- Usa: [[azure-policy]] — obliga las etiquetas de las que depende la asignación.
-- Base de: [[costo-unitario]] — para dividir el costo de un servicio primero hay que saber cuál es.
+- Parte de y requiere: [FinOps](que-es-finops.md) — es una capacidad de la práctica.
+- Usa: [Azure Policy](../azure-policy.md) — obliga las etiquetas de las que depende la asignación.
+- Base de: [Costo unitario](costo-unitario.md) — para dividir el costo de un servicio primero hay que saber cuál es.

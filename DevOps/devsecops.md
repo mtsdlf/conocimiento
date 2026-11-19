@@ -60,14 +60,14 @@ corregida en el mismo PR, sin esperar una revisión externa.
 ## No confundir con
 
 **Un equipo DevSecOps**: crear un equipo con ese nombre que revisa todo al final repite el
-problema de siempre con otro nombre, igual que el [[anti-patron-equipo-devops]].
+problema de siempre con otro nombre, igual que el [Anti-patrón del equipo DevOps](../Platform-Engineering/anti-patron-equipo-devops.md).
 
 ## Relaciones
 
-- Requiere: [[pipeline-de-ci-cd]] — los controles de DevSecOps corren como etapas del pipeline.
-- Partes: [[seguridad-en-el-pipeline]] — los controles automáticos por etapa.
-- Partes: [[cadena-de-suministro-de-software]] — asegurar que el artefacto desplegado es el esperado.
-- Partes: [[gestion-de-secretos]] — credenciales fuera del código.
-- Partes: [[policy-as-code]] — las reglas de seguridad como código evaluable.
-- Relacionado: [[gitops]] — los PR de GitOps son donde se aplican los controles antes de desplegar.
-- Ver también: [[anti-patron-equipo-devops]] — el mismo error organizativo, aplicado a seguridad.
+- Requiere: [Pipeline de CI/CD](pipeline-de-ci-cd.md) — los controles de DevSecOps corren como etapas del pipeline.
+- Partes: [Seguridad en el pipeline](seguridad-en-el-pipeline.md) — los controles automáticos por etapa.
+- Partes: [Cadena de suministro de software](cadena-de-suministro-de-software.md) — asegurar que el artefacto desplegado es el esperado.
+- Partes: [Gestión de secretos](gestion-de-secretos.md) — credenciales fuera del código.
+- Partes: [Policy as code](policy-as-code.md) — las reglas de seguridad como código evaluable.
+- Relacionado: [GitOps](gitops.md) — los PR de GitOps son donde se aplican los controles antes de desplegar.
+- Ver también: [Anti-patrón del equipo DevOps](../Platform-Engineering/anti-patron-equipo-devops.md) — el mismo error organizativo, aplicado a seguridad.

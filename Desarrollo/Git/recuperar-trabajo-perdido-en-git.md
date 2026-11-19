@@ -31,7 +31,7 @@ Cómo deshacer un commit o recuperar uno perdido en Git con `restore`, `revert`,
 
 ## Antes de empezar
 
-- Entender que un branch es un puntero a un commit: [[branch-git]]. Casi toda recuperación es
+- Entender que un branch es un puntero a un commit: [Branch (Git)](branch-git.md). Casi toda recuperación es
   volver a apuntar un branch al commit correcto.
 - Lo que nunca se commiteó no está en el reflog: los cambios descartados con `git restore` o
   `git reset --hard` se pierden. Antes de esos comandos, `git stash` los guarda.
@@ -68,7 +68,7 @@ Cómo deshacer un commit o recuperar uno perdido en Git con `restore`, `revert`,
    No existe `git branch restore`: el comando es `git branch <nombre> <commit>`.
 4. **Si el reflog no lo muestra** (por ejemplo, un commit que nunca estuvo en HEAD de este clon),
    buscá commits sueltos con `git fsck --lost-found`, que los deja en `.git/lost-found/`, o traelo de otro clon o de un
-   [[mirror-de-git]].
+   [Mirror de Git](mirror-de-git.md).
 
 Hay plazo: por defecto, las entradas del reflog duran 90 días, o 30 si el commit ya no es
 alcanzable desde ningún branch (`gc.reflogExpire` y `gc.reflogExpireUnreachable`). Después,
@@ -81,6 +81,6 @@ inesperados.
 
 ## Relaciones
 
-- Requiere: [[branch-git]] — recuperar es mover o crear un puntero.
-- Ver también: [[index-de-git]] — los tres lugares entre los que se mueven `restore` y `reset`.
-- Ver también: [[rebase]] — la causa más común de commits "perdidos".
+- Requiere: [Branch (Git)](branch-git.md) — recuperar es mover o crear un puntero.
+- Ver también: [Index de Git](index-de-git.md) — los tres lugares entre los que se mueven `restore` y `reset`.
+- Ver también: [Rebase](rebase.md) — la causa más común de commits "perdidos".

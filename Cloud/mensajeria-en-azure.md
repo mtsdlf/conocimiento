@@ -62,5 +62,5 @@ versionado. No guarda mensajes.
 
 ## Relaciones
 
-- La usa: [[arquitecturas-de-referencia-en-azure]] — el patrón por eventos combina los tres.
-- La usa: [[azure-functions]] — los tres son disparadores comunes de una función.
+- La usa: [Arquitecturas de referencia en Azure](arquitecturas-de-referencia-en-azure.md) — el patrón por eventos combina los tres.
+- La usa: [Azure Functions](azure-functions.md) — los tres son disparadores comunes de una función.

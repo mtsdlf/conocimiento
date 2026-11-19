@@ -34,7 +34,7 @@ throughput y dos de inestabilidad.
 Medir velocidad sola empuja a desplegar sin cuidado; medir estabilidad sola empuja a no
 desplegar. DORA mide las dos juntas, y su investigación encuentra que los equipos con mejor
 desempeño mejoran en ambas a la vez. Es la forma habitual de medir la dimensión Measurement de
-[[calms]].
+[CALMS](calms.md).
 
 ## Cómo funciona
 
@@ -58,20 +58,20 @@ hotfix o un parche fuera de lo planificado.
 ## Ejemplo
 
 Un equipo despliega una vez por semana, con lead time de 6 días y 1 de cada 4 despliegues con
-rollback. El [[flujo-de-valor]] muestra que 5 de esos 6 días son esperas de aprobación: achicar
+rollback. El [Flujo de valor](flujo-de-valor.md) muestra que 5 de esos 6 días son esperas de aprobación: achicar
 esa espera mejora el lead time sin tocar el pipeline.
 
 ## No confundir con
 
 Un SLO. Las métricas DORA miden el proceso de entrega; un SLO fija un objetivo de confiabilidad
 del servicio (por ejemplo, el 99 % de las peticiones en menos de 200 ms), medido sobre un SLI,
-que es el indicador en sí (la latencia). Eso es parte de la [[observabilidad]]. Tampoco son una
+que es el indicador en sí (la latencia). Eso es parte de la [Observabilidad](../Platform-Engineering/observabilidad.md). Tampoco son una
 meta para comparar equipos entre sí: DORA las propone para que cada equipo mejore contra sí
 mismo.
 
 ## Relaciones
 
-- Relacionado: [[calms]] — DORA mide la dimensión Measurement.
-- Relacionado: [[flujo-de-valor]] — explica dónde se va el lead time que DORA mide.
-- Ver también: [[observabilidad]] — donde se definen SLI y SLO.
-- Ver también: [[developer-experience]] — mide al desarrollador; DORA mide la entrega.
+- Relacionado: [CALMS](calms.md) — DORA mide la dimensión Measurement.
+- Relacionado: [Flujo de valor](flujo-de-valor.md) — explica dónde se va el lead time que DORA mide.
+- Ver también: [Observabilidad](../Platform-Engineering/observabilidad.md) — donde se definen SLI y SLO.
+- Ver también: [Developer experience](../Platform-Engineering/developer-experience.md) — mide al desarrollador; DORA mide la entrega.

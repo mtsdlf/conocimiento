@@ -34,7 +34,7 @@ Elegir entre sustrato suelto (arena, tierra) y sólido (papel, pizarra, alfombra
 
 | | Suelto (tierra y arena) | Sólido (arcilla que endurece, pizarra, alfombra, papel) |
 |---|---|---|
-| Riesgo | Ingestión e [[impactacion|impactación]] | Menor riesgo de ingestión |
+| Riesgo | Ingestión e [impactación](impactacion.md) | Menor riesgo de ingestión |
 | Respaldo | Criadores; usado sin problemas en estudios que no medían impactación | Veterinaria y RSPCA, por precaución |
 | Limitación | Sin estudio que aísle el sustrato como causa | La toalla de papel se asoció a enfermedad ocular |
 
@@ -49,11 +49,11 @@ Elegir entre sustrato suelto (arena, tierra) y sólido (papel, pizarra, alfombra
 > [!IMPORTANT]
 > Disputado: si la arena impacta. Posición "sólido": la RSPCA evita sustratos sueltos no naturales por riesgo de impactación; Merck dice que grava y guijarros "often ingested, leading to potential GI tract obstruction"; un reporte de caso (Vet Times) describe un macho de 4 años que necesitó cirugía por abundante arena, con mal calor, sin UV y mal suplementado, sin atribuir causa. Posición "suelto": ReptiFiles (criadores, sin estudios) dice que el suelto "can actually be the best kind" en un animal sano tras cuarentena, y que la impactación casi siempre es mal manejo. Los estudios de Oonincx y Rickman usaron arena sin reportar problemas, pero no medían impactación. No hay estudio que compare sustratos en la especie.
 
-Matiz del lado sólido: en la serie de UC Davis, la toalla de papel se asoció a enfermedad ocular (OR 8,89; IC 95 % 2,29–34,43). Los autores no pueden separar causa de selección, porque los animales enfermos suelen estar sobre papel. Ver [[problemas-oculares|problemas oculares]].
+Matiz del lado sólido: en la serie de UC Davis, la toalla de papel se asoció a enfermedad ocular (OR 8,89; IC 95 % 2,29–34,43). Los autores no pueden separar causa de selección, porque los animales enfermos suelen estar sobre papel. Ver [problemas oculares](problemas-oculares.md).
 
 > [!NOTE]
 > Sin fuente todavía: un estudio controlado de sustratos en geckos leopardo. Un retrospectivo de 529 dragones barbudos se citó en un blog y no se abrió; no es de la especie.
 
 ## Relaciones
 
-- Relacionado: [[impactacion|impactación]] — la falla que el sustrato suelto puede causar.
+- Relacionado: [impactación](impactacion.md) — la falla que el sustrato suelto puede causar.

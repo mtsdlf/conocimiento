@@ -65,12 +65,12 @@ servicio en un archivo.
 
 ## No confundir con
 
-[[azure-policy]]: RBAC decide quién puede hacer algo; Policy decide cómo tiene que quedar el
+[Azure Policy](azure-policy.md): RBAC decide quién puede hacer algo; Policy decide cómo tiene que quedar el
 recurso, sin importar quién lo haga.
 
 ## Relaciones
 
-- La usa: [[azure-landing-zone]] — identidad y acceso es una de sus áreas de diseño.
-- La usa: [[landing-zone-con-terraform]] — el pipeline entra a Azure por OIDC.
-- En otro Tema: [[gestion-de-secretos]] — secretos fuera del código en general;
-  [[desplegar-en-aks-con-azure-pipelines]] — una service connection con federación de identidad.
+- La usa: [Azure landing zone](azure-landing-zone.md) — identidad y acceso es una de sus áreas de diseño.
+- La usa: [Landing zone con Terraform](landing-zone-con-terraform.md) — el pipeline entra a Azure por OIDC.
+- En otro Tema: [Gestión de secretos](../DevOps/gestion-de-secretos.md) — secretos fuera del código en general;
+  [Desplegar en AKS con Azure Pipelines](../DevOps/desplegar-en-aks-con-azure-pipelines.md) — una service connection con federación de identidad.

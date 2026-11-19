@@ -40,12 +40,12 @@ medición y compartir. Según Atlassian, Jez Humble sumó la L de Lean y acuñó
 |---|---|
 | **Culture** | Colaboración entre desarrollo, operaciones, QA y seguridad; responsabilidad compartida. |
 | **Automation** | Integración y entrega continuas, infraestructura como código, pruebas automáticas. |
-| **Lean** | Lotes chicos, límite al trabajo en curso y eliminación de esperas en el [[flujo-de-valor]]. |
-| **Measurement** | Datos sobre la entrega y la operación, como las [[metricas-dora]]. |
+| **Lean** | Lotes chicos, límite al trabajo en curso y eliminación de esperas en el [Flujo de valor](flujo-de-valor.md). |
+| **Measurement** | Datos sobre la entrega y la operación, como las [Métricas DORA](metricas-dora.md). |
 | **Sharing** | Conocimiento abierto, documentación y aprendizaje después de cada incidente. |
 
 Willis pone la cultura primero: sin ella, "todo intento de automatización será infructuoso". La
-dimensión Sharing cierra el ciclo, y su práctica más visible es el [[postmortem-sin-culpa]].
+dimensión Sharing cierra el ciclo, y su práctica más visible es el [Postmortem sin culpa](postmortem-sin-culpa.md).
 
 Para evaluar, se suele ubicar a cada equipo en un nivel de madurez por dimensión (por ejemplo:
 inicial, gestionado, definido, medido y optimizado). Esos niveles son una escala de apoyo y no
@@ -61,12 +61,12 @@ CALMS muestra que el cuello de botella no es la herramienta sino el proceso.
 ## No confundir con
 
 Un modelo de equipos. CALMS describe prácticas, no cómo organizar a las personas; eso lo cubre
-[[team-topologies]]. Crear un "equipo DevOps" aparte no cumple ninguna dimensión: es el
-[[anti-patron-equipo-devops]].
+[Team Topologies](../Platform-Engineering/team-topologies.md). Crear un "equipo DevOps" aparte no cumple ninguna dimensión: es el
+[Anti-patrón del equipo DevOps](../Platform-Engineering/anti-patron-equipo-devops.md).
 
 ## Relaciones
 
-- Relacionado: [[flujo-de-valor]] — es lo que mira la dimensión Lean.
-- Relacionado: [[metricas-dora]] — la forma estándar de medir la dimensión Measurement.
-- Relacionado: [[postmortem-sin-culpa]] — la práctica central de Culture y Sharing.
-- Ver también: [[team-topologies]] — el modelo de equipos que complementa a CALMS.
+- Relacionado: [Flujo de valor](flujo-de-valor.md) — es lo que mira la dimensión Lean.
+- Relacionado: [Métricas DORA](metricas-dora.md) — la forma estándar de medir la dimensión Measurement.
+- Relacionado: [Postmortem sin culpa](postmortem-sin-culpa.md) — la práctica central de Culture y Sharing.
+- Ver también: [Team Topologies](../Platform-Engineering/team-topologies.md) — el modelo de equipos que complementa a CALMS.

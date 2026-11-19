@@ -31,7 +31,7 @@ idioma: es
 Obstrucción del tubo digestivo por material ingerido, sobre todo sustrato; la causa real (el sustrato o el manejo) es un debate abierto sin estudio controlado.
 
 > [!NOTE]
-> La base no es consejo veterinario. Un gecko que sospechás impactado necesita [[cuando-llevar-el-gecko-al-veterinario|veterinario de exóticos]], no remedios caseros.
+> La base no es consejo veterinario. Un gecko que sospechás impactado necesita [veterinario de exóticos](cuando-llevar-el-gecko-al-veterinario.md), no remedios caseros.
 
 ## Cómo se reconoce
 
@@ -39,21 +39,21 @@ Un resumen de buscador de una referencia veterinaria (Vetlexicon, sin abrir) dic
 
 ## Por qué pasa
 
-La misma referencia dice que leopardos y dragones barbudos "ingieren comúnmente" sustrato, y que la impactación también se asocia a deshidratación, frío y enfermedad metabólica ósea. De ahí que dependa del [[calor-por-contacto|calor por contacto]]: un animal frío digiere peor. Un artículo clínico veterinario (Vet Times, 2011) advierte que la arena puede impactar "si se ingiere con la comida". Merck aconseja no usar grava ni guijarros en terrestres porque se ingieren y pueden obstruir.
+La misma referencia dice que leopardos y dragones barbudos "ingieren comúnmente" sustrato, y que la impactación también se asocia a deshidratación, frío y enfermedad metabólica ósea. De ahí que dependa del [calor por contacto](calor-por-contacto.md): un animal frío digiere peor. Un artículo clínico veterinario (Vet Times, 2011) advierte que la arena puede impactar "si se ingiere con la comida". Merck aconseja no usar grava ni guijarros en terrestres porque se ingieren y pueden obstruir.
 
 > [!IMPORTANT]
 > Disputado: si el sustrato suelto es la causa.
 > - Posición veterinaria: evitar partículas sueltas. La RSPCA desaconseja calcisand y virutas de haya y propone arcilla que endurece, pizarra o alfombra; Vet Times recomienda papel para juveniles y cuarentena y evitar alfombra de bucle y partículas grandes.
 > - Posición de criadores: ReptiFiles (secundaria, sin citas) afirma que la impactación "casi siempre" la causa el mal manejo y que el suelto puede ser seguro en un animal sano que pasó cuarentena.
-> - Lo que falta: ningún estudio controlado aísla el sustrato como causa. El análisis de la elección está en [[sustrato-suelto-o-solido|sustrato suelto o sólido]].
+> - Lo que falta: ningún estudio controlado aísla el sustrato como causa. El análisis de la elección está en [sustrato suelto o sólido](sustrato-suelto-o-solido.md).
 
 ## Qué hacer
 
 - Prevención citada: comederos profundos y alimentar en un recipiente aparte (Vet Times, RSPCA).
-- Mantener el gradiente de temperatura (ver [[calor-por-contacto|calor por contacto]]).
+- Mantener el gradiente de temperatura (ver [calor por contacto](calor-por-contacto.md)).
 - Los argumentos de un lado y otro son clínicos o de aficionados; el sustrato es una decisión con riesgo, no un mito resuelto.
 
 ## Relaciones
 
-- Requiere: [[calor-por-contacto|calor por contacto]] — el frío figura entre los factores asociados.
-- Relacionado: [[sustrato-suelto-o-solido|sustrato suelto o sólido]] — la elección que más se discute a partir de esta falla.
+- Requiere: [calor por contacto](calor-por-contacto.md) — el frío figura entre los factores asociados.
+- Relacionado: [sustrato suelto o sólido](sustrato-suelto-o-solido.md) — la elección que más se discute a partir de esta falla.

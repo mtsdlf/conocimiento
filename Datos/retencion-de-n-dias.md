@@ -43,7 +43,7 @@ separado.
 ## Limitaciones
 
 - En productos de uso esporádico (viajes, impuestos) da números cercanos a cero aunque el
-  cliente siga ahí. En esos casos conviene la [[retencion-unbounded|retención unbounded]] o un
+  cliente siga ahí. En esos casos conviene la [retención unbounded](retencion-unbounded.md) o un
   rango de días ("días 8 a 14").
 - Qué es "un día" depende de la herramienta: 24 horas desde la entrada de cada usuario, o el día
   de calendario en la zona horaria del proyecto.
@@ -51,7 +51,7 @@ separado.
 ## Dónde se calcula
 
 En Amplitude y PostHog es la opción por defecto; en GA4 corresponde al cálculo "estándar". Los
-nombres exactos están en [[cohortes-en-herramientas-de-analitica]].
+nombres exactos están en [Cohortes en herramientas de analítica](cohortes-en-herramientas-de-analitica.md).
 
 ## Contexto para agentes
 
@@ -61,6 +61,6 @@ nombres exactos están en [[cohortes-en-herramientas-de-analitica]].
 
 ## Relaciones
 
-- Parte de: [[tasa-de-retencion-por-cohorte]] — es una de sus dos formas de contar el retorno.
-- Requiere: [[tasa-de-retencion-por-cohorte]] — da por sabidos la fórmula y el denominador.
-- Relacionado: [[retencion-unbounded]] — la otra forma de contar; da números más altos.
+- Parte de: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — es una de sus dos formas de contar el retorno.
+- Requiere: [Tasa de retención por cohorte](tasa-de-retencion-por-cohorte.md) — da por sabidos la fórmula y el denominador.
+- Relacionado: [Retención unbounded](retencion-unbounded.md) — la otra forma de contar; da números más altos.

@@ -29,7 +29,7 @@ salientes por agotamiento de puertos.
 ## Por qué importa
 
 Desde marzo de 2026, las subredes de las VNets nuevas son privadas por defecto: sin un método de
-salida explícito, una VM no llega a internet (ver [[virtual-network-azure]]). Microsoft recomienda
+salida explícito, una VM no llega a internet (ver [Virtual Network (Azure)](virtual-network-azure.md)). Microsoft recomienda
 NAT Gateway para la mayoría de los casos. Además, una IP de salida fija es lo que pide un tercero
 para poner a la aplicación en su lista de IPs permitidas.
 
@@ -62,6 +62,6 @@ alcanza la NAT Gateway.
 
 ## Relaciones
 
-- Requiere: [[virtual-network-azure]] — se asocia a sus subredes.
-- La usa: [[topologia-hub-and-spoke]] — una NAT por spoke es la salida más barata.
-- La usa: [[verificar-conectividad-privada-en-azure]] — el paso que comprueba la IP de salida.
+- Requiere: [Virtual Network (Azure)](virtual-network-azure.md) — se asocia a sus subredes.
+- La usa: [Topología hub-and-spoke](topologia-hub-and-spoke.md) — una NAT por spoke es la salida más barata.
+- La usa: [Verificar la conectividad privada en Azure](verificar-conectividad-privada-en-azure.md) — el paso que comprueba la IP de salida.

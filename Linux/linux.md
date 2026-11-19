@@ -18,30 +18,30 @@ parte_de: [conocimiento]
 Cómo está hecho y cómo se administra un sistema Linux: arquitectura, arranque, servicios,
 sistema de archivos y la terminal; para quien estudia administración de sistemas.
 
-Para aprenderlo en orden: [[recorrido-linux-por-dentro]].
+Para aprenderlo en orden: [Linux por dentro](recorrido-linux-por-dentro.md).
 
 ## Cómo está hecho
 
-- [[arquitectura-de-linux]] — las capas del sistema y la frontera entre kernel y espacio de usuario; la puerta de entrada al Tema.
-- [[llamada-al-sistema]] — cómo un programa le pide algo al kernel; leerla después de la arquitectura.
-- [[daemon]] — qué son los procesos de fondo y qué servicios del sistema prestan.
-- [[pseudo-sistema-de-archivos]] — cómo `/proc`, `/sys` y `/dev` exponen el kernel como archivos y cómo se ajusta el kernel en vivo.
+- [Arquitectura de Linux](arquitectura-de-linux.md) — las capas del sistema y la frontera entre kernel y espacio de usuario; la puerta de entrada al Tema.
+- [Llamada al sistema](llamada-al-sistema.md) — cómo un programa le pide algo al kernel; leerla después de la arquitectura.
+- [Daemon](daemon.md) — qué son los procesos de fondo y qué servicios del sistema prestan.
+- [Pseudo-sistema de archivos](pseudo-sistema-de-archivos.md) — cómo `/proc`, `/sys` y `/dev` exponen el kernel como archivos y cómo se ajusta el kernel en vivo.
 
 ## Arranque y servicios
 
-- [[arranque-de-linux]] — qué pasa desde que se prende la máquina hasta el login.
-- [[systemd]] — cómo el sistema de init arranca, supervisa y registra los servicios.
+- [Arranque de Linux](arranque-de-linux.md) — qué pasa desde que se prende la máquina hasta el login.
+- [systemd](systemd.md) — cómo el sistema de init arranca, supervisa y registra los servicios.
 
 ## La terminal
 
-- [[pipe-y-redireccion]] — cómo se combinan comandos chicos conectando sus flujos de entrada y salida.
+- [Pipe y redirección](pipe-y-redireccion.md) — cómo se combinan comandos chicos conectando sus flujos de entrada y salida.
 
 ## Para consultar
 
-- [[fhs]] — qué va en cada directorio del sistema y dónde están los logs y los archivos de usuarios.
-- [[comandos-de-linux]] — los comandos de administración agrupados por función y por familia de distro.
-- [[recetas-de-pipes]] — combinaciones de pipes listas para copiar.
-- [[plan-de-estudio-de-linux]] — el plan de seis meses, con la práctica y el mini-proyecto de cada mes.
+- [FHS](fhs.md) — qué va en cada directorio del sistema y dónde están los logs y los archivos de usuarios.
+- [Comandos de Linux](comandos-de-linux.md) — los comandos de administración agrupados por función y por familia de distro.
+- [Recetas de pipes](recetas-de-pipes.md) — combinaciones de pipes listas para copiar.
+- [Plan de estudio de Linux](plan-de-estudio-de-linux.md) — el plan de seis meses, con la práctica y el mini-proyecto de cada mes.
 
 ## Pendiente
 

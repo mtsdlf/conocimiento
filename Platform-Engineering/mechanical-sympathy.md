@@ -41,7 +41,7 @@ sistemas mecánicos del auto y maneja de forma que saque lo mejor de ellos, sin 
 que los diseña. Martin Thompson lo llevó al software en 2011: escribir código que trabaje con el
 hardware y no contra él.
 
-En una plataforma, la tensión es con la reducción de [[carga-cognitiva]]. Un [[golden-path]]
+En una plataforma, la tensión es con la reducción de [Carga cognitiva](carga-cognitiva.md). Un [Golden path](golden-path.md)
 puede ahorrarle al desarrollador aprender Kubernetes para su primer despliegue. Lo que no
 conviene es que le impida ver después qué pasa abajo: los manifiestos generados, los límites de
 recursos, las métricas del pod. Como inferencia: la plataforma reduce lo que hay que saber para
@@ -60,5 +60,5 @@ el código usa, no construirlo ni mantenerlo: el piloto no arma el motor.
 
 ## Relaciones
 
-- Requiere: [[golden-path]] — es el límite de lo que un golden path debe ocultar.
-- Relacionado: [[carga-cognitiva]] — reducir carga sin esconder lo que el desarrollador necesita entender.
+- Requiere: [Golden path](golden-path.md) — es el límite de lo que un golden path debe ocultar.
+- Relacionado: [Carga cognitiva](carga-cognitiva.md) — reducir carga sin esconder lo que el desarrollador necesita entender.

@@ -66,12 +66,12 @@ equipo agrega el apagado nocturno a su pipeline.
 ## No confundir con
 
 Recortar costos. FinOps busca el mayor valor por lo que se gasta: gastar más puede estar bien si
-el ingreso crece más rápido, y eso lo mide el [[costo-unitario]].
+el ingreso crece más rápido, y eso lo mide el [Costo unitario](costo-unitario.md).
 
 ## Relaciones
 
-- Detallada en: [[ciclo-de-vida-finops]] — las fases y la madurez de la práctica.
-- Base de: [[showback-y-chargeback]], [[costo-unitario]] y [[optimizacion-de-costos-en-azure]].
-- En otro Tema: [[plataforma-como-producto]] — el costo de cada capacidad de la
-  plataforma es un dato más para su dueño; [[gobernanza-de-plataforma]] — presupuestos y
+- Detallada en: [Ciclo de vida de FinOps](ciclo-de-vida-finops.md) — las fases y la madurez de la práctica.
+- Base de: [Showback y chargeback](showback-y-chargeback.md), [Costo unitario](costo-unitario.md) y [Optimización de costos en Azure](optimizacion-de-costos-en-azure.md).
+- En otro Tema: [Plataforma como producto](../../Platform-Engineering/plataforma-como-producto.md) — el costo de cada capacidad de la
+  plataforma es un dato más para su dueño; [Gobernanza de plataforma](../../Platform-Engineering/gobernanza-de-plataforma.md) — presupuestos y
   etiquetas obligatorias como límites del self-service.

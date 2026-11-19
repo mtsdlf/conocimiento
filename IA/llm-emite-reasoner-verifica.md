@@ -38,7 +38,7 @@ de un verificador externo y correcto.
 1. El LLM traduce su respuesta a afirmaciones estructuradas (tripletas sujeto–propiedad–objeto
    o hechos tipados).
 2. Esas afirmaciones se suman a la ontología del dominio.
-3. Un reasoner busca inconsistencias (ver [[inferencia-rdfs-y-owl]]).
+3. Un reasoner busca inconsistencias (ver [Inferencia en RDFS y OWL](inferencia-rdfs-y-owl.md)).
 4. Según el resultado y el costo del error, el sistema emite un veredicto:
    - **marcar**: la afirmación pasa con una advertencia para revisión humana; sirve cuando el
      chequeo es dudoso o el error es barato;
@@ -70,5 +70,5 @@ emitió no cuenta como error.
 
 ## Relaciones
 
-- Parte de y requiere: [[guardrails]] — es su capa de ontología, la última de la pila.
-- Requiere: [[inferencia-rdfs-y-owl]] — qué puede deducir y qué no un reasoner.
+- Parte de y requiere: [Guardrails de LLM](guardrails.md) — es su capa de ontología, la última de la pila.
+- Requiere: [Inferencia en RDFS y OWL](inferencia-rdfs-y-owl.md) — qué puede deducir y qué no un reasoner.

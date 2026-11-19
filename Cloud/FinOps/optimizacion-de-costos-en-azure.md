@@ -33,7 +33,7 @@ el egreso y los logs.
 
 ## Por qué importa
 
-Es la fase Optimize del ciclo de [[que-es-finops]] aplicada a Azure. El orden importa: comprometer
+Es la fase Optimize del ciclo de [FinOps](que-es-finops.md) aplicada a Azure. El orden importa: comprometer
 uso con una reserva antes de ajustar el tamaño congela por años un gasto que sobraba.
 
 ## Cómo funciona
@@ -51,7 +51,7 @@ La FinOps Foundation separa dos familias: optimizar el **uso** (consumir menos) 
 - **Red**: el egreso a internet y entre regiones se cobra por GB; la caché de Front Door lo baja,
   y los private endpoints cobran por hora y por GB procesado.
 - **Logs**: retención corta, tablas Basic o Auxiliary para lo ruidoso, sampling (ver
-  [[azure-monitor]]).
+  [Azure Monitor](../azure-monitor.md)).
 
 **Tarifa**
 
@@ -74,11 +74,11 @@ cubierto capacidad que sobraba.
 ## No confundir con
 
 Recortar sin mirar el valor: bajar una base a un tamaño que rompe el SLO de latencia ahorra en la
-factura y pierde en el negocio. El [[costo-unitario]] muestra si la optimización mejoró la
+factura y pierde en el negocio. El [Costo unitario](costo-unitario.md) muestra si la optimización mejoró la
 eficiencia.
 
 ## Relaciones
 
-- Requiere: [[que-es-finops]] — es la fase Optimize de la práctica.
-- Usa: [[azure-monitor]] — los logs son una de las palancas.
-- Se mide con: [[costo-unitario]] — si el costo por unidad bajó.
+- Requiere: [FinOps](que-es-finops.md) — es la fase Optimize de la práctica.
+- Usa: [Azure Monitor](../azure-monitor.md) — los logs son una de las palancas.
+- Se mide con: [Costo unitario](costo-unitario.md) — si el costo por unidad bajó.

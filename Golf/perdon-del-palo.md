@@ -54,9 +54,9 @@ descentrado, la pelota sale bastante más corta.
 ## No confundir con
 
 Perdón y distancia: un palo perdonador no hace pegar más lejos el golpe perfecto, sino que
-achica la pérdida del golpe malo. Lo que agrega distancia es el [[loft]] más bajo.
+achica la pérdida del golpe malo. Lo que agrega distancia es el [Loft](loft.md) más bajo.
 
 ## Relaciones
 
-- Requiere: [[palo-de-golf]] — habla del diseño de la cabeza.
-- Relacionado: [[tipos-de-putter]] — el mismo principio separa a un putter mallet de un blade.
+- Requiere: [Palo de golf](palo-de-golf.md) — habla del diseño de la cabeza.
+- Relacionado: [Tipos de putter](tipos-de-putter.md) — el mismo principio separa a un putter mallet de un blade.

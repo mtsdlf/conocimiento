@@ -28,7 +28,7 @@ región o entre regiones, para que se vean como una sola red; no es transitivo.
 ## Por qué importa
 
 Es la forma más simple de unir redes en Azure: sin gateways, sin cifrado y sin cortar el servicio
-al crearlo. Es la pieza de la [[topologia-hub-and-spoke]], donde cada spoke se une al hub.
+al crearlo. Es la pieza de la [Topología hub-and-spoke](topologia-hub-and-spoke.md), donde cada spoke se une al hub.
 
 ## Cómo funciona
 
@@ -36,11 +36,11 @@ al crearlo. Es la pieza de la [[topologia-hub-and-spoke]], donde cada spoke se u
   entre suscripciones y entre tenants de Entra ID.
 - **Dos lados**: el peering se crea en cada VNet; hasta que existen los dos, no hay tráfico.
 - **No transitivo**: si A está peereada con B y B con C, A no llega a C. Para pasar por B hace
-  falta un firewall o un NVA en B y una UDR (ver [[ruteo-en-azure]]).
+  falta un firewall o un NVA en B y una UDR (ver [Ruteo en Azure](ruteo-en-azure.md)).
 - **Requisito**: los espacios de direcciones no se pueden superponer.
 - **Gateway transit**: un spoke puede usar el VPN Gateway o el de ExpressRoute del hub para llegar
   a la red propia (opción *use remote gateways*). Una VNet tiene un solo gateway: el propio o el
-  remoto (ver [[conectividad-hibrida-azure]]).
+  remoto (ver [Conectividad híbrida en Azure](conectividad-hibrida-azure.md)).
 - **Precio**: crear el peering es gratis, pero se cobra el tráfico de entrada y de salida por el peering,
   más caro entre regiones.
 - **Subnet peering**: conecta solo algunas subredes de cada VNet en lugar del espacio entero.
@@ -63,6 +63,6 @@ más. Si existen las dos, el tráfico va por el peering.
 
 ## Relaciones
 
-- Requiere: [[virtual-network-azure]] — conecta dos de ellas.
-- Base de: [[topologia-hub-and-spoke]] — cada spoke se une al hub por peering.
-- La usa: [[conectividad-hibrida-azure]] — gateway transit pasa por el peering.
+- Requiere: [Virtual Network (Azure)](virtual-network-azure.md) — conecta dos de ellas.
+- Base de: [Topología hub-and-spoke](topologia-hub-and-spoke.md) — cada spoke se une al hub por peering.
+- La usa: [Conectividad híbrida en Azure](conectividad-hibrida-azure.md) — gateway transit pasa por el peering.

@@ -42,9 +42,9 @@ quedarse en el menú de GRUB (gestor de arranque) que en una consola de emergenc
    archivos en memoria. Ese sistema mínimo trae los drivers y las herramientas para encontrar y
    montar el disco raíz real, aunque esté cifrado o en LVM.
 4. **Cambio de raíz y PID 1**: montado el disco raíz, se pasa a él y se ejecuta el primer proceso
-   del sistema, el **init** (PID 1). En la mayoría de las distribuciones es [[systemd]].
+   del sistema, el **init** (PID 1). En la mayoría de las distribuciones es [systemd](systemd.md).
 5. **Servicios**: init monta los sistemas de archivos de `/etc/fstab`, configura nombre y red, y
-   arranca los [[daemon]] habilitados.
+   arranca los [Daemon](daemon.md) habilitados.
 6. **Login**: init lanza `getty` en las consolas o un gestor de pantalla. Al entrar, el shell lee
    sus archivos de inicio (`~/.profile`, `~/.bashrc`).
 
@@ -62,5 +62,5 @@ arranque es la secuencia que lleva de la máquina apagada al sistema en funciona
 
 ## Relaciones
 
-- Requiere: [[arquitectura-de-linux]] — la secuencia levanta primero el kernel y después el espacio de usuario.
-- Base de: [[systemd]] — el init que toma el control en el paso 4.
+- Requiere: [Arquitectura de Linux](arquitectura-de-linux.md) — la secuencia levanta primero el kernel y después el espacio de usuario.
+- Base de: [systemd](systemd.md) — el init que toma el control en el paso 4.

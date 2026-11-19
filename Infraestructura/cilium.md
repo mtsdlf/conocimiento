@@ -67,6 +67,6 @@ Cilium puede convivir con kube-proxy (`kubeProxyReplacement: false`) y seguir si
 
 ## Relaciones
 
-- Relacionado: [[default-deny-de-red-en-kubernetes]] — Cilium es quien aplica las políticas de red.
-- La usa: [[desplegar-kubernetes-con-kubespray]] — Kubespray instala Cilium como CNI.
-- Detallado por: [[kubespray-variables-cilium]] — las variables de Kubespray para estos modos.
+- Relacionado: [Default-deny de red en Kubernetes](default-deny-de-red-en-kubernetes.md) — Cilium es quien aplica las políticas de red.
+- La usa: [Desplegar Kubernetes con Kubespray](desplegar-kubernetes-con-kubespray.md) — Kubespray instala Cilium como CNI.
+- Detallado por: [Variables de Cilium en Kubespray](kubespray-variables-cilium.md) — las variables de Kubespray para estos modos.

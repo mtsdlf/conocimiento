@@ -25,10 +25,10 @@ Casi todo su cuidado sale de una sola idea: es un animal que no fabrica su propi
 
 ## Por dónde entrar
 
-- **Para entender el cuidado**: leé en orden los conceptos umbral de abajo, después [[armar-el-terrario|armar el terrario]] y [[alimentar-y-suplementar|alimentar y suplementar]].
-- **Para operar el día a día**: [[revisar-pesar-y-registrar|revisar, pesar y registrar]] y [[valores-de-referencia-gecko|valores de referencia]].
-- **Para decidir**: [[sustrato-suelto-o-solido|sustrato suelto o sólido]], [[uvb-si-o-no|UVB sí o no]] y [[temperatura-del-punto-caliente|temperatura del punto caliente]].
-- **Si algo anda mal**: [[cuando-llevar-el-gecko-al-veterinario|cuándo ir al veterinario]] primero, después la falla que corresponda.
+- **Para entender el cuidado**: leé en orden los conceptos umbral de abajo, después [armar el terrario](armar-el-terrario.md) y [alimentar y suplementar](alimentar-y-suplementar.md).
+- **Para operar el día a día**: [revisar, pesar y registrar](revisar-pesar-y-registrar.md) y [valores de referencia](valores-de-referencia-gecko.md).
+- **Para decidir**: [sustrato suelto o sólido](sustrato-suelto-o-solido.md), [UVB sí o no](uvb-si-o-no.md) y [temperatura del punto caliente](temperatura-del-punto-caliente.md).
+- **Si algo anda mal**: [cuándo ir al veterinario](cuando-llevar-el-gecko-al-veterinario.md) primero, después la falla que corresponda.
 
 ## Conceptos umbral
 
@@ -42,56 +42,56 @@ flowchart LR
   C -->|permite digerir y crecer, que llena la| K
 ```
 
-- [[termorregulacion-conductual|Termorregulación conductual]] — por qué necesita un gradiente y no una temperatura fija.
-- [[calor-por-contacto|Calor por contacto]] — por qué importa la temperatura del piso más que la del aire.
-- [[humedad-localizada|Humedad localizada]] — por qué un animal de zonas secas necesita un refugio húmedo.
-- [[calcio-y-vitamina-d3|Calcio y vitamina D3]] — de dónde saca lo que sus huesos necesitan.
-- [[cola-del-gecko|Cola]] — dónde guarda reservas y cómo se lee su estado.
+- [Termorregulación conductual](termorregulacion-conductual.md) — por qué necesita un gradiente y no una temperatura fija.
+- [Calor por contacto](calor-por-contacto.md) — por qué importa la temperatura del piso más que la del aire.
+- [Humedad localizada](humedad-localizada.md) — por qué un animal de zonas secas necesita un refugio húmedo.
+- [Calcio y vitamina D3](calcio-y-vitamina-d3.md) — de dónde saca lo que sus huesos necesitan.
+- [Cola](cola-del-gecko.md) — dónde guarda reservas y cómo se lee su estado.
 
 ## Qué es
 
-- [[eublepharis-macularius|Gecko leopardo]] — qué animal es, de dónde viene y en qué se diferencia de otros geckos.
-- [[del-salt-range-al-terrario|Del Salt Range al terrario]] — cómo pasó de las zonas áridas de Pakistán a los terrarios del mundo.
+- [Gecko leopardo](eublepharis-macularius.md) — qué animal es, de dónde viene y en qué se diferencia de otros geckos.
+- [Del Salt Range al terrario](del-salt-range-al-terrario.md) — cómo pasó de las zonas áridas de Pakistán a los terrarios del mundo.
 
 ## Cómo funciona
 
-- [[actividad-crepuscular|Actividad crepuscular]] — qué significa ser activo al anochecer para la luz y el UVB.
+- [Actividad crepuscular](actividad-crepuscular.md) — qué significa ser activo al anochecer para la luz y el UVB.
 
 ## Su cuerpo y su vida
 
-- [[autotomia|Autotomía]] — cómo suelta la cola y qué pasa después.
-- [[muda-del-gecko|Muda]] — cada cuánto cambia la piel y qué la complica.
-- [[crecimiento-del-gecko|Crecimiento]] — de cría a adulto, sexado y longevidad.
-- [[brumacion|Brumación]] — el letargo de invierno: criadores lo inducen y una hoja veterinaria, sin verificar, lo lee como alarma.
+- [Autotomía](autotomia.md) — cómo suelta la cola y qué pasa después.
+- [Muda](muda-del-gecko.md) — cada cuánto cambia la piel y qué la complica.
+- [Crecimiento](crecimiento-del-gecko.md) — de cría a adulto, sexado y longevidad.
+- [Brumación](brumacion.md) — el letargo de invierno: criadores lo inducen y una hoja veterinaria, sin verificar, lo lee como alarma.
 
 ## Cómo se hace
 
-- [[armar-el-terrario|Armar el terrario]] — tamaño, gradiente, calor, refugios y sustrato.
-- [[alimentar-y-suplementar|Alimentar y suplementar]] — qué insectos, cuánto, y calcio y vitaminas.
-- [[revisar-pesar-y-registrar|Revisar, pesar y registrar]] — cómo manipularlo y qué anotar.
+- [Armar el terrario](armar-el-terrario.md) — tamaño, gradiente, calor, refugios y sustrato.
+- [Alimentar y suplementar](alimentar-y-suplementar.md) — qué insectos, cuánto, y calcio y vitaminas.
+- [Revisar, pesar y registrar](revisar-pesar-y-registrar.md) — cómo manipularlo y qué anotar.
 
 ## Cómo se decide
 
-- [[sustrato-suelto-o-solido|Sustrato suelto o sólido]] — el debate de la arena y la impactación.
-- [[uvb-si-o-no|UVB sí o no]] — lo que muestran los estudios en una especie crepuscular.
-- [[temperatura-del-punto-caliente|Temperatura del punto caliente]] — por qué criadores y veterinarios dan rangos distintos.
+- [Sustrato suelto o sólido](sustrato-suelto-o-solido.md) — el debate de la arena y la impactación.
+- [UVB sí o no](uvb-si-o-no.md) — lo que muestran los estudios en una especie crepuscular.
+- [Temperatura del punto caliente](temperatura-del-punto-caliente.md) — por qué criadores y veterinarios dan rangos distintos.
 
 ## Cómo falla
 
-- [[cuando-llevar-el-gecko-al-veterinario|Cuándo ir al veterinario]] — las señales que no esperan.
-- [[enfermedad-metabolica-osea|Enfermedad metabólica ósea]] — huesos blandos por falta de calcio, D3 o calor.
-- [[impactacion|Impactación]] — el intestino bloqueado y sus causas.
-- [[retencion-de-muda|Retención de muda]] — piel que no sale y corta la circulación.
-- [[problemas-oculares|Problemas oculares]] — el único problema con datos de prevalencia en la especie.
-- [[criptosporidiosis|Criptosporidiosis]] — un parásito con portadores sin síntomas.
-- [[ideas-erroneas-sobre-el-gecko|Ideas erróneas]] — las creencias documentadas que conviene corregir.
+- [Cuándo ir al veterinario](cuando-llevar-el-gecko-al-veterinario.md) — las señales que no esperan.
+- [Enfermedad metabólica ósea](enfermedad-metabolica-osea.md) — huesos blandos por falta de calcio, D3 o calor.
+- [Impactación](impactacion.md) — el intestino bloqueado y sus causas.
+- [Retención de muda](retencion-de-muda.md) — piel que no sale y corta la circulación.
+- [Problemas oculares](problemas-oculares.md) — el único problema con datos de prevalencia en la especie.
+- [Criptosporidiosis](criptosporidiosis.md) — un parásito con portadores sin síntomas.
+- [Ideas erróneas](ideas-erroneas-sobre-el-gecko.md) — las creencias documentadas que conviene corregir.
 
 ## Ecosistema y referencia
 
-- [[equipos-del-terrario|Equipos]] — tipos de calefacción, control, luz y medición (cambia rápido).
-- [[fuentes-sobre-gecko-leopardo|Fuentes de referencia]] — qué fuentes son confiables y por qué.
-- [[glosario-gecko-leopardo|Glosario]] — los términos técnicos que usan las notas.
-- [[valores-de-referencia-gecko|Valores de referencia]] — temperaturas, humedad, pesos y frecuencias, cada uno con su fuente.
+- [Equipos](equipos-del-terrario.md) — tipos de calefacción, control, luz y medición (cambia rápido).
+- [Fuentes de referencia](fuentes-sobre-gecko-leopardo.md) — qué fuentes son confiables y por qué.
+- [Glosario](glosario-gecko-leopardo.md) — los términos técnicos que usan las notas.
+- [Valores de referencia](valores-de-referencia-gecko.md) — temperaturas, humedad, pesos y frecuencias, cada uno con su fuente.
 
 ## Qué es evidencia y qué es práctica
 
@@ -99,13 +99,13 @@ La evidencia propia de la especie es escasa: casi todo sale de manuales veterina
 
 | Se apoya en estudios o fuentes veterinarias | Es práctica de criadores o está en disputa |
 |---|---|
-| Que necesita calor y elegir entre temperaturas ([[termorregulacion-conductual|termorregulación conductual]]) | El valor exacto del punto caliente ([[temperatura-del-punto-caliente|temperatura del punto caliente]]) |
-| Que sintetiza vitamina D3 con UVB y que la D3 de la dieta alcanza para crecer seis meses ([[uvb-si-o-no|UVB sí o no]]) | Si el UVB hace falta |
-| La regeneración de la cola ([[autotomia|autotomía]]) | Leer el peso por el ancho de la cola ([[cola-del-gecko|cola]]) |
-| El riesgo de los problemas oculares y la vitamina A ([[problemas-oculares|problemas oculares]]) | Arena o sustrato sólido ([[sustrato-suelto-o-solido|sustrato suelto o sólido]]) |
-| Que la enfermedad metabólica ósea viene del manejo ([[enfermedad-metabolica-osea|enfermedad metabólica ósea]]) | Humedad ambiente y de la cueva, tamaño del terrario, frecuencias de comida, brumación |
+| Que necesita calor y elegir entre temperaturas ([termorregulación conductual](termorregulacion-conductual.md)) | El valor exacto del punto caliente ([temperatura del punto caliente](temperatura-del-punto-caliente.md)) |
+| Que sintetiza vitamina D3 con UVB y que la D3 de la dieta alcanza para crecer seis meses ([UVB sí o no](uvb-si-o-no.md)) | Si el UVB hace falta |
+| La regeneración de la cola ([autotomía](autotomia.md)) | Leer el peso por el ancho de la cola ([cola](cola-del-gecko.md)) |
+| El riesgo de los problemas oculares y la vitamina A ([problemas oculares](problemas-oculares.md)) | Arena o sustrato sólido ([sustrato suelto o sólido](sustrato-suelto-o-solido.md)) |
+| Que la enfermedad metabólica ósea viene del manejo ([enfermedad metabólica ósea](enfermedad-metabolica-osea.md)) | Humedad ambiente y de la cueva, tamaño del terrario, frecuencias de comida, brumación |
 
-Qué fuente pesa cuánto: [[fuentes-sobre-gecko-leopardo|fuentes de referencia]]. Los términos técnicos: [[glosario-gecko-leopardo|glosario]].
+Qué fuente pesa cuánto: [fuentes de referencia](fuentes-sobre-gecko-leopardo.md). Los términos técnicos: [glosario](glosario-gecko-leopardo.md).
 
 ## Orden de lectura
 

@@ -33,7 +33,7 @@ sumar par 72; quien hace 90 golpes terminó "18 sobre el par".
 
 ## Cómo funciona
 
-La USGA asigna el par de un [[hoyo-de-golf]] sobre todo por su largo, ajustado por desnivel y
+La USGA asigna el par de un [Hoyo de golf](hoyo-de-golf.md) sobre todo por su largo, ajustado por desnivel y
 obstáculos. La tabla para hombres más citada:
 
 | Par | Largo (yardas) | Largo aproximado (metros) |
@@ -65,10 +65,10 @@ En un par 4, quien llega al green en tres golpes y hace dos putts suma cinco: un
 ## No confundir con
 
 El par no es el resultado esperado de un principiante: está pensado para un jugador experto. Para
-quien empieza, un bogey o un doble bogey por hoyo es un buen resultado; el [[handicap]] es lo que
+quien empieza, un bogey o un doble bogey por hoyo es un buen resultado; el [Hándicap](handicap.md) es lo que
 ajusta esa diferencia.
 
 ## Relaciones
 
-- Requiere: [[hoyo-de-golf]] — el par se fija hoyo por hoyo.
-- Base de: [[handicap]] — mide cuántos golpes sobre el par hace un jugador.
+- Requiere: [Hoyo de golf](hoyo-de-golf.md) — el par se fija hoyo por hoyo.
+- Base de: [Hándicap](handicap.md) — mide cuántos golpes sobre el par hace un jugador.

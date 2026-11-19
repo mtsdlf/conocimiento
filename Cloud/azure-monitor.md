@@ -60,10 +60,10 @@ baja y los errores siguen avisando al instante.
 
 ## No confundir con
 
-La [[observabilidad]] como propiedad de un sistema: Azure Monitor es la herramienta que recoge
+La [Observabilidad](../Platform-Engineering/observabilidad.md) como propiedad de un sistema: Azure Monitor es la herramienta que recoge
 los datos; que el sistema sea observable depende de qué emite la aplicación.
 
 ## Relaciones
 
-- La usa: [[optimizacion-de-costos-en-azure]] — los logs son una palanca de costo.
-- En otro Tema: [[observabilidad]] — el concepto detrás de métricas, logs y trazas.
+- La usa: [Optimización de costos en Azure](FinOps/optimizacion-de-costos-en-azure.md) — los logs son una palanca de costo.
+- En otro Tema: [Observabilidad](../Platform-Engineering/observabilidad.md) — el concepto detrás de métricas, logs y trazas.

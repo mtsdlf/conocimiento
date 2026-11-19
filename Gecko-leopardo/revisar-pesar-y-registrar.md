@@ -30,7 +30,7 @@ Cómo manipular, pesar y registrar a un gecko leopardo para leer su estado, con 
 
 ## Antes de empezar
 
-- Saber qué muestra la [[cola-del-gecko|cola]]: reserva de grasa y primer lugar donde se nota el sobrepeso o el desgaste.
+- Saber qué muestra la [cola](cola-del-gecko.md): reserva de grasa y primer lugar donde se nota el sobrepeso o el desgaste.
 - Tener una balanza de gramos y un recipiente para pesarlo.
 - No tocarlo durante la primera semana en el terrario nuevo (RSPCA).
 
@@ -49,9 +49,9 @@ Los registros muestran una tendencia de peso estable o creciente, y el animal ti
 
 ## Si algo falla
 
-- Pérdida de peso sostenida, anorexia o diarrea: [[cuando-llevar-el-gecko-al-veterinario|cuándo ir al veterinario]].
-- Cola perdida o rota: [[autotomia|autotomía]].
-- Mandíbula blanda o patas curvas: [[enfermedad-metabolica-osea|enfermedad metabólica ósea]].
+- Pérdida de peso sostenida, anorexia o diarrea: [cuándo ir al veterinario](cuando-llevar-el-gecko-al-veterinario.md).
+- Cola perdida o rota: [autotomía](autotomia.md).
+- Mandíbula blanda o patas curvas: [enfermedad metabólica ósea](enfermedad-metabolica-osea.md).
 
 > [!NOTE]
 > Sin fuente todavía: cada cuánto pesar, qué gramos corresponden a cada edad, qué registrar y cómo puntuar la condición por la cola. La lista de datos a anotar es una propuesta de trabajo, no de una fuente. Los límites de manipulación (10–15 minutos, agarre con ambas manos) salen de una sola fuente, la RSPCA, y no hay estudio primario sobre el estrés por manipulación. PetMD, sin leer en origen, dice que hay poco publicado sobre condición corporal fuera de perros y gatos. Merck sí respalda que el poco ejercicio y el exceso calórico pueden derivar en obesidad mórbida y lipidosis hepática, pero no menciona al gecko leopardo.
@@ -64,4 +64,4 @@ Ficha de la [RSPCA](https://www.rspca.org.uk/adviceandwelfare/pets/other/leopard
 
 ## Relaciones
 
-- Requiere: [[cola-del-gecko|cola]] — la manipulación cuida la cola y su forma se lee como condición corporal.
+- Requiere: [cola](cola-del-gecko.md) — la manipulación cuida la cola y su forma se lee como condición corporal.

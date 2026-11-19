@@ -57,7 +57,7 @@ lejano) o en el talón (el lado de la vara) agrega su propio efecto.
 ## Ejemplo
 
 El slice es el vuelo más común del principiante diestro: la trayectoria va de afuera hacia
-adentro y la cara queda abierta. Se trabaja primero el [[grip-de-golf]], que cierra la cara.
+adentro y la cara queda abierta. Se trabaja primero el [Grip de golf](grip-de-golf.md), que cierra la cara.
 
 ## No confundir con
 
@@ -66,5 +66,5 @@ curva en el aire. El arreglo es distinto.
 
 ## Relaciones
 
-- Requiere: [[swing-de-golf]] — el vuelo resulta de cómo llega el palo al impacto.
-- Relacionado: [[grip-de-golf]] — el grip decide hacia dónde mira la cara.
+- Requiere: [Swing de golf](swing-de-golf.md) — el vuelo resulta de cómo llega el palo al impacto.
+- Relacionado: [Grip de golf](grip-de-golf.md) — el grip decide hacia dónde mira la cara.

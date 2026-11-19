@@ -35,4 +35,4 @@ devoluciones.
 
 ## Relaciones
 
-- Relacionado: [[economia-unitaria]] — la etapa de ingresos se mide con ella.
+- Relacionado: [Economía unitaria](economia-unitaria.md) — la etapa de ingresos se mide con ella.

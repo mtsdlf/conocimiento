@@ -48,7 +48,7 @@ extremos (base multi-tenant con columna de tenant, y base por tenant) y los híb
 El tenant se resuelve una vez por request, en el borde: por subdominio (`tienda1.ejemplo.com`),
 por un header (`X-Tenant-Id`) o por un claim del token. Un header o subdominio se valida contra
 el token, para que nadie pida otro tenant cambiando un valor. Después viaja por todas las capas. En una
-arquitectura [[api-led-connectivity]], la capa Experience lo resuelve y lo pasa a Process y System.
+arquitectura [API-led connectivity](api-led-connectivity.md), la capa Experience lo resuelve y lo pasa a Process y System.
 
 Los identificadores únicos se definen por tenant: dos comercios pueden tener cada uno un producto
 con el SKU `SKU-001`. Lo mismo vale para las claves de idempotencia y las cuotas.
@@ -70,6 +70,6 @@ de su comercio); los tenants no comparten nada entre sí.
 
 ## Relaciones
 
-- Relacionado: [[api-led-connectivity]] — define en qué capa se resuelve el tenant.
-- Ver también: [[clave-de-idempotencia]] — las claves también se aíslan por tenant.
-- La usa: [[disenar-casos-de-prueba-de-api]] (Desarrollo) — el aislamiento entre tenants es una categoría de casos.
+- Relacionado: [API-led connectivity](api-led-connectivity.md) — define en qué capa se resuelve el tenant.
+- Ver también: [Clave de idempotencia](clave-de-idempotencia.md) — las claves también se aíslan por tenant.
+- La usa: [Diseñar casos de prueba de una API](../Desarrollo/disenar-casos-de-prueba-de-api.md) (Desarrollo) — el aislamiento entre tenants es una categoría de casos.

@@ -39,10 +39,10 @@ Decidir si el gecko leopardo necesita luz UVB: está demostrado que sintetiza vi
 
 ## Cuándo cada una
 
-- **Con UVB** para imitar la síntesis natural de [[calcio-y-vitamina-d3|vitamina D3]]. La RSPCA recomienda tubo 2–5 % sobre un tercio a la mitad del largo, con UVI 0,7 en la zona caliente y cero en la sombra. Merck: sin iluminación especial, pero recomienda luz de amplio espectro porque "likely to have health benefits".
+- **Con UVB** para imitar la síntesis natural de [vitamina D3](calcio-y-vitamina-d3.md). La RSPCA recomienda tubo 2–5 % sobre un tercio a la mitad del largo, con UVI 0,7 en la zona caliente y cero en la sombra. Merck: sin iluminación especial, pero recomienda luz de amplio espectro porque "likely to have health benefits".
 - **Sin UVB** si la dieta trae calcio y D3 adecuados (Oonincx: crecimiento y peso iguales, sin signos clínicos en seis meses).
 
-El hábito [[actividad-crepuscular|crepuscular y nocturno]] no zanja la pregunta: la síntesis se midió en un animal que casi no se asolea.
+El hábito [crepuscular y nocturno](actividad-crepuscular.md) no zanja la pregunta: la síntesis se midió en un animal que casi no se asolea.
 
 ## Debate abierto
 
@@ -62,5 +62,5 @@ La casa todavía no usa UVB y la D3 viene del polvo (DIETA.md); CONTEXT.md conte
 
 ## Relaciones
 
-- Requiere: [[calcio-y-vitamina-d3|calcio y vitamina D3]] — la dieta es la alternativa.
-- Relacionado: [[actividad-crepuscular|actividad crepuscular]] — su ritmo de luz enmarca la exposición.
+- Requiere: [calcio y vitamina D3](calcio-y-vitamina-d3.md) — la dieta es la alternativa.
+- Relacionado: [actividad crepuscular](actividad-crepuscular.md) — su ritmo de luz enmarca la exposición.

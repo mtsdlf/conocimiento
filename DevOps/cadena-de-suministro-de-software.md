@@ -52,14 +52,14 @@ La cadena se asegura con cuatro piezas:
 - **Attestation**: el SBOM y la procedencia se firman y se adjuntan a la imagen en el registry
   como attestations, para que quien la descargue los encuentre junto a ella.
 - **Verificación**: antes de desplegar, se comprueba firma y procedencia; si fallan, el
-  despliegue se bloquea, por ejemplo con un admission controller (ver [[policy-as-code]]).
+  despliegue se bloquea, por ejemplo con un admission controller (ver [Policy as code](policy-as-code.md)).
 
 **SLSA** (Supply-chain Levels for Software Artifacts, versión 1.2) ordena estas garantías en
 niveles. El track de Build tiene cuatro: L0 sin requisitos, L1 con procedencia disponible, L2 con
 plataforma de build endurecida y L3 con builds aislados. La versión 1.2 suma un track de Source
 para los controles del sistema de control de versiones.
 
-La procedencia firma el vínculo artefacto-commit de la [[trazabilidad-de-cambios]].
+La procedencia firma el vínculo artefacto-commit de la [Trazabilidad de cambios](trazabilidad-de-cambios.md).
 
 ## Ejemplo
 
@@ -80,7 +80,7 @@ cadena de suministro dice si el artefacto es el que se construyó.
 
 ## Relaciones
 
-- Parte de y requiere: [[devsecops]] — es uno de los dominios de seguridad del ciclo de entrega.
-- Relacionado: [[seguridad-en-el-pipeline]] — el pipeline produce el SBOM, la firma y la procedencia.
-- Ver también: [[trazabilidad-de-cambios]] — el vínculo artefacto-commit que la procedencia firma.
-- Ver también: [[policy-as-code]] — la regla que bloquea imágenes sin firma válida.
+- Parte de y requiere: [DevSecOps](devsecops.md) — es uno de los dominios de seguridad del ciclo de entrega.
+- Relacionado: [Seguridad en el pipeline](seguridad-en-el-pipeline.md) — el pipeline produce el SBOM, la firma y la procedencia.
+- Ver también: [Trazabilidad de cambios](trazabilidad-de-cambios.md) — el vínculo artefacto-commit que la procedencia firma.
+- Ver también: [Policy as code](policy-as-code.md) — la regla que bloquea imágenes sin firma válida.

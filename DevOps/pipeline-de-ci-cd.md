@@ -30,7 +30,7 @@ el commit que lo originó, nunca por "latest".
 
 ## Por qué importa
 
-Es la pieza que convierte la [[integracion-continua]] y la [[entrega-continua]] en algo que
+Es la pieza que convierte la [Integración continua](integracion-continua.md) y la [Entrega continua](entrega-continua.md) en algo que
 ocurre solo en cada cambio. Si el pipeline no es reproducible, nadie sabe con certeza qué versión
 corre en producción ni puede volver a construirla.
 
@@ -71,11 +71,11 @@ que volver atrás, se redespliega el SHA anterior.
 ## No confundir con
 
 Una plantilla compartida. El pipeline es lo que corre para un repo; cuando muchos repos usan la
-misma definición central, eso es un [[pipeline-reutilizable]].
+misma definición central, eso es un [Pipeline reutilizable](pipeline-reutilizable.md).
 
 ## Relaciones
 
-- Relacionado: [[integracion-continua]] — el pipeline valida cada integración.
-- Relacionado: [[infraestructura-como-codigo]] — el pipeline también valida y aplica la infraestructura.
-- Base de: [[pipeline-reutilizable]] — la definición compartida entre muchos repos.
-- Ver también: [[trazabilidad-de-cambios]] — usa el SHA del artefacto para seguir un despliegue.
+- Relacionado: [Integración continua](integracion-continua.md) — el pipeline valida cada integración.
+- Relacionado: [Infraestructura como código](infraestructura-como-codigo.md) — el pipeline también valida y aplica la infraestructura.
+- Base de: [Pipeline reutilizable](pipeline-reutilizable.md) — la definición compartida entre muchos repos.
+- Ver también: [Trazabilidad de cambios](trazabilidad-de-cambios.md) — usa el SHA del artefacto para seguir un despliegue.

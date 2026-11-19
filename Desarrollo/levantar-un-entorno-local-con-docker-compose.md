@@ -28,7 +28,7 @@ Cómo levantar una app de Spring Boot con sus dependencias en local, con Docker 
 ## Antes de empezar
 
 - Entender qué se inyecta desde el entorno y cómo se nombran las variables:
-  [[configuracion-externalizada-spring-boot]].
+  [Configuración externalizada en Spring Boot](configuracion-externalizada-spring-boot.md).
 - Tener Docker con el plugin `docker compose` instalado.
 - El repo tiene que traer un `Dockerfile` de la app, un `docker-compose.yml` con la app y sus
   dependencias, y un `.env.example` con todas las variables requeridas, sin valores reales.
@@ -82,5 +82,5 @@ muestra el `.env`.
 
 ## Relaciones
 
-- Requiere: [[configuracion-externalizada-spring-boot]] — define qué variables existen y cómo Spring Boot las lee.
-- Ver también: [[golden-path]] (Platform-Engineering) — el compose y el `.env.example` que provee el equipo son un camino estándar chico para arrancar.
+- Requiere: [Configuración externalizada en Spring Boot](configuracion-externalizada-spring-boot.md) — define qué variables existen y cómo Spring Boot las lee.
+- Ver también: [Golden path](../Platform-Engineering/golden-path.md) (Platform-Engineering) — el compose y el `.env.example` que provee el equipo son un camino estándar chico para arrancar.

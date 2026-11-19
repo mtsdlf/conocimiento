@@ -68,8 +68,8 @@ verificación después.
 
 ## Relaciones
 
-- Relacionado: [[herramientas-de-netdevops]] — qué herramienta cubre cada paso del pipeline.
-- Ver también: [[observabilidad]] — la telemetría de red se trata como cualquier otra señal de
+- Relacionado: [Herramientas de NetDevOps](herramientas-de-netdevops.md) — qué herramienta cubre cada paso del pipeline.
+- Ver también: [Observabilidad](../Platform-Engineering/observabilidad.md) — la telemetría de red se trata como cualquier otra señal de
   observabilidad.
-- Ver también: [[gitops]] (DevOps) — la misma idea de Git como fuente de verdad,
+- Ver también: [GitOps](../DevOps/gitops.md) (DevOps) — la misma idea de Git como fuente de verdad,
   aplicada a la red.

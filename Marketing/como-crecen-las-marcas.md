@@ -41,4 +41,4 @@ compradores suficientes.
 
 ## Relaciones
 
-- Relacionado: [[posicionamiento]] — la tensión entre elegir para quién y llegar a todos.
+- Relacionado: [Posicionamiento](posicionamiento.md) — la tensión entre elegir para quién y llegar a todos.

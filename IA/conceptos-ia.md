@@ -19,15 +19,15 @@ quien diseña sistemas con LLM.
 
 ## Modelos
 
-- [[llm]] — qué es un modelo de lenguaje grande y por qué su salida no viene garantizada; se
+- [LLM](llm.md) — qué es un modelo de lenguaje grande y por qué su salida no viene garantizada; se
   lee primero.
-- [[mixture-of-experts]] — cómo MoE suma parámetros sin sumar cómputo por token.
+- [Mixture of experts](mixture-of-experts.md) — cómo MoE suma parámetros sin sumar cómputo por token.
 
 ## Acotar la salida
 
-- [[guardrails]] — las cuatro capas (prompt, esquema, validación, ontología) y qué atrapa cada
+- [Guardrails de LLM](guardrails.md) — las cuatro capas (prompt, esquema, validación, ontología) y qué atrapa cada
   una.
-- [[llm-emite-reasoner-verifica]] — la capa de ontología: el LLM afirma, un reasoner marca,
+- [El LLM emite, el reasoner verifica](llm-emite-reasoner-verifica.md) — la capa de ontología: el LLM afirma, un reasoner marca,
   rechaza o repara.
-- [[inferencia-rdfs-y-owl]] — qué deduce un reasoner RDFS u OWL y por qué el mundo abierto
+- [Inferencia en RDFS y OWL](inferencia-rdfs-y-owl.md) — qué deduce un reasoner RDFS u OWL y por qué el mundo abierto
   limita lo que chequea.

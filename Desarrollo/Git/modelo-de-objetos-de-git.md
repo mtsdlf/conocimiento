@@ -84,6 +84,6 @@ detalle del almacenamiento.
 
 ## Relaciones
 
-- Base de: [[index-de-git]] — el index arma el tree del próximo commit.
-- Base de: [[branch-git]] — un branch es un nombre para el hash de un commit.
-- Ver también: [[comandos-de-git]] — los comandos de plumbing para inspeccionar objetos.
+- Base de: [Index de Git](index-de-git.md) — el index arma el tree del próximo commit.
+- Base de: [Branch (Git)](branch-git.md) — un branch es un nombre para el hash de un commit.
+- Ver también: [Comandos de Git](comandos-de-git.md) — los comandos de plumbing para inspeccionar objetos.

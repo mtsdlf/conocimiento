@@ -32,16 +32,16 @@ una VNet, una NIC, una IP, un NSG, discos y a veces una licencia, y varias de es
 
 Es la opción para lo que no entra en un servicio administrado: software que pide un SO concreto,
 drivers o licencias. El precio de la VM no es el costo total: los discos, las IPs públicas y la
-licencia se suman (ver [[eleccion-de-computo-en-azure]]).
+licencia se suman (ver [Elección de cómputo en Azure](eleccion-de-computo-en-azure.md)).
 
 ## Cómo funciona
 
 | Pieza | Para qué | Costo |
 |---|---|---|
-| [[virtual-network-azure]] | Que la VM hable con otros recursos | Sin costo propio |
+| [Virtual Network (Azure)](virtual-network-azure.md) | Que la VM hable con otros recursos | Sin costo propio |
 | NIC | La conexión a la subred; el tamaño de la VM limita cuántas | Sin cargo |
 | IP privada y, si hace falta, pública | Comunicación interna y externa | La pública se cobra |
-| [[network-security-group]] | Qué puertos se abren (22 sí, 80 no) | Sin cargo |
+| [Network security group](network-security-group.md) | Qué puertos se abren (22 sí, 80 no) | Sin cargo |
 | Disco de SO y discos de datos | El sistema y los datos | Por tamaño y tipo de disco |
 | Licencia del SO (Windows, a veces) | Ejecutar el SO | Por núcleos; baja con Azure Hybrid Benefit |
 
@@ -65,10 +65,10 @@ la subred. Se cobran la VM, el disco y el tráfico; no hay IP pública que pagar
 ## No confundir con
 
 El tamaño de la VM: la familia y la serie definen CPU, memoria y discos; están en
-[[tamanos-de-vm-azure]].
+[Tamaños de VM en Azure](tamanos-de-vm-azure.md).
 
 ## Relaciones
 
-- Requiere: [[virtual-network-azure]] — la VM vive en una subred.
-- Detallada en: [[tamanos-de-vm-azure]] — qué familia elegir.
-- La compara: [[eleccion-de-computo-en-azure]] — cuándo una VM y cuándo algo más administrado.
+- Requiere: [Virtual Network (Azure)](virtual-network-azure.md) — la VM vive en una subred.
+- Detallada en: [Tamaños de VM en Azure](tamanos-de-vm-azure.md) — qué familia elegir.
+- La compara: [Elección de cómputo en Azure](eleccion-de-computo-en-azure.md) — cuándo una VM y cuándo algo más administrado.

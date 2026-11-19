@@ -40,7 +40,7 @@ Las tres dimensiones, según Noda et al. (2023) y Effective Platform Engineering
   Incluyen los tests, la revisión de código, el feedback de rendimiento, la opinión de los
   interesados y las retrospectivas. Un loop lento corta el trabajo y frustra; se acorta mejorando
   el build, los tests y el entorno de desarrollo.
-- **[[carga-cognitiva|Carga cognitiva]]**: el esfuerzo mental que pide hacer el trabajo, desde
+- **[Carga cognitiva](carga-cognitiva.md)**: el esfuerzo mental que pide hacer el trabajo, desde
   entender el problema hasta seguir los procesos de la organización.
 - **Flow state**: el estado de inmersión y foco total en el trabajo. Según Effective Platform
   Engineering, el flow frecuente mejora la productividad, la innovación y el crecimiento
@@ -63,4 +63,4 @@ dicen cuánto salió; la DevEx explica qué lo frenó.
 
 ## Relaciones
 
-- Incluye: [[carga-cognitiva]] — una de sus tres dimensiones, con nota propia.
+- Incluye: [Carga cognitiva](carga-cognitiva.md) — una de sus tres dimensiones, con nota propia.

@@ -40,7 +40,7 @@ no está permitido no pasa, y el daño de un pod comprometido queda acotado.
 ## Cómo funciona
 
 Un pod queda aislado en una dirección (ingress o egress) cuando alguna política lo selecciona para
-esa dirección; a partir de ahí solo pasa lo que alguna política permite. En [[cilium]], una
+esa dirección; a partir de ahí solo pasa lo que alguna política permite. En [Cilium](cilium.md), una
 `CiliumClusterwideNetworkPolicy` hace lo mismo para todo el clúster.
 
 Tres cosas se rompen apenas se activa y hay que permitirlas:
@@ -76,4 +76,4 @@ del host), no con quién habla por la red.
 
 ## Relaciones
 
-- Relacionado: [[cilium]] — el CNI que aplica estas políticas y aporta entidades y reglas por FQDN.
+- Relacionado: [Cilium](cilium.md) — el CNI que aplica estas políticas y aporta entidades y reglas por FQDN.

@@ -38,19 +38,19 @@ quitarles el contexto que necesitan.
 La CNCF define una plataforma como "una colección integrada de capacidades, definidas y
 presentadas según las necesidades de sus usuarios". Las partes de una IDP tienen nota propia:
 
-- [[capacidad-de-plataforma|capacidades]]: lo que la plataforma ofrece, como bases de datos,
+- [capacidades](capacidad-de-plataforma.md): lo que la plataforma ofrece, como bases de datos,
   despliegue u observabilidad;
-- [[self-service]]: el equipo pide y recibe esas capacidades por su cuenta;
-- interfaces: API, CLI y [[developer-portal]], según el principio [[plataforma-api-first]];
-- [[golden-path|golden paths]]: plantillas que combinan código y capacidades para lo común;
-- [[gobernanza-de-plataforma|gobernanza]]: los límites y controles incorporados.
+- [Self-service](self-service.md): el equipo pide y recibe esas capacidades por su cuenta;
+- interfaces: API, CLI y [Developer portal](developer-portal.md), según el principio [Plataforma API-first](plataforma-api-first.md);
+- [golden paths](golden-path.md): plantillas que combinan código y capacidades para lo común;
+- [gobernanza](gobernanza-de-plataforma.md): los límites y controles incorporados.
 
 El white paper de la CNCF agrupa las capacidades típicas en trece áreas: portales web, APIs y CLIs,
 plantillas de golden path, automatización de build y test, automatización de entrega, entornos de
 desarrollo, observabilidad, servicios de infraestructura, servicios de datos, mensajería y
 eventos, identidad y secretos, servicios de seguridad y almacenamiento de artefactos.
 
-La IDP la construye un [[platform-team]], que según internaldeveloperplatform.org suele empezar
+La IDP la construye un [Platform team](platform-team.md), que según internaldeveloperplatform.org suele empezar
 por una plataforma mínima viable y la itera con el feedback de los desarrolladores.
 
 ## Ejemplo
@@ -67,6 +67,6 @@ tablero ya armado. No abrió ningún ticket.
 
 ## Relaciones
 
-- Requiere: [[platform-team]] — el equipo que la construye y opera.
-- Incluye: [[capacidad-de-plataforma]], [[self-service]], [[golden-path]], [[developer-portal]].
-- Usa: [[plataforma-como-producto]] — el enfoque con que se diseña.
+- Requiere: [Platform team](platform-team.md) — el equipo que la construye y opera.
+- Incluye: [Capacidad de plataforma](capacidad-de-plataforma.md), [Self-service](self-service.md), [Golden path](golden-path.md), [Developer portal](developer-portal.md).
+- Usa: [Plataforma como producto](plataforma-como-producto.md) — el enfoque con que se diseña.

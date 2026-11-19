@@ -46,7 +46,7 @@ misma regla, la regla baja a una Process.
 
 En un diseño por bounded contexts, cada contexto (Identidad, Catálogo, Pedido) suele tener su
 System API. Las fallas se contienen en la capa Process, que es la que llama a varias
-dependencias: ahí van el [[circuit-breaker]] y la [[degradacion-controlada]].
+dependencias: ahí van el [Circuit breaker](circuit-breaker.md) y la [Degradación controlada](degradacion-controlada.md).
 
 ## Ejemplo
 
@@ -61,7 +61,7 @@ servicios; puede estar delante de cualquiera de las tres capas.
 
 ## Relaciones
 
-- Relacionado: [[multi-tenancy]] — el tenant se resuelve en la capa Experience y viaja a las de abajo.
-- Ver también: [[circuit-breaker]] — se aplica en las llamadas de Process a System.
-- Ver también: [[plataforma-api-first]] (Platform-Engineering) — API-first dice cómo se expone una
+- Relacionado: [Multi-tenancy](multi-tenancy.md) — el tenant se resuelve en la capa Experience y viaja a las de abajo.
+- Ver también: [Circuit breaker](circuit-breaker.md) — se aplica en las llamadas de Process a System.
+- Ver también: [Plataforma API-first](../Platform-Engineering/plataforma-api-first.md) (Platform-Engineering) — API-first dice cómo se expone una
   capacidad; API-led, en qué capa va.

@@ -27,7 +27,7 @@ lleva las respuestas a los Types y Anti-Types de DevOps Topologies.
 ## Valores
 
 Cada fila da la pregunta y la señal: qué respuesta apunta a qué Type (T1 a T9, formas sanas) o
-Anti-Type (A-A a A-H, anti-patrones) de [[devops-topologies]], donde cada uno tiene su nombre.
+Anti-Type (A-A a A-H, anti-patrones) de [DevOps Topologies](devops-topologies.md), donde cada uno tiene su nombre.
 
 | N.º | Pregunta | Señal |
 |---|---|---|
@@ -100,5 +100,5 @@ Rúbrica:
 
 ## Relaciones
 
-- Detalla: [[evaluar-la-colaboracion-dev-ops]] — los pasos que usan este cuestionario.
-- Requiere: [[devops-topologies]] — los nombres de cada Type y Anti-Type.
+- Detalla: [Evaluar la colaboración Dev–Ops de una organización](evaluar-la-colaboracion-dev-ops.md) — los pasos que usan este cuestionario.
+- Requiere: [DevOps Topologies](devops-topologies.md) — los nombres de cada Type y Anti-Type.

@@ -28,7 +28,7 @@ la anterior no puede: prompt, esquema, validación y ontología.
 
 ## Por qué importa
 
-Un [[llm]] produce texto probable, no texto correcto. Si su salida alimenta un sistema (una base,
+Un [LLM](llm.md) produce texto probable, no texto correcto. Si su salida alimenta un sistema (una base,
 una API, una decisión), cada tipo de error necesita un control distinto. Pensarlos como pila
 dice qué capa falta cuando un error llega a producción.
 
@@ -49,7 +49,7 @@ dice qué capa falta cuando un error llega a producción.
 - **Validación**: un validador de Pydantic revisa un campo o la relación entre campos y, si
   falla, levanta `ValidationError`. El error se puede devolver al modelo para reintentar.
 - **Ontología**: un reasoner chequea la afirmación contra lo que el dominio permite; es el
-  patrón [[llm-emite-reasoner-verifica]].
+  patrón [El LLM emite, el reasoner verifica](llm-emite-reasoner-verifica.md).
 
 ## Ejemplo
 
@@ -64,6 +64,6 @@ usos indebidos. Esta pila protege de salidas incorrectas en usos legítimos; las
 
 ## Relaciones
 
-- Parte de: [[conceptos-ia]] — Mapa del Tema IA.
-- Requiere: [[llm]] — explica por qué la salida de un modelo no viene garantizada.
-- Detalla: [[llm-emite-reasoner-verifica]] — la capa de ontología, paso a paso.
+- Parte de: [IA](conceptos-ia.md) — Mapa del Tema IA.
+- Requiere: [LLM](llm.md) — explica por qué la salida de un modelo no viene garantizada.
+- Detalla: [El LLM emite, el reasoner verifica](llm-emite-reasoner-verifica.md) — la capa de ontología, paso a paso.

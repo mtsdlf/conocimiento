@@ -61,7 +61,7 @@ que sirva también para emergencias.
 
 En las ramas compartidas no se reescribe el historial: se corrige con un commit nuevo o un revert,
 para no romper la cadena. Los commits y tags firmados agregan prueba de autoría; la firma de
-artefactos es parte de la [[cadena-de-suministro-de-software]].
+artefactos es parte de la [Cadena de suministro de software](cadena-de-suministro-de-software.md).
 
 ## Ejemplo
 
@@ -72,12 +72,12 @@ genera la versión siguiente.
 
 ## No confundir con
 
-La [[observabilidad]], que explica qué hace el sistema en ejecución. La trazabilidad explica de
+La [Observabilidad](../Platform-Engineering/observabilidad.md), que explica qué hace el sistema en ejecución. La trazabilidad explica de
 dónde salió lo que está desplegado.
 
 ## Relaciones
 
-- Relacionado: [[gobernanza-de-repositorios]] — las reglas cuya aplicación queda como evidencia.
-- Relacionado: [[conventional-commits]] — los mensajes que explican qué trae cada versión.
-- Ver también: [[cadena-de-suministro-de-software]] — la firma y la procedencia de los artefactos.
-- Ver también: [[pipeline-de-ci-cd]] — el pipeline que identifica cada artefacto por su commit.
+- Relacionado: [Gobernanza de repositorios](gobernanza-de-repositorios.md) — las reglas cuya aplicación queda como evidencia.
+- Relacionado: [Conventional Commits](conventional-commits.md) — los mensajes que explican qué trae cada versión.
+- Ver también: [Cadena de suministro de software](cadena-de-suministro-de-software.md) — la firma y la procedencia de los artefactos.
+- Ver también: [Pipeline de CI/CD](pipeline-de-ci-cd.md) — el pipeline que identifica cada artefacto por su commit.

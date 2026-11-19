@@ -37,8 +37,8 @@ técnico: se puede salir hoy con lo que está en la rama principal.
 ## Cómo funciona
 
 Fowler la resume con una prueba: ¿se puede desplegar a producción la versión actual "con un
-minuto de aviso"? Para eso, cada cambio que pasa la [[integracion-continua]] sigue por un
-pipeline de despliegue ([[pipeline-de-ci-cd]]) que lo instala en entornos de preproducción (staging, pruebas de carga,
+minuto de aviso"? Para eso, cada cambio que pasa la [Integración continua](integracion-continua.md) sigue por un
+pipeline de despliegue ([Pipeline de CI/CD](pipeline-de-ci-cd.md)) que lo instala en entornos de preproducción (staging, pruebas de carga,
 pruebas exploratorias) y corre más validaciones.
 
 Dos reglas de Jez Humble sostienen el pipeline:
@@ -60,13 +60,13 @@ paso en el pipeline; técnicamente se podría hacer cualquier día.
 
 ## No confundir con
 
-[[despliegue-continuo]]. Fowler distingue: en despliegue continuo cada cambio llega a producción
+[Despliegue continuo](despliegue-continuo.md). Fowler distingue: en despliegue continuo cada cambio llega a producción
 solo; en entrega continua el equipo puede hacerlo, pero elige cuándo. Todo despliegue continuo
 requiere entrega continua, no al revés.
 
 ## Relaciones
 
-- Requiere: [[integracion-continua]] — la entrega parte de una rama principal siempre integrada.
-- Relacionado: [[estrategias-de-despliegue]] — cómo se hace el paso a producción con bajo riesgo.
-- Base de: [[despliegue-continuo]] — el paso siguiente, sin aprobación manual.
-- Ver también: [[pipeline-de-ci-cd]] — la automatización que recorre los entornos.
+- Requiere: [Integración continua](integracion-continua.md) — la entrega parte de una rama principal siempre integrada.
+- Relacionado: [Estrategias de despliegue](estrategias-de-despliegue.md) — cómo se hace el paso a producción con bajo riesgo.
+- Base de: [Despliegue continuo](despliegue-continuo.md) — el paso siguiente, sin aprobación manual.
+- Ver también: [Pipeline de CI/CD](pipeline-de-ci-cd.md) — la automatización que recorre los entornos.
