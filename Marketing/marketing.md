@@ -73,6 +73,6 @@ Qué sostiene cada escuela y con qué evidencia está en [Escuelas de marketing]
 
 Las seis partes son las mismas en B2B y en B2C; cambia quién compra. En B2B compra una organización, con ciclos largos y pocos compradores en el mercado a la vez, y la evidencia es escasa y en buena parte patrocinada. Eso está en [Marketing B2B](Canales/marketing-b2b.md) y en [Compradores fuera del mercado](Mercado-y-cliente/compradores-fuera-del-mercado.md). B2C no tiene nota propia: se describe por contraste en B2B, y queda como hueco del tema.
 
-## Por dónde empezar
+## Cómo recorrer las seis partes
 
 Para entender el campo, leé las partes en el orden del diagrama, empezando por la entrada de cada una. Para consultar, [Fundamentos](Fundamentos/fundamentos.md) reúne lo que cruza todo el tema: el glosario, la historia, las escuelas, las fuentes, la bibliografía y los mitos que la evidencia desmiente.

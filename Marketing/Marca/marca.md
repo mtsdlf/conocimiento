@@ -48,7 +48,7 @@ La decisión de la vertical es cuánto va a construcción de marca y cuánto a a
 
 Casi toda la evidencia de la vertical sale de marcas grandes y maduras: paneles de consumo masivo y la base de premios del IPA, sesgada hacia marcas británicas con presupuesto. Falta evidencia sobre marcas nuevas, SaaS para pymes, B2B de ticket bajo y Argentina; cada nota dice cuánto se sabe.
 
-## Las piezas
+## Las cinco notas de marca
 
 - [Cómo crecen las marcas](como-crecen-las-marcas.md) — penetración, doble riesgo y disponibilidad mental y física según el Ehrenberg-Bass. Leerla primero.
 - [Efectos de corto y largo plazo](efectos-de-corto-y-largo-plazo.md) — por qué la publicidad rinde distinto según el plazo y qué se mide en cada uno. Leerla antes de decidir presupuesto.

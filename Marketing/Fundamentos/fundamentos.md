@@ -23,7 +23,7 @@ No es una vertical del [marketing](../marketing.md), porque no es una parte del 
 
 Casi toda la evidencia del campo sale de marcas grandes y maduras: panel de consumo masivo y casos presentados a premios, y el canon que cita la región viene de mercados desarrollados. No se encontró una escuela, un instituto ni un journal latinoamericano o argentino con peso propio. Por eso, ante cualquier afirmación del tema, se pregunta de qué corriente sale, con qué datos y de qué marcas, y si el choque con otra corriente es de datos o de nombres.
 
-## Las notas
+## Qué leer y cuándo
 
 - [Qué es marketing](que-es-marketing.md) — las definiciones de referencia y dónde termina frente a la venta y el producto. Leerla primero.
 - [Historia del marketing](historia-del-marketing.md) — las cuatro eras del pensamiento de marketing y de dónde sale cada escuela. Para saber de dónde viene una idea.

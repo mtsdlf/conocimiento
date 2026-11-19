@@ -47,7 +47,7 @@ La evidencia sale de marcas grandes de consumo masivo, así que el criterio es i
 > [!NOTE]
 > Sin fuente todavía: un estudio de pares que mida el efecto causal de la diferenciación sin preguntarla de forma directa.
 
-## Las notas de esta parte
+## Posicionamiento y diferenciación, en detalle
 
 - [Posicionamiento](posicionamiento.md) — las cinco piezas de Dunford y de dónde sale el cliente correcto. Leerla primero.
 - [Distintividad o diferenciación](distintividad-o-diferenciacion.md) — las posiciones del Ehrenberg-Bass, Ritson y sus críticos, las dos lecturas de diferenciación y cómo se decide con poco presupuesto.

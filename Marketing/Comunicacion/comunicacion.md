@@ -57,7 +57,7 @@ En la economía del comportamiento el choque es otro: si los nudges funcionan en
 > [!NOTE]
 > Sin fuente todavía: los libros de Cialdini, Kahneman, Sutherland, Ogilvy y Schwartz no se leyeron, y no hay evidencia de estos efectos en comercio argentino.
 
-## Las piezas
+## Economía del comportamiento y respuesta directa, en detalle
 
 - [Economía del comportamiento en marketing](economia-del-comportamiento-en-marketing.md) — qué aporta a la persuasión, cuánto efecto queda al corregir el sesgo de publicación y qué no se replicó. Antes de usar un sesgo o un nudge en una campaña.
 - [Respuesta directa](respuesta-directa.md) — medir la publicidad por la respuesta, de Hopkins a Schwartz, y su límite de corto plazo. Para testear anuncios por lo que traen.

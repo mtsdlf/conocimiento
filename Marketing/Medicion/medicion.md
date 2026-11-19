@@ -52,7 +52,7 @@ Medir si el marketing causa ventas no alcanza: también hay que saber si esas ve
 > [!NOTE]
 > Sin fuente todavía: marketing mix modeling con pocos datos, y experimentos en marcas nuevas, tiendas chicas o Argentina.
 
-## Las tres piezas
+## Métricas, economía unitaria e incrementalidad, en detalle
 
 - [Incrementalidad](incrementalidad.md) — la parte de las ventas que no habría ocurrido sin el anuncio, y por qué los métodos sin grupo de control suelen inflarla. Leerla primero: las otras dos se apoyan en ella.
 - [Una métrica que importa por etapa](metrica-que-importa.md) — una sola métrica principal por vez, según la etapa del negocio. Para elegir qué mirar ahora.

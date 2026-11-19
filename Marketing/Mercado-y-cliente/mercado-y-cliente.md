@@ -55,7 +55,7 @@ La evidencia de los dos lados sale de marcas grandes y maduras. Para un emprendi
 
 Casi todo lo que se sabe en esta parte sale de marcas grandes, de consumo masivo o de un par de mercados B2B con informes patrocinados. Quedan sin fuente cómo arranca una marca nueva sin penetración ni presupuesto de alcance, una réplica académica de la regla 95-5 y cuántas entrevistas de cambio alcanzan para ver patrones.
 
-## Las notas de esta parte
+## JTBD, segmentos y compradores, en detalle
 
 - [Jobs to be done](jobs-to-be-done.md) — para qué «contrata» la gente un producto, las cuatro fuerzas y cómo se averigua el trabajo. Leerla primero.
 - [Dos lecturas de Jobs to be done](dos-lecturas-de-jtbd.md) — ODI contra progreso, cuándo sirve cada una y por qué el 86% de Strategyn no se puede verificar. Para decidir cómo investigar al cliente.

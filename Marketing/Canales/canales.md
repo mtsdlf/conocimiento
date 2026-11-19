@@ -63,7 +63,7 @@ Las fuentes de growth tampoco miden si un loop o un experimento causa crecimient
 > [!NOTE]
 > Sin fuente todavía: evidencia de B2B de ticket bajo donde decide el dueño, de pymes y de mercados emergentes; Rogers y Moore leídos en primaria; un estudio que compare PLG con no-PLG contando las empresas que cerraron.
 
-## Las piezas
+## Canales, growth, B2B y adopción, en detalle
 
 - [Elección de canales](eleccion-de-canales.md) — los 19 canales de *Traction* y el método Bullseye. Para elegir por dónde buscar los primeros clientes.
 - [Growth marketing y product-led growth](growth-y-product-led-growth.md) — loops, producto o venta, según quién usa y quién paga, y por qué su respaldo es práctica. Para decidir si el producto puede ser el canal.
