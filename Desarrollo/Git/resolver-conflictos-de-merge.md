@@ -1,15 +1,11 @@
 ---
-tipo: como-hacer
 resumen: >-
   Cómo resolver un conflicto de merge en Git: leer los marcadores, elegir o combinar cada bloque,
   continuar o abortar, y automatizar los conflictos repetidos con rerere y merge drivers.
 estado: borrador
 estabilidad: semi
-dueno: matias
 revisado:
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Git Documentation, git-merge (How conflicts are presented): https://git-scm.com/docs/git-merge"
   - "Git Documentation, git-config (merge.conflictStyle): https://git-scm.com/docs/git-config"
@@ -17,9 +13,6 @@ fuentes:
   - "Git Documentation, gitattributes (Defining a custom merge driver): https://git-scm.com/docs/gitattributes"
   - "Archivo/Desarrollo/git/git-mecanismos-internos.md y Archivo/DevOps/git/git-organizational-topology.md (originales, texto generado con IA)"
 aliases: [Conflicto de merge, Merge conflict, rerere, Merge driver, Marcadores de conflicto]
-parte_de: []
-requiere: [merge-de-tres-vias]
-relacionado: []
 ---
 
 # Resolver conflictos de merge
@@ -27,13 +20,13 @@ relacionado: []
 Cómo resolver un conflicto de merge en Git: leer los marcadores, elegir o combinar cada bloque,
 continuar o abortar, y automatizar los conflictos repetidos con rerere y merge drivers.
 
-## Antes de empezar
+## Base, ours, theirs y el estilo zdiff3
 
 - Entender qué son base, ours y theirs: [Merge de tres vías](merge-de-tres-vias.md).
 - Activar una vez el estilo que muestra también la base, que hace legibles los conflictos:
   `git config --global merge.conflictStyle zdiff3` (desde Git 2.35; antes, `diff3`).
 
-## Pasos
+## Del conflicto al merge cerrado
 
 1. **Listá los archivos en conflicto**: `git status` (sección "Unmerged paths") o
    `git diff --name-only --diff-filter=U`.
@@ -54,7 +47,7 @@ continuar o abortar, y automatizar los conflictos repetidos con rerere y merge d
    La base dice qué había antes: acá los dos lados cambiaron el mismo valor, y hay que decidir.
 3. **Editá el archivo** hasta dejar el resultado correcto y borrá los marcadores. Para quedarte
    con un lado entero, usá `git restore --ours <archivo>` o `git restore --theirs <archivo>`.
-   Si estás en un rebase, los lados se invierten: `ours` es la base nueva y `theirs`, tu commit.
+   Si estás en un [rebase](rebase.md), los lados se invierten: `ours` es la base nueva y `theirs`, tu commit.
 4. **Marcá el archivo como resuelto**: `git add <archivo>`. `git diff --check` avisa si quedó
    algún marcador.
 5. **Cerrá el merge**: `git merge --continue`. Si preferís volver al estado anterior,
@@ -84,12 +77,7 @@ continuar o abortar, y automatizar los conflictos repetidos con rerere y merge d
   `jq … %A %B > %A` vacía `%A` antes de leerlo, porque el shell abre la redirección primero:
   escribí a un archivo temporal y movelo.
 
-## Cómo saber que salió bien
+## Sin Unmerged paths y con las pruebas en verde
 
 `git status` no muestra "Unmerged paths", `git log --graph -3` muestra el merge commit con dos
 padres (en un rebase, los commits reaplicados en línea), y las pruebas pasan sobre el resultado.
-
-## Relaciones
-
-- Requiere: [Merge de tres vías](merge-de-tres-vias.md) — el conflicto es lo que queda sin resolver en las tres vías.
-- Ver también: [Rebase](rebase.md) — un rebase genera los mismos conflictos, commit por commit.

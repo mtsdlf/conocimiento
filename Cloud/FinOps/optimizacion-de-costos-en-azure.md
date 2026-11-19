@@ -1,15 +1,10 @@
 ---
-tipo: concepto
 resumen: >-
   Las palancas para bajar el costo en Azure sin romper los SLO: ajustar el tamaño y apagar lo que
   no se usa, comprometer uso con reservas o savings plans, usar Spot y Hybrid Benefit, y controlar
   el egreso y los logs.
 estado: borrador
 estabilidad: estable
-dueno: matias
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Microsoft Learn, Save costs with Azure Reservations: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations"
   - "Microsoft Learn, What are Azure savings plans?: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/savings-plan-overview"
@@ -20,9 +15,8 @@ fuentes:
   - "FinOps Foundation, FinOps Framework (Usage Optimization, Rate Optimization): https://www.finops.org/framework/"
   - "Archivo/Cloud/azure-referencia-framework.md (original, Costos y Logs)"
 aliases: [optimización de costos en Azure, reducir costos Azure, rightsizing, reservas, savings plan, Spot VM]
-parte_de: []
-requiere: [que-es-finops]
-relacionado: []
+creado: 2026-10-03
+revisado:
 ---
 
 # Optimización de costos en Azure
@@ -31,12 +25,12 @@ Las palancas para bajar el costo en Azure sin romper los SLO: ajustar el tamaño
 no se usa, comprometer uso con reservas o savings plans, usar Spot y Hybrid Benefit, y controlar
 el egreso y los logs.
 
-## Por qué importa
+## Ajustar antes de comprometer
 
 Es la fase Optimize del ciclo de [FinOps](que-es-finops.md) aplicada a Azure. El orden importa: comprometer
 uso con una reserva antes de ajustar el tamaño congela por años un gasto que sobraba.
 
-## Cómo funciona
+## Optimizar el uso y optimizar la tarifa
 
 La FinOps Foundation separa dos familias: optimizar el **uso** (consumir menos) y optimizar la
 **tarifa** (pagar menos por lo mismo). Se hace primero la de uso.
@@ -51,7 +45,7 @@ La FinOps Foundation separa dos familias: optimizar el **uso** (consumir menos) 
 - **Red**: el egreso a internet y entre regiones se cobra por GB; la caché de Front Door lo baja,
   y los private endpoints cobran por hora y por GB procesado.
 - **Logs**: retención corta, tablas Basic o Auxiliary para lo ruidoso, sampling (ver
-  [Azure Monitor](../azure-monitor.md)).
+  [Azure Monitor](../Operacion/azure-monitor.md)).
 
 **Tarifa**
 
@@ -65,20 +59,14 @@ La FinOps Foundation separa dos familias: optimizar el **uso** (consumir menos) 
 **Avisar a tiempo**: los presupuestos de Cost Management alertan por gasto real o pronosticado,
 pero no apagan nada.
 
-## Ejemplo
+## Achicar antes de comprar un savings plan
 
 Un equipo achica a la mitad las VMs que Advisor marca como subutilizadas, apaga dev de noche y
 recién después compra un savings plan por el cómputo que quedó estable. Al revés, el plan habría
 cubierto capacidad que sobraba.
 
-## No confundir con
+## Ahorrar sin romper el SLO
 
 Recortar sin mirar el valor: bajar una base a un tamaño que rompe el SLO de latencia ahorra en la
 factura y pierde en el negocio. El [Costo unitario](costo-unitario.md) muestra si la optimización mejoró la
 eficiencia.
-
-## Relaciones
-
-- Requiere: [FinOps](que-es-finops.md) — es la fase Optimize de la práctica.
-- Usa: [Azure Monitor](../azure-monitor.md) — los logs son una de las palancas.
-- Se mide con: [Costo unitario](costo-unitario.md) — si el costo por unidad bajó.

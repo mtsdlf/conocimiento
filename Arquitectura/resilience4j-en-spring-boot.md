@@ -1,24 +1,17 @@
 ---
-tipo: como-hacer
 resumen: >-
   Cómo proteger un cliente HTTP de Spring Boot con `@CircuitBreaker` y `@Retry` de Resilience4j,
   con su fallback y su configuración en `application.yml`.
 estado: borrador
 estabilidad: semi
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Resilience4j, Getting Started (Spring Boot 3): https://resilience4j.readme.io/docs/getting-started-3"
   - "Resilience4j, CircuitBreaker: https://resilience4j.readme.io/docs/circuitbreaker"
   - "Resilience4j, Retry: https://resilience4j.readme.io/docs/retry"
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
 aliases: [Resilience4j, Circuit breaker en Spring Boot]
-parte_de: [circuit-breaker]
-requiere: [degradacion-controlada]
-relacionado: []
+creado: 2026-10-03
+revisado:
 ---
 
 # Proteger un cliente HTTP con Resilience4j en Spring Boot
@@ -26,14 +19,14 @@ relacionado: []
 Cómo proteger un cliente HTTP de Spring Boot con `@CircuitBreaker` y `@Retry` de Resilience4j,
 con su fallback y su configuración en `application.yml`.
 
-## Antes de empezar
+## Qué hay que decidir y tener antes
 
 - Entender los estados de un [Circuit breaker](circuit-breaker.md) y decidir la [Degradación controlada](degradacion-controlada.md) de la
   llamada: qué devuelve el fallback.
 - Tener las dependencias `io.github.resilience4j:resilience4j-spring-boot3`,
   `spring-boot-starter-aop` y `spring-boot-starter-actuator`.
 
-## Pasos
+## Timeout, anotaciones, configuración y fallback
 
 1. **Poné el timeout en el cliente HTTP**, no en una anotación. La documentación usa
    `@TimeLimiter` solo con métodos que devuelven `CompletableFuture` o un tipo reactivo (`Mono`),
@@ -102,15 +95,13 @@ con su fallback y su configuración en `application.yml`.
 | `wait-duration-in-open-state` | tiempo en abierto antes de probar | 60 s |
 | `permitted-number-of-calls-in-half-open-state` | llamadas de prueba | 10 |
 
-## Cómo saber que salió bien
+## Cómo se ve el breaker abierto
 
 Con la dependencia apagada, las primeras llamadas fallan después del timeout y, pasado el umbral,
 responden enseguida con el fallback. `GET /actuator/circuitbreakers` muestra la instancia
 `precios` en estado `OPEN`, si el endpoint está expuesto en
 `management.endpoints.web.exposure.include`.
 
-## Relaciones
+## Ver también
 
-- Parte de: [Circuit breaker](circuit-breaker.md) — una implementación del patrón en Java.
-- Requiere: [Degradación controlada](degradacion-controlada.md) — define qué devuelve el fallback.
-- Ver también: [Sintaxis de YAML](../Desarrollo/sintaxis-de-yaml.md) (Desarrollo) — la sintaxis del `application.yml`.
+- [Sintaxis de YAML](../Desarrollo/Configuracion/sintaxis-de-yaml.md), en Desarrollo: la sintaxis del `application.yml`.

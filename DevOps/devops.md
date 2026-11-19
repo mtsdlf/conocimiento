@@ -1,99 +1,89 @@
 ---
-tipo: mapa
 resumen: >-
   DevOps es la forma de trabajo que une desarrollo y operaciones para entregar cambios chicos,
-  frecuentes y confiables; este Mapa reúne las notas sobre cultura y medición, entrega continua,
-  branching y versionado, repositorios, GitOps, DevSecOps y las herramientas de CI/CD.
+  frecuentes y confiables.
 estado: borrador
 estabilidad: semi
-dueno: matias
-revisado:
+fuentes: []
 creado: 2026-10-03
-autoria: ia
-idioma: es
-parte_de: [conocimiento]
+revisado:
 ---
 
 # DevOps
 
 DevOps es la forma de trabajo que une desarrollo y operaciones para entregar cambios chicos,
-frecuentes y confiables; este Mapa reúne las notas sobre cultura y medición, entrega continua,
-branching y versionado, repositorios, GitOps, DevSecOps y las herramientas de CI/CD.
+frecuentes y confiables.
 
-Para aprenderlo en orden: [DevOps desde cero](recorrido-devops.md). El Tema hermano es [Platform Engineering](../Platform-Engineering/platform-engineering.md): la
-organización de equipos y la plataforma interna que sostienen estas prácticas. Lo que DevOps no es
-(un equipo intermedio entre Dev y Ops) está en [Anti-patrón del equipo DevOps](../Platform-Engineering/anti-patron-equipo-devops.md).
+Un cambio recorre un camino desde la idea hasta el usuario en producción, el
+[flujo de valor](Cultura-y-medicion/flujo-de-valor.md), y la mayor parte de ese tiempo no es
+trabajo sino espera entre tramos. DevOps acorta ese camino sin perder estabilidad. Comprar
+herramientas no alcanza: automatiza el mismo proceso con los mismos silos. Por eso
+[CALMS](Fundamentos/calms.md) mira cinco dimensiones juntas: cultura, automatización,
+lean, medición y compartir.
 
-## Cultura y medición
+El tema termina donde empieza la organización: los equipos y la plataforma interna que sostienen
+estas prácticas son el tema hermano [Platform Engineering](../Platform-Engineering/platform-engineering.md).
+DevOps tampoco es un equipo intermedio entre Dev y Ops; eso es el
+[Anti-patrón del equipo DevOps](../Platform-Engineering/Colaboracion-Dev-Ops/anti-patron-equipo-devops.md). Cómo funciona
+la herramienta Git (merge, rebase, reflog, LFS, mirrors) está en [Git](../Desarrollo/Git/git.md), en
+el tema Desarrollo.
 
-- [CALMS](calms.md) — las cinco dimensiones para describir y evaluar una adopción de DevOps; la puerta de entrada al Tema.
-- [Flujo de valor](flujo-de-valor.md) — el recorrido de un cambio de la idea a producción y cómo acelerarlo.
-- [Postmortem sin culpa](postmortem-sin-culpa.md) — cómo analizar un incidente para mejorar el sistema y no castigar personas.
-- [Métricas DORA](metricas-dora.md) — los indicadores de desempeño de entrega, con sus nombres actuales.
+## De qué está hecha la entrega de un cambio
 
-## Entrega continua (CI/CD)
+Seis partes. El código se integra en ramas que se versionan, dentro de repositorios con reglas; un
+pipeline deja cada cambio listo para producción; el despliegue lo lleva a cada entorno y lo
+mantiene como está declarado. La seguridad corre en cada etapa, y la medición dice dónde se pierde
+el tiempo.
 
-- [Integración continua](integracion-continua.md) — integrar a la rama principal varias veces por día, con build y pruebas automáticas.
-- [Entrega continua](entrega-continua.md) — cada cambio validado queda listo para producción; el paso final es manual.
-- [Despliegue continuo](despliegue-continuo.md) — cada cambio que pasa las verificaciones llega solo a producción.
-- [Pipeline de CI/CD](pipeline-de-ci-cd.md) — la secuencia de etapas que disparan los eventos de Git.
-- [Pipeline reutilizable](pipeline-reutilizable.md) — una definición central y versionada que muchos repos invocan.
-- [Estrategias de despliegue](estrategias-de-despliegue.md) — rolling, blue/green, canary y feature flags, según el riesgo.
-- [Infraestructura como código](infraestructura-como-codigo.md) — la infraestructura en archivos versionados que se aplican de forma repetible.
+```mermaid
+flowchart LR
+  RE[Repositorios] -->|protegen las ramas de| RV[Ramas y versiones]
+  RV -->|integran seguido en| IE[Integración y entrega]
+  IE -->|entrega un artefacto a| D[Despliegue]
+  DS[DevSecOps] -->|agrega controles a| IE
+  DS -->|revisa los PR de| D
+  D -->|se mide con| CM[Cultura y medición]
+  CM -->|muestra dónde espera el cambio en| IE
+```
 
-## CI/CD con GitHub Actions
+- [Ramas y versiones](Ramas-y-versiones/ramas-y-versiones.md) — qué ramas existen, cuánto viven y cómo se numera lo que se publica.
+- [Repositorios](Repositorios/repositorios.md) — cómo se reparte el código, quién cambia qué y cómo se sigue cada despliegue hasta su commit.
+- [Integración y entrega](Integracion-y-entrega/integracion-y-entrega.md) — integración, entrega y despliegue continuos, y el pipeline que los automatiza.
+- [Despliegue](Despliegue/despliegue.md) — cómo una versión reemplaza a otra en un entorno, la infraestructura como código y GitOps.
+- [DevSecOps](DevSecOps/devsecops.md) — la seguridad como responsabilidad compartida y automatizada en todo el ciclo.
+- [Cultura y medición](Cultura-y-medicion/cultura-y-medicion.md) — el flujo de valor, el postmortem sin culpa y las métricas DORA.
 
-- [GitHub Actions](github-actions.md) — workflows, jobs, runners y actions; la base de las otras cuatro.
-- [Reutilización en GitHub Actions](reutilizacion-en-github-actions.md) — workflows reutilizables y actions propias.
-- [Environment de GitHub Actions](environment-de-github-actions.md) — destinos de despliegue con reglas de protección y concurrencia.
-- [Artifact y cache de GitHub Actions](artifact-y-cache-de-github-actions.md) — qué guarda un artifact, qué guarda la cache y las attestations.
-- [Secret de GitHub Actions](secret-de-github-actions.md) — dónde se guardan los secrets y cómo los lee un workflow.
+Aparte de las seis partes, [Fundamentos](Fundamentos/fundamentos-de-devops.md) reúne lo
+que las cruza: el marco CALMS y el recorrido para aprender el tema en orden.
 
-## CI/CD con Tekton y Azure
+## Tres ideas que cruzan las seis partes
 
-- [Tekton](tekton.md) — el framework de CI/CD nativo de Kubernetes: Tasks, Pipelines y Triggers.
-- [Disparar Tekton desde Azure DevOps](disparar-tekton-desde-azure-devops.md) — pasos para lanzar un PipelineRun con cada push o PR de Azure Repos.
-- [Desplegar en AKS con Azure Pipelines](desplegar-en-aks-con-azure-pipelines.md) — pasos para construir, subir a ACR y desplegar en AKS.
+- **Lotes chicos.** Integrar a la rama principal al menos una vez por día
+  ([integración continua](Integracion-y-entrega/integracion-continua.md)), con ramas que viven horas
+  ([trunk-based development](Ramas-y-versiones/trunk-based-development.md)), hace que si algo falla
+  se sepa qué commit lo causó ([despliegue continuo](Integracion-y-entrega/despliegue-continuo.md)).
+  Es la práctica lean que pide el flujo de valor.
+- **Construir una sola vez.** El paquete que llega a producción es el mismo que se probó,
+  identificado por el commit que lo originó y nunca por "latest"
+  ([pipeline de CI/CD](Integracion-y-entrega/pipeline-de-ci-cd.md)). Eso permite volver a la
+  versión anterior ([estrategias de despliegue](Despliegue/estrategias-de-despliegue.md)) y seguir
+  cada despliegue hasta su revisión ([trazabilidad de cambios](Repositorios/trazabilidad-de-cambios.md)).
+- **Git como registro.** La infraestructura vive en archivos versionados
+  ([infraestructura como código](Despliegue/infraestructura-como-codigo.md)), el estado deseado de
+  cada entorno también ([GitOps](Despliegue/gitops.md)), y el historial de Git es la auditoría.
 
-## Branching y versionado
+## Del commit a producción, en orden
 
-- [Estrategia de branching](estrategia-de-branching.md) — qué ramas existen y cómo se integran; leerla antes de las dos siguientes.
-- [Trunk-based development](trunk-based-development.md) — una sola rama con ramas de vida corta y feature flags.
-- [Gitflow](gitflow.md) — `main`, `develop` y ramas de feature, release y hotfix para entregas con versión.
-- [Versionado semántico](versionado-semantico.md) — MAYOR.MENOR.PARCHE según el tipo de cambio.
-- [Conventional Commits](conventional-commits.md) — mensajes de commit que permiten calcular la versión y el changelog.
+Para aprenderlo de cero, [DevOps desde cero](Fundamentos/recorrido-devops.md) recorre
+las seis partes en el orden en que un cambio las necesita, de CALMS a las métricas DORA. Para
+consultar, conviene entrar por la entrada de cada parte.
 
-Cómo funciona la herramienta Git (merge, rebase, reflog, LFS, mirrors) está en [Git](../Desarrollo/Git/git.md), en el Tema
-Desarrollo.
+## Lo que falta
 
-## Repositorios a escala
-
-- [Gobernanza de repositorios](gobernanza-de-repositorios.md) — ramas protegidas, checks obligatorios, CODEOWNERS y roles.
-- [Monorepo y multirepo](monorepo-y-multirepo.md) — cómo repartir el código en repositorios y cuándo conviene cada forma.
-- [Coordinación entre repositorios](coordinacion-entre-repositorios.md) — versiones fijadas, bots de dependencias y release train en multirepo.
-- [Trazabilidad de cambios](trazabilidad-de-cambios.md) — seguir cada despliegue hasta su commit, su revisión y su build, para auditoría.
-
-## GitOps
-
-- [GitOps](gitops.md) — el estado deseado en Git y un agente que lo aplica; la puerta de entrada al grupo.
-- [Reconciliación (GitOps)](reconciliacion-gitops.md) — el bucle que corrige el drift y por qué GitOps despliega por pull.
-- [Promoción entre entornos](promocion-entre-entornos.md) — cómo pasar un cambio de un entorno al siguiente con un PR.
-
-## DevSecOps
-
-- [DevSecOps](devsecops.md) — la seguridad como responsabilidad compartida y automatizada en todo el ciclo.
-- [Seguridad en el pipeline](seguridad-en-el-pipeline.md) — los controles automáticos por etapa del pipeline.
-- [Herramientas de seguridad del pipeline](herramientas-de-seguridad-del-pipeline.md) — qué herramienta se usa para cada control, para consultar.
-- [Cadena de suministro de software](cadena-de-suministro-de-software.md) — SBOM, firma y procedencia de cada artefacto.
-- [Gestión de secretos](gestion-de-secretos.md) — credenciales fuera del código y del historial.
-- [Policy as code](policy-as-code.md) — reglas de seguridad y cumplimiento evaluadas como código.
+- SLO y SLI: sin nota todavía; van con [Observabilidad](../Platform-Engineering/Operacion-de-la-plataforma/observabilidad.md) cuando se migre ese material.
+- Ansible: hay solo un temario sin contenido, archivado en `Archivo/DevOps/ansible-roadmap.md`.
 
 ## Ver también
 
-- [Observabilidad](../Platform-Engineering/observabilidad.md) — métricas, logs y traces para entender qué hace el sistema; en Platform Engineering.
-- [FinOps](../Cloud/FinOps/finops.md) — la responsabilidad sobre el costo de la nube; en el Tema Cloud.
-
-## Pendiente
-
-- SLO y SLI: sin nota todavía; van con [Observabilidad](../Platform-Engineering/observabilidad.md) cuando se migre ese material.
-- Ansible: hay solo un temario sin contenido, archivado en `Archivo/DevOps/ansible-roadmap.md`.
+- [Observabilidad](../Platform-Engineering/Operacion-de-la-plataforma/observabilidad.md) — métricas, logs y traces para entender qué hace el sistema; en Platform Engineering.
+- [FinOps](../Cloud/FinOps/finops.md) — la responsabilidad sobre el costo de la nube; en el tema Cloud.

@@ -1,22 +1,15 @@
 ---
-tipo: concepto
 resumen: >-
   Mixture of experts (MoE) es una arquitectura en la que un router activa solo algunas subredes
   ("expertos") por token, para tener muchos parámetros con el costo de cómputo de pocos.
 estado: borrador
 estabilidad: estable
-dueno: matias
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - https://arxiv.org/abs/1701.06538
   - https://arxiv.org/abs/2101.03961
   - https://arxiv.org/abs/2401.04088
 aliases: [MoE, mezcla de expertos, sparse mixture of experts, sparse MoE]
-parte_de: [conceptos-ia]
-requiere: [llm]
-relacionado: []
 ---
 
 # Mixture of experts
@@ -24,7 +17,7 @@ relacionado: []
 Mixture of experts (MoE) es una arquitectura en la que un router activa solo algunas subredes
 ("expertos") por token, para tener muchos parámetros con el costo de cómputo de pocos.
 
-## Por qué importa
+## Capacidad sin costo por token
 
 En un modelo denso, cada token pasa por todos los parámetros: duplicar el modelo duplica el
 cómputo de cada respuesta. MoE separa las dos cosas. La capacidad (parámetros totales) crece,
@@ -32,7 +25,9 @@ mientras el costo por token depende solo de los parámetros activos. Shazeer y o
 reportaron más de 1000 veces de capacidad con pérdidas menores de eficiencia de cómputo en GPU,
 frente a los modelos densos de la época.
 
-## Cómo funciona
+## El router y los expertos
+
+MoE es una forma de construir la red que predice el siguiente token en un [LLM](llm.md).
 
 Una capa MoE reemplaza un bloque feed-forward (la parte de cada capa que transforma cada token
 por separado) por varios bloques paralelos, los **expertos**. Una
@@ -49,21 +44,16 @@ ese token.
 El costo que no baja es la memoria: todos los expertos tienen que estar cargados aunque cada
 token use pocos.
 
-## Ejemplo
+## Mixtral 8x7B
 
 Mixtral 8x7B (Mistral AI, 2024) tiene 8 expertos por capa y el router elige 2 por token. Suma
 47 mil millones de parámetros, pero cada token usa 13 mil millones, alrededor del 28 %. No son
 8 × 7 = 56 mil millones porque solo los bloques feed-forward se multiplican; el resto de cada
 capa es compartido.
 
-## No confundir con
+## MoE, ensamble y agentes expertos
 
 Un **ensamble** de modelos corre varios modelos completos y combina sus respuestas: el costo se
 multiplica. En MoE la elección es por token y por capa, dentro de un solo modelo. Tampoco es un
 sistema de agentes "expertos": los expertos de MoE no tienen especialidades con nombre, y lo que
 aprende cada uno sale del entrenamiento.
-
-## Relaciones
-
-- Parte de: [IA](conceptos-ia.md) — Mapa del Tema IA.
-- Requiere: [LLM](llm.md) — MoE es una forma de construir la red que predice el siguiente token.

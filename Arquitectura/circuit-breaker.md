@@ -1,24 +1,17 @@
 ---
-tipo: concepto
 resumen: >-
   Un circuit breaker corta las llamadas a una dependencia que viene fallando: tras superar un
   umbral de errores en una ventana, pasa a abierto y responde enseguida, sin esperar el timeout.
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Martin Fowler, CircuitBreaker (2014): https://martinfowler.com/bliki/CircuitBreaker.html"
   - "Resilience4j, CircuitBreaker: https://resilience4j.readme.io/docs/circuitbreaker"
   - "Microsoft, Circuit Breaker pattern, Azure Architecture Center: https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker"
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
 aliases: [Cortacircuito, Circuit breaking, Disyuntor]
-parte_de: []
-requiere: []
-relacionado: [saga]
+creado: 2026-10-03
+revisado:
 ---
 
 # Circuit breaker
@@ -26,14 +19,14 @@ relacionado: [saga]
 Un circuit breaker corta las llamadas a una dependencia que viene fallando: tras superar un
 umbral de errores en una ventana, pasa a abierto y responde enseguida, sin esperar el timeout.
 
-## Por qué importa
+## Cómo se propaga una falla en cascada
 
 Si un servicio de precios tarda 30 segundos en fallar, cada pedido que lo llama ocupa un hilo
 durante esos 30 segundos. Con suficiente tráfico, el que llama se queda sin hilos y falla también:
 la falla se propaga en cascada. El circuit breaker corta esa cadena y le da tiempo a la
 dependencia para recuperarse. Michael Nygard lo popularizó en *Release It!* (2007).
 
-## Cómo funciona
+## Los tres estados del breaker
 
 El breaker envuelve cada llamada y tiene tres estados:
 
@@ -53,20 +46,19 @@ a la base propia ni a los consumidores de una cola: ahí alcanzan los timeouts d
 reintentos del broker. Siempre va con un timeout: sin timeout, una llamada colgada nunca cuenta
 como falla.
 
-## Ejemplo
+## Un carrito que llama a Precios
 
 Un servicio de carrito llama a Precios con una ventana de 20 llamadas y un umbral del 50 %. Si
 11 de las últimas 20 fallan, el breaker se abre por 10 segundos y el carrito usa su
 [Degradación controlada](degradacion-controlada.md): muestra el último precio guardado marcado como estimado.
 
-## No confundir con
+## Breaker y retry
 
-Un retry. El retry repite una llamada que falló, pensando que la falla es pasajera; el breaker
+El retry repite una llamada que falló, pensando que la falla es pasajera; el breaker
 deja de llamar porque la falla parece persistente. Se combinan: el retry absorbe fallas aisladas
 y el breaker evita reintentar contra una dependencia caída.
 
-## Relaciones
+## Ver también
 
-- Base de: [Degradación controlada](degradacion-controlada.md) — qué se devuelve cuando el breaker está abierto.
-- Casos: [Proteger un cliente HTTP con Resilience4j en Spring Boot](resilience4j-en-spring-boot.md) — una implementación en Java.
-- Relacionado: [Saga](saga.md) — en un checkout, una falla con el breaker abierto dispara las compensaciones de la saga.
+- [Proteger un cliente HTTP con Resilience4j en Spring Boot](resilience4j-en-spring-boot.md): una implementación del breaker en Java.
+- [Saga](saga.md): en un checkout, una falla con el breaker abierto dispara las compensaciones de la saga.

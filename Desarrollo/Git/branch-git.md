@@ -1,15 +1,11 @@
 ---
-tipo: concepto
 resumen: >-
   En Git, un branch es un archivo que guarda el hash de un commit y avanza con cada commit nuevo;
   HEAD apunta al branch actual, y un tag es un puntero que no avanza.
 estado: borrador
 estabilidad: estable
-dueno: matias
 revisado:
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Scott Chacon y Ben Straub, Pro Git, 3.1 Branches in a Nutshell: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell"
   - "Scott Chacon y Ben Straub, Pro Git, 10.3 Git References: https://git-scm.com/book/en/v2/Git-Internals-Git-References"
@@ -17,9 +13,6 @@ fuentes:
   - "Git Documentation, git-switch: https://git-scm.com/docs/git-switch"
   - "Archivo/Desarrollo/git/git-mastery-manual.md y git-mecanismos-internos.md (originales, texto generado con IA)"
 aliases: [Branch, Rama (Git), HEAD, Ref, Referencia de Git, Tag (Git), Detached HEAD]
-parte_de: []
-requiere: [modelo-de-objetos-de-git]
-relacionado: []
 ---
 
 # Branch (Git)
@@ -27,13 +20,16 @@ relacionado: []
 En Git, un branch es un archivo que guarda el hash de un commit y avanza con cada commit nuevo;
 HEAD apunta al branch actual, y un tag es un puntero que no avanza.
 
-## Por qué importa
+## Por qué un branch no cuesta nada
 
 Como un branch son 41 bytes en un archivo, crearlo o borrarlo es instantáneo, y trabajar en un
 branch por cambio no tiene costo. Entender que es solo un puntero explica qué se pierde y qué no
-cuando se borra uno: los commits siguen en la base hasta que nada los alcanza.
+cuando se borra uno: los commits siguen en la base hasta que nada los alcanza. Sobre esos punteros
+trabajan el [merge de tres vías](merge-de-tres-vias.md), que combina las puntas de dos branches, el
+[rebase](rebase.md), que mueve los commits de un branch a otra base, y la
+[recuperación de trabajo perdido](recuperar-trabajo-perdido-en-git.md), que vuelve a apuntar un branch a un commit.
 
-## Cómo funciona
+## Refs, HEAD y tags
 
 Las **refs** son nombres para hashes de commits:
 
@@ -57,7 +53,7 @@ autor, fecha, mensaje y firma opcional (`-s`). Por convención, los releases usa
 inmutable: `git tag -f` lo mueve. La documentación de `git tag` desaconseja mover un tag ya
 publicado, porque quien lo bajó conserva la versión vieja; si hubo un error, se publica otro tag.
 
-## Ejemplo
+## Un commit que hace avanzar el branch
 
 ```text
 $ cat .git/HEAD
@@ -69,15 +65,11 @@ $ git rev-parse feature/login
 8d41b0a…            # el branch avanzó; main sigue donde estaba
 ```
 
-## No confundir con
+## Un branch no es una copia
 
-Una copia del código. Un branch no duplica archivos: los commits y los blobs son los mismos, y
+Una copia del código. Un branch no duplica archivos: los commits y los blobs del [modelo de objetos](modelo-de-objetos-de-git.md) son los mismos, y
 solo cambia qué commit nombra el puntero.
 
-## Relaciones
+## Ver también
 
-- Requiere: [Modelo de objetos de Git](modelo-de-objetos-de-git.md) — un branch apunta a un commit, que apunta a un tree.
-- Base de: [Merge de tres vías](merge-de-tres-vias.md) — combina las puntas de dos branches.
-- Base de: [Rebase](rebase.md) — mueve los commits de un branch a otra base.
-- Base de: [Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md) — recuperar es volver a apuntar un branch a un commit.
-- Ver también: [Estrategia de branching](../../DevOps/estrategia-de-branching.md) (DevOps) — qué branches tiene un equipo y cómo se integran.
+- [Estrategia de branching](../../DevOps/Ramas-y-versiones/estrategia-de-branching.md) (DevOps) — qué branches tiene un equipo y cómo se integran.

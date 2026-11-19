@@ -1,15 +1,11 @@
 ---
-tipo: concepto
 resumen: >-
   El index (staging area) es el archivo `.git/index` que guarda el próximo commit: está entre el
   directorio de trabajo y el historial, y permite elegir qué cambios entran.
 estado: borrador
 estabilidad: estable
-dueno: matias
 revisado:
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Scott Chacon y Ben Straub, Pro Git, 1.3 What is Git? (The Three States): https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F"
   - "Git Documentation, git-add (--patch): https://git-scm.com/docs/git-add"
@@ -17,9 +13,6 @@ fuentes:
   - "Git Documentation, gitformat-index: https://git-scm.com/docs/gitformat-index"
   - "Archivo/Desarrollo/git/git-mastery-manual.md y git-mecanismos-internos.md (originales, texto generado con IA)"
 aliases: [Staging area, Index, Área de preparación, Stage, Los tres estados de Git]
-parte_de: []
-requiere: [modelo-de-objetos-de-git]
-relacionado: []
 ---
 
 # Index de Git
@@ -27,13 +20,13 @@ relacionado: []
 El index (staging area) es el archivo `.git/index` que guarda el próximo commit: está entre el
 directorio de trabajo y el historial, y permite elegir qué cambios entran.
 
-## Por qué importa
+## Commitear solo el arreglo
 
 Una tarde de trabajo suele mezclar un arreglo, un cambio de formato y un log de depuración. El
 index permite commitear solo el arreglo, aunque esté en el mismo archivo que lo demás, y dejar un
 historial donde cada commit hace una sola cosa.
 
-## Cómo funciona
+## Directorio de trabajo, index y repositorio
 
 Un archivo puede estar en tres lugares, y cada comando lo mueve entre ellos:
 
@@ -55,7 +48,10 @@ de un archivo.
 el último commit, y "Changes not staged" es la diferencia entre el directorio de trabajo y el
 index. `git diff` muestra la segunda; `git diff --staged`, la primera.
 
-## Ejemplo
+Cómo sacar algo del index o volver atrás un commit está en
+[Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md).
+
+## Elegir un hunk y descartar el resto
 
 ```bash
 git add -p servicio.py        # elegir solo el hunk del arreglo
@@ -64,12 +60,7 @@ git commit -m "Corrige el redondeo del total"
 git restore servicio.py       # descartar el log de depuración que quedó sin agregar
 ```
 
-## No confundir con
+## Index y stash
 
 El stash. El index arma el próximo commit; `git stash` guarda aparte los cambios del directorio
 de trabajo y del index para limpiar el árbol y retomarlos después.
-
-## Relaciones
-
-- Requiere: [Modelo de objetos de Git](modelo-de-objetos-de-git.md) — el index guarda hashes de blobs y se convierte en trees.
-- Ver también: [Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md) — cómo sacar algo del index o volver atrás un commit.

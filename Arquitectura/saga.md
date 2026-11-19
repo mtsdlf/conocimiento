@@ -1,24 +1,17 @@
 ---
-tipo: concepto
 resumen: >-
   Una saga reemplaza una transacción distribuida por una secuencia de transacciones locales, cada
   una con una acción que la compensa si un paso posterior falla.
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Hector Garcia-Molina y Kenneth Salem, Sagas, SIGMOD 1987: https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf"
   - "Chris Richardson, Pattern: Saga, microservices.io: https://microservices.io/patterns/data/saga.html"
   - "Archivo/Arquitectura/mvp-ecommerce-arquitectura.md (original, texto generado con IA)"
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
 aliases: [Patrón saga, Saga pattern, Transacción compensable]
-parte_de: []
-requiere: []
-relacionado: [clave-de-idempotencia, circuit-breaker, degradacion-controlada]
+creado: 2026-10-03
+revisado:
 ---
 
 # Saga
@@ -26,7 +19,7 @@ relacionado: [clave-de-idempotencia, circuit-breaker, degradacion-controlada]
 Una saga reemplaza una transacción distribuida por una secuencia de transacciones locales, cada
 una con una acción que la compensa si un paso posterior falla.
 
-## Por qué importa
+## Por qué una compra entre servicios no cabe en una transacción
 
 Cuando cada servicio tiene su propia base, una compra que reserva stock, cobra y crea el pedido
 no cabe en una sola transacción ACID. Un commit en dos fases entre servicios bloquea recursos y
@@ -34,7 +27,7 @@ depende de que todos estén disponibles a la vez. La saga acepta que los pasos s
 separado y define cómo volver atrás. Garcia-Molina y Salem la describieron en 1987 para
 transacciones largas dentro de una base de datos; Chris Richardson la adaptó a microservicios.
 
-## Cómo funciona
+## Compensaciones, coreografía y orquestación
 
 Cada paso es una transacción local que se confirma e informa su resultado. Si un paso falla, la
 saga ejecuta, en orden inverso, la **compensación** de cada paso ya confirmado: una operación
@@ -50,22 +43,21 @@ Hay dos formas de coordinarla, según microservices.io:
 
 Una saga no tiene aislamiento: otro proceso puede ver el stock reservado antes de que la compra
 termine. Los pasos y las compensaciones tienen que ser idempotentes, porque se reintentan ante
-fallas de red; ver [Clave de idempotencia](clave-de-idempotencia.md).
+fallas de red, y eso lo resuelve una [clave de idempotencia](clave-de-idempotencia.md).
 
-## Ejemplo
+## Un checkout orquestado
 
 Un checkout orquestado: (1) reservar stock con vencimiento, (2) crear el intento de pago,
 (3) crear el pedido, (4) confirmar el pago y comprometer el stock. Si el paso 3 falla, el
 orquestador cancela el intento de pago y libera la reserva. Si el proveedor de pagos no responde,
 el pago queda pendiente y un proceso en segundo plano lo resuelve después.
 
-## No confundir con
+## Compensación no es rollback
 
-Un rollback. El rollback de una base de datos descarta cambios que nadie más vio; una
+El rollback de una base de datos descarta cambios que nadie más vio; una
 compensación es una operación de negocio nueva sobre cambios que ya se confirmaron.
 
-## Relaciones
+## Ver también
 
-- Relacionado: [Clave de idempotencia](clave-de-idempotencia.md) — hace seguro reintentar cada paso.
-- Relacionado: [Circuit breaker](circuit-breaker.md) — una dependencia con el breaker abierto es una de las fallas que disparan compensaciones.
-- Relacionado: [Degradación controlada](degradacion-controlada.md) — decide si un paso fallido aborta la saga o queda pendiente.
+- [Circuit breaker](circuit-breaker.md): una dependencia con el breaker abierto es una de las fallas que disparan compensaciones.
+- [Degradación controlada](degradacion-controlada.md): decide si un paso fallido aborta la saga o queda pendiente.

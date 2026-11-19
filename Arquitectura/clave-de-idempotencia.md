@@ -1,15 +1,9 @@
 ---
-tipo: concepto
 resumen: >-
   Una clave de idempotencia es un identificador que el cliente manda con una operación para que,
   si la reintenta, el servidor devuelva el mismo resultado sin repetir el efecto.
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "IETF HTTPAPI, The Idempotency-Key HTTP Header Field, draft 07 (2025, vencido): https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/"
   - "Stripe, Idempotent requests: https://docs.stripe.com/api/idempotent_requests"
@@ -17,9 +11,8 @@ fuentes:
   - "Archivo/Arquitectura/mvp-ecommerce-arquitectura.md (original, texto generado con IA)"
   - "Archivo/Desarrollo/epicas-historias-usuario-ecommerce.md (original)"
 aliases: [Idempotency-Key, Idempotency key, Clave idempotente]
-parte_de: []
-requiere: []
-relacionado: [saga]
+creado: 2026-10-03
+revisado:
 ---
 
 # Clave de idempotencia
@@ -27,14 +20,14 @@ relacionado: [saga]
 Una clave de idempotencia es un identificador que el cliente manda con una operación para que,
 si la reintenta, el servidor devuelva el mismo resultado sin repetir el efecto.
 
-## Por qué importa
+## Por qué un POST no se reintenta sin protección
 
 Si un cliente manda `POST /payments` y la conexión se corta antes de la respuesta, no sabe si el
 cobro se hizo. Reintentar sin protección puede cobrar dos veces; no reintentar puede perder la
 venta. HTTP define `GET`, `PUT` y `DELETE` como idempotentes (RFC 9110), pero `POST` y `PATCH` no
 lo son. La clave hace seguro el reintento de esas operaciones.
 
-## Cómo funciona
+## Cómo guarda y compara la clave el servidor
 
 1. El cliente genera un valor único por operación (un UUID v4) y lo manda en el header
    `Idempotency-Key`. Si reintenta, manda el mismo valor.
@@ -53,21 +46,20 @@ el primer request sigue en curso.
 Si el efecto vive en la misma base, la clave se guarda en la misma transacción. Si se guarda
 después, una caída en el medio deja el efecto hecho y la clave sin registrar.
 
-## Ejemplo
+## Dos POST con la misma clave
 
 Una API de catálogo recibe dos veces `POST /products` con `Idempotency-Key: abc123` y el SKU
 `SKU-002`. La primera vez responde 201 Created con el `id` del producto; la segunda devuelve la
 misma respuesta, 201 con el mismo `id`, y la base tiene un solo producto. En un sistema
 [Multi-tenancy](multi-tenancy.md), la clave se guarda junto con el tenant, para que dos clientes no choquen.
 
-## No confundir con
+## Por qué no alcanza una restricción de unicidad
 
-Una restricción de unicidad. Un índice único sobre el SKU evita duplicados, pero el segundo
+Un índice único sobre el SKU evita duplicados, pero el segundo
 intento recibe un error 409 en lugar de la respuesta original, y el cliente no sabe si su primer
 intento funcionó.
 
-## Relaciones
+## Ver también
 
-- Relacionado: [Saga](saga.md) — los pasos y compensaciones de una saga se reintentan y necesitan ser idempotentes.
-- Ver también: [Multi-tenancy](multi-tenancy.md) — la clave se aísla por tenant.
-- La usa: [Diseñar casos de prueba de una API](../Desarrollo/disenar-casos-de-prueba-de-api.md) (Desarrollo) — cada operación que acepta la clave lleva un caso de reintento.
+- [Saga](saga.md): los pasos y compensaciones de una saga se reintentan y necesitan ser idempotentes.
+- [Diseñar casos de prueba de una API](../Desarrollo/Especificacion-y-prueba/disenar-casos-de-prueba-de-api.md), en Desarrollo: cada operación que acepta la clave lleva un caso de reintento.

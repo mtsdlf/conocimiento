@@ -1,23 +1,16 @@
 ---
-tipo: concepto
 resumen: >-
   "El LLM emite, el reasoner verifica" es un patrón en el que un LLM produce afirmaciones y un
   verificador simbólico las chequea contra una ontología, con tres veredictos: marcar, rechazar
   o reparar.
 estado: borrador
 estabilidad: estable
-dueno: matias
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - https://arxiv.org/abs/2402.01817
   - https://arxiv.org/abs/2305.12295
   - https://www.w3.org/TR/owl2-primer/
 aliases: [LLM emits reasoner checks, LLM-Modulo, verificación neuro-simbólica, capa de ontología]
-parte_de: [guardrails]
-requiere: [guardrails, inferencia-rdfs-y-owl]
-relacionado: []
 ---
 
 # El LLM emite, el reasoner verifica
@@ -26,14 +19,15 @@ relacionado: []
 verificador simbólico las chequea contra una ontología, con tres veredictos: marcar, rechazar
 o reparar.
 
-## Por qué importa
+## Lo que el esquema y el validador no atrapan
 
 Un esquema y un validador atrapan valores mal formados o fuera de rango. No atrapan una
-afirmación coherente campo por campo pero imposible en el dominio. Kambhampati y otros (2024)
+afirmación coherente campo por campo pero imposible en el dominio: para eso está este patrón,
+la capa de ontología y la última de la pila de [guardrails de LLM](guardrails.md). Kambhampati y otros (2024)
 sostienen que un LLM autorregresivo no puede verificarse a sí mismo; la garantía tiene que venir
 de un verificador externo y correcto.
 
-## Cómo funciona
+## Emitir, verificar y los tres veredictos
 
 1. El LLM traduce su respuesta a afirmaciones estructuradas (tripletas sujeto–propiedad–objeto
    o hechos tipados).
@@ -56,19 +50,14 @@ de los verificadores se juntan y vuelven al LLM.
 Los tres veredictos como esquema son síntesis propia. En la literatura citada solo aparece el
 ciclo de reparación.
 
-## Ejemplo
+## Un fondo de renta fija que invierte en acciones
 
 Un LLM afirma que un fondo es "renta fija" y que "invierte solo en acciones". La ontología
 declara las dos clases disjuntas. El reasoner informa la inconsistencia y el sistema le pide al
 LLM que corrija una de las dos.
 
-## No confundir con
+## Qué no es este patrón: autorrevisión y omisiones
 
 Pedirle al mismo LLM que revise su respuesta no es este patrón: el verificador no es
 independiente. Tampoco detecta omisiones: con OWL, por mundo abierto, un dato que el LLM no
 emitió no cuenta como error.
-
-## Relaciones
-
-- Parte de y requiere: [Guardrails de LLM](guardrails.md) — es su capa de ontología, la última de la pila.
-- Requiere: [Inferencia en RDFS y OWL](inferencia-rdfs-y-owl.md) — qué puede deducir y qué no un reasoner.

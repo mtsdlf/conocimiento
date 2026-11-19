@@ -1,15 +1,11 @@
 ---
-tipo: concepto
 resumen: >-
   En un repositorio grande, Git se vuelve usable descargando y mostrando menos: clon superficial o
   parcial, sparse checkout, worktrees y mantenimiento programado.
 estado: borrador
 estabilidad: estable
-dueno: matias
 revisado:
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Git Documentation, git-clone (--depth, --filter): https://git-scm.com/docs/git-clone"
   - "Git Documentation, partial-clone: https://git-scm.com/docs/partial-clone"
@@ -19,9 +15,6 @@ fuentes:
   - "Git Documentation, scalar: https://git-scm.com/docs/scalar"
   - "Archivo/DevOps/git/git-scaling-performance.md (original, texto generado con IA)"
 aliases: [Rendimiento de Git, Partial clone, Clon parcial, Shallow clone, Sparse checkout, git worktree, Scalar, Git a escala]
-parte_de: []
-requiere: [modelo-de-objetos-de-git]
-relacionado: [git-lfs]
 ---
 
 # Git en repositorios grandes
@@ -29,14 +22,14 @@ relacionado: [git-lfs]
 En un repositorio grande, Git se vuelve usable descargando y mostrando menos: clon superficial o
 parcial, sparse checkout, worktrees y mantenimiento programado.
 
-## Por qué importa
+## Lo que se descarga y lo que se mira
 
 Un clon normal descarga todos los objetos de toda la historia (ver
 [Modelo de objetos de Git](modelo-de-objetos-de-git.md)). En un monorepo de años, eso puede ser decenas de GB y minutos de
 espera en cada job de CI, y `git status` tarda porque recorre cientos de miles de archivos. Cada
 técnica ataca una de esas dos cosas: lo que se descarga o lo que se mira.
 
-## Cómo funciona
+## Siete técnicas y scalar
 
 | Técnica | Comando | Qué ahorra | Para quién |
 |---|---|---|---|
@@ -54,23 +47,17 @@ sueltos, porque es mucho más rápido de evaluar; el modo sin cone está desacon
 `scalar`, incluido en Git desde la 2.38, configura todo esto junto en un comando
 (`scalar clone <url>`): clon parcial, sparse checkout, monitor de archivos y mantenimiento.
 
-Los binarios grandes son otro problema: no se resuelven con estas técnicas sino con [Git LFS](git-lfs.md).
+Los binarios grandes son otro problema: no se resuelven con estas técnicas sino con [Git LFS](git-lfs.md). Un
+[mirror de Git](mirror-de-git.md) local, en cambio, sí acelera los clones de CI.
 
-## Ejemplo
+## Un job de CI y una persona de frontend
 
 Un job de CI que solo compila usa `git clone --depth=1 --filter=blob:none`. Una persona del equipo
 de frontend usa `scalar clone` y `git sparse-checkout set apps/web libs/ui`: su clon es chico y
 `git status` responde rápido.
 
-## No confundir con
+## Hacer viable un repo grande sin partirlo
 
 Partir el repositorio. Pasar de monorepo a varios repos es una decisión de organización, con
-otros costos; ver [Monorepo y multirepo](../../DevOps/monorepo-y-multirepo.md) en DevOps. Estas técnicas hacen viable un repo grande
+otros costos; ver [Monorepo y multirepo](../../DevOps/Repositorios/monorepo-y-multirepo.md) en DevOps. Estas técnicas hacen viable un repo grande
 sin partirlo.
-
-## Relaciones
-
-- Requiere: [Modelo de objetos de Git](modelo-de-objetos-de-git.md) — qué son los blobs y trees que se dejan de descargar.
-- Relacionado: [Git LFS](git-lfs.md) — la solución para archivos binarios grandes.
-- Ver también: [Mirror de Git](mirror-de-git.md) — un mirror local acelera los clones de CI.
-- Ver también: [Monorepo y multirepo](../../DevOps/monorepo-y-multirepo.md) (DevOps) — cuándo conviene un repo grande.

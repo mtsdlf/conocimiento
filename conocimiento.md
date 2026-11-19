@@ -38,7 +38,7 @@ Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCION
 ## Sistemas e IA
 
 - [Linux](Linux/linux.md) — cómo está hecho y cómo se administra Linux; con Recorrido.
-- [IA](IA/conceptos-ia.md) — modelos de lenguaje y cómo se acota lo que emiten.
+- [IA](IA/ia.md) — modelos de lenguaje y cómo se acota lo que emiten.
 
 ## Datos
 

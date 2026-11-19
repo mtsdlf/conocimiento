@@ -1,70 +1,64 @@
 ---
-tipo: mapa
 resumen: >-
   Platform engineering es construir y operar plataformas internas para que los equipos de
-  desarrollo entreguen software con autonomía, seguridad y menos carga cognitiva; este Mapa reúne
-  las notas de Matías sobre organización de equipos, developer experience, la plataforma interna y
-  el diagnóstico Dev–Ops.
+  desarrollo entreguen software con autonomía, seguridad y menos carga cognitiva.
 estado: borrador
 estabilidad: semi
-dueno: matias
-revisado:
+fuentes:
+  - "Matthew Skelton y Manuel Pais, Team Topologies (IT Revolution, 2019): https://teamtopologies.com/book"
+  - "CNCF TAG App Delivery, Platforms White Paper: https://tag-app-delivery.cncf.io/whitepapers/platforms/"
+  - "Ajay Chankramath, Nic Cheneweth, Bryan Oliver y Sean Alvarez, Effective Platform Engineering (Manning): https://livebook.manning.com/book/effective-platform-engineering/"
 creado: 2026-10-03
-autoria: ia
-idioma: es
-parte_de: [conocimiento]
+revisado:
 ---
 
 # Platform Engineering
 
 Platform engineering es construir y operar plataformas internas para que los equipos de
-desarrollo entreguen software con autonomía, seguridad y menos carga cognitiva; este Mapa reúne
-las notas de Matías sobre organización de equipos, developer experience, la plataforma interna y
-el diagnóstico Dev–Ops.
+desarrollo entreguen software con autonomía, seguridad y menos carga cognitiva.
 
-Para aprenderlo en orden: [Platform engineering desde cero](recorrido-platform-engineering.md).
+Lo que se construye es una [Internal Developer Platform](Plataforma-interna/internal-developer-platform.md):
+un conjunto de capacidades self-service que un platform team ofrece como producto. La plataforma
+no se entiende sola. Según la [ley de Conway](Organizacion-de-equipos/ley-de-conway.md), el sistema
+copia la comunicación entre equipos, así que importa quién la construye y para quién; y una
+plataforma se justifica, en buena parte, por la fricción que les saca a los desarrolladores.
 
-## Organización de equipos
+Se confunde con un equipo "DevOps" que ejecuta los despliegues de los demás. La diferencia es que
+el platform team ofrece capacidades que los equipos usan solos, y el otro hace el trabajo por
+ellos: es el [anti-patrón del equipo DevOps](Colaboracion-Dev-Ops/anti-patron-equipo-devops.md).
+Las prácticas de entrega (integración continua, pipelines, GitOps) están en el tema
+[DevOps](../DevOps/devops.md), y los patrones entre servicios, en [Arquitectura](../Arquitectura/arquitectura.md).
 
-- [Ley de Conway](ley-de-conway.md) — por qué el sistema copia la comunicación entre equipos; es la base del resto del grupo.
-- [Maniobra inversa de Conway](maniobra-inversa-de-conway.md) — cómo diseñar los equipos para obtener la arquitectura buscada.
-- [Número de Dunbar](numero-de-dunbar.md) — cuánta gente cabe en un equipo y en un grupo de equipos.
-- [Team-first](team-first.md) — por qué el equipo estable, y no la persona, es la unidad de entrega.
-- [Team Topologies](team-topologies.md) — el modelo de cuatro tipos de equipo y tres modos de interacción.
-- [Stream-aligned team](stream-aligned-team.md) — el equipo principal, que entrega de punta a punta.
-- [Platform team](platform-team.md) — el equipo que ofrece capacidades internas como producto.
-- [Modo de interacción entre equipos](modo-de-interaccion-entre-equipos.md) — qué esperar de la relación entre dos equipos.
+## De qué está hecho el platform engineering
 
-## Developer experience
+Cinco partes. La organización de equipos decide quién construye y quién consume; la plataforma
+interna es lo que el platform team construye para los equipos de producto; la experiencia de
+desarrollo es lo que esa plataforma intenta mejorar; la operación hace visible lo que corre sobre
+ella; y la colaboración Dev–Ops dice desde dónde parte una organización real.
 
-- [Developer experience](developer-experience.md) — qué es DevEx y sus tres dimensiones.
-- [Carga cognitiva](carga-cognitiva.md) — los tres tipos de carga y las técnicas para reducirla.
-- [Mechanical sympathy](mechanical-sympathy.md) — por qué no conviene ocultarle todo al desarrollador.
+```mermaid
+flowchart LR
+  CD[Colaboración Dev–Ops] -->|diagnostica el punto de partida de| OE[Organización de equipos]
+  OE -->|asigna a un platform team| PI[Plataforma interna]
+  PI -->|reduce la carga cognitiva de| ED[Experiencia de desarrollo]
+  ED -->|limita cuánto software posee cada equipo de| OE
+  PI -->|ofrece como capacidad la| OP[Operación de la plataforma]
+```
 
-## La plataforma interna
+- [Organización de equipos](Organizacion-de-equipos/organizacion-de-equipos.md) — la ley de Conway, el tamaño y la estabilidad de los equipos, y Team Topologies con sus tipos de equipo y modos de interacción. Se lee primero: el resto da por sentado que el sistema copia a los equipos.
+- [Experiencia de desarrollo](Experiencia-de-desarrollo/experiencia-de-desarrollo.md) — cómo viven los desarrolladores su trabajo, la carga cognitiva y hasta dónde conviene ocultarles lo de abajo.
+- [Plataforma interna](Plataforma-interna/plataforma-interna.md) — la IDP y sus partes: capacidades, self-service, APIs, gobernanza, golden paths y portal.
+- [Operación de la plataforma](Operacion-de-la-plataforma/operacion-de-la-plataforma.md) — la observabilidad y la práctica de definir la telemetría con cada cambio.
+- [Colaboración Dev–Ops](Colaboracion-Dev-Ops/colaboracion-dev-ops.md) — DevOps Topologies, su anti-patrón más común y cómo se diagnostica una organización con entrevistas.
 
-- [Internal Developer Platform](internal-developer-platform.md) — qué es una IDP y de qué partes se compone; la puerta de entrada al grupo.
-- [Plataforma como producto](plataforma-como-producto.md) — qué cambia al tratar la plataforma como producto.
-- [Capacidad de plataforma](capacidad-de-plataforma.md) — la unidad de lo que ofrece la plataforma, separada de la tecnología.
-- [Self-service](self-service.md) — qué hace que pedir un recurso no necesite un ticket.
-- [Plataforma API-first](plataforma-api-first.md) — por qué cada capacidad se expone primero como API.
-- [Gobernanza de plataforma](gobernanza-de-plataforma.md) — cómo se da autonomía sin perder control ni trazabilidad.
-- [Golden path](golden-path.md) — el camino estándar con plantillas para lo común.
-- [Developer portal](developer-portal.md) — la interfaz web de la plataforma, como Backstage.
-- [Crossplane](crossplane.md) — cómo ofrecer infraestructura como APIs declarativas sobre Kubernetes.
+## Lo que falta: el catálogo de servicios
 
-## Operar la plataforma
+El Service Catalog (registro de servicios, ownership y documentación) no tiene material todavía.
+El [developer portal](Plataforma-interna/developer-portal.md) describe el catálogo de software de
+Backstage, pero el tema no lo trata como pieza propia.
 
-- [Observabilidad](observabilidad.md) — qué permite entender un sistema desde sus métricas, logs y traces, y en qué se diferencia del monitoreo.
-- [Observability-driven development](observability-driven-development.md) — cómo hacer de la telemetría y las alertas un criterio de aceptación de cada ítem del backlog.
+## De Conway a la plataforma
 
-## Diagnóstico Dev–Ops
-
-- [DevOps Topologies](devops-topologies.md) — los nueve Types y ocho Anti-Types de la relación Dev–Ops.
-- [Anti-patrón del equipo DevOps](anti-patron-equipo-devops.md) — por qué un equipo "DevOps" intermedio se vuelve cuello de botella.
-- [Evaluar la colaboración Dev–Ops de una organización](evaluar-la-colaboracion-dev-ops.md) — los pasos para diagnosticar una organización con entrevistas.
-- [Cuestionario de colaboración Dev–Ops](cuestionario-de-colaboracion-dev-ops.md) — las 42 preguntas y la rúbrica, para usar en las entrevistas.
-
-## Pendiente
-
-- Service Catalog (registro de servicios, ownership y documentación): sin material todavía.
+Para aprenderlo en orden, [Platform engineering desde cero](Fundamentos/recorrido-platform-engineering.md)
+recorre las cinco partes paso a paso. [Fundamentos](Fundamentos/fundamentos-de-platform-engineering.md) reúne lo que cruza
+todo el tema.

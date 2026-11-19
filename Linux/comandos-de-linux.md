@@ -1,24 +1,17 @@
 ---
-tipo: ficha
 resumen: >-
   Los comandos de administración de Linux agrupados por función: archivos, texto, procesos,
   monitoreo, red, usuarios, servicios, paquetes por familia de distro, módulos y performance.
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Original archivado (generado con IA): Archivo/Linux/linux-componentes-sistema.md, secciones 2.2 a 2.4, 5.2, 9, 11 y 12"
   - "Páginas de manual de Linux: https://man7.org/linux/man-pages/"
   - "Brendan Gregg, Linux Performance: https://www.brendangregg.com/linuxperf.html"
   - "explainshell (explica cada parte de una línea de comandos): https://explainshell.com"
 aliases: [Comandos de administración de Linux, Chuleta de Linux, Cheat sheet de Linux]
-parte_de: []
-requiere: []
-relacionado: []
+creado: 2026-10-03
+revisado:
 ---
 
 # Comandos de Linux
@@ -26,13 +19,17 @@ relacionado: []
 Los comandos de administración de Linux agrupados por función: archivos, texto, procesos,
 monitoreo, red, usuarios, servicios, paquetes por familia de distro, módulos y performance.
 
-## Fuente
+Detalla los comandos de [Daemon](daemon.md) y [systemd](systemd.md), las herramientas de
+[Llamada al sistema](llamada-al-sistema.md) (`strace`, `ltrace`) y los comandos de texto de
+[Pipe y redirección](pipe-y-redireccion.md).
+
+## Dónde está el manual de cada comando
 
 Cada comando trae su manual: `man <comando>`, `tldr <comando>` para ejemplos cortos, y
 [explainshell](https://explainshell.com) para desarmar una línea entera. La mayoría viene de GNU
 coreutils, util-linux, procps e iproute2.
 
-## Valores
+## Los comandos, por función
 
 ### Archivos, texto y permisos
 
@@ -124,9 +121,3 @@ pacman -Syu                      # Arch: actualizar todo
 |---|---|
 | Módulos | `lsmod`, `modprobe <módulo>`, `modprobe -r <módulo>`, `modinfo`; viven en `/lib/modules/$(uname -r)/` |
 | Parámetros | `sysctl -a`, `sysctl -w <clave>=<valor>`, `sysctl --system` (recarga `/etc/sysctl.d/`) |
-
-## Relaciones
-
-- Detalla: [Daemon](daemon.md) y [systemd](systemd.md) — los comandos para ver y controlar servicios.
-- Detalla: [Llamada al sistema](llamada-al-sistema.md) — `strace` y `ltrace`.
-- Detalla: [Pipe y redirección](pipe-y-redireccion.md) — los comandos de texto que se combinan con pipes.

@@ -1,23 +1,16 @@
 ---
-tipo: concepto
 resumen: >-
   API-led connectivity organiza las APIs en tres capas: System (expone un sistema o dominio),
   Process (orquesta varias System) y Experience (adapta los datos a un frontend).
 estado: borrador
 estabilidad: estable
-dueno: matias
-revisado:
-creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "MuleSoft Documentation, API-led connectivity overview: https://docs.mulesoft.com/general/api-led-overview"
   - "Archivo/Arquitectura/mvp-ecommerce-arquitectura.md (original, texto generado con IA)"
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
 aliases: [API-led, Arquitectura API-led, System Process Experience APIs]
-parte_de: []
-requiere: []
-relacionado: [multi-tenancy]
+creado: 2026-10-03
+revisado:
 ---
 
 # API-led connectivity
@@ -25,14 +18,14 @@ relacionado: [multi-tenancy]
 API-led connectivity organiza las APIs en tres capas: System (expone un sistema o dominio),
 Process (orquesta varias System) y Experience (adapta los datos a un frontend).
 
-## Por qué importa
+## Por qué separar la orquestación del frontend
 
 Sin capas, cada frontend llama directo a cada servicio y repite la misma orquestación: la tienda
 y el backoffice arman cada uno su propia vista de un producto. Con capas, la orquestación vive en
 un solo lugar y cada frontend recibe exactamente los datos que muestra. El término y las tres
 capas los propuso MuleSoft.
 
-## Cómo funciona
+## Las tres capas y quién llama a quién
 
 | Capa | Qué hace | Quién la llama |
 |---|---|---|
@@ -48,20 +41,18 @@ En un diseño por bounded contexts, cada contexto (Identidad, Catálogo, Pedido)
 System API. Las fallas se contienen en la capa Process, que es la que llama a varias
 dependencias: ahí van el [Circuit breaker](circuit-breaker.md) y la [Degradación controlada](degradacion-controlada.md).
 
-## Ejemplo
+## La vista de producto de una tienda online
 
 En una tienda online, `GET /exp/store/products/{slug}` (Experience) llama a un ProductViewProcess,
 que junta el producto (System Catálogo), su precio vigente (System Precios) y su stock (System
 Inventario). El backoffice usa otra Experience sobre las mismas System.
 
-## No confundir con
+## Lo que no hace un API gateway
 
-Un API gateway. El gateway enruta, autentica y limita tráfico, pero no orquesta datos de varios
+El gateway enruta, autentica y limita tráfico, pero no orquesta datos de varios
 servicios; puede estar delante de cualquiera de las tres capas.
 
-## Relaciones
+## Ver también
 
-- Relacionado: [Multi-tenancy](multi-tenancy.md) — el tenant se resuelve en la capa Experience y viaja a las de abajo.
-- Ver también: [Circuit breaker](circuit-breaker.md) — se aplica en las llamadas de Process a System.
-- Ver también: [Plataforma API-first](../Platform-Engineering/plataforma-api-first.md) (Platform-Engineering) — API-first dice cómo se expone una
-  capacidad; API-led, en qué capa va.
+- [Multi-tenancy](multi-tenancy.md): el tenant se resuelve en la capa Experience y viaja a las de abajo.
+- [Plataforma API-first](../Platform-Engineering/Plataforma-interna/plataforma-api-first.md), en Platform-Engineering: API-first dice cómo se expone una capacidad; API-led, en qué capa va.

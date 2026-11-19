@@ -1,14 +1,10 @@
 ---
-tipo: concepto
 resumen: >-
   Los guardrails de un LLM son capas que se apilan sobre su salida, y cada una atrapa errores que
   la anterior no puede: prompt, esquema, validación y ontología.
 estado: borrador
 estabilidad: estable
-dueno: matias
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations
   - https://platform.claude.com/docs/en/build-with-claude/structured-outputs
@@ -16,9 +12,6 @@ fuentes:
   - https://www.w3.org/TR/owl2-primer/
   - https://www.w3.org/TR/shacl/
 aliases: [guardrails, guardrail stack, pila de guardrails, guardrails de LLM]
-parte_de: [conceptos-ia]
-requiere: [llm]
-relacionado: []
 ---
 
 # Guardrails de LLM
@@ -26,13 +19,13 @@ relacionado: []
 Los guardrails de un LLM son capas que se apilan sobre su salida, y cada una atrapa errores que
 la anterior no puede: prompt, esquema, validación y ontología.
 
-## Por qué importa
+## Por qué cada tipo de error necesita su capa
 
 Un [LLM](llm.md) produce texto probable, no texto correcto. Si su salida alimenta un sistema (una base,
 una API, una decisión), cada tipo de error necesita un control distinto. Pensarlos como pila
 dice qué capa falta cuando un error llega a producción.
 
-## Cómo funciona
+## Qué atrapa cada capa
 
 | Capa | Qué atrapa | Herramientas típicas |
 |---|---|---|
@@ -51,19 +44,13 @@ dice qué capa falta cuando un error llega a producción.
 - **Ontología**: un reasoner chequea la afirmación contra lo que el dominio permite; es el
   patrón [El LLM emite, el reasoner verifica](llm-emite-reasoner-verifica.md).
 
-## Ejemplo
+## Un informe de pacientes, capa por capa
 
 Un LLM extrae pacientes de un informe. El esquema asegura que `edad` es un entero. La
 validación rechaza `edad: 212`. Solo la ontología rechaza "paciente de 8 años, embarazo de
 riesgo, jubilado", donde cada campo es válido por separado y la combinación es imposible.
 
-## No confundir con
+## Guardrails de seguridad y guardrails de corrección
 
 Los guardrails de **seguridad** (filtrar contenido dañino, resistir jailbreaks) protegen de
 usos indebidos. Esta pila protege de salidas incorrectas en usos legítimos; las dos conviven.
-
-## Relaciones
-
-- Parte de: [IA](conceptos-ia.md) — Mapa del Tema IA.
-- Requiere: [LLM](llm.md) — explica por qué la salida de un modelo no viene garantizada.
-- Detalla: [El LLM emite, el reasoner verifica](llm-emite-reasoner-verifica.md) — la capa de ontología, paso a paso.

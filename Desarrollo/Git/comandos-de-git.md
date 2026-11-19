@@ -1,24 +1,17 @@
 ---
-tipo: ficha
 resumen: >-
   Los comandos de Git del día a día y de mantenimiento, agrupados por tarea: sincronizar, stash,
   diff y log, tags, bisect, submódulos, firma, plumbing y mantenimiento.
 estado: borrador
 estabilidad: estable
-dueno: matias
 revisado:
 creado: 2026-10-03
-autoria: ia
-idioma: es
 fuentes:
   - "Git Documentation (referencia de cada comando): https://git-scm.com/docs"
   - "Git Documentation, gitrevisions (A..B, A...B): https://git-scm.com/docs/gitrevisions"
   - "Git Documentation, git-filter-branch (advertencia y alternativa filter-repo): https://git-scm.com/docs/git-filter-branch"
   - "Archivo/Desarrollo/git/git-mastery-manual.md y git-mecanismos-internos.md, y Archivo/DevOps/git/ (originales, texto generado con IA, comandos verificados contra la documentación)"
 aliases: [Chuleta de Git, Git cheat sheet, Comandos Git]
-parte_de: []
-requiere: []
-relacionado: []
 ---
 
 # Comandos de Git
@@ -26,14 +19,13 @@ relacionado: []
 Los comandos de Git del día a día y de mantenimiento, agrupados por tarea: sincronizar, stash,
 diff y log, tags, bisect, submódulos, firma, plumbing y mantenimiento.
 
-## Fuente
-
-La referencia completa de cada comando está en [git-scm.com/docs](https://git-scm.com/docs);
+Implementa los conceptos de [Modelo de objetos de Git](modelo-de-objetos-de-git.md), [Branch (Git)](branch-git.md),
+[Merge de tres vías](merge-de-tres-vias.md) y [Rebase](rebase.md). La referencia completa de cada comando está en [git-scm.com/docs](https://git-scm.com/docs);
 `git <comando> --help` abre la misma página. Esta ficha agrupa los usos comunes, verificados
 contra esa documentación el 2026-10-03. Deshacer y recuperar está en
 [Recuperar trabajo perdido en Git](recuperar-trabajo-perdido-en-git.md).
 
-## Valores
+## Comandos por tarea
 
 **Branches y sincronización**
 
@@ -101,7 +93,3 @@ se firma con una clave SSH. `git log --show-signature` verifica.
 
 Para reescribir la historia en masa (sacar un archivo de todos los commits), la documentación de
 `git filter-branch` desaconseja ese comando y recomienda la herramienta aparte `git filter-repo`.
-
-## Relaciones
-
-- Detalla: [Modelo de objetos de Git](modelo-de-objetos-de-git.md), [Branch (Git)](branch-git.md), [Merge de tres vías](merge-de-tres-vias.md) y [Rebase](rebase.md) — los conceptos detrás de estos comandos.
