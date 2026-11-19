@@ -2,7 +2,7 @@
 
 How the engineering skills should consume this repo's domain documentation.
 
-This repo is an Obsidian vault, so the domain docs live inside `.claude/` (hidden from Obsidian) instead of the usual root locations. The notes themselves, and their conventions, are in `CONVENCIONES.md` and `conocimiento.md`.
+This repo is a Markdown knowledge base: every `.md` outside dot-folders is a note checked by the `documentar` lint, so the domain docs live inside `.claude/` instead of the usual root locations. The notes themselves, and their conventions, are in `CONVENCIONES.md` and `conocimiento.md`.
 
 ## Before exploring, read these
 
