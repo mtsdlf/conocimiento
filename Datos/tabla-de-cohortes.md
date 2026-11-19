@@ -17,7 +17,7 @@ fuentes:
   - https://amplitude.com/docs/analytics/charts/retention-analysis/retention-analysis-calculation
 aliases: [cohort table, triángulo de retención, retention table, cohort chart, matriz de cohortes]
 parte_de: []
-requiere: [cohorte, tasa-de-retencion-por-cohorte]
+requiere: [tasa-de-retencion-por-cohorte]
 relacionado: [curva-de-retencion]
 ---
 
@@ -67,6 +67,6 @@ a las cohortes en el mismo punto de su vida.
 
 ## Relaciones
 
-- Requiere: [[cohorte]] — cada fila es una.
 - Requiere: [[tasa-de-retencion-por-cohorte]] — es lo que va en cada celda.
 - Relacionado: [[curva-de-retencion]] — la misma información, con cada fila dibujada como línea.
+- Usa: [[cohorte]] — cada fila es una.

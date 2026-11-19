@@ -15,7 +15,7 @@ fuentes:
   - https://amplitude.com/docs/analytics/charts/retention-analysis/retention-analysis-calculation
 aliases: [cómo hacer un análisis de cohortes, cohort table en SQL, tabla de cohortes en Excel]
 parte_de: []
-requiere: [cohorte-de-adquisicion, tasa-de-retencion-por-cohorte, tabla-de-cohortes]
+requiere: [cohorte-de-adquisicion, tabla-de-cohortes]
 relacionado: []
 ---
 
@@ -60,5 +60,5 @@ definición.
 ## Relaciones
 
 - Requiere: [[cohorte-de-adquisicion]] — define las filas.
-- Requiere: [[tasa-de-retencion-por-cohorte]] — es lo que se calcula en cada celda.
 - Requiere: [[tabla-de-cohortes]] — es la forma del resultado y explica cómo se lee.
+- Usa: [[tasa-de-retencion-por-cohorte]] — es lo que se calcula en cada celda.
