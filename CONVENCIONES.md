@@ -10,7 +10,7 @@ está en la skill; esto lo completa.
   operativo), como dice el método de la skill. Los arma el modo `nuevo`, con su `ALCANCE.md` y sus
   informes crudos en `<Tema>/.investigacion/`. `Marketing/` es el ejemplo de referencia.
 - **Agnóstica**: ninguna nota nombra a una empresa nuestra ni a un cliente. Lo que se aprendió en una
-  empresa entra contado en general y se cita como «experiencia propia, <mes y año>, <tipo de empresa>»
+  empresa entra contado en general y se cita como `experiencia propia, <mes y año>, <tipo de empresa>`
   (por ejemplo, «una consultora de software»). Cómo aplica una idea a una empresa se escribe en el repo
   de esa empresa, que enlaza la nota de acá.
 - **Dueños**: `matias` por defecto; una nota lleva `dueno` solo si es de `fer` o de `familia`.
@@ -25,7 +25,7 @@ está en la skill; esto lo completa.
 
 ## Dónde va cada cosa
 
-La organización tiene dos clases de repos: uno guarda el saber y los demás hacen el trabajo.
+La organización tiene dos clases de repos: uno guarda el saber y los demás hacen el trabajo. La fuente de esta tabla, con los procesos que cruzan repos, es [`mtsdlf/procesos`](https://github.com/mtsdlf/procesos/blob/main/plataforma/donde-va-cada-cosa.md).
 
 | Es | Va a |
 |---|---|
@@ -33,6 +33,7 @@ La organización tiene dos clases de repos: uno guarda el saber y los demás hac
 | Cómo hacemos marketing: el método, sus plantillas, los playbooks por canal y los casos de cada cliente | `mtsdlf/marketing` |
 | Lo de una empresa: su modelo, sus precios, sus clientes, sus decisiones | su repo: `mtsdlf/tsc-negocio` (la consultora) o `mtsdlf/lind-negocio` (Lind) |
 | Lo de un sistema | los docs de su repo |
+| Cómo se trabaja en la plataforma: procesos, runbooks, quién decide | `mtsdlf/procesos` |
 
 ```mermaid
 flowchart LR
@@ -43,7 +44,7 @@ flowchart LR
   E -->|lo que cambia el método| M
 ```
 
-El repo donde está abierta la sesión no decide a dónde va algo: si en una sesión de `marketing` o de una empresa sale un tema general, se escribe en `conocimiento`. Hacia abajo se enlaza, no se copia. Hacia arriba sube, sin nombres de empresas ni de clientes, lo que dejó de ser de una sola empresa: a `conocimiento` si es saber, y a `marketing`, con un issue con el label `propuesta`, si cambia el método. La experiencia propia se cita como «experiencia propia, <mes y año>, <tipo de empresa>».
+El repo donde está abierta la sesión no decide a dónde va algo: si en una sesión de `marketing` o de una empresa sale un tema general, se escribe en `conocimiento`. Hacia abajo se enlaza, no se copia. Hacia arriba sube, sin nombres de empresas ni de clientes, lo que dejó de ser de una sola empresa: a `conocimiento` si es saber, y a `marketing`, con un issue con el label `propuesta`, si cambia el método. La experiencia propia se cita como `experiencia propia, <mes y año>, <tipo de empresa>`.
 
 ```yaml revisar
 ignorar: []
