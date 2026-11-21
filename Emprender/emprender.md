@@ -13,7 +13,7 @@ revisado:
 
 Emprender es armar una empresa desde una idea: validarla, entender a quién se le vende, definir cómo cobra, conseguir los primeros clientes y que las cuentas, lo legal, los socios y la plata acompañen.
 
-Lo que va acá es lo que se aprende de libros, cursos y la práctica, sin nombrar a ninguna empresa nuestra: cómo lo aplica cada una se escribe en su repo, que enlaza la nota de acá. La experiencia propia vale como fuente y se cita como «experiencia propia, <mes y año>, <tipo de empresa>».
+Lo que va acá es lo que se aprende de libros, cursos y la práctica, sin nombrar a ninguna empresa nuestra: cómo lo aplica cada una se escribe en su repo, que enlaza la nota de acá. La experiencia propia vale como fuente y se cita como `experiencia propia, <mes y año>, <tipo de empresa>`.
 
 El tema todavía no tiene notas: cada parte entra cuando se vuelque algo leído o vivido sobre ella. Mientras tenga menos de una docena, las partes son secciones de esta entrada y las notas quedan en `Emprender/`.
 
