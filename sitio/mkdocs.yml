@@ -1,8 +1,9 @@
 # Sitio local de la base: lee las notas de la raíz del repo, no las copia.
-# Se levanta con ./sitio/servir (ver ese script). Lo generado no se versiona.
+# Local: ./sitio/servir. Publicado: GitHub Pages, con .github/workflows/sitio.yml en cada
+# cambio a main. Lo generado no se versiona.
 site_name: Conocimiento
 docs_dir: ..
-site_url: http://127.0.0.1:8000/
+site_url: !ENV [SITE_URL, 'http://127.0.0.1:8000/']
 use_directory_urls: true
 edit_uri: https://github.com/mtsdlf/conocimiento/edit/main/
 
