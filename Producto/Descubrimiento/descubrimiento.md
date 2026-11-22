@@ -31,9 +31,11 @@ La [investigación de UX](../../UX/Investigacion/investigacion.md) aporta los m�
 
 ## Riesgos, árbol y pruebas: cómo encajan las piezas
 
-Las cuatro piezas son de tipos distintos. Los [cuatro riesgos](cuatro-riesgos.md) son una taxonomía de qué hay que averiguar de una idea: si tiene valor, si se puede usar, si se puede construir y si le sirve al negocio. Es la pieza central: las otras se explican como formas de reducir esos riesgos.
+Las piezas son de tipos distintos. Los [cuatro riesgos](cuatro-riesgos.md) son una taxonomía de qué hay que averiguar de una idea: si tiene valor, si se puede usar, si se puede construir y si le sirve al negocio. Es la pieza central: las otras se explican como formas de reducir esos riesgos.
 
 El [árbol de oportunidades](arbol-de-oportunidades.md) es una representación. Pone arriba el resultado buscado, debajo las necesidades de los clientes que lo moverían, después las soluciones y abajo las pruebas. Sirve para que cada solución que se discute esté atada a algo que se escuchó en una entrevista.
+
+[Dar forma a una solución](dar-forma-a-una-solucion.md) es la técnica que toma una solución del árbol y la acota antes de pantallas: sus elementos, su recorrido, sus agujeros y lo que queda afuera. Lo acotado es lo que después se desarma en supuestos.
 
 La [prueba de supuestos](prueba-de-supuestos.md) es el método. Cada solución se desarma en los supuestos que tienen que ser ciertos para que funcione, y se prueban primero los más riesgosos, con un prototipo, una encuesta de una pregunta, datos existentes o una prueba técnica corta.
 
@@ -62,6 +64,7 @@ La otra falla es de contexto. Un practicante señala, según el buscador, que la
 - [Cuatro riesgos](cuatro-riesgos.md): valor, usabilidad, factibilidad y viabilidad, de dónde salen y cómo se comparan con las taxonomías de IDEO, Bland y Torres. Se lee primero.
 - [Descubrimiento continuo](descubrimiento-continuo.md): la cadencia semanal del trío, el origen del dual-track en Sy, Patton y Cagan, y cómo se degrada en teatro.
 - [Árbol de oportunidades](arbol-de-oportunidades.md): del resultado buscado a las soluciones y sus pruebas, en nueve pasos, con sus errores típicos.
+- [Dar forma a una solución](dar-forma-a-una-solucion.md): de una solución elegida a una acotada, con el shaping de Singer, el PRD corto y el mapa de historias de Patton.
 - [Prueba de supuestos](prueba-de-supuestos.md): cómo se eligen los supuestos más riesgosos y qué tipo de prueba sirve para cada uno, incluidos fake door, Wizard of Oz y concierge.
 
 ## Qué falta

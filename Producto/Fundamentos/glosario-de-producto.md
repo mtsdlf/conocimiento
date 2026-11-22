@@ -92,7 +92,7 @@ Los informes del tema marcan con estas siglas cuánto se leyó de cada fuente; l
 | Apetito (appetite) | "The amount of time we want to spend on a project, as opposed to an estimate." (Singer) | [Shape Up](../Planificacion-y-entrega/shape-up.md) |
 | Ciclo (Shape Up) | Seis semanas de trabajo, seguidas de dos de "cool-down" (Singer) | [Shape Up](../Planificacion-y-entrega/shape-up.md) |
 | Apuesta (bet) | El compromiso de un equipo con un ciclo, sin interrupciones (Singer) | [Shape Up](../Planificacion-y-entrega/shape-up.md) |
-| Shaping | Definir el trabajo pensando en el apetito, no en estimaciones (Singer) | [Shape Up](../Planificacion-y-entrega/shape-up.md) |
+| Shaping | Definir el trabajo pensando en el apetito, no en estimaciones (Singer) | [Dar forma a una solución](../Descubrimiento/dar-forma-a-una-solucion.md) |
 
 ## Medición, monetización y plataformas
 
