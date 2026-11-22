@@ -1,0 +1,4 @@
+#!/bin/sh
+# Levanta el sitio de la base en http://127.0.0.1:8000 y lo recarga cuando cambia una nota.
+# Solo necesita uv (https://docs.astral.sh/uv/). Ctrl+C para cortarlo.
+cd "$(dirname "$0")" && exec uvx --with-requirements requirements.txt mkdocs serve "$@"

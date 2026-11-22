@@ -1,0 +1,52 @@
+# Sitio local de la base: lee las notas de la raíz del repo, no las copia.
+# Se levanta con ./sitio/servir (ver ese script). Lo generado no se versiona.
+site_name: Conocimiento
+docs_dir: ..
+use_directory_urls: true
+
+exclude_docs: |
+  /sitio/
+  /Archivo/
+
+hooks:
+  - nav.py
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle: {icon: material/weather-night, name: Modo oscuro}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle: {icon: material/weather-sunny, name: Modo claro}
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+validation:
+  nav:
+    omitted_files: ignore
