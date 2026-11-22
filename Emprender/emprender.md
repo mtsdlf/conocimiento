@@ -36,8 +36,8 @@ flowchart LR
   LI[Legal e impuestos] -.->|enmarca| MN
 ```
 
-- [Validación](Validacion/validacion.md) — si hay un problema real y alguien dispuesto a pagar por resolverlo: hipótesis, descubrimiento de clientes, producto mínimo viable, el ciclo construir-medir-aprender y la decisión de pivotar. Es la primera parte que se trabaja.
-- [Modelo de negocio](Modelo-de-negocio/modelo-de-negocio.md) — cómo la empresa crea, entrega y cobra el valor que ofrece, y cómo se describe en un canvas para ver qué supuestos lo sostienen.
+- [Validación](Validacion/validacion.md) — si hay un problema real y alguien dispuesto a pagar por resolverlo: cómo se elige qué oportunidad probar, hipótesis, descubrimiento de clientes, producto mínimo viable, el ciclo construir-medir-aprender y la decisión de pivotar. Es la primera parte que se trabaja.
+- [Modelo de negocio](Modelo-de-negocio/modelo-de-negocio.md) — cómo la empresa crea, entrega y cobra el valor que ofrece, cómo se describe en un canvas para ver qué supuestos lo sostienen, y en qué se diferencian el software, el servicio y la plataforma.
 - [Crecimiento](Crecimiento/crecimiento.md) — de los primeros clientes al encaje producto-mercado, y de ahí a crecer de forma repetible con un motor de crecimiento.
 - [Finanzas](Finanzas/finanzas.md) — la caja, el consumo mensual y la pista que queda, el punto de equilibrio, y de dónde sale la plata con lo que cuesta cada fuente.
 - [Fundadores y equipo](Fundadores-y-equipo/fundadores-y-equipo.md) — cómo se reparten la propiedad, las decisiones y el trabajo entre quienes fundan, y cuándo se suma gente.
@@ -45,8 +45,10 @@ flowchart LR
 
 ## Qué leer según en qué punto está la empresa
 
+- Si tenés varias oportunidades o zonas de mercado y querés elegir cuáles probar: [oportunidades](Validacion/Oportunidades/oportunidades.md), con los [criterios](Validacion/Oportunidades/criterios-de-oportunidad.md) y la [matriz de oportunidades](Validacion/Oportunidades/matriz-de-oportunidades.md); si no hay datos para predecir, [effectuation](Validacion/Oportunidades/effectuation.md).
 - Si tenés una idea y querés saber si alguien la paga: [hipótesis de salto de fe](Validacion/hipotesis-de-salto-de-fe.md), [descubrimiento de clientes](Validacion/descubrimiento-de-clientes.md) y [producto mínimo viable](Validacion/producto-minimo-viable.md).
 - Si tenés que estimar cuánto mercado hay: [definición de mercado](../Marketing/Mercado-y-cliente/definicion-de-mercado.md) y después [tamaño de mercado](Validacion/tamano-de-mercado.md), que lo calcula para el primer segmento.
+- Si tenés que decidir entre vender software, vender el servicio hecho o armar una plataforma: [modelos de negocio de software](Modelo-de-negocio/modelos-de-negocio-de-software.md).
 - Si tenés que armar el modelo de negocio o poner el primer precio: [modelo de negocio](Modelo-de-negocio/modelo-de-negocio.md), con el canvas y [el precio como hipótesis](Modelo-de-negocio/modelo-de-negocio.md#el-precio-también-es-una-hipótesis); los planes y la unidad de cobro están en [pricing y empaquetado](../Producto/Monetizacion/pricing-y-empaquetado.md).
 - Si tenés que decidir si cambiar de rumbo: [contabilidad de la innovación](Validacion/contabilidad-de-la-innovacion.md) y [pivotar o perseverar](Validacion/pivotar-o-perseverar.md).
 - Si tenés que saber si ya hay encaje y cómo crecer: [encaje producto-mercado](Crecimiento/encaje-producto-mercado.md), [motores de crecimiento](Crecimiento/motores-de-crecimiento.md) y, para el canal, [elección de canales](../Marketing/Canales/eleccion-de-canales.md).

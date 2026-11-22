@@ -16,7 +16,13 @@ preguntas:
   - "¿Cuándo se pivota y cuándo se persevera, y con qué métricas se decide?"
   - "¿Qué formas de pensar el emprender hay (Lean Startup, plan de negocios, effectuation, enfoque científico) y qué evidencia tiene cada una?"
   - "¿Cuáles son las partes de emprender y en qué orden importan para una empresa que recién empieza?"
+  - "Tengo cinco zonas de mercado posibles y quiero elegir dos o tres para probar: ¿con qué criterios y con qué cuidado las comparo?"
+  - "¿De dónde salen las oportunidades de negocio y qué fuentes son más confiables?"
+  - "¿Cuánto pesa que quienes fundan conozcan el mercado, y qué dice la evidencia?"
+  - "¿Qué cambia si en lugar de buscar la mejor oportunidad se empieza con lo que se tiene y lo que se puede perder?"
+  - "¿Qué diferencia hay entre vender software solo, software con servicio o una plataforma de dos lados, en cómo cobra, cómo crece y qué márgenes deja?"
 aprobado: 2026-11-22
+ampliado: 2026-11-22
 ---
 
 # Alcance: Emprender
@@ -36,7 +42,19 @@ Emprender/
     contabilidad-de-la-innovacion  medir el avance con métricas accionables y no de vanidad
     pivotar-o-perseverar         la decisión y los tipos de pivote
     tamano-de-mercado            TAM, SAM y SOM, y cómo se estiman
-  Modelo-de-negocio/           cómo se crea, entrega y cobra valor (entrada)
+    Oportunidades/               (nuevo) de dónde salen y cómo se elige cuál validar
+      oportunidades                (nuevo) entrada: qué es una oportunidad y el recorrido de encontrar a elegir
+      fuentes-de-oportunidades     (nuevo) problemas, cambios y huecos; Drucker, Shane y Venkataraman; descubrir o crear
+      criterios-de-oportunidad     (nuevo) qué se mira para comparar: Mullins, Aulet, Timmons, Gans, Scott y Stern
+      matriz-de-oportunidades      (nuevo) cómo se arma la comparación: filtro, puntajes, pesos y sesgos, con su evidencia
+      encaje-fundador-mercado      (nuevo) founder-market fit: qué saben y a quién conocen quienes fundan
+      effectuation                 (nuevo) Sarasvathy: empezar con los medios y la pérdida asumible, como contraste
+  Modelo-de-negocio/           cómo se crea, entrega y cobra valor
+    modelos-de-negocio-de-software  (nuevo) software solo, con servicio o plataforma, comparados
+    saas                            (nuevo) software solo: cómo cobra, crece y qué márgenes deja
+    servicios-habilitados-por-tecnologia  (nuevo) software con servicio, «done for you»
+    marketplace                     (nuevo) la plataforma de dos lados como negocio: comisión, liquidez y fuga
+    margenes-por-modelo-de-negocio  (nuevo) ficha: márgenes, comisiones y múltiplos de empresas públicas, 2025
   Crecimiento/                 de los primeros clientes a crecer de forma repetible
     encaje-producto-mercado      la frontera entre validar y crecer
     motores-de-crecimiento       pegajoso, viral y pagado (Ries)
@@ -51,3 +69,13 @@ Emprender/
 - Profundidad de esta primera pasada: el árbol completo con la entrada de cada parte; Validación y Fundamentos a fondo, más los dos componentes de Crecimiento que vienen de Ries. Las otras partes se llenan cuando se vuelque algo leído o vivido.
 - Mercado y cliente no es una parte propia: el tamaño de mercado va a Validación y quién compra y por qué se enlaza al tema Marketing.
 - Lo legal e impositivo es de Argentina y vive en la capa operativa, con fecha: cambia seguido.
+
+## Ampliación del 2026-11-22: Oportunidades y tipos de modelo
+
+Pedida en el mapa «qué oportunidad de negocio explorar primero» de un repo de negocio de la organización: hacía falta saber cómo se comparan oportunidades y qué modelos de negocio de software hay antes de elegir criterios y pesos. La persona aprobó el alcance (las dos ampliaciones); el árbol detallado lo decidió quien escribe:
+
+- **Oportunidades va dentro de Validación**, como subcarpeta, porque elegir qué oportunidad validar es el paso anterior a la hipótesis de salto de fe y sus componentes se estudian por separado. No es una vertical nueva: el tema sigue teniendo seis partes.
+- **Effectuation tiene nota propia en Oportunidades** porque su aporte central acá es cómo se elige qué hacer (medios y pérdida asumible). La comparación de escuelas sigue en [Escuelas de emprender](Fundamentos/escuelas-de-emprender.md), que la enlaza.
+- **La evaluación se partió en dos notas**: criterios (qué se mira) y matriz (cómo se combinan), porque la matriz se enlaza sola desde quien tiene que fijar criterios y pesos.
+- **Las cifras de empresas van a una ficha** (`volatil`), y las notas de los modelos dan rangos y la enlazan.
+- **Los tipos de modelo de software van en Modelo de negocio** como componentes. La estrategia de plataformas (precio a cada lado, efecto de red, arranque) sigue en Producto/Plataformas y se enlaza; acá queda solo la mirada de negocio: cómo cobra, cómo crece y qué economía tiene.

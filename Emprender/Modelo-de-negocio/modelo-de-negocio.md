@@ -16,6 +16,8 @@ fuentes:
   - "Felin, Gambardella, Stern y Zenger (2020), Lean startup and the business model: Experimentation revisited, Long Range Planning 53(4) 101889 (según resumen): https://dspace.mit.edu/handle/1721.1/134124"
   - "Emprender/.investigacion/crecimiento-y-modelo.md"
   - "Emprender/.investigacion/posicion-contraria.md"
+  - "Emprender/.investigacion/modelos-saas-y-servicios.md"
+  - "Emprender/.investigacion/modelos-plataforma-y-tipologia.md"
 aliases: [business model, Business Model Canvas, BMC, Lean Canvas, canvas, lienzo de modelo de negocio]
 creado: 2026-11-22
 revisado: 2026-11-22
@@ -85,8 +87,10 @@ Teece separa el modelo de ingreso del modelo de negocio: el primero es «just on
 | Suscripción | Un pago periódico en lugar de uno por uso | Netflix, desde 1999 |
 | Ingresos combinados | Suscripción, publicidad y regalías de socios a la vez | Flickr |
 
+La comisión está en [marketplace](marketplace.md), y el cobro por resultado, en [servicios habilitados por tecnología](servicios-habilitados-por-tecnologia.md).
+
 > [!NOTE]
-> Sin fuente todavía: comisión por transacción, licencia y venta de servicios como modelos de ingreso, y el capítulo de patrones de Business Model Generation.
+> Sin fuente todavía: la licencia y la venta de servicios por cuota o por tarea como modelos de ingreso, y el capítulo de patrones de Business Model Generation.
 
 Si cada cliente deja plata después de lo que costó conseguirlo se mide con el LTV y el CAC, que define la [economía unitaria](../../Marketing/Medicion/economia-unitaria.md) en Marketing.
 
@@ -99,12 +103,16 @@ Para Teece, elegir la arquitectura del modelo y el precio exige «assembling the
 > [!NOTE]
 > Sin fuente todavía: una práctica de fijación de precios para empresas que empiezan (Maurya, Running Lean, o Aulet), más allá del caso Netflix.
 
-## Los componentes que se van a sumar
+## Lo que hay adentro de Modelo de negocio
 
-La vertical no tiene componentes propios todavía. Cuando se vuelque lo leído o vivido, se suman como notas dentro de esta carpeta:
+Una empresa de software puede vender la herramienta, el trabajo hecho o la conexión entre dos grupos:
 
-- Patrones de modelo de negocio: freemium, plataformas multilaterales y los demás del capítulo de patrones de Business Model Generation.
-- Precio: cómo se fija y se prueba un precio en una empresa que empieza.
-- Modelos de ingreso: comisión, licencia, servicio y suscripción, con su efecto sobre la caja.
+- [Modelos de negocio de software](modelos-de-negocio-de-software.md) — los tres modelos comparados, y sus híbridos.
+- [SaaS](saas.md) — software por suscripción: ingreso recurrente, costo de adquisición y márgenes.
+- [Servicios habilitados por tecnología](servicios-habilitados-por-tecnologia.md) — vender el trabajo hecho con software propio.
+- [Marketplace](marketplace.md) — la plataforma de dos lados como negocio: comisión, margen y fuga.
+- [Márgenes por modelo de negocio](margenes-por-modelo-de-negocio.md) — ficha de márgenes, comisiones y múltiplos (2025).
+
+Faltan los patrones de Business Model Generation y el primer precio.
 
 Para leer más, el canónico es Business Model Generation de Osterwalder y Pigneur, capítulos «Definition of a Business Model» y «9 Building Blocks»: fijarse en que cada bloque es una hipótesis. Para la versión académica, Teece (2010), sección «The role of discovery, learning and adaptation», con el caso Netflix. Para el contraste con el Lean Canvas, la página de Maurya, que es corta y se lee entera.

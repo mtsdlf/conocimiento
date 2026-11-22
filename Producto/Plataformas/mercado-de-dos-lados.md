@@ -69,4 +69,6 @@ Andrew Chen, practicante e inversor, propone una receta en *The Cold Start Probl
 
 La comisión (take rate) es la parte de cada transacción que se queda la plataforma, y es una forma de cobrarle al lado que paga. Caillaud y Jullien la tratan como arma competitiva. El ejemplo documentado del reparto con desarrolladores de apps, con sus umbrales, está en [ecosistema de terceros](ecosistema-de-terceros.md#el-reparto-de-ingresos-con-los-desarrolladores).
 
-> [!NOTE] Sin fuente todavía: un estudio que compare comisiones entre plataformas y su efecto, y una fuente primaria sobre desintermediación (cuando los lados se conocen por la plataforma y siguen por fuera para no pagarla).
+Las comisiones de marketplaces públicos en 2025 y la evidencia experimental sobre la desintermediación (cuando los lados se conocen por la plataforma y siguen por fuera para no pagarla) están en [marketplace](../../Emprender/Modelo-de-negocio/marketplace.md), en Emprender.
+
+> [!NOTE] Sin fuente todavía: un estudio que compare comisiones entre plataformas y su efecto sobre el crecimiento.
