@@ -112,11 +112,11 @@ Los informes del tema marcan cuánto se leyó de cada fuente; las notas lo dicen
 
 | Término | En inglés | Qué es | Dónde se desarrolla |
 |---|---|---|---|
-| Variante y SKU | variant, stock keeping unit | La versión vendible de un producto (talla, color) y su código; en Shopify el stock cuelga de la variante | [Operaciones del comercio](../Operaciones-del-comercio/operaciones-del-comercio.md) |
-| Sobreventa | overselling | Vender más de lo disponible; el riesgo crece con cada canal que descuenta stock por su cuenta | [Operaciones del comercio](../Operaciones-del-comercio/operaciones-del-comercio.md) |
+| Variante y SKU | variant, stock keeping unit | La versión vendible de un producto (talla, color) y su código; en Shopify el stock cuelga de la variante | [Catálogo y stock](../Operaciones-del-comercio/catalogo-y-stock.md) |
+| Sobreventa | overselling | Vender más de lo disponible; el riesgo crece con cada canal que descuenta stock por su cuenta | [Catálogo y stock](../Operaciones-del-comercio/catalogo-y-stock.md) |
 | Fulfillment | fulfillment | Preparar y despachar los pedidos | [Operaciones del comercio](../Operaciones-del-comercio/operaciones-del-comercio.md) |
 | Última milla | last mile | El tramo final de la entrega al comprador | [Operaciones del comercio](../Operaciones-del-comercio/operaciones-del-comercio.md) |
-| Logística inversa | reverse logistics | El circuito de las devoluciones | [Operaciones del comercio](../Operaciones-del-comercio/operaciones-del-comercio.md) |
+| Logística inversa | reverse logistics | El circuito de las devoluciones | [Devoluciones](../Operaciones-del-comercio/devoluciones.md) |
 | Multicanal y omnicanal | multichannel, omnichannel | Vender en varios canales gestionados por separado; o con los canales integrados, con stock y cliente compartidos | [Venta en varios canales](../Venta-en-varios-canales/venta-en-varios-canales.md) |
 | POS | point of sale | El punto de venta físico conectado a la tienda online | [Venta en varios canales](../Venta-en-varios-canales/venta-en-varios-canales.md) |
 | Derecho de revocación | right of withdrawal | En Argentina, el consumidor puede revocar una compra a distancia "dentro de los diez días" (CCyC, art. 1110) | [Normativa](../Normativa/normativa.md) |

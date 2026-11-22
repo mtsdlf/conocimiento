@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Vender en varios canales es ofrecer lo mismo a la vez en una tienda propia, en marketplaces, en redes o mensajería y en un local físico. Pide decidir en qué canales estar según la etapa del negocio y cuánto integrarlos: multicanal es estar en varios con gestión separada, y omnicanal es integrarlos para que el comprador pase de uno a otro.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - "Peter C. Verhoef, P. K. Kannan y J. Jeffrey Inman (2015), From Multi-Channel Retailing to Omni-Channel Retailing, Journal of Retailing 91(2):174-181, DOI 10.1016/j.jretai.2015.02.005: https://doi.org/10.1016/j.jretai.2015.02.005 (solo metadatos; no se leyó el abstract ni el texto)"
@@ -18,9 +18,10 @@ fuentes:
   - "Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md"
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (B2 y B5)"
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md"
+  - "Comercio-electronico/.investigacion/local-fisico-con-caja.md"
 aliases: [multicanal, omnicanal, omnichannel, multichannel, omnicanalidad, venta multicanal, marketplace o tienda propia, canales de venta, POS, punto de venta]
 creado: 2026-11-22
-revisado: 2026-11-22
+revisado:
 ---
 
 # Venta en varios canales
@@ -38,19 +39,19 @@ Cada canal decide quién se queda con la relación con el comprador y cuánto se
 | Tienda propia | el comercio | el software (una plataforma de tiendas) | suscripción y costo de cobrar; el tráfico lo consigue el comercio |
 | Marketplace | el marketplace | tráfico, credibilidad y cobro resueltos | comisión por venta y, según el marketplace, logística y publicidad |
 | Redes y mensajería | compartida con la red | la audiencia y el chat | la publicidad o, en algunas apps, los mensajes |
-| Local físico con POS | el comercio | el lugar; el POS (punto de venta) registra la venta y descuenta stock | el local |
+| [Local físico con caja](Local-fisico-con-caja/local-fisico-con-caja.md) | el comercio | el lugar; el POS (punto de venta) registra la venta y descuenta stock | el local, el lector de cobro y, si no viene con la plataforma, el POS y la factura |
 
 La tabla resume la descripción convencional de cada canal; no se verificó contra un libro de texto.
 
 La OCDE no cuenta toda venta por redes como comercio electrónico: entra si el pedido usa un catálogo estructurado dentro de la app, y no si se tipea a mano; el criterio está en la [entrada del tema](../comercio-electronico.md). Atender por mensajería también cuesta: según la documentación de Meta consultada el 2026-11-22, WhatsApp Business Platform cobra desde el 1/7/2025 por mensaje que la empresa entrega, y los del usuario son gratis.
 
-> [!NOTE] Sin fuente todavía: tiendas dentro de Instagram y Facebook y si permiten pagar dentro de la app en Argentina; cómo sincronizan stock los POS de las plataformas de tiendas y si están disponibles en Argentina; comercio social más allá de WhatsApp.
+> [!NOTE] Sin fuente todavía: tiendas dentro de Instagram y Facebook y si permiten pagar dentro de la app en Argentina; comercio social más allá de WhatsApp.
 
 ## Multicanal y omnicanal
 
 La diferencia está en la integración, según la distinción que usa el campo. Un comercio multicanal gestiona cada canal por separado: precios, stock y pedidos en tableros distintos. Uno omnicanal los integra, para que el comprador vea online el stock del local, compre en un canal y retire o devuelva en otro.
 
-La fuente central es Verhoef, Kannan e Inman (2015), en el *Journal of Retailing*, con más de 2.600 citas según Semantic Scholar; no se leyó, así que su definición no se cita. Sin integración, cada canal descuenta stock por su lado y aparece la sobreventa que describe [Operaciones del comercio](../Operaciones-del-comercio/operaciones-del-comercio.md).
+La fuente central es Verhoef, Kannan e Inman (2015), en el *Journal of Retailing*, con más de 2.600 citas según Semantic Scholar; no se leyó, así que su definición no se cita. Sin integración, cada canal descuenta stock por su lado y aparece la sobreventa que describe [catálogo y stock](../Operaciones-del-comercio/catalogo-y-stock.md). Cómo se integra en la práctica un local con la tienda (stock por ubicación, retiro, envío desde el local) está en [retiro en el local y stock compartido](Local-fisico-con-caja/retiro-en-el-local-y-stock-compartido.md).
 
 ## Marketplace o tienda propia: depende de la etapa
 
@@ -85,7 +86,7 @@ La omnicanalidad puede aumentar la demanda total y puede canibalizar un canal; d
 Al comparar dos plataformas de tiendas, conviene mirar qué canales conectan:
 
 1. Con qué marketplaces se integra y si publica el catálogo y recibe los pedidos de ellos.
-2. Si tiene POS propio para el local, o depende de un tercero.
+2. Si tiene POS propio para el local, si cobra con un lector integrado y si emite el comprobante fiscal, o depende de terceros ([puntos de venta en Argentina](Local-fisico-con-caja/puntos-de-venta-en-argentina.md)).
 3. Si el stock es uno solo para todos los canales.
 4. Qué venta por redes y mensajería soporta: catálogo dentro de la app o solo un enlace a la tienda.
 
@@ -93,6 +94,8 @@ Una plataforma que integra todo empuja al comercio hacia lo omnicanal; una que n
 
 Recursos canónicos: Verhoef, Kannan e Inman (2015), completo, por la definición de omnicanal y cómo la separan de multicanal. El artículo de HBR de 2017, completo, por la cifra de gasto y su método; leerlo como divulgación de un estudio con un solo minorista.
 
-## Lo que falta de Venta en varios canales
+## Lo que hay adentro de Venta en varios canales
 
-Esta vertical lleva solo su entrada, según el árbol aprobado. Pueden ser componentes: la elección entre marketplace y tienda propia con datos de la región, la integración omnicanal (stock único, retiro en tienda) y el comercio social, con una ficha de comisiones de marketplaces y de costos de mensajería por país.
+- [Local físico con caja](Local-fisico-con-caja/local-fisico-con-caja.md): el comercio con mostrador que también vende online; punto de venta, stock compartido y retiro, y los POS y lectores de cobro de Argentina.
+
+Pueden ser componentes más adelante: la elección entre marketplace y tienda propia con datos de la región y el comercio social, con una ficha de comisiones de marketplaces y de costos de mensajería por país.

@@ -90,7 +90,7 @@ Para el negocio de dos lados en general, la base ya tiene [Plataformas](../../Pr
 | [Verhoef, Kannan e Inman, "From Multi-Channel Retailing to Omni-Channel Retailing"](https://doi.org/10.1016/j.jretai.2015.02.005), *Journal of Retailing* 91(2), 2015 | La definición de omnicanal y cómo la separan de multicanal. Ver [Venta en varios canales](../Venta-en-varios-canales/venta-en-varios-canales.md) | Paper | Ficha |
 | [Sopadjieva, Dholakia y Benjamin](https://hbr.org/2017/01/a-study-of-46000-shoppers-shows-that-omnichannel-retailing-works), HBR, 3/1/2017 | La cifra de gasto y el método; los autores son de Medallia y de la Universidad de Rice | Divulgación | Solo la introducción |
 | Hagiu y Wright, "Marketplace or Reseller?", *Management Science*, 2015 | Cuándo un intermediario conviene como marketplace o como revendedor, desde el lado del intermediario | Paper | Ficha |
-| [Shopify, gestión de inventario](https://shopify.dev/docs/apps/build/orders-fulfillment/inventory-management-apps) | Los estados del stock por ubicación; describe el modelo de una empresa, no el del campo. Ver [Operaciones del comercio](../Operaciones-del-comercio/operaciones-del-comercio.md) | Documentación | Texto |
+| [Shopify, gestión de inventario](https://shopify.dev/docs/apps/build/orders-fulfillment/inventory-management-apps) | Los estados del stock por ubicación; describe el modelo de una empresa, no el del campo. Ver [catálogo y stock](../Operaciones-del-comercio/catalogo-y-stock.md) | Documentación | Texto |
 
 ## América Latina y Argentina
 

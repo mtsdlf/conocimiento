@@ -1,21 +1,20 @@
 ---
 resumen: >-
   Las operaciones del comercio son el trabajo que convierte una venta confirmada en un producto entregado: el catálogo y el stock que hacen posible la venta, el pedido, el envío, la devolución y la atención al comprador. Funcionan como una sola cadena de estados, que empieza en la variante de un producto y termina cuando el comprador se queda con lo que compró o lo devuelve.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - "Shopify, guía de apps de gestión de inventario: https://shopify.dev/docs/apps/build/orders-fulfillment/inventory-management-apps (leída a través de un resumen de una herramienta)"
-  - "Shopify, objeto ProductVariant de la Admin GraphQL API: https://shopify.dev/docs/api/admin-graphql/latest/objects/ProductVariant (leída a través de un resumen)"
   - "Shopify, guía de apps de gestión de pedidos: https://shopify.dev/docs/apps/build/orders-fulfillment/order-management-apps (leída a través de un resumen)"
   - "Tiendanube, centro de ayuda de envíos (Argentina), sin fecha en la página: https://ayuda.tiendanube.com/es_AR/envios (leída a través de un resumen, consultada el 2026-11-22)"
-  - "NRF y Happy Returns, nota de prensa del informe 2024 Consumer Returns in the Retail Industry, 5/12/2024: https://nrf.com/media-center/press-releases/nrf-and-happy-returns-report-2024-retail-returns-total-890-billion (leída la nota, no el informe)"
   - "CACE, estudios: https://www.cace.org.ar/estudios (leída la página pública)"
   - "Disposición 954/2025 SSDCyLC, Boletín Oficial, 04/09/2025: https://www.boletinoficial.gob.ar/detalleAviso/primera/330827/20250904 (leída a través de un resumen)"
   - "Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md"
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md"
-aliases: [operaciones, operations, fulfillment, cumplimiento de pedidos, logística del comercio, back office, order management]
+  - "Comercio-electronico/.investigacion/sistemas-de-gestion.md"
+aliases: [operaciones, operaciones de una tienda online, operations, fulfillment, cumplimiento de pedidos, logística del comercio, back office, order management]
 creado: 2026-11-22
-revisado: 2026-11-22
+revisado:
 ---
 
 # Operaciones del comercio
@@ -41,32 +40,13 @@ flowchart LR
 
 Cuando el pedido cruza sistemas separados (pagos, stock, transportista), coordinar sus pasos y deshacerlos si uno falla es el problema que resuelve una [saga](../../Arquitectura/saga.md).
 
-## El catálogo: producto, variante y SKU
+## El catálogo y el stock
 
-La unidad que se vende no es el producto, es la variante. En la documentación de Shopify, que describe el modelo de esa empresa y no el del campo, una variante es "una versión de un producto que tiene más de una opción, como talla o color". Cada variante pertenece a un producto y tiene su `sku`, el código que la identifica dentro de la tienda (distingue mayúsculas). Ese código hace falta para conectar un servicio externo de preparación de pedidos.
+La unidad que se vende es la variante de un producto, con su SKU, y su stock se lleva por ubicación y repartido en estados (disponible, apartado, dañado). Cada canal que descuenta stock por su cuenta suma riesgo de sobreventa. El modelo completo está en [catálogo y stock](catalogo-y-stock.md).
 
-El stock cuelga de la variante. En el mismo modelo, cada variante tiene un ítem de inventario, y ese ítem tiene cantidades en cada ubicación (un depósito, un local). Una remera en tres talles y dos colores son seis variantes con seis stocks.
+## El sistema que lleva el registro
 
-## El stock se reparte en estados
-
-Una cantidad de stock sola no alcanza para vender sin errores. Shopify la parte en estados por ubicación:
-
-| Estado | Qué cuenta |
-|---|---|
-| `incoming` | lo que está por llegar |
-| `on_hand` | lo que está físicamente: la suma de los seis estados siguientes |
-| `available` | lo que se puede vender |
-| `committed` | lo apartado para pedidos que todavía no se cumplieron |
-| `reserved` | lo reservado |
-| `damaged` | lo dañado |
-| `safety_stock` | un colchón contra la sobreventa, según el resumen leído |
-| `quality_control` | lo que está en control de calidad |
-
-`committed` no se puede ajustar por la API y sus cambios no disparan webhooks.
-
-Sobreventa es vender más unidades de las que hay disponibles. En la lectura de la base, el riesgo crece con cada canal que descuenta stock por su cuenta, porque cada uno vende contra una copia del número que puede estar atrasada; el stock de seguridad es una de las defensas.
-
-> [!NOTE] Sin fuente todavía: cuánto tarda en sincronizarse el stock entre una tienda propia, un marketplace y las redes, y con qué frecuencia se sobrevende. No se encontró fuente primaria.
+En una tienda chica, la plataforma de tiendas guarda el catálogo, el stock y los pedidos. Cuando el comercio suma un local, un marketplace o un mayorista, ese registro suele pasar a un [sistema de gestión](Sistemas-de-gestion/sistemas-de-gestion.md), que además factura, compra y lleva cuentas corrientes. Desde ahí, el sistema copia stock y precios a cada canal y recibe sus pedidos, con los riesgos que describe [integración con tiendas y marketplaces](Sistemas-de-gestion/integracion-con-tiendas-y-marketplaces.md).
 
 ## El pedido y su cumplimiento
 
@@ -84,15 +64,9 @@ Los costos extra (envío, impuestos y otras tarifas) están entre las razones de
 
 > [!NOTE] Sin fuente todavía: tarifas nacionales de Correo Argentino, Andreani, OCA y el envío de Mercado Libre; plazos de entrega por zona; quién paga el envío gratis y desde qué monto. Los sitios no se dejaron leer o no publican tarifario, y el resumen público del estudio de CACE de mitad de 2026 no trae envíos ni devoluciones (el informe completo es solo para socios).
 
-## Devoluciones: lo que cuestan y lo que obliga la ley
+## Devoluciones
 
-Una devolución desanda la cadena: el producto vuelve, se revisa y, si sirve, vuelve al stock. La cifra más citada es de EE. UU. Según la nota de prensa de NRF y Happy Returns del 5/12/2024, los minoristas estiman que las devoluciones serán el 16,9% de sus ventas anuales de 2024, unos US$ 890.000 millones.
-
-Es lo que estiman los propios minoristas, no una medición. Sale de dos encuestas de otoño de 2024: 2.007 consumidores de EE. UU. que devolvieron al menos una compra online en el último año y 249 profesionales de grandes minoristas (más de US$ 500 millones de ingresos). Happy Returns es de UPS y vende servicios de devoluciones, así que tiene interés comercial en el tema. La nota no separa la tasa de las ventas online.
-
-En Argentina la ley fija parte del costo. El comprador a distancia puede revocar la compra en 10 días, y los gastos de devolución van por cuenta del vendedor; las normas están en la [ficha de normativa argentina](../Normativa/normativa-argentina.md).
-
-> [!NOTE] Sin fuente todavía: una tasa de devolución de Argentina o América Latina con método publicado. Ni CACE ni otra cámara la publican en lo que se pudo leer.
+Una devolución desanda la cadena: el producto vuelve, se revisa y, si sirve, vuelve al stock. Cuánto cuestan y lo que fija la ley argentina (10 días para arrepentirse, la vuelta a cargo del vendedor) está en [devoluciones](devoluciones.md).
 
 ## Atención al comprador
 
@@ -108,11 +82,14 @@ Al comparar dos plataformas de tiendas online, conviene mirar en operaciones:
 2. Si un mismo stock alimenta a la tienda, a los marketplaces y al local, o si cada canal tiene el suyo.
 3. Con cuántos transportistas se integra en el país y si trae un servicio de envíos propio.
 4. Cómo registra una devolución y si la devuelve al stock.
+5. Si se conecta con los sistemas de gestión del país, o si el comercio necesita un conector aparte.
 
-Lo que la plataforma no resuelve lo cubren las [apps para comerciantes](../Plataforma-de-tiendas/apps-para-comerciantes.md). Cómo se desarma un producto rival para ver esto está en [desarme de producto](../../Estrategia-competitiva/Analisis-de-competidores/desarme-de-producto.md).
+Lo que la plataforma no resuelve lo cubren las [apps para comerciantes](../Plataforma-de-tiendas/apps-para-comerciantes.md) y los [sistemas de gestión](Sistemas-de-gestion/sistemas-de-gestion.md). Cómo se desarma un producto rival para ver esto está en [desarme de producto](../../Estrategia-competitiva/Analisis-de-competidores/desarme-de-producto.md).
 
-El recurso canónico del modelo de datos es la guía de inventario de Shopify y su objeto `ProductVariant`: fijarse en los estados del stock y en que lo apartado no se ajusta por la API. Es el modelo de una empresa, no un estándar. Para devoluciones, el informe completo de NRF y Happy Returns, por su método y por la tasa online que la nota no da.
+## Lo que hay adentro de Operaciones del comercio
 
-## Lo que falta de Operaciones del comercio
+- [Catálogo y stock](catalogo-y-stock.md): variante, SKU, estados del stock y sobreventa.
+- [Devoluciones](devoluciones.md): lo que cuestan y lo que obliga la ley argentina.
+- [Sistemas de gestión](Sistemas-de-gestion/sistemas-de-gestion.md): el software que lleva factura, stock, compras y cuentas detrás de la tienda, cómo se integra con los canales y quiénes operan en Argentina.
 
-Operaciones lleva solo esta entrada, según el árbol aprobado. Cada eslabón puede ser un componente cuando haga falta: catálogo y variantes, stock y sobreventa, estados del pedido, envío y última milla (con una ficha de transportistas y tarifas por país), devoluciones y atención.
+El pedido, el envío y la atención siguen en esta entrada hasta tener nota propia. Envíos y logística está prevista como subcarpeta, con transportistas, agregadores y tarifas por país.

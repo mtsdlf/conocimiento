@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La normativa del comercio electrónico son las reglas que alcanzan a una venta online además de las de cualquier venta: el derecho del comprador a arrepentirse, la información que el sitio tiene que mostrar, la factura de cada venta, la recaudación de impuestos en el momento del cobro y el cuidado de los datos personales. Cambia por país y seguido, así que lo vigente vive en una ficha por país.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - "Disposición 954/2025 SSDCyLC, Boletín Oficial, 04/09/2025: https://www.boletinoficial.gob.ar/detalleAviso/primera/330827/20250904 (leída a través de un resumen)"
@@ -12,9 +12,11 @@ fuentes:
   - "RG (CA) 11/2020, texto ordenado del SIRTAC: https://www.argentina.gob.ar/normativa/nacional/norma-341186/texto (leído a través de un resumen)"
   - "Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md"
   - "Comercio-electronico/.investigacion/vistazo.md"
+  - "RG ARCA 5893/2026, Boletín Oficial, 31/08/2026: https://www.boletinoficial.gob.ar/pdf/aviso/primera/346598/20260831 (leída)"
+  - "Comercio-electronico/.investigacion/factura-electronica-arca.md"
 aliases: [regulación del comercio electrónico, e-commerce regulation, derecho del consumidor online, ley de comercio electrónico]
 creado: 2026-11-22
-revisado: 2026-11-22
+revisado:
 ---
 
 # Normativa
@@ -52,7 +54,7 @@ El comprador online no puede preguntar en el mostrador, así que la ley le pide 
 
 ## Facturación: un comprobante por venta
 
-Cada venta lleva un comprobante fiscal. En Argentina, ARCA (ex AFIP) pide a los inscriptos o exentos en IVA y a los monotributistas emitir factura electrónica o usar controlador fiscal, y pueden elegir uno o los dos. Según una sola nota de prensa, desde noviembre de 2026 la obligación alcanza a los monotributistas sociales y, desde marzo de 2027, a quienes no están alcanzados por IVA. Para una tienda online la pregunta práctica es si la plataforma emite la factura sola o el comercio la hace aparte. Las normas están en la [ficha de normativa argentina](normativa-argentina.md), y el régimen de facturación de una empresa que empieza, en la [normativa para empezar en Argentina](../../Emprender/Legal-e-impuestos/normativa-para-empezar-en-argentina.md). Cuando quien compra es otra empresa (factura A, percepciones que cobra el vendedor, factura de crédito electrónica), sigue en [factura entre empresas](../Comercio-B2B/factura-entre-empresas.md).
+Cada venta lleva un comprobante fiscal. En Argentina, desde el 1 de noviembre de 2026 casi todo el que vende (inscriptos y exentos en IVA y todos los monotributistas, incluido el monotributo social) tiene que emitir factura electrónica o usar controlador fiscal, y puede elegir uno o los dos; los no alcanzados por IVA entran en marzo de 2027. Para una tienda online la pregunta práctica es si la plataforma emite la factura sola o el comercio la hace aparte, con una app o un sistema de gestión. Quién factura, qué letra lleva cada comprobante y cómo la emite un sistema están en [factura electrónica de ARCA](factura-electronica-de-arca.md); el régimen de una empresa que empieza, en la [normativa para empezar en Argentina](../../Emprender/Legal-e-impuestos/normativa-para-empezar-en-argentina.md). Cuando quien compra es otra empresa (factura A, percepciones que cobra el vendedor, factura de crédito electrónica), sigue en [factura entre empresas](../Comercio-B2B/factura-entre-empresas.md).
 
 ## Percepciones y retenciones: el impuesto se cobra en el pago
 
@@ -74,6 +76,7 @@ El recurso canónico para Argentina es la Disposición 954/2025 en el Boletín O
 
 ## Lo que hay adentro de Normativa
 
+- [Factura electrónica de ARCA](factura-electronica-de-arca.md): quién factura en Argentina, qué letra lleva cada comprobante, factura electrónica o controlador fiscal, y cómo la emite un sistema por web service.
 - [Normativa argentina](normativa-argentina.md): las normas vigentes al 2026-11-22 sobre arrepentimiento, revocación, atención, factura electrónica, SIRTAC y datos personales, con su fuente y cuántas tiene cada una.
 
 > [!NOTE] Sin fuente todavía: las fichas de Brasil, México, Chile y Colombia. El informe solo nombró sus leyes de memoria, sin abrirlas, y no se citan acá.

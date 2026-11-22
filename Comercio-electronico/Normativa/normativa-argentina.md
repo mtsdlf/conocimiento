@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las normas argentinas que alcanzan a una venta online, vigentes al 2026-11-22: el botón de arrepentimiento y el de baja de la Disposición 954/2025, la revocación de 10 días del Código Civil y Comercial y de la Ley 24.240, la factura electrónica de ARCA, el SIRTAC de Ingresos Brutos y la Ley 25.326 de datos personales, con su fuente y cuántas tiene cada una.
-estado: vigente
+estado: borrador
 estabilidad: volatil
 fuentes:
   - "Disposición 954/2025 SSDCyLC (Ministerio de Economía), Boletín Oficial, 04/09/2025 (fuente viva): https://www.boletinoficial.gob.ar/detalleAviso/primera/330827/20250904 (leída a través de un resumen de una herramienta; cotejar las citas con el texto oficial)"
@@ -10,13 +10,15 @@ fuentes:
   - "Ley 24.240, texto actualizado: https://www.argentina.gob.ar/normativa/nacional/ley-24240-638/actualizacion (leído a través de un resumen); texto original: https://www.argentina.gob.ar/normativa/nacional/ley-24240-638/texto (leído)"
   - "ARCA, factura electrónica vs. controlador fiscal, sin fecha en la página: https://www.arca.gob.ar/facturacion/comprobantes/fe-vs-cf.asp (leído)"
   - "iProfesional, nota del 04/11/2026 sobre la RG 5893/2026: https://www.iprofesional.com/actualidad/467339-arca-quienes-deberan-emitir-factura-electronica-desde-noviembre (leído)"
+  - "RG ARCA 5893/2026, Boletín Oficial, 31/08/2026: https://www.boletinoficial.gob.ar/pdf/aviso/primera/346598/20260831 (leída)"
+  - "Comercio-electronico/.investigacion/factura-electronica-arca.md"
   - "RG ARCA 5616/2024, Boletín Oficial: https://www.boletinoficial.gob.ar/detalleAviso/primera/318374/20250624 (leído a través de un resumen)"
   - "RG (CA) 11/2020, texto ordenado del SIRTAC: https://www.argentina.gob.ar/normativa/nacional/norma-341186/texto (leído a través de un resumen)"
   - "Ley 25.326, texto original: https://www.argentina.gob.ar/normativa/nacional/ley-25326-64790/texto (leído a través de un resumen)"
   - "Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md"
 aliases: [botón de arrepentimiento, botón de baja, Disposición 954/2025, Res. 424/2020, art. 1110 CCyC, Ley 24.240, Ley de Defensa del Consumidor, SIRTAC, Ley 25.326, factura electrónica ARCA]
 creado: 2026-11-22
-revisado: 2026-11-22
+revisado:
 ---
 
 # Normativa argentina
@@ -74,11 +76,12 @@ El texto original de la Ley 24.240, de 1993, daba cinco días corridos. Rige el 
 
 | Norma | Fecha | Qué dice | Fuentes |
 |---|---|---|---|
-| Régimen general | sin fecha en la página | Los responsables inscriptos o exentos en IVA y los monotributistas, "con excepción del régimen de inclusión social", usan controlador fiscal o emiten factura electrónica; pueden elegir uno o los dos | Una, primaria (ARCA) |
-| RG AFIP 4291 y RG ARCA 5616/2024 | 2018; modificada en 2024 | La 4291 es la base de los comprobantes electrónicos. La 5616/2024 pide la condición frente al IVA del cliente en el comprobante, con Facturador Móvil desde el 05/03/2025 y un nuevo WebService obligatorio desde el 15/04/2025 | Una, primaria (Boletín Oficial, por resumen) |
-| RG ARCA 5893/2026 | según prensa, desde el 01/11/2026 | Amplía la obligación a monotributistas sociales y promovidos del Régimen de Inclusión Social desde el 1 de noviembre de 2026, y a contribuyentes no alcanzados por IVA desde el 1 de marzo de 2027 | Una, secundaria: una nota de iProfesional del 04/11/2026. La RG no se leyó |
+| RG ARCA 5893/2026 | BO 31/08/2026; rige desde el 01/11/2026 | Obliga a emitir comprobantes electrónicos y/o usar controlador fiscal a inscriptos, exentos y no alcanzados en IVA y a todos los monotributistas, incluido el monotributo social; los no alcanzados por IVA, desde el 01/03/2027 | El texto en el Boletín Oficial, leído, más dos secundarias |
+| RG ARCA 5616/2024 | BO 18/12/2024 | Pide la condición frente al IVA del cliente en cada comprobante electrónico | El texto, leído |
+| RG ARCA 5614/2024 | BO 13/12/2024; para todos desde el 01/04/2025 | Transparencia fiscal: discriminar el IVA en comprobantes a consumidor final | El texto, leído |
+| RG ARCA 5700/2025 | BO 27/05/2025; rige desde el 29/05/2025 | Identificar al consumidor final desde $ 10.000.000 | El texto, leído, y la página de ARCA |
 
-La [normativa para empezar en Argentina](../../Emprender/Legal-e-impuestos/normativa-para-empezar-en-argentina.md), en Emprender, trae la misma RG 5893/2026 con otra fuente secundaria y coincide en las fechas.
+Quién factura, qué letra lleva cada comprobante, la diferencia con el controlador fiscal y cómo la emite un sistema están en [factura electrónica de ARCA](factura-electronica-de-arca.md). La [normativa para empezar en Argentina](../../Emprender/Legal-e-impuestos/normativa-para-empezar-en-argentina.md), en Emprender, trae la misma RG 5893/2026 con otra fuente secundaria y coincide en las fechas.
 
 ## SIRTAC: Ingresos Brutos sobre los cobros
 
