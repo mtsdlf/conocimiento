@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Compartir el stock entre el local y la tienda online es llevar una sola cantidad por producto y por ubicación, para que cada canal venda lo que de verdad hay. Sobre esa base se arman el retiro en el local de una compra online, el envío desde el local y la devolución en el mostrador; la evidencia muestra que mueven ventas de un canal a otro y que el total puede crecer.
+  Compartir el stock entre el local y la tienda online es llevar una sola cantidad por producto y por ubicación, para que cada canal venda lo que de verdad hay. Sobre esa base se arman el retiro en el local de una compra online, el envío desde el local y la devolución en el mostrador; la evidencia muestra que mueven ventas de un canal a otro; el efecto neto sobre el total no quedó verificado.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -18,7 +18,7 @@ revisado:
 
 # Retiro en el local y stock compartido
 
-Compartir el stock entre el local y la tienda online es llevar una sola cantidad por producto y por ubicación, para que cada canal venda lo que de verdad hay. Sobre esa base se arman el retiro en el local de una compra online, el envío desde el local y la devolución en el mostrador; la evidencia muestra que mueven ventas de un canal a otro y que el total puede crecer.
+Compartir el stock entre el local y la tienda online es llevar una sola cantidad por producto y por ubicación, para que cada canal venda lo que de verdad hay. Sobre esa base se arman el retiro en el local de una compra online, el envío desde el local y la devolución en el mostrador; la evidencia muestra que mueven ventas de un canal a otro; el efecto neto sobre el total no quedó verificado.
 
 Es la parte práctica de lo que [Venta en varios canales](../venta-en-varios-canales.md) llama omnicanal. Se apoya en el modelo de [catálogo y stock](../../Operaciones-del-comercio/catalogo-y-stock.md), donde el stock cuelga de la variante y se lleva por ubicación, y en el [punto de venta](punto-de-venta.md), que descuenta las ventas del mostrador.
 
@@ -39,7 +39,7 @@ Gallino y Moreno (2014) estudiaron una cadena de más de 80 tiendas de Norteamé
 
 Después del lanzamiento, las ventas online bajaron en las zonas cercanas a una tienda aunque el tráfico online subió, y las ventas y las visitas de las tiendas crecieron más que en Canadá. El abstract lo atribuye a dos fuerzas: ventas cruzadas en la tienda y gente que pasa a investigar online y comprar en el local. El mecanismo es la información: ofrecer el retiro obliga a mostrar un stock confiable, y eso baja el riesgo de ir al local y no encontrar el producto.
 
-Los autores cierran con una advertencia de método: «Our analysis illustrates the limitations of drawing conclusions about complex interventions using single-channel data». Medir solo la tienda online habría dado un resultado negativo.
+Los autores cierran con una advertencia de método: «Our analysis illustrates the limitations of drawing conclusions about complex interventions using single-channel data». En la lectura de la base, medir solo la tienda online habría mostrado una caída donde el conjunto quizá crecía.
 
 > [!IMPORTANT]
 > El tamaño del efecto neto no quedó verificado. Las diapositivas de los autores muestran −2%, +6% y +4% en un gráfico sin rótulos legibles; la lectura «online, tiendas y total» es una inferencia que no se cotejó con el paper. Según una nota de la escuela de negocios de uno de los autores, más del 60% de quienes usaron el retiro buscó el pedido dos o más días después de comprar.

@@ -12,7 +12,7 @@ fuentes:
   - "iProfesional, nota del 04/11/2026 sobre la RG 5893/2026: https://www.iprofesional.com/actualidad/467339-arca-quienes-deberan-emitir-factura-electronica-desde-noviembre (leído)"
   - "RG ARCA 5893/2026, Boletín Oficial, 31/08/2026: https://www.boletinoficial.gob.ar/pdf/aviso/primera/346598/20260831 (leída)"
   - "Comercio-electronico/.investigacion/factura-electronica-arca.md"
-  - "RG ARCA 5616/2024, Boletín Oficial: https://www.boletinoficial.gob.ar/detalleAviso/primera/318374/20250624 (leído a través de un resumen)"
+  - "RG ARCA 5616/2024, Boletín Oficial, 18/12/2024 (el texto se leyó en el PDF del aviso el 2026-11-22; una versión anterior de esta ficha la citaba en https://www.boletinoficial.gob.ar/detalleAviso/primera/318374/20250624, por resumen)"
   - "RG (CA) 11/2020, texto ordenado del SIRTAC: https://www.argentina.gob.ar/normativa/nacional/norma-341186/texto (leído a través de un resumen)"
   - "Ley 25.326, texto original: https://www.argentina.gob.ar/normativa/nacional/ley-25326-64790/texto (leído a través de un resumen)"
   - "Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md"

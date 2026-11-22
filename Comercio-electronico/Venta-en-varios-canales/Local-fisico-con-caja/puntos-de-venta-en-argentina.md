@@ -34,7 +34,7 @@ Implementa [punto de venta](punto-de-venta.md) y [retiro en el local y stock com
 
 ## Los POS de las plataformas de tiendas
 
-| | Tiendanube, Punto de venta | Shopify POS |
+| | [Tiendanube](../../Plataforma-de-tiendas/tiendanube.md), Punto de venta | [Shopify](../../Plataforma-de-tiendas/shopify.md) POS |
 |---|---|---|
 | Qué es | POS dentro de la plataforma, en todos los planes | app de venta en persona de la plataforma |
 | Precio | un POS incluido: «Inicial» en el plan gratis y «Plus» en los pagos; los puntos extra cuestan «según tu plan» (el monto en Argentina no se encontró). Planes por mes: Esencial $27.999, Impulso $79.999, Escala $244.999 (A2) | la versión básica viene en los planes pagos; POS Pro, USD 89 por mes por sucursal con pago anual, en la página argentina (A2). No se encontró precio en pesos |
@@ -48,7 +48,7 @@ Facturar las ventas de la tienda con una app cuesta, en la tienda de apps de Tie
 
 ## Los lectores de cobro
 
-Mercado Pago vende el lector Point Smart a $60.000 de lista, $44.999 con 25% de descuento el día de la consulta, «sin costo de alquiler» (A2). Su documentación de developers permite conectarlo a un POS de terceros por API (A2). Su software de punto de venta propio se encontró solo en México, lanzado en julio de 2025 a 99 pesos mexicanos por mes (B2); en Argentina no se encontró.
+[Mercado Pago](../../Pagos/mercado-pago.md) vende el lector Point Smart a $60.000 de lista, $44.999 con 25% de descuento el día de la consulta, «sin costo de alquiler» (A2). Su documentación de developers permite conectarlo a un POS de terceros por API (A2). Su software de punto de venta propio se encontró solo en México, anunciado a comienzos de julio de 2025 a 99 pesos mexicanos por mes (B2); en Argentina no se encontró.
 
 Las comisiones de Point no coinciden entre dos fuentes, y la página oficial tampoco coincide consigo misma:
 
@@ -60,16 +60,16 @@ Las comisiones de Point no coinciden entre dos fuentes, y la página oficial tam
 
 La página de costos de Point (https://www.mercadopago.com.ar/costs-section/point) dio 403 y no se leyó. Las tasas dependen del plazo de acreditación y no incluyen impuestos; el marco general está en [costos de cobro en Argentina](../../Pagos/costos-de-cobro-en-argentina.md).
 
-Otros adquirentes, todos según la misma nota de iProUP de enero de 2026 (C3, sin fuente oficial leída): Getnet, 3,19% débito y 6,19% crédito en el acto; Nave, 1,2% débito y 4,5% crédito en el acto; Payway, 1% débito a un día hábil; Fiserv, 0,8% débito a un día hábil; QR con saldo, 0,8% en casi todos. MODO no adquiere: opera sobre otros adquirentes.
+Otros [adquirentes](../../Pagos/actores-del-pago.md), todos según la misma nota de iProUP de enero de 2026 (C3, sin fuente oficial leída): Getnet, 3,19% débito y 6,19% crédito en el acto; Nave, 1,2% débito y 4,5% crédito en el acto; Payway, 1% débito a un día hábil; Fiserv, 0,8% débito a un día hábil; QR con saldo, 0,8% en casi todos. MODO no adquiere: opera sobre otros adquirentes.
 
 ## Los POS de los sistemas de gestión
 
 | Producto | POS | Factura de ARCA | Comparte stock con la tienda | Fuente |
 |---|---|---|---|---|
 | Dux Software | sí | sí | sí: integra Mercado Libre, Tiendanube, WooCommerce y otras, de 1 a 5 tiendas según el plan | A1 |
-| Contabilium | sí; punto de venta extra $28.000 + IVA | sí | sí: Mercado Libre, Tiendanube, WooCommerce, Shopify | A1 |
+| Contabilium | sí, aunque una reseña de marzo de 2026 dice que el POS web se está discontinuando; punto de venta extra $28.000 + IVA (la página no aclara si es por mes) | sí | sí: Mercado Libre, Tiendanube, WooCommerce, Shopify | A1 |
 | Alegra | sí, con varias terminales y turnos de caja | sí | Mercado Libre | A2 |
-| Fudo (gastronomía) | sí, con terminal de pagos integrada | sí | tienda online propia | C3 |
+| Fudo (gastronomía) | sí, con terminal de pagos integrada | sí, según su sitio; sin verificar | tienda online propia | C3 |
 | YoFacturo (kioscos) | sí; $20.000 por mes con 1 punto de venta y 500 productos; factura los cobros de Point | sí | no relevado | C3 |
 
 Los precios completos y las integraciones de cada sistema están en [sistemas de gestión en Argentina](../../Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion-en-argentina.md).

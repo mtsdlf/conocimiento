@@ -51,15 +51,15 @@ El mercado usa cuatro etiquetas que se superponen:
 
 Un fabricante que vende la tercera define al ERP como lo que «abarca todos los aspectos operativos» y es más complejo y costoso, y al software de gestión como lo que «se centra en áreas específicas» y escala con más facilidad. Es una definición de parte. Los productos reales cruzan las etiquetas: hay contables que suman stock, facturadores que suman cobranzas y sistemas de gestión con POS y conector a tiendas incluidos.
 
-En la lectura de la base, la pregunta útil no es la etiqueta sino de qué es fuente de verdad cada sistema: de los comprobantes, del stock, de la contabilidad o de la cobranza. Dos sistemas que creen ser dueños del stock producen la sobreventa que describe [catálogo y stock](../catalogo-y-stock.md).
+En la lectura de la base, la etiqueta importa menos que la fuente de verdad de cada sistema: los comprobantes, el stock, la contabilidad o la cobranza. Dos sistemas que creen ser dueños del stock producen la sobreventa que describe [catálogo y stock](../catalogo-y-stock.md).
 
 ## Instalado o en la nube
 
-Los sistemas viejos se instalan en una computadora o un servidor del comercio y se venden por licencia y por puesto, muchas veces a través de una red de distribuidores. Los nuevos corren en la nube y se pagan por mes. En Argentina, los de la nube escalan el precio por tres cosas: comprobantes por mes, usuarios y cuentas de canal conectadas (tiendas y marketplaces). Los precios de cada uno están en [sistemas de gestión en Argentina](sistemas-de-gestion-en-argentina.md).
+Hay sistemas que se instalan en una computadora o un servidor del comercio y se venden por licencia, por módulo y por puesto, a través de una red de distribuidores; el caso argentino más conocido funciona así, según un resumen del buscador. Los que corren en la nube se pagan por mes. En los que se relevaron, el precio escala por comprobantes por mes y usuarios, y además por cuentas de canal conectadas (tiendas y marketplaces) en los que traen integraciones, o por depósitos en otros. Los precios de cada uno están en [sistemas de gestión en Argentina](sistemas-de-gestion-en-argentina.md).
 
 ## Cómo se elige y cómo falla
 
-La única fuente leída sobre fallas de implementación es de un autor que vende desarrollo a medida: nombra como errores comunes elegir solo por precio, decidir solo con el criterio del contador y subestimar la migración de datos. Una página de precios confirma el tercer riesgo: un fabricante avisa que al migrar «no se pueden cargar datos históricos como ventas o cuentas corrientes», solo clientes, proveedores, productos, precios y stock.
+La única fuente leída sobre fallas de implementación es de un autor que vende desarrollo a medida: nombra como errores comunes elegir solo por precio, decidir solo con el criterio del contador y subestimar la migración de datos. Un fabricante reconoce el tercer riesgo en su página de precios: avisa que al migrar «no se pueden cargar datos históricos como ventas o cuentas corrientes», solo clientes, proveedores, productos, precios y stock.
 
 Las reseñas de los usuarios agregan dónde duele después de elegir; están codificadas en [sistemas de gestión en Argentina](sistemas-de-gestion-en-argentina.md#lo-que-dicen-las-reseñas).
 

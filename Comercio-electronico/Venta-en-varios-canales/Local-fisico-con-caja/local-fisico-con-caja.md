@@ -41,7 +41,7 @@ flowchart LR
 | Comprobante fiscal | la factura o el tique de cada venta | [factura electrónica de ARCA](../../Normativa/factura-electronica-de-arca.md) |
 | Stock compartido | una sola cantidad para el local y la tienda | [retiro en el local y stock compartido](retiro-en-el-local-y-stock-compartido.md) |
 
-Cuando las piezas no se hablan, el empleado del mostrador hace de puente: cobra en el lector, tipea el monto en el POS y emite la factura en otro sistema. En la oferta argentina relevada el 2026-11-22 ese es el caso común: el POS de la plataforma de tiendas más usada registra a mano el cobro hecho en un lector externo y deja la factura a una app de terceros. El detalle, con precios, está en [puntos de venta en Argentina](puntos-de-venta-en-argentina.md).
+Cuando las piezas no se hablan, el empleado del mostrador hace de puente: cobra en el lector, tipea el monto en el POS y emite la factura en otro sistema. En la oferta argentina relevada el 2026-11-22 ese es el caso común: el POS de una plataforma de tiendas argentina relevada registra a mano el cobro hecho en un lector externo y deja la factura a una app de terceros. El detalle, con precios, está en [puntos de venta en Argentina](puntos-de-venta-en-argentina.md).
 
 ## Lo que la integración cambia
 

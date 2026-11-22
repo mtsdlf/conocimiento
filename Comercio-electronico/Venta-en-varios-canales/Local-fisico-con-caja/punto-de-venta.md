@@ -40,16 +40,16 @@ El lector cobra y el POS registra. El lector (una terminal de tarjetas o un QR) 
 
 Las dos piezas pueden estar conectadas o no:
 
-- **Sin conexión**: el empleado cobra en el lector y después carga en el POS el medio, y si quiere el número de comprobante, las cuotas y el banco. Es como funciona el POS de la plataforma de tiendas más usada en Argentina con una terminal externa, según su ayuda.
-- **Con conexión**: el POS crea la orden de pago, el lector la muestra, el comprador paga y el POS recibe el aviso. Así describe Mercado Pago la integración de sus lectores con un punto de venta propio, por API, con los modelos Point Smart 1 y 2. La documentación avisa que una API nueva va a reemplazar a la anterior, sin fecha.
+- Sin conexión: el empleado cobra en el lector y después carga en el POS el medio, y si quiere el número de comprobante, las cuotas y el banco. Es como funciona el POS de una plataforma de tiendas argentina relevada con una terminal externa, según su ayuda.
+- Con conexión: el POS crea la orden de pago, el lector la muestra, el comprador paga y el POS recibe el aviso. Así describe Mercado Pago la integración de sus lectores con un punto de venta propio, por API, con los modelos Point Smart 1 y 2. La documentación avisa que una API nueva va a reemplazar a la anterior, sin fecha.
 
-Con conexión desaparece la doble carga y el cierre de caja cuadra solo. Lo que ninguna de las dos fuentes resuelve es el comprobante fiscal: Mercado Pago no emite la factura de ARCA, y quien la emite es otro sistema (ver [factura electrónica de ARCA](../../Normativa/factura-electronica-de-arca.md)).
+En la lectura de la base, con conexión desaparece la doble carga y el cierre de caja deja de depender de lo que se tipeó. Lo que ninguna de las dos fuentes resuelve es el comprobante fiscal: la documentación de Mercado Pago no menciona la factura de ARCA, y quien la emite es otro sistema (ver [factura electrónica de ARCA](../../Normativa/factura-electronica-de-arca.md)).
 
 ## En qué se diferencia del sistema de gestión
 
 Un POS vende y cobra; un [sistema de gestión](../../Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md) lleva además compras, proveedores, cuentas corrientes, varios depósitos y, en los más completos, la contabilidad. En la práctica las fronteras se cruzan. Los sistemas de gestión argentinos traen su propio POS, y hay POS de rubro (gastronomía, por ejemplo) que suman caja, terminal de pago integrada, factura y tienda online en un solo producto.
 
-Por eso la pregunta útil al mirar un producto no es qué etiqueta tiene, sino cuál de estas cuatro cosas guarda como verdad: la venta, el cobro, el comprobante o el stock.
+Al mirar un producto conviene preguntar cuál de estas cuatro cosas guarda como verdad: la venta, el cobro, el comprobante o el stock.
 
 > [!NOTE] Sin fuente todavía: una definición de POS en un manual de retail (por ejemplo, el capítulo de sistemas de tienda de *Retailing Management*, de Levy y Weitz). Lo de arriba sale de la documentación de proveedores.
 

@@ -40,8 +40,8 @@ Todos en pesos y más IVA, salvo donde se aclara.
 
 | Sistema | Planes y precio | Qué limita el plan | Calificación |
 |---|---|---|---|
-| Dux Software | Inicial $36.000; Estándar $75.300; Pro $111.200; Full $150.300. Usuario extra $4.700 | comprobantes (250, 1.500, 5.000, sin límite; cuentan los facturados y los no facturados) y tiendas conectadas (1, 3, 4, 5) | A1 |
-| Contabilium | Standard $122.000; Pro $179.000; Full $245.000; Enterprise a medida. Pago anual, 10% menos. Punto de venta extra $28.000 | comprobantes (1.500, 5.000, 10.000), productos, CUIT, usuarios y cuentas conectadas (3, 4, 5); cada cuenta extra de Mercado Libre o Tiendanube $42.000 y de Shopify $55.000 | A1 |
+| Dux Software | Inicial $36.000; Estándar $75.300; Pro $111.200; Full $150.300. Usuario extra $4.700 | comprobantes (250, 1.500, 5.000, sin límite; cuentan los facturados y los no facturados) y tiendas conectadas (1, 3, 4, 5) | A1 en Inicial y Estándar; A2 en Pro y Full |
+| Contabilium | Standard $122.000; Pro $179.000; Full $245.000; Enterprise a medida. Pago anual, 10% menos. Punto de venta extra $28.000 (la página no aclara si es por mes) | comprobantes (1.500, 5.000, 10.000), productos, CUIT, usuarios y cuentas conectadas (3, 4, 5); cada cuenta extra de Mercado Libre o Tiendanube $42.000 y de Shopify $55.000, sin aclarar si es por mes | A1 en Standard; A2 en Pro y Full |
 | Xubio | Gratis (10 facturas); Básico $128.000; Estándar $206.600 (con débito automático, $98.700 y $161.800) | facturas (300, 1.000), depósitos y usuarios | A2 |
 | Colppy | Essential $128.500; Platinum $189.500; Full $261.500; Enterprise $310.900; Plus $627.500 | comprobantes (300 a 7.000) y puntos de venta | A2; la página pasó por un extractor y conviene verificarla |
 | Tango Factura (TFactura, de Axoft) | Factura $20.891; Factura Pro $48.207; Negocios $106.237; Negocios Pro $171.906 | comprobantes (50, 200, sin límite) | B4: lo publica el blog de una plataforma de tiendas, en enero de 2026 |
@@ -53,7 +53,7 @@ Por debajo de esos precios hay facturadores sueltos: apps de facturación en la 
 
 ## Qué conectan y si traen caja
 
-| Sistema | Tiendas y marketplaces | Cobros | Punto de venta | Calificación |
+| Sistema | Tiendas y marketplaces | Cobros | [Punto de venta](../../Venta-en-varios-canales/Local-fisico-con-caja/punto-de-venta.md) | Calificación |
 |---|---|---|---|---|
 | Dux | Mercado Libre, Tiendanube, WooCommerce y otras; VTEX como complemento ($30.000) | | sí | A2 |
 | Contabilium | Mercado Libre, Tiendanube, WooCommerce, Shopify, PrestaShop | Mercado Pago | sí; el POS web se estaba discontinuando según una reseña de marzo de 2026 | A2 |
@@ -66,7 +66,7 @@ Ninguna fuente leída muestra una integración de estos sistemas con los lectore
 
 ## Cuántos clientes declaran
 
-Lo dice cada empresa de sí misma, en todos los rubros y sin fecha (C, dato 5):
+Lo dice cada empresa de sí misma, en todos los rubros y sin fecha (B3; Colppy B4, leída por extracto). No hay quien lo confirme:
 
 | Sistema | Cifra |
 |---|---|
@@ -86,14 +86,15 @@ Se leyeron una por una 245 reseñas de comercios en la tienda de apps de Tiendan
 |---|---|---|---|---|
 | Tango Factura | 75 | 58 | 3 | 19, de las cuales 18 son de 4 o 5★ |
 | Contabilium | 74 | 33 | 29 | 8, todas de 1 o 2★ |
-| Dux | 38 | 22 | 6 | 14: 10 de 4 o 5★ y 4 de 1 o 2★ |
+| Dux | 38 | 22 | 6 | 14: 7 de 5★, 4 de 1 o 2★ y 3 sin estrellas (2 elogian, 1 se queja) |
 | Netegia (conector) | 22 | 19 | 2 | 2 |
 | Dragonfish | 20 | 11 | 4 | 2 |
 | Xubio | 14 | 5 | 2 | 1 |
+| Producteca (integrador) | 2 | 1 | 1 | 1 |
 
-La distribución dice más que el promedio: Contabilium tiene 3,2 en la tienda con forma de U, 33 reseñas de 5★ y 29 de 1★ y casi nada en el medio. Hay tandas de muchas reseñas de 5★ en pocas semanas (44 de Tango Factura en enero y febrero de 2022, 14 de Contabilium en mayo de 2022, 12 de Netegia en julio y agosto de 2023), que parecen pedidas por el desarrollador y suben el promedio. En la tienda de apps, ningún desarrollador respondió las reseñas, salvo uno que contestó sus 20 en un mismo día.
+La distribución dice más que el promedio. Contabilium tiene 3,2 en la tienda, con forma de U: de sus 71 reseñas ahí, 33 son de 5★, 26 de 1★ y casi nada queda en el medio. Hay tandas de muchas reseñas en pocas semanas (44 de Tango Factura en enero y febrero de 2022, 32 de ellas de 5★; 14 de Contabilium en mayo de 2022, 11 de 5★; 12 de Netegia en julio y agosto de 2023, 11 de 5★), que parecen pedidas por el desarrollador y suben el promedio. En la tienda de apps, ningún desarrollador respondió las reseñas, salvo uno que contestó sus 20 en un mismo día.
 
-**De qué se quejan.** Las 71 reseñas de 1 a 3★ (y las sin estrellas con queja) de la tienda de apps y de ComparaSoftware, codificadas a mano sobre los primeros 140 caracteres de cada una:
+De qué se quejan. Las 71 reseñas de 1 a 3★ (y las sin estrellas con queja) de la tienda de apps y de ComparaSoftware, codificadas a mano sobre los primeros 140 caracteres de cada una:
 
 | Tema | Reseñas | 2024 a 2026 (de 16) | Ejemplo |
 |---|---|---|---|
@@ -108,9 +109,9 @@ La distribución dice más que el promedio: Contabilium tiene 3,2 en la tienda c
 | Baja o devolución trabada | 3 | 1 | «no te quieren devolver la plata del plan» (2026) |
 | Prometido al vender y no entregado | 3 | 1 | «me dijeron que tenía funciones que al final no las tenía» (2023) |
 
-Una codificación por reglas sobre el texto entero da el mismo orden: soporte en unas 34 de 58 reseñas de 1 o 2★, y sincronización, stock o sobreventa en unas 19. La combinación que se repite en quienes se van es una sincronización que falla y un soporte que no la resuelve. Dos rubros chocan con límites del producto: indumentaria (talle y color) y calzado (cambios en el mismo tique).
+Otra codificación, por reglas sobre el texto entero y con una base algo distinta (58 reseñas de 1 o 2★ y sin estrellas con queja, incluidas 2 de Bsale en Chile), da el mismo orden: soporte en unas 34 y sincronización, stock o sobreventa en unas 19. La combinación que se repite en quienes se van es una sincronización que falla y un soporte que no la resuelve. Dos rubros chocan con límites del producto: indumentaria (talle y color) y calzado (cambios en el mismo tique).
 
-**Qué valoran.** En las de 4 y 5★, por codificación con reglas: soporte (64), sincronización de stock y precios con la tienda (63), facilidad de uso (62), facturar con un clic desde la venta online (60) y tener un solo stock para el local y lo online (54). Dos ejemplos: «Vendemos en el local y nos olvidamos de andar pensando si desconto o no el stock» (2023) y «tengo relacionado Mercado Libre, tienda nube, local físico y woocommerce, las 4 tiendas con stock y precio» (2022).
+Qué valoran. En las de 4 y 5★, por codificación con reglas (cifras del informe, no recontadas a mano, con ruido de polaridad): soporte (64), sincronización de stock y precios con la tienda (63), facilidad de uso (62), facturar con un clic desde la venta online (60) y tener un solo stock para el local y lo online (54). Dos ejemplos: «Vendemos en el local y nos olvidamos de andar pensando si desconto o no el stock» (2023) y «tengo relacionado Mercado Libre, tienda nube, local físico y woocommerce, las 4 tiendas con stock y precio» (2022).
 
 Las apps del celular (Xubio, Colppy y Alegra en App Store; Xubio, Colppy y el POS de Contabilium en Google Play; 157 reseñas) hablan de otra cosa: que la app no deja entrar o hace menos que la web. Se codificaron aparte, en el informe de investigación.
 

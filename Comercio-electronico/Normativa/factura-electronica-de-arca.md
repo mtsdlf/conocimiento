@@ -18,7 +18,7 @@ fuentes:
   - "ARCA, web services de factura electrónica: https://www.arca.gob.ar/ws/documentacion/ws-factura-electronica.asp y manual WSFEv1 v4.7: https://www.arca.gob.ar/ws/documentacion/manuales/manual-desarrollador-ARCA-COMPG.pdf (leídos el 2026-11-22)"
   - "ARCA, manual WSFEv1 v4.8 en homologación externa: https://www.arca.gob.ar/fe/ayuda/documentos/wsfev1-RG-4291.pdf (leído el 2026-11-22)"
   - "iProfesional, Nuevo requisito de ARCA puede trabar la emisión de facturas, 09/09/2026: https://www.iprofesional.com/impuestos/464104-nuevo-requisito-arca-puede-trabar-emision-facturas (por resumen)"
-  - "CPCE Córdoba, sobre la RG 5893, 31/08/2026: https://web.cpcecba.org.ar/?p=69028 (por resumen)"
+  - "CPCE de la Ciudad de Buenos Aires, sobre la RG 5893, 31/08/2026: https://web.cpcecba.org.ar/?p=69028 (por resumen)"
   - "Comercio-electronico/.investigacion/factura-electronica-arca.md"
 aliases: [factura electrónica, factura electrónica AFIP, comprobante electrónico, CAE, CAEA, WSFEv1, web service de ARCA, controlador fiscal, factura A, factura B, factura C, transparencia fiscal, RG 4291, RG 5893]
 creado: 2026-11-22
@@ -32,16 +32,16 @@ La factura electrónica de ARCA es el comprobante fiscal que en Argentina respal
 > [!WARNING]
 > Ley y dinero: esto no reemplaza a un contador. Las normas se leyeron en el Boletín Oficial el 2026-11-22; varias páginas de ARCA todavía no incorporan los cambios de 2025 y 2026. Antes de actuar, se lee la norma vigente.
 
-Es el caso argentino de la regla de facturación que describe [Normativa](normativa.md). Toca a la tienda online y al local por igual: el comprobante lo emite la plataforma de tiendas, una app, un [sistema de gestión](../Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md) o el [punto de venta](../Venta-en-varios-canales/Local-fisico-con-caja/punto-de-venta.md). El resto de las normas argentinas que alcanzan a una tienda está en la [ficha de normativa argentina](normativa-argentina.md).
+ARCA (Agencia de Recaudación y Control Aduanero, ex AFIP) es el fisco nacional. Es el caso argentino de la regla de facturación que describe [Normativa](normativa.md). Toca a la tienda online y al local por igual: el comprobante lo emite la plataforma de tiendas, una app, un [sistema de gestión](../Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md) o el [punto de venta](../Venta-en-varios-canales/Local-fisico-con-caja/punto-de-venta.md). El resto de las normas argentinas que alcanzan a una tienda está en la [ficha de normativa argentina](normativa-argentina.md).
 
 ## Quién tiene que facturar
 
 Desde el 1 de noviembre de 2026, la RG ARCA 5893/2026 obliga a emitir comprobantes electrónicos y/o usar controlador fiscal «para respaldar todas sus operaciones realizadas en el mercado interno» a:
 
-1. Los responsables inscriptos, exentos y no alcanzados en el IVA.
-2. Los adheridos al monotributo, incluidos los del Régimen de Inclusión Social (monotributo social), que antes estaban exceptuados.
+1. Los responsables inscriptos (los que cobran y descuentan IVA), exentos y no alcanzados en el IVA.
+2. «Aquellos adheridos al Régimen Simplificado para Pequeños Contribuyentes», es decir, el [monotributo](../../Emprender/Legal-e-impuestos/normativa-para-empezar-en-argentina.md#monotributo), el régimen de los contribuyentes chicos que pagan una cuota fija. Según el art. 5 y los considerandos, eso incluye ahora a los del Régimen de Inclusión Social y del Registro de Efectores (monotributo social), que antes estaban exceptuados.
 
-Los no alcanzados por el IVA entran el 1 de marzo de 2027. A un monotributista sin punto de venta electrónico, ARCA le habilita uno de oficio en «Comprobantes en línea». Desde esas fechas, los talonarios impresos quedan solo para contingencias. Hay dos fuentes independientes además del texto de la norma: un consejo profesional y la novedad de ARCA.
+Los no alcanzados por el IVA entran el 1 de marzo de 2027. A un monotributista sin punto de venta electrónico, ARCA le habilita uno de oficio en «Comprobantes en línea». Desde esas fechas, los talonarios impresos quedan solo para contingencias. El texto de la norma se leyó entero; coinciden, leídos por resumen, un consejo profesional, una consultora y la novedad de ARCA.
 
 La página de ARCA «Factura electrónica vs. Controlador fiscal» todavía exceptúa al régimen de inclusión social: está desactualizada frente a la RG 5893.
 
@@ -49,7 +49,7 @@ La página de ARCA «Factura electrónica vs. Controlador fiscal» todavía exce
 
 El comercio puede elegir una de las dos modalidades o las dos, «sin necesidad de informar previamente» a ARCA. Un controlador fiscal es un equipo homologado por ARCA que imprime tiques y facturas; su régimen es la RG AFIP 3561/2013, cuyo texto no se leyó.
 
-Para un local que vende a consumidor final, **la obligación de facturar no obliga a comprar un controlador fiscal**: alcanza con la factura electrónica. Es una confusión frecuente. Hay tres casos en que no se puede elegir y la factura tiene que ser electrónica:
+Para un local que vende a consumidor final, la obligación de facturar no obliga a comprar un controlador fiscal: alcanza con la factura electrónica. La confusión aparece en blogs de proveedores; no se encontró una frase oficial que lo diga con esas palabras, pero se sigue de la norma. Hay tres casos en que no se puede elegir y la factura tiene que ser electrónica:
 
 - las ventas de una pyme a una empresa grande o a otra pyme adherida a la Factura de Crédito Electrónica MiPyME;
 - los no alcanzados por el IVA;
@@ -87,7 +87,7 @@ ARCA ofrece tres caminos, y cada uno usa su propio punto de venta (un número qu
 
 | Camino | Para quién | Cómo |
 |---|---|---|
-| Comprobantes en línea y Facturador Móvil | quien factura a mano | en la web de ARCA o en la app, con clave fiscal nivel 3; gratis |
+| Comprobantes en línea y Facturador Móvil | quien factura a mano | en la web de ARCA o en la app, con clave fiscal nivel 3; gratis, según una página de ARCA leída por resumen |
 | Facturador | monotributistas que venden a consumidores finales | herramienta simple, con un tope de $ 500.000 por operación ($ 250.000 para el monotributo social) |
 | Web service | un sistema que factura solo | el sistema pide el CAE por cada comprobante |
 
@@ -103,7 +103,7 @@ flowchart LR
 
 1. El comercio genera un certificado digital con su clave fiscal y lo asocia al servicio de facturación electrónica.
 2. El sistema pide al servicio de autenticación (WSAA) un ticket de acceso, que dura 12 horas.
-3. Por cada venta, el sistema manda el comprobante y recibe el CAE. Sin CAE, el comprobante no produce efectos frente a terceros (art. 12 de la RG 4291).
+3. Por cada venta, el sistema manda el comprobante y recibe el CAE. Sin CAE, el comprobante no produce efectos frente a terceros, según el resumen que publica ARCA del art. 12 de la RG 4291 (el texto en el Boletín no se leyó).
 
 Un proveedor puede facturar por cuenta del comercio si el comercio le delega el servicio en el Administrador de Relaciones de Clave Fiscal; es así como funcionan los sistemas de gestión y las apps de facturación. ARCA ofrece un ambiente de prueba (homologación) para desarrollar.
 

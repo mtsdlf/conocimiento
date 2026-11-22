@@ -36,13 +36,13 @@ Es lo que une al [sistema de gestión](sistemas-de-gestion.md) con los canales d
 | Pedidos | de los canales al sistema de gestión | cada venta se factura y descuenta del registro central |
 | Comprobante | del sistema de gestión al canal o al comprador | la factura se emite donde está el registro fiscal |
 
-La tabla es una lectura de la base sobre la documentación de los fabricantes; ninguna fuente leída lo describe en general. Un ejemplo concreto: la ayuda de un sistema argentino dice que el stock y los precios van del sistema hacia los canales, en un solo sentido (citado abajo). Otro sistema describe su conexión con una plataforma de tiendas como facturar las ventas en lote, sincronizar precios y stock, y pausar o activar publicaciones según el stock.
+La tabla es una lectura de la base sobre la documentación de los fabricantes; ninguna fuente leída lo describe en general. Un ejemplo concreto: la ayuda de un sistema argentino dice que el stock y los precios van del sistema hacia los canales, en un solo sentido (citado abajo). El blog de una plataforma de tiendas, no el fabricante, describe la conexión de otro sistema como facturar las ventas en lote, sincronizar precios y stock, y pausar o activar publicaciones según el stock.
 
-Las dos partes se reconocen por el SKU de cada [variante](../catalogo-y-stock.md): si el código no coincide, la venta llega al sistema sin producto o el stock no se actualiza.
+En la lectura de la base, sin fuente propia, las dos partes se reconocen por el SKU de cada [variante](../catalogo-y-stock.md): si el código no coincide, la venta llega al sistema sin producto o el stock no se actualiza.
 
 ## Cómo se entera cada lado
 
-Hay dos maneras, y las integraciones serias usan las dos:
+Hay dos maneras, y la documentación de Shopify recomienda combinarlas:
 
 - **Aviso (webhook)**: el canal llama al sistema cuando pasa algo, como una venta nueva. Shopify advierte que «Webhook delivery isn't always guaranteed» y recomienda descartar los avisos repetidos por su identificador.
 - **Consulta periódica**: el sistema pregunta cada tanto qué cambió. Shopify recomienda «reconciliation jobs» que vuelvan a leer los datos para cubrir los avisos perdidos.
@@ -55,14 +55,16 @@ Para leer y escribir en la cuenta del comercio, el sistema usa un token que el c
 
 | Canal | Qué dice su documentación | Calidad de lo leído |
 |---|---|---|
-| Tiendanube | «Our access tokens don't expire»: el token deja de valer solo si se pide otro o se desinstala la app | documentación oficial, por extracto |
-| Mercado Libre | el token de acceso dura 6 horas (`expires_in: 21600`); se renueva con un token de renovación que es de un solo uso y exige el permiso `offline_access` | documentación oficial que dio 403; por resumen del buscador |
+| [Tiendanube](../../Plataforma-de-tiendas/tiendanube.md) | «Our access tokens don't expire»: el token deja de valer solo si se pide otro o se desinstala la app | documentación oficial, por extracto |
+| [Mercado Libre](../../Plataforma-de-tiendas/mercado-libre-para-desarrolladores.md) | el token de acceso dura 6 horas (`expires_in: 21600`); se renueva con un token de renovación que es de un solo uso y exige el permiso `offline_access` | documentación oficial que dio 403; por resumen del buscador |
 
-Del lado del comercio se ve así, en la ayuda de un sistema argentino: «Cada cierto tiempo, Mercado Libre requiere renovar el token de la integración», y la misma ayuda aclara que la sincronización de stock y precios «va siempre desde [el sistema] hacia tu tienda online» y «no funciona al revés».
+Del lado del comercio se ve así, en la ayuda de un sistema argentino: «Cada cierto tiempo, Mercado Libre requiere renovar el token de la integración», por un cambio de contraseña, actualizaciones de seguridad u otros motivos, y se renueva a mano. La misma ayuda aclara que la sincronización de stock y precios «va siempre desde [el sistema] hacia tu tienda online» y «no funciona al revés».
 
-Con un token que vence cada 6 horas y un token de renovación que se gasta al usarlo, dos procesos que renuevan a la vez dejan a uno con un token inválido y la cuenta desconectada. En la lectura de la base, eso explica una parte de los cortes de sincronización con Mercado Libre; un proveedor también los atribuye a la «inestabilidad de la interfaz de Mercado Libre». Cuánto dura el token de renovación no quedó claro: un resumen dice 6 meses y otra redacción de la misma documentación es ambigua.
+Con un token que vence cada 6 horas y un token de renovación que se gasta al usarlo, dos procesos que renuevan a la vez dejan a uno con un token ya gastado. En la lectura de la base, eso puede dejar la cuenta desconectada y explica una parte de los cortes de sincronización con Mercado Libre; un proveedor también los atribuye a la «inestabilidad de la interfaz de Mercado Libre». Cuánto dura el token de renovación no quedó claro: un resumen dice 6 meses y otra redacción de la misma documentación es ambigua.
 
 ## Cómo falla
+
+La lista es una lectura de la base sobre el mecanismo de avisos y tokens; las reseñas confirman la primera y la tercera.
 
 1. **Sobreventa**: dos canales venden la última unidad entre dos sincronizaciones, o un aviso de venta se pierde.
 2. **Pedidos duplicados**: el mismo aviso llega dos veces y el sistema crea dos pedidos.
@@ -73,7 +75,7 @@ Las reseñas de los usuarios argentinos, con su conteo por tema, están en [sist
 
 ## Cuánto cuesta conectar
 
-Los sistemas argentinos cobran la integración por cuenta de canal. Uno incluye de 1 a 5 tiendas o marketplaces según el plan; otro incluye de 3 a 5 cuentas y cobra cada cuenta extra de Mercado Libre o Tiendanube a $42.000 + IVA por mes y la de Shopify a $55.000 + IVA (precios al 2026-11-22, en la [ficha](sistemas-de-gestion-en-argentina.md)).
+Los sistemas argentinos cobran la integración por cuenta de canal. Uno incluye de 1 a 5 tiendas o marketplaces según el plan; otro incluye de 3 a 5 cuentas y cobra cada cuenta extra de Mercado Libre o Tiendanube a $42.000 + IVA y la de Shopify a $55.000 + IVA (la página no aclara si es por mes) (precios al 2026-11-22, en la [ficha](sistemas-de-gestion-en-argentina.md)).
 
 > [!NOTE] Sin fuente todavía: la documentación oficial de Mercado Libre sobre tokens, notificaciones y límites (dio 403), los reintentos de avisos de Tiendanube y WooCommerce, y una medición de cada cuánto sincronizan los conectores y con qué frecuencia sobrevenden.
 
