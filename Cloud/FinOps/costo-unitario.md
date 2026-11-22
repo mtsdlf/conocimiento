@@ -29,7 +29,7 @@ la distorsione.
   según el criterio de [Showback y chargeback](showback-y-chargeback.md).
 - **Excluye**: lo que no se puede asignar al servicio; si se deja afuera, se dice.
 
-Es la capacidad de economía unitaria del marco de [FinOps](que-es-finops.md). La FinOps Foundation distingue
+Es la capacidad de economía unitaria del marco de [FinOps](finops.md). La FinOps Foundation distingue
 dos familias:
 
 | Familia | Ejemplos | Quién la controla |

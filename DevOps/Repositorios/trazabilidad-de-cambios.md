@@ -65,7 +65,7 @@ genera la versión siguiente.
 
 ## Trazabilidad no es observabilidad
 
-La [Observabilidad](../../Platform-Engineering/Operacion-de-la-plataforma/observabilidad.md), que explica qué hace el sistema en ejecución. La trazabilidad explica de
+La [Observabilidad](../Operacion/observabilidad.md), que explica qué hace el sistema en ejecución. La trazabilidad explica de
 dónde salió lo que está desplegado.
 
 ## Ver también

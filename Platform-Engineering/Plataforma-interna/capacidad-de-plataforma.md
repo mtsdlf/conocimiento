@@ -61,4 +61,4 @@ que el usuario puede hacer ("desplegar mi servicio"), no el programa que lo hace
 
 - [Internal Developer Platform](internal-developer-platform.md): una IDP es un conjunto de capacidades.
 - [Plataforma API-first](plataforma-api-first.md): cada capacidad se ofrece por una API.
-- [Observabilidad](../Operacion-de-la-plataforma/observabilidad.md): Effective Platform Engineering propone ofrecerla como una capacidad de la plataforma.
+- [Observabilidad](../../DevOps/Operacion/observabilidad.md): Effective Platform Engineering propone ofrecerla como una capacidad de la plataforma.

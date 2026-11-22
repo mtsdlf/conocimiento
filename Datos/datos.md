@@ -19,8 +19,8 @@ se lee el resultado.
 Es para quien está aprendiendo Data Analytics. La idea que ordena el tema: un promedio de toda la
 base mezcla usuarios nuevos con veteranos y esconde los cambios, así que se sigue a grupos fijos
 que empezaron en el mismo período y se los compara a la misma edad. El análisis es descriptivo:
-muestra diferencias entre grupos, no prueba causas. El valor de vida del cliente (LTV) todavía no
-tiene nota.
+muestra diferencias entre grupos, no prueba causas. El valor de vida del cliente (LTV) se
+calcula con la [economía unitaria](../Marketing/Medicion/economia-unitaria.md) del tema Marketing.
 
 ## De qué está hecho un análisis de cohortes
 

@@ -23,7 +23,7 @@ cuentas consistentes.
 ## Una factura que nadie siente propia
 
 Sin asignación, la factura de la nube es un solo número y nadie se siente dueño de él. Con
-showback cada equipo ve su parte, que es la condición para el principio de [FinOps](que-es-finops.md) "cada uno se
+showback cada equipo ve su parte, que es la condición para el principio de [FinOps](finops.md) "cada uno se
 hace dueño de su uso".
 
 ## Cómo se asigna el gasto en Azure

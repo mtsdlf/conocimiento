@@ -22,6 +22,9 @@ SOPS cifra los valores de archivos YAML, JSON, ENV o INI con claves age, PGP o K
 los nombres de los campos, para guardar secretos en Git y que la herramienta de GitOps los
 descifre al aplicar.
 
+Es una de las dos formas de cifrar secretos en Git que describe la
+[gestión de secretos](gestion-de-secretos.md); la otra es Sealed Secrets.
+
 ## Secretos versionados junto a los manifiestos
 
 En GitOps el estado del clúster vive en Git, pero un secreto en texto plano en Git queda expuesto
@@ -64,8 +67,8 @@ Secrets decodificados.
 
 SOPS no es Sealed Secrets, que cifra con una clave que vive en el clúster y solo ese clúster descifra. SOPS
 usa claves externas (age, KMS), y el mismo archivo se puede descifrar en otra máquina con la clave. La alternativa de dejar el
-secreto en un gestor y leerlo al aplicar está en [Secretos en Terraform](secretos-en-terraform.md).
+secreto en un gestor y leerlo al aplicar está en [Secretos en Terraform](../../Infraestructura/Aprovisionamiento/secretos-en-terraform.md).
 
 ## Ver también
 
-- [GitOps](../../DevOps/Despliegue/gitops.md) (DevOps) — SOPS es lo que permite guardar secretos en el repo de GitOps.
+- [GitOps](../Despliegue/gitops.md) (DevOps) — SOPS es lo que permite guardar secretos en el repo de GitOps.

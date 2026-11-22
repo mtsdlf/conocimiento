@@ -42,7 +42,7 @@ la última versión y de que nadie más esté corriendo Terraform a la vez.
 - **Secretos en el estado**: el estado es un archivo en texto plano que incluye los valores de
   los recursos y data sources, también los secretos, aunque estén marcados `sensitive`. Por eso no va en Git, y el
   backend necesita cifrado en reposo, control de acceso y auditoría. Lo que llega al estado define
-  cómo se manejan los [Secretos en Terraform](../Secretos/secretos-en-terraform.md).
+  cómo se manejan los [Secretos en Terraform](secretos-en-terraform.md).
 - **Compartir salidas**: otra configuración puede leer los outputs de este estado con el data
   source `terraform_remote_state`.
 

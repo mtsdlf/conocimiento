@@ -20,6 +20,9 @@ La infraestructura como código es describir servidores, redes y servicios en ar
 versionados que una herramienta aplica de forma repetible e idempotente, en vez de
 configurarlos a mano.
 
+Es el concepto que ordena el [aprovisionamiento](aprovisionamiento.md) y, en general, toda la
+[infraestructura](../infraestructura.md): las demás notas de la vertical lo concretan con Terraform.
+
 ## Por qué no configurar a mano
 
 Un servidor configurado a mano no se puede reproducir, nadie sabe qué tiene y cada entorno
@@ -43,11 +46,13 @@ Tres propiedades que conviene distinguir:
 Las herramientas se agrupan por categoría: aprovisionamiento (Terraform, Pulumi), configuración
 (Ansible, Puppet, Chef), imágenes (Dockerfile) y orquestación (manifiestos de Kubernetes, Helm).
 
-En el [Pipeline de CI/CD](../Integracion-y-entrega/pipeline-de-ci-cd.md), un PR corre el formato y el plan (qué cambiaría) como verificación;
-el merge a la rama principal aplica el cambio con una cuenta de servicio del pipeline, no la de una persona. Los entornos
-se modelan como carpetas con diferencias chicas entre sí (overlays). Una tarea periódica compara
-la infraestructura real con el código y avisa el **drift**; si además lo corrige sola, es
-[GitOps](gitops.md).
+Los cambios pasan por el [pipeline de CI/CD](../../DevOps/Integracion-y-entrega/pipeline-de-ci-cd.md):
+el PR muestra qué cambiaría y el merge lo aplica con una cuenta de servicio, no la de una persona.
+Los pasos con Terraform están en [Armar un pipeline de Terraform](pipeline-de-terraform.md), y cómo
+se separan los entornos, en [Organizar entornos en Terraform](organizar-entornos-en-terraform.md).
+Una tarea periódica compara la infraestructura real con el código y avisa el **drift**. Si un agente
+dentro del entorno trae el estado de Git y corrige el drift de forma continua, es
+[GitOps](../../DevOps/Despliegue/gitops.md).
 
 ## Un entorno de QA copiado de staging
 

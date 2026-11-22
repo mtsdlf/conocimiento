@@ -16,17 +16,18 @@ Operación es la parte de Cloud que mantiene un servicio a la vista y en pie: lo
 métricas, logs y trazas, y lo protege de la caída de un datacenter o de una región según el RTO y
 el RPO.
 
-Dentro de [Cloud](../cloud.md), la operación mira lo que corre en el [cómputo](../Computo/computo.md)
+El concepto de [observabilidad](../../DevOps/Operacion/observabilidad.md) vive en DevOps; acá está
+cómo se aplica en Azure. Dentro de [Cloud](../cloud.md), la operación mira lo que corre en el [cómputo](../Computo/computo.md)
 y replica los [datos operacionales](../Datos-operacionales/datos-operacionales.md). Las dos mitades
 cuestan: los logs pueden superar a la factura de cómputo y duplicar en otra región puede duplicar
 la factura, así que las dos se deciden con [FinOps](../FinOps/finops.md) a la vista.
 
 ## Observar sin pagar de más
 
-Sin configurarlo, Azure guarda pocas métricas de plataforma y casi ningún log, y lo que no se envía
-a un workspace no se puede consultar después de un incidente. Al revés, enviar todo sin pensar
-encarece la factura. El equilibrio sale del plan de cada tabla, la retención, el sampling y lo que
-se filtra antes de ingerir.
+Observar en Azure tiene dos fallas opuestas. La primera es no enviar nada a un workspace: después
+de un incidente, lo que no se envió no se puede consultar. La segunda es enviar todo, que encarece
+la factura. [Azure Monitor](azure-monitor.md) explica qué guarda Azure por defecto y cómo se
+equilibra con el plan de cada tabla, la retención, el sampling y lo que se filtra antes de ingerir.
 
 ## Resistir una caída
 

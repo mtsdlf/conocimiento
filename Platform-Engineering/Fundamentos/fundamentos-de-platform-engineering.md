@@ -14,7 +14,7 @@ revisado:
 Fundamentos reúne lo que cruza todo el platform engineering y no es una parte de él: por ahora,
 el recorrido para aprenderlo en orden.
 
-Las cinco partes del tema están en la entrada de [Platform Engineering](../platform-engineering.md).
+Las cuatro partes del tema están en la entrada de [Platform Engineering](../platform-engineering.md).
 El tema no tiene todavía glosario, historia ni bibliografía propios; las fuentes de cada concepto
 están en su nota.
 

@@ -56,5 +56,5 @@ baja y los errores siguen avisando al instante.
 
 ## Azure Monitor y observabilidad
 
-La [Observabilidad](../../Platform-Engineering/Operacion-de-la-plataforma/observabilidad.md) como propiedad de un sistema: Azure Monitor es la herramienta que recoge
+La [Observabilidad](../../DevOps/Operacion/observabilidad.md) como propiedad de un sistema: Azure Monitor es la herramienta que recoge
 los datos; que el sistema sea observable depende de qué emite la aplicación.

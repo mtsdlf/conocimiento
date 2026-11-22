@@ -32,10 +32,10 @@ misma cohorte de adquisición para no mezclar épocas.
 ## Por qué se compara a la misma edad
 
 Comparar las cohortes en el mismo período desde su entrada (todas en su semana 4, por ejemplo) deja
-una sola diferencia entre ellas: la época en que llegaron. Así se separa el efecto de la antigüedad
-del efecto del calendario, y se evita el efecto de mezcla de los promedios, un caso de la paradoja
-de Simpson. Lo que se ve son diferencias, no causas: que los que hicieron una acción retengan más
-es una correlación hasta que un experimento lo pruebe.
+una sola diferencia entre ellas: la época en que llegaron. El
+[análisis de cohortes](analisis-de-cohortes.md) explica por qué eso evita el efecto de mezcla de
+los promedios, con los pasos y un ejemplo. Lo que se ve son diferencias, no causas: que los que
+hicieron una acción retengan más es una correlación hasta que un experimento lo pruebe.
 
 ## Las cuatro notas de cohortes
 

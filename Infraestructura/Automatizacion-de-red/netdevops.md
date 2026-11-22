@@ -62,7 +62,7 @@ verificación después.
 
 ## Ver también
 
-- [Observabilidad](../../Platform-Engineering/Operacion-de-la-plataforma/observabilidad.md) — la telemetría de red se trata como cualquier otra señal de
+- [Observabilidad](../../DevOps/Operacion/observabilidad.md) — la telemetría de red se trata como cualquier otra señal de
   observabilidad.
 - [GitOps](../../DevOps/Despliegue/gitops.md) (DevOps) — la misma idea de Git como fuente de verdad,
   aplicada a la red.

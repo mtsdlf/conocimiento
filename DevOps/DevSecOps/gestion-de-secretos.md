@@ -11,10 +11,11 @@ fuentes:
   - "Sealed Secrets: https://github.com/bitnami-labs/sealed-secrets"
   - "External Secrets Operator: https://external-secrets.io/latest/"
   - "Gitleaks: https://github.com/gitleaks/gitleaks"
+  - "Microsoft Learn, Use GitHub Actions to connect to Azure (OpenID Connect): https://learn.microsoft.com/en-us/azure/developer/github/connect-from-azure-openid-connect"
   - "Archivo/DevOps/devsecops-pipeline-avanzado.md (original, texto generado con IA)"
   - "Archivo/DevOps/git/git-automation-integration.md (original, texto generado con IA)"
   - "Archivo/DevOps/git/git-advanced-collaboration.md (original, texto generado con IA)"
-aliases: [Secrets management, Manejo de secretos, Credenciales]
+aliases: [Secrets management, Manejo de secretos, Credenciales, federación de identidad, OIDC]
 creado: 2026-10-03
 revisado:
 ---
@@ -39,11 +40,17 @@ credenciales entre los diez riesgos principales del CI/CD.
   Secrets Operator los copia del gestor a un Secret del clúster.
 - **Vida corta y mínimo privilegio**: cada automatización usa su propia identidad, con permisos
   mínimos y credenciales que expiran o rotan solas. Una deploy key (una clave SSH que da acceso a un solo
-  repositorio) de solo lectura es mejor que un token personal con acceso a todo.
-- **Cifrado en Git para GitOps**: [GitOps](../Despliegue/gitops.md) necesita declarar todo en Git, secretos incluidos.
-  **SOPS** cifra los valores de un YAML o JSON y deja las claves legibles, con claves de age o PGP
-  (herramientas de cifrado de archivos) o con un KMS de nube (el servicio que guarda y usa
-  claves de cifrado, como AWS KMS). **Sealed Secrets** cifra un Secret con la clave pública de un controlador, y solo ese
+  repositorio) de solo lectura es mejor que un token personal con acceso a todo. Para que un
+  pipeline entre a la nube, la **federación de identidad por OIDC** reemplaza a la credencial
+  guardada: el sistema de CI emite un token firmado de vida corta para esa ejecución, y el
+  proveedor de nube lo cambia por un acceso temporal si coincide con la credencial federada que se
+  configuró. No queda ningún secreto guardado que filtrar. Cómo se usa en
+  [GitHub Actions](../Integracion-y-entrega/GitHub-Actions/secret-de-github-actions.md), en
+  [Terraform](../../Infraestructura/Aprovisionamiento/secretos-en-terraform.md) y en
+  [Azure](../../Cloud/Gobernanza-e-identidad/identidad-y-acceso-en-azure.md) está en cada nota.
+- **Cifrado en Git para GitOps**: [GitOps](../Despliegue/gitops.md) necesita declarar todo en Git,
+  secretos incluidos. [SOPS](sops.md) cifra los valores de un archivo y deja las claves legibles;
+  **Sealed Secrets** cifra un Secret con la clave pública de un controlador, y solo ese
   controlador, dentro del clúster destino, puede descifrarlo.
 - **Detección**: un hook de pre-commit con Gitleaks frena el secreto antes del commit, y el
   mismo escaneo corre en CI por si alguien saltó el hook.
