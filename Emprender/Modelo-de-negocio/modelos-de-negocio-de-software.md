@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Una empresa de software puede vender la herramienta (software solo), vender el trabajo hecho con la herramienta (software con servicio) o conectar a dos grupos que hacen negocios entre sí (plataforma de dos lados). Cambia cómo cobra, cómo crece y cuánto deja cada peso: el software y el marketplace puro rondan márgenes brutos de 70 % a 80 %, el servicio queda por debajo de la mitad, y en bolsa el software vale casi ocho veces más por peso vendido que el servicio.
+  Una empresa de software puede vender la herramienta (software solo), vender el trabajo hecho con la herramienta (software con servicio) o conectar a dos grupos que hacen negocios entre sí (plataforma de dos lados). Cambia cómo cobra, cómo crece y cuánto deja cada peso: el software y el marketplace puro rondan márgenes brutos de 68 % a 83 %, el servicio queda por debajo de la mitad, y en bolsa el software vale casi ocho veces más por peso vendido que el servicio.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -8,6 +8,7 @@ fuentes:
   - "Fernando Suarez, Michael Cusumano y Steven Kahl (2013), Services and the business models of product firms: an empirical analysis of the software industry, Management Science 59(2):420-435 (según su abstract): https://econpapers.repec.org/RePEc:inm:ormnsc:v:59:y:2013:i:2:p:420-435"
   - "Michael Cusumano (2008), The changing software business: moving from products to services, Computer 41(1):20-27 (según resúmenes), DOI 10.1109/MC.2008.29"
   - "Aswath Damodaran, márgenes y múltiplos por industria (2026-01-05): https://pages.stern.nyu.edu/~adamodar/pc/datasets/margin.xls"
+  - "Foundation Capital, AI leads a service as software paradigm shift (2024): https://foundationcapital.com/ai-service-as-software/"
   - "Angela Strange, Every company will be a fintech company, a16z (21 de enero de 2020), según resumen: https://a16z.com/every-company-will-be-a-fintech-company/"
   - "David Teece (2010), Business Models, Business Strategy and Innovation, Long Range Planning 43(2-3):172-194"
   - "Emprender/.investigacion/modelos-plataforma-y-tipologia.md"
@@ -20,7 +21,7 @@ revisado:
 
 # Modelos de negocio de software
 
-Una empresa de software puede vender la herramienta (software solo), vender el trabajo hecho con la herramienta (software con servicio) o conectar a dos grupos que hacen negocios entre sí (plataforma de dos lados). Cambia cómo cobra, cómo crece y cuánto deja cada peso: el software y el marketplace puro rondan márgenes brutos de 70 % a 80 %, el servicio queda por debajo de la mitad, y en bolsa el software vale casi ocho veces más por peso vendido que el servicio.
+Una empresa de software puede vender la herramienta (software solo), vender el trabajo hecho con la herramienta (software con servicio) o conectar a dos grupos que hacen negocios entre sí (plataforma de dos lados). Cambia cómo cobra, cómo crece y cuánto deja cada peso: el software y el marketplace puro rondan márgenes brutos de 68 % a 83 %, el servicio queda por debajo de la mitad, y en bolsa el software vale casi ocho veces más por peso vendido que el servicio.
 
 Es una de las decisiones del [modelo de negocio](modelo-de-negocio.md): la misma oportunidad se puede explotar de las tres formas, y por eso el modelo entra como criterio al comparar [oportunidades](../Validacion/Oportunidades/oportunidades.md). Cada forma tiene su nota: [SaaS](saas.md), [servicios habilitados por tecnología](servicios-habilitados-por-tecnologia.md) y [marketplace](marketplace.md). Las cifras están en [márgenes por modelo de negocio](margenes-por-modelo-de-negocio.md).
 

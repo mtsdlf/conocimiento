@@ -80,3 +80,5 @@ Gans, Scott y Stern (2018) dan la regla que une el recorrido con la validación:
 - [Matriz de oportunidades](matriz-de-oportunidades.md): cómo se arma la comparación (puntajes, pesos, fallas fatales y los sesgos que la arruinan, con su evidencia).
 - [Encaje fundador-mercado](encaje-fundador-mercado.md): cuánto pesa que quienes fundan conozcan el mercado, y lo que dice la evidencia en contra.
 - [Effectuation](effectuation.md): la lógica de Sarasvathy, que empieza con los medios propios y elige por pérdida asumible.
+
+Los términos del recorrido (falla fatal, pesos ROC, visión desde afuera) están en el [glosario de emprender](../../Fundamentos/glosario-de-emprender.md).

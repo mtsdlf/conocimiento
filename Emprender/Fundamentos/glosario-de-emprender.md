@@ -59,6 +59,9 @@ Las notas lo dicen en prosa: "según su abstract" equivale a [M] y "según un re
 | Servicio habilitado por tecnología | Empresa que vende el trabajo hecho usando su propio software, en lugar de vender la herramienta. | [Servicios habilitados por tecnología](../Modelo-de-negocio/servicios-habilitados-por-tecnologia.md) |
 | Marketplace | Plataforma de dos lados que conecta a quienes venden y compran y cobra una comisión sobre lo transado. | [Marketplace](../Modelo-de-negocio/marketplace.md) |
 | Desintermediación | Que dos usuarios que se conocieron en una plataforma sigan haciendo negocios por fuera de ella. | [Marketplace](../Modelo-de-negocio/marketplace.md) |
+| Pesos ROC | Centroide del orden de rango: pesos que salen solo de ordenar los criterios por importancia (Barron y Barrett). | [Matriz de oportunidades](../Validacion/Oportunidades/matriz-de-oportunidades.md) |
+| Visión desde afuera | Pronosticar mirando cómo les fue a casos parecidos, en lugar del plan propio (Kahneman y Lovallo). | [Matriz de oportunidades](../Validacion/Oportunidades/matriz-de-oportunidades.md) |
+| Take rate | Comisión: la parte del volumen transado que se queda una plataforma. | [Marketplace](../Modelo-de-negocio/marketplace.md) |
 | Enfoque científico | Decidir con una teoría explícita del negocio y pruebas que puedan refutarla. | [Escuelas de emprender](escuelas-de-emprender.md) |
 | Design thinking | Método que parte de la empatía con el usuario y del prototipado. | [Escuelas de emprender](escuelas-de-emprender.md) |
 | Blitzscaling | Priorizar la velocidad sobre la eficiencia cuando hay incertidumbre (Hoffman y Yeh). | [Escuelas de emprender](escuelas-de-emprender.md) |
