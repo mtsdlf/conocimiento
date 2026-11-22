@@ -40,7 +40,7 @@ En hardware la práctica sigue, con fuentes comerciales. Según un resumen de su
 
 ## Cómo se desarma un producto de software
 
-No hay una fuente primaria con método para el desarme de software. Un blog de producto (LogRocket) lo describe como la disección sistemática de un producto para analizar sus funcionalidades, sus decisiones de diseño, su experiencia de uso y su estrategia, según un resumen. El método más sólido que se leyó es la evaluación competitiva de usabilidad de Nielsen Norman Group.
+No hay una fuente primaria con método para el desarme de software. Un blog de producto (LogRocket) lo describe como la disección sistemática de un producto para analizar sus funcionalidades, sus decisiones de diseño, su experiencia de uso y su estrategia, según un resumen. El método más sólido que se leyó es la evaluación competitiva de usabilidad de Nielsen Norman Group. Para ver el producto por dentro hace falta una cuenta de prueba propia; cómo se abre y qué no se hace con ella está en [cuenta de prueba y automatización](cuenta-de-prueba-y-automatizacion.md#cuándo-hace-falta-una-cuenta-de-prueba).
 
 NN/g distingue dos formas. En la revisión competitiva, un experto examina productos parecidos. En el test competitivo, usuarios hacen tareas clave en el producto propio y en los ajenos, "typically" 2 o 3 sitios por participante. La guía recomienda concentrarse en 2 a 4 competidores y alternar el orden entre participantes, porque el que se prueba segundo se beneficia de lo aprendido en el primero. Avisa que es caro. El método completo, con métricas y tamaño de muestra, está en [evaluación competitiva](../../UX/Evaluacion/evaluacion-competitiva.md), del tema UX.
 
