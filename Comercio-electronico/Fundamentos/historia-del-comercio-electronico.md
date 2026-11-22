@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El comercio electrónico empezó como intercambio electrónico de datos entre empresas, pasó a la web a mediados de los noventa, se volvió un servicio de alquiler con las plataformas de tiendas desde 2006 y hoy suma pedidos dentro de redes y mensajería. Casi todas las fechas vienen de Wikipedia y no se verificaron en fuentes primarias.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Electronic data interchange: https://en.wikipedia.org/wiki/Electronic_data_interchange (solo la página, sin abrir sus fuentes)"
@@ -19,7 +19,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, sección A3; Comercio-electronico/.investigacion/plataforma-de-tiendas.md, secciones 1, 3 y 7; Comercio-electronico/.investigacion/pagos.md, sección 4; Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md, sección 1"
 aliases: [history of e-commerce, historia del e-commerce, historia de la venta online]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Historia del comercio electrónico

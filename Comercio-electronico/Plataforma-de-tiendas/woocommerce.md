@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos públicos de WooCommerce, una plataforma de tiendas de código abierto que se instala sobre WordPress: su origen, su licencia, sus instalaciones y su presencia en Argentina, consultados el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "WooCommerce, About: https://woocommerce.com/about/ (leído vía herramienta de resumen, 2026-11-22)"
@@ -12,7 +12,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-plataformas.md (sección 3)"
 aliases: [Woo, WooThemes]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # WooCommerce

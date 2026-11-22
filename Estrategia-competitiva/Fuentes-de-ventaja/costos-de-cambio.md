@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un costo de cambio es lo que un cliente pierde o tiene que volver a invertir si deja a su proveedor por otro. Cuando es alto, el cliente queda encerrado (lock-in): eso protege al proveedor actual y hace que los rivales compitan con precios bajos por el cliente nuevo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Farrell y Klemperer (2007), Coordination and Lock-In: Competition with Switching Costs and Network Effects, en Handbook of Industrial Organization, vol. 3; borrador de 2004: https://eml.berkeley.edu/~farrell/ftp/lockin2.pdf (leído en parte, secciones 1-2)"
@@ -14,7 +14,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/vistazo-teoria.md (secciones 2 y 3)"
 aliases: [switching costs, switching cost, costo de cambio, lock-in, encierro, cautividad del cliente, bargain-then-ripoff]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Costos de cambio

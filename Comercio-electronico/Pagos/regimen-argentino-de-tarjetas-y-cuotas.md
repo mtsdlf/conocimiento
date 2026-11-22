@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El estado de las normas argentinas que fijaban topes a lo que se cobra a un comercio por aceptar tarjetas y de los programas oficiales de cuotas (Ahora 12 y Cuota Simple), con lo que está verificado y lo que no, a noviembre de 2026.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 25.065 de Tarjetas de Crédito, texto original de 1998, argentina.gob.ar: https://www.argentina.gob.ar/normativa/nacional/ley-25065-1998-55556/texto (leído vía herramienta de resumen)"
@@ -21,7 +21,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (B6)"
 aliases: [tope de aranceles, Ley de Tarjetas de Crédito, Ahora 12, Cuota Simple, DNU 70/2023]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Régimen argentino de tarjetas y cuotas

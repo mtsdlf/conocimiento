@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Leer los reportes públicos de un rival es sacar de lo que presenta ante sus inversores y reguladores cómo gana plata, qué riesgos admite y hacia dónde va. Funciona bien con empresas que cotizan en bolsa y mucho peor con las que no, donde casi todo es estimación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "SEC Office of Investor Education and Advocacy, Investor Bulletin: How to Read a 10-K: https://www.sec.gov/files/reada10k.pdf (leído; sin fecha)"
@@ -15,7 +15,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/analisis-de-competidores-1.md"
 aliases: [10-K, 20-F, annual report, reporte anual, informes a inversores, investor relations, MD&A, earnings call, llamada de resultados]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Lectura de reportes públicos

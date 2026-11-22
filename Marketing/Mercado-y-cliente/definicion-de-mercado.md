@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Definir el mercado es decidir qué productos compiten por el mismo cliente antes de dividirlo en segmentos. Conviene hacerlo por la necesidad del cliente y no por el producto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Theodore Levitt (1960), Marketing Myopia, HBR; descripción de la reimpresión de 2004: https://store.hbr.org/product/marketing-myopia/R0407L (según resumen)"
   - "Marketing/.investigacion/segmentacion-y-mapas.md"
 aliases: [market definition, definir el mercado, miopía de marketing, marketing myopia, mercado relevante]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Definición de mercado

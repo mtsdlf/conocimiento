@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de ventas son frases que circulan como reglas (siempre cerrá, las objeciones se rebaten, SPIN está probado, el Challenger le gana al que construye relaciones, BANT y MEDDIC suben el cierre, los compradores ya no quieren vendedores, el señuelo empuja al plan del medio) sin estudio detrás o contra lo que miden los estudios. Cada uno, con su origen, la evidencia y la nota donde se trata.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Baylor, Keller Center, Rethinking the close (2026), resumen de un artículo de 2024 en JPSSM: https://kellercenter.hankamer.baylor.edu/news/story/2026/rethinking-close-building-trust-not-pressure (según resumen; el artículo no se abrió)"
@@ -20,7 +20,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md, sección B; Ventas/.investigacion/descubrimiento-y-calificacion.md; Ventas/.investigacion/la-propuesta.md; Ventas/.investigacion/objeciones-formas-y-medicion.md"
 aliases: [mitos de ventas, sales myths, always be closing, ABC, los compradores no quieren vendedores, rep-free buying, el 57% del proceso de compra]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mitos de ventas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cuántas tiendas online usa cada plataforma en Argentina según StoreLeads al 13-nov-2026, y las fuentes que dan otras cifras, cada una con lo que mide; ninguna es una cuota de ventas.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "StoreLeads, informes por plataforma y país (Argentina): https://storeleads.app/reports/ (leído; páginas actualizadas 2026-11-13; rastreador comercial, estimación)"
@@ -12,7 +12,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/plataforma-de-tiendas.md (sección 5)"
 aliases: [cuota de mercado de plataformas en Argentina, market share de plataformas de e-commerce]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Presencia en Argentina

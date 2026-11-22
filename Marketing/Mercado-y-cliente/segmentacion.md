@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Segmentar es dividir un mercado en grupos de compradores que buscan cosas distintas o responden distinto al marketing. Antes hay que definir el mercado, y conviene hacerlo por la necesidad del cliente y no por el producto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Theodore Levitt (1960), Marketing Myopia, HBR; descripción de la reimpresión de 2004: https://store.hbr.org/product/marketing-myopia/R0407L (según resumen)"
@@ -21,7 +21,7 @@ fuentes:
   - "Marketing/.investigacion/segmentacion-y-mapas.md"
 aliases: [segmentation, market segmentation, segmentación de mercado, segmentación por beneficio, benefit segmentation, firmografía, firmographics, segmentación de marca, brand segmentation, STP]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Segmentación

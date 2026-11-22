@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos públicos de Wix eCommerce, la tienda dentro del constructor de sitios Wix: sus planes con sus límites y su presencia en Argentina, consultados el 2026-11-22; los precios quedan como hueco porque la página no los mostró.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Wix, Online Store: https://www.wix.com/ecommerce/online-store (leído vía herramienta de resumen, 2026-11-22)"
@@ -11,7 +11,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-plataformas.md (sección 2)"
 aliases: [Wix eCommerce, Wix Stores]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Wix

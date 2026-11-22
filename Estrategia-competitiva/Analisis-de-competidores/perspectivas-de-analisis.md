@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las perspectivas de análisis son las miradas desde donde se estudia a un rival: estratégica, de mercado, de cliente, de producto, de UX, de precio, de canales, tecnológica, financiera y organizacional. Cada una contesta una pregunta distinta con su propia técnica, y ninguna contesta todo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Craig Fleisher y Babette Bensoussan, Business and Competitive Analysis, 2.ª ed., Pearson/FT Press (2015), índice: https://www.informit.com/store/business-and-competitive-analysis-effective-application-9780133086409 (solo el índice)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmación 4)"
 aliases: [perspectives of competitor analysis, miradas de análisis, técnicas de análisis competitivo, FAROUT]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Perspectivas de análisis

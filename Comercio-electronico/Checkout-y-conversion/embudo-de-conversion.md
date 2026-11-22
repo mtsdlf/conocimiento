@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El embudo de conversión es la secuencia de etapas entre ver un producto y comprarlo, medida como la proporción de compradores que pasa de cada etapa a la siguiente. Las etapas son eventos que la tienda decide registrar y las tasas dependen de qué se pone en el denominador, así que dos tiendas pueden llamar igual a cifras distintas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Google, Measure ecommerce (GA4, guía para desarrolladores): https://developers.google.com/analytics/devguides/collection/ga4/ecommerce (leído)"
@@ -13,7 +13,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (B3)"
 aliases: [conversion funnel, embudo de compra, purchase funnel, tasa de conversión, conversion rate, checkout completion, tasa de finalización del checkout]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Embudo de conversión

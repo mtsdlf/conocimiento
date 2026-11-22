@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Calificar es decidir si un prospecto vale el esfuerzo de una propuesta: si tiene un problema que uno resuelve, quién decide, con qué dinero y para cuándo. BANT, MEDDIC y CHAMP son listas de verificación para ordenar esa decisión, sin evidencia independiente de que mejoren el cierre.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "MEDDICC, Who created MEDDIC: https://meddicc.com/resources/who-created-meddic (leída completa; sitio de una consultora que vende el método)"
@@ -16,7 +16,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md (B3)"
 aliases: [qualification, lead qualification, calificación de prospectos, calificar, BANT, MEDDIC, MEDDICC, MEDDPICC, CHAMP, lead scoring, puntaje de leads, descalificar]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Calificación

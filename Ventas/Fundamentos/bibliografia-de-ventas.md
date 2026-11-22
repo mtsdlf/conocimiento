@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de ventas ordenadas por necesidad (la visión académica, descubrir y calificar, proponer y poner precio, negociar, vender servicios profesionales, vender a pymes): la obra, qué parte leer y en qué fijarse, de qué tipo es y cuánto se leyó para armar la base. Ningún libro se leyó entero y no se confirmó ninguna traducción al castellano.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md, secciones A4 y C"
@@ -11,7 +11,7 @@ fuentes:
   - "Shortform, resumen en castellano de SPIN Selling: https://www.shortform.com/es/summary/spin-selling-summary-neil-rackham (según resumen)"
 aliases: [bibliografía de ventas, lecturas de ventas, libros de ventas, sales reading list, qué leer de ventas]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Bibliografía de ventas

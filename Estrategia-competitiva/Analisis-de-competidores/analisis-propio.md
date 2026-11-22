@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis propio es mirar a la empresa propia con la misma vara que a un rival: qué quiere, qué supone, cómo compite y qué puede hacer. Sus fortalezas y debilidades son relativas, porque solo cuentan frente a un rival concreto y a lo que el cliente valora, y se sostienen con evidencia y no con la opinión del equipo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Michael E. Porter, Competitive Strategy, Free Press (1980), cap. 3, p. 49 (leído para el informe analisis-de-competidores-1); resumen del cap. 3 de Martin: https://maaw.info/ArticleSummaries/ArtSumPorter1980Chp3.htm (según resumen del buscador)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/analisis-de-competidores-1.md"
 aliases: [self-analysis, autoanálisis, análisis interno, fortalezas y debilidades relativas, relative strengths and weaknesses, resource appraisal, matriz de importancia y fuerza relativa, benchmarking]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Análisis propio

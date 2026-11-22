@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Vender en varios canales es ofrecer lo mismo a la vez en una tienda propia, en marketplaces, en redes o mensajería y en un local físico. Pide decidir en qué canales estar según la etapa del negocio y cuánto integrarlos: multicanal es estar en varios con gestión separada, y omnicanal es integrarlos para que el comprador pase de uno a otro.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Peter C. Verhoef, P. K. Kannan y J. Jeffrey Inman (2015), From Multi-Channel Retailing to Omni-Channel Retailing, Journal of Retailing 91(2):174-181, DOI 10.1016/j.jretai.2015.02.005: https://doi.org/10.1016/j.jretai.2015.02.005 (solo metadatos; no se leyó el abstract ni el texto)"
@@ -20,7 +20,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md"
 aliases: [multicanal, omnicanal, omnichannel, multichannel, omnicanalidad, venta multicanal, marketplace o tienda propia, canales de venta, POS, punto de venta]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Venta en varios canales

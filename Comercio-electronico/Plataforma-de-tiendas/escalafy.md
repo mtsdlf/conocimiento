@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos públicos de Escalafy, una app de analítica de rentabilidad que se conecta a plataformas de tiendas y a un marketplace: qué hace, dónde se instala, cómo cobra y sus cifras, con las discrepancias entre sus propias páginas, consultados el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Escalafy, sitio en inglés: https://www.escalafy.com/en (leído vía herramienta de resumen, 2026-11-22; fuente de la empresa, con interés comercial)"
@@ -14,7 +14,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/plataforma-de-tiendas.md (sección 6)"
 aliases: [Escalafy Analytics, Escalafy Pixel]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Escalafy

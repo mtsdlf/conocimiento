@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos públicos de Shopify, una plataforma de tiendas alojada: sus planes en dólares, sus cifras del 10-K de 2025, su API y su presencia en Argentina, consultados el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Shopify, 10-K FY2025 (cierre 31-dic-2025): https://www.sec.gov/Archives/edgar/data/1594805/000159480526000007/shop-20251231.htm (leído por tramos; sin leer parte del Item 1 y el último tramo)"
@@ -16,7 +16,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (A3)"
 aliases: [Shopify Plus, Shopify Payments]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Shopify

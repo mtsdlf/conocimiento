@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Qué registros públicos argentinos dan datos de una empresa competidora, qué da cada uno y su límite, consultado el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Boletín Oficial, sección segunda: https://www.boletinoficial.gob.ar/seccion/segunda (leído completo)"
@@ -15,7 +15,7 @@ fuentes:
   - "Estrategia-competitiva/Analisis-de-competidores/fuentes-publicas.md (la sección que enlaza esta ficha)"
 aliases: [registros públicos, Boletín Oficial, IGJ, CNV, INPI, ARCA, Central de Deudores, COMPR.AR, CUIT]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Registros públicos argentinos

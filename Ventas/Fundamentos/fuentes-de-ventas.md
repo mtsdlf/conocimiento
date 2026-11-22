@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En ventas, las revistas académicas con revisión por pares (meta-análisis sobre vendedores, experimentos de negociación y de decisión) pesan más que todo lo demás, pero casi nunca estudian un método con nombre. Los métodos más usados y las cifras que más circulan vienen de proveedores que venden capacitación, software o asesoría, y se citan siempre con su nombre, su año y su muestra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Churchill, Ford, Hartley y Walker (1985), JMR 22(2): https://www.econbiz.de/Record/the-determinants-of-salesperson-performance-a-meta-analysis/10002006418 (abstract)"
@@ -15,7 +15,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md, secciones A1 y A5; Ventas/.investigacion/descubrimiento-y-calificacion.md; Ventas/.investigacion/la-propuesta.md; Ventas/.investigacion/objeciones-formas-y-medicion.md"
 aliases: [fuentes de ventas, peso de las fuentes en ventas, evidencia en ventas, quién vende qué en ventas, sales research sources]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fuentes de ventas

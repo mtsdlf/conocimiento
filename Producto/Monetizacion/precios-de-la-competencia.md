@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los precios de la competencia son el punto de partida del precio propio, no la respuesta: en el método de valor económico para el cliente, el precio del rival más cercano se suma al valor de lo que uno hace distinto. Comparar planes sirve para ver por qué unidad cobra cada rival, qué limita y qué regala; copiar su número y entrar en guerras de precios tiene evidencia en contra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Catherine Tucker, MIT 15.818 Pricing (primavera 2010), notas de clase Pricing Economic Value to the Customer: https://ocw.mit.edu/courses/15-818-pricing-spring-2010/resources/mit15_818s10_lec02/ (leído completo)"
@@ -17,7 +17,7 @@ fuentes:
   - "Producto/.investigacion/competencia-y-precios.md"
 aliases: [competitor pricing, competitive pricing, precio de la competencia, comparación de precios, comparación de planes, pricing benchmark, EVC, economic value to the customer, valor económico para el cliente, precio de referencia, reference price, anclaje, anchoring, guerra de precios, price war]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Precios de la competencia

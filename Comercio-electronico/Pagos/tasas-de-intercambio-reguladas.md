@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los topes legales a la tasa de intercambio con tarjeta en la Unión Europea y en el débito de Estados Unidos, y el promedio que se pagó en Estados Unidos en 2024, como referencia de cuánto vale la parte del emisor cuando la regula un Estado.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Reglamento (UE) 2015/751, EUR-Lex: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0751 (leído vía herramienta de resumen)"
@@ -9,7 +9,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/pagos.md (sección 2)"
 aliases: [interchange caps, tope de interchange, Regulation II, IFR]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Tasas de intercambio reguladas

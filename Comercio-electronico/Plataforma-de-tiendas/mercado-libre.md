@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos públicos de Mercado Libre, un marketplace donde los comercios venden dentro del sitio de un tercero: sus cifras del 10-K de 2025, su peso en Argentina y el cierre de su servicio de tiendas propias, Mercado Shops, consultados el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "MercadoLibre Inc., 10-K FY2025 (cierre 31-dic-2025): https://www.sec.gov/Archives/edgar/data/1099590/000109959026000006/meli-20251231.htm (leído por tramos: caracteres 0-100.000 y 200.000-341.712)"
@@ -11,7 +11,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (B2)"
 aliases: [MercadoLibre, MELI, Mercado Shops, Mi Página]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mercado Libre

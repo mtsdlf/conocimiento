@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cinco normas argentinas alcanzan al análisis de competidores: la Ley 24.766 de secretos comerciales, el art. 156 del Código Penal, la Ley 26.388 de delitos informáticos, la Ley 25.326 de datos personales y la Ley 27.442 de defensa de la competencia. Cada una marca un límite distinto a lo que se puede averiguar de un rival y cómo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ley 24.766 de confidencialidad, art. 1, copia no oficial: https://leyes-ar.com/ley_de_confidencialidad/1.htm (leído); art. 12: https://leyes-ar.com/ley_de_confidencialidad/12.htm (leído en fragmentos); copia de WIPO Lex: https://www.wipo.int/wipolex/es/text/124731 (según resumen); texto oficial en https://www.argentina.gob.ar/normativa/nacional/41094/texto (no se pudo abrir)"
@@ -13,7 +13,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/analisis-de-competidores-2.md"
 aliases: [ley argentina de inteligencia competitiva, legalidad del análisis de competidores, Ley 24.766, Ley 25.326, Ley 26.388, Ley 27.442, secreto comercial, trade secret]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Ley argentina y competidores

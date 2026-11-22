@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las cifras públicas de lo que le cuesta a un comercio argentino cobrar con transferencia, con un agregador de pagos y a través de una plataforma de tiendas, con su fecha y sus discrepancias, a noviembre de 2026.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "BCRA, Transferencias 3.0, sin fecha visible: https://www.bcra.gob.ar/sistemas-de-pago/transferencias-3-0/ (leído vía herramienta de resumen, consultado 2026-11-22)"
@@ -14,7 +14,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (B6)"
 aliases: [tasa de descuento en Argentina, comisiones de cobro, MDR Argentina]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Costos de cobro en Argentina

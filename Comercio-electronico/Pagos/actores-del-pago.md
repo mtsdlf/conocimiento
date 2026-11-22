@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En un pago con tarjeta en una tienda online participan el titular y el banco que le emitió la tarjeta, la red de tarjetas, el adquirente que cobra para el comercio y, casi siempre, intermediarios técnicos como la pasarela, el procesador y el agregador. Cada uno cumple una función distinta y cobra por ella.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "BCRA, Comunicación A 6885, 30/1/2020: https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A6885.pdf (leído: puntos 1.1.1 a 1.1.5 y resoluciones; la Sección 3 no se leyó)"
@@ -15,7 +15,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (A7, glosario)"
 aliases: [payment actors, four-party model, modelo de cuatro partes, pasarela de pagos, payment gateway, adquirente, acquirer, procesador, processor, agregador de pagos, payment facilitator, payfac, emisor, issuer, red de tarjetas, card network, card scheme, proveedor de servicios de pago, PSP]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Actores del pago

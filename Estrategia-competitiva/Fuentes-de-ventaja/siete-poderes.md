@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los siete poderes (7 Powers) de Hamilton Helmer son siete condiciones que permiten a una empresa ganar más que sus rivales de forma persistente, cada una con un beneficio y una barrera. Es un marco de un practicante, sin contraste empírico independiente, que se usa como lista de preguntas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hamilton Helmer (2016), 7 Powers: The Foundations of Business Strategy, Deep Strategy (no abierto)"
@@ -13,7 +13,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmación 2)"
 aliases: [7 Powers, seven powers, siete poderes de Helmer, power, moat, foso]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Siete poderes

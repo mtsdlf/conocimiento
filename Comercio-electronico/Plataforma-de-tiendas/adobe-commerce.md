@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos públicos de Adobe Commerce, la plataforma de tiendas de Adobe que antes se llamaba Magento: lo que dice su portal de desarrolladores y su presencia en Argentina, consultados el 2026-11-22; licencia, ediciones y precios quedan como hueco.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Adobe, Commerce developer: https://developer.adobe.com/commerce/ (leído vía herramienta de resumen, 2026-11-22)"
@@ -11,7 +11,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-plataformas.md (sección 3)"
 aliases: [Magento, Magento Open Source, Adobe Commerce Cloud]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Adobe Commerce

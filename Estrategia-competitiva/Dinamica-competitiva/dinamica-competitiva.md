@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La dinámica competitiva estudia cómo se mueven los rivales en el tiempo: quién mueve primero, quién responde, cómo y cuándo, y cuánto dura una ventaja antes de que la erosionen. Convierte el análisis estático de industria y de ventaja en preguntas sobre movimientos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Marvin Lieberman y David Montgomery (2013), Conundra and progress: research on entry order and performance, Long Range Planning 46(4-5): https://escholarship.org/uc/item/1xk469q4 (leído completo)"
@@ -13,7 +13,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/vistazo-teoria.md"
 aliases: [competitive dynamics, dinámica de la competencia, rivalidad dinámica, ventaja transitoria, transient advantage, Red Queen, Reina Roja, mapas de Wardley, Wardley maps]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Dinámica competitiva

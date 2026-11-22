@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La cadena de valor es la descomposición de una empresa en las actividades que hace para entregar su producto, para ver en cuáles se genera su costo y en cuáles su diferencia. En Porter es una herramienta de análisis interno, y sirve para comparar actividad por actividad con un rival.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael E. Porter (1985), Competitive Advantage: Creating and Sustaining Superior Performance, Free Press, caps. 2 y 3 (no abierto)"
@@ -12,7 +12,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/fundamentos.md (bibliografía)"
 aliases: [value chain, cadena de valor de Porter, Porter's value chain, actividades primarias, actividades de apoyo, cadena de valor virtual, virtual value chain]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Cadena de valor

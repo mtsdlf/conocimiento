@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ventaja del primero es el beneficio que puede obtener quien entra antes que nadie a un mercado, por tecnología, por quedarse con recursos escasos o por los costos de cambio de sus clientes. La evidencia dice que existe en algunas condiciones, que se erosiona y que entrar después también puede rendir.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Peter Golder y Gerard Tellis (1993), Pioneer advantage: marketing logic or marketing legend?, Journal of Marketing Research 30(2):158-170: https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%205/Golder%20and%20Tellis.pdf (leído completo)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/fundamentos.md"
 aliases: [first-mover advantage, ventaja del pionero, pioneer advantage, ventaja del primer movimiento, orden de entrada, entry order, entry timing, seguidor, fast follower, second mover, imitación]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Ventaja del primero

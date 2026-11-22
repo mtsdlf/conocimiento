@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un carrito abandonado es el de un comprador que agregó productos y no terminó la compra en esa sesión. La tasa de abandono se calcula como (1 − compras ÷ carritos creados) × 100, y no equivale a ventas perdidas: una parte de esos carritos es gente mirando o que compra después, en otra sesión o en otro canal.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Baymard Institute, Cart Abandonment Rate Statistics, actualizada el 28 de octubre de 2026: https://baymard.com/lists/cart-abandonment-rate (leído)"
@@ -18,7 +18,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (B4)"
 aliases: [cart abandonment, abandono de carrito, tasa de abandono, shopping cart abandonment, carrito abandonado, recuperación de carritos, cart recovery]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Carrito abandonado

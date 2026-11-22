@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La propuesta es el documento o la presentación que se le entrega a un cliente para que decida: qué problema suyo se resuelve, cómo, con qué prueba, a qué precio y qué pasa después. Termina cuando se entrega; lo que viene después, las dudas y el regateo, es negociación.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APMP, Body of Knowledge (Bid & Proposal Writing): https://apmp.org/assets/BoK-BW-M-v2.pdf (según resumen; la v4 dio 404)"
@@ -12,7 +12,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md (B4)"
 aliases: [proposal, propuesta comercial, business proposal, cotización, presupuesto, quote, oferta comercial]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # La propuesta

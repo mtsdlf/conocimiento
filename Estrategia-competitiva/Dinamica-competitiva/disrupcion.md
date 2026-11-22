@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La disrupción, en la teoría de Christensen, es el proceso por el que una empresa más chica y con menos recursos desafía con éxito a incumbentes establecidos, entrando por clientes que ellos desatienden o por gente que no consumía. Es una teoría con muchos seguidores y con críticas serias sobre cuántos casos la cumplen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Clayton Christensen, Michael Raynor y Rory McDonald (2015), What is disruptive innovation?, HBR diciembre 2015: https://hbr.org/2015/12/what-is-disruptive-innovation (leído completo en una copia de terceros: https://lburlamaqui.com.br/wp-content/uploads/2023/04/04-Christensen.What-is-disruptive-innovation-HBR-2015.pdf)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/fundamentos.md"
 aliases: [disruptive innovation, innovación disruptiva, disrupción tecnológica, teoría de la disrupción, disruption theory, innovator's dilemma, dilema del innovador, low-end disruption, new-market disruption]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Disrupción

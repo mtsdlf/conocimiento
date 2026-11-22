@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos públicos de VTEX, una plataforma de comercio alojada que cobra un cargo fijo más un porcentaje del GMV: su origen, sus cifras del 20-F de 2025 y su presencia en Argentina, consultados el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "VTEX, 20-F FY2025 (presentado 2026-02-26): https://www.sec.gov/Archives/edgar/data/1793663/000119312526076504/ck0001793663-20251231.htm (leído por tramos, caracteres 100.000-300.000)"
@@ -11,7 +11,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/plataforma-de-tiendas.md (secciones 3, 5 y 7)"
 aliases: [VTEX Commerce]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # VTEX

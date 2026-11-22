@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estructura de la propuesta es qué lleva y en qué orden: el problema del cliente y la respuesta primero, después cómo se resuelve, la prueba, el precio y los próximos pasos. Es el orden que recomienda el oficio de las propuestas (APMP, Shipley, Sant); ningún estudio con método lo comparó contra otros.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APMP, Body of Knowledge (Bid & Proposal Writing): https://apmp.org/assets/BoK-BW-M-v2.pdf (según resumen; la v4 dio 404)"
@@ -14,7 +14,7 @@ fuentes:
   - "Ventas/.investigacion/la-propuesta.md"
 aliases: [proposal structure, estructura de una propuesta comercial, resumen ejecutivo, executive summary, temas ganadores, win themes, propuesta centrada en el cliente, client-centered proposal]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Estructura de la propuesta

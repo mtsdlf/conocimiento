@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La visión basada en recursos sostiene que la ventaja de una empresa sale de recursos propios que son valiosos, raros y difíciles de imitar o sustituir. Las capacidades dinámicas la extienden a la habilidad de renovar esos recursos cuando el entorno cambia rápido; la teoría tiene una crítica de tautología abierta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wernerfelt (1984), A Resource-Based View of the Firm, SMJ 5(2):171-180, DOI 10.1002/smj.4250050207: https://econpapers.repec.org/RePEc:bla:stratm:v:5:y:1984:i:2:p:171-180 (por abstract y resumen)"
@@ -15,7 +15,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/vistazo-teoria.md (sección 2)"
 aliases: [resource-based view, RBV, visión basada en recursos, teoría de recursos y capacidades, VRIN, VRIO, capacidades dinámicas, dynamic capabilities]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Recursos y capacidades

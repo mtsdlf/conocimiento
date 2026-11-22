@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un mapa de posicionamiento, o mapa perceptual, ubica a una marca y a sus rivales en un plano según cómo los perciben los clientes en dos o más dimensiones. Sirve para ver contra quién se compara el producto y dónde se amontonan las ofertas, y engaña si se arma con la opinión del equipo en lugar de datos de clientes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "John Gower, Patrick Groenen, Michel van de Velden y Karen Vines (2010), Perceptual maps: the good, the bad and the ugly, ERIM Report ERS-2010-011-MKT: https://repub.eur.nl/pub/18462/ERS-2010-011-MKT.pdf (abstract e introducción leídos)"
@@ -14,7 +14,7 @@ fuentes:
   - "Marketing/.investigacion/segmentacion-y-mapas.md"
 aliases: [mapa perceptual, perceptual map, perceptual mapping, mapa de percepción, positioning map, mapa de posicionamiento competitivo, escalamiento multidimensional, multidimensional scaling, MDS, mapa intuitivo]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mapa de posicionamiento

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El grupo de compra es el conjunto de personas que participan en la decisión de compra de una organización: quien usa, quien influye, quien aprueba el dinero y quien firma. En una empresa suelen ser varias, con cifras de proveedores que van de 5,4 a 13; en un comercio chico decide a menudo una sola persona, y eso casi no está estudiado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Buying center: https://en.wikipedia.org/wiki/Buying_center (leída completa; fuente de Robinson et al., Bunn, Thompson y Panayiotopoulos, y Andrews y Rogers)"
@@ -16,7 +16,7 @@ fuentes:
   - "Ventas/.investigacion/descubrimiento-y-calificacion.md"
 aliases: [buying group, buying center, buying committee, centro de compras, comité de compra, unidad de toma de decisiones, DMU, buyclass, clases de compra, straight rebuy, modified rebuy, new task]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Grupo de compra

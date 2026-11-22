@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las fuentes de ventaja explican por qué una empresa gana más que el promedio de su industria y por qué los rivales no la copian enseguida. Se miran con dos lentes: la posición que elige la empresa (Porter) y los recursos que tiene y otros no pueden imitar (la visión basada en recursos).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael E. Porter (2008), The Five Competitive Forces That Shape Strategy, HBR, enero de 2008: https://public.dhe.ibm.com/software/data/sw-library/cognos/pdfs/articles/art_the_five_competitive_forces_that_shape_strategy.pdf (leído completo)"
@@ -12,7 +12,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmación 2)"
 aliases: [competitive advantage, ventaja competitiva, sources of advantage, ventaja sostenible, sustainable competitive advantage, moat, foso]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fuentes de ventaja

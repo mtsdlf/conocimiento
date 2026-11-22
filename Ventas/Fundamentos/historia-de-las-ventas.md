@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La venta como disciplina se suele hacer nacer con el modelo AIDA a fines del siglo XIX, pasa a la venta por necesidades y a la investigación académica sobre vendedores desde los años 60, y a partir de 1988 se ordena alrededor de métodos con nombre (SPIN, MEDDIC, Challenger) y de las encuestas sobre el comprador que se informa solo. Muchas fechas vienen de fuentes secundarias que discrepan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rework, history of the AIDA model: https://resources.rework.com/libraries/history-of-sales/history-of-the-aida-model (según resumen)"
@@ -23,7 +23,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md, sección A3; Ventas/.investigacion/descubrimiento-y-calificacion.md; Ventas/.investigacion/objeciones-formas-y-medicion.md, sección B"
 aliases: [historia de las ventas, history of selling, historia de la venta personal, historia de las metodologías de venta, AIDA]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Historia de las ventas

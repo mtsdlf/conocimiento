@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La usabilidad del checkout es qué tan fácil le resulta a un comprador completar los pasos de datos, envío y pago sin trabarse ni abandonar. Casi todo lo que se sabe viene del Baymard Institute, que tiene un método cualitativo sólido, vende su investigación y no tiene auditoría independiente; ningún estudio revisado por pares confirma ni contradice sus guías principales.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Baymard Institute, Current state of checkout UX, publicado el 13 de noviembre de 2024 y actualizado el 3 de noviembre de 2026: https://baymard.com/blog/current-state-of-checkout-ux (leído)"
@@ -16,7 +16,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vistazo.md (sección 4)"
 aliases: [checkout usability, usabilidad del checkout, checkout UX, UX del checkout, guest checkout, compra como invitado, one-page checkout, checkout de una página]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Usabilidad del checkout

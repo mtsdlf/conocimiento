@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En comercio electrónico, las definiciones y las estadísticas oficiales (OCDE, UNCTAD, oficinas de censos, bancos centrales) y los reportes que las empresas presentan ante reguladores pesan más que las cámaras, y estas más que los proveedores, que producen casi todas las cifras sobre conversión, abandono, cuotas y arquitecturas. Casi cada cifra de proveedor mide algo que el mismo proveedor vende.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Baymard Institute, Cart abandonment rate: https://baymard.com/lists/cart-abandonment-rate (leído)"
@@ -17,7 +17,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, secciones A5 y B; Comercio-electronico/.investigacion/vistazo.md, sección 4; Comercio-electronico/.investigacion/checkout-y-conversion.md; Comercio-electronico/.investigacion/pagos.md, sección 4; Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md, sección 5"
 aliases: [peso de las fuentes de e-commerce, fuentes del comercio electrónico, conflicto de interés en e-commerce, e-commerce sources]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fuentes de comercio electrónico

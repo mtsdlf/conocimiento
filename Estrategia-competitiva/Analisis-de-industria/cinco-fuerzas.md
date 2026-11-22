@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las cinco fuerzas de Porter son la amenaza de entrantes, el poder de proveedores, el poder de compradores, la amenaza de sustitutos y la rivalidad entre competidores. Juntas determinan cuánto valor se queda una industria, y sirven para estimar el atractivo medio de un mercado, no el resultado de un producto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael E. Porter (2008), The Five Competitive Forces That Shape Strategy, HBR, enero de 2008, reimpresión R0801E: https://public.dhe.ibm.com/software/data/sw-library/cognos/pdfs/articles/art_the_five_competitive_forces_that_shape_strategy.pdf (leído completo, copia del reimpreso; ficha: https://hbr.org/2008/01/the-five-competitive-forces-that-shape-strategy)"
@@ -14,7 +14,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/fundamentos.md (mitos)"
 aliases: [five forces, Porter's five forces, cinco fuerzas de Porter, fuerzas competitivas, barreras de entrada, entry barriers]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Cinco fuerzas

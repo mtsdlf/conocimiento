@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El recorrido de un análisis de competencia es la guía paso a paso, de la decisión al seguimiento, para analizar a los rivales con el fin de diseñar un producto propio, con la plantilla del documento que entrega. Ordena notas de varios temas de esta base; ninguna fuente da el recorrido entero.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Estrategia-competitiva/estrategia-competitiva.md, sección Dónde entra en el diseño de un producto (el orden de los pasos)"
@@ -9,7 +9,7 @@ fuentes:
   - "Las notas enlazadas en cada paso, que citan sus propias fuentes"
 aliases: [guía de análisis de competencia, cómo hacer un análisis de competencia, análisis de la competencia paso a paso, competitive analysis playbook]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Recorrido de un análisis de competencia

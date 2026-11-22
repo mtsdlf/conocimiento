@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La prueba de una propuesta es lo que muestra que lo prometido se cumple: casos de clientes, testimonios, cifras de resultados y garantías. Hay poca evidencia con método sobre su efecto en ventas entre empresas, la prueba social más citada no replicó, y inventarla es engañar y en Argentina puede ser publicidad engañosa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Suwelack, Hogreve y Hoyer (2011), Journal of Retailing 87(4):462-478: https://econpapers.repec.org/RePEc:eee:jouret:v:87:y:2011:i:4:p:462-478 (solo abstract)"
@@ -19,7 +19,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md (B6)"
 aliases: [proof, social proof, prueba social, casos de éxito, case studies, testimonios, testimonials, referencias, references, garantía, guarantee, money-back guarantee, publicidad engañosa, lealtad comercial]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Prueba y confianza

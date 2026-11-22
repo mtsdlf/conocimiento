@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Pagos es la parte del comercio electrónico que convierte una compra en dinero disponible para el comercio: quién interviene en el cobro, cuánto cuesta y cuándo llega el dinero, quién pierde si el pago se desconoce, y cómo cambian todo eso las cuotas y los medios locales de América Latina.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Comercio-electronico/.investigacion/pagos.md"
@@ -11,7 +11,7 @@ fuentes:
   - "Las fuentes primarias de cada componente y ficha, citadas en cada nota"
 aliases: [payments, pagos online, cobros, medios de pago, procesamiento de pagos, payment processing]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Pagos

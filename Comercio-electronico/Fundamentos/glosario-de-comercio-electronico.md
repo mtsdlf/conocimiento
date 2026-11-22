@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos y siglas que usan las notas de comercio electrónico, cada uno con su forma en inglés, una definición corta y la nota que lo desarrolla, más las marcas con que los informes dicen cuánto se leyó de cada fuente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -19,7 +19,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, sección A7; Comercio-electronico/.investigacion/plataforma-de-tiendas.md; Comercio-electronico/.investigacion/pagos.md; Comercio-electronico/.investigacion/checkout-y-conversion.md; Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md; Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md"
 aliases: [glosario de e-commerce, términos de comercio electrónico, e-commerce glossary, siglas de comercio electrónico]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Glosario de comercio electrónico

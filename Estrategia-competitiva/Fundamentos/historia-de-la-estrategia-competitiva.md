@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estrategia competitiva pasó de la planificación corporativa de los años sesenta y la matriz de BCG a las cinco fuerzas de Porter (1979-1980), la visión basada en recursos (1984-1991), las capacidades dinámicas (1997) y las plataformas (2019). En paralelo, la inteligencia competitiva se hizo profesión, con la fundación de SCIP en 1986. Casi todas las fechas vienen de fuentes secundarias.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rework, History of strategic planning: https://resources.rework.com/libraries/history-of-management/history-of-strategic-planning (resumen)"
@@ -17,7 +17,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/analisis-de-competidores-1.md, sección 2 (capítulo 3 de Competitive Strategy)"
 aliases: [historia de la estrategia competitiva, history of competitive strategy, historia de la inteligencia competitiva, history of competitive intelligence, SCIP]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Historia de la estrategia competitiva

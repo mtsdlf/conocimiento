@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las cifras de referencia de checkout y conversión (tasa de abandono, razones de abandono, tasas de conversión y benchmark de usabilidad del checkout), cada una con qué mide, su muestra, su fecha y quién la publica. Consultadas el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Baymard Institute, Cart Abandonment Rate Statistics, actualizada el 28 de octubre de 2026: https://baymard.com/lists/cart-abandonment-rate (leído)"
@@ -19,7 +19,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vistazo.md (sección 4)"
 aliases: [benchmarks de conversión, conversion benchmarks, cifras de abandono de carrito, cart abandonment statistics]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Cifras de checkout y conversión

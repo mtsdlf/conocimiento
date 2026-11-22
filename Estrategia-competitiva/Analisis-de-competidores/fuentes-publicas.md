@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las fuentes públicas son lo que un competidor deja a la vista de cualquiera: su sitio, sus precios, su documentación, sus ofertas de empleo, lo que dicen sus clientes y lo que estiman herramientas de terceros. Son la etapa de recolección del ciclo de inteligencia, y cada dato vale según quién lo dice y si otra fuente lo confirma.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Michael E. Porter, Competitive Strategy, Free Press (1980), cap. 3, p. 71 (leído; ver Estrategia-competitiva/.investigacion/analisis-de-competidores-1.md)"
@@ -15,7 +15,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/vistazo-practica.md"
 aliases: [open source intelligence, OSINT, fuentes abiertas, recolección, collection, Admiralty code, escala de confiabilidad, código del almirantazgo, NATO source reliability]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fuentes públicas
