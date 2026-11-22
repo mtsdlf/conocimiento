@@ -25,6 +25,9 @@ está en la skill; esto lo completa.
   así que lo que no puede leer cualquiera no entra a esta base. `./sitio/servir` lo levanta local en
   `http://127.0.0.1:8000`; solo necesita `uv`. Las áreas y su orden salen de `conocimiento.md`: un
   tema nuevo aparece en el sitio cuando se enlaza ahí.
+- **Enlaces a una sección**: el ancla es el id que le da GitHub al título, con tildes y eñes
+  (`nota.md#qué-cambia-en-una-consultora`), y el sitio genera el mismo. `python3 sitio/anclas.py`
+  las revisa (también al publicar) y `--arreglar` corrige las que se escribieron sin tildes.
 - **Nunca**: secretos (van a Vaultwarden) ni lo confidencial de un empleador (queda en sus
   herramientas, con un enlace).
 

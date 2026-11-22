@@ -18,7 +18,7 @@ revisado: 2026-11-22
 
 La activación es el momento en que un usuario nuevo llega por primera vez al valor del producto, y la métrica de activación es la acción o el umbral que lo marca. Se busca comparando qué hicieron al principio los usuarios que se quedaron y los que se fueron, y se confirma probando si provocar ese comportamiento retiene más.
 
-Es la segunda letra del embudo AARRR, entre la adquisición, que es de Marketing, y la retención (ver [Medición](medicion-de-producto.md#heart-y-aarrr-dos-mapas-para-elegir-metricas)). Dentro de la medición, la [North Star](north-star.md) dice si el producto entrega valor en conjunto; la activación dice si los que recién llegan alcanzan ese valor. Por eso la métrica de activación se elige y se valida contra la [retención](../../Datos/Retencion-y-churn/retencion.md).
+Es la segunda letra del embudo AARRR, entre la adquisición, que es de Marketing, y la retención (ver [Medición](medicion-de-producto.md#heart-y-aarrr-dos-mapas-para-elegir-métricas)). Dentro de la medición, la [North Star](north-star.md) dice si el producto entrega valor en conjunto; la activación dice si los que recién llegan alcanzan ese valor. Por eso la métrica de activación se elige y se valida contra la [retención](../../Datos/Retencion-y-churn/retencion.md).
 
 ## Cómo se encuentra una métrica de activación
 

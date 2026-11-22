@@ -44,6 +44,6 @@ El número de participantes también está discutido. El debate de los cinco usu
 
 Faltan estas notas y se van a sumar:
 
-- Experimento A/B como componente propio, con diseño, tamaño de muestra y fallas comunes. Hoy se trata dentro de [métricas de UX](metricas-de-ux.md#donde-entra-el-experimento-ab).
+- Experimento A/B como componente propio, con diseño, tamaño de muestra y fallas comunes. Hoy se trata dentro de [métricas de UX](metricas-de-ux.md#dónde-entra-el-experimento-ab).
 - Árbol de prueba (tree testing): cómo se evalúa una estructura de navegación sin diseño visual.
 - Test de primer clic: si la persona empieza una tarea por el lugar correcto.

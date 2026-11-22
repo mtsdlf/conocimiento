@@ -46,9 +46,9 @@ Lo que cada segmento necesita se lee en lo que suma cada plan. La tabla es una l
 | Mediana | estadísticas avanzadas; varios centros de distribución | Shopify Advanced; Tiendanube Escala |
 | Grande | soporte prioritario, un especialista dedicado y migración asistida; varios locales con punto de venta; precio negociado y contrato | Shopify Plus; Tiendanube Evolución; VTEX |
 
-La capacidad técnica también escala. En la API de Tiendanube, las tiendas de los planes más altos tienen un límite de uso diez veces mayor que el resto (ver [arquitectura de una plataforma](arquitectura-de-plataforma.md#limites-de-uso-el-balde-de-tiendanube)). Una marca grande integra su tienda con otros sistemas y hace muchas más llamadas que un emprendedor.
+La capacidad técnica también escala. En la API de Tiendanube, las tiendas de los planes más altos tienen un límite de uso diez veces mayor que el resto (ver [arquitectura de una plataforma](arquitectura-de-plataforma.md#límites-de-uso-el-balde-de-tiendanube)). Una marca grande integra su tienda con otros sistemas y hace muchas más llamadas que un emprendedor.
 
-El modo headless queda arriba de la escalera, en la práctica: pide un equipo de ingeniería que solo tienen los comercios grandes. Las condiciones están en [tipos de plataforma](tipos-de-plataforma.md#cuando-conviene-headless-o-composable).
+El modo headless queda arriba de la escalera, en la práctica: pide un equipo de ingeniería que solo tienen los comercios grandes. Las condiciones están en [tipos de plataforma](tipos-de-plataforma.md#cuándo-conviene-headless-o-composable).
 
 ## Pocos comercios grandes, mucho volumen
 

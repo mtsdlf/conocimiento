@@ -44,7 +44,7 @@ En una plataforma de tiendas online, las tareas podrían ser publicar el primer 
 
 ## Las métricas que se pueden comparar
 
-NN/g nombra cuatro formas de decidir quién rinde mejor: tasa de éxito, tiempo en tarea, valoraciones subjetivas o una tarjeta de puntaje propia. Las tres primeras se definen en [métricas de UX](metricas-de-ux.md#metricas-de-un-test-con-personas), junto con el SUS. Lo que agrega la comparación es una referencia: según Moran (NN/g, 2020), "A single number is meaningless, since you have no idea whether it's good or bad". Su ejemplo es literal: "Our success rate for application completion is 86%, while our competitor's is 62%."
+NN/g nombra cuatro formas de decidir quién rinde mejor: tasa de éxito, tiempo en tarea, valoraciones subjetivas o una tarjeta de puntaje propia. Las tres primeras se definen en [métricas de UX](metricas-de-ux.md#métricas-de-un-test-con-personas), junto con el SUS. Lo que agrega la comparación es una referencia: según Moran (NN/g, 2020), "A single number is meaningless, since you have no idea whether it's good or bad". Su ejemplo es literal: "Our success rate for application completion is 86%, while our competitor's is 62%."
 
 Para sitios web, MeasuringU propone el SUPR-Q, "an 8 item questionnaire for measuring the quality of the website user experience". Mide usabilidad, confianza, lealtad y apariencia, y da el puntaje como percentil: 50 es el promedio y 75 supera al 75% de los sitios de su base. La base de comparación es de MeasuringU y su tamaño varía en la propia página, entre 150 y 200 sitios. Según el resumen de un buscador, el paper de Sauro (2015) parte de unas 4.000 respuestas sobre más de 100 sitios.
 
@@ -52,7 +52,7 @@ El benchmark competitivo es investigación sumativa. Moran lo dice así: "Benchm
 
 ## Cuántos participantes hacen falta para comparar
 
-Encontrar problemas pide pocos participantes; afirmar que un producto rinde más que otro pide muchos más. El debate de los cinco usuarios vale para lo primero y está en el [test de usabilidad](test-de-usabilidad.md#de-donde-sale-la-regla-de-los-cinco-usuarios). Para lo segundo hace falta estadística: Sauro y Lewis dedican el capítulo 5 de *Quantifying the User Experience* a si hay diferencia entre dos diseños y el 6 al tamaño de muestra (según su índice; el texto no se leyó).
+Encontrar problemas pide pocos participantes; afirmar que un producto rinde más que otro pide muchos más. El debate de los cinco usuarios vale para lo primero y está en el [test de usabilidad](test-de-usabilidad.md#de-dónde-sale-la-regla-de-los-cinco-usuarios). Para lo segundo hace falta estadística: Sauro y Lewis dedican el capítulo 5 de *Quantifying the User Experience* a si hay diferencia entre dos diseños y el 6 al tamaño de muestra (según su índice; el texto no se leyó).
 
 El piso de unos 20 participantes que da el [test de usabilidad](test-de-usabilidad.md) para métricas sirve para medir un producto solo; comparar dos pide más, porque hay que distinguir una diferencia del ruido de cada medición (lectura de esta base a partir de las dos notas). El diseño del estudio cambia mucho la cuenta. Si los mismos participantes usan los dos productos (intra-sujetos), alcanza con menos gente que si cada grupo usa uno (entre-sujetos). Lewis y Sauro (2026) lo calculan para el cuestionario UX-Lite, con potencia del 80%:
 

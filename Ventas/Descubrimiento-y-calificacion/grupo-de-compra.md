@@ -35,7 +35,7 @@ El concepto de centro de compras (buying center), la unidad que toma la decisió
 | Recompra modificada (modified rebuy) | se compra algo parecido, cambiando condiciones o proveedor | sumar un módulo, o cambiar de consultora para el mismo trabajo |
 | Compra nueva (new task) | se compra algo por primera vez | el primer proyecto de software a medida |
 
-La columna de la consultora es una aplicación de esta base. La clase importa porque cambia cuántos participan: en las pymes, la compra nueva suma más influencia de otros que la recompra, como se ve [más abajo](#el-comercio-chico-casi-no-esta-estudiado). Según Wikipedia, Michele Bunn (1993) extendió el modelo a seis situaciones.
+La columna de la consultora es una aplicación de esta base. La clase importa porque cambia cuántos participan: en las pymes, la compra nueva suma más influencia de otros que la recompra, como se ve [más abajo](#el-comercio-chico-casi-no-está-estudiado). Según Wikipedia, Michele Bunn (1993) extendió el modelo a seis situaciones.
 
 ## El modelo de Webster y Wind
 

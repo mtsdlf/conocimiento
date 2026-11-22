@@ -46,7 +46,7 @@ Una comparación de planes junta, para cada rival, lo que decide cuánto paga de
 
 | Qué se anota de cada rival | Por qué importa |
 |---|---|
-| La unidad de cobro: por asiento, por uso, por pedido, comisión por venta | Dos precios con distinta unidad no se comparan sin un cliente tipo; es la métrica de valor de [pricing y empaquetado](pricing-y-empaquetado.md#la-metrica-de-valor-por-que-unidad-se-cobra) |
+| La unidad de cobro: por asiento, por uso, por pedido, comisión por venta | Dos precios con distinta unidad no se comparan sin un cliente tipo; es la métrica de valor de [pricing y empaquetado](pricing-y-empaquetado.md#la-métrica-de-valor-por-qué-unidad-se-cobra) |
 | Los límites de cada plan: usuarios, pedidos, productos, almacenamiento | Muestran en qué punto el rival empuja a subir de plan |
 | Qué funciones quedan en el plan caro | Dicen qué segmento cree el rival que paga más |
 | Qué regala: plan gratis, prueba, período | Fijan lo que el cliente espera sin pagar |

@@ -89,7 +89,7 @@ Con el dueño de un comercio que vende online:
 1. Pedí que te cuente la última semana: cuántos pedidos, por dónde entraron, qué se trabó.
 2. Elegí un problema que nombró y preguntá qué le costó la última vez, en horas o en plata. Ese costo es el ancla para [presentar el precio](../La-propuesta/presentar-el-precio.md).
 3. Preguntá qué usa hoy para resolverlo, aunque sea una planilla: es la alternativa contra la que competís.
-4. Preguntá si decide solo o con alguien; en un comercio chico suele decidir el dueño (ver [grupo de compra](grupo-de-compra.md#el-comercio-chico-casi-no-esta-estudiado)).
+4. Preguntá si decide solo o con alguien; en un comercio chico suele decidir el dueño (ver [grupo de compra](grupo-de-compra.md#el-comercio-chico-casi-no-está-estudiado)).
 5. Cerrá con un paso concreto: una charla con datos, una prueba o una propuesta con fecha.
 
 Con una empresa, para una consultora de software:

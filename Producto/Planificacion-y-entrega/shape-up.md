@@ -46,7 +46,7 @@ La consecuencia para el roadmap es directa. Shape Up dice "We don't rethink our 
 
 Shape Up decide cómo se acota un trabajo y cuándo se apuesta a él. No dice cómo se descubre qué problema vale la pena. El shaping lo hacen una o dos personas antes de la apuesta, no el equipo completo en contacto semanal con clientes. Por eso contrasta con el [descubrimiento continuo](../Descubrimiento/descubrimiento-continuo.md) de la escuela de este tema. Esta lectura es del informe de investigación de esta base, no de una fuente que lo compare.
 
-El contraste también es organizacional: Basecamp funciona sin un product manager dedicado, un caso que está en [empresas sin product manager](../Organizacion/roles-de-producto.md#empresas-sin-product-manager). Cómo se compara Shape Up con el [equipo empoderado](../Organizacion/equipo-empoderado.md#shape-up-y-scrum-otras-formas-de-repartir-la-decision) está en esa nota: el equipo tiene libertad de implementación pero no elige el problema.
+El contraste también es organizacional: Basecamp funciona sin un product manager dedicado, un caso que está en [empresas sin product manager](../Organizacion/roles-de-producto.md#empresas-sin-product-manager). Cómo se compara Shape Up con el [equipo empoderado](../Organizacion/equipo-empoderado.md#shape-up-y-scrum-otras-formas-de-repartir-la-decisión) está en esa nota: el equipo tiene libertad de implementación pero no elige el problema.
 
 ## De qué escala depende
 

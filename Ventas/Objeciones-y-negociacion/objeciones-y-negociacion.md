@@ -51,7 +51,7 @@ Lo que sigue es criterio de la base, coherente con lo que observa Gong pero no p
 
 El criterio de la base es preguntar «¿comparado con qué?». La respuesta es la alternativa del cliente: seguir como está, otro proveedor o hacerlo él mismo. Para una plataforma de tiendas online, la comparación útil es lo que al comercio hoy le cuesta vender sin ella, en horas, comisiones o ventas perdidas. Cómo se presenta el precio contra ese costo actual está en [presentar el precio](../La-propuesta/presentar-el-precio.md), y cómo leer los precios del rival, en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md).
 
-Si el precio sigue sin entrar, la base sugiere cambiar el alcance antes que bajar el precio: menos módulos, otra etapa, otro plazo. Es criterio de la base, sin estudio que lo mida en una venta (ver [las concesiones](#las-concesiones-no-tienen-fuente-todavia)).
+Si el precio sigue sin entrar, la base sugiere cambiar el alcance antes que bajar el precio: menos módulos, otra etapa, otro plazo. Es criterio de la base, sin estudio que lo mida en una venta (ver [las concesiones](#las-concesiones-no-tienen-fuente-todavía)).
 
 ### «Lo tengo que pensar»
 
