@@ -52,7 +52,7 @@ Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCION
 ## Negocio
 
 - [Marketing](Marketing/marketing.md) — mercado y cliente, propuesta, marca, canales, comunicación y medición, con las escuelas y la evidencia de cada idea.
-- [Emprender](Emprender/emprender.md) — de la idea validada a la empresa: mercado, modelo de negocio, venta, números, legal, socios y financiamiento.
+- [Emprender](Emprender/emprender.md) — armar una empresa nueva con incertidumbre: validación (Lean Startup), modelo de negocio, crecimiento, finanzas, fundadores y equipo, legal e impuestos en Argentina, con las escuelas y su evidencia.
 
 ## Animales
 
