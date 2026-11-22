@@ -40,6 +40,10 @@ Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCION
 - [UX](UX/ux.md) — diseño de experiencia de usuario e interfaces: percepción y decisión, investigación, arquitectura de información,
   interacción, diseño visual, accesibilidad y evaluación, con la bibliografía por necesidad.
 
+## Producto
+
+- [Producto](Producto/producto.md) — decidir qué construir, para quién y por qué en un producto digital: estrategia, descubrimiento, planificación y roadmap, medición, monetización, plataformas de dos lados y los roles del equipo, con las escuelas y su evidencia.
+
 ## Sistemas e IA
 
 - [Linux](Linux/linux.md) — cómo está hecho y cómo se administra Linux; con Recorrido.
