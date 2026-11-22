@@ -23,6 +23,7 @@ preguntas:
   - "¿Qué hace un sistema de gestión de pyme que no hace una plataforma de tiendas, cómo se conecta con la tienda y con Mercado Libre, y dónde suele fallar?"
   - "Tengo un local y una tienda online en Argentina: ¿cómo comparto el stock, cobro en el mostrador y facturo, y con qué opciones y precios?"
   - "¿Quién tiene que emitir factura electrónica en Argentina, qué letra de comprobante corresponde y cómo la emite un sistema?"
+  - "¿Qué rubros tienen necesidades que una tienda online general resuelve mal, cuántos comercios hay en cada uno en Argentina, quién los atiende y cuánto pagan?"
 aprobado: 2026-11-22
 ---
 
@@ -80,6 +81,14 @@ Comercio-electronico/
     factura-entre-empresas             factura A, percepciones y retenciones, factura de crédito electrónica MiPyME (Argentina)
     modelos-de-software-b2b            portal B2B, capa mayorista de una tienda, app de preventa, sistema de gestión, marketplace B2B y app del fabricante
     fichas fechadas                    software B2B en Argentina; portales B2B globales; marketplaces y apps B2B de la región; cifras del comercio B2B
+  Rubros/                            (sumada el 2026-11-22) los rubros con necesidades propias que una tienda general resuelve mal
+    rubros.md                          entrada: qué supuesto de la tienda general rompe cada rubro, cómo se reconoce un dolor que se paga y cómo se cuenta un rubro
+    gastronomia-con-delivery           apps de delivery, canal propio y lo que le falta a la tienda general para comida
+    autopartes                         la compatibilidad pieza–vehículo y quién tiene los datos
+    ferreteria-y-materiales            catálogos enormes, listas de precios de proveedores y venta a gremio
+    indumentaria-y-calzado             el talle y el cambio de talle
+    farmacia                           la venta regulada del medicamento y la dispensa digital (a medias)
+    rubros-en-argentina                ficha fechada: locales por rubro, ranking de CACE, comisiones, software y reseñas
   Fundamentos/                       qué es, historia breve, bibliografía, fuentes y cifras del mercado (ficha), glosario
 ```
 
@@ -93,3 +102,4 @@ Comercio-electronico/
 - Sumado a pedido de la persona: las apps para comerciantes, porque uno de los ejemplos de mercado (Escalafy) es una app que vive dentro de las plataformas y no una plataforma; con fichas de Escalafy y de sus alternativas con más presencia.
 - Ampliado el 2026-11-22 (tanda 1 de un mapa de oportunidades, plan aprobado por la persona): Operaciones del comercio se partió en componentes, con la subcarpeta Sistemas de gestión; Venta en varios canales suma la subcarpeta Local físico con caja; Normativa suma la factura electrónica de ARCA como nota propia, y la ficha argentina la resume y enlaza. Envíos y logística queda prevista como subcarpeta de Operaciones, sin escribir. El pedido, el envío y la atención siguen en la entrada de Operaciones hasta tener nota.
 - Las notas que salieron enteras de la entrada de Operaciones (catálogo y stock, devoluciones) conservan su estado `vigente`, porque su texto es el que la persona ya confirmó; lo nuevo entra como `borrador`.
+- Sumado el 2026-11-22 (tanda de un mapa de oportunidades): la vertical Rubros. Como Comercio-B2B, es un corte transversal tomado como vertical, porque cada rubro con necesidades propias tiene su propio software, su propio marketplace y su propio dolor, que no se repiten en las otras verticales. Las notas de cada rubro explican el mecanismo; los nombres, precios y conteos viven en la ficha `rubros-en-argentina`. Farmacia es `volatil` porque su contenido es casi todo regulación en disputa. Óptica, alimentos frescos, mascotas, muebles y servicios con turnos quedaron nombrados como no investigados a fondo.
