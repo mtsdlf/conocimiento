@@ -16,7 +16,7 @@ revisado:
 
 El marketing es el trabajo de decidir a quién se le vende, qué se le promete, cómo se lo recuerda, por dónde se llega y cómo se sabe si funcionó.
 
-Termina donde empiezan la venta (cerrar con un comprador concreto) y el producto (qué se construye), aunque los toca a los dos. El precio y el modelo de negocio también son decisiones de marketing; en esta base viven en [Emprender](../Emprender/emprender.md). Las definiciones de referencia (AMA, Kotler) y dónde discrepan están en [Qué es marketing](Fundamentos/que-es-marketing.md).
+Termina donde empiezan la venta (cerrar con un comprador concreto) y el producto (qué se construye), aunque los toca a los dos. El precio y el modelo de negocio también son decisiones de marketing; en esta base el precio vive en [Producto](../Producto/Monetizacion/monetizacion.md) y el modelo de negocio en [Emprender](../Emprender/Modelo-de-negocio/modelo-de-negocio.md). Las definiciones de referencia (AMA, Kotler) y dónde discrepan están en [Qué es marketing](Fundamentos/que-es-marketing.md).
 
 No es una ciencia con un solo cuerpo de evidencia: conviven escuelas académicas y corrientes de práctica que llegan a conclusiones distintas, y casi toda la evidencia viene de marcas grandes, maduras y de mercados anglosajones. Por eso cada nota dice de qué corriente sale lo que afirma y cuánto se sabe para un emprendimiento chico, B2B o argentino.
 
@@ -42,6 +42,17 @@ flowchart LR
 - [Medición](Medicion/medicion.md) — qué número mirar en cada etapa, si la unidad de negocio cierra y si un canal causa ventas o solo las registra.
 
 Aparte de las seis partes, [Fundamentos](Fundamentos/fundamentos-de-marketing.md) reúne lo que las cruza a todas: el [glosario](Fundamentos/glosario-de-marketing.md), las [escuelas](Fundamentos/escuelas-de-marketing.md), las [fuentes](Fundamentos/fuentes-de-marketing.md) y los [mitos](Fundamentos/mitos-de-marketing.md) que la evidencia desmiente.
+
+## Qué leer antes de cada decisión de marketing
+
+- Si tenés que decidir a quién venderle: [definición de mercado](Mercado-y-cliente/definicion-de-mercado.md), [segmentación](Mercado-y-cliente/segmentacion.md) y [jobs to be done](Mercado-y-cliente/jobs-to-be-done.md); si dudás entre un segmento o toda la categoría, [targeting o alcance masivo](Mercado-y-cliente/targeting-o-alcance-masivo.md).
+- Si tenés que decidir qué prometer frente a las alternativas: [posicionamiento](Propuesta/posicionamiento.md), con sus cinco componentes en orden, y el [mapa de posicionamiento](Propuesta/mapa-de-posicionamiento.md) para ver contra quién te compara el cliente.
+- Si vas a armar una propuesta para un cliente que es una empresa: [marketing B2B](Canales/marketing-b2b.md) para entender cómo compra un grupo, [jobs to be done](Mercado-y-cliente/jobs-to-be-done.md) para el progreso que busca y [posicionamiento](Propuesta/posicionamiento.md) para las alternativas contra las que te compara. No hay nota sobre cómo se arma y se vende una propuesta; hoy, lo más cercano es eso más [cómo cobra una consultora o una agencia](../Producto/Monetizacion/pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia). Si el cliente vende online, sumá lo que dice [Comercio electrónico](../Comercio-electronico/comercio-electronico.md#qué-leer-según-el-trabajo-con-una-tienda-online).
+- Si tenés que elegir un canal: [elección de canales](Canales/eleccion-de-canales.md), con el método Bullseye, y [growth y product-led growth](Canales/growth-y-product-led-growth.md) si el producto mismo puede traer clientes.
+- Si tenés que repartir el presupuesto entre marca y ventas inmediatas: [marca y activación](Marca/marca-y-activacion.md) y, para las cifras, [proporciones entre marca y activación](Marca/proporciones-marca-activacion.md).
+- Si tenés que escribir un mensaje o un anuncio: [comunicación](Comunicacion/comunicacion.md), [economía del comportamiento en marketing](Comunicacion/economia-del-comportamiento-en-marketing.md) para saber qué efectos sobreviven a la réplica y [respuesta directa](Comunicacion/respuesta-directa.md) para medir cada pieza.
+- Si tenés que saber si una campaña o un canal funciona: [incrementalidad](Medicion/incrementalidad.md), [economía unitaria](Medicion/economia-unitaria.md) para ver si cada venta deja plata y [métrica que importa](Medicion/metrica-que-importa.md) para elegir qué número mirar.
+- Si tenés que poner un precio: vive en Producto, en [pricing y empaquetado](../Producto/Monetizacion/pricing-y-empaquetado.md) y [precios de la competencia](../Producto/Monetizacion/precios-de-la-competencia.md).
 
 ## Las cinco ideas que cambian cómo se lo ve
 

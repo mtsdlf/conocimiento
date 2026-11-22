@@ -20,11 +20,11 @@ revisado:
 
 La estrategia competitiva estudia por qué unas empresas ganan más que otras en un mismo mercado: qué tan rentable es la industria, de dónde sale una ventaja que dure, cómo se mueven los rivales y cómo se los analiza. Sirve para decidir dónde y cómo competir antes de diseñar un producto.
 
-El tema junta dos cosas que los textos de referencia tratan juntas. Una es la teoría: Porter, la visión basada en recursos y la literatura sobre rivalidad. La otra es la práctica de analizar competidores, que Porter abre en el capítulo 3 de *Competitive Strategy* (1980) y que la inteligencia competitiva convirtió en oficio. Las dos se necesitan: la teoría sola no llega a una decisión sobre un rival concreto, y el análisis de rivales sin teoría tiende a quedar en una planilla de funcionalidades.
+El tema junta la teoría (Porter, la visión basada en recursos, la rivalidad) con la práctica de analizar competidores, que Porter abre en el capítulo 3 de *Competitive Strategy* (1980). La teoría sola no llega a una decisión sobre un rival concreto, y el análisis sin teoría queda en una planilla de funcionalidades.
 
 Termina donde empieza la [estrategia de producto](../Producto/Estrategia/estrategia-de-producto.md), que elige dónde jugar y cómo ganar con lo que este tema le da, y el [posicionamiento](../Marketing/Propuesta/posicionamiento.md), que decide contra qué alternativas se presenta el producto ante el cliente. La competencia entre plataformas de dos lados está en [Plataformas](../Producto/Plataformas/plataformas.md), del tema Producto.
 
-Los ejemplos del tema son de software y en especial de SaaS: software que se usa por suscripción, alojado por quien lo vende. Los términos que se repiten entre notas, como VRIO, comunalidad de mercado o costos de cambio, están definidos en el [glosario](Fundamentos/glosario-de-estrategia-competitiva.md), con el enlace a la nota donde se explica cada uno.
+Los ejemplos del tema son de software, sobre todo de SaaS, el software por suscripción. Los términos que se repiten entre notas, como VRIO o costos de cambio, están en el [glosario](Fundamentos/glosario-de-estrategia-competitiva.md).
 
 ## De qué está hecha la estrategia competitiva
 
@@ -48,13 +48,13 @@ flowchart LR
 
 Porter sostiene que la estructura de la industria fija la rentabilidad media de quienes compiten en ella. La visión basada en recursos sostiene que la ventaja sale de lo que cada empresa tiene y otros no pueden copiar. Los dos enfoques se midieron con un mismo método: descomponer las diferencias de rentabilidad entre unidades de negocio.
 
-McGahan y Porter (1997) atribuyen el 19 % de esa varianza a la industria y el 32 % a la unidad de negocio. Rumelt (1991) había encontrado 4 % y 44,2 %, según la tabla de Misangyi et al. (2006). Los estudios no coinciden en las cifras, y Misangyi et al. atribuyen la diferencia "largely" a las técnicas de análisis. Sí coinciden en el orden: la unidad de negocio explica más que la industria en todos los estudios con cifras verificadas, y la industria no es nula. Por eso el tema tiene las dos partes, y ninguna alcanza sola. El detalle y las escuelas están en [Fundamentos](Fundamentos/fundamentos-de-estrategia-competitiva.md).
+McGahan y Porter (1997) atribuyen el 19 % de esa varianza a la industria y el 32 % a la unidad de negocio. Rumelt (1991) había encontrado 4 % y 44,2 %, según la tabla de Misangyi et al. (2006). Los estudios no coinciden en las cifras, y Misangyi et al. atribuyen la diferencia "largely" a las técnicas de análisis. Sí coinciden en el orden: la unidad de negocio explica más que la industria en todos los estudios con cifras verificadas, y la industria no es nula. Por eso el tema tiene las dos partes, y ninguna alcanza sola.
 
 Todos esos datos son de empresas grandes, sobre todo de Estados Unidos y de décadas pasadas. No se encontró un estudio equivalente para software.
 
 ## Los marcos son listas de preguntas, no predicciones
 
-Las cinco fuerzas, los 7 Powers o el modelo de acción y respuesta de Chen ordenan qué mirar, pero ninguno predice qué va a pasar con un producto. La evidencia es despareja: la descomposición de varianza respalda que la industria pesa, aunque menos que la unidad de negocio; la visión basada en recursos tiene una crítica de tautología abierta; los 7 Powers no tienen contraste empírico independiente; y el modelo de Chen tiene respaldo parcial. Cada nota dice cuánto respaldo tiene su marco. La regla de uso es tratar lo que sale de un marco como una hipótesis que se verifica con el caso.
+Las cinco fuerzas, los 7 Powers o el modelo de acción y respuesta de Chen ordenan qué mirar, pero ninguno predice qué va a pasar con un producto. La evidencia es despareja: la visión basada en recursos tiene una crítica de tautología abierta; los 7 Powers no tienen contraste empírico independiente; y el modelo de Chen tiene respaldo parcial. Cada nota dice cuánto respaldo tiene su marco. La regla de uso es tratar lo que sale de un marco como una hipótesis que se verifica con el caso.
 
 ## Mirar al rival sin perder de vista al cliente
 
@@ -63,25 +63,32 @@ Las cinco fuerzas, los 7 Powers o el modelo de acción y respuesta de Chen orden
 
 ## Dónde entra en el diseño de un producto
 
-El análisis de competencia es un paso del medio. Antes hace falta saber qué se quiere decidir, entender el dominio, definir el mercado y conocer al cliente; después vienen la síntesis, la decisión y el seguimiento. Cada paso tiene su nota, en este tema o en otro:
+El análisis de competencia es un paso del medio, entre conocer al cliente y decidir. Cada paso tiene su nota, en este tema o en otro:
 
 0. **La pregunta**: qué se quiere decidir con el análisis. Sin una decisión, la recolección no termina nunca ([ciclo de inteligencia](Analisis-de-competidores/ciclo-de-inteligencia.md)).
 1. **El dominio**: cómo funciona la industria por dentro. Es un tema propio por industria, fuera de este; el de tiendas online es [Comercio electrónico](../Comercio-electronico/comercio-electronico.md).
 2. **El mercado**: qué abarca ([definición de mercado](../Marketing/Mercado-y-cliente/definicion-de-mercado.md)), cómo se divide ([segmentación](../Marketing/Mercado-y-cliente/segmentacion.md)), su tamaño ([tamaño de mercado](../Emprender/Validacion/tamano-de-mercado.md)) y su estructura ([análisis de industria](Analisis-de-industria/analisis-de-industria.md)).
 3. **El cliente**: qué trabajo quiere resolver ([jobs to be done](../Marketing/Mercado-y-cliente/jobs-to-be-done.md)) y cómo se lo investiga ([métodos de investigación](../UX/Investigacion/metodos-de-investigacion.md)).
 4. **Los rivales**: quiénes son ([identificación de competidores](Analisis-de-competidores/identificacion-de-competidores.md)).
-5. **El análisis por perspectivas**: qué quiere, qué hace y cómo respondería cada uno ([perfil del competidor](Analisis-de-competidores/perfil-del-competidor.md), [perspectivas de análisis](Analisis-de-competidores/perspectivas-de-analisis.md)).
+5. **El análisis por perspectivas**: qué quiere, qué hace y cómo respondería cada uno ([perfil del competidor](Analisis-de-competidores/perfil-del-competidor.md), [perspectivas de análisis](Analisis-de-competidores/perspectivas-de-analisis.md)). El [recorrido de Análisis de competidores](Analisis-de-competidores/analisis-de-competidores.md#el-recorrido-de-la-decisión-al-perfil-de-respuesta) detalla los pasos 4 y 5 y entrega el perfil de respuesta que usan los pasos 7 y 8.
 6. **La mirada propia**: dónde se es más fuerte o más débil que cada rival ([análisis propio](Analisis-de-competidores/analisis-propio.md)).
 7. **La síntesis**: qué oportunidades quedan y en qué terreno pelear ([árbol de oportunidades](../Producto/Descubrimiento/arbol-de-oportunidades.md), [elegir el terreno](Dinamica-competitiva/elegir-el-terreno.md)).
 8. **La decisión**: dónde jugar y cómo ganar ([estrategia de producto](../Producto/Estrategia/estrategia-de-producto.md)), contra qué alternativas presentarse ([posicionamiento](../Marketing/Propuesta/posicionamiento.md)) y qué probar primero ([prueba de supuestos](../Producto/Descubrimiento/prueba-de-supuestos.md)).
 9. **El seguimiento**: vigilar a los rivales de forma periódica y no una sola vez ([puntos ciegos](Analisis-de-competidores/puntos-ciegos.md)).
 
-El recorrido de [Análisis de competidores](Analisis-de-competidores/analisis-de-competidores.md#el-recorrido-de-la-decisión-al-perfil-de-respuesta) es el detalle de los pasos 4 y 5. Arranca en la misma pregunta del paso 0 y entrega un perfil de respuesta por rival, que es lo que usan los pasos 7 y 8.
+El orden es de esta base, armado a partir de las fuentes de cada paso; ninguna fuente lo da entero.
 
-El orden es de esta base, armado a partir de las fuentes de cada paso; ninguna fuente lo da entero. La guía práctica que lo recorre, con las acciones de cada paso, sus errores típicos y la plantilla del documento final, es el [recorrido de un análisis de competencia](Fundamentos/recorrido-analisis-de-competencia.md).
+## Qué leer según lo que tengas que averiguar de la competencia
+
+Si tenés que hacer el análisis completo, seguí los pasos de arriba con el [recorrido de un análisis de competencia](Fundamentos/recorrido-analisis-de-competencia.md), con las acciones, los errores típicos y la plantilla del documento final. Para una tarea puntual:
+
+- Si tenés que averiguar algo de un rival: [ética y legalidad](Analisis-de-competidores/etica-y-legalidad.md) primero, después [fuentes públicas](Analisis-de-competidores/fuentes-publicas.md) y, si cotiza, [lectura de reportes públicos](Analisis-de-competidores/lectura-de-reportes-publicos.md).
+- Si tenés que comparar tu producto con el de un rival: [desarme de producto](Analisis-de-competidores/desarme-de-producto.md); la usabilidad se compara con la [evaluación competitiva](../UX/Evaluacion/evaluacion-competitiva.md) de UX.
+- Si tenés que anticipar cómo responde un rival a una jugada tuya, como bajar el precio: [acción y respuesta](Dinamica-competitiva/accion-y-respuesta.md) y [precios de la competencia](../Producto/Monetizacion/precios-de-la-competencia.md).
+- Si tenés que decidir si entrar a un mercado o cómo pelear contra uno grande: [cinco fuerzas](Analisis-de-industria/cinco-fuerzas.md) y [elegir el terreno](Dinamica-competitiva/elegir-el-terreno.md).
 
 ## Orden de lectura
 
-Para quien empieza: primero esta entrada, después [Análisis de competidores](Analisis-de-competidores/analisis-de-competidores.md), que es lo que se usa, y [obsesión por el competidor](Analisis-de-competidores/obsesion-por-el-competidor.md). Después [Análisis de industria](Analisis-de-industria/analisis-de-industria.md), [Fuentes de ventaja](Fuentes-de-ventaja/fuentes-de-ventaja.md) y [Dinámica competitiva](Dinamica-competitiva/dinamica-competitiva.md), en ese orden.
+Para quien empieza: esta entrada, después Análisis de competidores, que es lo que se usa, y obsesión por el competidor; por último, las otras tres partes en el orden del diagrama.
 
 - [Fundamentos](Fundamentos/fundamentos-de-estrategia-competitiva.md): escuelas y evidencia, historia, bibliografía por necesidad, fuentes, mitos y glosario.

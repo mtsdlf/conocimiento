@@ -43,6 +43,17 @@ flowchart LR
 - [Fundadores y equipo](Fundadores-y-equipo/fundadores-y-equipo.md) — cómo se reparten la propiedad, las decisiones y el trabajo entre quienes fundan, y cuándo se suma gente.
 - [Legal e impuestos](Legal-e-impuestos/legal-e-impuestos.md) — las formas legales y el régimen impositivo para empezar en Argentina.
 
+## Qué leer según en qué punto está la empresa
+
+- Si tenés una idea y querés saber si alguien la paga: [hipótesis de salto de fe](Validacion/hipotesis-de-salto-de-fe.md), [descubrimiento de clientes](Validacion/descubrimiento-de-clientes.md) y [producto mínimo viable](Validacion/producto-minimo-viable.md).
+- Si tenés que estimar cuánto mercado hay: [definición de mercado](../Marketing/Mercado-y-cliente/definicion-de-mercado.md) y después [tamaño de mercado](Validacion/tamano-de-mercado.md), que lo calcula para el primer segmento.
+- Si tenés que armar el modelo de negocio o poner el primer precio: [modelo de negocio](Modelo-de-negocio/modelo-de-negocio.md), con el canvas y [el precio como hipótesis](Modelo-de-negocio/modelo-de-negocio.md#el-precio-también-es-una-hipótesis); los planes y la unidad de cobro están en [pricing y empaquetado](../Producto/Monetizacion/pricing-y-empaquetado.md).
+- Si tenés que decidir si cambiar de rumbo: [contabilidad de la innovación](Validacion/contabilidad-de-la-innovacion.md) y [pivotar o perseverar](Validacion/pivotar-o-perseverar.md).
+- Si tenés que saber si ya hay encaje y cómo crecer: [encaje producto-mercado](Crecimiento/encaje-producto-mercado.md), [motores de crecimiento](Crecimiento/motores-de-crecimiento.md) y, para el canal, [elección de canales](../Marketing/Canales/eleccion-de-canales.md).
+- Si tenés que calcular cuánto te dura la plata o conseguir más: [finanzas](Finanzas/finanzas.md); si cada venta deja plata, [economía unitaria](../Marketing/Medicion/economia-unitaria.md).
+- Si tenés que repartir la empresa entre socios: [fundadores y equipo](Fundadores-y-equipo/fundadores-y-equipo.md), con la propiedad, el vesting y cómo deciden.
+- Si tenés que abrir la empresa en Argentina: [legal e impuestos](Legal-e-impuestos/legal-e-impuestos.md) y [normativa para empezar en Argentina](Legal-e-impuestos/normativa-para-empezar-en-argentina.md).
+
 ## La idea que cruza todo el tema
 
 Cada parte está llena de supuestos, y conviene probar primero aquellos de los que depende todo lo demás. Ries los llama [hipótesis de salto de fe](Validacion/hipotesis-de-salto-de-fe.md) y distingue dos: la de valor (el producto le sirve a quien lo usa) y la de crecimiento (cómo descubren el producto los clientes nuevos). Si alguna de las dos es falsa, el plan de finanzas y la sociedad sirven de poco; por eso [Validación](Validacion/validacion.md) va primero y las otras partes se arman con lo mínimo hasta que las dos se sostienen.

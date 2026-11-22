@@ -47,6 +47,17 @@ flowchart LR
 
 El diagrama de Garrett (2000) avisa que el modelo "does not describe a development process, nor does it define roles within a user experience development team": no describe un proceso de desarrollo ni define roles en un equipo. Ordena qué se decide, no en qué orden se trabaja. Los nombres de los cinco planos del libro (estrategia, alcance, estructura, esqueleto y superficie) solo se conocen por resúmenes de terceros. Las siete partes de arriba tampoco son etapas.
 
+## Qué leer según lo que tengas que diseñar o revisar
+
+- Si tenés que comparar tu producto con el de rivales, como un checkout o un alta: [evaluación competitiva](Evaluacion/evaluacion-competitiva.md), con las mismas tareas y métricas para dos a cuatro rivales; si es un checkout, después [usabilidad del checkout](../Comercio-electronico/Checkout-y-conversion/usabilidad-del-checkout.md#al-analizar-el-checkout-de-un-competidor) y [checkout por plataforma](../Comercio-electronico/Checkout-y-conversion/checkout-por-plataforma.md).
+- Si tenés que revisar una pantalla sin usuarios a mano: [principios de interacción](Interaccion/principios-de-interaccion.md) y [evaluación heurística](Evaluacion/evaluacion-heuristica.md).
+- Si tenés que probar un diseño con personas: [test de usabilidad](Evaluacion/test-de-usabilidad.md) y [métricas de UX](Evaluacion/metricas-de-ux.md).
+- Si tenés que entender a los usuarios antes de diseñar: [métodos de investigación](Investigacion/metodos-de-investigacion.md), [entrevista de usuario](Investigacion/entrevista-de-usuario.md), [entrevista de cambio](Investigacion/entrevista-de-cambio.md) y [análisis de reseñas](Investigacion/analisis-de-resenas.md), que sirve también para un producto ajeno.
+- Si tenés que diseñar un formulario o un checkout: [formularios](Interaccion/formularios.md), [carga cognitiva](Percepcion-y-decision/carga-cognitiva.md) y [usabilidad del checkout](../Comercio-electronico/Checkout-y-conversion/usabilidad-del-checkout.md).
+- Si tenés que ordenar el menú o el contenido: [arquitectura de información](Arquitectura-de-informacion/arquitectura-de-informacion.md) y [navegación](Arquitectura-de-informacion/navegacion.md).
+- Si tenés que cumplir accesibilidad: [WCAG](Accesibilidad/wcag.md) y [normativa de accesibilidad](Accesibilidad/normativa-de-accesibilidad.md).
+- Si querés empujar una conversión sin engañar a nadie: [patrón oscuro](Percepcion-y-decision/patron-oscuro.md).
+
 ## El ciclo que une las partes
 
 La columna de esta base es el diseño centrado en el usuario de ISO 9241-210. La norma lo llama "centrado en el ser humano" y aclara que en la práctica los dos nombres se usan como sinónimos. Propone cuatro actividades que se repiten: entender y especificar el contexto de uso, especificar los requisitos del usuario, producir soluciones de diseño y evaluarlas contra esos requisitos. Lo que sale de la evaluación vuelve a corregir el contexto, los requisitos y las soluciones.
@@ -69,4 +80,4 @@ Hay dos desacuerdos que cruzan todo el tema. El primero es cuánto se puede deci
 4. [Test de usabilidad](Evaluacion/test-de-usabilidad.md), el método central de la evaluación.
 5. Las demás partes, según la necesidad. Qué leer para [una tienda online](Fundamentos/bibliografia-de-ux.md#e-commerce), [una landing](Fundamentos/bibliografia-de-ux.md#conversión-y-marketing-digital) o [un sistema interno](Fundamentos/bibliografia-de-ux.md#software-de-negocio-sistemas-internos-tablas-y-dashboards) está en la bibliografía, ordenada por necesidad.
 
-[Fundamentos](Fundamentos/fundamentos-de-ux.md) reúne lo que cruza todas las partes: [qué es UX](Fundamentos/que-es-ux.md), su [historia](Fundamentos/historia-de-ux.md), las [escuelas](Fundamentos/escuelas-de-ux.md), la [bibliografía](Fundamentos/bibliografia-de-ux.md) ordenada por necesidad, el peso de cada tipo de [fuente](Fundamentos/fuentes-de-ux.md), los [mitos](Fundamentos/mitos-de-ux.md) que la evidencia desmiente y el [glosario](Fundamentos/glosario-de-ux.md).
+[Fundamentos](Fundamentos/fundamentos-de-ux.md) reúne lo que cruza todas las partes: qué es UX, su historia, las escuelas, la bibliografía por necesidad, el peso de cada tipo de fuente, los mitos que la evidencia desmiente y el glosario.
