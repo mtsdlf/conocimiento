@@ -48,9 +48,17 @@ Las notas lo dicen en prosa: "según su abstract" equivale a [M] y "según un re
 | Plan de negocios | Documento que predice el mercado, las ventas y las finanzas antes de actuar. | [Escuelas de emprender](escuelas-de-emprender.md) |
 | Desarrollo de clientes (customer development) | El proceso de Blank: descubrir y validar clientes y modelo antes de construir la empresa. | [Escuelas de emprender](escuelas-de-emprender.md) |
 | Lean Startup | El método de Ries: probar hipótesis con productos mínimos y medir el avance en aprendizaje. | [Escuelas de emprender](escuelas-de-emprender.md) |
-| Effectuation | Lógica de Sarasvathy que parte de los medios disponibles y busca controlar en lugar de predecir. | [Escuelas de emprender](escuelas-de-emprender.md) |
+| Effectuation | Lógica de Sarasvathy que parte de los medios disponibles y busca controlar en lugar de predecir. | [Effectuation](../Validacion/Oportunidades/effectuation.md) |
 | Causación | La lógica opuesta a effectuation: fijar una meta y elegir los medios a partir de una predicción. | [Escuelas de emprender](escuelas-de-emprender.md) |
-| Pérdida asumible | Principio de effectuation: decidir por cuánto se puede perder, no por cuánto se espera ganar. | [Escuelas de emprender](escuelas-de-emprender.md) |
+| Pérdida asumible | Principio de effectuation: decidir por cuánto se puede perder, no por cuánto se espera ganar. | [Effectuation](../Validacion/Oportunidades/effectuation.md) |
+| Oportunidad de negocio | Situación en la que se puede vender algo nuevo por más de lo que cuesta producirlo (Shane y Venkataraman). | [Oportunidades](../Validacion/Oportunidades/oportunidades.md) |
+| Encaje fundador-mercado | Que quienes fundan entiendan a fondo el mercado en el que entran (founder-market fit). | [Encaje fundador-mercado](../Validacion/Oportunidades/encaje-fundador-mercado.md) |
+| Falla fatal | Un criterio que, si falla, descarta una oportunidad aunque el resto sea excelente. | [Criterios de oportunidad](../Validacion/Oportunidades/criterios-de-oportunidad.md) |
+| Matriz de oportunidades | Tabla que puntúa varias oportunidades en los mismos criterios para elegir cuáles probar. | [Matriz de oportunidades](../Validacion/Oportunidades/matriz-de-oportunidades.md) |
+| SaaS | Software que se vende como acceso por suscripción y corre en los servidores del proveedor. | [SaaS](../Modelo-de-negocio/saas.md) |
+| Servicio habilitado por tecnología | Empresa que vende el trabajo hecho usando su propio software, en lugar de vender la herramienta. | [Servicios habilitados por tecnología](../Modelo-de-negocio/servicios-habilitados-por-tecnologia.md) |
+| Marketplace | Plataforma de dos lados que conecta a quienes venden y compran y cobra una comisión sobre lo transado. | [Marketplace](../Modelo-de-negocio/marketplace.md) |
+| Desintermediación | Que dos usuarios que se conocieron en una plataforma sigan haciendo negocios por fuera de ella. | [Marketplace](../Modelo-de-negocio/marketplace.md) |
 | Enfoque científico | Decidir con una teoría explícita del negocio y pruebas que puedan refutarla. | [Escuelas de emprender](escuelas-de-emprender.md) |
 | Design thinking | Método que parte de la empatía con el usuario y del prototipado. | [Escuelas de emprender](escuelas-de-emprender.md) |
 | Blitzscaling | Priorizar la velocidad sobre la eficiencia cuando hay incertidumbre (Hoffman y Yeh). | [Escuelas de emprender](escuelas-de-emprender.md) |

@@ -23,7 +23,7 @@ revisado: 2026-11-22
 
 La validación es la parte de emprender que comprueba, antes de construir en serio, si hay un problema real y alguien dispuesto a pagar por resolverlo: convierte los supuestos del plan en hipótesis, las pone a prueba con clientes y decide con esa evidencia si se sigue igual o se cambia de rumbo.
 
-Es la primera parte del tema. Los supuestos que prueba están escritos en el [modelo de negocio](../Modelo-de-negocio/modelo-de-negocio.md), que es donde se ven todos juntos. Cada vuelta de prueba consume caja, así que la cantidad de vueltas posibles la fija la pista de [Finanzas](../Finanzas/finanzas.md). Termina en el [encaje producto-mercado](../Crecimiento/encaje-producto-mercado.md): cuando las hipótesis centrales se sostienen, el trabajo pasa de averiguar a crecer, y eso es [Crecimiento](../Crecimiento/crecimiento.md).
+Es la primera parte del tema. Antes de su recorrido va un paso previo: elegir qué oportunidad validar entre varias, que está en [Oportunidades](Oportunidades/oportunidades.md). Los supuestos que prueba están escritos en el [modelo de negocio](../Modelo-de-negocio/modelo-de-negocio.md), que es donde se ven todos juntos. Cada vuelta de prueba consume caja, así que la cantidad de vueltas posibles la fija la pista de [Finanzas](../Finanzas/finanzas.md). Termina en el [encaje producto-mercado](../Crecimiento/encaje-producto-mercado.md): cuando las hipótesis centrales se sostienen, el trabajo pasa de averiguar a crecer, y eso es [Crecimiento](../Crecimiento/crecimiento.md).
 
 Ries resume el problema que la origina con una frase de su blog: «Very few startups fail for lack of technology. They almost always fail for lack of customers» (2008). Casi todo lo de esta parte es suyo y de Steve Blank. Según resúmenes del libro, la segunda parte de *The Lean Startup*, Steer, tiene cuatro capítulos (Leap, Test, Measure, Pivot) que coinciden con el recorrido de abajo.
 
@@ -74,5 +74,7 @@ Hay también una falla del método entero, con evidencia experimental. Ries advi
 5. [Contabilidad de la innovación](contabilidad-de-la-innovacion.md): medir el avance con métricas accionables, no de vanidad.
 6. [Pivotar o perseverar](pivotar-o-perseverar.md): la decisión, los tipos de pivote y la evidencia experimental sobre pivotar.
 7. [Tamaño de mercado](tamano-de-mercado.md): el TAM del mercado cabeza de playa de Aulet y la tríada TAM, SAM y SOM de la práctica de inversión; un cálculo, no un experimento. Se puede leer en cualquier momento.
+
+Antes de las siete, si todavía no está elegida la oportunidad: [Oportunidades](Oportunidades/oportunidades.md), con sus fuentes, los criterios y la matriz para comparar candidatas, el encaje fundador-mercado y effectuation como contraste.
 
 Para quién compra y por qué, que la validación da por supuesto que hay que averiguar, el tema dueño es [Mercado y cliente](../../Marketing/Mercado-y-cliente/mercado-y-cliente.md).

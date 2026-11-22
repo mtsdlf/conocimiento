@@ -67,9 +67,9 @@ La evidencia directa sobre Lean es delgada. Leatherbee y Katila (2020) estudian 
 
 ## Effectuation
 
-Sarasvathy (2001) contrapone dos lógicas: "Causation rests on a logic of prediction – effectuation on the logic of control." Según fuentes secundarias, sus cinco principios son empezar con lo que se tiene (pájaro en mano), decidir por cuánto se puede perder y no por cuánto se espera ganar (pérdida asumible), construir con aliados que se comprometen (colcha de retazos), aprovechar lo imprevisto (limonada) y concentrarse en lo que se controla (piloto en el avión).
+Sarasvathy (2001) contrapone dos lógicas: "Causation rests on a logic of prediction – effectuation on the logic of control." Sus principios, como empezar con lo que se tiene y decidir por cuánto se puede perder y no por cuánto se espera ganar (pérdida asumible), se desarrollan en [effectuation](../Validacion/Oportunidades/effectuation.md).
 
-Los nombres en castellano son de la base. El meta-análisis de Read, Song y Smit (2009) reúne datos de 9.897 emprendimientos y asocia tres principios con mejor desempeño (según su abstract; cuáles y con qué efecto no se obtuvo). Smolka et al. (2018), con 1.453 emprendedores de 25 países, encuentran según su abstract que los emprendimientos "benefit from using these two entrepreneurial logics in tandem": planificar y actuar con los medios propios a la vez.
+El meta-análisis de Read, Song y Smit (2009) reúne datos de 9.897 emprendimientos y asocia tres principios con mejor desempeño (según su abstract; cuáles y con qué efecto no se obtuvo). Smolka et al. (2018), con 1.453 emprendedores de 25 países, encuentran según su abstract que los emprendimientos "benefit from using these two entrepreneurial logics in tandem": planificar y actuar con los medios propios a la vez.
 
 ## El enfoque científico
 
