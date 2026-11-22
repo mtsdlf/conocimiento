@@ -97,6 +97,7 @@ Zajac y Bazerman (1991), según su abstract, sostienen que los puntos ciegos al 
 - [Ciclo de inteligencia](ciclo-de-inteligencia.md): planificar, recolectar, analizar y entregar.
 - [Fuentes públicas](fuentes-publicas.md): de dónde sale cada dato de un rival y cuánto vale.
   - [Registros públicos argentinos](registros-publicos-argentinos.md): ficha fechada con qué registro da qué dato de una empresa argentina.
+  - [Cuenta de prueba y automatización](cuenta-de-prueba-y-automatizacion.md): qué se ve sin cuenta, cuándo hace falta una prueba propia y cómo recorrer lo público con un navegador automatizado.
 - [Ética y legalidad](etica-y-legalidad.md): qué se puede averiguar y cómo, el código de SCIP y el *scraping* en EE. UU.
   - [Ley argentina y competidores](ley-argentina-y-competidores.md): secretos comerciales, delitos informáticos, datos personales y defensa de la competencia.
 - [Juego de guerra](juego-de-guerra.md): ensayar las jugadas del rival con personas que actúan su papel.

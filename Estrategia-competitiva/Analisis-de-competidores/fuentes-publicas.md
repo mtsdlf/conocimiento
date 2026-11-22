@@ -30,7 +30,7 @@ Porter (1980, cap. 3, p. 71) ya listaba las fuentes de un sistema de inteligenci
 
 ## Qué da cada tipo de fuente
 
-La tabla ordena los tipos de fuente abierta sobre un competidor de software. No se encontró un estudio ni un manual abierto que mida la confiabilidad de cada tipo: las columnas "cuánto vale" y "cómo se sesga" son criterio de esta base, no un dato medido.
+La tabla ordena los tipos de fuente abierta sobre un competidor de software. No se encontró un estudio ni un manual abierto que mida la confiabilidad de cada tipo: las columnas "cuánto vale" y "cómo se sesga" son criterio de esta base, no un dato medido. Dónde se mira cada una sin cuenta, y cómo recorrerlas con un navegador automatizado, está en [cuenta de prueba y automatización](cuenta-de-prueba-y-automatizacion.md).
 
 | Fuente | Qué da | Cuánto vale (criterio propio) | Cómo se sesga |
 |---|---|---|---|
