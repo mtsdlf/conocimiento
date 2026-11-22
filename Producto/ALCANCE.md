@@ -42,6 +42,7 @@ Producto/
     descubrimiento-continuo        entrevistas y pruebas semanales del equipo
     cuatro-riesgos                 valor, usabilidad, factibilidad, viabilidad
     arbol-de-oportunidades         del resultado buscado a las soluciones a probar
+    dar-forma-a-una-solucion       de una solución elegida a una acotada, antes de pantallas
     prueba-de-supuestos            experimentos chicos antes de construir
   Planificacion-y-entrega/       qué se hace primero y cómo llega a la gente
     priorizacion                   RICE, costo de demora, apuestas

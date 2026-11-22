@@ -34,7 +34,7 @@ El ciclo dura seis semanas: "Six weeks is long enough to finish something meanin
 
 | Pieza | Qué es | Cuándo |
 |---|---|---|
-| Shaping | Acotar un problema antes de apostar a él; según el informe de esta base, lo hacen una o dos personas | Antes de la apuesta |
+| Shaping | Acotar un problema antes de apostar a él; según el informe de esta base, lo hacen una o dos personas. La técnica (breadboard, agujeros, pitch) está en [dar forma a una solución](../Descubrimiento/dar-forma-a-una-solucion.md) | Antes de la apuesta |
 | Mesa de apuestas (*betting table*) | "a meeting held during cool-down where stakeholders decide what to do in the next cycle" | Durante el cool-down |
 | Cool-down | La pausa entre ciclos: "after each six-week cycle, we schedule two weeks for cool-down" | Dos semanas después de cada ciclo |
 

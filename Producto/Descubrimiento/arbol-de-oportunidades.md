@@ -51,7 +51,7 @@ Torres lo describe así en Product Talk (2023):
 8. Probá los supuestos más riesgosos.
 9. Decidí: descartar la solución, refinarla para la entrega o cambiar de oportunidad.
 
-Los pasos 7 y 8 son la [prueba de supuestos](prueba-de-supuestos.md); las categorías de supuestos de Torres se parecen a los [cuatro riesgos](cuatro-riesgos.md) de Cagan (comparación en esa nota). Lo que sobrevive al paso 9 pasa a [priorización](../Planificacion-y-entrega/priorizacion.md) (orden de trabajo según esta base, no una fuente). Las entrevistas del paso 1 se conducen como dice [entrevista de usuario](../../UX/Investigacion/entrevista-de-usuario.md), del tema UX.
+Los pasos 7 y 8 son la [prueba de supuestos](prueba-de-supuestos.md); las categorías de supuestos de Torres se parecen a los [cuatro riesgos](cuatro-riesgos.md) de Cagan (comparación en esa nota). Refinar una solución para la entrega, la salida del paso 9, es [dar forma a una solución](dar-forma-a-una-solucion.md). Lo que sobrevive al paso 9 pasa a [priorización](../Planificacion-y-entrega/priorizacion.md) (orden de trabajo según esta base, no una fuente). Las entrevistas del paso 1 se conducen como dice [entrevista de usuario](../../UX/Investigacion/entrevista-de-usuario.md), del tema UX.
 
 ## Los errores que Torres advierte
 
