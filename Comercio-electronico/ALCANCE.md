@@ -20,6 +20,9 @@ preguntas:
   - "¿Qué cambia vender online en Argentina y América Latina: cuotas, medios de pago, normativa?"
   - "¿Qué distingue a un mayorista o distribuidor que vende a otros comercios de una tienda que vende al público, y qué software usa cada eslabón de la cadena?"
   - "¿Cuántas empresas venden al por mayor en Argentina, cuánto pagan por su software y de qué se quejan?"
+  - "¿Qué hace un sistema de gestión de pyme que no hace una plataforma de tiendas, cómo se conecta con la tienda y con Mercado Libre, y dónde suele fallar?"
+  - "Tengo un local y una tienda online en Argentina: ¿cómo comparto el stock, cobro en el mostrador y facturo, y con qué opciones y precios?"
+  - "¿Quién tiene que emitir factura electrónica en Argentina, qué letra de comprobante corresponde y cómo la emite un sistema?"
 aprobado: 2026-11-22
 ---
 
@@ -49,9 +52,24 @@ Comercio-electronico/
     embudo-de-conversion               las etapas y cómo se mide cada una
     carrito-abandonado                 por qué se abandona, con las cifras y su método
     usabilidad-del-checkout            lo que la investigación de Baymard sostiene y sus límites
-  Operaciones-del-comercio/          catálogo, stock, pedidos, envío y última milla, devoluciones (entrada)
-  Venta-en-varios-canales/           tienda física, marketplaces y redes (entrada)
+  Operaciones-del-comercio/          del stock a la entrega (partida el 2026-11-22)
+    operaciones-del-comercio           la cadena de estados; pedido, envío y atención mientras no tengan nota
+    catalogo-y-stock                   variante, SKU, estados del stock y sobreventa
+    devoluciones                       lo que cuestan y lo que obliga la ley
+    Sistemas-de-gestion/               el software que lleva el negocio detrás de la tienda
+      sistemas-de-gestion                qué es un sistema de gestión de pyme, sus módulos y tipos, cómo se elige y cómo falla
+      integracion-con-tiendas-y-marketplaces   cómo se conecta con la tienda y el marketplace, quién manda en el stock, cómo falla
+      sistemas-de-gestion-en-argentina   ficha comparativa fechada: precios, integraciones y reseñas
+      fichas por sistema                 Tango, Dux, Contabilium, Xubio, Colppy, Bsale y los que aparezcan
+    Envios-y-logistica/                (prevista; la escribe otra tanda) transportistas, agregadores, tarifas
+  Venta-en-varios-canales/           tienda propia, marketplaces, redes y local (entrada)
+    Local-fisico-con-caja/             el comercio con local que también vende online
+      local-fisico-con-caja              qué cambia vender con mostrador y online a la vez
+      punto-de-venta                     qué hace un POS y en qué se diferencia del lector de cobro y del sistema de gestión
+      retiro-en-el-local-y-stock-compartido   omnicanalidad práctica: stock por ubicación, retiro, envío desde el local, con su evidencia
+      puntos-de-venta-en-argentina       ficha fechada: POS de las plataformas, lectores de cobro y sus precios
   Normativa/                         lo que regula la venta online (entrada; fichas por país)
+    factura-electronica-de-arca        quién factura, qué comprobante, cómo lo emite un sistema y el controlador fiscal
   Comercio-B2B/                      (a fondo, sumada el 2026-11-22) la venta entre empresas: mayoristas, distribuidores y fabricantes que venden a comercios
     comercio-b2b.md                    entrada: qué la distingue, la cadena y los modelos de software, y cómo se conectan
     cadena-de-distribucion             fabricante, distribuidor, mayorista y minorista: qué hace cada eslabón; canal tradicional y moderno en Argentina
@@ -73,3 +91,5 @@ Comercio-electronico/
 - La investigación de pagos separó las cuotas (financiación) de los medios locales (rieles de pago), que el árbol aprobado juntaba.
 - Sumado a pedido de la persona el 2026-11-22: la vertical Comercio-B2B, a fondo. Los rasgos del B2B (precio, crédito, pedido, preventa, factura) son componentes y no una sola nota, porque cada uno se enlaza solo desde las fichas y desde el análisis de un mercado. El método de la base pone «B2B» como ejemplo de corte transversal y no de parte; acá se tomó como vertical porque, en este dominio, vender a otra empresa tiene su propia cadena, su propio software y su propia operación (precio por cliente, crédito, preventa, factura), con notas que no se repiten en las otras verticales. La factura entre empresas vive en esta vertical y no en Normativa porque es parte de cómo se vende entre empresas; Normativa la enlaza. Las fichas se agrupan por modelo de software y no por empresa, para no chocar con las fichas de sistemas de gestión que pueda tener otra vertical. El marketing a empresas sigue en [Marketing B2B](../Marketing/Canales/marketing-b2b.md) y la venta consultiva en Ventas: esta vertical trata la operación de vender a comercios, no cómo se les hace publicidad ni cómo se cierra una venta compleja.
 - Sumado a pedido de la persona: las apps para comerciantes, porque uno de los ejemplos de mercado (Escalafy) es una app que vive dentro de las plataformas y no una plataforma; con fichas de Escalafy y de sus alternativas con más presencia.
+- Ampliado el 2026-11-22 (tanda 1 de un mapa de oportunidades, plan aprobado por la persona): Operaciones del comercio se partió en componentes, con la subcarpeta Sistemas de gestión; Venta en varios canales suma la subcarpeta Local físico con caja; Normativa suma la factura electrónica de ARCA como nota propia, y la ficha argentina la resume y enlaza. Envíos y logística queda prevista como subcarpeta de Operaciones, sin escribir. El pedido, el envío y la atención siguen en la entrada de Operaciones hasta tener nota.
+- Las notas que salieron enteras de la entrada de Operaciones (catálogo y stock, devoluciones) conservan su estado `vigente`, porque su texto es el que la persona ya confirmó; lo nuevo entra como `borrador`.
