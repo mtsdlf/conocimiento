@@ -73,4 +73,5 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 ## Animales
 
+- [Adiestramiento canino](Adiestramiento-canino/adiestramiento-canino.md) — educar al perro de la casa, con foco en el teckel: cómo aprende, las técnicas y herramientas (ahorque incluido), las habilidades de todos los días, los problemas de conducta y la columna de la raza, con la evidencia de cada idea.
 - [Gecko leopardo](Gecko-leopardo/gecko-leopardo.md) — cuidado del gecko leopardo en terrario: qué necesita, cómo se nota que está bien o mal y qué hacer.
