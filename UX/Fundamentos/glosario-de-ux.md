@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos, siglas y nombres propios que usan las notas de UX, cada uno con una definición corta y la nota que lo desarrolla, más las marcas con que se dice cuánto se leyó de cada fuente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -9,7 +9,7 @@ fuentes:
   - "UX/.investigacion/ (los seis informes)"
 aliases: [glosario, términos de UX, vocabulario de UX, siglas de UX, marcas de lectura]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Glosario de UX

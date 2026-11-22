@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La historia de UX reúne fechas con fuente, de la ergonomía y el libro de Card, Moran y Newell (1983) a la norma ISO 9241-210 de 2019 y las pautas WCAG 2.2. Lo que no se pudo verificar, como el año exacto en que Norman acuñó el término "experiencia de usuario", se dice como tal.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ISO 9241-210:2019, §3.5, que cita ISO 6385:2016, 2.3 (vista previa pública): https://cdn.standards.iteh.ai/samples/77520/8cac787a9e1549e1a7ffa0171dfa33e0/ISO-9241-210-2019.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "UX/.investigacion/fundamentos.md, sección 3; UX/.investigacion/percepcion-y-decision.md; UX/.investigacion/diseno-visual-y-accesibilidad.md"
 aliases: [historia de UX, historia del diseño de experiencia de usuario, cronología de UX, origen del término UX]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Historia de UX

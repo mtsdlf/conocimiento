@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La accesibilidad es el diseño de productos que pueda usar cualquiera, con o sin discapacidad, en cualquier situación. Pone requisitos verificables a la interacción y al diseño visual, y su estado real en la web es malo: casi todas las páginas de inicio fallan en algo detectable.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OMS, Disability (hoja informativa, 7 de marzo de 2023): https://www.who.int/news-room/fact-sheets/detail/disability-and-health"
@@ -11,7 +11,7 @@ fuentes:
   - "UX/.investigacion/diseno-visual-y-accesibilidad.md"
 aliases: [accesibilidad web, a11y, diseño inclusivo, accesibilidad digital]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Accesibilidad

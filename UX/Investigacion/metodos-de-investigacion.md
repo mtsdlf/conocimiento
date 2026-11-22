@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los métodos de investigación de UX se eligen por la pregunta que hay que contestar y por la fase del producto: generativos para descubrir qué diseñar, evaluativos para comprobar una solución. NN/g los ordena por si miden lo que la gente dice o lo que hace, y si contestan por qué o cuántos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "NN/g, When to Use Which User-Experience Research Methods: https://www.nngroup.com/articles/which-ux-research-methods/ (leída a través del resumen de una herramienta; el gráfico de 20 métodos es una imagen)"
@@ -10,7 +10,7 @@ fuentes:
   - "UX/.investigacion/investigacion-y-evaluacion.md"
 aliases: [métodos de UX research, qué método usar, user research methods]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Métodos de investigación

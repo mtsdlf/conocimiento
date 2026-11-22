@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La navegación es el sistema con el que una persona se mueve por la estructura de un producto: sus tipos (global, local, migas de pan) se eligen para que las etiquetas anticipen bien el destino, algo que según NN/g importa más que cualquier regla de conteo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "NN/g, Pernice y Budiu, Hamburger Menus and Hidden Navigation Hurt UX Metrics, 26 de junio de 2016: https://www.nngroup.com/articles/hamburger-menus/"
@@ -15,7 +15,7 @@ fuentes:
   - "UX/.investigacion/arquitectura-e-interaccion.md y UX/.investigacion/posicion-contraria.md"
 aliases: [navegación global, navegación local, migas de pan, breadcrumbs, information scent, olor de información]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Navegación

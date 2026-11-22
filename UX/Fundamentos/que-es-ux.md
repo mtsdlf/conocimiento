@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La experiencia de usuario (UX) es, según ISO 9241-210, lo que el usuario percibe y responde al usar o prever el uso de un sistema, producto o servicio; la interfaz (UI) es una de sus causas y la usabilidad, una calidad medible dentro de ella. Diseño de interacción, HCI, experiencia de cliente, diseño de servicios y diseño de producto son vecinos con fronteras propias.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ISO 9241-210:2019, Ergonomics of human-system interaction, Part 210: Human-centred design for interactive systems, §3 (vista previa pública): https://cdn.standards.iteh.ai/samples/77520/8cac787a9e1549e1a7ffa0171dfa33e0/ISO-9241-210-2019.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "UX/.investigacion/fundamentos.md, sección 2"
 aliases: [UX vs UI, definición de UX, diferencia entre UX y UI, UX y CX, HCI, interacción humano-computadora, diseño de interacción, diseño de servicios]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Qué es UX

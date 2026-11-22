@@ -1,7 +1,7 @@
 ---
 resumen: >-
   WCAG 2.2 es la recomendación del W3C que fija criterios verificables para que el contenido web sea perceptible, operable, comprensible y robusto. El W3C desaconseja exigir el nivel AAA como política general, y WCAG 3.0 sigue en borrador.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "W3C, Web Content Accessibility Guidelines (WCAG) 2.2, Recomendación del 12 de diciembre de 2024 (leída en parte): https://www.w3.org/TR/WCAG22/"
@@ -13,7 +13,7 @@ fuentes:
   - "UX/.investigacion/diseno-visual-y-accesibilidad.md"
 aliases: [WCAG 2.2, Web Content Accessibility Guidelines, pautas de accesibilidad para el contenido web]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # WCAG

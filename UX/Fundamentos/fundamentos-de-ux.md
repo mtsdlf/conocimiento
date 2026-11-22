@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema UX sin ser una de sus partes: qué es la experiencia de usuario y dónde termina, de dónde salen sus ideas, qué escuelas compiten y con qué evidencia, qué leer según la necesidad, cuánto pesa cada fuente, qué mitos desmiente la evidencia y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ISO 9241-210:2019, Ergonomics of human-system interaction, Part 210 (vista previa pública): https://cdn.standards.iteh.ai/samples/77520/8cac787a9e1549e1a7ffa0171dfa33e0/ISO-9241-210-2019.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "UX/.investigacion/fundamentos.md y UX/.investigacion/posicion-contraria.md"
 aliases: [fundamentos de UX, fundamentos, UX transversal]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fundamentos de UX

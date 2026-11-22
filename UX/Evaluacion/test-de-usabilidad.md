@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El test de usabilidad es el método en que un facilitador pide tareas realistas a un participante parecido al usuario real y observa dónde se traba. Con pocos participantes sirve para encontrar y corregir los problemas más frecuentes de un grupo homogéneo, no para garantizar que se encontraron todos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "NN/g, Usability Testing 101: https://www.nngroup.com/articles/usability-testing-101/ (leída a través del resumen de una herramienta)"
@@ -15,7 +15,7 @@ fuentes:
   - "UX/.investigacion/investigacion-y-evaluacion.md y UX/.investigacion/posicion-contraria.md"
 aliases: [test de usuarios, prueba de usabilidad, usability testing, test con usuarios]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Test de usabilidad

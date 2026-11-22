@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Con el criterio de esta base, en UX las normas y los papers con método mandan sobre los institutos con método declarado, y estos sobre los blogs y las consultoras con autoinforme. Las guías de plataforma y los sistemas de diseño públicos sirven como ejemplo de práctica, no como evidencia. La norma ISO 9241 es de pago; WCAG, la mayoría de los artículos de NN/g y Atomic Design son gratuitos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hornbæk, Sander, Bargas-Avila y Simonsen (2014), Is once enough? On the extent and content of replications in human-computer interaction, CHI 2014, DOI 10.1145/2556288.2557004: https://research.google.com/pubs/archive/42512.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "UX/.investigacion/fundamentos.md, sección 5; UX/.investigacion/posicion-contraria.md"
 aliases: [peso de las fuentes, jerarquía de evidencia en UX, tipos de fuente, evidencia en UX, qué es de pago en UX]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fuentes de UX

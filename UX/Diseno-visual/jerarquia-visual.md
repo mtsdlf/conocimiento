@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La jerarquía visual es la organización de los elementos de una página para que el ojo recorra primero lo más importante. Se arma con contraste, escala y agrupamiento, y falla cuando todo pesa igual.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "NN/g, Visual Hierarchy in UX: https://www.nngroup.com/articles/visual-hierarchy-ux-definition/"
@@ -11,7 +11,7 @@ fuentes:
   - "UX/.investigacion/diseno-visual-y-accesibilidad.md"
 aliases: [jerarquía visual, patrón en F, F-pattern, visual hierarchy]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Jerarquía visual

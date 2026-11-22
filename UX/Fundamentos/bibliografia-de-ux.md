@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de UX ordenadas por necesidad (general, conversión y marketing digital, e-commerce, software de negocio): la obra con su edición y año, qué parte leer, si es evidencia, norma, práctica o libro de texto, y cuánto se leyó para armar la base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "UX/.investigacion/fundamentos.md, secciones 1 a 6 (tabla de libros con edición y año)"
@@ -14,7 +14,7 @@ fuentes:
   - "Baymard Institute, metodología: https://baymard.com/research/methodology"
 aliases: [lecturas de UX, bibliografía, libros de UX, reading list UX, por dónde empezar en UX]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Bibliografía de UX

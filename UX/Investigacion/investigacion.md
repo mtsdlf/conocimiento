@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La investigación de UX averigua quién usa un producto, para qué tarea y en qué contexto, antes de diseñar y cada vez que una evaluación desmiente lo que se creía. Se divide en investigación generativa, que descubre qué diseñar, y evaluativa, que comprueba si lo diseñado funciona.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "NN/g, When to Use Which User-Experience Research Methods: https://www.nngroup.com/articles/which-ux-research-methods/ (leída a través del resumen de una herramienta)"
@@ -10,7 +10,7 @@ fuentes:
   - "UX/.investigacion/investigacion-y-evaluacion.md"
 aliases: [investigación de usuarios, user research, UX research, investigación de UX]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Investigación

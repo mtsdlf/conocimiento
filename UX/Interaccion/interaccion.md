@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La interacción es la parte de la experiencia que decide cómo se usa un producto: qué controles ofrece, cómo responde a cada acción y cómo ayuda a evitar y corregir errores.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Jenny Preece, Yvonne Rogers y Helen Sharp, Interaction Design: Beyond Human-Computer Interaction (resumen en https://oro.open.ac.uk/47656)"
@@ -12,7 +12,7 @@ fuentes:
   - "UX/.investigacion/arquitectura-e-interaccion.md y UX/.investigacion/fundamentos.md, sección 5"
 aliases: [diseño de interacción, interaction design, IxD]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Interacción

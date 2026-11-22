@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Percepción y decisión reúne lo que se sabe de cómo la gente entiende, recuerda y elige frente a una pantalla. Dice qué es fácil y qué es caro para una mente, y dónde termina la persuasión legítima.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Norman, The Design of Everyday Things (ed. revisada, 2013), a través de NN/g: https://www.nngroup.com/articles/two-ux-gulfs-evaluation-execution/"
@@ -12,7 +12,7 @@ fuentes:
   - "UX/.investigacion/percepcion-y-decision.md"
 aliases: [psicología del usuario, factores humanos, cognición y diseño]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Percepción y decisión

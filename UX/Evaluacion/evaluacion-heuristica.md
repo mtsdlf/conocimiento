@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación heurística es la revisión de una interfaz por varios evaluadores que, cada uno por su cuenta, la comparan con principios de usabilidad, las diez heurísticas de Nielsen. Detecta problemas sin participantes y encuentra otros distintos de los del test de usabilidad, al que no reemplaza.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "NN/g, 10 Usability Heuristics for User Interface Design (Nielsen, publicada el 24-4-1994; revisada por última vez el 30-1-2024): https://www.nngroup.com/articles/ten-usability-heuristics/ (leída a través del resumen de una herramienta; las glosas son de esta base)"
@@ -12,7 +12,7 @@ fuentes:
   - "UX/.investigacion/investigacion-y-evaluacion.md y UX/.investigacion/posicion-contraria.md"
 aliases: [heurísticas de Nielsen, diez heurísticas, heuristic evaluation, revisión experta]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Evaluación heurística

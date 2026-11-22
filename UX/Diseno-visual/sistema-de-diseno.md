@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un sistema de diseño es el conjunto de estándares, componentes reutilizables y patrones con que una organización gestiona su diseño a escala. Rinde cuando hay años de trabajo repetible por delante, y falla si nadie lo mantiene.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "NN/g, Design Systems 101: https://www.nngroup.com/articles/design-systems-101/"
@@ -14,7 +14,7 @@ fuentes:
   - "UX/.investigacion/diseno-visual-y-accesibilidad.md"
 aliases: [design system, sistema de diseño, biblioteca de componentes, design tokens, token de diseño, atomic design]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Sistema de diseño

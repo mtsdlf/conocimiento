@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las métricas de UX se dividen en dos familias que contestan preguntas distintas: las de un test con personas (éxito de tarea, tiempo, SUS), que cuantifican lo que pasó en esas sesiones, y las de comportamiento a escala (HEART, experimento A/B), que dicen cuántos y cuánto. El NPS es un cuestionario de lealtad declarada y se discute aparte.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "MeasuringU (Sauro), SUS: https://measuringu.com/sus/ (leída a través del resumen de una herramienta)"
@@ -14,7 +14,7 @@ fuentes:
   - "UX/.investigacion/investigacion-y-evaluacion.md y UX/.investigacion/posicion-contraria.md"
 aliases: [métricas de usabilidad, UX metrics, SUS, System Usability Scale, HEART, NPS, Net Promoter Score]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Métricas de UX

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ley de Fitts predice cuánto tarda un movimiento apuntado a un blanco, y la de Hick cuánto tarda elegir entre alternativas. Fitts tiene respaldo en diseño de interfaces; Hick no justifica por sí sola que menos opciones sea mejor.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "I. Scott MacKenzie (1992), Fitts' law as a research and design tool in human-computer interaction, Human-Computer Interaction 7, 91-139 (copia del autor, leída en parte): https://www.yorku.ca/mack/hci1992.html"
@@ -13,7 +13,7 @@ fuentes:
   - "UX/.investigacion/percepcion-y-decision.md y UX/.investigacion/posicion-contraria.md"
 aliases: [Fitts' law, Hick's law, ley de Hick-Hyman, Hick-Hyman, índice de dificultad]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Leyes de Fitts y Hick

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El diseño visual es la capa de superficie de la experiencia: lo que la persona ve, con su jerarquía, tipografía, color y grilla. Condiciona cuánto parece usable un producto, pero no arregla un problema de estructura, de interacción o de estrategia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Jesse James Garrett, The Elements of User Experience (2.ª ed., 2010), cap. 2 y capítulo del plano de superficie; leído solo por resúmenes de cátedra: https://mason.gmu.edu/~gprimera/375/module5-page2.html"
@@ -17,7 +17,7 @@ fuentes:
   - "UX/.investigacion/posicion-contraria.md"
 aliases: [UI, diseño de interfaces, diseño gráfico de interfaces, plano de superficie]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Diseño visual

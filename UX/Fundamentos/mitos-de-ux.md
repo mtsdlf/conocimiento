@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de UX son reglas y cifras que circulan como hechos (tres clics, cinco usuarios, 7±2 opciones, "la gente no lee", un retorno de 100 a 1) sin estudio detrás o contra lo que miden los estudios. Cada mito tiene su origen, lo que dice la evidencia y la nota del tema donde se trata.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "NN/g, The 3-Click Rule for Navigation Is False: https://www.nngroup.com/articles/3-click-rule/"
@@ -19,7 +19,7 @@ fuentes:
   - "UX/.investigacion/posicion-contraria.md; UX/.investigacion/fundamentos.md, sección 0"
 aliases: [mitos de UX, reglas falsas de UX, myths UX, tres clics, cinco usuarios, regla de los tres clics, 7±2, ROI de UX]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mitos de UX

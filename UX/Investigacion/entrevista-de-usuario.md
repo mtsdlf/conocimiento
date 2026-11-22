@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La entrevista de usuario es un método generativo y actitudinal: una conversación guiada con una persona para entender su contexto, sus tareas y sus motivos. Captura lo que la persona dice de su conducta, no lo que hace, y por eso se completa con observación o datos de uso.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "NN/g, User Interviews 101: https://www.nngroup.com/articles/user-interviews/ (leída a través del resumen de una herramienta)"
@@ -13,7 +13,7 @@ fuentes:
   - "UX/.investigacion/investigacion-y-evaluacion.md y UX/.investigacion/posicion-contraria.md"
 aliases: [entrevista a usuarios, user interview, entrevista de investigación, entrevista semiestructurada]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Entrevista de usuario

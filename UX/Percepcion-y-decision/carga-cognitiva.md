@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La carga cognitiva de una interfaz es el esfuerzo mental que exige usarla. Se reduce quitando el procesamiento que no ayuda a la tarea, y no depende de un número mágico de elementos por pantalla.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "George A. Miller (1956), The Magical Number Seven, Plus or Minus Two, Psychological Review 63, 81-97: https://psychclassics.yorku.ca/Miller/"
@@ -13,7 +13,7 @@ fuentes:
   - "UX/.investigacion/percepcion-y-decision.md y UX/.investigacion/posicion-contraria.md"
 aliases: [cognitive load, carga mental, memoria de trabajo, regla de 7±2, número mágico siete]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Carga cognitiva

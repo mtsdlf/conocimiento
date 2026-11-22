@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La arquitectura de información decide cómo se agrupa, se nombra y se encuentra el contenido de un producto: es la estructura y el vocabulario que la interacción después recorre.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Louis Rosenfeld, Peter Morville y Jorge Arango, Information Architecture: For the Web and Beyond, 4.ª ed., O'Reilly, octubre de 2015 (solo índice y ficha, vía https://www.oreilly.com/library/view/information-architecture-4th/9781491913529/part02.html)"
@@ -11,7 +11,7 @@ fuentes:
   - "UX/.investigacion/arquitectura-e-interaccion.md"
 aliases: [AI, information architecture, IA]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Arquitectura de información

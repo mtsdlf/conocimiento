@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El diseño de experiencia de usuario (UX) es el trabajo de decidir cómo percibe, entiende y usa la gente un producto digital, y de comprobar con personas reales que esas decisiones funcionan; la interfaz (UI) es solo una de las causas de la experiencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ISO 9241-210:2019, Ergonomics of human-system interaction, Part 210: Human-centred design for interactive systems, §3, §4 y §5 (vista previa pública)"
@@ -10,7 +10,7 @@ fuentes:
   - "UX/.investigacion/"
 aliases: [UX, UI, UX/UI, experiencia de usuario, diseño de experiencia de usuario, diseño de interfaces, user experience]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # UX

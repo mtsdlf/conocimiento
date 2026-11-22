@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El diseño centrado en el usuario (ISO 9241-210; Gould y Lewis, 1985) es la columna de esta base; el design thinking, Lean UX, el diseño centrado en la actividad y la optimización por experimentos (CRO) son las corrientes de contraste. En lo que se encontró, ninguna tiene evidencia experimental sólida a su favor: la de cada una es de caso, de correlación o de argumento.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ISO 9241-210:2019, §5.1 y Tabla 1 (vista previa pública): https://cdn.standards.iteh.ai/samples/77520/8cac787a9e1549e1a7ffa0171dfa33e0/ISO-9241-210-2019.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "UX/.investigacion/fundamentos.md, sección 4; UX/.investigacion/posicion-contraria.md"
 aliases: [escuelas de UX, corrientes de UX, design thinking vs UX, Lean UX, diseño centrado en la actividad, CRO, optimización de conversión, human-centred design]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Escuelas de UX

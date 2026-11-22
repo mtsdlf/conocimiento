@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación comprueba si un diseño funciona, con tres tipos de evidencia: observar a personas usándolo, revisarlo contra principios de usabilidad y medir su rendimiento. Cada una encuentra problemas distintos, así que se combinan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "NN/g, Usability Problems Found by Heuristic Evaluation (resume a Nielsen 1992): https://www.nngroup.com/articles/usability-problems-found-by-heuristic-evaluation/ (leída a través del resumen de una herramienta)"
@@ -11,7 +11,7 @@ fuentes:
   - "UX/.investigacion/investigacion-y-evaluacion.md"
 aliases: [evaluar UX, evaluación de usabilidad, usability evaluation]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Evaluación

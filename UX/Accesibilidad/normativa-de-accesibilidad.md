@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ficha de las normas que exigen accesibilidad digital en la Unión Europea (Directiva 2019/882), Estados Unidos (regla del Departamento de Justicia bajo la ADA) y Argentina (Ley 26.653), copiada el 2026-11-22. Es información general y no reemplaza asesoramiento legal.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Directiva (UE) 2019/882, EUR-Lex: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882 y https://eur-lex.europa.eu/eli/dir/2019/882/oj/eng"
@@ -14,7 +14,7 @@ fuentes:
   - "UX/.investigacion/diseno-visual-y-accesibilidad.md"
 aliases: [European Accessibility Act, EAA, ADA, Ley 26.653, marco legal de accesibilidad]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Normativa de accesibilidad

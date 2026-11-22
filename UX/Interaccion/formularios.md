@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un formulario funciona mejor con etiquetas visibles fuera del campo, validación en línea cuidada y la menor cantidad de campos posible; los estudios que lo sostienen son chicos o de instituto, y por eso sus cifras se leen como indicativas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Matteo Penzo, Label Placement in Forms, UXmatters, 12 de julio de 2006: https://www.uxmatters.com/mt/archives/2006/07/label-placement-in-forms.php"
@@ -14,7 +14,7 @@ fuentes:
   - "UX/.investigacion/arquitectura-e-interaccion.md"
 aliases: [formulario, formularios web, validación en línea, checkout, form design]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Formularios

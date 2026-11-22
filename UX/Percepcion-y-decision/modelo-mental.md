@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El modelo mental es lo que una persona cree que hace un sistema y cómo lo hace. Cuando difiere del funcionamiento real o de lo que el diseñador supone, la persona se equivoca o no entiende qué pasó.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "NN/g, Megan Chan, Mental Models (26 de enero de 2024; actualiza un texto de Nielsen de 2010): https://www.nngroup.com/articles/mental-models/"
@@ -11,7 +11,7 @@ fuentes:
   - "UX/.investigacion/percepcion-y-decision.md"
 aliases: [mental model, modelo conceptual, imagen del sistema, golfo de ejecución, golfo de evaluación]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Modelo mental

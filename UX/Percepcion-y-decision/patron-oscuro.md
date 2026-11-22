@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un patrón oscuro es un diseño de interfaz que lleva a la persona a decidir lo que no habría decidido y que puede dañarla. La frontera con la persuasión legítima es disputada: los autores no coinciden en si importa la intención, el engaño o el daño.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Mathur, Acar, Friedman, Lucherini, Mayer, Chetty y Narayanan (2019), Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites, CSCW 3, art. 81: https://arxiv.org/abs/1907.07032"
@@ -14,7 +14,7 @@ fuentes:
   - "UX/.investigacion/percepcion-y-decision.md"
 aliases: [dark pattern, dark patterns, deceptive design, diseño engañoso, patrones oscuros]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Patrón oscuro

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los principios de interacción son el criterio con que se juzga si una interfaz se entiende y se controla: el concepto de significante de Norman (con su corrección sobre affordance), los siete principios de la norma ISO 9241-110 y los tres umbrales de tiempo de respuesta de 0,1, 1 y 10 segundos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ISO 9241-110:2020, Ergonomics of human-system interaction, Part 110: Interaction principles, cláusula 4.1 (muestra pública: https://cdn.standards.iteh.ai/samples/75258/83c8cf072187487686645aad04eff40e/ISO-9241-110-2020.pdf; ficha: https://www.iso.org/standard/75258.html)"
@@ -11,7 +11,7 @@ fuentes:
   - "UX/.investigacion/arquitectura-e-interaccion.md"
 aliases: [principios de diálogo, ISO 9241-110, affordance, significante, signifier, tiempos de respuesta]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Principios de interacción
