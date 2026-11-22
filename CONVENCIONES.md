@@ -51,6 +51,8 @@ flowchart LR
 
 El repo donde está abierta la sesión no decide a dónde va algo: si en una sesión de `marketing` o de una empresa sale un tema general, se escribe en `conocimiento`. Hacia abajo se enlaza, no se copia. Hacia arriba sube, sin nombres de empresas ni de clientes, lo que dejó de ser de una sola empresa: a `conocimiento` si es saber, y a `marketing`, con un issue con el label `propuesta`, si cambia el método. La experiencia propia se cita como `experiencia propia, <mes y año>, <tipo de empresa>`.
 
+**La base también se lee.** `conocimiento` no es solo destino: antes de una tarea que pide saber general (una propuesta, un precio, un canal, la competencia) se lee la nota que le toca, y qué nota lee cada tarea lo dice la sección «Qué leer de la base» del `AGENTS.md` de cada repo; si no está, `conocimiento.md` y la entrada del tema. El clon está adentro de `~/repos`, en cualquier subcarpeta (por ejemplo `~/repos/personal/conocimiento`), y una URL `github.com/mtsdlf/conocimiento/blob/main/<ruta>` se lee en el clon, en `<ruta>`.
+
 ```yaml revisar
 ignorar: []
 ```

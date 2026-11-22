@@ -62,7 +62,7 @@ La cifra de abandono por complejidad difiere según la página, y esta base da l
 | 22 % | otra página de Baymard, según el buscador |
 | 17 % ("have abandoned due to checkout complexity") | página de 2024, leída; cita su estudio premium GC050 sin tamaño de muestra |
 
-En su lista de abandono de carrito, Baymard promedia 70,22 % sobre 50 estudios publicados entre 2006 y 2025, sin contar "solo estaba mirando". Los motivos: costos extra, 40 %; entrega lenta, 20 %; desconfianza en la tarjeta, 19 %; pedían crear cuenta, 18 %; proceso largo o complicado, 17 %; errores del sitio, 17 %; devoluciones, 13 %; no ver el total, 12 %; tarjeta rechazada, 10 %; pocos medios de pago, 9 %. La página no da la muestra ni la fecha de la encuesta de motivos. Baymard es un instituto con método propio y de pago; en lo leído no hay revisión de pares ni auditoría independiente de sus cifras.
+El abandono de carrito y sus motivos declarados, con las cifras de Baymard, su muestra y sus límites, están en [carrito abandonado](../../Comercio-electronico/Checkout-y-conversion/carrito-abandonado.md) y en la ficha de [cifras de checkout y conversión](../../Comercio-electronico/Checkout-y-conversion/cifras-de-checkout-y-conversion.md), del tema Comercio electrónico.
 
 ## Placeholders: por qué no reemplazan a la etiqueta
 
