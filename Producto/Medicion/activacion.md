@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La activación es el momento en que un usuario nuevo llega por primera vez al valor del producto, y la métrica de activación es la acción o el umbral que lo marca. Se busca comparando qué hicieron al principio los usuarios que se quedaron y los que se fueron, y se confirma probando si provocar ese comportamiento retiene más.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Andrew Chen, My Quora answer to: How do you find insights like Facebook's 7 friends in 10 days: https://andrewchen.com/my-quora-answer-to-how-do-you-find-insights-like-facebooks-7-friends-in-10-days-to-grow-your-product-faster/"
@@ -11,7 +11,7 @@ fuentes:
   - "Producto/.investigacion/medicion-y-monetizacion.md"
 aliases: [activation, métrica de activación, activation metric, aha moment, momento ajá]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Activación

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estrategia de producto fija a dónde va el producto y qué no va a hacer: una visión del futuro a años, una elección de pocos problemas que atacar ahora y los resultados con los que se juzga si se avanzó.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Marty Cagan, The Product Operating Model: An Introduction (SVPG): https://www.svpg.com/the-product-operating-model-an-introduction/"
@@ -14,7 +14,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md"
 aliases: [product strategy, estrategia de producto (vertical)]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Estrategia

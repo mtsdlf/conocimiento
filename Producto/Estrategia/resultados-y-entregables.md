@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un entregable es lo que un equipo produce, como una funcionalidad; un resultado es un cambio en lo que hacen los usuarios que le sirve al negocio. La escuela de equipos empoderados propone juzgar a los equipos por resultados, sin estudios que comparen y con el riesgo de que la métrica elegida se desvíe.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Outcome Over Output: https://www.martinfowler.com/bliki/OutcomeOverOutput.html"
@@ -17,7 +17,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md"
 aliases: [outcome vs output, outcomes over output, resultados vs entregables, build trap, feature factory, fábrica de funcionalidades]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Resultados y entregables

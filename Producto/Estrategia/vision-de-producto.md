@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La visión de producto describe el futuro que la empresa quiere crear para sus clientes, a varios años, y sirve para convencer y orientar, no para especificar. Es la capa más estable de la estrategia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Marty Cagan, Product Vision FAQ (SVPG): https://www.svpg.com/product-vision-faq/"
@@ -14,7 +14,7 @@ fuentes:
   - "Producto/.investigacion/estrategia.md"
 aliases: [product vision, visión del producto]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Visión de producto

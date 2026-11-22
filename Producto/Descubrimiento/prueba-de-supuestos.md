@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La prueba de supuestos desarma una solución en lo que tiene que ser cierto para que funcione y evalúa primero los supuestos más riesgosos con actividades chicas, antes de construir la solución.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Teresa Torres, Assumption testing (Product Talk, 2023): https://www.producttalk.org/2023/10/assumption-testing/"
@@ -17,7 +17,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmaciones 2 y 5)"
 aliases: [assumption testing, testear supuestos, experimentos de descubrimiento, fake door, Wizard of Oz, concierge]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Prueba de supuestos

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos, siglas y nombres propios que usan las notas de producto, cada uno con una definición corta y la nota que lo desarrolla, más las marcas con que se dice cuánto se leyó de cada fuente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -13,7 +13,7 @@ fuentes:
   - "Producto/.investigacion/organizacion-y-fundamentos.md, sección 3.5; Producto/.investigacion/estrategia.md; Producto/.investigacion/descubrimiento.md; Producto/.investigacion/plataformas.md; Producto/.investigacion/medicion-y-monetizacion.md"
 aliases: [glosario, términos de producto, vocabulario de product management, siglas de producto]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Glosario de producto

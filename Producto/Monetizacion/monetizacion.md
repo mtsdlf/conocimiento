@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La monetización es la parte de producto que decide cómo cobra el producto: por qué unidad se cobra, qué entra en cada plan y qué se regala para vender el resto. La escuela que más se cita sostiene que el precio se diseña junto con el producto y no al final, una tesis de practicantes sin estudio independiente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Madhavan Ramanujam y Georg Tacke, Monetizing Innovation (Wiley, 2016), índice: https://ebooks.mpdl.mpg.de/ebooks/Record/EB001935873/TOC"
@@ -13,7 +13,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmación 7)"
 aliases: [monetization, monetizar, modelo de precios, pricing de producto]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Monetización

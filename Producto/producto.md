@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Producto es el trabajo de decidir qué construir, para quién y por qué en un producto digital que dura, y de comprobar que lo construido le resuelve algo a quien lo usa y le sirve al negocio que lo paga.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Products Over Projects (2019): https://martinfowler.com/articles/products-over-projects.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Producto/.investigacion/"
 aliases: [product management, gestión de producto, product, producto digital, gestión de productos digitales]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Producto

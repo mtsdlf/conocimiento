@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Planificación y entrega es la parte de producto que decide qué se hace primero y cómo llega a la gente: ordena lo que el descubrimiento dejó como digno de construir y lo pone en manos de los usuarios de forma controlada.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Sean McBride, RICE: Simple prioritization for product managers (Intercom, 2018-01-05): https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/"
@@ -15,7 +15,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md"
 aliases: [planning and delivery, planificación de producto, product planning]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Planificación y entrega

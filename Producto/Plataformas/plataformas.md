@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una plataforma es un producto que junta a dos o más grupos que se necesitan entre sí, como comerciantes, compradores y desarrolladores de apps, y cobra por facilitar lo que pasa entre ellos. Su valor depende de cuántos y quiénes hay del otro lado, y eso cambia las reglas de la estrategia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Geoffrey Parker, Marshall Van Alstyne y Sangeet Paul Choudary, Platform Revolution, W. W. Norton (2016), índice: https://toc.uni.li/FLMF051021.pdf (solo se leyó el índice)"
@@ -14,7 +14,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmación 6)"
 aliases: [platforms, plataforma, plataforma digital, plataforma multilateral, multi-sided platform]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Plataformas

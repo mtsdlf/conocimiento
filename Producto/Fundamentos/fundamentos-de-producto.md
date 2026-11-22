@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Producto sin ser una de sus partes: qué es un producto y en qué se diferencia de un proyecto y de un servicio, de dónde viene la función, qué escuelas compiten y con qué evidencia, qué leer según la necesidad, cuánto pesa cada fuente, qué mitos desmiente la evidencia y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Products Over Projects (2019): https://martinfowler.com/articles/products-over-projects.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Producto/.investigacion/organizacion-y-fundamentos.md, sección 3; Producto/.investigacion/posicion-contraria.md; Producto/.investigacion/estrategia.md, sección 0"
 aliases: [fundamentos de producto, fundamentos, producto transversal]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fundamentos de producto

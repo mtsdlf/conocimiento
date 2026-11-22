@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La gestión de producto se suele hacer nacer en un memo de Procter & Gamble de 1931 sobre gestores de marca, pasa al software con los roles de Microsoft y el programa de product managers asociados de Google, y desde 2017 se reordena alrededor del "modelo de producto" de Cagan, Perri y Torres. Casi todas las fechas vienen de fuentes secundarias que discrepan entre sí.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Branding Strategy Insider, The Birth of Brand Management: https://brandingstrategyinsider.com/the-birth-of-brand-management/ (resumen)"
@@ -17,7 +17,7 @@ fuentes:
   - "Producto/.investigacion/organizacion-y-fundamentos.md, secciones 1 y 3.1; Producto/.investigacion/descubrimiento.md, sección 1; Producto/.investigacion/estrategia.md, secciones 0 y 3"
 aliases: [historia de la gestión de producto, history of product management, brand man, memo de McElroy, Google APM]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Historia de producto

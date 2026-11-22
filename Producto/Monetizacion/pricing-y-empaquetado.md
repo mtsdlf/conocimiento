@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El pricing y empaquetado decide cuánto cuesta un producto, por qué unidad se cobra (asiento, uso o resultado) y qué entra en cada plan. Monetizing Innovation sostiene que se diseña antes que el producto; la tesis es de una consultora de precios y no tiene estudio independiente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Madhavan Ramanujam y Georg Tacke, Monetizing Innovation (Wiley, 2016), índice: https://ebooks.mpdl.mpg.de/ebooks/Record/EB001935873/TOC"
@@ -17,7 +17,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmación 7)"
 aliases: [pricing, packaging, pricing and packaging, precios y planes, fijación de precios, métrica de valor, value metric]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Pricing y empaquetado

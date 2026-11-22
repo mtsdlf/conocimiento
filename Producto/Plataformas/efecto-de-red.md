@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Hay efecto de red cuando el valor de un producto para cada usuario cambia según cuántos y quiénes más lo usan. Puede darse dentro de un mismo grupo de usuarios o entre grupos distintos, y puede sumar o restar valor.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael Katz y Carl Shapiro (1985), Network Externalities, Competition, and Compatibility, AER 75(3):424-440: https://blog.rchss.sinica.edu.tw/FCLai/wp-content/uploads/2016/11/980730_Network-Externalities-Competition-and-Compatibility_Michael-L.-Katz-and-Carl-Shapiro-1985_AER-753_p.424-440.pdf (no se abrió; según bibliografía y citas)"
@@ -16,7 +16,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmación 6)"
 aliases: [network effect, network effects, efectos de red, externalidad de red, network externality, ley de Metcalfe]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Efecto de red

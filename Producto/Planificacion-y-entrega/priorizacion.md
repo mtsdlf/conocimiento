@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Priorizar es decidir en qué orden se construye lo que vale la pena construir. Los métodos más citados lo resuelven con un puntaje (RICE, costo de demora) o con una clasificación (Kano), y cada uno sirve para un tipo de decisión distinto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Sean McBride, RICE: Simple prioritization for product managers (Intercom, 2018-01-05): https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/"
@@ -12,7 +12,7 @@ fuentes:
   - "Producto/.investigacion/planificacion-y-entrega.md"
 aliases: [prioritization, prioritización de producto, RICE, WSJF, costo de demora, cost of delay]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Priorización

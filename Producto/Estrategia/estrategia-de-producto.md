@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estrategia de producto es el plan para llegar a la visión cumpliendo los objetivos del negocio: elige pocos problemas que atacar ahora, dice qué no se hace y baja a objetivos de equipo que se juzgan por resultados.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Richard Rumelt, Good Strategy Bad Strategy (2011), según el resumen de Farnam Street: https://fs.blog/a-primer-on-strategy/ ; The Perils of Bad Strategy, HBR (2011), solo metadatos: https://hbr.org/2011/06/the-perils-of-bad-strategy"
@@ -20,7 +20,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md"
 aliases: [product strategy]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Estrategia de producto

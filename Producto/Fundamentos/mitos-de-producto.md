@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de producto son frases que circulan como reglas (el PM es el CEO del producto, el cliente sabe lo que quiere, más funcionalidades dan más valor, la mayoría de las ideas funciona, 7 amigos en 10 días, los efectos de red garantizan ganar) sin estudio detrás o contra lo que miden los estudios. Cada uno, con su origen, la evidencia y la nota donde se trata.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ben Horowitz, Good Product Manager/Bad Product Manager (a16z): https://a16z.com/good-product-manager-bad-product-manager/"
@@ -21,7 +21,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md; Producto/.investigacion/organizacion-y-fundamentos.md, sección 3.4; Producto/.investigacion/medicion-y-monetizacion.md, sección 2; Producto/.investigacion/plataformas.md"
 aliases: [mitos de producto, product management myths, PM CEO del producto, 7 friends in 10 days, el cliente sabe lo que quiere, winner takes all]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mitos de producto

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Freemium y prueba gratuita son las dos formas de regalar parte de un producto para vender el resto: el freemium deja una versión gratis sin plazo y la prueba da acceso por un tiempo limitado. Elegir entre ellos es una decisión de producto sobre qué se regala, y las tasas de conversión de referencia salen de encuestas a SaaS B2B.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lenny Rachitsky y Kyle Poyar, What is a good free-to-paid conversion rate? (solo la parte pública; vía buscador): https://lennysnewsletter.com/p/what-is-a-good-free-to-paid-conversion"
@@ -14,7 +14,7 @@ fuentes:
   - "Producto/.investigacion/medicion-y-monetizacion.md"
 aliases: [freemium, free trial, prueba gratis, free-to-paid, conversión de gratis a pago]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Freemium y prueba gratuita

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En producto, los papers con método (experimentación, plataformas, estudios del rol) mandan sobre los marcos formales, y estos sobre los libros y blogs de practicantes, que son casi todo lo que hay sobre cómo trabaja un equipo. Las cifras a favor del "modelo de producto" vienen de consultoras y vendedores de herramientas; varios autores centrales venden el método que escriben.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ISPMA, Software Product Management Body of Knowledge: https://ispma.org/bok/"
@@ -15,7 +15,7 @@ fuentes:
   - "Producto/.investigacion/vistazo.md, sección 5; Producto/.investigacion/posicion-contraria.md, hallazgo transversal; Producto/.investigacion/organizacion-y-fundamentos.md, sección 1; Producto/.investigacion/estrategia.md, sección 0"
 aliases: [peso de las fuentes, fuentes de product management, evidencia en producto, quién vende qué en producto]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fuentes de producto

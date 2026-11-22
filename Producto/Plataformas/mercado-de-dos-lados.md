@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un mercado de dos lados es uno en que una plataforma atiende a dos grupos que se necesitan, y el precio que cobra a cada uno cambia cuántos llegan del otro. Por eso la plataforma suele subsidiar a un lado, tiene que resolver con quién empieza y compite según cuánto le cuesta a cada lado estar en varias plataformas a la vez.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Jean-Charles Rochet y Jean Tirole (2003), Platform Competition in Two-Sided Markets, JEEA 1(4):990-1029, DOI 10.1162/154247603322493212: https://academic.oup.com/jeea/article-abstract/1/4/990/2280902 (solo abstract; borrador libre: https://www.ugr.es/~scarbo/ROCHETIR.pdf)"
@@ -17,7 +17,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmación 6)"
 aliases: [two-sided market, two-sided markets, mercado bilateral, marketplace, mercado multilateral, multi-homing, huevo y gallina, cold start]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mercado de dos lados

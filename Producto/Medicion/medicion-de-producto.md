@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La medición es la parte de producto que dice si lo construido funciona: una métrica que resume el valor que reciben los usuarios, el momento en que un usuario nuevo llega a ese valor y los experimentos que separan lo que un cambio causa de lo que solo lo acompaña.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Amplitude, What Makes a Good vs Bad North Star Metric: https://www.amplitude.com/blog/good-bad-north-star-metric"
@@ -13,7 +13,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmaciones 1 y 5)"
 aliases: [métricas de producto, product metrics, product analytics, medir producto]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Medición

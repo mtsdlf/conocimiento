@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un equipo empoderado recibe un problema para resolver y elige cómo, y se lo juzga por los resultados que mueve; un equipo de funcionalidades recibe una lista priorizada y la entrega. Es la tesis central de la escuela de Cagan, sin estudios que la comparen, y la discuten Shape Up, Scrum y founder mode.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Marty Cagan, Product vs. Feature Teams (SVPG, 29 de agosto de 2019): https://www.svpg.com/product-vs-feature-teams/"
@@ -23,7 +23,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md"
 aliases: [empowered team, empowered product team, equipo de producto, equipo de funcionalidades, feature team, delivery team, equipo de entrega]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Equipo empoderado

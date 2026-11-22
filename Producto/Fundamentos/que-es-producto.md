@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un producto es lo que atiende un equipo que dura frente a un problema que sigue ahí; un proyecto se define por un alcance y una fecha y termina al entregarse; un servicio entrega valor con trabajo de personas en cada entrega. La distinción viene de argumentos de practicantes (Fowler, Cagan, Perri), no de estudios.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Products Over Projects (2019): https://martinfowler.com/articles/products-over-projects.html"
@@ -16,7 +16,7 @@ fuentes:
   - "Producto/.investigacion/estrategia.md, sección 0; Producto/.investigacion/vistazo.md, sección 2; Producto/.investigacion/organizacion-y-fundamentos.md, sección 2.1"
 aliases: [product vs project, producto vs proyecto, producto vs servicio, qué es un producto digital, products over projects]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Qué es producto

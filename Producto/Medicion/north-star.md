@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La North Star es la métrica única que un equipo de producto elige para resumir el valor que los clientes reciben del producto, acompañada de unas pocas métricas de entrada que el equipo sí puede mover. La propuesta y sus criterios vienen de Amplitude, un vendedor de analítica, y no tienen un estudio que los respalde.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Amplitude, North Star Playbook, introducción (los capítulos no se abrieron): https://amplitude.com/books/north-star/about-north-star-framework"
@@ -11,7 +11,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmación 1)"
 aliases: [North Star Metric, NSM, métrica estrella del norte, North Star Framework]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # North Star

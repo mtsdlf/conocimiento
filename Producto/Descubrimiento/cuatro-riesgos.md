@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los cuatro riesgos son la taxonomía de Cagan de lo que hay que averiguar de una idea antes de construirla: si tiene valor para el cliente, si se puede usar, si se puede construir y si le sirve al negocio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Marty Cagan, Product Risk Taxonomies (SVPG, 2023-07-10): https://svpg.com/product-risk-taxonomies"
@@ -12,7 +12,7 @@ fuentes:
   - "Producto/.investigacion/descubrimiento.md"
 aliases: [four big risks, los cuatro grandes riesgos, riesgos de producto, product risks, value usability feasibility viability]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Cuatro riesgos

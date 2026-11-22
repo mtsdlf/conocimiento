@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El árbol de oportunidades es la representación de Teresa Torres que va del resultado de producto que se busca a las necesidades de los clientes que lo moverían, a las soluciones posibles y a las pruebas de sus supuestos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Teresa Torres, Opportunity Solution Trees (Product Talk, 2023-12-06): https://www.producttalk.org/opportunity-solution-tree/"
@@ -12,7 +12,7 @@ fuentes:
   - "Producto/.investigacion/descubrimiento.md"
 aliases: [opportunity solution tree, OST, árbol de oportunidades y soluciones]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Árbol de oportunidades

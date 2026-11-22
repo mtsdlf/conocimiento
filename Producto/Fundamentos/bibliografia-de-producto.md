@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de producto ordenadas por necesidad (general, plataforma de comercio con ecosistema, consultora de software, agencia de marketing digital, monetización, métricas y experimentación): la obra, qué parte leer y en qué fijarse, de qué escuela es y cuánto se leyó para armar la base. Casi ningún libro se leyó entero.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Producto/.investigacion/organizacion-y-fundamentos.md, secciones 1 y 3.3"
@@ -14,7 +14,7 @@ fuentes:
   - "Producto/.investigacion/vistazo.md, secciones 1 y 5"
 aliases: [lecturas de producto, bibliografía, libros de producto, reading list product management, por dónde empezar en producto]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Bibliografía de producto

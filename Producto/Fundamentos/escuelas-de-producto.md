@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los equipos empoderados y el descubrimiento continuo (Cagan, Torres, Perri) son la columna de esta base; Shape Up, los marcos formales (ISPMA, Pragmatic Institute), el liderazgo por visión del fundador y la experimentación a escala son el contraste. Solo la experimentación tiene estudios con método; las demás escuelas se sostienen con opinión de practicantes y casos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Marty Cagan, Product vs. Feature Teams (SVPG, 29-ago-2019): https://www.svpg.com/product-vs-feature-teams/"
@@ -22,7 +22,7 @@ fuentes:
   - "Producto/.investigacion/organizacion-y-fundamentos.md, secciones 2.2 y 3.2; Producto/.investigacion/posicion-contraria.md, afirmaciones 3 y 4; Producto/.investigacion/estrategia.md, secciones 1 y 2; Producto/.investigacion/planificacion-y-entrega.md, secciones 2, 3 y 5"
 aliases: [escuelas de producto, corrientes de gestión de producto, product schools of thought, founder mode vs empowered teams, Shape Up vs Scrum]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Escuelas de producto

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los roles de producto son los cargos que se reparten las decisiones sobre qué construir y por qué: product manager, Product Owner, product ops y product marketing, entre otros. Lo que hace cada uno depende de tres cortes que se cruzan: el rol formal, la actividad y el modelo de equipo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ken Schwaber y Jeff Sutherland, The Scrum Guide (2020), sección Product Owner: https://scrumguides.org/scrum-guide.html"
@@ -21,7 +21,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md"
 aliases: [roles de producto, product manager, PM, product owner, PO, product ops, product marketing, PMM]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Roles de producto

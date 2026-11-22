@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un roadmap es el plan visible de hacia dónde va un producto y qué viene primero. Qué debe llevar adentro (funcionalidades con fecha, temas, resultados) es la disputa central de la planificación de producto, y ninguna posición tiene estudios que la respalden.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Marty Cagan, Product Roadmaps (SVPG, 2009-01-07): https://www.svpg.com/product-roadmaps/"
@@ -14,7 +14,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md"
 aliases: [product roadmap, hoja de ruta, roadmap de producto, Now-Next-Later]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Roadmap

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Shape Up es el método de Basecamp para decidir y construir: en lugar de un backlog, se apuesta cada seis semanas a proyectos ya acotados, con el tiempo fijo y el alcance variable. Es una alternativa al backlog y al roadmap, y sus propios autores dicen que depende de la escala.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ryan Singer, Shape Up (Basecamp), introducción: https://basecamp.com/shapeup/0.3-chapter-01"
@@ -15,7 +15,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md"
 aliases: [Shape Up, apuestas de seis semanas, betting table]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Shape Up

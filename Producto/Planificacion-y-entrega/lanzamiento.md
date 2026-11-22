@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lanzar es poner una funcionalidad o un producto en manos de la gente. La parte de producto decide qué sale, para quién y cómo se despliega y se mide, a menudo con feature toggles y de a un grupo por vez; el mensaje y los canales son de product marketing.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Pete Hodgson, Feature Toggles (aka Feature Flags) (martinfowler.com, 2017-10-09): https://martinfowler.com/articles/feature-toggles.html"
@@ -9,7 +9,7 @@ fuentes:
   - "Producto/.investigacion/planificacion-y-entrega.md"
 aliases: [launch, product launch, release, feature flags, feature toggles, lanzamiento gradual]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Lanzamiento

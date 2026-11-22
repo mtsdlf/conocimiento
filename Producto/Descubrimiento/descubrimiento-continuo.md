@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El descubrimiento continuo es la práctica en que el mismo equipo que construye un producto habla con clientes al menos cada semana y hace pequeñas actividades de investigación en busca de un resultado de producto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Teresa Torres, Product Talk, glosario Continuous Discovery: https://www.producttalk.org/glossary-discovery-continuous-discovery/"
@@ -18,7 +18,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmación 2)"
 aliases: [continuous discovery, dual-track, dual-track agile, trío de producto, product trio]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Descubrimiento continuo

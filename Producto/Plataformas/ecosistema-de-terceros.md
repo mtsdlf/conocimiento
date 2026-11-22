@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El ecosistema de terceros es el conjunto de empresas y desarrolladores que construyen sobre una plataforma con las interfaces que ella abre, como las apps que un comerciante instala en su tienda online. La plataforma gana alcance cuando abre y pierde control si abre de más, y esa tensión ordena qué abre, cuánto cobra y qué se guarda para sí.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ahmad Ghazawneh y Ola Henfridsson (2013), Balancing platform control and external contribution in third-party development: the boundary resources model, Information Systems Journal 23(2):173-192: https://www.uio.no/studier/emner/matnat/ifi/IN4150/h22/literature/lecture-3/ghazaw~1.pdf (leído en pasajes)"
@@ -15,7 +15,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmación 6)"
 aliases: [third-party ecosystem, ecosistema de apps, app store, tienda de apps, recursos de frontera, boundary resources, apertura de plataforma, platform openness, sherlocking]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Ecosistema de terceros

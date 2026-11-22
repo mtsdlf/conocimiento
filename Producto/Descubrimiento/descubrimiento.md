@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El descubrimiento es el trabajo con el que un equipo de producto decide qué construir antes de construirlo: habla con clientes, nombra los riesgos de cada idea y los reduce con pruebas chicas y baratas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Teresa Torres, Product Talk, glosario Continuous Discovery: https://www.producttalk.org/glossary-discovery-continuous-discovery/"
@@ -14,7 +14,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmaciones 2 y 5)"
 aliases: [product discovery, discovery, descubrimiento de producto]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Descubrimiento

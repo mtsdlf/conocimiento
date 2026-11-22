@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un experimento A/B reparte al azar a los usuarios entre dos o más variantes de una experiencia y compara una métrica, para saber qué causó un cambio y no solo qué lo acompañó. Exige volumen: con poco tráfico, como en un producto B2B chico o en el software que una consultora construye para un cliente, no distingue una mejora del azar y el método es otro.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ron Kohavi, Diane Tang y Ya Xu, Trustworthy Online Controlled Experiments (Cambridge University Press, 2020), frontmatter e índice (el cuerpo no se pudo leer): https://assets.cambridge.org/97811087/24265/frontmatter/9781108724265_frontmatter.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md (afirmación 5)"
 aliases: [A/B test, test A/B, prueba A/B, experimento controlado en línea, online controlled experiment]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Experimento A/B

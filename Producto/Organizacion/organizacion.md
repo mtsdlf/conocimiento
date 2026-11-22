@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La organización de producto es quién hace el trabajo de producto y cuánto se le delega: los roles que se reparten las decisiones y el tipo de equipo, desde el que recibe una lista de funcionalidades hasta el que recibe un problema para resolver.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ken Schwaber y Jeff Sutherland, The Scrum Guide (2020): https://scrumguides.org/scrum-guide.html"
@@ -16,7 +16,7 @@ fuentes:
   - "Producto/.investigacion/posicion-contraria.md"
 aliases: [organización de producto, product organization, equipos de producto]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Organización
