@@ -68,5 +68,5 @@ misma definición central, eso es un [Pipeline reutilizable](pipeline-reutilizab
 
 ## Ver también
 
-- [Infraestructura como código](../Despliegue/infraestructura-como-codigo.md) — el pipeline también valida y aplica la infraestructura.
+- [Infraestructura como código](../../Infraestructura/Aprovisionamiento/infraestructura-como-codigo.md) — el pipeline también valida y aplica la infraestructura.
 - [Trazabilidad de cambios](../Repositorios/trazabilidad-de-cambios.md) — usa el SHA del artefacto para seguir un despliegue.

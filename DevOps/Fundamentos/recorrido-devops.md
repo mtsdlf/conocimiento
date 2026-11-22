@@ -16,7 +16,7 @@ DevOps desde cero, para quien viene de desarrollo o de operaciones: de la cultur
 sostiene a cómo un cambio llega a producción de forma automática, auditada y segura, y cómo se
 mide si la entrega mejora.
 
-Va por las seis partes de [DevOps](../devops.md) en el orden en que un cambio las necesita; la
+Va por las partes de [DevOps](../devops.md) en el orden en que un cambio las necesita; la
 entrada de cada parte lista lo que el recorrido salta.
 
 1. [CALMS](calms.md) — va primero porque nombra las cinco dimensiones que el resto del Recorrido desarrolla.
@@ -27,13 +27,14 @@ entrada de cada parte lista lo que el recorrido salta.
 6. [Pipeline de CI/CD](../Integracion-y-entrega/pipeline-de-ci-cd.md) — la automatización concreta que implementa los tres pasos anteriores.
 7. [Estrategia de branching](../Ramas-y-versiones/estrategia-de-branching.md) — cómo se organizan las ramas para que el pipeline integre seguido.
 8. [Versionado semántico](../Ramas-y-versiones/versionado-semantico.md) — cómo se numeran los artefactos; va después del branching porque el tag de una rama decide cuándo se publica una versión.
-9. [Infraestructura como código](../Despliegue/infraestructura-como-codigo.md) — la infraestructura en archivos versionados, que GitOps da por sabida.
+9. [Infraestructura como código](../../Infraestructura/Aprovisionamiento/infraestructura-como-codigo.md) — la infraestructura en archivos versionados, que GitOps da por sabida.
 10. [GitOps](../Despliegue/gitops.md) — cómo se despliega declarando el estado en Git en vez de empujar cambios.
 11. [Reconciliación (GitOps)](../Despliegue/reconciliacion-gitops.md) — el mecanismo que hace funcionar a GitOps y corrige el drift.
 12. [DevSecOps](../DevSecOps/devsecops.md) — cómo la seguridad entra en cada etapa de todo lo anterior.
 13. [Cadena de suministro de software](../DevSecOps/cadena-de-suministro-de-software.md) — cómo probar que lo desplegado es lo que salió del build.
 14. [Trazabilidad de cambios](../Repositorios/trazabilidad-de-cambios.md) — cómo se audita: cada despliegue llevado hasta su commit, su revisión y su build.
-15. [Métricas DORA](../Cultura-y-medicion/metricas-dora.md) — va al final porque mide el resultado de todas las prácticas anteriores.
+15. [Observabilidad](../Operacion/observabilidad.md) — cómo se entiende lo que ya está en producción, desde sus métricas, logs y traces.
+16. [Métricas DORA](../Cultura-y-medicion/metricas-dora.md) — va al final porque mide el resultado de todas las prácticas anteriores.
 
 Para consultar: [Herramientas de seguridad del pipeline](../DevSecOps/herramientas-de-seguridad-del-pipeline.md).
 

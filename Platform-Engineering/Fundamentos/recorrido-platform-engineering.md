@@ -15,7 +15,7 @@ Platform engineering desde cero, para quien conoce el desarrollo de software per
 de equipos ni de plataformas: de por qué los equipos se organizan como se organizan a cómo se
 diseña una plataforma interna y cómo se diagnostica la colaboración Dev–Ops.
 
-El orden cruza las cinco partes del tema: arranca por la [organización de equipos](../Organizacion-de-equipos/organizacion-de-equipos.md) y la [experiencia de desarrollo](../Experiencia-de-desarrollo/experiencia-de-desarrollo.md), sigue por la [plataforma interna](../Plataforma-interna/plataforma-interna.md) y su [operación](../Operacion-de-la-plataforma/operacion-de-la-plataforma.md), y termina en la [colaboración Dev–Ops](../Colaboracion-Dev-Ops/colaboracion-dev-ops.md).
+El orden cruza las cuatro partes del tema: arranca por la [organización de equipos](../Organizacion-de-equipos/organizacion-de-equipos.md) y la [experiencia de desarrollo](../Experiencia-de-desarrollo/experiencia-de-desarrollo.md), sigue por la [plataforma interna](../Plataforma-interna/plataforma-interna.md) y la [observabilidad](../../DevOps/Operacion/observabilidad.md) que ofrece como capacidad (explicada en DevOps), y termina en la [colaboración Dev–Ops](../Colaboracion-Dev-Ops/colaboracion-dev-ops.md).
 
 1. [Ley de Conway](../Organizacion-de-equipos/ley-de-conway.md) — va primero porque todo lo demás asume que el sistema copia a los equipos.
 2. [Maniobra inversa de Conway](../Organizacion-de-equipos/maniobra-inversa-de-conway.md) — el uso deliberado de la ley anterior.
@@ -37,8 +37,8 @@ El orden cruza las cinco partes del tema: arranca por la [organización de equip
 18. [Developer portal](../Plataforma-interna/developer-portal.md) — dónde el desarrollador encuentra los golden paths y el catálogo.
 19. [Mechanical sympathy](../Experiencia-de-desarrollo/mechanical-sympathy.md) — hasta dónde conviene que el golden path oculte lo de abajo.
 20. [Crossplane](../Plataforma-interna/crossplane.md) — una forma concreta de implementar capacidades de infraestructura.
-21. [Observabilidad](../Operacion-de-la-plataforma/observabilidad.md) — qué permite entender un sistema desde sus métricas, logs y traces, y en qué se diferencia del monitoreo.
-22. [Observability-driven development](../Operacion-de-la-plataforma/observability-driven-development.md) — cómo hacer de la telemetría y las alertas un criterio de aceptación de cada ítem del backlog.
+21. [Observabilidad](../../DevOps/Operacion/observabilidad.md) — qué permite entender un sistema desde sus métricas, logs y traces, y en qué se diferencia del monitoreo.
+22. [Observability-driven development](../../DevOps/Operacion/observability-driven-development.md) — cómo hacer de la telemetría y las alertas un criterio de aceptación de cada ítem del backlog.
 23. [DevOps Topologies](../Colaboracion-Dev-Ops/devops-topologies.md) — el vocabulario para diagnosticar organizaciones reales.
 24. [Anti-patrón del equipo DevOps](../Colaboracion-Dev-Ops/anti-patron-equipo-devops.md) — el anti-patrón más común, visto con todo lo anterior.
 25. [Evaluar la colaboración Dev–Ops de una organización](../Colaboracion-Dev-Ops/evaluar-la-colaboracion-dev-ops.md) — cómo aplicar el diagnóstico con entrevistas.

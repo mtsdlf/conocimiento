@@ -19,4 +19,4 @@ No es una parte de [DevOps](../devops.md) sino lo que sirve para leer todas.
 ## Qué hay adentro de fundamentos
 
 - [CALMS](calms.md) — las cinco dimensiones para describir y evaluar una adopción de DevOps; la puerta de entrada al tema.
-- [DevOps desde cero](recorrido-devops.md) — el orden de lectura de las seis partes, de la cultura a las métricas.
+- [DevOps desde cero](recorrido-devops.md) — el orden de lectura de las partes, de la cultura a las métricas.

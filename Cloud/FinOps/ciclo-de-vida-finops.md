@@ -22,7 +22,7 @@ cada capacidad por separado en tres niveles: Crawl, Walk y Run.
 
 Las fases dicen qué hacer primero: no se optimiza lo que no se ve. El modelo de madurez evita
 querer automatizar todo de entrada: se arranca chico y se crece donde el valor lo justifica. Las
-fases organizan los principios de [FinOps](que-es-finops.md) en trabajo concreto.
+fases organizan los principios de [FinOps](finops.md) en trabajo concreto.
 
 ## Las tres fases y los tres niveles
 

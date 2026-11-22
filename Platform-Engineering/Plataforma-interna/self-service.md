@@ -56,4 +56,4 @@ a mano, la interfaz cambió pero el proceso sigue siendo manual.
 ## Ver también
 
 - [Internal Developer Platform](internal-developer-platform.md): el self-service es la forma en que se consumen sus capacidades.
-- [Observability-driven development](../Operacion-de-la-plataforma/observability-driven-development.md): ODD pide que cada equipo cree sus alertas y tableros por self-service.
+- [Observability-driven development](../../DevOps/Operacion/observability-driven-development.md): ODD pide que cada equipo cree sus alertas y tableros por self-service.

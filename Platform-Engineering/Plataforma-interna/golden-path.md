@@ -60,4 +60,4 @@ Tampoco debe esconder del todo lo que genera: ese límite es la [Mechanical symp
 
 - [Internal Developer Platform](internal-developer-platform.md): el golden path es una de las piezas que ofrece la plataforma.
 - [Developer portal](developer-portal.md): el lugar habitual desde donde se elige y se lanza una plantilla.
-- [Observability-driven development](../Operacion-de-la-plataforma/observability-driven-development.md): una plantilla con la telemetría ya conectada cumple de fábrica buena parte de lo que pide ODD.
+- [Observability-driven development](../../DevOps/Operacion/observability-driven-development.md): una plantilla con la telemetría ya conectada cumple de fábrica buena parte de lo que pide ODD.

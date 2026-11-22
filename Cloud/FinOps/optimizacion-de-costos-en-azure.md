@@ -27,7 +27,7 @@ el egreso y los logs.
 
 ## Ajustar antes de comprometer
 
-Es la fase Optimize del ciclo de [FinOps](que-es-finops.md) aplicada a Azure. El orden importa: comprometer
+Es la fase Optimize del ciclo de [FinOps](finops.md) aplicada a Azure. El orden importa: comprometer
 uso con una reserva antes de ajustar el tamaño congela por años un gasto que sobraba.
 
 ## Optimizar el uso y optimizar la tarifa

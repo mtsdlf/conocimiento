@@ -61,7 +61,7 @@ aplica.
 ## Reconciliar no es monitorear
 
 **Monitoreo del servicio**: la reconciliación compara configuración declarada con configuración
-real; no mide si el servicio responde bien. Eso es parte de la [Observabilidad](../../Platform-Engineering/Operacion-de-la-plataforma/observabilidad.md).
+real; no mide si el servicio responde bien. Eso es parte de la [Observabilidad](../Operacion/observabilidad.md).
 
 ## Ver también
 

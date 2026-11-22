@@ -29,7 +29,7 @@ solo desde ramas protegidas.
 ## Lo que tiene que estar antes del pipeline
 
 - El estado en un backend remoto con bloqueo, que el pipeline toma al aplicar: [Estado remoto de Terraform](estado-remoto-de-terraform.md).
-- Una identidad para el pipeline, sin claves fijas, que es la que lee los secretos: [Secretos en Terraform](../Secretos/secretos-en-terraform.md).
+- Una identidad para el pipeline, sin claves fijas, que es la que lee los secretos: [Secretos en Terraform](secretos-en-terraform.md).
 - Ramas protegidas en el repo: nadie hace push directo a `main`.
 
 ## Del `fmt` al `apply` del plan guardado

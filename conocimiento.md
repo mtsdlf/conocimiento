@@ -22,9 +22,9 @@ Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCION
 ## Plataforma y entrega
 
 - [Platform Engineering](Platform-Engineering/platform-engineering.md) — plataformas internas, Team Topologies, developer experience y
-  observabilidad.
-- [DevOps](DevOps/devops.md) — cultura y métricas DORA, CI/CD, branching, GitOps y DevSecOps; con Recorrido.
-- [Infraestructura](Infraestructura/infraestructura.md) — Terraform, Kubernetes y Cilium, certificados y DNS, SOPS y NetDevOps.
+  colaboración Dev–Ops.
+- [DevOps](DevOps/devops.md) — cultura y métricas DORA, CI/CD, branching, GitOps, DevSecOps (con secretos y SOPS) y observabilidad; con Recorrido.
+- [Infraestructura](Infraestructura/infraestructura.md) — infraestructura como código con Terraform, Kubernetes y Cilium, certificados y DNS, y NetDevOps.
 - [Cloud](Cloud/cloud.md) — Azure (gobernanza, redes, cómputo, datos, operación) y [FinOps](Cloud/FinOps/finops.md); con Recorrido
   de redes.
 

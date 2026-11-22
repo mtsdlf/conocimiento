@@ -31,10 +31,13 @@ Las prácticas de entrega (integración continua, pipelines, GitOps) están en e
 
 ## De qué está hecho el platform engineering
 
-Cinco partes. La organización de equipos decide quién construye y quién consume; la plataforma
+Cuatro partes. La organización de equipos decide quién construye y quién consume; la plataforma
 interna es lo que el platform team construye para los equipos de producto; la experiencia de
-desarrollo es lo que esa plataforma intenta mejorar; la operación hace visible lo que corre sobre
-ella; y la colaboración Dev–Ops dice desde dónde parte una organización real.
+desarrollo es lo que esa plataforma intenta mejorar; y la colaboración Dev–Ops dice desde dónde
+parte una organización real. Las prácticas que la plataforma ofrece como capacidades (la
+[observabilidad](../DevOps/Operacion/observabilidad.md), el
+[policy-as-code](../DevOps/DevSecOps/policy-as-code.md), [GitOps](../DevOps/Despliegue/gitops.md))
+se explican en DevOps y acá se enlazan.
 
 ```mermaid
 flowchart LR
@@ -42,13 +45,11 @@ flowchart LR
   OE -->|asigna a un platform team| PI[Plataforma interna]
   PI -->|reduce la carga cognitiva de| ED[Experiencia de desarrollo]
   ED -->|limita cuánto software posee cada equipo de| OE
-  PI -->|ofrece como capacidad la| OP[Operación de la plataforma]
 ```
 
 - [Organización de equipos](Organizacion-de-equipos/organizacion-de-equipos.md) — la ley de Conway, el tamaño y la estabilidad de los equipos, y Team Topologies con sus tipos de equipo y modos de interacción. Se lee primero: el resto da por sentado que el sistema copia a los equipos.
 - [Experiencia de desarrollo](Experiencia-de-desarrollo/experiencia-de-desarrollo.md) — cómo viven los desarrolladores su trabajo, la carga cognitiva y hasta dónde conviene ocultarles lo de abajo.
 - [Plataforma interna](Plataforma-interna/plataforma-interna.md) — la IDP y sus partes: capacidades, self-service, APIs, gobernanza, golden paths y portal.
-- [Operación de la plataforma](Operacion-de-la-plataforma/operacion-de-la-plataforma.md) — la observabilidad y la práctica de definir la telemetría con cada cambio.
 - [Colaboración Dev–Ops](Colaboracion-Dev-Ops/colaboracion-dev-ops.md) — DevOps Topologies, su anti-patrón más común y cómo se diagnostica una organización con entrevistas.
 
 ## Lo que falta: el catálogo de servicios
@@ -60,5 +61,5 @@ Backstage, pero el tema no lo trata como pieza propia.
 ## De Conway a la plataforma
 
 Para aprenderlo en orden, [Platform engineering desde cero](Fundamentos/recorrido-platform-engineering.md)
-recorre las cinco partes paso a paso. [Fundamentos](Fundamentos/fundamentos-de-platform-engineering.md) reúne lo que cruza
+recorre las cuatro partes paso a paso. [Fundamentos](Fundamentos/fundamentos-de-platform-engineering.md) reúne lo que cruza
 todo el tema.

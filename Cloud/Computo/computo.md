@@ -22,9 +22,9 @@ el tamaño, las reservas, Spot y el escalado a cero.
 
 ## El servicio más administrado que cumpla
 
-La regla es usar el servicio más administrado que cumpla los requisitos. Cada escalón hacia más
-control suma trabajo: parches del sistema operativo, actualizaciones del clúster, red y escalado.
-En un extremo está la VM, con el SO entero y todo por operar; en el otro, Functions, que corre
+La regla es usar el servicio más administrado que cumpla los requisitos, porque el control se
+paga en operación; la [elección de cómputo en Azure](eleccion-de-computo-en-azure.md) detalla qué
+trabajo suma cada escalón. En un extremo está la VM, con el SO entero y todo por operar; en el otro, Functions, que corre
 código chico disparado por eventos y cuyo plan de hosting decide si escala a cero, si tiene cold
 start y si entra a una VNet. App Service, Container Apps y AKS quedan en el medio.
 

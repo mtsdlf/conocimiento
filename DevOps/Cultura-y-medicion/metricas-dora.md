@@ -58,7 +58,7 @@ esa espera mejora el lead time sin tocar el pipeline.
 
 Un SLO. Las métricas DORA miden el proceso de entrega; un SLO fija un objetivo de confiabilidad
 del servicio (por ejemplo, el 99 % de las peticiones en menos de 200 ms), medido sobre un SLI,
-que es el indicador en sí (la latencia). Eso es parte de la [Observabilidad](../../Platform-Engineering/Operacion-de-la-plataforma/observabilidad.md). Tampoco son una
+que es el indicador en sí (la latencia). Eso es parte de la [Observabilidad](../Operacion/observabilidad.md). Tampoco son una
 meta para comparar equipos entre sí: DORA las propone para que cada equipo mejore contra sí
 mismo.
 

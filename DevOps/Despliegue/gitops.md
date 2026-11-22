@@ -44,7 +44,7 @@ cambios de entorno, y quien programa no necesita permiso para tocar producción.
 
 GitOps es la forma natural de operar una [Internal Developer Platform](../../Platform-Engineering/Plataforma-interna/internal-developer-platform.md): con
 [Crossplane](../../Platform-Engineering/Plataforma-interna/crossplane.md), la misma idea declarativa se extiende de las aplicaciones a la infraestructura.
-Los manifiestos suelen salir de la [Infraestructura como código](infraestructura-como-codigo.md).
+Los manifiestos suelen salir de la [Infraestructura como código](../../Infraestructura/Aprovisionamiento/infraestructura-como-codigo.md).
 
 ## Un cambio de imagen de v1.2.3 a v1.2.4
 

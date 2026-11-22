@@ -21,14 +21,15 @@ incorporados.
 La construye un [platform team](../Organizacion-de-equipos/platform-team.md) para los
 [stream-aligned teams](../Organizacion-de-equipos/stream-aligned-team.md), y existe para bajar la
 carga que estudia [Experiencia de desarrollo](../Experiencia-de-desarrollo/experiencia-de-desarrollo.md).
-Ofrece la observabilidad como una capacidad más, que se trata en
-[Operación de la plataforma](../Operacion-de-la-plataforma/operacion-de-la-plataforma.md). Un equipo
+Ofrece la [observabilidad](../../DevOps/Operacion/observabilidad.md) como una capacidad más; el
+concepto se explica en la [operación](../../DevOps/Operacion/operacion-en-devops.md) de DevOps. Un equipo
 que ejecuta pasos por los demás en vez de construir self-service cae en el anti-patrón que
 describe [Colaboración Dev–Ops](../Colaboracion-Dev-Ops/colaboracion-dev-ops.md).
 
 ## Cómo se arma una IDP
 
-La unidad es la capacidad: una función con dueño, contrato y ciclo de vida, separada de la
+Las partes de una IDP, con la definición de la CNCF y sus trece áreas de capacidades, están en
+[Internal Developer Platform](internal-developer-platform.md). Lo que las ordena es esto: la unidad es la capacidad: una función con dueño, contrato y ciclo de vida, separada de la
 tecnología que la implementa. Cada capacidad se expone primero como API, y el portal, la CLI y los
 bots son presentaciones de esa API. Los equipos la consumen por self-service, sin ticket, dentro
 de los límites que fija la gobernanza. Para lo común, un golden path combina plantillas con

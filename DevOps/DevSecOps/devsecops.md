@@ -64,5 +64,6 @@ problema de siempre con otro nombre, igual que el [Anti-patrón del equipo DevOp
 - [Seguridad en el pipeline](seguridad-en-el-pipeline.md) — los controles automáticos por etapa.
 - [Herramientas de seguridad del pipeline](herramientas-de-seguridad-del-pipeline.md) — ficha con la herramienta habitual de cada control, copiada el 2026-10-03.
 - [Cadena de suministro de software](cadena-de-suministro-de-software.md) — asegurar que el artefacto desplegado es el esperado.
-- [Gestión de secretos](gestion-de-secretos.md) — credenciales fuera del código.
+- [Gestión de secretos](gestion-de-secretos.md) — credenciales fuera del código: almacén externo, vida corta, federación por OIDC, cifrado en Git y detección.
+- [SOPS](sops.md) — cómo cifrar los valores de un archivo de configuración para guardarlo en Git y que GitOps lo descifre al aplicar.
 - [Policy as code](policy-as-code.md) — las reglas de seguridad como código evaluable.

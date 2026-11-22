@@ -27,7 +27,9 @@ aislados quedan y cuánto código se repite.
 
 ## Carpetas, workspaces y repos por dominio
 
-- **Carpeta por entorno**: `environments/dev`, `environments/test` y `environments/prod` tienen
+- **Carpeta por entorno**: la misma separación que usa la
+  [promoción entre entornos](../../DevOps/Despliegue/promocion-entre-entornos.md) para los
+  manifiestos de la aplicación. `environments/dev`, `environments/test` y `environments/prod` tienen
   cada una un root module chico que llama a los [módulos](modulo-de-terraform.md) comunes. Si los
   módulos están en el mismo repo (`modules/`), se llaman por ruta y todos los entornos usan la misma
   copia; si se publican en un registry o en un repo con tags, cada entorno fija su versión. Los

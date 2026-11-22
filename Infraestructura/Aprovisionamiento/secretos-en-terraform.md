@@ -26,10 +26,14 @@ En Terraform los secretos no se escriben en el código ni en tfvars: se leen de 
 identidad de corta vida, y como `sensitive` solo los oculta de la salida, se usan valores
 ephemeral o argumentos write-only para que no queden en el estado.
 
+Dentro del [aprovisionamiento](aprovisionamiento.md), aplica a Terraform lo que explica la
+[gestión de secretos](../../DevOps/DevSecOps/gestion-de-secretos.md) de DevSecOps, incluida la
+federación de identidad por OIDC.
+
 ## Dónde se filtra un secreto
 
 Un secreto en un `.tf` o en un `tfvars` versionado queda en el historial de Git para siempre. Y
-aunque no esté en Git, Terraform guarda en el [estado](../Aprovisionamiento/estado-remoto-de-terraform.md) y en los
+aunque no esté en Git, Terraform guarda en el [estado](estado-remoto-de-terraform.md) y en los
 archivos de plan, en texto plano, todo valor que pase por un recurso o un data source.
 
 ## Gestor, identidad, `sensitive`, ephemeral y write-only
@@ -51,7 +55,7 @@ archivos de plan, en texto plano, todo valor que pase por un recurso o un data s
   (por ejemplo `password_wo_version`).
 
 El acceso al gestor se da con permisos mínimos: la identidad del pipeline lee solo los secretos de
-su entorno. Es el [pipeline de Terraform](../Aprovisionamiento/pipeline-de-terraform.md) quien se
+su entorno. Es el [pipeline de Terraform](pipeline-de-terraform.md) quien se
 autentica y los lee.
 
 ## La contraseña de una base sin pasar por el estado
@@ -62,5 +66,5 @@ pasa al argumento write-only de la base. El estado registra la base, pero no la 
 
 ## Secretos en Terraform y SOPS
 
-[SOPS](sops.md) es la otra forma de tener secretos junto al código. SOPS guarda el secreto cifrado dentro del repo y lo descifra quien tiene la clave; acá el
+[SOPS](../../DevOps/DevSecOps/sops.md) es la otra forma de tener secretos junto al código. SOPS guarda el secreto cifrado dentro del repo y lo descifra quien tiene la clave; acá el
 secreto nunca entra al repo, vive en el gestor y Terraform lo lee al aplicar.

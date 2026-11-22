@@ -28,8 +28,8 @@ tensión: los equipos no piden permiso, porque las reglas ya están en la plataf
 
 Según la CNCF, una plataforma es segura por defecto y ofrece capacidades para asegurar el
 cumplimiento y la validación; la gobernanza y los controles se incorporan en las plantillas, los
-patrones y las capacidades. Los motores de políticas, como OPA o Kyverno, restringen lo que se
-puede hacer y avisan o corrigen los desvíos.
+patrones y las capacidades. Los motores de políticas, como OPA o Kyverno, aplican
+[policy-as-code](../../DevOps/DevSecOps/policy-as-code.md): restringen lo que se puede hacer y avisan o corrigen los desvíos.
 
 La gobernanza tiene cuatro partes:
 

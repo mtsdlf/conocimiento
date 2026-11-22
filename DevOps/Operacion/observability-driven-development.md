@@ -60,5 +60,5 @@ reales. ODD no reemplaza los tests.
 
 ## Ver también
 
-- [Golden path](../Plataforma-interna/golden-path.md): una plantilla que trae la telemetría conectada de fábrica cumple buena parte de ODD sin esfuerzo extra.
-- [Self-service](../Plataforma-interna/self-service.md): el cuarto principio pide que cada equipo cree sus alertas y tableros sin ticket.
+- [Golden path](../../Platform-Engineering/Plataforma-interna/golden-path.md): una plantilla que trae la telemetría conectada de fábrica cumple buena parte de ODD sin esfuerzo extra.
+- [Self-service](../../Platform-Engineering/Plataforma-interna/self-service.md): el cuarto principio pide que cada equipo cree sus alertas y tableros sin ticket.

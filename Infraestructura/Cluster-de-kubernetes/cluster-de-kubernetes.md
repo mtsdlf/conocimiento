@@ -18,8 +18,10 @@ quién habla cada uno.
 
 Dentro de la [infraestructura](../infraestructura.md), corre sobre los recursos que crea el
 [Aprovisionamiento](../Aprovisionamiento/aprovisionamiento.md); sus servicios se hacen alcanzables
-con [Nombres y certificados](../Nombres-y-certificados/nombres-y-certificados.md), y sus Secrets
-llegan cifrados con SOPS desde [Secretos](../Secretos/secretos-de-infraestructura.md).
+con [Nombres y certificados](../Nombres-y-certificados/nombres-y-certificados.md). Lo que corre en
+él lo aplica [GitOps](../../DevOps/Despliegue/gitops.md) desde Git, y sus Secrets llegan cifrados con
+[SOPS](../../DevOps/DevSecOps/sops.md), como explica la
+[gestión de secretos](../../DevOps/DevSecOps/gestion-de-secretos.md).
 
 ## La red del clúster se elige antes de instalar
 

@@ -43,14 +43,14 @@ pipeline sin estándares automatiza código inconsistente.
    de datos), con variables validadas, y publicalos con versión semántica en un registry privado o
    en un repo con tags. Si un recurso ya importado pasa a un módulo, un bloque `moved` le
    avisa a Terraform que es el mismo y evita que lo recree.
-6. **Secretos**: sacá todo secreto del código y leelo de un gestor; ver [Secretos en Terraform](../Secretos/secretos-en-terraform.md).
+6. **Secretos**: sacá todo secreto del código y leelo de un gestor; ver [Secretos en Terraform](secretos-en-terraform.md).
 7. **Controles locales**: sumá hooks de pre-commit con `terraform fmt`, `validate` (que necesita
    un `terraform init` previo) y `tflint`, para que el error aparezca antes del PR.
 8. **Pipeline**: automatizá plan en cada PR, escaneo de seguridad, aprobación en producción y apply
    del plan guardado. Desde acá, nadie aplica cambios a mano.
 9. **Extender**: repetí piloto e importación con el resto de los servicios, uno por vez.
 10. **Gobierno**: si el equipo usa HCP Terraform (el servicio administrado de HashiCorp), definí
-   políticas como código (policy-as-code) con Sentinel u OPA que frenen un
+   políticas como código ([policy-as-code](../../DevOps/DevSecOps/policy-as-code.md)) con Sentinel u OPA que frenen un
    run que no cumple (por ejemplo, un recurso sin etiqueta de dueño). Revisá cada tanto las
    versiones de módulos y providers desactualizadas.
 

@@ -35,7 +35,9 @@ Hay dos formas de representar los entornos en el repositorio de configuración:
 
 - **Una carpeta por entorno** (`envs/dev`, `envs/staging`, `envs/prod`), con una base común y
   overlays de Kustomize o archivos de valores de Helm por entorno. Promover es copiar la versión
-  de una carpeta a la siguiente en un PR.
+  de una carpeta a la siguiente en un PR. Es la misma separación que usa la infraestructura
+  ([organizar entornos en Terraform](../../Infraestructura/Aprovisionamiento/organizar-entornos-en-terraform.md)),
+  aplicada a los manifiestos de la aplicación.
 - **Una rama por entorno** (`dev`, `staging`, `prod`). Promover es mergear una rama en otra.
 
 Kostis Kapelonis (2021) desaconseja las ramas por entorno: el merge arrastra cambios que no se

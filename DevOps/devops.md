@@ -30,10 +30,10 @@ el tema Desarrollo.
 
 ## De qué está hecha la entrega de un cambio
 
-Seis partes. El código se integra en ramas que se versionan, dentro de repositorios con reglas; un
+Siete partes. El código se integra en ramas que se versionan, dentro de repositorios con reglas; un
 pipeline deja cada cambio listo para producción; el despliegue lo lleva a cada entorno y lo
-mantiene como está declarado. La seguridad corre en cada etapa, y la medición dice dónde se pierde
-el tiempo.
+mantiene como está declarado; la operación muestra cómo se comporta en producción. La seguridad
+corre en cada etapa, y la medición dice dónde se pierde el tiempo.
 
 ```mermaid
 flowchart LR
@@ -42,6 +42,8 @@ flowchart LR
   IE -->|entrega un artefacto a| D[Despliegue]
   DS[DevSecOps] -->|agrega controles a| IE
   DS -->|revisa los PR de| D
+  D -->|pone en producción lo que observa| OP[Operación]
+  OP -->|da las fallas que estudia| CM
   D -->|se mide con| CM[Cultura y medición]
   CM -->|muestra dónde espera el cambio en| IE
 ```
@@ -49,14 +51,15 @@ flowchart LR
 - [Ramas y versiones](Ramas-y-versiones/ramas-y-versiones.md) — qué ramas existen, cuánto viven y cómo se numera lo que se publica.
 - [Repositorios](Repositorios/repositorios.md) — cómo se reparte el código, quién cambia qué y cómo se sigue cada despliegue hasta su commit.
 - [Integración y entrega](Integracion-y-entrega/integracion-y-entrega.md) — integración, entrega y despliegue continuos, y el pipeline que los automatiza.
-- [Despliegue](Despliegue/despliegue.md) — cómo una versión reemplaza a otra en un entorno, la infraestructura como código y GitOps.
+- [Despliegue](Despliegue/despliegue.md) — cómo una versión reemplaza a otra en un entorno, la promoción entre entornos y GitOps.
 - [DevSecOps](DevSecOps/devsecops.md) — la seguridad como responsabilidad compartida y automatizada en todo el ciclo.
+- [Operación](Operacion/operacion-en-devops.md) — la observabilidad de lo que corre en producción y la práctica de definir la telemetría con cada cambio.
 - [Cultura y medición](Cultura-y-medicion/cultura-y-medicion.md) — el flujo de valor, el postmortem sin culpa y las métricas DORA.
 
-Aparte de las seis partes, [Fundamentos](Fundamentos/fundamentos-de-devops.md) reúne lo
+Aparte de las siete partes, [Fundamentos](Fundamentos/fundamentos-de-devops.md) reúne lo
 que las cruza: el marco CALMS y el recorrido para aprender el tema en orden.
 
-## Tres ideas que cruzan las seis partes
+## Tres ideas que cruzan las siete partes
 
 - **Lotes chicos.** Integrar a la rama principal al menos una vez por día
   ([integración continua](Integracion-y-entrega/integracion-continua.md)), con ramas que viven horas
@@ -69,21 +72,20 @@ que las cruza: el marco CALMS y el recorrido para aprender el tema en orden.
   versión anterior ([estrategias de despliegue](Despliegue/estrategias-de-despliegue.md)) y seguir
   cada despliegue hasta su revisión ([trazabilidad de cambios](Repositorios/trazabilidad-de-cambios.md)).
 - **Git como registro.** La infraestructura vive en archivos versionados
-  ([infraestructura como código](Despliegue/infraestructura-como-codigo.md)), el estado deseado de
+  ([infraestructura como código](../Infraestructura/Aprovisionamiento/infraestructura-como-codigo.md)), el estado deseado de
   cada entorno también ([GitOps](Despliegue/gitops.md)), y el historial de Git es la auditoría.
 
 ## Del commit a producción, en orden
 
 Para aprenderlo de cero, [DevOps desde cero](Fundamentos/recorrido-devops.md) recorre
-las seis partes en el orden en que un cambio las necesita, de CALMS a las métricas DORA. Para
+las partes en el orden en que un cambio las necesita, de CALMS a las métricas DORA. Para
 consultar, conviene entrar por la entrada de cada parte.
 
 ## Lo que falta
 
-- SLO y SLI: sin nota todavía; van con [Observabilidad](../Platform-Engineering/Operacion-de-la-plataforma/observabilidad.md) cuando se migre ese material.
+- SLO y SLI: sin nota todavía; van en [Operación](Operacion/operacion-en-devops.md), junto a la [observabilidad](Operacion/observabilidad.md).
 - Ansible: hay solo un temario sin contenido, archivado en `Archivo/DevOps/ansible-roadmap.md`.
 
 ## Ver también
 
-- [Observabilidad](../Platform-Engineering/Operacion-de-la-plataforma/observabilidad.md) — métricas, logs y traces para entender qué hace el sistema; en Platform Engineering.
 - [FinOps](../Cloud/FinOps/finops.md) — la responsabilidad sobre el costo de la nube; en el tema Cloud.
