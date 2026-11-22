@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los libros canónicos de emprender, con su año, su edición en castellano cuando se verificó y qué parte leer, más los papers y ensayos que sostienen la evidencia del tema.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Planeta de Libros, ficha de El método Lean Startup: https://www.planetadelibros.com/libro-el-metodo-lean-startup/63526"
@@ -13,7 +13,7 @@ fuentes:
   - "Emprender/.investigacion/fundamentos-y-escuelas.md, sección 5"
 aliases: [bibliografía de emprendimiento, libros de emprender, lecturas de startups, reading list]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Bibliografía de emprender

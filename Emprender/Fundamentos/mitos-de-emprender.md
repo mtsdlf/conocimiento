@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de emprender son cifras y reglas que circulan como hechos y que los datos corrigen: que el 90% de las startups fracasa, que los fundadores exitosos son jóvenes, que hay que dejar el trabajo para emprender o que Lean significa no planificar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "BLS, Business Employment Dynamics, Tabla 7, Survival of private sector establishments by opening year: https://www.bls.gov/bdm/us_age_naics_00_table7.txt"
@@ -20,7 +20,7 @@ fuentes:
   - "Emprender/.investigacion/fundamentos-y-escuelas.md, secciones 2 y 4"
 aliases: [mitos del emprendimiento, startup myths, el 90% fracasa, tasa de fracaso de startups, edad de los fundadores]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mitos de emprender

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El modelo de negocio es la lógica con que una empresa crea valor para un cliente, se lo entrega y cobra por él con una estructura de ingresos y costos que deja ganancia. En una empresa que empieza es un conjunto de hipótesis, y el canvas sirve para escribirlas y elegir cuál probar primero.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "David J. Teece (2010), Business Models, Business Strategy and Innovation, Long Range Planning 43(2-3):172-194, doi:10.1016/j.lrp.2009.07.003: https://www.kth.se/social/upload/528c4881f2765458b97a9368/Teece%20%282010%29.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [business model, Business Model Canvas, BMC, Lean Canvas, canvas, lienzo de modelo de negocio]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Modelo de negocio

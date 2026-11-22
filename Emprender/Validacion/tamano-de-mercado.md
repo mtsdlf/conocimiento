@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El tamaño de mercado es la estimación de cuánto ingreso anual habría si una empresa nueva vendiera a todos sus clientes posibles; Aulet la pide para el mercado cabeza de playa, el primer segmento donde se va a ganar, y la práctica de inversión la parte en TAM, SAM y SOM. Es un cálculo de oportunidad, no un experimento.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bill Aulet, Disciplined entrepreneurship: 6 questions for startup success (MIT Sloan, 2024-04-16): https://mitsloan.mit.edu/ideas-made-to-matter/disciplined-entrepreneurship-6-questions-startup-success"
@@ -13,7 +13,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [market sizing, TAM, SAM, SOM, total addressable market, mercado cabeza de playa, beachhead market]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Tamaño de mercado

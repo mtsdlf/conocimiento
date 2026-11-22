@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una startup es una empresa nueva que todavía busca un modelo de negocio que funcione y pueda crecer. Ries la define por la incertidumbre, Blank por la búsqueda de un modelo repetible y escalable, y Graham por el crecimiento rápido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Steve Blank, What's A Startup? First Principles (25-ene-2010): https://steveblank.com/2010/01/25/whats-a-startup-first-principles"
@@ -14,7 +14,7 @@ fuentes:
   - "Emprender/.investigacion/fundamentos-y-escuelas.md, sección 1"
 aliases: [startup, start-up, empresa emergente, definición de startup]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Qué es una startup

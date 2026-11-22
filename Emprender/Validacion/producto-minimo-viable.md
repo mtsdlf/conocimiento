@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El producto mínimo viable (MVP) es, según Ries, la versión de un producto nuevo que le permite a un equipo juntar la mayor cantidad de aprendizaje validado sobre sus clientes con el menor esfuerzo; se elige por la hipótesis que prueba, no por lo chico que es.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Eric Ries, Minimum Viable Product: a guide (2009-08-03): https://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [MVP, minimum viable product, producto mínimo, smoke test, concierge MVP, video MVP]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Producto mínimo viable

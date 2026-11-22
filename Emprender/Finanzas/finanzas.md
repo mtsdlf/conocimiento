@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las finanzas de una empresa que empieza responden dos preguntas: cuánto tiempo le dura la plata que tiene y de dónde sale la que le falta, sabiendo lo que cuesta cada fuente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Paul Graham, Default Alive or Default Dead? (octubre de 2015): https://paulgraham.com/aord.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [burn rate, runway, default alive, default dead, ramen profitable, break-even, bootstrapping]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Finanzas

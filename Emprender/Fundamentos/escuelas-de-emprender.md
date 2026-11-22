@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las escuelas de emprender discrepan en cuánto planificar antes de actuar y cómo aprender: el plan de negocios predice, el Lean Startup experimenta con clientes, effectuation parte de los medios propios y el enfoque científico pide teoría y pruebas rigurosas. Ninguna tiene evidencia concluyente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Camuffo, Cordova, Gambardella y Spina (2020), Management Science 66(2): 564-586, DOI 10.1287/mnsc.2018.3249; PDF leído: https://www.gwern.net/doc/economics/2019-camuffo.pdf"
@@ -26,7 +26,7 @@ fuentes:
   - "Emprender/.investigacion/validacion.md (conteos de Camuffo 2020)"
 aliases: [escuelas de emprendimiento, effectuation, enfoque científico, scientific approach, plan de negocios, business plan, causación, historia del emprendimiento]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Escuelas de emprender

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El conocimiento sobre emprender sale de cuatro tipos de fuente que pesan distinto: los journals académicos para la evidencia, el GEM y Kauffman para los datos, los practicantes para el método y la normativa argentina para lo legal.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "GEM, perfil de Argentina: https://gemconsortium.org/economy-profiles/argentina-2"
@@ -14,7 +14,7 @@ fuentes:
   - "Emprender/.investigacion/vistazo.md"
 aliases: [fuentes de emprendimiento, peso de las fuentes, jerarquía de evidencia en emprendimiento, GEM, Kauffman]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fuentes de emprender

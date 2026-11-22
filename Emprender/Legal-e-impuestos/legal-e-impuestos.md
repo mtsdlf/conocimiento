@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Legal e impuestos es el marco con que una empresa nueva existe ante el Estado en Argentina: la forma con que se constituye (persona humana, SAS, SRL o SA) y el régimen impositivo en que factura.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ley 27.349, texto actualizado, argentina.gob.ar (consulta del 2026-11-22): https://www.argentina.gob.ar/normativa/nacional/ley-27349-273567/actualizacion"
@@ -14,7 +14,7 @@ fuentes:
   - "Emprender/.investigacion/finanzas-equipo-legal.md"
 aliases: [SAS, SRL, SA, sociedad por acciones simplificada, monotributo, forma societaria]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Legal e impuestos

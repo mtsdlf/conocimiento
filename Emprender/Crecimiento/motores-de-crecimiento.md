@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un motor de crecimiento es el mecanismo por el que una empresa consigue clientes nuevos de forma sostenida. Ries distingue tres, pegajoso, viral y pagado, y cada uno se define por una métrica y una condición que dice si crece.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Eric Ries, The Lean Startup (2011), cap. 10 Grow (no leído; según resúmenes)"
@@ -12,7 +12,7 @@ fuentes:
   - "Emprender/.investigacion/crecimiento-y-modelo.md"
 aliases: [engines of growth, motor pegajoso, motor viral, motor pagado, sticky engine, viral engine, paid engine, coeficiente viral]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Motores de crecimiento

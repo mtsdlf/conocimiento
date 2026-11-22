@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El descubrimiento de clientes es salir a hablar con posibles clientes para contrastar las hipótesis del negocio con lo que hacen y les pasa, preguntando por su vida y por hechos pasados en lugar de por la idea, para que las respuestas no salgan sesgadas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Steve Blank, The Four Steps to the Epiphany (2005): https://oreilly.com/library/view/the-four-steps/9781119690351"
@@ -18,7 +18,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [customer discovery, entrevistas de problema, The Mom Test]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Descubrimiento de clientes

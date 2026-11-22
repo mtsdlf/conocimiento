@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El encaje producto-mercado es estar en un buen mercado con un producto que lo satisface: el punto en que los clientes tiran del producto en lugar de que la empresa tenga que empujarlo. Se reconoce por la demanda y por una curva de retención que se aplana.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Marc Andreessen, The Pmarca Guide to Startups, Part 4: The only thing that matters (2007-06-25): https://pmarchive.com/guide_to_startups_part4.html"
@@ -16,7 +16,7 @@ fuentes:
   - "Emprender/.investigacion/crecimiento-y-modelo.md"
 aliases: [product-market fit, product/market fit, PMF, ajuste producto-mercado, prueba de Ellis, Sean Ellis test]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Encaje producto-mercado

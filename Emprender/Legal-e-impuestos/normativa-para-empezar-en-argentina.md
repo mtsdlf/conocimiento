@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las normas vigentes al 2026-11-22 para empezar una empresa en Argentina: la Ley 27.349 de la SAS y sus modificaciones, la resolución de la IGJ de 2026, el monotributo, su unificación con Ingresos Brutos y la facturación electrónica, con fecha y fuente.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 27.349, texto actualizado, argentina.gob.ar (consulta del 2026-11-22): https://www.argentina.gob.ar/normativa/nacional/ley-27349-273567/actualizacion"
@@ -16,7 +16,7 @@ fuentes:
   - "Emprender/.investigacion/finanzas-equipo-legal.md"
 aliases: [Ley 27.349, RG IGJ 11/2026, Ley 24.977, monotributo unificado, factura electrónica]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Normativa para empezar en Argentina

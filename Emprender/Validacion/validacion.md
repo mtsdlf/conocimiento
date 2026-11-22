@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La validación es la parte de emprender que comprueba, antes de construir en serio, si hay un problema real y alguien dispuesto a pagar por resolverlo: convierte los supuestos del plan en hipótesis, las pone a prueba con clientes y decide con esa evidencia si se sigue igual o se cambia de rumbo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Eric Ries, The Lean Startup (2011); en castellano, El método Lean Startup (Deusto); partes Vision y Steer según resúmenes: https://www.theleanstartup.com/book"
@@ -16,7 +16,7 @@ fuentes:
   - "Emprender/.investigacion/vistazo.md"
 aliases: [validation, validar una idea, Lean Startup]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Validación

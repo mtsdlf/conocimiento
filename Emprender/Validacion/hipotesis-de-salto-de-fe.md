@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una hipótesis de salto de fe es un supuesto del plan de una empresa nueva del que depende todo lo demás; Ries distingue dos, la de valor (el producto le sirve a quien lo usa) y la de crecimiento (cómo descubren el producto los clientes nuevos), y son las primeras que se prueban.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Eric Ries, The Lean Startup (2011), capítulo Leap según resúmenes; en castellano, El método Lean Startup (Deusto)"
@@ -14,7 +14,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [leap-of-faith assumptions, supuestos de salto de fe, hipótesis de valor, hipótesis de crecimiento, value hypothesis, growth hypothesis, supuestos más riesgosos]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Hipótesis de salto de fe

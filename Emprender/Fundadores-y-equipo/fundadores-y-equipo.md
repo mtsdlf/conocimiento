@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundadores y equipo es cómo se reparten entre quienes fundan la propiedad, las decisiones y el trabajo de una empresa nueva, y cuándo y cómo se suman las primeras personas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Thomas Hellmann y Noam Wasserman, The First Deal: The Division of Founder Equity in New Ventures, NBER WP 16922 (abril de 2011); Management Science (2017): https://www.nber.org/papers/w16922"
@@ -15,7 +15,7 @@ fuentes:
   - "Emprender/.investigacion/finanzas-equipo-legal.md"
 aliases: [founders, cofundadores, equity split, reparto de equity, vesting, cliff, cinco porqués, five whys]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fundadores y equipo

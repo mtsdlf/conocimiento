@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Crecimiento es la parte de emprender que va de los primeros clientes, conseguidos a mano, al encaje producto-mercado, y de ahí a crecer de forma repetible con un motor de crecimiento.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Paul Graham, Do Things that Don't Scale (julio de 2013): https://paulgraham.com/ds.html"
@@ -14,7 +14,7 @@ fuentes:
   - "Emprender/.investigacion/crecimiento-y-modelo.md"
 aliases: [growth, tracción, traction]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Crecimiento

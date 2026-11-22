@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos y siglas que usan las notas de emprender, cada uno con una definición de una línea y la nota que lo desarrolla, más las marcas con que las notas dicen cuánto se leyó de cada fuente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -12,7 +12,7 @@ fuentes:
   - "Emprender/.investigacion/finanzas-equipo-legal.md"
 aliases: [glosario de emprendimiento, términos de startups, vocabulario de emprender, siglas de emprender, jerga de startups]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Glosario de emprender

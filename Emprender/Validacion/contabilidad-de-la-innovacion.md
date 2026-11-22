@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La contabilidad de la innovación es la forma de medir el avance de una empresa nueva que propone Ries: fijar una línea de base con un MVP, afinar el producto para mover esa línea hacia el ideal y decidir con el resultado si pivotar o perseverar, usando métricas accionables y no de vanidad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Eric Ries, The Lean Startup (2011), capítulos Measure y Experiment según resúmenes; en castellano, El método Lean Startup (Deusto)"
@@ -13,7 +13,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [innovation accounting, métricas accionables, actionable metrics, métricas de vanidad, vanity metrics, línea de base, afinar el motor]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Contabilidad de la innovación

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Emprender sin ser una de sus partes: qué es una startup, qué escuelas compiten y con qué evidencia, qué mitos desmienten los datos, qué leer, cuánto pesa cada fuente y la jerga.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Camuffo, Cordova, Gambardella y Spina (2020), A Scientific Approach to Entrepreneurial Decision Making, Management Science, DOI 10.1287/mnsc.2018.3249: https://doi.org/10.1287/mnsc.2018.3249"
@@ -10,7 +10,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [fundamentos de emprendimiento, entrepreneurship foundations]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fundamentos de emprender

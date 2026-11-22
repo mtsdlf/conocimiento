@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Construir-medir-aprender es el ciclo de Ries en el que una empresa nueva convierte una idea en producto, mide cómo responden los clientes y aprende si pivotar o perseverar; lo que produce cada vuelta es aprendizaje validado, y la ventaja está en dar vueltas rápidas con lotes pequeños.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Eric Ries, The Lean Startup (2011), capítulos Experiment, Test y Batch según resúmenes; en castellano, El método Lean Startup (Deusto)"
@@ -14,7 +14,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [build-measure-learn, BML, aprendizaje validado, validated learning, lotes pequeños, small batches]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Construir-medir-aprender

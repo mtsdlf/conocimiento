@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Emprender es armar una empresa nueva en condiciones de incertidumbre: descubrir si hay un problema por el que alguien paga, encontrar un modelo de negocio que lo resuelva de forma rentable y repetible, y hacerlo crecer con la plata, las personas y el marco legal que eso pide.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Eric Ries, The Lean Startup (2011); en castellano, El método Lean Startup (Deusto)"
@@ -10,7 +10,7 @@ fuentes:
   - "Alexander Osterwalder e Yves Pigneur, Business Model Generation (2010)"
   - "Emprender/.investigacion/"
 creado: 2026-11-12
-revisado:
+revisado: 2026-11-22
 ---
 
 # Emprender

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Pivotar es cambiar de forma estructural una hipótesis central del negocio conservando lo aprendido; perseverar es seguir afinando el modelo actual. La decisión entre las dos se toma con los datos de la contabilidad de la innovación, y es la que cierra cada vuelta de la validación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Eric Ries, Pivot, don't jump to a new vision (2009-06-22): https://www.startuplessonslearned.com/2009/06/pivot-dont-jump-to-new-vision.html"
@@ -18,7 +18,7 @@ fuentes:
   - "Emprender/.investigacion/posicion-contraria.md"
 aliases: [pivot, pivote, pivot or persevere, tipos de pivote, zoom-in, zoom-out]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Pivotar o perseverar
