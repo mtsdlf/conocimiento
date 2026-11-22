@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las apps para comerciantes son productos de terceros que un comercio instala en su tienda, desde la tienda de apps de su plataforma, para sumar lo que la plataforma no trae: analítica y rentabilidad, marketing, atribución de anuncios y otras funciones. Viven de la base de comercios de la plataforma, cobran casi siempre según el tamaño del comercio y dependen de reglas que la plataforma puede cambiar o de una función que puede copiar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Escalafy, sitio y precios: https://www.escalafy.com/en y https://www.escalafy.com/en/pricing (leídos, consultados el 2026-11-22; fuente propia de la empresa)"
@@ -16,7 +16,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/plataforma-de-tiendas.md (sección 6)"
 aliases: [apps para tiendas online, apps de Shopify, aplicaciones de Tiendanube, merchant apps, app store, tienda de apps, extensiones, plugins, apps de rentabilidad, profit analytics]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Apps para comerciantes

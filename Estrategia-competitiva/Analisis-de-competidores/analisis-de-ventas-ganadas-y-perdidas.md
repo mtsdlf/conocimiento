@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis de ventas ganadas y perdidas (win/loss) recoge de un cliente, o de quien estuvo por serlo, por qué se ganó o se perdió una venta o un contrato concreto. Es la técnica de la mirada de cliente en el análisis de competidores.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Fleisher y Bensoussan, 1.ª ed. (2007), diapositivas del editor del cap. 15 Win/Loss Analysis: https://ptgmedia.pearsoncmg.com/imprint_downloads/ftpress/bookreg/9780131873667/Ch15.pdf (leídas)"
@@ -10,7 +10,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/analisis-de-competidores-1.md"
 aliases: [win/loss, win-loss analysis, win/loss analysis, WLA, análisis win/loss]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Análisis de ventas ganadas y perdidas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las escuelas de estrategia son las distintas maneras de explicar cómo se forma una estrategia y de dónde sale una ventaja; Mintzberg cuenta diez. Para este tema importan dos disputas: posicionamiento contra recursos, que la evidencia resuelve a medias (la unidad de negocio explica más que la industria, y la industria no es nula), y estrategia deliberada contra emergente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Henry Mintzberg y Joseph Lampel (1999), Reflecting on the Strategy Process, MIT Sloan Management Review: https://sloanreview.mit.edu/article/reflecting-on-the-strategy-process (resumen; no se abrió el artículo completo)"
@@ -18,7 +18,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md, afirmaciones 1 y 2"
 aliases: [escuelas de estrategia, schools of strategy, Strategy Safari, posicionamiento vs recursos, positioning vs resource-based view, estrategia emergente, emergent strategy, how much does industry matter]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Escuelas de estrategia

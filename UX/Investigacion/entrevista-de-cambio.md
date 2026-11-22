@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La entrevista de cambio (switch interview) reconstruye, con alguien que cambió de producto hace poco, la historia de ese cambio: desde el primer pensamiento hasta la compra y el primer uso. Es el método de Moesta y Spiek para encontrar el trabajo que el cliente quería resolver y las fuerzas que lo movieron o lo frenaron.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bob Moesta y Chris Spiek, How to Run a JTBD Switch Interview, jobstobedone.org (sin fecha): https://jobstobedone.org/switch-interview/ (leída a través del resumen de una herramienta)"
@@ -11,7 +11,7 @@ fuentes:
   - "UX/.investigacion/evaluacion-competitiva-y-cambio.md"
 aliases: [switch interview, entrevista de switch, JTBD interview, entrevista JTBD, entrevista de línea de tiempo, timeline interview]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Entrevista de cambio

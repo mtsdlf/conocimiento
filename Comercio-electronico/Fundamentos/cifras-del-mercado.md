@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El tamaño del comercio electrónico en el mundo, Estados Unidos, América Latina, Argentina, Brasil y México, con cada cifra literal, su año de datos, quién la publica, si tiene interés comercial y cuánto se leyó de la fuente. Consultado el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "UNCTAD, Global e-commerce hits $25.6 trillion: https://unctad.org/news/global-E-commerce-hits-256-trillion-latest-unctad-estimates (leído)"
@@ -19,7 +19,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, sección A6 y B7; Comercio-electronico/.investigacion/vistazo.md, sección 3; Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md, sección A; Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md, sección 4"
 aliases: [tamaño del mercado de e-commerce, e-commerce market size, cifras de CACE, cifras de AMVO, estadísticas de comercio electrónico]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Cifras del mercado

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las escuelas de ventas van de la venta a presión y el modelo AIDA a la venta consultiva (SPIN), la de soluciones, la Challenger y la del comprador que se informa solo, y casi todas se apoyan en datos de quien vende el método. La investigación académica sobre vendedores mide otra cosa, qué predice el desempeño, y lo que más respalda es adaptarse a cada cliente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Material de curso sobre enfoques de venta (Gwinner, 1968): https://jan.ucc.nau.edu/~rgm/ha400/class/professional/concept/text-sell-mkt.html (según resumen)"
@@ -22,7 +22,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md, secciones A3 y B1-B2; Ventas/.investigacion/descubrimiento-y-calificacion.md, sección 1; Ventas/.investigacion/objeciones-formas-y-medicion.md, sección B"
 aliases: [escuelas de ventas, metodologías de venta, sales methodologies, enfoques de venta, relationship selling vs Challenger, venta consultiva vs Challenger]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Escuelas de ventas

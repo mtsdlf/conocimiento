@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El FODA (SWOT en inglés) es una lista de fortalezas y debilidades internas y de oportunidades y amenazas externas, que suele presentarse en una matriz de dos por dos. Se lo critica por producir listas que no deciden nada, su origen se reconstruyó recién en 2023 y no se halló evidencia de que usarlo mejore resultados.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Puyt, Lie y Wilderom (2023), The origins of SWOT analysis, Long Range Planning 56(3):102304, DOI 10.1016/j.lrp.2023.102304: https://research.hva.nl/en/publications/the-origins-of-swot-analysis/ (por abstract)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/analisis-propio-y-foda.md (sección B)"
 aliases: [SWOT, SWOT analysis, análisis FODA, DAFO, matriz TOWS, TOWS, TOWS matrix, SOFT]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # FODA

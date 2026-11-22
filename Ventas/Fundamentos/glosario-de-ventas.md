@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos, siglas y nombres de métodos que usan las notas de ventas, cada uno con su nombre en inglés, una definición corta y la nota donde vive.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -13,7 +13,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md, sección A6; Ventas/.investigacion/descubrimiento-y-calificacion.md; Ventas/.investigacion/la-propuesta.md; Ventas/.investigacion/objeciones-formas-y-medicion.md"
 aliases: [glosario de ventas, términos de ventas, vocabulario de ventas, siglas de ventas, sales glossary]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Glosario de ventas

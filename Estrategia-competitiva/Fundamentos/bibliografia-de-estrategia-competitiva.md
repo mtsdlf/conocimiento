@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de estrategia competitiva ordenadas por necesidad (para empezar, para analizar una industria, para analizar competidores, para software y plataformas, para la evidencia): la obra, la edición vigente, la traducción al castellano si se encontró, qué parte leer y en qué fijarse, y cuánto se leyó para armar la base. Ningún libro se leyó entero.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Estrategia-competitiva/.investigacion/fundamentos.md, secciones 1 y 3"
@@ -14,7 +14,7 @@ fuentes:
   - "Marcial Pons, fichas de las traducciones de Porter y Rumelt: https://www.marcialpons.es/libros/estrategia-competitiva/9788436823387/ ; https://www.marcialpons.es/libros/ventaja-competitiva/9788436823219/ ; https://www.marcialpons.es/libros/buena-estrategia-mala-estrategia/9788419558442/"
 aliases: [bibliografía de estrategia, lecturas de estrategia competitiva, libros de estrategia, reading list competitive strategy, por dónde empezar en estrategia]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Bibliografía de estrategia competitiva

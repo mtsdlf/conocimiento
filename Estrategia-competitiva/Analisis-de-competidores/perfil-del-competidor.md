@@ -1,14 +1,14 @@
 ---
 resumen: >-
   El perfil del competidor es el marco de Porter para entender a un rival por cuatro componentes: sus objetivos futuros, sus supuestos, su estrategia actual y sus capacidades. Su producto final es un perfil de respuesta: qué es probable que haga el rival y cómo reaccionaría a una jugada propia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael E. Porter, Competitive Strategy, Free Press (1980), cap. 3 A Framework for Competitor Analysis (pp. 47-74) y apertura del cap. 4 Market Signals (p. 75), leídos en una copia escaneada de la edición de 1998: https://elearn.univ-tlemcen.dz/mod/resource/view.php?id=81871 (se cita el libro; la copia puede desaparecer)"
   - "Estrategia-competitiva/.investigacion/analisis-de-competidores-1.md"
 aliases: [competitor profile, competitor analysis framework, perfil de respuesta, competitor response profile, señales de mercado, market signals]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Perfil del competidor

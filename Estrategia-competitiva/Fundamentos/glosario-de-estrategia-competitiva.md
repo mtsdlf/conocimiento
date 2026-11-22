@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos, siglas y nombres propios que usan las notas de estrategia competitiva, cada uno con una definición de una línea, el término en inglés y la nota donde se desarrolla, más las marcas con que los informes dicen cuánto se leyó de cada fuente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -14,7 +14,7 @@ fuentes:
   - "Estrategia-competitiva/ALCANCE.md, árbol"
 aliases: [glosario de estrategia, términos de estrategia competitiva, vocabulario de estrategia, competitive strategy glossary, siglas de estrategia]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Glosario de estrategia competitiva

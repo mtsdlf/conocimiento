@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un grupo estratégico es un conjunto de empresas de una misma industria que siguen estrategias parecidas en las decisiones clave. Los grupos están separados por barreras de movilidad, y sirven para ver quién compite de verdad contra quién; su evidencia empírica es mixta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael E. Porter (1979), The Structure within Industries and Companies' Performance, Review of Economics and Statistics 61(2):214-227: https://www.jstor.org/stable/1924589 (leído completo en una copia: https://oeclass.aua.gr/eclass/modules/document/file.php/5565/1924589.pdf)"
@@ -14,7 +14,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmaciones 1 y 3)"
 aliases: [strategic groups, strategic group, grupo estratégico, mapa de grupos estratégicos, strategic group map, barreras de movilidad, mobility barriers]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Grupos estratégicos

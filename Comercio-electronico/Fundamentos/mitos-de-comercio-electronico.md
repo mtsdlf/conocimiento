@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de comercio electrónico son frases que circulan como reglas (el 70% de los carritos es venta perdida, hay un promedio de conversión de la industria, las cuotas sin interés son gratis, la tienda propia siempre conviene más que el marketplace, el headless es mejor, la omnicanalidad siempre rinde) sin estudio detrás o contra lo que miden las fuentes. Cada uno, con su evidencia y la nota donde se desarrolla.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Baymard Institute, Cart abandonment rate: https://baymard.com/blog/cart-abandonment-rate y https://baymard.com/lists/cart-abandonment-rate (leídos)"
@@ -23,7 +23,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, parte B; Comercio-electronico/.investigacion/checkout-y-conversion.md, secciones 1 y 2; Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md, secciones 1 y 5"
 aliases: [mitos del e-commerce, e-commerce myths, 70% de carritos abandonados, cuotas sin interés gratis, promedio de conversión]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mitos de comercio electrónico

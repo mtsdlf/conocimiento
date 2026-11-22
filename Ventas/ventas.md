@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Vender es llevar a un cliente concreto desde un problema que tiene hasta un acuerdo para resolverlo con lo que uno ofrece: entender qué le duele, decidir si vale la pena proponerle, armar y presentar la propuesta, responder sus dudas y negociar. Empieza donde marketing dejó a alguien interesado y termina en el acuerdo y lo que viene después.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Philip Kotler, Neil Rackham y Suj Krishnaswamy (2006), Ending the War Between Sales and Marketing, HBR julio-agosto, pp. 68-79: https://store.hbr.org/product/ending-the-war-between-sales-and-marketing/R0607E (solo la ficha); resumen de INSEAD Knowledge: https://knowledge.insead.edu/marketing/winning-combination-sales-and-marketing (según resumen)"
   - "Ventas/.investigacion/ (cuatro informes y posición contraria, 2026-11-22)"
 aliases: [sales, venta, venta B2B, venta consultiva, ciclo de venta, proceso de venta]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Ventas

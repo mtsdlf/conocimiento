@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El ciclo de inteligencia ordena el trabajo de conocer a un rival en etapas: planificar qué hay que saber para una decisión, recolectar, analizar y entregar el resultado a quien decide, que con eso pide lo siguiente. Sirve como vocabulario común y lista de comprobación, no como descripción de cómo se trabaja de verdad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "CIA, A Consumer's Guide to Intelligence, The Intelligence Cycle: https://irp.fas.org/cia/product/facttell/intcycle.htm (leído completo)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmación 5)"
 aliases: [intelligence cycle, ciclo de inteligencia competitiva, competitive intelligence cycle, KIT, key intelligence topics, temas clave de inteligencia, necesidades clave de inteligencia]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Ciclo de inteligencia

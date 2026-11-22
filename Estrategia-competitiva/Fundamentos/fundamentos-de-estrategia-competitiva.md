@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Estrategia competitiva sin ser una de sus partes: qué escuelas compiten y qué dice la evidencia sobre cuánto pesan la industria y la empresa, de dónde viene el campo, qué leer según la necesidad, cuánto pesa cada fuente, qué mitos desmiente la evidencia y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Anita McGahan y Michael Porter (1997), How Much Does Industry Matter, Really?, SMJ 18(S1):15-30: https://ideas.repec.org/a/bla/stratm/v18y1997is1p15-30.html (abstract)"
@@ -12,7 +12,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md, tesis del conjunto"
 aliases: [fundamentos de estrategia competitiva, fundamentos, estrategia competitiva transversal]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fundamentos de estrategia competitiva

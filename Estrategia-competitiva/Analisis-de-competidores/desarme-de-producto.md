@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El desarme de producto (teardown) es estudiar el producto de un rival pieza por pieza para entender cómo está hecho, qué resuelve bien y cuánto costaría igualarlo. Su artefacto más común en software es la matriz de funcionalidades, que muestra quién ofrece qué y sirve para ver el espacio, no para decidir qué construir.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "TIME (22 de octubre de 1973), Business: Tearing Down the Competition: https://time.com/archive/6841903/business-tearing-down-the-competition/ (leído)"
@@ -19,7 +19,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (evidencia transversal sobre copiar e imitar)"
 aliases: [teardown, product teardown, desarme, benchmarking de producto, matriz de funcionalidades, feature matrix, feature comparison, paridad de funcionalidades, feature parity]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Desarme de producto

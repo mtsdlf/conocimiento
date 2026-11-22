@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La medición comercial cuenta cuántas oportunidades entran a la venta, cuántas avanzan y se cierran, por cuánto y en cuánto tiempo. Sirve para ver dónde se traba la venta y para prever cuánto va a entrar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Outreach, Pipeline velocity: https://outreach.io/resources/blog/pipeline-velocity (según resumen)"
@@ -17,7 +17,7 @@ fuentes:
   - "Ventas/.investigacion/objeciones-formas-y-medicion.md (sección C)"
 aliases: [sales metrics, métricas de ventas, sales funnel, embudo de ventas, pipeline, win rate, tasa de cierre, sales cycle, ciclo de venta, pipeline velocity, sales velocity, velocidad del pipeline, sales forecast, previsión de ventas, forecast]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Medición comercial

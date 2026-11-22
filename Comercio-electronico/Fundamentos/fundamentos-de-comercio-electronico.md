@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Comercio electrónico sin ser una de sus partes: de dónde viene el comercio electrónico, qué leer según la necesidad, cuánto pesa cada fuente y qué vende, las cifras del mercado con su año y su autor, los mitos que desmiente la evidencia y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OECD, The 2025 OECD definition of e-commerce and guidelines for interpretation, Technical Paper, octubre de 2025, copia en UNCTAD: https://unctad.org/system/files/information-document/2025oecddefinitionofecommerce_guidelinesforinterpretation.pdf (leído)"
@@ -10,7 +10,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, partes A y B; Comercio-electronico/.investigacion/vistazo.md, secciones 1 y 4"
 aliases: [fundamentos del comercio electrónico, e-commerce fundamentals, fundamentos de e-commerce]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fundamentos de comercio electrónico

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Identificar competidores es armar la lista de quienes pueden quedarse con el cliente que uno quiere: los rivales directos, pero también los indirectos, los sustitutos, los que todavía no entraron y la opción de no comprar nada. Es el primer paso del análisis, y el que más se hace mal por mirar solo a los parecidos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mark Bergen y Margaret Peteraf (2002), Competitor identification and competitor analysis: a broad-based managerial approach, Managerial and Decision Economics 23(4-5):157-169, DOI 10.1002/mde.1059: https://ideas.repec.org/a/wly/mgtdec/v23y2002i4-5p157-169.html (solo abstract)"
@@ -17,7 +17,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmación 4)"
 aliases: [competitor identification, identificar competidores, competidores directos, competidores indirectos, sustitutos, competidores potenciales, no consumo, nonconsumption, statu quo]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Identificación de competidores

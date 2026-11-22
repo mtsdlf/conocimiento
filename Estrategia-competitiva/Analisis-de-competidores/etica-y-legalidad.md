@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ética y la legalidad del análisis de competidores marcan qué se puede averiguar de un rival y cómo: lo público se puede usar, y el problema empieza al obtener lo que el rival protege como secreto, al entrar donde no hay permiso, al engañar sobre quién pregunta o al combinar información con el competidor. En Argentina lo ordenan la Ley 24.766, el Código Penal, la Ley 25.326 y la Ley 27.442.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ley 24.766 de confidencialidad, art. 1, copia no oficial: https://leyes-ar.com/ley_de_confidencialidad/1.htm (leído); art. 12: https://leyes-ar.com/ley_de_confidencialidad/12.htm (leído en fragmentos); copia de WIPO Lex: https://www.wipo.int/wipolex/es/text/124731 (según resumen); texto oficial en https://www.argentina.gob.ar/normativa/nacional/41094/texto (no se pudo abrir)"
@@ -12,7 +12,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/analisis-de-competidores-2.md"
 aliases: [ética de la inteligencia competitiva, competitive intelligence ethics, legalidad, espionaje industrial, industrial espionage, pretexting, mystery shopping, scraping]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Ética y legalidad

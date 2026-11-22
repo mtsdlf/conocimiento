@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las operaciones del comercio son el trabajo que convierte una venta confirmada en un producto entregado: el catálogo y el stock que hacen posible la venta, el pedido, el envío, la devolución y la atención al comprador. Funcionan como una sola cadena de estados, que empieza en la variante de un producto y termina cuando el comprador se queda con lo que compró o lo devuelve.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Shopify, guía de apps de gestión de inventario: https://shopify.dev/docs/apps/build/orders-fulfillment/inventory-management-apps (leída a través de un resumen de una herramienta)"
@@ -15,7 +15,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md"
 aliases: [operaciones, operations, fulfillment, cumplimiento de pedidos, logística del comercio, back office, order management]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Operaciones del comercio

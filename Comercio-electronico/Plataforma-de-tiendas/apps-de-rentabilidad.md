@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las apps de analítica de rentabilidad y atribución para tiendas online con datos públicos: en qué plataformas se instalan, sobre qué cobran, su precio de entrada y sus reseñas, consultadas el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Shopify App Store, BeProfit: https://apps.shopify.com/beprofit-profit-tracker (leído vía herramienta de resumen, 2026-11-22)"
@@ -14,7 +14,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-plataformas.md (secciones 4b y 4c)"
 aliases: [profit analytics, apps de atribución, profit tracker]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Apps de rentabilidad

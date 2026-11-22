@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las cifras de uso de Pix, la transferencia instantánea del Banco Central do Brasil, y su participación en el comercio electrónico brasileño, con el año de los datos y quién las publica, a noviembre de 2026.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Banco Central do Brasil, Relatório de Gestão do Pix 2023-2025, datos a diciembre de 2025: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf (leído: índice, estadísticas clave, MED y Pix Automático)"
@@ -13,7 +13,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/pagos.md (sección 4)"
 aliases: [Pix en números, estadísticas de Pix]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Pix en cifras

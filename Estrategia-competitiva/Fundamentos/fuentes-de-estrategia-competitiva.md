@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En estrategia competitiva, el conocimiento con método se publica en pocas revistas académicas (Strategic Management Journal, Strategy Science), se traslada a gestores por HBR y MIT Sloan Management Review, y la práctica del análisis de competidores la codifican una asociación profesional (SCIP) y libros de practicantes. Las revistas pesan más para saber qué está probado; los practicantes, para saber cómo se hace.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "JournalMetrics, Strategic Management Journal: https://www.journalmetrics.org/journal/strategic-management-journal-2 (resumen)"
@@ -17,7 +17,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md, afirmación 7 y evidencia transversal"
 aliases: [peso de las fuentes, fuentes de estrategia, evidencia en estrategia competitiva, revistas de estrategia, strategy journals]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fuentes de estrategia competitiva

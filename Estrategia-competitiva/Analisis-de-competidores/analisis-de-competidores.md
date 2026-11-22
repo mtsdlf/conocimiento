@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Analizar competidores, para diseñar un producto, es averiguar quién más puede resolverle el problema al cliente, qué hace, qué quiere y cómo respondería a una jugada propia, para decidir qué construir y dónde no pelear. Es la parte práctica de la estrategia competitiva: identificar rivales, perfilarlos, mirarlos desde varias perspectivas, juntar información de forma legal y no engañarse.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael E. Porter, Competitive Strategy, Free Press (1980), cap. 3 A Framework for Competitor Analysis y apertura del cap. 4 (leídos)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmaciones 4, 5, 6 y 7, y la evidencia transversal)"
 aliases: [competitor analysis, análisis de la competencia, análisis competitivo, competitive analysis, inteligencia competitiva, competitive intelligence, CI]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Análisis de competidores

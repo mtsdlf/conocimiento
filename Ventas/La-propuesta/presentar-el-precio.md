@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Presentar el precio es decidir contra qué número lo va a comparar el cliente y cuántas opciones se le ofrecen. El primer número que ve pesa (el anclaje está bien replicado), y conviene que sea uno justificable, como lo que hoy le cuesta el problema; el efecto señuelo y la sobrecarga de opciones están en disputa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Galinsky y Mussweiler (2001), JPSP 81(4):657-669: https://pubmed.ncbi.nlm.nih.gov/11642352 ; https://www.kellogg.northwestern.edu/faculty/research/detail/2001/first-offers-as-anchors-the-role-of-perspective-taking (solo abstract)"
@@ -22,7 +22,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md (B4)"
 aliases: [price presentation, presentar la cotización, anclaje de precio, price anchoring, primera oferta, first offer, efecto señuelo, decoy effect, attraction effect, efecto de compromiso, compromise effect, sobrecarga de elección, choice overload, cuántas opciones, good-better-best]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Presentar el precio

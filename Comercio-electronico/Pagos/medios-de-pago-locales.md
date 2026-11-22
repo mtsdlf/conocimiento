@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los medios de pago locales son los rieles que mueven el dinero sin pasar por las redes de tarjetas, como las transferencias instantáneas de un banco central, los pagos con QR y las billeteras con saldo propio. En América Latina compiten con la tarjeta en la venta online y cambian lo que cuesta cobrar, cuándo llega el dinero y si el pago se puede revertir.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "BCRA, Transferencias 3.0, sin fecha: https://www.bcra.gob.ar/sistemas-de-pago/transferencias-3-0/ (leído vía herramienta de resumen)"
@@ -15,7 +15,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md (sección 3)"
 aliases: [local payment methods, LPM, alternative payment methods, APM, transferencia instantánea, instant payment, Transferencias 3.0, pago con QR, billetera virtual, digital wallet, Pix, MED, Pix Automático]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Medios de pago locales

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las plataformas de tiendas se dividen en tres tipos según quién opera el software y en qué sitio se vende: la alojada, que el proveedor opera y el comercio alquila; la de código abierto autoalojada, que el comercio instala y mantiene; y el marketplace, donde el comercio vende dentro del sitio de otro. Headless y composable no son un cuarto tipo: son una forma de armar la tienda que se elige con condiciones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "WooCommerce, About: https://woocommerce.com/about/ (leída, consultada el 2026-11-22)"
@@ -17,7 +17,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vistazo.md (sección 2)"
 aliases: [tipos de plataforma de e-commerce, SaaS commerce, hosted platform, plataforma alojada, self-hosted, código abierto autoalojado, open source commerce, headless commerce, composable commerce, MACH]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Tipos de plataforma

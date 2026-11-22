@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La obsesión por el competidor es fijar como objetivo ganarle al rival (en cuota de mercado o en cualquier comparación) en lugar de servir mejor al cliente. La evidencia separa dos cosas: analizar y vigilar a los competidores es una práctica razonable, y fijarse como objetivo superarlos se asocia con menos beneficio.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "J. Scott Armstrong y Fred Collopy (1996), Journal of Marketing Research 33(2):188-199: https://mpra.ub.uni-muenchen.de/81676/ (leído completo)"
@@ -14,7 +14,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/vistazo-practica.md"
 aliases: [competitor orientation, competitor obsession, orientación al competidor, competitor-oriented objectives, objetivos orientados al competidor, market share myth, orientación al mercado, market orientation]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Obsesión por el competidor

@@ -1,14 +1,14 @@
 ---
 resumen: >-
   El comercio electrónico es la compra o venta de bienes o servicios en la que el pedido se hace por un medio digital diseñado para eso, como una tienda online, una app o un marketplace, aunque el pago y la entrega ocurran fuera de línea. Vender así pide resolver cinco cosas: el software de la tienda, el cobro, el paso del carrito a la compra, la operación que entrega lo vendido y las reglas que lo regulan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OECD, The 2025 OECD definition of e-commerce and guidelines for interpretation, Technical Paper, octubre de 2025, copia en UNCTAD: https://unctad.org/system/files/information-document/2025oecddefinitionofecommerce_guidelinesforinterpretation.pdf (leído)"
   - "Comercio-electronico/.investigacion/ (vistazo, informes por vertical, huecos y posición contraria, 2026-11-22)"
 aliases: [e-commerce, ecommerce, comercio online, venta online, tienda online, comercio digital]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Comercio electrónico

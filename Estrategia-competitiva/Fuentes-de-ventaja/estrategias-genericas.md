@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las estrategias genéricas de Porter son tres maneras de ganar ventaja: liderazgo en costos, diferenciación y enfoque en un segmento. Porter sostiene que quien no elige queda "stuck in the middle" y rinde menos, y esa tesis tiene evidencia a favor y en contra.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael E. Porter (1980), Competitive Strategy, Free Press, cap. 2; y (1985), Competitive Advantage, Free Press, cap. 1 (no abiertos)"
@@ -12,7 +12,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/fundamentos.md (glosario y bibliografía)"
 aliases: [generic strategies, estrategias competitivas genéricas, liderazgo en costos, cost leadership, diferenciación, differentiation, enfoque, focus, stuck in the middle, atascado en el medio]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Estrategias genéricas

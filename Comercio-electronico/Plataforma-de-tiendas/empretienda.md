@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos públicos de Empretienda, una plataforma de tiendas concentrada en Argentina: su conteo de tiendas según un rastreador, consultado el 2026-11-22; origen, planes y API quedan como hueco porque su sitio no abrió.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "StoreLeads, Empretienda: https://storeleads.app/reports/empretienda (leído; página actualizada 2026-11-13)"
@@ -10,7 +10,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-plataformas.md (sección 2)"
 aliases: []
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Empretienda

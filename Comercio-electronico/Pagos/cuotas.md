@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Pagar en cuotas es dividir el pago de una compra en pagos mensuales. Cuando el comprador ve «sin interés», la financiación igual tiene un costo, que pagan el comercio con una comisión mayor, los compradores al contado con un precio de lista más alto o, en programas oficiales, el Estado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "iProfesional, Los secretos detrás de las cuotas sin interés, 19/02/2020: https://www.iprofesional.com/finanzas/309622-los-secretos-detras-de-las-cuotas-sin-interes (leído; datos de entonces)"
@@ -16,7 +16,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md (secciones 1 y 3)"
 aliases: [installments, cuotas sin interés, interest-free installments, meses sin intereses, parcelado sem juros, CFT, costo financiero total, BNPL, buy now pay later]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Cuotas

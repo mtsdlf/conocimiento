@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los puntos ciegos son los sesgos predecibles de quien analiza a la competencia: no prever cómo va a responder el rival, no ver a los competidores que todavía no están o no se parecen a uno, y decidir mirando la propia capacidad en vez de la del resto. Se corrigen con método y con un seguimiento periódico de los rivales, no con más datos de una sola vez.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Zajac y Bazerman (1991), Blind spots in industry and competitor analysis, Academy of Management Review 16(1):37-56: https://www.kellogg.northwestern.edu/academics-research/research/detail/1991/blind-spots-in-industry-and-competitor-analysis-the-implications/ (según su abstract)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmación 4)"
 aliases: [blind spots, blindspots, puntos ciegos competitivos, competitor neglect, reference group neglect, competidor ausente, alerta temprana, early warning, sesgos del analista]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Puntos ciegos

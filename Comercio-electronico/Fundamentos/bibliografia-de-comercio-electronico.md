@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de comercio electrónico ordenadas por necesidad (entender el dominio, plataformas de tiendas, pagos, checkout y conversión, canales y operaciones, América Latina): la obra, qué parte leer y en qué fijarse, de qué tipo es y cuánto se leyó para armar la base. Ningún libro se leyó; casi todo lo leído son documentos públicos, normas y páginas de proveedores.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, secciones A4 y A8"
@@ -13,7 +13,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md, recursos canónicos"
 aliases: [lecturas de comercio electrónico, bibliografía de e-commerce, e-commerce reading list, libros de comercio electrónico]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Bibliografía de comercio electrónico

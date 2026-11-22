@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de estrategia competitiva son frases que circulan como reglas (ser primero gana, la disrupción es cualquier innovación, las cinco fuerzas son un análisis estático que alcanza, el SWOT es un análisis de competencia, más datos sobre el rival dan una mejor decisión, ganarle al rival es el objetivo, la estrategia es una guerra) contra lo que miden los estudios o sin estudio detrás. Cada uno, con la evidencia y la nota donde se trata a fondo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Peter Golder y Gerard Tellis (1993), Pioneer advantage: marketing logic or marketing legend?, JMR 30(2):158-170: https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%205/Golder%20and%20Tellis.pdf (texto completo)"
@@ -21,7 +21,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/dinamica-competitiva.md, secciones 2 y 4"
 aliases: [mitos de estrategia competitiva, marketing warfare, la estrategia es una guerra, competitive strategy myths, first mover advantage myth, SWOT, FODA, más datos mejor decisión]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mitos de estrategia competitiva

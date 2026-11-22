@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una plataforma de tiendas es el software con el que un comercio arma y opera su tienda online: catálogo, vitrina, carrito, checkout y panel de gestión. Las plataformas se diferencian por quién opera el software, cómo dejan que otros lo extiendan, de qué cobran y a qué tamaño de comercio le venden.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Shopify, 10-K del ejercicio 2025: https://www.sec.gov/Archives/edgar/data/1594805/000159480526000007/shop-20251231.htm (leído en parte, por tramos)"
@@ -12,7 +12,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (B1 y B2)"
 aliases: [plataforma de e-commerce, ecommerce platform, plataforma de comercio electrónico, plataforma de tiendas online, software de tienda online, commerce platform]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Plataforma de tiendas

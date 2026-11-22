@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El océano azul, de Kim y Mauborgne, es la idea de crear un espacio de mercado sin competencia directa en vez de pelear en uno saturado. Su parte más útil es una técnica: comparar en un gráfico lo que ofrece cada competidor y decidir qué eliminar, reducir, aumentar y crear.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "W. Chan Kim y Renée Mauborgne (2004), Blue ocean strategy, HBR octubre 2004: https://hbr.org/2004/10/blue-ocean-strategy (solo el resumen)"
@@ -17,7 +17,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/fundamentos.md"
 aliases: [blue ocean strategy, estrategia del océano azul, océano rojo, red ocean, lienzo estratégico, strategy canvas, marco de las cuatro acciones, four actions framework, ERRC, eliminar reducir aumentar crear, curva de valor, value curve]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Océano azul

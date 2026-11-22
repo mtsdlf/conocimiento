@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estrategia competitiva estudia por qué unas empresas ganan más que otras en un mismo mercado: qué tan rentable es la industria, de dónde sale una ventaja que dure, cómo se mueven los rivales y cómo se los analiza. Sirve para decidir dónde y cómo competir antes de diseñar un producto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael E. Porter, Competitive Strategy, Free Press (1980), cap. 3 A Framework for Competitor Analysis (ver Estrategia-competitiva/.investigacion/analisis-de-competidores-1.md)"
@@ -13,7 +13,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/ (vistazos, informes por vertical y posición contraria, 2026-11-22)"
 aliases: [competitive strategy, estrategia de competencia, análisis competitivo, competitive analysis]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Estrategia competitiva

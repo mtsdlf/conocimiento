@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las formas de vender son las maneras de organizar una venta según qué se ofrece (un producto estándar, una solución a medida, un servicio profesional) y cómo se comporta el vendedor con el cliente. La forma que conviene depende de lo que se vende y de cómo quiere comprar quien compra.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tuli, Kohli y Bharadwaj (2007), Rethinking Customer Solutions: From Product Bundles to Relational Processes, Journal of Marketing 71(3):1-17, DOI 10.1509/jmkg.71.3.1: https://www.ama.org/2018/10/01/rethinking-customer-solutions-from-product-bundles-to-relational-processes/ (según resumen; la página de la AMA dice volumen 70, el registro y el DOI dicen 71)"
@@ -18,7 +18,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md (B2 y B5)"
 aliases: [sales methodologies, metodologías de venta, venta transaccional, transactional selling, venta consultiva, consultative selling, solution selling, venta de soluciones, Challenger Sale, venta Challenger, trusted advisor, venta de servicios profesionales, comprador B2B]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Formas de vender

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Acción y respuesta es la línea de investigación que estudia cuándo un rival responde a un movimiento competitivo, con qué probabilidad y con qué velocidad. Su modelo central, de Chen (1996), lo explica por cuánto se superponen los mercados de dos empresas y cuánto se parecen sus recursos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ming-Jer Chen (1996), Competitor analysis and interfirm rivalry: Toward a theoretical integration, Academy of Management Review 21(1):100-134, DOI 10.5465/amr.1996.9602161567: https://scilit.com/publications/a61c40695df28c2d3c0d86aa53ffb596 (registro) y https://www.proquest.com/docview/210974655 (no se leyó el texto; según resúmenes y citas)"
@@ -20,7 +20,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/vistazo-teoria.md"
 aliases: [competitive action and response, acción competitiva, respuesta competitiva, competitive dynamics, AMC, awareness-motivation-capability, comunalidad de mercado, market commonality, similitud de recursos, resource similarity, asimetría competitiva, competencia multimercado, multimarket contact, tolerancia mutua, mutual forbearance, líder, retador, seguidor, especialista de nicho, market leader, challenger, follower, nicher, marketing warfare]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Acción y respuesta

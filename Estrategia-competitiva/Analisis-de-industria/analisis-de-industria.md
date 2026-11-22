@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis de industria estudia la estructura de un mercado para estimar cuánto rinde, en promedio, competir en él y quiénes compiten de verdad contra quién. Sus herramientas son las cinco fuerzas de Porter y los grupos estratégicos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael E. Porter (2008), The Five Competitive Forces That Shape Strategy, HBR, enero de 2008, reimpresión R0801E: https://public.dhe.ibm.com/software/data/sw-library/cognos/pdfs/articles/art_the_five_competitive_forces_that_shape_strategy.pdf (leído completo, copia del reimpreso)"
@@ -14,7 +14,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmación 1)"
 aliases: [industry analysis, análisis sectorial, análisis del sector, estructura de la industria, industry structure]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Análisis de industria

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una objeción es una duda o una resistencia que el cliente pone ante la propuesta; negociar es acordar con él los términos del trato. Esta parte de la venta convierte un «no todavía» en un acuerdo o en la decisión de retirarse; cuánto ceder en precio todavía no tiene fuente en esta base.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Program on Negotiation, Harvard Law School, Principled Negotiation: Focus on Interests to Create Value (fecha mostrada 2026-11-03): https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/ (leída completa)"
@@ -18,7 +18,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md (B6)"
 aliases: [objection handling, sales objections, negotiation, negociación, manejo de objeciones, BATNA, MAAN, principled negotiation, negociación por principios, cierre]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Objeciones y negociación

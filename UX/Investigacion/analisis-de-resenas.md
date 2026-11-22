@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis de reseñas lee lo que la gente publica sobre un producto propio o ajeno (en tiendas de apps, directorios de software y foros) y lo codifica por temas para saber de qué se queja y qué valora. Es barato y llega a los rivales, pero las reseñas son una muestra sesgada: escriben sobre todo los muy conformes y los muy enojados, y una parte es falsa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hu, Pavlou y Zhang (2009), Overcoming the J-shaped distribution of product reviews, Communications of the ACM 52(10):144-147, doi 10.1145/1562764.1562800 (solo la introducción, vía OpenAlex)"
@@ -13,7 +13,7 @@ fuentes:
   - "UX/.investigacion/evaluacion-competitiva-y-cambio.md"
 aliases: [review mining, análisis de opiniones, minería de reseñas, análisis de reviews, reseñas de usuarios, user reviews, app store reviews, J-shaped distribution, distribución en J]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Análisis de reseñas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las preguntas de descubrimiento son las que el vendedor hace antes de proponer, para entender el problema del cliente, cuánto le cuesta y qué espera resolver. El método más citado es SPIN, de Rackham; la evidencia independiente más sólida no es sobre SPIN sino sobre la venta adaptativa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Huthwaite International, The science behind SPIN Selling, whitepaper (2024): https://icaptraining.gr/wp-content/uploads/2024/07/Whitepaper-The-Science-behind-SPIN%C2%AE-Selling-2024.pdf (leído en parte; documento del dueño del método)"
@@ -18,7 +18,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md (B1)"
 aliases: [discovery, discovery questions, preguntas de descubrimiento, SPIN, SPIN selling, venta adaptativa, adaptive selling, orientación al cliente, customer orientation, SOCO]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Preguntas de descubrimiento

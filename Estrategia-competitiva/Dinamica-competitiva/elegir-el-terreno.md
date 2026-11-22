@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Elegir el terreno es cómo un entrante chico compite contra incumbentes grandes decidiendo dónde pelear: evitar el choque frontal, limitar el ataque para que al grande le convenga acomodarse y ocupar la periferia del mercado que el grande deja. Tiene modelos teóricos y estudios ecológicos detrás, pero ninguno en software.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "David Yoffie y Michael Cusumano (1999), Judo strategy: the competitive dynamics of Internet time, HBR enero-febrero 1999: https://hbr.org/1999/01/judo-strategy-the-competitive-dynamics-of-internet-time (solo la introducción)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/eleccion-del-terreno.md"
 aliases: [elegir el terreno, judo strategy, estrategia judo, judo economics, economía judo, puppy dog ploy, fat cat effect, top dog, lean and hungry look, taxonomía de Fudenberg y Tirole, resource partitioning, partición de recursos, entrante chico contra incumbente]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Elegir el terreno

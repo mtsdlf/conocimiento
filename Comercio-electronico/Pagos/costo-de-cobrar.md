@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cobrar una venta con tarjeta le cuesta al comercio un porcentaje del monto, la tasa de descuento, que se reparte entre el emisor, la red y el adquirente o agregador, y que sube cuanto antes quiera disponer del dinero. Conciliar es comprobar que lo acreditado, menos lo descontado, coincide con lo vendido.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Reglamento (UE) 2015/751, EUR-Lex: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0751 (leído vía herramienta de resumen: arts. 3, 4, 5, 7, 9 y 18)"
@@ -15,7 +15,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (A7, glosario)"
 aliases: [merchant discount rate, MDR, tasa de descuento, arancel, comisión por cobro, interchange, tasa de intercambio, scheme fee, plazo de acreditación, settlement time, conciliación, reconciliation]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Costo de cobrar

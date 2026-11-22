@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Checkout y conversión es el tramo de una venta online que va desde que el comprador pone un producto en el carrito hasta que paga, y la medida de cuántos compradores lo completan. Se estudia con tres miradas: el embudo que lo mide, el abandono que muestra dónde se corta y la usabilidad que explica qué del diseño lo traba.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Google, Measure ecommerce (GA4, guía para desarrolladores): https://developers.google.com/analytics/devguides/collection/ga4/ecommerce (leído)"
@@ -15,7 +15,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vistazo.md"
 aliases: [checkout, conversión, conversion, checkout and conversion, optimización de la conversión, CRO]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Checkout y conversión

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que dos plataformas de tiendas alojadas, Shopify y Tiendanube, dejan configurar del checkout al comercio y lo que fijan ellas, según su documentación pública. Consultado el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Shopify, Checkout (documentación para desarrolladores): https://shopify.dev/docs/apps/build/checkout (leído)"
@@ -10,7 +10,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/checkout-y-conversion.md (sección 4)"
 aliases: [personalización del checkout, checkout extensibility, opciones del checkout]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Checkout por plataforma

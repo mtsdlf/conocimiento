@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Competir con la plataforma es el riesgo de un producto que vive dentro del ecosistema de otro: que el dueño de la plataforma entre a su espacio con una función propia. Los estudios con datos de Amazon, Android y la App Store muestran que la plataforma tiende a entrar donde a los terceros les va bien, y que la respuesta de cada tercero depende de si tiene otra plataforma adonde ir.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Feng Zhu y Qihong Liu (2018), Competing with complementors: An empirical look at Amazon.com, Strategic Management Journal 39(10):2618-2642, DOI 10.1002/smj.2932: https://econpapers.repec.org/RePEc:bla:stratm:v:39:y:2018:i:10:p:2618-2642 (abstract) y https://dash.harvard.edu/bitstream/handle/1/37377131/zhu,liu_competing-with-complementors.pdf (leídos la introducción y los datos)"
@@ -18,7 +18,7 @@ fuentes:
   - "Producto/.investigacion/competencia-y-precios.md"
 aliases: [competing with complementors, competir con el complementador, platform owner entry, entrada del dueño de la plataforma, complementador, complementor, sherlocking, agregador, aggregator, aggregation theory, teoría de la agregación]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Competencia con la plataforma

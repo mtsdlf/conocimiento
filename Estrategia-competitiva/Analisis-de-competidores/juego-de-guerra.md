@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un juego de guerra empresarial es una simulación en la que personas actúan como los competidores, los clientes y la propia empresa para anticipar cómo responderá cada uno a una jugada. La simulación con roles tiene respaldo experimental para pronosticar decisiones en conflictos; para el juego de guerra empresarial no se encontró evaluación publicada.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "J. Scott Armstrong (2002), Assessing game theory, role playing, and unaided judgment, International Journal of Forecasting 18:345-352: https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Assessing-Game-Theory.pdf (leído completo)"
@@ -16,7 +16,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmación 6)"
 aliases: [business war game, business war gaming, war game, wargaming, juego de guerra empresarial, simulación competitiva, role playing, juego de roles, simulated interaction, interacción simulada]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Juego de guerra

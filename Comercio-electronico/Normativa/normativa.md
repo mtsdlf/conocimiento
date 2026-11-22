@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La normativa del comercio electrónico son las reglas que alcanzan a una venta online además de las de cualquier venta: el derecho del comprador a arrepentirse, la información que el sitio tiene que mostrar, la factura de cada venta, la recaudación de impuestos en el momento del cobro y el cuidado de los datos personales. Cambia por país y seguido, así que lo vigente vive en una ficha por país.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Disposición 954/2025 SSDCyLC, Boletín Oficial, 04/09/2025: https://www.boletinoficial.gob.ar/detalleAviso/primera/330827/20250904 (leída a través de un resumen)"
@@ -14,7 +14,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vistazo.md"
 aliases: [regulación del comercio electrónico, e-commerce regulation, derecho del consumidor online, ley de comercio electrónico]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Normativa

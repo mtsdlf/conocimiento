@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación competitiva compara la usabilidad del producto propio con la de dos a cuatro rivales, con las mismas tareas y las mismas métricas. Se hace como revisión de un experto o como test con usuarios, y su fin es mejorar el diseño propio, no declarar un ganador ni copiar al líder.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Tim Neusesser, NN/g (5-ene-2024), Competitive Usability Evaluations: https://www.nngroup.com/articles/competitive-usability-evaluations/ (leída a través del resumen de una herramienta)"
@@ -14,7 +14,7 @@ fuentes:
   - "UX/.investigacion/evaluacion-competitiva-y-cambio.md"
 aliases: [competitive usability evaluation, evaluación competitiva de usabilidad, test competitivo, competitive usability test, revisión competitiva, competitive review, benchmark competitivo, competitive benchmarking, SUPR-Q]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Evaluación competitiva

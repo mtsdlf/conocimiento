@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Descubrir y calificar es lo que se hace antes de proponer: preguntar para entender el problema del cliente y cuánto le cuesta, decidir si vale la pena proponerle y averiguar quién decide de verdad. Lo que sale de acá dice qué proponer y a quién.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Huthwaite International, The science behind SPIN Selling, whitepaper (2024): https://icaptraining.gr/wp-content/uploads/2024/07/Whitepaper-The-Science-behind-SPIN%C2%AE-Selling-2024.pdf (leído en parte; del dueño del método)"
@@ -12,7 +12,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md (B1 y B3)"
 aliases: [discovery, descubrimiento, qualification, calificación, discovery and qualification, primera reunión, reunión de descubrimiento]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Descubrimiento y calificación

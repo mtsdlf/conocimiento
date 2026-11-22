@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una plataforma de tiendas gana plata por dos vías: la suscripción mensual que paga cada comercio y una parte de lo que el comercio vende, sobre todo por procesar sus pagos. La segunda crece con las ventas de los comercios y en Shopify ya es tres cuartos del ingreso; se lee con GMV, take rate, MRR y penetración de pagos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Shopify, 10-K del ejercicio 2025 (cierre 31/12/2025), Item 1 y Item 7: https://www.sec.gov/Archives/edgar/data/1594805/000159480526000007/shop-20251231.htm (leído en parte, por tramos)"
@@ -14,7 +14,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vistazo.md (sección 2)"
 aliases: [modelo de negocio de una plataforma de e-commerce, GMV, gross merchandise volume, volumen bruto de mercadería, take rate, tasa de captura, MRR, monthly recurring revenue, ingreso recurrente mensual, penetración de pagos, attach rate, subscription solutions, merchant solutions]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # El negocio de una plataforma de tiendas

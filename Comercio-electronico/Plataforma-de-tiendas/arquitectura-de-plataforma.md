@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una plataforma de tiendas alojada corre una sola instalación que sirve a muchas tiendas, y se abre a terceros por cuatro puertas: los temas, la tienda de apps, las APIs y los webhooks. Quien construye encima trabaja dentro de límites de uso por tienda y tiene que seguir el calendario de versiones de la API.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Shopify Engineering, MySQL database shard balancing at terabyte scale: https://shopify.engineering/mysql-database-shard-balancing-terabyte-scale (leída a través de un resumen de la página)"
@@ -16,7 +16,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vistazo.md (sección 2)"
 aliases: [arquitectura de una plataforma de e-commerce, pods, pod, temas, themes, Liquid, tienda de apps, app store, API, webhooks, rate limit, límite de tasa, versionado de API]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Arquitectura de una plataforma de tiendas

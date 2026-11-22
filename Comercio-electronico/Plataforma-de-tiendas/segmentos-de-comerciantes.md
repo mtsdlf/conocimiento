@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una plataforma de tiendas atiende a comercios de tamaños muy distintos, del emprendedor que abre su primera tienda a la marca grande con equipo propio. Los separa con una escalera de planes: a medida que el plan sube, la suscripción aumenta, la comisión por venta baja y se suman funciones, capacidad técnica y atención.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Shopify, pricing: https://www.shopify.com/pricing (leída, consultada el 2026-11-22)"
@@ -14,7 +14,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-plataformas.md (sección 3)"
 aliases: [segmentos de comerciantes, merchant segments, SMB, pyme, mid-market, mediana empresa, enterprise, emprendedor, planes de una plataforma de e-commerce]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Segmentos de comerciantes

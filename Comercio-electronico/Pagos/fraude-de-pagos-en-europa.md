@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las cifras de fraude con tarjeta y de quién carga con las pérdidas en la Unión Europea y el Espacio Económico Europeo, del informe conjunto de la EBA y el BCE de diciembre de 2025, con datos de 2024.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "EBA y BCE, 2025 Report on Payment Fraud (EBA/REP/2025/40), diciembre de 2025, datos 2022-2024: https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.ebaecb202512.en.pdf (leído: resumen ejecutivo y capítulos 2 a 6)"
@@ -9,7 +9,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/pagos.md (sección 3)"
 aliases: [payment fraud report, tasa de fraude con tarjeta, card fraud rate]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fraude de pagos en Europa

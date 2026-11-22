@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las normas argentinas que alcanzan a una venta online, vigentes al 2026-11-22: el botón de arrepentimiento y el de baja de la Disposición 954/2025, la revocación de 10 días del Código Civil y Comercial y de la Ley 24.240, la factura electrónica de ARCA, el SIRTAC de Ingresos Brutos y la Ley 25.326 de datos personales, con su fuente y cuántas tiene cada una.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Disposición 954/2025 SSDCyLC (Ministerio de Economía), Boletín Oficial, 04/09/2025 (fuente viva): https://www.boletinoficial.gob.ar/detalleAviso/primera/330827/20250904 (leída a través de un resumen de una herramienta; cotejar las citas con el texto oficial)"
@@ -16,7 +16,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md"
 aliases: [botón de arrepentimiento, botón de baja, Disposición 954/2025, Res. 424/2020, art. 1110 CCyC, Ley 24.240, Ley de Defensa del Consumidor, SIRTAC, Ley 25.326, factura electrónica ARCA]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Normativa argentina

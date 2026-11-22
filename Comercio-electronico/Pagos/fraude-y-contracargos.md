@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un contracargo es la reversión de un pago con tarjeta que el titular desconoce o reclama ante su emisor: el dinero vuelve al titular y se le debita al comercio, salvo que este pruebe que la venta fue legítima o que la responsabilidad haya pasado al emisor. El fraude sin tarjeta presente, típico de la venta online, es su causa más estudiada.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "EBA y BCE, 2025 Report on Payment Fraud (EBA/REP/2025/40), diciembre de 2025: https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.ebaecb202512.en.pdf (leído: resumen y capítulos 2 a 6)"
@@ -16,7 +16,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md (sección 2)"
 aliases: [chargeback, contracargo, disputa, dispute, desconocimiento de compra, fraude con tarjeta, card fraud, card-not-present fraud, CNP, 3-D Secure, 3DS, liability shift, cambio de responsabilidad, representment]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fraude y contracargos

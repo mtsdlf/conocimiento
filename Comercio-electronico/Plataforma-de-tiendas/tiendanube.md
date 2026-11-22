@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos públicos de Tiendanube, llamada Nuvemshop en Brasil, una plataforma de tiendas alojada con pasarela propia: sus planes en pesos argentinos, lo que publica de sí misma y de su API, y sus conteos de tiendas, consultados el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Tiendanube, Quiénes somos: https://www.tiendanube.com/compania (leído vía herramienta de resumen, 2026-11-22; fuente de la empresa, con interés comercial)"
@@ -15,7 +15,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vistazo.md (sección 3)"
 aliases: [Nuvemshop, Pago Nube, Nuvem Pago]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Tiendanube

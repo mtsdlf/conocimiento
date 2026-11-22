@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Ventas sin ser una de sus partes: qué escuelas compiten y con qué evidencia, de dónde vienen, qué leer según la necesidad, cuánto pesa cada fuente, qué mitos desmiente la evidencia y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Churchill, Ford, Hartley y Walker (1985), JMR 22(2): https://www.econbiz.de/Record/the-determinants-of-salesperson-performance-a-meta-analysis/10002006418 (abstract)"
@@ -10,7 +10,7 @@ fuentes:
   - "Ventas/.investigacion/fundamentos-y-contraria.md, secciones A y B; Ventas/.investigacion/descubrimiento-y-calificacion.md; Ventas/.investigacion/la-propuesta.md; Ventas/.investigacion/objeciones-formas-y-medicion.md"
 aliases: [fundamentos de ventas, fundamentos, ventas transversal, evidencia en ventas]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fundamentos de ventas
