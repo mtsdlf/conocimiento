@@ -90,7 +90,7 @@ Teece separa el modelo de ingreso del modelo de negocio: el primero es «just on
 La comisión está en [marketplace](marketplace.md), y el cobro por resultado, en [servicios habilitados por tecnología](servicios-habilitados-por-tecnologia.md).
 
 > [!NOTE]
-> Sin fuente todavía: la licencia como modelo de ingreso y el capítulo de patrones de Business Model Generation.
+> Sin fuente todavía: la licencia y la venta de servicios por cuota o por tarea como modelos de ingreso, y el capítulo de patrones de Business Model Generation.
 
 Si cada cliente deja plata después de lo que costó conseguirlo se mide con el LTV y el CAC, que define la [economía unitaria](../../Marketing/Medicion/economia-unitaria.md) en Marketing.
 

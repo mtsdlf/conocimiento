@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Las fuentes de oportunidades son los lugares donde aparecen las ideas de negocio: problemas sin resolver, cambios del entorno (tecnología, regulación, demografía, percepción) y huecos que dejan las empresas que ya están. Qué oportunidad ve cada persona depende de lo que ya sabe, y no hay evidencia de que una fuente rinda más que otra.
+  Las fuentes de oportunidades son los lugares donde aparecen las ideas de negocio: problemas sin resolver, cambios del entorno (tecnología, regulación, demografía, percepción) y huecos que dejan las empresas que ya están. Qué oportunidad ve cada persona depende de lo que ya sabe, y no se encontró evidencia de que una fuente rinda más que otra.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -20,7 +20,7 @@ revisado:
 
 # Fuentes de oportunidades
 
-Las fuentes de oportunidades son los lugares donde aparecen las ideas de negocio: problemas sin resolver, cambios del entorno (tecnología, regulación, demografía, percepción) y huecos que dejan las empresas que ya están. Qué oportunidad ve cada persona depende de lo que ya sabe, y no hay evidencia de que una fuente rinda más que otra.
+Las fuentes de oportunidades son los lugares donde aparecen las ideas de negocio: problemas sin resolver, cambios del entorno (tecnología, regulación, demografía, percepción) y huecos que dejan las empresas que ya están. Qué oportunidad ve cada persona depende de lo que ya sabe, y no se encontró evidencia de que una fuente rinda más que otra.
 
 Sirven para el primer paso de [Oportunidades](oportunidades.md): juntar candidatas antes de compararlas con los [criterios de oportunidad](criterios-de-oportunidad.md). Mirar varias fuentes a propósito evita quedarse con la primera idea que aparece.
 
@@ -56,16 +56,16 @@ Una misma tecnología da oportunidades distintas según quién la mira. Shane (2
 
 Baron (2006) le da un mecanismo: quien emprende usa marcos aprendidos con la experiencia «to perceive connections between seemingly unrelated events or trends». Es una propuesta teórica, no una prueba empírica.
 
-El dato más citado sobre el origen real de las ideas es de Bhidé (2000). Según la reseña de la Reserva Federal de Boston, entrevistó a los fundadores de 100 empresas de la lista Inc. de 1989; esas empresas «replicated or modified ideas encountered in previous employment», y «Only 6 percent claimed to have begun with a unique product or service». La muestra es de empresas de alto crecimiento que sobrevivieron, de Estados Unidos, y la respuesta es autorreportada. El porcentaje de quienes tomaron la idea de su empleo anterior no se pudo verificar en el libro.
+Un dato conocido sobre el origen real de las ideas es de Bhidé (2000). Según la reseña de la Reserva Federal de Boston, entrevistó a los fundadores de 100 empresas de la lista Inc. de 1989; esas empresas «replicated or modified ideas encountered in previous employment», y «Only 6 percent claimed to have begun with a unique product or service». La muestra es de empresas de alto crecimiento que sobrevivieron, de Estados Unidos, y la respuesta es autorreportada. El porcentaje de quienes tomaron la idea de su empleo anterior no se pudo verificar en el libro.
 
 Por eso las fuentes de oportunidades y el [encaje fundador-mercado](encaje-fundador-mercado.md) son dos caras de lo mismo: el conocimiento que hace ver una oportunidad es también el que ayuda a explotarla.
 
 ## La versión de los practicantes
 
-Paul Graham (2012), inversor de Y Combinator, da la regla práctica más citada: «Live in the future, then build what's missing». Sostiene que conviene «notice» y no «think up» las ideas, y que las mejores son las que salen de la experiencia de quien funda. También recomienda un mercado «narrow and deep» antes que uno amplio y tibio. Es la opinión de un inversor con muchos casos, sin muestra ni grupo de comparación; las citas salen de una lectura parcial del ensayo.
+Paul Graham (2012), inversor de Y Combinator, da una regla práctica conocida: «Live in the future, then build what's missing». Sostiene que conviene «notice» y no «think up» las ideas, y que las mejores son las que salen de la experiencia de quien funda. También recomienda un mercado «narrow and deep» antes que uno amplio y tibio. Es la opinión de un inversor con muchos casos, sin muestra ni grupo de comparación; las citas salen de una lectura parcial del ensayo.
 
 ## Lo que no se sabe
 
-No se encontró ningún estudio con método que compare cómo les va a las empresas según la fuente de su oportunidad: un problema propio, un cambio externo o un conocimiento nuevo. Lo que hay es descriptivo (Bhidé), de casos (Shane) o de criterio experto (Drucker). Elegir una fuente sobre otra no tiene respaldo empírico. Lo que propone Drucker es buscar en las siete de forma sistemática; según un resumen secundario, juzgaba la «bright idea» sin fuente como la más riesgosa de todas.
+No se encontró ningún estudio con método que compare cómo les va a las empresas según la fuente de su oportunidad: un problema propio, un cambio externo o un conocimiento nuevo. Lo que hay es descriptivo (Bhidé), de casos (Shane) o de criterio experto (Drucker). Elegir una fuente sobre otra no tiene respaldo empírico. Lo que propone Drucker es buscar en las siete de forma sistemática; según un resumen secundario, juzgaba las «bright ideas» como la fuente más riesgosa.
 
 Para leer más, el extracto del Drucker Institute tiene cuatro páginas y es la versión corta de las siete fuentes. La versión académica está en Eckhardt y Shane (2003), sección de tipos de oportunidades.

@@ -32,7 +32,7 @@ Es el tercer paso de [Oportunidades](oportunidades.md). Los criterios que van en
 
 La razón para puntuar en lugar de elegir a ojo viene de la psicología de la decisión. Dawes (1979) mostró que los modelos lineales «impropios», con pesos iguales o puestos a mano, predicen mejor que el juicio de expertos; en uno de sus ejemplos, la admisión a un posgrado, un compuesto con pesos iguales correlacionó .48 con las evaluaciones posteriores (según extractos del paper). El meta-análisis de Grove et al. (2000) lo generaliza. Según su abstract, las técnicas mecánicas fueron «about 10% more accurate» que las clínicas, ganaron con claridad en el 33 % a 47 % de los estudios, y el juicio clínico ganó con claridad solo en el 6 % a 16 %.
 
-Hay evidencia del mismo tipo en emprendimientos. Åstebro y Elhedhli (2006) modelaron cómo evaluaban los analistas de un programa canadiense de asistencia a inventores, que miraban 37 características de cada proyecto. Según su abstract, una regla que cuenta por separado las señales buenas y las malas acierta el 86,0 % fuera de la muestra y de la época. Cómo definen exactamente el acierto no se verificó en el texto.
+Hay evidencia del mismo tipo en emprendimientos. Åstebro y Elhedhli (2006) modelaron cómo evaluaban expertos que miraban 37 características de cada proyecto temprano. Según su abstract, una regla que cuenta por separado las señales buenas y las malas acierta el 86,0 % fuera de la muestra y de la época. Cómo definen exactamente el acierto no se verificó en el texto.
 
 La evidencia de campo más cercana a una matriz de oportunidades es de portafolios de productos nuevos. Cooper, Edgett y Kleinschmidt (1999) estudiaron 205 empresas. Según resúmenes del paper, los métodos financieros (valor presente, retorno) eran los más usados y daban los peores portafolios; los métodos estratégicos y los modelos de puntaje daban los mejores. Es una asociación, no un experimento, y las cifras por método no se obtuvieron.
 
@@ -52,13 +52,13 @@ Una consecuencia de Dawes es que afinar los pesos rinde poco: lo que decide es q
 
 ## Puntuar cada criterio por separado
 
-Kahneman, Lovallo y Sibony (2019) proponen un protocolo para decisiones estratégicas que se aplica a esta matriz. Según un resumen, piden fijar los criterios antes de mirar las opciones, evaluar cada criterio por separado y con hechos, usar escalas relativas (por ejemplo, percentiles contra casos comparables) en lugar de palabras, y recién al final decidir mirando el conjunto. El objetivo es demorar la intuición hasta que cada criterio tenga su evaluación independiente. Los autores admiten que casi no hay evidencia cuantitativa de que el protocolo funcione, porque las decisiones estratégicas son pocas.
+Kahneman, Lovallo y Sibony (2019) proponen un protocolo para decisiones estratégicas que se aplica a esta matriz. Según un resumen, piden fijar los criterios antes de mirar las opciones, evaluar cada criterio por separado y con hechos, usar escalas de percentiles en lugar de palabras, y recién al final decidir mirando el conjunto. El objetivo es demorar la intuición hasta que cada criterio tenga su evaluación independiente. Los autores admiten que casi no hay evidencia cuantitativa de que el protocolo funcione, porque las decisiones estratégicas son pocas.
 
 ## Los sesgos que arruinan la matriz
 
 **La visión desde adentro.** Kahneman y Lovallo (1993) llaman así, según su abstract, a pronosticar anclado en el plan propio y en escenarios de éxito, lo que da pronósticos optimistas. La corrección es la visión desde afuera: mirar la candidata como un caso más de una clase (otros negocios parecidos) y preguntar cómo les fue.
 
-**El exceso de confianza.** Camerer y Lovallo (1999), según citas de terceros, encontraron en el laboratorio que entra más gente de la que conviene cuando el resultado depende de la habilidad propia, porque cada quien se compara con un grupo que no mira. Los propios autores advierten que el laboratorio no es concluyente, y un trabajo de 2018 no logró replicar el efecto.
+**El exceso de confianza.** Camerer y Lovallo (1999), según citas de terceros, encontraron en el laboratorio que entra más gente de la que conviene cuando el resultado depende de la habilidad propia, porque cada quien se compara con un grupo que no mira. Los propios autores advierten que el laboratorio no es concluyente, y según un resultado de búsqueda sin verificar, un trabajo de 2018 no replicó el efecto.
 
 **El peor caso, al revés.** Wood y Williams (2014) encontraron que quienes emprenden ya pesan mucho el peor escenario (detalle en [criterios de oportunidad](criterios-de-oportunidad.md#qué-pesan-en-la-práctica-quienes-emprenden)). Ponerlo como criterio explícito evita que entre por la puerta de atrás y anule todo lo demás sin que se vea. [Effectuation](effectuation.md) lo convierte en el criterio principal: cuánto se puede perder.
 

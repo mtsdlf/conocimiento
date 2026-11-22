@@ -45,7 +45,7 @@ Aulet pide segmentar el mercado y elegir un primer segmento, el [mercado cabeza 
 1. ¿El cliente tiene plata suficiente?
 2. ¿La fuerza de ventas lo puede alcanzar?
 3. ¿Tiene una razón de peso para comprar?
-4. ¿Se le puede entregar hoy el producto completo, con socios si hace falta?
+4. ¿Se le puede entregar el producto completo?
 5. ¿Hay competencia atrincherada que lo impida?
 6. ¿Ganar ese segmento sirve de trampolín a otros?
 7. ¿Es consistente con los valores, las pasiones y las metas del equipo?
@@ -55,9 +55,9 @@ Antes de comparar, cada candidato tiene que ser un segmento de verdad: clientes 
 
 ## Los criterios de Timmons y las fallas fatales
 
-Timmons, en *New Venture Creation*, propone la lista de criterios más larga del campo. Según fuentes secundarias, la agrupa en industria y mercado, economía, cosecha (cómo se sale del negocio), ventaja competitiva, equipo, fallas fatales y criterios personales. La lista literal y sus umbrales (márgenes, plazos al punto de equilibrio) no se pudieron verificar en el libro, así que no se dan cifras.
+Timmons, en *New Venture Creation*, propone una lista larga de criterios. Según fuentes secundarias, la agrupa en industria y mercado, economía, cosecha (cómo se sale del negocio), ventaja competitiva, equipo, fallas fatales y criterios personales. La lista literal y sus umbrales (márgenes, plazos al punto de equilibrio) no se pudieron verificar en el libro, así que no se dan cifras.
 
-Lo que se repite en todas las descripciones es la idea de falla fatal: un solo criterio que, si falla, cancela la oportunidad aunque todo lo demás sea excelente. Es la misma idea que Mullins expresa como combinación que mata. En la práctica convierte algunos criterios en filtros previos y no en puntos que se suman (detalle en [matriz de oportunidades](matriz-de-oportunidades.md#primero-se-descarta-después-se-compara)).
+Lo que destaca la fuente secundaria consultada es la idea de falla fatal: un solo criterio que, si falla, cancela la oportunidad aunque todo lo demás sea excelente. Es la misma idea que Mullins expresa como combinación que mata. En la práctica convierte algunos criterios en filtros previos y no en puntos que se suman (detalle en [matriz de oportunidades](matriz-de-oportunidades.md#primero-se-descarta-después-se-compara)).
 
 ## La brújula de Gans, Scott y Stern
 
@@ -69,7 +69,7 @@ Sus criterios para descartar son dos: «Some alternatives can be dismissed owing
 
 Los estudios que observan decisiones reales muestran criterios que los marcos no ponen arriba. Wood y Williams (2014) analizaron 498 decisiones de 62 emprendedores con un diseño conjoint. Según su abstract, pesan la novedad de la idea, la eficiencia en el uso de recursos y el peor escenario posible, y el peor escenario debilita el efecto de todos los demás criterios.
 
-Haynie, Shepherd y McMullen (2009) estudiaron más de 2300 decisiones de 73 emprendedores. Según su abstract, prefieren las oportunidades que complementan los recursos de conocimiento que ya tienen. Es la versión medida del [encaje fundador-mercado](encaje-fundador-mercado.md) y del principio de partir de los medios propios de [effectuation](effectuation.md).
+Haynie, Shepherd y McMullen (2009) estudiaron más de 2300 decisiones de 73 emprendedores. Según su abstract, prefieren las oportunidades que complementan los recursos de conocimiento que ya tienen. Se relaciona con el [encaje fundador-mercado](encaje-fundador-mercado.md) y con el principio de partir de los medios propios de [effectuation](effectuation.md) (lectura de esta base).
 
 ## Dónde coinciden los marcos
 
@@ -88,7 +88,7 @@ La tabla junta los marcos en las dimensiones que se repiten. La agrupación es d
 
 ## El límite de evaluar en papel, sobre todo en software
 
-Los criterios se aplican con información que todavía no está probada. Scott, Shu y Lubynsky (2020) pidieron a 251 expertos que evaluaran 537 emprendimientos a partir de resúmenes escritos. Según su abstract, los expertos distinguieron la calidad en hardware, energía, ciencias de la vida y dispositivos médicos, pero no en productos de consumo, web y móvil de consumo ni software empresarial.
+Los criterios se aplican con información que todavía no está probada. Scott, Shu y Lubynsky (2020) pidieron a 251 expertos que evaluaran 537 emprendimientos a partir de resúmenes escritos. Según un resumen del paper, los expertos distinguieron la calidad en hardware, energía, ciencias de la vida y dispositivos médicos, pero no en productos de consumo, web y móvil de consumo ni software empresarial.
 
 La lectura de esta base es que en software los criterios sirven para descartar y ordenar, pero no reemplazan probar las dos o tres candidatas que quedan con [descubrimiento de clientes](../descubrimiento-de-clientes.md) y un [producto mínimo viable](../producto-minimo-viable.md).
 

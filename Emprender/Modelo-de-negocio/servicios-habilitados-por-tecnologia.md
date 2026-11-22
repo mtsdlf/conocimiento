@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Un servicio habilitado por tecnología vende el trabajo hecho y no la herramienta: la empresa usa su propio software (y hoy, IA) para entregar un resultado que el cliente haría solo con un SaaS. Captura más valor por cliente y vende más fácil a quien no quiere aprender una herramienta, pero sus márgenes y su valuación quedan muy por debajo del software, salvo que la tecnología reemplace la mayor parte del trabajo humano.
+  Un servicio habilitado por tecnología vende el trabajo hecho y no la herramienta: la empresa usa su propio software (y hoy, IA) para entregar un resultado que el cliente haría solo con un SaaS. Según los fondos que invierten en el modelo, captura más valor por cliente y vende más fácil a quien no quiere aprender una herramienta; sus márgenes y su valuación, medidos en servicios de TI, quedan muy por debajo del software.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -22,7 +22,7 @@ revisado:
 
 # Servicios habilitados por tecnología
 
-Un servicio habilitado por tecnología vende el trabajo hecho y no la herramienta: la empresa usa su propio software (y hoy, IA) para entregar un resultado que el cliente haría solo con un SaaS. Captura más valor por cliente y vende más fácil a quien no quiere aprender una herramienta, pero sus márgenes y su valuación quedan muy por debajo del software, salvo que la tecnología reemplace la mayor parte del trabajo humano.
+Un servicio habilitado por tecnología vende el trabajo hecho y no la herramienta: la empresa usa su propio software (y hoy, IA) para entregar un resultado que el cliente haría solo con un SaaS. Según los fondos que invierten en el modelo, captura más valor por cliente y vende más fácil a quien no quiere aprender una herramienta; sus márgenes y su valuación, medidos en servicios de TI, quedan muy por debajo del software.
 
 Es el modelo de software con servicio en la comparación de [modelos de negocio de software](modelos-de-negocio-de-software.md). Se diferencia del [SaaS](saas.md) en quién hace el trabajo, y de una consultora tradicional en que el software propio hace una parte creciente. Cómo se cobra un servicio por contrato (precio fijo o tiempo y materiales) está en [pricing y empaquetado](../../Producto/Monetizacion/pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia).
 
@@ -32,11 +32,11 @@ La idea tiene varias versiones, todas de inversores:
 
 - **Full-stack startup.** Chris Dixon (2014) llamó así, según citas de terceros, a las empresas que arman el producto o servicio completo de punta a punta en lugar de venderle la tecnología a quien ya está en el sector.
 - **Service-as-software.** Foundation Capital (2024) sostiene que «AI companies are leading a transition from software as a service to service as software», y define la diferencia por la responsabilidad: «In the services business, responsibility for achieving the desired outcome sits with the company selling the service». Su ejemplo es un contador con IA que hace los impuestos, en lugar de una herramienta contable.
-- **El piloto automático.** Bek, en Sequoia (2026), lo resume en dos frases: «A copilot sells the tool. An autopilot sells the work». Argumenta que el mercado es más grande porque «for every dollar spent on software, six are spent on services».
+- **El piloto automático.** Bek, en Sequoia (2026), lo resume en dos frases (lectura parcial del artículo): «A copilot sells the tool. An autopilot sells the work». Argumenta que el mercado es más grande porque «for every dollar spent on software, six are spent on services».
 
 Las tres son tesis de fondos que invierten en ellas. Foundation Capital estima el mercado en 4,6 billones de dólares, un tamaño de mercado y no un resultado medido; ninguna de las tres trae márgenes ni resultados de empresas.
 
-En la tipología de Hagiu y Wright (2015), una empresa que emplea a quienes hacen el trabajo y contrata con el cliente es una empresa integrada verticalmente, como la consultora de su ejemplo. Si en cambio conecta al cliente con independientes que contratan directo, pasa a ser una plataforma ([marketplace](marketplace.md)).
+En la tipología de Hagiu y Wright (2015), una empresa que emplea a quienes hacen el trabajo y contrata con el cliente es una empresa integrada verticalmente, como la consultora de su ejemplo; aplicarlo a los servicios habilitados por tecnología es inferencia de esta base. Si en cambio conecta al cliente con independientes que contratan directo, pasa a ser una plataforma ([marketplace](marketplace.md)).
 
 ## La economía: margen de servicio, no de software
 
@@ -44,13 +44,13 @@ Lo que hacen las personas se paga con margen de servicio. En el promedio de Damo
 
 McKinsey, según un resumen, observa que las empresas de servicios de tecnología se valúan menos que las de software con el mismo desempeño medido por la regla del 40. Una fuente de formación de banca da 40 % a 60 % de margen bruto para servicios habilitados por tecnología, sin fecha ni fuente; es solo una orientación.
 
-El margen sube a medida que el software hace más del trabajo. Suarez, Cusumano y Kahl (2013), según su abstract, encontraron en empresas de software que los servicios bajan la rentabilidad hasta que son la mayoría de las ventas, y que de ahí en adelante suman: la relación no es lineal. Ese estudio es de empresas de producto que suman servicios, no de servicios que suman software; el camino inverso no tiene un estudio equivalente.
+La lectura de esta base es que el margen sube a medida que el software hace más del trabajo, pero no se encontraron márgenes auditados que lo muestren. Suarez, Cusumano y Kahl (2013), según su abstract, encontraron en empresas de software que los servicios bajan la rentabilidad hasta que son la mayoría de las ventas, y que de ahí en adelante suman: la relación no es lineal. Ese estudio es de empresas de producto que suman servicios, no de servicios que suman software; para el camino inverso no se encontró un estudio equivalente.
 
 ## Cómo cobra y cómo crece
 
-Se cobra por el resultado o por el trabajo: una cuota mensual por un servicio continuo, un precio por tarea o un precio por resultado. Foundation Capital da el ejemplo del software que cobra «based on the number of qualified opportunities or signed customers» que entrega, y sostiene que eso «aligns the software's cost with the value it actually brings». No se encontró una fuente con datos sobre cuál de estas formas funciona mejor, ni sobre los servicios productizados.
+Se puede cobrar una cuota mensual por un servicio continuo, un precio por tarea o un precio por resultado; solo el último tiene una fuente que lo describe. Foundation Capital da el ejemplo del software que cobra «based on the number of qualified opportunities or signed customers» que entrega, y sostiene que eso «aligns the software's cost with the value it actually brings». No se encontró una fuente con datos sobre cuál de estas formas funciona mejor, ni sobre los servicios productizados.
 
-Crece con gente: cada cliente nuevo pide horas, salvo la parte que el software automatiza. La ventaja comercial que dan los fondos es que se vende contra el presupuesto de trabajo y no contra el de software, y que el cliente no tiene que aprender nada. Esa ventaja es la tesis de quienes invierten; no hay estudio independiente.
+Crece con gente: cada cliente nuevo pide horas, salvo la parte que el software automatiza (lectura de esta base). La ventaja comercial que dan los fondos es que se vende contra el presupuesto de trabajo y no contra el de software, y que el cliente no tiene que aprender nada. Esa ventaja es la tesis de quienes invierten; no hay estudio independiente.
 
 > [!IMPORTANT]
 > Que la IA convierta el servicio en un negocio de software está en discusión.

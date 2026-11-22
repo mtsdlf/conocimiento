@@ -66,7 +66,7 @@ La comisión es el ingreso de la plataforma dividido por el volumen que pasa por
 |---|---|---|---|
 | eBay | Bienes | 13,94 % (2024: 13,77 %) | Publicada |
 | Airbnb | Alojamiento | 13,4 % | Calculada: ingreso sobre volumen reservado |
-| Upwork | Trabajo independiente | 18,7 % (2024: 18,0 %; 2023: 15,4 %) | Publicada |
+| Upwork | Trabajo independiente | 18,7 % (2024: 18,0 %; 2023: 15,4 %) | Publicada, con definición propia: ingreso del marketplace (683) sobre volumen (4.028) da 17,0 % |
 | Etsy | Bienes artesanales | 24,2 % (2024: 22,3 %) | Publicada; incluye publicidad, pagos y envío |
 | Uber | Movilidad y entregas | 26,9 % | Calculada; mezcla ingresos reportados en bruto y en neto, es indicativa |
 | Shopify | Software con pagos | 3,05 % | Calculada en [el negocio de una plataforma de tiendas](../../Comercio-electronico/Plataforma-de-tiendas/negocio-de-una-plataforma.md#take-rate-cuánto-se-queda-la-plataforma-de-cada-peso-vendido) |

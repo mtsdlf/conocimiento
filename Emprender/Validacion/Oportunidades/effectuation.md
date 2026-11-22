@@ -47,21 +47,21 @@ La versión de cinco principios es la que difunde el sitio de quienes promueven 
 
 | Principio | En inglés | Qué dice | Contra qué lógica causal |
 |---|---|---|---|
-| Pájaro en mano | Bird in hand | «Start with what you have» | Partir de una meta y buscar los medios |
+| Pájaro en mano | Bird in hand | «Start with what you have» | Partir de una meta y buscar los medios (lectura de esta base) |
 | Pérdida asumible | Affordable loss | «Don't risk more than you can lose» | Elegir por el retorno esperado |
 | Colcha de retazos | Crazy quilt | «Build partnerships early» | Hacer análisis de la competencia |
 | Limonada | Lemonade | «Surprises are opportunities» | Evitar las sorpresas |
-| Piloto en el avión | Pilot in the plane | «Focus on what you can control» | Predecir el futuro para actuar |
+| Piloto en el avión | Pilot in the plane | «Focus on what you can control» | Predecir el futuro para actuar (lectura de esta base) |
 
 ## La pérdida asumible como criterio para elegir
 
 La pérdida asumible es lo que cambia la forma de elegir entre oportunidades. Dew, Sarasvathy, Read y Wiltbank (2009) la definen, según su abstract: «Affordable loss involves decision makers estimating what they might be able to put at risk and determining what they are willing to lose in order to follow a course of action». La nota técnica lo resume: «While causal reasoning focuses on expected return, effectual reasoning emphasizes affordable loss».
 
-Aplicado a varias candidatas, el criterio no es cuál rinde más si sale bien sino cuál se puede probar con lo que se está dispuesto a perder, y qué se aprende si sale mal (lectura de esta base). Ese artículo es conceptual: propone cómo se decide lo que se puede perder, sin medir resultados. Un trabajo de 2023 agrega que lo asumible depende del hogar, de cuánto queda por encima de un mínimo de vida aceptable, y no solo de la empresa.
+Aplicado a varias candidatas, el criterio es cuál se puede probar con lo que se está dispuesto a perder y qué se aprende si sale mal, antes que cuál rinde más si sale bien (lectura de esta base). Ese artículo es conceptual: propone cómo se decide lo que se puede perder, sin medir resultados. Un trabajo de 2023 agrega que lo asumible depende del hogar, de cuánto queda por encima de un mínimo de vida aceptable, y no solo de la empresa.
 
 ## La oportunidad se hace con otros
 
-Effectuation se apoya en la [teoría de la creación](oportunidades.md#descubrir-o-crear-las-dos-teorías-de-dónde-está-la-oportunidad): la oportunidad no está esperando afuera. Read, Song y Smit (2009) lo dicen así: «Effectuation, for example, positions the entrepreneur as co-creator of opportunities, together with committed stakeholders». Los socios que se comprometen temprano (clientes, proveedores, aliados) cambian qué se puede hacer, y con eso cambian la oportunidad.
+Effectuation es coherente con la [teoría de la creación](oportunidades.md#descubrir-o-crear-las-dos-teorías-de-dónde-está-la-oportunidad): la oportunidad no está esperando afuera (lectura de esta base). Read, Song y Smit (2009) lo dicen así: «Effectuation, for example, positions the entrepreneur as co-creator of opportunities, together with committed stakeholders». Los socios que se comprometen temprano (clientes, proveedores, aliados) cambian qué se puede hacer, y con eso cambian la oportunidad.
 
 En el estudio de origen, según la nota técnica, Sarasvathy dio a 30 fundadores de empresas grandes el mismo problema de diecisiete páginas, con diez decisiones para armar una empresa a partir de la misma idea de producto. Terminaron armando empresas «in 18 completely disparate industries». Los artículos de 2009 sobre ese estudio hablan de 27 expertos; la diferencia no se pudo reconciliar.
 
@@ -69,7 +69,7 @@ En el estudio de origen, según la nota técnica, Sarasvathy dio a 30 fundadores
 
 La evidencia es fuerte sobre cómo razonan los expertos y débil sobre si razonar así da mejores resultados.
 
-- **Expertos contra novatos.** Dew et al. (2009) compararon a 27 emprendedores expertos con 37 estudiantes de MBA que pensaban en voz alta. Según su abstract, los expertos «identify more potential markets», prestan menos atención a la información predictiva y se preocupan más por «making do with resources on hand to invest only what they could afford to lose»; los estudiantes «go by the textbook». Es un estudio de razonamiento, con expertos elegidos por su éxito: no prueba que esa lógica cause el éxito.
+- **Expertos contra novatos.** Dew et al. (2009) compararon a 27 emprendedores expertos con 37 estudiantes de MBA que pensaban en voz alta. Según su abstract, los expertos «identify more potential markets», prestan menos atención a la información predictiva y se preocupan más por «making do with resources on hand to invest only what they could afford to lose»; los estudiantes «go by the textbook». Es un estudio de razonamiento, con expertos elegidos por su éxito, así que no prueba que esa lógica cause el éxito (lectura de esta base).
 - **Meta-análisis.** Read, Song y Smit (2009) reúnen 9.897 emprendimientos y asocian tres de los principios con mejor desempeño, según su abstract. Un meta-análisis de 2021 encuentra un efecto positivo que depende del contexto: mayor en empresas más viejas, de tecnología y de países emergentes. Otro de 2022, con 31 estudios, encuentra que la causación y la effectuation se asocian las dos con el desempeño, con la effectuation «slightly stronger», y que en mercados emergentes la causación es más efectiva para la gestión del desempeño. Ningún tamaño de efecto se leyó.
 - **Combinadas.** Smolka et al. (2018), con 1.453 emprendedores de 25 países, encuentran según su abstract que conviene usar las dos lógicas «in tandem».
 
