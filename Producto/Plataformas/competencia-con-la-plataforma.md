@@ -4,6 +4,8 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - "Mercado Libre, términos y condiciones para desarrolladores, copia de la Wayback Machine del 2025-06-17 de https://developers.mercadolibre.com.ar/es_ar/terminos-y-condiciones (B2)"
+  - "Mercado Pago, términos y condiciones para desarrolladores: https://www.mercadopago.com.ar/developers/es/docs/resources/legal/terms-and-conditions (leídos enteros, 2026-11-22; A1)"
   - "Feng Zhu y Qihong Liu (2018), Competing with complementors: An empirical look at Amazon.com, Strategic Management Journal 39(10):2618-2642, DOI 10.1002/smj.2932: https://econpapers.repec.org/RePEc:bla:stratm:v:39:y:2018:i:10:p:2618-2642 (abstract) y https://dash.harvard.edu/bitstream/handle/1/37377131/zhu,liu_competing-with-complementors.pdf (leídos la introducción y los datos)"
   - "Jens Foerderer, Thomas Kude, Sunil Mithas y Armin Heinzl (2018), Does Platform Owner's Entry Crowd Out Innovation? Evidence from Google Photos, Information Systems Research 29(2):444-460: https://ideas.repec.org/a/inm/orisre/v29y2018i2p444-460.html (solo abstract)"
   - "Wen Wen y Feng Zhu (2019), Threat of platform-owner entry and complementor responses: Evidence from the mobile app market, Strategic Management Journal 40(9):1336-1367, DOI 10.1002/smj.3031: https://econpapers.repec.org/RePEc:bla:stratm:v:40:y:2019:i:9:p:1336-1367 (solo abstract)"
@@ -62,6 +64,8 @@ Zhu y Liu sacan recomendaciones para complementadores de su estudio de Amazon. P
 1. Mirá qué funciones de tu app son las que más usan los comerciantes y no piden trabajo de tu lado: son las que la plataforma tiene más incentivo a copiar.
 2. Poné el valor donde la plataforma no quiere entrar: integración profunda, servicio, conocimiento de un nicho.
 3. Medí cuánto de tu ingreso depende de una sola plataforma. Según Kapacinskaite y Mostajabi, tener otra plataforma cambia lo que se puede hacer cuando la propia entra.
+
+Los términos para desarrolladores ponen por escrito esa reserva. Los de Mercado Libre y Mercado Pago licencian la API solo para «facilitar, mejorar y/o potenciar» su propio sitio, la hacen revocable y dicen que la empresa «podrá desarrollar productos, servicios o aplicaciones que puedan competir con las Aplicaciones». Los de Mercado Libre además separan su contenido de la información que el desarrollador obtiene por su cuenta: de dónde sale un dato decide qué se puede hacer con él fuera de la plataforma. Las cláusulas están en [Mercado Libre para desarrolladores](../../Comercio-electronico/Plataforma-de-tiendas/mercado-libre-para-desarrolladores.md) y [Mercado Pago](../../Comercio-electronico/Pagos/mercado-pago.md#lo-que-deja-hacer-a-terceros). Leerlos es parte de medir la dependencia del punto 3.
 
 Los estudios son de marketplaces de productos y de tiendas de apps de teléfonos, no de plataformas de comercio para negocios. El traslado es inferencia. Al hacer el [análisis de competidores](../../Estrategia-competitiva/Analisis-de-competidores/analisis-de-competidores.md) de un producto que vive en una plataforma, el dueño de la plataforma entra en la lista como competidor potencial, en el sentido de [identificación de competidores](../../Estrategia-competitiva/Analisis-de-competidores/identificacion-de-competidores.md). Cuánto le cuesta a un comerciante dejar tu app y pasarse a la función nativa es una cuestión de [costos de cambio](../../Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md).
 

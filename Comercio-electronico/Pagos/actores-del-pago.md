@@ -70,7 +70,7 @@ El diagrama es el modelo convencional de cuatro partes (titular, emisor, adquire
 
 Con un agregador, el comercio no tiene contrato propio con un adquirente: cobra a través de la cuenta del agregador. La cadena se ve en lo que pasa cuando un titular desconoce un pago. Según la documentación de Stripe, «the card network debits Stripe», y Stripe «in turn debits your Stripe balance for the disputed amount plus a dispute fee»; la decisión final queda «at the sole discretion of the card issuer».
 
-Esa posición tiene un costo para el comercio y un negocio para el agregador. Una plataforma de tiendas puede operar su propio medio de cobro, cobrar un cargo extra cuando el comercio usa uno de terceros, o las dos cosas; un ejemplo con cifras está en [costos de cobro en Argentina](costos-de-cobro-en-argentina.md), y por qué esa parte pesa tanto en el ingreso de una plataforma, en [el negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md).
+Esa posición tiene un costo para el comercio y un negocio para el agregador. Una plataforma de tiendas puede operar su propio medio de cobro, cobrar un cargo extra cuando el comercio usa uno de terceros, o las dos cosas; un ejemplo con cifras está en [costos de cobro en Argentina](costos-de-cobro-en-argentina.md), y cómo un agregador deja que la plataforma cobre su propia comisión dentro del pago, en [Mercado Pago](mercado-pago.md#lo-que-deja-hacer-a-terceros), y por qué esa parte pesa tanto en el ingreso de una plataforma, en [el negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md).
 
 ## Proveedores de servicios de pago en Argentina
 

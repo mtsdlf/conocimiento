@@ -16,6 +16,10 @@ fuentes:
   - "Marketing4eCommerce México, Estudio de Venta Online 2026 de AMVO: https://marketing4ecommerce.mx/estudio-de-venta-online-2026-amvo-mexico/ (leído)"
   - "Expansión, 1/04/2026: https://expansion.mx/tecnologia/2026/04/01/ecommerce-fuera-marketplaces-crece-mexico-cambios-fiscales (leído)"
   - "El Cronista, 13/10/2025: https://www.cronista.com/negocios/a-pesar-del-boom-de-shein-y-temu-el-comercio-electronico-solo-representa-el-12-de-las-compras (leído)"
+  - "Efecto MELI, emprendedores y pymes en Argentina: https://efectomeli.com/es/ar/emprendedores-y-pymes-en-argentina (consultada 2026-11-22; C3, la empresa sobre sí misma)"
+  - "Mercado, El ecosistema de Mercado Libre aportó US$ 5.400 millones a la economía argentina en 2025 (13/09/2026): https://mercado.com.ar/negocios/el-ecosistema-de-mercado-libre-aporto-us-5-400-millones-a-la-economia-argentina-en-2025 (consultada 2026-11-22; C3)"
+  - "UCEMA, Indicadores PyMEs, diciembre de 2025: https://cl2.ucema.edu.ar/sites/default/files/2025-12/IndicadoresPyMES122025.pdf (consultado 2026-11-22; B2)"
+  - "iProfesional, entrevista al CEO de Tiendanube (29/04/2026): https://www.iprofesional.com/negocios/453672-que-crisis-gigante-del-comercio-electronico-apuesta-fuerte-en-argentina (consultada 2026-11-22; C5, interés comercial y sin estudio)"
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, sección A6 y B7; Comercio-electronico/.investigacion/vistazo.md, sección 3; Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md, sección A; Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md, sección 4"
 aliases: [tamaño del mercado de e-commerce, e-commerce market size, cifras de CACE, cifras de AMVO, estadísticas de comercio electrónico]
 creado: 2026-11-22
@@ -68,6 +72,18 @@ CACE mide a sus empresas socias y su rubro más grande sería "Pasajes y turismo
 | Hot Sale 2026: $673 mil millones facturados (+19% interanual), más de 6 millones de órdenes (+5%), ticket promedio de $109.780 (+13%) | 2026 | Resumen público de CACE, leído; pesos corrientes |
 | MidTerm 2026: +28% de facturación frente al primer semestre de 2025 | 1.er semestre de 2026 | Solo el titular de la página de CACE |
 | 47% compró en el exterior; 60% compra al menos una vez al mes | 2025 | Notas del estudio anual, según el buscador |
+
+Cuántos venden: las cifras de vendedores y pymes que se usan para dimensionar un segmento de comercios. Ninguna cuenta cuántos venden solo por redes o mensajería.
+
+| Cifra | Valor | Año de los datos | Fuente y lectura |
+|---|---|---|---|
+| Pymes y emprendedores que vendieron en Mercado Libre | más de 330.000; para el 50%, es su canal principal | 2025 | Efecto MELI, la empresa sobre sí misma (C3) |
+| Los que empezaron a vender ahí en 2025 | casi 42.000; para el 67%, fue su primera venta online | 2025 | revista Mercado sobre el Efecto MELI (C3) |
+| Pymes y emprendedores en el ecosistema de Mercado Libre y Mercado Pago | más de 3,5 millones, vendan online o no | 2025 | ídem |
+| Pymes empleadoras registradas (hasta 100 empleados) | 513.366 | agosto de 2025 | UCEMA (B2) |
+| Pymes formales con tienda propia | 13% | 2026 | el CEO de Tiendanube en una entrevista, sin estudio (C5, dato débil y con interés comercial) |
+
+Las tiendas propias vivas que cuentan los rastreadores, unas 103.500 sumando las cinco plataformas más grandes, están en [presencia en Argentina](../Plataforma-de-tiendas/presencia-en-argentina.md). Contra las 513.366 pymes empleadoras dan cerca de un 20%, pero la cuenta mezcla tiendas de monotributistas y de grandes empresas (cálculo de esta base).
 
 > [!NOTE]
 > Sin fuente todavía: la participación del comercio electrónico en el comercio minorista argentino. Una nota de El Cronista del 13/10/2025 dice que "aún representa el 12% del total de transacciones minoristas", sin fuente ni año del dato, y no se usa como cifra.

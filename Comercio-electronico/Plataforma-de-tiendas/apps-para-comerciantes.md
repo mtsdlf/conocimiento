@@ -9,7 +9,9 @@ fuentes:
   - "Escalafy en la tienda de aplicaciones de Tiendanube: https://www.tiendanube.com/mx/tienda-aplicaciones-nube/escalafy (leída, consultada el 2026-11-22)"
   - "Fichas de la tienda de apps de Shopify de BeProfit, TrueProfit, Polar Analytics y Peel: https://apps.shopify.com/beprofit-profit-tracker, https://apps.shopify.com/trueprofit, https://apps.shopify.com/polar-analytics, https://apps.shopify.com/peel-insights (leídas, consultadas el 2026-11-22)"
   - "Northbeam, pricing: https://www.northbeam.io/pricing (leída, consultada el 2026-11-22)"
-  - "Tiendanube, tienda de aplicaciones: https://www.tiendanube.com/tienda-aplicaciones-nube (leída; la categoría Estadísticas no listó apps)"
+  - "Tiendanube, tienda de aplicaciones: https://www.tiendanube.com/tienda-aplicaciones-nube (leída; la categoría Estadísticas no listó apps en la primera lectura)"
+  - "Tiendanube, tienda de aplicaciones, categorías Estadísticas y Canales de venta: https://www.tiendanube.com/tienda-aplicaciones-nube/categorias/estadisticas y https://www.tiendanube.com/tienda-aplicaciones-nube/categorias/canales-de-venta (leídas 2026-11-22; B1)"
+  - "Fichas de Triple Whale, Astroselling, Real Trends y Mercado Pago en esta base (triple-whale.md, astroselling.md, real-trends.md, ../Pagos/mercado-pago.md)"
   - "Tiendanube, planes y precios: https://www.tiendanube.com/planes-y-precios (leída, consultada el 2026-11-22)"
   - "Tiendanube, API documentation, introducción: https://tiendanube.github.io/api-documentation/intro (leída)"
   - "Comercio-electronico/.investigacion/huecos-plataformas.md (sección 4)"
@@ -35,9 +37,10 @@ Las apps llenan lo que la plataforma no trae o trae en un plan más caro. Los in
 | Analítica de datos y de retención | tableros con los datos de la marca y con la retención de sus clientes | Polar Analytics, Peel |
 | Atribución de marketing | saber qué anuncio originó cada venta y devolver ese dato a las redes de anuncios | Northbeam; el Pixel de Escalafy |
 | Marketing y canales | conectar la tienda con redes, anuncios y email | Pinterest en Tiendanube; Klaviyo y Perfit, como integraciones de Escalafy |
+| Multicanal y gestión de marketplace | publicar en un marketplace desde la tienda, un stock y un precio por canal; operar la cuenta del vendedor | Astroselling, Producteca, Real Trends (ver [apps para vendedores de marketplace](apps-para-vendedores-de-marketplace.md)) |
 | Envíos, facturación, atención | etiquetas, cálculo de envío, comprobantes, chat | sin relevar |
 
-> [!NOTE] Sin fuente todavía: la tabla es una lectura de esta base. Faltan las categorías de las tiendas de apps de Shopify y de Tiendanube (la categoría "Estadísticas" de Tiendanube no listó apps) y ejemplos de apps de envíos, facturación y atención.
+> [!NOTE] Sin fuente todavía: la tabla es una lectura de esta base. Faltan las categorías de las tiendas de apps de Shopify y de Tiendanube (la categoría "Estadísticas" de Tiendanube tiene cuatro páginas, de las que se leyó la primera, en [apps de rentabilidad](apps-de-rentabilidad.md#las-de-la-tienda-de-tiendanube)) y ejemplos de apps de envíos, facturación y atención.
 
 Una app puede vivir en varias plataformas a la vez. Escalafy se conecta a Shopify, a Tiendanube y a Mercado Libre, según su sitio. De las alternativas relevadas, los informes solo registraron su ficha en la tienda de Shopify; Northbeam, en sus planes más caros, funciona con cualquier plataforma. Estar en varias plataformas es lo que más protege a una app cuando la suya entra a su espacio (ver abajo).
 
@@ -84,7 +87,7 @@ La regla práctica, de esta base: comparar reseñas solo dentro de una misma tie
 
 El riesgo mayor de una app es que la plataforma lance la misma función como propia. Los estudios con datos de Amazon, Android y la App Store, y qué hacen los terceros cuando la plataforma entra, están en [competencia con la plataforma](../../Producto/Plataformas/competencia-con-la-plataforma.md). La teoría del envolvimiento está en [ecosistema de terceros](../../Producto/Plataformas/ecosistema-de-terceros.md#cuando-la-plataforma-absorbe-lo-que-hicieron-otros).
 
-En analítica, la superposición ya existe. Tiendanube incluye "estadísticas avanzadas" en uno de sus planes altos, según su página de planes, y una app de rentabilidad compite con eso. Lo que esa función nativa cubre y lo que no, no se relevó. La plataforma, además, ve los datos de todas las tiendas, una ventaja que ya fue objeto de regulación en el caso de un marketplace.
+En analítica, la superposición ya existe. Tiendanube incluye "estadísticas avanzadas" en uno de sus planes altos, según su página de planes, y tiene estadísticas propias en beta con las tasas e impuestos de cada pedido; una app de rentabilidad compite con eso. Del lado del cobro, [Mercado Pago](../Pagos/mercado-pago.md#cuenta-negocio-del-cobro-a-la-gestión) anunció en 2026 software de gestión para el comercio, y sus términos le reservan competir con las apps que se le conectan. Entre las apps, una multicanal regala la ganancia por canal para atraer a su producto pago ([Cenit](astroselling.md#cenit-la-ganancia-real-por-canal-gratis)). Lo que esa función nativa cubre y lo que no, no se relevó. La plataforma, además, ve los datos de todas las tiendas, una ventaja que ya fue objeto de regulación en el caso de un marketplace.
 
 La defensa que sugieren los estudios es tener otra plataforma adonde ir. Una app que cruza varias plataformas, como Escalafy con Shopify, Tiendanube y Mercado Libre, ofrece algo que ninguna plataforma da sola: ver juntos los canales del comercio. Esto es inferencia de esta base, no un dato medido.
 
