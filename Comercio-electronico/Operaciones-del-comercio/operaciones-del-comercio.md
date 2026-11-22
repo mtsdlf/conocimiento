@@ -12,6 +12,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md"
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md"
   - "Comercio-electronico/.investigacion/sistemas-de-gestion.md"
+  - "Comercio-electronico/.investigacion/envios-transportistas-y-tarifas.md"
 aliases: [operaciones, operaciones de una tienda online, operations, fulfillment, cumplimiento de pedidos, logística del comercio, back office, order management]
 creado: 2026-11-22
 revisado:
@@ -54,15 +55,11 @@ El pedido es el registro de la venta, y su cumplimiento (fulfillment) es aparte.
 
 > [!NOTE] Sin fuente todavía: los estados de pago de un pedido (pagado, pendiente, reembolsado) y cómo modelan los estados de pedido otras plataformas y los marketplaces de la región.
 
-## Envío y última milla en Argentina
+## Envío y última milla
 
-El envío lleva el paquete del depósito a la puerta; la última milla es el tramo final, dentro de la ciudad. Un comercio chico no contrata a cada transportista: los elige dentro de su plataforma de tiendas o de un agregador de envíos.
-
-Un ejemplo de cuántos operadores hay, consultado el 2026-11-22 en la ayuda de envíos de Tiendanube (fuente comercial, sin fecha en la página). Para Argentina integra un servicio de envíos propio, 18 transportistas nacionales (entre ellos Correo Argentino, Andreani, OCA, Urbano y Vía Cargo) y 8 servicios de entrega rápida locales (entre ellos Moova, Treggo y lockers de retiro). El envío de Mercado Libre no figura en esa lista. En la lectura de la base, el mercado está fragmentado y el correo oficial es un operador más.
+El envío lleva el paquete del depósito a la puerta; la última milla es el tramo final, dentro de la ciudad. Un comercio chico no contrata a cada transportista: los elige dentro de su plataforma de tiendas o de un agregador de envíos, y si vende mucho, puede tercerizar también la guarda del stock. Las capas, cómo se arma el costo y quién paga el envío gratis están en [envíos y logística](Envios-y-logistica/envios-y-logistica.md); los operadores de Argentina, un envío tipo cotizado y lo que dicen las reseñas, en [envíos en Argentina](Envios-y-logistica/envios-en-argentina.md).
 
 Los costos extra (envío, impuestos y otras tarifas) están entre las razones de abandono que recoge la encuesta de Baymard, con su cifra y su método en [carrito abandonado](../Checkout-y-conversion/carrito-abandonado.md).
-
-> [!NOTE] Sin fuente todavía: tarifas nacionales de Correo Argentino, Andreani, OCA y el envío de Mercado Libre; plazos de entrega por zona; quién paga el envío gratis y desde qué monto. Los sitios no se dejaron leer o no publican tarifario, y el resumen público del estudio de CACE de mitad de 2026 no trae envíos ni devoluciones (el informe completo es solo para socios).
 
 ## Devoluciones
 
@@ -92,4 +89,6 @@ Lo que la plataforma no resuelve lo cubren las [apps para comerciantes](../Plata
 - [Devoluciones](devoluciones.md): lo que cuestan y lo que obliga la ley argentina.
 - [Sistemas de gestión](Sistemas-de-gestion/sistemas-de-gestion.md): el software que lleva factura, stock, compras y cuentas detrás de la tienda, cómo se integra con los canales y quiénes operan en Argentina.
 
-El pedido, el envío y la atención siguen en esta entrada hasta tener nota propia. Envíos y logística está prevista como subcarpeta, con transportistas, agregadores y tarifas por país.
+- [Envíos y logística](Envios-y-logistica/envios-y-logistica.md): transportistas, agregadores, última milla y guarda de stock, el costo del envío y los operadores de Argentina con sus precios y reseñas.
+
+El pedido y la atención siguen en esta entrada hasta tener nota propia.
