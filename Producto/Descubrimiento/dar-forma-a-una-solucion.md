@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dar forma a una solución es pasar de una oportunidad elegida a una solución acotada antes de diseñar pantallas: qué elementos tiene, qué recorrido sigue la persona, qué riesgos esconde y qué queda afuera.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ryan Singer, Shape Up (las citas de los caps. 2 a 6 se leyeron por extracto, conviene cotejarlas con el libro), cap. 2, Principles of Shaping: https://basecamp.com/shapeup/1.1-chapter-02"
@@ -21,7 +21,7 @@ fuentes:
   - "Producto/.investigacion/dar-forma-a-una-solucion.md"
 aliases: [shaping, dar forma, pitch, breadboard, fat marker sketch, PRD, product requirements document, story mapping, user story map]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Dar forma a una solución
