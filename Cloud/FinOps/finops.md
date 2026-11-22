@@ -11,7 +11,6 @@ fuentes:
   - "FinOps Foundation, FinOps Personas: https://www.finops.org/framework/personas/"
   - "FinOps Foundation, FinOps Framework: https://www.finops.org/framework/"
   - "Archivo/Cloud/finops-referencia.md (original, texto generado con IA; reescrito desde las fuentes de arriba)"
-aliases: [FinOps, Cloud FinOps, Cloud Financial Management]
 aliases: [Cloud FinOps, Cloud Financial Management]
 creado: 2026-10-03
 revisado:

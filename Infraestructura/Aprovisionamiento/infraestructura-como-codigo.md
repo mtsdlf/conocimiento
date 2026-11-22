@@ -50,8 +50,9 @@ Los cambios pasan por el [pipeline de CI/CD](../../DevOps/Integracion-y-entrega/
 el PR muestra qué cambiaría y el merge lo aplica con una cuenta de servicio, no la de una persona.
 Los pasos con Terraform están en [Armar un pipeline de Terraform](pipeline-de-terraform.md), y cómo
 se separan los entornos, en [Organizar entornos en Terraform](organizar-entornos-en-terraform.md).
-Una tarea periódica compara la infraestructura real con el código y avisa el **drift**; si además
-lo corrige sola, es [GitOps](../../DevOps/Despliegue/gitops.md).
+Una tarea periódica compara la infraestructura real con el código y avisa el **drift**. Si un agente
+dentro del entorno trae el estado de Git y corrige el drift de forma continua, es
+[GitOps](../../DevOps/Despliegue/gitops.md).
 
 ## Un entorno de QA copiado de staging
 

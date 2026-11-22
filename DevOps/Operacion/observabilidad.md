@@ -64,3 +64,4 @@ previó. El monitoreo es una de las cosas que se hacen con la telemetría.
 
 - [Observability-driven development](observability-driven-development.md): la práctica que pide definir la telemetría junto con cada cambio.
 - [Capacidad de plataforma](../../Platform-Engineering/Plataforma-interna/capacidad-de-plataforma.md): Effective Platform Engineering propone ofrecer la observabilidad como una capacidad de la plataforma.
+- [Operación en Azure](../../Cloud/Operacion/operacion.md) y [Azure Monitor](../../Cloud/Operacion/azure-monitor.md): cómo se aplica la observabilidad en una nube concreta.

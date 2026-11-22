@@ -56,5 +56,5 @@ sistema. Algunas notas (default-deny, split-horizon, SOPS) lo usan como ejemplo.
 ## Otros temas
 
 - [Observabilidad](../DevOps/Operacion/observabilidad.md) — monitoreo, logs y alertas viven en DevOps.
-- [GitOps](../DevOps/Despliegue/gitops.md) — GitOps, la base de SOPS y de NetDevOps, vive en DevOps.
+- [GitOps](../DevOps/Despliegue/gitops.md) — el despliegue por pull desde Git, que usa SOPS para los secretos y es la base de NetDevOps, vive en DevOps.
 - [Gestión de secretos](../DevOps/DevSecOps/gestion-de-secretos.md) y [SOPS](../DevOps/DevSecOps/sops.md) — dónde viven los secretos y cómo se cifran en Git, en DevSecOps.
