@@ -35,6 +35,11 @@ Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCION
 - [Arquitectura](Arquitectura/arquitectura.md) — patrones para sistemas distribuidos: APIs entre servicios, circuit breaker,
   sagas, idempotencia y multi-tenancy.
 
+## Diseño
+
+- [UX](UX/ux.md) — diseño de experiencia de usuario e interfaces: percepción y decisión, investigación, arquitectura de información,
+  interacción, diseño visual, accesibilidad y evaluación, con la bibliografía por necesidad.
+
 ## Sistemas e IA
 
 - [Linux](Linux/linux.md) — cómo está hecho y cómo se administra Linux; con Recorrido.
