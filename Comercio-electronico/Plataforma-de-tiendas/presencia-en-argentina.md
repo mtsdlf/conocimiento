@@ -8,6 +8,8 @@ fuentes:
   - "WMTips, Argentina: https://www.wmtips.com/technologies/e-commerce/country/ar/ (según resumen del buscador; 403 al abrirla)"
   - "AfterShip, Argentina: https://www.aftership.com/ecommerce/statistics/regions/ar (según resumen del buscador; 403 al abrirla)"
   - "BuiltWith, temas de Shopify en Argentina, julio de 2025 (según resumen del buscador)"
+  - "StoreLeads, Facebook Pixel en Argentina: https://storeleads.app/reports/technology/Facebook%20Pixel/country/AR (leída 2026-11-22; página del 13-nov-2026; C3)"
+  - "StoreLeads, Google Ads Pixel y Klaviyo en Argentina: https://storeleads.app/reports/technology/Google%20Ads%20Pixel/country/AR y https://storeleads.app/reports/technology/Klaviyo/country/AR (según el buscador; C4)"
   - "Tiendanube, Quiénes somos: https://www.tiendanube.com/compania (leído vía herramienta de resumen, 2026-11-22)"
   - "Comercio-electronico/.investigacion/plataforma-de-tiendas.md (sección 5)"
 aliases: [cuota de mercado de plataformas en Argentina, market share de plataformas de e-commerce]
@@ -65,6 +67,18 @@ Ninguna de estas páginas se abrió (403): las cifras vienen de resúmenes del b
 > - **Tiendanube en el mundo**: StoreLeads da 204.631 tiendas en el tercer trimestre de 2026, según el buscador; la empresa dice "180,000+" activas en su página. Una cuenta tiendas vivas detectadas y la otra, activas según su propio criterio.
 > - **Shopify**: entre las tiendas que usan Klaviyo, una herramienta de email marketing, tiene ~74%; en tiendas vivas totales es la tercera. El informe lo lee como un sesgo de la muestra hacia tiendas más grandes; es una inferencia, sin medición.
 > - **BuiltWith** cuenta temas de Shopify, no tiendas: sus unas 1.183 no se comparan con las 9.059 de StoreLeads.
+
+## Tiendas con herramientas de publicidad
+
+StoreLeads también cuenta tiendas por la tecnología que tienen instalada. Es una señal para encontrar comercios que hacen publicidad, no una medida de cuánto invierten.
+
+| Tecnología | Tiendas en Argentina | Fecha | Lectura |
+|---|---|---|---|
+| Píxel de Meta | 55.501: 67,4% en Tiendanube (37.410) y 16,6% en WooCommerce | 13-nov-2026 | leída (C3) |
+| Píxel de Google Ads | 37.860 | 19-dic-2025 | según el buscador (C4) |
+| Klaviyo | 558: 73,7% en Shopify | 27-mar-2026 | según el buscador (C4) |
+
+Tener el píxel no es pautar: Tiendanube lo instala desde su panel en todos sus planes, y por eso aparece en dos de cada tres de sus tiendas del país (37.410 de 59.214). Por inferencia de esta base, las tiendas que pautan de verdad están entre las 558 con Klaviyo y las 55.501 con el píxel de Meta.
 
 ## Cuál usar
 

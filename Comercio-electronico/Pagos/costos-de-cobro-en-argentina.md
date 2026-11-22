@@ -8,7 +8,9 @@ fuentes:
   - "iProfesional, comisiones de Mercado Pago, 1/8/2023: https://www.iprofesional.com/tecnologia/386153-mercado-pago-que-debes-saber-sobre-comisiones-plazos-y-montos (leído vía herramienta de resumen)"
   - "Tiendanube, ayuda, preguntas frecuentes sobre Mercado Pago, sin fecha: https://ayuda.tiendanube.com/es_ES/122921-mercado-pago/preguntas-frecuentes-sobre-mercado-pago (leído vía herramienta de resumen; fuente de una plataforma con interés comercial)"
   - "iProfesional, Los secretos detrás de las cuotas sin interés, 19/02/2020: https://www.iprofesional.com/finanzas/309622-los-secretos-detras-de-las-cuotas-sin-interes (leído)"
-  - "Mercado Pago, sección de costos: https://www.mercadopago.com.ar/costs-section/ (no se pudo abrir: 403)"
+  - "Mercado Pago, sección de costos: https://www.mercadopago.com.ar/costs-section/ (no se pudo abrir: 403, también el 2026-11-22)"
+  - "SpomBridge, Comisiones de Mercado Pago 2026: https://app.spomsolutions.com/herramientas/comisiones-mercado-pago-2026 (leído 2026-11-22; C3, dice haber relevado la página oficial el 2-nov-2026)"
+  - "Tiendanube, Pago Nube: https://www.tiendanube.com/soluciones/pago-nube (leída 2026-11-22; B1)"
   - "Comercio-electronico/.investigacion/pagos.md (sección 2)"
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md (sección 1)"
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (B6)"
@@ -26,7 +28,7 @@ Implementa [el costo de cobrar](costo-de-cobrar.md). Consultado el 2026-11-22.
 > [!WARNING]
 > Ley y dinero: la ficha no reemplaza el consejo de un abogado o un contador, ni la tarifa que el proveedor muestra al comercio.
 
-Ninguna fila es una tarifa vigente leída en la página oficial del proveedor: la de Mercado Pago devolvió 403, y Payway, Getnet y MODO no se pudieron abrir. La fuente viva para la tarifa de un agregador es su propia sección de costos, abierta desde un navegador y con fecha de captura.
+Ninguna fila es una tarifa vigente leída en la página oficial del proveedor: la de Mercado Pago devolvió 403 en 2023 y otra vez en noviembre de 2026, y Payway, Getnet y MODO no se pudieron abrir. La fuente viva para la tarifa de un agregador es su propia sección de costos, abierta desde un navegador y con fecha de captura.
 
 ## Transferencia: la única cifra de fuente primaria
 
@@ -48,6 +50,12 @@ La tabla de una nota de prensa de iProfesional del 1/8/2023, sin fuente oficial,
 
 > [!IMPORTANT]
 > Para los mismos tramos de crédito, un blog de Tiendanube de fecha no verificada da 6,49 %, 4,39 %, 3,39 % y 1,49 %, según un resumen del buscador; y Cronista da 6,39 % al instante, también según resumen. Las tres fuentes discrepan en los tramos de 10 y 35 días. Ninguna sirve como tarifa vigente: muestran la forma de la tarifa (más barata cuanto más espera el comercio), no su valor de hoy.
+
+## Mercado Pago en 2026, según un tercero
+
+SpomBridge, que vende un sistema de gestión, dice haber relevado la página oficial de Mercado Pago el 2-nov-2026. Para Link de pago y Checkout Pro en la Ciudad de Buenos Aires, más IVA: 6,29 % al instante, 4,39 % a 10 días, 3,39 % a 18 días y 1,49 % a 35 días; las cuotas sin interés suman de 7,79 % (2 cuotas) a 41,59 % (18). Es una sola fuente, de terceros (C3); la tabla completa, por provincia, está en la ficha de [Mercado Pago](mercado-pago.md). Los tramos de 10, 18 y 35 días coinciden con los del blog de Tiendanube citado arriba; el tramo al instante, no (6,29 % contra 6,49 %).
+
+Pago Nube, la pasarela de Tiendanube, publica sus tarifas «a partir de» por plazo y por plan: en el plan gratis, 6,40 % a 1 día, 4,45 % a 7, 3,50 % a 14 y 2,99 % a 30 días, más IVA, y 1,50 % por transferencia. La tabla por plan está en la ficha de [Tiendanube](../Plataforma-de-tiendas/tiendanube.md#planes-públicos-en-pesos-argentinos).
 
 ## Plataforma de tiendas: acreditación, disponibilidad y cargo propio
 

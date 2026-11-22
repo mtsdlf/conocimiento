@@ -56,7 +56,7 @@ La fuente central es Verhoef, Kannan e Inman (2015), en el *Journal of Retailing
 
 Ninguno de los dos es mejor en general: es un trade-off que depende de la etapa del negocio y del tipo de producto. La tienda propia gana en relación con el cliente y en margen, pero exige conseguir tráfico propio. El marketplace pide menos inversión inicial y trae tráfico, credibilidad y pagos resueltos, a cambio de comisiones y de no quedarse con el cliente. Lo admite incluso un proveedor de tiendas, Nuvemshop, en su blog.
 
-Las comisiones totales pueden ser mucho más altas que la visible. Marketplace Pulse estimó en febrero de 2023 que un vendedor típico de Amazon en EE. UU. paga más del 50% de sus ingresos entre comisión (15%, de 8% a 15% según categoría), logística de Amazon (20% a 35%) y publicidad (hasta 15%), contra unos 40% cinco años antes. Los datos salen de estados de resultados de una muestra de vendedores sin tamaño publicado, y los rangos sumados dan entre 35% y 65%, sin inventario ni flete. Una nota de marzo de 2024 repite 50% a 60% para vendedores de marca propia en 2023. Amazon dice que sus tarifas son de 15% o menos en la mayoría de las categorías (según un resumen del buscador). Esas cifras son de Amazon en EE. UU. y no se extrapolan a Mercado Libre: no hay evidencia independiente sobre las comisiones totales de los marketplaces de la región.
+Las comisiones totales pueden ser mucho más altas que la visible. Marketplace Pulse estimó en febrero de 2023 que un vendedor típico de Amazon en EE. UU. paga más del 50% de sus ingresos entre comisión (15%, de 8% a 15% según categoría), logística de Amazon (20% a 35%) y publicidad (hasta 15%), contra unos 40% cinco años antes. Los datos salen de estados de resultados de una muestra de vendedores sin tamaño publicado, y los rangos sumados dan entre 35% y 65%, sin inventario ni flete. Una nota de marzo de 2024 repite 50% a 60% para vendedores de marca propia en 2023. Amazon dice que sus tarifas son de 15% o menos en la mayoría de las categorías (según un resumen del buscador). Esas cifras son de Amazon en EE. UU. y no se extrapolan a Mercado Libre: no hay evidencia independiente sobre las comisiones totales de los marketplaces de la región. Lo que publica Mercado Libre Argentina es un cargo por vender de 11,62% a 17,75% según categoría y provincia, más un costo fijo por unidad debajo de $ 33.000 y de 5% a 20,8% si se ofrecen cuotas, todo más IVA y sin contar envíos ni publicidad (detalle en [Mercado Libre](../Plataforma-de-tiendas/mercado-libre.md#lo-que-cuesta-vender-en-argentina)).
 
 > [!IMPORTANT]
 > Cuánto vende el marketplace frente a la tienda propia está en disputa y sin método. En la misma nota de Nuvemshop, un empresario dice que los marketplaces hacen ">75% de las ventas online" de Brasil y un directivo de Nuvemshop dice ">50% del e-commerce brasileño". Las dos cifras salen de charlas, no coinciden y no publican método.
@@ -65,7 +65,7 @@ Un comercio puede no elegir y vender en los dos a la vez. Es el [multi-homing](.
 
 El riesgo de que el marketplace venda lo mismo que el comerciante, con los datos de Amazon de Zhu y Liu, está en [competencia con la plataforma](../../Producto/Plataformas/competencia-con-la-plataforma.md).
 
-> [!NOTE] Sin fuente todavía: un estudio empírico del dilema desde el comerciante (comisión, margen y propiedad del cliente) y las comisiones de Mercado Libre Argentina, que no se pudieron leer.
+> [!NOTE] Sin fuente todavía: un estudio empírico del dilema desde el comerciante (comisión, margen y propiedad del cliente), los cargos de envío y publicidad de Mercado Libre Argentina, y cuántos de sus vendedores tienen además una tienda propia.
 
 ## La omnicanalidad puede sumar ventas y puede canibalizarlas
 
@@ -89,7 +89,7 @@ Al comparar dos plataformas de tiendas, conviene mirar qué canales conectan:
 3. Si el stock es uno solo para todos los canales.
 4. Qué venta por redes y mensajería soporta: catálogo dentro de la app o solo un enlace a la tienda.
 
-Una plataforma que integra todo empuja al comercio hacia lo omnicanal; una que no, deja ese espacio a las [apps para comerciantes](../Plataforma-de-tiendas/apps-para-comerciantes.md).
+Una plataforma que integra todo empuja al comercio hacia lo omnicanal; una que no, deja ese espacio a las [apps para comerciantes](../Plataforma-de-tiendas/apps-para-comerciantes.md). Las que conectan una tienda con Mercado Libre, con su precio y sus reseñas, están en [apps para vendedores de marketplace](../Plataforma-de-tiendas/apps-para-vendedores-de-marketplace.md); lo que el marketplace deja hacer con su API y sus datos, en [Mercado Libre para desarrolladores](../Plataforma-de-tiendas/mercado-libre-para-desarrolladores.md).
 
 Recursos canónicos: Verhoef, Kannan e Inman (2015), completo, por la definición de omnicanal y cómo la separan de multicanal. El artículo de HBR de 2017, completo, por la cifra de gasto y su método; leerlo como divulgación de un estudio con un solo minorista.
 

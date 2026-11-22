@@ -57,7 +57,7 @@ Al analizar una plataforma de tiendas, pagos es la parte del precio que no apare
 
 | Pregunta | Componente que la explica |
 |---|---|
-| ¿La plataforma es agregador propio, integra terceros o las dos cosas? | [actores del pago](actores-del-pago.md) |
+| ¿La plataforma es agregador propio, integra terceros o las dos cosas? | [actores del pago](actores-del-pago.md); un agregador de ejemplo, en [Mercado Pago](mercado-pago.md) |
 | ¿Cuánto paga el comercio por venta, sumando tasa, plazo y cargo de la plataforma? | [costo de cobrar](costo-de-cobrar.md) |
 | ¿Quién gestiona las disputas y cuánto riesgo absorbe la plataforma? | [fraude y contracargos](fraude-y-contracargos.md) |
 | ¿Deja ofrecer cuotas sin interés y quién paga su costo? | [cuotas](cuotas.md) |
@@ -80,7 +80,8 @@ Para entender la vertical, leer los componentes en este orden:
 Las fichas, con datos fechados al 2026-11-22:
 
 - [Régimen argentino de tarjetas y cuotas](regimen-argentino-de-tarjetas-y-cuotas.md): los topes a los aranceles, el DNU 70/2023, Ahora 12 y Cuota Simple, con lo que no está verificado.
-- [Costos de cobro en Argentina](costos-de-cobro-en-argentina.md): la tarifa de la transferencia, las tasas de un agregador por plazo (de 2023 y discrepantes) y el cargo de una plataforma.
+- [Costos de cobro en Argentina](costos-de-cobro-en-argentina.md): la tarifa de la transferencia, las tasas de un agregador por plazo (de 2023 y de 2026, de terceros) y el cargo de una plataforma.
+- [Mercado Pago](mercado-pago.md): el agregador más usado en las tiendas argentinas; sus tarifas por plazo y por cuotas, lo que deja hacer a plataformas y desarrolladores, lo que se reserva en sus términos y Cuenta Negocio.
 - [Tasas de intercambio reguladas](tasas-de-intercambio-reguladas.md): los topes de la UE y de EE. UU. y el promedio de EE. UU. en 2024.
 - [Fraude de pagos en Europa](fraude-de-pagos-en-europa.md): las cifras de 2024 del informe de la EBA y el BCE.
 - [Pix en cifras](pix-en-cifras.md): el uso de Pix según su banco central y su participación en la venta online de Brasil según procesadores.

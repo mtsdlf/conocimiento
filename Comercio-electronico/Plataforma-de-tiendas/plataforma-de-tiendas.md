@@ -62,7 +62,7 @@ Los nombres emprendedor, pyme, mediana y grande son de esta base, no de las plat
 
 Lo que la plataforma no trae lo ponen apps de terceros que el comercio instala desde la tienda de apps: analítica y rentabilidad, marketing, atribución de anuncios. Cobran casi siempre según el tamaño del comercio, por pedidos, por GMV o por gasto en anuncios. La plataforma se queda una comisión de lo que facturan y puede lanzar la misma función como propia.
 
-Medir la presencia de una app es difícil: las tiendas de apps muestran reseñas y no instalaciones, y las cifras que publica cada app no tienen definición. [Escalafy](escalafy.md), una app de rentabilidad que se conecta a varias plataformas, es el ejemplo de la vertical (detalle en [apps para comerciantes](apps-para-comerciantes.md)).
+Medir la presencia de una app es difícil: las tiendas de apps muestran reseñas y no instalaciones, y las cifras que publica cada app no tienen definición. [Escalafy](escalafy.md), una app de rentabilidad que se conecta a varias plataformas, es el ejemplo de la vertical (detalle en [apps para comerciantes](apps-para-comerciantes.md)). Otra clase de apps vive de la API de un marketplace y no de la tienda de apps de una plataforma: las que conectan la tienda con Mercado Libre o gestionan la cuenta del vendedor, en [apps para vendedores de marketplace](apps-para-vendedores-de-marketplace.md).
 
 ## Cómo se usa al analizar plataformas de tiendas
 
@@ -98,13 +98,18 @@ Las fichas fechadas, consultadas el 2026-11-22. Plataformas:
 
 Marketplace:
 
-- [Mercado Libre](mercado-libre.md): marketplace con operación en varios países de la región; cifras del 10-K de 2025 y el cierre de Mercado Shops.
+- [Mercado Libre](mercado-libre.md): marketplace con operación en varios países de la región; cifras del 10-K de 2025, lo que cuesta vender en Argentina, el cierre de Mercado Shops y Mi Página.
+- [Mercado Libre para desarrolladores](mercado-libre-para-desarrolladores.md): lo que su API deja hacer a una app sobre la cuenta de un vendedor y lo que reservan sus términos (competir, revocar, de quién es el dato).
 
 Apps:
 
 - [Escalafy](escalafy.md): app de analítica de rentabilidad para Shopify, Tiendanube y Mercado Libre; cómo cobra y sus cifras discrepantes.
-- [Apps de rentabilidad](apps-de-rentabilidad.md): las alternativas de Escalafy con datos públicos, con plataformas, unidad de cobro, precio de entrada y reseñas.
+- [Apps de rentabilidad](apps-de-rentabilidad.md): las alternativas de Escalafy con datos públicos, con plataformas, unidad de cobro, precio de entrada y reseñas, y las de la tienda de Tiendanube.
+- [Triple Whale](triple-whale.md): app de atribución y rentabilidad para marcas en Shopify, WooCommerce y BigCommerce; cobra por facturación anual con contrato de 12 meses.
+- [Apps para vendedores de marketplace](apps-para-vendedores-de-marketplace.md): las multicanal y las de gestión para quien vende en Mercado Libre, con precio de entrada y reseñas.
+- [Astroselling](astroselling.md): app multicanal que conecta una tienda con Mercado Libre y otros marketplaces, y Cenit, su app gratis de ganancia por canal.
+- [Real Trends](real-trends.md): herramientas para vendedores de Mercado Libre y una tienda propia sincronizada, con Nubimetrics y Producteca como alternativas.
 
 ## Lo que falta de Plataforma de tiendas
 
-> [!NOTE] Sin fuente todavía: las bajas (churn) y el ingreso promedio por comercio de una plataforma; el GMV oficial de Tiendanube y el take rate publicado de Mercado Libre; la comisión de la tienda de aplicaciones de Tiendanube; una clasificación de comercios por tamaño que use el campo; un estudio independiente sobre costos de headless y composable; y los temas y eventos de webhook de Tiendanube.
+> [!NOTE] Sin fuente todavía: las bajas (churn) y el ingreso promedio por comercio de una plataforma; el GMV oficial de Tiendanube, el take rate publicado de Mercado Libre y sus cargos de envío y publicidad; la comisión de la tienda de aplicaciones de Tiendanube; una clasificación de comercios por tamaño que use el campo; un estudio independiente sobre costos de headless y composable; y los temas y eventos de webhook de Tiendanube.
