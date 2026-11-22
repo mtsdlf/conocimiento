@@ -228,6 +228,16 @@ Sobre quién, Torres pone el trabajo con clientes en un trío de producto, dise�
 
 > [!NOTE] Sin fuente todavía: la duración total del recorrido, quiénes participan y cuánto pide cada paso.
 
+## Hacerlo con agentes
+
+Los pasos que no piden una decisión ni una conversación con clientes se reparten entre agentes; el resto queda para la persona. El reparto es de esta base, a partir de cómo se hicieron los temas de esta área.
+
+| Se reparte (un agente por rival) | Lo hace un agente solo | Queda para la persona |
+|---|---|---|
+| El perfil del paso 5, las reseñas del paso 3, el juego de guerra y el seguimiento del paso 9 | El mercado del paso 2, la síntesis del paso 7 y la revisión de lo que falta | La decisión (0), elegir los rivales (4), las entrevistas (3), su lado de la matriz (6), el terreno (7) y la apuesta (8) |
+
+Tres cosas que mejoran el resultado: cada perfil lo revisa otro agente que no lo escribió y que intenta refutar cada dato; los agentes parten de las URLs que ya están en las fichas del tema de dominio, porque las búsquedas web se agotan rápido; y una primera corrida con un solo rival muestra el costo y la calidad antes de correr con todos. Cómo se recolecta sin cuenta o con una cuenta propia está en [cuenta de prueba y automatización](../Analisis-de-competidores/cuenta-de-prueba-y-automatizacion.md). Cada empresa guarda en su repo el proceso y el workflow que lo corren.
+
 ## Repetirlo en otro mercado
 
 Se reusa todo [Estrategia competitiva](../estrategia-competitiva.md) y las notas de Producto, Marketing, UX y Emprender que enlaza cada paso.
