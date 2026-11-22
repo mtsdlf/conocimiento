@@ -22,7 +22,7 @@ revisado:
 
 Las fuentes públicas son lo que un competidor deja a la vista de cualquiera: su sitio, sus precios, su documentación, sus ofertas de empleo, lo que dicen sus clientes y lo que estiman herramientas de terceros. Son la etapa de recolección del ciclo de inteligencia, y cada dato vale según quién lo dice y si otra fuente lo confirma.
 
-Lo que se puede juntar y cómo tiene un límite legal y ético, que está en [ética y legalidad](etica-y-legalidad.md). Qué preguntas guían la recolección sale de la decisión, como dice el [ciclo de inteligencia](ciclo-de-inteligencia.md): una lista de fuentes no reemplaza esa pregunta.
+Lo que se puede juntar y cómo tiene un límite ético, en [ética y legalidad](etica-y-legalidad.md), y uno legal, en [ley argentina y competidores](ley-argentina-y-competidores.md). Qué preguntas guían la recolección sale de la decisión, como dice el [ciclo de inteligencia](ciclo-de-inteligencia.md): una lista de fuentes no reemplaza esa pregunta.
 
 ## Los datos llegan de a gotas
 
@@ -38,7 +38,7 @@ La tabla ordena los tipos de fuente abierta sobre un competidor de software. No 
 | Documentación y API | Funcionalidades reales, límites técnicos, integraciones | Alto: suele describir lo que existe | Puede estar atrasada respecto del producto |
 | Registro de cambios (*changelog*) | Ritmo y dirección del desarrollo | Medio-alto, si se sigue en el tiempo | Destaca lo que suma y calla lo que se quita |
 | El producto mismo | Experiencia, flujos, calidad | Alto, de primera mano ([desarme de producto](desarme-de-producto.md)) | Se ve la versión de prueba, no la de un cliente grande |
-| Reseñas de clientes (directorios de software, tiendas de apps) | Quejas, motivos de elección y de abandono | Medio | Escriben los muy conformes y los muy enojados; algunas son incentivadas |
+| Reseñas de clientes (directorios de software, tiendas de apps) | Quejas, motivos de elección y de abandono | Medio ([análisis de reseñas](../../UX/Investigacion/analisis-de-resenas.md)) | Escriben los muy conformes y los muy enojados; algunas son incentivadas |
 | Ofertas de empleo | Hacia dónde invierte: equipos, tecnologías, mercados | Medio, como señal temprana ([puntos ciegos](puntos-ciegos.md)) | Una búsqueda no es un plan aprobado |
 | Reportes a inversores y prensa financiera | Métricas, estrategia declarada, riesgos | Alto si es un reporte regulado ([lectura de reportes públicos](lectura-de-reportes-publicos.md)) | El rival elige qué contar; la prensa repite comunicados |
 | Prensa y comunicados | Lanzamientos, alianzas, rondas | Bajo-medio | Es la versión del rival |

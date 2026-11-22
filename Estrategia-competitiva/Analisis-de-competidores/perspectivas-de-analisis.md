@@ -7,7 +7,6 @@ fuentes:
   - "Craig Fleisher y Babette Bensoussan, Business and Competitive Analysis, 2.ª ed., Pearson/FT Press (2015), índice: https://www.informit.com/store/business-and-competitive-analysis-effective-application-9780133086409 (solo el índice)"
   - "Fleisher y Bensoussan, 1.ª ed. (2007), diapositivas del editor del cap. 5 Applying the FAROUT Method: https://ptgmedia.pearsoncmg.com/imprint_downloads/ftpress/bookreg/9780131873667/Ch5.pdf (leídas)"
   - "Fleisher y Bensoussan, 1.ª ed. (2007), diapositivas del editor del cap. 15 Win/Loss Analysis: https://ptgmedia.pearsoncmg.com/imprint_downloads/ftpress/bookreg/9780131873667/Ch15.pdf (leídas)"
-  - "OpenView, 24 Tips for a Winning Win/Loss Analysis: https://labs.openviewpartners.com/24-tips-winning-win-loss-analysis/ (según resumen); y guías de práctica de win/loss de proveedores, contadas como una sola fuente"
   - "Nielsen Norman Group, Competitive Usability Evaluations: https://www.nngroup.com/articles/competitive-usability-evaluations/ (leído)"
   - "HBR (Shi, agosto de 2026), What You Can Learn from a Competitor's Job Postings: https://store.hbr.org/product/what-you-can-learn-from-a-competitor-s-job-postings/H09A87 (solo abstract)"
   - "Zajac y Bazerman (1991), Blind Spots in Industry and Competitor Analysis, Academy of Management Review 16(1):37-56 (solo abstract)"
@@ -15,7 +14,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/analisis-de-competidores-1.md"
   - "Estrategia-competitiva/.investigacion/vistazo-practica.md"
   - "Estrategia-competitiva/.investigacion/posicion-contraria.md (afirmación 4)"
-aliases: [perspectives of competitor analysis, miradas de análisis, técnicas de análisis competitivo, win/loss analysis, análisis de ventas ganadas y perdidas, FAROUT]
+aliases: [perspectives of competitor analysis, miradas de análisis, técnicas de análisis competitivo, FAROUT]
 creado: 2026-11-22
 revisado:
 ---
@@ -37,45 +36,29 @@ Tampoco hay evidencia de que mirar desde más perspectivas mejore las decisiones
 | Mirada | Pregunta | Técnica | Qué NO responde | Dónde está explicada |
 |---|---|---|---|---|
 | Estratégica | ¿Qué quiere el rival y cómo va a reaccionar? | perfil de Porter, señales de mercado, juego de guerra | qué tan bueno es su producto | [perfil del competidor](perfil-del-competidor.md), [juego de guerra](juego-de-guerra.md) |
-| De mercado | ¿Quién compite por el mismo cliente y el mismo uso? | clases de competidor, sustitución en uso, grupos estratégicos | cuánto vale cada rival | [identificación](identificacion-de-competidores.md), [grupos estratégicos](../Analisis-de-industria/grupos-estrategicos.md), [posicionamiento](../../Marketing/Propuesta/posicionamiento.md) |
-| De cliente | ¿Por qué lo eligen o lo rechazan? | win/loss, entrevistas a clientes | por qué no lo consideran quienes nunca entran al embudo | win/loss más abajo, [entrevista de usuario](../../UX/Investigacion/entrevista-de-usuario.md), [jobs to be done](../../Marketing/Mercado-y-cliente/jobs-to-be-done.md) |
+| De mercado | ¿Quién compite por el mismo cliente y el mismo uso? | clases de competidor, sustitución en uso, segmentación, mapa perceptual, grupos estratégicos | cuánto vale cada rival | [identificación](identificacion-de-competidores.md), [definición de mercado](../../Marketing/Mercado-y-cliente/definicion-de-mercado.md), [segmentación](../../Marketing/Mercado-y-cliente/segmentacion.md), [mapa de posicionamiento](../../Marketing/Propuesta/mapa-de-posicionamiento.md), [grupos estratégicos](../Analisis-de-industria/grupos-estrategicos.md), [posicionamiento](../../Marketing/Propuesta/posicionamiento.md) |
+| De cliente | ¿Por qué lo eligen o lo rechazan? | win/loss, entrevistas de cambio, análisis de reseñas | por qué no lo consideran quienes nunca entran al embudo | [win/loss](analisis-de-ventas-ganadas-y-perdidas.md), [entrevista de cambio](../../UX/Investigacion/entrevista-de-cambio.md), [análisis de reseñas](../../UX/Investigacion/analisis-de-resenas.md), [jobs to be done](../../Marketing/Mercado-y-cliente/jobs-to-be-done.md) |
 | De producto | ¿Qué hace y qué no? | desarme, matriz de funcionalidades, análisis de línea de productos | si los clientes valoran lo que hace | [desarme de producto](desarme-de-producto.md) |
-| UX | ¿Qué tan fácil resuelve una tarea? | revisión experta y test de usabilidad comparativo | por qué compran | [test de usabilidad](../../UX/Evaluacion/test-de-usabilidad.md), [evaluación heurística](../../UX/Evaluacion/evaluacion-heuristica.md) |
-| Precio y empaquetado | ¿Cómo cobra y a quién? | revisión de planes, métrica de cobro y límites por plan | su costo | [pricing y empaquetado](../../Producto/Monetizacion/pricing-y-empaquetado.md) |
+| UX | ¿Qué tan fácil resuelve una tarea? | revisión experta y test de usabilidad comparativo | por qué compran | [evaluación competitiva](../../UX/Evaluacion/evaluacion-competitiva.md) |
+| Precio y empaquetado | ¿Cómo cobra y a quién? | revisión de planes, métrica de cobro y límites por plan, valor económico frente al rival | su costo | [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md), [pricing y empaquetado](../../Producto/Monetizacion/pricing-y-empaquetado.md) |
 | Canales | ¿Cómo llega al cliente? | mapa de canales, *shadowing* | si el cliente queda satisfecho | [canales](../../Marketing/Canales/canales.md) |
-| Tecnológica y de ecosistema | ¿Qué sabe hacer y con quién se alía? | pronóstico tecnológico, relaciones estratégicas, mapa de apps e integraciones | la demanda | [ecosistema de terceros](../../Producto/Plataformas/ecosistema-de-terceros.md), [plataformas](../../Producto/Plataformas/plataformas.md) |
+| Tecnológica y de ecosistema | ¿Qué sabe hacer y con quién se alía? | pronóstico tecnológico, relaciones estratégicas, mapa de apps e integraciones | la demanda | [ecosistema de terceros](../../Producto/Plataformas/ecosistema-de-terceros.md), [competencia con la plataforma](../../Producto/Plataformas/competencia-con-la-plataforma.md), [plataformas](../../Producto/Plataformas/plataformas.md) |
 | Financiera | ¿Cuánto aguanta? | flujo de caja del competidor, lectura de reportes | sus intenciones | [lectura de reportes públicos](lectura-de-reportes-publicos.md) |
 | Organizacional y de contratación | ¿Hacia dónde invierte? | ofertas de empleo, estructura | sus resultados | [fuentes públicas](fuentes-publicas.md) |
 
-El respaldo de cada fila es desparejo. La estratégica sale de Porter, leído. La de cliente y la financiera salen de capítulos de Fleisher y Bensoussan leídos en diapositivas del editor, y la de UX de una guía leída de Nielsen Norman Group. La de mercado se apoya en abstracts, y la tecnológica y el *shadowing* solo en títulos del índice de Fleisher. Las de precio y canales no tienen fuente leída para su uso competitivo.
+El respaldo de cada fila es desparejo. La estratégica sale de Porter, leído. La de cliente y la financiera salen de capítulos de Fleisher y Bensoussan leídos en diapositivas del editor, y la de UX de una guía leída de Nielsen Norman Group. La de mercado se apoya en abstracts, y la tecnológica y el *shadowing* solo en títulos del índice de Fleisher. La de precio se apoya en notas de clase de pricing del MIT, leídas (detalle en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md)); la de canales no tiene fuente leída para su uso competitivo.
 
 En una plataforma de tiendas online, la tecnológica y de ecosistema pesa más que en otros SaaS, según la lectura de esta base. Cuántas apps tiene el rival, qué API abre y a quién deja construir encima dicen cuánto cuesta irse de él, que es la lógica de los [costos de cambio](../Fuentes-de-ventaja/costos-de-cambio.md).
 
-## Las comparaciones que faltan en UX y Producto
+## Las comparaciones que viven en UX y Producto
 
-> [!NOTE] Sin fuente todavía: tres técnicas de la tabla se van a ampliar en otros temas y todavía no tienen nota. La comparación de usabilidad entre productos va al tema UX. El modelo Kano y la comparación de precios entre rivales van al tema Producto.
+La comparación de usabilidad entre productos está en la [evaluación competitiva](../../UX/Evaluacion/evaluacion-competitiva.md), del tema UX. Su objetivo, según la guía de Nielsen Norman Group: "The goal is to improve your design."
 
-Mientras tanto, la evaluación competitiva de usabilidad tiene un método leído en Nielsen Norman Group, resumido en [desarme de producto](desarme-de-producto.md). Su objetivo, según la guía: "The goal is to improve your design."
+La comparación de precios y planes entre rivales está en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md), del tema Producto. El modelo Kano, para separar lo que la categoría ya da por sentado porque los rivales lo tienen, está en [priorización](../../Producto/Planificacion-y-entrega/priorizacion.md#kano-clasificar-atributos-no-ordenarlos).
 
 ## Win/loss: por qué se ganó o se perdió una venta
 
-El win/loss es la técnica de la mirada de cliente. Fleisher y Bensoussan lo definen así: "WLA is direct feedback from a client or potential client about why you won or lost a specific sale or contract." Es el capítulo 15 en la primera edición y el 29 en la segunda.
-
-Citan a Schulz (2002) para sus elementos: es continuo, recoge la voz del cliente y no solo la del vendedor, llega a tiempo, sigue un método consistente y tiene usuarios definidos. Lo organizan en siete pasos:
-
-1. Definir segmentos y prospectos.
-2. Entender la cultura interna.
-3. Armar el cuestionario, con cuatro áreas según Naylor (2002): atributos de la venta, reputación de la empresa, atributos del producto y servicio.
-4. Preparar las entrevistas.
-5. Entrevistar, cerca de la decisión y con alguien de afuera: "Use of an independent third party will avoid results being skewed by any pre-existing relationships".
-6. Analizar.
-7. Difundir.
-
-Los mismos autores marcan sus límites. "Interviews are only as good as the interviewer conducting them"; la demora degrada la memoria del cliente; ventas puede resistirse si se siente señalada; otras áreas pueden usar el proceso para sus agendas. Y "Value of WLA is only as good as the system set up to inform interested parties".
-
-Según resúmenes, OpenView sugiere una primera muestra de unos 20 tratos cerrados, 10 ganados y 10 perdidos, de los últimos 90 días, con entrevistas de 30 minutos. Las guías discrepan en si los tratos que terminaron sin decisión entran al análisis: unas los excluyen y otras los incluyen. No se encontró ningún estudio sobre la validez del método.
-
-Para diseñar un producto, el win/loss dice contra quién se pierde y por qué: no es lo mismo perder por una integración que falta que por precio. La entrevista a quien cambió de producto, prima del win/loss, se va a ampliar en el tema UX.
+El [análisis de ventas ganadas y perdidas](analisis-de-ventas-ganadas-y-perdidas.md) es la técnica de la mirada de cliente: le pregunta a quien decidió una compra por qué se ganó o se perdió. Fleisher y Bensoussan lo organizan en siete pasos y le marcan límites propios, como la demora y la resistencia de ventas; ningún estudio mide su validez.
 
 ## Las ofertas de empleo como señal
 
@@ -102,4 +85,4 @@ Los puntajes son de la primera edición (2007), los ponen los propios autores y 
 
 ## Qué leer
 
-Fleisher y Bensoussan, segunda edición, capítulo 5 (FAROUT), y después el capítulo de la técnica elegida; para win/loss, el 29 (el 15 de la primera edición), pasos 5 y 6. Fijarse en que no hay técnica universal y en que se elige por la pregunta y las restricciones. Las diapositivas del editor de la primera edición son gratuitas y alcanzan para empezar.
+Fleisher y Bensoussan, segunda edición, capítulo 5 (FAROUT), y después el capítulo de la técnica elegida. Fijarse en que no hay técnica universal y en que se elige por la pregunta y las restricciones. Las diapositivas del editor de la primera edición son gratuitas y alcanzan para empezar.

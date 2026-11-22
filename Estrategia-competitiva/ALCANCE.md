@@ -4,10 +4,11 @@ para: saber analizar una industria y a los competidores con el fin de diseñar u
 nivel: entiende de negocio y de software pero no es estratega ni analista de inteligencia competitiva; no se da por sabido el vocabulario de estrategia
 escuela: neutral entre posicionamiento (Porter) y recursos (RBV), presentadas como dos lentes con su evidencia empírica; la práctica, al servicio de una decisión centrada en el cliente y no de copiar al competidor
 fuera:
-  - competencia entre plataformas (envolvimiento, multihoming, el ganador se lleva todo, agregadores) — se amplía en Producto/Plataformas, en otro PR
+  - competencia entre plataformas (envolvimiento, multihoming, el ganador se lleva todo, agregadores, competir con la propia plataforma) — tema Producto/Plataformas; se enlaza
   - posicionamiento, alternativas competitivas y JTBD (tema Marketing; se enlaza)
-  - comparación de usabilidad entre productos y entrevista a quien cambió de producto (tema UX; se amplía allá)
-  - modelo Kano y comparación de precios (tema Producto; se amplía allá)
+  - comparación de usabilidad entre productos, entrevista a quien cambió de producto y análisis de reseñas (tema UX; se enlaza)
+  - modelo Kano y comparación de precios (tema Producto; se enlaza)
+  - segmentación y mapa de posicionamiento (tema Marketing; se enlaza)
   - tamaño de mercado y validación (tema Emprender; se enlaza)
   - el dominio de una industria concreta (tema Comercio-electronico, aparte)
   - estrategia corporativa: diversificación, fusiones, internacionalización
@@ -55,12 +56,14 @@ Estrategia-competitiva/
     analisis-propio                  la misma vara aplicada a uno mismo: fortalezas y debilidades relativas
     foda                             el FODA, sus críticas y cómo usarlo para decidir
     perspectivas-de-analisis         qué pregunta responde cada mirada y con qué técnica
+    analisis-de-ventas-ganadas-y-perdidas  win/loss: por qué se ganó o se perdió una venta
     desarme-de-producto              teardown y matriz de funcionalidades
     lectura-de-reportes-publicos     lo que un competidor revela a sus inversores
     ciclo-de-inteligencia            planificar, recolectar, analizar, difundir
     fuentes-publicas                 de dónde se saca cada dato y cuánto vale (la recolección del ciclo)
     registros-publicos-argentinos    (ficha) qué registro da qué dato de una empresa argentina
-    etica-y-legalidad                qué se puede averiguar y cómo, con la ley argentina
+    etica-y-legalidad                qué se puede averiguar y cómo: SCIP, scraping, reglas para recolectar
+    ley-argentina-y-competidores     secretos comerciales, delitos informáticos, datos personales, competencia
     juego-de-guerra                  ensayar las jugadas del rival
     puntos-ciegos                    los sesgos de quien analiza: competidor ausente, alerta temprana
     obsesion-por-el-competidor       cuándo mirar al rival daña, y su evidencia

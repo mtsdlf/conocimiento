@@ -20,7 +20,9 @@ revisado:
 
 # Registros públicos argentinos
 
-Qué registros públicos argentinos dan datos de una empresa competidora, qué da cada uno y su límite, consultado el 2026-11-22. Es la parte argentina de las [fuentes públicas](fuentes-publicas.md) y se usa en la etapa de recolección del [ciclo de inteligencia](ciclo-de-inteligencia.md), dentro de lo que permite la [ética y la legalidad](etica-y-legalidad.md).
+Qué registros públicos argentinos dan datos de una empresa competidora, qué da cada uno y su límite, consultado el 2026-11-22.
+
+Es la parte argentina de las [fuentes públicas](fuentes-publicas.md) y se usa en la etapa de recolección del [ciclo de inteligencia](ciclo-de-inteligencia.md), dentro de lo que permiten la [ley argentina](ley-argentina-y-competidores.md) y la [ética](etica-y-legalidad.md).
 
 Consultado en las páginas oficiales el 2026-11-22; los trámites, las tasas y las URLs cambian seguido.
 

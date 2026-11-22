@@ -24,7 +24,7 @@ revisado: 2026-11-22
 
 El pricing y empaquetado decide cuánto cuesta un producto, por qué unidad se cobra (asiento, uso o resultado) y qué entra en cada plan. *Monetizing Innovation* sostiene que se diseña antes que el producto; la tesis es de una consultora de precios y no tiene estudio independiente.
 
-Es la decisión central de la [monetización](monetizacion.md). La otra, qué se regala para vender el resto, está en [freemium y prueba gratuita](freemium-y-prueba-gratuita.md).
+Es la decisión central de la [monetización](monetizacion.md). La otra, qué se regala para vender el resto, está en [freemium y prueba gratuita](freemium-y-prueba-gratuita.md). Cómo entra el precio de los rivales en la cuenta está en [precios de la competencia](precios-de-la-competencia.md).
 
 ## "Price before product": la tesis de Monetizing Innovation
 

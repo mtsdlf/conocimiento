@@ -34,8 +34,8 @@ El marketing trabaja las cuatro: amplificar empuje y atracción (piezas, fotos d
 
 ## Cómo se averigua el trabajo
 
-- **Entrevistas de cambio:** a quien compró hace poco, reconstruyendo la línea de tiempo (cuándo pensó por primera vez, qué lo hizo decidirse, qué comparó).
-- **Sin acceso a clientes** (marketplace): preguntas y reseñas de publicaciones de la competencia, búsquedas (qué palabras usa la gente) y momentos de compra (mudanza, temporada, fin de año).
+- **[Entrevistas de cambio](../../UX/Investigacion/entrevista-de-cambio.md):** a quien compró hace poco, reconstruyendo la línea de tiempo (cuándo pensó por primera vez, qué lo hizo decidirse, qué comparó).
+- **Sin acceso a clientes** (marketplace): preguntas y [reseñas](../../UX/Investigacion/analisis-de-resenas.md) de publicaciones de la competencia, búsquedas (qué palabras usa la gente) y momentos de compra (mudanza, temporada, fin de año).
 
 > [!NOTE]
 > Sin fuente todavía: cuántas entrevistas de cambio alcanzan para ver patrones (se usaba «cinco a diez»; no se halló evidencia).

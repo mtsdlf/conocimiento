@@ -65,6 +65,8 @@ El único caso regulatorio documentado en los informes es de un marketplace, no 
 
 La lección para una plataforma de tiendas es una inferencia: los datos que la plataforma ve de comerciantes y desarrolladores la ponen en ventaja para competirles, y esa ventaja ya fue objeto de regulación en un caso.
 
-> [!NOTE] Sin fuente todavía: casos documentados de una plataforma de comercio que reemplazó apps de terceros con funciones propias, estudios empíricos sobre apps copiadas, y evidencia sobre calidad y concentración de ingresos de los desarrolladores en tiendas de apps de comercio.
+Los estudios empíricos sobre dónde entra la plataforma y qué hacen los terceros cuando entra (Amazon, Android, la App Store), y la diferencia entre plataforma y agregador, están en [competencia con la plataforma](competencia-con-la-plataforma.md).
+
+> [!NOTE] Sin fuente todavía (los estudios sobre marketplaces y tiendas de apps de teléfonos están en [competencia con la plataforma](competencia-con-la-plataforma.md)): casos documentados de una plataforma de comercio que reemplazó apps de terceros con funciones propias, y evidencia sobre calidad y concentración de ingresos de los desarrolladores en tiendas de apps de comercio.
 
 Para la versión de escuela sobre apertura y gobernanza, *Platform Revolution* dedica los capítulos 7 y 8; no se leyeron. Las reglas de quién entra y cómo se resuelven los conflictos quedan para una nota de gobernanza que todavía no existe.

@@ -84,7 +84,7 @@ La corrección es pedirle a cada celda de la matriz un dato que no venga del equ
 4. Escribí junto a cada puntaje de dónde sale: una venta ganada o perdida, un dato de uso, una prueba hecha con el producto del rival.
 5. Tratá como hipótesis las celdas que solo tienen la opinión del equipo, y probalas con la [prueba de supuestos](../../Producto/Descubrimiento/prueba-de-supuestos.md).
 
-El [win/loss](perspectivas-de-analisis.md#winloss-por-qué-se-ganó-o-se-perdió-una-venta) es, para esta base, la fuente más directa de fuerza relativa. Los materiales de quienes lo venden coinciden en que los motivos de pérdida que declara el vendedor o el CRM ("precio", "presupuesto") difieren de los del comprador, y en que el comprador habla más franco con un entrevistador neutral. Las cifras que circulan sobre eso no tienen fuente primaria y no se usan.
+El [win/loss](analisis-de-ventas-ganadas-y-perdidas.md) es, para esta base, la fuente más directa de fuerza relativa. Los materiales de quienes lo venden coinciden en que los motivos de pérdida que declara el vendedor o el CRM ("precio", "presupuesto") difieren de los del comprador, y en que el comprador habla más franco con un entrevistador neutral. Las cifras que circulan sobre eso no tienen fuente primaria y no se usan.
 
 > [!NOTE] Sin fuente todavía: evidencia académica, y no de proveedores del servicio, de que el win/loss corrija la autoevaluación.
 

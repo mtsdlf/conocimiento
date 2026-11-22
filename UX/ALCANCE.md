@@ -38,6 +38,8 @@ UX/
   Investigacion/                 entender a quién, qué tarea y en qué contexto
     metodos-de-investigacion       qué método contesta qué pregunta
     entrevista-de-usuario
+    entrevista-de-cambio           la entrevista a quien cambió de producto (JTBD)
+    analisis-de-resenas            codificar reseñas propias y de rivales, con sus sesgos
   Arquitectura-de-informacion/   cómo se organiza y se encuentra el contenido
     navegacion
   Interaccion/                   cómo se usa: flujos, controles, estados, respuesta
@@ -52,6 +54,7 @@ UX/
     test-de-usabilidad
     evaluacion-heuristica
     metricas-de-ux
+    evaluacion-competitiva         comparar la usabilidad propia con la de los rivales
   Fundamentos/                   qué es UX, historia, escuelas, bibliografía por necesidad, fuentes, mitos, glosario
 ```
 
@@ -59,3 +62,4 @@ UX/
 
 - Profundidad de esta primera pasada: el árbol completo con la entrada de cada parte, los componentes de arriba y Fundamentos entero. Lo que falta de cada parte (mapa de recorrido, card sorting, búsqueda y filtros, estados de la interfaz, microcopy, experimento A/B) queda nombrado en su entrada.
 - Los patrones de cada tipo de producto esperan a un caso real; mientras, la bibliografía se ordena por necesidad (general, conversión, e-commerce, software de negocio).
+- Ampliado el 2026-11-22 para el plan de análisis de competencia (issue #24 de mtsdlf/conocimiento): evaluación competitiva, entrevista de cambio y análisis de reseñas.

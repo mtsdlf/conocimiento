@@ -32,6 +32,10 @@ Según Dunford, posicionar es elegir el contexto en el que el valor del producto
 
 Dunford suma una sexta pieza opcional: una tendencia que haga el producto más relevante ahora.
 
+## Ver cómo perciben los clientes a cada rival
+
+Antes de posicionar sirve saber dónde ubican hoy los clientes al producto y a sus alternativas. Eso muestra un mapa de posicionamiento, o mapa perceptual, que nació del escalamiento multidimensional en la investigación de mercados. Vale si sale de datos de clientes: según un estudio sobre el índice ACSI, los gerentes sobreestiman la satisfacción y la lealtad de sus clientes. Se distingue del lienzo estratégico, que compara ofertas, y del mapa de grupos estratégicos, que compara estrategias de empresas.
+
 ## Dónde choca con el Ehrenberg-Bass
 
 Que los atributos únicos muevan la elección es lo que disputa el Ehrenberg-Bass. Sharp (2011) cita la base BrandZ de Millward Brown, de más de 6.000 marcas: en promedio, el 18 % de quienes aceptan una marca la ve distinta. La escuela prioriza los activos distintivos, que sirven para reconocer la marca y no para transmitir un mensaje. Ritson concede que la USP no se sostiene en los datos, pero pide las dos cosas ("bothism"): activos distintivos y, encima, una diferenciación relativa en pocas asociaciones importantes.
@@ -50,4 +54,5 @@ La evidencia sale de marcas grandes de consumo masivo, así que el criterio es i
 ## Posicionamiento y diferenciación, en detalle
 
 - [Posicionamiento](posicionamiento.md) — las cinco piezas de Dunford y de dónde sale el cliente correcto. Leerla primero.
+- [Mapa de posicionamiento](mapa-de-posicionamiento.md) — el mapa perceptual: de dónde sale, cómo se arma con clientes, por qué el del equipo engaña y en qué se diferencia del lienzo estratégico y del mapa de grupos estratégicos.
 - [Distintividad o diferenciación](distintividad-o-diferenciacion.md) — las posiciones del Ehrenberg-Bass, Ritson y sus críticos, las dos lecturas de diferenciación y cómo se decide con poco presupuesto.

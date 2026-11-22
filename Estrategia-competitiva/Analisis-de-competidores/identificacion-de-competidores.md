@@ -42,7 +42,7 @@ La columna de ejemplo es una aplicación de la tipología, no un dato medido. Pa
 
 ## Bergen y Peteraf: identificar y analizar son dos etapas
 
-Bergen y Peteraf (2002) proponen, según su abstract, un marco de dos etapas: primero identificar a los competidores y después analizarlos. El marco abarca competidores potenciales, sustitutos e indirectos además de los directos. El abstract sostiene que los gerentes suelen errar al identificar amenazas, sobre todo los sustitutos del lado de la oferta y los competidores indirectos o potenciales.
+Bergen y Peteraf (2002) proponen, según su abstract, un marco de dos etapas: primero identificar a los competidores y después analizarlos. El abstract sostiene que los gerentes suelen errar al identificar amenazas, sobre todo los sustitutos del lado de la oferta y los competidores indirectos o potenciales.
 
 Peteraf y Bergen (2003) llevan el marco a mercados que cambian. Según su abstract, buscan similitudes funcionales entre productos y entre recursos, y sostienen que cada empresa enfrenta su propio conjunto de competidores aunque los mercados se solapen. Una frase del abstract resume el criterio: "It is not rareness in terms of resource type that matters, but rareness in terms of resource functionality." Para una plataforma de tiendas, eso significa preguntar quién más tiene algo que cumpla la misma función (una base de comerciantes, un medio de cobro), aunque no se parezca.
 
@@ -76,7 +76,7 @@ Day, Shocker y Srivastava (1979) comparan, según su abstract, métodos para del
 
 > [!NOTE] Sin fuente todavía: la definición textual de sustitución en uso; ni Day et al. (1979) ni Srivastava et al. (1981) se leyeron completos.
 
-En la práctica, la pregunta es qué usa hoy el cliente para hacer lo mismo en la misma situación. Es la misma pregunta que se hace desde el trabajo del cliente en [jobs to be done](../../Marketing/Mercado-y-cliente/jobs-to-be-done.md).
+En la práctica, la pregunta es qué usa hoy el cliente para hacer lo mismo en la misma situación. Es la misma pregunta que se hace desde el trabajo del cliente en [jobs to be done](../../Marketing/Mercado-y-cliente/jobs-to-be-done.md). Definir así el mercado, por la necesidad y no por el producto, es la [definición de mercado](../../Marketing/Mercado-y-cliente/definicion-de-mercado.md), primer paso de la [segmentación](../../Marketing/Mercado-y-cliente/segmentacion.md).
 
 ## El no consumo como rival
 
@@ -84,11 +84,11 @@ Christensen, Johnson y Rigby (2002) proponen competir contra el no consumo: "Com
 
 Christensen lo plantea como estrategia de entrada, no como definición de competidor. Tratar al statu quo (la planilla, el cuaderno, no hacer nada) como un rival más es una extensión de esta base. La teoría de fondo está en [disrupción](../Dinamica-competitiva/disrupcion.md).
 
-Las alternativas competitivas de Dunford, lo que el cliente haría si el producto no existiera, son el mismo movimiento visto desde el posicionamiento. Están en [posicionamiento](../../Marketing/Propuesta/posicionamiento.md) y no se repiten acá.
+Las alternativas competitivas de Dunford, lo que el cliente haría si el producto no existiera, son el mismo movimiento visto desde el [posicionamiento](../../Marketing/Propuesta/posicionamiento.md).
 
 ## La tipología ayuda a no olvidar a nadie, no garantiza la lista
 
-Una lista bien rotulada no corrige el sesgo de no ver al competidor que no se parece a uno. Ninguna fuente leída muestra que usar las cinco clases mejore la identificación. Por eso la lista se completa con una pregunta que sale del cliente: ¿quién más puede resolver el mismo trabajo, en la misma situación? Esa pregunta se contesta con clientes, en entrevistas y en el [win/loss](perspectivas-de-analisis.md), y no solo con el equipo.
+Una lista bien rotulada no corrige el sesgo del competidor ausente. Ninguna fuente leída muestra que usar las cinco clases mejore la identificación. Por eso la lista se completa con una pregunta que sale del cliente: ¿quién más puede resolver el mismo trabajo, en la misma situación? Esa pregunta se contesta con clientes, en entrevistas y en el [win/loss](analisis-de-ventas-ganadas-y-perdidas.md), y no solo con el equipo.
 
 Cómo se arma la lista, en pasos:
 

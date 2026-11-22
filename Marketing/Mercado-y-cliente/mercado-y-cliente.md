@@ -45,6 +45,10 @@ En cualquier momento, la mayoría de los compradores potenciales de una categor�
 
 La consecuencia es que apuntar solo a quien ya busca deja la marca desconocida para la mayoría. La publicidad construye los vínculos de memoria que se activan cuando el comprador entra al mercado, y eso es trabajo de [Marca](../Marca/marca.md). Forrester (Arnold, 2025) encuestó una sola categoría y obtuvo ~15.6% por año en mercado: "more like the 85-15".
 
+## Definir el mercado y dividirlo
+
+Antes de elegir a quién apuntar, se define el mercado por la necesidad del cliente y no por el producto, como pedía Levitt con los ferrocarriles: es la [definición de mercado](definicion-de-mercado.md). Después se lo divide en segmentos: por demografía, conducta, beneficio buscado o, en B2B, por datos de la empresa. Un segmento sirve si es medible, sustancial, accesible, diferenciable y accionable. El Ehrenberg-Bass muestra que los compradores de marcas rivales se parecen: segmentar sirve para entender el mercado, no para esperar que la marca tenga clientes propios.
+
 ## ¿Un segmento o toda la categoría?
 
 Ritson defiende el targeting; Sharp, el "marketing masivo sofisticado": llegar a todo el mercado con creatividades distintas por segmento. Research Live (2017) concluye que coinciden mucho más de lo que discrepan y que buena parte del choque es qué se llama "targeting". En Cannes quedaron dos diferencias: la diferenciación, que es de sustancia y se discute en [Propuesta](../Propuesta/distintividad-o-diferenciacion.md), y cómo llamar al 5 % que está comprando, que es sobre todo de nombre.
@@ -60,4 +64,6 @@ Casi todo lo que se sabe en esta parte sale de marcas grandes, de consumo masivo
 - [Jobs to be done](jobs-to-be-done.md) — para qué «contrata» la gente un producto, las cuatro fuerzas y cómo se averigua el trabajo. Leerla primero.
 - [Dos lecturas de Jobs to be done](dos-lecturas-de-jtbd.md) — ODI contra progreso, cuándo sirve cada una y por qué el 86% de Strategyn no se puede verificar. Para decidir cómo investigar al cliente.
 - [Compradores fuera del mercado](compradores-fuera-del-mercado.md) — la regla 95-5, de dónde sale la cuenta y cuánto la discute Forrester. Antes de planear publicidad.
+- [Definición de mercado](definicion-de-mercado.md) — por qué el mercado se define por la necesidad y no por el producto, con Levitt y la sustitución en uso. Antes de segmentar.
+- [Segmentación](segmentacion.md) — las bases para dividir el mercado, cuándo sirve un segmento, la segmentación de empresas y por qué los compradores de marcas rivales se parecen. Antes del targeting.
 - [Targeting o alcance masivo](targeting-o-alcance-masivo.md) — el debate Ritson-Sharp, qué es de datos y qué de nombres, y cómo se decide en un emprendimiento chico.

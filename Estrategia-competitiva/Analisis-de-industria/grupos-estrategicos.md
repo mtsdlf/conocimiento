@@ -52,7 +52,7 @@ En un SaaS, la inferencia es que las barreras de movilidad son lo que impide a u
 
 ## El mapa de grupos
 
-El uso práctico es un mapa: dos dimensiones de la lista anterior como ejes y cada rival ubicado en el plano. Los rivales que caen cerca forman un grupo. Se eligen dimensiones que no estén correlacionadas entre sí, porque si lo están el mapa muestra lo mismo dos veces.
+El uso práctico es un mapa: dos dimensiones de la lista anterior como ejes y cada rival ubicado en el plano. Los rivales que caen cerca forman un grupo. Se eligen dimensiones que no estén correlacionadas entre sí, porque si lo están el mapa muestra lo mismo dos veces. Es el mapa del lado de la industria: ubica estrategias de empresas. Su par del lado del cliente, que ubica cómo se percibe cada oferta, es el [mapa de posicionamiento](../../Marketing/Propuesta/mapa-de-posicionamiento.md).
 
 > [!NOTE] Sin fuente todavía: la forma del mapa (dos ejes, círculos proporcionales a la cuota, dimensiones no correlacionadas) es la práctica habitual de los manuales, pero ningún informe la verificó en Porter (1980) ni en un manual.
 
