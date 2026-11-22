@@ -51,6 +51,7 @@ flowchart LR
   N[Normativa] -->|fija reglas para| C
   N -->|fija reglas para| G
   P -->|cobra suscripción y una parte de| G
+  B[Comercio B2B] -->|cambia precio y pedido en| C
 ```
 
 - [Plataforma de tiendas](Plataforma-de-tiendas/plataforma-de-tiendas.md): el software con el que un comercio vende online, sus tipos, cómo está hecho, cómo gana plata y las apps de terceros que viven en ella. Es la vertical más desarrollada, con una ficha por plataforma y por app de referencia.
@@ -59,6 +60,7 @@ flowchart LR
 - [Operaciones del comercio](Operaciones-del-comercio/operaciones-del-comercio.md): catálogo, stock, pedidos, envío y devoluciones.
 - [Venta en varios canales](Venta-en-varios-canales/venta-en-varios-canales.md): tienda propia, marketplace, redes y local físico, y qué se sabe de combinarlos.
 - [Normativa](Normativa/normativa.md): lo que regula la venta online, con fichas por país.
+- [Comercio B2B](Comercio-B2B/comercio-b2b.md): la venta entre empresas, con su cadena y su software.
 
 ## Qué leer según el trabajo con una tienda online
 
@@ -70,6 +72,7 @@ flowchart LR
 - Si vas a analizar una plataforma de tiendas rival: [el negocio de una plataforma](Plataforma-de-tiendas/negocio-de-una-plataforma.md) y el [recorrido de un análisis de competencia](../Estrategia-competitiva/Fundamentos/recorrido-analisis-de-competencia.md).
 - Si vas a construir una app para tiendas: [apps para comerciantes](Plataforma-de-tiendas/apps-para-comerciantes.md), [arquitectura de plataforma](Plataforma-de-tiendas/arquitectura-de-plataforma.md) y [competencia con la plataforma](../Producto/Plataformas/competencia-con-la-plataforma.md).
 - Si tenés que saber qué le exige la ley a una tienda: [normativa argentina](Normativa/normativa-argentina.md).
+- Si analizás distribuidoras o mayoristas: [comercio B2B](Comercio-B2B/comercio-b2b.md#por-dónde-empezar-a-analizar-un-mercado-mayorista).
 
 ## Cómo se usa al analizar plataformas de tiendas
 

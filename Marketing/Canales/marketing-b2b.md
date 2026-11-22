@@ -27,7 +27,7 @@ El marketing B2B vende a empresas, donde compra un grupo de personas y pocas est
 - **Pocos compradores activos.** La mayoría de las empresas no está comprando a la vez; el mecanismo está en [compradores fuera del mercado](../Mercado-y-cliente/compradores-fuera-del-mercado.md).
 - **Otro reparto entre marca y activación.** Las cifras, en [proporciones de marca y activación](../Marca/proporciones-marca-activacion.md); la decisión, en [marca y activación](../Marca/marca-y-activacion.md).
 
-Cómo se adopta un producto nuevo entre empresas lo explica [adopción de innovaciones](adopcion-de-innovaciones.md).
+Cómo se adopta un producto nuevo entre empresas lo explica [adopción de innovaciones](adopcion-de-innovaciones.md). Cómo funciona la operación de vender a otros comercios (listas por cliente, crédito, preventa, factura) está en [comercio B2B](../../Comercio-electronico/Comercio-B2B/comercio-b2b.md).
 
 ## Los principios de consumo que se mantienen
 

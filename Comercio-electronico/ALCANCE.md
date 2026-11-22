@@ -18,6 +18,8 @@ preguntas:
   - "¿Por qué la gente abandona el carrito y qué se sabe con evidencia sobre cómo mejorar un checkout?"
   - "¿Qué números públicos de una plataforma de tiendas sirven para compararla con otra, y cómo se leen?"
   - "¿Qué cambia vender online en Argentina y América Latina: cuotas, medios de pago, normativa?"
+  - "¿Qué distingue a un mayorista o distribuidor que vende a otros comercios de una tienda que vende al público, y qué software usa cada eslabón de la cadena?"
+  - "¿Cuántas empresas venden al por mayor en Argentina, cuánto pagan por su software y de qué se quejan?"
 aprobado: 2026-11-22
 ---
 
@@ -50,6 +52,16 @@ Comercio-electronico/
   Operaciones-del-comercio/          catálogo, stock, pedidos, envío y última milla, devoluciones (entrada)
   Venta-en-varios-canales/           tienda física, marketplaces y redes (entrada)
   Normativa/                         lo que regula la venta online (entrada; fichas por país)
+  Comercio-B2B/                      (a fondo, sumada el 2026-11-22) la venta entre empresas: mayoristas, distribuidores y fabricantes que venden a comercios
+    comercio-b2b.md                    entrada: qué la distingue, la cadena y los modelos de software, y cómo se conectan
+    cadena-de-distribucion             fabricante, distribuidor, mayorista y minorista: qué hace cada eslabón; canal tradicional y moderno en Argentina
+    precio-por-cliente                 listas por cliente, zona o canal; escalas por volumen; mínimos y bultos cerrados
+    cuenta-corriente-y-credito         venta a plazo, límite de crédito, cobranza, cheque y echeq
+    pedido-b2b                         reposición recurrente, catálogos grandes, pedido por chat o planilla y autoservicio del cliente
+    preventa-y-autoventa               el vendedor en la calle: rutas, toma de pedido sin conexión y reparto
+    factura-entre-empresas             factura A, percepciones y retenciones, factura de crédito electrónica MiPyME (Argentina)
+    modelos-de-software-b2b            portal B2B, capa mayorista de una tienda, app de preventa, sistema de gestión, marketplace B2B y app del fabricante
+    fichas fechadas                    software B2B en Argentina; portales B2B globales; marketplaces y apps B2B de la región; cifras del comercio B2B
   Fundamentos/                       qué es, historia breve, bibliografía, fuentes y cifras del mercado (ficha), glosario
 ```
 
@@ -59,4 +71,5 @@ Comercio-electronico/
 - Las fichas por plataforma traen datos públicos fechados, sin opinión ni comparación: la comparación es trabajo del análisis concreto, en el repo de la empresa.
 - La normativa se escribe para Argentina primero, como ficha; otros países quedan nombrados como hueco.
 - La investigación de pagos separó las cuotas (financiación) de los medios locales (rieles de pago), que el árbol aprobado juntaba.
+- Sumado a pedido de la persona el 2026-11-22: la vertical Comercio-B2B, a fondo. Los rasgos del B2B (precio, crédito, pedido, preventa, factura) son componentes y no una sola nota, porque cada uno se enlaza solo desde las fichas y desde el análisis de un mercado. El método de la base pone «B2B» como ejemplo de corte transversal y no de parte; acá se tomó como vertical porque, en este dominio, vender a otra empresa tiene su propia cadena, su propio software y su propia operación (precio por cliente, crédito, preventa, factura), con notas que no se repiten en las otras verticales. La factura entre empresas vive en esta vertical y no en Normativa porque es parte de cómo se vende entre empresas; Normativa la enlaza. Las fichas se agrupan por modelo de software y no por empresa, para no chocar con las fichas de sistemas de gestión que pueda tener otra vertical. El marketing a empresas sigue en [Marketing B2B](../Marketing/Canales/marketing-b2b.md) y la venta consultiva en Ventas: esta vertical trata la operación de vender a comercios, no cómo se les hace publicidad ni cómo se cierra una venta compleja.
 - Sumado a pedido de la persona: las apps para comerciantes, porque uno de los ejemplos de mercado (Escalafy) es una app que vive dentro de las plataformas y no una plataforma; con fichas de Escalafy y de sus alternativas con más presencia.
