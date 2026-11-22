@@ -64,6 +64,10 @@ Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCION
 - [Emprender](Emprender/emprender.md) — armar una empresa nueva con incertidumbre: validación (Lean Startup), modelo de negocio, crecimiento, finanzas, fundadores y equipo, legal e impuestos en Argentina, con las escuelas y su evidencia.
 - [Estrategia competitiva](Estrategia-competitiva/estrategia-competitiva.md) — por qué una industria rinde lo que rinde, de dónde sale una ventaja que dura, cómo se mueven los rivales y cómo se analiza a los competidores antes de diseñar un producto, con su evidencia.
 
+## Industrias
+
+- [Comercio electrónico](Comercio-electronico/comercio-electronico.md) — el dominio de vender online: plataformas de tiendas y sus apps, pagos y cuotas, checkout y conversión, operaciones, venta en varios canales y normativa argentina, con fichas fechadas por plataforma.
+
 ## Animales
 
 - [Gecko leopardo](Gecko-leopardo/gecko-leopardo.md) — cuidado del gecko leopardo en terrario: qué necesita, cómo se nota que está bien o mal y qué hacer.
