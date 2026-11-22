@@ -5,17 +5,12 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "Ley 24.766 de confidencialidad, art. 1, copia no oficial: https://leyes-ar.com/ley_de_confidencialidad/1.htm (leído); art. 12: https://leyes-ar.com/ley_de_confidencialidad/12.htm (leído en fragmentos); copia de WIPO Lex: https://www.wipo.int/wipolex/es/text/124731 (según resumen); texto oficial en https://www.argentina.gob.ar/normativa/nacional/41094/texto (no se pudo abrir)"
-  - "Código Penal argentino, art. 156, copia no oficial: https://leyes-ar.com/codigo_penal/156.htm (leído); citado igual en https://repositorio.uca.edu.ar/bitstream/123456789/21999/1/el-secreto-profesional-del-abogado-en-argentina.pdf (según resumen)"
-  - "Ley 26.388 de delitos informáticos, copia del Boletín Oficial de la Ciudad de Buenos Aires: https://boletinoficial.buenosaires.gob.ar/normativaba/norma/119328 (leído, en parte parafraseado por el lector)"
-  - "Ministerio de Justicia, Derecho fácil, Delitos informáticos: https://www.argentina.gob.ar/justicia/derechofacil/leysimple/delitos-informaticos (leído)"
-  - "Ley 25.326 de protección de datos personales: https://www.argentina.gob.ar/normativa/nacional/ley-25326-64790/texto (leído, en parte parafraseado por el lector)"
-  - "Ley 27.442 de defensa de la competencia: https://www.argentina.gob.ar/normativa/nacional/ley-27442-310241/texto (leído, resumido por el lector); nota argentina sobre estándar de prueba: https://argentina.gob.ar/sites/default/files/estandar_de_prueba_-_nota_de_argentina_esp_vf.pdf (según resumen)"
   - "Código de ética de SCIP, copia no oficial: https://www.scribd.com/document/529797491/scip-ethics-policies-sampl (según resumen); crítica de Aqute: https://www.aqute.com/blog/is-it-impossible-to-stick-to-scips-code-of-ethics (leído)"
   - "Corte Suprema de EE.UU., Van Buren v. United States, No. 19-783 (3-jun-2021): https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf (leídos el syllabus y pasajes)"
   - "9.º Circuito, hiQ Labs v. LinkedIn, No. 17-16783 (18-abr-2022): https://law.justia.com/cases/federal/appellate-courts/ca9/17-16783/17-16783-2022-04-18.html (no se abrió); EFF: https://www.eff.org/deeplinks/2022/04/scraping-public-websites-still-isnt-crime-court-appeals-declares (leído)"
   - "Public Law 109-476, Telephone Records and Privacy Protection Act of 2006: https://www.congress.gov/109/plaws/publ476/PLAW-109publ476.htm (según resumen)"
   - "Estrategia-competitiva/.investigacion/analisis-de-competidores-2.md"
-aliases: [ética de la inteligencia competitiva, competitive intelligence ethics, legalidad, secreto comercial, trade secret, espionaje industrial, industrial espionage, pretexting, mystery shopping, scraping]
+aliases: [ética de la inteligencia competitiva, competitive intelligence ethics, legalidad, espionaje industrial, industrial espionage, pretexting, mystery shopping, scraping]
 creado: 2026-11-22
 revisado:
 ---
@@ -26,11 +21,11 @@ La ética y la legalidad del análisis de competidores marcan qué se puede aver
 
 Restringe sobre todo la recolección de [fuentes públicas](fuentes-publicas.md), y también qué se guarda de personas y qué se comparte en la difusión del [ciclo de inteligencia](ciclo-de-inteligencia.md).
 
-Lo que sigue orienta el trabajo y no reemplaza el asesoramiento de un abogado. Varias normas se leyeron en copias no oficiales o en una sola fuente, como dice la tabla de la ley argentina. No se encontró jurisprudencia ni doctrina argentina sobre inteligencia competitiva, *scraping*, *mystery shopping* ni *pretexting*.
+Lo que sigue orienta el trabajo y no reemplaza el asesoramiento de un abogado. Varias normas se leyeron en copias no oficiales o en una sola fuente, como dice la tabla de [ley argentina y competidores](ley-argentina-y-competidores.md). No se encontró jurisprudencia ni doctrina argentina sobre inteligencia competitiva, *scraping*, *mystery shopping* ni *pretexting*.
 
 ## Dónde termina la inteligencia y empieza el espionaje
 
-Según la lectura de esta base, sin respaldo judicial, la línea la marca la forma de obtener el dato. La Ley 24.766 (abajo) permite a quien controla un secreto impedir que otro lo adquiera de manera "contraria a los usos comerciales honestos", y lo "fácilmente accesible" para quien está en el rubro no es secreto. Aqute, una consultora que critica el código de SCIP, lo dice en términos éticos: el problema real es adquirir lo que el competidor espera mantener confidencial, se identifique o no quien pregunta.
+Según la lectura de esta base, sin respaldo judicial, la línea la marca la forma de obtener el dato. La [Ley 24.766](ley-argentina-y-competidores.md#lo-que-dice-cada-norma) permite a quien controla un secreto impedir que otro lo adquiera de manera "contraria a los usos comerciales honestos", y lo "fácilmente accesible" para quien está en el rubro no es secreto. Aqute, una consultora que critica el código de SCIP, lo dice en términos éticos: el problema real es adquirir lo que el competidor espera mantener confidencial, se identifique o no quien pregunta.
 
 ## El código de ética de SCIP
 
@@ -54,29 +49,13 @@ Los fallos citados son de EE.UU., sobre su ley de fraude informático (CFAA), y 
 - ***Van Buren v. United States*** (Corte Suprema, 3 de junio de 2021). Según el syllabus, la CFAA no alcanza a quien accede con credenciales válidas a información a la que tiene derecho, aunque la use con fines indebidos. El fallo razona con "puertas": se puede o no se puede entrar a un sistema, o a áreas dentro de él. La única fuente es el propio fallo (syllabus y pasajes).
 - ***hiQ Labs v. LinkedIn*** (9.º Circuito, 18 de abril de 2022). Después de *Van Buren*, el tribunal confirmó la medida cautelar a favor de hiQ: la CFAA probablemente no alcanza al *scraping* de datos públicos, porque un sitio público no tiene puertas. Es una decisión cautelar, no sobre el fondo, y deja abiertos los reclamos por términos de servicio y por *trespass to chattels*. Hay una sola fuente leída, la nota de la EFF; el fallo no se pudo abrir, un estudio de abogados (Proskauer) coincide según resumen y no se investigó cómo terminó el caso.
 
-## La ley argentina
+## Las cinco normas argentinas que ponen el límite
 
-| Norma | Qué alcanza en el análisis de competidores | Fuentes leídas |
-|---|---|---|
-| Ley 24.766 | Obtener secretos comerciales del rival por medios deshonestos | Una, copia no oficial |
-| Código Penal, art. 156 | Revelar un secreto conocido por el empleo o el oficio | Dos copias, ninguna oficial; la segunda, por resumen |
-| Ley 26.388 (arts. 153 bis y 157 bis del Código Penal) | Entrar sin permiso a sistemas de acceso restringido o a bancos de datos personales | Una copia y una fuente oficial de divulgación |
-| Ley 25.326 | Armar bases con datos de personas | Una, oficial |
-| Ley 27.442 | Intercambiar información con competidores | Una, oficial, y una nota oficial por resumen |
-
-**Ley 24.766, secretos comerciales.** El art. 1, en la copia de leyes-ar.com, protege la información que "a) Sea secreta [...] ni fácilmente accesible para personas introducidas en los círculos en que normalmente se utiliza el tipo de información en cuestión; y b) Tenga un valor comercial por ser secreta; y c) Haya sido objeto de medidas razonables, en las circunstancias, para mantenerla secreta". Considera contrario a los usos honestos "el incumplimiento de contratos, el abuso de confianza, la instigación a la infracción y adquisición de información no divulgada por terceros que supieran o no, por negligencia grave, que la adquisición implicaba tales prácticas." Según el resumen de WIPO Lex y una copia leída en fragmentos, el art. 12 remite al Código Penal; no se confirmó en el texto oficial.
-
-**Código Penal, art. 156, revelación de secretos.** Según la copia de leyes-ar.com, reprime "con multa de MIL QUINIENTOS PESOS a NOVENTA MIL PESOS e inhabilitación especial, en su caso, por seis meses a tres años, el que teniendo noticia, por razón de su estado, oficio, empleo, profesión o arte, de un secreto cuya divulgación pueda causar daño, lo revelare sin justa causa." Un trabajo de la UCA lo cita igual, según resumen; no se verificó si los montos se actualizaron. Castiga a quien revela, como un ex empleado; que alcance a quien lo instiga es una lectura propia, sin doctrina que la respalde.
-
-**Ley 26.388, delitos informáticos.** Publicada el 25 de junio de 2008. Su art. 5 incorpora el art. 153 bis al Código Penal, que reprime "con prisión de quince (15) días a seis (6) meses, si no resultare un delito más severamente penado," a quien a sabiendas acceda sin autorización, o excediendo la que tiene, a un sistema o dato informático de acceso restringido. Su art. 8 sustituye el 157 bis, sobre acceso ilegítimo a bancos de datos personales, con prisión de un mes a dos años. El Ministerio de Justicia lo describe igual: "acceder ilegítimamente a un sistema o dato informático de acceso restringido". Leer un sitio público no encaja; usar credenciales ajenas o saltar una barrera técnica, sí. Es inferencia, y los términos de servicio no se investigaron.
-
-**Ley 25.326, datos personales.** Se aplica si se juntan datos de personas. El art. 2 define dato personal como "Información de cualquier tipo referida a personas físicas o de existencia ideal determinadas o determinables". Según la lectura parafraseada del texto oficial, el art. 4 pide que los datos sean ciertos, pertinentes y no excesivos y que no se obtengan por medios desleales; y el art. 5 exige consentimiento salvo, entre otros casos, para datos de fuentes de acceso público irrestricto. El art. 28 excluye las encuestas e investigaciones de mercado "en la medida que los datos recogidos no puedan atribuirse a una persona determinada o determinable". En la lectura de esta base, una planilla con los nombres de los empleados de un rival o de quienes lo reseñan cae en la ley aunque los datos sean públicos; contar cuántas ofertas de empleo publica queda más cerca del art. 28.
-
-**Ley 27.442, defensa de la competencia.** El art. 3, inc. a), incluye entre las prácticas restrictivas, cuando configuran el art. 1, "Fijar en forma directa o indirecta el precio de venta, o compra de bienes o servicios al que se ofrecen [...] así como intercambiar información con el mismo objeto o efecto". Una nota oficial, leída por resumen, dice que la autoridad de competencia publicó una guía que incluye el intercambio de información comercialmente sensible. Se publicó en el Boletín Oficial el 15 de mayo de 2018; la página oficial da como sanción el 9 de abril y la fórmula del texto dice "nueve días del mes de mayo", sin resolver. Según la lectura de esta base, el riesgo aparece al hablar con el rival de precios futuros, costos o planes, y leer su página de precios no es un intercambio.
+En Argentina, el límite legal lo ponen cinco normas, citadas y explicadas en [ley argentina y competidores](ley-argentina-y-competidores.md). La Ley 24.766 protege los secretos comerciales frente a medios deshonestos, y el art. 156 del Código Penal castiga revelar un secreto conocido por el empleo. La Ley 26.388 castiga entrar sin permiso a sistemas de acceso restringido. La Ley 25.326 alcanza a las bases con datos de personas, y la Ley 27.442 cuenta como práctica restrictiva intercambiar información con el competidor para fijar precios.
 
 ## Reglas para recolectar sin problemas
 
-Síntesis de esta base a partir de las normas de arriba, no consejo legal:
+Síntesis de esta base a partir de esas normas, no consejo legal:
 
 1. Usá lo que cualquiera puede ver sin engañar a nadie: sitio, documentación, cuenta de prueba propia, reportes, reseñas.
 2. No le pidas a un ex empleado del rival lo que su confidencialidad le impide dar.

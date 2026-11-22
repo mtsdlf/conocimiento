@@ -55,6 +55,9 @@ Algunas notas marcan con estas siglas cuánto se leyó de cada fuente; otras lo 
 | Investigación evaluativa | La que pone a prueba una solución concreta, mientras se diseña (formativa) o al lanzar y medir (sumativa). | [Métodos de investigación](../Investigacion/metodos-de-investigacion.md) |
 | Persona | Sin definición con fuente todavía; la nota de investigación solo registra que no hay una fuente sólida sobre si las personas cambian decisiones. | [Investigación](../Investigacion/investigacion.md) |
 | Mapa de recorrido | La secuencia de pasos, emociones y puntos de contacto de una persona (su nota todavía no existe). | [Investigación](../Investigacion/investigacion.md) |
+| Entrevista de cambio (switch interview) | Entrevista a quien cambió de producto hace poco, que reconstruye la línea de tiempo de la decisión, del primer pensamiento a la compra (Moesta y Spiek). | [Entrevista de cambio](../Investigacion/entrevista-de-cambio.md) |
+| Análisis temático | Método para ordenar datos cualitativos con códigos, etiquetas de fragmentos de texto, que se agrupan en temas (NN/g; Braun y Clarke). | [Análisis de reseñas](../Investigacion/analisis-de-resenas.md) |
+| Distribución en J | La forma de las calificaciones de reseñas en línea: muchas de 5 estrellas, algunas de 1 y pocas en el medio, por sesgos de compra y de subreporte (Hu, Pavlou y Zhang). | [Análisis de reseñas](../Investigacion/analisis-de-resenas.md) |
 
 > [!NOTE]
 > Sin fuente todavía: las definiciones de persona, wireframe y prototipo, y la de mapa de recorrido más allá de la frase de la nota de investigación, no están en los informes; se agregan cuando se escriban sus notas.
@@ -92,6 +95,9 @@ Algunas notas marcan con estas siglas cuánto se leyó de cada fuente; otras lo 
 | HEART | Marco de Google con cinco categorías: Happiness, Engagement, Adoption, Retention y Task success. | [Métricas de UX](../Evaluacion/metricas-de-ux.md) |
 | NPS | Porcentaje de promotores (9 y 10) menos porcentaje de detractores (0 a 6) en una escala de 0 a 10. | [Métricas de UX](../Evaluacion/metricas-de-ux.md) |
 | Experimento A/B | Reparte al azar el tráfico entre dos variantes y compara una métrica. | [Métricas de UX](../Evaluacion/metricas-de-ux.md) |
+| Evaluación competitiva | Comparación de la usabilidad propia con la de varios rivales, por revisión de experto o test con usuarios (NN/g). | [Evaluación competitiva](../Evaluacion/evaluacion-competitiva.md) |
+| SUPR-Q | Cuestionario de ocho ítems de MeasuringU sobre la calidad de la experiencia de un sitio web, expresado como percentil. | [Evaluación competitiva](../Evaluacion/evaluacion-competitiva.md) |
+| Intra-sujetos y entre-sujetos | Diseños de estudio en que los mismos participantes prueban todas las variantes, o cada grupo prueba una; el segundo pide unas cuatro veces más muestra para comparar (Lewis y Sauro). | [Evaluación competitiva](../Evaluacion/evaluacion-competitiva.md) |
 
 ## Escuelas
 

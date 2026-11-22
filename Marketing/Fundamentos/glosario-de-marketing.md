@@ -55,6 +55,14 @@ Algunas notas marcan con estas siglas cuánto se leyó de cada fuente; otras lo 
 | USP (unique selling proposition) | La promesa de un beneficio único que ningún competidor ofrece, idea de la publicidad de Rosser Reeves. | [Distintividad o diferenciación](../Propuesta/distintividad-o-diferenciacion.md) |
 | JTBD (Jobs to be done) | La idea de que la gente «contrata» un producto para progresar en una situación concreta. | [Jobs to be done](../Mercado-y-cliente/jobs-to-be-done.md) |
 | ODI (Outcome-Driven Innovation) | La lectura de JTBD de Ulwick, que trata el trabajo como una tarea con resultados deseados que se miden por encuesta. | [Dos lecturas de Jobs to be done](../Mercado-y-cliente/dos-lecturas-de-jtbd.md) |
+| Segmentación | Dividir un mercado en grupos de compradores que buscan cosas distintas o responden distinto al marketing. | [Segmentación](../Mercado-y-cliente/segmentacion.md) |
+| Definición de mercado (market definition) | Decidir qué productos compiten por el mismo cliente, por la necesidad y no por el producto, antes de segmentar. | [Definición de mercado](../Mercado-y-cliente/definicion-de-mercado.md) |
+| Miopía de marketing | Definir el negocio por el producto que se vende y no por la necesidad que cubre; el término es de Levitt (1960). | [Definición de mercado](../Mercado-y-cliente/definicion-de-mercado.md) |
+| Segmentación por beneficio (benefit segmentation) | Agrupar a los compradores por lo que buscan al comprar, idea de Haley (1968). | [Segmentación](../Mercado-y-cliente/segmentacion.md) |
+| Firmografía (firmographics) | Los datos de una empresa (industria, tamaño, ubicación) con que se segmenta en B2B. | [Segmentación](../Mercado-y-cliente/segmentacion.md) |
+| Segmentación de marca | Que los compradores de una marca sean distintos de los de sus rivales; el Ehrenberg-Bass encuentra que casi no ocurre. | [Segmentación](../Mercado-y-cliente/segmentacion.md) |
+| Mapa de posicionamiento (mapa perceptual) | Gráfico que ubica a una marca y sus rivales según cómo los perciben los clientes en dos o más dimensiones. | [Mapa de posicionamiento](../Propuesta/mapa-de-posicionamiento.md) |
+| Escalamiento multidimensional (MDS) | Método estadístico que arma un mapa a partir de cuánto se parecen los objetos entre sí; el origen del mapa perceptual. | [Mapa de posicionamiento](../Propuesta/mapa-de-posicionamiento.md) |
 
 ## Canales
 

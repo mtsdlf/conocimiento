@@ -37,6 +37,7 @@ El número de participantes también está discutido. El debate de los cinco usu
 - [Test de usabilidad](test-de-usabilidad.md): observar a participantes haciendo tareas, con el debate de cuántos hacen falta.
 - [Evaluación heurística](evaluacion-heuristica.md): las diez heurísticas de Nielsen en tabla y cómo se organiza una revisión con evaluadores.
 - [Métricas de UX](metricas-de-ux.md): SUS, tiempo y éxito de tarea, HEART, NPS y su crítica, y dónde entra el experimento A/B.
+- [Evaluación competitiva](evaluacion-competitiva.md): las mismas tareas y métricas sobre el producto propio y dos a cuatro rivales, como revisión de experto o como test, y cuántos participantes pide comparar.
 - Para una medición de causa a escala fuera de UX, [incrementalidad](../../Marketing/Medicion/incrementalidad.md), del tema Marketing.
 
 ## Qué falta

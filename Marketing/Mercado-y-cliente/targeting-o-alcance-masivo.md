@@ -9,7 +9,7 @@ fuentes:
   - "Ehrenberg-Bass, From mental availability to mass marketing... what Ritson and Sharp did and didn't agree on at this year's Cannes: https://marketingscience.info/news-and-insights/from-mental-availability-to-mass-marketing-purpose-nonsense-and-consistency-what-ritson-and-sharp-did-and-didnt-agree-on-at-this-years-cannes"
   - "Ehrenberg-Bass, Customer acquisition is the only viable growth strategy in B2B (Romaniuk): https://marketingscience.info/news-and-insights/customer-acquisition-is-the-only-viable-growth-strategy-in-b2b-says-ehrenberg-basss-romaniuk"
   - "Informe .investigacion/posicion-contraria.md, secciones P7 y E3 (2026-11-18)"
-aliases: [targeting, mass marketing, marketing masivo, marketing masivo sofisticado, sophisticated mass marketing, segmentación, Ritson vs. Sharp]
+aliases: [targeting, mass marketing, marketing masivo, marketing masivo sofisticado, sophisticated mass marketing, Ritson vs. Sharp]
 creado: 2026-11-18
 revisado:
 ---
@@ -20,7 +20,7 @@ Targeting o alcance masivo es la elección entre concentrar el marketing en un s
 
 ## Dónde coinciden Ritson y Sharp y dónde no
 
-Sharp defiende el "marketing masivo sofisticado": llegar a todo el mercado con creatividades distintas por segmento. Ese alcance masivo sale de [cómo crecen las marcas](../Marca/como-crecen-las-marcas.md). Ritson llama targeting a parte de eso. Elegir para quién se es la mejor opción, como pide el [posicionamiento](../Propuesta/posicionamiento.md), también es targeting. Research Live (2017) concluye que las partes coinciden mucho más de lo que discrepan y que la brecha viene de significados distintos.
+Sharp defiende el "marketing masivo sofisticado": llegar a todo el mercado con creatividades distintas por segmento. Ese alcance masivo sale de [cómo crecen las marcas](../Marca/como-crecen-las-marcas.md). Ritson llama targeting a parte de eso. Elegir un segmento supone haber dividido el mercado antes, que es la [segmentación](segmentacion.md). Elegir para quién se es la mejor opción, como pide el [posicionamiento](../Propuesta/posicionamiento.md), también es targeting. Research Live (2017) concluye que las partes coinciden mucho más de lo que discrepan y que la brecha viene de significados distintos.
 
 En Cannes, según el resumen del Ehrenberg-Bass (una de las partes), coincidieron en disponibilidad mental, activos distintivos, campañas de años, marketing masivo sofisticado, consistencia y el 95:5. Quedaron dos diferencias:
 

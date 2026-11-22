@@ -37,6 +37,8 @@ Lo cualitativo contesta por qué y cómo arreglar, y lo cuantitativo cuántos y 
 
 - [Métodos de investigación](metodos-de-investigacion.md): el mapa de qué método contesta qué pregunta, por fase, para la investigación generativa y la evaluativa.
 - [Entrevista de usuario](entrevista-de-usuario.md): el método generativo más usado, cómo preguntar y cuántas hacer.
+- [Entrevista de cambio](entrevista-de-cambio.md): la variante de jobs to be done que reconstruye, con quien cambió de producto hace poco, la línea de tiempo de esa decisión.
+- [Análisis de reseñas](analisis-de-resenas.md): codificar por temas lo que la gente publica del producto propio y de los rivales, con los sesgos de esa muestra.
 - [Jobs to be done](../../Marketing/Mercado-y-cliente/jobs-to-be-done.md), del tema Marketing: un marco para entender el trabajo que la persona quiere resolver, útil como guía de qué preguntar.
 - Para evaluar con usuarios, el [test de usabilidad](../Evaluacion/test-de-usabilidad.md) cuenta como método de investigación y de evaluación a la vez.
 

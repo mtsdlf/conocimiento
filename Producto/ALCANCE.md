@@ -56,10 +56,12 @@ Producto/
   Monetizacion/                  cómo cobra el producto
     pricing-y-empaquetado          planes, métrica de valor, por uso o por asiento
     freemium-y-prueba-gratuita     regalar para vender: cuándo funciona
+    precios-de-la-competencia      el precio del rival como alternativa, comparar planes, guerras de precios
   Plataformas/                   productos de dos o más lados
     efecto-de-red                  por qué más usuarios hacen el producto más valioso
     mercado-de-dos-lados           a qué lado subsidiar y el huevo y la gallina
     ecosistema-de-terceros         apps, APIs y las reglas de quién entra
+    competencia-con-la-plataforma  cuando el dueño de la plataforma entra al espacio de sus terceros; agregadores
   Organizacion/                  quién hace producto y cómo se reparte
     roles-de-producto              PM, diseño, ingeniería, product ops, product marketing
     equipo-empoderado              problemas para resolver vs fábrica de funcionalidades
@@ -71,3 +73,4 @@ Producto/
 - Solo producto digital y de software.
 - Profundidad de esta primera pasada: el árbol completo con la entrada de cada parte, los componentes listados y Fundamentos entero. Descubrimiento y Estrategia van más a fondo. Lo que falta de cada parte (retención como métrica de producto, deuda técnica como decisión de producto, ciclo de vida, product ops a fondo) queda nombrado en su entrada.
 - La bibliografía se ordena por necesidad (general, plataforma de comercio, consultora de software, agencia), como en UX.
+- Ampliado el 2026-11-22 para el plan de análisis de competencia (issue #24 de mtsdlf/conocimiento): competencia con la plataforma y agregadores en Plataformas, precios de la competencia en Monetización y Kano frente a los rivales en priorización. Informe en `.investigacion/competencia-y-precios.md`.

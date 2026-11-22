@@ -28,8 +28,8 @@ Los conceptos generales de marketing, con sus escuelas y su evidencia, para que 
 ```
 Marketing/
   marketing.md         el todo: las seis partes y cómo se encadenan
-  Mercado-y-cliente/   quién compra y por qué: JTBD y sus dos lecturas, targeting o alcance, compradores fuera del mercado
-  Propuesta/           qué se promete: posicionamiento, distintividad o diferenciación
+  Mercado-y-cliente/   quién compra y por qué: JTBD y sus dos lecturas, definición de mercado, segmentación, targeting o alcance, compradores fuera del mercado
+  Propuesta/           qué se promete: posicionamiento, mapa de posicionamiento (perceptual), distintividad o diferenciación
   Marca/               memoria y crecimiento: cómo crecen las marcas, capital de marca, corto y largo plazo, marca o activación, proporciones
   Canales/             por dónde se llega: elección de canales, growth y PLG, marketing B2B, adopción de innovaciones
   Comunicacion/        cómo persuade el mensaje: economía del comportamiento, respuesta directa
@@ -42,6 +42,7 @@ Marketing/
 - Neutral entre escuelas, con el mapa de escuelas en `Fundamentos/`: la base combina a Sharp y a Dunford y anota su tensión.
 - La evidencia empírica (Ehrenberg-Bass, IPA, journals) manda cuando dos fuentes chocan; los libros de practicante son el puente; la documentación de plataformas sirve para operar, no para decidir.
 - Huecos: sin escuela latinoamericana con peso propio, sin evidencia para marcas nuevas, SaaS pyme, B2B de ticket bajo ni Argentina, sin nota de creatividad publicitaria ni de B2C.
+- Ampliado el 2026-11-22 para el plan de análisis de competencia (issue #24 de mtsdlf/conocimiento): segmentación y mapa de posicionamiento.
 
 ## Historia
 

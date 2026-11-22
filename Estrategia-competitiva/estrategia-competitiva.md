@@ -67,7 +67,7 @@ El análisis de competencia es un paso del medio. Antes hace falta saber qué se
 
 1. **La pregunta**: qué se quiere decidir con el análisis. Sin una decisión, la recolección no termina nunca ([ciclo de inteligencia](Analisis-de-competidores/ciclo-de-inteligencia.md)).
 2. **El dominio**: cómo funciona la industria por dentro. Es un tema propio por industria, fuera de este.
-3. **El mercado**: su tamaño ([tamaño de mercado](../Emprender/Validacion/tamano-de-mercado.md)) y su estructura ([análisis de industria](Analisis-de-industria/analisis-de-industria.md)).
+3. **El mercado**: qué abarca ([definición de mercado](../Marketing/Mercado-y-cliente/definicion-de-mercado.md)), su tamaño ([tamaño de mercado](../Emprender/Validacion/tamano-de-mercado.md)) y su estructura ([análisis de industria](Analisis-de-industria/analisis-de-industria.md)).
 4. **El cliente**: qué trabajo quiere resolver ([jobs to be done](../Marketing/Mercado-y-cliente/jobs-to-be-done.md)) y cómo se lo investiga ([métodos de investigación](../UX/Investigacion/metodos-de-investigacion.md)).
 5. **Los rivales**: quiénes son ([identificación de competidores](Analisis-de-competidores/identificacion-de-competidores.md)) y cómo se los mira ([perspectivas de análisis](Analisis-de-competidores/perspectivas-de-analisis.md)).
 6. **La síntesis**: qué oportunidades quedan ([árbol de oportunidades](../Producto/Descubrimiento/arbol-de-oportunidades.md)).

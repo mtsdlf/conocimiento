@@ -65,6 +65,7 @@ Las plataformas que sí funcionaron crecieron más en ventas y valor de mercado,
 - [Efecto de red](efecto-de-red.md): por qué más usuarios hacen más valioso el producto, del mismo lado y entre lados, y la disputa sobre cuánto crece ese valor. Se lee primero.
 - [Mercado de dos lados](mercado-de-dos-lados.md): a qué lado subsidiar, cómo se arranca desde cero, cuándo gana una sola plataforma y qué hace el multi-homing.
 - [Ecosistema de terceros](ecosistema-de-terceros.md): apps, APIs y reglas de entrada: cuánto abrir, cuánto cobrar y el riesgo de que la plataforma absorba lo que hicieron otros.
+- [Competencia con la plataforma](competencia-con-la-plataforma.md): qué dicen los estudios sobre cuándo el dueño de la plataforma entra al espacio de sus terceros y cómo responden, y la teoría de los agregadores de Thompson con su crítica.
 
 ## Lo que falta de Plataformas
 

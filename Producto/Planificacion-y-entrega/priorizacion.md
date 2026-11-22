@@ -8,6 +8,9 @@ fuentes:
   - "SAFe, Weighted Shortest Job First: https://framework.scaledagile.com/wsjf/"
   - "Donald Reinertsen, The Principles of Product Development Flow (Celeritas, 2009), cap. 3, según Scrum.org y Wikipedia (no leído): https://www.scrum.org/node/106834 ; https://wikipedia.com/wiki/Cost_of_delay"
   - "Kano, Seraku, Takahashi y Tsuji (1984), Journal of the Japanese Society for Quality Control 14(2), pp. 147-156 (solo abstract): https://www.jstage.jst.go.jp/article/quality/14/2/14_KJ00002952366/_article/-char/en"
+  - "Wikipedia, Kano model (consultado 2026-11-22; la sección sobre el cambio de categoría no tiene referencias): https://en.wikipedia.org/wiki/Kano_model"
+  - "Martin Löfgren y Lars Witell (2008), Two Decades of Using Kano's Theory of Attractive Quality: A Literature Review, Quality Management Journal, DOI 10.1080/10686967.2008.11918056: https://doi.org/10.1080/10686967.2008.11918056 (solo abstract, vía OpenAlex)"
+  - "Producto/.investigacion/competencia-y-precios.md"
   - "Críticas a RICE: https://dzone.com/articles/rice-score ; https://michaelgoitein.substack.com/p/why-prioritization-frameworks-are?open=false"
   - "Producto/.investigacion/planificacion-y-entrega.md"
 aliases: [prioritization, prioritización de producto, RICE, WSJF, costo de demora, cost of delay]
@@ -50,6 +53,8 @@ SAFe define WSJF como "the relative cost of delay divided by the relative job du
 El modelo de Kano no da un orden. Según el abstract del artículo de 1984, propone reemplazar la idea de calidad unidimensional por una bidimensional y clasifica los elementos de un producto en atractivos, imprescindibles (*must-be*) y unidimensionales. Lo probaron con una encuesta a consumidores sobre televisores y relojes de mesa. Un seguimiento de Koo y Nakajo (2001) encontró que la categoría de un atributo depende del tipo de producto.
 
 Sirve para saber qué da satisfacción y qué solo evita la queja, no para secuenciar el trabajo. Esa lectura sale de fuentes secundarias.
+
+Frente a los competidores, Kano ordena qué se da por sentado en la categoría. Según Wikipedia, Kano llamó *must-be* a lo que es "the price of entry into a market", y los atributos se corren de atractivos a imprescindibles "as customer expectations change with the level of performance from competing products"; esa sección no cita fuente. En un SaaS, lo que todos los rivales ya traen (exportar datos, por ejemplo) se trata como imprescindible aunque nadie lo pida. La [matriz de funcionalidades](../../Estrategia-competitiva/Analisis-de-competidores/desarme-de-producto.md#la-matriz-de-funcionalidades) dice qué traen los rivales; la clasificación del cliente sigue haciendo falta (inferencia de esta base). Löfgren y Witell (2008), en una revisión de 33 artículos, advierten según su abstract que muchos desarrollos del método "lack sufficient scientific rigor".
 
 > [!NOTE]
 > Sin fuente todavía: cómo se aplica Kano (el cuestionario con pregunta funcional y disfuncional) y críticas con método. Solo se leyó el abstract.

@@ -66,6 +66,7 @@ Casi toda la evidencia de esta vertical es de SaaS B2B financiado por capital de
 
 - [Pricing y empaquetado](pricing-y-empaquetado.md): la tesis de *Monetizing Innovation* y su cifra, la métrica de valor, el precio por uso con los datos de OpenView y cómo cobra una consultora o una agencia.
 - [Freemium y prueba gratuita](freemium-y-prueba-gratuita.md): qué convierte cada modelo según Rachitsky y Poyar, la discrepancia entre fuentes y cuánto regalar.
+- [Precios de la competencia](precios-de-la-competencia.md): el precio del rival como alternativa más cercana en el método de valor económico, cómo se comparan planes, el precio de referencia y las guerras de precios.
 
 ## Lo que falta de la monetización
 

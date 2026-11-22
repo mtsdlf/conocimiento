@@ -106,6 +106,12 @@ Los informes del tema marcan con estas siglas cuánto se leyó de cada fuente; l
 | Mercado de dos lados | Mercado en que una plataforma junta a dos grupos que se necesitan, con efectos de red cruzados | [Mercado de dos lados](../Plataformas/mercado-de-dos-lados.md) |
 | Multi-homing | Que un usuario esté en varias plataformas a la vez, como un comerciante que vende en dos | [Mercado de dos lados](../Plataformas/mercado-de-dos-lados.md) |
 | Comisión de plataforma (take rate) | La parte de cada transacción que se queda la plataforma | [Mercado de dos lados](../Plataformas/mercado-de-dos-lados.md) |
+| Complementador (complementor) | El tercero que vende sobre una plataforma, como el desarrollador de una app o el vendedor de un marketplace | [Competencia con la plataforma](../Plataformas/competencia-con-la-plataforma.md) |
+| Entrada del dueño de la plataforma (platform owner entry) | Que la plataforma lance una función o producto propio en el espacio de sus complementadores | [Competencia con la plataforma](../Plataformas/competencia-con-la-plataforma.md) |
+| Agregador (aggregator) | En Thompson, quien se queda con la relación directa con los usuarios e intermedia la de los terceros, que pasan a ser proveedores intercambiables | [Competencia con la plataforma](../Plataformas/competencia-con-la-plataforma.md) |
+| Valor económico para el cliente (EVC) | Precio de la alternativa más cercana más el valor de lo que el producto hace distinto (Tucker, MIT) | [Precios de la competencia](../Monetizacion/precios-de-la-competencia.md) |
+| Precio de referencia (reference price) | "an internal standard against which observed prices are compared" (Kalyanaram y Winer, por abstract) | [Precios de la competencia](../Monetizacion/precios-de-la-competencia.md) |
+| Guerra de precios (price war) | Rebajas sucesivas en que cada rival iguala o perfora el precio del otro | [Precios de la competencia](../Monetizacion/precios-de-la-competencia.md) |
 | SaaS, B2B | Software que se cobra como servicio por suscripción; venta a empresas y no a personas. Casi todos los datos de monetización del tema vienen de SaaS B2B | [Monetización](../Monetizacion/monetizacion.md) |
 | Product-led growth (PLG) | El producto como canal de adquisición; es tema de Marketing | [Growth y product-led growth](../../Marketing/Canales/growth-y-product-led-growth.md) |
 | Encaje producto-mercado | Es tema de Emprender | [Encaje producto-mercado](../../Emprender/Crecimiento/encaje-producto-mercado.md) |
