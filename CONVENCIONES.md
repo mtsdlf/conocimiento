@@ -20,9 +20,11 @@ está en la skill; esto lo completa.
 - **Volcar desde el Marco**: cuando el volcado sale de una Idea Clarificada como Conocimiento en
   la Revisión semanal, la ruta de la nota principal, relativa a la base (p. ej.
   `Datos/Cohortes/cohorte.md`), es la que va en `nota_vault` del Clarificar.
-- **Sitio**: `./sitio/servir` levanta la base como sitio local (búsqueda y navegación por áreas) en
-  `http://127.0.0.1:8000`; solo necesita `uv`. Las áreas y su orden salen de `conocimiento.md`: un tema
-  nuevo aparece en el sitio cuando se enlaza ahí. No se publica.
+- **Sitio**: la base se publica en <https://mtsdlf.github.io/conocimiento/> en cada cambio a `main`
+  (`.github/workflows/sitio.yml`). Es **público**: cualquiera con la URL lo lee, borradores incluidos,
+  así que lo que no puede leer cualquiera no entra a esta base. `./sitio/servir` lo levanta local en
+  `http://127.0.0.1:8000`; solo necesita `uv`. Las áreas y su orden salen de `conocimiento.md`: un
+  tema nuevo aparece en el sitio cuando se enlaza ahí.
 - **Nunca**: secretos (van a Vaultwarden) ni lo confidencial de un empleador (queda en sus
   herramientas, con un enlace).
 
