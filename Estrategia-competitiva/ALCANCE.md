@@ -68,7 +68,7 @@ Estrategia-competitiva/
     puntos-ciegos                    los sesgos de quien analiza: competidor ausente, alerta temprana
     obsesion-por-el-competidor       cuándo mirar al rival daña, y su evidencia
   Fundamentos/                     escuelas y evidencia, historia, bibliografía, fuentes, mitos, glosario
-    recorrido-analisis-de-competencia  (PR posterior) la guía paso a paso de la decisión al seguimiento
+    recorrido-analisis-de-competencia  la guía paso a paso de la decisión al seguimiento
 ```
 
 ## Supuestos

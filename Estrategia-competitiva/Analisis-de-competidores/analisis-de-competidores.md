@@ -105,9 +105,8 @@ Zajac y Bazerman (1991), según su abstract, sostienen que los puntos ciegos al 
 
 ## Lo que falta del análisis de competidores
 
-Se van a sumar en otros temas o en otra pasada:
+La guía con plantilla ya está en el [recorrido de un análisis de competencia](../Fundamentos/recorrido-analisis-de-competencia.md). Falta, en otra pasada:
 
-- La guía paso a paso que recorre todo el análisis con una plantilla, en `Fundamentos/`.
 - Los datos de plataformas concretas, en fichas fechadas de un tema de dominio por industria.
 
 > [!NOTE] Sin fuente todavía: los entregables de la inteligencia competitiva orientada a ventas (como las *battlecards*) y una comparación publicada entre el análisis que hacen los equipos de producto y el de la inteligencia competitiva formal.
