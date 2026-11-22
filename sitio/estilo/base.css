@@ -1,0 +1,188 @@
+/* Tema de la base: papel y tinta, una sola tinta de acento, lectura cómoda.
+   Se cambian variables del tema antes que reglas de componentes, para que las
+   actualizaciones de Material no lo rompan. */
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap");
+
+:root {
+  --nota-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --nota-ancho: 68ch;
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #fbfaf7;
+  --md-default-fg-color: #1d2125;
+  --md-default-fg-color--light: #5b6168;
+  --md-default-fg-color--lighter: #8b9097;
+  --md-default-fg-color--lightest: #e6e3dc;
+  --md-primary-fg-color: #fbfaf7;
+  --md-primary-fg-color--light: #fbfaf7;
+  --md-primary-fg-color--dark: #f2efe8;
+  --md-primary-bg-color: #1d2125;
+  --md-primary-bg-color--light: #5b6168;
+  --md-accent-fg-color: #0a6660;
+  --md-accent-fg-color--transparent: rgba(10, 102, 96, .08);
+  --md-typeset-a-color: #0a6660;
+  --md-code-bg-color: #f2efe8;
+  --md-footer-bg-color: #f2efe8;
+  --md-footer-bg-color--dark: #ebe7de;
+  --md-footer-fg-color: #1d2125;
+  --md-footer-fg-color--light: #5b6168;
+  --md-footer-fg-color--lighter: #8b9097;
+  --nota-borde: #e6e3dc;
+  --nota-superficie: #ffffff;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 210;
+  --md-default-bg-color: #15181c;
+  --md-default-fg-color: #e4e1da;
+  --md-default-fg-color--light: #a5a9ae;
+  --md-default-fg-color--lighter: #73787e;
+  --md-default-fg-color--lightest: #2a2f35;
+  --md-primary-fg-color: #15181c;
+  --md-primary-fg-color--light: #15181c;
+  --md-primary-fg-color--dark: #101215;
+  --md-primary-bg-color: #e4e1da;
+  --md-primary-bg-color--light: #a5a9ae;
+  --md-accent-fg-color: #5cc4b9;
+  --md-accent-fg-color--transparent: rgba(92, 196, 185, .1);
+  --md-typeset-a-color: #5cc4b9;
+  --md-code-bg-color: #1d2126;
+  --md-code-fg-color: #d6d3cc;
+  --md-footer-bg-color: #101215;
+  --md-footer-bg-color--dark: #0c0e10;
+  --nota-borde: #2a2f35;
+  --nota-superficie: #1b1f24;
+}
+
+/* Encabezado y pestañas: del color de la página, separados por una línea fina. */
+.md-header, .md-tabs {
+  box-shadow: none;
+  border-bottom: 1px solid var(--nota-borde);
+}
+.md-header__title { font-weight: 600; }
+.md-tabs__link { font-size: .72rem; opacity: .75; }
+.md-tabs__item--active .md-tabs__link { opacity: 1; font-weight: 600; }
+.md-search__form { background-color: var(--md-default-fg-color--lightest); }
+.md-search__form:hover { background-color: var(--nota-borde); }
+.md-search__input, .md-search__icon { color: var(--md-default-fg-color); }
+.md-search__input::placeholder { color: var(--md-default-fg-color--light); }
+
+/* Lectura: cuerpo con serif, 17,5 px, renglones de ~68 caracteres. */
+.md-typeset {
+  font-family: var(--nota-serif);
+  font-size: .875rem;
+  line-height: 1.65;
+  font-feature-settings: "kern", "liga", "onum";
+}
+.md-typeset > p, .md-typeset > ul, .md-typeset > ol, .md-typeset > blockquote,
+.md-typeset > dl, .md-typeset .nota-pie { max-width: var(--nota-ancho); }
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4,
+.md-typeset table, .md-typeset .admonition, .md-typeset details,
+.md-typeset .nota-meta, .md-typeset .nota-pie, .md-typeset .grid.cards {
+  font-family: var(--md-text-font-family);
+}
+.md-typeset h1 {
+  font-weight: 700;
+  font-size: 2em;
+  letter-spacing: -.02em;
+  color: var(--md-default-fg-color);
+  margin-bottom: .35em;
+}
+.md-typeset h2 {
+  font-weight: 650;
+  font-size: 1.3em;
+  letter-spacing: -.01em;
+  margin-top: 2em;
+}
+.md-typeset h3 { font-weight: 600; font-size: 1.08em; }
+.md-typeset table:not([class]) { font-size: .72rem; }
+.md-typeset code { font-size: .82em; }
+
+/* El resumen (primer párrafo) hace de bajada. */
+.md-typeset h1 + .nota-meta + p,
+.md-typeset h1 + p {
+  font-size: 1.12em;
+  line-height: 1.55;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Enlaces: subrayado fino que se marca al pasar. */
+.md-typeset a {
+  text-decoration: underline;
+  text-decoration-color: var(--md-accent-fg-color--transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .18em;
+  transition: text-decoration-color .15s;
+}
+.md-typeset a:hover { text-decoration-color: currentColor; }
+.md-typeset .headerlink, .md-typeset .md-button, .md-typeset .grid.cards a { text-decoration: none; }
+
+/* Bajo el título: estado, fecha y otros nombres. */
+.md-typeset .nota-meta {
+  font-size: .68rem;
+  color: var(--md-default-fg-color--lighter);
+  margin: 0 0 1.4em;
+  line-height: 1.6;
+}
+.nota-estado {
+  display: inline-block;
+  padding: .05em .55em;
+  border-radius: 1em;
+  border: 1px solid var(--nota-borde);
+  font-weight: 600;
+  letter-spacing: .02em;
+}
+.nota-estado--vigente { color: var(--md-accent-fg-color); border-color: currentColor; }
+.nota-alias { display: block; }
+
+/* Al pie: fuentes y quién enlaza acá. */
+.md-typeset .nota-pie {
+  margin-top: 2.5em;
+  padding-top: 1em;
+  border-top: 1px solid var(--nota-borde);
+  font-size: .72rem;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .nota-pie + .nota-pie { margin-top: 1.2em; border-top: 0; padding-top: 0; }
+.md-typeset .nota-pie__titulo {
+  font-size: .68rem;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  font-weight: 600;
+  color: var(--md-default-fg-color--lighter);
+  margin: 0 0 .5em;
+}
+.md-typeset .nota-pie ul { margin-top: 0; }
+.md-typeset .nota-pie li { margin-bottom: .2em; }
+.md-typeset .nota-pie a { overflow-wrap: anywhere; }
+
+/* Portada: cada área es una grilla de tarjetas. */
+.md-typeset .grid.cards.temas > ul > li {
+  border: 1px solid var(--nota-borde);
+  border-radius: .5rem;
+  background: var(--nota-superficie);
+  padding: .9rem 1rem;
+  transition: border-color .15s, transform .15s;
+}
+.md-typeset .grid.cards.temas > ul > li:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: none;
+}
+.md-typeset .grid.cards.temas > ul > li > p:first-child { margin: 0 0 .3em; font-size: .85rem; }
+.md-typeset .grid.cards.temas > ul > li > p:last-child {
+  margin: 0;
+  font-size: .7rem;
+  line-height: 1.5;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .grid.cards.temas > ul > li a { color: var(--md-default-fg-color); }
+
+/* Navegación lateral: más aire y la página actual marcada. */
+.md-nav { font-size: .68rem; }
+.md-nav__item--section > .md-nav__link { font-weight: 650; color: var(--md-default-fg-color); }
+.md-nav__link--active { font-weight: 600; }
+
+@media screen and (max-width: 76.1875em) {
+  .md-typeset { font-size: .85rem; }
+}
