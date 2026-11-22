@@ -65,7 +65,7 @@ Para una plataforma de tiendas con apps de terceros; ver [Plataformas](../Plataf
 
 ## Consultora de software
 
-Ninguna fuente leída trata de frente el caso de quien construye para un cliente, donde quien paga y quien usa son personas distintas. Ver [Qué es producto](que-es-producto.md#que-cambia-en-una-consultora-que-vende-proyectos).
+Ninguna fuente leída trata de frente el caso de quien construye para un cliente, donde quien paga y quien usa son personas distintas. Ver [Qué es producto](que-es-producto.md#qué-cambia-en-una-consultora-que-vende-proyectos).
 
 | Obra | Qué parte leer y en qué fijarse | Escuela o tipo | Leído |
 |---|---|---|---|

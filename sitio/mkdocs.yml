@@ -73,8 +73,13 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - tables
+  # Ids de los títulos como los de GitHub (con tildes y eñes), para que `nota.md#ancla` ande en los
+  # dos lados; los repetidos llevan `-1`, `-2` por nav.py. Se controla con `python3 sitio/anclas.py`.
   - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.details
   - pymdownx.superfences:
       custom_fences:

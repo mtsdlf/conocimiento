@@ -74,7 +74,7 @@ Los informes del tema marcan con estas siglas cuánto se leyó de cada fuente; l
 | Resultado (outcome) | Un cambio en el comportamiento de usuarios o clientes que beneficia al negocio (Fowler, Seiden) | [Resultados y entregables](../Estrategia/resultados-y-entregables.md) |
 | Entregable (output) | Lo que produce un equipo: funcionalidades, código, story points (Fowler) | [Resultados y entregables](../Estrategia/resultados-y-entregables.md) |
 | Build trap | Medir el éxito por la cantidad de funcionalidades lanzadas (Perri, por resumen) | [Resultados y entregables](../Estrategia/resultados-y-entregables.md) |
-| OKR (objetivos y resultados clave) | Un objetivo con resultados clave medibles; Cagan los presenta como técnica para darle al equipo un problema y no una funcionalidad | [Estrategia de producto](../Estrategia/estrategia-de-producto.md#de-la-estrategia-a-los-okr-y-donde-se-rompe) |
+| OKR (objetivos y resultados clave) | Un objetivo con resultados clave medibles; Cagan los presenta como técnica para darle al equipo un problema y no una funcionalidad | [Estrategia de producto](../Estrategia/estrategia-de-producto.md#de-la-estrategia-a-los-okr-y-dónde-se-rompe) |
 | Feature factory | La organización que trata el envío como logro sin medir impacto (Cutler, por reseña) | [Resultados y entregables](../Estrategia/resultados-y-entregables.md) |
 
 ## Descubrimiento y planificación

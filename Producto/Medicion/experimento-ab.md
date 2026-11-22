@@ -67,7 +67,7 @@ Cuando falta volumen, la incertidumbre se reduce con otros métodos, que respond
 
 El A/B de producto compara variantes de una experiencia: una pantalla o un flujo. Medir el efecto causal de un canal o una campaña es [incrementalidad](../../Marketing/Medicion/incrementalidad.md), en Marketing. La lógica es la misma: solo un grupo de control que no recibe el cambio mide lo que el cambio causa. La diferencia es qué se prueba y quién lo decide.
 
-Cómo usa UX el experimento, junto con HEART y las métricas de un test con personas, está en [métricas de UX](../../UX/Evaluacion/metricas-de-ux.md#donde-entra-el-experimento-ab).
+Cómo usa UX el experimento, junto con HEART y las métricas de un test con personas, está en [métricas de UX](../../UX/Evaluacion/metricas-de-ux.md#dónde-entra-el-experimento-ab).
 
 ## Leer a Kohavi, Tang y Xu
 

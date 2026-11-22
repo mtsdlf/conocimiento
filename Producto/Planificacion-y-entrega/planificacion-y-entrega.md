@@ -46,7 +46,7 @@ Salir al mercado tiene una parte de producto y otra de marketing. La de producto
 
 ## Cuando el cliente paga por fechas
 
-La escuela de este tema recomienda roadmaps de resultados, sin fechas salvo excepciones. Una consultora o una agencia vende otra cosa: alcance y fecha, firmados en un contrato. Los estudios de contratos de software (precio fijo contra tiempo y materiales) no dan un ganador único y tienen muestras de un solo país; el detalle está en [pricing y empaquetado](../Monetizacion/pricing-y-empaquetado.md#como-cobra-una-consultora-o-una-agencia). Cómo se combina un roadmap de resultados con compromisos firmados está en [Roadmap](roadmap.md#el-roadmap-cuando-el-cliente-paga-por-fechas-y-alcance).
+La escuela de este tema recomienda roadmaps de resultados, sin fechas salvo excepciones. Una consultora o una agencia vende otra cosa: alcance y fecha, firmados en un contrato. Los estudios de contratos de software (precio fijo contra tiempo y materiales) no dan un ganador único y tienen muestras de un solo país; el detalle está en [pricing y empaquetado](../Monetizacion/pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia). Cómo se combina un roadmap de resultados con compromisos firmados está en [Roadmap](roadmap.md#el-roadmap-cuando-el-cliente-paga-por-fechas-y-alcance).
 
 ## Dónde termina producto y empieza Scrum
 

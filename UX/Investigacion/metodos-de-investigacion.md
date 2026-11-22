@@ -48,7 +48,7 @@ ISO 9241-210:2019 "provides an overview of human-centred design activities" y "d
 
 ## Combinar un método de decir con uno de hacer
 
-Un método actitudinal sin uno conductual deja sin contrastar lo que la gente cuenta. Esta base propone entrevistar o encuestar para ver qué observar, observar o medir para ver qué hace, y volver a entrevistar para entender el porqué de lo medido (secuencia propuesta, sin fuente que la fije). La [entrevista de usuario](entrevista-de-usuario.md) sería el primer paso y su límite es el autorreporte. El [experimento A/B](../Evaluacion/metricas-de-ux.md#donde-entra-el-experimento-ab) mide la conducta a escala pero no dice por qué una variante gana.
+Un método actitudinal sin uno conductual deja sin contrastar lo que la gente cuenta. Esta base propone entrevistar o encuestar para ver qué observar, observar o medir para ver qué hace, y volver a entrevistar para entender el porqué de lo medido (secuencia propuesta, sin fuente que la fije). La [entrevista de usuario](entrevista-de-usuario.md) sería el primer paso y su límite es el autorreporte. El [experimento A/B](../Evaluacion/metricas-de-ux.md#dónde-entra-el-experimento-ab) mide la conducta a escala pero no dice por qué una variante gana.
 
 ## Leer el mapa de NN/g
 

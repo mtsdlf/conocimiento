@@ -48,9 +48,9 @@ Now-Next-Later saca las fechas. Janna Bastow (ProdPad) cuenta que "dropped the d
 
 ## El roadmap cuando el cliente paga por fechas y alcance
 
-Una consultora de software o una agencia de marketing digital vende un alcance y una fecha, firmados, y no resultados. Ahí el roadmap de resultados de la escuela choca con el contrato. Por qué el cliente compra entregables y no resultados está en [qué cambia en una consultora](../Fundamentos/que-es-producto.md#que-cambia-en-una-consultora-que-vende-proyectos) (inferencia de esta base).
+Una consultora de software o una agencia de marketing digital vende un alcance y una fecha, firmados, y no resultados. Ahí el roadmap de resultados de la escuela choca con el contrato. Por qué el cliente compra entregables y no resultados está en [qué cambia en una consultora](../Fundamentos/que-es-producto.md#qué-cambia-en-una-consultora-que-vende-proyectos) (inferencia de esta base).
 
-Los estudios de contratos no dan un ganador entre precio fijo y tiempo y materiales; el detalle está en [pricing y empaquetado](../Monetizacion/pricing-y-empaquetado.md#como-cobra-una-consultora-o-una-agencia).
+Los estudios de contratos no dan un ganador entre precio fijo y tiempo y materiales; el detalle está en [pricing y empaquetado](../Monetizacion/pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia).
 
 La combinación que propone el informe de posición contraria de esta base, sin una fuente que la haya probado, es partir el roadmap: fechas para lo que está comprometido, resultados para el resto, o un apetito fijo al estilo de Shape Up. La distinción de Cagan entre roadmap y compromiso de fecha sirve de herramienta: un compromiso con fecha es una promesa cara y se hace después de descubrir lo suficiente, no antes. Elegir el tipo de contrato es también una decisión de precio; eso está en [Pricing y empaquetado](../Monetizacion/pricing-y-empaquetado.md).
 

@@ -61,7 +61,7 @@ Esto conecta con el precio. Las pruebas gratis, los descuentos de primer año y 
 
 ## Costos de cambio y multi-homing
 
-En una plataforma, el costo de cambio tiene un pariente: el costo de estar en varias plataformas a la vez. Un comerciante que vende en dos plataformas no cambió de proveedor, pero tampoco está encerrado. Los costos de cambio retienen a un cliente que ya eligió; el multi-homing decide si alguien necesita elegir. Por qué el multi-homing decide más que el tamaño de una plataforma está en [mercado de dos lados](../../Producto/Plataformas/mercado-de-dos-lados.md#el-multi-homing-decide-mas-que-el-tamano). Farrell y Klemperer tratan costos de cambio y [efectos de red](../../Producto/Plataformas/efecto-de-red.md) en el mismo capítulo porque los dos generan lock-in.
+En una plataforma, el costo de cambio tiene un pariente: el costo de estar en varias plataformas a la vez. Un comerciante que vende en dos plataformas no cambió de proveedor, pero tampoco está encerrado. Los costos de cambio retienen a un cliente que ya eligió; el multi-homing decide si alguien necesita elegir. Por qué el multi-homing decide más que el tamaño de una plataforma está en [mercado de dos lados](../../Producto/Plataformas/mercado-de-dos-lados.md#el-multi-homing-decide-más-que-el-tamaño). Farrell y Klemperer tratan costos de cambio y [efectos de red](../../Producto/Plataformas/efecto-de-red.md) en el mismo capítulo porque los dos generan lock-in.
 
 ## Cómo se leen en un competidor
 

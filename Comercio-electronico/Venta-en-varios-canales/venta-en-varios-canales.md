@@ -61,7 +61,7 @@ Las comisiones totales pueden ser mucho más altas que la visible. Marketplace P
 > [!IMPORTANT]
 > Cuánto vende el marketplace frente a la tienda propia está en disputa y sin método. En la misma nota de Nuvemshop, un empresario dice que los marketplaces hacen ">75% de las ventas online" de Brasil y un directivo de Nuvemshop dice ">50% del e-commerce brasileño". Las dos cifras salen de charlas, no coinciden y no publican método.
 
-Un comercio puede no elegir y vender en los dos a la vez. Es el [multi-homing](../../Producto/Plataformas/mercado-de-dos-lados.md#el-multi-homing-decide-mas-que-el-tamano) visto desde el comerciante, y cuanto más fácil es estar en varias plataformas, menos poder tiene cada una sobre él. No se encontró una medición independiente de cuántos comercios lo hacen.
+Un comercio puede no elegir y vender en los dos a la vez. Es el [multi-homing](../../Producto/Plataformas/mercado-de-dos-lados.md#el-multi-homing-decide-más-que-el-tamaño) visto desde el comerciante, y cuanto más fácil es estar en varias plataformas, menos poder tiene cada una sobre él. No se encontró una medición independiente de cuántos comercios lo hacen.
 
 El riesgo de que el marketplace venda lo mismo que el comerciante, con los datos de Amazon de Zhu y Liu, está en [competencia con la plataforma](../../Producto/Plataformas/competencia-con-la-plataforma.md).
 

@@ -36,7 +36,7 @@ Esas cifras salen de plataformas con tráfico enorme y productos ya optimizados;
 
 Torres pide generar supuestos de cinco categorías: deseabilidad, viabilidad, factibilidad, usabilidad y ética. Importa menos en qué categoría cae cada uno que cubrir las cinco. Las categorías son los [cuatro riesgos](cuatro-riesgos.md) de Cagan con otro nombre más la ética; la comparación entre escuelas está en esa nota.
 
-Para elegir cuáles probar, Bland propone el mapeo de supuestos: cada supuesto se ubica según cuán importante es para la idea y cuánta evidencia lo respalda. Los más riesgosos son los críticos con poca evidencia (Strategyzer, vía buscador). Torres lo dice así: "Our riskiest assumptions are the assumptions that are critical to the success of our idea." La crítica de Maurya a priorizar en una matriz de 2x2 está en [hipótesis de salto de fe](../../Emprender/Validacion/hipotesis-de-salto-de-fe.md#como-se-priorizan-los-supuestos).
+Para elegir cuáles probar, Bland propone el mapeo de supuestos: cada supuesto se ubica según cuán importante es para la idea y cuánta evidencia lo respalda. Los más riesgosos son los críticos con poca evidencia (Strategyzer, vía buscador). Torres lo dice así: "Our riskiest assumptions are the assumptions that are critical to the success of our idea." La crítica de Maurya a priorizar en una matriz de 2x2 está en [hipótesis de salto de fe](../../Emprender/Validacion/hipotesis-de-salto-de-fe.md#cómo-se-priorizan-los-supuestos).
 
 Antes de correr la prueba, Torres recomienda definir qué resultado cuenta como bueno. Lectura de esta base, que Torres no dice así en lo leído: sin ese criterio previo, cualquier resultado se puede leer como éxito.
 

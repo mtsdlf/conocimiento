@@ -73,7 +73,7 @@ La disputa más reciente viene del lado opuesto: la del fundador que decide los 
 
 ## Cuándo la tesis aplica peor
 
-Las críticas y los informes permiten armar tres condiciones (lectura de la base). Con muchas dependencias entre equipos, el margen real de cada uno se achica (NN/g). En una consultora de software, el equipo suele recibir un alcance contratado y no un problema; las fuentes del caso están en [qué cambia en una consultora](../Fundamentos/que-es-producto.md#que-cambia-en-una-consultora-que-vende-proyectos). Y cuando se adopta el vocabulario sin la capacidad, las decisiones no cambian: Scrum.org lo llama teatro (según el buscador).
+Las críticas y los informes permiten armar tres condiciones (lectura de la base). Con muchas dependencias entre equipos, el margen real de cada uno se achica (NN/g). En una consultora de software, el equipo suele recibir un alcance contratado y no un problema; las fuentes del caso están en [qué cambia en una consultora](../Fundamentos/que-es-producto.md#qué-cambia-en-una-consultora-que-vende-proyectos). Y cuando se adopta el vocabulario sin la capacidad, las decisiones no cambian: Scrum.org lo llama teatro (según el buscador).
 
 La forma de los equipos dentro de una organización de software, alineados a un flujo de trabajo, está en [stream-aligned team](../../Platform-Engineering/Organizacion-de-equipos/stream-aligned-team.md), del tema Platform Engineering.
 

@@ -70,7 +70,7 @@ Fowler agrega salvedades: es difícil repartir el crédito entre equipos y facto
 
 ## Dónde no alcanza: consultoras y contratos
 
-En una consultora de software o una agencia, el cliente compra entregables acotados con fecha, y el resultado de su negocio no lo controla quien construye; el argumento, una inferencia de esta base, está en [qué cambia en una consultora](../Fundamentos/que-es-producto.md#que-cambia-en-una-consultora-que-vende-proyectos). Un equipo puede medir resultados para aprender, pero el contrato se cumple con entregables. Cómo se combinan fechas comprometidas y resultados está en [roadmap](../Planificacion-y-entrega/roadmap.md).
+En una consultora de software o una agencia, el cliente compra entregables acotados con fecha, y el resultado de su negocio no lo controla quien construye; el argumento, una inferencia de esta base, está en [qué cambia en una consultora](../Fundamentos/que-es-producto.md#qué-cambia-en-una-consultora-que-vende-proyectos). Un equipo puede medir resultados para aprender, pero el contrato se cumple con entregables. Cómo se combinan fechas comprometidas y resultados está en [roadmap](../Planificacion-y-entrega/roadmap.md).
 
 ## Qué leer
 

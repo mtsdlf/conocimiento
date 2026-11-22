@@ -63,7 +63,7 @@ Cuatro vecinos miden cosas parecidas con otra pregunta. La medición de producto
 
 Una métrica que se vuelve meta se desvía de lo que medía. Es la ley de Goodhart, cuyo origen y variantes están en [resultados y entregables](../Estrategia/resultados-y-entregables.md#goodhart-cuando-el-resultado-se-vuelve-meta).
 
-La segunda falla es elegir un número que sube solo. Amplitude llama métricas de vanidad a las que "look great on the surface but don't translate to meaningful business outcomes". La tercera es querer un experimento donde no hay volumen: con poco tráfico, el método es otro (ver [experimento A/B](experimento-ab.md#cuando-un-experimento-no-sirve)).
+La segunda falla es elegir un número que sube solo. Amplitude llama métricas de vanidad a las que "look great on the surface but don't translate to meaningful business outcomes". La tercera es querer un experimento donde no hay volumen: con poco tráfico, el método es otro (ver [experimento A/B](experimento-ab.md#cuándo-un-experimento-no-sirve)).
 
 > [!IMPORTANT]
 > Medir resultados y no entregables es una recomendación de la escuela de Cagan, Perri y Torres, sin estudio que la compare con equipos que miden entregables. La versión prudente, según el informe de posición contraria: medir resultados además de entregables, con varias métricas (de resultado, de guarda y de calidad de datos) y revisarlas, sabiendo que cualquiera usada como meta se desvía.

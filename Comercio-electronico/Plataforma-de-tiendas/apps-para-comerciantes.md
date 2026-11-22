@@ -23,7 +23,7 @@ revisado:
 
 Las apps para comerciantes son productos de terceros que un comercio instala en su tienda, desde la tienda de apps de su plataforma, para sumar lo que la plataforma no trae: analítica y rentabilidad, marketing, atribución de anuncios y otras funciones. Viven de la base de comercios de la plataforma, cobran casi siempre según el tamaño del comercio y dependen de reglas que la plataforma puede cambiar o de una función que puede copiar.
 
-Son el tercer lado de la plataforma: los desarrolladores vienen porque hay comercios, y los comercios se quedan porque las apps resuelven lo que falta. La teoría de ese lado (cuánto abre la plataforma, cuánto cobra y por qué) está en [ecosistema de terceros](../../Producto/Plataformas/ecosistema-de-terceros.md). Cómo se conecta técnicamente una app, con OAuth, APIs, webhooks y límites de uso, está en [arquitectura de una plataforma](arquitectura-de-plataforma.md#la-tienda-de-apps-y-la-instalacion-de-una-app).
+Son el tercer lado de la plataforma: los desarrolladores vienen porque hay comercios, y los comercios se quedan porque las apps resuelven lo que falta. La teoría de ese lado (cuánto abre la plataforma, cuánto cobra y por qué) está en [ecosistema de terceros](../../Producto/Plataformas/ecosistema-de-terceros.md). Cómo se conecta técnicamente una app, con OAuth, APIs, webhooks y límites de uso, está en [arquitectura de una plataforma](arquitectura-de-plataforma.md#la-tienda-de-apps-y-la-instalación-de-una-app).
 
 ## Qué resuelven las apps
 
@@ -43,7 +43,7 @@ Una app puede vivir en varias plataformas a la vez. Escalafy se conecta a Shopif
 
 ## Cómo cobran: por pedidos, por GMV, por gasto en anuncios
 
-Casi todas las apps relevadas cobran una suscripción mensual que escala con el tamaño del comercio. Lo que cambia es la unidad con que miden ese tamaño, que es la métrica de valor de [pricing y empaquetado](../../Producto/Monetizacion/pricing-y-empaquetado.md#la-metrica-de-valor-por-que-unidad-se-cobra).
+Casi todas las apps relevadas cobran una suscripción mensual que escala con el tamaño del comercio. Lo que cambia es la unidad con que miden ese tamaño, que es la métrica de valor de [pricing y empaquetado](../../Producto/Monetizacion/pricing-y-empaquetado.md#la-métrica-de-valor-por-qué-unidad-se-cobra).
 
 | Unidad de cobro | Cómo funciona | Ejemplos |
 |---|---|---|

@@ -64,7 +64,7 @@ Que la prueba social empuje decisiones, aunque sea a veces, es justo lo que hace
 - No nombrar ni mostrar el logo de un cliente que no lo autorizó.
 - No presentar los resultados de los mejores casos como si fueran los típicos.
 - No ofrecer una garantía que no se va a cumplir.
-- No armar una opción de relleno para que otra parezca mejor. El efecto que buscaría, el señuelo, está en disputa: no se replicó con estímulos naturales y sus autores sostienen que sí en sus condiciones originales, como se ve en [presentar el precio](presentar-el-precio.md#cuantas-opciones-el-senuelo-en-disputa).
+- No armar una opción de relleno para que otra parezca mejor. El efecto que buscaría, el señuelo, está en disputa: no se replicó con estímulos naturales y sus autores sostienen que sí en sus condiciones originales, como se ve en [presentar el precio](presentar-el-precio.md#cuántas-opciones-el-señuelo-en-disputa).
 
 Al analizar competidores para diseñar un producto, la prueba que muestra un rival (sus casos, sus cifras, sus logos) dice qué resultado cree que el cliente quiere ver. Se puede contrastar con lo que dicen los clientes en una entrevista de [ventas ganadas y perdidas](../../Estrategia-competitiva/Analisis-de-competidores/analisis-de-ventas-ganadas-y-perdidas.md): si el rival ganó con una cifra que el cliente no pudo verificar, el hueco está en la confianza y no en el producto (lectura de esta base).
 

@@ -5,6 +5,8 @@
   las notas sueltas y después cada vertical (subcarpeta) con la misma regla. La entrada de cada
   carpeta es la portada de su sección: se abre al tocar el nombre de la sección.
 - Portada: `conocimiento.md`, con cada área como una grilla de tarjetas.
+- Los títulos repetidos en una nota llevan `-1`, `-2`... como en GitHub (Python-Markdown pone `_1`),
+  para que `nota.md#ancla` lleve al mismo lugar en los dos lados (ver `anclas.py`).
 - Cada nota suma, bajo el título, su estado y sus otros nombres (`aliases`, que así también
   encuentra la búsqueda), y al final sus `fuentes` y las notas que la enlazan.
 """
@@ -13,6 +15,8 @@ import html
 import pathlib
 import posixpath
 import re
+
+from markdown.extensions import toc
 
 RAIZ = "conocimiento.md"
 AREA = re.compile(r"^##\s+(.+?)\s*$")
@@ -23,6 +27,22 @@ ENLACE = re.compile(r"\]\(([^)\s#]+\.md)(?:#[^)]*)?\)")
 URL = re.compile(r"https?://[^\s)>\]]+")
 FUENTE = re.compile(r"^(?P<texto>.+?)\s*[:,]?\s*(?P<url>https?://\S+?)\s*(?P<resto>\(.*\))?$")
 MESES = "ene feb mar abr may jun jul ago sep oct nov dic".split()
+
+_unico_original = toc.unique
+
+
+def _unico_como_github(id: str, ids, counters=None) -> str:
+    if not id:
+        return _unico_original(id, ids, counters)
+    base, n = id, 0
+    while id in ids:
+        n += 1
+        id = f"{base}-{n}"
+    ids.add(id)
+    return id
+
+
+toc.unique = _unico_como_github
 
 _titulos: dict[str, str] = {}
 _entrantes: dict[str, set[str]] = {}

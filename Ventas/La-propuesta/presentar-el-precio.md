@@ -35,9 +35,9 @@ Casi toda la evidencia de esta nota es de laboratorio con consumidores o de nego
 
 ## El primer número que ve el cliente
 
-El anclaje y el precio de referencia se explican en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md#el-precio-de-referencia-contra-que-compara-el-cliente). Una propuesta con precio es además una primera oferta:
+El anclaje y el precio de referencia se explican en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md#el-precio-de-referencia-contra-qué-compara-el-cliente). Una propuesta con precio es además una primera oferta:
 
-- Galinsky y Mussweiler (2001): quien ofrece primero se queda con ventaja, y la pierde si el otro piensa en su propia alternativa. El estudio está en [quién hace la primera oferta](../Objeciones-y-negociacion/objeciones-y-negociacion.md#quien-hace-la-primera-oferta).
+- Galinsky y Mussweiler (2001): quien ofrece primero se queda con ventaja, y la pierde si el otro piensa en su propia alternativa. El estudio está en [quién hace la primera oferta](../Objeciones-y-negociacion/objeciones-y-negociacion.md#quién-hace-la-primera-oferta).
 - Orr y Guthrie, en un meta-análisis de 19 efectos en negociaciones simuladas, encontraron un efecto de medio a grande, según su abstract.
 - Un meta-análisis preregistrado de 2025 (Petrowsky, Loschelder y otros: 374 efectos, 90 estudios, N = 16.334) da, según su nota de prensa y su ficha, una ventaja de quien ofrece primero de g = 0,42. La correlación entre la primera oferta y el acuerdo es r = 0,62, y las ofertas ambiciosas superan a las moderadas con g = 1,14.
 
@@ -48,7 +48,7 @@ El mismo meta-análisis muestra el costo. Las ofertas ambiciosas generan más im
 
 ## Anclar en lo que hoy le cuesta el problema
 
-Los anclajes honestos disponibles son dos: lo que al cliente le cuesta hoy el problema (lo que paga o lo que pierde) y el valor económico que se le genera. Cómo se calcula ese valor, con el rival como alternativa más cercana, está en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md#el-precio-del-rival-como-alternativa-mas-cercana).
+Los anclajes honestos disponibles son dos: lo que al cliente le cuesta hoy el problema (lo que paga o lo que pierde) y el valor económico que se le genera. Cómo se calcula ese valor, con el rival como alternativa más cercana, está en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md#el-precio-del-rival-como-alternativa-más-cercana).
 
 Para una plataforma de tiendas, puede ser lo que el comerciante pierde en pedidos o paga hoy entre plan, comisiones y apps; para una consultora de software, lo que cuesta sostener el sistema a reemplazar. El número sale de las [preguntas de descubrimiento](../Descubrimiento-y-calificacion/preguntas-de-descubrimiento.md); si el cliente no lo dijo, falta descubrimiento.
 
@@ -86,7 +86,7 @@ Lo que se puede decir sin pasarse de la evidencia: pocas opciones, y con más ra
 
 ## Cómo presentan el precio los competidores
 
-La página de precios de un rival y las cotizaciones que muestran los clientes dicen cómo ancla: si muestra primero el plan caro o el barato, si compara contra el costo de no tenerlo y cuántos planes ofrece. La comparación de planes está en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md#como-se-arma-una-comparacion-de-planes). Que un rival presente así su precio no dice que le funcione.
+La página de precios de un rival y las cotizaciones que muestran los clientes dicen cómo ancla: si muestra primero el plan caro o el barato, si compara contra el costo de no tenerlo y cuántos planes ofrece. La comparación de planes está en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md#cómo-se-arma-una-comparación-de-planes). Que un rival presente así su precio no dice que le funcione.
 
 ## Qué leer
 

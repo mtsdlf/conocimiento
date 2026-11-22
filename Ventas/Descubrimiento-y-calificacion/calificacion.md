@@ -46,7 +46,7 @@ Sobre los resultados de MEDDIC en PTC, MEDDICC.com dice que llevó la organizaci
 
 Lo que sí hay es un argumento de practicantes: BANT sirve para mucho volumen y ventas simples, y MEDDIC para ventas con varios decisores y un proceso de decisión largo. Es razonable, porque MEDDIC pregunta por el proceso y los criterios, que en un comercio chico casi no existen. Sigue siendo una opinión de practicantes.
 
-El uso que la base recomienda es el de una lista: antes de escribir una propuesta, ver qué casillas están vacías. Una casilla vacía no descalifica; dice qué preguntar en la próxima conversación. En propuestas formales, decidir si presentarse o no se llama evaluación de ir o no ir (*go/no-go*); el dato de proveedor que la asocia con la tasa de éxito está en [La propuesta](../La-propuesta/la-propuesta.md#como-falla-una-propuesta).
+El uso que la base recomienda es el de una lista: antes de escribir una propuesta, ver qué casillas están vacías. Una casilla vacía no descalifica; dice qué preguntar en la próxima conversación. En propuestas formales, decidir si presentarse o no se llama evaluación de ir o no ir (*go/no-go*); el dato de proveedor que la asocia con la tasa de éxito está en [La propuesta](../La-propuesta/la-propuesta.md#cómo-falla-una-propuesta).
 
 ## Cuál usar según a quién se le vende
 

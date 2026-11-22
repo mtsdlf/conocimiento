@@ -36,9 +36,9 @@ Singer define el shaping como "Make an abstract project idea more concrete by de
 
 El trabajo con forma es rough ("Work in the shaping stage is rough."), está solved ("shaped work has been thought through.") y está bounded ("It tells the team where to stop."). En el caso del libro, un calendario, el equipo podía construir "about a tenth of what people think of when they say "calendar."": eligió una vista de dos meses de solo lectura y dejó afuera arrastrar y soltar.
 
-Para empezar hacen falta una idea cruda, un [apetito](../Planificacion-y-entrega/shape-up.md#apetito-en-lugar-de-estimacion) y un problema acotado. Acotar es pasar de "What could we build?" a "What's really going wrong?".
+Para empezar hacen falta una idea cruda, un [apetito](../Planificacion-y-entrega/shape-up.md#apetito-en-lugar-de-estimación) y un problema acotado. Acotar es pasar de "What could we build?" a "What's really going wrong?".
 
-Singer sostiene que "Shaping is primarily design work" y que no hace falta programar, pero sí ser "technically literate". Es una posición de escuela: en Cagan y Torres el trío decide junto, como cuenta [equipo empoderado](../Organizacion/equipo-empoderado.md#shape-up-y-scrum-otras-formas-de-repartir-la-decision).
+Singer sostiene que "Shaping is primarily design work" y que no hace falta programar, pero sí ser "technically literate". Es una posición de escuela: en Cagan y Torres el trío decide junto, como cuenta [equipo empoderado](../Organizacion/equipo-empoderado.md#shape-up-y-scrum-otras-formas-de-repartir-la-decisión).
 
 ## Breadboard y fat marker sketch: dibujar sin pantallas
 

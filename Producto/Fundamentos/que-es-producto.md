@@ -61,8 +61,8 @@ Una agencia de software le respondió a Cagan que las agencias prefieren trabajo
 El caso toca varias partes del tema, y cada una lo trata donde le corresponde:
 
 - el roadmap cuando el cliente paga por fechas y alcance: [Roadmap](../Planificacion-y-entrega/roadmap.md#el-roadmap-cuando-el-cliente-paga-por-fechas-y-alcance);
-- cómo cobra una consultora y quién carga con el riesgo, con los estudios de contratos de precio fijo y de tiempo y materiales: [Pricing y empaquetado](../Monetizacion/pricing-y-empaquetado.md#como-cobra-una-consultora-o-una-agencia);
-- cómo se miden resultados cuando el contrato se cumple con entregables: [Resultados y entregables](../Estrategia/resultados-y-entregables.md#donde-no-alcanza-consultoras-y-contratos);
+- cómo cobra una consultora y quién carga con el riesgo, con los estudios de contratos de precio fijo y de tiempo y materiales: [Pricing y empaquetado](../Monetizacion/pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia);
+- cómo se miden resultados cuando el contrato se cumple con entregables: [Resultados y entregables](../Estrategia/resultados-y-entregables.md#dónde-no-alcanza-consultoras-y-contratos);
 - qué fuentes leer: [Bibliografía de producto](bibliografia-de-producto.md#consultora-de-software).
 
 ## Los nombres vecinos y dónde vive cada uno

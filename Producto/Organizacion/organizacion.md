@@ -39,7 +39,7 @@ En la práctica, un cargo con el mismo nombre hace cosas distintas en cada empre
 
 ## El trío y lo que le toca a cada uno
 
-En la escuela que ordena este tema, un producto lo hacen juntos los tres roles del [trío de producto](../Descubrimiento/descubrimiento-continuo.md#el-trio-de-producto), y cómo se reparten entre ellos los riesgos de una idea está en [cuatro riesgos](../Descubrimiento/cuatro-riesgos.md). Diseño se estudia en [UX](../../UX/ux.md).
+En la escuela que ordena este tema, un producto lo hacen juntos los tres roles del [trío de producto](../Descubrimiento/descubrimiento-continuo.md#el-trío-de-producto), y cómo se reparten entre ellos los riesgos de una idea está en [cuatro riesgos](../Descubrimiento/cuatro-riesgos.md). Diseño se estudia en [UX](../../UX/ux.md).
 
 ## Qué se le delega al equipo
 

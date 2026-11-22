@@ -43,7 +43,7 @@ Las tres se tocan. Wes Bush sostiene, según resúmenes de su blog, que importa 
 
 ## Cuando no hay producto empaquetado: servicios y plataformas
 
-La tesis cambia de sentido fuera del SaaS. En una consultora o una agencia, el precio lo fija el contrato: precio fijo o tiempo y materiales, y lo que se decide es quién carga con el riesgo. Lo que dicen los estudios de contratos está en [pricing y empaquetado](pricing-y-empaquetado.md#como-cobra-una-consultora-o-una-agencia).
+La tesis cambia de sentido fuera del SaaS. En una consultora o una agencia, el precio lo fija el contrato: precio fijo o tiempo y materiales, y lo que se decide es quién carga con el riesgo. Lo que dicen los estudios de contratos está en [pricing y empaquetado](pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia).
 
 En una plataforma de dos lados, el precio es además una palanca para equilibrar los lados: a cuál se le cobra comisión y a cuál se subsidia. Eso es de [mercado de dos lados](../Plataformas/mercado-de-dos-lados.md), en Plataformas.
 
