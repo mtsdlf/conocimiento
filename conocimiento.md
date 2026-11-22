@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout), abrí la entrada del tema: Marketing, Producto, Emprender, UX, Estrategia competitiva y Comercio electrónico tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout), abrí la entrada del tema: Marketing, Producto, Emprender, UX, Estrategia competitiva, Ventas y Comercio electrónico tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -65,6 +65,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Marketing](Marketing/marketing.md) — mercado y cliente, propuesta, marca, canales, comunicación y medición, con las escuelas y la evidencia de cada idea.
 - [Emprender](Emprender/emprender.md) — armar una empresa nueva con incertidumbre: validación (Lean Startup), modelo de negocio, crecimiento, finanzas, fundadores y equipo, legal e impuestos en Argentina, con las escuelas y su evidencia.
 - [Estrategia competitiva](Estrategia-competitiva/estrategia-competitiva.md) — por qué una industria rinde lo que rinde, de dónde sale una ventaja que dura, cómo se mueven los rivales y cómo se analiza a los competidores antes de diseñar un producto, con su evidencia.
+- [Ventas](Ventas/ventas.md) — del problema del cliente al acuerdo: descubrimiento y calificación, la propuesta y el precio, objeciones y negociación, formas de vender y medición comercial, con la poca evidencia independiente que tienen los métodos dicha en cada nota.
 
 ## Industrias
 
