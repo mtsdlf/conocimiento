@@ -33,15 +33,26 @@ def _titulo(md: pathlib.Path, defecto: str) -> str:
     return m.group(1) if m else defecto
 
 
-def _es_entrada(src: str) -> bool:
-    carpeta, nombre = posixpath.split(src)
-    return bool(carpeta) and nombre == f"{posixpath.basename(carpeta).lower()}.md"
+def _entrada(carpeta: pathlib.Path) -> pathlib.Path | None:
+    """La entrada de una carpeta: se llama como ella, o como ella con un calificador
+    (`Fundamentos/fundamentos-de-marketing.md`), igual que en el lint de `documentar`."""
+    nombre = carpeta.name.lower()
+    exacta = carpeta / f"{nombre}.md"
+    if exacta.exists():
+        return exacta
+    calificadas = sorted(carpeta.glob(f"{nombre}-*.md"))
+    return calificadas[0] if calificadas else None
+
+
+def _es_entrada(src: str, docs: pathlib.Path) -> bool:
+    carpeta = posixpath.dirname(src)
+    return bool(carpeta) and _entrada(docs / carpeta) == docs / src
 
 
 def _seccion(carpeta: pathlib.Path, docs: pathlib.Path, incluidos: set[str]) -> list:
-    entrada = carpeta / f"{carpeta.name.lower()}.md"
+    entrada = _entrada(carpeta)
     items: list = []
-    if entrada.exists():
+    if entrada is not None:
         items.append(entrada.relative_to(docs).as_posix())
     for md in sorted(carpeta.glob("*.md")):
         rel = md.relative_to(docs).as_posix()
@@ -50,7 +61,11 @@ def _seccion(carpeta: pathlib.Path, docs: pathlib.Path, incluidos: set[str]) -> 
     for sub in sorted(p for p in carpeta.iterdir() if p.is_dir() and not p.name.startswith(".")):
         hijos = _seccion(sub, docs, incluidos)
         if hijos:
-            items.append({_titulo(sub / f"{sub.name.lower()}.md", sub.name.replace("-", " ")): hijos})
+            entrada_sub = _entrada(sub)
+            titulo = sub.name.replace("-", " ")
+            if entrada_sub is not None and entrada_sub.stem == sub.name.lower():
+                titulo = _titulo(entrada_sub, titulo)
+            items.append({titulo: hijos})
     return items
 
 
@@ -94,7 +109,7 @@ def on_files(files, config):
     for f in files.documentation_pages():
         if f.src_uri == RAIZ:
             f.dest_uri = "index.html"
-        elif _es_entrada(f.src_uri):
+        elif _es_entrada(f.src_uri, docs):
             # La entrada de la carpeta hace de índice de su sección (`navigation.indexes`).
             f.name = "index"
             f.dest_uri = posixpath.join(posixpath.dirname(f.src_uri), "index.html")
