@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Señuelo, moldeado y captura son las tres maneras de conseguir que el perro haga por primera vez una conducta para poder premiarla: guiarlo con comida, construirla premiando aproximaciones, o esperar a que la haga sola.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.clickertraining.com/glossary
@@ -9,7 +9,7 @@ fuentes:
   - Lindsay, S. Handbook of Applied Dog Behavior and Training, vol. 2 (no leído para esta nota)
 aliases: [luring, shaping, captura, aproximaciones sucesivas, señal]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Señuelo y moldeado

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un marcador es una señal corta, un clic o una palabra, que el perro aprende a asociar con el premio y que se usa para señalar el instante exacto en que hizo lo correcto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7906040
@@ -12,7 +12,7 @@ fuentes:
   - https://about.illinoisstate.edu/vfdouga/files/2019/10/smith-Davis-2008-clicker-training-increases-resist-to-ext-but-not-decrease-training-time-of-simple-operant-task-in-dogs.pdf
 aliases: [clicker, marker, palabra marcadora, puente]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Marcador

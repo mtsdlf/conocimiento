@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La socialización es exponer al cachorro, sin asustarlo, a la mayor variedad posible de personas, animales, lugares y estímulos durante sus primeros meses, cuando está más receptivo; se asocia con menos miedo y agresión de adulto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://caninewelfare.centers.purdue.edu/resource/avsab-puppy-socialization-position-statement
@@ -13,7 +13,7 @@ fuentes:
   - Scott, J. P. y Fuller, J. L. (1965). Genetics and the Social Behavior of the Dog, cap. 5. University of Chicago Press.
 aliases: [período sensible, ventana de socialización, puppy socialization]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Socialización

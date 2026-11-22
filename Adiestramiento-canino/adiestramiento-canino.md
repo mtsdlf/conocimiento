@@ -1,13 +1,13 @@
 ---
 resumen: >-
   Adiestrar un perro es cambiar lo que hace manejando las consecuencias y las asociaciones de su conducta; esta base lo explica para dueños, con foco en el teckel (perro salchicha), y dice en cada caso qué se apoya en estudios y qué es práctica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.ccpdt.org/wp-content/uploads/2024/04/Test-Content-Outline.pdf
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5097381/
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Adiestramiento canino

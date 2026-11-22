@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Habilidades es la parte del adiestramiento que trata lo que se le enseña al perro para convivir: hacer sus necesidades afuera, venir cuando se lo llama, caminar sin tirar, quedarse solo y las posiciones de sentado, echado y quieto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.dogstrust.org.uk/help-advice/training/recall-training
@@ -9,7 +9,7 @@ fuentes:
   - https://www.akc.org/expert-advice/training/teaching-the-stay/
   - https://www.akc.org/expert-advice/training/poisoned-cues-what-they-are-and-what-to-do/
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Habilidades

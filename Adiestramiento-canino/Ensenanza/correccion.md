@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una corrección es una consecuencia que busca que el perro deje de hacer algo: agregar algo desagradable (un reto, un tirón de correa), quitarle algo que quiere (el juego, la atención) o interrumpirlo para redirigirlo; sirve para frenar, no para enseñar qué hacer.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.akc.org/expert-advice/training/operant-conditioning-positive-reinforcement-dog-training/
@@ -13,7 +13,7 @@ fuentes:
   - Chance, P. Learning and Behavior, capítulo de castigo (no leído para esta nota)
 aliases: [castigo, corregir, retar, tirón de correa, time-out, interrupción]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Corrección

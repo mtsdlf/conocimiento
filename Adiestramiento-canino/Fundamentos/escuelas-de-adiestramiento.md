@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las escuelas de adiestramiento se dividen según cuánto usan la incomodidad del perro para enseñar: solo premios, premios con correcciones (balanceado) o correcciones como base (tradicional); las asociaciones veterinarias apoyan la primera, y la evidencia que las respalda es sobre todo observacional y con críticas metodológicas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://about.illinoisstate.edu/vfdouga/files/2021/08/AVSAB-Humane-Dog-Training-Position-Statement-2021.pdf
@@ -28,7 +28,7 @@ fuentes:
   - https://kb.rspca.org.au/?p=10885
 aliases: [métodos de adiestramiento, refuerzo positivo contra balanceado, LIMA]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Escuelas de adiestramiento

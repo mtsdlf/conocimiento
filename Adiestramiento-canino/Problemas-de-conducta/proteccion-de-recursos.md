@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La protección de recursos es la conducta del perro que defiende algo que valora (comida, un hueso, un juguete, un lugar) con rigidez, gruñidos o mordidas cuando alguien se acerca; en un refugio la mostró uno de cada siete perros, casi siempre leve o moderada, y sacarle el objeto a la fuerza se asoció a respuestas agresivas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC6912206
@@ -10,7 +10,7 @@ fuentes:
   - https://indoorpet.osu.edu/sites/default/files/imce/Punishment_Position_Statement-download_-_10-6-14.pdf
 aliases: [resource guarding, guarda de recursos]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Protección de recursos

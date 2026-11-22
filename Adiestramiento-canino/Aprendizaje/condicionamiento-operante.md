@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El condicionamiento operante es el aprendizaje por consecuencias: una conducta que trae algo que el perro quiere, o le saca algo que no quiere, se repite más, y una que le trae algo desagradable o le quita algo que quiere se repite menos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.akc.org/expert-advice/training/operant-conditioning-positive-reinforcement-dog-training/
@@ -14,7 +14,7 @@ fuentes:
   - Pryor, K. Don't Shoot the Dog (no leído para esta nota)
 aliases: [aprendizaje operante, operant conditioning, los cuatro cuadrantes]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Condicionamiento operante

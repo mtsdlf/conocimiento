@@ -1,11 +1,11 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el adiestramiento canino sin ser una parte de él: la disputa entre escuelas y su evidencia, los mitos, las fuentes y el glosario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes: []
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fundamentos

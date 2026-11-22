@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Hacer sus necesidades afuera es la habilidad de orinar y defecar en el lugar elegido; se enseña sacando al perro en los momentos en que lo necesita, premiándolo ahí mismo y evitando que se equivoque adentro.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.dogstrust.org.uk/help-advice/training/house-or-toilet-training
@@ -15,7 +15,7 @@ fuentes:
   - https://cliniciansbrief.com/article/canine-house-soiling
 aliases: [educación de esfínteres, house training, ir al baño afuera]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Hacer sus necesidades afuera

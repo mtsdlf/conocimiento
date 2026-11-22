@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La llamada es la habilidad de que el perro deje lo que está haciendo y vuelva cuando se lo llama; se construye con una señal corta que siempre trae algo bueno, desde lugares cerrados hasta la plaza con correa larga.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.dogstrust.org.uk/help-advice/training/recall-training
@@ -10,7 +10,7 @@ fuentes:
   - https://rspca-brighton.org.uk/wp-content/uploads/2023/02/RSPCA-Recall.docx.pdf
 aliases: [recall, venir cuando se lo llama, ven]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Llamada

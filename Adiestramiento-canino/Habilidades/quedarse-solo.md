@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Quedarse solo es la habilidad de estar tranquilo sin la familia en casa; se enseña de a poco, desde pocos minutos con el dueño cerca hasta salidas reales, y es la prevención de la ansiedad por separación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://dogstrust.org.uk/dog-advice/training/home/help-your-dog-spend-time-alone
@@ -9,7 +9,7 @@ fuentes:
   - https://www.pdsa.org.uk/preventing-separation-anxiety
 aliases: [tiempo a solas, estar solo]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Quedarse solo

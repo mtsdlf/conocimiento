@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Caminar con correa floja es la habilidad de pasear sin tirar: el perro aprende que avanzar depende de que la correa vaya suelta, porque al tirar se frena y al caminar cerca se lo premia.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.dogstrust.org.uk/dog-advice/training/unwanted-behaviours/pulling-on-lead
@@ -11,7 +11,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC11512810/
 aliases: [no tirar de la correa, loose leash walking, paseo sin tirones]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Caminar con correa floja

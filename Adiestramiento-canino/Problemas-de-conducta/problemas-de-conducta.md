@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Problemas de conducta es la parte del adiestramiento que trata lo que sale mal en la convivencia (el ladrido, la protección de recursos, la reactividad y la agresión, la ansiedad por separación) y cuándo el caso pasa a un profesional.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/excessive-barking
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7071134
   - https://www.dogstrust.org.uk/help-advice/training/stop-your-dog-barking
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Problemas de conducta

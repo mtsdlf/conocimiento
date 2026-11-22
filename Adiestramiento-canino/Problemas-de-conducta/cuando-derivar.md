@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Derivar es llevar un problema de conducta al profesional que corresponde antes o en lugar de tratarlo en casa: primero al veterinario, para descartar dolor u otra causa médica, y después, según el caso, al etólogo clínico o veterinario conductista o a un adiestrador.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7071134
@@ -13,7 +13,7 @@ fuentes:
   - https://www.ccpdt.org/wp-content/uploads/2024/04/Test-Content-Outline.pdf
 aliases: [derivación, causas médicas de la conducta]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Cuándo derivar

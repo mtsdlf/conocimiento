@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ansiedad por separación es el miedo o la angustia de un perro cuando se queda solo o lejos de su persona, que se ve en lo que hace en su ausencia; el tratamiento con más respaldo es la desensibilización gradual a la ausencia con contracondicionamiento, y la medicación, si hace falta, la indica un veterinario.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.dovepress.com/canine-separation-anxiety-strategies-for-treatment-and-management-peer-reviewed-fulltext-article-VMRR
@@ -16,7 +16,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC3864788
 aliases: [separation anxiety, problemas relacionados con la separación]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Ansiedad por separación

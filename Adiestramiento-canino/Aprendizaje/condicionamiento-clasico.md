@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El condicionamiento clásico es el aprendizaje por asociación: cuando algo neutro aparece una y otra vez junto a algo que ya provoca una emoción o una respuesta, el perro empieza a responder igual ante lo neutro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.aaha.org/globalassets/02-guidelines/behavior-management/2015_aaha_canine_and_feline_behavior_management_guidelines_final.pdf
@@ -10,7 +10,7 @@ fuentes:
   - Pryor, K. Don't Shoot the Dog (no leído para esta nota)
 aliases: [condicionamiento pavloviano, aprendizaje asociativo, classical conditioning]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Condicionamiento clásico

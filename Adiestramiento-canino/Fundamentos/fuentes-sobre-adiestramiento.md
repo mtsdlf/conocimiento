@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dónde se produce el conocimiento sobre adiestramiento, cuánto pesa cada tipo de fuente y qué leer para empezar como dueño; los estudios son pocos y casi todos observacionales, y los libros clásicos del campo son de adiestradores del lado del refuerzo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.ccpdt.org/wp-content/uploads/2024/04/Test-Content-Outline.pdf
@@ -19,7 +19,7 @@ fuentes:
   - https://leerburg.com/fit-prong.htm
 aliases: [bibliografía, dónde leer, libros de adiestramiento]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Fuentes sobre adiestramiento

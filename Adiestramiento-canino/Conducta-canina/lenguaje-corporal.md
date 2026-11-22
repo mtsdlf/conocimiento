@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El lenguaje corporal del perro son las posturas y gestos con que muestra estrés, incomodidad o aviso antes de morder; algunos están medidos en estudios chicos y otros vienen de modelos didácticos como las señales de calma y la escalera de la agresión.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC10066101
@@ -11,7 +11,7 @@ fuentes:
   - https://www.psychologytoday.com/us/blog/animal-emotions/201706/dogs-do-calming-signals-always-work-or-are-they-a-myth
 aliases: [señales de calma, calming signals, escalera de la agresión]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Lenguaje corporal

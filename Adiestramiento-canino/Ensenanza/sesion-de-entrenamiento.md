@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una sesión de entrenamiento es un rato corto y planeado en que se practica una conducta con un criterio claro; cuánto dura, cada cuánto se repite y cómo sube la dificultad deciden cuánto aprende el perro.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://test01.ku.dk/:obvius/pureproxy/3974268/da/publications/the-effect-of-frequency-and-duration-of-training-sessions-on-acqu
@@ -10,7 +10,7 @@ fuentes:
   - Pryor, K. Don't Shoot the Dog (no leído para esta nota)
 aliases: [sesión, criterio, generalización, las tres D]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Sesión de entrenamiento

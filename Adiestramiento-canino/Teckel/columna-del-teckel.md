@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La columna del teckel es su punto débil: la raza es condrodistrófica, sus discos intervertebrales envejecen antes y se hernian con frecuencia (enfermedad de disco intervertebral, IVDD), y eso obliga a pensar el ejercicio, el peso, los saltos y lo que se le pone al cuello, aunque en los saltos y las escaleras las fuentes no coinciden.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5097381/
@@ -15,7 +15,7 @@ fuentes:
   - https://www.dachshund-ivdd.uk/lifestyle-advice/collar-vs-harness
 aliases: [IVDD, hernia de disco, enfermedad de disco intervertebral, intervertebral disc disease]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Columna del teckel

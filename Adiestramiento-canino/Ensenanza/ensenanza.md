@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Enseñanza es la parte del adiestramiento que reúne las técnicas para cambiar la conducta del perro: marcar y premiar, guiar y construir de a pasos, armar las sesiones, corregir, y elegir el collar, el ahorque o el arnés.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7906040
@@ -11,7 +11,7 @@ fuentes:
   - https://bmcvetres.biomedcentral.com/track/pdf/10.1186/1746-6148-8-93
   - https://test01.ku.dk/:obvius/pureproxy/3974268/da/publications/the-effect-of-frequency-and-duration-of-training-sessions-on-acqu
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Enseñanza

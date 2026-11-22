@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El teckel (dachshund o perro salchicha) es un perro de caza bajo tierra de origen alemán, de patas cortas y cuerpo largo, en tres tamaños y tres pelos; su cuerpo lo predispone a la enfermedad de disco y, según un estudio por raza visto por resumen, puntúa arriba del promedio en agresión, aunque la raza predice poco a cada perro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.fci.be/Nomenclature/Standards/148g04-en.pdf
@@ -16,7 +16,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5097381/
 aliases: [dachshund, perro salchicha, dackel]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Teckel

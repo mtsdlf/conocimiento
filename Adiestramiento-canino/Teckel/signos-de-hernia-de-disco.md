@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los signos de hernia de disco en un teckel son el dolor de espalda o de cuello, la marcha tambaleante, la debilidad o parálisis de las patas y los problemas para orinar o defecar; con cualquiera de ellos se consulta en el día, y si ya no camina bien, a una guardia de inmediato.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.acvs.org/small-animal/ivdd/
@@ -11,7 +11,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5097381/
 aliases: [signos de IVDD, urgencia de columna, hernia de disco urgente]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Signos de hernia de disco

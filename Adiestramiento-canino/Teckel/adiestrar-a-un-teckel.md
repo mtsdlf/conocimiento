@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Adiestrar a un teckel usa las mismas técnicas que con cualquier perro, ajustadas a un cazador de olfato fino e independiente, a un cuerpo chico y a una espalda frágil; casi todo lo propio de la raza viene de opinión de criadores, y lo medido es por tamaño, no por raza.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.akc.org/expert-advice/training/how-to-train-a-dachshund-puppy/
@@ -13,7 +13,7 @@ fuentes:
   - https://www.akc.org/expert-advice/training/potty-in-bad-weather/
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC6790757
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Adiestrar a un teckel

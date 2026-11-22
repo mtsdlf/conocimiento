@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ideas sobre los perros y su educación que las fuentes contradicen o matizan, cada una con su evidencia y la nota que la trata; la de la dominancia sigue en discusión entre etólogos, aunque su uso para justificar la confrontación no tiene respaldo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pubs.usgs.gov/publication/1001725
@@ -21,7 +21,7 @@ fuentes:
   - https://news.ku.dk/all_news/2026/05/dog-training-choices-reflect-owners-ethical-views-on-animals/
 aliases: [mitos, ideas erróneas, macho alfa]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Mitos del adiestramiento

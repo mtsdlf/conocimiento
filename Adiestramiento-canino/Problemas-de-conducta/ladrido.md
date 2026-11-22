@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El ladrido excesivo es un síntoma con varias causas posibles (alerta, juego, miedo, frustración, soledad, demanda, aburrimiento); se trata identificando cuál es y cambiando lo que lo dispara.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/excessive-barking
@@ -10,7 +10,7 @@ fuentes:
   - https://kb.rspca.org.au/knowledge-base/my-dog-is-barking-excessively-what-should-i-do/
 aliases: [ladrido excesivo, excessive barking]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Ladrido

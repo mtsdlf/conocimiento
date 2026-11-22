@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La reactividad es la respuesta exagerada de un perro (ladrar, tirarse, gruñir) ante otros perros, personas o cosas, y la agresión es su forma con mordida o intento; detrás puede haber miedo o dolor, y el castigo se asoció a más agresión en dos encuestas independientes.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.eurekalert.org/news-releases/877612
@@ -16,7 +16,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7071134
 aliases: [reactividad, agresión, aggression]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Reactividad y agresión

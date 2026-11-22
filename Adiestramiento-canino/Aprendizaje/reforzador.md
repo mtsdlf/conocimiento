@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un reforzador es lo que, dado después de una conducta, hace que el perro la repita más; qué funciona como reforzador lo decide cada perro, y cambia con el lugar, el momento y lo que compite con él.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.akc.org/expert-advice/training/what-is-the-premack-principle-in-dog-training/
@@ -10,7 +10,7 @@ fuentes:
   - Pryor, K. Don't Shoot the Dog (no leído para esta nota)
 aliases: [premio, refuerzo, reinforcer, principio de Premack]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Reforzador

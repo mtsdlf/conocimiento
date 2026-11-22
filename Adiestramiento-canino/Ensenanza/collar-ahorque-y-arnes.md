@@ -1,9 +1,10 @@
 ---
 resumen: >-
   El equipo de paseo y adiestramiento va del collar plano y el arnés, que solo sujetan, al ahorque, el martingale, el collar de púas y el eléctrico, que corrigen o presionan; cada uno se coloca distinto y todos los que tiran del cuello cargan presión sobre él.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11512810/
   - https://pubmed.ncbi.nlm.nih.gov/16611932/
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC8450523
   - https://pubmed.ncbi.nlm.nih.gov/32303668/
@@ -27,7 +28,7 @@ fuentes:
   - https://www.acvs.org/small-animal/tracheal-collapse/
 aliases: [ahorque, choke chain, collar de ahorque, collar de púas, prong collar, martingale, collar eléctrico, e-collar, arnés antitirones]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Collar, ahorque y arnés
@@ -49,7 +50,7 @@ Un mismo collar sirve para guiar con la correa floja o para dar un tirón. Lo qu
 | Collar de púas | Las púas aprietan alrededor del cuello al tirar | Castigo positivo o refuerzo negativo | Presión concentrada en puntos |
 | Collar eléctrico | Descarga o vibración a distancia | Castigo positivo o refuerzo negativo | Estrés; ver la evidencia abajo |
 | Arnés de pecho | Reparte la fuerza en el pecho y los hombros | Ninguno | Más tensión de correa en un estudio |
-| Arnés antitirones | Enganche adelante: al tirar, el perro gira | Sin fuente leída | Sin fuente leída |
+| Arnés antitirones | Enganche adelante: al tirar, el perro gira | Sin guía de ajuste leída | En Johnson y Wynne 2024, menos tirón que el martingale ([arnés y tirón de correa](#arnés-y-tirón-de-correa)) |
 
 La AAHA, según el resumen de su guía de 2015, cuenta el ahorque, el collar de púas y el eléctrico entre las técnicas aversivas que rechaza. Esa posición y la de otras sociedades están en [escuelas de adiestramiento](../Fundamentos/escuelas-de-adiestramiento.md).
 
@@ -132,6 +133,8 @@ Con un teckel sano, los datos no favorecen al arnés ni al collar: el grupo de l
 ## Arnés y tirón de correa
 
 En un estudio, los perros tiraron más con arnés que con collar. Shih y colegas compararon en 2021 collar y arnés en 52 perros de refugio, cada uno con los dos. Cuando la atracción era comida, la tensión máxima y media de la correa y el tiempo tirando fueron mayores con arnés; con un juguete no hubo diferencia, y las conductas de estrés no difirieron. Sus límites: perros de refugio, siempre la comida primero y sin análisis por raza.
+
+Otro estudio midió el arnés de enganche adelante. Johnson y Wynne (2024) probaron cuatro equipos en 23 perros de refugio, cinco minutos cada uno: tiraron más con martingale que con arnés de conexión frontal, collar de polímero o collar de púas, y esos tres no difirieron entre sí. Según los autores, "Behavior analysis did not provide clear evidence that any of the four equipment types resulted in impaired welfare". Sus límites: el orden de los equipos fue fijo, eran perros de refugio y no se probó el ahorque. Dogs Trust, en cambio, advierte que los productos antitirón pueden doler.
 
 Una tesis de la Southern Illinois University con 28 perros, según su resumen, también encontró más fuerza media y máxima con arnés. El arnés saca la presión del cuello, pero no enseña a caminar sin tirar; eso está en [caminar con correa floja](../Habilidades/caminar-con-correa-floja.md).
 

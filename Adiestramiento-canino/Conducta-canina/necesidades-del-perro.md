@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las necesidades del perro son lo que tiene que tener cubierto cada día para estar bien y poder aprender: usar el olfato, dormir lo suficiente y moverse; los estudios asocian cada una con el ánimo, con lo que retiene de lo aprendido o con menos ansiedad, con evidencia de distinto peso.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://caninewelfare.centers.purdue.edu/resource/let-me-sniff-nosework-induces-positive-judgment-bias-in-pet-dogs
@@ -13,7 +13,7 @@ fuentes:
   - https://www.sleepfoundation.org/animals/how-much-do-dogs-sleep
   - https://caninewelfare.centers.purdue.edu/resource/early-life-experiences-and-exercise-associate-with-canine-anxieties-2
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Necesidades del perro

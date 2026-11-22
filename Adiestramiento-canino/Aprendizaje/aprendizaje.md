@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprendizaje es la parte del adiestramiento que explica cómo cambia lo que hace un perro: por las consecuencias de su conducta, por las asociaciones entre lo que pasa a su alrededor y por lo que a ese perro le sirve de premio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.akc.org/expert-advice/training/operant-conditioning-positive-reinforcement-dog-training/
@@ -10,7 +10,7 @@ fuentes:
   - Chance, P. Learning and Behavior (no leído para esta nota)
   - Pryor, K. Don't Shoot the Dog (no leído para esta nota)
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Aprendizaje

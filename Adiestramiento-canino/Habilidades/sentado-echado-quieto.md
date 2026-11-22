@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Sentado, echado y quieto son las tres posiciones básicas: las dos primeras se enseñan guiando al perro con un premio en la mano, y el quieto se construye aparte, sumando duración, distracción y distancia de a una, hasta una palabra de liberación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/sit
@@ -13,7 +13,7 @@ fuentes:
   - https://www.whole-dog-journal.com/training/how-to-teach-a-dog-to-stay/
 aliases: [sit, down, stay, sentate, echate, quieto]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Sentado, echado y quieto

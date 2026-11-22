@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Conducta canina es la parte del adiestramiento que trata qué animal aprende: cómo se comunica el perro, cómo se forma su relación con el mundo de cachorro, qué necesita cada día y cómo cambia con la edad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC10066101
@@ -11,7 +11,7 @@ fuentes:
   - https://www.aaha.org/aaha-guidelines/behavior-management/age-and-behavior/
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7401528
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Conducta canina

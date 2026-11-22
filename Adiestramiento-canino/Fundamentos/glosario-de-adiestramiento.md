@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos técnicos que usan las notas sobre adiestramiento canino, cada uno con una definición corta y la nota que lo desarrolla.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.clickertraining.com/glossary
@@ -16,7 +16,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5097381/
 aliases: [términos, vocabulario]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-22
 ---
 
 # Glosario de adiestramiento
