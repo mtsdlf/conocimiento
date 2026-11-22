@@ -19,6 +19,8 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout), abrí la entrada del tema: Marketing, Producto, Emprender, UX, Estrategia competitiva y Comercio electrónico tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+
 ## Plataforma y entrega
 
 - [Platform Engineering](Platform-Engineering/platform-engineering.md) — plataformas internas, Team Topologies, developer experience y
