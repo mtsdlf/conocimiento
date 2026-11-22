@@ -37,8 +37,7 @@ Casi toda la evidencia viene de empresas grandes, sobre todo de Estados Unidos y
 - [Fuentes de estrategia competitiva](fuentes-de-estrategia-competitiva.md): dónde se produce el conocimiento confiable (revistas, medios de transferencia, asociaciones, practicantes) y con qué peso. Ante una fuente o una cifra nueva.
 - [Mitos de estrategia competitiva](mitos-de-estrategia-competitiva.md): ser primero gana, la disrupción es cualquier innovación, las cinco fuerzas alcanzan, el SWOT analiza competidores, más datos dan mejores decisiones y ganarle al rival es el objetivo. Ante una frase que suena a ley.
 - [Glosario de estrategia competitiva](glosario-de-estrategia-competitiva.md): los términos en una línea, con el término en inglés y la nota donde vive cada uno. Ante una palabra que no se entiende.
-
-La guía paso a paso que recorre un análisis de competencia, de la decisión al seguimiento, se suma a esta carpeta en un PR posterior (`recorrido-analisis-de-competencia`). Hasta entonces, el orden de los pasos está en la [entrada del tema](../estrategia-competitiva.md#dónde-entra-en-el-diseño-de-un-producto).
+- [Recorrido de un análisis de competencia](recorrido-analisis-de-competencia.md): la guía paso a paso, de la decisión al seguimiento, con la plantilla del documento final. Para hacer un análisis de competencia antes de diseñar un producto.
 
 ## Qué falta en Fundamentos
 

@@ -65,18 +65,20 @@ Las cinco fuerzas, los 7 Powers o el modelo de acción y respuesta de Chen orden
 
 El análisis de competencia es un paso del medio. Antes hace falta saber qué se quiere decidir, entender el dominio, definir el mercado y conocer al cliente; después vienen la síntesis, la decisión y el seguimiento. Cada paso tiene su nota, en este tema o en otro:
 
-1. **La pregunta**: qué se quiere decidir con el análisis. Sin una decisión, la recolección no termina nunca ([ciclo de inteligencia](Analisis-de-competidores/ciclo-de-inteligencia.md)).
-2. **El dominio**: cómo funciona la industria por dentro. Es un tema propio por industria, fuera de este.
-3. **El mercado**: qué abarca ([definición de mercado](../Marketing/Mercado-y-cliente/definicion-de-mercado.md)), su tamaño ([tamaño de mercado](../Emprender/Validacion/tamano-de-mercado.md)) y su estructura ([análisis de industria](Analisis-de-industria/analisis-de-industria.md)).
-4. **El cliente**: qué trabajo quiere resolver ([jobs to be done](../Marketing/Mercado-y-cliente/jobs-to-be-done.md)) y cómo se lo investiga ([métodos de investigación](../UX/Investigacion/metodos-de-investigacion.md)).
-5. **Los rivales**: quiénes son ([identificación de competidores](Analisis-de-competidores/identificacion-de-competidores.md)) y cómo se los mira ([perspectivas de análisis](Analisis-de-competidores/perspectivas-de-analisis.md)).
-6. **La síntesis**: qué oportunidades quedan ([árbol de oportunidades](../Producto/Descubrimiento/arbol-de-oportunidades.md)).
-7. **La decisión**: dónde jugar y cómo ganar ([estrategia de producto](../Producto/Estrategia/estrategia-de-producto.md)), contra qué alternativas presentarse ([posicionamiento](../Marketing/Propuesta/posicionamiento.md)) y qué probar primero ([prueba de supuestos](../Producto/Descubrimiento/prueba-de-supuestos.md)).
-8. **El seguimiento**: vigilar a los rivales de forma periódica y no una sola vez ([puntos ciegos](Analisis-de-competidores/puntos-ciegos.md)).
+0. **La pregunta**: qué se quiere decidir con el análisis. Sin una decisión, la recolección no termina nunca ([ciclo de inteligencia](Analisis-de-competidores/ciclo-de-inteligencia.md)).
+1. **El dominio**: cómo funciona la industria por dentro. Es un tema propio por industria, fuera de este; el de tiendas online es [Comercio electrónico](../Comercio-electronico/comercio-electronico.md).
+2. **El mercado**: qué abarca ([definición de mercado](../Marketing/Mercado-y-cliente/definicion-de-mercado.md)), cómo se divide ([segmentación](../Marketing/Mercado-y-cliente/segmentacion.md)), su tamaño ([tamaño de mercado](../Emprender/Validacion/tamano-de-mercado.md)) y su estructura ([análisis de industria](Analisis-de-industria/analisis-de-industria.md)).
+3. **El cliente**: qué trabajo quiere resolver ([jobs to be done](../Marketing/Mercado-y-cliente/jobs-to-be-done.md)) y cómo se lo investiga ([métodos de investigación](../UX/Investigacion/metodos-de-investigacion.md)).
+4. **Los rivales**: quiénes son ([identificación de competidores](Analisis-de-competidores/identificacion-de-competidores.md)).
+5. **El análisis por perspectivas**: qué quiere, qué hace y cómo respondería cada uno ([perfil del competidor](Analisis-de-competidores/perfil-del-competidor.md), [perspectivas de análisis](Analisis-de-competidores/perspectivas-de-analisis.md)).
+6. **La mirada propia**: dónde se es más fuerte o más débil que cada rival ([análisis propio](Analisis-de-competidores/analisis-propio.md)).
+7. **La síntesis**: qué oportunidades quedan y en qué terreno pelear ([árbol de oportunidades](../Producto/Descubrimiento/arbol-de-oportunidades.md), [elegir el terreno](Dinamica-competitiva/elegir-el-terreno.md)).
+8. **La decisión**: dónde jugar y cómo ganar ([estrategia de producto](../Producto/Estrategia/estrategia-de-producto.md)), contra qué alternativas presentarse ([posicionamiento](../Marketing/Propuesta/posicionamiento.md)) y qué probar primero ([prueba de supuestos](../Producto/Descubrimiento/prueba-de-supuestos.md)).
+9. **El seguimiento**: vigilar a los rivales de forma periódica y no una sola vez ([puntos ciegos](Analisis-de-competidores/puntos-ciegos.md)).
 
-El recorrido de [Análisis de competidores](Analisis-de-competidores/analisis-de-competidores.md#el-recorrido-de-la-decisión-al-perfil-de-respuesta) es el detalle del paso 5. Arranca en la misma pregunta del paso 1 y entrega un perfil de respuesta por rival, que es lo que usan los pasos 6 y 7.
+El recorrido de [Análisis de competidores](Analisis-de-competidores/analisis-de-competidores.md#el-recorrido-de-la-decisión-al-perfil-de-respuesta) es el detalle de los pasos 4 y 5. Arranca en la misma pregunta del paso 0 y entrega un perfil de respuesta por rival, que es lo que usan los pasos 7 y 8.
 
-El orden es de esta base, armado a partir de las fuentes de cada paso; ninguna fuente lo da entero. La guía práctica que lo recorre con una plantilla va a sumarse en `Fundamentos/`.
+El orden es de esta base, armado a partir de las fuentes de cada paso; ninguna fuente lo da entero. La guía práctica que lo recorre, con las acciones de cada paso, sus errores típicos y la plantilla del documento final, es el [recorrido de un análisis de competencia](Fundamentos/recorrido-analisis-de-competencia.md).
 
 ## Orden de lectura
 
