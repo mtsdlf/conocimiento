@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La columna del teckel es su punto débil: la raza es condrodistrófica, sus discos intervertebrales envejecen antes y se hernian con frecuencia (enfermedad de disco intervertebral, IVDD), y eso cambia lo que conviene con los saltos, las escaleras, el peso, el ejercicio y lo que se le pone al cuello.
+  La columna del teckel es su punto débil: la raza es condrodistrófica, sus discos intervertebrales envejecen antes y se hernian con frecuencia (enfermedad de disco intervertebral, IVDD), y eso obliga a pensar el ejercicio, el peso, los saltos y lo que se le pone al cuello, aunque en los saltos y las escaleras las fuentes no coinciden.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -20,7 +20,7 @@ revisado:
 
 # Columna del teckel
 
-La columna del teckel es su punto débil: la raza es condrodistrófica, sus discos intervertebrales envejecen antes y se hernian con frecuencia (enfermedad de disco intervertebral, IVDD), y eso cambia lo que conviene con los saltos, las escaleras, el peso, el ejercicio y lo que se le pone al cuello.
+La columna del teckel es su punto débil: la raza es condrodistrófica, sus discos intervertebrales envejecen antes y se hernian con frecuencia (enfermedad de disco intervertebral, IVDD), y eso obliga a pensar el ejercicio, el peso, los saltos y lo que se le pone al cuello, aunque en los saltos y las escaleras las fuentes no coinciden.
 
 > [!IMPORTANT]
 > Esta nota resume estudios y guías veterinarias para entender el riesgo; no reemplaza al veterinario. Ante dolor de espalda o cuello, o cualquier cambio al caminar, se consulta en el día (ver [signos de hernia de disco](signos-de-hernia-de-disco.md)). Nada de esta nota es una indicación de tratamiento ni de medicación.
