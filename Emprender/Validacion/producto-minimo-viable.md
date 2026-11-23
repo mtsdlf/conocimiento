@@ -36,7 +36,7 @@ Ries nombra uno en el blog de 2009, y el libro trae otros según resúmenes. Los
 
 | Tipo | Qué es | Qué prueba | Ejemplo y fuente |
 |---|---|---|---|
-| Smoke test | Un anuncio o una página que ofrece algo que todavía no existe, para medir cuántos lo piden | Si hay demanda por el concepto | El «AdWords smoke test» que Ries nombra en 2009 como forma barata de descubrir que un concepto es débil |
+| Smoke test | Un anuncio o una página que ofrece algo que todavía no existe, para medir cuántos lo piden | Si hay demanda por el concepto | El «AdWords smoke test» que Ries nombra en 2009 como forma barata de descubrir que un concepto es débil; para un servicio, la [página de oferta que mide](pagina-de-oferta-que-mide.md) |
 | Video | Un video que muestra cómo funcionaría el producto | Si el problema interesa lo suficiente como para anotarse | Dropbox, publicado en Hacker News el 4 de abril de 2007 como parte de su solicitud a Y Combinator (según notas secundarias; el libro lo usa como ejemplo según resúmenes) |
 | Concierge | El servicio se presta a mano, personalizado, a veces a un solo cliente | Si la solución resuelve el problema, antes de automatizarla | Del libro, según resúmenes |
 | Venta real hecha a mano (nombre de la base; los resúmenes lo llaman «la prueba de Zappos») | La vidriera parece un producto completo; atrás, todo se hace a mano | La hipótesis de valor con transacciones reales | Zappos, que compraba los zapatos recién cuando entraba un pedido (según resúmenes) |
