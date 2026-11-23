@@ -48,7 +48,7 @@ La decisión de la vertical es cuánto va a construcción de marca y cuánto a a
 
 Casi toda la evidencia de la vertical sale de marcas grandes y maduras: paneles de consumo masivo y la base de premios del IPA, sesgada hacia marcas británicas con presupuesto. Falta evidencia sobre marcas nuevas, SaaS para pymes, B2B de ticket bajo y Argentina; cada nota dice cuánto se sabe.
 
-## Las seis notas de marca
+## Las siete notas de marca
 
 - [Cómo crecen las marcas](como-crecen-las-marcas.md) — penetración, doble riesgo y disponibilidad mental y física según el Ehrenberg-Bass. Leerla primero.
 - [Efectos de corto y largo plazo](efectos-de-corto-y-largo-plazo.md) — por qué la publicidad rinde distinto según el plazo y qué se mide en cada uno. Leerla antes de decidir presupuesto.
@@ -56,3 +56,4 @@ Casi toda la evidencia de la vertical sale de marcas grandes y maduras: paneles 
 - [Proporciones marca-activación](proporciones-marca-activacion.md) — ficha con las cifras de Binet y Field, general, B2B y por contexto y sector, con fuente, fecha y grado de verificación.
 - [Capital de marca](capital-de-marca.md) — el efecto que el conocimiento de una marca produce en la respuesta del cliente, según Aaker y Keller, y su relación con los activos distintivos.
 - [Arquitectura de marca](arquitectura-de-marca.md) — cómo se ordenan las marcas de una empresa y con qué criterio una oferta nueva sale con la marca madre, con una propia o con las dos.
+- [Nombre e identidad de una oferta nueva](nombre-e-identidad-de-una-oferta.md) — cómo se elige un nombre que se registre y se recuerde, y lo mínimo de imagen y de voz para salir a vender.

@@ -64,7 +64,7 @@ Las reglas de inscripción también cambian por resolución de la IGJ. En 2026 l
 
 ## Lo que se va a sumar a Legal e impuestos
 
-Esta parte tiene por ahora una ficha, la [normativa para empezar en Argentina](normativa-para-empezar-en-argentina.md), con las normas vigentes al 2026-11-22. Los componentes que se van a sumar, tomados de la investigación, son estos:
+Esta parte tiene por ahora dos fichas: la [normativa para empezar en Argentina](normativa-para-empezar-en-argentina.md), con las normas vigentes al 2026-11-22, y el [registro de marca y dominio en Argentina](registro-de-marca-y-dominio-en-argentina.md), con lo que no se registra, el trámite del INPI y el .com.ar, al 2026-11-23. Los componentes que se van a sumar, tomados de la investigación, son estos:
 
 - Qué forma elegir: el árbol de decisión por responsabilidad, costo, socios e inversión.
 - Persona humana: monotributo y régimen general, y cuándo el primero se queda chico.
