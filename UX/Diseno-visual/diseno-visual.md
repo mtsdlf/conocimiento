@@ -34,7 +34,7 @@ La consecuencia práctica es que un rediseño visual no corrige un menú mal org
 
 > [!NOTE] Sin fuente todavía: una referencia que estudie el mito "UX es diseño visual" como tal. Lo que sostiene esta sección es el modelo de Garrett, leído por resúmenes, y la definición de ISO que cita [UX](../ux.md).
 
-La identidad de marca (logotipo, tono, capital de marca) es de otro tema: la define [Marca](../../Marketing/Marca/marca.md) en Marketing. El diseño visual de un producto la aplica a pantallas. Según esta base (inferencia, sin fuente), decide además cosas que la marca no cubre, como la jerarquía de una tabla o el estado de un botón.
+La identidad de marca (logotipo, tono, capital de marca) es de otro tema: la define [Marca](../../Marketing/Marca/marca.md) en Marketing, y lo mínimo para una oferta nueva está en [nombre e identidad de una oferta nueva](../../Marketing/Marca/nombre-e-identidad-de-una-oferta.md). El diseño visual de un producto la aplica a pantallas. Según esta base (inferencia, sin fuente), decide además cosas que la marca no cubre, como la jerarquía de una tabla o el estado de un botón.
 
 ## Gestalt: cómo agrupa el ojo antes de leer
 
