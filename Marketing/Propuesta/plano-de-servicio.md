@@ -61,7 +61,7 @@ Un punto de falla es, según la definición de Zeithaml, Bitner y Gremler que ci
 
 ## Con qué se confunde: el mapa del recorrido del cliente
 
-El mapa del recorrido del cliente (*customer journey map*) y el plano comparten la fila de acciones del cliente, pero miran desde lados distintos. Según NN/g, el mapa del recorrido sirve "to learn more about the end user"; el plano, en cambio, refleja la perspectiva de la organización. NN/g lo describe como "a part two to customer journey maps": primero se entiende la experiencia y después se diseña lo que la produce. La base todavía no tiene una nota sobre el mapa del recorrido; lo más cercano para entender al cliente es [jobs to be done](../Mercado-y-cliente/jobs-to-be-done.md).
+El mapa del recorrido del cliente (*customer journey map*) y el plano comparten la fila de acciones del cliente, pero miran desde lados distintos. Según NN/g, el mapa del recorrido sirve "to learn more about the end user"; el plano, en cambio, refleja la perspectiva de la organización. NN/g lo describe como "a part two to customer journey maps": primero se entiende la experiencia y después se diseña lo que la produce. Cómo se arma el mapa está en [mapa del recorrido del cliente](../../UX/Investigacion/mapa-del-recorrido-del-cliente.md), y cómo se usan los dos para revisar un producto que ya existe contra una oferta nueva, en [revisión del producto propio](../../Producto/Estrategia/revision-del-producto-propio.md).
 
 ## Dónde falla el método
 
