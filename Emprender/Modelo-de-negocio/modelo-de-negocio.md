@@ -111,6 +111,7 @@ Una empresa de software puede vender la herramienta, el trabajo hecho o la conex
 - [SaaS](saas.md) — software por suscripción: ingreso recurrente, costo de adquisición y márgenes.
 - [Servicios habilitados por tecnología](servicios-habilitados-por-tecnologia.md) — vender el trabajo hecho con software propio.
 - [Servicio productizado](servicio-productizado.md) — un servicio con alcance, nombre y precio fijos, que se vende como un producto.
+- [Abono de cuidado](abono-de-cuidado.md) — el pago mensual por mantener lo entregado: cuándo se ofrece, qué incluye, cómo se cobra y por qué se corta.
 - [Marketplace](marketplace.md) — la plataforma de dos lados como negocio: comisión, margen y fuga.
 - [Márgenes por modelo de negocio](margenes-por-modelo-de-negocio.md) — ficha de márgenes, comisiones y múltiplos (2025).
 

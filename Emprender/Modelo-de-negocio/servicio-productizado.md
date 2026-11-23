@@ -57,6 +57,8 @@ El precio fijo es parte de la definición, pero no hay un estudio que compare, e
 
 Los practicantes empujan contra la hora. Sawhney propone cobrar por tarea, por documento o por auditoría, para que entregar más rápido no baje el ingreso. Jonathan Stark, según la página de sus libros, sostiene que cambiar tiempo por plata es absurdo. Son argumentos de práctica, no mediciones.
 
+Cuando el servicio productizado se cobra todos los meses por mantener algo ya entregado, es un [abono de cuidado](abono-de-cuidado.md), que tiene sus propias preguntas: cuándo se ofrece, qué entra y por qué se corta.
+
 ## Cuándo no conviene
 
 - **Cuando la diferencia está en lo hecho a medida.** Wirtz y otros advierten que productizar "may not be suitable for all players in an industry": una consultora que compite por soluciones a medida pierde su diferencia si vende paquetes.
