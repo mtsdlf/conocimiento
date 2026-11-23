@@ -11,14 +11,10 @@ fuentes:
   - "Pendo, «2019 Feature Adoption Report»: https://www.pendo.io/resources/the-2019-feature-adoption-report/ (dato de un proveedor)"
   - "Mike Cohn, «Are 64% of Features Really Rarely or Never Used?», Mountain Goat Software: https://mountaingoatsoftware.com/blog/are-64-of-features-really-rarely-or-never-used"
   - "Chapman y Callegaro, «Kano Analysis: A Critical Survey Science Review», Sawtooth Software Conference 2022: https://quantuxbook.com/papers/REPRINT-Chapman-Callegaro-SawtoothConference2022.pdf"
-  - "Mikulić y Prebežac (2011), «A critical review of techniques for classifying quality attributes in the Kano model», Managing Service Quality: https://www.emerald.com/insight/content/doi/10.1108/09604521111100243/full/html"
-  - "Osterwalder, Pigneur, Bernarda y Smith, Value Proposition Design, Wiley, 2014, vía Strategyzer: https://www.strategyzer.com/library/value-proposition-design-book-summary (la página leída solo por resumen)"
+  - "Osterwalder, Pigneur, Bernarda y Smith, Value Proposition Design, Wiley, 2014, vía el resumen de Strategyzer: https://www.strategyzer.com/library/value-proposition-design-book-summary (el libro no se leyó)"
   - "Christensen, Hall, Dillon y Duncan, «Know Your Customers' Jobs to Be Done», HBR, sep-2016: https://hbr.org/2016/09/know-your-customers-jobs-to-be-done (no leído entero, muro de pago)"
-  - "Jeffries, Miller, Wharton y Uyeda (1991), «User interface evaluation in the real world: a comparison of four techniques», CHI: https://www.miramontes.com/writing/uievaluation/"
-  - "Gray y Salzman (1998), «Damaged Merchandise? A Review of Experiments That Compare Usability Evaluation Methods», Human-Computer Interaction 13(3): https://rauterberg.employee.id.tue.nl/lecturenotes/JFS-lecture/Gray&Salzman98a_HCI.pdf"
-  - "Hertzum y Jacobsen (2001), «The evaluator effect: a chilling fact about usability evaluation methods», IJHCI 13(4): https://forskning.ruc.dk/da/publications/the-evaluator-effect-a-chilling-fact-about-usability-evaluation-m/"
-  - "Jakob Nielsen, «How Many Test Users in a Usability Study?», NN/g, 3-jun-2012: https://www.nngroup.com/articles/how-many-test-users/"
-  - "Wharton, Rieman, Lewis y Polson (1994), «The cognitive walkthrough method: a practitioner's guide», en Nielsen y Mack (eds.), Usability Inspection Methods (no leído); NN/g, «Defining Cognitive Walkthroughs»: https://www.nngroup.com/articles/cognitive-walkthroughs/"
+  - "Nielsen (2000), «Why You Only Need to Test with 5 Users», NN/g, según la nota de test de usabilidad: https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/"
+  - "Teresa Torres, «Opportunity Solution Trees», Product Talk, 6-dic-2023: https://www.producttalk.org/opportunity-solution-trees/"
   - "Dan North, «Introducing BDD» (2006): https://dannorth.net/introducing-bdd/ ; Martin Fowler, «GivenWhenThen»: https://martinfowler.com/bliki/GivenWhenThen.html"
   - "Producto/.investigacion/revision-del-producto-propio.md"
 aliases: [feature audit, auditoría de funcionalidades, auditoría de producto, revisión de producto, revisar lo propio, sunsetting, sunset, retirar una funcionalidad, deprecación, apagar una funcionalidad, gap analysis, análisis de brechas, value proposition canvas, lienzo de la propuesta de valor]
@@ -30,13 +26,13 @@ revisado:
 
 Revisar el producto propio es juzgar lo que ya está construido contra una oferta nueva para decidir qué queda, qué se esconde, qué se apaga y qué falta, mirando lo que vive cada rol, y bajarlo a trabajo acotado. Las recetas son de practicantes; solo la evaluación de pantallas tiene estudios, y están discutidos.
 
-Hace falta cuando cambia lo que se vende y el producto queda igual: un software que se vendía para que el cliente lo use solo y pasa a venderse como servicio que alguien arma y mantiene, un plan nuevo para otro tipo de comprador, un mercado nuevo. Es el reflejo del [desarme de producto](../../Estrategia-competitiva/Analisis-de-competidores/desarme-de-producto.md), que estudia el producto de un rival; acá la vara no es el rival sino la [propuesta](../../Marketing/Propuesta/propuesta.md) nueva. Termina en lo que la [estrategia de producto](estrategia-de-producto.md) necesita: pocos problemas elegidos y una lista explícita de lo que no se hace.
+Hace falta cuando cambia lo que se vende y el producto queda igual: un software que el cliente usaba solo pasa a venderse como servicio que otro arma y mantiene, o aparece un plan para otro comprador. Es el reflejo del [desarme de producto](../../Estrategia-competitiva/Analisis-de-competidores/desarme-de-producto.md), que estudia el producto de un rival; acá la vara no es el rival sino la [propuesta](../../Marketing/Propuesta/propuesta.md) nueva. Termina en lo que la [estrategia de producto](estrategia-de-producto.md) necesita: pocos problemas elegidos y una lista explícita de lo que no se hace.
 
 ## La vara es el trabajo que contrata el comprador nuevo
 
 Cuando cambia la oferta, cambia el [trabajo que el cliente contrata](../../Marketing/Mercado-y-cliente/jobs-to-be-done.md). Quien antes contrataba una herramienta para hacer algo él mismo, ahora contrata que otro se lo tenga andando. Cada funcionalidad se juzga contra ese trabajo nuevo y no contra el viejo. Esto es una aplicación de esta base: Christensen y sus coautores presentan el marco con casos, y no hablan de revisar un producto existente.
 
-El cambio de oferta suele cambiar también quién usa cada parte del producto. Lo que antes tocaba el cliente puede pasar a tocarlo alguien de adentro que lo opera por él. Por eso la revisión se hace por rol y no por pantalla.
+El cambio de oferta suele cambiar también quién usa cada parte del producto. Lo que antes tocaba el cliente puede pasar a tocarlo alguien de adentro que lo opera por él. Por eso la revisión se hace por rol y no por pantalla. En esta nota hay tres: el que compra, que paga y usa lo que la oferta le promete; el que atiende, que habla con él (ventas, soporte); y el que opera, que hace el trabajo por detrás sin que el comprador lo vea.
 
 ## Los cuatro destinos de lo que hay
 
@@ -47,23 +43,23 @@ El cambio de oferta suele cambiar también quién usa cada parte del producto. L
 | Se apaga | No sirve al trabajo nuevo y se probó subir su uso sin resultado | Los cuatro pasos de retiro, más abajo |
 | Falta | El trabajo nuevo lo pide y no está | Lo que queda sin cubrir al cruzar la oferta con lo que hay |
 
-La tabla es una síntesis de esta base sobre las fuentes de las secciones que siguen; ninguna fuente usa estos cuatro nombres juntos.
+La tabla es una síntesis de esta base; ninguna fuente usa estos cuatro nombres juntos.
 
 ## Medir el uso antes de opinar
 
-Traynor (Intercom, 2014) propone poner cada funcionalidad en dos ejes: cuánta gente la usa y con qué frecuencia. Lo que muchos usan seguido es el corazón del producto. Se dejan afuera las cosas administrativas, como crear una cuenta o cambiar la contraseña, que son el costo de tener un producto y no lo que lo distingue. Para lo poco usado da cuatro salidas: sacarlo, conseguir que lo use más gente, conseguir que lo usen más seguido o mejorarlo para quienes ya dependen de él.
+Traynor (Intercom, 2014) propone poner cada funcionalidad en dos ejes: cuánta gente la usa y con qué frecuencia. Lo que muchos usan seguido es el corazón del producto. Se dejan afuera las cosas administrativas, como crear una cuenta o recuperar la contraseña, que son el costo de tener un producto y no lo que lo distingue. Para lo poco usado da cuatro salidas: sacarlo, conseguir que lo use más gente, conseguir que lo usen más seguido o mejorarlo para quienes ya dependen de él.
 
-El aviso que más importa al cambiar de oferta es el de la esquina de pocos usuarios que lo usan mucho. Según Traynor, eso suele ser cosa de clientes grandes, y antes de sacarlo hay que mirar quién es ese poco. Con una oferta nueva, ese poco puede ser justo el comprador que se busca, o el rol que va a operar el producto.
+El aviso que más importa al cambiar de oferta es el de la esquina de pocos usuarios que lo usan mucho. Según Traynor, eso es una funcionalidad mal adoptada o una de los planes para clientes grandes, y hay que mirar quién es ese poco antes de sacarla. Con una oferta nueva, ese poco puede ser justo el comprador que se busca, o el rol que va a operar el producto.
 
-Las cifras que circulan sobre cuánto de un producto no se usa son flojas. Pendo (2019) dice que el 80 % de las funcionalidades de un software promedio se usa poco o nunca, sobre 615 suscripciones de clientes suyos; es un proveedor de analítica, sin método abierto. El «64 %» atribuido a Standish sale, según Cohn, de cuatro aplicaciones internas de cuatro empresas. Ninguna de las dos sirve como evidencia general.
+Las cifras que circulan sobre cuánto de un producto no se usa son flojas: el 80 % de Pendo (2019) sale de 615 suscripciones de clientes de un proveedor de analítica, y el «64 %» atribuido a Standish, según Cohn, de cuatro aplicaciones internas.
 
 ## Clasificar lo que queda: Kano y el canvas
 
-Lo que queda se clasifica según lo que espera el comprador nuevo. El modelo de [Kano](../Planificacion-y-entrega/priorizacion.md#kano-clasificar-atributos-no-ordenarlos) separa lo imprescindible, que molesta si falta y no suma si está, de lo que suma cuanto más hay y de lo que encanta pero nadie extraña. La aplicación a lo existente es de esta base: lo imprescindible para el comprador nuevo va a «queda» o a «falta», lo indiferente es candidato a esconder, y lo que molesta si está (la categoría inversa) es el candidato más claro a sacar.
+Lo que queda se clasifica según lo que espera el comprador nuevo, con las categorías de [Kano](../Planificacion-y-entrega/priorizacion.md#kano-clasificar-atributos-no-ordenarlos). Además de las tres que nombra esa nota (imprescindible, unidimensional y atractivo), el modelo suele sumar dos más, según resúmenes del original: indiferente, lo que a nadie le importa si está o no, e inverso, lo que molesta si está. La aplicación es de esta base: lo imprescindible para el comprador nuevo va a «queda» o a «falta», lo indiferente es candidato a esconder y lo inverso es el candidato más claro a sacar.
 
-Kano por encuesta es frágil con pocos clientes. Chapman y Callegaro (2022) sostienen que sus preguntas piden predecir sentimientos ante algo hipotético, que la teoría del puntaje tiene poco respaldo empírico y que la clasificación es inestable con menos de unos 200 encuestados. Mikulić y Prebežac (2011) comparan cinco técnicas de clasificación y ubican al cuestionario de Kano entre las pocas que sirven antes de que el producto exista. Con una base chica de compradores, Kano sirve como vocabulario para discutir y no como medición.
+Kano por encuesta es frágil con pocos clientes: Chapman y Callegaro (2022) sostienen que sus preguntas piden predecir sentimientos ante algo hipotético y que la clasificación es inestable con menos de unos 200 encuestados. Con una base chica de compradores, Kano sirve como vocabulario para discutir y no como medición.
 
-El canvas de propuesta de valor de Osterwalder y sus coautores (2014) pone de un lado los trabajos, dolores y ganancias del cliente, y del otro los productos, lo que alivia cada dolor y lo que crea cada ganancia. Usado contra un producto existente, se dibuja el lado de la oferta con lo que el producto tiene hoy y se une cada pieza con el dolor que cubre. Lo que queda sin línea del lado del cliente es lo que falta; lo que queda sin línea del lado del producto sobra para esta oferta. Esa forma de contar las líneas sale de una adaptación de terceros, no del libro. Los autores aclaran que el encaje es una hipótesis hasta que los clientes lo confirman.
+El canvas de propuesta de valor de Osterwalder y sus coautores (2014) pone de un lado los trabajos, dolores y ganancias del cliente, y del otro los productos, lo que alivia cada dolor y lo que crea cada ganancia. Usado contra un producto existente, se dibuja el lado de la oferta con lo que el producto tiene hoy y se une cada pieza con el dolor que cubre. Lo que queda sin línea del lado del cliente es lo que falta; lo que queda sin línea del lado del producto sobra para esta oferta. Esa forma de contar las líneas sale de una adaptación de terceros, no del libro. El resumen de Strategyzer pide validar el encaje con evidencia y no con lo que opina el cliente sobre soluciones hipotéticas; el libro no se leyó.
 
 ## Apagar o esconder
 
@@ -74,7 +70,7 @@ Traynor (Intercom, 2015) ordena el retiro de una funcionalidad en cuatro pasos:
 3. **Separar a los que la probaron una vez**, a los que se les puede esconder casi sin aviso, de los que dependen de ella, que necesitan atención directa.
 4. **Avisar a los que quedan** con fecha de cierre, el porqué, alternativas y cómo llevarse sus datos, con un aviso de un mes a un año.
 
-Los pasos 2 y 3 son la diferencia entre esconder y apagar: esconder es dejar de ofrecer sin sacarle nada a quien depende; apagar es el paso 4. El manual de servicios del gobierno británico suma una pregunta antes de apagar: qué pasa con la necesidad que cubría, si desaparece, la cubre otro servicio o la cubre un tercero. Pide avisar temprano a quienes se integran por API y por sus propios canales a quienes usan atención asistida, y mantener las redirecciones hasta un año.
+Los pasos 2 y 3 son la diferencia entre esconder y apagar: esconder es dejar de ofrecer sin sacarle nada a quien depende; apagar es el paso 4. El manual de servicios del gobierno británico suma una pregunta antes de apagar: qué pasa con la necesidad que cubría, si desaparece, la cubre otro servicio o la cubre un tercero. Pide avisar temprano a quienes se integran por API y por sus propios canales a quienes usan atención asistida, y mantener las redirecciones alrededor de un año, con reglas que dependen de cuánto tiempo estuvo en línea el servicio.
 
 ## Mirar lo que vive cada rol
 
@@ -88,34 +84,22 @@ Cada rol (el que compra, el que atiende, el que opera por detrás) se mira por s
 | Tareas que se hacen por primera vez, como un alta o una configuración inicial | Recorrido cognitivo | Práctica de sus autores y un estudio comparativo |
 | Los problemas graves de verdad | [Test de usabilidad](../../UX/Evaluacion/test-de-usabilidad.md), unos pocos por rol y en rondas | Estudios |
 
-El plano de servicio es el único de la lista que pone en el mismo papel a los tres roles: el mapa del recorrido mira a uno solo. El recorrido cognitivo (Wharton y otros, 1994) es una inspección en la que un evaluador recorre una tarea con los ojos de alguien nuevo y en cada paso se pregunta si esa persona sabría qué hacer, si vería cómo hacerlo y si entendería que avanzó (las preguntas exactas no se cotejaron con el original). Sirve cuando la oferta nueva pone a alguien de adentro a hacer por primera vez lo que antes hacía el cliente.
+El plano de servicio es el único de la lista que pone en el mismo papel a los tres roles: el mapa del recorrido mira a uno solo. El recorrido cognitivo, explicado en la [evaluación heurística](../../UX/Evaluacion/evaluacion-heuristica.md#la-comparación-de-jeffries-cuatro-técnicas-sobre-el-mismo-producto), sirve cuando la oferta nueva pone a alguien de adentro a hacer por primera vez lo que antes hacía el cliente.
 
-Con roles tan distintos, cinco usuarios en total no alcanzan. Nielsen (2012) recomienda 3 o 4 participantes por grupo cuando hay varios grupos de usuarios distintos, y varias rondas chicas en lugar de una grande.
+Con roles tan distintos, cinco usuarios en total no alcanzan. Nielsen propone 3 o 4 participantes por grupo si son dos grupos y 3 por grupo si son tres o más, en varias rondas chicas en lugar de una grande; con tres roles, son 3 por rol (las cifras y su debate están en [test de usabilidad](../../UX/Evaluacion/test-de-usabilidad.md#de-dónde-sale-la-regla-de-los-cinco-usuarios)).
 
-Jeffries y otros (1991) evaluaron el mismo producto con cuatro técnicas:
-
-| Técnica | Problemas | Entre los más graves | Horas-persona |
-|---|---|---|---|
-| Heurística, por especialistas en interfaz | 105 | 28 | 35 |
-| Test con usuarios | 31 | 18 | 199 |
-| Guías de diseño | 35 | 12 | 86 |
-| Recorrido cognitivo | 35 | 9 | 43 |
-
-La heurística encontró más problemas y más barato, pero muchos menores y puntuales; el test encontró los graves y recurrentes, y el peor de todos lo encontró solo el test. Fue un producto, con seis usuarios, y la técnica se confunde con la experiencia de quien la aplicó.
-
-> [!IMPORTANT]
-> Esas comparaciones están discutidas. Gray y Salzman (1998) revisaron cinco comparaciones influyentes, entre ellas la de Jeffries, y encontraron fallas de validez que no permiten concluir que un método sea más eficiente que otro; hubo réplica en el mismo número. Hertzum y Jacobsen (2001), en 11 estudios, encontraron que dos evaluadores que miran lo mismo coinciden entre el 5 % y el 65 % de los problemas, con heurística, recorrido cognitivo o test. Ningún método ni ningún evaluador solo da la lista completa: se combinan métodos y se hacen varias rondas.
+Ningún método da solo la lista completa de problemas: la heurística encuentra muchos y barato, el test es el mejor para los recurrentes, y cada uno deja pasar problemas serios que otro ve; la comparación de Jeffries y sus críticas están en la misma nota.
 
 ## De la revisión a lo que se construye
 
 Lo que sale de la revisión baja a trabajo por cuatro caminos que ya están en la base:
 
 - **Lo que falta y su orden**: el recorrido de cada rol tiene la forma de la columna vertebral del [mapa de historias](../Descubrimiento/dar-forma-a-una-solucion.md#story-mapping-el-recorrido-y-los-cortes-de-entrega) de Patton, y las entregas se cortan de punta a punta. Pasar del mapa del recorrido al de historias es una inferencia de esta base: ni Patton ni NN/g lo formalizan.
-- **Las oportunidades**: Torres sí formaliza el puente. El mapa de experiencia es la primera capa del [árbol de oportunidades](../Descubrimiento/arbol-de-oportunidades.md), y cada oportunidad se cuelga del momento del recorrido donde ocurre.
+- **Las oportunidades**: Torres arma un mapa de experiencia con las historias de las entrevistas y cuelga cada oportunidad del momento donde ocurre, como primera capa del [árbol de oportunidades](../Descubrimiento/arbol-de-oportunidades.md). Su mapa es más general que el [mapa del recorrido](../../UX/Investigacion/mapa-del-recorrido-del-cliente.md#con-qué-se-confunde), pero cumple el mismo papel: es el puente más explícito entre un recorrido y el trabajo.
 - **Lo que se esconde o se apaga**: entra como «lo que no entra» (*no-gos*) del [pitch](../Descubrimiento/dar-forma-a-una-solucion.md#el-pitch-y-el-prd-corto), con un apetito que acota la solución. Así el «no» queda escrito y no se reabre en cada ciclo.
 - **Lo que tiene que hacer cada rol**: cada paso del plano de servicio se puede escribir como escenario «dado, cuando, entonces», el formato de North y Matts para los criterios de aceptación de una [historia de usuario](../../Desarrollo/Especificacion-y-prueba/historia-de-usuario.md). Hacerlo por rol es una inferencia de esta base.
 
-Lo que se entrega se juzga después por el [resultado](resultados-y-entregables.md) que mueve y no por la lista de lo construido. Como vara de servicio entero, el estándar del gobierno británico pide, entre otros puntos, resolver un problema entero y no un pedazo (punto 2), unir la experiencia en todos los canales, también los que no son digitales (punto 3), y operar un servicio confiable (punto 14). Es práctica documentada por la organización que lo usa para auditar sus servicios, sin datos de eficacia.
+Lo que se entrega se juzga después por el [resultado](resultados-y-entregables.md) que mueve y no por la lista de lo construido. Como vara del servicio entero sirve el estándar del gobierno británico, que pide resolver un problema entero y no un pedazo, unir todos los canales, también los no digitales, y operar un servicio confiable (puntos 2, 3 y 14).
 
 ## Un orden para hacerlo
 
@@ -130,11 +114,11 @@ El orden es de esta base, armado con las piezas de arriba:
 7. Retirá lo que se apaga con los cuatro pasos de Traynor.
 
 > [!IMPORTANT]
-> Lo que no tiene evidencia: no se encontraron estudios de que la auditoría de uso, el retiro de funcionalidades, el canvas de propuesta de valor, el análisis de brechas, el mapa del recorrido, el plano de servicio, el mapa de historias, el pitch, el árbol de oportunidades, los criterios «dado, cuando, entonces» o el estándar británico mejoren decisiones o resultados. Tampoco se encontró nada sobre el caso de un software que pasa a venderse como servicio gestionado. Lo único con estudios es la evaluación de pantallas, y esos estudios están discutidos. La superioridad de jobs to be done sobre otros enfoques descansa en casos de sus autores.
+> Lo que no tiene evidencia: no se encontraron estudios de que mejoren decisiones o resultados la auditoría de uso, el retiro de funcionalidades, el canvas, el análisis de brechas (comparar el estado de hoy con el deseado, sin un método canónico), los mapas, el pitch, el árbol de oportunidades, los criterios «dado, cuando, entonces» ni el estándar británico. Tampoco nada sobre un software que pasa a venderse como servicio gestionado. Jobs to be done se apoya en casos de sus autores. Solo la evaluación de pantallas tiene estudios, y están discutidos.
 
 > [!NOTE]
-> Sin fuente todavía: el texto original de Kano (1984), las preguntas exactas del recorrido cognitivo, las cifras de Faulkner (2003) y de los estudios CUE de Molich leídas en el original, y el modelo de las brechas de servicio de Parasuraman, Zeithaml y Berry (1985), que no se revisó.
+> Sin fuente todavía: el texto original de Kano (1984) y el modelo de las brechas de servicio de Parasuraman, Zeithaml y Berry (1985), que no se revisó.
 
 ## Qué leer
 
-Las dos notas de Traynor en el blog de Intercom son cortas y concretas: en la de 2014, el gráfico de dos ejes y la esquina de pocos que usan mucho; en la de 2015, los cuatro pasos. Para retirar algo que otros usan para integrarse, «Retiring your service» del manual británico. Para no confiar en un solo método de evaluación, el resumen de Hertzum y Jacobsen (2001).
+Las dos notas de Traynor en el blog de Intercom son cortas y concretas: en la de 2014, el gráfico de dos ejes y la esquina de pocos que usan mucho; en la de 2015, los cuatro pasos. Para retirar algo que otros usan para integrarse, «Retiring your service» del manual británico. Para no confiar en un solo método de evaluación, la [evaluación heurística](../../UX/Evaluacion/evaluacion-heuristica.md), con la comparación de Jeffries y sus críticas.
