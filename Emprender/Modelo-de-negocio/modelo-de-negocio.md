@@ -110,6 +110,7 @@ Una empresa de software puede vender la herramienta, el trabajo hecho o la conex
 - [Modelos de negocio de software](modelos-de-negocio-de-software.md) — los tres modelos comparados, y sus híbridos.
 - [SaaS](saas.md) — software por suscripción: ingreso recurrente, costo de adquisición y márgenes.
 - [Servicios habilitados por tecnología](servicios-habilitados-por-tecnologia.md) — vender el trabajo hecho con software propio.
+- [Servicio productizado](servicio-productizado.md) — un servicio con alcance, nombre y precio fijos, que se vende como un producto.
 - [Marketplace](marketplace.md) — la plataforma de dos lados como negocio: comisión, margen y fuga.
 - [Márgenes por modelo de negocio](margenes-por-modelo-de-negocio.md) — ficha de márgenes, comisiones y múltiplos (2025).
 

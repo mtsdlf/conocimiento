@@ -15,7 +15,7 @@ fuentes:
   - "TechCrunch, The AI services transformation may be harder than VCs think (28 de septiembre de 2025), según resumen: https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/"
   - "Emprender/.investigacion/modelos-saas-y-servicios.md"
   - "Emprender/.investigacion/oportunidades-y-modelos-contraria.md"
-aliases: [tech-enabled services, servicios con software, software con servicio, done for you, hecho para vos, service-as-software, services-as-software, full-stack startup, servicio productizado]
+aliases: [tech-enabled services, servicios con software, software con servicio, done for you, hecho para vos, service-as-software, services-as-software, full-stack startup]
 creado: 2026-11-22
 revisado:
 ---
@@ -48,7 +48,7 @@ La lectura de esta base es que el margen sube a medida que el software hace más
 
 ## Cómo cobra y cómo crece
 
-Se puede cobrar una cuota mensual por un servicio continuo, un precio por tarea o un precio por resultado; solo el último tiene una fuente que lo describe. Foundation Capital da el ejemplo del software que cobra «based on the number of qualified opportunities or signed customers» que entrega, y sostiene que eso «aligns the software's cost with the value it actually brings». No se encontró una fuente con datos sobre cuál de estas formas funciona mejor, ni sobre los servicios productizados.
+Se puede cobrar una cuota mensual por un servicio continuo, un precio por tarea o un precio por resultado; solo el último tiene una fuente que lo describe. Foundation Capital da el ejemplo del software que cobra «based on the number of qualified opportunities or signed customers» que entrega, y sostiene que eso «aligns the software's cost with the value it actually brings». No se encontró una fuente con datos sobre cuál de estas formas funciona mejor. Qué se sabe de vender un servicio con alcance y precio fijos está en [servicio productizado](servicio-productizado.md).
 
 Crece con gente: cada cliente nuevo pide horas, salvo la parte que el software automatiza (lectura de esta base). La ventaja comercial que dan los fondos es que se vende contra el presupuesto de trabajo y no contra el de software, y que el cliente no tiene que aprender nada. Esa ventaja es la tesis de quienes invierten; no hay estudio independiente.
 

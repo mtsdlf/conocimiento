@@ -51,8 +51,9 @@ La evidencia sale de marcas grandes de consumo masivo, así que el criterio es i
 > [!NOTE]
 > Sin fuente todavía: un estudio de pares que mida el efecto causal de la diferenciación sin preguntarla de forma directa.
 
-## Posicionamiento y diferenciación, en detalle
+## Las notas de propuesta
 
 - [Posicionamiento](posicionamiento.md) — las cinco piezas de Dunford y de dónde sale el cliente correcto. Leerla primero.
 - [Mapa de posicionamiento](mapa-de-posicionamiento.md) — el mapa perceptual: de dónde sale, cómo se arma con clientes, por qué el del equipo engaña y en qué se diferencia del lienzo estratégico y del mapa de grupos estratégicos.
 - [Distintividad o diferenciación](distintividad-o-diferenciacion.md) — las posiciones del Ehrenberg-Bass, Ritson y sus críticos, las dos lecturas de diferenciación y cómo se decide con poco presupuesto.
+- [Plano de servicio](plano-de-servicio.md) — el diagrama que pone en paralelo lo que hace el cliente y lo que hace la empresa, visible e invisible, para diseñar cómo se cumple lo que se promete en un servicio.
