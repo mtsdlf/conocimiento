@@ -168,3 +168,21 @@ Cosas que se dicen seguido y que **no pude respaldar con una fuente primaria** e
 - **El daño a la confianza que causa una puerta falsa**, y el mejor momento para avisar. Solo hay opinión de blogs de producto; ningún estudio.
 - **Las cifras de los estudios de Cialdini** (toallas de hotel, lista de donantes) y **el texto completo de Hart (1988)**: los vi citados, no en el original.
 - **Alex Hormozi:** no consultado.
+
+---
+
+## Correcciones del cotejo con fuentes (23/11/2026)
+
+Un revisor que no escribió la nota volvió a abrir las fuentes. Lo que cambia de este informe:
+
+- **Fitzpatrick, cap. 5, p. 80:** quien escribe el caso es el que vende, no el cliente: «you could ask to write a case study about them after they've spent 2 weeks using it».
+- **Savoia, hipótesis XYZ:** los dos resúmenes citados (Product Compass, Shortform) no traen la fórmula en su parte libre; aparece en resúmenes secundarios como helio.zurb.com. No se leyó en el libro.
+- **Hanley y Lippman-Hand (1983):** el arXiv 2109.12464 no los cita; la referencia está en PubMed (JAMA 249(13):1743-5, PMID 6827763), sin resumen.
+- **Kromatic:** pide que la página diga que la función está en desarrollo; no dice «no cobrar antes de entregar» (sugiere seguir con preventa o seña).
+- **Savoia, capítulos:** el aviso de cancelación y la fecha del ejemplo están en el cap. 5 (p. 50); el nutricionista, en el cap. 6 (p. 60), y es una prueba hecha a mano, no una puerta falsa.
+- **NN/g, patrón en F:** aparece sobre todo con texto sin formato y no es el único patrón.
+- **Evan Miller, 26,1 %:** es un cálculo de peor caso (mirar después de cada observación), no una simulación.
+- **600 visitas por versión:** vale para 2 % contra 5 % con la varianza de la tasa media (3,5 %).
+- **La tabla de intervalos es toda de Wilson;** la binomial exacta se usó para el 36 % y los tamaños de muestra.
+- **Fitzpatrick, p. 81:** lo de las señales tempranas lo dice de la venta a grandes empresas (enterprise).
+- **Unbounce 2024** se leyó a través de un extracto de WebFetch; la cifra de 2020 viene de MarketingProfs.
