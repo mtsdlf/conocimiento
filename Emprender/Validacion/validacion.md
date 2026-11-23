@@ -70,7 +70,7 @@ Hay también una falla del método entero, con evidencia experimental. Ries advi
 1. [Hipótesis de salto de fe](hipotesis-de-salto-de-fe.md): los supuestos de valor y de crecimiento que se prueban primero.
 2. [Descubrimiento de clientes](descubrimiento-de-clientes.md): salir a hablar con clientes sin sesgar las respuestas; el puente entre Blank y Ries.
 3. [Construir-medir-aprender](construir-medir-aprender.md): el ciclo de Ries, el aprendizaje validado y los lotes pequeños. Ordena las tres notas que siguen.
-4. [Producto mínimo viable](producto-minimo-viable.md): qué es un MVP, sus tipos y cómo se elige el más barato que prueba una hipótesis.
+4. [Producto mínimo viable](producto-minimo-viable.md): qué es un MVP, sus tipos y cómo se elige el más barato que prueba una hipótesis. Para un servicio que se vende con una charla, el MVP más barato suele ser la [página de oferta que mide](pagina-de-oferta-que-mide.md): qué lleva, qué se cuenta, con qué umbral y con cuánto tráfico se concluye.
 5. [Contabilidad de la innovación](contabilidad-de-la-innovacion.md): medir el avance con métricas accionables, no de vanidad.
 6. [Pivotar o perseverar](pivotar-o-perseverar.md): la decisión, los tipos de pivote y la evidencia experimental sobre pivotar.
 7. [Tamaño de mercado](tamano-de-mercado.md): el TAM del mercado cabeza de playa de Aulet y la tríada TAM, SAM y SOM de la práctica de inversión; un cálculo, no un experimento. Se puede leer en cualquier momento.
