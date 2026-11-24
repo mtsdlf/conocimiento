@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El plan financiero mínimo es una planilla de caja de doce meses, mes por mes: cuánta plata hay, cuánta entra, cuánta sale y con cuánto se termina cada mes. Sirve para saber cuántos meses se puede probar con la plata que hay y en qué mes habría que actuar, y vale lo que valen sus supuestos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance 2e, 19.6 Using Excel to Create the Short-Term Plan (libro de texto abierto; leído vía resumen con citas): https://openstax.org/books/principles-finance-2e/pages/19-6-using-excel-to-create-the-short-term-plan"
@@ -20,7 +20,7 @@ fuentes:
   - "Emprender/.investigacion/plata-de-un-servicio-contraria.md"
 aliases: [flujo de caja proyectado, presupuesto de caja, cash flow forecast, cash budget, proyección de caja, planilla de caja, plan financiero]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Plan financiero mínimo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un proyecto a precio cerrado es un trabajo que se cobra con un precio y un alcance fijados antes de empezar, de modo que si cuesta más de lo estimado la diferencia la paga el proveedor. Esta base ordena en cuatro pasos lo que hace falta para que no se coma el margen: estimar con un rango y no con un número, fijar el alcance por escrito, cobrar los cambios contra ese escrito y cerrar con una aceptación formal.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Jørgensen (2004), A Review of Studies on Expert Estimation of Software Development Effort, Journal of Systems and Software 70 (versión de Simula, abstract y sección de sobreoptimismo leídos): https://cms.simula.no/sites/default/files/publications/SE.4.Joergensen.2004.c.pdf"
@@ -26,7 +26,7 @@ fuentes:
   - "Emprender/.investigacion/plata-de-un-servicio-contraria.md"
 aliases: [precio cerrado, precio fijo, fixed price, fixed bid, FPFS, presupuesto cerrado, llave en mano, change request, change order, solicitud de cambio, scope creep, aceptación]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Proyecto a precio cerrado

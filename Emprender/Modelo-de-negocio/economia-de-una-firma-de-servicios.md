@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una firma de servicios profesionales gana plata con tres palancas que se multiplican: el margen de cada peso cobrado, cuánto factura cada persona (tarifa por utilización) y cuánta gente trabaja por cada socio (apalancamiento). Cuánto apalancamiento admite depende del tipo de trabajo, y el trabajo se vuelve más rutinario y más barato con los años.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "David Maister, The Anatomy of a Consulting Firm (artículo en su sitio, prosa leída, figuras no): https://davidmaister.com/articles/16/2/"
@@ -23,7 +23,7 @@ fuentes:
   - "Emprender/.investigacion/plata-de-un-servicio-contraria.md"
 aliases: [professional service firm, firma de servicios profesionales, apalancamiento, leverage, utilización facturable, billable utilization, rentabilidad por socio, profit per partner, brains grey hair procedure, pirámide, Maister]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Economía de una firma de servicios
