@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El SEO de una tienda es el trabajo para que sus páginas de producto y de categoría aparezcan en los resultados orgánicos de los buscadores, sobre todo Google, y en sus espacios gratuitos de producto. Según la ayuda de las plataformas, una alojada resuelve casi todo lo técnico; lo que queda en manos del comercio son los textos, la estructura del catálogo y el control de las páginas que la tienda genera sola.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Google Search Central, SEO Starter Guide: https://developers.google.com/search/docs/fundamentals/seo-starter-guide (leída a través de un extracto, 2026-11-24)"
@@ -39,7 +39,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/seo-por-plataforma.md"
 aliases: [SEO, SEO de ecommerce, ecommerce SEO, posicionamiento en buscadores, posicionamiento orgánico, posicionamiento web de una tienda, búsqueda orgánica, tráfico orgánico]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # SEO de una tienda

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que Tiendanube, Shopify y WooCommerce fijan y dejan cambiar para el posicionamiento en buscadores (direcciones, títulos, sitemap, robots.txt, canónicas, variantes, datos estructurados, Merchant Center, redirecciones y velocidad), según su documentación pública. Consultado el 2026-11-24.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ayuda de Tiendanube, opciones avanzadas de SEO de productos: https://ayuda.tiendanube.com/es_AR/160351-seo-del-producto/que-son-las-opciones-avanzadas-de-seo-de-mis-productos (leída a través de un extracto, 2026-11-24)"
@@ -28,7 +28,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/seo-por-plataforma.md"
 aliases: [SEO en Tiendanube, SEO en Shopify, SEO en WooCommerce]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # SEO por plataforma
