@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La arquitectura de marca es cómo una empresa ordena sus marcas y qué papel le da a cada una: decide si una oferta nueva sale con la marca de la empresa, con una marca propia o con una combinación de las dos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Aaker y Joachimsthaler (2000), «The Brand Relationship Spectrum: The Key to the Brand Architecture Challenge», California Management Review 42(4), 8-23, DOI 10.1177/000812560004200401: https://cmr-mig.berkeley.edu/2000/08/42-4-the-brand-relationship-spectrum-the-key-to-the-brand-architecture-challenge (metadatos; el texto se leyó en una copia no verificada: https://www.slideshare.net/slideshow/aaker-brand-architecture/13271534)"
@@ -13,7 +13,7 @@ fuentes:
   - "Berthon, Ewing y Napoli (2008), Journal of Small Business Management 46(1), 27-45 (abstract): https://ideas.repec.org/a/taf/ujbmxx/v46y2008i1p27-45.html"
 aliases: [brand architecture, espectro de relación de marcas, brand relationship spectrum, casa con marca, branded house, casa de marcas, house of brands, marca respaldada, endorsed brand, submarca, X by Y, marca madre]
 creado: 2026-11-23
-revisado:
+revisado: 2026-11-24
 ---
 
 # Arquitectura de marca

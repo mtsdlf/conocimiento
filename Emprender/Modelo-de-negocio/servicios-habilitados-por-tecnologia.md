@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un servicio habilitado por tecnología vende el trabajo hecho y no la herramienta: la empresa usa su propio software (y hoy, IA) para entregar un resultado que el cliente haría solo con un SaaS. Según los fondos que invierten en el modelo, captura más valor por cliente y vende más fácil a quien no quiere aprender una herramienta; sus márgenes y su valuación, medidos en servicios de TI, quedan muy por debajo del software.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Chris Dixon, Full stack startups (2014), según citas de terceros (el original dio error)"
@@ -17,7 +17,7 @@ fuentes:
   - "Emprender/.investigacion/oportunidades-y-modelos-contraria.md"
 aliases: [tech-enabled services, servicios con software, software con servicio, done for you, hecho para vos, service-as-software, services-as-software, full-stack startup]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-24
 ---
 
 # Servicios habilitados por tecnología

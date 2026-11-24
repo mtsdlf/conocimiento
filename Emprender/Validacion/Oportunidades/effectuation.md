@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Effectuation es la lógica de decisión que Saras Sarasvathy encontró en emprendedores expertos: en lugar de elegir la mejor oportunidad según una predicción, parten de quiénes son, qué saben y a quién conocen, y eligen lo que pueden hacer arriesgando solo lo que están dispuestos a perder. Describe bien cómo razonan los expertos; si mejora el desempeño tiene evidencia positiva pero débil y dependiente del contexto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Saras Sarasvathy (2001), Causation and effectuation: toward a theoretical shift from economic inevitability to entrepreneurial contingency, Academy of Management Review 26(2):243-263 (según su abstract), DOI 10.5465/amr.2001.4378020"
@@ -26,7 +26,7 @@ fuentes:
   - "Emprender/.investigacion/fundamentos-y-escuelas.md"
 aliases: [effectuation, efectuación, lógica efectual, pérdida asumible, affordable loss, bird in hand, pájaro en mano, causación, causation]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-24
 ---
 
 # Effectuation

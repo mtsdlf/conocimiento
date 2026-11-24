@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un servicio productizado es un servicio que se vende como un producto: con un alcance definido, un proceso que se repite, un nombre y un precio fijo anunciado de antemano, en lugar de armarse y cotizarse de cero para cada cliente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wirtz, Fritze, Jaakkola, Gelbrich y Hartley (2021), «Service Products and Productization», Journal of Business Research (manuscrito aceptado, leído entero): https://web2-bschool.nus.edu.sg/wp-content/uploads/media_rp/publications/sx3Ej1630635520.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Emprender/.investigacion/servicio-productizado.md"
 aliases: [productized service, servicio empaquetado, productización, productisation, productization, service productization, servicio a precio fijo, paquete de servicio, done for you]
 creado: 2026-11-23
-revisado:
+revisado: 2026-11-24
 ---
 
 # Servicio productizado

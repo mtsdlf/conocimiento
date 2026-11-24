@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El plano de servicio (service blueprint) es un diagrama que pone en paralelo lo que hace el cliente y lo que hace la organización para atenderlo, en lo que el cliente ve y en lo que no ve, para diseñar un servicio y encontrar dónde puede fallar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bitner, Ostrom y Morgan (2008), «Service Blueprinting: A Practical Technique for Service Innovation», California Management Review 50(3), 66-94: https://cmr.berkeley.edu/2008/05/50-3-service-blueprinting-a-practical-technique-for-service-innovation/ (copia leída entera: https://www.ba.ihu.gr/wp-content/uploads/2026/03/bitner-et-al-2008-service-blueprinting-a-practical-technique-for-service-innovation.pdf)"
@@ -13,7 +13,7 @@ fuentes:
   - "Patrício, Fisk y Falcão e Cunha (2008), «Designing Multi-Interface Service Experiences: The Service Experience Blueprint», Journal of Service Research 10(4) (metadatos): https://api.crossref.org/works/10.1177/1094670508314264"
 aliases: [service blueprint, service blueprinting, blueprint de servicio, plano del servicio, línea de visibilidad, punto de falla, fail point, onstage, backstage]
 creado: 2026-11-23
-revisado:
+revisado: 2026-11-24
 ---
 
 # Plano de servicio

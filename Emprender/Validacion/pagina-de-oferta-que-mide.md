@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La página de oferta que mide es una página que ofrece un servicio como si ya se vendiera y cuenta cuántos piden la charla o dejan una seña, para saber si interesa antes de invertir más. Sirve si el umbral se escribe antes, si se cuentan compromisos y no visitas, y si lo ofrecido se puede entregar a mano.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Alberto Savoia, Pretotype It, 2.ª edición (2011), caps. 4 a 6, pp. 44-61: https://www.pretotyping.org/uploads/1/4/0/9/14099067/pretotype_it_2nd_pretotype_edition-2.pdf"
@@ -27,7 +27,7 @@ fuentes:
   - "Emprender/.investigacion/pagina-de-oferta-que-mide.md"
 aliases: [fake door, puerta falsa, painted door, landing page test, prueba de landing, página de aterrizaje que mide, prueba de humo con una página]
 creado: 2026-11-23
-revisado:
+revisado: 2026-11-24
 ---
 
 # Página de oferta que mide

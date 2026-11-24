@@ -1,13 +1,13 @@
 ---
 resumen: >-
   El posicionamiento es el contexto en el que se presenta un producto para que su valor resulte obvio al cliente correcto: la decisión de contra qué lo comparan y para quién es la mejor opción.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "April Dunford, Obviously Awesome (2019)"
 aliases: [Positioning]
 creado: 2026-09-30
-revisado:
+revisado: 2026-11-24
 ---
 
 # Posicionamiento

@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Jobs to be done (JTBD) es la idea de que la gente no compra productos sino que «contrata» algo para progresar en una situación concreta; la competencia real es todo lo que podría contratar para ese mismo trabajo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Clayton Christensen et al., Competing Against Luck (2016)"
   - "Bob Moesta, Demand-Side Sales 101 (2020); fuente de la nota previa, no leída en la investigación del 2026-11-18"
 aliases: [JTBD, Jobs to be done, trabajos por hacer]
 creado: 2026-09-30
-revisado:
+revisado: 2026-11-24
 ---
 
 # Jobs to be done

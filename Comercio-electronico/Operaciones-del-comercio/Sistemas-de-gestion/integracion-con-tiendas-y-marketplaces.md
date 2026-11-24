@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Integrar un sistema de gestión con una tienda online o un marketplace es copiar productos, precios, stock y pedidos de un lado al otro por sus APIs, con un sistema que manda en cada dato y el otro que lo refleja. Falla cuando el aviso de una venta se pierde o llega dos veces, cuando el permiso de acceso vence o cuando dos canales venden la misma unidad entre una copia y la siguiente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Tiendanube, API, autenticación: https://tiendanube.github.io/api-documentation/authentication (consultada el 2026-11-22, por extracto)"
@@ -18,7 +18,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/contraria-gestion-y-local.md"
 aliases: [integración ERP ecommerce, sincronización de stock, conector, middleware, integración con Mercado Libre, sync de stock, webhook, token de acceso]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-24
 ---
 
 # Integración con tiendas y marketplaces

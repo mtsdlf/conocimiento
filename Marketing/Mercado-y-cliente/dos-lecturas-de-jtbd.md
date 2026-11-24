@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Jobs to be done tiene dos lecturas: la de Ulwick (ODI) trata el trabajo como una tarea con resultados que se miden por encuesta, y la de Moesta y Klement como un progreso que se reconstruye con entrevistas de cambio. Se elige según la pregunta y la cantidad de clientes que se pueden consultar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Strategyn, qué es JTBD (parte interesada): https://strategyn.com/jobs-to-be-done/"
@@ -12,7 +12,7 @@ fuentes:
   - "Resumen de la disputa Klement vs. Ulwick (fuente partidaria): https://juanswiki.notion.site/Jobs-to-be-done-85c71973b6354b4e9048d8ec2c1302e3"
 aliases: [ODI, Outcome-Driven Innovation, JTBD-A, JTBD-P, switch interview, entrevista de cambio, Ulwick vs. Moesta, Ulwick vs. Klement]
 creado: 2026-11-18
-revisado:
+revisado: 2026-11-24
 ---
 
 # Dos lecturas de Jobs to be done: ODI o progreso

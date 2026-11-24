@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Distintividad o diferenciación es la elección entre invertir en que la marca se reconozca o en que se la perciba distinta. El Ehrenberg-Bass prioriza lo primero, Ritson pide las dos, y el choque depende de qué se llama "diferenciación".
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Romaniuk, Sharp y Ehrenberg, Evidence concerning the importance of perceived brand differentiation, Australasian Marketing Journal 15(2), 42-54 (2007; EconBiz dice 2010): no leído"
@@ -14,7 +14,7 @@ fuentes:
   - "Informes .investigacion/marca-y-crecimiento.md (P8) y .investigacion/posicion-contraria.md (E3), 2026-11-18"
 aliases: [distinctiveness, differentiation, activos distintivos, distinctive brand assets, salience, bothism, diferenciación relativa, USP]
 creado: 2026-11-18
-revisado:
+revisado: 2026-11-24
 ---
 
 # Distintividad o diferenciación
