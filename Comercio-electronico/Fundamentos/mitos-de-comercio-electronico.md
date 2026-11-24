@@ -27,7 +27,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, parte B; Comercio-electronico/.investigacion/checkout-y-conversion.md, secciones 1 y 2; Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md, secciones 1 y 5"
 aliases: [mitos de SEO, mitos del e-commerce, e-commerce myths, 70% de carritos abandonados, cuotas sin interés gratis, promedio de conversión]
 creado: 2026-11-22
-revisado: 2026-11-22
+revisado: 2026-11-24
 ---
 
 # Mitos de comercio electrónico

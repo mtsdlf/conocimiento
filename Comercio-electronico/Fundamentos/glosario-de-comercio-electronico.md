@@ -19,7 +19,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, sección A7; Comercio-electronico/.investigacion/plataforma-de-tiendas.md; Comercio-electronico/.investigacion/pagos.md; Comercio-electronico/.investigacion/checkout-y-conversion.md; Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md; Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md"
 aliases: [glosario de e-commerce, términos de comercio electrónico, e-commerce glossary, siglas de comercio electrónico]
 creado: 2026-11-22
-revisado: 2026-11-22
+revisado: 2026-11-24
 ---
 
 # Glosario de comercio electrónico
