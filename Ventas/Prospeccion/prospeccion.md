@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Prospectar es conseguir con quién hablar: encontrar a quién le podría servir lo que uno vende y llegar a una primera conversación, sea saliendo a buscarlo (prospección saliente) o atendiendo a quien se acerca (prospección entrante). Es el primer paso de una venta y termina donde empieza el descubrimiento.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Moncrief y Marshall (2005), The evolution of the seven steps of selling, Industrial Marketing Management 34(1):13-22 (según resúmenes y citas; no se leyó el texto)"
@@ -13,7 +13,7 @@ fuentes:
   - "Ventas/.investigacion/prospeccion-perfil-y-listas.md, prospeccion-contacto-y-seguimiento.md y prospeccion-contraria.md (2026-11-24)"
 aliases: [prospección, prospecting, prospectar, generación de oportunidades, lead generation, prospección saliente, outbound, prospección entrante, inbound, Predictable Revenue, SDR, BDR, conseguir clientes]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Prospección

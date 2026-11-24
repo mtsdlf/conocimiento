@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El seguimiento es volver a escribir o llamar a quien no contestó el primer contacto, con una secuencia decidida de antemano: cuántos intentos, cada cuánto, por qué canales y cuándo soltar. Los datos que hay son de proveedores y dicen que conviene insistir algunas veces, no cuántas; la cifra de que el 80% de las ventas llega después del quinto contacto no tiene fuente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "SMEI, Sales statistics (2021): https://smei.org/sales-statistics/ (leída en resumen)"
@@ -17,7 +17,7 @@ fuentes:
   - "Ventas/.investigacion/prospeccion-contacto-y-seguimiento.md (componente 2) y prospeccion-contraria.md (puntos 1 y 7)"
 aliases: [seguimiento, follow-up, follow up, cadencia, sales cadence, cadencia de ventas, secuencia, toques, touches, cuántas veces insistir, 80% de las ventas después del quinto contacto]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Seguimiento

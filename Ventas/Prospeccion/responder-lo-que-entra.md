@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Responder lo que entra es atender a quien se acercó por su cuenta (una consulta, un formulario, un mensaje) y llevarlo a una primera conversación. Lo que más se estudió es la velocidad: contestar en minutos se asocia con muchas más chances de hablar con el interesado que contestar en horas, y las auditorías que hay, casi todas de proveedores, encuentran que muchas empresas contestan tarde o nunca.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Resumen del InsideSales.com/MIT Lead Response Management Study (Oldroyd y Elkington, 2007): https://www.mortech.com/hs-fs/hub/25649/file-13535879-pdf/docs/mit_study.pdf (leído en resumen; escrito por el proveedor)"
@@ -14,7 +14,7 @@ fuentes:
   - "Ventas/.investigacion/prospeccion-contacto-y-seguimiento.md (componente 3) y prospeccion-contraria.md (punto 2)"
 aliases: [responder lo que entra, prospección entrante, inbound, consulta entrante, lead entrante, velocidad de respuesta, speed to lead, lead response time, tiempo de respuesta, regla de los cinco minutos, agujero negro de leads, sales lead black hole]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Responder lo que entra

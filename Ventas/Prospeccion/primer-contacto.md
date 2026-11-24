@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El primer contacto es el primer mensaje a alguien que no conoce a quien vende, por teléfono, correo, en persona o por mensajería, con un único objetivo: conseguir una primera conversación. Las tasas de respuesta son bajas en todos los canales, las que se conocen son de proveedores y en Argentina la ley regula llamar y escribir con fines comerciales.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Gong Labs, The hidden power of cold calling (más de 300 millones de llamadas): https://www.gong.io/resources/labs/the-hidden-power-of-cold-calling-insights-from-300m-calls/ (leída en resumen; proveedor)"
@@ -18,7 +18,7 @@ fuentes:
   - "Ventas/.investigacion/prospeccion-contacto-y-seguimiento.md (componente 1) y prospeccion-contraria.md (puntos 4 y 7)"
 aliases: [primer contacto, llamada en frío, cold call, cold calling, correo en frío, cold email, mensaje en frío, contacto en frío, cold outreach, visita en frío, Registro No Llame, No Llame, Ley 26.951]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Primer contacto
