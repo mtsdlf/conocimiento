@@ -112,6 +112,6 @@ Texto original: sancionada el 4/10/2000, promulgada en parte el 30/10/2000 y pub
 | 21 | Registro de archivos de datos |
 | 31 | Sanciones; las multas del texto original (de $1.000 a $100.000) no están actualizadas |
 
-Lo que la misma ley limita al juntar datos de competidores está en [ley argentina y competidores](../../Estrategia-competitiva/Analisis-de-competidores/ley-argentina-y-competidores.md).
+Lo que la misma ley limita al juntar datos de competidores está en [ley argentina y competidores](../../Estrategia-competitiva/Analisis-de-competidores/ley-argentina-y-competidores.md). Lo que puede hacer con estos datos quien opera la tienda para el comercio, y las multas vigentes de la AAIP, está en [tratamiento de datos por cuenta de otro](../../Emprender/Legal-e-impuestos/tratamiento-de-datos-por-cuenta-de-otro.md).
 
-> [!NOTE] Sin fuente todavía: las modificaciones de la Ley 25.326, la autoridad de control actual, las sanciones vigentes y si hay un proyecto de reemplazo con estado parlamentario.
+> [!NOTE] Sin fuente todavía: las modificaciones de la Ley 25.326. La autoridad de control (la AAIP), la escala de multas vigente (Res. AAIP 126/2024) y los proyectos de reemplazo están en [tratamiento de datos por cuenta de otro](../../Emprender/Legal-e-impuestos/tratamiento-de-datos-por-cuenta-de-otro.md#quién-controla-y-qué-arriesga).

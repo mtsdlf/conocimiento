@@ -21,8 +21,12 @@ preguntas:
   - "¿Cuánto pesa que quienes fundan conozcan el mercado, y qué dice la evidencia?"
   - "¿Qué cambia si en lugar de buscar la mejor oportunidad se empieza con lo que se tiene y lo que se puede perder?"
   - "¿Qué diferencia hay entre vender software solo, software con servicio o una plataforma de dos lados, en cómo cobra, cómo crece y qué márgenes deja?"
+  - "Voy a armar y cuidar por mes la tienda online de un comercio sobre Shopify o Tiendanube: ¿qué contrato es, qué tiene que decir y qué pasa si el cliente quiere cortar el abono antes de tiempo?"
+  - "Si la plataforma se cae o una actualización mía rompe la tienda, ¿de qué respondo, y vale una cláusula que limite eso al valor del abono?"
+  - "¿Cómo entro a la tienda, el dominio y los pagos del comercio sin quedarme con sus contraseñas, y qué hago cuando termina la relación?"
+  - "Al operar la tienda veo y exporto los datos de los compradores: ¿qué me deja hacer la ley con ellos y qué tiene que firmar el comercio conmigo?"
 aprobado: 2026-11-22
-ampliado: 2026-11-22
+ampliado: 2026-11-24
 ---
 
 # Alcance: Emprender
@@ -61,6 +65,11 @@ Emprender/
   Finanzas/                    números de la empresa que empieza y de dónde sale la plata (entrada)
   Fundadores-y-equipo/         propiedad, decisiones y primeras personas (entrada)
   Legal-e-impuestos/           formas legales y régimen impositivo en Argentina (entrada)
+    contrato-de-servicio         (nuevo) obra para armar, servicio continuado para cuidar; plazo, preaviso, baja y qué escribir
+    responsabilidad-del-prestador  (nuevo) actividad o resultado, caída de la plataforma, límites a la cláusula y comercio consumidor
+    acceso-a-las-cuentas-del-cliente  (nuevo) cuentas del comercio, usuario propio y permisos justos, autorización escrita, salida
+    accesos-delegados-por-plataforma  (nuevo) ficha: cómo da acceso cada plataforma y cómo se quita, al 2026-11-24
+    tratamiento-de-datos-por-cuenta-de-otro  (nuevo) art. 25 de la Ley 25.326: el prestador como encargado
   Fundamentos/                 qué es una startup, escuelas y evidencia, mitos, bibliografía, fuentes, glosario
 ```
 
@@ -79,3 +88,11 @@ Pedida en el mapa «qué oportunidad de negocio explorar primero» de un repo de
 - **La evaluación se partió en dos notas**: criterios (qué se mira) y matriz (cómo se combinan), porque la matriz se enlaza sola desde quien tiene que fijar criterios y pesos.
 - **Las cifras de empresas van a una ficha** (`volatil`), y las notas de los modelos dan rangos y la enlazan.
 - **Los tipos de modelo de software van en Modelo de negocio** como componentes. La estrategia de plataformas (precio a cada lado, efecto de red, arranque) sigue en Producto/Plataformas y se enlaza; acá queda solo la mirada de negocio: cómo cobra, cómo crece y qué economía tiene.
+
+## Ampliación del 2026-11-24: los contratos de un servicio
+
+Pedida en el issue #55, parte del plan #48 (lo que la base tiene que saber para una empresa chica que arma, muda y cuida tiendas online de comercios pyme sobre plataformas de otros, con un abono). El issue fijó el lugar (Legal e impuestos) y el contenido; el árbol detallado lo decidió quien escribe:
+
+- **Cuatro componentes y una ficha.** El contrato, la responsabilidad, el acceso y los datos se enlazan por separado desde otras notas (el abono, los socios de una plataforma, la normativa del comercio electrónico), así que cada uno tiene nota propia. Los pasos de cada plataforma para dar acceso cambian seguido y van a una ficha `volatil`.
+- **Legal e impuestos deja de ser solo «para empezar».** La entrada suma una sección con los contratos de un servicio; la Ley 25.326 vista desde la tienda que junta datos sigue en Comercio electrónico y se enlaza.
+- **El texto de las normas se bajó de Infoleg** y quedó entero en `.investigacion/contratos-y-datos-textos-oficiales.md`, porque los lectores web de los subagentes solo devolvían fragmentos.

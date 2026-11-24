@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Legal e impuestos es el marco con que una empresa nueva existe ante el Estado en Argentina: la forma con que se constituye (persona humana, SAS, SRL o SA) y el régimen impositivo en que factura.
+  Legal e impuestos es el marco con que una empresa nueva existe ante el Estado y ante sus clientes en Argentina: la forma con que se constituye (persona humana, SAS, SRL o SA), el régimen impositivo en que factura y los contratos con que presta su servicio.
 estado: vigente
 estabilidad: estable
 fuentes:
@@ -12,14 +12,14 @@ fuentes:
   - "abogados.com.ar, Comparación entre la SRL, la SA y la SAS: https://abogados.com.ar/comparacion-entre-la-srl-la-sa-y-la-sas/22092"
   - "Blogs de servicios de constitución, según resúmenes: https://developargentina.com/blog/sociedad-anonima-vs-sas-argentina-2026 y https://www.esderecho.com.ar/sas-vs-srl-2026-cual-conviene/"
   - "Emprender/.investigacion/finanzas-equipo-legal.md"
-aliases: [SAS, SRL, SA, sociedad por acciones simplificada, monotributo, forma societaria]
+aliases: [SAS, SRL, SA, sociedad por acciones simplificada, monotributo, forma societaria, contratos con clientes]
 creado: 2026-11-22
-revisado: 2026-11-22
+revisado: 2026-11-24
 ---
 
 # Legal e impuestos
 
-Legal e impuestos es el marco con que una empresa nueva existe ante el Estado en Argentina: la forma con que se constituye (persona humana, SAS, SRL o SA) y el régimen impositivo en que factura.
+Legal e impuestos es el marco con que una empresa nueva existe ante el Estado y ante sus clientes en Argentina: la forma con que se constituye (persona humana, SAS, SRL o SA), el régimen impositivo en que factura y los contratos con que presta su servicio.
 
 > [!WARNING]
 > Ley y dinero: esta nota no reemplaza el consejo de un contador o un abogado. Casi todo lo que sigue se apoya en una sola fuente, y cada afirmación dice cuántas tiene. Antes de constituir una sociedad o inscribirse, conviene verificar la norma vigente con un profesional.
@@ -62,9 +62,20 @@ Las reglas de inscripción también cambian por resolución de la IGJ. En 2026 l
 > [!NOTE]
 > Sin fuente todavía: Ingresos Brutos fuera del monotributo (alícuotas, convenio multilateral), inscripción en ARCA y clave fiscal, contabilidad según los consejos profesionales de ciencias económicas, y costos de constitución con fuente oficial.
 
+## Los contratos de un servicio
+
+Cuando la empresa vende un servicio sobre el sistema de otro, como armar y cuidar tiendas online sobre una plataforma ajena, aparecen cuatro preguntas que la forma societaria no contesta. Cada una tiene su nota:
+
+- [Contrato de servicio](contrato-de-servicio.md): qué tipo de contrato es armar una tienda (obra) y cuidarla por un abono (servicio continuado), qué dice el Código Civil y Comercial del plazo, el preaviso y la baja, y qué conviene escribir.
+- [Responsabilidad del prestador](responsabilidad-del-prestador.md): de qué se responde si el trabajo causa un daño, cuándo libera la caída de la plataforma y cuándo no vale la cláusula que limita, que depende de si el comercio cuenta como consumidor.
+- [Acceso a las cuentas del cliente](acceso-a-las-cuentas-del-cliente.md): las cuentas a nombre del comercio, un usuario propio con los permisos justos, la autorización por escrito y la salida. Los pasos de cada plataforma están en la ficha [accesos delegados por plataforma](accesos-delegados-por-plataforma.md).
+- [Tratamiento de datos por cuenta de otro](tratamiento-de-datos-por-cuenta-de-otro.md): el prestador como encargado (quien maneja una base de datos ajena por cuenta de su dueño) de los datos de los compradores del comercio según el art. 25 de la Ley 25.326, el contrato obligatorio, la destrucción al terminar y los datos que viajan fuera del país.
+
+Las cuatro se apoyan en el texto oficial de las normas y en pocos fallos, ninguno sobre tiendas online, y cada nota dice qué es inferencia de la base.
+
 ## Lo que se va a sumar a Legal e impuestos
 
-Esta parte tiene por ahora dos fichas: la [normativa para empezar en Argentina](normativa-para-empezar-en-argentina.md), con las normas vigentes al 2026-11-22, y el [registro de marca y dominio en Argentina](registro-de-marca-y-dominio-en-argentina.md), con lo que no se registra, el trámite del INPI y el .com.ar, al 2026-11-23. Los componentes que se van a sumar, tomados de la investigación, son estos:
+Además de los contratos de un servicio, esta parte tiene tres fichas: la [normativa para empezar en Argentina](normativa-para-empezar-en-argentina.md), con las normas vigentes al 2026-11-22, el [registro de marca y dominio en Argentina](registro-de-marca-y-dominio-en-argentina.md), con lo que no se registra, el trámite del INPI y el .com.ar, al 2026-11-23, y los [accesos delegados por plataforma](accesos-delegados-por-plataforma.md), al 2026-11-24. Los componentes que se van a sumar, tomados de la investigación, son estos:
 
 - Qué forma elegir: el árbol de decisión por responsabilidad, costo, socios e inversión.
 - Persona humana: monotributo y régimen general, y cuándo el primero se queda chico.
@@ -75,5 +86,5 @@ Esta parte tiene por ahora dos fichas: la [normativa para empezar en Argentina](
 - Facturación electrónica: puntos de venta y comprobantes.
 - Ingresos Brutos: por provincia, convenio multilateral y monotributo unificado.
 - Seguridad social y empleados: autónomos, SIPA y la primera contratación.
-- Propiedad intelectual y contratos básicos: marca, cesión de derechos y acuerdo entre socios.
+- Propiedad intelectual y contratos básicos: marca, cesión de derechos y acuerdo entre socios. Los contratos con clientes de un servicio ya están en [contrato de servicio](contrato-de-servicio.md); falta la cesión de derechos sobre lo que se programa por encargo.
 - Cómo recibir inversión desde Argentina: la SAS ante un SAFE o una nota convertible.
