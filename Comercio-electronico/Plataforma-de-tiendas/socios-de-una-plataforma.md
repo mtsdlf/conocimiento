@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un socio de una plataforma de tiendas es una agencia, un freelancer o un afiliado inscripto en el programa de la plataforma para armar, mudar o cuidar tiendas de comercios. La plataforma le paga por los comercios que trae, lo lista en un directorio según su nivel y le pone reglas que puede cambiar cuando quiere.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Shopify, Partner Program Agreement (Last updated February 27, 2026): https://www.shopify.com/partners/terms (leído hasta el carácter 100.000 de 148.858, 2026-11-24)"
@@ -17,7 +17,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/socios-y-mudanza-contraria.md"
 aliases: [partner, partners, programa de socios, partner program, socio de plataforma, agencia partner, implementador, socio especialista, experto de plataforma, ecosistema de servicios]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Socios de una plataforma

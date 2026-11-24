@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El programa de socios de Tiendanube para agencias, vigente desde mayo de 2026: sus niveles con lo que pide cada uno, las comisiones, cómo se cobran y el directorio de especialistas, consultado el 2026-11-24.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Tiendanube, guía de socios (publicada el 2026-06-19, actualizada el 05/08/2026): https://www.tiendanube.com/blog/tiendanube-partners/ (leída, 2026-11-24)"
@@ -13,7 +13,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/socios-y-mudanza-contraria.md (afirmaciones 1 y 2)"
 aliases: [Tiendanube Partners, Partners Program - Agencies, Socios Especialistas, Especialistas Nube, Tiendanube Asociados, Nuvemshop Parceiros]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Programa de socios de Tiendanube

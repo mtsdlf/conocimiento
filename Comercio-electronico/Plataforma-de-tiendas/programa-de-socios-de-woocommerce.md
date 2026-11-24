@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El programa de agencias de WooCommerce: el paso de WooExperts a Woo Partner en 2025, su ingreso por Automattic for Agencies, el directorio con sus dos niveles y lo que no publica, consultado el 2026-11-24.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Woo, Automattic and Woo Help Maximize Agency Potential (2024-06-05): https://woocommerce.com/posts/automattic-and-woo-agency-program/ (leída, 2026-11-24)"
@@ -11,7 +11,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/socios-de-plataformas.md (secciones 4 y 5)"
 aliases: [Woo Partners, WooExperts, Woo Agency Partner, Automattic for Agencies]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Programa de socios de WooCommerce

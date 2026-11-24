@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Mudar una tienda es pasarla de una plataforma de tiendas a otra: llevar los datos que se pueden llevar, configurar de nuevo lo que no pasa, conservar las direcciones o redirigirlas, y cambiar el dominio de lugar sin perder los pedidos ni el tráfico de los buscadores.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Google Search Central, Site move with URL changes (sin fecha visible): https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes (leída entera, 2026-11-24)"
@@ -24,7 +24,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/socios-y-mudanza-contraria.md"
 aliases: [migrar una tienda, migración de tienda, migración de plataforma, replatforming, re-platforming, store migration, mudanza de tienda]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Mudar una tienda

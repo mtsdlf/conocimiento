@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las herramientas para pasar los datos de una tienda a otra plataforma: los importadores de Shopify, Tiendanube y WooCommerce, y los servicios de terceros, con lo que migran, cómo cobran y su precio de entrada, consultados el 2026-11-24.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Shopify App Store, Store Migration: https://apps.shopify.com/store-migration (leída, 2026-11-24)"
@@ -18,7 +18,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/mudar-una-tienda.md (componente 2)"
 aliases: [migradores de tiendas, importadores, Cart2Cart, LitExtension, Matrixify, Store Migration]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Herramientas para mudar una tienda

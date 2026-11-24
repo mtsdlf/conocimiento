@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El programa de socios de Shopify, para quien arma tiendas: qué paga por cada tienda traída antes y después del 10 de agosto de 2026, los niveles que rigen desde 2027, quién entra al directorio y qué prohíbe el acuerdo, consultado el 2026-11-24.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Shopify, Partner Program Agreement (Last updated February 27, 2026): https://www.shopify.com/partners/terms (leído hasta el carácter 100.000 de 148.858, 2026-11-24)"
@@ -17,7 +17,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/socios-y-mudanza-contraria.md (afirmaciones 1 y 2)"
 aliases: [Shopify Partners, Shopify Partner Program, Shopify Partner Directory, Shopify Experts]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Programa de socios de Shopify
