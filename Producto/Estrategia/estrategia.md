@@ -57,6 +57,7 @@ El marco formal de ISPMA no separa una visión de producto: la visión es corpor
 - [Visión de producto](vision-de-producto.md): el futuro que se busca a años, cómo se escribe y los cuatro modos en que falla.
 - [Estrategia de producto](estrategia-de-producto.md): elegir pocos problemas y decir qué no se hace, y la cascada hasta los OKR con su falla cuando los resultados clave son entregables.
 - [Resultados y entregables](resultados-y-entregables.md): outcome contra output, la build trap y la feature factory, con el problema de Goodhart. Se lee antes que el resto del tema.
+- [Revisión del producto propio](revision-del-producto-propio.md): juzgar lo que ya está construido contra una oferta nueva, qué queda, qué se esconde, qué se apaga y qué falta, rol por rol, y cómo baja a trabajo.
 
 ## Qué falta
 

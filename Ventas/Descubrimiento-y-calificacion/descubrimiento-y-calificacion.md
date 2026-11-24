@@ -49,7 +49,9 @@ Cuándo dejar de perseguir a un prospecto tampoco tiene evidencia. La base propo
 
 En una empresa, la compra la decide un grupo. Las cifras de su tamaño son de proveedores (CEB, Gartner, 6sense, Forrester), van de 5,4 a 13 personas y no coinciden entre sí. El marco académico es el centro de compras de Robinson, Faris y Wind (1967) y el modelo de Webster y Wind (1972).
 
-En un comercio chico, decide a menudo el dueño solo, sobre todo cuando vuelve a comprar lo mismo. Eso viene de un estudio de 1999 sobre pymes citado por Wikipedia, y no se encontró ninguno que mida el grupo en comercios. Ninguno de los métodos de esta vertical se probó ahí.
+En un comercio chico decide sobre todo quien lo dirige, según una encuesta argentina que sería de 2006, y no se encontró ningún estudio que mida el grupo en comercios. Los datos están en [venta a comercios chicos](../Formas-de-vender/venta-a-comercios-chicos.md#quién-decide).
+
+> [!WARNING] Obsoleto desde 2026-11: esta sección decía que el dueño decide solo «sobre todo cuando vuelve a comprar lo mismo», por un estudio de 1999 citado por Wikipedia. Según su abstract, ese estudio es sobre productores lecheros y no dice cuántos deciden. Ninguno de los métodos de esta vertical se probó ahí.
 
 ## Dónde se toca con otros temas
 

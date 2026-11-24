@@ -64,6 +64,12 @@ Lo que la plataforma no trae lo ponen apps de terceros que el comercio instala d
 
 Medir la presencia de una app es difícil: las tiendas de apps muestran reseñas y no instalaciones, y las cifras que publica cada app no tienen definición. [Escalafy](escalafy.md), una app de rentabilidad que se conecta a varias plataformas, es el ejemplo de la vertical (detalle en [apps para comerciantes](apps-para-comerciantes.md)). Otra clase de apps vive de la API de un marketplace y no de la tienda de apps de una plataforma: las que conectan la tienda con Mercado Libre o gestionan la cuenta del vendedor, en [apps para vendedores de marketplace](apps-para-vendedores-de-marketplace.md).
 
+## Quienes trabajan sobre la plataforma: socios y mudanzas
+
+Además de apps, alrededor de cada plataforma vive un ecosistema de servicios: agencias y freelancers que arman, mudan y cuidan tiendas. La plataforma los anota en un programa de socios y los muestra en un directorio según su nivel; Shopify y Tiendanube, además, les pagan una parte de la suscripción de cada tienda que traen. Shopify les prohíbe salir a buscar a sus comercios para llevárselos, y se reserva cambiar lo que paga: Shopify pasó en 2026 el pago de «para siempre» a cuatro años (detalle en [socios de una plataforma](socios-de-una-plataforma.md)).
+
+Parte de ese trabajo es mudar tiendas que ya existen desde otra plataforma. Los productos pasan con herramientas gratuitas o baratas. Lo que no pasa solo es lo que hace falta saber hacer: los pedidos viejos, las contraseñas de los clientes, las integraciones y las redirecciones de cada dirección vieja, de las que depende el tráfico de los buscadores (detalle en [mudar una tienda](mudar-una-tienda.md)).
+
 ## Cómo se usa al analizar plataformas de tiendas
 
 Comparar plataformas por su lista de funciones deja afuera lo que más pesa. Antes de comparar funciones conviene fijar cuatro cosas de cada competidor:
@@ -84,6 +90,8 @@ Los componentes, en orden de lectura:
 - [El negocio de una plataforma](negocio-de-una-plataforma.md): suscripción y soluciones para comerciantes, GMV, take rate, MRR y penetración de pagos, y cómo se leen en un competidor.
 - [Segmentos de comerciantes](segmentos-de-comerciantes.md): del emprendedor a la marca grande, la escalera de planes y lo que cambia en los conteos de tiendas.
 - [Apps para comerciantes](apps-para-comerciantes.md): qué resuelven, cómo cobran, qué se queda la plataforma, cómo se mide su presencia y el riesgo de que la plataforma copie la función.
+- [Socios de una plataforma](socios-de-una-plataforma.md): agencias, freelancers y afiliados; qué les paga la plataforma, sus niveles, cómo les llegan clientes, qué prohíbe y el riesgo de depender de una.
+- [Mudar una tienda](mudar-una-tienda.md): qué datos pasan y cuáles no, las redirecciones, el dominio, el orden de los pasos, cuánto tráfico se pierde y qué suele salir mal.
 
 Las fichas fechadas, consultadas el 2026-11-22. Plataformas:
 
@@ -95,6 +103,13 @@ Las fichas fechadas, consultadas el 2026-11-22. Plataformas:
 - [Empretienda](empretienda.md): plataforma concentrada en Argentina; solo su conteo de tiendas.
 - [Wix](wix.md): la tienda dentro del constructor de sitios Wix; planes con sus límites, sin precios.
 - [Presencia en Argentina](presencia-en-argentina.md): cuántas tiendas tiene cada plataforma en el país según los rastreadores, con sus discrepancias.
+
+Socios y mudanzas, consultadas el 2026-11-24:
+
+- [Programa de socios de Shopify](programa-de-socios-de-shopify.md): lo que paga por tienda antes y después del 10-ago-2026, los niveles de 2027, el directorio y lo que prohíbe el acuerdo.
+- [Programa de socios de Tiendanube](programa-de-socios-de-tiendanube.md): el programa de agencias de mayo de 2026, con sus niveles, comisiones de 20% y 30% y el directorio de especialistas.
+- [Programa de socios de WooCommerce](programa-de-socios-de-woocommerce.md): de WooExperts a Woo Partner, Automattic for Agencies y un directorio de 174 agencias.
+- [Herramientas para mudar una tienda](herramientas-para-mudar-una-tienda.md): los importadores de cada plataforma y los servicios de terceros, con lo que migran y su precio de entrada.
 
 Marketplace:
 
@@ -112,4 +127,4 @@ Apps:
 
 ## Lo que falta de Plataforma de tiendas
 
-> [!NOTE] Sin fuente todavía: las bajas (churn) y el ingreso promedio por comercio de una plataforma; el GMV oficial de Tiendanube, el take rate publicado de Mercado Libre y sus cargos de envío y publicidad; la comisión de la tienda de aplicaciones de Tiendanube; una clasificación de comercios por tamaño que use el campo; un estudio independiente sobre costos de headless y composable; y los temas y eventos de webhook de Tiendanube.
+> [!NOTE] Sin fuente todavía: las bajas (churn) y el ingreso promedio por comercio de una plataforma; el GMV oficial de Tiendanube, el take rate publicado de Mercado Libre y sus cargos de envío y publicidad; la comisión de la tienda de aplicaciones de Tiendanube; una clasificación de comercios por tamaño que use el campo; un estudio independiente sobre costos de headless y composable; los temas y eventos de webhook de Tiendanube; cuántos clientes trae un directorio de socios; y cuánto tráfico pierde una tienda que cambia de plataforma sin cambiar de dominio.

@@ -107,7 +107,7 @@ Lo que le cuesta a un comercio cobrar con la pasarela de una plataforma, con otr
 
 - **Base y versión**: "All URLs start with `https://api.tiendanube.com/2025-03/{store_id}`"; vale también el dominio de Nuvemshop, solo con SSL, y la versión va en la ruta.
 - **Autenticación**: "We follow the OAuth 2 framework"; al instalar la app, el comerciante le da un token que va en cada pedido.
-- **Apps**: el desarrollador se registra como partner y crea la app en su panel. Cada pedido lleva un `User-Agent` con el nombre de la app y un contacto; si falta, la API responde 400.
+- **Apps**: el desarrollador se registra como partner y crea la app en su panel (el programa para agencias que arman tiendas está en [programa de socios de Tiendanube](programa-de-socios-de-tiendanube.md)). Cada pedido lleva un `User-Agent` con el nombre de la app y un contacto; si falta, la API responde 400.
 - **Límite de tasa**: "the default bucket size is of 40 requests with a leaky rate of 2 requests per second"; al pasarlo responde 429. Las tiendas de los planes Next o Evolución tienen un límite diez veces mayor.
 - **Webhooks**: existen `app/suspended` y `app/resumed`, para el acceso cortado o restituido por falta de pago.
 - **Tienda de aplicaciones**: [tienda-aplicaciones-nube](https://www.tiendanube.com/mx/tienda-aplicaciones-nube). Qué tipos de apps viven ahí está en [apps para comerciantes](apps-para-comerciantes.md).

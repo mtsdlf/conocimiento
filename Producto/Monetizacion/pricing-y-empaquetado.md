@@ -68,7 +68,7 @@ Los estudios de contratos de software, a diferencia de la tesis de *Monetizing I
 - Otro estudio indio encontró tiempo y materiales menos riesgoso y más rentable para el proveedor.
 - La teoría de agencia predice precio fijo para proyectos de bajo riesgo y tiempo y materiales para los de alto riesgo.
 
-Son muestras de un solo país y, en un caso, de un solo proveedor. La lectura de esta base es que la regla de la teoría de agencia es la más trasladable: cuanto más incierto el alcance, más conviene que el precio siga al tiempo. Cómo se combinan las fechas de un contrato con un roadmap por resultados está en [roadmap](../Planificacion-y-entrega/roadmap.md).
+Son muestras de un solo país y, en un caso, de un solo proveedor. La lectura de esta base es que la regla de la teoría de agencia es la más trasladable: cuanto más incierto el alcance, más conviene que el precio siga al tiempo. Un [servicio productizado](../../Emprender/Modelo-de-negocio/servicio-productizado.md) es la forma de achicar esa incertidumbre: fija el alcance para poder fijar el precio. Cómo se combinan las fechas de un contrato con un roadmap por resultados está en [roadmap](../Planificacion-y-entrega/roadmap.md), y cómo se cotiza y se cierra un trabajo a precio fijo sin perder el margen, en [proyecto a precio cerrado](../Planificacion-y-entrega/proyecto-a-precio-cerrado.md).
 
 > [!NOTE]
 > Sin fuente todavía: estudios de Simon-Kucher o críticas del precio basado en valor aplicado a servicios B2B.

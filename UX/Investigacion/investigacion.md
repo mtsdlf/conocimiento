@@ -39,6 +39,7 @@ Lo cualitativo contesta por qué y cómo arreglar, y lo cuantitativo cuántos y 
 - [Entrevista de usuario](entrevista-de-usuario.md): el método generativo más usado, cómo preguntar y cuántas hacer.
 - [Entrevista de cambio](entrevista-de-cambio.md): la variante de jobs to be done que reconstruye, con quien cambió de producto hace poco, la línea de tiempo de esa decisión.
 - [Análisis de reseñas](analisis-de-resenas.md): codificar por temas lo que la gente publica del producto propio y de los rivales, con los sesgos de esa muestra.
+- [Mapa del recorrido del cliente](mapa-del-recorrido-del-cliente.md): ordena en el tiempo lo que hace, piensa y siente un actor para lograr algo, con las oportunidades que salen de ahí; sintetiza lo que juntaron los otros métodos.
 - [Jobs to be done](../../Marketing/Mercado-y-cliente/jobs-to-be-done.md), del tema Marketing: un marco para entender el trabajo que la persona quiere resolver, útil como guía de qué preguntar.
 - Para evaluar con usuarios, el [test de usabilidad](../Evaluacion/test-de-usabilidad.md) cuenta como método de investigación y de evaluación a la vez.
 
@@ -46,7 +47,6 @@ Lo cualitativo contesta por qué y cómo arreglar, y lo cuantitativo cuántos y 
 
 Faltan estas notas y se van a sumar:
 
-- Mapa de recorrido (journey map): cómo se dibuja la secuencia de pasos, emociones y puntos de contacto de una persona.
 - Personas: qué evidencia respalda su uso. Hoy no hay una fuente sólida sobre si cambian decisiones.
 - Estudio de campo e indagación contextual: observar en el entorno natural del usuario.
 - Analítica: método conductual, cuantitativo y de contexto natural, que dice qué pasa pero no por qué.

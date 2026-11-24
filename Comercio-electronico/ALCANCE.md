@@ -24,6 +24,8 @@ preguntas:
   - "Tengo un local y una tienda online en Argentina: ¿cómo comparto el stock, cobro en el mostrador y facturo, y con qué opciones y precios?"
   - "¿Quién tiene que emitir factura electrónica en Argentina, qué letra de comprobante corresponde y cómo la emite un sistema?"
   - "¿Qué rubros tienen necesidades que una tienda online general resuelve mal, cuántos comercios hay en cada uno en Argentina, quién los atiende y cuánto pagan?"
+  - "¿Qué gana y qué arriesga una agencia que se hace socia de una plataforma de tiendas, y cómo se elige sobre cuál trabajar?"
+  - "Tengo que mudar una tienda de Shopify a Tiendanube: ¿qué datos pasan, qué se pierde y cómo cuido el tráfico de los buscadores?"
 aprobado: 2026-11-22
 ---
 
@@ -42,7 +44,9 @@ Comercio-electronico/
     negocio-de-una-plataforma          suscripción más ingresos por pagos; GMV, take rate, MRR, bajas
     segmentos-de-comerciantes          emprendedor, pyme, mediana, grande: qué necesita cada uno
     apps-para-comerciantes             las apps que viven en la tienda de apps de una plataforma: tipos, cómo cobran, qué se queda la plataforma
-    fichas fechadas                    una por plataforma y una por app de referencia (Escalafy y sus alternativas), con datos públicos
+    socios-de-una-plataforma           agencias, freelancers y afiliados: qué paga la plataforma, niveles, directorio, qué prohíbe (2026-11-24)
+    mudar-una-tienda                   pasar una tienda a otra plataforma: datos, redirecciones, dominio, pasos, tráfico (2026-11-24)
+    fichas fechadas                    una por plataforma y una por app de referencia (Escalafy y sus alternativas), con datos públicos; una por programa de socios (Shopify, Tiendanube, WooCommerce) y una de herramientas para mudar
   Pagos/                             (a fondo) cómo cobra una tienda online
     actores-del-pago                   pasarela, adquirente, procesador, agregador, emisor y redes
     costo-de-cobrar                    tasas, plazos de acreditación y conciliación
@@ -103,3 +107,4 @@ Comercio-electronico/
 - Ampliado el 2026-11-22 (tanda 1 de un mapa de oportunidades, plan aprobado por la persona): Operaciones del comercio se partió en componentes, con la subcarpeta Sistemas de gestión; Venta en varios canales suma la subcarpeta Local físico con caja; Normativa suma la factura electrónica de ARCA como nota propia, y la ficha argentina la resume y enlaza. Envíos y logística queda prevista como subcarpeta de Operaciones, sin escribir. El pedido, el envío y la atención siguen en la entrada de Operaciones hasta tener nota.
 - Las notas que salieron enteras de la entrada de Operaciones (catálogo y stock, devoluciones) conservan su estado `vigente`, porque su texto es el que la persona ya confirmó; lo nuevo entra como `borrador`.
 - Sumado el 2026-11-22 (tanda de un mapa de oportunidades): la vertical Rubros. Como Comercio-B2B, es un corte transversal tomado como vertical, porque cada rubro con necesidades propias tiene su propio software, su propio marketplace y su propio dolor, que no se repiten en las otras verticales. Las notas de cada rubro explican el mecanismo; los nombres, precios y conteos viven en la ficha `rubros-en-argentina`. Farmacia es `volatil` porque su contenido es casi todo regulación en disputa. Óptica, alimentos frescos, mascotas, muebles y servicios con turnos quedaron nombrados como no investigados a fondo.
+- Ampliado el 2026-11-24 (tanda 2 del plan del issue #48, issues #53 y #54): Plataforma de tiendas suma los socios de una plataforma y la mudanza de una tienda, con fichas por programa y de herramientas. Los dos van en esta vertical y no en Operaciones: el socio trabaja sobre la plataforma, y mudar es pasar de una plataforma a otra. La teoría del ecosistema de terceros sigue en Producto, y el costo de cambio, en Estrategia competitiva.

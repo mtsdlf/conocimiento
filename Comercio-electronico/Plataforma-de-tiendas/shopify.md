@@ -74,6 +74,7 @@ En lo leído del 10-K, Shopify no publica un take rate con ese nombre. El inform
 - **Temas**: "Liquid is a template language created by Shopify"; los temas usan una variante que "extends the open-source version of Liquid".
 - **Pods**: según el blog de ingeniería, "A pod is an isolated instance of Shopify consisting of an individual MySQL database shard", y "Every pod houses a unique subset of shops on the platform". La clave de partición es `shop_id`.
 - **Tienda de apps**: [apps.shopify.com](https://apps.shopify.com). El informe vio que existe y no la midió; el reparto con los desarrolladores está en [apps para comerciantes](apps-para-comerciantes.md).
+- **Socios**: lo que paga y prohíbe a las agencias que arman tiendas está en [programa de socios de Shopify](programa-de-socios-de-shopify.md).
 
 > [!NOTE] Sin fuente leída: la Admin API GraphQL, la Storefront API, Hydrogen, Functions y los webhooks figuran solo en un resumen del buscador; falta leer [shopify.dev/docs/api](https://shopify.dev/docs/api).
 

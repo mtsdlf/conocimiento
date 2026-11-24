@@ -48,6 +48,8 @@ WooCommerce se extiende con extensiones, el equivalente de las [apps para comerc
 
 > [!NOTE] Sin fuente todavía: el catálogo de extensiones, su API y cómo se reparte el cobro de las extensiones pagas.
 
+El programa para agencias que arman tiendas está en [programa de socios de WooCommerce](programa-de-socios-de-woocommerce.md).
+
 ## Presencia en Argentina
 
 StoreLeads cuenta 24.711 tiendas vivas en Argentina, en su página actualizada el 2026-11-13; una versión anterior de la misma página daba 25.900 en junio de 2025 (-2% interanual en el primer trimestre de 2025), según el buscador.

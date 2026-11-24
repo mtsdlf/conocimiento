@@ -8,7 +8,10 @@ fuentes:
   - "NN/g, How to Conduct a Heuristic Evaluation: https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/ (leída a través del resumen de una herramienta)"
   - "NN/g, Usability Problems Found by Heuristic Evaluation (resume a Nielsen 1992): https://www.nngroup.com/articles/usability-problems-found-by-heuristic-evaluation/ (leída a través del resumen de una herramienta)"
   - "Nielsen y Molich (1990), Heuristic evaluation of user interfaces, CHI, doi 10.1145/97243.97281 (solo abstract vía buscador)"
-  - "Jeffries, Miller, Wharton y Uyeda (1991), User interface evaluation in the real world, CHI (solo resumen): https://hci.stanford.edu/seminar/abstracts/90-91/910522-jeffries.html"
+  - "Jeffries, Miller, Wharton y Uyeda (1991), User interface evaluation in the real world: a comparison of four techniques, CHI, pp. 119-124, doi 10.1145/108844.108862; texto en https://www.miramontes.com/writing/uievaluation/ ; resumen del seminario: https://hci.stanford.edu/seminar/abstracts/90-91/910522-jeffries.html"
+  - "Gray y Salzman (1998), Damaged Merchandise? A Review of Experiments That Compare Usability Evaluation Methods, Human-Computer Interaction 13(3), 203-261: https://rauterberg.employee.id.tue.nl/lecturenotes/JFS-lecture/Gray&Salzman98a_HCI.pdf"
+  - "Hertzum y Jacobsen (2001), The evaluator effect: a chilling fact about usability evaluation methods, IJHCI 13(4): https://forskning.ruc.dk/da/publications/the-evaluator-effect-a-chilling-fact-about-usability-evaluation-m/"
+  - "Producto/.investigacion/revision-del-producto-propio.md"
   - "UX/.investigacion/investigacion-y-evaluacion.md y UX/.investigacion/posicion-contraria.md"
 aliases: [heurísticas de Nielsen, diez heurísticas, heuristic evaluation, revisión experta]
 creado: 2026-11-22
@@ -54,13 +57,26 @@ Como los problemas menores abundan, cada hallazgo lleva una severidad para orden
 
 Según Nielsen (1992), resumido por NN/g, un evaluador solo halló cerca de 42% de los problemas mayores y 32% de los menores. Nielsen y Molich (1990) corrieron cuatro experimentos: los evaluadores individuales encontraron entre 20 y 51% de los problemas, y los agregados de tres a cinco "do rather well" (abstract vía buscador, sin verificar). Por eso se agrega a varios evaluadores y no se confía en uno.
 
-La heurística encuentra cosas distintas que el test con usuarios. Jeffries et al. (1991) compararon test, heurística, guías y recorridos cognitivos sobre la misma interfaz y, según el resumen, las técnicas hallaron tipos distintos de problemas. NN/g recomienda alternar, con la heurística primero.
+La heurística encuentra cosas distintas que el test con usuarios. NN/g recomienda alternar, con la heurística primero.
+
+## La comparación de Jeffries: cuatro técnicas sobre el mismo producto
+
+Jeffries, Miller, Wharton y Uyeda (1991) evaluaron el mismo producto con cuatro técnicas:
+
+| Técnica | Problemas | Entre los más graves | Horas-persona |
+|---|---|---|---|
+| Heurística, por especialistas en interfaz | 105 | 28 | 35 |
+| Test con usuarios | 31 | 18 | 199 |
+| Guías de diseño | 35 | 12 | 86 |
+| Recorrido cognitivo | 35 | 9 | 43 |
+
+Los conteos son sin repetidos dentro de cada grupo, y «los más graves» es el tercio de mayor gravedad. La heurística encontró más problemas, también más graves, y más barato, pero necesitó varios especialistas en interfaz y muchos de sus hallazgos fueron menores y puntuales. El test fue el mejor para los problemas recurrentes y generales, pero según los autores dejó pasar muchos problemas serios; algunos, como uno que borraba sin querer la carpeta del usuario, los encontró el test y fueron difíciles de ver con guías o con recorrido cognitivo. Fue un solo producto, con seis usuarios, y la técnica se confunde con la experiencia de quien la aplicó: la heurística la hicieron especialistas en interfaz, y las guías y el recorrido, ingenieros de software. El recorrido cognitivo es una inspección en la que un evaluador recorre una tarea con los ojos de alguien nuevo y en cada paso se pregunta si sabría qué hacer y si entendería que avanzó; sirve para tareas que se hacen por primera vez.
 
 > [!IMPORTANT]
-> Cuánto vale la heurística frente al test está discutido. NN/g sostiene que no reemplaza la investigación con usuarios, y admite que una violación no siempre es un problema real y que es difícil cubrir productos grandes. Una crítica habitual atribuye a Jeffries et al. que la heurística produce falsos positivos y hallazgos de baja prioridad, pero no se pudo leer el paper y esa crítica no se afirma. Sin conteos por técnica, no hay una comparación verificada de costo y beneficio.
+> Cuánto vale la heurística frente al test está discutido. NN/g sostiene que no reemplaza la investigación con usuarios, y admite que una violación no siempre es un problema real y que es difícil cubrir productos grandes. Gray y Salzman (1998) revisaron cinco comparaciones influyentes y encontraron fallas de validez que ponen en duda lo que se creía saber sobre la eficacia de cada método (según un resumen; el texto no se pudo abrir y no se verificó que la de Jeffries esté entre las cinco). Olson y Moran les respondieron en el mismo número. Hertzum y Jacobsen (2001), en 11 estudios, encontraron según su abstract que dos evaluadores que miran lo mismo coinciden entre el 5 % y el 65 % de los problemas, con heurística, recorrido cognitivo o test con pensamiento en voz alta. Ningún método ni ningún evaluador solo da la lista completa: se combinan métodos y se hacen varias rondas.
 
 > [!NOTE]
-> Sin fuente todavía: el porcentaje de problemas que encuentran cinco evaluadores (circula "cerca de 75%") no se leyó en el paper de 1990; y los conteos por técnica de Jeffries et al. Las cifras y citas de NN/g salen de un resumen que una herramienta hizo de cada página: conviene cotejarlas en el original antes de entrecomillarlas.
+> Sin fuente todavía: el porcentaje de problemas que encuentran cinco evaluadores (circula "cerca de 75%") no se leyó en el paper de 1990. Las cifras y citas de NN/g salen de un resumen que una herramienta hizo de cada página: conviene cotejarlas en el original antes de entrecomillarlas.
 
 ## Qué leer
 
