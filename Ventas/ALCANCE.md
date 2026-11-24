@@ -48,8 +48,11 @@ Ventas/
     estructura-de-la-propuesta     problema del cliente, valor, prueba, precio, próximos pasos
     presentar-el-precio            anclaje en el costo actual, opciones y cuántas
     prueba-y-confianza             casos, garantías, lo que no se debe inventar
-  Objeciones-y-negociacion/      responder dudas y negociar (entrada; cuánto ceder en precio queda como hueco)
-  Formas-de-vender/              consultiva, transaccional, Challenger, venta de servicios profesionales (entrada)
+  Objeciones-y-negociacion/      responder dudas y negociar (cuánto ceder en precio queda como hueco)
+    objeciones-frecuentes          lo que frena a un dueño de pyme o a quien compra un servicio (2026-11-24, #59)
+  Formas-de-vender/              consultiva, transaccional, Challenger, servicios profesionales
+    venta-de-servicios-profesionales  cómo elige el cliente lo que no puede evaluar antes (2026-11-24, #50)
+    venta-a-comercios-chicos       cómo compra un comercio donde decide el dueño (2026-11-24, #50)
   Medicion-comercial/            embudo comercial, tasa de cierre, ciclo de venta (entrada)
   Fundamentos/                   escuelas y evidencia, bibliografía, fuentes, mitos, glosario
 ```

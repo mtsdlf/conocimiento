@@ -102,7 +102,7 @@ El desarrollo está en [Formas de vender](../Formas-de-vender/formas-de-vender.m
 
 ## Vender a pymes y comercios chicos
 
-No se encontró investigación sobre venderle a una pyme o a un comercio chico. Lo más cercano es lo que se sabe de cómo compran: Thompson y Panayiotopoulos (1999), citados por Wikipedia, dicen que en las pymes las recompras las hace a menudo una sola persona. Está en [Grupo de compra](../Descubrimiento-y-calificacion/grupo-de-compra.md). Todo lo demás de esta bibliografía viene de ventas B2B grandes, y aplicarlo a un comercio es una extrapolación.
+No se encontró investigación sobre venderle a una pyme o a un comercio chico. Lo más cercano es lo que se sabe de cómo compran: Pittaway y Morrissey (2003) sobre los motivos del dueño, Ghobakhloo y Tang (2013) sobre su papel en la adopción de comercio electrónico y la revisión de Ozmen y colegas (2013), que no se pudo leer. Está en [venta a comercios chicos](../Formas-de-vender/venta-a-comercios-chicos.md). Para servicios profesionales, Maister (1993), cap. 10, conocido por resúmenes, y Sonmez y Moorhouse (2010), leído por su abstract, en [venta de servicios profesionales](../Formas-de-vender/venta-de-servicios-profesionales.md). Todo lo demás de esta bibliografía viene de ventas B2B grandes, y aplicarlo a un comercio es una extrapolación.
 
 ## Traducciones al castellano
 

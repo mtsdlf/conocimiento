@@ -54,6 +54,8 @@ Según ModelThinkers, la ecuación es T = (C + R + I) / S: la confianza crece co
 
 No se encontró validación revisada por pares. Beaton, una firma de servicios profesionales, dice haberla validado con cuatro años de datos propios y una «muy alta correlación» con la confianza declarada por clientes, sin metodología verificable. ModelThinkers critica que depende de autoevaluaciones y trata un fenómeno social como una ecuación. Es un marco de practicantes, sin base empírica declarada.
 
+Cómo elige el cliente un servicio que no puede evaluar antes, qué dicen las encuestas a compradores y los cinco pasos del libro para construir confianza están en [venta de servicios profesionales](venta-de-servicios-profesionales.md).
+
 ## La venta Challenger y su encuesta
 
 La venta Challenger sostiene que rinde más el vendedor que lleva al cliente una perspectiva nueva sobre su negocio que el que construye la relación. Viene de *The Challenger Sale* (Dixon y Adamson, 2011), basado en investigación del Sales Executive Council de CEB, hoy parte de Gartner. Es una hipótesis de una empresa de investigación, con una encuesta propia.
@@ -91,7 +93,7 @@ Una cifra que circula como «los compradores que no quieren vendedores» no est�
 
 ## Cómo elegir una forma
 
-El criterio de la base, sin fuente que lo pruebe, es ubicar primero la oferta y después cómo quiere comprar el cliente. Si sabe lo que quiere, la venta es corta; si no sabe qué le pasa, pesa el descubrimiento. A un comercio chico se le vende una plataforma de tiendas online en una o dos charlas; una consultora que propone un desarrollo necesita varias y vende confianza.
+El criterio de la base, sin fuente que lo pruebe, es ubicar primero la oferta y después cómo quiere comprar el cliente. Si sabe lo que quiere, la venta es corta; si no sabe qué le pasa, pesa el descubrimiento. A un comercio chico se le vende una plataforma de tiendas online en una o dos charlas; una consultora que propone un desarrollo necesita varias y vende confianza. Cómo compra el dueño de un comercio está en [venta a comercios chicos](venta-a-comercios-chicos.md).
 
 ## Recursos para leer
 
@@ -101,11 +103,14 @@ El criterio de la base, sin fuente que lo pruebe, es ubicar primero la oferta y 
 
 ## Lo que falta de Formas de vender
 
-Esta vertical tiene solo su entrada. Faltan estas notas y se van a sumar:
+Las notas de esta vertical:
+
+- [Venta de servicios profesionales](venta-de-servicios-profesionales.md): cómo elige el cliente lo que no puede evaluar antes, y cómo se construye la confianza.
+- [Venta a comercios chicos](venta-a-comercios-chicos.md): quién decide, a quién le pregunta el dueño y qué pesa cuando adopta tecnología.
+
+Faltan estas y se van a sumar:
 
 - Venta de soluciones, con Tuli y colegas leído en origen.
 - Venta Challenger, con la crítica de Capon y la muestra que figura en el libro.
-- Venta de servicios profesionales, con investigación sobre confianza.
-- Venta a comercios chicos, donde decide el dueño solo.
 
-> [!NOTE] Sin fuente todavía: investigación sobre venderle a comercios chicos o pymes (nada de Challenger ni de Gartner está probado ahí); la historia de *solution selling*; el muestreo de Gartner.
+> [!NOTE] Sin fuente todavía: nada de Challenger ni de Gartner está probado en comercios chicos; la historia de *solution selling*; el muestreo de Gartner.

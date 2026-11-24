@@ -47,7 +47,7 @@ flowchart LR
 
 Los métodos más conocidos tienen poca evidencia independiente, y este tema lo dice en cada nota. SPIN sale de observaciones hechas por la empresa que lo enseña, sin réplica independiente encontrada; la venta Challenger, de una encuesta del proveedor que la vende; BANT y MEDDIC no tienen ningún estudio de eficacia. Lo más sólido viene de la investigación académica sobre vendedores, como el meta-análisis de Franke y Park (2006) sobre adaptar la venta a cada cliente, y de la investigación sobre negociación y anclaje, casi toda en laboratorio o en simulaciones.
 
-Para venderle a un comercio chico no se encontró investigación: ninguno de estos métodos fue probado ahí. La regla de uso es tratarlos como listas de preguntas que ordenan una conversación, no como fórmulas que garantizan un cierre. El mapa de escuelas y su evidencia está en [Fundamentos](Fundamentos/fundamentos-de-ventas.md).
+Para venderle a un comercio chico casi no hay investigación (lo poco que hay está en [venta a comercios chicos](Formas-de-vender/venta-a-comercios-chicos.md)), y ninguno de estos métodos fue probado ahí. La regla de uso es tratarlos como listas de preguntas que ordenan una conversación, no como fórmulas que garantizan un cierre. El mapa de escuelas y su evidencia está en [Fundamentos](Fundamentos/fundamentos-de-ventas.md).
 
 ## Qué leer según lo que tengas que vender
 
@@ -55,6 +55,7 @@ Para venderle a un comercio chico no se encontró investigación: ninguno de est
 - Si vas a armar una propuesta para un comercio: [preguntas de descubrimiento](Descubrimiento-y-calificacion/preguntas-de-descubrimiento.md) para la primera charla, después [estructura de la propuesta](La-propuesta/estructura-de-la-propuesta.md), [presentar el precio](La-propuesta/presentar-el-precio.md) y [prueba y confianza](La-propuesta/prueba-y-confianza.md). Del dominio, [Comercio electrónico](../Comercio-electronico/comercio-electronico.md) y [segmentos de comerciantes](../Comercio-electronico/Plataforma-de-tiendas/segmentos-de-comerciantes.md) para ubicar el tamaño del comercio.
 - Si vas a proponerle un proyecto a una empresa: [grupo de compra](Descubrimiento-y-calificacion/grupo-de-compra.md) para saber quién lee y quién firma, y después [la propuesta](La-propuesta/la-propuesta.md).
 - Si tenés que decidir a quién vale la pena proponerle: [calificación](Descubrimiento-y-calificacion/calificacion.md).
+- Si vas a venderle a un comercio que nunca contrató un servicio así: [preguntas de descubrimiento](Descubrimiento-y-calificacion/preguntas-de-descubrimiento.md) para la primera charla, [venta a comercios chicos](Formas-de-vender/venta-a-comercios-chicos.md) y [venta de servicios profesionales](Formas-de-vender/venta-de-servicios-profesionales.md), y para preparar la charla, [objeciones frecuentes](Objeciones-y-negociacion/objeciones-frecuentes.md).
 - Si el cliente dice que es caro o que lo tiene que pensar: [objeciones y negociación](Objeciones-y-negociacion/objeciones-y-negociacion.md).
 - Si tenés que elegir cómo vender o armar un equipo: [formas de vender](Formas-de-vender/formas-de-vender.md) y [medición comercial](Medicion-comercial/medicion-comercial.md).
 - Si alguien te cita un método o una cifra de ventas: [mitos de ventas](Fundamentos/mitos-de-ventas.md) y [fuentes de ventas](Fundamentos/fuentes-de-ventas.md).
