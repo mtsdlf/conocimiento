@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El boca a boca es la recomendación de un cliente a otra persona, y un programa de referidos es el intento de la empresa de provocarla y registrarla, a veces con un premio. Los clientes que llegan referidos valen algo más que los demás, pero la evidencia viene de empresas grandes de consumo y el premio puede restarle credibilidad a la recomendación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Schmitt, Skiera y Van den Bulte (2011), «Referral Programs and Customer Value», Journal of Marketing 75(1), 46-59, copia de Wharton leída: https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Schmitt-Skiera-vandenBulte-2011-Referral-Programs-Customer-Value.pdf"
@@ -23,7 +23,7 @@ fuentes:
   - "Marketing/.investigacion/boca-a-boca-y-referidos.md y posicion-contraria-servicio.md"
 aliases: [boca a boca, word of mouth, WOM, referidos, programa de referidos, referral program, recomendación, referencias de clientes, reference marketing, Net Promoter Score, NPS]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Boca a boca y referidos

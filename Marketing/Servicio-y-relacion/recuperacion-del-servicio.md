@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La recuperación del servicio es lo que hace la empresa cuando algo le falló a un cliente para dejarlo conforme otra vez. El cliente la juzga por lo que recibe, por cómo se hizo y por cómo lo trataron; que deje al cliente mejor que si no hubiera fallado pasa pocas veces y sin efecto probado en la recompra.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tax, Brown y Chandrashekaran (1998), «Customer Evaluations of Service Complaint Experiences», Journal of Marketing 62(2), 60-76, resumen: https://cir.nii.ac.jp/crid/1361137043893396992"
@@ -16,7 +16,7 @@ fuentes:
   - "Marketing/.investigacion/servicio-y-relacion.md y posicion-contraria-servicio.md"
 aliases: [service recovery, recuperación de servicio, manejo de reclamos, manejo de quejas, complaint handling, paradoja de la recuperación, service recovery paradox, justicia percibida]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Recuperación del servicio

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las expectativas de servicio son los niveles contra los que el cliente juzga lo que recibe: el servicio deseado, el adecuado y, entre los dos, una zona de tolerancia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Parasuraman, Berry y Zeithaml (1991), «Understanding customer expectations of service», Sloan Management Review 32(3), leído entero: https://sloanreview.mit.edu/article/understanding-customer-expectations-of-service"
@@ -10,7 +10,7 @@ fuentes:
   - "Marketing/.investigacion/servicio-y-relacion.md y posicion-contraria-servicio.md"
 aliases: [expectativas del cliente, zona de tolerancia, zone of tolerance, servicio deseado, servicio adecuado, servicio predicho, desired service, adequate service]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Expectativas y zona de tolerancia

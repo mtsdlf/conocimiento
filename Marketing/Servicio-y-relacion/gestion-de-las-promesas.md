@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Gestionar las promesas es cerrar la brecha entre lo que la venta y la comunicación le dicen al cliente y lo que la operación entrega, prometiendo solo lo que se puede cumplir y haciendo visible lo que sí se hace.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Parasuraman, Berry y Zeithaml (1991), «Understanding customer expectations of service», Sloan Management Review 32(3), leído entero: https://sloanreview.mit.edu/article/understanding-customer-expectations-of-service"
@@ -11,7 +11,7 @@ fuentes:
   - "Marketing/.investigacion/servicio-y-relacion.md"
 aliases: [brecha 4, brecha de comunicación, gestión de expectativas, sobreprometer, overpromising, garantía de servicio, service guarantee, promesa de servicio]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Gestión de las promesas

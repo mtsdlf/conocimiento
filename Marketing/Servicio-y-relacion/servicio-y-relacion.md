@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Servicio y relación es la parte del marketing que sigue a la venta: si lo que se entrega alcanza lo que el cliente esperaba, qué se hace cuando falla y si conviene invertir en que el cliente se quede.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Parasuraman, Berry y Zeithaml (1991), «Understanding customer expectations of service», Sloan Management Review 32(3): https://sloanreview.mit.edu/article/understanding-customer-expectations-of-service"
@@ -11,7 +11,7 @@ fuentes:
   - "Marketing/.investigacion/servicio-y-relacion.md y posicion-contraria-servicio.md"
 aliases: [marketing de servicios, services marketing, calidad de servicio, posventa]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Servicio y relación

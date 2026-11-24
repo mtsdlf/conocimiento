@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El modelo de las brechas explica la calidad de un servicio como la distancia entre lo que el cliente espera y lo que percibe, y busca su causa en cuatro brechas dentro del proveedor: no saber qué espera el cliente, no diseñarlo bien, no entregarlo como se diseñó y prometer otra cosa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Parasuraman, Zeithaml y Berry (1985), «A Conceptual Model of Service Quality and Its Implications for Future Research», Journal of Marketing 49(4), 41-50 (no leído)"
@@ -15,7 +15,7 @@ fuentes:
   - "Marketing/.investigacion/servicio-y-relacion.md y posicion-contraria-servicio.md"
 aliases: [modelo de brechas, gaps model, modelo GAP, brechas de calidad de servicio, calidad de servicio, calidad percibida, SERVQUAL, SERVPERF]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Modelo de las brechas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El marketing de relaciones es cuidar a los clientes que ya se tienen para que sigan y compren más, y la lealtad es que efectivamente sigan. La evidencia dice que la relación rinde más en servicios y entre empresas, pero que la antigüedad de un cliente se asocia poco con su ganancia, y que la cifra más citada a favor no se sostiene como se cita.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Reinartz y Kumar (2002), «The Mismanagement of Customer Loyalty», HBR 80(7), leído entero: https://foster.uw.edu/wp-content/uploads/2016/07/11_Reinartz_Kumar_2002.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "Marketing/.investigacion/servicio-y-relacion.md y posicion-contraria-servicio.md"
 aliases: [marketing relacional, relationship marketing, lealtad del cliente, customer loyalty, fidelización, retención de clientes, cadena servicio-beneficio, service-profit chain, rueda de la lealtad, costos de cambio, zero defections]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Marketing de relaciones y lealtad
