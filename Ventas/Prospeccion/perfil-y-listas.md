@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Antes de escribirle a nadie se decide a quién: un perfil de cliente ideal (las características de quien más aprovecha lo que uno vende) y una lista de nombres concretos que lo cumplen, ordenada por quién conviene contactar primero. En Argentina, armar esa lista es tratar datos personales y la regula la Ley 25.326.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ZoomInfo, Ideal customer profile: https://pipeline.zoominfo.com/marketing/ideal-customer-profile ; Clearbit, Ideal customer profile template: https://clearbit.com/blog/ideal-customer-profile-template (según resúmenes; proveedores de datos, contados como una sola fuente)"
@@ -13,7 +13,7 @@ fuentes:
   - "Ventas/.investigacion/prospeccion-perfil-y-listas.md (B)"
 aliases: [perfil de cliente ideal, ideal customer profile, ICP, lista de prospectos, prospect list, base de prospectos, armar una lista, priorizar prospectos, datos personales, Ley 25.326]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Perfil y listas
