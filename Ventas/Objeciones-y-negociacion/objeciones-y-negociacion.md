@@ -47,6 +47,8 @@ Lo que sigue es criterio de la base, coherente con lo que observa Gong pero no p
 3. Respondé corto y con algo que el cliente pueda verificar, como un caso o una cuenta; qué vale como prueba está en [prueba y confianza](../La-propuesta/prueba-y-confianza.md).
 4. Cerrá con un próximo paso concreto, con fecha y con quién.
 
+Las objeciones que más se repiten con un dueño de pyme o en un servicio profesional, una por una, están en [objeciones frecuentes](objeciones-frecuentes.md).
+
 ### «Es caro»
 
 El criterio de la base es preguntar «¿comparado con qué?». La respuesta es la alternativa del cliente: seguir como está, otro proveedor o hacerlo él mismo. Para una plataforma de tiendas online, la comparación útil es lo que al comercio hoy le cuesta vender sin ella, en horas, comisiones o ventas perdidas. Cómo se presenta el precio contra ese costo actual está en [presentar el precio](../La-propuesta/presentar-el-precio.md), y cómo leer los precios del rival, en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md).
@@ -97,9 +99,12 @@ El PON, *Getting to Yes* con la reseña de White y Galinsky y Mussweiler (2001),
 
 ## Lo que falta de Objeciones y negociación
 
-Esta vertical tiene solo su entrada. Faltan estas notas y se van a sumar:
+Las notas de esta vertical:
 
-- Tratamiento de objeciones: las objeciones frecuentes en la venta a comercios y de servicios profesionales, con lo que se sepa de cada una.
+- [Objeciones frecuentes](objeciones-frecuentes.md): lo que suele frenar a un dueño de pyme o a quien compra un servicio, qué hay detrás de cada frase y qué probar.
+
+Faltan estas y se van a sumar:
+
 - MAAN: cómo se estima la propia y la del cliente antes de una negociación, con la crítica de Sebenius leída.
 - Primeras ofertas y anclaje en la negociación, con los tamaños de efecto de Galinsky y Mussweiler y de estudios posteriores.
 - Concesiones: cuánto y cómo ceder.
