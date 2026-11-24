@@ -35,7 +35,7 @@ El concepto de centro de compras (buying center), la unidad que toma la decisió
 | Recompra modificada (modified rebuy) | se compra algo parecido, cambiando condiciones o proveedor | sumar un módulo, o cambiar de consultora para el mismo trabajo |
 | Compra nueva (new task) | se compra algo por primera vez | el primer proyecto de software a medida |
 
-La columna de la consultora es una aplicación de esta base. La clase importa porque cambia cuántos participan: en las pymes, la compra nueva suma más influencia de otros que la recompra, como se ve [más abajo](#el-comercio-chico-casi-no-está-estudiado). Según Wikipedia, Michele Bunn (1993) extendió el modelo a seis situaciones.
+La columna de la consultora es una aplicación de esta base. La clase importa porque cambia cuántos participan: en las pymes, la compra nueva sumaría más influencia de otros que la recompra, algo que Thompson y Panayiotopoulos (1999) solo sugieren en su abstract ([más abajo](#el-comercio-chico-casi-no-está-estudiado)). Según Wikipedia, Michele Bunn (1993) extendió el modelo a seis situaciones.
 
 ## El modelo de Webster y Wind
 
@@ -64,11 +64,13 @@ Lo que se puede usar de estas cifras es el orden de magnitud: en una compra comp
 
 ## El comercio chico casi no está estudiado
 
-En las pymes, las compras las hace a menudo una sola persona, sobre todo las recompras, y no son una actividad de grupo. En compras nuevas la influencia de otros puede ser mayor. Lo dicen Thompson y Panayiotopoulos (1999), según Wikipedia; el original no se leyó.
+En las empresas chicas decide sobre todo el gerente general, que suele ser el dueño. Una encuesta argentina que sería de 2006 encontró que en empresas de hasta 15 empleados decide él en al menos 45 % de las firmas de cada rubro, con excepciones como la consultoría contable; los datos, y lo que se sabe de cómo compra el dueño, están en [venta a comercios chicos](../Formas-de-vender/venta-a-comercios-chicos.md).
+
+> [!WARNING] Obsoleto desde 2026-11: esta nota decía, citando a Thompson y Panayiotopoulos (1999) según Wikipedia, que en las pymes las compras las hace a menudo una sola persona. Según su abstract, el estudio es sobre productores lecheros y no dice cuántos deciden. El detalle está en [venta a comercios chicos](../Formas-de-vender/venta-a-comercios-chicos.md#quién-decide).
 
 Un trabajo conceptual sobre efectuación, según su resumen, explica por qué el dueño de una pyme prefiere proveedores de su red: la confianza en alguien conocido pesa más que un procedimiento formal. Un estudio exploratorio de 2023 en pymes manufactureras halló, según su resumen, que las interacciones dentro del centro de compras funcionan mejor con colaboración que con competencia por poder.
 
-Andrews y Rogers (2005) notaron, según Wikipedia, que se había discutido muy poco la compra en pymes.
+Según Wikipedia, Andrews y Rogers (2005) notaron que se había discutido muy poco la compra en pymes; en 2026-11 no se encontró esa referencia.
 
 > [!NOTE] Sin fuente todavía: un estudio que mida el tamaño del grupo de compra en pymes o comercios chicos, y ninguno argentino.
 
@@ -91,4 +93,4 @@ Al analizar a un competidor, en la lectura de esta base, mirar a quién le habla
 
 ## Qué leer
 
-Webster y Wind (1972), en el *Journal of Marketing*: fijarse en los cuatro grupos de variables y en que es un modelo teórico. Para el tamaño del grupo, la página de Gartner y *The Challenger Customer* de CEB, leídas como datos de proveedor y para ver el rango. Para el comercio chico no hay nada canónico: lo más cercano es Thompson y Panayiotopoulos (1999), poca evidencia y de hace más de veinte años.
+Webster y Wind (1972), en el *Journal of Marketing*: fijarse en los cuatro grupos de variables y en que es un modelo teórico. Para el tamaño del grupo, la página de Gartner y *The Challenger Customer* de CEB, leídas como datos de proveedor y para ver el rango. Para el comercio chico no hay nada canónico; lo que hay está en [venta a comercios chicos](../Formas-de-vender/venta-a-comercios-chicos.md#recursos-para-leer).
