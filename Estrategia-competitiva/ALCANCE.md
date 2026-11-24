@@ -21,6 +21,10 @@ preguntas:
   - "¿Cómo va a reaccionar un competidor grande si entro a su mercado?"
   - "¿Qué puedo averiguar de un competidor de forma legal y ética, y de dónde lo saco?"
   - "¿Cuándo mirar a la competencia me hace daño?"
+  - "Soy socio de una plataforma de tiendas y a la vez me puede copiar: ¿qué soy para ella, y qué me conviene ser?"
+  - "¿Qué es la red de valor y cómo la dibujo para mi negocio?"
+  - "¿En qué conviene cooperar con un competidor y en qué no?"
+  - "¿Hay evidencia de que la coopetición rinda, o es un marco de consultoría?"
 aprobado: 2026-11-22
 ---
 
@@ -50,6 +54,7 @@ Estrategia-competitiva/
     disrupcion                       la teoría de Christensen y sus críticas
     oceano-azul                      crear un espacio sin rivales, y su evidencia
     elegir-el-terreno                cómo compite el chico contra el grande: judo, nichos, partición de recursos
+    coopeticion                      cooperar y competir con el mismo actor: red de valor, valor agregado, el socio de una plataforma
   Analisis-de-competidores/        la práctica (a fondo)
     identificacion-de-competidores   directos, indirectos, sustitutos y potenciales
     perfil-del-competidor            objetivos, supuestos, estrategia y capacidades (Porter)
@@ -79,3 +84,4 @@ Estrategia-competitiva/
 - La normativa que se cite (secretos comerciales, datos personales) es de Argentina, con dos fuentes o la aclaración de que hay una sola.
 - Cambios al árbol que trajo la investigación: la cadena de valor pasa a Fuentes de ventaja (en Porter es análisis interno de la empresa) y se suman las estrategias genéricas; los puntos ciegos se separan del juego de guerra porque tratan los sesgos propios.
 - Sumado el 2026-11-22, a pedido de la persona («enfocar el análisis en mis fortalezas y debilidades para elegir qué batallas dar»): análisis propio, FODA y elegir el terreno. La metáfora militar de Ries y Trout quedó como mito y los roles de Kotler como sección de acción y respuesta, por falta de evidencia.
+- Sumado el 2026-11-24 (issue #58, plan #48): coopetición, como una sola nota dentro de Dinámica competitiva, con la red de valor adentro y no aparte. El lado en que la plataforma compite sigue en Producto/Plataformas y el programa de socios en Comercio-electronico; la nota los enlaza.

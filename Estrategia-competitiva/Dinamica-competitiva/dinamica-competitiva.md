@@ -22,11 +22,11 @@ La dinámica competitiva estudia cómo se mueven los rivales en el tiempo: quié
 
 Es la tercera parte de [Estrategia competitiva](../estrategia-competitiva.md). Recibe de [Análisis de industria](../Analisis-de-industria/analisis-de-industria.md) el mapa de quién compite con quién, y de [Fuentes de ventaja](../Fuentes-de-ventaja/fuentes-de-ventaja.md) la ventaja que hay que defender o atacar. Le entrega al [Análisis de competidores](../Analisis-de-competidores/analisis-de-competidores.md) hipótesis sobre cómo va a reaccionar un rival concreto, que el [perfil del competidor](../Analisis-de-competidores/perfil-del-competidor.md) y el [juego de guerra](../Analisis-de-competidores/juego-de-guerra.md) ponen a prueba.
 
-## Por qué cinco notas de literaturas distintas viven juntas
+## Por qué seis notas de literaturas distintas viven juntas
 
-Las cinco notas de esta vertical vienen de literaturas distintas. Acción y respuesta y ventaja del primero son líneas propias de la investigación en estrategia ("competitive dynamics" y "entry timing"). La disrupción viene de la estrategia de innovación, y el océano azul es más una técnica de diferenciación que una teoría de la rivalidad. Así lo señala el informe de investigación. Elegir el terreno junta teoría de juegos de entrada, ecología organizacional y reglas de practicante.
+Las seis notas de esta vertical vienen de literaturas distintas. Acción y respuesta y ventaja del primero son líneas propias de la investigación en estrategia ("competitive dynamics" y "entry timing"). La disrupción viene de la estrategia de innovación, y el océano azul es más una técnica de diferenciación que una teoría de la rivalidad. Así lo señala el informe de investigación. Elegir el terreno junta teoría de juegos de entrada, ecología organizacional y reglas de practicante. La coopetición viene de la teoría de juegos aplicada a la empresa y de la investigación sobre redes de empresas.
 
-Están juntas porque las cinco tratan del tiempo:
+Están juntas porque las seis tratan del tiempo:
 
 | Nota | Pregunta sobre el tiempo |
 |---|---|
@@ -35,6 +35,7 @@ Están juntas porque las cinco tratan del tiempo:
 | [Disrupción](disrupcion.md) | ¿Por qué un incumbente no responde a tiempo a un entrante que empieza por abajo? |
 | [Océano azul](oceano-azul.md) | ¿Cuánto dura una posición sin rivales antes de que la imiten? |
 | [Elegir el terreno](elegir-el-terreno.md) | Si el rival es más grande, ¿dónde y con qué tamaño conviene pelear para que no responda? |
+| [Coopetición](coopeticion.md) | Si el rival también es socio, ¿en qué conviene cooperar con él y en qué competir mientras dure la relación? |
 
 Ninguna de estas teorías predice qué va a hacer un rival con nombre y apellido. Dan preguntas para ordenar el análisis, y cada nota dice cuánto respaldo empírico tiene.
 
@@ -68,7 +69,7 @@ Si el producto es, por ejemplo, un SaaS para comercios que entra a un mercado co
 
 Dos creencias sobre esta vertical se repiten sin respaldo: que ser primero gana y que cualquier innovación que sacude un mercado es una disrupción. Las dos están en [mitos de la estrategia competitiva](../Fundamentos/mitos-de-estrategia-competitiva.md).
 
-> [!NOTE] Sin fuente todavía: ninguna de las fuentes de esta vertical trae datos propios de software, SaaS o plataformas de tiendas online. Los ejemplos de esos mercados son aplicación, no evidencia.
+> [!NOTE] Sin fuente todavía: salvo los estudios de software empresarial que cita [coopetición](coopeticion.md), ninguna de las fuentes de esta vertical trae datos propios de software, SaaS o plataformas de tiendas online. Los ejemplos de esos mercados son aplicación, no evidencia.
 
 ## Lo que hay adentro de Dinámica competitiva
 
@@ -76,4 +77,5 @@ Dos creencias sobre esta vertical se repiten sin respaldo: que ser primero gana 
 - [Ventaja del primero](ventaja-del-primero.md): qué mecanismos dan ventaja al que entra primero, por qué casi la mitad de los pioneros fracasa según Golder y Tellis, y por qué entrar después también puede rendir.
 - [Disrupción](disrupcion.md): la teoría de Christensen (bajo nivel y nuevo mercado), qué no cuenta como disrupción y cuántos casos la cumplen según sus críticos.
 - [Elegir el terreno](elegir-el-terreno.md): cómo compite el chico contra el grande sin chocar de frente, con la estrategia judo, la taxonomía de Fudenberg y Tirole y la partición de recursos, ninguna probada en software. Se lee después de acción y respuesta.
+- [Coopetición](coopeticion.md): cooperar y competir a la vez con el mismo actor, la red de valor de Brandenburger y Nalebuff, el valor agregado, la evidencia mixta sobre si rinde y el caso del socio chico de una plataforma. Se lee después de acción y respuesta.
 - [Océano azul](oceano-azul.md): el lienzo estratégico y las cuatro acciones como técnica para compararse con los competidores, y la evidencia dispar sobre si crear espacio nuevo rinde.

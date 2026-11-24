@@ -40,7 +40,7 @@ Dos hallazgos ordenan el riesgo para un tercero:
 
 El efecto se reparte. La entrada "discourages affected third-party sellers from subsequently pursuing growth on the platform", pero "increases product demand and reduces shipping costs for consumers", según el abstract. Lo que pierde el tercero lo gana en parte el comprador.
 
-Gawer y Henderson (2007), según su abstract, muestran el otro lado de la decisión con el caso de Intel. Intel cree que no puede entrar en todos los mercados vecinos, así que necesita que otros entren aunque "potential entrants (rationally) fear Intel's ability to 'squeeze' them ex post". Para convencerlos usa su estructura y sus procesos "as commitment mechanisms". La lectura de esta base: una plataforma que depende de sus terceros tiene motivos para prometer que no los va a aplastar.
+Gawer y Henderson (2007), según su abstract, muestran el otro lado de la decisión con el caso de Intel. Intel cree que no puede entrar en todos los mercados vecinos, así que necesita que otros entren aunque "potential entrants (rationally) fear Intel's ability to 'squeeze' them ex post". Para convencerlos usa su estructura y sus procesos "as commitment mechanisms". La lectura de esta base: una plataforma que depende de sus terceros tiene motivos para prometer que no los va a aplastar. Ser a la vez complementador y competidor de la plataforma es un caso de [coopetición](../../Estrategia-competitiva/Dinamica-competitiva/coopeticion.md), donde está cómo pensar las dos cosas juntas.
 
 ## Qué hacen los terceros cuando la plataforma amenaza o entra
 
