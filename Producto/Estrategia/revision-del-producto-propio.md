@@ -117,7 +117,7 @@ El orden es de esta base, armado con las piezas de arriba:
 > Lo que no tiene evidencia: no se encontraron estudios de que mejoren decisiones o resultados la auditoría de uso, el retiro de funcionalidades, el canvas, el análisis de brechas (comparar el estado de hoy con el deseado, sin un método canónico), los mapas, el pitch, el árbol de oportunidades, los criterios «dado, cuando, entonces» ni el estándar británico. Tampoco nada sobre un software que pasa a venderse como servicio gestionado. Jobs to be done se apoya en casos de sus autores. Solo la evaluación de pantallas tiene estudios, y están discutidos.
 
 > [!NOTE]
-> Sin fuente todavía: el texto original de Kano (1984) y el modelo de las brechas de servicio de Parasuraman, Zeithaml y Berry (1985), que no se revisó.
+> Sin fuente todavía: el texto original de Kano (1984). El modelo de las brechas de servicio de Parasuraman, Zeithaml y Berry (1985) tiene nota propia en [modelo de las brechas](../../Marketing/Servicio-y-relacion/modelo-de-las-brechas.md), aunque el paper original tampoco se leyó.
 
 ## Qué leer
 

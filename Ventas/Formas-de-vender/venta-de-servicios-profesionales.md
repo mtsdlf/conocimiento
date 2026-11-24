@@ -94,7 +94,7 @@ No se encontró un estudio con método que compare cómo se elige un proveedor c
 
 Lo que sigue es criterio de esta base, armado con lo de arriba y sin estudio en comercios. Un dueño que nunca contrató a alguien para su tienda online no puede juzgar el trabajo antes, y probablemente tampoco después.
 
-- **Entrar por recomendación**: el canal que más mencionan las encuestas, y el que presta un lazo.
+- **Entrar por recomendación**: el canal que más mencionan las encuestas, y el que presta un lazo. Qué la provoca y qué hace un premio por referir está en [boca a boca y referidos](../../Marketing/Canales/boca-a-boca-y-referidos.md).
 - **Pasar la calificación con algo verificable**: un caso de un comercio parecido, con un número que el dueño pueda comprobar ([prueba y confianza](../La-propuesta/prueba-y-confianza.md)).
 - **Ganar la selección hablando de su negocio**: preguntar y escuchar antes que mostrar credenciales, que es lo que los vendedores sobrestiman.
 - **Bajar el riesgo como dice Mitchell**: aclarar qué se entrega, simplificar el primer paso y compartir el riesgo con una prueba, una etapa chica o una garantía. Qué se sabe de las garantías está en [prueba y confianza](../La-propuesta/prueba-y-confianza.md#garantías-un-solo-estudio-de-consumo).
