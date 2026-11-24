@@ -1,9 +1,13 @@
 ---
 resumen: >-
-  Los mitos de comercio electrónico son frases que circulan como reglas (el 70% de los carritos es venta perdida, hay un promedio de conversión de la industria, las cuotas sin interés son gratis, la tienda propia siempre conviene más que el marketplace, el headless es mejor, la omnicanalidad siempre rinde) sin estudio detrás o contra lo que miden las fuentes. Cada uno, con su evidencia y la nota donde se desarrolla.
+  Los mitos de comercio electrónico son frases que circulan como reglas (el 70% de los carritos es venta perdida, hay un promedio de conversión de la industria, las cuotas sin interés son gratis, la tienda propia siempre conviene más que el marketplace, el headless es mejor, la omnicanalidad siempre rinde, copiar la descripción del fabricante penaliza) sin estudio detrás o contra lo que miden las fuentes. Cada uno, con su evidencia y la nota donde se desarrolla.
 estado: vigente
 estabilidad: semi
 fuentes:
+  - "Google Search Central, Special tags, Spam policies, Sitemaps overview y Consolidate duplicate URLs: https://developers.google.com/search/docs (leídas, 2026-11-24)"
+  - "Google Search Central, SEO Starter Guide: https://developers.google.com/search/docs/fundamentals/seo-starter-guide (leída a través de un extracto, 2026-11-24)"
+  - "John Mueller sobre cantidad de páginas indexadas (2018), según Search Engine Roundtable: https://www.seroundtable.com/google-higher-page-count-seo-26633.html (leída)"
+  - "Comercio-electronico/.investigacion/seo-contraria.md"
   - "Baymard Institute, Cart abandonment rate: https://baymard.com/blog/cart-abandonment-rate y https://baymard.com/lists/cart-abandonment-rate (leídos)"
   - "Kukar-Kinney y Close, Journal of the Academy of Marketing Science 38, 2010, pp. 240-250: https://link.springer.com/article/10.1007/s11747-009-0141-5 (solo el resumen)"
   - "The Good, Ecommerce benchmarks: https://thegood.com/insights/ecommerce-benchmarks/ (leído)"
@@ -21,14 +25,14 @@ fuentes:
   - "US Census Bureau, Quarterly Retail E-Commerce Sales: https://www.census.gov/retail/ecommerce.html (leído)"
   - "UNCTAD, Global e-commerce hits $25.6 trillion: https://unctad.org/news/global-E-commerce-hits-256-trillion-latest-unctad-estimates (leído)"
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md, parte B; Comercio-electronico/.investigacion/checkout-y-conversion.md, secciones 1 y 2; Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md, secciones 1 y 5"
-aliases: [mitos del e-commerce, e-commerce myths, 70% de carritos abandonados, cuotas sin interés gratis, promedio de conversión]
+aliases: [mitos de SEO, mitos del e-commerce, e-commerce myths, 70% de carritos abandonados, cuotas sin interés gratis, promedio de conversión]
 creado: 2026-11-22
 revisado: 2026-11-22
 ---
 
 # Mitos de comercio electrónico
 
-Los mitos de comercio electrónico son frases que circulan como reglas (el 70% de los carritos es venta perdida, hay un promedio de conversión de la industria, las cuotas sin interés son gratis, la tienda propia siempre conviene más que el marketplace, el headless es mejor, la omnicanalidad siempre rinde) sin estudio detrás o contra lo que miden las fuentes. Cada uno, con su evidencia y la nota donde se desarrolla.
+Los mitos de comercio electrónico son frases que circulan como reglas (el 70% de los carritos es venta perdida, hay un promedio de conversión de la industria, las cuotas sin interés son gratis, la tienda propia siempre conviene más que el marketplace, el headless es mejor, la omnicanalidad siempre rinde, copiar la descripción del fabricante penaliza) sin estudio detrás o contra lo que miden las fuentes. Cada uno, con su evidencia y la nota donde se desarrolla.
 
 Casi todas las refutaciones también vienen de proveedores, igual que los mitos. Solo unos pocos tienen fuentes oficiales o académicas en contra: el peso del comercio electrónico en el comercio minorista (estadísticas oficiales), el abandono como pérdida (un paper con encuesta) y las cuotas gratis (una norma argentina y un borrador académico).
 
@@ -62,6 +66,16 @@ El aumento de ventas viene de quien cobra por procesarlas. EBANX dice que las cu
 | "Tres de cada cuatro compras online se hacen en marketplaces" | Las dos cifras que circulan para Brasil, más de 75% y más de 50%, salen de charlas citadas por el blog de una plataforma de tiendas, no coinciden y no tienen método | [Venta en varios canales](../Venta-en-varios-canales/venta-en-varios-canales.md) |
 | "La omnicanalidad siempre rinde" | Puede aumentar la demanda total y puede canibalizar un canal. El estudio de HBR de 2017 con 46.000 compradores (autores de Medallia y de la Universidad de Rice) sería de un solo minorista, según un white paper de Medallia citado por el buscador; un working paper sobre 83 tiendas halló que el retiro en tienda redujo las ventas online (según el buscador). No se encontró un estudio de rentabilidad neta | [Venta en varios canales](../Venta-en-varios-canales/venta-en-varios-canales.md) |
 | "Headless y composable son mejores" | Son una decisión con condiciones: dan independencia de la vitrina y de cada servicio a cambio de integraciones propias y un equipo que las sostenga. Las cifras a favor y en contra son de proveedores o consultoras con algo que vender; una consultora afirma, sin método publicado, que para un negocio de US$ 20 millones de GMV el costo total puede ser 100-200% mayor que el de una plataforma alojada. No se encontró ningún estudio independiente | [Tipos de plataforma](../Plataforma-de-tiendas/tipos-de-plataforma.md) |
+
+## Los mitos sobre buscadores
+
+| Mito | Qué dice la evidencia | Dónde se desarrolla |
+|---|---|---|
+| "Hay que cargar las meta keywords" | Google: "The meta-keyword tag is not used by Google Search, and it has no effect on indexing and ranking at all" | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| "Cada descripción necesita un largo o una densidad de palabras clave" | Google: "there's no magical word count target, minimum or maximum". Que no haya densidad óptima lo dijo Google según el resumen de una nota de prensa; repetir palabras clave para manipular el ranking es spam según sus políticas | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| "Más páginas indexadas, mejor posicionamiento" | John Mueller, de Google, en 2018: "A higher page count means nothing". En una tienda, los filtros y las variantes generan miles de direcciones casi iguales (inferencia: sumarlas no ayudaría) | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md#los-problemas-que-son-propios-de-una-tienda) |
+| "El sitemap hace rankear" | Google no lo desmiente con una frase: lo describe como ayuda para descubrir y rastrear páginas, sin garantía de indexarlas y sin mencionar el ranking; un sitio de unas 500 páginas bien enlazado puede no necesitarlo | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md#lo-que-resuelve-la-plataforma-y-lo-que-queda-en-el-comercio) |
+| "Copiar la descripción del fabricante penaliza la tienda" | Google trata el duplicado en general como ineficiente y sin acción manual, y elige una versión para mostrar; el matiz de la intención de engañar es de un post de 2008, visto en un resumen del buscador. Sobre el texto del fabricante en particular no hay declaración de Google, y sin castigo igual importa. La ayuda de Tiendanube dice que penaliza (según resumen). Generar textos en masa para posicionar sí puede ser abuso de contenido escalado | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md#los-problemas-que-son-propios-de-una-tienda) |
 
 ## Los mitos sobre el tamaño del mercado
 

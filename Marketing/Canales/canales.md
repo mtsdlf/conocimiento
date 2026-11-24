@@ -28,7 +28,7 @@ La evidencia de esta parte es poca. Casi todo es práctica publicada por quienes
 
 ## Encontrar el canal que trae clientes
 
-Según Weinberg y Mares (*Traction*), muchos emprendimientos mueren por no conseguir clientes, no por el producto. Conseguir tracción pesa tanto como construir, conviene arrancarlo en paralelo, y proponen dedicarle la mitad del tiempo. Listan 19 canales, de los blogs de terceros y el SEO a las alianzas, las ventas directas, las ferias y la comunidad.
+Según Weinberg y Mares (*Traction*), muchos emprendimientos mueren por no conseguir clientes, no por el producto. Conseguir tracción pesa tanto como construir, conviene arrancarlo en paralelo, y proponen dedicarle la mitad del tiempo. Listan 19 canales, de los blogs de terceros y el SEO a las alianzas, las ventas directas, las ferias y la comunidad. El SEO de una tienda online, que depende en parte de su plataforma, está en [SEO de una tienda](../../Comercio-electronico/Plataforma-de-tiendas/seo-de-una-tienda.md).
 
 Su método, Bullseye, filtra en tres anillos: una idea concreta por cada canal, tres canales probados barato y rápido, y un solo canal exprimido hasta que se satura. La prueba pregunta cuánto cuesta un cliente, cuántos hay disponibles y si son los clientes que se quieren. Cuando el canal se agota, se vuelve a empezar.
 

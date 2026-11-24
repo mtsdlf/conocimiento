@@ -69,7 +69,7 @@ El núcleo coincide entre practicantes y proveedores. Van Deusen (2025), despué
 - **Lo opcional:** alojamiento, tiempo de soporte (en bloques de horas o en pedidos por mes), licencias, reporte mensual, optimización de velocidad y pruebas manuales.
 - **Lo que deja afuera a propósito:** SEO, accesibilidad, correo y textos legales.
 
-Un proveedor de cuidado WordPress, WP Buffs, ofrece «ediciones ilimitadas» desde su segundo nivel, pero excluye el desarrollo a medida, el diseño, las páginas nuevas, el contenido y rehacer el sitio, y obliga a las tiendas avanzadas a tomar el tercer nivel. Lo que todas las fuentes cobran aparte es el desarrollo nuevo, el rediseño, el contenido, las campañas y el SEO como servicio.
+Un proveedor de cuidado WordPress, WP Buffs, ofrece «ediciones ilimitadas» desde su segundo nivel, pero excluye el desarrollo a medida, el diseño, las páginas nuevas, el contenido y rehacer el sitio, y obliga a las tiendas avanzadas a tomar el tercer nivel. Lo que todas las fuentes cobran aparte es el desarrollo nuevo, el rediseño, el contenido, las campañas y el SEO como servicio. Qué se revisa cada mes del posicionamiento de una tienda, para decidir si entra, está en [SEO de una tienda](../../Comercio-electronico/Plataforma-de-tiendas/seo-de-una-tienda.md#qué-se-revisa-cada-mes).
 
 En la encuesta de Nimbus a 198 agencias del Reino Unido (2022), solo el 16 % de los abonos incluye reportes, y de las agencias que mantienen sitios dentro del abono, solo el 36 % incluye el alojamiento. Nimbus vende alojamiento.
 

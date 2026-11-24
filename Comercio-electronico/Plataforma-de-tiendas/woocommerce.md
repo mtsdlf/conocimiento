@@ -56,3 +56,7 @@ StoreLeads cuenta 24.711 tiendas vivas en Argentina, en su página actualizada e
 
 > [!IMPORTANT]
 > WMTips, según el buscador, da a WooCommerce el 42,5% de los sitios de comercio detectados en Argentina en 2026, y AfterShip, 24,05 mil tiendas (28,75%). Las tres fuentes miden cosas distintas; los métodos están en [presencia en Argentina](presencia-en-argentina.md).
+
+## Posicionamiento en buscadores
+
+Lo que WooCommerce fija y deja cambiar para el SEO (direcciones, títulos, sitemap, canónicas, datos del producto, Merchant Center) está en la ficha comparativa [SEO por plataforma](seo-por-plataforma.md), consultada el 2026-11-24.

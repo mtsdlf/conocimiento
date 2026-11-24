@@ -6,7 +6,7 @@ escuela: neutral; el método de investigación de usabilidad de Baymard como ref
 fuera:
   - cómo se analiza a un competidor (tema Estrategia-competitiva; se enlaza)
   - plataformas de dos lados, efecto de red y competir con la plataforma (tema Producto/Plataformas; se enlaza)
-  - marketing para tiendas: canales, SEO, ads, email (tema Marketing; se enlaza)
+  - marketing para tiendas: canales, anuncios, email y el SEO como canal (tema Marketing; se enlaza). El SEO propio de una tienda, que depende de su plataforma, sí entra (2026-11-24)
   - usabilidad y formularios en general (tema UX; se enlaza)
   - pagos como sistema distribuido: sagas, idempotencia (tema Arquitectura; se enlaza)
   - impuestos en detalle y lo legal de una empresa (tema Emprender/Legal-e-impuestos; se enlaza)
@@ -26,6 +26,11 @@ preguntas:
   - "¿Qué rubros tienen necesidades que una tienda online general resuelve mal, cuántos comercios hay en cada uno en Argentina, quién los atiende y cuánto pagan?"
   - "¿Qué gana y qué arriesga una agencia que se hace socia de una plataforma de tiendas, y cómo se elige sobre cuál trabajar?"
   - "Tengo que mudar una tienda de Shopify a Tiendanube: ¿qué datos pasan, qué se pierde y cómo cuido el tráfico de los buscadores?"
+  - "En una tienda en Tiendanube, ¿qué del posicionamiento ya resuelve la plataforma y qué tengo que hacer yo?"
+  - "¿Qué problemas de buscadores son propios de una tienda (variantes, filtros, productos sin stock, descripciones copiadas del fabricante) y cómo se resuelven?"
+  - "¿Cuánto tráfico y cuántas ventas trae la búsqueda orgánica a una tienda pyme, y en cuánto tiempo, según evidencia y no según quien vende SEO?"
+  - "Si cuido una tienda con un abono, ¿qué reviso cada mes del posicionamiento?"
+  - "¿Qué cambia entre Shopify, Tiendanube y WooCommerce para posicionar una tienda?"
 aprobado: 2026-11-22
 ---
 
@@ -46,7 +51,8 @@ Comercio-electronico/
     apps-para-comerciantes             las apps que viven en la tienda de apps de una plataforma: tipos, cómo cobran, qué se queda la plataforma
     socios-de-una-plataforma           agencias, freelancers y afiliados: qué paga la plataforma, niveles, directorio, qué prohíbe (2026-11-24)
     mudar-una-tienda                   pasar una tienda a otra plataforma: datos, redirecciones, dominio, pasos, tráfico (2026-11-24)
-    fichas fechadas                    una por plataforma y una por app de referencia (Escalafy y sus alternativas), con datos públicos; una por programa de socios (Shopify, Tiendanube, WooCommerce) y una de herramientas para mudar
+    seo-de-una-tienda                  posicionamiento en buscadores: qué resuelve la plataforma, qué el comercio, problemas propios de una tienda, evidencia, revisión mensual (2026-11-24)
+    fichas fechadas                    una por plataforma y una por app de referencia (Escalafy y sus alternativas), con datos públicos; una por programa de socios (Shopify, Tiendanube, WooCommerce), una de herramientas para mudar y una de SEO por plataforma
   Pagos/                             (a fondo) cómo cobra una tienda online
     actores-del-pago                   pasarela, adquirente, procesador, agregador, emisor y redes
     costo-de-cobrar                    tasas, plazos de acreditación y conciliación
@@ -108,3 +114,4 @@ Comercio-electronico/
 - Las notas que salieron enteras de la entrada de Operaciones (catálogo y stock, devoluciones) conservan su estado `vigente`, porque su texto es el que la persona ya confirmó; lo nuevo entra como `borrador`.
 - Sumado el 2026-11-22 (tanda de un mapa de oportunidades): la vertical Rubros. Como Comercio-B2B, es un corte transversal tomado como vertical, porque cada rubro con necesidades propias tiene su propio software, su propio marketplace y su propio dolor, que no se repiten en las otras verticales. Las notas de cada rubro explican el mecanismo; los nombres, precios y conteos viven en la ficha `rubros-en-argentina`. Farmacia es `volatil` porque su contenido es casi todo regulación en disputa. Óptica, alimentos frescos, mascotas, muebles y servicios con turnos quedaron nombrados como no investigados a fondo.
 - Ampliado el 2026-11-24 (tanda 2 del plan del issue #48, issues #53 y #54): Plataforma de tiendas suma los socios de una plataforma y la mudanza de una tienda, con fichas por programa y de herramientas. Los dos van en esta vertical y no en Operaciones: el socio trabaja sobre la plataforma, y mudar es pasar de una plataforma a otra. La teoría del ecosistema de terceros sigue en Producto, y el costo de cambio, en Estrategia competitiva.
+- Ampliado el 2026-11-24 (plan del issue #48, issue #61): Plataforma de tiendas suma el SEO de una tienda y la ficha SEO por plataforma. El alcance dejaba el SEO en Marketing; se achicó esa exclusión porque lo que decide el posicionamiento de una tienda (direcciones, sitemap, canónicas, variantes, filtros, datos del producto y Merchant Center) lo fija en buena parte la plataforma, igual que el checkout. El SEO como canal, comparado con los demás, sigue en Marketing/Canales, que enlaza la nota nueva. La persona aprobó la ubicación el 2026-11-24.

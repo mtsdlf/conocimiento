@@ -127,3 +127,7 @@ La ganancia real por canal y por anuncio tampoco es propia: la venden apps de la
 > Los conteos no coinciden y miden cosas distintas. La empresa dice "180,000+" tiendas activas. StoreLeads, un rastreador que detecta tiendas vivas, da 204.631 en el tercer trimestre de 2026 y 155.499 en el del 2025, según el buscador; el vistazo cita otra cifra de StoreLeads, 171.918 en el cuarto trimestre de 2025.
 
 En Argentina, StoreLeads cuenta 59.214 tiendas vivas, el 28,3% de sus tiendas globales, en su página actualizada el 2026-11-13. AfterShip da 29,36 mil, según el buscador. La comparación de métodos está en [presencia en Argentina](presencia-en-argentina.md).
+
+## Posicionamiento en buscadores
+
+Lo que Tiendanube fija y deja cambiar para el SEO (direcciones, títulos, sitemap, canónicas, datos del producto, Merchant Center) está en la ficha comparativa [SEO por plataforma](seo-por-plataforma.md), consultada el 2026-11-24.

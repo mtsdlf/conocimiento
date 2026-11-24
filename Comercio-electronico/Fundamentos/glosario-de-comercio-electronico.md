@@ -109,6 +109,24 @@ Los informes del tema marcan cuánto se leyó de cada fuente; las notas lo dicen
 | Checkout | checkout | Los pasos de datos, envío y pago | [Usabilidad del checkout](../Checkout-y-conversion/usabilidad-del-checkout.md) |
 | Checkout de invitado | guest checkout | Comprar sin crear una cuenta | [Usabilidad del checkout](../Checkout-y-conversion/usabilidad-del-checkout.md) |
 
+## Buscadores
+
+| Término | En inglés | Qué es | Dónde se desarrolla |
+|---|---|---|---|
+| SEO | search engine optimization | El trabajo para aparecer en los resultados orgánicos (no pagos) de los buscadores | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Rastrear e indexar | crawl, index | El buscador recorre las páginas siguiendo enlaces (rastrea) y guarda las que decide mostrar (indexa); indexar no está garantizado | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Canónica | canonical URL, rel=canonical | La dirección que se declara como la versión principal entre varias casi iguales; para Google es una señal, no una orden | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Sitemap y robots.txt | sitemap, robots.txt | El archivo que lista las páginas para que el buscador las descubra, y el que le dice qué direcciones no rastrear | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Noindex y soft 404 | noindex, soft 404 | La marca que pide no mostrar una página; y una página que dice «no encontrado» o queda vacía pero responde como si existiera | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Slug | slug, handle | El texto final de la dirección de un producto o categoría, que el comercio suele poder editar | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Navegación por facetas | faceted navigation | Los filtros de un listado (color, talle, precio), que crean una dirección por combinación | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Datos estructurados | structured data, JSON-LD, schema.org | Marcas en el código de la página que le dicen al buscador el precio, la disponibilidad y otros datos del producto | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Merchant Center y feed | Google Merchant Center, product feed | La cuenta de Google donde la tienda carga su catálogo (el feed) para aparecer en Shopping y en los listados gratuitos | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Search Console | Google Search Console | La herramienta gratuita de Google para ver qué páginas indexó, por qué consultas aparece la tienda y con cuántos clics | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Impresiones, CTR y posición promedio | impressions, click-through rate, average position | Cuántas veces apareció la tienda en los resultados, qué parte de esas veces recibió un clic y en qué lugar apareció, en promedio | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| Core Web Vitals | Core Web Vitals (LCP, INP, CLS) | Tres métricas de Google sobre la experiencia de carga: cuánto tarda en verse lo principal, cuánto en responder y cuánto se mueve la página | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+| CDN | content delivery network | Una red de servidores repartidos que entrega la tienda desde el lugar más cercano al comprador | [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md) |
+
 ## Operaciones, canales y normativa
 
 | Término | En inglés | Qué es | Dónde se desarrolla |
