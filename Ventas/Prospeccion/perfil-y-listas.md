@@ -56,7 +56,7 @@ Lo único medido es del lado de los contactos entrantes. Sabnis y otros (2013) e
 
 **Publicidad y venta directa.** El artículo 27 permite tratar datos para armar perfiles con fines promocionales. El titular puede pedir en cualquier momento que su nombre se retire o se bloquee de la base (inciso 3), y la lista tiene que poder cumplirlo. El Decreto 1558/2001 permite usar datos con fines publicitarios sin consentimiento cuando sirven para formar perfiles, siempre que el titular se identifique solo por pertenecer a grupos genéricos y con los datos estrictamente necesarios para la oferta. Una lista con nombres propios no es obviamente un grupo genérico. La redacción exacta del decreto no se verificó.
 
-**Una discrepancia abierta.** Según un comentario publicado en abogados.com.ar, esa excepción del decreto contradice el artículo 27 que reglamenta, y el régimen general de consentimiento del artículo 5 sigue rigiendo. Es doctrina de un estudio jurídico, no un fallo. Las dos lecturas existen.
+**Una discrepancia abierta.** Según un comentario publicado en abogados.com.ar, esa excepción del decreto contradice el artículo 27 que reglamenta, y el régimen general de consentimiento del artículo 5 sigue rigiendo. Es la opinión de un estudio jurídico; no se encontró un fallo que lo resuelva.
 
 **La ley puede cambiar.** El Poder Ejecutivo mandó en 2023 un proyecto para reemplazarla (Mensaje 87/2023) y hay otros en el Congreso. No se encontró si alguno avanzó a noviembre de 2026.
 

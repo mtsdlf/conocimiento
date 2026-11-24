@@ -27,14 +27,14 @@ Es la mitad entrante de la [prospección](prospeccion.md). Que la consulta llegu
 
 La cifra más citada sale de un estudio de 2007 de James Oldroyd (según el resumen, en el MIT; según una entrevista de 2010, en Kellogg) y David Elkington, director ejecutivo de InsideSales.com, la empresa de cuyo sistema salieron los datos. Fueron tres años de seis empresas, más de 15.000 contactos que habían llenado un formulario web y más de 100.000 intentos de llamada. Según su resumen, llamar a los 5 minutos en vez de a los 30 multiplica por 100 las chances de hablar con la persona y por 21 las de calificarla.
 
-Lo que el estudio no dice importa tanto como lo que dice:
+Lo que el estudio no permite concluir:
 
 - **No midió ventas.** El resumen lo aclara: «This study did not address close ratios.»
 - **Contactar y calificar los definió cada empresa** a su manera; contactar era una llamada que conectaba con una persona y duraba más de un umbral que fijaba cada empresa.
 - **Es correlación.** No se encontró ningún estudio que asigne al azar la velocidad de respuesta, y las empresas que contestan rápido pueden diferir en otras cosas.
 - **Es sobre contactos entrantes**, gente que pidió que la llamen. No vale para la llamada en frío.
 
-La dirección (contestar rápido ayuda) es razonable, y el estudio de Taobao de más abajo va en el mismo sentido; los estudios posteriores confirman sobre todo que las empresas tardan, no el tamaño del efecto. El tamaño del efecto no se puede tomar al pie de la letra. El mismo Oldroyd dijo en 2010 que la investigación «is not yet complete», que cada empresa tenía que analizar sus propios datos, y que hay rubros, como salud o finanzas, que toleran hasta 24 horas.
+Que contestar rápido ayuda es razonable, y el estudio de Taobao de más abajo va en el mismo sentido. El tamaño del efecto, en cambio, no se puede tomar al pie de la letra: los estudios posteriores confirman sobre todo que las empresas tardan. El mismo Oldroyd dijo en 2010 que la investigación «is not yet complete», que cada empresa tenía que analizar sus propios datos, y que hay rubros, como salud o finanzas, que toleran hasta 24 horas.
 
 ## Cuánto tardan las empresas
 
@@ -50,7 +50,7 @@ En una empresa de una o dos personas no hay un equipo que ignore los contactos; 
 
 ## Lo más cercano a una tienda chica
 
-Lo más cercano a una tienda online que se encontró es un estudio de consumo, no de ventas entre empresas. Sun, Chen y Fan analizaron 1.446 vendedores de ropa de mujer en Taobao, el mercado en línea chino, entre 2011 y 2012. Responder las consultas de los compradores mejoraba la conversión: «If they respond 100 percent of the time, they can increase the conversion rate by 9 percent», según uno de los autores. Los vendedores contestaban en promedio la mitad de las consultas. La nota consultada no nombra la revista ni el año del artículo.
+Es un estudio de consumo, sin ventas entre empresas. Sun, Chen y Fan analizaron 1.446 vendedores de ropa de mujer en Taobao, el mercado en línea chino, entre 2011 y 2012. Responder las consultas de los compradores mejoraba la conversión: «If they respond 100 percent of the time, they can increase the conversion rate by 9 percent», según uno de los autores. Los vendedores contestaban en promedio la mitad de las consultas. La nota consultada no nombra la revista ni el año del artículo.
 
 ## Qué hacer con la consulta
 

@@ -25,7 +25,7 @@ revisado:
 
 El primer contacto es el primer mensaje a alguien que no conoce a quien vende, por teléfono, correo, en persona o por mensajería, con un único objetivo: conseguir una primera conversación. Las tasas de respuesta son bajas en todos los canales, las que se conocen son de proveedores y en Argentina la ley regula llamar y escribir con fines comerciales.
 
-Es el paso de la [prospección](prospeccion.md) que sigue a [perfil y listas](perfil-y-listas.md): a quién se le escribe sale de ahí. Si no contesta, sigue el [seguimiento](seguimiento.md); en la práctica, primer contacto y seguimiento son una sola secuencia de mensajes. Si contesta, la conversación que se consigue es la de [descubrimiento](../Descubrimiento-y-calificacion/preguntas-de-descubrimiento.md). Este paso no vende el servicio: pide una charla.
+Es el paso de la [prospección](prospeccion.md) que sigue a [perfil y listas](perfil-y-listas.md): a quién se le escribe sale de ahí. Si no contesta, sigue el [seguimiento](seguimiento.md); en la práctica, primer contacto y seguimiento son una sola secuencia de mensajes. Si contesta, la conversación que se consigue es la de [descubrimiento](../Descubrimiento-y-calificacion/preguntas-de-descubrimiento.md). Este paso pide una charla; el servicio se ofrece después.
 
 ## Cuánto responde cada canal
 
@@ -37,7 +37,7 @@ Ninguna cifra se puede comparar con otra: cada proveedor define distinto el éxi
 | Llamada | 6.264 llamadas de 50 agentes inmobiliarios a números al azar dieron 19 citas y 11 referidos: una cita cada unas 330 llamadas | Baylor y Keller Williams (2011); el único experimento abierto encontrado, sin grupo de control, un mes y un mercado; las dos páginas de la universidad discrepan en cuántos agentes llamaron |
 | Correo | Entre 0,45% y 4,5% de respuestas, según el proveedor y cómo cuenta | Belkins (7,5 millones de correos de 2025) da 0,45%; Hunter, 4,5% según el buscador |
 | Correo | El 8,5% de los correos recibe respuesta | Backlinko; según una nota secundaria, incluye pedidos de enlaces y de prensa, más tibios que una venta en frío |
-| Visita al local, LinkedIn, WhatsApp, Instagram | Ninguna tasa con método | — |
+| Visita al local, LinkedIn, WhatsApp, Instagram | Ninguna tasa con método | Sin datos |
 
 Gong informa además que la llamada duplica la tasa de respuesta del correo: 3,44% contra 1,81%. Que la llamada en frío «está muerta» no lo sostiene ninguna fuente; que funcione bien tampoco: rinde poco y depende de la lista. En el experimento de Baylor, la lista era al azar, sin perfil.
 
@@ -45,11 +45,9 @@ Una explicación de esta base es que las tasas son bajas por algo que no depende
 
 ## Qué decir en el primer mensaje
 
-Lo que hay son recomendaciones de proveedores con datos propios, sin réplica independiente, más un criterio de esta base:
+Lo que hay son recomendaciones de proveedores con datos propios, sin réplica independiente. Según Gong, los correos de 100 palabras o menos y de tres o cuatro oraciones son los que más respuestas obtienen. Gong también critica el exceso de personalización con poco retorno y recomienda atarla a las prioridades del destinatario, con prueba de empresas parecidas que ya trabajan con uno. Backlinko midió que personalizar el asunto sube las respuestas un 30,5%.
 
-- **Corto.** Según Gong, los correos de 100 palabras o menos y de tres o cuatro oraciones son los que más respuestas obtienen.
-- **Sobre el otro, no sobre uno.** Gong critica el exceso de personalización con poco retorno y recomienda atarla a las prioridades del destinatario, con prueba de empresas parecidas que ya trabajan con uno. Backlinko midió que personalizar el asunto sube las respuestas un 30,5%.
-- **Un solo pedido.** El mensaje pide una conversación concreta, no una compra. Esto es criterio de esta base.
+El criterio de esta base es pedir una sola cosa: una conversación concreta, con día y hora si se puede.
 
 Lo que dicen los dueños de pymes va en la misma línea. En la encuesta de The Alternative Board (2014, 401 dueños), el 57% dijo que la información de los vendedores es «too sales-oriented» y el 46% espera que el vendedor le enseñe algo en una compra grande. Un primer mensaje que trae un dato útil sobre el negocio del otro responde a eso; uno que presenta la empresa, no. Esto último es inferencia de esta base.
 

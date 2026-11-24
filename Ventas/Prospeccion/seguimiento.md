@@ -56,7 +56,7 @@ En el correo, el daño tiene un mecanismo conocido: Google pide mantener los men
 
 Ninguna fuente lo responde con método. El criterio de esta base, marcado como propio, es decidir la secuencia antes de empezar: cuántos intentos (Yesware da una media de 7,56 y RAIN Group, ocho para una primera reunión; Woodpecker recomienda menos), en cuántas semanas y por qué canales. Si se completa sin respuesta, el nombre sale de la lista activa, y se vuelve a intentar meses después. Si responde que no, se suelta antes. El mismo criterio de cuándo dejar de perseguir a alguien que ya respondió está en [calificación](../Descubrimiento-y-calificacion/calificacion.md).
 
-Que vuelva a intentarse más adelante tiene una razón de mercado: quien hoy no está comprando puede estarlo en unos meses (ver [compradores fuera del mercado](../../Marketing/Mercado-y-cliente/compradores-fuera-del-mercado.md)).
+Volver a intentar más adelante tiene, para esta base, una razón de mercado: quien hoy no está comprando puede estarlo en unos meses (ver [compradores fuera del mercado](../../Marketing/Mercado-y-cliente/compradores-fuera-del-mercado.md)).
 
 ## Qué cambia con un comercio chico
 
