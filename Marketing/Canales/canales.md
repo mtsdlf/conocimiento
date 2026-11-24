@@ -48,6 +48,8 @@ La consecuencia práctica de Moore es entrar por un nicho que sirva de referenci
 
 En B2B compra un comité y pocas empresas están comprando a la vez, por el mecanismo de [compradores fuera del mercado](../Mercado-y-cliente/compradores-fuera-del-mercado.md). Binet y Field (2019) piden medios que reflejen la composición del comité. El tamaño del comité no tiene cifra firme: las que circulan no coinciden ni se verificaron en origen.
 
+Entre empresas, una forma propia del boca a boca es la referencia: un cliente que acepta contarle su experiencia a un prospecto. Qué se sabe de su valor y de los programas de referidos está en [boca a boca y referidos](boca-a-boca-y-referidos.md#qué-cambia-entre-empresas).
+
 Lo demás se parece al consumo. Binet y Field y el Ehrenberg-Bass (2023) encuentran que las marcas B2B crecen con alcance amplio y clientes nuevos, no con lealtad. Lo que cambia es el reparto entre [marca y activación](../Marca/marca-y-activacion.md), que Binet y Field corren hacia la activación (46:54).
 
 ## Dónde chocan las posiciones
@@ -63,9 +65,10 @@ Las fuentes de growth tampoco miden si un loop o un experimento causa crecimient
 > [!NOTE]
 > Sin fuente todavía: evidencia de B2B de ticket bajo donde decide el dueño, de pymes y de mercados emergentes; Rogers y Moore leídos en primaria; un estudio que compare PLG con no-PLG contando las empresas que cerraron.
 
-## Canales, growth, B2B y adopción, en detalle
+## Canales, growth, boca a boca, B2B y adopción, en detalle
 
 - [Elección de canales](eleccion-de-canales.md) — los 19 canales de *Traction* y el método Bullseye. Para elegir por dónde buscar los primeros clientes.
 - [Growth marketing y product-led growth](growth-y-product-led-growth.md) — loops, producto o venta, según quién usa y quién paga, y por qué su respaldo es práctica. Para decidir si el producto puede ser el canal.
 - [Adopción de innovaciones](adopcion-de-innovaciones.md) — la curva de Rogers, el modelo de Bass y el abismo de Moore. Para lanzar un producto nuevo.
+- [Boca a boca y referidos](boca-a-boca-y-referidos.md) — por qué recomienda un cliente, cuánto vale uno referido, qué hace el premio y qué cambia entre empresas. Para un servicio donde decide la confianza.
 - [Marketing B2B](marketing-b2b.md) — qué cambia y qué se mantiene al venderle a empresas, con la evidencia y sus límites. Para venderle a otra empresa.

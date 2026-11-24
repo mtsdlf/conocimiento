@@ -112,7 +112,7 @@ Sakas suma causas que dependen de quien presta el servicio: el alcance que nadie
 
 La investigación académica dice cuándo pesa cada experiencia. Bolton, Lemon y Bramlett (2006), con contratos de soporte de alta tecnología, encuentran, según su resumen, que la renovación depende de la calidad y del precio, que pesa más el último año que los anteriores, y que unas pocas experiencias muy buenas suben la renovación aunque el promedio sea el mismo. Ascarza y Hardie (2013) muestran, según su resumen, que el uso y la renovación responden al mismo compromiso del cliente, así que la baja se anuncia en el uso antes de llegar.
 
-Cómo se mide la baja una vez que hay datos está en [churn](../../Datos/Retencion-y-churn/churn.md).
+Cómo se mide la baja una vez que hay datos está en [churn](../../Datos/Retencion-y-churn/churn.md). Por qué lo entregado puede quedar debajo de lo que el cliente esperaba, y cómo se diagnostica, está en [modelo de las brechas](../../Marketing/Servicio-y-relacion/modelo-de-las-brechas.md#cómo-se-averigua-cuál-se-abrió) y [gestión de las promesas](../../Marketing/Servicio-y-relacion/gestion-de-las-promesas.md).
 
 ## Lo que no se encontró
 
