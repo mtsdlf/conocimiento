@@ -70,6 +70,8 @@ Además de apps, alrededor de cada plataforma vive un ecosistema de servicios: a
 
 Parte de ese trabajo es mudar tiendas que ya existen desde otra plataforma. Los productos pasan con herramientas gratuitas o baratas. Lo que no pasa solo es lo que hace falta saber hacer: los pedidos viejos, las contraseñas de los clientes, las integraciones y las redirecciones de cada dirección vieja, de las que depende el tráfico de los buscadores (detalle en [mudar una tienda](mudar-una-tienda.md)).
 
+Ese tráfico es el otro trabajo que se cuida sobre la plataforma. Una plataforma alojada entrega resuelto lo técnico del posicionamiento en buscadores: sitemap, canónicas y datos del producto. Lo que queda en manos del comercio, o de quien cuida su tienda, son los textos, el catálogo y el control de las direcciones que la tienda genera sola con filtros y variantes (detalle en [SEO de una tienda](seo-de-una-tienda.md)).
+
 ## Cómo se usa al analizar plataformas de tiendas
 
 Comparar plataformas por su lista de funciones deja afuera lo que más pesa. Antes de comparar funciones conviene fijar cuatro cosas de cada competidor:
@@ -92,6 +94,7 @@ Los componentes, en orden de lectura:
 - [Apps para comerciantes](apps-para-comerciantes.md): qué resuelven, cómo cobran, qué se queda la plataforma, cómo se mide su presencia y el riesgo de que la plataforma copie la función.
 - [Socios de una plataforma](socios-de-una-plataforma.md): agencias, freelancers y afiliados; qué les paga la plataforma, sus niveles, cómo les llegan clientes, qué prohíbe y el riesgo de depender de una.
 - [Mudar una tienda](mudar-una-tienda.md): qué datos pasan y cuáles no, las redirecciones, el dominio, el orden de los pasos, cuánto tráfico se pierde y qué suele salir mal.
+- [SEO de una tienda](seo-de-una-tienda.md): cómo llega Google a un producto, qué resuelve la plataforma y qué el comercio, filtros, variantes y agotados, cuánto pesa la búsqueda orgánica y qué se revisa cada mes.
 
 Las fichas fechadas, consultadas el 2026-11-22. Plataformas:
 
@@ -110,6 +113,7 @@ Socios y mudanzas, consultadas el 2026-11-24:
 - [Programa de socios de Tiendanube](programa-de-socios-de-tiendanube.md): el programa de agencias de mayo de 2026, con sus niveles, comisiones de 20% y 30% y el directorio de especialistas.
 - [Programa de socios de WooCommerce](programa-de-socios-de-woocommerce.md): de WooExperts a Woo Partner, Automattic for Agencies y un directorio de 174 agencias.
 - [Herramientas para mudar una tienda](herramientas-para-mudar-una-tienda.md): los importadores de cada plataforma y los servicios de terceros, con lo que migran y su precio de entrada.
+- [SEO por plataforma](seo-por-plataforma.md): lo que Tiendanube, Shopify y WooCommerce fijan y dejan cambiar para los buscadores (consultada el 2026-11-24).
 
 Marketplace:
 

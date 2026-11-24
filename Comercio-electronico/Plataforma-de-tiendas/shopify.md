@@ -81,3 +81,7 @@ En lo leído del 10-K, Shopify no publica un take rate con ese nombre. El inform
 ## Presencia en Argentina
 
 StoreLeads cuenta 9.059 tiendas vivas en Argentina, en su página actualizada el 2026-11-13, sobre un total global mostrado de 3.298.869. Es un rastreador que detecta sitios, no un dato de la empresa. Las otras mediciones y sus métodos están en [presencia en Argentina](presencia-en-argentina.md).
+
+## Posicionamiento en buscadores
+
+Lo que Shopify fija y deja cambiar para el SEO (direcciones, títulos, sitemap, canónicas, datos del producto, Merchant Center) está en la ficha comparativa [SEO por plataforma](seo-por-plataforma.md), consultada el 2026-11-24.

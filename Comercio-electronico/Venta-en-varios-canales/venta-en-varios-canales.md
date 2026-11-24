@@ -29,7 +29,7 @@ revisado:
 
 Vender en varios canales es ofrecer lo mismo a la vez en una tienda propia, en marketplaces, en redes o mensajería y en un local físico. Pide decidir en qué canales estar según la etapa del negocio y cuánto integrarlos: multicanal es estar en varios con gestión separada, y omnicanal es integrarlos para que el comprador pase de uno a otro.
 
-Cada canal manda sus pedidos a [Operaciones del comercio](../Operaciones-del-comercio/operaciones-del-comercio.md), que los atiende con un mismo stock. La tienda propia es la que arma una [plataforma de tiendas](../Plataforma-de-tiendas/plataforma-de-tiendas.md), y en muchos casos la misma plataforma conecta los otros canales. Acá un canal es donde se cierra la venta; los caminos del mensaje (SEO, anuncios, email) son de [Canales](../../Marketing/Canales/canales.md), en Marketing.
+Cada canal manda sus pedidos a [Operaciones del comercio](../Operaciones-del-comercio/operaciones-del-comercio.md), que los atiende con un mismo stock. La tienda propia es la que arma una [plataforma de tiendas](../Plataforma-de-tiendas/plataforma-de-tiendas.md), y en muchos casos la misma plataforma conecta los otros canales. Acá un canal es donde se cierra la venta; los caminos del mensaje (SEO, anuncios, email) son de [Canales](../../Marketing/Canales/canales.md), en Marketing, salvo el [SEO de una tienda](../Plataforma-de-tiendas/seo-de-una-tienda.md), que depende de su plataforma.
 
 ## Los cuatro canales de venta
 

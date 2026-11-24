@@ -18,6 +18,8 @@ Elegir canales es encontrar, entre los 19 que listan Weinberg y Mares en Tractio
 
 Muchos emprendimientos mueren por no conseguir clientes, no por el producto. Según los autores, conseguir tracción pesa tanto como construir y conviene arrancarlo en paralelo. Proponen dedicarle la mitad del tiempo.
 
+Para una tienda online, el SEO tiene su nota en Comercio electrónico: [SEO de una tienda](../../Comercio-electronico/Plataforma-de-tiendas/seo-de-una-tienda.md), con lo que resuelve la plataforma, lo que queda en el comercio y la evidencia sobre cuánto pesa.
+
 A quién hay que llegar primero al salir al mercado lo dice la [adopción de innovaciones](adopcion-de-innovaciones.md).
 
 ## Los 19 canales de *Traction*
