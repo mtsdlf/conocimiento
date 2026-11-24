@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, el contrato de servicio de quien arma y cuida tiendas online es un contrato de obra y de servicios del Código Civil y Comercial (arts. 1251 a 1279). Armar la tienda es una obra, porque promete un resultado que se entrega. Cuidarla por un abono es un servicio continuado, porque promete una actividad que se repite cada mes.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Código Civil y Comercial, texto actualizado en Infoleg (arts. 288, 747, 774, 960, 984, 988, 1011, 1015, 1092, 1251 a 1257, 1261, 1262, 1264, 1272, 1278, 1279, 2605 y 2651, leídos el 2026-11-24): https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/texact.htm"
@@ -15,7 +15,7 @@ fuentes:
   - "Emprender/.investigacion/contratos-y-datos-textos-oficiales.md"
 aliases: [contrato de servicios, contrato de obra, contrato de abono, acuerdo de servicio, contrato de mantenimiento, locación de servicios, locación de obra, service agreement, master services agreement, MSA]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Contrato de servicio

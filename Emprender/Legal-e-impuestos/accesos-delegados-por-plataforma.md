@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cómo da acceso a un tercero cada cuenta que usa una tienda pyme sin compartir la contraseña del dueño, consultado el 2026-11-24: Shopify, Tiendanube, WooCommerce, Google Search Console y Analytics, Mercado Pago, Meta y el dominio en NIC Argentina, con el rol que le conviene al prestador y cómo se quita.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Shopify, Collaborations (Dev Dashboard), consulta 2026-11-24: https://shopify.dev/docs/apps/build/dev-dashboard/stores/collaborations"
@@ -16,7 +16,7 @@ fuentes:
   - "Emprender/.investigacion/acceso-a-las-cuentas-del-cliente.md"
 aliases: [colaborador de Shopify, usuarios de Tiendanube, shop manager, colaboradores de Mercado Pago, apoderado de NIC Argentina, propietario delegado]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Accesos delegados por plataforma

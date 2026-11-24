@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El acceso a las cuentas del cliente es cómo entra quien arma o cuida una tienda a la tienda, el dominio, los pagos y las herramientas del comercio, y cómo sale. La regla tiene tres partes: las cuentas quedan a nombre del comercio, el prestador entra con un usuario propio y con los permisos justos, y la autorización queda por escrito. Las plataformas y las guías de seguridad sostienen las dos primeras; la tercera es una lectura de la base sobre el Código Penal.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ley 26.388, art. 5 (art. 153 bis del Código Penal), Infoleg, leído el 2026-11-24: https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141790/norma.htm"
@@ -19,7 +19,7 @@ fuentes:
   - "Emprender/.investigacion/contratos-y-datos-contraria.md"
 aliases: [cuentas de colaborador, collaborator account, acceso de colaborador, acceso delegado, mínimo privilegio, least privilege, propiedad de las cuentas, offboarding de cliente, compartir contraseñas]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Acceso a las cuentas del cliente

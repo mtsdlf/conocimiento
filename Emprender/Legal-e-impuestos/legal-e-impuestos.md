@@ -14,7 +14,7 @@ fuentes:
   - "Emprender/.investigacion/finanzas-equipo-legal.md"
 aliases: [SAS, SRL, SA, sociedad por acciones simplificada, monotributo, forma societaria, contratos con clientes]
 creado: 2026-11-22
-revisado: 2026-11-22
+revisado: 2026-11-24
 ---
 
 # Legal e impuestos

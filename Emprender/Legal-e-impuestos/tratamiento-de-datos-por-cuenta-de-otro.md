@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tratar datos por cuenta de otro es manejar los datos personales de una base ajena para el servicio que el dueño encargó: lo que hace quien opera la tienda de un comercio y ve los nombres, direcciones y pedidos de sus compradores. En Argentina lo regula el art. 25 de la Ley 25.326. Los datos se usan solo para lo que dice el contrato, no se ceden y se destruyen al terminar, y el contrato que lo ordena es obligatorio.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ley 25.326 de protección de datos personales, Infoleg (arts. 2, 9, 10, 12, 25 y 31, leídos el 2026-11-24): https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/norma.htm"
@@ -18,7 +18,7 @@ fuentes:
   - "Emprender/.investigacion/contratos-y-datos-textos-oficiales.md"
 aliases: [encargado del tratamiento, encargado de tratamiento, data processor, prestación de servicios informatizados de datos personales, artículo 25 Ley 25.326, contrato de encargo de tratamiento, DPA, data processing agreement]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Tratamiento de datos por cuenta de otro

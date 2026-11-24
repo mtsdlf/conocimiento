@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La responsabilidad del prestador es lo que tiene que indemnizar quien arma o cuida una tienda si su trabajo le causa un daño al comercio. En Argentina depende de qué prometió (actividad o resultado), de qué daño era previsible al firmar y de si la cláusula que la limita vale, y eso último cambia si el comercio cuenta como consumidor.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Código Civil y Comercial, texto actualizado en Infoleg (arts. 774, 984, 988, 1092, 1093, 1094, 1117, 1119, 1254, 1728, 1730, 1731, 1743 y 1768, leídos el 2026-11-24): https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/texact.htm"
@@ -15,7 +15,7 @@ fuentes:
   - "Emprender/.investigacion/contratos-y-datos-textos-oficiales.md"
 aliases: [limitación de responsabilidad, cláusula de limitación de responsabilidad, limitation of liability, obligación de medios, obligación de resultado, consumidor empresario, dispensa de responsabilidad, seguro de responsabilidad profesional, E&O]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Responsabilidad del prestador
