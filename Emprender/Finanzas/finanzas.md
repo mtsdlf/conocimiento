@@ -75,9 +75,13 @@ Los instrumentos con que entra la plata temprana se mencionan acá y tendrán su
 - **Medir la pista solo en meses.** Una pista de un año alcanza para muchos pivotes si cada ciclo es corto, y para dos si cada ciclo lleva seis meses (inferencia de la base sobre [pivotar o perseverar](../Validacion/pivotar-o-perseverar.md)).
 - **Elegir la fuente sin mirar su precio.** Capital de riesgo para un negocio que no puede crecer órdenes de magnitud cede propiedad y control a cambio de una exigencia que la empresa no va a cumplir (inferencia de la base sobre Kerr, Nanda y Rhodes-Kropf).
 
+## Lo que hay adentro de Finanzas
+
+- [Plan financiero mínimo](plan-financiero-minimo.md) — la planilla de caja a doce meses: sus filas, los ingresos contados de abajo hacia arriba, un ejemplo, cómo se lee la pista y qué hacer con la inflación.
+
 ## Lo que se va a sumar a Finanzas
 
-Esta parte todavía no tiene componentes propios. Cuando se escriban, van a ser estos, tomados de la investigación:
+Cuando se escriban, los componentes que faltan van a ser estos, tomados de la investigación:
 
 - Caja y resultado: por qué una empresa rentable se queda sin plata.
 - Consumo mensual, pista y default alive: cuánto dura la plata y cómo se calcula.
@@ -86,6 +90,5 @@ Esta parte todavía no tiene componentes propios. Cuando se escriban, van a ser 
 - Financiarse con clientes y bootstrapping: adelantos, suscripciones y pagos por anticipado.
 - Capital de riesgo y la concentración de sus retornos: cuándo tiene sentido y cuándo no.
 - Instrumentos de la plata temprana: SAFE y nota convertible, como mención.
-- Plan financiero mínimo: la planilla de doce meses de caja.
 
 El margen por cliente no va a tener componente acá: vive en [economía unitaria](../../Marketing/Medicion/economia-unitaria.md).
