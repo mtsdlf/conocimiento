@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Los mitos de estrategia competitiva son frases que circulan como reglas (ser primero gana, la disrupción es cualquier innovación, las cinco fuerzas son un análisis estático que alcanza, el SWOT es un análisis de competencia, más datos sobre el rival dan una mejor decisión, ganarle al rival es el objetivo, la estrategia es una guerra) contra lo que miden los estudios o sin estudio detrás. Cada uno, con la evidencia y la nota donde se trata a fondo.
+  Los mitos de estrategia competitiva son frases que circulan como reglas (ser primero gana, la disrupción es cualquier innovación, las cinco fuerzas son un análisis estático que alcanza, el SWOT es un análisis de competencia, más datos sobre el rival dan una mejor decisión, ganarle al rival es el objetivo, la estrategia es una guerra, cooperar con un competidor siempre agranda la torta) contra lo que miden los estudios o sin estudio detrás. Cada uno, con la evidencia y la nota donde se trata a fondo.
 estado: vigente
 estabilidad: semi
 fuentes:
@@ -13,6 +13,7 @@ fuentes:
   - "J. Scott Armstrong y Fred Collopy (1996), Competitor Orientation, JMR 33(2):188-199: https://mpra.ub.uni-muenchen.de/81676/ (texto completo)"
   - "Henry Mintzberg y James Waters (1985), Of strategies, deliberate and emergent, SMJ 6(3):257-272: https://econpapers.repec.org/RePEc:bla:stratm:v:6:y:1985:i:3:p:257-272 (abstract)"
   - "Estrategia-competitiva/.investigacion/fundamentos.md, sección 5"
+  - "Estrategia-competitiva/.investigacion/coopeticion.md y coopeticion-contraria.md"
   - "Kolar y Toporišič (2007), Marketing as warfare, revisited, Marketing Intelligence & Planning 25(3):203-216: https://emerald.com/insight/content/doi/10.1108/02634500710747725/full/html (abstract)"
   - "Kolar (2012): https://www.dlib.si/stream/URN:NBN:SI:DOC-M23O8HL8/85b59cb4-2a5b-458b-bc89-bce742224bd4/TEXT (paráfrasis del buscador; la página solo trae metadatos)"
   - "Al Ries y Jack Trout (1986), Marketing warfare, Journal of Consumer Marketing 3(4):77-82: http://www.emerald.com/jcm/article/3/4/77-82/194350 (solo la apertura)"
@@ -26,7 +27,7 @@ revisado: 2026-11-22
 
 # Mitos de estrategia competitiva
 
-Los mitos de estrategia competitiva son frases que circulan como reglas (ser primero gana, la disrupción es cualquier innovación, las cinco fuerzas son un análisis estático que alcanza, el SWOT es un análisis de competencia, más datos sobre el rival dan una mejor decisión, ganarle al rival es el objetivo, la estrategia es una guerra) contra lo que miden los estudios o sin estudio detrás. Cada uno, con la evidencia y la nota donde se trata a fondo.
+Los mitos de estrategia competitiva son frases que circulan como reglas (ser primero gana, la disrupción es cualquier innovación, las cinco fuerzas son un análisis estático que alcanza, el SWOT es un análisis de competencia, más datos sobre el rival dan una mejor decisión, ganarle al rival es el objetivo, la estrategia es una guerra, cooperar con un competidor siempre agranda la torta) contra lo que miden los estudios o sin estudio detrás. Cada uno, con la evidencia y la nota donde se trata a fondo.
 
 A diferencia de lo que pasa en [producto](../../Producto/Fundamentos/mitos-de-producto.md), varios de estos mitos tienen estudios con método en contra: Golder y Tellis para los pioneros, King y Baatartogtokh para la disrupción, Armstrong y Collopy para el objetivo de ganarle al rival. Tres no los tienen: el SWOT se critica con un estudio conocido solo por resúmenes, el de los datos no tiene fuente y el de la guerra solo tiene críticas de opinión.
 
@@ -42,6 +43,7 @@ A diferencia de lo que pasa en [producto](../../Producto/Fundamentos/mitos-de-pr
 | "El objetivo es ganarle al rival" | Armstrong y Collopy (1996): en 20 empresas, el objetivo de cuota se correlacionó negativamente con el retorno sobre la inversión; en experimentos, más del 40 % de 1016 sujetos sacrificó beneficios por ganarle a un rival | [Obsesión por el competidor](../Analisis-de-competidores/obsesion-por-el-competidor.md) |
 | "La estrategia se planea toda de antemano" | Mintzberg y Waters (1985), según su abstract, ponen la estrategia deliberada y la emergente en los extremos de un continuo | [Escuelas de estrategia](escuelas-de-estrategia.md#estrategia-deliberada-y-emergente) |
 | "La estrategia es una guerra" | Ries y Trout la llevaron al marketing con cuatro formas de guerra (defensiva, ofensiva, de flanqueo y de guerrilla), según Wikipedia y resúmenes; el libro no se leyó. No se encontró evaluación empírica. Kolar y Toporišič (2007), un artículo de opinión sin datos conocido por su abstract, la llaman "an obsolete and superficial metaphor". Kolar (2012), según una paráfrasis del buscador, dice que su uso "is usually limited to anecdotal illustrations" | [Elegir el terreno](../Dinamica-competitiva/elegir-el-terreno.md) |
+| "Cooperar con un competidor siempre agranda la torta" | El meta-análisis de Xie et al. (2023), conocido por su abstract, da un efecto positivo en promedio que depende del país, de cómo se midió y, según ese estudio y no según otro meta-análisis de 2021, de la industria. Park, Srivastava y Gnyawali (2014) encuentran una relación "non-monotonic", y Crick (2020), con 101 bodegas, que mucha coopetición daña. Gnyawali y Charleton (2018) cuentan la destrucción de valor entre los resultados posibles | [Coopetición](../Dinamica-competitiva/coopeticion.md#qué-dice-la-evidencia-rinde-en-promedio-no-siempre) |
 
 ## Los matices que no entran en la tabla
 

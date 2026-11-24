@@ -41,7 +41,7 @@ flowchart LR
 
 - [Análisis de industria](Analisis-de-industria/analisis-de-industria.md): las cinco fuerzas y los grupos estratégicos. Se entra para saber si un mercado vale la pena y quiénes compiten de verdad contra quién.
 - [Fuentes de ventaja](Fuentes-de-ventaja/fuentes-de-ventaja.md): estrategias genéricas, cadena de valor, recursos y capacidades, los 7 Powers y los costos de cambio. Se entra para saber qué haría difícil copiar a un rival, o al producto propio.
-- [Dinámica competitiva](Dinamica-competitiva/dinamica-competitiva.md): acción y respuesta, ventaja del primero, disrupción, océano azul y elegir el terreno. Se entra para anticipar qué pasa cuando alguien mueve.
+- [Dinámica competitiva](Dinamica-competitiva/dinamica-competitiva.md): acción y respuesta, ventaja del primero, disrupción, océano azul, elegir el terreno y coopetición. Se entra para anticipar qué pasa cuando alguien mueve, o cuando el rival también es socio.
 - [Análisis de competidores](Analisis-de-competidores/analisis-de-competidores.md): identificar rivales, perfilarlos, mirarlos desde varias perspectivas, juntar información de forma legal y no engañarse. Es la parte práctica y la más desarrollada.
 
 ## La industria importa, pero la empresa importa más
@@ -85,6 +85,7 @@ Si tenés que hacer el análisis completo, seguí los pasos de arriba con el [re
 - Si tenés que averiguar algo de un rival: [ética y legalidad](Analisis-de-competidores/etica-y-legalidad.md) primero, después [fuentes públicas](Analisis-de-competidores/fuentes-publicas.md) y, si cotiza, [lectura de reportes públicos](Analisis-de-competidores/lectura-de-reportes-publicos.md).
 - Si tenés que comparar tu producto con el de un rival: [desarme de producto](Analisis-de-competidores/desarme-de-producto.md); la usabilidad se compara con la [evaluación competitiva](../UX/Evaluacion/evaluacion-competitiva.md) de UX.
 - Si tenés que anticipar cómo responde un rival a una jugada tuya, como bajar el precio: [acción y respuesta](Dinamica-competitiva/accion-y-respuesta.md) y [precios de la competencia](../Producto/Monetizacion/precios-de-la-competencia.md).
+- Si sos socio de una plataforma que también te puede competir, o tenés que decidir si cooperar con un competidor: [coopetición](Dinamica-competitiva/coopeticion.md) y [competencia con la plataforma](../Producto/Plataformas/competencia-con-la-plataforma.md).
 - Si tenés que decidir si entrar a un mercado o cómo pelear contra uno grande: [cinco fuerzas](Analisis-de-industria/cinco-fuerzas.md) y [elegir el terreno](Dinamica-competitiva/elegir-el-terreno.md).
 
 ## Orden de lectura

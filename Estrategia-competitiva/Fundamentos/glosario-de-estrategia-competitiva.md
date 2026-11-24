@@ -92,6 +92,10 @@ Los informes del tema marcan con estas siglas cuánto se leyó de cada fuente; l
 | Ventaja del primero | first-mover advantage | El beneficio que se le supone a quien entra primero a un mercado | [Ventaja del primero](../Dinamica-competitiva/ventaja-del-primero.md) |
 | Líder temprano | early leader | Quien llega a liderar un mercado sin haber sido el pionero (Golder y Tellis) | [Ventaja del primero](../Dinamica-competitiva/ventaja-del-primero.md) |
 | Innovación disruptiva | disruptive innovation | Un proceso en que un entrante con una oferta más simple o barata crece desde el borde hasta desplazar al establecido (Christensen) | [Disrupción](../Dinamica-competitiva/disrupcion.md) |
+| Coopetición | co-opetition, coopetition | Cooperar y competir a la vez con el mismo actor | [Coopetición](../Dinamica-competitiva/coopeticion.md) |
+| Red de valor | value net | El mapa de Brandenburger y Nalebuff con cuatro papeles: clientes, proveedores, competidores y complementadores | [Coopetición](../Dinamica-competitiva/coopeticion.md#la-red-de-valor-cuatro-papeles-no-dos) |
+| Complementador | complementor | Un actor cuyo producto hace que el cliente valore más el tuyo; puede ser también competidor | [Coopetición](../Dinamica-competitiva/coopeticion.md#la-red-de-valor-cuatro-papeles-no-dos) |
+| Valor agregado | added value | Lo que se pierde del valor total si un actor sale del juego; decide cuánto se lleva | [Coopetición](../Dinamica-competitiva/coopeticion.md#el-valor-agregado-decide-cuánto-se-lleva-cada-uno) |
 | No consumo | nonconsumption | Quienes hoy no compran ninguna solución, por falta de dinero o de habilidad | [Identificación de competidores](../Analisis-de-competidores/identificacion-de-competidores.md#el-no-consumo-como-rival) |
 | Océano azul | blue ocean | Un espacio de mercado nuevo, sin competencia directa (Kim y Mauborgne) | [Océano azul](../Dinamica-competitiva/oceano-azul.md) |
 | Cuatro acciones | four actions framework | Eliminar, reducir, aumentar y crear factores frente a lo que ofrece la industria | [Océano azul](../Dinamica-competitiva/oceano-azul.md) |

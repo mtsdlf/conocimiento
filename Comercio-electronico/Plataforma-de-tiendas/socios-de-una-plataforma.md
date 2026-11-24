@@ -89,6 +89,8 @@ Elegir una plataforma da foco: una sola forma de armar tiendas, un nivel que sub
 
 Las tiendas que ya estaban conservan sus condiciones. Shopify presenta el cambio de 2026 como una mejora, con un ejemplo propio: US$ 5.872 en cuatro años contra US$ 2.872 con el modelo anterior, para una tienda de su plan Advanced que vende US$ 750.000 por año. En su foro, las agencias contestaron que el 0,1% "is not going to compensate for the loss of recurring income over the longer term". Cuál de las dos lecturas vale depende de cuánto venden las tiendas y de cuánto duran. Por la cuenta de la tabla (inferencia propia, sin medición), con tiendas chicas que duran más de cuatro años pierde la agencia: el 0,1% de poco GMV no repone la suscripción que deja de cobrar.
 
+La plataforma es a la vez la que trae clientes, la que pone las reglas y la que puede hacer parte del trabajo con una app propia: una relación de [coopetición](../../Estrategia-competitiva/Dinamica-competitiva/coopeticion.md), donde está qué conviene ser frente a ella.
+
 Es un [costo de cambio](../../Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md) que corre al revés: la agencia invierte en certificaciones, nivel y conocimiento de una plataforma, y esa inversión no se lleva a otra. No se encontró un caso documentado de una agencia que haya quebrado por un cambio de su plataforma, ni de una plataforma que haya pasado a armar tiendas pyme con equipo propio. Sí ofrecen apps para que el comercio se mude solo (la de Shopify es gratis), y esas apps hacen la parte más simple del trabajo.
 
 ## Cómo se elige sobre qué plataforma trabajar
