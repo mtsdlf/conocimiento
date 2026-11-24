@@ -32,13 +32,13 @@ Es la parte del [contrato de servicio](contrato-de-servicio.md) que más se toca
 
 La tienda, el dominio y la cuenta de cobro van a nombre del comercio desde el primer día. NIC Argentina lo dice para el dominio: «es necesario que tengas en tus manos su administración, así, siendo titular podrás realizar libremente cualquier trámite, como renovar, delegar o transferir tu dominio». No se encontró que ninguna plataforma de tiendas lo diga con esas palabras, aunque sus mecanismos apuntan a lo mismo (lectura de la base). Shopify no deja transferir una tienda en la que el socio solo es colaborador («You can't transfer a collaboration store»), y para pasar al comercio una tienda que armó el socio hay que desactivar antes Shopify Payments. Abrir los pagos a nombre del comercio desde el principio evita ese paso (inferencia de la base).
 
-Hay cosas que en la práctica quedan a nombre del prestador: el repositorio del tema, apps instaladas desde su cuenta de socio o licencias pagadas con su tarjeta. Un blog de práctica (Hutt, 2026) las trata como un riesgo para el comercio, porque dejan de andar cuando se corta la relación. No son un error si el contrato dice quién es el titular, quién paga y qué se transfiere al irse.
+Hay cosas que en la práctica quedan a nombre del prestador: el repositorio del tema, apps instaladas desde su cuenta de socio o licencias pagadas con su tarjeta. Un blog de práctica (Hutt, 2026) las trata como un riesgo para el comercio, porque dejan de andar cuando se corta la relación. Dejan de ser un problema si el contrato dice quién es el titular, quién paga y qué se transfiere al irse.
 
 ## Un usuario propio con los permisos justos
 
 El prestador entra con su propio usuario, nunca con la contraseña del dueño. Shopify lo pide en su guía de seguridad («Don't share your username or password with anyone») y ofrece una cuenta de colaborador en la que el comercio elige los permisos. Tiendanube, Mercado Pago, Google y WooCommerce (este último, por resumen) tienen usuarios con roles, como cuenta la [ficha](accesos-delegados-por-plataforma.md). Un usuario propio se puede quitar sin cambiarle la contraseña al dueño (inferencia de la base; los registros de actividad de cada plataforma no se leyeron).
 
-Los permisos se dan para la tarea y nada más. Es el principio de mínimo privilegio, que el NIST formula así en su control AC-6: «allowing only authorized accesses for users [...] that are necessary to accomplish assigned organizational tasks». Aplicada esa regla, para el cuidado mensual de una tienda alcanza casi siempre con gestionar productos, pedidos y diseño, y los pagos, la facturación y la gestión de usuarios quedan del lado del dueño (las dos cosas son inferencia de la base).
+Los permisos se dan solo para la tarea. Es el principio de mínimo privilegio, que el NIST formula así en su control AC-6: «allowing only authorized accesses for users [...] that are necessary to accomplish assigned organizational tasks». Aplicada esa regla, para el cuidado mensual de una tienda alcanza casi siempre con gestionar productos, pedidos y diseño, y los pagos, la facturación y la gestión de usuarios quedan del lado del dueño (las dos cosas son inferencia de la base).
 
 Cada usuario lleva segundo factor y su contraseña vive en un gestor. El NCSC británico dice que activar la verificación en dos pasos es «one of the most effective ways to protect online accounts», y CISA recomienda un gestor de contraseñas para toda la empresa. El NIST obliga a los sistemas a permitir los gestores («SHALL allow the use of password managers») y les prohíbe exigir cambios periódicos de contraseña si no hay señales de compromiso.
 
@@ -53,7 +53,7 @@ El acuerdo de socios de Shopify pide algo parecido; los términos de las otras p
 
 ## Cómo se sale
 
-Al terminar, el acceso se quita y se deja constancia. El control AC-2 del NIST pide revisar las cuentas, notificar cuando los usuarios «are terminated or transferred» y alinear el proceso con la baja. El NCSC recomienda revisar cada pocos meses quién tiene acceso a las cuentas importantes. Para el prestador, salir bien es una lista corta (síntesis de la base sobre esas guías y la ficha):
+Al terminar, el acceso se quita y se deja constancia. El control AC-2 del NIST pide revisar las cuentas, notificar cuando los usuarios «are terminated or transferred» y alinear el proceso con la baja. El NCSC recomienda revisar cada pocos meses quién tiene acceso a las cuentas importantes. Salir bien se resume en una lista corta (síntesis de la base sobre esas guías y la ficha):
 
 1. Pasar al comercio lo que estaba a nombre del prestador y el contrato dice que se transfiere: apps, licencias, repositorio.
 2. Quitar los usuarios propios de cada cuenta, o pedirle al comercio que los quite, y anotar la fecha.

@@ -23,7 +23,7 @@ revisado:
 
 Cómo da acceso a un tercero cada cuenta que usa una tienda pyme sin compartir la contraseña del dueño, consultado el 2026-11-24: Shopify, Tiendanube, WooCommerce, Google Search Console y Analytics, Mercado Pago, Meta y el dominio en NIC Argentina, con el rol que le conviene al prestador y cómo se quita.
 
-Implementa la regla de [acceso a las cuentas del cliente](acceso-a-las-cuentas-del-cliente.md): usuario propio, permisos justos y salida explícita. Las plataformas cambian estas pantallas seguido; antes de pedir un acceso, abrí la fuente viva de cada fila.
+Aplica la regla de [acceso a las cuentas del cliente](acceso-a-las-cuentas-del-cliente.md): usuario propio, permisos justos y salida explícita. Las plataformas cambian estas pantallas seguido; antes de pedir un acceso, abrí la fuente viva de cada fila.
 
 | Cuenta | Cómo entra el prestador | Rol que conviene | Cómo se quita | Fuente |
 |---|---|---|---|---|
