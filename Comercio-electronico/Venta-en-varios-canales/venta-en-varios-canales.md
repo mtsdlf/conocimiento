@@ -14,12 +14,13 @@ fuentes:
   - "Juozas Kaziukėnas, Amazon Takes a 50% Cut of Sellers' Revenue, Marketplace Pulse, 13/02/2023: https://www.marketplacepulse.com/articles/amazon-takes-a-50-cut-of-sellers-revenue (leído)"
   - "Marketplace Pulse, Amazon fees only go up, marzo de 2024: https://www.marketplacepulse.com/articles/amazon-fees-only-go-up (leído)"
   - "Nuvemshop, blog, ecommerce ou marketplace: https://www.nuvemshop.com.br/blog/ecommerce-ou-marketplace/ (leído; lo escribe un proveedor de tiendas)"
-  - "Meta, precios de WhatsApp Business Platform: https://developers.facebook.com/docs/whatsapp/pricing (leída a través de un resumen, consultada el 2026-11-22)"
+  - "Meta, precios de WhatsApp Business Platform: https://developers.facebook.com/docs/whatsapp/pricing (tablas leídas enteras, consultada el 2026-11-22)"
   - "Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md"
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (B2 y B5)"
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md"
   - "Comercio-electronico/.investigacion/local-fisico-con-caja.md"
-aliases: [multicanal, omnicanal, omnichannel, multichannel, omnicanalidad, venta multicanal, marketplace o tienda propia, canales de venta, POS, punto de venta]
+  - "Comercio-electronico/.investigacion/conversacional-meta-precios-y-terminos.md"
+aliases: [multicanal, omnicanal, omnichannel, multichannel, omnicanalidad, venta multicanal, marketplace o tienda propia, canales de venta, POS, punto de venta, venta por chat, venta por WhatsApp]
 creado: 2026-11-22
 revisado:
 ---
@@ -38,14 +39,12 @@ Cada canal decide quién se queda con la relación con el comprador y cuánto se
 |---|---|---|---|
 | Tienda propia | el comercio | el software (una plataforma de tiendas) | suscripción y costo de cobrar; el tráfico lo consigue el comercio |
 | Marketplace | el marketplace | tráfico, credibilidad y cobro resueltos | comisión por venta y, según el marketplace, logística y publicidad |
-| Redes y mensajería | compartida con la red | la audiencia y el chat | la publicidad o, en algunas apps, los mensajes |
+| Redes y mensajería ([comercio conversacional](Comercio-conversacional/comercio-conversacional.md)) | compartida con la red, que es dueña del canal | la audiencia y el chat | la publicidad, la herramienta para atender y, en la API de WhatsApp, cada mensaje |
 | [Local físico con caja](Local-fisico-con-caja/local-fisico-con-caja.md) | el comercio | el lugar; el POS (punto de venta) registra la venta y descuenta stock | el local, el lector de cobro y, si no viene con la plataforma, el POS y la factura |
 
 La tabla resume la descripción convencional de cada canal; no se verificó contra un libro de texto.
 
-La OCDE no cuenta toda venta por redes como comercio electrónico: entra si el pedido usa un catálogo estructurado dentro de la app, y no si se tipea a mano; el criterio está en la [entrada del tema](../comercio-electronico.md). Atender por mensajería también cuesta: según la documentación de Meta consultada el 2026-11-22, WhatsApp Business Platform cobra desde el 1/7/2025 por mensaje que la empresa entrega, y los del usuario son gratis.
-
-> [!NOTE] Sin fuente todavía: tiendas dentro de Instagram y Facebook y si permiten pagar dentro de la app en Argentina; comercio social más allá de WhatsApp.
+La OCDE no cuenta toda venta por redes como comercio electrónico: entra si el pedido usa un catálogo estructurado dentro de la app, y no si se tipea a mano; el criterio está en la [entrada del tema](../comercio-electronico.md). Atender por mensajería también cuesta: la API de WhatsApp cobra desde el 1/7/2025 por mensaje que la empresa entrega, y desde el 1/10/2026 también las respuestas por encima de 1.000 por mes ([precios de WhatsApp en Argentina](Comercio-conversacional/precios-de-whatsapp-en-argentina.md)). En Argentina no hay tiendas dentro de Instagram y Facebook desde el 10/8/2023 ni pago dentro de ninguna app de Meta: la venta se cierra en el chat y se cobra con un link ([venta por Instagram](Comercio-conversacional/venta-por-instagram.md)).
 
 ## Multicanal y omnicanal
 
@@ -97,5 +96,6 @@ Recursos canónicos: Verhoef, Kannan e Inman (2015), completo, por la definició
 ## Lo que hay adentro de Venta en varios canales
 
 - [Local físico con caja](Local-fisico-con-caja/local-fisico-con-caja.md): el comercio con mostrador que también vende online; punto de venta, stock compartido y retiro, y los POS y lectores de cobro de Argentina.
+- [Comercio conversacional](Comercio-conversacional/comercio-conversacional.md): vender atendiendo por WhatsApp e Instagram; la app y la API de WhatsApp con sus precios en Argentina, los intermediarios, la dependencia de Meta y las quejas de los comercios.
 
-Pueden ser componentes más adelante: la elección entre marketplace y tienda propia con datos de la región y el comercio social, con una ficha de comisiones de marketplaces y de costos de mensajería por país.
+Pueden ser componentes más adelante: la elección entre marketplace y tienda propia con datos de la región, con una ficha de comisiones de marketplaces.

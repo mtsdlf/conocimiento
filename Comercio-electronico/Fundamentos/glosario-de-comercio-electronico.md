@@ -47,6 +47,7 @@ Los informes del tema marcan cuánto se leyó de cada fuente; las notas lo dicen
 | D2C | direct-to-consumer (D2C o DTC) | La marca que fabrica vende directo, sin minorista; es un canal, y una D2C también es B2C | [Comercio electrónico](../comercio-electronico.md) |
 | Marketplace | marketplace | Sitio donde muchos vendedores publican y la plataforma cobra una comisión; la OCDE las llama plataformas de intermediación digital | [Venta en varios canales](../Venta-en-varios-canales/venta-en-varios-canales.md) |
 | Comercio social | social commerce | Pedido hecho dentro de una red o una app de mensajería; para la OCDE cuenta solo con un catálogo estructurado | [Venta en varios canales](../Venta-en-varios-canales/venta-en-varios-canales.md) |
+| Comercio conversacional | conversational commerce | Venta que se cierra atendiendo por chat (WhatsApp, Instagram), con o sin catálogo, y se cobra con un link | [Comercio conversacional](../Venta-en-varios-canales/Comercio-conversacional/comercio-conversacional.md) |
 | EDI | electronic data interchange | Intercambio de pedidos y documentos entre sistemas de empresas, anterior a la web | [Historia del comercio electrónico](historia-del-comercio-electronico.md) |
 
 ## La plataforma de tiendas
