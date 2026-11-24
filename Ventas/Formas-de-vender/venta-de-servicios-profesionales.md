@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un servicio profesional se compra antes de poder evaluarlo: el cliente primero descarta a quien no parece capaz y después elige entre los que quedan por la reputación y la confianza en las personas. La evidencia con método es poca y viene casi toda de compradores de empresas o de clientes de estudios contables; en las encuestas, el precio rara vez decide.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Maister (1993), Managing the Professional Service Firm, Free Press, cap. 10 «How Clients Choose» (no se leyó; índice en https://books.google.com/books/about/Managing_the_Professional_Service_Firm.html?id=B0y1AAAAIAAJ). Comentario de un lector sobre el capítulo: https://noisebetweenstations.com/personal/weblogs/?p=1367 (leído completo); resumen del libro de Graham Wilson: https://the-confidant.info/uploads/maister.pdf (leído completo)"
@@ -20,7 +20,7 @@ fuentes:
   - "Ventas/.investigacion/servicios-y-comercios-contraria.md (afirmación 1)"
 aliases: [professional services selling, venta de servicios, how clients choose, cómo eligen los clientes, selección de proveedores de servicios, bienes de credibilidad, credence goods, trusted advisor, asesor de confianza]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Venta de servicios profesionales

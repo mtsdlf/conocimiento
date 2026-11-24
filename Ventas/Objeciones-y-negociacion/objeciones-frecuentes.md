@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las objeciones que más aparecen en las listas de ventas y en las barreras de adopción de las pymes son de precio, de necesidad, de tiempo, de confianza en el proveedor y de no querer cambiar lo que ya hay. Ninguna lista tiene método para este caso: la que más datos trae se juntó en 1999-2003 en otros rubros, y lo demás sale de las teorías de resistencia al cambio y de las barreras de adopción en pymes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bağ y Taşkın (2005), Customer Objections and Statistical Investigation in Marketing Communication, Yönetim ve Ekonomi 12(2), Celal Bayar Üniversitesi: https://dergipark.org.tr/download/article-file/145904 (leído completo; los nombres de los autores salieron deformados del PDF)"
@@ -20,7 +20,7 @@ fuentes:
   - "Ventas/.investigacion/servicios-y-comercios-contraria.md (afirmación 3)"
 aliases: [objeciones frecuentes, objeciones comunes, common sales objections, tipos de objeción, resistencia del comprador, buyer resistance, sales resistance, «no tengo tiempo», «ya tengo a alguien», «no lo necesito», sesgo del statu quo, status quo bias, costos de cambio, switching costs, resistencia a la innovación]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Objeciones frecuentes

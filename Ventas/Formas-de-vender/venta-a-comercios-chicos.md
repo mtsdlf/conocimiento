@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En un comercio chico, la mayor parte de las compras de servicios las decide quien lo dirige, que suele ser el dueño y mezcla sus metas personales con las del negocio; antes de decidir, le pregunta a otros dueños. Casi no hay investigación sobre cómo un comercio elige un proveedor de servicios digitales: lo que se sabe sale de compras de insumos en fábricas chicas, de encuestas sobre adopción de tecnología y de una encuesta argentina que sería de 2006.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mercado, Quién tiene el poder de compra en las pyme, sobre una encuesta de Total Strategic Argentina (374 casos; sin año visible): https://mercado.com.ar/revista/numero-1057/quien-tiene-el-poder-de-compra-en-las-pyme/ (según resumen)"
@@ -19,7 +19,7 @@ fuentes:
   - "Ventas/.investigacion/servicios-y-comercios-contraria.md (afirmación 2)"
 aliases: [venta a pymes, venta a comercios, SMB sales, small business buying, compra en pymes, compras en empresas chicas, dueño-gerente, owner-manager, decisor único, cómo compra un comercio]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Venta a comercios chicos
