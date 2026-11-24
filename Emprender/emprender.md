@@ -41,7 +41,7 @@ flowchart LR
 - [Crecimiento](Crecimiento/crecimiento.md) — de los primeros clientes al encaje producto-mercado, y de ahí a crecer de forma repetible con un motor de crecimiento.
 - [Finanzas](Finanzas/finanzas.md) — la caja, el consumo mensual y la pista que queda, el punto de equilibrio, y de dónde sale la plata con lo que cuesta cada fuente.
 - [Fundadores y equipo](Fundadores-y-equipo/fundadores-y-equipo.md) — cómo se reparten la propiedad, las decisiones y el trabajo entre quienes fundan, y cuándo se suma gente.
-- [Legal e impuestos](Legal-e-impuestos/legal-e-impuestos.md) — las formas legales y el régimen impositivo para empezar en Argentina.
+- [Legal e impuestos](Legal-e-impuestos/legal-e-impuestos.md) — las formas legales y el régimen impositivo para empezar en Argentina, y los contratos con que se presta un servicio.
 
 ## Qué leer según en qué punto está la empresa
 
@@ -57,6 +57,7 @@ flowchart LR
 - Si tenés que calcular cuánto te dura la plata o conseguir más: [finanzas](Finanzas/finanzas.md), y para armar la planilla de caja de doce meses, [plan financiero mínimo](Finanzas/plan-financiero-minimo.md); si cada venta deja plata, [economía unitaria](../Marketing/Medicion/economia-unitaria.md).
 - Si tenés que repartir la empresa entre socios: [fundadores y equipo](Fundadores-y-equipo/fundadores-y-equipo.md), con la propiedad, el vesting y cómo deciden.
 - Si tenés que abrir la empresa en Argentina: [legal e impuestos](Legal-e-impuestos/legal-e-impuestos.md) y [normativa para empezar en Argentina](Legal-e-impuestos/normativa-para-empezar-en-argentina.md).
+- Si vas a firmar con un cliente para operar su tienda o su sistema: [contrato de servicio](Legal-e-impuestos/contrato-de-servicio.md), [responsabilidad del prestador](Legal-e-impuestos/responsabilidad-del-prestador.md), [acceso a las cuentas del cliente](Legal-e-impuestos/acceso-a-las-cuentas-del-cliente.md) y [tratamiento de datos por cuenta de otro](Legal-e-impuestos/tratamiento-de-datos-por-cuenta-de-otro.md).
 
 ## La idea que cruza todo el tema
 

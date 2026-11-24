@@ -71,7 +71,7 @@ Las plataformas mandan comercios a sus socios por tres caminos:
 Los términos de un programa limitan al socio en tres cosas:
 
 - **Salir a buscar a los comercios de la plataforma.** Shopify prohíbe escribirles sin su consentimiento y, según la parte leída de su acuerdo (la cláusula salió cortada), dirigirse a comercios solo por ser comercios de Shopify con la intención de llevárselos a otra plataforma. También prohíbe comprar palabras clave de búsqueda con sus marcas.
-- **El acceso a las tiendas.** El socio entra a la tienda de un comercio solo para el trabajo que le encargaron, y responde por la seguridad de su cuenta.
+- **El acceso a las tiendas.** El socio entra a la tienda de un comercio solo para el trabajo que le encargaron, y responde por la seguridad de su cuenta. Cómo se pide ese acceso y cómo se quita está en [acceso a las cuentas del cliente](../../Emprender/Legal-e-impuestos/acceso-a-las-cuentas-del-cliente.md).
 - **La competencia queda libre.** En la parte leída del acuerdo de Shopify no hay cláusula de no competir, y una cláusula dice que el acuerdo no impide a ninguna de las partes tener arreglos parecidos con otros: una agencia puede trabajar a la vez con otras plataformas.
 
 Lo que la plataforma se reserva pesa más que lo que prohíbe. Para las agencias, la página de pagos de Shopify dice que la decisión de pagar "is at Shopify's sole discretion"; su acuerdo agrega que puede cambiar lo que paga "upon reasonable advance notice" y que seguir en el programa después de un cambio equivale a aceptarlo. Tiendanube hace caducar a los doce meses lo que la agencia no retira a mano. Los términos del portal de socios de Tiendanube no se encontraron publicados.
