@@ -46,7 +46,7 @@ Salir al mercado tiene una parte de producto y otra de marketing. La de producto
 
 ## Cuando el cliente paga por fechas
 
-La escuela de este tema recomienda roadmaps de resultados, sin fechas salvo excepciones. Una consultora o una agencia vende otra cosa: alcance y fecha, firmados en un contrato. Los estudios de contratos de software (precio fijo contra tiempo y materiales) no dan un ganador único y tienen muestras de un solo país; el detalle está en [pricing y empaquetado](../Monetizacion/pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia). Cómo se combina un roadmap de resultados con compromisos firmados está en [Roadmap](roadmap.md#el-roadmap-cuando-el-cliente-paga-por-fechas-y-alcance).
+La escuela de este tema recomienda roadmaps de resultados, sin fechas salvo excepciones. Una consultora o una agencia vende otra cosa: alcance y fecha, firmados en un contrato. Los estudios de contratos de software (precio fijo contra tiempo y materiales) no dan un ganador único y tienen muestras de un solo país; el detalle está en [pricing y empaquetado](../Monetizacion/pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia). Cómo se combina un roadmap de resultados con compromisos firmados está en [Roadmap](roadmap.md#el-roadmap-cuando-el-cliente-paga-por-fechas-y-alcance). Cómo se estima, se fija el alcance, se cobran los cambios y se cierra un trabajo cobrado así está en [proyecto a precio cerrado](proyecto-a-precio-cerrado.md).
 
 ## Dónde termina producto y empieza Scrum
 
@@ -68,6 +68,7 @@ La planificación falla de tres maneras que las fuentes nombran. La primera es e
 - [Priorización](priorizacion.md): RICE, costo de demora y WSJF, y Kano como clasificación; qué método sirve para qué.
 - [Roadmap](roadmap.md): la disputa entre Cagan, *Roadmaps Relaunched* y Now-Next-Later, y el roadmap cuando el cliente paga por fechas.
 - [Shape Up](shape-up.md): ciclos de seis semanas, apetito y apuestas en lugar de backlog, y de qué escala depende.
+- [Proyecto a precio cerrado](proyecto-a-precio-cerrado.md): estimar con un rango, el alcance por escrito, los cambios, la aceptación y las formas de repartir el riesgo.
 - [Lanzamiento](lanzamiento.md): feature toggles, lanzamiento gradual y el límite con product marketing.
 
 Faltan estos componentes y se van a sumar:
