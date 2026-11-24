@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El acceso a las cuentas del cliente es cómo entra quien arma o cuida una tienda a la tienda, el dominio, los pagos y las herramientas del comercio, y cómo sale. La regla que sostienen las plataformas y las guías de seguridad tiene tres partes: las cuentas quedan a nombre del comercio, el prestador entra con un usuario propio y con los permisos justos, y la autorización queda por escrito.
+  El acceso a las cuentas del cliente es cómo entra quien arma o cuida una tienda a la tienda, el dominio, los pagos y las herramientas del comercio, y cómo sale. La regla tiene tres partes: las cuentas quedan a nombre del comercio, el prestador entra con un usuario propio y con los permisos justos, y la autorización queda por escrito. Las plataformas y las guías de seguridad sostienen las dos primeras; la tercera es una lectura de la base sobre el Código Penal.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -24,32 +24,32 @@ revisado:
 
 # Acceso a las cuentas del cliente
 
-El acceso a las cuentas del cliente es cómo entra quien arma o cuida una tienda a la tienda, el dominio, los pagos y las herramientas del comercio, y cómo sale. La regla que sostienen las plataformas y las guías de seguridad tiene tres partes: las cuentas quedan a nombre del comercio, el prestador entra con un usuario propio y con los permisos justos, y la autorización queda por escrito.
+El acceso a las cuentas del cliente es cómo entra quien arma o cuida una tienda a la tienda, el dominio, los pagos y las herramientas del comercio, y cómo sale. La regla tiene tres partes: las cuentas quedan a nombre del comercio, el prestador entra con un usuario propio y con los permisos justos, y la autorización queda por escrito. Las plataformas y las guías de seguridad sostienen las dos primeras; la tercera es una lectura de la base sobre el Código Penal.
 
 Es la parte del [contrato de servicio](contrato-de-servicio.md) que más se toca en el día a día. Cómo da acceso cada plataforma, con sus pasos y sus límites, está en la ficha [accesos delegados por plataforma](accesos-delegados-por-plataforma.md). Lo que el prestador puede hacer con los datos que ve al entrar está en [tratamiento de datos por cuenta de otro](tratamiento-de-datos-por-cuenta-de-otro.md).
 
 ## Las cuentas son del comercio
 
-La tienda, el dominio y la cuenta de cobro van a nombre del comercio desde el primer día. NIC Argentina lo dice para el dominio: «es necesario que tengas en tus manos su administración, así, siendo titular podrás realizar libremente cualquier trámite, como renovar, delegar o transferir tu dominio». Ninguna plataforma de tiendas lo dice con esas palabras, pero sus mecanismos empujan hacia lo mismo. Shopify no deja transferir una tienda en la que el socio solo es colaborador («You can't transfer a collaboration store»), y para pasar al comercio una tienda que armó el socio hay que desactivar antes Shopify Payments. Abrir los pagos a nombre del comercio desde el principio evita ese paso.
+La tienda, el dominio y la cuenta de cobro van a nombre del comercio desde el primer día. NIC Argentina lo dice para el dominio: «es necesario que tengas en tus manos su administración, así, siendo titular podrás realizar libremente cualquier trámite, como renovar, delegar o transferir tu dominio». No se encontró que ninguna plataforma de tiendas lo diga con esas palabras, aunque sus mecanismos apuntan a lo mismo (lectura de la base). Shopify no deja transferir una tienda en la que el socio solo es colaborador («You can't transfer a collaboration store»), y para pasar al comercio una tienda que armó el socio hay que desactivar antes Shopify Payments. Abrir los pagos a nombre del comercio desde el principio evita ese paso (inferencia de la base).
 
-Hay cosas que en la práctica quedan a nombre del prestador: el repositorio del tema, apps instaladas desde su cuenta de socio o licencias pagadas con su tarjeta. Una guía de práctica de 2026 las trata como un riesgo para el comercio, porque dejan de andar cuando se corta la relación. No son un error si el contrato dice quién es el titular, quién paga y qué se transfiere al irse.
+Hay cosas que en la práctica quedan a nombre del prestador: el repositorio del tema, apps instaladas desde su cuenta de socio o licencias pagadas con su tarjeta. Un blog de práctica (Hutt, 2026) las trata como un riesgo para el comercio, porque dejan de andar cuando se corta la relación. No son un error si el contrato dice quién es el titular, quién paga y qué se transfiere al irse.
 
 ## Un usuario propio con los permisos justos
 
-El prestador entra con su propio usuario, nunca con la contraseña del dueño. Shopify lo pide en su guía de seguridad («Don't share your username or password with anyone») y ofrece una cuenta de colaborador en la que el comercio elige los permisos. Tiendanube, Mercado Pago, Google y WordPress tienen usuarios con roles, como cuenta la [ficha](accesos-delegados-por-plataforma.md). El usuario propio deja registro de quién hizo qué, y se puede quitar sin cambiarle la contraseña al dueño.
+El prestador entra con su propio usuario, nunca con la contraseña del dueño. Shopify lo pide en su guía de seguridad («Don't share your username or password with anyone») y ofrece una cuenta de colaborador en la que el comercio elige los permisos. Tiendanube, Mercado Pago, Google y WooCommerce (este último, por resumen) tienen usuarios con roles, como cuenta la [ficha](accesos-delegados-por-plataforma.md). Un usuario propio se puede quitar sin cambiarle la contraseña al dueño (inferencia de la base; los registros de actividad de cada plataforma no se leyeron).
 
-Los permisos se dan para la tarea y nada más. Es el principio de mínimo privilegio, que el NIST formula así en su control AC-6: «allowing only authorized accesses for users [...] that are necessary to accomplish assigned organizational tasks». Para el cuidado mensual de una tienda alcanza casi siempre con gestionar productos, pedidos y diseño. Los pagos, la facturación y la gestión de usuarios quedan del lado del dueño (inferencia de la base sobre esa regla).
+Los permisos se dan para la tarea y nada más. Es el principio de mínimo privilegio, que el NIST formula así en su control AC-6: «allowing only authorized accesses for users [...] that are necessary to accomplish assigned organizational tasks». Aplicada esa regla, para el cuidado mensual de una tienda alcanza casi siempre con gestionar productos, pedidos y diseño, y los pagos, la facturación y la gestión de usuarios quedan del lado del dueño (las dos cosas son inferencia de la base).
 
 Cada usuario lleva segundo factor y su contraseña vive en un gestor. El NCSC británico dice que activar la verificación en dos pasos es «one of the most effective ways to protect online accounts», y CISA recomienda un gestor de contraseñas para toda la empresa. El NIST obliga a los sistemas a permitir los gestores («SHALL allow the use of password managers») y les prohíbe exigir cambios periódicos de contraseña si no hay señales de compromiso.
 
 > [!IMPORTANT]
-> No todo tiene acceso delegado. El email del comercio, algunos registradores de dominio y servicios chicos no ofrecen usuarios con roles, y no se encontró qué recomiendan las fuentes en ese caso. Si no queda otra que usar la contraseña del dueño, el control AC-2 del NIST pide cambiar las credenciales compartidas «when individuals are removed from the group». Aplicado acá: cambiarla cuando el prestador deja de trabajar con el comercio (inferencia de la base).
+> Puede que no todo tenga acceso delegado. No se investigó si el email del comercio, los registradores de dominio u otros servicios chicos ofrecen usuarios con roles, ni se encontró qué recomiendan las fuentes cuando no los hay. Si no queda otra que usar la contraseña del dueño, el control AC-2 del NIST pide cambiar las credenciales compartidas «when individuals are removed from the group». Aplicado acá: cambiarla cuando el prestador deja de trabajar con el comercio (inferencia de la base).
 
 ## Por qué la autorización va por escrito
 
-Entrar a un sistema ajeno sin permiso, o con más permiso del dado, es delito en Argentina. El art. 153 bis del Código Penal, incorporado por la Ley 26.388, reprime con prisión de quince días a seis meses a quien «a sabiendas accediere por cualquier medio, sin la debida autorización o excediendo la que posea, a un sistema o dato informático de acceso restringido». Dos reproducciones de la norma (Infoleg y la Universidad Nacional del Comahue) coinciden en el texto. La palabra que importa es «excediendo». Una autorización escrita, con las cuentas y lo que se puede hacer en cada una, deja claro qué se autorizó si después hay una pelea. No se encontraron fallos sobre prestadores con acceso parcial.
+Entrar a un sistema ajeno sin permiso, o con más permiso del dado, es delito en Argentina. El art. 153 bis del Código Penal, incorporado por la Ley 26.388, reprime con prisión de quince días a seis meses a quien «a sabiendas accediere por cualquier medio, sin la debida autorización o excediendo la que posea, a un sistema o dato informático de acceso restringido». Dos reproducciones de la norma (Infoleg y la Universidad Nacional del Comahue) coinciden en el texto. Las palabras que importan son «sin la debida autorización» y «excediendo». Una autorización escrita, con las cuentas y lo que se puede hacer en cada una, deja claro qué se autorizó si después hay una pelea (inferencia de la base; no se encontraron fallos sobre prestadores con acceso parcial).
 
-Las plataformas piden lo mismo en sus términos. Según la parte leída del acuerdo de socios de Shopify (por resumen), el socio entra a una tienda solo para el trabajo que el comercio le encargó y responde por la seguridad de su cuenta y por lo que hagan sus empleados y subcontratistas.
+El acuerdo de socios de Shopify pide algo parecido; los términos de las otras plataformas no se leyeron. Según la parte leída de ese acuerdo (por resumen), el socio entra a una tienda solo para el trabajo que el comercio le encargó y responde por la seguridad de su cuenta y por lo que hagan sus empleados y subcontratistas.
 
 ## Cómo se sale
 
@@ -58,16 +58,16 @@ Al terminar, el acceso se quita y se deja constancia. El control AC-2 del NIST p
 1. Pasar al comercio lo que estaba a nombre del prestador y el contrato dice que se transfiere: apps, licencias, repositorio.
 2. Quitar los usuarios propios de cada cuenta, o pedirle al comercio que los quite, y anotar la fecha.
 3. Cambiar las contraseñas que se hayan compartido.
-4. Devolver o destruir los datos personales que se exportaron, como manda la Ley 25.326 (ver [tratamiento de datos por cuenta de otro](tratamiento-de-datos-por-cuenta-de-otro.md#qué-pasa-con-los-datos-al-terminar)).
+4. Destruir los datos personales que se exportaron, salvo autorización expresa del comercio para guardarlos, como manda el art. 25 de la Ley 25.326 (ver [tratamiento de datos por cuenta de otro](tratamiento-de-datos-por-cuenta-de-otro.md#qué-pasa-con-los-datos-al-terminar)).
 
 En Shopify el acceso de colaborador vence solo si nadie de la organización entra durante 90 días. Eso no reemplaza la baja explícita.
 
 ## Cómo falla
 
-- **La tienda o el dominio a nombre del prestador.** El comercio no puede irse sin su permiso, y el prestador queda como dueño de algo que no le corresponde. En la práctica eso tensa la relación (no se encontraron casos argentinos documentados).
+- **La tienda o el dominio a nombre del prestador.** El comercio no puede irse sin el permiso del prestador (inferencia de la base; no se encontraron casos argentinos documentados).
 - **Una sola contraseña para todo el equipo.** No se sabe quién hizo qué, y sacar a una persona obliga a cambiarla en todos lados.
 - **Permisos de dueño para todo.** Un error en el cuidado mensual llega a los pagos o a los usuarios.
-- **Accesos que nadie quita.** Un año después, el prestador que ya no trabaja con el comercio sigue entrando, con el riesgo del «excediendo» del art. 153 bis.
+- **Accesos que nadie quita.** Un año después, el prestador que ya no trabaja con el comercio sigue entrando. Según la lectura de la base, eso se acerca al acceso «sin la debida autorización» del art. 153 bis.
 
 ## Lo que no se encontró
 

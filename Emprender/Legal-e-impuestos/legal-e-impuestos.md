@@ -69,7 +69,7 @@ Cuando la empresa vende un servicio sobre el sistema de otro, como armar y cuida
 - [Contrato de servicio](contrato-de-servicio.md): qué tipo de contrato es armar una tienda (obra) y cuidarla por un abono (servicio continuado), qué dice el Código Civil y Comercial del plazo, el preaviso y la baja, y qué conviene escribir.
 - [Responsabilidad del prestador](responsabilidad-del-prestador.md): de qué se responde si el trabajo causa un daño, cuándo libera la caída de la plataforma y cuándo no vale la cláusula que limita, que depende de si el comercio cuenta como consumidor.
 - [Acceso a las cuentas del cliente](acceso-a-las-cuentas-del-cliente.md): las cuentas a nombre del comercio, un usuario propio con los permisos justos, la autorización por escrito y la salida. Los pasos de cada plataforma están en la ficha [accesos delegados por plataforma](accesos-delegados-por-plataforma.md).
-- [Tratamiento de datos por cuenta de otro](tratamiento-de-datos-por-cuenta-de-otro.md): el prestador como encargado de los datos de los compradores del comercio según el art. 25 de la Ley 25.326, el contrato obligatorio, la destrucción al terminar y los datos que viajan fuera del país.
+- [Tratamiento de datos por cuenta de otro](tratamiento-de-datos-por-cuenta-de-otro.md): el prestador como encargado (quien maneja una base de datos ajena por cuenta de su dueño) de los datos de los compradores del comercio según el art. 25 de la Ley 25.326, el contrato obligatorio, la destrucción al terminar y los datos que viajan fuera del país.
 
 Las cuatro se apoyan en el texto oficial de las normas y en pocos fallos, ninguno sobre tiendas online, y cada nota dice qué es inferencia de la base.
 
