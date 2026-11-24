@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Qué no se puede registrar como marca en Argentina, cómo se pide en el INPI, cuánto cuesta y cuánto dura, y cómo se saca un dominio .com.ar en NIC Argentina, con los valores al 2026-11-23 y su fuente.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 22.362 de Marcas y Designaciones, texto actualizado en InfoLeg: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18803/texact.htm"
@@ -17,7 +17,7 @@ fuentes:
   - "NIC Argentina, aranceles (fuente viva, leída el 2026-11-23): https://nic.ar/es/dominios/aranceles"
 aliases: [INPI, registro de marca, marca registrada, Ley 22.362, UMAPI, clases de Niza, NIC Argentina, dominio .com.ar, nic.ar]
 creado: 2026-11-23
-revisado:
+revisado: 2026-11-24
 ---
 
 # Registro de marca y dominio en Argentina

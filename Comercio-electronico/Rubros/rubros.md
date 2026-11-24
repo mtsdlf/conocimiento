@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un rubro tiene necesidades propias cuando lo que vende o cómo lo vende rompe algo que una tienda online general da por sentado: que el producto se elige por variantes, que el catálogo se carga una vez, que el pedido no tiene apuro o que cualquiera puede vender cualquier cosa. Esos rubros terminan pagando un marketplace, un software del rubro o una app encima de la tienda.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "CEP XXI, Distribución geográfica de los establecimientos productivos: https://cdn.produccion.gob.ar/cdn-cep/establecimientos-productivos/Datos_por_departamento_y_actividad.csv (descargado y sumado)"
@@ -9,7 +9,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/rubros-conteo-propio.md, rubros-gastronomia.md, rubros-autopartes.md, rubros-ferreteria-y-construccion.md, rubros-otros.md y rubros-refutacion.md (2026-11-22)"
 aliases: [rubros, verticales de comercio, vertical retail, categorías de comercio, rubro del comercio, industry verticals]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-24
 ---
 
 # Rubros

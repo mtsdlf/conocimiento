@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un producto nuevo se adopta de a poco, primero unos pocos y después la mayoría, en una curva en S. Rogers clasificó a los adoptantes en cinco categorías y Moore sostuvo que entre los primeros y la mayoría hay un salto, el "abismo".
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rogers, Diffusion of Innovations (1962; 5.ª ed. 2003), no leído: solo secundarias"
@@ -15,7 +15,7 @@ fuentes:
   - "Marketing/.investigacion/b2b-y-salida-al-mercado.md (P15)"
 aliases: [difusión de innovaciones, diffusion of innovations, Crossing the Chasm, el abismo, chasm, curva de adopción, adoptantes tempranos, early adopters, modelo de Bass]
 creado: 2026-11-18
-revisado:
+revisado: 2026-11-24
 ---
 
 # Adopción de innovaciones

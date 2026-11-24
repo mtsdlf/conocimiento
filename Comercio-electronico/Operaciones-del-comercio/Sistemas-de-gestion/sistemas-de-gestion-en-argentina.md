@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los sistemas de gestión que usan los comercios argentinos, al 2026-11-22: Tango, Dux, Contabilium, Xubio, Colppy, Alegra y otros, con sus precios por mes, sus límites, qué tiendas y marketplaces conectan, si traen punto de venta, cuántos clientes declaran y lo que dicen de ellos 252 reseñas de comercios leídas una por una.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Dux Software, precios: https://www.duxsoftware.com.ar/precios (leída el 2026-11-22; A1)"
@@ -25,7 +25,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/contraria-gestion-y-local.md"
 aliases: [Tango, Tango Gestión, TFactura, Tango Factura, Axoft, Dux Software, Contabilium, Xubio, Colppy, Bsale, Alegra, Netegia, Dragonfish, TusFacturasAPP, ERP argentinos]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-24
 ---
 
 # Sistemas de gestión en Argentina

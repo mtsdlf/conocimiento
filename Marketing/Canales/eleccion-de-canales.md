@@ -1,13 +1,13 @@
 ---
 resumen: >-
   Elegir canales es encontrar, entre los 19 que listan Weinberg y Mares en Traction, el único que trae clientes, con el método Bullseye: listar ideas por canal, probar tres barato y enfocarse en el que funciona.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gabriel Weinberg y Justin Mares, Traction (2015)"
 aliases: [Traction, Bullseye, canales de adquisición]
 creado: 2026-09-30
-revisado:
+revisado: 2026-11-24
 ---
 
 # Elección de canales

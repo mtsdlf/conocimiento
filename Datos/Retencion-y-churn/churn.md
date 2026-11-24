@@ -2,7 +2,7 @@
 resumen: >-
   Churn es la pérdida de clientes o usuarios que dejan de usar o de pagar un producto en un
   período; es la cara opuesta de la retención.
-estado: borrador
+estado: vigente
 estabilidad: estable
 creado: 2026-10-03
 fuentes:

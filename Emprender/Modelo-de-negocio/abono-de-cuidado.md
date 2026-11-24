@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un abono de cuidado es un pago mensual fijo por mantener andando algo que ya se entregó (un sitio, una tienda, un sistema): actualizaciones, copias de seguridad, seguridad, monitoreo y un cupo de cambios chicos. Suele venderse después de un proyecto, y lo que se sabe con método sobre él es poco: casi todo es práctica de quienes lo venden.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "The Admin Bar, 2026 WordPress Agency Survey (622 respuestas, 51 países, marzo de 2026): https://theadminbar.com/2026-survey/"
@@ -28,7 +28,7 @@ fuentes:
   - "Emprender/.investigacion/abono-de-cuidado.md"
 aliases: [retainer, care plan, website care plan, plan de mantenimiento, abono de mantenimiento, maintenance plan, mantenimiento mensual, iguala, servicio gestionado, managed services, MSP, ingreso recurrente de servicios]
 creado: 2026-11-23
-revisado:
+revisado: 2026-11-24
 ---
 
 # Abono de cuidado

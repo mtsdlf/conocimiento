@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ponerle nombre e identidad a una oferta nueva es elegir un nombre que se pueda registrar y recordar, y fijar lo mínimo de cómo se ve y cómo habla (logotipo, uno o dos colores, una tipografía y unas reglas de voz) para usarlo siempre igual.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "USPTO, Strong trademarks: https://www.uspto.gov/trademarks/basics/strong-trademarks"
@@ -18,7 +18,7 @@ fuentes:
   - "Mailchimp Content Style Guide, Voice and Tone: https://styleguide.mailchimp.com/voice-and-tone/"
 aliases: [naming, nombre de marca, brand name, identidad de marca, brand identity, identidad visual, voz de marca, tono de voz, tone of voice, logotipo, wordmark]
 creado: 2026-11-23
-revisado:
+revisado: 2026-11-24
 ---
 
 # Nombre e identidad de una oferta nueva

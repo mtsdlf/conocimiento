@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La factura electrónica de ARCA es el comprobante fiscal que en Argentina respalda cada venta: casi todo el que vende tiene que emitirla o usar un controlador fiscal, con una letra (A, B, C, E) que depende de quién vende y a quién, y un código de autorización (CAE) que ARCA da en el momento. Un sistema la emite conectándose a los web services de ARCA con un certificado digital.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "RG ARCA 5893/2026, Boletín Oficial, 31/08/2026: https://www.boletinoficial.gob.ar/pdf/aviso/primera/346598/20260831 (leída)"
@@ -22,7 +22,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/factura-electronica-arca.md"
 aliases: [factura electrónica, factura electrónica AFIP, comprobante electrónico, CAE, CAEA, WSFEv1, web service de ARCA, controlador fiscal, factura A, factura B, factura C, transparencia fiscal, RG 4291, RG 5893]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-24
 ---
 
 # Factura electrónica de ARCA

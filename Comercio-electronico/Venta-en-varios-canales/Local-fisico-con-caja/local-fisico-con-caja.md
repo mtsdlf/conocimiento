@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un local físico con caja que también vende online junta dos ventas que descuentan del mismo stock: la del mostrador, que pasa por un punto de venta, un lector de cobro y un comprobante fiscal, y la de la tienda online. Lo difícil no es cada pieza sino que las cuatro (venta, cobro, factura y stock) queden en un solo registro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gallino y Moreno (2014), Integration of Online and Offline Channels in Retail: The Impact of Sharing Reliable Inventory Availability Information, Management Science 60(6):1434-1451, DOI 10.1287/mnsc.2014.1951: https://econpapers.repec.org/RePEc:inm:ormnsc:v:60:y:2014:i:6:p:1434-1451 (abstract por extracto) y diapositivas de los autores: https://www.dii.uchile.cl/wp-content/uploads/2014/01/presentacion-Gallino-seminario-retail.pdf (leídas)"
@@ -12,7 +12,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/contraria-gestion-y-local.md"
 aliases: [local físico, tienda física, local a la calle, omnicanal práctico, venta en el local y online, brick and mortar, click and mortar]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-24
 ---
 
 # Local físico con caja

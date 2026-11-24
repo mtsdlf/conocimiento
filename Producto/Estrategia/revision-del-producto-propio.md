@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Revisar el producto propio es juzgar lo que ya está construido contra una oferta nueva para decidir qué queda, qué se esconde, qué se apaga y qué falta, mirando lo que vive cada rol, y bajarlo a trabajo acotado. Las recetas son de practicantes; solo la evaluación de pantallas tiene estudios, y están discutidos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Des Traynor, «Before you plan your product roadmap», Intercom, 2-oct-2014: https://www.intercom.com/blog/before-you-plan-your-product-roadmap/"
@@ -19,7 +19,7 @@ fuentes:
   - "Producto/.investigacion/revision-del-producto-propio.md"
 aliases: [feature audit, auditoría de funcionalidades, auditoría de producto, revisión de producto, revisar lo propio, sunsetting, sunset, retirar una funcionalidad, deprecación, apagar una funcionalidad, gap analysis, análisis de brechas, value proposition canvas, lienzo de la propuesta de valor]
 creado: 2026-11-23
-revisado:
+revisado: 2026-11-24
 ---
 
 # Revisión del producto propio
