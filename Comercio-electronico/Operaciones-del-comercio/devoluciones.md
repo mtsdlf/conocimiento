@@ -7,6 +7,10 @@ fuentes:
   - "NRF y Happy Returns, nota de prensa del informe 2024 Consumer Returns in the Retail Industry, 5/12/2024: https://nrf.com/media-center/press-releases/nrf-and-happy-returns-report-2024-retail-returns-total-890-billion (leída la nota, no el informe)"
   - "Comercio-electronico/.investigacion/operaciones-canales-y-normativa.md"
   - "Comercio-electronico/.investigacion/huecos-pagos-y-operaciones.md"
+  - "Comercio-electronico/.investigacion/envios-agregadores-y-fulfillment.md"
+  - "Comercio-electronico/.investigacion/envios-tamano.md"
+  - "Ley 24.240, texto actualizado, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/638/texact.htm (leído el 2026-11-22)"
+  - "CACE, estudio anual 2024 completo: https://cdn.shopify.com/s/files/1/0598/0176/3934/files/2024_anual_completo.pdf (leído el 2026-11-22)"
 aliases: [devoluciones, logística inversa, reverse logistics, returns, cambios]
 creado: 2026-11-22
 revisado: 2026-11-22
@@ -28,6 +32,14 @@ Es lo que estiman los propios minoristas, no una medición. Sale de dos encuesta
 
 En Argentina la ley fija parte del costo. El comprador a distancia puede revocar la compra en 10 días, y los gastos de devolución van por cuenta del vendedor; las normas están en la [ficha de normativa argentina](../Normativa/normativa-argentina.md).
 
-> [!NOTE] Sin fuente todavía: una tasa de devolución de Argentina o América Latina con método publicado. Ni CACE ni otra cámara la publican en lo que se pudo leer.
+El texto actualizado de la Ley 24.240 (art. 34, en InfoLEG) dice que «los gastos de devolución son por cuenta» del vendedor; la versión original de 1993 que todavía muestra otra página oficial dice cinco días, y no rige.
+
+## La vuelta del paquete en Argentina
+
+La devolución viaja por los mismos [transportistas y agregadores](Envios-y-logistica/transportistas-y-agregadores.md) que el envío. En Argentina, al 2026-11-22, varios agregadores, servicios de última milla y la solución de envíos de una plataforma de tiendas ofrecen logística inversa (una etiqueta que el comercio le manda al comprador, o el retiro en su casa), y ninguno publica un precio propio para la devolución. En el marketplace más grande, según su ayuda leída por resumen, el vendedor paga la devolución si el producto era distinto o tenía un problema, y no la paga si el comprador se arrepintió. El detalle está en [envíos en Argentina](Envios-y-logistica/envios-en-argentina.md#mercado-libre).
+
+La única tasa argentina con método es la de la encuesta anual de CACE a sus empresas socias, que excluye a los marketplaces: devoluciones del 4% de las unidades vendidas en 2024, entre 4% y 6% desde 2019 (informe completo, 155 respuestas). Son empresas medianas y grandes. En 1.734 reseñas de comercios sobre sus apps de envío, la devolución aparece de paso en dos o tres, y no se codificó como tema.
+
+> [!NOTE] Sin fuente todavía: una tasa de devolución del comercio chico en Argentina, y el costo de cada devolución.
 
 El recurso canónico es el informe completo de NRF y Happy Returns, por su método y por la tasa online que la nota no da.
