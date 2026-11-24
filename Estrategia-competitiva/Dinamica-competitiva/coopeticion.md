@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La coopetición es cooperar y competir a la vez con el mismo actor. Su herramienta es la red de valor de Brandenburger y Nalebuff, que pone a cada actor en uno o más de cuatro papeles (cliente, proveedor, competidor, complementador) y pregunta cuánto valor se pierde si cada uno no está.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Adam Brandenburger y Barry Nalebuff (1996), Co-opetition, Doubleday/Currency (no se leyó; se conoce por la reseña de Armstrong y por fuentes secundarias)"
@@ -28,7 +28,7 @@ fuentes:
   - "Estrategia-competitiva/.investigacion/coopeticion-contraria.md"
 aliases: [co-opetition, coopetition, coopetencia, red de valor, value net, valor agregado, added value, PARTS, complementador, complementor, socio y competidor]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Coopetición
