@@ -28,12 +28,28 @@ Las definiciones son generales; las cifras, las citas y los desacuerdos sobre ca
 |---|---|---|---|
 | Venta | Sales | Llevar a un cliente concreto de un problema a un acuerdo para resolverlo con lo que uno ofrece | [Ventas](../ventas.md) |
 | Venta compleja | Complex sale | La que pide más de una conversación y suele involucrar a varios que deciden | [Ventas](../ventas.md) |
-| Prospecto | Prospect, lead | Alguien a quien se le podría vender y todavía no se calificó | [Calificación](../Descubrimiento-y-calificacion/calificacion.md) |
 | Oportunidad | Opportunity | Un prospecto calificado, con una posible venta en curso | [Calificación](../Descubrimiento-y-calificacion/calificacion.md) |
 | Grupo de compra | Buying group, buying center | Las personas que intervienen en una decisión de compra; la idea se atribuye a Robinson, Faris y Wind (1967) | [Grupo de compra](../Descubrimiento-y-calificacion/grupo-de-compra.md) |
 | Recompra directa, recompra modificada, compra nueva | Straight rebuy, modified rebuy, new task | Las tres clases de compra según cuánto cambia frente a la anterior | [Grupo de compra](../Descubrimiento-y-calificacion/grupo-de-compra.md) |
 | Decisor económico | Economic buyer | Quien aprueba el gasto; una de las letras de MEDDIC | [Calificación](../Descubrimiento-y-calificacion/calificacion.md) |
 | Campeón | Champion | Alguien dentro del cliente que empuja la compra; otra letra de MEDDIC | [Calificación](../Descubrimiento-y-calificacion/calificacion.md) |
+
+## Prospectar
+
+| Término | Inglés | Qué es | Dónde vive |
+|---|---|---|---|
+| Prospecto | Prospect, lead | Alguien a quien se le podría vender y todavía no se calificó | [Calificación](../Descubrimiento-y-calificacion/calificacion.md) |
+| Precalificación | Prequalification | Filtrar un contacto antes de la primera charla, por parecido con el perfil o por lo que dijo en su consulta | [Prospección](../Prospeccion/prospeccion.md) |
+| Prospección | Prospecting | Conseguir con quién hablar: encontrar a quién le podría servir lo que uno vende y llegar a una primera conversación | [Prospección](../Prospeccion/prospeccion.md) |
+| Prospección saliente | Outbound | La que empieza quien vende, escribiendo o llamando a alguien que no lo conoce | [Prospección](../Prospeccion/prospeccion.md) |
+| Prospección entrante | Inbound | La que empieza el posible cliente con una consulta, un formulario o un mensaje | [Responder lo que entra](../Prospeccion/responder-lo-que-entra.md) |
+| SDR, BDR | Sales development representative, business development representative | El puesto que solo consigue reuniones para que otro venda; la separación la cuenta Predictable Revenue (Ross y Tyler, 2011) | [Prospección](../Prospeccion/prospeccion.md) |
+| Perfil de cliente ideal | Ideal customer profile (ICP) | Las características de la empresa o el comercio que más aprovecha lo que uno vende | [Perfil y listas](../Prospeccion/perfil-y-listas.md) |
+| Llamada en frío, correo en frío | Cold call, cold email | El primer mensaje a alguien que no conoce a quien vende | [Primer contacto](../Prospeccion/primer-contacto.md) |
+| Registro «No Llame» | Do-not-call registry | El registro argentino de quienes no quieren recibir llamadas comerciales (Ley 26.951) | [Primer contacto](../Prospeccion/primer-contacto.md) |
+| Secuencia de seguimiento | Sales cadence | Los intentos de contacto decididos de antemano: cuántos, cada cuánto y por qué canal | [Seguimiento](../Prospeccion/seguimiento.md) |
+| Velocidad de respuesta | Speed to lead, lead response time | Cuánto se tarda en contestar una consulta entrante | [Responder lo que entra](../Prospeccion/responder-lo-que-entra.md) |
+| Agujero negro de contactos | Sales lead black hole | Los contactos que genera Marketing y que nadie persigue; el 70% según Sabnis y otros (2013) | [Responder lo que entra](../Prospeccion/responder-lo-que-entra.md) |
 
 ## Descubrir y calificar
 

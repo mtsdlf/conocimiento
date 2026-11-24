@@ -1,19 +1,19 @@
 ---
 resumen: >-
-  Vender es llevar a un cliente concreto desde un problema que tiene hasta un acuerdo para resolverlo con lo que uno ofrece: entender qué le duele, decidir si vale la pena proponerle, armar y presentar la propuesta, responder sus dudas y negociar. Empieza donde marketing dejó a alguien interesado y termina en el acuerdo y lo que viene después.
+  Vender es llevar a un cliente concreto desde un problema que tiene hasta un acuerdo para resolverlo con lo que uno ofrece: entender qué le duele, decidir si vale la pena proponerle, armar y presentar la propuesta, responder sus dudas y negociar. Empieza en conseguir con quién hablar, sea alguien que marketing dejó interesado o alguien a quien se sale a buscar, y termina en el acuerdo y lo que viene después.
 estado: vigente
 estabilidad: estable
 fuentes:
   - "Philip Kotler, Neil Rackham y Suj Krishnaswamy (2006), Ending the War Between Sales and Marketing, HBR julio-agosto, pp. 68-79: https://store.hbr.org/product/ending-the-war-between-sales-and-marketing/R0607E (solo la ficha); resumen de INSEAD Knowledge: https://knowledge.insead.edu/marketing/winning-combination-sales-and-marketing (según resumen)"
   - "Ventas/.investigacion/ (cuatro informes y posición contraria, 2026-11-22)"
-aliases: [sales, venta, venta B2B, venta consultiva, ciclo de venta, proceso de venta]
+aliases: [sales, venta, venta B2B, conseguir clientes, venta consultiva, ciclo de venta, proceso de venta]
 creado: 2026-11-22
 revisado: 2026-11-22
 ---
 
 # Ventas
 
-Vender es llevar a un cliente concreto desde un problema que tiene hasta un acuerdo para resolverlo con lo que uno ofrece: entender qué le duele, decidir si vale la pena proponerle, armar y presentar la propuesta, responder sus dudas y negociar. Empieza donde marketing dejó a alguien interesado y termina en el acuerdo y lo que viene después.
+Vender es llevar a un cliente concreto desde un problema que tiene hasta un acuerdo para resolverlo con lo que uno ofrece: entender qué le duele, decidir si vale la pena proponerle, armar y presentar la propuesta, responder sus dudas y negociar. Empieza en conseguir con quién hablar, sea alguien que marketing dejó interesado o alguien a quien se sale a buscar, y termina en el acuerdo y lo que viene después.
 
 Marketing le habla a un mercado; ventas le habla a una persona o a un grupo que decide. Según el resumen que hace INSEAD del artículo de Kotler, Rackham y Krishnaswamy (2006), el reparto depende del tipo de venta: en la transaccional, las herramientas que mueven el negocio "largely come from marketing"; en la consultiva, marketing tiene que darles a los vendedores con qué crear valor para cada cliente. En un comercio chico o en una empresa que empieza, las dos funciones son la misma persona, y la distinción importa recién cuando hay un equipo de ventas.
 
@@ -25,15 +25,18 @@ Las partes siguen el recorrido de una venta compleja, la que pide más de una co
 
 ```mermaid
 flowchart LR
-  D[Descubrimiento y calificación] -->|dice qué proponer y a quién| P[La propuesta]
+  R[Prospección] -->|consigue la primera conversación para| D[Descubrimiento y calificación]
+  D -->|dice qué proponer y a quién| P[La propuesta]
   P -->|despierta dudas que van a| O[Objeciones y negociación]
   O -->|termina en acuerdo o en una propuesta corregida| P
   F[Formas de vender] -->|fija el estilo de| D
   F -->|fija el estilo de| P
   M[Medición comercial] -->|mide cuántas oportunidades avanzan en| D
   M -->|mide cuántas se cierran en| O
+  M -->|mide cuántos contactos responden en| R
 ```
 
+- [Prospección](Prospeccion/prospeccion.md): conseguir con quién hablar, saliendo a buscar o respondiendo a quien se acerca; a quién buscar, el primer mensaje, cuántas veces insistir y qué tan rápido contestar.
 - [Descubrimiento y calificación](Descubrimiento-y-calificacion/descubrimiento-y-calificacion.md): qué preguntar para entender el problema del cliente, a quién vale la pena proponerle y quién decide de verdad. Es la parte más desarrollada, junto con la propuesta.
 - [La propuesta](La-propuesta/la-propuesta.md): qué lleva y en qué orden, cómo se presenta el precio y qué prueba se ofrece sin inventar nada.
 - [Objeciones y negociación](Objeciones-y-negociacion/objeciones-y-negociacion.md): responder dudas y negociar; cuánto ceder todavía no tiene fuente.
@@ -48,6 +51,7 @@ Para venderle a un comercio chico casi no hay investigación (lo poco que hay es
 
 ## Qué leer según lo que tengas que vender
 
+- Si no tenés clientes y necesitás con quién hablar: [prospección](Prospeccion/prospeccion.md), después [perfil y listas](Prospeccion/perfil-y-listas.md) para saber a quién escribirle y [primer contacto](Prospeccion/primer-contacto.md) para el primer mensaje. Si no contestan, [seguimiento](Prospeccion/seguimiento.md); si te llega una consulta, [responder lo que entra](Prospeccion/responder-lo-que-entra.md).
 - Si vas a armar una propuesta para un comercio: [preguntas de descubrimiento](Descubrimiento-y-calificacion/preguntas-de-descubrimiento.md) para la primera charla, después [estructura de la propuesta](La-propuesta/estructura-de-la-propuesta.md), [presentar el precio](La-propuesta/presentar-el-precio.md) y [prueba y confianza](La-propuesta/prueba-y-confianza.md). Del dominio, [Comercio electrónico](../Comercio-electronico/comercio-electronico.md) y [segmentos de comerciantes](../Comercio-electronico/Plataforma-de-tiendas/segmentos-de-comerciantes.md) para ubicar el tamaño del comercio.
 - Si vas a proponerle un proyecto a una empresa: [grupo de compra](Descubrimiento-y-calificacion/grupo-de-compra.md) para saber quién lee y quién firma, y después [la propuesta](La-propuesta/la-propuesta.md).
 - Si tenés que decidir a quién vale la pena proponerle: [calificación](Descubrimiento-y-calificacion/calificacion.md).
@@ -60,6 +64,6 @@ Los términos y siglas del tema (BANT, MAAN, pliego, tasa de cierre) están en e
 
 ## Orden de lectura
 
-Para quien no se formó en ventas: esta entrada, después [Descubrimiento y calificación](Descubrimiento-y-calificacion/descubrimiento-y-calificacion.md) y [La propuesta](La-propuesta/la-propuesta.md), que son lo que se usa en cada venta, y después [Objeciones y negociación](Objeciones-y-negociacion/objeciones-y-negociacion.md). Formas de vender y medición se leen cuando hay que elegir un estilo o armar un equipo.
+Para quien no se formó en ventas: esta entrada, después [Prospección](Prospeccion/prospeccion.md) si todavía no hay con quién hablar, [Descubrimiento y calificación](Descubrimiento-y-calificacion/descubrimiento-y-calificacion.md) y [La propuesta](La-propuesta/la-propuesta.md), que son lo que se usa en cada venta, y después [Objeciones y negociación](Objeciones-y-negociacion/objeciones-y-negociacion.md). Formas de vender y medición se leen cuando hay que elegir un estilo o armar un equipo.
 
 - [Fundamentos](Fundamentos/fundamentos-de-ventas.md): escuelas y su evidencia, historia, bibliografía, fuentes, mitos y glosario.

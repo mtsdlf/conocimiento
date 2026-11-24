@@ -39,6 +39,18 @@ El orden es una recomendación de esta base.
 | Kotler, Rackham y Krishnaswamy, "Ending the War Between Sales and Marketing", HBR, julio-agosto de 2006, pp. 68-79 | Entero; el cuestionario de integración entre las dos funciones | Artículo de divulgación académica | Ficha y resumen de INSEAD |
 | Anderson y otros, historia de la venta personal, 2020 | La periodización histórica, para una historia con fuentes académicas | Artículo académico | No; solo el buscador |
 
+## Conseguir con quién hablar
+
+| Obra | Qué leer y en qué fijarse | Tipo | Leído |
+|---|---|---|---|
+| Moncrief y Marshall, "The evolution of the seven steps of selling", *Industrial Marketing Management* 34(1), 13-22, 2005 | El contraste entre el modelo tradicional de siete pasos, orientado a vender, y uno orientado al cliente | Artículo académico | No; citas y resúmenes |
+| Sabnis, Chatterjee, Grewal y Lilien, "The sales lead black hole", *Journal of Marketing* 77(1), 52-67, 2013 | Por qué los vendedores pueden no perseguir el 70% de los contactos de Marketing y qué pesa más según su experiencia | Artículo académico | Abstract |
+| Oldroyd, McElheran y Elkington, "The Short Life of Online Sales Leads", HBR 89(3), 2011 | Cuánto tardan las empresas en contestar una consulta; un coautor dirigía InsideSales.com, la empresa de los datos del estudio de 2007 | Artículo de divulgación académica | Introducción |
+| Ross y Tyler, *Predictable Revenue*, 2011 | La separación entre quien prospecta y quien cierra, sabiendo que es un caso de una empresa de software contado por quien vende el método | Libro de practicantes | No; resúmenes |
+| Ley 26.951 y Decreto 2501/2014; Ley 25.326, art. 27, Decreto 1558/2001 y Disposición 4/2009 | Qué se puede hacer al llamar y escribir en frío en Argentina; la vigencia de la Disposición 4/2009 no se verificó | Normas | Resúmenes con citas |
+
+El desarrollo está en [Prospección](../Prospeccion/prospeccion.md).
+
 ## Descubrir y calificar
 
 | Obra | Qué leer y en qué fijarse | Tipo | Leído |

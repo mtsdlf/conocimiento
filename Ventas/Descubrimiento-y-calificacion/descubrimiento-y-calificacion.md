@@ -19,7 +19,7 @@ revisado: 2026-11-22
 
 Descubrir y calificar es lo que se hace antes de proponer: preguntar para entender el problema del cliente y cuánto le cuesta, decidir si vale la pena proponerle y averiguar quién decide de verdad. Lo que sale de acá dice qué proponer y a quién.
 
-Es la primera parte de una venta en [Ventas](../ventas.md). Recibe de [Marketing](../../Marketing/marketing.md) a alguien interesado y le entrega a [La propuesta](../La-propuesta/la-propuesta.md) tres cosas: el problema con las palabras del cliente, su costo actual y la persona que tiene que leerla. El estilo con que se pregunta, más consultivo o más transaccional, lo fija [Formas de vender](../Formas-de-vender/formas-de-vender.md), y cuántas oportunidades pasan de acá a una propuesta lo mide la [medición comercial](../Medicion-comercial/medicion-comercial.md).
+Es la parte de [Ventas](../ventas.md) que sigue a conseguir con quién hablar. Recibe de la [prospección](../Prospeccion/prospeccion.md) a alguien dispuesto a una primera charla, que buscó quien vende o que llegó porque [Marketing](../../Marketing/marketing.md) lo dejó interesado, y le entrega a [La propuesta](../La-propuesta/la-propuesta.md) tres cosas: el problema con las palabras del cliente, su costo actual y la persona que tiene que leerla. El estilo con que se pregunta, más consultivo o más transaccional, lo fija [Formas de vender](../Formas-de-vender/formas-de-vender.md), y cuántas oportunidades pasan de acá a una propuesta lo mide la [medición comercial](../Medicion-comercial/medicion-comercial.md).
 
 ## Tres preguntas antes de escribir una propuesta
 
