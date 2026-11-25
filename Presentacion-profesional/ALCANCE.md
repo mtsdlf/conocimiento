@@ -44,6 +44,9 @@ Presentacion-profesional/
     leer-una-busqueda.md        separar los requisitos reales del ruido
     historia-profesional.md     el hilo que ordena todo: de dónde venís y a dónde vas
     caso-roles-de-ai-engineering.md  caso: los roles del libro de Huyen y qué evidencia pide cada uno
+    recorrido-elegir-a-que-apuntar.md  el análisis de competencia aplicado a uno mismo (rol × mercado)
+    mercado-de-ai-engineering-desde-argentina.md  ficha fechada del mercado (2026-11)
+    cliente-y-rivales-en-ai-engineering.md  ficha fechada: quién contrata y quién compite (2026-11)
   Material/                     lo que hay detrás de las vidrieras
     material.md
     inventario-profesional.md   el registro maestro de todo lo hecho, del que se corta cada vidriera
@@ -72,3 +75,4 @@ Presentacion-profesional/
 - Los roles de AI engineering quedan como una nota de caso.
 - Se sumó `la-ia-en-la-seleccion.md`, que sugirió la investigación de la posición contraria.
 - Reordenado según la corrección de la persona: el CV es una vidriera de todo lo que hay, no el centro.
+- 2026-11-24: se sumaron el recorrido para elegir a qué apuntar y la ficha de mercado, a pedido de la persona («yo soy el producto»), y la ficha de cobro en `Emprender/Legal-e-impuestos/`.

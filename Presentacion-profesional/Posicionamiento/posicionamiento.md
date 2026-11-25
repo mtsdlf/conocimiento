@@ -27,7 +27,9 @@ contrata, elige del [Material](../Material/material.md) lo que las prueba, y le 
 
 ## Dos decisiones: el puesto y la historia
 
-La primera decisión es el puesto. Se toma leyendo avisos reales, no con el nombre del rol: el
+La primera decisión es el puesto, y antes de un aviso concreto conviene elegir a qué par rol ×
+mercado apuntar con el [recorrido para elegir a qué apuntar](recorrido-elegir-a-que-apuntar.md).
+El puesto concreto se elige leyendo avisos reales, no con el nombre del rol: el
 mismo título esconde trabajos distintos según la empresa, y un aviso mezcla lo que se exige con lo
 que se desea. [Leer una búsqueda](leer-una-busqueda.md) es separar esas dos cosas y quedarse con la
 evidencia que el aviso pide.
@@ -59,9 +61,18 @@ ni si un resumen arriba del CV cambia algo. Cada nota dice qué es evidencia y q
 
 ## Qué hay adentro de Posicionamiento
 
+- [Recorrido para elegir a qué apuntar](recorrido-elegir-a-que-apuntar.md) — el análisis de
+  competencia aplicado a uno mismo: candidatas rol × mercado, cliente, rivales, matriz propia,
+  terreno y apuesta, con la plantilla del documento privado.
 - [Leer una búsqueda](leer-una-busqueda.md) — cómo separar en un aviso los requisitos reales de los
   deseos y del ruido, y qué se sabe de quién se autoexcluye.
 - [Historia profesional](historia-profesional.md) — el hilo que une de dónde se viene con a dónde
   se va, y qué tiene de teoría y qué de práctica.
 - [Caso: roles de AI engineering](caso-roles-de-ai-engineering.md) — el método aplicado a un campo:
   las capas del libro de Huyen, los roles del mercado y qué evidencia pide cada uno.
+- [Mercado de AI engineering desde Argentina](mercado-de-ai-engineering-desde-argentina.md) — ficha
+  fechada (2026-11): demanda, pago, remoto abierto a Argentina, cliente, rivales y la posición
+  contraria.
+- [Cliente y rivales en AI engineering](cliente-y-rivales-en-ai-engineering.md) — ficha fechada
+  (2026-11): qué trabajo contrata quien contrata, los rivales por clase, el perfil típico de quien
+  consigue el puesto y la posición contraria.

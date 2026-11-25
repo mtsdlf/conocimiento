@@ -90,6 +90,8 @@ los [mitos del CV](Fundamentos/mitos-del-cv.md) juntan los más comunes.
   [plantilla](Material/plantilla-de-inventario.md), la
   [historia profesional](Posicionamiento/historia-profesional.md) y la
   [plantilla de CV](Vidrieras/plantilla-de-cv.md).
+- Si todavía no sabés a qué rol ni a qué mercado apuntar: [recorrido para elegir a qué apuntar](Posicionamiento/recorrido-elegir-a-que-apuntar.md);
+  para AI engineering desde Argentina, la ficha de [mercado](Posicionamiento/mercado-de-ai-engineering-desde-argentina.md).
 - Si tenés una búsqueda abierta y querés postularte:
   [leer una búsqueda](Posicionamiento/leer-una-busqueda.md),
   [adaptar por puesto](Vidrieras/adaptar-por-puesto.md) y la

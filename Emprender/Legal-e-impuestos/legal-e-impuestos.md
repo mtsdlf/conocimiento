@@ -75,7 +75,7 @@ Las cuatro se apoyan en el texto oficial de las normas y en pocos fallos, ningun
 
 ## Lo que se va a sumar a Legal e impuestos
 
-Además de los contratos de un servicio, esta parte tiene tres fichas: la [normativa para empezar en Argentina](normativa-para-empezar-en-argentina.md), con las normas vigentes al 2026-11-22, el [registro de marca y dominio en Argentina](registro-de-marca-y-dominio-en-argentina.md), con lo que no se registra, el trámite del INPI y el .com.ar, al 2026-11-23, y los [accesos delegados por plataforma](accesos-delegados-por-plataforma.md), al 2026-11-24. Los componentes que se van a sumar, tomados de la investigación, son estos:
+Además de los contratos de un servicio, esta parte tiene cuatro fichas: la [normativa para empezar en Argentina](normativa-para-empezar-en-argentina.md), con las normas vigentes al 2026-11-22, el [registro de marca y dominio en Argentina](registro-de-marca-y-dominio-en-argentina.md), con lo que no se registra, el trámite del INPI y el .com.ar, al 2026-11-23, los [accesos delegados por plataforma](accesos-delegados-por-plataforma.md), al 2026-11-24, y [cobrar servicios del exterior como persona](cobrar-servicios-del-exterior.md), con la excepción a liquidar divisas, la factura E del monotributo y lo que falta de contractor y EOR, al 2026-11-24. Los componentes que se van a sumar, tomados de la investigación, son estos:
 
 - Qué forma elegir: el árbol de decisión por responsabilidad, costo, socios e inversión.
 - Persona humana: monotributo y régimen general, y cuándo el primero se queda chico.
