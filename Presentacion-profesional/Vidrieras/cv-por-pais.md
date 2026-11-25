@@ -3,7 +3,7 @@ resumen: >-
   Qué datos personales lleva un CV (foto, edad, estado civil, documento) cambia según el país, y se
   decide en tres capas: lo que dice la ley, lo que se acostumbra y lo que se midió que pasa al
   ponerlos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "EEOC, Prohibited Employment Policies/Practices: https://www.eeoc.gov/prohibited-employment-policiespractices"
@@ -19,7 +19,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/vidrieras.md"
 aliases: [foto en el CV, datos personales en el CV, CV internacional, Europass]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # CV por país

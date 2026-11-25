@@ -3,7 +3,7 @@ resumen: >-
   La validez de un método de selección es cuánto se correlaciona su resultado con el desempeño
   posterior en el puesto. Lo que un CV puede afirmar, como los años de experiencia, está entre lo
   que menos predice; las muestras de trabajo y la entrevista estructurada, entre lo que más.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Sackett, Zhang, Berry y Lievens (2022), Revisiting Meta-Analytic Estimates of Validity in Personnel Selection, Journal of Applied Psychology 107(11), 2040-2068, tabla 3: https://doi.org/10.1037/apl0000994"
@@ -13,7 +13,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/seleccion.md (sección 2)"
 aliases: [validez predictiva, validez de la selección, métodos de selección, predictive validity, Sackett]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Qué predice la selección

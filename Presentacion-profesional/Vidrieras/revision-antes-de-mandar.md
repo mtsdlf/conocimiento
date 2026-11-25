@@ -3,7 +3,7 @@ resumen: >-
   La revisión antes de mandar es la lista de chequeo que se pasa a cada versión del CV antes de
   postularse, con el porqué de cada punto. Lo que más evidencia tiene son los errores de ortografía,
   que en un experimento con reclutadores bajaron la probabilidad de entrevista.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Sterkens et al. (2022), PLoS ONE (según un resumen): https://pmc.ncbi.nlm.nih.gov/articles/PMC10075394/"
@@ -15,7 +15,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/vidrieras.md"
 aliases: [checklist de CV, revisar el CV, errores de ortografía en el CV]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Revisión antes de mandar

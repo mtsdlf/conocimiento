@@ -3,7 +3,7 @@ resumen: >-
   Una plantilla en Markdown para llevar el inventario profesional: una sección por período y una
   ficha por entrada, con preguntas para llenar cada campo. Está basada en la plantilla de brag
   document de Julia Evans, adaptada a lo que necesitan las vidrieras.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Julia Evans, Get your work recognized: write a brag document: https://jvns.ca/blog/brag-documents/"
@@ -11,7 +11,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/material.md (secciones 1 y 2)"
 aliases: [plantilla de brag document, plantilla de master resume]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Plantilla de inventario

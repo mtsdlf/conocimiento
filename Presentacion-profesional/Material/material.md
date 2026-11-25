@@ -3,7 +3,7 @@ resumen: >-
   El material es todo lo que una persona hizo y puede probar (logros, proyectos, habilidades,
   historia), anotado una vez y mantenido aparte de las vidrieras. De él se corta cada CV, cada
   perfil y cada portfolio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "https://jvns.ca/blog/brag-documents/"
@@ -13,7 +13,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/contraria.md (sección 3, tesis a y b)"
 aliases: [master resume, CV maestro, brag document]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Material

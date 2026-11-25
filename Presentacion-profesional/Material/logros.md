@@ -3,7 +3,7 @@ resumen: >-
   Un logro dice qué cambió gracias a uno y cómo se sabe; una tarea solo dice de qué era
   responsable. Las fórmulas del campo (XYZ, A+P+R, PAR, CAR) ordenan esa frase, y el número entra
   cuando prueba algo, no por regla.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Laszlo Bock, My Personal Formula for a Winning Resume, LinkedIn, 29-09-2014 (no leído, 403): https://www.linkedin.com/pulse/20140929041000-5421-my-personal-formula-for-a-winning-resume/"
@@ -20,7 +20,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/contraria.md (sección 3, tesis b)"
 aliases: [logro, bullet, accomplishment, fórmula XYZ, XYZ, STAR, CAR, PAR, cuantificar logros, métricas en el CV]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Logros

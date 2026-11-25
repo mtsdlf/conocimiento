@@ -3,7 +3,7 @@ resumen: >-
   Adaptar por puesto es sacar del inventario profesional la versión del CV para una búsqueda
   concreta: qué logros entran, en qué orden y con qué palabras. No hay ningún experimento que mida
   si un CV adaptado rinde más que uno genérico.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Harvard OCS: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/"
@@ -18,7 +18,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/contraria.md"
 aliases: [adaptar el CV, CV a medida, tailoring, personalizar el CV]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Adaptar por puesto

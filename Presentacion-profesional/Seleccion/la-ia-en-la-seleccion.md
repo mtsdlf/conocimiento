@@ -4,7 +4,7 @@ resumen: >-
   adaptar CVs y cartas, y quien contrata recibe más postulaciones y deja de confiar en las señales
   que ahora cuestan poco producir. Corregir con IA ayuda a cada postulante, pero la adaptación a
   medida dejó de distinguir a nadie.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wiles, van Inwegen, Munyikwa y Horton (2024), Management Science; NBER WP 30886: https://www.nber.org/papers/w30886"
@@ -18,7 +18,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/contraria.md (secciones 1.4, 2 y 3)"
 aliases: [CV con IA, IA generativa en la selección, ChatGPT para el CV, avalancha de postulaciones, señalización, signaling]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # La IA en la selección

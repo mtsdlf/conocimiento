@@ -4,7 +4,7 @@ resumen: >-
   área que el CV tiene que hacer legible. Sobre huecos hay experimentos de campo, y el mejor
   encontró que explicarlo no cambió los llamados pero cambiar el formato sí; sobre cambios de
   carrera no hay ningún estudio controlado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kristal, Nicks, Gloor y Hauser (2023), Nature Human Behaviour: https://www.nature.com/articles/s41562-022-01485-6"
@@ -18,7 +18,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/material.md (sección 4)"
 aliases: [hueco laboral, employment gap, career break, pausa de carrera, cambio de carrera, career change, reconversión]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Huecos y cambios de carrera

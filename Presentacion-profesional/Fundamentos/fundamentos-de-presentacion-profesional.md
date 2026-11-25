@@ -2,12 +2,12 @@
 resumen: >-
   Lo que cruza todo el tema de presentación profesional sin ser una de sus partes: los mitos más
   repetidos sobre el CV con su veredicto, y qué fuentes del campo valen y cuánto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Presentacion-profesional/.investigacion/contraria.md"
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Fundamentos de presentación profesional

@@ -3,7 +3,7 @@ resumen: >-
   El portfolio y el perfil de GitHub son la vidriera que muestra trabajo en vez de describirlo.
   Los empleadores entrevistados por Marlow y Dabbish confiaban en las huellas de trabajo difíciles
   de fingir y desconfiaban de la popularidad; ningún estudio midió cuánto pesan en la contratación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Marlow y Dabbish (2013), Activity traces and signals in software developer recruitment and hiring, CSCW, pp. 145-156: https://www.cs.cmu.edu/~xia/resources/Documents/Marlow-cscw13.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/contraria.md"
 aliases: [portfolio, portafolio, GitHub, perfil de GitHub, proyectos personales]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Portfolio y GitHub

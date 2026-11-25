@@ -3,7 +3,7 @@ resumen: >-
   El CV es el documento de una o dos páginas que resume, para un puesto, la parte del material que
   prueba que uno puede hacerlo. Lo lee primero un sistema que extrae sus datos y después una persona
   que decide si seguir.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Harvard OCS, guía de CV: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/"
@@ -22,7 +22,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/contraria.md"
 aliases: [currículum, curriculum vitae, résumé, hoja de vida, ATS, largo del CV]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # CV

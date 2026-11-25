@@ -3,7 +3,7 @@ resumen: >-
   La historia profesional es el hilo que explica por qué lo que uno hizo lleva al puesto al que
   apunta. Tiene base en la teoría de transiciones de carrera, pero su efecto en la selección no
   está medido: se sostiene con trabajo hecho, no con el relato solo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Presentacion-profesional/.investigacion/posicionamiento.md (sección 2)"
@@ -14,7 +14,7 @@ fuentes:
   - "BPS Research Digest, reclutadores y personalidad en el CV: https://www.bps.org.uk/research-digest/recruiters-think-they-can-tell-your-personality-your-resume-they-cant"
 aliases: [narrativa profesional, relato profesional, resumen profesional, perfil profesional, professional summary, career story]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Historia profesional

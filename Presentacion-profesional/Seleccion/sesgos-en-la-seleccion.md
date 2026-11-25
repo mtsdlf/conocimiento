@@ -4,7 +4,7 @@ resumen: >-
   atributo que no tiene que ver con el puesto, como el nombre, la edad o el tiempo sin trabajo.
   Se mide con estudios de correspondencia, que mandan CVs ficticios iguales salvo en ese atributo
   y cuentan cuántos reciben un llamado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bertrand y Mullainathan (2004), Are Emily and Greg More Employable than Lakisha and Jamal?, American Economic Review 94(4); NBER WP 9873: https://www.nber.org/papers/w9873"
@@ -23,7 +23,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/seleccion.md (sección 3)"
 aliases: [discriminación en la contratación, estudio de correspondencia, audit study, callback, sesgo por nombre, sesgo por edad, penalidad por desempleo]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Sesgos en la selección

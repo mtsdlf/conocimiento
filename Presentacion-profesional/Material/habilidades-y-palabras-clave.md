@@ -4,7 +4,7 @@ resumen: >-
   palabras clave para que un buscador o un ATS encuentre el CV, una práctica que documentan casi
   solo los vendedores, y como base del skills-based hiring, una política de empleadores que sí
   tiene estudios y que se cumple mucho menos de lo que se anuncia.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Fuller, Sigelman y Martin, Skills-Based Hiring: The Long Road from Pronouncements to Practice, Burning Glass Institute y HBS, feb. 2024: https://www.burningglassinstitute.org/s/Skills-Based-Hiring-02122024-vF-srmp.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/material.md (sección 3)"
 aliases: [skills, habilidades, keywords, palabras clave, skills-based hiring, contratación por habilidades]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Habilidades y palabras clave

@@ -4,7 +4,7 @@ resumen: >-
   puestos contra las tres capas del stack que describe Chip Huyen en *AI Engineering*. El libro
   describe capas y tareas, no puestos: la correspondencia con los roles del mercado es inferencia
   de esta base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Presentacion-profesional/.investigacion/posicionamiento.md (sección 3)"
@@ -17,7 +17,7 @@ fuentes:
   - "Avisos de tres empresas de IA leídos el 2026-11-24: https://job-boards.greenhouse.io/scaleai/jobs/4720573005, https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002, https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002, https://job-boards.greenhouse.io/anthropic/jobs/5245851008, https://job-boards.greenhouse.io/anthropic/jobs/5198255008, https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002"
 aliases: [AI engineering, AI engineer, ingeniería de IA, roles de IA, Chip Huyen, forward-deployed engineer, FDE]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Caso: roles de AI engineering

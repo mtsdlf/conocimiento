@@ -2,7 +2,7 @@
 resumen: >-
   Posicionarse es decidir a qué puesto se apunta y con qué historia se cuenta lo hecho para llegar
   ahí. Es lo que elige qué parte del material va a cada vidriera.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Presentacion-profesional/.investigacion/posicionamiento.md"
@@ -11,7 +11,7 @@ fuentes:
   - "Chip Huyen, AI Engineering, O'Reilly, 2025, índice: https://github.com/chiphuyen/aie-book/blob/main/ToC.md"
 aliases: [posicionamiento profesional, a qué apuntar, objetivo laboral]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Posicionamiento

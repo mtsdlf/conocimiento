@@ -3,7 +3,7 @@ resumen: >-
   Leer una búsqueda es separar, en un aviso, lo que el empleador exige de lo que desea y de lo que
   es ruido, para decidir si postularse y qué evidencia mostrar. Los avisos piden de más, y la
   evidencia dice que la vaguedad del requisito aleja a candidatos calificados.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Presentacion-profesional/.investigacion/posicionamiento.md (sección 1)"
@@ -16,7 +16,7 @@ fuentes:
   - "Avisos de empresas de IA leídos el 2026-11-24: https://job-boards.greenhouse.io/anthropic/jobs/5245851008, https://job-boards.greenhouse.io/anthropic/jobs/5198255008, https://job-boards.greenhouse.io/scaleai/jobs/4720573005, https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"
 aliases: [leer un aviso, requisitos de un aviso, job description, descripción del puesto, postularse sin cumplir todo]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Leer una búsqueda

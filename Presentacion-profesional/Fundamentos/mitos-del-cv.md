@@ -3,7 +3,7 @@ resumen: >-
   Los consejos de CV más repetidos (los 6 segundos, el ATS que rechaza el 75 %, cuantificar todo,
   una página siempre, la carta que nadie lee) salen casi todos de empresas que venden servicios de
   CV y no publicaron su método. Contra la evidencia, la mayoría queda exagerada o sin base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Fortune (2014-08-22), How to keep your resume from getting lost in cyberspace: https://fortune.com/2014/08/22/how-to-keep-your-resume-from-getting-lost-in-cyberspace/"
@@ -28,7 +28,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/seleccion.md"
 aliases: [mitos de currículum, mitos del currículum, 6 segundos, regla de los 6 segundos, el ATS rechaza el 75 %, CV de una página, carta de presentación, cover letter, texto blanco, primer CV]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Mitos del CV

@@ -4,7 +4,7 @@ resumen: >-
   que guarda y ordena las postulaciones, personas que las leen y un juicio sobre quién pasa a la
   entrevista. Es el lado que recibe las vidrieras, y sus reglas explican por qué las demás partes
   del tema son como son.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Presentacion-profesional/.investigacion/seleccion.md"
@@ -13,7 +13,7 @@ fuentes:
   - "Fuller et al. (2021), Hidden Workers: Untapped Talent, HBS y Accenture: https://pubwww.hbs.edu/managing-the-future-of-work/Documents/research/Hidden%20Workers%20Executive%20Summary.pdf"
 aliases: [reclutamiento, screening, filtro de postulantes, proceso de selección, hiring]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Selección

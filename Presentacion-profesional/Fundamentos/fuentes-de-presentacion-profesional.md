@@ -4,7 +4,7 @@ resumen: >-
   estudios revisados por pares, experimentos de campo, documentación oficial de los ATS, guías de
   career services, practicantes y vendedores de servicios de CV. Las que más circulan son las que
   menos valen.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Presentacion-profesional/.investigacion/contraria.md, secciones 4, 5 y 8"
@@ -16,7 +16,7 @@ fuentes:
   - "Britannica Money, curriculum vitae: https://www.britannica.com/money/curriculum-vitae-document"
 aliases: [bibliografía de CV, fuentes sobre CV, historia del CV, historia del currículum, résumé, curriculum vitae, por dónde empezar]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Fuentes de presentación profesional

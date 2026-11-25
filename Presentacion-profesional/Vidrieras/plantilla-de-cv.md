@@ -2,7 +2,7 @@
 resumen: >-
   Un esqueleto de CV en Markdown, para copiar y llenar desde el inventario profesional, con un
   comentario en cada parte que dice qué va y por qué.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Harvard OCS: https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/"
@@ -11,7 +11,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/vidrieras.md"
 aliases: [modelo de CV, template de CV, formato de CV]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Plantilla de CV

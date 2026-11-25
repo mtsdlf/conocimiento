@@ -3,7 +3,7 @@ resumen: >-
   El inventario profesional es el registro maestro de todo lo que uno hizo en el trabajo, con su
   contexto, su resultado y la evidencia, que se llena a medida que pasan las cosas. Es el material
   en bruto del que se cortan los CV, el perfil y el portfolio; no es un CV largo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Julia Evans, Get your work recognized: write a brag document: https://jvns.ca/blog/brag-documents/"
@@ -12,7 +12,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/material.md (sección 1)"
 aliases: [brag document, brag doc, master resume, CV maestro, registro de logros]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Inventario profesional

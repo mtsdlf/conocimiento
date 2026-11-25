@@ -3,7 +3,7 @@ resumen: >-
   Presentarse profesionalmente es mostrarle a quien contrata, en el CV, en LinkedIn y en un
   portfolio, la parte de lo que uno hizo que prueba que puede hacer el puesto. Las vidrieras se
   cortan de un mismo material (logros, proyectos, historia) según el puesto y según quién las lee.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Sackett, Zhang, Berry y Lievens (2022), Journal of Applied Psychology 107(11), tabla 3: https://doi.org/10.1037/apl0000994"
@@ -11,7 +11,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/ (cinco informes, 2026-11-24)"
 aliases: [CV, currículum, curriculum vitae, résumé, hoja de vida, perfil profesional, búsqueda laboral, buscar trabajo]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Presentación profesional

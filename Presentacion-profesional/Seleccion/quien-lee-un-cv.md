@@ -4,7 +4,7 @@ resumen: >-
   campos y aplica las reglas del empleador; el recruiter, que filtra; y el hiring manager, que
   decide a quién entrevistar. El software rechaza solo con reglas que escribió el empleador, y
   esas reglas igual dejan afuera a gente calificada.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Presentacion-profesional/.investigacion/seleccion.md (sección 1)"
@@ -22,7 +22,7 @@ fuentes:
   - "Brown y Campion (1994), Journal of Applied Psychology 79, 897-908"
 aliases: [ATS, applicant tracking system, sistema de seguimiento de postulantes, recruiter, reclutador, hiring manager, parseo de CV, resume parsing, pregunta filtro, knockout question, auto-reject]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Quién lee un CV

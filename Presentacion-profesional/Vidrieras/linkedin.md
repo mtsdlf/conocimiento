@@ -2,7 +2,7 @@
 resumen: >-
   LinkedIn es la vidriera que trabaja sin que uno se postule: un perfil único donde los reclutadores
   buscan con filtros y palabras clave, y una red de contactos por donde circulan las oportunidades.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "LinkedIn Blog (2017-06-21), Get found via LinkedIn search: https://www.linkedin.com/blog/member/product/looking-for-your-next-job-opportunity-get-found-via-linkedin-search"
@@ -12,7 +12,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/vidrieras.md"
 aliases: [perfil de LinkedIn, Open to Work, OpenToWork, LinkedIn Recruiter, lazos débiles]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # LinkedIn

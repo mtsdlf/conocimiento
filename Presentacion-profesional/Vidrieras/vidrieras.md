@@ -3,7 +3,7 @@ resumen: >-
   Las vidrieras son lo que quien contrata ve de uno antes de hablarle: el CV, el perfil de
   LinkedIn y el portfolio o GitHub. Cada una se corta del mismo material y muestra algo que las
   otras no pueden mostrar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Presentacion-profesional/.investigacion/vidrieras.md"
@@ -11,7 +11,7 @@ fuentes:
   - "Marlow y Dabbish (2013), CSCW, pp. 145-156: https://www.cs.cmu.edu/~xia/resources/Documents/Marlow-cscw13.pdf"
 aliases: [vidriera, CV, LinkedIn, portfolio]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-24
 ---
 
 # Vidrieras
