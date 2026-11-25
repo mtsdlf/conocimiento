@@ -3,7 +3,7 @@ resumen: >-
   Lo que se sabía al 2026-11-24 de quién contrata AI engineering y para qué trabajo, contra quién se
   compite por clase de rival, qué perfil consigue el puesto y cuál es la mejor evidencia en contra de
   apostar a esos roles.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Presentacion-profesional/.investigacion/mercado-cliente-y-rivales.md"
@@ -27,7 +27,7 @@ fuentes:
   - "Stanford Digital Economy Lab, Canaries in the Coal Mine (rev. agosto de 2026): https://digitaleconomy.stanford.edu/news/canariesaug26/"
 aliases: [rivales en AI engineering, quién contrata AI engineers, competencia por puestos de IA, comprar vs. construir IA]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-25
 ---
 
 # Cliente y rivales en AI engineering (2026-11)

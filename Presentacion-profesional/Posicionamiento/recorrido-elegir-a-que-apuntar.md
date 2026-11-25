@@ -4,7 +4,7 @@ resumen: >-
   uno es el producto, cada par rol × mercado es un segmento, quien contrata es el cliente y los
   otros candidatos son los rivales. La guía va de la decisión a la apuesta y a su prueba, y trae
   la plantilla del documento privado que entrega.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Estrategia-competitiva/Fundamentos/recorrido-analisis-de-competencia.md (el recorrido que se adapta)"
@@ -12,7 +12,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/mercado-argentina.md, mercado-remoto.md, mercado-cliente-y-rivales.md, mercado-cobro-y-contraria.md (2026-11-24)"
 aliases: [a qué apuntar, elegir rol, elegir mercado laboral, yo soy el producto, análisis de mercado laboral, estrategia de búsqueda laboral]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-25
 ---
 
 # Recorrido para elegir a qué apuntar

@@ -4,7 +4,7 @@ resumen: >-
   presta a clientes del exterior: la excepción a liquidar divisas del BCRA, el monotributo con
   factura E hasta la categoría K, el régimen de economía del conocimiento que no la alcanza, y lo
   poco que se sabe de contractor y EOR, con cuántas fuentes tiene cada cosa.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "BCRA, Comunicación A 8417 (09/04/2026): https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A8417.pdf"
@@ -24,7 +24,7 @@ fuentes:
   - "Presentacion-profesional/.investigacion/mercado-remoto.md"
 aliases: [exportación de servicios, factura E, liquidación de divisas, A 8417, trabajar para afuera, cobrar en dólares, contractor, EOR]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-25
 ---
 
 # Cobrar servicios del exterior como persona (2026-11)

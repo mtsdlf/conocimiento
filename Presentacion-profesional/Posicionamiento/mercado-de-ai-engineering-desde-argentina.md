@@ -3,7 +3,7 @@ resumen: >-
   Lo que se sabía al 2026-11-24 del mercado de roles de AI engineering para quien trabaja desde
   Argentina: cuánto pesa el rol en avisos locales, cuánto se paga en pesos y en dólares, qué remoto
   está de verdad abierto al país, cuánto se queda el intermediario y qué falta medir.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Presentacion-profesional/.investigacion/mercado-argentina.md"
@@ -29,7 +29,7 @@ fuentes:
   - "Forbes Argentina, relevamiento de Takenos (2026-08-07): https://www.forbesargentina.com/innovacion/los-argentinos-trabajan-exterior-ya-cobran-sueldo-promedio-us-1800-cuales-son-perfiles-mejores-pagos-n95027"
 aliases: [mercado de IA en Argentina, sueldos de AI engineer, trabajar para afuera, remoto desde Argentina, nearshore]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-25
 ---
 
 # Mercado de AI engineering desde Argentina (2026-11)
