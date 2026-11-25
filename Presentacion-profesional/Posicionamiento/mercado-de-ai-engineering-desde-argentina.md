@@ -17,6 +17,7 @@ fuentes:
   - "Ámbito, informe OPSSI/CESSI 1T2026 (2026-07-29): https://www.ambito.com/tecnologia/la-industria-del-software-argentino-vuelve-tener-exportaciones-record-pero-el-empleo-cae-primera-vez-seis-anos-n6304732"
   - "Anuncios de dos empresas extranjeras con centro en Argentina (mayo de 2026 y noviembre de 2025): https://www.elobservador.com.uy/espana/empresas-y-negocios/un-socio-google-cloud-europa-anuncia-una-inversion-tecnologica-argentina-n6043836 y https://mercado.com.ar/innovacion/indra-group-inaugura-oficinas-en-puerto-madero-para-impulsar-innovacion-tecnologica-en-argentina"
   - "Jobgether, Global Remote Job Market in 2025 (2025-12-17): https://jobgether.com/blog/remote-job-market-2025"
+  - "Presentacion-profesional/.investigacion/mercado-pago-lider-vs-ingeniero.md (2026-11-24)"
   - "Indeed Hiring Lab, US Labor Market Update (2024-11-19): https://hiringlab.indeed.com/?p=19403"
   - "Revelo, Latin America Software Engineer Salary Guide (2026): https://www.revelo.com/salaries/latin-america-software-engineer-salary-guide"
   - "Howdy, LatAm developer salaries 2026 (2026-05-05): https://www.howdy.com/blog/latin-america-software-developer-salaries-2026"
@@ -158,6 +159,26 @@ EOR) está en [cobrar servicios del exterior](../../Emprender/Legal-e-impuestos/
   seniors y Colombia y Brasil figuran entre las opciones fuertes; Argentina se nombra sin cifras.
 - **Tipo de cambio y reglas**: las reglas cambiarias cambiaron al menos tres veces entre 2025 y
   2026, y economistas discuten si el dólar está atrasado (solo resúmenes del buscador).
+
+## Cuánto suma liderar y cuánto suma la IA
+
+Lo que más mueve el pago es la moneda y el mercado, no el cargo ni la IA. Las cifras de Argentina
+son cálculo de la investigación sobre los CSV abiertos de sysarmy 2026.1 (ARS brutos por mes,
+mediana); las de remoto, de un vendedor de talento.
+
+| Comparación | Senior (ingeniero) | Liderazgo | Diferencia |
+|---|---|---|---|
+| Argentina, cobra en pesos | DevOps/SRE senior 3,5 M (n=374) | Technical Leader 5,0 M (n=290); Manager/Director 5,32 M (n=371) | +43 % a +52 % |
+| Argentina, cobra todo en dólares | DevOps/SRE senior 7,35 M (n=48) | Technical Leader 7,75 M (n=42); Manager 7,0 M (n=58) | +5 % a −5 % |
+| Remoto LatAm (Revelo, vendedor), USD/año | 66.000 | Lead o engineering manager 72.000 (una sola banda) | +9 % |
+
+La prima local de liderazgo es de rol, no de tener gente a cargo: dentro de DevOps/SRE senior, con
+gente a cargo la mediana es 3,4 M (n=105) y sin gente 3,5 M (n=269).
+
+La prima de IA en el mismo nivel es chica o nula. Revelo da USD 72.000 al año tanto para AI/ML
+senior como para DevOps senior, con +10 % solo en mid. En EE.UU., Levels.fyi mide entre +6,2 % y
++18,7 % sobre el no-IA del mismo nivel en 2025, y describe la prima como estancada. Ninguna fuente
+mide la prima de MLOps o de plataforma de IA sobre DevOps del mismo nivel.
 
 ## Rol por mercado: lo que hay y lo que falta
 
