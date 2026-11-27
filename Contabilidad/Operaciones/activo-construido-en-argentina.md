@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, la RT 54 de la FACPCE mide un bien de uso que construye la propia empresa por su costo de construcción con costeo completo, resta del costo lo que se vende durante las pruebas y deja elegir si los intereses de la obra se suman al bien o van a gasto, mientras que la NIC 23 obliga a sumarlos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "FACPCE, RT 54 (T.O. RT 59 y modificatorias, con las RT 59 y 62 y la Res. JG 656/2025), texto adoptado por el CPCE de la Ciudad de Buenos Aires, párr. 104 a 110, 130, 136 a 142, 176 a 200, 313 a 342, 602, 632 a 634 y el glosario (leído el 2026-11-27): https://consejo.org.ar/storage/attachments/Resolucion%20Tecnica%20N%2054%20(TO%20RT%2059%20y%20modi-7TbUsld18i.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Contabilidad/.investigacion/activo-construido.md (2026-11-27), componente 2"
 aliases: [activo construido en Argentina, bienes de uso construidos, costo de construcción RT 54, activación de costos financieros, costos financieros RT 54, activo apto para activación de costos financieros, deudas computables, puesta en marcha]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Activo construido en Argentina

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un activo construido por la propia empresa (un galpón, una línea de producción, una instalación) se registra con las mismas reglas que uno comprado: sus costos se acumulan en una cuenta de obra en curso, que no se amortiza, hasta que el bien queda en condiciones de funcionar; ahí pasa a la cuenta del bien y empieza la amortización.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 16 Propiedades, planta y equipo, texto oficial (edición HTML 2026), párr. 15 a 22 y 55: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ias16.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Contabilidad/.investigacion/activo-construido.md (2026-11-27)"
 aliases: [activo construido, activo construido por la propia empresa, obra propia, construcción propia, self-constructed asset, obra en curso, obras en curso, construcción en curso, construction in progress, CIP, activación de costos, capitalización de costos, costos por préstamos, borrowing costs, activación de intereses, capitalización de intereses, activo apto, qualifying asset, NIC 23, IAS 23, costos de traslado, costos de reubicación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Activo construido por la propia empresa

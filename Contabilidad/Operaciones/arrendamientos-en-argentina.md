@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, las empresas que no aplican las NIIF (en general, las que no cotizan) registran los arrendamientos con la RT 54 de la FACPCE, que mantiene la división entre financieros y operativos también para quien toma el bien: el financiero se registra como una compra financiada y el operativo como un gasto, sin activo ni pasivo; las que cotizan aplican la NIIF 16.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "FACPCE, RT 54 (T.O. RT 59 y modificatorias, con las RT 59 y 62 y la Res. JG 656/2025), texto adoptado por el CPCE de la Ciudad de Buenos Aires, párr. 3, 77, 532 a 559, 658 y 672 (leído el 2026-11-27): https://consejo.org.ar/storage/attachments/Resolucion%20Tecnica%20N%2054%20(TO%20RT%2059%20y%20modi-7TbUsld18i.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Contabilidad/.investigacion/arrendamientos.md (2026-11-27), componente 2"
 aliases: [arrendamientos en Argentina, leasing en Argentina, RT 54 arrendamientos, arrendamiento financiero RT 54, arrendamiento operativo RT 54, cuotas mínimas, cuotas contingentes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Arrendamientos en Argentina

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un arrendamiento es un contrato que le da a una empresa el derecho a controlar el uso de un bien ajeno durante un plazo a cambio de pagos; con la NIIF 16, quien lo toma registra un activo por el derecho de uso y un pasivo por los pagos futuros, y el gasto se reparte entre amortización e interés.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIIF 16 Arrendamientos, texto oficial (edición HTML 2026), párr. 5 a 50, 61 a 84, 100 a 103, B3 a B8, Apéndice A y C1: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs16.html"
@@ -10,7 +10,7 @@ fuentes:
   - "Contabilidad/.investigacion/arrendamientos.md (2026-11-27)"
 aliases: [arrendamiento, arrendamientos, leasing, lease, leases, NIIF 16, IFRS 16, activo por derecho de uso, derecho de uso, right-of-use asset, pasivo por arrendamiento, lease liability, arrendatario, lessee, arrendador, lessor, arrendamiento financiero, finance lease, arrendamiento operativo, operating lease, alquiler, NIC 17]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Arrendamientos

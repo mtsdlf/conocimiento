@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, la RT 54 de la FACPCE exige registrar el impuesto diferido a todas las empresas salvo la pequeña, que puede registrar solo el impuesto corriente, y la mediana, que puede hacer lo mismo si el diferido le cuesta un esfuerzo desproporcionado; a diferencia de la NIC 12, permite medirlo descontado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "FACPCE, RT 54 (T.O. RT 59 y modificatorias, con las RT 59 y 62 y la Res. JG 656/2025), texto adoptado por el CPCE de la Ciudad de Buenos Aires, párr. 6 a 9, 83 a 88, 176 a 200, 332 a 336, 570 a 600, 609 y 610, A5 y el apartado de transición (leído el 2026-11-27): https://consejo.org.ar/storage/attachments/Resolucion%20Tecnica%20N%2054%20(TO%20RT%2059%20y%20modi-7TbUsld18i.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Contabilidad/.investigacion/impuesto-diferido.md (2026-11-27), componente 2"
 aliases: [impuesto diferido en Argentina, RT 54 impuesto a las ganancias, método del impuesto diferido, método del impuesto a pagar, impuesto a las ganancias diferido, activo neto por impuesto diferido, pasivo neto por impuesto diferido]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Impuesto diferido en Argentina

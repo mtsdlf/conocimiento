@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El impuesto diferido es el impuesto a las ganancias que una empresa va a pagar o ahorrar más adelante porque la contabilidad y la ley reconocen las mismas partidas en años distintos; se registra como activo o pasivo para que el gasto por impuesto de cada año guarde relación con su resultado contable.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 12 Impuesto a las ganancias, texto oficial (edición HTML 2026), párr. 5 a 10, 12, 15 a 17, 21, 22, 24 a 29, 34 a 36, 46 a 63, 71, 74 y 81: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ias12.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Contabilidad/.investigacion/impuesto-diferido.md (2026-11-27)"
 aliases: [impuesto diferido, deferred tax, impuestos diferidos, deferred taxes, activo por impuesto diferido, deferred tax asset, pasivo por impuesto diferido, deferred tax liability, diferencia temporaria, temporary difference, diferencias temporarias, base fiscal, tax base, impuesto corriente, current tax, NIC 12, IAS 12, método del impuesto diferido, gasto por impuesto a las ganancias, income tax expense, tasa efectiva]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Impuesto diferido
