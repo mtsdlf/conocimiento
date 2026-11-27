@@ -1,0 +1,42 @@
+---
+resumen: >-
+  Aprender en el trabajo es aprender haciendo tareas reales y con otros, fuera de un curso. La regla 70-20-10, que dice que el 70 % se aprende así, el 20 % con otros y el 10 % en cursos, no tiene respaldo empírico: salió de una encuesta de percepción a ejecutivos y su propio creador la llamó folklore.
+estado: borrador
+estabilidad: estable
+fuentes:
+  - "70/20/10 model (Wikipedia): https://en.wikipedia.org/wiki/70/20/10_Model (página parcial)"
+  - "Universidad de Twente (1 de abril de 2026), Rethinking the 70-20-10 rule: https://www.utwente.nl/en/learning-teaching/news-events/2026/4/871038/rethinking-the-70-20-10-rule (página parcial)"
+  - "Clardy (2018), 70-20-10 and the Dominance of Informal Learning: A Fact in Search of Evidence, Human Resource Development Review: https://journals.sagepub.com/doi/abs/10.1177/1534484318759399 (resumen del buscador)"
+  - "Downes, resumen de Betts: https://downes.ca/post/55867 (resumen del buscador)"
+  - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
+  - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
+aliases: [70-20-10, regla 70-20-10, 70/20/10, aprendizaje informal, informal learning, aprendizaje en el puesto, on-the-job learning, workplace learning]
+creado: 2026-11-27
+revisado:
+---
+
+# Aprender en el trabajo
+
+Aprender en el trabajo es aprender haciendo tareas reales y con otros, fuera de un curso. La regla 70-20-10, que dice que el 70 % se aprende así, el 20 % con otros y el 10 % en cursos, no tiene respaldo empírico: salió de una encuesta de percepción a ejecutivos y su propio creador la llamó folklore.
+
+Es el eje del contexto dentro de los [formatos](formatos.md): no cómo se entrega un curso, sino si hace falta un curso. Se conecta con el [análisis de necesidades](../Analisis-previo/analisis-de-necesidades.md), que puede concluir que la brecha se cierra mejor en el trabajo, y con la [secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md), que trae tareas reales al curso.
+
+## De dónde sale el 70-20-10
+
+Se atribuye a McCall, Lombardo y Eichinger, a partir de una encuesta de 1996 a cerca de 200 ejecutivos que contaron cómo creían haber aprendido: 70 % de tareas desafiantes, 20 % de relaciones, 10 % de cursos. Aparece en Lombardo y Eichinger, *The Career Architect Development Planner* (1996), y la difundió después Charles Jennings.
+
+Tres problemas de origen: era sobre ejecutivos, era autoinforme de percepciones y los números son redondos. Según la Universidad de Twente, los autores originales dijeron que las proporciones eran indicativas («there is a good chance…»), y Morgan McCall la llamó «folklore».
+
+## Por qué cayó como dato
+
+- La Universidad de Twente (2026): «there is no solid scientific evidence supporting the 70–20–10 ratio». El único estudio empírico que cita, Enos et al. (2003), con 84 ejecutivos de una sola empresa y también por autoinforme, dio 16 % de la experiencia, 44 % de otros y 30 % de la formación formal: proporciones muy distintas.
+- Clardy (2018) revisó la base de evidencia del 70 % y la encontró débil; las políticas de desarrollo que se apoyan en ella son «likely to be misleading».
+- Downes, resumiendo a Betts, señala que la cifra no aparece en los resultados del estudio de caso que se le atribuye.
+
+## Lo que queda de la idea
+
+La idea sin los números sobrevive: se aprende mucho haciendo tareas reales en el trabajo y con otras personas. Eso se puede enunciar, con la salvedad de que la proporción no tiene respaldo. Usar 70-20-10 para decidir presupuestos o para justificar que no hace falta formar es usar folklore como dato.
+
+Para el diseño hay una lectura más productiva, que es de esta base: si las tareas reales enseñan, el curso puede traerlas adentro, como hacen las tareas auténticas de [4C/ID](../Modelos-de-diseno/4c-id.md), y el trabajo puede tener tareas elegidas por lo que enseñan. Cómo se mide si lo aprendido en un curso llega al trabajo es tema de [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md).
+
+> [!NOTE] Sin fuente todavía: el informe de revisión de Kajewski y Madsen (2012), citado por un blog como «lack of empirical data», no se verificó.
