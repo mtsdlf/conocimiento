@@ -44,7 +44,7 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 | Activos y mantenimiento (no armado) | el servicio de campo: la orden de trabajo, el técnico, los repuestos y el historial del equipo | El caso decide que hace falta una visita y deriva; la visita y su orden de trabajo son de allá, y el caso queda abierto hasta que vuelve el resultado |
 | [Comercio-electronico/devoluciones](../Comercio-electronico/Operaciones-del-comercio/devoluciones.md) | la logística de la devolución en una tienda online | El caso autoriza la devolución o el cambio; el paquete que vuelve, allá |
 | Inventario y depósitos (no armado) | la mercadería devuelta que entra al depósito | El caso dice qué vuelve y por qué; dónde queda y si vuelve a la venta, allá |
-| Contabilidad, Impuestos y Tesorería (en armado) | la nota de crédito, el reintegro y su impuesto | El caso decide compensar; el comprobante y la plata, allá |
+| [Contabilidad](../Contabilidad/contabilidad.md); Impuestos y Tesorería (en armado) | la nota de crédito, el reintegro y su impuesto | El caso decide compensar; el comprobante y la plata, allá |
 | Producción (no armado) | la calidad del producto fabricado | Un reclamo repetido sobre un producto es un dato para su calidad; la no conformidad se abre allá |
 | Procesos de negocio (no armado) | el recorrido del reclamo a la resolución, que cruza este tema, Relación con clientes, Inventario y Contabilidad | Allá, el recorrido entero; acá, cada paso que es del caso |
 
