@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Márgenes brutos, comisiones y múltiplos de valuación de empresas públicas de software, servicios y plataformas, tomados de sus presentaciones de 2025 y 2026 y de los datos por industria de Damodaran de enero de 2026. Sirven de referencia para comparar modelos de negocio, no como meta para una empresa chica.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Datos XBRL de la SEC (ingresos, costo de ingresos y ganancia bruta de cada 10-K): https://data.sec.gov/api/xbrl/companyconcept/"
@@ -21,7 +21,7 @@ fuentes:
   - "Emprender/.investigacion/modelos-saas-y-servicios.md"
 aliases: [márgenes por modelo, margen bruto SaaS, take rate de marketplaces, múltiplos de software]
 creado: 2026-11-22
-revisado:
+revisado: 2026-11-27
 ---
 
 # Márgenes por modelo de negocio

@@ -3,7 +3,7 @@ resumen: >-
   Lo que se sabía al 2026-11-27 de qué le compra una empresa a una consultora de software, qué
   usaba antes, de qué se queja y cómo adopta la IA la pyme, con 93 reseñas codificadas y las
   encuestas de adopción, y cinco trabajos del cliente escritos como hipótesis.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Relevamiento propio del cliente y codificación de 93 reseñas de Clutch (experiencia propia, noviembre de 2026, consultora de software)"
@@ -23,7 +23,7 @@ fuentes:
   - "Foro de Bubble, Agency seems unable to complete my App (2022-05-09): https://forum.bubble.io/t/agency-seems-unable-to-complete-my-app/205882"
 aliases: [qué compran las empresas, cliente de una consultora de software, quejas de clientes de software a medida, adopción de IA en pymes, nadIA, por qué tercerizan desarrollo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Qué le compra una empresa a una consultora de software (2026-11)
