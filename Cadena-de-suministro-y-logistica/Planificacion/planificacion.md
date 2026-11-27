@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La planificación de la cadena es la parte que decide, por período, cuánto se va a vender y cuánto hace falta tener, comprar, producir y mandar a cada lugar. Se arma como una jerarquía de planes: arriba, pocos números por familia y a meses o años; abajo, muchos números por artículo, lugar y semana.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), categoría 4.1 «Plan for and align supply chain resources» y sus niveles 4.1.2 y 4.1.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/planificacion.md (sección 1), planificacion-3.md y fundamentos-y-contraria-2.md (secciones 2.1 y 10)"
 aliases: [planificación, planificación de la cadena de suministro, supply chain planning, planificación de la demanda, demand planning, jerarquía de planes, planning hierarchy, horizonte de planificación, planning horizon, empujar y tirar, push y pull]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificación

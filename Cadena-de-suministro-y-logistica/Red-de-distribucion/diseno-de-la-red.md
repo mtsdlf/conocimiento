@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El diseño de la red es la decisión de cuántos depósitos o centros de distribución tener, dónde ponerlos y a qué clientes atiende cada uno, buscando el menor costo total para el servicio que se le quiere dar al cliente. Se toma con un horizonte de un año o más.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Caplice, C. (MIT CTL), Transportation Management: Network & Hubs, ESD.260 Logistics Systems, archivo lect25, diciembre de 2006, diapositivas 2 a 11 y 27: https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/421e474d22fae64f415aea445a34a254_lect25.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/red-de-distribucion-2.md (sección 2)"
 aliases: [diseño de la red, diseño de red, network design, supply chain network design, localización de depósitos, localización de instalaciones, facility location, cuántos depósitos, ubicación de centros de distribución, DC location, modelo de localización, programación lineal entera mixta, MILP, posponer, postponement]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Diseño de la red

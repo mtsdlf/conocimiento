@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El efecto látigo es la amplificación de la variabilidad de la demanda a medida que se sube por la cadena: cada eslabón le pide a su proveedor con más variación que la que tienen sus propias ventas. Lee, Padmanabhan y Whang le encontraron cuatro causas estructurales y Sterman una de comportamiento; los datos muestran que lo tienen dos de cada tres empresas, con una magnitud moderada.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Lee, Padmanabhan y Whang (1997), Information Distortion in a Supply Chain: The Bullwhip Effect, Management Science 43(4):546-558; abstract, introducción y tabla 1 (copia en PDF de un curso universitario): https://courses.ie.bilkent.edu.tr/ie102/wp-content/uploads/sites/12/2019/02/Lee-Padmanabhan-Whang-1997-MS.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/planificacion.md (sección 6), planificacion-2.md (sección 5) y fundamentos-y-contraria-2.md (secciones 0, 4 y 10)"
 aliases: [efecto látigo, bullwhip effect, bullwhip, whiplash effect, efecto Forrester, Forrester effect, amplificación de la demanda, demand amplification, distorsión de la información, juego de la cerveza, beer game, beer distribution game]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Efecto látigo

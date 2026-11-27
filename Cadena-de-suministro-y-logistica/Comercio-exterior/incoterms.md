@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los Incoterms son once reglas de tres letras de la Cámara de Comercio Internacional (ICC) que, puestas en una compraventa, fijan dónde entrega el vendedor, cuándo pasa el riesgo al comprador y quién contrata el transporte y el seguro. La versión vigente es Incoterms 2020; no dicen cuándo pasa la propiedad ni cómo se paga.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ICC, Incoterms rules (primera edición en 1936, vigencia de 2020, once reglas, reconocimiento de UNCITRAL): https://iccwbo.org/business-solutions/incoterms-rules/"
@@ -11,7 +11,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md (componente 2) y comercio-exterior-y-argentina-2.md (componente 2) y cotejo-pendientes.md (punto 4), 2026-11-27"
 aliases: [Incoterms, Incoterm, Incoterms 2020, International Commercial Terms, términos de comercio internacional, condiciones de entrega, condición de venta, EXW, FCA, CPT, CIP, DAP, DPU, DDP, FAS, FOB, CFR, CIF, DAT, Ex Works, Free Carrier, Free On Board, Cost Insurance and Freight]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Incoterms

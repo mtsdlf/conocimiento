@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El error de pronóstico es la diferencia entre lo que pasó y lo que se había pronosticado, y se resume con medidas como el sesgo, el MAE, el MAPE y el MASE. Cada medida castiga cosas distintas; se mide para elegir el método, para detectar un sesgo y para dimensionar el stock de seguridad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hyndman y Athanasopoulos, FPP3, «Evaluating point forecast accuracy»: https://otexts.com/fpp3/accuracy.html (según el resumen del lector, con citas literales)"
@@ -13,7 +13,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/planificacion.md (sección 3) y planificacion-2.md (sección 4)"
 aliases: [error de pronóstico, forecast error, exactitud del pronóstico, forecast accuracy, precisión del pronóstico, sesgo, bias, MAE, MAD, desvío absoluto medio, MAPE, MASE, WAPE, RMSE, señal de seguimiento, tracking signal, FVA, forecast value added, valor agregado del pronóstico]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Error de pronóstico

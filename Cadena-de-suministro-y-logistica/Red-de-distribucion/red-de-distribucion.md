@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La red de distribución es el conjunto de lugares por los que pasa la mercadería entre el proveedor y el cliente (plantas, depósitos, centros de distribución, comercios) y los caminos que la unen. Se diseña eligiendo dónde se guarda el stock y por dónde viaja, y se juzga por dos cosas: qué necesidades del cliente cubre y cuánto cuesta cubrirlas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Chopra, S., Designing the Distribution Network in a Supply Chain, Kellogg School of Management, Northwestern University (PDF de noviembre de 2002, texto del autor que antecede al capítulo 4 de Chopra y Meindl, Supply Chain Management; se leyó el artículo, no el libro), secciones 0 a 4: https://transportation.tech.northwestern.edu/docs/research/core-topics/logistics-and-supply-chain-management/Chopra_DistributionSupplyChain.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/red-de-distribucion-2.md (secciones 1 y 5)"
 aliases: [red de distribución, red logística, distribution network, supply chain network, diseño de la red de distribución, distribution network design, eslabones de la cadena, nodos, centro de distribución, CD, distribution center, DC, envío directo, drop shipping, drop ship, combinación en tránsito, in-transit merge, cross-docking, cross-dock, costo logístico total, total logistics cost, State of Logistics]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Red de distribución

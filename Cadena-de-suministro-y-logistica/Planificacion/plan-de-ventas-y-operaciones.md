@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El plan de ventas y operaciones (S&OP) es el proceso periódico, por lo general mensual, en que ventas, operaciones y finanzas acuerdan un único plan de demanda y de abastecimiento para los meses que vienen. Su salida es el plan agregado que después se baja al plan maestro de producción y al plan de distribución.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "CSCMP, Supply Chain Management Terms and Glossary (2013), entrada S&OP (copia no oficial): https://www.cisco-eagle.com/uploads/cscmp/cscmp-glossary.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/planificacion-2.md (sección 1), fundamentos-y-contraria-2.md (secciones 6.2 y 10) y fundamentos-y-contraria.md (sección 1)"
 aliases: [plan de ventas y operaciones, planificación de ventas y operaciones, S&OP, sales and operations planning, S&OP planning, planificación integrada del negocio, integrated business planning, IBP, plan agregado, aggregate planning, plan agregado de producción, reunión ejecutiva de S&OP, plan de consenso]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plan de ventas y operaciones

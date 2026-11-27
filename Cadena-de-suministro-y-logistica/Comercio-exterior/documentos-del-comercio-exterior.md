@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los documentos del comercio exterior son los papeles o registros electrónicos que acompañan una carga internacional y prueban qué se vendió, qué se embarcó, en qué condiciones viaja y de dónde viene. El más importante es el conocimiento de embarque marítimo, que además de recibo y prueba del contrato puede ser título de la mercadería.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wikipedia, Bill of lading (secundaria; funciones, tipos, sea waybill, eBL y la ley del Reino Unido; según el resumen): https://en.wikipedia.org/wiki/Bill_of_lading"
@@ -13,7 +13,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md (componente 3) y comercio-exterior-y-argentina-2.md (componente 3), 2026-11-27"
 aliases: [documentos del comercio exterior, documentación de embarque, shipping documents, trade documents, conocimiento de embarque, bill of lading, B/L, BL, conocimiento a la orden, order bill of lading, conocimiento nominativo, straight bill of lading, sea waybill, guía marítima no negociable, eBL, electronic bill of lading, MLETR, documento transmisible electrónico, electronic transferable record, factura comercial, commercial invoice, lista de empaque, packing list, certificado de origen, certificate of origin, guía aérea, AWB, air waybill, CRT, MIC/DTA]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Documentos del comercio exterior

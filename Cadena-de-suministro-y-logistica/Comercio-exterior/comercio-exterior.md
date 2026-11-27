@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Comercio exterior, en este tema, es lo que cambia en el movimiento de la mercadería cuando cruza una frontera: se suman actores, un reparto pactado de costos y riesgos entre comprador y vendedor (los Incoterms), documentos que viajan con la carga y un control de la aduana antes de que la mercadería se pueda usar o embarcar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OMA, Convenio de Kyoto revisado, página de presentación (entrada en vigor y principios): https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/conventions/pf_revised_kyoto_conv.aspx"
@@ -13,7 +13,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md (componente 1) y comercio-exterior-y-argentina-2.md (2026-11-27)"
 aliases: [comercio exterior, comercio internacional, foreign trade, international trade, importación, exportación, import, export, logística internacional, international logistics, operación de comercio exterior]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Comercio exterior

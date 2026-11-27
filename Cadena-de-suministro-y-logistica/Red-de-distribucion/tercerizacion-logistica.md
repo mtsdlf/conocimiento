@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La tercerización logística es contratar a otra empresa para que opere parte o toda la logística propia: el transporte, el depósito, la preparación o la gestión de la cadena. La empresa que presta esos servicios es el operador logístico, o 3PL; la que coordina a varios operadores en nombre del cliente es un 4PL.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "CSCMP, Supply Chain Management Terms and Glossary, actualizado en agosto de 2013, entradas «Third-Party Logistics (3PL)», «Third-Party Logistics Provider», «Fourth-Party Logistics (4PL)», «Lead Logistics Partner (LLP)» y «Drop Ship» (copia archivada el 22-may-2016; la URL original ya no entrega el PDF): https://arquivo.pt/wayback/20160522172303id_/http://cscmp.org/sites/default/files/user_uploads/resources/downloads/glossary-2013.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/red-de-distribucion-2.md (sección 4)"
 aliases: [tercerización logística, outsourcing logístico, logistics outsourcing, operador logístico, operador logístico tercerizado, 3PL, third-party logistics, third-party logistics provider, logística de terceros, 4PL, fourth-party logistics, integrador de la cadena, LLP, lead logistics partner, lead logistics provider, 2PL, 1PL, logística por contrato, contract logistics]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tercerización logística

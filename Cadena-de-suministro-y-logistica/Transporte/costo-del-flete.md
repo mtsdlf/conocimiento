@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El costo del flete es lo que el cargador paga por mover una carga. Se arma con una parte fija por envío o por parada y una variable por distancia, peso o unidad, más recargos, y su precio depende de cómo se contrató: por contrato, en el mercado spot o por licitación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Rodrigue y Notteboom, 3.2 Transport Costs, en Rodrigue, The Geography of Transport Systems (tarifa frente a costo, costo de servicio y valor de servicio, costos de terminal y de línea, recargos): https://transportgeography.org/contents/chapter3/transport-costs/"
@@ -20,7 +20,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/transporte.md (sección 3) y transporte-2.md (sección 3)"
 aliases: [costo del flete, flete, tarifa de flete, freight rate, freight cost, costo de transporte, transport cost, tarifa, rate, peso facturable, billable weight, chargeable weight, peso volumétrico, recargo, surcharge, recargo por combustible, fuel surcharge, flete por contrato, contract rate, flete spot, spot rate, licitación de fletes, transportation procurement, freight tender, subasta combinatoria, combinatorial auction, guía de ruteo, routing guide, auditoría de fletes, freight audit, liquidación de fletes, freight payment]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costo del flete

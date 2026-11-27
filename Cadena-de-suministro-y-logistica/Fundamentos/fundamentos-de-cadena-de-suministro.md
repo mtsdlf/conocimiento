@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Cadena de suministro y logística: de dónde viene el campo, los marcos que lo ordenan (el PCF de APQC y SCOR), las escuelas (empujar o tirar, cadena eficiente o que responde, eficiencia o resiliencia, DDMRP), la evidencia contra las ideas más repetidas y dónde se produce el saber.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ASCM, SCOR Digital Standard, introducción y texto previo (© 2020, «SCOR v13 Updates»), historia del modelo: https://www.ascm.org/globalassets/ascm_website_assets/docs/intro-and-front-matter-scor-digital-standard.pdf"
@@ -36,7 +36,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/fundamentos-y-contraria.md y fundamentos-y-contraria-2.md (2026-11-27)"
 aliases: [fundamentos de cadena de suministro, historia de la cadena de suministro, historia de la logística, empujar y tirar, push y pull, Fisher, cadena eficiente, cadena que responde, efficient supply chain, responsive supply chain, resiliencia de la cadena, cadena viable, DDMRP, mitos de la cadena de suministro, competencias M, M4, M5]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de cadena de suministro

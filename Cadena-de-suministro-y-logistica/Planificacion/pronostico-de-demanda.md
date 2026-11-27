@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El pronóstico de demanda es la estimación de cuánto van a pedir los clientes de cada artículo, en cada lugar y en cada período futuro. Se hace con métodos estadísticos sobre la historia, con juicio o con los dos, y siempre se compara contra un método simple de referencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hyndman y Athanasopoulos, Forecasting: Principles and Practice, 3.ª ed. (FPP3), «Simple forecasting methods»: https://otexts.com/fpp3/simple-methods.html (según el resumen del lector)"
@@ -21,7 +21,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/planificacion.md (sección 2), planificacion-2.md (sección 3) y fundamentos-y-contraria-2.md (secciones 5 y 10)"
 aliases: [pronóstico, pronóstico de demanda, previsión de demanda, demand forecast, forecasting, forecast, planificación de la demanda, demand planning, suavizado exponencial, exponential smoothing, ETS, método ingenuo, naive, Croston, SBA, demanda intermitente, intermittent demand, pronóstico jerárquico, hierarchical forecasting, reconciliación, MinT, ajuste por juicio, judgmental adjustment, Delphi, competencias M]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pronóstico de demanda

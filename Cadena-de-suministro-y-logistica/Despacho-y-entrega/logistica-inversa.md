@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La logística inversa es mover la mercadería desde su destino final de vuelta hacia atrás en la cadena, para recuperar valor o descartarla como corresponde: devoluciones de clientes, rechazos en la entrega, envases y pallets retornables, retiros del mercado. Empieza con una autorización de devolución y termina en una disposición, que decide si lo devuelto vuelve al stock, se repara, se desarma o se da de baja.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Reverse logistics (según el resumen; la definición la atribuye a la Reverse Logistics Association): https://en.wikipedia.org/wiki/Reverse_logistics"
@@ -18,7 +18,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/despacho-y-entrega-2.md (componente logistica-inversa)"
 aliases: [logística inversa, logística reversa, reverse logistics, devolución, devoluciones, returns, returns management, gestión de devoluciones, autorización de devolución, RMA, return merchandise authorization, RA, disposición, disposition, reacondicionado, refurbishment, retornables, envases retornables, pallets retornables, retiro del mercado, recall, reemplazo anticipado, cross-ship replacement]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Logística inversa

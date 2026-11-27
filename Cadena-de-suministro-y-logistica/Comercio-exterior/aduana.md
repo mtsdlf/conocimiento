@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La aduana es el organismo que controla lo que entra y sale de un territorio: recibe una declaración que dice qué es la mercadería, cuánto vale, de dónde viene y para qué entra o sale, decide con gestión de riesgo cuánto la revisa, y la libera. Para eso se apoya en una clasificación común, el Sistema Armonizado, y en reglas comunes de valoración.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OMA, Convenio de Kyoto revisado, página de presentación (entrada en vigor el 3 de febrero de 2006 y principios): https://www.wcoomd.org/en/topics/facilitation/instrument-and-tools/conventions/pf_revised_kyoto_conv.aspx"
@@ -12,7 +12,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md (componentes 1 y 4) y comercio-exterior-y-argentina-2.md, 2026-11-27"
 aliases: [aduana, customs, despacho aduanero, despacho de aduana, customs clearance, declaración aduanera, customs declaration, destinación aduanera, régimen aduanero, customs procedure, clasificación arancelaria, posición arancelaria, tariff classification, Sistema Armonizado, SA, Harmonized System, HS code, valoración aduanera, customs valuation, gestión de riesgo, selectividad, canal verde, canal rojo, ventanilla única, single window, operador económico autorizado, OEA, authorized operator, Convenio de Kyoto, OMA, WCO]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aduana

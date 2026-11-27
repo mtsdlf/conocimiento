@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que la Argentina le agrega a la cadena de suministro, sin lo fiscal: el Código Aduanero deja que cualquier persona importe o exporte sin inscribirse en un registro y gestione el despacho aduanero por sí misma o con un despachante, y distingue la importación para consumo de la temporaria. Las declaraciones se hacen en el Sistema Informático MALVINA, la importación para consumo se anticipa en el SEDI, el courier tiene un tope de valor por envío y el transportista de cargas se inscribe en el RUTA. El remito y el COT del traslado interno están en Inventario.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Código Aduanero (Ley 22.415), índice, en InfoLeg: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16536/texact.htm"
@@ -24,7 +24,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md y comercio-exterior-y-argentina-2.md (componente B), argentina-3.md y cotejo-pendientes.md, 2026-11-27"
 aliases: [cadena de suministro en Argentina, logística en Argentina, comercio exterior en Argentina, Código Aduanero, Ley 22.415, despachante de aduana, agente de transporte aduanero, importador, exportador, registro de importadores y exportadores, DNU 70/2023, importación para consumo, importación temporaria, ARCA aduana, Dirección General de Aduanas, courier, envíos internacionales, transporte de cargas, Ley 24.653, RUTA, carta de porte]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cadena de suministro y logística en la Argentina

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La prueba de entrega es la constancia de que la mercadería llegó a su destinatario: quién la recibió, cuándo, y si la recibió conforme o con observaciones. Cierra el despacho, abre el reclamo cuando llegó menos, dañado o tarde, y en el transporte por carretera entre países del CMR fija plazos cortos para dejar las reservas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Proof of delivery (según el resumen): https://en.wikipedia.org/wiki/Proof_of_delivery"
@@ -16,7 +16,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/despacho-y-entrega-2.md (componente prueba-de-entrega)"
 aliases: [prueba de entrega, POD, proof of delivery, prueba de entrega electrónica, ePOD, conformidad, remito conformado, entrega conformada, firma de conformidad, recibí conforme, entrega fallida, failed delivery, diferencia en destino, faltante, daño en tránsito, reservas al recibir, reserva del destinatario, CMR, carta de porte, consignment note, e-CMR]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Prueba de entrega

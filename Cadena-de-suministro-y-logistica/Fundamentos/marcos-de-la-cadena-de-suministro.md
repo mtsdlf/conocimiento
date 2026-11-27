@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dos marcos se usan para cortar la cadena de suministro en procesos: el Process Classification Framework (PCF) de APQC y SCOR, de ASCM. Ninguno corta como esta base, así que cada proceso del PCF y de SCOR se reparte entre este tema y sus vecinos; SCOR agrega cinco atributos de desempeño con sus métricas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, Cross Industry, versión 7.4 (2024), categoría 4.0, procesos 4.1 y 4.4: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/fundamentos-y-contraria.md y fundamentos-y-contraria-2.md (2026-11-27)"
 aliases: [marcos de la cadena de suministro, marcos de procesos de la cadena, SCOR, SCOR DS, SCOR Digital Standard, Supply Chain Operations Reference, APQC, PCF, Process Classification Framework, atributos de desempeño de SCOR, Plan Source Make Deliver Return Enable]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Marcos de la cadena de suministro

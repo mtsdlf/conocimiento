@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La planificación de la distribución (DRP) calcula, período por período, cuánto tiene que recibir cada depósito y cuándo hay que mandárselo, restando del pronóstico lo que hay y lo que ya viene. Los pedidos planificados de cada depósito se suman como necesidades del depósito que lo abastece, y así hasta la fábrica o el proveedor.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gershwin, S. B., Material Requirements Planning, diapositivas de MIT 2.853/2.854 (MIT OCW, otoño de 2016), diapositivas 3, 6, 10 a 14, 19, 23, 25 a 27, 31 a 34: https://ocw.mit.edu/courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52d64f4ea1bed6d9905bc00_MIT2_854F16_MatrialRequire.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/planificacion-3.md, planificacion.md (sección 5), planificacion-2.md (sección 2) y fundamentos-y-contraria-2.md (secciones 2.1 y 10)"
 aliases: [planificación de la distribución, planificación de requerimientos de distribución, distribution requirements planning, distribution resource planning, DRP, DRP II, plan de distribución, necesidades brutas, gross requirements, necesidades netas, net requirements, stock proyectado, projected on-hand, pedido planificado, planned order, recepción programada, scheduled receipt, neteo, netting, despliegue, deployment]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificación de la distribución

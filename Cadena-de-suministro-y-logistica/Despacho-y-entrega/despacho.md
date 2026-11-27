@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El despacho es el documento que registra lo que sale hacia un destinatario: qué pedidos y bultos junta, con qué transportista y en qué viaje, y por qué estados pasa hasta la entrega. Lo acompañan una identificación por bulto (el SSCC de GS1, en la etiqueta logística) y, entre empresas, un aviso de despacho anticipado que le dice al destinatario qué le va a llegar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "GS1 General Specifications Standard, Release 26.0, ratificada, enero de 2026, secciones 1.3.5, 2.2.1, 3.3.1, 4.3.1 y 6.6: https://ref.gs1.org/standards/genspecs/"
@@ -18,7 +18,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/despacho-y-entrega-2.md (componente despacho)"
 aliases: [despacho, documento de despacho, nota de entrega, delivery note, orden de entrega, envío, shipment, expedición, viaje de entrega, hoja de ruta, delivery trip, aviso de despacho, aviso de despacho anticipado, aviso anticipado de envío, ASN, advance ship notice, DESADV, despatch advice, EDI 856, ship notice/manifest, SSCC, serial shipping container code, etiqueta logística, GS1 logistic label, unidad logística, logistic unit, GS1-128, seguimiento, tracking, número de guía]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Despacho

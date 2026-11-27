@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Transporte es cómo se mueve la carga entre dos lugares, mirado desde el cargador, la empresa que la manda: en qué modo viaja, con qué transportista y bajo qué relación, cuánto paga y cómo junta cargas y arma recorridos. Su costo no es solo la tarifa, porque el plazo y el tamaño de cada envío cambian el stock que hay que tener.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Caplice, C. (MIT), Transportation Management: Fundamental Concepts, ESD.260, noviembre de 2006 (lect20; tres capas de red, componentes de la red operativa, ejemplo de Shenzhen a Kansas City, costo total con transporte, cadena de tiempos de 56 días): https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/06ab054739b3882c4bda862570c7266b_lect20.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/transporte.md (secciones 1 y 6) y transporte-2.md (secciones 1 y 6)"
 aliases: [transporte, transporte de cargas, freight transportation, transportation management, gestión del transporte, cargador, dador de carga, shipper, transportista, carrier, consignatario, consignee, agente de carga, freight forwarder, economía de escala del transporte, economía de distancia, economía de densidad, economía de alcance, transportista directo, transportista consolidado, flota propia, private fleet, flota dedicada, dedicated fleet, transportista núcleo, core carrier, mercado spot]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Transporte

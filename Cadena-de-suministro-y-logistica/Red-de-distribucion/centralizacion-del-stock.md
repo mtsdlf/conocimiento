@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Centralizar el stock es atender desde menos lugares la demanda que antes se atendía desde muchos, para que las variaciones de cada zona se compensen entre sí y haga falta menos stock de seguridad con el mismo nivel de servicio del stock. La ley de la raíz cuadrada estima ese ahorro, pero solo vale bajo supuestos que la mayoría de las empresas no cumplen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Caplice, C. (MIT CTL), Transportation Management: Network & Hubs, ESD.260 Logistics Systems, archivo lect25, diciembre de 2006, diapositivas 28 a 33 («Location Pooling» y «Lead Time Pooling», esta última adaptada de Cachon y Terwiesch, 2005): https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/421e474d22fae64f415aea445a34a254_lect25.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/red-de-distribucion-2.md (sección 3) y fundamentos-y-contraria-2.md (sección 7)"
 aliases: [centralización del stock, centralización de inventarios, agrupar el riesgo, agrupación del riesgo, risk pooling, inventory pooling, location pooling, agrupación por ubicación, lead time pooling, ley de la raíz cuadrada, square root law, SRL, stock centralizado, stock descentralizado]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Centralización del stock

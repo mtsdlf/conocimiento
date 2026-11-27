@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos del tema Cadena de suministro y logística, agrupados por vertical, cada uno con su nombre en inglés, una definición corta y la nota donde vive.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "CSCMP, Supply Chain Management Terms and Glossary, actualizado en agosto de 2013 (copia no oficial; el CSCMP no endosa las definiciones que no marca como oficiales): https://www.cisco-eagle.com/uploads/cscmp/cscmp-glossary.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/fundamentos-y-contraria-2.md, sección 10 (2026-11-27)"
 aliases: [glosario de cadena de suministro, glosario de logística, supply chain glossary, logistics glossary, términos de logística, siglas de logística]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de cadena de suministro

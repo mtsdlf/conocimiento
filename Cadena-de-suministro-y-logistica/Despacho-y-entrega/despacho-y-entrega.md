@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Despacho y entrega es el tramo que va desde que el bulto preparado sale por la puerta del depósito hasta que llega a manos del destinatario, y el camino de vuelta de lo que se devuelve. Se despacha (se documenta y se carga lo que sale), se viaja y se entrega (el destinatario recibe y conforma), y cada paso deja un documento con estado propio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.1.5 «Plan distribution requirements» (4.1.5.8 y 4.1.5.9), 4.4.1, 4.4.2.4, 4.4.2.5, 4.4.3.4 «Pick, pack, and ship product for delivery» y 4.4.4 «Operate outbound transportation» (4.4.4.1 a 4.4.4.4): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/despacho-y-entrega-2.md (despacho, estados de la entrega y discrepancias)"
 aliases: [despacho y entrega, despacho, entrega, distribución física, expedición, salida de mercadería, outbound, outbound logistics, logística de salida, delivery, shipping, última milla]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Despacho y entrega

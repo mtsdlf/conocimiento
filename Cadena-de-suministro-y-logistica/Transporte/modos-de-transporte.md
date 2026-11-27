@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los modos de transporte son las formas físicas de mover la carga: por tierra (camión, ferrocarril, ducto), por agua y por aire. Se distinguen por costo, velocidad, capacidad y confiabilidad, y se combinan en una cadena intermodal en la que el contenedor viaja como unidad de carga sin abrirse.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Caplice, C. (MIT), Transportation Management: Fundamental Concepts, ESD.260, noviembre de 2006 (lect20; Mode Comparison Matrix, infraestructura, contenedores y pallets, TOFC y COFC, caso de los zapatos): https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/06ab054739b3882c4bda862570c7266b_lect20.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/transporte.md (sección 2) y transporte-2.md (sección 2)"
 aliases: [modos de transporte, modo de transporte, transportation modes, transporte carretero, autotransporte, camión, ferrocarril, transporte ferroviario, transporte marítimo, transporte fluvial, transporte aéreo, ducto, pipeline, carga completa, FTL, TL, full truckload, carga consolidada, LTL, less than truckload, intermodal, multimodal, contenedor, container, TEU, FEU, high cube, granel, bulk, carga fraccionada, break-bulk, servicio regular, liner, tramp, TOFC, COFC, pallet, europalet, tramo, segmento de ruta]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modos de transporte

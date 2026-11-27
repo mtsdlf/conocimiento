@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Consolidar es decidir qué cargas viajan juntas y cuándo sale el vehículo; rutear es decidir en qué orden visita las paradas. Las dos bajan el costo del flete repartiendo el costo fijo de cada viaje, y el ruteo es un problema de optimización que se resuelve con heurísticas desde 1959.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Caplice, C. (MIT), Transportation Management: Operational Networks, ESD.260, noviembre de 2006 (lect21, diapositivas 4, 9, 15, 16, 26 y 27: componentes, formas de consolidación, estructuras de red, estimación de distancias): https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/3a09fc7ee1175120b31399b1ce06b175_lect21.pdf"
@@ -20,7 +20,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/transporte.md (sección 4) y transporte-2.md (sección 4)"
 aliases: [consolidación, consolidación de cargas, shipment consolidation, freight consolidation, consolidación temporal, consolidación espacial, ruteo, ruteo de vehículos, enrutamiento, vehicle routing, VRP, problema de ruteo de vehículos, vehicle routing problem, truck dispatching problem, viajante, TSP, algoritmo de ahorros, savings algorithm, Clarke y Wright, hoja de ruta, recorrido de reparto, milk run, recorrido de lechero, viaje de entrega, delivery trip, llenado del vehículo, planificación de cargas, load planning, cubicaje, bin packing, container loading]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Consolidación y ruteo

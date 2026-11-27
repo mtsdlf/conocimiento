@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El nivel de servicio logístico mide si las entregas llegaron como se prometieron: a tiempo y completas (OTIF), y además sin daño y con la documentación y la factura correctas (pedido perfecto). Sus definiciones cambian según quién las fija, así que cada indicador tiene que decir contra qué fecha, con qué tolerancia y por pedido o por línea se calcula.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.4.1.4 «Develop and maintain delivery service policy», 4.4.1.6 «Define key performance measures» y 4.4.4.2 «Track carrier delivery performance»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/despacho-y-entrega-2.md (componente nivel-de-servicio-logistico)"
 aliases: [nivel de servicio logístico, nivel de servicio de la entrega, servicio al cliente logístico, OTIF, on time in full, a tiempo y completo, entregas a tiempo, on-time delivery, pedido perfecto, perfect order, perfect order fulfillment, perfect order performance, RL.1.1, tasa de llenado, fill rate, tasa de cumplimiento, entregas completas, tiempo de ciclo del pedido, order fulfillment cycle time]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Nivel de servicio logístico
