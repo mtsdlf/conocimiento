@@ -14,9 +14,14 @@ fuentes:
   - "RG Conjunta AFIP-SC 5466/2023 (SEDI), texto original: https://www.argentina.gob.ar/normativa/nacional/norma-395637/texto"
   - "RG ARCA 5608/2024 (courier), texto, Anexos I y II: https://www.argentina.gob.ar/normativa/nacional/norma-406708/texto"
   - "ARCA, novedad «Régimen de Courier», publicada el 06/10/2026: https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=5939"
+  - "RG ARCA 5883/2026 (courier), B.O. 29/7/2026: https://www.boletinoficial.gob.ar/detalleAviso/primera/345090/20260729"
+  - "ARCA, novedad sobre la RG 5883/2026: https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=5828"
+  - "Decreto 604/2026 (envíos postales), B.O. 17/7/2026: https://www.boletinoficial.gob.ar/detalleAviso/primera/344470/20260717"
+  - "RG AFIP 743/1999, Anexo II (canales de selectividad), texto vigente: https://biblioteca.afip.gob.ar/dcp/REAG01000743_1999_12_09"
+  - "Resolución MECON 154/2024, considerandos (canales): https://www.argentina.gob.ar/normativa/nacional/norma-397880/texto"
   - "Decreto 832/2024 (reglamentación de la Ley 24.653, RUTA), texto: https://www.argentina.gob.ar/normativa/nacional/norma-404099/texto"
   - "Inventario-y-depositos/inventario-y-depositos-en-argentina.md (remito y COT)"
-  - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md (componente B) y comercio-exterior-y-argentina-2.md (componente B) y argentina-3.md, 2026-11-27"
+  - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md y comercio-exterior-y-argentina-2.md (componente B), argentina-3.md y cotejo-pendientes.md, 2026-11-27"
 aliases: [cadena de suministro en Argentina, logística en Argentina, comercio exterior en Argentina, Código Aduanero, Ley 22.415, despachante de aduana, agente de transporte aduanero, importador, exportador, registro de importadores y exportadores, DNU 70/2023, importación para consumo, importación temporaria, ARCA aduana, Dirección General de Aduanas, courier, envíos internacionales, transporte de cargas, Ley 24.653, RUTA, carta de porte]
 creado: 2026-11-27
 revisado:
@@ -76,7 +81,21 @@ Antes de importar para consumo, el importador anticipa la operación en el Siste
 
 Para un sistema, eso quiere decir que la operación de importación tiene un paso previo con su propio número y estado, anterior a la destinación (lectura de la base).
 
-> [!NOTE] Sin fuente todavía: el texto consolidado de la RGC 5466/2023 a noviembre de 2026 (se leyó el original), y cómo es la selectividad en la Argentina, con sus canales y criterios, que el código no nombra. Hay una sola fuente por punto: la norma misma.
+> [!NOTE] Sin fuente todavía: el texto consolidado de la RGC 5466/2023 a noviembre de 2026 (se leyó el original). Hay una sola fuente: la norma misma.
+
+## Los canales de selectividad
+
+Cada destinación recibe un canal que decide cuánto se controla antes de liberar la mercadería. La RG AFIP 743/1999, que la biblioteca de ARCA muestra como vigente, describe tres en su Anexo II:
+
+| Canal | Qué se controla | Texto de la RG 743 |
+|---|---|---|
+| Verde | nada más: se libera | «la entrega del legajo al declarante, sin más trámite» (2.4) |
+| Naranja | los documentos; si aparecen diferencias que piden ver la mercadería, pasa a rojo | el verificador «Efectuará los controles que determinan las normas en vigencia» (2.1) |
+| Rojo | los documentos y la mercadería | «Posteriormente, realizará el control físico de la mercadería (especie, calidad y cantidad)» (2.2) |
+
+Una resolución del Ministerio de Economía de 2024 (Res. 154/2024, en sus considerandos) confirma los tres canales y describe el rojo como «el control documental, la verificación física y el análisis del valor» con posterioridad al libramiento. El texto original de la RG 743 nombraba además un canal morado, que seguía «los lineamientos generales del CANAL ROJO»; el texto vigente no lo describe. Cómo se asigna el canal (los criterios de riesgo) no se leyó.
+
+Para un sistema, el canal es un dato de la destinación que cambia el plazo hasta tener la mercadería: un canal rojo agrega la verificación física (lectura de la base).
 
 ## Envíos internacionales chicos
 
@@ -84,9 +103,11 @@ ARCA nombra en su página de envíos internacionales varios regímenes: «Envío
 
 La RG ARCA 5608/2024, publicada el 2 de diciembre de 2024, fija los topes del courier en su Anexo I. Las encomiendas no pueden superar «CINCUENTA KILOGRAMOS (50 kg)». En la importación, «el valor FOB de dichas mercaderías no puede exceder los DÓLARES ESTADOUNIDENSES TRES MIL (U$S 3.000.-)» por envío; en la exportación, el mismo tope por remitente. Los pequeños envíos (Anexo II) admiten «hasta TRES (3) unidades de la misma especie» y un uso de «CINCO (5) veces por año calendario y por persona».
 
-ARCA lo repite en una novedad publicada el 6 de octubre de 2026, con una redacción distinta («USD 3000 por cada vuelo»); confirma los 50 kilos, las tres unidades y que las gestiones las hace la empresa de envíos. Son dos textos del mismo organismo, no dos fuentes independientes. Según la prensa de 2026 (solo el resumen del buscador), un decreto de ese año reformó el régimen de envíos y una RG de ARCA eliminó el tope para la exportación por courier y lo dejó para la importación.
+En 2026 el régimen cambió dos veces. La RG ARCA 5883/2026, publicada el 29 de julio de 2026 y vigente desde el día siguiente, sustituyó el punto de la exportación: «Para el caso de exportación, los envíos no estarán sujetos a restricciones de valor.» Según la novedad de ARCA sobre esa resolución, para la importación «mantiene el tope de hasta u$s 3.000 por envío», con 50 kilos por paquete y cinco envíos por año y persona; el texto leído de la resolución no repite ese tope, que sigue en el punto de la RG 5608 que no se tocó. Una novedad de ARCA del 6 de octubre de 2026 lo resume con otra redacción («USD 3000 por cada vuelo»).
 
-> [!WARNING] El régimen de courier cambió en 2026 y las normas nuevas no se leyeron. Antes de fijar un tope en un sistema, se lee el texto vigente en el Boletín Oficial. Lo que se paga dentro de la franquicia y por encima es fiscal y va a Impuestos.
+El Decreto 604/2026, publicado el 17 de julio de 2026 y vigente ese día, cambió el régimen de envíos postales por el correo oficial. Su art. 1 dice que «las exportaciones con finalidad comercial realizadas por vía postal no estarán sujetas a límites de valor», y su art. 2 fija una franquicia por envío de hasta USD 400, «hasta un máximo de CINCO (5) envíos por año y por persona». La franquicia y lo que se paga por encima son fiscales y van a Impuestos.
+
+> [!WARNING] El Anexo II nuevo de la RG 5883/2026 (pequeños envíos) no se leyó, y ARCA anunció normas complementarias del Decreto 604/2026. Antes de fijar un tope en un sistema, se lee el texto vigente en el Boletín Oficial. Para el tope de importación hay una sola fuente: el organismo que lo fija.
 
 El envío local de una tienda online, con sus transportistas y precios, está en [envíos en la Argentina](../Comercio-electronico/Operaciones-del-comercio/Envios-y-logistica/envios-en-argentina.md), de Comercio electrónico.
 
@@ -111,7 +132,7 @@ Sobre lo que tiene fuente, y como criterio de la base:
 5. Emitir remito y, donde corresponda, pedir el COT en los traslados internos, como dice [la nota de Inventario](../Inventario-y-depositos/inventario-y-depositos-en-argentina.md#lo-que-un-sistema-tiene-que-poder-hacer).
 6. Registrar la declaración anticipada (SEDI) de cada importación para consumo, con su número y su estado, antes de la destinación.
 7. Guardar, para el transportista propio o contratado, su inscripción en el RUTA.
-8. Dejar como parámetros, no como reglas fijas en el código, los topes del courier y todo lo que esta nota no pudo verificar, como los canales de selectividad.
+8. Dejar como parámetros, no como reglas fijas en el código, los topes del courier y el canal de selectividad de cada destinación, que llega de la aduana.
 
 ## Dónde leer el texto
 

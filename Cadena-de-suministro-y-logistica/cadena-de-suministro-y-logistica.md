@@ -36,7 +36,7 @@ flowchart LR
   D -->|lo entregado y lo devuelto alimenta| P
 ```
 
-- [Planificación](Planificacion/planificacion.md): cuánto se va a vender y cuánto hace falta en cada período. El pronóstico de la demanda y cómo se mide su error, el plan de ventas y operaciones (S&OP) que acuerdan las áreas (en el único caso leído, una vez por mes), la planificación de la distribución (DRP) que reparte entre depósitos, y el efecto látigo, que amplifica la demanda a medida que sube por la cadena.
+- [Planificación](Planificacion/planificacion.md): cuánto se va a vender y cuánto hace falta en cada período. El pronóstico de la demanda y cómo se mide su error, el plan de ventas y operaciones (S&OP) que acuerdan las áreas, por lo general una vez por mes, la planificación de la distribución (DRP) que reparte entre depósitos, y el efecto látigo, que amplifica la demanda a medida que sube por la cadena.
 - [Red de distribución](Red-de-distribucion/red-de-distribucion.md): dónde están los lugares y cómo fluye la mercadería entre ellos. Cuántos depósitos tener y dónde, qué stock se ahorra al centralizar, y qué se gana y qué se pierde al tercerizar en un operador logístico.
 - [Transporte](Transporte/transporte.md): cómo se mueve la carga, mirado desde quien la manda. Los modos (camión, tren, barco, avión), carga completa o consolidada, de qué se arma el costo del flete y cómo se juntan cargas y se arman recorridos.
 - [Despacho y entrega](Despacho-y-entrega/despacho-y-entrega.md): de la puerta de salida a las manos del destinatario, y de vuelta. El documento del despacho y sus estados, la prueba de entrega, cómo se mide si se entregó a tiempo y completo, y la logística inversa.

@@ -1,11 +1,13 @@
 ---
 resumen: >-
-  El plan de ventas y operaciones (S&OP) es el proceso periódico (mensual en el único caso leído) en que ventas, operaciones y finanzas acuerdan un único plan de demanda y de abastecimiento para los meses que vienen. Su salida es el plan agregado que después se baja al plan maestro de producción y al plan de distribución.
+  El plan de ventas y operaciones (S&OP) es el proceso periódico, por lo general mensual, en que ventas, operaciones y finanzas acuerdan un único plan de demanda y de abastecimiento para los meses que vienen. Su salida es el plan agregado que después se baja al plan maestro de producción y al plan de distribución.
 estado: borrador
 estabilidad: semi
 fuentes:
   - "CSCMP, Supply Chain Management Terms and Glossary (2013), entrada S&OP (copia no oficial): https://www.cisco-eagle.com/uploads/cscmp/cscmp-glossary.pdf"
-  - "Seeling, Kreuter, Scavarda, Thomé y Hellingrath (2021), Global sales and operations planning: A multinational manufacturing company perspective, PLoS ONE 16(9): e0257572: https://pmc.ncbi.nlm.nih.gov/articles/PMC8454961 (según el resumen del lector; no leído entero)"
+  - "Wallace y Stahl (2006), Sales and Operations Planning: The Executive's Guide, y Lapide (2005), J. Bus. Forecast. 24(1): 13-15, citados por Seeling y otros (2021); no leídos"
+  - "Cadena-de-suministro-y-logistica/.investigacion/cotejo-pendientes.md (punto 6), 2026-11-27"
+  - "Seeling, Kreuter, Scavarda, Thomé y Hellingrath (2021), Global sales and operations planning: A multinational manufacturing company perspective, PLoS ONE 16(9): e0257572: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257572 (marco teórico y caso leídos)"
   - "Wikipedia, Sales and operations planning (secundaria): https://en.wikipedia.org/wiki/Sales_and_operations_planning"
   - "Thomé, Scavarda, Fernandez y Scavarda (2012), Sales and operations planning: A research synthesis, International Journal of Production Economics 138(1):1-13, abstract: https://ideas.repec.org/a/eee/proeco/v138y2012i1p1-13.html (según el resumen)"
   - "Tavares Thomé, Scavarda, Fernandez y Scavarda (2012), Sales and operations planning and the firm performance, IJPPM 61(4):359-381, abstract: https://doi.org/10.1108/17410401211212643 (según el resumen)"
@@ -22,7 +24,7 @@ revisado:
 
 # Plan de ventas y operaciones
 
-El plan de ventas y operaciones (S&OP) es el proceso periódico (mensual en el único caso leído) en que ventas, operaciones y finanzas acuerdan un único plan de demanda y de abastecimiento para los meses que vienen. Su salida es el plan agregado que después se baja al plan maestro de producción y al plan de distribución.
+El plan de ventas y operaciones (S&OP) es el proceso periódico, por lo general mensual, en que ventas, operaciones y finanzas acuerdan un único plan de demanda y de abastecimiento para los meses que vienen. Su salida es el plan agregado que después se baja al plan maestro de producción y al plan de distribución.
 
 El glosario del CSCMP lo define como «A strategic planning process that reconciles conflicting business objectives and plans future supply chain actions», en el que distintas áreas, «such as sales, operations and finance», acuerdan «a single plan/forecast that can be used to drive the entire business». Es el nivel de arriba de la jerarquía de [Planificación](planificacion.md): toma el [pronóstico de demanda](pronostico-de-demanda.md) y lo convierte en un compromiso.
 
@@ -30,11 +32,11 @@ El glosario del CSCMP lo define como «A strategic planning process that reconci
 
 El S&OP viene de los cuerpos de certificación y de la consultoría, no de los marcos de procesos. APQC 7.4 no tiene un proceso con ese nombre: lo más cercano es 4.1.2.3, «Develop demand consensus forecast».
 
-> [!NOTE] Sin fuente todavía: el ciclo de S&OP en un texto de referencia (Wallace, *Sales & Operations Planning: The How-To Handbook*, o Oliver Wight). Lo que sigue sale de un solo estudio de caso.
+> [!NOTE] Sin fuente todavía: el ciclo de S&OP leído en un texto de referencia (Wallace y Stahl, Lapide u Oliver Wight). Lo que sigue sale de un artículo que revisa la literatura y estudia un caso; no es una segunda fuente independiente.
 
 ## El ciclo mensual en cinco pasos
 
-La única fuente leída que describe el ciclo paso a paso es un estudio de caso de una multinacional manufacturera, publicado en PLoS ONE en 2021 (Seeling y otros). Ese artículo atribuye los cinco pasos a Wallace y a Stahl: «data gathering, demand planning, supply planning, pre-meeting, and executive meeting». Así corren en la empresa del caso, que lo hace «usually once a month»:
+La fuente leída que describe el ciclo paso a paso es un artículo de PLoS ONE de 2021 (Seeling y otros) que revisa la literatura y estudia una multinacional manufacturera. Según su revisión, el S&OP es un proceso «usually performed in a monthly planning cycle embracing the following five steps»: «data gathering, demand planning, supply planning, pre-meeting, and executive meeting». Atribuye los pasos a Wallace y Stahl (*Sales and Operations Planning: The Executive's Guide*, 2006) y dice que «are observed in a majority of S&OP studies». La frecuencia («is conducted periodically, usually once a month») la apoya en Lapide (2005) y en Thomé y otros (2012). Esos textos no se leyeron. Así corren los pasos en la empresa del caso:
 
 | Paso | Cuándo, en el caso | Quién | Qué sale |
 |---|---|---|---|

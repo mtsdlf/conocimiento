@@ -68,7 +68,9 @@ La temporaria admite que la mercadería vuelva a salir en el mismo estado o tran
 
 La aduana no revisa todo: aplica gestión de riesgo, como pide el Acuerdo sobre Facilitación del Comercio. Cada declaración recibe un nivel de control, que puede ir desde liberarla sin revisar hasta revisar los papeles o abrir la carga (lectura de la base).
 
-> [!NOTE] Sin fuente todavía: la selectividad por canales (cuántos hay, sus nombres o colores y sus criterios), que fija cada aduana.
+Cuántos canales hay y cómo se llaman lo fija cada aduana. Un ejemplo con su norma, el de la Argentina (verde, naranja y rojo), está en [los canales de selectividad](../cadena-de-suministro-y-logistica-en-argentina.md#los-canales-de-selectividad).
+
+> [!NOTE] Sin fuente todavía: los criterios con que una aduana asigna el canal.
 
 Para la planificación, la consecuencia es que el plazo de la aduana no es fijo: depende de qué nivel de control le toque a cada declaración (lectura de la base). Eso alarga y hace variable el plazo de reposición de lo importado, como explica [comercio exterior](comercio-exterior.md#por-qué-pesa-el-plazo-largo).
 

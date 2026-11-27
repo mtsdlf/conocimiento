@@ -8,6 +8,8 @@ fuentes:
   - "Wikipedia, UNCITRAL Model Law on Electronic Transferable Records (secundaria; arts. 8 a 11 y jurisdicciones que la adoptaron; según el resumen): https://en.wikipedia.org/wiki/UNCITRAL_Model_Law_on_Electronic_Transferable_Records"
   - "UNCITRAL, Model Law on Electronic Transferable Records (no se pudo leer, error 403; es el texto que manda): https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records"
   - "International Trade Administration (EE. UU.), Know Your Incoterms (las reglas no dicen qué documentos aporta el vendedor; según el resumen): https://www.trade.gov/know-your-incoterms"
+  - "International Trade Administration (EE. UU.), Common Export Documents: https://www.trade.gov/common-export-documents"
+  - "Cadena-de-suministro-y-logistica/.investigacion/cotejo-pendientes.md (punto 7), 2026-11-27"
   - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md (componente 3) y comercio-exterior-y-argentina-2.md (componente 3), 2026-11-27"
 aliases: [documentos del comercio exterior, documentación de embarque, shipping documents, trade documents, conocimiento de embarque, bill of lading, B/L, BL, conocimiento a la orden, order bill of lading, conocimiento nominativo, straight bill of lading, sea waybill, guía marítima no negociable, eBL, electronic bill of lading, MLETR, documento transmisible electrónico, electronic transferable record, factura comercial, commercial invoice, lista de empaque, packing list, certificado de origen, certificate of origin, guía aérea, AWB, air waybill, CRT, MIC/DTA]
 creado: 2026-11-27
@@ -22,11 +24,19 @@ Viajan con cada operación de [comercio exterior](comercio-exterior.md) y, a jui
 
 ## Los papeles que acompañan una carga
 
-En la práctica se nombran la factura comercial, la lista de empaque, el documento de transporte, el certificado de origen y la póliza o certificado de seguro, y en algunos rubros certificados sanitarios o fitosanitarios. Esa lista es de la base: ninguna fuente leída la da ni define cada documento.
+La guía de documentos de exportación de la International Trade Administration de EE. UU. (ITA) define los más comunes:
 
-El documento de transporte cambia con el [modo](../Transporte/modos-de-transporte.md). En el barco es el conocimiento de embarque, el único con fuente leída y el que se desarrolla abajo. Para el avión se nombra la guía aérea, y para la carretera en el Mercosur, la carta de porte internacional (CRT) y el manifiesto con declaración de tránsito (MIC/DTA), sin fuente leída sobre ninguno.
+| Documento | Qué es, según la ITA | Quién lo usa |
+|---|---|---|
+| Factura comercial | «a legal document between the exporter and the buyer», que indica «the goods being sold and the amount the customer is to pay» | la aduana: es «one of the main documents used by customs in determining customs duties» |
+| Lista de empaque | una lista «Considerably more detailed and informative than a standard domestic packing list» | las aduanas «may use the packing list to check the cargo»; «It is not a substitute for a commercial invoice» |
+| Certificado de origen | «A signed statement as to the origin of the export item» | la aduana de los países que lo piden («Required by some countries») y los acuerdos comerciales que dan beneficios por origen; suele validarlo «a semiofficial organization, such as a local chamber of commerce» |
+| Conocimiento de embarque | «a contract between the owner of the goods and the carrier» | el comprador, que suele necesitar el original para retirar la carga; se desarrolla abajo |
+| Guía aérea | «accompanies goods shipped by an international air carrier» | el transportista y el seguimiento; «Air waybills are shipper-specific and are not negotiable documents» |
 
-> [!NOTE] Sin fuente todavía: qué es y qué datos lleva la factura comercial, la lista de empaque y el certificado de origen; la guía aérea y si es o no título de la mercadería; la CRT y el MIC/DTA del Acuerdo de Transporte Internacional Terrestre del Mercosur; los certificados sanitarios y fitosanitarios.
+Se suman la póliza o certificado de seguro y, en algunos rubros, certificados sanitarios o fitosanitarios, que la guía leída no define. El documento de transporte cambia con el [modo](../Transporte/modos-de-transporte.md): en el barco es el conocimiento de embarque; en el avión, la guía aérea, que por lo citado no es negociable ni sirve como título; en la carretera del Mercosur se nombran la carta de porte internacional (CRT) y el manifiesto con declaración de tránsito (MIC/DTA), sin fuente leída sobre ninguno.
+
+> [!NOTE] Sin fuente todavía: qué datos exige cada país en la factura comercial y el certificado de origen; la CRT y el MIC/DTA del Acuerdo de Transporte Internacional Terrestre del Mercosur; los certificados sanitarios y fitosanitarios.
 
 ## Las tres funciones del conocimiento de embarque
 

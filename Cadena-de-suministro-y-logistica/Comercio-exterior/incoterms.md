@@ -5,10 +5,10 @@ estado: borrador
 estabilidad: estable
 fuentes:
   - "ICC, Incoterms rules (primera edición en 1936, vigencia de 2020, once reglas, reconocimiento de UNCITRAL): https://iccwbo.org/business-solutions/incoterms-rules/"
-  - "ICC, Incoterms 2020 (DPU en lugar de DAT, descarga en DAP, cláusulas del seguro en CIF y CIP; según el resumen): https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/"
-  - "International Trade Administration (EE. UU.), Know Your Incoterms (los dos grupos, qué fija cada regla y qué no regulan; según el resumen): https://www.trade.gov/know-your-incoterms"
+  - "ICC, Incoterms 2020 (DPU en lugar de DAT, descarga en DAP, cláusulas del seguro en CIF y CIP, FCA con conocimiento a bordo, CIF para el comercio marítimo): https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/"
+  - "International Trade Administration (EE. UU.), Know Your Incoterms (los dos grupos, qué fija cada regla y qué no regulan): https://www.trade.gov/know-your-incoterms"
   - "Wikipedia, Incoterms (secundaria; punto de paso del riesgo por regla y el 110 % del seguro; según el resumen): https://en.wikipedia.org/wiki/Incoterms"
-  - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md (componente 2) y comercio-exterior-y-argentina-2.md (componente 2), 2026-11-27"
+  - "Cadena-de-suministro-y-logistica/.investigacion/comercio-exterior-y-argentina.md (componente 2) y comercio-exterior-y-argentina-2.md (componente 2) y cotejo-pendientes.md (punto 4), 2026-11-27"
 aliases: [Incoterms, Incoterm, Incoterms 2020, International Commercial Terms, términos de comercio internacional, condiciones de entrega, condición de venta, EXW, FCA, CPT, CIP, DAP, DPU, DDP, FAS, FOB, CFR, CIF, DAT, Ex Works, Free Carrier, Free On Board, Cost Insurance and Freight]
 creado: 2026-11-27
 revisado:
@@ -40,12 +40,12 @@ El riesgo y el costo no siempre pasan en el mismo punto. En CFR, por ejemplo, el
 
 ## Los dos grupos
 
-La ITA las divide por modo de transporte: «Of the 11 rules, there are seven for ANY mode(s) of transport and four for SEA or LAND or INLAND WATERWAY transport.» Wikipedia da las mismas listas. La ITA escribe «SEA or LAND or INLAND WATERWAY» para el segundo grupo; la tabla lo rotula como marítimo y vías navegables por lectura de la base, sin que ninguna fuente leída lo explique.
+La ITA las divide por modo de transporte: «Of the 11 rules, there are seven for ANY mode(s) of transport and four for SEA or LAND or INLAND WATERWAY transport.» Wikipedia da las mismas listas. La oración de la ITA dice «SEA or LAND or INLAND WATERWAY», pero el encabezado del grupo en la misma página es «The four Incoterms® 2020 rules for Sea and Inland Waterway Transport», y la ICC dice que CIF está «reserved for use in maritime trade». La tabla sigue al encabezado.
 
 | Grupo | Reglas |
 |---|---|
 | Cualquier modo | EXW, FCA, CPT, CIP, DAP, DPU, DDP |
-| Marítimo y vías navegables (lectura de la base) | FAS, FOB, CFR, CIF |
+| Marítimo y vías navegables interiores | FAS, FOB, CFR, CIF |
 
 ## Dónde pasa el riesgo, regla por regla
 
@@ -71,7 +71,11 @@ En DDP el vendedor paga además los derechos de la importación; cuánto y cómo
 
 Wikipedia agrega, según el resumen, que el seguro cubre por lo menos el 110 % del valor del contrato; lo da para CIP, y para CIF no quedó registrado. Es una sola fuente, secundaria; la página de la ICC leída no lo dice.
 
-> [!NOTE] Sin fuente todavía: el punto de riesgo en CIF; quién contrata transporte y seguro en cada una de las once reglas; quién hace el despacho aduanero de exportación y de importación en cada una; y si FOB, CFR y CIF sirven para carga en contenedor que se entrega en la terminal antes de subir al buque. Lo resuelve la introducción del texto de la ICC y sus artículos A y B de cada regla.
+Quién contrata el transporte principal y el seguro en cada regla está en el texto de la ICC, que no se leyó: la ICC y la ITA dicen que cada regla lo fija («Each Incoterm rule specifies which party to the transaction, if any, is obligated to contract for the carriage of the goods», ITA) y remiten a ese texto. Lo que se puede decir con las fuentes leídas es parcial. Los nombres de las cuatro reglas C («Carriage Paid To», «Carriage and Insurance Paid To», «Cost and Freight», «Cost, Insurance and Freight») dicen que el precio del vendedor incluye el flete hasta destino, y CIF y CIP, también el seguro, con la cobertura que fija la ICC; leer en eso que el vendedor contrata es lectura de la base.
+
+Para la carga marítima, la ICC revisó FCA en 2020 «to cater to a situation where goods are sold FCA for carriage by sea»: las partes pueden acordar que «the buyer will instruct the carrier to issue an on-board bill of lading to the seller», el documento que suelen pedir los bancos. La página no dice qué regla usar con contenedores.
+
+> [!NOTE] Sin fuente todavía: el punto de riesgo en CIF; quién contrata transporte y seguro regla por regla; quién hace el despacho aduanero de exportación y de importación en cada una; y si FOB, CFR y CIF sirven para carga en contenedor que se entrega en la terminal antes de subir al buque. Lo resuelven la introducción del texto de la ICC y los artículos A y B de cada regla, que son de pago.
 
 ## Lo que un Incoterm no resuelve
 
