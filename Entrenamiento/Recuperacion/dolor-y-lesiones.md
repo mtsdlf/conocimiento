@@ -43,7 +43,7 @@ El PAR-Q+ es un cuestionario de aptitud para la actividad física; la versión v
 
 ## Dolor muscular tardío o lesión
 
-El dolor muscular tardío aparece sobre todo al volver de un parate o al hacer algo nuevo. Una revisión recomienda bajar intensidad y duración uno o dos días después de un dolor intenso, e introducir lo nuevo en una o dos semanas (Cheung, Hume y Maxwell, 2003, *Sports Medicine*). Cómo volver de a poco después de un parate está en [principios básicos](principios-basicos.md).
+El dolor muscular tardío aparece sobre todo al volver de un parate o al hacer algo nuevo. Una revisión recomienda bajar intensidad y duración uno o dos días después de un dolor intenso, e introducir lo nuevo en una o dos semanas (Cheung, Hume y Maxwell, 2003, *Sports Medicine*). Cómo volver de a poco después de un parate está en [principios básicos](../Carga/principios-basicos.md).
 
 Según dos hospitales, empieza unas 12 a 24 horas después, llega al máximo entre las 24 y las 72 horas, es sordo y difuso y mejora en pocos días. El dolor de una lesión suele ser súbito, agudo y localizado, y se mantiene o empeora; si dura una semana o más puede ser un desgarro ([Cleveland Clinic](https://my.clevelandclinic.org/health/symptoms/delayed-onset-muscle-soreness); [Mass General Brigham](https://www.massgeneralbrigham.org/en/health-wellness/when-to-seek-treatment-for-workout-pain)). Las mismas fuentes piden consultar ante hinchazón, moretón o deformidad, dolor que despierta de noche, u hormigueo y dolor que "dispara".
 
@@ -60,7 +60,7 @@ En tendinopatías, los kinesiólogos usan un modelo en el que se sigue entrenand
 
 Poco, comparado con deportes de equipo. En deportes de pesas, las zonas más lesionadas son hombro, zona lumbar, rodilla, codo y muñeca, con distensiones, tendinitis y esguinces (Keogh y Winwood, 2017, *Sports Medicine*). Solo 5 de los 20 estudios de esa revisión tenían bajo riesgo de sesgo.
 
-Hay una sola fuente de que la fuerza, además, protege. En 25 ensayos con 26.610 participantes, el entrenamiento de fuerza bajó las lesiones deportivas a menos de un tercio, con un RR (riesgo relativo: 0,315 es 68 % menos riesgo) de 0,315; estirar no tuvo efecto ([Lauersen y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24100287/)). Lo de estirar está en [mitos del entrenamiento](mitos-del-entrenamiento.md).
+Hay una sola fuente de que la fuerza, además, protege. En 25 ensayos con 26.610 participantes, el entrenamiento de fuerza bajó las lesiones deportivas a menos de un tercio, con un RR (riesgo relativo: 0,315 es 68 % menos riesgo) de 0,315; estirar no tuvo efecto ([Lauersen y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24100287/)). Lo de estirar está en [mitos del entrenamiento](../Fundamentos/mitos-del-entrenamiento.md).
 
 ## Normas, rabdomiólisis y tasas de lesión, para quien quiera el detalle
 

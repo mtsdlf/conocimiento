@@ -33,7 +33,7 @@ No hagas abdominales para bajar panza: en los estudios, la grasa no bajó de la 
 
 En un ensayo con 24 personas que hicieron abdominales 5 días por semana durante 6 semanas, con dieta isocalórica (que no cambia las calorías), no hubo «efecto significativo» sobre el peso, la grasa corporal, la grasa abdominal ni la circunferencia (en el original: "There was no significant effect of abdominal exercises on body weight, body fat percentage, android fat percentage... abdominal circumference"); sí mejoró la resistencia de los abdominales ([Vispute y otros, 2011](https://pubmed.ncbi.nlm.nih.gov/21804427/)). En otro, 11 personas entrenaron una sola pierna 12 semanas: la grasa total bajó 5,1 %, pero no en la pierna entrenada, sino más en brazos y tronco ([Ramírez-Campillo y otros, 2013](https://pubmed.ncbi.nlm.nih.gov/23222084/)).
 
-Son dos estudios que coinciden, los dos muy chicos. Cómo bajar grasa de verdad está en [bajar grasa y ganar músculo](bajar-grasa-y-ganar-musculo.md); qué se puede cambiar del físico, en [estética y entrenamiento](estetica-y-entrenamiento.md).
+Son dos estudios que coinciden, los dos muy chicos. Cómo bajar grasa de verdad está en [bajar grasa y ganar músculo](../bajar-grasa-y-ganar-musculo.md); qué se puede cambiar del físico, en [estética y entrenamiento](../estetica-y-entrenamiento.md).
 
 ## Estirar no previene lesiones ni el dolor del día después
 
@@ -43,11 +43,11 @@ Para lesiones, un metaanálisis (un estudio que junta y recalcula varios) de 25 
 
 ## El cardio no come músculo
 
-Sumar cardio a la fuerza no le resta músculo ni fuerza máxima a un adulto común: en 43 estudios, el efecto fue prácticamente cero ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/)). Un metaanálisis anterior sí había visto una pérdida al combinar con correr; las dos posiciones están en [fuerza y cardio](fuerza-y-cardio.md).
+Sumar cardio a la fuerza no le resta músculo ni fuerza máxima a un adulto común: en 43 estudios, el efecto fue prácticamente cero ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/)). Un metaanálisis anterior sí había visto una pérdida al combinar con correr; las dos posiciones están en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md).
 
 ## No hay una ventana para la proteína
 
-En 23 estudios de crecimiento muscular, el momento de la proteína no hizo diferencia una vez que se consideró cuánta se comía: la cantidad total del día fue «el predictor más fuerte» (en el original: "total protein intake was the strongest predictor of ES magnitude") ([Schoenfeld, Aragon y Krieger, 2013](https://pubmed.ncbi.nlm.nih.gov/24299050/)). Una revisión de los mismos autores cuestiona que la ventana exista ([Aragon y Schoenfeld, 2013](https://pubmed.ncbi.nlm.nih.gov/23360586/)), así que no son fuentes independientes. Cuánta proteína conviene está en [masa muscular y recomposición](../Nutricion/Objetivos-del-adulto/masa-muscular-y-recomposicion.md), y qué suplementos sirven, en [suplementos](../Nutricion/Objetivos-del-adulto/suplementos.md).
+En 23 estudios de crecimiento muscular, el momento de la proteína no hizo diferencia una vez que se consideró cuánta se comía: la cantidad total del día fue «el predictor más fuerte» (en el original: "total protein intake was the strongest predictor of ES magnitude") ([Schoenfeld, Aragon y Krieger, 2013](https://pubmed.ncbi.nlm.nih.gov/24299050/)). Una revisión de los mismos autores cuestiona que la ventana exista ([Aragon y Schoenfeld, 2013](https://pubmed.ncbi.nlm.nih.gov/23360586/)), así que no son fuentes independientes. Cuánta proteína conviene está en [masa muscular y recomposición](../../Nutricion/Objetivos-del-adulto/masa-muscular-y-recomposicion.md), y qué suplementos sirven, en [suplementos](../../Nutricion/Objetivos-del-adulto/suplementos.md).
 
 ## El cardio en ayunas no bajó más grasa en un estudio
 
@@ -58,7 +58,7 @@ En 20 mujeres jóvenes a dieta que hicieron cardio tres veces por semana durante
 > [!NOTE]
 > Sin fuente todavía: estudios sobre si el dolor muscular tardío indica que el entrenamiento funciona ("sin dolor no hay ganancia"), y sobre si las pesas ponen "voluminosas" a las mujeres.
 
-Lo más cercano: llegar al fallo (hasta no poder hacer otra repetición), que da más malestar durante la serie (un bloque de repeticiones seguidas), no mostró una ventaja clara en músculo frente a quedarse cerca ([Refalo y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36334240/); detalle en [principios básicos](principios-basicos.md)). Es una pista, no una prueba sobre el dolor del día siguiente.
+Lo más cercano: llegar al fallo (hasta no poder hacer otra repetición), que da más malestar durante la serie (un bloque de repeticiones seguidas), no mostró una ventaja clara en músculo frente a quedarse cerca ([Refalo y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36334240/); detalle en [principios básicos](../Carga/principios-basicos.md)). Es una pista, no una prueba sobre el dolor del día siguiente.
 
 ## Por qué en este campo abundan los mitos
 
