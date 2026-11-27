@@ -1,51 +1,79 @@
 ---
 resumen: >-
-  Desarrollo es el oficio de escribir software, visto desde sus herramientas y prácticas:
-  especificar y probar una funcionalidad, generar el proyecto, separar la configuración del código
-  y versionarlo con Git.
+  Desarrollar software para alguien es convertir su necesidad en software andando que recibe y
+  puede mantener, con dos ciclos uno adentro del otro: con el cliente se acuerda, se entrega por
+  partes, se acepta y se traspasa; adentro, cada parte se define, se construye, se verifica y se
+  integra.
 estado: borrador
-estabilidad: estable
-fuentes: []
+estabilidad: semi
+fuentes:
+  - "Dave Farley, Modern Software Engineering (Addison-Wesley, 2021; copyright 2022), índice: https://www.informit.com/store/modern-software-engineering-doing-what-works-to-build-9780137314911"
+  - https://dora.dev/research/2025/dora-report/
+  - https://www.computer.org/education/bodies-of-knowledge/software-engineering
+  - "Desarrollo/.investigacion/ (seis informes, 2026-11-27)"
+aliases: [desarrollo de software, ingeniería de software, software engineering, software development, ciclo de vida del software]
 creado: 2026-10-03
 revisado:
 ---
 
 # Desarrollo
 
-Desarrollo es el oficio de escribir software, visto desde sus herramientas y prácticas:
-especificar y probar una funcionalidad, generar el proyecto, separar la configuración del código
-y versionarlo con Git.
+Desarrollar software para alguien es convertir su necesidad en software andando que recibe y puede mantener, con dos ciclos uno adentro del otro: con el cliente se acuerda, se entrega por partes, se acepta y se traspasa; adentro, cada parte se define, se construye, se verifica y se integra.
 
-El tema trata lo que hace quien escribe un servicio. Los patrones entre servicios (capas de APIs,
-circuit breaker, saga, idempotencia, multi-tenancy) están en el tema
-[Arquitectura](../Arquitectura/arquitectura.md). Cómo se integra y se entrega el código, y cómo se organiza un equipo
-alrededor de Git, está en [DevOps](../DevOps/devops.md).
+El tema trata el proceso, no el producto ni la estructura del sistema. Qué conviene construir, para quién y por qué está en [Producto](../Producto/producto.md); cómo se estructura el sistema (estilos, módulos, patrones), en [Arquitectura](../Arquitectura/arquitectura.md); cómo se integra, se despliega y se opera, en [DevOps](../DevOps/devops.md); y cómo se vende el proyecto, en [Ventas](../Ventas/ventas.md). Este tema empieza cuando hay alguien con una necesidad y termina cuando el software es suyo.
 
-## De la historia de usuario al código versionado
+Se escribe desde cómo se trabaja hoy: con agentes de código como parte normal del oficio. Eso no agrega una etapa, pero cambia dónde está el trabajo difícil. Escribir código se abarató; definir bien qué se pide y verificar lo que salió pesan más que antes. Lo que perdió peso con ese cambio se nombra una sola vez, en [lo que pierde peso](Fundamentos/lo-que-pierde-peso-en-desarrollo.md).
 
-Cuatro partes, en el orden en que aparecen al hacer una funcionalidad: se especifica qué construir y
-cómo se prueba, se genera el proyecto, se separa la configuración que cambia por entorno y todo se
-versiona en Git.
+## Los dos ciclos del desarrollo
+
+El ciclo de afuera es la relación con el cliente: se acuerda qué problema se resuelve y cómo se sabe que está resuelto, se entregan incrementos que el cliente puede usar, se acepta cada uno y al final se traspasa todo. El ciclo de adentro corre una vez por incremento: se define con precisión, se construye, se verifica contra lo definido y se integra. Las normas de ciclo de vida separan algo parecido (los procesos de acuerdo y los técnicos, en ISO/IEC/IEEE 12207), pero el corte en dos ciclos es de esta base.
 
 ```mermaid
 flowchart LR
-  E[Especificación y prueba] -->|dice qué construir y cuándo está hecho| G[Generación de proyectos]
-  G -->|trae la configuración común del equipo a| C[Configuración]
-  C -->|deja fuera del historial los secretos de| V[Git]
-  G -->|crea el proyecto que se versiona en| V
+  subgraph Cliente[Ciclo con el cliente]
+    EN[Encargo]
+  end
+  subgraph Tecnico[Ciclo técnico, una vez por incremento]
+    DE[Definición] -->|dice qué construir y cuándo está hecho| CO[Construcción]
+    CO -->|entrega código para| VE[Verificación]
+    VE -->|devuelve fallas a| CO
+  end
+  EN -->|pasa el alcance acordado a| DE
+  VE -->|da la evidencia para aceptar en| EN
+  EN -->|entrega el sistema a| EV[Evolución]
+  EV -->|abre nuevos encargos| EN
 ```
 
-- [Especificación y prueba](Especificacion-y-prueba/especificacion-y-prueba.md) — cómo se describe una funcionalidad
-  con historias de usuario y cómo se arma la suite de casos de prueba de una API.
-- [Generación de proyectos](Generacion-de-proyectos/generacion-de-proyectos.md) — plantillas de proyecto de Maven para
-  que todos los servicios nuevos arranquen con la misma estructura.
-- [Configuración](Configuracion/configuracion.md) — YAML, qué va en `application.properties` y qué se inyecta desde el
-  entorno, y cómo levantar la app en local.
-- [Git](Git/git.md) — cómo funciona Git por dentro, cómo se integran cambios, cómo se recupera trabajo y cómo se
-  usa en repositorios grandes; la entrada para cualquier duda de Git.
+- [Encargo](Encargo/encargo.md) — el ciclo con el cliente: el acuerdo inicial, el alcance y cómo se acepta, la estimación y el modelo de cobro, el plan de entregas, los cambios a mitad de camino, el seguimiento y el traspaso.
+- [Definición](Definicion/definicion.md) — pasar de una intención a algo que se puede construir sin adivinar: especificación, historias, criterios de aceptación, descomposición en tareas y modelo de dominio.
+- [Construcción](Construccion/construccion.md) — escribir el código, con agentes: el contexto que el repositorio le da al agente, cómo trabaja un agente de código, la plantilla de proyecto, la configuración y Git.
+- [Verificación](Verificacion/verificacion.md) — cómo se sabe que lo construido hace lo que se pidió: niveles de prueba, TDD, revisión de código y cómo se verifica el trabajo de un agente.
+- [Evolución](Evolucion/evolucion.md) — el software después de la primera entrega: deuda técnica, refactorización, código heredado, migraciones y actualizaciones.
+- [Fundamentos](Fundamentos/fundamentos-de-desarrollo.md) — las escuelas, lo que pierde peso, la bibliografía y el glosario.
 
-## Los originales archivados
+Dos etapas del ciclo técnico viven en otros temas y se enlazan desde acá. Diseñar la estructura del sistema es [Arquitectura](../Arquitectura/arquitectura.md); integrar y desplegar es [integración y entrega](../DevOps/Integracion-y-entrega/integracion-y-entrega.md), en DevOps.
 
-El backlog y la suite de pruebas del MVP de e-commerce, y la referencia de YAML en inglés, están
-sin cambios en `Archivo/Desarrollo/`. Los manuales de Git que dieron origen a la parte de Git están en
-`Archivo/Desarrollo/git/` y en `Archivo/DevOps/git/` (estos últimos llegaron con el Tema DevOps).
+## Optimizar para aprender
+
+La idea que ordena el tema viene de Farley (*Modern Software Engineering*): el desarrollo es aprender qué hay que construir mientras se construye, y se optimiza para aprender rápido. Sus cinco prácticas son iterar, buscar retroalimentación, avanzar por incrementos, decidir con evidencia y experimentar. En el ciclo de afuera eso se ve como entregas chicas que el cliente usa; en el de adentro, como pruebas que dicen en minutos si lo construido anda.
+
+La otra mitad del libro de Farley, gestionar la complejidad (modularidad, cohesión, acoplamiento), está en [Arquitectura](../Arquitectura/arquitectura.md).
+
+## Lo que cambia cuando el código lo escribe un agente
+
+Según DORA 2025, la IA funciona como amplificador: magnifica lo que la organización ya hace bien y lo que hace mal. El mismo informe encuentra más volumen de entrega y una relación negativa entre la adopción de IA y la estabilidad. La evidencia sobre cuánto acelera un agente es mixta: hay estudios controlados que miden ganancias y otros que miden pérdidas (el detalle está en [agente de código](Construccion/agente-de-codigo.md)).
+
+De ahí salen las tres apuestas del tema. Lo que se le pide a un agente tiene que estar escrito y ser verificable, y por eso [Definición](Definicion/definicion.md) va a fondo. Lo que entrega un agente se acepta con evidencia y no con su palabra, y para eso está [verificar lo que hizo un agente](Verificacion/verificar-lo-que-hizo-un-agente.md). El cliente acepta software andando, no informes de avance, como se ve en [alcance y aceptación](Encargo/alcance-y-aceptacion.md).
+
+## Qué leer según lo que estés haciendo
+
+- Si te llega un cliente con una idea: [acuerdo inicial](Encargo/acuerdo-inicial.md), después [especificación](Definicion/especificacion.md) y [modelo de dominio](Definicion/modelo-de-dominio.md).
+- Si tenés que estimar o cotizar un proyecto: [estimación](Encargo/estimacion.md), [modelos de contrato y cobro](Encargo/modelos-de-contrato-y-cobro.md) y, si es a precio cerrado, [proyecto a precio cerrado](../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md).
+- Si tenés que preparar trabajo para un agente: [descomposición en tareas](Definicion/descomposicion-en-tareas.md), [criterios de aceptación](Definicion/criterios-de-aceptacion.md) y [contexto del repositorio](Construccion/contexto-del-repositorio.md).
+- Si tenés que revisar lo que hizo un agente: [verificar lo que hizo un agente](Verificacion/verificar-lo-que-hizo-un-agente.md) y [revisión de código](Verificacion/revision-de-codigo.md).
+- Si el cliente cambia lo que quiere a mitad de camino: [cambios de alcance](Encargo/cambios-de-alcance.md).
+- Si tenés que entregar un sistema para que lo mantenga otro: [traspaso](Encargo/traspaso.md).
+- Si te toca un código que no escribiste: [sistema heredado](Evolucion/sistema-heredado.md) y [deuda técnica](Evolucion/deuda-tecnica.md).
+- Si tenés que actualizar dependencias o versiones en muchos lugares: [migraciones y actualizaciones](Evolucion/migraciones-y-actualizaciones.md).
+- Si tenés que armar un proyecto nuevo: [plantilla de proyecto](Construccion/plantilla-de-proyecto.md); la estructura del sistema está en [elegir un estilo](../Arquitectura/Estilos/elegir-un-estilo.md).
+- Si tenés que decidir qué estudiar primero: [lo que pierde peso](Fundamentos/lo-que-pierde-peso-en-desarrollo.md) y la [bibliografía](Fundamentos/bibliografia-de-desarrollo.md).

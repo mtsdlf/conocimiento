@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout), abrí la entrada del tema: Marketing, Producto, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico y Arquitectura tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico y Arquitectura tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -32,8 +32,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 ## Software
 
-- [Desarrollo](Desarrollo/desarrollo.md) — herramientas de quien escribe software: [Git](Desarrollo/Git/git.md), YAML, configuración,
-  arquetipos e historias y casos de prueba.
+- [Desarrollo](Desarrollo/desarrollo.md) — el proceso de convertir la necesidad de un cliente en software andando, con agentes de código: el encargo con el cliente (acuerdo, alcance, estimación, entregas, traspaso), definir, construir, verificar y hacer evolucionar; incluye [Git](Desarrollo/Construccion/Git/git.md).
 - [Arquitectura](Arquitectura/arquitectura.md) — arquitectura de software hoy, desde *AI Engineering* (Huyen) sobre el canon de
   Richards y Ford: características, modularidad, estilos, sistemas distribuidos, sistemas con modelos de IA, evaluación y
   decisiones, con lo que pierde peso dicho aparte.

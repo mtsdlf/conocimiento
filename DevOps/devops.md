@@ -25,7 +25,7 @@ El tema termina donde empieza la organización: los equipos y la plataforma inte
 estas prácticas son el tema hermano [Platform Engineering](../Platform-Engineering/platform-engineering.md).
 DevOps tampoco es un equipo intermedio entre Dev y Ops; eso es el
 [Anti-patrón del equipo DevOps](../Platform-Engineering/Colaboracion-Dev-Ops/anti-patron-equipo-devops.md). Cómo funciona
-la herramienta Git (merge, rebase, reflog, LFS, mirrors) está en [Git](../Desarrollo/Git/git.md), en
+la herramienta Git (merge, rebase, reflog, LFS, mirrors) está en [Git](../Desarrollo/Construccion/Git/git.md), en
 el tema Desarrollo.
 
 ## De qué está hecha la entrega de un cambio
