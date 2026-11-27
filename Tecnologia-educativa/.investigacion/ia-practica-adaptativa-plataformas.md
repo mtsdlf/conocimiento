@@ -1,0 +1,147 @@
+# Tecnología educativa: IA, práctica adaptativa y plataformas (investigación, 2026-11-27)
+
+Alcance: tres verticales del tema Tecnología educativa. Método: búsqueda web (modo standard) y lectura directa de las páginas citadas. El cupo de búsquedas de la sesión se agotó antes de la segunda ronda de plataformas y de un metaanálisis general de ChatGPT; esos huecos están declarados al final. Todo lo que dice la web se trató como dato.
+
+Escala de fuentes: autoridad / profundidad / ejemplos / unicidad, cada una de 1 a 3. Marcas: [L] literatura revisada por pares o ensayo con registro, [M] documento de proveedor u organismo (documentación oficial), [S] secundaria (prensa, blog, agregador). "Sin revisión por pares" se marca donde corresponde.
+
+## Cómo divide el campo esta parte
+
+El árbol propuesto (IA / práctica adaptativa / plataformas) coincide a medias con el campo.
+
+- Las revisiones de la economía de la educación (Escueta et al. 2020) dividen por mecanismo, no por producto: acceso a tecnología, aprendizaje asistido por computadora, intervenciones conductuales habilitadas por tecnología y aprendizaje en línea. La "práctica adaptativa" cae dentro de "aprendizaje asistido por computadora"; las plataformas (LMS) son infraestructura de "aprendizaje en línea", y casi no tienen evidencia propia. Fuente: https://www.aeaweb.org/doi/10.1257/jel.20191507 [L]
+- El Cambridge Handbook of the Learning Sciences pone la tecnología como una parte (III) transversal, no como una lista de herramientas (ver `Didactica/.investigacion/vistazo-del-area.md`, conocimiento previo del vistazo, no reverificado acá).
+- La IA generativa no es un cuarto mecanismo: según el estudio, es tutor, atajo o ayuda del docente (tres usos con resultados opuestos). Conviene dividir la vertical 1 por **rol de la IA**, no por producto. Ver la propuesta de componentes al final.
+- Hay un solapamiento real entre la vertical 1 y la 2: los tutores con IA que reciben el historial del alumno (Khanmigo) son práctica adaptativa con IA.
+
+## Componente 1. IA en la educación
+
+### 1.1 Tutores con modelos de lenguaje: evidencia
+
+Recurso canónico del componente: Bastani et al. (PNAS 2025) para el contraste atajo vs. tutor guiado, y Oreopoulos y Low (NBER 2026) para el estado de la evidencia más reciente.
+
+| Estudio | Diseño y resultado | Estado | Fuente |
+|---|---|---|---|
+| Kestin et al., *Scientific Reports*, publicado 2025-06-03 | Ensayo aleatorizado cruzado, física introductoria de Harvard (Physical Sciences 2), otoño 2023, 233 inscriptos y 194 analizados. Tutor con GPT-4 con prompts y soluciones escritas por docentes frente a clase de aprendizaje activo. Mediana de postest 4,5 contra 3,5 (pretest 2,75); los autores dicen que la ganancia mediana del grupo con IA fue "more than double". Regresión: efecto 0,63 (que consideran subestimado por techo); cuantílica: 0,73 a 1,3 DE. Mediana de 49 minutos en la tarea. | [L] Con revisión por pares. Una sola asignatura, una sola vez, un solo tema; sin retención a largo plazo. Los autores señalan que la precisión dependió de soluciones preescritas y que armar la plataforma llevó "several months". | https://pmc.ncbi.nlm.nih.gov/articles/PMC12179260/ |
+| Wang et al., Tutor CoPilot (Stanford) | Ensayo aleatorizado, la IA ayuda al tutor humano en vivo, no habla con el alumno. +4 puntos porcentuales de dominio de temas (p<0,01), +9 con tutores peor calificados; unos USD 20 por tutor al año. | Documento de trabajo (EdWorkingPapers, noviembre de 2025 según J-PAL; arXiv v3 de 2026-10-10): sin revisión por pares en lo verificado. **Discrepancia de tamaño**: arXiv dice 900 tutores y 1.800 alumnos; J-PAL dice 783 tutores (388 con la herramienta, 395 de control) y 1.013 alumnos, marzo a mayo de 2024. J-PAL: 66% contra 62% de aprobación de "exit tickets". No midió pruebas estandarizadas. | https://arxiv.org/abs/2410.03017 [L]; https://www.povertyactionlab.org/evaluation/human-ai-cooperation-improve-tutoring-united-states [M] |
+| Bastani et al., PNAS 122(26), 2025 (antes SSRN "Generative AI Can Harm Learning") | Experimento de campo, casi 1.000 alumnos de secundaria, matemática (Turquía según el resumen de Wharton). Con GPT-4 en la práctica: +48% con una interfaz tipo ChatGPT ("GPT Base") y +127% con un tutor con prompts protectores ("GPT Tutor"). Al retirar la IA: el grupo GPT Base rindió 17% menos que el control que nunca la tuvo; GPT Tutor, sin diferencia con el control. En los registros, la mayoría de los de GPT Base pedía la respuesta. | [L] Con revisión por pares. El título publicado cambió a "without guardrails". | https://ideas.repec.org/a/nas/journl/v122y2025pe2422633122.html [L]; resumen de Wharton: https://knowledge.wharton.upenn.edu/article/without-guardrails-generative-ai-can-harm-education/ [S] |
+| De Simone et al., Banco Mundial, Policy Research Working Paper 11125, 2025-05-19 | Ensayo aleatorizado en Edo, Nigeria: seis semanas de programa extraescolar de inglés con Microsoft Copilot (GPT-4), 800 alumnos de primer año de secundaria según el buscador (el tamaño no se pudo cotejar en la fuente primaria). Efecto +0,31 DE en la evaluación total (inglés, conocimiento de IA y habilidades digitales) y **+0,23 DE en inglés, el resultado principal**. | Documento de trabajo del Banco Mundial; en el blog de enero de 2025 figuraba "soon to be published" sin revista (sin revisión por pares en lo verificado). Asistencia irregular (inundaciones, huelgas); efectos a largo plazo y negativos, desconocidos; la comparación con "80% de las intervenciones" es del propio equipo. El blog redondea a "about 0.3". | https://econpapers.repec.org/RePEc:wbk:wbrwps:11125 [L]; https://blogs.worldbank.org/en/education/From-chalkboards-to-chatbots-Transforming-learning-in-Nigeria [M] |
+| Oreopoulos y Low, NBER w35620, agosto de 2026 | Ensayo aleatorizado por conglomerados de dos años, 18 escuelas medias de Tennessee, Khanmigo configurado para guiar y no dar respuestas, en sesiones diarias de matemática remedial. +1,3 percentiles por trimestre, equivalente a 0,06 a 0,08 DE por año; 0,14 DE implícitos para un año de participación activa. El 96% lo probó; el alumno mediano le escribió solo en cerca de un tercio de los días de práctica y solo en el 17% de las sesiones en que se equivocó; la mayoría de los mensajes eran respuestas peladas o clics en sugerencias. Conclusión del resumen: lo difícil es que lo usen, no darles acceso. | Documento de trabajo del NBER (sin revisión por pares). La comparación "igual que Khan Academy sin IA" figura en el resumen según mi lectura del propio sitio. | https://www.nber.org/papers/w35620 [L] |
+| LearnLM Team y Eedi, arXiv 2512.23633, 2025-12-29 | Ensayo exploratorio, 165 alumnos de cinco secundarias del Reino Unido; LearnLM redacta cada mensaje y un tutor humano lo aprueba o corrige. 76,4% aprobado con cero o mínimos cambios. En problemas nuevos de temas siguientes: 66,2% con LearnLM contra 60,7% con tutor humano solo (5,5 puntos). | Preprint, sin revisión por pares; el proveedor del modelo es coautor. | https://arxiv.org/abs/2512.23633 [L] |
+
+Qué se puede afirmar con estos estudios (lectura mía, a revisar):
+
+- Dos ensayos con revisión o con diseño aleatorizado (Bastani, Kestin) muestran que el diseño de la herramienta decide: sin guardas hay daño sobre lo aprendido; con guardas y contenido experto, ganancia.
+- El único ensayo largo y externo (Oreopoulos y Low) da efectos chicos y los atribuye al uso, no a la herramienta. Choca con el entusiasmo de Kestin y de Nigeria; los contextos difieren (universitarios motivados y con tarea corta, frente a escolares en recuperación de matemática durante dos años).
+- Los dos estudios en que la IA ayuda a un humano (Tutor CoPilot, Eedi) son positivos, pero con documentos sin revisión por pares y, en uno, coautoría del proveedor.
+- Ninguno de estos estudios es de adultos que aprenden IT. Hueco declarado.
+
+Evidencia general: no se pudo verificar un metaanálisis amplio de ChatGPT en el aprendizaje (se buscaba Wang y Fan 2025, *Humanities and Social Sciences Communications*; la búsqueda no corrió por cupo). No se cita.
+
+### 1.2 La IA como atajo: descarga cognitiva
+
+Recurso canónico: Bastani et al. (arriba) como experimento; para el debate, Kosmyna (preprint) junto con su crítica.
+
+- **Gerlich, *Societies* 15(1), 6, 2025-01-03** (https://www.mdpi.com/2075-4698/15/1/6 [L]; metadatos en https://econpapers.repec.org/RePEc:gam:jsoctx:v:15:y:2025:i:1:p:6-:d:1559787): estudio de métodos mixtos con 666 participantes (encuestas, entrevistas, ANOVA, correlación). Hallazgo: el uso frecuente de IA se correlaciona negativamente con el pensamiento crítico, y la descarga cognitiva aparece como mediadora. Los más jóvenes mostraron mayor dependencia y menor pensamiento crítico. **Límite**: correlacional y autorreportado; no puede decir qué causa qué (alguien con menos pensamiento crítico puede depender más de la IA). No pude abrir el texto completo; los detalles de la corrección posterior a la publicación no se verificaron. Se leyó vía el buscador y el índice; releer el original antes de escribir la ficha.
+- **Kosmyna et al., "Your Brain on ChatGPT", arXiv 2506.08872** (v1 2025-06-10, v2 2025-12-31): https://arxiv.org/abs/2506.08872. **Sin revisión por pares.** 54 participantes en las sesiones 1 a 3 (LLM, buscador, sin herramienta) y solo 18 en la sesión 4. Resultado de los autores: la conectividad cerebral por EEG bajó con el uso de herramientas externas; quienes usaron LLM tuvieron menor sentido de autoría del ensayo y más dificultad para citar lo que habían escrito; "Over four months, LLM users consistently underperformed at neural, linguistic, and behavioral levels". [L] como preprint.
+- **Límites del estudio del MIT**: Stanković, Hirche, Kollatzsch y Doetsch (arXiv 2601.00856, 2025-12-29) objetan el tamaño de la muestra, la reproducibilidad, el análisis de EEG (correcciones por comparaciones múltiples), una discrepancia entre 55 y 54 participantes y posible reporte selectivo: https://arxiv.org/abs/2601.00856v1 [L, comentario sin revisión por pares en lo verificado]. Según Scientific American, la autora reconoce que el estudio no puede decir si el uso habitual cambia el pensamiento a largo plazo: https://www.scientificamerican.com/article/does-using-chatgpt-really-change-your-brain-activity/ [S]. Lo verificable sobre el hallazgo ("deuda cognitiva") es que lo propone un preprint chico y discutido; el titular de prensa va más allá de lo medido.
+- Los dos hallazgos van en la misma dirección que Bastani, pero solo Bastani es un experimento con tarea de aprendizaje y prueba posterior sin IA.
+
+### 1.3 Modos de estudio de los proveedores (ficha fechada, volátil)
+
+Todos son instrucciones de sistema sobre un modelo general; ninguno publicó evidencia de aprendizaje en lo que verifiqué. Datos a 2026-11-27.
+
+| Modo | Fecha y qué hace | Evidencia publicada | Fuente |
+|---|---|---|---|
+| Learning mode (Claude for Education), Anthropic | 2025-04-02. Dentro de Projects, guía el razonamiento con preguntas como "How would you approach this problem?", usa preguntas socráticas y resalta principios. Más tarde estuvo disponible como estilo "Learning" en Claude.ai (fecha no verificada en fuente primaria; cubierta por prensa). | Ninguna: el anuncio no cita estudios ni datos de resultados. | https://www.anthropic.com/news/introducing-claude-for-education [M] |
+| Estilo Learning de Claude Code, Anthropic | Agrega bloques `Insight` y, ante una decisión de diseño real, deja `TODO(human)` en el archivo, pide la tarea y **se detiene** hasta que el usuario termina. La documentación aclara: "An output style gives Claude instructions to follow. It doesn't guarantee that something always happens or never happens", y para lo que debe ocurrir siempre manda a hooks. | Ninguna. | https://code.claude.com/docs/en/output-styles [M] |
+| Study Mode, OpenAI | Lanzado 2025-07-29, instrucciones de sistema personalizadas escritas con docentes, científicos y especialistas; el usuario puede apagarlo. La cobertura dice que OpenAI admite que este enfoque puede dar comportamientos inconsistentes (el dato viene de prensa, no de la página, que devolvió 403 al lector automático). | Ninguna verificada. | https://openai.com/index/chatgpt-study-mode/ [M, listado por el buscador; no se pudo leer]; https://www.edweek.org/technology/what-teachers-should-know-about-chatgpts-new-study-mode-feature/2025/07 [S] |
+| Guided Learning (Gemini), Google | 2025-08-06. Preguntas abiertas, problemas partidos en pasos, respuestas multimedia y cuestionarios; disponible en la app Gemini y compartible vía Google Classroom. "gives no quantitative results". | Ninguna en el anuncio. | https://blog.google/outreach-initiatives/education/guided-learning/ [M] |
+| LearnLM (Google) | Modelo ajustado para pedagogía. Jurenka et al. (v1 2024-05-21, v4 2025-12-02): siete benchmarks, y educadores y alumnos prefirieron LearnLM-Tutor a un Gemini con prompt ajustado en varias dimensiones pedagógicas. Evaluación por el propio proveedor. El ensayo con Eedi está en 1.1. | Preferencia de evaluadores (proveedor) + ensayo exploratorio Eedi (preprint). | https://arxiv.org/abs/2407.12687 [L, preprint, 74 autores de Google] |
+| Khanmigo, Khan Academy | Tutor para matemática escolar. Pruebas A/B propias (blog del 2026-05-06): unas 20 pruebas entre octubre de 2025 y abril de 2026, más de 15 millones de hilos. Resumen del historial reciente de problemas: +3,4% de acierto en el siguiente ejercicio (608.000 hilos, 97,5% de probabilidad de ser mejor); mostrar prerrequisitos sin dominar: +2,7% (1,36 millones de hilos); limitar al agente al trabajo del alumno: la mitad de respuestas regaladas. Ejemplos de otros tipos de problema en el prompt: sin efecto. Evidencia externa: Oreopoulos y Low (1.1). | Pruebas A/B de producto, no revisadas por pares; miden "acierto del siguiente ejercicio", no aprendizaje diferido. | https://blog.khanacademy.org/?p=21314 [M]; https://www.nber.org/papers/w35620 [L] |
+
+Hallazgo transversal: lo único que mueve resultados medidos en Khanmigo es dar contexto del alumno al tutor, no retocar el prompt (según el propio proveedor).
+
+Mi material propio coincide con lo verificado: NBER w35620 (cifras), pruebas de Khan (cifras), Eedi (cifras), Tutor CoPilot (783 tutores, J-PAL), Study Mode y Learning mode. **No pude verificar** la cifra "+31% frente a GPT-4o" atribuida a LearnLM en mi material, ni el detalle del prompt filtrado de Study Mode (Simon Willison): no se usan en este informe.
+
+### 1.4 Novatos que aprenden a programar con IA
+
+Recurso canónico: Prather et al. 2024 para el mecanismo (se ensancha la brecha); Kazemitabaar et al. 2023 para el experimento original. Todos son estudios chicos, de estudiantes (no de adultos en trabajo) y sobre herramientas que envejecen rápido.
+
+| Estudio | Diseño y resultado | Estado | Fuente |
+|---|---|---|---|
+| Kazemitabaar et al., CHI 2023 | Experimento con 69 novatos de 10 a 17 años, 45 tareas de Python, la mitad con Codex. Con Codex: 1,15 veces la tasa de finalización y 1,8 veces el puntaje en las tareas de escribir; la modificación manual de código no empeoró; en el postest a la semana, ligeramente mejor con Codex pero sin diferencia significativa; los de mejor pretest retuvieron más. | Presentado en CHI 2023 (arXiv v2 dice "to be published"); la revisión por pares se infiere por la sede. | https://arxiv.org/abs/2302.07427 [L] |
+| Prather et al., "The Widening Gap", ICER 2024 | 21 sesiones de laboratorio con observación, entrevistas y seguimiento ocular. Los alumnos que ya iban bien usaron la IA para construir lo que habían planeado e ignoraron sugerencias poco útiles; los que tenían problemas metacognitivos los conservaron, a veces con otros nuevos, y muchos sobreestimaron su rendimiento ("illusion of competence"). | Aceptado en ICER 2024 (arXiv, 2024-05-28). Cualitativo. | https://arxiv.org/abs/2405.17739 [L] |
+| Kazemitabaar et al., arXiv 2410.08922 (2024-10-11; mi material lo ubica en IUI 2025, sede no verificada) | Siete técnicas de "compromiso cognitivo" con código generado, estudio entre grupos con 82 y luego uno intrasujeto con 42; la técnica más eficaz fue guiar paso a paso: el alumno dice qué hacer en cada etapa antes de que se muestre el código. | Preprint en lo verificado. | https://arxiv.org/abs/2410.08922 [L] |
+| Zi et al., FSE Companion 2025 | 32 alumnos de CS1, 160 tareas: entendieron la implementación generada en el 32,5% de las tareas; obstáculos: no ser hablante nativo de inglés, sintaxis de Python y exceso de confianza en la salida automática. | Aceptado en FSE Companion '25. | https://arxiv.org/abs/2504.19037 [L] |
+
+Pendientes, citados en mi material propio y **no verificados en esta ronda**: Margulieux et al. (ITiCSE 2024), Bassner et al. (*Computers and Education: AI* 2025, RCT de tres brazos con 275 participantes, DOI 10.1016/j.caeai.2025.100509; el sitio devolvió 403/redirección), Geng et al. 2025 y Xiao et al. 2026 (preprint). No se citan como hallazgos.
+
+Cómo cuadra con 1.1: dos estudios de novatos (Kazemitabaar 2023, Prather) y Bastani coinciden en que sube el rendimiento durante la tarea y no necesariamente lo aprendido, y en que el beneficio cae sobre quien ya sabe más. Zi agrega una barrera idiomática relevante para lectores de habla hispana (lo digo como dato de un estudio de CS1 en inglés, no verificado para hispanohablantes).
+
+## Componente 2. Práctica adaptativa
+
+Recurso canónico: el manual de Anki (https://docs.ankiweb.net/) para el uso; el metaanálisis de Martinengo et al. 2024 para la evidencia del espaciado digital; la revisión de Escueta et al. 2020 para los sistemas adaptativos en general.
+
+### 2.1 Repaso espaciado y sus algoritmos
+
+- **Qué es y quién lo ofrece.** Anki es un programa de tarjetas que programa cada repaso para cuando es más probable que se olvide; escritorio gratis para Windows, macOS y Linux, AnkiDroid gratis y AnkiMobile de pago en iOS; sincronización AnkiWeb gratis. https://apps.ankiweb.net/ [M]
+- **SM-2 y FSRS.** El manual describe el algoritmo original de Anki como derivado de SuperMemo 2, con cambios (pasos de aprendizaje configurables, cuatro botones, "eases never drop below 130%"). FSRS está basado en el modelo de tres componentes de la memoria (retrievability, stability, difficulty), ajusta sus parámetros con el historial de repasos y deja elegir una retención deseada. Disponible desde Anki 23.10. El manual dice que FSRS "reportedly requires fewer reviews than SM-2", y que las pruebas preliminares sugieren que anda "roughly on par" con SM-17 (propietario). https://docs.ankiweb.net/faqs/what-spaced-repetition-algorithm [M]. El proyecto indica que se apoya en el modelo DSR de Wozniak: https://www.github.com/open-spaced-repetition/free-spaced-repetition-scheduler [M]
+- **Retención por defecto y datos necesarios.** 90% por defecto ("a good balance"); más del 97% sobrecarga. El optimizador necesita "several reviews", y en la sección de diagnóstico se marca "less than a few hundred" repasos como causa común de mal rendimiento. https://docs.ankiweb.net/deck-options.html [M]
+- **Benchmark.** La comparación pública usa 9.999 colecciones y 349.923.850 repasos de Anki; mide RMSE, log loss y AUC de la predicción de recuerdo. FSRS-6 (con peso de lo reciente) supera a SM-2 en log loss en el 99,6% de los usuarios; el autor advierte "There is no way to have a truly fair, no caveats, comparison". **Mide predicción del olvido, no aprendizaje**, y SM-2 no fue diseñado para predecir probabilidades (se le agregó un conversor). https://expertium.github.io/Benchmark.html [S, benchmark de la comunidad del proyecto, sin fecha en la página]. La afirmación de mi material de que un promedio móvil sin parámetros queda casi igual que FSRS-7 no la pude verificar en esta ronda.
+- **Evidencia de que el espaciado ayuda.** Metaanálisis de Martinengo et al., *J Med Internet Res* 2024;26:e57760 (publicado 2024-10-10): 23 estudios, 3.371 participantes de ciencias de la salud. Conocimiento frente a educación masiva en línea: DME 0,32 (IC 95% 0,13 a 0,51; 9 estudios; certeza moderada); retención: 0,38; cambio de conducta clínica frente a nada: 0,67 (2 estudios en el texto: 0,63). Límites: 19 de 23 con riesgo de sesgo incierto o alto, gran heterogeneidad, ninguno justificó el intervalo elegido. https://pmc.ncbi.nlm.nih.gov/articles/PMC11502984/ [L]. Es evidencia del **espaciado** en estudiantes de salud, no de un software concreto.
+- **Evidencia de uso de tarjetas en estudiantes de medicina.** Deng, Gluckstein y Larsen, *Perspectives on Medical Education* 4(6):308-313, 2015: encuesta a 72 estudiantes de una institución; en el modelo multivariado, cada 445 preguntas de práctica o 1.700 tarjetas únicas de Anki se asociaron con un punto más en el Step 1, controlando por MCAT y otras variables; las tarjetas comerciales Firecracker no predijeron. Correlacional, exploratorio, una institución. https://pubmed.ncbi.nlm.nih.gov/26498443/ [L]. Estudios posteriores sobre Anki dan resultados mixtos (algunos positivos, otros nulos), mayormente observacionales y autorreportados; solo se vieron resúmenes del buscador (ej. https://pmc.ncbi.nlm.nih.gov/articles/PMC10403443/ y https://link.springer.com/article/10.1007/s40670-023-01826-8, sin leer a fondo): no se citan cifras.
+- **Pendiente sobre el efecto en general.** Cepeda et al. 2006 (*Psychological Bulletin*) figura como anclaje en la literatura médica, pero no pude abrirlo ni confirmar su cifra de experimentos: no se cita número.
+
+### 2.2 Repaso jerárquico (Math Academy)
+
+- Justin Skycak, "Individualized Spaced Repetition in Hierarchical Knowledge Structures", publicado 2023-10-05; título y términos actualizados en 2026 a "Hierarchical Spaced Repetition (HSRS)". Idea central, FIRe (Fractional Implicit Repetition): aprobar un tema avanzado da crédito parcial de repaso a los temas más simples que ejercita; fallar uno simple penaliza hacia arriba a los avanzados que dependen de él. Usa un grafo de "encompassing" distinto del de prerrequisitos, con pesos puestos por un experto; con velocidad de aprendizaje menor a 1, el crédito implícito se descarta. https://justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/ [M, del autor/proveedor]
+- **Evidencia: ninguna independiente.** El propio autor dice que no hay estudios académicos del sistema; lo que ofrece es resultados de su escuela, de AP Calculus BC y reportes de usuarios.
+- Página de producto: diagnóstico adaptativo de 30 a 45 minutos, grafo de conocimiento por alumno, repasos programados; cita conceptos (práctica distribuida, intercalado, efecto de evaluación, ejemplos resueltos) sin estudios ni datos de resultados. https://www.mathacademy.com/how-it-works [M]. Es producto de pago (precio no verificado).
+- Consecuencia para el tema: en una base pública conviene presentarlo como "diseño con respaldo teórico, sin evidencia de efecto" y fechar la ficha.
+
+### 2.3 Sistemas adaptativos y su evidencia
+
+- **Escueta, Nickow, Oreopoulos y Quan (2020)**, "Upgrading Education with Technology: Insights from Experimental Research", *Journal of Economic Literature* 58(4): 897-996, https://www.aeaweb.org/doi/10.1257/jel.20191507 [L]. Revisa ensayos aleatorizados y diseños de discontinuidad en cuatro categorías: acceso, aprendizaje asistido por computadora, intervenciones conductuales habilitadas por tecnología y aprendizaje en línea; enfoque en países desarrollados. **No pude leer las conclusiones por categoría** (la página solo trae el resumen; el PDF no se cargó): no atribuyo resultados. Versión previa: NBER w23744, 2017, "Education Technology: An Evidence-Based Review", https://www.nber.org/papers/w23744. Nota: mi encargo hablaba de "NBER 2020"; la versión de 2020 es la de la revista, la del NBER es la de 2017 (el buscador no mostró un número NBER para la de 2020).
+- Un ensayo adaptativo concreto verificado en este informe es el de Khanmigo (1.1), cuyo efecto es el de la práctica de Khan Academy sin IA: o sea, la práctica adaptativa y la tutoría por chat dieron efectos parecidos y chicos.
+- Hueco: no encontré en esta ronda un metaanálisis específico de sistemas de tutoría inteligentes (por ejemplo, Kulik y Fletcher 2016) ni evidencia de ALEKS, Duolingo u otros adaptativos comerciales. Recomendado para una segunda ronda.
+
+## Componente 3. Plataformas (ficha volátil, a 2026-11-27)
+
+Solo se verificaron productos con página oficial leída hoy. Sin ranking comercial. Varias descripciones son lo que dice el proveedor sobre sí mismo.
+
+| Categoría | Qué hace | Ejemplos verificados | Fuente |
+|---|---|---|---|
+| LMS: gestión de cursos, entregas y notas | Aulas virtuales: contenido, tareas, calificaciones, mensajería e integraciones | **Canvas** (Instructure): se presenta como "the #1 LMS in North America", en más de 100 países, SpeedGrader, Blueprint courses, más de 1.000 integraciones, tres niveles hasta funciones de IA avanzadas; atiende primaria y secundaria, educación superior y empresas (Canvas Career). **Google Classroom** (Google Workspace for Education): tareas, rúbricas, informes de originalidad, exportación de registros a BigQuery, 150 millones de usuarios activos según la página; Gemini en Classroom sin costo, funciones avanzadas con Education Plus o complementos; "interactive questions" en videos aún en beta. Moodle (LMS de código abierto): no se pudo leer la página oficial en esta ronda (moodle.com/about dio 404 y moodle.org 403); lo de su licencia queda sin verificar. | https://www.instructure.com/canvas [M]; https://edu.google.com/workspace-for-education/products/classroom/ [M] |
+| Autoría de contenido interactivo | Crear ejercicios, videos con preguntas y presentaciones que se incrustan en un LMS | **H5P**: tecnología abierta (MIT) para contenido interactivo HTML5 (videos interactivos, presentaciones, juegos); integraciones directas con Canvas, Brightspace, Blackboard y Moodle, o por LTI. | https://h5p.org/ [M] |
+| Práctica de programación con mentoría | Ejercicios por lenguaje, con devolución humana | **Exercism**: organización sin fines de lucro registrada en el Reino Unido, gratis, "over 80" lenguajes (la página dice también "85"), con mentoría voluntaria; la página no menciona IA. | https://exercism.org/about [M] |
+| Repaso espaciado | Tarjetas programadas | **Anki** (ver 2.1) | https://apps.ankiweb.net/ [M] |
+| Práctica adaptativa de matemática | Diagnóstico y secuencia individual | **Math Academy** (2.2); **Khan Academy con Khanmigo** (1.3) | ver arriba |
+
+Notas:
+
+- No encontré evidencia comparativa del efecto de un LMS sobre el aprendizaje en lo revisado; Escueta et al. clasifican el aprendizaje en línea como categoría, no el LMS. Hueco.
+- Para adultos en IT faltan categorías que no se verificaron: plataformas de video-cursos, laboratorios de práctica en la nube, cohortes en vivo. Hueco de esta ronda por el cupo de búsquedas.
+- Todas las funciones de IA de las plataformas cambian cada trimestre: ficha con fecha y re-verificar al usar.
+
+## Huecos
+
+1. Ningún ensayo verificado con adultos que aprenden IT con IA; todo es escolar o universitario.
+2. Sin lectura de las conclusiones por categoría de Escueta et al. 2020; falta un metaanálisis de tutoría inteligente y evidencia de adaptativos comerciales.
+3. Sin metaanálisis general de ChatGPT en el aprendizaje (cupo de búsqueda).
+4. No verificados: Bassner et al. (RCT de CS1), Margulieux, Geng, Xiao; "+31% frente a GPT-4o" de LearnLM; prompt filtrado de Study Mode; cifra de Cepeda 2006; el texto completo de Gerlich y su corrección; la fecha exacta del estilo Learning en Claude.ai; precio de Math Academy y licencia de Moodle.
+5. Discrepancia no resuelta en Tutor CoPilot (900 y 1.800 contra 783 y 1.013) y en Nigeria (0,31 contra 0,23 según la medida y 800 alumnos solo por el buscador).
+6. Faltan categorías de plataformas (video-cursos, laboratorios, cohortes) y una segunda fuente por plataforma.
+
+## Propuesta de componentes
+
+Propongo dividir por rol de la IA y por mecanismo, no por producto:
+
+1. **La IA como tutor** (con la regla del diseño: guiar frente a dar la respuesta; evidencia de Bastani, Kestin, Oreopoulos y Low, Nigeria).
+2. **La IA como ayuda de quien enseña** (Tutor CoPilot, Eedi): componente corto, positivo pero frágil.
+3. **La IA como atajo y descarga cognitiva** (Gerlich, Kosmyna con su crítica; Bastani como experimento), con la sección de novatos que programan (Prather, Kazemitabaar, Zi).
+4. **Práctica espaciada y adaptativa** (SM-2, FSRS, Anki, repaso jerárquico, sistemas adaptativos), con la evidencia del espaciado (Martinengo, Deng) separada de la de los algoritmos (benchmark de predicción).
+5. **Modos de estudio de los proveedores** (ficha fechada y volátil: Claude, ChatGPT, Gemini, Khanmigo): va aparte por ser la parte que caduca, con la advertencia "instrucciones de sistema, sin evidencia propia".
+6. **Plataformas y herramientas** (ficha fechada: LMS, autoría, práctica con mentoría, repaso).
+7. **Qué dice la evidencia general de tecnología educativa** (Escueta et al.): componente corto de encuadre que explica por qué "más tecnología" no equivale a más aprendizaje y que el uso (no el acceso) es el cuello de botella.
+
+Recurso canónico por componente: 1 Bastani et al. 2025 y Oreopoulos y Low 2026; 2 Wang et al. (documento de trabajo); 3 Bastani et al. 2025; 4 Martinengo et al. 2024 y el manual de Anki; 5 las páginas oficiales de cada proveedor; 6 las páginas oficiales (no hay recurso canónico); 7 Escueta et al. 2020.
