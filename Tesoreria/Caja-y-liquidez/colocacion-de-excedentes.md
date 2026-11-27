@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La colocación de excedentes decide cuánta caja se guarda como reserva de liquidez y dónde se pone la que sobra por encima de ella, buscando primero seguridad y liquidez y después rendimiento.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Finance (2022), 19.3 Cash Management (leído): https://openstax.org/books/principles-finance/pages/19-3-cash-management"
@@ -18,7 +18,7 @@ fuentes:
   - "Tesoreria/.investigacion/caja-y-liquidez-verificacion.md (2026-11-27)"
 aliases: [colocación de excedentes, excedentes de caja, inversión de excedentes, inversiones de corto plazo, short-term investments, cash equivalents, equivalentes de caja, equivalentes de efectivo, reserva de liquidez, liquidity reserve, colchón de caja, cash buffer, cash holdings, tenencia de caja, motivo precautorio, precautionary motive, política de inversiones, investment policy]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Colocación de excedentes

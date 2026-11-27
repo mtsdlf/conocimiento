@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El saber de tesorería se produce en siete lugares de distinto peso: el marco de procesos de APQC, las asociaciones de tesoreros y de crédito, los libros de texto abiertos, quienes miden el fraude de pagos, la investigación académica, el emisor de normas contables y, en Argentina, el BCRA y la CNV; para cada vertical hay un recurso que conviene leer primero, y varios quedaron sin leer.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework Cross Industry 7.4 (2024), categorías 9.2, 9.6 y 9.7, pp. 23-26 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -28,7 +28,7 @@ fuentes:
   - "Tesoreria/.investigacion/caja-y-liquidez.md, credito-y-cobranzas.md, caja-y-cobranzas-segunda-ronda.md, pagos-a-proveedores.md, financiamiento-y-riesgos.md, financiamiento-y-pagos-segunda-ronda.md, argentina.md y fundamentos-y-contraria.md (tablas de fuentes, recursos canónicos y huecos, 2026-11-27)"
 aliases: [fuentes de tesorería, bibliografía de tesorería, qué leer de tesorería, treasury sources, treasury bibliography, cash management sources]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de tesorería

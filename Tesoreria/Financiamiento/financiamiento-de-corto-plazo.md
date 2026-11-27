@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El financiamiento de corto plazo cubre los baches de caja de semanas o meses con cuatro instrumentos: el descubierto en la cuenta corriente, la línea de crédito rotativa, el descuento de documentos y el factoring, que adelanta lo que deben los clientes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Overdraft, como fuente terciaria, centrada en el Reino Unido (según su resumen): https://en.wikipedia.org/wiki/Overdraft"
@@ -14,7 +14,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [financiamiento de corto plazo, short-term financing, descubierto, overdraft, giro en descubierto, línea de crédito, revolving credit, línea rotativa, factoring, factoraje, descuento de documentos, descuento de cheques, invoice discounting, descuento de facturas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Financiamiento de corto plazo

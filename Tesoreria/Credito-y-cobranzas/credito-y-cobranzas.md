@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Crédito y cobranzas es la parte de la tesorería que hace entrar la plata que deben los clientes: decide a quién se le vende a plazo y hasta cuánto, reclama lo vencido y aplica cada cobro a las facturas que cancela.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 9.2.1, 9.2.3, 9.2.4, 9.2.5 y 9.7.5.4 (leído, los títulos): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, sección 1, punto 3 (2026-11-27)"
 aliases: [crédito y cobranzas, credit and collections, cuentas a cobrar, accounts receivable management, gestión de cuentas a cobrar, order to cash, del crédito al cobro, receivables management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Crédito y cobranzas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La aplicación de cobros es identificar de qué cliente es cada cobro que llega y asignarlo a las facturas que cancela, dejando a la vista lo que sobra, lo que falta y lo que no se sabe de quién es.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 9.2.3 y 9.2.5 (leído, los títulos): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Tesoreria/.investigacion/credito-y-cobranzas-verificacion.md (2026-11-27)"
 aliases: [aplicación de cobros, cash application, aplicar cobros, imputación de cobros, apply cash remittances, aviso de pago, remittance advice, remesa, detalle de pago, cobro sin identificar, unapplied cash, unidentified receipts, pago parcial, partial payment, anticipo de cliente, customer advance, pago corto, short payment]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aplicación de cobros

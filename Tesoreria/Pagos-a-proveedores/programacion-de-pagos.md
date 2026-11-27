@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La programación de pagos decide qué factura aprobada se paga en qué fecha: respeta el vencimiento que fija la condición de pago, toma el descuento por pronto pago solo cuando cuesta menos que la plata que hay que usar para tomarlo, y ordena las prioridades cuando la caja no alcanza.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Finance (2022), 19.2 What Is Trade Credit? (leído): https://openstax.org/books/principles-finance/pages/19-2-what-is-trade-credit"
@@ -16,7 +16,7 @@ fuentes:
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, secciones 4.1 y 5 (2026-11-27)"
 aliases: [programación de pagos, payment scheduling, calendario de pagos, descuento por pronto pago, early-payment discount, cash discount, costo de no tomar el descuento, cost of forgoing a discount, crédito comercial, trade credit, prioridades de pago]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Programación de pagos

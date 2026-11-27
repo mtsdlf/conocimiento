@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La seguridad de los pagos son los controles que impiden que un pago legítimo termine en la cuenta de un tercero: el engaño por correo comprometido que cambia los datos bancarios de un proveedor, el cheque robado o alterado y el pago que sale dos veces.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "FBI IC3, 2025 Internet Crime Report (abril de 2026) (leído en las partes citadas, extraído a texto): https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "Tesoreria/.investigacion/pagos-y-politica-verificacion.md (2026-11-27)"
 aliases: [seguridad de los pagos, fraude de pagos, payments fraud, compromiso del correo empresarial, business email compromise, BEC, fraude del cambio de cuenta, vendor impersonation, fraude del CEO, pago duplicado, duplicate payment, positive pay, devolución de llamada, callback verification]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Seguridad de los pagos

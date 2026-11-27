@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina la tesorería de una empresa trabaja con instrumentos y reglas propias: el cheque de pago diferido y el ECHEQ, que son a la vez medio de cobro, crédito y activo que se descuenta; las transferencias inmediatas con límites en UVA; el financiamiento pyme con cheques y facturas; colocaciones que se miden contra la inflación, y un mercado de cambios con autorización previa para atesorar dólares.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "BCRA, texto ordenado Sistema Nacional de Pagos, Cheques y otros instrumentos compensables, al 23/07/2026 (A 8458), puntos 2.3.2, 3.4 y 3.5 (leído en esas partes): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-snp-cheq.pdf"
@@ -27,7 +27,7 @@ fuentes:
   - "Tesoreria/.investigacion/argentina-y-fundamentos-verificacion.md (2026-11-27)"
 aliases: [tesorería en Argentina, cheque de pago diferido, CPD, ECHEQ, cheque electrónico, transferencia inmediata, transferencia push, transferencia pull, DEBIN, descuento de cheques, SGR, aval SGR, caución bursátil, plazo fijo, cepo cambiario, acceso al mercado de cambios, treasury in Argentina]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tesorería en Argentina

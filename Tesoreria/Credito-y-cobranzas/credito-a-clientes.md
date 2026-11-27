@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El crédito a clientes es la decisión de venderle a un cliente a plazo, con qué condición de pago y hasta qué monto, tomada según una política de crédito que fija cómo se evalúa al cliente, qué garantías se piden y cada cuánto se revisa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Petersen, M. y Rajan, R. (1997), Trade Credit: Theories and Evidence, Review of Financial Studies 10(3), versión NBER WP 5602 (leído el abstract, la tabla 1 y las partes citadas): https://www.nber.org/system/files/working_papers/w5602/w5602.pdf"
@@ -25,7 +25,7 @@ fuentes:
   - "Tesoreria/.investigacion/credito-y-cobranzas-verificacion.md (2026-11-27)"
 aliases: [crédito a clientes, crédito comercial, trade credit, customer credit, política de crédito, credit policy, límite de crédito, credit limit, análisis de crédito, credit analysis, cinco C del crédito, five Cs of credit, seguro de crédito, trade credit insurance, garantías, collateral]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Crédito a clientes

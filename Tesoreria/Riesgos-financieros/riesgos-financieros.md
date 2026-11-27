@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los riesgos financieros son lo que puede salir mal con la plata de la empresa por causas de afuera: no tener caja cuando vence un pago (liquidez), que cambie la tasa de la deuda (tasa), que no pague quien debe (contraparte) o que se mueva el tipo de cambio; la tesorería decide cuáles acepta y cuáles cubre, según la política de tesorería.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), categorías 9.7.3, 9.7.4 y 9.7.5 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [riesgos financieros, financial risk, financial risk management, gestión de riesgos financieros, riesgo de liquidez, liquidity risk, funding liquidity risk, riesgo de tasa, riesgo de tasa de interés, interest rate risk, riesgo de contraparte, counterparty risk, cobertura, hedging]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Riesgos financieros

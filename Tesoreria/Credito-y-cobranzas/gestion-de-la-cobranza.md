@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La gestión de la cobranza es el trabajo de convertir en plata las facturas vencidas: reclamarlas con una secuencia de recordatorios, resolver las disputas y deducciones, negociar acuerdos y decidir cuándo una deuda pasa a legales o se da por incobrable, midiendo el resultado con el DSO y el índice de eficacia de cobranza.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Credit Research Foundation, Performance Measures (2016) (leído): https://www.crfonline.org/wp-content/uploads/2017/12/PerformanceMeasures.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, sección 4.2 (2026-11-27)"
 aliases: [gestión de la cobranza, cobranza, collections, collections management, gestión de mora, recordatorios de pago, dunning, secuencia de cobranza, disputas, deducciones, deductions management, DSO, days sales outstanding, días de cobro, best possible DSO, DSO mejor posible, CEI, collection effectiveness index, índice de eficacia de cobranza, average days delinquent, días de atraso promedio]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gestión de la cobranza

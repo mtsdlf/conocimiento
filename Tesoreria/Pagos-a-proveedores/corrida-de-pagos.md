@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La corrida de pagos es el ciclo periódico en que la empresa junta las facturas programadas, las aprueba, arma con ellas un lote por medio de pago y banco, lo manda al banco y después verifica que cada pago salió.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 9.6.1 y 9.7.2.3 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Tesoreria/.investigacion/pagos-y-politica-verificacion.md (2026-11-27)"
 aliases: [corrida de pagos, payment run, pago por lotes, batch payment, lote de pagos, propuesta de pagos, payment proposal, archivo de pagos, payment file, orden de pago, firma conjunta, doble firma, two-person rule, four-eyes principle]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Corrida de pagos

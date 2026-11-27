@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las tasas de descubierto, plazo fijo, caución y descuento de cheques, y la inflación pasada y esperada en Argentina a fines de noviembre de 2026, cada una con su fecha y su fuente viva, y la tasa real que resulta de compararlas.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "BCRA, API de Estadísticas Monetarias v4.0, valores al 25 y 26/11/2026, inflación a octubre de 2026 (leído): https://api.bcra.gob.ar/estadisticas/v4.0/monetarias"
@@ -12,7 +12,7 @@ fuentes:
   - "Tesoreria/.investigacion/argentina-y-fundamentos-verificacion.md (2026-11-27)"
 aliases: [tasas de referencia, tasas en Argentina, tasa de descubierto, tasa de plazo fijo, BADLAR, TAMAR, tasa de caución, inflación interanual, REM, tasa real, Argentine reference rates]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tasas de referencia en Argentina

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estructura de cuentas bancarias es qué cuentas tiene la empresa, en qué bancos y monedas, para qué uso cada una y quién puede moverlas; junto con la relación con cada banco y lo que cobra, decide por dónde corre la plata y cuánto cuesta moverla.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 9.7.2.7, 9.7.2.8 y 9.7.3, pp. 24 y 25 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Tesoreria/.investigacion/caja-y-cobranzas-segunda-ronda.md, sección 3 (2026-11-27)"
 aliases: [cuentas bancarias, estructura de cuentas, estructura bancaria, bank account structure, bank account management, relación con los bancos, bank relationship management, comisiones bancarias, bank fees, concentración de fondos, cash concentration, cash pooling, firmantes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuentas bancarias

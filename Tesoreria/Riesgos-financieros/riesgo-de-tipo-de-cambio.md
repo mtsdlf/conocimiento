@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El riesgo de tipo de cambio es que un movimiento de la cotización cambie lo que la empresa va a cobrar o pagar en otra moneda, lo que muestran sus estados o lo que vale su negocio; se acota primero con la cobertura natural (cobrar y pagar en la misma moneda) y después con contratos como el forward.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Currency risk, como fuente terciaria (leído; cita a Levi 2005, Moffett, Stonehill y Eiteman 2009, Eun y Resnick 2011 y Hull 2003): https://en.wikipedia.org/wiki/Currency_risk"
@@ -17,7 +17,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [riesgo de tipo de cambio, riesgo cambiario, currency risk, foreign exchange risk, FX risk, exposición cambiaria, exposición de transacción, transaction exposure, exposición de traslación, translation exposure, exposición económica, economic exposure, cobertura cambiaria, cobertura natural, natural hedge, forward, futuros de moneda, currency futures]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Riesgo de tipo de cambio

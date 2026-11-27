@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El financiamiento de una empresa en marcha es cómo se consigue la plata que la proyección de caja muestra que va a faltar: deuda de corto plazo para los baches del capital de trabajo, préstamos a plazo para lo que dura años, y crédito apoyado en lo que deben los clientes o en lo que se debe a los proveedores.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), categoría 9.7.4 Manage debt and investment (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [financiamiento, financiación, financing, debt financing, deuda de la empresa, endeudamiento, financiamiento de la empresa en marcha]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Financiamiento

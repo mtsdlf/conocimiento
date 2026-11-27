@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los medios de cobro y pago son los caminos por los que la plata entra y sale de las cuentas (transferencia, cheque, débito directo, tarjeta y efectivo); vistos desde la caja, cada uno se distingue por quién lo inicia, cuándo se acredita, cuánto cuesta y quién lo puede revertir.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "AFP, 2026 Payments Fraud and Control Survey Report: Key Highlights (abril de 2026; 465 profesionales; datos de 2025), pp. 4, 5, 11 y 12 (leído el informe de resumen completo, en la copia que aloja su patrocinador): https://www.truist.com/content/dam/truist-bank/us/en/documents/info/cci/2026-afp-payments-fraud-control-survey-report-key-highlights.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "Tesoreria/.investigacion/caja-y-liquidez-verificacion.md (2026-11-27)"
 aliases: [medios de cobro, medios de pago, medios de cobro y pago, payment methods, payment instruments, payment rails, transferencia, cheque, débito directo, direct debit, positive pay]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Medios de cobro y pago

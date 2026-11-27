@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Caja y liquidez es la parte de la tesorería que sabe cuánta plata tiene la empresa y dónde, por qué medios entra y sale, y cuánta va a tener en las próximas semanas, para pagar cada obligación cuando vence.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ACT, Competency Framework, competencias Cash Management y Liquidity Management (leído): https://www.treasurers.org/cpd-and-training/competency-framework/"
@@ -12,7 +12,7 @@ fuentes:
   - "Tesoreria/.investigacion/caja-y-cobranzas-segunda-ronda.md, secciones 1 a 4 (2026-11-27)"
 aliases: [caja y liquidez, gestión de caja, gestión de liquidez, cash management, liquidity management, cash and liquidity management, liquidez]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Caja y liquidez

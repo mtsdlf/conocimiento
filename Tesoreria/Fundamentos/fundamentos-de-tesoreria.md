@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal de la tesorería: cómo dividen el campo APQC y el examen de los tesoreros, dónde termina frente a la contabilidad, qué cambia de la pyme a la empresa grande, qué se sabe de su historia y qué dice la evidencia sobre tres creencias de la caja.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework Cross Industry 7.4 (2024), categorías 9.2, 9.6 y 9.7, pp. 23-26 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -24,7 +24,7 @@ fuentes:
   - "Tesoreria/.investigacion/caja-y-liquidez.md, secciones 0, 4 y 5 (2026-11-27)"
 aliases: [fundamentos de tesorería, historia de la tesorería, mitos de la caja, treasury fundamentals, cash myths, 82 % de las quiebras]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de tesorería

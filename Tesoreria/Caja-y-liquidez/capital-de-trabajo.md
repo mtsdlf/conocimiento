@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El capital de trabajo es la plata que la operación tiene inmovilizada en stock y en lo que deben los clientes, menos lo que todavía se debe a los proveedores; el ciclo de conversión del efectivo mide cuántos días pasa esa plata afuera antes de volver como cobro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance (2022), 19.1 What Is Working Capital? (leído): https://openstax.org/books/principles-finance/pages/19-1-what-is-working-capital"
@@ -15,7 +15,7 @@ fuentes:
   - "Tesoreria/.investigacion/caja-y-liquidez-verificacion.md (2026-11-27)"
 aliases: [capital de trabajo, capital de trabajo neto, working capital, net working capital, NWC, ciclo de conversión del efectivo, ciclo de caja, cash conversion cycle, CCC, cash cycle, días de inventario, days inventory outstanding, DIO, inventory conversion period, días de cobro, receivables collection period, días de pago, days payables outstanding, DPO, payables deferral period]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Capital de trabajo

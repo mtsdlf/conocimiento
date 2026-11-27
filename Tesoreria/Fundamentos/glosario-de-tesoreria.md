@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos que usan las notas de tesorería, cada uno con una definición de una línea, su nombre en inglés y la nota que lo explica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -12,7 +12,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [glosario de tesorería, términos de tesorería, vocabulario de tesorería, treasury glossary, treasury terms, cash management glossary]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de tesorería

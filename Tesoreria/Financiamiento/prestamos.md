@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un préstamo a plazo entrega una suma de una vez y se devuelve en cuotas según un sistema de amortización (el francés, de cuota constante, o el alemán, de capital constante), a veces con garantías y con covenants que el deudor se compromete a cumplir; el leasing financia un bien que sigue siendo de la financiera.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance, 8.3 Loan Amortization (leído): https://openstax.org/books/principles-finance/pages/8-3-loan-amortization"
@@ -17,7 +17,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [préstamo, préstamos, préstamo a plazo, term loan, sistema francés, sistema alemán, amortización, amortization schedule, cuadro de amortización, cuota constante, annuity loan, amortización constante, covenant, covenants, loan covenant, garantía, collateral, leasing, arrendamiento financiero, finance lease]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Préstamos

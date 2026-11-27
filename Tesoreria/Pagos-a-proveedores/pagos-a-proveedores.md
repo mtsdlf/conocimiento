@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Pagos a proveedores es la parte de la tesorería que hace salir la plata que la empresa debe: toma la factura ya aprobada, decide cuándo pagarla, la paga en una corrida aprobada y cuida que el pago llegue a quien corresponde.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 9.6.1, 9.7.2 y 9.7.6 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, sección 6 (2026-11-27)"
 aliases: [pagos a proveedores, pagos, accounts payable payments, vendor payments, supplier payments, de la factura al pago, invoice to pay]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pagos a proveedores

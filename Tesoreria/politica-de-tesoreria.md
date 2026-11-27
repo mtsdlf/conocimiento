@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La política de tesorería es el documento que fija las reglas de la plata de una empresa: quién puede decidir y mover fondos y hasta qué monto, con qué bancos se trabaja, en qué se puede colocar lo que sobra, cuánto y cómo se puede deber, qué riesgos se cubren y qué controles se aplican.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 9.2.1, 9.7.1 a 9.7.6, pp. 23-26 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Tesoreria/.investigacion/pagos-y-politica-verificacion.md (2026-11-27)"
 aliases: [política de tesorería, treasury policy, política financiera, política de inversiones, investment policy, manual de tesorería, treasury procedures, procedimientos de tesorería]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Política de tesorería

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El costo del financiamiento es lo que de verdad cuesta una plata prestada, medido como tasa efectiva anual con todos los cargos incluidos y, con inflación, como tasa real; es la medida que permite comparar un descubierto, un factoring, un préstamo y un descuento por pronto pago que no se toma.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance, 8.4 Stated versus Effective Rates (leído): https://openstax.org/books/principles-finance/pages/8-4-stated-versus-effective-rates"
@@ -14,7 +14,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [costo del financiamiento, cost of financing, cost of debt, costo de la deuda, tasa efectiva, tasa efectiva anual, TEA, effective annual rate, EAR, tasa nominal, TNA, nominal rate, APR, tasa real, real interest rate, ecuación de Fisher, Fisher equation, costo financiero total, CFT]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costo del financiamiento

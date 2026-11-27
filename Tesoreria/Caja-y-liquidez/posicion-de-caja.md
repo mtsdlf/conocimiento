@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La posición de caja es cuánta plata puede usar la empresa hoy: el saldo de cada cuenta, corregido por lo que está en camino de acreditarse o de debitarse y por lo que ya está comprometido para pagar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 9.7.2.1 Manage and reconcile cash positions, p. 24 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Tesoreria/.investigacion/caja-y-liquidez-verificacion.md (2026-11-27)"
 aliases: [posición de caja, posición diaria, posición de tesorería, cash position, daily cash position, saldo disponible, available balance, saldo contable, ledger balance, flotación, float]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Posición de caja

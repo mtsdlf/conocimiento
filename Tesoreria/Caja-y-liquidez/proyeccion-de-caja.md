@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La proyección de caja es el pronóstico de cuánta plata va a entrar y salir en las próximas semanas, cobro por cobro y pago por pago, para ver con tiempo en qué semana falta o sobra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Finance (2022), 19.6 Using Excel to Create the Short-Term Plan (leído): https://openstax.org/books/principles-finance/pages/19-6-using-excel-to-create-the-short-term-plan"
@@ -18,7 +18,7 @@ fuentes:
   - "Huron, 4 Factors That Can Make or Break Your 13-Week Cash Flow, 1 de junio de 2018 (leído): https://huronconsultinggroup.com/insights/factors-make-break-cash-flow"
 aliases: [proyección de caja, pronóstico de caja, flujo de fondos proyectado, presupuesto de caja, cash flow forecast, cash forecast, cash budget, 13-week cash flow forecast, pronóstico de 13 semanas, rolling forecast, proyección móvil]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Proyección de caja

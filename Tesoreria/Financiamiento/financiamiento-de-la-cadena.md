@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El financiamiento de la cadena, o reverse factoring, es un acuerdo que inicia un comprador grande para que sus proveedores cobren antes a través de un financiador, a una tasa basada en el crédito del comprador, mientras el comprador paga más tarde; como la deuda sigue figurando como cuenta a pagar, puede no verse como deuda financiera.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "CFO.com, Carillion collapse exposes flaws in trade finance disclosure (14/03/2018), que reproduce a Moody's (leído): https://www.cfo.com/news/carillion-collapse-exposes-flaws-in-trade-finance-disclosure/659262/"
@@ -21,7 +21,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [financiamiento de la cadena, financiamiento de la cadena de suministro, supply chain finance, SCF, reverse factoring, factoring inverso, confirming, supplier finance, supplier finance arrangements, acuerdos de financiación de proveedores]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Financiamiento de la cadena
