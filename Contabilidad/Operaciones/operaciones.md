@@ -41,6 +41,8 @@ La tabla resume qué documento dispara qué asiento. Los patrones salen de OpenS
 | Inventario | Rebaja a valor neto de realización | Resultado / Inventario | [costo de lo vendido](costo-de-lo-vendido.md) |
 | Activos | Compra de un activo fijo | Activo / Caja o Cuentas a pagar | [activos fijos](activos-fijos-y-amortizacion.md) |
 | Activos | Amortización del período | Amortización del período / Amortización acumulada | [activos fijos](activos-fijos-y-amortizacion.md) |
+| Activos | Costos de una obra propia | Obra en curso / Proveedores, Sueldos a pagar, Intereses a pagar | [activo construido](activo-construido.md) |
+| Activos | Inicio de un arrendamiento (NIIF 16) | Activo por derecho de uso / Pasivo por arrendamiento | [arrendamientos](arrendamientos.md) |
 | Sueldos | Sueldos devengados | Sueldos / varios pasivos | la sección de abajo |
 
 Una venta con stock lleva dos asientos, porque mueve dos cosas: el derecho a cobrar y la mercadería que sale. En el ejemplo de OpenStax 6.4, una empresa vende el 1 de octubre 55 impresoras a $350 que le habían costado $100 cada una:
@@ -102,4 +104,6 @@ Cómo se calcula cada concepto del recibo, el legajo y las licencias son del tem
 - [Gastos y rendiciones](gastos-y-rendiciones.md): los gastos que paga un empleado, los anticipos a rendir y el fondo fijo.
 - [Costo de lo vendido](costo-de-lo-vendido.md): inventario permanente o periódico, PEPS, promedio ponderado y UEPS, y el valor neto de realización.
 - [Activos fijos y amortización](activos-fijos-y-amortizacion.md): qué se capitaliza, cómo se amortiza, qué pasa al vender un activo, y por qué la amortización no guarda plata.
+- [Activo construido por la propia empresa](activo-construido.md): la obra en curso, qué costos entran (la gente propia, los intereses) y cuándo se deja de sumar; lo argentino, en [activo construido en Argentina](activo-construido-en-argentina.md).
+- [Arrendamientos](arrendamientos.md): el derecho de uso y el pasivo por arrendamiento de la NIIF 16, con un ejemplo a cinco años; lo argentino, en [arrendamientos en Argentina](arrendamientos-en-argentina.md), donde las empresas que no cotizan siguen separando financieros y operativos.
 - [Moneda extranjera](moneda-extranjera.md): moneda funcional, conversión y diferencia de cambio.
