@@ -45,9 +45,9 @@ Vickrey et al. (2015) revisaron cómo se implementa. Según su abstract, «instr
 
 La misma página de Wikipedia agrega dos límites que no se verificaron en su fuente: la eficacia puede depender del conocimiento previo (citando a Vickrey 2015), y un ensayo aleatorizado de 2021 en fisiología respiratoria (Mohammad et al.) no encontró diferencia frente al trabajo grupal convencional. Lo primero conecta con el [conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md): discutir sirve si hay algo que discutir.
 
-## Tutoría entre pares: lo que da el EEF
+## Tutoría entre pares: lo que da la EEF
 
-En la tutoría entre pares un estudiante le enseña a otro, a veces de la misma edad y a veces mayor. El Toolkit del EEF, según el buscador (la página dio 403 y las versiones discrepan):
+En la tutoría entre pares un estudiante le enseña a otro, a veces de la misma edad y a veces mayor. El Toolkit de la EEF, según el buscador (la página dio 403 y las versiones discrepan):
 
 | Dato | Versión actual | Versiones anteriores |
 |---|---|---|
@@ -62,7 +62,7 @@ El mayor beneficio aparece en estudiantes de bajo rendimiento y con necesidades 
 La evidencia más cercana a enseñar tecnología a adultos quedó sin verificar en esta base: la reducción de reprobados con instrucción entre pares en computación de Porter, Bailey Lee y Simon (2013) y el metaanálisis de programación en pareja de Umapathy y Ritzhaupt (2017). Todo lo de esta nota es de escuela o de grado en ciencias; usarlo con adultos que aprenden un oficio es inferencia.
 
 > [!NOTE]
-> Sin fuente todavía: las cifras de Porter et al. (2013) y de Umapathy y Ritzhaupt (2017), el texto de Crouch y Mazur (2001) y la página vigente del EEF sobre tutoría entre pares.
+> Sin fuente todavía: las cifras de Porter et al. (2013) y de Umapathy y Ritzhaupt (2017), el texto de Crouch y Mazur (2001) y la página vigente de la EEF sobre tutoría entre pares.
 
 ## Qué leer
 

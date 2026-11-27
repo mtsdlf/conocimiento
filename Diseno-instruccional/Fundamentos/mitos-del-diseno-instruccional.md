@@ -20,32 +20,26 @@ revisado:
 
 Los mitos del diseño instruccional son afirmaciones que circulan en la formación de adultos y en las empresas sin la evidencia que se les supone: la regla 70-20-10, que los adultos necesitan otra pedagogía, que quien aprende sabe qué le conviene, que ADDIE es un modelo probado y que Bloom es un orden de enseñanza.
 
-Son los mitos propios del oficio de diseñar cursos. Los del área entera (estilos de aprendizaje, la pirámide del aprendizaje o cono de Dale, los hemisferios, el 10 % del cerebro) los tratan [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) y [Didáctica](../../Didactica/didactica.md); el de los estilos ya está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md). Forma parte de los [fundamentos del diseño instruccional](fundamentos-de-diseno-instruccional.md).
+Son los mitos propios del oficio de diseñar cursos. Los del área entera (estilos de aprendizaje, la pirámide del aprendizaje o cono de Dale, los hemisferios, el 10 % del cerebro) los tratan los [mitos del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/mitos-del-aprendizaje.md) y los [mitos de la enseñanza](../../Didactica/Fundamentos/mitos-de-la-ensenanza.md); el de los estilos está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md). Forma parte de los [fundamentos del diseño instruccional](fundamentos-de-diseno-instruccional.md).
 
 ## La tabla
 
 | Mito | Qué se dice | Estado | Dónde está el detalle |
 |---|---|---|---|
 | Regla 70-20-10 | El 70 % se aprende en el trabajo, el 20 % con otros y el 10 % en cursos | Cayó como dato; queda como eslogan | [Aprender en el trabajo](../Formatos/aprender-en-el-trabajo.md) |
-| Los adultos aprenden distinto | Los adultos necesitan métodos propios, no los de los chicos | Se achicó: sirve como lista de buenas prácticas, no como teoría con evidencia propia | Abajo y en [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md) |
-| Quien aprende sabe qué le conviene | Dejar elegir cómo y qué aprender mejora el aprendizaje | Se achicó; en disputa para el control de quien aprende en general | Abajo |
+| Los adultos aprenden distinto | Los adultos necesitan métodos propios, no los de los chicos | Se achicó: sirve como lista de buenas prácticas, no como teoría con evidencia propia | [Andragogía](../../Ciencias-del-aprendizaje/Fundamentos/andragogia.md); lo que cambia para el diseño, abajo |
+| Quien aprende sabe qué le conviene | Dejar elegir cómo y qué aprender mejora el aprendizaje | Se achicó; en disputa para el control de quien aprende en general | [Mitos de la enseñanza](../../Didactica/Fundamentos/mitos-de-la-ensenanza.md#que-quien-aprende-elija); lo que cambia para el diseño, abajo |
 | ADDIE es un modelo probado | Seguir las cinco fases garantiza un buen curso | No hay modelo original ni evidencia comparativa | [ADDIE y SAM](../Modelos-de-diseno/addie-y-sam.md) |
 | Bloom es un orden de enseñanza | Primero recordar, después comprender, después aplicar | La revisión de 2001 aflojó la jerarquía; los datos no sostienen la estructura acumulativa | [Taxonomía de Bloom](../Objetivos-de-aprendizaje/taxonomia-de-bloom.md) |
 | Mostrar los objetivos mejora el aprendizaje | Empezar cada clase con la lista de objetivos | Se achicó: efecto chico y focalizado, mejora lo cubierto y empeora lo incidental | [Objetivos de aprendizaje](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md) |
 
 ## Los adultos aprenden distinto
 
-La andragogía de Knowles sostiene que los adultos son autodirigidos, traen experiencia y aprenden por problemas, y que por eso necesitan otra pedagogía. Las críticas, citadas por Henschke, que defiende la andragogía:
-
-- Brookfield (1986): no es una teoría probada.
-- Hanson (1996): hay que dejar de buscar una teoría separada, porque hay chicos con experiencias más ricas que algunos adultos.
-- Rachal (2000): revisó 19 estudios y halló casi nula evidencia empírica de que la andragogía dé mejores resultados.
-
-Los principios, además, pasaron de cuatro a seis con los años. Lo que sí muestra la ciencia cognitiva es que la eficacia de una técnica cambia con el conocimiento previo, por el efecto de inversión de la experticia; que eso explique lo que la andragogía atribuye a la edad es una lectura del informe de esta base. La crítica completa a la andragogía como teoría del adulto es de [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md).
+Los supuestos de Knowles y las críticas de Brookfield, Hanson y Rachal están en [andragogía](../../Ciencias-del-aprendizaje/Fundamentos/andragogia.md), de Ciencias del aprendizaje. Para quien diseña, la consecuencia es no justificar con la edad lo que depende de cuánto sabe la persona: la eficacia de una técnica cambia con el conocimiento previo, por el efecto de [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md). Que eso explique lo que la andragogía atribuye a la edad es una lectura del informe de esta base. Cómo se averigua con qué llega cada uno está en [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md).
 
 ## Quien aprende sabe qué le conviene
 
-Kirschner y van Merriënboer (2013) agrupan tres «leyendas urbanas» que comparten la misma premisa: el aprendiz como nativo digital, como alguien con un estilo de aprendizaje propio y como autoeducador. Las tres son variantes de «el aprendiz es quien mejor sabe». La evidencia sobre dar control a quien aprende, y sobre cuándo sus elecciones son buenas, no se verificó en esta base. Lo que importa para el diseño es no delegar en quien aprende decisiones de secuencia y de práctica que un novato no puede tomar bien, sin descartar que alguien con experiencia sí pueda.
+Las tres «leyendas urbanas» de Kirschner y van Merriënboer (2013), variantes de «el aprendiz es quien mejor sabe», están en [mitos de la enseñanza](../../Didactica/Fundamentos/mitos-de-la-ensenanza.md#que-quien-aprende-elija). La evidencia sobre dar control a quien aprende, y sobre cuándo sus elecciones son buenas, no se verificó en esta base. Lo que importa para el diseño es no delegar en quien aprende decisiones de secuencia y de práctica que un novato no puede tomar bien, sin descartar que alguien con experiencia sí pueda.
 
 ## Por qué prenden
 

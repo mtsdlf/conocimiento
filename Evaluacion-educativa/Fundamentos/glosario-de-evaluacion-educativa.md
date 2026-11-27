@@ -16,7 +16,7 @@ revisado:
 
 Los términos de la evaluación educativa, cada uno con una definición corta y la nota donde se explica. Sirve para entrar al tema por una palabra.
 
-Las definiciones resumen las notas enlazadas, que tienen las fuentes. Los términos de toda el área Pedagogía (tamaño de efecto, metaanálisis, alineación constructiva) están en [Didáctica](../../Didactica/didactica.md) y en el [glosario de psicología](../../Psicologia/Fundamentos/glosario-de-psicologia.md).
+Las definiciones resumen las notas enlazadas, que tienen las fuentes. Los términos de toda el área Pedagogía están en otros glosarios: tamaño de efecto y metaanálisis, en el [glosario de didáctica](../../Didactica/Fundamentos/glosario-de-didactica.md); alineación constructiva, en el [glosario de diseño instruccional](../../Diseno-instruccional/Fundamentos/glosario-de-diseno-instruccional.md); y lo de la psicología en general, en el [glosario de psicología](../../Psicologia/Fundamentos/glosario-de-psicologia.md).
 
 | Término | Definición |
 |---|---|

@@ -50,7 +50,7 @@ Ryan y Deci citan a Su y Reeve (2011): diecinueve estudios en los que docentes r
 >
 > **Falta una evaluación independiente.** Ryan y Deci escriben una revisión de su propia teoría, y Ryan es coautor de Howard et al. Esta base no encontró una revisión de la autodeterminación en educación hecha por un grupo ajeno. La lectura de Lazowski y Hulleman tampoco se verificó en su fuente.
 
-Lo que la base puede afirmar es la dirección: en estudiantes, la motivación propia se asocia con mejores resultados que la impuesta. El tamaño del efecto de enseñar distinto sigue sin una fuente independiente.
+Lo que la base puede afirmar es la dirección: en estudiantes, la motivación propia se asocia con mejores resultados que la impuesta. El tamaño de efecto de enseñar distinto sigue sin una fuente independiente.
 
 ## Aplicado a adultos y a cursos técnicos
 

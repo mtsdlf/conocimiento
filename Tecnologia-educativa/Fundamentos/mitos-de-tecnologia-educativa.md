@@ -22,7 +22,7 @@ revisado:
 
 Los mitos de la tecnología educativa son creencias muy difundidas sobre aprender con tecnología que la evidencia desmiente o achica: los nativos digitales, la multitarea, que más dispositivos dan más aprendizaje, que un video debe durar seis minutos y que la baja finalización prueba que en línea no se aprende.
 
-Los mitos generales del aprendizaje (los estilos de aprendizaje, la pirámide del aprendizaje) no se tratan acá: el de los estilos está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md) y los demás los reúnen [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) y [Didáctica](../../Didactica/didactica.md).
+Los mitos generales del aprendizaje (los estilos de aprendizaje, la pirámide del aprendizaje) no se tratan acá: el de los estilos está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md) y los demás los reúnen los [mitos del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/mitos-del-aprendizaje.md) y los [mitos de la enseñanza](../../Didactica/Fundamentos/mitos-de-la-ensenanza.md).
 
 ## La tabla
 
@@ -38,7 +38,7 @@ Los mitos generales del aprendizaje (los estilos de aprendizaje, la pirámide de
 
 El término lo popularizó Prensky en 2001. Kirschner y De Bruyckere (2017) lo rechazan con una frase: «there is no digital native who is information-skilled simply by virtue of having grown up digital». Prensky replicó que el artículo supone que la educación actual seguirá vigente.
 
-Kirschner y van Merriënboer (2013) lo ponen junto a otras dos leyendas: el aprendiz con un estilo de aprendizaje propio y el aprendiz como autoeducador. Las tres son variantes de una misma idea, que el aprendiz es quien mejor sabe cómo aprender, y la evidencia no la acompaña. La consecuencia práctica, como lectura de esta base: saber usar una aplicación no es saber buscar y evaluar información, y no conviene saltear la enseñanza explícita de cómo usar una herramienta o cómo buscar información porque el grupo «es joven».
+Kirschner y van Merriënboer (2013) lo ponen junto a otras dos leyendas que comparten la idea de que el aprendiz es quien mejor sabe cómo aprender; las tres están en [mitos de la enseñanza](../../Didactica/Fundamentos/mitos-de-la-ensenanza.md#que-quien-aprende-elija). La consecuencia práctica, como lectura de esta base: saber usar una aplicación no es saber buscar y evaluar información, y no conviene saltear la instrucción explícita de cómo usar una herramienta o cómo buscar información porque el grupo «es joven».
 
 ## Multitarea
 

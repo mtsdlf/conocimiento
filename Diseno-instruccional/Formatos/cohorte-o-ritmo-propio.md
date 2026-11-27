@@ -15,7 +15,7 @@ revisado:
 
 Un curso por cohorte avanza con un grupo que empieza y termina junto, con fechas; uno a ritmo propio deja que cada uno avance cuando puede. No se encontró evidencia comparativa de cuál enseña más o retiene más gente: lo que hay es práctica de escuelas, sin datos auditados.
 
-Es el eje del ritmo y la estructura social dentro de los [formatos](formatos.md). Es independiente del medio: hay cohortes en línea y cursos presenciales a ritmo propio. La pregunta de por qué abandonan tantos en los cursos en línea masivos es de [Tecnología educativa](../../Tecnologia-educativa/tecnologia-educativa.md); la de cómo se organiza alguien que estudia solo, de [aprender por cuenta propia](../../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md).
+Es el eje del ritmo y la estructura social dentro de los [formatos](formatos.md). Es independiente del medio: hay cohortes en línea y cursos presenciales a ritmo propio. La pregunta de por qué abandonan tantos en los cursos en línea masivos está en [finalización de MOOC](../../Tecnologia-educativa/Aprendizaje-en-linea/finalizacion-de-mooc.md); la de cómo se organiza alguien que estudia solo, de [aprender por cuenta propia](../../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md).
 
 ## Qué decide cada opción
 

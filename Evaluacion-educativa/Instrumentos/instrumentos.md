@@ -16,11 +16,11 @@ revisado:
 
 Un instrumento de evaluación es la forma concreta de obtener evidencia de lo aprendido: una prueba de opción múltiple, una tarea de desempeño, un proyecto, una rúbrica para corregirlos o el juicio de la propia persona y de sus pares. Cada uno cambia precisión por realismo.
 
-El instrumento se elige después del [propósito](../Propositos/propositos.md): no es lo mismo practicar que ubicar o acreditar. Lo que permite afirmar cada instrumento se juzga con [validez y confiabilidad](../Validez-confiabilidad-y-equidad/validez-confiabilidad-y-equidad.md), y el resultado puede terminar en una [nota](../Calificacion-y-acreditacion/calificacion-y-acreditacion.md). Qué tiene que poder hacer alguien al terminar, que es lo que el instrumento debería pedir, lo fija el [diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md).
+El instrumento se elige después del [propósito](../Propositos/propositos.md): no es lo mismo practicar que ubicar o acreditar. Lo que permite afirmar cada instrumento se juzga con [validez y confiabilidad](../Validez-confiabilidad-y-equidad/validez-confiabilidad-y-equidad.md), y el resultado puede terminar en una [nota](../Calificacion-y-acreditacion/calificacion-y-acreditacion.md). Qué tiene que poder hacer alguien al terminar, que es lo que el instrumento debería pedir, lo fijan los [objetivos de aprendizaje](../../Diseno-instruccional/Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md), de Diseño instruccional.
 
 ## Entre lo cerrado y lo auténtico
 
-Los instrumentos se ordenan en una línea. En un extremo, la pregunta cerrada: muchas preguntas por hora, corrección barata y consistente, pero alejada de lo que se hace en el trabajo. En el otro, la tarea auténtica: hacer algo parecido a lo real, con más realismo y menos preguntas, cada una con más ruido.
+Los instrumentos se ordenan en una línea. En un extremo, la pregunta cerrada: muchas preguntas por hora, corrección barata y consistente, pero alejada de lo que se hace en el trabajo. En el otro, la tarea auténtica (la clase de tarea que el modelo [4C/ID](../../Diseno-instruccional/Modelos-de-diseno/4c-id.md) pone en el centro del curso): hacer algo parecido a lo real, con más realismo y menos preguntas, cada una con más ruido.
 
 | | Pregunta cerrada | Tarea de desempeño |
 |---|---|---|

@@ -21,7 +21,7 @@ revisado:
 
 La autoexplicación es pedirle a quien aprende que explique, con sus palabras, por qué un paso es correcto o cómo llegó a una respuesta. Aparece en las revisiones como uno de los apoyos que hacen funcionar la enseñanza guiada, aunque los estudios clásicos del tema no se leyeron.
 
-Es la forma más exigente de las [preguntas en clase](preguntas-en-clase.md): no pide el resultado sino el porqué. Se usa sobre todo con [ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md), para que quien aprende no los lea de corrido, y en la [tutoría](../Tutoria-y-mentoria/tutoria.md), donde quien tutorea pregunta en lugar de explicar. El mecanismo de por qué generar una explicación deja más que leerla es tema de [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md).
+Es la forma más exigente de las [preguntas en clase](preguntas-en-clase.md): no pide el resultado sino el porqué. Se usa sobre todo con [ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md), para que quien aprende no los lea de corrido, y en la [tutoría](../Tutoria-y-mentoria/tutoria.md), donde quien tutorea pregunta en lugar de explicar. El mecanismo de por qué generar una explicación deja más que leerla es el [efecto de generación](../../Ciencias-del-aprendizaje/Memoria-y-practica/dificultades-deseables.md#el-efecto-de-generación), una de las dificultades deseables.
 
 ## Dónde aparece en la evidencia
 

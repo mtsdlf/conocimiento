@@ -40,7 +40,7 @@ Tres consecuencias para medir lo aprendido, como lectura de esta base a partir d
 2. Medí con tareas nuevas, no con las mismas que se practicaron, porque eso es lo que separa aprendizaje de rendimiento según la definición.
 3. No tomes la comodidad del grupo durante la práctica como señal de que aprendió.
 
-Cómo se arma una evaluación con esos criterios es tema de [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md). Un caso de la distinción con asistentes de IA, donde el rendimiento sube mientras se practica sin que necesariamente suba lo aprendido, está en [enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md).
+Cómo se arma una evaluación con esos criterios es tema de Evaluación educativa; que la prueba sostenga lo que se concluye de ella es su [validez](../../Evaluacion-educativa/Validez-confiabilidad-y-equidad/validez.md). Un caso de la distinción con asistentes de IA, donde el rendimiento sube mientras se practica sin que necesariamente suba lo aprendido, está en [enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md).
 
 ## Qué leer
 

@@ -45,7 +45,7 @@ La consecuencia es doble. Quien cree saber deja de estudiar antes de tiempo (es 
 
 El Toolkit de la EEF ubica la metacognición y la autorregulación entre las prácticas de más efecto y menor costo. El número circula en dos versiones: +8 meses de progreso por año en la página actual, según el buscador, y +7 en otras páginas y en la noticia de su guía (primaria +8, secundaria +7). La evidencia figura como "alta", aunque muchos estudios no tuvieron evaluación independiente. Cómo leer esos meses está en [Fundamentos](../Fundamentos/fundamentos-de-ciencias-del-aprendizaje.md). El detalle de los metaanálisis está en [aprendizaje autorregulado](aprendizaje-autorregulado.md).
 
-> [!NOTE] Sin fuente todavía: el número vigente del EEF leído en la página (dio 403) y las siete recomendaciones de su guía *Metacognition and self-regulated learning*.
+> [!NOTE] Sin fuente todavía: el número vigente de la EEF leído en la página (dio 403) y las siete recomendaciones de su guía *Metacognition and self-regulated learning*.
 
 ## Lo que hay adentro
 

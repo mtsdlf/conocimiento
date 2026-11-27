@@ -16,7 +16,7 @@ revisado:
 
 Los términos de la didáctica que usa este tema, con una definición de una línea y la nota donde se desarrollan. Los términos de las teorías del aprendizaje viven en Ciencias del aprendizaje.
 
-Las definiciones de una línea se contrastaron casi todas contra enciclopedias; la fuente primaria está en la nota enlazada. Conductismo, cognitivismo, constructivismo, sociocultural, conectivismo, zona de desarrollo próximo, memoria de trabajo, metacognición, transferencia y práctica de recuperación son de [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md); los de evaluación (formativa, sumativa, validez), de [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md).
+Las definiciones de una línea se contrastaron casi todas contra enciclopedias; la fuente primaria está en la nota enlazada. Conductismo, cognitivismo, constructivismo, sociocultural, conectivismo, zona de desarrollo próximo, memoria de trabajo, metacognición, transferencia y práctica de recuperación están en el [glosario de ciencias del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/glosario-de-ciencias-del-aprendizaje.md); los de evaluación (formativa, sumativa, validez), en el [glosario de evaluación educativa](../../Evaluacion-educativa/Fundamentos/glosario-de-evaluacion-educativa.md).
 
 ## Enseñar
 

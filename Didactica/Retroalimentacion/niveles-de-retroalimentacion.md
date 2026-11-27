@@ -22,13 +22,13 @@ Es la primera de las tres decisiones de la [retroalimentación](retroalimentacio
 
 ## Los cuatro niveles y las tres preguntas
 
-Hattie y Timperley (2007) proponen que una buena devolución contesta tres preguntas: «Where am I going?» (la meta), «How am I doing?» (dónde está respecto de la meta) y «Where to next?» (qué hacer para acercarse). Cada pregunta puede trabajarse en cuatro niveles:
+Hattie y Timperley (2007) proponen que una buena retroalimentación contesta tres preguntas: «Where am I going?» (la meta), «How am I doing?» (dónde está respecto de la meta) y «Where to next?» (qué hacer para acercarse). Cada pregunta puede trabajarse en cuatro niveles:
 
 | Nivel | A qué apunta | Ejemplo en una revisión de código |
 |---|---|---|
 | Tarea | Si el producto está bien y qué le falta | «La función no maneja la lista vacía.» |
 | Proceso | Cómo se hizo la tarea, la estrategia | «Probá primero con el caso borde antes de escribir el caso general.» |
-| Autorregulación | Cómo quien aprende controla su propio trabajo | «¿Cómo podrías haber detectado esto vos antes de mandarlo?» |
+| Autorregulación | Cómo quien aprende controla su propio trabajo ([aprendizaje autorregulado](../../Ciencias-del-aprendizaje/Metacognicion-y-autorregulacion/aprendizaje-autorregulado.md)) | «¿Cómo podrías haber detectado esto vos antes de mandarlo?» |
 | Persona | Quién es quien aprende | «Sos muy bueno para esto.» |
 
 Los ejemplos de la tabla son ilustrativos, no de la fuente.
@@ -51,7 +51,7 @@ Wisniewski, Zierer y Hattie (2020) no separan los cuatro niveles, pero sí el ti
 | Correctiva (bien o mal, y la respuesta correcta) | 0,46 | 238 |
 | De alta información (qué, cómo mejorar y por qué) | 0,99 | 42 |
 
-La retroalimentación de alta información duplica a la correctiva, aunque con muchos menos estudios. También importa qué se mide: el efecto sobre resultados cognitivos fue 0,51 y sobre la motivación 0,33, con 21 % de efectos negativos en motivación. Una devolución puede mejorar lo aprendido y bajar las ganas a la vez.
+La retroalimentación de alta información duplica a la correctiva, aunque con muchos menos estudios. También importa qué se mide: el efecto sobre resultados cognitivos fue 0,51 y sobre la motivación 0,33, con 21 % de efectos negativos en motivación. Una retroalimentación puede mejorar lo aprendido y bajar las ganas a la vez.
 
 > [!NOTE] Sin fuente todavía: un análisis que compare los cuatro niveles por separado. Wisniewski et al. (2020) no lo hacen, y en Hattie y Timperley solo se leyó la parte de tamaños de efecto y elogio.
 

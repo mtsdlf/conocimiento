@@ -54,7 +54,7 @@ Sorva (2013) llama máquina nocional a la versión simplificada de la computador
 ## Programar en vivo y aprender entre pares
 
 - **Programar en vivo** (*live coding*): escribir código frente al grupo, con los errores y las correcciones a la vista. Selvaraj et al. (2021) revisaron la literatura y concluyen que «there is a lack of empirical evidence to support claims about the effectiveness of live coding on student learning», aunque se recomienda como una de las mejores prácticas. Lo que sí tiene respaldo general es el [modelado](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) y el pensar en voz alta; programar en vivo es una forma de hacerlo.
-- **Instrucción entre pares** (*peer instruction*): en su forma habitual, una pregunta conceptual, votación individual, discusión con un compañero y nueva votación (descripción de esta base, sin fuente leída). El título de Porter, Bailey Lee y Simon (2013) habla de reducir a la mitad las tasas de reprobación; la cifra exacta no se verificó. La evidencia general del aprendizaje activo está en [aprendizaje activo](../Aprendizaje-activo-e-indagacion/aprendizaje-activo.md).
+- **[Instrucción entre pares](../../Ciencias-del-aprendizaje/Aprender-con-otros/instruccion-entre-pares.md)** (*peer instruction*): en su forma habitual, una pregunta conceptual, votación individual, discusión con un compañero y nueva votación (descripción de esta base, sin fuente leída). El título de Porter, Bailey Lee y Simon (2013) habla de reducir a la mitad las tasas de reprobación; la cifra exacta no se verificó. La evidencia general del aprendizaje activo está en [aprendizaje activo](../Aprendizaje-activo-e-indagacion/aprendizaje-activo.md).
 
 ## Lo que la evidencia no cubre
 

@@ -25,9 +25,9 @@ Kyndt et al. (2013) metaanalizaron el aprendizaje cooperativo cara a cara frente
 > [!NOTE]
 > Sin fuente todavía: los tamaños de efecto y moderadores de Kyndt et al. (2013), y las dos referencias que el campo cita, Johnson y Johnson (2009, *Educational Researcher*) y la tesis de Slavin de «metas grupales más responsabilidad individual».
 
-## Las cifras del EEF y sus versiones
+## Las cifras de la EEF y sus versiones
 
-El Toolkit del EEF traduce el efecto a meses de progreso adicional en un año escolar. Según el buscador (la página dio 403), la versión actual da:
+El Toolkit de la EEF traduce el efecto a meses de progreso adicional en un año escolar. Según el buscador (la página dio 403), la versión actual da:
 
 | Dato | Versión actual | Versión anterior |
 |---|---|---|
@@ -36,7 +36,7 @@ El Toolkit del EEF traduce el efecto a meses de progreso adicional en un año es
 | Por materia | lectoescritura +3, matemática +5, ciencias +10 | — |
 | Versiones digitales | +3 | — |
 
-Costo muy bajo. El mejor resultado aparece en grupos de 3 a 5 con una meta compartida. El buscador avisa que algunos espejos dicen «high impact», etiqueta que no es del EEF. La nota de [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md), en Didáctica, leyó el espejo australiano del Toolkit y da +5 meses sobre 212 estudios, con la condición de que participen los de menor rendimiento; las cifras coinciden en el promedio. Cómo se leen los meses y los candados está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md).
+Costo muy bajo. El mejor resultado aparece en grupos de 3 a 5 con una meta compartida. El buscador avisa que algunos espejos dicen «high impact», etiqueta que no es de la EEF. La nota de [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md), en Didáctica, leyó el espejo australiano del Toolkit y da +5 meses sobre 212 estudios, con la condición de que participen los de menor rendimiento; las cifras coinciden en el promedio. Cómo se leen los meses y los candados está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md).
 
 Que la solidez haya bajado de «extensa» a «limitada» entre versiones no quiere decir que el efecto haya desaparecido; quiere decir que la EEF endureció sus criterios. Es lectura de esta base, coherente con lo que el Toolkit explica de sus candados.
 
@@ -50,4 +50,4 @@ Toda la evidencia leída es escolar. Trasladarla a un curso para adultos o a un 
 
 ## Qué leer
 
-La página actual del Toolkit del EEF sobre *collaborative learning approaches*, fijándose en el candado de evidencia y en las condiciones de implementación; y Kyndt et al. (2013) para los moderadores, cuando se consiga el texto.
+La página actual del Toolkit de la EEF sobre *collaborative learning approaches*, fijándose en el candado de evidencia y en las condiciones de implementación; y Kyndt et al. (2013) para los moderadores, cuando se consiga el texto.

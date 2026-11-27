@@ -17,7 +17,7 @@ revisado:
 
 Un tutor inteligente es un programa que guía a quien aprende paso a paso dentro de un problema: sigue cada acción, estima qué sabe y decide qué pista dar y qué problema poner después. Es la familia de tecnología educativa con más evidencia, y la base de los tutores con IA.
 
-Dentro de [Tecnología educativa](../tecnologia-educativa.md) es la parte que intenta automatizar lo que hace un tutor humano. Le presta su arquitectura y su escalera de pistas a [IA en la educación](../IA-en-la-educacion/ia-en-la-educacion.md): un tutor con un modelo de lenguaje que no regala respuestas está haciendo, con otra tecnología, lo que estos sistemas hacen desde los años 80. Le presta su estimación de lo que sabe cada alumno a la [práctica adaptativa](../Practica-adaptativa/practica-adaptativa.md). La tutoría humana, con la que se los compara, está en [Didáctica](../../Didactica/didactica.md).
+Dentro de [Tecnología educativa](../tecnologia-educativa.md) es la parte que intenta automatizar lo que hace un tutor humano. Le presta su arquitectura y su escalera de pistas a [IA en la educación](../IA-en-la-educacion/ia-en-la-educacion.md): un tutor con un modelo de lenguaje que no regala respuestas está haciendo, con otra tecnología, lo que estos sistemas hacen desde los años 80. Le presta su estimación de lo que sabe cada alumno a la [práctica adaptativa](../Practica-adaptativa/practica-adaptativa.md). La [tutoría](../../Didactica/Tutoria-y-mentoria/tutoria.md) humana, con la que se los compara, está en Didáctica.
 
 ## Cómo trabaja un tutor inteligente
 
@@ -29,7 +29,7 @@ La pieza más visible del modelo pedagógico es la [escalera de pistas](pistas-d
 
 Los metaanálisis dan efectos de medianos a grandes. Ma et al. (2014) encontraron una ventaja de g = 0,42 frente a la clase grupal dirigida por un docente y ninguna diferencia significativa frente a la tutoría humana individual. VanLehn (2011), según su resumen, estimó d = 0,76 para los tutores inteligentes y d = 0,79 para la tutoría humana.
 
-El mejor ensayo a escala da menos. En el ensayo aleatorizado de Pane et al. (2014) con el Cognitive Tutor de Álgebra en 147 escuelas, el efecto en secundaria fue nulo el primer año y de unos 0,20 desvíos el segundo, según RAND. La distancia entre una cifra y otra es la lección de la vertical, y está en [evidencia de los tutores inteligentes](evidencia-de-los-tutores-inteligentes.md).
+El mejor ensayo a escala da menos. En el ensayo aleatorizado de Pane et al. (2014) con el Cognitive Tutor de Álgebra en 147 escuelas, el efecto en secundaria fue nulo el primer año y de unas 0,20 desviaciones estándar el segundo, según RAND. La distancia entre una cifra y otra es la lección de la vertical, y está en [evidencia de los tutores inteligentes](evidencia-de-los-tutores-inteligentes.md).
 
 Todo lo medido es escolar o universitario, y el ensayo a escala es de álgebra. Que funcione igual para un adulto que aprende un oficio técnico es inferencia de esta base.
 

@@ -44,7 +44,7 @@ Dos lecturas erróneas de la zona, que recoge la misma literatura secundaria: qu
 
 Tres hallazgos de las técnicas apuntan a lo mismo: el beneficio depende de lo que cada uno hace dentro del grupo.
 
-- En aprendizaje cooperativo, el EEF encuentra mejores resultados con grupos de 3 a 5 con meta compartida (según el buscador; ver [aprendizaje cooperativo](aprendizaje-cooperativo.md)).
+- En aprendizaje cooperativo, la EEF encuentra mejores resultados con grupos de 3 a 5 con meta compartida (según el buscador; ver [aprendizaje cooperativo](aprendizaje-cooperativo.md)).
 - En instrucción entre pares, discutir con un compañero mejora la comprensión «even when none of the students in a discussion group originally knows the correct answer» (Smith et al. 2009, abstract).
 - Al enseñar a otro, el beneficio crece con la interactividad: enseñar cara a cara supera a grabar una explicación (Kobayashi 2018, abstract).
 
@@ -60,6 +60,6 @@ Ningún estudio leído de esta vertical es de adultos en capacitación técnica:
 ## Qué hay adentro
 
 - [Aprendizaje situado](aprendizaje-situado.md): Lave y Wenger y las comunidades de práctica, una perspectiva para analizar, no un método, y su crítica cognitiva.
-- [Aprendizaje cooperativo](aprendizaje-cooperativo.md): grupos con meta común; el metaanálisis de Kyndt y las dos versiones del EEF.
+- [Aprendizaje cooperativo](aprendizaje-cooperativo.md): grupos con meta común; el metaanálisis de Kyndt y las dos versiones de la EEF.
 - [Instrucción entre pares](instruccion-entre-pares.md): la técnica de Mazur y la tutoría entre pares, con lo que se midió y lo que se rompe al adaptarlas.
 - [Aprender enseñando](aprender-ensenando.md): el efecto protégé, que depende de cuánta interacción haya.

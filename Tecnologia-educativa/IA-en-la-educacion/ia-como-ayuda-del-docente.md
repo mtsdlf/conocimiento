@@ -17,7 +17,7 @@ revisado:
 
 La IA como ayuda del docente es un modelo de lenguaje que le sugiere a un tutor humano qué decir o le redacta los mensajes para que los apruebe, sin hablar directo con el alumno. Los dos ensayos que lo prueban dan resultados positivos, pero ninguno tiene revisión por pares.
 
-Es el rol intermedio entre [la IA como tutor](ia-como-tutor.md), donde el modelo habla con el alumno, y la tutoría humana sola, que cubre [Didáctica](../../Didactica/didactica.md). La persona queda en el medio y filtra lo que dice el modelo.
+Es el rol intermedio entre [la IA como tutor](ia-como-tutor.md), donde el modelo habla con el alumno, y la [tutoría](../../Didactica/Tutoria-y-mentoria/tutoria.md) humana sola, que cubre Didáctica. La persona queda en el medio y filtra lo que dice el modelo.
 
 ## Tutor CoPilot: sugerencias en vivo para tutores con poca experiencia
 
@@ -33,4 +33,4 @@ En el ensayo exploratorio del equipo de LearnLM (Google) y Eedi, con 165 alumnos
 
 Lo que tienen en común los dos estudios, como lectura de esta base: el beneficio mayor aparece donde el humano sabe menos (los tutores peor calificados en Tutor CoPilot), y el humano cumple la función de guarda que en [la IA como tutor](ia-como-tutor.md) cumplen las instrucciones. Es una forma de escalar a tutores con poca formación, no de reemplazarlos.
 
-Es frágil por la evidencia: dos estudios, ninguno con revisión por pares, uno con coautoría del proveedor, resultados medidos en pruebas cercanas a la sesión y no en exámenes externos, y todos escolares. Para capacitar adultos (por ejemplo, un mentor técnico que usa IA para preparar sus devoluciones) no hay estudios; la extensión es inferencia.
+Es frágil por la evidencia: dos estudios, ninguno con revisión por pares, uno con coautoría del proveedor, resultados medidos en pruebas cercanas a la sesión y no en exámenes externos, y todos escolares. Para capacitar adultos (por ejemplo, un mentor técnico que usa IA para preparar su retroalimentación) no hay estudios; la extensión es inferencia.

@@ -29,15 +29,15 @@ Wiliam ordena la evaluación formativa en cinco estrategias, según el resumen d
 
 1. Aclarar y compartir las intenciones de aprendizaje y los criterios de éxito.
 2. Provocar evidencia de lo que se aprendió (preguntas, tareas, discusiones).
-3. Dar devoluciones que hagan avanzar.
+3. Dar retroalimentación que haga avanzar.
 4. Activar a quienes aprenden como dueños de su aprendizaje.
 5. Activarlos como recursos de aprendizaje de los otros.
 
-La quinta no aparece descrita en el resumen leído; se la toma de la formulación conocida del libro y hay que verificarla. La primera se apoya en criterios explícitos, que es lo que da una [rúbrica](../Instrumentos/rubrica.md); la cuarta y la quinta usan la [autoevaluación y la evaluación entre pares](../Instrumentos/autoevaluacion-y-evaluacion-entre-pares.md). La tercera, la devolución, es una práctica de enseñanza y vive en [Didáctica](../../Didactica/didactica.md).
+La quinta no aparece descrita en el resumen leído; se la toma de la formulación conocida del libro y hay que verificarla. La primera se apoya en criterios explícitos, que es lo que da una [rúbrica](../Instrumentos/rubrica.md); la cuarta y la quinta usan la [autoevaluación y la evaluación entre pares](../Instrumentos/autoevaluacion-y-evaluacion-entre-pares.md). La tercera, la retroalimentación, es una práctica de enseñanza: qué la hace buena está en [retroalimentación](../../Didactica/Retroalimentacion/retroalimentacion.md), de Didáctica.
 
-## La devolución solo cuenta si se usa
+## La retroalimentación solo cuenta si se usa
 
-Sadler (1989) define la devolución como información sobre la brecha entre el nivel actual y el de referencia, y dice que solo es devolución si se usa para cerrar esa brecha. Para eso, quien aprende tiene que entender el estándar y saber juzgar su propio trabajo. Según el resumen, los sistemas que no desarrollan esa pericia evaluativa «set up artificial but potentially removable performance ceilings».
+Sadler (1989) define la retroalimentación como información sobre la brecha entre el nivel actual y el de referencia, y dice que solo es retroalimentación si se usa para cerrar esa brecha. Para eso, quien aprende tiene que entender el estándar y saber juzgar su propio trabajo. Según el resumen, los sistemas que no desarrollan esa pericia evaluativa «set up artificial but potentially removable performance ceilings».
 
 La consecuencia práctica es que una evaluación formativa que devuelve solo un puntaje no cierra la brecha. Butler (1988) encontró que agregar una nota a los comentarios anula su efecto; está en [notas y comentarios](../Calificacion-y-acreditacion/notas-y-comentarios.md).
 
@@ -54,12 +54,12 @@ El rango salía en buena parte de una revisión de 1986 sobre educación especia
 >
 > **Bennett (2011)** sostiene que algunas afirmaciones de eficacia están sobrestimadas y que el término mismo está mal definido.
 
-La cifra que más circula en guías de docentes es la alta. Para adultos fuera de la escuela no hay estimación. Cómo se lee un tamaño de efecto y por qué los de educación suelen achicarse en ensayos grandes está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
+La cifra que más circula en guías de docentes es la alta. Para adultos fuera de la escuela no hay estimación. Por qué los efectos de educación suelen achicarse en ensayos grandes está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md), y cómo se lee un tamaño de efecto, en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
 
-El EEF Toolkit, que resume evidencia para escuelas inglesas, da a la devolución (*feedback*) unos 6 meses de progreso adicional; otras páginas de la misma fundación hablan de hasta 8, y las cifras no se pudieron verificar en la página. Es devolución, no evaluación formativa entera.
+El Toolkit de la EEF, que resume evidencia para escuelas inglesas, da a la retroalimentación (*feedback*) unos 6 meses de progreso adicional; otras páginas de la misma fundación hablan de hasta 8, y las cifras no se pudieron verificar en la página. Es retroalimentación, no evaluación formativa entera.
 
 ## Cómo falla
 
 - **Se evalúa y no cambia nada.** Se toma la prueba, se anota el resultado y la clase siguiente es la que estaba planeada. Por la definición de Wiliam, eso no es formativo.
 - **Se le pone nota.** La evidencia pasa a contar para la calificación y la gente esconde lo que no sabe.
-- **Se devuelve un número.** Sin decir qué falta ni cómo cerrarlo, la devolución no cumple la condición de Sadler.
+- **Se devuelve un número.** Sin decir qué falta ni cómo cerrarlo, la retroalimentación no cumple la condición de Sadler.

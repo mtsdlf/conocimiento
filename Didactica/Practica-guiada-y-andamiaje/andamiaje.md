@@ -28,7 +28,7 @@ Es el centro de la [práctica guiada](practica-guiada-y-andamiaje.md): lo que pa
 
 Wood, Bruner y Ross (1976) la introdujeron estudiando a un tutor que ayudaba a chicos a armar un rompecabezas de pirámide de madera. Describieron seis funciones del tutor: reclutar el interés, reducir los grados de libertad de la tarea, mantener la dirección, marcar los rasgos críticos, controlar la frustración y demostrar.
 
-Vygotsky nunca usó la palabra. El vínculo con su zona de desarrollo próximo lo hicieron después Cazden (1979) y Bruner (1985), y hay autores, como Lantolf, que sostienen que los dos conceptos se parecen solo en parte. La zona de desarrollo próximo es un concepto de las [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md).
+Vygotsky nunca usó la palabra. El vínculo con su zona de desarrollo próximo lo hicieron después Cazden (1979) y Bruner (1985), y hay autores, como Lantolf, que sostienen que los dos conceptos se parecen solo en parte. La zona de desarrollo próximo se define en la parte sociocultural de las [teorías del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/teorias-del-aprendizaje.md#sociocultural-aprender-primero-con-otros).
 
 ## Los tres rasgos que lo definen
 
@@ -40,7 +40,7 @@ La revisión de van de Pol, Volman y Beishuizen (2010), de acceso abierto, orden
 | Retiro (*fading*) | El nivel o la cantidad de ayuda baja con el tiempo | Planear cómo se saca, no solo cómo se da |
 | Traspaso de la responsabilidad | Quien aprende toma cada vez más control de la tarea | Dejar de resolver por el otro |
 
-Con esos tres rasgos, dar la respuesta no es andamiaje: no hay retiro ni traspaso. El diagnóstico que pide la contingencia lo hacen las [preguntas en clase](../Preguntas-y-dialogo/preguntas-en-clase.md) y lo ajusta la [retroalimentación](../Retroalimentacion/retroalimentacion.md).
+Con esos tres rasgos, dar la respuesta no es andamiaje: no hay retiro ni traspaso. El diagnóstico que pide la contingencia, cuya versión formal es la [evaluación diagnóstica](../../Evaluacion-educativa/Propositos/evaluacion-diagnostica.md), lo hacen las [preguntas en clase](../Preguntas-y-dialogo/preguntas-en-clase.md) y lo ajusta la [retroalimentación](../Retroalimentacion/retroalimentacion.md).
 
 ## «Yo hago, hacemos, hacés»
 

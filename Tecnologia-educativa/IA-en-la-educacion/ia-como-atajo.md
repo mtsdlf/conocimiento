@@ -19,7 +19,7 @@ revisado:
 
 La IA como atajo es usar un modelo de lenguaje para que haga la tarea o el razonamiento en lugar de quien aprende. Sube el rendimiento mientras se la usa y baja lo aprendido: en el único experimento con prueba posterior sin IA, el grupo con chat abierto rindió 17 % menos que quien nunca la usó.
 
-El mecanismo tiene nombre: descarga cognitiva, pasarle a una herramienta un trabajo mental que de otro modo se haría en la cabeza. No es mala en sí (anotar en una agenda es descarga cognitiva), pero aprender consiste justamente en hacer ese trabajo. Lo que se aprende es lo que se practica recuperando y elaborando, como explica [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md); si la IA recupera y elabora, el alumno no.
+El mecanismo tiene nombre: descarga cognitiva (no confundir con la [carga cognitiva](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md), que es lo que ocupa la memoria de trabajo al aprender), pasarle a una herramienta un trabajo mental que de otro modo se haría en la cabeza. No es mala en sí (anotar en una agenda es descarga cognitiva), pero aprender consiste justamente en hacer ese trabajo. Lo que se aprende es lo que se practica recuperando y elaborando, como explica [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md); si la IA recupera y elabora, el alumno no.
 
 ## El experimento: rinde más durante, aprende menos después
 

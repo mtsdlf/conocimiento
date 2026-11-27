@@ -20,7 +20,7 @@ revisado:
 
 ADDIE es la sigla de cinco fases para armar instrucción (análisis, diseño, desarrollo, implementación y evaluación); más que un modelo con autor, es un rótulo para una familia de procesos. SAM es la alternativa iterativa de Michael Allen, con prototipos tempranos. Ninguno tiene evidencia comparativa.
 
-Son los modelos de proceso de proyecto dentro de los [modelos de diseño](modelos-de-diseno.md): dicen en qué fases se trabaja, no qué decidir en cada una. Lo que se decide en cada fase está en las otras verticales: el [análisis previo](../Analisis-previo/analisis-previo.md) es la A; los [objetivos](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md) y la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md), el primer D; los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md), el segundo D; la E, en [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md).
+Son los modelos de proceso de proyecto dentro de los [modelos de diseño](modelos-de-diseno.md): dicen en qué fases se trabaja, no qué decidir en cada una. Lo que se decide en cada fase está en las otras verticales: el [análisis previo](../Analisis-previo/analisis-previo.md) es la A; los [objetivos](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md) y la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md), el primer D; los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md), el segundo D; la E, en [evaluar un programa](../../Evaluacion-educativa/Evaluar-un-programa/evaluar-un-programa.md), de Evaluación educativa.
 
 ## De dónde sale ADDIE
 

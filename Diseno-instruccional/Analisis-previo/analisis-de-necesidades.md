@@ -28,7 +28,7 @@ Mager y Pipe armaron el diagnóstico como un diagrama de flujo: cada pregunta ti
 3. ¿Hay obstáculos? Herramientas que faltan, tiempo, permisos.
 4. ¿Qué consecuencias recibe quien lo hace bien o mal? A veces hacerlo bien se castiga y hacerlo mal no cuesta nada.
 
-Cada respuesta apunta a un remedio distinto: formación, práctica, feedback, quitar obstáculos o cambiar consecuencias. Según una reseña, el libro advierte que «it's a mistake to assume that the answer to any of these problems necessarily involves either information or exhortation». El libro no se leyó y las preguntas exactas salen de fuentes secundarias.
+Cada respuesta apunta a un remedio distinto: formación, práctica, retroalimentación, quitar obstáculos o cambiar consecuencias. Según una reseña, el libro advierte que «it's a mistake to assume that the answer to any of these problems necessarily involves either information or exhortation». El libro no se leyó y las preguntas exactas salen de fuentes secundarias.
 
 ## La matriz de Gilbert
 
@@ -47,6 +47,6 @@ Ninguna de las dos tiene validación empírica de su estructura en lo que se enc
 
 ## Cómo falla
 
-El error típico es saltear el análisis porque alguien ya pidió un curso. La formación termina tapando un problema de herramientas, de incentivos o de proceso, y el desempeño no cambia. Si después se mide el curso con los criterios de [evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md), el resultado culpa a la enseñanza de algo que no era de enseñanza.
+El error típico es saltear el análisis porque alguien ya pidió un curso. La formación termina tapando un problema de herramientas, de incentivos o de proceso, y el desempeño no cambia. Si después se mide el curso con los criterios de [evaluar un programa](../../Evaluacion-educativa/Evaluar-un-programa/evaluar-un-programa.md), el resultado culpa a la enseñanza de algo que no era de enseñanza.
 
 > [!NOTE] Sin fuente todavía: el análisis de necesidades de Kaufman y la distinción entre brecha de desempeño y brecha de formación; citas literales del libro de Mager y Pipe.

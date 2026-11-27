@@ -33,7 +33,7 @@ Para quien califica, la decisión de fondo es contra qué se compara: contra los
 
 ## Lo que la nota le hace a quien la recibe
 
-Una nota no solo informa: cambia la motivación. Según un metaanálisis de Koenka et al., frente a no recibir devolución, las notas mejoraron el logro y empeoraron la motivación; frente a comentarios, empeoraron los dos. Está en [notas y comentarios](notas-y-comentarios.md). Por eso la [evaluación formativa](../Propositos/evaluacion-formativa.md) rinde más sin nota.
+Una nota no solo informa: cambia la motivación. Según un metaanálisis de Koenka et al., frente a no recibir retroalimentación, las notas mejoraron el logro y empeoraron la motivación; frente a comentarios, empeoraron los dos. Está en [notas y comentarios](notas-y-comentarios.md). Por eso la [evaluación formativa](../Propositos/evaluacion-formativa.md) rinde más sin nota.
 
 ## Qué señala un certificado
 

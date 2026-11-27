@@ -52,6 +52,6 @@ Kulik, Kulik y Bangert-Drowns (1990) revisaron 108 evaluaciones controladas y en
 >
 > **El efecto depende de quién arma la prueba.** La misma fuente cita críticas: los efectos grandes aparecen con pruebas hechas por los investigadores y «essentially disappeared» con pruebas estandarizadas, y los grupos de control eran débiles.
 
-El dominio también es la mitad del famoso efecto de dos desviaciones estándar de Bloom, que combinaba tutoría con dominio: está en [problema de las dos sigmas](../Tutoria-y-mentoria/problema-de-las-dos-sigmas.md). Cómo se fija y se mide el nivel de dominio es [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md).
+El dominio también es la mitad del famoso efecto de dos desviaciones estándar de Bloom, que combinaba tutoría con dominio: está en [problema de las dos sigmas](../Tutoria-y-mentoria/problema-de-las-dos-sigmas.md). Cómo se fija y se mide el nivel de dominio está en [calificación por dominio](../../Evaluacion-educativa/Calificacion-y-acreditacion/calificacion-por-dominio.md).
 
 > [!NOTE] Sin fuente todavía: el texto de Kulik et al. (1990) con su tamaño de efecto, la ficha de aprendizaje para el dominio del Toolkit de la EEF y la evidencia posterior a 1990.

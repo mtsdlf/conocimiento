@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Los primeros principios de Merrill y los nueve eventos de Gagné son listas de lo que tiene que tener una buena instrucción: demostrar, hacer aplicar, activar lo previo, integrar, centrarse en tareas, en un caso; ganar la atención, informar objetivos, dar práctica y feedback, en el otro. Sirven para revisar una lección; su evidencia es escasa y de baja calidad.
+  Los primeros principios de Merrill y los nueve eventos de Gagné son listas de lo que tiene que tener una buena instrucción: demostrar, hacer aplicar, activar lo previo, integrar, centrarse en tareas, en un caso; ganar la atención, informar objetivos, dar práctica y retroalimentación, en el otro. Sirven para revisar una lección; su evidencia es escasa y de baja calidad.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -17,9 +17,9 @@ revisado:
 
 # Principios de instrucción
 
-Los primeros principios de Merrill y los nueve eventos de Gagné son listas de lo que tiene que tener una buena instrucción: demostrar, hacer aplicar, activar lo previo, integrar, centrarse en tareas, en un caso; ganar la atención, informar objetivos, dar práctica y feedback, en el otro. Sirven para revisar una lección; su evidencia es escasa y de baja calidad.
+Los primeros principios de Merrill y los nueve eventos de Gagné son listas de lo que tiene que tener una buena instrucción: demostrar, hacer aplicar, activar lo previo, integrar, centrarse en tareas, en un caso; ganar la atención, informar objetivos, dar práctica y retroalimentación, en el otro. Sirven para revisar una lección; su evidencia es escasa y de baja calidad.
 
-Dentro de los [modelos de diseño](modelos-de-diseno.md) son la clase que contesta qué lleva una buena instrucción, no en qué orden trabajar ([ADDIE y SAM](addie-y-sam.md)) ni qué decidir primero ([diseño hacia atrás](diseno-hacia-atras.md)). Se superponen con la [didáctica](../../Didactica/didactica.md), que estudia cómo se enseña una clase concreta: estas listas son el puente entre las dos.
+Dentro de los [modelos de diseño](modelos-de-diseno.md) son la clase que contesta qué lleva una buena instrucción, no en qué orden trabajar ([ADDIE y SAM](addie-y-sam.md)) ni qué decidir primero ([diseño hacia atrás](diseno-hacia-atras.md)). Se superponen con la [didáctica](../../Didactica/didactica.md), que estudia cómo se enseña una clase concreta y tiene su propia lista en los [principios de Rosenshine](../../Didactica/Explicar-y-modelar/principios-de-rosenshine.md): estas listas son el puente entre las dos.
 
 ## Los cinco primeros principios de Merrill
 
@@ -43,7 +43,7 @@ Los nueve eventos salen del trabajo de Gagné sobre las condiciones del aprendiz
 4. Presentar el contenido.
 5. Guiar el aprendizaje.
 6. Provocar el desempeño.
-7. Dar feedback.
+7. Dar retroalimentación.
 8. Evaluar el desempeño.
 9. Favorecer la retención y la transferencia.
 
@@ -65,4 +65,4 @@ Los autores describen los estudios como «generally low quality», con muestras 
 
 ## Cómo se usan sin sobrevenderlas
 
-Como lista de chequeo de una lección ya diseñada sirven: ¿hay una demostración?, ¿hay práctica con feedback?, ¿se activó lo previo?, ¿la lección gira alrededor de una tarea? Lo que no sostienen es la promesa de que seguirlas al pie de la letra produce más aprendizaje que otra forma bien pensada. El segundo evento, informar los objetivos, tiene además su propia evidencia, chica y focalizada, en [objetivos de aprendizaje](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md).
+Como lista de chequeo de una lección ya diseñada sirven: ¿hay una demostración?, ¿hay práctica con retroalimentación?, ¿se activó lo previo?, ¿la lección gira alrededor de una tarea? Lo que no sostienen es la promesa de que seguirlas al pie de la letra produce más aprendizaje que otra forma bien pensada. El segundo evento, informar los objetivos, tiene además su propia evidencia, chica y focalizada, en [objetivos de aprendizaje](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md).

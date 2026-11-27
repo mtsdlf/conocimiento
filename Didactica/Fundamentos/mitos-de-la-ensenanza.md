@@ -14,7 +14,7 @@ fuentes:
   - "Alfieri, Brooks, Aldrich y Tenenbaum (2011), Does discovery-based instruction enhance learning?, Journal of Educational Psychology 103(1):1-18: https://www.fisme.science.uu.nl/publicaties/literatuur/2011_alfieri_discovery_learning.pdf (abstract)"
   - "Kirschner y van Merriënboer (2013), Do learners really know best? Urban legends in education, Educational Psychologist 48(3):169-183: https://research.ou.nl/en/publications/do-learners-really-know-best-urban-legends-in-education/ (según resumen)"
   - "Kirschner y De Bruyckere (2017), The myths of the digital native and the multitasker, Teaching and Teacher Education 67:135-142: https://www.gwern.net/doc/psychology/2017-kirschner.pdf (según resumen)"
-  - "Clardy (2018), 70-20-10 and the Dominance of Informal Learning: A Fact in Search of Evidence, Human Resource Development Quarterly: https://journals.sagepub.com/doi/abs/10.1177/1534484318759399 (según resumen)"
+  - "Clardy (2018), 70-20-10 and the Dominance of Informal Learning: A Fact in Search of Evidence, Human Resource Development Review: https://journals.sagepub.com/doi/abs/10.1177/1534484318759399 (según resumen)"
   - "Henschke (2007), resumen de críticas a la andragogía (Brookfield, Hanson, Rachal): https://www.humanistica.ro/anuare/2007/Anuar%20Humanistica_V_2007/art01Henschke.pdf (según resumen)"
   - "Sisk et al. (2018), Psychological Science 29(4): https://pubmed.ncbi.nlm.nih.gov/29505339/ y Yeager et al. (2019), Nature: https://www.nature.com/articles/s41586-019-1466-y (según resumen)"
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
@@ -28,7 +28,7 @@ revisado:
 
 Los mitos de la enseñanza son creencias muy difundidas sobre cómo enseñar que la evidencia no sostiene o sostiene mucho menos de lo que se dice: la pirámide del aprendizaje, enseñar por estilos o por inteligencias múltiples, dejar descubrir sin guía, la regla 70-20-10 o las dos sigmas de la tutoría. Los creen también los docentes de oficio.
 
-Esta nota es de toda el área Pedagogía y reúne los mitos sobre enseñar. Los mitos sobre cómo funciona el cerebro o la memoria se desarrollan en [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) y en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md), que ya trata los estilos de aprendizaje; acá aparecen solo con su efecto sobre la enseñanza. Cómo juzgar una cifra está en [evidencia en educación](evidencia-en-educacion.md).
+Esta nota es de toda el área Pedagogía y reúne los mitos sobre enseñar. Los mitos sobre cómo funciona el cerebro o la memoria se desarrollan en [mitos del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/mitos-del-aprendizaje.md), de Ciencias del aprendizaje, y en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md), que ya trata los estilos de aprendizaje; acá aparecen solo con su efecto sobre la enseñanza. Cómo juzgar una cifra está en [evidencia en educación](evidencia-en-educacion.md).
 
 ## Cuántos los creen
 
@@ -54,10 +54,10 @@ Las muestras son de docentes escolares y académicos. No hay datos de quienes en
 | Aprender descubriendo solo | El descubrimiento sin guía supera a explicar | Cayó sin guía; vigente con guía | [Guía o descubrimiento](../Aprendizaje-activo-e-indagacion/guia-o-descubrimiento.md) |
 | Quien aprende sabe qué le conviene | Que cada uno elija cómo y qué aprender | Se achicó | Abajo |
 | Las dos sigmas de la tutoría | La tutoría individual sube dos desviaciones estándar | Cayó como cifra: nunca se replicó | [Problema de las dos sigmas](../Tutoria-y-mentoria/problema-de-las-dos-sigmas.md) |
-| Los adultos aprenden distinto | Los adultos necesitan una pedagogía propia (versión fuerte de la andragogía) | Se achicó: sirve como lista de buenas prácticas, no como teoría con evidencia | Abajo y [Diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md) |
-| Regla 70-20-10 | El 70 % se aprende trabajando, el 20 % con otros y el 10 % en cursos | Cayó como dato | Abajo |
-| Nativos digitales | Quien creció con tecnología ya sabe usarla para aprender | Cayó | [Tecnología educativa](../../Tecnologia-educativa/tecnologia-educativa.md) |
-| Mentalidad de crecimiento como programa | Enseñar que la inteligencia es maleable sube las notas | Se achicó: efecto chico, en disputa si vale en grupos focalizados | [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) |
+| Los adultos aprenden distinto | Los adultos necesitan una pedagogía propia (versión fuerte de la andragogía) | Se achicó: sirve como lista de buenas prácticas, no como teoría con evidencia | [Andragogía](../../Ciencias-del-aprendizaje/Fundamentos/andragogia.md) |
+| Regla 70-20-10 | El 70 % se aprende trabajando, el 20 % con otros y el 10 % en cursos | Cayó como dato | [Aprender en el trabajo](../../Diseno-instruccional/Formatos/aprender-en-el-trabajo.md) |
+| Nativos digitales | Quien creció con tecnología ya sabe usarla para aprender | Cayó | [Mitos de tecnología educativa](../../Tecnologia-educativa/Fundamentos/mitos-de-tecnologia-educativa.md#nativos-digitales) |
+| Mentalidad de crecimiento como programa | Enseñar que la inteligencia es maleable sube las notas | Se achicó: efecto chico, en disputa si vale en grupos focalizados | [Mentalidad de crecimiento](../../Ciencias-del-aprendizaje/Motivacion-para-aprender/mentalidad-de-crecimiento.md) |
 
 ## La pirámide del aprendizaje
 
@@ -67,19 +67,13 @@ Lo que la pirámide quiere decir, que practicar rinde más que escuchar, tiene p
 
 ## Estilos e inteligencias múltiples
 
-Los estilos de aprendizaje son el mito más creído (93 % y 96 % en Dekker). La preferencia por un formato existe; lo que no aparece es el beneficio de ajustar la enseñanza a ella. Rogowsky, Calhoun y Tallal (2015) dieron a universitarios el mismo contenido como audiolibro o como texto y no hallaron relación entre la preferencia y el método, ni enseguida ni a las dos semanas. Newton y Miah (2017) encontraron, según un resumen, que el 58 % de 114 académicos británicos cree en ellos y cerca de un tercio los seguiría usando sin evidencia.
+Los estilos de aprendizaje son el mito más creído (93 % y 96 % en Dekker). Qué haría falta para probarlos, según Pashler et al. (2008), está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md#el-mito-de-los-estilos-de-aprendizaje); acá van la prevalencia y un experimento. La preferencia por un formato existe; lo que no aparece es el beneficio de ajustar la enseñanza a ella. Rogowsky, Calhoun y Tallal (2015) dieron a universitarios el mismo contenido como audiolibro o como texto y no hallaron relación entre la preferencia y el método, ni enseguida ni a las dos semanas. Newton y Miah (2017) encontraron, según un resumen, que el 58 % de 114 académicos británicos cree en ellos y cerca de un tercio los seguiría usando sin evidencia.
 
 Las inteligencias múltiples de Gardner son otra cosa: una teoría sobre la inteligencia. Waterhouse (2006) sostiene que carece de respaldo empírico adecuado y no debería aplicarse en educación; Gardner y Moran respondieron que discrepan con varias de sus interpretaciones. Como teoría está en disputa; como método para planear clases, no tiene evidencia. En Dekker, el 71 % de las escuelas británicas y el 67 % de las neerlandesas la usaban, que es exposición y no creencia.
 
 ## Que quien aprende elija
 
 Kirschner y van Merriënboer (2013) agrupan tres «leyendas urbanas» bajo una idea: que quien aprende es quien mejor sabe cómo aprender. Son el nativo digital, el que tiene un estilo y el que se educa solo. La elección no es mala en sí, pero el novato no sabe todavía qué le falta. Esto se cruza con la [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md): cuánta libertad conviene depende de cuánto sabe la persona. La literatura sobre control del aprendiz no se revisó.
-
-## Los adultos y el trabajo
-
-**Andragogía.** Knowles popularizó en 1968 la idea de que los adultos son autodirigidos, traen experiencia y aprenden por problemas, y que por eso necesitan otra pedagogía. Las críticas, citadas por un defensor de la andragogía: Brookfield (1986) dice que no es una teoría probada; Hanson (1996), que hay chicos con experiencias más ricas que algunos adultos; Rachal (2000), revisando 19 estudios, casi no encuentra evidencia de que rinda mejor. Lo que la ciencia cognitiva sí muestra es que cuánto guiar cambia con el conocimiento previo, no con la edad; esa lectura es de esta base.
-
-**70-20-10.** Sale de Lombardo y Eichinger (1996), sobre una encuesta a unos 200 ejecutivos que contaron cómo creían haber aprendido. Clardy (2018) lo llama «a fact in search of evidence» y concluye que hay que dejarlo de lado. Queda como eslogan.
 
 ## Por qué se sostienen
 

@@ -40,6 +40,6 @@ La norma tiene su lugar cuando hay que elegir entre personas con cupo limitado: 
 
 ## Cómo se escribe un criterio
 
-Referir a criterio exige escribir el criterio. Sin una descripción de lo que cuenta como «puede hacerlo», la nota vuelve a ser una comparación implícita con el resto del grupo. La [rúbrica](../Instrumentos/rubrica.md) es la forma habitual de escribirlo, y los objetivos de aprendizaje del curso, que fija el [diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md), son de donde sale.
+Referir a criterio exige escribir el criterio. Sin una descripción de lo que cuenta como «puede hacerlo», la nota vuelve a ser una comparación implícita con el resto del grupo. La [rúbrica](../Instrumentos/rubrica.md) es la forma habitual de escribirlo, y sale de los [objetivos de desempeño](../../Diseno-instruccional/Objetivos-de-aprendizaje/objetivo-de-desempeno.md) del curso; que objetivo, actividad y evaluación pidan lo mismo es la [alineación constructiva](../../Diseno-instruccional/Objetivos-de-aprendizaje/alineacion-constructiva.md).
 
 > [!NOTE] Sin fuente todavía: Glaser (1963) leído, y una fuente académica (no solo Wikipedia) sobre la distinción y sus usos.

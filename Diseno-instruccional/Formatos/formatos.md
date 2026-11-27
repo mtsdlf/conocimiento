@@ -16,7 +16,7 @@ revisado:
 
 El formato es cómo se entrega un curso, y se decide sobre tres ejes independientes: el medio (presencial, en línea o mixto), el ritmo y la estructura social (cohorte o ritmo propio, en vivo o diferido) y el contexto (un curso aparte o el trabajo mismo). Cada eje tiene un nivel de evidencia distinto, de metaanálisis a folklore.
 
-El formato recibe de la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md) el recorrido y de los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md) lo que se va a usar, y decide cómo llega todo eso a quien aprende. La parte técnica de enseñar en línea (plataformas, cursos masivos y su abandono) es de [Tecnología educativa](../../Tecnologia-educativa/tecnologia-educativa.md).
+El formato recibe de la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md) el recorrido y de los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md) lo que se va a usar, y decide cómo llega todo eso a quien aprende. La parte técnica de enseñar en línea (plataformas, cursos masivos y su abandono) está en [aprendizaje en línea](../../Tecnologia-educativa/Aprendizaje-en-linea/aprendizaje-en-linea.md), de Tecnología educativa.
 
 ## Tres ejes, no una lista de formatos
 

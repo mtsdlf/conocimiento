@@ -17,7 +17,7 @@ revisado:
 
 La teoría de los espacios de conocimiento (Doignon y Falmagne) describe lo que sabe alguien como el conjunto de tipos de problema que puede resolver, ordenados por prerrequisitos. El diagnóstico busca la frontera: lo que ya domina y lo que está listo para aprender.
 
-Es la rama de la [evaluación adaptativa](evaluacion-adaptativa.md) que viene de la psicología matemática, y la de mejor fuente en esa vertical. Es también la que mejor se traslada a un grupo chico, porque su regla central es lógica y no estadística. La [evaluación diagnóstica](../Propositos/evaluacion-diagnostica.md) de esta base se apoya en ella. El grafo de prerrequisitos de un curso, como pieza de diseño, es parte del [diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md).
+Es la rama de la [evaluación adaptativa](evaluacion-adaptativa.md) que viene de la psicología matemática, y la de mejor fuente en esa vertical. Es también la que mejor se traslada a un grupo chico, porque su regla central es lógica y no estadística. La [evaluación diagnóstica](../Propositos/evaluacion-diagnostica.md) de esta base se apoya en ella. El grafo de prerrequisitos de un curso, como pieza de diseño, es la [jerarquía de aprendizaje](../../Diseno-instruccional/Secuencia-y-curriculo/jerarquia-de-aprendizaje.md), de Diseño instruccional.
 
 ## Estados, espacios y frontera
 

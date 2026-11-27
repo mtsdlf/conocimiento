@@ -16,7 +16,7 @@ revisado:
 
 Fundamentos reúne lo que cruza todo el tema Tecnología educativa sin ser una de sus partes: la historia de sus promesas incumplidas, los mitos sobre aprender con tecnología, cómo pesar sus fuentes y el vocabulario.
 
-Queda fuera de las cinco partes de [Tecnología educativa](../tecnologia-educativa.md) porque sirve para leer con criterio cualquiera de ellas. Lo que es de toda el área Pedagogía no se repite acá: las teorías del aprendizaje viven en [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md), y cómo leer la evidencia educativa en general, en [Didáctica](../../Didactica/didactica.md).
+Queda fuera de las cinco partes de [Tecnología educativa](../tecnologia-educativa.md) porque sirve para leer con criterio cualquiera de ellas. Lo que es de toda el área Pedagogía no se repite acá: las [teorías del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/teorias-del-aprendizaje.md) están en Ciencias del aprendizaje, y cómo leer la evidencia educativa en general, en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md), de Didáctica.
 
 ## Leer la tecnología educativa con su historia
 

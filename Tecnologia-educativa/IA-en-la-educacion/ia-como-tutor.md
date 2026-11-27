@@ -24,10 +24,10 @@ Es la versión con IA del [tutor inteligente](../Tutores-inteligentes/tutores-in
 
 | Estudio | Diseño | Resultado | Estado |
 |---|---|---|---|
-| Bastani et al. (2025) | Experimento de campo, casi 1.000 alumnos de secundaria, matemática (en Turquía, según el resumen de Wharton) | Durante la práctica, +48 % con un chat tipo ChatGPT y +127 % con un tutor con guardas. Sin la IA: el grupo del chat, 17 % por debajo del control; el del tutor, igual al control | Con revisión por pares (*PNAS*) |
-| Kestin et al. (2025) | Ensayo cruzado, física de primer año en Harvard, otoño de 2023, 194 alumnos analizados | Tutor con GPT-4 frente a clase de aprendizaje activo: mediana del postest 4,5 contra 3,5 (pretest 2,75); ganancia mediana «more than double»; efecto 0,63 en la regresión, 0,73 a 1,3 desvíos en la cuantílica; mediana de 49 minutos en la tarea | Con revisión por pares (*Scientific Reports*) |
-| De Simone et al. (2025) | Ensayo aleatorizado en Edo, Nigeria, seis semanas de inglés extraescolar con Microsoft Copilot (GPT-4) | +0,23 desvíos en inglés, el resultado principal; +0,31 en la evaluación total (inglés, conocimiento de IA y habilidades digitales) | Documento de trabajo del Banco Mundial, sin revisión por pares en lo verificado |
-| Oreopoulos y Low (2026) | Ensayo por conglomerados de dos años, 18 escuelas medias de Tennessee, Khanmigo configurado para no dar respuestas, en matemática remedial | +1,3 percentiles por trimestre: 0,06 a 0,08 desvíos por año, y 0,14 implícitos para un año de uso activo | Documento de trabajo del NBER, sin revisión por pares |
+| Bastani et al. (2025) | Experimento de campo, casi 1.000 alumnos de secundaria, matemática (en Turquía, según el resumen de Wharton) | Durante la práctica, +48 % con un chat tipo ChatGPT y +127 % con un tutor con guardas. Sin la IA: el grupo del chat, 17 % por debajo del control; el del tutor, igual al control (el abstract lo deja en casi sin daño) | Con revisión por pares (*PNAS*) |
+| Kestin et al. (2025) | Ensayo cruzado, física de primer año en Harvard, otoño de 2023, 194 alumnos analizados | Tutor con GPT-4 frente a clase de [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md): mediana del postest 4,5 contra 3,5 (pretest 2,75); ganancia mediana «more than double»; efecto 0,63 en la regresión, 0,73 a 1,3 desviaciones estándar en la cuantílica; mediana de 49 minutos en la tarea | Con revisión por pares (*Scientific Reports*) |
+| De Simone et al. (2025) | Ensayo aleatorizado en Edo, Nigeria, seis semanas de inglés extraescolar con Microsoft Copilot (GPT-4) | +0,23 desviaciones estándar en inglés, el resultado principal; +0,31 en la evaluación total (inglés, conocimiento de IA y habilidades digitales) | Documento de trabajo del Banco Mundial, sin revisión por pares en lo verificado |
+| Oreopoulos y Low (2026) | Ensayo por conglomerados de dos años, 18 escuelas medias de Tennessee, Khanmigo configurado para no dar respuestas, en matemática remedial | +1,3 percentiles por trimestre: 0,06 a 0,08 desviaciones estándar por año, y 0,14 implícitos para un año de uso activo | Documento de trabajo del NBER, sin revisión por pares |
 
 Cada uno tiene límites que cambian cómo se lo lee. Kestin et al. es una sola asignatura, un solo tema y una sola vez, sin retención a largo plazo; la precisión del tutor dependió de soluciones escritas de antemano por los docentes, y armar la plataforma llevó «several months». En De Simone et al., la asistencia fue irregular por inundaciones y huelgas, y el tamaño de la muestra (800 alumnos, según el buscador) no se cotejó en la fuente; el blog del Banco Mundial redondea el efecto a «about 0.3», que es la cifra total y no la de inglés.
 
@@ -42,9 +42,9 @@ Kestin et al. agrega qué hace falta para que el tutor funcione: contenido exper
 Oreopoulos y Low es el único ensayo largo, con escuelas comunes y evaluación externa, y da el efecto más chico. Su explicación es el uso: el 96 % de los alumnos probó el tutor, pero el mediano le escribió en cerca de un tercio de los días de práctica y solo en el 17 % de las sesiones en que se equivocó, y la mayoría de los mensajes eran respuestas peladas o clics en sugerencias. El resumen concluye que lo difícil es que lo usen, no darles acceso. Según su resumen, tal como lo leyó la investigación de esta base, el efecto fue parecido al de la práctica de Khan Academy sin IA.
 
 > [!IMPORTANT]
-> **El tutor de IA enseña mucho (Kestin et al.; De Simone et al.).** Efectos de 0,23 a más de 0,6 desvíos, en semanas o en una sola clase.
+> **El tutor de IA enseña mucho (Kestin et al.; De Simone et al.).** Efectos de 0,23 a más de 0,6 desviaciones estándar, en semanas o en una sola clase.
 >
-> **El tutor de IA enseña poco a escala (Oreopoulos y Low).** 0,06 a 0,08 desvíos por año en un ensayo de dos años.
+> **El tutor de IA enseña poco a escala (Oreopoulos y Low).** 0,06 a 0,08 desviaciones estándar por año en un ensayo de dos años.
 >
 > Los contextos difieren: universitarios motivados con una tarea corta y contenido preparado, o un programa de seis semanas, frente a escolares en recuperación de matemática durante dos años y con uso escaso. Es el mismo patrón que separa los metaanálisis de los [tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md) del ensayo a escala de Pane.
 

@@ -22,7 +22,7 @@ Cierra el ciclo de la [didáctica](../Didactica/didactica.md) y del [diseño ins
 
 La idea que ordena el tema es de los Standards de 2014: no hay pruebas válidas o inválidas, hay usos. La misma prueba de diez preguntas puede servir para decidir por dónde empezar y no servir para certificar. Por eso todo arranca del propósito.
 
-El tema termina en tres bordes. Por qué recordar lo aprendido fija la memoria es de [Psicología](../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md). Qué hace buena a una devolución es de [Didáctica](../Didactica/didactica.md). Los tests psicológicos clínicos están en [Psicología infantil](../Psicologia-infantil/Evaluacion/tests-psicologicos.md), y evaluar a empleados, en [evaluación del desempeño](../Liderazgo-y-direccion/Gestion-de-personas/evaluacion-del-desempeno.md).
+El tema termina en tres bordes. Por qué recordar lo aprendido fija la memoria es de [Psicología](../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md). Qué hace buena a una retroalimentación está en [retroalimentación](../Didactica/Retroalimentacion/retroalimentacion.md), de Didáctica. Los tests psicológicos clínicos están en [Psicología infantil](../Psicologia-infantil/Evaluacion/tests-psicologicos.md), y evaluar a empleados, en [evaluación del desempeño](../Liderazgo-y-direccion/Gestion-de-personas/evaluacion-del-desempeno.md).
 
 ## De qué está hecha la evaluación educativa
 
@@ -65,7 +65,7 @@ La otra advertencia es de escala. Buena parte del campo (la teoría de respuesta
 - Si tenés que emitir un certificado o decidir cuánto vale uno: [certificados y microcredenciales](Calificacion-y-acreditacion/certificados-y-microcredenciales.md) y [referencia a norma y a criterio](Calificacion-y-acreditacion/referencia-a-norma-y-a-criterio.md).
 - Si tenés que justificar con números que una capacitación valió la pena: [retorno de la capacitación](Evaluar-un-programa/retorno-de-la-capacitacion.md) y [transferencia de la capacitación](Evaluar-un-programa/transferencia-de-la-capacitacion.md).
 - Si las notas suben y no sabés si aprenden más: [inflación de notas](Validez-confiabilidad-y-equidad/inflacion-de-notas.md).
-- Si tenés que elegir un sistema que diagnostique solo: no hay nota de comparación de productos; lo más cercano es la [ficha de sistemas de diagnóstico adaptativo](Evaluacion-adaptativa/sistemas-de-diagnostico-adaptativo.md) y, para las herramientas, [Tecnología educativa](../Tecnologia-educativa/tecnologia-educativa.md).
+- Si tenés que elegir un sistema que diagnostique solo: no hay nota de comparación de productos; lo más cercano es la [ficha de sistemas de diagnóstico adaptativo](Evaluacion-adaptativa/sistemas-de-diagnostico-adaptativo.md) y, para las herramientas, [herramientas de práctica adaptativa](../Tecnologia-educativa/Practica-adaptativa/herramientas-de-practica-adaptativa.md), de Tecnología educativa.
 
 ## Del propósito a la decisión
 

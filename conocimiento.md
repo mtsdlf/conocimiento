@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Contabilidad, Arquitectura e IA tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Contabilidad, Arquitectura, IA y los cinco temas de Pedagogía tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -92,11 +92,11 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 ## Pedagogía
 
-- [Ciencias del aprendizaje](Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) — cómo una persona llega a saber algo nuevo: conocimiento previo, memoria y práctica, transferencia, metacognición, motivación, quién aprende y aprender con otros (esqueleto).
-- [Didáctica](Didactica/didactica.md) — la enseñanza: instrucción explícita, práctica guiada, preguntas, retroalimentación, indagación, tutoría y mentoría, y las didácticas de cada materia (esqueleto).
-- [Diseño instruccional](Diseno-instruccional/diseno-instruccional.md) — armar un curso o un camino: análisis, objetivos, secuencia, modelos de diseño, materiales y formatos (esqueleto).
-- [Evaluación educativa](Evaluacion-educativa/evaluacion-educativa.md) — saber qué se aprendió: propósitos, instrumentos, validez, evaluación adaptativa, calificación y evaluar un programa (esqueleto).
-- [Tecnología educativa](Tecnologia-educativa/tecnologia-educativa.md) — lo que aportan los medios digitales: aprendizaje en línea, tutores inteligentes, IA, práctica adaptativa y plataformas (esqueleto).
+- [Ciencias del aprendizaje](Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) — cómo una persona llega a saber algo nuevo: conocimiento previo y comprensión, memoria y práctica, transferencia, metacognición y autorregulación, motivación para aprender y aprender con otros, con las teorías del aprendizaje, la andragogía y los mitos sobre el cerebro y la memoria.
+- [Didáctica](Didactica/didactica.md) — la enseñanza: explicar y modelar, práctica guiada y andamiaje, preguntas y diálogo, retroalimentación, aprendizaje activo e indagación, tutoría y mentoría y las didácticas específicas, con la programación como caso; suma cómo leer la evidencia educativa y los mitos de la enseñanza, que sirven a toda el área.
+- [Diseño instruccional](Diseno-instruccional/diseno-instruccional.md) — armar un curso o un camino entero: análisis previo, objetivos de aprendizaje, secuencia y currículo, materiales y carga cognitiva, formatos y modelos de diseño (ADDIE, diseño hacia atrás, 4C/ID), con dónde hay evidencia y dónde solo práctica.
+- [Evaluación educativa](Evaluacion-educativa/evaluacion-educativa.md) — saber qué aprendió alguien: propósitos, instrumentos, validez, confiabilidad y equidad, evaluación adaptativa, calificación y acreditación, y evaluar un programa (Kirkpatrick, transferencia, grupo de comparación).
+- [Tecnología educativa](Tecnologia-educativa/tecnologia-educativa.md) — lo que aportan los medios digitales: el debate de los medios, el aprendizaje en línea, los tutores inteligentes, la IA como tutor, como ayuda del docente o como atajo, y la práctica adaptativa, separando lo que cambia el aprendizaje de lo que solo cambia el canal.
 
 ## Carrera
 

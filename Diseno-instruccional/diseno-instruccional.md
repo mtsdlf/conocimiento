@@ -75,8 +75,8 @@ Casi todo viene de escuelas, universidades y salud. Llevarlo a adultos que apren
 - Si tenés que decidir entre cohorte y ritmo propio: [cohorte o ritmo propio](Formatos/cohorte-o-ritmo-propio.md); no hay evidencia comparativa, y la nota lo dice.
 - Si alguien justifica una decisión con el 70-20-10 o con «los adultos aprenden distinto»: [mitos del diseño instruccional](Fundamentos/mitos-del-diseno-instruccional.md).
 - Si tenés que elegir o defender un modelo de diseño para un equipo: [modelos de diseño](Modelos-de-diseno/modelos-de-diseno.md) y [ADDIE y SAM](Modelos-de-diseno/addie-y-sam.md).
-- Si tenés que escribir las preguntas de evaluación del curso: no hay nota en este tema; lo más cercano es [alineación constructiva](Objetivos-de-aprendizaje/alineacion-constructiva.md), y el tema propio es [Evaluación educativa](../Evaluacion-educativa/evaluacion-educativa.md).
-- Si tenés que decidir si un curso funcionó: no hay nota en este tema; está en [Evaluación educativa](../Evaluacion-educativa/evaluacion-educativa.md).
+- Si tenés que escribir las preguntas de evaluación del curso: no hay nota en este tema; lo más cercano es [alineación constructiva](Objetivos-de-aprendizaje/alineacion-constructiva.md), y, en Evaluación educativa, [instrumentos](../Evaluacion-educativa/Instrumentos/instrumentos.md) y [opción múltiple](../Evaluacion-educativa/Instrumentos/opcion-multiple.md).
+- Si tenés que decidir si un curso funcionó: no hay nota en este tema; está en [evaluar un programa](../Evaluacion-educativa/Evaluar-un-programa/evaluar-un-programa.md) y [niveles de Kirkpatrick](../Evaluacion-educativa/Evaluar-un-programa/niveles-de-kirkpatrick.md), de Evaluación educativa.
 
 ## De la pregunta al curso: un orden de lectura
 

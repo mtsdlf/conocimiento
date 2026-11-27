@@ -36,11 +36,11 @@ La diferencia con la mirada de interfaz es la tercera fila. En una interfaz el i
 
 ## El primer hallazgo: ejemplos resueltos y metas abiertas
 
-Sweller (1988) estudió la resolución de problemas. Para un novato, un problema con meta específica induce un análisis de medios y fines (buscar diferencias entre dónde está y adónde tiene que llegar) que ocupa la memoria de trabajo y deja poco para aprender el esquema. Quienes estudiaron ejemplos resueltos rindieron mejor después resolviendo problemas. Con una meta no específica también se aprende mejor, aunque ese efecto no aparece siempre y se puede revertir.
+Sweller (1988) estudió la resolución de problemas. Para un novato, un problema con meta específica induce un análisis de medios y fines (buscar diferencias entre dónde está y adónde tiene que llegar) que ocupa la memoria de trabajo y deja poco para aprender el esquema. Quienes estudiaron [ejemplos resueltos](../../Didactica/Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) rindieron mejor después resolviendo problemas. Con una meta no específica también se aprende mejor, aunque ese efecto no aparece siempre y se puede revertir.
 
 ## Lo que sirve al novato estorba al que sabe
 
-El efecto de inversión de la experticia (Kalyuga et al. 2003) fue, en parte, la respuesta de la escuela de Sweller a sus críticos: técnicas muy eficaces con novatos pierden eficacia, o la empeoran, con quien tiene más experiencia. El ejemplo resuelto es el caso típico. La consecuencia para los materiales es que no hay un material bueno en abstracto: hay un material bueno para un nivel de conocimiento previo, y por eso importa el [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md).
+El efecto de [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md) (Kalyuga et al. 2003) fue, en parte, la respuesta de la escuela de Sweller a sus críticos: técnicas muy eficaces con novatos pierden eficacia, o la empeoran, con quien tiene más experiencia. El ejemplo resuelto es el caso típico. La consecuencia para los materiales es que no hay un material bueno en abstracto: hay un material bueno para un nivel de conocimiento previo, y por eso importa el [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md).
 
 ## La crítica de de Jong
 

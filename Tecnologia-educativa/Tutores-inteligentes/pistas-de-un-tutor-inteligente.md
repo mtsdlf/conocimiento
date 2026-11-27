@@ -17,7 +17,7 @@ revisado:
 
 Las pistas de un tutor inteligente son la forma en que su modelo pedagógico gradúa la ayuda: primero una pista general, después otras más concretas y al final una que da el paso. Bajar hasta la última sin pensar es abuso de la ayuda, pero leerla con cuidado puede funcionar como estudiar un ejemplo resuelto.
 
-Es una pieza del modelo pedagógico, una de las cuatro de la [arquitectura de un tutor inteligente](arquitectura-de-un-tutor-inteligente.md). Es la versión programada de la [escalera de pistas](../../Didactica/Retroalimentacion/escalera-de-pistas.md) que usan los tutores humanos expertos, explicada en Didáctica; esta nota cubre lo propio del programa: cómo se arma y cómo la usan los alumnos.
+Es una pieza del modelo pedagógico, una de las cuatro de la [arquitectura de un tutor inteligente](arquitectura-de-un-tutor-inteligente.md). Es la versión programada de la [escalera de pistas](../../Didactica/Retroalimentacion/escalera-de-pistas.md) que usan los tutores humanos expertos en la [tutoría](../../Didactica/Tutoria-y-mentoria/tutoria.md), explicada en Didáctica; esta nota cubre lo propio del programa: cómo se arma y cómo la usan los alumnos.
 
 ## Cómo se arma la escalera
 
@@ -36,7 +36,7 @@ Los ejemplos entre paréntesis son ilustración de esta base. Según Wikipedia, 
 
 Algunos alumnos saltean las pistas abstractas y van directo a la última. La literatura de tutores lo llamaba «gaming or help abuse». Shih, Koedinger y Scheines (2008) muestran que no siempre lo es: «some examples of this behavior are not abusive and … bottom-out hints can act as worked examples».
 
-Lo que separa un caso del otro es el tiempo. Su modelo usa cuánto tarda el alumno después de recibir la última pista para distinguir a quien la copia y sigue de quien se detiene a entenderla. El buen uso, así detectado, predice aprendizaje y «captures behaviors related to self-explanation»: el alumno se explica a sí mismo por qué el paso es correcto. Un ejemplo resuelto enseña cuando se lo estudia, y la última pista es un ejemplo resuelto de un paso.
+Lo que separa un caso del otro es el tiempo. Su modelo usa cuánto tarda el alumno después de recibir la última pista para distinguir a quien la copia y sigue de quien se detiene a entenderla. El buen uso, así detectado, predice aprendizaje y «captures behaviors related to self-explanation»: el alumno se explica a sí mismo por qué el paso es correcto. Un [ejemplo resuelto](../../Didactica/Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) enseña cuando se lo estudia, y explicarse cada paso es la [autoexplicación](../../Didactica/Preguntas-y-dialogo/autoexplicacion.md): y la última pista es un ejemplo resuelto de un paso.
 
 ## Qué pasa cuando la última pista está siempre disponible
 

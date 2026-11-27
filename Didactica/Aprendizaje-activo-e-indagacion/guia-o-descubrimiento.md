@@ -33,7 +33,7 @@ Kirschner, Sweller y Clark (2006) sostienen en "Why Minimal Guidance During Inst
 2. Una tarea con poca guía carga la memoria de trabajo del novato, que no tiene esquemas para organizarla (el mecanismo está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md) y en [carga cognitiva](../../UX/Percepcion-y-decision/carga-cognitiva.md)).
 3. Cómo trabaja un experto en una disciplina no determina cómo se la enseña a un principiante.
 
-La ventaja de la guía cede solo cuando el conocimiento previo es alto, que es la [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md).
+La ventaja de la guía cede solo cuando el [conocimiento previo](../../Ciencias-del-aprendizaje/Conocimiento-previo-y-comprension/conocimiento-previo.md) es alto, que es la [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md).
 
 Mayer (2004) llegó antes a una conclusión parecida. Revisó tres áreas (descubrimiento de reglas de resolución de problemas, estrategias de conservación y enseñanza de programación) y encontró que el descubrimiento guiado rinde más que el puro en aprendizaje y transferencia. Su título propone una "regla de tres strikes" contra el descubrimiento puro. Lo que pide es guía, no Instrucción Directa: no argumenta contra todos los métodos centrados en quien aprende.
 
@@ -78,7 +78,7 @@ El titular "PISA muestra que la indagación empeora" se achica a "la asociación
 >
 > **Punto de acuerdo.** Nadie defiende el descubrimiento sin ayuda. Lo abierto es clasificar cada método concreto y decidir cuánto andamiaje lleva.
 
-Detrás hay una confusión que la disputa ayudó a separar. El constructivismo como teoría del aprendizaje describe cómo cualquiera da sentido a lo nuevo, incluso escuchando una clase; la prescripción de dejar descubrir sin guía es otra cosa, y la crítica apunta a esta última. Las teorías se desarrollan en [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md); la idea de que "aprendemos mejor descubriendo solos" figura en los [mitos de la enseñanza](../Fundamentos/mitos-de-la-ensenanza.md).
+Detrás hay una confusión que la disputa ayudó a separar. El constructivismo como teoría del aprendizaje describe cómo cualquiera da sentido a lo nuevo, incluso escuchando una clase; la prescripción de dejar descubrir sin guía es otra cosa, y la crítica apunta a esta última. La distinción se desarrolla en [teorías del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/teorias-del-aprendizaje.md#teoría-del-aprendizaje-no-es-método-de-enseñanza), de Ciencias del aprendizaje; la idea de que "aprendemos mejor descubriendo solos" figura en los [mitos de la enseñanza](../Fundamentos/mitos-de-la-ensenanza.md).
 
 ## Cómo se decide cuánta guía dar
 

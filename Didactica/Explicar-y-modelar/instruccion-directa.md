@@ -36,7 +36,7 @@ Las cifras de participantes difieren entre las dos fuentes (más de 200.000 y 17
 
 ## El metaanálisis de 2018 y quién lo firma
 
-Stockard, Wood, Coughlin y Khoury (2018) reunieron la literatura de 1966 a 2016: 328 estudios, 413 diseños y casi 4.000 efectos. Según el abstract, casi todos los efectos fueron positivos y significativos, salvo los resultados afectivos; la publicación, la metodología y la muestra no se relacionaban sistemáticamente con el tamaño del efecto; los efectos casi no decaían en el seguimiento y crecían con más exposición. El abstract no da un tamaño de efecto global.
+Stockard, Wood, Coughlin y Khoury (2018) reunieron la literatura de 1966 a 2016: 328 estudios, 413 diseños y casi 4.000 efectos. Según el abstract, casi todos los efectos fueron positivos y significativos, salvo los resultados afectivos; la publicación, la metodología y la muestra no se relacionaban sistemáticamente con el tamaño de efecto; los efectos casi no decaían en el seguimiento y crecían con más exposición. El abstract no da un tamaño de efecto global.
 
 J. Stockard firma también un resumen de 2015 como directora de investigación y evaluación, publicado con material del NIFDI, el instituto que promueve el programa. Es un posible conflicto de interés; la afiliación exacta en el metaanálisis no se verificó.
 

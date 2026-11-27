@@ -22,7 +22,7 @@ Dentro de la [Didáctica](../didactica.md) es donde arranca la secuencia. Lo que
 
 ## Por qué se explica en pasos chicos
 
-La razón es la memoria de trabajo: según Rosenshine, «can only handle a few bits of information at once». Presentar mucho junto la satura, y lo que no se procesa no queda. Por eso los docentes más eficaces que observó cortaban el material y hacían practicar después de cada tramo, y dedicaban más tiempo a exponer y demostrar (unos 23 de 40 minutos contra 11 en los menos eficaces, en un estudio de matemática). El mecanismo de ese límite está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md), en Psicología, y lo que implica para armar un material está en [Diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md).
+La razón es la memoria de trabajo: según Rosenshine, «can only handle a few bits of information at once». Presentar mucho junto la satura, y lo que no se procesa no queda. Por eso los docentes más eficaces que observó cortaban el material y hacían practicar después de cada tramo, y dedicaban más tiempo a exponer y demostrar (unos 23 de 40 minutos contra 11 en los menos eficaces, en un estudio de matemática). El mecanismo de ese límite está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md), en Psicología, y lo que implica para armar un material está en [carga cognitiva en el aprendizaje](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md), de Diseño instruccional.
 
 Explicar no es dar una clase magistral larga. En la secuencia de Rosenshine cada explicación corta termina en preguntas y en un ejercicio, y la parte práctica viene «always after, not before, the basic material was learned».
 

@@ -35,7 +35,7 @@ Atkinson et al. (2000) llegan a lo mismo desde el otro lado: los ejemplos resuel
 
 ## Por qué depende del conocimiento y no de la edad
 
-La explicación de la carga cognitiva es que el novato necesita la guía porque no tiene en la memoria de largo plazo los esquemas que organizan la tarea. Quien ya los tiene recibe la guía como información repetida que tiene que procesar igual. El mecanismo de la memoria está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md); la carga cognitiva aplicada a materiales, en [Diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md).
+La explicación de la carga cognitiva es que el novato necesita la guía porque no tiene en la memoria de largo plazo los esquemas que organizan la tarea. Quien ya los tiene recibe la guía como información repetida que tiene que procesar igual. El mecanismo de la memoria está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md); la carga cognitiva aplicada a materiales, en [carga cognitiva en el aprendizaje](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md).
 
 Una consecuencia, que es lectura de esta base y no de una fuente: lo que cambia cuánto guiar es cuánto sabe la persona del tema, no si es adulta. Un adulto que recién empieza a programar es novato; un chico que lleva años en algo no lo es. Eso es lo que discute la [versión fuerte de la andragogía](../Fundamentos/mitos-de-la-ensenanza.md), según la cual los adultos necesitan otra pedagogía.
 
@@ -48,6 +48,6 @@ Con un grupo mixto, la misma clase guía de más a unos y de menos a otros. Lo q
 3. Con quien resuelve casi todo, problema primero y el ejemplo después, para comparar.
 4. Volvé a mirar: el nivel cambia en la misma clase, y la guía tiene que bajar con él.
 
-El diagnóstico es lo que van de Pol et al. llaman contingencia en el [andamiaje](andamiaje.md), y se hace con las [preguntas en clase](../Preguntas-y-dialogo/preguntas-en-clase.md). La [evaluación diagnóstica](../../Evaluacion-educativa/evaluacion-educativa.md) es su versión formal. El sistema que hace esto automático es un tutor adaptativo, tema de [Tecnología educativa](../../Tecnologia-educativa/tecnologia-educativa.md).
+El diagnóstico es lo que van de Pol et al. llaman contingencia en el [andamiaje](andamiaje.md), y se hace con las [preguntas en clase](../Preguntas-y-dialogo/preguntas-en-clase.md). La [evaluación diagnóstica](../../Evaluacion-educativa/Propositos/evaluacion-diagnostica.md) es su versión formal. Los [sistemas adaptativos](../../Tecnologia-educativa/Practica-adaptativa/sistemas-adaptativos.md) y los [tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/tutores-inteligentes.md) lo hacen de forma automática.
 
 Los estudios son con estudiantes de escuela y universidad en tareas bien definidas. Que el efecto valga igual en tareas abiertas o para adultos con experiencia laboral es inferencia.

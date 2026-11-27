@@ -32,7 +32,7 @@ Copiado de las páginas oficiales el 2026-11-27, salvo donde se indica. Los modo
 | Study Mode | OpenAI | 2025-07-29 | Instrucciones de sistema escritas con docentes y especialistas; el usuario puede apagarlo. Según la prensa, OpenAI admite que puede comportarse de forma inconsistente (la página oficial no se pudo leer) | Ninguna verificada |
 | Guided Learning (Gemini) | Google | 2025-08-06 | Preguntas abiertas, problemas partidos en pasos, respuestas multimedia y cuestionarios; en la app Gemini y compartible por Google Classroom | Ninguna en el anuncio |
 | LearnLM | Google | v1 2024-05-21 | Modelo ajustado para pedagogía, no solo instrucciones. En Jurenka et al., educadores y alumnos prefirieron LearnLM-Tutor a un Gemini con instrucciones ajustadas en varias dimensiones pedagógicas | Preferencia de evaluadores, medida por el propio proveedor (preprint); ensayo con Eedi en [la IA como ayuda del docente](ia-como-ayuda-del-docente.md) |
-| Khanmigo | Khan Academy | sin fecha verificada | Tutor de matemática escolar configurado para no dar respuestas | Pruebas A/B propias (abajo) y un ensayo externo de dos años: 0,06 a 0,08 desvíos por año (Oreopoulos y Low, NBER, sin revisión por pares) |
+| Khanmigo | Khan Academy | sin fecha verificada | Tutor de matemática escolar configurado para no dar respuestas | Pruebas A/B propias (abajo) y un ensayo externo de dos años: 0,06 a 0,08 desviaciones estándar por año (Oreopoulos y Low, NBER, sin revisión por pares) |
 
 ## Lo que movió resultados en Khanmigo
 

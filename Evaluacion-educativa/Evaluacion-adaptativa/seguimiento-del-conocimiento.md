@@ -18,7 +18,7 @@ revisado:
 
 El seguimiento del conocimiento (knowledge tracing) estima, respuesta a respuesta, la probabilidad de que alguien domine cada habilidad mientras practica. Su versión clásica, Bayesian Knowledge Tracing, separa saber de acertar; las redes neuronales no la superan con claridad.
 
-Es la rama de la [evaluación adaptativa](evaluacion-adaptativa.md) que viene de los tutores inteligentes, que son [tecnología educativa](../../Tecnologia-educativa/tecnologia-educativa.md). A diferencia de la [teoría de respuesta al ítem](teoria-de-respuesta-al-item.md), que mide una vez, el seguimiento actualiza la estimación durante la práctica: supone que la persona aprende mientras responde.
+Es la rama de la [evaluación adaptativa](evaluacion-adaptativa.md) que viene de los [tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/tutores-inteligentes.md), donde es el modelo del alumno de su [arquitectura](../../Tecnologia-educativa/Tutores-inteligentes/arquitectura-de-un-tutor-inteligente.md). A diferencia de la [teoría de respuesta al ítem](teoria-de-respuesta-al-item.md), que mide una vez, el seguimiento actualiza la estimación durante la práctica: supone que la persona aprende mientras responde.
 
 ## Saber no es acertar
 

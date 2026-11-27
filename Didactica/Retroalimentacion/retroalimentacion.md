@@ -19,7 +19,7 @@ revisado:
 
 La retroalimentación es la información que quien enseña le devuelve a quien aprende sobre lo que hizo, para que cambie lo que piensa o hace. En promedio es de lo que más efecto tiene en la enseñanza, y también de lo más variable: una parte de las intervenciones empeora el desempeño, y lo que decide es qué dice el mensaje.
 
-Dentro de [Didáctica](../didactica.md), la retroalimentación cierra cada vuelta de la secuencia de clase: después de [explicar y modelar](../Explicar-y-modelar/explicar-y-modelar.md), durante la [práctica guiada](../Practica-guiada-y-andamiaje/practica-guiada-y-andamiaje.md) y después de cada respuesta a las [preguntas en clase](../Preguntas-y-dialogo/preguntas-y-dialogo.md). Sin una respuesta de quien aprende no hay sobre qué devolver. Lo que pasa con la retroalimentación cuando forma parte de una evaluación, con nota o sin ella, es tema de [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md); la corrección de errores al aprender un idioma está en [feedback correctivo](../../Ingles/Adquisicion/feedback-correctivo.md), del tema Inglés.
+Dentro de [Didáctica](../didactica.md), la retroalimentación cierra cada vuelta de la secuencia de clase: después de [explicar y modelar](../Explicar-y-modelar/explicar-y-modelar.md), durante la [práctica guiada](../Practica-guiada-y-andamiaje/practica-guiada-y-andamiaje.md) y después de cada respuesta a las [preguntas en clase](../Preguntas-y-dialogo/preguntas-y-dialogo.md). Sin una respuesta de quien aprende no hay sobre qué devolver. Lo que pasa con la retroalimentación cuando forma parte de una evaluación, con nota o sin ella, está en [evaluación formativa](../../Evaluacion-educativa/Propositos/evaluacion-formativa.md) y en [notas y comentarios](../../Evaluacion-educativa/Calificacion-y-acreditacion/notas-y-comentarios.md); la corrección de errores al aprender un idioma está en [feedback correctivo](../../Ingles/Adquisicion/feedback-correctivo.md), del tema Inglés.
 
 ## Poderosa en promedio y peligrosa en particular
 
@@ -44,14 +44,14 @@ Las fuentes ordenan la retroalimentación en tres decisiones, y la evidencia es 
 
 La cantidad y la frecuencia, por sí solas, no aparecen en ninguna fuente leída como lo que separa la buena retroalimentación de la mala.
 
-## Por qué una devolución puede empeorar
+## Por qué una retroalimentación puede empeorar
 
 La teoría de Kluger y DeNisi explica los efectos negativos por dónde pone la atención el mensaje: en la tarea, en la motivación o en la persona. «FI effectiveness decreases as attention moves up the hierarchy closer to the self and away from the task.» Un comentario sobre quién es la persona («sos muy capaz», «esto no es lo tuyo») saca la atención del trabajo. Hattie y Timperley llegan a lo mismo por otro camino: el elogio a la persona da poca información.
 
-Toda esta evidencia es de escuelas, universidades y, en Kluger y DeNisi, también de desempeño en tareas fuera del aula. Que la regla de centrar la devolución en la tarea valga para un mentor con un adulto es una inferencia, pero es de las más directas del tema.
+Toda esta evidencia es de escuelas, universidades y, en Kluger y DeNisi, también de desempeño en tareas fuera del aula. Que la regla de centrar la retroalimentación en la tarea valga para un mentor con un adulto es una inferencia, pero es de las más directas del tema.
 
 ## Lo que hay adentro de la retroalimentación
 
 - [Niveles de retroalimentación](niveles-de-retroalimentacion.md): los cuatro niveles de Hattie y Timperley, por qué el elogio no enseña y qué tipo de mensaje tiene el efecto más alto.
-- [Retroalimentación inmediata o diferida](retroalimentacion-inmediata-o-diferida.md): los lineamientos de Shute sobre cómo dar la devolución y cuándo conviene cada momento.
+- [Retroalimentación inmediata o diferida](retroalimentacion-inmediata-o-diferida.md): los lineamientos de Shute sobre cómo dar la retroalimentación y cuándo conviene cada momento.
 - [Escalera de pistas](escalera-de-pistas.md): graduar la ayuda de lo general a la solución, y qué dicen los tutores humanos y por computadora sobre eso.

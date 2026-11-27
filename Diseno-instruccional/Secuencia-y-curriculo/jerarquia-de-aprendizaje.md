@@ -57,6 +57,6 @@ El diagrama es un ejemplo ilustrativo, no sale de una fuente.
 
 ## Para qué se usa y qué no se sabe
 
-Una revisión sistemática de grafos de conocimiento en educación (*Heliyon*, 2024) encuentra cinco usos: aprendizaje adaptativo, diseño curricular (en crecimiento), mapas conceptuales, búsqueda semántica y otros; las limitaciones son el conocimiento que cambia y los errores de extracción automática. Para medir lo que sabe alguien recorriendo el grafo, ver [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md) y [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md).
+Una revisión sistemática de grafos de conocimiento en educación (*Heliyon*, 2024) encuentra cinco usos: aprendizaje adaptativo, diseño curricular (en crecimiento), mapas conceptuales, búsqueda semántica y otros; las limitaciones son el conocimiento que cambia y los errores de extracción automática. Para medir lo que sabe alguien recorriendo el grafo, ver [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md) y, en Evaluación educativa, [espacios de conocimiento](../../Evaluacion-educativa/Evaluacion-adaptativa/espacios-de-conocimiento.md), que es la teoría de esos tests adaptativos.
 
 Los grafos de prerrequisitos de las plataformas no tienen, en lo encontrado, evaluación comparada de resultados. Las patentes describen el método pero no son evidencia. El grafo hereda la validez de las jerarquías: si los prerrequisitos están mal identificados, el grafo ordena mal con mucha precisión.

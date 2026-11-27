@@ -17,7 +17,7 @@ revisado:
 
 Los materiales son lo que quien aprende lee, mira o usa: textos, diagramas, videos, ejemplos. Se diseñan para no gastar la memoria de trabajo en lo que no enseña, según la teoría de la carga cognitiva y los principios multimedia de Mayer, la parte del diseño instruccional con más evidencia experimental, casi toda de laboratorio.
 
-Es la D de desarrollo en [ADDIE](../Modelos-de-diseno/addie-y-sam.md). Recibe de la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md) qué va en cada paso y del [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md) cuánto sabe ya, que cambia qué material le sirve. El soporte en que se entregan (plataformas, video, herramientas) es tema de [Tecnología educativa](../../Tecnologia-educativa/tecnologia-educativa.md).
+Es la D de desarrollo en [ADDIE](../Modelos-de-diseno/addie-y-sam.md). Recibe de la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md) qué va en cada paso y del [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md) cuánto sabe ya, que cambia qué material le sirve. El soporte en que se entregan (plataformas, video, herramientas) está en [plataformas de aprendizaje](../../Tecnologia-educativa/Aprendizaje-en-linea/plataformas-de-aprendizaje.md) y [video educativo](../../Tecnologia-educativa/Aprendizaje-en-linea/video-educativo.md), de Tecnología educativa.
 
 ## Una idea con dos niveles
 

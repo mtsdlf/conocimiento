@@ -18,7 +18,7 @@ revisado:
 
 Las notas cambian la motivación de quien las recibe, no solo la informan. En los experimentos de Butler y en un metaanálisis posterior, los comentarios solos rindieron más que las notas, y agregar una nota a los comentarios anuló su ventaja.
 
-Es la consecuencia de la [calificación](calificacion-y-acreditacion.md) sobre quien aprende. Explica por qué la [evaluación formativa](../Propositos/evaluacion-formativa.md) y la [prueba de práctica](../Propositos/evaluacion-como-aprendizaje.md) rinden más sin nota. Qué hace buena a una devolución es didáctica y vive en [Didáctica](../../Didactica/didactica.md); por qué un premio externo puede bajar las ganas, en [autodeterminación](../../Psicologia/Motivacion-y-emocion/autodeterminacion.md).
+Es la consecuencia de la [calificación](calificacion-y-acreditacion.md) sobre quien aprende. Explica por qué la [evaluación formativa](../Propositos/evaluacion-formativa.md) y la [prueba de práctica](../Propositos/evaluacion-como-aprendizaje.md) rinden más sin nota. Qué hace buena a una retroalimentación es didáctica y está en [retroalimentación](../../Didactica/Retroalimentacion/retroalimentacion.md); por qué un premio externo puede bajar las ganas, en [autodeterminación](../../Psicologia/Motivacion-y-emocion/autodeterminacion.md).
 
 ## Los experimentos de Butler
 
@@ -34,14 +34,14 @@ Koenka et al. juntaron cuatro metaanálisis (publicado en línea en 2019; el nú
 
 | Comparación | Logro | Motivación |
 |---|---|---|
-| Notas frente a ninguna devolución | Mejor con notas | Peor con notas |
+| Notas frente a ninguna retroalimentación | Mejor con notas | Peor con notas |
 | Notas frente a comentarios | Peor con notas | Menos óptima con notas |
 
 Los efectos variaron según el tipo de motivación, el contexto, la edad y el momento (anticipar una nota no es lo mismo que recibirla). Los tamaños de efecto no se leyeron. Son estudios con escolares de primaria y secundaria: trasladarlos a adultos es una extrapolación.
 
-## Cuánto pesa la información de la devolución
+## Cuánto pesa la información de la retroalimentación
 
-Wisniewski, Zierer y Hattie (2020) metaanalizaron la devolución en general: 435 estudios, 994 tamaños de efecto, unos 61.000 participantes, con un efecto global d = 0,48 y mucha variación. Lo que más pesa es cuánta información trae: la devolución correctiva dio d = 0,46; la de alta información, d = 0,99; el refuerzo o el castigo, d = 0,24. Esta fuente no compara notas con comentarios, pero es coherente con Butler: una nota sola es una devolución de muy poca información. Las cifras vienen de un resumen de herramienta y hay que verificarlas.
+Wisniewski, Zierer y Hattie (2020) metaanalizaron la retroalimentación en general: 435 estudios, 994 tamaños de efecto, unos 61.000 participantes, con un efecto global d = 0,48 sin los valores extremos (0,55 con todos los efectos) y mucha variación; la comparación con los otros metaanálisis está en [retroalimentación](../../Didactica/Retroalimentacion/retroalimentacion.md). Lo que más pesa es cuánta información trae: la retroalimentación correctiva dio d = 0,46; la de alta información, d = 0,99; el refuerzo o el castigo, d = 0,24. Esta fuente no compara notas con comentarios, pero es coherente con Butler: una nota sola es una retroalimentación de muy poca información. Las cifras vienen de un resumen de herramienta y hay que verificarlas.
 
 ## Qué hacer con esto
 

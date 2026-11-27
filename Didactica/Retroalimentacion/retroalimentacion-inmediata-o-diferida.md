@@ -18,13 +18,13 @@ La retroalimentación inmediata ayuda a corregir errores en el momento y a apren
 
 Es la segunda decisión de la [retroalimentación](retroalimentacion.md): una vez elegido qué decir (ver [niveles de retroalimentación](niveles-de-retroalimentacion.md)), falta decidir cómo y cuándo. Shute define la retroalimentación formativa como información comunicada a quien aprende «intended to modify his or her thinking or behavior to improve learning», y pide que sea «nonevaluative, supportive, timely, and specific».
 
-## Cómo se da una devolución que sirve
+## Cómo se da una retroalimentación que sirve
 
 La revisión de Shute tiene una tabla de qué hacer y otra de qué evitar. Lo principal de la primera:
 
 - **Centrarla en la tarea, no en la persona.** Coincide con lo que muestran los niveles de Hattie y Timperley.
 - **Que sea elaborada.** Explicar el qué, el cómo y el porqué del problema es «typically more effective than verification of results», es decir, más que decir solo si está bien o mal.
-- **En unidades manejables.** Una devolución con veinte observaciones no se procesa; mejor pocas, y las que importan.
+- **En unidades manejables.** Una retroalimentación con veinte observaciones no se procesa; mejor pocas, y las que importan.
 - **Específica y clara**, y simple «but no simpler».
 
 En la tabla de qué evitar figura comparar a quien aprende con otros estudiantes.
@@ -37,7 +37,7 @@ En la misma revisión, un dato de instrucción por computadora: en 22 estudios c
 
 ## Cuándo conviene cada una
 
-Los lineamientos de Shute, con su propia advertencia de que la parte de transferencia «needs more research»:
+Los lineamientos de Shute, con su propia advertencia de que la parte de [transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md) «needs more research»:
 
 | Situación | Momento sugerido |
 |---|---|

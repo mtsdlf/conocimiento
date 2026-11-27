@@ -57,4 +57,4 @@ Robin Alexander define la enseñanza dialógica como el uso del habla para «eng
 
 ## Dónde se confunde con evaluar
 
-Preguntar en clase comparte el fin diagnóstico con la evaluación formativa, que es tema de [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md). La diferencia es de escala: acá es la pregunta del momento, que cambia lo que pasa en los próximos minutos. Una pregunta no reemplaza a la [práctica independiente](../Practica-guiada-y-andamiaje/practica-independiente-y-dominio.md): que alguien conteste bien con ayuda no muestra que lo pueda hacer solo.
+Preguntar en clase comparte el fin diagnóstico con la [evaluación formativa](../../Evaluacion-educativa/Propositos/evaluacion-formativa.md). La diferencia es de escala: acá es la pregunta del momento, que cambia lo que pasa en los próximos minutos. Una pregunta no reemplaza a la [práctica independiente](../Practica-guiada-y-andamiaje/practica-independiente-y-dominio.md): que alguien conteste bien con ayuda no muestra que lo pueda hacer solo.

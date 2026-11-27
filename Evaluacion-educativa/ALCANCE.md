@@ -6,7 +6,7 @@ escuela:
 fuera:
   - "El mecanismo del efecto de testeo: Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md"
   - "Cómo leer la evidencia educativa, tamaños de efecto, Hattie y la EEF: Didáctica (Fundamentos)"
-  - "Qué hace buena a una devolución: Didáctica"
+  - "Qué hace buena a una retroalimentación: Didáctica"
   - "Tutores inteligentes y software de práctica adaptativa como herramientas: Tecnología educativa"
   - "La transferencia como fenómeno cognitivo: Ciencias del aprendizaje"
   - "Tests psicológicos clínicos: Psicologia-infantil/Evaluacion/"

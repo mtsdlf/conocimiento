@@ -29,7 +29,7 @@ La pregunta para quien enseña es si eso sobrevive en un curso real. Tres sínte
 
 | Síntesis | Qué juntó | Qué encontró |
 |---|---|---|
-| Adesope, Trevisan y Sundararajan (2017) | 118 artículos, 272 tamaños de efecto, 15.472 participantes (cifras de un resumen de terceros) | Las pruebas de práctica superan al reestudio y a «all other comparison conditions»; la evidencia sobre dar devolución después es mixta |
+| Adesope, Trevisan y Sundararajan (2017) | 118 artículos, 272 tamaños de efecto, 15.472 participantes (cifras de un resumen de terceros) | Las pruebas de práctica superan al reestudio y a «all other comparison conditions»; la evidencia sobre dar retroalimentación después es mixta |
 | Pan y Rickard (2018) | 122 experimentos, 192 tamaños de efecto, N = 10.382 | Lo aprendido testeándose transfiere a otras situaciones y tipos de prueba |
 | Yang et al. (2021) | 222 estudios independientes, 48.478 estudiantes | g = 0,499 a favor del testeo en el aula |
 

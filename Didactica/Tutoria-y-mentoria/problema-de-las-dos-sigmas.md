@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El problema de las dos sigmas es la afirmación de Bloom (1984) de que un alumno con tutoría individual y aprendizaje de dominio rinde dos desviaciones estándar por encima de la clase común. El dato salió de dos tesis chicas, mezclaba tutoría con dominio y nunca se replicó: los ensayos posteriores dan una fracción de ese efecto.
+  El problema de las dos sigmas es la afirmación de Bloom (1984) de que un alumno con tutoría individual y aprendizaje para el dominio rinde dos desviaciones estándar por encima de la clase común. El dato salió de dos tesis chicas, mezclaba tutoría con dominio y nunca se replicó: los ensayos posteriores dan una fracción de ese efecto.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -17,7 +17,7 @@ revisado:
 
 # Problema de las dos sigmas
 
-El problema de las dos sigmas es la afirmación de Bloom (1984) de que un alumno con tutoría individual y aprendizaje de dominio rinde dos desviaciones estándar por encima de la clase común. El dato salió de dos tesis chicas, mezclaba tutoría con dominio y nunca se replicó: los ensayos posteriores dan una fracción de ese efecto.
+El problema de las dos sigmas es la afirmación de Bloom (1984) de que un alumno con tutoría individual y aprendizaje para el dominio rinde dos desviaciones estándar por encima de la clase común. El dato salió de dos tesis chicas, mezclaba tutoría con dominio y nunca se replicó: los ensayos posteriores dan una fracción de ese efecto.
 
 Es la cifra más citada para defender la [tutoría](tutoria.md) y, en los últimos años, los tutores con IA. Por eso importa saber de dónde sale y cuánto quedó de ella.
 
@@ -31,7 +31,7 @@ Según la página de Wikipedia que resume el artículo, Bloom (1984) comparó tr
 | Aprendizaje de dominio en clase | 1,00 DE |
 | Aprendizaje cooperativo | 0,80 DE |
 
-El "problema" del título no era el efecto sino su costo. Bloom escribió que la tutoría individual es "too costly for most societies to bear on a large scale" y pidió "methods of group instruction as effective as one-to-one tutoring". El aprendizaje de dominio que combinó con la tutoría está en [práctica independiente y dominio](../Practica-guiada-y-andamiaje/practica-independiente-y-dominio.md).
+El "problema" del título no era el efecto sino su costo. Bloom escribió que la tutoría individual es "too costly for most societies to bear on a large scale" y pidió "methods of group instruction as effective as one-to-one tutoring". El aprendizaje para el dominio que combinó con la tutoría está en [práctica independiente y dominio](../Practica-guiada-y-andamiaje/practica-independiente-y-dominio.md).
 
 ## Por qué no se sostuvo
 

@@ -15,7 +15,7 @@ revisado:
 
 El glosario de tecnología educativa define en una línea los términos del tema (de MOOC y LMS a trazado de conocimiento, escalera de pistas y descarga cognitiva) y enlaza la nota que desarrolla cada uno.
 
-Los términos de un modelo de lenguaje (token, ventana de contexto, alucinación) están en el tema [IA](../../IA/ia.md); los de la memoria y el estudio (práctica de recuperación, efecto del testeo), en [Aprendizaje y memoria](../../Psicologia/Aprendizaje-y-memoria/aprendizaje-y-memoria.md).
+Los términos de un modelo de lenguaje (token, ventana de contexto, alucinación) están en el tema [IA](../../IA/ia.md); los de la memoria y el estudio (práctica de recuperación, efecto de testeo), en [Aprendizaje y memoria](../../Psicologia/Aprendizaje-y-memoria/aprendizaje-y-memoria.md).
 
 | Término | Qué es | Dónde se desarrolla |
 |---|---|---|

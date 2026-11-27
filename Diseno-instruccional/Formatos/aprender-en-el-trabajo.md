@@ -19,7 +19,7 @@ revisado:
 
 Aprender en el trabajo es aprender haciendo tareas reales y con otros, fuera de un curso. La regla 70-20-10, que dice que el 70 % se aprende así, el 20 % con otros y el 10 % en cursos, no tiene respaldo empírico: salió de una encuesta de percepción a ejecutivos y su propio creador la llamó folklore.
 
-Es el eje del contexto dentro de los [formatos](formatos.md): no cómo se entrega un curso, sino si hace falta un curso. Se conecta con el [análisis de necesidades](../Analisis-previo/analisis-de-necesidades.md), que puede concluir que la brecha se cierra mejor en el trabajo, y con la [secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md), que trae tareas reales al curso.
+Es el eje del contexto dentro de los [formatos](formatos.md): no cómo se entrega un curso, sino si hace falta un curso. Se conecta con el [análisis de necesidades](../Analisis-previo/analisis-de-necesidades.md), que puede concluir que la brecha se cierra mejor en el trabajo, y con la [secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md), que trae tareas reales al curso. Lo que hace un jefe para que alguien crezca en el trabajo (delegar, mentoría, coaching) está en [desarrollo de personas](../../Liderazgo-y-direccion/Gestion-de-personas/desarrollo-de-personas.md), de Liderazgo y dirección.
 
 ## De dónde sale el 70-20-10
 
@@ -37,6 +37,6 @@ Tres problemas de origen: era sobre ejecutivos, era autoinforme de percepciones 
 
 La idea sin los números sobrevive: se aprende mucho haciendo tareas reales en el trabajo y con otras personas. Eso se puede enunciar, con la salvedad de que la proporción no tiene respaldo. Usar 70-20-10 para decidir presupuestos o para justificar que no hace falta formar es usar folklore como dato.
 
-Para el diseño hay una lectura más productiva, que es de esta base: si las tareas reales enseñan, el curso puede traerlas adentro, como hacen las tareas auténticas de [4C/ID](../Modelos-de-diseno/4c-id.md), y el trabajo puede tener tareas elegidas por lo que enseñan. Cómo se mide si lo aprendido en un curso llega al trabajo es tema de [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md).
+Para el diseño hay una lectura más productiva, que es de esta base: si las tareas reales enseñan, el curso puede traerlas adentro, como hacen las tareas auténticas de [4C/ID](../Modelos-de-diseno/4c-id.md), y el trabajo puede tener tareas elegidas por lo que enseñan. Cómo se mide si lo aprendido en un curso llega al trabajo es el tercer nivel de los [niveles de Kirkpatrick](../../Evaluacion-educativa/Evaluar-un-programa/niveles-de-kirkpatrick.md), y de qué depende, la [transferencia de la capacitación](../../Evaluacion-educativa/Evaluar-un-programa/transferencia-de-la-capacitacion.md).
 
 > [!NOTE] Sin fuente todavía: el informe de revisión de Kajewski y Madsen (2012), citado por un blog como «lack of empirical data», no se verificó.

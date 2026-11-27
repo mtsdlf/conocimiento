@@ -21,7 +21,7 @@ Es la [referencia a criterio](referencia-a-norma-y-a-criterio.md) llevada al ext
 
 ## La propuesta de Bloom
 
-Según Wikipedia, Bloom propuso el aprendizaje para el dominio en 1968, con un umbral ilustrativo del 90 %, y sostuvo que más del 90 % de los alumnos podría aprender con éxito si se le daba el tiempo y la ayuda que necesitara. La secuencia es: enseñar una unidad, evaluar de forma [formativa](../Propositos/evaluacion-formativa.md), dar corrección a quien no llegó al umbral, volver a evaluar y recién entonces seguir.
+Según Wikipedia, Bloom propuso el aprendizaje para el dominio en 1968 (como práctica de enseñanza está en [práctica independiente y dominio](../../Didactica/Practica-guiada-y-andamiaje/practica-independiente-y-dominio.md)), con un umbral ilustrativo del 90 %, y sostuvo que más del 90 % de los alumnos podría aprender con éxito si se le daba el tiempo y la ayuda que necesitara. La secuencia es: enseñar una unidad, evaluar de forma [formativa](../Propositos/evaluacion-formativa.md), dar corrección a quien no llegó al umbral, volver a evaluar y recién entonces seguir.
 
 ## Lo que encontró el metaanálisis
 

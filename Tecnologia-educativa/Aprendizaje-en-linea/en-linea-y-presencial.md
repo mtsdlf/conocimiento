@@ -17,7 +17,7 @@ La comparación entre aprender en línea y en un aula da una ventaja chica para 
 
 ## Lo que encontró el metaanálisis del Departamento de Educación
 
-Means, Toyama, Murphy, Bakia y Jones (2010) reunieron estudios publicados entre 1996 y julio de 2008 que comparaban condiciones en línea con presenciales. La copia leída cuenta 50 efectos independientes; otra copia citada por el buscador dice 51. El efecto medio fue de +0,20 a favor del curso en línea (p < 0,001), que los autores califican de «modestly better».
+Means, Toyama, Murphy, Bakia y Jones (2010) reunieron estudios publicados entre 1996 y julio de 2008 que comparaban condiciones en línea con presenciales. La copia leída cuenta 50 efectos independientes; otra copia citada por el buscador dice 51. El efecto medio fue de +0,20 a favor del curso en línea (p < 0,001), que los autores califican de «modestly better». Ese promedio junta cursos totalmente en línea y cursos mixtos. El artículo de 2013 de los mismos autores, del que este informe es el antecedente, los separa: +0,05 y no significativo para el curso totalmente en línea, +0,35 para el mixto. Esa separación está en [en línea, presencial y mixto](../../Diseno-instruccional/Formatos/en-linea-presencial-y-mixto.md), de Diseño instruccional.
 
 Los mismos autores advierten que las condiciones diferían en varias dimensiones, «including the amount of time that learners spend on task». La ventaja puede deberse a que en línea se dedicó más tiempo a estudiar, no al canal. Es el problema que señala el [debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md).
 
@@ -44,7 +44,7 @@ La mayoría de los estudios eran de educación superior y de formación profesio
 El límite mayor es la fecha. Los estudios terminan en 2008, antes de los cursos abiertos masivos, del video corto y de los tutores con IA. El metaanálisis compara a quienes cursaron, no a quienes se anotaron: nada dice sobre cuántos abandonan, que es la otra pregunta de la vertical y está en [finalización de los MOOC](finalizacion-de-mooc.md).
 
 > [!NOTE]
-> Sin fuente todavía: metaanálisis posteriores a 2010 sobre en línea frente a presencial, y el de Bernard et al. (2004) sobre educación a distancia. No se buscaron.
+> Sin fuente todavía: metaanálisis posteriores a 2013 sobre en línea frente a presencial. No se buscaron. El de Bernard et al. (2004) sobre educación a distancia está, por cita secundaria, en [en línea, presencial y mixto](../../Diseno-instruccional/Formatos/en-linea-presencial-y-mixto.md).
 
 ## Qué leer del informe
 

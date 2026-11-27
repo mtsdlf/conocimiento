@@ -27,4 +27,4 @@ Implementan los [espacios de conocimiento](espacios-de-conocimiento.md). Copiado
 | Datos de exactitud publicados | Sobre 1.940.473 experiencias de aprendizaje, «the median probability of learning success was .93» | No publica |
 | Conflicto de interés | El capítulo lo escribieron empleados de la empresa que vende el sistema | Página de producto |
 
-La duración del diagnóstico de Math Academy (circula «30 a 45 minutos») no figura en la página leída; queda sin verificar.
+La duración del diagnóstico de Math Academy tiene dos versiones en los informes de esta base, que leyeron la misma página («How it works»): uno la da como dicho de la página, «30 a 45 minutos», y el otro no la encontró ahí. Queda sin verificar. El repaso que el sistema programa después del diagnóstico está en la ficha de [herramientas de práctica adaptativa](../../Tecnologia-educativa/Practica-adaptativa/herramientas-de-practica-adaptativa.md#math-academy).

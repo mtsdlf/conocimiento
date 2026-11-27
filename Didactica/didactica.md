@@ -63,7 +63,7 @@ La respuesta cambia con quien aprende. La guía que sirve al novato estorba a qu
 - Si querés saber si entendieron sin preguntar «¿se entendió?»: [preguntas en clase](Preguntas-y-dialogo/preguntas-en-clase.md) y [autoexplicación](Preguntas-y-dialogo/autoexplicacion.md).
 - Si tenés que dar una clase larga o expositiva: [aprendizaje activo](Aprendizaje-activo-e-indagacion/aprendizaje-activo.md).
 - Si enseñás programación: [enseñar programación](Didacticas-especificas/ensenar-programacion.md) y, si quien aprende usa asistentes de código, [enseñar programación con IA](Didacticas-especificas/ensenar-programacion-con-ia.md).
-- Si tenés que armar un curso completo, con objetivos y secuencia: no es didáctica sino [Diseño instruccional](../Diseno-instruccional/diseno-instruccional.md); lo más cercano acá es [práctica independiente y dominio](Practica-guiada-y-andamiaje/practica-independiente-y-dominio.md).
+- Si tenés que armar un curso completo, con objetivos y secuencia: no es didáctica sino [Diseño instruccional](../Diseno-instruccional/diseno-instruccional.md), que arranca por los [objetivos de aprendizaje](../Diseno-instruccional/Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md) y la [secuencia](../Diseno-instruccional/Secuencia-y-curriculo/secuencia-y-curriculo.md); lo más cercano acá es [práctica independiente y dominio](Practica-guiada-y-andamiaje/practica-independiente-y-dominio.md).
 - Si alguien te cita una cifra o un método «probado»: [evidencia en educación](Fundamentos/evidencia-en-educacion.md) y [mitos de la enseñanza](Fundamentos/mitos-de-la-ensenanza.md).
 
 ## Del orden de una clase a sus disputas

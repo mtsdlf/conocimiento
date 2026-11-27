@@ -21,7 +21,7 @@ Hace a escala de un curso lo que el [tutor inteligente](../Tutores-inteligentes/
 
 ## Cómo decide qué practicar
 
-El sistema tiene un mapa del temario: qué temas hay y cuáles necesitan a cuáles. Suele arrancar con un diagnóstico que ubica al alumno en ese mapa. Después, con cada ejercicio, actualiza qué domina, y elige entre tres movidas: volver a un prerrequisito que falta, avanzar a un tema para el que ya tiene lo necesario o repasar algo que se está por olvidar.
+El sistema tiene un mapa del temario: qué temas hay y cuáles necesitan a cuáles. Suele arrancar con un diagnóstico que ubica al alumno en ese mapa; la lógica de esa medición está en [evaluación adaptativa](../../Evaluacion-educativa/Evaluacion-adaptativa/evaluacion-adaptativa.md) y [espacios de conocimiento](../../Evaluacion-educativa/Evaluacion-adaptativa/espacios-de-conocimiento.md). Después, con cada ejercicio, actualiza qué domina, y elige entre tres movidas: volver a un prerrequisito que falta, avanzar a un tema para el que ya tiene lo necesario o repasar algo que se está por olvidar.
 
 La descripción es la que dan los proveedores y la lógica del trazado de conocimiento; no viene de una revisión independiente.
 
@@ -37,11 +37,11 @@ Es un diseño con respaldo teórico y sin evidencia de efecto. El propio autor d
 
 Escueta et al. (2020) ubican estos sistemas dentro del aprendizaje asistido por computadora, una de sus cuatro categorías de tecnología educativa. Esta base no leyó sus conclusiones por categoría.
 
-El único ensayo adaptativo verificado en esta base es indirecto. En el ensayo de dos años de Oreopoulos y Low (2026, documento de trabajo del NBER, sin revisión por pares), el tutor de IA dio, según su resumen, un efecto parecido al de la práctica de Khan Academy sin IA: de 0,06 a 0,08 desvíos por año. La práctica adaptativa y la tutoría por chat dieron efectos parecidos y chicos, en escolares de matemática remedial.
+El único ensayo adaptativo verificado en esta base es indirecto. En el ensayo de dos años de Oreopoulos y Low (2026, documento de trabajo del NBER, sin revisión por pares), el tutor de IA dio, según su resumen, un efecto parecido al de la práctica de Khan Academy sin IA: de 0,06 a 0,08 desviaciones estándar por año. La práctica adaptativa y la tutoría por chat dieron efectos parecidos y chicos, en escolares de matemática remedial.
 
 > [!NOTE]
 > Sin fuente todavía: un metaanálisis de sistemas adaptativos comerciales (ALEKS, Duolingo y otros) y las conclusiones de Escueta et al. sobre el aprendizaje asistido por computadora. Para los tutores inteligentes, que son la familia más estudiada, está [evidencia de los tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md).
 
 ## Cómo leer la promesa de un producto
 
-Como lectura de esta base: que un sistema cite técnicas con evidencia (práctica distribuida, intercalado, efecto del testeo, ejemplos resueltos) no prueba que el sistema enseñe más. La evidencia es de la técnica, no del producto. La pregunta para un proveedor es si hay un estudio con grupo de control y una prueba externa, como pide [fuentes de tecnología educativa](../Fundamentos/fuentes-de-tecnologia-educativa.md).
+Como lectura de esta base: que un sistema cite técnicas con evidencia (práctica distribuida, intercalado, efecto de testeo, ejemplos resueltos) no prueba que el sistema enseñe más. La evidencia es de la técnica, no del producto. La pregunta para un proveedor es si hay un estudio con grupo de control y una prueba externa, como pide [fuentes de tecnología educativa](../Fundamentos/fuentes-de-tecnologia-educativa.md).

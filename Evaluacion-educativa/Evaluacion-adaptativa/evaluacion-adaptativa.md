@@ -17,7 +17,7 @@ revisado:
 
 La evaluación adaptativa elige cada pregunta según las respuestas anteriores, para estimar lo que sabe una persona con menos preguntas. La reúnen tres comunidades que casi no se citan: la psicometría (teoría de respuesta al ítem y tests adaptativos), los tutores inteligentes (seguimiento del conocimiento) y la psicología matemática (espacios de conocimiento).
 
-Dentro de la [evaluación educativa](../evaluacion-educativa.md), es la parte que modela a cada persona en lugar de comparar a todas con la misma prueba. Sirve sobre todo al [diagnóstico](../Propositos/evaluacion-diagnostica.md) y a la práctica, y hereda los problemas de [confiabilidad](../Validez-confiabilidad-y-equidad/confiabilidad.md) de cualquier medida. El software que practica y repasa adaptándose a cada uno, y los tutores que guían paso a paso, son [tecnología educativa](../../Tecnologia-educativa/tecnologia-educativa.md); acá está la lógica de la medición.
+Dentro de la [evaluación educativa](../evaluacion-educativa.md), es la parte que modela a cada persona en lugar de comparar a todas con la misma prueba. Sirve sobre todo al [diagnóstico](../Propositos/evaluacion-diagnostica.md) y a la práctica, y hereda los problemas de [confiabilidad](../Validez-confiabilidad-y-equidad/confiabilidad.md) de cualquier medida. El software que practica y repasa adaptándose a cada uno está en [sistemas adaptativos](../../Tecnologia-educativa/Practica-adaptativa/sistemas-adaptativos.md), y los tutores que guían paso a paso, en [tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/tutores-inteligentes.md), de Tecnología educativa; acá está la lógica de la medición.
 
 ## Tres comunidades, tres preguntas
 

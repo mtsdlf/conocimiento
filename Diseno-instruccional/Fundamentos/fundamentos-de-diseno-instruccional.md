@@ -28,8 +28,8 @@ No es una vertical del [diseño instruccional](../diseno-instruccional.md): ning
 
 Tres cosas que el diseño instruccional usa todo el tiempo son del área Pedagogía entera y no se repiten acá:
 
-- **Las teorías del aprendizaje** (conductismo, cognitivismo, constructivismo, sociocultural): en [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md).
-- **La historia de la enseñanza y de la didáctica**, de Comenio a la educación basada en evidencia: en [Didáctica](../../Didactica/didactica.md).
+- **Las teorías del aprendizaje** (conductismo, cognitivismo, constructivismo, sociocultural): en [teorías del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/teorias-del-aprendizaje.md), de Ciencias del aprendizaje.
+- **La historia de la enseñanza y de la didáctica**, de Comenio a la educación basada en evidencia: en [historia de la didáctica](../../Didactica/Fundamentos/historia-de-la-didactica.md).
 - **Cómo leer la evidencia educativa** (tamaños de efecto, metaanálisis, rankings como el de Hattie y sus críticas): en los fundamentos de los temas del área; mientras tanto, lo general está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md), de Psicología.
 
 Una advertencia propia del tema sí va acá: la evidencia del diseño instruccional es despareja. Los [principios multimedia](../Materiales-y-carga-cognitiva/principios-multimedia.md) tienen decenas de experimentos; los [modelos de diseño](../Modelos-de-diseno/modelos-de-diseno.md), casi ninguno. Casi todo viene de escuelas, universidades y salud, y llevarlo a adultos que aprenden IT en el trabajo es una extrapolación.

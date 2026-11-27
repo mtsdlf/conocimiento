@@ -17,7 +17,7 @@ revisado:
 
 Las fuentes de la tecnología educativa son los estudios, revisiones y documentos de proveedores en que se apoya el tema, con cuánto pesa cada tipo y cuánto se leyó de cada uno. Lo propio del tema al leer evidencia es separar uso de aprendizaje, prueba del investigador de prueba externa y preprint o prueba del proveedor de estudio revisado.
 
-Cómo leer un estudio en general (correlación o experimento, tamaño de efecto, metaanálisis) está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md), en Psicología. Cómo se lee la evidencia educativa en general (los rankings de intervenciones, los «meses de progreso») lo cubre el área desde [Didáctica](../../Didactica/didactica.md). Esta nota agrega lo que es propio de la tecnología.
+Cómo leer un estudio en general (correlación o experimento, tamaño de efecto, metaanálisis) está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md), en Psicología. Cómo se lee la evidencia educativa en general (los rankings de intervenciones, los «meses de progreso») está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md), de Didáctica. Esta nota agrega lo que es propio de la tecnología.
 
 ## Cinco preguntas antes de creerle a un estudio de tecnología
 

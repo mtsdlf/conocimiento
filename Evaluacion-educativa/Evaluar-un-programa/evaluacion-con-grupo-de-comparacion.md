@@ -16,7 +16,7 @@ revisado:
 
 Evaluar un programa con grupo de comparación es medir el mismo resultado en quienes hicieron el curso y en quienes no, para atribuirle la diferencia. Los estándares del What Works Clearinghouse ponen arriba los diseños con asignación controlada y exigen que los grupos empiecen parecidos.
 
-Es la tradición educativa de [evaluar un programa](evaluar-un-programa.md), y la respuesta al problema que deja abierto el [retorno de la capacitación](retorno-de-la-capacitacion.md): sin comparación no se sabe qué parte del cambio es del curso. Cómo se leen los resultados de estos estudios (tamaños de efecto, por qué los ensayos grandes dan efectos chicos) es transversal al área y vive en [Didáctica](../../Didactica/didactica.md) y en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
+Es la tradición educativa de [evaluar un programa](evaluar-un-programa.md), y la respuesta al problema que deja abierto el [retorno de la capacitación](retorno-de-la-capacitacion.md): sin comparación no se sabe qué parte del cambio es del curso. Cómo se leen los resultados de estos estudios (tamaños de efecto, por qué los ensayos grandes dan efectos chicos) es transversal al área y está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md) y en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
 
 ## Los estándares del What Works Clearinghouse
 

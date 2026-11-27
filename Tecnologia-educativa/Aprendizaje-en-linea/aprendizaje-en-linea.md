@@ -17,7 +17,7 @@ revisado:
 
 Aprendizaje en línea es la parte de la tecnología educativa que estudia los cursos que se dan por internet, a ritmo propio o en vivo, abiertos y masivos o con cupo. La evidencia trata aparte dos preguntas: si enseña tanto como el presencial y por qué tan pocos terminan.
 
-Dentro de [Tecnología educativa](../tecnologia-educativa.md) es el canal por el que llegan casi todas las otras tecnologías: un [tutor inteligente](../Tutores-inteligentes/tutores-inteligentes.md), un programa de [práctica adaptativa](../Practica-adaptativa/practica-adaptativa.md) o un tutor de [IA](../IA-en-la-educacion/ia-en-la-educacion.md) se usan dentro de un curso en línea. Por eso es también donde el [debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md) se pone a prueba más seguido. Cómo se diseña un curso, sea en línea o no, lo cubre [Diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md).
+Dentro de [Tecnología educativa](../tecnologia-educativa.md) es el canal por el que llegan casi todas las otras tecnologías: un [tutor inteligente](../Tutores-inteligentes/tutores-inteligentes.md), un programa de [práctica adaptativa](../Practica-adaptativa/practica-adaptativa.md) o un tutor de [IA](../IA-en-la-educacion/ia-en-la-educacion.md) se usan dentro de un curso en línea. Por eso es también donde el [debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md) se pone a prueba más seguido. Cómo se diseña un curso, sea en línea o no, lo cubre [Diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md), y la decisión entre formatos como parte de ese diseño, [en línea, presencial y mixto](../../Diseno-instruccional/Formatos/en-linea-presencial-y-mixto.md).
 
 ## Dos preguntas que no conviene mezclar
 

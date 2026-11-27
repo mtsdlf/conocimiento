@@ -17,7 +17,7 @@ revisado:
 
 El glosario del diseño instruccional define en una línea los términos que usa el tema, de ADDIE a la teoría de espacios de conocimiento, y enlaza la nota donde cada uno se explica.
 
-Los términos de todo el área (aprendizaje, conductismo, constructivismo, tamaño de efecto, metaanálisis) están en los glosarios de [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) y [Didáctica](../../Didactica/didactica.md). Cómo se lee una d o una g está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md). Este glosario es parte de los [fundamentos del diseño instruccional](fundamentos-de-diseno-instruccional.md).
+Los términos de todo el área (aprendizaje, conductismo, constructivismo, tamaño de efecto, metaanálisis) están en los glosarios de [ciencias del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/glosario-de-ciencias-del-aprendizaje.md) y de [didáctica](../../Didactica/Fundamentos/glosario-de-didactica.md). Cómo se lee una d o una g está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md). Este glosario es parte de los [fundamentos del diseño instruccional](fundamentos-de-diseno-instruccional.md).
 
 ## Términos del tema
 
@@ -50,7 +50,7 @@ Los términos de todo el área (aprendizaje, conductismo, constructivismo, tama�
 | Grafo de competencias | Red de competencias unidas por flechas de prerrequisito | [Jerarquía de aprendizaje](../Secuencia-y-curriculo/jerarquia-de-aprendizaje.md) |
 | Información de apoyo | En 4C/ID, lo que ayuda con los aspectos no rutinarios de la tarea | [4C/ID](../Modelos-de-diseno/4c-id.md) |
 | Información procedimental | En 4C/ID, los pasos rutinarios, dados en el momento en que hacen falta | [4C/ID](../Modelos-de-diseno/4c-id.md) |
-| Instrucción programada | Material en pasos chicos con respuesta y feedback inmediatos (Skinner) | [Historia del diseño instruccional](historia-del-diseno-instruccional.md) |
+| Instrucción programada | Material en pasos chicos con respuesta y retroalimentación inmediatas (Skinner) | [Historia del diseño instruccional](historia-del-diseno-instruccional.md) |
 | Jerarquía de aprendizaje | Árbol de prerrequisitos de una habilidad (Gagné) | [Jerarquía de aprendizaje](../Secuencia-y-curriculo/jerarquia-de-aprendizaje.md) |
 | Mixto (blended) | Curso que combina partes presenciales y en línea | [En línea, presencial y mixto](../Formatos/en-linea-presencial-y-mixto.md) |
 | Objetivo de desempeño | Objetivo con acción observable, condición y criterio (Mager) | [Objetivo de desempeño](../Objetivos-de-aprendizaje/objetivo-de-desempeno.md) |

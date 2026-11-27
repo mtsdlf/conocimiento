@@ -46,7 +46,7 @@ La comparación pública de la comunidad de FSRS usa 9.999 colecciones de Anki y
 
 ## Math Academy
 
-Plataforma paga de matemática (precio no verificado). Según su página, arranca con un diagnóstico adaptativo de 30 a 45 minutos, arma un grafo de conocimiento por alumno y programa repasos; cita práctica distribuida, intercalado, efecto del testeo y ejemplos resueltos, sin estudios ni datos de resultados. Implementa el repaso jerárquico de Skycak descrito en [sistemas adaptativos](sistemas-adaptativos.md). El autor dice que no hay estudios académicos del sistema.
+Plataforma paga de matemática (precio no verificado). Según su página, arranca con un diagnóstico adaptativo, arma un grafo de conocimiento por alumno y programa repasos; cita práctica distribuida, intercalado, efecto de testeo y ejemplos resueltos, sin estudios ni datos de resultados. Implementa el repaso jerárquico de Skycak descrito en [sistemas adaptativos](sistemas-adaptativos.md). El autor dice que no hay estudios académicos del sistema. Cómo infiere el diagnóstico lo que sabe cada alumno, y las dos versiones sobre cuánto dura, están en la ficha de [sistemas de diagnóstico adaptativo](../../Evaluacion-educativa/Evaluacion-adaptativa/sistemas-de-diagnostico-adaptativo.md).
 
 ## Khan Academy
 

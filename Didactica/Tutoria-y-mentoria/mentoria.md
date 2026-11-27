@@ -17,7 +17,7 @@ revisado:
 
 La mentoría es la relación sostenida en la que alguien con más experiencia acompaña la trayectoria de otro: su carrera, sus decisiones y su ánimo. Sus efectos son reales pero chicos y caen sobre actitudes y carrera más que sobre lo aprendido; para enseñar una habilidad, la evidencia está en la tutoría.
 
-En el habla corriente, "mentorear" a alguien en un oficio técnico suele incluir las dos cosas: enseñarle a resolver problemas y orientarlo en su carrera. La investigación las estudia por separado y con otras medidas. Cuando un mentor se sienta a enseñar, lo que hace es tutoría, y le sirven la [tutoría](tutoria.md) y el [aprendizaje cognitivo](../Practica-guiada-y-andamiaje/aprendizaje-cognitivo.md); cuando acompaña, entra en lo que mide la literatura de mentoría.
+En el habla corriente, "mentorear" a alguien en un oficio técnico suele incluir las dos cosas: enseñarle a resolver problemas y orientarlo en su carrera. La investigación las estudia por separado y con otras medidas. Cuando un mentor se sienta a enseñar, lo que hace es tutoría, y le sirven la [tutoría](tutoria.md) y el [aprendizaje cognitivo](../Practica-guiada-y-andamiaje/aprendizaje-cognitivo.md); cuando acompaña, entra en lo que mide la literatura de mentoría. La mentoría como práctica de un jefe o de una empresa, junto al coaching y el entrenamiento, está en [desarrollo de personas](../../Liderazgo-y-direccion/Gestion-de-personas/desarrollo-de-personas.md), de Liderazgo y dirección.
 
 ## Las dos funciones de Kram
 

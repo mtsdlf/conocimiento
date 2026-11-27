@@ -20,7 +20,7 @@ revisado: 2026-11-27
 
 Aprender por cuenta propia es estudiar sin un curso que marque el ritmo: elegir el material, organizarse y comprobar qué se aprendió. Las técnicas con más evidencia, testearse y espaciar el estudio, vienen de estudiantes con textos; llevarlas a un adulto que aprende solo es una extrapolación razonable, y en la capacitación laboral pesan más la meta, la persistencia y la autoeficacia que planificar.
 
-Dentro de [Efectividad personal](efectividad-personal.md) es el uso del tiempo propio para crecer en algo nuevo (finanzas, un lenguaje de programación, un idioma). Las técnicas de estudio y su evidencia están en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md), con la tabla de las diez técnicas de Dunlosky; cómo la práctica acumulada lleva a la maestría, en [experticia](../../Psicologia/Aprendizaje-y-memoria/experticia.md). Acá se cuenta cómo se lleva eso a quien aprende solo.
+Dentro de [Efectividad personal](efectividad-personal.md) es el uso del tiempo propio para crecer en algo nuevo (finanzas, un lenguaje de programación, un idioma). Las técnicas de estudio y su evidencia están en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md), con la tabla de las diez técnicas de Dunlosky; cómo la práctica acumulada lleva a la maestría, en [experticia](../../Psicologia/Aprendizaje-y-memoria/experticia.md). Acá se cuenta cómo se lleva eso a quien aprende solo. Por qué la práctica que se siente fácil engaña está en [dificultades deseables](../../Ciencias-del-aprendizaje/Memoria-y-practica/dificultades-deseables.md) e [ilusión de saber](../../Ciencias-del-aprendizaje/Metacognicion-y-autorregulacion/ilusion-de-saber.md), y cómo se dirige el propio estudio, en [aprendizaje autorregulado](../../Ciencias-del-aprendizaje/Metacognicion-y-autorregulacion/aprendizaje-autorregulado.md), de Ciencias del aprendizaje.
 
 ## Testearse y espaciar, aplicados por uno mismo
 
@@ -38,7 +38,7 @@ Para quien aprende solo, esta base infiere que eso desplaza la atención. Armar 
 
 ## Del libro a la práctica
 
-Saber algo no garantiza usarlo. Según un resumen de investigación sobre transferencia de la capacitación, al pasar de criterios de aprendizaje a criterios de conducta en el trabajo, «effect sizes decreased substantially».
+Saber algo no garantiza usarlo. Según un resumen de investigación sobre transferencia de la capacitación, al pasar de criterios de aprendizaje a criterios de conducta en el trabajo, «effect sizes decreased substantially». De qué depende que lo aprendido se use está en [transferencia de la capacitación](../../Evaluacion-educativa/Evaluar-un-programa/transferencia-de-la-capacitacion.md), y por qué cuesta llevarlo a otro contexto, en [transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md).
 
 > [!NOTE] Sin fuente todavía: una comparación, en adultos que aprenden por su cuenta, entre leer libros de no ficción y practicar lo aprendido. Es el hueco central de esta nota; tampoco se abrió el metaanálisis de práctica distribuida de Cepeda (2006).
 

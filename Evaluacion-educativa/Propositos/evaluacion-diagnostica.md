@@ -20,7 +20,7 @@ revisado:
 
 La evaluación diagnóstica averigua qué sabe alguien antes de enseñarle, para decidir por dónde empezar. Las técnicas con más respaldo son inferir por prerrequisitos y preguntar por el primer paso de la solución; preguntarle a la persona cuánto sabe orienta, pero no alcanza.
 
-Es uno de los tres [propósitos](propositos.md) de la evaluación y el que menos literatura propia tiene: el campo lo trata como un uso de la evaluación formativa o sumativa. Lo que sí hay viene de dos lados, la [evaluación adaptativa](../Evaluacion-adaptativa/evaluacion-adaptativa.md) y la teoría de la carga cognitiva. El porqué de diagnosticar (que lo que ayuda a un novato estorba a un experto) es de las [ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md).
+Es uno de los tres [propósitos](propositos.md) de la evaluación y el que menos literatura propia tiene: el campo lo trata como un uso de la evaluación formativa o sumativa. Lo que sí hay viene de dos lados, la [evaluación adaptativa](../Evaluacion-adaptativa/evaluacion-adaptativa.md) y la teoría de la [carga cognitiva](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md). El porqué de diagnosticar (que lo que ayuda a un novato estorba a un experto) está en [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md), de Didáctica, y en [conocimiento previo](../../Ciencias-del-aprendizaje/Conocimiento-previo-y-comprension/conocimiento-previo.md), de Ciencias del aprendizaje.
 
 ## Preguntar por el primer paso
 
@@ -49,7 +49,7 @@ Aplicado a mano, un diagnóstico para un grupo chico puede hacerse así (inferen
 
 ## Por qué la autoevaluación no alcanza
 
-Preguntar «¿cuánto sabés de esto?» es barato y sirve para orientar, no para saltear contenido. Dunning, Heath y Suls (2004) concluyen que la correlación entre la autoevaluación y el desempeño es «moderate to meager» en muchos dominios, y que la gente tiende a sobrestimarse. En capacitación, el metaanálisis de Sitzmann et al. (2010) encontró que el conocimiento autoevaluado se relaciona más con la motivación y la satisfacción que con el aprendizaje, donde la relación fue moderada. Según el mismo trabajo, «nearly a third» de los estudios de evaluación de capacitación tomaron el conocimiento autoevaluado como prueba de aprendizaje.
+Preguntar «¿cuánto sabés de esto?» es barato y sirve para orientar, no para saltear contenido. Dunning, Heath y Suls (2004) concluyen que la correlación entre la autoevaluación y el desempeño es «moderate to meager» en muchos dominios, y que la gente tiende a sobrestimarse. Por qué pasa y quién se sobreestima más está en [calibración](../../Ciencias-del-aprendizaje/Metacognicion-y-autorregulacion/calibracion.md). En capacitación, el metaanálisis de Sitzmann et al. (2010) encontró que el conocimiento autoevaluado se relaciona más con la motivación y la satisfacción que con el aprendizaje, donde la relación fue moderada. Según el mismo trabajo, «nearly a third» de los estudios de evaluación de capacitación tomaron el conocimiento autoevaluado como prueba de aprendizaje.
 
 La versión popular de que los que menos saben se sobrestiman más está en disputa; ver [sobreconfianza](../../Psicologia/Juicio-y-decision/sobreconfianza.md).
 

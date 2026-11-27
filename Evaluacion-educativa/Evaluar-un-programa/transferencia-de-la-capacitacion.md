@@ -20,7 +20,7 @@ revisado:
 
 La transferencia de la capacitación es que lo aprendido en un curso se generalice y se mantenga en el trabajo. Según el modelo de Baldwin y Ford (1988), depende de quien aprende, del diseño del curso y del ambiente de trabajo, y el ambiente pesa más en habilidades abiertas como el liderazgo que en cerradas como un software.
 
-Es el tercer nivel de [Kirkpatrick](niveles-de-kirkpatrick.md) visto como problema: no alcanza con medir si se usa, hay que saber de qué depende. La transferencia como fenómeno cognitivo (por qué cuesta usar algo en un contexto distinto del que se aprendió) es de las [ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md). Que los efectos caen mucho al pasar de criterios de aprendizaje a criterios de conducta, y qué hace quien aprende por su cuenta para que no caigan, está en [aprender por cuenta propia](../../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md).
+Es el tercer nivel de [Kirkpatrick](niveles-de-kirkpatrick.md) visto como problema: no alcanza con medir si se usa, hay que saber de qué depende. La transferencia como fenómeno cognitivo (por qué cuesta usar algo en un contexto distinto del que se aprendió) está en [transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md), de Ciencias del aprendizaje. Que los efectos caen mucho al pasar de criterios de aprendizaje a criterios de conducta, y qué hace quien aprende por su cuenta para que no caigan, está en [aprender por cuenta propia](../../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md).
 
 ## El modelo de Baldwin y Ford
 

@@ -20,7 +20,7 @@ revisado:
 
 Lo que atraviesa toda la evaluación educativa: de dónde salen sus conceptos (Scriven, Glaser, Bloom, la psicometría), las dos culturas que conviven en el campo (la medición y la evaluación de aula), los mitos que circulan y dónde están las fuentes y el glosario.
 
-No es una parte del sujeto: es lo que hace falta para leer las verticales de [evaluación educativa](../evaluacion-educativa.md). Lo que es de toda el área Pedagogía (cómo se lee la evidencia educativa, los tamaños de efecto, las síntesis como las de Hattie y la EEF) se escribe en [Didáctica](../../Didactica/didactica.md) y no se repite acá.
+No es una parte del sujeto: es lo que hace falta para leer las verticales de [evaluación educativa](../evaluacion-educativa.md). Lo que es de toda el área Pedagogía (cómo se lee la evidencia educativa, los tamaños de efecto, las síntesis como las de Hattie y la EEF) está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md), de Didáctica, y no se repite acá.
 
 ## De dónde salen los conceptos
 

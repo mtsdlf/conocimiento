@@ -32,7 +32,7 @@ El número es una recomendación de producción a partir de cuándo la gente dej
 La recomendación es razonable como práctica de producción. Lo que no hace es probar que un video de cinco minutos enseña más que uno de quince con el mismo contenido.
 
 > [!NOTE]
-> Sin fuente todavía: evidencia experimental sobre aprendizaje con video, como los principios de multimedia de Mayer o las preguntas incrustadas en el video. No se buscó en esta ronda; la carga de la memoria de trabajo frente a una pantalla está en [carga cognitiva](../../UX/Percepcion-y-decision/carga-cognitiva.md), del tema UX, y el diseño de materiales en [Diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md).
+> Sin fuente todavía: evidencia experimental sobre aprendizaje con video, como las preguntas incrustadas en el video. No se buscó en esta ronda. Los principios de Mayer para combinar palabras e imágenes están en [principios multimedia](../../Diseno-instruccional/Materiales-y-carga-cognitiva/principios-multimedia.md), de Diseño instruccional, y la carga de la memoria de trabajo frente a una pantalla, en [carga cognitiva](../../UX/Percepcion-y-decision/carga-cognitiva.md), del tema UX.
 
 ## Dónde encaja en un curso
 

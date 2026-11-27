@@ -30,7 +30,7 @@ El metaanálisis reunió 50 efectos de 45 estudios que comparaban una condición
 | Totalmente en línea contra presencial | 27 | +0,05 | No (p = 0,46) |
 | Mixto contra presencial | 23 | +0,35 | Sí (p < 0,0001) |
 
-La diferencia entre en línea y mixto también es significativa. Los autores recuerdan un antecedente, Zhao et al. (2005): d = +0,10 con 98 efectos de 51 estudios, y diseños mixtos con 60 a 80 % del aprendizaje mediado por tecnología que rendían más que la educación a distancia casi pura.
+La diferencia entre en línea y mixto también es significativa. Lo que agrandó y achicó el efecto en el informe de 2010 (mismo método o no, con docente, en grupo o solo, grado o posgrado) está en [en línea y presencial](../../Tecnologia-educativa/Aprendizaje-en-linea/en-linea-y-presencial.md), de Tecnología educativa. Los autores recuerdan un antecedente, Zhao et al. (2005): d = +0,10 con 98 efectos de 51 estudios, y diseños mixtos con 60 a 80 % del aprendizaje mediado por tecnología que rendían más que la educación a distancia casi pura.
 
 ## Por qué la ventaja del mixto no es del medio
 

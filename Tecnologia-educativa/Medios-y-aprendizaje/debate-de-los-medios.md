@@ -57,7 +57,7 @@ Ante un estudio que dice que una tecnología mejora el aprendizaje, el debate da
 2. ¿El grupo de control recibió ese mismo método sin la tecnología, o recibió menos? Comparar contra «nada» o contra una clase expositiva mide el método más el medio.
 3. ¿Hubo más tiempo, más práctica o más atención en el grupo con la tecnología? Means et al. lo marcan como explicación posible de su efecto.
 
-El experimento de Bastani et al. (2025) es un caso que el debate ayuda a leer: el mismo modelo de lenguaje, con dos métodos distintos (dar respuestas o guiar), dio resultados opuestos. Está en [la IA como tutor](../IA-en-la-educacion/ia-como-tutor.md). Cómo leer la evidencia educativa en general, más allá de este tema, lo cubre [Didáctica](../../Didactica/didactica.md).
+El experimento de Bastani et al. (2025) es un caso que el debate ayuda a leer: el mismo modelo de lenguaje, con dos métodos distintos (dar respuestas o guiar), dio resultados opuestos. Está en [la IA como tutor](../IA-en-la-educacion/ia-como-tutor.md). Cómo leer la evidencia educativa en general, más allá de este tema, está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md), de Didáctica.
 
 ## Qué leer del debate
 

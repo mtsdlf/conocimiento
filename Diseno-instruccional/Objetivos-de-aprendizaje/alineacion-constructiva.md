@@ -18,7 +18,7 @@ revisado:
 
 La alineación constructiva es diseñar un curso de modo que el objetivo, la actividad y la evaluación pidan lo mismo: el verbo del resultado esperado se practica en la actividad y se comprueba en la evaluación. La propuso Biggs; su evidencia es observacional y él mismo pide estudios controlados.
 
-Es el tercer trabajo de los [objetivos de aprendizaje](objetivos-de-aprendizaje.md), el que los conecta con el resto del curso. Comparte el antecedente de Tyler (1949) con el [diseño hacia atrás](../Modelos-de-diseno/diseno-hacia-atras.md): la alineación es la propiedad que tiene que cumplir el curso terminado, y el diseño hacia atrás es el orden de trabajo que la produce. Cómo se arma una evaluación que mida el verbo pedido es tema de [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md).
+Es el tercer trabajo de los [objetivos de aprendizaje](objetivos-de-aprendizaje.md), el que los conecta con el resto del curso. Comparte el antecedente de Tyler (1949) con el [diseño hacia atrás](../Modelos-de-diseno/diseno-hacia-atras.md): la alineación es la propiedad que tiene que cumplir el curso terminado, y el diseño hacia atrás es el orden de trabajo que la produce. Cómo se arma una evaluación que mida el verbo pedido está en los [instrumentos](../../Evaluacion-educativa/Instrumentos/instrumentos.md) de Evaluación educativa, y si de verdad lo mide, en [validez](../../Evaluacion-educativa/Validez-confiabilidad-y-equidad/validez.md).
 
 ## El verbo como hilo
 

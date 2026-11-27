@@ -47,5 +47,5 @@ Toda esa evidencia es de docentes escolares de matemática y ciencias. Que el PC
 
 ## Con qué se confunde
 
-- **Con saber mucho de la materia.** Shulman lo separó de la materia porque saberla no incluye saber qué le cuesta a quien la aprende; el PCK es ese saber sobre la dificultad. Cómo se analiza lo que hace un experto para enseñarlo está en [Diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md).
+- **Con saber mucho de la materia.** Shulman lo separó de la materia porque saberla no incluye saber qué le cuesta a quien la aprende; el PCK es ese saber sobre la dificultad. Cómo se analiza lo que hace un experto para enseñarlo está en [análisis cognitivo de tareas](../../Diseno-instruccional/Analisis-previo/analisis-cognitivo-de-tareas.md), de Diseño instruccional.
 - **Con una técnica general.** Hacer preguntas o dar retroalimentación son técnicas que sirven en cualquier materia; el PCK dice qué preguntar y qué error esperar en una materia concreta.
