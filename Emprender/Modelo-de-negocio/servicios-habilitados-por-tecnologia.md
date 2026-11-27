@@ -13,6 +13,7 @@ fuentes:
   - "McKinsey, Private equity investments in tech services: Three considerations (según resumen): https://www.mckinsey.com/industries/private-capital/our-insights/private-equity-investments-in-tech-services-three-considerations"
   - "Fortune, AI roll-up investment strategy (27 de junio de 2025), según resumen: https://fortune.com/2025/06/27/ai-rollup-investment-strategy/"
   - "TechCrunch, The AI services transformation may be harder than VCs think (28 de septiembre de 2025), según resumen: https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/"
+  - "Globant, transcripción de la llamada del 4T 2025 (Motley Fool, 2026-02-27): https://www.fool.com/earnings/call-transcripts/2026/02/27/globant-glob-q4-2025-earnings-call-transcript/"
   - "Emprender/.investigacion/modelos-saas-y-servicios.md"
   - "Emprender/.investigacion/oportunidades-y-modelos-contraria.md"
 aliases: [tech-enabled services, servicios con software, software con servicio, done for you, hecho para vos, service-as-software, services-as-software, full-stack startup]
@@ -56,7 +57,7 @@ Crece con gente: cada cliente nuevo pide horas, salvo la parte que el software a
 > Que la IA convierta el servicio en un negocio de software está en discusión.
 > - **A favor**: la tesis de Foundation Capital y de Sequoia, y proyecciones de practicantes que esperan márgenes brutos de 30 % el primer año, 45 % el segundo y más de 60 % el tercero (un ensayo de blog, sin datos).
 > - **En contra**: Fortune (2025) recoge a inversores que dicen que la diferencia de múltiplos entre servicios y software existe «for a reason». TechCrunch (2025) advierte que las mejoras de margen pueden no llegar si hace falta gente para corregir lo que produce la IA.
-> - **Lo que falta**: márgenes auditados de empresas de servicios con IA. No se encontró ninguno.
+> - **Lo que falta**: márgenes auditados de empresas de servicios con IA. No se encontró ninguno. El único número público es un dicho de la gerencia de Globant: sus AI Pods, una suscripción a capacidad de agentes, dejarían entre 45 % y 60 % de margen bruto contra 38 % de su negocio de siempre, sin auditar por línea ([márgenes por modelo de negocio](margenes-por-modelo-de-negocio.md#servicios-de-software-2025-y-2026)).
 
 ## Cuándo conviene
 

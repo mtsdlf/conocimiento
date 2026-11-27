@@ -7,6 +7,8 @@ resumen: >-
 estado: vigente
 estabilidad: volatil
 fuentes:
+  - "BCRA, Comunicación A 8481 (septiembre de 2026), puntos 2.2.1 y 2.2.2.1: https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A8481.pdf"
+  - "Economía del Conocimiento, régimen y beneficiarios: https://www.argentina.gob.ar/node/246733"
   - "BCRA, Comunicación A 8417 (09/04/2026): https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A8417.pdf"
   - "BCRA, texto ordenado Exterior y Cambios al 14/09/2026 (última comunicación incorporada: A 8481): https://www.bcra.gob.ar/archivos/Pdfs/texord/t-excbio.pdf"
   - "abogados.com.ar, BCRA flexibiliza controles de cambio (13/04/2026): https://abogados.com.ar/bcra-flexibiliza-controles-de-cambio/38887"
@@ -118,6 +120,22 @@ empresa que lo contrata, o una sociedad propia, está inscripta.
 El proyecto «Mono-Tech», un régimen simplificado para pequeños contribuyentes tecnológicos, tuvo
 media sanción de Diputados según una nota de 2023 (111 votos a favor, 11 en contra, 85
 abstenciones). No se encontró evidencia de sanción del Senado: no se puede afirmar que exista.
+
+## Una empresa sí liquida
+
+La excepción del punto 2.2.2.1 es solo para personas humanas. Una empresa que exporta servicios tiene que ingresar y liquidar los cobros en pesos dentro de 20 días hábiles (Comunicación A 8481, septiembre de 2026, punto 2.2.1). La única excepción para empresas es la del Decreto 679/22: una inscripta en el régimen de economía del conocimiento puede quedarse en dólares con hasta 30 % del *aumento* de sus exportaciones contra el mismo trimestre de 2021, y solo para pagar sueldos en dólares; el texto del decreto no se leyó.
+
+Lo que la empresa gana a cambio es el régimen de la Ley 27.506, según la página oficial del régimen:
+
+| Qué da o pide | Cuánto |
+|---|---|
+| Bono de crédito fiscal | 70 % de las contribuciones patronales; 80 % para contrataciones prioritarias |
+| Baja de ganancias | 60 % para una micro, 40 % para una pyme, 20 % para una grande |
+| Uso del bono contra ganancias | Solo si la empresa exporta; los servicios no pagan derechos de exportación |
+| Exportación mínima para entrar | 4 % de la facturación para una micro, 10 % para una pyme, 13 % para una grande |
+| Vigencia | Hasta el 31 de diciembre de 2029, con revalidación cada dos años |
+
+La lectura de esta base es que exportar le da a una empresa chica precios en dólares y los beneficios de la ley, pero no le deja los dólares, salvo una porción chica para sueldos, mientras que una persona que exporta los conserva. Conviene tenerlo en cuenta al comparar vender afuera como persona o como sociedad. Es una sola fuente por regla (la comunicación del BCRA y la página del régimen); la industria que exporta así está en [servicios de software y la IA](../../Estrategia-competitiva/Analisis-de-industria/servicios-de-software-y-la-ia.md#argentina-exporta-y-le-cuesta-vender-adentro).
 
 ## Contractor, EOR y dependencia: solo vendedores
 
