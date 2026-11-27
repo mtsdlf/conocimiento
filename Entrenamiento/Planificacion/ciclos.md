@@ -43,7 +43,7 @@ La sesión suele describirse en tres partes: entrada en calor, parte principal y
 > [!NOTE]
 > Sin fuente todavía: una fuente primaria sobre la estructura de la sesión y sobre la vuelta a la calma.
 
-Lo que sí se estudió es si la entrada en calor previene lesiones, y la evidencia es mixta. Una revisión de cinco ensayos encontró que tres redujeron el riesgo y dos no, y concluyó que no alcanza para recomendar ni para abandonar el calentamiento de rutina, aunque el peso de la evidencia va a favor ([Fradkin y otros, 2006](https://pubmed.ncbi.nlm.nih.gov/16679062/), según su resumen). Los resultados positivos vienen sobre todo de programas neuromusculares estructurados, como el FIFA 11+ del fútbol, no de un calentamiento genérico ([Bizzini y Dvorak](https://link.springer.com/article/10.1186/1741-7015-10-75), según su resumen). Estirar no previene lesiones, como cuenta [mitos del entrenamiento](../Fundamentos/mitos-del-entrenamiento.md).
+Lo que sí se estudió es si la entrada en calor previene lesiones, y la evidencia es mixta. Una revisión de cinco ensayos encontró que tres redujeron el riesgo y dos no, y concluyó que no alcanza para recomendar ni para abandonar el calentamiento de rutina, aunque el peso de la evidencia va a favor ([Fradkin y otros, 2006](https://pubmed.ncbi.nlm.nih.gov/16679062/), según su resumen). Los resultados positivos vienen de programas neuromusculares estructurados, como el 11+ del fútbol. Una revisión de 9 estudios encontró que el 11+ bajó las lesiones de piernas en jugadoras jóvenes de fútbol amateur (riesgo relativo 0,67), con programas de estiramiento, fuerza, equilibrio, agilidad y técnica de aterrizaje hechos más de tres meses seguidos ([Herman y otros, 2012](https://link.springer.com/article/10.1186/1741-7015-10-75), texto completo). Siete de los nueve estudios eran solo en mujeres, y la revisión no comparó esos programas con un calentamiento genérico. Estirar no previene lesiones, como cuenta [mitos del entrenamiento](../Fundamentos/mitos-del-entrenamiento.md).
 
 ## El microciclo: la semana como unidad práctica
 
@@ -53,7 +53,7 @@ Las disciplinas arman su semana con sus propias piezas: el reparto de días fác
 
 ## El mesociclo: un bloque con un objetivo
 
-El mesociclo junta varias semanas que persiguen lo mismo y progresan, y, según la práctica que describe la encuesta de abajo, suele cerrar con una semana más liviana. En una encuesta a 246 atletas de fuerza y de físico, la descarga se hacía en promedio unos 6,4 días cada unas 5,6 semanas ([Rogerson y otros, 2024](https://link.springer.com/article/10.1186/s40798-024-00691-y), según su resumen). Eso describe lo que hacen, no prueba que funcione: la evidencia está en [descarga y taper](descarga-y-taper.md).
+El mesociclo junta varias semanas que persiguen lo mismo y progresan, y, según la práctica que describe la encuesta de abajo, suele cerrar con una semana más liviana. En una encuesta a 246 atletas de fuerza y de físico que compiten, la descarga se hacía en promedio unos 6,4 días cada unas 5,6 semanas ([Rogerson y otros, 2024](https://link.springer.com/article/10.1186/s40798-024-00691-y), texto completo). Eso describe lo que hacen, no prueba que funcione: la evidencia está en [descarga y taper](descarga-y-taper.md).
 
 Cómo se encadenan los mesociclos depende del modelo. En el clásico, según la descripción habitual (sin fuente leída), la carga pasa de mucho volumen a mucha intensidad a lo largo del año; en el de bloques, cada mesociclo concentra pocas capacidades ([Issurin, 2010](https://pubmed.ncbi.nlm.nih.gov/20199119/), según su resumen). Las diferencias y su evidencia están en [modelos de periodización](modelos-de-periodizacion.md).
 
@@ -63,4 +63,4 @@ El macrociclo organiza el camino hacia una competencia: una base general, una et
 
 ## Qué tan firme es lo que dice esta nota
 
-La nomenclatura sale de un programa de cátedra leído en el documento y de la ficha de un libro. Lo de la entrada en calor y la encuesta de descarga, de resúmenes. Las duraciones del mesociclo y del macrociclo no tienen fuente en esta base.
+La nomenclatura sale de un programa de cátedra leído en el documento y de la ficha de un libro. Lo de la entrada en calor, de un resumen (Fradkin) y del texto completo de una revisión (Herman); la encuesta de descarga, del texto completo. Las duraciones del mesociclo y del macrociclo no tienen fuente en esta base.

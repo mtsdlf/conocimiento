@@ -12,7 +12,8 @@ fuentes:
   - https://doi.org/10.3389/fpsyg.2024.1377122
   - https://doi.org/10.1038/s41598-024-65753-3
   - https://pubmed.ncbi.nlm.nih.gov/34757594/
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1136/bjsports-2018-100328
+  - https://doi.org/10.1249/MSS.0000000000003897
 aliases: [coordinación, equilibrio, capacidad aeróbica, VO2max, ejercicio neuromotor, rendimiento físico]
 dueno: familia
 creado: 2026-11-27
@@ -44,13 +45,13 @@ La mejor evidencia sobre equilibrio es en mayores. Una revisión Cochrane (la or
 
 ## Practicar variado se retiene mejor
 
-Para aprender una habilidad motora, mezclar variantes en la misma sesión (práctica aleatoria) se retiene y se transfiere mejor que repetir una sola cosa en bloque. Dos metaanálisis del mismo campo dan un efecto medio a favor de la práctica variada: 0,55 en tamaño del efecto (cuánto difieren los grupos, en unidades comparables) para la transferencia ([Frontiers in Psychology, 2024](https://doi.org/10.3389/fpsyg.2024.1377122); [Scientific Reports, 2024](https://doi.org/10.1038/s41598-024-65753-3)). Comparten literatura de base, así que no son del todo independientes, y no está claro que la ventaja sea igual en ejercicios de gimnasio.
+Para aprender una habilidad motora, mezclar variantes en la misma sesión (práctica aleatoria) se retiene y se transfiere mejor que repetir una sola cosa en bloque. Dos metaanálisis del mismo campo dan un efecto medio a favor de la práctica variada: 0,55 en tamaño del efecto (cuánto difieren los grupos, en unidades comparables) para la transferencia y 0,63 para la retención ([Frontiers in Psychology, 2024](https://doi.org/10.3389/fpsyg.2024.1377122); [Scientific Reports, 2024](https://doi.org/10.1038/s41598-024-65753-3)). El efecto viene sobre todo del laboratorio: en los estudios hechos en clases o en juego, los dos encontraron una ventaja chica y no significativa (0,34 en transferencia y 0,23 en retención). Comparten literatura de base, así que no son del todo independientes, y no está claro que la ventaja sea igual en ejercicios de gimnasio.
 
-Podría aplicarse a un deporte de habilidad como el [golf](../Golf/golf.md), practicando golpes distintos y no cien veces el mismo; es una extrapolación.
+Podría aplicarse a un deporte de habilidad como el [golf](../Golf/golf.md), practicando golpes distintos y no cien veces el mismo; es una extrapolación, y justo en la cancha y en la clase es donde la ventaja medida es más chica.
 
 ## Potencia y velocidad
 
-La fuerza mejora la potencia: la posición 2026 de la ACSM encontró que el entrenamiento de fuerza la mejora frente a no entrenar ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/)). Lo único que el cardio le resta es la fuerza explosiva, sobre todo si va en la misma sesión que la fuerza; separarlos 3 horas o más hizo que la pérdida deje de ser significativa ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/)).
+La fuerza mejora la potencia: la posición 2026 de la ACSM encontró, según su texto completo, que el entrenamiento de fuerza la mejora frente a no entrenar ([Currier y otros, 2026](https://doi.org/10.1249/MSS.0000000000003897)). Lo único que el cardio le resta es la fuerza explosiva, sobre todo si va en la misma sesión que la fuerza; separarlos 3 horas o más hizo que la pérdida deje de ser significativa ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/)).
 
 > [!NOTE]
 > Sin fuente todavía: cómo entrenar potencia y velocidad en adultos que no compiten. El programa para un deporte concreto es trabajo de un profesor ([elegir un plan o un entrenador](Fundamentos/elegir-plan-o-entrenador.md)).
@@ -59,8 +60,8 @@ Para rendir también importa lo que se come alrededor del entrenamiento: está e
 
 ## La misma dosis no da lo mismo a todos
 
-Un consenso publicado en 2019 en una revista de medicina del deporte describe grandes diferencias individuales en cuánto sube la capacidad aeróbica con la misma dosis, con una parte genética (Ross y otros, 2019, *British Journal of Sports Medicine*). Otras revisiones advierten que llamar «no respondedor» a alguien suele inflarse por no descontar el error de medición, y mencionan un trabajo (no leído) en el que, según ellas, nadie dejó de responder en todas las medidas a la vez.
+Un consenso publicado en 2019 en una revista de medicina del deporte describe grandes diferencias individuales en cuánto sube la capacidad aeróbica con la misma dosis: estudios de los años ochenta vieron subas de 0 a cerca del 50 %, y en gemelos y familias la herencia explicó alrededor de la mitad de esa variación ([Ross y otros, 2019](https://doi.org/10.1136/bjsports-2018-100328)). Otras revisiones advierten que llamar «no respondedor» a alguien suele inflarse por no descontar el error de medición, y mencionan un trabajo (no leído) en el que, según ellas, nadie dejó de responder en todas las medidas a la vez.
 
 ## Qué tan firme es lo que dice esta nota
 
-Todas las fuentes se leyeron según su resumen; lo de los "no respondedores", de segunda mano. Lo de capacidad aeróbica es observacional con dos fuentes concordantes; lo de caídas, de ensayos en mayores con certeza alta; lo de aprendizaje motor, de metaanálisis con literatura compartida.
+Mandsager, Sherrington, los dos metaanálisis de aprendizaje motor, Schumann y Ross se leyeron en texto completo; Kodama, la guía del ACSM 2011 y la de ESSA, según su resumen; lo de los "no respondedores", de segunda mano. Lo de capacidad aeróbica es observacional con dos fuentes concordantes; lo de caídas, de ensayos en mayores con certeza alta; lo de aprendizaje motor, de metaanálisis con literatura compartida.

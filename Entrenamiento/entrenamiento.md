@@ -7,7 +7,7 @@ dueno: familia
 fuentes:
   - https://bjsm.bmj.com/content/54/24/1451
   - https://www.argentina.gob.ar/salud/actividad-fisica/mantenerse-activo
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1249/MSS.0000000000003897
   - https://www.nsca.com/essentials-strength/
 aliases: [Teoría del entrenamiento, Entrenamiento deportivo, Educación física, Training]
 creado: 2026-11-27
@@ -20,7 +20,7 @@ Entrenar es aplicarle al cuerpo una carga planificada para que se adapte y pueda
 
 Según el modelo clásico, que hoy se trata como metáfora útil y no como mecanismo medido ([supercompensación](Adaptacion/supercompensacion.md)), una sesión no mejora a nadie en el momento: cansa. La mejora llega después, mientras el cuerpo se recupera y se ajusta a lo que se le pidió. De ahí sale la idea que ordena el tema: el entrenamiento es una dosis. Tiene un tipo (qué capacidad se estimula), una cantidad (la carga), un orden en el tiempo (la planificación) y una respuesta que se mide (la evaluación), y solo sirve si se recupera. Correr y levantar pesas se ven distintos, pero obedecen esas mismas reglas.
 
-La mayor parte del resultado sale de pocas cosas: entrenar fuerza y algo de cardio, subir de a poco la exigencia y sostenerlo en el tiempo (lectura de esta base a partir de las guías de [principios básicos](Carga/principios-basicos.md) y [cuánto ejercicio](Carga/cuanto-ejercicio.md)). Los detalles finos de una rutina pesan bastante menos: según el resumen de la posición 2026 del ACSM, pocas variables de la prescripción afectaron las adaptaciones principales. Por eso la base tiene dos alturas: arriba, las decisiones que alcanzan para entrenar bien; abajo, la teoría y las disciplinas, para quien quiera entender por qué o armar su propio plan.
+La mayor parte del resultado sale de pocas cosas: entrenar fuerza y algo de cardio, subir de a poco la exigencia y sostenerlo en el tiempo (lectura de esta base a partir de las guías de [principios básicos](Carga/principios-basicos.md) y [cuánto ejercicio](Carga/cuanto-ejercicio.md)). Los detalles finos de una rutina pesan bastante menos: según la posición 2026 del ACSM, leída completa, pocas variables de la prescripción afectaron las adaptaciones principales. Por eso la base tiene dos alturas: arriba, las decisiones que alcanzan para entrenar bien; abajo, la teoría y las disciplinas, para quien quiera entender por qué o armar su propio plan.
 
 Lo que se come para cada objetivo está en [Nutrición](../Nutricion/nutricion.md), sobre todo en [objetivos del adulto](../Nutricion/Objetivos-del-adulto/objetivos-del-adulto.md). La actividad física de los chicos está en [Crianza](../Crianza/Salud-y-rutinas/actividad-fisica.md). Quedan afuera la enseñanza escolar de la educación física, la técnica paso a paso de cada ejercicio, el alto rendimiento y la rehabilitación de lesiones ([alcance](ALCANCE.md)).
 
@@ -70,7 +70,7 @@ Quien empieza casi nunca pregunta por la supercompensación: quiere bajar grasa,
 
 Las dos disciplinas parecen opuestas: una busca durar y la otra, hacer fuerza. Pero las preguntas de quien entrena son las mismas: cuánto, qué tan fuerte, cada cuánto, cuándo descansar y cómo saber si funciona. La parte general responde esas preguntas una sola vez, y cada disciplina pone solo sus unidades: el ritmo por kilómetro y las zonas en la resistencia, las series y las repeticiones en reserva en la musculación.
 
-Combinar las dos también es una pregunta general. Correr y levantar pesas en la misma semana pueden restarse algo, sobre todo en la fuerza explosiva (Schumann 2022, según su resumen), y esa interacción está en [fuerza y cardio](Planificacion/fuerza-y-cardio.md).
+Combinar las dos también es una pregunta general. Correr y levantar pesas en la misma semana pueden restarse algo, sobre todo en la fuerza explosiva (Schumann y otros, 2022, un metaanálisis de 43 estudios leído completo), y esa interacción está en [fuerza y cardio](Planificacion/fuerza-y-cardio.md).
 
 ## Qué leer según tu objetivo
 

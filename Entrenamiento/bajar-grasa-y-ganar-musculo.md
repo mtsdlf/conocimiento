@@ -29,7 +29,7 @@ Hacé fuerza con cada grupo grande al menos dos veces por semana y subí el peso
 
 ## La fuerza es la que protege el músculo en un déficit
 
-Cuando se baja de peso solo con dieta, una parte de lo perdido es músculo. Una revisión concluye que el ejercicio aeróbico y el de fuerza ayudan a preservarlo, y que la fuerza además mejora la fuerza muscular ([Cava y otros, 2017](https://doi.org/10.3945/an.116.014506)).
+Cuando se baja de peso solo con dieta, una parte de lo perdido es músculo. Una revisión dice en su resumen que el ejercicio aeróbico y el de fuerza ayudan a preservarlo, y que la fuerza además mejora la fuerza muscular. En el cuerpo del trabajo la balanza se inclina: la fuerza frena con claridad esa pérdida, y el efecto del aeróbico sobre el músculo queda «incierto» (en el original: "the effects of endurance-type exercise on muscle mass during weight loss are uncertain") ([Cava y otros, 2017](https://doi.org/10.3945/an.116.014506)).
 
 El ensayo más claro es de Villareal y otros (2017), con 160 personas mayores de 65 años con obesidad, a dieta durante 6 meses. Todos los grupos con ejercicio bajaron 9 % de peso. La masa magra (lo que no es grasa, en buena parte músculo) bajó 5 % con solo aeróbico, 3 % con aeróbico más fuerza y 2 % con solo fuerza; la fuerza subió 18 a 19 % en los grupos con pesas y 4 % en el de aeróbico ([Villareal y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5552187/)). Es un ensayo aleatorizado, pero en mayores: en un adulto joven la dirección probablemente sea la misma (es inferencia), pero los números no se trasladan.
 
@@ -43,14 +43,14 @@ Qué hace funcionar la fuerza (progresar, terminar cerca del límite, sumar seri
 
 ## Caminar suma salud; para la grasa falta evidencia
 
-Los pasos diarios se asocian con menos mortalidad: frente al cuarto que menos caminaba, el que más caminaba (mediana de 10.901 pasos) tuvo un HR (razón de riesgos) de 0,47, es decir, 53 % menos riesgo en el período ([Paluch y otros, 2022](https://doi.org/10.1016/s2468-2667(21)00302-9)). Es un estudio observacional (sigue gente sin intervenir) y mide salud, no grasa.
+Los pasos diarios se asocian con menos mortalidad: en 15 cohortes con 47.471 adultos, frente al cuarto que menos caminaba, el que más caminaba (mediana de 10.901 pasos) tuvo un HR (razón de riesgos) de 0,47, es decir, 53 % menos riesgo en el período ([Paluch y otros, 2022](https://doi.org/10.1016/s2468-2667(21)00302-9)). Es un estudio observacional (sigue gente sin intervenir) y mide salud, no grasa.
 
 > [!NOTE]
 > Sin fuente todavía: cuánto contribuyen los pasos y el movimiento cotidiano a bajar grasa.
 
 ## El ejercicio solo baja poco peso
 
-Sin cambiar la comida, el ejercicio suele mover poco la balanza. Según una revisión, salvo con volúmenes muy altos de aeróbico, es poco probable una pérdida de peso relevante: unos 0 a 2 kg con aeróbico solo, frente a 9 a 13 kg combinado con dieta ([Swift y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24438736/)). El ejercicio sí ayuda a no recuperar lo bajado.
+Sin cambiar la comida, el ejercicio suele mover poco la balanza. Según una revisión, salvo con volúmenes muy altos de aeróbico, es poco probable una pérdida de peso relevante: un adulto con sobrepeso que hace la dosis de salud pública sin comer menos puede esperar de 0 a unos 2 kg, frente a 9 a 13 kg con aeróbico más dieta ([Swift y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24438736/)). El ejercicio sí ayuda a no recuperar lo bajado.
 
 Una hipótesis es que el cuerpo compensa: en 332 adultos de cinco poblaciones, el gasto diario subió con la actividad y se aplanó en el rango alto ([Pontzer y otros, 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4803033)). Una revisión de los mismos autores dice que en ensayos de aeróbico el gasto total subió solo alrededor del 30 % de lo esperado; la compensación fue menor con fuerza y mayor si se combina con dieta (Pontzer y Trexler, 2026, *Current Biology*, según su resumen).
 
@@ -68,4 +68,4 @@ Para bajar esto a una semana concreta: cuántos minutos de cardio pide la salud 
 
 ## Qué tan firme es lo que dice esta nota
 
-El ensayo de Villareal se leyó en texto completo; las otras fuentes, según su resumen, y las de Swift y Pontzer 2016 solo de segunda mano. Lo de preservar músculo tiene ensayos; lo de recomposición, una sola revisión narrativa. La nota no reemplaza a un médico ni a un licenciado en nutrición si hay obesidad o enfermedad.
+El ensayo de Villareal, las revisiones de Cava, Swift y recomposición, el metaanálisis de Schumann y los estudios de Paluch y Pontzer 2016 se leyeron en texto completo; Murphy y Koehler y Pontzer y Trexler 2026, solo según su resumen. Lo de preservar músculo tiene ensayos; lo de recomposición, una sola revisión narrativa. La nota no reemplaza a un médico ni a un licenciado en nutrición si hay obesidad o enfermedad.
