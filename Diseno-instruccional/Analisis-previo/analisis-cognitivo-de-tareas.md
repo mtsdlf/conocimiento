@@ -39,7 +39,7 @@ El capítulo de referencia es Clark, Feldon, van Merriënboer, Yates y Early (20
 Tofel-Grehl y Feldon (2013) metaanalizaron la instrucción basada en CTA. Según el abstract: «Overall, the effect of CTA-based instruction is fairly large (Hedges' g = .871)... effect sizes vary substantially by both CTA method used and training context». El abstract no informa cuántos estudios entraron y los autores advierten que son pocos.
 
 > [!IMPORTANT]
-> **CTA mejora la instrucción (Tofel-Grehl y Feldon 2013).** El efecto combinado es grande, g = 0,871.
+> **CTA mejora la instrucción (Tofel-Grehl y Feldon 2013).** El efecto combinado es grande, g = 0,871 (la [g de Hedges](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) es un tamaño de efecto en desviaciones estándar).
 >
 > **No hay base para elegir el método (Yates y Feldon 2011).** Según un resumen, sobre 1.065 estudios y más de 100 métodos de CTA lo describen como «more craft than technology». El efecto varía según el método y el contexto, y no se sabe bien cuál conviene.
 

@@ -33,6 +33,7 @@ Las definiciones de una línea se contrastaron casi todas contra enciclopedias; 
 | Principios de Rosenshine | Diez prácticas de los docentes eficaces, que forman la secuencia de una clase | [Principios de Rosenshine](../Explicar-y-modelar/principios-de-rosenshine.md) |
 | Modelado | Mostrar cómo se resuelve algo haciendo visible el razonamiento, por ejemplo pensando en voz alta | [Modelado y ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) |
 | Ejemplo resuelto | Un problema con su solución paso a paso, para estudiar | [Modelado y ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) |
+| Máquina nocional | Versión simplificada de la computadora que quien programa necesita para entender qué pasa al ejecutar un programa (Sorva) | [Enseñar programación](../Didacticas-especificas/ensenar-programacion.md) |
 | Subobjetivo | Etiqueta que nombra lo que logra cada tramo de una solución | [Modelado y ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) |
 
 ## Practicar y guiar
@@ -76,9 +77,19 @@ Las definiciones de una línea se contrastaron casi todas contra enciclopedias; 
 | Término | Definición | Dónde |
 |---|---|---|
 | Tamaño de efecto | Diferencia entre grupos en unidades de desviación estándar (d de Cohen, g de Hedges) | [Evidencia en educación](evidencia-en-educacion.md) |
+| d, g y SMD | Las notaciones del tamaño de efecto: la d de Cohen, la g de Hedges (corregida para muestras chicas) y su nombre genérico, diferencia de medias estandarizada | [Evidencia en educación](evidencia-en-educacion.md) |
+| Desviación estándar (DE) | Cuánto se alejan en promedio los puntajes del promedio del grupo; la unidad del tamaño de efecto | [Evidencia en educación](evidencia-en-educacion.md) |
+| Intervalo de confianza (IC) | Rango de valores compatibles con los datos; si incluye el cero, no descarta que no haya efecto | [Evidencia en educación](evidencia-en-educacion.md) |
+| Odds ratio | Cociente de chances de un resultado entre dos grupos; 1 es sin diferencia | [Evidencia en educación](evidencia-en-educacion.md) |
+| Percentil | Posición sobre 100: el percentil 70 supera al 70 % del grupo; un efecto en DE se suele traducir así | [Evidencia en educación](evidencia-en-educacion.md) |
+| r | Correlación, de −1 a 1; cerca de 0 es sin relación | [Evidencia en educación](evidencia-en-educacion.md) |
+| Pretest y postest | La misma prueba, o una equivalente, antes y después de la intervención | [Evidencia en educación](evidencia-en-educacion.md) |
 | Metaanálisis | Combinación estadística de los resultados de varios estudios | [Evidencia en educación](evidencia-en-educacion.md) |
 | Ensayo aleatorizado | Estudio que asigna al azar quién recibe la intervención | [Evidencia en educación](evidencia-en-educacion.md) |
+| EEF | Education Endowment Foundation (Inglaterra, 2011), que resume la evidencia en su Teaching and Learning Toolkit | [Evidencia en educación](evidencia-en-educacion.md) |
+| What Works Clearinghouse (WWC) | Revisiones de evidencia y guías de práctica del Institute of Education Sciences de EE. UU. (2002) | [Evidencia en educación](evidencia-en-educacion.md) |
 | Meses de progreso | Tamaño de efecto de la EEF traducido a meses de avance en un año | [Evidencia en educación](evidencia-en-educacion.md) |
 | Candado | Calificación de la EEF de cuán segura es la evidencia, de 0 a 5 | [Evidencia en educación](evidencia-en-educacion.md) |
+| Ensayo por conglomerados | Ensayo aleatorizado que sortea grupos enteros (aulas, escuelas) en vez de personas | [Evidencia en educación](evidencia-en-educacion.md) |
 | Educación basada en evidencia | Decidir cómo enseñar con la mejor evidencia disponible | [Evidencia en educación](evidencia-en-educacion.md) |
 | Neuromito | Creencia falsa sobre el cerebro usada para justificar una forma de enseñar | [Mitos de la enseñanza](mitos-de-la-ensenanza.md) |

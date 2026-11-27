@@ -27,10 +27,10 @@ Cuatro estimaciones del efecto promedio conviven, cada una con su método:
 
 | Fuente | Qué combina | Efecto promedio |
 |---|---|---|
-| Kluger y DeNisi (1996) | 607 tamaños de efecto, 23.663 observaciones | d = 0,41, con «over 1/3» de las intervenciones que empeoraron el desempeño |
+| Kluger y DeNisi (1996) | 607 tamaños de efecto, 23.663 observaciones | [d](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,41, con «over 1/3» de las intervenciones que empeoraron el desempeño |
 | Hattie y Timperley (2007) | 12 metaanálisis, 196 estudios, 6.972 efectos | 0,79, «twice the average effect» de la escolarización |
 | Wisniewski, Zierer y Hattie (2020) | 435 estudios, 994 efectos, más de 61.000 participantes | d = 0,55 con todos los efectos; 0,48 sin 35 valores extremos |
-| EEF Toolkit (vía Evidence for Learning) | 155 estudios | +6 meses de progreso, evidencia alta |
+| Toolkit de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra), vía Evidence for Learning | 155 estudios | +6 [meses de progreso](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno), evidencia alta |
 
 La más reciente y mejor documentada es la de 2020. Su heterogeneidad es de I² = 86,47 %: los efectos individuales varían mucho más de lo que el azar explica, y el 17 % fueron negativos. Los autores lo resumen así: «feedback cannot be understood as a single consistent form of treatment». Cómo leer un 0,79 de Hattie o unos meses de la EEF, y por qué no se comparan entre sí, está en [evidencia en educación](../Fundamentos/evidencia-en-educacion.md).
 

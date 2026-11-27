@@ -35,7 +35,7 @@ Shulman agrega que «there are no single most powerful forms of representation»
 
 Dos docentes que saben lo mismo de recursión pueden diferir en PCK. Uno la explica con la definición; el otro sabe que muchos principiantes creen que la función «se copia» y no entienden dónde vuelve el control, y por eso empieza trazando la pila con un ejemplo de tres llamadas. El ejemplo es de esta base, no de Shulman, y la idea errónea citada es ilustrativa.
 
-El PCK se arma con los mismos materiales que el resto del tema: los [ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) son representaciones elegidas; las [preguntas en clase](../Preguntas-y-dialogo/preguntas-en-clase.md) sirven para descubrir las ideas previas; la [retroalimentación](../Retroalimentacion/retroalimentacion.md) corrige las que aparecen. Lo que el PCK suma es saber de antemano cuáles representaciones y cuáles errores son típicos de cada tema. En programación, la [máquina nocional](ensenar-programacion.md) es un caso de ese saber.
+El PCK se arma con los mismos materiales que el resto del tema: los [ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) son representaciones elegidas; las [preguntas en clase](../Preguntas-y-dialogo/preguntas-en-clase.md) sirven para descubrir las ideas previas; la [retroalimentación](../Retroalimentacion/retroalimentacion.md) corrige las que aparecen. Lo que el PCK suma es saber de antemano cuáles representaciones y cuáles errores son típicos de cada tema. En programación, la [máquina nocional](ensenar-programacion.md#la-máquina-nocional), la versión simplificada de la computadora que el novato necesita para entender qué hace un programa al ejecutarse, es un caso de ese saber.
 
 ## Si el PCK mejora el aprendizaje
 

@@ -45,7 +45,7 @@ Los principios no son diez técnicas sueltas sino el orden de una clase: repasar
 - La tasa de éxito y la práctica solitaria (7 y 9) son [práctica independiente y dominio](../Practica-guiada-y-andamiaje/practica-independiente-y-dominio.md).
 - Corregir errores durante la práctica es [Retroalimentación](../Retroalimentacion/retroalimentacion.md).
 
-El repaso (1 y 10) es el momento de la clase en que entra la [práctica espaciada y la recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md), cuyo mecanismo explica Psicología. La guía del What Works Clearinghouse de Pashler et al. (2007) califica «Space learning over time» con evidencia moderada y el uso de cuestionarios para volver al contenido clave con evidencia fuerte.
+El repaso (1 y 10) es el momento de la clase en que entra la [práctica espaciada y la recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md), cuyo mecanismo explica Psicología. La guía del [What Works Clearinghouse](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) de Pashler et al. (2007) califica «Space learning over time» con evidencia moderada y el uso de cuestionarios para volver al contenido clave con evidencia fuerte.
 
 ## Cuánto prueba la síntesis
 

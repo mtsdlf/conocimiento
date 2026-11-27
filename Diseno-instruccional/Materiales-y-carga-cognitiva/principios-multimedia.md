@@ -21,7 +21,7 @@ Son la parte práctica de [materiales y carga cognitiva](materiales-y-carga-cogn
 
 ## Los nueve principios y su evidencia
 
-Los efectos son medianas de la d de Cohen sobre pruebas de [transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md), tomadas del capítulo de 2023, que las resume «based on a meta-analysis by Mayer (2021)». Mayer toma como «educationally important» todo d mayor que 0,40, siguiendo a Hattie (2009).
+Los efectos son medianas de la [d de Cohen](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) (diferencia entre grupos en desviaciones estándar) sobre pruebas de [transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md), tomadas del capítulo de 2023, que las resume «based on a meta-analysis by Mayer (2021)». Mayer toma como «educationally important» todo d mayor que 0,40, siguiendo a Hattie (2009).
 
 | Principio | Qué dice | Tests a favor | d mediana |
 |---|---|---|---|

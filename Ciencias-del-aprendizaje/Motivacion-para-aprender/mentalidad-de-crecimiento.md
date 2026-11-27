@@ -23,7 +23,7 @@ La idea y su origen en el elogio, con el estudio de Mueller y Dweck, están en [
 
 ## Lo que Sisk et al. midieron, con sus intervalos
 
-Sisk et al. (2018) hicieron dos metaanálisis. En el primero, la correlación media entre mentalidad y rendimiento fue r = 0,10 [IC 95 % 0,08; 0,13]. En el segundo, el efecto promedio de las intervenciones sobre el rendimiento fue **d = 0,08** [0,02; 0,14]. De los 43 tamaños de efecto, 37 (86 %) no difieren de cero y uno es significativamente negativo.
+Sisk et al. (2018) hicieron dos metaanálisis. En el primero, la correlación media entre mentalidad y rendimiento fue [r](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,10 [[IC](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) 95 % 0,08; 0,13]. En el segundo, el efecto promedio de las intervenciones sobre el rendimiento fue **[d](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,08** [0,02; 0,14]. De los 43 tamaños de efecto, 37 (86 %) no difieren de cero y uno es significativamente negativo.
 
 El resumen del artículo dice que algunos grupos «might benefit», y el texto precisa cuáles:
 

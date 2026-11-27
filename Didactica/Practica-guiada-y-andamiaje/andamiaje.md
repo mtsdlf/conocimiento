@@ -63,7 +63,7 @@ Una secuencia práctica, ilustrativa, que sale de juntar estas fuentes y no de u
 
 ## Cuánta evidencia hay de su efecto
 
-Pocos estudios miden el efecto del andamiaje humano. Van de Pol et al. concluyen que «the small number of effectiveness studies available is discussed and the results suggest that scaffolding is effective. However, more research is needed», y que el problema principal es cómo medirlo. El metaanálisis de Belland et al. (2017), con 144 estudios experimentales y 333 resultados en STEM, da g = 0,46 en resultados cognitivos, pero es de andamiaje por computadora, no humano.
+Pocos estudios miden el efecto del andamiaje humano. Van de Pol et al. concluyen que «the small number of effectiveness studies available is discussed and the results suggest that scaffolding is effective. However, more research is needed», y que el problema principal es cómo medirlo. El metaanálisis de Belland et al. (2017), con 144 estudios experimentales y 333 resultados en STEM, da [g](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,46 en resultados cognitivos, pero es de andamiaje por computadora, no humano.
 
 Toda esta evidencia es de chicos y estudiantes. Que valga para un adulto que aprende un oficio técnico es inferencia.
 

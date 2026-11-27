@@ -33,7 +33,7 @@ La columna de la derecha es una lectura de esta base, sin fuente. Mager y Pipe l
 
 ## Por qué el experto no alcanza como fuente
 
-La segunda pregunta tiene una trampa: quien domina una tarea la automatizó y ya no ve sus propios pasos. Los autores de la línea de análisis cognitivo de tareas estiman que los expertos omiten cerca del 70 % de las decisiones cuando describen cómo hacen una tarea compleja, una cifra de la que no se encontró una réplica independiente. El remedio son entrevistas estructuradas a varios expertos, y un metaanálisis encontró un efecto grande de la instrucción armada así (g = 0,871). El detalle y sus límites están en [análisis cognitivo de tareas](analisis-cognitivo-de-tareas.md).
+La segunda pregunta tiene una trampa: quien domina una tarea la automatizó y ya no ve sus propios pasos. Los autores de la línea de análisis cognitivo de tareas estiman que los expertos omiten cerca del 70 % de las decisiones cuando describen cómo hacen una tarea compleja, una cifra de la que no se encontró una réplica independiente. El remedio son entrevistas estructuradas a varios expertos, y un metaanálisis encontró un efecto grande de la instrucción armada así (g = 0,871, un [tamaño de efecto](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) en desviaciones estándar). El detalle y sus límites están en [análisis cognitivo de tareas](analisis-cognitivo-de-tareas.md).
 
 ## Lo que cambia según quién llega
 

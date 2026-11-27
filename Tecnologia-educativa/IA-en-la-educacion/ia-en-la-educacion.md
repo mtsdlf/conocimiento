@@ -49,4 +49,4 @@ Tres advertencias valen para todas las notas de la vertical:
 - [La IA como ayuda del docente](ia-como-ayuda-del-docente.md): Tutor CoPilot y el ensayo de Eedi, donde la IA le sugiere al tutor humano.
 - [La IA como atajo](ia-como-atajo.md): la descarga cognitiva, el experimento de Bastani y los estudios de Gerlich y del MIT con sus límites.
 - [Aprender a programar con IA](aprender-a-programar-con-ia.md): los estudios de novatos, la brecha que se ensancha y la ilusión de competencia, que es la [ilusión de saber](../../Ciencias-del-aprendizaje/Metacognicion-y-autorregulacion/ilusion-de-saber.md) de las Ciencias del aprendizaje.
-- [Modos de estudio de la IA](modos-de-estudio-de-la-ia.md): ficha fechada con los modos de estudio de los proveedores de modelos y Khanmigo, al 2026-11-27.
+- [Modos de estudio de la IA](modos-de-estudio-de-la-ia.md): ficha fechada con los modos de estudio de los proveedores de modelos y Khanmigo, el tutor con IA de Khan Academy, al 2026-11-27.

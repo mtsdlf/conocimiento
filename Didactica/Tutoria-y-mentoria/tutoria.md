@@ -25,20 +25,20 @@ Es la forma de enseñar más cercana a lo que hace un mentor técnico cuando se 
 
 ## Cuánto rinde
 
-VanLehn (2011) comparó tutoría humana, tutores por computadora y enseñanza sin tutoría, y revisó lo que el campo creía. Se suponía que los sistemas basados en respuestas, los tutores inteligentes y los tutores humanos expertos rendían d = 0,3, 1,0 y 2,0. Su revisión "did not confirm these beliefs": la tutoría humana dio d = 0,79 y los tutores inteligentes, d = 0,76, "nearly as effective as human tutoring". Según un resumen secundario, la efectividad deja de crecer cuando la interacción se hace más fina que el nivel de los pasos. Los tutores por computadora se desarrollan en [tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/tutores-inteligentes.md), con sus metaanálisis en [evidencia de los tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md), y los que usan un modelo de lenguaje, en [la IA como tutor](../../Tecnologia-educativa/IA-en-la-educacion/ia-como-tutor.md).
+VanLehn (2011) comparó tutoría humana, tutores por computadora y enseñanza sin tutoría, y revisó lo que el campo creía. Se suponía que los sistemas basados en respuestas, los tutores inteligentes y los tutores humanos expertos rendían [d](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,3, 1,0 y 2,0. Su revisión "did not confirm these beliefs": la tutoría humana dio d = 0,79 y los tutores inteligentes, d = 0,76, "nearly as effective as human tutoring". Según un resumen secundario, la efectividad deja de crecer cuando la interacción se hace más fina que el nivel de los pasos. Los tutores por computadora se desarrollan en [tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/tutores-inteligentes.md), con sus metaanálisis en [evidencia de los tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md), y los que usan un modelo de lenguaje, en [la IA como tutor](../../Tecnologia-educativa/IA-en-la-educacion/ia-como-tutor.md).
 
 Nickow, Oreopoulos y Quan reunieron ensayos aleatorizados de tutoría de preescolar al último año de secundaria. Las dos versiones dan cifras distintas y no se deben mezclar:
 
 | Versión | Estudios | Efecto combinado |
 |---|---|---|
-| Borrador NBER (2020) | 96 evaluaciones aleatorizadas, según J-PAL | 0,37 DE |
+| Borrador NBER (2020) | 96 evaluaciones aleatorizadas, según J-PAL | 0,37 [DE](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) |
 | *American Educational Research Journal* (2023) | 89 estudios, tutorías de al menos tres veces por semana | 0,288 DE (solo metadatos) |
 
 En el borrador de 2020 el efecto fue mayor con maestros o paraprofesionales que con voluntarios o padres, mayor en los primeros grados y mayor dentro de la jornada escolar que después.
 
 ## Quién la da y con cuántos
 
-El Toolkit de la EEF, leído por su espejo australiano y el buscador, da:
+El Toolkit de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra), leído por su espejo australiano y el buscador, da:
 
 | Forma | Meses de progreso | Evidencia | Estudios |
 |---|---|---|---|

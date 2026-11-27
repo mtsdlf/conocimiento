@@ -24,11 +24,11 @@ Es la mitad «recurso» de [Conocimiento previo y comprensión](conocimiento-pre
 
 ## Predice dónde se llega, no cuánto se avanza
 
-El lugar común dice que el conocimiento previo es el mejor predictor del aprendizaje. El metaanálisis de Simonsmeier et al. (2022), con 8.776 tamaños de efecto, obliga a partirlo en dos. Según su abstract:
+El lugar común dice que el conocimiento previo es el mejor predictor del aprendizaje. El metaanálisis de Simonsmeier et al. (2022), con 8.776 [tamaños de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md), obliga a partirlo en dos. Según su abstract:
 
 | Qué se midió | Resultado |
 |---|---|
-| Estabilidad: correlación entre lo que se sabía antes y lo que se sabe después | r = 0,534, alta |
+| Estabilidad: correlación entre lo que se sabía antes y lo que se sabe después | [r](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,534, alta |
 | Poder predictivo sobre la ganancia normalizada (cuánto se avanzó de lo que faltaba) | r = -0,059, casi nula |
 | Intervalo de predicción del 95 % para ese poder predictivo | de -0,688 a 0,621 |
 

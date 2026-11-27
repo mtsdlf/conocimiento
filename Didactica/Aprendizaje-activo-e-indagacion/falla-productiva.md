@@ -28,7 +28,7 @@ Sinha y Kapur (2021) compararon resolver antes de la instrucción (PS-I, por *pr
 | Medida | Resultado |
 |---|---|
 | Estudios y comparaciones | 53 estudios, 166 comparaciones |
-| Efecto global a favor de probar primero | g = 0,36 [0,20; 0,51] |
+| Efecto global a favor de probar primero | [g](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,36 [0,20; 0,51] |
 | Aplicada con alta fidelidad a los principios de la falla productiva | g entre 0,37 y 0,58 |
 | Corregido por sesgo de publicación | g = 0,87 |
 | Alumnos de segundo a quinto grado | tendencia a favor de instrucción primero |

@@ -47,7 +47,7 @@ Aprender enseñando comparte rasgos con dos técnicas de la base. Con la [autoex
 > [!NOTE]
 > Sin fuente todavía: el metaanálisis de Kobayashi de 2019 (*Japanese Psychological Research*), que no se logró ubicar; Fiorella y Mayer (2013) y Chase et al. (2009), a quienes se atribuye el nombre «efecto protégé». Solo se conoce el abstract de la revisión de 2018 y el título de un artículo de 2023 del mismo autor sobre los «problemas conceptuales» de aprender creando material de enseñanza.
 
-Con una sola revisión leída por abstract, la nota puede afirmar la dirección (enseñar a otro ayuda a quien enseña, más si hay interacción) pero no un tamaño de efecto. El abstract no dice en qué contextos se hicieron los estudios.
+Con una sola revisión leída por abstract, la nota puede afirmar la dirección (enseñar a otro ayuda a quien enseña, más si hay interacción) pero no un [tamaño de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md) (la diferencia entre grupos medida en desviaciones estándar). El abstract no dice en qué contextos se hicieron los estudios.
 
 ## Usarlo en un curso para adultos
 

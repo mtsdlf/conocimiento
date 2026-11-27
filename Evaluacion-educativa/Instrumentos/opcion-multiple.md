@@ -23,7 +23,7 @@ Es el instrumento del extremo cerrado entre los [instrumentos](instrumentos.md).
 
 Haladyna, Downing y Rodriguez (2002) armaron una taxonomía de 31 pautas de redacción a partir de 27 textos de evaluación y 27 estudios y revisiones desde 1990. Las agrupan en contenido, formato, estilo y redacción del enunciado y de las opciones. Según el resumen, recomiendan dos cosas en particular:
 
-- Evitar el formato complejo tipo K («A y C son correctas», «todas las anteriores salvo B»).
+- Evitar el formato complejo tipo K, que combina opciones dentro de otra opción («A y C son correctas», «todas las anteriores salvo B»).
 - Evitar los enunciados negativos («¿cuál NO es…?», «todas EXCEPTO…»).
 
 El resto de las 31 pautas no se leyó en el original. La lista completa es el recurso canónico para quien escribe preguntas; conviene leerla con una prueba propia al lado y marcar cuáles se violan.

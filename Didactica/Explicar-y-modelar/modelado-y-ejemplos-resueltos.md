@@ -37,7 +37,7 @@ Atkinson, Derry, Renkl y Wortham (2000) definen el ejemplo resuelto como «instr
 3. Ponerlos cerca de problemas de práctica equivalentes, no todos los ejemplos primero y todos los problemas después.
 4. Hacer que el alumno se explique el ejemplo, entrenándolo o con la estructura misma del ejemplo.
 
-Los autores aclaran que los ejemplos resueltos corresponden a las «early stages of skill development». La guía del What Works Clearinghouse (Pashler et al. 2007) lo resume en su recomendación 2, «Interleave worked example solutions with problem-solving exercises», con evidencia moderada.
+Los autores aclaran que los ejemplos resueltos corresponden a las «early stages of skill development». La guía del [What Works Clearinghouse](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Pashler et al. 2007) lo resume en su recomendación 2, «Interleave worked example solutions with problem-solving exercises», con evidencia moderada.
 
 Rosenshine cuenta un problema práctico: en una investigación en Australia que alternaba ejemplos y problemas, no todos estudiaban el ejemplo. Agregaron problemas parcialmente completados para obligar a prestarle atención. Ese paso, de ejemplo completo a problema a medio resolver, es el comienzo del retiro de la guía que trata [andamiaje](../Practica-guiada-y-andamiaje/andamiaje.md).
 

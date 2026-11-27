@@ -20,7 +20,7 @@ revisado:
 
 Los metaanálisis dan a los tutores inteligentes efectos de 0,4 a 0,8 desviaciones estándar, cerca de la tutoría humana; el mejor ensayo a escala, el de Pane et al. (2014) con el Cognitive Tutor de Álgebra, dio cero el primer año y unos 0,20 el segundo. Esta base atribuye parte de la distancia a cómo se mide; es una inferencia que ningún autor leído formula así.
 
-Cómo leer un tamaño de efecto (d, g, desviaciones estándar) está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md); por qué un ensayo grande da menos que un metaanálisis de estudios chicos, en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md).
+Cómo leer un tamaño de efecto (d, g, desviaciones estándar) está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md); por qué un ensayo grande da menos que un metaanálisis de estudios chicos, en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md), que también traduce las [siglas de una cifra](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) (percentiles, intervalos de confianza).
 
 ## Lo que dicen los metaanálisis
 
@@ -38,7 +38,7 @@ Kulik y Fletcher excluyeron seis evaluaciones con controles no convencionales y 
 
 ## Lo que dio el ensayo a escala
 
-Pane, Griffin, McCaffrey y Karam (2014) hicieron un ensayo aleatorizado por conglomerados en siete estados, con 73 escuelas secundarias y 74 de nivel medio. Según RAND, en secundaria no hubo diferencia significativa el primer año; el segundo, el efecto fue de unas 0,20 desviaciones estándar (otra página de RAND dice 0,21), «roughly equivalent to moving a student from the 50th to the 58th percentile». En nivel medio, el efecto fue de tamaño parecido pero no significativo.
+Pane, Griffin, McCaffrey y Karam (2014) hicieron un ensayo aleatorizado por conglomerados (sortea escuelas enteras, no alumnos) en siete estados, con 73 escuelas secundarias y 74 de nivel medio. Según RAND, en secundaria no hubo diferencia significativa el primer año; el segundo, el efecto fue de unas 0,20 desviaciones estándar (otra página de RAND dice 0,21), «roughly equivalent to moving a student from the 50th to the 58th percentile». En nivel medio, el efecto fue de tamaño parecido pero no significativo.
 
 Un análisis posterior de Israni, Sales y Pane encontró que la conducta de abuso del sistema fue más común el segundo año y que los efectos variaron mucho entre aulas. Lo describen como una mejora de «about one fifth of a standard deviation» que aparece «in some circumstances».
 

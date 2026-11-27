@@ -32,7 +32,7 @@ Esta base no encontró evidencia comparativa de que un sistema de gestión del a
 | Autoría de contenido interactivo | Crear videos con preguntas, presentaciones y juegos que se incrustan en un LMS | H5P | Tecnología abierta (licencia MIT) para contenido HTML5; integra con Canvas, Brightspace, Blackboard y Moodle, o por LTI. |
 | Práctica de programación con mentoría | Ejercicios por lenguaje con retroalimentación humana | Exercism | Organización sin fines de lucro registrada en el Reino Unido, gratis, «over 80» lenguajes (la misma página dice también 85), mentoría voluntaria; la página no menciona IA. |
 | Repaso espaciado | Tarjetas con repasos programados | Anki | Ver [herramientas de práctica adaptativa](../Practica-adaptativa/herramientas-de-practica-adaptativa.md). |
-| Práctica adaptativa de matemática | Diagnóstico y secuencia individual | Math Academy; Khan Academy con Khanmigo | Ver [herramientas de práctica adaptativa](../Practica-adaptativa/herramientas-de-practica-adaptativa.md) y [modos de estudio de la IA](../IA-en-la-educacion/modos-de-estudio-de-la-ia.md). |
+| Práctica adaptativa de matemática | Diagnóstico y secuencia individual | Math Academy; Khan Academy con Khanmigo, su tutor con IA | Ver [herramientas de práctica adaptativa](../Practica-adaptativa/herramientas-de-practica-adaptativa.md) y [modos de estudio de la IA](../IA-en-la-educacion/modos-de-estudio-de-la-ia.md). |
 
 > [!NOTE]
 > Sin fuente todavía: plataformas de video-cursos, laboratorios de práctica en la nube y cursos en vivo por cohortes, las categorías más usadas para capacitar adultos en IT. También falta una segunda fuente, independiente del proveedor, para cada producto.

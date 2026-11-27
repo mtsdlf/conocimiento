@@ -52,7 +52,7 @@ Que el mecanismo común sea tener que producir una explicación es una lectura d
 
 ## Lo que falta para adultos
 
-Ningún estudio leído de esta vertical es de adultos en capacitación técnica: todo es escuela o grado. El único dato de adultos verificado es del andamiaje con computadora (Belland et al. 2017, g = 0,46 global, mayor en adultos), que se trata en Didáctica. La evidencia más pertinente para enseñar programación, programación en pareja e instrucción entre pares en computación, quedó sin verificar.
+Ningún estudio leído de esta vertical es de adultos en capacitación técnica: todo es escuela o grado. El único dato de adultos verificado es del andamiaje con computadora (Belland et al. 2017, [g](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,46 global, mayor en adultos), que se trata en Didáctica. La evidencia más pertinente para enseñar programación, programación en pareja e instrucción entre pares en computación, quedó sin verificar.
 
 > [!NOTE]
 > Sin fuente todavía: Johnson y Johnson (2009) y Slavin sobre aprendizaje cooperativo; van de Pol, Volman y Beishuizen (2010) sobre andamiaje docente; el metaanálisis de programación en pareja de Umapathy y Ritzhaupt (2017).

@@ -30,7 +30,7 @@ revisado:
 
 La evidencia en educación llega casi siempre como tamaños de efecto resumidos por sitios como la EEF o el What Works Clearinghouse o por síntesis como la de Hattie. Leerla bien es saber que los efectos de laboratorio se achican en el aula, que en ensayos grandes un efecto de 0,05 desviaciones ya no es chico y que promediar estudios distintos esconde más de lo que muestra.
 
-Esta nota es de toda el área Pedagogía: [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md), [Diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md), [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md) y [Tecnología educativa](../../Tecnologia-educativa/tecnologia-educativa.md) la enlazan para leer sus cifras.
+Las siglas (d, g, DE, IC) están en el [glosario](glosario-de-didactica.md#leer-la-evidencia). Es de toda el área Pedagogía: [Ciencias del aprendizaje](../../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md), [Diseño instruccional](../../Diseno-instruccional/diseno-instruccional.md), [Evaluación educativa](../../Evaluacion-educativa/evaluacion-educativa.md) y [Tecnología educativa](../../Tecnologia-educativa/tecnologia-educativa.md) la enlazan para leer sus cifras.
 
 ## El tamaño de efecto y por qué no se lee con la escala de Cohen
 
@@ -65,7 +65,7 @@ Las cifras del Toolkit cambian entre versiones: la retroalimentación figuraba c
 >
 > **El método no sostiene el ranking.** Bergeron, en el *McGill Journal of Education*, muestra que el «efecto de lenguaje común» del libro da probabilidades negativas o mayores que 100 % (Hattie admitió que esos valores estaban mal calculados), que promediar efectos heterogéneos no tiene sentido y que el grupo de comparación elegido define el signo: el nivel socioeconómico puede dar 0,59 o −0,59. Concluye: «We must therefore absolutely qualify Hattie's methodology as pseudoscience». Slavin, según un resumen secundario, objeta que se mezclen metaanálisis de calidad dispar. Simpson (2017) critica comparar tamaños de efecto estandarizados.
 
-Lo útil para leer una cifra de Hattie: es un promedio de metaanálisis con estudios, pruebas y poblaciones distintas, no el efecto de hacer algo en una clase. Un ejemplo es la [instrucción directa](../Explicar-y-modelar/instruccion-directa.md), que figura con 0,93 en la síntesis de 1999, según Hattie y Timperley (2007), y con 0,59 en un resumen de 2015 de la investigadora del instituto del programa, sobre otra síntesis.
+Lo útil para leer una cifra de Hattie: es un promedio de metaanálisis con estudios, pruebas y poblaciones distintas, no el efecto de hacer algo en una clase. Un ejemplo es la [Instrucción Directa](../Explicar-y-modelar/instruccion-directa.md) de Engelmann, que figura con 0,93 en la síntesis de 1999, según Hattie y Timperley (2007), y con 0,59 en un resumen de 2015 de la investigadora del instituto del programa, sobre otra síntesis.
 
 ## Por qué los ensayos grandes dan efectos chicos
 

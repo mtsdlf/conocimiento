@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La secuencia es el orden en que un curso presenta lo que hay que aprender, y el currículo es el recorrido completo que resulta. Contesta dos preguntas distintas que la literatura suele mezclar: en qué orden van los contenidos y en qué orden van las tareas.
+  La secuencia es el orden en que un curso presenta lo que hay que aprender, y el currículo es el recorrido completo que resulta. Contesta dos preguntas distintas que la literatura suele mezclar: en qué orden van los contenidos (qué va antes y cómo se recorre un dominio) y en qué orden van las tareas.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -16,17 +16,19 @@ revisado:
 
 # Secuencia y currículo
 
-La secuencia es el orden en que un curso presenta lo que hay que aprender, y el currículo es el recorrido completo que resulta. Contesta dos preguntas distintas que la literatura suele mezclar: en qué orden van los contenidos y en qué orden van las tareas.
+La secuencia es el orden en que un curso presenta lo que hay que aprender, y el currículo es el recorrido completo que resulta. Contesta dos preguntas distintas que la literatura suele mezclar: en qué orden van los contenidos (qué va antes y cómo se recorre un dominio) y en qué orden van las tareas.
 
 Recibe del [análisis previo](../Analisis-previo/analisis-previo.md) los prerrequisitos y el punto de partida de quien aprende, y de los [objetivos](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md), el punto de llegada. Le pasa a los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md) el tamaño de cada paso, y al [formato](../Formatos/formatos.md), cuánto se puede adelantar o atrasar cada uno.
 
-## Dos preguntas de orden
+## Dos preguntas de orden: contenidos y tareas
+
+La pregunta por los contenidos se abre en dos: qué tiene que saberse antes y en qué recorrido se presenta el dominio. La de las tareas es una sola.
 
 | Pregunta | La unidad que se ordena | Quiénes la contestan | Nota |
 |---|---|---|---|
 | ¿Qué tiene que saber antes de esto? | Habilidades y conceptos | Gagné (jerarquías), Doignon y Falmagne (espacios de conocimiento) | [Jerarquía de aprendizaje](jerarquia-de-aprendizaje.md) |
 | ¿De lo general a lo detallado, o en vueltas? | Contenidos de un dominio | Reigeluth (elaboración), Bruner (espiral) | [Secuencia de contenidos](secuencia-de-contenidos.md) |
-| ¿Qué tarea completa va primero? | Tareas auténticas enteras | van Merriënboer (clases de tareas), Reigeluth (condiciones simplificadoras) | [Secuencia por tareas completas](secuencia-por-tareas-completas.md) |
+| ¿Qué tarea completa va primero? | Tareas auténticas enteras | van Merriënboer (clases de tareas: grupos de tareas de complejidad parecida), Reigeluth (condiciones simplificadoras) | [Secuencia por tareas completas](secuencia-por-tareas-completas.md) |
 
 Las dos primeras filas ordenan piezas de conocimiento; la tercera ordena tareas enteras, cada una de las cuales usa muchas piezas a la vez. Una lectura de esta base sobre la diferencia: un temario por contenidos enseña los ladrillos y deja para el final la tarea que los junta; uno por tareas completas hace la tarea desde el primer día, simplificada, y va subiendo la complejidad. Qué conviene cuándo no tiene una comparación directa en las fuentes leídas.
 
@@ -34,7 +36,7 @@ Una cuarta mirada atraviesa las tres: los [conceptos umbral](conceptos-umbral.md
 
 ## Qué evidencia hay
 
-Poca y despareja. Las jerarquías de Gagné tuvieron un programa de validación en los 70 con fallas metodológicas; la teoría de la elaboración no tiene estudios de resultados encontrados; la espiral tiene casos descriptivos; 4C/ID tiene un metaanálisis con d = 0,79, que mide el modelo entero y no la secuencia sola. El grafo de prerrequisitos se usa mucho en plataformas sin evaluación comparada de resultados.
+Poca y despareja. Las jerarquías de Gagné tuvieron un programa de validación en los 70 con fallas metodológicas; la teoría de la elaboración no tiene estudios de resultados encontrados; la espiral tiene casos descriptivos; 4C/ID tiene un metaanálisis con [d](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,79, que mide el modelo entero y no la secuencia sola. El grafo de prerrequisitos se usa mucho en plataformas sin evaluación comparada de resultados.
 
 ## Qué hay adentro de la secuencia
 

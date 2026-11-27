@@ -23,7 +23,7 @@ Es el eje del ritmo y la estructura social dentro de los [formatos](formatos.md)
 |---|---|---|
 | Lo que da | Fechas que empujan, compañeros, actividades en vivo, comparación con otros | Arrancar cuando sea, ir más rápido donde se sabe y más lento donde no |
 | Lo que cuesta | Todos avanzan al ritmo del grupo; quien se atrasa pierde el grupo | Soledad; nada empuja a seguir |
-| Qué pide del diseño | Calendario, actividades sincrónicas, recuperación para quien se atrasa | Materiales que se sostengan solos, diagnóstico y evaluaciones que no esperen a un docente |
+| Qué pide del diseño | Calendario, actividades sincrónicas (en vivo, todos a la vez), recuperación para quien se atrasa | Materiales que se sostengan solos, diagnóstico y evaluaciones que no esperen a un docente |
 
 La tabla es una síntesis de esta base, no un hallazgo de una fuente.
 

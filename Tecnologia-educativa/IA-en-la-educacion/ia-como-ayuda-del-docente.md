@@ -31,6 +31,6 @@ En el ensayo exploratorio del equipo de LearnLM (Google) y Eedi, con 165 alumnos
 
 ## Por qué el rol intermedio funciona, y qué lo hace frágil
 
-Lo que tienen en común los dos estudios, como lectura de esta base: el beneficio mayor aparece donde el humano sabe menos (los tutores peor calificados en Tutor CoPilot), y el humano cumple la función de guarda que en [la IA como tutor](ia-como-tutor.md) cumplen las instrucciones. Es una forma de escalar a tutores con poca formación, no de reemplazarlos.
+Lo que tienen en común los dos estudios, como lectura de esta base: el beneficio mayor aparece donde el humano sabe menos (los tutores peor calificados en Tutor CoPilot), y el humano cumple la función de [guarda](ia-como-tutor.md#el-diseño-decide-si-suma-o-resta), la restricción que impide darle la respuesta al alumno, que en el tutor de IA cumplen las instrucciones. Es una forma de escalar a tutores con poca formación, no de reemplazarlos.
 
 Es frágil por la evidencia: dos estudios, ninguno con revisión por pares, uno con coautoría del proveedor, resultados medidos en pruebas cercanas a la sesión y no en exámenes externos, y todos escolares. Para capacitar adultos (por ejemplo, un mentor técnico que usa IA para preparar su retroalimentación) no hay estudios; la extensión es inferencia.

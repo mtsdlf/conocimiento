@@ -41,7 +41,7 @@ Ejemplos ilustrativos de esta base, no de los autores: en un curso de programaci
 
 ## La recuperación transfiere, con condiciones
 
-Pan y Rickard (2018) metaanalizaron si lo aprendido testeándose sirve fuera de las preguntas practicadas, según su abstract: 192 tamaños de efecto, 122 experimentos y 10.382 participantes, con una transferencia de d = 0,40 (IC 95 % [0,31; 0,50]). El efecto fue mayor al cambiar de formato de prueba y hacia preguntas de aplicación e inferencia, y más débil con ejemplos resueltos.
+Pan y Rickard (2018) metaanalizaron si lo aprendido testeándose sirve fuera de las preguntas practicadas, según su abstract: 192 [tamaños de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md), 122 experimentos y 10.382 participantes, con una transferencia de [d](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,40 ([IC](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) 95 % [0,31; 0,50]). El efecto fue mayor al cambiar de formato de prueba y hacia preguntas de aplicación e inferencia, y más débil con ejemplos resueltos.
 
 Hay una condición. Tras corregir el sesgo de publicación, el abstract dice que los resultados van "often indicating no positive transfer when none of the aforementioned moderators are present": sin los moderadores que mejoran la transferencia (otro formato de prueba, preguntas de aplicación e inferencia), muchas veces no hay transferencia positiva. Cómo funciona la recuperación está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md), y su uso en cursos en [evaluación como aprendizaje](../../Evaluacion-educativa/Propositos/evaluacion-como-aprendizaje.md).
 

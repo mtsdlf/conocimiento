@@ -27,7 +27,7 @@ La vertical se apoya en una sola idea: la memoria de trabajo es chica, y lo que 
 
 Es la parte del tema con más experimentos, pero con tres límites que cambian cómo se aplica:
 
-- **Laboratorio y lecciones cortas.** La mayoría de los estudios usan lecciones de minutos sobre mecanismos físicos (una bomba de aire, la formación de rayos, los frenos) y pruebas de transferencia inmediatas. Llevar eso a un curso de semanas es un salto que las fuentes no prueban.
+- **Laboratorio y lecciones cortas.** La mayoría de los estudios usan lecciones de minutos sobre mecanismos físicos (una bomba de aire, la formación de rayos, los frenos) y pruebas de [transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md) inmediatas (resolver problemas nuevos con lo aprendido). Llevar eso a un curso de semanas es un salto que las fuentes no prueban.
 - **Medianas del mismo grupo.** Los tamaños de efecto que da Mayer son medianas de estudios de su propio grupo.
 - **La carga casi no se mide.** de Jong (2010) muestra que en muchos estudios la carga se infiere del resultado, y que atribuir la mejora a menos carga extrínseca es una explicación a posteriori.
 

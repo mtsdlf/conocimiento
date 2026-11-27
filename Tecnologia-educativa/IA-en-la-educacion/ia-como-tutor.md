@@ -22,12 +22,14 @@ Es la versión con IA del [tutor inteligente](../Tutores-inteligentes/tutores-in
 
 ## Los cuatro ensayos
 
+Las cifras vienen con la notación de cada estudio: desviaciones estándar, percentiles, pretest y postest (la prueba antes y después) y ensayo por conglomerados (sortea escuelas enteras, no alumnos). Se leen con [las siglas de una cifra](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia).
+
 | Estudio | Diseño | Resultado | Estado |
 |---|---|---|---|
-| Bastani et al. (2025) | Experimento de campo, casi 1.000 alumnos de secundaria, matemática (en Turquía, según el resumen de Wharton) | Durante la práctica, +48 % con un chat tipo ChatGPT y +127 % con un tutor con guardas. Sin la IA: el grupo del chat, 17 % por debajo del control; el del tutor, igual al control | Con revisión por pares (*PNAS*) |
+| Bastani et al. (2025) | Experimento de campo, casi 1.000 alumnos de secundaria, matemática (en Turquía, según el resumen de Wharton) | Durante la práctica, +48 % con un chat tipo ChatGPT y +127 % con un tutor con guardas (*guardrails*: instrucciones que le impiden dar la respuesta). Sin la IA: el grupo del chat, 17 % por debajo del control; el del tutor, igual al control | Con revisión por pares (*PNAS*) |
 | Kestin et al. (2025) | Ensayo cruzado, física de primer año en Harvard, otoño de 2023, 194 alumnos analizados | Tutor con GPT-4 frente a clase de [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md): mediana del postest 4,5 contra 3,5 (pretest 2,75); ganancia mediana «more than double»; efecto 0,63 en la regresión, 0,73 a 1,3 desviaciones estándar en la cuantílica; mediana de 49 minutos en la tarea | Con revisión por pares (*Scientific Reports*) |
 | De Simone et al. (2025) | Ensayo aleatorizado en Edo, Nigeria, seis semanas de inglés extraescolar con Microsoft Copilot (GPT-4) | +0,23 desviaciones estándar en inglés, el resultado principal; +0,31 en la evaluación total (inglés, conocimiento de IA y habilidades digitales) | Documento de trabajo del Banco Mundial, sin revisión por pares en lo verificado |
-| Oreopoulos y Low (2026) | Ensayo por conglomerados de dos años, 18 escuelas medias de Tennessee, Khanmigo configurado para no dar respuestas, en matemática remedial | +1,3 percentiles por trimestre: 0,06 a 0,08 desviaciones estándar por año, y 0,14 implícitos para un año de uso activo | Documento de trabajo del NBER, sin revisión por pares |
+| Oreopoulos y Low (2026) | Ensayo por conglomerados de dos años, 18 escuelas medias de Tennessee, Khanmigo, el tutor con IA de Khan Academy, configurado para no dar respuestas, en matemática remedial | +1,3 percentiles por trimestre: 0,06 a 0,08 desviaciones estándar por año, y 0,14 implícitos para un año de uso activo | Documento de trabajo del NBER, sin revisión por pares |
 
 Cada uno tiene límites que cambian cómo se lo lee. Kestin et al. es una sola asignatura, un solo tema y una sola vez, sin retención a largo plazo; la precisión del tutor dependió de soluciones escritas de antemano por los docentes, y armar la plataforma llevó «several months». En De Simone et al., la asistencia fue irregular por inundaciones y huelgas, y el tamaño de la muestra (800 alumnos, según el buscador) no se cotejó en la fuente; el blog del Banco Mundial redondea el efecto a «about 0.3», que es la cifra total y no la de inglés.
 

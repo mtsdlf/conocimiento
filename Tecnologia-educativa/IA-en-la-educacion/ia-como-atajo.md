@@ -25,7 +25,7 @@ El mecanismo que proponen los estudios es la descarga cognitiva (no confundir co
 
 Bastani et al. (2025, *PNAS*, con revisión por pares) dieron GPT-4 a casi 1.000 alumnos de secundaria durante la práctica de matemática. Con un chat tipo ChatGPT rindieron 48 % más que el control mientras lo usaban. Cuando se lo sacaron, rindieron 17 % menos que el grupo que nunca lo tuvo. En los registros, la mayoría pedía la respuesta.
 
-Es la prueba más limpia del atajo de los tres estudios: mide la prueba posterior sin IA. Una medida tomada durante la tarea habría mostrado un éxito. La otra mitad del experimento, el tutor con guardas que no dio daño, está en [la IA como tutor](ia-como-tutor.md).
+Es la prueba más limpia del atajo de los tres estudios: mide la prueba posterior sin IA. Una medida tomada durante la tarea habría mostrado un éxito. La otra mitad del experimento, el tutor con [guardas](ia-como-tutor.md#el-diseño-decide-si-suma-o-resta) (instrucciones de no dar la respuesta) que no dio daño, está en [la IA como tutor](ia-como-tutor.md).
 
 ## Dos estudios que apuntan igual, con menos fuerza
 

@@ -19,9 +19,9 @@ Un modelo de diseño instruccional es una receta para armar instrucción: un ord
 
 Los modelos son la forma de recorrer las otras partes del curso: dicen en qué orden se hace el [análisis previo](../Analisis-previo/analisis-previo.md), se escriben los [objetivos](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md), se arma la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md) y se producen los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md). Por eso conviene leerlos después de esas verticales.
 
-## Tres clases de modelo
+## Tres clases de modelo y uno que las combina
 
-Los modelos que se nombran juntos («ADDIE, diseño hacia atrás, 4C/ID, Merrill, Gagné») no son el mismo tipo de cosa. Contestan preguntas distintas.
+Los modelos que se nombran juntos («ADDIE, diseño hacia atrás, 4C/ID, Merrill, Gagné») no son el mismo tipo de cosa. Contestan tres preguntas distintas, y 4C/ID contesta las tres a la vez.
 
 | Clase | Pregunta que contesta | Modelos | Nota |
 |---|---|---|---|
@@ -34,7 +34,7 @@ La división es una propuesta del informe de esta base para lectores sin formaci
 
 ## Qué evidencia hay de que un modelo funcione
 
-Casi ninguna, y la que hay no compara modelos entre sí.
+Casi ninguna, y la que hay no compara modelos entre sí. Las cifras son tamaños de efecto: d y SMD expresan la diferencia entre grupos en [desviaciones estándar](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia).
 
 | Modelo | Evidencia encontrada |
 |---|---|

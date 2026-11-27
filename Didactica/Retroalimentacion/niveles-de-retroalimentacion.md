@@ -37,7 +37,7 @@ Los ejemplos de la tabla son ilustrativos, no de la fuente.
 
 En los metaanálisis que reúnen Hattie y Timperley, los efectos más altos correspondieron a la información sobre la tarea y cómo hacerla mejor, y los más bajos a elogios, recompensas y castigos. El elogio da 0,14 en su tabla; según Hattie y Timperley, Kluger y DeNisi (1998) dan 0,09 y Wilkinson (1981), 0,12. Según los autores, el elogio a la persona «carries little» información y desvía la atención de la tarea.
 
-La teoría de Kluger y DeNisi lo explica por la atención: cuanto más se acerca el mensaje a la persona, menos efecto tiene, y más de un tercio de las intervenciones que reunieron empeoraron el desempeño. La ficha de la EEF dice lo mismo con otras palabras: la retroalimentación sobre la persona «tends to be the least effective type», y la que funciona «tends to focus on the task, subject and self-regulation strategies».
+La teoría de Kluger y DeNisi lo explica por la atención: cuanto más se acerca el mensaje a la persona, menos efecto tiene, y más de un tercio de las intervenciones que reunieron empeoraron el desempeño. La ficha de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra) dice lo mismo con otras palabras: la retroalimentación sobre la persona «tends to be the least effective type», y la que funciona «tends to focus on the task, subject and self-regulation strategies».
 
 Esto no significa callar cuando algo está bien. La EEF agrega: «It is important to give feedback when things are correct». La diferencia está en decir qué está bien y por qué, en lugar de calificar a la persona.
 

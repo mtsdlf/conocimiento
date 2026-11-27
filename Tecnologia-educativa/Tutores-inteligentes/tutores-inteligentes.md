@@ -29,7 +29,7 @@ La pieza más visible del modelo pedagógico es la [escalera de pistas](pistas-d
 
 Los metaanálisis dan efectos de medianos a grandes. Ma et al. (2014) encontraron una ventaja de g = 0,42 frente a la clase grupal dirigida por un docente y ninguna diferencia significativa frente a la tutoría humana individual. VanLehn (2011), según su resumen, estimó d = 0,76 para los tutores inteligentes y d = 0,79 para la tutoría humana.
 
-El mejor ensayo a escala da menos. En el ensayo aleatorizado de Pane et al. (2014) con el Cognitive Tutor de Álgebra en 147 escuelas, el efecto en secundaria fue nulo el primer año y de unas 0,20 desviaciones estándar el segundo, según RAND. La distancia entre una cifra y otra es la lección de la vertical, y está en [evidencia de los tutores inteligentes](evidencia-de-los-tutores-inteligentes.md).
+El mejor ensayo a escala da menos. En el ensayo aleatorizado de Pane et al. (2014) con el Cognitive Tutor de Álgebra en 147 escuelas, el efecto en secundaria fue nulo el primer año y de unas 0,20 [desviaciones estándar](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) el segundo, según RAND. La distancia entre una cifra y otra es la lección de la vertical, y está en [evidencia de los tutores inteligentes](evidencia-de-los-tutores-inteligentes.md).
 
 Todo lo medido es escolar o universitario, y el ensayo a escala es de álgebra. Que funcione igual para un adulto que aprende un oficio técnico es inferencia de esta base.
 

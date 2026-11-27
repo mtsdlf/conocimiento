@@ -34,7 +34,7 @@ En 2020 Eccles y Wigfield cambiaron el nombre a teoría de expectativa-valor sit
 
 ## La intervención de relevancia y a quién le sirve
 
-Hulleman y Harackiewicz (2009) hicieron un experimento de campo aleatorizado en clases de ciencias de secundaria. Una actividad pedía a los estudiantes conectar lo que aprendían con su vida. Según el abstract, la actividad aumentó el interés y las notas del curso **solo en quienes tenían bajas expectativas de éxito**. El abstract no da tamaños de efecto ni número de estudiantes.
+Hulleman y Harackiewicz (2009) hicieron un experimento de campo aleatorizado en clases de ciencias de secundaria. Una actividad pedía a los estudiantes conectar lo que aprendían con su vida. Según el abstract, la actividad aumentó el interés y las notas del curso **solo en quienes tenían bajas expectativas de éxito**. El abstract no da [tamaños de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md) ni número de estudiantes.
 
 Una lectura de esta base es que el valor y la expectativa interactúan: a quien ya cree que puede, la relevancia no le agrega mucho, y a quien duda, sí. El abstract no dice qué recibió el grupo de comparación ni si la relevancia habría funcionado dicha por quien enseña en lugar de producida por el alumno.
 

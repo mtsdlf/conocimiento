@@ -27,7 +27,7 @@ Según la página de Wikipedia que resume el artículo, Bloom (1984) comparó tr
 
 | Condición | Efecto frente a la clase convencional |
 |---|---|
-| Tutoría individual con dominio | 2,00 DE (el alumno medio supera al "98 %" del grupo control) |
+| Tutoría individual con dominio | 2,00 [DE](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) (el alumno medio supera al "98 %" del grupo control) |
 | Aprendizaje de dominio en clase | 1,00 DE |
 | Aprendizaje cooperativo | 0,80 DE |
 
@@ -41,7 +41,7 @@ Von Hippel (2024) revisó el origen de la cifra y planteó tres objeciones:
 2. No era solo tutoría. "It wasn't just tutoring": la condición combinaba tutoría con aprendizaje de dominio.
 3. No se replicó. "It's never been replicated". De los 96 estudios que reunieron Nickow, Oreopoulos y Quan, "none produced a two-sigma effect".
 
-Los números de las revisiones posteriores ubican el efecto real. VanLehn (2011) dio d = 0,79 para la tutoría humana y escribió que la creencia previa de d = 2,0 no se confirmó. Nickow et al. dieron 0,37 DE en su borrador de 2020 y 0,288 en la versión publicada de 2023. El detalle está en [tutoría](tutoria.md).
+Los números de las revisiones posteriores ubican el efecto real. VanLehn (2011) dio [d](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,79 para la tutoría humana y escribió que la creencia previa de d = 2,0 no se confirmó. Nickow et al. dieron 0,37 DE en su borrador de 2020 y 0,288 en la versión publicada de 2023. El detalle está en [tutoría](tutoria.md).
 
 ## Cómo citarlo hoy
 

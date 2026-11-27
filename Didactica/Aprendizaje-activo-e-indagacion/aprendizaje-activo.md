@@ -28,7 +28,7 @@ Freeman et al. (2014) reunieron 225 estudios que comparaban clases con algo de a
 |---|---|
 | Exámenes e inventarios conceptuales (158 estudios) | +0,47 desviaciones estándar |
 | Reprobación | 21,8 % con aprendizaje activo, 33,8 % con clase magistral |
-| Probabilidad de reprobar con clase magistral | odds ratio 1,95 |
+| Probabilidad de reprobar con clase magistral | [odds ratio](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) 1,95 |
 | Solo estudios con asignación aleatoria (16) | 0,514, similar al resto |
 
 Los autores calcularon cuántos estudios nulos sin publicar harían falta para anular el resultado (114 para exámenes, 438 para reprobación) y lo consideraron improbable. El "55 % más de reprobados" que circula es la diferencia relativa entre 21,8 % y 33,8 %, no el odds ratio. El beneficio fue mayor en clases chicas y en inventarios conceptuales. El propio artículo advierte que "aprendizaje activo" cubre intervenciones muy distintas, así que el promedio no dice cuál conviene.
@@ -43,7 +43,7 @@ Chi y Wylie (2014) propusieron el marco ICAP para ordenar esa variedad, con cuat
 
 La [instrucción entre pares](../../Ciencias-del-aprendizaje/Aprender-con-otros/instruccion-entre-pares.md) (*peer instruction*) alterna preguntas conceptuales, votación individual, discusión con un compañero y nueva votación. En enseñanza de programación, Porter, Bailey Lee y Simon (2013) titularon su trabajo "Halving fail rates using peer instruction"; la cifra exacta de reducción no se verificó. El caso de programación está en [enseñar programación](../Didacticas-especificas/ensenar-programacion.md).
 
-El Toolkit de la EEF, leído por su espejo australiano, da al aprendizaje colaborativo +5 meses de progreso con costo muy bajo, sobre 212 estudios, en grupos de tres a cinco con una meta compartida. La condición que pone es que los de menor rendimiento participen activamente. La solidez de la evidencia discrepa entre versiones: el espejo la califica de baja y el Toolkit de 2018 hablaba de "extensive evidence". Cómo leer esos meses y candados está en [evidencia en educación](../Fundamentos/evidencia-en-educacion.md); lo social del aprendizaje, en [aprender con otros](../../Ciencias-del-aprendizaje/Aprender-con-otros/aprender-con-otros.md), de Ciencias del aprendizaje.
+El Toolkit de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra), leído por su espejo australiano, da al aprendizaje colaborativo +5 [meses de progreso](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) con costo muy bajo, sobre 212 estudios, en grupos de tres a cinco con una meta compartida. La condición que pone es que los de menor rendimiento participen activamente. La solidez de la evidencia discrepa entre versiones: el espejo la califica de baja y el Toolkit de 2018 hablaba de "extensive evidence". Cómo leer esos meses y candados está en [evidencia en educación](../Fundamentos/evidencia-en-educacion.md); lo social del aprendizaje, en [aprender con otros](../../Ciencias-del-aprendizaje/Aprender-con-otros/aprender-con-otros.md), de Ciencias del aprendizaje.
 
 ## Hasta dónde llega la evidencia
 

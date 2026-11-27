@@ -40,7 +40,7 @@ Sitzmann y Ely (2011) metaanalizaron el aprendizaje autorregulado en capacitaci�
 
 ## Cuánto rinde enseñarlo
 
-Dignath y Büttner (2008) hicieron dos metaanálisis de programas que enseñan aprendizaje autorregulado, uno en primaria (49 estudios) y otro en secundaria (35), con 357 tamaños de efecto. El promedio fue 0,69: g = 0,68 en primaria y 0,71 en secundaria, y el efecto fue mayor en matemática que en lectura y escritura. Estas cifras vienen de una cita de segunda mano (Theobald 2021, vista por el buscador) y no se confirmaron contra el original. La diferencia por materia tiene la misma fuente.
+Dignath y Büttner (2008) hicieron dos metaanálisis de programas que enseñan aprendizaje autorregulado, uno en primaria (49 estudios) y otro en secundaria (35), con 357 [tamaños de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md). El promedio fue 0,69: [g](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,68 en primaria y 0,71 en secundaria, y el efecto fue mayor en matemática que en lectura y escritura. Estas cifras vienen de una cita de segunda mano (Theobald 2021, vista por el buscador) y no se confirmaron contra el original. La diferencia por materia tiene la misma fuente.
 
 Según el buscador, el Toolkit de la EEF da a metacognición y autorregulación +8 meses de progreso por año en su página actual y +7 en otras versiones, con costo muy bajo y evidencia "alta", aunque muchos estudios no tuvieron evaluación independiente. La página dio 403 y no se leyó.
 

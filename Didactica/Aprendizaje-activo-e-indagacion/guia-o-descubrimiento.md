@@ -35,11 +35,11 @@ Kirschner, Sweller y Clark (2006) sostienen en "Why Minimal Guidance During Inst
 
 La ventaja de la guía cede solo cuando el [conocimiento previo](../../Ciencias-del-aprendizaje/Conocimiento-previo-y-comprension/conocimiento-previo.md) es alto, que es la [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md).
 
-Mayer (2004) llegó antes a una conclusión parecida. Según la reseña consultada, revisó tres áreas (descubrimiento de reglas de resolución de problemas, estrategias de conservación y enseñanza de programación) y encontró que el descubrimiento guiado rinde más que el puro en aprendizaje y transferencia. Su título propone una "regla de tres strikes" contra el descubrimiento puro. Lo que pide es guía, no Instrucción Directa: no argumenta contra todos los métodos centrados en quien aprende.
+Mayer (2004) llegó antes a una conclusión parecida. Según la reseña consultada, revisó tres áreas (descubrimiento de reglas de resolución de problemas, estrategias de conservación y enseñanza de programación) y encontró que el descubrimiento guiado rinde más que el puro en aprendizaje y transferencia. Su título propone una "regla de tres strikes" contra el descubrimiento puro. Lo que pide es guía, no [Instrucción Directa](../Explicar-y-modelar/instruccion-directa.md) (con mayúsculas, el programa guionado de Engelmann, no la instrucción explícita en general): no argumenta contra todos los métodos centrados en quien aprende.
 
 ## La respuesta de la indagación y el ABP
 
-Hmelo-Silver, Duncan y Chinn (2007) respondieron en la misma revista que Kirschner et al. pusieron bajo una sola etiqueta enfoques distintos. Para ellos, el [aprendizaje basado en problemas](aprendizaje-basado-en-problemas.md) y la indagación no son de guía mínima. Su abstract: "both PBL and IL employ scaffolding extensively, thereby reducing cognitive load and allowing students to learn in complex domains". En el mismo número, Schmidt, Loyens, van Gog y Paas (2007) defendieron que el ABP es compatible con la arquitectura cognitiva humana, y Sweller, Kirschner y Clark contestaron. Esos tres textos no se leyeron completos.
+Hmelo-Silver, Duncan y Chinn (2007) respondieron en la misma revista que Kirschner et al. pusieron bajo una sola etiqueta enfoques distintos. Para ellos, el [aprendizaje basado en problemas](aprendizaje-basado-en-problemas.md) (ABP) y la indagación no son de guía mínima. Su abstract: "both PBL and IL employ scaffolding extensively, thereby reducing cognitive load and allowing students to learn in complex domains". En el mismo número, Schmidt, Loyens, van Gog y Paas (2007) defendieron que el ABP es compatible con la arquitectura cognitiva humana, y Sweller, Kirschner y Clark contestaron. Esos tres textos no se leyeron completos.
 
 ## El metaanálisis que sostiene a los dos bandos
 
@@ -47,7 +47,7 @@ Alfieri, Brooks, Aldrich y Tenenbaum (2011) reunieron 164 estudios y separaron d
 
 | Comparación | Resultado | Comparaciones |
 |---|---|---|
-| Descubrimiento sin asistencia contra instrucción explícita | d = −0,38 (IC 95 % −0,44 a −0,31): gana la instrucción | 580 |
+| Descubrimiento sin asistencia contra instrucción explícita | [d](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = −0,38 ([IC](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) 95 % −0,44 a −0,31): gana la instrucción | 580 |
 | Descubrimiento asistido contra otras formas de instrucción | d = 0,30 (IC 95 % 0,23 a 0,36): gana el descubrimiento asistido | 360 |
 
 Su conclusión literal: "unassisted discovery does not benefit learners, whereas feedback, worked examples, scaffolding, and elicited explanations do." Las ayudas que nombra son las de esta base: [retroalimentación](../Retroalimentacion/retroalimentacion.md), [ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md), [andamiaje](../Practica-guiada-y-andamiaje/andamiaje.md) y [autoexplicación](../Preguntas-y-dialogo/autoexplicacion.md). Un comentario señala que la mayoría eran experimentos de laboratorio chicos, así que el tamaño en el aula puede ser otro (cómo leer esas cifras está en [evidencia en educación](../Fundamentos/evidencia-en-educacion.md)).
@@ -56,7 +56,7 @@ Ambos bandos aceptan este resultado. El acuerdo es que el descubrimiento sin ayu
 
 ## Problema primero o explicación primero
 
-Una versión distinta de la pregunta no compara guía con descubrimiento sino el orden: intentar un problema antes de la explicación o después. Sinha y Kapur (2021), según su abstract, metaanalizaron 53 estudios con 166 comparaciones y hallaron un efecto moderado a favor de probar primero (g = 0,36). El detalle, los moderadores y los límites están en [falla productiva](falla-productiva.md). Es compatible con Alfieri, según lectura de esta base: el problema inicial va seguido de instrucción explícita, no la reemplaza.
+Una versión distinta de la pregunta no compara guía con descubrimiento sino el orden: intentar un problema antes de la explicación o después. Sinha y Kapur (2021), según su abstract, metaanalizaron 53 estudios con 166 comparaciones y hallaron un efecto moderado a favor de probar primero ([g](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,36). El detalle, los moderadores y los límites están en [falla productiva](falla-productiva.md). Es compatible con Alfieri, según lectura de esta base: el problema inicial va seguido de instrucción explícita, no la reemplaza.
 
 ## Lo que muestran los datos de PISA
 

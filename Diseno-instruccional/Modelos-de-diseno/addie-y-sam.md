@@ -39,7 +39,7 @@ Una consecuencia práctica, por lectura de esta base: cuando alguien dice «usam
 
 ## Dick y Carey, el modelo sistémico
 
-*The Systematic Design of Instruction*, de Dick, Carey y Carey (1.ª ed. 1978), es un modelo de proceso con más detalle que ADDIE (la edición de 1978 viene de conocimiento previo, no verificado en las fuentes). Tiene diez componentes: meta instruccional, análisis instruccional de la meta, análisis de las conductas de entrada y de quien aprende, objetivos de desempeño, instrumentos de evaluación, estrategia, materiales, evaluación formativa, revisión y evaluación sumativa. Parte del supuesto de que ya se hizo un análisis de necesidades. Las fuentes discrepan en si incluye el análisis del contexto como componente aparte.
+*The Systematic Design of Instruction*, de Dick, Carey y Carey (1.ª ed. 1978), es un modelo de proceso con más detalle que ADDIE (la edición de 1978 viene de conocimiento previo, no verificado en las fuentes). Tiene diez componentes: meta instruccional, análisis instruccional de la meta, análisis de las conductas de entrada y de quien aprende, objetivos de desempeño, instrumentos de evaluación, estrategia, materiales, evaluación formativa, revisión y [evaluación sumativa](../../Evaluacion-educativa/Propositos/propositos.md) (la que resume lo logrado al final). Parte del supuesto de que ya se hizo un análisis de necesidades. Las fuentes discrepan en si incluye el análisis del contexto como componente aparte.
 
 ## SAM: iterar con prototipos
 

@@ -47,7 +47,7 @@ El efecto de [inversión de la experticia](../../Didactica/Practica-guiada-y-and
 de Jong (2010) hace un inventario de problemas de la teoría en un artículo de acceso abierto:
 
 - **La carga pertinente es circular.** La define como «quite tautological»: la carga buena es la que ayuda a aprender y la mala, la que no.
-- **La carga casi no se mide.** En muchos estudios «there is no direct measurement of cognitive load»; se usa el resultado en una prueba de transferencia como medida indirecta. Cuando se mide, es con un cuestionario de esfuerzo mental de 9 puntos (la escala de Paas), con medidas fisiológicas como la variabilidad del ritmo cardíaco o con una doble tarea.
+- **La carga casi no se mide.** En muchos estudios «there is no direct measurement of cognitive load»; se usa el resultado en una prueba de [transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md) (aplicar lo aprendido a problemas nuevos) como medida indirecta. Cuando se mide, es con un cuestionario de esfuerzo mental de 9 puntos (la escala de Paas), con medidas fisiológicas como la variabilidad del ritmo cardíaco o con una doble tarea.
 - **Las medidas no separan las cargas.** Son siempre relativas, un puntaje único no distingue intrínseca de extrínseca ni de pertinente, y los instrumentos más usados no captan cambios en el tiempo.
 - **La explicación llega después.** «Attributing better performance on a post-test to a reduction of extraneous load, as most of these studies do, is a post-hoc explanation without direct evidence». Y como las medidas solo comparan condiciones, «all conditions in a study could show overload».
 

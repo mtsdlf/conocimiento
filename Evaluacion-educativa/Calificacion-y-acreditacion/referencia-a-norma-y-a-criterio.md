@@ -30,7 +30,7 @@ Según Wikipedia, una prueba referida a criterio usa el puntaje para afirmar qu�
 | Para qué sirve | Seleccionar cuando hay lugares limitados | Certificar una habilidad, decidir si se avanza |
 | Preguntas que conviene incluir | Las que separan a unos de otros | Las que cubren lo que había que saber |
 
-La tabla es una síntesis de esta base a partir de la definición. Un matiz: el criterio es el dominio evaluado, no el punto de corte. «Aprueba con 60» no hace criterial a una prueba; lo hace que el 60 se interprete como «puede hacer estas cosas».
+La tabla es una síntesis de esta base a partir de la definición. Un matiz: el criterio es el dominio evaluado, no el punto de corte (el puntaje mínimo que separa a quien aprueba de quien no). «Aprueba con 60» no hace criterial a una prueba; lo hace que el 60 se interprete como «puede hacer estas cosas».
 
 ## Por qué un curso quiere criterio
 

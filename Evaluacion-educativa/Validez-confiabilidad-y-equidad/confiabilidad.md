@@ -42,7 +42,7 @@ Aplicado a un curso con más de una persona que corrige, eso da tres pasos (infe
 2. Durante, que cada uno corrija a ciegas una muestra de lo que corrigió el otro.
 3. Si las diferencias crecen, paren y vuelvan al paso 1.
 
-Sobre los errores típicos de los correctores (el efecto halo, la indulgencia), la evidencia que se encontró viene de la psicología del trabajo, no de la medición educativa, y solo por resumen. Según ese resumen, entrenar para evitar esos errores bajó el halo sin mejorar la exactitud, y entrenar solo en exactitud dio mejores resultados que combinarlo con lo anterior. Los mismos errores aparecen en la [evaluación del desempeño](../../Liderazgo-y-direccion/Gestion-de-personas/evaluacion-del-desempeno.md) de empleados.
+Sobre los errores típicos de los correctores (el efecto halo, que es dejar que una impresión general tiña la nota de cada criterio, y la indulgencia, que es corregir de más a favor), la evidencia que se encontró viene de la psicología del trabajo, no de la medición educativa, y solo por resumen. Según ese resumen, entrenar para evitar esos errores bajó el halo sin mejorar la exactitud, y entrenar solo en exactitud dio mejores resultados que combinarlo con lo anterior. Los mismos errores aparecen en la [evaluación del desempeño](../../Liderazgo-y-direccion/Gestion-de-personas/evaluacion-del-desempeno.md) de empleados.
 
 ## Grupos chicos
 

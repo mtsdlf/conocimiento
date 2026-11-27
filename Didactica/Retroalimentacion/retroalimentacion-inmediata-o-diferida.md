@@ -33,7 +33,7 @@ En la tabla de qué evitar figura comparar a quien aprende con otros estudiantes
 
 Shute reconoce que los resultados se contradicen según dónde se estudió. Los estudios de campo muestran el valor de la retroalimentación inmediata y muchos de laboratorio, el de la diferida. Su síntesis: «Immediate feedback can help fix errors in real time, producing greater immediate gains and more efficient learning [...] but delayed feedback has been associated with better transfer of learning».
 
-En la misma revisión, un dato de instrucción por computadora: en 22 estudios con resultados inmediatos el efecto fue 0,80, y en 9 con resultados diferidos, 0,35. Los tutores por computadora de Corbett y Anderson usan retroalimentación inmediata con éxito en programación y matemática. La EEF no toma partido: «Feedback can be effective during, immediately after and some time after learning».
+En la misma revisión, un dato de instrucción por computadora: en 22 estudios con resultados inmediatos el efecto fue 0,80, y en 9 con resultados diferidos, 0,35. Los tutores por computadora de Corbett y Anderson usan retroalimentación inmediata con éxito en programación y matemática. La [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra) no toma partido: «Feedback can be effective during, immediately after and some time after learning».
 
 ## Cuándo conviene cada una
 

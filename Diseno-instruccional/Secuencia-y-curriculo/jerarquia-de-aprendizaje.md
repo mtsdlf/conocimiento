@@ -29,7 +29,7 @@ La fuente es *The Conditions of Learning* (3.ª ed. 1977), que no se leyó; la p
 
 ## Qué tan validada está
 
-White (1974) propuso un procedimiento de nueve etapas para validar jerarquías, y Dayton y Macready (1976), un análisis estructural alternativo. Según un resumen de un informe técnico archivado en DTIC, la investigación previa tenía «serious methodological flaws», y la hipótesis central, que los prerrequisitos median la transferencia, nunca se probó bien. No se encontró una revisión reciente.
+White (1974) propuso un procedimiento de nueve etapas para validar jerarquías, y Dayton y Macready (1976), un análisis estructural alternativo. Según un resumen de un informe técnico archivado en DTIC, la investigación previa tenía «serious methodological flaws», y la hipótesis central, que los prerrequisitos median la [transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md) (usar lo aprendido en otra situación), nunca se probó bien. No se encontró una revisión reciente.
 
 ## Del árbol al grafo
 

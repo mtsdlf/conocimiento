@@ -22,12 +22,14 @@ Es la tradición educativa de [evaluar un programa](evaluar-un-programa.md), y l
 
 El What Works Clearinghouse (WWC), del Institute of Education Sciences de Estados Unidos, califica estudios de programas educativos con un manual público (versión 5.0, leída):
 
+El desgaste (*attrition*) es la proporción de participantes que se pierde antes de la medición final; si se van más de un grupo que del otro, los grupos dejan de ser comparables. La discontinuidad de regresión compara a quienes quedaron apenas por encima y apenas por debajo de un puntaje de corte que decidía quién entraba al programa: a ambos lados del corte las personas son casi iguales.
+
 | Diseño | Calificación máxima |
 |---|---|
 | Experimento aleatorizado con poco desgaste, discontinuidad de regresión, diseño de caso único | «Meets WWC Standards Without Reservations» |
 | Cuasiexperimento, o aleatorizado con desgaste alto | «With Reservations» |
 
-Para los cuasiexperimentos y los aleatorizados comprometidos, el manual exige equivalencia de partida: en las variables clave, los grupos no pueden diferir en más de 0,25 desviaciones estándar. Entre 0,05 y 0,25 hace falta ajuste estadístico; por debajo de 0,05, no.
+Para los cuasiexperimentos y los aleatorizados comprometidos, el manual exige equivalencia de partida: en las variables clave, los grupos no pueden diferir en más de 0,25 [desviaciones estándar](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia). Entre 0,05 y 0,25 hace falta ajuste estadístico; por debajo de 0,05, no.
 
 La lógica de fondo: si los grupos empezaron distintos, la diferencia del final puede venir de ahí y no del programa.
 

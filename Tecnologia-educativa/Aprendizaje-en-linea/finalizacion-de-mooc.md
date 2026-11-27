@@ -19,7 +19,7 @@ La finalización de un MOOC (curso en línea abierto y masivo) es la proporción
 
 ## Seis años de datos de HarvardX y MITx
 
-Reich y Ruipérez-Valiente (2019) analizaron todos los MOOC de HarvardX y MITx en edX hasta mayo de 2018: 565 ediciones de 261 cursos, con 12,67 millones de inscripciones de 5,63 millones de personas. Su conclusión, en sus palabras: «the bane of MOOCs—low completion rates—has not improved over 6 years».
+Reich y Ruipérez-Valiente (2019) analizaron todos los MOOC de HarvardX y MITx en edX hasta mayo de 2018: 565 ediciones de 261 cursos, con 12,67 millones de inscripciones de 5,63 millones de personas. Su conclusión, en sus palabras: «the bane of MOOCs—low completion rates—has not improved over 6 years». La tabla separa a quienes pagaron la vía verificada, la opción paga que da certificado.
 
 | Año | Inscriptos que terminan | Con intención declarada de terminar | Pagaron la vía verificada |
 |---|---|---|---|

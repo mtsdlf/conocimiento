@@ -42,4 +42,4 @@ El libro, que no se leyó, da su propia justificación. La lectura de esta base,
 
 ## Qué evidencia hay
 
-El metaanálisis de Costa, Miranda y Melo (2022) da para 4C/ID un efecto grande sobre el desempeño, d = 0,79, y que el nivel educativo modera el efecto («the higher-education level is more suitable»). No se pudo ver cuántos estudios entraron ni su calidad. El efecto es del modelo entero; no aísla la secuencia por tareas completas. Leerlo como «funciona mejor con adultos» sobreinterpreta: la fuente habla de nivel educativo, no de edad ni de capacitación laboral.
+El metaanálisis de Costa, Miranda y Melo (2022) da para 4C/ID un efecto grande sobre el desempeño, [d](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,79, y que el nivel educativo modera el efecto («the higher-education level is more suitable»). No se pudo ver cuántos estudios entraron ni su calidad. El efecto es del modelo entero; no aísla la secuencia por tareas completas. Leerlo como «funciona mejor con adultos» sobreinterpreta: la fuente habla de nivel educativo, no de edad ni de capacitación laboral.

@@ -29,7 +29,7 @@ Para preguntar por el proceso, Rosenshine da una lista de iniciadores que se com
 - «How are __ and __ alike?»
 - «What do you still not understand about __?»
 
-La guía del What Works Clearinghouse (Pashler et al. 2007) va en la misma dirección con más respaldo. Su recomendación 7 dice: «Use instructional prompts that encourage students to pose and answer "deep-level" questions on course material», y le asigna evidencia fuerte. En la misma guía, las preguntas previas a la lección (recomendación 5a) tienen evidencia mínima.
+La guía del [What Works Clearinghouse](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Pashler et al. 2007) va en la misma dirección con más respaldo. Su recomendación 7 dice: «Use instructional prompts that encourage students to pose and answer "deep-level" questions on course material», y le asigna evidencia fuerte. En la misma guía, las preguntas previas a la lección (recomendación 5a) tienen evidencia mínima.
 
 ## Comprobar que entendieron todos
 
@@ -53,7 +53,7 @@ Con un grupo chico o una sola persona, la traducción práctica es evitar la pre
 
 Robin Alexander define la enseñanza dialógica como el uso del habla para «engage interest, stimulate thinking, advance understanding». La presenta como una postura sobre el conocimiento y no solo como un conjunto de técnicas: el habla de quien enseña encadena las respuestas, en lugar de evaluarlas una por una y pasar a la siguiente. El texto de referencia es *A Dialogic Teaching Companion* (Routledge, 2020).
 
-> [!NOTE] Sin fuente todavía: los principios de la enseñanza dialógica y sus repertorios de habla, que no figuran en la página leída, y la evaluación de la EEF del programa Dialogic Teaching, que no se pudo abrir. La evidencia de ese programa es de escuelas primarias británicas.
+> [!NOTE] Sin fuente todavía: los principios de la enseñanza dialógica y sus repertorios de habla, que no figuran en la página leída, y la evaluación de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra) del programa Dialogic Teaching, que no se pudo abrir. La evidencia de ese programa es de escuelas primarias británicas.
 
 ## Dónde se confunde con evaluar
 

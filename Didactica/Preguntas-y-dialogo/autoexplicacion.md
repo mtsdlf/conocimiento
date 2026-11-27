@@ -33,7 +33,7 @@ La autoexplicación no tiene en lo leído un metaanálisis verificado propio, pe
 
 La guía de Pashler et al. (2007) respalda con evidencia fuerte las preguntas de profundidad (recomendación 7), que piden explicar el porqué del contenido; es la misma familia de técnica.
 
-> [!NOTE] Sin fuente todavía: el estudio clásico de Chi et al. (1989) sobre autoexplicación con ejemplos resueltos y el metaanálisis de Bisra et al. (2018), que una fuente no verificada cita con 64 informes y g = 0,55. Ninguno se pudo abrir.
+> [!NOTE] Sin fuente todavía: el estudio clásico de Chi et al. (1989) sobre autoexplicación con ejemplos resueltos y el metaanálisis de Bisra et al. (2018), que una fuente no verificada cita con 64 informes y [g](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,55. Ninguno se pudo abrir.
 
 ## Leer bien la última pista
 

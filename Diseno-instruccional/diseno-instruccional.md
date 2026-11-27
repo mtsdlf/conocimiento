@@ -27,7 +27,7 @@ La idea que ordena el tema es que un curso se diseña desde el final y desde el 
 
 ## De qué está hecho un curso diseñado
 
-Wikipedia define el campo como «the practice of systematically designing, developing and delivering instructional materials and experiences». Los manuales lo dividen por fases; el de Dick y Carey, en diez componentes que van de la meta a la evaluación sumativa. Esta base lo corta en cinco partes del producto, más los modelos que dicen cómo recorrerlas.
+Wikipedia define el campo como «the practice of systematically designing, developing and delivering instructional materials and experiences». Los manuales lo dividen por fases; el de Dick y Carey, en diez componentes que van de la meta a la [evaluación sumativa](../Evaluacion-educativa/Propositos/propositos.md) (la que resume lo logrado al final). Esta base lo corta en cinco partes del producto, más los modelos que dicen cómo recorrerlas.
 
 ```mermaid
 flowchart LR
@@ -56,7 +56,7 @@ flowchart LR
 |---|---|
 | Materiales | Experimentos de laboratorio con efectos medianos a grandes (Mayer), con una crítica seria a cómo se mide la carga (de Jong 2010) |
 | Formatos, medio | Metaanálisis grandes: en línea empata con presencial; mixto rinde más, con confusión de tiempo y recursos (Means et al. 2013) |
-| Análisis | Un metaanálisis de instrucción basada en análisis cognitivo de tareas (g = 0,871); herramientas de necesidades sin validar |
+| Análisis | Un metaanálisis de instrucción basada en análisis cognitivo de tareas ([g](../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,871, un tamaño de efecto); herramientas de necesidades sin validar |
 | Objetivos | Estudios viejos con efectos chicos y focalizados; la alineación constructiva, con evidencia observacional |
 | Secuencia | Casos descriptivos y un programa de validación de los 70 con fallas |
 | Modelos | Un metaanálisis de 4C/ID (d = 0,79, sin detalles) y una revisión de baja calidad de Gagné; nada para los demás |
@@ -77,7 +77,11 @@ Casi todo viene de escuelas, universidades y salud. Llevarlo a adultos que apren
 - Si alguien justifica una decisión con el 70-20-10 o con «los adultos aprenden distinto»: [mitos del diseño instruccional](Fundamentos/mitos-del-diseno-instruccional.md).
 - Si tenés que elegir o defender un modelo de diseño para un equipo: [modelos de diseño](Modelos-de-diseno/modelos-de-diseno.md) y [ADDIE y SAM](Modelos-de-diseno/addie-y-sam.md).
 - Si tenés que escribir las preguntas de evaluación del curso: no hay nota en este tema; lo más cercano es [alineación constructiva](Objetivos-de-aprendizaje/alineacion-constructiva.md), y, en Evaluación educativa, [instrumentos](../Evaluacion-educativa/Instrumentos/instrumentos.md) y [opción múltiple](../Evaluacion-educativa/Instrumentos/opcion-multiple.md).
+- Si el camino tiene un mentor: no hay nota en este tema; está en Didáctica, con [mentoría](../Didactica/Tutoria-y-mentoria/mentoria.md), [tutoría](../Didactica/Tutoria-y-mentoria/tutoria.md) y [aprendizaje cognitivo](../Didactica/Practica-guiada-y-andamiaje/aprendizaje-cognitivo.md), el modelo del aprendiz que mira, practica con ayuda y la va perdiendo.
+- Si tenés que dimensionar un curso (cuántos objetivos entran en una hora, cómo repartir el tiempo entre explicar y practicar): no hay guía; lo más cercano es [objetivo de desempeño](Objetivos-de-aprendizaje/objetivo-de-desempeno.md) para acotar qué entra.
 - Si tenés que decidir si un curso funcionó: no hay nota en este tema; está en [evaluar un programa](../Evaluacion-educativa/Evaluar-un-programa/evaluar-un-programa.md) y [niveles de Kirkpatrick](../Evaluacion-educativa/Evaluar-un-programa/niveles-de-kirkpatrick.md), de Evaluación educativa.
+
+> [!NOTE] Sin fuente todavía: una guía para dimensionar un curso, como cuántos objetivos caben por hora o qué parte del tiempo va a explicar, practicar y evaluar.
 
 ## De la pregunta al curso: un orden de lectura
 

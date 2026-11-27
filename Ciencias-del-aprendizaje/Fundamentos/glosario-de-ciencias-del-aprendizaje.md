@@ -17,7 +17,7 @@ revisado:
 
 Los términos que usan las notas de Ciencias del aprendizaje, cada uno con una definición de una línea y la nota que lo desarrolla. Incluye los de las teorías del aprendizaje, que son de toda el área Pedagogía.
 
-Los términos de la enseñanza (instrucción explícita, retroalimentación, conocimiento pedagógico del contenido) están en el [glosario de didáctica](../../Didactica/Fundamentos/glosario-de-didactica.md); los de la psicología general (tamaño de efecto, metaanálisis, replicación), en el [glosario de psicología](../../Psicologia/Fundamentos/glosario-de-psicologia.md). Las definiciones son de esta base y se contrastaron, casi todas, con enciclopedias y no con la fuente primaria.
+Los términos de la enseñanza (instrucción explícita, retroalimentación, conocimiento pedagógico del contenido) están en el [glosario de didáctica](../../Didactica/Fundamentos/glosario-de-didactica.md); los de la psicología general (tamaño de efecto, metaanálisis, replicación), en el [glosario de psicología](../../Psicologia/Fundamentos/glosario-de-psicologia.md), y las siglas con que llegan las cifras (d, g, IC, r), en [evidencia en educación](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia). Las definiciones son de esta base y se contrastaron, casi todas, con enciclopedias y no con la fuente primaria.
 
 ## Cómo se aprende
 
@@ -26,6 +26,7 @@ Los términos de la enseñanza (instrucción explícita, retroalimentación, con
 | Aprendizaje | Cambio duradero en lo que alguien sabe o hace, que se ve después o en otro contexto; cada teoría lo define a su modo | [Teorías del aprendizaje](teorias-del-aprendizaje.md), [aprendizaje y rendimiento](../Memoria-y-practica/aprendizaje-y-rendimiento.md) |
 | Rendimiento | Lo que alguien logra mientras practica; indicador poco confiable del aprendizaje | [Aprendizaje y rendimiento](../Memoria-y-practica/aprendizaje-y-rendimiento.md) |
 | Conocimiento previo | Lo que alguien ya sabe de un dominio al empezar a aprender algo de él | [Conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md) |
+| Ganancia normalizada | Cuánto avanzó alguien de lo que le faltaba saber, entre la prueba de antes y la de después | [Conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md) |
 | Esquema | Estructura de conocimiento organizado que permite ver una tarea como un todo | [Conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md), [teorías del aprendizaje](teorias-del-aprendizaje.md) |
 | Concepción errónea | Idea previa equivocada sobre cómo funciona algo, que resiste a la explicación correcta | [Cambio conceptual](../Conocimiento-previo-y-comprension/cambio-conceptual.md) |
 | Cambio conceptual | Paso de una concepción errónea a la que sostiene la disciplina | [Cambio conceptual](../Conocimiento-previo-y-comprension/cambio-conceptual.md) |

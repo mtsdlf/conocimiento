@@ -24,6 +24,8 @@ Es el eje del medio dentro de los [formatos](formatos.md), el único con metaan�
 
 El metaanálisis reunió 50 efectos de 45 estudios que comparaban una condición total o parcialmente en línea con una totalmente presencial. Entraron ensayos aleatorizados y cuasiexperimentos con control estadístico; la mayoría duró más de un mes. Quienes aprendían se repartían parejo entre universitarios o menores y posgrado o formación profesional, con edades promedio de 13 a 44 años.
 
+La g+ es el promedio ponderado de la [g de Hedges](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia), un tamaño de efecto en desviaciones estándar.
+
 | Comparación | Contrastes | Efecto (g+) | Significativo |
 |---|---|---|---|
 | Todos | 50 | +0,20 | Sí (p < 0,001) |
@@ -40,7 +42,7 @@ Para quien diseña, una lectura posible es que pasar un curso a mixto no garanti
 
 ## En vivo o diferido
 
-El metaanálisis de Bernard et al. (2004) comparó educación a distancia con aula sobre 232 estudios de 1985 a 2002. Según la cita de Means et al., encontró «an overall effect size close to zero for student achievement (g+ = 0.01)», con asincrónico g+ = +0,05 y sincrónico g+ = −0,10. Las diferencias son muy chicas, y «a substantial proportion of the variability… was accounted for by the studies' research methodology»: una parte sustancial de la variación la explica el método de cada estudio. Las fuentes discrepan en el número de efectos (699 según Means et al., 599 según un resumen del buscador).
+El metaanálisis de Bernard et al. (2004) comparó educación a distancia con aula sobre 232 estudios de 1985 a 2002. Según la cita de Means et al., encontró «an overall effect size close to zero for student achievement (g+ = 0.01)», con asincrónico g+ = +0,05 y sincrónico g+ = −0,10 (sincrónico es en vivo, todos a la vez; asincrónico, cada uno cuando puede). Las diferencias son muy chicas, y «a substantial proportion of the variability… was accounted for by the studies' research methodology»: una parte sustancial de la variación la explica el método de cada estudio. Las fuentes discrepan en el número de efectos (699 según Means et al., 599 según un resumen del buscador).
 
 ## Fechas que se citan mal
 

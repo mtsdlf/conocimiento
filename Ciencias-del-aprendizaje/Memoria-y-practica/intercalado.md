@@ -26,11 +26,11 @@ En la práctica en bloque, quien resuelve sabe de antemano qué método usar: el
 
 ## Cuánto rinde y con qué material
 
-Brunmair y Richter reunieron 59 estudios, 238 tamaños de efecto y 158 muestras. Según su abstract:
+Brunmair y Richter reunieron 59 estudios, 238 [tamaños de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md) y 158 muestras. Según su abstract:
 
 | Material | Efecto del intercalado frente al bloque |
 |---|---|
-| Global | g = 0,42, moderado |
+| Global | [g](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,42, moderado |
 | Pinturas (reconocer el estilo de un pintor) | g = 0,67 |
 | Tareas de matemática | g = 0,34 |
 | Textos expositivos y sabores | No significativo |

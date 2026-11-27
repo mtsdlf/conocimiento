@@ -37,7 +37,7 @@ Es un diseño con respaldo teórico y sin evidencia de efecto. El propio autor d
 
 Escueta et al. (2020) ubican estos sistemas dentro del aprendizaje asistido por computadora, una de sus cuatro categorías de tecnología educativa. Esta base no leyó sus conclusiones por categoría.
 
-El único ensayo adaptativo verificado en esta base es indirecto. En el ensayo de dos años de Oreopoulos y Low (2026, documento de trabajo del NBER, sin revisión por pares), el tutor de IA dio de 0,06 a 0,08 desviaciones estándar por año, que según su resumen es un efecto parecido al de la práctica de Khan Academy sin IA. La práctica adaptativa y la tutoría por chat dieron efectos parecidos y chicos, en escolares de matemática remedial.
+El único ensayo adaptativo verificado en esta base es indirecto. En el ensayo de dos años de Oreopoulos y Low (2026, documento de trabajo del NBER, sin revisión por pares), el tutor de IA dio de 0,06 a 0,08 [desviaciones estándar](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) por año, que según su resumen es un efecto parecido al de la práctica de Khan Academy sin IA. La práctica adaptativa y la tutoría por chat dieron efectos parecidos y chicos, en escolares de matemática remedial.
 
 > [!NOTE]
 > Sin fuente todavía: un metaanálisis de sistemas adaptativos comerciales (ALEKS, Duolingo y otros) y las conclusiones de Escueta et al. sobre el aprendizaje asistido por computadora. Para los tutores inteligentes, que son una de las familias con más evidencia en esta base, está [evidencia de los tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md).

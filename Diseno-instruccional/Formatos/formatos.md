@@ -25,7 +25,7 @@ Las etiquetas corrientes mezclan ejes: «bootcamp» es un contexto (según el ma
 | Eje | Opciones | Qué evidencia hay | Nota |
 |---|---|---|---|
 | Medio | Presencial, en línea, mixto | Metaanálisis grandes: en línea empata con presencial; mixto rinde más, con una confusión de tiempo y recursos | [En línea, presencial y mixto](en-linea-presencial-y-mixto.md) |
-| Ritmo y estructura social | Cohorte o ritmo propio; sincrónico o asincrónico | Ninguna comparación de finalización encontrada; práctica de escuelas sin datos auditados | [Cohorte o ritmo propio](cohorte-o-ritmo-propio.md) |
+| Ritmo y estructura social | Cohorte o ritmo propio; sincrónico (en vivo, todos a la vez) o asincrónico (cada uno cuando puede) | Ninguna comparación de finalización encontrada; práctica de escuelas sin datos auditados | [Cohorte o ritmo propio](cohorte-o-ritmo-propio.md) |
 | Contexto | Curso aparte o aprendizaje en el trabajo | La proporción 70-20-10 no tiene respaldo; uno de sus autores la llamó folklore | [Aprender en el trabajo](aprender-en-el-trabajo.md) |
 
 La división en tres ejes es una propuesta del informe de esta base, no de un manual.

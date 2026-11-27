@@ -27,9 +27,9 @@ La literatura ordena la vertical alrededor de una pregunta, cuánta guía y cuá
 
 | Qué | Qué compara | Mejor evidencia leída | Resultado |
 |---|---|---|---|
-| La disputa guía o descubrimiento | descubrir con poca ayuda contra que te expliquen | Alfieri et al. (2011), 164 estudios | sin asistencia pierde (d = −0,38); con asistencia gana (d = 0,30) |
-| El orden de problema y explicación | probar primero y explicar después, o al revés | Sinha y Kapur (2021), 53 estudios | probar primero gana (g = 0,36), salvo en primaria |
-| La clase activa | hacer algo en clase contra escuchar una exposición | Freeman et al. (2014), 225 estudios | +0,47 DE en exámenes; reprobación de 33,8 % a 21,8 % |
+| La disputa guía o descubrimiento | descubrir con poca ayuda contra que te expliquen | Alfieri et al. (2011), 164 estudios | sin asistencia pierde ([d](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = −0,38); con asistencia gana (d = 0,30) |
+| El orden de problema y explicación | probar primero y explicar después, o al revés | Sinha y Kapur (2021), 53 estudios | probar primero gana ([g](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,36), salvo en primaria |
+| La clase activa | hacer algo en clase contra escuchar una exposición | Freeman et al. (2014), 225 estudios | +0,47 [DE](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) en exámenes; reprobación de 33,8 % a 21,8 % |
 
 El [aprendizaje basado en problemas](aprendizaje-basado-en-problemas.md) cae entre la primera y la tercera fila: sus críticos lo cuentan como guía mínima y sus defensores, como descubrimiento asistido.
 

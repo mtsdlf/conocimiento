@@ -26,7 +26,7 @@ La idea que ordena todo el tema es que quien aprende no puede ver directamente s
 
 ## De qué está hecho aprender
 
-El campo se divide de varias maneras. El manual de Cambridge de las *learning sciences* tiene partes de fundamentos, metodologías, tecnología, aprender juntos, conocimiento disciplinar y llevar la investigación al aula; el de Woolfolk pone las perspectivas teóricas y la motivación dentro del aprendizaje. Esta base corta por lo que le pasa a quien aprende, en seis partes:
+El campo se divide de varias maneras. El manual de Cambridge de las *learning sciences* tiene partes de fundamentos, metodologías, tecnología, aprender juntos, conocimiento disciplinar y llevar la investigación al aula. Esta base corta por lo que le pasa a quien aprende, en seis partes:
 
 ```mermaid
 flowchart LR
@@ -51,7 +51,7 @@ flowchart LR
 
 ## La diferencia que importa es lo que se sabe, no la edad
 
-El árbol no tiene una parte para «quién aprende». La edad, el ser adulto, el estilo o el tipo de inteligencia aparecen en la conversación como si cambiaran cómo enseñar, y casi ninguno resiste: los estilos de aprendizaje cayeron, la [andragogía](Fundamentos/andragogia.md) no muestra que los adultos aprendan distinto y las diferencias de hemisferio son un [mito](Fundamentos/mitos-del-aprendizaje.md). Lo que sí cambia qué enseñanza sirve es cuánto sabe la persona del tema: es el [conocimiento previo](Conocimiento-previo-y-comprension/conocimiento-previo.md), y del lado de quien enseña, la [inversión de la experticia](../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md). Que pese más que la edad es una lectura de esta base sobre estudios escolares, no un hallazgo con adultos.
+El árbol no tiene una parte para «quién aprende». La edad, el ser adulto, el estilo o el tipo de inteligencia aparecen como si cambiaran cómo enseñar, y la evidencia los achica o los descarta. Cayó adaptar la enseñanza al estilo de aprendizaje, aunque la preferencia existe. Que los adultos aprenden distinto se achicó: la [andragogía](Fundamentos/andragogia.md) quedó como buenas prácticas para cualquier edad. Las diferencias de hemisferio son un [mito](Fundamentos/mitos-del-aprendizaje.md). Lo que sí cambia qué enseñanza sirve es cuánto sabe la persona del tema: es el [conocimiento previo](Conocimiento-previo-y-comprension/conocimiento-previo.md), y del lado de quien enseña, la [inversión de la experticia](../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md). Que pese más que la edad es inferencia de esta base sobre estudios escolares.
 
 Las diferencias de desarrollo de 0 a 12 años y las dificultades específicas del aprendizaje viven en [Psicología infantil](../Psicologia-infantil/psicologia-infantil.md), con [desarrollo cognitivo](../Psicologia-infantil/Desarrollo/desarrollo-cognitivo.md) y [escuela y aprendizaje](../Psicologia-infantil/Contextos/escuela-y-aprendizaje.md).
 
@@ -69,6 +69,7 @@ Casi toda la evidencia del tema viene de escuelas y universidades, y buena parte
 - Si quien aprende cree que sabe y no sabe: [ilusión de saber](Metacognicion-y-autorregulacion/ilusion-de-saber.md) y [calibración](Metacognicion-y-autorregulacion/calibracion.md).
 - Si querés que alguien aprenda a estudiar solo: [aprendizaje autorregulado](Metacognicion-y-autorregulacion/aprendizaje-autorregulado.md) y [aprender por cuenta propia](../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md).
 - Si el grupo pierde las ganas o abandona: [motivación para aprender](Motivacion-para-aprender/motivacion-para-aprender.md), [valor y expectativas](Motivacion-para-aprender/valor-y-expectativas.md) y [apoyo a la autonomía](Motivacion-para-aprender/apoyo-a-la-autonomia.md). El abandono como tal no tiene nota todavía; lo más cercano es [finalización de MOOC](../Tecnologia-educativa/Aprendizaje-en-linea/finalizacion-de-mooc.md).
+- Si tenés que acompañar o mentorear a alguien que empieza: [tutoría](../Didactica/Tutoria-y-mentoria/tutoria.md), [mentoría](../Didactica/Tutoria-y-mentoria/mentoria.md), [motivación para aprender](Motivacion-para-aprender/motivacion-para-aprender.md) e [inversión de la experticia](../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md). El abandono no tiene nota; lo más cercano es [finalización de MOOC](../Tecnologia-educativa/Aprendizaje-en-linea/finalizacion-de-mooc.md).
 - Si te proponen un programa de mentalidad de crecimiento o de entrenamiento cerebral: [mentalidad de crecimiento](Motivacion-para-aprender/mentalidad-de-crecimiento.md) y [entrenamiento cognitivo](Transferencia/entrenamiento-cognitivo.md).
 - Si vas a poner a trabajar en grupo o en pares: [aprendizaje cooperativo](Aprender-con-otros/aprendizaje-cooperativo.md), [instrucción entre pares](Aprender-con-otros/instruccion-entre-pares.md) y [aprender enseñando](Aprender-con-otros/aprender-ensenando.md).
 - Si te dicen que los adultos aprenden distinto: [andragogía](Fundamentos/andragogia.md).

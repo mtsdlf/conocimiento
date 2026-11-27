@@ -45,7 +45,7 @@ Los nueve eventos salen del trabajo de Gagné sobre las condiciones del aprendiz
 6. Provocar el desempeño.
 7. Dar retroalimentación.
 8. Evaluar el desempeño.
-9. Favorecer la retención y la transferencia.
+9. Favorecer la retención y la [transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md) (usar lo aprendido en una situación distinta).
 
 Las guías universitarias los repiten sin citar evidencia.
 
@@ -55,7 +55,7 @@ Las guías universitarias los repiten sin citar evidencia.
 
 Para Merrill, ninguna encontrada. Para Gagné, una revisión sistemática con metaanálisis en educación de profesiones de la salud (Li et al. 2025) comparó lecciones armadas con los nueve eventos contra clase magistral:
 
-| Medida | Estudios | Efecto (SMD) | Intervalo de confianza 95 % | Heterogeneidad (I²) |
+| Medida | Estudios | Efecto ([SMD](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia)) | Intervalo de confianza 95 % | Heterogeneidad (I²) |
 |---|---|---|---|---|
 | Conocimiento, todos los estudios | 11 estudios, 825 participantes | 1,55 | 0,81 a 2,29 | 95 % |
 | Práctica, todos los estudios | | 1,83 | 1,19 a 2,47 | 90 % |

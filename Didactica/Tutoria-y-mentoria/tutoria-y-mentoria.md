@@ -26,7 +26,7 @@ Dentro de la [didáctica](../didactica.md) es el formato donde las demás vertic
 |---|---|---|
 | Qué hace | enseña una habilidad o un contenido | acompaña una carrera o una trayectoria |
 | Qué mide la investigación | rendimiento en pruebas | actitudes, conducta, carrera, salud |
-| Efecto típico leído | 0,29 a 0,79 DE según la revisión | efectos generalmente pequeños; +2 meses en la EEF |
+| Efecto típico leído | 0,29 a 0,79 [DE](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) según la revisión | efectos generalmente pequeños; +2 meses en la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra) |
 | Referencias | VanLehn (2011), Nickow et al. (2020), EEF | Kram (1983), Eby et al. (2008), EEF |
 
 En un oficio técnico, la misma persona suele hacer las dos cosas, y conviene saber en cuál está. Cuando se sienta con alguien a resolver un problema, la evidencia que le sirve es la de tutoría. El [aprendizaje cognitivo](../Practica-guiada-y-andamiaje/aprendizaje-cognitivo.md) de Collins, Brown y Newman, el modelo de cómo un experto hace visible su razonamiento, sirve a las dos y vive en la vertical de práctica guiada.

@@ -20,7 +20,7 @@ Es una de las técnicas de [Aprender con otros](aprender-con-otros.md). Se disti
 
 ## Lo que encontró Kyndt
 
-Kyndt et al. (2013) metaanalizaron el aprendizaje cooperativo cara a cara frente a la enseñanza expositiva. Según el resumen, encontraron un efecto positivo sobre el rendimiento y sobre las actitudes, y probaron como moderadores el método cooperativo, el dominio, la edad y la cultura. No se obtuvieron ni el número de estudios ni los tamaños de efecto: la reseña disponible estaba en un PDF ilegible.
+Kyndt et al. (2013) metaanalizaron el aprendizaje cooperativo cara a cara frente a la enseñanza expositiva. Según el resumen, encontraron un efecto positivo sobre el rendimiento y sobre las actitudes, y probaron como moderadores el método cooperativo, el dominio, la edad y la cultura. No se obtuvieron ni el número de estudios ni los [tamaños de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md) (diferencias entre grupos medidas en desviaciones estándar)o: la reseña disponible estaba en un PDF ilegible.
 
 > [!NOTE]
 > Sin fuente todavía: los tamaños de efecto y moderadores de Kyndt et al. (2013), y las dos referencias que el campo cita, Johnson y Johnson (2009, *Educational Researcher*) y la tesis de Slavin de «metas grupales más responsabilidad individual».

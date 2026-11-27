@@ -22,7 +22,7 @@ Dentro de la [secuencia](secuencia-y-curriculo.md) resuelve el orden de las piez
 
 ## De lo general a lo detallado: la elaboración
 
-La teoría de la elaboración de Reigeluth empieza por un epítome: las pocas ideas más fundamentales y abarcativas del dominio. Una reseña de la versión de 1996 lo dice así: el curso «should epitomize the whole subject domain by teaching the one, or at most the few, most fundamental, generalizable, and inclusive principles». Después vienen elaboraciones de nivel 1, de nivel 2 y así, cada una con más detalle sobre una parte del epítome.
+La teoría de la elaboración de Reigeluth empieza por un epítome: las pocas ideas más fundamentales y abarcativas del dominio. Una reseña de la versión de 1996 lo dice así: el curso «should epitomize the whole subject domain by teaching the one, or at most the few, most fundamental, generalizable, and inclusive principles». Después vienen las elaboraciones, en niveles: las de nivel 1 agregan detalle sobre una parte del epítome, las de nivel 2 sobre una parte de las de nivel 1, y así.
 
 El EduTechWiki lista ocho componentes de estrategia: una estructura organizadora (conceptual, procedimental o teórica), la secuencia de lo simple a lo complejo, la secuencia dentro de la lección, resumidores, sintetizadores, analogías, activadores de estrategias cognitivas y control de quien aprende. Agrega que se puede aplicar por temas o en espiral.
 
@@ -32,7 +32,7 @@ Su estado empírico: la teoría nació de una crítica a métodos anteriores de 
 
 Bruner, en *The Process of Education* (1960), sostuvo que «any subject can be taught effectively in some intellectually honest form to any child at any stage of development» (p. 33, según una cita secundaria). La consecuencia de diseño es la espiral: los temas se revisitan varias veces, cada vuelta con más complejidad, en lugar de cerrarse una vez y no volver.
 
-La evidencia es sobre todo descriptiva. Un caso es un curso de química orgánica con una deserción del 30 al 50 % que, con un diseño en espiral de dos semestres, perdió 5 de 298 estudiantes a mediados de octubre (Grove et al. 2008); no es un estudio controlado. El interés bajó en los 80, y Gibbs (2014) lo matiza con un andamiaje que se va retirando.
+La evidencia es sobre todo descriptiva. Un caso es un curso de química orgánica con una deserción del 30 al 50 % que, con un diseño en espiral de dos semestres, perdió 5 de 298 estudiantes a mediados de octubre (Grove et al. 2008); no es un estudio controlado. El interés bajó en los 80, y Gibbs (2014) lo matiza con un [andamiaje](../../Didactica/Practica-guiada-y-andamiaje/andamiaje.md) (ayuda ajustada a quien aprende) que se va retirando.
 
 Que la espiral reparta el estudio de un tema en el tiempo la acerca a la práctica espaciada, que sí tiene evidencia fuerte ([práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md)). Esa conexión es una inferencia: las fuentes de la espiral leídas no la hacen.
 

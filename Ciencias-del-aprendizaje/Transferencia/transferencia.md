@@ -29,9 +29,9 @@ Barnett y Ceci (2002) proponen que esa división es demasiado gruesa. Su taxonom
 
 ## Por qué falla tan seguido
 
-Sala y Gobet (2017) lo resumieron en una frase del abstract: "far transfer of learning rarely occurs". Los efectos que se reportan para el ajedrez, la música o el entrenamiento de la memoria de trabajo bajan a medida que mejora el diseño del estudio. El caso de los programas de entrenamiento cerebral está en [entrenamiento cognitivo](entrenamiento-cognitivo.md).
+Sala y Gobet (2017) lo resumieron en una frase del abstract: "far transfer of learning rarely occurs". Los efectos que se reportan para el ajedrez, la música o el entrenamiento de la [memoria de trabajo](../../Psicologia/Aprendizaje-y-memoria/memoria.md) bajan a medida que mejora el diseño del estudio. El caso de los programas de entrenamiento cerebral está en [entrenamiento cognitivo](entrenamiento-cognitivo.md).
 
-La caída también aparece fuera de la escuela. En capacitación laboral, según un resumen de investigación que ya cita la base, los tamaños de efecto bajan al pasar de medir lo aprendido a medir la conducta en el trabajo (ver [aprender por cuenta propia](../../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md)).
+La caída también aparece fuera de la escuela. En capacitación laboral, según un resumen de investigación que ya cita la base, los [tamaños de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md) bajan al pasar de medir lo aprendido a medir la conducta en el trabajo (ver [aprender por cuenta propia](../../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md)).
 
 > [!NOTE] Sin fuente todavía: una fuente primaria leída que explique el mecanismo por el que la transferencia falla. Lo que hay son la taxonomía, los metaanálisis negativos y la lectura de Perkins y Salomon por resúmenes.
 

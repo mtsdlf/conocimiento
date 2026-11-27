@@ -41,7 +41,7 @@ Los efectos variaron según el tipo de motivación, el contexto, la edad y el mo
 
 ## Cuánto pesa la información de la retroalimentación
 
-Wisniewski, Zierer y Hattie (2020) metaanalizaron la retroalimentación en general: 435 estudios, 994 tamaños de efecto, unos 61.000 participantes, con un efecto global d = 0,48 sin los valores extremos (0,55 con todos los efectos) y mucha variación; la comparación con los otros metaanálisis está en [retroalimentación](../../Didactica/Retroalimentacion/retroalimentacion.md). Lo que más pesa es cuánta información trae: la retroalimentación correctiva dio d = 0,46; la de alta información, d = 0,99; el refuerzo o el castigo, d = 0,24. Esta fuente no compara notas con comentarios, pero es coherente con Butler: una nota sola es una retroalimentación de muy poca información. Las cifras vienen de un resumen de herramienta y hay que verificarlas.
+Wisniewski, Zierer y Hattie (2020) metaanalizaron la retroalimentación en general: 435 estudios, 994 tamaños de efecto, unos 61.000 participantes, con un efecto global [d](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,48 sin los valores extremos (0,55 con todos los efectos) y mucha variación; la comparación con los otros metaanálisis está en [retroalimentación](../../Didactica/Retroalimentacion/retroalimentacion.md). Lo que más pesa es cuánta información trae: la retroalimentación correctiva dio d = 0,46; la de alta información, d = 0,99; el refuerzo o el castigo, d = 0,24. Esta fuente no compara notas con comentarios, pero es coherente con Butler: una nota sola es una retroalimentación de muy poca información. Las cifras vienen de un resumen de herramienta y hay que verificarlas.
 
 ## Qué hacer con esto
 

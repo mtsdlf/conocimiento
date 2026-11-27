@@ -29,7 +29,7 @@ Tres metaanálisis comparan las notas que ponen los pares con las de quien ense�
 | Li et al. (2016) | r = 0,63 |
 | Sánchez et al. (2017) | r = 0,68 |
 
-Una correlación alta dice que los pares ordenan los trabajos parecido a quien enseña. No dice que pongan la misma nota: pueden ser sistemáticamente más generosos y aun así correlacionar 0,69. Para usar notas de pares en una calificación hace falta mirar también el acuerdo absoluto.
+Una correlación alta dice que los pares ordenan los trabajos parecido a quien enseña. No dice que pongan la misma nota: pueden ser sistemáticamente más generosos y aun así correlacionar 0,69. Para usar notas de pares en una calificación hace falta mirar también el acuerdo absoluto: si las notas coinciden en valor, no solo en orden.
 
 ## Por qué juzgarse a uno mismo es difícil
 

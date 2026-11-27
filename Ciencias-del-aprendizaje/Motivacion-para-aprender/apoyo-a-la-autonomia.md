@@ -26,7 +26,7 @@ Howard et al. (2021) reunieron 344 muestras con 223.209 participantes y 26 resul
 | Tipo de motivación | Se asocia con |
 |---|---|
 | Intrínseca (la tarea interesa en sí) | Éxito y bienestar del estudiante |
-| Identificada (se valora lo que se aprende) | Sobre todo persistencia |
+| Identificada o regulación identificada (se valora lo que se aprende) | Sobre todo persistencia |
 | Externa (premios o evitar castigos) | Ni rendimiento ni persistencia; menos bienestar |
 | Amotivación | Malos resultados |
 
@@ -41,7 +41,7 @@ Ryan y Deci (2020) sostienen que la motivación intrínseca y las formas extrín
 
 ## Cuánto mueve entrenar a los docentes
 
-Ryan y Deci citan a Su y Reeve (2011): diecinueve estudios en los que docentes recibieron entrenamiento para apoyar la autonomía, con un tamaño de efecto de 0,63 «hacia la mejora de los grupos de intervención». El texto no aclara si el efecto se midió sobre la conducta del docente o sobre los estudiantes, y esa diferencia importa (como lectura de esta base, cambiar cómo enseña un docente es un resultado distinto de cambiar cuánto aprenden sus alumnos). La cifra no debe usarse como efecto sobre el aprendizaje hasta leer a Su y Reeve.
+Ryan y Deci citan a Su y Reeve (2011): diecinueve estudios en los que docentes recibieron entrenamiento para apoyar la autonomía, con un [tamaño de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md) de 0,63 «hacia la mejora de los grupos de intervención». El texto no aclara si el efecto se midió sobre la conducta del docente o sobre los estudiantes, y esa diferencia importa (como lectura de esta base, cambiar cómo enseña un docente es un resultado distinto de cambiar cuánto aprenden sus alumnos). La cifra no debe usarse como efecto sobre el aprendizaje hasta leer a Su y Reeve.
 
 ## Quién sostiene la evidencia
 

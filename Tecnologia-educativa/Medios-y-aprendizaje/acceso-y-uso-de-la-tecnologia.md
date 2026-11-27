@@ -36,7 +36,7 @@ Larry Cuban (2001) estudió aulas de Silicon Valley, de preescolar a la universi
 
 ## Con un tutor de IA pasó lo mismo
 
-El ensayo de Oreopoulos y Low (2026), un documento de trabajo del NBER sin revisión por pares, repite el patrón con IA. Durante dos años, en 18 escuelas medias de Tennessee, los alumnos tuvieron un tutor de IA en sus sesiones de matemática remedial. El 96 % lo probó, pero el alumno mediano le escribió solo en cerca de un tercio de los días de práctica y solo en el 17 % de las sesiones en que se equivocó. El efecto fue chico, de 0,06 a 0,08 desviaciones estándar por año, y el resumen concluye que lo difícil es que lo usen, no darles acceso. El estudio completo está en [la IA como tutor](../IA-en-la-educacion/ia-como-tutor.md).
+El ensayo de Oreopoulos y Low (2026), un documento de trabajo del NBER sin revisión por pares, repite el patrón con IA. Durante dos años, en 18 escuelas medias de Tennessee, los alumnos tuvieron un tutor de IA en sus sesiones de matemática remedial. El 96 % lo probó, pero el alumno mediano le escribió solo en cerca de un tercio de los días de práctica y solo en el 17 % de las sesiones en que se equivocó. El efecto fue chico, de 0,06 a 0,08 [desviaciones estándar](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) por año, y el resumen concluye que lo difícil es que lo usen, no darles acceso. El estudio completo está en [la IA como tutor](../IA-en-la-educacion/ia-como-tutor.md).
 
 ## Cómo divide el campo la evidencia
 

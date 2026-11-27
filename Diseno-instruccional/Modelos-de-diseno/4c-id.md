@@ -24,7 +24,7 @@ Dentro de los [modelos de diseño](modelos-de-diseno.md) es el que cubre las tre
 
 | Componente | Para qué |
 |---|---|
-| Tareas de aprendizaje | El eje: tareas completas y auténticas, agrupadas en clases de lo simple a lo complejo |
+| Tareas de aprendizaje | El eje: tareas completas y auténticas, agrupadas en clases de tareas (grupos de tareas de complejidad parecida, explicados en [secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md#clases-de-tareas)), de lo simple a lo complejo |
 | Información de apoyo | Lo no rutinario |
 | Información procedimental | Lo rutinario |
 | Práctica de partes | Repetir aspectos rutinarios hasta automatizarlos |
@@ -51,7 +51,7 @@ La 4.ª edición (2024) suma a Frèrejean como autora y, según la editorial, «
 
 ## Qué dice el metaanálisis
 
-Costa, Miranda y Melo (2022) encontraron un efecto grande sobre el desempeño, d = 0,79, «regardless of the academic area, the design of the study and the outcome». El nivel educativo moderó el efecto: «the higher-education level is more suitable».
+Costa, Miranda y Melo (2022) encontraron un efecto grande sobre el desempeño, d = 0,79 (la [d de Cohen](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) es la diferencia entre grupos en desviaciones estándar), «regardless of the academic area, the design of the study and the outcome». El nivel educativo moderó el efecto: «the higher-education level is more suitable».
 
 Las salvedades pesan:
 

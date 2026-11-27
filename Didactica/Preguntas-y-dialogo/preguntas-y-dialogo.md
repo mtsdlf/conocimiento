@@ -35,7 +35,7 @@ Lo que separa a los docentes eficaces en los estudios que resume Rosenshine es l
 | Pedir que quien aprende explique | Alfieri et al. (2011) lo nombra entre lo que hace funcionar el descubrimiento guiado; Atkinson et al. (2000) lo recomienda en los ejemplos resueltos | [Autoexplicación](autoexplicacion.md) |
 | Preguntas previas a la lección | Mínimo según Pashler et al. (2007), recomendación 5a | [Preguntas en clase](preguntas-en-clase.md) |
 | Tiempo de espera tras preguntar | Sin fuente leída | [Preguntas en clase](preguntas-en-clase.md) |
-| Enseñanza dialógica | Solo la página del autor; la evaluación de la EEF no se pudo abrir | [Preguntas en clase](preguntas-en-clase.md) |
+| Enseñanza dialógica | Solo la página del autor; la evaluación de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra) no se pudo abrir | [Preguntas en clase](preguntas-en-clase.md) |
 
 Toda esta evidencia viene de escuelas y universidades. Llevarla a un mentor que enseña a un adulto en el trabajo es una inferencia, aunque el mecanismo (obligar a producir una respuesta en lugar de reconocerla) no depende de la edad según ninguna de las fuentes leídas.
 

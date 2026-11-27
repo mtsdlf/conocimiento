@@ -29,7 +29,7 @@ La definición del propio capítulo trae su límite: «Desirable difficulties, v
 No toda dificultad sirve. Una letra ilegible o un ruido de fondo hacen difícil la tarea sin disparar ningún proceso útil (ejemplo de esta base, no del capítulo). Y una dificultad útil para quien ya sabe algo puede hundir a quien recién empieza: es la misma lógica de la [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md) y depende del [conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md).
 
 > [!IMPORTANT]
-> **Una categoría o varias técnicas.** La dificultad deseable como paraguas único es una propuesta del grupo de Bjork. La tradición de la carga cognitiva pide condicionar cada dificultad al nivel de quien aprende, porque el nivel de quien aprende cambia qué dificultad le sirve. El capítulo de Bjork y Bjork ya pone esa condición en su definición, así que la diferencia es de énfasis más que de fondo. No se leyó una crítica independiente; la teoría que las une (dos fuerzas de la memoria) es una teoría, y la evidencia está en cada técnica por separado.
+> **Una categoría o varias técnicas.** La dificultad deseable como paraguas único es una propuesta del grupo de Bjork. La tradición de la [carga cognitiva](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md) (la demanda que una tarea pone sobre la memoria de trabajo) pide condicionar cada dificultad al nivel de quien aprende, porque el nivel de quien aprende cambia qué dificultad le sirve. El capítulo de Bjork y Bjork ya pone esa condición en su definición, así que la diferencia es de énfasis más que de fondo. No se leyó una crítica independiente; la teoría que las une (dos fuerzas de la memoria) es una teoría, y la evidencia está en cada técnica por separado.
 
 ## La evidencia, técnica por técnica
 
@@ -38,7 +38,7 @@ No toda dificultad sirve. Una letra ilegible o un ruido de fondo hacen difícil 
 | Espaciar | El intervalo entre sesiones que maximiza la retención crece con el tiempo que se quiere retener; 839 evaluaciones en 317 experimentos de 184 artículos | Cepeda et al. (2006), abstract |
 | Testearse en lugar de releer | El beneficio es mayor con recuerdo libre que con reconocimiento, lo que apoya la idea de procesamiento con esfuerzo; la elaboración semántica como explicación tiene «limited support» | Rowland (2014), abstract |
 | Recuperar frente a hacer mapas conceptuales | La práctica de recuperación dejó más aprendizaje que el estudio elaborativo con mapas, incluso en preguntas de inferencia y cuando la prueba final era armar un mapa | Karpicke y Blunt (2011), abstract |
-| Intercalar | Efecto global moderado, g = 0,42, que depende mucho del material | Brunmair y Richter (2019); ver [intercalado](intercalado.md) |
+| Intercalar | Efecto global moderado, [g](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,42, que depende mucho del material | Brunmair y Richter (2019); ver [intercalado](intercalado.md) |
 | Generar | El beneficio de producir la información frente a leerla; la magnitud depende de cuán restringida está la generación | Metaanálisis de 2020, abstract |
 | Variar las condiciones | Apoya retención y transferencia, según Bjork y Bjork (2011) | Capítulo, sin metaanálisis propio en los informes |
 

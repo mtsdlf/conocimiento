@@ -21,7 +21,7 @@ Es el caso de prueba de la [transferencia lejana](transferencia-cercana-y-lejana
 
 ## Lo que encontraron los metaanálisis
 
-Sala y Gobet (2017) revisaron tres metaanálisis, sobre ajedrez, música y entrenamiento de la memoria de trabajo. Los efectos fueron "small to moderate", pero "the effect sizes are inversely related to the quality of the experimental design": cuanto mejor el estudio, menor el efecto. Su conclusión, según el abstract: "far transfer of learning rarely occurs". En 2019 publicaron *Cognitive training does not enhance general cognition*, con un efecto "minimal" sobre habilidades cognitivas generales.
+Sala y Gobet (2017) revisaron tres metaanálisis, sobre ajedrez, música y entrenamiento de la [memoria de trabajo](../../Psicologia/Aprendizaje-y-memoria/memoria.md). Los efectos fueron "small to moderate", pero "the effect sizes are inversely related to the quality of the experimental design": cuanto mejor el estudio, menor el efecto. Su conclusión, según el abstract: "far transfer of learning rarely occurs". En 2019 publicaron *Cognitive training does not enhance general cognition*, con un efecto "minimal" sobre habilidades cognitivas generales.
 
 Melby-Lervåg, Redick y Hulme (2016) se concentraron en la memoria de trabajo: 87 publicaciones y 145 comparaciones. Encontraron mejoras en transferencia intermedia, en otras tareas de memoria de trabajo verbal y visoespacial. Para la transferencia lejana, como la inteligencia, no hallaron "convincing evidence of any reliable improvements" cuando el grupo de control también hacía alguna actividad.
 

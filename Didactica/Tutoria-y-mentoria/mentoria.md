@@ -29,7 +29,7 @@ Kram (1983), en "Phases of the Mentor Relationship", es el origen de la distinci
 
 Eby, Allen, Evans, Ng y DuBois (2008) metaanalizaron mentoría juvenil, académica y laboral. Según el abstract, la mentoría se asocia con "a wide range of favorable behavioral, attitudinal, health-related" y otros resultados, pero los efectos son en general pequeños. La mentoría académica y la laboral muestran efectos mayores que la juvenil. Un resumen del buscador da 116 muestras, 45.705 personas y efectos de 0,11 a 0,19; esas cifras no se confirmaron contra el artículo.
 
-El Toolkit de la EEF, leído por su espejo australiano, da a la mentoría +2 meses de progreso, evidencia moderada y 44 estudios. Otro documento basado en el Toolkit da +1 mes; la diferencia es de versión. La EEF agrega dos advertencias: los efectos suelen desvanecerse cuando la mentoría termina, y un mentor que abandona puede perjudicar al mentoreado. Cómo se leen esos meses está en [evidencia en educación](../Fundamentos/evidencia-en-educacion.md).
+El Toolkit de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra), leído por su espejo australiano, da a la mentoría +2 [meses de progreso](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno), evidencia moderada y 44 estudios. Otro documento basado en el Toolkit da +1 mes; la diferencia es de versión. La EEF agrega dos advertencias: los efectos suelen desvanecerse cuando la mentoría termina, y un mentor que abandona puede perjudicar al mentoreado. Cómo se leen esos meses está en [evidencia en educación](../Fundamentos/evidencia-en-educacion.md).
 
 ## Qué se sigue para quien mentorea
 

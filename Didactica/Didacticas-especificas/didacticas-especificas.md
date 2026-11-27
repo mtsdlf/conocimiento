@@ -47,5 +47,5 @@ Esta base cubre tres materias, con profundidad desigual según lo que se pudo ve
 ## Qué hay adentro de las didácticas específicas
 
 - [Conocimiento pedagógico del contenido](conocimiento-pedagogico-del-contenido.md): el PCK de Shulman, qué incluye y qué evidencia hay de que importe. Leelo antes que las materias.
-- [Enseñar programación](ensenar-programacion.md): leer y trazar código antes de escribirlo, subobjetivos, PRIMM, problemas de Parsons, máquina nocional y programar en vivo.
+- [Enseñar programación](ensenar-programacion.md): leer y trazar código antes de escribirlo, subobjetivos, PRIMM, problemas de Parsons, la máquina nocional (el modelo simplificado de qué hace la computadora al ejecutar un programa) y programar en vivo.
 - [Enseñar programación con IA](ensenar-programacion-con-ia.md): lo que muestran los primeros experimentos sobre aprender con asistentes de IA y qué diseños protegen el aprendizaje.

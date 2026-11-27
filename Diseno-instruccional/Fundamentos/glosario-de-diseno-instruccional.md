@@ -17,7 +17,7 @@ revisado:
 
 El glosario del diseño instruccional define en una línea los términos que usa el tema, de ADDIE a la teoría de espacios de conocimiento, y enlaza la nota donde cada uno se explica.
 
-Los términos de todo el área (aprendizaje, conductismo, constructivismo, tamaño de efecto, metaanálisis) están en los glosarios de [ciencias del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/glosario-de-ciencias-del-aprendizaje.md) y de [didáctica](../../Didactica/Fundamentos/glosario-de-didactica.md). Cómo se lee una d o una g está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md). Este glosario es parte de los [fundamentos del diseño instruccional](fundamentos-de-diseno-instruccional.md).
+Los términos de todo el área (aprendizaje, conductismo, constructivismo, tamaño de efecto, metaanálisis) están en los glosarios de [ciencias del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/glosario-de-ciencias-del-aprendizaje.md) y de [didáctica](../../Didactica/Fundamentos/glosario-de-didactica.md). Qué son la d, la g, la SMD y la desviación estándar está en [las siglas de una cifra](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia), y cómo se lee un estudio, en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md). Este glosario es parte de los [fundamentos del diseño instruccional](fundamentos-de-diseno-instruccional.md).
 
 ## Términos del tema
 
@@ -28,7 +28,9 @@ Los términos de todo el área (aprendizaje, conductismo, constructivismo, tama�
 | ADDIE | Sigla de cinco fases (análisis, diseño, desarrollo, implementación, evaluación); rótulo de una familia de procesos | [ADDIE y SAM](../Modelos-de-diseno/addie-y-sam.md) |
 | Alineación constructiva | Que objetivo, actividad y evaluación pidan el mismo verbo (Biggs) | [Alineación constructiva](../Objetivos-de-aprendizaje/alineacion-constructiva.md) |
 | Análisis cognitivo de tareas (CTA) | Técnicas para sacarle al experto los pasos y decisiones que automatizó | [Análisis cognitivo de tareas](../Analisis-previo/analisis-cognitivo-de-tareas.md) |
+| Análisis de medios y fines | Resolver un problema buscando diferencias entre dónde se está y adónde hay que llegar; en un novato ocupa la memoria de trabajo | [Carga cognitiva en el aprendizaje](../Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md) |
 | Análisis de necesidades | Decidir si un problema de desempeño se arregla con formación | [Análisis de necesidades](../Analisis-previo/analisis-de-necesidades.md) |
+| Andamiaje | Ayuda ajustada a lo que quien aprende hace, que se retira hasta traspasarle la tarea | [Andamiaje](../../Didactica/Practica-guiada-y-andamiaje/andamiaje.md), de Didáctica |
 | Andragogía | Teoría de Knowles de que los adultos necesitan otra pedagogía; con poca evidencia propia | [Mitos del diseño instruccional](mitos-del-diseno-instruccional.md) |
 | Backwash (efecto de retroceso) | Quien aprende estudia lo que espera que se evalúe | [Alineación constructiva](../Objetivos-de-aprendizaje/alineacion-constructiva.md) |
 | BEM | Matriz de Gilbert con seis causas del desempeño, tres del ambiente y tres de la persona | [Análisis de necesidades](../Analisis-previo/analisis-de-necesidades.md) |
@@ -44,8 +46,10 @@ Los términos de todo el área (aprendizaje, conductismo, constructivismo, tama�
 | Currículo oculto | Lo que se aprende sin estar declarado, por cómo está armado el curso | [Alineación constructiva](../Objetivos-de-aprendizaje/alineacion-constructiva.md) |
 | Diseño hacia atrás | Decidir resultados, después evidencia y al final actividades | [Diseño hacia atrás](../Modelos-de-diseno/diseno-hacia-atras.md) |
 | Efecto de inversión de la experticia | Lo que ayuda al novato pierde efecto o estorba al que sabe | [Análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md) |
+| Elaboración (de nivel 1, 2…) | En la teoría de la elaboración, cada capa de detalle que se agrega sobre el epítome o sobre la capa anterior | [Secuencia de contenidos](../Secuencia-y-curriculo/secuencia-de-contenidos.md) |
 | Epítome | Las pocas ideas más generales de un dominio, con las que arranca la elaboración | [Secuencia de contenidos](../Secuencia-y-curriculo/secuencia-de-contenidos.md) |
 | Espacio de conocimiento | Representación formal de los estados de conocimiento posibles y sus prerrequisitos (Doignon y Falmagne) | [Jerarquía de aprendizaje](../Secuencia-y-curriculo/jerarquia-de-aprendizaje.md) |
+| Evaluación sumativa | La que resume lo logrado al final, para aprobar, calificar o certificar | [Propósitos](../../Evaluacion-educativa/Propositos/propositos.md), de Evaluación educativa |
 | Eventos de instrucción | Los nueve pasos de una lección según Gagné | [Principios de instrucción](../Modelos-de-diseno/principios-de-instruccion.md) |
 | Grafo de competencias | Red de competencias unidas por flechas de prerrequisito | [Jerarquía de aprendizaje](../Secuencia-y-curriculo/jerarquia-de-aprendizaje.md) |
 | Información de apoyo | En 4C/ID, lo que ayuda con los aspectos no rutinarios de la tarea | [4C/ID](../Modelos-de-diseno/4c-id.md) |
@@ -60,5 +64,7 @@ Los términos de todo el área (aprendizaje, conductismo, constructivismo, tama�
 | Resultado de aprendizaje (ILO) | Lo que se espera que quien aprende logre, fijado antes de enseñar | [Objetivo de desempeño](../Objetivos-de-aprendizaje/objetivo-de-desempeno.md) |
 | Ritmo propio | Curso en el que cada uno avanza cuando puede | [Cohorte o ritmo propio](../Formatos/cohorte-o-ritmo-propio.md) |
 | SAM | Modelo iterativo de Allen, con prototipos tempranos | [ADDIE y SAM](../Modelos-de-diseno/addie-y-sam.md) |
+| Sincrónico y asincrónico | En vivo, todos a la vez, o cada uno cuando puede | [En línea, presencial y mixto](../Formatos/en-linea-presencial-y-mixto.md) |
 | Taxonomía de Bloom | Clasificación de objetivos por proceso cognitivo y tipo de conocimiento | [Taxonomía de Bloom](../Objetivos-de-aprendizaje/taxonomia-de-bloom.md) |
 | Teoría de la elaboración | Secuencia de lo general a lo detallado a partir de un epítome (Reigeluth) | [Secuencia de contenidos](../Secuencia-y-curriculo/secuencia-de-contenidos.md) |
+| Transferencia | Usar lo aprendido en una situación distinta de aquella en que se aprendió | [Transferencia](../../Ciencias-del-aprendizaje/Transferencia/transferencia.md), de Ciencias del aprendizaje |

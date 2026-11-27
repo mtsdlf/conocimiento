@@ -24,10 +24,13 @@ Los términos de un modelo de lenguaje (token, ventana de contexto, alucinación
 | Aprendizaje combinado (*blended learning*) | Curso con una parte en línea y otra presencial | [En línea y presencial](../Aprendizaje-en-linea/en-linea-y-presencial.md) |
 | Debate de los medios | La discusión entre Clark y Kozma sobre si el medio influye en el aprendizaje | [Debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md) |
 | Descarga cognitiva (*cognitive offloading*) | Pasarle a una herramienta un trabajo mental que de otro modo se haría en la cabeza | [La IA como atajo](../IA-en-la-educacion/ia-como-atajo.md) |
+| Desviación estándar (DE) | Unidad en que se expresan los tamaños de efecto; un efecto también se traduce en percentiles | [Evidencia en educación](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) |
 | *Engagement* | En los estudios de video y cursos, cuánto se mira o se participa; condición para aprender, no prueba de que se aprendió | [Video educativo](../Aprendizaje-en-linea/video-educativo.md) |
+| Ensayo por conglomerados | Ensayo aleatorizado que sortea grupos enteros (aulas, escuelas) en vez de personas | [Evidencia en educación](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) |
 | Finalización | Proporción de inscriptos que termina un curso | [Finalización de los MOOC](../Aprendizaje-en-linea/finalizacion-de-mooc.md) |
 | Guardas (*guardrails*) | Instrucciones o restricciones que impiden que un tutor de IA dé la respuesta | [La IA como tutor](../IA-en-la-educacion/ia-como-tutor.md) |
 | Ilusión de competencia | Creer que se entiende algo porque la herramienta lo resolvió | [Aprender a programar con IA](../IA-en-la-educacion/aprender-a-programar-con-ia.md) |
+| Khanmigo | El tutor con IA de Khan Academy, configurado para no dar respuestas | [Modos de estudio de la IA](../IA-en-la-educacion/modos-de-estudio-de-la-ia.md) |
 | LMS (sistema de gestión del aprendizaje) | Aula virtual con contenido, tareas, notas e integraciones | [Plataformas de aprendizaje](../Aprendizaje-en-linea/plataformas-de-aprendizaje.md) |
 | LTI | Estándar con el que una herramienta se integra a un LMS | [Plataformas de aprendizaje](../Aprendizaje-en-linea/plataformas-de-aprendizaje.md) |
 | MOOC | Curso en línea abierto y masivo (*massive open online course*) | [Finalización de los MOOC](../Aprendizaje-en-linea/finalizacion-de-mooc.md) |
@@ -36,6 +39,7 @@ Los términos de un modelo de lenguaje (token, ventana de contexto, alucinación
 | Modelo pedagógico | La pieza de un tutor que decide qué hacer: dejar seguir, dar una pista, elegir el próximo problema | [Arquitectura de un tutor inteligente](../Tutores-inteligentes/arquitectura-de-un-tutor-inteligente.md) |
 | Modo de estudio | Configuración de un asistente de IA para guiar en lugar de resolver | [Modos de estudio de la IA](../IA-en-la-educacion/modos-de-estudio-de-la-ia.md) |
 | Nativo digital | Quien creció con tecnología digital; la idea de que por eso sabe manejar información cayó | [Mitos de tecnología educativa](mitos-de-tecnologia-educativa.md) |
+| Pretest y postest | La misma prueba, o una equivalente, antes y después de la intervención | [Evidencia en educación](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) |
 | Repaso jerárquico | Repaso espaciado en el que practicar un tema avanzado cuenta como repaso parcial de los simples que ejercita | [Sistemas adaptativos](../Practica-adaptativa/sistemas-adaptativos.md) |
 | Retención deseada | La probabilidad de recordar que se elige para el momento del repaso en un programa de tarjetas | [Repaso espaciado con software](../Practica-adaptativa/repaso-espaciado-con-software.md) |
 | Sin diferencia significativa | La compilación de Russell (1999) de estudios en que el canal a distancia rindió igual que el presencial | [Debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md) |

@@ -32,7 +32,7 @@ Copiado de las páginas oficiales y del manual de Anki el 2026-11-27. Lo que dic
 | Qué es | Programa de tarjetas que programa cada repaso para cuando es más probable olvidar |
 | Plataformas | Escritorio gratis (Windows, macOS, Linux); AnkiDroid gratis en Android; AnkiMobile de pago en iOS; sincronización AnkiWeb gratis |
 | Algoritmo original | Derivado de SuperMemo 2 (SM-2), con cambios: pasos de aprendizaje configurables, cuatro botones, «eases never drop below 130%» |
-| Algoritmo FSRS | Basado en el modelo de tres componentes de la memoria (retrievability, stability, difficulty), que el proyecto atribuye a Wozniak; ajusta sus parámetros con el historial; disponible desde Anki 23.10 |
+| Algoritmo FSRS | Basado en el modelo de tres componentes de la memoria (retrievability, stability, difficulty: cuán probable es recordar la tarjeta hoy, cuánto dura en memoria y cuán difícil es), que el proyecto FSRS atribuye a Piotr Woźniak, creador de SuperMemo; ajusta sus parámetros con el historial; disponible desde Anki 23.10 |
 | Retención deseada por defecto | 90 %, «a good balance»; más del 97 % sobrecarga de repasos |
 | Datos que necesita el ajuste | «Several reviews»; con «less than a few hundred» repasos, causa común de mal rendimiento |
 | FSRS frente a SM-2, según el manual | FSRS «reportedly requires fewer reviews than SM-2»; pruebas preliminares lo ubican «roughly on par» con SM-17, el algoritmo propietario de SuperMemo |
