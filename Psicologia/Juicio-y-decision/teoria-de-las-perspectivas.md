@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La teoría de las perspectivas describe cómo la gente elige entre opciones con riesgo: valora ganancias y pérdidas contra un punto de referencia, no la riqueza final, y se aparta de forma sistemática de la utilidad esperada. Su patrón de elecciones replicó en 19 países; que las pérdidas pesen más que las ganancias como principio general está en disputa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kahneman y Tversky (1979), Prospect theory: An analysis of decision under risk, Econometrica; reedición en Cambridge University Press (1988) (abstract): https://doi.org/10.1017/cbo9780511609220.014"
@@ -15,7 +15,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [prospect theory, teoría prospectiva, aversión a las pérdidas, loss aversion, punto de referencia, reference point, efecto de reflexión, reflection effect, efecto encuadre, framing effect]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Teoría de las perspectivas

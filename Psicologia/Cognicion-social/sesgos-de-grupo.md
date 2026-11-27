@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los sesgos de grupo son las formas predecibles en que pertenecer a un grupo, o estar con otros, cambia el juicio y la conducta: favorecer a los propios, radicalizar la opinión común, decidir en bloque y ayudar menos cuando hay más testigos. Los fenómenos se sostienen mejor que los modelos que los explican.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tajfel, Billig, Bundy y Flament (1971), European Journal of Social Psychology 1(2), 149-178 (vía Pinter y Greenwald, secundaria)"
@@ -15,7 +15,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [group biases, favoritismo endogrupal, sesgo endogrupal, ingroup bias, ingroup favoritism, grupo mínimo, minimal group paradigm, pensamiento de grupo, groupthink, polarización grupal, group polarization, efecto espectador, bystander effect]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sesgos de grupo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El afrontamiento es lo que una persona hace, piensa o siente para manejar una situación que evaluó como amenazante o desbordante. Según la evidencia, ninguna estrategia sirve para todo: lo que funciona depende de si la situación se puede controlar, y la rumiación y la evitación son las que peor registro tienen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Lazarus y Folkman (1984), Stress, Appraisal, and Coping (libro no leído; solo a través de OpenStax)"
@@ -12,7 +12,7 @@ fuentes:
   - "Psicologia/.investigacion/estres-y-resiliencia.md"
 aliases: [coping, estrategias de afrontamiento, modelo transaccional del estrés, evaluación cognitiva, appraisal, rumiación, rumination]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Afrontamiento

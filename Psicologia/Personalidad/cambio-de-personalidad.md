@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La personalidad adulta es bastante estable y cambia poco, pero cambia: el orden entre personas se vuelve más fijo con la edad y, en promedio, la gente gana responsabilidad y estabilidad emocional entre los 20 y los 40. Cambiar un rasgo a propósito mostró efecto en estudios controlados, de muy modesto a d = 0,52, y más visible para uno mismo que para los demás.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Roberts y DelVecchio (2000), estabilidad de rango, Psychological Bulletin 126, 3-25 (según un resumen): https://stafforini.com/works/roberts-2000-rankorder-consistency-personality/"
@@ -13,7 +13,7 @@ fuentes:
   - "Psicologia/.investigacion/personalidad-y-cognicion-social.md"
 aliases: [personality change, cambio de rasgos, maduración de la personalidad, estabilidad de la personalidad, cambio voluntario de personalidad, principio de maduración]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cambio de personalidad

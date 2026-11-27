@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La atribución es cómo una persona explica una conducta: por cómo es quien actúa o por la situación en que actúa. El error fundamental de atribución, sobrevalorar lo primero al juzgar a otros, se sostiene en laboratorio bajo ciertas condiciones; la asimetría actor-observador, su pariente famosa, casi no existe en promedio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gilbert y Malone (1995), The Correspondence Bias, Psychological Bulletin 117(1), 21-38 (según un resumen): https://scholar.harvard.edu/files/danielgilbert/files/gilbert__malone_correspondence_bias.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [attribution, teoría de la atribución, error fundamental de atribución, fundamental attribution error, sesgo de correspondencia, correspondence bias, asimetría actor-observador, actor-observer asymmetry]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Atribución

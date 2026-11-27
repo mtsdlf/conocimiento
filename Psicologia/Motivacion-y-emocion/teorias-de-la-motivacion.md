@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las teorías de la motivación explican por qué una persona elige una conducta, con cuánta energía y por cuánto tiempo. Se agrupan en teorías de necesidades, de expectativa-valor y de metas, y ninguna explica todo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tay y Diener (2011), Needs and subjective well-being around the world, JPSP 101(2): https://pubmed.ncbi.nlm.nih.gov/21688922/ (abstract) — DOI correcto 10.1037/a0023779"
@@ -12,7 +12,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [motivation theories, teorías motivacionales, pirámide de Maslow, jerarquía de necesidades, Maslow's hierarchy of needs, expectativa-valor, expectancy-value]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Teorías de la motivación

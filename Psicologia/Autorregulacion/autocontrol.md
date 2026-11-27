@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El autocontrol es la capacidad de ajustar la propia conducta a una meta de largo plazo cuando choca con un impulso inmediato. Medido en la infancia, se asocia con la salud, las finanzas y los delitos en la adultez, y quienes más lo tienen lo ejercen evitando la tentación más que resistiéndola.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Moffitt et al. (2011), A gradient of childhood self-control predicts health, wealth, and public safety, PNAS, DOI 10.1073/pnas.1010076108: https://pubmed.ncbi.nlm.nih.gov/21262822/ (abstract)"
@@ -15,7 +15,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [self-control, autocontrol, fuerza de voluntad, test del malvavisco, marshmallow test, demora de la gratificación, grit]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autocontrol

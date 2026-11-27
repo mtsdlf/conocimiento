@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La autorregulación es cómo una persona dirige su propia conducta hacia una meta contra el impulso del momento. Reúne el autocontrol, los planes que atan una acción a una situación, la atención, la procrastinación y el caso de la fuerza de voluntad como recurso que se agota, que no replicó.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Webb y Sheeran (2006), Does changing behavioral intentions engender behavior change?, Psychological Bulletin 132(2): https://doi.org/10.1037/0033-2909.132.2.249 (abstract)"
@@ -18,7 +18,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [self-regulation, autorregulación, fuerza de voluntad, willpower, control de sí mismo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autorregulación

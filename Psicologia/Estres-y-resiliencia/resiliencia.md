@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La resiliencia es mantener un funcionamiento estable, con alteraciones menores y pasajeras, después de una pérdida o un evento potencialmente traumático. Se estudia por dos vías que no conviene mezclar: como trayectoria que sigue la persona después del evento y como resultado de programas de entrenamiento.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bonanno (2004), «Loss, trauma, and human resilience», American Psychologist 59(1):20-28 (abstract): https://doi.org/10.1037/0003-066x.59.1.20"
@@ -16,7 +16,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [resilience, resiliencia psicológica, trayectorias de resiliencia, entrenamiento en resiliencia, resilience training, crecimiento postraumático, post-traumatic growth]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Resiliencia

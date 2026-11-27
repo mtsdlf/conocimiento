@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El bienestar subjetivo es cómo evalúa una persona su propia vida y cuánta emoción positiva y negativa vive en el día a día. Se estudia desde el placer (hedónico) y desde el sentido (eudaimónico), y lo predicen, entre otras cosas, las necesidades cubiertas y el ingreso.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ryan y Deci (2001), On happiness and human potentials, Annual Review of Psychology 52: https://pubmed.ncbi.nlm.nih.gov/11148302/ (abstract)"
@@ -19,7 +19,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [subjective well-being, SWB, felicidad, happiness, bienestar hedónico, bienestar eudaimónico, eudaimonia, satisfacción con la vida, cinta hedónica, hedonic treadmill, dinero y felicidad]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bienestar subjetivo

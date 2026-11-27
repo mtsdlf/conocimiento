@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Procrastinar es demorar por voluntad propia algo que se tenía intención de hacer, aun esperando estar peor por la demora. Entre los predictores fuertes están lo desagradable de la tarea, la demora, la autoeficacia, la impulsividad y la responsabilidad, y se entiende como una forma de aliviar el ánimo del momento a costa de la meta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Steel (2007), The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure, Psychological Bulletin 133(1):65-94: https://prism.ucalgary.ca/handle/1880/47914 (resumen del buscador; el postprint no se abrió)"
@@ -11,7 +11,7 @@ fuentes:
   - "Psicologia/.investigacion/aprendizaje-y-autorregulacion.md"
 aliases: [procrastination, procrastinar, postergar, dejar para mañana, teoría de la motivación temporal, temporal motivation theory]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Procrastinación

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La experticia es el rendimiento superior y estable en un dominio. La práctica deliberada de Ericsson la explica en parte, pero bastante menos de lo que se dijo, y cuánto depende del dominio: mucho en juegos y música, casi nada en profesiones.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ericsson, Krampe y Tesch-Römer (1993), The role of deliberate practice in the acquisition of expert performance, Psychological Review 100:363-406: https://lirias.kuleuven.be/316700 (resumen del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [expertise, expert performance, práctica deliberada, deliberate practice, regla de las 10.000 horas, pericia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Experticia

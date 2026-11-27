@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La influencia social es el cambio en lo que alguien hace o juzga por la presencia o la presión de otros. El campo la estudia en tres formas, la conformidad con un grupo, la obediencia a una autoridad y el ajuste a las normas, y las tres quedaron en estados de evidencia distintos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bond y Smith (1996), Culture and Conformity, Psychological Bulletin 119(1), 111-137 (según un resumen): https://d-r-b-o-b.github.io/teaching/web_PSY333/Week_12/Ashe_meta.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [social influence, conformidad, conformity, obediencia, obedience, normas sociales, social norms, norma descriptiva, norma injuntiva, Asch, Milgram, experimento de la prisión de Stanford, Stanford Prison Experiment]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Influencia social

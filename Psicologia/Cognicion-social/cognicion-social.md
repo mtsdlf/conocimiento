@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La cognición social es cómo una persona piensa sobre los demás y cómo los demás cambian lo que piensa y hace. Reúne cómo se explica la conducta ajena, cuánto se cede a un grupo o a una autoridad y cómo cambia el juicio dentro de un grupo, con varios de los clásicos más famosos de la psicología entre los que cayeron o se achicaron.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Malle (2006), Psychological Bulletin 132(6), 895-919 (abstract): https://doi.org/10.1037/0033-2909.132.6.895"
@@ -16,7 +16,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [social cognition, psicología social, social psychology, percepción social]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cognición social

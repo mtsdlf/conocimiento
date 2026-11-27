@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una intención de implementación es un plan que ata una acción a una situación concreta, con la forma «si pasa X, hago Y». En el metaanálisis de sus proponentes mejora el logro de metas con un efecto mediano a grande, que todavía no pasó por una réplica multisitio.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Gollwitzer y Sheeran (2006), Implementation intentions and goal achievement: A meta-analysis of effects and processes, Advances in Experimental Social Psychology 38:69-119, DOI 10.1016/S0065-2601(06)38002-1: https://www.socmot.uni-konstanz.de/publications/implementation-intentions-and-goal-achievement-meta-analysis-effects-and-processes (resumen del buscador)"
@@ -11,7 +11,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [implementation intentions, planes si-entonces, if-then plans, planificación si-entonces]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Intenciones de implementación

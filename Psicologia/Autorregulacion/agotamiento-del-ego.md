@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El agotamiento del ego es la hipótesis de que la fuerza de voluntad funciona como un recurso limitado que se gasta con cada acto de autocontrol. Cayó en dos réplicas multisitio preregistradas, con efectos cercanos a cero.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Baumeister, Bratslavsky, Muraven y Tice (1998), Ego depletion: Is the active self a limited resource?, JPSP 74(5):1252-65: https://pubmed.ncbi.nlm.nih.gov/9599441/ (resumen del buscador)"
@@ -16,7 +16,7 @@ fuentes:
   - "Psicologia/.investigacion/fundamentos.md"
 aliases: [ego depletion, agotamiento del yo, modelo de fuerza del autocontrol, strength model, fatiga de la voluntad, modelo de la glucosa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Agotamiento del ego

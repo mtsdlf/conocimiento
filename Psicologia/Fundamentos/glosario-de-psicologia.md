@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos que usan las notas de Psicología, cada uno con una definición corta y la nota que lo desarrolla, más las marcas con que se dice cuánto se leyó de cada fuente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -13,7 +13,7 @@ fuentes:
   - "Henrich, Heine y Norenzayan (2010), BBS (abstract): https://doi.org/10.1017/S0140525X0999152X"
 aliases: [glosario, términos de psicología, vocabulario de psicología, glossary of psychology, marcas de lectura]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de Psicología

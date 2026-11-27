@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La respuesta de estrés es lo que hace el cuerpo ante una demanda: una reacción rápida del sistema simpático y otra lenta del eje del cortisol. Sirve en un episodio corto y desgasta varios sistemas cuando se sostiene, que es lo que describe el modelo de carga alostática.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Psychology 2e (2020), cap. 14.1 «What Is Stress?» (leído por resumen): https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress"
@@ -17,7 +17,7 @@ fuentes:
   - "Psicologia/.investigacion/estres-y-resiliencia.md"
 aliases: [stress response, respuesta al estrés, estrés agudo, estrés crónico, carga alostática, allostatic load, alostasis, eje HPA, ley de Yerkes-Dodson, stress mindset]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Respuesta de estrés

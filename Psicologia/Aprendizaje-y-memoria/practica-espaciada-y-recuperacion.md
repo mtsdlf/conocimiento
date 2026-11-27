@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La práctica de recuperación (testearse sacando de memoria lo aprendido) y la práctica espaciada (repartir el estudio en el tiempo) son las dos técnicas de estudio con más evidencia. Releer y subrayar rinden poco.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dunlosky, Rawson, Marsh, Nathan y Willingham (2013), Improving Students' Learning With Effective Learning Techniques, PSPI 14(1): https://pubmed.ncbi.nlm.nih.gov/26173288/ (abstract)"
@@ -13,7 +13,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [retrieval practice, spaced practice, distributed practice, testing effect, efecto de testeo, práctica distribuida, técnicas de estudio, estilos de aprendizaje]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Práctica espaciada y recuperación

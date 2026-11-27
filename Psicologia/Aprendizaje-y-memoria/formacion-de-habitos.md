@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un hábito es una conducta que el contexto dispara sola, sin pasar por una decisión, porque se repitió muchas veces en esa misma situación. Formarlo lleva meses y no semanas, y cuánto depende de la conducta y de la persona.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wood y Neal (2007), A new look at habits and the interface between habits and goals, Psychological Review 114(4):843-863: https://pubmed.ncbi.nlm.nih.gov/17907866/ (resumen del buscador)"
@@ -14,7 +14,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [habit formation, hábito, hábitos, automaticidad, automatismo, regla de los 21 días]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Formación de hábitos

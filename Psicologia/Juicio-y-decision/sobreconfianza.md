@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La sobreconfianza es creer que el propio juicio es más acertado de lo que es. Tiene tres formas que no se comportan igual (sobreestimar el desempeño, ubicarse por encima de los demás y confiar de más en la precisión de lo que se cree), y la más persistente es la última; la falacia de planificación es su caso con los plazos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Moore y Healy (2008), The trouble with overconfidence, Psychological Review (abstract): https://doi.org/10.1037/0033-295x.115.2.502"
@@ -16,7 +16,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [overconfidence, exceso de confianza, calibración, calibration, sobreprecisión, overprecision, falacia de planificación, planning fallacy, efecto Dunning-Kruger, Dunning-Kruger effect, pronóstico de clase de referencia, reference class forecasting]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sobreconfianza

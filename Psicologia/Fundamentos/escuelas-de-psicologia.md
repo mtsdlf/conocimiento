@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las escuelas de psicología son las grandes formas en que el campo definió su objeto y su método: de la conciencia por introspección al inconsciente, de la conducta observable a la mente como procesador de información. Hoy ninguna manda sola; de cada una sobrevive un mecanismo o una pregunta, y otras partes cayeron.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Psychology 2e (2020), cap. 1.2 History of Psychology (leído por un resumidor web, no texto completo): https://openstax.org/books/psychology-2e/pages/1-2-history-of-psychology"
@@ -14,7 +14,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [schools of psychology, escuelas psicológicas, corrientes de la psicología, historia de la psicología, conductismo, psicoanálisis, humanismo, cognitivismo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuelas de psicología

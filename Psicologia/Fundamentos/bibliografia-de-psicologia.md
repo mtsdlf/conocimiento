@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de psicología ordenadas por necesidad (leer cualquier hallazgo, entender qué mueve a alguien, aprender, decidir, sostener una meta, medir a una persona, aguantar la presión, trabajar con grupos): la obra, qué parte leer, en qué fijarse y cuánto se leyó para armar la base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Psicologia/.investigacion/fundamentos.md, secciones 1 a 5 (recursos canónicos)"
@@ -18,7 +18,7 @@ fuentes:
   - "Stephan (2018), Academy of Management Perspectives (manuscrito aceptado): https://publications.aston.ac.uk/id/eprint/31987/1/amp.2017.0001.full.pdf"
 aliases: [lecturas de psicología, bibliografía, libros de psicología, reading list psychology, por dónde empezar en psicología]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de Psicología

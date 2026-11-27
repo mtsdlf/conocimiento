@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La teoría de la autodeterminación sostiene que la motivación sana depende de tres necesidades psicológicas, autonomía, competencia y relación, y distingue la motivación intrínseca de la que viene de premios y presiones. Es la fuente de la idea de que un premio puede bajar las ganas de hacer algo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ryan y Deci (2000), Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being, American Psychologist 55(1): https://pubmed.ncbi.nlm.nih.gov/11392867/ (abstract)"
@@ -13,7 +13,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [self-determination theory, SDT, teoría de la autodeterminación, motivación intrínseca, intrinsic motivation, efecto de socavamiento, undermining effect, crowding out]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autodeterminación

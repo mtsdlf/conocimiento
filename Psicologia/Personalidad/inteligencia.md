@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La inteligencia, como la estudia la psicología, es la capacidad cognitiva general que miden los tests de inteligencia y de capacidad mental. Predice el desempeño en el trabajo, aunque menos de lo que indicaban las estimaciones clásicas, y sus puntajes promedio subieron a lo largo del siglo XX.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Schmidt y Hunter (1998), Psychological Bulletin 124(2), 262-274 (según un resumen): https://stafforini.com/works/schmidt-1998-validity-and-utility/"
@@ -15,7 +15,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [intelligence, capacidad mental general, general mental ability, GMA, factor g, CI, cociente intelectual, IQ, capacidad cognitiva, efecto Flynn, inteligencia emocional]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inteligencia

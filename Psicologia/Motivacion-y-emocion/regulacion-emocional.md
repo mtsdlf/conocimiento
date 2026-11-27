@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La regulación emocional es el conjunto de procesos con que una persona influye en qué emociones tiene, cuándo las tiene y cómo las vive y las expresa. Reinterpretar la situación funciona de poco a moderadamente; suprimir funciona o no según qué se suprime.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Webb, Miles y Sheeran (2012), metaanálisis de estrategias de regulación emocional, Psychological Bulletin 138(4): https://pubmed.ncbi.nlm.nih.gov/22582737/ (abstract), DOI 10.1037/a0027600"
@@ -14,7 +14,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [emotion regulation, regulación de las emociones, modelo de proceso de Gross, process model, reevaluación cognitiva, cognitive reappraisal, supresión expresiva, expressive suppression]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Regulación emocional

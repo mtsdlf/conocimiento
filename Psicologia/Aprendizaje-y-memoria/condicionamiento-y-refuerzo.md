@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El condicionamiento es una forma de aprendizaje por experiencia: en el clásico se aprende que dos eventos ocurren juntos, y en el operante una conducta se vuelve más o menos frecuente según las consecuencias que le siguen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Psychology 2e (2020), 6.3 Operant Conditioning: https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning (resumen del buscador)"
@@ -10,7 +10,7 @@ fuentes:
   - "Psicologia/.investigacion/aprendizaje-y-autorregulacion.md"
 aliases: [conditioning, reinforcement, condicionamiento clásico, condicionamiento operante, condicionamiento pavloviano, refuerzo, castigo, programas de refuerzo, ley del efecto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Condicionamiento y refuerzo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una heurística es un atajo para juzgar con poca información, y un sesgo es el error sistemático que ese atajo produce en ciertas condiciones. De la lista clásica, el anclaje (según un metaanálisis en preprint) y el encuadre (en Many Labs 1 y 2) se sostuvieron; la disponibilidad, la representatividad y la confirmación no tienen réplicas multisitio encontradas, y la idea misma de «error» está en disputa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tversky y Kahneman (1974), Judgment under uncertainty: Heuristics and biases, Science 185 (no se leyó; existencia verificada): https://doi.org/10.1126/science.185.4157.1124"
@@ -17,7 +17,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [heuristics and biases, heurística, heurísticas, sesgo cognitivo, sesgos cognitivos, cognitive bias, anclaje, anchoring, disponibilidad, availability, representatividad, representativeness, sesgo de confirmación, confirmation bias, encuadre, framing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Heurísticas y sesgos

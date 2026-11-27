@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La crisis de replicación es el descubrimiento de que una parte grande de los hallazgos publicados en psicología no se reproduce cuando otros equipos repiten el estudio, y de que los que se reproducen suelen tener efectos más chicos que los originales. Cambió cómo se publica y obliga a leer cada hallazgo con su estado de réplica.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Open Science Collaboration (2015), Estimating the reproducibility of psychological science, Science 349 (abstract): https://doi.org/10.1126/science.aac4716"
@@ -36,7 +36,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md, secciones 0, 1 y 9"
 aliases: [replication crisis, crisis de reproducibilidad, reproducibility crisis, crisis de réplica, ciencia abierta]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Crisis de replicación

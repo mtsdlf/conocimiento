@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Juicio y decisión estudia cómo la gente estima, elige y pronostica con información incompleta, y dónde se equivoca de forma predecible. Después de las réplicas, algunos efectos quedaron en pie (el anclaje, el encuadre, el patrón de la teoría de las perspectivas) y algunas de sus ideas más famosas quedaron en disputa (los dos sistemas, la aversión a las pérdidas, el Dunning-Kruger).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tversky y Kahneman (1974), Judgment under uncertainty: Heuristics and biases, Science 185 (no se leyó; existencia verificada): https://doi.org/10.1126/science.185.4157.1124"
@@ -17,7 +17,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [judgment and decision making, JDM, toma de decisiones, decision making, psicología de la decisión, racionalidad limitada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Juicio y decisión

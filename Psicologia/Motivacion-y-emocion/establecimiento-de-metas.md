@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El establecimiento de metas es la teoría de Locke y Latham según la cual una meta difícil y específica produce más rendimiento que una vaga. El efecto se sostuvo en décadas de investigación; sus costos están en disputa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Locke y Latham (2002), Building a practically useful theory of goal setting and task motivation: A 35-year odyssey, American Psychologist 57(9): https://pubmed.ncbi.nlm.nih.gov/12237980/ (abstract)"
@@ -14,7 +14,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [goal setting, goal-setting theory, teoría del establecimiento de metas, metas difíciles y específicas, Locke y Latham, goals gone wild]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Establecimiento de metas

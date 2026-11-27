@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los dos sistemas (o procesos duales) son un marco que divide el pensamiento en uno rápido y automático y otro lento y deliberado. Es una forma cómoda de hablar del juicio, no un mecanismo establecido: sus defensores lo redefinieron y sus críticos dicen que no tiene soporte empírico.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Evans y Stanovich (2013), Dual-Process Theories of Higher Cognition: Advancing the Debate, Perspectives on Psychological Science (abstract): https://doi.org/10.1177/1745691612460685"
@@ -13,7 +13,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [dual-process theory, dual process, procesos duales, sistema 1 y sistema 2, System 1 and System 2, Tipo 1 y Tipo 2, pensar rápido y lento, thinking fast and slow]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dos sistemas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El burnout es una respuesta prolongada al estrés crónico del trabajo, definida por tres dimensiones: agotamiento, distancia cínica del trabajo y sensación de ineficacia. La OMS lo clasifica como fenómeno ocupacional y no como enfermedad, y su diferencia con la depresión sigue en disputa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Maslach, Schaufeli y Leiter (2001), «Job burnout», Annual Review of Psychology 52:397-422 (abstract): https://doi.org/10.1146/annurev.psych.52.1.397"
@@ -23,7 +23,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [burnout, burn-out, síndrome de desgaste profesional, síndrome de estar quemado, agotamiento laboral, job burnout, MBI, Maslach Burnout Inventory, modelo demandas-recursos, JD-R]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Burnout

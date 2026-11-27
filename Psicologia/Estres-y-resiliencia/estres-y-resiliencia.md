@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Estrés y resiliencia estudia qué le pasa a una persona bajo presión: cómo responde el cuerpo, cómo evalúa y enfrenta lo que le pasa, cómo se recupera después de la adversidad y qué es el burnout cuando la presión viene del trabajo y no cede.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Psychology 2e (2020), cap. 14.1 «What Is Stress?»: https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress"
@@ -15,7 +15,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [stress and resilience, psicología del estrés, psicología de la salud, estrés]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estrés y resiliencia

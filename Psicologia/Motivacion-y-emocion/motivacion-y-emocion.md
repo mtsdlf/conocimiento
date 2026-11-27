@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Motivación y emoción es la parte de la psicología que explica por qué una persona hace lo que hace y qué siente al hacerlo. Reúne las teorías de qué mueve la conducta, qué son las emociones, cómo se regulan y qué predice el bienestar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tay y Diener (2011), Needs and subjective well-being around the world, JPSP 101(2): https://pubmed.ncbi.nlm.nih.gov/21688922/ (abstract)"
@@ -15,7 +15,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [motivation and emotion, motivación, emoción, afecto, psicología de la motivación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Motivación y emoción

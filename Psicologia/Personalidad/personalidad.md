@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La personalidad son las diferencias estables entre personas en cómo piensan, sienten y actúan. Esta parte del tema reúne cómo se describen esas diferencias, cuánto predicen, cuánto cambian en la adultez y con qué tests se miden bien o mal.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Soto (2019), Life Outcomes of Personality Replication Project, Psychological Science 30, 711-727 (abstract): https://www.psychologicalscience.org/journals/psychological-science/0956797619831612/"
@@ -15,7 +15,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [personality, psicología de la personalidad, diferencias individuales, psicología diferencial, rasgos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Personalidad

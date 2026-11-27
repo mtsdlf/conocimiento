@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una emoción es una respuesta que coordina cambios en la experiencia, la conducta y la fisiología. Que esas respuestas existan está bien sostenido; si las emociones son tipos naturales universales o construcciones del cerebro está en disputa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lench, Flores y Bench (2011), metaanálisis de elicitaciones de emociones discretas, Psychological Bulletin: https://pubmed.ncbi.nlm.nih.gov/21766999/ (abstract)"
@@ -16,7 +16,7 @@ fuentes:
   - "Psicologia/.investigacion/fundamentos.md"
 aliases: [emotion, emociones, emociones básicas, basic emotions, emoción construida, constructed emotion, expresión facial, retroalimentación facial, facial feedback]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Emoción

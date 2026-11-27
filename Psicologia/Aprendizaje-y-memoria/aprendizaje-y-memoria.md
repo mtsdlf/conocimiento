@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprendizaje y memoria es la parte de la psicología que explica cómo cambia la conducta con la experiencia y qué queda guardado de ella. Reúne el condicionamiento, la memoria, las técnicas de estudio con más evidencia, los hábitos y la experticia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Psychology 2e (2020), cap. 6 Learning: https://openstax.org/books/psychology-2e/pages/6-3-operant-conditioning (resumen del buscador)"
@@ -14,7 +14,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [learning and memory, aprendizaje, memoria, psicología del aprendizaje]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje y memoria

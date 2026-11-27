@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Leer un estudio de psicología es decidir cuánto creerle a un hallazgo mirando cinco cosas: si el diseño permite hablar de causa, qué tan grande es el efecto, qué tan grande y de dónde es la muestra, si el análisis se fijó antes de ver los datos y si otros lo repitieron. El p-valor solo no alcanza.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wasserstein y Lazar (2016), ASA Statement on p-Values (texto completo): https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf (DOI https://doi.org/10.1080/00031305.2016.1154108)"
@@ -26,7 +26,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md, sección 1"
 aliases: [cómo leer un paper, how to read a study, lectura crítica de estudios, tamaño de efecto, p-valor, metaanálisis, preregistro, WEIRD]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cómo leer un estudio

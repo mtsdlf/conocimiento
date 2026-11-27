@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los Cinco Grandes son el modelo que describe la personalidad con cinco rasgos amplios: apertura a la experiencia, responsabilidad, extraversión, amabilidad y neuroticismo. Sus asociaciones con resultados de vida resistieron una réplica preregistrada grande, con efectos algo más chicos que los originales y modestos rasgo por rasgo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Roberts, Kuncel, Shiner, Caspi y Goldberg (2007), The Power of Personality, Perspectives on Psychological Science 2(4), 313-345 (según un resumen): https://pmc.ncbi.nlm.nih.gov/articles/PMC4499872"
@@ -16,7 +16,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [Big Five, modelo de cinco factores, five-factor model, FFM, OCEAN, rasgos de personalidad, responsabilidad, conscientiousness]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cinco Grandes

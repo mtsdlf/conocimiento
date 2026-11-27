@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un test de personalidad es un cuestionario que ubica a una persona en rasgos o en tipos. Vale si da lo mismo al repetirlo y si mide lo que dice medir; el MBTI no muestra los tipos que promete, el eneagrama tiene evidencia mixta, y para contratar el rasgo mejor ubicado, la responsabilidad, tiene una validez modesta (ρ = 0,19).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "McCrae y Costa (1989), reinterpretación del MBTI, Journal of Personality 57(1), 17-40 (abstract): https://pubmed.ncbi.nlm.nih.gov/2709300/"
@@ -15,7 +15,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [personality tests, test psicométrico, MBTI, Myers-Briggs, eneagrama, enneagram, DISC, Rorschach, técnicas proyectivas, confiabilidad, validez]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tests de personalidad

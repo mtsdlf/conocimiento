@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La memoria es la capacidad de retener y recuperar información. Tiene un tramo de corto alcance que sostiene pocas unidades a la vez y un depósito de largo plazo cuyo olvido sigue una curva que se replicó.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Cowan (2001), The magical number 4 in short-term memory: a reconsideration of mental storage capacity, Behavioral and Brain Sciences 24(1), DOI 10.1017/s0140525x01003922: https://pubmed.ncbi.nlm.nih.gov/11515286/ (abstract)"
@@ -9,7 +9,7 @@ fuentes:
   - "Psicologia/.investigacion/aprendizaje-y-autorregulacion.md"
 aliases: [memory, memoria de trabajo, working memory, memoria de corto plazo, memoria de largo plazo, curva del olvido, forgetting curve, chunk, chunking]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Memoria

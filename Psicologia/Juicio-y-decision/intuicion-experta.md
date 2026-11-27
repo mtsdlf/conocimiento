@@ -1,14 +1,14 @@
 ---
 resumen: >-
   La intuición experta es el juicio rápido de alguien con experiencia que acierta sin poder explicar del todo por qué. Según Kahneman y Klein (2009), es confiable solo si el entorno es lo bastante regular como para predecirse y si la persona tuvo oportunidad de aprender esas regularidades; la sensación de seguridad no sirve para saberlo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kahneman y Klein (2009), Conditions for intuitive expertise: a failure to disagree, American Psychologist (abstract): https://doi.org/10.1037/a0016755"
   - "Psicologia/.investigacion/juicio-y-decision.md"
 aliases: [intuitive expertise, intuición profesional, juicio intuitivo, expert intuition, validez del entorno, environment validity, toma de decisiones naturalista, naturalistic decision making]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Intuición experta

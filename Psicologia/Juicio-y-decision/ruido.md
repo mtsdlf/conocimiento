@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El ruido es la variabilidad no deseada entre juicios que deberían coincidir: dos profesionales que evalúan el mismo caso y llegan a resultados distintos. Es un error distinto del sesgo, que empuja todos los juicios hacia un mismo lado; la idea tiene apoyo en estadística básica, pero las cifras famosas vienen de auditorías de empresa sin réplica publicada.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kahneman, Sibony y Sunstein (2021), Noise: A Flaw in Human Judgment, libro; solo vía reseña en Numeracy: https://doi.org/10.5038/1936-4660.15.2.1422"
@@ -10,7 +10,7 @@ fuentes:
   - "Psicologia/.investigacion/juicio-y-decision.md"
 aliases: [noise, ruido en el juicio, variabilidad del juicio, auditoría de ruido, noise audit, higiene de decisiones, decision hygiene]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ruido

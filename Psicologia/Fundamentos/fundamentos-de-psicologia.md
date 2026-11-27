@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Psicología sin ser una de sus partes: de dónde salen sus ideas, cuánto creerle a un hallazgo después de la crisis de replicación, cómo se lee un estudio, qué leer según la necesidad y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Psychology 2e (2020), cap. 1: https://openstax.org/books/psychology-2e/pages/1-introduction"
@@ -11,7 +11,7 @@ fuentes:
   - "Psicologia/.investigacion/posicion-contraria.md"
 aliases: [fundamentos de psicología, fundamentos, psicología transversal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de Psicología

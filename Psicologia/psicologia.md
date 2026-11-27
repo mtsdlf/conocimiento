@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La psicología es el estudio científico de la mente y la conducta. En esta base es el lugar donde se explica por qué la gente hace lo que hace (qué la mueve, cómo aprende, cómo decide, en qué difiere, cómo aguanta la presión y cómo la influyen los demás) y cuánta evidencia tiene cada explicación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APA Dictionary of Psychology, entrada «psychology»: https://dictionary.apa.org/psychology"
@@ -12,7 +12,7 @@ fuentes:
   - "Psicologia/.investigacion/"
 aliases: [psicología, psychology, ciencia del comportamiento, psicología científica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Psicología

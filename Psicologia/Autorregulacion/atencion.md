@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La atención es la capacidad de concentrar el procesamiento en una parte de lo que llega y dejar el resto afuera. En autorregulación importa por la distracción y la multitarea; dos hallazgos muy citados sobre pantallas, el del celular sobre la mesa y el de los multitarea pesados, no se sostuvieron o están en disputa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ward, Duke, Gneezy y Bos (2017), Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity, Journal of the Association for Consumer Research 2(2):140-154, DOI 10.1086/691462: https://journals.uchicago.edu/doi/10.1086/691462 (resumen del buscador)"
@@ -11,7 +11,7 @@ fuentes:
   - "Psicologia/.investigacion/aprendizaje-y-autorregulacion.md"
 aliases: [attention, atención selectiva, selective attention, multitarea, multitasking, distracción, brain drain, media multitasking]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Atención
