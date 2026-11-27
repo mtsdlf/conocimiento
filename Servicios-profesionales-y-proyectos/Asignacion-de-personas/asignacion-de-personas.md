@@ -50,6 +50,6 @@ Como criterio de esta base, falla también por dos vicios de la reserva tentativ
 
 ## Qué hay en la asignación de personas
 
-- [Roles y habilidades](roles-y-habilidades.md) — el rol genérico con que se pide y se precia, la persona con nombre que lo cubre y la escala de habilidades con que se las empareja.
-- [Reserva de personas](reserva-de-personas.md) — el pedido de un rol, la propuesta, la reserva tentativa y la firme, la cancelación y los conflictos entre proyectos.
-- [Demanda y capacidad](demanda-y-capacidad.md) — el pronóstico de cuánta gente hace falta desde los proyectos vendidos y el embudo, el banco de personas libres y cuándo subcontratar.
+- [Roles y habilidades](roles-y-habilidades.md): el rol genérico con que se pide y se precia, la persona con nombre que lo cubre y la escala de habilidades con que se las empareja.
+- [Reserva de personas](reserva-de-personas.md): el pedido de un rol, la propuesta, la reserva tentativa y la firme, la cancelación y los conflictos entre proyectos.
+- [Demanda y capacidad](demanda-y-capacidad.md): el pronóstico de cuánta gente hace falta desde los proyectos vendidos y el embudo, el banco de personas libres y cuándo subcontratar.

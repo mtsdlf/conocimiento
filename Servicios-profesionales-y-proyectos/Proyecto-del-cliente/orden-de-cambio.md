@@ -17,7 +17,7 @@ revisado:
 
 Una orden de cambio es el registro de un cambio en el alcance o en el precio de un proyecto (o en los dos) que el cliente y la firma aprobaron; dice qué se agrega o se quita, cuánto vale y cómo mueve el presupuesto del proyecto, los hitos y lo que se factura.
 
-Cómo se decide un cambio (quién lo aprueba, si se cotiza, se intercambia por algo del mismo tamaño o se recorta) es método, y está en dos notas vecinas: [control de cambios](../../Gestion-de-proyectos/Seguimiento/control-de-cambios.md), para cualquier proyecto, y [cambios de alcance](../../Desarrollo/Encargo/cambios-de-alcance.md#tres-reglas-para-un-pedido-nuevo), para un encargo de software. Esta nota trata lo que queda escrito una vez decidido: el documento con precio y su efecto en el [proyecto del cliente](proyecto-del-cliente.md).
+Cómo se decide un cambio (quién lo aprueba, si se cotiza, se intercambia por algo del mismo tamaño o se recorta) es método, y está en dos notas vecinas: [control de cambios](../../Gestion-de-proyectos/Seguimiento/control-de-cambios.md), para cualquier proyecto, y [cambios de alcance](../../Desarrollo/Encargo/cambios-de-alcance.md#tres-reglas-para-un-pedido-nuevo), para un encargo de software. Acá importa lo que queda escrito una vez decidido: el documento con precio y su efecto en el [proyecto del cliente](proyecto-del-cliente.md).
 
 ## Alcance, precio y aprobación
 

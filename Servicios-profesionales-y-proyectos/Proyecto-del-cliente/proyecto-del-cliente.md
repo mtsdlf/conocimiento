@@ -72,6 +72,6 @@ La aceptación del cliente que habilita ese cierre está en [proyecto a precio c
 
 ## Qué hay adentro del proyecto del cliente
 
-- [Presupuesto del proyecto](presupuesto-del-proyecto.md) — la foto aprobada de horas, costo y precio por fase, tarea o rol, y el pronóstico que se mueve contra ella.
-- [Hitos y entregables](hitos-y-entregables.md) — el hito como evento observable de aceptación y, a menudo, de facturación.
-- [Orden de cambio](orden-de-cambio.md) — el cambio de alcance o de precio aprobado por las dos partes, con su efecto en el presupuesto y en lo que se factura.
+- [Presupuesto del proyecto](presupuesto-del-proyecto.md): la foto aprobada de horas, costo y precio por fase, tarea o rol, y el pronóstico que se mueve contra ella.
+- [Hitos y entregables](hitos-y-entregables.md): el hito como evento observable de aceptación y, a menudo, de facturación.
+- [Orden de cambio](orden-de-cambio.md): el cambio de alcance o de precio aprobado por las dos partes, con su efecto en el presupuesto y en lo que se factura.

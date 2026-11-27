@@ -62,6 +62,6 @@ Como criterio de esta base, el modelo de cobro del [proyecto del cliente](../Pro
 
 ## Qué hay en el registro de horas
 
-- [Hoja de horas](hoja-de-horas.md) — qué datos lleva cada línea, el período, los estados, quién aprueba y cómo se corrige una hora aprobada o facturada.
-- [Gastos del proyecto](gastos-del-proyecto.md) — viajes, materiales y otros gastos imputados a un proyecto, y cómo se trasladan al cliente: a costo, con recargo o por tarifa.
-- [Calidad del registro](calidad-del-registro.md) — por qué la hora cargada se aleja de la trabajada, qué se puede razonar y lo que falta medir.
+- [Hoja de horas](hoja-de-horas.md): qué datos lleva cada línea, el período, los estados, quién aprueba y cómo se corrige una hora aprobada o facturada.
+- [Gastos del proyecto](gastos-del-proyecto.md): viajes, materiales y otros gastos imputados a un proyecto, y cómo se trasladan al cliente: a costo, con recargo o por tarifa.
+- [Calidad del registro](calidad-del-registro.md): por qué la hora cargada se aleja de la trabajada, qué se puede razonar y lo que falta medir.

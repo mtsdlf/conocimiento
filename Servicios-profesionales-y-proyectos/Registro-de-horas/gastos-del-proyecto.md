@@ -33,7 +33,7 @@ APQC solo tiene los reembolsos a empleados, en finanzas (9.6.2.3 «Approve reimb
 
 ## Qué gasto se traslada al cliente
 
-En ese sistema, un gasto entra a la factura solo si el contrato lo prevé. En un sistema de gestión de servicios, cada línea del contrato dice qué clases de transacción incluye (tiempo, gasto, material, honorario), y los gastos solo se facturan si la línea los incluye y si están marcados como cobrables.
+En el sistema de gestión de servicios leído, un gasto entra a la factura solo si el contrato lo prevé: cada línea del contrato dice qué clases de transacción incluye (tiempo, gasto, material, honorario), y los gastos solo se facturan si la línea los incluye y están marcados como cobrables.
 
 Para decidir si un gasto se puede trasladar, el caso más exigente documentado es el de los contratos públicos de los Estados Unidos. Según el resumen de la FAR 31.201-2, un costo es admisible solo si es razonable, imputable a ese contrato, conforme a los términos del contrato, a los límites de la norma y a los estándares de costos aplicables (CAS) o, si no hay, a los principios contables generalmente aceptados, y el contratista tiene que guardar respaldo «adequate to demonstrate that costs claimed have been incurred»; si no, el funcionario puede rechazarlo. Es una norma de un tipo de contrato, no una regla para firmas privadas, pero sirve de lista de preguntas: ¿es razonable?, ¿es de este proyecto?, ¿lo permite el contrato?, ¿hay comprobante?
 

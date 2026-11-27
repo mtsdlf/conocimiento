@@ -61,7 +61,7 @@ La factura emitida pasa a otros dominios. La factura electrónica, el impuesto q
 
 ## Qué hay adentro de la facturación del proyecto
 
-- [Facturación por hora](facturacion-por-hora.md) — tiempo y materiales: la tarifa, el tope, el borrador desde horas aprobadas, los ajustes y la corrección de una factura.
-- [Facturación por hito](facturacion-por-hito.md) — precio cerrado: el calendario de facturación, los anticipos, la retención de garantía y el costo financiero de cobrar tarde.
-- [Abono y bolsa de horas](abono-y-bolsa-de-horas.md) — el pago periódico por disponibilidad, las horas prepagas que se consumen y el anticipo periódico que se concilia contra las horas.
-- [Trabajo en curso](trabajo-en-curso.md) — lo trabajado sin facturar y lo facturado sin trabajar: activo del contrato, cuenta a cobrar y pasivo del contrato, y cómo se mide el avance.
+- [Facturación por hora](facturacion-por-hora.md): tiempo y materiales: la tarifa, el tope, el borrador desde horas aprobadas, los ajustes y la corrección de una factura.
+- [Facturación por hito](facturacion-por-hito.md): precio cerrado: el calendario de facturación, los anticipos, la retención de garantía y el costo financiero de cobrar tarde.
+- [Abono y bolsa de horas](abono-y-bolsa-de-horas.md): el pago periódico por disponibilidad, las horas prepagas que se consumen y el anticipo periódico que se concilia contra las horas.
+- [Trabajo en curso](trabajo-en-curso.md): lo trabajado sin facturar y lo facturado sin trabajar: activo del contrato, cuenta a cobrar y pasivo del contrato, y cómo se mide el avance.
