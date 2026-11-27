@@ -6,6 +6,7 @@ estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/normativa/nacional/ley-26150-121222/texto
   - https://www.argentina.gob.ar/sites/default/files/2023/06/res._cfe_45-08_anexo.pdf
+  - https://argentina.gob.ar/sites/default/files/2023/06/res._cfe_340-18_y_anexo_-_nucleos_de_aprendizaje_prioritarios_para_esi.pdf
   - https://www.healthychildren.org/english/ages-stages/preschool/pages/sexual-behaviors-young-children.aspx
 aliases: [ESI, Educación sexual integral, Cuidado del cuerpo]
 dueno: familia
@@ -34,7 +35,14 @@ En el jardín, los Lineamientos Curriculares de 2008 (Resolución 45/08 del Cons
 - "La distinción de cuando una interacción física con otra persona puede ser adecuada y cuando no lo es y sentirse autorizados a decir 'no' frente a estas últimas".
 - El significado de los secretos, y saber que nadie puede obligarlos a guardar secretos de cosas que los hagan sentir incómodos o mal.
 
-Ese es el texto de 2008. Los lineamientos se actualizaron con la Resolución 340/18, que no se leyó. Qué hace con esto el jardín al que va el chico se pregunta al elegirlo ([elegir escuela](../Escuela/elegir-escuela.md)).
+Ese es el texto de 2008. En 2018 el Consejo Federal de Educación aprobó la Resolución 340/18 (22 de mayo de 2018; leída completa con su anexo). No reemplaza a los lineamientos: sigue reconociendo la Resolución 45/08 como contenido básico común y fija los núcleos de aprendizajes prioritarios (NAP) de ESI para cada nivel. Los del nivel inicial incluyen, textuales:
+
+- «Las partes externas del cuerpo humano» y «el vocabulario correcto para nombrar los órganos genitales».
+- «El concepto de intimidad y cuidado de la intimidad propia y de los otros/as».
+- «Decir "no" frente a interacciones inadecuadas con otras personas» y «no guardar secretos que los hacen sentir incómodos, mal o confundidos».
+- «La adquisición de pautas de cuidado y auto protección», «la confianza, la libertad y la seguridad para expresar ideas, opiniones y pedir ayuda» y «la diversidad de familias».
+
+También figuran los procesos de gestación y nacimiento y la igualdad de oportunidades para niñas y niños en juegos y trabajos.
 
 ## Los nombres reales del cuerpo
 
@@ -68,4 +76,4 @@ Insertar objetos o pedirle a otros que participen en actos sexuales son, según 
 Qué le pasa a un chico que sufrió abuso y qué tratamientos ayudan está en [adversidad y trauma](../../Psicologia-infantil/Contextos/adversidad-y-trauma.md).
 
 > [!NOTE]
-> Sin fuente todavía: los Lineamientos de 2018 (Res. CFE 340/18) y los Cuadernos de ESI para el nivel inicial, evidencia sobre la eficacia de los programas de prevención del abuso, y el cuidado frente a desconocidos en pantallas a esta edad.
+> Sin fuente todavía: los Cuadernos de ESI para el nivel inicial, evidencia sobre la eficacia de los programas de prevención del abuso, y el cuidado frente a desconocidos en pantallas a esta edad.

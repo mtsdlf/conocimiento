@@ -4,6 +4,7 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - https://abc.gob.ar/secretarias/sites/default/files/2021-08/Comunicaci%C3%B3n%20conjunta%20N%C2%B0%205%20(2019)%20-%20Trayectorias%20escolares%20con%20altas%20capacidades.pdf
   - https://today.duke.edu/2016/12/new-analysis-finds-two-measures-boost-k-12-academic-achievement
   - https://ncrge.uconn.edu/wp-content/uploads/sites/982/2022/12/A-Nation-Deceived-Volume-1.pdf
   - https://boletinoficial.buenosaires.gob.ar/normativaba/norma/636511
@@ -59,7 +60,7 @@ A Nation Deceived es más enfático: la aceleración es la intervención curricu
 
 ## La norma argentina, a noviembre de 2026
 
-**Nación.** La Ley de Educación Nacional 26.206, en su artículo 93, dice que "Las autoridades educativas jurisdiccionales organizarán o facilitarán el diseño de programas para la identificación, evaluación temprana, seguimiento y orientación de los/as alumnos/as con capacidades o talentos especiales y la flexibilización o ampliación del proceso de escolarización" (texto de InfoLEG). Deja la tarea a cada provincia y a la Ciudad. No se encontró una ley nacional específica ni una resolución del Consejo Federal de Educación sobre altas capacidades; en Diputados hay proyectos presentados (por ejemplo, el 1553-D-2023), sin sanción en lo revisado. La misma ley fija el nivel inicial de los 45 días a los 5 años (art. 18) y su obligatoriedad desde los 4 (art. 16).
+**Nación.** La Ley de Educación Nacional 26.206, en su artículo 93, dice que "Las autoridades educativas jurisdiccionales organizarán o facilitarán el diseño de programas para la identificación, evaluación temprana, seguimiento y orientación de los/as alumnos/as con capacidades o talentos especiales y la flexibilización o ampliación del proceso de escolarización" (texto de InfoLEG, verificado el 2026-11-27). Deja la tarea a cada provincia y a la Ciudad. No se encontró una ley nacional específica ni una resolución del Consejo Federal de Educación sobre altas capacidades; en Diputados hay proyectos presentados (por ejemplo, el 1553-D-2023), sin sanción en lo revisado. La misma ley fija el nivel inicial de los 45 días a los 5 años (art. 18) y su obligatoriedad desde los 4 (art. 16).
 
 **Ciudad de Buenos Aires.** La Ley 6614 se sancionó el 17/11/2022, se promulgó el 14/12/2022 y se publicó el 21/12/2022. Dice:
 
@@ -71,10 +72,12 @@ La Resolución 1430/25 de la Ciudad (sancionada el 30/10/2025, publicada el 5/11
 
 Como el nivel inicial es obligatorio desde los 4 años, un ingreso anticipado a sala cae sobre todo en las salas de 3 y 4, por deducción nuestra; la norma porteña no lo precisa.
 
-**Provincia de Buenos Aires y otras provincias.**
+**Provincia de Buenos Aires.** No se encontró una ley ni una resolución provincial específica. Lo que hay es un documento de la Dirección General de Cultura y Educación (DGCyE): «Trayectorias escolares con altas capacidades», un documento conjunto de apoyo a la enseñanza de 2019 (Comunicación Conjunta 5/2019; leído completo), firmado por las direcciones de Psicología Comunitaria y Pedagogía Social, Gestión Privada, Inicial, Primaria, Secundaria y Técnico Profesional. Es una guía de orientaciones, no una norma. Se apoya en el artículo 93 de la Ley de Educación Nacional, que cita textual, y en el artículo 65, inciso h, de la Ley provincial 13.688 («realizar propuestas de contextualización y especificación curricular, para responder a las particularidades y necesidades de los alumnos y su contexto»).
+
+Del documento sale que el equipo docente, con el equipo de orientación escolar si la escuela lo tiene, arma «una emisión de criterio de carácter transitoria, cualitativa, pedagógica e individual», que sirve de hipótesis para ajustar la enseñanza; las familias pueden traer la certificación del diagnóstico, pero no se exige. Sobre la aceleración dice solo que, después de probar las estrategias pedagógicas del documento, «se podrá considerar, cuando así se requiera y por vía de excepción, la promoción anticipada, en el marco de dispositivos situados para el acompañamiento de las trayectorias escolares singulares». No trata el ingreso anticipado a sala en lo que se leyó, a diferencia de la Ley 6614 porteña. No se verificó si hay una versión posterior. Las demás provincias no se revisaron.
 
 > [!NOTE]
-> Sin fuente todavía: el número del artículo 93 y su texto exacto no figuran en el informe de fuentes, que solo lo menciona sin verificar; hay que abrir InfoLEG antes de pasar la nota a vigente. Tampoco se encontró una norma de la Dirección General de Cultura y Educación bonaerense sobre altas capacidades (la búsqueda fue una sola), y las demás provincias no se revisaron. Tampoco se leyó el Anexo I de la Res. 1430/25.
+> Sin fuente todavía: el Anexo I de la Res. 1430/25 de la Ciudad, las provincias distintas de Buenos Aires, y cualquier norma bonaerense sobre ingreso anticipado (la búsqueda fue acotada).
 
 ## Lo que pasa en la práctica
 

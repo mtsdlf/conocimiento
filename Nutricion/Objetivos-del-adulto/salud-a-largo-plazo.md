@@ -4,6 +4,9 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - https://www.who.int/news-room/fact-sheets/detail/hypertension
+  - https://www.mendoza.gov.ar/wp-content/uploads/sites/7/2021/11/Guia-Nacional-practica-clinica-hipertension-arterial-2019.pdf
+  - https://www.mendoza.gov.ar/wp-content/uploads/sites/7/2021/11/Version-breve-Guia-Nacional-practica-clinica-diabetes-mellitius-tipo2.pdf
   - https://pubmed.ncbi.nlm.nih.gov/30954305/
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC6899507
   - https://www.healthdata.org/node/6590
@@ -51,5 +54,21 @@ El GBD de 2016 sobre alcohol concluyó que el riesgo de muerte por todas las cau
 
 La Organización Mundial de la Salud (OMS) dedicó una consulta de expertos a la circunferencia de la cintura como medida de riesgo, además del peso ([OMS, 2011](https://www.who.int/publications/i/item/9789241501491), según su ficha). Los umbrales de cintura que se usan y cómo medirla en casa están en [medir el progreso](medir-el-progreso.md).
 
+## Presión y glucemia: los valores de referencia
+
+Los valores son para entender un informe de laboratorio o una toma de presión, no para diagnosticarse. Los interpreta un médico, con el resto de la historia.
+
+**Presión arterial.** La OMS define: «la hipertensión (presión alta) es cuando la presión en los vasos sanguíneos es demasiado alta (140/90 mmHg o más)» (en el original: "140/90 mmHg or higher"), y se diagnostica si se mide en dos días distintos ([OMS, ficha del 25/09/2025](https://www.who.int/news-room/fact-sheets/detail/hypertension)). Como meta, «para la mayoría de las personas, menos de 140/90», y por debajo de 130/80 para quien tiene enfermedad cardiovascular, diabetes, enfermedad renal crónica o riesgo cardiovascular alto. La guía nacional del Ministerio de Salud de 2019 coincide: «las cifras iguales o mayores a 140/90 mmHg son el punto de corte diagnóstico desde hace más de 25 años», aclara que cortes más bajos (menores a 130/80) podrían dar beneficios pero con más efectos adversos de los fármacos, y que la guía de las multisociedades de Estados Unidos de 2017 bajó el corte a 130/80 ([Guía de Práctica Clínica Nacional sobre Hipertensión Arterial, 2019](https://www.mendoza.gov.ar/wp-content/uploads/sites/7/2021/11/Guia-Nacional-practica-clinica-hipertension-arterial-2019.pdf), leída solo en las secciones de puntos de corte). Son dos fuentes independientes.
+
+**Glucemia.** La guía nacional de diabetes tipo 2 del Ministerio (2019, versión breve para el equipo de salud) trae esta tabla ([fuente](https://www.mendoza.gov.ar/wp-content/uploads/sites/7/2021/11/Version-breve-Guia-Nacional-practica-clinica-diabetes-mellitius-tipo2.pdf), leída la tabla de criterios diagnósticos):
+
+| Prueba | Normal | Prediabetes | Diabetes |
+|---|---|---|---|
+| Glucemia en ayunas | menor a 110 mg/dl sin factores de riesgo; menor a 100 con factores de riesgo | 110 a 125 mg/dl sin factores de riesgo; 100 a 125 con factores de riesgo | igual o mayor a 126 mg/dl |
+| Tolerancia oral a la glucosa, 2 h (PTOG75) | menor a 140 mg/dl | 140 a 199 mg/dl | igual o mayor a 200 mg/dl |
+| HbA1c estandarizada | menor a 5,7 % | 5,7 % a 6,4 % | igual o mayor a 6,5 % |
+
+Para diagnosticar diabetes se piden dos determinaciones iguales o mayores al corte, salvo una glucemia al azar de 200 mg/dl o más con síntomas. Es una sola fuente: la ficha de la OMS sobre diabetes (consultada el 2026-11-27) no trae los valores. Una segunda fuente (por ejemplo los Standards of Care de la Asociación Estadounidense de Diabetes) no se pudo abrir.
+
 > [!NOTE]
-> Sin fuente todavía: valores de referencia de presión, lípidos y glucemia (por ejemplo de la Sociedad Argentina de Cardiología o de la OMS), y una revisión de patrones alimentarios y mortalidad (mediterránea, DASH).
+> Sin fuente todavía: valores de referencia de lípidos (colesterol total, LDL, HDL y triglicéridos) y una revisión de patrones alimentarios y mortalidad (mediterránea, DASH).

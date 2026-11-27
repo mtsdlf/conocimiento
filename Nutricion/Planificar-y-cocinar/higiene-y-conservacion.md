@@ -8,6 +8,8 @@ fuentes:
   - https://www.argentina.gob.ar/enfermedades-transmitidas-por-alimentos
   - https://www.argentina.gob.ar/anmat/comunidad/informacion-de-interes-para-tu-salud/como-guardar-los-alimentos-en-la-heladera
   - https://www.argentina.gob.ar/node/510872
+  - https://www.argentina.gob.ar/node/363317
+  - https://www.mendoza.gov.ar/prensa/como-mantener-la-cadena-de-frio-de-los-alimentos-en-el-hogar/
 aliases: [inocuidad alimentaria, seguridad alimentaria en casa, ETA, SUH]
 dueno: familia
 creado: 2026-11-27
@@ -46,8 +48,7 @@ Las cifras son del Ministerio de Salud, citadas textuales de su [página de ETA]
 
 Entre 5 °C y 60 °C la comida está en la franja donde las bacterias crecen; por eso las reglas empujan a salir rápido de ella, hacia arriba o hacia abajo. La explicación de la franja es una inferencia de las dos cifras del Ministerio, que no la nombra. Para carnes rojas y pollo, el Ministerio pide además que no queden partes rojas por dentro, sobre todo en trozos grandes, pollos enteros y carne picada.
 
-> [!NOTE]
-> Sin fuente todavía: la temperatura recomendada de la heladera y del freezer en grados para el hogar. ANMAT no la da en su página, y las tablas de USDA (FoodKeeper) no se pudieron leer.
+**La heladera y el freezer, en grados.** Hay dos fuentes oficiales argentinas para la heladera. El Senasa (el servicio nacional de sanidad agroalimentaria, 06/03/2023) dice: "mantener la temperatura entre 4º y 5 ºC", y define la refrigeración como mantener los alimentos "entre 0 y 8 °C, según la zona" ([Senasa](https://www.argentina.gob.ar/node/363317), página leída completa). El Gobierno de Mendoza, con recomendaciones del Ministerio de Salud (31/01/2024), dice que "el refrigerador debe mantener una temperatura menor a los 5 °C" y que "el congelador debe registrar -18°C o menos" ([nota de prensa](https://www.mendoza.gov.ar/prensa/como-mantener-la-cadena-de-frio-de-los-alimentos-en-el-hogar/), según el texto de la nota). Para el freezer hay una sola fuente. Las tablas del USDA (FoodKeeper) y FoodSafety.gov bloquean la lectura automática y no se pudieron abrir.
 
 ## Cuánto dura cada alimento en heladera y freezer
 
@@ -61,7 +62,7 @@ Plazos de ANMAT (la administración nacional que regula alimentos y medicamentos
 | Mariscos | sin dato | 3 a 6 meses |
 | Frutas y verduras | sin dato | 8 a 12 meses |
 
-Es una sola fuente oficial; los plazos del freezer combinan calidad y seguridad. ANMAT no da plazo para la comida cocida ni para las sobras en heladera: pide refrigerarlas en porciones chicas y envases poco profundos, sin pasar "más de 2 horas a temperatura ambiente", y congelar rápido lo que sobra en vez de dejarlo varios días. Cómo se aplica a una tanda está en [cocinar por tandas](cocinar-por-tandas.md).
+Es una sola fuente oficial; los plazos del freezer combinan calidad y seguridad. ANMAT no da plazo para la comida cocida ni para las sobras en heladera. El Senasa sí da días de heladera "de mantenimiento de calidad y cualidades organolépticas" (en la misma página de 2023): "Carnes picadas: 1 día"; "Carne cruda, carne cocida y leche pasteurizada: 2 a 3 días"; "Verduras cocidas: 3 a 4 días"; "Verduras crudas y platos cocinados: 3 a 5 días". Son plazos de calidad más que de seguridad, y es una sola fuente: ante la duda, el plazo corto. ANMAT pide refrigerarlas en porciones chicas y envases poco profundos, sin pasar "más de 2 horas a temperatura ambiente", y congelar rápido lo que sobra en vez de dejarlo varios días. Cómo se aplica a una tanda está en [cocinar por tandas](cocinar-por-tandas.md).
 
 ## Dónde va cada cosa en la heladera
 

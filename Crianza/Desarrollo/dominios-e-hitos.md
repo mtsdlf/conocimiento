@@ -14,6 +14,9 @@ fuentes:
   - https://www.cdc.gov/act-early/milestones/4-years.html
   - https://www.cdc.gov/act-early/milestones/5-years.html
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2017/v115n3a27s.pdf
+  - https://www.argentina.gob.ar/normativa/nacional/resolución-699-2016-262473/texto
+  - https://santafe.gob.ar/index.php/web/content/download/249217/1309966
+  - https://santafe.gob.ar/index.php/web/content/download/249218/1309969
   - https://www.nj.gov/education/standards/stamp/gt_asynchronous_development.shtml
 aliases: [hitos del desarrollo, pautas madurativas, áreas del desarrollo, developmental milestones]
 dueno: familia
@@ -56,8 +59,25 @@ La tabla trae una selección de los hitos del CDC para cada edad, traducidos y c
 
 Páginas del CDC consultadas el 2026-11-27, traducción propia. En la guía de la SAP de 2017 no encontramos una tabla de pautas por edad: las da en forma narrativa.
 
+## Las pautas del IODI, la versión argentina
+
+El Ministerio de Salud de la Nación aprobó el Instrumento de Observación del Desarrollo Infantil (IODI) con la Resolución 699/2016, para usarlo «en todo el territorio nacional en la consulta de control de salud de los niños/as». Está hecho para chicos menores de 4 años (la resolución y su anexo, la definición de variables de 54 indicadores y los criterios de aplicación de diciembre de 2017 se leyeron completos; son los textos que publica la provincia de Santa Fe). Agrupa los indicadores en tramos: cuatro trimestres del primer año, y después 12 a 17 meses, 18 a 23, 24 a 35 y 36 a 47. Los marca como observado, preguntado y logrado, o no logrado, y sirve para seguir el ritmo de avance y no para un puntaje.
+
+Los indicadores que cubren de 2 a 4 años, con la edad que da la propia definición:
+
+- Patea una pelota: «a los 2 años aproximadamente».
+- Dice frases de dos palabras («dame, agua»): aparecen «entre 18 y 21 meses».
+- Dice su nombre o sobrenombre y puede correr: «a los 2 años».
+- Se saca o se pone alguna ropa solo: «alrededor del 2° año».
+- Juega al lado de otros chicos y juega a dar de comer o a hacer dormir a los muñecos: «a partir de los 2 años».
+- Pide a veces para hacer pis o caca: «alrededor de los 2 años»; logra el control de esfínteres durante el día, sin edad fija en el texto.
+- Hace un relato sencillo, disfruta de interactuar con otros chicos y espera su turno para jugar o hablar: «a partir de los 3 años».
+- Dibuja al menos un círculo: «alrededor de los 3 años».
+
+Coincide en lo central con la tabla del CDC de arriba (frases de dos palabras, patear, jugar al lado de otros, esperar el turno, el círculo). Difiere en el recorte: no es una lista de hitos con el 75 % de los chicos, sino un instrumento de observación del control de salud, y su lista llega hasta los 4 años. No encontré ahí cifras de qué porcentaje logra cada pauta: el informe de validación (también publicado por Santa Fe) no se leyó. No reemplaza la consulta con el pediatra.
+
 > [!NOTE]
-> Sin fuente todavía: la versión argentina de las pautas por edad (el Instrumento de Observación del Desarrollo Infantil, IODI, del Ministerio de Salud) y la versión en castellano de las listas del CDC.
+> Sin fuente todavía: la versión en castellano de las listas del CDC (la página en español no se pudo abrir), y la Libreta de salud del Ministerio.
 
 ## Cuatro trayectorias: típica, retraso, desviación y regresión
 
