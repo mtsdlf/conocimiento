@@ -67,8 +67,8 @@ El remedio principal es el primero: que cada eslabón vea lo que se vende al fin
 
 La evidencia empírica depende de cómo se mire.
 
-- **Por industria, casi no.** Cachon, Randall y Schmidt (2007) midieron industrias enteras de EE.UU. Según su resumen: «wholesale industries exhibit a bullwhip effect, but retail industries generally do not exhibit the effect, nor do most manufacturing industries». Encontraron que la estacionalidad lo esconde: «highly seasonal industries tend to smooth demand volatility whereas nonseasonal industries tend to amplify». Según Bray y Mendelson, que los citan, de 75 industrias 61 muestran látigo al quitar la estacionalidad y solo 39 sin quitarla.
-- **Por empresa, en la mayoría.** Bray y Mendelson (2012) midieron 4.689 empresas públicas de EE.UU. entre 1974 y 2008: «about two-thirds of firms bullwhip». El látigo medio y el mediano son 15,8 % y 6,7 % de la variabilidad total de la demanda, y «From 1974–1994 to 1995–2008, our sample's mean bullwhip dropped by a third».
+- Por industria, casi no. Cachon, Randall y Schmidt (2007) midieron industrias enteras de EE.UU. Según su resumen: «wholesale industries exhibit a bullwhip effect, but retail industries generally do not exhibit the effect, nor do most manufacturing industries». Encontraron que la estacionalidad lo esconde: «highly seasonal industries tend to smooth demand volatility whereas nonseasonal industries tend to amplify». Según Bray y Mendelson, que los citan, de 75 industrias 61 muestran látigo al quitar la estacionalidad y solo 39 sin quitarla.
+- Por empresa, en la mayoría. Bray y Mendelson (2012) midieron 4.689 empresas públicas de EE.UU. entre 1974 y 2008: «about two-thirds of firms bullwhip». El látigo medio y el mediano son 15,8 % y 6,7 % de la variabilidad total de la demanda, y «From 1974–1994 to 1995–2008, our sample's mean bullwhip dropped by a third».
 
 Las dos son compatibles: medir la industria entera promedia lo que pasa en cada empresa. Cachon y otros, citados por Bray y Mendelson, lo dicen: «it is possible that firms exhibit the bullwhip effect but the industry does not». La lectura de la base: el efecto es real en la mayoría de las empresas y de magnitud moderada, no la catástrofe de los casos de libro. Bray y Mendelson advierten un posible sesgo de publicación en los estudios de caso. La caída desde mediados de los noventa coincide con la difusión de la información compartida, pero esa causa es inferencia de la base.
 
@@ -80,10 +80,10 @@ Para medirlo, la definición operativa de los dos estudios pide dos series por e
 
 Para atacarlo, por los remedios de la tabla 1 y por Sterman:
 
-- **Datos de venta compartidos** con el proveedor, por artículo, lugar y día.
-- **Lo pedido y en camino a la vista** de quien decide el próximo pedido, no solo el stock en el estante. Es la posición de stock del [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md#qué-se-compara-con-el-punto-la-posición-de-stock).
-- **Parámetros de reposición que el proveedor pueda manejar** (VMI): niveles mínimos y máximos acordados por artículo y lugar.
-- **El calendario de pedidos y entregas** por proveedor, para las citas regulares.
-- **El historial de promociones y de racionamientos**, para limpiar la serie con que se pronostica (ver [pronóstico de demanda](pronostico-de-demanda.md#la-venta-no-es-la-demanda)).
+- Datos de venta compartidos con el proveedor, por artículo, lugar y día.
+- Lo pedido y en camino a la vista de quien decide el próximo pedido, no solo el stock en el estante. Es la posición de stock del [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md#qué-se-compara-con-el-punto-la-posición-de-stock).
+- Parámetros de reposición que el proveedor pueda manejar (VMI): niveles mínimos y máximos acordados por artículo y lugar.
+- El calendario de pedidos y entregas por proveedor, para las citas regulares.
+- El historial de promociones y de racionamientos, para limpiar la serie con que se pronostica (ver [pronóstico de demanda](pronostico-de-demanda.md#la-venta-no-es-la-demanda)).
 
 Para leer más: Lee, Padmanabhan y Whang (1997), el resumen, la sección de las cuatro causas y la tabla 1; para la evidencia, la introducción de Bray y Mendelson (2012), que discute a Cachon y otros.

@@ -47,11 +47,11 @@ La matriz de Caplice (MIT, 2006, contexto de Estados Unidos) los compara así, c
 
 Rodrigue lo cuenta en prosa y coincide en el fondo:
 
-- **Camión**: «road transport tends to be most competitive over short distances and for small bundles of goods». Es el único que va puerta a puerta.
-- **Ferrocarril**: «the land transportation mode offering the highest capacity, with a 23,000 tons fully loaded coal unit train being the heaviest load ever carried».
-- **Ducto**: mueve líquidos como derivados del petróleo «over long distances cost-effectively».
-- **Marítimo**: «the most effective mode of moving large quantities of cargo over long distances». Su ventaja «does not rest on its speed, but on its capacity and on the continuity of its services».
-- **Aéreo**: «The core advantage of air transportation is speed and flexibility in network configuration».
+- Camión: «road transport tends to be most competitive over short distances and for small bundles of goods». Es el único modo que va puerta a puerta.
+- Ferrocarril: «the land transportation mode offering the highest capacity, with a 23,000 tons fully loaded coal unit train being the heaviest load ever carried».
+- Ducto: mueve líquidos como derivados del petróleo «over long distances cost-effectively».
+- Marítimo: «the most effective mode of moving large quantities of cargo over long distances». Su ventaja «does not rest on its speed, but on its capacity and on the continuity of its services».
+- Aéreo: «The core advantage of air transportation is speed and flexibility in network configuration».
 
 En costos, Rodrigue señala que «operating costs are high for air transport, terminal costs are significant for maritime transport», y que la energía es «nearly half of their operating costs» en el marítimo y el aéreo.
 
@@ -113,9 +113,9 @@ Rodrigue da cifras de una sola fuente académica, sin cruzar:
 
 Un envío no siempre es un solo viaje: puede ser una secuencia de tramos con modos y transportistas distintos. Lo que muestran los sistemas abiertos consultados, según el resumen de su modelo de datos:
 
-- **Método de envío**: un tipo de servicio (camión, aéreo, marítimo) ligado a un transportista, con el código de servicio que usa ese transportista.
-- **Tramo del envío** (segmento de ruta): origen y destino, transportista y método, peso facturable con su unidad, costo real separado en transporte, servicio y otros, fechas estimadas y reales de salida y llegada, y número de seguimiento. Cada tramo tiene además un estado de la reserva con el transportista, que está en [despacho](../Despacho-y-entrega/despacho.md#los-estados-que-recorre).
-- **Bulto por tramo**: el paquete con su código de seguimiento, sus costos, el monto asegurado y el contra reembolso.
+- Método de envío: un tipo de servicio (camión, aéreo, marítimo) ligado a un transportista, con el código de servicio que usa ese transportista.
+- Tramo del envío (segmento de ruta): origen y destino, transportista y método, peso facturable con su unidad, costo real separado en transporte, servicio y otros, fechas estimadas y reales de salida y llegada, y número de seguimiento. Cada tramo tiene además un estado de la reserva con el transportista, que está en [despacho](../Despacho-y-entrega/despacho.md#los-estados-que-recorre).
+- Bulto por tramo: el paquete con su código de seguimiento, sus costos, el monto asegurado y el contra reembolso.
 
 De las fuentes de este tema sale además, como inferencia de la base: el contenedor como unidad de manejo con número, tamaño (TEU o FEU) y precinto, y el TEU como unidad para la capacidad. Los umbrales de distancia de Rodrigue no son datos de sistema; si un sistema sugiere el modo, son reglas que carga el usuario.
 

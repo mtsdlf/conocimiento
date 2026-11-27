@@ -43,7 +43,7 @@ revisado:
 
 Lo transversal del tema Cadena de suministro y logística: de dónde viene el campo, los marcos que lo ordenan (el PCF de APQC y SCOR), las escuelas (empujar o tirar, cadena eficiente o que responde, eficiencia o resiliencia, DDMRP), la evidencia contra las ideas más repetidas y dónde se produce el saber.
 
-No es una parte de la cadena: cruza las cinco verticales de [Cadena de suministro y logística](../cadena-de-suministro-y-logistica.md). La discusión sobre si conviene tener stock (colchón, desperdicio de lean, DDMRP) ya está en [fundamentos de inventario y depósitos](../../Inventario-y-depositos/Fundamentos/fundamentos-de-inventario-y-depositos.md); acá se enlaza y no se repite. Los términos del tema están en el [glosario](glosario-de-cadena-de-suministro.md).
+Cruza las cinco verticales de [Cadena de suministro y logística](../cadena-de-suministro-y-logistica.md). La discusión sobre si conviene tener stock (colchón, desperdicio de lean, DDMRP) ya está en [fundamentos de inventario y depósitos](../../Inventario-y-depositos/Fundamentos/fundamentos-de-inventario-y-depositos.md), y acá solo se enlaza. Los términos del tema están en el [glosario](glosario-de-cadena-de-suministro.md).
 
 ## De la logística a la cadena de suministro
 
@@ -51,12 +51,12 @@ El término «gestión de la cadena de suministro» se usa desde los años ochen
 
 > [!NOTE] Sin fuente todavía: el año y la publicación original del texto de Oliver y Webber, y quién usó primero el término. Solo se confirmaron el título y los autores.
 
-El título ya dice la relación entre las dos palabras. A fines de los noventa, la literatura empezó a separarlas: la cadena es más amplia que la logística. Cooper, Lambert y Pagh (1997) piden una coordinación entre empresas «that extends beyond logistics. We believe that this is what should be called SCM». Según Lambert, Cooper y Pagh (1998), en 1998 el Council of Logistics Management cambió su definición para que la logística fuera «a subset of supply chain management». Esa asociación es hoy el CSCMP, cuya definición está en el [glosario](glosario-de-cadena-de-suministro.md#el-campo-y-sus-escuelas). Aun así, Mentzer y otros (2001) advierten que hay «so many definitions» que hay «little consensus on what it means».
+A fines de los noventa, la literatura empezó a separar los dos términos: la cadena es más amplia que la logística. Cooper, Lambert y Pagh (1997) piden una coordinación entre empresas «that extends beyond logistics. We believe that this is what should be called SCM». Según Lambert, Cooper y Pagh (1998), en 1998 el Council of Logistics Management cambió su definición para que la logística fuera «a subset of supply chain management». Esa asociación es hoy el CSCMP, cuya definición está en el [glosario](glosario-de-cadena-de-suministro.md#el-campo-y-sus-escuelas). Aun así, Mentzer y otros (2001) advierten que hay «so many definitions» que hay «little consensus on what it means».
 
 Dos hitos anteriores al término:
 
-- **La dinámica de la cadena.** Forrester escribió «Industrial Dynamics: A Major Breakthrough for Decision Makers», reeditado en el mismo libro de 2012. El glosario del CSCMP pone en «Forrester's Industrial Dynamics (1961)» la raíz del [efecto látigo](../Planificacion/efecto-latigo.md), que por eso también se llama efecto Forrester.
-- **El contenedor.** Según la editorial de *The Box*, de Levinson, «In April 1956, a refitted oil tanker carried fifty-eight shipping containers from Newark to Houston». La misma página dice que el mundo se convenció del contenedor recién con el éxito de McLean abasteciendo a las fuerzas de EE.UU. en Vietnam.
+- La dinámica de la cadena. Forrester escribió «Industrial Dynamics: A Major Breakthrough for Decision Makers», reeditado en el mismo libro de 2012. El glosario del CSCMP pone en «Forrester's Industrial Dynamics (1961)» la raíz del [efecto látigo](../Planificacion/efecto-latigo.md), que por eso también se llama efecto Forrester.
+- El contenedor. Según la editorial de *The Box*, de Levinson, «In April 1956, a refitted oil tanker carried fifty-eight shipping containers from Newark to Houston». La misma página dice que el mundo se convenció del contenedor recién con el éxito de McLean abasteciendo a las fuerzas de EE.UU. en Vietnam.
 
 El MRP de los años sesenta está en [fundamentos de inventario y depósitos](../../Inventario-y-depositos/Fundamentos/fundamentos-de-inventario-y-depositos.md#de-la-ficha-de-stock-al-sistema-de-depósito). SCOR nació en 1996, según su propio documento, y quedó en manos de ASCM, que resultó de la fusión del Supply Chain Council y APICS en 2014.
 
@@ -116,18 +116,18 @@ En el pronóstico, lo que se sostiene es usar el método simple como piso de com
 
 ## Lo que las escuelas y la evidencia le piden a un sistema
 
-Las escuelas y los estudios hablan de ideas y de métricas, no de objetos. Los datos mínimos que se deducen de ellos son inferencia de la base; lo que piden los marcos está en [marcos de la cadena de suministro](marcos-de-la-cadena-de-suministro.md#lo-que-los-marcos-le-piden-a-un-sistema).
+Las escuelas y los estudios describen ideas y métricas. Los datos mínimos que se deducen de ellos son inferencia de la base; lo que piden los marcos está en [marcos de la cadena de suministro](marcos-de-la-cadena-de-suministro.md#lo-que-los-marcos-le-piden-a-un-sistema).
 
-- **El efecto látigo** se mide con dos series por eslabón a la misma frecuencia, lo pedido a proveedores y lo vendido, y la comparación de sus varianzas.
-- **La matriz de Fisher** pide, por familia de productos, los indicadores que la ubican (ciclo de vida, margen, error de pronóstico, quiebre) y la estrategia de cadena asignada.
-- **Las competencias M** piden guardar el pronóstico de referencia junto al elegido, con la jerarquía y las variables explicativas.
+- El efecto látigo se mide con dos series por eslabón a la misma frecuencia, lo pedido a proveedores y lo vendido, y la comparación de sus varianzas.
+- La matriz de Fisher pide, por familia de productos, los indicadores que la ubican (ciclo de vida, margen, error de pronóstico, quiebre) y la estrategia de cadena asignada.
+- Las competencias M piden guardar el pronóstico de referencia junto al elegido, con la jerarquía y las variables explicativas.
 
 ## Dónde se produce el saber del campo
 
-- **Revistas académicas**: *Management Science* y *Manufacturing & Service Operations Management*, con los estudios del látigo; *International Journal of Forecasting*, con las competencias M; *Journal of Business Logistics*, *International Journal of Logistics Management* y *Journal of Supply Chain Management*, con el debate sobre qué es la cadena; *International Journal of Physical Distribution & Logistics Management* e *International Journal of Production Economics*, con la ley de la raíz cuadrada y la «leagility».
-- **Asociaciones**: ASCM, que publica SCOR, el diccionario del campo y las certificaciones; el CSCMP, con su glosario y sus definiciones oficiales de cadena y logística; APQC, con el PCF.
-- **Libros, cursos y artículos abiertos**: *Forecasting: Principles and Practice*, de Hyndman y Athanasopoulos, libre en línea; el curso ESD.260J Logistics Systems del MIT (Caplice y Sheffi, 2006), que usa [Transporte](../Transporte/transporte.md); el artículo de Fisher, con sus dos tablas y la matriz.
-- **Documentación de sistemas abiertos**: muestra qué datos y estados lleva cada documento; sirve como evidencia de que un patrón es común, no como norma.
+- Revistas académicas: *Management Science* y *Manufacturing & Service Operations Management*, con los estudios del látigo; *International Journal of Forecasting*, con las competencias M; *Journal of Business Logistics*, *International Journal of Logistics Management* y *Journal of Supply Chain Management*, con el debate sobre qué es la cadena; *International Journal of Physical Distribution & Logistics Management* e *International Journal of Production Economics*, con la ley de la raíz cuadrada y la «leagility».
+- Asociaciones: ASCM, que publica SCOR, el diccionario del campo y las certificaciones; el CSCMP, con su glosario y sus definiciones oficiales de cadena y logística; APQC, con el PCF.
+- Libros, cursos y artículos abiertos: *Forecasting: Principles and Practice*, de Hyndman y Athanasopoulos, libre en línea; el curso ESD.260J Logistics Systems del MIT (Caplice y Sheffi, 2006), que usa [Transporte](../Transporte/transporte.md); el artículo de Fisher, con sus dos tablas y la matriz.
+- Documentación de sistemas abiertos: muestra qué datos y estados lleva cada documento y sirve como evidencia de que un patrón es común, sin valor de norma.
 
 ## Lo que hay en Fundamentos
 

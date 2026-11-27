@@ -23,7 +23,7 @@ Los términos del tema Cadena de suministro y logística, agrupados por vertical
 
 Lo de adentro del depósito y la reposición artículo por artículo no se repite acá: punto de pedido, lote económico, stock de seguridad, nivel de servicio por ciclo, tasa de cumplimiento, clasificación ABC, disponible para prometer, reserva, preparación de pedidos, recepción, cross-docking, trazabilidad de lotes, remito y COT están en el [glosario de inventario y depósitos](../../Inventario-y-depositos/Fundamentos/glosario-de-inventario-y-depositos.md).
 
-Las definiciones que dicen «CSCMP» salen del glosario del CSCMP de 2013, traducidas y, donde hacía falta, ajustadas a lo que la entrada dice de verdad. Las que no citan a nadie son de la base, y la nota de la columna «Dónde» las explica con sus fuentes.
+Las definiciones que dicen «CSCMP» salen del glosario del CSCMP de 2013, traducidas y, donde hacía falta, ajustadas a lo que dice la entrada. Las que no citan a nadie son de la base, y la nota de la columna «Dónde» las explica con sus fuentes.
 
 ## El campo y sus escuelas
 

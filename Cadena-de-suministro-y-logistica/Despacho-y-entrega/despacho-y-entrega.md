@@ -24,9 +24,9 @@ Es la cuarta parte de [Cadena de suministro y logística](../cadena-de-suministr
 
 El tramo tiene tres momentos, y cada uno cambia el estado de la mercadería y de quién responde por ella:
 
-1. **Despachar.** Lo preparado se junta en un despacho, se identifica cada bulto, se emite el documento que acompaña el traslado y se avisa al destinatario lo que va a llegar. Se carga en el vehículo y se confirma la salida. Está en [despacho](despacho.md).
-2. **Viajar.** El transportista lleva la carga y el envío pasa a estar en tránsito. El seguimiento informa dónde está. La elección del transportista y del recorrido es de [Transporte](../Transporte/transporte.md).
-3. **Entregar.** El destinatario recibe, revisa y firma, con o sin observaciones. Si no se pudo entregar, o llegó menos o dañado, se registra la diferencia. Está en [prueba de entrega](prueba-de-entrega.md).
+1. Despachar. Lo preparado se junta en un despacho, se identifica cada bulto, se emite el documento que acompaña el traslado y se avisa al destinatario lo que va a llegar. Se carga en el vehículo y se confirma la salida. Está en [despacho](despacho.md).
+2. Viajar. El transportista lleva la carga y el envío pasa a estar en tránsito. El seguimiento informa dónde está. La elección del transportista y del recorrido es de [Transporte](../Transporte/transporte.md).
+3. Entregar. El destinatario recibe, revisa y firma, con o sin observaciones. Si no se pudo entregar, o llegó menos o dañado, se registra la diferencia. Está en [prueba de entrega](prueba-de-entrega.md).
 
 Lo que vuelve (una devolución, un envase retornable, lo que el destinatario rechazó) recorre el mismo camino al revés, con su propia autorización y su propio destino final. Está en [logística inversa](logistica-inversa.md). Si todo el tramo funcionó se mide al final, pedido por pedido, en [nivel de servicio logístico](nivel-de-servicio-logistico.md).
 
@@ -56,18 +56,18 @@ No hay un estándar de estados para la entrega. Los sistemas consultados separan
 
 En la Argentina, el documento que acompaña todo traslado es el remito, y en algunas jurisdicciones se suma el código de operación de traslado (COT); está en [Inventario y depósitos en la Argentina](../../Inventario-y-depositos/inventario-y-depositos-en-argentina.md#todo-traslado-lleva-remito-aunque-no-haya-venta).
 
-## Cómo falla el tramo
+## Fallas del tramo
 
-- **La salida no se confirma o se confirma tarde.** El stock sigue figurando en el depósito aunque ya viaja, y el disponible para prometer miente (inferencia de la base).
-- **Se entrega sin dejar constancia.** Sin firma, fecha ni observaciones, después no se puede reclamar al transportista ni probar la entrega al cliente. En el transporte internacional por carretera, recibir sin reservas pesa como prueba de que todo llegó bien; está en [prueba de entrega](prueba-de-entrega.md).
-- **Se mide «a tiempo» contra una fecha que nadie fijó.** Si la base de la fecha y la tolerancia no se acuerdan antes, el indicador sale distinto según quién lo calcule; está en [nivel de servicio logístico](nivel-de-servicio-logistico.md).
-- **La devolución entra como si fuera una venta al revés.** Sin autorización previa ni inspección, lo devuelto vuelve a disponible sin saber si sirve; está en [logística inversa](logistica-inversa.md).
+- La salida no se confirma o se confirma tarde. El stock sigue figurando en el depósito aunque ya viaja, y el disponible para prometer miente (inferencia de la base).
+- Se entrega sin dejar constancia. Sin firma, fecha ni observaciones, después no se puede reclamar al transportista ni probar la entrega al cliente. En el transporte internacional por carretera, recibir sin reservas pesa como prueba de que todo llegó bien; está en [prueba de entrega](prueba-de-entrega.md).
+- Se mide «a tiempo» contra una fecha que nadie fijó. Si la base de la fecha y la tolerancia no se acuerdan antes, el indicador sale distinto según quién lo calcule; está en [nivel de servicio logístico](nivel-de-servicio-logistico.md).
+- La devolución entra como si fuera una venta al revés. Sin autorización previa ni inspección, lo devuelto vuelve a disponible sin saber si sirve; está en [logística inversa](logistica-inversa.md).
 
 ## Cuándo es comercio electrónico
 
 Una tienda online hace lo mismo con paquetes chicos y casi siempre a través de un transportista o un agregador. Cómo se ve en una tienda (la etiqueta, el agregador, el costo del envío, el fulfillment) está en [Envíos y logística](../../Comercio-electronico/Operaciones-del-comercio/Envios-y-logistica/envios-y-logistica.md), y la devolución de una tienda, en [devoluciones](../../Comercio-electronico/Operaciones-del-comercio/devoluciones.md). Esta vertical da el concepto general, que vale también para un camión propio que reparte a comercios.
 
-## Qué hay en Despacho y entrega
+## Notas de Despacho y entrega
 
 - [Despacho](despacho.md): el documento que registra lo que sale, sus datos y estados, el aviso de despacho anticipado, el SSCC y la etiqueta logística, y el seguimiento.
 - [Prueba de entrega](prueba-de-entrega.md): la conformidad del destinatario, la entrega fallida, la diferencia en destino y los plazos para reclamar del CMR, el convenio de transporte internacional por carretera nacido en Europa.

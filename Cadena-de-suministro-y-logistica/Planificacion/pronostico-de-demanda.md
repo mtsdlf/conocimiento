@@ -112,9 +112,9 @@ Un ERP abierto guarda el pronóstico como documento con cabecera y partidas: alm
 
 Lo que la base agrega como criterio, porque ninguno de los sistemas leídos lo mostró:
 
-- **La serie con su origen**: venta, pedido o despacho, por artículo, lugar y período, con marcas de quiebre de stock y de promoción para corregirla.
-- **La jerarquía de agregación** como estructura propia, no como un filtro de informe.
-- **Versiones del pronóstico** (estadístico, ajustado, de consenso), cada una con autor y fecha, para medir si el ajuste ayudó.
-- **El método y sus parámetros** con que se generó cada versión, y la clase de demanda del artículo (intermitente o no).
+- La serie con su origen: venta, pedido o despacho, por artículo, lugar y período, con marcas de quiebre de stock y de promoción para corregirla.
+- La jerarquía de agregación como estructura propia, no como un filtro de informe.
+- Versiones del pronóstico (estadístico, ajustado, de consenso), cada una con autor y fecha, para medir si el ajuste ayudó.
+- El método y sus parámetros con que se generó cada versión, y la clase de demanda del artículo (intermitente o no).
 
 Para leer más: FPP3 en <https://otexts.com/fpp3/>, los capítulos de métodos simples, suavizado exponencial, series jerárquicas y pronóstico por juicio.

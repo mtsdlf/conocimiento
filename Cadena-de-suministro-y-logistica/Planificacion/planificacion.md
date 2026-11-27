@@ -46,16 +46,16 @@ Los niveles fallan en las costuras. MIT lo dice así: «The high level and low l
 
 ## Quién planifica qué
 
-- **El pronóstico** lo hacen ventas y un planificador de la demanda; el glosario del CSCMP llama a esa función demand planning: «identifying, aggregating, and prioritizing, all sources of demand». Ver [pronóstico de demanda](pronostico-de-demanda.md).
-- **El plan agregado** lo acuerdan ventas, operaciones y finanzas en el S&OP, que según el CSCMP busca «agree on a single plan/forecast that can be used to drive the entire business». Ver [plan de ventas y operaciones](plan-de-ventas-y-operaciones.md).
-- **El plan por artículo** lo calcula el sistema y lo revisa un planificador: el plan maestro y el MRP en Producción, el DRP en este tema.
-- **La compra y la orden** quedan para Compras y abastecimiento: el plan dice cuánto y cuándo; a quién y a qué precio, no.
+- El pronóstico lo hacen ventas y un planificador de la demanda; el glosario del CSCMP llama a esa función demand planning: «identifying, aggregating, and prioritizing, all sources of demand». Ver [pronóstico de demanda](pronostico-de-demanda.md).
+- El plan agregado lo acuerdan ventas, operaciones y finanzas en el S&OP, que según el CSCMP busca «agree on a single plan/forecast that can be used to drive the entire business». Ver [plan de ventas y operaciones](plan-de-ventas-y-operaciones.md).
+- El plan por artículo lo calcula el sistema y lo revisa un planificador: el plan maestro y el MRP en Producción, el DRP en este tema.
+- La compra y la orden quedan para Compras y abastecimiento: el plan dice cuánto y cuándo; a quién y a qué precio, no.
 
 ## Dónde corta con Producción y con Inventario
 
-**Con Producción.** El S&OP fija cuánto producir por familia y por mes; el plan maestro lo baja a artículos y semanas, y el MRP lo explota en componentes con la lista de materiales. El plan maestro y el MRP son de Producción, todavía no armado. El DRP usa la misma cuenta de neteo, pero entre depósitos en lugar de entre niveles de una lista de materiales.
+Con Producción, el S&OP fija cuánto producir por familia y por mes; el plan maestro lo baja a artículos y semanas, y el MRP lo explota en componentes con la lista de materiales. El plan maestro y el MRP son de Producción, todavía no armado. El DRP usa la misma cuenta de neteo, pero entre depósitos en lugar de entre niveles de una lista de materiales.
 
-**Con Inventario.** Inventario repone artículo por artículo mirando la posición de stock, con [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md) y [lote económico](../../Inventario-y-depositos/Reposicion/lote-economico.md): ver [reposición](../../Inventario-y-depositos/Reposicion/reposicion.md). Este tema planifica por períodos hacia adelante y para varios lugares a la vez. El colchón contra el error del pronóstico se calcula allá, en [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md); el error se mide acá.
+Con Inventario, la reposición va artículo por artículo y mira la posición de stock, con [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md) y [lote económico](../../Inventario-y-depositos/Reposicion/lote-economico.md): ver [reposición](../../Inventario-y-depositos/Reposicion/reposicion.md). Este tema planifica por períodos hacia adelante y para varios lugares a la vez. El colchón contra el error del pronóstico se calcula allá, en [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md); el error se mide acá.
 
 ## Empujar o tirar
 
@@ -63,13 +63,13 @@ El plan por períodos de esta vertical empuja: MIT llama «Push system» a aquel
 
 ## Cómo falla la planificación
 
-- **Se planifica con un número sin error declarado.** Todo plan parte de un pronóstico; si nadie mide cuánto se equivoca, el colchón queda a ojo. Ver [error de pronóstico](error-de-pronostico.md).
-- **Cada eslabón pronostica lo que le piden, no lo que se vende.** La variabilidad crece aguas arriba: es el [efecto látigo](efecto-latigo.md).
-- **Ventas y operaciones tienen números distintos.** Es el problema que el S&OP quiere resolver con un plan único.
+- Se planifica con un número sin error declarado. Todo plan parte de un pronóstico; si nadie mide cuánto se equivoca, el colchón queda a ojo. Ver [error de pronóstico](error-de-pronostico.md).
+- Cada eslabón pronostica lo que le piden, no lo que se vende. La variabilidad crece aguas arriba: es el [efecto látigo](efecto-latigo.md).
+- Ventas y operaciones tienen números distintos. Es el problema que el S&OP quiere resolver con un plan único.
 
 ## Lo que un sistema guarda para planificar
 
-APQC deja ver los objetos comunes: un pronóstico base y uno de consenso (dos versiones del mismo número), el disponible para prometer, un plan de materiales «unconstrained» y otro «constrained», el plan de distribución por destino y los datos maestros de planificación («Maintain master data»). Los ERP abiertos consultados guardan el pronóstico y el plan maestro como documentos separados y encadenados, el segundo generado del primero, y no tienen un objeto para la reunión de acuerdo entre áreas. Cada nota de la vertical detalla lo suyo. La cantidad por lugar y estado, que es la entrada de todos los planes, es de [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md).
+APQC deja ver los objetos comunes: un pronóstico base y uno de consenso (dos versiones del mismo número), el disponible para prometer, un plan de materiales «unconstrained» y otro «constrained», el plan de distribución por destino y los datos maestros de planificación («Maintain master data»). Los ERP abiertos consultados guardan el pronóstico y el plan maestro como documentos separados y encadenados, el segundo generado del primero, y no tienen un objeto para la reunión de acuerdo entre áreas. La cantidad por lugar y estado, que es la entrada de todos los planes, es de [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md).
 
 ## Qué hay en Planificación
 

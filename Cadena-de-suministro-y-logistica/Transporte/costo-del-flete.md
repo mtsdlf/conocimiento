@@ -37,8 +37,8 @@ Rodrigue separa lo que cuesta mover la carga de lo que se cobra: «Rates are the
 
 Rodrigue reparte el costo en dos partes:
 
-- **De terminal**: «loading, transshipment, and unloading». Los de origen y destino son inevitables; los intermedios, los del transbordo, se pueden evitar.
-- **De línea** (linehaul): «Costs that are a function of the distance over which a unit of freight or passenger is carried. Weight is also a cost function when freight is involved».
+- De terminal: «loading, transshipment, and unloading». Los de origen y destino son inevitables; los intermedios, los del transbordo, se pueden evitar.
+- De línea (linehaul): «Costs that are a function of the distance over which a unit of freight or passenger is carried. Weight is also a cost function when freight is involved».
 
 Caplice lo escribe como costo por envío con una parte fija y una variable: «c_f = c_s(1 + n_s) + c_d d» y «c_v = c_vs + c_vd d». La parte fija suma un costo por parada y otro por distancia; la variable, un costo por ítem y otro por ítem y distancia (lectura de la base sobre los términos de la fuente).
 
@@ -80,11 +80,11 @@ La tarifa de contrato sale de una licitación. Según el resumen de Sheffi (2004
 
 Tres ideas de la literatura, todas de dos autores del mismo grupo del MIT y leídas como resumen:
 
-- **Asignar es un problema combinatorio.** Caplice y Sheffi (2003): «the shipper's assignment problem involves a combinatorial number of choices and cannot be easily executed manually», y por eso la licitación se beneficia de la optimización.
-- **Ofertar por paquetes de carriles.** En una subasta combinatoria el transportista oferta por un conjunto de carriles que le cierra en su red. Sheffi dice que así el cargador baja costos «while protecting carriers from winning lanes that do not fit their networks», porque tiene en cuenta las economías de alcance, «which many consider more important than economies of scale in transportation operations».
-- **El precio no alcanza.** Sheffi: el nivel de servicio del transportista y otras variables «are as important as price in determining which carrier should serve what lane».
+- Asignar es un problema combinatorio. Caplice y Sheffi (2003): «the shipper's assignment problem involves a combinatorial number of choices and cannot be easily executed manually», y por eso la licitación se beneficia de la optimización.
+- Ofertar por paquetes de carriles. En una subasta combinatoria el transportista oferta por un conjunto de carriles que le cierra en su red. Sheffi dice que así el cargador baja costos «while protecting carriers from winning lanes that do not fit their networks», porque tiene en cuenta las economías de alcance, «which many consider more important than economies of scale in transportation operations».
+- El precio no alcanza. Según Sheffi, el nivel de servicio del transportista y otras variables «are as important as price in determining which carrier should serve what lane».
 
-El resultado se guarda en una **guía de ruteo** (routing guide). Caplice (2007) dice que las subastas se usan para llenar estos catálogos «with pricing, assignments, and priority logic», y que los mercados electrónicos los complementan «in cases where the catalog fails». En la práctica, cuando el transportista asignado rechaza la carga, se pasa al siguiente de la guía o al spot (lectura de la base).
+El resultado se guarda en una guía de ruteo (routing guide). Caplice (2007) dice que las subastas se usan para llenar estos catálogos «with pricing, assignments, and priority logic», y que los mercados electrónicos los complementan «in cases where the catalog fails». En la práctica, cuando el transportista asignado rechaza la carga, se pasa al siguiente de la guía o al spot (lectura de la base).
 
 > [!NOTE] Sin fuente todavía: cómo se arma un pliego de licitación, sus plazos y los criterios con que se puntúa en la práctica.
 
@@ -98,11 +98,11 @@ Después del viaje, el transportista factura y el cargador controla. Según el r
 
 Los sistemas abiertos consultados muestran tres maneras de calcular el flete:
 
-- **Regla por tramos.** Un ERP abierto, según el resumen de su documentación, calcula un cargo fijo o por tramos del total neto o del peso neto, con una tabla «desde, hasta, monto», los países donde aplica y la cuenta contable. El cargo puede bajar cuando sube el valor del pedido.
-- **Cotización al transportista.** Otro pide la tarifa al transportista («Get Rate») o, además, crea el envío y la etiqueta. Le suma un «Margin on Rate» para cubrir «handling fees, packaging materials, exchange rates», ofrece envío gratis sobre un monto y un porcentaje de seguro, y guarda cada cotización pedida. Su ejemplo muestra que el transportista puede informar un peso distinto del cargado: 6 kilos contra 7.
-- **Costo real por tramo.** Un tercero guarda, en cada tramo, el peso facturable y el costo real separado en transporte, servicio y otros, con su moneda; en el envío, un costo estimado y un cargo adicional con su descripción (según el resumen de su modelo de datos).
+- Regla por tramos. Un ERP abierto, según el resumen de su documentación, calcula un cargo fijo o por tramos del total neto o del peso neto, con una tabla «desde, hasta, monto», los países donde aplica y la cuenta contable. El cargo puede bajar cuando sube el valor del pedido.
+- Cotización al transportista. Otro pide la tarifa al transportista («Get Rate») o, además, crea el envío y la etiqueta. Le suma un «Margin on Rate» para cubrir «handling fees, packaging materials, exchange rates», ofrece envío gratis sobre un monto y un porcentaje de seguro, y guarda cada cotización pedida. Su ejemplo muestra que el transportista puede informar un peso distinto del cargado: 6 kilos contra 7.
+- Costo real por tramo. Un tercero guarda, en cada tramo, el peso facturable y el costo real separado en transporte, servicio y otros, con su moneda; en el envío, un costo estimado y un cargo adicional con su descripción (según el resumen de su modelo de datos).
 
-Las dos primeras son de paquetería y comercio electrónico; muestran que la tarifa se calcula con peso, distancia y reglas, no cómo se tarifa la carga entre empresas.
+Las dos primeras son de paquetería y comercio electrónico: muestran que la tarifa se calcula con peso, distancia y reglas, y no cómo se tarifa la carga entre empresas.
 
 De las fuentes del tema sale, como inferencia de la base, la ficha de una tarifa de carga: transportista, carril o zonas de origen y destino, modo y servicio, unidad de cobro (peso, volumen, pallet, contenedor, kilómetro), forma (de las cinco de arriba), escalas, mínimo, moneda, vigencia y recargos. La guía de ruteo suma la asignación y la prioridad por carril. Junto al cálculo van el peso real, el volumétrico y el facturable, y del lado del control, la factura del transportista con la diferencia entre lo esperado y lo cobrado.
 

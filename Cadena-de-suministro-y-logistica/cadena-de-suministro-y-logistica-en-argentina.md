@@ -26,7 +26,7 @@ revisado:
 
 Lo que la Argentina le agrega a la cadena de suministro, sin lo fiscal: el Código Aduanero deja que cualquier persona importe o exporte sin inscribirse en un registro y gestione el despacho aduanero por sí misma o con un despachante, y distingue la importación para consumo de la temporaria. Las declaraciones se hacen en el Sistema Informático MALVINA, la importación para consumo se anticipa en el SEDI, el courier tiene un tope de valor por envío y el transportista de cargas se inscribe en el RUTA. El remito y el COT del traslado interno están en Inventario.
 
-Es ley y cambia seguido: la nota es una copia al 27 de noviembre de 2026. El Código Aduanero se leyó en el texto consolidado de InfoLeg, por el resumen de una herramienta, y es una sola fuente; lo que es ley pide dos y acá hay una. No reemplaza a un despachante de aduana, a un contador ni a un abogado. Lo general está en [Cadena de suministro y logística](cadena-de-suministro-y-logistica.md) y en [Comercio exterior](Comercio-exterior/comercio-exterior.md). Lo fiscal (derechos, tasas, IVA y percepciones de la importación, reintegros de la exportación) es de Impuestos, todavía no armado.
+Es ley y cambia seguido: lo que sigue es una copia al 27 de noviembre de 2026. El Código Aduanero se leyó en el texto consolidado de InfoLeg, por el resumen de una herramienta, y es una sola fuente; lo que es ley pide dos y acá hay una. No reemplaza a un despachante de aduana, a un contador ni a un abogado. Lo general está en [Cadena de suministro y logística](cadena-de-suministro-y-logistica.md) y en [Comercio exterior](Comercio-exterior/comercio-exterior.md). Lo fiscal (derechos, tasas, IVA y percepciones de la importación, reintegros de la exportación) es de Impuestos, todavía no armado.
 
 ## La ley que ordena todo: el Código Aduanero
 
@@ -61,8 +61,8 @@ El agente de transporte aduanero es otra figura. El art. 57 lo define como las p
 
 El código separa dos destinaciones de importación, que en la nota general de [aduana](Comercio-exterior/aduana.md#para-qué-entra-los-regímenes) se presentan como regímenes:
 
-- **Para consumo** (art. 233): «aquella en virtud de la cual la mercadería importada puede permanecer por tiempo indeterminado dentro del territorio aduanero».
-- **Temporaria** (art. 250): permite que la mercadería permanezca «con una finalidad y por un plazo determinado», sometida desde su libramiento «a la obligación de reexportarla para consumo con anterioridad al vencimiento del mencionado plazo». El art. 251 admite reexportarla en el mismo estado o después de transformarla, repararla o perfeccionarla.
+- Para consumo (art. 233): «aquella en virtud de la cual la mercadería importada puede permanecer por tiempo indeterminado dentro del territorio aduanero».
+- Temporaria (art. 250): permite que la mercadería permanezca «con una finalidad y por un plazo determinado», sometida desde su libramiento «a la obligación de reexportarla para consumo con anterioridad al vencimiento del mencionado plazo». El art. 251 admite reexportarla en el mismo estado o después de transformarla, repararla o perfeccionarla.
 
 El art. 217 regula cuándo el importador solicita la destinación: según el resumen de la lectura, antes de que llegue el medio de transporte o dentro de un plazo desde su llegada.
 

@@ -44,9 +44,9 @@ La tercera función es la que hace distinto al conocimiento de embarque. Con el 
 
 No todo documento marítimo transfiere la mercadería. Según la misma fuente:
 
-- **Nominativo** (straight): la carga se entrega a una persona determinada.
-- **A la orden**: se endosa, y por eso se puede negociar o dar en garantía. Es el que funciona como título.
-- **Sea waybill** (guía marítima no negociable): «gives the bearer the right to possession of the cargo, but does not confer title». Como no es título, no hace falta presentar el original para retirar la carga.
+- Nominativo (straight): la carga se entrega a una persona determinada.
+- A la orden: se endosa, y por eso se puede negociar o dar en garantía. Es el que funciona como título.
+- Sea waybill (guía marítima no negociable): «gives the bearer the right to possession of the cargo, but does not confer title». Como no es título, no hace falta presentar el original para retirar la carga.
 
 La elección importa para el pago. Un banco que financia la operación quiere un documento que represente la mercadería, y eso es el conocimiento a la orden (lectura de la base). Cómo se usa en una carta de crédito es de Tesorería y finanzas de la empresa en marcha, todavía no armado.
 

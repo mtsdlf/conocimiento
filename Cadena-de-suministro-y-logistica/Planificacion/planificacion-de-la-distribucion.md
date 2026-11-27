@@ -28,12 +28,12 @@ El glosario del CSCMP lo define como «A system of determining demands for inven
 
 El DRP aplica a una red de depósitos la cuenta que el MRP aplica a una lista de materiales. Unas diapositivas de un curso de DRP, según el resumen del buscador, lo presentan así: adapta el MRP a redes de distribución de varios niveles. La cuenta, como la explican las diapositivas de MIT 2.854 sobre el MRP:
 
-- **Necesidades brutas**: «What must be delivered in the future, and when». En un depósito, el pronóstico más los pedidos de clientes ya tomados.
-- **Recepciones programadas**: lo que ya se pidió y todavía no llegó.
-- **Stock proyectado**: lo que va a quedar al final de cada período.
-- **Necesidades netas**: «(Gross requirements) – (On-hand inventory)», lo que falta después de usar el stock.
-- **Recepciones de pedidos planificados**: lo que tiene que llegar para cubrir lo neto, ajustado al tamaño de lote.
-- **Lanzamientos de pedidos planificados**: lo mismo, corrido hacia atrás por el plazo. «Lead times are 1 week. Therefore, order release must occur one week before delivery is required.»
+- Necesidades brutas: «What must be delivered in the future, and when». En un depósito, el pronóstico más los pedidos de clientes ya tomados.
+- Recepciones programadas: lo que ya se pidió y todavía no llegó.
+- Stock proyectado: lo que va a quedar al final de cada período.
+- Necesidades netas: «(Gross requirements) – (On-hand inventory)», lo que falta después de usar el stock.
+- Recepciones de pedidos planificados: lo que tiene que llegar para cubrir lo neto, ajustado al tamaño de lote.
+- Lanzamientos de pedidos planificados: lo mismo, corrido hacia atrás por el plazo. «Lead times are 1 week. Therefore, order release must occur one week before delivery is required.»
 
 El tiempo se divide en períodos: «time buckets — days, weeks, or whatever is convenient». El stock de seguridad entra como piso: MIT lo define como «the planned minimal inventory level», en lugar de cero.
 
@@ -58,7 +58,7 @@ En el MRP, «The planned order releases for Level 0 are the gross requirements f
 
 Un ejemplo de la base (no de una fuente), con la misma cuenta. Un central abastece a dos depósitos durante seis semanas.
 
-**Depósito A**: vende 20 por semana, tiene 40, stock de seguridad 10, lote de 50, una semana de viaje desde el central.
+Depósito A: vende 20 por semana, tiene 40, stock de seguridad 10, lote de 50, una semana de viaje desde el central.
 
 | Semana | 1 | 2 | 3 | 4 | 5 | 6 |
 |---|---|---|---|---|---|---|
@@ -68,7 +68,7 @@ Un ejemplo de la base (no de una fuente), con la misma cuenta. Un central abaste
 | Recepciones planificadas | | 50 | | | 50 | |
 | Lanzamientos planificados | 50 | | | 50 | | |
 
-**Depósito B**: vende 15 por semana, tiene 45, stock de seguridad 5, lote de 40, dos semanas de viaje.
+Depósito B: vende 15 por semana, tiene 45, stock de seguridad 5, lote de 40, dos semanas de viaje.
 
 | Semana | 1 | 2 | 3 | 4 | 5 | 6 |
 |---|---|---|---|---|---|---|
@@ -78,7 +78,7 @@ Un ejemplo de la base (no de una fuente), con la misma cuenta. Un central abaste
 | Recepciones planificadas | | | 40 | | | 40 |
 | Lanzamientos planificados | 40 | | | 40 | | |
 
-**Central**: sus necesidades brutas son la suma de los lanzamientos de A y B. Tiene 120, sin stock de seguridad, repone lote por lote desde la fábrica o el proveedor con dos semanas de plazo.
+Central: sus necesidades brutas son la suma de los lanzamientos de A y B. Tiene 120, sin stock de seguridad, repone lote por lote desde la fábrica o el proveedor con dos semanas de plazo.
 
 | Semana | 1 | 2 | 3 | 4 | 5 | 6 |
 |---|---|---|---|---|---|---|
@@ -108,10 +108,10 @@ La tabla es síntesis de la base. Una empresa puede usar los dos: DRP entre el c
 
 MIT enumera los problemas del MRP, que son los mismos:
 
-- **Supone certeza.** «MRP is deterministic but reality is not. Therefore, the system needs safety stock and safety lead times.» El DRP hereda el error de cada [pronóstico de demanda](pronostico-de-demanda.md) de la red.
-- **Supone capacidad infinita.** Calcula lo que hace falta, no lo que el central, el camión o la fábrica pueden. Por eso «it frequently produces non-optimal or infeasible schedules» y «it requires constant manual intervention».
-- **Es nervioso.** «Nervousness — drastic changes in schedules due to small deviations from plans». Un cambio chico en un depósito mueve un lote en el central. MIT propone congelar las primeras semanas del plan y pregunta: «What price is paid for freezing?»
-- **Pasa los lotes hacia arriba.** El central ve golpes aunque la venta sea pareja, como en el ejemplo. Es una de las causas del [efecto látigo](efecto-latigo.md), la agrupación de pedidos.
+- Supone certeza. «MRP is deterministic but reality is not. Therefore, the system needs safety stock and safety lead times.» El DRP hereda el error de cada [pronóstico de demanda](pronostico-de-demanda.md) de la red.
+- Supone capacidad infinita. Calcula lo que hace falta, no lo que el central, el camión o la fábrica pueden. Por eso «it frequently produces non-optimal or infeasible schedules» y «it requires constant manual intervention».
+- Es nervioso. «Nervousness — drastic changes in schedules due to small deviations from plans». Un cambio chico en un depósito mueve un lote en el central. MIT propone congelar las primeras semanas del plan y pregunta: «What price is paid for freezing?»
+- Pasa los lotes hacia arriba. El central ve golpes aunque la venta sea pareja, como en el ejemplo. Es una de las causas del [efecto látigo](efecto-latigo.md), la agrupación de pedidos.
 
 > [!NOTE] Sin fuente todavía: cómo se reparte el stock del central cuando no alcanza para todos los depósitos (el reparto justo, «fair share», o el despliegue). El ERP comercial nombra la función de despliegue («deployment function») sin describirla.
 
@@ -121,16 +121,16 @@ APQC lista lo que la red le impone al plan: restricciones de depósito, de inven
 
 Los tres ERP abiertos consultados implementan el plan por períodos para la producción, no un DRP de depósitos; muestran el patrón común:
 
-- **La grilla por artículo, lugar y período**: uno guarda filas de stock inicial, demanda pronosticada, demanda indirecta, reposición y stock pronosticado, con períodos anuales, mensuales, semanales o diarios. Su «demanda indirecta» es la fila de lo que piden otros niveles: el mismo mecanismo que suma los lanzamientos de los depósitos en el central.
-- **La fecha de lanzamiento** separada de la fecha de entrega, con el plazo acumulado: otro la guarda como `order_release_date`.
-- **Un evento por movimiento planificado**: el tercero registra producto, fecha, cantidad, lugar y un lugar de destino (`facilityIdTo`) para los traslados.
-- **La sugerencia no es la orden**: el primero sugiere cantidades y no crea órdenes solo, y marca con colores si la orden generada coincide con lo sugerido.
+- La grilla por artículo, lugar y período: uno guarda filas de stock inicial, demanda pronosticada, demanda indirecta, reposición y stock pronosticado, con períodos anuales, mensuales, semanales o diarios. Su «demanda indirecta» es la fila de lo que piden otros niveles: el mismo mecanismo que suma los lanzamientos de los depósitos en el central.
+- La fecha de lanzamiento separada de la fecha de entrega, con el plazo acumulado: otro la guarda como `order_release_date`.
+- Un evento por movimiento planificado: el tercero registra producto, fecha, cantidad, lugar y un lugar de destino (`facilityIdTo`) para los traslados.
+- La sugerencia no es la orden: el primero sugiere cantidades y no crea órdenes solo, y marca con colores si la orden generada coincide con lo sugerido.
 
 Lo que agrega la base para un DRP de depósitos:
 
-- **El árbol de la red**: qué lugar abastece a cuál, con plazo de viaje y proporción si hay más de un origen.
-- **Parámetros por artículo y lugar**: stock de seguridad, regla de lote, plazo.
-- **El pedido planificado de traslado**, con origen, destino, fecha de lanzamiento y de llegada, que al confirmarse pasa a ser una transferencia entre depósitos. La salida y la entrada del traslado se registran en Inventario; el viaje, en [Transporte](../Transporte/transporte.md).
-- **Una zona congelada** del horizonte, para que el plan no cambie todos los días.
+- El árbol de la red: qué lugar abastece a cuál, con plazo de viaje y proporción si hay más de un origen.
+- Parámetros por artículo y lugar: stock de seguridad, regla de lote, plazo.
+- El pedido planificado de traslado, con origen, destino, fecha de lanzamiento y de llegada, que al confirmarse pasa a ser una transferencia entre depósitos. La salida y la entrada del traslado se registran en Inventario; el viaje, en [Transporte](../Transporte/transporte.md).
+- Una zona congelada del horizonte, para que el plan no cambie todos los días.
 
 Para leer más: las diapositivas de MIT 2.854 sobre MRP, de la 10 a la 25, tienen la cuenta completa con un ejemplo en ocho semanas.

@@ -44,7 +44,7 @@ CSCMP enumera cuatro diferencias del 4PL con el 3PL: suele ser una entidad apart
 
 Una misma palabra puede tener una definición legal distinta de la comercial. El glosario cita una ley de Estados Unidos de 2008 que define al 3PL como quien «solely receives, holds, or otherwise transports a consumer product in the ordinary course of business but who does not take title to the product». No da el nombre de la norma, y la nota no la verificó.
 
-**1PL y 2PL no tienen definición oficial.** El glosario de CSCMP no tiene entradas para «first-party» ni «second-party logistics»; solo la mención de que antes del 3PL los contratos tenían dos partes. Se usan por convención, por analogía con esa historia.
+1PL y 2PL no tienen definición oficial. El glosario de CSCMP no tiene entradas para «first-party» ni «second-party logistics»; solo la mención de que antes del 3PL los contratos tenían dos partes. Se usan por convención, por analogía con esa historia.
 
 > [!NOTE] Sin fuente todavía: una definición con autoridad de 1PL y 2PL (el diccionario de ASCM no se pudo leer), la edición vigente del glosario de CSCMP y la definición original del 4PL en un documento de quien la registró.
 
@@ -88,10 +88,10 @@ Tres piezas que un sistema necesita no se encontraron en fuentes generales:
 
 Lo que sigue es inferencia de la base, salvo donde se dice: no se consultó documentación de sistemas sobre el operador y su contrato.
 
-- **El operador es una parte con servicios.** Por la lista de CSCMP, un mismo operador puede dar transporte, almacenaje y preparación; el sistema lo registra una vez y le cuelga los servicios contratados.
-- **Su depósito es una ubicación propia en el sistema, aunque el edificio sea ajeno.** El stock sigue siendo de la empresa, y lo que necesita el sistema es saber cuánto hay ahí y en qué [estado](../../Inventario-y-depositos/Existencias/estados-del-stock.md). Las cantidades las informa el operador, así que el [control del stock](../../Inventario-y-depositos/Control-del-stock/control-del-stock.md) pasa a ser conciliar su registro con el propio.
-- **Lo que se le manda al operador es una orden, no un movimiento.** El sistema le pide que despache o que reciba, y registra el movimiento cuando el operador confirma. En la Argentina, mandar stock a un depósito de terceros lleva remito, como explica [Inventario y depósitos en la Argentina](../../Inventario-y-depositos/inventario-y-depositos-en-argentina.md).
-- **Con un 4PL hay una sola interfaz.** Si el 4PL es, como dice CSCMP, la interfaz única con varios operadores, el sistema habla con él y no con cada uno.
-- **El envío directo ya está modelado en los sistemas abiertos**, como un solo movimiento del proveedor al cliente; está en [red de distribución](red-de-distribucion.md#qué-tiene-que-poder-representar-un-sistema-de-la-red).
+- El operador es una parte con servicios. Por la lista de CSCMP, un mismo operador puede dar transporte, almacenaje y preparación; el sistema lo registra una vez y le cuelga los servicios contratados.
+- Su depósito es una ubicación propia en el sistema, aunque el edificio sea ajeno. El stock sigue siendo de la empresa, y lo que necesita el sistema es saber cuánto hay ahí y en qué [estado](../../Inventario-y-depositos/Existencias/estados-del-stock.md). Las cantidades las informa el operador, así que el [control del stock](../../Inventario-y-depositos/Control-del-stock/control-del-stock.md) pasa a ser conciliar su registro con el propio.
+- Lo que se le manda al operador es una orden, no un movimiento. El sistema le pide que despache o que reciba, y registra el movimiento cuando el operador confirma. En la Argentina, mandar stock a un depósito de terceros lleva remito, como explica [Inventario y depósitos en la Argentina](../../Inventario-y-depositos/inventario-y-depositos-en-argentina.md).
+- Con un 4PL hay una sola interfaz. Si el 4PL es, como dice CSCMP, la interfaz única con varios operadores, el sistema habla con él y no con cada uno.
+- El envío directo ya está modelado en los sistemas abiertos, como un solo movimiento del proveedor al cliente; está en [red de distribución](red-de-distribucion.md#qué-tiene-que-poder-representar-un-sistema-de-la-red).
 
 Para leer más: el glosario de CSCMP (edición 2013), entradas de 3PL, 4PL y socio logístico líder, por el origen del «tercero» y la diferencia entre operar y coordinar; y el informe completo de la última edición del estudio anual de 3PL, con su metodología, citando siempre el año.

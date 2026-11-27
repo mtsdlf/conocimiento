@@ -90,11 +90,11 @@ Los ERP abiertos consultados registran el pronóstico de ventas y el plan maestr
 
 Lo que haría falta para sostener el ciclo, por las salidas que nombra el caso de PLoS ONE:
 
-- **El ciclo**, con su mes y sus fechas de paso.
-- **Las versiones del plan**: demanda sin restricciones, abastecimiento con restricciones, propuesta y plan aprobado, cada una por familia y mes.
-- **Las brechas** entre demanda y capacidad, con las opciones evaluadas.
-- **Las decisiones** de la reunión ejecutiva, con responsable y fecha.
-- **El plan aprobado contra el presupuesto** y contra lo real, mes a mes.
+- El ciclo, con su mes y sus fechas de paso.
+- Las versiones del plan: demanda sin restricciones, abastecimiento con restricciones, propuesta y plan aprobado, cada una por familia y mes.
+- Las brechas entre demanda y capacidad, con las opciones evaluadas.
+- Las decisiones de la reunión ejecutiva, con responsable y fecha.
+- El plan aprobado contra el presupuesto y contra lo real, mes a mes.
 
 Las prácticas que miden los estudios («organizational management, technological integration, measurement systems and integration of plans», según Thomé, Sousa y do Carmo) sugieren además guardar las métricas de cada área.
 

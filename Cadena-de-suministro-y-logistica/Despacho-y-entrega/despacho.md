@@ -29,7 +29,7 @@ Es el primer paso de [Despacho y entrega](despacho-y-entrega.md). Toma el bulto 
 
 En este tema, despacho nombra ese documento, y despachar, confirmar la salida. El envío es lo que se le entrega a un transportista; el viaje de entrega, el recorrido de un vehículo con varios despachos; y la entrega, el momento en que el destinatario recibe. El despacho aduanero es otro trámite y está en [aduana](../Comercio-exterior/aduana.md).
 
-## Tres documentos que conviene no mezclar
+## Despacho, envío con el transportista y viaje de entrega
 
 Los tres sistemas abiertos consultados no coinciden en los estados, pero sí en una forma: separan lo que sale, el trato con el transportista y el viaje. La lectura del patrón es de la base; no es una norma.
 
@@ -45,9 +45,9 @@ Un camión propio que reparte a diez clientes es un viaje de entrega con diez de
 
 No hay un estándar de estados para el despacho. Cada sistema abierto corta en un grano distinto:
 
-- **Uno modela el envío entero en un solo estado**: «Input», «Scheduled», «Picked», «Packed», «Shipped», «Delivered» y «Cancelled». Declara qué transiciones valen: se puede cancelar hasta «Picked», pero de «Packed» solo se pasa a «Shipped» y de ahí a «Delivered». Es decir, una vez embalado, el envío ya no se cancela. Separa en otro estado la reserva con el transportista: «Not Started», «Confirmed», «Accepted», «Voided».
-- **Otro usa una transferencia genérica**, que sirve también para recibir y mover dentro del depósito: «Draft», «Waiting Another Operation», «Waiting», «Ready», «Done», «Cancelled». No tiene «en tránsito» ni «entregado». Las transferencias se agrupan en un lote con estados «Draft», «In progress», «Done» y «Cancelled».
-- **El tercero separa tres documentos.** El envío con transportista tiene «Draft», «Submitted», «Booked», «Cancelled» y «Completed», y aparte un estado de seguimiento: «In Progress», «Delivered», «Returned», «Lost». El viaje de entrega tiene «Draft», «Scheduled», «In Transit», «Completed» y «Cancelled».
+- Uno modela el envío entero en un solo estado: «Input», «Scheduled», «Picked», «Packed», «Shipped», «Delivered» y «Cancelled». Declara qué transiciones valen: se puede cancelar hasta «Picked», pero de «Packed» solo se pasa a «Shipped» y de ahí a «Delivered». Separa en otro estado la reserva con el transportista: «Not Started», «Confirmed», «Accepted», «Voided».
+- Otro usa una transferencia genérica, que sirve también para recibir y mover dentro del depósito: «Draft», «Waiting Another Operation», «Waiting», «Ready», «Done», «Cancelled». No tiene «en tránsito» ni «entregado». Las transferencias se agrupan en un lote con estados «Draft», «In progress», «Done» y «Cancelled».
+- El tercero separa tres documentos. El envío con transportista tiene «Draft», «Submitted», «Booked», «Cancelled» y «Completed», y aparte un estado de seguimiento: «In Progress», «Delivered», «Returned», «Lost». El viaje de entrega tiene «Draft», «Scheduled», «In Transit», «Completed» y «Cancelled».
 
 Tres cosas salen de comparar (lectura de la base). El estado de la mercadería y el del trámite con el transportista van separados. «En tránsito» vive en el viaje de entrega o en el seguimiento, no en el documento de salida; como estado del stock entre depósitos propios, está en [estados del stock](../../Inventario-y-depositos/Existencias/estados-del-stock.md). Y ninguno de los tres tiene un estado de entrega fallida o de reintento: el más cercano es el «Returned» o «Lost» del seguimiento.
 
@@ -63,7 +63,7 @@ La regla que más le importa a un sistema es la de no repetir: «an individual S
 
 ## La etiqueta logística
 
-La etiqueta logística de GS1 hace legible el SSCC en el bulto; para leer la especificación, las secciones 2.2.1, 3.3.1 y 6.6. Según la especificación, «The SSCC is the single mandatory element for all GS1 Logistic Labels». El código de barras obligatorio es GS1-128, y se puede sumar un GS1 DataMatrix o un QR de GS1.
+La etiqueta logística de GS1 hace legible el SSCC en el bulto (secciones 2.2.1, 3.3.1 y 6.6 de la especificación). Según la especificación, «The SSCC is the single mandatory element for all GS1 Logistic Labels». El código de barras obligatorio es GS1-128, y se puede sumar un GS1 DataMatrix o un QR de GS1.
 
 La etiqueta se arma en segmentos para el proveedor, el cliente y el transportista, y «Each label segment may be applied to the logistic unit at a different point in time as the relevant information becomes known». Así, el bulto puede salir del embalaje con el SSCC y recibir después los datos del transportista (lectura de la base). El SSCC es la clave que une el bulto físico con lo que viaja por intercambio electrónico de datos (EDI).
 
@@ -84,13 +84,13 @@ El mismo mensaje DESADV sirve como aviso de devolución, que es el camino de [lo
 
 ## Lo que un sistema guarda del despacho
 
-Lo que sigue junta los datos que repiten los sistemas consultados y lo que piden GS1 y el aviso; el armado es de la base.
+El armado es de la base, a partir de los datos que repiten los sistemas consultados y de lo que piden GS1 y el aviso.
 
-- **Despacho**: tipo (salida a cliente, devolución, traslado entre depósitos), destinatario, dirección y contacto, depósito de origen, pedido de origen, renglones con artículo, cantidad y [lote o serie](../../Inventario-y-depositos/Existencias/lote-y-serie.md), peso, fecha programada, fecha límite y fecha en que se hizo. Admite salidas parciales: lo que no salió queda como despacho pendiente vinculado al original.
-- **Bulto**: SSCC, contenido, peso, vínculo a la etiqueta. Las cantidades de los bultos no pueden superar las del despacho, según el resumen del manual de un ERP abierto.
-- **Envío con el transportista**: transportista y servicio, dirección y franja de retiro, peso total, valor declarado, si va en pallets, número de guía, enlace de seguimiento, estado de la reserva y estado de seguimiento. Uno de los sistemas pide el peso del producto para cotizar con el transportista y guarda una referencia de seguimiento en el documento de salida.
-- **Viaje de entrega**: vehículo, conductor, hora de salida, distancia total y paradas ordenadas. Cada parada lleva cliente, dirección, despacho vinculado, llegada estimada y una marca de visitada. Lo que hace falta para armar el recorrido está en [consolidación y ruteo](../Transporte/consolidacion-y-ruteo.md#el-viaje-y-sus-paradas-en-un-sistema).
-- **Aviso de despacho**: uno por envío, con el contenido por bulto y la referencia al pedido.
+- Despacho: tipo (salida a cliente, devolución, traslado entre depósitos), destinatario, dirección y contacto, depósito de origen, pedido de origen, renglones con artículo, cantidad y [lote o serie](../../Inventario-y-depositos/Existencias/lote-y-serie.md), peso, fecha programada, fecha límite y fecha en que se hizo. Admite salidas parciales: lo que no salió queda como despacho pendiente vinculado al original.
+- Bulto: SSCC, contenido, peso, vínculo a la etiqueta. Las cantidades de los bultos no pueden superar las del despacho, según el resumen del manual de un ERP abierto.
+- Envío con el transportista: transportista y servicio, dirección y franja de retiro, peso total, valor declarado, si va en pallets, número de guía, enlace de seguimiento, estado de la reserva y estado de seguimiento. Uno de los sistemas pide el peso del producto para cotizar con el transportista y guarda una referencia de seguimiento en el documento de salida.
+- Viaje de entrega: vehículo, conductor, hora de salida, distancia total y paradas ordenadas. Cada parada lleva cliente, dirección, despacho vinculado, llegada estimada y una marca de visitada. Lo que hace falta para armar el recorrido está en [consolidación y ruteo](../Transporte/consolidacion-y-ruteo.md#el-viaje-y-sus-paradas-en-un-sistema).
+- Aviso de despacho: uno por envío, con el contenido por bulto y la referencia al pedido.
 
 Cada cambio de estado es un hecho con fecha que no se edita, como en el [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md). A juicio de la base, la salida confirmada es la que baja el stock del depósito de origen.
 

@@ -87,11 +87,11 @@ Para la carta de porte electrónica en el CMR existe el Protocolo Adicional de G
 
 Del texto del CMR se deduce qué hace falta para reclamar; el esquema es inferencia de la base, no un modelo publicado:
 
-- **El intento**: fecha y hora, resultado (conforme, con diferencia, fallida) y, si falló, el motivo.
-- **Quién recibió**: nombre, documento o relación con el destinatario, y la firma.
-- **La puesta a disposición**: la fecha en que la mercadería quedó a disposición del destinatario, de donde corren los veintiún días por demora y la prescripción.
-- **Las reservas**: si hubo, su texto, su fecha, si fueron por escrito y si se verificó la carga junto con el transportista.
-- **La diferencia**: por renglón y por bulto (el SSCC del [despacho](despacho.md)), la cantidad, el tipo (faltante, daño, sobrante) y el motivo.
-- **Lo que sigue**: un vínculo al despacho pendiente por lo que faltó o a la devolución por lo rechazado. En un sistema abierto, el documento de salida guarda los dos vínculos: uno al pendiente de lo no enviado y otro a la devolución.
+- El intento: fecha y hora, resultado (conforme, con diferencia, fallida) y, si falló, el motivo.
+- Quién recibió: nombre, documento o relación con el destinatario, y la firma.
+- La puesta a disposición: la fecha en que la mercadería quedó a disposición del destinatario, de donde corren los veintiún días por demora y la prescripción.
+- Las reservas: si hubo, su texto, su fecha, si fueron por escrito y si se verificó la carga junto con el transportista.
+- La diferencia: por renglón y por bulto (el SSCC del [despacho](despacho.md)), la cantidad, el tipo (faltante, daño, sobrante) y el motivo.
+- Lo que sigue: un vínculo al despacho pendiente por lo que faltó o a la devolución por lo rechazado. En un sistema abierto, el documento de salida guarda los dos vínculos: uno al pendiente de lo no enviado y otro a la devolución.
 
 La constancia, como el despacho, es un hecho que no se edita: una corrección es otro registro (criterio de la base).

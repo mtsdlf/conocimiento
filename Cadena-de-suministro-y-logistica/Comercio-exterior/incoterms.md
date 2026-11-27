@@ -20,7 +20,7 @@ Los Incoterms son once reglas de tres letras de la Cámara de Comercio Internaci
 
 Son la primera decisión de una operación de [comercio exterior](comercio-exterior.md): de la regla elegida depende quién contrata el viaje que describe [Transporte](../Transporte/transporte.md), quién paga el [flete](../Transporte/costo-del-flete.md) y qué [documentos](documentos-del-comercio-exterior.md) tiene que conseguir cada parte.
 
-## Qué son y de quién son
+## Las once reglas de la ICC
 
 La ICC las publicó por primera vez en 1936, y «Incoterms 2020 entered into force on 1 January 2020». Las describe como «a set of eleven three-letter trade terms, reflecting business-to-business practice», «Recognised by UNCITRAL as the global standard for the interpretation of the most common terms in foreign trade». Su función, según la ICC, es «clarifying the tasks, costs and risks involved in the delivery of goods».
 

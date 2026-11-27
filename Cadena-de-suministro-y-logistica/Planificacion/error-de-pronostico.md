@@ -52,10 +52,10 @@ Las competencias M lo siguen usando en versión simétrica (sMAPE): el ganador d
 
 ## Cómo se mide bien
 
-- **Sobre datos que no se usaron para ajustar.** FPP3 mide la exactitud sobre un tramo de prueba, separado del de entrenamiento. Medir sobre lo mismo con que se ajustó el método da un error demasiado optimista.
-- **Al rezago en que se decide.** Si el pedido sale con dos meses de anticipación, importa el error del pronóstico hecho dos meses antes, no el del mes anterior (criterio de la base).
-- **Contra una referencia.** Un error del 30 % puede ser bueno o malo; el MASE lo dice comparando contra el ingenuo.
-- **Por artículo y agregado.** El total puede tener poco error y cada artículo mucho, porque los errores se compensan al sumar (inferencia de la base).
+- Sobre datos que no se usaron para ajustar: FPP3 mide la exactitud sobre un tramo de prueba, separado del de entrenamiento. Medir sobre lo mismo con que se ajustó el método da un error demasiado optimista.
+- Al rezago en que se decide: si el pedido sale con dos meses de anticipación, importa el error del pronóstico hecho dos meses antes, no el del mes anterior (criterio de la base).
+- Contra una referencia: un error del 30 % puede ser bueno o malo; el MASE lo dice comparando contra el ingenuo.
+- Por artículo y agregado: el total puede tener poco error y cada artículo mucho, porque los errores se compensan al sumar (inferencia de la base).
 
 ## La señal de seguimiento
 
@@ -69,10 +69,10 @@ Si el pronóstico es parejo, los errores se cancelan y la señal queda cerca de 
 
 ## Para qué sirve medir
 
-1. **Elegir el método.** Entre dos métodos gana el de menor error sobre el tramo de prueba, y un método que no le gana al ingenuo no se justifica.
-2. **Detectar el sesgo.** Un pronóstico que siempre se pasa infla el stock; uno que siempre se queda corto genera faltantes. El sesgo se corrige; el error al azar, no.
-3. **Saber si el ajuste ayudó.** Fildes y otros encontraron que los ajustes chicos «often damaged accuracy». Midiendo el error antes y después de cada ajuste se sabe si el paso suma.
-4. **Dimensionar el colchón.** El stock de seguridad se calcula con el desvío del error del pronóstico en el plazo de reposición, como explica [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md), en Inventario. Ahí la medida es el desvío (la raíz del error cuadrático medio), no el MAPE.
+1. Elegir el método: entre dos métodos gana el de menor error sobre el tramo de prueba, y un método que no le gana al ingenuo no se justifica.
+2. Detectar el sesgo: un pronóstico que siempre se pasa infla el stock; uno que siempre se queda corto genera faltantes. El sesgo se corrige; el error al azar, no.
+3. Saber si el ajuste ayudó: Fildes y otros encontraron que los ajustes chicos «often damaged accuracy». Midiendo el error antes y después de cada ajuste se sabe si el paso suma.
+4. Dimensionar el colchón: el stock de seguridad se calcula con el desvío del error del pronóstico en el plazo de reposición, como explica [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md), en Inventario. Ahí la medida es el desvío (la raíz del error cuadrático medio), no el MAPE.
 
 El tercer punto tiene nombre en la práctica, valor agregado del pronóstico (FVA): comparar el error de cada paso del proceso (el estadístico, el ajuste del planificador, el consenso) contra el de un pronóstico ingenuo.
 
@@ -82,10 +82,10 @@ El tercer punto tiene nombre en la práctica, valor agregado del pronóstico (FV
 
 Ninguno de los ERP abiertos consultados mostró un registro del error. Lo que hace falta, por inferencia de FPP3 y de la señal de seguimiento:
 
-- **Cada pronóstico congelado**, con la fecha en que se hizo y el período al que apunta, para medir a cualquier rezago.
-- **El real con signo**, de la misma serie que se pronosticó (venta, pedido o despacho).
-- **Cada versión** (estadística, ajustada, de consenso), para medir el aporte de cada paso.
-- **La medida usada junto al número**, porque MAPE, MASE y WAPE no son intercambiables.
-- **Los acumulados de la señal** (o los valores suavizados de Trigg), por artículo.
+- Cada pronóstico congelado, con la fecha en que se hizo y el período al que apunta, para medir a cualquier rezago.
+- El real con signo, de la misma serie que se pronosticó (venta, pedido o despacho).
+- Cada versión (estadística, ajustada, de consenso), para medir el aporte de cada paso.
+- La medida usada junto al número, porque MAPE, MASE y WAPE no son intercambiables.
+- Los acumulados de la señal (o los valores suavizados de Trigg), por artículo.
 
 Para leer más: FPP3, «Evaluating point forecast accuracy», entera; fijarse en la lista de problemas del MAPE y en la lectura del MASE contra 1.

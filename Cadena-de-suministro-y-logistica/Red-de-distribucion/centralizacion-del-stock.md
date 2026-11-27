@@ -63,7 +63,7 @@ La fuente no publica los valores en unidades. Con la fórmula de [stock de segur
 
 La reducción, 1 − 30,3/52,4 ≈ 42 %, coincide con la de la diapositiva. Si el 4 fuera la varianza, el porcentaje sería el mismo y las unidades cambiarían.
 
-Lo que muestra el ejemplo es el rendimiento decreciente: juntar los primeros sitios ahorra mucho; juntar el séptimo con el noveno, poco.
+El ejemplo muestra el rendimiento decreciente: juntar los primeros sitios ahorra mucho y juntar el séptimo con el noveno, poco.
 
 ## Lo que se paga por centralizar
 
@@ -83,24 +83,24 @@ El caso de la clase: un proveedor que abastece directo a 100 tiendas, con plazo 
 
 ## Dónde falla la ley
 
-La ley es un resultado de modelo, y la evidencia dice que pocas empresas cumplen el modelo.
+La ley es un resultado de modelo, y pocas empresas cumplen sus supuestos.
 
 > [!IMPORTANT] Cuánto vale la ley de la raíz cuadrada en la práctica está discutido.
-> - **A favor**: Eppen la deduce para demandas normales, idénticas e independientes, y las clases del MIT la usan como regla de cálculo.
-> - **En contra, con datos**: Oeser y Romano (2016) derivan las condiciones para el stock de ciclo, el de seguridad y el total, y las prueban con cuatro casos y una encuesta a 280 empresas alemanas. Según su resumen: «Most companies do not fulfil the assumptions of the SRL and therefore cannot apply it with accurate results». Las comerciales cumplen más supuestos que las manufactureras, los minoristas más que los mayoristas, y los supuestos se ajustan mejor al stock de ciclo que al de seguridad, al revés de como se la suele usar.
-> - **En contra, midiendo el error**: Oeser (2019), según su resumen, comparó la estimación de la ley con lo que pasó en 26 casos de empresas que redujeron depósitos. El error medio para el inventario total fue del 27,85 %, con mucha variación entre casos, y la ley «seems to mostly overestimate inventory savings from centralisation».
-> - **En contra, por la forma de la demanda**: Bimpikis y Markakis (2016), según su resumen, muestran que con demanda de cola pesada (parámetro alfa entre 1 y 2) el beneficio de agrupar crece más lento que la raíz cuadrada.
-> - **En contra, por el transporte**: Fleischmann (2016), según el resultado del buscador, encuentra que si los depósitos se reponen en camión completo con un nivel de servicio dado, la ley «is not valid».
+> - A favor: Eppen la deduce para demandas normales, idénticas e independientes, y las clases del MIT la usan como regla de cálculo.
+> - En contra, con datos: Oeser y Romano (2016) derivan las condiciones para el stock de ciclo, el de seguridad y el total, y las prueban con cuatro casos y una encuesta a 280 empresas alemanas. Según su resumen: «Most companies do not fulfil the assumptions of the SRL and therefore cannot apply it with accurate results». Las comerciales cumplen más supuestos que las manufactureras, los minoristas más que los mayoristas, y los supuestos se ajustan mejor al stock de ciclo que al de seguridad, al revés de como se la suele usar.
+> - En contra, midiendo el error: Oeser (2019), según su resumen, comparó la estimación de la ley con lo que pasó en 26 casos de empresas que redujeron depósitos. El error medio para el inventario total fue del 27,85 %, con mucha variación entre casos, y la ley «seems to mostly overestimate inventory savings from centralisation».
+> - En contra, por la forma de la demanda: Bimpikis y Markakis (2016), según su resumen, muestran que con demanda de cola pesada (parámetro alfa entre 1 y 2) el beneficio de agrupar crece más lento que la raíz cuadrada.
+> - En contra, por el transporte: Fleischmann (2016), según el resultado del buscador, encuentra que si los depósitos se reponen en camión completo con un nivel de servicio dado, la ley «is not valid».
 
 Los supuestos que se rompen más seguido, a juicio de la base: demandas correlacionadas entre zonas (una promoción nacional o el clima mueven a todas juntas, y el ahorro se achica), zonas de tamaños muy distintos, y plazos que cambian al centralizar. Eppen ya pone la correlación como condición; la fórmula con correlación no se leyó.
 
-Las clases del MIT agregan, para redes de varios escalones, que el control descentralizado con lote y punto de pedido puede «Create and amplify "lumpy" demand» y llevar a «mal-distribution of available stock, hoarding of stock, and unnecessary stock outs» (archivo lect17). Es uno de los motivos para planificar la reposición entre escalones en vez de dejar que cada depósito pida solo.
+Las clases del MIT agregan, para redes de varios escalones, que el control descentralizado con lote y punto de pedido puede «Create and amplify "lumpy" demand» y llevar a «mal-distribution of available stock, hoarding of stock, and unnecessary stock outs» (archivo lect17). Por eso conviene planificar la reposición entre escalones en vez de dejar que cada depósito pida solo.
 
 > [!NOTE] Sin fuente todavía: la crítica de Evers y Beier a la ley de la raíz cuadrada (no se encontró la obra), la fórmula con demandas correlacionadas y un ejemplo publicado con valores absolutos.
 
 ## Qué guarda un sistema para calcularlo
 
-La agrupación no es un objeto del sistema: es una consecuencia de la relación de abastecimiento, que dice qué ubicación atiende a cuál (ver [red de distribución](red-de-distribucion.md#qué-tiene-que-poder-representar-un-sistema-de-la-red)). Para recalcular el colchón cuando esa relación cambia, el ejemplo del MIT necesita, por ubicación y artículo:
+La agrupación no es un objeto del sistema, sino una consecuencia de la relación de abastecimiento, que dice qué ubicación atiende a cuál (ver [red de distribución](red-de-distribucion.md#qué-tiene-que-poder-representar-un-sistema-de-la-red)). Para recalcular el colchón cuando esa relación cambia, el ejemplo del MIT necesita, por ubicación y artículo:
 
 - la media y el desvío de la demanda que atiende, en la misma unidad de tiempo;
 - el plazo de reposición desde quien la abastece;

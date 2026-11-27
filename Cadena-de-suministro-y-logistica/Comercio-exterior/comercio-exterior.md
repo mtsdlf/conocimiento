@@ -81,7 +81,7 @@ Los estados siguen el recorrido: planificada, embarcada, en tránsito, arribada,
 
 > [!NOTE] Sin fuente todavía: cómo modelan la operación, el embarque y la declaración los sistemas abiertos; no se consultaron.
 
-## Qué hay en Comercio exterior
+## Notas de Comercio exterior
 
 - [Incoterms](incoterms.md): las once reglas de la ICC, sus dos grupos, lo que no regulan y el Incoterm como dato de la operación.
 - [Documentos del comercio exterior](documentos-del-comercio-exterior.md): el conocimiento de embarque y sus tres funciones, la guía no negociable y los documentos electrónicos transmisibles.

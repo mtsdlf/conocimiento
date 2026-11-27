@@ -29,9 +29,9 @@ El Convenio de Kyoto revisado, de la Organización Mundial de Aduanas (OMA), «e
 
 El Acuerdo sobre Facilitación del Comercio, de la Organización Mundial del Comercio (OMC), baja varios de esos principios a obligaciones:
 
-- **Gestión de riesgo** (párr. 4.2): «Each Member shall design and apply risk management in a manner as to avoid arbitrary or unjustifiable discrimination.»
-- **Ventanilla única** (art. 10, párr. 4.1): «Members shall endeavour to establish or maintain a single window, enabling traders to submit documentation.» Un solo punto donde se presentan los papeles para todos los organismos.
-- **Operadores autorizados**: «Each Member shall provide additional trade facilitation measures related to import, export, or transit formalities.» Es el trato facilitado a quien cumple ciertos criterios.
+- Gestión de riesgo (párr. 4.2): «Each Member shall design and apply risk management in a manner as to avoid arbitrary or unjustifiable discrimination.»
+- Ventanilla única (art. 10, párr. 4.1): «Members shall endeavour to establish or maintain a single window, enabling traders to submit documentation.» Un solo punto donde se presentan los papeles para todos los organismos.
+- Operadores autorizados: «Each Member shall provide additional trade facilitation measures related to import, export, or transit formalities.» Es el trato facilitado a quien cumple ciertos criterios.
 
 > [!NOTE] Sin fuente todavía: la fecha de entrada en vigor del Acuerdo sobre Facilitación del Comercio y la numeración exacta del artículo de operadores autorizados; el marco SAFE de la OMA y los criterios del operador económico autorizado (OEA).
 
@@ -53,7 +53,7 @@ La aduana necesita un valor sobre el que calcular lo que se cobra. La regla com�
 
 ## Para qué entra: los regímenes
 
-La declaración dice además qué destino aduanero se le da a la mercadería. No es lo mismo traerla para quedarse que traerla por un tiempo. El Código Aduanero argentino da un ejemplo claro de las dos destinaciones de importación:
+La declaración dice además qué destino aduanero se le da a la mercadería. No es lo mismo traerla para quedarse que traerla por un tiempo. El Código Aduanero argentino regula dos destinaciones de importación:
 
 | Destinación | Qué permite | Artículo |
 |---|---|---|
@@ -76,11 +76,11 @@ Para la planificación, la consecuencia es que el plazo de la aduana no es fijo:
 
 Como criterio de la base, un sistema que importa o exporta guarda la declaración como un documento con estados, vinculado a la [operación](comercio-exterior.md#la-operación-de-comercio-exterior-como-registro):
 
-- **Cabecera**: número que asigna la aduana, destinación o régimen, partes (importador o exportador, y quien gestiona), [Incoterm](incoterms.md), valor, moneda, país de origen.
-- **Ítems**: artículo, posición arancelaria con su versión, cantidad, peso y valor.
-- **Control**: el nivel o canal asignado, y el resultado de la revisión si la hubo.
-- **Estados**: borrador, presentada, con canal asignado, en verificación, liberada, anulada.
-- **Plazos**: en una importación temporaria, la fecha en que vence la obligación de reexportar, que el sistema tiene que avisar antes.
+- Cabecera: número que asigna la aduana, destinación o régimen, partes (importador o exportador, y quien gestiona), [Incoterm](incoterms.md), valor, moneda, país de origen.
+- Ítems: artículo, posición arancelaria con su versión, cantidad, peso y valor.
+- Control: el nivel o canal asignado, y el resultado de la revisión si la hubo.
+- Estados: borrador, presentada, con canal asignado, en verificación, liberada, anulada.
+- Plazos: en una importación temporaria, la fecha en que vence la obligación de reexportar, que el sistema tiene que avisar antes.
 
 La declaración liberada es lo que habilita la [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md) en el depósito propio. Hasta ese momento la mercadería sigue [en tránsito](../../Inventario-y-depositos/Existencias/estados-del-stock.md) o retenida, y no se puede prometer.
 

@@ -40,11 +40,11 @@ El nivel de servicio logístico mide otra cosa: si el pedido llegó a las manos 
 | Tasa de cumplimiento de la entrega (fill rate) | ¿qué parte de lo pedido se entregó? | sin definición de fuente para la entrega; la tasa de cumplimiento del stock está en [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md), de Inventario |
 | Tiempo de ciclo del pedido | ¿cuánto tardó de punta a punta? | «the period from order receipt to product delivery», según una fuente secundaria |
 
-**Pedido perfecto.** Según un fragmento del buscador de la medida de APQC, se calcula como «(% on time delivery) multiplied by (% complete orders) multiplied by (% damage free) multiplied by (% accurate documentation) then multiplied by 100». La encuesta de APQC, según el mismo fragmento, suma exactitud en la toma del pedido, asignación inmediata de stock y factura correcta.
+El pedido perfecto, según un fragmento del buscador de la medida de APQC, se calcula como «(% on time delivery) multiplied by (% complete orders) multiplied by (% damage free) multiplied by (% accurate documentation) then multiplied by 100». La encuesta de APQC, según el mismo fragmento, suma exactitud en la toma del pedido, asignación inmediata de stock y factura correcta.
 
 SCOR lo tiene como RL.1.1, «Perfect Order Fulfillment», en el atributo de confiabilidad. Según CASRAI, una fuente secundaria de calidad dudosa, se arma con cuatro métricas: «RL.2.1 (Delivered in Full)», «RL.2.2 (Delivery to Commit Date)», «RL.2.3 (Documentation Accuracy)» y «RL.2.4 (Perfect Condition)». Coincide con APQC en los cuatro componentes. Del estándar solo se leyó la introducción de ASCM, que confirma la métrica de nivel 1 (está en [marcos de la cadena de suministro](../Fundamentos/marcos-de-la-cadena-de-suministro.md#los-cinco-atributos-de-desempeño)); los componentes de nivel 2 no se pudieron leer ahí. Para ellos hay dos fuentes secundarias que coinciden, no una de autoridad.
 
-**OTIF.** KPMG lo pone como la versión angosta del pedido perfecto: «A perfect order is achieved when every critical order dimension is right at the same time. That makes the definition broader—and the performance challenge harder—than traditional OTIF measurement». Es decir, OTIF mira dos de las dimensiones (a tiempo, completo) y el pedido perfecto todas.
+KPMG presenta el OTIF como la versión angosta del pedido perfecto: «A perfect order is achieved when every critical order dimension is right at the same time. That makes the definition broader—and the performance challenge harder—than traditional OTIF measurement». Es decir, OTIF mira dos de las dimensiones (a tiempo, completo) y el pedido perfecto todas.
 
 > [!NOTE] Sin fuente todavía: el texto de SCOR para RL.1.1 y sus componentes (el sitio de ASCM no se pudo abrir), una definición de OTIF y de tasa de cumplimiento de la entrega de una fuente con autoridad, y las ventanas de tolerancia y penalidades que piden los minoristas grandes.
 
@@ -54,9 +54,9 @@ KPMG lista las dimensiones que muchas organizaciones miran: «On time», «In fu
 
 Tres decisiones cambian el número, y ninguna fuente leída las fija (lectura de la base):
 
-- **Contra qué fecha.** La que pidió el cliente, la que se le prometió o la que se programó para despachar. El SCOR de CASRAI dice «Commit Date», la comprometida; el glosario del CSCMP define el pedido perfecto contra la fecha pedida por el cliente («Delivered on time to customer's request date»).
-- **Con qué tolerancia.** Un día antes o después, una franja horaria, o la fecha exacta.
-- **Con qué grano.** Por pedido (llegó todo o no) o por línea (qué parte de las líneas llegó completa). Un pedido de diez líneas con una incompleta es 0 % por pedido y 90 % por línea.
+- Contra qué fecha: la que pidió el cliente, la que se le prometió o la que se programó para despachar. El SCOR de CASRAI dice «Commit Date», la comprometida; el glosario del CSCMP define el pedido perfecto contra la fecha pedida por el cliente («Delivered on time to customer's request date»).
+- Con qué tolerancia: un día antes o después, una franja horaria, o la fecha exacta.
+- Con qué grano: por pedido (llegó todo o no) o por línea (qué parte de las líneas llegó completa). Un pedido de diez líneas con una incompleta es 0 % por pedido y 90 % por línea.
 
 Por eso, a juicio de la base, cuando un cliente mide a su proveedor con OTIF la definición la pone el cliente, y el sistema tiene que poder calcular la suya.
 
@@ -70,17 +70,17 @@ Como referencia, KPMG cita datos de APQC: «APQC benchmarking data puts median p
 
 Los datos salen de los componentes del pedido perfecto; el esquema es inferencia de la base, no un modelo publicado:
 
-- **Por línea del pedido**: la fecha comprometida con el cliente, la cantidad pedida y la cantidad entregada.
-- **Por entrega**: la fecha real en que el cliente recibió (la de la [prueba de entrega](prueba-de-entrega.md), no la de salida del depósito), si llegó con daño y si la documentación estaba completa.
-- **Por factura**: si salió correcta o hubo que corregirla.
-- **Por transportista**: las mismas marcas, para seguir su desempeño, como pide APQC 4.4.4.2.
+- Por línea del pedido: la fecha comprometida con el cliente, la cantidad pedida y la cantidad entregada.
+- Por entrega: la fecha real en que el cliente recibió (la de la [prueba de entrega](prueba-de-entrega.md), no la de salida del depósito), si llegó con daño y si la documentación estaba completa.
+- Por factura: si salió correcta o hubo que corregirla.
+- Por transportista: las mismas marcas, para seguir su desempeño, como pide APQC 4.4.4.2.
 
-Uno de los sistemas abiertos consultados guarda en cada documento de salida una fecha programada, una fecha límite y la fecha en que se hizo. Alcanzan para medir si salió a tiempo, pero no guarda ahí una fecha prometida al cliente distinta de la programada. Si la promesa vive solo en el pedido de venta, el indicador tiene que ir a buscarla ahí (inferencia de la base).
+Uno de los sistemas abiertos consultados guarda en cada documento de salida una fecha programada, una fecha límite y la fecha en que se hizo. Esas fechas alcanzan para medir si salió a tiempo, pero el sistema no guarda ahí una fecha prometida al cliente distinta de la programada. Si la promesa vive solo en el pedido de venta, el indicador tiene que ir a buscarla ahí (inferencia de la base).
 
-## Cómo falla la medición
+## Fallas de la medición
 
 Las tres fallas que siguen son criterio de la base.
 
-- **Se mide la salida y no la llegada.** «Despachado a tiempo» no es «entregado a tiempo»; el tramo del transportista queda afuera.
-- **Se cambia la fecha prometida cuando se atrasa.** Si la fecha comprometida se reescribe, el indicador da siempre a tiempo. La fecha original tiene que quedar guardada.
-- **Se mezcla el grano.** Un tablero por línea y otro por pedido dan números distintos para la misma operación, y los dos son correctos.
+- Se mide la salida y no la llegada. «Despachado a tiempo» no es «entregado a tiempo»; el tramo del transportista queda afuera.
+- Se cambia la fecha prometida cuando se atrasa. Si la fecha comprometida se reescribe, el indicador da siempre a tiempo. La fecha original tiene que quedar guardada.
+- Se mezcla el grano. Un tablero por línea y otro por pedido dan números distintos para la misma operación, y los dos son correctos.

@@ -47,10 +47,10 @@ Chopra llega a lo mismo con otras palabras: el inventario, el transporte, las in
 
 El dibujo de las clases del MIT pone el costo del flete, el de las instalaciones, el del inventario y el total contra la cantidad de depósitos, de 0 a 20. Chopra explica cada curva:
 
-- **Inventario**: sube con la cantidad de lugares. Su ejemplo de 2002: una tienda en línea con unos cinco depósitos rotaba el stock «about twelve times a year», y una cadena de librerías «with about 400 facilities achieves only about two turns per year».
-- **Transporte**: el total baja al sumar lugares «as long as inbound transportation economies of scale are maintained», y vuelve a subir cuando cada depósito ya no recibe cargas completas.
-- **Instalaciones**: bajan al reducir la cantidad de lugares.
-- **Total**: al sumar instalaciones, «first decrease and then increase».
+- Inventario: sube con la cantidad de lugares. Su ejemplo de 2002: una tienda en línea con unos cinco depósitos rotaba el stock «about twelve times a year», y una cadena de librerías «with about 400 facilities achieves only about two turns per year».
+- Transporte: el total baja al sumar lugares «as long as inbound transportation economies of scale are maintained», y vuelve a subir cuando cada depósito ya no recibe cargas completas.
+- Instalaciones: bajan al reducir la cantidad de lugares.
+- Total: al sumar instalaciones, «first decrease and then increase».
 
 El servicio va por otro eje. Para Chopra, «a decrease in the response time customers desire increases the number of facilities required in the network»: la cadena con 400 locales entregaba en el día; la tienda en línea, en «about a week». La regla que saca es que se agregan depósitos más allá del mínimo de costo solo si el ingreso que trae responder más rápido supera el costo extra: «A firm should add facilities beyond the cost-minimizing point only if managers are confident that the increase in revenues because of better responsiveness is greater than the increase in costs because of the additional facilities».
 
@@ -62,7 +62,7 @@ Con muchas instalaciones candidatas, la decisión se arma como un modelo de opti
 
 El tamaño crece rápido. El ejemplo de la clase, con «20 Plants, 30 Products/ Product Groups, 50 Potential DCs, and 400 Customers Regions», da «12,000,000 possible flows!». Separando el flujo de entrada al depósito del de salida, la versión que el MIT llama mejor baja a «50,000 (30k IB & 20k OB) possible flows».
 
-Lo que más cuesta no es resolver el modelo sino conseguir los datos. Las clases listan los problemas: «Demand Point Aggregation», «Demand over Time Periods», «Profiling freight cost data», «Fixed Costs: Periodic versus One-Time» y «Cost Estimating Functions». En una red internacional se suman «Freight Rate Availability», «Transfer Prices and Taxes», «Exchange Rates» y «Duty and Duty Drawback».
+Conseguir los datos cuesta más que resolver el modelo. Las clases listan los problemas: «Demand Point Aggregation», «Demand over Time Periods», «Profiling freight cost data», «Fixed Costs: Periodic versus One-Time» y «Cost Estimating Functions». En una red internacional se suman «Freight Rate Availability», «Transfer Prices and Taxes», «Exchange Rates» y «Duty and Duty Drawback».
 
 > [!NOTE] Sin fuente todavía: el método del centro de gravedad y los modelos de localización continuos; las clases leídas no los tratan.
 
@@ -84,7 +84,7 @@ Una red con el stock centralizado permite terminar el producto después de que e
 
 ## Qué guarda un escenario de red
 
-El diseño de la red no es un registro operativo sino un escenario de planificación. Según la formulación del MIT, el escenario tiene:
+El diseño de la red es un escenario de planificación. Según la formulación del MIT, el escenario tiene:
 
 - las instalaciones candidatas, cada una con su costo fijo (y si es periódico o de una vez);
 - los flujos posibles entre cada par de nodos, con su costo por unidad, separados en entrada y salida;
@@ -95,9 +95,9 @@ El resultado se vuelve dato operativo cuando se carga como ubicación y como rel
 
 ## Cómo falla un diseño de red
 
-- **Optimizar solo el costo.** El mínimo de la curva no cuenta el ingreso que se pierde por entregar más lento; Chopra pide justificar cualquier depósito extra con ese ingreso.
-- **Datos agregados de más.** Las zonas de demanda y las tarifas promedio esconden diferencias que mueven el resultado; es el primer problema de datos que lista el MIT.
-- **Olvidar el stock.** Un modelo de flujos sin el segundo paso de stock subestima lo que cuesta tener muchos depósitos (inferencia de la base sobre el MIT).
-- **No revisarlo.** Es una decisión de un año o más, no de una vez para siempre (lectura de la base sobre los horizontes del MIT).
+- Optimizar solo el costo. El mínimo de la curva no cuenta el ingreso que se pierde por entregar más lento; Chopra pide justificar cualquier depósito extra con ese ingreso.
+- Datos agregados de más. Las zonas de demanda y las tarifas promedio esconden diferencias que mueven el resultado; es el primer problema de datos que lista el MIT.
+- Olvidar el stock. Un modelo de flujos sin el segundo paso de stock subestima lo que cuesta tener muchos depósitos (inferencia de la base sobre el MIT).
+- No revisarlo. Es una decisión de un año o más, pero hay que revisarla (lectura de la base sobre los horizontes del MIT).
 
 Para leer más: Caplice, archivo lect25, diapositivas 2 a 11, tiene las tres preguntas, los cuatro compromisos y los problemas de datos; el artículo de Chopra, sección 1, explica las curvas en prosa.

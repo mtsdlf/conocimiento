@@ -40,8 +40,8 @@ Rodrigue describe a los intermediarios (agentes de carga, despachantes, depósit
 
 Caplice separa a los transportistas en dos clases, y la diferencia explica con quién negocia el cargador:
 
-- **Directos**: el vehículo va de origen a destino con la carga de un cliente. Lista «Taxi, TL, Unit trains, Charter/private planes, Tramp services, Courier».
-- **Consolidados**: juntan cargas de muchos clientes en una red con terminales de transbordo. Lista «Bus/rail transit, LTL, Rail, Airlines, Ocean carriers/liner service, Package delivery».
+- Directos: el vehículo va de origen a destino con la carga de un cliente. Lista «Taxi, TL, Unit trains, Charter/private planes, Tramp services, Courier».
+- Consolidados: juntan cargas de muchos clientes en una red con terminales de transbordo. Lista «Bus/rail transit, LTL, Rail, Airlines, Ocean carriers/liner service, Package delivery».
 
 Las dos se mezclan: un contenedor o un vagón completo es un viaje directo que va adentro de una red consolidada («sub-consolidation»).
 
@@ -51,10 +51,10 @@ Caplice describe la red de transporte en tres capas. La física es «The actual 
 
 Las decisiones que salen de ahí tienen cada una su nota:
 
-1. **En qué viaja**: el modo y si va en carga completa o consolidada. Está en [modos de transporte](modos-de-transporte.md).
-2. **Cuánto paga y cómo lo contrata**: la tarifa, los recargos, el contrato, el mercado spot y la licitación. Está en [costo del flete](costo-del-flete.md). Quién paga el flete en una venta internacional lo fija el [Incoterm](../Comercio-exterior/incoterms.md).
-3. **Qué junta y en qué orden reparte**: cuándo sale el vehículo, qué carga lleva y qué recorrido hace. Está en [consolidación y ruteo](consolidacion-y-ruteo.md).
-4. **Con quién y bajo qué relación**: del mercado spot a la flota propia, abajo.
+1. En qué viaja: el modo y si va en carga completa o consolidada. Está en [modos de transporte](modos-de-transporte.md).
+2. Cuánto paga y cómo lo contrata: la tarifa, los recargos, el contrato, el mercado spot y la licitación. Está en [costo del flete](costo-del-flete.md). Quién paga el flete en una venta internacional lo fija el [Incoterm](../Comercio-exterior/incoterms.md).
+3. Qué junta y en qué orden reparte: cuándo sale el vehículo, qué carga lleva y qué recorrido hace. Está en [consolidación y ruteo](consolidacion-y-ruteo.md).
+4. Con quién y bajo qué relación: del mercado spot a la flota propia, abajo.
 
 ### El transporte entra en el costo del stock
 
@@ -99,11 +99,11 @@ En un extremo, la fuente pone «Use for random & distressed traffic»; en el otr
 
 El sistema de un cargador guarda pocos objetos, y cada uno tiene su nota:
 
-- **Transportista**, con el tipo de relación del continuo de arriba (dato que Caplice sugiere y que la base no vio en los sistemas abiertos consultados).
-- **Método o servicio de envío**, ligado a un transportista y a un modo: [modos de transporte](modos-de-transporte.md#cómo-se-registran-el-modo-y-el-tramo).
-- **Tramo** del envío, con su modo, transportista, costo y fechas: también en [modos de transporte](modos-de-transporte.md#cómo-se-registran-el-modo-y-el-tramo).
-- **Tarifa y regla de cálculo**, y el costo real por tramo: [costo del flete](costo-del-flete.md#qué-guarda-un-sistema-de-la-tarifa).
-- **Viaje de entrega**, con vehículo, chofer y paradas: su registro y sus estados están en [despacho](../Despacho-y-entrega/despacho.md#lo-que-un-sistema-guarda-del-despacho); lo que hace falta para armar el recorrido, en [consolidación y ruteo](consolidacion-y-ruteo.md#el-viaje-y-sus-paradas-en-un-sistema).
+- Transportista, con el tipo de relación del continuo de arriba (dato que Caplice sugiere y que la base no vio en los sistemas abiertos consultados).
+- Método o servicio de envío, ligado a un transportista y a un modo: [modos de transporte](modos-de-transporte.md#cómo-se-registran-el-modo-y-el-tramo).
+- Tramo del envío, con su modo, transportista, costo y fechas: también en [modos de transporte](modos-de-transporte.md#cómo-se-registran-el-modo-y-el-tramo).
+- Tarifa y regla de cálculo, y el costo real por tramo: [costo del flete](costo-del-flete.md#qué-guarda-un-sistema-de-la-tarifa).
+- Viaje de entrega, con vehículo, chofer y paradas: su registro y sus estados están en [despacho](../Despacho-y-entrega/despacho.md#lo-que-un-sistema-guarda-del-despacho); lo que hace falta para armar el recorrido, en [consolidación y ruteo](consolidacion-y-ruteo.md#el-viaje-y-sus-paradas-en-un-sistema).
 
 El documento del despacho, que junta lo que sale y recorre estados hasta la entrega, es de [despacho](../Despacho-y-entrega/despacho.md).
 
