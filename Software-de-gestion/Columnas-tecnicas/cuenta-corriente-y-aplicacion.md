@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En un software de gestión, la deuda con cada cliente y con cada proveedor se modela como partidas. Cada comprobante deja una partida por vencimiento con su saldo pendiente, y cada cobro o pago deja una partida de signo contrario. Una aplicación registra cuánto de una cancela a la otra. El saldo de la cuenta corriente no se guarda aparte: es la suma de las partidas, y la antigüedad se calcula sobre las que siguen abiertas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Account y Patterns for Accounting (según el lector de la página): https://martinfowler.com/eaaDev/Account.html y https://www.martinfowler.com/eaaDev/AccountingNarrative.html"
@@ -19,7 +19,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/modelo-de-la-deuda.md (2026-11-27)"
 aliases: [cuenta corriente en el sistema, modelo de la deuda, partida abierta, partidas abiertas, open item, open items, saldo corriente, balance forward, vencimiento, due date, cuotas, installments, condición de pago, payment terms, aplicación, aplicación de pagos, imputación, application, allocation, desaplicar, compensación, netting, partida residual, residual item, remesa estructurada, structured remittance, referencia del acreedor, creditor reference, RF]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuenta corriente y aplicación

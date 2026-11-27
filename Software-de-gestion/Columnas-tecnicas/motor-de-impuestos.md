@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El motor de impuestos es la parte del software de gestión que decide, renglón por renglón, qué impuestos lleva un comprobante, sobre qué base y con qué alícuota. Lo decide con la categoría fiscal del artículo, la condición fiscal de la parte, el lugar y la fecha. Después junta los renglones por categoría y alícuota y redondea con una regla que fija la norma o, si la norma deja elegir, el diseño.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OASIS, UBL 2.1, UBL-CommonAggregateComponents-2.1.xsd (TaxTotal, TaxSubtotal, TaxCategory): http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/common/UBL-CommonAggregateComponents-2.1.xsd"
@@ -14,7 +14,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/motor-de-impuestos.md (2026-11-27)"
 aliases: [motor de impuestos, motor fiscal, tax engine, cálculo de impuestos, determinación de impuestos, tax determination, impuesto por renglón, impuesto por línea, categoría fiscal, código fiscal, tax category, tax code, redondeo del impuesto, tax rounding, redondeo por línea, redondeo por total, impuesto incluido, tax included, impuesto sobre impuesto, compound tax, desglose de IVA, VAT breakdown]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Motor de impuestos

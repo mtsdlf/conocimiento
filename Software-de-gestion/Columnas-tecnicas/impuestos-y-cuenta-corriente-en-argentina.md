@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la Argentina, el motor de impuestos de un sistema tiene que calcular varias alícuotas de IVA en un mismo comprobante e informarlas a ARCA agrupadas por alícuota, dentro de la tolerancia de redondeo del web service. Tiene que sumar como tributos aparte las percepciones, con la alícuota de cada cliente que publica el padrón de cada provincia, y mostrar el IVA contenido en la factura al consumidor final. La cuenta corriente, a su vez, tiene que cancelar facturas con plata y con comprobantes de retención.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Software-de-gestion/.investigacion/motor-de-impuestos-y-deuda-en-argentina.md (2026-11-27)"
@@ -23,7 +23,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/motor-de-impuestos-y-deuda-en-argentina-segunda-ronda.md (2026-11-27)"
 aliases: [motor de impuestos en Argentina, AlicIva, Tributos WSFEv1, ImpTrib, FEParamGetTiposIva, FEParamGetTiposTributos, tolerancia de redondeo ARCA, IVA contenido, transparencia fiscal al consumidor, percepción de Ingresos Brutos, padrón de ARBA, padrón de AGIP, alícuota fuera de padrón, orden de pago con retenciones, recibo con retenciones, certificado de retención]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Impuestos y cuenta corriente en la Argentina
