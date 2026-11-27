@@ -77,7 +77,7 @@ Un documento de trabajo del FMI sobre devoluciones de IVA dice que en varios pa�
 
 ## Cuando el comprobante avisa que hay que retener
 
-Algunos fiscos no designan al agente por quién es, sino por a quién le compra. El fisco califica a un vendedor como de riesgo (por facturar más de lo que su capacidad explica, por incumplir o por no acreditar bienes) y lo obliga a marcarlo en la factura. Quien recibe ese comprobante tiene que retener, al pagar, parte o todo el impuesto que el vendedor facturó, aunque nunca lo hayan designado agente. La definición es de esta base, armada sobre las normas que siguen.
+Algunos fiscos hacen agente a quien le compra a un vendedor de riesgo. El fisco califica a un vendedor como de riesgo (por facturar más de lo que su capacidad explica, por incumplir o por no acreditar bienes) y lo obliga a marcarlo en la factura. Quien recibe ese comprobante tiene que retener, al pagar, parte o todo el impuesto que el vendedor facturó, aunque nunca lo hayan designado agente. La definición es de esta base, armada sobre las normas que siguen.
 
 La idea es que el impuesto no pase por las manos de quien puede desaparecer antes de declararlo. Del IVA facturado por un vendedor así, el fisco cobra lo que retiene el comprador, que es una empresa inscripta, en lugar de esperar la declaración del vendedor. El vendedor no deja de ser el contribuyente: lo retenido se le computa a cuenta.
 
@@ -92,7 +92,7 @@ Otros fiscos persiguen el mismo riesgo con otras herramientas:
 
 En la UE el art. 199 bis deja aplicar la inversión a teléfonos móviles, circuitos integrados, consolas, cereales, metales, gas, electricidad y derechos de emisión, entre otros, «Hasta el 31 de diciembre de 2026» (texto consolidado al 1 de enero de 2024; al 27 de noviembre de 2026 ese plazo vence en un mes y no se verificó si se prorrogó). Polonia justificó su pago fraccionado diciendo que así «it is better guaranteed that the tax authorities will receive the whole VAT amount» (Decisión 2019/310), y la Decisión 2025/373 lo prorrogó hasta el 29 de febrero de 2028.
 
-La diferencia que importa para un sistema: la inversión y el pago fraccionado miran el sector, y la retención por calificación mira al vendedor concreto, que puede cambiar de condición de un período a otro (lectura de esta base sobre las normas citadas). Por eso esa condición se consulta antes de cada pago, como dice [agente de recaudación](agente-de-recaudacion.md).
+Para un sistema, la diferencia está en qué se mira: la inversión y el pago fraccionado miran el sector, y la retención por calificación mira al vendedor concreto, que puede cambiar de condición de un período a otro (lectura de esta base sobre las normas citadas). Por eso esa condición se consulta antes de cada pago, como dice [agente de recaudación](agente-de-recaudacion.md).
 
 El costo cae sobre el vendedor marcado, que adelanta todo el IVA que factura y acumula saldo a favor, y sobre el comprador, que calcula, retiene, deposita e informa, y responde si no lo hace. El documento del FMI citado en la sección anterior lo dice de las retenciones de IVA en general: los pedidos de devolución «can proliferate», sobre todo «if withholding rates are set too high». No se encontró una medición de cuánto fraude evita este tipo de retención.
 
