@@ -25,8 +25,11 @@ preguntas:
   - "Si la plataforma se cae o una actualización mía rompe la tienda, ¿de qué respondo, y vale una cláusula que limite eso al valor del abono?"
   - "¿Cómo entro a la tienda, el dominio y los pagos del comercio sin quedarme con sus contraseñas, y qué hago cuando termina la relación?"
   - "Al operar la tienda veo y exporto los datos de los compradores: ¿qué me deja hacer la ley con ellos y qué tiene que firmar el comercio conmigo?"
+  - "Voy a empezar a facturar servicios a mi nombre en la Argentina: ¿qué trámites hago en ARCA, en qué orden, y cómo elijo entre el monotributo y el régimen general?"
+  - "Si no entro en el monotributo, ¿cuánto aporto por mes como autónomo, en qué categoría y qué cubre?"
+  - "Tengo un empleo en relación de dependencia y quiero facturar aparte: ¿aporto dos veces?"
 aprobado: 2026-11-22
-ampliado: 2026-11-24
+ampliado: 2026-11-27
 ---
 
 # Alcance: Emprender
@@ -70,6 +73,9 @@ Emprender/
     acceso-a-las-cuentas-del-cliente  (nuevo) cuentas del comercio, usuario propio y permisos justos, autorización escrita, salida
     accesos-delegados-por-plataforma  (nuevo) ficha: cómo da acceso cada plataforma y cómo se quita, al 2026-11-24
     tratamiento-de-datos-por-cuenta-de-otro  (nuevo) art. 25 de la Ley 25.326: el prestador como encargado
+    encuadre-fiscal-y-previsional  (nuevo) qué decide quien arranca por su cuenta: inscribirse, régimen simplificado o general, cómo aporta, la provincia
+    autonomos-y-sipa-en-argentina  (nuevo) Ley 24.241: quién aporta, 27 % más 5 %, las cinco categorías, mayo, montos de noviembre de 2026
+    inscripcion-en-arca-al-arrancar  (nuevo) clave fiscal, CUIT digital, domicilios y actividad, monotributo o régimen general, punto de venta, al 2026-11-27
   Fundamentos/                 qué es una startup, escuelas y evidencia, mitos, bibliografía, fuentes, glosario
 ```
 
@@ -96,3 +102,12 @@ Pedida en el issue #55, parte del plan #48 (lo que la base tiene que saber para 
 - **Cuatro componentes y una ficha.** El contrato, la responsabilidad, el acceso y los datos se enlazan por separado desde otras notas (el abono, los socios de una plataforma, la normativa del comercio electrónico), así que cada uno tiene nota propia. Los pasos de cada plataforma para dar acceso cambian seguido y van a una ficha `volatil`.
 - **Legal e impuestos deja de ser solo «para empezar».** La entrada suma una sección con los contratos de un servicio; la Ley 25.326 vista desde la tienda que junta datos sigue en Comercio electrónico y se enlaza.
 - **El texto de las normas se bajó de Infoleg** y quedó entero en `.investigacion/contratos-y-datos-textos-oficiales.md`, porque los lectores web de los subagentes solo devolvían fragmentos.
+
+## Ampliación del 2026-11-27: encuadre fiscal y previsional, autónomos e inscripción en ARCA
+
+Pedida en el issue #175, pendiente que dejó la sesión de mantenimiento #123: el régimen de autónomos y el SIPA, y la inscripción en ARCA al arrancar. El árbol detallado lo decidió quien escribe, en una sesión sin la persona; queda para revisar en el PR:
+
+- **Una nota general y dos de la Argentina.** Lo que vale en cualquier país (qué decide quien arranca sobre su encuadre fiscal y previsional) va en `encuadre-fiscal-y-previsional`; lo argentino, en dos notas aparte, porque se enlazan por separado: el aporte de autónomos desde quien ya está en el régimen general y la inscripción desde quien recién empieza.
+- **Lo recurrente se queda en Impuestos.** La recategorización y la exclusión del monotributo siguen en `Impuestos/Obligacion-tributaria/monotributo-en-marcha`, el IVA y Ganancias en sus notas; acá solo la decisión de una vez y el alta, como dice el alcance de Impuestos.
+- **Las cuotas de autónomos se copian con fecha** en `autonomos-y-sipa-en-argentina`, que es `volatil`: cambian todos los meses con la movilidad, y es el único lugar de la base donde están.
+- **Ganancias de personas humanas y la factura A con leyenda quedan fuera**: los escribe en paralelo el issue #172 en Impuestos, y estas notas enlazan las notas de Impuestos que ya existen.
