@@ -90,6 +90,14 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Desarrollo personal](Desarrollo-personal/desarrollo-personal.md) — la práctica de crecer con evidencia: autoconocimiento, hábitos y cambio, energía y salud, emociones y bienestar, relaciones, efectividad personal, coaching (el ontológico incluido, con su falta de evidencia) y lo que le pasa por dentro a quien funda una empresa.
 - [Liderazgo y dirección](Liderazgo-y-direccion/liderazgo-y-direccion.md) — cómo se conduce a una persona, a un equipo y a una empresa chica que crece: liderar personas, equipos y cultura, gestión de personas, decidir, ejecución y el rol del CEO, con la evidencia de cada práctica y lo que solo dicen los practicantes.
 
+## Pedagogía
+
+- [Ciencias del aprendizaje](Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) — cómo una persona llega a saber algo nuevo: conocimiento previo, memoria y práctica, transferencia, metacognición, motivación, quién aprende y aprender con otros (esqueleto).
+- [Didáctica](Didactica/didactica.md) — la enseñanza: instrucción explícita, práctica guiada, preguntas, retroalimentación, indagación, tutoría y mentoría, y las didácticas de cada materia (esqueleto).
+- [Diseño instruccional](Diseno-instruccional/diseno-instruccional.md) — armar un curso o un camino: análisis, objetivos, secuencia, modelos de diseño, materiales y formatos (esqueleto).
+- [Evaluación educativa](Evaluacion-educativa/evaluacion-educativa.md) — saber qué se aprendió: propósitos, instrumentos, validez, evaluación adaptativa, calificación y evaluar un programa (esqueleto).
+- [Tecnología educativa](Tecnologia-educativa/tecnologia-educativa.md) — lo que aportan los medios digitales: aprendizaje en línea, tutores inteligentes, IA, práctica adaptativa y plataformas (esqueleto).
+
 ## Carrera
 
 - [Presentación profesional](Presentacion-profesional/presentacion-profesional.md) — mostrarse para un puesto: el material de lo hecho, las vidrieras que se cortan de él (CV, LinkedIn, portfolio) y cómo se filtran del otro lado, con la evidencia de cada consejo y los mitos más repetidos.
