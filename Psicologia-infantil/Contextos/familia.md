@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La investigación sobre la familia encuentra que los hijos de padres divorciados están algo peor en promedio que los de familias que siguen juntas, con una brecha que parece chica (las cifras no se verificaron), y que los resultados empeoran con el conflicto entre los padres, vivan juntos o no; entre hermanos, el conflicto pesa más que la falta de calidez.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/11584788/
@@ -13,7 +13,7 @@ fuentes:
 aliases: [divorcio y chicos, separación de los padres, conflicto entre los padres, conflicto interparental, hermanos]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Familia

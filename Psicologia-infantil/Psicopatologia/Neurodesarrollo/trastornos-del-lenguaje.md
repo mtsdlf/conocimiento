@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Un trastorno del lenguaje es una dificultad persistente para comprender o usar el lenguaje que no se explica por la exposición ni por el idioma; según un estudio inglés lo tienen cerca de 10 de cada 100 chicos al empezar la escuela, la mayoría sin otra causa conocida.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5082564
 aliases: [trastorno del desarrollo del lenguaje, TDL, DLD, developmental language disorder, TEL, trastorno específico del lenguaje, retraso del lenguaje]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trastornos del lenguaje

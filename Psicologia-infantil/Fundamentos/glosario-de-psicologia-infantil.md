@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos técnicos que usan las notas de psicología infantil, cada uno con una definición corta y la nota que lo desarrolla; los que ya define Crianza se enlazan allá.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/25649325/
@@ -29,7 +29,7 @@ fuentes:
 aliases: [términos de psicología infantil, vocabulario de psicología infantil, siglas de psicología infantil]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de psicología infantil

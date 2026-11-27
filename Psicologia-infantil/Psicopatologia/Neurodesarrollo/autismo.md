@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trastorno del espectro autista (TEA) es una forma de desarrollo que afecta la comunicación y la relación con otros y viene con conductas e intereses restringidos y repetitivos; se diagnostica por la clínica, en Argentina con un equipo de al menos dos profesionales, y "espectro" y "nivel" dicen cuánto apoyo necesita cada chico.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://argentina.gob.ar/normativa/330297_res2641_pdf/archivo
@@ -18,7 +18,7 @@ fuentes:
 aliases: [TEA, trastorno del espectro autista, autismo, espectro autista, ASD, condición del espectro autista]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autismo

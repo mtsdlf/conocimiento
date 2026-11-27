@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, un chico con discapacidad tiene derecho a apoyos en la escuela común: un proyecto pedagógico individual acordado con la familia, un maestro de apoyo a la inclusión y, si su cobertura de salud lo da, un acompañante terapéutico; lo ordena la Resolución 311/16 del Consejo Federal de Educación, y cada provincia lo aplica a su manera.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -15,7 +15,7 @@ fuentes:
   - https://cps.ca/documents/position/adhd-2-treatment
 aliases: [integración escolar, inclusión escolar, maestra integradora, maestro de apoyo a la inclusión, MAI, PPI, proyecto pedagógico individual, acompañante terapéutico, AT, Resolución CFE 311/16]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Apoyos en la escuela

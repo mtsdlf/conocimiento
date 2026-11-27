@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina evalúan a un chico el psicólogo, el psicopedagogo, el fonoaudiólogo, el neuropediatra y el psiquiatra infantil, muchas veces en equipo; no hay una lista oficial de quién puede diagnosticar qué, y la puerta de entrada habitual es el pediatra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282
@@ -13,7 +13,7 @@ fuentes:
 aliases: [quién diagnostica, profesionales de la evaluación, equipo interdisciplinario]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Quién evalúa

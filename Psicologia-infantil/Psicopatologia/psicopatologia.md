@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La psicopatología es la parte del tema que describe cuándo una dificultad de un chico se aparta de lo esperable para su edad lo suficiente como para tener nombre: cómo se piensa eso, los trastornos del neurodesarrollo, la ansiedad, la depresión, los de conducta y otros de la infancia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/25649325/
@@ -11,7 +11,7 @@ fuentes:
 aliases: [psicopatología infantil, trastornos de la infancia, trastornos mentales en chicos]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Psicopatología

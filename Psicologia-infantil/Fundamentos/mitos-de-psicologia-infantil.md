@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ideas sobre los trastornos y la evaluación de los chicos que circulan mucho y que la evidencia no sostiene o sostiene a medias: la epidemia de autismo, el TDAH como moda, el cuestionario que diagnostica, el perfil del test de inteligencia, el diagnóstico para siempre o que se pasa solo, y el malvavisco como destino.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.cdc.gov/mmwr/volumes/74/ss/ss7402a1.htm
@@ -21,7 +21,7 @@ fuentes:
 aliases: [mitos sobre el TDAH, mitos sobre el autismo, mitos de la psicología infantil]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos de psicología infantil

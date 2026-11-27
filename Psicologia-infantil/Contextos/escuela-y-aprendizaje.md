@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La escuela es el contexto donde un chico de 6 a 12 aprende y se mide con otros; sobre su motivación y su rendimiento hay menos evidencia de la que se cree: la mentalidad de crecimiento pesa poco salvo en algunos chicos, de la ayuda de los padres con la tarea solo el apoyo a la autonomía se asocia con mejor rendimiento, y en Argentina una ley protege a los chicos con dificultades específicas del aprendizaje.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/29505339/
@@ -13,7 +13,7 @@ fuentes:
 aliases: [rendimiento escolar, motivación escolar, escuela primaria, tarea, deberes]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuela y aprendizaje

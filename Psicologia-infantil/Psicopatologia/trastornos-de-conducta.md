@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los trastornos de conducta son el oposicionista desafiante (enojo, discusión y desafío persistentes) y el trastorno de conducta (romper reglas graves y dañar a otros), más la desregulación disruptiva del ánimo; su lado normal son los berrinches, y el tratamiento con respaldo de 3 a 11 años son los programas para padres.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.nice.org.uk/guidance/QS39/chapter/quality-statement-4-parent-training-programmes
@@ -18,7 +18,7 @@ fuentes:
 aliases: [trastorno oposicionista desafiante, TOD, trastorno negativista desafiante, trastorno disocial, trastorno de conducta, DMDD, trastorno de desregulación disruptiva del estado de ánimo, trastornos disruptivos]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trastornos de conducta

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La intervención es lo que se hace para ayudar a un chico cuando una dificultad ya tiene nombre: la terapia, el trabajo con los padres, la medicación y los apoyos en la escuela, elegidos según el problema y la evidencia que tiene cada uno.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -13,7 +13,7 @@ fuentes:
   - https://www.argentina.gob.ar/sites/default/files/2023/06/res._cfe_311-16_anexos.pdf
 aliases: [tratamiento psicológico infantil, tratamientos en la infancia, qué ayuda]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Intervención

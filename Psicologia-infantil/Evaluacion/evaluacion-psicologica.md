@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación psicológica de un chico es el proceso con el que un profesional junta información de varias fuentes (entrevistas, observación, tests, informes de la escuela) para entender qué le pasa y decidir qué hacer; ningún test solo alcanza para un diagnóstico.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282
@@ -12,7 +12,7 @@ fuentes:
 aliases: [evaluación, diagnóstico psicológico, psicodiagnóstico, evaluación diagnóstica]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación psicológica

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Elegir un profesional para un chico es verificar que esté matriculado y preguntarle cómo trabaja y qué respaldo tiene lo que propone para ese problema; no hay una guía oficial de cómo elegir, así que los criterios salen de lo que dicen las guías de tratamiento.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -14,7 +14,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC8110733
 aliases: [elegir psicólogo infantil, elegir terapeuta, cómo elegir un psicólogo para un chico, matrícula profesional]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir profesional

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los enfoques terapéuticos son las grandes formas de hacer terapia con un chico (cognitivo-conductual, conductual, sistémica, de juego y psicoanalítica); se diferencian en qué consideran el problema y qué hacen en la sesión, y tienen mucha, poca o ninguna evidencia medida según el caso.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -14,7 +14,7 @@ fuentes:
   - https://www.emerald.com/insight/content/doi/10.1108/AIA-02-2018-0007/full/html
 aliases: [tipos de terapia infantil, escuelas de psicoterapia infantil, TCC, terapia cognitivo-conductual, ABA, análisis aplicado de la conducta, psicoterapia psicodinámica, terapia de juego, terapia sistémica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Enfoques terapéuticos

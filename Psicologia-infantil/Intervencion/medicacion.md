@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Esta nota repasa tres grupos de medicamentos psiquiátricos que se usan en chicos: los estimulantes para el TDAH, los antidepresivos ISRS para la ansiedad y la depresión, y los antipsicóticos atípicos con más cautela; los indica y los sigue un médico, y cada grupo tiene advertencias que conviene conocer.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -15,7 +15,7 @@ fuentes:
   - https://www.nice.org.uk/guidance/ng87/chapter/rationale-and-impact
 aliases: [psicofármacos en niños, medicación psiquiátrica infantil, metilfenidato, estimulantes, ISRS, antidepresivos en chicos, antipsicóticos atípicos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Medicación

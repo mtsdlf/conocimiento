@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El desarrollo moral es cómo se forma el juicio de un chico sobre lo que está bien y mal; Kohlberg lo describió como una escalera de estadios, y hoy el campo pone el eje en que desde los 4 años los chicos ya distinguen una regla moral, que protege a otros del daño, de una convención social, que ordena al grupo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://plato.stanford.edu/entries/moral-conventional/
@@ -12,7 +12,7 @@ fuentes:
 aliases: [juicio moral, razonamiento moral, Kohlberg, Turiel, teoría de los dominios sociales, distinción moral-convencional]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desarrollo moral

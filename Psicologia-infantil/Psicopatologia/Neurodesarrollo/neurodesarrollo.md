@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los trastornos del neurodesarrollo son los que empiezan en el desarrollo temprano y cambian cómo un chico se comunica, presta atención, aprende o razona: el autismo, el TDAH, los trastornos del aprendizaje y del lenguaje y la discapacidad intelectual; suelen venir juntos, no tienen una causa única y son los que más seguido nombra la escuela de 6 a 12.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://argentina.gob.ar/normativa/330297_res2641_pdf/archivo
@@ -15,7 +15,7 @@ fuentes:
 aliases: [trastornos del neurodesarrollo, neurodivergencia, condiciones del neurodesarrollo]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Neurodesarrollo

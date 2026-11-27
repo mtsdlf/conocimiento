@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las teorías del desarrollo son los grandes modelos que explican cómo y por qué cambia la mente de un chico con la edad; de Piaget, Vygotsky, Erikson y Bronfenbrenner el campo conserva ideas de fondo, pero no sus calendarios de estadios tal como los propusieron.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://link.springer.com/chapter/10.1007/978-3-031-05747-2_2
@@ -17,7 +17,7 @@ fuentes:
 aliases: [teorías del desarrollo infantil, Piaget, Vygotsky, Erikson, Bronfenbrenner, estadios del desarrollo, modelo bioecológico]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Teorías del desarrollo

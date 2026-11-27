@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La entrevista y la observación son la base de una evaluación infantil: el profesional pregunta a los padres, a los docentes y al propio chico, y lo mira jugar, hablar y resolver cosas; como cada informante ve una parte, el diagnóstico se apoya en varios y no en uno.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/38523599/
@@ -10,7 +10,7 @@ fuentes:
 aliases: [entrevista clínica, anamnesis, historia clínica, observación clínica, informantes múltiples]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Entrevista y observación

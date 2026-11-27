@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cómo funcionan en Argentina, al 2026-11-27, el Certificado Único de Discapacidad (CUD), la ley 24.901 de prestaciones básicas y la cobertura de obras sociales para un chico con una discapacidad, con lo que cambió en 2025 y 2026 y lo que quedó sin verificar.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://www.argentina.gob.ar/cud
@@ -18,7 +18,7 @@ fuentes:
 aliases: [CUD, certificado de discapacidad, certificado único de discapacidad, ley 24.901, prestaciones básicas, nomenclador de discapacidad]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # CUD y prestaciones

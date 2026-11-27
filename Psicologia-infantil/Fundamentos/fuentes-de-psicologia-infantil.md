@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dónde se produce el conocimiento sobre la mente de los chicos, cuánto pesa cada tipo de fuente y qué leer como madre o padre: las guías clínicas y las revisiones sistemáticas pesan más que un estudio suelto, un consenso o una posición, y en castellano hay normas y algo de pediatría, pero poca divulgación seria.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.cdc.gov/mmwr/volumes/74/ss/ss7402a1.htm
@@ -22,7 +22,7 @@ fuentes:
 aliases: [bibliografía de psicología infantil, dónde leer sobre psicología infantil]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de psicología infantil

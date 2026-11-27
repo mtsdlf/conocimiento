@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La psicología infantil estudia cómo se forma y cambia la mente de un chico, qué puede desviarse en ese camino, cómo se evalúa lo que le pasa y qué tratamientos ayudan; esta base lo explica para madres y padres de chicos de 0 a 12 años, con la evidencia de cada idea.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -12,7 +12,7 @@ fuentes:
   - https://argentina.gob.ar/normativa/330297_res2641_pdf/archivo
 aliases: [psicología del niño, psicología infanto-juvenil, child psychology]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Psicología infantil

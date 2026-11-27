@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza toda la psicología infantil sin ser una parte de ella: las dos tradiciones de las que viene, por qué los estudios con chicos son difíciles de leer, la discusión sobre si más diagnósticos es más trastorno, los mitos, las fuentes y el glosario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC6322209
@@ -15,7 +15,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC8110733
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de psicología infantil

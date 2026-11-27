@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El desarrollo psicológico es cómo cambian con la edad el pensamiento, la imagen de uno mismo y el juicio moral de un chico; esta vertical reúne las teorías que lo explican y lo que pasa entre los 6 y los 12 años, porque los hitos de 0 a 6 viven en Crianza.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://cyc-net.org/CYC-Online/cycol-0711-Jeccles.html
@@ -11,7 +11,7 @@ fuentes:
 aliases: [desarrollo psicológico, psicología del desarrollo, developmental psychology, desarrollo socioemocional de 6 a 12]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desarrollo psicológico

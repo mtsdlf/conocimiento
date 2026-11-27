@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trastorno por déficit de atención e hiperactividad (TDAH) es un patrón de falta de atención, hiperactividad o impulsividad mucho mayor que el esperable para la edad, presente desde antes de los 12 años y en más de un ámbito; lo diagnostica un profesional con criterios del DSM o la CIE, y se trata con medicación, apoyos en casa y en la escuela, o las dos cosas, según la edad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.psychiatry.org/patients-families/adhd/what-is-adhd
@@ -18,7 +18,7 @@ fuentes:
 aliases: [TDAH, trastorno por déficit de atención con hiperactividad, ADHD, ADD, déficit de atención]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # TDAH

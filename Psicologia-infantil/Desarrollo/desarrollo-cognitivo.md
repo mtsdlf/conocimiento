@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El desarrollo cognitivo es cómo cambian con la edad el pensamiento, la memoria y la comprensión de lo que piensan otros; entre los 6 y los 12 años la memoria de trabajo crece, aparecen las estrategias para recordar y el chico entiende que otro puede tener una idea equivocada sobre lo que piensa un tercero.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/11405571/
@@ -15,7 +15,7 @@ fuentes:
 aliases: [desarrollo intelectual, teoría de la mente, mentalización, falsa creencia, memoria de trabajo en chicos, estrategias de memoria, metacognición]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desarrollo cognitivo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Para cada problema frecuente de 0 a 12 hay tratamientos con más respaldo que otros: entrenamiento a padres para la conducta y el TDAH en preescolares, medicación y apoyo conductual para el TDAH de 6 a 12, terapia cognitivo-conductual para la ansiedad e intervenciones tempranas en el autismo, con evidencia más débil.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -16,7 +16,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC10644209
 aliases: [tratamientos con evidencia, tratamientos basados en la evidencia, qué tratamiento para cada problema]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Qué funciona para qué

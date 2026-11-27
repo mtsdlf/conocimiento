@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La discapacidad intelectual, que la CIE-11 llama trastorno del desarrollo intelectual, es una limitación del funcionamiento intelectual que empieza en el desarrollo y se gradúa en leve, moderada, grave y profunda; es la nota con menos fuente de esta vertical, y lo que falta se dice.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://findacode.com/icd-11/code-437815624.html
@@ -13,7 +13,7 @@ fuentes:
 aliases: [trastorno del desarrollo intelectual, discapacidad intelectual del desarrollo, DI, retraso mental]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Discapacidad intelectual

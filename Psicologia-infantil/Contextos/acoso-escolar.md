@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El acoso escolar, o bullying, es la agresión de un chico a otro con intención de dañar, repetida y con un desbalance de poder entre los dos; deja efectos que pueden durar hasta la adultez, y los programas escolares contra el acoso lo reducen con un efecto real pero modesto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/37131921/
@@ -17,7 +17,7 @@ fuentes:
 aliases: [bullying, ciberacoso, cyberbullying, hostigamiento escolar, victimización por pares]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Acoso escolar

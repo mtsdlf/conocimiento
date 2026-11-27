@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los pares son los otros chicos de la misma edad; en la niñez y la adolescencia la amistad, las antipatías y la victimización se asocian con la soledad y la tristeza de un chico, con efectos chicos y una dirección causal que no está resuelta, y la calidad negativa de la amistad pesa más que el número de amigos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/32406698/
@@ -11,7 +11,7 @@ fuentes:
 aliases: [amigos, amistad infantil, relaciones con pares, rechazo, popularidad, compañeros]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pares y amistad

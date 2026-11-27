@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los contextos son los ambientes donde crece un chico, la familia, los amigos, la escuela, y la adversidad que puede atravesar; la investigación mide cuánto pesa cada uno en su desarrollo y en su riesgo de tener problemas, y casi siempre encuentra asociaciones modestas en promedio, que dependen de cómo es la relación y no solo de su forma.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/29574737/
@@ -13,7 +13,7 @@ fuentes:
 aliases: [entorno del chico, ambiente, contextos del desarrollo]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contextos

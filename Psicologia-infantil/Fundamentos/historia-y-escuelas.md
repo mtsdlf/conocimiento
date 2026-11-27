@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La psicología infantil viene de dos tradiciones que se validan distinto: la psicología del desarrollo de Piaget y Bowlby, que describe y pone a prueba, y el psicoanálisis de chicos de Freud, Anna Freud, Klein, Winnicott y Dolto, que trabaja con el sentido del síntoma y el juego; en Argentina la segunda pesa mucho en el consultorio, aunque no hay datos que digan cuánto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.researchgate.net/profile/Nick-Midgley/publication/7009516_Re-Reading_Little_Hans_Freud%27s_Case_Study_and_the_Question_of_Competing_Paradigms_in_Psychoanalysis/links/079396d28cc3fc77fd9deb0d/Re-Reading-Little-Hans-Freuds-Case-Study-and-the-Question-of-Competing-Paradigms-in-Psychoanalysis.pdf
@@ -18,7 +18,7 @@ fuentes:
 aliases: [historia de la psicología infantil, psicoanálisis de niños, psicoanálisis infantil, análisis infantil, escuelas de psicología infantil]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia y escuelas de la psicología infantil

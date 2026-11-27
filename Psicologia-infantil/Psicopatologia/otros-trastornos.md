@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Además de la ansiedad, la depresión, la conducta y el neurodesarrollo, en la infancia aparecen los tics y el síndrome de Tourette, la enuresis y la encopresis, el trastorno de evitación o restricción de la ingesta (ARFID) y los problemas de sueño; cada uno tiene su lado normal en Crianza, y la evidencia sobre ellos es despareja.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC6537133
@@ -15,7 +15,7 @@ fuentes:
 aliases: [tics, síndrome de Tourette, enuresis, encopresis, ARFID, trastorno de evitación o restricción de la ingesta, trastornos del sueño infantiles]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Otros trastornos

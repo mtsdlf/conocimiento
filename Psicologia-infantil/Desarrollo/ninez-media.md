@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La niñez media es la etapa de los 6 a los 12 años, que empieza con la escuela primaria; respecto de los 0 a 6, el chico piensa de forma más consciente, se compara con sus compañeros, pasa más tiempo con pares y menos bajo la mirada de los adultos, y afina su juicio sobre las reglas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://cyc-net.org/CYC-Online/cycol-0711-Jeccles.html
@@ -12,7 +12,7 @@ fuentes:
 aliases: [niñez media, middle childhood, edad escolar, de 6 a 12 años, segunda infancia]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Niñez media

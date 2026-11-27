@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La depresión infantil es una tristeza o un desgano que dura, que el chico no puede sacarse de encima y que le impide hacer su vida; es menos frecuente antes de los 12 que en la adolescencia, la guía NICE pone primero la terapia psicológica y, si se usa un antidepresivo, la mejor evidencia está en la fluoxetina.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://zendy.io/title/10.1111/jcpp.12381
@@ -13,7 +13,7 @@ fuentes:
 aliases: [depresión en chicos, trastorno depresivo infantil, depresión en la niñez]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Depresión infantil

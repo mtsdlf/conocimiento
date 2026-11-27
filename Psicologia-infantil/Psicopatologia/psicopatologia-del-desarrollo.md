@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La psicopatología del desarrollo estudia cuándo una dificultad de un chico se aparta tanto de lo esperable para su edad, y le complica tanto la vida, que se la llama trastorno; se apoya en dos manuales de clasificación, el DSM-5-TR y la CIE-11, y sabe que los trastornos infantiles suelen venir juntos y cambian con la edad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/25649325/
@@ -15,7 +15,7 @@ fuentes:
 aliases: [psicopatología infantil, developmental psychopathology, trastornos mentales en la infancia]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Psicopatología del desarrollo

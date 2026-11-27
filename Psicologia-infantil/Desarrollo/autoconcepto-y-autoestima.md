@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El autoconcepto es lo que un chico cree que es y que sabe hacer, y la autoestima es cuánto se valora en conjunto; entre los 6 y los 10 años los dos pasan de un optimismo casi sin relación con lo que logra a una evaluación más realista, porque empieza a compararse con sus compañeros.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://cyc-net.org/CYC-Online/cycol-0711-Jeccles.html
@@ -11,7 +11,7 @@ fuentes:
 aliases: [autoestima infantil, autoconcepto, self-esteem, self-concept, comparación social, industria frente a inferioridad]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autoconcepto y autoestima

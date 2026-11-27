@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los estudios con chicos son más difíciles de leer que los de adultos por tres razones propias: el padre, la maestra y el chico cuentan cosas distintas, el desarrollo cambia lo que se mide de un año a otro, y la misma realidad da números distintos según se mida síntomas o diagnósticos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC4103654
@@ -15,7 +15,7 @@ fuentes:
 aliases: [investigación con niños, informantes múltiples, cómo leer un estudio con chicos]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Investigar con chicos

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las discusiones abiertas de la psicología infantil sobre cuánto del aumento de diagnósticos es más trastorno y cuánto es más detección: la edad relativa en el TDAH, el aumento del autismo, las críticas al DSM y a la medicalización, el ABA frente a la neurodiversidad y los hallazgos famosos que no se replicaron.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC6322209
@@ -27,7 +27,7 @@ fuentes:
 aliases: [más diagnósticos no es más trastorno, sobrediagnóstico, controversias en psicología infantil, medicalización de la infancia]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Debates de psicología infantil

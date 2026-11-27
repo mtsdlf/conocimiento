@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los miedos son normales en la infancia y cambian con la edad; se vuelven un trastorno de ansiedad cuando son mucho más intensos o duraderos que en otros chicos de la misma edad y le impiden hacer su vida, y la terapia cognitivo-conductual es la que tiene mejor respaldo frente a no tratar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.cochrane.org/evidence/CD013162_cognitive-behavioural-therapy-anxiety-children-and-young-people
@@ -17,7 +17,7 @@ fuentes:
 aliases: [trastornos de ansiedad en la infancia, ansiedad infantil, ansiedad de separación, fobias, mutismo selectivo, TOC infantil]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ansiedad y miedos

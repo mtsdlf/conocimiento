@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La adversidad en la niñez, el maltrato, la violencia en casa, la pérdida o la negligencia, se asocia con más riesgo de problemas de salud y de salud mental hasta la adultez, pero la resiliencia es común; cuando deja un trastorno por estrés postraumático, la terapia cognitivo-conductual centrada en el trauma es lo que recomienda la guía NICE, y una revisión Cochrane coincide con una evidencia de calidad baja.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.cdc.gov/aces/about/index.html
@@ -19,7 +19,7 @@ fuentes:
 aliases: [experiencias adversas en la infancia, ACE, maltrato infantil, trauma infantil, TEPT infantil, estrés postraumático en chicos, trastorno reactivo del apego, RAD]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Adversidad y trauma

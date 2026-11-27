@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los trastornos específicos del aprendizaje, que la ley argentina llama dificultades específicas del aprendizaje (DEA), son dificultades persistentes para leer, escribir o calcular que no se explican por falta de enseñanza ni por un problema intelectual general; la más estudiada es la dislexia, y en Argentina los regula la Ley 27.306.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.boletinoficial.gob.ar/detalleAviso/primera/153296/20161104
@@ -11,7 +11,7 @@ fuentes:
 aliases: [DEA, dificultades específicas del aprendizaje, trastorno específico del aprendizaje, dislexia, discalculia, disgrafía, disortografía]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trastornos del aprendizaje

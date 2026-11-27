@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un test psicológico es una prueba estandarizada que compara a un chico con otros de su edad en algo concreto (inteligencia, desarrollo, rasgos de autismo, atención); sirve como una pieza de la evaluación, y un cribado positivo o un puntaje no alcanzan solos para un diagnóstico.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.pearsonassessments.com/store/usd/p/100000771.html
@@ -14,7 +14,7 @@ fuentes:
 aliases: [tests, pruebas psicológicas, psicometría infantil, cribado, screening, WISC-V, M-CHAT, ADOS-2, CBCL, Conners]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tests psicológicos
