@@ -15,7 +15,7 @@ fuera:
   - la factura electrónica, las alícuotas y las retenciones como obligación recurrente — tema Impuestos (no armado)
   - el recorrido de punta a punta del proyecto al cobro (project-to-cash) — tema Procesos de negocio (sesión 13, no armado)
   - el PSA como categoría de software — tema Software de gestión (sesión 14, no armado)
-  - la posventa (consultas, reclamos) — tema Servicio al cliente (no armado); la visita técnica y la orden de trabajo sobre un equipo — tema Activos y mantenimiento (no armado)
+  - la posventa (consultas, reclamos) — tema Servicio al cliente (Servicio-al-cliente/servicio-al-cliente.md); la visita técnica y la orden de trabajo sobre un equipo — tema Activos y mantenimiento (no armado)
   - seleccionar, evaluar y hacer crecer a las personas — Liderazgo-y-direccion/Gestion-de-personas; se enlaza
   - productos de PSA o ERP, comparativas y precios — fuera de la base
 fuentes: []
@@ -51,7 +51,7 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 | Impuestos (no armado) | qué impuesto lleva la factura y qué retenciones se sufren | La nota de Argentina de acá los nombra y los va a enlazar |
 | Procesos de negocio (no armado) | el recorrido del proyecto al cobro | El recorrido entero allá; cada paso, en su dominio |
 | Software de gestión (no armado) | el PSA como categoría de producto y las columnas técnicas | Acá el saber del dominio, que existe sin software |
-| Servicio al cliente y Activos y mantenimiento (no armados) | la posventa y la orden de trabajo sobre un equipo | Un servicio de campo se gestiona allá aunque se facture por hora |
+| [Servicio al cliente](../Servicio-al-cliente/servicio-al-cliente.md) y Activos y mantenimiento (no armado) | la posventa y la orden de trabajo sobre un equipo | Un servicio de campo se gestiona allá aunque se facture por hora |
 
 Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
 
