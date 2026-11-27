@@ -46,15 +46,15 @@ flowchart LR
 
 La flecha de vuelta es una inferencia de esta base: un equipo que rindió bien entra al ciclo siguiente con otra experiencia, y el esquema del campo admite ese ciclo, aunque las fuentes leídas no lo describen.
 
-## Lo que más se sostiene: el diseño pesa antes que la marcha
+## La idea central: el diseño pesa antes que la marcha
 
-El hallazgo que atraviesa la vertical es de Hackman (1998): un equipo rinde cuando está bien armado, y el coaching sirve poco si la base está mal. Hackman dice que es «nearly impossible to coach a team» con una estructura y un contexto malos. Los procesos de equipo (planificar, coordinar, monitorear, apoyarse) se asocian con desempeño y satisfacción en el metaanálisis de LePine y colegas (2008), según su abstract. Para quien dirige, eso ordena el trabajo: primero la tarea, quiénes y cuántos, después el clima y las discusiones.
+La idea que atraviesa la vertical es de Hackman (1998), que es teoría con investigación de campo del propio autor y sin metaanálisis que la pruebe: un equipo rinde cuando está bien armado, y el coaching sirve poco si la base está mal. Hackman dice que es «nearly impossible to coach a team» con una estructura y un contexto malos. Los procesos de equipo (planificar, coordinar, monitorear, apoyarse) se asocian con desempeño y satisfacción en el metaanálisis de LePine y colegas (2008), según su abstract. Una lectura de esta base para quien dirige: primero la tarea, quiénes y cuántos, después el clima y las discusiones.
 
-La seguridad psicológica es el concepto más citado de la vertical y uno de los mejor respaldados, con un metaanálisis de 136 muestras. Su fama vino de Google, y el estudio de Google no publicó su método: lo cuenta [seguridad psicológica](seguridad-psicologica.md). El mito de que es «lo único que importa» está en [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md).
+La seguridad psicológica es el concepto más citado de la vertical y tiene respaldo en un metaanálisis de 136 muestras, del que esta base leyó el abstract y no los coeficientes. Su fama vino de Google, y el estudio de Google no publicó su método: lo cuenta [seguridad psicológica](seguridad-psicologica.md). El mito de que es «lo único que importa» está en [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md).
 
 ## Dónde falla la evidencia para una empresa chica
 
-Casi nada de lo que sigue se estudió en empresas de 2 a 50 personas. La evidencia viene de corporaciones (Google, Microsoft, Ctrip, empresas del S&P 500 y de Fortune 500), de plantas industriales y de laboratorios con estudiantes. Cada componente dice de dónde salen sus números.
+Casi nada de lo que sigue se estudió en empresas de 2 a 50 personas. La evidencia viene de corporaciones (Google, Microsoft, Ctrip, empresas del S&P 500 y de Fortune 500), de una planta manufacturera y de experimentos de laboratorio. Cada componente dice de dónde salen sus números.
 
 Hay dos cosas que se mezclan seguido. Una es el rendimiento de un equipo, que estudian los metaanálisis de equipos. Otra es la rentabilidad de una empresa según quién está en su dirección, que estudian correlaciones entre empresas como las de McKinsey. La segunda no prueba nada sobre la primera: lo detalla [tamaño y composición](tamano-y-composicion.md).
 

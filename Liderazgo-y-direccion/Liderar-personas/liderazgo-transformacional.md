@@ -23,38 +23,38 @@ revisado:
 
 El liderazgo transformacional es el estilo que inspira y moviliza a la gente más allá de su interés inmediato, en el modelo que formalizó Bass. Es el más estudiado del campo: predice resultados de forma consistente, pero la crítica más seria sostiene que no se sabe bien qué mide.
 
-Es una de las [teorías del liderazgo](teorias-del-liderazgo.md), la de la ola carismática y transformacional. Se mide sobre todo con un cuestionario, el MLQ (Multifactor Leadership Questionnaire), en el que los empleados califican a su jefe. Lo que Kotter atribuye a liderar, «Setting a direction», «Aligning people» y «Motivating and inspiring», está cerca de lo que este estilo describe.
+Es una de las [teorías del liderazgo](teorias-del-liderazgo.md), la de la ola carismática y transformacional. Una de sus medidas es el cuestionario MLQ (Multifactor Leadership Questionnaire). Lo que Kotter atribuye a liderar, «Setting a direction», «Aligning people» y «Motivating and inspiring», está cerca de lo que este estilo describe; es una lectura de esta base, no de Kotter.
 
 ## El rango completo: transformacional, transaccional y laissez-faire
 
-El modelo pone al transformacional en un extremo de un rango que sigue con el transaccional y termina en el laissez-faire. El transaccional tiene dos partes: la recompensa contingente (dar algo a cambio de lo que se pide) y la gestión por excepción, activa o pasiva (intervenir cuando algo sale mal). El laissez-faire es no dirigir, y su daño está en [liderazgo destructivo](liderazgo-destructivo.md). Antonakis, Avolio y Sivasubramaniam (2003) examinaron con el MLQ una versión de nueve factores en distintos contextos; esta base solo leyó sus metadatos.
+El metaanálisis de Judge y Piccolo compara el transformacional con las dimensiones transaccionales, la recompensa contingente y la gestión por excepción (activa y pasiva), y con el laissez-faire, que es no dirigir. El daño de este último está en [liderazgo destructivo](liderazgo-destructivo.md). Antonakis, Avolio y Sivasubramaniam (2003) examinaron con el MLQ una versión de nueve factores en distintos contextos; esta base solo leyó sus metadatos.
 
 > [!NOTE] Sin fuente todavía: los cuatro componentes del transformacional según Bass (1985) y su descripción en el MLQ. Ni el libro ni el instrumento se pudieron leer.
 
-## Lo que predice: .44, y la recompensa contingente casi igual
+## Lo que predice: .44, con la recompensa contingente cerca
 
-Judge y Piccolo (2004) reunieron 626 correlaciones de 87 fuentes. Según el abstract, la validez global del transformacional fue de .44, y se mantuvo en diseños longitudinales y con datos de más de una fuente. La recompensa contingente quedó casi igual de fuerte (.39) y el laissez-faire en contra (-.37); la gestión por excepción dio relaciones inconsistentes.
+Judge y Piccolo (2004) reunieron 626 correlaciones de 87 fuentes. Según el abstract, la validez global del transformacional fue de .44, y se mantuvo en diseños longitudinales y con datos de más de una fuente. La recompensa contingente y el laissez-faire siguieron en fuerza, y la gestión por excepción (activa y pasiva) dio relaciones inconsistentes. El abstract implica que el laissez-faire se relaciona en sentido negativo, pero el texto que leyó esta base no lo dice con ese signo.
 
 Tres matices del mismo abstract cambian cómo se lee la cifra:
 
 1. Para algunos criterios, la recompensa contingente se relaciona más con los resultados que el transformacional.
 2. Transformacional y transaccional están muy correlacionados entre sí.
-3. El transformacional predice los resultados del equipo controlando las demás dimensiones, pero no predice el desempeño propio del líder.
+3. El transformacional generalmente predice los resultados controlando las demás dimensiones, pero no predice el desempeño propio del líder.
 
-Para una empresa chica, la lectura práctica es que cumplir lo que se promete a cambio del trabajo rinde casi lo mismo que inspirar. Es inferencia de esta base sobre un metaanálisis de organizaciones grandes.
+Para una empresa chica, la lectura práctica es que cumplir lo que se promete a cambio del trabajo puede importar tanto como inspirar. Es inferencia de esta base sobre un metaanálisis de organizaciones grandes.
 
 ## La crítica: predice, pero no se sabe qué mide
 
 > [!IMPORTANT]
-> **Es un constructo válido que predice resultados (Judge y Piccolo 2004).** La correlación de .44 sobrevive a diseños longitudinales y multifuente, y el transformacional predice controlando las otras dimensiones.
+> **Predice resultados (Judge y Piccolo 2004).** La correlación de .44 sobrevive a diseños longitudinales y multifuente, y el transformacional generalmente predice controlando las otras dimensiones.
 >
-> **Hay que volver a empezar (van Knippenberg y Sitkin 2013).** Según el abstract, la investigación tiene cuatro problemas: una definición con varias dimensiones sin explicar por qué se incluyen ni cómo se combinan; un modelo causal que no dice cómo actúa cada dimensión ni en qué condiciones; la confusión entre el estilo y sus efectos al definirlo y al medirlo; y unos instrumentos que reproducen sus dimensiones pero no se distinguen de otros aspectos del liderazgo. Recomiendan abandonar los enfoques actuales y el rótulo carismático-transformacional.
+> **Hay que volver a empezar (van Knippenberg y Sitkin 2013).** Según el abstract, la investigación tiene cuatro problemas: una definición con varias dimensiones sin explicar por qué se incluyen ni cómo se combinan; un modelo causal que no dice cómo actúa cada dimensión ni en qué condiciones; una confusión (confounding) en cómo se define y se opera el constructo; y unos instrumentos que reproducen sus dimensiones pero no se distinguen de otros aspectos del liderazgo. Recomiendan abandonar los enfoques actuales y el rótulo carismático-transformacional.
 >
-> Las dos posiciones no se contradicen en los datos: una dice que la medida correlaciona con resultados, y la otra, que no se sabe qué conducta hay detrás de la medida.
+> Esta base las lee como compatibles: una dice que la medida correlaciona con resultados, y la otra, que no se sabe qué conducta hay detrás de la medida.
 
 La crítica se apoya en dos problemas de método que atraviesan el campo. El primero es la redundancia: según un resumen de Banks y colegas (2018), las conductas inspiradoras, las de tarea, las relacionales y las pasivas se solapan, y muchas correlacionan alto con lo que deberían predecir (confianza, LMX, justicia). El auténtico y el transformacional dan ρ = .72 en 100 muestras (Banks y colegas 2016, según un resumen), y Hoch y colegas (2018) encontraron que el ético, el auténtico y el de servicio agregan poco sobre el transformacional; está en [teorías del liderazgo](teorias-del-liderazgo.md).
 
-El segundo es la causalidad. Antonakis y colegas (2010), según un resumen, encontraron que entre el 66 % y el 90 % de 110 artículos de liderazgo no atendía las condiciones para afirmar una causa. Si el mismo empleado califica al jefe y a su propio desempeño, la correlación puede venir de su opinión general del jefe.
+El segundo es la causalidad. Antonakis y colegas (2010), según un resumen, revisaron 110 artículos de liderazgo y encontraron que los investigadores no atendían entre el 66 % y el 90 % de las condiciones de diseño que permiten afirmar una causa. Una de las fuentes de problema que enumeran es el sesgo de método común: si la misma persona califica al jefe y los resultados, la correlación puede venir de su opinión general del jefe.
 
 > [!NOTE] Sin fuente todavía: cuánto de la correlación con el desempeño sobrevive a controles de endogeneidad, y una fuente verificada sobre las correlaciones entre los factores del MLQ.
 

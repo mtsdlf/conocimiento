@@ -35,7 +35,7 @@ Son dos preguntas con literaturas distintas. La primera es descriptiva: se obser
 
 Mintzberg (1971) observó con cronómetro a cinco directores ejecutivos, una semana intensiva cada uno, en una consultora, un hospital escuela, un sistema escolar, una empresa de alta tecnología y un fabricante de consumo masivo. Según un resumen, el patrón central fue el de muchos episodios breves con una gran variedad de personas. De ahí derivó diez roles en tres grupos: interpersonales (figura representativa, líder, enlace), informativos (monitor, difusor, vocero) y decisorios. El liderazgo queda como uno de los diez roles, no como una tarea aparte.
 
-La estructura de diez roles no se confirmó. Según un resumen, un estudio de seguimiento con gerentes públicos encontró cuatro factores y no diez, y el propio Mintzberg dice que los roles fragmentan lo que en la práctica es un trabajo integrado. Lo que se sostuvo es el patrón: trabajo cortado en pedazos y hecho hablando con gente.
+La estructura de diez roles no se confirmó. Según un resumen, un estudio de seguimiento con gerentes públicos encontró cuatro factores y no diez, y, según el mismo resumen, el propio Mintzberg dice que los roles fragmentan lo que en la práctica es un trabajo integrado. Lo que se sostuvo es el patrón: trabajo cortado en pedazos y hecho hablando con gente.
 
 Porter y Nohria (2018) siguieron a 27 CEOs de grandes empresas durante 13 semanas, todos del New CEO Workshop de Harvard Business School. Según la nota de McKinsey sobre el artículo, fueron unas 60.000 horas, con un promedio de 37 reuniones por semana que ocupaban el 72 % del tiempo de trabajo. Es el complemento descriptivo más reciente, con una muestra chica y de corporaciones.
 
@@ -43,7 +43,7 @@ Porter y Nohria (2018) siguieron a 27 CEOs de grandes empresas durante 13 semana
 
 Bandiera, Prat, Hansen y Sadun (2020) midieron la agenda de 1.114 CEOs en seis países (Brasil, Francia, Alemania, India, Reino Unido y Estados Unidos) con diarios detallados. Un algoritmo de aprendizaje automático no supervisado separó dos tipos de conducta. Los «leaders» pasan el tiempo en reuniones de alto nivel con varias funciones; los «managers», en reuniones uno a uno con las funciones centrales. Las etiquetas son de los autores y describen uso del tiempo, no talento ni el liderazgo de Kotter que define la [entrada del tema](../liderazgo-y-direccion.md).
 
-Según el abstract, «Firms that hire leaders perform better, and it takes three years for a new CEO to make a difference». La brecha aparece después de la contratación y crece de a poco. La lectura correcta es la del propio modelo: según el resumen de LSE, las diferencias de productividad se deben a desajustes entre tipo de CEO y empresa, no a que el tipo «leader» sirva para todas. El abstract de la versión de trabajo estima que alrededor del 17 % de los CEOs de la muestra está mal emparejado con su empresa. El informe de la posición contraria pide cotejar esa cifra con la versión publicada.
+Según el abstract publicado, «Firms that hire leaders perform better, and it takes three years for a new CEO to make a difference». La brecha aparece después de la contratación y crece de a poco. La lectura correcta es la del propio modelo: según el mismo abstract, las estimaciones estructurales atribuyen las diferencias de productividad a desajustes entre tipo de CEO y empresa, y no a que el tipo «leader» sirva para todas. El abstract de la versión de trabajo estima que alrededor del 17 % de los CEOs de la muestra está mal emparejado con su empresa. El abstract publicado no repite esa cifra, así que queda atada a la versión de trabajo.
 
 Bertrand y Schoar (2003) siguieron a ejecutivos que pasan de una empresa a otra. Según el abstract, el efecto propio de cada gerente pesa en una amplia gama de decisiones corporativas, su «estilo» se relaciona con el desempeño, y los de mayor efecto cobran más y están en empresas mejor gobernadas.
 
@@ -52,7 +52,7 @@ Bertrand y Schoar (2003) siguieron a ejecutivos que pasan de una empresa a otra.
 El «efecto CEO» es la parte de la variación del desempeño entre empresas que se atribuye a quien las dirige. Se estima con descomposición de varianza, y la cifra cambia mucho con el método. Nadie sostiene que sea cero ni que explique la mayor parte del resultado.
 
 > [!IMPORTANT]
-> **El efecto CEO se confunde con el azar (Fitza 2014 y 2017).** Según el abstract de 2014, los estudios de descomposición de varianza atribuyen al CEO lo que es azar y así inflan el efecto. Fitza simuló desempeños puramente aleatorios para ver cuánto efecto aparece igual. Según una nota de prensa de su universidad, no verificada contra el artículo, el efecto que se distingue del azar estaría entre 3,9 % y 5,0 %. En su réplica de 2017 escribe que «the effect of CEO leadership is almost indistinguishable from the effect of chance», cualquiera sea el método.
+> **El efecto CEO se confunde con el azar (Fitza 2014 y 2017).** Según el abstract de 2014, los estudios de descomposición de varianza atribuyen al CEO lo que es azar y así inflan el efecto. Según un resumen, Fitza simuló desempeños puramente aleatorios para ver cuánto efecto aparece igual. Según una nota de prensa de su universidad, no verificada contra el artículo, el efecto que se distingue del azar estaría entre 3,9 % y 5,0 %. En su réplica de 2017 escribe que «the effect of CEO leadership is almost indistinguishable from the effect of chance», cualquiera sea el método.
 >
 > **El efecto es grande y creció (Quigley, Hambrick y Graffin).** Hambrick y Quigley (2014), con 830 CEOs, 20 años y 4.866 años de CEO, encuentran según un resumen un efecto mucho mayor que el de los métodos clásicos. Quigley y Hambrick (2015), con más de 18.000 años de empresa a lo largo de seis décadas, encuentran según un resumen que el efecto creció con el tiempo. Quigley y Graffin (2017), en un comentario titulado «Reaffirming the CEO effect is significant and much larger than chance», sostienen que el método de Fitza sobreestima el azar.
 >
@@ -60,7 +60,7 @@ El «efecto CEO» es la parte de la variación del desempeño entre empresas que
 
 Para una empresa chica, el debate sirve como advertencia más que como número. Toda esta literatura es de empresas grandes y cotizantes. Que en una empresa de diez personas el CEO pese más por construcción es una inferencia razonable, pero ningún estudio leído la mide. Lo que sí traslada es la regla de lectura: un éxito o un fracaso no alcanza para juzgar a quien dirige, porque el azar se parece mucho a la habilidad. Cómo se separa una causa de una correlación está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
 
-> [!NOTE] Sin fuente todavía: estudios de uso del tiempo o de efecto del CEO en empresas de 2 a 50 personas, y la versión publicada de Bandiera y colegas cotejada con las cifras de la versión de trabajo.
+> [!NOTE] Sin fuente todavía: estudios de uso del tiempo o de efecto del CEO en empresas de 2 a 50 personas, y las cifras de la versión de trabajo de Bandiera y colegas cotejadas con el cuerpo de la versión publicada.
 
 ## La fórmula de Grove, como práctica
 

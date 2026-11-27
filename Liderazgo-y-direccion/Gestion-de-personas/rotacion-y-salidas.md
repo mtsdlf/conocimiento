@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La rotación es la salida de personas de una empresa, por decisión propia (rotación voluntaria) o de la empresa (despido). Depende de muchas causas cuyo peso cambia según el contexto, y cómo se trata a quien se va pesa también en quienes se quedan.
+  La rotación es la salida de personas de una empresa, por decisión propia (rotación voluntaria) o de la empresa (despido). Depende de muchas causas cuyo peso cambia según el contexto. La investigación sobre justicia estudia cómo se trata a quien se va y cómo lo viven quienes se quedan.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -28,32 +28,32 @@ revisado:
 
 # Rotación y salidas
 
-La rotación es la salida de personas de una empresa, por decisión propia (rotación voluntaria) o de la empresa (despido). Depende de muchas causas cuyo peso cambia según el contexto, y cómo se trata a quien se va pesa también en quienes se quedan.
+La rotación es la salida de personas de una empresa, por decisión propia (rotación voluntaria) o de la empresa (despido). Depende de muchas causas cuyo peso cambia según el contexto. La investigación sobre justicia estudia cómo se trata a quien se va y cómo lo viven quienes se quedan.
 
-Es la última etapa del ciclo de [gestión de personas](gestion-de-personas.md), y cada etapa anterior la alimenta: la salida temprana depende de la [incorporación](incorporacion.md), y la tardía, entre otras cosas, del [pago](compensacion-e-incentivos.md) y del [desarrollo](desarrollo-de-personas.md). En un equipo de diez personas, una salida es el 10 % del equipo.
+Es la última etapa del ciclo de [gestión de personas](gestion-de-personas.md), y cada etapa anterior puede alimentarla (inferencia de esta base): la salida temprana, de la [incorporación](incorporacion.md), y la tardía, entre otras cosas, del [pago](compensacion-e-incentivos.md) y del [desarrollo](desarrollo-de-personas.md). En un equipo de diez personas, una salida es el 10 % del equipo.
 
 ## Muchas causas, cada una según el contexto
 
-La rotación voluntaria tiene un centenar de años de estudio y ninguna causa dominante. Griffeth, Hom y Gaertner (2000) hicieron, según su abstract, «the most wide-ranging quantitative review to date of the predictive strength of numerous turnover antecedents». Rubenstein, Eberly, Lee y Mitchell (2018) lo actualizaron y encontraron que muchas relaciones entre una causa y la salida son «context-dependent».
+La rotación voluntaria tiene un centenar de años de estudio y muchas causas. Griffeth, Hom y Gaertner (2000) hicieron, según su abstract, «the most wide-ranging quantitative review to date of the predictive strength of numerous turnover antecedents». Rubenstein, Eberly, Lee y Mitchell (2018) lo actualizaron y encontraron que muchas relaciones entre una causa y la salida son «context-dependent».
 
-La teoría cambió de pregunta con el tiempo. Según la revisión de Hom, Lee, Shaw y Hausknecht (2017), primero se buscaron métodos para bajar la rotación, a mediados del siglo XX llegó la teoría, y después la psicología de por qué la gente se queda. Esa última línea habla de arraigo laboral («job embeddedness», Mitchell y colegas, 2001): los lazos que retienen a una persona aunque esté insatisfecha. Esta base solo confirmó la referencia de ese trabajo.
+La teoría cambió de pregunta con el tiempo. Según la revisión de Hom, Lee, Shaw y Hausknecht (2017), primero se buscaron métodos para bajar la rotación, a mediados del siglo XX llegó la teoría, y después la psicología de por qué la gente se queda. Esa última línea incluye el arraigo laboral («job embeddedness», Mitchell y colegas, 2001). Esta base solo confirmó la referencia de ese trabajo.
 
 > [!NOTE] Sin fuente todavía: las magnitudes. Ni Griffeth y colegas (2000) ni Rubenstein y colegas (2018) traen sus coeficientes en el abstract, así que no se sabe cuánto pesa el sueldo, el jefe o la carga frente a lo demás. Tampoco hay evidencia sobre las entrevistas de salida.
 
 ## «La gente se va de los jefes» es en parte cierto
 
 > [!IMPORTANT]
-> **El jefe es la causa principal (Gallup, 2015).** Según un resumen, un estudio de Gallup con 7.272 adultos de Estados Unidos halló que «one in two» dejó un trabajo para alejarse de su gerente en algún momento de su carrera. Otra nota de Gallup dice que los gerentes explican «at least 70% of the variance» del compromiso entre unidades; el mismo texto dice «up to» en el resumen, y la cifra es sobre compromiso, no sobre salidas. Gallup no publica sus datos. Hay evidencia independiente de que el jefe importa: con datos de una empresa, Lazear, Shaw y Stanton (2015) encontraron que «Workers assigned to better bosses are less likely to leave the firm».
+> **El jefe es la causa principal (Gallup, 2015).** Según un resumen, un estudio de Gallup con 7.272 adultos de Estados Unidos halló que «one in two» dejó un trabajo para alejarse de su gerente en algún momento de su carrera. Otra nota de Gallup dice que los gerentes explican «at least 70% of the variance» del compromiso entre unidades; el mismo texto dice «up to» en el resumen, y la cifra es sobre compromiso, no sobre salidas. Según Culture Amp, Gallup no publica sus datos, y esta base no encontró la metodología. Hay evidencia independiente de que el jefe importa: con datos de una empresa, Lazear, Shaw y Stanton (2015) encontraron que «Workers assigned to better bosses are less likely to leave the firm».
 >
-> **El jefe pesa junto con las condiciones (revisión de Jiken y Yusoff, 2026).** Según la nota de prensa de la Universidad de Durham, la revisión de 39 trabajos de la última década concluye que la rotación resulta «of both leadership and organisational conditions, not managers alone», y que «leadership alone can be overpowered when workload remains high and resources are consistently below par». Según un resumen del buscador, un estudio de Culture Amp de 2017 había puesto las oportunidades de desarrollo por delante del jefe.
+> **El jefe pesa junto con las condiciones (revisión de Jiken y Yusoff, 2026).** Según la nota de prensa de la Universidad de Durham, la revisión de 39 trabajos de la última década concluye que la rotación resulta «of both leadership and organisational conditions, not managers alone», y que «leadership alone can be overpowered when workload remains high and resources are consistently below par». Según un resumen del buscador, un estudio de Culture Amp de 2017 había puesto las oportunidades de desarrollo por delante del jefe, aunque según el mismo resumen la propia Culture Amp dijo después que parte de esas afirmaciones no resistió.
 >
 > Que el jefe importa para quedarse tiene respaldo; que la mayoría se va por el jefe no lo sostiene ninguna fuente leída. Está entre los [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md) como mal citado.
 
-## Cómo se despide pesa en los que se quedan
+## Cómo se despide: justicia y sobrevivientes
 
-Un despido se juzga por más que su resultado. El metaanálisis de Colquitt y colegas (2001), con 183 estudios, separa la justicia del resultado (distributiva) de la del proceso (procedimental), la del trato (interpersonal) y la de las explicaciones (informacional); cada una aporta algo propio y se asocia con compromiso, retiro y desempeño. Brockner y colegas (1994) estudiaron en tres trabajos cómo la justicia del proceso interactúa con lo negativo del resultado, en los despedidos y en los sobrevivientes; esta base no tiene sus resultados porque el abstract llegó cortado.
+La investigación sobre justicia distingue más que el resultado de un despido. El metaanálisis de Colquitt y colegas (2001), con 183 estudios, separa la justicia del resultado (distributiva) de la del proceso (procedimental), la del trato (interpersonal) y la de las explicaciones (informacional); cada una aporta algo propio y se asocia con compromiso, retiro y desempeño. Brockner y colegas (1994) estudiaron en tres estudios cómo la justicia del proceso interactúa con lo negativo del resultado, en los despedidos y en los sobrevivientes; esta base no tiene sus resultados porque el abstract llegó cortado.
 
-Del lado de la práctica, Horowitz (2010) escribió sobre despidos colectivos a partir de las tres rondas que hizo en su empresa. Según un resumen, recomienda decir que fue una falla de la empresa y no de las personas, que cada jefe despida a su propia gente, y que el CEO hable a todos, porque «the message is for the people who are staying»: «the people who stay will care deeply about how you treat their colleagues». Es un solo caso, pero coincide con lo que mide la investigación sobre justicia interpersonal e informacional. Cómo conducir esa conversación es del tema Comunicación, todavía sin escribir.
+Del lado de la práctica, Horowitz (2010) escribió sobre despidos colectivos a partir de las tres rondas que hizo en su empresa. Según un resumen, recomienda decir que fue una falla de la empresa y no de las personas, que cada jefe despida a su propia gente, y que el CEO hable a todos, porque «the message is for the people who are staying»: «the people who stay will care deeply about how you treat their colleagues». Es un solo caso, sin medición. Cómo conducir esa conversación es del tema Comunicación, todavía sin escribir.
 
 ## El límite legal en Argentina
 
@@ -62,6 +62,6 @@ Del lado de la práctica, Horowitz (2010) escribió sobre despidos colectivos a 
 
 ## Lo que se sostuvo y lo que está en disputa
 
-Se sostuvo que la rotación voluntaria tiene muchas causas que dependen del contexto y que la justicia percibida importa. Se achicó «la gente se va de los jefes»: el dato que lo sostiene es de una consultora que no abre sus datos, y la revisión de 2026 lo matiza. Sigue en disputa cuánto pesa el jefe frente a la carga, el desarrollo y el pago. La evidencia viene de metaanálisis que no separan por tamaño de empresa, de los datos de una sola empresa de servicios técnicos y de encuestas comerciales.
+Se sostuvo que la rotación voluntaria tiene muchas causas que dependen del contexto y que la justicia percibida importa. Se achicó «la gente se va de los jefes»: el dato que lo sostiene es de una consultora sin metodología pública, y la revisión de 2026 lo matiza. Sigue en disputa cuánto pesa el jefe frente a la carga, el desarrollo y el pago. La evidencia viene de metaanálisis que no separan por tamaño de empresa, de los datos de una sola empresa de servicios técnicos y de encuestas comerciales.
 
 Para leer: Rubenstein y colegas (2018), como mapa de causas; Hom y colegas (2017), para ver cómo cambió la teoría; Colquitt y colegas (2001), para la justicia. Al leer cualquier cifra de rotación, conviene fijarse si mide salidas voluntarias, despidos o las dos.

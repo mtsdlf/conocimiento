@@ -27,19 +27,19 @@ Queda fuera de las seis partes de [Liderazgo y dirección](../liderazgo-y-direcc
 
 ## Por qué un estudio de liderazgo prueba menos de lo que parece
 
-El problema más extendido es de diseño. La mayoría de los estudios pide a los empleados que califiquen a su jefe y su propio desempeño en el mismo cuestionario, y la correlación sale inflada por esa fuente común (sesgo de método común). Además, causa y efecto se mezclan: un equipo que rinde puede hacer que su jefe parezca mejor, y no al revés (endogeneidad). Antonakis y colegas (2010) revisaron 110 artículos y, según un resumen, los investigadores no atendían entre el 66 % y el 90 % de las condiciones para afirmar una causa. Su crítica es al diseño: el efecto real puede ser menor, igual o mayor.
+El problema más extendido es de diseño. Una parte grande de los estudios pide a los empleados que califiquen a su jefe y su propio desempeño en el mismo cuestionario, y la correlación sale inflada por esa fuente común (sesgo de método común). Además, causa y efecto se mezclan: un equipo que rinde puede hacer que su jefe parezca mejor, y no al revés (endogeneidad). Antonakis y colegas (2010) revisaron 110 artículos y, según un resumen, los investigadores no atendían al menos el 66 % y hasta el 90 % de las condiciones para afirmar una causa. Su crítica es al diseño: el efecto real puede ser menor, igual o mayor.
 
 El segundo problema es de nombres. Banks y colegas (2018), según un resumen, encuentran que los estilos orientados a la tarea, a la relación, pasivos e inspiradores se solapan, y que varios correlacionan alto con lo que deberían predecir, como la confianza. Lo trata [teorías del liderazgo](../Liderar-personas/teorias-del-liderazgo.md).
 
-El tercero es cuánto vale el líder. Fitza (2017) concluye que «the effect of CEO leadership is almost indistinguishable from the effect of chance»; Hambrick y Quigley (2014), según un resumen, estiman hasta 38,5 % del desempeño. Las dos posiciones están publicadas en la misma revista; el debate está en [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md).
+El tercero es cuánto vale el líder. Fitza (2017) concluye que «the effect of CEO leadership is almost indistinguishable from the effect of chance»; Hambrick y Quigley (2014), según un resumen, estiman un efecto mucho mayor que los métodos clásicos; cifras más altas, como 38,5 %, circulan sin verificar. Las dos posiciones están publicadas en la misma revista; el debate está en [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md).
 
-No todo cae. Lo que mejor resiste son los experimentos de campo con prácticas de gestión, que cuenta [escuelas](escuelas-de-liderazgo-y-direccion.md), y la formación de líderes: el metaanálisis de Lacerenza y colegas (2017) encuentra que entrenar mejora algo, con la duda de si los resultados medidos son conducta observada o percepción de jefes y pares.
+No todo cae. Lo que mejor resiste son los experimentos de campo con prácticas de gestión, que cuenta [escuelas](escuelas-de-liderazgo-y-direccion.md), y la formación de líderes: el metaanálisis de Lacerenza y colegas (2017) encuentra que entrenar mejora algo, con la reserva, sin verificar, de si los resultados medidos son conducta observada o percepción de jefes y pares.
 
 Queda la distancia con el público de esta base. Casi ningún estudio de los informes trata empresas de 2 a 50 personas: la evidencia viene de corporaciones cotizantes, de laboratorios con estudiantes o de empresas con capital de riesgo. Una empresa chica puede usarla como dirección, no como cifra.
 
 ## Dónde pone el campo cada parte del tema
 
-Los libros de liderazgo se ordenan por teorías: Yukl y Gardner pasan de la conducta a la situación, el poder, los rasgos y el carisma; Northouse dedica un capítulo a cada enfoque. Este tema se ordena por lo que hace quien dirige, y por eso coincide con los textos en unas partes y no en otras.
+Los libros de liderazgo se ordenan por teorías: Yukl y Gardner recorren la conducta, la situación, el cambio, el poder, los rasgos y el carisma; Northouse dedica un capítulo a cada enfoque. Este tema se ordena por lo que hace quien dirige, y por eso coincide con los textos en unas partes y no en otras.
 
 | Parte del tema | Dónde la ubica el campo | Coincidencia |
 |---|---|---|

@@ -73,14 +73,14 @@ Primero cómo leer un estudio de liderazgo, después el mapa y recién entonces 
 | Benson, Li y Shue, *QJE*, 2019 | Por qué promover al mejor vendedor sale caro | Abstract |
 | Hill, *Becoming a Manager*, 2003 | La transición psicológica; estudio cualitativo con 19 personas | No |
 | Google re:Work, investigación sobre jefes (Oxígeno) | La lista de conductas; es una empresa grande y sus datos no se pueden auditar | Resumen |
-| Lacerenza et al., *Journal of Applied Psychology*, 2017 | Qué diseño de formación de líderes funciona: práctica, feedback, sesiones espaciadas | Abstract |
+| Lacerenza et al., *Journal of Applied Psychology*, 2017 | Qué diseño de formación de líderes funciona: práctica, feedback, sesiones espaciadas | Abstract; resumen |
 
 ## Para armar un equipo que rinda
 
 | Obra | Qué leer y en qué fijarse | Leído |
 |---|---|---|
 | Hackman, «Why Teams Don't Work», 1998 | Los errores comunes y las condiciones; el diseño pesa más que la conducción en la marcha | Entero, en partes |
-| Frazier et al., *Personnel Psychology*, 2017, junto con Edmondson, *ASQ*, 1999 | Qué predice la seguridad psicológica; casi todo es transversal | Abstract; metadatos |
+| Frazier et al., *Personnel Psychology*, 2017, junto con Edmondson, *ASQ*, 1999 | Qué predice la seguridad psicológica; según un resumen, la mayoría de los estudios es transversal | Abstract; metadatos |
 | de Wit, Greer y Jehn, *Journal of Applied Psychology*, 2012 | Los moderadores del conflicto de tarea | Abstract |
 | Staats, Milkman y Fox, *OBHDP*, 2012 | Por qué se subestima el costo de sumar gente | Entero el resumen y la introducción |
 | Hartnell, Ou y Kinicki, *Journal of Applied Psychology*, 2011 | Qué no se sostuvo del modelo de valores en competencia | Abstract |

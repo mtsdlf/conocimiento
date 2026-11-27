@@ -5,6 +5,7 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "Bloom, Eifert, Mahajan, McKenzie y Roberts (2013), Does Management Matter? Evidence from India, QJE 128(1) (abstract): https://doi.org/10.1093/qje/qjs044"
+  - "Bloom, Eifert, Mahajan, McKenzie y Roberts (2011), Does Management Matter? Evidence from India, NBER w16658 (abstract): https://doi.org/10.3386/w16658"
   - "Bloom y Van Reenen (2007), Measuring and Explaining Management Practices Across Firms and Countries, QJE 122(4) (según un resumen de NBER): https://nber.org/papers/w12216"
   - "Bloom, Brynjolfsson, Foster, Jarmin, Patnaik, Saporta-Eksten y Van Reenen (2019), What drives differences in management practices?, American Economic Review (según un resumen): https://www.aeaweb.org/doi/10.1257/aer.20170491"
   - "Versión de trabajo de 2017 del estudio del Censo (según un resumen): https://cep.lse.ac.uk/_NEW/PUBLICATIONS/abstract.asp?index=5356"
@@ -29,18 +30,18 @@ Es la parte de dirigir (fijar rumbo, organizar, hacer cumplir) y no la de lidera
 
 Rumelt, en *Good Strategy / Bad Strategy* (2011), llama «kernel» (núcleo) a lo mínimo que tiene una estrategia buena. Según un resumen del libro, tiene tres partes: un diagnóstico («what is going on here?»), una política guía que dice cómo se van a vencer los obstáculos del diagnóstico, y acciones coherentes, coordinadas entre sí. La mala estrategia, para él, es «long on goals and short on policy or action».
 
-El ejemplo del resumen es una almacenera gourmet que diagnostica la competencia de un supermercado cercano. La consecuencia para ejecutar es de orden: el núcleo se arma antes que las metas y los cronogramas. Una lista de metas sin diagnóstico no se puede bajar a la semana, porque no dice qué dejar de hacer. Es la idea de un autor con casos, no un resultado de investigación, y esta base no leyó el libro.
+El ejemplo del resumen es una almacenera gourmet que diagnostica la competencia de un supermercado cercano. La consecuencia para ejecutar es de orden: el núcleo se arma antes que las metas y los cronogramas. Una lista de metas sin diagnóstico no se puede bajar a la semana, porque no dice qué dejar de hacer (lectura de la base). Es la idea de un autor con casos, no un resultado de investigación, y esta base no leyó el libro.
 
 ## La gestión importa: lo que miden los estudios de prácticas
 
 El respaldo con datos viene de la economía, del grupo de Bloom y Van Reenen. Su encuesta puntúa 18 prácticas de gestión de 1 a 5 en tres dimensiones: monitoreo del desempeño, fijación de metas e incentivos y gestión de personas. Según un resumen de NBER, el estudio de 2007 cubrió 732 empresas manufactureras medianas de Estados Unidos, Francia, Alemania y el Reino Unido, y encontró una «long tail of extremely badly managed firms».
 
-El único estudio causal es el experimento de 2013 en plantas textiles de la India, que dio consultoría gratuita en esas prácticas a plantas elegidas al azar. Según el abstract publicado, adoptarlas «raised average productivity by 11%», con más delegación de decisiones y más uso de computadoras. Los autores concluyen que «Modern management is a technology that diffuses slowly between firms», y que las plantas no las adoptaban sobre todo por falta de información.
+El único experimento aleatorio de campo que encontró el informe es el de 2013 en plantas textiles de la India, que dio consultoría gratuita en esas prácticas a plantas elegidas al azar. Según el abstract publicado, adoptarlas «raised average productivity by 11%», con más delegación de decisiones y más uso de computadoras. Los autores concluyen que «Modern management is a technology that diffuses slowly between firms», y que las plantas no las adoptaban sobre todo por falta de información.
 
 > [!WARNING]
-> Circula otra cifra para el mismo experimento: cerca de un 17 % de productividad en el primer año, que trae la posición contraria de esta base desde una versión de trabajo. El abstract publicado en el QJE dice 11 %, y esa es la que usa esta base.
+> Circula otra cifra para el mismo experimento, cerca de un 17 % en el primer año. Los abstracts del working paper de NBER (2011) y de la versión publicada en el QJE (2013) dicen los dos 11 %, y esa es la que usa esta base; el origen del 17 % no se encontró.
 
-En Estados Unidos, la Oficina del Censo sumó la encuesta a sus plantas manufactureras. Según un resumen del artículo de 2019 en la American Economic Review, las prácticas de gestión explican «more than 20 percent of productivity variation», y alrededor del 40 % de la variación está dentro de una misma empresa. El tamaño de la muestra cambia según la versión: unas 35.000 plantas (2010 y 2015) en el artículo publicado, 32.000 en la versión de trabajo de 2017. Las dos cifras salen de resúmenes.
+En Estados Unidos, el Censo aplicó una encuesta de prácticas a plantas manufactureras. Según un resumen del artículo de 2019 en la American Economic Review, las prácticas de gestión explican «more than 20 percent of productivity variation», y unos 40 % de la variación está dentro de la misma firma (el resumen no aclara de qué variable). El tamaño de la muestra cambia según la versión: unas 35.000 plantas (2010 y 2015) en el artículo publicado, 32.000 en la versión de trabajo de 2017. Las dos cifras salen de resúmenes.
 
 ## Por qué se rompe la ejecución, según una encuesta a gerentes
 
@@ -64,7 +65,7 @@ Lo que recomiendan es coordinar entre áreas, adaptarse, asegurarse de que la es
 - **Es parcial**: los datos de encuesta son asociativos. Según un resumen, *Management as a Technology?* (2016) atribuye alrededor del 30 % de las diferencias de productividad a la gestión en más de 11.000 empresas de 34 países, pero es un modelo estructural sobre datos correlacionales.
 - **Es práctica sin prueba**: el núcleo de Rumelt y los mitos de Sull.
 
-La evidencia viene de plantas manufactureras medianas y grandes. Las prácticas que mide son operativas (indicadores, metas, incentivos), no de estilo de liderazgo. Para una empresa de 2 a 50 personas, lo que se puede tomar es la dirección: medir, fijar metas y revisar rinde más que no hacerlo. Las herramientas concretas son de practicantes.
+La evidencia viene de plantas manufactureras medianas y grandes. Las prácticas que mide son operativas (indicadores, metas, incentivos), no de estilo de liderazgo. Para una empresa de 2 a 50 personas, lo que se puede tomar es la dirección: medir, fijar metas y revisar se asocia con más productividad en los estudios grandes. Las herramientas concretas son de practicantes.
 
 ## Cómo se baja a la semana
 

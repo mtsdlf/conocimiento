@@ -23,13 +23,13 @@ revisado:
 
 Pasar a liderar es la transición de hacer el trabajo uno mismo a conseguir que lo hagan otros, como pasa cuando un fundador suma a su primera persona o alguien del equipo asciende a jefe. Su evidencia es escasa: un estudio cualitativo de 19 gerentes, datos de ascensos de vendedores y la práctica interna de Google.
 
-Casi no existe como cuerpo de evidencia cuantitativa en psicología organizacional. Lo que hay viene de un libro basado en entrevistas (Hill), de la economía del personal (Benson, Li y Shue; Lazear) y de los datos internos de una empresa (Google). La transición toca las dos caras del tema: liderar, porque ahora hay que influir en personas, y dirigir, porque hay que organizar el trabajo de otros y hacer que se cumpla.
+Casi no existe como cuerpo de evidencia cuantitativa en psicología organizacional. Lo que hay viene de un libro sobre un estudio cualitativo (Hill), de la economía del personal (Benson, Li y Shue; Lazear) y de los datos internos de una empresa (Google). La transición toca las dos caras del tema: liderar, porque ahora hay que influir en personas, y dirigir, porque hay que organizar el trabajo de otros y hacer que se cumpla.
 
 ## Lo que cambia en el trabajo
 
 El trabajo de un jefe es otro trabajo. En el estudio de Mintzberg (1971) sobre cinco gerentes, según el abstract, aparecen diez roles en tres grupos: interpersonales, de información y de decisión. Liderar es solo uno de los interpersonales; los otros nueve incluyen representar, enlazar con el exterior, asignar recursos y resolver problemas que irrumpen.
 
-Hill siguió a 19 gerentes nuevos durante su primer año. Según el catálogo del libro, sus dos conclusiones son que pasar de contribuidor individual a gerente es una transformación psicológica profunda, y que se aprende a ser gerente sobre todo con la experiencia. La segunda edición (2003) suma la política de la organización, los equipos diversos y el desarrollo a lo largo de la carrera. Esta base no leyó el libro: el resumen sale del catálogo y de un buscador.
+Hill siguió a 19 gerentes nuevos durante su primer año. Según el catálogo del libro, tiene dos temas: que pasar de contribuidor individual a gerente es una transformación psicológica profunda, y que llegar a ser gerente es sobre todo aprender de la experiencia. La segunda edición (2003) suma la política de la organización, los equipos diversos y el desarrollo a lo largo de la carrera. Esta base no leyó el libro: el resumen sale del catálogo y de un buscador.
 
 > [!NOTE] Sin fuente todavía: el texto de Hill, y cualquier estudio de la transición en empresas de 2 a 50 personas, donde quien pasa a liderar suele ser el fundador al contratar a su primera persona.
 
@@ -40,11 +40,11 @@ Benson, Li y Shue (2019) estudiaron los ascensos de vendedores en 131 empresas. 
 La idea circula como «trampa del experto»; la investigación de esta base no encontró una fuente académica que use ese nombre, así que es una etiqueta de práctica. El hecho que la sostiene es el de Benson, Li y Shue, con una sola ocupación: vendedores.
 
 > [!IMPORTANT]
-> **El principio de Peter es un error de selección (Benson, Li y Shue 2019).** Las empresas ascienden al mejor en el puesto actual, no al que mejor dirigiría, y por eso el jefe rinde menos de lo esperado.
+> **El principio de Peter es un error de selección (Benson, Li y Shue 2019).** Las empresas pesan mucho el desempeño actual al promover, y poco otros rasgos que predicen mejor el desempeño como gerente.
 >
 > **El principio de Peter es un efecto estadístico (Lazear 2004).** Según el abstract, la caída del desempeño después de un ascenso se explica en gran parte por regresión a la media: quien asciende por un buen período tiende a volver a su nivel habitual, con cualquier criterio de promoción. Las empresas pueden tenerlo en cuenta, pero no eliminarlo.
 >
-> Las dos explicaciones no se excluyen: una es un modelo teórico y la otra, datos de vendedores. Ninguna mide empresas chicas.
+> Las dos fuentes discrepan en la causa: una es un modelo teórico y la otra, datos de vendedores. Ninguna mide empresas chicas.
 
 ## Las conductas de un buen jefe según Google
 
@@ -69,7 +69,7 @@ Varias de las diez conductas coinciden con lo que tiene evidencia en otras notas
 
 Un buen jefe cambia lo que produce un equipo. Lazear y colegas (2015), con datos de una empresa de servicios técnicos, encontraron según el abstract que «Replacing a boss who is in the lower 10% of boss quality with one who is in the upper 10% of boss quality increases a team's total output by more than adding one worker to a nine-member team would», y que «Workers assigned to better bosses are less likely to leave the firm».
 
-Que dirigir se pueda entrenar tiene a favor el metaanálisis de Lacerenza y colegas (2017) sobre programas de entrenamiento en liderazgo. Según un resumen secundario, que esta base no contrastó con el original, los programas mejoraron las reacciones, el aprendizaje, la transferencia al trabajo y los resultados, y rindieron más con análisis de necesidades, feedback, práctica y sesiones espaciadas. Esos estudios son de organizaciones grandes con programas formales.
+Que dirigir se pueda entrenar tiene a favor el metaanálisis de Lacerenza y colegas (2017) sobre programas de entrenamiento en liderazgo. Según un resumen secundario, que esta base no contrastó con el original, los programas mejoraron las reacciones, el aprendizaje, la transferencia al trabajo y los resultados, y rindieron más con análisis de necesidades, feedback, práctica y sesiones espaciadas. Esta base no tiene datos de ese metaanálisis para empresas de 2 a 50 personas.
 
 ## Cómo se hace la transición
 
@@ -77,7 +77,7 @@ La lista es una síntesis de esta base a partir de las notas enlazadas, no un pr
 
 1. Reservá tiempo para tu gente: las [reuniones uno a uno](../Gestion-de-personas/reuniones-uno-a-uno.md) son la herramienta para eso.
 2. Decidí qué trabajo soltás y qué te quedás, con la [delegación](../Decidir/delegacion.md) como guía.
-3. Medí tu trabajo por lo que logra el equipo y no por lo que hacés vos: es el cambio de identidad que describe Hill.
+3. Medí tu trabajo por lo que logra el equipo y no por lo que hacés vos: es el cambio que Hill describe como una transformación psicológica.
 4. Pedí feedback sobre cómo dirigís; cómo se pide y se da es del tema Comunicación, todavía sin escribir.
 
 Cuando el fundador pasa de dirigir a unas pocas personas a dirigir a otros jefes, el problema cambia: está en [escalar la organización](../Rol-del-CEO/escalar-la-organizacion.md) y [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md). El reparto de roles entre socios está en [Fundadores y equipo](../../Emprender/Fundadores-y-equipo/fundadores-y-equipo.md).

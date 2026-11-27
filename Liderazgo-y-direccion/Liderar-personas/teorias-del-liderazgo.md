@@ -37,7 +37,7 @@ Hablan de liderar en el sentido de este tema: influir en personas. El campo las 
 |---|---|---|
 | Rasgos | Ciertas personalidades lideran mejor | Se sostuvo, con efectos moderados |
 | Conducta | Lo que importa es lo que el jefe hace con la tarea y con la persona | Se sostuvo; explica más que los rasgos |
-| Contingencia (Fiedler, Hersey-Blanchard, camino-meta) | El estilo eficaz depende de la situación | En disputa o con evidencia débil |
+| Contingencia (Fiedler, Hersey-Blanchard, camino-meta) | El estilo eficaz depende de la situación | En disputa, parcial o sin verificar |
 | Relacional (LMX) | Cuenta la calidad del vínculo con cada persona | Se sostuvo, con la confianza como mecanismo |
 | Transformacional | Inspirar y movilizar más allá del interés inmediato | Predice resultados; no se sabe bien qué mide |
 | Moral (auténtico, ético, de servicio) | El liderazgo se define por su contenido ético | Se solapa con el transformacional |
@@ -46,20 +46,20 @@ Hablan de liderar en el sentido de este tema: influir en personas. El campo las 
 
 El metaanálisis de Judge, Bono, Ilies y Gerhardt (2002) reunió 222 correlaciones de 73 muestras con los [cinco grandes](../../Psicologia/Personalidad/cinco-grandes.md) como marco. Según el abstract, las correlaciones medias con liderazgo fueron .31 para la extraversión, .28 para la responsabilidad, .24 para la apertura, -.24 para el neuroticismo y .08 para la amabilidad. La extraversión fue la más consistente, tanto para llegar a liderar como para hacerlo bien, y los cinco juntos dieron una correlación múltiple de .48.
 
-Que haya rasgos asociados no quiere decir que el líder nazca: lo que se hereda es en parte la probabilidad de ocupar el puesto, no la de hacerlo bien, como cuenta [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md). El lado oscuro de los rasgos, como el narcisismo, está en [liderazgo destructivo](liderazgo-destructivo.md).
+Que haya rasgos asociados no quiere decir que el líder nazca: lo que los estudios de gemelos asocian a la herencia es en parte la probabilidad de ocupar un puesto de liderazgo, no la de hacerlo bien, como cuenta [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md). El lado oscuro de los rasgos, como el narcisismo, está en [liderazgo destructivo](liderazgo-destructivo.md).
 
 ## La conducta explica más que los rasgos
 
 Los estudios de Ohio State redujeron la conducta del jefe a dos dimensiones: la consideración (atender a la persona) y la iniciación de estructura (organizar la tarea). Judge, Piccolo e Ilies (2004) las metaanalizaron con 163 y 159 correlaciones. Según el abstract, las dos tienen relaciones moderadas y distintas de cero con los resultados: la consideración pesa más en la satisfacción y la motivación de la gente, y la estructura, algo más en el desempeño del puesto y del grupo.
 
-DeRue, Nahrgang, Wellman y Humphrey (2011) pusieron rasgos y conductas en el mismo análisis. Según el abstract, «Combined, leader traits and behaviors explain a minimum of 31% of the variance in leadership effectiveness criteria». Las conductas explican más que los rasgos, y el modelo que mejor ajusta es uno en que los rasgos actúan a través de la conducta. Es la mejor entrada al tema para quien nunca lo estudió: conviene fijarse en ese 31 % y en que la conducta media.
+DeRue, Nahrgang, Wellman y Humphrey (2011) pusieron rasgos y conductas en el mismo análisis. Según el abstract, «Combined, leader traits and behaviors explain a minimum of 31% of the variance in leadership effectiveness criteria». Las conductas explican más que los rasgos, y los resultados apoyan un modelo en que la conducta media entre los rasgos y la efectividad. Es la mejor entrada al tema para quien nunca lo estudió: conviene fijarse en ese 31 % y en que la conducta media.
 
-## Las teorías de contingencia tienen poco apoyo
+## Las teorías de contingencia tienen apoyo parcial o sin verificar
 
-Las teorías de contingencia dicen que el estilo eficaz depende de la situación. Las tres más conocidas tienen evidencia débil o mixta.
+Las teorías de contingencia dicen que el estilo eficaz depende de la situación. En las tres más conocidas, lo que esta base pudo leer es parcial, mixto o no se pudo leer.
 
-- **Fiedler.** Según un resumen, Schriesheim, Tepper y Tetrault (1994) analizaron 1.282 grupos: las comparaciones entre situaciones no se sostuvieron, pero sí las predicciones de cómo baja el desempeño dentro de cada una. Una tesis doctoral (Crehan 2010), sin revisión de pares, concluyó que el modelo no puede confirmarse ni refutarse.
-- **Hersey-Blanchard (liderazgo situacional).** Propone ajustar el estilo a la madurez de cada persona, y su evidencia es débil o no se pudo leer. Thompson y Vecchio (2009) pusieron a prueba tres versiones, pero esta base no pudo leer su resultado; según un resumen de buscador, trabajos posteriores la citan como poco investigada y con problemas de medición.
+- **Fiedler.** Según un resumen, Schriesheim, Tepper y Tetrault (1994) analizaron 1.282 grupos: las conclusiones que comparan unas situaciones con otras no se sostuvieron, pero sí las predicciones de cómo baja el desempeño en cada una. Una tesis doctoral (Crehan 2010), sin revisión de pares, concluyó que el modelo no puede confirmarse ni refutarse.
+- **Hersey-Blanchard (liderazgo situacional).** Su resultado no se pudo verificar. Thompson y Vecchio (2009) pusieron a prueba tres versiones, pero esta base no pudo leer su resultado. Un resumen de buscador, sin verificar en la fuente, dice que trabajos posteriores la citan como poco investigada y con problemas de medición.
 - **Camino-meta.** Wofford y Liska (1993) revisaron 120 estudios: según el abstract, de 16 pruebas de moderación solo 7 cumplieron los criterios, una fue en sentido opuesto al predicho, y buena parte de la investigación tenía fallas de método.
 
 > [!NOTE] Sin fuente todavía: el resultado de Thompson y Vecchio (2009), el texto original de Hersey y Blanchard y una síntesis con cifras de Fiedler revisada por pares.
@@ -68,14 +68,14 @@ Las teorías de contingencia dicen que el estilo eficaz depende de la situación
 
 La teoría del intercambio líder-miembro (LMX) mira la calidad del vínculo entre el jefe y cada persona, que no es igual con todos. Según el abstract de Gerstner y Day (1997), el LMX se relaciona con desempeño, satisfacción, compromiso, claridad de rol e intención de irse, pero no con la renuncia real. Dulebohn y colegas (2012), con 247 estudios, encontraron que lo que más explica un buen vínculo son las conductas y percepciones del jefe.
 
-Martin y colegas (2016) cuantificaron la relación con el desempeño de tarea (146 muestras, ρ = .30), la ciudadanía (ρ = .34), las conductas contraproducentes (ρ = -.24) y el desempeño medido de forma objetiva (20 muestras, ρ = .24). Según el abstract, el vínculo conduce al desempeño y no al revés, y la [confianza en el líder](confianza-en-el-lider.md) fue el mediador de mayor efecto. El registro del artículo dice 2015 y la edición impresa, 2016.
+Martin y colegas (2016) cuantificaron la relación con el desempeño de tarea (146 muestras, ρ = .30), la ciudadanía (ρ = .34), las conductas contraproducentes (ρ = -.24) y el desempeño medido de forma objetiva (20 muestras, ρ = .24). Según el abstract, la evidencia apoya que el vínculo conduce al desempeño y no al revés, y la [confianza en el líder](confianza-en-el-lider.md) fue el mediador de mayor efecto. El registro del artículo dice 2015 y la edición impresa, 2016.
 
 ## Auténtico, ético y de servicio: la familia del liderazgo moral
 
 En las últimas décadas aparecieron estilos que definen al buen líder por su ética: el auténtico, el ético y el de servicio. Lemoine, Hartnell y Leroy (2019) los tratan como una familia y, según el abstract, dicen que su proliferación trae confusión teórica y solapamiento empírico. Proponen separarlos por su contenido moral: deontología, ética de virtudes y consecuencialismo.
 
 > [!IMPORTANT]
-> **Los estilos morales son constructos propios.** Sus proponentes los presentan como distintos del [liderazgo transformacional](liderazgo-transformacional.md). Hoch, Bommer, Dulebohn y Wu (2018) encontraron que el de servicio fue el más prometedor como enfoque propio.
+> **Tienen algo propio.** Hoch, Bommer, Dulebohn y Wu (2018) encontraron que el de servicio fue el más prometedor como enfoque propio, distinto del [liderazgo transformacional](liderazgo-transformacional.md).
 >
 > **Miden casi lo mismo que el transformacional.** Según el abstract del mismo metaanálisis de Hoch y colegas, los tres correlacionan alto entre sí y agregan poca varianza sobre el transformacional. Banks, McCauley, Gardner y Guler (2016), con 100 muestras y 25.452 personas, hallaron entre el auténtico y el transformacional una correlación de ρ = .72, y ninguno agrega validez notable sobre el otro (según un resumen).
 >
@@ -83,8 +83,8 @@ En las últimas décadas aparecieron estilos que definen al buen líder por su �
 
 ## Por qué ninguna teoría da causas
 
-Casi todas estas cifras salen de cuestionarios en que los empleados califican a su jefe, y muchas veces también su propio desempeño. Antonakis y colegas (2010) revisaron 110 artículos y, según un resumen, entre el 66 % y el 90 % no atendía las condiciones para afirmar una causa. La crítica dice que con esos diseños no se sabe el efecto real, que puede ser menor, igual o mayor. Los estudios son de organizaciones grandes o de laboratorio; ninguno es de empresas de 2 a 50 personas.
+Antonakis y colegas (2010) revisaron 110 artículos de liderazgo y, según un resumen, los investigadores no atendían entre el 66 % y el 90 % de las condiciones de diseño que permiten afirmar una causa. La crítica dice que con esos diseños no se sabe el efecto real, que puede ser menor, igual o mayor. Una parte grande de lo que se afirma sobre estilos viene de cuestionarios que responde la misma persona que evalúa los resultados. Los estudios que leyó esta base son de organizaciones grandes o de laboratorio; ninguno es de empresas de 2 a 50 personas.
 
-Lo que sí se puede llevar a una empresa chica es el resultado más estable: lo que el jefe hace con la tarea y con la persona importa más que cómo es, y las dos dimensiones de Ohio State son una lista corta para revisarse. Es una lectura de esta base sobre metaanálisis de organizaciones grandes.
+Lo que sí se puede llevar a una empresa chica es el resultado más estable: lo que el jefe hace con la tarea y con la persona explica más que cómo es, y las dos dimensiones de Ohio State son una lista corta para revisarse. Es una lectura de esta base sobre metaanálisis de organizaciones grandes.
 
 > [!NOTE] Sin fuente todavía: los libros de texto (Yukl, Northouse) leídos por dentro, y la versión de los practicantes (Grove, Horowitz) contrastada con estas teorías.

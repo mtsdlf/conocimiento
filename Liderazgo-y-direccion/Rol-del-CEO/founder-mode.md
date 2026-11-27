@@ -38,7 +38,7 @@ El propio Chesky contó después el costo. Según Fortune (noviembre de 2026), c
 
 ## Lo que nadie midió
 
-No hay estudio empírico que pruebe founder mode como práctica distinta. La búsqueda no encontró ninguno, ni una crítica con datos. Jason Shen, en MIT Sloan Management Review, señala según un resumen que el argumento se apoya en casos de éxito (Airbnb, Uber, Etsy). El único dato comparativo que cita es un estudio de la consultora ghSmart, sin muestra ni método publicados, y los fracasos (WeWork, Peloton) quedan como advertencia.
+No hay estudio empírico que pruebe founder mode como práctica distinta. La búsqueda no encontró ninguno. En la lectura de esta base de un resumen del artículo de Jason Shen en MIT Sloan Management Review, el argumento se apoya en casos de éxito (Airbnb, Uber, Etsy). El único dato comparativo que aparece es un estudio de la consultora ghSmart, citado sin muestra ni método, y los fracasos (WeWork, Peloton) quedan como advertencia. El artículo no lo plantea así de forma explícita.
 
 El problema de fondo es de muestra. Denrell (2003) mostró con un modelo formal que las organizaciones que se pueden observar son las sobrevivientes. Según el abstract, eso hace que prácticas riesgosas parezcan beneficiosas aunque no se relacionen con el desempeño en toda la población. Founder mode encaja en esa sospecha: se cuenta desde las empresas que llegaron. El argumento obliga a marcarlo como práctica, pero no prueba que sea falso.
 

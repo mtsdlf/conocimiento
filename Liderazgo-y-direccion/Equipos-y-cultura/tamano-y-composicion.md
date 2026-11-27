@@ -30,7 +30,7 @@ En el esquema de [Equipos y cultura](equipos-y-cultura.md), son lo que entra ant
 
 ## Por qué sumar gente cuesta más de lo que se calcula
 
-El desempeño real de un equipo es su potencial menos las pérdidas de proceso, que son de coordinación y de motivación. La idea es de Steiner (1972), y Hackman la retoma, según un resumen, proponiendo sumar las ganancias de proceso. El efecto Ringelmann, que un grupo empuja menos que la suma de sus miembros, fue revisado por Ingham y colegas (1974), que separaron la pérdida por coordinación de la pérdida por motivación; de ese artículo esta base leyó solo los metadatos.
+El desempeño real de un equipo es su potencial menos las pérdidas de proceso, que son de coordinación y de motivación. La idea es de Steiner (1972), y Hackman la retoma, según un resumen, proponiendo sumar las ganancias de proceso. El efecto Ringelmann fue revisado por Ingham y colegas (1974), que separaron la pérdida por coordinación de la pérdida por motivación; de ese artículo esta base leyó solo los metadatos.
 
 Staats, Milkman y Fox (2012) le pusieron nombre al error de cálculo: la «team scaling fallacy». Según su resumen, «as team size increases, people increasingly underestimate the number of labor hours required to complete projects». Lo mostraron en dos experimentos de laboratorio y en datos de proyectos de una empresa de software. Los equipos más grandes terminaban antes, pero con costos de coordinación crecientes, y agrandar un equipo «can hamper its coordination, diminish its members' motivation, and increase conflict».
 
@@ -39,15 +39,15 @@ Curral y colegas (2001), en 87 equipos portugueses de distintas industrias, enco
 ## No hay un número óptimo verificado
 
 > [!IMPORTANT]
-> **Los equipos grandes rinden peor (Curral y colegas 2001; Staats, Milkman y Fox 2012).** Estudios con rangos amplios de tamaño encuentran peores procesos y costos de coordinación que crecen y se subestiman.
+> **Los equipos grandes tienen peores procesos (Curral y colegas 2001; Staats, Milkman y Fox 2012).** Curral encontró peores procesos en los equipos grandes, y Staats, costos de coordinación que crecen y se subestiman.
 >
 > **El tamaño no se asoció con la efectividad (Proyecto Aristóteles, Google).** Según fragmentos de búsqueda de su guía, la colocación, el tamaño y la antigüedad no se asociaron significativamente con la efectividad, con la salvedad de que eso no significa que no importen en otros contextos. Es un estudio interno sin método publicado.
 >
-> La contradicción es aparente. Aristóteles miró equipos de una sola empresa, probablemente con un rango de tamaño acotado (otra lectura de la guía da de 3 a 50 personas, con mediana de 9); los otros estudios comparan rangos más amplios.
+> La contradicción puede ser aparente, aunque ninguna fuente lo dice. Una posible explicación, de esta base, es que Aristóteles miró equipos de una sola empresa con un rango de tamaño acotado (una lectura de la guía da de 3 a 50 personas, con mediana de 9) y los otros estudios comparan rangos más amplios.
 
 La regla de «5 a 9 personas» que se atribuye a Hackman viene de un resumen secundario y no se verificó en su texto. [Team Topologies](../../Platform-Engineering/Organizacion-de-equipos/team-topologies.md), en Platform Engineering, usa ese mismo rango para equipos de software ([team-first](../../Platform-Engineering/Organizacion-de-equipos/team-first.md)) y lo apoya en los [números de Dunbar](../../Platform-Engineering/Organizacion-de-equipos/numero-de-dunbar.md); es una práctica de diseño de equipos de software, no un resultado de estos estudios.
 
-Para una empresa que crece, la lección de Staats es la más directa: cada persona nueva agrega horas y también coordinación, y quien planifica tiende a contar solo las horas. Cuándo partir un equipo en dos o sumar un mando medio es tema de [escalar la organización](../Rol-del-CEO/escalar-la-organizacion.md).
+Para una empresa que crece, la lección de Staats es la más directa: cada persona nueva agrega horas y también coordinación, y quien planifica tiende a subestimar las horas que hacen falta. Cuándo partir un equipo en dos o sumar un mando medio es tema de [escalar la organización](../Rol-del-CEO/escalar-la-organizacion.md).
 
 ## Quiénes: lo que dice la composición de nivel profundo
 
@@ -64,20 +64,20 @@ Que en el campo cuente el mínimo de amabilidad sugiere que una sola persona poc
 
 Stahl y colegas (2010) reunieron 108 estudios y 10.632 equipos. Su conclusión: «cultural diversity leads to process losses through task conflict and decreased social integration, but to process gains through increased creativity and satisfaction. The effects are almost identical for both levels and types of cultural diversity.» Los autores la resumen como «an asset and a liability» en el mismo equipo. La complejidad de la tarea, el tamaño, la antigüedad y la dispersión del equipo moderan el efecto.
 
-La diversidad no es una ventaja automática: depende de la tarea, del tipo de diversidad y de cómo se maneja el [conflicto](conflicto-en-equipos.md) que trae. Van Dijk y colegas (2012) comparan la diversidad demográfica con la relacionada con el trabajo, pero esta base no leyó ni su abstract.
+La diversidad no es una ventaja automática: trae pérdidas de proceso, como el [conflicto](conflicto-en-equipos.md) de tarea, además de ganancias, y el efecto cambia con la complejidad de la tarea y los demás moderadores de Stahl. Van Dijk y colegas (2012) comparan la diversidad demográfica con la relacionada con el trabajo, pero esta base no leyó ni su abstract.
 
 > [!NOTE] Sin fuente todavía: el resultado de van Dijk, van Engen y van Knippenberg (2012), y metaanálisis sobre diversidad de género en equipos chicos (solo aparece como predictor de la inteligencia colectiva en Woolley 2010 y Riedl 2021).
 
 ## Diversidad en la dirección y rentabilidad: McKinsey contra Green y Hand
 
-Esta disputa es otra pregunta. No mide el rendimiento de un equipo, sino si las empresas con más diversidad en su dirección ganan más. McKinsey no publicó un metaanálisis ni un experimento: sus informes (2015, 2018 y 2020) son correlaciones entre empresas, que esta base conoce solo a través de Green y Hand.
+Esta disputa es otra pregunta: no mide el rendimiento de un equipo, mide si las empresas con más diversidad en su dirección ganan más. McKinsey no publicó un metaanálisis ni un experimento: sus informes (2015, 2018 y 2020) son correlaciones entre empresas, que esta base conoce solo a través de Green y Hand.
 
 > [!IMPORTANT]
 > **La diversidad étnica en la dirección se asocia con más margen (McKinsey, «Diversity Matters», «Delivers» y «Wins»).** Informa una relación positiva y significativa entre el margen EBIT ajustado por industria y la diversidad racial y étnica de los ejecutivos.
 >
 > **Con datos públicos la relación no aparece (Green y Hand 2021).** Con empresas del S&P 500, encontraron relaciones «statistically insignificant» con el margen EBIT y también con el crecimiento de ventas, el margen bruto, el ROA, el ROE y el retorno total al accionista. De 40 estadísticos, 37 no fueron significativos, uno positivo y dos negativos. Un seguimiento con Bermiss encontró, según un resumen, que la diversidad predecía el desempeño del año siguiente en poco menos del 5 % de las regresiones.
 >
-> Es una réplica con salvedades, no una refutación. McKinsey no entregó los nombres de las empresas, así que Green y Hand no pudieron repetir su muestra. Su propio método de inferir raza y etnia por fotos y nombres tiene sesgos, que ellos mismos declaran. Las empresas del S&P 500 no son una muestra al azar, el documento era preprint (según un resultado de búsqueda se publicó en 2024 en *Econ Journal Watch*), y no prueba que no haya relación en otras muestras. Esta base no leyó la respuesta de McKinsey.
+> Es una réplica con salvedades, no una refutación. McKinsey no entregó los nombres de las empresas de sus conjuntos de datos, según Green y Hand. Su propio método de inferir raza y etnia por fotos y nombres tiene sesgos, que ellos mismos declaran. Las empresas del S&P 500 no son una muestra al azar, el documento era preprint (según un resultado de búsqueda se publicó en 2024 en *Econ Journal Watch*), y no prueba que no haya relación en otras muestras. Esta base no leyó la respuesta de McKinsey.
 
 Ninguno de los dos lados habla de empresas chicas ni de equipos de trabajo.
 

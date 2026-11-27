@@ -37,7 +37,7 @@ revisado:
 
 Los mitos de liderazgo son afirmaciones que circulan en libros, charlas y cursos sobre cómo dirigir y que la evidencia no sostiene como se cuentan: unos cayeron, otros se achicaron y otros nunca se publicaron con revisión de pares.
 
-Casi todos comparten un origen: una cifra redonda de una consultora o un caso exitoso que se repite sin volver a la fuente. Ninguno de los estudios de abajo es de empresas de 2 a 50 personas. Los mitos que son de mecanismo psicológico (la pirámide de Maslow, el agotamiento del ego) están en [Psicología](../../Psicologia/psicologia.md).
+Varios comparten un origen: una cifra redonda de una consultora o un caso exitoso que se repite sin volver a la fuente. Ninguno de los estudios de abajo es de empresas de 2 a 50 personas. Los mitos que son de mecanismo psicológico (la pirámide de Maslow, el agotamiento del ego) están en [Psicología](../../Psicologia/psicologia.md).
 
 | Mito | Estado | Dónde se trata |
 |---|---|---|
@@ -57,11 +57,11 @@ Casi todos comparten un origen: una cifra redonda de una consultora o un caso ex
 
 ## El líder nace, no se hace
 
-Lo heredable es llegar a ocupar un puesto de líder, no liderar bien. De Neve y colegas (2013) estiman con gemelos una heredabilidad de 24 % en ocupar un rol de liderazgo; Arvey y colegas (2007), con gemelas, de 32 %. Arvey encontró además que, quitado el efecto genético, solo la experiencia laboral seguía relacionada con ocupar el rol. DeRue y colegas (2011) estiman que rasgos y conductas explican al menos 31 % de la eficacia del liderazgo, y que las conductas pesan más que los rasgos. Las conductas se aprenden.
+Lo heredable es llegar a ocupar un puesto de líder, no liderar bien. De Neve y colegas (2013) estiman con gemelos una heredabilidad de 24 % en ocupar un rol de liderazgo; Arvey y colegas (2007), con gemelas, de 32 %. Arvey encontró además que, quitado el efecto genético, solo la experiencia laboral seguía relacionada con ocupar el rol. DeRue y colegas (2011) estiman que rasgos y conductas explican al menos 31 % de la eficacia del liderazgo, y que las conductas pesan más que los rasgos. Las conductas son lo que se puede entrenar (inferencia de esta base).
 
 ## La gente no deja empresas, deja jefes
 
-La frase viene de Gallup y mezcla dos datos. Uno, según un resumen, es que «one in two» de 7.272 adultos de EE. UU. dejó alguna vez un trabajo para alejarse de su jefe: es de toda la carrera y autoinformado. El otro, que los jefes explican «at least 70%» de la varianza del engagement, es sobre engagement y no sobre renuncias; la misma nota dice «up to» en otra parte. Gallup no publica sus datos.
+La frase viene de Gallup y mezcla dos datos. Uno, según un resumen, es que «one in two» de 7.272 adultos de EE. UU. dejó alguna vez un trabajo para alejarse de su jefe: es de toda la carrera y autoinformado. El otro, que los jefes explican «at least 70%» de la varianza del engagement, es sobre engagement y no sobre renuncias, y el titular de la nota lo redondea a 70 %. No se encontró la metodología ni los datos de Gallup.
 
 El jefe sí pesa. Lazear y colegas (2015) hallaron que «Workers assigned to better bosses are less likely to leave the firm». Una reseña de 39 trabajos (2026), según su nota de prensa, concluye que la rotación resulta «of both leadership and organisational conditions, not managers alone».
 
@@ -87,7 +87,7 @@ Cummings y colegas (2016) sostienen, según un resumen, que Lewin «never develo
 
 ## Aristóteles probó que solo importa la seguridad psicológica
 
-El estudio de Google lista cinco dinámicas: seguridad psicológica, confiabilidad, estructura y claridad, significado e impacto. La primacía la puso la prensa. Es una página de la empresa, sin método publicado ni revisión de pares. Según esa página, leída por un extractor, fueron 180 equipos; otras lecturas no confirmaron la cifra. La seguridad psicológica tiene respaldo propio en el metaanálisis de Frazier y colegas (2017), con 136 muestras, pero casi todo es de diseño transversal. Las cinco dinámicas están en [equipos efectivos](../Equipos-y-cultura/equipos-efectivos.md).
+El estudio de Google lista cinco dinámicas: seguridad psicológica, confiabilidad, estructura y claridad, significado e impacto. Según resúmenes secundarios, la primacía la popularizó la prensa (Duhigg, 2016). Es una página de la empresa, sin revisión de pares. Según esa página, leída por un extractor, fueron 180 equipos; otras lecturas no confirmaron la cifra. La seguridad psicológica tiene respaldo propio en el metaanálisis de Frazier y colegas (2017), con 136 muestras; según un resumen, la mayoría de los estudios es transversal. Las cinco dinámicas están en [equipos efectivos](../Equipos-y-cultura/equipos-efectivos.md).
 
 ## El MBTI sirve para armar equipos
 

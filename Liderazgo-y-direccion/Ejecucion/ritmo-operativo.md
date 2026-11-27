@@ -27,9 +27,9 @@ La investigación de esta base no encontró estudios que comparen cadencias (sem
 
 Lo más cercano es el World Management Survey de Bloom y Van Reenen. Según un resumen de NBER, su encuesta puntúa prácticas en tres dimensiones, y dos son el monitoreo del desempeño y la fijación de metas; la tercera son los incentivos y la gestión de personas. Esas prácticas se asocian con productividad en muestras grandes, y el experimento en plantas textiles de la India, según su abstract publicado, «raised average productivity by 11%» al adoptarlas. El detalle está en [de la estrategia al trabajo](de-la-estrategia-al-trabajo.md#la-gestión-importa-lo-que-miden-los-estudios-de-prácticas).
 
-De ahí sale una lectura indirecta: mirar indicadores con regularidad y revisar contra metas rinde más que no hacerlo. Cuál es la frecuencia correcta, cuánto dura cada revisión o qué va en el tablero no está estudiado.
+De ahí sale una lectura indirecta de la base: monitorear y revisar contra metas se asocia con más productividad. Cuál es la frecuencia correcta, cuánto dura cada revisión o qué va en el tablero no está estudiado.
 
-Dos datos más rozan el tema. Bandiera y colegas (2020) midieron la agenda de 1.114 CEOs: los que pasan el tiempo en reuniones amplias de alto nivel rinden mejor en promedio, pero por ajuste con su empresa y no porque ese uso del tiempo sirva a todas (está en [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md)). Sull, Homkes y Sull (2015) recomiendan, según un resumen, «track performance commitments properly» y coordinar entre áreas.
+Dos datos más rozan el tema. Bandiera y colegas (2020) midieron la agenda de 1.114 CEOs: las empresas que contratan «líderes», que pasan el tiempo en reuniones amplias de alto nivel, rinden mejor, pero por ajuste con la empresa y no porque ese uso del tiempo sirva a todas (está en [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md)). Sull, Homkes y Sull (2015) recomiendan, según un resumen, «track performance commitments properly» y coordinar entre áreas.
 
 ## Lo que proponen los practicantes
 
@@ -40,6 +40,6 @@ Las cadencias concretas son práctica. Grove, en *High Output Management* (1983)
 ## Estado de la evidencia y de dónde viene
 
 - **Se sostuvo, de forma indirecta**: monitorear el desempeño y fijar metas son prácticas asociadas con productividad, con un experimento aleatorio a favor. La evidencia viene de plantas manufactureras medianas y grandes.
-- **Sin evidencia**: cadencias, tableros y formatos de revisión. Todo es práctica de corporaciones y de empresas con capital de riesgo.
+- **Sin evidencia**: cadencias, tableros y formatos de revisión. Todo es práctica de practicantes (Grove, EOS, Scaling Up), que el informe no consultó.
 
 Para una empresa de 2 a 50 personas, la consecuencia razonable es tener alguna revisión regular contra metas, sabiendo que la forma (semanal o quincenal, qué indicadores) se elige por criterio y no por evidencia. Esa es una inferencia de esta base, no un hallazgo.

@@ -46,20 +46,20 @@ En una empresa de producto, la misma cadena aparece como la distinción entre [r
 
 ## Lo que la evidencia sostiene y lo que no
 
-El respaldo más firme está arriba de la cadena. En la encuesta de Bloom y Van Reenen, monitorear el desempeño, fijar metas e incentivar son las tres dimensiones de prácticas de gestión que se asocian con productividad. El experimento en plantas textiles de la India, que dio consultoría en esas prácticas a plantas elegidas al azar, según su abstract publicado «raised average productivity by 11%».
+El respaldo más firme está arriba de la cadena. En la encuesta de Bloom y Van Reenen, según un resumen, las prácticas de gestión (monitorear el desempeño, fijar metas, incentivar) se asocian con productividad. El experimento en plantas textiles de la India, que dio consultoría en esas prácticas a plantas elegidas al azar, según su abstract publicado «raised average productivity by 11%».
 
 Bajando, la evidencia se adelgaza:
 
 | Pieza | Qué se sostiene | Qué falta |
 |---|---|---|
 | Prácticas de gestión | Asociación en muestras grandes y un experimento aleatorio | Datos de empresas chicas |
-| Metas y OKR | Metas difíciles y específicas; dirección por objetivos (metaanálisis de 1991) | Cualquier estudio de los OKR como sistema |
+| Metas y OKR | Teoría de metas (según resúmenes); dirección por objetivos (metaanálisis de 1991) | Cualquier estudio de los OKR como sistema |
 | Ritmo operativo | Indirecto: monitorear se asocia con productividad | Literatura propia; comparación de cadencias |
 | Reuniones | Lo que se dice adentro predice los resultados; lo malo pesa más | Agenda, tamaño y frecuencia |
 | Rendición de cuentas | Efectos buenos y malos según cómo se arme | El responsable con nombre como práctica |
 | Gestión del cambio | Casi nada a favor de los modelos | Prueba de cualquier modelo completo |
 
-Tres cifras que circulan no se sostienen o cambian según la fuente. El 70 % de cambios que fracasan no tiene fuente válida (Hughes 2011). El experimento de la India aparece con 17 % en una versión de trabajo; el abstract publicado dice 11 %. La encuesta de Sull y colegas sobre por qué falla la ejecución aparece con dos tamaños de muestra distintos según la reseña.
+Tres cifras que circulan no se sostienen o cambian según la fuente. El 70 % de cambios que fracasan no tiene fuente válida (Hughes 2011). El experimento de la India circula también con un 17 % sin fuente encontrada; el working paper y el abstract publicado dicen 11 %. La encuesta de Sull y colegas sobre por qué falla la ejecución aparece con dos tamaños de muestra distintos según la reseña.
 
 ## Cómo falla la ejecución
 
@@ -69,7 +69,7 @@ El resto de las fallas que se cuentan (estrategias que no se entienden, planes q
 
 ## De dónde viene la evidencia
 
-Casi todo viene de plantas manufactureras medianas y grandes, de laboratorio con estudiantes o de corporaciones. Los OKR y las cadencias son práctica de Intel, Google y empresas con capital de riesgo. Para una empresa de 2 a 50 personas no hay estudios: se puede tomar la dirección (medir, fijar metas y revisar rinde más que no hacerlo) y elegir las herramientas por criterio, sabiendo que no están probadas. Esa lectura es de esta base.
+Casi todo viene de plantas manufactureras medianas y grandes, de laboratorio con estudiantes o de corporaciones. Los OKR son práctica de Intel y Google, y las cadencias, de practicantes. Para una empresa de 2 a 50 personas no hay estudios: se puede tomar la dirección que muestran los estudios grandes (medir, fijar metas y revisar se asocia con más productividad) y elegir las herramientas por criterio, sabiendo que no están probadas. Esa lectura es de esta base.
 
 ## Lo que hay en Ejecución
 

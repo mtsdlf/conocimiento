@@ -21,11 +21,11 @@ revisado:
 
 Decidir en grupo es juntar lo que saben varias personas para elegir mejor que cada una sola, y falla de forma predecible porque la discusión gira sobre lo que todos ya saben. El fenómeno tiene metaanálisis; las técnicas que lo corrigen (abogado del diablo, premortem, Delphi, votar antes de hablar) tienen evidencia dispar, casi toda de laboratorio o ninguna.
 
-Es la cuarta pregunta de [Decidir](decidir.md). Por qué un grupo juzga distinto que sus miembros (el pensamiento de grupo, cuyo modelo causal no se sostuvo, y la polarización) está en [sesgos de grupo](../../Psicologia/Cognicion-social/sesgos-de-grupo.md), en Psicología, y no se repite acá. Esta nota trata cómo se organiza una decisión entre varios para corregirlo. Que la gente diga lo que sabe depende también del clima del equipo, que tratan [seguridad psicológica](../Equipos-y-cultura/seguridad-psicologica.md) y [conflicto en equipos](../Equipos-y-cultura/conflicto-en-equipos.md); cómo se corre la reunión en sí, [reuniones](../Ejecucion/reuniones.md).
+Es la cuarta pregunta de [Decidir](decidir.md). Por qué un grupo juzga distinto que sus miembros (el pensamiento de grupo y la polarización) está en [sesgos de grupo](../../Psicologia/Cognicion-social/sesgos-de-grupo.md), en Psicología, y no se repite acá. Esta nota trata cómo se organiza una decisión entre varios para corregirlo. Que la gente diga lo que sabe depende también del clima del equipo, que tratan [seguridad psicológica](../Equipos-y-cultura/seguridad-psicologica.md) y [conflicto en equipos](../Equipos-y-cultura/conflicto-en-equipos.md); cómo se corre la reunión en sí, [reuniones](../Ejecucion/reuniones.md).
 
 ## Los grupos hablan de lo que todos ya saben
 
-Cuando cada integrante sabe algo que los demás no, el grupo tiende a no enterarse. Stasser y Titus (1985) son el estudio original del muestreo sesgado de información en la discusión: la información que comparten todos se menciona más que la que tiene uno solo. El montaje experimental se llama perfil oculto (hidden profile): la mejor opción solo se ve si se junta lo que cada uno sabe por separado.
+Cuando cada integrante sabe algo que los demás no, el grupo tiende a no enterarse. Stasser y Titus (1985) son el estudio original del muestreo sesgado de información en la discusión; el informe solo verificó el título y los metadatos. El montaje experimental se llama perfil oculto (hidden profile): la mejor opción solo se ve si se junta lo que cada uno sabe por separado.
 
 Lu, Yuan y McLeod hicieron el metaanálisis a los 25 años, con 65 estudios, 101 efectos independientes y 3.189 grupos. Según el abstract:
 
@@ -34,7 +34,7 @@ Lu, Yuan y McLeod hicieron el metaanálisis a los 25 años, con 65 estudios, 101
 - Juntar la información se relaciona con la calidad de la decisión, más por cuánta información se cubre que por el foco de la discusión.
 - El tamaño del grupo y la carga de información moderan el efecto.
 
-El fenómeno **se sostuvo**. Viene de laboratorio, con tareas armadas para que la solución dependa de lo no compartido. Para una reunión real, la consecuencia es que discutir no alcanza para que salga lo que sabe cada uno (inferencia de la base sobre el metaanálisis).
+El fenómeno **se sostuvo**. Por su diseño es de laboratorio, con tareas armadas para que la solución dependa de lo no compartido (lectura de la base; el informe no vio el detalle de los estudios). Para una reunión real, la consecuencia es que discutir no alcanza para que salga lo que sabe cada uno (inferencia de la base sobre el metaanálisis).
 
 ## Qué técnicas lo corrigen y con qué evidencia
 
@@ -43,12 +43,12 @@ El fenómeno **se sostuvo**. Viene de laboratorio, con tareas armadas para que l
 | Abogado del diablo | Alguien defiende a propósito la posición contraria | Metaanálisis de Schwenk (1990), en gran parte laboratorio | Se sostuvo en parte |
 | Indagación dialéctica | Se arman un plan y su contraplan, y se discuten | Schwenk (1990) | Sin ventaja demostrada en tareas mal estructuradas |
 | Premortem | Se imagina que el proyecto ya fracasó y se buscan las razones | Un experimento de 1989 citado por Klein, practicante | Sin evidencia sólida |
-| Delphi | Expertos opinan por escrito y en anonimato, en rondas | Revisión de Rowe y Wright (1999) | Mixta |
+| Delphi | Expertos opinan en anonimato | Revisión de Rowe y Wright (1999) | Mixta |
 | Votar antes de discutir | Cada uno fija su posición en privado antes de oír a los demás | Ninguna fuente encontrada | Sin evaluar |
 
 ### Abogado del diablo e indagación dialéctica
 
-Schweiger, Sandberg y Ragan (1986) compararon en laboratorio la indagación dialéctica, el abogado del diablo y el consenso; el abstract disponible se corta antes del resultado. El metaanálisis de Schwenk (1990), según un resumen, encontró que el abogado del diablo es en general más efectivo que el enfoque del experto sin conflicto. La ventaja de la indagación dialéctica no se demostró en tareas mal estructuradas, y ninguna de las dos técnicas resultó mejor para introducir conflicto. Son estudios de unos 35 años, en buena parte con estudiantes.
+Schweiger, Sandberg y Ragan (1986) compararon en laboratorio la indagación dialéctica, el abogado del diablo y el consenso; el abstract disponible se corta antes del resultado. El metaanálisis de Schwenk (1990), según un resumen, encontró que el abogado del diablo es en general más efectivo que el enfoque del experto sin conflicto. La ventaja de la indagación dialéctica no se demostró en tareas mal estructuradas, y ninguna de las dos técnicas resultó mejor para introducir conflicto. Son estudios de unos 35 años, en buena parte de laboratorio con estudiantes. Una nota de metaanálisis de Schwenk de 1989 (Strategic Management Journal) llega a conclusiones distintas de la revisión previa de esos estudios; el informe solo verificó su registro.
 
 Schulz-Hardt, Jochims y Frey (2002) compararon el disenso genuino con el fabricado, el del abogado del diablo, como remedio contra la búsqueda sesgada de información. El informe solo verificó el título.
 
@@ -56,7 +56,7 @@ Schulz-Hardt, Jochims y Frey (2002) compararon el disenso genuino con el fabrica
 
 ### Premortem
 
-Klein (2007) propone el premortem en una nota breve de la Harvard Business Review: antes de empezar, el equipo imagina que el proyecto fracasó y escribe por qué. Lo justifica en que mucha gente «is reluctant to speak up about their reservations during the all-important planning phase». Es práctica de un practicante. Su respaldo citado es un experimento de Mitchell, Russo y Pennington (1989) sobre la «prospective hindsight» (mirar hacia atrás desde un futuro imaginado); la cifra del 30 % que circula no se verificó contra el original, y según fuentes secundarias mide cuántas razones se generan, no si son mejores. Se conecta con la [sobreconfianza](../../Psicologia/Juicio-y-decision/sobreconfianza.md) en los planes, que trata Psicología.
+Klein (2007) propone el premortem en una nota breve de la Harvard Business Review: antes de empezar, el equipo imagina que el proyecto fracasó y genera razones de por qué. Lo justifica en que mucha gente «is reluctant to speak up about their reservations during the all-important planning phase». Es práctica de un practicante. Su respaldo citado es un experimento de Mitchell, Russo y Pennington (1989) sobre la «prospective hindsight» (mirar hacia atrás desde un futuro imaginado); la cifra del 30 % que circula no se verificó contra el original, y según fuentes secundarias mide cuántas razones se generan, no si son mejores. Se conecta con la [sobreconfianza](../../Psicologia/Juicio-y-decision/sobreconfianza.md) en los planes, que trata Psicología.
 
 ### Delphi
 

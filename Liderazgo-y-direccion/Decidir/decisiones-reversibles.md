@@ -19,7 +19,7 @@ revisado:
 
 Las decisiones reversibles son las que se pueden deshacer a bajo costo, y la idea es decidirlas rápido y entre pocos, guardando el proceso lento para las que no tienen vuelta. Es una regla de Jeff Bezos, un practicante, sin estudio que la pruebe; el respaldo más cercano es Eisenhardt (1989), que en ocho empresas encontró que quien decide rápido usa más información, no menos.
 
-Es la tercera pregunta de [Decidir](decidir.md): qué tan rápido. Se cruza con las otras dos que vienen antes. Una decisión reversible se puede [delegar](delegacion.md) con menos riesgo, y una irreversible pide repartir bien quién opina y quién veta, que es el tema de [derechos de decisión](derechos-de-decision.md). Juzgar después si la decisión fue buena es asunto de [calidad de decisión](calidad-de-decision.md).
+Es la tercera pregunta de [Decidir](decidir.md): qué tan rápido. Se cruza, en la lectura de la base, con las otras dos que vienen antes. Una decisión reversible se puede [delegar](delegacion.md) con menos riesgo, y una irreversible pide repartir bien quién opina y quién veta, que es el tema de [derechos de decisión](derechos-de-decision.md). Juzgar después si la decisión fue buena es asunto de [calidad de decisión](calidad-de-decision.md).
 
 ## Puertas de un sentido y de ida y vuelta
 
@@ -38,7 +38,7 @@ La carta de 2016, publicada en abril de 2017, vuelve sobre la velocidad sin usar
 
 La misma carta recomienda «Disagree and commit» para cuando alguien no está de acuerdo pero el equipo tiene que avanzar: «Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?». Cómo se recoge el desacuerdo antes de cerrar una decisión lo trata [decidir en grupo](decidir-en-grupo.md). La carta también advierte que, al crecer, «there's a tendency to manage to proxies», es decir, a cuidar el indicador en lugar de lo que mide.
 
-El 70 % es una cifra de práctica, no una medida. Ninguna fuente del informe la pone a prueba, y no dice cómo se sabe qué porcentaje de la información se tiene.
+El 70 % es una cifra de práctica, no una medida. Ninguna fuente del informe la pone a prueba.
 
 ## Lo que encontró Eisenhardt sobre decidir rápido
 
@@ -52,7 +52,7 @@ El estudio es inductivo: ocho empresas de una industria en los años 80, para ge
 
 El estado de la regla de Bezos es **sin evidencia directa**: no se la refutó, nadie la puso a prueba. Dos cosas piden cuidado al usarla.
 
-La primera es de dónde viene. Es el consejo de quien dirigió una empresa que sobrevivió y creció mucho. Denrell (2003) mostró con un modelo formal que mirar solo a los sobrevivientes hace parecer beneficiosas prácticas riesgosas que no se relacionan con el desempeño en toda la población. Eso no prueba que la regla sea falsa; obliga a tratarla como práctica.
+La primera es de dónde viene. Es el consejo de quien dirigió una empresa que sobrevivió. Denrell (2003) mostró con un modelo formal que mirar solo a los sobrevivientes hace parecer beneficiosas prácticas riesgosas que no se relacionan con el desempeño en toda la población. Eso no prueba que la regla sea falsa; obliga a tratarla como práctica.
 
 La segunda es la escala. Las cartas hablan de una organización grande, donde el riesgo es el exceso de proceso. Según la lectura del informe de investigación, en una empresa chica el riesgo habitual es tratar todo como puerta de un sentido; no hay estudio que diga cuál de los dos errores es más común a ese tamaño.
 
@@ -60,10 +60,10 @@ La segunda es la escala. Las cartas hablan de una organización grande, donde el
 
 ## Cómo se usa la distinción
 
-La práctica, tal como la cuentan las cartas, es preguntar antes de cada decisión cuánto cuesta deshacerla:
+La base arma esta práctica a partir de las cartas, y conviene preguntar antes de cada decisión cuánto cuesta deshacerla:
 
-1. Si se puede deshacer a bajo costo, decidila rápido, con lo que tenés, y quien está más cerca del problema.
+1. Si se puede deshacer a bajo costo, decidila rápido, con lo que tenés, entre pocos de buen juicio.
 2. Si no tiene vuelta (una contratación clave, un socio, una inversión grande, un cambio de precio que no se puede revertir con los clientes), tomate el tiempo, consultá y escribí por qué decidiste.
 3. Si hay desacuerdo y la decisión es reversible, pedí «disagree and commit» y fijá cuándo se revisa.
 
-Los ejemplos del paso 2 son de la base, no de Bezos. Escribir el porqué y revisar después enlaza con [calidad de decisión](calidad-de-decision.md), donde las revisiones posteriores sí tienen evidencia. Por qué la confianza en un juicio rápido no garantiza que sea bueno lo explica [intuición experta](../../Psicologia/Juicio-y-decision/intuicion-experta.md), en Psicología.
+Los ejemplos del paso 2, escribir el porqué y fijar la revisión del paso 3 son de la base, no de Bezos. Escribir el porqué y revisar después enlaza con [calidad de decisión](calidad-de-decision.md), donde las revisiones posteriores sí tienen evidencia. Por qué la confianza en un juicio rápido no garantiza que sea bueno lo explica [intuición experta](../../Psicologia/Juicio-y-decision/intuicion-experta.md), en Psicología.

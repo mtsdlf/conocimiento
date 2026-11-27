@@ -19,7 +19,7 @@ revisado:
 
 El trabajo remoto es trabajar fuera de la oficina todo o casi todo el tiempo, y el híbrido es repartir la semana entre la casa y la oficina. Los experimentos muestran más retención y satisfacción sin pérdida de desempeño medible; otros estudios muestran costos en colaboración, feedback y mentoría, y las dos líneas no se compararon directamente.
 
-En [Equipos y cultura](equipos-y-cultura.md) no es un atributo del equipo sino un contexto que cambia sus procesos: con quién se colabora, cuánto feedback circula, quién aprende de quién. Por eso toca a la [seguridad psicológica](seguridad-psicologica.md), al [desarrollo de personas](../Gestion-de-personas/desarrollo-de-personas.md) y a la [incorporación](../Gestion-de-personas/incorporacion.md).
+En [Equipos y cultura](equipos-y-cultura.md) es un contexto que cambia sus procesos más que un atributo del equipo: con quién se colabora, cuánto feedback circula, quién aprende de quién. Por eso toca a la [seguridad psicológica](seguridad-psicologica.md), al [desarrollo de personas](../Gestion-de-personas/desarrollo-de-personas.md) y a la [incorporación](../Gestion-de-personas/incorporacion.md).
 
 ## Los experimentos de Bloom: retención sí, productividad depende
 
@@ -40,11 +40,11 @@ Emanuel, Harrington y Pallais (2023) miraron a los ingenieros de software de una
 ## La disputa: ¿el remoto cuesta o no?
 
 > [!IMPORTANT]
-> **El remoto y el híbrido no cuestan desempeño y retienen gente (Bloom y colegas 2015 y 2024; Gajendran y Harrison 2007).** Dos experimentos aleatorizados y un metaanálisis encuentran más satisfacción y menos renuncias, con desempeño igual o mejor. En el ensayo de 2024, los 395 gerentes cambiaron de opinión: antes estimaban un efecto negativo en la productividad (−2,6 % en promedio) y después uno positivo (+1,0 %).
+> **El remoto y el híbrido no cuestan desempeño medible y retienen gente (Bloom y colegas 2015 y 2024; Gajendran y Harrison 2007).** Dos experimentos aleatorizados y un metaanálisis encuentran más satisfacción y menos renuncias, con desempeño igual o mejor. En el ensayo de 2024, los 395 gerentes cambiaron de opinión: antes estimaban un efecto negativo en la productividad (−2,6 % en promedio) y después uno positivo (+1,0 %).
 >
 > **La distancia cuesta colaboración, feedback y mentoría (Yang y colegas 2022; Emanuel, Harrington y Pallais 2023).** Microsoft perdió vínculos entre grupos, y los ingenieros lejos de su equipo recibieron menos feedback, con un costo en su desarrollo a largo plazo. Ctrip ya mostraba menos ascensos a igual desempeño.
 >
-> No son incompatibles. Yang mide remoto total en una empresa grande; Bloom 2024, un híbrido de dos días a la semana; Emanuel, el aprendizaje a largo plazo frente a la producción inmediata. No se encontró un estudio que compare los dos diseños de forma directa.
+> Esta base las lee como compatibles. Yang mide remoto total en una empresa grande; Bloom 2024, un híbrido de dos días a la semana; Emanuel, el aprendizaje a largo plazo frente a la producción inmediata. No se encontró un estudio que compare los dos diseños de forma directa.
 
 Lo que cayó es la regla general de que el remoto baja la productividad. Lo menos asentado son los efectos a largo plazo en la innovación y en la carrera de cada uno.
 

@@ -116,7 +116,7 @@ Lo que va entre comillas es literal; «formulación de esta base» marca lo que 
 |---|---|
 | [CEO «leader» y «manager»](../Rol-del-CEO/que-hace-un-ceo.md) | Dos usos del tiempo: reuniones amplias de alto nivel o individuales con cada función (Bandiera et al.). |
 | [Desajuste](../Rol-del-CEO/que-hace-un-ceo.md) | Pérdida de productividad porque el tipo de CEO no encaja con la empresa. |
-| [Efecto CEO](../Rol-del-CEO/que-hace-un-ceo.md) | Parte del desempeño atribuible al CEO; las estimaciones van de cerca de 4 % a 38,5 %. |
+| [Efecto CEO](../Rol-del-CEO/que-hace-un-ceo.md) | Parte del desempeño atribuible al CEO; las estimaciones van de casi nada a una parte grande según el método. |
 | [Roles gerenciales](../Rol-del-CEO/que-hace-un-ceo.md) | Los diez roles de Mintzberg: interpersonales, de información y de decisión. |
 | [Founder mode](../Rol-del-CEO/founder-mode.md) | Que el fundador siga en el detalle al crecer (Graham, Chesky); práctica sin estudio. |
 | [Escalones superiores](../Rol-del-CEO/equipo-directivo.md) | La organización refleja cómo ven las cosas sus altos directivos (Hambrick). |

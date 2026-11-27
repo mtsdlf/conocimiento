@@ -21,7 +21,7 @@ revisado:
 
 La gestión del cambio es el conjunto de modelos para llevar a una organización de una forma de trabajar a otra, como los ocho pasos de Kotter o ADKAR. El campo es grande y de calidad dispar: el 70 % de cambios que fracasan no tiene fuente, el modelo de tres etapas atribuido a Lewin no es suyo así, y ningún modelo completo se puso a prueba.
 
-Es un caso especial de pasar [de la estrategia al trabajo](de-la-estrategia-al-trabajo.md): lo que se ejecuta no es un plan de ventas o de producto, sino una forma nueva de trabajar (un sistema, una estructura, un proceso). Lo útil para una empresa chica es sobre todo saber qué no repetir. Por qué a las personas les cuesta cambiar un hábito está en [formación de hábitos](../../Psicologia/Aprendizaje-y-memoria/formacion-de-habitos.md).
+Es un caso especial de pasar [de la estrategia al trabajo](de-la-estrategia-al-trabajo.md): lo que se ejecuta es una forma nueva de trabajar (un sistema, una estructura, un proceso) y no un plan de ventas o de producto. Lo útil para una empresa chica es sobre todo saber qué no repetir. Por qué a las personas les cuesta cambiar un hábito está en [formación de hábitos](../../Psicologia/Aprendizaje-y-memoria/formacion-de-habitos.md).
 
 ## El 70 % de cambios que fracasan no tiene fuente
 
@@ -39,7 +39,7 @@ Antes ya se lo criticaba por simplificar, y otros lo defendían. Lo nuevo de Cum
 
 ## Kotter: ocho pasos sin prueba en contra ni a favor
 
-Los ocho pasos de Kotter (*Leading Change*, 1996) son el modelo más usado. Appelbaum, Habashy, Malo y Shafiq (2012) hicieron la primera revisión formal, a los 15 años, recorriendo la literatura paso por paso.
+Los ocho pasos de Kotter (*Leading Change*, 1996) son uno de los modelos que revisó el informe. Appelbaum, Habashy, Malo y Shafiq (2012) hicieron la primera revisión formal, a los 15 años, recorriendo la literatura paso por paso.
 
 > [!IMPORTANT]
 > **El modelo tiene límites (Appelbaum et al. 2012).** Según un resumen del abstract, encontraron «several limitations that affect the model's universal acceptance».
@@ -50,7 +50,7 @@ Los ocho pasos de Kotter (*Leading Change*, 1996) son el modelo más usado. Appe
 
 ## ADKAR, sin estudios independientes
 
-ADKAR es el modelo de Prosci, una empresa que vende capacitación en gestión del cambio. Según Prosci, Hiatt lo desarrolló estudiando «more than 700 organizations»; las fechas de origen varían entre fuentes. La investigación de esta base no encontró estudios independientes revisados por pares que muestren que ADKAR predice resultados.
+ADKAR es el modelo de Prosci, una empresa con interés comercial en él. Según Prosci, Hiatt lo desarrolló estudiando «more than 700 organizations»; las fechas de origen varían entre fuentes. La investigación de esta base no encontró estudios independientes revisados por pares que muestren que ADKAR predice resultados.
 
 ## Estado de la evidencia y de dónde viene
 
@@ -61,7 +61,7 @@ ADKAR es el modelo de Prosci, una empresa que vende capacitación en gestión de
 | Los ocho pasos de Kotter | Sin respaldo directo ni evidencia en contra |
 | ADKAR | Sin evidencia independiente; la fuente es el proveedor |
 
-Los modelos vienen de consultoras y de corporaciones grandes. Ninguno se estudió en empresas de 2 a 50 personas.
+El informe no encontró estudios de estos modelos en empresas de 2 a 50 personas.
 
 > [!NOTE] Sin fuente todavía: qué prácticas de gestión del cambio tienen evidencia por separado (comunicar, involucrar a los afectados, sostener el cambio) y cuál es la tasa real de fracaso de los cambios.
 

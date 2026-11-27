@@ -47,7 +47,7 @@ Ningún estudio de esta parte es de empresas de 2 a 50 personas. Lo que hay vien
 Lo de practicantes pesa mucho en esta parte: Grove, Horowitz, Graham, Chesky, Lencioni, Feld. Cada nota lo marca como práctica. Denrell (2003) mostró que mirar solo a las empresas que sobrevivieron hace parecer buenas a prácticas riesgosas, y los consejos de CEOs exitosos caen bajo esa sospecha. No prueba que sean falsos, pero obliga a preguntar qué muestra miran.
 
 > [!IMPORTANT]
-> **El CEO explica una parte grande y creciente del resultado (Quigley, Hambrick y Graffin).** Con descomposición de varianza en miles de años de empresa, encuentran un efecto que supera con holgura al azar.
+> **El efecto del CEO es mayor que el azar y creció (Quigley, Hambrick y Graffin).** Con descomposición de varianza en miles de años de empresa, encuentran, según resúmenes, un efecto mucho mayor que el que estima Fitza.
 >
 > **El efecto del CEO casi no se distingue del azar (Fitza).** Según el abstract de su réplica de 2017, «the effect of CEO leadership is almost indistinguishable from the effect of chance».
 >

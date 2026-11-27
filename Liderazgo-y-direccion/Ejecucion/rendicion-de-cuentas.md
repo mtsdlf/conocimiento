@@ -28,21 +28,21 @@ El campo trata la rendición de cuentas desde dos lados. La psicología social e
 
 La revisión de Lerner y Tetlock (1999) se arma alrededor de dos preguntas, según su abstract: «Under what conditions will accountability attenuate, have no effect on, or amplify cognitive biases?» y «Does accountability alter how people think or merely what people say they think?». La revisión también trata cómo estructurar las relaciones de rendición de cuentas en las organizaciones.
 
-Las preguntas ya dicen la respuesta general: según cómo se arme, pedir cuentas mejora el juicio, no lo cambia o lo empeora, y a veces cambia solo lo que la gente dice. Qué condiciones producen cada efecto no está en el abstract, y la investigación de esta base no lo verificó. Los sesgos que se corrigen o se amplifican están en [heurísticas y sesgos](../../Psicologia/Juicio-y-decision/heuristicas-y-sesgos.md).
+Las preguntas dejan abiertas tres posibilidades (que pedir cuentas atenúe los sesgos, que no tenga efecto o que los amplifique) y la duda de si cambia cómo se piensa o solo lo que se dice. Qué condiciones producen cada efecto no está en el abstract, y la investigación de esta base no lo verificó. Los sesgos que se corrigen o se amplifican están en [heurísticas y sesgos](../../Psicologia/Juicio-y-decision/heuristicas-y-sesgos.md).
 
 > [!NOTE] Sin fuente todavía: las condiciones concretas en que la rendición de cuentas mejora el juicio (por ejemplo, ante qué tipo de audiencia y si se pide justificar el proceso o el resultado). Están en el cuerpo de Lerner y Tetlock (1999), que esta base no leyó.
 
-En el trabajo, el resultado es igual de mixto. Hall, Frink y Buckley (2015) lo resumen en su abstract: «Empirical research has revealed that accountability has both constructive and deleterious consequences. Moreover, research examining accountability and key outcomes has produced mixed results, suggesting that consideration of moderators and nonlinear relationships are important when examining accountability». Que la relación no sea lineal quiere decir que más rendición de cuentas no es siempre mejor.
+En el trabajo, el resultado es igual de mixto. Hall, Frink y Buckley (2015) lo resumen en su abstract: «Empirical research has revealed that accountability has both constructive and deleterious consequences. Moreover, research examining accountability and key outcomes has produced mixed results, suggesting that consideration of moderators and nonlinear relationships are important when examining accountability». Que importen las relaciones no lineales sugiere que más rendición de cuentas no es siempre mejor.
 
 ## El responsable con nombre, una práctica atribuida
 
-La práctica más difundida es el DRI (*directly responsible individual*): cada acción que sale de una reunión tiene una sola persona responsable, con nombre. Se atribuye a Steve Jobs en Apple, pero la investigación de esta base no encontró una fuente primaria. Las páginas que la cuentan traen una anécdota sin cita o mezclan citas que no se pueden verificar.
+Una práctica conocida es el DRI (*directly responsible individual*): cada acción que sale de una reunión tiene una sola persona responsable, con nombre. Se atribuye a Steve Jobs en Apple, pero la investigación de esta base no encontró una fuente primaria. Las páginas que la cuentan traen una anécdota sin cita o mezclan citas que no se pueden verificar.
 
 Lo mismo vale para el seguimiento de compromisos (anotar quién hace qué y para cuándo, y revisarlo en la reunión siguiente). Es práctica corriente sin estudio que la compare con otras formas. Sull, Homkes y Sull (2015) recomiendan seguir los compromisos de desempeño, según un resumen; está en [ritmo operativo](ritmo-operativo.md).
 
 ## Estado de la evidencia y de dónde viene
 
-- **Se sostuvo, en una revisión amplia**: la rendición de cuentas tiene efectos buenos y malos según cómo se estructure. Viene de laboratorio (juicio y decisión) y de estudios en organizaciones.
+- **Se sostuvo, en una revisión amplia**: la rendición de cuentas tiene efectos buenos y malos según cómo se estructure. Viene de revisiones de la psicología social (juicio y decisión) y de la organizacional.
 - **Sin evidencia**: el DRI y el seguimiento de compromisos como prácticas. Su origen atribuido es una corporación.
 
 Para una empresa chica, lo que se puede tomar es la advertencia: poner un nombre en cada compromiso no garantiza nada por sí solo, y la forma en que se piden las cuentas cambia el efecto. Cómo se da feedback cuando un compromiso no se cumplió es del tema Comunicación, todavía sin escribir.

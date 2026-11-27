@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El desarrollo de personas es lo que una empresa y un jefe hacen para que alguien pueda hacer un trabajo más difícil que el actual: delegarle, mentorearlo, darle coaching o entrenarlo. El entrenamiento y el coaching tienen efectos medios en metaanálisis; la regla 70-20-10 no tiene base.
+  El desarrollo de personas es lo que una empresa y un jefe hacen para que alguien pueda hacer un trabajo más difícil que el actual: delegarle, mentorearlo, darle coaching o entrenarlo. El entrenamiento y el coaching tienen efectos medios en metaanálisis; la regla 70-20-10 tiene una base débil.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -23,19 +23,19 @@ revisado:
 
 # Desarrollo de personas
 
-El desarrollo de personas es lo que una empresa y un jefe hacen para que alguien pueda hacer un trabajo más difícil que el actual: delegarle, mentorearlo, darle coaching o entrenarlo. El entrenamiento y el coaching tienen efectos medios en metaanálisis; la regla 70-20-10 no tiene base.
+El desarrollo de personas es lo que una empresa y un jefe hacen para que alguien pueda hacer un trabajo más difícil que el actual: delegarle, mentorearlo, darle coaching o entrenarlo. El entrenamiento y el coaching tienen efectos medios en metaanálisis; la regla 70-20-10 tiene una base débil.
 
-En una empresa chica, que no tiene presupuesto de capacitación ni un área que lo administre, desarrollar a alguien es casi siempre darle trabajo nuevo y acompañarlo. La [evaluación del desempeño](evaluacion-del-desempeno.md) dice qué falta, y las [reuniones uno a uno](reuniones-uno-a-uno.md) son donde se conversa.
+En una empresa chica, sin presupuesto de capacitación ni un área que lo administre, desarrollar a alguien suele reducirse a darle trabajo nuevo y acompañarlo (inferencia de esta base). La [evaluación del desempeño](evaluacion-del-desempeno.md) dice qué falta, y las [reuniones uno a uno](reuniones-uno-a-uno.md) son donde se conversa.
 
 ## Delegar para que crezca
 
-Darle a alguien autoridad sobre un trabajo es la forma de desarrollo más disponible en una empresa chica. En la investigación se la estudia como liderazgo empoderador («empowering leadership»). El metaanálisis de Lee, Willis y Tian (2018), con 105 muestras, encontró según el abstract efectos positivos sobre el desempeño, la conducta de ciudadanía y la creatividad, en personas y en equipos. El efecto pasa por la [confianza en el líder](../Liderar-personas/confianza-en-el-lider.md) y por el empoderamiento psicológico.
+Darle a alguien autoridad sobre un trabajo es una forma de desarrollo al alcance de una empresa chica (inferencia de esta base). En la investigación se la estudia como liderazgo empoderador («empowering leadership»). El metaanálisis de Lee, Willis y Tian (2018), con 105 muestras, encontró según el abstract efectos positivos sobre el desempeño, la conducta de ciudadanía y la creatividad, en personas y en equipos. El efecto pasa por la [confianza en el líder](../Liderar-personas/confianza-en-el-lider.md) y por el empoderamiento psicológico.
 
 Es una asociación, con datos sobre todo de encuesta. Qué niveles de delegación hay y cuándo conviene devolver una decisión está en [delegación](../Decidir/delegacion.md), en Decidir.
 
-## La mentoría ayuda más a cómo se siente la carrera que a la carrera
+## La mentoría tiene efectos chicos en lo objetivo
 
-Allen, Eby, Poteet, Lentz y Lima (2004) metaanalizaron los beneficios de tener un mentor, objetivos (como el sueldo) y subjetivos (como la satisfacción con la carrera). Según el abstract, «The findings were generally supportive of the benefits associated with mentoring, but effect sizes associated with objective outcomes were small». Hay un metaanálisis posterior y más amplio (Eby y colegas, 2008), del que esta base solo confirmó la referencia y no tiene cifras.
+Allen, Eby, Poteet, Lentz y Lima (2004) metaanalizaron los beneficios de tener un mentor, objetivos (como el sueldo) y subjetivos (como la satisfacción con la carrera). Según el abstract, «The findings were generally supportive of the benefits associated with mentoring, but effect sizes associated with objective outcomes were small». Hay un metaanálisis posterior y multidisciplinario (Eby y colegas, 2008), del que esta base solo confirmó la referencia y no tiene cifras.
 
 ## El coaching tiene efectos medios, con muestras chicas
 
@@ -52,9 +52,9 @@ La segunda exclusión pesa para una empresa chica: lo que un jefe hace con su eq
 
 Lacerenza, Reyes, Marlow, Joseph y Salas (2017) reunieron 335 muestras. Según el abstract, el entrenamiento de liderazgo «is substantially more effective than previously thought», con mejoras en reacciones (δ = .63), aprendizaje (δ = .73), transferencia al trabajo (δ = .82) y resultados (δ = .72). Funciona mejor con análisis previo de necesidades, feedback, varios métodos (sobre todo práctica), sesiones espaciadas, en el lugar de trabajo y presencial en vez de autoadministrado. Por qué espaciar ayuda a recordar está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md).
 
-La posición contraria de esta base no encontró un estudio verificado que muestre que el entrenamiento no transfiere. La crítica que pesa es de medición: los resultados «de desempeño» pueden ser percepciones de jefes y pares, y no se verificó cómo se midieron. Casi todos los estudios son de organizaciones grandes con programas formales.
+Al buscar la posición contraria, esta base no encontró un estudio verificado que muestre que el entrenamiento no transfiere. La crítica que pesa es de medición: los resultados «de desempeño» pueden ser percepciones de jefes y pares, y no se verificó cómo se midieron. Esta base no encontró estudios en empresas chicas.
 
-## La regla 70-20-10 no tiene base
+## La regla 70-20-10 tiene una base débil
 
 La regla reparte el aprendizaje en el trabajo en tres partes y le da la mayor, el 70 %, a lo informal: lo que se aprende haciendo. Clardy (2018) revisó cinco tradiciones que, según un resumen, parecían converger en que «70% or more of work-based learning occurs informally». Según el abstract, concluye que «the evidential basis for the 70% rule is weak» y que hay que dejarla de lado. Según fuentes secundarias, los porcentajes salen de lo que ejecutivos exitosos recordaban sobre cómo habían aprendido, en investigaciones del Center for Creative Leadership; esas fuentes cuentan el origen con detalles distintos, y la investigación de esta base no encontró el documento original. Sobrevive como idea general: mucho se aprende haciendo. Está con los demás en [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md).
 

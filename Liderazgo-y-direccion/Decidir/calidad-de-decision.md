@@ -25,11 +25,11 @@ Es la pregunta que cierra [Decidir](decidir.md): si lo que se decidió estuvo bi
 
 Annie Duke, que fue jugadora de póquer, llama «resulting» a juzgar una decisión por su resultado. Según reseñas de *Thinking in Bets* (2018), sostiene que ganar y perder son «loose signals» de la calidad de la decisión, y recomienda separar lo que se controló (la habilidad) de lo que no (la suerte) y revisar la decisión después del resultado. Es práctica de una autora, sin evidencia empírica propia; el libro no se leyó.
 
-El problema que señala es concreto en una empresa chica: con pocas decisiones grandes por año, un resultado aislado dice poco sobre si el criterio era bueno (inferencia de la base). Una decisión reversible que salió mal pudo ser correcta con lo que se sabía; una que salió bien pudo ser suerte, y repetirla es el riesgo.
+El problema se ve en una empresa chica: con pocas decisiones grandes por año, un resultado aislado dice poco sobre si el criterio era bueno (inferencia de la base, no de Duke). Una decisión reversible que salió mal pudo ser correcta con lo que se sabía; una que salió bien pudo ser suerte, y repetirla es el riesgo.
 
 ## El proceso pesó más que el análisis, según una consultora
 
-Lovallo y Sibony (2010) publicaron en la McKinsey Quarterly un estudio sobre «1,048 major decisions made over the past five years»: productos nuevos, fusiones y adquisiciones, grandes inversiones. Los gerentes reportaron qué hicieron en 17 prácticas de proceso y de análisis. Controlando industria, geografía y tamaño, «process mattered more than analysis, by a factor of six». Pasar del cuartil inferior al superior en proceso sumó 6,9 puntos porcentuales de retorno sobre la inversión; en análisis, 5,3 puntos.
+Lovallo y Sibony (2010) publicaron en la McKinsey Quarterly un estudio sobre «1,048 major decisions made over the past five years»: productos nuevos, fusiones y adquisiciones, grandes inversiones. Según el resumen, los gerentes reportaron qué hicieron en 17 prácticas de proceso. Controlando industria, geografía y tamaño, «process mattered more than analysis, by a factor of six». Pasar del cuartil inferior al superior en proceso sumó 6,9 puntos porcentuales de retorno sobre la inversión; en análisis, 5,3 puntos.
 
 En una encuesta aparte a 2.207 ejecutivos, solo el 28 % dijo que la calidad de las decisiones estratégicas en su empresa era en general buena.
 
@@ -51,15 +51,15 @@ La práctica con más evidencia es la revisión posterior: después de un proyec
 
 **Keiser y Arthur.** Según un resumen, su metaanálisis de 61 estudios encontró d = 0,79 sobre criterios de evaluación de entrenamiento. Dos características pesan siempre: que la revisión esté alineada a la persona o al equipo, y que use medios objetivos para revisar el desempeño. La facilitación interactúa con otros factores, y la revisión autodirigida aparece entre las combinaciones más efectivas. La fecha varía según la fuente: 2020 en línea, y 2021 o 2022 en papel.
 
-Las dos cifras no se contradicen: miden criterios distintos (efectividad general en un caso, criterios de entrenamiento en el otro), y las dos apuntan al mismo lado. El estado es **se sostuvo**, con dos metaanálisis independientes. La reserva es de dónde viene: gran parte de los estudios son de entrenamiento, simulación y salud, no de empresas, y ninguno de empresas de 2 a 50 personas.
+Las dos cifras no se contradicen: en la lectura de la base miden criterios distintos (el segundo estudio informa criterios de entrenamiento), y las dos apuntan al mismo lado. El estado es **se sostuvo**, con dos metaanálisis independientes. La reserva es de dónde viene: gran parte de los estudios son de entrenamiento, simulación y salud, no de empresas chicas, y el informe no encontró ninguno de empresas de 2 a 50 personas.
 
 ## Registros de decisiones
 
-Escribir cada decisión importante con su contexto, las opciones y lo que se esperaba permite revisarla después contra lo que se sabía en ese momento, y no contra el resultado (inferencia de la base sobre la idea de Duke). En software la práctica existe como el [ADR](../../Arquitectura/Decisiones/adr.md), el registro de una decisión de arquitectura junto al código.
+Escribir cada decisión importante con su contexto, las opciones y lo que se esperaba permite revisarla después contra lo que se sabía en ese momento, y no contra el resultado (inferencia de la base sobre la idea de Duke). En software la práctica existe como el [ADR](../../Arquitectura/Decisiones/adr.md), el registro de una decisión de arquitectura junto al código; el informe no la verificó con una fuente.
 
 > [!NOTE] Sin fuente todavía: evidencia sobre registros de decisiones fuera del software, y sobre si mejoran las decisiones.
 
-Los cinco porqués que propone Ries, otra práctica de revisión para buscar la causa de un problema, están en [Fundadores y equipo](../../Emprender/Fundadores-y-equipo/fundadores-y-equipo.md). El seguimiento de lo que se decidió en el ritmo de revisiones semanales y mensuales es asunto de [ritmo operativo](../Ejecucion/ritmo-operativo.md).
+Otra práctica de revisión, los cinco porqués, está en [Fundadores y equipo](../../Emprender/Fundadores-y-equipo/fundadores-y-equipo.md). El seguimiento de lo que se decidió en el ritmo de revisiones semanales y mensuales es asunto de [ritmo operativo](../Ejecucion/ritmo-operativo.md).
 
 ## Cómo se hace una revisión posterior
 

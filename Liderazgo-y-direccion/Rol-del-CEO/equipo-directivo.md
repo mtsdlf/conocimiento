@@ -30,11 +30,11 @@ Para quien arma un primer equipo, la consecuencia es de composición. Si todos v
 
 ## La mayoría de los equipos directivos rinde por debajo de su potencial
 
-Wageman, Nunes, Burruss y Hackman (2008) estudiaron equipos directivos de varios países. Según una nota de Chief Executive, fueron 120 equipos de 11 países; otra fuente habla de más de 100 equipos. Encontraron que menos del 25 % de los equipos directivos aprovecha su potencial. Uno de los problemas: los CEOs no siempre tienen claro qué decisiones quieren que resuelva el equipo y cuáles se reservan.
+Wageman, Nunes, Burruss y Hackman (2008) estudiaron equipos directivos de varios países. Según una nota de Chief Executive, fueron 120 equipos de 11 países; otra fuente habla de más de 100 equipos. Según la misma nota, menos del 25 % de los equipos directivos aprovecha su potencial. Uno de los problemas: los CEOs no siempre tienen claro qué decisiones quieren que resuelva el equipo y cuáles se reservan.
 
-Según la misma nota, el libro recorre en este orden: decidir si hace falta un equipo, darle un propósito, elegir a sus miembros, darle una estructura y apoyo, acompañarlo con coaching y las competencias que necesita quien lo encabeza. El estudio propone seis pasos, que la nota no lista.
+Según la misma nota, el libro cubre: decidir si hace falta un equipo, darle un propósito, elegir a sus miembros, darle una estructura y apoyo, acompañarlo con coaching y las competencias que necesita quien lo encabeza. El estudio propone seis pasos, que la nota no lista.
 
-La primera pregunta es la que más le sirve a una empresa chica. Un «equipo directivo» puede ser solo un grupo de personas que reportan cada una lo suyo al CEO. Llamarlo equipo sin que decida nada en conjunto suma reuniones sin sumar dirección (inferencia de esta base). Qué decisiones se dan al equipo y cuáles se queda el CEO es el tema de [derechos de decisión](../Decidir/derechos-de-decision.md).
+La primera pregunta es la que más le serviría a una empresa chica (lectura de esta base). Un «equipo directivo» puede ser solo un grupo de personas que reportan cada una lo suyo al CEO. Llamarlo equipo sin que decida nada en conjunto suma reuniones sin sumar dirección (inferencia de esta base). Qué decisiones se dan al equipo y cuáles se queda el CEO es el tema de [derechos de decisión](../Decidir/derechos-de-decision.md).
 
 > [!NOTE] Sin fuente todavía: los seis pasos del estudio de Wageman y colegas y el libro leído directamente.
 
@@ -42,13 +42,13 @@ La primera pregunta es la que más le sirve a una empresa chica. Un «equipo dir
 
 Patrick Lencioni propone en *The Advantage* (2012) que el equipo directivo sea el «first team» de cada ejecutivo: su prioridad antes que su propia área. Según los resúmenes, la primera disciplina es construir un equipo cohesionado, en este orden: confianza, después claridad, después comunicación. Entre los problemas frecuentes nombra un equipo demasiado grande, y distingue entre un equipo de liderazgo y un grupo de trabajo («working group») que solo coordina.
 
-Es práctica, leída por reseñas, y no trae datos. Su distinción entre equipo y grupo de trabajo coincide con la primera pregunta de Wageman y colegas, que sí viene de un estudio. La confianza como base del equipo tiene su evidencia en [confianza en el líder](../Liderar-personas/confianza-en-el-lider.md) y en [seguridad psicológica](../Equipos-y-cultura/seguridad-psicologica.md).
+Es práctica, leída por reseñas, y no trae datos. Su distinción entre equipo y grupo de trabajo se parece a la primera pregunta de Wageman y colegas, que sí viene de un estudio. La confianza como base del equipo tiene su evidencia en [confianza en el líder](../Liderar-personas/confianza-en-el-lider.md) y en [seguridad psicológica](../Equipos-y-cultura/seguridad-psicologica.md).
 
 ## Cómo trabaja el equipo pesa más que quiénes están
 
 Google encontró en su Proyecto Aristóteles que «how a team works together is more important than who is on the team». Según su guía re:Work, los equipos de ventas que trabajaban bien juntos superaron la meta en promedio un 17 %, y los que no, quedaron hasta un 19 % por debajo. El estudio es de equipos en general dentro de una empresa grande, no de equipos directivos. Lo que se sabe de qué hace rendir a un equipo está en [equipos efectivos](../Equipos-y-cultura/equipos-efectivos.md).
 
-Un equipo directivo discute y decide en grupo, y por eso hereda los sesgos de cualquier grupo: el pensamiento de grupo y la polarización están explicados en [sesgos de grupo](../../Psicologia/Cognicion-social/sesgos-de-grupo.md). Las técnicas para contrarrestarlos están en [decidir en grupo](../Decidir/decidir-en-grupo.md), y cómo se discute sin romper el equipo, en [conflicto en equipos](../Equipos-y-cultura/conflicto-en-equipos.md).
+Un equipo directivo discute y decide en grupo, y por eso heredaría los sesgos de cualquier grupo (inferencia de esta base): el pensamiento de grupo y la polarización están explicados en [sesgos de grupo](../../Psicologia/Cognicion-social/sesgos-de-grupo.md). Las técnicas para contrarrestarlos están en [decidir en grupo](../Decidir/decidir-en-grupo.md), y cómo se discute sin romper el equipo, en [conflicto en equipos](../Equipos-y-cultura/conflicto-en-equipos.md).
 
 ## Cuándo cambiar a alguien del equipo: sin evidencia
 

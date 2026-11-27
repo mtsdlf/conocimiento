@@ -18,7 +18,7 @@ revisado:
 
 La incorporación es el período en que una persona recién contratada aprende su rol y entra al grupo. El metaanálisis de Bauer y colegas (2007) la explica por tres ajustes, claridad de rol, autoeficacia y aceptación social, que median entre lo que hacen la empresa y el recién llegado y si este rinde y se queda.
 
-En la investigación se la llama socialización organizacional; en las empresas, onboarding. Sigue a [contratar](contratar.md) en el ciclo de [gestión de personas](gestion-de-personas.md), y lo que sale mal en estos meses aparece después como salida temprana en [rotación y salidas](rotacion-y-salidas.md).
+En la investigación se la llama socialización organizacional; en las empresas, onboarding. Sigue a [contratar](contratar.md) en el ciclo de [gestión de personas](gestion-de-personas.md), y lo que sale mal en estos meses puede aparecer después como salida temprana (inferencia de esta base) en [rotación y salidas](rotacion-y-salidas.md).
 
 ## Los tres ajustes del recién llegado
 
@@ -36,7 +36,7 @@ Abajo están los resultados: satisfacción, compromiso, desempeño, intención d
 
 Lo que sigue es inferencia de esta base a partir del modelo, no un programa probado. Cada ajuste señala algo que el jefe controla en los primeros meses. Para la claridad de rol, decir por escrito qué se espera y cómo se va a evaluar (la [evaluación del desempeño](evaluacion-del-desempeno.md) parte de ahí). Para la autoeficacia, dar primero tareas que se puedan terminar bien. Para la aceptación social, presentar a la persona y darle con quién trabajar desde el primer día.
 
-El modelo también da peso a la iniciativa del recién llegado: la persona que pregunta y busca información se ajusta mejor. Las [reuniones uno a uno](reuniones-uno-a-uno.md) son el lugar natural para que eso pase sin que dependa de su timidez.
+El modelo incluye también la búsqueda de información del propio recién llegado como fuente de ajuste. Las [reuniones uno a uno](reuniones-uno-a-uno.md) son el lugar natural para que eso pase sin que dependa de su timidez.
 
 ## Las cifras de salida temprana no son comparables
 
@@ -46,6 +46,6 @@ Work Institute también sostiene que una buena incorporación ayuda a que la per
 
 ## Sostenido el modelo, sin evidencia de programas
 
-El modelo de los tres ajustes se sostuvo: es el metaanálisis estándar del campo, con más de 1.100 citas según Crossref. Lo que no tiene evidencia sólida es que un programa de incorporación concreto reduzca la rotación: la investigación de esta base no encontró un experimento ni un metaanálisis de programas. Las muestras de Bauer y colegas no se separan por tamaño de empresa, y en una de 2 a 50 personas la incorporación suele ser el jefe directo sin un proceso escrito.
+El modelo de los tres ajustes se sostuvo: es un metaanálisis muy citado, con más de 1.100 citas según Crossref. Lo que no tiene evidencia sólida es que un programa de incorporación concreto reduzca la rotación: la investigación de esta base no encontró un experimento ni un metaanálisis de programas. Las muestras de Bauer y colegas no se separan por tamaño de empresa.
 
 Para leer la fuente: Bauer y colegas (2007), la figura del modelo de ajuste. Conviene fijarse en qué se mide como ajuste, porque de ahí salen las tres cosas que una incorporación puede mover.

@@ -20,15 +20,15 @@ revisado:
 
 Una reunión es el formato en que un grupo de trabajo se junta a informarse, resolver problemas o decidir. La ciencia de las reuniones muestra que lo que se dice adentro predice los resultados del equipo, y que las conductas malas, como quejarse, pesan más que las buenas.
 
-En la ejecución, la reunión es donde ocurre el [ritmo operativo](ritmo-operativo.md): la revisión semanal o la trimestral son reuniones. Las reuniones de una persona con su jefe tienen nota propia, [reuniones uno a uno](../Gestion-de-personas/reuniones-uno-a-uno.md). Cómo se decide bien en grupo, con técnicas contra el pensamiento de grupo, está en [decidir en grupo](../Decidir/decidir-en-grupo.md), y el mecanismo de esos sesgos en [sesgos de grupo](../../Psicologia/Cognicion-social/sesgos-de-grupo.md).
+En la ejecución, la reunión es donde ocurre el [ritmo operativo](ritmo-operativo.md): la revisión semanal o la trimestral son reuniones. Las reuniones de una persona con su jefe tienen nota propia, [reuniones uno a uno](../Gestion-de-personas/reuniones-uno-a-uno.md). Cómo se decide bien en grupo, con técnicas para que salga lo que sabe cada uno, está en [decidir en grupo](../Decidir/decidir-en-grupo.md), y el mecanismo de esos sesgos en [sesgos de grupo](../../Psicologia/Cognicion-social/sesgos-de-grupo.md).
 
 ## Lo que se dice adentro predice los resultados
 
 El estudio central es el de Kauffeld y Lehmann-Willenbrock (2012). Grabaron en video 92 reuniones de equipo, codificaron cada intervención y pidieron calificaciones a los participantes en 59. Según un resumen del abstract, más resolución de problemas y más planificación de acciones se asociaron con más satisfacción con la reunión, y las mejores reuniones, con más productividad del equipo.
 
-El hallazgo que cambia la práctica es la asimetría. Criticar y quejarse se asociaron con peores resultados, con efectos más fuertes que los positivos de la conducta funcional. Las reuniones sin estructura dañaron la satisfacción, la productividad del grupo y el desempeño de la organización. Un comentarista lo resume como que importa más tener menos reuniones malas que más reuniones buenas.
+El hallazgo que cambia la práctica es la asimetría. Criticar y quejarse se asociaron con peores resultados, con efectos más fuertes que los positivos de la conducta funcional. Las reuniones sin estructura se asociaron con menos satisfacción, productividad del grupo y desempeño de la organización. Un comentarista lo resume como que importa más tener menos reuniones malas que más reuniones buenas.
 
-Es un estudio observacional en empresas, no un experimento: muestra asociación. Tampoco está claro que mida rentabilidad, así que acá no se usa ese término.
+Es un estudio observacional, no un experimento: muestra asociación.
 
 La satisfacción con las reuniones pesa en cómo se vive el trabajo. Según un resumen de Rogelberg y colegas (2010), es una faceta distinta de la satisfacción laboral y predice la satisfacción laboral global, con un efecto que depende en parte de cuántas reuniones tiene la persona.
 
@@ -42,7 +42,7 @@ Son gerentes senior, y es autorreporte. Para empresas de 2 a 50 personas no hay 
 
 Bluedorn, Turban y Love (1999) compararon 56 grupos de cinco personas de pie con 55 sentados. Según un resumen, las reuniones sentadas fueron un 34 % más largas y no dieron mejores decisiones; los grupos de pie quedaron menos satisfechos, sin diferencia en la medida de «synergy» del estudio ni en el compromiso. Las reuniones duraban de 10 a 20 minutos y los participantes eran estudiantes, y los autores advierten que no se sabe si vale para reuniones de una hora.
 
-Es un experimento de laboratorio con una sola tarea. La reunión diaria de pie de los equipos de software es práctica, y este estudio la respalda poco.
+Es un experimento de laboratorio con una sola tarea. La reunión diaria de pie de los equipos de software es práctica, y este estudio, que no trata de equipos de software, la respalda poco (lectura de la base).
 
 ## Lo que no está estudiado
 
@@ -54,7 +54,7 @@ Una regla que suele circular, que las reuniones se llevan el 15 % del tiempo de 
 
 ## Estado de la evidencia y de dónde viene
 
-- **Se sostuvo**: lo que se dice en la reunión, en especial las quejas y la falta de estructura, predice los resultados del equipo, y lo malo pesa más que lo bueno. Viene de un estudio observacional en equipos de empresas.
+- **Se sostuvo**: lo que se dice en la reunión, en especial las quejas y la falta de estructura, predice los resultados del equipo, y lo malo pesa más que lo bueno. Viene de un estudio observacional en equipos.
 - **Se achicó**: las reuniones de pie como técnica, con un experimento de laboratorio con estudiantes y reuniones cortas.
 - **Sin evidencia**: agenda, tamaño y frecuencia.
 

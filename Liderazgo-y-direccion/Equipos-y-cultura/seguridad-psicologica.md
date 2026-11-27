@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La seguridad psicológica es la creencia compartida en un equipo de que se puede tomar un riesgo interpersonal (preguntar, admitir un error, discrepar) sin que eso traiga castigo. Se asocia con aprendizaje y desempeño en un metaanálisis de 136 muestras; que los cause, y cuánto pesa frente a otras cosas, está sin probar.
+  La seguridad psicológica es la creencia compartida en un equipo de que se puede tomar un riesgo interpersonal (preguntar, admitir un error, discrepar) sin que eso traiga castigo. Se asocia con aprendizaje y desempeño en el estudio original y, según un resumen, en un metaanálisis de 136 muestras; que los cause, y cuánto pesa frente a otras cosas, está sin probar.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -21,13 +21,13 @@ revisado:
 
 # Seguridad psicológica
 
-La seguridad psicológica es la creencia compartida en un equipo de que se puede tomar un riesgo interpersonal (preguntar, admitir un error, discrepar) sin que eso traiga castigo. Se asocia con aprendizaje y desempeño en un metaanálisis de 136 muestras; que los cause, y cuánto pesa frente a otras cosas, está sin probar.
+La seguridad psicológica es la creencia compartida en un equipo de que se puede tomar un riesgo interpersonal (preguntar, admitir un error, discrepar) sin que eso traiga castigo. Se asocia con aprendizaje y desempeño en el estudio original y, según un resumen, en un metaanálisis de 136 muestras; que los cause, y cuánto pesa frente a otras cosas, está sin probar.
 
 Es un estado emergente del equipo: sale de cómo trabaja y lo condiciona después, en el esquema de insumos, procesos y resultados que ordena [Equipos y cultura](equipos-y-cultura.md). Se cruza con la [confianza en el líder](../Liderar-personas/confianza-en-el-lider.md), que es la relación con una persona, y con el [conflicto en equipos](conflicto-en-equipos.md), porque discrepar sin miedo es uno de los riesgos que cubre.
 
 ## Lo que midió Edmondson
 
-Amy Edmondson definió el concepto en 1999 como «a shared belief held by members of a team that the team is safe for interpersonal risk taking». Su estudio, según el abstract, tomó 51 equipos de trabajo de una empresa manufacturera. La seguridad psicológica se asoció con la conducta de aprendizaje del equipo, y esa conducta medió entre la seguridad y el desempeño. La eficacia del equipo, la creencia de que es capaz, dejó de asociarse con el aprendizaje al controlar por seguridad psicológica.
+Amy Edmondson definió el concepto en 1999 como «a shared belief held by members of a team that the team is safe for interpersonal risk taking». Su estudio, según el abstract, tomó 51 equipos de trabajo de una empresa manufacturera. La seguridad psicológica se asoció con la conducta de aprendizaje del equipo, y esa conducta medió entre la seguridad y el desempeño. La eficacia del equipo, en cambio, no se asoció con el aprendizaje al controlar por seguridad psicológica.
 
 En una revisión de 2014, Edmondson y Lei la describen como «people's perceptions of the consequences of taking interpersonal risks in a particular context such as a workplace». Según el abstract, sitúan sus orígenes en los años 60 y su «renaissance» desde los 90, y la vinculan con la voz, el trabajo en equipo y el aprendizaje del equipo y de la organización.
 
@@ -44,9 +44,9 @@ Según un resumen de la revisión de Newman, Donohue y Eva (2017), los anteceden
 ## Lo que no está probado
 
 > [!IMPORTANT]
-> **Es un factor de rendimiento bien establecido (Edmondson y Bransby 2023; Frazier y colegas 2017).** La revisión de 2023 encuentra cuatro temas dominantes en la literatura, «getting things done, learning behaviors, improving the work experience, and leadership», y concluye que la seguridad psicológica «plays important roles in enabling organizations to learn and perform in dynamic environments». El metaanálisis de Frazier es independiente de Edmondson y respalda la asociación con desempeño y aprendizaje.
+> **Es un factor de rendimiento con respaldo (Edmondson y Bransby 2023; Frazier y colegas 2017).** La revisión de 2023 encuentra cuatro temas dominantes en la literatura, «getting things done, learning behaviors, improving the work experience, and leadership», y concluye que la seguridad psicológica «plays important roles in enabling organizations to learn and perform in dynamic environments». El metaanálisis de Frazier es independiente de Edmondson y estudia el efecto sobre desempeño y ciudadanía; esta base no tiene sus tamaños de efecto.
 >
-> **La causa y el peso relativo están sin probar (posición contraria de esta base).** Según un resumen para profesionales del metaanálisis, la mayoría de los estudios son transversales y no permiten concluir causas, y casi no se investigó si tiene desventajas. Casi toda la evidencia es de encuesta, con los mismos miembros contestando sobre la seguridad y sobre el desempeño. La revisión de 2023 la escriben quienes crearon el concepto. No se encontró un experimento aleatorizado ni una réplica preregistrada.
+> **La causa y el peso relativo están sin probar (posición contraria de esta base).** Según un resumen para profesionales del metaanálisis, la mayoría de los estudios son transversales y no permiten concluir causas, y casi no se investigó si tiene desventajas. Casi toda la evidencia que encontró esta base es correlacional y de encuesta, y no se revisó qué proporción es experimental. La revisión de 2023 la escriben quienes crearon el concepto. No se encontró un experimento aleatorizado ni una réplica preregistrada.
 
 Dos preguntas siguen abiertas además de la causa. Una es el nivel: si es un rasgo del equipo o una percepción de cada persona, que Frazier pone a prueba con un resultado que esta base no leyó. La otra es el solapamiento con la confianza: Edmondson sostiene que no son intercambiables y que la seguridad se vive a nivel grupo, y otras revisiones usan los dos conceptos casi como equivalentes.
 

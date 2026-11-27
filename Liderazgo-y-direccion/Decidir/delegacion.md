@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Delegar es pasarle a otra persona la autoridad para decidir sobre un área, y no solo la tarea. La academia lo estudia como liderazgo empoderador: un metaanálisis de 105 muestras lo asocia con más desempeño, conducta cívica y creatividad, pero el efecto varía por cultura y delegar también puede cargar a quien recibe.
+  Delegar es pasarle a otra persona la autoridad para decidir sobre un área, y no solo la tarea. La academia lo estudia como liderazgo empoderador: un metaanálisis de 105 muestras lo asocia con más desempeño, conducta cívica y creatividad, pero, según un metaanálisis posterior, el efecto varía por cultura, y delegar también puede cargar a quien recibe.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -20,7 +20,7 @@ revisado:
 
 # Delegación
 
-Delegar es pasarle a otra persona la autoridad para decidir sobre un área, y no solo la tarea. La academia lo estudia como liderazgo empoderador: un metaanálisis de 105 muestras lo asocia con más desempeño, conducta cívica y creatividad, pero el efecto varía por cultura y delegar también puede cargar a quien recibe.
+Delegar es pasarle a otra persona la autoridad para decidir sobre un área, y no solo la tarea. La academia lo estudia como liderazgo empoderador: un metaanálisis de 105 muestras lo asocia con más desempeño, conducta cívica y creatividad, pero, según un metaanálisis posterior, el efecto varía por cultura, y delegar también puede cargar a quien recibe.
 
 Los [derechos de decisión](derechos-de-decision.md) dicen a quién le toca cada decisión; delegar es moverla hacia abajo, de quien dirige a alguien de su equipo. Delegar para que la persona aprenda y crezca es una parte de [desarrollo de personas](../Gestion-de-personas/desarrollo-de-personas.md). En equipos de producto, la misma idea aparece como el [equipo empoderado](../../Producto/Organizacion/equipo-empoderado.md) de la escuela de Cagan, que recibe un problema y elige cómo resolverlo.
 
@@ -28,24 +28,24 @@ Los [derechos de decisión](derechos-de-decision.md) dicen a quién le toca cada
 
 El liderazgo empoderador es el conjunto de conductas de un jefe que comparte autoridad y da autonomía a su gente. Lee, Willis y Tian lo metaanalizaron con 105 muestras; el artículo salió en línea en 2017 y en papel en 2018. Según el abstract, hay «evidence for the positive effects of EL on performance, organizational citizenship behavior, and creativity at both the individual and team levels».
 
-El estudio también midió si el liderazgo empoderador agrega algo sobre el [liderazgo transformacional](../Liderar-personas/liderazgo-transformacional.md) y la relación de intercambio entre jefe y empleado (LMX). En cada persona, el efecto pasa por la [confianza en el líder](../Liderar-personas/confianza-en-el-lider.md) y por el empoderamiento psicológico, que es sentir que uno tiene control sobre su trabajo; en el equipo, por el empoderamiento del grupo. Compartir conocimiento no medió el efecto. Por qué la autonomía mueve la motivación lo explica [autodeterminación](../../Psicologia/Motivacion-y-emocion/autodeterminacion.md), en Psicología.
+El estudio también midió si el liderazgo empoderador agrega algo sobre el [liderazgo transformacional](../Liderar-personas/liderazgo-transformacional.md) y la relación de intercambio entre jefe y empleado (LMX). En cada persona, el efecto pasa por la [confianza en el líder](../Liderar-personas/confianza-en-el-lider.md) y por el empoderamiento psicológico; en el equipo, por el empoderamiento del grupo. Compartir conocimiento no medió el efecto. Por qué la autonomía mueve la motivación lo explica [autodeterminación](../../Psicologia/Motivacion-y-emocion/autodeterminacion.md), en Psicología.
 
 > [!NOTE] Sin fuente todavía: los tamaños de efecto (r) del metaanálisis de Lee, Willis y Tian; el informe solo leyó el abstract.
 
-Son correlaciones, casi siempre de encuestas en organizaciones. Según un metaanálisis posterior, el de Lee y colegas se limitó a literatura en inglés anterior a 2016. Ninguna muestra es, que se sepa, de empresas de 2 a 50 personas.
+El informe solo leyó el abstract, que habla de asociación, y no sabe qué diseños tienen los estudios incluidos. Según un metaanálisis posterior, el de Lee y colegas se limitó a literatura en inglés anterior a 2016. El informe no encontró muestras de empresas de 2 a 50 personas.
 
 ## Por qué delegar también puede cargar
 
 La misma conducta del jefe puede ayudar y pesar a la vez. Cheong y colegas (2016), según un resumen del abstract, describen dos caras del liderazgo empoderador: una que habilita, porque sube la autoeficacia y el desempeño, y otra que carga, porque aumenta la tensión en el trabajo. Según ese resumen, los resultados en general apoyan las dos caras.
 
-Cheong y colegas (2019), del mismo grupo, hicieron una revisión narrativa (no un metaanálisis). Según un resumen, encuentran resultados incongruentes y mixtos, y proponen explicaciones: efectos no lineales (delegar ayuda hasta un punto), causalidad inversa (se le delega más a quien ya rinde), mecanismos contradictorios y condiciones de borde.
+Cheong y colegas (2019), del mismo grupo, hicieron una revisión narrativa (no un metaanálisis). Según un resumen, encuentran resultados incongruentes y mixtos, y proponen explicaciones: efectos no lineales, causalidad inversa, mecanismos contradictorios y condiciones de borde.
 
 > [!IMPORTANT]
-> **Delegar mejora el desempeño.** El metaanálisis de Lee, Willis y Tian (105 muestras) encuentra efectos positivos sobre desempeño, conducta cívica y creatividad, en personas y en equipos, mediados por la confianza en el jefe.
+> **Delegar se asocia con mejor desempeño.** El metaanálisis de Lee, Willis y Tian (105 muestras) reporta asociaciones positivas con desempeño, conducta cívica y creatividad, en personas y en equipos, mediados por la confianza en el jefe.
 >
 > **El efecto es mixto y depende del contexto.** Un metaanálisis posterior en chino (Zhang y colegas, 2021), leído de segunda mano, dice que la correlación con el desempeño es más fuerte en muestras de Asia oriental y más débil en las occidentales, y que un sesgo de publicación podría inflar los resultados. Cheong y colegas (2016 y 2019) suman el costo de tensión y los resultados mixtos. La paradoja de las dos caras viene de un solo grupo de autores, sin réplica independiente encontrada.
 
-Lo que queda en pie es una asociación positiva que se achicó al mirarla de cerca. Para quien dirige, la consecuencia práctica es que delegar no se termina al pasar la decisión: la persona que la recibe puede necesitar apoyo para que no se vuelva carga (inferencia de la base sobre Cheong y colegas).
+Queda una asociación positiva que se achicó al mirarla de cerca. Para quien dirige, delegar no se termina al pasar la decisión: la persona que la recibe puede necesitar apoyo para que no se vuelva carga (inferencia de la base sobre Cheong y colegas).
 
 ## Los niveles de delegación son una herramienta de practicantes
 
@@ -71,4 +71,4 @@ No hay evidencia empírica sobre cuándo un jefe debe retomar una decisión dele
 
 > [!NOTE] Sin fuente todavía: estudios sobre cuándo y cómo retomar una decisión delegada sin quitar la autonomía que el metaanálisis asocia con el desempeño.
 
-Un criterio que conecta con otra pieza: una decisión reversible se puede delegar con menos riesgo, porque equivocarse cuesta poco, y Bezos propone que esas decisiones las tomen personas o grupos chicos (lo cuenta [decisiones reversibles](decisiones-reversibles.md)). En plantas textiles de la India, según el abstract de Bloom y colegas (2013), los dueños delegaron más decisiones en los mandos medios cuando mejoró la información que recibían. La lectura de la base es que ver lo que pasa hace más fácil soltar.
+Un criterio que la base conecta con otra pieza, como lectura propia: una decisión reversible se puede delegar con menos riesgo, porque equivocarse cuesta poco, y Bezos propone que esas decisiones las tomen personas o grupos chicos (lo cuenta [decisiones reversibles](decisiones-reversibles.md)). En plantas textiles de la India, según el abstract de Bloom y colegas (2013), los dueños delegaron más decisiones en los mandos medios cuando mejoró la información que recibían. La lectura de la base es que ver lo que pasa hace más fácil soltar.

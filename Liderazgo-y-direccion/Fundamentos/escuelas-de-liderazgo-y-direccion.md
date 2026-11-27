@@ -50,7 +50,7 @@ Hay dos líneas en paralelo. Una piensa cómo organizar el trabajo (la direcció
 
 ## Taylor, Fayol y Weber: organizar el trabajo como un sistema de reglas
 
-Fayol fijó las funciones que todavía ordenan los libros de dirección: «Planning», «Organizing», «Commanding», «Co-ordinating», «Controlling» (en el original, «prévoyance, organisation, commandement, coordination, contrôle»), más catorce principios. Su obra es *Administration industrielle et générale*, que la misma página secundaria fecha en 1916 en el texto y en 1917 en la bibliografía. Es el origen de la definición de dirigir que usa este tema en [Liderazgo y dirección](../liderazgo-y-direccion.md).
+Fayol fijó las funciones que todavía ordenan los libros de dirección: «Planning», «Organizing», «Commanding», «Co-ordinating», «Controlling» (en el original, «prévoyance, organisation, commandement, coordination, contrôle»), más catorce principios. Su obra es *Administration industrielle et générale*, que la misma página secundaria fecha en 1916 en el texto y en 1917 en la bibliografía. Es el origen de la lista «planificar, organizar, dirigir, coordinar, controlar» y de los textos de principios de management.
 
 De Taylor y Weber no se leyó fuente, así que lo que se les atribuye (medir el trabajo y separar quien planifica de quien ejecuta; la autoridad basada en reglas formales) queda sin verificar.
 
@@ -71,7 +71,7 @@ Cómo cambia la estructura al crecer está en [escalar la organización](../Rol-
 
 ## Liderar contra dirigir: una tesis de autores, no un hallazgo
 
-La separación entre las dos palabras la hicieron Zaleznik y Kotter en HBR, y Mintzberg la discute desde la observación de gerentes; la cuenta [Liderazgo y dirección](../liderazgo-y-direccion.md). Zaleznik sostuvo que «Managers and leaders are two very different types of people». El único dato de campo que usa esas etiquetas, Bandiera y colegas (2020), mide el uso del tiempo de los CEOs y no el constructo de Kotter: lo trata [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md).
+La separación entre las dos palabras la hicieron Zaleznik y Kotter en HBR, y Mintzberg la rechaza, según resúmenes de entrevistas; la cuenta [Liderazgo y dirección](../liderazgo-y-direccion.md). Zaleznik sostuvo que «Managers and leaders are two very different types of people». El único dato de campo que usa esas etiquetas, Bandiera y colegas (2020), mide el uso del tiempo de los CEOs y no el constructo de Kotter: lo trata [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md).
 
 ## Practicantes: Drucker, Grove y el problema de mirar solo a los que ganaron
 
@@ -83,9 +83,9 @@ Meindl y colegas (1985) agregan el romance del liderazgo: según un resumen, la 
 
 ## Economía de la gestión: medir prácticas en miles de empresas
 
-La economía de la gestión es la evidencia con datos más amplia del campo. La World Management Survey se presenta como «the first cross-country, cross-industry dataset built to measure the quality of management practices in establishments», con más de 13.000 firmas manufactureras en 40 países. Sus hallazgos no se leyeron acá.
+La economía de la gestión trabaja con datos amplios. La World Management Survey se presenta como «the first cross-country, cross-industry dataset built to measure the quality of management practices in establishments», con más de 13.000 firmas manufactureras en 40 países. Sus hallazgos no se leyeron acá.
 
-El dato causal viene de un experimento. Bloom y colegas (2013) dieron consultoría gratuita a plantas textiles de la India elegidas al azar. Según el abstract publicado en el QJE, la productividad subió en promedio un 11 %; el 17 % en el primer año que también circula sale de una versión de trabajo. Según un resumen, Bloom, Sadun y Van Reenen (2016) atribuyen a la gestión alrededor de 30 % de las diferencias de productividad en 34 países, con un modelo sobre una encuesta correlacional.
+El dato causal viene de un experimento. Bloom y colegas (2013) dieron consultoría gratuita a plantas textiles de la India elegidas al azar. Según el abstract publicado en el QJE, la productividad subió en promedio un 11 %, lo mismo que dice el working paper de 2011. Según un resumen, Bloom, Sadun y Van Reenen (2016) atribuyen a la gestión alrededor de 30 % de las diferencias de productividad en 34 países, con un modelo sobre una encuesta correlacional.
 
 Son prácticas operativas medibles (calidad, inventario, indicadores) en manufactura, no estilo de liderazgo. Cómo se bajan esas prácticas al trabajo semanal está en [de la estrategia al trabajo](../Ejecucion/de-la-estrategia-al-trabajo.md).
 
@@ -94,15 +94,15 @@ Son prácticas operativas medibles (calidad, inventario, indicadores) en manufac
 Rousseau (2006) llamó «research-practice gap» a «the failure of organizations and managers to base practices on best available evidence», y propuso cerrarlo con la medicina basada en evidencia como modelo. Pfeffer y Sutton escribieron el mismo año sobre cómo practicarla. Este tema la sigue.
 
 > [!IMPORTANT]
-> **La dirección puede y debe basarse en la mejor evidencia disponible (Rousseau; Pfeffer y Sutton).** Los gerentes no usan lo que la investigación ya sabe, y la medicina muestra cómo cerrar esa brecha.
+> **La dirección debería basarse en la mejor evidencia disponible (Rousseau).** Según el abstract, las organizaciones y los gerentes no basan sus prácticas en la mejor evidencia disponible, y Rousseau propone cerrar esa brecha con la medicina basada en evidencia como modelo.
 >
 > **El modelo médico no sirve para dirigir (Learmonth y Harding, 2006).** Según un resumen, en management la «evidencia» está muy discutida, y la popularidad del movimiento responde a intereses gerencialistas. Morrell y Learmonth (2015) agregan, según un resumen, que buscar y evaluar toda la evidencia es estrecho y limita la capacidad de atender problemas reales.
 >
-> La crítica es filosófica y política, no empírica. Tampoco hay evidencia de que las organizaciones que adoptan la gestión basada en evidencia rindan mejor.
+> La crítica es filosófica y política, no empírica. Tampoco se encontró evidencia de que las organizaciones que adoptan la gestión basada en evidencia rindan mejor.
 
 ## Organizar con menos jerarquía: autogestión y holacracia
 
-Las escuelas que proponen quitar al jefe tienen poca evidencia sistemática: Lee y Edmondson (2017), según el abstract, ubican la autogestión como agenda de investigación y no como hecho probado. Lo demás son casos. Al pasar a holacracia, 210 de 1.500 empleados de Zappos se fueron tras una oferta de indemnización de tres meses, según la prensa. Qué pierde una empresa de 2 a 50 personas si quita el rol de jefe no está estudiado.
+Las escuelas que proponen quitar al jefe tienen poca evidencia sistemática: la revisión de Lee y Edmondson (2017) ordena lo estudiado y, en lectura de esta base, deja la autogestión como agenda de investigación y no como hecho probado. Lo demás son casos. Al pasar a holacracia, 210 de 1.500 empleados de Zappos se fueron tras una oferta de indemnización de tres meses, según la prensa. Qué pierde una empresa de 2 a 50 personas si quita el rol de jefe no está estudiado.
 
 > [!NOTE]
 > Sin fuente todavía: el coaching ontológico y la «nueva gestión» de habla hispana, y la definición de CEBMa de la gestión basada en evidencia.

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El liderazgo destructivo es la familia de conductas de un jefe que dañan a su gente o a la organización: la supervisión abusiva, el abandono del rol (laissez-faire) y los rasgos oscuros como el narcisismo. Su asociación con peores resultados se sostiene, y no dirigir también daña: en un estudio, más que el maltrato.
+  El liderazgo destructivo es la familia de conductas de un jefe que dañan a su gente o a la organización: la supervisión abusiva, el abandono del rol (laissez-faire) y los rasgos oscuros como el narcisismo. Su asociación con peores resultados se sostiene, y no dirigir también daña: en un estudio, más que el maltrato para la ciudadanía.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -23,13 +23,13 @@ revisado:
 
 # Liderazgo destructivo
 
-El liderazgo destructivo es la familia de conductas de un jefe que dañan a su gente o a la organización: la supervisión abusiva, el abandono del rol (laissez-faire) y los rasgos oscuros como el narcisismo. Su asociación con peores resultados se sostiene, y no dirigir también daña: en un estudio, más que el maltrato.
+El liderazgo destructivo es la familia de conductas de un jefe que dañan a su gente o a la organización: la supervisión abusiva, el abandono del rol (laissez-faire) y los rasgos oscuros como el narcisismo. Su asociación con peores resultados se sostiene, y no dirigir también daña: en un estudio, más que el maltrato para la ciudadanía.
 
 El campo lo trata como una familia: la supervisión abusiva, el liderazgo tiránico, el laissez-faire y la tríada oscura de la personalidad. Es el lado negativo de las [teorías del liderazgo](teorias-del-liderazgo.md), y su efecto más visible es la pérdida de [confianza en el líder](confianza-en-el-lider.md).
 
 ## Supervisión abusiva: lo que se sostiene
 
-La supervisión abusiva es el maltrato de un jefe hacia su gente, y los estudios la miden con lo que reporta quien lo recibe. Tepper (2000) es el artículo fundacional, pero esta base no pudo leer ni su abstract, así que sus hallazgos no se citan.
+La supervisión abusiva es el maltrato de un jefe hacia su gente, y se estudia sobre todo con encuestas, como se ve más abajo. Tepper (2000) es el artículo fundacional, pero esta base no pudo leer ni su abstract, así que sus hallazgos no se citan.
 
 Mackey, Frieder, Brees y Martinko (2017) hicieron el metaanálisis, con correcciones por error de medición, de muestreo y restricción de rango. Según un resumen, la supervisión abusiva se asoció de forma consistente y negativa con los resultados que se estudiaron, con magnitudes que cambian según el diseño. Tepper, Simon y Park (2017) resumen más de quince años de causas y consecuencias; es el mejor mapa para empezar.
 
@@ -38,25 +38,25 @@ Mackey, Frieder, Brees y Martinko (2017) hicieron el metaanálisis, con correcci
 ## Qué mide en realidad «supervisión abusiva»
 
 > [!IMPORTANT]
-> **Es una conducta del jefe con consecuencias documentadas (Tepper; Mackey et al.).** El metaanálisis encuentra asociaciones negativas consistentes con los resultados.
+> **Es una conducta del jefe con consecuencias documentadas (Mackey et al.).** El metaanálisis encuentra asociaciones negativas consistentes con los resultados.
 >
 > **El constructo está mal armado (Fischer, Tian, Lee y Hughes 2021).** Según el abstract, señalan cuatro problemas: la definición mezcla lo que percibe el empleado con lo que el jefe hace; esa mezcla pasa a los cuestionarios; casi todo son encuestas de un solo momento y escenarios inventados; y es un fenómeno de baja frecuencia, que casi no se reporta, así que no se puede afirmar mucho sobre niveles intermedios o altos. Con datos simulados muestran esos límites.
 >
-> La disputa no es si maltratar daña, sino si lo que se mide es la conducta del jefe o la percepción del empleado, y si las asociaciones son causas.
+> Lo que está en disputa es si lo que se mide es la conducta del jefe o la percepción del empleado, y si las asociaciones son causas.
 
 ## No dirigir también daña
 
-El laissez-faire es ocupar el puesto de jefe y no ejercerlo: no decidir, no estar, no intervenir. En el metaanálisis de Judge y Piccolo (2004) se asoció en contra de los resultados (-.37, según el abstract). Tres estudios lo miran de cerca:
+El laissez-faire es no dirigir. El metaanálisis de Judge y Piccolo (2004) lo incluyó entre las dimensiones que comparó con el transformacional, pero el texto que leyó esta base no confirma el signo de su relación con los resultados. Tres estudios lo miran de cerca:
 
-- **Skogstad y colegas (2007)**, con 2.273 empleados noruegos: según el abstract, el laissez-faire se asoció con conflicto y ambigüedad de rol y con conflictos entre compañeros, y esos estresores se ligaron al malestar psicológico, en buena parte por la exposición al acoso.
-- **Buch, Martinsen y Kuvaas (2015)**, con dos muestras de 199 y 197 empleados: el daño en compromiso, esfuerzo y ciudadanía pasó por una relación con el jefe reducida a lo transaccional.
+- **Skogstad y colegas (2007)**, con 2.273 empleados noruegos: según el abstract, el laissez-faire se relacionó positivamente con conflicto y ambigüedad de rol y con conflictos entre compañeros, y esos estresores se ligaron al malestar psicológico, en buena parte por la exposición al acoso.
+- **Buch, Martinsen y Kuvaas (2015)**, con dos muestras de 199 y 197 empleados: el daño en compromiso afectivo, esfuerzo y ciudadanía estuvo mediado por el LMX económico, un vínculo con el jefe de tipo económico.
 - **Klasmeier y colegas (2022)**, con 658 personas de 149 equipos en tres momentos: el laissez-faire dañó la ciudadanía más que la supervisión abusiva, en las personas y en los equipos; la abusiva, en cambio, bajó la confianza del equipo.
 
-Los tres convergen, pero son de Noruega y de Europa, y no hay metaanálisis del laissez-faire en lo que encontró esta base. Para una empresa chica, la lectura de esta base es que el fundador que delega todo y desaparece no es neutral: sin nadie que decida, aparecen el conflicto de rol y los choques entre compañeros. Cuánto delegar sin abandonar está en [delegación](../Decidir/delegacion.md).
+Los tres convergen, pero son de Noruega y de Europa, y no hay metaanálisis del laissez-faire en lo que encontró esta base. Para una empresa chica, la lectura de esta base es que el fundador que delega todo y desaparece no es neutral: sin nadie que decida, podrían aparecer el conflicto de rol y los choques entre compañeros que Skogstad asocia al laissez-faire. Cuánto delegar sin abandonar está en [delegación](../Decidir/delegacion.md).
 
 ## El narcisista emerge, pero no rinde más
 
-Grijalva, Harms, Newman, Gaddis y Fraley (2015) metaanalizaron el narcisismo en líderes. Según el abstract, el narcisismo se asocia con llegar a liderar, pero esa asociación la explica la extraversión. Con la eficacia, la evaluada por otros no se relaciona y la autoevaluada sí: el narcisista se ve mejor de lo que lo ven. La relación es curva, con un nivel intermedio como el mejor.
+Grijalva, Harms, Newman, Gaddis y Fraley (2015) metaanalizaron el narcisismo en líderes. Según el abstract, el narcisismo se asocia con llegar a liderar, pero esa asociación la explica la extraversión. Con la eficacia, la evaluada por otros no se relaciona y la autoevaluada sí: la lectura de esta base es que el narcisista se ve mejor de lo que lo ven. La relación es curva, con un nivel intermedio como el mejor.
 
 Spain, Harms y LeBreton (2014) revisan la historia de los rasgos oscuros y su relación con la personalidad normal, que está en [Personalidad](../../Psicologia/Personalidad/personalidad.md). Lo que se achicó es la idea de que narcisista equivale a mal líder: emerge, pero no mejora la eficacia que ven los demás.
 

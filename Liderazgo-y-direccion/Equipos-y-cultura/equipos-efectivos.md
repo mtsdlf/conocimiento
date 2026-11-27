@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Un equipo efectivo es el que rinde bien en su tarea y deja satisfechos a sus miembros. Lo que mejor lo predice según la evidencia es su diseño (la tarea, quiénes lo forman, la dirección y el contexto) y la calidad de sus procesos de coordinación.
+  Un equipo efectivo es el que rinde bien en su tarea y deja satisfechos a sus miembros. Hackman propone que lo explica su diseño (la tarea, quiénes lo forman, la dirección y el contexto), y los procesos de coordinación se asocian con el desempeño en un metaanálisis.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -25,13 +25,13 @@ revisado:
 
 # Equipos efectivos
 
-Un equipo efectivo es el que rinde bien en su tarea y deja satisfechos a sus miembros. Lo que mejor lo predice según la evidencia es su diseño (la tarea, quiénes lo forman, la dirección y el contexto) y la calidad de sus procesos de coordinación.
+Un equipo efectivo es el que rinde bien en su tarea y deja satisfechos a sus miembros. Hackman propone que lo explica su diseño (la tarea, quiénes lo forman, la dirección y el contexto), y los procesos de coordinación se asocian con el desempeño en un metaanálisis.
 
 Es el marco que contiene a los otros componentes de [Equipos y cultura](equipos-y-cultura.md): el [tamaño y la composición](tamano-y-composicion.md) son insumos del diseño, y la [seguridad psicológica](seguridad-psicologica.md) y el [conflicto](conflicto-en-equipos.md) son estados y procesos que el diseño facilita o traba.
 
 ## Las condiciones de Hackman: seis en 1998, cinco en 2002
 
-Hackman propuso que un equipo rinde cuando se dan ciertas condiciones de diseño, no por un estilo de jefe. En «Why Teams Don't Work» (1998) enumera «six facts» que, si se cumplen, hacen que un equipo «would be likely to perform very well»:
+Hackman propuso que un equipo rinde cuando se dan ciertas condiciones de diseño. En «Why Teams Don't Work» (1998) enumera «six facts» que, si se cumplen, hacen que un equipo «would be likely to perform very well»:
 
 1. La tarea es apropiada para un equipo.
 2. El equipo es intacto y sus miembros se perciben como equipo.
@@ -40,9 +40,9 @@ Hackman propuso que un equipo rinde cuando se dan ciertas condiciones de diseño
 5. El contexto de la organización le da apoyo.
 6. Hay coaching experto disponible «at those times when members most need it and are ready to receive it».
 
-En *Leading Teams* (2002), según un resumen, las condiciones son cinco: equipo real, dirección convincente, estructura habilitante, contexto de apoyo y coaching experto. La diferencia es que en 1998 aparte figura que la tarea sea apropiada para un equipo. El libro no se leyó, así que no se sabe cómo la reagrupa.
+En *Leading Teams* (2002), según un resumen, las condiciones son cinco: equipo real, dirección convincente, estructura habilitante, contexto de apoyo y coaching experto. La diferencia es que en 1998 figura aparte que la tarea sea apropiada para un equipo. El libro no se leyó, así que no se sabe cómo reagrupa las condiciones.
 
-El coaching es la última condición y la que menos rescata. Hackman (1998) dice que es «nearly impossible to coach a team» si la estructura y el contexto están mal. Distingue tres momentos en que un equipo está abierto a la ayuda (el inicio, la mitad y el final de un ciclo de trabajo) y tres funciones (motivar, consultar, enseñar). Hackman y Wageman (2005), según su abstract, formalizan esto en una teoría del coaching de equipos.
+El coaching es la última condición. Hackman (1998) dice que es «nearly impossible to coach a team» si la estructura y el contexto están mal. Distingue tres momentos en que un equipo está abierto a la ayuda (el inicio, la mitad y el final de un ciclo de trabajo) y tres funciones (motivar, consultar, enseñar). Hackman y Wageman (2005), según su abstract, formalizan esto en una teoría del coaching de equipos.
 
 Las condiciones son teoría con investigación de campo del propio autor. No se encontró un metaanálisis que las pruebe como conjunto. Existe una escala para medirlas, el Team Diagnostic Survey (Wageman, Hackman y Lehman 2005).
 
@@ -64,7 +64,7 @@ La guía nombra cinco dinámicas: seguridad psicológica, confiabilidad, estruct
 
 El tamaño de la muestra no está claro. Una lectura de la guía da 180 equipos (115 de ingeniería y 65 de ventas), la prensa repite esa cifra, y otra lectura de la misma página encontró equipos de 3 a 50 personas con mediana de 9 sin poder confirmar los 180. La fuente primaria es una página de la empresa: no hay un artículo con revisión por pares ni tamaños de efecto accesibles. Esta base no encontró tampoco una crítica publicada que lo diga; lo que sí está verificado es que no hay más fuente que la guía.
 
-Aristóteles es una ilustración de una sola empresa, con gente de alta formación de un país rico. Coincide con lo que dice la literatura sobre seguridad psicológica, pero no es evidencia independiente de ella.
+Aristóteles es una ilustración de una sola empresa; una crítica sin autor citado dice que la muestra era de gente educada de un país rico. Coincide con lo que dice la literatura sobre seguridad psicológica, pero no es evidencia independiente de ella.
 
 ## La inteligencia colectiva, en disputa
 
@@ -77,10 +77,10 @@ La inteligencia colectiva (el «factor c») es la idea de que un grupo tiene una
 >
 > **Existe solo en tareas bien estructuradas (Personnel Psychology, 2021).** Un estudio que comparó 21 experimentos encontró inteligencia colectiva en tareas bien estructuradas y no en las mal estructuradas, y propone tratarla como multidimensional. Es lo más cercano a una síntesis.
 
-Toda esta evidencia es de laboratorio, con grupos formados para el estudio.
+Esta base leyó solo los abstracts de estos estudios, sin los coeficientes.
 
 ## Lo que sirve en una empresa chica
 
-Ninguno de estos estudios es de una empresa de 2 a 50 personas. Hackman trabajó con equipos de organizaciones grandes, LePine y Salas reúnen estudios de muchos ámbitos, y Aristóteles es Google. Lo que se puede llevar es el orden de las prioridades: primero ver si la tarea pide un equipo, quiénes lo forman y si tienen una dirección clara, y después el coaching. Que la dirección sea clara conecta con [de la estrategia al trabajo](../Ejecucion/de-la-estrategia-al-trabajo.md), y elegir a los miembros, con [contratar](../Gestion-de-personas/contratar.md).
+Ninguno de estos estudios es de una empresa de 2 a 50 personas: la evidencia viene de empresas medianas o grandes y de equipos formales, y Aristóteles es Google. Una lectura de esta base sobre qué llevar es el orden de las prioridades: primero ver si la tarea pide un equipo, quiénes lo forman y si tienen una dirección clara, y después el coaching. Que la dirección sea clara conecta con [de la estrategia al trabajo](../Ejecucion/de-la-estrategia-al-trabajo.md), y elegir a los miembros, con [contratar](../Gestion-de-personas/contratar.md).
 
-Para leer más, «Why Teams Don't Work» de Hackman (1998) es corto y abierto: las secciones de los errores comunes y de las condiciones, fijándose en que el diseño pesa más que lo que hace el jefe con el equipo ya en marcha.
+Para leer más, «Why Teams Don't Work» de Hackman (1998) es corto y abierto: las secciones de los errores comunes y de las condiciones, fijándose en que, para Hackman, el diseño (estructura y contexto) pesa más que el liderazgo en la marcha.

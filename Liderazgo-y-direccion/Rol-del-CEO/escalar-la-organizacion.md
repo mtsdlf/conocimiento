@@ -29,7 +29,7 @@ Las preguntas prácticas (cuándo sumar el primer mando medio, qué se rompe al 
 
 Greiner (1972) describió el crecimiento como etapas calmas de evolución cortadas por crisis de revolución. Según un resumen, las cinco fases son creatividad, dirección, delegación, coordinación y colaboración. Cada una termina en una crisis: de liderazgo, de autonomía, de control, de burocracia y una quinta que dejó abierta. El ritmo depende del sector: en industrias que crecen rápido las cinco fases llegan antes; en las lentas, solo dos o tres en muchos años. En 1998 agregó una sexta fase, y las fuentes no coinciden en cómo se llama.
 
-Para una empresa chica tocan las dos primeras: la crisis de liderazgo, que cierra la fase de creatividad, y la de autonomía, que cierra la de dirección. Por sus nombres coinciden con la tensión que [founder mode](founder-mode.md) discute desde la práctica (lectura de esta base, sin el artículo abierto).
+Para una empresa chica tocarían las dos primeras (inferencia de esta base): la crisis de liderazgo, que cierra la fase de creatividad, y la de autonomía, que cierra la de dirección. Por sus nombres coinciden con la tensión que [founder mode](founder-mode.md) discute desde la práctica (lectura de esta base, sin el artículo abierto).
 
 El modelo es conceptual y se armó con casos. La investigación no encontró una prueba empírica del modelo ni una crítica empírica que se pudiera leer, así que ni su validez ni su debilidad tienen fuente acá. Sirve como lista de tensiones para reconocer en qué momento está la empresa, no como pronóstico de cuándo llega la siguiente.
 
@@ -73,9 +73,9 @@ La nota [número de Dunbar](../../Platform-Engineering/Organizacion-de-equipos/n
 
 ## No hay una cantidad ideal de personas por jefe
 
-La amplitud de control (span of control) es cuántas personas dependen de un mismo jefe. No existe un número óptimo validado: cualquier cifra que circule es práctica.
+La amplitud de control (span of control) es cuántas personas dependen de un mismo jefe. La investigación no encontró un número óptimo validado: cualquier cifra que circule es práctica.
 
-Lo que sí se estudió es de qué depende la autonomía. Bloom, Garicano, Sadun y Van Reenen (2014) encontraron, según un resumen, que las tecnologías que dan acceso a la información (sistemas de gestión integrados, diseño asistido) se asocian con más autonomía y más personas por jefe. Las tecnologías de comunicación, como las intranets, se asocian con menos autonomía. El mecanismo propuesto: con información barata, cada persona resuelve más problemas sola y necesita menos al jefe. Una revisión de los mismos autores advierte sesgo de selección, muestras chicas y pocos grupos de control creíbles en esta literatura.
+Lo que sí se estudió es de qué depende la autonomía. Bloom, Garicano, Sadun y Van Reenen (2014) encontraron, según un resumen, que las tecnologías que dan acceso a la información (sistemas de gestión integrados, diseño asistido) se asocian con más autonomía y más personas por jefe. Las tecnologías de comunicación, como las intranets, se asocian con menos autonomía. El mecanismo propuesto: con información barata, cada persona resuelve más problemas sola y necesita menos al jefe. Una revisión de Bloom, Sadun y Van Reenen advierte sesgo de selección, muestras chicas y pocos grupos de control creíbles en esta literatura.
 
 Para una empresa que crece, la lectura práctica es que la cantidad de personas por jefe depende de cuánto puede decidir cada una sin preguntar. Eso se trabaja en [derechos de decisión](../Decidir/derechos-de-decision.md) y [delegación](../Decidir/delegacion.md), no con un número fijo (inferencia de esta base).
 

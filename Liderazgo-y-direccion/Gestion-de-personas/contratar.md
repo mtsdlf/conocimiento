@@ -26,7 +26,7 @@ Cuánto predice un método se mide con su validez: la correlación entre lo que 
 
 ## La entrevista estructurada quedó primera
 
-Durante dos décadas la referencia fue Schmidt y Hunter (1998), que resumieron «85 years of research». Según su abstract, las tres combinaciones con más validez eran la capacidad mental general («GMA») con una muestra de trabajo (.63), con un test de integridad (.65) o con una entrevista estructurada (.63).
+La referencia previa era Schmidt y Hunter (1998), que resumieron «85 years of research». Según su abstract, las tres combinaciones con más validez eran la capacidad mental general («GMA») con una muestra de trabajo (.63), con un test de integridad (.65) o con una entrevista estructurada (.63).
 
 Sackett, Zhang, Berry y Lievens (2022) rehicieron las cuentas. Según el abstract, «most of the same selection procedures that ranked high in prior summaries remain high in rank, but with mean validity estimates reduced by .10–.20 points. Structured interviews emerged as the top-ranked selection procedure.» Su tabla 3 da, para los métodos que una empresa chica puede usar, estos valores:
 
@@ -40,18 +40,18 @@ Sackett, Zhang, Berry y Lievens (2022) rehicieron las cuentas. Según el abstrac
 | Entrevista no estructurada | .38 | .19 |
 | Años de experiencia | .18 | .07 |
 
-La tabla completa, con biodata, integridad, centros de evaluación y los métodos que quedaron fuera en 2022 (las referencias daban .26 en 1998), está en [qué predice la selección](../../Presentacion-profesional/Seleccion/que-predice-la-seleccion.md). Los números bajaron porque las correcciones por restricción de rango (solo se mide el desempeño de quienes fueron contratados) inflaban las estimaciones.
+La tabla completa, con biodata, integridad, centros de evaluación y los métodos que quedaron fuera en 2022 (las referencias daban .26 en 1998), está en [qué predice la selección](../../Presentacion-profesional/Seleccion/que-predice-la-seleccion.md). Según el título y el abstract de Sackett y colegas, los números bajaron porque las correcciones por restricción de rango sobrecorregían e inflaban las estimaciones.
 
 ## Una media con mucha dispersión
 
 La validez de .42 es un promedio entre estudios muy distintos. En la misma tabla 3, el extremo inferior del intervalo de credibilidad al 80 % es .18 para la entrevista estructurada (con un desvío de ρ de .19), .13 para la capacidad cognitiva, y para la entrevista no estructurada incluye el cero (−.01). Una entrevista estructurada puede predecir mucho en un contexto y poco en otro, y una empresa chica no tiene cómo saber en qué parte de esa distribución cae.
 
-La tabla también trae las diferencias entre grupos. La diferencia estándar entre postulantes negros y blancos (d) es 0.79 en las pruebas cognitivas, 0.67 en las muestras de trabajo y 0.23 en la entrevista estructurada. Un método con alta diferencia entre grupos deja afuera a más personas de un grupo sin que eso responda al desempeño. Los sesgos ante el CV, medidos con estudios de correspondencia, están en [sesgos en la selección](../../Presentacion-profesional/Seleccion/sesgos-en-la-seleccion.md).
+La tabla también trae las diferencias entre grupos. La diferencia estándar entre postulantes negros y blancos (d) es 0.79 en las pruebas cognitivas, 0.67 en las muestras de trabajo y 0.23 en la entrevista estructurada. Un método con alta diferencia entre grupos deja afuera a más personas de un grupo. Los sesgos ante el CV, medidos con estudios de correspondencia, están en [sesgos en la selección](../../Presentacion-profesional/Seleccion/sesgos-en-la-seleccion.md).
 
 ## La capacidad cognitiva perdió el primer lugar, y se discute
 
 > [!IMPORTANT]
-> **La capacidad cognitiva estaba sobrevalorada (Sackett y colegas, 2022 y 2023).** Corregida la restricción de rango, baja de .51 a .31 y deja de ser «el mejor predictor». Un resumen de la SIOP lo dice así: «structured interviews had the highest mean operational validity» (.42), y la cognitiva, .31. En 2023 Sackett y colegas publicaron una síntesis que propone rediseñar los sistemas de selección a la luz de esas cifras (leída solo por resumen).
+> **La capacidad cognitiva estaba sobrevalorada (Sackett y colegas, 2022 y 2023).** Corregida la restricción de rango, baja de .51 a .31 y deja de ser «el mejor predictor». Un resumen de la SIOP lo dice así: «structured interviews had the highest mean operational validity» (.42), y la cognitiva, .31. En 2023 Sackett y colegas publicaron una síntesis que cuyo título propone rediseñar los sistemas de selección a la luz de nuevos hallazgos sobre la validez (esta base vio solo la ficha).
 >
 > **La corrección es excesiva o prematura (réplicas de 2023).** En el mismo foro, *Industrial and Organizational Psychology*, aparecieron respuestas como «Rumors of general mental ability's demise are the next red herring» e «It takes more than meta-analysis to kill cognitive ability». Esta base solo vio sus títulos.
 >
@@ -67,12 +67,12 @@ Lo que sigue es inferencia de esta base a partir de la tabla, no una recomendaci
 
 Levashina, Hartwell, Morgeson y Campion (2014) son la revisión de cómo se estructura una entrevista. Según el abstract, cubren ocho temas, entre ellos «reducing bias through structure» y «impression management in structured interviews», y concluyen que «much is known about structured interviews, but there are still many unanswered questions».
 
-Del lado de los practicantes, el libro de Horowitz (2014) es la voz más citada sobre contratar en etapas tempranas; esta base no leyó el capítulo y no tiene ninguna cita verificada. Contratar bien es solo la mitad: lo que pasa en los primeros meses está en [incorporación](incorporacion.md).
+Del lado de los practicantes, una referencia habitual es el libro de Horowitz (2014); esta base no leyó el capítulo y no tiene ninguna cita verificada. Contratar bien es solo la mitad: lo que pasa en los primeros meses está en [incorporación](incorporacion.md).
 
-> [!NOTE] Sin fuente todavía: un estudio de campo sobre contratar en empresas de 2 a 50 personas; ningún metaanálisis citado separa por tamaño, y las muestras son grandes y de puestos sobre todo operativos y administrativos. Tampoco hay fuente que cuantifique los sesgos al entrevistar (atractivo, similitud, primera impresión) ni cuánto los reduce la estructura, ni una guía de entrevista estructurada que se haya podido leer.
+> [!NOTE] Sin fuente todavía: un estudio de campo sobre contratar en empresas de 2 a 50 personas; ningún metaanálisis citado separa por tamaño. Tampoco hay fuente que cuantifique los sesgos al entrevistar (atractivo, similitud, primera impresión) ni cuánto los reduce la estructura, ni una guía de entrevista estructurada que se haya podido leer.
 
 ## Lo que se sostuvo y lo que se achicó
 
-Se sostuvo el orden general: los métodos estructurados y basados en el contenido del puesto siguen arriba, y la experiencia y los rasgos de personalidad sueltos siguen abajo. Se achicaron todas las cifras, entre .10 y .20 puntos. Cayeron dos ideas: que la capacidad cognitiva es el mejor predictor y que una entrevista libre vale casi como una estructurada. Sigue en disputa cuánto corregir y qué lugar le queda a la capacidad cognitiva.
+Se sostuvo el orden general: los métodos estructurados y basados en el contenido del puesto siguen arriba, y la experiencia y los rasgos de personalidad sueltos siguen abajo. Según el abstract, la mayoría de las cifras se achicaron entre .10 y .20 puntos; el biodata subió de .35 a .38. Cayeron dos ideas: que la capacidad cognitiva es el mejor predictor y que una entrevista libre vale casi como una estructurada. Sigue en disputa cuánto corregir y qué lugar le queda a la capacidad cognitiva.
 
 Para leer la fuente: la tabla 3 de Sackett y colegas (2022). Conviene fijarse en tres columnas: la validez (ρ), el intervalo de credibilidad, que muestra la dispersión, y la diferencia entre grupos.

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La confianza en el líder es cuánto se fía una persona de su jefe, según cómo juzga su habilidad, su benevolencia y su integridad. Es la vía de mayor efecto entre la relación con el jefe y el desempeño, y el jefe directo es un referente de confianza más importante que la dirección de la empresa.
+  La confianza en el líder es cuánto se fía una persona de su jefe, según cómo juzga su habilidad, su benevolencia y su integridad. En un metaanálisis fue el mecanismo de mayor efecto entre la relación con el jefe y el desempeño, y el jefe directo es un referente de confianza particularmente importante.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -21,7 +21,7 @@ revisado:
 
 # Confianza en el líder
 
-La confianza en el líder es cuánto se fía una persona de su jefe, según cómo juzga su habilidad, su benevolencia y su integridad. Es la vía de mayor efecto entre la relación con el jefe y el desempeño, y el jefe directo es un referente de confianza más importante que la dirección de la empresa.
+La confianza en el líder es cuánto se fía una persona de su jefe, según cómo juzga su habilidad, su benevolencia y su integridad. En un metaanálisis fue el mecanismo de mayor efecto entre la relación con el jefe y el desempeño, y el jefe directo es un referente de confianza particularmente importante.
 
 En la literatura, la confianza no es un estilo de liderazgo: es un mediador, una de las vías por las que un estilo produce resultados. Por eso conviene leerla junto a las [teorías del liderazgo](teorias-del-liderazgo.md), en especial la del vínculo con cada persona (LMX), y a [motivar a un equipo](motivar-a-un-equipo.md), el otro mecanismo. Cuando la confianza es entre los miembros de un equipo y no hacia el jefe, el concepto vecino es la [seguridad psicológica](../Equipos-y-cultura/seguridad-psicologica.md).
 
@@ -55,11 +55,11 @@ Otra forma de perderla es una falta concreta: un error de competencia (algo que 
 
 ## Disculpa o negación: una regla con un solo artículo detrás
 
-Kim, Ferrin, Cooper y Dirks (2004) probaron cómo responder a una acusación. Según el abstract, la confianza se reparó mejor con una disculpa cuando la falta era de competencia y con una negación cuando era de integridad. También pesó la evidencia posterior de culpa o inocencia, y el efecto pasó por lo que la persona creía del acusado.
+Kim, Ferrin, Cooper y Dirks (2004) probaron cómo reparar la confianza después de una falta. Según el abstract, la confianza se reparó mejor con una disculpa cuando la falta era de competencia y con una negación cuando era de integridad. También pesó la evidencia posterior de culpa o inocencia, y el efecto sobre la intención de confiar estuvo mediado por las creencias.
 
 La regla «disculpa para competencia, negación para integridad» sale de ese único artículo, con dos estudios, y la investigación de esta base no encontró réplica ni metaanálisis. Los experimentos posteriores son de laboratorio con estudiantes: en uno, con 221 personas, la disculpa funcionó a través de la confianza percibida; en otro, sumar empatía a una negación subió la integridad percibida. Ninguno es con jefes reales.
 
-Hay un límite que la regla no dice: la negación solo repara si la persona es inocente, porque la evidencia posterior de culpa también pesó en el experimento. Es la lectura de esta base sobre el mismo abstract. Cómo se sostiene esa conversación es del tema Comunicación, todavía sin escribir.
+Hay un límite probable que la regla no dice: como la evidencia posterior de culpa o inocencia también pesó, negar una falta que después se prueba arriesga la reparación. Es una lectura de esta base sobre el abstract, no un resultado del estudio. Cómo se sostiene esa conversación es del tema Comunicación, todavía sin escribir.
 
 > [!NOTE] Sin fuente todavía: una réplica o un metaanálisis de la reparación de confianza, y estudios con jefes y empleados reales.
 

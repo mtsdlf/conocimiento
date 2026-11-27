@@ -34,11 +34,11 @@ Quien dirige responde, explícita o implícitamente, cuatro preguntas cada vez q
 
 Una quinta pregunta llega después: si la decisión fue buena. La [calidad de decisión](calidad-de-decision.md) se juzga por el proceso y no por el resultado, y se aprende de ella con revisiones posteriores.
 
-Las preguntas se encadenan. Una decisión reversible se puede delegar más y decidir más rápido; una irreversible pide más gente opinando y, si se toma en grupo, más cuidado con la información que cada uno trae. En una empresa chica las cuatro las suele contestar la misma persona, el fundador, y casi siempre sin decirlo (inferencia de la base, sin estudio que lo mida).
+Las preguntas se encadenan, en la lectura de la base. Una decisión reversible se puede delegar más y decidir más rápido; una irreversible pide más gente opinando y, si se toma en grupo, más cuidado con la información que cada uno trae. En una empresa chica las cuatro las suele contestar la misma persona, el fundador, y casi siempre sin decirlo (inferencia de la base, sin estudio que lo mida).
 
 ## El campo no estudia «decidir» como una sola cosa
 
-El corte en cinco piezas es de esta base. Según el informe de investigación, el campo reparte el tema en cuatro literaturas separadas: la decisión estratégica en management (Eisenhardt, Lovallo y Sibony), la decisión en grupo en psicología social (Stasser y Titus, Lu y colegas), la claridad de rol en psicología organizacional y el empoderamiento en los estudios de liderazgo. Lo que los practicantes llaman «niveles de delegación» la academia lo estudia como liderazgo empoderador.
+El corte en cinco piezas es de esta base. Según el informe de investigación, el campo reparte el tema en cuatro literaturas separadas: la decisión estratégica en management (Eisenhardt, Lovallo y Sibony), la decisión en grupo en psicología social (Stasser y Titus, Lu y colegas), la claridad de rol en psicología organizacional y el empoderamiento en los estudios de liderazgo. Lo más cercano a los «niveles de delegación» de los practicantes es lo que la academia estudia como liderazgo empoderador (lectura de la base).
 
 La consecuencia es que cada nota mezcla evidencia de calidades distintas, y lo dice:
 
@@ -47,10 +47,10 @@ La consecuencia es que cada nota mezcla evidencia de calidades distintas, y lo d
 | Derechos de decisión | La ambigüedad de rol se asocia con peor desempeño (r = −0,21, metaanálisis) | RACI, RAPID y DACI como marcos | Empleados de empresas grandes; plantas textiles en la India |
 | Delegación | El liderazgo empoderador se asocia con más desempeño (metaanálisis de 105 muestras) | Niveles de delegación; cuándo devolver una decisión | Encuestas en organizaciones, sobre todo en inglés |
 | Decisiones reversibles | Decidir rápido no exige menos información (ocho empresas, Eisenhardt) | Puertas de un sentido, el 70 %, disagree and commit | Cartas de Bezos; empresas de microcomputadoras de los años 80 |
-| Decidir en grupo | Los grupos subutilizan lo que solo sabe uno (metaanálisis de 3.189 grupos) | Premortem, votar antes de hablar | Laboratorio, casi siempre con estudiantes |
+| Decidir en grupo | Los grupos subutilizan lo que solo sabe uno (metaanálisis de 3.189 grupos) | Premortem, votar antes de hablar | Laboratorio, en buena parte con estudiantes |
 | Calidad de decisión | Las revisiones posteriores mejoran el desempeño (dos metaanálisis) | Registros de decisiones, «resulting» | Entrenamiento, simulación y salud; una consultora |
 
-Ningún estudio de la vertical es de empresas de 2 a 50 personas. La única pieza con un experimento de campo es la descentralización: en plantas textiles de la India elegidas al azar para recibir consultoría, según el abstract de Bloom y colegas (2013), las mejores prácticas de gestión llevaron a delegar más decisiones en los mandos medios. El efecto sobre la productividad lo cuenta [de la estrategia al trabajo](../Ejecucion/de-la-estrategia-al-trabajo.md).
+Ningún estudio que relevó el informe es de empresas de 2 a 50 personas. El único experimento de campo es el de Bloom y colegas (2013): en plantas textiles de la India elegidas al azar para recibir consultoría, según su abstract, las prácticas de gestión llevaron a delegar más decisiones en los mandos medios. El efecto sobre la productividad lo cuenta [de la estrategia al trabajo](../Ejecucion/de-la-estrategia-al-trabajo.md).
 
 ## Cómo fallan las decisiones en una organización
 

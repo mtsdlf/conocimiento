@@ -23,33 +23,33 @@ revisado:
 
 Liderar personas es cómo alguien influye en otras para que hagan bien un trabajo compartido: qué conductas de un jefe tienen evidencia, cómo se gana la confianza, cómo se motiva y cómo se daña. Lo que mejor se sostiene es que importa lo que el jefe hace más que cómo es.
 
-Es el nivel más cercano del tema [Liderazgo y dirección](../liderazgo-y-direccion.md): una persona frente a otras. Da la confianza que necesita un grupo para funcionar como equipo, que es asunto de [Equipos y cultura](../Equipos-y-cultura/equipos-y-cultura.md). Las herramientas del ciclo de cada persona (contratar, el uno a uno, evaluar, pagar) están en [Gestión de personas](../Gestion-de-personas/gestion-de-personas.md), y cuánto decide cada uno, en [Decidir](../Decidir/decidir.md).
+Es el nivel más cercano del tema [Liderazgo y dirección](../liderazgo-y-direccion.md): una persona frente a otras. Lo que pasa entre el jefe y cada persona es la base de un grupo que funciona como equipo, que es asunto de [Equipos y cultura](../Equipos-y-cultura/equipos-y-cultura.md). Las herramientas del ciclo de cada persona (contratar, el uno a uno, evaluar, pagar) están en [Gestión de personas](../Gestion-de-personas/gestion-de-personas.md), y cuánto decide cada uno, en [Decidir](../Decidir/decidir.md).
 
 ## Liderar y dirigir en la misma persona
 
-Esta vertical habla sobre todo de liderar, en el sentido de Kotter (1990): marcar una dirección, alinear a la gente y motivarla («Setting a direction», «Aligning people», «Motivating and inspiring»). Dirigir, lo que Kotter llama management, es planificar, organizar y controlar, y vive en [Ejecución](../Ejecucion/ejecucion.md). Mintzberg (1971) no las separa: en su estudio de gerentes, según el abstract, liderar es uno de diez roles del mismo trabajo. En una empresa chica las dos cosas las hace la misma persona, y el salto de hacer el trabajo a hacer ambas es lo que cuenta [pasar a liderar](pasar-a-liderar.md).
+Esta vertical habla sobre todo de liderar, en el sentido de Kotter (1990): marcar una dirección, alinear a la gente y motivarla («Setting a direction», «Aligning people», «Motivating and inspiring»). Dirigir, lo que Kotter llama management, es planificar, organizar y controlar, y vive en [Ejecución](../Ejecucion/ejecucion.md). Mintzberg (1971), en su estudio de gerentes, según el abstract, ubica liderar como uno de diez roles del mismo trabajo. En una empresa chica las dos cosas las hace la misma persona, y el salto de hacer el trabajo a hacer ambas es lo que cuenta [pasar a liderar](pasar-a-liderar.md).
 
 ## Lo que hace un jefe pesa más que cómo es
 
 El campo pasó de buscar rasgos a estudiar conductas, y las conductas ganaron. DeRue y colegas (2011) encontraron, según el abstract, que rasgos y conductas juntos explican al menos el 31 % de la varianza en la eficacia del liderazgo, con las conductas explicando más y los rasgos actuando a través de ellas. Las dos conductas más estudiadas son atender a la persona y organizar la tarea, y las dos tienen relación con los resultados. El recorrido completo, con lo que cayó y lo que está en disputa, está en [teorías del liderazgo](teorias-del-liderazgo.md).
 
-El estilo más estudiado, el [liderazgo transformacional](liderazgo-transformacional.md), predice resultados, pero se discute qué mide. Los estilos morales (auténtico, ético, de servicio) se superponen tanto con él que miden casi lo mismo.
+El estilo más estudiado, el [liderazgo transformacional](liderazgo-transformacional.md), predice resultados, pero se discute qué mide. Los estilos morales (auténtico, ético, de servicio) se superponen mucho con él: correlacionan alto y agregan poca varianza.
 
 ## La confianza y la motivación son el camino
 
-Un estilo llega a los resultados a través de lo que produce en la gente. Martin y colegas (2016), según el abstract, encontraron que la calidad del vínculo con el jefe conduce al desempeño y que la confianza es el mediador de mayor efecto. Por eso [confianza en el líder](confianza-en-el-lider.md) y [motivar a un equipo](motivar-a-un-equipo.md) son componentes de esta vertical aunque la literatura los trate como mecanismos y no como estilos. El mecanismo psicológico de la motivación está en [Psicología](../../Psicologia/Motivacion-y-emocion/motivacion-y-emocion.md).
+Un estilo llega a los resultados a través de lo que produce en la gente. Martin y colegas (2016), según el abstract, encontraron que la evidencia apoya que la calidad del vínculo con el jefe conduce al desempeño y que la confianza es el mediador de mayor efecto. Por eso [confianza en el líder](confianza-en-el-lider.md) y [motivar a un equipo](motivar-a-un-equipo.md) son componentes de esta vertical aunque la literatura los trate como mecanismos y no como estilos. El mecanismo psicológico de la motivación está en [Psicología](../../Psicologia/Motivacion-y-emocion/motivacion-y-emocion.md).
 
 El lado opuesto es el [liderazgo destructivo](liderazgo-destructivo.md): el maltrato daña, y el jefe que no ejerce el rol también.
 
-## El jefe importa, menos de lo que se le atribuye
+## El jefe importa, y hay que cuidarse de atribuirle todo
 
 Un buen jefe cambia lo que rinde un equipo. Con datos de una empresa de servicios técnicos, Lazear y colegas (2015) encontraron que pasar de un jefe del 10 % peor a uno del 10 % mejor sube la producción del equipo más que sumar una persona a un equipo de nueve, y que la gente con mejores jefes se va menos.
 
-A la vez, se le atribuye al líder más de lo que hace. Meindl, Ehrlich y Dukerich (1985), según un resumen, mostraron que la gente explica los resultados por el líder, y más cuanto más extremos son, buenos o malos. Es un caso de la [atribución](../../Psicologia/Cognicion-social/atribucion.md) que estudia Psicología. Esto no dice que el efecto del líder sea cero, sino que los relatos de éxito no sirven como prueba; el debate sobre cuánto pesa un CEO está en [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md).
+A la vez, la gente tiende a atribuirle al líder los resultados. Meindl, Ehrlich y Dukerich (1985), según un resumen, plantearon que esa tendencia crece con la magnitud del resultado, bueno o malo. Es un caso de la [atribución](../../Psicologia/Cognicion-social/atribucion.md) que estudia Psicología. Eso no dice que el efecto del líder sea cero; sugiere que los relatos de éxito sirven poco como prueba; el debate sobre cuánto pesa un CEO está en [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md).
 
 ## Qué tan firme es la evidencia de esta parte
 
-Casi toda la evidencia de esta vertical sale de cuestionarios en que los empleados califican a su jefe. Antonakis y colegas (2010), según un resumen, revisaron 110 artículos y entre el 66 % y el 90 % no atendía las condiciones para afirmar una causa. Los metaanálisis son de organizaciones grandes y de laboratorio; ninguno de los que leyó esta base es de empresas de 2 a 50 personas. Lo de pasar a liderar es todavía más fino: un estudio cualitativo, datos de vendedores y la práctica de Google.
+Buena parte de la evidencia sobre estilos sale de cuestionarios. Antonakis y colegas (2010), según un resumen, revisaron 110 artículos de liderazgo y encontraron que los investigadores no atendían entre el 66 % y el 90 % de las condiciones de diseño que permiten afirmar una causa. Los estudios que leyó esta base son de organizaciones grandes o de laboratorio; ninguno es de empresas de 2 a 50 personas. Lo de pasar a liderar es todavía más fino: un estudio cualitativo, datos de vendedores y la práctica de Google.
 
 Lo que dicen los practicantes (Grove, Horowitz, Fournier, Scott) sobre liderar personas no se consultó en esta vertical. Los mitos que circulan, como el líder nato, están en [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md).
 

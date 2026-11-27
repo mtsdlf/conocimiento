@@ -27,15 +27,15 @@ Es la primera de las preguntas de [Decidir](decidir.md). Repartir quién decide 
 
 ## Lo que cuesta no saber quién decide
 
-La única evidencia directa es indirecta: la psicología organizacional no estudia los derechos de decisión, sino la ambigüedad de rol, que es no tener claro qué se espera de uno. Tubre y Collins (2000) reanalizaron con metaanálisis el trabajo de Jackson y Schuler (1985), que había quedado limitado por muestras chicas. Según su abstract: «Results revealed a negative relationship (r = –.21) between role ambiguity and job performance with moderating influences due to job type and rating source. A negligible relationship (r = –.07) was observed for role conflict and job performance».
+No hay evidencia directa sobre derechos de decisión. La psicología organizacional estudia otra cosa cercana, la ambigüedad de rol, que es no tener claro qué se espera de uno. Tubre y Collins (2000) reanalizaron con metaanálisis el trabajo de Jackson y Schuler (1985), que había quedado limitado por muestras chicas. Según su abstract: «Results revealed a negative relationship (r = –.21) between role ambiguity and job performance with moderating influences due to job type and rating source. A negligible relationship (r = –.07) was observed for role conflict and job performance».
 
-Los autores concluyen que «role ambiguity ought not to be dismissed as an unimportant variable in the job performance domain». La correlación es modesta y no muestra causa: puede que la ambigüedad baje el desempeño, o que quien rinde menos perciba más ambigüedad. Tampoco prueba que escribir quién decide mejore algo. Las muestras son de empleados en organizaciones, no de empresas chicas.
+Los autores concluyen que «role ambiguity ought not to be dismissed as an unimportant variable in the job performance domain». La correlación es modesta y no muestra causa. Podría ser al revés, que quien rinde menos perciba más ambigüedad (hipótesis de la base; el abstract no la trata). Tampoco prueba que escribir quién decide mejore algo. Las muestras son de empleados en organizaciones, no de empresas chicas.
 
 ## RAPID y las otras siglas
 
 Las consultoras venden marcos que asignan un rol a cada persona en cada decisión. RAPID, de Rogers y Blenko (2006) en la Harvard Business Review, es de Bain. Según la página de Bain, leída por resumen, tiene cinco roles: Recommend, Agree, Perform, Input y Decide. Quien decide es «the single point of accountability who commits the organization to action», y quien tiene veto «must offer an alternative or escalate».
 
-Bain ubica las trabas en cuatro fronteras: «global versus local, center versus business unit, function versus function or inside versus outside partners». Son fronteras de una empresa grande con unidades y casa matriz. La misma página cita una encuesta propia a «more than 350 global organizations» según la cual «only about 15% of companies practice effective decision making»; es un dato de la firma que vende el método, sin metodología publicada, y no sirve como evidencia.
+Bain ubica las trabas en cuatro fronteras: «global versus local, center versus business unit, function versus function or inside versus outside partners». Son fronteras de una empresa grande, con unidades y casa matriz (lectura de la base). La misma página cita una encuesta propia a «more than 350 global organizations» según la cual «only about 15% of companies practice effective decision making»; es un dato de la firma que vende el método, sin metodología publicada, y no sirve como evidencia.
 
 RACI y DACI son marcos del mismo tipo. El informe de investigación no encontró ningún estudio que compare empresas que usan alguno de estos marcos con empresas que no. Su estado es **sin evidencia comparativa**, que no es lo mismo que refutados: nadie los puso a prueba.
 
@@ -50,7 +50,7 @@ La economía estudia los derechos de decisión como descentralización: cuánta 
 - **La información.** En el experimento de Bloom y colegas (2013), plantas textiles grandes de la India recibieron al azar consultoría gratuita en prácticas de gestión. Según el abstract, eso «increased decentralization of decision making, as better information flow enabled owners to delegate more decisions to middle managers». Fue un resultado secundario del estudio; el efecto sobre la productividad está en [de la estrategia al trabajo](../Ejecucion/de-la-estrategia-al-trabajo.md).
 - **La confianza.** Bloom, Sadun y Van Reenen (2012), según un resumen, encontraron que las empresas con sede en regiones de alta confianza «are significantly more likely to decentralize», y que en las multinacionales la confianza entre el país de la casa matriz y el de la filial también la aumenta.
 
-Leído junto, el dueño suelta decisiones cuando ve lo que pasa (mejor información) y cuando confía en quien las toma. En una empresa chica las dos cosas dependen de pocas personas, así que el reparto cambia con cada contratación (inferencia de la base). La confianza en quien dirige, en el otro sentido, la trata [confianza en el líder](../Liderar-personas/confianza-en-el-lider.md).
+Leído junto, la lectura de la base es que el dueño suelta decisiones cuando ve lo que pasa (mejor información) y cuando confía en quien las toma. En una empresa chica las dos cosas dependen de pocas personas, así que el reparto cambia con cada contratación (inferencia de la base). La confianza en quien dirige, en el otro sentido, la trata [confianza en el líder](../Liderar-personas/confianza-en-el-lider.md).
 
 ## El extremo: organizaciones sin jefes
 
