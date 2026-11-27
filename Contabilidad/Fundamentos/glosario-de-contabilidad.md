@@ -40,6 +40,8 @@ Las cifras, los ejemplos con asientos y las discrepancias entre fuentes viven en
 | Devengado | Registrar un hecho en el período en que ocurre, aunque se cobre o se pague en otro; lo opuesto es la base caja. | Accrual basis (cash basis) | [Devengado](../Registro/devengado.md) |
 | Libro auxiliar | El detalle por cliente o por proveedor que suma lo mismo que su cuenta del mayor. | Subsidiary ledger | [Cuentas corrientes](../Registro/cuentas-corrientes.md) |
 | Cuenta de control | La cuenta del mayor cuyo saldo tiene que coincidir con la suma de un auxiliar. | Control account | [Cuentas corrientes](../Registro/cuentas-corrientes.md) |
+| Cuentas a cobrar (deudores por ventas) | Lo que los clientes deben por ventas ya facturadas. | Accounts receivable | [Ingresos y cuentas a cobrar](../Operaciones/ingresos-y-cuentas-a-cobrar.md) |
+| Cuentas a pagar (proveedores) | Lo que la empresa debe a sus proveedores por facturas recibidas. | Accounts payable | [Compras y cuentas a pagar](../Operaciones/compras-y-cuentas-a-pagar.md) |
 
 ## Las operaciones habituales
 

@@ -52,6 +52,7 @@ El límite con cada vecino sigue una regla: cada dominio es dueño de un objeto 
 
 ## Qué leer según lo que estés haciendo
 
+- Si tenés que construir el módulo contable de un sistema de gestión, en este orden: [partida doble](Registro/partida-doble.md), [asiento y libros](Registro/asiento-y-libros.md) y [devengado](Registro/devengado.md); [plan de cuentas](Registro/plan-de-cuentas.md) y [cuentas corrientes](Registro/cuentas-corrientes.md); las notas de [Operaciones](Operaciones/operaciones.md) que te toquen; [separación de funciones](Control-interno/separacion-de-funciones.md), [autorizaciones](Control-interno/autorizaciones.md), [controles sobre los sistemas](Control-interno/controles-sobre-sistemas.md) y [conciliaciones](Control-interno/conciliaciones.md); [ajustes de cierre](Estados-contables/ajustes-de-cierre.md) y [estados contables](Estados-contables/estados-contables.md); [centros de costo](Contabilidad-de-gestion/centros-de-costo.md) para las dimensiones; y lo del país, como [libros contables en Argentina](Registro/libros-contables-en-argentina.md).
 - Si tenés que diseñar cómo un sistema registra ventas y cobros: [partida doble](Registro/partida-doble.md), [devengado](Registro/devengado.md), [ingresos y cuentas a cobrar](Operaciones/ingresos-y-cuentas-a-cobrar.md) y [cuentas corrientes](Registro/cuentas-corrientes.md).
 - Si tenés que armar o revisar un plan de cuentas: [plan de cuentas](Registro/plan-de-cuentas.md) y [centros de costo](Contabilidad-de-gestion/centros-de-costo.md), que dice qué va en dimensiones en lugar de cuentas.
 - Si tenés que modelar compras, facturas de proveedores y pagos: [compras y cuentas a pagar](Operaciones/compras-y-cuentas-a-pagar.md), [separación de funciones](Control-interno/separacion-de-funciones.md) y [autorizaciones](Control-interno/autorizaciones.md).
@@ -71,4 +72,6 @@ El límite con cada vecino sigue una regla: cada dominio es dueño de un objeto 
 
 Para quien no es contador: esta entrada, [partida doble](Registro/partida-doble.md), [asiento y libros](Registro/asiento-y-libros.md) y [devengado](Registro/devengado.md); después [estados contables](Estados-contables/estados-contables.md) para ver a dónde llega todo, y recién ahí la operación que te toque.
 
-- [Fundamentos](Fundamentos/fundamentos-de-contabilidad.md): de dónde viene la partida doble, las posiciones que la discuten, los mitos de quien no es contador, el glosario y qué leer.
+- [Fundamentos](Fundamentos/fundamentos-de-contabilidad.md): de dónde viene la partida doble, las posiciones que la discuten y los mitos de quien no es contador.
+- [Glosario de contabilidad](Fundamentos/glosario-de-contabilidad.md): cada término del tema en una línea, con su nombre en inglés y la nota que lo explica.
+- [Fuentes de contabilidad](Fundamentos/fuentes-de-contabilidad.md): dónde se produce el saber contable y qué leer para cada parte.

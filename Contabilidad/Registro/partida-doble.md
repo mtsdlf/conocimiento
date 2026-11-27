@@ -59,9 +59,9 @@ OpenStax sigue a una imprenta ficticia, Printing Plus, durante enero de 2019. Pr
 | Fecha | Hecho | Activo | Pasivo | Patrimonio neto |
 |---|---|---|---|---|
 | 3 de enero | Emite acciones por efectivo | Caja +20.000 | | Capital +20.000 |
-| 5 de enero | Compra un equipo a crédito | Equipos +3.500 | Proveedores +3.500 | |
+| 5 de enero | Compra un equipo a crédito | Equipos +3.500 | Cuentas a pagar +3.500 | |
 | 9 de enero | Cobra un trabajo por adelantado | Caja +4.000 | Ingresos cobrados por adelantado +4.000 | |
-| 10 de enero | Presta servicios y los factura | Deudores por ventas +5.500 | | Ingresos +5.500 |
+| 10 de enero | Presta servicios y los factura | Cuentas a cobrar +5.500 | | Ingresos +5.500 |
 | 12 de enero | Paga la luz | Caja −300 | | Gastos −300 |
 | 14 de enero | Distribuye dividendos | Caja −100 | | Dividendos −100 |
 
@@ -74,10 +74,10 @@ Los mismos hechos como asientos:
 | 3 de enero | Caja | 20.000 | |
 | | Capital | | 20.000 |
 | 5 de enero | Equipos | 3.500 | |
-| | Proveedores | | 3.500 |
+| | Cuentas a pagar | | 3.500 |
 | 9 de enero | Caja | 4.000 | |
 | | Ingresos cobrados por adelantado | | 4.000 |
-| 10 de enero | Deudores por ventas | 5.500 | |
+| 10 de enero | Cuentas a cobrar | 5.500 | |
 | | Ingresos por servicios | | 5.500 |
 | 12 de enero | Gasto de luz | 300 | |
 | | Caja | | 300 |

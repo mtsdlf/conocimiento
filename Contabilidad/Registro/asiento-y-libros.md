@@ -44,10 +44,10 @@ El de Printing Plus al 31 de enero de 2019, con las cuentas traducidas (cifras e
 | Cuenta | Debe | Haber |
 |---|---|---|
 | Caja | 24.800 | |
-| Deudores por ventas | 1.200 | |
+| Cuentas a cobrar | 1.200 | |
 | Materiales | 500 | |
 | Equipos | 3.500 | |
-| Proveedores | | 500 |
+| Cuentas a pagar | | 500 |
 | Ingresos cobrados por adelantado | | 4.000 |
 | Capital | | 20.000 |
 | Dividendos | 100 | |
@@ -72,12 +72,12 @@ Un asiento registrado no se borra ni se edita. Si estaba mal, se registra otro q
 > [!NOTE]
 > Sin fuente todavía: un pasaje de libro de texto o de norma internacional que formule la regla general de corregir con un asiento nuevo. OpenStax distingue el asiento de corrección del de ajuste, según el buscador, pero no se encontró cómo trata la corrección; la regla se sostiene acá en la práctica y en la ley de algunos países.
 
-Un ejemplo armado sobre las cifras de Printing Plus (no está en la fuente): un cobro de 5.500 de un cliente se registra con crédito a Ingresos por servicios en lugar de a Deudores por ventas. El balance cuadra, pero el ingreso quedó duplicado y el cliente sigue debiendo. La corrección, fechada el día que se advierte:
+Un ejemplo armado sobre las cifras de Printing Plus (no está en la fuente): un cobro de 5.500 de un cliente se registra con crédito a Ingresos por servicios en lugar de a Cuentas a cobrar. El balance cuadra, pero el ingreso quedó duplicado y el cliente sigue debiendo. La corrección, fechada el día que se advierte:
 
 | Cuenta | Debe | Haber |
 |---|---|---|
 | Ingresos por servicios | 5.500 | |
-| Deudores por ventas | | 5.500 |
+| Cuentas a cobrar | | 5.500 |
 
 Para quien construye un sistema, la regla se traduce en tres cosas: un asiento confirmado no admite edición ni borrado, la corrección es un asiento nuevo que puede referir al original, y el período cerrado no admite asientos con fecha anterior al cierre (inferencia de la base; los permisos sobre esas acciones están en [controles sobre los sistemas](../Control-interno/controles-sobre-sistemas.md)).
 

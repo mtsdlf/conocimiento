@@ -45,7 +45,7 @@ Los asientos de enero de Printing Plus, el ejemplo de OpenStax, muestran las dos
 |---|---|---|---|
 | 9 de enero | Caja | 4.000 | |
 | | Ingresos cobrados por adelantado | | 4.000 |
-| 10 de enero | Deudores por ventas | 5.500 | |
+| 10 de enero | Cuentas a cobrar | 5.500 | |
 | | Ingresos por servicios | | 5.500 |
 
 El 9 de enero entra plata y no hay ingreso: el cliente pagó un trabajo que todavía no se hizo, y la empresa le debe ese trabajo (un pasivo). El 10 de enero hay un ingreso de 5.500 y la caja no se mueve: el servicio se prestó y se facturó, y la plata llega con el cobro posterior. En base caja, el 9 habría un ingreso de 4.000 y el 10 nada.

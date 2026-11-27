@@ -34,7 +34,7 @@ OpenStax presenta el plan como un sistema de numeración de cuentas en el que el
 
 Según el mismo libro, una empresa grande de comercio o de industria puede sumar cuentas que empiezan con 6. Pasar de tres a cuatro dígitos deja espacio entre cuenta y cuenta para agregar las que hagan falta sin renumerar (lectura de la base; el libro solo da la tabla).
 
-En el ejemplo de Printing Plus, los códigos son Caja 101, Deudores por ventas 111, Proveedores 201 y Capital 301 (cuentas traducidas). Entre 101 y 111 quedan nueve números sin usar en el ejemplo.
+En el ejemplo de Printing Plus, los códigos son Caja 101, Cuentas a cobrar 111, Cuentas a pagar 201 y Capital 301 (cuentas traducidas). Entre 101 y 111 quedan nueve números sin usar en el ejemplo.
 
 ## Niveles: rubros que agrupan y cuentas que se imputan
 
@@ -50,10 +50,10 @@ Los saldos de Printing Plus al 31 de enero de 2019 muestran un plan chico funcio
 | Código | Cuenta | Saldo deudor | Saldo acreedor |
 |---|---|---|---|
 | 101 | Caja | 24.800 | |
-| 111 | Deudores por ventas | 1.200 | |
+| 111 | Cuentas a cobrar | 1.200 | |
 | | Materiales | 500 | |
 | | Equipos | 3.500 | |
-| 201 | Proveedores | | 500 |
+| 201 | Cuentas a pagar | | 500 |
 | | Ingresos cobrados por adelantado | | 4.000 |
 | 301 | Capital | | 20.000 |
 | | Ingresos por servicios | | 9.500 |
@@ -67,7 +67,7 @@ La fuente da los códigos de cuatro cuentas; las demás quedan sin código en la
 
 El plan dice qué es un importe (una deuda con proveedores, un gasto de luz). Otras preguntas sobre el mismo importe (con qué proveedor, en qué sucursal, para qué proyecto) se contestan fuera del plan. Si se mezclan, el plan crece con cada cliente nuevo y cada área que se abre, y deja de servir para armar los estados.
 
-Los clientes y los proveedores van a auxiliares. OpenStax lleva el detalle por cliente y por proveedor en un libro auxiliar, y el mayor conserva una sola cuenta de control (Deudores por ventas, Proveedores) cuyo saldo tiene que coincidir con la suma del auxiliar. El plan queda con una cuenta y el auxiliar con mil clientes. Está en [cuentas corrientes](cuentas-corrientes.md).
+Los clientes y los proveedores van a auxiliares. OpenStax lleva el detalle por cliente y por proveedor en un libro auxiliar, y el mayor conserva una sola cuenta de control (Cuentas a cobrar, Proveedores) cuyo saldo tiene que coincidir con la suma del auxiliar. El plan queda con una cuenta y el auxiliar con mil clientes. Está en [cuentas corrientes](cuentas-corrientes.md).
 
 Los centros de costo, los proyectos y las sucursales van a dimensiones. La práctica es etiquetar cada línea del asiento con datos analíticos (el centro de costo, el proyecto, la sucursal) en lugar de abrir «Sueldos de ventas», «Sueldos de producción» y «Sueldos de administración» por cada combinación. Así un mismo gasto se puede sumar por cuenta para el balance y por centro para la gestión. Cómo se usan esos centros está en [centros de costo](../Contabilidad-de-gestion/centros-de-costo.md).
 

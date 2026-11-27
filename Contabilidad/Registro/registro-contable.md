@@ -51,9 +51,9 @@ Un hecho del ejemplo de OpenStax recorre los cuatro pasos. El 5 de enero de 2019
 | Cuenta | Debe | Haber |
 |---|---|---|
 | Equipos | 3.500 | |
-| Proveedores | | 3.500 |
+| Cuentas a pagar | | 3.500 |
 
-En el mayor, Equipos suma 3.500 deudor y Proveedores 3.500 acreedor. En el balance de sumas y saldos del 31 de enero, Equipos aparece con 3.500 en la columna del debe y Proveedores con 500 en la del haber (su saldo cambió con otros hechos del mes), y el total de cada columna da 34.000.
+En el mayor, Equipos suma 3.500 deudor y Cuentas a pagar 3.500 acreedor. En el balance de sumas y saldos del 31 de enero, Equipos aparece con 3.500 en la columna del debe y Proveedores con 500 en la del haber (su saldo cambió con otros hechos del mes), y el total de cada columna da 34.000.
 
 ## El ciclo contable completo
 
