@@ -79,6 +79,10 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Storytelling](Storytelling/storytelling.md) — contar una historia para convencer: de qué está hecha, cuánto persuade frente a los datos, las estructuras (arco, viaje del héroe, ABT, pirámide de Minto) y sus usos en la marca, la venta, la presentación de ideas y el cambio, con la evidencia de cada receta.
 - [Planillas de cálculo](Planillas-de-calculo/planillas-de-calculo.md) — Excel y Google Sheets para trabajar en un negocio: fórmulas, datos ordenados, tablas dinámicas, diseño que no se rompe, cuánto fallan las planillas y cuándo pasar a una base.
 
+## Gestión de la empresa
+
+- [Relación con clientes](Relacion-con-clientes/relacion-con-clientes.md) — lo que registra una empresa sobre sus clientes y sus ventas en curso: el cliente y sus condiciones, el interesado, la oportunidad, el presupuesto y el pedido de venta, sin nombrar productos y con lo de Argentina aparte.
+
 ## Personas
 
 - [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
