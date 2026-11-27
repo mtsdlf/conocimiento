@@ -51,7 +51,7 @@ En Argentina conviven los dos. El Consenso del Ministerio de Salud sobre autismo
 > [!WARNING]
 > Ningún criterio de esta vertical se leyó en el texto oficial del DSM-5-TR (es de pago) ni de la CIE-11 (la página de la OMS no se pudo abrir). Lo que las notas dicen de los criterios sale de páginas públicas de la APA y del CDC, del Consenso argentino de autismo o de resúmenes de terceros, y cada nota dice cuál.
 
-Qué tan confiables son estos diagnósticos y las críticas al DSM se discuten en [debates de psicología infantil](../Fundamentos/debates-de-psicologia-infantil.md#que-tan-confiable-es-el-dsm-con-chicos).
+Qué tan confiables son estos diagnósticos y las críticas al DSM se discuten en [debates de psicología infantil](../Fundamentos/debates-de-psicologia-infantil.md#qué-tan-confiable-es-el-dsm-con-chicos).
 
 ## Cuántos chicos tienen un trastorno
 
