@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Canalizar el instinto es darle al teckel que no caza actividades que usan las partes de la conducta de caza que la raza tiene más marcadas, sobre todo la nariz; la búsqueda con el olfato es la que más evidencia tiene a favor del bienestar, y no se sabe si los juegos de presa aumentan o bajan la persecución de gatos y pájaros.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://caninewelfare.centers.purdue.edu/resource/let-me-sniff-nosework-induces-positive-judgment-bias-in-pet-dogs
@@ -18,7 +18,7 @@ fuentes:
   - https://www.akc.org/expert-advice/training/channel-control-dog-prey-drive/
 aliases: [nosework, scent work, barn hunt, enriquecimiento, secuencia predatoria, instinto de presa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Canalizar el instinto

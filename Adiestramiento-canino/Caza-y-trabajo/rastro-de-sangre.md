@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El rastro de sangre es seguir con traílla larga el rastro de un animal herido hasta encontrarlo; se entrena con rastros artificiales de sangre o con zapatos de pezuña que se alargan y se dejan envejecer de a poco, y en las pruebas sin juez al lado el rastro tiene entre 600 y 1.200 metros y al menos 20 horas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://teckelklub.de/wp-content/uploads/2022/06/Pruefungsordnung-2019-Aenderungen-markiert.pdf
@@ -15,7 +15,7 @@ fuentes:
   - https://umwelt.hessen.de/sites/umwelt.hessen.de/files/2021-06/bestimmungen_ueber_das_nachsuchewesen_in_hessen.pdf
 aliases: [Schweißarbeit, blood tracking, rastreo de sangre, Nachsuche, rastreo de animales heridos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rastro de sangre

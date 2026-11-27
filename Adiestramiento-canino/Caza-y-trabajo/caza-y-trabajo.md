@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trabajo de caza del teckel es lo que la raza fue criada para hacer: seguir un rastro con la nariz, trabajar bajo tierra y avisar con la voz; hoy se practica como caza real, como pruebas de clubes y, para el perro de casa, como juegos y deportes que usan el mismo instinto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.fci.be/Nomenclature/Standards/148g04-en.pdf
@@ -11,7 +11,7 @@ fuentes:
   - https://www.akc.org/sports/earthdog/
 aliases: [teckel de caza, teckel de trabajo, Jagdteckel, perro salchicha cazador]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Caza y trabajo del teckel

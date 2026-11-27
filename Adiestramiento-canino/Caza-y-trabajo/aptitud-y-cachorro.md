@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La aptitud para la caza es el instinto que un teckel trae para seguir un olor, entrar a un túnel y ladrar a la presa; se evalúa con pruebas que empiezan a los 5 o 6 meses, y en el cachorro se empieza a ver entre las 7 y las 12 semanas, según practicantes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://teckelklub.de/wp-content/uploads/2022/06/Pruefungsordnung-2019-Aenderungen-markiert.pdf
@@ -14,7 +14,7 @@ fuentes:
   - https://www.csus.edu/indiv/m/merlinos/pdf/2008breeddifferences.pdf
 aliases: [instinto de caza, prueba de aptitud, Anlagenprüfung, test de instinto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aptitud y cachorro

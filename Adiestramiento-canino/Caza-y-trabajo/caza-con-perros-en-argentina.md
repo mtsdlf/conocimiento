@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina la caza la regula cada provincia sobre un piso nacional (la Ley 22.421 y su decreto 666/97), que pide licencia y no habla de perros salvo para prohibir las jaurías que acosan ciervos; algunas provincias regulan la caza con perros y ninguna norma encontrada nombra al teckel, al rastro de sangre ni a la madriguera.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://www.argentina.gob.ar/normativa/nacional/norma-38116/texto
@@ -15,7 +15,7 @@ fuentes:
   - https://www.elonce.com/uid-850492
 aliases: [ley de caza Argentina, caza con perros, Ley 22.421]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Caza con perros en Argentina

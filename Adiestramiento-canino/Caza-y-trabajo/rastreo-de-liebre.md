@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El rastreo de liebre es seguir a campo el rastro de una liebre que el perro no vio, ladrando mientras rastrea (en alemán, Spurlaut); en las pruebas se juzgan sobre todo la nariz y la voz, y es la puerta de entrada a casi todas las demás pruebas del teckel.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.rsce.es/wp-content/uploads/2024/06/Reg_Teckel-Terrier-Razas-Sangre-abril2024.pdf
@@ -12,7 +12,7 @@ fuentes:
   - https://whdackel.blogspot.com/p/blog-page_6.html
 aliases: [Spurlaut, latido de rastro, field trial, Stöbern, búsqueda en el monte]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rastreo de liebre

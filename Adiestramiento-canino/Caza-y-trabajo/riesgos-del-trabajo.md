@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los riesgos del trabajo de caza para un teckel son tres: la columna, por saltos, giros y túneles, sin estudios sobre esos movimientos; las mordidas y los derrumbes en la madriguera, con una sola fuente de practicante; y las enfermedades que se contagian con la fauna, como la leptospirosis y la hidatidosis.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5097381
@@ -18,7 +18,7 @@ fuentes:
   - https://ambiente.rionegro.gov.ar/download/archivos/00015925.pdf
 aliases: [lesiones del perro de caza, zoonosis del perro de caza, enfermedades compartidas con la fauna]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Riesgos del trabajo

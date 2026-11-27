@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trabajo en madriguera es la tarea para la que se crió el teckel: entrar a una cueva, encontrar al zorro, al tejón o al conejo y ladrarle hasta que sale; hoy se entrena y se prueba sobre todo en madrigueras artificiales, con la presa detrás de una reja, y usar zorros vivos para eso se discute.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.rsce.es/wp-content/uploads/2024/06/Reg_Teckel-Terrier-Razas-Sangre-abril2024.pdf
@@ -17,7 +17,7 @@ fuentes:
   - https://www.britannica.com/animal/dachshund
 aliases: [Bauarbeit, earthdog, caza en madriguera, Baujagd, madriguera artificial, Schliefenanlage]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trabajo en madriguera

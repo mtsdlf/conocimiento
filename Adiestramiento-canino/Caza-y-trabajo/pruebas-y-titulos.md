@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las pruebas de trabajo del teckel son evaluaciones con reglas fijas que simulan la caza y dan títulos; hay cuatro sistemas principales (el club alemán, la FCI, España y Estados Unidos), casi todos con una prueba básica que habilita las superiores, y en Argentina no se encontró ninguno en funcionamiento para la raza.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://teckelklub.de/wp-content/uploads/2022/06/Pruefungsordnung-2019-Aenderungen-markiert.pdf
@@ -18,7 +18,7 @@ fuentes:
   - https://teckelclub.es/2026/prueba-de-rastro-de-conejo-y-cobro-en-madriguera-artificial-alicante/
 aliases: [pruebas de trabajo, InterVGP, CACT, earthdog, campeón de trabajo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pruebas y títulos
