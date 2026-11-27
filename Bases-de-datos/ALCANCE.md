@@ -7,7 +7,7 @@ fuera:
   - "El interior del motor (páginas, B-tree, LSM, WAL) y la operación fina (tuning, replicación a mano): queda afuera por pedido"
   - "Modelo relacional en detalle, OLTP y OLAP, almacenes analíticos y SQL para análisis: Datos/Modelado-y-almacenamiento/ y Datos/Analisis/"
   - "Servicios de bases de datos de Azure: Cloud/Datos-operacionales/"
-  - "Multi-tenancy: Arquitectura/multi-tenancy.md"
+  - "Multi-tenancy: Arquitectura/Sistemas-distribuidos/multi-tenancy.md"
 fuentes: []
 preguntas:
   - "¿PostgreSQL, MongoDB o SQLite para un sistema nuevo de un comercio? ¿Con qué criterios elijo?"

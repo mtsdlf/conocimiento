@@ -34,7 +34,7 @@ Cada motor tiene una métrica que lo mueve y una desigualdad que dice si la empr
 | Viral | Que cada usuario traiga a otros al usar el producto | Coeficiente viral | El coeficiente es mayor que 1 |
 | Pagado | Pagar por adquirir clientes | LTV y CAC | El LTV supera al CAC |
 
-**Pegajoso.** Crece cuando entran más clientes de los que se van. Ries lo resumió, en una publicación en X que no se pudo verificar, como «Sticky growth compounds if WoM > churn». Se lee en la [curva de retención](../../Datos/Lectura-de-cohortes/curva-de-retencion.md) y en el [churn](../../Datos/Retencion-y-churn/churn.md), que viven en Datos.
+**Pegajoso.** Crece cuando entran más clientes de los que se van. Ries lo resumió, en una publicación en X que no se pudo verificar, como «Sticky growth compounds if WoM > churn». Se lee en la [curva de retención](../../Datos/Analitica-de-producto/Lectura-de-cohortes/curva-de-retencion.md) y en el [churn](../../Datos/Analitica-de-producto/Retencion-y-churn/churn.md), que viven en Datos.
 
 **Viral.** Los resúmenes lo distinguen del boca a boca simple. Según una cita atribuida a Ries en un resumen, la transmisión de persona a persona ocurre «as a necessary consequence of normal product use». Con un coeficiente viral mayor que 1, cada usuario trae a más de un cliente nuevo. El ejemplo de los resúmenes es el pie que Hotmail agregaba a cada mail enviado.
 

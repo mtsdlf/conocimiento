@@ -36,7 +36,7 @@ su base. Cómo está hecho el motor por dentro (páginas, árboles B, registro d
 operación fina quedan afuera. El análisis de datos, los almacenes analíticos y SQL para análisis
 están en [Datos](../Datos/datos.md); los servicios de bases de Azure, en
 [Almacenamiento y bases de datos en Azure](../Cloud/Datos-operacionales/almacenamiento-y-bases-de-datos-en-azure.md);
-cómo varios clientes comparten una base, en [Multi-tenancy](../Arquitectura/multi-tenancy.md).
+cómo varios clientes comparten una base, en [Multi-tenancy](../Arquitectura/Sistemas-distribuidos/multi-tenancy.md).
 
 ## De qué está hecho trabajar con una base
 

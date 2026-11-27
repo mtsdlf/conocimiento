@@ -24,7 +24,7 @@ revisado: 2026-11-24
 
 El marketing de relaciones es cuidar a los clientes que ya se tienen para que sigan y compren más, y la lealtad es que efectivamente sigan. La evidencia dice que la relación rinde más en servicios y entre empresas, pero que la antigüedad de un cliente se asocia poco con su ganancia, y que la cifra más citada a favor no se sostiene como se cita.
 
-Es el final de [Servicio y relación](servicio-y-relacion.md): la calidad percibida y una buena recuperación son lo que la sostiene. Cómo se mide si los clientes siguen está en [retención y churn](../../Datos/Retencion-y-churn/retencion-y-churn.md); esta nota trata si conviene invertir en que sigan y qué se sabe de eso.
+Es el final de [Servicio y relación](servicio-y-relacion.md): la calidad percibida y una buena recuperación son lo que la sostiene. Cómo se mide si los clientes siguen está en [retención y churn](../../Datos/Analitica-de-producto/Retencion-y-churn/retencion-y-churn.md); esta nota trata si conviene invertir en que sigan y qué se sabe de eso.
 
 ## De dónde viene la idea
 

@@ -59,7 +59,7 @@ Los informes del tema marcan cuánto se leyó de cada fuente; las notas lo dicen
 | Headless | headless commerce | La vitrina se separa del motor de comercio y se comunica con él por API | [Tipos de plataforma](../Plataforma-de-tiendas/tipos-de-plataforma.md) |
 | Composable | composable commerce | La tienda se arma con servicios independientes elegidos uno por uno | [Tipos de plataforma](../Plataforma-de-tiendas/tipos-de-plataforma.md) |
 | MACH | microservices, API-first, cloud-native, headless | Principios de arquitectura que promueve la MACH Alliance, formada por proveedores de esos componentes | [Tipos de plataforma](../Plataforma-de-tiendas/tipos-de-plataforma.md) |
-| Multi-tenant | multi-tenancy | Una instalación sirve a muchas tiendas con los datos aislados; el concepto general está en [Multi-tenancy](../../Arquitectura/multi-tenancy.md) | [Arquitectura de plataforma](../Plataforma-de-tiendas/arquitectura-de-plataforma.md) |
+| Multi-tenant | multi-tenancy | Una instalación sirve a muchas tiendas con los datos aislados; el concepto general está en [Multi-tenancy](../../Arquitectura/Sistemas-distribuidos/multi-tenancy.md) | [Arquitectura de plataforma](../Plataforma-de-tiendas/arquitectura-de-plataforma.md) |
 | Tema | theme | Diseño intercambiable de la vitrina | [Arquitectura de plataforma](../Plataforma-de-tiendas/arquitectura-de-plataforma.md) |
 | API y webhook | API, webhook | Interfaz para que otros sistemas lean y escriban datos; aviso automático que un sistema manda a otro ante un evento | [Arquitectura de plataforma](../Plataforma-de-tiendas/arquitectura-de-plataforma.md) |
 | Tienda de apps | app store | Catálogo de extensiones de terceros dentro de la plataforma | [Apps para comerciantes](../Plataforma-de-tiendas/apps-para-comerciantes.md); cómo se instalan, en [Arquitectura de plataforma](../Plataforma-de-tiendas/arquitectura-de-plataforma.md) |
@@ -67,7 +67,7 @@ Los informes del tema marcan cuánto se leyó de cada fuente; las notas lo dicen
 | Take rate | take rate | Parte del GMV que se queda la plataforma; Shopify no la publica con ese nombre y se calcula dividiendo ingresos por GMV | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
 | MRR | monthly recurring revenue | Ingreso mensual recurrente. Shopify: "the aggregate value of all subscription plans, excluding variable platform fees" | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
 | Penetración de pagos | payments penetration rate | Parte del GMV que pasa por la pasarela propia de la plataforma; es proporción del GMV, no de comerciantes | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
-| Churn | churn | Parte de los comerciantes que se da de baja en un período; el concepto general está en [Churn](../../Datos/Retencion-y-churn/churn.md) | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
+| Churn | churn | Parte de los comerciantes que se da de baja en un período; el concepto general está en [Churn](../../Datos/Analitica-de-producto/Retencion-y-churn/churn.md) | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
 | Segmento de comerciantes | merchant segment (SMB, mid-market, enterprise) | Emprendedor, pyme, mediana o grande; las plataformas no publican la clasificación, se deduce de sus planes | [Segmentos de comerciantes](../Plataforma-de-tiendas/segmentos-de-comerciantes.md) |
 
 ## Pagos

@@ -35,7 +35,7 @@ Cada pregunta tiene su herramienta. Las tres primeras viven en esta vertical; la
 | ¿El producto entrega valor, en conjunto? | Una métrica que lo resume y las métricas de entrada que el equipo mueve | [North Star](north-star.md) |
 | ¿Los usuarios nuevos llegan al valor? | La acción o el umbral que marca la llegada | [Activación](activacion.md) |
 | ¿Este cambio causó la diferencia? | Una prueba controlada con variantes al azar | [Experimento A/B](experimento-ab.md) |
-| ¿Los usuarios siguen volviendo? | La retención por cohorte | [Retención](../../Datos/Retencion-y-churn/retencion.md), en Datos |
+| ¿Los usuarios siguen volviendo? | La retención por cohorte | [Retención](../../Datos/Analitica-de-producto/Retencion-y-churn/retencion.md), en Datos |
 
 La North Star y la activación se miran juntas: la primera dice si el producto entrega valor y la segunda si los nuevos llegan a él. El experimento es la forma de saber si un cambio en cualquiera de las dos lo causó el equipo.
 
@@ -56,7 +56,7 @@ Cuatro vecinos miden cosas parecidas con otra pregunta. La medición de producto
 
 - La experiencia de uso, con test de usabilidad, SUS y NPS, la mide [UX](../../UX/Evaluacion/metricas-de-ux.md).
 - Si un canal causa las ventas, si cada venta deja plata y qué métrica seguir según la etapa del negocio son de la [medición de Marketing](../../Marketing/Medicion/medicion.md): [incrementalidad](../../Marketing/Medicion/incrementalidad.md), [economía unitaria](../../Marketing/Medicion/economia-unitaria.md) y [una métrica que importa](../../Marketing/Medicion/metrica-que-importa.md).
-- Cómo se arma una cohorte y cómo se calculan la retención y el churn es de [Datos](../../Datos/Retencion-y-churn/retencion-y-churn.md). Esta vertical usa esos números; no repite la técnica.
+- Cómo se arma una cohorte y cómo se calculan la retención y el churn es de [Datos](../../Datos/Analitica-de-producto/Retencion-y-churn/retencion-y-churn.md). Esta vertical usa esos números; no repite la técnica.
 - Medir el avance de una empresa nueva, con métricas accionables y de vanidad, es la [contabilidad de la innovación](../../Emprender/Validacion/contabilidad-de-la-innovacion.md) de Emprender.
 
 ## Cómo falla una métrica de producto

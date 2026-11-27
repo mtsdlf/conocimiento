@@ -170,7 +170,7 @@ have serialization conflicts". Los pasos:
    dejar efectos.
 
 Reintentar la transacción en la base es distinto de que el cliente reintente el pedido entero
-contra el servidor; para eso existe la [clave de idempotencia](../../Arquitectura/clave-de-idempotencia.md).
+contra el servidor; para eso existe la [clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md).
 
 ## Deadlocks y el orden de los bloqueos
 

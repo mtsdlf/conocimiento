@@ -106,7 +106,7 @@ Muchos sistemas no borran clientes ni pedidos: los marcan con una columna (`esta
 El upsert resuelve "si la fila ya existe, actualizala; si no, creala" en una sola sentencia
 atómica. El caso típico es importar una lista de clientes donde algunos ya están cargados, o
 procesar dos veces el mismo mensaje sin duplicar (la idea de la
-[clave de idempotencia](../../Arquitectura/clave-de-idempotencia.md)). El patrón tiene tres partes:
+[clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md)). El patrón tiene tres partes:
 
 1. **Una columna única que decide si la fila existe.** Para los clientes, el `email`. Sin un índice
    único sobre esa columna el upsert no funciona: PostgreSQL responde "there is no unique or

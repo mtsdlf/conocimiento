@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout), abrí la entrada del tema: Marketing, Producto, Emprender, UX, Estrategia competitiva, Ventas y Comercio electrónico tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout), abrí la entrada del tema: Marketing, Producto, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico y Arquitectura tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -34,8 +34,9 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 - [Desarrollo](Desarrollo/desarrollo.md) — herramientas de quien escribe software: [Git](Desarrollo/Git/git.md), YAML, configuración,
   arquetipos e historias y casos de prueba.
-- [Arquitectura](Arquitectura/arquitectura.md) — patrones para sistemas distribuidos: APIs entre servicios, circuit breaker,
-  sagas, idempotencia y multi-tenancy.
+- [Arquitectura](Arquitectura/arquitectura.md) — arquitectura de software hoy, desde *AI Engineering* (Huyen) sobre el canon de
+  Richards y Ford: características, modularidad, estilos, sistemas distribuidos, sistemas con modelos de IA, evaluación y
+  decisiones, con lo que pierde peso dicho aparte.
 - [Bases de datos](Bases-de-datos/bases-de-datos.md) — qué es una base, sus modelos (relacional, documentos, clave-valor),
   SQL a fondo, transacciones y cómo elegir una para un sistema.
 
@@ -55,8 +56,8 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 ## Datos
 
-- [Datos](Datos/datos.md) — análisis de cohortes, retención y churn, para quien aprende Data Analytics; con
-  Recorrido.
+- [Datos](Datos/datos.md) — el recorrido del dato hasta una decisión: modelado y almacenamiento, ingesta, gobierno y calidad
+  (con privacidad en Argentina), análisis, estadística, analítica de producto y visualización; con rutas para aprender Data Analytics.
 
 ## Deporte
 
