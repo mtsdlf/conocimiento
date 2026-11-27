@@ -47,18 +47,18 @@ decidir qué hacer sigue siendo un acuerdo entre personas, que se registra en un
 
 ## La evaluación como fitness function probabilística
 
-Con un [modelo de lenguaje](../../IA/llm.md), la misma entrada da salidas distintas y "pasa o no
+Con un [modelo de lenguaje](../../IA/Modelos/modelo-base.md), la misma entrada da salidas distintas y "pasa o no
 pasa" deja de alcanzar. El artículo de Bharani Subramaniam sobre patrones de IA generativa, en el sitio de Martin Fowler, lo dice así: los evals "aren't simple
 binary pass/fail results, instead we have to set thresholds". Huyen pide evaluar "at every step of
 the development process".
 
-Leer una [evaluación](../Evaluacion-y-observabilidad/evaluacion.md) con umbral como una fitness
+Leer una [evaluación](../../IA/Evaluacion/evals.md) con umbral como una fitness
 function probabilística es inferencia de esta base: ninguna de las fuentes lo formula así. La
 equivalencia sirve porque trae las reglas del canon al sistema con modelos. La evaluación tiene que
 dar un número que nadie discute (una proporción sobre un conjunto de casos), tiene que correr sola
 en cada cambio, y su umbral es una decisión que se registra. Lo que no hereda es la certeza: un
 juez automático también se equivoca, y eso se trata en
-[IA como juez](../Evaluacion-y-observabilidad/ia-como-juez.md).
+[IA como juez](../../IA/Evaluacion/ia-como-juez.md).
 
 ## Qué leer
 

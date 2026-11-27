@@ -50,7 +50,7 @@ Event Storming, de Alberto Brandolini, es "a flexible workshop format for collab
 
 ## El glosario como contexto del agente
 
-Con agentes de código, el glosario del dominio deja de ser una nota para personas y pasa a ser contexto que el agente carga. Las guías de los fabricantes no lo llaman DDD, pero dicen lo mismo: el agente necesita lo que no se ve en el código, y según OpenAI "A short, accurate AGENTS.md is more useful than a long file full of vague rules". Cómo se le da ese contexto al agente está en [contexto del repositorio](../Construccion/contexto-del-repositorio.md), y el mecanismo general, en [contexto y RAG](../../Arquitectura/Sistemas-con-modelos/contexto-y-rag.md).
+Con agentes de código, el glosario del dominio deja de ser una nota para personas y pasa a ser contexto que el agente carga. Las guías de los fabricantes no lo llaman DDD, pero dicen lo mismo: el agente necesita lo que no se ve en el código, y según OpenAI "A short, accurate AGENTS.md is more useful than a long file full of vague rules". Cómo se le da ese contexto al agente está en [contexto del repositorio](../Construccion/contexto-del-repositorio.md), y el mecanismo general, en [contexto y RAG](../../IA/Contexto/contexto-y-rag.md).
 
 El tamaño compite con el resto del contexto. El Radar de Thoughtworks, sobre una herramienta de especificación, dice que su archivo de principios del proyecto sirve cuando cubre el contexto de dominio, pero avisa de "instruction bloat" y después "context rot". Un preprint de caso único (Vasilopoulos, un sistema de 108.000 líneas) propone separar una memoria que se carga siempre de especificaciones que se cargan a pedido.
 

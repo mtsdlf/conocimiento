@@ -86,7 +86,7 @@ márgenes" en tareas financieras, y Li et al. muestran que el modelo general fal
 conocimiento de dominio. Huyen no dice "nunca": dedica el capítulo 7 a cuándo sí hacer fine-tuning,
 que es otra cosa que entrenar desde cero. El Radar puso modelos de pesos abiertos y modelos chicos en
 Trial. **Quién.** Criterio de esta base; Huyen solo critica insistir en fine-tuning "when prompting
-works". La decisión práctica está en [prompt, RAG o fine-tuning](../Sistemas-con-modelos/prompt-rag-o-finetuning.md).
+works". La decisión práctica está en [prompt, RAG o fine-tuning](../../IA/prompt-rag-o-finetuning.md).
 
 ## Prompt engineering como conjunto de trucos
 
@@ -108,7 +108,7 @@ complex and expensive". **En contra.** Anthropic reporta +90,2 % de su sistema m
 un agente solo, con unas 15 veces los tokens de un chat, y el Radar tiene harness y runtimes de agentes en Trial
 o Assess. **Quién.** Huyen y laboratorios que también venden SDK de agentes; no hay estudio
 independiente. Lo que pierde peso es el framework opaco, no la orquestación. Ver
-[agente](../Sistemas-con-modelos/agente.md).
+[agente](../../IA/Agentes/agente.md).
 
 ## SOA con ESB
 
@@ -163,10 +163,10 @@ enseñanza. Los patrones de código viven en [Desarrollo](../../Desarrollo/desar
 ## Lo que gana peso
 
 - **Evaluación propia** antes que las piezas: el centro de
-  [Evaluación y observabilidad](../Evaluacion-y-observabilidad/evaluacion-y-observabilidad.md).
+  [Evaluación y observabilidad](../../IA/Evaluacion/evaluacion.md).
 - **Context engineering**: en Adopt en el Radar de abril de 2026, y "Progressive context disclosure"
-  en Adopt en noviembre de 2026; ver [contexto y RAG](../Sistemas-con-modelos/contexto-y-rag.md).
-- **Harness** ([qué es](../Sistemas-con-modelos/agente.md)): "coding harness for general-purpose agents" en Trial y "harness quality evaluation" en
+  en Adopt en noviembre de 2026; ver [contexto y RAG](../../IA/Contexto/contexto-y-rag.md).
+- **Harness** ([qué es](../../IA/Agentes/agente.md)): "coding harness for general-purpose agents" en Trial y "harness quality evaluation" en
   Assess (noviembre de 2026).
 - **Chequeos automáticos**: "Feedback sensors for coding agents" en Trial (abril de 2026), heredero de
   la [fitness function](../Caracteristicas/fitness-function.md).

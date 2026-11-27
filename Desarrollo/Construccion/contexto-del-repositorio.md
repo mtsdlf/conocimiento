@@ -22,7 +22,7 @@ revisado: 2026-11-27
 
 El contexto del repositorio es lo que el propio repositorio le da a un agente de código para trabajar bien en él: un archivo corto de instrucciones con lo que no se deduce del código, el material de consulta que se carga solo cuando hace falta y las reglas que se imponen con mecanismos deterministas.
 
-Es la parte de [Construcción](construccion.md) que prepara el terreno para el [agente de código](agente-de-codigo.md). El agente lee el repositorio por su cuenta; el contexto llena lo que el código no dice. El mismo principio, aplicado a sistemas que usan un modelo en producción, está en [contexto y RAG](../../Arquitectura/Sistemas-con-modelos/contexto-y-rag.md).
+Es la parte de [Construcción](construccion.md) que prepara el terreno para el [agente de código](agente-de-codigo.md). El agente lee el repositorio por su cuenta; el contexto llena lo que el código no dice. El mismo principio, aplicado a sistemas que usan un modelo en producción, está en [contexto y RAG](../../IA/Contexto/contexto-y-rag.md).
 
 ## El contexto como recurso que se gasta
 

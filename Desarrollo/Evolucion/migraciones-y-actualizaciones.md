@@ -50,7 +50,7 @@ Lo que se aprende es el patrón común. En Google, cada cambio propuesto se vali
 3. Lo que no pasa vuelve al modelo con el error, o pasa a una persona.
 4. Las personas revisan lo que pasó, repartido entre quienes conocen cada parte.
 
-Es el mismo patrón que [el LLM emite, el reasoner verifica](../../IA/llm-emite-reasoner-verifica.md) en IA, aplicado a código. En un proyecto de cliente sin pruebas, la ventaja no se traslada tal cual, porque falta el paso 2; esa es inferencia de esta base. Ahí, antes de migrar, se fija el comportamiento como en [sistema heredado](sistema-heredado.md).
+Es el mismo patrón que la capa de dominio de los [guardrails](../../IA/Produccion/guardrails.md) en IA, donde un verificador chequea lo que el modelo emite, aplicado a código. En un proyecto de cliente sin pruebas, la ventaja no se traslada tal cual, porque falta el paso 2; esa es inferencia de esta base. Ahí, antes de migrar, se fija el comportamiento como en [sistema heredado](sistema-heredado.md).
 
 ## Herramientas, a 2026-11
 

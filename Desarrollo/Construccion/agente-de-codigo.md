@@ -32,7 +32,7 @@ revisado: 2026-11-27
 
 Un agente de código es un modelo de lenguaje que trabaja sobre un repositorio en un bucle: lee el código, edita archivos, corre comandos, mira el resultado y sigue hasta terminar la tarea o quedarse sin forma de avanzar.
 
-Es el caso de programación de lo que [Arquitectura](../../Arquitectura/Sistemas-con-modelos/agente.md) describe en general: un sistema en el que el modelo decide sus propios pasos. Dentro de [Construcción](construccion.md), consume el [contexto del repositorio](contexto-del-repositorio.md) y entrega un cambio que [Verificación](../Verificacion/verificacion.md) tiene que poder comprobar. Cómo funciona el modelo por dentro está en [LLM](../../IA/llm.md).
+Es el caso de programación de lo que [Agente](../../IA/Agentes/agente.md), en IA, describe en general: un sistema en el que el modelo decide sus propios pasos. Dentro de [Construcción](construccion.md), consume el [contexto del repositorio](contexto-del-repositorio.md) y entrega un cambio que [Verificación](../Verificacion/verificacion.md) tiene que poder comprobar. Cómo funciona el modelo por dentro está en [LLM](../../IA/Modelos/modelo-base.md).
 
 ## El bucle y lo que lo cierra
 
