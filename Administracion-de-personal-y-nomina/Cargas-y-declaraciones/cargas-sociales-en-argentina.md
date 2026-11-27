@@ -32,10 +32,21 @@ fuentes:
   - "WS y Asociados, Reforma laboral 2026 (según un resumen): https://wsyasociados.com.ar/reforma-laboral-2026-ley-27802/"
   - "SRT, Cobertura y financiación, definiciones (cuota pactada): https://www.srt.gob.ar/estadisticas/cf_definiciones.php"
   - "SRT, Cobertura y financiación, últimos datos (agosto de 2026): https://www.srt.gob.ar/estadisticas/cf_ultimos_datos.php"
+  - "Resolución ANSES 304/2026, bases imponibles desde el devengado de noviembre de 2026: https://www.argentina.gob.ar/normativa/nacional/norma-431696/texto"
+  - "Contadores en Red, Base imponible SIPA noviembre 2026, 28/10/2026: https://contadoresenred.com/base-imponible-sipa-noviembre-2026-minima-y-maxima/"
+  - "Microjuris Al Día, Resolución ANSES 304/2026, 28/10/2026: https://aldiaargentina.microjuris.com/2026/10/28/legislacion-se-incrementan-jubilaciones-pensiones-y-bases-imponibles-desde-noviembre-de-2026/"
+  - "Indicadores Monetarios de la Seguridad Social, noviembre de 2026: https://www.argentina.gob.ar/trabajo/seguridadsocial/imss"
+  - "Decreto 1567/74, Biblioteca de ARCA: https://biblioteca.afip.gob.ar/dcp/DEC_C_001567_1974_11_20"
+  - "Decreto 1567/74 en argentina.gob.ar/normativa: https://www.argentina.gob.ar/normativa/nacional/norma-24301/texto"
+  - "Resolución SSN 39.766/2016, reglamento del SCVO, B.O. 12/4/2016: https://www.boletinoficial.gob.ar/detalleAviso/primera/143514/20160412"
+  - "Tributum, SCVO desde marzo de 2026, 25/3/2026: https://tributum.news/seguro-de-vida-colectivo-obligatorio-nuevos-montos-desde-marzo-2026/"
+  - "Contadores en Red, SCVO desde el devengado marzo de 2026: https://contadoresenred.com/seguro-colectivo-de-vida-obligatorio-importe-a-partir-del-devengado-marzo-2026/amp/"
+  - "CCT 130/75 de empleados de comercio, copia no oficial: https://cop.unglobalcompact.org/2023/files/4798_Convenio%20de%20Comercio.pdf"
   - "SSN, preguntas frecuentes, Vida: https://www.argentina.gob.ar/superintendencia-de-seguros/portal-ciudadano/preguntas-frecuentes/vida"
   - "ARCA, Agenda de vencimientos, Regímenes nacionales de la seguridad social, noviembre y diciembre de 2026: https://seti.afip.gob.ar/av/seleccionVencimientos.do"
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-cargas.md, componente 1 (2026-11-27)"
   - "Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-cargas.md (2026-11-27)"
+  - "Administracion-de-personal-y-nomina/.investigacion/verificacion-tercera-ronda-cargas.md (2026-11-27)"
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md (2026-11-27)"
 aliases: [cargas sociales, aportes y contribuciones en Argentina, SIPA, INSSJP, PAMI, obra social, contribuciones patronales, Ley 27.541, detracción, mínimo no imponible, F.931, formulario 931, SICOSS, Declaración en línea, ART, Fondo de Asistencia Laboral, FAL, RIFL, Régimen de Incentivo a la Formalización Laboral, Ley 27.802]
 creado: 2026-11-27
@@ -80,10 +91,14 @@ Al 27 de noviembre de 2026, la Biblioteca de ARCA no anota ninguna modificación
 
 ## Bases y topes
 
-Los aportes tienen un tope y las contribuciones no. ANSeS fija cada trimestre (marzo, junio, septiembre y diciembre) un tope para las bases de los aportes a la jubilación, al PAMI y a la obra social, que «no aplican para las bases de contribuciones». El del aguinaldo es el 50 % del mensual (ARCA, Guía 31 del Libro de Sueldos Digital).
+Los aportes tienen un tope y las contribuciones no. Los topes de las bases de los aportes a la jubilación, al PAMI y a la obra social «no aplican para las bases de contribuciones», y el del aguinaldo es el 50 % del mensual (ARCA, Guía 31 del Libro de Sueldos Digital).
+
+ANSeS fija la base imponible mínima y la máxima del art. 9 de la Ley 24.241, con la facultad que le da el art. 3 del Decreto 110/18. Las fija cada mes, en la misma resolución que aplica la movilidad de las jubilaciones: desde el DNU 274/2024, los haberes «se actualizarán mensualmente» por el índice de precios al consumidor del INDEC (considerandos de la Resolución ANSES 304/2026). La Guía 31 de ARCA todavía habla de una actualización trimestral; las resoluciones de 2026 son mensuales (la 284/2026 para octubre y la 304/2026 para noviembre).
+
+Para el devengado de noviembre de 2026, la Resolución ANSES 304/2026 (B.O. 28/10/2026), art. 3, fija la base mínima en «$ 149.592,45» y la máxima en «$ 4.861.685,38», «a partir del período devengado noviembre de 2026». La movilidad de ese mes es del 1,93 %, por el índice de precios de septiembre de 2026. Los montos coinciden en el texto de argentina.gob.ar/normativa, en Contadores en Red y en Microjuris; la página de Indicadores Monetarios de la Seguridad Social los da redondeados.
 
 > [!NOTE]
-> Sin fuente todavía: el tope máximo y la base mínima vigentes en noviembre y diciembre de 2026, con su resolución de ANSeS. Se volvieron a probar las páginas de ANSeS y llegaron vacías; el cuadro legislativo de ARCA no lista las resoluciones de ANSeS, y los importes de la guía de ARCA son de 2020 y 2021.
+> Sin fuente todavía: la base mínima y la máxima del devengado de diciembre de 2026. Al 27 de noviembre de 2026 no aparece la resolución de ANSeS de diciembre en argentina.gob.ar/normativa, en el Boletín Oficial ni en los indicadores de la seguridad social; la última publicada es la 304/2026. Consultala antes de liquidar diciembre y el aguinaldo.
 
 ## La ART y el seguro de vida
 
@@ -91,10 +106,11 @@ El empleador que no puede autoasegurarse tiene que contratar una «Aseguradora d
 
 La cuota tiene dos partes. Según la SRT, el monto que el empleador acuerda pagar a la aseguradora «se devenga mensualmente y se compone de dos partes»: «una cápita fija en pesos por cada persona trabajadora asegurada» y «una alícuota porcentual sobre la masa salarial declarada». Los valores los pacta cada empleador con su ART, y la SRT no publica una tarifa. Publica promedios del sistema: en agosto de 2026, la cuota pactada fue el «3,22%» de la masa salarial, o «$ 65.776,1» por persona trabajadora, sin contar autoasegurados ni casas particulares. La composición tiene una sola fuente, la SRT.
 
-El seguro colectivo de vida obligatorio (SCVO) tiene una suma asegurada y un «costo mensual por cada trabajador declarado» que, según la Superintendencia de Seguros de la Nación, «se actualizan anualmente». La SSN no publica los montos vigentes en esa página y remite a scvo@ssn.gob.ar; la aseguradora de cada empleador se ve en ARCA, en Simplificación Registral. En el Libro de Sueldos Digital, el SCVO es un dato del registro 04 de cada trabajador ([libro de sueldos digital](libro-de-sueldos-digital.md#el-archivo-de-la-liquidación)).
+El seguro colectivo de vida obligatorio (SCVO) lo crea el Decreto 1567/74, vigente según la Biblioteca de ARCA. Es un beneficio por muerte del trabajador con costo «a cargo del empleador» (art. 1); la Superintendencia de Seguros de la Nación lo instrumenta (art. 2), y si el empleador no contrata el seguro, paga él mismo el beneficio (art. 3).
 
-> [!NOTE]
-> Sin fuente todavía: el texto del Decreto 1567/74 (no se pudo abrir en InfoLEG ni en la Biblioteca de ARCA), quién paga la prima según la norma, y la suma asegurada y la prima vigentes del seguro de vida obligatorio.
+El reglamento de la SSN (Resolución 39.766/2016) dice que «la suma asegurada será equivalente a 5,5 Salarios Mínimos Vitales y Móviles», que «se ajustará anualmente conforme al último SMVM publicado en el mes de diciembre de cada año» y que rige desde el 1 de marzo del año siguiente. La prima es de «$ 0,205» mensuales por cada $ 1.000 asegurados, y «el costo del seguro estará a cargo del empleador». Quedan afuera los trabajadores rurales permanentes de la Ley 16.600 y los contratados por menos de un mes (art. 2 del reglamento). Según Contadores en Red, el reglamento vigente es el de la Resolución SSN 40.629/2017; no se leyó su anexo.
+
+Desde el 1 de marzo de 2026, la suma asegurada es de $ 2.071.300 y la prima, de $ 424,62 por trabajador por mes (antes, $ 1.632.576 y $ 334,67). Los montos coinciden en Tributum y en Contadores en Red, dos secundarias; no se leyó una resolución de la SSN que los publique. La SSN dice que la suma y el costo mensual «se actualizan anualmente» y remite a scvo@ssn.gob.ar; la aseguradora de cada empleador se ve en ARCA, en Simplificación Registral. En el Libro de Sueldos Digital, el SCVO es un dato del registro 04 de cada trabajador ([libro de sueldos digital](libro-de-sueldos-digital.md#el-archivo-de-la-liquidación)).
 
 ## La declaración mensual
 
@@ -149,6 +165,8 @@ Para el cálculo es un cambio de alícuota con fecha de vigencia: el devengado d
 ## Lo que pide el convenio colectivo
 
 Los convenios colectivos suman sus propias cargas (cuotas sindicales, contribuciones solidarias, seguros de la actividad). La LCT limita la retención con destino sindical al 2 % (art. 133, texto del art. 37 de la Ley 27.802).
+
+Un ejemplo de seguro de convenio: el art. 97 del CCT 130/75 de empleados de comercio crea un «seguro de vida colectivo obligatorio» por muerte o incapacidad total y permanente, «totalmente independiente» de los beneficios legales, con la prima repartida entre empleador y empleado. La copia leída del convenio no es oficial y deja en blanco los montos.
 
 > [!NOTE]
 > Sin fuente todavía: los aportes y contribuciones de convenio en general y cómo se declaran.

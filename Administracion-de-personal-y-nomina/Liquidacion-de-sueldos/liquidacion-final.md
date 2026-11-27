@@ -12,6 +12,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-cargas-y-fundamentos.md (2026-11-27)"
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-huecos.md (2026-11-27)"
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md (2026-11-27)"
+  - "Decreto 484/87, InfoLEG (arts. 3 y 4): https://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77255/norma.htm"
   - "Estado judicial de la Ley 27.802: Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-laboral.md (prensa y estudios jurídicos, 27/11/2026)"
 aliases: [liquidación final, liquidación por baja, liquidación por egreso, finiquito, final pay, final settlement, termination pay, vacaciones no gozadas, indemnización por despido, severance pay]
 creado: 2026-11-27
@@ -64,7 +65,7 @@ Para la liquidación, la base de la indemnización es una base como las demás: 
 
 ## Lo que se descuenta
 
-De la liquidación final salen las deducciones de siempre (aportes y retención sobre los conceptos que las llevan) y, como inferencia de esta base, lo pendiente del empleado: el saldo de un préstamo o un adelanto no recuperado. La ley de cada país decide si el tope de deducciones alcanza para descontar todo. Esta base supone, sin fuente que lo trate para la baja, que en la Argentina rige también el tope del art. 133, en [liquidación en la Argentina](liquidacion-en-argentina.md#adelantos-deducciones-y-embargos). Como inferencia de esta base, un embargo vigente se aplica también a la liquidación final, según lo que la ley de cada país cuente como sueldo para el embargo ([conceptos de liquidación](conceptos-de-liquidacion.md#adelantos-préstamos-y-embargos)).
+De la liquidación final salen las deducciones de siempre (aportes y retención sobre los conceptos que las llevan) y, como inferencia de esta base, lo pendiente del empleado: el saldo de un préstamo o un adelanto no recuperado. La ley de cada país decide si el tope de deducciones alcanza para descontar todo. Esta base supone, sin fuente que lo trate para la baja, que en la Argentina rige también el tope del art. 133, en [liquidación en la Argentina](liquidacion-en-argentina.md#adelantos-deducciones-y-embargos). Como inferencia de esta base, un embargo vigente se aplica también a la liquidación final, según lo que la ley de cada país cuente como sueldo para el embargo ([conceptos de liquidación](conceptos-de-liquidacion.md#adelantos-préstamos-y-embargos)). En la Argentina, las indemnizaciones son embargables hasta el 10 % o el 20 % «del importe de aquéllas», sumando todos los conceptos de la extinción, salvo por alimentos (Decreto 484/87, arts. 3 y 4).
 
 Cada parte va al [recibo de sueldo](recibo-de-sueldo.md) como un concepto separado, porque cada una tiene un tratamiento distinto frente a las [cargas](../Cargas-y-declaraciones/aportes-y-contribuciones.md) y la [retención](../Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md).
 

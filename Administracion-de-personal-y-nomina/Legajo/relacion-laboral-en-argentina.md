@@ -15,7 +15,11 @@ fuentes:
   - "RG ARCA 5907/2026: https://servicios.infoleg.gob.ar/infolegInternet/anexos/430000-434999/430768/norma.htm"
   - "RG ARCA 5915/2026: https://servicios.infoleg.gob.ar/infolegInternet/anexos/430000-434999/431578/norma.htm"
   - "Ley 24.557 de Riesgos del Trabajo, texto actualizado en InfoLEG (art. 3): https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/27971/texact.htm"
-  - "ARCA, Simplificación Registral (según un resumen): https://www.arca.gob.ar/simplificacionregistral/"
+  - "RG AFIP 2988/2010, Simplificación Registral, texto vigente en la Biblioteca Electrónica de ARCA (art. 3, plazos del alta): https://biblioteca.arca.gob.ar/dcp/REAG01002988_2010_12_02"
+  - "RG AFIP 5508/2024, Boletín Oficial (modifica los arts. 2, 5, 6 y 25 y el Anexo II de la RG 2988, no el art. 3): https://www.boletinoficial.gob.ar/pdf/aviso/primera/306947/20251008"
+  - "ARCA, Simplificación Registral, ¿Cuál es el plazo para dar de alta a un trabajador?: https://arca.gob.ar/simplificacionregistral/caracterisiticas-y-utilizacion/plazos.asp"
+  - "Ley 27.802, texto en InfoLEG (arts. 20 y 98; búsqueda de la Ley 24.013 en todo el texto): https://servicios.infoleg.gob.ar/infolegInternet/anexos/420000-424999/423680/norma.htm"
+  - "iProfesional, Qué es el alta temprana de AFIP (10/10/2022; leída con un lector intermedio): https://www.iprofesional.com/finanzas/370666-que-es-el-alta-temprana-de-afip"
   - "ARCA, novedad sobre el certificado del art. 80 (según un resumen): https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=5717"
   - "WS y Asociados, Reforma laboral 2026 (verificada en agosto de 2026; leída el 27/11/2026 con un lector intermedio): https://wsyasociados.com.ar/reforma-laboral-2026-ley-27802/"
   - "Ámbito, La Cámara del Trabajo levantó el freno (25/4/2026), estado judicial: https://www.ambito.com/opiniones/la-camara-del-trabajo-levanto-el-freno-la-reforma-laboral-vuelve-estar-vigente-n6270251"
@@ -52,7 +56,7 @@ El trabajador independiente puede tener hasta tres colaboradores independientes,
 
 ## La registración ante ARCA
 
-El empleador registra a cada trabajador ante ARCA, y esa registración «será suficiente a todos los efectos, sin que puedan exigirse requisitos adicionales por parte de ninguna otra autoridad»; los libros anteriores se conservan 10 años (art. 52 LCT, sustituido por el art. 20 de la Ley 27.802). La obligación se cumple con el alta y la baja en los sistemas de ARCA y «No será exigible a los empleadores llevar libros laborales en soporte físico ni digital» (Decreto 407/2026, Anexo I art. 1). El servicio de ARCA para altas, bajas y modificaciones se llama Simplificación Registral, según un resumen de su página.
+El empleador registra a cada trabajador ante ARCA, «de acuerdo a la normativa que dicho organismo dicte», y esa registración «será suficiente a todos los efectos, sin que puedan exigirse requisitos adicionales por parte de ninguna otra autoridad»; los libros anteriores se conservan 10 años (art. 52 LCT, sustituido por el art. 20 de la Ley 27.802). La obligación se cumple con el alta y la baja en los sistemas de ARCA y «No será exigible a los empleadores llevar libros laborales en soporte físico ni digital» (Decreto 407/2026, Anexo I art. 1). El servicio de ARCA para altas, bajas y modificaciones se llama Simplificación Registral (RG AFIP 2988/2010 y página de ARCA).
 
 La falta de registración hace presumir a favor de lo que diga el trabajador sobre lo que debió constar en el registro (art. 55 LCT, sustituido por el art. 22 de la Ley 27.802). Las multas de los arts. 8 a 17 de la Ley 24.013 y la Ley 25.323 quedaron derogadas por los arts. 99 y 100 de la Ley 27.742; no se verificó si la 27.802 creó otra sanción.
 
@@ -92,9 +96,9 @@ Al terminar la relación, el empleador tiene «cuarenta y cinco (45) días hábi
 Los pasos con su fuente, y lo que no se pudo verificar:
 
 1. **Inscribirse como empleador.** La inscripción se concentra en el Sistema Único de Registro (art. 18 de la Ley 24.013, texto del art. 87 de la Ley 27.742). Todos los empleadores deben declarar en Simplificación Registral si son privados o públicos antes de la declaración del devengado diciembre de 2026 (RG ARCA 5907/2026 art. 4 y RG 5915/2026). Sin fuente todavía: una guía oficial con el paso a paso.
-2. **Dar el alta del trabajador** en Simplificación Registral desde el primer día (art. 92 bis LCT). La Ley 27.742 pide una registración «simple, inmediata, expeditiva» por medios electrónicos, y da por registrada la relación cuando el trabajador está inscripto «en las formas y condiciones que establezca la reglamentación» (art. 7 de la Ley 24.013, texto del art. 82). El Decreto 847/2024 no fija un plazo. Sin fuente todavía: la resolución de ARCA vigente con el plazo del alta temprana; las páginas de ARCA leídas no lo dicen.
+2. **Dar el alta del trabajador** en Simplificación Registral antes de que empiece a trabajar. El alta se comunica «hasta el día inmediato anterior, inclusive, al de comienzo efectivo de las tareas», y para las actividades del Anexo I, «hasta el momento de comienzo efectivo de las tareas» (RG AFIP 2988/2010, art. 3; la RG 5508/2024 cambió otros artículos y no ese). Alcanza con un mínimo de datos al dar el alta; el resto se completa antes de informar la primera liquidación (art. 6, texto de la RG 5508/2024). La baja se comunica dentro de los 5 días corridos de la extinción (art. 4). La página de plazos de ARCA dice lo mismo, pero es del mismo organismo; una secundaria (iProfesional, 2022) dice solo que el alta «debe emitirse antes de la fecha de inicio de actividad efectiva del trabajador». Las actividades del Anexo I no se leyeron. Las leyes no fijan otro plazo: la Ley 27.742 pide una registración «simple, inmediata, expeditiva» y la da por cumplida con la inscripción «en las formas y condiciones que establezca la reglamentación» (art. 7 de la Ley 24.013, texto del art. 82); el Decreto 847/2024 no fija plazo; la Ley 27.802 remite a la normativa de ARCA (art. 52 LCT) y de la Ley 24.013 sustituyó solo el art. 7 ter, que obliga al trabajador a denunciar ante ARCA la falta de inscripción, «la real fecha de ingreso y/o el monto total de la remuneración» (art. 98). Si el alta no está desde el inicio, el empleador pierde el período de prueba (art. 92 bis LCT).
 3. **Contratar una ART**: quien no pueda autoasegurarse debe asegurarse en una «Aseguradora de Riesgos del Trabajo (ART)» de su elección (art. 3 inc. 3 de la Ley 24.557). Una sola fuente. Cómo se compone la cuota, y las demás cargas, está en [cargas sociales en la Argentina](../Cargas-y-declaraciones/cargas-sociales-en-argentina.md#la-art-y-el-seguro-de-vida).
-4. **Seguro de vida obligatorio.** Sin fuente todavía: el Decreto 1567/74 no se leyó.
+4. **Seguro de vida obligatorio.** Lo paga el empleador por cada trabajador (Decreto 1567/74, art. 1); la suma asegurada, la prima y cómo se actualizan están en [cargas sociales en la Argentina](../Cargas-y-declaraciones/cargas-sociales-en-argentina.md#la-art-y-el-seguro-de-vida).
 5. **Libro del art. 52**: ya no se rubrica ni se lleva (Decreto 407/2026, Anexo I art. 1).
 6. **Registros provinciales.** El art. 52 dice que ninguna otra autoridad puede exigir requisitos adicionales. Sin fuente todavía: si subsiste algún registro provincial.
 7. **Obra social**: el Sistema Único de Registro concentra la afiliación al prestador «elegido por el trabajador» (art. 18 de la Ley 24.013).
@@ -110,7 +114,8 @@ Los pasos con su fuente, y lo que no se pudo verificar:
 | Independientes con colaboradores | 27.742 (art. 97) | hasta tres, sin dependencia |
 | Exclusiones de la LCT (art. 2) | 27.802 (art. 1) | suma independientes con colaboradores y plataformas |
 | Presunción de contrato (art. 23) | 27.802 (art. 13) | no aplica con facturas o pago bancario |
-| Registración (art. 52) | 27.802 (art. 20) | registro en ARCA, sin libros |
+| Registración (art. 52) | 27.802 (art. 20) | registro en ARCA, según su normativa, sin libros |
+| Denuncia de la registración irregular (art. 7 ter, Ley 24.013) | 27.802 (art. 98) | la hace el trabajador ante ARCA |
 | Certificado (art. 80) | 27.802 (art. 25) | 45 días hábiles, puede ser digital |
 | Tiempo parcial, plazo fijo, eventual | 27.802 (arts. 27 a 29) | ver la tabla de modalidades |
 | Convenios (Ley 14.250) | 27.802 (arts. 130 y 131) | ultraactividad solo de cláusulas normativas |

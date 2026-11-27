@@ -92,7 +92,7 @@ Un embargo es una retención por orden de un tercero, permitida solo dentro de l
 | Sobre qué base | Lo que queda después de las retenciones que manda la ley (15 U.S.C. 1672) | Una lista propia de lo que cuenta como sueldo para la orden |
 | Prioridad entre embargos | «the priority is determined by State law or other Federal laws» (29 CFR 870.11) | Las órdenes prioritarias (manutención impaga o multas) van primero, en el orden en que llegaron, y después las no prioritarias, también por orden de llegada |
 
-Con varios embargos, el tope es del conjunto: según el reglamento de EE. UU., si un embargo de impuestos ya toma 45 %, uno de manutención solo puede tomar la diferencia hasta su propio tope. Por eso van al final, en orden de prioridad. El tope argentino de adelantos y deducciones, y los límites de embargo que no se pudieron leer, están en [liquidación en la Argentina](liquidacion-en-argentina.md#adelantos-deducciones-y-embargos).
+Con varios embargos, el tope es del conjunto: según el reglamento de EE. UU., si un embargo de impuestos ya toma 45 %, uno de manutención solo puede tomar la diferencia hasta su propio tope. Por eso van al final, en orden de prioridad. El tope argentino de adelantos y deducciones, los límites de embargo y la prioridad entre embargos están en [liquidación en la Argentina](liquidacion-en-argentina.md#adelantos-deducciones-y-embargos).
 
 > [!NOTE]
 > Sin fuente todavía: reglas agnósticas de cuánto se puede adelantar y cómo se recupera un adelanto o un préstamo.

@@ -9,6 +9,7 @@ fuentes:
   - "LCT 20.744, texto actualizado en InfoLEG (arts. 52, 80 y 92 bis): https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/texact.htm"
   - "Ley 27.802, texto del Boletín Oficial (arts. 20, 22, 25 y 49, que sustituyen los arts. 52, 55, 80 y 240 de la LCT): https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306"
   - "Decreto 407/2026, Anexo I art. 1: https://servicios.infoleg.gob.ar/infolegInternet/anexos/425000-429999/426270/norma.htm"
+  - "RG AFIP 2988/2010, texto vigente en la Biblioteca Electrónica de ARCA (art. 3): https://biblioteca.arca.gob.ar/dcp/REAG01002988_2010_12_02"
   - "Administracion-de-personal-y-nomina/.investigacion/legajo-y-tiempo.md, componente A4"
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md, componente 1 y «La primera contratación»"
 aliases: [alta del empleado, baja del empleado, ingreso de personal, egreso de personal, alta temprana, hacerse empleador, primera contratación, primer empleado, onboarding administrativo, offboarding, new hire setup, termination processing, becoming an employer]
@@ -28,7 +29,7 @@ Como criterio de esta base, el alta está completa cuando la persona puede cobra
 
 1. **El legajo abierto**, con identidad, [modalidad](modalidades-de-contratacion.md), [puesto, categoría, jefe y centro de costo](puesto-y-estructura.md), todo con fecha desde igual a la fecha de ingreso.
 2. **La comprobación de que puede trabajar.** Algunos países exigen comprobar al contratar que la persona tiene derecho a trabajar. En el Reino Unido, para quedar cubierto ante una multa («statutory excuse»), el empleador tiene que hacer el chequeo «before the worker commences employment», con documentos originales, el servicio en línea del gobierno o un proveedor de verificación digital. A quien tiene un permiso temporal se le hace después un chequeo de seguimiento («follow-up check»), así que el legajo tiene que guardar la fecha en que vence la cobertura.
-3. **El alta ante la seguridad social**, desde el primer día de trabajo. En la Argentina, la registración se cumple con el alta en los sistemas de ARCA (Decreto 407/2026, Anexo I art. 1) y sin ella se pierde el período de prueba (art. 92 bis LCT).
+3. **El alta ante la seguridad social**, antes del primer día de trabajo. En la Argentina, la registración se cumple con el alta en los sistemas de ARCA (Decreto 407/2026, Anexo I art. 1), que se comunica hasta el día anterior al comienzo de las tareas, o hasta el comienzo mismo en las actividades del Anexo I (RG AFIP 2988/2010, art. 3); sin ella se pierde el período de prueba (art. 92 bis LCT).
 4. **Los datos para pagar y retener**: la cuenta donde se acredita el sueldo, los datos fiscales para la [retención del impuesto](../Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md) y el turno y el saldo de licencias en [tiempo y asistencia](../Tiempo-y-asistencia/tiempo-y-asistencia.md).
 
 El orden cuenta porque la antigüedad, las vacaciones y la liquidación leen la fecha de ingreso del legajo. Un alta cargada el día 10 con fecha de ingreso del día 1 tiene que guardar las dos fechas, como cualquier [cambio del legajo](legajo.md#la-historia-del-legajo-con-sus-dos-fechas).
