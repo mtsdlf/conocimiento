@@ -4,7 +4,7 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "APQC, Process Classification Framework 7.4 (agosto de 2024), 7.2, 7.6 y 9.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "APQC, Process Classification Framework 7.4 (agosto de 2024), 7.2, 7.3.1, 7.5.2, 7.5.4, 7.6, 7.6.3, 7.7.3 y 9.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "APQC, Open Standards Benchmarking Measure List, Payroll (2012): https://www.apqc.org/sites/default/files/osb/Payroll%20processing_measure%20list.pdf"
   - "APQC, Open Standards Benchmarking Measure List, Talent Acquisition and Optimization (2017), tiempo de ciclo: https://www.apqc.org/sites/default/files/osb/277%20-%20Talent%20Acquisition%20and%20Optimization%20Measure%20List_0.pdf"
   - "APQC, Why are end-to-end processes important (15 de enero de 2024): https://www.apqc.org/blog/why-are-end-end-processes-important"
@@ -19,13 +19,13 @@ revisado:
 
 De la contratación a la baja (hire-to-retire) es el recorrido de una relación laboral entera, desde el puesto aprobado y la búsqueda hasta la liquidación final pagada y el legajo cerrado, con un ciclo que se repite cada período: asistencia, liquidación, asiento, pago y cargas declaradas.
 
-Empieza en la [búsqueda](../Administracion-de-personal-y-nomina/Legajo/busquedas-y-postulantes.md) aprobada, tomada solo como registro. A quién elegir, cuánto pagar, cómo incorporar y cuándo despedir son decisiones de [Gestión de personas](../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md) ([contratar](../Liderazgo-y-direccion/Gestion-de-personas/contratar.md), [rotación y salidas](../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md)); el recorrido registra lo que esas decisiones dejan. Termina cuando la liquidación final está pagada, las cargas del último período están declaradas y el legajo está cerrado con fecha y motivo. APQC lo nombra entre sus procesos de punta a punta, «cross-functional processes that comprise all the steps to accomplish a specific outcome or goal». Cruza [Administración de personal y nómina](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md), dueña de cada paso, [Contabilidad](../Contabilidad/contabilidad.md), [Tesorería](../Tesoreria/tesoreria.md) e [Impuestos](../Impuestos/impuestos.md), y deja sus asientos en [del registro al balance](del-registro-al-balance.md).
+El recorrido empieza en la [búsqueda](../Administracion-de-personal-y-nomina/Legajo/busquedas-y-postulantes.md) aprobada, tomada solo como registro. A quién elegir, cuánto pagar, cómo incorporar y cuándo despedir son decisiones de [Gestión de personas](../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md) ([contratar](../Liderazgo-y-direccion/Gestion-de-personas/contratar.md), [rotación y salidas](../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md)); el recorrido registra lo que esas decisiones dejan. Termina cuando la liquidación final está pagada, las cargas del último período están declaradas y el legajo está cerrado con fecha y motivo. APQC lo nombra entre sus procesos de punta a punta, «cross-functional processes that comprise all the steps to accomplish a specific outcome or goal». Cruza [Administración de personal y nómina](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md), dueña de cada paso, [Contabilidad](../Contabilidad/contabilidad.md), [Tesorería](../Tesoreria/tesoreria.md) e [Impuestos](../Impuestos/impuestos.md), y deja sus asientos en [del registro al balance](del-registro-al-balance.md).
 
 APQC 7.4: 7.2.1 «Manage employee requisitions», 7.2.4 «Manage new hire/re-hire», 7.3.1 «Manage employee orientation and deployment», 7.5.2 «Manage and administer benefits», 7.5.4 «Administer payroll», 7.6.1 «Manage promotion and demotion process», 7.6.2 «Manage separation», 7.6.3 «Manage retirement», 7.6.4 «Manage leave of absence», 7.7.3 «Manage and maintain employee data», 9.5.1 «Report time», 9.5.2 «Manage pay» y 9.5.3 «Manage and process payroll taxes».
 
 ## Entrar, cobrar cada período y salir
 
-El recorrido tiene tres tramos. Entrar y salir pasan una vez; el ciclo del medio se repite en cada período de liquidación, y cada vuelta deja un asiento, un pago y una declaración.
+El recorrido tiene tres tramos. Entrar y salir pasan una vez. El ciclo del medio se repite en cada período de liquidación, y cada vuelta deja un asiento, un pago y una declaración.
 
 ```mermaid
 flowchart LR
@@ -73,16 +73,16 @@ Cada traspaso es un dato que tiene que coincidir del otro lado. La columna de qu
 
 ## Dónde se traba el recorrido
 
-- **La novedad llega tarde.** La mayoría de los errores de nómina nace en un dato de entrada, no en el cálculo ([Fundamentos](../Administracion-de-personal-y-nomina/Fundamentos/fundamentos-de-administracion-de-personal.md), con los casos de Queensland Health y Phoenix).
+- **La novedad llega tarde.** Como criterio de la base, conviene buscar un error de nómina primero en los datos de entrada y después en el cálculo ([entrada del tema](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md); [Fundamentos](../Administracion-de-personal-y-nomina/Fundamentos/fundamentos-de-administracion-de-personal.md) reúne los casos de Queensland Health y Phoenix).
 - **La persona empieza antes del alta.** Trabaja sin registrar y su primer recibo sale con una fecha de ingreso que no coincide con la declarada ([cómo fallan el alta y la baja](../Administracion-de-personal-y-nomina/Legajo/ingreso-y-egreso.md#cómo-fallan-el-alta-y-la-baja)).
 - **La baja no llega a la nómina.** La persona sigue en el lote del mes siguiente, o se la da de baja ante la seguridad social antes de liquidarle lo que se le debe (mismo lugar). Del lado contable, la guía de cierre del Departamento de Justicia de EE. UU. avisa que un asiento recurrente de sueldos puede no corresponder después de una baja.
-- **El retroactivo no vuelve a abrir las cargas.** Se paga la diferencia en el recibo y no se rectifica la declaración de los meses afectados ([cargas y declaraciones](../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/cargas-y-declaraciones.md#cómo-se-conecta-con-lo-de-alrededor); inferencia de la base).
+- **El retroactivo y las cargas ya declaradas.** Se paga la diferencia como concepto en el recibo del mes abierto ([retroactivos y reliquidaciones](../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/retroactivos-y-reliquidaciones.md#lo-que-arrastra-un-retroactivo)); cómo se rectifica la declaración de los meses afectados no tiene fuente todavía.
 - **El asiento se carga a mano.** Si el asiento no sale del lote cerrado, el gasto y los pasivos dejan de coincidir con lo liquidado y lo declarado (inferencia de esta base).
-- **Lo retenido no se deposita.** Lo retenido al empleado es plata de terceros, y el agente responde con la suya si no lo ingresa ([agente de recaudación](../Impuestos/Recaudacion-en-la-fuente/agente-de-recaudacion.md#por-qué-una-retención-no-hecha-se-vuelve-deuda-propia)).
+- **Lo retenido no se deposita.** Lo retenido al empleado es plata de terceros. Si el agente no lo ingresa, responde con la suya ([agente de recaudación](../Impuestos/Recaudacion-en-la-fuente/agente-de-recaudacion.md#por-qué-una-retención-no-hecha-se-vuelve-deuda-propia)).
 
 ## Qué se mide del recorrido entero
 
-Las medidas de APQC salen de sus listas de medidas para comparación entre empresas, de 2012 (nómina) y 2017 (búsquedas); la base no leyó sus valores de referencia.
+Las medidas de APQC salen de sus listas para comparar empresas, de 2012 (nómina) y 2017 (búsquedas). La base no leyó sus valores de referencia.
 
 | Medida | Definición | Fuente |
 |---|---|---|
@@ -90,7 +90,7 @@ Las medidas de APQC salen de sus listas de medidas para comparación entre empre
 | Exactitud de la liquidación | Pagos con error sobre el total de pagos de nómina, en porcentaje (APQC 101739); se mira junto con el porcentaje de pagos que llevan un retroactivo (102383) | APQC |
 | Costo por recibo | Costo total del proceso de nómina por pago emitido (APQC 103948) o por empleado pagado (103950) | APQC |
 | Plazo de la liquidación final | Días hábiles desde la fecha de egreso hasta que la liquidación final está pagada, comparados con el plazo legal | definición de esta base; lo más cercano en APQC son los días para sacar de la nómina a quien se fue (100546) |
-| Del corte al pago | Días hábiles desde el corte de novedades hasta el pago (APQC 100532 y 100536 sumadas) | APQC |
+| Del corte al pago | Días hábiles desde el corte de novedades hasta el pago (suma de las medidas APQC 100532 y 100536; la suma es criterio de la base) | APQC |
 
 La OIT pide la liquidación final «within a reasonable period of time» y deja los días a cada país ([liquidación final](../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-final.md#el-plazo-para-pagarla)).
 
@@ -98,17 +98,17 @@ La OIT pide la liquidación final «within a reasonable period of time» y deja 
 
 ### Personal por hora o por turnos
 
-El período se acorta (semana o quincena) y la asistencia pesa más que el legajo: cada marcación y cada hora extra cambia el recibo. El detalle está en [jornada y turnos](../Administracion-de-personal-y-nomina/Tiempo-y-asistencia/jornada-y-turnos.md), [registro de asistencia](../Administracion-de-personal-y-nomina/Tiempo-y-asistencia/registro-de-asistencia.md) y [frecuencias y período de liquidación](../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md#frecuencias-y-período-de-liquidación).
+El período se acorta a la semana o la quincena, y la asistencia pesa más que el legajo: cada marcación y cada hora extra cambia el recibo. El detalle está en [jornada y turnos](../Administracion-de-personal-y-nomina/Tiempo-y-asistencia/jornada-y-turnos.md), [registro de asistencia](../Administracion-de-personal-y-nomina/Tiempo-y-asistencia/registro-de-asistencia.md) y [frecuencias y período de liquidación](../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md#frecuencias-y-período-de-liquidación).
 
 ### Personal de una agencia o de un tercero
 
-Quien trabaja por una agencia está en la nómina de la agencia; la empresa recibe una factura, y el recorrido pasa a ser [de la compra al pago](de-la-compra-al-pago.md).
+Quien trabaja por una agencia está en la nómina de la agencia. La empresa recibe una factura, y el recorrido pasa a ser [de la compra al pago](de-la-compra-al-pago.md).
 
 > [!NOTE]
 > Sin fuente todavía: la contratación por agencia o empresa de servicios eventuales, con lo que la empresa usuaria tiene que controlar del empleador.
 
 ### Contratista independiente
 
-No entra al legajo ni a la nómina: factura y cobra como un proveedor, por [de la compra al pago](de-la-compra-al-pago.md). Si es independiente o empleado lo decide la realidad del vínculo, no el nombre del contrato ([modalidades de contratación](../Administracion-de-personal-y-nomina/Legajo/modalidades-de-contratacion.md#empleado-o-independiente-lo-decide-la-realidad-del-vínculo)).
+No entra al legajo ni a la nómina. Factura y cobra como un proveedor, por [de la compra al pago](de-la-compra-al-pago.md). Si es independiente o empleado lo decide la realidad del vínculo, no el nombre del contrato ([modalidades de contratación](../Administracion-de-personal-y-nomina/Legajo/modalidades-de-contratacion.md#empleado-o-independiente-lo-decide-la-realidad-del-vínculo)).
 
 Lo propio de la Argentina (alta temprana, F.931, Ganancias de cuarta categoría, cuenta sueldo, liquidación final con sus plazos y la Ley 27.802) está en [Procesos de negocio en la Argentina](procesos-de-negocio-en-argentina.md#de-la-contratación-a-la-baja).

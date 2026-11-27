@@ -1,13 +1,14 @@
 ---
 resumen: >-
-  Del pedido al cobro es el recorrido que empieza cuando la empresa acepta un pedido de venta y termina cuando el cobro está aplicado a sus facturas y conciliado con el banco. Pasa por seis dominios (Relación con clientes, Inventario, Cadena de suministro, Contabilidad, Impuestos y Tesorería), y casi todas sus fallas nacen en un traspaso entre ellos.
+  Del pedido al cobro es el recorrido que empieza cuando la empresa acepta un pedido de venta y termina cuando el cobro está aplicado a sus facturas y conciliado con el banco. Pasa por seis dominios (Relación con clientes, Inventario, Cadena de suministro, Contabilidad, Impuestos y Tesorería), y, según la lectura de la base, casi todas sus fallas nacen en un traspaso entre ellos.
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "APQC, Process Classification Framework 7.4 (agosto de 2024), 3.5.4, 4.4.3.4, 4.4.4.1, 9.2.1 a 9.2.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "APQC, Process Classification Framework 7.4 (agosto de 2024), 3.5.4, 4.1.2.4, 4.4.3.4, 4.4.4.1, 9.2.1 a 9.2.5 y 9.7.2.1: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "APQC, Open Standards Benchmarking Measure List (2013), medidas 100496, 100558 y 100581: https://www.apqc.org/sites/default/files/APQC%20Benchmarking%20Measures%20List.pdf"
-  - "APQC, OSB Measure List «Customer Credit and Invoicing» (2018), medidas 100164 y 102142: https://www.apqc.org/sites/default/files/osb/259%20-%20Customer%20Credit%20and%20Invoicing%20Measure%20List_0.pdf"
+  - "APQC, OSB Measure List «Customer Credit and Invoicing» (2018), medida 102142: https://www.apqc.org/sites/default/files/osb/259%20-%20Customer%20Credit%20and%20Invoicing%20Measure%20List_0.pdf"
   - "APQC, OSB Measure List «Accounts Receivable» (2012), medidas 102155 y 102463: https://www.apqc.org/sites/default/files/files/OSB/measureLists/20120812/Measures%20List%20-%20Accounts%20Receivable.pdf"
+  - "APQC, medida «Cycle time in days to perform the order-to-cash (O2C) processes» (según el resumen del buscador): https://www.apqc.org/what-we-do/benchmarking/open-standards-benchmarking/measures/cycle-time-days-perform-order-cash-o2c"
   - "APQC, «What is the order-to-cash process» (según el resumen del buscador): https://www.apqc.org/blog/what-order-cash-process"
   - "Romney y Steinbart, Accounting Information Systems, cap. 12 «The Revenue Cycle: Sales to Cash Collections», diapositivas de Pearson (2012): https://docs.google.com/presentation/d/1PJd1Bx3TA6fdXV6Rb7I1A62ffB9AT02d/htmlpresent"
   - "Procesos-de-negocio/.investigacion/del-pedido-al-cobro.md (informe del 2026-11-27)"
@@ -18,9 +19,9 @@ revisado:
 
 # Del pedido al cobro
 
-Del pedido al cobro es el recorrido que empieza cuando la empresa acepta un pedido de venta y termina cuando el cobro está aplicado a sus facturas y conciliado con el banco. Pasa por seis dominios (Relación con clientes, Inventario, Cadena de suministro, Contabilidad, Impuestos y Tesorería), y casi todas sus fallas nacen en un traspaso entre ellos.
+Del pedido al cobro es el recorrido que empieza cuando la empresa acepta un pedido de venta y termina cuando el cobro está aplicado a sus facturas y conciliado con el banco. Pasa por seis dominios (Relación con clientes, Inventario, Cadena de suministro, Contabilidad, Impuestos y Tesorería), y, según la lectura de la base, casi todas sus fallas nacen en un traspaso entre ellos.
 
-El recorrido arranca en el [pedido de venta](../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md) aceptado. Lo anterior no es parte de él: el método de vender y el embudo están en [Ventas](../Ventas/ventas.md), y el [interesado](../Relacion-con-clientes/Seguimiento-comercial/interesado.md), la [oportunidad](../Relacion-con-clientes/Seguimiento-comercial/oportunidad.md) y el [presupuesto](../Relacion-con-clientes/Presupuesto/presupuesto.md) están en Relación con clientes. Por eso quote-to-cash y lead-to-cash son alias de esta nota y no recorridos aparte. Termina en la conciliación; el cierre del mes que usa esos saldos es el recorrido [del registro al balance](del-registro-al-balance.md). Los libros de sistemas contables lo llaman ciclo de ingresos, con cuatro actividades: «Sales order entry», «Shipping», «Billing» y «Cash collections» (Romney y Steinbart, cap. 12).
+El recorrido arranca en el [pedido de venta](../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md) aceptado. Lo anterior no es parte de él: el método de vender y el embudo están en [Ventas](../Ventas/ventas.md), y el [interesado](../Relacion-con-clientes/Seguimiento-comercial/interesado.md), la [oportunidad](../Relacion-con-clientes/Seguimiento-comercial/oportunidad.md) y el [presupuesto](../Relacion-con-clientes/Presupuesto/presupuesto.md) están en Relación con clientes. Por eso quote-to-cash y lead-to-cash son otros nombres de este mismo recorrido. Termina en la conciliación; el cierre del mes que usa esos saldos es el recorrido [del registro al balance](del-registro-al-balance.md). Los libros de sistemas contables lo llaman ciclo de ingresos, con cuatro actividades: «Sales order entry», «Shipping», «Billing» y «Cash collections» (Romney y Steinbart, cap. 12).
 
 APQC 7.4 no tiene una categoría que lo contenga: lo arma con 3.5.4 «Manage sales orders», 4.1.2.4 «Determine available to promise», 9.2.1 «Process customer credit», 4.4.3.4 «Pick, pack, and ship product for delivery», 4.4.4.1 «Plan, transport, and deliver outbound product», 9.2.2 «Invoice customer», 9.2.3 «Process accounts receivable (AR)», 9.2.4 «Manage and process collections», 9.2.5 «Manage and process adjustments/deductions» y 9.7.2.1 «Manage and reconcile cash positions».
 
@@ -78,7 +79,7 @@ El orden de los pasos 5 y 6 depende de la política: se factura lo entregado o l
 
 ## Qué pasa de mano en cada traspaso
 
-Cada traspaso entrega un documento que el dominio siguiente toma como verdad. Casi todos los controles que Romney y Steinbart proponen para el ciclo de ingresos comparan los documentos de un traspaso, como «Reconciliation of shipping documents with sales orders, picking lists, and packing slips» o «Periodic reconciliation of invoices with sales orders, picking tickets, and shipping documents».
+Cada traspaso entrega un documento que el dominio siguiente toma como verdad. Varios de los controles que Romney y Steinbart proponen para el ciclo de ingresos comparan los documentos de un traspaso (la agrupación es de la base), como «Reconciliation of shipping documents with sales orders, picking lists, and packing slips» o «Periodic reconciliation of invoices with sales orders, picking tickets, and shipping documents». La tabla es lectura de la base sobre las notas de cada dominio.
 
 | Traspaso | Qué tiene que coincidir | Quién decide si no coincide |
 |---|---|---|
@@ -105,7 +106,7 @@ Romney y Steinbart listan, entre otras, estas amenazas: «Uncollectible accounts
 
 Las medidas de un dominio se enlazan: el [pedido perfecto](../Cadena-de-suministro-y-logistica/Despacho-y-entrega/nivel-de-servicio-logistico.md#otif-pedido-perfecto-y-tasa-de-cumplimiento-de-la-entrega) y el OTIF son de Cadena, y el [DSO, el DSO mejor posible y el índice de eficacia de cobranza](../Tesoreria/Credito-y-cobranzas/gestion-de-la-cobranza.md#dso-dso-mejor-posible-y-días-de-atraso) son de Tesorería. El pedido perfecto ya cruza dominios: según el fragmento de APQC que cita esa nota, su encuesta suma la factura correcta. El DSO es el tramo de días de cobro del [ciclo de conversión del efectivo](../Tesoreria/Caja-y-liquidez/capital-de-trabajo.md#el-ciclo-de-conversión-del-efectivo).
 
-Lo que mide el recorrido entero es su tiempo, partido en tramos para ver dónde se va:
+El recorrido entero se mide por su tiempo, partido en tramos para ver dónde se pierde:
 
 | Medida | Definición | Fuente |
 |---|---|---|
@@ -124,7 +125,7 @@ Los tres tramos de tiempo, el del medio con su signo (la factura puede salir ant
 
 ### Venta minorista: cobrar antes o al entregar
 
-El control de crédito desaparece y el cobro pasa adelante: el cliente paga en el [checkout](../Comercio-electronico/Checkout-y-conversion/checkout-y-conversion.md) o en la caja, y lo que queda por cobrar se le debe a quien procesa el pago ([pagos](../Comercio-electronico/Pagos/pagos.md)). El riesgo ya no es la mora sino el [contracargo](../Comercio-electronico/Pagos/fraude-y-contracargos.md). Si se cobra antes de entregar, hay un anticipo y el ingreso espera a la entrega ([cobrar antes de entregar](../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md#cobrar-antes-de-entregar-anticipos-e-ingresos-diferidos)).
+El control de crédito desaparece y el cobro pasa adelante: el cliente paga en el [checkout](../Comercio-electronico/Checkout-y-conversion/checkout-y-conversion.md) o en la caja, y lo que queda por cobrar se le debe a quien procesa el pago ([pagos](../Comercio-electronico/Pagos/pagos.md)). El riesgo pasa de la mora al [contracargo](../Comercio-electronico/Pagos/fraude-y-contracargos.md). Si se cobra antes de entregar, hay un anticipo y el ingreso espera a la entrega ([cobrar antes de entregar](../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md#cobrar-antes-de-entregar-anticipos-e-ingresos-diferidos)).
 
 ### Mayorista con cuenta corriente
 

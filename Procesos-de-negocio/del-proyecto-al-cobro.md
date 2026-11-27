@@ -4,8 +4,8 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "APQC, Process Classification Framework, Cross Industry 7.4 (agosto de 2024), 5.3.1, 5.3.2, 5.3.3, 9.5.1, 9.2.2, 9.2.3, 9.2.4 y 9.1.4.1: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
-  - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos 18, 35, 105, 108 y B16: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
+  - "APQC, Process Classification Framework, Cross Industry 7.4 (agosto de 2024), 5.2.2, 5.3.1, 5.3.2, 5.3.3, 9.5.1, 9.6.2, 9.2.2, 9.2.3, 9.2.4 y 9.1.4.1: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos 18, 35, 105 y B16: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
   - "SPI Research, Professional Services Benchmarks (página del PS Maturity Benchmark 2026): https://spiresearch.com/professional-services-benchmarks/"
   - "Kreston Reeves, Lock-up management in legal firms (2026): https://www.krestonreeves.com/news/lock-up-management-legal-firms/"
   - "Procesos-de-negocio/.investigacion/del-proyecto-al-cobro.md (informe del 2026-11-27)"
@@ -18,11 +18,11 @@ revisado:
 
 Del proyecto al cobro (project-to-cash) es el recorrido de una firma de servicios que va del presupuesto aceptado o el contrato firmado al cobro aplicado: abre el proyecto, asigna personas, registra y aprueba horas y gastos, factura por hora, hito o abono, reconoce el ingreso, cobra y cierra el proyecto con su margen.
 
-Empieza cuando el cliente acepta el [presupuesto](../Relacion-con-clientes/Presupuesto/presupuesto.md) o firma el contrato, que son de [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md); lo de antes es el embudo de [Ventas](../Ventas/ventas.md). Termina cuando el último cobro está aplicado y el proyecto, cerrado con su margen. Es la versión de servicios [del pedido al cobro](del-pedido-al-cobro.md): en lugar de mercadería que sale del depósito, lo que se vende son horas de personas, que no se pueden guardar. Cruza [Servicios profesionales y proyectos](../Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md), [Administración de personal](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md), [Contabilidad](../Contabilidad/contabilidad.md) y [Tesorería](../Tesoreria/tesoreria.md).
+Empieza cuando el cliente acepta el [presupuesto](../Relacion-con-clientes/Presupuesto/presupuesto.md) o firma el contrato, que son de [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md); lo de antes es el embudo de [Ventas](../Ventas/ventas.md). Termina con el último cobro aplicado y el proyecto cerrado con su margen. Es la versión de servicios [del pedido al cobro](del-pedido-al-cobro.md): vende horas de personas, que no se pueden guardar, en lugar de mercadería que sale del depósito. Cruza [Servicios profesionales y proyectos](../Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md), [Administración de personal](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md), [Contabilidad](../Contabilidad/contabilidad.md) y [Tesorería](../Tesoreria/tesoreria.md).
 
 Piezas del PCF 7.4 de APQC: 5.2.2 «Create and manage resource plan», 5.3.1 «Initiate service delivery», 5.3.2 «Execute service delivery», 5.3.3 «Complete service delivery», 9.5.1 «Report time», 9.6.2 «Process expense reimbursements», 9.2.2 «Invoice customer», 9.2.3 «Process accounts receivable (AR)», 9.2.4 «Manage and process collections» y 9.1.4.1 «Assess customer and product profitability».
 
-APQC publica mapas de punta a punta como order-to-cash, pero no uno de proyectos; los nombres project-to-cash y contract-to-cash vienen de los proveedores de software de servicios. En el PCF, la hora es parte de «Process payroll» (9.5): APQC no separa la hora que se le paga a la persona de la que se le cobra al cliente. Esta base sí las separa, y ese corte es uno de los traspasos del recorrido.
+APQC publica mapas de punta a punta como order-to-cash; no se encontró uno de proyectos, y los nombres project-to-cash y contract-to-cash vienen de los proveedores de software de servicios. En el PCF, «Report time» (9.5.1) está dentro de «Process payroll» (9.5) y no hay un proceso propio para la hora imputada a un proyecto. Esta base sí separa la hora que se le paga a la persona de la que se le cobra al cliente, y ese corte es uno de los traspasos del recorrido.
 
 ## Los diez pasos, del sí del cliente al margen
 
@@ -103,11 +103,11 @@ Dos traspasos piden cuidado. La hora imputada no es la de [asistencia](../Admini
 | Horas sin facturar | Valor de las horas aprobadas que todavía no están en una factura | abajo |
 | Horas cargadas tarde | Parte de las horas cargadas después del cierre del período | abajo |
 
-Los días de la hora al cobro son la medida del recorrido entero. Según una firma contable británica, el *lock-up* mide «the time taken to convert work done into cash received» y suma los días de trabajo en curso y los de deudores. Es práctica de estudios del Reino Unido y tiene una sola fuente; si no se mide así, se miran juntos los días de trabajo en curso y el DSO.
+Los días de la hora al cobro son la medida del recorrido entero. Según una firma contable británica, el *lock-up* mide «the time taken to convert work done into cash received» y suma los días de trabajo en curso y los de deudores. Es práctica de estudios del Reino Unido y tiene una sola fuente. Donde no se mide así, se leen juntos los días de trabajo en curso y el DSO.
 
 Las dos últimas son criterio de la base, sin definición publicada. **Horas sin facturar**: al cierre de cada mes, el valor a tarifa de las horas aprobadas en líneas por hora que no entraron en ninguna factura; separa lo que falta facturar de lo que el contrato todavía no deja facturar. **Horas cargadas tarde**: las horas imputadas con fecha de carga posterior al cierre de su período, sobre el total del período; anticipa los dos problemas de arriba, el dato reconstruido de memoria y la factura incompleta.
 
-> [!NOTE] Sin fuente todavía: valores de referencia de los días de la hora al cobro, de las horas sin facturar y de las horas cargadas tarde. La página del benchmark de SPI Research no publica ninguna de las tres, y su informe completo es pago.
+> [!NOTE] Sin fuente todavía: valores de referencia de los días de la hora al cobro, de las horas sin facturar y de las horas cargadas tarde. La página del benchmark de SPI Research no publica valores de referencia del lock-up, y no se encontró ninguno de las otras dos; su informe completo es pago.
 
 ## Variantes del recorrido
 

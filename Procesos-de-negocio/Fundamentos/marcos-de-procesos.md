@@ -25,17 +25,17 @@ Es parte de los [fundamentos de procesos de negocio](fundamentos-de-procesos-de-
 
 ## Clasificar por función o recorrer hasta un resultado
 
-El PCF clasifica: no ordena. Sus reglas lo dicen sin vueltas: «The PCF reflects a functional view of an organization, rather than a cross-functional view». Arranca por las grandes funciones y las descompone siguiendo el principio MECE, mutuamente excluyentes y colectivamente exhaustivas: las categorías «should collectively describe all of the work done at an organization and should not overlap each other».
+El PCF clasifica y no ordena. Sus reglas lo dicen: «The PCF reflects a functional view of an organization, rather than a cross-functional view». La portada del PCF 7.4 lo llama, en cambio, «taxonomy of cross-functional business processes». Por lectura de la base, la estructura es funcional y «cross-functional» describe el alcance, toda la empresa. Arranca por las grandes funciones y las descompone siguiendo el principio MECE, mutuamente excluyentes y colectivamente exhaustivas: las categorías «should collectively describe all of the work done at an organization and should not overlap each other».
 
-El orden queda afuera a propósito. El marco quiere juntar «the complete collection of what happens at each part of the organization, not the order in which these things happen or the dependency between these elements». Por eso «the order of process elements within a hierarchy does not imply execution order». Que 3.5.4 venga antes de 4.4.3 no dice que el pedido vaya antes de la preparación.
+El marco deja el orden afuera a propósito. Quiere juntar «the complete collection of what happens at each part of the organization, not the order in which these things happen or the dependency between these elements». Por eso «the order of process elements within a hierarchy does not imply execution order». Que 3.5.4 venga antes de 4.4.3 no dice que el pedido vaya antes de la preparación.
 
-El proceso de punta a punta es lo que el marco no da. APQC lo define como «cross-functional processes that comprise all the steps to accomplish a specific outcome or goal», con order-to-cash, hire-to-retire e idea-to-market de ejemplo. Para armarlo, usa el PCF como «ingredient list»: order-to-cash toma 3.5.4.1, aceptar y validar el pedido, y 3.5.4.3, ver la disponibilidad, y sigue con piezas de las categorías 4.0 y 9.0. Ordenar esas piezas, decir qué documento pasa entre ellas y medir el recorrido entero es el trabajo de este tema.
+El proceso de punta a punta es lo que el marco no da. APQC lo define como «cross-functional processes that comprise all the steps to accomplish a specific outcome or goal», con order-to-cash, hire-to-retire e idea-to-market de ejemplo. Para armarlo usa el PCF como «ingredient list»: order-to-cash toma 3.5.4.1, aceptar y validar el pedido, y 3.5.4.3, ver la disponibilidad, y sigue con piezas de las categorías 4.0 y 9.0. Ordenar esas piezas, decir qué documento pasa entre ellas y medir el recorrido entero es el trabajo de este tema.
 
-APQC publica mapas de punta a punta para socios, entre ellos procure-to-pay, order-to-cash, record-to-report, hire-to-retire e issue-to-resolution; no se encontraron del proyecto al cobro, de la planificación a la producción ni de la compra a la baja del activo. Ninguno se leyó, así que la selección de piezas de la tabla de abajo es de esta base.
+APQC publica una colección de mapas y medidas de punta a punta (según el buscador, entre ellos procure-to-pay y S&OP; la investigación previa de la base lista además record-to-report, order-to-cash, hire-to-retire e issue-to-resolution, sin comprobarlo). No se encontraron del proyecto al cobro, de la planificación a la producción ni de la compra a la baja del activo. Ninguno se leyó, así que la selección de piezas de la tabla de abajo es de esta base.
 
 ## Las trece categorías del PCF 7.4
 
-El PCF tiene 13 categorías de nivel 1, seis operativas y siete de gestión y soporte, con «more than 1,000 processes and associated activities». Existe desde 1992.
+El PCF tiene 13 categorías de nivel 1, seis operativas y siete de gestión y soporte, con «more than 1,000 processes and associated activities». El PCF existe desde 1992.
 
 | Código | Categoría | Grupo |
 |---|---|---|
@@ -57,9 +57,9 @@ Los nombres cambian entre versiones. En el índice de la 7.4, 5.0 es «Deliver S
 
 ## Cómo se numera y qué versión se leyó
 
-Cada categoría baja cuatro niveles más: grupo de procesos (nivel 2, como 9.2), proceso (nivel 3, como 9.2.3), actividad (nivel 4, como 9.2.3.3) y tarea (nivel 5). Cada elemento tiene dos números. El jerárquico sirve para ubicarlo y cambia con cada versión: «The numbers are specific to a particular release and are not comparable across version numbers». El de cinco dígitos, como el 10185 de 3.5.4 «Manage sales orders», sigue al concepto entre versiones.
+Cada categoría baja cuatro niveles más: grupo de procesos (nivel 2, como 9.2), proceso (nivel 3, como 9.2.3), actividad (nivel 4, como 9.2.3.3) y tarea (nivel 5). Cada elemento tiene dos números. El jerárquico lo ubica y cambia con cada versión: «The numbers are specific to a particular release and are not comparable across version numbers». El de cinco dígitos, como el 10185 de 3.5.4 «Manage sales orders», sigue al concepto entre versiones.
 
-Esta base leyó entera la versión 7.4, de agosto de 2024, en la copia que publica la Federación Internacional de la Cruz Roja. APQC publicó la 8.0 el 27 de febrero de 2026, según el buscador; no se pudo leer, y los números de abajo pueden haber cambiado. Algunos temas de la base citan la 7.2.1: sus números no se comparan con los de la 7.4. Un sistema que guarde códigos APQC tiene que guardar la versión y el identificador de cinco dígitos (inferencia de esta base).
+Esta base leyó entera la versión 7.4, de agosto de 2024, en la copia que publica la Federación Internacional de la Cruz Roja. Según el buscador, APQC publicó la 8.0 el 27 de febrero de 2026. No se pudo leer, y los números de abajo pueden haber cambiado. Algunos temas de la base citan la 7.2.1, y sus números no se comparan con los de la 7.4. Un sistema que guarde códigos APQC tiene que guardar la versión y el identificador de cinco dígitos (inferencia de esta base).
 
 ## Los códigos de los ocho recorridos
 
@@ -92,7 +92,7 @@ Cada uno de estos marcos corta un dominio con más detalle que el PCF y se expli
 
 ### eTOM, el marco de una industria
 
-El eTOM, o Business Process Framework, es el marco de procesos de las telecomunicaciones, y en esta base no tiene tema. Lo mantiene TM Forum, una asociación de proveedores de servicios de telecomunicaciones y entretenimiento, y la UIT lo publicó como la serie M.3050. Según el resumen de la M.3050.1, de 2007, «describes the enterprise processes required by a service provider» y es «a reference framework for categorizing the business activities that a service provider will use».
+El eTOM, o Business Process Framework, es el marco de procesos de las telecomunicaciones, y en esta base no tiene tema. Lo mantiene TM Forum, una asociación de proveedores de servicios y de sus proveedores en las industrias de telecomunicaciones y entretenimiento, y la UIT lo publicó como la serie M.3050. Según el resumen de la M.3050.1, de 2007, «describes the enterprise processes required by a service provider» y es «a reference framework for categorizing the business activities that a service provider will use».
 
 Según Wikipedia, tiene tres áreas («Strategy, Infrastructure & Product», «Operations» y «Enterprise Management»), y en Operations cruza filas por objeto (cliente, servicio, recurso, proveedor) con columnas por resultado: «Operations Support & Readiness, Fulfillment, Assurance and Billing». Esas columnas se parecen más a recorridos que las categorías del PCF (lectura de esta base; el texto de TM Forum da 403). APQC prevé el caso con versiones de industria del PCF para lo que es «materially different or absent» en el general.
 
@@ -106,4 +106,4 @@ El marco sirve para tres cosas, todas lectura de esta base sobre las reglas de A
 
 Tiene dos límites que importan para un sistema. No dice el orden ni las dependencias entre pasos, que es lo que un sistema tiene que validar. Y no dice qué se registra: ningún elemento nombra el documento que deja ni los datos que lleva, que vienen del dominio. Además, cada marco reparte distinto: en el PCF el crédito y la cobranza son contabilidad de ingresos (9.2) y no tesorería (9.7), y la nómina aparece dos veces (7.5.4 y 9.5).
 
-> [!NOTE] Sin fuente todavía: el PCF 8.0 y los mapas de punta a punta de APQC (solo para socios), para cotejar los códigos de la tabla; el texto de TM Forum sobre el eTOM.
+> [!NOTE] Sin fuente todavía: el PCF 8.0 y los mapas de punta a punta de APQC (el acceso no se pudo comprobar: la página responde 403), para cotejar los códigos de la tabla; el texto de TM Forum sobre el eTOM.

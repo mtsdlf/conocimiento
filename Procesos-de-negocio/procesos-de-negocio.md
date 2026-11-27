@@ -19,11 +19,11 @@ Un proceso de negocio de punta a punta es una cadena de pasos que cruza varios d
 
 Los otros doce temas del área «Gestión de la empresa» cortan la empresa por dominio: cada uno es dueño de un objeto y un verbo, como el pedido de venta en [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) o la cuenta a pagar en [Contabilidad](../Contabilidad/contabilidad.md). Este tema corta en la otra dirección. No es dueño de ningún documento: es dueño del orden de los pasos, de los traspasos (qué documento cambia de mano y qué tiene que coincidir) y de las medidas que solo tienen sentido para el recorrido entero, como el tiempo del pedido al cobro o los días de cierre. Por eso casi cada oración de una nota de proceso enlaza a una nota de dominio. Los límites con cada tema están en el [alcance](ALCANCE.md).
 
-Los dos cortes existen afuera. APQC clasifica todo lo que hace una empresa por función en su Process Classification Framework, que según sus reglas no implica orden, y arma aparte los procesos de punta a punta tomando piezas de varias categorías. Los libros de sistemas de información contable agrupan las mismas operaciones en ciclos de transacciones: ingresos, egresos, producción, personal y nómina, y mayor general e informes. Cómo se relacionan los marcos con los recorridos está en [marcos de procesos](Fundamentos/marcos-de-procesos.md), y de dónde viene la mirada por procesos, en [fundamentos](Fundamentos/fundamentos-de-procesos-de-negocio.md).
+Los dos cortes existen afuera. APQC clasifica todo lo que hace una empresa por función en su Process Classification Framework, que según sus reglas no implica orden, y arma aparte los procesos de punta a punta tomando piezas de varias categorías. Los libros de sistemas de información contable agrupan las mismas operaciones en ciclos de transacciones: ingresos, egresos, producción, personal y nómina, y financiamiento, más el mayor general y los informes. Cómo se relacionan los marcos con los recorridos está en [marcos de procesos](Fundamentos/marcos-de-procesos.md), y de dónde viene la mirada por procesos, en [fundamentos](Fundamentos/fundamentos-de-procesos-de-negocio.md).
 
 ## Los ocho recorridos y cómo se enganchan
 
-Casi todos los recorridos terminan en plata que entra o sale, y todos desembocan en el cierre. La planificación a la producción dispara compras; el reclamo vuelve sobre una venta; el proyecto usa las horas que también paga la nómina.
+Casi todos los recorridos terminan en plata que entra o sale, y todos desembocan en el cierre. La planificación a la producción propone compras; el reclamo vuelve sobre una venta; el proyecto usa las horas que también paga la nómina.
 
 ```mermaid
 flowchart LR
@@ -77,11 +77,11 @@ Lo propio de la Argentina (la factura electrónica, las percepciones y retencion
 | Del registro al balance | Contabilidad, Tesorería, Impuestos, Datos, y el cierre de todos los demás |
 | De la planificación a la producción | Cadena de suministro, Producción, Compras, Inventario, Contabilidad |
 | De la contratación a la baja | Administración de personal y nómina, Contabilidad, Tesorería, Impuestos |
-| Del reclamo a la resolución | Servicio al cliente, Relación con clientes, Inventario, Contabilidad, y según el caso Cadena, Producción o Activos |
+| Del reclamo a la resolución | Servicio al cliente, Relación con clientes, Inventario, Contabilidad, y según la solución Cadena, Producción, Activos, Impuestos (la nota de crédito) o Tesorería (el reembolso) |
 | Del proyecto al cobro | Servicios profesionales y proyectos, Administración de personal, Contabilidad, Tesorería |
 | De la compra a la baja del activo | Activos y mantenimiento, Compras, Contabilidad |
 
-La lista sale de la decisión que fijó los ocho recorridos; cada nota dice en qué paso entra cada dominio.
+La lista sale de la [decisión que fijó los ocho recorridos](https://github.com/mtsdlf/conocimiento/issues/99); cada nota dice en qué paso entra cada dominio.
 
 ## Ideas que cruzan todo el tema
 

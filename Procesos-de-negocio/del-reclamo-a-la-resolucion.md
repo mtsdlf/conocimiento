@@ -4,7 +4,7 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.3.3.5, 4.4.2.4, 4.4.2.5, 6.2.3, 6.2.4, 6.3.2, 6.3.4, 6.5.4, 9.2.2.5 y 9.2.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.3.3.5, 4.4.2.4, 4.4.2.5, 6.2.2, 6.2.3, 6.2.4, 6.3.2, 6.3.4, 6.5.2, 9.2.2.5 y 9.2.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "APQC, Open Standards Benchmarking Measure List (2013), medidas 101913, 103155, 104208 y 104217: https://www.apqc.org/sites/default/files/APQC%20Benchmarking%20Measures%20List.pdf"
   - "APQC, End-to-End Process Map and Measures: Issue-to-Resolution (según el resumen del buscador): https://www.apqc.org/resource-library/resource-listing/end-end-process-map-and-measures-issue-resolution"
   - "Romney y Steinbart, Accounting Information Systems, cap. 12 «The Revenue Cycle: Sales to Cash Collections», diapositivas de Pearson (2012), controles de la nota de crédito: https://docs.google.com/presentation/d/1PJd1Bx3TA6fdXV6Rb7I1A62ffB9AT02d/htmlpresent"
@@ -76,7 +76,7 @@ No todos los pasos ocurren en cada reclamo: uno por mala atención va del 3 al 1
 
 ## Qué vuelve al caso en cada traspaso
 
-El caso decide y los demás dominios ejecutan, y el caso queda como el registro que une sus documentos ([dónde termina el caso](../Servicio-al-cliente/Caso/garantia-y-reparacion.md#dónde-termina-el-caso-y-empieza-el-vecino)). Para cerrarlo, cada documento tiene que volver.
+El caso decide, los demás dominios ejecutan y el caso guarda el registro que une sus documentos ([dónde termina el caso](../Servicio-al-cliente/Caso/garantia-y-reparacion.md#dónde-termina-el-caso-y-empieza-el-vecino)). Para cerrarlo, cada documento tiene que volver. La tabla es lectura de la base sobre las notas de cada dominio.
 
 | Traspaso | Qué tiene que coincidir | Quién decide |
 |---|---|---|
@@ -91,10 +91,10 @@ Del lado contable, Romney y Steinbart listan la amenaza «Inaccurate or invalid 
 
 ## Dónde se traba el recorrido
 
-Estas fallas nacen en un traspaso. Salvo la de la nota de crédito, que es la amenaza de Romney y Steinbart, son lectura de las notas enlazadas o de esta base:
+Estas fallas nacen en un traspaso. La de la nota de crédito parte de la amenaza «Inaccurate or invalid credit memos» de Romney y Steinbart; todas son lectura de las notas enlazadas o de esta base:
 
 - **El caso se cierra al derivar.** Se da por resuelto al autorizar la devolución o al mandar al técnico, y nadie sigue si llegó el producto, si se reparó o si se acreditó la plata ([garantía y reparación](../Servicio-al-cliente/Caso/garantia-y-reparacion.md), [derivación al técnico](../Servicio-al-cliente/Escalamiento/derivacion-al-tecnico.md)). Si falla, el cliente vuelve como caso nuevo y la reapertura no se cuenta.
-- **La nota de crédito sin devolución.** Se acredita lo que nunca volvió, o se acredita dos veces.
+- **La nota de crédito sin devolución.** Se acredita lo que nunca volvió, o se acredita dos veces (lectura de la base: el control de Romney y Steinbart pide bloquear la nota sin constancia de devolución o autorización).
 - **La devolución sin nota de crédito.** El producto volvió y el cliente sigue debiendo; al pagar, descuenta la devolución por su cuenta y aparece una [deducción](../Tesoreria/Credito-y-cobranzas/gestion-de-la-cobranza.md#disputas-y-deducciones) en la cobranza.
 - **Lo devuelto vuelve a disponible sin inspección.** El reingreso al stock saltea la cuarentena y la unidad fallada se vuelve a vender.
 - **El defecto no llega a Producción.** El caso se cierra con un cambio y la no conformidad no se abre, así que la misma falla vuelve en el próximo lote.
@@ -111,9 +111,9 @@ La [resolución al primer contacto](../Servicio-al-cliente/Calidad-del-servicio/
 | Costo de la garantía | «Warranty costs (repair and replacement) as a percentage of sales»; según el resumen de la página de la medida, suma mano de obra, materiales y diagnóstico de lo devuelto | APQC 104217 |
 | Acciones correctivas a tiempo | «Percentage of corrective actions for customer complaints that are completed within 15 days» | APQC 101913 |
 
-El tiempo de punta a punta se separa del tiempo del acuerdo a propósito, y esa lectura es de la base. El reloj del acuerdo se pausa mientras se espera al cliente y puede darse por cumplido cuando el equipo marca el caso resuelto, aunque el cliente siga esperando su plata o su equipo. Si los dos números se alejan, el atraso está en un traspaso.
+Esta base separa a propósito el tiempo de punta a punta del tiempo del acuerdo. El reloj del acuerdo se pausa mientras se espera al cliente y puede darse por cumplido cuando el equipo marca el caso resuelto, aunque el cliente siga esperando su plata o su equipo. Si los dos números se alejan, el atraso está en un traspaso.
 
-> [!NOTE] Sin fuente todavía: el mapa y las medidas Issue-to-Resolution de APQC (solo para socios) y valores de referencia del costo de la garantía con su método.
+> [!NOTE] Sin fuente todavía: el mapa y las medidas Issue-to-Resolution de APQC (el acceso no se pudo comprobar: la página responde 403) y valores de referencia del costo de la garantía con su método.
 
 ## Variantes del recorrido
 
