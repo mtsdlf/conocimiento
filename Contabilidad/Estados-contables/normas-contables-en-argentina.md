@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, las normas contables las elabora la FACPCE en resoluciones técnicas que cada consejo profesional aprueba en su jurisdicción; la RT 54 las unificó para la mayoría de las empresas, las que cotizan aplican las NIIF por exigencia de la CNV y desde 2018 los estados se ajustan por inflación.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - "FACPCE, Montos de los ingresos para la determinación de entidad pequeña y mediana, Res. JG 608/22 actualizada (agosto de 2026): https://www.facpce.org.ar/wp-content/uploads/2026/09/Indice-y-actualizacion-ingresos-RT54-2026-08.pdf"
@@ -18,17 +18,20 @@ fuentes:
   - "IFRS Foundation, NIC 29 (página, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/ias-29-financial-reporting-in-hyperinflationary-economies/"
   - "Boletín Oficial, Ley 27.468 (4 de diciembre de 2018, leída el 2026-11-27): https://www.boletinoficial.gob.ar/detalleAviso/primera/197153/20181204"
   - "ARCA, Biblioteca electrónica, Ley 27.468 y Decreto 664/2003 (leídos el 2026-11-27): https://biblioteca.afip.gob.ar/dcp/LEY_C_027468_2018_11_15 y https://biblioteca.afip.gob.ar/dcp/DEC_C_000664_2003_03_20"
+  - "CPCECABA, Resolución C.D. 107/2018 (10 de octubre de 2018), que adopta la Res. JG FACPCE 539/18 y reproduce su Segunda Parte en el anexo (leída el 2026-11-27): https://consejo.org.ar/storage/attachments/ResolucionCD107.pdf-7tClFYvNUW.pdf"
+  - "CNV, Resolución General 777/2018 (26 de diciembre de 2018), Boletín Oficial del 28 de diciembre de 2018 (leída el 2026-11-27): https://www.boletinoficial.gob.ar/pdf/aviso/primera/199000/20181228"
   - "Contabilidad/.investigacion/estados-contables.md (2026-11-27), componente 7"
-aliases: [normas contables argentinas, normas contables profesionales, RT 54, NUA, Norma Unificada Argentina de Contabilidad, resoluciones técnicas, FACPCE, ajuste por inflación contable, reexpresión en moneda homogénea, RT 26, RG CNV 562/09, entidad pequeña, entidad mediana]
+  - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md, secciones 3.3 y 3.4 (2026-11-27)"
+aliases: [normas contables argentinas, normas contables profesionales, RT 54, NUA, Norma Unificada Argentina de Contabilidad, resoluciones técnicas, FACPCE, ajuste por inflación contable, reexpresión en moneda homogénea, RT 26, RG CNV 562/09, entidad pequeña, entidad mediana, Res. JG 539/18, RG CNV 777/18]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Normas contables en Argentina
 
 En Argentina, las normas contables las elabora la FACPCE en resoluciones técnicas que cada consejo profesional aprueba en su jurisdicción; la RT 54 las unificó para la mayoría de las empresas, las que cotizan aplican las NIIF por exigencia de la CNV y desde 2018 los estados se ajustan por inflación.
 
-Es el caso argentino de las [normas contables](normas-contables.md), con las normas emitidas por un sistema profesional federal. Qué libros hay que llevar y cómo se rubrican está en [libros contables en Argentina](../Registro/libros-contables-en-argentina.md). Lo impositivo va al tema Impuestos, todavía no escrito.
+Es el caso argentino de las [normas contables](normas-contables.md), con las normas emitidas por un sistema profesional federal. Qué libros hay que llevar y cómo se rubrican está en [libros contables en Argentina](../Registro/libros-contables-en-argentina.md). Lo impositivo está en [impuestos en Argentina](../../Impuestos/impuestos-en-argentina.md).
 
 ## Quién emite y quién aprueba
 
@@ -90,18 +93,20 @@ La Comisión Nacional de Valores (CNV) exige las NIIF a las empresas que cotizan
 
 ## El ajuste por inflación
 
-Desde 2018 los estados contables se reexpresan por inflación. La FACPCE aprobó la Resolución JG 539/18 el 29 de septiembre de 2018, según un consejo profesional (el texto de la FACPCE no se pudo abrir). Se aplica a los estados anuales o intermedios cerrados desde el 1 de julio de 2018 inclusive; los cerrados hasta el 30 de junio de 2018 no se reexpresan.
+Desde 2018 los estados contables se reexpresan por inflación. La FACPCE aprobó la Resolución JG 539/18 «en la reunión realizada el 29 de septiembre de 2018 en la ciudad de San Juan». El PDF de la FACPCE no se pudo abrir; el texto se leyó en la Resolución C.D. 107/2018 del consejo de la Ciudad de Buenos Aires, del 10 de octubre de 2018, que la adopta y reproduce su Segunda Parte en el anexo. Según el punto 1.1 de ese anexo, los estados «correspondientes a ejercicios anuales o de períodos intermedios cuyo cierre haya ocurrido a partir del 01/07/2018 (inclusive) deberán reexpresarse de acuerdo con el procedimiento establecido en la RT N° 6»; los cerrados hasta el 30 de junio de 2018 no se reexpresan. El punto 2.1 dio una opción por única vez: no ajustar los estados de ejercicios anuales cerrados entre el 1 de julio y el 30 de diciembre de 2018, ni los intermedios cerrados en ese lapso.
 
-El criterio es el de la NIC 29, que considera hiperinflacionaria una economía con una inflación acumulada en tres años de alrededor del 100% o más (ver [normas contables](normas-contables.md)). La FACPCE concluyó que Argentina había superado ese umbral, según un consejo profesional. Deloitte, en su traducción, concluye que «la economía argentina debe ser considerada híper-inflacionaria» y que la NIC 29 se aplica a los períodos que terminan después del 1 de julio de 2018. Son dos fuentes independientes que coinciden en el criterio y en la fecha de partida: el consejo habla de estados cerrados desde el 1 de julio de 2018 inclusive, y Deloitte, de períodos que terminan después del 1 de julio de 2018.
+Para las empresas que cotizan, la fecha es otra. La CNV, con la Resolución General 777/2018 (del 26 de diciembre de 2018), hizo obligatoria la reexpresión para los estados financieros «anuales, por periodos intermedios y especiales que cierren a partir del 31 de diciembre de 2018 inclusive», con aplicación anticipada admitida. Para un sistema, la fecha desde la que se reexpresa depende del organismo ante el que se presentan los estados.
+
+El criterio es el de la NIC 29, que considera hiperinflacionaria una economía con una inflación acumulada en tres años de alrededor del 100% o más (ver [normas contables](normas-contables.md)). La FACPCE concluyó, según los considerandos de la 539/18, que «la tasa acumulada de inflación en los últimos 3 años supera el 100 %», medida con varias combinaciones de índices. Deloitte, en su traducción, concluye que «la economía argentina debe ser considerada híper-inflacionaria» y que la NIC 29 se aplica a los períodos que terminan después del 1 de julio de 2018. Son dos fuentes independientes que coinciden en el criterio y en la fecha de partida: el consejo habla de estados cerrados desde el 1 de julio de 2018 inclusive, y Deloitte, de períodos que terminan después del 1 de julio de 2018.
 
 El Decreto 664/03 (art. 2) instruyó a la IGJ, la CNV, la ARCA (entonces AFIP) y demás organismos de contralor a disponer que los estados contables que les presenten «deberán observar lo dispuesto por el Artículo 10 de la Ley N° 23.928», es decir, sin ajuste por inflación. La Ley 27.468 (promulgada el 3 de diciembre de 2018 por el Decreto 1092/2018 y publicada en el Boletín Oficial el 4 de diciembre) no deroga el 664/03: su artículo 6° dice «Derógase el decreto 1.269 del 16 de julio de 2002 y sus modificatorios». Su artículo 5° agrega al artículo 10 de la Ley 23.928 que «La indicada derogación no comprende a los estados contables, respecto de los cuales continuará siendo de aplicación lo dispuesto en el artículo 62 in fine de la Ley General de Sociedades 19.550», y el artículo 7° inciso c) lo hace regir «a partir de la fecha que establezcan el Poder Ejecutivo nacional a través de sus organismos de contralor y el Banco Central» para los estados que les presenten. La biblioteca electrónica de ARCA todavía marca el 664/03 como «Vigente»; no se verificó si otra norma lo dejó sin efecto.
 
-Los índices los publica la FACPCE. Según el resumen de un consejo profesional, la Res. 539/18 pasó de una serie que usaba el índice de precios internos al por mayor (IPIM) a una empalmada con el IPC Nacional del INDEC desde enero de 2017. La tabla de montos de la FACPCE de agosto de 2026 usa un índice con base en octubre de 2022, que en esa tabla llega a 1.028,706.
+Los índices los publica la FACPCE. La Res. 539/18 pasó de una serie que usaba el índice de precios internos al por mayor (IPIM) a una empalmada: según sus considerandos, «una serie que empalme el IPC Nacional desde enero de 2017, con el IPIM hasta esa fecha». Los mismos considerandos anticipan lo que le cuesta a un sistema: el ajuste «requiere esfuerzos diversos (capacitación, modificación de sistemas informáticos, búsqueda de información…)». La tabla de montos de la FACPCE de agosto de 2026 usa un índice con base en octubre de 2022, que en esa tabla llega a 1.028,706.
 
 > [!NOTE]
 > Sin fuente todavía:
 > - Dónde vive hoy el procedimiento de ajuste. Nació en la RT 6; si la RT 54 derogó la RT 6, el procedimiento pasó a la RT 54, pero la FACPCE sigue publicando índices para aplicar las dos. Hace falta el texto de la RT 54.
 > - Si la economía argentina sigue siendo hiperinflacionaria en 2026 bajo la NIC 29.
-> - El texto de las Res. JG 539/18, 553/19 y 584/21 (sus modificaciones), y un ejemplo de reexpresión con cifras: la guía de aplicación de la FACPCE sobre la RT 6 y la NIC 29 trae ejercicios, pero no se pudo abrir.
+> - El texto de las Res. JG 553/19 y 584/21 (las que modificaron la 539/18), y un ejemplo de reexpresión con cifras: la guía de aplicación de la FACPCE sobre la RT 6 y la NIC 29 trae ejercicios, pero no se pudo abrir.
 
 Para quien construye un sistema que se usa en Argentina, el ajuste pide guardar la fecha de origen de cada partida no monetaria (un bien de uso, el capital aportado), que se reexpresa con el índice de su mes de origen. Es una inferencia sobre cómo funciona un índice general de precios, no el texto de una norma.

@@ -70,7 +70,7 @@ Los cuatro pasos se repiten todo el período. Al cierre se agregan los que lleva
 9. preparar el balance posterior al cierre;
 10. optativamente, revertir algunos ajustes al comenzar el período siguiente.
 
-Los pasos 5 a 9 son de [ajustes de cierre](../Estados-contables/ajustes-de-cierre.md), y el 10 es el segundo sentido de «contraasiento» que separa [asiento y libros](asiento-y-libros.md). El cierre como recorrido entre áreas (quién entrega qué y cuándo) es un proceso del tema Procesos de negocio, todavía no escrito.
+Los pasos 5 a 9 son de [ajustes de cierre](../Estados-contables/ajustes-de-cierre.md), y el 10 es el segundo sentido de «contraasiento» que separa [asiento y libros](asiento-y-libros.md). El cierre como recorrido entre áreas (quién entrega qué y cuándo) es un proceso del tema Procesos de negocio: [del registro al balance](../../Procesos-de-negocio/del-registro-al-balance.md).
 
 ## Cómo falla un registro
 
@@ -79,7 +79,7 @@ Los pasos 5 a 9 son de [ajustes de cierre](../Estados-contables/ajustes-de-cierr
 - Un asiento que se edita o se borra. Se pierde el rastro de qué se registró y cuándo. La regla es corregir con un asiento nuevo.
 - Un plan de cuentas con un cliente por cuenta. El detalle que va en los auxiliares termina en el mayor y los estados se vuelven ilegibles.
 
-Estas cuatro fallas son inferencia de la base: ninguna fuente leída las enumera. Para quien construye un sistema, se traducen en lo que el registro tiene que impedir o hacer posible: asientos descuadrados rechazados, asientos confirmados sin edición, el auxiliar y el mayor calculados del mismo registro (inferencia de la base). Cómo se modela eso en una base de datos está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y va a estar en el tema Software de gestión.
+Estas cuatro fallas son inferencia de la base: ninguna fuente leída las enumera. Para quien construye un sistema, se traducen en lo que el registro tiene que impedir o hacer posible: asientos descuadrados rechazados, asientos confirmados sin edición, el auxiliar y el mayor calculados del mismo registro (inferencia de la base). Cómo se modela eso en una base de datos está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md), y cómo lo resuelve un producto, en [registro de movimientos y dimensiones](../../Software-de-gestion/Columnas-tecnicas/registro-de-movimientos-y-dimensiones.md).
 
 ## Lo que hay adentro del registro
 

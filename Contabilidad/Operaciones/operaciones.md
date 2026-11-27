@@ -1,9 +1,12 @@
 ---
 resumen: >-
   Las operaciones son los hechos habituales de una empresa (vender, comprar, gastar, pagar sueldos, usar una máquina, operar en otra moneda) y cada una llega al registro con un documento que dispara un asiento de forma conocida.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
+  - "Romney, Steinbart, Mula, McNamara y Tonkin, Accounting Information Systems, ed. australasiana (Pearson Australia, 2013), cap. 1, pp. 11-12: https://researchonline.jcu.edu.au/38329/11/38329_Romney_etal_2013_FrontPages.pdf"
+  - "Arens, Elder, Beasley y Hogan, Auditing and Assurance Services, 18.ª ed. (Pearson, 2023), índice: https://pearson.com/en-us/subject-catalog/p/auditing-and-assurance-services/P200000010148/9780137879267"
+  - "Procesos-de-negocio/.investigacion/fundamentos.md, sección 2 (2026-11-27)"
   - "OpenStax, Principles of Financial Accounting (2019), 6.3 compras con inventario permanente: https://openstax.org/books/principles-financial-accounting/pages/6-3-analyze-and-record-transactions-for-merchandise-purchases-using-the-perpetual-inventory-system"
   - "OpenStax, Principles of Financial Accounting (2019), 6.4 ventas con inventario permanente: https://openstax.org/books/principles-financial-accounting/pages/6-4-analyze-and-record-transactions-for-the-sale-of-merchandise-using-the-perpetual-inventory-system"
   - "OpenStax, Principles of Financial Accounting (2019), 4.2 ajustes: https://openstax.org/books/principles-financial-accounting/pages/4-2-discuss-the-adjustment-process-and-illustrate-common-types-of-adjusting-entries"
@@ -12,7 +15,7 @@ fuentes:
   - "Contabilidad/.investigacion/operaciones.md (2026-11-27)"
 aliases: [operaciones contables, ciclos contables, ciclos de transacciones, transaction cycles, sueldos, asiento de sueldos, payroll accounting]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Operaciones
@@ -23,7 +26,7 @@ Esta vertical aplica a cada caso el mecanismo de [Registro](../Registro/registro
 
 ## Los ciclos que llegan al registro
 
-El campo agrupa las operaciones en ciclos: de la venta al cobro, de la compra al pago, el inventario y su costo, los activos fijos y los sueldos. Cada ciclo lo recorren otras áreas (ventas, compras, depósito, personal); la contabilidad entra cuando aparece un documento que cambia el patrimonio. Por eso (explicación propia, sin fuente leída) el pedido de un cliente o la orden de compra no generan asiento: todavía no pasó nada que la empresa deba o tenga derecho a cobrar.
+Los libros de sistemas de información contable y de auditoría agrupan las operaciones en ciclos. Romney y Steinbart cuentan cinco (ingresos, egresos, recursos humanos y nómina, producción y financiamiento), más el mayor general, que junta lo que procesan los otros; un libro de auditoría como el de Arens y otros arma los suyos con nombres parecidos y separa el inventario y el depósito. Esta vertical usa los que llegan al registro: de la venta al cobro, de la compra al pago, el inventario y su costo, los activos fijos y los sueldos (la lista es de la base). La comparación de las dos clasificaciones está en [fundamentos de procesos de negocio](../../Procesos-de-negocio/Fundamentos/fundamentos-de-procesos-de-negocio.md#los-ciclos-de-transacciones-de-los-libros-contables). Cada ciclo lo recorren otras áreas (ventas, compras, depósito, personal); la contabilidad entra cuando aparece un documento que cambia el patrimonio. Por eso (explicación propia, sin fuente leída) el pedido de un cliente o la orden de compra no generan asiento: todavía no pasó nada que la empresa deba o tenga derecho a cobrar.
 
 La tabla resume qué documento dispara qué asiento. Los patrones salen de OpenStax y de la NIC 2; la tabla como síntesis es del informe de investigación.
 
@@ -90,7 +93,7 @@ Las vacaciones siguen la misma lógica. Según la NIC 19, las ausencias pagadas 
 
 > [!NOTE] Sin fuente todavía: un asiento con números del devengamiento de vacaciones.
 
-Cómo se calcula cada concepto del recibo, el legajo y las licencias son del tema Administración de personal y nómina, todavía no escrito. Los porcentajes de aportes y contribuciones de cada país, también.
+Cómo se calcula cada concepto del recibo, el legajo y las licencias son del tema Administración de personal y nómina: la liquidación está en [liquidación de sueldos](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md) y los porcentajes de aportes y contribuciones, en [aportes y contribuciones](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/aportes-y-contribuciones.md) y, para Argentina, en [cargas sociales en Argentina](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/cargas-sociales-en-argentina.md).
 
 ## Qué hay adentro de Operaciones
 

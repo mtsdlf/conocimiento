@@ -78,7 +78,7 @@ Las notas integran el juego completo con el mismo rango que los estados. Según 
 
 ## El cierre del período queda en otro tema
 
-Para llegar a los estados, la empresa cierra el período: concilia, ajusta, revisa y emite. El recorrido entero entre áreas (del registro al informe) es un proceso del tema Procesos de negocio, todavía no escrito. Acá queda cómo se registra cada ajuste, en [ajustes de cierre](ajustes-de-cierre.md), y la [conciliación bancaria](../Control-interno/conciliaciones.md), que es un control.
+Para llegar a los estados, la empresa cierra el período: concilia, ajusta, revisa y emite. El recorrido entero entre áreas (del registro al informe) es un proceso del tema Procesos de negocio: [del registro al balance](../../Procesos-de-negocio/del-registro-al-balance.md). Acá queda cómo se registra cada ajuste, en [ajustes de cierre](ajustes-de-cierre.md), y la [conciliación bancaria](../Control-interno/conciliaciones.md), que es un control.
 
 ## Qué hay adentro de Estados contables
 

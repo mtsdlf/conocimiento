@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una conciliación compara dos registros independientes del mismo saldo (los libros y el extracto del banco, el auxiliar de clientes y su cuenta de control) y explica cada diferencia, para corregir lo que está mal y detectar lo que no debería haber pasado.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 8.6 Define the Purpose of a Bank Reconciliation: https://openstax.org/books/principles-financial-accounting/pages/8-6-define-the-purpose-of-a-bank-reconciliation-and-prepare-a-bank-reconciliation-and-its-associated-journal-entries"
@@ -11,9 +11,11 @@ fuentes:
   - "Washington State Auditor, BARS, Bank reconciliations, según su resumen: https://sao.wa.gov/bars-annual-filing/bars-gaap-manual/accounting/accounting-principles-and-internal-control/bank-reconciliations"
   - "Contabilidad/.investigacion/control-interno.md (2026-11-27)"
   - "Contabilidad/.investigacion/posicion-contraria.md, sección 5, mito 6 (2026-11-27)"
+  - "IFRS Foundation, NIIF 10 Consolidated Financial Statements, texto oficial (edición HTML 2026), párr. B86: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs10.html"
+  - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md, sección 4 (2026-11-27)"
 aliases: [conciliación bancaria, bank reconciliation, conciliación de cuentas, account reconciliation, conciliación del auxiliar, conciliación intercompañía, intercompany reconciliation]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Conciliaciones
@@ -101,10 +103,10 @@ Cuando un sistema registra la factura en el auxiliar y en el mayor con el mismo 
 
 ## Entre empresas del mismo grupo
 
-Cuando un grupo tiene varias empresas que se venden o se prestan entre sí, cada una registra su lado: la que vende, una cuenta a cobrar; la que compra, una cuenta a pagar por el mismo monto. Antes de consolidar los estados contables del grupo se concilian los dos lados, y después los saldos entre empresas se eliminan. Según guías que no tienen autoridad normativa, la base es la NIIF 10, párrafo B86, que pide eliminar esos saldos por completo. La consolidación está en [normas contables](../Estados-contables/normas-contables.md).
+Cuando un grupo tiene varias empresas que se venden o se prestan entre sí, cada una registra su lado: la que vende, una cuenta a cobrar; la que compra, una cuenta a pagar por el mismo monto. Antes de consolidar los estados contables del grupo se concilian los dos lados, y después los saldos entre empresas se eliminan. La base es la NIIF 10, párrafo B86, que pide «eliminate in full intragroup assets and liabilities, equity, income, expenses and cash flows relating to transactions between entities of the group». La norma pide eliminar; que antes haya que conciliar los dos lados para que la eliminación cierre en cero es práctica, no texto de la norma. La consolidación está en [normas contables](../Estados-contables/normas-contables.md#los-estados-consolidados), y cómo se resuelve en un BI con varias empresas y monedas, en [multiempresa y moneda en el BI](../../Datos/Visualizacion-y-BI/BI-sobre-software-de-gestion/multiempresa-y-moneda-en-el-bi.md#consolidar-no-es-sumar).
 
-> [!NOTE] Sin fuente todavía: el texto de la NIIF 10, B86, leído en la norma, y una guía neutral (de una firma grande o un texto académico) sobre cómo se concilia entre empresas del grupo.
+> [!NOTE] Sin fuente todavía: una guía neutral (de una firma grande o un texto académico) sobre cómo se concilia entre empresas del grupo.
 
 ## Quién la usa después
 
-La tesorería, que maneja la posición de caja, se apoya en la conciliación bancaria para saber cuánta plata hay de verdad; el tema Tesorería y finanzas de la empresa en marcha, todavía no escrito, la va a enlazar. En el cierre de mes, las conciliaciones van junto con los [ajustes de cierre](../Estados-contables/ajustes-de-cierre.md): los asientos que salen de ellas tienen que estar antes de emitir los estados.
+La tesorería, que maneja la posición de caja, se apoya en la conciliación bancaria para saber cuánta plata hay de verdad: lo explica [posición de caja](../../Tesoreria/Caja-y-liquidez/posicion-de-caja.md#lo-que-es-de-la-contabilidad-y-lo-que-es-de-la-posición). En el cierre de mes, las conciliaciones van junto con los [ajustes de cierre](../Estados-contables/ajustes-de-cierre.md): los asientos que salen de ellas tienen que estar antes de emitir los estados.

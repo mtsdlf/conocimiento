@@ -11,7 +11,7 @@ fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 9.2 Account for Uncollectible Accounts: https://openstax.org/books/principles-financial-accounting/pages/9-2-account-for-uncollectible-accounts-using-the-balance-sheet-and-income-statement-approaches"
   - "Contabilidad/.investigacion/estados-contables.md (2026-11-27)"
   - "Contabilidad/.investigacion/operaciones.md (2026-11-27), previsión para incobrables"
-aliases: [ajustes de cierre, asientos de ajuste, adjusting entries, asientos de cierre, closing entries, refundición de cuentas de resultado, resumen de resultados, income summary, balance de comprobación ajustado, adjusted trial balance, devengamientos, accruals, diferimientos, deferrals, previsión, allowance, provisión, provision]
+aliases: [ajustes de cierre, asientos de ajuste, adjusting entries, asientos de cierre, closing entries, refundición de cuentas de resultado, resumen de resultados, income summary, balance de sumas y saldos ajustado, balance de comprobación ajustado, adjusted trial balance, devengamientos, accruals, diferimientos, deferrals, previsión, allowance, provisión, provision]
 creado: 2026-11-27
 revisado: 2026-11-27
 ---
@@ -20,7 +20,7 @@ revisado: 2026-11-27
 
 Los ajustes de cierre son los asientos que se registran al final de un período para que los saldos reflejen lo devengado aunque no haya un documento que lo dispare, y los asientos de cierre son los que después vuelcan las cuentas de resultado al patrimonio y las dejan en cero.
 
-Son el puente entre el [registro](../Registro/registro-contable.md) del día a día y los [estados contables](estados-contables.md). Durante el mes, cada asiento nace de un documento: una factura, un recibo, un extracto. Pero el [devengado](../Registro/devengado.md) pide registrar cosas que no tienen documento: el interés que se ganó y no se cobró, el sueldo de la última semana que se paga el mes siguiente, el desgaste de una máquina. Según OpenStax, un ajuste no significa que hubo un error: existe porque no todo hecho genera un comprobante. El recorrido completo del cierre entre áreas (quién concilia, quién aprueba, en qué orden) es del tema Procesos de negocio, todavía no escrito; acá queda cómo se registra cada ajuste.
+Son el puente entre el [registro](../Registro/registro-contable.md) del día a día y los [estados contables](estados-contables.md). Durante el mes, cada asiento nace de un documento: una factura, un recibo, un extracto. Pero el [devengado](../Registro/devengado.md) pide registrar cosas que no tienen documento: el interés que se ganó y no se cobró, el sueldo de la última semana que se paga el mes siguiente, el desgaste de una máquina. Según OpenStax, un ajuste no significa que hubo un error: existe porque no todo hecho genera un comprobante. El recorrido completo del cierre entre áreas (quién concilia, quién aprueba, en qué orden) es del tema Procesos de negocio, en [del registro al balance](../../Procesos-de-negocio/del-registro-al-balance.md); acá queda cómo se registra cada ajuste.
 
 ## La regla que valida un ajuste
 
@@ -68,9 +68,9 @@ La previsión es una contracuenta: resta de las cuentas a cobrar en el balance s
 > [!NOTE]
 > Sin fuente todavía: la distinción de vocabulario entre previsión (una corrección del valor de un activo, como la de incobrables) y provisión (un pasivo de monto o fecha inciertos, como un juicio) que usan los contadores de habla hispana. Falta leer la NIC 37 y la norma local que la fije.
 
-## El balance de comprobación ajustado
+## El balance de sumas y saldos ajustado
 
-Después de registrar los ajustes se arma el balance de comprobación ajustado: la lista de las cuentas con saldo distinto de cero, con sus débitos y créditos. Según OpenStax, sirve para encontrar errores de cálculo de los pasos anteriores antes de armar los estados. En el ejemplo de Clip'em Cliff de agosto de 2019, el balance de comprobación sin ajustar sumaba $87.900 y el ajustado, $94.150. Los estados se arman con los saldos ajustados.
+Después de registrar los ajustes se arma el balance de sumas y saldos ajustado (adjusted trial balance; también se lo llama balance de comprobación ajustado). Es el mismo [balance de sumas y saldos](../Registro/asiento-y-libros.md#el-balance-de-sumas-y-saldos) del registro, armado otra vez con los saldos que dejaron los ajustes: la lista de las cuentas con saldo distinto de cero, con sus débitos y créditos. Según OpenStax, sirve para encontrar errores de cálculo de los pasos anteriores antes de armar los estados. En el ejemplo de Clip'em Cliff de agosto de 2019, el balance sin ajustar sumaba $87.900 y el ajustado, $94.150. Los estados se arman con los saldos ajustados.
 
 ## El cierre de las cuentas de resultado
 
@@ -97,8 +97,8 @@ Con los totales del ciclo de Clip'em Cliff de agosto de 2019 (ingresos por servi
 
 El resumen de resultados queda en cero, y su saldo antes del asiento 3 ($25 acreedor) es el resultado neto del [estado de resultados](estado-de-resultados.md). En el ejemplo de Printing Plus pasa lo mismo: el resumen de enero queda en $4.665 acreedor, que según OpenStax es la misma cifra que informa su estado de resultados. Resultados acumulados termina en −$125, el saldo que muestra el patrimonio del [balance](balance.md).
 
-Después del cierre, el balance de comprobación solo tiene cuentas permanentes: activo, pasivo y patrimonio. Que una cuenta de resultado tenga saldo después del cierre es un error.
+Después del cierre, el balance de sumas y saldos solo tiene cuentas permanentes: activo, pasivo y patrimonio. Que una cuenta de resultado tenga saldo después del cierre es un error.
 
 ## Cómo fallan los ajustes
 
-El ajuste que falta no da error: el balance de comprobación cuadra igual, porque un asiento que no se hizo no deja débitos sin créditos. Si Printing Plus no registra los $1.500 de sueldos, el gasto de enero queda corto y el de febrero, inflado. Esto es una inferencia a partir del mecanismo, y de ella sale que el cierre necesita una lista de los ajustes que se repiten cada período y la [conciliación](../Control-interno/conciliaciones.md) de cada cuenta con su respaldo, que muestra lo que se olvidó.
+El ajuste que falta no da error: el balance de sumas y saldos cuadra igual, porque un asiento que no se hizo no deja débitos sin créditos. Si Printing Plus no registra los $1.500 de sueldos, el gasto de enero queda corto y el de febrero, inflado. Esto es una inferencia a partir del mecanismo, y de ella sale que el cierre necesita una lista de los ajustes que se repiten cada período y la [conciliación](../Control-interno/conciliaciones.md) de cada cuenta con su respaldo, que muestra lo que se olvidó.
