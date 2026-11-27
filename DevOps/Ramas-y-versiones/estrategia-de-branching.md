@@ -46,7 +46,7 @@ carpeta o por rama del repo de configuración; ver [Promoción entre entornos](.
 la punta actual de `main`. Una regla habitual es rebasar la rama propia antes del PR, para que el
 historial quede lineal y el PR muestre solo los cambios propios, y no reescribir nunca una rama
 compartida. El merge final puede ser un merge commit (conserva los commits de la rama) o un
-squash (junta todos los commits del PR en uno solo). La mecánica de cada operación está en [Git](../../Desarrollo/Git/git.md).
+squash (junta todos los commits del PR en uno solo). La mecánica de cada operación está en [Git](../../Desarrollo/Construccion/Git/git.md).
 
 ## GitHub Flow para un servicio web, Gitflow para escritorio
 

@@ -64,11 +64,11 @@ costos que se disparan, un proveedor que cambia el modelo. Para los agentes, Huy
 de medirlos: "To evaluate an agent, identify its failure modes and measure how often each of these
 failure modes happens", y separa fallas de planificación, de herramientas y de eficiencia. Usar esa
 lista de modos de falla como entrada del risk storming, y el
-[análisis de errores](../Evaluacion-y-observabilidad/analisis-de-errores.md) como la forma de saber
+[análisis de errores](../../IA/Evaluacion/analisis-de-errores.md) como la forma de saber
 su probabilidad real en producción, es inferencia de esta base. Las mitigaciones típicas son las
 del [catálogo de patrones](../arquitectura.md#catálogo-de-patrones), como
 [degradación controlada](../Sistemas-distribuidos/degradacion-controlada.md) o
-[guardrails](../../IA/guardrails.md).
+[guardrails](../../IA/Produccion/guardrails.md).
 
 ## Qué leer
 

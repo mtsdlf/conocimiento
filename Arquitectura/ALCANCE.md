@@ -5,7 +5,7 @@ nivel: programa y conoce lo básico de servicios y APIs
 escuela: AI engineering centrado en evaluación (Chip Huyen) sobre el canon de estilos y características (Richards y Ford)
 fuera:
   - patrones de diseño de código (GoF), que irían en Desarrollo
-  - cómo funciona un modelo por dentro y sus guardrails, que viven en IA
+  - el sistema con un modelo adentro (el modelo, su contexto, agentes, evaluación y producción), que vive en IA desde 2026-11-27
   - plataformas internas y API-first, que viven en Platform-Engineering
   - lo que pierde peso (entrenar modelos desde cero, trucos de prompt, frameworks de agentes pesados, SOA con ESB, space-based, ML clásico a medida, microservicios por defecto), que solo se nombra en Fundamentos/lo-que-pierde-peso
 fuentes: []
@@ -47,19 +47,6 @@ Arquitectura/
     api-led-connectivity, multi-tenancy, circuit-breaker, degradacion-controlada, saga,
     clave-de-idempotencia, resilience4j-en-spring-boot (ficha)
     outbox, cqrs (con event sourcing), api-gateway-y-bff
-  Sistemas-con-modelos/         la arquitectura de AI engineering, en el orden de Huyen
-    contexto-y-rag
-    router-y-gateway-de-modelos
-    cache-de-modelos
-    agente
-    prompt-rag-o-finetuning
-    plataformas-de-ia (ficha)
-  Evaluacion-y-observabilidad/
-    evaluacion
-    analisis-de-errores         leer trazas a mano para saber qué medir
-    ia-como-juez
-    observabilidad
-    feedback-de-usuario
   Decisiones/
     adr
     empezar-simple
@@ -74,7 +61,8 @@ Arquitectura/
 ## Supuestos
 
 - Se reordena el tema existente en lugar de crear uno aparte; las ocho notas viejas se mudan a `Sistemas-distribuidos/` y se actualizan sus enlaces en toda la base.
-- Las verticales que van más hondo son `Sistemas-con-modelos/` y `Evaluacion-y-observabilidad/`; los estilos clásicos quedan en panorama.
+- Las verticales que van más hondo eran `Sistemas-con-modelos/` y `Evaluacion-y-observabilidad/`; los estilos clásicos quedan en panorama.
+- El 2026-11-27, al rehacer el tema IA, esas dos verticales se mudaron a `IA/` (Sistemas con modelos a `IA/Produccion/`, `IA/Contexto/` y `IA/Agentes/`; Evaluación a `IA/Evaluacion/`, y la observabilidad a `IA/Produccion/`). Arquitectura se queda con la base sobre la que se montan.
 - Los patrones viven en la vertical de su problema; la entrada del tema los junta en un catálogo.
 - La investigación sumó service-based (el canon lo trata como estilo propio) y análisis de errores (el campo lo trata aparte de la evaluación), y llevó strangler fig a Estilos, porque es una técnica de migración.
 - Harness engineering no es de Huyen (el ensayo de 2026 es de Lilian Weng): va como sección fechada de `agente`, citada a sus autores.

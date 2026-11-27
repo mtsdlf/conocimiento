@@ -72,7 +72,7 @@ antes de que responda; **serving** es servir el modelo como un servicio que resp
 casos con la respuesta correcta conocida, contra el que se evalúa; **LLM-as-a-judge** es usar un
 modelo para calificar las respuestas de otro; **Text2SQL** es traducir una pregunta en lenguaje
 natural a una consulta SQL. Qué es un LLM y por qué su salida hay que verificarla está en
-[LLM](../../IA/llm.md) y [guardrails](../../IA/guardrails.md).
+[LLM](../../IA/Modelos/modelo-base.md) y [guardrails](../../IA/Produccion/guardrails.md).
 
 | Rol del mercado | Capa y capítulos | Qué evidencia piden los avisos | Qué proyecto la mostraría |
 |---|---|---|---|

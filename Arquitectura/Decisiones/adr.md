@@ -65,9 +65,9 @@ Y-statement de Zdun y otros, y menciona una comparación de siete plantillas pre
 
 Un ADR sirve igual para elegir un [estilo](../Estilos/elegir-un-estilo.md) que para las decisiones
 propias de un sistema con un modelo adentro: qué modelo se usa, con qué umbral se acepta una
-[evaluación](../Evaluacion-y-observabilidad/evaluacion.md), por qué se sumó
-[RAG](../Sistemas-con-modelos/contexto-y-rag.md) o por qué no se hizo
-[fine-tuning](../Sistemas-con-modelos/prompt-rag-o-finetuning.md). Esas decisiones envejecen rápido
+[evaluación](../../IA/Evaluacion/evals.md), por qué se sumó
+[RAG](../../IA/Contexto/contexto-y-rag.md) o por qué no se hizo
+[fine-tuning](../../IA/prompt-rag-o-finetuning.md). Esas decisiones envejecen rápido
 (observación de esta base, porque los modelos cambian); la sección Confirmation de MADR, que dice cómo se va a verificar la
 decisión, encaja con una evaluación o una [fitness function](../Caracteristicas/fitness-function.md)
 (esta conexión es inferencia de esta base). Un buen candidato a ADR es cada pieza que se suma siguiendo

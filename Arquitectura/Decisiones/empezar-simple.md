@@ -41,7 +41,7 @@ fallar, algo más que observar y algo más que entender al depurar (desarrollo d
 Por eso su arquitectura de referencia arranca con lo mínimo, "query, model, response", y suma
 componentes de a uno ("progressively add more components"), evaluando en cada paso. La misma
 fuente aclara: "A component can be skipped if your system works well without it". Lo que decide si
-una pieza entra es la [evaluación](../Evaluacion-y-observabilidad/evaluacion.md), no la
+una pieza entra es la [evaluación](../../IA/Evaluacion/evals.md), no la
 disponibilidad de una herramienta.
 
 ## Los errores de empezar complejo con modelos
@@ -50,9 +50,9 @@ Huyen cuenta "Starting too complex" entre los errores comunes al construir aplic
 generativa, con dos ejemplos que se repiten:
 
 - "Use an agentic framework when direct API calls work": sumar un framework de
-  [agentes](../Sistemas-con-modelos/agente.md) cuando unas llamadas directas al modelo alcanzan.
+  [agentes](../../IA/Agentes/agente.md) cuando unas llamadas directas al modelo alcanzan.
 - "Insist on finetuning when prompting works": hacer fine-tuning cuando el prompt resuelve; la
-  escalera completa está en [prompt, RAG o fine-tuning](../Sistemas-con-modelos/prompt-rag-o-finetuning.md).
+  escalera completa está en [prompt, RAG o fine-tuning](../../IA/prompt-rag-o-finetuning.md).
 
 Anthropic llega a lo mismo desde el lado de quien fabrica el modelo: "we recommend finding the
 simplest solution possible, and only increasing complexity when needed". Recomienda empezar
@@ -66,7 +66,7 @@ product", y "The journey from 0 to 60 is easy, whereas progressing from 60 to 10
 exceedingly challenging". Según esta base, la tentación es atacar el tramo difícil con más piezas, cuando lo que
 suele faltar es mirar los datos: "staring at data for just 15 minutes usually gives me some
 insight", que es lo que sistematiza el
-[análisis de errores](../Evaluacion-y-observabilidad/analisis-de-errores.md).
+[análisis de errores](../../IA/Evaluacion/analisis-de-errores.md).
 
 ## Cuándo la complejidad sí paga
 

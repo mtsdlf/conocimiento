@@ -65,6 +65,6 @@ El efecto de socavamiento de los premios tangibles y esperados en tareas interes
 
 ## Condicionamiento, metas y otras notas
 
-El [condicionamiento y refuerzo](../Aprendizaje-y-memoria/condicionamiento-y-refuerzo.md) explica la conducta por sus consecuencias. El [establecimiento de metas](establecimiento-de-metas.md) también trata los incentivos, y Ordóñez et al. (2009) le atribuyen a las metas el mismo daño a la motivación intrínseca. La necesidad de autonomía se roza con la [procrastinación](../Autorregulacion/procrastinacion.md) de tareas impuestas. Cómo se aplica a motivar a un equipo es tema de Liderazgo y dirección, que todavía no existe.
+El [condicionamiento y refuerzo](../Aprendizaje-y-memoria/condicionamiento-y-refuerzo.md) explica la conducta por sus consecuencias. El [establecimiento de metas](establecimiento-de-metas.md) también trata los incentivos, y Ordóñez et al. (2009) le atribuyen a las metas el mismo daño a la motivación intrínseca. La necesidad de autonomía se roza con la [procrastinación](../Autorregulacion/procrastinacion.md) de tareas impuestas. Cómo se aplica a dirigir está en [motivar a un equipo](../../Liderazgo-y-direccion/Liderar-personas/motivar-a-un-equipo.md), en Liderazgo y dirección.
 
 Para ir a los datos sirven la tabla de moderadores de Deci, Koestner y Ryan (1999), con tipo de premio y edad de la muestra, y Cerasoli et al. (2014) para el efecto en el trabajo.

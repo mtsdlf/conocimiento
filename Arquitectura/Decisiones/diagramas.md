@@ -65,7 +65,7 @@ El diagrama de contenedores suele ser el que se usa en un [análisis de riesgo](
 porque ahí se ven las dependencias por la red, y el que acompaña a un [ADR](adr.md) cuando la
 decisión cambia la estructura (las dos cosas son lectura de esta base, no del sitio de C4). En un sistema con
 un modelo de IA, el modelo y el
-[gateway](../Sistemas-con-modelos/router-y-gateway-de-modelos.md) aparecen en el nivel de
+[gateway](../../IA/Produccion/router-y-gateway-de-modelos.md) aparecen en el nivel de
 contenedores como dependencias externas, igual que cualquier otra API.
 
 ## Qué leer

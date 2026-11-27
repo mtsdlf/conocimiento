@@ -63,4 +63,4 @@ intento funcionó.
 
 - [Saga](saga.md): los pasos y compensaciones de una saga se reintentan y necesitan ser idempotentes.
 - [Outbox](outbox.md): publica cada evento al menos una vez, así que el consumidor deduplica con la misma idea.
-- [Diseñar casos de prueba de una API](../../Desarrollo/Especificacion-y-prueba/disenar-casos-de-prueba-de-api.md), en Desarrollo: cada operación que acepta la clave lleva un caso de reintento.
+- [Diseñar casos de prueba de una API](../../Desarrollo/Verificacion/disenar-casos-de-prueba-de-api.md), en Desarrollo: cada operación que acepta la clave lleva un caso de reintento.

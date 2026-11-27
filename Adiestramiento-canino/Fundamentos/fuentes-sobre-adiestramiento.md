@@ -68,6 +68,7 @@ Lo más útil de cada vertical, con la parte que conviene leer. Las notas de cad
 - **Señales del perro**: Pedretti et al. 2023, la introducción, la Tabla 1 y la discusión ([lenguaje corporal](../Conducta-canina/lenguaje-corporal.md)).
 - **Problemas de conducta en general**: las guías de conducta de la AAHA de 2015, gratuitas.
 - **Columna del teckel**: Packer et al. 2016 (DachsLife), el resumen, las tablas de riesgo y la discusión; fijarse en que es una encuesta y los autores no dan recomendaciones firmes ([columna del teckel](../Teckel/columna-del-teckel.md)).
+- **Caza y trabajo**: el reglamento de pruebas del Deutscher Teckelklub, las secciones de rastro de sangre, con las medidas de cada prueba, y el de la RSCE en castellano, secciones 2.2, 2.5 y 3.7 para madriguera y rastreo de liebre. Fijarse en que son reglamentos de clubes, no estudios ([caza y trabajo](../Caza-y-trabajo/caza-y-trabajo.md)). El libro de John Jeanneney, *Tracking Dogs for Finding Wounded Deer*, es la referencia en rastro de sangre y no se pudo leer.
 - **Mitos**: la hoja "common misconceptions" de Dogs Trust ([mitos del adiestramiento](mitos-del-adiestramiento.md)).
 
 ## Fuentes que piden cautela

@@ -32,7 +32,7 @@ Azure describe además Web-Queue-Worker, un primo cercano: un frontend web que a
 > [!NOTE]
 > Sin fuente todavía: el capítulo de pipeline de Richards y Ford no se leyó y no hay fuente verificada con ejemplos. La definición es de esta base.
 
-Un pipeline parte el sistema en etapas (filtros) unidas por canales (tuberías): cada etapa recibe un dato, lo transforma y se lo pasa a la siguiente, sin saber quién viene antes o después. Se usa cuando el trabajo es una secuencia fija de transformaciones, como procesar archivos, transformar datos o compilar. Un sistema con modelos suele tener uno adentro (limpiar la entrada, armar el contexto, llamar al modelo, validar la salida); esa relación es inferencia de esta base y se desarrolla en [Sistemas con modelos](../Sistemas-con-modelos/sistemas-con-modelos.md).
+Un pipeline parte el sistema en etapas (filtros) unidas por canales (tuberías): cada etapa recibe un dato, lo transforma y se lo pasa a la siguiente, sin saber quién viene antes o después. Se usa cuando el trabajo es una secuencia fija de transformaciones, como procesar archivos, transformar datos o compilar. Un sistema con modelos suele tener uno adentro (limpiar la entrada, armar el contexto, llamar al modelo, validar la salida); esa relación es inferencia de esta base y se desarrolla en [Sistemas con modelos](../../IA/Produccion/sistemas-con-modelos.md).
 
 El caso de Prime Video que cuenta [Microservicios](microservicios.md#prime-video-un-caso-que-se-lee-de-dos-maneras) muestra lo que pasa cuando las etapas de un pipeline con mucho dato entre pasos se reparten por la red.
 

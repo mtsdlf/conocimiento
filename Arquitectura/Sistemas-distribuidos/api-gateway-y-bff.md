@@ -47,7 +47,7 @@ Azure desaconseja el BFF cuando las interfaces hacen pedidos iguales o parecidos
 
 El riesgo de fondo es poner en el gateway lo que no le toca. El Technology Radar de Thoughtworks puso en Hold, en octubre de 2020, "ESBs in API gateway's clothing": centralizar orquestación y transformación en una herramienta "adds architectural coupling, reduces transparency, and increases vendor lock-in". Es la misma crítica que dejó atrás a la SOA con ESB ([Lo que pierde peso](../Fundamentos/lo-que-pierde-peso.md)). El gateway enruta y protege; la orquestación va en un servicio o en una [saga](saga.md).
 
-En un sistema con modelos de IA, la misma idea de un punto de entrada único aparece delante de los modelos: [Router y gateway de modelos](../Sistemas-con-modelos/router-y-gateway-de-modelos.md).
+En un sistema con modelos de IA, la misma idea de un punto de entrada único aparece delante de los modelos: [Router y gateway de modelos](../../IA/Produccion/router-y-gateway-de-modelos.md).
 
 > [!NOTE]
 > Sin fuente todavía: un postmortem de un gateway que se volvió cuello de botella o punto único de falla; las fuentes solo lo advierten en abstracto.

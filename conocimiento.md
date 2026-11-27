@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout), abrí la entrada del tema: Marketing, Producto, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico y Arquitectura tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Arquitectura e IA tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -32,11 +32,9 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 ## Software
 
-- [Desarrollo](Desarrollo/desarrollo.md) — herramientas de quien escribe software: [Git](Desarrollo/Git/git.md), YAML, configuración,
-  arquetipos e historias y casos de prueba.
-- [Arquitectura](Arquitectura/arquitectura.md) — arquitectura de software hoy, desde *AI Engineering* (Huyen) sobre el canon de
-  Richards y Ford: características, modularidad, estilos, sistemas distribuidos, sistemas con modelos de IA, evaluación y
-  decisiones, con lo que pierde peso dicho aparte.
+- [Desarrollo](Desarrollo/desarrollo.md) — el proceso de convertir la necesidad de un cliente en software andando, con agentes de código: el encargo con el cliente (acuerdo, alcance, estimación, entregas, traspaso), definir, construir, verificar y hacer evolucionar; incluye [Git](Desarrollo/Construccion/Git/git.md).
+- [Arquitectura](Arquitectura/arquitectura.md) — arquitectura de software hoy, sobre el canon de Richards y Ford:
+  características, modularidad, estilos, sistemas distribuidos y decisiones, con lo que pierde peso dicho aparte.
 - [Bases de datos](Bases-de-datos/bases-de-datos.md) — qué es una base, sus modelos (relacional, documentos, clave-valor),
   SQL a fondo, transacciones y cómo elegir una para un sistema.
 
@@ -52,12 +50,17 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 ## Sistemas e IA
 
 - [Linux](Linux/linux.md) — cómo está hecho y cómo se administra Linux; con Recorrido.
-- [IA](IA/ia.md) — modelos de lenguaje y cómo se acota lo que emiten.
+- [IA](IA/ia.md) — AI engineering: construir un producto con un modelo de IA adentro, desde el modelo y su contexto hasta
+  los agentes, el ajuste, la evaluación y la operación en producción.
 
 ## Datos
 
 - [Datos](Datos/datos.md) — el recorrido del dato hasta una decisión: modelado y almacenamiento, ingesta, gobierno y calidad
   (con privacidad en Argentina), análisis, estadística, analítica de producto y visualización; con rutas para aprender Data Analytics.
+
+## Idiomas
+
+- [Inglés](Ingles/ingles.md) — pasar del intermedio-alto al avanzado siendo hispanohablante: cómo aprende un adulto, pronunciación, gramática, léxico, discurso y práctica, con la evidencia de cada técnica; con Ruta.
 
 ## Deporte
 
@@ -75,6 +78,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 - [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
 - [Desarrollo personal](Desarrollo-personal/desarrollo-personal.md) — la práctica de crecer con evidencia: autoconocimiento, hábitos y cambio, energía y salud, emociones y bienestar, relaciones, efectividad personal, coaching (el ontológico incluido, con su falta de evidencia) y lo que le pasa por dentro a quien funda una empresa.
+- [Liderazgo y dirección](Liderazgo-y-direccion/liderazgo-y-direccion.md) — cómo se conduce a una persona, a un equipo y a una empresa chica que crece: liderar personas, equipos y cultura, gestión de personas, decidir, ejecución y el rol del CEO, con la evidencia de cada práctica y lo que solo dicen los practicantes.
 
 ## Carrera
 
@@ -83,6 +87,11 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 ## Industrias
 
 - [Comercio electrónico](Comercio-electronico/comercio-electronico.md) — el dominio de vender online: plataformas de tiendas y sus apps, pagos y cuotas, checkout y conversión, operaciones, venta en varios canales y normativa argentina, con fichas fechadas por plataforma.
+
+## Familia
+
+- [Crianza](Crianza/crianza.md) — criar a un chico de 0 a 6 años: desarrollo y bilingüismo, altas capacidades, vínculo, emociones, límites, juego y pantallas, salud y rutinas, y escuela, con la evidencia de cada idea.
+- [Nutrición](Nutricion/nutricion.md) — comer bien en familia: alimentos y guías, alimentación infantil, la mesa compartida, objetivos del adulto (bajar grasa, ganar músculo, rendir, salud) y planificar la semana.
 
 ## Animales
 
