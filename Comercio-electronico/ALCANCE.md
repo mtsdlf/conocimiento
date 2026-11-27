@@ -74,7 +74,7 @@ Comercio-electronico/
       integracion-con-tiendas-y-marketplaces   cómo se conecta con la tienda y el marketplace, quién manda en el stock, cómo falla
       sistemas-de-gestion-en-argentina   ficha comparativa fechada: precios, integraciones y reseñas
       fichas por sistema                 Tango, Dux, Contabilium, Xubio, Colppy, Bsale y los que aparezcan
-    Envios-y-logistica/                (prevista; la escribe otra tanda) transportistas, agregadores, tarifas
+    Envios-y-logistica/                transportistas, agregadores, costo del envío, fulfillment y la ficha de Argentina
   Venta-en-varios-canales/           tienda propia, marketplaces, redes y local (entrada)
     Local-fisico-con-caja/             el comercio con local que también vende online
       local-fisico-con-caja              qué cambia vender con mostrador y online a la vez

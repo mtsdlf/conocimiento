@@ -67,7 +67,7 @@ Una devolución desanda la cadena: el producto vuelve, se revisa y, si sirve, vu
 
 ## Atención al comprador
 
-La atención acompaña al pedido y a la devolución: consultas, reclamos y bajas. En Argentina tiene un piso legal, fijado por una disposición de 2025, con horario mínimo y un canal visible en la web; el detalle está en la [ficha de normativa argentina](../Normativa/normativa-argentina.md).
+La atención acompaña al pedido y a la devolución: consultas, reclamos y bajas. En Argentina tiene un piso legal, fijado por una disposición de 2025, con horario mínimo y un canal visible en la web; el detalle está en la [ficha de normativa argentina](../Normativa/normativa-argentina.md). La atención en cualquier empresa (el caso, sus canales, los niveles de servicio y el escalamiento) es el tema [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md).
 
 > [!NOTE] Sin fuente todavía: evidencia sobre tiempos de respuesta, canal preferido por los compradores y costo de atender por cada canal.
 
@@ -91,4 +91,4 @@ Lo que la plataforma no resuelve lo cubren las [apps para comerciantes](../Plata
 
 - [Envíos y logística](Envios-y-logistica/envios-y-logistica.md): transportistas, agregadores, última milla y guarda de stock, el costo del envío y los operadores de Argentina con sus precios y reseñas.
 
-El pedido y la atención siguen en esta entrada hasta tener nota propia.
+El pedido y la atención de una tienda siguen en esta entrada. Dichos para cualquier empresa, el pedido está en [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md) y la atención, en [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md).
