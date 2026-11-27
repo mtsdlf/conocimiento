@@ -12,7 +12,7 @@ fuera:
   - el envío de una tienda online (transportistas, agregadores, costo del envío, fulfillment, devoluciones) — Comercio-electronico/Operaciones-del-comercio/Envios-y-logistica; se enlaza como el caso del comercio
   - el remito y el código de operación de traslado en la Argentina — Inventario-y-depositos/inventario-y-depositos-en-argentina.md; se enlaza
   - la valuación del stock en tránsito y el costo del flete en el costo — Contabilidad; la diferencia de cambio, Contabilidad/Operaciones/moneda-extranjera.md
-  - la carta de crédito y el pago al exterior — Tesoreria (el pago de una importación en la Argentina, en Tesoreria/tesoreria-en-argentina.md; la carta de crédito no tiene nota)
+  - lo que la carta de crédito y el pago al exterior le piden a la caja y al crédito de la empresa (la línea en el banco, el costo, el riesgo de contraparte y de moneda) — Tesoreria; acá, la carta de crédito y la cobranza documentaria como medios de pago atados a los documentos de la carga (ampliación de #174)
   - el presupuesto anual de la empresa — Contabilidad/Contabilidad-de-gestion/presupuesto.md; el S&OP lo enlaza
   - las piezas de diseño comunes a todo software de gestión (documento y estados, datos maestros, unidades y monedas) — Software-de-gestion/Columnas-tecnicas
   - el recorrido de punta a punta de la planificación a la producción y del pedido al cobro — Procesos-de-negocio (de-la-planificacion-a-la-produccion.md y del-pedido-al-cobro.md)
@@ -75,6 +75,7 @@ Cadena-de-suministro-y-logistica/
     modos-de-transporte.md               camión, tren, barco, avión, multimodal; carga completa y consolidada
     costo-del-flete.md                   de qué se arma: peso, volumen, distancia, servicio; el peso facturable y la liquidación
     consolidacion-y-ruteo.md             juntar carga y armar recorridos: el problema de ruteo de vehículos y sus límites
+    flujo-de-entrada.md                  el viaje de lo comprado hasta el muelle (APQC 4.4.2.1 a 4.4.2.3): flete, aviso de despacho, turnos, desempeño y costo de llegada
   Despacho-y-entrega/                  de la puerta de salida a las manos del destinatario, y de vuelta
     despacho-y-entrega.md                (entrada) el flujo despachar, viajar, entregar, y dónde corta con Inventario
     despacho.md                          el documento del despacho: qué junta, qué estados recorre, el seguimiento
@@ -85,6 +86,10 @@ Cadena-de-suministro-y-logistica/
     comercio-exterior.md                 (entrada) los actores, el flujo de una importación y una exportación, los plazos
     incoterms.md                         las once reglas: quién paga, quién asegura y dónde pasa el riesgo
     documentos-del-comercio-exterior.md  factura comercial, lista de empaque, conocimiento de embarque, certificado de origen
+    medios-de-pago-del-comercio-exterior.md  del pago anticipado a la consignación, según quién corre el riesgo
+    carta-de-credito.md                  UCP 600 e ISBP: partes, presentación conforme, plazos, discrepancias, tipos
+    cobranza-documentaria.md             URC 522: documentos contra pago o contra aceptación, sin garantía del banco
+    pagos-del-comercio-exterior-en-argentina.md  mercado de cambios para pagar importaciones y cobrar exportaciones; SEPAIMPO y SECOEXPO
     aduana.md                            destinación, clasificación arancelaria, regímenes y canales de control
   Fundamentos/
     fundamentos-de-cadena-de-suministro.md  (entrada) historia, escuelas, posición contraria y fuentes
@@ -101,4 +106,6 @@ Cadena-de-suministro-y-logistica/
 - La tercerización logística va en Red de distribución y no en Transporte, porque un operador logístico puede guardar, preparar y mover: es una decisión sobre quién opera la red.
 - La logística inversa va en Despacho y entrega porque recorre el mismo camino al revés; el reingreso al stock es de Inventario y la devolución en una tienda, de Comercio electrónico.
 - Las métricas de la cadena no tienen vertical: el error de pronóstico va en Planificación, el costo logístico total en Red de distribución y el nivel de servicio de la entrega en Despacho y entrega.
-- Lo de la Argentina va en una sola nota del tema, como en Inventario y depósitos.
+- Lo de la Argentina va en una sola nota del tema, como en Inventario y depósitos. La excepción, desde #174, es lo cambiario del comercio exterior, que va en su propia nota dentro de Comercio exterior porque es un sujeto aparte (el mercado de cambios y sus sistemas de seguimiento) y cambia más seguido que lo aduanero.
+- La carta de crédito y la cobranza documentaria (#174) van en Comercio exterior y no en Tesorería porque son medios de pago atados a los documentos de la carga, que se pactan con el Incoterm; lo que le piden a la caja y al crédito de la empresa queda en Tesorería, que se enlaza. Los cinco medios de pago tienen una nota propia que las dos enlazan.
+- El flujo de entrada (#174) va en Transporte porque es el viaje de lo comprado; la confirmación del proveedor es de Compras y la descarga, de Inventario.

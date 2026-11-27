@@ -61,6 +61,7 @@ Las definiciones que dicen «CSCMP» salen del glosario del CSCMP de 2013, tradu
 | Horizonte de planificación | Planning horizon | Cuánto tiempo hacia adelante cubre un plan, dividido en períodos | [Planificación](../Planificacion/planificacion.md) |
 | Efecto látigo | Bullwhip effect, Forrester effect | La variabilidad de los pedidos crece a medida que sube por la cadena: un eslabón le compra a su proveedor de forma más variable de lo que vende | [efecto látigo](../Planificacion/efecto-latigo.md) |
 | Reposición gestionada por el proveedor | Vendor-managed inventory, VMI | Definición de la base, sin fuente leída: el proveedor decide cuándo y cuánto reponerle al cliente, con los datos de stock y de venta del cliente | [efecto látigo](../Planificacion/efecto-latigo.md) |
+| D/P, D/A | Documentos contra pago; documentos contra aceptación | [cobranza documentaria](../Comercio-exterior/cobranza-documentaria.md) |
 | CPFR | Collaborative planning, forecasting and replenishment | Definición de la base, sin fuente leída: cliente y proveedor acuerdan juntos el pronóstico y la reposición; como remedio del efecto látigo no tiene todavía fuente leída | [efecto látigo](../Planificacion/efecto-latigo.md) |
 
 ## Red de distribución
@@ -97,6 +98,10 @@ Las definiciones que dicen «CSCMP» salen del glosario del CSCMP de 2013, tradu
 | Flete | Freight rate, freight cost | Lo que el cargador paga por mover una carga. En este tema flete es siempre el precio, nunca la mercadería | [costo del flete](../Transporte/costo-del-flete.md) |
 | Peso facturable | Billable weight, chargeable weight | El peso sobre el que se cobra: el mayor entre el peso real y el volumétrico | [costo del flete](../Transporte/costo-del-flete.md) |
 | Consolidación | Consolidation | CSCMP: combinar dos o más envíos para conseguir una tarifa más baja. En este tema es siempre de cargas: en un vehículo, en el tiempo o en una red con transbordo. El cross-docking es la operación del centro donde se transborda sin guardar, y juntar el stock en menos depósitos se llama centralización | [consolidación y ruteo](../Transporte/consolidacion-y-ruteo.md) |
+| Flujo de entrada | Inbound logistics, inbound material flow | Llevar lo comprado desde que sale del proveedor hasta el muelle del comprador: planificar la llegada, el flete, el turno y medir las entregas | [flujo de entrada](../Transporte/flujo-de-entrada.md) |
+| Turno de descarga | Dock appointment | La ventana asignada a un camión en un muelle para descargar | [flujo de entrada](../Transporte/flujo-de-entrada.md#turnos-de-descarga-y-espera-de-los-camiones) |
+| Detención | Detention | El tiempo que el camión espera en el lugar más allá del plazo pactado; el tiempo total en el lugar es el tiempo de permanencia (dwell time) | [flujo de entrada](../Transporte/flujo-de-entrada.md#turnos-de-descarga-y-espera-de-los-camiones) |
+| Costo de llegada | Landed cost | Lo que cuesta la mercadería puesta en el depósito: precio, flete, seguro, derechos, despacho y manipulación; lo más cercano en la NIC 2 es el costo de compra | [flujo de entrada](../Transporte/flujo-de-entrada.md#el-costo-de-llegada) |
 | Ruteo de vehículos | Vehicle routing problem, VRP | Armar los recorridos de varios vehículos con capacidad que salen de un origen hacia muchos destinos, al menor costo | [consolidación y ruteo](../Transporte/consolidacion-y-ruteo.md) |
 
 ## Despacho y entrega
@@ -142,6 +147,16 @@ Las definiciones que dicen «CSCMP» salen del glosario del CSCMP de 2013, tradu
 | Sistema Armonizado | Harmonized System, HS | La nomenclatura común con que las aduanas clasifican las mercaderías | [aduana](../Comercio-exterior/aduana.md) |
 | Valoración aduanera | Customs valuation | Cómo se determina cuánto vale la mercadería para la aduana | [aduana](../Comercio-exterior/aduana.md) |
 | Gestión de riesgo, canal | Risk management, selectivity | Cómo decide la aduana cuánto revisa cada declaración | [aduana](../Comercio-exterior/aduana.md) |
+| Medios de pago del comercio exterior | Methods of payment | Las formas de cancelar una compraventa internacional, del pago anticipado a la consignación, según quién corre el riesgo | [medios de pago del comercio exterior](../Comercio-exterior/medios-de-pago-del-comercio-exterior.md) |
+| Cuenta abierta | Open account | El importador paga a plazo después de recibir, sin banco en el medio | [medios de pago del comercio exterior](../Comercio-exterior/medios-de-pago-del-comercio-exterior.md) |
+| Carta de crédito, crédito documentario | Letter of credit, documentary credit, LC | El compromiso irrevocable de un banco de pagar contra la presentación de los documentos que el crédito pide | [carta de crédito](../Comercio-exterior/carta-de-credito.md) |
+| Ordenante y beneficiario | Applicant, beneficiary | En la carta de crédito, el importador que la pide y el exportador a favor de quien se emite | [carta de crédito](../Comercio-exterior/carta-de-credito.md#las-partes) |
+| Banco emisor, confirmador, avisador, nominado | Issuing, confirming, advising, nominated bank | El que se compromete a pagar; el que suma su compromiso; el que avisa el crédito; donde se presentan los documentos | [carta de crédito](../Comercio-exterior/carta-de-credito.md#las-partes) |
+| Presentación conforme | Complying presentation | Documentos que cumplen el crédito, las UCP 600 y la práctica bancaria internacional, que recoge el ISBP | [carta de crédito](../Comercio-exterior/carta-de-credito.md#la-presentación-conforme-y-sus-plazos) |
+| Discrepancia | Discrepancy | Lo que hace que una presentación no sea conforme y deja al banco rechazarla | [carta de crédito](../Comercio-exterior/carta-de-credito.md#discrepancias-el-punto-donde-falla) |
+| Carta de crédito stand-by | Standby letter of credit, SBLC | Una carta de crédito que funciona como garantía de pago, con reglas propias (ISP98) | [carta de crédito](../Comercio-exterior/carta-de-credito.md#los-tipos-que-se-usan) |
+| Cobranza documentaria | Documentary collection, D/C | El banco suelta los documentos al importador contra pago o contra aceptación de una letra, sin garantizar el pago | [cobranza documentaria](../Comercio-exterior/cobranza-documentaria.md) |
+| Documentos contra pago, contra aceptación | Documents against payment (D/P), documents against acceptance (D/A) | Las dos modalidades de la cobranza: se paga al retirar los documentos, o se firma una letra a plazo | [cobranza documentaria](../Comercio-exterior/cobranza-documentaria.md#contra-pago-o-contra-aceptación) |
 | Despachante de aduana | Customs broker | Quien hace el trámite aduanero por el importador o el exportador; en la Argentina no es obligatorio | [Cadena de suministro y logística en la Argentina](../cadena-de-suministro-y-logistica-en-argentina.md) |
 
 ## Siglas
@@ -151,17 +166,21 @@ Las definiciones que dicen «CSCMP» salen del glosario del CSCMP de 2013, tradu
 | 3PL, 4PL | Operador logístico; quien coordina a varios operadores | [tercerización logística](../Red-de-distribucion/tercerizacion-logistica.md) |
 | APQC | La organización que publica el Process Classification Framework (PCF), la taxonomía de procesos que cita la base | [marcos](marcos-de-la-cadena-de-suministro.md#el-pcf-de-apqc-proceso-por-proceso) |
 | ASCM | Association for Supply Chain Management, de la fusión del Supply Chain Council y APICS en 2014: publica SCOR | [marcos](marcos-de-la-cadena-de-suministro.md#scor-qué-versión-se-leyó) |
-| ASN | Advance ship notice, aviso de despacho anticipado | [despacho](../Despacho-y-entrega/despacho.md) |
+| ASN | Advance ship notice, aviso de despacho anticipado | [despacho](../Despacho-y-entrega/despacho.md); del lado de quien recibe, [flujo de entrada](../Transporte/flujo-de-entrada.md#el-aviso-de-despacho-saber-antes-qué-llega) |
 | B/L, AWB | Conocimiento de embarque; guía aérea | [documentos del comercio exterior](../Comercio-exterior/documentos-del-comercio-exterior.md) |
 | CPFR | Planificación, pronóstico y reposición en colaboración | [efecto látigo](../Planificacion/efecto-latigo.md) |
 | CSCMP | Council of Supply Chain Management Professionals, ex Council of Logistics Management: publica el glosario que cita esta base | [fundamentos](fundamentos-de-cadena-de-suministro.md#de-la-logística-a-la-cadena-de-suministro) |
 | DC, CD | Distribution center, centro de distribución | [Red de distribución](../Red-de-distribucion/red-de-distribucion.md) |
 | DRP | Distribution requirements planning, planificación de la distribución | [planificación de la distribución](../Planificacion/planificacion-de-la-distribucion.md) |
 | FTL, TL, LTL | Carga completa; carga consolidada | [modos de transporte](../Transporte/modos-de-transporte.md) |
-| ICC | Cámara de Comercio Internacional, dueña de los Incoterms | [Incoterms](../Comercio-exterior/incoterms.md) |
+| ICC | Cámara de Comercio Internacional, dueña de los Incoterms y de las reglas de la carta de crédito y la cobranza | [Incoterms](../Comercio-exterior/incoterms.md), [carta de crédito](../Comercio-exterior/carta-de-credito.md#las-reglas-y-sus-versiones) |
+| ISBP, ISP98 | Práctica bancaria para examinar documentos; reglas de la stand-by | [carta de crédito](../Comercio-exterior/carta-de-credito.md#las-reglas-y-sus-versiones) |
+| LC, SBLC | Carta de crédito; carta de crédito stand-by | [carta de crédito](../Comercio-exterior/carta-de-credito.md) |
 | MAPE, MASE | Medidas del error de pronóstico | [error de pronóstico](../Planificacion/error-de-pronostico.md) |
 | OTIF | On time in full, a tiempo y completo | [nivel de servicio logístico](../Despacho-y-entrega/nivel-de-servicio-logistico.md) |
 | PCF | Process Classification Framework de APQC | [marcos](marcos-de-la-cadena-de-suministro.md#el-pcf-de-apqc-proceso-por-proceso) |
+| SEPAIMPO, SECOEXPO | Los sistemas del BCRA de seguimiento de pagos de importaciones y de cobros de exportaciones | [pagos del comercio exterior en la Argentina](../Comercio-exterior/pagos-del-comercio-exterior-en-argentina.md#sepaimpo-y-secoexpo-el-banco-que-sigue-cada-operación) |
+| UCP 600, URC 522 | Las reglas de la ICC para la carta de crédito y para la cobranza | [carta de crédito](../Comercio-exterior/carta-de-credito.md#las-reglas-y-sus-versiones), [cobranza documentaria](../Comercio-exterior/cobranza-documentaria.md#las-partes-y-las-reglas) |
 | POD | Proof of delivery, prueba de entrega | [prueba de entrega](../Despacho-y-entrega/prueba-de-entrega.md) |
 | S&OP | Sales and operations planning, plan de ventas y operaciones | [plan de ventas y operaciones](../Planificacion/plan-de-ventas-y-operaciones.md) |
 | SA, HS | Sistema Armonizado | [aduana](../Comercio-exterior/aduana.md) |

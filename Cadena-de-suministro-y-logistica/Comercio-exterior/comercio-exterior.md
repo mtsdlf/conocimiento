@@ -20,7 +20,7 @@ revisado: 2026-11-27
 
 Comercio exterior, en este tema, es lo que cambia en el movimiento de la mercadería cuando cruza una frontera: se suman actores, un reparto pactado de costos y riesgos entre comprador y vendedor (los Incoterms), documentos que viajan con la carga y un control de la aduana antes de que la mercadería se pueda usar o embarcar.
 
-Es la quinta parte de [Cadena de suministro y logística](../cadena-de-suministro-y-logistica.md). El viaje en sí lo cuenta [Transporte](../Transporte/transporte.md), con sus [modos](../Transporte/modos-de-transporte.md) y el [costo del flete](../Transporte/costo-del-flete.md); la salida desde la puerta, [Despacho y entrega](../Despacho-y-entrega/despacho-y-entrega.md). Comercio exterior agrega lo que pasa en el borde. Lo que se paga al cruzar (derechos, tasas, IVA y percepciones) existe y pesa en el costo, pero es de Impuestos; lo de la Argentina está en [comercio exterior en Argentina](../../Impuestos/comercio-exterior-en-argentina.md). El pago al exterior es de Tesorería: en la Argentina, [comprar dólares y pagar importaciones](../../Tesoreria/tesoreria-en-argentina.md#comprar-dólares-y-pagar-importaciones); la carta de crédito no tiene nota en la base. La diferencia de cambio entre la compra y el pago está en [moneda extranjera](../../Contabilidad/Operaciones/moneda-extranjera.md), de Contabilidad.
+Es la quinta parte de [Cadena de suministro y logística](../cadena-de-suministro-y-logistica.md). El viaje en sí lo cuenta [Transporte](../Transporte/transporte.md), con sus [modos](../Transporte/modos-de-transporte.md) y el [costo del flete](../Transporte/costo-del-flete.md); la salida desde la puerta, [Despacho y entrega](../Despacho-y-entrega/despacho-y-entrega.md). Comercio exterior agrega lo que pasa en el borde. Lo que se paga al cruzar (derechos, tasas, IVA y percepciones) existe y pesa en el costo, pero es de [Impuestos](../../Impuestos/impuestos.md); en la Argentina, [comercio exterior en Argentina](../../Impuestos/comercio-exterior-en-argentina.md). Cómo se paga la operación está abajo, y lo que el pago le pide a la caja y al crédito de la empresa, en [Tesorería](../../Tesoreria/tesoreria.md); en la Argentina, [comprar dólares y pagar importaciones](../../Tesoreria/tesoreria-en-argentina.md#comprar-dólares-y-pagar-importaciones). La diferencia de cambio entre la compra y el pago está en [moneda extranjera](../../Contabilidad/Operaciones/moneda-extranjera.md), de Contabilidad.
 
 ## Quién interviene cuando la carga cruza
 
@@ -37,7 +37,7 @@ Una compra local tiene dos partes y un transportista. Una importación suma por 
 
 El mismo código deja que el importador gestione «por sí» el despacho aduanero (art. 37): el despachante es una opción, no una obligación, al menos en la Argentina.
 
-> [!NOTE] Sin fuente todavía: el agente de carga internacional (freight forwarder), la terminal y el depósito fiscal, y el banco en la cobranza. Faltan una fuente que defina cada papel y un libro de texto que ordene la lista (Ballou o Chopra y Meindl, no abiertos).
+> [!NOTE] Sin fuente todavía: el agente de carga internacional (freight forwarder), la terminal y el depósito fiscal. Los bancos, cuando el pago va por [carta de crédito](carta-de-credito.md#las-partes) o [cobranza documentaria](cobranza-documentaria.md#las-partes-y-las-reglas), están en sus notas. Faltan una fuente que defina cada papel y un libro de texto que ordene la lista (Ballou o Chopra y Meindl, no abiertos).
 
 ## El recorrido de una importación
 
@@ -57,7 +57,7 @@ flowchart LR
 2. El vendedor entrega la carga en el lugar pactado y se emite el [documento de transporte](documentos-del-comercio-exterior.md), que en el barco puede ser además título de la mercadería.
 3. La carga viaja. Mientras tanto es stock en tránsito: está comprometida o pagada, y no se puede vender.
 4. Al llegar, el importador o su despachante declara ante la [aduana](aduana.md) qué es, cuánto vale y para qué entra. La aduana decide con gestión de riesgo cuánto controla.
-5. La aduana libera la mercadería (lo que haya que pagar para eso es de Impuestos; en la Argentina, los [tributos de la aduana](../../Impuestos/comercio-exterior-en-argentina.md#tributos-de-la-aduana)) y la carga entra al depósito por la [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md), de Inventario.
+5. La aduana libera la mercadería (lo que haya que pagar para eso es de Impuestos; en la Argentina, los [tributos de la aduana](../../Impuestos/comercio-exterior-en-argentina.md#tributos-de-la-aduana)) y la carga hace el último tramo del [flujo de entrada](../Transporte/flujo-de-entrada.md) y entra al depósito por la [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md), de Inventario.
 
 La exportación recorre lo mismo al revés: la declaración y el control ocurren antes del embarque, y el documento de transporte se emite al cargar.
 
@@ -67,6 +67,10 @@ Un pedido al exterior tarda más y con más variación que uno local: suma el tr
 
 > [!NOTE] Sin fuente todavía: plazos típicos de tránsito marítimo y aéreo y de despacho aduanero, con cifras y fecha.
 
+## Cómo se paga una operación
+
+Comprador y vendedor no se conocen o están lejos, y alguno de los dos tiene que adelantarse: el vendedor manda sin cobrar o el comprador paga sin recibir. Los [medios de pago del comercio exterior](medios-de-pago-del-comercio-exterior.md) se ordenan por quién corre ese riesgo, del pago anticipado a la cuenta abierta. Dos de ellos, la [carta de crédito](carta-de-credito.md) y la [cobranza documentaria](cobranza-documentaria.md), atan el pago a los documentos de la carga.
+
 ## La operación de comercio exterior como registro
 
 Como criterio de la base, un sistema que importa o exporta necesita un objeto propio, la operación de comercio exterior, que cuelga de una o varias órdenes de compra o pedidos de venta y junta lo que el pedido no tiene:
@@ -75,7 +79,8 @@ Como criterio de la base, un sistema que importa o exporta necesita un objeto pr
 - El embarque, que es la carga de la operación puesta en el medio de transporte: medio, contenedores o bultos, fechas estimadas y reales de salida y llegada.
 - Los [documentos](documentos-del-comercio-exterior.md#el-documento-como-registro) que viajan con la carga, cada uno con su número y su estado.
 - La [declaración ante la aduana](aduana.md#la-declaración-como-registro), con su canal de control y su estado.
-- Los costos del flete, el seguro y el despacho aduanero, que después se reparten sobre los artículos. Cómo entran al costo es de Contabilidad, en [costo de lo vendido](../../Contabilidad/Operaciones/costo-de-lo-vendido.md).
+- El medio de pago y, si lo hay, la [carta de crédito](carta-de-credito.md#lo-que-registra-un-sistema) o la [cobranza](cobranza-documentaria.md#lo-que-registra-un-sistema) que la paga.
+- Los costos del flete, el seguro, el despacho aduanero y los gastos bancarios, que después se reparten sobre los artículos como [costo de llegada](../Transporte/flujo-de-entrada.md#el-costo-de-llegada). Cómo entran al costo es de Contabilidad, en [costo de lo vendido](../../Contabilidad/Operaciones/costo-de-lo-vendido.md).
 
 Los estados siguen el recorrido: planificada, embarcada, en tránsito, arribada, en aduana, liberada y recibida. La lista es de la base.
 
@@ -85,4 +90,8 @@ Los estados siguen el recorrido: planificada, embarcada, en tránsito, arribada,
 
 - [Incoterms](incoterms.md): las once reglas de la ICC, sus dos grupos, lo que no regulan y el Incoterm como dato de la operación.
 - [Documentos del comercio exterior](documentos-del-comercio-exterior.md): el conocimiento de embarque y sus tres funciones, la guía no negociable y los documentos electrónicos transmisibles.
+- [Medios de pago del comercio exterior](medios-de-pago-del-comercio-exterior.md): los cinco medios, del pago anticipado a la consignación, según quién corre el riesgo.
+- [Carta de crédito](carta-de-credito.md): el compromiso de un banco de pagar contra documentos, las UCP 600, la presentación conforme, sus plazos y las discrepancias.
+- [Cobranza documentaria](cobranza-documentaria.md): el banco suelta los documentos contra pago o contra aceptación, sin garantizar; las URC 522.
+- [Pagos del comercio exterior en la Argentina](pagos-del-comercio-exterior-en-argentina.md): el acceso al mercado de cambios para pagar importaciones y la obligación de ingresar los cobros de exportaciones.
 - [Aduana](aduana.md): la declaración, la clasificación arancelaria con el Sistema Armonizado, la valoración, los regímenes y el control por gestión de riesgo.
