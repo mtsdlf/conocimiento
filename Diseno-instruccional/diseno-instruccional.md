@@ -9,8 +9,11 @@ fuentes:
   - "Biggs (2014), Constructive alignment in university teaching: https://www.tru.ca/__shared/assets/herdsa33493.pdf"
   - "Mayer (2023), Research-Based Principles for Designing Multimedia Instruction: https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-research-based-principles-for-designing-multimedia-instruction-mayer.pdf"
   - "Means, Toyama, Murphy y Bakia (2013), Teachers College Record 115(3): https://draft.epsy5221.education.uconn.edu/wp-content/uploads/sites/2358/2018/08/Means-2013-meta-analysius.pdf"
+  - "34 CFR 600.2, definición de credit hour (EE. UU.): https://www.ecfr.gov/current/title-34/subtitle-B/chapter-VI/part-600/subpart-A/section-600.2 (texto completo)"
+  - "Rice University, Center for Teaching Excellence, Course Workload Estimator: https://cte.rice.edu/workload (texto completo)"
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
+  - "Diseno-instruccional/.investigacion/fuentes-analisis-previo-2026-11.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [instructional design, diseño de cursos, diseño curricular, currículo, learning design, diseño de la formación, ISD]
 creado: 2026-11-27
@@ -73,15 +76,15 @@ Casi todo viene de escuelas, universidades y salud. Llevarlo a adultos que apren
 - Si tenés que armar slides, un video o un tutorial: [principios multimedia](Materiales-y-carga-cognitiva/principios-multimedia.md) y [carga cognitiva en el aprendizaje](Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md).
 - Si el grupo mezcla novatos y gente con experiencia: [análisis de quien aprende](Analisis-previo/analisis-de-quien-aprende.md).
 - Si tenés que elegir entre presencial, en línea o mixto: [en línea, presencial y mixto](Formatos/en-linea-presencial-y-mixto.md).
-- Si tenés que decidir entre cohorte y ritmo propio: [cohorte o ritmo propio](Formatos/cohorte-o-ritmo-propio.md); no hay evidencia comparativa, y la nota lo dice.
+- Si tenés que decidir entre cohorte y ritmo propio: [cohorte o ritmo propio](Formatos/cohorte-o-ritmo-propio.md); las comparaciones son pocas y no coinciden, y la nota lo dice.
 - Si alguien justifica una decisión con el 70-20-10 o con «los adultos aprenden distinto»: [mitos del diseño instruccional](Fundamentos/mitos-del-diseno-instruccional.md).
 - Si tenés que elegir o defender un modelo de diseño para un equipo: [modelos de diseño](Modelos-de-diseno/modelos-de-diseno.md) y [ADDIE y SAM](Modelos-de-diseno/addie-y-sam.md).
 - Si tenés que escribir las preguntas de evaluación del curso: no hay nota en este tema; lo más cercano es [alineación constructiva](Objetivos-de-aprendizaje/alineacion-constructiva.md), y, en Evaluación educativa, [instrumentos](../Evaluacion-educativa/Instrumentos/instrumentos.md) y [opción múltiple](../Evaluacion-educativa/Instrumentos/opcion-multiple.md).
 - Si el camino tiene un mentor: no hay nota en este tema; está en Didáctica, con [mentoría](../Didactica/Tutoria-y-mentoria/mentoria.md), [tutoría](../Didactica/Tutoria-y-mentoria/tutoria.md) y [aprendizaje cognitivo](../Didactica/Practica-guiada-y-andamiaje/aprendizaje-cognitivo.md), el modelo del aprendiz que mira, practica con ayuda y la va perdiendo.
-- Si tenés que dimensionar un curso (cuántos objetivos entran en una hora, cómo repartir el tiempo entre explicar y practicar): no hay guía; lo más cercano es [objetivo de desempeño](Objetivos-de-aprendizaje/objetivo-de-desempeno.md) para acotar qué entra.
+- Si tenés que dimensionar un curso (cuántos objetivos entran en una hora, cómo repartir el tiempo entre explicar y practicar): no hay guía con evidencia; lo más cercano es [objetivo de desempeño](Objetivos-de-aprendizaje/objetivo-de-desempeno.md) para acotar qué entra. Hay dos referencias, que son guías y no estudios, y miden horas de trabajo, no objetivos. Una norma federal de EE. UU. cuenta, por crédito, «one hour of classroom or direct faculty instruction and a minimum of two hours of out-of-class student work each week for approximately fifteen weeks». El estimador de carga de la Universidad Rice da ritmos de lectura y escritura, por ejemplo 14 páginas por hora para entender un libro de texto con algunos conceptos nuevos, y avisa que son «just that: estimates».
 - Si tenés que decidir si un curso funcionó: no hay nota en este tema; está en [evaluar un programa](../Evaluacion-educativa/Evaluar-un-programa/evaluar-un-programa.md) y [niveles de Kirkpatrick](../Evaluacion-educativa/Evaluar-un-programa/niveles-de-kirkpatrick.md), de Evaluación educativa.
 
-> [!NOTE] Sin fuente todavía: una guía para dimensionar un curso, como cuántos objetivos caben por hora o qué parte del tiempo va a explicar, practicar y evaluar.
+> [!NOTE] Sin fuente todavía: una guía, aunque sea de practicantes, de cuántos objetivos caben por hora o qué parte del tiempo va a explicar, practicar y evaluar.
 
 ## De la pregunta al curso: un orden de lectura
 

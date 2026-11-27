@@ -8,8 +8,11 @@ fuentes:
   - "Queen Mary University of London, Constructive alignment: https://www.qmul.ac.uk/queenmaryacademy/educators/resources/curriculum-design/constructive-alignment (resumen del buscador)"
   - "Constructive alignment (Wikipedia): https://en.wikipedia.org/wiki/Constructive_alignment (página parcial)"
   - "Hidden curriculum (Wikipedia): https://en.wikipedia.org/wiki/Hidden_curriculum"
+  - "Hidden curriculum, en Kridel (ed.) (2010), Encyclopedia of Curriculum Studies, SAGE: https://sk.sagepub.com/ency/edvol/embed/curriculumstudies/chpt/hidden-curriculum (página parcial)"
+  - "Leber, Renkl, Nückles y Wäschle (2018), When the Type of Assessment Counteracts Teaching for Understanding, Learning: Research and Practice 4(2), 161-179, doi 10.1080/23735082.2017.1285422: https://eric.ed.gov/?id=EJ1193995 (abstract)"
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
+  - "Diseno-instruccional/.investigacion/fuentes-objetivos-y-secuencia-2026-11.md"
 aliases: [constructive alignment, alineación, alineamiento constructivo, Biggs, backwash, efecto de retroceso, currículo oculto, hidden curriculum]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -33,7 +36,7 @@ El término se acuñó en 1999, según una guía universitaria. Wikipedia lo res
 
 El efecto de retroceso (*backwash*) es la razón de fondo: los estudiantes aprenden lo que esperan que se evalúe. Si la evaluación pide recordar, se estudia para recordar, diga lo que diga el objetivo.
 
-Lo mismo explica el currículo oculto, el término de Philip Jackson (*Life in Classrooms*, 1968) para lo que se aprende sin estar declarado: normas, valores y creencias que transmite la vida del aula. En un curso de adultos, el equivalente útil es lo que el recorrido enseña por cómo está armado: qué premia, qué evalúa, qué deja pasar. Esa conexión entre currículo oculto y retroceso es una lectura del informe de esta base, no de una fuente.
+Lo mismo explica el currículo oculto, el término de Philip Jackson (*Life in Classrooms*, 1968) para lo que se aprende sin estar declarado: normas, valores y creencias que transmite la vida del aula. La *Encyclopedia of Curriculum Studies* confirma la autoría («As coined in 1968 by Philip W. Jackson in Life in Classrooms») y lo define como «student learning that is not described by curriculum planners or teachers as an explicit aim of instruction». En un curso de adultos, el equivalente útil es lo que el recorrido enseña por cómo está armado: qué premia, qué evalúa, qué deja pasar. Esa conexión entre currículo oculto y retroceso es una lectura del informe de esta base, no de una fuente.
 
 ## Qué evidencia hay
 
@@ -45,9 +48,11 @@ La evidencia que reúne Biggs, que es parte interesada, es observacional:
 
 La conclusión del propio Biggs: «constructively aligned teaching seems to produce high quality learning outcomes and student satisfaction. We now require larger scale controlled studies». Reconoce también un costo inicial de tiempo para rediseñar.
 
+Hay un estudio con grupo de comparación sobre el retroceso, la pieza que sostiene la alineación. Leber, Renkl, Nückles y Wäschle (2018) hicieron un cuasi-experimento de campo con 81 universitarios. Probaron el desalineo hacia abajo: «using and announcing a fact-oriented test when trying to teach for understanding». Según su resumen, en la condición alineada los estudiantes «applied more elaboration strategies and revealed better learning outcomes in terms of understanding». No es un estudio a gran escala del curso entero, como los «larger scale controlled studies» que Biggs reclama.
+
 > [!IMPORTANT]
 > **Es un regreso al conductismo (Jervis y Jervis 2005; Hil 2012).** Fijar resultados de antemano predetermina qué cuenta como aprender.
 >
 > **Los resultados pueden ser abiertos (Biggs 2014).** Los verbos pueden ser «diseñar» o «crear», y la evaluación puede ser flexible, por ejemplo con portfolios.
 
-> [!NOTE] Sin fuente todavía: estudios controlados de alineación constructiva; la fuente primaria de Jackson (1968) no se verificó.
+> [!NOTE] Sin fuente todavía: estudios controlados a gran escala de cursos con alineación constructiva; el texto de Jackson (1968), que solo se verificó por una enciclopedia.

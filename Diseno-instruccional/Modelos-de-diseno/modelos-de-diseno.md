@@ -7,7 +7,10 @@ fuentes:
   - "Molenda (2003), In Search of the Elusive ADDIE Model, Performance Improvement 42(5), 34-36, doi 10.1002/pfi.4930420508 (no leído; resumen del buscador)"
   - "Costa, Miranda y Melo (2022), meta-análisis de 4C/ID, Learning Environments Research 25(2), 445-463, doi 10.1007/s10984-021-09373-y (abstract)"
   - "Li et al. (2025), meta-análisis de los nueve eventos de Gagné, Frontiers in Medicine 12:1522830: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1522830/full"
+  - "Bishop, Boling, Elen y Svihla (eds.) (2020), Handbook of Research in Educational Communications and Technology, Springer, doi 10.1007/978-3-030-36119-8: lista de capítulos en Crossref, https://api.crossref.org/works?filter=isbn:9783030361181 (solo títulos y autores)"
+  - "Branch y Kopcha (2014), Instructional Design Models, en Spector, Merrill, Elen y Bishop (eds.), Handbook of Research on Educational Communications and Technology, 4.ª ed., Springer, pp. 77-87, doi 10.1007/978-1-4614-3185-5_7 (solo la ficha)"
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
+  - "Diseno-instruccional/.investigacion/fuentes-modelos-y-materiales-2026-11.md"
 aliases: [modelos de diseño instruccional, instructional design models, ISD, instructional systems design, modelos de DI]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -51,4 +54,10 @@ Un modelo de diseño es un proceso de trabajo; lo que sí se puede probar es la 
 - [4C/ID](4c-id.md): los cuatro componentes y los diez pasos para habilidades complejas, con su metaanálisis.
 - [Principios de instrucción](principios-de-instruccion.md): los primeros principios de Merrill y los nueve eventos de Gagné, como listas para revisar una lección.
 
-> [!NOTE] Sin fuente todavía: el índice del *Handbook of Research in Educational Communications and Technology: Learning Design* (5.ª ed., 2020) y su capítulo sobre modelos.
+## Dónde los trata el manual de referencia
+
+En la 5.ª edición del *Handbook of Research in Educational Communications and Technology* (Bishop, Boling, Elen y Svihla, eds., 2020) no aparece un capítulo sobre modelos, según la lista de capítulos registrada en Crossref. Esa lista trae 26 capítulos de investigación y 13 casos de diseño, cada parte con su introducción; entre los de investigación hay capítulos sobre motivación, transferencia, accesibilidad y evaluación.
+
+El capítulo sobre modelos es de la 4.ª edición (Spector, Merrill, Elen y Bishop, eds., 2014): Branch y Kopcha, «Instructional Design Models», pp. 77-87. Solo se vio su ficha.
+
+> [!NOTE] Sin fuente todavía: el texto de Branch y Kopcha (2014) y cómo clasifican los modelos.
