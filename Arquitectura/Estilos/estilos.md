@@ -3,7 +3,7 @@ resumen: >-
   Un estilo de arquitectura es la forma general en que se arma un sistema: cómo se parte (por capas
   técnicas o por dominio) y cuántas unidades se despliegan por separado. Va del monolito modular,
   con un solo despliegue, a los microservicios, con uno por servicio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mark Richards y Neal Ford, Fundamentals of Software Architecture, 2ª ed. (O'Reilly, 2025), índice: https://nealford.com/books/SAF2e.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Martin Fowler, What do you mean by Event-Driven? (2017): https://martinfowler.com/articles/201701-event-driven.html"
 aliases: [estilos de arquitectura, architecture styles, estilos arquitectónicos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estilos

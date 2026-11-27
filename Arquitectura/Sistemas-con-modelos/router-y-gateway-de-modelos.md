@@ -2,7 +2,7 @@
 resumen: >-
   El router decide qué modelo atiende cada consulta y el gateway es el punto único por el que la
   aplicación llama a los modelos, con el control de acceso, el costo y el fallback en un solo lugar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -12,7 +12,7 @@ fuentes:
   - https://www.latent.space/p/ainews-is-harness-engineering-real
 aliases: [model router, router de modelos, model gateway, AI gateway, LLM gateway, gateway de modelos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Router y gateway de modelos

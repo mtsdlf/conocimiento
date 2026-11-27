@@ -2,7 +2,7 @@
 resumen: >-
   Multi-tenancy es servir a varios clientes (tenants) desde una misma instancia, con los datos de
   cada uno aislados de los demás.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "AWS, SaaS Lens, Silo, pool, and bridge models: https://docs.aws.amazon.com/wellarchitected/latest/saas-lens/silo-pool-and-bridge-models.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Archivo/Desarrollo/epicas-historias-usuario-ecommerce.md (original)"
 aliases: [Multitenancy, Multi-tenant, Multiinquilino, Tenant]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Multi-tenancy

@@ -3,7 +3,7 @@ resumen: >-
   Event-driven es el estilo en que las piezas de un sistema se comunican publicando eventos (algo que
   pasó) y reaccionando a los de otras, en lugar de llamarse directo. Se arma en dos topologías: broker,
   sin coordinador, y mediator, con uno que lleva el estado del flujo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, What do you mean by Event-Driven? (2017-02-07): https://martinfowler.com/articles/201701-event-driven.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Mark Richards y Neal Ford, Fundamentals of Software Architecture, 2ª ed. (O'Reilly, 2025), índice: https://nealford.com/books/SAF2e.html"
 aliases: [event-driven architecture, EDA, arquitectura orientada a eventos, arquitectura dirigida por eventos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Event-driven

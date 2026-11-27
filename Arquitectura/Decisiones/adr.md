@@ -3,7 +3,7 @@ resumen: >-
   Un ADR (architecture decision record) es un texto corto, guardado junto al código, que registra
   una decisión de arquitectura con su contexto, lo que se decidió y sus consecuencias, para que se
   pueda entender y revisar después.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions
@@ -12,7 +12,7 @@ fuentes:
   - https://nealford.com/books/SAF2e.html
 aliases: [architecture decision record, registro de decisión de arquitectura, MADR, decision log]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # ADR

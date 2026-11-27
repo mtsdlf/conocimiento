@@ -3,7 +3,7 @@ resumen: >-
   Una fitness function es una prueba automática y objetiva de que el sistema sigue cumpliendo una
   característica arquitectónica, como un test unitario pero para la arquitectura; con un modelo de
   IA adentro, una evaluación con umbral cumple ese papel.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.thoughtworks.com/en-us/insights/podcasts/technology-podcasts/rethinking-software-governance-reflecting-second-edition-building-evolutionary-architectures
@@ -13,7 +13,7 @@ fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
 aliases: [función de aptitud, architectural fitness function]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fitness function

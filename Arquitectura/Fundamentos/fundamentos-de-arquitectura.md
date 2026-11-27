@@ -3,7 +3,7 @@ resumen: >-
   Los fundamentos de arquitectura son lo que cruza todo el tema sin ser una parte del sistema: las
   escuelas que lo piensan distinto, lo que pierde peso y por qué, la bibliografía y las creencias
   que la evidencia no sostiene.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://nealford.com/books/SAF2e.html
@@ -14,7 +14,7 @@ fuentes:
   - https://www.infoq.com/news/2020/05/monolith-decomposition-newman/
   - https://www.infoq.com/news/2023/05/prime-ec2-ecs-saves-costs/
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de arquitectura

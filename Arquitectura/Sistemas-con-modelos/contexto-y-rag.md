@@ -3,7 +3,7 @@ resumen: >-
   El contexto es la información que se le pone al modelo junto con la consulta para que pueda
   responder lo que no sabe; RAG (generación aumentada por recuperación) es la forma de armarlo
   buscando en una base de documentos solo los fragmentos relevantes para cada consulta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -16,7 +16,7 @@ fuentes:
   - https://arxiv.org/pdf/2501.01880
 aliases: [RAG, retrieval-augmented generation, generación aumentada por recuperación, context construction, construcción de contexto, context engineering]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contexto y RAG

@@ -3,7 +3,7 @@ resumen: >-
   CQRS (Command Query Responsibility Segregation) separa el modelo que actualiza los datos del modelo
   que los lee, para que cada uno tenga la forma que le sirve. Agrega complejidad y, para la mayoría de
   los sistemas, no hace falta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, CQRS (2011-07-14): https://martinfowler.com/bliki/CQRS.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Chris Richardson, Pattern: Event sourcing, microservices.io: https://microservices.io/patterns/data/event-sourcing.html"
 aliases: [Command Query Responsibility Segregation, separación de comandos y consultas, event sourcing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # CQRS

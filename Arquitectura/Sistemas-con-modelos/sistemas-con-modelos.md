@@ -3,7 +3,7 @@ resumen: >-
   Un sistema con modelos es una aplicación que tiene un modelo de IA como una pieza más, y su
   arquitectura son las capas que se le suman alrededor (contexto, guardrails, router y gateway,
   cache, lógica y acciones, observabilidad, orquestación), de a una y solo cuando la medición la pide.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -13,7 +13,7 @@ fuentes:
   - "Huyen, AI Engineering (O'Reilly, 2025), cap. 10 «AI Engineering Architecture and User Feedback», sección de arquitectura, pp. 449-473"
 aliases: [AI engineering architecture, arquitectura de AI engineering, sistemas con LLM, plataforma de IA generativa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sistemas con modelos

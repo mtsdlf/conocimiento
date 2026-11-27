@@ -3,7 +3,7 @@ resumen: >-
   El feedback de usuario es la señal que deja el uso real sobre si una salida sirvió, sea pedida
   (un pulgar, una calificación) o inferida de lo que la persona hace (corregir, regenerar,
   abandonar); vuelve al sistema como traza y como etiqueta para la evaluación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -14,7 +14,7 @@ fuentes:
   - https://www.thoughtworks.com/en-us/radar/techniques/summary/
 aliases: [user feedback, retroalimentación de usuario, feedback explícito, feedback implícito]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Feedback de usuario

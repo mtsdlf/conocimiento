@@ -3,7 +3,7 @@ resumen: >-
   Con un modelo de lenguaje adentro, el costo por consulta y la latencia pasan a ser características
   de primera: el costo crece con las consultas y los tokens de entrada y salida, y la latencia se
   parte en el tiempo hasta el primer token (TTFT) y el tiempo por token de salida (TPOT).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -11,7 +11,7 @@ fuentes:
   - https://thenewstack.io/pg-99-conf-2026-inference-costs/
 aliases: [TTFT, TPOT, time to first token, time per output token, costo por consulta, latencia de inferencia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costo y latencia

@@ -3,7 +3,7 @@ resumen: >-
   Un diagrama de arquitectura muestra la estructura de un sistema con un vocabulario que todos leen
   igual; el modelo C4 lo organiza en cuatro niveles de zoom (contexto, contenedores, componentes y
   código), cada uno para una audiencia distinta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://c4model.com/
@@ -11,7 +11,7 @@ fuentes:
   - https://nealford.com/books/SAF2e.html
 aliases: [C4, modelo C4, C4 model, diagramas de arquitectura]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Diagramas

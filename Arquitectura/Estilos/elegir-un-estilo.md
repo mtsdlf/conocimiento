@@ -3,7 +3,7 @@ resumen: >-
   Elegir un estilo es ir de las características que el sistema tiene que cumplir, priorizadas, al
   estilo que mejor las sostiene, sabiendo que cada estilo gana en unas y pierde en otras. La elección
   se registra y se vuelve a medir: no se hace una sola vez.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft, Architecture styles, Azure Architecture Center (2025-09-25): https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/"
@@ -13,7 +13,7 @@ fuentes:
   - "Martin Fowler, Microservice Trade-Offs (2015): https://martinfowler.com/articles/microservice-trade-offs.html"
 aliases: [elegir un estilo de arquitectura, choosing an architecture style, selección de estilo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir un estilo

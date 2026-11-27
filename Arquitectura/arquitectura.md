@@ -4,7 +4,7 @@ resumen: >-
   características tiene que cumplir el sistema, cómo se parte en módulos, con qué estilo se
   arma y cómo se verifica que sigue funcionando, también cuando una de sus piezas es un modelo
   de IA que no responde siempre lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://nealford.com/books/SAF2e.html
@@ -13,7 +13,7 @@ fuentes:
   - https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html
 aliases: [arquitectura de software, software architecture]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Arquitectura

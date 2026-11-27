@@ -3,7 +3,7 @@ resumen: >-
   La evaluación de un sistema con un modelo mide, sobre un conjunto de casos que imita el uso real,
   qué proporción de las salidas cumple los criterios del producto; reemplaza a la prueba de
   resultado exacto cuando la misma entrada puede dar salidas distintas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -19,7 +19,7 @@ fuentes:
   - https://arxiv.org/abs/2502.14318
 aliases: [evals, eval, evaluation, evaluación de LLM]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación

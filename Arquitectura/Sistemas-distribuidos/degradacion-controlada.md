@@ -2,14 +2,14 @@
 resumen: >-
   Degradación controlada es decidir qué devuelve un servicio cuando falla una dependencia: datos
   parciales en lecturas, error explícito o estado "pendiente" en comandos críticos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
   - "Resilience4j, Getting Started (Spring Boot 3), fallback methods: https://resilience4j.readme.io/docs/getting-started-3"
 aliases: [Graceful degradation, Fallback, Degradación elegante]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Degradación controlada

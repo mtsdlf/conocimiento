@@ -3,7 +3,7 @@ resumen: >-
   Un monolito modular es un sistema con una sola unidad de despliegue, partido por dentro en módulos
   de dominio que se hablan solo por una interfaz definida. Tiene los límites de los microservicios sin
   el costo de la red.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kamil Grzybek, Modular Monolith: A Primer (2019-12-02): https://www.kamilgrzybek.com/blog/posts/modular-monolith-primer"
@@ -15,7 +15,7 @@ fuentes:
   - "Mark Richards y Neal Ford, Fundamentals of Software Architecture, 2ª ed. (O'Reilly, 2025), índice: https://nealford.com/books/SAF2e.html"
 aliases: [modular monolith, monolito modular]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Monolito modular

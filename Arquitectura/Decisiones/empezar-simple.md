@@ -3,7 +3,7 @@ resumen: >-
   Empezar simple es arrancar con la versión más chica que podría funcionar y sumar una pieza solo
   cuando la medición muestra que hace falta; es el principio que comparten Chip Huyen y
   Anthropic, y que Fowler defiende para los monolitos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html
@@ -17,7 +17,7 @@ fuentes:
   - https://en.wikipedia.org/wiki/John_Gall_(author)
 aliases: [start simple, simplicidad, ley de Gall, YAGNI]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Empezar simple

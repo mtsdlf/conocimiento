@@ -3,7 +3,7 @@ resumen: >-
   Una característica arquitectónica es una cualidad que el sistema tiene que tener además de hacer
   lo que hace (rendimiento, escalabilidad, disponibilidad, seguridad, costo), y que pesa en cómo se
   estructura; se eligen pocas porque compiten entre sí.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://nealford.com/books/SAF2e.html
@@ -11,7 +11,7 @@ fuentes:
   - https://www.oreilly.com/library/view/fundamentals-of-software/9781098175504/ch27.html
 aliases: [architectural characteristics, -ilities, atributos de calidad, requisitos no funcionales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Características arquitectónicas

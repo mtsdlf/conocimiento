@@ -3,7 +3,7 @@ resumen: >-
   Microservicios es el estilo que parte el sistema en servicios chicos, uno por capacidad de negocio,
   cada uno con su base y su despliegue independiente. Da límites firmes, despliegue por separado y
   libertad de stack a cambio de distribución, consistencia eventual y más operación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "James Lewis y Martin Fowler, Microservices (2014-03-25): https://martinfowler.com/articles/microservices.html"
@@ -20,7 +20,7 @@ fuentes:
   - "DHH, Even Amazon can't make sense of serverless or microservices (2023-05-04): https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580"
 aliases: [microservices, arquitectura de microservicios, microservice architecture]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Microservicios

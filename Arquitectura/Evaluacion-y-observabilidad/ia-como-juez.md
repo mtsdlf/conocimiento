@@ -3,7 +3,7 @@ resumen: >-
   IA como juez es usar un modelo de lenguaje para calificar o comparar las salidas de otro, de modo
   que la evaluación escale sin personas; es otro sistema con sesgos propios, que se valida contra
   juicio humano antes de confiar en él.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://arxiv.org/abs/2306.05685
@@ -17,7 +17,7 @@ fuentes:
   - https://www.thoughtworks.com/en-us/radar/techniques/llm-as-a-judge
 aliases: [LLM-as-a-judge, LLM as judge, AI as a judge, juez LLM, LLM-evaluator]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # IA como juez

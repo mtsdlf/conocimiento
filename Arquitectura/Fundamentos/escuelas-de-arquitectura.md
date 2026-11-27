@@ -4,7 +4,7 @@ resumen: >-
   la clásica de estilos y características, la evolutiva, el diseño guiado por el dominio, el ML de
   producción, el AI engineering centrado en evaluación y la de agentes y harness; cada una pone en
   el centro una cosa distinta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://nealford.com/books/SAF2e.html
@@ -29,7 +29,7 @@ fuentes:
   - https://www.thoughtworks.com/en-us/radar/techniques/summary/
 aliases: [escuelas de arquitectura de software, corrientes de arquitectura]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuelas de arquitectura

@@ -3,7 +3,7 @@ resumen: >-
   Evaluación y observabilidad es la parte de la arquitectura que mide si un sistema con un modelo
   adentro hace lo que tiene que hacer: registra lo que pasa en producción, lo lee para encontrar
   las fallas, las convierte en pruebas repetibles y devuelve el uso como dato.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -12,7 +12,7 @@ fuentes:
   - https://hamel.dev/blog/posts/evals/
   - https://hamel.dev/blog/posts/field-guide/
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación y observabilidad

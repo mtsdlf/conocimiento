@@ -3,7 +3,7 @@ resumen: >-
   Ejemplos de productos por categoría para armar un sistema con modelos (gateways, vector stores,
   orquestación, evals y observabilidad), los valores del prompt cache por proveedor y el estado del
   fine-tuning por proveedor, copiados el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://docs.litellm.ai/docs/simple_proxy
@@ -19,7 +19,7 @@ fuentes:
   - https://developers.openai.com/api/docs/guides/model-optimization
   - https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plataformas de IA

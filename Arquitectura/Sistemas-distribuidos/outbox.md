@@ -3,7 +3,7 @@ resumen: >-
   El outbox guarda el mensaje que hay que publicar en una tabla de la misma base y en la misma
   transacción que el cambio de negocio; un proceso aparte lo lee y lo publica en el broker. Así no se
   pierde ni se inventa un evento cuando falla algo entre escribir y publicar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Chris Richardson, Pattern: Transactional outbox, microservices.io: https://microservices.io/patterns/data/transactional-outbox.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Microsoft, CQRS pattern, Azure Architecture Center: https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs"
 aliases: [transactional outbox, outbox pattern, patrón outbox, bandeja de salida]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Outbox

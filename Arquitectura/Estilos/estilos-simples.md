@@ -3,14 +3,14 @@ resumen: >-
   Capas, pipeline y microkernel son los estilos de un solo despliegue que no parten el sistema por
   dominio: las capas lo parten por función técnica, el pipeline por etapas que se pasan datos y el
   microkernel en un núcleo chico con plugins.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mark Richards y Neal Ford, Fundamentals of Software Architecture, 2ª ed. (O'Reilly, 2025), índice: https://nealford.com/books/SAF2e.html"
   - "Microsoft, Architecture styles, Azure Architecture Center (2025-09-25): https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/"
 aliases: [arquitectura en capas, layered architecture, n-tier, pipeline, pipes and filters, microkernel, arquitectura de plugins]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estilos simples

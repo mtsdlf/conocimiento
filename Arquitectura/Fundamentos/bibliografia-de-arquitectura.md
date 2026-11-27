@@ -2,7 +2,7 @@
 resumen: >-
   La bibliografía de arquitectura junta los libros y fuentes vivas que sostienen este tema, con qué
   parte leer de cada uno, en qué fijarse y cuánto se verificó de cada uno.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://nealford.com/books/SAF2e.html
@@ -21,7 +21,7 @@ fuentes:
   - https://martinfowler.com/articles/microservices.html
 aliases: [bibliografía, qué leer de arquitectura, lecturas de arquitectura]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de arquitectura

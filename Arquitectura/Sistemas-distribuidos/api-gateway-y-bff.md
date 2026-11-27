@@ -3,7 +3,7 @@ resumen: >-
   Un API gateway es el punto de entrada único entre los clientes y los servicios: enruta, junta
   respuestas, adapta protocolos y aplica la seguridad. Un BFF (backend for frontend) es un backend
   dedicado a una sola experiencia de usuario, mantenido por el equipo de esa interfaz.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Chris Richardson, Pattern: API Gateway / Backends for Frontends, microservices.io: https://microservices.io/patterns/apigateway.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Thoughtworks Technology Radar, ESBs in API gateway's clothing (2020-10): https://www.thoughtworks.com/en-us/radar/techniques/esbs-in-api-gateway-s-clothing"
 aliases: [API gateway, BFF, backend for frontend, backends for frontends, puerta de enlace de API]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # API gateway y BFF

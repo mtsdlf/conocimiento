@@ -3,7 +3,7 @@ resumen: >-
   El análisis de errores es leer a mano trazas reales de un sistema con un modelo, anotar cada
   falla en texto libre, agruparlas en categorías y contarlas, para saber qué evaluar antes de
   elegir métricas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://hamel.dev/blog/posts/field-guide/
@@ -14,7 +14,7 @@ fuentes:
   - https://huyenchip.com/2025/01/07/agents.html
 aliases: [error analysis, mirar los datos, look at your data]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis de errores

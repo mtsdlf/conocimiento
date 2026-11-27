@@ -3,7 +3,7 @@ resumen: >-
   El análisis de riesgo de arquitectura busca, antes de comprometerse con un diseño, qué partes
   pueden fallar y cuánto daño harían; risk storming lo hace en grupo sobre un diagrama, y la matriz
   de riesgo ordena lo encontrado por impacto y probabilidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://nealford.com/books/SAF2e.html
@@ -14,7 +14,7 @@ fuentes:
   - https://huyenchip.com/2025/01/07/agents.html
 aliases: [risk storming, matriz de riesgo, architecture risk]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis de riesgo

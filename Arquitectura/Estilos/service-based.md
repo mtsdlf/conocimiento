@@ -3,13 +3,13 @@ resumen: >-
   Service-based es el estilo que parte el sistema por dominio en unos pocos servicios grandes,
   desplegados por separado y que suelen compartir la base de datos. Es el escalón intermedio entre el
   monolito modular y los microservicios.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Mark Richards y Neal Ford, Fundamentals of Software Architecture, 2ª ed. (O'Reilly, 2025), índice: https://nealford.com/books/SAF2e.html"
 aliases: [service-based architecture, arquitectura basada en servicios]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Service-based

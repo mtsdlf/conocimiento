@@ -3,7 +3,7 @@ resumen: >-
   Sistemas distribuidos es la parte de la arquitectura que se ocupa de lo que aparece cuando el sistema
   se reparte entre procesos que se llaman por la red: fallas parciales, datos repartidos en varias
   bases y bordes frente a muchos clientes. Cada uno de esos problemas tiene sus patrones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Microservice Trade-Offs (2015): https://martinfowler.com/articles/microservice-trade-offs.html"
@@ -14,7 +14,7 @@ fuentes:
   - "Sam Newman, Backends For Frontends: https://samnewman.io/patterns/architectural/bff/"
 aliases: [patrones de sistemas distribuidos, distributed systems patterns]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sistemas distribuidos

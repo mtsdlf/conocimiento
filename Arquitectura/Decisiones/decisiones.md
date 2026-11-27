@@ -3,7 +3,7 @@ resumen: >-
   Las decisiones de arquitectura son las elecciones de estructura que cuestan caro cambiar, y esta
   vertical cubre cómo se toman, cómo se registran, cómo se analizan sus riesgos y cómo se dibujan,
   empezando siempre por lo más simple que funcione.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://nealford.com/books/SAF2e.html
@@ -12,7 +12,7 @@ fuentes:
   - https://c4model.com/
 aliases: [decisiones de arquitectura, architectural decisions]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Decisiones

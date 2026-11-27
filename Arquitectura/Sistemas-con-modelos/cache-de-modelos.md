@@ -3,7 +3,7 @@ resumen: >-
   La cache de modelos guarda trabajo ya hecho para no pagarlo dos veces: el prompt cache reutiliza
   el comienzo repetido de los prompts, la cache exacta devuelve la misma respuesta a la misma
   consulta y la cache semántica la devuelve a una consulta parecida, con el riesgo de equivocarse.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -17,7 +17,7 @@ fuentes:
   - https://dzone.com/articles/llm-semantic-caching
 aliases: [prompt caching, prompt cache, semantic cache, cache semántica, cache exacta, exact cache, context caching]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cache de modelos

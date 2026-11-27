@@ -3,7 +3,7 @@ resumen: >-
   Aislar lo no determinista es poner el modelo de IA detrás de una interfaz propia y chica, para
   que el resto del sistema no dependa de un proveedor, de un modelo ni de salidas que cambian, y
   para poder cambiarlo, probarlo y medirlo en un solo lugar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -13,7 +13,7 @@ fuentes:
   - https://medium.com/@nakabonne/depth-of-module-f62dac3c2fdb
 aliases: [aislar el modelo, interfaz del modelo, adaptador del modelo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aislar lo no determinista

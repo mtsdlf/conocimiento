@@ -3,7 +3,7 @@ resumen: >-
   Las características arquitectónicas son lo que el sistema tiene que cumplir además de su
   funcionalidad (rendimiento, disponibilidad, escalabilidad, costo), y esta vertical cubre cómo se
   eligen, cómo se miden y cómo se gobiernan para que no se degraden con el tiempo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://nealford.com/books/SAF2e.html
@@ -11,7 +11,7 @@ fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
 aliases: [características, -ilities, requisitos no funcionales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Características

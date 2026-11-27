@@ -4,7 +4,7 @@ resumen: >-
   (entrenar desde cero, trucos de prompt, frameworks de agentes pesados, SOA con ESB, space-based,
   ML clásico a medida, microservicios por defecto, GoF primero), cada uno con la evidencia a favor
   y en contra y con quién lo dice.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html
@@ -40,7 +40,7 @@ fuentes:
   - https://github.com/johnousterhout/aposd-vs-clean-code
 aliases: [posición contraria, lo que ya no conviene estudiar primero]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lo que pierde peso

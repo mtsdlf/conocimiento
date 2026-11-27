@@ -3,7 +3,7 @@ resumen: >-
   La modularidad es cómo se parte un sistema en piezas con límites claros: cuánto depende cada pieza
   de las otras (acoplamiento), cuánto tiene que ver lo que hay adentro de cada una (cohesión) y
   cuánto esconde cada una detrás de su interfaz (profundidad).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://connascence.io/
@@ -15,7 +15,7 @@ fuentes:
   - https://medium.com/@nakabonne/depth-of-module-f62dac3c2fdb
 aliases: [modularity, acoplamiento, cohesión, coupling, cohesion, módulo profundo, deep module]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modularidad

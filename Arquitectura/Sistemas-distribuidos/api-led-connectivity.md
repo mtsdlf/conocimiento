@@ -2,7 +2,7 @@
 resumen: >-
   API-led connectivity organiza las APIs en tres capas: System (expone un sistema o dominio),
   Process (orquesta varias System) y Experience (adapta los datos a un frontend).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "MuleSoft Documentation, API-led connectivity overview: https://docs.mulesoft.com/general/api-led-overview"
@@ -10,7 +10,7 @@ fuentes:
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
 aliases: [API-led, Arquitectura API-led, System Process Experience APIs]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # API-led connectivity

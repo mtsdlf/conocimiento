@@ -3,7 +3,7 @@ resumen: >-
   Strangler fig es reemplazar un sistema de a partes, sin apagarlo: una fachada reparte los pedidos
   entre lo viejo y lo nuevo, y el tráfico se corre hacia lo nuevo hasta que lo viejo se puede quitar.
   Sirve para migrar de un estilo a otro y para modernizar un sistema heredado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, StranglerFigApplication (actualizada 2024-08-22): https://martinfowler.com/bliki/StranglerFigApplication.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Sam Newman, Monolith to Microservices, página del libro: https://samnewman.io/books/monolith-to-microservices/"
 aliases: [strangler fig application, strangler application, patrón estrangulador, higuera estranguladora]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Strangler fig
