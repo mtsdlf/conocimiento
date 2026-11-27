@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La cartera de clientes es el conjunto de clientes de una empresa visto como algo que se reparte y se ordena: a qué vendedor le toca cada cuenta, en qué territorio está y en qué grupo o clase cae. Registra quién es dueño de cada cliente; el análisis de cuánto vale cada uno es de Datos y de Marketing.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework, 3.5.2 y 3.3.5, copia de un tercero sin versión declarada: https://capechamber.co.za/enterprise/improve-your-business-processes/3-market-and-sell-products-and-services"
@@ -13,7 +13,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/registro-y-seguimiento.md, componente 3"
 aliases: [cartera, customer portfolio, territorio, territorio de ventas, sales territory, dueño de la cuenta, account owner, clasificación ABC de clientes, grupo de clientes, customer group]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cartera de clientes

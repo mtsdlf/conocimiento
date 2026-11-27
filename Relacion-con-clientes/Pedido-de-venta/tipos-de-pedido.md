@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los tipos de pedido son las variantes del pedido de venta que cambian qué se compromete y cuándo: el de contado, que se supone entregado y cobrado en el acto; el común a plazo; el pedido abierto o marco, que fija condiciones para entregas futuras; el recurrente, que se repite solo; y el de muestra, sin cargo. Las devoluciones y la consignación son vecinos, no tipos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "SAP R/3 4.7, Sales Document Types: https://help.sap.com/saphelp_470/helpdata/en/dd/55fb06545a11d1a7020000e829fd11/content.htm"
@@ -13,7 +13,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/presupuesto-y-pedido.md (sección G)"
 aliases: [tipos de pedido, order types, sales document types, pedido de contado, cash sale, venta de mostrador, pedido abierto, pedido marco, contrato marco, blanket order, sales agreement, acuerdo de venta, scheduling agreement, pedido recurrente, suscripción, subscription, muestra sin cargo, free-of-charge delivery]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tipos de pedido

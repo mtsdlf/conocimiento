@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos del tema Relación con clientes, cada uno con su nombre en inglés, una definición corta y la nota donde vive.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ASCM, CPIM 2019 Excerpt, con definiciones del APICS Dictionary, 15.ª ed.: https://learningsystem.ascm.org/wp-content/uploads/2018/11/APICS_CPIM_2019_Excerpt.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/ (cuatro informes, 2026-11-27)"
 aliases: [glosario de CRM, CRM glossary, términos de relación con clientes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de relación con clientes

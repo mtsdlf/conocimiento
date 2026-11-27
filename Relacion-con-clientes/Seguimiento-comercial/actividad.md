@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La actividad es el registro de cada interacción con un cliente o un interesado, hecha o pendiente, como una llamada, un correo o una reunión. Colgadas de la cuenta, el contacto o la oportunidad, las actividades arman la historia del cliente; su punto débil es que dependen de que alguien las cargue.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, tabla Activity (ActivityPointer), actualizada 2026-09-17: https://learn.microsoft.com/en-us/power-apps/developer/data-platform/reference/entities/activitypointer (como evidencia de práctica)"
@@ -14,7 +14,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/registro-y-seguimiento.md, componente 6; fundamentos-y-contraria.md, sección 6.c"
 aliases: [activity, actividad comercial, interacción, historial del cliente, línea de tiempo del cliente, timeline, tarea, próximo contacto, registro de llamadas, carga de datos en el CRM, adopción del CRM]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Actividad

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que la Argentina le agrega al registro de clientes, al presupuesto y al pedido de venta: la clave fiscal y la condición frente al IVA del cliente, que deciden la factura; las reglas de la oferta, el presupuesto y la seña; la leyenda de los documentos que no son factura; el precio final al consumidor; la moneda pactada, y los datos personales de clientes e interesados.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "ARCA, Clases de comprobantes a emitir (leída 2026-11-27): https://www.arca.gob.ar/facturacion/regimen-general/comprobantes.asp"
@@ -24,7 +24,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/argentina.md"
 aliases: [CUIT del cliente, condición frente al IVA, condición IVA del receptor, documento no válido como factura, presupuesto en la ley de defensa del consumidor, seña, precio final al consumidor, transparencia fiscal al consumidor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Relación con clientes en la Argentina

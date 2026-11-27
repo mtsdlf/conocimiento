@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El registro del cliente es lo que una empresa guarda de cada uno de sus clientes: quién es (una empresa o una persona, con sus contactos), quién compra, quién paga y a dónde se entrega, y en qué condiciones se le vende. Es el [dato maestro](../../Datos/Gobierno-y-calidad/datos-maestros.md) del dominio: se carga una vez y lo leen el presupuesto, el pedido, la factura y la cobranza.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Analysis Patterns, cap. «Organization Structures» (borrador): https://martinfowler.com/apsupp/accountability.pdf (leído en parte)"
@@ -11,7 +11,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/registro-y-seguimiento.md"
 aliases: [ficha del cliente, maestro de clientes, customer master, registro de clientes, customer record, cuenta del cliente]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registro del cliente

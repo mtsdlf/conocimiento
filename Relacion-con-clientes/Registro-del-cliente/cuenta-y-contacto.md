@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La cuenta es el registro de la empresa o la persona a la que se le vende, y el contacto es cada persona con la que se habla dentro de ella. Detrás de los dos está la idea de la parte con roles: una misma persona u organización puede ser cliente, proveedor o las dos cosas, y en una empresa grande quien compra, quien paga y quien recibe pueden ser registros distintos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Analysis Patterns, cap. «Organization Structures» (Party, Organization Hierarchy, Accountability), borrador: https://martinfowler.com/apsupp/accountability.pdf (leído en parte)"
@@ -16,7 +16,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/registro-y-seguimiento.md, componente 1"
 aliases: [cuenta, contacto, account, contact, party, parte, sold-to, ship-to, bill-to, payer, comprador, pagador, destinatario, jerarquía de cuentas, cuenta matriz, duplicados de clientes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuenta y contacto

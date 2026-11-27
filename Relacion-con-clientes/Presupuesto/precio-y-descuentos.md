@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El precio de cada renglón de un presupuesto sale de una lista de precios que el sistema elige según el cliente, la cantidad y la fecha, y que el vendedor puede corregir con un descuento por renglón o sobre el total. Cuando el descuento o el monto pasan un umbral, el documento necesita la aprobación de alguien con más autoridad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Odoo 17, Pricing (listas de precios, cantidad mínima, descuentos por renglón y globales): https://www.odoo.com/documentation/17.0/applications/sales/sales/products_prices/prices/pricing.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/presupuesto-y-pedido.md (sección B)"
 aliases: [lista de precios, pricelist, price list, descuento, discount, aprobación de descuento, discount approval, precio de venta]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Precio y descuentos

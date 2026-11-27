@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El registro de clientes existió siempre en papel (la libreta, el fichero); en los ochenta pasó a programas de contactos para un vendedor, en los noventa a sistemas para equipos de ventas y a lo que se empezó a llamar CRM, y en los dos mil aparecieron los primeros abiertos. Quién acuñó la sigla está en disputa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Customer relationship management, sección History: https://en.wikipedia.org/wiki/Customer_relationship_management (secundaria, según resumen)"
@@ -10,7 +10,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/fundamentos-y-contraria.md (sección 2)"
 aliases: [historia del CRM, CRM history, contact management, gestión de contactos, sales force automation, SFA, automatización de la fuerza de ventas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia del CRM

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El interesado (lead) es el registro de alguien que mostró interés en comprar pero todavía no fue calificado: un nombre, una empresa, un medio de contacto y de dónde vino. Se guarda aparte del cliente (la razón que da esta base es no ensuciar la cartera con datos inciertos) y, cuando se califica, se convierte en cuenta, contacto y oportunidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, tabla Lead: https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/entities/lead (como evidencia de práctica)"
@@ -13,7 +13,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/registro-y-seguimiento.md, componente 4"
 aliases: [lead, prospecto, cliente potencial, contacto comercial, conversión de lead, lead conversion, origen del lead, lead source]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Interesado

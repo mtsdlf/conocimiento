@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La oportunidad es el registro de una venta posible a un cliente o a un interesado calificado: qué podría comprar, por cuánto, en qué etapa está, con qué probabilidad y para cuándo se espera cerrar. Termina ganada o perdida, y si se pierde, guarda por qué y contra quién.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, tabla Opportunity: https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/entities/opportunity (como evidencia de práctica)"
@@ -11,7 +11,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/registro-y-seguimiento.md, componente 5"
 aliases: [opportunity, oportunidad de venta, negocio, deal, trato, etapa de venta, sales stage, probabilidad de cierre, motivo de pérdida, lost reason, fecha estimada de cierre]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Oportunidad

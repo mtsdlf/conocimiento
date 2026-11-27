@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un producto configurable es el que el cliente arma eligiendo opciones dentro de una familia, y presupuestarlo pide un configurador: reglas que dicen qué opciones son compatibles, qué precio tiene la variante elegida y cuánto tarda en entregarse. Los proveedores de software usan el término CPQ (configure, price, quote); la academia lo estudia como configuración de producto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Forza y Salvador (2006), Product Information Management for Mass Customization, Palgrave Macmillan, caps. 1, 2 y 5 (leído un 25 %): https://vdoc.pub/documents/product-information-management-for-mass-customization-connecting-customer-front-office-and-back-office-for-fast-and-efficient-customization-5rgv091itko0"
@@ -12,7 +12,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/presupuesto-y-pedido.md (sección C)"
 aliases: [CPQ, configure price quote, configurador, configurador de producto, product configurator, configuración de producto, product configuration, variante, mass customization, personalización masiva]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Productos configurables

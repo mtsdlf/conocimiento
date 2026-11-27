@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El seguimiento comercial es el registro de las ventas posibles antes de que haya un pedido: quién se interesó, qué venta podría salir con cada uno, por cuánto, en qué etapa está y qué se habló. Lo forman tres objetos: el interesado, la oportunidad y la actividad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, 3.5.1 «Manage leads/opportunities», copia de un tercero sin versión declarada: https://capechamber.co.za/enterprise/improve-your-business-processes/3-market-and-sell-products-and-services"
@@ -11,7 +11,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/registro-y-seguimiento.md, componentes 4 a 6"
 aliases: [seguimiento de oportunidades, gestión de oportunidades, automatización de la fuerza de ventas, sales force automation, SFA, pipeline management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Seguimiento comercial

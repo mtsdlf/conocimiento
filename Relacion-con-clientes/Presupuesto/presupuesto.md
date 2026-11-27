@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El presupuesto es la oferta formal que una empresa le hace a un cliente: qué le vende, en qué cantidades, a qué precio, con qué descuentos e impuestos, en qué condiciones y hasta qué fecha vale. Es un documento con estados (borrador, enviado, aceptado, rechazado, vencido, anulado) y, si el cliente lo acepta, se convierte en pedido de venta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 3.5.3 «Develop and manage sales proposals, bids, and quotes»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/presupuesto-y-pedido.md (secciones A y D)"
 aliases: [cotización, quote, quotation, oferta comercial, presupuestar, cotizar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Presupuesto

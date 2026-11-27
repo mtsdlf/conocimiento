@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un presupuesto vale hasta una fecha que dice él mismo; antes de esa fecha se puede revisar (llevar un historial de versiones solo se encontró documentado para los acuerdos de un ERP grande), y el cliente lo acepta firmándolo, mandando su orden de compra o pagando una seña. Con la aceptación se convierte en pedido de venta, y hay que decidir qué precio rige si cambió en el medio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ERPNext, Quotation (Valid Till, estado Expired, conversión a Sales Order): https://docs.frappe.io/erpnext/user/manual/en/quotation"
@@ -16,7 +16,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/presupuesto-y-pedido.md (secciones A y D)"
 aliases: [validez del presupuesto, vigencia de la oferta, quote validity, valid until, aceptación del presupuesto, quote acceptance, versión del presupuesto, revisión del presupuesto, seña, anticipo, down payment, orden de compra del cliente, customer purchase order]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Vigencia y aceptación

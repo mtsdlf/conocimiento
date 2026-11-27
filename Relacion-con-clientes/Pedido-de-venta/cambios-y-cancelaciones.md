@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un pedido de venta confirmado cambia de cinco maneras: se entrega en partes, deja cantidades pendientes de entrega, se pausa, se cierra sin entregar lo que falta o se anula entero; además, se puede bloquear para que no se despache o no se facture. Cada cambio tiene que dejar rastro y avisar a los dominios que ya actuaron sobre el pedido.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ERPNext, Sales Order (entrega y facturación parciales; pausar, cerrar y anular): https://docs.frappe.io/erpnext/user/manual/en/sales-order"
@@ -17,7 +17,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/presupuesto-y-pedido.md (sección H)"
 aliases: [cambiar un pedido, modificar pedido, order change, cancelar pedido, anular pedido, cancel order, cerrar pedido, close order, pedido en espera, on hold, entrega parcial, partial delivery, pendiente de entrega, backorder, back order, bloqueo de pedido, order block, delivery block, billing block, bloqueo por crédito, credit block]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cambios y cancelaciones

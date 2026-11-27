@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La fecha prometida es la fecha de entrega que la empresa le compromete al cliente en el pedido. Se decide consultando cuánto hay sin comprometer en el stock y en lo que se va a recibir o fabricar (available-to-promise) o, si hay que producir, cuánta capacidad queda (capable-to-promise); el cálculo es de Inventario y de la planificación, y la promesa, de este tema.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ASCM/APICS, CPIM 6.1 (2019) Excerpt, sección F, con definiciones del APICS Dictionary, 15.ª ed.: https://learningsystem.ascm.org/wp-content/uploads/2018/11/APICS_CPIM_2019_Excerpt.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/presupuesto-y-pedido.md (sección F)"
 aliases: [fecha prometida, fecha de entrega comprometida, promised date, order promising, promesa de entrega, ATP, available-to-promise, disponible para prometer, CTP, capable-to-promise, capaz de prometer, disponibilidad]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fecha prometida

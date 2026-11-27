@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La relación con clientes, como dominio de negocio, es lo que una empresa registra de quienes le compran y de las ventas en curso: quién es el cliente y en qué condiciones se le vende, qué ventas posibles hay abiertas, qué se le ofreció con precio y qué se comprometió a entregar. Es lo que lleva un CRM y la parte de ventas de un ERP, pero existe antes del software: una libreta de clientes, un presupuesto en papel y una nota de pedido hacen lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), categoría 3.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/ (cuatro informes, 2026-11-27)"
 aliases: [CRM, customer relationship management, gestión de clientes, gestión de la relación con el cliente, ventas en un ERP, sales management, order management, gestión comercial]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Relación con clientes

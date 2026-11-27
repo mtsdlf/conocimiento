@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tres ideas que circulan sobre el CRM y no se sostienen como se citan: que el 70 % de los proyectos fracasa, que el vendedor no carga datos por mala voluntad y que se puede tener un solo registro de cada cliente en un solo lugar. Para cada una, de dónde sale y qué dice la evidencia que hay.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bob Thompson, entrevista a Ed Thompson (Gartner), CustomerThink, 6 de diciembre de 2004 (según resumen): https://customerthink.com/reports_crm_failure_highly_exaggerated/"
@@ -18,7 +18,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/fundamentos-y-contraria.md (sección 6) y registro-y-seguimiento.md (componente 6)"
 aliases: [fracaso de los CRM, 70% de los CRM fracasan, adopción del CRM, CRM adoption, single customer view, vista única del cliente]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos del CRM

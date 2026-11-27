@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El pedido de venta es el compromiso de una empresa de entregarle a un cliente ciertos productos o servicios, en cierta cantidad, a cierto precio y para cierta fecha. Es un documento con estados que siguen dos ejes a la vez, cuánto se entregó y cuánto se facturó, y es el punto donde la venta pasa a los dominios que reservan, despachan, facturan y cobran.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 3.5.4 «Manage sales orders»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/presupuesto-y-pedido.md (sección E)"
 aliases: [pedido de venta, sales order, orden de venta, nota de pedido, pedido del cliente, customer order, toma de pedido, order entry, entrada de pedidos, gestión de pedidos, order management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pedido de venta

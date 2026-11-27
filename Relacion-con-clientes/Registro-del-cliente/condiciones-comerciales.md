@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las condiciones comerciales son los datos del cliente que fijan cómo se le vende: qué lista de precios se le aplica, en qué plazo paga, hasta cuánto se le fía, en qué moneda se le factura, qué vendedor lo atiende y en qué zona está. Se cargan en el registro del cliente y cada presupuesto o pedido nuevo las toma como valor inicial.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, tabla Account: https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/entities/account (como evidencia de práctica)"
@@ -12,7 +12,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/registro-y-seguimiento.md, componente 2"
 aliases: [condiciones del cliente, condición de pago, payment terms, límite de crédito, credit limit, lista de precios del cliente, vendedor asignado, zona de venta]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Condiciones comerciales

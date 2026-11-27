@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Relación con clientes: qué se entiende por CRM según quién lo define, de dónde viene, qué se sabe de si funciona, dónde se produce el saber del campo y los términos con su nombre en inglés.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Payne y Frow (2005), A Strategic Framework for Customer Relationship Management, Journal of Marketing 69(4), 167-176: https://journals.sagepub.com/doi/10.1509/jmkg.69.4.167.60760 (no leído; según el resumen de la AMA: https://www.ama.org/2018/12/03/a-strategic-framework-for-crm/)"
@@ -12,7 +12,7 @@ fuentes:
   - "Relacion-con-clientes/.investigacion/fundamentos-y-contraria.md"
 aliases: [fundamentos de CRM, escuelas de CRM, CRM estratégico, CRM operativo, CRM analítico, CRM colaborativo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de relación con clientes
