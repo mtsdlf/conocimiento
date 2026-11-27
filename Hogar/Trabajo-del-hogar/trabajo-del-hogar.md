@@ -21,6 +21,8 @@ revisado:
 
 El trabajo del hogar es todo lo que hay que hacer, sin cobrar, para que una casa y quienes viven en ella funcionen: las tareas domésticas, el cuidado de personas, la carga mental de pensar y organizar, y el mantenimiento y los trámites.
 
+La misma tarea la puede hacer alguien pago, como el servicio doméstico; esa decisión está en [hacer o tercerizar](../Gestion/hacer-o-tercerizar.md).
+
 Dentro del [hogar](../hogar.md) es la materia prima de todo lo demás. El [reparto](../Reparto/reparto.md) dice quién hace este trabajo y por qué; la [gestión](../Gestion/gestion-del-hogar.md) lo organiza, y el [tiempo del hogar](../Recursos/tiempo-del-hogar.md) es el recurso que consume. Cuando alguien siente que hace más de lo que le toca, la discusión llega a la [convivencia](../Convivencia/convivencia.md).
 
 ## Qué hace que algo cuente como trabajo

@@ -82,6 +82,10 @@ Bittman, Rice y Wajcman (2004) usaron la encuesta de uso del tiempo de Australia
 > [!IMPORTANT]
 > **¿El tiempo de tareas domésticas fue de verdad constante?** Harms (UCL) cita a Ramey (2009) y a Bittman y otros para dudar de la constancia histórica, y sugiere que podría deberse a que los diarios viejos se tomaron en hogares más exigentes. Gershuny, en una réplica a Bittman y otros, sostiene que el estudio confunde diferencias entre personas con cambio histórico (ver [mitos del hogar](../Fundamentos/mitos-del-hogar.md)). Cowan y Vanek hablan de épocas y datos distintos.
 
+## Después de tercerizar: lo que queda
+
+Lo que no se terceriza hay que repartirlo, y eso se acuerda en la [reunión de la casa](reunion-de-la-casa.md). Cuánto justo le parece el reparto resultante a cada uno es tema de [equidad percibida](../Reparto/equidad-percibida.md), que no es lo mismo que cuántas horas hace cada uno.
+
 ## Dónde leer más
 
 Para comprar tiempo, Whillans y otros (2017): el experimento de campo y el apartado de limitaciones. Para el reparto, Treas y de Ruijter (2008) y, de contrapeso, Windebank y Martínez-Pérez (2018). Para la tecnología, Bittman, Rice y Wajcman (2004), porque tienen aparatos y horas en la misma encuesta, con Cowan como contexto histórico.

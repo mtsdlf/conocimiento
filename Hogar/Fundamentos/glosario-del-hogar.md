@@ -36,6 +36,7 @@ Las definiciones son propias, salvo las de la ENUT, que siguen al INDEC. Cada t�
 | Trabajo del hogar | Todo lo que se hace sin cobrar para que la casa funcione: tareas domésticas, cuidado, carga mental, mantenimiento y trámites. | [Trabajo del hogar](../Trabajo-del-hogar/trabajo-del-hogar.md) |
 | Trabajo no remunerado | En la ENUT, el trabajo doméstico, el de cuidado y el apoyo a otros hogares, a la comunidad y voluntario. | [ENUT 2021](enut-2021.md) |
 | Tareas domésticas | Cocinar, limpiar, lavar la ropa y hacer las compras: lo visible y repetitivo (*housework*). | [Tareas domésticas](../Trabajo-del-hogar/tareas-domesticas.md) |
+| Tareas rutinarias y ocasionales | Las rutinarias son las de todos los días, como cocinar y limpiar; las ocasionales, como los arreglos, se hacen de vez en cuando y se postergan. | [Tareas domésticas](../Trabajo-del-hogar/tareas-domesticas.md) |
 | Trabajo doméstico | La categoría de la ENUT, más ancha que las tareas domésticas: suma trámites, arreglos menores, mascotas y plantas. Las notas lo usan solo para esa categoría. | [Tareas domésticas](../Trabajo-del-hogar/tareas-domesticas.md) |
 | Trabajo de cuidado | Atender a una persona del hogar que lo necesita; lo distingue el destinatario, no el gesto. | [Trabajo de cuidado](../Trabajo-del-hogar/trabajo-de-cuidado.md) |
 | Cuidado secundario | Cuidar a un chico mientras se hace otra cosa; la ATUS lo registra aparte. | [Trabajo de cuidado](../Trabajo-del-hogar/trabajo-de-cuidado.md) |
@@ -50,6 +51,7 @@ Las definiciones son propias, salvo las de la ENUT, que siguen al INDEC. Cada t�
 | Término | Qué es | Dónde se desarrolla |
 |---|---|---|
 | Ventaja comparativa | Que cada uno haga lo que hace relativamente mejor; el argumento de Becker para especializarse. | [Especialización o reparto parejo](../Reparto/especializacion-o-reparto-parejo.md) |
+| Capital humano | La experiencia y los ingresos futuros que pierde quien se especializa en la casa. | [Especialización o reparto parejo](../Reparto/especializacion-o-reparto-parejo.md) |
 | Negociación | El reparto como resultado del poder de cada uno, por ejemplo de su ingreso propio (*bargaining*). | [Especialización o reparto parejo](../Reparto/especializacion-o-reparto-parejo.md) |
 | Recursos relativos | La explicación según la cual hace menos tareas domésticas quien aporta más ingreso o educación. | [Teorías del reparto](../Reparto/teorias-del-reparto.md) |
 | Disponibilidad de tiempo | La explicación según la cual hace más tareas domésticas quien tiene menos horas de trabajo pago. | [Teorías del reparto](../Reparto/teorias-del-reparto.md) |
@@ -67,6 +69,7 @@ Las definiciones son propias, salvo las de la ENUT, que siguen al INDEC. Cada t�
 | Ciclo de gestión | Metas, recursos, decisión, plan, ejecución y evaluación, y vuelta a empezar. | [Ciclo de gestión](../Gestion/ciclo-de-gestion.md) |
 | Dueño de la tarea | Quien se hace cargo de una tarea de punta a punta, incluido pensarla, a diferencia de quien «ayuda». | [Dueño de la tarea](../Gestion/dueno-de-la-tarea.md) |
 | *Gatekeeping* | «Cuidar la puerta»: frenar, con estándares estrictos, que el otro tome una tarea; se estudió en madres (*maternal gatekeeping*). | [Dueño de la tarea](../Gestion/dueno-de-la-tarea.md) |
+| *Fair Play* | Método de divulgación de Eve Rodsky que reparte 100 tareas en cartas; es de practicantes, sin evaluación independiente. | [Dueño de la tarea](../Gestion/dueno-de-la-tarea.md) |
 | Rutina y ritual | Una rutina es una práctica observable que se repite; un ritual tiene además un sentido simbólico para la familia. | [Rutinas y sistemas](../Gestion/rutinas-y-sistemas.md) |
 | Caos del hogar | Ruido, confusión y falta de orden y de previsibilidad; se mide con la escala CHAOS. | [Rutinas y sistemas](../Gestion/rutinas-y-sistemas.md) |
 | Consejo familiar | La reunión periódica de la familia, de origen adleriano, de la que sale la reunión de la casa. | [Reunión de la casa](../Gestion/reunion-de-la-casa.md) |
@@ -92,6 +95,7 @@ Las definiciones son propias, salvo las de la ENUT, que siguen al INDEC. Cada t�
 | Diario de actividad | El registro de lo que hizo una persona momento por momento en un día concreto. | [Cómo se mide](como-se-mide.md) |
 | Pregunta estilizada | La pregunta que pide estimar horas («¿cuántas por semana?») en vez de reconstruir un día. | [Cómo se mide](como-se-mide.md) |
 | ICATUS y CAUTAL | Las clasificaciones de actividades de la ONU y de la CEPAL; la ENUT usa la CAUTAL. | [Cómo se mide](como-se-mide.md) |
+| ATUS | La encuesta continua de uso del tiempo de Estados Unidos, por entrevista telefónica sobre el día anterior. | [Cómo se mide](como-se-mide.md) |
 | Tasa de participación | En la ENUT, el porcentaje de personas que hizo una actividad el día de referencia. | [ENUT 2021](enut-2021.md) |
 | Tiempo por participante | En la ENUT, el promedio de horas de quienes hicieron la actividad. | [ENUT 2021](enut-2021.md) |
 | Tiempo social | En la ENUT, el promedio de horas sobre toda la población, la haya hecho o no. | [ENUT 2021](enut-2021.md) |

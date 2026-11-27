@@ -86,4 +86,6 @@ El autorreporte suma otro problema. Rodsky afirma que «men overreport what they
 
 ## Dónde se cruza con el reparto y la gestión
 
+Tercerizar [una tarea](../Gestion/hacer-o-tercerizar.md) suele sacar la ejecución y dejar la carga mental, porque pensar qué contratar y controlar que se haga sigue siendo trabajo cognitivo.
+
 La carga mental es el lugar donde la [equidad percibida](../Reparto/equidad-percibida.md) y las horas se separan: dos personas pueden repartir parejo el hacer y no el pensar. Las formas de organizar la casa que buscan pasar una tarea entera, con su pensar y su hacer, a una sola persona están en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md); la organización de las tareas de una sola persona, en [gestión de tareas](../../Desarrollo-personal/Efectividad-personal/gestion-de-tareas.md).

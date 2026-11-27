@@ -17,7 +17,7 @@ Un hogar es una unidad que produce lo que la vida diaria necesita (comida, orden
 
 Mirar la casa así sirve para separar tres preguntas que en la vida diaria vienen mezcladas: cuánto trabajo hay, quién lo hace y por qué, y cómo se siente cada uno con eso. Cada una tiene su literatura y sus respuestas, y a veces se contradicen. La base describe las opciones y su evidencia; no dice cómo tiene que organizarse una casa en particular.
 
-Quedan afuera las finanzas del hogar (presupuesto, ahorro, inversión), la pareja en general y la crianza, que tienen o van a tener su propio tema ([alcance](ALCANCE.md)). Lo que ya está en la base se enlaza: la [pareja](../Desarrollo-personal/Relaciones/pareja.md), el choque entre [trabajo y familia](../Desarrollo-personal/Relaciones/trabajo-y-familia.md), la [gestión de tareas](../Desarrollo-personal/Efectividad-personal/gestion-de-tareas.md) de una persona, [planificar y cocinar](../Nutricion/Planificar-y-cocinar/planificar-y-cocinar.md) y las [rutinas de los chicos](../Crianza/Salud-y-rutinas/salud-y-rutinas.md).
+Quedan afuera las finanzas del hogar (presupuesto, ahorro, inversión), que todavía no tienen un tema propio, la pareja en general y la crianza, que sí tiene el suyo ([alcance](ALCANCE.md)). Lo que ya está en la base se enlaza: la [pareja](../Desarrollo-personal/Relaciones/pareja.md), el choque entre [trabajo y familia](../Desarrollo-personal/Relaciones/trabajo-y-familia.md), la [gestión de tareas](../Desarrollo-personal/Efectividad-personal/gestion-de-tareas.md) de una persona, [planificar y cocinar](../Nutricion/Planificar-y-cocinar/planificar-y-cocinar.md) y las [rutinas de los chicos](../Crianza/Salud-y-rutinas/salud-y-rutinas.md).
 
 ## De qué está hecha la vida de una casa
 
@@ -61,6 +61,7 @@ La mayoría de los estudios son de Estados Unidos y Europa. Para Argentina, la f
 - Si está por llegar un hijo, cambió el trabajo de alguien o alguien se jubila: [transiciones](Reparto/transiciones.md).
 - Si querés cambiar cómo se organiza la casa: [ciclo de gestión](Gestion/ciclo-de-gestion.md), [dueño de la tarea](Gestion/dueno-de-la-tarea.md), [rutinas y sistemas](Gestion/rutinas-y-sistemas.md) y [reunión de la casa](Gestion/reunion-de-la-casa.md).
 - Si estás pensando en contratar ayuda o pagar por un servicio: [hacer o tercerizar](Gestion/hacer-o-tercerizar.md) y la ficha del [servicio doméstico en Argentina](Gestion/servicio-domestico-en-argentina.md).
+- Si están por contratar ayuda para la casa y tienen que acordar cómo repartir lo que queda, leer en este orden: [hacer o tercerizar](Gestion/hacer-o-tercerizar.md), [servicio doméstico en Argentina](Gestion/servicio-domestico-en-argentina.md), [dueño de la tarea](Gestion/dueno-de-la-tarea.md), [carga mental](Trabajo-del-hogar/carga-mental.md), [equidad percibida](Reparto/equidad-percibida.md) y [reunión de la casa](Gestion/reunion-de-la-casa.md).
 - Si a alguien no le alcanza el tiempo: [tiempo del hogar](Recursos/tiempo-del-hogar.md).
 - Si la discusión es por la plata: [plata en la pareja](Recursos/plata-en-la-pareja.md).
 - Si la casa queda chica o alguien trabaja desde ahí: [espacio de la vivienda](Recursos/espacio.md).
