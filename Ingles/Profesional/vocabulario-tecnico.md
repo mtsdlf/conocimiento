@@ -3,7 +3,7 @@ resumen: >-
   El vocabulario técnico del software se escribe en inglés también en castellano, pero se pronuncia
   y se usa distinto: algunos términos tienen una pronunciación fijada por su proyecto, otros
   conviven con dos o más, y varios préstamos del castellano técnico son falsos amigos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "nginx.org: https://nginx.org/en/"
@@ -26,7 +26,7 @@ aliases:
   - Pronunciación de términos técnicos
   - Falsos amigos técnicos
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Vocabulario técnico

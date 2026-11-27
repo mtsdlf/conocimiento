@@ -3,7 +3,7 @@ resumen: >-
   El code review en inglés es el género de los comentarios que se dejan sobre el código de otra
   persona y de las respuestas a esos comentarios: se comenta el código y no a quien lo escribió, se
   explica el porqué y se marca cuánto importa cada observación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Google Engineering Practices, How to write code review comments: https://google.github.io/eng-practices/review/reviewer/comments.html"
@@ -20,7 +20,7 @@ aliases:
   - Conventional Comments
   - Pushback
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Code review

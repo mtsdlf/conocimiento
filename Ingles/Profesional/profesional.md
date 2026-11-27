@@ -4,7 +4,7 @@ resumen: >-
   software con equipos o clientes de otros países: un puñado de situaciones y textos que se repiten
   (la entrevista, la daily, el pull request, el code review, el incidente, la demo) con
   convenciones propias que el inglés general no enseña.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kankaanranta y Planken (2010), BELF competence as business knowledge of internationally operating business professionals, Journal of Business Communication 47(4), 380-407, vía resumen: https://aaltodoc.aalto.fi/items/10b4f1e6-18cd-4dec-b01f-8fe00c1e8866"
@@ -27,7 +27,7 @@ aliases:
   - Inglés para IT
   - Inglés de trabajo
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inglés profesional en software

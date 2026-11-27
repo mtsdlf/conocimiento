@@ -3,7 +3,7 @@ resumen: >-
   La entrevista técnica en inglés evalúa, además de lo técnico, cómo se comunica el razonamiento:
   contar experiencias pasadas con estructura en la parte behavioral y pensar en voz alta, pedir
   aclaraciones y explicar tradeoffs en el coding y el system design.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Meta Careers, Preparing for your software engineering interview at Meta: https://www.metacareers.com/blog/preparing-for-your-software-engineering-interview-at-meta/"
@@ -25,7 +25,7 @@ aliases:
   - STAR
   - System design interview
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Entrevista técnica
