@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Contabilidad, Arquitectura, IA, Gestión de proyectos y los cinco temas de Pedagogía tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Software de gestión, Contabilidad, Arquitectura, IA, Gestión de proyectos y los cinco temas de Pedagogía tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -118,6 +118,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 ## Industrias
 
 - [Comercio electrónico](Comercio-electronico/comercio-electronico.md) — el dominio de vender online: plataformas de tiendas y sus apps, pagos y cuotas, checkout y conversión, operaciones, venta en varios canales y normativa argentina, con fichas fechadas por plataforma.
+- [Software de gestión](Software-de-gestion/software-de-gestion.md) — el software que lleva los dominios de una empresa (ERP, CRM y sus vecinos): categorías de producto, las piezas de diseño que comparte todo sistema, cómo se elige e implanta y cómo se vende, sin nombrar productos y con lo de Argentina aparte.
 
 ## Familia
 
