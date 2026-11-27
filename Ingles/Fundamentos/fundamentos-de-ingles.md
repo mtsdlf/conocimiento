@@ -3,7 +3,7 @@ resumen: >-
   Lo transversal del tema Inglés: los niveles del MCER para ubicarse, el alfabeto fonético para leer
   la pronunciación, las escuelas de adquisición y sus autores, el glosario, la bibliografía y una
   ruta paso a paso.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Consejo de Europa, MCER Companion Volume (2020): https://rm.coe.int/16809ea0d4"
@@ -18,7 +18,7 @@ aliases:
   - Glosario de inglés
   - Escuelas de adquisición
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de inglés

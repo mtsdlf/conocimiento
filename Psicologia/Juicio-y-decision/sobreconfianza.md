@@ -33,7 +33,7 @@ Las dos primeras dependen de la dificultad de la tarea, y en sentidos opuestos. 
 
 ## La falacia de planificación
 
-La falacia de planificación es subestimar el tiempo que van a llevar las propias tareas. Se atribuye a Buehler, Griffin y Ross (1994), un trabajo que esta base no leyó y conoce por una cita. Es un hallazgo viejo y muy citado, pero no se leyó ningún metaanálisis que dé su tamaño.
+La falacia de planificación es subestimar el tiempo que van a llevar las propias tareas. Se atribuye a Buehler, Griffin y Ross (1994), un trabajo que esta base no leyó y conoce por una cita. Es un hallazgo viejo y muy citado, pero no se leyó ningún metaanálisis que dé su tamaño. Las cifras de desvío en proyectos reales y cómo se pronostica un plazo sin caer en ella están en [pronóstico](../../Gestion-de-proyectos/Planificacion/pronostico.md), en Gestión de proyectos.
 
 Un estudio de 2000 probó [intenciones de implementación](../Autorregulacion/intenciones-de-implementacion.md), es decir, planes de dónde y cuándo hacer la tarea. En ese experimento la gente cumplió mejor lo que había predicho, lo que achicó la distancia entre la predicción y el resultado. Es un solo estudio y su autoría no se verificó.
 

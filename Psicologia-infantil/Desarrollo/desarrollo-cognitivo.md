@@ -49,7 +49,7 @@ Esto importa en la vida diaria de un chico de esa edad: entender una mentira pia
 
 La memoria de trabajo es la capacidad de mantener información en la cabeza mientras se la usa, como recordar los números de una cuenta mientras se la resuelve. Es una de las [funciones ejecutivas](../../Crianza/Emociones-y-caracter/funciones-ejecutivas.md), y cómo funciona en adultos está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md).
 
-Gathercole y otros (2004) midieron a 736 chicos de 4 a 15 años. Según su resumen, la capacidad de guardar información verbal y visual-espacial y la de manipular información verbal aumentaron de forma lineal con la edad, y el modelo de memoria de trabajo de tres componentes ya describía bien a los chicos desde los 6 años. Una revisión dice que el aumento sigue hasta los 12 y se estabiliza hacia los 15, sin cifras que se hayan podido verificar.
+Gathercole y otros (2004) midieron a chicos de 4 a 15 años (el resumen no dice cuántos, y la cifra de 736 que se les atribuye no se pudo verificar). Según su resumen, la capacidad de guardar información verbal y visual-espacial y la de manipular información verbal aumentaron de forma lineal con la edad, y el modelo de memoria de trabajo de tres componentes ya describía bien a los chicos desde los 6 años. Cada componente crece mucho en los años de primaria y sigue creciendo hasta la adolescencia; la idea de que el aumento se frena a los 12 y se estabiliza hacia los 15 no sale de ese resumen y queda sin verificar.
 
 ## Las estrategias para recordar aparecen hacia los 6 o 7
 

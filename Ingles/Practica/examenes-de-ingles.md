@@ -2,7 +2,7 @@
 resumen: >-
   Los exámenes internacionales de inglés que certifican C1 o C2, con qué miden, en qué escala y
   qué nivel del MCER acreditan, y los pocos precios que se encontraron, fechados al 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Cambridge C1 Advanced: https://www.cambridgeenglish.org/exams-and-tests/advanced/"
@@ -20,7 +20,7 @@ aliases:
   - English exams
   - Certificados de inglés
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Exámenes de inglés

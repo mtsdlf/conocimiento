@@ -3,7 +3,7 @@ resumen: >-
   Un camino en pasos para pasar de B2 a C1 que recorre las verticales del tema en orden, cada paso
   con su modelo mental, una predicción, un ejemplo resuelto, un caso modificado y uno para hacer
   solo, y cierra con cómo armar una semana de práctica.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Nation (2007), The four strands: https://doi.org/10.2167/illt039.0 (según resumen)"
@@ -19,7 +19,7 @@ aliases:
   - Learning path
   - Ruta de aprendizaje
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ruta de inglés
