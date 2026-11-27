@@ -87,6 +87,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Relación con clientes](Relacion-con-clientes/relacion-con-clientes.md) — lo que registra una empresa sobre sus clientes y sus ventas en curso: el cliente y sus condiciones, el interesado, la oportunidad, el presupuesto y el pedido de venta, sin nombrar productos y con lo de Argentina aparte.
 - [Servicio al cliente](Servicio-al-cliente/servicio-al-cliente.md) — cómo se atiende al cliente después de la venta: canales y autoservicio, el caso y el reclamo, el escalamiento y la derivación al técnico, los acuerdos de nivel de servicio y cómo se mide la calidad de la atención, sin nombrar productos y con lo de Argentina aparte.
 - [Inventario y depósitos](Inventario-y-depositos/inventario-y-depositos.md) — lo que pasa con la mercadería dentro del depósito: qué se tiene y en qué estado, cuánto se puede prometer, recibir, reservar y preparar, contar y ajustar, y cuándo reponer, sin nombrar productos y con lo de Argentina aparte.
+- [Administración de personal y nómina](Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md) — lo que una empresa registra y calcula sobre su gente: el legajo, la asistencia y las licencias, la liquidación de sueldos y las cargas y declaraciones, con lo de Argentina (LCT, Ley 27.802, cargas sociales, Ganancias, libro de sueldos digital) aparte.
 
 ## Personas
 
