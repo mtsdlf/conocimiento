@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un berrinche es un estallido de enojo o frustración que el chico todavía no puede manejar; es esperable entre el año y los 4 años, sobre todo a los 2 y 3, se acompaña con calma y seguridad, y preocupa si dura más de 15 minutos, si pasa varias veces al día o si sigue frecuente después de los 5.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.msdmanuals.com/es/hogar/salud-infantil/problemas-de-comportamiento-en-ni%C3%B1os/rabietas
@@ -15,7 +15,7 @@ fuentes:
 aliases: [rabietas, pataletas, tantrums, crisis]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Berrinches

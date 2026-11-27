@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La regulación emocional es la capacidad de entender, expresar y modular lo que se siente; en los chicos chicos empieza como corregulación, un adulto cálido que lo calma y le enseña, y de a poco pasa a ser propia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://acf.gov/opre/report/co-regulation-birth-through-young-adulthood-practice-brief
@@ -13,7 +13,7 @@ fuentes:
 aliases: [autorregulación emocional, corregulación, co-regulation, self-regulation]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Regulación emocional
