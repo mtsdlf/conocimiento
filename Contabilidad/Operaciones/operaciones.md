@@ -23,7 +23,7 @@ Esta vertical aplica a cada caso el mecanismo de [Registro](../Registro/registro
 
 ## Los ciclos que llegan al registro
 
-El campo agrupa las operaciones en ciclos: de la venta al cobro, de la compra al pago, el inventario y su costo, los activos fijos y los sueldos. Cada ciclo lo recorren otras áreas (ventas, compras, depósito, personal); la contabilidad entra cuando aparece un documento que cambia el patrimonio. Por eso el pedido de un cliente o la orden de compra no generan asiento: todavía no pasó nada que la empresa deba o tenga derecho a cobrar.
+El campo agrupa las operaciones en ciclos: de la venta al cobro, de la compra al pago, el inventario y su costo, los activos fijos y los sueldos. Cada ciclo lo recorren otras áreas (ventas, compras, depósito, personal); la contabilidad entra cuando aparece un documento que cambia el patrimonio. Por eso (explicación propia, sin fuente leída) el pedido de un cliente o la orden de compra no generan asiento: todavía no pasó nada que la empresa deba o tenga derecho a cobrar.
 
 La tabla resume qué documento dispara qué asiento. Los patrones salen de OpenStax y de la NIC 2; la tabla como síntesis es del informe de investigación.
 

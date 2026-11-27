@@ -24,7 +24,7 @@ Todo lo de esta nota sale de una sola fuente: el texto de las dos normas, leído
 
 El artículo 320 dice: «Están obligadas a llevar contabilidad todas las personas jurídicas privadas y quienes realizan una actividad económica organizada o son titulares de una empresa o establecimiento comercial, industrial, agropecuario o de servicios.»
 
-Quedan afuera, salvo que la lleven por voluntad propia, «las personas humanas que desarrollan profesiones liberales o actividades agropecuarias y conexas no ejecutadas u organizadas en forma de empresa». Cada jurisdicción local puede eximir actividades por el volumen de su giro. Cualquier otra persona puede llevar contabilidad si pide su inscripción y la habilitación de sus registros o la rubricación de los libros.
+Quedan afuera «las personas humanas que desarrollan profesiones liberales o actividades agropecuarias y conexas no ejecutadas u organizadas en forma de empresa». Cada jurisdicción local puede eximir actividades por el volumen de su giro. Cualquier otra persona puede llevar contabilidad si pide su inscripción y la habilitación de sus registros o la rubricación de los libros.
 
 ## Qué registros y cómo se llevan
 
@@ -37,7 +37,7 @@ El artículo 322 fija los registros indispensables:
 
 El artículo 321 dice cómo: la contabilidad «debe ser llevada sobre una base uniforme de la que resulte un cuadro verídico de las actividades y de los actos que deben registrarse, de modo que se permita la individualización de las operaciones y las correspondientes cuentas acreedoras y deudoras. Los asientos deben respaldarse con la documentación respectiva». Es la [partida doble](partida-doble.md) y el comprobante detrás de cada asiento, dichos como obligación.
 
-El artículo 325 agrega que los registros se llevan «en forma cronológica, actualizada, sin alteración alguna que no haya sido debidamente salvada», en idioma y moneda nacional, y que tienen que permitir determinar al cierre de cada ejercicio «la situación patrimonial, su evolución y sus resultados». Quedan en el domicilio del titular.
+El artículo 325 agrega que los registros se llevan «en forma cronológica, actualizada, sin alteración alguna que no haya sido debidamente salvada», en idioma y moneda nacional, y que tienen que permitir determinar al cierre de cada ejercicio «la situación patrimonial, su evolución y sus resultados». Los registros del artículo 322 quedan en el domicilio del titular.
 
 Sobre el diario, el artículo 327: «En el Diario se deben registrar todas las operaciones relativas a la actividad de la persona que tienen efecto sobre el patrimonio, individualmente o en registros resumidos que cubran períodos de duración no superiores al mes. Estos resúmenes deben surgir de anotaciones detalladas practicadas en subdiarios». El libro Caja y todo diario auxiliar integran el diario. Es el sustento legal de las [cuentas corrientes](cuentas-corrientes.md) y los diarios especiales.
 

@@ -23,7 +23,7 @@ Reciben del [registro](../Registro/registro-contable.md) los saldos de las cuent
 
 ## Para quién se informa
 
-El Marco Conceptual del IASB dice que su propósito es ayudar a que las normas den información útil a inversores, prestamistas y otros acreedores (según el resumen de su página). Esos usuarios no ven el registro: ven los estados. Por eso los estados siguen reglas comunes de forma y de contenido, para que dos empresas se puedan comparar y para que una misma empresa se compare con su año anterior.
+El Marco Conceptual del IASB dice que su propósito es ayudar a que las normas den información útil a inversores, prestamistas y otros acreedores (según el resumen de su página). Esos usuarios no ven el registro: ven los estados. Por eso (inferencia propia, que ninguna fuente leída dice) los estados siguen reglas comunes de forma y de contenido, para que dos empresas se puedan comparar y para que una misma empresa se compare con su año anterior.
 
 > [!NOTE]
 > Sin fuente todavía: el texto del capítulo 1 del Marco Conceptual (el objetivo literal de la información financiera y la definición de usuarios primarios). Se leyó solo el resumen de su página.
@@ -44,7 +44,7 @@ La NIC 1 fija qué estados forman un juego completo. La NIIF 18 reemplaza a la N
 
 Hay un sexto estado en un caso puntual: cuando la empresa reexpresa cifras hacia atrás o reclasifica partidas, agrega un estado de situación al comienzo del período comparativo anterior.
 
-Los nombres cambian según el país y la época. «Balance» es el nombre corriente del estado de situación, y en muchos libros el estado de resultados se llama cuenta de pérdidas y ganancias. Las normas propias de un país pueden usar otros nombres; los de Argentina están en [normas contables en Argentina](normas-contables-en-argentina.md).
+Los nombres cambian según el país y la época. «Balance» es el nombre corriente del estado de situación, y en muchos libros el estado de resultados se llama cuenta de pérdidas y ganancias (uso habitual, sin fuente leída). Las normas propias de un país pueden usar otros nombres; los de Argentina están en [normas contables en Argentina](normas-contables-en-argentina.md).
 
 ## Cómo se encadenan los cuatro estados
 

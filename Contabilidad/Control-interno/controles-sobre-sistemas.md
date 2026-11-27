@@ -19,7 +19,7 @@ revisado:
 
 Los controles sobre los sistemas son las actividades de control que cuidan la tecnología con que se registra (quién entra, quién cambia los programas, cómo se opera y qué queda anotado de cada acción), para que los controles automáticos y los datos contables sean confiables.
 
-COSO les dedica un principio propio, el 11 de sus 17: "The organization selects and develops general control activities over technology to support the achievement of objectives." Está dentro del componente de actividades de control, al lado de la [separación de funciones](separacion-de-funciones.md), las [autorizaciones](autorizaciones.md) y las [conciliaciones](conciliaciones.md); el marco entero está en [control interno](control-interno.md). Es la nota que más le sirve a quien construye un sistema de gestión, porque describe lo que un auditor va a mirar del sistema y no de la contabilidad.
+COSO les dedica un principio propio, el 11 de sus 17: "The organization selects and develops general control activities over technology to support the achievement of objectives." Está dentro del componente de actividades de control, al lado de la [separación de funciones](separacion-de-funciones.md), las [autorizaciones](autorizaciones.md) y las [conciliaciones](conciliaciones.md); el marco entero está en [control interno](control-interno.md). Es la nota que más le sirve a quien construye un sistema de gestión, porque describe, por inferencia de la base, lo que un auditor va a mirar del sistema y no de la contabilidad.
 
 ## Controles generales y controles de aplicación
 
@@ -31,7 +31,7 @@ La Green Book de la GAO, el marco de control interno del gobierno federal de Est
 | Ejemplos | Quién tiene usuario, cómo se aprueba un cambio al programa, las copias de respaldo | Rechazar una factura duplicada, exigir que el asiento balancee, bloquear un pago sin aprobación |
 | Qué aseguran | Que los controles de aplicación sigan funcionando | Que cada operación entre completa, exacta y válida |
 
-Los dos dependen uno del otro. Un control de aplicación como «no se paga una factura sin aprobar» vale lo que vale el control general que impide que alguien lo desactive o que modifique el programa sin pasar por una revisión. En un artículo del Journal of Accountancy, John White describe los controles generales como los que "protect the application controls (picture an umbrella)".
+Los dos dependen uno del otro. Un control de aplicación como «no se paga una factura sin aprobar» vale lo que vale el control general que impide que alguien lo desactive o que modifique el programa sin pasar por una revisión. En un artículo del Journal of Accountancy, John White compara los controles generales con un paraguas que protege a los de aplicación.
 
 La Green Book da tres objetivos para lo que procesa un sistema. Completitud: las operaciones que ocurren "are recorded and not understated". Exactitud: se registran "at the correct amount in the right account (and on a timely basis)". Validez: lo registrado representa "economic events that actually occurred".
 
@@ -51,7 +51,7 @@ El manual de control de Indiana, que aplica estas normas a los sistemas contable
 
 ### Cambios a los programas
 
-Un programa que calcula mal o que se saltea un control produce asientos equivocados sin que nadie los toque a mano. Por eso la Green Book pide controlar la adquisición, el desarrollo y el mantenimiento de la tecnología. El control de cambios "may involve requiring authorization of change requests; reviewing the changes, approvals, and testing results". Su propósito, en sus palabras, es que estos controles "prevent unauthorized programs or modifications to existing programs". Vale también para el software comprado y para el desarrollo que se tercerizó.
+Un programa que calcula mal o que se saltea un control produce asientos equivocados sin que nadie los toque a mano. Por eso la Green Book pide controlar la adquisición, el desarrollo y el mantenimiento de la tecnología. El control de cambios "may involve requiring authorization of change requests; reviewing the changes, approvals, and testing results". Su propósito, en sus palabras, es que estos controles "prevent unauthorized programs or modifications to existing programs".
 
 ### Operación
 
@@ -61,7 +61,7 @@ La operación cubre la infraestructura y la rutina: que el sistema esté disponi
 
 Entre los objetivos de los controles de aplicación, la guía GTAG del IIA, citada en el manual de Indiana, incluye que "A record is maintained to track the process of data from input to storage and to the eventual output". Esa pista de auditoría guarda, para cada acción, quién la hizo, cuándo y qué cambió. La Green Book lo liga a la integridad de la información, que incluye "nonrepudiation and authenticity": que nadie pueda negar después una acción que hizo.
 
-La contabilidad ya tenía esa regla antes de los sistemas: un asiento no se borra, se corrige con otro. El ejemplo sale de la conciliación de Feeter Plumbing que trae OpenStax. El cheque n.º 5386 se había anotado por 1,760 cuando era de 2,000. El asiento original queda como estaba:
+La contabilidad ya tenía esa regla antes de los sistemas: un asiento no se borra, se corrige con otro. El ejemplo sale de la conciliación de Feeter Plumbing que trae OpenStax. El cheque n.º 5386 se había anotado por 1,760 cuando era de 2,000. El asiento original (reconstruido por la base; la fuente solo trae el error y su corrección) queda como estaba:
 
 | Cuenta | Debe | Haber |
 |---|---|---|

@@ -63,7 +63,7 @@ Cuando las columnas no suman lo mismo, hay al menos un error. OpenStax da dos pi
 - Un saldo del lado equivocado. Con 33.900 al debe y 34.100 al haber, la diferencia es 200 y la mitad, 100: el saldo de Dividendos se había puesto en el haber.
 - Dos cifras invertidas. Con 35.800 al debe y 34.000 al haber, la diferencia es 1.800, y 1.800 dividido 9 da 200, la distancia típica de una transposición: Equipos figuraba 5.300 en lugar de 3.500.
 
-El libro avisa también lo contrario: puede haber errores y que el balance cuadre. Un asiento con la cuenta equivocada, uno omitido o uno cargado dos veces no descuadra nada. Esos errores los encuentran las [conciliaciones](../Control-interno/conciliaciones.md), que comparan el registro con algo de afuera (el banco, el auxiliar, el conteo).
+El libro avisa también lo contrario: puede haber errores y que el balance cuadre. Un asiento con la cuenta equivocada, uno omitido o uno cargado dos veces no descuadra nada (ejemplos de la base, no del libro). Esos errores los encuentran las [conciliaciones](../Control-interno/conciliaciones.md), que comparan el registro con algo de afuera (el banco, el auxiliar, el conteo) (inferencia de la base).
 
 ## Corregir con un asiento nuevo
 

@@ -30,7 +30,7 @@ Según OpenStax (sección 7.1), el presupuesto maestro tiene dos partes, cada un
 
 ## Estático, flexible, base cero y móvil
 
-OpenStax distingue cuatro formas (secciones 7.1 y 7.4):
+OpenStax distingue cuatro formas (secciones 7.1 y 7.4); la columna «Lo que cuesta» de las dos primeras es inferencia de la base:
 
 | Forma | Qué hace | Lo que cuesta |
 |---|---|---|
@@ -48,7 +48,9 @@ El ejemplo de Big Bad Bikes (OpenStax 7.4) muestra el flexible. Por unidad: mate
 | Utilidad bruta | US$ 19.000 | US$ 43.000 | US$ 50.500 |
 | Utilidad neta | −US$ 2500 | US$ 20.250 | US$ 27.750 |
 
-Si al final del año se venden 1000 unidades, el real se compara contra la primera columna y no contra la segunda: la diferencia de volumen ya está explicada y lo que queda es eficiencia o precio.
+La utilidad neta es la que da la fuente; con los datos de arriba no se reproduce (salen −US$ 2000, US$ 20.500 y US$ 28.000), así que incluye partidas que acá no se detallan.
+
+Si al final del año se venden 1000 unidades, el real se compara contra la primera columna y no contra la segunda: la diferencia de volumen ya está explicada y lo que queda es eficiencia o precio (inferencia de la base).
 
 ## Desvíos: separar el efecto precio del efecto cantidad
 
@@ -83,7 +85,7 @@ El Beyond Budgeting Institute, que promueve la posición, dice que el modelo se 
 > [!IMPORTANT]
 > Hay cuatro posiciones sobre el presupuesto anual.
 > - Abandonarlo, según Hope y Fraser: reemplazarlo por metas relativas a dos o tres años, pronósticos móviles y recursos asignados a medida que se necesitan. Es la posición de quienes la promueven; lo que se leyó no trae prueba independiente de sus resultados.
-> - Mantenerlo y cambiar la remuneración, según Bruns en la misma entrevista de HBS: el problema está en atar los premios a cumplir el número.
+> - Mantenerlo y cambiar la remuneración, según Bruns en la misma entrevista de HBS.
 > - Usarlo sabiendo sus costos, como lo presenta OpenStax: una herramienta de planificación y comunicación, con sesgos que hay que vigilar.
 > - Adaptarlo sin abandonarlo, que es lo que hacen las empresas según Libby y Lindsay (2010). Encuestaron a organizaciones medianas y grandes de Canadá y Estados Unidos (558 respuestas). El 79 % usa el presupuesto para control, y de ese grupo el 94 % no piensa abandonarlo. Su conclusión: «While problems exist with budgets, organizations are adapting their use to account for these problems rather than abandoning budgets altogether.» La tasa de respuesta fue baja (13,6 % en la muestra canadiense y 1,5 % en la de miembros del IMA), y los autores lo señalan.
 >

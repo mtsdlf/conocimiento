@@ -33,7 +33,7 @@ La forma clásica de enseñarla separa tres funciones:
 
 OpenStax lo explica con dos ideas. La primera es separar la custodia del registro: quien controla un activo no puede llevar también sus registros contables. La segunda es que en la mayoría de las operaciones intervengan al menos dos personas. Sus ejemplos: quien pide el inventario no lo recibe, y quien prepara un cheque no lo firma.
 
-La política de la Universidad de Missouri, una fuente institucional y no una norma general, separa cinco funciones: autorización, registro, verificación, custodia de activos y revisión gerencial. Su regla es que ninguna persona tenga a su cargo dos o más de esas funciones principales.
+La política de la Universidad de Missouri, una fuente institucional y no una norma general, separa cinco funciones: autorización, registro, verificación, custodia de activos y revisión gerencial. Su regla es que ninguna persona tenga a su cargo dos o más de esas funciones principales (el extracto leído también habla de un piso de no más de dos funciones por persona; no se pudo verificar cuál de las dos rige).
 
 Muchos textos de práctica suman «conciliar» como cuarta función, separada de las otras tres. Es una lectura razonable, porque una conciliación hecha por quien custodia la caja puede tapar un faltante, pero ninguna de las fuentes leídas la pone como función aparte: Missouri trata la conciliación como un control compensatorio.
 
@@ -64,7 +64,7 @@ La separación supone que dos personas no se ponen de acuerdo. Cuando lo hacen (
 
 Con tres o más, las pérdidas fueron "more than twice as high" que con dos, y la ACFE lo atribuye a que "The higher losses associated with collusive schemes could be related to easier circumvention of controls, such as separation of duties".
 
-La misma ACFE pone la separación primera en su lista de controles de prevención, junto con otros que la complementan: "Proper separation of duties", "Use of authorizations", "Physical safeguards", "Job rotations", "Mandatory vacations". Las vacaciones obligatorias y la rotación sirven porque otra persona hace la tarea un tiempo y ve lo que el titular escondía.
+La misma ACFE pone la separación primera en su lista de controles de prevención, junto con otros que la complementan: "Proper separation of duties", "Use of authorizations", "Physical safeguards", "Job rotations", "Mandatory vacations". Las vacaciones obligatorias y la rotación sirven, por inferencia de la base, porque otra persona hace la tarea un tiempo y ve lo que el titular escondía.
 
 ## Controles compensatorios cuando no alcanza la gente
 
@@ -82,6 +82,6 @@ Lo que tienen en común es que un tercero mira, después y con evidencia, lo que
 
 ## Lo que un sistema tiene que poder impedir
 
-En un sistema de gestión, la separación se implementa con perfiles de acceso que definen, según el manual de control del Indiana State Board of Accounts, qué datos ve cada usuario y qué funciones puede hacer, con el acceso mínimo para su trabajo y revisado cada tanto por la gerencia. Para eso el registro tiene que poder distinguir la acción (crear, aprobar, pagar, conciliar) del objeto, y negar a un mismo usuario dos acciones incompatibles sobre la misma operación, también cuando ese usuario es administrador. Cuando la empresa decide permitir la combinación, el sistema tiene que dejar rastro para el control compensatorio: quién hizo cada paso y cuándo. Cómo se diseñan los accesos y el registro de quién hizo qué está en [controles sobre los sistemas](controles-sobre-sistemas.md); el rastro de cada cambio de saldo, en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md).
+En un sistema de gestión, la separación se implementa con perfiles de acceso que definen, según el manual de control del Indiana State Board of Accounts, qué datos ve cada usuario y qué funciones puede hacer, con el acceso mínimo para su trabajo y revisado cada tanto por la gerencia. Para eso (inferencia de la base) el registro tiene que poder distinguir la acción (crear, aprobar, pagar, conciliar) del objeto, y negar a un mismo usuario dos acciones incompatibles sobre la misma operación, también cuando ese usuario es administrador. Cuando la empresa decide permitir la combinación, el sistema tiene que dejar rastro para el control compensatorio: quién hizo cada paso y cuándo. Cómo se diseñan los accesos y el registro de quién hizo qué está en [controles sobre los sistemas](controles-sobre-sistemas.md); el rastro de cada cambio de saldo, en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md).
 
 > [!NOTE] Sin fuente todavía: un catálogo neutral (de un regulador, el IIA o un texto académico) de combinaciones incompatibles por ciclo (compras, ventas, sueldos, tesorería).

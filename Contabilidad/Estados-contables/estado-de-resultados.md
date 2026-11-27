@@ -22,12 +22,12 @@ Junta los saldos de las cuentas de ingresos y gastos, que el [registro](../Regis
 
 ## Un solo paso o varios pasos
 
-OpenStax enseña dos formatos para el mismo contenido:
+OpenStax enseña dos formatos para el mismo contenido (según extractos del buscador; la página completa no se leyó):
 
 - El de un solo paso suma todos los ingresos, suma todos los gastos en categorías generales y los resta. No distingue lo operativo de lo que no lo es.
 - El de varios pasos separa el costo de lo vendido de los gastos operativos, muestra el margen bruto y el resultado operativo, y deja aparte los otros ingresos y gastos.
 
-Los resultados intermedios del formato de varios pasos responden preguntas distintas. El margen bruto (ventas menos [costo de lo vendido](../Operaciones/costo-de-lo-vendido.md)) dice cuánto deja la mercadería o el servicio antes de pagar la estructura. El resultado operativo resta los gastos de vender y administrar, y dice si la actividad principal gana plata. Lo que viene después (intereses, ventas de activos, impuesto a las ganancias) depende de cómo se financia la empresa y de hechos que no se repiten.
+Los resultados intermedios del formato de varios pasos responden preguntas distintas. El margen bruto (ventas menos [costo de lo vendido](../Operaciones/costo-de-lo-vendido.md)) dice cuánto deja la mercadería o el servicio antes de pagar la estructura. El resultado operativo resta los gastos de vender y administrar, y dice si la actividad principal gana plata. Lo que viene después (intereses, ventas de activos, impuesto a las ganancias) depende de cómo se financia la empresa y de hechos que no se repiten. Esta explicación es propia: las fuentes leídas solo describen la estructura.
 
 ## El estado de resultados de Clip'em Cliff, agosto de 2019
 
@@ -41,7 +41,7 @@ OpenStax cierra su ciclo contable completo con un estado de un solo paso (cifras
 | **Gastos totales** | **10.625** |
 | **Resultado neto** | **25** |
 
-El mismo contenido en varios pasos separaría los intereses como un ingreso no operativo. Si todos los gastos fueran operativos (el informe de investigación no trae su desglose, así que es un supuesto), el resultado operativo sería 10.300 − 10.625 = −325, una pérdida que los $350 de intereses convierten en una ganancia de $25. El ejemplo muestra para qué sirve el formato de varios pasos: el de un solo paso esconde que el servicio, en ese mes, no cubrió sus gastos.
+El mismo contenido en varios pasos separaría los intereses como un ingreso no operativo. Si todos los gastos fueran operativos (el informe de investigación no trae su desglose, así que es un supuesto), el resultado operativo sería 10.300 − 10.625 = −325, una pérdida que los $350 de intereses convierten en una ganancia de $25. El ejemplo muestra para qué sirve el formato de varios pasos: el de un solo paso escondería, con ese supuesto, que el servicio, en ese mes, no cubrió sus gastos.
 
 > [!NOTE]
 > Sin fuente todavía: un estado de varios pasos con margen bruto y cifras de fuente (OpenStax 6.6 completo no se leyó).

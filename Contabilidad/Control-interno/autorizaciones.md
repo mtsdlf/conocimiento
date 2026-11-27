@@ -19,7 +19,7 @@ revisado:
 
 Las autorizaciones definen quién puede aprobar cada tipo de operación y hasta qué monto, y los documentos numerados en forma correlativa permiten comprobar después que ninguna operación se hizo sin pasar por esa aprobación.
 
-COSO pone las autorizaciones primeras en su lista de actividades de control ("authorizations and approvals, verifications, reconciliations"), y la ACFE las incluye entre los controles de prevención del fraude ("Use of authorizations"). Son un control preventivo: actúan antes de que la operación exista. El marco general está en [control interno](control-interno.md).
+COSO pone las autorizaciones primeras en su lista de actividades de control ("authorizations and approvals, verifications, reconciliations"), y la ACFE las incluye entre los controles de prevención del fraude ("Use of authorizations"). Son un control preventivo en el sentido de que actúan antes de que la operación exista (clasificación de la base; ninguna fuente leída define el término). El marco general está en [control interno](control-interno.md).
 
 Las fuentes abiertas sobre este tema son pocas y flacas. COSO y la ACFE nombran la autorización sin desarrollarla; lo demás sale de un libro de texto y de las políticas internas de dos universidades de Estados Unidos, que muestran cómo lo resuelve una institución pero no son una norma general.
 
@@ -42,7 +42,7 @@ Hay una regla que no depende del tramo: nadie aprueba lo propio. La política de
 
 ## La aprobación de pagos y el alta de proveedores
 
-El pago a proveedores es donde más plata se pierde por falta de autorización. En el informe de la ACFE de 2024, la facturación ficticia apareció en el 22% de los casos, con una pérdida mediana de USD 100,000. La ACFE la define como "a fraudulent disbursement scheme in which a person causes their employer to issue a payment by submitting invoices for fictitious goods or services, inflated invoices, or invoices for personal purchases". La manipulación de cheques y pagos tuvo la pérdida mediana más alta entre los esquemas de apropiación de activos: USD 155,000.
+El pago a proveedores es un punto de riesgo. En el informe de la ACFE de 2024, la facturación ficticia apareció en el 22% de los casos, con una pérdida mediana de USD 100,000. La ACFE la define como "a fraudulent disbursement scheme in which a person causes their employer to issue a payment by submitting invoices for fictitious goods or services, inflated invoices, or invoices for personal purchases". La manipulación de cheques y pagos tuvo la pérdida mediana más alta entre los esquemas de apropiación de activos: USD 155,000.
 
 El control que se recomienda junta autorización y [separación de funciones](separacion-de-funciones.md): quien crea o modifica un proveedor (su nombre, su cuenta bancaria) no aprueba sus facturas ni libera los pagos. Si una misma persona puede dar de alta un proveedor inventado, aprobar su factura y pagarla, el circuito entero de [compras y cuentas a pagar](../Operaciones/compras-y-cuentas-a-pagar.md) queda en sus manos. Esta recomendación sale solo de guías de empresas que venden software de pagos, sin autoridad independiente; las mismas guías piden que cada cambio en los datos de un proveedor guarde el valor viejo, el valor nuevo, el usuario y la hora.
 
@@ -50,7 +50,7 @@ Para quien construye el sistema, eso se traduce en tres capacidades: la aprobaci
 
 ## Numeración correlativa y formularios prenumerados
 
-La numeración correlativa es el control que demuestra que la autorización no se salteó. Si las órdenes de compra, los recibos o los cheques llevan un número que el sistema o la imprenta asigna en orden, cualquier número que falte o se repita se ve. OpenStax recomienda formularios prenumerados completados en tinta, para que no puedan alterarse, y copias de respaldo guardadas fuera del lugar. Esa es la única fuente encontrada sobre el tema.
+La numeración correlativa sirve, por inferencia de la base, para ver que la autorización no se salteó: OpenStax solo recomienda los formularios prenumerados. Si las órdenes de compra, los recibos o los cheques llevan un número que el sistema o la imprenta asigna en orden, cualquier número que falte o se repita se ve. OpenStax recomienda formularios prenumerados completados en tinta, para que no puedan alterarse, y copias de respaldo guardadas fuera del lugar. Esa es la única fuente encontrada sobre el tema.
 
 El mismo capítulo de OpenStax liga la documentación con la responsabilidad: un sistema bien diseñado asigna cada rol a una persona, y si una sola persona tiene acceso a la caja, cualquier sobrante o faltante es suyo. Su ejemplo es la caja de un turno: si se registraron USD 800 de ventas, el efectivo, los cheques y los comprobantes de tarjeta tienen que sumar 800, y dos personas cuentan por separado. Los dos recuentos tienen que dar igual.
 

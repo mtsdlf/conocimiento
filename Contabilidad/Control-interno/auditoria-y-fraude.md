@@ -26,7 +26,7 @@ Las dos cosas van juntas porque la auditoría es la que pone a prueba el [contro
 
 ## La auditoría interna y las tres líneas
 
-El IIA (Institute of Internal Auditors) ordena los roles en un modelo de tres líneas. La gerencia tiene la primera y la segunda: opera los procesos y gestiona sus riesgos, y "responsibility for managing risk remains a part of first line roles and within the scope of management". Las funciones de segunda línea, como el área de control interno o de cumplimiento, asisten a la gerencia. La tercera línea es la auditoría interna: "Internal audit provides independent and objective assurance and advice on the adequacy and effectiveness of governance and risk management", y reporta lo que encuentra "to management and the governing body".
+El IIA (Institute of Internal Auditors) ordena los roles en un modelo de tres líneas. La gerencia tiene la primera y la segunda: opera los procesos y gestiona sus riesgos, y "responsibility for managing risk remains a part of first line roles and within the scope of management". Las funciones de segunda línea, que incluyen el control interno entre sus objetivos, también son parte de la responsabilidad de la gerencia. La tercera línea es la auditoría interna: "Internal audit provides independent and objective assurance and advice on the adequacy and effectiveness of governance and risk management", y reporta lo que encuentra "to management and the governing body".
 
 Lo que la distingue es la independencia, que según el IIA se establece con tres cosas: rendirle cuentas al órgano de gobierno (el directorio o su comité de auditoría), "unfettered access to people, resources, and data", y libertad frente a interferencias al planificar y hacer su trabajo. Un auditor interno que reporta al gerente que audita no cumple esa condición.
 
@@ -43,7 +43,7 @@ La ISA 200 aclara también lo que la opinión no dice: "does not assure, for exa
 
 ## El triángulo del fraude
 
-El triángulo del fraude explica por qué una persona que nunca robó un día lo hace. OpenStax lo atribuye a Donald Cressey, que estudió a defraudadores de bancos: según OpenStax, eran personas que por lo demás respetaban la ley y que tenían un problema financiero que sentían que no podían contar. Los tres lados, en la versión de OpenStax:
+El triángulo del fraude explica por qué una persona que nunca robó un día lo hace. OpenStax lo atribuye a Cressey, que estudió a defraudadores de bancos: según OpenStax, eran personas que por lo demás respetaban la ley y que tenían un problema financiero que sentían que no podían contar. Los tres lados, en la versión de OpenStax:
 
 | Lado | Qué es | Dónde lo toca la empresa (lectura propia) |
 |---|---|---|
@@ -51,7 +51,7 @@ El triángulo del fraude explica por qué una persona que nunca robó un día lo
 | Oportunidad | La persona cree que los controles son débiles y no la van a descubrir | Es el lado que el control interno achica |
 | Racionalización | Una justificación que le permite seguir viéndose como honesta | Lo afecta el entorno de control |
 
-La formulación habitual habla de presión donde OpenStax dice «incentive (or pressure)». La obra original de Cressey no se leyó; el triángulo viene de OpenStax y no tiene cita primaria acá.
+La formulación habitual habla de presión, y OpenStax nombra el primer lado como incentivo o presión. Del extracto de OpenStax solo se confirmó la definición de oportunidad; la de racionalización es paráfrasis de la base. La obra original de Cressey no se leyó; el triángulo viene de OpenStax y no tiene cita primaria acá.
 
 Las señales que deja la presión se ven. En el informe de la ACFE de 2024, entre las conductas que mostraban los defraudadores, "living beyond means (39%)" y "experiencing financial difficulties (27%)" fueron de las registradas.
 
@@ -59,7 +59,7 @@ Las señales que deja la presión se ven. En el informe de la ACFE de 2024, entr
 
 La ACFE (Association of Certified Fraud Examiners) publica un informe periódico sobre fraude ocupacional. La edición de 2024, la 13.ª, analizó "1,921 cases" de "138 countries and territories", con pérdidas por "more than $3.1 billion". La ACFE ya publicó la edición 2026, que no se leyó para esta nota: las cifras de abajo son de 2024.
 
-Son medianas de casos investigados por examinadores certificados, no una encuesta de todas las empresas. La pérdida mediana por caso fue USD 145,000, y "A typical fraud case lasts 12 MONTHS before detection". Cuanto más dura, más cuesta:
+Son medianas de casos investigados por examinadores certificados, no una encuesta de todas las empresas. La pérdida mediana por caso fue USD 145.000, y "A typical fraud case lasts 12 MONTHS before detection". Cuanto más dura, más cuesta:
 
 | Duración del fraude | Pérdida mediana |
 |---|---|
@@ -95,7 +95,7 @@ Según la ACFE, cuatro controles ("surprise audits, financial statement audits, 
 > - Como falla: Según el resumen de Anchin, las auditorías externas de estados contables estaban presentes en el 84% de los casos del informe, y aun así descubrieron el 3%. Quien lo lee como falla concluye que la auditoría externa no protege contra el fraude de los empleados.
 > - Como prueba de que el sistema funciona: El CAQ (Center for Audit Quality, una asociación de auditores de Estados Unidos y parte interesada) sostiene que el 3% refleja un sistema de controles en capas que funciona, y que un número mucho mayor indicaría que las empresas no toman medidas propias. Según el CAQ, el 58% de ese 3% se descubrió con procedimientos estándar de auditoría.
 
-Las dos lecturas son compatibles con lo que dice la ISA 200: la auditoría de los estados contables busca errores materiales en el conjunto, no cada robo de un empleado. Que la ACFE presente su dato de esa manera no se verificó en su texto.
+Las dos lecturas son compatibles, por inferencia de la base, con lo que dice la ISA 200: la auditoría de los estados contables busca errores materiales en el conjunto, no cada robo de un empleado. Que la ACFE presente su dato de esa manera no se verificó en su texto.
 
 Esto desarma la creencia de que el control interno evita el fraude. COSO solo promete seguridad razonable, y la ACFE muestra que la falta de controles (32%) y la anulación de controles existentes (19%) fueron las debilidades más citadas.
 

@@ -17,7 +17,7 @@ revisado:
 
 El estado de flujo de efectivo explica cómo cambió la caja de la empresa en un período, separando lo que entró y salió por operar, por invertir en activos de largo plazo y por financiarse.
 
-Existe aparte del [estado de resultados](estado-de-resultados.md) porque los dos miden cosas distintas. El resultado se arma por [devengado](../Registro/devengado.md): registra la venta cuando se hace y el gasto cuando se consume. La caja se mueve cuando se cobra y se paga. Según OpenStax, los flujos de caja suelen diferir bastante del resultado devengado. Una empresa puede ganar y quedarse sin plata, o perder y juntar caja; para quien empieza, esa pregunta es la de la pista, en [finanzas de Emprender](../../Emprender/Finanzas/finanzas.md).
+Existe aparte del [estado de resultados](estado-de-resultados.md) porque los dos miden cosas distintas. El resultado se arma por [devengado](../Registro/devengado.md): registra la venta cuando se hace y el gasto cuando se consume. La caja se mueve cuando se cobra y se paga. Según OpenStax, los flujos de caja suelen diferir bastante del resultado devengado. Una empresa puede ganar y quedarse sin plata, o perder y juntar caja (OpenStax trae un caso del segundo tipo; del primero no hay un caso documentado en las fuentes leídas); para quien empieza, esa pregunta es la de la pista, en [finanzas de Emprender](../../Emprender/Finanzas/finanzas.md).
 
 ## Las tres actividades
 
@@ -31,7 +31,7 @@ La NIC 7 pide mostrar cómo cambiaron el efectivo y sus equivalentes durante el 
 
 Las tres suman la variación de la caja, que tiene que coincidir con la diferencia entre la caja del [balance](balance.md) de cierre y la del anterior.
 
-Las operaciones de inversión o financiación que no mueven caja quedan afuera del estado y se revelan aparte. OpenStax da el caso de un terreno comprado con un pagaré de $20.000: hay un activo nuevo y una deuda nueva, y la caja no se movió.
+Las operaciones de inversión o financiación que no mueven caja quedan afuera del estado y se revelan aparte. OpenStax da el caso de un terreno comprado con un pagaré de $20.000: hay un activo nuevo y una deuda nueva, y la caja no se movió (el asiento de abajo es armado a partir de ese caso).
 
 | Cuenta | Debe | Haber |
 |---|---|---|
@@ -40,7 +40,7 @@ Las operaciones de inversión o financiación que no mueven caja quedan afuera d
 
 ## Método directo y método indirecto
 
-Los dos métodos llegan al mismo flujo operativo por caminos distintos, y solo cambian la sección de operación. Inversión y financiación se arman igual en los dos.
+Los dos métodos solo cambian la sección de operación; inversión y financiación se arman igual en los dos. Que den el mismo flujo operativo por caminos distintos es lo esperable, pero ninguna fuente leída lo dice.
 
 - El directo muestra las grandes clases de cobros y pagos brutos (cuánto se cobró a clientes, cuánto se pagó a proveedores).
 - El indirecto parte del resultado del período y lo corrige por lo que no movió caja (como la amortización) y por las variaciones del capital de trabajo.
@@ -72,9 +72,9 @@ OpenStax arma el estado de 2018 de Propensity Company por el método indirecto. 
 | **Flujo de las actividades de financiación** | **+54.560** |
 | **Variación neta de la caja** | **+23.200** |
 
-La caja pasó de $24.300 al 31 de diciembre de 2017 a $47.500 al 31 de diciembre de 2018: 13.840 − 45.200 + 54.560 = 23.200.
+La caja pasó de $24.300 al 31 de diciembre de 2017 a $47.500 al 31 de diciembre de 2018: 13.840 − 45.200 + 54.560 = 23.200. El texto narrativo del libro da $25.200 de inversión y $34.560 de financiación, que no coinciden con el estado; la aritmética respalda las cifras del estado.
 
-Dos líneas muestran cómo piensa el método. La amortización de $14.400 se restó como gasto para llegar al resultado, pero no salió de la caja, así que se suma de vuelta; la amortización no es plata que se guarda, como explica [activos fijos y amortización](../Operaciones/activos-fijos-y-amortizacion.md). La ganancia por la venta de activos ($4.800) se resta porque el cobro entero de esa venta ya aparece en inversión; dejarla en operación lo contaría dos veces.
+Dos líneas muestran cómo piensa el método. La amortización de $14.400 se restó como gasto para llegar al resultado, pero no salió de la caja, así que se suma de vuelta; la amortización no es plata que se guarda, como explica [activos fijos y amortización](../Operaciones/activos-fijos-y-amortizacion.md). La ganancia por la venta de activos ($4.800) se resta porque el cobro entero de esa venta ya aparece en inversión; dejarla en operación lo contaría dos veces (explicación propia, no del libro).
 
 El resultado fue de $4.340 y la operación generó $13.840. La empresa compró activos por $60.000 y en el mismo año emitió acciones y pagarés por $55.000. Esa lectura no surge del estado de resultados.
 

@@ -24,9 +24,9 @@ El costo de lo vendido y el inventario son dos caras del mismo registro: lo que 
 
 ## Permanente o periódico
 
-Hay dos maneras de llevar el inventario en el registro. Con el sistema permanente, cada compra suma al inventario y cada venta resta su costo en el momento: el saldo de la cuenta Inventario dice en todo momento cuánto hay. Con el periódico, las compras se acumulan aparte y el costo de lo vendido se calcula al cierre, contando lo que quedó: inventario inicial más compras menos inventario final. Según el resumen de OpenStax leído por el buscador, en el permanente el promedio se recalcula con cada cambio de unidades, y en el periódico es el total disponible dividido por las unidades disponibles.
+Hay dos maneras de llevar el inventario en el registro. Con el sistema permanente, cada compra suma al inventario y cada venta resta su costo en el momento: el saldo de la cuenta Inventario dice en todo momento cuánto hay. Con el periódico, las compras se acumulan aparte y el costo de lo vendido se calcula al cierre, contando lo que quedó: inventario inicial más compras menos inventario final (fórmula habitual, sin fuente leída). Según el resumen de OpenStax leído por el buscador, en el permanente el promedio se recalcula con cada cambio de unidades, y en el periódico es el total disponible dividido por las unidades disponibles.
 
-El permanente es el que exige que cada venta tenga dos asientos, el del ingreso y el del costo (ver [operaciones](operaciones.md)). Para un sistema es el natural: cada entrada y salida es una fila, y el saldo es la suma, como en el [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md). En planilla, el mismo diseño está en [planilla de stock](../../Planillas-de-calculo/Diseno-de-planillas/planilla-de-stock.md). El periódico sigue sirviendo cuando no se puede registrar el costo de cada venta en el momento, y el conteo físico es lo que le da el costo del período.
+El permanente es el que exige que cada venta tenga dos asientos, el del ingreso y el del costo (ver [operaciones](operaciones.md)). Para un sistema es el natural: cada entrada y salida es una fila, y el saldo es la suma, como en el [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md). En planilla, el mismo diseño está en [planilla de stock](../../Planillas-de-calculo/Diseno-de-planillas/planilla-de-stock.md). El periódico sigue sirviendo cuando no se puede registrar el costo de cada venta en el momento, y el conteo físico es lo que le da el costo del período. Es inferencia propia.
 
 ## PEPS, promedio ponderado y UEPS sobre las mismas compras
 
@@ -49,7 +49,7 @@ La página aclara que no muestra los asientos. Derivados de sus cifras, la venta
 | Costo de lo vendido | 2.520 | |
 | Inventario | | 2.520 |
 
-Con PEPS, el costo de la venta del 15 de julio es $4.680: 30 unidades que quedaban a $21 y 150 de la compra del 10 a $27.
+Con PEPS, el costo de la venta del 15 de julio es $4.680: 30 unidades que quedaban a $21 y 150 de la compra del 10 a $27 (cálculo propio).
 
 Con precios que suben, PEPS da el menor costo, el mayor margen y el mayor inventario. El método cambia el resultado y el balance; la caja es la misma con cualquiera, porque las compras y las ventas no cambian. La norma pide usar la misma fórmula para inventarios de naturaleza y uso parecidos.
 
@@ -61,7 +61,7 @@ El por qué está en los fundamentos de la norma. El IASB dice que UEPS "is gene
 
 ## El valor neto de realización pone un techo
 
-El inventario no puede quedar en el balance por más de lo que se va a recuperar con él. La NIC 2 lo dice así: "Inventories shall be measured at the lower of cost and net realisable value." El valor neto de realización es el precio de venta estimado en el curso normal del negocio menos los costos de terminar el producto y venderlo. Si cae por debajo del costo (mercadería dañada, pasada de moda, con precio en baja), la diferencia se rebaja del inventario contra resultados.
+El inventario no puede quedar en el balance por más de lo que se va a recuperar con él. La NIC 2 lo dice así: "Inventories shall be measured at the lower of cost and net realisable value." El valor neto de realización es el precio de venta estimado en el curso normal del negocio menos los costos de terminar el producto y venderlo. Si cae por debajo del costo, la diferencia se rebaja del inventario contra resultados.
 
 La rebaja se hace normalmente ítem por ítem, no por una categoría entera como "productos terminados", y el valor neto de realización se vuelve a estimar en cada período.
 

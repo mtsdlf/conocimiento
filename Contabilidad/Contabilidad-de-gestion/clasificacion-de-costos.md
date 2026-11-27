@@ -45,7 +45,7 @@ La carga fabril es donde nace casi toda la discusión de la vertical, porque hay
 
 ## De producto o del período: cuándo pasa a resultados
 
-Este corte es el que más le importa al registro contable. Un costo de producto se incorpora al valor del inventario y recién pasa a resultados como [costo de lo vendido](../Operaciones/costo-de-lo-vendido.md) cuando el producto se vende. Un costo del período se registra como gasto cuando ocurre: según el mismo resumen de OpenStax, es el caso de los gastos de ventas y de administración.
+Un costo de producto se incorpora al valor del inventario y recién pasa a resultados como [costo de lo vendido](../Operaciones/costo-de-lo-vendido.md) cuando el producto se vende. Un costo del período se registra como gasto cuando ocurre: según el mismo resumen de OpenStax, es el caso de los gastos de ventas y de administración.
 
 La línea entre uno y otro la fija el método de costeo. Con costeo por absorción, el costo fijo de fábrica es de producto y espera en el inventario; con costeo variable, es del período y va a resultados en el mes. Esa sola diferencia hace que el mismo año dé dos utilidades distintas, como muestra el ejemplo de Outdoor Nation en [sistemas de costeo](sistemas-de-costeo.md).
 
@@ -53,4 +53,4 @@ La línea entre uno y otro la fija el método de costeo. Con costeo por absorci�
 
 Según un resumen de la sección 2.2 de OpenStax, un mismo costo puede clasificarse distinto según para qué se use el dato. Dos ejemplos de la base: el sueldo de un jefe de taller es indirecto respecto de cada mesa y directo respecto del taller; la energía puede tratarse como fija para un presupuesto anual y como variable para cotizar un pedido grande.
 
-Para quien construye un sistema, se sigue (inferencia de la base) que la clase de un costo funciona mejor como un atributo que se asigna según el análisis y no como una propiedad fija de la cuenta. Lo que el registro tiene que conservar es el dato que permite clasificarlo después: a qué producto, pedido, departamento o actividad corresponde cada movimiento, como se ve en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md). La división entre producto y período sí la fija la norma contable para los estados que salen afuera.
+Para quien construye un sistema, se sigue (inferencia de la base) que la clase de un costo funciona mejor como un atributo que se asigna según el análisis y no como una propiedad fija de la cuenta. Lo que el registro tiene que conservar es el dato que permite clasificarlo después: a qué producto, pedido, departamento o actividad corresponde cada movimiento, como se ve en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md). La división entre producto y período sí la fija la norma contable para los estados que salen afuera (inferencia de la base, sin fuente leída).

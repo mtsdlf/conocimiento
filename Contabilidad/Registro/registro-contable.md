@@ -23,11 +23,11 @@ Las demás partes de la [contabilidad](../contabilidad.md) suponen este mecanism
 
 ## Qué hecho se registra
 
-Se registra lo que cambia los recursos de la empresa o sus obligaciones. El Marco Conceptual del IASB define el activo como «a present economic resource controlled by the entity as a result of past events» (4.3) y el pasivo como «a present obligation of the entity to transfer an economic resource as a result of past events» (4.26). Una venta, una compra a crédito o un sueldo devengado cambian alguno de los dos y se registran; un pedido de un cliente o un presupuesto enviado todavía no, porque no cambian ni un recurso ni una obligación.
+Se registra lo que cambia los recursos de la empresa o sus obligaciones. El Marco Conceptual del IASB define el activo como «a present economic resource controlled by the entity as a result of past events» (4.3) y el pasivo como «a present obligation of the entity to transfer an economic resource as a result of past events» (4.26). Una venta, una compra a crédito o un sueldo devengado cambian alguno de los dos y se registran; un pedido de un cliente o un presupuesto enviado todavía no, porque no cambian ni un recurso ni una obligación (aplicación de las definiciones, inferencia de la base).
 
 Según OpenStax, unos pocos principios condicionan qué y cómo se registra: el ingreso se reconoce en el período en que se gana, se supone que la empresa sigue operando en el futuro previsible (empresa en marcha), todo se mide en una unidad monetaria y los bienes se anotan a su costo histórico. El primero es el [devengado](devengado.md), que decide en qué período cae cada hecho.
 
-Cada asiento se apoya en un comprobante (factura, recibo, extracto bancario, planilla de sueldos). Sin comprobante no hay asiento, y lo que el comprobante dice es lo que un auditor va a contrastar después.
+Cada asiento se apoya en un comprobante (factura, recibo, extracto bancario, planilla de sueldos). En Argentina, el Código Civil y Comercial exige que los asientos se respalden con la documentación respectiva (art. 321, en [libros contables en Argentina](libros-contables-en-argentina.md)). Que un auditor contraste después lo que el comprobante dice es inferencia de la base.
 
 ## Del hecho al saldo, en cuatro pasos
 
@@ -53,7 +53,7 @@ Un hecho del ejemplo de OpenStax recorre los cuatro pasos. El 5 de enero de 2019
 | Equipos | 3.500 | |
 | Proveedores | | 3.500 |
 
-En el mayor, Equipos suma 3.500 deudor y Proveedores 3.500 acreedor. En el balance de sumas y saldos del 31 de enero, los dos saldos aparecen en sus columnas, y el total de cada columna da 34.000.
+En el mayor, Equipos suma 3.500 deudor y Proveedores 3.500 acreedor. En el balance de sumas y saldos del 31 de enero, Equipos aparece con 3.500 en la columna del debe y Proveedores con 500 en la del haber (su saldo cambió con otros hechos del mes), y el total de cada columna da 34.000.
 
 ## El ciclo contable completo
 
@@ -79,7 +79,7 @@ Los pasos 5 a 9 son de [ajustes de cierre](../Estados-contables/ajustes-de-cierr
 - Un asiento que se edita o se borra. Se pierde el rastro de qué se registró y cuándo. La regla es corregir con un asiento nuevo.
 - Un plan de cuentas con un cliente por cuenta. El detalle que va en los auxiliares termina en el mayor y los estados se vuelven ilegibles.
 
-Para quien construye un sistema, estas fallas se traducen en lo que el registro tiene que impedir o hacer posible: asientos descuadrados rechazados, asientos confirmados sin edición, el auxiliar y el mayor calculados del mismo registro (inferencia de la base). Cómo se modela eso en una base de datos está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y va a estar en el tema Software de gestión.
+Estas cuatro fallas son inferencia de la base: ninguna fuente leída las enumera. Para quien construye un sistema, se traducen en lo que el registro tiene que impedir o hacer posible: asientos descuadrados rechazados, asientos confirmados sin edición, el auxiliar y el mayor calculados del mismo registro (inferencia de la base). Cómo se modela eso en una base de datos está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y va a estar en el tema Software de gestión.
 
 ## Lo que hay adentro del registro
 

@@ -72,14 +72,14 @@ Un activo se da de baja cuando se vende o cuando ya no se espera nada de él. El
 
 Si la vende a $27.100, la pérdida es $2.100; a $29.200, no hay resultado. El asiento da de baja a la vez el costo y la amortización acumulada, por eso un activo vendido antes de terminar de amortizarse deja un resultado que depende de cuánto se había amortizado hasta esa fecha.
 
-Si el valor recuperable de un activo cae por debajo de su valor en libros (por daño, obsolescencia o una caída del negocio), se registra una pérdida por deterioro. Eso lo regula otra norma, la NIC 36, que la investigación no cubrió. La NIC 16 también admite un modelo de revaluación que OpenStax no trata.
+Si un activo pierde valor, puede corresponder una pérdida por deterioro. Eso lo regula otra norma, la NIC 36, que la investigación no cubrió: cuándo se reconoce y contra qué valor no sale de ninguna fuente leída. La NIC 16 también admite un modelo de revaluación que OpenStax no trata.
 
 ## La amortización no aparta plata
 
 Quien no es contador suele creer que la amortización es plata que la empresa guarda para reponer la máquina. El asiento muestra lo contrario: Amortización del período contra Amortización acumulada, sin ninguna cuenta de caja o banco. Según OpenStax, la depreciación reparte el costo de tener el activo a lo largo de su vida útil, el valor en libros es la parte del costo que todavía no pasó a gasto, y ninguno de los dos sigue el valor de mercado.
 
-La plata salió el día de la compra. La amortización solo decide en qué años ese desembolso aparece como gasto en el estado de resultados. Por eso el [estado de flujo de efectivo](../Estados-contables/estado-de-flujo-de-efectivo.md), cuando parte del resultado (método indirecto), la suma de vuelta: bajó la ganancia sin mover la caja. Si una empresa quiere tener fondos para reponer un activo, tiene que apartarlos con una decisión financiera, que es del tema Tesorería, todavía no escrito.
+La plata salió cuando se pagó la compra. La amortización solo decide en qué años ese desembolso aparece como gasto en el estado de resultados. Por eso el [estado de flujo de efectivo](../Estados-contables/estado-de-flujo-de-efectivo.md), cuando parte del resultado (método indirecto), la suma de vuelta: bajó la ganancia sin mover la caja. Si una empresa quiere tener fondos para reponer un activo, tiene que apartarlos con una decisión financiera, que es del tema Tesorería, todavía no escrito.
 
 > [!NOTE] Sin fuente todavía: una fuente que nombre este malentendido como tal. La explicación sale del asiento y del concepto de OpenStax, y lo del flujo de efectivo, de un glosario de OpenStax leído por el buscador.
 
-Para quien construye un sistema, el activo fijo pide su propio registro (fecha de alta, costo, vida útil, residual, método) para calcular la amortización de cada período, y la baja tiene que cancelar el costo y la amortización acumulada en el mismo asiento.
+Para quien construye un sistema, el activo fijo pide (inferencia) su propio registro (fecha de alta, costo, vida útil, residual, método) para calcular la amortización de cada período, y la baja tiene que cancelar el costo y la amortización acumulada en el mismo asiento.

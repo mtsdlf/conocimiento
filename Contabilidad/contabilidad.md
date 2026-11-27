@@ -48,7 +48,7 @@ El límite con cada vecino sigue una regla: cada dominio es dueño de un objeto 
 - **Con las finanzas de una empresa que empieza.** La pista, el consumo mensual y el capital inicial siguen en [Finanzas de Emprender](../Emprender/Finanzas/finanzas.md); caja frente a resultado y el punto de equilibrio son de acá ([devengado](Registro/devengado.md), [punto de equilibrio](Contabilidad-de-gestion/punto-de-equilibrio.md)).
 - **Con los impuestos.** Acá se registra el IVA o la provisión de Ganancias; qué se paga y cómo se declara va al tema Impuestos, todavía no escrito.
 - **Con el cierre de período.** El cierre como recorrido entre áreas es un proceso de punta a punta (del registro al balance) del tema Procesos de negocio; acá quedan los [ajustes de cierre](Estados-contables/ajustes-de-cierre.md).
-- **Con el software.** La partida doble existe desde el siglo XV y se sostiene en papel. Cómo la modela una base de datos está en [registro de movimientos](../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y va a estar en el tema Software de gestión.
+- **Con el software.** La partida doble tiene siglos (Pacioli la imprimió en 1494 y los primeros libros que la usan son anteriores) y nació en papel. Cómo la modela una base de datos está en [registro de movimientos](../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y va a estar en el tema Software de gestión.
 
 ## Qué leer según lo que estés haciendo
 

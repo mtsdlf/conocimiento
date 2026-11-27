@@ -25,14 +25,14 @@ Usa el mismo [registro](../Registro/registro-contable.md) que la contabilidad fi
 
 ## En qué se separa de la contabilidad financiera
 
-Según OpenStax, la diferencia empieza por el usuario: la información financiera la usan sobre todo terceros (inversores, bancos, el fisco), y la de gestión se junta para usuarios internos y con un propósito concreto. De ahí salen las demás diferencias.
+Según OpenStax, la diferencia empieza por el usuario: la información financiera la usan sobre todo usuarios externos, y la de gestión se junta para usuarios internos y con un propósito concreto. De ahí salen las demás diferencias.
 
 | | Contabilidad financiera | Contabilidad de gestión |
 |---|---|---|
 | Para quién | usuarios externos | quienes dirigen la empresa |
 | Normas | las de su marco contable ([normas contables](../Estados-contables/normas-contables.md)) | ninguna obligatoria |
 | Mira hacia | lo que ya pasó | sobre todo lo que viene |
-| Detalle y plazo | resumido, por período cerrado | más detallado y más rápido |
+| Detalle y plazo | con estructura fija, menos detallado | más detallado y más rápido |
 | Verificación | auditoría independiente | sin auditoría externa |
 
 La tabla resume la sección 1.2 de OpenStax. La falta de normas tiene una explicación de fondo en Kaplan (1988). Un sistema de costos atiende tres funciones: valuar el inventario para los estados contables y los impuestos, dar a los responsables de producción el control operativo de los recursos consumidos y medir el costo de cada producto. Solo la primera está regulada, y Kaplan describe qué pasa cuando las tres comparten un sistema: «And when compromises have to be made, the demands of the financial reporting function (inventory valuation) invariably triumph.» Su conclusión es que «No single system can adequately cover all three functions».
@@ -41,13 +41,13 @@ La tabla resume la sección 1.2 de OpenStax. La falta de normas tiene una explic
 
 AICPA y CIMA, en sus *Global Management Accounting Principles*, la definen como una actividad sobre la información: «Management accounting is the sourcing, analysis, communication and use of decision-relevant financial and non-financial information to generate and preserve value for organisations.» Sus cuatro principios son que la comunicación aporte una visión que influya, que la información sea relevante, que se analice el impacto en el valor y que la administración responsable genere confianza.
 
-El IMA publicó la suya el 12 de diciembre de 2008, según Accounting Today, y define otra cosa: una profesión que participa en las decisiones de la dirección, diseña los sistemas de planificación y de gestión del desempeño y aporta saber de información financiera y control para formular y ejecutar la estrategia. Una mira la información y la decisión; la otra, a quien hace el trabajo y su lugar en la estrategia. Esta base usa la primera, porque es la que habla de información, que es lo que un registro puede guardar.
+El IMA publicó la suya el 12 de diciembre de 2008, según Accounting Today, y define otra cosa: una profesión que participa en las decisiones de la dirección, diseña los sistemas de planificación y de gestión del desempeño y aporta saber de información financiera y control para formular y ejecutar la estrategia. Una mira la información y la decisión; la otra, a quien hace el trabajo y su lugar en la estrategia. Esta base usa la primera, porque es la que habla de información (inferencia de la base: es lo que un registro puede guardar).
 
 ## Relevance Lost: cuando el costo para el balance tapó al costo para decidir
 
 En 1987, H. Thomas Johnson y Robert S. Kaplan publicaron *Relevance Lost: The Rise and Fall of Management Accounting*. Según una reseña (el libro no se leyó), sostiene que casi todo lo importante de la contabilidad de gestión estadounidense ya se conocía hacia 1925 y que, seis décadas después, había perdido relevancia. Un artículo de strategy+business lo resume en que la contabilidad de costos se había vuelto dañina para las empresas que la usaban y había hecho a los gerentes más dependientes de los números.
 
-Kaplan (1988) da el mecanismo con un ejemplo. Las normas financieras no exigen que el reparto de los costos indirectos siga la causa, así que muchas empresas los reparten por horas de mano de obra directa, «even though direct labor may account for less than 5% of total manufacturing costs». El costo de producto que sale de ahí sirve para el balance y engaña para decidir qué producto conviene.
+Kaplan (1988) da el mecanismo con un ejemplo. Las normas financieras no exigen que el reparto de los costos indirectos siga la causa, así que muchas empresas los reparten por horas de mano de obra directa, «even though direct labor may account for less than 5% of total manufacturing costs». El costo de producto que sale de ahí sirve para el balance y puede engañar para decidir qué producto conviene.
 
 De esa crítica salieron dos respuestas: el costeo basado en actividades, que se explica en [sistemas de costeo](sistemas-de-costeo.md) con su adopción real, y, según un resumen secundario, el Balanced Scorecard que Kaplan desarrolló después con Norton. La historia larga del tema está en [Fundamentos](../Fundamentos/fundamentos-de-contabilidad.md).
 

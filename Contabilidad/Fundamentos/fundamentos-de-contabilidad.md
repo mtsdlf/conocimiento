@@ -47,7 +47,7 @@ La *Summa de arithmetica* de Pacioli se publicó en 1494 en Venecia, impresa por
 > [!NOTE]
 > Sin fuente todavía: la *Summa* en primaria (ni el texto ni una traducción), la profesionalización de los contadores (los institutos de los siglos XIX y XX) y la historia de las normas (IASC, IASB, FACPCE).
 
-La [partida doble](../Registro/partida-doble.md) nació para libros en papel, y un sistema que la implementa hereda reglas pensadas para un libro, como la de [corregir con un asiento nuevo](../Registro/asiento-y-libros.md) en lugar de borrar.
+La [partida doble](../Registro/partida-doble.md) nació para libros en papel, y un sistema que la implementa hereda reglas pensadas para un libro, como la de [corregir con un asiento nuevo](../Registro/asiento-y-libros.md) en lugar de borrar (inferencia de la base).
 
 ## Las posiciones que discuten el modelo
 
@@ -57,7 +57,7 @@ Tres líneas discuten la partida doble tal como la enseñan los libros de texto.
 
 William McCarthy publicó en 1982, en The Accounting Review (vol. 57, n.º 3, pp. 554-578), el modelo REA: recursos económicos, eventos económicos y agentes económicos, con sus relaciones. Según su abstract, que se conoce por resúmenes, el marco apunta a un entorno de datos compartidos donde contadores y no contadores mantienen información sobre los mismos hechos.
 
-REA es el modelo que propondría quien diseña una base de datos: la venta, la entrega y el cobro como eventos, y el asiento como algo que se deriva de ellos. Según un taller de Vandenbossche y Wortmann, los sistemas de gestión siguieron guardando asientos de partida doble como modelo central y los modelos de la investigación no se adoptaron. Esa evidencia son talleres y casos de los años 2000, leídos por resúmenes: que REA se use poco es una inferencia. Cómo modela los movimientos un sistema está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y va a estar en el tema Software de gestión, todavía no escrito.
+REA es, en lectura de la base, el modelo que propondría quien diseña una base de datos: la venta, la entrega y el cobro como eventos, y el asiento como algo que se deriva de ellos. Según un taller de Vandenbossche y Wortmann, los sistemas de gestión siguieron guardando asientos de partida doble como modelo central y los modelos de la investigación no se adoptaron. Esa evidencia son talleres y casos de los años 2000, leídos por resúmenes: que REA se use poco es una inferencia. Cómo modela los movimientos un sistema está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y va a estar en el tema Software de gestión, todavía no escrito.
 
 ### Dos cosas distintas llamadas triple entrada
 
@@ -65,14 +65,14 @@ Con el mismo nombre circulan dos propuestas sin relación técnica:
 
 | Propuesta | Qué agrega | Fuente |
 |---|---|---|
-| Ijiri (monografía de 1982, artículo de 1986 en The Accounting Review 61(4): 745-759) | Una tercera entrada de «momentum», la tasa a la que cambia el resultado, que extiende la partida doble | Ficha y comentarios; no se leyó el artículo |
+| Ijiri (monografía de 1982, artículo de 1986 en The Accounting Review 61(4): 745-759) | Una tercera entrada de «momentum», la variación del resultado, que extiende la partida doble | Ficha y comentarios; no se leyó el artículo |
 | Grigg (2005) | Un recibo firmado digitalmente y compartido entre las partes, que se suma a los asientos de cada una | Borrador de Grigg, leído por un lector automático |
 
-Grigg sostiene que el recibo firmado prueba más que los asientos de cada parte, y dice que operó el sistema a pequeña escala. Según el abstract de Ibañez y otros, REA influyó en la investigación sobre triple entrada que después llegó al blockchain. La idea de Grigg toca a las [conciliaciones](../Control-interno/conciliaciones.md): si las partes compartieran un registro firmado, habría menos que conciliar.
+Grigg sostiene que el recibo firmado prueba más que los asientos de cada parte, y dice que operó el sistema a pequeña escala. Según el abstract de Ibañez y otros, REA influyó en la investigación sobre triple entrada que después llegó al blockchain. La idea de Grigg toca a las [conciliaciones](../Control-interno/conciliaciones.md): si las partes compartieran un registro firmado, habría menos que conciliar (inferencia de la base; hoy es una propuesta, no una práctica).
 
 ### La pérdida de relevancia y sus réplicas
 
-Baruch Lev y Feng Gu publicaron en 2016 *The End of Accounting*. Según la ficha del editor, sostienen que los informes financieros perdieron utilidad para las decisiones de los inversores y proponen un informe de creación de valor. Sus réplicas discrepan: el CFA Institute considera prematuras esas inferencias, y un estudio asociado a Stanford encuentra que la relevancia de la información contable para explicar el valor de mercado aumentó entre 1962 y 2014 y que la medida habitual, el R cuadrado de una regresión, la mide con sesgo. Las dos posiciones se conocen solo por resúmenes.
+Baruch Lev y Feng Gu publicaron en 2016 *The End of Accounting*. Según la ficha del editor, sostienen que los informes financieros perdieron utilidad para las decisiones de los inversores y proponen un informe de creación de valor. Sus réplicas discrepan: el CFA Institute considera esas inferencias quizá prematuras, y un estudio asociado a Stanford encuentra que la relevancia de la información contable para explicar el valor de mercado aumentó entre 1962 y 2014 y que la medida habitual, el R cuadrado de una regresión, la mide con sesgo. Las dos posiciones se conocen solo por resúmenes.
 
 ## Seis cosas que cree quien no es contador
 
@@ -80,7 +80,7 @@ Las dos primeras aparecen nombradas como confusión en material docente; las otr
 
 ### Débito es bueno y crédito es malo
 
-Débito quiere decir el lado izquierdo de la cuenta y nada más: AccountingCoach pide no asociarlo con bueno ni malo, y BlackLine nombra como error común igualar débito con disminución. Un débito aumenta un activo o un gasto y disminuye un pasivo o un ingreso; lo explica [partida doble](../Registro/partida-doble.md). Para un sistema, mostrar «débito» y «crédito» sin traducirlos al efecto sobre la cuenta reproduce la confusión (inferencia).
+Débito quiere decir el lado izquierdo de la cuenta y nada más: AccountingCoach pide no asociarlo con bueno ni malo, y el glosario de un proveedor de software de cierre contable nombra como error común igualar débito con disminución. Un débito aumenta un activo o un gasto y disminuye un pasivo o un ingreso; lo explica [partida doble](../Registro/partida-doble.md). Para un sistema, mostrar «débito» y «crédito» sin traducirlos al efecto sobre la cuenta reproduce la confusión (inferencia).
 
 ### La ganancia es la plata que entró
 
@@ -106,11 +106,11 @@ Que de ahí se siga que no se aparta plata es inferencia: ninguna fuente leída 
 
 ### El balance dice cuánto vale la empresa
 
-El valor en libros de un activo es el costo que todavía no pasó a gasto, según OpenStax, y lo que no cumple las reglas de reconocimiento (buena parte del código, la marca o los clientes de una empresa de software) no figura. La lectura del mito es inferencia: no se encontró fuente que lo nombre, y el dato que suele citarse sobre el peso de los intangibles viene de una consultora y mide un residuo. Lo explica [balance](../Estados-contables/balance.md).
+El valor en libros de un activo es el costo que todavía no pasó a gasto, según OpenStax, y lo que no cumple las reglas de reconocimiento (buena parte del código, la marca o los clientes de una empresa de software, según la lectura de la base) no figura. La lectura del mito es inferencia: no se encontró fuente que lo nombre, y el dato que suele citarse sobre el peso de los intangibles viene de una consultora y mide un residuo. Lo explica [balance](../Estados-contables/balance.md).
 
 ### El control interno evita el fraude
 
-COSO define el control interno como un proceso que da seguridad razonable, «not absolute assurance», y cuenta entre sus límites la anulación por parte de la dirección y la colusión. En la muestra de ACFE 2024, la falta de controles fue la debilidad más citada (32% de los casos) y la anulación de controles existentes la segunda (19%). Lo explica [control interno](../Control-interno/control-interno.md).
+COSO define el control interno como un proceso que da seguridad razonable pero no absoluta («reasonable but not absolute assurance»), y cuenta entre sus límites la anulación por parte de la dirección y la colusión. En la muestra de ACFE 2024, la falta de controles fue la debilidad más citada (32% de los casos) y la anulación de controles existentes la segunda (19%). Que se lea como un mito es inferencia, porque ninguna fuente lo nombra así; lo explica [control interno](../Control-interno/control-interno.md).
 
 ### La conciliación bancaria sirve para encontrar los errores del banco
 

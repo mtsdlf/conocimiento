@@ -24,13 +24,13 @@ Son el puente entre el [registro](../Registro/registro-contable.md) del día a d
 
 ## La regla que valida un ajuste
 
-Según OpenStax, todo asiento de ajuste toca al menos una cuenta de resultado y una del balance, y nunca toca la caja. La razón es que la caja, cuando se mueve, deja un documento y se registró en su momento. Lo que falta al cierre es repartir entre períodos lo que ya se registró, o registrar lo que pasó sin documento.
+Según OpenStax, todo asiento de ajuste toca al menos una cuenta de resultado y una del balance, y nunca toca la caja. La razón, según una explicación propia que el libro no da, es que la caja, cuando se mueve, deja un documento y se registró en su momento. Lo que falta al cierre es repartir entre períodos lo que ya se registró, o registrar lo que pasó sin documento.
 
 Para quien construye un sistema, esa regla es validable: un asiento marcado como ajuste que toca la caja, o que no toca ninguna cuenta de resultado, está mal clasificado. Es una inferencia a partir de la regla del libro; cómo se modela el asiento está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md).
 
 ## Los cinco ajustes de Printing Plus, enero de 2019
 
-OpenStax sigue a Printing Plus, una imprenta ficticia, y al 31 de enero registra estos ajustes (cifras en dólares):
+OpenStax sigue a Printing Plus, una empresa de ejemplo, y al 31 de enero registra estos ajustes (cifras en dólares):
 
 | Ajuste | Cuenta | Debe | Haber |
 |---|---|---|---|

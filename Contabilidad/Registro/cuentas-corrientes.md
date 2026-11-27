@@ -23,7 +23,7 @@ Resuelven un choque entre dos necesidades. El [plan de cuentas](plan-de-cuentas.
 
 Según OpenStax, el libro auxiliar registra el saldo de cada cliente, en el caso de las cuentas a cobrar, y de cada proveedor, en el de las cuentas a pagar. La cuenta del mayor (Deudores por ventas, Proveedores) funciona como cuenta de control: su saldo tiene que coincidir con la suma de los saldos del auxiliar, y si no coincide hay un error que buscar.
 
-Las ventas a crédito se pasan al auxiliar cliente por cliente y al mayor en total, según el resumen del capítulo 7 de OpenStax. En los libros de texto eso pasa por diarios especiales (uno de ventas, uno de compras, uno de cobros, uno de pagos), que agrupan los asientos repetidos y los pasan al mayor juntos.
+Las ventas a crédito se pasan al auxiliar cliente por cliente y al mayor en total, según el resumen del capítulo 7 de OpenStax. En los libros de texto eso pasa por diarios especiales, de los que solo se leyó el título y el resumen del capítulo 7.
 
 Una cuenta corriente de cliente muestra, para cada comprobante, la fecha, el tipo (factura, nota de crédito, recibo), el importe al debe o al haber y el saldo que va quedando. Es el mismo formato del mayor aplicado a una persona en lugar de a una cuenta (inferencia de la base).
 
@@ -70,9 +70,9 @@ Con esa estimación, el asiento de la previsión es:
 | Deudores incobrables (gasto) | 58.097 | |
 | Previsión para deudores incobrables | | 58.097 |
 
-La previsión es una contracuenta que resta de Deudores por ventas sin tocar el auxiliar: no se sabe todavía qué cliente no va a pagar. Cómo sigue el ciclo (dar de baja un crédito, recuperar uno dado de baja) está en [ingresos y cuentas a cobrar](../Operaciones/ingresos-y-cuentas-a-cobrar.md).
+La previsión es una contracuenta que resta de Deudores por ventas sin tocar el auxiliar: no se sabe todavía qué cliente no va a pagar (explicación de la base). Cómo sigue el ciclo (dar de baja un crédito, recuperar uno dado de baja) está en [ingresos y cuentas a cobrar](../Operaciones/ingresos-y-cuentas-a-cobrar.md).
 
-El mismo informe sirve para cobrar: dice a quién llamar primero. OpenStax lo trata solo como estimación de incobrables, y ninguna fuente leída lo trata como herramienta de cobranzas; ese uso es práctica habitual (inferencia de la base). La gestión del cobro en sí va al tema Tesorería y finanzas de la empresa en marcha, todavía no escrito. Con proveedores se arma el mismo cuadro al revés, para ver qué vence y cuándo.
+El mismo informe sirve para cobrar: dice a quién llamar primero. OpenStax lo trata solo como estimación de incobrables, y ninguna fuente leída lo trata como herramienta de cobranzas; ese uso es práctica habitual (inferencia de la base). La gestión del cobro en sí va al tema Tesorería y finanzas de la empresa en marcha, todavía no escrito. Con proveedores se arma el mismo cuadro al revés, para ver qué vence y cuándo (inferencia de la base).
 
 ## Lo que un registro tiene que poder hacer
 

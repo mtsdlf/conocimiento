@@ -52,11 +52,11 @@ Se consulta en texto ordenado: la FACPCE, en agosto de 2026, lo cita como «T.O.
 
 ### La dispensa de la Res. JG 660/26
 
-La RT 54 trae, según la FACPCE, «nuevas denominaciones y criterios de agregación o desagregación de partidas». Para el primer año, la Resolución JG 660/26, del 27 de marzo de 2026, otorga «con carácter excepcional y transitorio, una dispensa limitada en materia de presentación (exposición)» de lo que va en el cuerpo de los estados básicos, «sin que ello implique una dispensa respecto del cumplimiento de los restantes requerimientos». Según su artículo 3°, vale solo para los estados de «ejercicios iniciados a partir del 1 de enero de 2025, que constituyan los primeros preparados de acuerdo con la Resolución Técnica N° 54». La medición sigue la RT 54.
+La RT 54 trae, según la FACPCE, «nuevas denominaciones y criterios de agregación o desagregación de partidas». Para el primer año, la Resolución JG 660/26, del 27 de marzo de 2026, otorga «con carácter excepcional y transitorio, una dispensa limitada en materia de presentación (exposición)» de lo que va en el cuerpo de los estados básicos, «sin que ello implique una dispensa respecto del cumplimiento de los restantes requerimientos». Según su artículo 3°, vale solo para los estados de «ejercicios iniciados a partir del 1 de enero de 2025, que constituyan los primeros preparados de acuerdo con la Resolución Técnica N° 54». La dispensa es solo de presentación.
 
 ### Entidad pequeña, mediana y las demás
 
-La RT 54 trata distinto a las entidades pequeñas, a las medianas y a las demás, según su actividad, sus ingresos y quién las controla. La Res. JG 608/22, de diciembre de 2022, fijó los umbrales de ingresos del ejercicio anterior en pesos de octubre de 2022, y la FACPCE los actualiza con su índice:
+La RT 54 trata distinto a las entidades pequeñas, a las medianas y a las demás, según su actividad, sus ingresos y quién las controla (según el resumen de un consejo profesional). La Res. JG 608/22, de diciembre de 2022, fijó los umbrales de ingresos del ejercicio anterior en pesos de octubre de 2022, y la FACPCE los actualiza con su índice:
 
 | Ingresos del ejercicio anterior | Pequeña hasta | Mediana hasta |
 |---|---|---|
@@ -81,7 +81,7 @@ Con una cifra supuesta: una empresa con cierre el 31 de diciembre de 2025 que fa
 
 ## Las que cotizan aplican las NIIF
 
-La Comisión Nacional de Valores (CNV) exige las NIIF a las empresas que cotizan. Lo hizo con la Resolución General 562, del 29 de diciembre de 2009. Su artículo 2° dispone que «para los ejercicios que se inicien a partir del 1º de enero de 2012, las entidades emisoras de acciones y/u obligaciones negociables presentarán sus estados financieros aplicando la Resolución Técnica Nº 26», la RT de la FACPCE que adopta las NIIF del IASB, y acepta la aplicación anticipada desde los ejercicios iniciados el 1º de enero de 2011. La RT 26 se aprobó en marzo de 2009, según los considerandos de la misma resolución.
+La Comisión Nacional de Valores (CNV) exige las NIIF a las empresas que cotizan (en el texto, las entidades emisoras de acciones u obligaciones negociables). Lo hizo con la Resolución General 562, del 29 de diciembre de 2009. Su artículo 2° dispone que «para los ejercicios que se inicien a partir del 1º de enero de 2012, las entidades emisoras de acciones y/u obligaciones negociables presentarán sus estados financieros aplicando la Resolución Técnica Nº 26», la RT de la FACPCE que adopta las NIIF del IASB, y acepta la aplicación anticipada desde los ejercicios iniciados el 1º de enero de 2011. La RT 26 se aprobó en marzo de 2009, según los considerandos de la misma resolución.
 
 > [!NOTE]
 > Sin fuente todavía: las Normas de la CNV vigentes en 2026 (Título IV) y sus modificaciones posteriores a 2009.
@@ -90,11 +90,11 @@ La Comisión Nacional de Valores (CNV) exige las NIIF a las empresas que cotizan
 
 Desde 2018 los estados contables se reexpresan por inflación. La FACPCE aprobó la Resolución JG 539/18 el 29 de septiembre de 2018, según un consejo profesional (el texto de la FACPCE no se pudo abrir). Se aplica a los estados anuales o intermedios cerrados desde el 1 de julio de 2018 inclusive; los cerrados hasta el 30 de junio de 2018 no se reexpresan.
 
-El criterio es el de la NIC 29, que considera hiperinflacionaria una economía con una inflación acumulada en tres años de alrededor del 100% o más (ver [normas contables](normas-contables.md)). La FACPCE concluyó que Argentina había superado ese umbral, según un consejo profesional. Deloitte, en su traducción, concluye que «la economía argentina debe ser considerada híper-inflacionaria» y que la NIC 29 se aplica a los períodos que terminan después del 1 de julio de 2018. Son dos fuentes independientes que coinciden en el criterio y en la fecha.
+El criterio es el de la NIC 29, que considera hiperinflacionaria una economía con una inflación acumulada en tres años de alrededor del 100% o más (ver [normas contables](normas-contables.md)). La FACPCE concluyó que Argentina había superado ese umbral, según un consejo profesional. Deloitte, en su traducción, concluye que «la economía argentina debe ser considerada híper-inflacionaria» y que la NIC 29 se aplica a los períodos que terminan después del 1 de julio de 2018. Son dos fuentes independientes que coinciden en el criterio y en la fecha de partida: el consejo habla de estados cerrados desde el 1 de julio de 2018 inclusive, y Deloitte, de períodos que terminan después del 1 de julio de 2018.
 
 El Decreto 664/03 prohibía a los organismos de control recibir estados ajustados. Según el resumen de un consejo profesional, la Ley 27.468, promulgada el 3 de diciembre de 2018, lo derogó y habilitó el ajuste; la fecha no se verificó en el texto oficial.
 
-Los índices los publica la FACPCE. La Res. 539/18 empalmó una serie que usaba el índice de precios internos al por mayor (IPIM) con el IPC Nacional del INDEC desde enero de 2017. La tabla de montos de la FACPCE de agosto de 2026 usa un índice con base en octubre de 2022, que en esa tabla llega a 1.028,706.
+Los índices los publica la FACPCE. Según el resumen de un consejo profesional, la Res. 539/18 pasó de una serie que usaba el índice de precios internos al por mayor (IPIM) a una empalmada con el IPC Nacional del INDEC desde enero de 2017. La tabla de montos de la FACPCE de agosto de 2026 usa un índice con base en octubre de 2022, que en esa tabla llega a 1.028,706.
 
 > [!NOTE]
 > Sin fuente todavía:

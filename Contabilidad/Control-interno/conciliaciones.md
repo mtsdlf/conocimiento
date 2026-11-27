@@ -20,7 +20,7 @@ revisado:
 
 Una conciliación compara dos registros independientes del mismo saldo (los libros y el extracto del banco, el auxiliar de clientes y su cuenta de control) y explica cada diferencia, para corregir lo que está mal y detectar lo que no debería haber pasado.
 
-Es una actividad de control detectiva del componente 3 de COSO, que la nombra entre las típicas ("reconciliations"); el marco está en [control interno](control-interno.md). Funciona porque los dos registros los lleva gente distinta: el banco no sabe lo que anotó la empresa, y el auxiliar se arma documento por documento mientras la cuenta de control recibe totales. Por eso una conciliación hecha por quien custodia la plata pierde casi todo su valor ([separación de funciones](separacion-de-funciones.md)).
+Es una actividad de control del componente 3 de COSO, que la nombra entre las típicas ("reconciliations"); el marco está en [control interno](control-interno.md). Que sea detectiva y que funcione porque los dos registros los lleva gente distinta es lectura de la base, sin fuente que lo diga: funciona porque los dos registros los lleva gente distinta: el banco no sabe lo que anotó la empresa, y el auxiliar se arma documento por documento mientras la cuenta de control recibe totales. Por eso una conciliación hecha por quien custodia la plata pierde casi todo su valor ([separación de funciones](separacion-de-funciones.md)).
 
 ## Para qué sirve la conciliación bancaria
 

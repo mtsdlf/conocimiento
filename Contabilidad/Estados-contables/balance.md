@@ -29,7 +29,7 @@ Es la [partida doble](../Registro/partida-doble.md) puesta en un solo cuadro: ac
 
 ## Las tres partes y cómo se ordenan
 
-OpenStax presenta el balance clasificado con estos grupos, en este orden:
+OpenStax presenta el balance clasificado con estos grupos, en este orden (según extractos del buscador; la columna «Qué junta» es explicación propia):
 
 | Lado | Grupo | Qué junta |
 |---|---|---|
@@ -41,7 +41,7 @@ OpenStax presenta el balance clasificado con estos grupos, en este orden:
 | Pasivo | Pasivo a largo plazo | lo demás |
 | Patrimonio neto | Capital y resultados acumulados | lo aportado por los dueños y lo ganado y no distribuido |
 
-El capital de trabajo es el activo corriente menos el pasivo corriente. Mide con qué cuenta la empresa para pagar lo que vence pronto.
+Según el índice de OpenStax (visto por el buscador), el capital de trabajo es el activo corriente menos el pasivo corriente. Mide con qué cuenta la empresa para pagar lo que vence pronto.
 
 ## El balance de Clip'em Cliff al 31 de agosto de 2019
 
@@ -58,7 +58,7 @@ El patrimonio de $69.875 incluye los resultados acumulados de −$125 que vienen
 
 ## Qué decide si algo es corriente
 
-Un pasivo es no corriente si la empresa tiene, al cierre, el derecho de postergar su cancelación al menos doce meses después de la fecha del balance. Así resumen KPMG y BDO las reformas de la NIC 1 de 2020, que rigen para los ejercicios que empiezan el 1 de enero de 2024 o después. Dos consecuencias:
+Un pasivo es no corriente si la empresa tiene, al cierre, el derecho de postergar su cancelación al menos doce meses después de la fecha del balance. Así resumen KPMG y BDO las reformas de la NIC 1 de 2020; según KPMG, rigen para los ejercicios que empiezan el 1 de enero de 2024 o después. Dos consecuencias:
 
 - La intención de la gerencia no cambia la clasificación. Si la empresa tiene el derecho de postergar pero piensa pagar en seis meses, la deuda sigue siendo no corriente.
 - De los convenios de un préstamo (covenants), solo afectan la clasificación los que hay que cumplir en la fecha de cierre o antes. Los que vencen después se revelan en las notas. La NIC 1 incorporó esto con la enmienda de octubre de 2022.
@@ -72,18 +72,18 @@ Para quien construye un sistema, la clasificación corriente o no corriente depe
 
 ## Lo que el balance no dice
 
-El balance no dice cuánto vale la empresa. Mide cada partida con una regla de reconocimiento, que en muchos casos es el costo. Según OpenStax, el valor en libros de un bien de uso es la parte de su costo que todavía no pasó a gasto por amortización, y la amortización no sigue el valor de mercado del bien. Un edificio comprado hace veinte años figura por lo que queda de su costo, no por lo que se pagaría hoy por él.
+El balance no dice cuánto vale la empresa. Mide cada partida con una regla de reconocimiento, que en muchos casos es el costo. Según OpenStax, el valor en libros de un bien de uso es la parte de su costo que todavía no pasó a gasto por amortización, y la amortización no sigue el valor de mercado del bien. Un edificio comprado hace veinte años figura, si se mide al costo, por lo que queda de su costo, no por lo que se pagaría hoy por él.
 
-Ninguna fuente encontrada nombra el mito con esas palabras; se sostiene en lo que explican OpenStax sobre el valor en libros y Penman sobre su uso. Según un comentario del CFA Institute sobre *Accounting for Value*, Penman trata el valor en libros como el ancla de un modelo de valuación (el de resultado residual), que se completa con las ganancias futuras, y no como una tasación.
+Ninguna fuente encontrada nombra el mito con esas palabras; se sostiene en lo que explican OpenStax sobre el valor en libros y Penman sobre su uso. Según un comentario del CFA Institute sobre *Accounting for Value*, Penman trata el valor en libros como el ancla de un modelo de valuación (el de resultado residual) y no como una tasación.
 
-La diferencia más grande está en los intangibles. Ocean Tomo calcula el valor intangible de las empresas del S&P 500 como la capitalización de mercado menos el activo tangible neto. Con ese cálculo, el intangible sería el 17% del valor en 1975, el 68% en 1995, el 84% en 2015 y alrededor del 90% entre 2020 y 2025. Hay dos cuidados con esa cifra. Es un residuo (todo lo que no es activo tangible neto) y no una medición de intangibles. Y la publica una consultora que vende servicios de propiedad intelectual.
+La diferencia más grande está en los intangibles. Según resúmenes leídos por el buscador (no se leyó el estudio), Ocean Tomo calcula el valor intangible de las empresas del S&P 500 como la capitalización de mercado menos el activo tangible neto. Con ese cálculo, el intangible sería el 17% del valor en 1975, el 68% en 1995, el 84% en 2015 y alrededor del 90% entre 2020 y 2025. Hay dos cuidados con esa cifra. Es un residuo (todo lo que no es activo tangible neto) y no una medición de intangibles. Y la publica una consultora que vende servicios de propiedad intelectual.
 
 En una empresa de software, buena parte de ese residuo serían el código, la marca, la cartera de clientes y los datos propios, que en general no figuran en el balance (es la lectura del informe de investigación, no una cifra de fuente). Para quien vende o implementa un sistema: el balance de un cliente no es una tasación de su negocio.
 
 > [!IMPORTANT]
 > **Disputado: si los estados contables perdieron relevancia para valuar empresas.**
 > - **Lev y Gu** (*The End of Accounting*, 2016) sostienen, según la ficha del editor, que los informes financieros se volvieron inútiles para las decisiones en el mercado de capitales, y proponen reemplazarlos por un informe de creación de valor (*Value Creation Report*). Según la reseña de Fortune, el libro estima que el poder explicativo de las ganancias sobre el valor de mercado pasó de un R cuadrado de 80% a 90% en los años cincuenta a uno de 45% a 55% en la década de 2010. La tabla original no se leyó.
-> - **Las réplicas** dicen que la conclusión es apresurada. El CFA Institute, según su resumen, considera prematuras esas inferencias y cita trabajos según los cuales la relación entre ganancias y rendimientos se midió mal; un estudio asociado a Stanford halla que la relevancia de la información contable para el valor aumentó entre 1962 y 2014, y discute el R cuadrado de mínimos cuadrados ordinarios como medida de esa relevancia.
+> - **Las réplicas** dicen que la conclusión es quizá apresurada. El CFA Institute, según su resumen, considera quizá prematuras esas inferencias y cita trabajos según los cuales la relación entre ganancias y rendimientos se midió mal; un estudio asociado a Stanford halla que la relevancia de la información contable para el valor aumentó entre 1962 y 2014, y discute el R cuadrado de mínimos cuadrados ordinarios como medida de esa relevancia.
 >
 > No hay consenso.
 

@@ -35,7 +35,7 @@ La NIC 1 lo vuelve obligatorio para los estados contables, con una excepción: �
 
 ## La caja no desaparece
 
-El mismo Marco Conceptual (1.20) dice que la información sobre flujos de caja también sirve: para evaluar la capacidad de la empresa de generar flujos netos, su liquidez y su solvencia. El resultado devengado mide el desempeño; la caja mide si la empresa puede pagar lo que vence. Por eso la excepción de la NIC 1: el estado de flujo de efectivo se arma sobre base caja y los demás sobre devengado.
+El mismo Marco Conceptual (1.20) dice que la información sobre flujos de caja también sirve: para evaluar la capacidad de la empresa de generar flujos netos, su liquidez y su solvencia. El resultado devengado mide el desempeño; la caja mide si la empresa puede pagar lo que vence. La excepción de la NIC 1 sigue esa lógica (lectura de la base): el estado de flujo de efectivo se arma sobre base caja y los demás sobre devengado.
 
 ## Un ingreso sin plata y una plata sin ingreso
 
@@ -89,7 +89,7 @@ La respuesta corta para quien pregunta «si gané, ¿dónde está la plata?» es
 
 ## A quién le toca cada pregunta
 
-Para una empresa que empieza, la pregunta que decide si sigue viva es la de caja: cuántos meses le dura la plata. Esa pregunta, con la pista y el consumo mensual, vive en [Finanzas de Emprender](../../Emprender/Finanzas/finanzas.md), que usa la distinción entre caja y resultado y la tiene explicada acá. Cobrar, pagar y cuidar la posición de caja de una empresa en marcha va al tema Tesorería y finanzas de la empresa en marcha, todavía no escrito.
+Para una empresa que empieza, la pregunta que decide si sigue viva es la de caja: cuántos meses le dura la plata (criterio de la base, no de las fuentes de esta nota). Esa pregunta, con la pista y el consumo mensual, vive en [Finanzas de Emprender](../../Emprender/Finanzas/finanzas.md), que usa la distinción entre caja y resultado y la tiene explicada acá. Cobrar, pagar y cuidar la posición de caja de una empresa en marcha va al tema Tesorería y finanzas de la empresa en marcha, todavía no escrito.
 
 Para quien construye un sistema, el devengado pide registrar la factura y el cobro como dos hechos con fechas propias, y poder emitir los dos informes desde el mismo registro (inferencia de la base). Cómo se registra una venta a plazo de punta a punta está en [ingresos y cuentas a cobrar](../Operaciones/ingresos-y-cuentas-a-cobrar.md).
 

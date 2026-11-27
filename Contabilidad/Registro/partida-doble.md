@@ -27,7 +27,7 @@ Cómo se arma el asiento y en qué libros se anota es de [asiento y libros](asie
 
 Todo lo que la empresa controla (el activo) está financiado por terceros (el pasivo) o por sus dueños (el patrimonio neto): activo = pasivo + patrimonio neto. El Marco Conceptual del IASB define las tres piezas. Un activo es «a present economic resource controlled by the entity as a result of past events» (4.3); un pasivo, «a present obligation of the entity to transfer an economic resource as a result of past events» (4.26); el patrimonio, «the residual interest in the assets of the entity after deducting all its liabilities» (4.63).
 
-Como el patrimonio es lo que sobra, un hecho no puede mover un solo lado de la ecuación sin mover otro. Comprar un equipo a crédito sube un activo y un pasivo. Cobrar en efectivo una factura sube la caja y baja lo que el cliente debe. Por eso cada hecho se anota en dos cuentas: una dice de dónde vino el valor y la otra a dónde fue.
+Como el patrimonio es lo que sobra, un hecho no puede mover un solo lado de la ecuación sin mover otro. Comprar un equipo a crédito sube un activo y un pasivo. Cobrar en efectivo una factura sube la caja y baja lo que el cliente debe. Por eso cada hecho se anota en dos cuentas: una dice de dónde vino el valor y la otra a dónde fue (razonamiento de la base a partir de la ecuación).
 
 ## Ingresos y gastos son movimientos del patrimonio
 
@@ -48,7 +48,7 @@ Débito (debe) es el lado izquierdo de una cuenta y crédito (haber), el derecho
 | Ingreso | crédito | débito | acreedor |
 | Gasto | débito | crédito | deudor |
 
-La tabla sale de la ecuación. Los activos están a la izquierda del signo igual y aumentan por la izquierda; pasivo y patrimonio están a la derecha y aumentan por la derecha. Los gastos y los dividendos bajan el patrimonio, así que se comportan al revés que él.
+La tabla sale de la ecuación. Los activos están a la izquierda del signo igual y aumentan por la izquierda; pasivo y patrimonio están a la derecha y aumentan por la derecha. Los gastos y los dividendos bajan el patrimonio, así que se comportan al revés que él (esta explicación es de la base; las fuentes dan la tabla).
 
 Una contracuenta tiene, según OpenStax, el saldo normal opuesto al de la categoría a la que pertenece. El caso típico es la amortización acumulada: vive entre los activos con saldo acreedor y resta del valor del bien (ver [activos fijos y amortización](../Operaciones/activos-fijos-y-amortizacion.md)).
 
@@ -88,7 +88,7 @@ El cobro del 9 de enero sube la caja y crea un pasivo, porque el trabajo todaví
 
 ## El mito del débito bueno y el crédito malo
 
-Quien llega del banco o del lenguaje diario suele creer que un débito es algo malo o una baja, y un crédito algo bueno o un alta. AccountingCoach lo corta en su explicación: débito quiere decir lado izquierdo, y no hay que pensarlo como bueno ni malo. El glosario de BlackLine nombra la confusión de igualar débito con disminución y crédito con aumento: el efecto depende del tipo de cuenta, y un débito a una cuenta de gasto la aumenta.
+Quien llega del banco o del lenguaje diario suele creer que un débito es algo malo o una baja, y un crédito algo bueno o un alta. AccountingCoach lo corta en su explicación: débito quiere decir lado izquierdo, y no hay que pensarlo como bueno ni malo. El glosario de un proveedor de software de cierre contable (BlackLine, en las fuentes) nombra la confusión de igualar débito con disminución y crédito con aumento: el efecto depende del tipo de cuenta, y un débito a una cuenta de gasto la aumenta.
 
 La confusión tiene un origen probable en el extracto bancario. Para el banco, el depósito del cliente es una deuda suya, y lo acredita; el cliente ve un «crédito» en su cuenta y lo asocia con algo bueno (hipótesis del informe, sin verificar en una fuente).
 

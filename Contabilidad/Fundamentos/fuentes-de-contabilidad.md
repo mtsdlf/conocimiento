@@ -28,7 +28,7 @@ revisado:
 
 El saber contable se produce en cuatro lugares de distinto peso: los emisores de normas, los libros de texto, las asociaciones profesionales y las revistas académicas; para cada vertical del tema hay un recurso que conviene leer primero.
 
-Para la contabilidad financiera, la fuente primaria es la norma: lo que dice una NIIF es lo que la empresa tiene que hacer donde esa norma rige. La [contabilidad de gestión](../Contabilidad-de-gestion/contabilidad-de-gestion.md) no tiene norma obligatoria, y ahí pesan más las asociaciones profesionales y la investigación. El [control interno](../Control-interno/control-interno.md) tiene un marco, COSO, que funciona como norma de hecho sin serlo.
+Para la contabilidad financiera, la fuente primaria es la norma: lo que dice una NIIF es lo que la empresa tiene que hacer donde esa norma rige. La [contabilidad de gestión](../Contabilidad-de-gestion/contabilidad-de-gestion.md) no tiene norma obligatoria, y ahí pesan más las asociaciones profesionales y la investigación. El [control interno](../Control-interno/control-interno.md) tiene un marco, COSO, que la base lee como norma de hecho sin serlo.
 
 ## Quién produce el saber contable y cuánto pesa
 
@@ -36,7 +36,7 @@ Ninguna fuente leída asigna pesos por tipo de fuente; la columna «Peso» es cr
 
 | Quién | Ejemplos | Sirve para | Peso |
 |---|---|---|---|
-| Emisores de normas | IFRS Foundation (NIIF, NIIF para las PYMES, Marco Conceptual); los organismos de cada país, como la FACPCE en Argentina | Qué se reconoce, cómo se mide y cómo se presenta | Primaria y obligatoria donde rige. El texto completo de las NIIF es de pago; ifrs.org publica resúmenes y ediciones HTML |
+| Emisores de normas | IFRS Foundation (NIIF, NIIF para las PYMES, Marco Conceptual); los organismos de cada país, como la FACPCE en Argentina | Qué se reconoce, cómo se mide y cómo se presenta | Primaria y obligatoria donde rige. El texto completo de las NIIF es de pago; ifrs.org publica una página resumen de cada norma |
 | Leyes | El código civil y comercial o la ley de sociedades de cada país | Qué libros se llevan, cuánto tiempo se guardan, cómo se corrige | Primaria y obligatoria; las de Argentina, en [libros contables en Argentina](../Registro/libros-contables-en-argentina.md) |
 | Libros de texto abiertos | OpenStax, *Principles of Financial Accounting* y *Principles of Accounting, Volume 2: Managerial Accounting*; el curso de contabilidad de gestión de Lumen Learning (SUNY) | Aprender el mecanismo con una empresa de ejemplo y asientos con cifras | Secundaria. Explican la práctica de Estados Unidos (GAAP); lo que difiere con las NIIF se verifica en la norma |
 | Asociaciones de control y auditoría | COSO (control interno), IIA (auditoría interna, modelo de las tres líneas), ACFE (fraude), IAASB (normas de auditoría, como la ISA 200) | Qué controles se esperan y cómo falla el control | Primaria para su marco. Los datos de ACFE son casos investigados por sus examinadores, no una muestra de todas las empresas |
@@ -70,7 +70,7 @@ Las NIIF cambian: la NIIF 18 reemplaza a la NIC 1 para los períodos anuales que
 | Control: separación de funciones | OpenStax | 8.3, elementos 4 y 5 | Que nadie controle una operación de punta a punta y, en la empresa chica, la revisión documentada de un tercero |
 | Control: conciliaciones | OpenStax | 8.6, el ejemplo de Feeter Plumbing | Qué partidas llevan asiento (solo las del lado de los libros) y cuáles se resuelven con el banco |
 | Control: auditoría y fraude | ACFE 2024, IIA y la ISA 200 | ACFE: hallazgos clave y detección inicial; IIA: principios 3 a 5; ISA 200: párr. 5 y A1 | Que las cifras de ACFE son medianas de casos investigados; que la auditoría externa da seguridad razonable, no absoluta, sobre los estados en su conjunto |
-| [Fundamentos](fundamentos-de-contabilidad.md) | Sangster (2025) y Yamey (2010) | El resumen de Sangster en la Univ. de Aberdeen y después el artículo | El origen de la partida doble en el siglo XII y la discusión sobre cuánto se usó la *Summa* |
+| [Fundamentos](fundamentos-de-contabilidad.md) | Sangster (2025) y Yamey (2010) | El resumen de Sangster en la Univ. de Aberdeen y después el artículo | El origen de la partida doble (siglo XII según Sangster, XIII según Wikipedia) y la discusión sobre cuánto se usó la *Summa* |
 
 Para lo de Argentina, los recursos son el Código Civil y Comercial (arts. 320 a 331) y la RT 54 de la FACPCE; están en [libros contables en Argentina](../Registro/libros-contables-en-argentina.md) y [normas contables en Argentina](../Estados-contables/normas-contables-en-argentina.md).
 

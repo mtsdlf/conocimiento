@@ -44,9 +44,12 @@ El IASB depende de la IFRS Foundation. Las normas que emitió antes de 2001 se l
 
 El Marco Conceptual es la base conceptual sobre la que el IASB escribe las normas. Según el resumen de su página, ayuda a que las normas den información útil a inversores, prestamistas y otros acreedores. Se emitió en septiembre de 2010 y se revisó en marzo de 2018. Las definiciones de activo, pasivo y patrimonio que usa [partida doble](../Registro/partida-doble.md) salen de él.
 
+> [!NOTE]
+> Sin fuente todavía: que el Marco defina activo, pasivo y patrimonio y diga cuándo se reconoce algo, como dicen la tabla y el párrafo anterior. El resumen leído de su página no lo trae.
+
 ## La NIIF para las PYMES
 
-La NIIF para las PYMES simplifica las NIIF completas de cinco maneras, según la IFRS Foundation; entre ellas, omite temas que no le importan a una empresa chica, restringe las opciones de política contable, simplifica el reconocimiento y la medición y pide menos revelaciones. Su calendario:
+La NIIF para las PYMES simplifica las NIIF completas de cinco maneras, según la IFRS Foundation; entre ellas, omite temas, restringe las opciones de política contable, simplifica el reconocimiento y la medición y pide menos revelaciones. Su calendario:
 
 | Fecha | Qué pasa |
 |---|---|
@@ -71,7 +74,7 @@ Cuando una empresa controla a otras, presenta estados consolidados: los del grup
 
 ## Valor razonable o costo histórico
 
-Cada partida del balance se mide con un criterio. El costo histórico registra lo que se pagó y lo va consumiendo (la amortización es eso). El valor razonable la lleva a lo que valdría hoy en el mercado. Las NIIF combinan los dos: muchas partidas van al costo y algunos instrumentos, a valor razonable. Cuánto de cada uno conviene es una discusión abierta.
+Cada partida del balance se mide con un criterio. El costo histórico registra lo que se pagó y lo va consumiendo (la amortización es eso). El valor razonable la lleva a lo que valdría hoy en el mercado. Las NIIF combinan los dos: muchas partidas van al costo y algunos instrumentos, a valor razonable (descripción general, sin fuente leída). Cuánto de cada uno conviene es una discusión abierta.
 
 > [!IMPORTANT]
 > **Disputado: si el balance debería medirse a valor razonable o a costo histórico.**

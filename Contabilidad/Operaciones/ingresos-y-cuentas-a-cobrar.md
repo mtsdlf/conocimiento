@@ -33,7 +33,7 @@ La NIIF 15 ordena el reconocimiento de ingresos alrededor de un principio: "an e
 4. Repartir ese precio entre las promesas según lo que valdría cada una vendida sola.
 5. Reconocer el ingreso al cumplir cada promesa, en un momento o a lo largo del tiempo.
 
-El momento lo marca el control: la norma dice que el bien se transfiere "when (or as) the customer obtains control of that asset". Una venta de mercadería se reconoce al entregar; un servicio de un año, mes a mes. Para que haya contrato, entre otras condiciones, tiene que ser "probable that the entity will collect the consideration".
+El momento lo marca el control: la norma dice que el bien se transfiere "when (or as) the customer obtains control of that asset". Una venta de mercadería se reconoce al entregar; un servicio de un año, mes a mes (ejemplos propios). Para que haya contrato, entre otras condiciones, tiene que ser "probable that the entity will collect the consideration".
 
 La contraprestación variable, el derecho de devolución y las licencias tienen reglas propias en la norma, que la investigación no cubrió. La NIIF 15 rige para los ejercicios que empiezan desde el 1 de enero de 2018.
 
@@ -56,7 +56,7 @@ Después la empresa concede una rebaja de $300 y el cliente paga el 15 de octubr
 | Descuentos sobre ventas | 1.545 | |
 | Cuentas a cobrar | | 15.450 |
 
-Las devoluciones, rebajas y descuentos van a cuentas propias que restan de las ventas en el estado de resultados. Así la venta original no se toca y queda a la vista cuánto se devolvió y cuánto se descontó. Un registro que permite editar la factura en lugar de emitir una nota de crédito pierde esa información; corregir sin borrar está en [asiento y libros](../Registro/asiento-y-libros.md).
+Las devoluciones, rebajas y descuentos van a cuentas propias que restan de las ventas en el estado de resultados. Así, por inferencia propia, la venta original no se toca y queda a la vista cuánto se devolvió y cuánto se descontó. Un registro que permite editar la factura en lugar de emitir una nota de crédito pierde esa información (también inferencia); corregir sin borrar está en [asiento y libros](../Registro/asiento-y-libros.md).
 
 ## Cobrar antes de entregar: anticipos e ingresos diferidos
 
@@ -101,6 +101,6 @@ La baja de un cliente por $5.000 es Previsión al debe y Cuentas a cobrar al hab
 
 El método de baja directa, que carga la pérdida recién cuando se identifica al cliente, no lo acepta el US GAAP según OpenStax, porque separa el gasto del período de la venta; el libro dice que se usa para impuestos.
 
-La NIIF 9 pide otra base para la misma previsión. Para las cuentas a cobrar comerciales sin financiación significativa, la empresa "shall always measure the loss allowance at an amount equal to lifetime expected credit losses": la pérdida esperada en toda la vida del crédito, mirando hacia adelante. Como atajo práctico admite una matriz de provisiones con la experiencia histórica ajustada, que se parece al cálculo por antigüedad. Las dos fuentes coinciden en la mecánica (previsión que resta del activo, baja contra la previsión) y difieren en la base de la estimación: OpenStax enseña porcentajes históricos del US GAAP clásico y la NIIF 9 exige pérdida esperada. Qué marco aplica a cada empresa está en [normas contables](../Estados-contables/normas-contables.md).
+La NIIF 9 pide otra base para la misma previsión. Para las cuentas a cobrar comerciales sin financiación significativa, la empresa "shall always measure the loss allowance at an amount equal to lifetime expected credit losses": la pérdida esperada en toda la vida del crédito, mirando hacia adelante. Como atajo práctico admite una matriz de provisiones con la experiencia histórica ajustada, que se parece al cálculo por antigüedad. Según la lectura del informe de investigación (no de las fuentes), las dos coinciden en la mecánica (previsión que resta del activo, baja contra la previsión) y difieren en la base de la estimación: OpenStax enseña porcentajes históricos del US GAAP clásico y la NIIF 9 exige pérdida esperada. Qué marco aplica a cada empresa está en [normas contables](../Estados-contables/normas-contables.md).
 
-Para quien construye un sistema, esto se traduce en que la baja de un cliente tiene que poder registrarse contra la previsión y no contra un gasto, y en que el auxiliar tiene que dar la antigüedad de cada saldo a una fecha.
+Para quien construye un sistema, esto se traduce (inferencia) en que la baja de un cliente tiene que poder registrarse contra la previsión y no contra un gasto, y en que el auxiliar tiene que dar la antigüedad de cada saldo a una fecha.

@@ -18,7 +18,7 @@ revisado:
 
 Los gastos de empleados son compras chicas que paga una persona de la empresa con plata propia, con un anticipo o con un fondo fijo, y que se registran recién cuando rinde los comprobantes.
 
-Contablemente es el ciclo de [compras y cuentas a pagar](compras-y-cuentas-a-pagar.md) con el empleado en el lugar del proveedor: hay un gasto, un comprobante y una deuda o un crédito que se cancela. Los libros de texto no lo tratan como ciclo propio; lo ponen dentro de la caja y el control interno. Se separa porque su recorrido es distinto (quien gasta no es quien compra, el comprobante llega después y la aprobación la da un jefe), y las guías de auditoría lo revisan aparte por el riesgo de reintegros fraudulentos.
+Contablemente es el ciclo de [compras y cuentas a pagar](compras-y-cuentas-a-pagar.md) con el empleado en el lugar del proveedor: hay un gasto, un comprobante y una deuda o un crédito que se cancela. Los libros de texto no lo tratan como ciclo propio; lo ponen dentro de la caja y el control interno. Se separa porque su recorrido es distinto (quien gasta no es quien compra, el comprobante llega después y la aprobación la da un jefe), y las guías de auditoría leídas lo revisan aparte.
 
 ## Las tres formas de pagar un gasto de empleado
 
@@ -28,7 +28,7 @@ Contablemente es el ciclo de [compras y cuentas a pagar](compras-y-cuentas-a-pag
 | Anticipo a rendir | la empresa, antes del gasto | un crédito de la empresa contra el empleado |
 | Fondo fijo | la empresa, en un fondo permanente | nada: el fondo se repone contra comprobantes |
 
-En las tres el gasto se registra con el comprobante, en la cuenta que corresponde a su naturaleza (viáticos, combustible, papelería), y no al entregar la plata.
+En las tres el gasto se registra con el comprobante, en la cuenta que corresponde a su naturaleza (viáticos, combustible, papelería), y no al entregar la plata. Salvo en el fondo fijo (OpenStax), esto es construcción propia: ver la nota sobre anticipos más abajo.
 
 ## El fondo fijo y su reposición
 
@@ -50,7 +50,7 @@ El 31 de julio repone el fondo contra los comprobantes del mes:
 | Gastos varios | 5 | |
 | Caja | | 45 |
 
-El 1 de agosto sube el fondo a $100 (Fondo fijo 25 contra Caja 25). Si al reponer faltan $5 sin comprobante, se registra Diferencias de caja 5 al debe y Caja 5 al haber.
+El 1 de agosto sube el fondo a $100 (Fondo fijo 25 contra Caja 25). Si al reponer faltan $5, se registra Diferencias de caja 5 al debe y Caja 5 al haber.
 
 La cuenta Fondo fijo solo se mueve al crearlo, al cambiar su monto o al cerrarlo. Los gastos nunca van contra ella: van contra Caja (o el banco) al reponer. Quien construye un sistema puede leer de acá qué tiene que impedir: un asiento de gasto contra la cuenta del fondo rompe la regla de que su saldo es fijo. Esta lectura es inferencia a partir del mecanismo.
 
@@ -62,10 +62,10 @@ El patrón del asiento es: al dar el anticipo, Anticipos a rendir al debe y Caja
 
 > [!NOTE] Sin fuente todavía: los asientos de un anticipo a empleado y su rendición en un libro de texto, y una guía de gastos de empleados del sector privado (las encontradas son de organismos públicos de Estados Unidos).
 
-Las guías de auditoría pública de Estados Unidos coinciden en los controles que rodean a los anticipos. La del Auditor del Estado de Washington (enero de 2024) recomienda limitar el anticipo a una parte del gasto estimado, no darlo con demasiada anticipación, asignar a alguien el seguimiento de los que están vencidos, no dar un anticipo nuevo a quien no rindió el anterior y resolver los pendientes antes de liquidarle el final a quien se va. Pide también una política escrita, revisada cada año y actualizada al menos cada tres.
+Las guías de auditoría pública de Estados Unidos que se leyeron traen controles sobre los anticipos. La del Auditor del Estado de Washington (enero de 2024) recomienda limitar el anticipo a una parte del gasto estimado, no darlo con demasiada anticipación, asignar a alguien el seguimiento de los que están vencidos, no dar un anticipo nuevo a quien no rindió el anterior y resolver los pendientes antes de liquidarle el final a quien se va. Pide también una política escrita, revisada cada año y actualizada al menos cada tres.
 
 ## Cómo falla la rendición
 
-La rendición falla cuando nadie mira el comprobante o cuando quien lo aprueba es quien gasta. Según resúmenes de dos guías profesionales leídas por el buscador (un colegio de contadores de Minnesota y la contraloría del Estado de Nueva York), una rendición sana lleva el comprobante original, el propósito del gasto, la aprobación firmada y con fecha de un superior, y una revisión de segundo nivel sobre una muestra. La conciliación de los anticipos la tiene que hacer alguien que no registre cobros ni pagos, que es un caso de [separación de funciones](../Control-interno/separacion-de-funciones.md). Los niveles de aprobación según el monto están en [autorizaciones](../Control-interno/autorizaciones.md).
+La rendición falla (explicación propia, sin fuente) cuando nadie mira el comprobante o cuando quien lo aprueba es quien gasta. Según resúmenes de dos guías profesionales leídas por el buscador (un colegio de contadores de Minnesota y la contraloría del Estado de Nueva York), una rendición sana lleva el comprobante original, el propósito del gasto, la aprobación firmada y con fecha, y una revisión de segundo nivel sobre una muestra. La conciliación de los anticipos la tiene que hacer alguien que no registre cobros ni pagos, que es un caso de [separación de funciones](../Control-interno/separacion-de-funciones.md). Los niveles de aprobación según el monto están en [autorizaciones](../Control-interno/autorizaciones.md).
 
-Para quien construye un sistema, estos controles se traducen en requisitos del registro: el gasto pide un comprobante adjunto y un aprobador distinto de quien lo carga, el anticipo tiene un saldo por empleado con fecha de vencimiento, y la baja de un empleado muestra sus anticipos abiertos. Cómo se liquida lo que se le debe a un empleado que se va es del tema Administración de personal y nómina, todavía no escrito.
+Para quien construye un sistema, estos controles se traducen (inferencia) en requisitos del registro: el gasto pide un comprobante adjunto y un aprobador distinto de quien lo carga, el anticipo tiene un saldo por empleado con fecha de vencimiento, y la baja de un empleado muestra sus anticipos abiertos. Cómo se liquida lo que se le debe a un empleado que se va es del tema Administración de personal y nómina, todavía no escrito.

@@ -18,7 +18,7 @@ revisado:
 
 El plan de cuentas es la lista numerada de todas las cuentas que usa una empresa para registrar, ordenada como aparecen en los estados contables y codificada para que el primer dígito diga el rubro.
 
-Cada asiento elige sus cuentas de esta lista ([asiento y libros](asiento-y-libros.md)), y los estados contables salen de sumar sus saldos. Un plan mal armado se nota en los dos lados: la carga se vuelve ambigua (dos cuentas para lo mismo) y el informe no se puede armar (falta la cuenta que separa lo que hay que mostrar).
+Cada asiento elige sus cuentas de esta lista ([asiento y libros](asiento-y-libros.md)), y los estados contables salen de sumar sus saldos. Un plan mal armado se nota en los dos lados: la carga se vuelve ambigua (dos cuentas para lo mismo) y el informe no se puede armar (falta la cuenta que separa lo que hay que mostrar). Es inferencia de la base.
 
 ## Cómo se numera
 
@@ -32,13 +32,13 @@ OpenStax presenta el plan como un sistema de numeración de cuentas en el que el
 | Ingresos | 400 a 499 | 4000 a 4999 |
 | Gastos | 500 a 599 | 5000 a 5999 |
 
-Según el mismo libro, una empresa grande de comercio o de industria puede sumar cuentas que empiezan con 6. Pasar de tres a cuatro dígitos deja espacio entre cuenta y cuenta para agregar las que hagan falta sin renumerar.
+Según el mismo libro, una empresa grande de comercio o de industria puede sumar cuentas que empiezan con 6. Pasar de tres a cuatro dígitos deja espacio entre cuenta y cuenta para agregar las que hagan falta sin renumerar (lectura de la base; el libro solo da la tabla).
 
-En el ejemplo de Printing Plus, los códigos son Caja 101, Deudores por ventas 111, Proveedores 201 y Capital 301 (cuentas traducidas). Entre 101 y 111 quedan nueve números libres para otras cuentas de disponibilidades.
+En el ejemplo de Printing Plus, los códigos son Caja 101, Deudores por ventas 111, Proveedores 201 y Capital 301 (cuentas traducidas). Entre 101 y 111 quedan nueve números sin usar en el ejemplo.
 
 ## Niveles: rubros que agrupan y cuentas que se imputan
 
-Un plan se lee como un árbol. Arriba están los rubros que se van a mostrar en el [balance](../Estados-contables/balance.md) y el [estado de resultados](../Estados-contables/estado-de-resultados.md); abajo, las cuentas donde efectivamente se registran los asientos. En la codificación de OpenStax, el primer dígito es el rubro y los siguientes van bajando de nivel.
+Un plan se lee como un árbol. Arriba están los rubros que se van a mostrar en el [balance](../Estados-contables/balance.md) y el [estado de resultados](../Estados-contables/estado-de-resultados.md); abajo, las cuentas donde efectivamente se registran los asientos. En la codificación de OpenStax, el primer dígito es el rubro.
 
 Las cuentas de agrupación solo suman a sus hijas y no reciben asientos; las de detalle (imputables) sí. Esta división en dos clases de cuentas es la práctica habitual de los planes de cuentas, pero no figura en las fuentes leídas.
 
