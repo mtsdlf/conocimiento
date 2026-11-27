@@ -59,4 +59,4 @@ Lo que sostienen estos estudios, como lectura de esta base:
 3. Que conozca al alumno. En las pruebas propias de Khan Academy, lo que movió resultados fue darle al tutor el historial reciente del alumno, no retocar las instrucciones; está en la ficha de [modos de estudio de la IA](modos-de-estudio-de-la-ia.md).
 4. Que se use. Un tutor disponible que nadie consulta no enseña (Oreopoulos y Low). El uso se diseña como parte de la clase, como en [acceso y uso de la tecnología](../Medios-y-aprendizaje/acceso-y-uso-de-la-tecnologia.md).
 
-Ninguno de estos estudios es de adultos que aprenden IT. El caso más cercano, el de quienes aprenden a programar, está en [aprender a programar con IA](aprender-a-programar-con-ia.md).
+Ninguno de estos estudios es de adultos que aprenden IT. El caso más cercano, el de quienes aprenden a programar, está en [enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md).

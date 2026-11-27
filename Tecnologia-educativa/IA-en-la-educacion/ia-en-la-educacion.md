@@ -30,7 +30,7 @@ La IA generativa puede cumplir roles que ya existían, sin ser un mecanismo de a
 | Ayuda de quien enseña | Le sugiere a un tutor humano qué decir; no habla con el alumno | Positivo en dos estudios, ambos sin revisión por pares | [La IA como ayuda del docente](ia-como-ayuda-del-docente.md) |
 | Atajo | Hace la tarea o el razonamiento por el alumno | Rinde más durante la tarea y aprende menos después | [La IA como atajo](ia-como-atajo.md) |
 
-Aprender a programar con IA cruza los tres roles y es el caso más cercano a enseñar IT, así que tiene su propia nota: [aprender a programar con IA](aprender-a-programar-con-ia.md).
+Aprender a programar con IA cruza los tres roles y es el caso más cercano a enseñar IT; lo trata [enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md), en Didáctica, que es dueña de la decisión de quien enseña.
 
 ## Cuánto pesa la evidencia
 
@@ -48,5 +48,5 @@ Tres advertencias valen para todas las notas de la vertical:
 - [La IA como tutor](ia-como-tutor.md): los ensayos de Bastani, Kestin, De Simone y Oreopoulos y Low, y por qué el diseño y el uso pesan más que el modelo.
 - [La IA como ayuda del docente](ia-como-ayuda-del-docente.md): Tutor CoPilot y el ensayo de Eedi, donde la IA le sugiere al tutor humano.
 - [La IA como atajo](ia-como-atajo.md): la descarga cognitiva, el experimento de Bastani y los estudios de Gerlich y del MIT con sus límites.
-- [Aprender a programar con IA](aprender-a-programar-con-ia.md): los estudios de novatos, la brecha que se ensancha y la ilusión de competencia, que es la [ilusión de saber](../../Ciencias-del-aprendizaje/Metacognicion-y-autorregulacion/ilusion-de-saber.md) de las Ciencias del aprendizaje.
+- [Enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md) (en Didáctica): los estudios de novatos, la brecha que se ensancha y la ilusión de competencia, que es la [ilusión de saber](../../Ciencias-del-aprendizaje/Metacognicion-y-autorregulacion/ilusion-de-saber.md) de las Ciencias del aprendizaje.
 - [Modos de estudio de la IA](modos-de-estudio-de-la-ia.md): ficha fechada con los modos de estudio de los proveedores de modelos y Khanmigo, el tutor con IA de Khan Academy, al 2026-11-27.

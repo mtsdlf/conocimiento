@@ -41,7 +41,6 @@ Tecnologia-educativa/
     ia-como-tutor.md
     ia-como-ayuda-del-docente.md
     ia-como-atajo.md
-    aprender-a-programar-con-ia.md
     modos-de-estudio-de-la-ia.md         (ficha volátil, 2026-11)
   Practica-adaptativa/
     practica-adaptativa.md
@@ -64,6 +63,7 @@ Tecnologia-educativa/
 
 ## Cambios al árbol al escribirlo (2026-11-27)
 
+- **Aprender a programar con IA se fusiona en Didáctica.** La nota de esta vertical y `enseñar-programacion-con-ia` de Didácticas específicas contaban los mismos estudios; quedó una sola, en Didáctica, que es dueña de la decisión de quien enseña, y esta vertical la enlaza.
 - **Plataformas deja de ser vertical.** Los LMS son infraestructura del aprendizaje en línea y no tienen evidencia propia sobre el aprendizaje (Escueta et al. 2020 clasifican la modalidad, no la plataforma); lo que hay son productos. Pasa a una ficha volátil dentro de Aprendizaje en línea. Anki, FSRS y Math Academy van a la ficha de Práctica adaptativa, y los modos de estudio de los proveedores, a la de IA.
 - **Medios y aprendizaje se escribe como debate, no como listado de medios** (Clark contra Kozma, y el acceso frente al uso a escala). La historia de promesas incumplidas va a Fundamentos.
 - **Aprendizaje en línea separa la eficacia de la modalidad (Means) de la retención en MOOC**, en dos notas. Pandemia y qué reduce el abandono quedan como huecos visibles en la entrada, sin nota.

@@ -29,7 +29,7 @@ Los términos de un modelo de lenguaje (token, ventana de contexto, alucinación
 | Ensayo por conglomerados | Ensayo aleatorizado que sortea grupos enteros (aulas, escuelas) en vez de personas | [Evidencia en educación](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) |
 | Finalización | Proporción de inscriptos que termina un curso | [Finalización de los MOOC](../Aprendizaje-en-linea/finalizacion-de-mooc.md) |
 | Guardas (*guardrails*) | Instrucciones o restricciones que impiden que un tutor de IA dé la respuesta | [La IA como tutor](../IA-en-la-educacion/ia-como-tutor.md) |
-| Ilusión de competencia | Creer que se entiende algo porque la herramienta lo resolvió | [Aprender a programar con IA](../IA-en-la-educacion/aprender-a-programar-con-ia.md) |
+| Ilusión de competencia | Creer que se entiende algo porque la herramienta lo resolvió | [Enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md) |
 | Khanmigo | El tutor con IA de Khan Academy, configurado para no dar respuestas | [Modos de estudio de la IA](../IA-en-la-educacion/modos-de-estudio-de-la-ia.md) |
 | LMS (sistema de gestión del aprendizaje) | Aula virtual con contenido, tareas, notas e integraciones | [Plataformas de aprendizaje](../Aprendizaje-en-linea/plataformas-de-aprendizaje.md) |
 | LTI | Estándar con el que una herramienta se integra a un LMS | [Plataformas de aprendizaje](../Aprendizaje-en-linea/plataformas-de-aprendizaje.md) |

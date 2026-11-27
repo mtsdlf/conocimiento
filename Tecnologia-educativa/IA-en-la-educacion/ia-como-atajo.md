@@ -44,7 +44,7 @@ Kosmyna et al. («Your Brain on ChatGPT», MIT) es un preprint sin revisión por
 
 Los tres apuntan en la misma dirección, pero solo Bastani es un experimento con tarea de aprendizaje y prueba posterior sin IA. Gerlich muestra una asociación; Kosmyna, un patrón en pocas personas que se discute. Quien cite «la IA te hace más tonto» se apoya en los dos más débiles; quien cite «la IA sin guardas daña lo aprendido en la práctica» se apoya en el más fuerte.
 
-Ninguno es de adultos que aprenden un oficio técnico en su trabajo. El caso más cercano tiene su versión en programación: [aprender a programar con IA](aprender-a-programar-con-ia.md).
+Ninguno es de adultos que aprenden un oficio técnico en su trabajo. El caso más cercano tiene su versión en programación: [enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md).
 
 ## Qué hacer con el atajo
 

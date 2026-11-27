@@ -46,7 +46,7 @@ Cuban lo resumió en el título de su libro: sobrevendidas y subutilizadas. Lo q
 
 1. La promesa se mide con el acceso y el resultado con el aprendizaje. Se cuentan computadoras repartidas o inscriptos; después se mide qué se aprendió, y la distancia sorprende.
 2. Los primeros estudios dan efectos grandes y los ensayos a escala, chicos. Pasó con los tutores inteligentes (metaanálisis contra el ensayo de Pane) y empieza a pasar con los tutores de IA (Kestin contra Oreopoulos y Low).
-3. El beneficio cae sobre quien ya estaba mejor. Los MOOC terminaron sirviendo a gente ya educada de países ricos, según Reich y Ruipérez-Valiente; con IA, los novatos que ya iban bien sacan más provecho, según Prather et al. (en [aprender a programar con IA](../IA-en-la-educacion/aprender-a-programar-con-ia.md)).
+3. El beneficio cae sobre quien ya estaba mejor. Los MOOC terminaron sirviendo a gente ya educada de países ricos, según Reich y Ruipérez-Valiente; con IA, los novatos que ya iban bien sacan más provecho, según Prather et al. (en [enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md)).
 4. La culpa se le pasa al docente. Según una cita que se le atribuye (no cotejada con el libro), Cuban advirtió que pedirles a los docentes que se esfuercen más desvía la mirada del mal diseño del software y de la organización.
 
 > [!NOTE]
