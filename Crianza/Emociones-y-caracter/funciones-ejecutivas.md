@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las funciones ejecutivas son tres habilidades mentales que permiten controlar lo que se hace y se piensa: el control inhibitorio, la memoria de trabajo y la flexibilidad cognitiva; mejoran con práctica que se vuelve de a poco más difícil.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC4084861
@@ -15,7 +15,7 @@ fuentes:
 aliases: [executive functions, autocontrol, control inhibitorio, memoria de trabajo, flexibilidad cognitiva, prueba del malvavisco, marshmallow test]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Funciones ejecutivas

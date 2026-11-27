@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las señales de alarma del desarrollo son lo que justifica consultar sin esperar: no cumplir uno o más hitos de la edad, perder habilidades que el chico ya tenía o una preocupación de los padres; el pediatra decide si hace falta una pesquisa con una prueba validada.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.cdc.gov/act-early/milestones/2-years.html
@@ -12,7 +12,7 @@ fuentes:
 aliases: [signos de alarma, pautas de alarma, cuándo consultar, vigilancia del desarrollo, pesquisa del desarrollo, PRUNAPE]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Señales de alarma

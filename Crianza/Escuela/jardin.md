@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El jardín es el nivel inicial del sistema educativo, de los 45 días a los 5 años; en Argentina es obligatorio desde la sala de 4, y la evidencia sobre lo que aporta depende sobre todo de su calidad, con estudios que discrepan y sin una edad óptima de ingreso establecida.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/normativa/nacional/ley-27045-2014-240450/texto
@@ -14,7 +14,7 @@ fuentes:
 aliases: [jardín de infantes, nivel inicial, preescolar, preschool, sala de 3, sala de 4, sala de 5, jardín maternal]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Jardín

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos técnicos que usan las notas sobre crianza, cada uno con una definición corta y la nota que lo desarrolla.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2017/v115n3a27s.pdf
@@ -31,7 +31,7 @@ fuentes:
 aliases: [términos de crianza, vocabulario de crianza]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de crianza

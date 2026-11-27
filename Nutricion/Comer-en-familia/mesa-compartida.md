@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La mesa compartida es comer juntos en familia; los chicos que lo hacen más seguido tienen una dieta algo mejor y un peso algo menor, pero las asociaciones son chicas y los estudios no prueban que comer juntos las cause.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/29334693/
@@ -13,7 +13,7 @@ fuentes:
 aliases: [comidas en familia, comer juntos, family meals]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mesa compartida

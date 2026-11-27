@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las altas capacidades son una capacidad de aprender muy por encima de la de los chicos de la misma edad; entre los 2 y los 6 años lo que se ve son conductas adelantadas, que se acompañan con un ambiente rico y sin apuro por ponerles un nombre, porque antes de los 7 la medición es poco estable.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://dx.doi.org/10.1037/bul0000425
@@ -15,7 +15,7 @@ aliases:
   - giftedness
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Altas capacidades

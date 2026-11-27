@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una escuela bilingüe enseña en dos idiomas, uno de los cuales no se habla en casa; la evidencia de los programas de inmersión dice que el idioma de la casa y de la sociedad se desarrolla igual que en una escuela de un solo idioma, y que el segundo llega a un buen uso funcional pero rara vez a una gramática de nativo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.psych.mcgill.ca/perpg/fac/genesee/21.pdf
@@ -13,7 +13,7 @@ fuentes:
 aliases: [colegio bilingüe, inmersión, immersion, educación bilingüe, dual language]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuela bilingüe

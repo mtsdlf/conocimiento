@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La nutrición es lo que una persona come y cómo eso afecta su salud, su cuerpo y su rendimiento; esta base la explica para una familia que cocina en casa, con chicos chicos y adultos con objetivos distintos, y dice la evidencia de cada recomendación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -9,7 +9,7 @@ fuentes:
   - https://www.who.int/news-room/fact-sheets/detail/healthy-diet
   - https://www.hsph.harvard.edu/nutritionsource/
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Nutrición

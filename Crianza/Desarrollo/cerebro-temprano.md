@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En los primeros años el cerebro se construye de abajo hacia arriba, con conexiones que se forman a gran velocidad y que la experiencia refuerza o deja ir; las interacciones con adultos que responden lo construyen, y la adversidad fuerte y sostenida sin un adulto que la amortigüe (el estrés tóxico) lo daña.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://developingchild.harvard.edu/key-concept/brain-architecture/
@@ -17,7 +17,7 @@ fuentes:
 aliases: [desarrollo cerebral temprano, arquitectura cerebral, estrés tóxico, períodos sensibles]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cerebro temprano

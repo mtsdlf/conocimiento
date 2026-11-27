@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El bienestar de los padres es parte de la crianza: la depresión del adulto se asocia con más problemas en los hijos, y una idea muy usada es que al chico no le hace falta un adulto perfecto sino uno que repara los desencuentros (una idea con fuentes sin verificar del todo).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/21052833/
@@ -14,7 +14,7 @@ fuentes:
 aliases: [salud mental de los padres, padre suficientemente bueno, madre suficientemente buena, reparación]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bienestar de los padres

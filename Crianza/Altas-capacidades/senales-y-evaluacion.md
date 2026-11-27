@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Entre los 2 y los 6 años se pueden ver conductas adelantadas, pero ningún test da a esa edad un resultado estable sobre las altas capacidades; una evaluación profesional sirve cuando hay que tomar una decisión concreta, no para ponerle un nombre al chico.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://dx.doi.org/10.1037/bul0000425
@@ -15,7 +15,7 @@ aliases:
   - identificación temprana
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Señales y evaluación

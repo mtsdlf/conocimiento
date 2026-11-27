@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Emociones y carácter es el mundo interno del chico: cómo aprende a manejar lo que siente y lo que hace, con qué temperamento viene, cómo se forman la empatía y la motivación, y cómo atraviesa los cambios grandes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.msdmanuals.com/es/hogar/salud-infantil/problemas-de-comportamiento-en-ni%C3%B1os/rabietas
@@ -12,7 +12,7 @@ fuentes:
 aliases: [desarrollo socioemocional, mundo emocional del chico]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Emociones y carácter

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los dominios del desarrollo son las áreas en que se observa cómo crece un chico (movimiento, lenguaje, pensamiento y lo socioemocional), y los hitos son las conductas que la mayoría de los chicos muestra en cada área a cierta edad; sirven para mirar, no para diagnosticar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://stacks.cdc.gov/view/cdc/122643/cdc_122643_DS1.pdf
@@ -18,7 +18,7 @@ fuentes:
 aliases: [hitos del desarrollo, pautas madurativas, áreas del desarrollo, developmental milestones]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dominios e hitos

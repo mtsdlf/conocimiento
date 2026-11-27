@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dejar los pañales es un aprendizaje que empieza cuando el chico está listo, en general entre los 18 y los 30 meses; ningún método demostró ser mejor que otro, y castigar los accidentes es contraproducente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.aafp.org/pubs/afp/issues/2019/1015/p468.html
@@ -11,7 +11,7 @@ fuentes:
 aliases: [Dejar los pañales, Toilet training, Enuresis]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Control de esfínteres

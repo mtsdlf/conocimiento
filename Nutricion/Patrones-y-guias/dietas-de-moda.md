@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las dietas de moda son patrones que se promocionan como mejores que comer de forma equilibrada (baja en carbohidratos o keto, ayuno intermitente, paleo) junto con la vegetariana y la vegana, que tienen otra base; en los ensayos que las compararon con otra dieta, ninguna hizo bajar consistentemente más peso.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5839290
@@ -18,7 +18,7 @@ fuentes:
 aliases: [keto, low-carb, ayuno intermitente, dieta vegetariana, dieta vegana, paleo]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dietas de moda

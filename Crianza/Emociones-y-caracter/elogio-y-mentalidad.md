@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Elogiar el esfuerzo y el proceso en vez de la inteligencia se asocia, en un estudio chico, con que el chico crea después que la inteligencia se desarrolla, pero los metaanálisis encuentran que la mentalidad de crecimiento pesa poco en el rendimiento y que sus intervenciones tienen efectos chicos o nulos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/29505339/
@@ -13,7 +13,7 @@ fuentes:
 aliases: [growth mindset, mentalidad de crecimiento, mentalidad fija, elogio de proceso, cómo elogiar]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elogio y mentalidad

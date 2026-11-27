@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Comer para rendir es ajustar la comida, los líquidos y algunos suplementos al entrenamiento para entrenar mejor y recuperarse; la referencia es la posición conjunta de 2016 de las sociedades de medicina del deporte y de nutrición de Estados Unidos y Canadá.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/26891166/
@@ -11,7 +11,7 @@ fuentes:
 aliases: [nutrición deportiva, comer para entrenar, rendimiento deportivo]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rendimiento

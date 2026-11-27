@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los grupos de alimentos son las familias en que las Guías Alimentarias argentinas ordenan la comida en su gráfico, con una cantidad diaria o semanal para cada una: frutas y verduras, legumbres y cereales, lácteos, carnes y huevos, aceites y frutas secas, y un grupo opcional de dulces y grasas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.argentina.gob.ar/salud/alimentacion-saludable/grafico
@@ -15,7 +15,7 @@ fuentes:
 aliases: [gráfica de la alimentación saludable, óvalo nutricional]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Grupos de alimentos

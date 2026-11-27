@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ideas sobre crianza que circulan mucho y que la evidencia no sostiene o sostiene mucho menos de lo que se dice: el efecto Mozart, los videos para bebés, el cerebro izquierdo y derecho, los estilos de aprendizaje, los tres primeros años como destino, el azúcar que acelera, las vacunas que causan autismo y el CI como destino.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://doi.org/10.1016/j.intell.2010.03.001
@@ -27,7 +27,7 @@ fuentes:
 aliases: [mitos sobre la crianza, neuromitos, efecto Mozart, Baby Einstein, Your Baby Can Read]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos de crianza

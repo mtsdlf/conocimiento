@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Elegir escuela es decidir a qué jardín o escuela va un chico; la investigación separa la calidad de proceso, que son las interacciones entre docentes y chicos, de la calidad estructural, como la cantidad de chicos por adulto, y la primera es la que más se asocia con lo que el chico aprende.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://nemtss.unl.edu/wp-content/uploads/2022/06/21-CLASS-PreK-and-Child-Outcomes.pdf
@@ -12,7 +12,7 @@ fuentes:
 aliases: [elegir jardín, elegir colegio, calidad del jardín, CLASS]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir escuela

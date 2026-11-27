@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una alergia alimentaria es una reacción del sistema inmune a un alimento; en los chicos chicos la causan sobre todo ocho alimentos, se diagnostica con el médico y se trata evitando ese alimento.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.sap.org.ar/docs/pdf/files_alergia-alim-9-20_1599081818.pdf
@@ -10,7 +10,7 @@ fuentes:
 aliases: [alergia a los alimentos, alergia a la leche, alergia al maní, anafilaxia]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alergias alimentarias

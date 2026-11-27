@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dónde se produce el conocimiento sobre nutrición, cuánto pesa cada tipo de fuente y qué leer para empezar en casa; lo más confiable son las revisiones sistemáticas con GRADE y las guías oficiales, y lo menos, la prensa y los vendedores.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://argentina.gob.ar/salud/alimentacion-saludable/grafico
@@ -21,7 +21,7 @@ fuentes:
 aliases: [bibliografía de nutrición, dónde leer sobre nutrición]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes sobre nutrición

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cocinar por tandas es preparar de una vez comida para varios días y guardarla porcionada en heladera o freezer; ahorra tiempo en la semana si lo cocido se enfría rápido, se guarda en porciones chicas y se recalienta completo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/anmat/comunidad/informacion-de-interes-para-tu-salud/como-guardar-los-alimentos-en-la-heladera
@@ -10,7 +10,7 @@ fuentes:
 aliases: [batch cooking, meal prep, cocinar para la semana]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cocinar por tandas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Bebidas e hidratación trata qué se toma además de comer: el agua, que las guías argentinas ponen como bebida de base, las bebidas azucaradas, que limitan, y el alcohol, donde la OMS y las guías argentinas no dicen lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/node/92458
@@ -12,7 +12,7 @@ fuentes:
 aliases: [hidratación, agua, bebidas azucaradas, alcohol]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bebidas e hidratación

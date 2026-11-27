@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Patrones y guías es la parte de la nutrición que dice cómo se combinan los alimentos en una manera de comer: las Guías Alimentarias argentinas como base oficial, la dieta mediterránea como un patrón con ensayos de resultado cardiovascular y las dietas de moda con lo que muestran sus ensayos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.argentina.gob.ar/node/92458
@@ -10,7 +10,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/35443107/
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Patrones y guías

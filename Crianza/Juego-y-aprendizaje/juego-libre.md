@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El juego libre es el que el chico elige y conduce por su cuenta, sin una meta puesta por un adulto; es un extremo de un espectro que sigue con el juego guiado y los juegos con reglas, y las sociedades de pediatría y educación inicial lo ponen en el centro del aprendizaje de 0 a 6 años.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://publications.aap.org/pediatrics/article/142/3/e20182058/38649/The-Power-of-Play-A-Pediatric-Role-in-Enhancing
@@ -12,7 +12,7 @@ fuentes:
 aliases: [juego, free play, juego no estructurado, juego simbólico, juego guiado]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Juego libre

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los riesgos de las altas capacidades que describe la bibliografía son una etiqueta que cambia cómo se ve el chico, una ventaja temprana que no siempre se mantiene, el perfeccionismo y una dificultad que la capacidad tapa (doble excepcionalidad); casi todo se estudió en edad escolar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://dx.doi.org/10.1037/bul0000425
@@ -21,7 +21,7 @@ aliases:
   - perfeccionismo
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Riesgos

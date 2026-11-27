@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ficha de los suplementos dietarios con evidencia para un adulto que entrena (creatina y cafeína), de los que se suelen tomar sin una razón clara (omega-3, vitamina D), de cómo los regula ANMAT y del riesgo de que traigan sustancias que no figuran en la etiqueta; copiada el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z
@@ -16,7 +16,7 @@ fuentes:
 aliases: [suplementos dietarios, creatina, proteína en polvo, omega-3]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Suplementos

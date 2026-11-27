@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un límite es una regla que el adulto anuncia y sostiene, y una consecuencia es lo que pasa cuando el chico no la cumple; los programas con ensayos encuentran que funciona mejor con mucho refuerzo de lo que sale bien y con consecuencias sin violencia, anunciadas y cumplidas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.sap.org.ar/docs/sapimages/files_limites-34-.pdf
@@ -15,7 +15,7 @@ fuentes:
 aliases: [límites, poner límites, consecuencias, tiempo fuera, pausa obligada, time-out, tiempo dentro, time-in]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Límites y consecuencias

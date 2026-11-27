@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Altas capacidades es el nombre de una capacidad de aprender muy superior a la de la edad; los modelos actuales la ven como un potencial que se desarrolla con el ambiente, no como un número de CI fijo que se tiene o no se tiene.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://gifted.uconn.edu/schoolwide-enrichment-model/three-ring_conception_of_giftedness
@@ -18,7 +18,7 @@ aliases:
   - giftedness
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Qué son las altas capacidades

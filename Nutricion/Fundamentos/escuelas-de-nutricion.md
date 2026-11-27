@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La nutrición no tiene escuelas oficiales, pero en la práctica compiten seis marcos para decidir qué es comer bien: mirar alimentos, nutrientes, el grado de procesamiento, la energía, el origen vegetal o la conducta al comer; cada uno tiene evidencia distinta y las guías oficiales combinan varios.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/node/92458
@@ -21,7 +21,7 @@ fuentes:
 aliases: [enfoques de nutrición, corrientes de nutrición]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuelas de nutrición

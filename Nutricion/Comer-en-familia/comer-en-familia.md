@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Comer en familia es cómo se reparte la comida en la mesa de la casa: quién decide qué se come, cómo se come juntos y cómo una sola comida sirve a un chico chico y a adultos con objetivos distintos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.ellynsatterinstitute.org/wp-content/uploads/2025/06/Satter-Division-of-Responsibility-in-Feeding-2025-1.pdf
@@ -11,7 +11,7 @@ fuentes:
 aliases: [comidas familiares, la mesa familiar]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Comer en familia

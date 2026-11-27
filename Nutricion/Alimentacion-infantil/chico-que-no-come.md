@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El chico que no come es el que rechaza alimentos nuevos o come pocos distintos; en los preescolares casi siempre se maneja con exposición repetida y sin presión, y solo a veces es un trastorno que se consulta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/30982874/
@@ -15,7 +15,7 @@ fuentes:
 aliases: [neofobia alimentaria, selectividad alimentaria, picky eating, chico que no quiere comer verduras, ARFID]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # El chico que no come

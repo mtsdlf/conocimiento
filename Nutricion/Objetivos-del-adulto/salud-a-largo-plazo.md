@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Comer para la salud a largo plazo es elegir el patrón que baja el riesgo de enfermedades crónicas y muerte prematura; los estudios de carga de enfermedad ponen arriba el exceso de sodio, la falta de granos enteros y de fruta, y el alcohol.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/30954305/
@@ -15,7 +15,7 @@ fuentes:
 aliases: [longevidad, salud cardiovascular, prevención]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Salud a largo plazo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El castigo físico (chirlos, palmadas) y los gritos o la humillación son disciplina dura; los estudios los asocian con más problemas en los chicos y ningún beneficio claro, aunque se discute cuánto de esa asociación es causa, y en Argentina el castigo corporal está prohibido por el Código Civil y Comercial.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://doi.org/10.1037/fam0000191
@@ -22,7 +22,7 @@ fuentes:
 aliases: [castigo físico, castigo corporal, chirlo, palmada, nalgada, spanking, gritos, disciplina dura, disciplina verbal dura]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Castigo, gritos y chirlos

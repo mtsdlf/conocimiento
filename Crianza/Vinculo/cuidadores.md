@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los cuidadores son todos los adultos que crían a un chico, padres, abuelos, niñera y jardín maternal; cómo se coordinan entre ellos, la coparentalidad, se asocia con la conducta del chico más allá de lo que hace cada uno.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://doi.org/10.1080/15295192.2010.492040
@@ -12,7 +12,7 @@ fuentes:
 aliases: [coparentalidad, coparenting, padres como equipo]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuidadores

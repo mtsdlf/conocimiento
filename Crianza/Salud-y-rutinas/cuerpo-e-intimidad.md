@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La educación sexual integral temprana enseña a un chico de 0 a 6 años a nombrar su cuerpo, a cuidar su intimidad y a decir que no; incluye saber qué conductas con el propio cuerpo son esperables a esta edad y cuáles son señal de alerta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/normativa/nacional/ley-26150-121222/texto
@@ -10,7 +10,7 @@ fuentes:
 aliases: [ESI, Educación sexual integral, Cuidado del cuerpo]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuerpo e intimidad

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cuánto duerme un chico de 1 a 6 años y cómo se distinguen y se acompañan las pesadillas y los terrores nocturnos; las horas recomendadas son rangos de consenso por 24 horas, siestas incluidas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308
@@ -11,7 +11,7 @@ fuentes:
 aliases: [Sueño infantil, Horas de sueño, Siesta]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sueño

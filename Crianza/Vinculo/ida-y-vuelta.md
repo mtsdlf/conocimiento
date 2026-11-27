@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ida y vuelta (serve and return) es el intercambio en el que el chico emite una señal, con un balbuceo, un gesto o un llanto, y un adulto le responde; repetido miles de veces, según el Centro para el Niño en Desarrollo de Harvard, es la forma en que el vínculo construye el cerebro y el lenguaje.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://developingchild.harvard.edu/key-concept/serve-and-return/
@@ -11,7 +11,7 @@ fuentes:
 aliases: [serve and return, servir y devolver, interacción receptiva]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ida y vuelta

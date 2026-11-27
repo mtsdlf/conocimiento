@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La autonomía es dejar que el chico haga solo lo que ya puede, y las tareas son su parte en la vida de la casa; entre los 3 y los 4 años ya come, se lava y se viste solo y colabora con tareas chicas, y los chicos chicos tienen ganas espontáneas de ayudar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/node/236135
@@ -12,7 +12,7 @@ fuentes:
 aliases: [autonomía, tareas domésticas, responsabilidades, hacer solo, otorgar autonomía, autonomy granting]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autonomía y tareas

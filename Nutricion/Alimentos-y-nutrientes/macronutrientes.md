@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los macronutrientes son los nutrientes que el cuerpo necesita en gramos y que aportan energía: proteína, grasas y carbohidratos, con la fibra como un carbohidrato que no se digiere; los comités de expertos fijan para cada uno un rango como porcentaje de la energía diaria.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.nationalacademies.org/read/27957
@@ -14,7 +14,7 @@ fuentes:
 aliases: [macros]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Macronutrientes

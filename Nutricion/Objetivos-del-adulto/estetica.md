@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estética como objetivo es comer para cambiar el aspecto, casi siempre para verse más definido; se logra con lo mismo que bajar grasa y ganar músculo, más lento cuanto más magro se está, y tiene riesgos propios cuando la dieta se vuelve extrema o la imagen se vuelve una obsesión.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/
@@ -10,7 +10,7 @@ fuentes:
 aliases: [definición muscular, verse mejor, imagen corporal, vigorexia]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estética

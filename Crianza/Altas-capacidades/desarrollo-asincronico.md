@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El desarrollo asincrónico es el desfase entre áreas que se ve en muchos chicos adelantados: piensan o hablan como chicos más grandes y se emocionan, se mueven o se relacionan como los de su edad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.nj.gov/education/standards/stamp/gt_asynchronous_development.shtml
@@ -14,7 +14,7 @@ aliases:
   - asynchronous development
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desarrollo asincrónico

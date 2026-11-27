@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Valor de la Canasta Básica Alimentaria del INDEC de octubre de 2026 para un adulto equivalente y para un hogar de cuatro personas en el Gran Buenos Aires, copiado de prensa y pendiente de verificar en el INDEC.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://www.indec.gob.ar
@@ -10,7 +10,7 @@ fuentes:
 aliases: [CBA, canasta básica alimentaria, línea de indigencia]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Canasta Básica Alimentaria
