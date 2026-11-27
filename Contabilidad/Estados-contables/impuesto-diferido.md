@@ -19,7 +19,7 @@ revisado:
 
 El impuesto diferido es el impuesto a las ganancias que una empresa va a pagar o ahorrar más adelante porque la contabilidad y la ley reconocen las mismas partidas en años distintos; se registra como activo o pasivo para que el gasto por impuesto de cada año guarde relación con su resultado contable.
 
-Cómo se pasa del resultado contable al impositivo, qué ajustes hace la ley y cuánto se paga son del tema Impuestos ([resultado impositivo](../../Impuestos/Impuestos-a-la-renta/resultado-impositivo.md)). Acá queda cómo se registra lo que sale de ahí. La norma que lo ordena es la NIC 12; en Argentina, las empresas que no cotizan siguen la RT 54, que deja a las chicas no registrarlo ([impuesto diferido en Argentina](impuesto-diferido-en-argentina.md)).
+Cómo se pasa del resultado contable al impositivo, qué ajustes hace la ley y cuánto se paga son del tema Impuestos ([resultado impositivo](../../Impuestos/Impuestos-a-la-renta/resultado-impositivo.md)). Acá queda cómo se registra lo que sale de ahí. La norma que lo ordena es la NIC 12; en Argentina, las empresas que no aplican las NIIF siguen la RT 54, que deja no registrarlo a la pequeña y, si le cuesta un esfuerzo desproporcionado, a la mediana ([impuesto diferido en Argentina](impuesto-diferido-en-argentina.md)).
 
 ## Corriente más diferido
 

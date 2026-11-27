@@ -94,7 +94,7 @@ Una modificación que suma el uso de otro bien a un precio proporcional es un co
 - **[Estado de resultados](../Estados-contables/estado-de-resultados.md)**: la amortización y el interés, por separado (párr. 49). El alquiler deja de existir como gasto operativo.
 - **[Estado de flujo de efectivo](../Estados-contables/estado-de-flujo-de-efectivo.md)**: la parte de capital de cada pago va en financiación, el interés donde la empresa ubique los intereses, y los pagos de las exenciones y los variables en operación (párr. 50). En el año 1 del ejemplo, 6.805,83 van a financiación y 3.194,17 son interés.
 
-El activo y el pasivo tienen bases fiscales que suelen diferir de su valor contable, y por eso un arrendamiento genera [impuesto diferido](../Estados-contables/impuesto-diferido.md); la NIC 12 lo trata expresamente desde una enmienda de 2021.
+Si la ley fiscal deduce las cuotas a medida que se pagan, el derecho de uso y el pasivo tienen una base fiscal distinta de su valor contable, y el arrendamiento puede generar [impuesto diferido](../Estados-contables/impuesto-diferido.md); la NIC 12 lo trata expresamente desde una enmienda de 2021 (su párrafo 22A).
 
 ## El arrendador sigue clasificando
 

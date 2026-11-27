@@ -4,7 +4,7 @@ resumen: >-
 estado: borrador
 estabilidad: semi
 fuentes:
-  - "FACPCE, RT 54 (T.O. RT 59 y modificatorias, con las RT 59 y 62 y la Res. JG 656/2025), texto adoptado por el CPCE de la Ciudad de Buenos Aires, párr. 104 a 110, 130, 136 a 142, 315, 316, 339 y 340 y el glosario (leído el 2026-11-27): https://consejo.org.ar/storage/attachments/Resolucion%20Tecnica%20N%2054%20(TO%20RT%2059%20y%20modi-7TbUsld18i.pdf"
+  - "FACPCE, RT 54 (T.O. RT 59 y modificatorias, con las RT 59 y 62 y la Res. JG 656/2025), texto adoptado por el CPCE de la Ciudad de Buenos Aires, párr. 104 a 110, 130, 136 a 142, 176 a 200, 313 a 342, 602, 632 a 634 y el glosario (leído el 2026-11-27): https://consejo.org.ar/storage/attachments/Resolucion%20Tecnica%20N%2054%20(TO%20RT%2059%20y%20modi-7TbUsld18i.pdf"
   - "FACPCE, RT 62, adoptada por el CPCE de la Ciudad de Buenos Aires (17 de diciembre de 2025), leída por búsqueda: https://consejo.org.ar/storage/attachments/CD.70-2025-RT%2062.pdf-Quw0asYXHj.pdf"
   - "IFRS Foundation, NIC 16 y NIC 23, textos oficiales (edición HTML 2026): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ias16.html y https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ias23.html"
   - "Contabilidad/.investigacion/activo-construido.md (2026-11-27), componente 2"
@@ -21,7 +21,7 @@ Es el caso argentino del [activo construido por la propia empresa](activo-constr
 
 ## El costo de construcción
 
-Un bien de uso «producido o construido» se mide «en función del costo de producción o costo de construcción» (párr. 315(b)), y ese costo sale del «modelo de costeo completo» (párr. 104). El párrafo 105 lo arma con cuatro sumandos:
+Un bien de uso «producido o construido» se mide «en función del costo de producción o costo de construcción» (párr. 315(b)), y ese costo sale del «modelo de costeo completo» (párr. 104), el que los [sistemas de costeo](../Contabilidad-de-gestion/sistemas-de-costeo.md) llaman costeo por absorción. El párrafo 105 lo arma con cuatro sumandos:
 
 1. los materiales e insumos;
 2. los costos de conversión, «(mano de obra, servicios, depreciaciones y otras cargas), tanto variables como fijos»;
@@ -40,7 +40,7 @@ La activación termina cuando el bien alcanza «las condiciones de operación pr
 
 No entran «las improductividades físicas o ineficiencias en el uso de los factores en general» ni la ociosidad de los factores fijos por usar la planta por debajo de su nivel normal (párr. 107). Las cantidades anormales de materiales, mano de obra u otros costos desperdiciados van a resultados (párr. 108). El nivel normal es la producción que se espera alcanzar en promedio durante varios períodos (párr. 109).
 
-> [!NOTE] Sin fuente todavía: si la RT 54 trata los costos de trasladar o reorganizar la operación para los bienes de uso. Solo se encontró la regla para intangibles, donde los desembolsos de «reubicación o reorganización de una empresa» son gasto; para bienes de uso, la NIC 16 los excluye en su párrafo 20(c).
+La sección de bienes de uso (párr. 313 a 342) no nombra los costos de trasladar o reorganizar la operación, como sí hace la NIC 16 en su párrafo 20(c) y como hace la propia RT 54 para los intangibles, donde los desembolsos de «reubicación o reorganización de una empresa» son gasto. El resultado es el mismo por otro camino: la activación termina con la puesta en marcha (párr. 106), y después solo se suman al costo los desembolsos que mejoran el bien (alargan su vida, aumentan su capacidad, mejoran la calidad o bajan el costo de operarlo) o los mantenimientos mayores de un componente (párr. 317); todo lo demás es «Gasto del período» (párr. 318). Mudar una máquina que ya funcionaba no hace ninguna de esas cosas, así que va a gasto. La conclusión es una lectura propia de los párrafos 106, 317 y 318.
 
 ## Los intereses: se elige
 
@@ -62,7 +62,9 @@ Con el galpón del ejemplo de [activo construido](activo-construido.md#un-galpó
 
 Cuando los estados se reexpresan en moneda de cierre y la empresa eligió activar, activa «los costos financieros netos del resultado por exposición al cambio en el poder adquisitivo de la moneda» (párr. 142). Con una tasa nominal alta, buena parte del interés compensa la inflación y no es costo real de la obra; por eso se descuenta. La NIC 23 llega a algo parecido por otro lado: si se aplica la NIC 29, la parte del interés que compensa la inflación es gasto (su párrafo 9).
 
-> [!NOTE] Sin fuente todavía: cómo se calcula ese neteo con cifras; el procedimiento del ajuste por inflación de la RT 54 (párr. 176 a 200) no se leyó, y la [nota de normas](../Estados-contables/normas-contables-en-argentina.md#el-ajuste-por-inflación) tampoco lo tiene.
+El procedimiento general del ajuste, que se explica en [normas contables en Argentina](../Estados-contables/normas-contables-en-argentina.md#el-ajuste-por-inflación), está en los párrafos 176 a 200 de la RT 54: cada partida se reexpresa con el índice de precios de la FACPCE de su mes de origen, y los intereses se pueden medir «en términos reales» o multiplicando el nominal por el coeficiente (párr. 191 y 634). La obra en curso, como cualquier bien medido al costo, se reexpresa desde el mes de cada cargo (párr. 188).
+
+> [!NOTE] Sin fuente todavía: cómo se calcula con cifras el neteo del párrafo 142. Se leyeron los párrafos 176 a 200 y 632 a 634 de la RT 54 y las partes primera y tercera de la guía de ajuste por inflación de la FACPCE: ninguno trae un ejemplo de activación de costos financieros.
 
 ## Por tamaño de entidad
 
@@ -76,6 +78,7 @@ Los párrafos de costo de construcción y de costos financieros no distinguen en
 | Qué costos entran | lo directamente atribuible, con una lista de exclusiones (NIC 16, 16, 17 y 19) | costeo completo, con costos de conversión fijos (104 y 105) |
 | Ventas durante las pruebas | a resultados (NIC 16, 20A) | se restan del costo (105(c)) |
 | Fin de la activación | en condiciones de operar (NIC 16, 20) | en las condiciones previstas, aunque se use por debajo de la capacidad (106) |
+| Inicio de la amortización | disponible para usar (NIC 16, 55) | puesta en marcha (340), el mismo momento con otras palabras |
 | Desperdicio anormal | a resultados (NIC 16, 22) | a resultados (107 y 108) |
 | Desmantelamiento | se suma (NIC 16, 16(c)) | se suma (316) |
 | Con inflación | la parte que la compensa es gasto (NIC 23, 9) | se activa neto del resultado por exposición (142) |

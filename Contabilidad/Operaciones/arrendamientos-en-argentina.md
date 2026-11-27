@@ -5,6 +5,9 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "FACPCE, RT 54 (T.O. RT 59 y modificatorias, con las RT 59 y 62 y la Res. JG 656/2025), texto adoptado por el CPCE de la Ciudad de Buenos Aires, párr. 3, 77, 532 a 559, 658 y 672 (leído el 2026-11-27): https://consejo.org.ar/storage/attachments/Resolucion%20Tecnica%20N%2054%20(TO%20RT%2059%20y%20modi-7TbUsld18i.pdf"
+  - "FACPCE, RT 26 (texto ordenado con las RT 29, 38, 43 y 59), adoptada por el CPCE de la Ciudad de Buenos Aires, secciones 1 a 6 (leída el 2026-11-27): https://consejo.org.ar/storage/attachments/RT%2026%20-(TO).pdf-YNObQYdYGF.pdf"
+  - "FACPCE, RT 59, texto adoptado por el CPCE de la Ciudad de Buenos Aires (Res. P. 460/2024), considerandos y Anexo II (leída el 2026-11-27): https://consejo.org.ar/storage/attachments/P.460-2024-RT.%20Nro.%2059.pdf-9Qdk6edKy1.pdf"
+  - "Faccendini y Oubiña, Resolución Técnica 56. Nuevo texto de la RT 54 NUA, Profesional y Empresaria (D&G), agosto de 2023, índice de la norma: https://consejosalta.org.ar/wp-content/uploads/RESOLUCION-TECNICA-56.-NUEVO-TEXTO-DE-LA-RT-54-NUA-2.pdf"
   - "FACPCE, RT 62, adoptada por el CPCE de la Ciudad de Buenos Aires (17 de diciembre de 2025), leída por búsqueda: https://consejo.org.ar/storage/attachments/CD.70-2025-RT%2062.pdf-Quw0asYXHj.pdf"
   - "IFRS Foundation, NIIF 16 Arrendamientos, texto oficial (edición HTML 2026): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs16.html"
   - "Contabilidad/.investigacion/arrendamientos.md (2026-11-27), componente 2"
@@ -17,7 +20,7 @@ revisado:
 
 En Argentina, las empresas que no aplican las NIIF (en general, las que no cotizan) registran los arrendamientos con la RT 54 de la FACPCE, que mantiene la división entre financieros y operativos también para quien toma el bien: el financiero se registra como una compra financiada y el operativo como un gasto, sin activo ni pasivo; las que cotizan aplican la NIIF 16.
 
-Es el caso argentino de los [arrendamientos](arrendamientos.md). Quién emite la RT 54, desde cuándo rige en cada jurisdicción y por qué las que cotizan aplican las NIIF está en [normas contables en Argentina](../Estados-contables/normas-contables-en-argentina.md). La RT 54 se aplica a la entidad que «no aplica la Resolución Técnica Nº 26» (párr. 3), la que adopta las NIIF. El texto leído es el ordenado que adoptó el consejo de la Ciudad de Buenos Aires, con las modificaciones de las RT 59 y 62; la RT 62 no toca esta sección.
+Es el caso argentino de los [arrendamientos](arrendamientos.md). Quién emite la RT 54, desde cuándo rige en cada jurisdicción y por qué las que cotizan aplican las NIIF está en [normas contables en Argentina](../Estados-contables/normas-contables-en-argentina.md). La RT 54 se aplica a la entidad que «no aplica la Resolución Técnica Nº 26» (párr. 3), la que adopta las NIIF. La RT 26 las hace obligatorias para las emisoras de acciones y obligaciones negociables bajo la CNV (su sección 3) y, para todas las demás, deja elegir entre las NIIF, la NIIF para las PYMES y las normas de la FACPCE (su sección 5). Una empresa que no cotiza puede, entonces, registrar sus arrendamientos con la NIIF 16 si opta por las NIIF completas; volver a la RT 54 después le pide «razones fundadas» (su sección 6). El texto leído es el ordenado que adoptó el consejo de la Ciudad de Buenos Aires, con las modificaciones de las RT 59 y 62; la RT 62 no toca esta sección.
 
 ## Financiero u operativo, para las dos partes
 
@@ -82,8 +85,8 @@ La sección remite a las normas de costos, valores corrientes, moneda extranjera
 
 Para lo que la norma no prevé, la RT 54 permite que la dirección forme su juicio con fuentes supletorias, las NIIF primero, siempre que no choquen con la propia norma (párr. 77). Eso no permite aplicar el modelo único de la NIIF 16 en lugar de la clasificación, porque la sección sí lo prevé (lectura propia del párrafo).
 
-Para quien construye un sistema que se vende en Argentina, la consecuencia es que el módulo de arrendamientos tiene que soportar los dos modelos: el de la NIIF 16 para el cliente que cotiza o consolida con una matriz que usa NIIF, y la clasificación de la RT 54 para el resto, con el contrato operativo como una factura de gasto recurrente.
+Para quien construye un sistema que se vende en Argentina, la consecuencia es que el módulo de arrendamientos tiene que soportar los dos modelos: el de la NIIF 16 para el cliente que cotiza, que eligió las NIIF o que consolida con una matriz que las usa, y la clasificación de la RT 54 para el resto, con el contrato operativo como una factura de gasto recurrente.
 
-> [!NOTE] Sin fuente todavía:
-> - El texto de la RT 26 y su alcance exacto (si una entidad que no cotiza puede optar por las NIIF); queda como lo resume [normas contables en Argentina](../Estados-contables/normas-contables-en-argentina.md#las-que-cotizan-aplican-las-niif).
-> - Los fundamentos de la RT 54 sobre por qué mantiene la clasificación para el arrendatario, y con qué resolución se incorporó el párrafo 537A.
+El párrafo 537A (después del reconocimiento, el bien sigue las reglas de su naturaleza) está en el texto ordenado de la RT 59, de 2024; el índice de la RT 56 que publicaron Faccendini y Oubiña en 2023 da para el arrendatario financiero solo los párrafos 536 y 537. Que el 537A haya entrado con la RT 59 es una inferencia de esas dos fuentes, no algo que diga la norma.
+
+> [!NOTE] Sin fuente todavía: por qué la RT 54 mantiene la clasificación para el arrendatario. Se buscó en los textos ordenados de las RT 54 y 59 y en el Anexo II de aclaraciones de la RT 59; los fundamentos de la RT 54 no vienen en esos documentos y no se encontraron publicados aparte. Cómo trata los arrendamientos la NIIF para las PYMES, la otra opción de la RT 26, tampoco se leyó.
