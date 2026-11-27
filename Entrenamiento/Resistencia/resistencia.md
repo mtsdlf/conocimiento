@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Entrenar la resistencia es preparar el cuerpo para sostener un esfuerzo largo, sobre todo aeróbico; esta disciplina toma las piezas generales del entrenamiento (adaptación, capacidades, carga, planificación, evaluación y recuperación) y las vuelve concretas con correr como el caso hondo: zonas de intensidad, cómo repartirlas, los métodos, el plan para una carrera, la técnica y el equipo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -15,7 +15,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC8273688
 aliases: [Endurance, Entrenamiento de resistencia, Running, Correr, Fondo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Resistencia

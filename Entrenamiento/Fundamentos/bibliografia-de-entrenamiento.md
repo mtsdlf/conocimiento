@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de entrenamiento ordenadas por necesidad: los manuales de certificación para armar un plan, los libros del profesorado para entender la tradición, los artículos abiertos que sostienen esta base y las revistas donde se publican, con qué aporta cada uno, qué parte leer y cuánto se leyó.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -19,7 +19,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5856877
 aliases: [libros de entrenamiento, bibliografía del profesorado, lecturas de entrenamiento, por dónde empezar a estudiar entrenamiento, training reading list]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de entrenamiento

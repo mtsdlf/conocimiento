@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Qué se sabía en noviembre de 2026 sobre el equipo de quien corre: cuánto ahorran las zapatillas con placa de carbono, qué tan exacta es la frecuencia cardíaca medida en la muñeca y qué tan cerca anda el VO2max que estima el reloj.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 dueno: familia
 fuentes:
@@ -13,7 +13,7 @@ fuentes:
   - https://www8.garmin.com/manuals/webhelp/GUID-9D99A9D4-467A-4F1A-A0EA-023184FEA3DD/EN-US/GUID-3E971364-A756-4057-B22D-C41250B2A82B.html
 aliases: [Zapatillas de running, Zapatillas con placa de carbono, Super shoes, Reloj GPS, Pulsómetro, Frecuencia cardíaca de muñeca]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calzado y relojes

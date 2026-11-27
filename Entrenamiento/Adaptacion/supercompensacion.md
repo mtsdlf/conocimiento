@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La supercompensación es el modelo clásico de cómo mejora el cuerpo: una carga lo cansa, al recuperarse rebota por encima de donde estaba y, si la carga siguiente llega en ese rebote, la mejora se acumula; hoy se lo trata como una metáfora útil, no como un mecanismo medido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -15,7 +15,7 @@ fuentes:
   - https://researchportal.lih.lu/en/publications/individual-response-to-exercise-training-a-statistical-perspectiv/
 aliases: [supercompensation, modelo fitness-fatiga, fitness-fatigue model, modelo de Banister, síndrome general de adaptación, modelo de dos factores]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Supercompensación

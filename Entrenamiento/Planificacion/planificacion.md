@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La planificación ordena la carga en el tiempo: decide qué se entrena en cada sesión, semana y etapa, cómo se combinan fuerza y resistencia y cuándo se baja para recuperar o para llegar fresco a una fecha.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -14,7 +14,7 @@ fuentes:
   - https://clok.uclan.ac.uk/5138
 aliases: [planificación del entrenamiento, periodización, programación, training planning, programming]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificación

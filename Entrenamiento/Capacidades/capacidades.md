@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las capacidades son las cualidades del movimiento que el entrenamiento puede mejorar: fuerza, resistencia aeróbica, velocidad, movilidad y flexibilidad, y coordinación; la lista es una convención de enseñanza, que cada escuela agrupa distinto, y en la práctica las capacidades se mezclan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -15,7 +15,7 @@ fuentes:
   - https://doi.org/10.1249/mss.0b013e318213fefb
 aliases: [capacidades físicas, capacidades motoras, cualidades físicas, capacidades condicionales, biomotor abilities, componentes de la aptitud física]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Capacidades

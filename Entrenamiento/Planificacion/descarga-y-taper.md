@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El taper es la baja planificada de la carga en los días previos a una competencia para llegar descansado y rendir más, y tiene metaanálisis en atletas; la descarga o deload es una semana liviana cada tantas semanas de gimnasio para disipar la fatiga, y es práctica de entrenadores sin ensayos que la prueben.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -13,7 +13,7 @@ fuentes:
   - https://acsm.org/resistance-training-guidelines-update-2026/
 aliases: [taper, puesta a punto, tapering, descarga, deload, semana de descarga, semana liviana]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Descarga y taper

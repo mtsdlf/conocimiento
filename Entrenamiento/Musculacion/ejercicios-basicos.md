@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los ejercicios básicos de una rutina se ordenan por patrones de movimiento (sentadilla, bisagra de cadera, empuje, tracción, zancada y acarreo), y cada patrón se puede entrenar con poco equipo en casa o con barras y máquinas en el gimnasio; según la ACSM 2026 el equipo pesa poco, y para quien tiene poco tiempo una revisión propone priorizar los ejercicios de varias articulaciones.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -10,7 +10,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/32077380/
 aliases: [patrones de movimiento, movement patterns, ejercicios compuestos, ejercicios multiarticulares, compound exercises, ejercicios de aislamiento, peso libre, máquinas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ejercicios básicos

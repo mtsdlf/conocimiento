@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El desentrenamiento es la pérdida parcial o completa de lo ganado al entrenar cuando se deja o se reduce mucho la carga; la capacidad aeróbica cae antes que la fuerza, y mantener lo ganado pide bastante menos trabajo que conseguirlo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -12,7 +12,7 @@ fuentes:
   - https://www.scmp.com/lifestyle/health-beauty/article/1832067/dont-worry-stopping-exercise-wont-turn-muscle-fat
 aliases: [detraining, reversibilidad, pérdida de forma, mantenimiento, parate]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desentrenamiento

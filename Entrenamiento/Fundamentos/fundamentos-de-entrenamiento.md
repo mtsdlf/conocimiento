@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que cruza todo el tema de Entrenamiento sin ser una parte de él: de dónde viene la teoría y qué escuelas conviven, los mitos que no se sostienen, cómo elegir un plan o un entrenador, qué leer y el vocabulario con su equivalente en inglés.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -12,7 +12,7 @@ fuentes:
   - https://acsm.org/resistance-training-guidelines-update-2026/
 aliases: [fundamentos del entrenamiento, teoría del entrenamiento, training fundamentals]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de entrenamiento

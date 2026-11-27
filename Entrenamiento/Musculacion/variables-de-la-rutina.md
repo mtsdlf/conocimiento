@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una rutina de gimnasio se arma con pocas perillas: cuántas series, cuántas repeticiones y con qué carga, qué tan cerca del límite termina cada serie (las repeticiones en reserva, RIR), cuánto se descansa entre series y cuántas veces por semana se entrena cada músculo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -19,7 +19,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/39960821/
 aliases: [RIR, repeticiones en reserva, repetitions in reserve, RPE, series, repeticiones, RM, repetición máxima, descanso entre series, frecuencia de entrenamiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Variables de la rutina

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los métodos de resistencia son las formas de armar una sesión: continuo (un esfuerzo parejo, suave o de umbral), por intervalos (tramos intensos con pausas), fartlek, cuestas y tirada larga; cada uno combina de otra manera la intensidad y la duración, y según una revisión, en corredores recreativos el continuo parece mejorar más la economía, mientras que para la salud y la grasa los intervalos piden menos tiempo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -13,7 +13,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/36981649/
 aliases: [Métodos de entrenamiento de la resistencia, Interval training, HIIT, HIT, Entrenamiento continuo, Fartlek, Cuestas, Tirada larga, Long run]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Métodos de resistencia

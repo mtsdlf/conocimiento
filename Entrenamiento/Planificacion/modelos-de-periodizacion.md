@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un modelo de periodización es una regla para cambiar la carga a lo largo de las semanas: la clásica o lineal va de mucho volumen a mucha intensidad, la ondulante alterna dentro de la semana y la de bloques concentra pocas capacidades por etapa; en fuerza, periodizar da una ventaja chica en fuerza máxima y ninguna en músculo, y ningún modelo le gana claro a otro.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -18,7 +18,7 @@ fuentes:
   - https://acsm.org/resistance-training-guidelines-update-2026/
 aliases: [periodización, periodización lineal, periodización clásica, periodización ondulante, periodización en bloques, periodization, linear periodization, undulating periodization, block periodization, DUP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelos de periodización

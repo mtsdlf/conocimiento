@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La recuperación es lo que pasa entre una sesión y la siguiente, cuando el cuerpo repara la fatiga y se adapta; sin ella la carga no se convierte en mejora sino en cansancio acumulado, enfermedad o lesión, y en ella pesan el sueño, comer lo suficiente y cómo se dosifica la carga.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -13,7 +13,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/37752011/
 aliases: [recuperación del entrenamiento, descanso, recovery]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recuperación

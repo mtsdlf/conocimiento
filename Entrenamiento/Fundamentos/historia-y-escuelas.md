@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La teoría del entrenamiento que se enseña en el profesorado se ordenó en la escuela soviética con Matveyev y su periodización de los años sesenta, aunque el título de origen se discute, y en los programas argentinos aparece con los libros de Platonov, Bompa, Weineck y Verkhoshansky; la ciencia del ejercicio basada en ensayos y metaanálisis la pone a prueba, y Kiely discute desde 2012 sus supuestos de fondo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -18,7 +18,7 @@ fuentes:
   - https://users.metu.edu.tr/settar/tto8.htm
 aliases: [historia del entrenamiento, escuela soviética, teoría y metodología del entrenamiento, escuelas de entrenamiento, history of training theory]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia y escuelas

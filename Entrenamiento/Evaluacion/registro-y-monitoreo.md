@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Registrar es anotar en cada sesión lo que se hizo y cómo se sintió, y monitorear es leer esas anotaciones como tendencia para ajustar la carga; las medidas subjetivas simples, como un cuestionario de bienestar, siguen la carga mejor que muchas medidas objetivas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -12,7 +12,7 @@ fuentes:
   - https://researchportal.lih.lu/en/publications/individual-response-to-exercise-training-a-statistical-perspectiv/
 aliases: [diario de entrenamiento, monitoreo de la carga, training log, bienestar subjetivo, HRV, variabilidad de la frecuencia cardíaca]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registro y monitoreo

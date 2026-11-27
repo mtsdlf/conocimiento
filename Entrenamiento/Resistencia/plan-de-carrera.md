@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un plan de carrera ordena las semanas que llevan a una distancia en una fecha: para pasar de 0 a 5 km se alterna caminar y correr y se sube de a poco, y para ir de 10 a 21 km se arma la semana alrededor de una tirada larga, rodajes suaves y una o dos sesiones de calidad; la estructura viene de entrenadores, no de ensayos, y la regla del 10 % para progresar no tiene respaldo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -18,7 +18,7 @@ fuentes:
   - Pfitzinger y Douglas, Faster Road Racing, Human Kinetics (no consultado directamente)
 aliases: [Plan de entrenamiento para correr, Plan de 5K, Plan de 10K, Plan de media maratón, Couch to 5K, Regla del 10 %]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plan de carrera

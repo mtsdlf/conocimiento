@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La adaptación es cómo el cuerpo cambia para tolerar mejor una carga que se le repite: saca la energía de varias vías a la vez, se cansa, se recupera y queda algo más capaz, mejora sobre todo en lo que practica y pierde lo ganado si deja de entrenar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -14,7 +14,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/15947721/
 aliases: [adaptación al entrenamiento, training adaptation, principios biológicos del entrenamiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Adaptación

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La especificidad es que el cuerpo mejora sobre todo en lo que practica: la fuerza pesada da fuerza máxima, el trabajo largo da resistencia y una habilidad se aprende practicándola; lo entrenado se transfiere a otras tareas, pero menos cuanto más distintas son.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -15,7 +15,7 @@ fuentes:
   - https://alphaprogression.com/en/glossary/specificity-principle
 aliases: [principio de especificidad, SAID, specificity, transferencia, transfer of training]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Especificidad

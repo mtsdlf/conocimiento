@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La flexibilidad es el rango de movimiento de una articulación y la movilidad, el control de ese rango; estirar con regularidad lo aumenta, estirar justo antes de un esfuerzo puede restar algo de rendimiento si es estático y largo, y estirar no tiene efecto claro sobre las lesiones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -17,7 +17,7 @@ fuentes:
   - https://link.springer.com/article/10.1186/1741-7015-10-75
 aliases: [flexibilidad, movilidad, elongación, estiramiento, stretching, rango de movimiento, ROM, amplitud de movimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Movilidad y flexibilidad

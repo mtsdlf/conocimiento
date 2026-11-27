@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La técnica de carrera que más se discute es la cadencia, los pasos por minuto, y la pisada, qué parte del pie toca primero el suelo; subir un poco la cadencia baja la carga en rodilla y cadera, pero que eso prevenga lesiones no está probado, y un metaanálisis desaconseja cambiar la pisada en un corredor sano; para la zapatilla, una revisión propone como criterio la comodidad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -18,7 +18,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC8959543
 aliases: [Running technique, Cadencia, Cadence, Step rate, Frecuencia de paso, Pisada, Foot strike, Talón, Antepié, Comfort filter]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Técnica de carrera

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La carga externa es el trabajo que se hizo (kilómetros, kilos, repeticiones) y la carga interna es lo que ese trabajo le costó al cuerpo (el esfuerzo percibido, la frecuencia cardíaca); mirar las dos juntas muestra si una persona tolera lo que el plan le pide.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -18,7 +18,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/40623829/
 aliases: [internal load, external load, RPE, esfuerzo percibido, escala de Borg, sRPE, session RPE, carga de la sesión, ACWR, ratio aguda:crónica, TRIMP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Carga interna y externa

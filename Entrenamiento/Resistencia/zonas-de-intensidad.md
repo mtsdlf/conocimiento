@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las zonas de intensidad son franjas de esfuerzo que se cortan a partir de dos umbrales fisiológicos, el primero donde el cuerpo empieza a salir de su equilibrio y el segundo donde la fatiga se acelera; se estiman por ritmo, frecuencia cardíaca o esfuerzo percibido, y anclarlas a esos umbrales tiene más fundamento que anclarlas a un porcentaje del máximo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -16,7 +16,7 @@ fuentes:
   - Daniels, Daniels' Running Formula, Human Kinetics, cap. 4 (no consultado directamente)
 aliases: [Training zones, Zonas de entrenamiento, Zonas de frecuencia cardíaca, Umbral de lactato, Umbral ventilatorio, VT1, VT2, Dominios de intensidad]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Zonas de intensidad

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los ciclos son las unidades de tiempo en que se ordena el entrenamiento: la sesión, el microciclo (por lo general una semana), el mesociclo (un bloque de varias semanas con un objetivo) y el macrociclo (la temporada o el año).
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -13,7 +13,7 @@ fuentes:
   - https://link.springer.com/article/10.1186/s40798-024-00691-y
 aliases: [macrociclo, mesociclo, microciclo, sesión de entrenamiento, macrocycle, mesocycle, microcycle, training session]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ciclos

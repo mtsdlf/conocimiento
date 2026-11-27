@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos que usan las notas de Entrenamiento, cada uno con su equivalente en inglés, una definición corta y la nota que lo desarrolla, ordenados según las partes del tema.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -16,7 +16,7 @@ fuentes:
   - https://www.frontiersin.org/articles/10.3389/fphys.2021.682233/full
 aliases: [glosario, términos de entrenamiento, vocabulario de entrenamiento, glossary of training, training glossary]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de entrenamiento

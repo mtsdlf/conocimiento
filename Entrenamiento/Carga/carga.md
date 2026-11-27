@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La carga es la cantidad de entrenamiento que recibe el cuerpo: lo que se hace, medido en volumen, intensidad, densidad y frecuencia, y lo que eso le cuesta a quien lo hace; es la dosis que provoca la adaptación y, mal manejada, la lesión.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -12,7 +12,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/26758673/
 aliases: [carga de entrenamiento, training load, dosis de entrenamiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Carga

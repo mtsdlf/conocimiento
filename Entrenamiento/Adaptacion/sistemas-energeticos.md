@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los sistemas energéticos son las tres vías con que el músculo recarga su energía, una inmediata, una rápida sin oxígeno y una lenta con oxígeno; trabajan a la vez en casi todo esfuerzo, y la duración y la intensidad deciden cuál aporta más.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -12,7 +12,7 @@ fuentes:
   - https://research.birmingham.ac.uk/en/publications/determination-of-the-exercise-intensity-that-elicits-maximal-fat-
 aliases: [energy systems, bioenergética, vías metabólicas, sistema aeróbico, sistema anaeróbico, sistema de fosfágenos, glucólisis]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sistemas energéticos

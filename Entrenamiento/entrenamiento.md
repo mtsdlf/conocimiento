@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Entrenar es aplicarle al cuerpo una carga planificada para que se adapte y pueda más; esta base lo explica primero al nivel de las decisiones y después baja a cómo funciona en cualquier disciplina y a dos disciplinas concretas, la resistencia (correr) y la musculación en el gimnasio.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -11,7 +11,7 @@ fuentes:
   - https://www.nsca.com/essentials-strength/
 aliases: [Teoría del entrenamiento, Entrenamiento deportivo, Educación física, Training]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Entrenamiento

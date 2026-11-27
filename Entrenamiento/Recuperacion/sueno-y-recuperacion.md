@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El sueño pesa en la recuperación: dormir poco baja el rendimiento y, de forma habitual, sube el riesgo de infecciones; el masaje, la compresión y el frío reducen el dolor muscular y la fatiga percibida, pero no se sabe bien cuánto mejoran el rendimiento siguiente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -9,7 +9,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/29755363/
 aliases: [sueño y deporte, medios de recuperación, masaje, crioterapia, baño de hielo, compresión, DOMS]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sueño y recuperación

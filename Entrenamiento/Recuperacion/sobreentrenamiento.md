@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El sobreentrenamiento es el extremo de un continuo de fatiga: una caída breve del rendimiento que se recupera es parte del entrenamiento, mientras que una desadaptación prolongada es un problema que pide consultar; comer menos energía de la que el entrenamiento gasta produce otro cuadro, que hoy se llama REDs.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -14,7 +14,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/26423706/
 aliases: [overtraining, síndrome de sobreentrenamiento, OTS, overreaching, sobrecarga funcional, sobrecarga no funcional, REDs, RED-S, deficiencia de energía relativa en el deporte, baja disponibilidad energética]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sobreentrenamiento

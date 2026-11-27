@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La velocidad es la capacidad de moverse o reaccionar lo más rápido posible; depende mucho de la genética, se apoya en la fuerza y la potencia, que sí se entrenan y se transfieren al sprint, y para adultos que no compiten tiene poca evidencia propia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -14,7 +14,7 @@ fuentes:
   - https://acsm.org/resistance-training-guidelines-update-2026/
 aliases: [speed, rapidez, sprint, velocidad de reacción, aceleración]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Velocidad

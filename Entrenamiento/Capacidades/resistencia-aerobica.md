@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La resistencia aeróbica es la capacidad de sostener un esfuerzo largo usando oxígeno; depende de tres factores, el consumo máximo de oxígeno, el umbral de lactato y la economía del movimiento, mejora con trabajo continuo y con intervalos, y se asocia fuertemente con vivir más.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -13,7 +13,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/10966148/
 aliases: [resistencia, resistencia cardiorrespiratoria, aptitud cardiorrespiratoria, endurance, aerobic endurance, capacidad aeróbica, VO2max, umbral de lactato, economía de carrera]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Resistencia aeróbica

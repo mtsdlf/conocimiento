@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los componentes de la carga son las magnitudes con que la teoría clásica del entrenamiento describe una dosis: el volumen (cuánto), la intensidad (qué tan fuerte), la densidad (cuánto descanso entre esfuerzos) y la frecuencia (cada cuánto); cambiar uno cambia la carga aunque los otros queden igual.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -11,7 +11,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/30614348/
 aliases: [variables de la carga, volumen e intensidad, densidad de la carga, FITT, frecuencia intensidad tiempo tipo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Componentes de la carga

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un tipo de rutina es la forma de repartir los músculos entre los días de la semana (cuerpo completo, torso y pierna, empuje-tracción-pierna, un grupo por día); con el volumen semanal igualado la división casi no cambia los resultados, así que se elige por los días disponibles y por cuál permite entrenar cada músculo al menos dos veces.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -13,7 +13,7 @@ fuentes:
   - https://acsm.org/resistance-training-guidelines-update-2026/
 aliases: [split, full body, cuerpo completo, torso-pierna, upper-lower, push-pull-legs, PPL, empuje-tracción-pierna, rutina dividida, weider]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tipos de rutina

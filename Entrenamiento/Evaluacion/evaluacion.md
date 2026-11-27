@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación es cómo se sabe si el entrenamiento funciona: tests que miden una capacidad en un momento y un registro continuo de lo que se hizo y cómo se sintió; sirve para ajustar la carga a la respuesta de cada persona y no al plan escrito.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -11,7 +11,7 @@ fuentes:
   - https://researchportal.lih.lu/en/publications/individual-response-to-exercise-training-a-statistical-perspectiv/
 aliases: [evaluación del entrenamiento, monitoreo, testeo, control del entrenamiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación

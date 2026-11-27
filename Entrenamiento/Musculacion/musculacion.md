@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La musculación es el entrenamiento con cargas en el gimnasio o en casa para ganar fuerza y músculo; aplica la teoría general con sus propias unidades (series, repeticiones, kilos y repeticiones en reserva) y su resultado depende sobre todo de juntar suficientes series cerca del límite, subir la carga de a poco y sostenerlo, no de la rutina elegida.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -12,7 +12,7 @@ fuentes:
   - https://research.usc.edu.au/esploro/outputs/journalArticle/The-Epidemiology-of-Injuries-Across-the/99451096702621
 aliases: [entrenamiento de fuerza, entrenamiento con pesas, pesas, gimnasio, resistance training, strength training, weight training]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Musculación

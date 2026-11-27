@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La hipertrofia es el crecimiento del músculo por entrenamiento; la estimula sobre todo la tensión mecánica de series que terminan cerca del límite, crece con las series semanales hasta que la curva se aplana y depende poco de la carga elegida.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -18,7 +18,7 @@ fuentes:
   - https://bretcontreras.com/wp-content/uploads/Is-Postexercise-Muscle-Soreness-a-Valid-Indicator-of-Muscular-Adaptations.pdf
 aliases: [hypertrophy, crecimiento muscular, ganar masa muscular, tensión mecánica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hipertrofia

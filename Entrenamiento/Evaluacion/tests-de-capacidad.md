@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un test de capacidad mide en un día dado cuánto puede una persona en una capacidad, como el peso máximo en un ejercicio o el tiempo en una distancia; sirve para fijar el punto de partida, dosificar la intensidad y ver si el entrenamiento funcionó, siempre que se repita igual.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -10,7 +10,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/32729096/
 aliases: [test de campo, 1RM, repetición máxima, test de fuerza máxima, evaluación física]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tests de capacidad

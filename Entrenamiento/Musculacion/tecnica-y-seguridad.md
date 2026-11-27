@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Levantar pesas lesiona poco comparado con los deportes de equipo; la técnica importa para cargar bien el músculo y no tanto por reglas rígidas como no pasar las rodillas de la punta de los pies, el rango de movimiento completo suele rendir más que el parcial, y contener la respiración con mucha carga sube mucho la presión arterial.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -19,7 +19,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/7741618/
 aliases: [rango de movimiento, range of motion, ROM, maniobra de Valsalva, rodillas por delante de los pies, lesiones en el gimnasio]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Técnica y seguridad

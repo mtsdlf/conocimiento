@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las capacidades coordinativas son las que permiten controlar y ajustar el movimiento, como el equilibrio, el ritmo, la orientación y la reacción; la escuela alemana cuenta cinco o siete, la clasificación se discute, y lo que tiene evidencia para un adulto es practicar equilibrio, agilidad y habilidades variadas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -15,7 +15,7 @@ fuentes:
   - https://doi.org/10.1038/s41598-024-65753-3
 aliases: [coordinación, capacidades coordinativas, koordinative Fähigkeiten, equilibrio, agilidad, ejercicio neuromotor, habilidades motoras]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Capacidades coordinativas

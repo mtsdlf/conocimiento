@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La fuerza es la capacidad de ejercer fuerza contra una resistencia externa; se manifiesta como fuerza máxima, como potencia (fuerza aplicada rápido) y como resistencia muscular, mejora con trabajo contra resistencia que progresa y se asocia con menos lesiones y menos mortalidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
@@ -16,7 +16,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/21131862/
 aliases: [fuerza muscular, muscular strength, fuerza máxima, potencia, fuerza explosiva, resistencia muscular, tasa de desarrollo de fuerza, RFD]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuerza

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Progresar en el gimnasio es subir la exigencia de cada ejercicio a medida que se vuelve fácil, sumando repeticiones dentro de un rango y después carga, o ajustándola por las repeticiones en reserva; cuando el progreso se frena, se revisa el registro, la recuperación y la comida antes de cambiar de rutina.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -15,7 +15,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/21131862/
 aliases: [sobrecarga progresiva, progressive overload, doble progresión, double progression, autorregulación, autoregulation, meseta, estancamiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Progresión en el gimnasio

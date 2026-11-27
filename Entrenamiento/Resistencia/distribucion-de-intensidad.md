@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La distribución de la intensidad es cómo se reparte el entrenamiento de una semana entre las zonas suave, media e intensa; los atletas de élite hacen la gran mayoría suave, pero en recreativos no está probado que un reparto (polarizado, piramidal o de umbral) sea mejor que otro.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -13,7 +13,7 @@ fuentes:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6582670/
 aliases: [Training intensity distribution, TID, Entrenamiento polarizado, 80/20, Polarized training, Entrenamiento piramidal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Distribución de la intensidad
