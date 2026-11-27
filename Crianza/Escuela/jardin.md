@@ -31,7 +31,7 @@ La Ley 27.045, de 2015, modificó la Ley de Educación Nacional ([texto](https:/
 
 Así, la sala de 4 y la de 5 son obligatorias, y la de 3 y el jardín maternal son opcionales. Un proyecto presentado en 2025 en Diputados propone derogar la ley ([proyecto 0490-D-2025](https://www4.hcdn.gob.ar/dependencias/dsecretaria/Periodo2025/PDF2025/TP2025/0490-D-2025.pdf)); su estado no se verificó, así que conviene confirmar la norma vigente.
 
-La obligatoriedad es una decisión política, no la conclusión de un estudio sobre la mejor edad para empezar.
+La obligatoriedad es una norma, no la conclusión de un estudio sobre la mejor edad para empezar.
 
 ## Cuántos chicos van
 
@@ -50,7 +50,7 @@ Las cifras de sala de 3 cuentan solo ofertas educativas, no otras instituciones 
 Que el jardín ayude o no depende de cómo es. La evidencia viene casi toda de Estados Unidos, de programas distintos del nivel inicial argentino.
 
 > [!IMPORTANT]
-> Los estudios discrepan. Un consenso de investigadores (Yoshikawa y otros, 2013) concluye que los programas públicos a gran escala pueden tener efectos positivos sustanciales en el aprendizaje temprano, también en chicos de clase media, y que la calidad depende del apoyo a los docentes ([Investing in Our Future](https://fpg.unc.edu/publications/investing-our-future-evidence-base-preschool-education), según su resumen). En cambio, el ensayo aleatorizado del programa estatal de Tennessee (Durkin y otros, 2022) halló que los chicos asignados al pre-K tenían puntajes más bajos en las pruebas de tercero a sexto grado, más infracciones disciplinarias y más uso de educación especial ([Developmental Psychology](https://pubmed.ncbi.nlm.nih.gov/35007113/), según su resumen). Tennessee es un programa de calidad variable; el ensayo es uno de los pocos aleatorizados y pesa.
+> Los estudios discrepan. Un consenso de investigadores (Yoshikawa y otros, 2013) concluye que los programas públicos a gran escala pueden tener efectos positivos sustanciales en el aprendizaje temprano, también en chicos de clase media, y que la calidad depende del apoyo a los docentes ([Investing in Our Future](https://fpg.unc.edu/publications/investing-our-future-evidence-base-preschool-education), según su resumen). En cambio, el ensayo aleatorizado del programa estatal de Tennessee (Durkin y otros, 2022) halló que los chicos asignados al pre-K tenían puntajes más bajos en las pruebas de tercero a sexto grado, más infracciones disciplinarias y más uso de educación especial ([Developmental Psychology](https://pubmed.ncbi.nlm.nih.gov/35007113/), según su resumen). Tennessee es un programa estatal de calidad variable, y el ensayo es aleatorizado.
 
 El estudio del NICHD siguió a 958 familias hasta los 15 años (Vandell y otros, 2010). Una mayor calidad del cuidado temprano predijo mejor desempeño académico y menos problemas de conducta a los 15; más horas en cuidado se asociaron con más conductas de riesgo e impulsividad ([Child Development](https://pmc.ncbi.nlm.nih.gov/articles/PMC2938040), según su resumen). Es observacional: las familias que eligen más o menos horas son distintas entre sí.
 
@@ -58,7 +58,7 @@ Los efectos académicos de los programas tempranos, además, tienden a desvanece
 
 ## A qué edad empezar
 
-Ninguna de las fuentes leídas fija una edad óptima de ingreso al jardín maternal o a la sala de 3 para un chico que en casa tiene un ambiente rico. La decisión depende de cosas que la evidencia no resuelve: el trabajo de los padres, quién cuida en casa ([cuidadores](../Vinculo/cuidadores.md)), cuántas horas serían y cómo es el jardín disponible. Lo que sí se sabe es que la calidad pesa más que la edad, y que el NICHD asoció muchas horas con más problemas de conducta.
+Ninguna de las fuentes leídas fija una edad óptima de ingreso al jardín maternal o a la sala de 3 para un chico que en casa tiene un ambiente rico. Las fuentes no lo resuelven, así que la decisión depende de cosas como el trabajo de los padres, quién cuida en casa ([cuidadores](../Vinculo/cuidadores.md)), cuántas horas serían y cómo es el jardín disponible. Lo que sí se sabe es que la calidad pesa más que la edad, y que el estudio del NICHD asoció más horas de cuidado con más conducta de riesgo e impulsividad a los 15 años.
 
 > [!NOTE]
 > Sin fuente todavía: evidencia argentina sobre el impacto del nivel inicial y sobre la edad de ingreso, y el informe del Ministerio de Educación y UNICEF sobre calidad del nivel inicial.

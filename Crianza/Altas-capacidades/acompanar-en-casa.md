@@ -42,8 +42,8 @@ Ninguno de esos elementos es exclusivo de los chicos adelantados. Coinciden con 
 1. Mirá qué elige cuando nadie le propone nada. Ese es el interés que vale la pena seguir.
 2. Respondé sus preguntas con otra pregunta o con un libro, y dejá que él marque hasta dónde llega.
 3. Ofrecé materiales abiertos (bloques, papel, objetos de la casa) antes que juguetes que hacen una sola cosa ([juguetes y materiales](../Juego-y-aprendizaje/juguetes-y-materiales.md)).
-4. Si pierde el interés, soltalo. A esta edad un interés intenso puede durar semanas y cambiar.
-5. Dejale tiempo sin actividades. Un chico adelantado también necesita aburrirse, jugar solo y no tener un programa ([actividades](../Juego-y-aprendizaje/actividades.md)).
+4. Si pierde el interés, soltalo y seguí el siguiente.
+5. Dejale tiempo sin actividades, para jugar solo y sin programa (propuesta de la nota, sin fuente propia) ([actividades](../Juego-y-aprendizaje/actividades.md)).
 
 Estos pasos aplican la lista de la NAGC; no hay estudios que comparen formas de hacerlo.
 
@@ -60,7 +60,7 @@ Cómo elogiar en la práctica está en [elogio y mentalidad](../Emociones-y-cara
 
 ## Lo que no hace falta comprar
 
-No hay fuente que muestre que un programa, una app o un método convierta a un chico en uno con altas capacidades. Lo que sí está estudiado son las promesas más conocidas: el "efecto Mozart" no mostró, en un metaanálisis de 39 estudios y 3.109 participantes, una mejora cognitiva que sirva para esto (Pietschnig y otros, 2010, según el comunicado de su universidad). Lo demás está en [estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md) y [mitos de crianza](../Fundamentos/mitos-de-crianza.md).
+No hay fuente que muestre que un programa, una app o un método convierta a un chico en uno con altas capacidades. Lo que sí está estudiado son las promesas más conocidas: el "efecto Mozart" no mostró, en un metaanálisis de 39 estudios y 3.109 participantes, una mejora cognitiva que sirva para esto (Pietschnig y otros, 2010, según el comunicado de su universidad; otra lectura del mismo metaanálisis ve una mejora chica y breve en tareas espaciales). Lo demás está en [estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md) y [mitos de crianza](../Fundamentos/mitos-de-crianza.md).
 
 Con un chico adelantado la tentación de sobreestimular es mayor, y el costo, aunque sin estudios propios, es fácil de ver: menos tiempo de juego libre y el mensaje de que lo que se valora de él es rendir ([riesgos](riesgos.md)).
 
@@ -70,4 +70,4 @@ Muchos textos de divulgación describen a estos chicos como "intensos" o "sobree
 
 ## Sus pares y sus adultos
 
-La NAGC pide las dos clases de pares: chicos de su edad, con los que aprende a jugar, esperar y compartir, y chicos con sus intereses, con los que puede hablar de lo que le apasiona. En casa eso se traduce en plazas, cumpleaños y también en algún taller o grupo de su interés. La coherencia entre los adultos que lo cuidan importa igual que con cualquier chico ([cuidadores](../Vinculo/cuidadores.md)).
+La NAGC pide las dos clases de pares: chicos de su edad, y chicos con sus intereses, con los que puede hablar de lo que le apasiona. En casa eso se traduce en plazas, cumpleaños y también en algún taller o grupo de su interés. Sobre los adultos que lo cuidan, ver [cuidadores](../Vinculo/cuidadores.md).

@@ -24,19 +24,19 @@ Las señales de alarma del desarrollo son lo que justifica consultar sin esperar
 
 ## Las tres señales que piden consultar
 
-El CDC y la SAP coinciden en tres motivos, cada uno suficiente por sí solo:
+El CDC y la SAP dan tres motivos para consultar:
 
-1. **No cumplir uno o más hitos de la edad.** El CDC: "Don't wait. If your child is not meeting one or more milestones, has lost skills he or she once had, or you have other concerns, act early." Como sus hitos son los que alcanza el 75 % o más de los chicos, no cumplir uno ya es motivo para preguntar ([dominios e hitos](dominios-e-hitos.md)).
+1. **No cumplir uno o más hitos de la edad.** El CDC pide actuar temprano, sin esperar, si el chico no cumple uno o más hitos, perdió habilidades que tenía o hay otra preocupación (según su resumen). Como sus hitos son los que alcanza el 75 % o más de los chicos, no cumplir uno ya es motivo para preguntar ([dominios e hitos](dominios-e-hitos.md)).
 2. **Perder algo que ya hacía (regresión).** La guía SAP pide evaluación cuando el desarrollo no sigue la trayectoria típica "ya sea por retraso, desviación o regresión", con un ejemplo: "un niño que hablaba y dejó de hacerlo o que perdió interés por la interacción social o el contacto visual".
 3. **Una preocupación de los padres.** Según la SAP, "si un padre refiere preocupaciones acerca de algún aspecto del desarrollo, hay un 80% de probabilidades de que el niño efectivamente tenga un problema del desarrollo". La cifra viene de esa sola guía, que cita otros estudios. La misma guía advierte que la falta de preocupación de los padres "no garantiza la inexistencia de problemas".
 
-De la lectura de la guía SAP se desprende que la regresión, la falta de atención conjunta y la preocupación de los padres pesan más que un hito aislado que llega tarde; la guía no lo formula así, es una inferencia. La SAP no publica las pautas de alarma en una tabla: las da en forma narrativa.
+De la lectura de la guía SAP se desprende que la regresión, la falta de atención conjunta y la preocupación de los padres pesan más que un hito aislado que llega tarde; la guía no lo formula así, es una inferencia. En la guía de la SAP de 2017 no encontramos las pautas de alarma en una tabla: las da en forma narrativa.
 
 ## Señales del lenguaje
 
 El lenguaje es donde más dudas aparecen. La guía SAP da dos referencias concretas. Usar 4 a 6 palabras a los 24 meses, con buena atención conjunta y gestos, es un ejemplo de retraso del lenguaje. La falta de atención conjunta (no mirar lo que el adulto señala, no señalar para mostrar) junto con lenguaje verbal sugiere un desvío. Cómo se aprende a hablar está en [adquisición del lenguaje](adquisicion-del-lenguaje.md).
 
-En chicos bilingües, la AAP indica que un problema del habla o del lenguaje "aparecerá en todos los idiomas que utilice": no hay que esperar por el hecho de que aprenda dos idiomas ([crianza bilingüe](crianza-bilingue.md)). En Argentina, quien evalúa el habla es el fonoaudiólogo, en general derivado por el pediatra. Es una sola fuente.
+En chicos bilingües, la AAP indica que un problema del habla o del lenguaje "aparecerá en todos los idiomas que utilice": no hay que esperar por el hecho de que aprenda dos idiomas ([crianza bilingüe](crianza-bilingue.md)). En Argentina, el profesional del habla es el fonoaudiólogo. Lo de los idiomas es una sola fuente.
 
 ## Mirar, medir y diagnosticar
 

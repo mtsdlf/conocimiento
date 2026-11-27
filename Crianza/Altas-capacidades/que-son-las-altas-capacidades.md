@@ -37,11 +37,11 @@ Los modelos que hoy usan las escuelas parten de otro lado:
 |---|---|---|
 | Corte de CI | Un puntaje por encima de un umbral | Es simple, pero antes de los 7 años el puntaje es poco estable |
 | Tres anillos (Renzulli) | Capacidad por encima de la media, creatividad y compromiso con la tarea, que coinciden en ciertos momentos | La superdotación se muestra "en ciertas personas, en ciertos momentos y en ciertas circunstancias"; se habla de conductas, no de un rasgo poseído |
-| Dotación y talento (Gagné) | Separa la dotación, el potencial natural, del talento, el rendimiento desarrollado de forma sistemática | Entre los dos median catalizadores: el ambiente, la familia, la escuela y el propio chico |
+| Dotación y talento (Gagné) | Separa la dotación, el potencial natural, del talento, el rendimiento desarrollado de forma sistemática | Entre los dos median "catalizadores" que el resumen leído no detalla |
 
-Lo de Renzulli y Gagné viene de resúmenes de sus modelos, no de los textos originales. Un resumen universitario nota que los tres anillos identifican sobre todo a los que Gagné llamaría "talentosos", y que los chicos que entran y salen de esos momentos serían, para Gagné, dotados que todavía no convierten el potencial en talento.
+Lo de Renzulli y Gagné viene de resúmenes de sus modelos, no de los textos originales, y lo que mira cada anillo no estaba en el resumen leído: es lo habitual del modelo. Un resumen universitario nota que los tres anillos identifican sobre todo a los que Gagné llamaría "talentosos", y que los chicos que entran y salen de esos momentos serían, para Gagné, dotados que todavía no convierten el potencial en talento.
 
-Para una familia, lo útil de Gagné es la distinción: un chico de 4 años puede tener mucho potencial y ningún talento desarrollado todavía, y lo que pasa en casa y en el jardín es parte de lo que lo convierte o no.
+Para una familia, lo útil de Gagné es la distinción: un chico de 4 años puede tener mucho potencial y ningún talento desarrollado todavía, y es razonable pensar que lo que pasa en casa y en el jardín influye en que lo convierta; es una deducción nuestra.
 
 > [!NOTE]
 > Sin fuente todavía: el modelo de Sternberg (triárquico y WICS), que algunos textos en castellano citan, no tiene fuente revisada en esta base.
@@ -65,6 +65,6 @@ No hay una cifra confiable, porque depende de la definición.
 
 ## Lo que muestran los estudios largos
 
-Los dos grandes estudios longitudinales siguen a chicos identificados en edad escolar, no en el jardín. El de Terman refutó el mito "early ripe, early rot", que lo brillante temprano se pudre pronto ([riesgos](riesgos.md)). El Study of Mathematically Precocious Youth (SMPY), iniciado por Stanley en 1971, siguió a más de 5.000 participantes en cinco cohortes y contradice la idea de un techo de capacidad entre los más altos (Lubinski y Benbow, 2006, según su resumen). Ninguno de los dos dice qué pasa con un chico identificado a los 3 o 4 años.
+Dos estudios longitudinales conocidos son el de Terman y el SMPY. El de Terman refutó el mito "early ripe, early rot", que lo brillante temprano se pudre pronto ([riesgos](riesgos.md)). El Study of Mathematically Precocious Youth (SMPY), iniciado por Stanley en 1971, siguió a más de 5.000 participantes en cinco cohortes y contradice la idea de un techo de capacidad entre los más altos (Lubinski y Benbow, 2006, según su resumen). El SMPY siguió a adolescentes identificados por tests; no encontramos un estudio equivalente con chicos de 2 a 6 años.
 
 Para leer más: el sitio de Renzulli en la Universidad de Connecticut explica los tres anillos en una página; fijarse en la parte de "conductas" contra "rasgo".

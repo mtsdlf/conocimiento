@@ -24,6 +24,7 @@ Por eso los debates de carne roja, grasas saturadas y calorías siguen abiertos 
 ## Qué hay en los fundamentos
 
 - [Escuelas de nutrición](escuelas-de-nutricion.md) — los marcos con que se decide qué es comer bien (alimentos, nutrientes, procesamiento, energía, patrón vegetal, conducta) y la evidencia de cada uno.
-- [Evidencia en nutrición](evidencia-en-nutricion.md) — por qué es difícil saber qué es sano: observacionales contra ensayos, cuestionarios, la crítica de Ioannidis y los debates de carne roja, grasas saturadas y calorías. Leerla antes de creer un titular.
+- [Evidencia en nutrición](evidencia-en-nutricion.md) — por qué es difícil saber qué es sano: observacionales contra ensayos, cuestionarios, la crítica de Ioannidis y cómo leer un titular. Leerla antes de creer uno.
+- [Debates de nutrición](debates-de-nutricion.md) — carne roja y NutriRECS, grasas saturadas y la Cochrane de 2020, y Hall contra Ludwig sobre las calorías, con las cifras de cada lado.
 - [Fuentes sobre nutrición](fuentes-sobre-nutricion.md) — cuánto pesa cada tipo de fuente y qué leer para empezar, con la parte que conviene.
 - [Glosario de nutrición](glosario-de-nutricion.md) — los términos de la base, cada uno con la nota que lo desarrolla.

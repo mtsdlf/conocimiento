@@ -21,7 +21,7 @@ revisado:
 
 El desarrollo asincrónico es el desfase entre áreas que se ve en muchos chicos adelantados: piensan o hablan como chicos más grandes y se emocionan, se mueven o se relacionan como los de su edad.
 
-Un ejemplo típico lo da el Departamento de Educación de New Jersey: un chico de 5 años que lee como uno de 9 y tiene la motricidad fina de uno de 5. Lo que entiende va cuatro años adelante de lo que puede hacer con las manos.
+Un ejemplo típico lo da el Departamento de Educación de New Jersey: un chico de 5 años que lee como uno de 9 y tiene la motricidad fina de uno de 5. Lo que lee va cuatro años adelante de lo que puede hacer con las manos.
 
 ## De dónde viene la idea
 
@@ -34,9 +34,9 @@ Es un marco teórico con ejemplos y opinión de expertos. No hay estudios que mi
 ## Adelantado en lo cognitivo, ¿atrasado en lo emocional?
 
 > [!IMPORTANT]
-> Las fuentes no dicen lo mismo. La imagen del Columbus Group y de la NAGC es la de un chico adelantado en lo cognitivo y de su edad, o menos, en lo emocional. A Nation Deceived (2004), una síntesis sobre aceleración escolar, afirma en cambio que "Gifted children tend to be socially and emotionally more mature than their age-mates". Las dos pueden ser ciertas a la vez: depende de la edad, del chico y de con quién se lo compare. Frente a los chicos de su edad puede parecer maduro; frente a los chicos con los que comparte intereses, que suelen ser más grandes, puede parecer inmaduro. A Nation Deceived tiene una posición declarada a favor de la aceleración.
+> Las fuentes no dicen lo mismo. La imagen del Columbus Group y de la NAGC es la de un chico adelantado en lo cognitivo y de su edad, o menos, en lo emocional. A Nation Deceived (2004), una síntesis sobre aceleración escolar, afirma en cambio que "Gifted children tend to be socially and emotionally more mature than their age-mates". Las dos pueden ser ciertas a la vez: depende de la edad, del chico y de con quién se lo compare. Frente a los chicos de su edad puede parecer maduro; frente a chicos de su nivel, más grandes, puede parecer inmaduro. Esa explicación es una lectura nuestra de la discrepancia.
 
-Lo que sí se puede decir con seguridad es que un vocabulario adelantado no trae consigo un autocontrol adelantado. La [regulación emocional](../Emociones-y-caracter/regulacion-emocional.md) y las [funciones ejecutivas](../Emociones-y-caracter/funciones-ejecutivas.md) maduran con el cerebro y la experiencia, a su propio ritmo ([cerebro temprano](../Desarrollo/cerebro-temprano.md)).
+Ninguna fuente de las leídas dice que un vocabulario adelantado traiga un autocontrol adelantado, y es lo que cabe esperar si el desarrollo es parejo solo en parte. Sobre cómo se desarrollan la [regulación emocional](../Emociones-y-caracter/regulacion-emocional.md) y las [funciones ejecutivas](../Emociones-y-caracter/funciones-ejecutivas.md), ver [cerebro temprano](../Desarrollo/cerebro-temprano.md).
 
 ## Qué cambia en el día a día
 

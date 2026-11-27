@@ -27,7 +27,7 @@ En un hogar que ya hace eso, sumar más rinde poco. Los productos para que un be
 
 ## Lo que compite con el juego
 
-Dos cosas le sacan lugar a la conversación con el adulto: las pantallas y los juguetes que hacen todo solos. En un experimento chico, con juguetes electrónicos los padres hablaron menos con sus bebés que con juguetes tradicionales o con libros ([juguetes y materiales](juguetes-y-materiales.md)). Con las pantallas, lo más documentado es lo que desplazan y la televisión de fondo; las sociedades de pediatría difieren en la edad de corte y, desde 2026, la AAP dejó de dar horas ([pantallas](pantallas.md)). El exceso de actividades programadas también se come el tiempo de juego libre ([actividades](actividades.md)).
+Dos cosas le sacan lugar a la conversación con el adulto: las pantallas y los juguetes que hacen todo solos. En un experimento chico, con juguetes electrónicos los padres hablaron menos con sus bebés que con juguetes tradicionales o con libros ([juguetes y materiales](juguetes-y-materiales.md)). Con las pantallas, lo más documentado es lo que desplazan y la televisión de fondo; las sociedades de pediatría difieren en la edad de corte y, desde 2026, la AAP dejó de dar horas ([pantallas](pantallas.md), [recomendaciones por organismo](recomendaciones-de-pantallas.md)). El exceso de actividades programadas también se come el tiempo de juego libre ([actividades](actividades.md)).
 
 ## Cuánto pesa la evidencia
 
@@ -39,5 +39,6 @@ Casi todo lo de esta vertical es observacional o sale de experimentos chicos. Lo
 - [Juguetes y materiales](juguetes-y-materiales.md) — electrónicos o tradicionales, muchos o pocos: lo que muestran dos experimentos chicos.
 - [Lectura compartida](lectura-compartida.md) — leer conversando, su efecto sobre el vocabulario y cómo se hace.
 - [Estimulación temprana](estimulacion-temprana.md) — qué sirve y qué no en un hogar que ya da mucho; los productos para acelerar y por qué las ventajas se desdibujan.
-- [Pantallas](pantallas.md) — cuánta, de qué tipo y si sirven las apps educativas, con las recomendaciones de OMS, CPS, AAP y SAP en una tabla con fecha.
+- [Pantallas](pantallas.md) — cuánta, de qué tipo y si sirven las apps educativas.
+- [Recomendaciones de pantallas por organismo](recomendaciones-de-pantallas.md) — ficha con lo que dicen OMS, CPS, AAP y SAP, con la fecha de cada una.
 - [Actividades](actividades.md) — música, deporte e idiomas extra de 2 a 6 años: qué se sabe y qué no.

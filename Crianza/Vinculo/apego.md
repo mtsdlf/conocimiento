@@ -36,7 +36,7 @@ Mary Ainsworth convirtió la idea en algo medible. Su procedimiento, la Situaci�
 | Resistente (o ambivalente) | Se angustia antes y después de la separación, no se consuela y explora poco aun con el adulto presente | 10,2 % |
 | Desorganizado | Muestra conductas de conflicto o de estrés extremo al reencontrarse, sin una estrategia clara | 23,5 % |
 
-Las cifras son de un metaanálisis de 285 estudios con 20.720 díadas en más de 20 países (Madigan, Fearon y otros, "The First 20,000 Strange Situation Procedures", Psychological Bulletin, leído en el manuscrito aceptado). En la muestra original de Ainsworth, 26 familias de clase media de Baltimore, el 65 % era seguro; el patrón desorganizado lo agregó después Mary Main. El metaanálisis no encontró diferencias entre madres y padres, ni por edad o sexo del chico, y sí encontró menos apego seguro en poblaciones con riesgos sociodemográficos, en muestras de maltrato y cuando los padres tenían un trastorno psiquiátrico.
+Las cifras son de un metaanálisis de 285 estudios con 20.720 díadas en más de 20 países (Madigan, Fearon y otros, "The First 20,000 Strange Situation Procedures", Psychological Bulletin, leído en el manuscrito aceptado). En la muestra original de Ainsworth, 26 familias de clase media de Baltimore, el 65 % era seguro; el patrón desorganizado se describió después (Main y Solomon, 1990). El metaanálisis no encontró diferencias entre madres y padres, ni por edad o sexo del chico, y sí encontró más apego evitativo y desorganizado en poblaciones con riesgos sociodemográficos y en muestras de maltrato, y más desorganizado cuando los padres tenían psicopatología.
 
 Un patrón inseguro no es un diagnóstico. Describe una relación concreta, con un adulto concreto, en un momento, y un chico puede tener un apego seguro con un cuidador y no con otro.
 
@@ -44,14 +44,14 @@ Un patrón inseguro no es un diagnóstico. Describe una relación concreta, con 
 
 Ainsworth sostuvo que la principal causa del apego seguro es la sensibilidad del cuidador: responder rápido y de forma adecuada a las señales del bebé durante el primer año. Los metaanálisis lo confirman en parte. La asociación entre sensibilidad y seguridad crece con la edad del chico (De Wolff y van IJzendoorn 1997, citado por Madigan y otros). Pero la sensibilidad no lo explica todo: en un metaanálisis de 95 muestras, la "brecha de transmisión" entre el apego de los padres y el del hijo se achicó pero no se cerró (Verhage y otros 2016, según su resumen).
 
-La sensibilidad no exige estar siempre ni acertar siempre. La parte práctica, la respuesta de todos los días, está en [ida y vuelta](ida-y-vuelta.md), y por qué los desajustes reparados no dañan está en [bienestar de los padres](bienestar-de-los-padres.md).
+Cuánta sensibilidad hace falta no se verificó en ninguna fuente leída. La parte práctica, la respuesta de todos los días, está en [ida y vuelta](ida-y-vuelta.md), y por qué los desajustes reparados no dañan está en [bienestar de los padres](bienestar-de-los-padres.md).
 
 ## Qué predice el apego, y cuánto
 
-El apego seguro temprano se asocia con más competencia social con pares (d = 0,39), menos problemas de conducta externalizantes (d = 0,31) y, más débilmente, menos problemas internalizantes como ansiedad (d = 0,15), según la síntesis de metaanálisis de Groh y otros 2017 (según su resumen). Son asociaciones observacionales, no efectos causales. Un reanálisis de 2024 con dos cohortes clásicas, la de Minnesota y la del NICHD, encontró asociaciones parecidas o más débiles, y los mismos autores advierten sobre sesgo de publicación (según su resumen).
+El apego seguro temprano se asocia con más competencia social con pares (d = 0,39), menos problemas de conducta externalizantes (d = 0,31) y, más débilmente, menos problemas internalizantes como ansiedad (d = 0,15), según la síntesis de metaanálisis de Groh y otros 2017 (según su resumen). Son asociaciones observacionales, no efectos causales. Un reanálisis de 2024 con dos cohortes clásicas, la de Minnesota y la del NICHD, encontró asociaciones parecidas o más débiles, y los autores de Groh señalan posible sesgo de publicación y estudios con poca potencia estadística (según resúmenes secundarios).
 
 > [!IMPORTANT]
-> La evidencia dice que el apego seguro ayuda, pero que el efecto es modesto. Los textos de divulgación suelen presentarlo como determinante; los metaanálisis recientes no lo sostienen. Un chico con un apego inseguro a los 12 meses no tiene el futuro escrito, y uno seguro tampoco tiene garantías.
+> La evidencia dice que el apego seguro ayuda, pero que el efecto es modesto. Los metaanálisis recientes encuentran asociaciones modestas, no determinantes. Un chico con un apego inseguro a los 12 meses no tiene el futuro escrito, y uno seguro tampoco tiene garantías.
 
 ## Jardín maternal y apego
 
@@ -59,7 +59,7 @@ El estudio del NICHD sobre cuidado infantil encontró que el cuidado no materno,
 
 ## El apego de Bowlby no es la "crianza con apego"
 
-La "crianza con apego" (attachment parenting) es un enfoque de William y Martha Sears con prácticas concretas: portear, colecho, lactancia prolongada. Toma el nombre de la teoría, pero la teoría de Bowlby y Ainsworth no prescribe esas prácticas: habla de sensibilidad, que puede darse con o sin ellas. Según un sitio de divulgación (evidencia de opinión), no hay pruebas concluyentes de que el paquete de Sears sea superior a la crianza corriente; la crianza sensible tiene mucho respaldo y las prácticas puntuales tienen evidencia mixta. El enfoque con su evidencia, y los riesgos del colecho, están en [enfoques de crianza](../Fundamentos/enfoques-de-crianza.md).
+La "crianza con apego" (attachment parenting) es un enfoque de Sears con prácticas concretas, entre ellas portear y el colecho. Toma el nombre de la teoría, pero la teoría de Bowlby y Ainsworth habla de sensibilidad y no de esas prácticas (lectura propia, sin fuente que lo diga). Según un sitio de divulgación (evidencia de opinión), no hay pruebas concluyentes de que el paquete de Sears sea superior a la crianza corriente; la crianza sensible tiene mucho respaldo y las prácticas puntuales tienen evidencia mixta. El enfoque con su evidencia, y los riesgos del colecho, están en [enfoques de crianza](../Fundamentos/enfoques-de-crianza.md).
 
 > [!NOTE]
 > Sin fuente todavía: una guía en castellano de una sociedad científica sobre apego para padres; evidencia sobre el apego con abuelos o niñeras.

@@ -29,7 +29,7 @@ revisado:
 
 El castigo físico (chirlos, palmadas) y los gritos o la humillación son disciplina dura; los estudios los asocian con más problemas en los chicos y ningún beneficio claro, aunque se discute cuánto de esa asociación es causa, y en Argentina el castigo corporal está prohibido por el Código Civil y Comercial.
 
-En el cuadro de [estilos de crianza](estilos-de-crianza.md) es el control duro: exigencia sin calidez. El metaanálisis de Pinquart (2017) lo ubica, junto con el control psicológico (culpa, vergüenza, retiro del afecto), como lo más asociado a problemas de conducta. Qué hacer en su lugar está en [límites y consecuencias](limites-y-consecuencias.md#cómo-se-pone-un-límite-sin-gritar-y-sin-ceder).
+En el cuadro de [estilos de crianza](estilos-de-crianza.md) es el control duro: exigencia sin calidez. El metaanálisis de Pinquart (2017) lo ubica, junto con el control psicológico (culpa, retiro del afecto, según las fuentes), como lo más asociado a problemas de conducta. Qué hacer en su lugar está en [límites y consecuencias](limites-y-consecuencias.md#cómo-se-pone-un-límite-sin-gritar-y-sin-ceder).
 
 ## Qué dice la ley argentina
 
@@ -60,18 +60,18 @@ La posición de la AAP (Sege y Siegel, 2018) dice, según su resumen: "Aversive 
 
 Los gritos, los insultos y la humillación se estudian como disciplina verbal dura, junto con el castigo físico. La AAP los incluye en la misma frase que el chirlo ("yelling at or shaming children"). La nota de HealthyChildren sobre esa política agrega que "striking a child, yelling at or shaming them can elevate stress hormones and lead to changes in the brain's architecture"; es la misma institución, así que no cuenta como segunda fuente.
 
-El estudio directo más citado es el de Wang y Kenny (2014), con 976 familias. Según su resumen, la disciplina verbal dura de madres y padres a los 13 años predijo más problemas de conducta y síntomas depresivos entre los 13 y los 14, y "maternal and paternal warmth did not moderate the longitudinal associations". Es decir, el cariño en otros momentos no compensó los gritos. Los autores también encontraron el efecto inverso: los chicos con problemas recibían más gritos.
+El estudio directo más citado es el de Wang y Kenny (2014), con 976 familias. Según su resumen, la disciplina verbal dura de madres y padres a los 13 años predijo más problemas de conducta y síntomas depresivos entre los 13 y los 14, y "maternal and paternal warmth did not moderate the longitudinal associations". Leído sin tecnicismos, el cariño no compensó los gritos (lectura propia). Los autores también encontraron también un efecto del chico, es decir, que la relación va en los dos sentidos.
 
 > [!NOTE]
 > Fuente única para la edad: no se encontró un estudio de gritos en chicos de 2 a 6 años. Wang y Kenny es de adolescentes; para preescolares, la base es la declaración de la AAP, que resume el conjunto de la literatura.
 
-Los estudios miden la disciplina verbal dura como un patrón que se repite, no un grito aislado (inferencia a partir de cómo se describen las mediciones). Para el momento en que el adulto está por perder el control, la AAP propone que se tome él mismo una pausa y después vuelva, abrace al chico y empiece de nuevo ([límites y consecuencias](limites-y-consecuencias.md#cómo-se-pone-un-límite-sin-gritar-y-sin-ceder), paso 6).
+Los estudios miden la disciplina verbal dura como un patrón que se repite, no un grito aislado (inferencia a partir de cómo se describen las mediciones). Para el momento en que el adulto está por perder el control, la AAP propone que se tome él mismo unos minutos para respirar o llamar a un amigo ([límites y consecuencias](limites-y-consecuencias.md#cómo-se-pone-un-límite-sin-gritar-y-sin-ceder), paso 6).
 
 ## Cuánto pasa en Argentina
 
 Según un comunicado de UNICEF del 1/11/2017, con datos de encuestas de hogares de 2005 a 2016, en Argentina recibió castigo físico el 54,4 % de los chicos de 2 a 4 años y agresión verbal el 62,5 %; el 72,9 % de ese grupo recibió alguna forma de disciplina violenta. En la encuesta ECOVNA de 2012, citada por UNICEF, solo el 3,7 % de los adultos aprobaba el castigo físico, mientras que el 69,5 % decía usar violencia física para criar.
 
-La distancia entre las dos cifras de 2012 muestra que casi nadie defiende el chirlo y que muchos lo usan igual. Los pasos de [límites y consecuencias](limites-y-consecuencias.md) apuntan a esa distancia: qué hacer en vez de pegar cuando el chico no obedece.
+Las dos cifras de 2012 sugieren que casi nadie defiende el chirlo y que muchos lo usan igual, pero salen de una lectura de UNICEF que no se verificó en la encuesta original. Los pasos de [límites y consecuencias](limites-y-consecuencias.md) apuntan a esa distancia: qué hacer en vez de pegar cuando el chico no obedece.
 
 > [!NOTE]
 > Sin fuente todavía: cifras posteriores a 2016 verificadas en la fuente primaria (hay datos de 2019-2020 citados por la prensa que no se pudieron abrir) y la "Guía práctica para evitar gritos, chirlos y estereotipos" de UNICEF, que no se leyó.

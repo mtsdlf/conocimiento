@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Patrones y guías es la parte de la nutrición que dice cómo se combinan los alimentos en una manera de comer: las Guías Alimentarias argentinas como base oficial, la dieta mediterránea como el patrón más estudiado y las dietas de moda con lo que muestran sus ensayos.
+  Patrones y guías es la parte de la nutrición que dice cómo se combinan los alimentos en una manera de comer: las Guías Alimentarias argentinas como base oficial, la dieta mediterránea como un patrón con ensayos de resultado cardiovascular y las dietas de moda con lo que muestran sus ensayos.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -15,13 +15,13 @@ revisado:
 
 # Patrones y guías
 
-Patrones y guías es la parte de la nutrición que dice cómo se combinan los alimentos en una manera de comer: las Guías Alimentarias argentinas como base oficial, la dieta mediterránea como el patrón más estudiado y las dietas de moda con lo que muestran sus ensayos.
+Patrones y guías es la parte de la nutrición que dice cómo se combinan los alimentos en una manera de comer: las Guías Alimentarias argentinas como base oficial, la dieta mediterránea como un patrón con ensayos de resultado cardiovascular y las dietas de moda con lo que muestran sus ensayos.
 
 Toma la materia de [alimentos y nutrientes](../Alimentos-y-nutrientes/alimentos-y-nutrientes.md) y la ordena en un plato y una semana. De acá salen los ajustes por edad de la [alimentación infantil](../Alimentacion-infantil/alimentacion-infantil.md) y los ajustes por objetivo de los [objetivos del adulto](../Objetivos-del-adulto/objetivos-del-adulto.md), y el patrón se vuelve menú en [planificar y cocinar](../Planificar-y-cocinar/planificar-y-cocinar.md).
 
 ## Por qué se piensa en patrones y no en nutrientes sueltos
 
-Una persona no come nutrientes sino comidas, y las guías actuales recomiendan combinaciones de alimentos. Las Guías Alimentarias argentinas (GAPA) lo hacen con diez mensajes como "Consumí a diario 5 porciones de frutas y verduras en variedad de tipos y colores" ([GAPA](https://www.argentina.gob.ar/node/92458)), sin pedir que nadie cuente gramos. Un patrón también es más fácil de estudiar en un ensayo que un nutriente aislado, y por eso las mejores pruebas de dieta y salud son de patrones enteros.
+Una persona no come nutrientes sino comidas, y las guías actuales recomiendan combinaciones de alimentos. Las Guías Alimentarias argentinas (GAPA) lo hacen con diez mensajes como "Consumí a diario 5 porciones de frutas y verduras en variedad de tipos y colores" ([GAPA](https://www.argentina.gob.ar/node/92458)), sin pedir que nadie cuente gramos.
 
 ## Qué tipo de evidencia tiene cada patrón
 
@@ -32,9 +32,9 @@ Cada patrón tiene una base distinta, y conviene no medirlos con la misma vara:
 | Guías Alimentarias argentinas | consenso institucional del Ministerio de Salud | traduce metas de nutrientes a mensajes; no es un ensayo |
 | Dieta mediterránea | ensayos de resultado clínico (PREDIMED, Lyon) y una revisión Cochrane | ACV, infartos, muertes; la Cochrane habla de incertidumbre, con el beneficio más claro en el ACV |
 | Baja en carbohidratos, ayuno, paleo | ensayos de peso de 3 a 12 meses | peso y marcadores; sin ventaja con el mismo déficit |
-| Vegetariana y vegana | postura de la Academy of Nutrition and Dietetics (2025) | adecuación nutricional, si se planifica |
+| Vegetariana y vegana | postura de la Academy of Nutrition and Dietetics (2016, con una actualización de 2025 no leída) | adecuación nutricional, si se planifica |
 
-La lección que cruza las dietas para bajar de peso es una sola: con las mismas calorías bajan parecido. DIETFITS lo mostró entre baja en grasas y baja en carbohidratos ([DIETFITS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5839290)), y el ensayo de Liu entre comer con o sin ventana horaria ([Liu 2022](https://pubmed.ncbi.nlm.nih.gov/35443107/)). Lo que decide es cuál se puede sostener.
+La lección que cruza las dietas para bajar de peso es que, entre dietas razonables, el tipo pesa menos de lo que promete cada una. DIETFITS no encontró diferencia significativa a un año entre baja en grasas y baja en carbohidratos, sin igualar las calorías ([DIETFITS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5839290)), y el ensayo de Liu, con la misma restricción calórica, tampoco la encontró entre comer con o sin ventana horaria ([Liu 2022](https://pubmed.ncbi.nlm.nih.gov/35443107/)). Qué decide en la práctica es una inferencia de esta base: probablemente cuál se puede sostener.
 
 ## Dónde discrepan las guías y los estudios
 

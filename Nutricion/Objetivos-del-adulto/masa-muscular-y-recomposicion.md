@@ -34,9 +34,9 @@ Tres fuentes dan cifras compatibles pero no idénticas, y conviene verlas juntas
 | ISSN, proteína y ejercicio (Jäger y otros, 2017) | posición de expertos | "about 1.4 to 2.0 g" por kg y día alcanza para la mayoría de quienes entrenan | resumen |
 | ISSN, dietas y composición corporal (Aragon y otros, 2017) | posición de expertos | "Higher protein intakes (2.3–3.1 g/kg FFM) may be required to maximize muscle retention in lean, resistance-trained subjects under hypocaloric conditions" | texto completo |
 
-En el metaanálisis de Morton, la proteína suplementada aumentó la fuerza, la masa libre de grasa y el tamaño del músculo. El efecto sobre la masa libre de grasa fue menor con la edad y mayor en entrenados. La cifra de ~1,6 g es el punto donde la curva se aplana en promedio, no un tope para todos.
+En el metaanálisis de Morton, la proteína suplementada aumentó la fuerza, la masa libre de grasa y el tamaño del músculo. El efecto sobre la masa libre de grasa fue menor con la edad y mayor en entrenados.
 
-La cifra de 2,3 a 3,1 g de la ISSN vale para un caso estrecho: personas magras, entrenadas y en déficit, y se mide por kilo de masa libre de grasa (FFM), no de peso total. Para alguien que empieza a bajar grasa con sobrepeso, la cifra de Morton y la de Jäger son la referencia. La misma posición recuerda que comer el doble de la recomendación general, 1,6 g contra 0,8 g por kg, conservó más masa magra y bajó más grasa en los estudios clásicos de Lemon.
+La cifra de 2,3 a 3,1 g de la ISSN vale para un caso estrecho: personas magras, entrenadas y en déficit, y se mide por kilo de masa libre de grasa (FFM), no de peso total. Para alguien que empieza a bajar grasa con sobrepeso, las cifras de Morton y de Jäger parecen las que corresponden (inferencia; la ISSN no lo dice así). La misma posición recuerda que comer el doble de la recomendación general, 1,6 g contra 0,8 g por kg, conservó más masa magra y bajó más grasa en los estudios clásicos de Lemon.
 
 > [!NOTE]
 > Sin fuente todavía: el texto literal de la posición de la ISSN de 2017 sobre proteína y ejercicio, con la cantidad por comida y el reparto a lo largo del día. Las cifras de esa posición que circulan (por toma, cada cuántas horas) no se copian hasta leerlas en el original. Una posición de la ISSN de 2026 con cifras nuevas tampoco se pudo ubicar.

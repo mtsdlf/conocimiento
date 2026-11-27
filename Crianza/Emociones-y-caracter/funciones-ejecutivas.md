@@ -24,7 +24,7 @@ Las funciones ejecutivas son tres habilidades mentales que permiten controlar lo
 
 ## Las tres habilidades
 
-La división en tres viene de Miyake (2000) y la usa la revisión de Adele Diamond de 2013, la referencia más citada del campo (según su resumen).
+La división en tres viene de Miyake (2000) y la usa la revisión de Adele Diamond de 2013 (según su resumen).
 
 | Habilidad | Qué es | Cómo se ve a los 3 o 4 años |
 |---|---|---|
@@ -32,7 +32,7 @@ La división en tres viene de Miyake (2000) y la usa la revisión de Adele Diamo
 | Memoria de trabajo | Mantener información en la cabeza y usarla | Seguir una consigna de dos pasos, recordar la regla de un juego |
 | Flexibilidad cognitiva | Cambiar de plan, de regla o de punto de vista | Aceptar jugar a otra cosa, ordenar por color y después por forma |
 
-Los ejemplos de la tercera columna son ilustraciones propias. Las tres habilidades se apoyan entre sí, y el control inhibitorio es el que más se cruza con la [regulación emocional](regulacion-emocional.md): frenar un golpe cuando uno está enojado es las dos cosas a la vez.
+Los ejemplos de la tercera columna son ilustraciones propias. Las tres habilidades se apoyan entre sí, y el control inhibitorio se cruza con la [regulación emocional](regulacion-emocional.md) (lectura propia): frenar un golpe cuando uno está enojado es las dos cosas a la vez.
 
 ## Qué las desarrolla
 
@@ -42,20 +42,20 @@ Para un chico de 2 a 6 años en casa, esto sugiere actividades que ya existen: j
 
 ## La prueba del malvavisco y lo que quedó de ella
 
-En los estudios de Walter Mischel de los años 60 y 70, a chicos de unos 4 años se les ofrecía un premio chico ya o uno más grande si esperaban solos. Los que esperaban más tuvieron, años después, mejores resultados escolares, y la prueba se volvió el símbolo de que el autocontrol temprano "predice el éxito".
+En los estudios de Walter Mischel, a chicos de unos 4 años se les ofrecía un premio chico ya o uno más grande si esperaban solos, y los que esperaban más tuvieron después mejores resultados; la prueba se volvió el símbolo de que el autocontrol temprano "predice el éxito". Es la descripción habitual, no verificada en el original, que el informe de fuentes no leyó.
 
 Una réplica de 2018 con más de 900 chicos de la cohorte NICHD, más representativa que la original, encontró una asociación de más o menos la mitad de la original, que cayó cerca de dos tercios al controlar el entorno familiar, la capacidad cognitiva temprana y el hogar. Entre los hijos de madres sin estudios universitarios, cada minuto extra de espera a los 4 años se asoció con aproximadamente una décima de desvío estándar de logro a los 15 años. Las asociaciones con la conducta a los 15 fueron mucho menores y rara vez significativas (Watts, Duncan y Quan 2018, según su resumen).
 
 > [!IMPORTANT]
-> La réplica no cerró la discusión. Falk, Kosse y Pinger (2020) argumentan que las correlaciones de Watts están sesgadas hacia cero por cómo se cortaron los tiempos de espera y que no refutan el original; un reanálisis con otras decisiones encontró asociaciones significativas en 3 de 5 resultados, y un comentario de Doebel, Michaelson y Munakata lo leyó como una réplica parcial exitosa (todo según sus resúmenes). La lectura prudente es que no hay consenso: la prueba del malvavisco ni "predice el éxito" ni "fue refutada".
+> La réplica no cerró la discusión. Falk, Kosse y Pinger (2020) argumentan, según su preprint, que las correlaciones de Watts están sesgadas hacia cero por cómo se cortaron los tiempos de espera y que no refutan el original; un reanálisis con otras decisiones encontró asociaciones significativas en 3 de 5 resultados, y un comentario de Doebel, Michaelson y Munakata lo leyó como una réplica parcial exitosa (todo según sus resúmenes). La lectura prudente es que no hay consenso: la prueba del malvavisco ni "predice el éxito" ni "fue refutada".
 
-Un experimento de 2013 agrega un matiz útil para padres. Los chicos que habían visto a un adulto cumplir lo que prometía esperaron bastante más que los que lo vieron incumplir (Kidd, Palmeri y Aslin, según su resumen; muestra chica). Esperar es razonable solo si uno cree que el premio va a llegar, así que la espera mide también la confianza en los adultos, no solo el autocontrol. Cumplir lo que se le promete a un chico es parte de cómo aprende a esperar, lo que conecta con [límites y consecuencias](../Limites-y-autonomia/limites-y-consecuencias.md).
+Un experimento de 2013 agrega un matiz útil para padres. Los chicos que habían visto a un adulto cumplir lo que prometía esperaron bastante más que los que lo vieron incumplir (Kidd, Palmeri y Aslin, según su resumen; muestra chica). Esperar es razonable solo si uno cree que el premio va a llegar, así que la espera mide también la confianza en los adultos, no solo el autocontrol. Cumplir lo que se le promete a un chico sería parte de cómo aprende a esperar (inferencia propia), lo que conecta con [límites y consecuencias](../Limites-y-autonomia/limites-y-consecuencias.md).
 
 ## Funciones ejecutivas y chicos adelantados
 
-Un chico puede tener un vocabulario o una memoria muy por encima de su edad y funciones ejecutivas de su edad. Saber mucho no implica poder frenarse, esperar o cambiar de plan. Está en [desarrollo asincrónico](../Altas-capacidades/desarrollo-asincronico.md).
+Un chico puede tener un vocabulario o una memoria muy por encima de su edad y funciones ejecutivas de su edad. Saber mucho no implica poder frenarse, esperar o cambiar de plan (lectura propia, sin fuente). Está en [desarrollo asincrónico](../Altas-capacidades/desarrollo-asincronico.md).
 
 > [!NOTE]
 > Sin fuente todavía: evidencia de qué prácticas familiares (juego simbólico, rutinas, juegos con reglas) desarrollan las funciones ejecutivas entre los 2 y los 6 años; un metaanálisis sobre el malvavisco posterior a 2020.
 
-Para leer más: el documento de Harvard [How Early Experiences Shape the Development of Executive Function](https://developingchild.harvard.edu/wp-content/uploads/2024/10/How-Early-Experiences-Shape-the-Development-of-Executive-Function.pdf), pensado para no especialistas (no se leyó para esta nota); fijarse en las actividades por edad.
+Para leer más: el documento de Harvard [How Early Experiences Shape the Development of Executive Function](https://developingchild.harvard.edu/wp-content/uploads/2024/10/How-Early-Experiences-Shape-the-Development-of-Executive-Function.pdf), pensado para no especialistas (no se leyó para esta nota).

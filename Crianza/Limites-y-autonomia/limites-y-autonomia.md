@@ -26,7 +26,7 @@ Se apoya en el [vínculo](../Vinculo/vinculo.md): un límite funciona mejor con 
 
 El marco de la vertical son los [estilos de crianza](estilos-de-crianza.md): cruzar cuánta calidez da el adulto con cuánto exige da cuatro estilos. El autoritativo, con mucho de las dos, es el que la evidencia asocia con menos problemas de conducta. Según el metaanálisis de Pinquart (2017), lo que más se asocia con problemas es el control duro (gritos, amenazas, golpes) y el psicológico (culpa, vergüenza), más que la falta de límites. Son asociaciones chicas y observacionales.
 
-La evidencia causal viene de los programas que entrenan a los padres, que tienen ensayos aleatorizados. Una revisión Cochrane de 2012 encontró, en chicos de 3 a 12 años con problemas de conducta, menos problemas y menos crianza dura después del programa (según su resumen). Los programas comparten técnicas: refuerzo positivo, sobre todo el elogio, y consecuencias naturales o lógicas (Leijten 2019). Están en [límites y consecuencias](limites-y-consecuencias.md).
+La evidencia causal viene de los programas que entrenan a los padres, que tienen ensayos aleatorizados. Una revisión Cochrane (Furlong y otros) encontró, en chicos de 3 a 12 años con problemas de conducta, menos problemas y menos crianza dura después del programa (según su resumen). Los programas comparten técnicas: refuerzo positivo, sobre todo el elogio, y consecuencias naturales o lógicas (Leijten 2019). Están en [programas para padres](programas-para-padres.md) y se aplican en [límites y consecuencias](limites-y-consecuencias.md).
 
 ## Cómo se ponen límites sin gritar y sin ceder
 
@@ -58,7 +58,8 @@ La crianza respetuosa, la disciplina positiva y otros enfoques tienen sus propia
 ## Qué hay en la disciplina
 
 - [Estilos de crianza](estilos-de-crianza.md) — el marco: calidez por exigencia, los cuatro estilos y qué asocia la evidencia con cada uno. Leer primero.
-- [Límites y consecuencias](limites-y-consecuencias.md) — los pasos para poner un límite, lo que enseñan los programas con ensayos y la controversia del tiempo fuera.
+- [Límites y consecuencias](limites-y-consecuencias.md) — los pasos para poner un límite, un resumen de lo que enseñan los programas y la controversia del tiempo fuera.
+- [Programas para padres](programas-para-padres.md) — qué técnicas pesan en los ensayos, cuánto ayudan según el problema y la disputa sobre Triple P.
 - [Castigo, gritos y chirlos](castigo-gritos-y-chirlos.md) — la evidencia sobre la disciplina dura, la disputa sobre su causalidad, la ley argentina y cuánto pasa.
 - [Premios](premios.md) — el refuerzo positivo, cuándo un premio baja las ganas y cómo usar una tabla.
 - [Autonomía y tareas](autonomia-y-tareas.md) — qué puede hacer solo a cada edad, las ganas de ayudar y si conviene premiar las tareas.

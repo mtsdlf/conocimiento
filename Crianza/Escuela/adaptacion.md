@@ -18,7 +18,7 @@ revisado:
 
 La adaptación es el período en que un chico empieza el jardín y se acostumbra a separarse de sus adultos; llorar los primeros días es frecuente, no hay una duración fija y los consejos que circulan vienen de la divulgación y la opinión de expertos, no de la investigación.
 
-Separarse cuesta porque el chico está apegado a sus adultos, y eso es una buena señal: un [apego](../Vinculo/apego.md) seguro le permite explorar sabiendo que el adulto vuelve. La adaptación es enseñarle, de a poco, que el jardín es un lugar seguro y que la separación termina.
+Separarse cuesta porque el chico está apegado a sus adultos. Leído desde la teoría del [apego](../Vinculo/apego.md), un apego seguro le permite explorar sabiendo que el adulto vuelve, y la adaptación consiste en mostrarle de a poco que el jardín es seguro y que la separación termina; es una lectura nuestra, no algo que digan las fuentes de esta nota.
 
 ## Cuánto dura
 
@@ -32,9 +32,9 @@ Los consejos se repiten en las fuentes de divulgación, del Child Mind Institute
 2. Practicá separaciones cortas en casa o con otros adultos de confianza, y alargalas de a poco.
 3. Dale un objeto de consuelo o una foto de la familia para llevar.
 4. Despedite siempre, con calma y alegría, y andate: no te escapes sin avisar.
-5. Contá con que llore los primeros días; es frecuente y no quiere decir que algo ande mal.
+5. Contá con que llore los primeros días; es frecuente según las fuentes.
 
-Escaparse sin avisar ahorra el llanto de ese momento, pero las fuentes coinciden en desaconsejarlo. La AAP tiene una guía en castellano para hacer más fácil la despedida en el jardín maternal ([HealthyChildren](https://www.healthychildren.org/spanish/family-life/work-and-child-care/paginas/making-baby-drop-off-at-child-care-easier.aspx)), de la que solo se vio el título.
+Las fuentes de divulgación coinciden en desaconsejar escaparse sin avisar. La AAP tiene una guía en castellano para hacer más fácil la despedida en el jardín maternal ([HealthyChildren](https://www.healthychildren.org/spanish/family-life/work-and-child-care/paginas/making-baby-drop-off-at-child-care-easier.aspx)), de la que solo se vio el título.
 
 ## Lo que pasa en casa
 
@@ -42,7 +42,7 @@ Es esperable que un cambio así se note también en casa, aunque las fuentes le�
 
 ## Cuándo consultar
 
-Si la angustia es muy intensa, aparece con cada separación o interfiere en la vida cotidiana, las fuentes de divulgación aconsejan consultar a un profesional ([Child Mind Institute](https://childmind.org/es/articulo/como-separarse-de-los-ninos-apegados/)). El pediatra es el primer paso.
+Si la angustia es muy intensa, aparece con cada separación o interfiere en la vida cotidiana, las fuentes de divulgación aconsejan consultar a un profesional ([Child Mind Institute](https://childmind.org/es/articulo/como-separarse-de-los-ninos-apegados/)). Como inferencia, el pediatra es un primer paso razonable.
 
 Al elegir jardín conviene preguntar cómo es su adaptación y si los padres pueden quedarse los primeros días ([elegir escuela](elegir-escuela.md)).
 

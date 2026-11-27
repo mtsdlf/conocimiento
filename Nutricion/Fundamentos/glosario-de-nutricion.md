@@ -53,7 +53,7 @@ No se encontró un glosario oficial de nutrición en castellano, así que las de
 | Azúcares libres | Los azúcares agregados a los alimentos más los de la miel, los jarabes y los jugos; la OMS pide menos del 10 % de la energía total. | [Azúcar y golosinas](../Alimentacion-infantil/azucar-y-golosinas.md) |
 | Balance energético | La diferencia entre la energía que se come y la que se gasta; define si el peso sube o baja. | [Pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md) |
 | Déficit calórico | Comer menos energía de la que se gasta, de forma sostenida; es la condición para perder grasa según la ISSN. | [Pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md) |
-| Modelo carbohidratos-insulina | La hipótesis de Ludwig de que los carbohidratos de alta carga glucémica, vía insulina, guardan grasa y empujan a comer más. | [Evidencia en nutrición](evidencia-en-nutricion.md) |
+| Modelo carbohidratos-insulina | La hipótesis de Ludwig de que los carbohidratos de alta carga glucémica, vía insulina, guardan grasa y empujan a comer más. | [Debates de nutrición](debates-de-nutricion.md) |
 | Recomposición corporal | Perder grasa y ganar músculo al mismo tiempo, más probable en quien recién empieza a entrenar. | [Masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md) |
 | Masa libre de grasa | Todo lo que pesa el cuerpo menos la grasa: músculo, hueso, agua y órganos. | [Medir el progreso](../Objetivos-del-adulto/medir-el-progreso.md) |
 

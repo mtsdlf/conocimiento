@@ -31,6 +31,6 @@ Copiado de prensa el 2026-11-27. El INDEC publica el dato cada mes; el de noviem
 | Variación interanual | 39,9 % |
 | CBA de un hogar de cuatro integrantes | $761.261 |
 
-La CBA marca la línea de indigencia: un hogar cuyo ingreso no la cubre se cuenta como indigente. Es una canasta de consumo de referencia, no una dieta recomendada, y no sigue las [Guías Alimentarias](../Patrones-y-guias/guias-alimentarias-argentinas.md). Esta definición es una aclaración conceptual que no se leyó en la metodología del INDEC.
+La CBA marca la línea de indigencia: un hogar cuyo ingreso no la cubre se cuenta como indigente. Es una canasta de consumo de referencia, no una dieta recomendada. Esta definición es una aclaración conceptual que no se leyó en la metodología del INDEC.
 
-El "adulto equivalente" es la unidad con la que el INDEC ajusta la canasta por edad y sexo: un chico cuenta como una fracción de adulto. Por eso el hogar de cuatro no vale cuatro veces la canasta individual.
+El "adulto equivalente" es la unidad con la que el INDEC ajusta la canasta por edad y sexo: un chico cuenta como una fracción de adulto (definición no leída en el INDEC). La cifra del hogar de cuatro, $761.261, es algo más de tres veces la del adulto equivalente.

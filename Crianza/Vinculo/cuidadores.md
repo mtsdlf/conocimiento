@@ -27,22 +27,22 @@ El apego no es exclusivo de la madre. El metaanálisis de Madigan, Fearon y otro
 
 ## Coparentalidad: el equipo pesa
 
-La coparentalidad es cómo dos o más adultos se coordinan para criar: si se apoyan o se desautorizan, si acuerdan las reglas, cuánto conflicto hay entre ellos delante del chico. Es distinta de la calidad de la pareja. Dos adultos pueden llevarse mal como pareja y criar bien en equipo, o al revés, y el caso típico es el de padres separados que crían juntos.
+La coparentalidad es cómo dos o más adultos se coordinan para criar: si se apoyan o se desautorizan, si acuerdan las reglas, cuánto conflicto hay entre ellos delante del chico. Es distinta de la calidad de la pareja. Los estudios la separan de la calidad de la pareja, que controlan aparte.
 
 Un metaanálisis de 59 publicaciones encontró que la baja calidad de la coparentalidad se asocia con más problemas externalizantes (agresión, desobediencia) e internalizantes (ansiedad, tristeza) en los hijos, con asociaciones pequeñas pero significativas aun controlando la calidad de la pareja y la crianza de cada uno (Teubert y Pinquart 2010, según su resumen). Un metaanálisis posterior de 93 estudios y 41.207 participantes reportó correlaciones de -0,17 para externalizantes y -0,16 para internalizantes, aunque no se confirmó que el artículo enlazado sea ese. Los dos son observacionales: muestran asociación, no causa.
 
-En la práctica, coordinarse no exige reglas idénticas en todo. Lo que miden estos estudios es el apoyo mutuo y el conflicto. Desautorizar al otro delante del chico ("dejalo, a mí no me importa que salte en la cama") debilita el límite de los dos; cómo se sostiene un límite está en [límites y consecuencias](../Limites-y-autonomia/limites-y-consecuencias.md).
+En la práctica, la SAP pide límites "pensados y consensuados por ambos padres o cuidadores, sin desautorizarse"; cómo se sostiene un límite está en [límites y consecuencias](../Limites-y-autonomia/limites-y-consecuencias.md).
 
 ## Abuelos, niñera y otros adultos
 
 > [!NOTE]
 > Sin fuente todavía: cuánto importa la coherencia entre padres, abuelos y niñera, y qué pasa cuando las reglas difieren entre casas; evidencia sobre el apego con abuelos o niñeras; cuidado compartido después de una separación.
 
-Lo que sí se puede decir desde el [apego](apego.md): un chico puede usar como base segura a cualquier adulto estable y sensible que lo cuide con regularidad. Que haya varios adultos no confunde al chico; lo que la teoría señala como riesgo es la falta de un adulto disponible y los cambios frecuentes de cuidador.
+Lo único que se verificó es del [apego](apego.md): el vínculo es propio de cada relación, de modo que un chico puede estar seguro con un adulto y no con otro. Sobre abuelos y niñeras no se encontró fuente.
 
 ## Jardín maternal y cuidado no materno
 
-El estudio del NICHD sobre cuidado infantil temprano, una cohorte grande de Estados Unidos, encontró que el cuidado no materno no amenaza por sí solo la seguridad del apego con la madre. El riesgo de apego inseguro aumentó cuando la baja calidad o muchas horas de cuidado se sumaban a una crianza poco sensible en casa. Esto viene de una sola fuente secundaria (una nota periodística sobre el estudio); falta leer el artículo de 1997. Qué aporta el jardín y a qué edad está en [jardín](../Escuela/jardin.md), y cómo acompañar la entrada en [adaptación](../Escuela/adaptacion.md).
+El estudio del NICHD sobre cuidado infantil temprano, una cohorte, encontró que el cuidado no materno no amenaza por sí solo la seguridad del apego con la madre. El riesgo de apego inseguro aumentó cuando la baja calidad o muchas horas de cuidado se sumaban a una crianza poco sensible en casa. Esto viene de una sola fuente secundaria (una nota periodística sobre el estudio); falta leer el artículo de 1997. Qué aporta el jardín y a qué edad está en [jardín](../Escuela/jardin.md), y cómo acompañar la entrada en [adaptación](../Escuela/adaptacion.md).
 
 > [!NOTE]
 > Sin fuente todavía: una revisión sistemática o una guía de la SAP o la AAP sobre jardín maternal y desarrollo.

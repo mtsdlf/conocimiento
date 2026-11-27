@@ -28,7 +28,7 @@ En la Argentina el término oficial es "altas capacidades" (la Ley 6614 de la Ci
 
 ## Cómo se sabe si un chico de 3 años tiene altas capacidades
 
-A los 3 años no se puede saber con seguridad. Un metaanálisis de 205 estudios longitudinales y 87.408 participantes halló "low stability in preschool children": la estabilidad mínima para tomar decisiones diagnósticas sobre una persona (rtt = .80) "can only be expected over the age of 7" (Breit y otros, 2024). Un número de CI a los 3 o a los 5 años describe ese momento y no fija lo que el chico va a ser.
+A los 3 años no se puede saber con seguridad. Un metaanálisis de 205 estudios longitudinales y 87.408 participantes halló "low stability in preschool children": la estabilidad mínima para tomar decisiones diagnósticas sobre una persona (rtt = .80) "can only be expected over the age of 7 and for short time intervals in children" (Breit y otros, 2024). Un número de CI a los 3 o a los 5 años describe ese momento y no fija lo que el chico va a ser.
 
 Lo que sí se puede ver es un patrón de conductas adelantadas: vocabulario amplio o lectura temprana, curiosidad y observación agudas, una memoria fuera de lo común, períodos de concentración intensa. La Asociación Nacional de Niños Superdotados de EE. UU. (NAGC) dice que los padres suelen ser de los primeros en notarlo y, a la vez, que estos chicos son "a heterogeneous group that is not easily defined or assessed". El detalle, y cuándo vale la pena una evaluación profesional, está en [señales y evaluación](senales-y-evaluacion.md).
 
@@ -39,14 +39,14 @@ Lo que recomiendan las fuentes es lo mismo que le sirve a cualquier chico, con m
 Tres cosas conviene evitar, porque tienen evidencia en contra o ninguna a favor:
 
 - Elogiar la inteligencia ("qué inteligente sos") en vez de lo que hizo. Está en [elogio y mentalidad](../Emociones-y-caracter/elogio-y-mentalidad.md).
-- Comprar programas o productos para "hacerlo más inteligente": en un hogar que ya conversa, lee y juega no muestran ventajas que duren ([estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md)).
-- Pedirle madurez emocional a la altura de su lenguaje. El desparejo es esperable y tiene nota propia: [desarrollo asincrónico](desarrollo-asincronico.md).
+- Comprar programas o productos para "hacerlo más inteligente": no hay evidencia de que den una ventaja a un chico en un hogar que ya conversa, lee y juega ([estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md)).
+- Pedirle madurez emocional a la altura de su lenguaje. Es de esperar un desparejo entre áreas, y tiene nota propia: [desarrollo asincrónico](desarrollo-asincronico.md).
 
 En la escuela, la evidencia internacional favorece la aceleración en primaria, y en la Ciudad de Buenos Aires hay una ley y una resolución que la regulan. En el jardín la decisión es más chica: elegir un lugar que deje avanzar a cada chico a su ritmo y, solo en casos excepcionales, el ingreso anticipado ([opciones escolares](opciones-escolares.md), [elegir escuela](../Escuela/elegir-escuela.md)).
 
 ## Lo que puede salir mal
 
-Los riesgos vienen más de cómo reaccionan los adultos que del chico. Una etiqueta temprana puede cambiar cómo se ve a sí mismo, y una ventaja de los 4 años puede achicarse cuando los demás alcanzan. También puede pasar que una capacidad alta tape una dificultad, como un trastorno de atención, y la dificultad tape la capacidad. Todo eso está en [riesgos](riesgos.md), con lo que la evidencia sostiene y lo que no.
+Los riesgos que describe la bibliografía son pocos y casi todos de edad escolar. Una etiqueta temprana puede cambiar cómo se ve a sí mismo, y una ventaja de los 4 años puede achicarse cuando los demás alcanzan. También puede pasar que una capacidad alta tape una dificultad, como un trastorno de atención, y la dificultad tape la capacidad. Todo eso está en [riesgos](riesgos.md), con lo que la evidencia sostiene y lo que no.
 
 ## Qué hay en esta parte
 

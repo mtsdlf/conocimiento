@@ -17,7 +17,7 @@ revisado:
 
 La educación sexual integral temprana enseña a un chico de 0 a 6 años a nombrar su cuerpo, a cuidar su intimidad y a decir que no; incluye saber qué conductas con el propio cuerpo son esperables a esta edad y cuáles son señal de alerta.
 
-A esta edad la educación sexual no habla de sexo: habla del cuerpo, del respeto y de los secretos. Las fuentes son dos independientes, una educativa argentina y una pediátrica de Estados Unidos, que coinciden en lo central. Ante una conducta que preocupa, se consulta con el pediatra.
+Los lineamientos del jardín que se leyeron hablan del cuerpo, del respeto a la intimidad y de los secretos. Las fuentes son dos independientes, una educativa argentina y una pediátrica de Estados Unidos, que coinciden en lo central. Ante una conducta que preocupa, se consulta con el pediatra.
 
 ## Qué dice la ley argentina
 
@@ -59,7 +59,7 @@ La AAP marca como señal de alerta una conducta que:
 - implica coerción o fuerza sobre otro chico;
 - imita actos sexuales adultos o con penetración.
 
-Insertar objetos o pedirle a otros que participen en actos sexuales son, según la AAP, "raramente normales". Ante cualquiera de estas señales se consulta con el pediatra. Es una guía de organismo basada en opinión de expertos, leída a través de un extractor que resume.
+Insertar objetos o pedirle a otros que participen en actos sexuales son, según la AAP, "raramente normales". Ante cualquiera de estas señales, lo razonable es consultar con el pediatra (inferencia nuestra). Es una guía de organismo basada en opinión de expertos, leída a través de un extractor que resume.
 
 > [!NOTE]
 > Sin fuente todavía: los Lineamientos de 2018 (Res. CFE 340/18) y los Cuadernos de ESI para el nivel inicial, evidencia sobre la eficacia de los programas de prevención del abuso, y el cuidado frente a desconocidos en pantallas a esta edad.

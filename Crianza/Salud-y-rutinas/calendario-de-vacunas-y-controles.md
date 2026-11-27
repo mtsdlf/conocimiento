@@ -23,7 +23,7 @@ Fuente viva: el Ministerio de Salud de la Nación, en <https://www.argentina.gob
 
 ## Vacunas de 0 a 6 años
 
-Copiado el 2026-11-27 de la infografía oficial "Calendario Nacional de Vacunación 2026" (archivo del 2025-12-23). Se transcriben las etiquetas tal como figuran, sin las notas al pie, que la infografía no trae.
+Copiado el 2026-11-27 de la infografía oficial "Calendario Nacional de Vacunación 2026" (archivo del 2025-12-23). Se transcriben las etiquetas tal como figuran, sin las notas al pie, que la infografía no trae. Se cotejó el 2026-11-27 contra el PDF oficial y las filas coinciden; el PDF trae además las columnas de embarazo y de 15 años en adelante, que no se copian acá.
 
 | Etapa (como figura) | Vacuna (dosis o edad, como figura) |
 |---|---|

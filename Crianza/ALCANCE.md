@@ -52,6 +52,7 @@ Crianza/
   Limites-y-autonomia/        la disciplina
     estilos-de-crianza        autoritativo, autoritario, permisivo, negligente
     limites-y-consecuencias
+    programas-para-padres     Triple P, Incredible Years, PCIT y lo que muestran los metaanálisis
     castigo-gritos-y-chirlos  qué dice la evidencia
     premios                   recompensas y motivación
     autonomia-y-tareas        hacer solo, tareas a su medida
@@ -61,12 +62,14 @@ Crianza/
     lectura-compartida
     estimulacion-temprana     qué sirve y qué no
     pantallas
+    recomendaciones-de-pantallas  ficha: lo que dicen OMS, CPS, AAP y SAP, con fecha
     actividades               música, deporte e idiomas extra a esta edad
   Salud-y-rutinas/            el cuerpo y el día
     sueno
     actividad-fisica
     control-de-esfinteres
     controles-y-vacunas
+    calendario-de-vacunas-y-controles  ficha: vacunas 2026 y frecuencia de controles, con fecha
     prevencion-de-accidentes
     cuerpo-e-intimidad        educación sexual integral temprana
   Escuela/                    el jardín
@@ -76,6 +79,7 @@ Crianza/
     adaptacion
   Fundamentos/
     enfoques-de-crianza       autoritativa, respetuosa, RIE y Pikler, Montessori, crianza con apego, con su evidencia
+    cuanto-pesa-la-crianza    gemelos y heredabilidad, Harris, Plomin, Caplan, Gopnik, Oster, la respuesta de quienes estudian crianza y la crisis de replicación
     mitos-de-crianza          efecto Mozart, apps para bebés y otros
     fundamentos-de-crianza    entrada
     fuentes-sobre-crianza

@@ -57,12 +57,14 @@ Nutricion/
   Planificar-y-cocinar/       la semana
     menu-semanal
     compras-y-despensa
+    canasta-basica            ficha: el valor de la CBA del INDEC, fechado
     cocinar-por-tandas
     higiene-y-conservacion
   Fundamentos/
     fundamentos-de-nutricion  entrada
     escuelas-de-nutricion     enfoques que compiten y su evidencia
     evidencia-en-nutricion    por qué es difícil saber qué es sano
+    debates-de-nutricion      carne roja, grasas saturadas y calorías, con las dos posiciones
     fuentes-sobre-nutricion
     glosario-de-nutricion
 ```

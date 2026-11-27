@@ -20,7 +20,7 @@ revisado:
 
 La lectura compartida es leerle un libro a un chico y conversar sobre él mientras se lee; la forma dialógica, en la que el adulto pregunta y deja que el chico cuente, tiene un metaanálisis con un efecto moderado sobre el vocabulario, más chico a los 4 y 5 años.
 
-Es de lo poco que las guías recomiendan sin reservas. La OMS, en su guía de 2019 para menores de 5, pide que cuando el chico está quieto se lo anime a "reading and storytelling with a caregiver" ([OMS](https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more)). Junto con la conversación de [ida y vuelta](../Vinculo/ida-y-vuelta.md), es lo que sí sirve en un hogar que ya da mucho ([estimulación temprana](estimulacion-temprana.md)).
+La OMS, en su guía de 2019 para menores de 5, pide que cuando el chico está quieto se lo anime a "reading and storytelling with a caregiver" ([OMS](https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more)). Junto con la conversación de [ida y vuelta](../Vinculo/ida-y-vuelta.md), es lo que sí sirve en un hogar que ya da mucho ([estimulación temprana](estimulacion-temprana.md)).
 
 ## Leer conversando suma más que leer de corrido
 
@@ -44,7 +44,7 @@ El estudio de Zimmerman (2007), observacional, asoció la lectura diaria y los c
 
 ## Libro de papel y libro en pantalla
 
-La Sociedad Canadiense de Pediatría advierte que los sonidos y las animaciones de los libros electrónicos pueden interferir con la comprensión ([CPS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5823000)). Con libros de papel, en el experimento de Sosa los padres hablaron más con sus bebés que con juguetes electrónicos ([juguetes y materiales](juguetes-y-materiales.md)). El resto está en [pantallas](pantallas.md).
+La Sociedad Canadiense de Pediatría advierte que los sonidos y las animaciones de los libros electrónicos pueden interferir con la comprensión ([CPS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5823000)). Con libros, en el experimento de Sosa los padres hablaron más con sus bebés que con juguetes electrónicos ([juguetes y materiales](juguetes-y-materiales.md)). El resto está en [pantallas](pantallas.md).
 
 ## Cómo se lee de forma dialógica
 

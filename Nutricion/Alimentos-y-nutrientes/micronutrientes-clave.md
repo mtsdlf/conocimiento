@@ -25,7 +25,7 @@ revisado:
 
 Los micronutrientes clave son las vitaminas y minerales que con más frecuencia faltan o que dependen de qué grupos se comen: hierro, calcio, vitamina D, vitamina B12, zinc y yodo; se necesitan en miligramos o microgramos y su carencia se nota en grupos concretos.
 
-Una dieta variada con todos los [grupos de alimentos](grupos-de-alimentos.md) suele cubrirlos. El riesgo aparece cuando se saca un grupo entero (la carne en una dieta vegetariana, los lácteos), en etapas de mucha demanda como la infancia, y con la edad. Por eso esta nota se organiza por quién está en riesgo y no por la química de cada nutriente.
+La lógica de los [grupos de alimentos](grupos-de-alimentos.md) es que una dieta con todos ellos cubra estos nutrientes; no se leyó una fuente que lo mida. Las fuentes de abajo ubican el riesgo en quien saca un grupo (la carne en una dieta vegetariana), en la infancia y después de los 50. Por eso esta nota se organiza por quién está en riesgo y no por la química de cada nutriente.
 
 Las cantidades de abajo vienen de las hojas para profesionales del NIH Office of Dietary Supplements (ODS) de Estados Unidos, que no se pudieron abrir: se leyeron como resumen del buscador, con su cita. Falta cotejarlas contra las tablas antes de usarlas para decidir algo. Son referencias para adultos sanos, no dosis de suplemento, y una sospecha de carencia se consulta con el médico.
 
@@ -43,11 +43,11 @@ Las cantidades de abajo vienen de las hojas para profesionales del NIH Office of
 El cálculo de la RDA de vitamina D tiene una crítica publicada de 2014 sobre su método estadístico ([PMC4210929](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4210929/)): es una cifra con discrepancia, no un consenso cerrado.
 
 > [!NOTE]
-> Sin fuente todavía: la sal yodada en Argentina, las fuentes alimentarias de cada nutriente con cantidades, y una segunda fuente independiente del ODS para B12 en veganos (la postura de la Academy of Nutrition and Dietetics dice lo mismo, pero se leyó solo como resumen).
+> Sin fuente todavía: la sal yodada en Argentina, las fuentes alimentarias de cada nutriente con cantidades, y una segunda fuente independiente del ODS para B12 en veganos (la postura de 2016 de la Academy of Nutrition and Dietetics dice lo mismo, pero se leyó solo como resumen).
 
 ## Hierro y anemia en los chicos
 
-La deficiencia de hierro es la carencia que más preocupa en la infancia argentina, y la Sociedad Argentina de Pediatría (SAP) tiene una guía de prevención, diagnóstico y tratamiento. Esa guía cita una anemia de 16 % en menores de 5 años, 35 % de 6 a 24 meses y 20 % en mujeres en edad fértil ([SAP](https://www.sap.org.ar/storage/app/media/pdf/consensos_deficiencia-de-hierro-y-anemia-ferropenica-guia-para-su-prevencion-diagnostico-y-tratamiento--71.pdf), según el resumen). Esas cifras son de la Encuesta Nacional de Nutrición y Salud de 2005, no de la ENNyS 2 de 2018-2019 ([SciELO](https://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0325-00752017000400032)).
+La Sociedad Argentina de Pediatría (SAP) tiene una guía de prevención, diagnóstico y tratamiento de la deficiencia de hierro. Esa guía cita una anemia de 16 % en menores de 5 años, 35 % de 6 a 24 meses y 20 % en mujeres en edad fértil ([SAP](https://www.sap.org.ar/storage/app/media/pdf/consensos_deficiencia-de-hierro-y-anemia-ferropenica-guia-para-su-prevencion-diagnostico-y-tratamiento--71.pdf), según el resumen). Esas cifras son de la Encuesta Nacional de Nutrición y Salud de 2005, no de la ENNyS 2 de 2018-2019 ([SciELO](https://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0325-00752017000400032)).
 
 > [!NOTE]
 > Sin fuente todavía: las cifras de anemia, ferritina, vitamina D, B12, zinc y yodo de la ENNyS 2. No se pudo abrir el informe y no se deben mezclar con las de 2005.
@@ -56,4 +56,4 @@ Lo que necesita un chico de 2 a 6 años está en [necesidades de 2 a 6](../Alime
 
 ## Cuando la dieta saca un grupo
 
-Una dieta vegetariana o vegana bien planificada puede ser adecuada, según la postura de 2025 de la Academy of Nutrition and Dietetics (leída como resumen); el punto débil es la B12. Según el ODS, veganos y vegetarianos necesitan alimentos fortificados o suplementos de B12, y los suplementos que traen solo B12 suelen dar de 500 a 1000 mcg. Hierro, zinc y yodo conviene revisarlos con un profesional. La comparación de esas dietas con otras está en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md), y qué suplementos tienen evidencia para adultos, en [suplementos](../Objetivos-del-adulto/suplementos.md).
+Una dieta vegetariana o vegana bien planificada puede ser adecuada, según la postura de 2016 de la Academy of Nutrition and Dietetics (leída como resumen; hay una actualización de 2025 cuyo contenido no se leyó); el punto débil es la B12. Según el ODS, veganos y vegetarianos necesitan alimentos fortificados o suplementos de B12, y los suplementos que traen solo B12 suelen dar de 500 a 1000 mcg. Hierro, zinc y yodo conviene revisarlos con un profesional. La comparación de esas dietas con otras está en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md), y qué suplementos tienen evidencia para adultos, en [suplementos](../Objetivos-del-adulto/suplementos.md).

@@ -26,9 +26,9 @@ Entre los 2 y los 6 años se pueden ver conductas adelantadas, pero ningún test
 
 El dato más sólido es un metaanálisis de 2024 sobre la estabilidad de las capacidades cognitivas: 205 estudios longitudinales con 87.408 participantes (Breit, Scherrer, Tucker-Drob y Preckel, Psychological Bulletin). La estabilidad crece con la edad siguiendo una curva, "with low stability in preschool children, rapid increases in stability in childhood". La frase central es textual: "minimum stability sufficient for individual-level diagnostic decisions (rtt = .80) can only be expected over the age of 7 and for short time intervals in children."
 
-En ese estudio "preescolar" es hasta los 6 años inclusive. Es un metaanálisis de estudios observacionales, el tipo de evidencia más fuerte que hay para esta pregunta. En la práctica quiere decir que un CI medido a los 4 años puede salir bastante distinto a los 8, en cualquier dirección.
+En ese estudio "preescolar" es hasta los 6 años inclusive. Es un metaanálisis de estudios observacionales. De ahí se deduce que un CI medido a los 4 años no es una medida fija; la deducción es nuestra, el estudio habla de estabilidad y no de cuánto cambia cada chico.
 
-Los tests existen. El más usado para esta edad, el WPPSI-IV, tiene una versión de 2 años y 6 meses a 3 años y 11 meses, y otra de 4 años a 7 años y 7 meses, según su editor (un listado dice 7 años y 6 meses). El mismo editor sugiere, para chicos de alta capacidad, un test de edad escolar por tener un techo más alto (según su resumen). El problema no es que no se pueda medir, sino que la medida todavía cambia mucho.
+Los tests existen. Uno para esta edad es el WPPSI-IV, que tiene una versión de 2 años y 6 meses a 3 años y 11 meses, y otra de 4 años a 7 años y 7 meses, según su editor (un listado dice 7 años y 6 meses). El mismo editor sugiere, para chicos de alta capacidad, un test de edad escolar por tener un techo más alto (según su resumen). El problema no es que no se pueda medir, sino que la medida todavía cambia mucho.
 
 ## Qué conductas se ven de 2 a 6 años
 
@@ -44,20 +44,20 @@ La posición de primera infancia de la Asociación Nacional de Niños Superdotad
 
 La misma posición advierte que son "a heterogeneous group that is not easily defined or assessed", y que su crecimiento rápido y desparejo los hace difíciles de identificar. Dice que los chicos muy adelantados "frequently hide their advanced abilities" para encajar con los demás. Es opinión de expertos que cita libros y estudios chicos, escrita en 2006.
 
-Un chico puede mostrar varias de estas conductas sin tener altas capacidades, y uno con altas capacidades puede no mostrarlas en casa. La lista sirve para mirar, no para diagnosticar. Que un chico hable como uno más grande y haga berrinches de su edad entra dentro de lo esperable ([desarrollo asincrónico](desarrollo-asincronico.md)). Lo que se espera por edad en cada área está en [dominios e hitos](../Desarrollo/dominios-e-hitos.md).
+Por eso la lista sirve para mirar, no para diagnosticar: la NAGC advierte que el grupo es heterogéneo y que los chicos suelen ocultar lo que saben, así que la ausencia o la presencia de estas conductas no prueba nada. Que un chico hable como uno más grande y haga berrinches de su edad entra dentro de lo esperable ([desarrollo asincrónico](desarrollo-asincronico.md)). Lo que se espera por edad en cada área está en [dominios e hitos](../Desarrollo/dominios-e-hitos.md).
 
 ## Los padres suelen notarlo primero
 
-La NAGC dice que los padres "are often among the first to recognize gifted behaviors" y que las familias tienen que participar de la identificación. Lo que ve una familia vale como dato; lo que no da es una medida. Anotar ejemplos concretos (qué dijo, qué armó, a qué edad) le sirve más a un docente o a un profesional que un "es muy inteligente".
+La NAGC dice que los padres "are often among the first to recognize gifted behaviors" y que las familias tienen que participar de la identificación. Lo que ve una familia vale como dato; lo que no da es una medida. Anotar ejemplos concretos (qué dijo, qué armó, a qué edad) es una sugerencia de esta nota, sin fuente: parece más útil para un docente o un profesional que un "es muy inteligente".
 
 ## Cuándo pedir una evaluación
 
 Una evaluación profesional tiene sentido cuando va a cambiar una decisión. Hay dos casos claros a esta edad:
 
 1. **Una decisión escolar que la pide.** En la Ciudad de Buenos Aires, el ingreso anticipado a sala o a primer grado exige "evidencia diagnóstica que dé cuenta de las altas capacidades intelectuales" (Ley 6614, art. 6), y la página oficial habla de evaluación pedagógica, informe profesional y autorización de la Supervisión. Está en [opciones escolares](opciones-escolares.md).
-2. **Algo que preocupa además del adelanto.** Si el chico tiene problemas de conducta, de lenguaje o de relación con otros, la consulta es por eso, y una capacidad alta puede tapar una dificultad ([riesgos](riesgos.md), [señales de alarma](../Desarrollo/senales-de-alarma.md)).
+2. **Algo que preocupa además del adelanto** (criterio de esta nota, no de una fuente). Si el chico tiene problemas de conducta, de lenguaje o de relación con otros, la consulta es por eso, y una capacidad alta puede tapar una dificultad ([riesgos](riesgos.md), [señales de alarma](../Desarrollo/senales-de-alarma.md)).
 
-Fuera de esos casos, evaluar a los 3 o 4 años solo para saber da un número que todavía va a moverse y una etiqueta que pesa ([riesgos](riesgos.md)). Si se evalúa, conviene tomar el resultado como foto del momento y repetir la evaluación en edad escolar si hace falta decidir algo. La evaluación la hace un psicólogo o un equipo con formación en el tema; el pediatra es quien orienta primero, y esta nota no lo reemplaza.
+Fuera de esos casos, evaluar a los 3 o 4 años solo para saber da un número que todavía va a moverse y una etiqueta que pesa ([riesgos](riesgos.md)). Si se evalúa, conviene tomar el resultado como foto del momento y repetir la evaluación en edad escolar si hace falta decidir algo. No encontramos una fuente que diga quién debería hacer la evaluación; un primer paso razonable es conversarlo con el pediatra, y esta nota no lo reemplaza.
 
 > [!NOTE]
 > Sin fuente todavía: la Sociedad Argentina de Pediatría no tiene, en lo revisado, un consenso sobre altas capacidades. La guía en castellano más cercana es un artículo español para pediatras (Pediatría Integral, 2022), que según su resumen propone un cuestionario para la familia y derivar a la escuela; no se pudo leer completo. Tampoco se revisó el manual técnico del WPPSI-IV (techos y estabilidad test-retest).

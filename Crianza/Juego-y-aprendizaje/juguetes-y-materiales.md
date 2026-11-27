@@ -21,7 +21,7 @@ La investigación sobre juguetes es escasa. Lo que hay contrasta juguetes electr
 
 ## Con juguetes electrónicos se habla menos
 
-Sosa (2016) filmó a 26 padres con sus bebés de 10 a 16 meses en casa, en sesiones de 15 minutos con juguetes electrónicos, con juguetes tradicionales y con libros ([JAMA Pediatrics](https://doi.org/10.1001/jamapediatrics.2015.3753), según su resumen). Con los electrónicos, los adultos dijeron menos palabras, hubo menos turnos de conversación y los padres respondieron menos a lo que hacía el bebé.
+Sosa (2016) observó a 26 padres con sus bebés de 10 a 16 meses en casa, en sesiones de 15 minutos con juguetes electrónicos, con juguetes tradicionales y con libros ([JAMA Pediatrics](https://doi.org/10.1001/jamapediatrics.2015.3753), según su resumen). Con los electrónicos, los adultos dijeron menos palabras, hubo menos turnos de conversación y los padres respondieron menos a lo que hacía el bebé.
 
 | Medida con juguetes electrónicos | Valor (IC 95 %) |
 |---|---|
@@ -45,7 +45,7 @@ Las fuentes no definen "juguete abierto" ni dan una lista de juguetes recomendad
 
 1. Preferí objetos que no hagan todo solos (bloques, muñecos, pelotas, cosas de la cocina) a los que hablan, cantan o se mueven con un botón.
 2. Dejá a la vista pocos por vez y guardá el resto; rotarlos mantiene la novedad sin multiplicar la cantidad.
-3. Tené libros entre los juguetes: en el estudio de Sosa fueron lo que más conversación generó ([lectura compartida](lectura-compartida.md)).
+3. Tené libros entre los juguetes: con libros los bebés vocalizaron más que con juguetes electrónicos (3,91 veces por minuto contra 2,9) ([lectura compartida](lectura-compartida.md)).
 4. Jugá con él de vez en cuando: el juguete importa menos que el adulto que conversa mientras juegan ([juego libre](juego-libre.md)).
 
 La seguridad de los juguetes (piezas chicas, pilas de botón, imanes) es parte de la [prevención de accidentes](../Salud-y-rutinas/prevencion-de-accidentes.md).

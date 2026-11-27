@@ -27,7 +27,7 @@ Viene después del [menú semanal](menu-semanal.md) y abastece a [cocinar por ta
 
 La lista se arma recorriendo el menú de la semana, comida por comida, y anotando lo que falta. Así la compra sigue a las frecuencias de las [Guías Alimentarias](../Patrones-y-guias/guias-alimentarias-argentinas.md) y no a las ofertas de la góndola. Ordenarla por sector (verdulería, carnicería, almacén, lácteos) acorta la compra; es práctica común, no una recomendación con fuente.
 
-La proteína fija casi todo el gasto y casi todo el plan de guardado. Con pescado dos veces y carne roja hasta tres por semana, como piden las GAPA, se sabe de antemano cuántos paquetes van al freezer y cuáles se cocinan en uno o dos días. La carne picada y el pollo crudos duran 1 a 2 días en heladera según ANMAT, así que lo que no se cocina enseguida se congela al llegar.
+La proteína probablemente pesa mucho en el gasto (deducción propia) y fija buena parte del plan de guardado. Con pescado dos veces y carne roja hasta tres por semana, como piden las GAPA, se sabe de antemano cuántos paquetes van al freezer y cuáles se cocinan en uno o dos días. La carne picada y el pollo crudos duran 1 a 2 días en heladera según ANMAT, así que lo que no se cocina enseguida se congela al llegar.
 
 ## Qué conviene tener siempre en la alacena
 
@@ -51,7 +51,7 @@ Para la mesa diaria, las GAPA ponen los ultraprocesados con exceso de azúcar, g
 
 ## Cuánto cuesta comer: la Canasta Básica
 
-La referencia oficial del costo de la comida en Argentina es la Canasta Básica Alimentaria (CBA) del INDEC. Es una canasta que define la línea de indigencia, no una recomendación de qué comprar: su contenido no sigue las GAPA. Sirve para comparar cuánto sube la comida mes a mes. El valor de octubre de 2026, tomado de prensa y no verificado en el INDEC, está en la ficha [Canasta Básica Alimentaria](canasta-basica.md).
+La referencia oficial del costo de la comida en Argentina es la Canasta Básica Alimentaria (CBA) del INDEC. Es una canasta que define la línea de indigencia, no una recomendación de qué comprar (aclaración conceptual de esta base, no leída en el INDEC). Sirve para comparar cuánto sube la comida mes a mes. El valor de octubre de 2026, tomado de prensa y no verificado en el INDEC, está en la ficha [Canasta Básica Alimentaria](canasta-basica.md).
 
 ## Al volver de la compra
 

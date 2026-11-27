@@ -26,7 +26,7 @@ El modelo de [división de responsabilidades](division-de-responsabilidades.md) 
 
 ## El plato base
 
-La base es el plato de las [Guías Alimentarias argentinas](../Patrones-y-guias/guias-alimentarias-argentinas.md), que sirve desde los 2 años. Su gráfica pide "medio plato de verduras en el almuerzo y en la cena", y el resto del plato se completa con los otros grupos; las porciones de cada grupo están en esa nota. Armado así, el plato base ya está cerca de lo que necesita cada uno, y las diferencias se resuelven en el servido.
+La base es el plato de las [Guías Alimentarias argentinas](../Patrones-y-guias/guias-alimentarias-argentinas.md), que sirve desde los 2 años. Su gráfica pide "al menos medio plato de verduras en el almuerzo, medio plato en la cena y 2 o 3 frutas por día" y "3 porciones al día de leche, yogur o queso" (esas son cantidades para la población general; la guía infantil no da porciones para el chico de jardín, ver [necesidades de 2 a 6](../Alimentacion-infantil/necesidades-de-2-a-6.md)). El resto del plato se completa con los otros grupos. Armado así, el plato base ya está cerca de lo que necesita cada uno, y las diferencias se resuelven en el servido.
 
 ## Cómo se ajusta cada plato
 

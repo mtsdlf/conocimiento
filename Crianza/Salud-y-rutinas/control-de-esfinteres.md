@@ -35,7 +35,7 @@ El mismo manual ubica el control anal "entre los 2 y 3 años" y el control de la
 
 ## Qué método usar
 
-La AAP y la Sociedad Canadiense de Pediatría "recommend a child-oriented approach", el enfoque de Brazelton: el adulto ofrece y el chico marca el ritmo. El método de Azrin y Foxx, en cambio, entrena en un día con premios y repeticiones (condicionamiento operante). La revisión de 2019 concluye "no training method is superior to others".
+La AAP y la Sociedad Canadiense de Pediatría "recommend a child-oriented approach", el enfoque de Brazelton, centrado en el chico. El método de Azrin y Foxx, en cambio, entrena en un día y se basa en el condicionamiento operante. La revisión de 2019 concluye "no training method is superior to others".
 
 La evidencia es débil: las tres recomendaciones clave de esa revisión son nivel C, es decir consenso y opinión de expertos. No hay ensayos que comparen métodos, y no se encontró una revisión Cochrane. La guía de la AAP de 1999 que suele citarse solo se vio en un buscador. Cómo usar premios sin que se vuelvan el motivo está en [premios](../Limites-y-autonomia/premios.md).
 
@@ -43,11 +43,11 @@ La evidencia es débil: las tres recomendaciones clave de esa revisión son nive
 
 El Manual MSD llama "contraproducentes" al castigo y al enojo ante los accidentes. Las luchas de poder pueden provocar una regresión. Si el chico se niega, la recomendación es posponer varias semanas y volver a probar. Es una fuente de opinión de expertos. Lo que se sabe del castigo en otras situaciones está en [castigo, gritos y chirlos](../Limites-y-autonomia/castigo-gritos-y-chirlos.md).
 
-Una regresión también aparece con un cambio grande, como un hermanito o una mudanza ([cambios difíciles](../Emociones-y-caracter/cambios-dificiles.md)).
+Los cambios grandes de la vida del chico están en [cambios difíciles](../Emociones-y-caracter/cambios-dificiles.md); ninguna fuente leída los relaciona con la regresión del control de esfínteres.
 
 ## Cuándo consultar
 
-De día, la revisión de 2019 marca el umbral: "Inability to achieve at least daytime continence by five years of age is unusual". Un chico que a los 5 no controla de día se consulta con el pediatra. Las demás señales del desarrollo que piden consulta están en [señales de alarma](../Desarrollo/senales-de-alarma.md).
+De día, la revisión de 2019 marca el umbral: "Inability to achieve at least daytime continence by five years of age is unusual". Es razonable llevar al pediatra a un chico que a los 5 no controla de día. Las demás señales del desarrollo que piden consulta están en [señales de alarma](../Desarrollo/senales-de-alarma.md).
 
 De noche, el umbral también es de 5 años. La SAP define la enuresis nocturna como incontinencia de orina intermitente durante el sueño en chicos "> 5 años de edad", sin otros síntomas urinarios. La misma guía advierte que "La arbitrariedad de los 5 años y el imperativo cultural de controlar esfínteres debería posicionar a los colegas para la evaluación lejos de una mirada de 'enfermedad'", y la describe como "una condición transitoria y de resolución espontánea".
 

@@ -24,7 +24,7 @@ La escuela suma adultos y pares al [juego y aprendizaje](../Juego-y-aprendizaje/
 
 En Argentina el jardín es obligatorio desde la sala de 4 por la Ley 27.045, y la sala de 3 y el maternal son opcionales ([jardín](jardin.md)). Sobre qué aporta, los estudios discrepan: un consenso de investigadores ve efectos positivos de los programas públicos y un ensayo aleatorizado en Tennessee encontró efectos negativos a largo plazo. Lo que se repite es que la calidad decide, y que no hay una edad óptima de ingreso establecida para un chico que en casa tiene un ambiente rico.
 
-La calidad que más se asocia con lo que aprende el chico es la de proceso: cómo conversan, contienen y organizan los docentes. La estructural, como la cantidad de chicos por adulto, se pregunta; la de proceso se ve en una visita ([elegir escuela](elegir-escuela.md)). Un jardín que adelanta lectoescritura a costa del juego va contra la posición de la NAEYC y contra lo que se sabe del fade-out de las ventajas tempranas.
+La calidad que más se asocia con lo que aprende el chico es la de proceso: cómo conversan, contienen y organizan los docentes. La estructural, como la cantidad de chicos por adulto, se pregunta; la de proceso se ve en una visita ([elegir escuela](elegir-escuela.md)). Un jardín que adelanta lectoescritura a costa del juego choca con la posición de la NAEYC, que pone el juego en el centro de la enseñanza, y con el fade-out de las ventajas tempranas (inferencia nuestra).
 
 ## La escuela bilingüe, en pocas líneas
 

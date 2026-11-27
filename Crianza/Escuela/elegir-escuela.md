@@ -41,7 +41,7 @@ Las horas también cuentan: en el estudio del NICHD, más horas en cuidado se as
 
 ## El juego en el centro
 
-La declaración de 2020 de la NAEYC sobre práctica apropiada para el desarrollo pone el juego como práctica central de enseñanza en la primera infancia ([NAEYC](https://www.naeyc.org/resources/position-statements/dap/principles)). Un jardín que adelanta fichas y lectoescritura a costa del juego va contra esa posición y contra lo que se sabe de cómo aprenden los chicos chicos ([juego libre](../Juego-y-aprendizaje/juego-libre.md)). Las ventajas académicas adelantadas, además, tienden a desdibujarse ([estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md)). Los métodos con nombre propio, como Montessori, están en [enfoques de crianza](../Fundamentos/enfoques-de-crianza.md).
+La declaración de 2020 de la NAEYC sobre práctica apropiada para el desarrollo pone el juego como práctica central de enseñanza en la primera infancia ([NAEYC](https://www.naeyc.org/resources/position-statements/dap/principles)). Un jardín que adelanta fichas y lectoescritura a costa del juego choca con esa posición (inferencia nuestra) ([juego libre](../Juego-y-aprendizaje/juego-libre.md)). Las ventajas académicas adelantadas, además, tienden a desdibujarse ([estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md)). Los métodos con nombre propio, como Montessori, están en [enfoques de crianza](../Fundamentos/enfoques-de-crianza.md).
 
 ## Qué mirar en una visita
 

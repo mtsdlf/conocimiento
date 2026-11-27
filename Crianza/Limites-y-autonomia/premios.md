@@ -29,7 +29,7 @@ El metaanálisis de Leijten y otros (2019), sobre 154 ensayos de programas para 
 
 ## Cuándo un premio baja las ganas
 
-La otra línea de investigación estudia la motivación intrínseca: hacer algo porque gusta. Un metaanálisis de Deci, Koestner y Ryan (1999) sobre 128 estudios encontró, según su resumen, que los premios materiales esperados, dados por participar, por terminar o por el desempeño, "significantly undermined free-choice intrinsic motivation" (d = -0,40, -0,36 y -0,28). En cambio, la retroalimentación positiva (decirle al chico qué hizo bien) aumentó el interés (d = 0,33 y 0,31). Y "Tangible rewards tended to be more detrimental for children than college students". Son experimentos, casi todos de laboratorio y con tareas que ya interesaban.
+La otra línea de investigación estudia la motivación intrínseca: hacer algo porque gusta. Un metaanálisis de Deci, Koestner y Ryan (1999) sobre 128 estudios encontró, según su resumen, que las recompensas condicionadas a participar, a terminar o al desempeño "significantly undermined free-choice intrinsic motivation" (d = -0,40, -0,36 y -0,28). En cambio, la retroalimentación positiva aumentó la conducta de elección libre (d = 0,33) y el interés declarado (d = 0,31). Y "Tangible rewards tended to be more detrimental for children than college students". Son experimentos, casi todos de laboratorio y con tareas que ya interesaban.
 
 En chicos chicos hay un experimento claro. Warneken y Tomasello (2008) vieron que bebés de 20 meses que recibieron un premio material por ayudar ayudaron menos después que los que recibieron un elogio o nada, según su resumen. La ayuda espontánea es algo que los chicos chicos hacen solos, como se ve en [autonomía y tareas](autonomia-y-tareas.md).
 
@@ -46,11 +46,11 @@ Qué tipo de elogio conviene (al esfuerzo o al talento, cuánto, cuándo) está 
 
 Los CDC dan una guía práctica, sin citar estudios:
 
-1. **Elogiá con detalle lo que hizo.** "I saw that you put your toys away!" en vez de "¡Muy bien!".
-2. **Dá el premio enseguida.** A esta edad, la demora le quita sentido.
+1. **Elogiá con detalle lo que hizo.** "I saw that you put your toys away!"
+2. **Dá el premio enseguida.**
 3. **Empezá por los premios sociales.** Afecto, elogio y tiempo especial con el adulto, antes que objetos.
 4. **Si usás una tabla, que sea simple.** Con dibujos y palabras simples, y conductas simples y realistas para la edad.
-5. **No saques lo ganado.** "Never take away rewards your child has already earned": el premio no se convierte en castigo.
+5. **No saques lo ganado.** "Never take away rewards your child has already earned".
 
 > [!NOTE]
 > Sin fuente todavía: una fuente en castellano o argentina sobre tablas de stickers, y los textos de Cameron y Pierce y de Lepper (1973). La página de Raising Children Network sobre tablas no se leyó.

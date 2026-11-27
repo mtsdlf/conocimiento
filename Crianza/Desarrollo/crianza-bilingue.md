@@ -37,7 +37,7 @@ Los argumentos, en orden:
 
 ## Qué se puede esperar de la escuela de inmersión
 
-Casi toda la evidencia sobre escuelas en otro idioma viene de la inmersión en francés en Canadá, con chicos que hablan inglés en casa y en la calle. Es la situación más parecida a la de un chico argentino que habla castellano en casa y va a una escuela en inglés: el idioma de la casa es también el de la sociedad. Genesee llama a esto un entorno bilingüe "aditivo": el segundo idioma se suma sin desplazar al primero.
+Casi toda la evidencia sobre escuelas en otro idioma viene de la inmersión en francés en Canadá, con chicos que hablan inglés en casa y en la calle. Se parece a la de un chico argentino que habla castellano en casa y va a una escuela en inglés en que el idioma de la casa es también el de la sociedad, pero no es igual: un colegio bilingüe argentino puede tener otra carga horaria. Genesee llama a esto un entorno bilingüe "aditivo": el segundo idioma se suma sin desplazar al primero.
 
 Según Genesee y Lindholm-Leary, estos alumnos logran más francés que quienes lo estudian como materia, aunque "seldom attain native-like grammatical accuracy" ni después de 10 a 12 años. En inglés, el idioma de su casa, alcanzan "the same levels of proficiency in all aspects of English" que sus pares en escuelas solo en inglés. Pueden ir por detrás en lectura y escritura en inglés en los primeros grados de inmersión total, y se emparejan dentro de uno o dos años de tener clases en inglés, "usually by grades 3 or 4" (Genesee, 2009). En ciencias y matemática rinden igual, y los chicos con dificultades de lenguaje o riesgo escolar rinden como sus pares de escuelas en un solo idioma.
 
@@ -56,7 +56,7 @@ Los estudios que revisa Genesee (2008) eligieron chicos que pasaban al menos un 
 
 La regla "una persona, una lengua" (cada padre habla siempre el mismo idioma) es la estrategia más conocida, y la evidencia no la respalda como necesaria. De Houwer (2007), con un cuestionario a 1.899 familias belgas, halló que "the 'one parent–one language' strategy did not provide a necessary nor sufficient input condition". Lo que más se asoció con que los chicos usaran el idioma minoritario fue que los dos padres lo hablaran en casa. Es un estudio correlacional, basado en lo que reportan los padres, y se leyó solo el resumen.
 
-Esto importa a las familias que tienen un idioma de herencia distinto del de la escuela y la calle. Para una familia que habla castellano y elige una escuela en inglés, no hace falta ninguna estrategia especial en casa.
+Esto importa a las familias que tienen un idioma de herencia distinto del de la escuela y la calle. Para una familia que habla castellano y elige una escuela en inglés, no parece hacer falta una estrategia especial en casa; es una inferencia, porque el estudio mira otra situación.
 
 ## Qué hacer en casa
 

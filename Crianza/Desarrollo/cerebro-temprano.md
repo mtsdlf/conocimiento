@@ -8,7 +8,6 @@ fuentes:
   - https://developingchild.harvard.edu/key-concept/serve-and-return/
   - https://developingchild.harvard.edu/key-concept/toxic-stress/
   - https://developingchild.harvard.edu/key-concept/timing-and-critical-periods/
-  - https://developingchild.harvard.edu/re-envisioning-ecd/
   - https://pubmed.ncbi.nlm.nih.gov/22201156/
   - https://pubmed.ncbi.nlm.nih.gov/27717615/
   - https://nurturing-care.org/about/what-is-the-nurturing-care-framework/
@@ -31,7 +30,7 @@ Casi todo lo que aquí se cita del Centro para el Niño en Desarrollo de Harvard
 
 Según el Centro de Harvard, "brains are built over time, from the bottom up", en un proceso que empieza antes de nacer. En los primeros años se formarían más de un millón de conexiones nuevas por segundo, y las conexiones tempranas dan una base "strong or weak" para las que vienen después.
 
-La SAP dice lo mismo desde la pediatría argentina: en los primeros años "el sistema nervioso crece y se desarrolla como en ningún otro momento de la vida y presenta gran plasticidad neuronal". Por eso es una etapa vulnerable y también sensible a la ayuda. La consecuencia práctica es que vale la pena consultar temprano ante una duda ([señales de alarma](senales-de-alarma.md)).
+La SAP dice lo mismo desde la pediatría argentina: en los primeros años "el sistema nervioso crece y se desarrolla como en ningún otro momento de la vida y presenta gran plasticidad neuronal". Por eso es una etapa vulnerable y también sensible a la ayuda. De ahí se puede deducir que conviene consultar temprano ante una duda ([señales de alarma](senales-de-alarma.md)); la deducción es nuestra, la guía lo dice de otro modo.
 
 ## La interacción que construye: ida y vuelta
 
@@ -65,8 +64,8 @@ Un período sensible es una edad en que el cerebro aprende algo con más facilid
 La divulgación transformó estos hallazgos en "los primeros tres años lo deciden todo". John Bruer, en *The Myth of the First Three Years* (1999), sostiene que el mito junta tres datos ciertos (el crecimiento rápido de sinapsis, los períodos críticos para cosas como la visión y la lengua materna, y la idea de que la suma vuelve absolutos los tres años) y que al separarlos "you can't make that strong of an argument". Bruer acepta que los períodos críticos existen y afirma que el aprendizaje sigue toda la niñez. Su libro es una crítica argumentada, no un metaanálisis, y se conoce aquí por una entrevista y la sinopsis, no por el libro completo.
 
 > [!IMPORTANT]
-> Las dos posiciones coinciden en que la privación y la adversidad extremas dañan. Discrepan en cuánto de la variación corriente entre hogares se decide temprano: Harvard pone el acento en la infancia temprana como base, y Bruer advierte contra la presión por estimular. El propio Centro de Harvard revisó después su marco hacia el entorno más amplio del chico.
+> Las dos posiciones coinciden en que la privación y la adversidad extremas dañan. Discrepan en cuánto de la variación corriente entre hogares se decide temprano: Harvard pone el acento en la infancia temprana como base, y Bruer advierte contra la presión por estimular.
 
 Para una familia que ya conversa, juega y responde, la lectura prudente es tranquilizadora: no hace falta un programa especial para "aprovechar la ventana". Está en [estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md) y en [mitos de crianza](../Fundamentos/mitos-de-crianza.md). Lo que sí importa es la calidad del vínculo, en [apego](../Vinculo/apego.md), y el estado de los adultos, en [bienestar de los padres](../Vinculo/bienestar-de-los-padres.md).
 
-Esta nota resume divulgación experta y guías. No reemplaza al pediatra.
+Esto resume divulgación experta y guías, y no reemplaza al pediatra.

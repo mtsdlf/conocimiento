@@ -21,7 +21,7 @@ No hay una nutrición de la estética aparte. Verse más definido es tener menos
 
 ## Lo realista: cuanto más magro, más despacio
 
-El cuerpo se resiste más a perder grasa cuando ya tiene poca. La posición de la International Society of Sports Nutrition (ISSN) dice que cuanta más grasa hay al empezar, más agresivo puede ser el déficit, y que en personas más magras bajar despacio conserva más músculo ([Aragon y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/)). Cita a Helms y colegas, que sugieren bajar de 0,5 a 1,0 % del peso por semana a fisicoculturistas que se preparan para competir. Si quienes se dedican a eso van a ese ritmo, un adulto que quiere marcar el abdomen no debería ir más rápido.
+El cuerpo se resiste más a perder grasa cuando ya tiene poca. La posición de la International Society of Sports Nutrition (ISSN) dice que cuanta más grasa hay al empezar, más agresivo puede ser el déficit, y que en personas más magras bajar despacio conserva más músculo ([Aragon y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/)). Cita a Helms y colegas, que sugieren bajar de 0,5 a 1,0 % del peso por semana a fisicoculturistas que se preparan para competir. Una inferencia razonable es que un adulto que quiere marcar el abdomen no tiene por qué ir más rápido que ese ritmo; las fuentes no lo dicen para el público general.
 
 Lo sostenible es lo que se puede mantener después. La misma posición recuerda que el cuerpo responde al déficit con más hambre y menos gasto, y que el éxito a largo plazo depende de poder seguir la dieta. El aspecto de una foto de competencia es un pico de pocos días, no un estado que se mantenga todo el año.
 
@@ -30,7 +30,7 @@ Lo sostenible es lo que se puede mantener después. La misma posición recuerda 
 
 ## Los riesgos de las dietas extremas
 
-Las dietas extremas fallan primero por adherencia. Sobre las cetogénicas y las muy bajas en grasa, la ISSN anota que "Dietary extremes can challenge long-term adherence", y ninguna de las dos mostró ventaja sobre otras con las mismas calorías y proteína. Bajar muy rápido también cuesta músculo, que es justamente lo que da la forma ([pérdida de grasa](perdida-de-grasa.md) tiene el ritmo que recomiendan las fuentes).
+Las dietas extremas fallan primero por adherencia. Sobre las cetogénicas y las muy bajas en grasa, la ISSN anota que "Dietary extremes can challenge long-term adherence", y ninguna de las dos mostró ventaja sobre otras con las mismas calorías y proteína. Según la ISSN, bajar más despacio conserva más músculo en personas magras, y el músculo es lo que da la forma ([pérdida de grasa](perdida-de-grasa.md) tiene el ritmo que recomiendan las fuentes).
 
 Los suplementos que prometen definir son otro riesgo. Una parte de los productos que se venden para el gimnasio tiene sustancias que no figuran en la etiqueta, como cuenta [suplementos](suplementos.md).
 
@@ -39,7 +39,7 @@ Los suplementos que prometen definir son otro riesgo. Una parte de los productos
 
 ## Cuando la imagen se vuelve obsesión
 
-La preocupación por el aspecto puede volverse un problema de salud. La dismorfia muscular, también llamada vigorexia, se describe como un cuadro de tipo dismórfico con preocupación excesiva por la imagen corporal. Una revisión sistemática de 2016 estima que hasta 10 % de los hombres que van al gimnasio podrían presentarla ([psiquiatria.com](https://psiquiatria.com/trastornos-de-la-personalidad/vigorexia-y-culto-al-cuerpo-alteraciones-de-la-imagen-corporal-en-hombres), según un resumen de segunda mano). No hay consenso científico sobre su definición.
+La preocupación por el aspecto puede volverse un problema de salud. La dismorfia muscular, también llamada vigorexia, se describe como un cuadro de tipo dismórfico con preocupación excesiva por la imagen corporal. Una revisión sistemática de 2016 estima que un 10 % de los hombres que van al gimnasio pueden presentarla ([psiquiatria.com](https://psiquiatria.com/trastornos-de-la-personalidad/vigorexia-y-culto-al-cuerpo-alteraciones-de-la-imagen-corporal-en-hombres), según un resumen de segunda mano). No hay consenso científico sobre su definición.
 
 Los rasgos que se describen son dietas muy altas en proteína, uso de suplementos y ejercicio intenso, con riesgo de terminar en un trastorno de la conducta alimentaria ([Redalyc](https://www.redalyc.org/journal/6138/613872154005/613872154005.pdf), según su resumen). La evidencia es observacional y las dos fuentes son secundarias.
 

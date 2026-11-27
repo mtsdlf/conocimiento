@@ -61,8 +61,8 @@ Las definiciones salen de las fuentes que citan las notas, casi todas leídas po
 | Término | Qué es | Dónde se desarrolla |
 |---|---|---|
 | Apego | El lazo del chico con los adultos que lo cuidan. El apego seguro se asocia con más competencia social con pares y menos problemas de conducta, con efectos modestos. | [Apego](../Vinculo/apego.md) |
-| Crianza con apego | El método de William Sears (portear, colecho, lactancia a demanda). Es un estilo de crianza, no la teoría del apego. | [Enfoques de crianza](enfoques-de-crianza.md) |
-| Sensibilidad | Qué tan bien el adulto nota las señales del chico y responde a tiempo y de acuerdo con ellas. Fue el mejor predictor del apego en el estudio NICHD. | [Apego](../Vinculo/apego.md) |
+| Crianza con apego | El método de William Sears (portear, colecho, respuesta sensible). Es un estilo de crianza, no la teoría del apego. | [Enfoques de crianza](enfoques-de-crianza.md) |
+| Sensibilidad | Qué tan bien el adulto nota las señales del chico y responde a tiempo y de acuerdo con ellas. Fue el mejor predictor del apego en el estudio NICHD, según una nota de prensa de 1996. | [Apego](../Vinculo/apego.md) |
 | Ida y vuelta (*serve and return*) | "Responsive, back-and-forth exchanges between a young child and a caring adult": el chico balbucea o señala, y el adulto responde con la mirada, palabras o un abrazo. | [Ida y vuelta](../Vinculo/ida-y-vuelta.md) |
 | Funciones ejecutivas | La familia de tres habilidades que permiten frenar, recordar y cambiar de plan: control inhibitorio, memoria de trabajo y flexibilidad cognitiva. | [Funciones ejecutivas](../Emociones-y-caracter/funciones-ejecutivas.md) |
 | Regulación emocional | La capacidad de manejar la intensidad de las emociones; a esta edad, la parte emocional de la autorregulación que también incluye las funciones ejecutivas. | [Regulación emocional](../Emociones-y-caracter/regulacion-emocional.md) |
@@ -101,9 +101,12 @@ Las definiciones salen de las fuentes que citan las notas, casi todas leídas po
 | Estudio observacional | Uno que mide lo que la gente ya hace, sin asignarlo. Muestra asociaciones, no causas. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
 | Metaanálisis | Un estudio que junta los resultados de muchos otros para sacar un efecto promedio. Hereda los defectos de los estudios que junta. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
 | Tamaño del efecto | Cuánto cambia algo, en una escala común (d, r, SMD). | [Enfoques de crianza](enfoques-de-crianza.md) |
-| Heredabilidad | Qué parte de las diferencias entre personas de una población va con las diferencias genéticas. Describe a una población, no a un chico. | [Enfoques de crianza](enfoques-de-crianza.md) |
-| Entorno compartido | Lo que hace parecidos a hermanos criados juntos, más allá de los genes. No es lo mismo que "la crianza". | [Enfoques de crianza](enfoques-de-crianza.md) |
-| Entorno no compartido | Lo que hace distintos a hermanos criados juntos: experiencias propias, pares, azar. | [Enfoques de crianza](enfoques-de-crianza.md) |
-| Crisis de replicación | La caída de efectos famosos de la psicología al repetir los estudios con más gente y el plan registrado de antemano. | [Enfoques de crianza](enfoques-de-crianza.md) |
+| Heredabilidad | Qué parte de las diferencias entre personas de una población va con las diferencias genéticas. Describe a una población, no a un chico. | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
+| Entorno compartido | Lo que hace parecidos a hermanos criados juntos, más allá de los genes. No es lo mismo que "la crianza". | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
+| Entorno no compartido | Lo que hace distintos a hermanos criados juntos: experiencias propias, pares, azar. | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
+| Crisis de replicación | La caída de efectos famosos de la psicología al repetir los estudios con más gente y el plan registrado de antemano. | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
 | Desvanecimiento (*fade-out*) | La tendencia de las ventajas que dan los programas tempranos a achicarse en los años siguientes. Es un hallazgo sobre intervenciones, no sobre chicos adelantados por naturaleza. | [Estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md) |
 | Lectura dialógica | Leer haciendo preguntas y dejando que el chico cuente; un metaanálisis le halló un efecto de d = 0,59, menor a los 4 y 5 años. | [Lectura compartida](../Juego-y-aprendizaje/lectura-compartida.md) |
+
+> [!NOTE]
+> Sin fuente todavía: las definiciones de ensayo aleatorizado, estudio observacional, metaanálisis, tamaño del efecto, heredabilidad y entorno no compartido son definiciones corrientes de metodología, no tomadas de una fuente puntual.

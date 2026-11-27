@@ -36,7 +36,7 @@ El informe clínico de la AAP "The Power of Play" (Yogman y otros, 2018) sostien
 
 Si hay algo concreto que aprender (contar, palabras nuevas, una forma geométrica), el juego guiado rinde más que el libre. Así lo resumen Weisberg, Hirsh-Pasek y Golinkoff: "guided play trumps free play" ([NIEER](https://nieer.org/research-library/playful-learning)). Son las propias autoras defendiendo su posición, y el tamaño del efecto no se verificó en el texto original.
 
-En la práctica, las dos formas se complementan. El juego libre deja al chico decidir, probar y aburrirse; el guiado aprovecha su interés para mostrarle algo un paso más allá. Un adulto que sigue el juego del chico y le devuelve una pregunta está haciendo la misma [ida y vuelta](../Vinculo/ida-y-vuelta.md) que construye el lenguaje.
+En la práctica (inferencia nuestra), las dos formas se complementan. El juego libre deja al chico decidir, probar y aburrirse; el guiado aprovecha su interés para mostrarle algo un paso más allá. Un adulto que sigue el juego del chico y le devuelve una pregunta está haciendo la misma [ida y vuelta](../Vinculo/ida-y-vuelta.md) que construye el lenguaje.
 
 ## Cómo se le hace lugar en casa
 

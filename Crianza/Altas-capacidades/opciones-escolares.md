@@ -11,7 +11,7 @@ fuentes:
   - https://buenosaires.gob.ar/gcaba_historico/educacion/acompanamiento-pedagogico-para-estudiantes-con-altas-capacidades-intelectuales-0
   - https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/123542/norma.htm
   - https://www.mendoza.gov.ar/wp-content/uploads/sites/77/2021/09/26206.pdf
-  - https://www4.hcdn.gob.ar/dependencias/dsecretaria/Periodo2023/PDF2023/TP2023/1893-D-2023.pdf
+  - https://www4.hcdn.gob.ar/dependencias/dsecretaria/Periodo2023/PDF2023/TP2023/1553-D-2023.pdf
 aliases:
   - aceleración
   - ingreso anticipado
@@ -35,7 +35,7 @@ Conviene separar tres cosas que se mezclan: lo que dice la investigación intern
 | Agrupamiento | Juntar por un rato a chicos de nivel parecido | Un grupo de lectura con chicos que ya leen, aunque sean de otra sala |
 | Aceleración | Avanzar más rápido que la edad, por grado o por materia | Ingreso anticipado a una sala o a primer grado |
 
-A Nation Deceived (2004), la síntesis más citada sobre aceleración, identifica 18 formas distintas, unas por grado completo y otras por materia.
+A Nation Deceived (2004), una síntesis sobre aceleración, identifica 18 formas distintas, unas por grado completo y otras por materia.
 
 ## Qué dice la evidencia sobre acelerar
 
@@ -48,20 +48,20 @@ A Nation Deceived es más enfático: "Acceleration is the most effective curricu
 
 ## Qué mirar antes de adelantar a un chico
 
-A Nation Deceived pone dos condiciones que valen para cualquier edad. Para saltear un grado los chicos "need emotional maturity as well as academic ability", y "the attitude of the adults involved" es decisiva. El [desarrollo asincrónico](desarrollo-asincronico.md) hace que la primera pese más antes de los 6 años, y la medición poco estable de esa edad ([señales y evaluación](senales-y-evaluacion.md)) hace que la decisión se apoye en un dato que todavía se mueve.
+A Nation Deceived pone dos condiciones que valen para cualquier edad. Para saltear un grado los chicos "need emotional maturity as well as academic ability", y "the attitude of the adults involved" es decisiva. El [desarrollo asincrónico](desarrollo-asincronico.md) haría pesar más la primera antes de los 6 años, por deducción nuestra, y la medición poco estable de esa edad ([señales y evaluación](senales-y-evaluacion.md)) hace que la decisión se apoye en un dato que todavía se mueve.
 
 Antes de pedir un ingreso anticipado conviene preguntarse:
 
-1. ¿El jardín ya probó enriquecer lo que hace, y no alcanzó? En la Ciudad la norma pide ese orden.
+1. ¿El jardín ya probó enriquecer lo que hace, y no alcanzó? La página oficial de la Ciudad pone el ingreso anticipado después de otras acciones.
 2. ¿Cómo se lleva con chicos un año más grandes, en juego, en espera y en frustración?
 3. ¿Qué pasa en los años siguientes? Un ingreso anticipado a sala adelanta toda la escolaridad, incluida la entrada a primaria y a secundaria.
-4. ¿Los adultos de la escuela están a favor? Sin esa actitud, la evidencia dice que funciona peor.
+4. ¿Los adultos de la escuela están a favor? A Nation Deceived llama decisiva a esa actitud.
 
 ## La norma argentina, a noviembre de 2026
 
-**Nación.** La Ley de Educación Nacional 26.206, en su artículo 93, dice que "Las autoridades educativas jurisdiccionales organizarán o facilitarán el diseño de programas para la identificación, evaluación temprana, seguimiento y orientación de los/as alumnos/as con capacidades o talentos especiales y la flexibilización o ampliación del proceso de escolarización" (texto de InfoLEG, consultado el 2026-11-27). Deja la tarea a cada provincia y a la Ciudad. No se encontró una ley nacional específica ni una resolución del Consejo Federal de Educación sobre altas capacidades; en Diputados hay proyectos presentados (por ejemplo, el 1893-D-2023), sin sanción en lo revisado. La misma ley fija el nivel inicial de los 45 días a los 5 años (art. 18) y su obligatoriedad desde los 4 (art. 16).
+**Nación.** La Ley de Educación Nacional 26.206, en su artículo 93, dice que "Las autoridades educativas jurisdiccionales organizarán o facilitarán el diseño de programas para la identificación, evaluación temprana, seguimiento y orientación de los/as alumnos/as con capacidades o talentos especiales y la flexibilización o ampliación del proceso de escolarización" (texto de InfoLEG). Deja la tarea a cada provincia y a la Ciudad. No se encontró una ley nacional específica ni una resolución del Consejo Federal de Educación sobre altas capacidades; en Diputados hay proyectos presentados (por ejemplo, el 1553-D-2023), sin sanción en lo revisado. La misma ley fija el nivel inicial de los 45 días a los 5 años (art. 18) y su obligatoriedad desde los 4 (art. 16).
 
-**Ciudad de Buenos Aires.** La Ley 6614 se sancionó el 17/11/2022, se promulgó el 14/12/2022 y se publicó el 21/12/2022. Rige para escuelas estatales y privadas, y dice:
+**Ciudad de Buenos Aires.** La Ley 6614 se sancionó el 17/11/2022, se promulgó el 14/12/2022 y se publicó el 21/12/2022. Dice:
 
 - art. 3: la definición de altas capacidades ([qué son](que-son-las-altas-capacidades.md));
 - art. 5: la autoridad de aplicación define procedimientos de detección temprana y capacitación docente;
@@ -69,13 +69,13 @@ Antes de pedir un ingreso anticipado conviene preguntarse:
 
 La Resolución 1430/25 de la Ciudad (sancionada el 30/10/2025, publicada el 5/11/2025) aprueba el marco de acompañamiento para los niveles obligatorios, de gestión estatal y privada. Los criterios están en su Anexo I, que no se revisó para esta base. La página oficial de la Ciudad dice que las escuelas pueden combinar enriquecimiento curricular, compactación de contenidos, agrupamientos flexibles y acompañamiento socioemocional, registrados en un Plan Pedagógico Individual. La promoción o el ingreso anticipado son excepcionales: solo "si el estudiante necesita mayores desafíos después de otras acciones", con evaluación pedagógica, informe profesional y autorización de la Supervisión Escolar.
 
-Como el nivel inicial es obligatorio desde los 4 años, un ingreso anticipado a sala cae sobre todo en las salas de 3 y 4; la norma porteña no lo precisa.
+Como el nivel inicial es obligatorio desde los 4 años, un ingreso anticipado a sala cae sobre todo en las salas de 3 y 4, por deducción nuestra; la norma porteña no lo precisa.
 
 **Provincia de Buenos Aires y otras provincias.**
 
 > [!NOTE]
-> Sin fuente todavía: no se encontró una norma de la Dirección General de Cultura y Educación bonaerense sobre altas capacidades (la búsqueda fue una sola), y las demás provincias no se revisaron. Tampoco se leyó el Anexo I de la Res. 1430/25.
+> Sin fuente todavía: el número del artículo 93 y su texto exacto no figuran en el informe de fuentes, que solo lo menciona sin verificar; hay que abrir InfoLEG antes de pasar la nota a vigente. Tampoco se encontró una norma de la Dirección General de Cultura y Educación bonaerense sobre altas capacidades (la búsqueda fue una sola), y las demás provincias no se revisaron. Tampoco se leyó el Anexo I de la Res. 1430/25.
 
 ## Lo que pasa en la práctica
 
-Un artículo académico de 2019 sostiene que la Argentina carece de una política de Estado que garantice la identificación (Pirovano, Universidad de Belgrano, según su resumen). Que exista la norma no quiere decir que cada escuela la conozca o la aplique, y en el jardín casi todo depende de la docente y de la dirección. Hay asociaciones de familias y servicios universitarios que asesoran, conocidos solo por prensa en esta base. Para una familia, la pregunta útil en una entrevista es qué hace el jardín con un chico que ya sabe lo que se está enseñando ([elegir escuela](../Escuela/elegir-escuela.md), [jardín](../Escuela/jardin.md)).
+Un artículo académico de 2019 sostiene que la Argentina carece de una política de Estado que garantice la identificación (Pirovano, Universidad de Belgrano, según su resumen). Que exista la norma no garantiza que cada escuela la conozca o la aplique. Hay asociaciones de familias y servicios universitarios que asesoran, conocidos solo por prensa en esta base. Para una familia, la pregunta útil en una entrevista es qué hace el jardín con un chico que ya sabe lo que se está enseñando ([elegir escuela](../Escuela/elegir-escuela.md), [jardín](../Escuela/jardin.md)).

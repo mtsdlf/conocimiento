@@ -27,9 +27,9 @@ Las dietas de moda son patrones que se promocionan como mejores que comer de for
 
 El nombre junta cosas distintas. La low-carb y el ayuno se estudiaron con ensayos de peso; la vegetariana y la vegana se eligen muchas veces por razones éticas o culturales y tienen una postura profesional propia; la [dieta mediterránea](dieta-mediterranea.md), con ensayos de infartos y ACV, va aparte. Todas se comparan acá con la base de las [Guías Alimentarias argentinas](guias-alimentarias-argentinas.md). Ninguna reemplaza la consulta con un médico o un licenciado en nutrición, sobre todo con una enfermedad de base.
 
-## La comparación justa: el mismo déficit
+## Qué pasa cuando se comparan dietas en un ensayo
 
-Casi cualquier dieta hace bajar de peso si hace comer menos energía. La pregunta útil es si una dieta hace bajar más que otra con el mismo déficit, y ahí la respuesta de tres ensayos aleatorizados es la misma: con calorías y proteína comparables no aparece una diferencia consistente, y lo que cambia es cuánto se puede sostener cada una. Esa conclusión sale de tres ensayos (DIETFITS, TREAT y el de Liu), no de una revisión que compare todos los patrones juntos. Cómo se arma un déficit y cómo se sostiene está en [pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md).
+Casi cualquier dieta hace bajar de peso si hace comer menos energía. La pregunta útil es si una dieta hace bajar más que otra, y tres ensayos aleatorizados no encontraron una diferencia clara. Solo el de Liu fijó la misma restricción calórica en los dos grupos; DIETFITS y TREAT compararon dietas sin igualar las calorías, y aun así los resultados quedaron cerca. Lo que decidiría en la práctica sería cuánto se puede sostener cada una (inferencia de esta base: los ensayos midieron peso, no adherencia). La conclusión sale de esos tres ensayos, no de una revisión que compare todos los patrones juntos. Cómo se arma un déficit y cómo se sostiene está en [pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md).
 
 | Dieta | Ensayo o fuente | Contra qué | Resultado |
 |---|---|---|---|
@@ -63,9 +63,9 @@ El ensayo de Liu (NEJM, 2022) es la comparación más justa, porque los dos grup
 
 ## Vegetariana y vegana
 
-La postura vigente de la Academy of Nutrition and Dietetics de Estados Unidos es la de 2025 (Raj y colegas, J Acad Nutr Diet 125:831-846), aprobada en enero de 2025 y válida hasta el 31 de diciembre de 2032. Dice que las dietas vegetarianas y veganas bien planificadas pueden ser nutricionalmente adecuadas y dar beneficios de salud a largo plazo, y vale para adultos que no estén embarazadas ni amamantando ([postura 2025](https://pubmed.ncbi.nlm.nih.gov/39923894/), leída como resumen). La postura anterior, de 2016, decía algo parecido y agregaba que los veganos necesitan una fuente confiable de B12 ([postura 2016](https://pubmed.ncbi.nlm.nih.gov/27886704/)).
+La postura de 2016 de la Academy of Nutrition and Dietetics de Estados Unidos dice que las dietas vegetarianas, incluidas las veganas, bien planificadas son saludables, nutricionalmente adecuadas y pueden dar beneficios de salud, y que los veganos necesitan una fuente confiable de B12 ([postura 2016](https://pubmed.ncbi.nlm.nih.gov/27886704/), según su resumen). Una postura de 2025 (J Acad Nutr Diet 125:831-846) la reemplaza para adultos que no estén embarazadas ni amamantando, y es válida hasta el 31 de diciembre de 2032 ([postura 2025](https://pubmed.ncbi.nlm.nih.gov/39923894/), según el resumen del buscador); no se leyó qué dice de nuevo.
 
-"Bien planificada" quiere decir cubrir lo que aportaba la carne. La B12 necesita alimentos fortificados o un suplemento; hierro, zinc y yodo conviene revisarlos con un profesional. Las cantidades están en [micronutrientes clave](../Alimentos-y-nutrientes/micronutrientes-clave.md). La postura de 2025 es para adultos y no cubre a los chicos.
+"Bien planificada" quiere decir, según esta base, cubrir lo que aportaba la carne. La B12 necesita alimentos fortificados o un suplemento; hierro, zinc y yodo conviene revisarlos con un profesional. Las cantidades están en [micronutrientes clave](../Alimentos-y-nutrientes/micronutrientes-clave.md). La postura de 2025 es para adultos; no se leyó una guía profesional para chicos.
 
 En peso y lípidos, un metaanálisis presentado como resumen de congreso (Curr Dev Nutr 2022), en personas con alto riesgo cardiovascular, encontró LDL −6,8 mg/dL (IC −10,7 a −3,0), HbA1c −0,25 % y peso −3,4 kg, sin cambio en la presión sistólica. Es una sola fuente y de poco peso.
 
@@ -78,4 +78,4 @@ La paleo propone comer como se supone que comían los cazadores-recolectores. El
 
 ## Cómo se elige
 
-Si las dietas dan resultados parecidos con el mismo déficit, la mejor es la que una persona puede sostener sin perder nutrientes ni músculo. Para una familia, eso suele significar no cocinar una dieta aparte para un adulto: cómo se arma una comida que sirva a objetivos distintos está en [un menú para todos](../Comer-en-familia/un-menu-para-todos.md). Los enfoques que compiten en nutrición, de los que estas dietas son una parte, están en [escuelas de nutrición](../Fundamentos/escuelas-de-nutricion.md).
+Si las dietas dan resultados parecidos con el mismo déficit, tiene sentido elegir la que una persona puede sostener sin perder nutrientes ni músculo (criterio de esta base). Para una familia, eso suele significar no cocinar una dieta aparte para un adulto: cómo se arma una comida que sirva a objetivos distintos está en [un menú para todos](../Comer-en-familia/un-menu-para-todos.md). Los enfoques que compiten en nutrición, de los que estas dietas son una parte, están en [escuelas de nutrición](../Fundamentos/escuelas-de-nutricion.md).

@@ -5,6 +5,7 @@ estado: borrador
 estabilidad: estable
 fuentes:
   - https://www.who.int/es/news-room/fact-sheets/detail/infant-and-young-child-feeding
+  - https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113218/norma.htm
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2017/v115n5a29.pdf
   - https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Choking-Prevention.aspx
   - https://www.sap.org.ar/docs/pdf/files_alergia-alim-9-20_1599081818.pdf
@@ -24,7 +25,7 @@ Toma los patrones de [Patrones y guías](../Patrones-y-guias/patrones-y-guias.md
 
 ## Qué cambia entre el bebé y el chico de jardín
 
-Hasta los 2 años la base es la leche materna y la [alimentación complementaria](primeros-alimentos.md), que según la OMS empieza en torno a los 6 meses. Desde los 2 años el chico come lo mismo que la familia, en porciones a su medida, y las Guías Alimentarias para la Población Argentina se dirigen a la población general mayor de 2 años. Entre los 2 y los 6 aparecen tres cosas que no tiene el adulto: la neofobia (el rechazo de lo nuevo), una masticación todavía inmadura y un estómago chico que pide comidas más frecuentes.
+Hasta los 2 años la base es la leche materna y la [alimentación complementaria](primeros-alimentos.md), que según la OMS empieza en torno a los 6 meses. Desde el año, según la guía oficial para el chico (Ministerio de Salud, 2006), puede comer lo mismo que la familia; las Guías Alimentarias para la Población Argentina se dirigen a la población general mayor de 2 años, y la porción a su medida es una inferencia, porque ninguna fuente leída da cuánto. Entre los 2 y los 6 aparecen tres cosas que no tiene el adulto: la neofobia (el rechazo de lo nuevo), una masticación todavía inmadura (según la SAP, menores de 4 años no mastican ni degluten con alta coordinación) y comidas más frecuentes que las del adulto: la guía de 2006 pide 4 comidas y, si hace falta, una o dos colaciones.
 
 ## Los dos riesgos que no se negocian
 
@@ -35,7 +36,7 @@ El atragantamiento con comida es el riesgo agudo de esta edad. La Sociedad Argen
 La pelea más común es el chico que rechaza verduras. Lo que dicen las fuentes es que la aceptación sube con la exposición repetida (8 a 10 veces o más) y que la SAP desaconseja obligar a comer; los pasos están en [el chico que no come](chico-que-no-come.md). La segunda es el azúcar: cuánto, cuándo y cómo se maneja sin convertir la golosina en premio ([azúcar y golosinas](azucar-y-golosinas.md)). La tercera es práctica: qué va en la vianda del jardín, donde el folleto oficial y las sociedades de pediatría no dicen lo mismo ([colaciones y vianda](colaciones-y-vianda.md)).
 
 > [!NOTE]
-> Sin fuente todavía: las porciones por edad de las Guías Alimentarias para la Población Infantil del Ministerio de Salud. El documento no se pudo abrir; el detalle está en [necesidades de 2 a 6](necesidades-de-2-a-6.md).
+> Sin fuente todavía: porciones por grupo, energía y leche para chicos de 2 a 6 años. La guía infantil del Ministerio de Salud (2006) se leyó y no las trae para esa edad; lo que sí dice está en [necesidades de 2 a 6](necesidades-de-2-a-6.md).
 
 ## Qué hay adentro de la alimentación infantil
 

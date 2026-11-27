@@ -54,9 +54,9 @@ Aparte de las partes, [Fundamentos](Fundamentos/fundamentos-de-crianza.md) reún
 
 ## Cuánto pesa lo que hacen los padres
 
-La pregunta de fondo tiene dos respuestas que conviven. Los estudios de gemelos dicen que la genética explica mucho: un metaanálisis de 2015 sobre 17.804 rasgos halló una heredabilidad promedio del 49 % y poco efecto del "entorno compartido", lo que hace parecidos a hermanos criados juntos (Polderman y otros, según su resumen). Los programas que entrenan a los padres, en cambio, tienen ensayos que muestran menos problemas de conducta en los chicos. La lectura prudente: los padres no fabrican un chico a medida, pero sí cambian cómo está, cómo se porta y qué oportunidades tiene. La discusión entera está en [enfoques de crianza](Fundamentos/enfoques-de-crianza.md).
+La pregunta de fondo tiene dos respuestas que conviven. Los estudios de gemelos dicen que la genética explica mucho: un metaanálisis de 2015 sobre 17.804 rasgos halló una heredabilidad promedio del 49 % y poco efecto del "entorno compartido", lo que hace parecidos a hermanos criados juntos (Polderman y otros, según su resumen). Los programas que entrenan a los padres, en cambio, tienen ensayos que muestran menos problemas de conducta en los chicos. La lectura prudente: los padres no fabrican un chico a medida, pero sí cambian cómo está, cómo se porta y qué oportunidades tiene. La discusión entera está en [cuánto pesa la crianza](Fundamentos/cuanto-pesa-la-crianza.md).
 
-La misma prudencia vale para "estimular": en un hogar que ya conversa, lee y juega, los programas y productos para acelerar el aprendizaje no muestran ventajas que duren. Está en [estimulación temprana](Juego-y-aprendizaje/estimulacion-temprana.md).
+La misma prudencia vale para "estimular": los videos para bebés no mostraron que enseñen palabras y las ventajas de los programas tempranos tienden a desvanecerse (Neuman 2014 y Bailey 2017, según sus resúmenes). Está en [estimulación temprana](Juego-y-aprendizaje/estimulacion-temprana.md).
 
 ## Qué leer según lo que te pase
 

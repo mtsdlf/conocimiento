@@ -50,7 +50,7 @@ De más a menos peso para decir qué funciona o qué daña:
 | Revisiones sistemáticas y metaanálisis | Cochrane, Campbell, *Psychological Bulletin* | Saber si algo funciona y cuánto | En crianza casi todo es observacional; los efectos suelen ser chicos |
 | Ensayos aleatorizados | Programas de entrenamiento a padres, ensayos de sueño | Probar causa y efecto | Pocos, chicos, y a corto plazo |
 | Guías de sociedades de pediatría y organismos | SAP, AAP, OMS, CDC | Qué hacer en salud, pantallas, controles | Mezclan evidencia con consenso de expertos; difieren entre sí en bordes de edad |
-| Centros universitarios de divulgación | Centro para el Niño en Desarrollo de Harvard | El porqué en lenguaje claro | Defienden una tesis; usan el cerebro para convencer |
+| Centros universitarios de divulgación | Centro para el Niño en Desarrollo de Harvard | El porqué en lenguaje claro | Defienden una tesis, la importancia de la primera infancia; leer lo que dicen del cerebro con la advertencia de Brookings |
 | Libros de investigadores y economistas | Gopnik, Oster, Plomin, Bruer | Leer la discusión de fondo | Divulgación con tesis propia |
 | Libros de método | Sears, Nelsen, Faber y Mazlish, Siegel y Bryson | Ideas concretas para el día a día | Casi ninguno tiene ensayos propios ([enfoques de crianza](enfoques-de-crianza.md)) |
 | Blogs y redes | | Ideas y compañía | Sin control; el consejo "basado en neurociencia" merece desconfianza |

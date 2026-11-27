@@ -19,7 +19,7 @@ revisado:
 
 El temperamento es la forma de reaccionar con la que viene cada chico, cuán intenso, activo, adaptable o cauteloso es ante lo nuevo; se nota desde bebé, y lo que importa para criar es el ajuste entre ese temperamento y lo que los adultos esperan.
 
-El temperamento no es el carácter. Es la base biológica de la reactividad y la autorregulación, sobre la que después se arman los hábitos, los valores y la [empatía](empatia-y-valores.md). Explica por qué dos hermanos criados igual reaccionan distinto ante el mismo "no".
+El temperamento no es el carácter. Es la base biológica de la reactividad y la autorregulación, sobre la que después se arman los hábitos, los valores y la [empatía](empatia-y-valores.md). Podría explicar por qué dos hermanos criados igual reaccionan distinto ante el mismo "no" (lectura propia).
 
 ## Las nueve dimensiones de Thomas y Chess
 
@@ -37,17 +37,18 @@ El estudio longitudinal de Nueva York, de Alexander Thomas y Stella Chess, propu
 | Distraibilidad | ¿Cuánto lo desvía un estímulo externo? |
 | Atención y persistencia | ¿Cuánto sigue con algo aunque cueste? |
 
-Con esas dimensiones agruparon a los chicos en tres tipos: fáciles (alrededor del 40 % de su muestra), difíciles (alrededor del 10 %) y lentos para entrar en calor (alrededor del 15 %); el resto no encajaba en ninguno. Según una de las fuentes secundarias, la tipología no resistió los análisis posteriores, y "difícil" nunca tuvo un significado consistente. Las dimensiones sirven para observar a un chico; las etiquetas, poco.
+Con esas dimensiones agruparon a los chicos en tres tipos: fáciles (alrededor del 40 % de su muestra), difíciles (alrededor del 10 %) y lentos para entrar en calor (alrededor del 15 %); por diferencia, el resto no encajaba en ninguno. Según una de las fuentes secundarias, la tipología no resistió los análisis posteriores, y "difícil" nunca tuvo un significado consistente. Las dimensiones sirven para observar a un chico; las etiquetas, poco.
 
 ## Bondad de ajuste: el temperamento en la relación
 
-La bondad de ajuste (goodness of fit) es el grado de coincidencia entre las características del chico y lo que los padres demandan y esperan. La idea de Thomas y Chess es que un mismo temperamento funciona bien o mal según el entorno. Un chico muy activo encaja en una familia que pasa el día afuera y choca en un departamento chico con adultos que buscan calma. Un chico lento para entrar en calor sufre si lo empujan a saludar a todos en una fiesta y se suelta si le dan tiempo.
+La bondad de ajuste (goodness of fit) es el grado de coincidencia entre las características del chico y lo que los padres demandan y esperan. La idea es que un mismo temperamento funciona bien o mal según el entorno. Ejemplos propios: un chico muy activo encaja en una familia que pasa el día afuera y choca en un departamento chico con adultos que buscan calma. Un chico lento para entrar en calor sufre si lo empujan a saludar a todos en una fiesta y se suelta si le dan tiempo.
 
 Es una teoría con apoyo empírico parcial, que no se verificó para esta nota. Aun así, da una pregunta útil cuando algo choca: ¿qué se le está pidiendo a este chico que su temperamento no da, y qué se puede ajustar del lado del adulto?
 
 ## Cómo se cruza con lo demás
 
-- Con los [berrinches](berrinches.md): según la AAP, algunos chicos tienen más que otros por su forma de ser. Un chico intenso y poco adaptable va a tener más, con la misma crianza.
+- Con los [berrinches](berrinches.md): según la AAP, algunos chicos tienen más que otros por su forma de ser. Un chico intenso y poco adaptable podría tener más (inferencia propia). La cita de la AAP no se pudo cotejar con la fuente.
+- Las tres conexiones que siguen son lectura propia.
 - Con la [regulación emocional](regulacion-emocional.md): el temperamento pone el punto de partida, cuán rápido se enciende un chico y cuánto tarda en calmarse.
 - Con los [cuidadores](../Vinculo/cuidadores.md): dos adultos con temperamentos distintos pueden leer al mismo chico de formas opuestas.
 - Con los [cambios difíciles](cambios-dificiles.md): un chico lento para adaptarse necesita más anticipación ante una mudanza o una [adaptación al jardín](../Escuela/adaptacion.md).

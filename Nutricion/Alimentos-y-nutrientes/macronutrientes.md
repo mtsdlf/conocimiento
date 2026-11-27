@@ -25,7 +25,7 @@ Los macronutrientes son la mirada por nutrientes de la comida, la que se usa par
 
 ## Los rangos de referencia para adultos
 
-Las Dietary Reference Intakes (DRI) de las National Academies de Estados Unidos fijan un rango aceptable para cada macronutriente, el AMDR. Para adultos es: proteína de 10 a 35 % de la energía, grasa de 20 a 35 % y carbohidratos de 45 a 65 % ([National Academies](https://www.nationalacademies.org/read/27957), según el resumen del buscador). Los rangos son anchos a propósito: muchas combinaciones distintas son compatibles con la salud. En 2024 las propias National Academies publicaron una carta que se pregunta si el AMDR sigue siendo necesario ([carta](https://pubmed.ncbi.nlm.nih.gov/39680697/)); su conclusión no se leyó.
+Las Dietary Reference Intakes (DRI) de las National Academies de Estados Unidos fijan un rango aceptable para cada macronutriente, el AMDR. Para adultos es: proteína de 10 a 35 % de la energía, grasa de 20 a 35 % y carbohidratos de 45 a 65 % ([National Academies](https://www.nationalacademies.org/read/27957), según el resumen del buscador). Los rangos son anchos, y por eso admiten combinaciones muy distintas (lectura de esta base). En 2024 las propias National Academies publicaron una carta que se pregunta si el AMDR sigue siendo necesario ([carta](https://pubmed.ncbi.nlm.nih.gov/39680697/)); su conclusión no se leyó.
 
 La OMS fija límites para algunas partes de esos macronutrientes ([OMS](https://www.who.int/news-room/fact-sheets/detail/healthy-diet), según el resumen):
 
@@ -36,14 +36,14 @@ La OMS fija límites para algunas partes de esos macronutrientes ([OMS](https://
 | Grasas trans | menos de 1 % de la energía |
 | Fibra | al menos 25 g por día (hoja de la OMS de 2018, no leída) |
 
-Para azúcares hay una sola línea de fuentes leída (la OMS). Los azúcares libres incluyen los de los jugos, y por eso aparecen también en [bebidas e hidratación](bebidas-e-hidratacion.md).
+Para azúcares hay una sola línea de fuentes leída (la OMS). Las bebidas con azúcar se tratan en [bebidas e hidratación](bebidas-e-hidratacion.md).
 
 > [!NOTE]
 > Sin fuente todavía: la energía por gramo de cada macronutriente, los requerimientos de energía por edad y sexo, y una fuente sobre tipos de grasa y de carbohidratos (Harvard Nutrition Source quedó sin leer).
 
 ## La proteína
 
-La proteína aporta los aminoácidos con que el cuerpo arma y repara tejidos, y su rango para adultos es de 10 a 35 % de la energía. Cuánta proteína hace falta para conservar músculo mientras se baja grasa, o para ganarlo con entrenamiento, es una pregunta de objetivo y no de la dieta general: está desarrollada en [masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md). Lo de los chicos está en [necesidades de 2 a 6](../Alimentacion-infantil/necesidades-de-2-a-6.md).
+El rango de proteína para adultos es de 10 a 35 % de la energía (DRI, según el resumen del buscador). No se leyó una fuente sobre su función en el cuerpo. Cuánta proteína hace falta para conservar músculo mientras se baja grasa, o para ganarlo con entrenamiento, es una pregunta de objetivo y no de la dieta general: está desarrollada en [masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md). Lo de los chicos está en [necesidades de 2 a 6](../Alimentacion-infantil/necesidades-de-2-a-6.md).
 
 ## Las grasas y el debate de las saturadas
 
@@ -52,13 +52,13 @@ Las grasas se separan por tipo, y las guías tratan distinto a cada uno. Las GAP
 > [!IMPORTANT]
 > **A favor de bajarlas.** La revisión Cochrane de Hooper y colegas (2020) juntó 12 ensayos a largo plazo con 53.758 participantes. Reducir la grasa saturada bajó los eventos cardiovasculares combinados un 17 % (RR 0,83; IC 0,70-0,98; certeza moderada). Los autores concluyen que reducirla durante al menos 2 años "may meaningfully reduce combined cardiovascular events", y que reemplazarla por grasas poliinsaturadas o por carbohidratos parece útil.
 >
-> **Lo que no mostró.** En la misma revisión, la mortalidad total (RR 0,96; 0,90-1,03) y la cardiovascular (RR 0,95; 0,80-1,12) casi no cambiaron, también con certeza moderada. Esa ausencia de efecto en mortalidad es lo que usan quienes critican la regla simple de "grasa saturada igual a mala".
+> **Lo que no mostró.** En la misma revisión, la mortalidad total (RR 0,96; 0,90-1,03) y la cardiovascular (RR 0,95; 0,80-1,12) casi no cambiaron, también con certeza moderada. Esa ausencia de efecto en mortalidad va contra la regla simple de "grasa saturada igual a mala".
 >
 > Las cifras salen del registro de la versión pub3 en Europe PMC (hubo una versión anterior con otras cifras). Es una sola revisión, aunque de ensayos.
 
 ## Los carbohidratos y la fibra
 
-Los carbohidratos tienen el rango más ancho, de 45 a 65 % de la energía, y dentro de ellos la OMS separa los azúcares libres, que limita, de la fibra, que pide. Las GAPA lo traducen a alimentos: legumbres, "cereales preferentemente integrales, papa, batata, choclo o mandioca" (mensaje 8) y limitar las bebidas azucaradas (mensaje 5). Si comer menos carbohidratos hace bajar más grasa que comer menos grasa, con las mismas calorías, es un debate abierto entre dos modelos; está en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md).
+Los carbohidratos tienen el rango más ancho, de 45 a 65 % de la energía, y dentro de ellos la OMS separa los azúcares libres, que limita, de la fibra, que pide. Las GAPA lo traducen a alimentos: legumbres, "cereales preferentemente integrales, papa, batata, choclo o mandioca" (mensaje 8) y limitar las bebidas azucaradas (mensaje 5). Si comer menos carbohidratos hace bajar más grasa que comer menos grasa, con las mismas calorías, es un debate abierto entre dos modelos; está en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md) y en [debates de nutrición](../Fundamentos/debates-de-nutricion.md).
 
 Los rangos son para adultos sanos; una enfermedad o un objetivo concreto se ajustan con un profesional.
 

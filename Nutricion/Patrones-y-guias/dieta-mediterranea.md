@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La dieta mediterránea es un patrón de alimentación basado en la cocina tradicional del Mediterráneo, con mucho aceite de oliva y frutos secos; es el patrón con más ensayos de resultado cardiovascular, encabezados por PREDIMED, que fue retractado y republicado en 2018.
+  La dieta mediterránea es un patrón de alimentación basado en la cocina tradicional del Mediterráneo, con mucho aceite de oliva y frutos secos; es un patrón estudiado en ensayos de resultado cardiovascular, encabezados por PREDIMED, que fue retractado y republicado en 2018.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -17,7 +17,7 @@ revisado:
 
 # Dieta mediterránea
 
-La dieta mediterránea es un patrón de alimentación basado en la cocina tradicional del Mediterráneo, con mucho aceite de oliva y frutos secos; es el patrón con más ensayos de resultado cardiovascular, encabezados por PREDIMED, que fue retractado y republicado en 2018.
+La dieta mediterránea es un patrón de alimentación basado en la cocina tradicional del Mediterráneo, con mucho aceite de oliva y frutos secos; es un patrón estudiado en ensayos de resultado cardiovascular, encabezados por PREDIMED, que fue retractado y republicado en 2018.
 
 A diferencia de las [dietas de moda](dietas-de-moda.md), que se estudiaron sobre todo por cuánto peso hacen bajar, la mediterránea se estudió por infartos, ACV y muertes. Se parece bastante a las [Guías Alimentarias argentinas](guias-alimentarias-argentinas.md): las dos piden aceite crudo, frutas secas, legumbres, verduras y pescado. Esa semejanza es una lectura propia, no de una fuente.
 
@@ -45,7 +45,7 @@ Para quienes ya tuvieron un infarto, la evidencia es escasa y el ensayo clave es
 
 ## Qué tan firme es
 
-La evidencia es un ensayo grande con problemas de método reconocidos, un ensayo de prevención secundaria y muchos estudios observacionales. Es más de lo que tiene cualquier otro patrón alimentario, y aun así la Cochrane habla de incertidumbre. Para una familia argentina, la lectura práctica (inferencia propia) es que cocinar con aceite crudo y sumar frutas secas, legumbres y pescado, como ya piden las GAPA, va en la dirección que estudió PREDIMED. Quien ya tuvo un problema cardiovascular decide su dieta con su médico. Cómo se suma a la salud a largo plazo de un adulto está en [salud a largo plazo](../Objetivos-del-adulto/salud-a-largo-plazo.md).
+La evidencia es un ensayo grande con problemas de método reconocidos, un ensayo de prevención secundaria y muchos estudios observacionales. Aun así, la Cochrane habla de incertidumbre. Para una familia argentina, la lectura práctica (inferencia propia) es que cocinar con aceite crudo y sumar frutas secas, legumbres y pescado, como ya piden las GAPA, va en la dirección que estudió PREDIMED. Quien ya tuvo un problema cardiovascular decide su dieta con su médico. Cómo se suma a la salud a largo plazo de un adulto está en [salud a largo plazo](../Objetivos-del-adulto/salud-a-largo-plazo.md).
 
 ## El recurso que conviene leer
 

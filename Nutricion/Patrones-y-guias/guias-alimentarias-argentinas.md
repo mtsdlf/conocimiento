@@ -18,7 +18,7 @@ revisado:
 
 Las Guías Alimentarias para la Población Argentina (GAPA, 2016) son la recomendación oficial del Ministerio de Salud para comer sano: diez mensajes y un gráfico con los grupos de alimentos, pensados para personas sanas mayores de 2 años.
 
-Son la base de esta parte de la nutrición: la [dieta mediterránea](dieta-mediterranea.md) y las [dietas de moda](dietas-de-moda.md) se leen como variaciones o alternativas a ellas. El público, personas sanas mayores de 2 años, sale del resumen del buscador; los menores de 2 tienen su propia guía, que se trata en [primeros alimentos](../Alimentacion-infantil/primeros-alimentos.md).
+Son la base de esta parte de la nutrición: la [dieta mediterránea](dieta-mediterranea.md) y las [dietas de moda](dietas-de-moda.md) se leen como variaciones o alternativas a ellas. El público, personas sanas mayores de 2 años, sale del resumen del buscador; los menores de 2 quedan afuera de esta guía; lo que se sabe de ellos está en [primeros alimentos](../Alimentacion-infantil/primeros-alimentos.md).
 
 ## Los diez mensajes
 
@@ -45,9 +45,9 @@ Cómo se convierte en un menú de siete días está en [menú semanal](../Planif
 
 ## Qué tan firmes son
 
-Las GAPA son una guía basada en alimentos: un comité traduce la evidencia y las metas de nutrientes (como los límites de sal y azúcar de la OMS, en [macronutrientes](../Alimentos-y-nutrientes/macronutrientes.md)) a mensajes que se pueden seguir sin calcular. Tienen la fuerza de un consenso institucional, no la de un ensayo. Algunos números son metas prácticas sin un estudio detrás: no se encontró evidencia que justifique exactamente "8 vasos" de agua ([bebidas e hidratación](../Alimentos-y-nutrientes/bebidas-e-hidratacion.md)).
+Las GAPA son una guía basada en alimentos, según la FAO: dan mensajes que se pueden seguir sin calcular. Cómo se pasó de la evidencia y de las metas de nutrientes (como los límites de sal y azúcar de la OMS, en [macronutrientes](../Alimentos-y-nutrientes/macronutrientes.md)) a esos mensajes no se leyó. Tienen la fuerza de un consenso institucional, no la de un ensayo. Algunos números son metas prácticas sin un estudio detrás: no se encontró evidencia que justifique exactamente "8 vasos" de agua ([bebidas e hidratación](../Alimentos-y-nutrientes/bebidas-e-hidratacion.md)).
 
-Dos mensajes chocan con evidencia que se discute. El mensaje 7 limita la carne roja a 3 veces por semana, y una revisión del grupo NutriRECS no encontró efecto claro de comer menos (ver [grupos de alimentos](../Alimentos-y-nutrientes/grupos-de-alimentos.md)). El mensaje 6 prefiere lácteos descremados, una regla que viene del límite de grasas saturadas, cuyo efecto en la mortalidad está en discusión ([macronutrientes](../Alimentos-y-nutrientes/macronutrientes.md)). La vinculación del mensaje 6 con las saturadas es una inferencia: la guía completa no se leyó.
+Dos mensajes chocan con evidencia que se discute. La gráfica limita la carne roja a 3 veces por semana, y una revisión del grupo NutriRECS no encontró efecto claro de comer menos (ver [grupos de alimentos](../Alimentos-y-nutrientes/grupos-de-alimentos.md)). El mensaje 6 prefiere lácteos descremados; si el motivo son las grasas saturadas, cuyo efecto en la mortalidad está en discusión ([macronutrientes](../Alimentos-y-nutrientes/macronutrientes.md)), esta regla comparte esa duda. Ese motivo es una inferencia: la guía completa no se leyó.
 
 > [!NOTE]
 > Sin fuente todavía: el PDF completo de las GAPA 2016, con la "Información complementaria" de cada mensaje (donde están las cantidades y el fundamento), y una fuente que analice los límites de las guías oficiales. El punto de partida es <https://www.argentina.gob.ar/salud/alimentacion-saludable>.

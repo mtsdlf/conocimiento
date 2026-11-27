@@ -64,7 +64,7 @@ Las GAPA usan la idea a su manera: su grupo opcional son los ultraprocesados con
 
 ## Energía: ¿una caloría es una caloría?
 
-El marco del balance energético dice que el peso cambia según la diferencia entre la energía que entra y la que se gasta, y que la composición de la dieta importa poco para eso. El modelo carbohidratos-insulina, de David Ludwig, sostiene lo contrario: los carbohidratos de alta carga glucémica elevan la insulina, guardan grasa y eso empuja a comer más. El ensayo DIETFITS de un año no halló diferencia de peso entre una dieta baja en grasa y otra baja en carbohidratos (−5,3 kg contra −6,0 kg, según su resumen). El debate entero, con las cifras de cada lado, está en [evidencia en nutrición](evidencia-en-nutricion.md).
+El marco del balance energético dice que el peso cambia según la diferencia entre la energía que entra y la que se gasta, y que la composición de la dieta importa poco para eso. El modelo carbohidratos-insulina, de David Ludwig, sostiene lo contrario: los carbohidratos de alta carga glucémica elevan la insulina, guardan grasa y eso empuja a comer más. El ensayo DIETFITS de un año no halló diferencia de peso entre una dieta baja en grasa y otra baja en carbohidratos (−5,3 kg contra −6,0 kg, según su resumen). El debate entero, con las cifras de cada lado, está en [debates de nutrición](debates-de-nutricion.md).
 
 ## El patrón vegetal
 

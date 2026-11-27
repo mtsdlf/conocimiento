@@ -25,11 +25,11 @@ La vertical recibe del [vínculo](../Vinculo/vinculo.md) la seguridad y la corre
 
 Entre los 0 y los 6 años el chico pasa de depender casi por completo de un adulto para calmarse a poder hacerlo solo en muchas situaciones. Ese camino tiene un nombre en cada parte. La [regulación emocional](regulacion-emocional.md) es manejar lo que se siente; las [funciones ejecutivas](funciones-ejecutivas.md) son el control de lo que se hace y se piensa (frenar un impulso, recordar una regla, cambiar de plan). El campo las estudia como un continuo de autorregulación, y el [temperamento](temperamento.md) pone el punto de partida: hay chicos que se encienden más rápido y se calman más despacio.
 
-Los [berrinches](berrinches.md) son lo que se ve de ese proceso entre el año y los 4 años: son frecuentes a esa edad y se vuelven muy poco comunes después de los 5, según el Manual MSD. No son un fracaso de la crianza ni del chico; son una regulación que todavía no alcanza.
+Los [berrinches](berrinches.md) son lo que se ve de ese proceso entre el año y los 4 años: son frecuentes a esa edad y se vuelven muy poco comunes después de los 5, según el Manual MSD. Una lectura propia: no serían un fracaso de la crianza ni del chico, sino una regulación que todavía no alcanza.
 
 ## Lo que el chico trae y lo que se cultiva
 
-El temperamento es la base biológica: se nota desde bebé y cambia poco. Encima de esa base, el chico desarrolla la [empatía](empatia-y-valores.md), que aparece temprano (a los 18 meses ya ayuda a otros sin que se lo pidan) y se cultiva con la forma en que los adultos hablan de lo que sienten los demás. La motivación para esforzarse se cruza con cómo se lo [elogia](elogio-y-mentalidad.md), un tema donde la divulgación prometió más de lo que la evidencia sostiene.
+El temperamento es la base biológica y se nota desde bebé; cuánto cambia con los años no se verificó. Encima de esa base, el chico desarrolla la [empatía](empatia-y-valores.md), que aparece temprano (a los 18 meses ya ayuda a otros sin que se lo pidan) y que los estudios asocian con la forma en que los adultos hablan de lo que sienten los demás. La motivación para esforzarse se cruza con cómo se lo [elogia](elogio-y-mentalidad.md), un tema donde los metaanálisis encuentran efectos chicos.
 
 ## Lo que mueve el piso
 
@@ -37,7 +37,7 @@ Un hermanito, una mudanza, una separación o una muerte ponen a prueba la regula
 
 ## Cuando la cabeza va más rápido que las emociones
 
-Un chico adelantado en lo cognitivo puede razonar como uno de 5 y regularse como uno de 2. Eso no es contradictorio: la regulación madura con su propio ritmo y no se acelera con el vocabulario. Está en [desarrollo asincrónico](../Altas-capacidades/desarrollo-asincronico.md), y lo que se hace en el momento del desborde en [berrinches](berrinches.md).
+Un chico adelantado en lo cognitivo puede razonar como uno de 5 y regularse como uno de 2. Una lectura propia, sin fuente: la regulación madura con su propio ritmo y no se acelera con el vocabulario. Está en [desarrollo asincrónico](../Altas-capacidades/desarrollo-asincronico.md), y lo que se hace en el momento del desborde en [berrinches](berrinches.md).
 
 ## Qué hay adentro del mundo emocional
 

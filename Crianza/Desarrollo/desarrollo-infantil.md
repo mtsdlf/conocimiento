@@ -26,7 +26,7 @@ Esta vertical marca lo esperable para cada edad, y las demás se apoyan en ella.
 
 El desarrollo se observa por áreas. El CDC de Estados Unidos usa cuatro: socioemocional, lenguaje y comunicación, cognitiva, y movimiento y desarrollo físico. La guía de la Sociedad Argentina de Pediatría (SAP) de 2017 usa cinco: motricidad gruesa, motricidad fina, lenguaje y comunicación, socialización y conducta. Las dos divisiones miran lo mismo con cortes distintos.
 
-Cada área tiene su propio calendario, y un mismo chico puede ir adelantado en una y a tiempo en otra. Eso explica casos como el de un chico de 2 años y medio que habla como uno de 4 y se enoja como uno de 2: el lenguaje y el control de las emociones se apoyan en capacidades distintas. Está desarrollado en [dominios e hitos](dominios-e-hitos.md).
+Cada área tiene su propio calendario, y un mismo chico puede ir adelantado en una y a tiempo en otra. Eso permite entender casos como el de un chico de 2 años y medio que habla como uno de 4 y se enoja como uno de 2; es una lectura de la nota, no un hallazgo de un estudio. Está desarrollado en [dominios e hitos](dominios-e-hitos.md).
 
 ## Hito, pesquisa y diagnóstico
 
@@ -41,7 +41,7 @@ Para medir hace falta una pesquisa: una prueba estandarizada, como la PRUNAPE en
 
 El cerebro se arma de abajo hacia arriba en los primeros años, y las experiencias de esos años, sobre todo las interacciones con adultos que responden, forman parte de esa construcción (Centro para el Niño en Desarrollo de Harvard, según su resumen). La genética también pesa: un metaanálisis de 2015 sobre estudios de gemelos halló una heredabilidad promedio del 49 % para los rasgos humanos (Polderman y otros, según su resumen). Las dos cosas son ciertas a la vez, y la discusión está en [enfoques de crianza](../Fundamentos/enfoques-de-crianza.md).
 
-La versión exagerada de lo primero, que "los primeros tres años lo deciden todo", no la sostienen ni las fuentes que más defienden la infancia temprana. Lo que se sabe y lo que no está en [cerebro temprano](cerebro-temprano.md) y en [mitos de crianza](../Fundamentos/mitos-de-crianza.md).
+La versión exagerada de lo primero, que "los primeros tres años lo deciden todo", no aparece en las páginas de Harvard que leímos: hablan de mayor sensibilidad temprana, no de una ventana que se cierra. Lo que se sabe y lo que no está en [cerebro temprano](cerebro-temprano.md) y en [mitos de crianza](../Fundamentos/mitos-de-crianza.md).
 
 ## El lenguaje, el área que más preguntas trae
 

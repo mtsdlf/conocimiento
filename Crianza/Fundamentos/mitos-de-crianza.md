@@ -34,7 +34,7 @@ revisado:
 
 Ideas sobre crianza que circulan mucho y que la evidencia no sostiene o sostiene mucho menos de lo que se dice: el efecto Mozart, los videos para bebés, el cerebro izquierdo y derecho, los estilos de aprendizaje, los tres primeros años como destino, el azúcar que acelera, las vacunas que causan autismo y el CI como destino.
 
-Casi todos tienen un origen real: un estudio chico, un hallazgo de laboratorio estirado o una pauta sensata convertida en ley. Por eso conviene saber qué parte era cierta. Las fuentes se leyeron por su resumen salvo donde se dice otra cosa. Lo de salud no reemplaza la consulta con el pediatra.
+Varios tienen un origen real: el efecto Mozart salió de un estudio con universitarios y el mito de los tres años, de hallazgos sobre sinapsis y períodos críticos. Por eso conviene saber qué parte era cierta. Las fuentes se leyeron por su resumen salvo donde se dice otra cosa. Lo de salud no reemplaza la consulta con el pediatra.
 
 ## Mitos y lo que dicen las fuentes
 
@@ -59,24 +59,24 @@ Las clases de música tampoco mostraron ese efecto en preescolares. Dos ensayos 
 
 En un estudio observacional con menores de 2 años, la autora principal resumió: "there is no clear evidence of a benefit coming from baby DVDs and videos and there is some suggestion of harm" (Zimmerman, Christakis y Meltzoff 2007). En el mismo estudio, leer y contar cuentos a diario se asoció con "slight increases" en el lenguaje.
 
-Los experimentos dicen lo mismo. En "Do Babies Learn From Baby Media?" (DeLoache y otros 2010), los bebés que miraron un video de palabras durante semanas junto con un padre no aprendieron más palabras que los que no lo vieron (según el resumen del buscador). En un ensayo con 117 bebés de 9 a 18 meses y un producto comercial para "leer" durante siete meses, los autores concluyeron que "they did not learn printed words from the baby media product", aunque los padres creían que sí (Neuman y otros 2014). "Your Baby Can Read" es el nombre de uno de esos productos, no de un estudio.
+Los experimentos dicen lo mismo. En "Do Babies Learn From Baby Media?" (DeLoache y otros 2010), los bebés que miraron un video de palabras junto con un padre no aprendieron más palabras que los que no lo vieron (según el resumen del buscador). En un ensayo con 117 bebés de 9 a 18 meses y un producto comercial para "leer" durante siete meses, los autores concluyeron que "they did not learn printed words from the baby media product", aunque los padres creían que sí (Neuman y otros 2014). "Your Baby Can Read" es el nombre de un producto comercial, no de un estudio.
 
 ## Cerebro izquierdo y derecho, y estilos de aprendizaje
 
 Con resonancia en reposo, un estudio halló 9 centros lateralizados a la izquierda y 11 a la derecha, y concluyó que la lateralización es una propiedad de cada red, no un rasgo global de la persona (Nielsen y otros 2013). Sobre el tamaño de la muestra las fuentes no coinciden: 1.011 o 964 personas de 7 a 29 años.
 
-Los estilos de aprendizaje tienen el mismo problema. Una revisión de 2008 concluyó que no hay base adecuada para usar evaluaciones de estilos en la enseñanza, y que casi no hay experimentos que prueben enseñar según el estilo (Pashler y otros 2008). A un chico le sirve más variar los modos que encasillarlo.
+Los estilos de aprendizaje tienen el mismo problema. Una revisión de 2008 concluyó que no hay base adecuada para usar evaluaciones de estilos en la enseñanza, y que casi no hay experimentos que prueben enseñar según el estilo (Pashler y otros 2008).
 
 ## Los tres primeros años importan, pero no lo deciden todo
 
 John Bruer (*The Myth of the First Three Years*, 1999) dice que el mito junta tres hallazgos reales: el crecimiento rápido de sinapsis, los períodos críticos para la visión o la lengua materna, y la suma de ambos como un período absolutamente crítico. Separados, dice, "you can't make that strong of an argument" (entrevista en PBS). Bruer acepta que los períodos críticos existen y que el aprendizaje sigue toda la niñez.
 
 > [!IMPORTANT]
-> El Centro para el Niño en Desarrollo de Harvard sostiene la importancia de la primera infancia con la arquitectura del cerebro, la interacción de [ida y vuelta](../Vinculo/ida-y-vuelta.md) y el estrés tóxico. Aun así habla de mayor sensibilidad, no de una ventana cerrada: "The sensitivity of developing biological systems is typically greatest in the prenatal period". Los dos lados coinciden en que la privación extrema daña; discrepan en cuánto de la variación normal se decide temprano. La posición de Bruer se conoce por reseñas y una entrevista, no por el libro.
+> El Centro para el Niño en Desarrollo de Harvard sostiene la importancia de la primera infancia con la arquitectura del cerebro, la interacción de [ida y vuelta](../Vinculo/ida-y-vuelta.md) y el estrés tóxico. Aun así, la página que se consultó habla de sensibilidad, no de una ventana cerrada: "The sensitivity of developing biological systems is typically greatest in the prenatal period". Los dos lados coinciden en que la privación extrema daña; discrepan en cuánto de la variación normal se decide temprano. La posición de Bruer se conoce por reseñas y una entrevista, no por el libro.
 
 ## El azúcar y la hiperactividad
 
-Un metaanálisis de 23 estudios en los que cada chico se comparaba consigo mismo, con azúcar y sin ella, encontró que los intervalos de confianza de las 14 mediciones incluyen el cero (Wolraich, Wilson y White 1995, según su resumen). Los autores atribuyen la creencia a lo que esperan los padres, y no descartan un efecto chico o en un subgrupo. Es una sola fuente, de hace 30 años: alcanza para decir que no se encontró efecto, no para afirmar que no existe. El azúcar tiene otras razones para limitarse, que están en [Nutrición](../../Nutricion/nutricion.md).
+Un metaanálisis de 23 estudios en los que cada chico se comparaba consigo mismo, con azúcar y sin ella, encontró que los intervalos de confianza de las 14 mediciones incluyen el cero (Wolraich, Wilson y White 1995, según su resumen). Los autores atribuyen la creencia a lo que esperan los padres, y no descartan un efecto chico o en un subgrupo. Es una sola fuente, de 1995: alcanza para decir que no se encontró efecto, no para afirmar que no existe. El azúcar tiene otras razones para limitarse, que están en [Nutrición](../../Nutricion/nutricion.md).
 
 ## Las vacunas no causan autismo
 

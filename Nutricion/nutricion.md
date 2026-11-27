@@ -50,7 +50,7 @@ Aparte de las partes, [Fundamentos](Fundamentos/fundamentos-de-nutricion.md) re�
 
 En nutrición casi todo lo que se sabe de la salud a largo plazo sale de estudios observacionales: se mide qué come la gente y qué le pasa años después. Esos estudios muestran asociaciones, no causas, y dependen de lo que la gente recuerda que comió. Los ensayos, donde se asigna una dieta al azar, son más firmes pero duran poco. Por eso cada nota dice de qué tipo es la evidencia, y [por qué la evidencia en nutrición es difícil](Fundamentos/evidencia-en-nutricion.md) lo explica.
 
-Un ejemplo de lo que sí está firme: en el ensayo DIETFITS (2018), un año de dieta baja en grasas y uno de dieta baja en carbohidratos terminaron en pérdidas de peso parecidas, de 5,3 y 6,0 kg, sin diferencia significativa. Lo que pesa es cuánta energía se come de forma sostenida, más que la proporción de grasas y carbohidratos. Está en [pérdida de grasa](Objetivos-del-adulto/perdida-de-grasa.md).
+Un ejemplo de ensayo largo: en DIETFITS (2018), un año de dieta baja en grasas y otro de dieta baja en carbohidratos terminaron en pérdidas de peso parecidas, de 5,3 y 6,0 kg, sin diferencia significativa (según su resumen). Con esa proporción de grasas y carbohidratos no se vio ventaja de una dieta sobre la otra; la nota dice qué más se sabe en [pérdida de grasa](Objetivos-del-adulto/perdida-de-grasa.md).
 
 ## Qué leer según lo que quieras lograr
 

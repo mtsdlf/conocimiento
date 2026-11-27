@@ -31,7 +31,7 @@ La palabra tapa dos cosas distintas. Una son los programas para chicos en riesgo
 
 Lo que tiene respaldo es barato y ya forma parte de un día con adultos atentos:
 
-- **Conversar de ida y vuelta.** El Center on the Developing Child de Harvard sostiene que los intercambios de "servir y devolver" entre el chico y un adulto que responde "play a key role in shaping brain architecture" ([Harvard](https://developingchild.harvard.edu/key-concept/serve-and-return/)). Es divulgación institucional de una tesis bien aceptada; está desarrollada en [ida y vuelta](../Vinculo/ida-y-vuelta.md).
+- **Conversar de ida y vuelta.** El Center on the Developing Child de Harvard sostiene que los intercambios de "servir y devolver" entre el chico y un adulto que responde "play a key role in shaping brain architecture" ([Harvard](https://developingchild.harvard.edu/key-concept/serve-and-return/)). Es divulgación institucional de una tesis; está desarrollada en [ida y vuelta](../Vinculo/ida-y-vuelta.md).
 - **Leer juntos y charlar sobre el libro.** La lectura dialógica tiene un metaanálisis de estudios experimentales con un efecto moderado sobre el vocabulario, más chico a los 4 y 5 años ([lectura compartida](lectura-compartida.md)).
 - **Jugar, con tiempo libre y con algo de guía.** Está en [juego libre](juego-libre.md).
 - **Dormir, moverse y comer bien**, que viven en [Salud y rutinas](../Salud-y-rutinas/salud-y-rutinas.md) y en [Nutrición](../../Nutricion/nutricion.md).
@@ -58,11 +58,11 @@ Bailey, Duncan, Odgers y Yu (2017) revisaron por qué los efectos de muchas inte
 El ensayo de Jamaica es el más citado. En 1986 y 1987, entre 127 y 129 chicos de 9 a 24 meses con retraso de crecimiento recibieron visitas semanales en casa; 20 años después, sus ingresos eran 42 % más altos ([Gertler, Heckman y otros 2014](https://www.nber.org/papers/W19185), según su resumen). Es un resultado serio, pero en chicos desnutridos y pobres, con una muestra chica. Muestra que la estimulación compensa una carencia, no que agregue en un hogar sin carencia.
 
 > [!IMPORTANT]
-> Sobre cuánto se decide en los primeros años hay dos posiciones. Harvard presenta la arquitectura del cerebro, el "servir y devolver" y el estrés tóxico como base de la importancia de la primera infancia ([cerebro temprano](../Desarrollo/cerebro-temprano.md)). John Bruer, en *The Myth of the First Three Years* (1999), sostiene que juntar el crecimiento de sinapsis con los períodos críticos para concluir que los 3 años lo deciden todo no se sostiene, y que el aprendizaje sigue toda la niñez ([entrevista PBS](https://www.pbs.org/wgbh/pages/frontline/shows/teenbrain/interviews/bruer.html)). Las dos coinciden en que la privación extrema daña; discrepan en cuánto de la variación normal se fija temprano.
+> Sobre cuánto se decide en los primeros años hay dos posiciones. Harvard presenta la arquitectura del cerebro, el "servir y devolver" y el estrés tóxico como base de la importancia de la primera infancia ([cerebro temprano](../Desarrollo/cerebro-temprano.md)). John Bruer, en *The Myth of the First Three Years* (1999), sostiene que juntar el crecimiento de sinapsis con los períodos críticos para concluir que los 3 años lo deciden todo no se sostiene, y que el aprendizaje sigue toda la niñez ([entrevista PBS](https://www.pbs.org/wgbh/pages/frontline/shows/teenbrain/interviews/bruer.html)). Parecen coincidir en que la privación extrema daña y discrepar en cuánto de la variación normal se fija temprano (lectura nuestra de las dos fuentes).
 
 ## Cómo se equivoca la estimulación
 
-La presión por estimular cuesta tiempo de juego libre, plata y, a veces, la tranquilidad de los padres. Con un chico adelantado vale lo mismo: lo que conviene es responder a lo que ya busca, como se explica en [acompañar en casa](../Altas-capacidades/acompanar-en-casa.md). El resto de los mitos de este mercado está en [mitos de crianza](../Fundamentos/mitos-de-crianza.md).
+Ninguna fuente mide cuánto cuesta la presión por estimular; es razonable pensar que le saca tiempo al juego libre (inferencia). Con un chico adelantado vale lo mismo: lo que conviene es responder a lo que ya busca, como se explica en [acompañar en casa](../Altas-capacidades/acompanar-en-casa.md). El resto de los mitos de este mercado está en [mitos de crianza](../Fundamentos/mitos-de-crianza.md).
 
 > [!NOTE]
 > Sin fuente todavía: la serie de *The Lancet* sobre desarrollo infantil temprano de 2017 y una revisión Cochrane de programas de estimulación, que no se pudieron leer.

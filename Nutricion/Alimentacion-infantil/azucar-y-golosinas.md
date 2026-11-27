@@ -10,6 +10,7 @@ fuentes:
   - https://www.ajmc.com/view/american-heart-association-calls-for-sharp-limits-on-sugar-for-kids
   - https://doi.org/10.1001/jama.1995.03530200053037
   - https://argentina.gob.ar/salud/alimentacion-saludable/grafico
+  - https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113218/norma.htm
   - https://argentina.gob.ar/sites/default/files/2023/05/alimentacion_viandas_2022.pdf
   - https://www.ellynsatterinstitute.org/wp-content/uploads/2025/06/Satter-Division-of-Responsibility-in-Feeding-2025-1.pdf
 aliases: [azúcar agregado, azúcares libres, dulces, golosinas, azúcar e hiperactividad]
@@ -42,7 +43,7 @@ Las [Guías Alimentarias para la Población Argentina](../Patrones-y-guias/guias
 
 ## El azúcar no vuelve hiperactivo al chico
 
-El metaanálisis de Wolraich y colegas (*JAMA*, 1995) reunió 16 informes con 23 estudios doble ciego, en los que el mismo chico recibía azúcar o un placebo con edulcorante sin que nadie supiera cuál. Los tamaños de efecto fueron de -0,14 a +0,30 en 14 mediciones, y todos los intervalos de confianza incluyeron el cero. Los autores concluyeron que el azúcar no afecta la conducta ni el rendimiento cognitivo de los chicos, y atribuyeron la creencia de los padres a la expectativa. Admitieron que no se puede descartar un efecto pequeño o en un subgrupo sensible.
+El metaanálisis de Wolraich y colegas (*JAMA*, 1995) reunió 16 informes con 23 estudios doble ciego, en los que el mismo chico recibía azúcar o un placebo con edulcorante sin que nadie supiera cuál. Los tamaños de efecto fueron de -0,14 a +0,30 en 14 mediciones, y el intervalo de confianza incluyó el cero. Los autores concluyeron que el azúcar no afecta la conducta ni el rendimiento cognitivo de los chicos. Admitieron que no se puede descartar un efecto pequeño o en un subgrupo sensible.
 
 Es un metaanálisis de ensayos aleatorizados, la mejor clase de evidencia, pero es uno solo y de 1995: no se buscó una revisión posterior. Este y otros mitos están en [mitos de crianza](../../Crianza/Fundamentos/mitos-de-crianza.md). Que el azúcar no cause hiperactividad no cambia los límites de arriba, que se apoyan en las caries y en el riesgo cardiovascular.
 
@@ -52,5 +53,5 @@ No hay ensayo sobre cómo manejar las golosinas en casa. Lo que sigue es una inf
 
 1. **Decidí vos cuándo hay golosina**, como cualquier otra comida: el adulto decide qué y cuándo (Satter).
 2. **Servila en porción chica o individual**, dentro de una comida o colación y no suelta durante el día (guía argentina).
-3. **No la uses como premio ni la saques como castigo.** Si la golosina es el premio por comer verdura, queda puesta como lo mejor de la comida. Es el consejo común; la evidencia sobre premios es disputada y está en [el chico que no come](chico-que-no-come.md) y en [premios](../../Crianza/Limites-y-autonomia/premios.md).
+3. **No la uses como premio ni la saques como castigo.** La guía oficial para el chico (Ministerio de Salud, 2006) dice: "Es muy importante no usar la comida como premio o castigo, para mantener la disciplina", y pide dejar las golosinas para "unas pocas ocasiones especiales". La evidencia con método sobre premios es disputada y está en [el chico que no come](chico-que-no-come.md) y en [premios](../../Crianza/Limites-y-autonomia/premios.md).
 4. **Dejá las fiestas como fiestas**: en un cumpleaños se come lo que hay, como dice el folleto de viandas.

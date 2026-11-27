@@ -24,11 +24,11 @@ El campo separa tres circuitos: el control pediátrico, la vacunación y los con
 
 ## Para qué sirve el control de un chico sano
 
-En el control se mide el crecimiento, se mira el desarrollo, se revisan las vacunas y se habla de lo que preocupa a la familia. Es el lugar natural para preguntar por [señales de alarma](../Desarrollo/senales-de-alarma.md), por el sueño o por la comida.
+Las fuentes leídas no detallan qué incluye cada control. Como inferencia general, es el lugar donde se mide el crecimiento, se revisan las vacunas y se habla de lo que preocupa a la familia, y el lugar natural para preguntar por [señales de alarma](../Desarrollo/senales-de-alarma.md), por el sueño o por la comida.
 
 La frecuencia baja con la edad: mensual en el primer año, cada vez más espaciada hasta ser anual desde los 5. La edición de junio de 2025 del cronograma del Ministerio agregó controles: "Entre los 2 y 3 años: se agrega 1 control, pasando a ser controles cuatrimestrales en lugar de semestrales" y "Entre los 3 y 5 años: se agrega 1 control por año, pasando a ser controles semestrales en lugar de anuales". La tabla completa está en la [ficha](calendario-de-vacunas-y-controles.md).
 
-La frecuencia no tiene un número probado. El mismo documento admite: "No existe acuerdo a nivel mundial en relación a la recomendación de frecuencia de controles de salud durante la niñez". El cronograma es un acuerdo del Ministerio con comités de la SAP, y el esquema de la AAP en Estados Unidos es distinto.
+La frecuencia no tiene un número probado. El mismo documento admite: "No existe acuerdo a nivel mundial en relación a la recomendación de frecuencia de controles de salud durante la niñez". El cronograma lo elaboró el Ministerio con consulta a comités de la SAP, y el esquema de la AAP en Estados Unidos es distinto.
 
 ## Cómo funciona el calendario de vacunación
 

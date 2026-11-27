@@ -29,11 +29,14 @@ Implementa lo que piden [rendimiento](rendimiento.md) y [masa muscular y recompo
 
 | Suplemento | Qué dice la guía | Fuerza | Cómo se leyó |
 |---|---|---|---|
-| Creatina monohidrato | carga: "5 g of creatine monohydrate (or approximately 0.3 g/kg body weight) four times daily for 5–7 days"; mantenimiento: "3–5 g/day", aunque atletas más grandes "may need to ingest as much as 5–10 g/day" | posición de la ISSN, 2017 | extracto del texto vía buscador |
+| Creatina monohidrato | carga: "5 g of creatine monohydrate (or approximately 0.3 g/kg body weight) four times daily for 5–7 days"; mantenimiento: "3–5 g/day" | posición de la ISSN, 2017 | extracto del texto vía buscador |
 | Cafeína | "3-6 mg/kg body mass", unos 60 minutos antes; más efectos adversos con 9 mg/kg | posición de la ISSN, 2021 | resumen |
 | Proteína en polvo | es proteína como la de la comida; cuenta dentro del total del día | ver [masa muscular y recomposición](masa-muscular-y-recomposicion.md) | |
 
-La creatina es el suplemento con más respaldo para el entrenamiento de fuerza. Según la posición de la International Society of Sports Nutrition (ISSN), estudios con hasta 30 g por día durante 5 años la muestran "safe and well-tolerated in healthy individuals" y en varios grupos de pacientes ([Kreider y otros, 2017](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z)). Según la misma posición, al dejarla los depósitos del músculo vuelven a su nivel de base en 4 a 6 semanas. La seguridad tiene una sola fuente leída, la propia ISSN.
+La creatina es el suplemento con más respaldo para el entrenamiento de fuerza. La posición de la International Society of Sports Nutrition (ISSN) la considera segura y bien tolerada en personas sanas y en varios grupos de pacientes ([Kreider y otros, 2017](https://pubmed.ncbi.nlm.nih.gov/28615996/), según su resumen). La seguridad tiene una sola fuente, la propia ISSN.
+
+> [!NOTE]
+> Sin fuente todavía: tres datos de la posición que circulan y no se pudieron leer en el texto, la cantidad máxima estudiada (hasta 30 g por día durante 5 años), el máximo de 5 a 10 g por día en atletas grandes y cuánto tardan en volver los depósitos al dejarla. Las dosis de carga y de mantenimiento de la tabla salen de un extracto del texto que devolvió el buscador, no de la página de la revista, que no se pudo abrir.
 
 La cafeína tiene su explicación en [rendimiento](rendimiento.md).
 

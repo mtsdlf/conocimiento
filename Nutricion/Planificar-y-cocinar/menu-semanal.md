@@ -38,7 +38,7 @@ Estas cantidades salen de una sola fuente institucional, leída a través de un 
 
 ## Cómo armar el menú de la semana
 
-1. **Elegí primero la proteína de cada almuerzo y cena.** Repartí en los catorce lugares de la semana: pescado al menos dos veces, carne roja hasta tres, y el resto entre pollo, huevo y legumbres. La proteína es lo que más cuesta y lo que más se repite en las compras, por eso va primero.
+1. **Elegí primero la proteína de cada almuerzo y cena.** Repartí en los catorce lugares de la semana: pescado al menos dos veces, carne roja hasta tres, y el resto entre pollo, huevo y legumbres. Empezar por la proteína es un criterio práctico de esta base: es lo que más condiciona el resto de la compra y el guardado.
 2. **Sumá medio plato de verduras a cada almuerzo y cena.** Variá tipos y colores, como pide el mensaje 3 de las GAPA, y dejá las frutas para postres, desayunos y meriendas: dos o tres por día.
 3. **Completá con el almidón.** Legumbres, arroz o fideos (mejor integrales), papa, batata, choclo o mandioca. Una olla de legumbres o de arroz sirve para dos o tres comidas.
 4. **Ubicá los lácteos en desayuno y merienda.** Tres porciones por día entre leche, yogur y queso.

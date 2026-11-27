@@ -33,13 +33,13 @@ El CDC (Centros para el Control y la Prevención de Enfermedades de Estados Unid
 
 En 2022 el CDC y la AAP revisaron sus listas con un grupo de expertos. Uno de los criterios fue elegir hitos "most children (≥75%) would be expected to achieve" a la edad del control, y que se puedan observar en la vida cotidiana (Zubler y otros, 2022). El cambio fue grande: las listas viejas se redujeron un 26,4 % y se reemplazó un 40,9 %, y de los hitos que quedaron, un tercio cambió de edad (el 67,7 % de esos, a una edad mayor).
 
-La consecuencia práctica es que un hito del CDC no es un promedio. Si un chico no lo cumple a esa edad, está entre el 25 % más tardío o menos, y el objetivo declarado de la revisión fue "discourage a wait-and-see approach". Por sí solo no indica un problema, y conviene comentarlo con el pediatra ([señales de alarma](senales-de-alarma.md)).
+La consecuencia práctica es que un hito del CDC no es un promedio. Si un chico no lo cumple a esa edad, está entre el 25 % más tardío o menos, y el objetivo declarado de la revisión fue "discourage a wait-and-see approach". El CDC recomienda hablar con el médico si no cumple uno o más hitos, sin esperar a ver si se acomoda ([señales de alarma](senales-de-alarma.md)). Que un solo hito falte no es un diagnóstico: es el motivo para preguntar.
 
 Dos límites, dichos por la misma revisión. Las listas de hitos "are not validated", a diferencia de las pruebas de pesquisa. Y los hitos socioemocionales y cognitivos "had the least normative data": son los que menos datos de población tienen detrás. La evidencia es una revisión de literatura con consenso de expertos.
 
 ## Hitos por edad, de 1 a 5 años
 
-La tabla trae una selección de los hitos del CDC para cada edad, traducidos. La lista completa de cada edad está en la página enlazada, que también cubre 2, 4, 6, 9, 15 y 30 meses. Cada fila es lo que hace la mayoría de los chicos (75 % o más) al llegar a esa edad.
+La tabla trae una selección de los hitos del CDC para cada edad, traducidos y cotejados contra cada página del CDC el 2026-11-27. La lista completa está en la página enlazada. El CDC tiene además listas para los 2, 4, 6, 9, 15 y 30 meses. Cada fila es lo que hace la mayoría de los chicos (75 % o más) al llegar a esa edad.
 
 | Edad | Socioemocional | Lenguaje y comunicación | Cognitivo | Movimiento | Fuente |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@ La tabla trae una selección de los hitos del CDC para cada edad, traducidos. La
 | 4 años | Juega a ser otro (maestra, superhéroe, perro); consuela a quien está triste; cambia su conducta según el lugar | Dice oraciones de cuatro palabras o más; cuenta algo que le pasó en el día; responde "¿para qué sirve un abrigo?" | Nombra algunos colores; dice qué sigue en un cuento conocido; dibuja una persona con tres partes o más | Ataja una pelota grande casi siempre; se sirve comida con supervisión; agarra el lápiz con los dedos | [CDC, 4 años](https://www.cdc.gov/act-early/milestones/4-years.html) |
 | 5 años | Sigue reglas o respeta turnos en juegos con otros chicos; hace tareas simples de la casa | Cuenta una historia con al menos dos sucesos; sostiene una conversación de más de tres idas y vueltas; reconoce rimas simples | Cuenta hasta 10; usa palabras de tiempo ("ayer", "mañana"); presta atención 5 a 10 minutos a una actividad (sin pantalla); escribe algunas letras de su nombre | Abrocha algunos botones; salta en un pie | [CDC, 5 años](https://www.cdc.gov/act-early/milestones/5-years.html) |
 
-Páginas del CDC consultadas el 2026-11-27, traducción propia. La SAP no publica una tabla de pautas por edad en su guía de 2017: las da en forma narrativa.
+Páginas del CDC consultadas el 2026-11-27, traducción propia. En la guía de la SAP de 2017 no encontramos una tabla de pautas por edad: las da en forma narrativa.
 
 > [!NOTE]
 > Sin fuente todavía: la versión argentina de las pautas por edad (el Instrumento de Observación del Desarrollo Infantil, IODI, del Ministerio de Salud) y la versión en castellano de las listas del CDC.
@@ -63,7 +63,7 @@ Esta distinción importa más que la edad exacta de un hito. Un chico que habla 
 
 ## Habla como uno de 4 y se enoja como uno de 2
 
-Un chico de 2 años y medio que arma oraciones largas y conversa como uno de 4, pero tiene berrinches de su edad, es un caso común de desarrollo desparejo entre áreas. Los dominios avanzan por separado, y el lenguaje adelantado no trae consigo el control de las emociones. En la tabla, calmarse solo dentro de los 10 minutos después de una despedida aparece recién como hito de los 3 años, y seguir reglas y turnos con otros chicos, a los 5. A los 2 años y medio, los berrinches son esperables aunque el chico hable mucho.
+Un chico de 2 años y medio que arma oraciones largas y conversa como uno de 4, pero tiene berrinches de su edad, es un caso común de desarrollo desparejo entre áreas. Los hitos de cada dominio se listan por separado, y nada indica que un lenguaje adelantado traiga consigo el control de las emociones. En la tabla, calmarse solo dentro de los 10 minutos después de una despedida aparece recién como hito de los 3 años, y seguir reglas y turnos con otros chicos, a los 5. Por esa misma lógica, a los 2 años y medio los berrinches serían esperables aunque el chico hable mucho. Es una inferencia de la tabla, no un dato de una fuente.
 
 Para pensarlo sirven tres preguntas, cada una con su nota:
 
@@ -71,6 +71,6 @@ Para pensarlo sirven tres preguntas, cada una con su nota:
 2. ¿El adelanto es en una sola área o en varias? Un desarrollo cognitivo muy por delante del emocional tiene nombre en la literatura de altas capacidades: [desarrollo asincrónico](../Altas-capacidades/desarrollo-asincronico.md). El concepto sale de una definición de un grupo de expertos de 1991, no de estudios con chicos de 2 a 6 años.
 3. ¿Hay algo que no encaja con un desarrollo típico? Habla mucho pero no comparte la atención, no responde a su nombre o perdió algo que ya hacía: eso sí se consulta ([señales de alarma](senales-de-alarma.md)).
 
-Un error frecuente es exigirle al chico la conducta de la edad que aparenta por cómo habla. Que explique lo que siente con palabras de un chico de 4 no quiere decir que pueda frenarse como uno de 4. Esto último es una inferencia a partir de que los hitos de cada dominio son independientes; no hay un estudio que lo mida en estos términos.
+Es fácil exigirle al chico la conducta de la edad que aparenta por cómo habla. Que explique lo que siente con palabras de un chico de 4 no quiere decir que pueda frenarse como uno de 4. Esto último es una inferencia a partir de que los hitos de cada dominio son independientes; no hay un estudio que lo mida en estos términos.
 
 La genética y el temperamento también hacen que dos chicos de la misma edad sean distintos en cada área: está en [temperamento](../Emociones-y-caracter/temperamento.md). Cómo se aprende a hablar, área por área, sigue en [adquisición del lenguaje](adquisicion-del-lenguaje.md).

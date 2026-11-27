@@ -27,11 +27,11 @@ Para la vianda del jardín o del trabajo, el folleto de viandas del Ministerio d
 
 ## Cómo pasar la tanda de la olla a la heladera
 
-El riesgo de una tanda está en el enfriado: una olla grande tarda horas en enfriarse y pasa ese tiempo a la temperatura en que las bacterias se multiplican. Las reglas de ANMAT y del Ministerio de Salud apuntan a acortar ese tiempo.
+El riesgo de una tanda está, por inferencia de las reglas oficiales, en el enfriado: una olla grande tarda en enfriarse y pasa ese tiempo fuera del frío. Las reglas de ANMAT y del Ministerio de Salud apuntan a acortar ese tiempo.
 
 1. **No dejes lo cocido más de dos horas afuera.** ANMAT pide refrigerar cuanto antes y no pasar "más de 2 horas a temperatura ambiente"; el Ministerio baja el límite a una hora en días de mucho calor.
 2. **Separá en porciones chicas y envases poco profundos.** Así se enfrían rápido en el centro, como recomienda ANMAT. Una porción por comida evita abrir y recalentar todo el envase.
-3. **Guardá arroz y fideos enseguida.** ANMAT dice que la pasta y el arroz cocidos tienen que "ser refrigerados o consumidos en caliente, inmediatamente después de la cocción": según la lectura del informe de investigación, por las toxinas de *Bacillus cereus*.
+3. **Guardá arroz y fideos enseguida.** ANMAT dice que la pasta y el arroz cocidos tienen que "ser refrigerados o consumidos en caliente, inmediatamente después de la cocción": por las toxinas de *Bacillus cereus*.
 4. **Congelá lo que no se come en uno o dos días.** ANMAT recomienda congelar rápido las raciones sobrantes en vez de dejarlas varios días en la heladera.
 5. **Rotulá cada envase con qué es y la fecha.** Es práctica común, sin fuente; sirve para aplicar los plazos de [higiene y conservación](higiene-y-conservacion.md).
 6. **Poné lo cocido en el estante de arriba.** Las carnes crudas van abajo, tapadas, para que no goteen sobre lo que ya está listo (ANMAT).
@@ -47,6 +47,6 @@ Al servir, la comida se recalienta completa, también en el centro, y no a media
 
 ## Cómo falla una tanda
 
-Las fallas habituales son tres, y todas son de tiempo. La olla se deja enfriar entera sobre la cocina toda la tarde. Se guarda en un solo envase grande que se recalienta y vuelve a la heladera varias veces. Y la tanda se estira más días de los que aguanta porque "todavía tiene buen olor". En una casa con un chico chico cada una pesa más, por lo que se cuenta del síndrome urémico hemolítico en [higiene y conservación](higiene-y-conservacion.md).
+Tres fallas posibles, todas de tiempo (ejemplos de esta base, sin fuente). La olla se deja enfriar entera sobre la cocina toda la tarde. Se guarda en un solo envase grande que se recalienta y vuelve a la heladera varias veces. Y la tanda se estira más días de los que aguanta porque "todavía tiene buen olor". Con un chico chico pesan más, por lo que se cuenta del síndrome urémico hemolítico en [higiene y conservación](higiene-y-conservacion.md).
 
 Esta nota resume reglas de inocuidad de organismos oficiales; ante una intoxicación o una diarrea en un chico, la consulta es con el pediatra o el médico.

@@ -44,13 +44,13 @@ Cuánto inglés llega a tener depende de cuánto lo escucha. En los estudios con
 
 ## Cómo juzgar el progreso sin confundir lo típico con un retraso
 
-Al principio, un chico de jardín bilingüe sabe menos palabras en cada idioma que un monolingüe en el suyo. Genesee advierte que juzgar un solo idioma hace parecer retraso lo que es típico del aprendizaje bilingüe; contando los dos, el vocabulario cae dentro del rango de los monolingües ([Genesee 2008](https://www.psych.mcgill.ca/perpg/fac/genesee/Dual%20Language%20Development%20in%20Preschool%20Children%202008.pdf)). Los hitos y las señales de cuándo consultar son los mismos que para cualquier chico ([señales de alarma](../Desarrollo/senales-de-alarma.md)). Ante una duda real sobre el lenguaje, se consulta al pediatra.
+Al principio, un chico de jardín bilingüe puede saber menos palabras en cada idioma que un monolingüe en el suyo. Genesee advierte que juzgar un solo idioma hace parecer retraso lo que es típico del aprendizaje bilingüe; contando los dos, el vocabulario cae dentro del rango de los monolingües ([Genesee 2008](https://www.psych.mcgill.ca/perpg/fac/genesee/Dual%20Language%20Development%20in%20Preschool%20Children%202008.pdf)). Es de suponer que los hitos y las señales de cuándo consultar sean los mismos que para cualquier chico (inferencia nuestra) ([señales de alarma](../Desarrollo/senales-de-alarma.md)). Ante una duda real sobre el lenguaje, se consulta al pediatra.
 
 En concreto, para los padres:
 
 1. Hablá en casa el idioma en que te sentís cómodo; no hace falta pasarse al inglés.
 2. Contá con que mezcle idiomas en una misma frase: la AAP aclara que no significa que esté confundido ([crianza bilingüe](../Desarrollo/crianza-bilingue.md)).
-3. Si la escuela es de inmersión total, no te alarmes si al principio lee y escribe peor en castellano.
+3. Si la escuela es de inmersión total, no te alarmes si al principio lee y escribe peor en castellano; es lo que pasó en Canadá con el idioma mayoritario, y no se midió en Argentina.
 4. Preguntá a la escuela cuántas horas por semana hay en cada idioma y desde qué sala; eso marca qué esperar.
 
 > [!NOTE]

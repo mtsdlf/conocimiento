@@ -34,16 +34,18 @@ La objeción más obvia es el nivel socioeconómico: las familias con más tiemp
 
 ## Qué parte de la comida en familia importa
 
-Un segundo metaanálisis del mismo grupo (Dallacker y colegas, *Health Psychology*, 2019; 50 estudios, 49.137 participantes) separó los componentes de la comida familiar. Según el resumen, se asociaron con mejor alimentación del chico:
+Un segundo metaanálisis del mismo grupo (Dallacker y colegas, *Health Psychology*, 2019; 50 estudios, 49.137 participantes) separó los componentes de la comida familiar. Según su resumen (leído por Europe PMC), se asociaron con mejor alimentación del chico:
 
 | Componente | Correlación |
 |---|---|
 | duración de la comida | r = 0,20 |
 | ambiente positivo | r = 0,13 |
 | calidad de la comida servida | r = 0,12 |
+| el adulto que da el ejemplo de comer sano | r = 0,12 |
 | televisión apagada | r = 0,09 |
+| los chicos que ayudan a preparar la comida | r = 0,08 |
 
-Los autores piden ensayos aleatorizados para confirmarlo: "Randomized control trials are needed to further verify these findings." Es un solo grupo de autores y todas las asociaciones están por debajo de 0,2. El comunicado del Instituto Max Planck lo resume en que el clima de la mesa importa tanto como la comida sana.
+Los autores piden ensayos aleatorizados: "Randomized control trials are needed to further verify these findings." Es un solo grupo de autores y todas las asociaciones están por debajo de 0,2. El comunicado del Instituto Max Planck lo resume en que el clima de la mesa importa tanto como la comida sana.
 
 ## Cómo se arma una mesa compartida
 
@@ -53,7 +55,7 @@ Lo que sigue combina los componentes de arriba con el modelo de [división de re
 2. **Apagá la televisión** y dejá las pantallas fuera de la mesa (asociación chica en Dallacker 2019). Lo que dice la crianza sobre pantallas está en [pantallas](../../Crianza/Juego-y-aprendizaje/pantallas.md).
 3. **No apures la comida.** La duración fue el componente con la asociación más alta.
 4. **Cuidá el clima: sin peleas por bocados.** Satter pone entre los deberes del adulto que la comida sea agradable, y la SAP pide "un ambiente tranquilo" y no obligar a comer.
-5. **Comé lo mismo que el chico, delante de él.** Mostrar con el ejemplo es otro deber del adulto para Satter ([un menú para todos](un-menu-para-todos.md)).
+5. **Comé lo mismo que el chico, delante de él.** El ejemplo del adulto tuvo una asociación de r = 0,12 en Dallacker 2019, y mostrar con el ejemplo es otro deber del adulto para Satter ([un menú para todos](un-menu-para-todos.md)).
 6. **Mantené al chico sentado y acompañado mientras come**, que es además lo que previene el [atragantamiento](../Alimentacion-infantil/atragantamiento.md).
 
 > [!NOTE]

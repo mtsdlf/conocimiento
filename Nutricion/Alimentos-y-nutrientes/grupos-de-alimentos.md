@@ -22,7 +22,7 @@ revisado:
 
 Los grupos de alimentos son las familias en que las Guías Alimentarias argentinas ordenan la comida en su gráfico, con una cantidad diaria o semanal para cada una: frutas y verduras, legumbres y cereales, lácteos, carnes y huevos, aceites y frutas secas, y un grupo opcional de dulces y grasas.
 
-Agrupar sirve porque los alimentos de un mismo grupo aportan nutrientes parecidos y se pueden cambiar entre sí: lentejas por arroz integral, yogur por queso, pescado por pollo. El gráfico es la parte visual de las [Guías Alimentarias argentinas](../Patrones-y-guias/guias-alimentarias-argentinas.md), que lo acompañan con diez mensajes; esta nota es la vista del gráfico y no repite los mensajes.
+La idea de agrupar es que los alimentos de un mismo grupo aportan nutrientes parecidos y se pueden cambiar entre sí, como yogur por queso o pescado por pollo (ejemplos de esta base, no de la guía). El gráfico es la parte visual de las [Guías Alimentarias argentinas](../Patrones-y-guias/guias-alimentarias-argentinas.md), que lo acompañan con diez mensajes; esta nota es la vista del gráfico y no repite los mensajes.
 
 ## Los seis grupos y cuánto de cada uno
 
@@ -44,14 +44,14 @@ Las GAPA están pensadas para personas sanas mayores de 2 años (según el resum
 
 ## Qué aporta cada grupo
 
-Cada grupo carga con algunos nutrientes más que otros, y por eso sacar un grupo entero obliga a cubrir sus nutrientes por otro lado. El ejemplo más claro es la carne: según las hojas del NIH Office of Dietary Supplements (leídas como resumen), los alimentos de origen animal son la única fuente natural de vitamina B12, y el hierro de los vegetales se absorbe peor que el de la carne.
+Cada grupo aporta más de algunos nutrientes que de otros; sacar un grupo entero obligaría a cubrirlos por otro lado (inferencia de esta base). El ejemplo más claro es la carne: según las hojas del NIH Office of Dietary Supplements (leídas como resumen), los alimentos de origen animal son la única fuente natural de vitamina B12, y el hierro de los vegetales se absorbe peor que el de la carne.
 
 > [!NOTE]
 > Sin fuente todavía: una tabla de qué nutriente aporta cada grupo del gráfico, sacada de la guía completa de las GAPA. Los detalles están en [macronutrientes](macronutrientes.md) y [micronutrientes clave](micronutrientes-clave.md), y el caso vegetariano en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md).
 
 ## Lo que falta en la mesa argentina
 
-El grupo que más falta es el de frutas y verduras. Según la prensa que cubrió la ENNyS 2, solo 1 de cada 3 argentinos come frutas y verduras al menos una vez al día ([Diario de Cuyo](https://diariodecuyo.com.ar/suplementos/Solo-1-de-cada-3-argentinos-consume-frutas-y-verduras-20210717-0003.html), fuente secundaria), lejos de las 5 porciones del gráfico. El grupo opcional, en cambio, sobra: casi 4 de cada 10 toman bebidas azucaradas todos los días (misma nota).
+Las frutas y verduras están lejos de lo que pide el gráfico. Según la prensa que cubrió la ENNyS 2, solo 1 de cada 3 argentinos come frutas y verduras al menos una vez al día ([Diario de Cuyo](https://diariodecuyo.com.ar/suplementos/Solo-1-de-cada-3-argentinos-consume-frutas-y-verduras-20210717-0003.html), fuente secundaria), lejos de las 5 porciones del gráfico. En el otro extremo, casi 4 de cada 10 toman bebidas azucaradas todos los días (misma nota), y las GAPA piden limitarlas.
 
 ## El debate de la carne roja
 

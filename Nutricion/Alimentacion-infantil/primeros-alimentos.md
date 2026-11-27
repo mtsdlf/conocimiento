@@ -48,4 +48,4 @@ El ensayo LEAP mostró, según su resumen en revisiones, una reducción relativa
 
 ## De los primeros alimentos a la mesa familiar
 
-A los 2 años el chico ya come lo de la familia, con cortes seguros. Lo que necesita desde ahí está en [necesidades de 2 a 6](necesidades-de-2-a-6.md), y cómo se lo sienta a la mesa, en [división de responsabilidades](../Comer-en-familia/division-de-responsabilidades.md).
+Desde el año, según la guía oficial de 2006, el chico puede comer lo de la familia; con cortes seguros hasta los 4 años. Lo que necesita desde ahí está en [necesidades de 2 a 6](necesidades-de-2-a-6.md), y cómo se lo sienta a la mesa, en [división de responsabilidades](../Comer-en-familia/division-de-responsabilidades.md).

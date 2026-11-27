@@ -22,7 +22,7 @@ Recibe de [Patrones y guías](../Patrones-y-guias/patrones-y-guias.md) qué tien
 
 ## La semana como una cadena de cuatro pasos
 
-La comida de una semana pasa por cuatro pasos en orden: se decide el menú, se compra lo que pide, se cocina (una parte por tandas) y se guarda hasta comerla. Cada paso depende del anterior. Un menú sin lista de compras termina en compras sueltas, y una tanda grande sin reglas de enfriado y guardado es la forma más común de que una comida casera haga mal.
+La comida de una semana pasa por cuatro pasos en orden: se decide el menú, se compra lo que pide, se cocina (una parte por tandas) y se guarda hasta comerla. Cada paso depende del anterior. Un menú sin lista de compras termina en compras sueltas, y una tanda grande sin reglas de enfriado y guardado es un riesgo (inferencia de esta base).
 
 ```mermaid
 flowchart LR
@@ -38,11 +38,11 @@ El menú se arma con las Guías Alimentarias para la Población Argentina (GAPA)
 
 Que planificar las comidas mejore la dieta no está probado. El único estudio grande encontrado, sobre 40.554 adultos franceses, halló que quienes planificaban seguían algo más la guía de su país y comían más variado, pero es un estudio transversal y sus autores aclaran que no se puede inferir causalidad (Ducrot 2017, según su resumen). Se planifica por razones prácticas, no porque haya un ensayo que lo respalde.
 
-La parte de higiene, en cambio, está firme y es la que más importa. Las reglas de la OMS y del Ministerio de Salud coinciden: separar crudo de cocido, cocinar completo, no dejar lo cocido más de dos horas a temperatura ambiente y enfriar rápido. En una casa con un chico chico pesa más, porque el síndrome urémico hemolítico tiene su tasa más alta en los niños de un año ([higiene y conservación](higiene-y-conservacion.md)).
+La parte de higiene, en cambio, tiene respaldo oficial. Las reglas de la OMS y del Ministerio de Salud coinciden: separar crudo de cocido, cocinar completo, no dejar lo cocido más de dos horas a temperatura ambiente y enfriar rápido. En una casa con un chico chico pesa más, porque el síndrome urémico hemolítico tiene su tasa más alta en los niños de un año ([higiene y conservación](higiene-y-conservacion.md)).
 
 ## Cómo falla la semana
 
-Las fallas típicas son tres. El menú se arma pensando en un solo comensal y después se cocina aparte para el chico o para el adulto que hace dieta; [un menú para todos](../Comer-en-familia/un-menu-para-todos.md) trata cómo evitarlo. La tanda del domingo se deja enfriar en la olla sobre la mesada toda la tarde. Y la heladera se llena sin orden, con la carne cruda arriba goteando sobre lo cocido.
+Tres fallas posibles, ejemplos de esta base sin fuente. El menú se arma pensando en un solo comensal y después se cocina aparte para el chico o para el adulto que hace dieta; [un menú para todos](../Comer-en-familia/un-menu-para-todos.md) trata cómo evitarlo. La tanda del domingo se deja enfriar en la olla sobre la mesada toda la tarde. Y la heladera se llena sin orden, con la carne cruda arriba goteando sobre lo cocido.
 
 ## Qué hay en planificar y cocinar
 

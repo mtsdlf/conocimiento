@@ -24,7 +24,7 @@ Los cambios difíciles, la llegada de un hermano, una mudanza, la separación de
 
 ## Qué tienen en común
 
-Un cambio grande le saca al chico parte de lo previsible, y la previsibilidad es una de las cosas que sostienen su [regulación emocional](regulacion-emocional.md). Por eso la reacción típica es un retroceso: más [berrinches](berrinches.md), peor sueño, conductas de más chico, más apego a un adulto. Un chico con un [temperamento](temperamento.md) lento para adaptarse tarda más. En todos los casos, el estado del adulto pesa: según la AAP, la forma en que el adulto se adapta influye en cómo se adaptan los hijos, lo que lleva a [bienestar de los padres](../Vinculo/bienestar-de-los-padres.md).
+Lo que sigue es lectura propia, a partir de lo que se encontró sobre el hermanito. Un cambio grande le saca al chico parte de lo previsible, lo que podría afectar su [regulación emocional](regulacion-emocional.md), y la reacción típica sería un retroceso: más [berrinches](berrinches.md), peor sueño, conductas de más chico. Un chico con un [temperamento](temperamento.md) lento para adaptarse podría tardar más. En todos los casos, el estado del adulto pesa: según la AAP, la forma en que el adulto se adapta influye en cómo se adaptan los hijos, lo que lleva a [bienestar de los padres](../Vinculo/bienestar-de-los-padres.md).
 
 ## La llegada de un hermano
 
@@ -35,27 +35,27 @@ Un hermanito es un acontecimiento normativo: le pasa a la mayoría de los chicos
 
 ## Separación de los padres
 
-El metaanálisis clásico de Amato y Keith (1991), con 92 estudios, encontró que los hijos de padres divorciados puntuaban por debajo de los de familias que seguían juntas, con un efecto chico: una mediana de 0,14 desvíos estándar. Los efectos más grandes fueron en la relación con el padre (-0,26) y en la conducta (-0,23), y los más chicos en el ajuste psicológico (-0,08) y el autoconcepto (-0,09) (según sus resúmenes). En la actualización de 2001, con 67 estudios, el 88 % de los efectos mostraban menor bienestar, pero solo el 42 % eran significativos. Todo es observacional.
+El metaanálisis clásico de Amato y Keith (1991), con 92 estudios, encontró que los hijos de padres divorciados puntuaban por debajo de los de familias que seguían juntas, con un efecto chico: una mediana de 0,14 desvíos estándar. Los efectos más grandes fueron en la relación con el padre (-0,26) y en la conducta (-0,23), y los más chicos en el ajuste psicológico (-0,08) y el autoconcepto (-0,09) (según sus resúmenes). En la actualización de 2001, con 67 estudios, el 88 % de los efectos mostraban menor bienestar, pero solo el 42 % eran significativos (según un resumen secundario). Todo es observacional.
 
 La AAP agrega el lado práctico: muchos chicos pasan por sentimientos dolorosos de corto plazo y se recuperan dentro de los 2 a 3 años posteriores a la separación, y un estilo de crianza estable los protege (según su resumen). Que los padres sigan criando en equipo después de separarse es lo que trata [cuidadores](../Vinculo/cuidadores.md).
 
-Hay dos fuentes independientes que coinciden, un metaanálisis y una guía de sociedad pediátrica: el efecto promedio de la separación existe y es chico, y lo que pasa después, el conflicto y la estabilidad, pesa mucho en cómo le va al chico.
+Hay dos fuentes independientes que coinciden, un metaanálisis y una guía de sociedad pediátrica: el efecto promedio de la separación existe y es chico, y un estilo de crianza estable protege al chico, según la AAP.
 
 > [!NOTE]
 > Sin fuente todavía: datos específicos para chicos de 2 a 6 años; ensayos sobre programas para hijos de padres separados; la mirada de la SAP o de UNICEF.
 
 ## Una muerte cercana
 
-Tres fuentes de hospitales y servicios de salud coinciden en cómo entienden la muerte los chicos de 3 a 6 años, aunque ninguna se apoya en estudios: es opinión de expertos.
+Fuentes de hospitales y servicios de salud coinciden en cómo entienden la muerte los chicos de 3 a 6 años, aunque ninguna se apoya en estudios: es opinión de expertos.
 
-- Los preescolares suelen no entender la causa ni que la muerte es definitiva, y con su pensamiento mágico pueden creer que es reversible (Children's Hospital of Philadelphia, según su resumen).
+- Los preescolares suelen no entender la causa ni que la muerte es definitiva (Children's Colorado, según el informe de fuentes), y con su pensamiento mágico pueden creer que es reversible (Children's Hospital of Philadelphia, según su resumen).
 - Creen que sus pensamientos causan las cosas, así que conviene asegurarles que no tuvieron la culpa (Alberta Health, según su resumen).
 - Los menores de 3 años no temen a la muerte, pero sí sufren la separación y la pérdida (Zero to Three, según su resumen).
 
 De ahí salen dos recomendaciones de esas fuentes:
 
-1. Usá palabras claras como "murió", en vez de rodeos que el chico puede tomar al pie de la letra.
-2. Decile que no fue su culpa, aunque no lo pregunte.
+1. Usá palabras claras como "murió".
+2. Asegurale que no tuvo la culpa.
 
 Mantener las rutinas que se pueda es una inferencia desde lo que tienen en común los cambios difíciles, no una recomendación de estas fuentes.
 

@@ -21,9 +21,12 @@ Un berrinche es un estallido de enojo o frustración que el chico todavía no pu
 
 ## Qué es esperable a los 2 y 3 años
 
+> [!NOTE]
+> Sin verificar: lo que esta nota atribuye a la AAP (HealthyChildren, "Temper Tantrums") no está en el informe de fuentes, que no consultó esa página, y no se pudo cotejar en esta revisión. Lo de MSD, Potegal y el Child Mind Institute sí se cotejó con el informe.
+
 Los berrinches son parte normal del desarrollo. La Academia Estadounidense de Pediatría (AAP) los describe como "a normal part of development" y dice que pasan sobre todo entre el año y los 3 años, y que mejoran después de los 3 aunque no desaparecen del todo. El Manual MSD coincide: "Suelen aparecer hacia el final del primer año de vida", son más frecuentes entre los 2 y los 4 años y muy poco comunes después de los 5.
 
-Las causas habituales son concretas: frustración, cansancio, aburrimiento y hambre, según MSD. Un chico de 2 años quiere hacer cosas solo y elegir, y todavía no tiene ni las palabras ni el control para manejar el "no" o el "no puedo". El temperamento pesa: según la AAP, algunos chicos tienen más berrinches que otros por su forma de ser ([temperamento](temperamento.md)).
+Las causas habituales son concretas: frustración, cansancio, aburrimiento y hambre, según MSD. Una explicación habitual, que es lectura propia porque ninguna fuente verificada dice el mecanismo, es que un chico de 2 años quiere hacer cosas solo y todavía no tiene ni las palabras ni el control para manejar el "no" o el "no puedo". El temperamento pesa: según la AAP, algunos chicos tienen más berrinches que otros por su forma de ser ([temperamento](temperamento.md)).
 
 Los berrinches suelen ser cortos. En un estudio con 335 chicos de 18 a 60 meses, a partir de relatos de los padres, la duración más común fue de medio minuto a un minuto y tres de cada cuatro duraron 5 minutos o menos (Potegal y otros 2003, según su resumen). Otras fuentes secundarias dan cifras distintas, y no se verificaron en el original. MSD dice que muchos se controlan en "unos pocos minutos".
 
@@ -60,7 +63,7 @@ Las dos fuentes coinciden en el mensaje: consultar ante la duda. Las señales de
 
 ## Habla como uno de 4, se desborda como uno de 2
 
-Un chico que habla y razona como uno mayor puede tener los berrinches de su edad real. Es esperable: el lenguaje y el razonamiento pueden adelantarse, pero el control de las emociones madura a su ritmo. Explicarle más no acorta el berrinche; lo que sirve es lo mismo que para cualquier chico de su edad. Está en [desarrollo asincrónico](../Altas-capacidades/desarrollo-asincronico.md).
+Un chico que habla y razona como uno mayor puede tener los berrinches de su edad real. Una lectura propia, sin fuente que la verifique: el lenguaje y el razonamiento pueden adelantarse mientras el control de las emociones madura a su ritmo, y por eso lo que sirve sería lo mismo que para cualquier chico de su edad. Está en [desarrollo asincrónico](../Altas-capacidades/desarrollo-asincronico.md).
 
 > [!NOTE]
 > Sin fuente todavía: una guía de la Sociedad Argentina de Pediatría sobre berrinches; una fuente verificada sobre el mecanismo (lenguaje, autonomía y maduración prefrontal) de por qué se concentran a los 2 y 3 años.

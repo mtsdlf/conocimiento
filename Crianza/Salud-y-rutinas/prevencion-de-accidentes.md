@@ -23,7 +23,7 @@ El campo ordena la prevención por mecanismo (agua, tránsito, asfixia, fuego, i
 
 ## Qué mata a los chicos de 1 a 4 años
 
-El boletín 172 de la Dirección de Estadísticas e Información de Salud (DEIS), con datos de 2023, cuenta 196 muertes por causas externas en chicos de 1 a 4 años. Las filas de accidentes suman 141; el resto del subtotal son otras causas externas que no se detallaron.
+El boletín 172 de la Dirección de Estadísticas e Información de Salud (DEIS), con datos de 2023, cuenta 196 muertes por causas externas en chicos de 1 a 4 años. Las filas de accidentes suman 141; la diferencia con el subtotal son otras causas externas que el cuadro no detalla (resta nuestra).
 
 | Causa (cuadro 6, DEIS 2023) | Muertes |
 |---|---|
@@ -40,12 +40,12 @@ Son muertes, no lesiones. Las caídas, quemaduras e intoxicaciones que no matan 
 
 ## El agua: la primera causa
 
-Un chico chico se ahoga rápido y en silencio. La SAP, con datos de la DEIS de 2018, cuenta que ese año "murieron ahogados 77 niños entre 0 y 4 años, de los cuales 69 tenían entre 1 y 3 años". El lugar más frecuente en menores de 5 es el hogar: piletas, fuentes y canales. Hay 3 o 4 varones por cada nena.
+Un chico chico se ahoga rápido. La SAP, con datos de la DEIS de 2018, cuenta que ese año "murieron ahogados 77 niños entre 0 y 4 años, de los cuales 69 tenían entre 1 y 3 años". El lugar más frecuente en menores de 5 es el hogar: piletas, fuentes y canales. Hay 3 o 4 varones por cada nena.
 
 "Se pueden ahogar muy rápidamente en muy poca agua, (por ejemplo, un balde o un tacho vacío de pintura)", advierte la SAP. Sus recomendaciones:
 
 1. Vigilancia constante de un adulto atento mientras el chico está cerca del agua.
-2. Un cerco perimetral completo alrededor de la pileta, que la separe de la casa.
+2. Un cerco perimetral completo alrededor de la pileta.
 3. Los cobertores y las alarmas de pileta suman, pero "no excluyen la presencia del cerco".
 
 De la advertencia sobre el balde se infiere que conviene vaciar baldes, tachos y palanganas después de usarlos; la SAP no lo pide con esas palabras. Las recomendaciones tienen una sola fuente independiente (la SAP); los datos de la DEIS de 2018 y de 2023 coinciden en el orden de magnitud.
@@ -67,11 +67,11 @@ La SAP transcribe la secuencia que recomienda la AAP:
 La ley de tránsito nacional (Ley 24.449, art. 40, inciso g) dice que "Los menores de 10 años deben viajar en el asiento trasero". El Decreto 32/2018 lo reglamentó con el Sistema de Retención Infantil: "los menores de DIEZ (10) años deben viajar sujetos al asiento trasero, con el Sistema de Retención Infantil homologado al efecto, en relación a su peso y tamaño". Ese texto del decreto se tomó de un proyecto de ley que lo cita (0862-D-2023), no del Boletín Oficial.
 
 > [!IMPORTANT]
-> La ley y la recomendación médica no coinciden. La norma nacional pone el corte en 10 años de edad; la SAP lo pone en 1,50 m de estatura, que muchos chicos alcanzan recién entre los 8 y los 12 años. Hay proyectos para pasar la ley a estatura, y una nota de prensa sin verificar dice que en la Ciudad de Buenos Aires y en Mendoza el límite es 12 años. Cumplir la ley no garantiza que el cinturón calce.
+> La ley y la recomendación médica no coinciden. La norma nacional pone el corte en 10 años de edad; la SAP lo pone en 1,50 m de estatura, que muchos chicos alcanzan recién entre los 8 y los 12 años. Hay proyectos para pasar la ley a estatura, y una nota de prensa sin verificar dice que en la Ciudad de Buenos Aires y en Mendoza el límite es 12 años. Cumplir la ley no garantiza que el cinturón calce (inferencia nuestra).
 
 ## Asfixia, fuego, venenos y caídas
 
-La asfixia es la tercera causa del cuadro, si se suman la sofocación y la obstrucción por alimentos u objetos. Los alimentos de riesgo y cómo prepararlos están en [atragantamiento](../../Nutricion/Alimentacion-infantil/atragantamiento.md), en Nutrición.
+La asfixia es la tercera entre las causas con nombre del cuadro, si se suman la sofocación y la obstrucción por alimentos u objetos. Los alimentos de riesgo y cómo prepararlos están en [atragantamiento](../../Nutricion/Alimentacion-infantil/atragantamiento.md), en Nutrición.
 
 > [!NOTE]
 > Sin fuente todavía: recomendaciones leídas sobre quemaduras, intoxicaciones (medicamentos y productos de limpieza) y caídas de altura, y cifras argentinas de lesiones que no matan. El manual de prevención de lesiones de la SAP (2012) no se pudo abrir.

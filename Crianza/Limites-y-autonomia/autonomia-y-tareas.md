@@ -19,7 +19,7 @@ revisado:
 
 La autonomía es dejar que el chico haga solo lo que ya puede, y las tareas son su parte en la vida de la casa; entre los 3 y los 4 años ya come, se lava y se viste solo y colabora con tareas chicas, y los chicos chicos tienen ganas espontáneas de ayudar.
 
-Está en esta vertical porque es la otra cara de los límites: el límite marca lo que el chico no puede hacer, la autonomía amplía lo que sí. En el cuadro de [estilos de crianza](estilos-de-crianza.md), otorgar autonomía va con la calidez y con la exigencia de conducta madura.
+Está en esta vertical porque es la otra cara de los límites: el límite marca lo que el chico no puede hacer, la autonomía amplía lo que sí. En el cuadro de [estilos de crianza](estilos-de-crianza.md), otorgar autonomía es una de las dimensiones que Pinquart asocia con menos problemas de conducta.
 
 ## Qué puede hacer solo a cada edad
 
@@ -43,7 +43,7 @@ Sobre las tareas del hogar en particular solo se encontró cobertura de prensa d
 ## Premiar las tareas: dos consejos que chocan
 
 > [!IMPORTANT]
-> La guía de la AAP sugiere "recompensas tangibles, como mensualidades y calcomanías vinculadas a las tareas completadas". La investigación sobre sobrejustificación advierte lo contrario para lo que el chico hace con gusto: premiar con objetos la ayuda espontánea la redujo en bebés de 20 meses (Warneken y Tomasello), y los premios materiales esperados bajan la motivación intrínseca en experimentos (Deci y otros, en [premios](premios.md)). La guía de la AAP no cita estudios, y ninguna fuente leída estudia premios por tareas del hogar en chicos de 2 a 6 años.
+> La guía de la AAP sugiere "recompensas tangibles, como mensualidades y calcomanías vinculadas a las tareas completadas". La investigación sobre sobrejustificación advierte lo contrario para lo que el chico hace con gusto: premiar con objetos la ayuda espontánea la redujo en bebés de 20 meses (Warneken y Tomasello), y las recompensas condicionadas a la tarea bajaron la motivación intrínseca en experimentos (Deci y otros, en [premios](premios.md)). La guía de la AAP no cita estudios, y ninguna fuente leída estudia premios por tareas del hogar en chicos de 2 a 6 años.
 
 Una forma de conciliarlos, que es inferencia propia: elogiar lo que hizo (que suma en las dos líneas) y reservar el premio material para tareas que al chico le cuestan.
 

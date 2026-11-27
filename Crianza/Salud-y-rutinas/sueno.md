@@ -37,7 +37,7 @@ La AASM dice que esas horas valen "on a regular basis to promote optimal health"
 
 Los rangos son consenso, no umbrales probados. La OMS califica sus recomendaciones como fuertes con evidencia de calidad muy baja ("Strong recommendations, very low quality evidence"). La AASM usó opinión de expertos estructurada (método RAND modificado) sobre estudios mayormente observacionales.
 
-En la práctica, un chico que duerme una hora menos que el rango algunas noches no está fuera de una norma médica. Lo que las guías piden es que el promedio caiga en el rango de forma regular.
+La AASM habla de dormir esas horas "on a regular basis", es decir de forma habitual. Una noche corta suelta queda fuera de lo que midieron los paneles; que no preocupe es inferencia nuestra, y si el sueño preocupa se consulta al pediatra.
 
 ## Pesadillas y terrores nocturnos
 
@@ -46,14 +46,14 @@ Se parecen de afuera y se atienden distinto. Lo que sigue sale de la página de 
 | | Pesadilla | Terror nocturno |
 |---|---|---|
 | Cuándo | segunda mitad de la noche | al inicio de la noche, en sueño profundo |
-| Qué pasa | se despierta asustado | no se despierta del todo |
+| Qué pasa | se despierta asustado | — |
 | Al otro día | lo recuerda | no lo recuerda |
 | Edad | pueden empezar a los 6 meses, pico entre los 3 y 12 años | — |
 | Qué hacer | acudir rápido y consolar | mantener la calma e "impedir con suavidad que se levante de la cama" |
 
 Un terror "puede durar hasta 45 minutos, aunque la mayoría son más cortos", según la AAP. Si los terrores siguen en el tiempo, se consulta. Un resumen de buscador atribuye lo mismo a la Asociación Española de Pediatría y al Manual MSD (terrores de 3 a 8 años, no despertar al chico), pero esas páginas no se leyeron: por ahora hay una sola fuente leída.
 
-Las pesadillas suelen aparecer después de un cambio grande o un miedo nuevo; cómo acompañar esos momentos está en [cambios difíciles](../Emociones-y-caracter/cambios-dificiles.md) y en [regulación emocional](../Emociones-y-caracter/regulacion-emocional.md).
+Cómo acompañar los miedos y los cambios que pueden acompañar a las pesadillas está en [cambios difíciles](../Emociones-y-caracter/cambios-dificiles.md) y en [regulación emocional](../Emociones-y-caracter/regulacion-emocional.md).
 
 ## Lo que todavía no tiene fuente
 
