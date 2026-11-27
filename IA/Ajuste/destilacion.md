@@ -77,14 +77,14 @@ servicios de ajuste está en la ficha [Plataformas de IA](../Produccion/platafor
 
 ## Dos casos con cifras
 
-**Alpaca** (Stanford, 13 de marzo de 2023): un LLaMA de 7.000 millones de parámetros ajustado con
+Alpaca (Stanford, 13 de marzo de 2023): un LLaMA de 7.000 millones de parámetros ajustado con
 52.000 demostraciones generadas por un modelo de OpenAI a partir de 175 pares escritos a mano.
 Según la página del proyecto, generar los datos costó menos de 500 dólares y el ajuste, unas 3 horas
 en 8 GPU (menos de 100 dólares). El mismo caso muestra el límite: "Alpaca is intended only for
 academic research" y "any commercial use is prohibited", por la licencia del modelo de partida, por los
 términos del proveedor del maestro y por falta de medidas de seguridad.
 
-**DeepSeek-R1** (enero de 2025; publicado en *Nature* 645): según su abstract, los patrones de
+DeepSeek-R1 (enero de 2025; publicado en *Nature* 645): según su abstract, los patrones de
 razonamiento de un modelo grande se pueden transferir a modelos chicos. El repositorio publica seis
 modelos destilados sobre modelos de partida de otras familias, "finetuned with 800k samples curated with
 DeepSeek-R1": es destilación por datos, no por probabilidades. Cada modelo destilado conserva la

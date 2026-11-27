@@ -25,7 +25,7 @@ recuerda nada entre llamadas; la memoria es un archivo o una base que controla l
 
 Lewis et al. (2020), al proponer el RAG, distinguieron dos memorias; en su abstract, "the parametric
 memory is a pre-trained seq2seq model and the non-parametric memory is a dense vector index of
-Wikipedia". La memoria de esta nota es de la
+Wikipedia". La memoria agéntica es de la
 segunda clase, pero escrita durante el uso: no son documentos que alguien cargó, sino lo que el
 sistema fue aprendiendo de la tarea o del usuario. En la taxonomía de LangChain es la estrategia de
 "escribir" de la [ingeniería de contexto](ingenieria-de-contexto.md); traerla de vuelta es

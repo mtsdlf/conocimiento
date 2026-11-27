@@ -42,13 +42,13 @@ pieza propia.
 
 ## Tres puntos de control: entrada, salida y acciones
 
-- **Entrada**, antes del modelo: pedidos fuera del alcance del producto, intentos de
+- Entrada, antes del modelo: pedidos fuera del alcance del producto, intentos de
   [inyección de prompt](../Contexto/inyeccion-de-prompt.md) (directa, del usuario, o indirecta,
   escondida en una página, un mail o un documento que el sistema lee) e información privada que no
   debería llegar al modelo ni a un proveedor.
-- **Salida**, después del modelo: forma incorrecta, valores imposibles, afirmaciones falsas,
+- Salida, después del modelo: forma incorrecta, valores imposibles, afirmaciones falsas,
   contenido dañino, datos que no debían salir.
-- **Acciones**, cuando un [agente](../Agentes/agente.md) puede escribir afuera (mandar un mail,
+- Acciones, cuando un [agente](../Agentes/agente.md) puede escribir afuera (mandar un mail,
   cobrar, borrar): qué herramientas tiene, con qué permisos y qué pide aprobación humana. OWASP
   pone la "Excessive Agency" tercera en su lista de 2026 (abajo).
 

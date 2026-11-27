@@ -60,19 +60,19 @@ benchmark dice poco, y las cifras vivas van en una ficha.
 
 Un benchmark puede fallar como medida de cuatro formas, todas documentadas:
 
-- **Errores en las respuestas.** Gema et al. (preprint, leído en su abstract) estiman que "6.49% of
+- Errores en las respuestas. Gema et al. (preprint, leído en su abstract) estiman que "6.49% of
   MMLU questions contain errors" y re-anotaron 5.700 preguntas a mano.
-- **Tareas mal planteadas.** Para armar SWE-bench Verified, 93 desarrolladores revisaron 1.699 ítems y
+- Tareas mal planteadas. Para armar SWE-bench Verified, 93 desarrolladores revisaron 1.699 ítems y
   se descartó 68,3 %: enunciados subespecificados o pruebas que rechazaban soluciones válidas. Lo
   publicó el mismo proveedor que reporta puntajes en ese benchmark, y dice que el filtro es
   probablemente demasiado estricto. Esa versión revisada después también se dejó de reportar (ver
   [benchmarks de agentes](../Agentes/benchmarks-de-agentes.md)).
-- **Contaminación.** Los modelos pueden "inadvertently incorporate evaluation benchmark information
+- Contaminación. Los modelos pueden "inadvertently incorporate evaluation benchmark information
   from their training data" (Xu et al., survey). En GSM1k, un conjunto nuevo del mismo estilo que uno
   conocido de matemática escolar, la precisión cayó "up to 8%", con "evidence of systematic
   overfitting across almost all model sizes", aunque muchos modelos de frontera mostraron poca señal
   (Zhang et al., preprint, leído en su abstract).
-- **Validez de constructo.** Bean et al. (NeurIPS 2025) pusieron a 29 revisores a analizar 445
+- Validez de constructo. Bean et al. (NeurIPS 2025) pusieron a 29 revisores a analizar 445
   benchmarks de congresos y encontraron patrones que "weaken the validity of the resulting claims":
   un benchmark que se llama "razonamiento" o "seguridad" mide algo más angosto. Leído en su abstract.
 

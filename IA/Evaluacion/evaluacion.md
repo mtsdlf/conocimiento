@@ -119,19 +119,19 @@ lo marca como disputado. La disputa es sobre el orden y la causa, no sobre si me
 
 ## Cómo falla la evaluación
 
-- **Se mide antes de mirar.** Se eligen métricas genéricas sin haber leído trazas, y miden cosas que
+- Se mide antes de mirar. Se eligen métricas genéricas sin haber leído trazas, y miden cosas que
   no fallan; lo corrige el [análisis de errores](analisis-de-errores.md) y lo explica
   [métricas de evaluación](metricas-de-evaluacion.md).
-- **Se confía en el juez sin validarlo.** Un modelo que califica a otro tiene sesgos propios; ver
+- Se confía en el juez sin validarlo. Un modelo que califica a otro tiene sesgos propios; ver
   [IA como juez](ia-como-juez.md).
-- **Se elige el modelo por el ranking.** Un benchmark público mide su tarea, no la del producto, y
+- Se elige el modelo por el ranking. Un benchmark público mide su tarea, no la del producto, y
   puede estar contaminado; ver [benchmarks y elección de modelo](benchmarks-y-eleccion-de-modelo.md).
-- **No se registra lo intermedio.** Sin la traza de cada paso, una falla del final no se puede
+- No se registra lo intermedio. Sin la traza de cada paso, una falla del final no se puede
   atribuir a la recuperación, al prompt o al modelo; ver
   [observabilidad](../Produccion/observabilidad-de-modelos.md).
-- **Se pide feedback que nadie da.** Las señales explícitas son escasas y sesgadas; ver
+- Se pide feedback que nadie da. Las señales explícitas son escasas y sesgadas; ver
   [feedback de usuario](feedback-de-usuario.md).
-- **Se juntan datos que no cambian nada.** El "results-actionability gap" de van der Maden et al.:
+- Se juntan datos que no cambian nada. El "results-actionability gap" de van der Maden et al.:
   un tablero lleno que no decide ninguna mejora.
 
 Lo que la salida del modelo no puede emitir, por seguridad o por forma, no se evalúa después: se

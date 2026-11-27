@@ -93,7 +93,7 @@ de los evals que los reales (ver [Datos para ajustar](datos-para-ajustar.md#dupl
 > reales lo evita, con distintos tamaños, arquitecturas e hiperparámetros; en un modelo lineal
 > simplificado demuestran que el error queda acotado al acumular y crece al reemplazar.
 >
-> Más que una contradicción, son dos supuestos distintos: reemplazar contra acumular. Qué tan
+> Los dos resultados no se contradicen: parten de supuestos distintos, reemplazar o acumular. Qué tan
 > fuerte es el efecto en modelos de lenguaje grandes sigue discutido, y todas las lecturas de esta
 > base son de abstracts. Hay una crítica de terceros a Shumailov et al. que no se leyó.
 

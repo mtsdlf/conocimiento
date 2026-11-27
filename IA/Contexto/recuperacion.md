@@ -32,7 +32,7 @@ hace de forma léxica (por términos), por embeddings (densa) o combinando las d
 reranking y con la partición en fragmentos, y se mide antes de tocar el modelo que genera.
 
 [Contexto y RAG](contexto-y-rag.md) da la visión de conjunto y la escalera de técnicas, de la más
-barata a la más precisa. Esta nota entra en cada escalón: qué dice la evidencia, cómo se combinan los
+barata a la más precisa. Acá se detalla cada escalón: qué dice la evidencia, cómo se combinan los
 resultados y cómo se mide si el recuperador trajo lo que hacía falta. Qué es un embedding como
 representación se explica en [Token y embedding](../Modelos/token-y-embedding.md).
 

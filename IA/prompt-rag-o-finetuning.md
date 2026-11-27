@@ -67,8 +67,8 @@ model to excel at a particular task". La guía pide empezar con 50 ejemplos o m�
 
 Ese último caso tiene nombre, destilación: se ajusta el prompt en un modelo grande hasta que pasa
 las evaluaciones, se guardan sus salidas como datos y se ajusta un modelo chico con ellas
-([Destilación](Ajuste/destilacion.md)). Huyen la trata en el cap. 8 (p. 395). En este caso el finetuning no sube la calidad sino que baja el
-[costo y la latencia](../Arquitectura/Caracteristicas/costo-y-latencia.md) (inferencia de esta base).
+([Destilación](Ajuste/destilacion.md)). Huyen la trata en el cap. 8 (p. 395). En este caso el finetuning baja el
+[costo y la latencia](../Arquitectura/Caracteristicas/costo-y-latencia.md) sin subir la calidad (inferencia de esta base).
 
 ## El finetuning mueve el problema al dato
 

@@ -65,7 +65,7 @@ como base de datos sintéticos. Ese juicio es de quienes construyen el producto,
 finales, pero el mecanismo es el mismo: una etiqueta humana entra al conjunto de evaluación.
 
 El término *data flywheel* se usa para este ciclo (el uso genera datos, los datos mejoran el modelo,
-el modelo atrae más uso; es la descripción corriente, no de una fuente leída), pero ninguna fuente leída lo define. Husain describe el ciclo sin usar el
+el modelo atrae más uso), pero esa descripción es la corriente y ninguna fuente leída lo define. Husain describe el ciclo sin usar el
 término. El Thoughtworks Technology Radar puso "feedback flywheel" en Trial en noviembre de 2026; la
 entrada no se leyó, solo su nombre y su anillo.
 

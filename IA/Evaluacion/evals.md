@@ -65,7 +65,8 @@ looking at data—no free lunch exists."
 ## Criterios antes de construir y en cada componente
 
 Según el resumen del buscador del capítulo 4, Huyen propone *evaluation-driven development*: fijar
-los criterios de evaluación antes de construir, como en TDD (*test-driven development*, donde la prueba se escribe antes que el código). La cita literal no se verificó. El índice
+los criterios de evaluación antes de construir, como en TDD (*test-driven development*). En TDD la prueba se escribe antes que el código. La cita
+literal no se verificó. El índice
 del capítulo sí muestra los tres pasos del pipeline: evaluar todos los componentes del sistema, no solo
 la salida final; escribir una guía de evaluación con rúbrica; y elegir métodos y datos. Evaluar cada
 componente es, por inferencia de esta base, lo que permite saber si una falla viene de la recuperación de
