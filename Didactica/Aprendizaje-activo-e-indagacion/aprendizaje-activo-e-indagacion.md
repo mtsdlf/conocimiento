@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprendizaje activo e indagación es la parte de la didáctica que reúne los métodos en que quien aprende hace algo con el contenido o lo busca resolviendo problemas, en lugar de recibirlo explicado. Su pregunta de fondo es cuánta guía necesita cada método para funcionar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Alfieri, Brooks, Aldrich y Tenenbaum (2011), Journal of Educational Psychology 103(1), 1-18: https://www.fisme.science.uu.nl/publicaties/literatuur/2011_alfieri_discovery_learning.pdf (abstract)"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [aprendizaje activo, indagación, inquiry-based learning, enseñanza por indagación, active learning, métodos centrados en el alumno]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje activo e indagación

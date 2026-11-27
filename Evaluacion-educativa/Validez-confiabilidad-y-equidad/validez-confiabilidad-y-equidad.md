@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Validez, confiabilidad y equidad son las tres preguntas para saber cuánto creerle a un resultado: si sostiene lo que se quiere concluir de él, si daría lo mismo otra vez y si es justo con todos los que la rinden. Los Standards de 2014 las tratan como los tres fundamentos de cualquier evaluación.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, caps. 1 a 3 (acceso abierto): https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [calidad de la evaluación, psicometría, Standards for Educational and Psychological Testing, Standards 2014, fundamentos de la medición]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Validez, confiabilidad y equidad

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Conocimiento previo y comprensión es la parte de las ciencias del aprendizaje que estudia lo que quien aprende ya trae y cómo eso se reorganiza al entender algo nuevo. Lo previo es a la vez el material con que se entiende y, cuando está equivocado, el obstáculo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Simonsmeier, Flaig, Deiglmayr, Schalk y Schneider (2022), Domain-specific prior knowledge and learning: a meta-analysis, Educational Psychologist 57(1):31-54 (abstract): https://doi.org/10.1080/00461520.2021.1939700"
@@ -11,7 +11,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [prior knowledge, conocimiento previo, comprensión, understanding, esquemas, ideas previas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conocimiento previo y comprensión

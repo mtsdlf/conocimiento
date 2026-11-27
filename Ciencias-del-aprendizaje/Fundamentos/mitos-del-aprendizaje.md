@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos del aprendizaje son creencias difundidas sobre cómo funcionan el cerebro y la memoria al aprender que la evidencia no sostiene: personas de hemisferio izquierdo o derecho, el 10 % del cerebro, los ejercicios que «integran» los hemisferios, una curva del olvido universal, el entrenamiento cerebral que vuelve más inteligente. Muchos son distorsiones de un hallazgo real.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dekker, Lee, Howard-Jones y Jolles (2012), Neuromyths in education, Frontiers in Psychology 3:429 (leído): https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349"
@@ -15,7 +15,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [neuromitos, neuromyths, mitos del cerebro, cerebro izquierdo y derecho, hemisferios, 10 % del cerebro, Brain Gym, curva del olvido, entrenamiento cerebral, brain training]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos del aprendizaje

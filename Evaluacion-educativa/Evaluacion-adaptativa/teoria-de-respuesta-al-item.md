@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La teoría de respuesta al ítem (IRT) modela la probabilidad de acertar una pregunta según la habilidad de la persona y los rasgos de la pregunta. Es la base de los tests adaptativos computarizados, que eligen cada pregunta según las anteriores, y necesita un banco de preguntas calibrado con muchas personas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Item response theory: https://en.wikipedia.org/wiki/Item_response_theory"
@@ -14,7 +14,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [IRT, item response theory, TRI, modelo de Rasch, Rasch, teoría clásica de los tests, CTT, test adaptativo computarizado, CAT, computerized adaptive testing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Teoría de respuesta al ítem

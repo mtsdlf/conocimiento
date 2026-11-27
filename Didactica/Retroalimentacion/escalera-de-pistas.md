@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La escalera de pistas es graduar la ayuda ante un error o un bloqueo: primero una pista general, después una más concreta y al final la solución. Es práctica común de tutores humanos y de sistemas de tutoría; no se encontró una revisión que la evalúe como técnica de aula.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "VanLehn (2011), The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems, Educational Psychologist 46(4), DOI 10.1080/00461520.2011.611369: https://eric.ed.gov/?id=EJ946764 (abstract)"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
 aliases: [escalera de pistas, pistas graduales, hint ladder, graduated hints, pista final, bottom-out hint, ayuda escalonada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escalera de pistas

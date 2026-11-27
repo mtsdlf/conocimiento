@@ -1,7 +1,7 @@
 ---
 resumen: >-
   ADDIE es la sigla de cinco fases para armar instrucción (análisis, diseño, desarrollo, implementación y evaluación); se lo describe como un rótulo para una familia de procesos, sin una fuente original encontrada. SAM es la alternativa iterativa de Michael Allen, con prototipos tempranos. Ninguno tiene evidencia comparativa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Molenda (2003), In Search of the Elusive ADDIE Model, Performance Improvement 42(5), 34-36, doi 10.1002/pfi.4930420508: https://wikicap.ulb.be/images/5/5f/Molenda_2003.pdf (no se abrió; resumen del buscador)"
@@ -13,7 +13,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [ADDIE, SAM, Successive Approximation Model, Dick y Carey, Dick and Carey, The Systematic Design of Instruction, ISD, instructional systems design, proceso de diseño instruccional]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # ADDIE y SAM

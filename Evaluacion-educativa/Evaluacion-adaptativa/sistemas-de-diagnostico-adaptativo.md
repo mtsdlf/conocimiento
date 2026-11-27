@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dos sistemas comerciales de diagnóstico adaptativo (ALEKS, basado en espacios de conocimiento, y Math Academy, con un grafo de prerrequisitos y una frontera de conocimiento), con lo que publican de su método y de su exactitud, copiado en 2026-11. Lo que dicen de sí mismos tiene conflicto de interés.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Cosyn, Doble, Falmagne et al. (2013), cap. 2 de Knowledge Spaces: Applications in Education, Springer, publicado por la editora de ALEKS: https://www.mheducation.com/content/dam/mhe/research/prek-12/essa-tier-4/aleks-assessing-learning-space.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Math Academy, How our AI works (resumen de herramienta): https://mathacademy.com/how-our-ai-works"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sistemas de diagnóstico adaptativo

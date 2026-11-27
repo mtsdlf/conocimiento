@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El aprendizaje basado en problemas (ABP) organiza la enseñanza alrededor de un problema real que el grupo investiga antes de recibir el contenido. Los metaanálisis lo favorecen en habilidades y en retención a largo plazo, y lo ponen detrás de la instrucción tradicional en el conocimiento medido a corto plazo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Dochy, Segers, Van den Bossche y Gijbels (2003), Effects of problem-based learning: a meta-analysis, Learning and Instruction 13(5), 533-568: https://cris.maastrichtuniversity.nl/en/publications/effects-of-problem-based-learning-a-meta-analysis/ (según resumen)"
@@ -11,7 +11,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [ABP, PBL, problem-based learning, aprendizaje por proyectos, project-based learning, aprendizaje basado en proyectos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje basado en problemas

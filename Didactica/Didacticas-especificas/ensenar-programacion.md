@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Enseñar programación tiene una didáctica propia, la investigación en educación en computación, que propone leer y trazar código antes de escribirlo, nombrar los subobjetivos de cada procedimiento y hacer explícito cómo ejecuta la máquina. Casi toda su evidencia es de cursos introductorios universitarios y escolares.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Fincher y Robins (eds.) (2019), The Cambridge Handbook of Computing Education Research, caps. 12 y 15: https://www.cambridge.org/core/product/F8CFAF7B81A8F6BF5C663412BA0A943D (según resumen)"
@@ -19,7 +19,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [didáctica de la programación, enseñanza de la programación, computing education, educación en computación, CS education, teaching programming]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Enseñar programación

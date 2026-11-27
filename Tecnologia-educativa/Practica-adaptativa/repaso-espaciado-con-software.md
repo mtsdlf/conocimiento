@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El repaso espaciado con software es usar un programa de tarjetas que estima cuándo se va a olvidar cada dato y lo vuelve a preguntar cerca de ese momento. Automatiza espaciar y recuperar de memoria; un metaanálisis en estudiantes de salud respalda el espaciado digital, y la evidencia de los algoritmos mide cuánto predicen el olvido y no cuánto se aprende.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martinengo, L. et al. (2024), J Med Internet Res 26:e57760, publicado 2024-10-10: https://pmc.ncbi.nlm.nih.gov/articles/PMC11502984/"
@@ -12,7 +12,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [spaced repetition software, SRS, tarjetas de memoria, flashcards, repetición espaciada con software, retención deseada, desired retention, programador de repasos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Repaso espaciado con software

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La confiabilidad es la consistencia de un resultado entre repeticiones de la evaluación: con otra tarea, otro día u otro corrector. Hace falta más cuanto más grave es la decisión, y en las tareas abiertas se gana sobre todo calibrando a los correctores.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, cap. 2 Reliability/precision y estándar 6.9: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [reliability, fiabilidad, precisión, reliability/precision, consistencia, acuerdo entre correctores, inter-rater reliability, calibración de correctores]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Confiabilidad

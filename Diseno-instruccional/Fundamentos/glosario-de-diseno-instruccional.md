@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El glosario del diseño instruccional define en una línea los términos que usa el tema, de ADDIE a la teoría de espacios de conocimiento, y enlaza la nota donde cada uno se explica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
@@ -10,7 +10,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [glosario de diseño instruccional, vocabulario de diseño instruccional, instructional design glossary]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de diseño instruccional

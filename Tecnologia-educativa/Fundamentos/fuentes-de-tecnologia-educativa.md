@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las fuentes de la tecnología educativa son los estudios, revisiones y documentos de proveedores en que se apoya el tema, con cuánto pesa cada tipo y cuánto se leyó de cada uno. Lo propio del tema al leer evidencia es separar uso de aprendizaje, prueba del investigador de prueba externa y preprint o prueba del proveedor de estudio revisado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
@@ -10,7 +10,7 @@ fuentes:
   - "Guo, Kim y Rubin (2014): https://www.cs.rochester.edu/hci/pubs/pdfs/edX-MOOC-video-production-and-engagement_LAS-2014.pdf"
 aliases: [bibliografía de tecnología educativa, evidencia en edtech, cómo leer un estudio de tecnología educativa, fuentes de edtech]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de tecnología educativa

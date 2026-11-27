@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las pistas de un tutor inteligente son la forma en que su modelo pedagógico gradúa la ayuda: primero una pista general, después otras más concretas y al final una que da el paso. Bajar hasta la última sin pensar es abuso de la ayuda, pero leerla con cuidado puede funcionar como estudiar un ejemplo resuelto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Shih, B., Koedinger, K. R. y Scheines, R. (2008), A Response Time Model for Bottom-Out Hints as Worked Examples, Educational Data Mining 2008: https://www.cmu.edu/dietrich/philosophy/docs/scheines/Shih_Koedinger_Scheines_2008_EDM.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [pistas de un tutor, bottom-out hint, última pista, help abuse, gaming the system, abuso de la ayuda, next-step hints]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pistas de un tutor inteligente

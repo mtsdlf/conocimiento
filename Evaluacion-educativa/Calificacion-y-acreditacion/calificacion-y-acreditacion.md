@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Calificar es convertir lo observado en una nota que informa lo aprendido dentro de un curso; acreditar es emitir un certificado que lo señala afuera, ante quien contrata. Son dos problemas con literaturas distintas: la de las notas es de educación, la de los certificados es del mercado laboral.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Brookhart et al. (2016), A century of grading research, Review of Educational Research (abstract): https://doi.org/10.3102/0034654316672069"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [calificación, grading, acreditación, certificación, notas, credenciales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calificación y acreditación

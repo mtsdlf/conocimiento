@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los principios de Rosenshine son diez prácticas de los docentes cuyas clases más aprenden, reunidas en 2012 a partir de la ciencia cognitiva y de la observación de aulas: repasar, presentar en pasos chicos, preguntar mucho, modelar, guiar la práctica, comprobar, apuntar a un éxito alto, andamiar, hacer practicar solo y repasar en el tiempo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rosenshine (2012), Principles of Instruction: Research-Based Strategies That All Teachers Should Know, American Educator, primavera 2012, pp. 12-19: https://www.aft.org/sites/default/files/Rosenshine.pdf (lectura completa)"
@@ -9,7 +9,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [Rosenshine, principles of instruction, principios de instrucción, diez principios de Rosenshine, secuencia de clase]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Principios de Rosenshine

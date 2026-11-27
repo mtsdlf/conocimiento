@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Ciencias del aprendizaje sin ser una de sus partes: las teorías del aprendizaje, la andragogía, los mitos, el vocabulario y las fuentes de referencia del campo, con lo que se sabe de cuándo nació.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Learning sciences (extracto): https://en.wikipedia.org/wiki/Learning_sciences"
@@ -16,7 +16,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [fundamentos de ciencias del aprendizaje, bibliografía de ciencias del aprendizaje, learning sciences]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de ciencias del aprendizaje

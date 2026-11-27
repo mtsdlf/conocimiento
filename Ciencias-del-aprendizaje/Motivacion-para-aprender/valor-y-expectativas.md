@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La teoría de expectativa-valor sostiene que alguien elige y sostiene un aprendizaje según cuánto espera lograrlo y cuánto valor le ve. Eccles y Wigfield la rebautizaron situada en 2020, y una de sus intervenciones probadas es la de relevancia: en un experimento, pedir que se conecte lo aprendido con la propia vida subió interés y notas, pero solo en quienes esperaban rendir poco.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Eccles y Wigfield (2020), From expectancy-value theory to situated expectancy-value theory, Contemporary Educational Psychology 61:101859, DOI 10.1016/j.cedpsych.2020.101859 (resumen): https://acuresearchbank.acu.edu.au/item/8w507/from-expectancy-value-theory-to-situated-expectancy-value-theory-a-developmental-social-cognitive-and-sociocultural-perspective-on-motivation"
@@ -10,7 +10,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [expectativa-valor, expectancy-value theory, situated expectancy-value theory, teoría de expectativa-valor situada, intervención de relevancia, utility-value intervention, valor de utilidad]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Valor y expectativas

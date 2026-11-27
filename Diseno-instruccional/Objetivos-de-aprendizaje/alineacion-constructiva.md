@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La alineación constructiva es diseñar un curso de modo que el objetivo, la actividad y la evaluación pidan lo mismo: el verbo del resultado esperado se practica en la actividad y se comprueba en la evaluación. La propuso Biggs; su evidencia es observacional y él mismo pide estudios controlados.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Biggs (2014), Constructive alignment in university teaching, HERDSA Review of Higher Education 1: https://www.tru.ca/__shared/assets/herdsa33493.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [constructive alignment, alineación, alineamiento constructivo, Biggs, backwash, efecto de retroceso, currículo oculto, hidden curriculum]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alineación constructiva

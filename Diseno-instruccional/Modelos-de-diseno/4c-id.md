@@ -1,7 +1,7 @@
 ---
 resumen: >-
   4C/ID es un modelo para enseñar habilidades complejas con cuatro componentes: tareas de aprendizaje completas, información de apoyo, información procedimental y práctica de partes. Su versión práctica son los diez pasos de Ten Steps to Complex Learning; es el modelo con más evidencia entre los encontrados (un metaanálisis, d = 0,79), con salvedades.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "van Merriënboer, Kirschner y Frèrejean (2024), Ten Steps to Complex Learning: A Systematic Approach to Four-Component Instructional Design, 4.ª ed., Routledge, ISBN 9781032333113: https://www.routledge.com/Ten-Steps-to-Complex-Learning-A-Systematic-Approach-to-Four-Component-Instructional-Design/vanMerrienboer-Kirschner-Frerejean/p/book/9781032333113 (ficha editorial; libro no leído)"
@@ -11,7 +11,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [4C/ID, four-component instructional design, modelo de cuatro componentes, Ten Steps to Complex Learning, diez pasos, van Merriënboer]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # 4C/ID

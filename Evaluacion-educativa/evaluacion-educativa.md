@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación educativa es cómo se sabe qué aprendió alguien: con qué propósito se evalúa, con qué instrumento, cuánto se puede confiar en el resultado y qué se hace con él, desde una pregunta al grupo hasta un certificado o la evaluación de un curso entero.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [evaluación del aprendizaje, assessment, educational assessment, evaluación de los aprendizajes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación educativa

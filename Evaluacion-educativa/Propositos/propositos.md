@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El propósito de una evaluación es la decisión que se toma con su resultado: ubicar a alguien antes de enseñarle (diagnóstica), ajustar la enseñanza mientras ocurre (formativa) o certificar lo logrado al final (sumativa). La misma prueba puede servir a cualquiera de los tres.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wiliam (2011), What is assessment for learning?, Studies in Educational Evaluation 37(1), 3-14 (resumen): https://discovery-pp.ucl.ac.uk/1507217/1/Wiliam2011What2.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [propósitos de la evaluación, evaluación sumativa, summative assessment, diagnóstica, formativa, sumativa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Propósitos de la evaluación

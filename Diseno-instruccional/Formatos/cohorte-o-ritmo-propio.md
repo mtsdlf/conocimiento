@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Un curso por cohorte avanza con un grupo que empieza y termina junto, con fechas; uno a ritmo propio deja que cada uno avance cuando puede. No se encontró evidencia comparativa de cuál enseña más o retiene más gente: lo que hay es práctica de escuelas, sin datos auditados.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Revisión propia de escuelas de programación que publican su método (experiencia propia, noviembre de 2026, una escuela de programación para adultos); sin verificación externa"
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [cohorte, cohort-based course, CBC, ritmo propio, self-paced, autoinstrucción, aprendizaje autodirigido, curso en tandas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cohorte o ritmo propio

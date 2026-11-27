@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El apoyo a la autonomía es la forma de enseñar que la teoría de la autodeterminación recomienda: dar razones, opciones y reconocimiento en lugar de presión y control. En estudiantes, la motivación que sale de uno se asocia con rendir y persistir, y la que viene de premios y castigos no; casi toda la evidencia viene del grupo que propuso la teoría.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ryan y Deci (2020), Intrinsic and extrinsic motivation from a self-determination theory perspective, Contemporary Educational Psychology 61:101860 (preprint leído en parte): https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [autonomy support, autonomy-supportive teaching, enseñanza que apoya la autonomía, autodeterminación en el aula, self-determination theory in education]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Apoyo a la autonomía

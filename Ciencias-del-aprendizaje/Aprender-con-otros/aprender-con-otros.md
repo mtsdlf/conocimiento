@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprender con otros es la parte social del aprendizaje: cómo cambia lo que alguien aprende cuando lo hace con compañeros, con alguien que sabe más o enseñándole a otro. El campo la estudia de dos maneras que no se deben mezclar: teorías que explican por qué lo social importa, sin un efecto que medir, y técnicas con metaanálisis.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wood, Bruner y Ross (1976), The role of tutoring in problem solving, Journal of Child Psychology and Psychiatry 17:89-100: https://pubmed.ncbi.nlm.nih.gov/932126/"
@@ -14,7 +14,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [aprendizaje social, aprender juntos, learning together, aprendizaje entre pares, peer learning, aprendizaje colaborativo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprender con otros

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La transferencia de la capacitación es que lo aprendido en un curso se generalice y se mantenga en el trabajo. Según el modelo de Baldwin y Ford (1988), depende de quien aprende, del diseño del curso y del ambiente de trabajo, y el ambiente pesa más en habilidades abiertas como el liderazgo que en cerradas como un software.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Baldwin y Ford (1988), Transfer of training: A review and directions for future research, Personnel Psychology 41(1), 63-105 (vía Wikipedia): https://doi.org/10.1111/j.1744-6570.1988.tb00632.x"
@@ -13,7 +13,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [transfer of training, transferencia al puesto, training transfer, Baldwin y Ford, aplicación en el trabajo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Transferencia de la capacitación

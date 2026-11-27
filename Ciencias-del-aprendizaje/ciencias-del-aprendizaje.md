@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las ciencias del aprendizaje estudian cómo una persona llega a saber y a saber hacer algo nuevo: qué trae, cómo comprende, cómo retiene, cómo lo lleva a otro contexto y qué la sostiene. Son el lado de quien aprende en la pedagogía.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Sawyer (ed.), The Cambridge Handbook of the Learning Sciences, 3.ª ed., 2022 (índice según el buscador): https://perlego.com/book/4229836/the-cambridge-handbook-of-the-learning-sciences-pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Didactica/.investigacion/vistazo-del-area.md"
 aliases: [learning sciences, aprendizaje, aprender, psicología educacional, educational psychology, cómo se aprende]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ciencias del aprendizaje

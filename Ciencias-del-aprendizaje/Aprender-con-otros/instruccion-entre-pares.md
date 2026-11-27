@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La instrucción entre pares es hacer que los estudiantes se expliquen entre sí: en la técnica de Mazur, votar una pregunta conceptual, discutirla con el vecino y volver a votar; en la tutoría entre pares, que uno le enseñe a otro. En un estudio, discutir mejoró la comprensión aun cuando nadie del grupo sabía la respuesta, y una revisión advierte que adaptar la técnica puede comprometer su efecto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Smith, Wood, Adams, Wieman, Knight, Guild y Su (2009), Why peer discussion improves student performance on in-class concept questions, Science (abstract): https://pubmed.ncbi.nlm.nih.gov/19119232/"
@@ -12,7 +12,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [peer instruction, instrucción por pares, tutoría entre pares, peer tutoring, enseñanza entre pares, discusión entre pares, peer discussion]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Instrucción entre pares

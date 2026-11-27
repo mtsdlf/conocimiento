@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los materiales son lo que quien aprende lee, mira o usa: textos, diagramas, videos, ejemplos. Se diseñan para no gastar la memoria de trabajo en lo que no enseña, según la teoría de la carga cognitiva y los principios multimedia de Mayer, la parte del diseño instruccional con más evidencia experimental, casi toda de laboratorio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mayer (2023), Research-Based Principles for Designing Multimedia Instruction, en In Their Own Words, APA Division 2: https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-research-based-principles-for-designing-multimedia-instruction-mayer.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [materiales didácticos, materiales instruccionales, diseño de materiales, instructional materials, diseño multimedia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Materiales y carga cognitiva

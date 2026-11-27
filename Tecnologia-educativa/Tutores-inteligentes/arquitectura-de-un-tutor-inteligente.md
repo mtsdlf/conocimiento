@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un tutor inteligente se arma con cuatro piezas: un modelo del dominio (lo que hay que saber), un modelo del estudiante (lo que este alumno sabe), un modelo pedagógico (qué hacer ahora) y una interfaz. La historia que sigue arranca con SCHOLAR (1970) y los tutores cognitivos de Carnegie Mellon (principios de los 80).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ma, Adesope, Nesbit y Liu (2014), Journal of Educational Psychology 106(4):901-918, DOI 10.1037/a0037123: https://www.cs.uky.edu/~sgware/reading/papers/ma2014intelligent.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [ITS architecture, arquitectura ITS, modelo del estudiante, student model, modelo del dominio, modelo pedagógico, model tracing, knowledge tracing, trazado de modelo, trazado de conocimiento, Cognitive Tutor, SCHOLAR, ACT-R]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Arquitectura de un tutor inteligente

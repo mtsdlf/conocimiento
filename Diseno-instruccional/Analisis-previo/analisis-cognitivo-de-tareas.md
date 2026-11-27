@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis cognitivo de tareas (CTA) es una familia de técnicas, sobre todo entrevistas estructuradas, para sacarle a expertos los pasos, decisiones y criterios que ya no ven porque los automatizaron. La instrucción armada con CTA mostró un efecto grande en un metaanálisis, pero el campo mismo admite que elegir método es más oficio que técnica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Clark, Feldon, van Merriënboer, Yates y Early (2008), Cognitive task analysis, en Spector et al. (eds.), Handbook of Research on Educational Communications and Technology, 3.ª ed., pp. 577-593: https://digitalcommons.usu.edu/itls_facpub/366 (solo la ficha)"
@@ -13,7 +13,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [cognitive task analysis, CTA, análisis de tareas, task analysis, punto ciego del experto, expert blind spot, regla del 70 %]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis cognitivo de tareas

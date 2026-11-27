@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La validez es cuánto sostienen la evidencia y la teoría las interpretaciones de un resultado para un uso dado. No es una propiedad de la prueba: la misma prueba puede ser válida para ubicar a alguien y no para certificarlo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, cap. 1 Validity: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [validity, validez de constructo, argumento de validez, validity argument, subrepresentación del constructo, varianza irrelevante al constructo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Validez

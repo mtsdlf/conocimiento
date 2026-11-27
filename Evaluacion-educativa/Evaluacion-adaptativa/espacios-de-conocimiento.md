@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La teoría de los espacios de conocimiento (Doignon y Falmagne) describe lo que sabe alguien como el conjunto de tipos de problema que puede resolver, ordenados por prerrequisitos. El diagnóstico busca la frontera: lo que ya domina y lo que está listo para aprender.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Cosyn, Doble, Falmagne et al. (2013), Assessing mathematical knowledge in a learning space, cap. 2 de Falmagne et al. (eds.), Knowledge Spaces: Applications in Education, Springer: https://www.mheducation.com/content/dam/mhe/research/prek-12/essa-tier-4/aleks-assessing-learning-space.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [knowledge space theory, KST, teoría de los espacios de conocimiento, learning space, espacio de aprendizaje, frontera de conocimiento, knowledge frontier, Doignon y Falmagne]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Espacios de conocimiento

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El aprendizaje cooperativo organiza la clase en grupos chicos que trabajan hacia una meta común. Kyndt et al. le encuentran un efecto positivo frente a la clase expositiva, y la EEF, según el buscador, más resultado en grupos de tres a cinco con meta compartida; las dos referencias clásicas del campo, Johnson y Johnson y Slavin, no se leyeron.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kyndt, Raes, Lismont, Timmers, Cascallar y Dochy (2013), A meta-analysis of the effects of face-to-face cooperative learning, Educational Research Review 10:133-149, DOI 10.1016/j.edurev.2013.02.002 (resumen del buscador): https://repository.uantwerpen.be/link/irua/107136"
@@ -9,7 +9,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [cooperative learning, aprendizaje colaborativo, collaborative learning, trabajo en grupo, aprendizaje en equipo, collaborative learning approaches]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje cooperativo

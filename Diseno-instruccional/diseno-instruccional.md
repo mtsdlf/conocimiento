@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El diseño instruccional es el oficio de armar una experiencia de aprendizaje entera, un curso, un programa o un camino, decidiendo qué se aprende, en qué orden, con qué materiales y en qué formato.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Instructional design (Wikipedia): https://en.wikipedia.org/wiki/Instructional_design (página parcial)"
@@ -14,7 +14,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [instructional design, diseño de cursos, diseño curricular, currículo, learning design, diseño de la formación, ISD]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Diseño instruccional

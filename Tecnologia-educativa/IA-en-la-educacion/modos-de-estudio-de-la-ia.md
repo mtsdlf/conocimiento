@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ficha con los modos de estudio de los proveedores de modelos de lenguaje (Anthropic, OpenAI, Google) y el tutor Khanmigo, con qué hace cada uno y qué evidencia publicó, al 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Anthropic, Introducing Claude for Education (2025-04-02): https://www.anthropic.com/news/introducing-claude-for-education"
@@ -14,7 +14,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [study mode, learning mode, guided learning, modo estudio, modo aprendizaje, LearnLM, Khanmigo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modos de estudio de la IA

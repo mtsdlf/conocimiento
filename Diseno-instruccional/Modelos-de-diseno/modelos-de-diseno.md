@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un modelo de diseño instruccional es una receta para armar instrucción: un orden de trabajo, un orden de decisiones o una lista de lo que tiene que tener una buena lección. Ninguno tiene evidencia de que produzca mejor aprendizaje que otro; sirven como orden de trabajo y vocabulario común, no como tratamientos probados.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Molenda (2003), In Search of the Elusive ADDIE Model, Performance Improvement 42(5), 34-36, doi 10.1002/pfi.4930420508 (no leído; resumen del buscador)"
@@ -10,7 +10,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [modelos de diseño instruccional, instructional design models, ISD, instructional systems design, modelos de DI]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelos de diseño

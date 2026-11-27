@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos que usan las notas de Ciencias del aprendizaje, cada uno con una definición de una línea y la nota que lo desarrolla. Incluye los de las teorías del aprendizaje, que son de toda el área Pedagogía.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Didactica/.investigacion/fundamentos-del-area.md"
@@ -10,7 +10,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [glosario de aprendizaje, vocabulario de ciencias del aprendizaje, términos de pedagogía]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de ciencias del aprendizaje

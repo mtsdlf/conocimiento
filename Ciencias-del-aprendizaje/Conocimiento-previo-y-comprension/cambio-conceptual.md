@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El cambio conceptual es el paso de una idea previa equivocada sobre cómo funciona algo a la idea que sostiene la disciplina. El campo discute si esas ideas se reemplazan o se refinan, y la técnica que más se estudia para moverlas es el texto de refutación.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Posner, Strike, Hewson y Gertzog (1982), Accommodation of a scientific conception, Science Education 66(2) (solo título): https://doi.org/10.1002/sce.3730660207"
@@ -13,7 +13,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [conceptual change, concepciones erróneas, misconceptions, ideas previas, preconceptos, texto de refutación, refutation text]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cambio conceptual

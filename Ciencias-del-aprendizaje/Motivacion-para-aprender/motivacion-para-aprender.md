@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La motivación para aprender es por qué alguien empieza, sigue o abandona un aprendizaje, mirada como resultado de cómo se enseña: cuánto valor le ve a la tarea, cuánta autonomía tiene y qué cree sobre su propia capacidad. Es la parte de las ciencias del aprendizaje que pregunta qué del entorno cambia las ganas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ryan y Deci (2020), Intrinsic and extrinsic motivation from a self-determination theory perspective, Contemporary Educational Psychology 61:101860: https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [motivación en el aula, motivación del estudiante, student motivation, motivation to learn, motivación académica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Motivación para aprender

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los principios multimedia de Mayer son reglas para armar materiales con palabras e imágenes: sumar imágenes, quitar lo que distrae, señalar lo esencial, poner juntas las cosas que se miran juntas, dejar que quien aprende marque el ritmo. Tienen tamaños de efecto medianos a grandes en estudios de laboratorio del propio grupo de Mayer, y condiciones en las que dejan de valer.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mayer (2023), Research-Based Principles for Designing Multimedia Instruction, en In Their Own Words, APA Division 2, tablas 2 y 3: https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-research-based-principles-for-designing-multimedia-instruction-mayer.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [principios de Mayer, multimedia learning, aprendizaje multimedia, principio de coherencia, principio de señalización, principio de redundancia, principio de contigüidad, principio de segmentación, principio de modalidad, principio de pre-entrenamiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Principios multimedia

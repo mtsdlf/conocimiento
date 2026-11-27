@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La práctica guiada es el tramo de la enseñanza en que quien aprende hace la tarea con ayuda de quien enseña, y esa ayuda se retira de a poco hasta que puede hacerla solo. Su forma estudiada es el andamiaje, y su límite es que cuánto guiar depende de cuánto sabe cada uno.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rosenshine (2012), Principles of Instruction (principios 5, 7, 8 y 9): https://www.aft.org/sites/default/files/Rosenshine.pdf (lectura completa)"
@@ -11,7 +11,7 @@ fuentes:
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
 aliases: [práctica guiada, guided practice, andamiaje, práctica, scaffolding]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Práctica guiada y andamiaje

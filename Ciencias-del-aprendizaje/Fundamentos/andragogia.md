@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La andragogía es el conjunto de supuestos de Malcolm Knowles sobre cómo aprenden los adultos: necesitan saber para qué, traen experiencia, se dirigen solos, aprenden por problemas de su vida y se mueven por motivos internos. Sirve como lista de buenas prácticas, pero no tiene evidencia de que los adultos aprendan de un modo distinto por ser adultos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Andragogy (con su lista de referencias primarias): https://en.wikipedia.org/wiki/Andragogy"
@@ -14,7 +14,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [andragogy, Knowles, aprendizaje adulto, adult learning, educación de adultos, los adultos aprenden distinto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Andragogía

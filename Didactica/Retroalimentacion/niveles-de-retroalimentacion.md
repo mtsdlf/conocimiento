@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los niveles de retroalimentación clasifican el mensaje según a qué apunta: la tarea, el proceso, la autorregulación o la persona. La información sobre la tarea y cómo mejorarla es la que más rinde; el elogio dirigido a la persona casi no tiene efecto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hattie y Timperley (2007), The Power of Feedback, Review of Educational Research 77(1), 81-112: https://www.uky.edu/~gmswan3/575/Hattie_Timperly_2007.pdf (lectura parcial: tamaños de efecto y elogio)"
@@ -11,7 +11,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [niveles de feedback, modelo de Hattie y Timperley, feedback levels, retroalimentación sobre la tarea, elogio, praise, feed up feed back feed forward]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Niveles de retroalimentación

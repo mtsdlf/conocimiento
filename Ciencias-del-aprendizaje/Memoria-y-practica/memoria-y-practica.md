@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Memoria y práctica es la parte de las ciencias del aprendizaje que estudia cómo se organiza la práctica para que lo aprendido dure. Su idea central es que lo que rinde mientras se practica y lo que queda después son cosas distintas, y que las condiciones que hacen más difícil practicar suelen dejar más.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bjork y Bjork (2011), Making things hard on yourself, but in a good way, en Psychology and the Real World (leído): https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
 aliases: [memoria y práctica, práctica, practice, técnicas de estudio, estudiar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Memoria y práctica

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las teorías del aprendizaje son las grandes explicaciones de qué es aprender: un cambio de conducta por sus consecuencias (conductismo), una reorganización de estructuras mentales con límites (cognitivismo), una construcción de quien aprende (constructivismo) o algo que pasa primero entre personas (sociocultural). El conectivismo se presenta como la quinta, pero el campo no lo acepta como teoría.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ertmer y Newby (1993), Behaviorism, Cognitivism, Constructivism: Comparing Critical Features from an Instructional Design Perspective, Performance Improvement Quarterly 6(4); reimpreso en 26(2):43-71, 2013 (resumen del buscador): https://ocw.metu.edu.tr/pluginfile.php/3298/course/section/1174/peggy_2013_comparing_critical_features.pdf"
@@ -23,7 +23,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [teorías del aprendizaje, learning theories, conductismo, behaviorism, cognitivismo, cognitivism, constructivismo, constructivism, constructivismo radical, constructivismo social, teoría sociocultural, Vygotsky, Piaget, zona de desarrollo próximo, ZDP, zone of proximal development, conectivismo, connectivism]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Teorías del aprendizaje

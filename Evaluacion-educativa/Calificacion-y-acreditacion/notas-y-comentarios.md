@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las notas cambian la motivación de quien las recibe, no solo la informan. En los experimentos de Butler y en un metaanálisis posterior, los comentarios solos rindieron más que las notas, y agregar una nota a los comentarios anuló su ventaja.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Butler (1987), Task-involving and ego-involving properties of evaluation, Journal of Educational Psychology 79(4), 474-482 (texto completo)"
@@ -11,7 +11,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [notas y motivación, grades vs comments, comentarios sin nota, comment-only marking, efecto de las notas, Butler]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Notas y comentarios

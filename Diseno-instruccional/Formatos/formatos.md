@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El formato es cómo se entrega un curso, y se decide sobre tres ejes independientes: el medio (presencial, en línea o mixto), el ritmo y la estructura social (cohorte o ritmo propio, en vivo o diferido) y el contexto (un curso aparte o el trabajo mismo). Cada eje tiene un nivel de evidencia distinto, de metaanálisis a folklore.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Means, Toyama, Murphy y Bakia (2013), The Effectiveness of Online and Blended Learning: A Meta-Analysis of the Empirical Literature, Teachers College Record 115(3), doi 10.1177/016146811311500307: https://draft.epsy5221.education.uconn.edu/wp-content/uploads/sites/2358/2018/08/Means-2013-meta-analysius.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [formatos de enseñanza, modalidad, modalidades de cursada, delivery format, presencial, en línea, híbrido, blended, microlearning, microaprendizaje, bootcamp]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Formatos

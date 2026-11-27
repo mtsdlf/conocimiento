@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Evaluar un programa es saber si un curso o una capacitación funcionó: si se aprendió, si se usa en el trabajo y si cambió algo. Lo estudian dos tradiciones que casi no se cruzan: la de capacitación en organizaciones (Kirkpatrick, transferencia, retorno) y la de evaluación educativa con grupo de comparación.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bell, Tannenbaum, Ford, Noe y Kraiger (2017), 100 years of training and development research, Journal of Applied Psychology (manuscrito aceptado): https://doi.org/10.1037/apl0000142"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [evaluación de programas, evaluación de la capacitación, training evaluation, program evaluation, evaluar un curso]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluar un programa

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La retroalimentación es la información que quien enseña le devuelve a quien aprende sobre lo que hizo, para que cambie lo que piensa o hace. En promedio es de lo que más efecto tiene en la enseñanza, y también de lo más variable: una parte de las intervenciones empeora el desempeño, y lo que decide es qué dice el mensaje.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hattie y Timperley (2007), The Power of Feedback, Review of Educational Research 77(1), 81-112: https://www.uky.edu/~gmswan3/575/Hattie_Timperly_2007.pdf (lectura parcial)"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [retroalimentación, feedback, devolución, devoluciones, retroinformación, formative feedback]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Retroalimentación

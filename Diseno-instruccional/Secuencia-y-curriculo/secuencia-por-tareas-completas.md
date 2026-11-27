@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La secuencia por tareas completas ordena un curso por tareas auténticas enteras en lugar de por temas: se arranca por la versión más simple de la tarea real y se sube la complejidad en clases. Es el núcleo de 4C/ID y pariente de las condiciones simplificadoras de Reigeluth.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "van Merriënboer, Kirschner y Frèrejean (2024), Ten Steps to Complex Learning, 4.ª ed., Routledge, ISBN 9781032333113 (ficha editorial; no leído)"
@@ -10,7 +10,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [whole-task sequencing, clases de tareas, task classes, condiciones simplificadoras, simplifying conditions, secuencia de tareas, de lo simple a lo complejo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Secuencia por tareas completas

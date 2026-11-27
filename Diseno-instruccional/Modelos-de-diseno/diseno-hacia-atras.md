@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El diseño hacia atrás es armar un curso empezando por el final: primero qué tienen que poder hacer, después qué evidencia lo mostraría y recién al último las actividades. Su versión más conocida es Understanding by Design, de Wiggins y McTighe (1998); no tiene evaluación empírica encontrada.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wiggins y McTighe (1998; 2.ª ed. 2005), Understanding by Design (no leído)"
@@ -10,7 +10,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [backward design, diseño inverso, diseño en reversa, Understanding by Design, UbD, Wiggins y McTighe, planificación inversa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Diseño hacia atrás

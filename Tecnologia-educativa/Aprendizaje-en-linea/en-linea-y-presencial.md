@@ -1,14 +1,14 @@
 ---
 resumen: >-
   La comparación entre aprender en línea y en un aula da una ventaja chica para el curso en línea (+0,20 en el metaanálisis de Means et al., 2010), que se achica cuando ambos usan el mismo método y crece cuando hay un docente o trabajo en grupo. El canal no hunde el aprendizaje de quien cursa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Means, B., Toyama, Y., Murphy, R., Bakia, M. y Jones, K. (2010), Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies, U.S. Department of Education: https://internet.psych.wisc.edu/wp-content/uploads/532-Master/532-UnitPages/Unit-03/DOE_OnlineLearningMetaAnalysis_2010.pdf"
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [online vs face-to-face, en línea vs presencial, blended learning, aprendizaje combinado, aprendizaje híbrido, Means 2010]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # En línea y presencial

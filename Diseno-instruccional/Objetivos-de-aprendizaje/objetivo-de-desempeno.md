@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un objetivo de desempeño describe lo que alguien va a poder hacer al terminar, con tres partes: una acción observable, las condiciones en que la hace y el criterio que la da por buena. Es la forma de Mager (1962), y hoy convive con el «resultado de aprendizaje» de la educación superior.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mager, Preparing Instructional Objectives (1.ª ed. 1962, 3.ª ed. 1997; no leído)"
@@ -11,7 +11,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [objetivo conductual, behavioral objective, performance objective, objetivo de Mager, objetivo instruccional, resultado de aprendizaje, learning outcome]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Objetivo de desempeño

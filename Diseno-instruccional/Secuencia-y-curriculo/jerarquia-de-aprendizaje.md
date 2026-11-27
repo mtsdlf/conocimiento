@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una jerarquía de aprendizaje es el árbol de prerrequisitos de una habilidad: se parte de la tarea final y se pregunta qué hay que saber hacer antes, hacia abajo. Hoy se representa como un grafo de competencias, cuya base formal es la teoría de espacios de conocimiento; es una herramienta de representación, no una teoría de diseño.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gagné, The Conditions of Learning (3.ª ed. 1977; no leído): https://en.wikipedia.org/wiki/Conditions_of_Learning y https://pressbooks.pub/itec51602/chapter/analysis-the-task/ (resúmenes del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [learning hierarchy, jerarquía de Gagné, prerrequisitos, análisis instruccional, grafo de competencias, mapa de competencias, grafo de conocimiento, knowledge space, teoría de espacios de conocimiento, KST]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Jerarquía de aprendizaje

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprender enseñando, o efecto protégé, es que quien prepara una explicación para otro y la da aprende el tema mejor que quien solo lo estudia. Según una revisión de 2018, funciona de forma condicional: el beneficio crece con la interacción, y estudiar para enseñar cara a cara rinde más que prepararse para grabar una clase o escribir una explicación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kobayashi (2018), Interactivity: a potential determinant of learning by preparing to teach and teaching, Frontiers in Psychology (abstract): https://pubmed.ncbi.nlm.nih.gov/30687196/"
@@ -9,7 +9,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [efecto protégé, protégé effect, learning by teaching, aprender enseñando a otros, learning by preparing to teach, enseñar para aprender]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprender enseñando

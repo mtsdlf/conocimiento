@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis de necesidades decide si un problema de desempeño se arregla con formación o con otra cosa. Sus dos herramientas clásicas, el diagrama de Mager y Pipe y la matriz de Gilbert, son listas de chequeo útiles sin validación empírica de su estructura.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mager y Pipe (1997), Analyzing Performance Problems or You Really Oughta Wanna, 3.ª ed. (no leído). Manual de curso: https://sites.gsu.edu/7150-hpt-manual/?p=331; reseña: https://www.vectorsolutions.com/resources/blogs/book-review-robert-magers-analyzing-performance-problems-or-you-really-oughta-wanna/ (resumen del buscador)"
@@ -10,7 +10,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [needs assessment, análisis de necesidades de formación, performance analysis, análisis de desempeño, Mager y Pipe, Behavior Engineering Model, BEM]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis de necesidades

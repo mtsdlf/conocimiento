@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La historia de la tecnología educativa es una sucesión de tecnologías que prometieron transformar la enseñanza y terminaron sumando poco o sirviendo a quienes ya estaban mejor: las computadoras en el aula, los cursos abiertos masivos y, en curso, los tutores con IA. Los tutores inteligentes son la excepción parcial, con efectos reales y más chicos que los prometidos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Cuban, L. (2001), Oversold and Underused: Computers in the Classroom, Harvard University Press; reseñas: https://csmonitor.com/2001/0911/p19s1-lekt.html y https://just-tech.ssrc.org/citation/oversold-and-underused-computers-in-the-classroom/ (resumen del buscador)"
@@ -14,7 +14,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area.md"
 aliases: [historia de la tecnología educativa, history of educational technology, oversold and underused, hype cycle en educación, promesas de la tecnología educativa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Promesas incumplidas de la tecnología educativa

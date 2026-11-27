@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los fundamentos del diseño instruccional reúnen lo que atraviesa todo el tema sin ser una parte del curso: de dónde viene el oficio, qué manuales lo definen, qué mitos circulan y qué significa cada término. La evidencia educativa general y las teorías del aprendizaje viven en otros temas del área.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "van Merriënboer, Kirschner y Frèrejean (2024), Ten Steps to Complex Learning, 4.ª ed., Routledge, ISBN 9781032333113 (ficha editorial)"
@@ -15,7 +15,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [fundamentos de diseño instruccional, bibliografía de diseño instruccional, manuales de diseño instruccional]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos del diseño instruccional

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los primeros principios de Merrill y los nueve eventos de Gagné son listas de lo que tiene que tener una buena instrucción: demostrar, hacer aplicar, activar lo previo, integrar, centrarse en tareas, en un caso; ganar la atención, informar objetivos, dar práctica y retroalimentación, en el otro. Sirven para revisar una lección; su evidencia es escasa y de baja calidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Merrill (2002), First principles of instruction, Educational Technology Research and Development 50(3), 43-59, doi 10.1007/BF02505024 (no leído; datos por el buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [primeros principios de Merrill, first principles of instruction, Merrill, nueve eventos de Gagné, Gagné's nine events, eventos de instrucción, events of instruction]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Principios de instrucción

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis de quien aprende averigua con qué conocimientos y habilidades llega cada uno, para decidir cuánta ayuda y cuánto diagnóstico previo pone el curso. Lo que más pesa es el conocimiento previo, no la edad: la ayuda que sirve al novato le sobra o le estorba al que ya sabe.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Dick y Carey, componente «analysis of entry behaviors and learner characteristics»: https://edutechwiki.unige.ch/en/Dick_and_Carey_model (página parcial)"
@@ -13,7 +13,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [learner analysis, análisis del alumno, conductas de entrada, entry behaviors, conocimiento previo, diagnóstico de entrada, efecto de inversión de la experticia, expertise reversal effect]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis de quien aprende
