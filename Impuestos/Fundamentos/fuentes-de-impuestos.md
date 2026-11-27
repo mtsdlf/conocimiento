@@ -80,7 +80,7 @@ Para lo de Argentina, cada nota argentina cita su norma: [impuestos en Argentina
 ## Dónde no hay todavía un recurso que recomendar
 
 > [!NOTE]
-> Sin fuente todavía: las publicaciones de la OCDE (*Revenue Statistics*, *Consumption Tax Trends*, *International VAT/GST Guidelines* y el estudio de 2014 sobre la regresividad de los impuestos al consumo) no se pudieron abrir en esta investigación; se recomiendan por su lugar en el campo, no por haberlas leído. De la Directiva 2006/112/CE se leyó el texto de 2006 (copia del BOE) solo en los artículos que cita la vertical Cumplimiento, y del Modelo de Código Tributario del CIAT, solo el índice y la tabla de cambios.
+> Sin fuente todavía: las publicaciones de la OCDE (*Revenue Statistics*, *Consumption Tax Trends*, *International VAT/GST Guidelines* y el estudio de 2014 sobre la regresividad de los impuestos al consumo) no se pudieron abrir en esta investigación; se recomiendan por su lugar en el campo, no por haberlas leído. De la Directiva 2006/112/CE se leyó el texto de 2006 (copia del BOE) solo en los artículos que cita la vertical Cumplimiento, y del Modelo de Código Tributario del CIAT, solo el índice, la tabla de cambios y pasajes sueltos (la extracción del PDF perdió letras y cifras en el cuerpo; el 2026-11-27 se leyó que el recargo es «una especie de figura intermedia entre el interés moratorio y la sanción»). El 2026-11-27 la OCDE, el BID y Légifrance devolvieron 403 y tampoco se abrieron.
 
 > [!NOTE]
 > Sin fuente todavía: un libro de texto de finanzas públicas en castellano, una fuente sobre costos de cumplimiento medidos por país, y la evidencia econométrica del amontonamiento de empresas debajo de los umbrales de los regímenes simplificados.

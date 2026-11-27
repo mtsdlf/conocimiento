@@ -12,7 +12,11 @@ fuentes:
   - "ARCA, Monotributo, Baja: https://www.arca.gob.ar/monotributo/ayuda/baja.asp"
   - "ARCA, Monotributo, Baja de oficio: https://www.arca.gob.ar/monotributo/ayuda/de-oficio.asp"
   - "ARCA, Monotributo, Pasaje al Régimen General: https://www.arca.gob.ar/monotributo/ayuda/pasaje-al-regimen-general.asp"
-  - "ARCA, Categorías de monotributo, valores de aplicación desde el 1/08/2026 (fuente viva): https://www.arca.gob.ar/monotributo/categorias.asp"
+  - "ARCA, Categorías de monotributo, valores de aplicación desde el 1/08/2026 (fuente viva; leída el 2026-11-27): https://www.arca.gob.ar/monotributo/categorias.asp"
+  - "ARCA, Cuadro de categorías, vigentes desde el 01/08/2025 al 31/01/2026 (leído el 2026-11-27): https://www.arca.gob.ar/monotributo/documentos/categorias/monotributo-categorias-agosto-2025-enero-2026.pdf"
+  - "argentina.gob.ar, Monotributo: ¿Cómo se asigna una categoría? (leída el 2026-11-27): https://www.argentina.gob.ar/noticias/monotributo-como-se-asigna-una-categoria"
+  - "argentina.gob.ar, Ya está disponible la recategorización para monotributistas (16/07/2025; leída el 2026-11-27): https://www.argentina.gob.ar/noticias/ya-esta-disponible-la-recategorizacion-para-monotributistas-podran-hacerlo-web-y-desde-el"
+  - "argentina.gob.ar, Pagar el monotributo (leída el 2026-11-27): https://www.argentina.gob.ar/servicio/pagar-el-monotributo"
   - "Impuestos/.investigacion/obligacion-tributaria.md (2026-11-27)"
 aliases: [monotributo, monotributista, recategorización, recategorizarse, recategorización de oficio, exclusión del monotributo, exclusión de pleno derecho, baja del monotributo, baja de oficio, renuncia al monotributo, pasaje al régimen general, régimen de transición, Ley 27.618, Ley 24.977, Ley 27.743, impuesto integrado, categoría K]
 creado: 2026-11-27
@@ -36,9 +40,9 @@ Pueden estar las personas humanas que venden cosas muebles, prestan servicios o 
 
 ## Pagar cada mes
 
-El pago es mensual, «en la forma, plazo y condiciones que establezca la Administración» (art. 15), y no se puede fraccionar salvo por retenciones o percepciones. Según ARCA, vence «hasta el día 20 de cada mes» y se corre al primer día hábil siguiente si cae en un día inhábil; la primera cuota vence el último día del mes del alta (una sola fuente: dos páginas de ARCA; la ley delega el día).
+El pago es mensual, «en la forma, plazo y condiciones que establezca la Administración» (art. 15), y no se puede fraccionar salvo por retenciones o percepciones. Según ARCA, vence «hasta el día 20 de cada mes» y se corre al primer día hábil siguiente si cae en un día inhábil; la primera cuota vence el último día del mes del alta (dos fuentes: ARCA y argentina.gob.ar, «Podés cumplir con tu obligación de pago mensual hasta el día 20 del mes correspondiente»; ninguna cita norma y la ley delega el día).
 
-Dejar de pagar tiene un límite. Según ARCA, la baja de oficio «Puede producirse ante la falta de pago durante 10 meses consecutivos»; para volver hay que cancelar o regularizar la deuda, y el reingreso no es automático (una sola fuente, sin norma citada en la página).
+Dejar de pagar tiene un límite. Según ARCA, la baja de oficio «Puede producirse ante la falta de pago durante 10 meses consecutivos»; para volver hay que cancelar o regularizar la deuda, y el reingreso no es automático (una sola fuente, sin norma citada en la página; ni la ley ni la página de pagos de argentina.gob.ar traen los 10 meses, y el art. 42 de la ley habla de otra cosa, la desafiliación de la obra social).
 
 ## Recategorizarse dos veces por año
 
@@ -49,15 +53,17 @@ Al terminar cada semestre calendario, el monotributista mira sus últimos doce m
 | Enero a junio | en agosto | de agosto a enero |
 | Julio a diciembre | en febrero | de febrero a julio |
 
-Según ARCA, el trámite se hace hasta el día 5 de febrero o de agosto (una sola fuente). Quien sigue en la misma categoría o tiene menos de seis meses de actividad no hace nada: sin trámite, el sistema asume que no hubo cambios.
+Según ARCA, el trámite se hace «hasta el día 5» de febrero o de agosto; argentina.gob.ar lo confirma para agosto de 2025 («hasta el 5 de agosto»). Ninguna página cita la norma que fija el día. Quien sigue en la misma categoría o tiene menos de seis meses de actividad no hace nada: sin trámite, el sistema asume que no hubo cambios.
 
-Los montos de la tabla se actualizan por la inflación. Hay dos fuentes, y la nota no las concilia:
+Los montos de la tabla se actualizan por la inflación, y la ley y ARCA se leen juntas así:
 
-- La ley (art. 52, sustituido por el art. 94 de la Ley 27.743, B.O. 08/07/2024): los montos «se actualizarán semestralmente a partir del año fiscal 2025, inclusive, en los meses de enero y julio», por la variación del IPC del INDEC del semestre calendario que termina el mes anterior.
-- La tabla de ARCA (consulta del 27 de noviembre de 2026): «Valores de aplicación desde el 1/08/2026», categorías A a K.
+- La ley (art. 52, sustituido por el art. 94 de la Ley 27.743, B.O. 08/07/2024) fija cuándo se calcula la actualización: los montos «se actualizarán semestralmente a partir del año fiscal 2025, inclusive, en los meses de enero y julio», por el coeficiente de la variación del IPC del INDEC «correspondiente al semestre calendario que finalice el mes inmediato anterior al de la actualización». Y delega la aplicación: ARCA «será la encargada de publicar semestralmente los nuevos montos [...] y su respectiva aplicación» (segundo párrafo).
+- ARCA fija desde cuándo rigen. La tabla actual dice «Valores de aplicación desde el 1/08/2026» y la anterior, «Vigentes desde el 01/08/2025 al 31/01/2026» (cuadro en PDF de ARCA). El sitio argentina.gob.ar dice que «El valor de la cuota cambia en febrero y agosto de cada año».
+- Entonces no hay contradicción: «enero y julio» es el mes en que se calcula con el IPC del semestre anterior y «1/08» es desde cuándo se aplica. Coincide con el art. 9: la nueva categoría rige «a partir del segundo mes inmediato siguiente al último mes del semestre», o sea agosto y febrero (inferencia de la base).
+- La recategorización de agosto se hace con la tabla nueva, la que empieza el 1/08: la página de recategorización de ARCA manda a la tabla vigente (categorias.asp) para comparar los parámetros (inferencia de la base; ninguna página dice la frase expresa).
 
 > [!NOTE]
-> Sin fuente todavía: cómo se relacionan el «enero y julio» de la ley con el «desde el 1/08/2026» de la tabla. Ninguna de las fuentes leídas lo explica y la nota no lo deduce. Tampoco se leyó la resolución de ARCA que fijó esa tabla.
+> Sin fuente todavía: el número de la resolución general de ARCA que fijó la tabla del 1/08/2026 y su fecha de publicación. No se encontró en el sitio de ARCA ni en el texto de la ley; solo hay notas de prensa, que no se toman como fuente. Lo de arriba sale de la ley y de las páginas de ARCA, no de esa resolución.
 
 ## La recategorización de oficio
 
@@ -108,6 +114,6 @@ Es la rampa de salida que el [régimen simplificado](regimen-simplificado.md) de
 ## Pendiente de verificar
 
 > [!NOTE]
-> Sin fuente todavía: si alguna norma de 2025 o 2026 (incluida la Ley 27.799) modificó el régimen. El texto actualizado de argentina.gob.ar y las páginas de ARCA consultadas el 27 de noviembre de 2026 no mencionan normas de esos años, pero no se pudo buscar más allá de ellas. Tampoco se leyeron las resoluciones generales de ARCA que reglamentan la recategorización y la exclusión.
+> Sin fuente todavía: si alguna norma de 2025 o 2026 (incluida la Ley 27.799) modificó el régimen. El texto actualizado de la ley en argentina.gob.ar, leído completo, termina en las notas de 2024 y no menciona normas de 2025 ni 2026, y las páginas de ARCA tampoco. No se pudo abrir el texto de la Ley 27.799. Tampoco se leyeron las resoluciones generales de ARCA que reglamentan la recategorización, la exclusión y la baja de oficio.
 
 Ver también: [sujetos del impuesto](sujetos-del-impuesto.md), para el domicilio fiscal y la inscripción; [declaración y pago](../Cumplimiento/declaracion-y-pago.md), para el calendario del régimen general.

@@ -108,3 +108,15 @@ Fuentes intentadas y bloqueadas: OCDE, Tax Administration 2024 y Guidance on the
 ## Sobre la división del árbol
 
 El campo (FMI, CIAT, TADAT) ordena la administración tributaria por funciones: inscripción, declaración, pago, fiscalización (con gestión de riesgo), cobranza coactiva y controversias. El árbol junta declaración y pago en una nota, y fiscalización con sanciones y cobranza (planes de pago) en otra: es coherente para una empresa. La inscripción no tiene nota en esta vertical (queda en Emprender y en sujetos del impuesto), y las controversias (recursos contra una determinación) no tienen lugar en el árbol: el ALCANCE deja fuera el derecho procesal como profesión, así que se nombran en una línea en fiscalización.
+
+## Segunda pasada (2026-11-27)
+
+Fuentes leídas:
+- [L] https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf: confirmados el nivel III («businesses share information on underlying transactions directly with tax authorities»), el nivel IV (blockchain, pilotos), Polonia (VAT return reemplazada por el SAF-T), «beyond pure transactional», «random audits versus risk-based audits», Chipre (7,5 a 43,8 semanas por más auditorías), el «significant levels of fraud and a lack of fiscal resources to pay the refund», México («Governmentmandated XML format»), Brasil 1.501 h y Bolivia 1.025 h; 18,2 h y 27,3 semanas de devolución de IVA, 14,6 h de corrección y 25,5 semanas son promedios mundiales (el PFI global es 60,9). Las páginas impresas 20-23 y 28-29 (pdf 18-21 y 26-27) corresponden a lo citado.
+- [L] https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/SouthAmerica_PT2020_FS.pdf: «small to medium-size manufacturer and retailer», 234 h mundial, región con más del doble, devolución disponible en solo dos economías; «On average around the world» 18,2 h y 27,3 semanas.
+- [M] https://www.ciat.org/la-factura-electronica-en-america-latina/ (blog de los autores): citas de Barreix y Zambrano confirmadas (control documental; Chile 2003; Corea 2011). El libro BID-CIAT no se abrió (403).
+- [M] https://en.wikipedia.org/wiki/SAF-T: mayo de 2005 (v1.0), abril de 2010 (v2.0, con inventario y activos fijos). La guía de la OCDE sigue sin abrirse (403).
+- [L] https://www.skatteetaten.no/en/business-and-organisation/start-and-run/best-practices-accounting-and-cash-register-systems/saf-t-financial/: 1 de enero de 2020, exención bajo NOK 5 millones, entrega «in the event of an audit».
+- [L parcial] https://www.ciat.org/Biblioteca/DocumentosTecnicos/Espanol/2015_Modelo_Codigo_Tributario_CIAT.pdf: texto del cuerpo ilegible por la extracción; legibles la tabla de cambios (plazo absoluto máximo de prescripción, aplazamiento excepcional de deudas retenidas o percibidas, compensación automática) y que el recargo es una figura intermedia entre el interés moratorio y la sanción; porcentajes de rebaja ilegibles.
+
+Cambió: se sacaron las marcas «según lo leído» y «el resumen no aclara si es promedio mundial o regional» (son promedios mundiales). Sigue abierto: guías de la OCDE (SAF-T, gestión de riesgo, pymes), libro BID-CIAT, cifras del Modelo del CIAT.

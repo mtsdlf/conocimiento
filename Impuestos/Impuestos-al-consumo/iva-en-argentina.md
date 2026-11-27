@@ -7,6 +7,7 @@ fuentes:
   - "Ley de Impuesto al Valor Agregado, texto ordenado en 1997 (Decreto 280/97), texto actualizado en InfoLEG (leído el 2026-11-27): https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42701/texact.htm"
   - "iProfesional, ¿Cuánto es el IVA en Argentina?, 24/12/2022: https://www.iprofesional.com/impuestos/374830-cuanto-es-el-iva-en-argentina-productos-con-el-21-27-y-105"
   - "ARCA, IVA Simple, sujetos alcanzados, confección de la declaración, retenciones y percepciones, presentación y cronograma (leídas el 2026-11-27): https://www.arca.gob.ar/iva/iva-simple/sujetos-operaciones-alcanzadas.asp"
+  - "Resolución General ARCA 5705/2025, texto en argentina.gob.ar/normativa (leída el 2026-11-27): https://www.argentina.gob.ar/normativa/nacional/norma-413494/texto"
   - "ARCA, Servicios digitales: concepto, obligados y régimen de percepción RG 4240/18 (leídas el 2026-11-27): https://www.arca.gob.ar/iva/servicios-digitales/concepto.asp"
   - "Impuestos/.investigacion/impuestos-al-consumo.md (2026-11-27)"
 aliases: [IVA en Argentina, Ley de IVA, Ley 23.349, Decreto 280/97, alícuota del IVA, 21 %, 10,5 %, 27 %, responsable inscripto, crédito fiscal, débito fiscal, prorrateo del crédito fiscal, saldo técnico, saldo de libre disponibilidad, IVA Simple, RG 5705/2025, Portal IVA, F.2051, libro de IVA digital, servicios digitales, RG 4240/18]
@@ -88,7 +89,7 @@ Cómo funciona, según ARCA:
 - El módulo de determinación muestra las retenciones y percepciones, los pagos a cuenta y los saldos a favor.
 - Las percepciones se pueden computar en el período en que se sufrieron o en alguno de los cinco siguientes (RG 5750).
 
-Lo que se emitió con CAE ya está en ARCA, y la declaración parte de esos datos (lectura de esta base). Lo general de los libros fiscales está en [registros fiscales](../Cumplimiento/registros-fiscales.md). Toda esta sección sale de una sola fuente, las páginas de ARCA; el texto de la RG 5705/2025 no se leyó.
+Lo que se emitió con CAE ya está en ARCA, y la declaración parte de esos datos (lectura de esta base). Lo general de los libros fiscales está en [registros fiscales](../Cumplimiento/registros-fiscales.md). Toda esta sección sale de una sola fuente, las páginas de ARCA; la RG 5705/2025 se leyó en argentina.gob.ar: publicada en el Boletín Oficial el 02/06/2025, rige desde su publicación (art. 8) y deroga desde el 01/12/2025 las RG 715, 765, 826, 1.045, 1.479, 1.625, 1.723, 1.950, 2.030, 2.035, 2.171, 2.210, 4.591, 4.629, 4.777, 5.591 y 5.658 (art. 7), con lo que coincide lo de arriba.
 
 ## Servicios digitales del exterior
 

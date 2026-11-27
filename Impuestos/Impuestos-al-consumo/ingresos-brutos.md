@@ -7,6 +7,8 @@ fuentes:
   - "Código Fiscal de la Provincia de Buenos Aires, Ley 10.397 (t.o. 2011), texto actualizado, arts. 182, 186, 187, 188 y 223 (leído el 2026-11-27): https://normas.gba.gob.ar/ar-b/ley/1986/10397/6417"
   - "Ley 15.558 de la Provincia de Buenos Aires, Ley Impositiva para el ejercicio fiscal 2026, B.O. 15/12/2025, arts. 20 y 25: https://normas.gba.gob.ar/ar-b/ley/2025/15558/554025"
   - "Convenio Multilateral del 18/08/77, texto publicado por la Comisión Arbitral (leído el 2026-11-27): https://www.ca.gob.ar/convenio-multilateral-menu-pagina-legales"
+  - "Ley 6927 de la Ciudad Autónoma de Buenos Aires, B.O. 7269, 19/12/2025, texto en PDF (leída el 2026-11-27): https://documentosboletinoficial.buenosaires.gob.ar/publico/ck_PL-LEY-LCABA-LCBA-6927-25-7269.pdf"
+  - "Ley 6948 de la Ciudad Autónoma de Buenos Aires, página del Boletín Oficial de la Ciudad (leída el 2026-11-27): https://boletinoficial.buenosaires.gob.ar/normativaba/norma/855152"
   - "Comisión Arbitral, La Legislatura de Corrientes ratificó las reformas del Convenio Multilateral, 22/09/2026: https://www.ca.gob.ar/novedades-home/institucional-novedades/la-legislatura-de-corrientes-ratifico-las-reformas-del-convenio-multilateral"
   - "Comisión Arbitral, SIFERE: https://www.ca.gob.ar/sistemas/sifere"
   - "Comisión Arbitral, Padrón Federal: https://www.ca.gob.ar/sistemas/padron-federal"
@@ -47,7 +49,9 @@ La Ley 15.558 de Buenos Aires para 2026 tiene una columna de alícuota general p
 
 La tabla se leyó en una versión de texto que pierde el formato; el orden de las columnas se tomó del encabezado. El mínimo del anticipo mensual es de $10.967 (art. 25). Las alícuotas de las demás jurisdicciones no se copian: cambian por actividad, por tamaño y por año.
 
-> [!NOTE] Sin fuente todavía: la Ley Tarifaria 2026 y el Código Fiscal de la Ciudad de Buenos Aires (el sitio de AGIP no se pudo leer).
+La Ciudad de Buenos Aires ya no usa una «Ley Tarifaria»: para 2026 las alícuotas están en la Ley Impositiva, anexa a la Ley 6927 (B.O. de la Ciudad N.° 7269, 19/12/2025), cuyo artículo 1 dice que los tributos «se abonan conforme a las alícuotas y aforos que se determinan en la Ley Impositiva». La Ley 6948 (B.O. 19/05/2026, vigente desde el 1/6/2026) cambió artículos de ese anexo. Según la página oficial de esa ley, la actividad de comercialización, reparaciones y otras prestaciones paga 3,00 % hasta $391.128.000 de ingresos brutos anuales del ejercicio anterior y 5,00 % por encima; restaurantes y hoteles, comunicaciones, servicios inmobiliarios y otros grupos pagan 3,00 % hasta $2.154.300.000 y entre 4,00 % y 5,00 % por encima, según el grupo.
+
+> [!NOTE] Sin fuente todavía: el Anexo completo de la Ley Impositiva 2026 de la Ciudad (la tabla por actividad; el PDF del anexo no se pudo descargar) y el Código Fiscal de la Ciudad.
 
 ## Contribuyente local o Convenio Multilateral
 

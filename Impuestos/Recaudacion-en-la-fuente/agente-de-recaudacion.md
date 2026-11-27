@@ -49,7 +49,7 @@ Y después, en cada período:
 
 El agente responde por lo que no retuvo y por lo que retuvo y no depositó. En Argentina la ley lo hace responder con sus propios bienes (art. 8 de la Ley 11.683, abajo); que otros países lo hagan igual no se verificó.
 
-El ejemplo argentino: la Ley 11.683 pone a los agentes entre los responsables por deuda ajena (art. 6) y los hace responder con sus bienes propios «por el tributo que omitieron retener, una vez vencido el plazo de quince (15) días» si no prueban que el contribuyente lo pagó (art. 8). Lo retenido y no depositado es más grave: el artículo 48 lo pena con una multa «de dos (2) hasta seis (6) veces el tributo retenido o percibido». Las cifras salen del texto de la ley en InfoLEG, una sola fuente.
+El ejemplo argentino: la Ley 11.683 pone a los agentes entre los responsables por deuda ajena (art. 6) y los hace responder con sus bienes propios «por el tributo que omitieron retener, una vez vencido el plazo de quince (15) días» si no prueban que el contribuyente lo pagó (art. 8). Lo retenido y no depositado es más grave: el artículo 48 lo pena con una multa «de dos (2) hasta seis (6) veces el tributo retenido o percibido». Las cifras salen del texto de la ley en InfoLEG, leído el 2026-11-27.
 
 La asimetría pesa en el diseño del proceso. Retener de más genera un reclamo del proveedor; retener de menos, una deuda de la empresa con el fisco. Por eso, ante la duda, el agente tendería a aplicar la alícuota más alta (inferencia de esta base, sin fuente).
 

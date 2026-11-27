@@ -12,7 +12,10 @@ fuentes:
   - "Ebrill, Keen, Bodin y Summers (2001), The Modern VAT, FMI (índice y prefacio): https://www.imf.org/external/pubs/nft/2001/vat/"
   - "OIT (2014), Cetrángolo, Goldschmit, Gómez Sabaini y Morán, Monotributo en América Latina: https://www.ilo.org/wcmsp5/groups/public/---americas/---ro-lima/documents/publication/wcms_357452.pdf"
   - "Wikipedia, Maurice Lauré: https://en.wikipedia.org/wiki/Maurice_Laur%C3%A9"
-  - "Wikipedia, Value-added tax (sección History): https://en.wikipedia.org/wiki/Value-added_tax"
+  - "Wikipedia, Value-added tax (sección History; leída el 2026-11-27, sus citas a OCDE 2018 e ICAEW no se pudieron abrir): https://en.wikipedia.org/wiki/Value-added_tax"
+  - "Wikipedia en francés, Maurice Lauré y Taxe sur la valeur ajoutée en France (leídas el 2026-11-27): https://fr.wikipedia.org/wiki/Maurice_Laur%C3%A9 y https://fr.wikipedia.org/wiki/Taxe_sur_la_valeur_ajout%C3%A9e_en_France"
+  - "herodote.net, 10 avril 1954, Création de la TVA (leída el 2026-11-27): https://www.herodote.net/10_avril_1954-evenement-19540410.php"
+  - "FMI, Thuronyi (ed.), Tax Law Design and Drafting, cap. 6 y Harrison y Krelove (2005), leídos el 2026-11-27 (PDF): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch6.pdf"
   - "Impuestos/.investigacion/fundamentos.md y posicion-contraria.md (2026-11-27)"
 aliases: [fundamentos de impuestos, historia del IVA, history of VAT, principios de la tributación, principles of taxation, cánones de Adam Smith, canons of taxation, incidencia tributaria, tax incidence, mitos tributarios, tax misconceptions]
 creado: 2026-11-27
@@ -35,14 +38,16 @@ En 1918, el industrial alemán Georg Wilhelm von Siemens propuso gravar solo el 
 | FMI, manual *Tax Law Design and Drafting* | La *taxe sur la valeur ajoutée* se introdujo en 1954 |
 | Wikipedia (*Value-added tax*) | Maurice Lauré la aplicó primero en la colonia de Costa de Marfil en abril de 1954, y Francia la adoptó en su territorio en 1958 |
 | Wikipedia (*Maurice Lauré*, con una sola referencia, la BnF) | Lauré, subdirector de la Dirección General de Impuestos desde 1952, inventó en 1954 el impuesto que se llamó TVA |
+| Wikipedia en francés (*Maurice Lauré*) y herodote.net | «la mesure est votée le 10 avril par les députés» (Wikipedia en francés); «Le 10 avril 1954, l'Assemblée nationale vote la Taxe sur la Valeur Ajoutée (TVA)» (herodote.net). Ninguna menciona Costa de Marfil |
+| Wikipedia en francés (*Taxe sur la valeur ajoutée en France*) | «La TVA a été créée en France par la loi du 10 avril 1954» (cita la Ley 54-404 de Légifrance, que no se pudo abrir); «Le choc politique de 1958 provoque son application progressive à l'ensemble des biens et services» |
 
 > [!IMPORTANT]
-> Las dos versiones quedan atribuidas y sin conciliar: el FMI da 1948, 1954 y 1968; Wikipedia, 1954 y 1958. Costa de Marfil y 1958 vienen solo de Wikipedia, sin fuente primaria leída.
+> Las versiones quedan atribuidas y sin conciliar del todo: el FMI da 1948, 1954 y 1968; Wikipedia en inglés, 1954 y 1958. La fecha del 10 de abril de 1954 que Wikipedia en inglés pone en la aplicación en Costa de Marfil es, según las fuentes francesas leídas, la del voto de la Asamblea Nacional en Francia; la frase de Wikipedia cita a ICAEW Insights, que no se pudo abrir. Costa de Marfil como primer lugar de aplicación no la confirma ninguna fuente leída (el FMI nombra a Côte d'Ivoire solo por haber adoptado en los años 80 el sistema de compras en franquicia para exportadores). El 1958 de Wikipedia en inglés coincide con el «1958» del inicio de la extensión progresiva que cuenta Wikipedia en francés, sin fuente primaria leída.
 
-Dos directivas de 1967 lo hicieron común en la Comunidad Económica Europea (según Wikipedia). El prefacio de *The Modern VAT* (FMI, 2001) lo cuenta en «over 120 countries»; según Wikipedia, que cita a la OCDE, a enero de 2025 lo usan 175 de los 193 miembros de la ONU. Según el manual del FMI, ninguno de los países con IVA que describía Tait (1988) lo derogó. Cómo funciona está en [IVA](../Impuestos-al-consumo/iva.md).
+Dos directivas de 1967 lo hicieron común en la Comunidad Económica Europea (según Wikipedia). El prefacio de *The Modern VAT* (FMI, 2001) lo cuenta en «over 120 countries»; según Wikipedia, que cita a la OCDE, a enero de 2025 lo usan 175 de los 193 miembros de la ONU (la fuente que Wikipedia pone es *Consumption Tax Trends 2018*, que no puede traer un dato de 2025; la OCDE bloqueó el acceso y la cifra no se verificó en su publicación). Según el manual del FMI, ninguno de los países con IVA que describía Tait (1988) lo derogó. Cómo funciona está en [IVA](../Impuestos-al-consumo/iva.md).
 
 > [!NOTE]
-> Sin fuente todavía: el texto de Lauré (*La taxe sur la valeur ajoutée*) y una historia del IVA escrita por un organismo que confirme lo de Costa de Marfil.
+> Sin fuente todavía: el texto de Lauré (*La taxe sur la valeur ajoutée*), la Ley 54-404 de Légifrance, el recuadro 12.1 de *The Modern VAT* («Introduction of the VAT and Reform of the French Tax Administration», que no se encontró en la web del FMI) y una historia del IVA de un organismo que confirme o descarte lo de Costa de Marfil y lo de 1958.
 
 ## Los cuatro cánones de Adam Smith y las tres guías de hoy
 

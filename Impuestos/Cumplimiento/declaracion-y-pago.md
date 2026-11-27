@@ -7,8 +7,8 @@ fuentes:
   - "FMI, Tax Law Design and Drafting, vol. 1 (1996), cap. 4, secciones II.D (Returns), II.H (Installment Payment Arrangements) y II.J (Interest): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch4.pdf"
   - "Directiva 2006/112/CE del Consejo, arts. 183, 206, 250 y 252, texto de 2006 (copia del BOE): https://www.boe.es/doue/2006/347/L00001-00118.pdf"
   - "CIAT, Modelo de Código Tributario (2015), índice y tabla de cambios (la extracción del PDF perdió letras y cifras): https://www.ciat.org/Biblioteca/DocumentosTecnicos/Espanol/2015_Modelo_Codigo_Tributario_CIAT.pdf"
-  - "World Bank Group y PwC, Paying Taxes 2020, fact sheet de América del Sur: https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/SouthAmerica_PT2020_FS.pdf"
-  - "World Bank Group y PwC, Paying Taxes 2020, informe completo, sección del post-filing index (según lo leído de esa sección): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
+  - "World Bank Group y PwC, Paying Taxes 2020, fact sheet de América del Sur (leído el 2026-11-27): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/SouthAmerica_PT2020_FS.pdf"
+  - "World Bank Group y PwC, Paying Taxes 2020, informe completo, sección del post-filing index (leído el 2026-11-27): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
 aliases: [declaración jurada, DDJJ, declaración de impuestos, tax return, VAT return, autoliquidación, self-assessment, liquidación administrativa, administrative assessment, vencimiento, período fiscal, anticipo, saldo a favor, excedente, compensación, offset, devolución, refund, declaración rectificativa, rectificativa, amended return, pago fuera de término, liquidar impuestos]
 creado: 2026-11-27
@@ -79,13 +79,13 @@ Los nombres son argentinos (ver [IVA en Argentina](../Impuestos-al-consumo/iva-e
 
 Por qué las retenciones y percepciones acumulan saldo, y los caminos para usarlo (arrastrarlo, compensarlo, pedir la devolución o la exclusión del régimen), están en [pagos a cuenta](../Recaudacion-en-la-fuente/pagos-a-cuenta.md). El modelo de código del CIAT prevé además formas de compensación automática.
 
-La devolución es la vía más lenta. Según el fact sheet de *Paying Taxes 2020* (datos de 2018), obtener una devolución de IVA lleva 27,3 semanas y 18,2 horas de trabajo (el resumen leído no aclara si es promedio mundial o regional), y en América del Sur la devolución estaba disponible para la empresa del caso solo en dos economías. Los países la restringen, según el informe completo (leído en parte), por «significant levels of fraud and a lack of fiscal resources to pay the refund». El FMI recomienda que el fisco pague intereses cuando devuelve tarde, igual que los cobra.
+La devolución es la vía más lenta. Según el fact sheet de *Paying Taxes 2020* (datos de 2018), obtener una devolución de IVA lleva 27,3 semanas y 18,2 horas de trabajo (promedios mundiales), y en América del Sur la devolución estaba disponible para la empresa del caso solo en dos economías. Los países la restringen, según el informe completo, por «significant levels of fraud and a lack of fiscal resources to pay the refund». El FMI recomienda que el fisco pague intereses cuando devuelve tarde, igual que los cobra.
 
 ## Declaración rectificativa
 
 Si la empresa descubre un error en una declaración presentada, presenta una rectificativa (o declaración sustitutiva) que reemplaza a la anterior. Si el error era a favor del fisco, se paga la diferencia con intereses. Si era a favor del contribuyente, la rectificativa genera un saldo a favor o un pedido de devolución, que el fisco suele revisar antes de aceptar.
 
-El Modelo de Código Tributario del CIAT trata la rectificación de la autoliquidación a pedido del contribuyente y la liga con la devolución. *Paying Taxes* mide cuánto cuesta corregir una declaración de renta: 14,6 horas y, si el fisco abre una revisión, 25,5 semanas (el resumen leído no aclara si es promedio mundial o regional).
+El Modelo de Código Tributario del CIAT trata la rectificación de la autoliquidación a pedido del contribuyente y la liga con la devolución. *Paying Taxes* mide cuánto cuesta corregir una declaración de renta: 14,6 horas y, si el fisco abre una revisión, 25,5 semanas (el informe da las 25,5 semanas como promedio mundial).
 
 Rectificar antes de que el fisco lo detecte cambia la sanción: el modelo del CIAT prevé que quien repara de forma espontánea fuera de plazo pague un recargo y evite la multa, y prevé reducir la sanción si se repara (según su índice y su tabla de cambios; el texto no se pudo leer). Los porcentajes los fija cada país (ver [fiscalización y sanciones](fiscalizacion-y-sanciones.md)).
 

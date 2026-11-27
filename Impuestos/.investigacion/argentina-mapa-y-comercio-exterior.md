@@ -65,3 +65,25 @@ Condiciones: el presupuesto de búsquedas web se agotó y se recuperó a medias;
 - Alícuota vigente del impuesto sobre los créditos y débitos fijada por decreto.
 - Tasas municipales (seguridad e higiene): ninguna ordenanza leída.
 - Texto de la RG 5827/2026.
+
+## Segunda pasada (2026-11-27)
+
+Fuentes leídas:
+
+- Decreto 423/2026, texto y Anexos I, II y III, bajados del Boletín Oficial (anexos por el botón de descarga de la edición web): https://www.boletinoficial.gob.ar/detalleAviso/primera/342702/20260603 [L].
+- Decreto 1140/2024, texto en argentina.gob.ar: https://www.argentina.gob.ar/normativa/nacional/norma-407914/texto [L]. La tabla de montos máximos es una imagen y no se leyó.
+- RG AFIP 2937/2010, texto actualizado, biblioteca de ARCA: https://biblioteca.afip.gob.ar/dcp/REAG01002937_2010_10_07 [L].
+- RG AFIP 2281/2007, texto actualizado, biblioteca de ARCA: https://biblioteca.afip.gob.ar/dcp/REAG01002281_2007_07_30 [L].
+- RG ARCA 5868/2026, texto completo en el Boletín Oficial: https://www.boletinoficial.gob.ar/pdf/aviso/primera/343657/20260629 [L].
+- Decreto 380/2001, texto actualizado, biblioteca de ARCA: https://biblioteca.afip.gob.ar/dcp/DEC_C_000380_2001_03_29 [L].
+- Código Aduanero, art. 829: https://biblioteca.afip.gob.ar/dcp/LEY_C_022415_1981_03_02 [L].
+
+Qué cambió:
+
+- Derechos de exportación: los resúmenes secundarios (A13, A14) quedan reemplazados por los anexos. Soja poroto: 24% en 2026, baja 0,25 punto por mes en 2027 (21% el 1/12/2027) y 0,5 punto por mes en 2028 (15% desde el 1/12/2028); la discrepancia entre los resúmenes sobre el ritmo queda resuelta. Trigo grano 5,5% inmediato. Maíz: 8,5% en 2026, 7,5% el 1/12/2027, 5,5% desde el 1/10/2028 (no desde diciembre de 2028, como decía la nota), algunas posiciones en 0%.
+- Tasa de estadística: confirmado el 3% hasta el 31/12/2027 en el decreto mismo.
+- Percepción de IVA en la importación: 20% (10% para bienes con la mitad de la alícuota); confirmado, y ya no depende de iProfesional. Percepción de Ganancias: 6% (11% para uso o consumo particular), antes sin fuente.
+- Reintegros: quién fija el monto (el Poder Ejecutivo, delegable en el Ministerio de Economía, art. 829). Los montos vigentes siguen sin fuente.
+- Impuesto a los créditos y débitos: 6‰ y 6‰ (art. 7), agentes de percepción las entidades financieras (art. 5), cómputo del 33% (art. 13). El art. 7 figura modificado por el Decreto 737/2024, que la página no muestra; queda marcado.
+
+No se pudo: la búsqueda web se agotó, así que no se buscó el decreto de reintegros vigente ni el derecho de importación.

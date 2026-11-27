@@ -90,3 +90,7 @@ Ninguna fuente leída nombra estas frases como «mito»; todas se infieren de te
 - Una defensa con evidencia de los impuestos a la facturación (Ingresos Brutos) o de los regímenes de retención: no encontrada.
 - Costos de cumplimiento medidos (horas por año, por país): no leído.
 - Saldos inmovilizados en Argentina con cifras: no leído.
+
+## Segunda pasada (2026-11-27)
+
+Sin cambios en las notas de Cumplimiento y Fundamentos por esta vertical. El estudio de la OCDE de 2014 sobre regresividad del IVA no se pudo leer (oecd.org y oecd-ilibrary devuelven 403 a clientes automáticos); sigue marcado «Sin fuente todavía» en `fuentes-de-impuestos.md`.

@@ -131,3 +131,22 @@ Recurso canónico: el Anexo de la Ley 24.977 en su texto actualizado (arts. 2, 9
 - El campo (CIAT) pone en la obligación tributaria también el domicilio, la responsabilidad solidaria, la deuda y su extinción (pago, compensación, prescripción). El árbol deja la extinción en Cumplimiento (`declaracion-y-pago`, `fiscalizacion-y-sanciones`). Coincide en lo esencial; conviene que `fiscalizacion-y-sanciones` tome la prescripción y `declaracion-y-pago` la compensación.
 - Los agentes de retención y percepción aparecen en el CIAT como sujetos pasivos (1999: sustituto o tercero responsable; 2015: obligados propios). El árbol los trata como figura acá y como mecanismo en Recaudación en la fuente: consistente.
 - El régimen simplificado, en el FMI, es un método de determinación de la base (presunción), no un sujeto ni un impuesto: encaja en Obligación tributaria como dice el supuesto del ALCANCE.
+
+## Segunda pasada (2026-11-27)
+
+Fuentes leídas:
+- [L] Ley 24.977, Anexo, texto actualizado, art. 52 (ambos párrafos), art. 9, art. 15, art. 42 y notas finales: https://www.argentina.gob.ar/normativa/nacional/ley-24977-51609/actualizacion
+- [L] ARCA, tabla de categorías, «Valores de aplicación desde el 1/08/2026» (sin norma citada): https://www.arca.gob.ar/monotributo/categorias.asp
+- [L] ARCA, cuadro «Vigentes desde el 01/08/2025 al 31/01/2026» (PDF): https://www.arca.gob.ar/monotributo/documentos/categorias/monotributo-categorias-agosto-2025-enero-2026.pdf
+- [M] argentina.gob.ar, «El valor de la cuota cambia en febrero y agosto de cada año»: https://www.argentina.gob.ar/noticias/monotributo-como-se-asigna-una-categoria
+- [M] argentina.gob.ar, recategorización «hasta el 5 de agosto» (16/07/2025): https://www.argentina.gob.ar/noticias/ya-esta-disponible-la-recategorizacion-para-monotributistas-podran-hacerlo-web-y-desde-el
+- [M] argentina.gob.ar, pago «hasta el día 20 del mes correspondiente»: https://www.argentina.gob.ar/servicio/pagar-el-monotributo
+- [L] ARCA, parámetros, pagos, recategorización y baja de oficio (ninguna cita norma).
+- [S] Prensa (La Nación, Perfil, iProfesional): 16,8 % desde agosto de 2026; no cita resolución; no usada como fuente.
+
+Cambió:
+- Discrepancia enero/julio vs 1/08/2026: resuelta. El art. 52 fija cuándo se calcula (IPC del semestre anterior) y delega en ARCA «su respectiva aplicación»; ARCA aplica desde agosto y febrero (tabla anterior 1/08/2025 a 31/01/2026), en línea con el art. 9. La recategorización de agosto usa la tabla del 1/08 (inferencia). Sigue sin leerse la resolución general de ARCA.
+- Día 5 y día 20: ahora con segunda fuente (argentina.gob.ar), que tampoco cita norma.
+- Baja a los 10 meses: sigue con una sola fuente; ni la ley ni argentina.gob.ar la traen.
+- Ley 27.799: el texto actualizado no la menciona; no se pudo abrir la ley. Abierto.
+- No se pudo abrir EUR-Lex ni la OCDE: devengo (excepciones), Wikipedia sobre establecimiento permanente y demás huecos de otras notas siguen abiertos.

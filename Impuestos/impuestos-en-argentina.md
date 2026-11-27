@@ -12,6 +12,7 @@ fuentes:
   - "ARCA, Domicilio fiscal electrónico: https://www.arca.gob.ar/domicilioFiscalElectronico/servicio-clave-fiscal/default.asp"
   - "ARCA, Vencimientos: https://www.arca.gob.ar/vencimientos/"
   - "ARCA, Impuesto sobre los créditos y débitos: https://www.arca.gob.ar/creditosydebitos/"
+  - "Decreto 380/2001, texto actualizado, arts. 5, 7 y 13, biblioteca de ARCA, leído el 2026-11-27: https://biblioteca.afip.gob.ar/dcp/DEC_C_000380_2001_03_29"
   - "ARCA, Ganancias y Bienes Personales: https://www.arca.gob.ar/gananciasYBienes/"
   - "Impuestos/.investigacion/argentina-mapa-y-comercio-exterior.md (2026-11-27)"
 aliases: [impuestos en Argentina, sistema tributario argentino, mapa de impuestos argentinos, ARCA, AFIP, Agencia de Recaudación y Control Aduanero, Decreto 953/2024, clave fiscal, domicilio fiscal electrónico, DFE, vencimientos ARCA, calendario de vencimientos, terminación de CUIT, impuesto al cheque, impuesto a los débitos y créditos, Ley 25.413, impuestos internos, coparticipación, Ley 23.548, sellos, inmobiliario, tasa de seguridad e higiene]
@@ -49,10 +50,12 @@ Casi todos estos impuestos se cobran además en parte por adelantado, con retenc
 
 ## Los nacionales que no tienen nota propia
 
-Débitos y créditos bancarios. La Ley 25.413 crea un impuesto «cuya alícuota será fijada por el Poder Ejecutivo nacional hasta un máximo del SEIS POR MIL (6 o/oo)» sobre los créditos y débitos en cuentas bancarias, sobre las operatorias que las evitan y sobre los movimientos de fondos por cuenta propia o ajena (art. 1). Las extracciones en efectivo pagan el doble, salvo para personas humanas y micro y pequeñas empresas. ARCA tiene un registro de beneficios (exención o alícuota reducida) para cuentas bancarias; quién cobra el impuesto y cómo se computa no se leyó.
+Débitos y créditos bancarios. La Ley 25.413 crea un impuesto «cuya alícuota será fijada por el Poder Ejecutivo nacional hasta un máximo del SEIS POR MIL (6 o/oo)» sobre los créditos y débitos en cuentas bancarias, sobre las operatorias que las evitan y sobre los movimientos de fondos por cuenta propia o ajena (art. 1). Las extracciones en efectivo pagan el doble, salvo para personas humanas y micro y pequeñas empresas. ARCA tiene un registro de beneficios (exención o alícuota reducida) para cuentas bancarias.
+
+El decreto reglamentario (380/2001, texto actualizado en la biblioteca de ARCA) fija en su artículo 7 «la alícuota general» en «SEIS POR MIL (6‰) para los créditos y» «SEIS POR MIL (6‰) para los débitos», y la de «DOCE POR MIL (12‰)» para ciertos movimientos de fondos que no pasan por cuentas del ordenante o del beneficiario. Hay alícuotas reducidas para algunos sujetos, como los corredores de granos o las obras sociales. Las entidades financieras «deberán actuar como agentes de liquidación y percepción», y el impuesto está a cargo de los titulares de las cuentas (art. 5). Quien paga la tasa general del 6‰ puede computar como crédito de impuestos «el TREINTA Y TRES POR CIENTO (33%)» de lo percibido, y el 20% si la alícuota es menor (art. 13); se acredita contra Ganancias o contra la Contribución Especial sobre el Capital de las Cooperativas.
 
 > [!NOTE]
-> Sin fuente todavía: la alícuota vigente fijada por decreto, quién lo cobra y la parte que se puede computar a cuenta de otros impuestos.
+> Sin fuente todavía: si el artículo 7 sigue con ese texto después del Decreto 737/2024, que la biblioteca de ARCA lista como modificatorio pero cuyo texto no figura en la página; los decretos que tocaron otros artículos desde 2024 tampoco se leyeron.
 
 Internos. Son impuestos selectivos sobre ciertos consumos. La Ley 27.802 (BO 6 de marzo de 2026) los dejó sin efecto, desde el mes siguiente a su vigencia, para «los seguros, los servicios de telefonía celular y satelital, los objetos suntuarios y los vehículos automóviles y motores, embarcaciones de recreo o deportes y aeronaves» (art. 195). Los que siguen vigentes no se relevaron.
 

@@ -83,3 +83,31 @@ Condiciones de la investigación: el presupuesto de búsquedas web de la sesión
 - Actualización por inflación de los saldos a favor y plazos de devolución: sin fuente.
 - Evidencia de la OCDE sobre withholding: no se abrió ninguna.
 - Todas las cifras argentinas tienen una sola fuente (el texto de la norma en la biblioteca de ARCA o en InfoLEG).
+
+## Segunda pasada (2026-11-27)
+
+Fuentes leídas:
+
+- [L] RG 830/2000, texto actualizado de InfoLEG con el cuadro «Actualizada» del Anexo VIII (incluye la RG 5740) y la escala general: https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/62872/texact.htm (imágenes resgral4525-Anexo-1Actualizada.jpg y resgral4525-Anexo-2.jpg). El PDF del anexo en la biblioteca de ARCA devuelve la página de error.
+- [L] RG 5423/2023, texto y las dos imágenes del código 119 (monto $ 160.000 y escala): https://www.argentina.gob.ar/normativa/nacional/norma-390542/texto
+- [L] RG 5740/2025: https://www.argentina.gob.ar/normativa/nacional/norma-415761/texto
+- [L] RG 5822/2026 (solo agrega el punto 6 al inciso a del Anexo III): https://www.argentina.gob.ar/normativa/nacional/norma-423070/texto
+- [L] RG 5724/2025, 5750/2025, 5774/2025, 5799/2025, 5837/2026, 5897/2026 y 5921/2026, en la biblioteca de ARCA (norma.aspx?p=t:RAG|n:NUMERO|o:9|a:AÑO|f:FECHA).
+- [L] RG 2854, 2408, 2226 y 4523 en la biblioteca de ARCA (texto completo con versiones anteriores).
+- [L] RG CA 10/2006 y 11/2008 (cuadro de alícuotas del SIRCREB): https://www.ca.gob.ar/descargas/sircreb/resoluciones/r.g_n11_2008_nuevo_esquema_alicuotas_sircreb.pdf
+- [L] Ley 11.683, InfoLEG, arts. 6, 8, 27, 28, 29, 48, 81, 129 a 138 y 179: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18771/texact.htm
+- [L] Kleven et al., NBER WP 15769, texto completo: https://www.nber.org/system/files/working_papers/w15769/w15769.pdf
+
+Qué cambió:
+
+- Anexo VIII: se agregó a la nota un cuadro con las filas principales y las escalas. Que el cuadro de InfoLEG coincida con el PDF de ARCA queda sin verificar.
+- RG 5724, 5799, 5837 y 5897: solo incorporan contribuyentes a los anexos de la RG 2854. RG 5822: toca el Anexo III de la RG 830, no el VIII (la nota decía que cambiaba el régimen sin precisarlo).
+- RG 5750: cómputo de percepciones de IVA en el período o en los cinco siguientes, para DDJJ presentadas desde el 1/9/2025.
+- RG 5774: texto literal del nuevo art. 24 de la RG 2226.
+- RG 5921: SIRE obligatorio desde el 1/4/2027 para la RG 2854 y otros regímenes de IVA (no la RG 2408); elimina la notificación individual de la RG 4523; vigente desde el 1/12/2026. La inferencia sobre SICORE y SIRE queda respaldada por el art. 3 de la RG 4523.
+- SIRCREB: cuadro de la RG CA 11/2008 (letras A a Z, de 0,01 % a 5,00 %). El cuadro de la RG CA 6/2023 no aparece en su PDF, así que no se sabe si hubo cambios posteriores.
+- Certificado de exclusión de Ganancias: confirmado en el art. 38 de la RG 830 que vale para otros regímenes salvo disposición en contrario.
+- Saldos a favor: la Ley 11.683 trae un régimen de actualización (arts. 129 a 138, art. 27) pero el art. 134 dice que la actualización de pagos a cuenta y retenciones no es crédito contra el tributo; si se aplica hoy a los saldos, sin fuente.
+- Kleven et al.: confirmados 0,3 % y 37 % en el texto (evasión detectada; cota inferior); se agregó 0,2 % con retención y 2,1 % sin ella dentro del ingreso informado por terceros, y la conclusión de los autores de que la información de terceros pesa más que la retención.
+
+Sigue abierto: RG CA 08/2021 del SIRTAC (error 500 en la web y en el PDF), regímenes provinciales de Ingresos Brutos, evidencia de la OCDE o el FMI sobre retención y cumplimiento (se agotó el presupuesto de búsqueda y no se abrió ninguna), medición del saldo a favor acumulado, y el texto de la RG 2233.

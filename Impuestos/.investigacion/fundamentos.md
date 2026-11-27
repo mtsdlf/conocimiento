@@ -91,3 +91,17 @@ Eficiencia productiva: Diamond y Mirrlees (1971) muestran que el sistema deberí
 - No se encontró el Modelo de Código Tributario del CIAT (la URL probada dio 404).
 - Ningún libro de texto de finanzas públicas en castellano leído.
 - La biblioteca de ARCA no se pudo leer (aplicación con JavaScript).
+
+## Segunda pasada (2026-11-27)
+
+Fuentes leídas:
+- [M] https://en.wikipedia.org/wiki/Value-added_tax: dice «10 April 1954 in France's Ivory Coast colony» y «France introduced it domestically in 1958»; el «175 of the 193» cita *Consumption Tax Trends 2018* (no puede traer datos de enero de 2025) y la frase de Lauré cita a ICAEW Insights (no se pudo abrir).
+- [M] https://en.wikipedia.org/wiki/Maurice_Laur%C3%A9 y https://fr.wikipedia.org/wiki/Maurice_Laur%C3%A9: 1954, el voto del 10 de abril; Costa de Marfil no aparece en la versión francesa.
+- [M] https://fr.wikipedia.org/wiki/Taxe_sur_la_valeur_ajout%C3%A9e_en_France: «créée en France par la loi du 10 avril 1954» (Ley 54-404, Légifrance, no abierta); 1958 como inicio de la extensión progresiva.
+- [S] https://www.herodote.net/10_avril_1954-evenement-19540410.php: «Le 10 avril 1954, l'Assemblée nationale vote la TVA».
+- [L] https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch6.pdf: «The taxe sur la valeur ajoutée was introduced in 1954».
+- [L] https://www.imf.org/external/pubs/ft/wp/2005/wp05218.pdf: 1948, 1954 y 1968; Côte d'Ivoire aparece solo por haber adoptado en los años 80 las compras en franquicia para exportadores.
+- [L] https://www.imf.org/external/pubs/nft/2001/vat/ (prefacio): «over 120 countries». El recuadro 12.1 («Introduction of the VAT and Reform of the French Tax Administration») figura en el índice pero no se encontró su texto.
+- No se abrió (403): OCDE (*The Distributional Effects of Consumption Taxes in OECD Countries*, 2014; *Consumption Tax Trends*), oecd-ilibrary, Légifrance, ICAEW (404).
+
+Cambió: la nota ya no deja la fecha de Costa de Marfil como un dato más; dice que el 10 de abril de 1954 es el voto de la Asamblea en Francia según las fuentes francesas y que Costa de Marfil sigue sin confirmación. Sigue abierto: los 175 países, el estudio de la OCDE de 2014 sobre regresividad y el texto de Lauré.

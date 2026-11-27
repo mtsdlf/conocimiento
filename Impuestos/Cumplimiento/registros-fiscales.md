@@ -6,9 +6,9 @@ estabilidad: estable
 fuentes:
   - "FMI, Tax Law Design and Drafting, vol. 1 (1996), cap. 4, secciones II.D.4 (Record Keeping) y II.E (Audits, acceso a registros de terceros): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch4.pdf"
   - "Directiva 2006/112/CE del Consejo, arts. 246 y 247, texto de 2006 (copia del BOE): https://www.boe.es/doue/2006/347/L00001-00118.pdf"
-  - "World Bank Group y PwC, Paying Taxes 2020, pp. 20-23 (SAF-T push y pull, según lo leído de esa sección): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
+  - "World Bank Group y PwC, Paying Taxes 2020, pp. 20-23 (SAF-T push y pull, leído el 2026-11-27): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
   - "Skatteetaten (administración tributaria de Noruega), SAF-T Financial: https://www.skatteetaten.no/en/business-and-organisation/start-and-run/best-practices-accounting-and-cash-register-systems/saf-t-financial/"
-  - "Wikipedia, SAF-T (como pista para las versiones de la OCDE; la guía de la OCDE no se pudo abrir): https://en.wikipedia.org/wiki/SAF-T"
+  - "Wikipedia, SAF-T (leída el 2026-11-27; confirma mayo de 2005 y abril de 2010, pero la guía de la OCDE sigue sin abrirse): https://en.wikipedia.org/wiki/SAF-T"
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
 aliases: [registros fiscales, libros fiscales, libro IVA, libro de IVA ventas, libro de IVA compras, subdiario de IVA, registro de facturas, VAT ledger, sales ledger, purchase ledger, conservación de comprobantes, record keeping, SAF-T, Standard Audit File for Tax, libro digital, información de terceros, third-party information]
 creado: 2026-11-27

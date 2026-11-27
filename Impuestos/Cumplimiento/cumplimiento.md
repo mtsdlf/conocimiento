@@ -4,9 +4,9 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "World Bank Group y PwC, Paying Taxes 2020, fact sheet de América del Sur (datos de 2018): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/SouthAmerica_PT2020_FS.pdf"
+  - "World Bank Group y PwC, Paying Taxes 2020, fact sheet de América del Sur (datos de 2018, leído el 2026-11-27): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/SouthAmerica_PT2020_FS.pdf"
   - "World Bank Group y PwC, Paying Taxes 2020, página del informe: https://archive.doingbusiness.org/en/reports/thematic-reports/paying-taxes-2020"
-  - "World Bank Group y PwC, Paying Taxes 2020, informe completo, pp. 20-23 (según lo leído de esas secciones): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
+  - "World Bank Group y PwC, Paying Taxes 2020, informe completo, pp. 20-23, leído el 2026-11-27: https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
   - "Directiva 2006/112/CE del Consejo, arts. 206, 250 y 252, texto de 2006 (copia del BOE): https://www.boe.es/doue/2006/347/L00001-00118.pdf"
   - "FMI, Tax Law Design and Drafting, vol. 1 (1996), cap. 4, Law of Tax Administration and Procedure: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch4.pdf"
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
@@ -75,7 +75,7 @@ Tres hallazgos del informe muestran de qué depende ese costo:
 
 - La tecnología lo baja. Desde 2012, el promedio mundial de pagos cayó 10 % y el de horas 16 %, «both driven by technology». Las economías con declaración y pago electrónicos pasaron de 43 de 174 en 2004 a 106 de 190 en 2018.
 - La frecuencia lo sube. Venezuela sumó 128 horas, hasta 920, cuando pasó de declarar el IVA por mes a declararlo por semana sin sistemas en línea.
-- Lo que viene después de declarar también cuesta. Según el mismo fact sheet, obtener una devolución de IVA lleva 27,3 semanas y 18,2 horas de trabajo (el resumen que se leyó no aclara si es promedio mundial o regional), y en América del Sur la devolución estaba disponible para la empresa del caso solo en dos economías. Ver [declaración y pago](declaracion-y-pago.md).
+- Lo que viene después de declarar también cuesta. Según el mismo fact sheet, obtener una devolución de IVA lleva 27,3 semanas y 18,2 horas de trabajo (promedios mundiales, según el fact sheet: «On average around the world»), y en América del Sur la devolución estaba disponible para la empresa del caso solo en dos economías. Ver [declaración y pago](declaracion-y-pago.md).
 
 El indicador mide una sola empresa tipo y no compara tamaños. Que el costo de cumplir pese más, en proporción, en una empresa chica que en una grande es una idea extendida en la literatura de costos de cumplimiento, pero no se leyó un estudio que la mida.
 
@@ -100,4 +100,4 @@ Estas fallas son inferencia de la base a partir de los componentes; ninguna fuen
 
 Lo argentino (ARCA, la clave fiscal y el calendario de vencimientos) empieza en [impuestos en Argentina](../impuestos-en-argentina.md); la factura electrónica argentina está en [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md), y los saldos de IVA, en [IVA en Argentina](../Impuestos-al-consumo/iva-en-argentina.md). Cómo se registra el impuesto en la contabilidad es de [Contabilidad](../../Contabilidad/contabilidad.md), y pagar y tener la caja para hacerlo, del tema Tesorería y finanzas de la empresa en marcha (todavía no escrito).
 
-Para leer más: *Paying Taxes 2020*, sección «The advantage of automation» (pp. 20-23), que ordena en cuatro niveles cómo la tecnología cambia el cumplimiento del IVA (según lo leído de esas páginas), de poca tecnología a la declaración y la factura electrónica en tiempo real.
+Para leer más: *Paying Taxes 2020*, sección «The advantage of automation» (pp. 20-23), que ordena en cuatro niveles cómo la tecnología cambia el cumplimiento del IVA, de poca tecnología a la declaración y la factura electrónica en tiempo real.

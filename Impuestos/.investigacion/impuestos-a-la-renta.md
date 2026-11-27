@@ -92,3 +92,19 @@ La escala 2026 de ARCA (R3) mantiene 25/30/35. No se pudo hacer una búsqueda ge
 ## División del árbol
 
 Coincide con cómo lo divide la ley: un impuesto, sujetos (sociedades y personas), determinación (balance impositivo, ajustes, quebrantos, ajuste por inflación), alícuotas, anticipos y declaración. El ajuste por inflación impositivo podría ser componente propio en un país con inflación; acá queda en `ganancias-en-argentina`.
+
+## Segunda pasada (2026-11-27)
+
+Fuentes leídas:
+
+- Cooper y Gordon, «Taxation of Legal Persons and their Owners», FMI, Tax Law Design and Drafting, vol. 2, cap. 19 (1998): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch19.pdf [L] (sec. V.B, tabla 1 y notas 105 y 107).
+- Inland Revenue Department de Hong Kong, Profits Tax, «The Scope of the Charge»: https://www.ird.gov.hk/eng/tax/bus_pft.htm [L].
+- Ley 20.628 t.o. 2019, biblioteca de ARCA, arts. 73, 97 y 105: https://biblioteca.afip.gob.ar/dcp/LEY_C_020628_2019_12_05 [L].
+- Ley 27.802: https://biblioteca.afip.gob.ar/dcp/LEY_C_027802_2026_02_27 [L].
+
+Qué cambió:
+
+- La tipología del alivio de la doble imposición, antes «sin fuente», quedó escrita desde el capítulo 19, con su tabla 1. Ejemplo de territorial: Hong Kong, en la nota.
+- Arts. 73, 97 y 105 releídos: coinciden con la nota (escala 25/30/35 según Ley 27.630; 7% retenido como pago único para el no inscripto y el beneficiario del exterior; el ajuste por inflación alcanza a los incisos a a e del art. 53). El 105 solo lo ordena; el procedimiento es el art. 106.
+- Ley 27.802: no toca dividendos. La palabra aparece solo en la parte laboral; sus artículos de Ganancias (190 a 194) tratan quebrantos y los arts. 26, 58 y 116.
+- Sigue sin leerse: el capítulo 18 (Vann) y el 16, citados todavía de segunda mano.

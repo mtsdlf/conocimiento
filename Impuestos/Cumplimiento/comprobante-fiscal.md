@@ -6,8 +6,8 @@ estabilidad: estable
 fuentes:
   - "Directiva 2006/112/CE del Consejo, arts. 219, 220 y 226, texto de 2006 (copia del BOE): https://www.boe.es/doue/2006/347/L00001-00118.pdf"
   - "FMI, Tax Law Design and Drafting, vol. 1 (1996), cap. 4, sección II.D, Returns and Record Keeping (autofactura): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch4.pdf"
-  - "Barreix, A. y Zambrano, R., La Factura Electrónica en América Latina, blog del CIAT, 21/03/2018 (resumen de sus autores del libro BID-CIAT): https://www.ciat.org/la-factura-electronica-en-america-latina/"
-  - "World Bank Group y PwC, Paying Taxes 2020, pp. 20-23 y 28-29 (según lo leído de esas secciones): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
+  - "Barreix, A. y Zambrano, R., La Factura Electrónica en América Latina, blog del CIAT, 21/03/2018 (resumen de sus autores del libro BID-CIAT, leído el 2026-11-27; el libro no se pudo abrir): https://www.ciat.org/la-factura-electronica-en-america-latina/"
+  - "World Bank Group y PwC, Paying Taxes 2020, pp. 20-23 y 28-29, leído el 2026-11-27: https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
   - "Comisión Europea, DG TAXUD, VAT in the Digital Age (ViDA): https://taxation-customs.ec.europa.eu/taxation/vat/vat-digital-age-vida_en"
   - "Revenue (Irlanda), VAT in the Digital Age (ViDA): https://www.revenue.ie/en/corporate/consultations-and-submissions/modernising-vat/einvoicing/introduction/vida/digital-age-vida.aspx"
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
@@ -88,7 +88,7 @@ El informe anota entre los costos que las empresas «may need to adjust their sy
 
 ### América Latina fue primero
 
-Según Barreix y Zambrano: «Chile fue pionero en la introducción de la FE en 2003. A mediados de 2017 Argentina, Brasil, Ecuador, México, Perú y Uruguay ya cuentan con esquemas de FE avanzados y maduros». Corea la estableció en 2011. En México, según el Banco Mundial, «all invoices must be issued in a Government-mandated XML format» (según lo leído del informe).
+Según Barreix y Zambrano: «Chile fue pionero en la introducción de la FE en 2003. A mediados de 2017 Argentina, Brasil, Ecuador, México, Perú y Uruguay ya cuentan con esquemas de FE avanzados y maduros». Corea la estableció en 2011. En México, según el Banco Mundial, «all invoices must be issued in a Government-mandated XML format».
 
 ### Europa converge con ViDA
 

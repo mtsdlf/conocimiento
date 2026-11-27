@@ -5,6 +5,8 @@ estado: borrador
 estabilidad: estable
 fuentes:
   - "Vann, «International Aspects of Income Tax», FMI, Tax Law Design and Drafting, vol. 2, cap. 18 (1998), sec. I.C: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch18.pdf (citado según Impuestos/.investigacion/obligacion-tributaria.md)"
+  - "Cooper y Gordon, «Taxation of Legal Persons and their Owners», FMI, Tax Law Design and Drafting, vol. 2, cap. 19 (1998), sec. V.B, leído el 2026-11-27: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch19.pdf"
+  - "Inland Revenue Department de Hong Kong, Profits Tax (The Scope of the Charge), leído el 2026-11-27: https://www.ird.gov.hk/eng/tax/bus_pft.htm"
   - "Thuronyi (ed.), Tax Law Design and Drafting, FMI, cap. 16, sec. IV.B: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch16.pdf (citado según Impuestos/.investigacion/posicion-contraria.md)"
   - "Ley de Impuesto a las Ganancias, t.o. 2019, arts. 1, 5, 73 y 97, biblioteca de ARCA: https://biblioteca.afip.gob.ar/dcp/LEY_C_020628_2019_12_05"
   - "Ley 27.630 (BO 16/06/2021): https://biblioteca.afip.gob.ar/dcp/LEY_C_027630_2021_06_02"
@@ -27,8 +29,15 @@ La ley trata como contribuyentes separados a la sociedad y a sus dueños. La soc
 
 Esa segunda capa es la doble imposición económica: la misma ganancia paga dos veces, en dos contribuyentes distintos. En la Argentina, la sociedad paga con una escala de 25% a 35%, y el dividendo que cobra una persona humana paga además un 7% que retiene la sociedad pagadora (art. 97 de la ley; detalle en [Ganancias en Argentina](ganancias-en-argentina.md)).
 
-> [!NOTE]
-> Sin fuente todavía: la tipología de cómo los países alivian esa doble imposición (sistema clásico, imputación del impuesto de la sociedad al socio, exención o tasa reducida del dividendo), que trata el capítulo 19 del manual del FMI y no se pudo leer.
+Los países que dejan el sistema clásico (el que deja las dos capas) lo alivian de pocas maneras. Según el capítulo 19 del manual del FMI (Cooper y Gordon), una vez abandonado el sistema clásico los mecanismos se agrupan en «split-rate systems and dividend-paid deduction systems, dividend-received exemption or dividend-received deduction systems, dividend-imputation systems, and full integration systems». En castellano:
+
+- Deducción del dividendo pagado: la empresa resta lo que distribuye, y esa ganancia paga solo en el socio.
+- Tasa dividida: la empresa paga una tasa menor sobre lo que distribuye que sobre lo que retiene.
+- Exención o deducción del dividendo recibido: el socio no paga, o paga menos, por el dividendo.
+- Imputación: el socio suma al dividendo un monto que representa el impuesto que pagó la empresa y recibe un crédito por una parte de él.
+- Integración plena: se gravan al socio todas las ganancias de la empresa, también las que retiene.
+
+Para el manual, los tres primeros grupos son sistemas de alivio del dividendo y la integración es «more ambitious»: reduce la tasa combinada sobre todas las ganancias. Un mismo país suele combinar varios; el capítulo (de 1998) cita a Estados Unidos con sistema clásico para el accionista persona humana, a Canadá con imputación para la persona humana y deducción plena del dividendo recibido para las empresas, y a Australia con imputación para la persona humana. Las leyes cambian: sirve de tipología, no de estado actual de esos países.
 
 Quien no es sociedad (una persona que factura a su nombre, una empresa unipersonal) paga en el impuesto de personas, con su escala propia, o en un [régimen simplificado](../Obligacion-tributaria/regimen-simplificado.md) que reemplaza varios impuestos con una cuota. Este tema menciona a la persona humana sin desarrollarla: el impuesto de un empleado va con el empleador como [agente de recaudación](../Recaudacion-en-la-fuente/agente-de-recaudacion.md).
 
@@ -44,8 +53,7 @@ Dos reglas deciden qué ganancia grava cada país. Según el capítulo de Vann e
 
 La Argentina sigue la renta mundial. El artículo 1 de su ley dice que los residentes «tributan sobre la totalidad de sus ganancias obtenidas en el país o en el exterior» y pueden computar lo pagado afuera por impuestos análogos, con un tope; los no residentes, «exclusivamente sobre sus ganancias de fuente argentina». Un sistema territorial, en cambio, grava solo la renta de fuente local también para los residentes.
 
-> [!NOTE]
-> Sin fuente todavía: un ejemplo verificado de país con sistema territorial para sociedades.
+Un ejemplo de sistema territorial es Hong Kong. Su administración tributaria dice que las personas, «including corporations», que ejercen una actividad en Hong Kong «are chargeable to tax on all profits [...] arising in or derived from Hong Kong», sin distinguir entre residentes y no residentes, y que «No tax is levied on profits arising abroad, even if they are remitted to Hong Kong».
 
 ## Devengado y ejercicio
 

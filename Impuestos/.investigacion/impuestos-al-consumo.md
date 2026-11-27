@@ -175,3 +175,14 @@ C2 (capítulo 6 de *Tax Law Design and Drafting*): secs. V (exenciones) y VII (t
 - El campo (FMI, Directiva) no separa «lugar de la operación» del IVA: es un capítulo del IVA (ámbito territorial). Como nota aparte funciona porque también rige al impuesto a las ventas (nexus) y a Ingresos Brutos (Convenio Multilateral), pero conviene que `iva.md` lo enlace como parte de su mecanismo.
 - `impuesto-a-las-ventas` junta dos cosas que el campo separa: el impuesto de una sola etapa a la venta minorista y el impuesto plurifásico acumulativo (cascada). El campo los opone a los dos al IVA; mantenerlos juntos sirve si la nota los distingue con claridad.
 - `ingresos-brutos` es la nota argentina de los impuestos en cascada; no lleva el sufijo `-en-argentina` porque el impuesto solo existe allá.
+
+## Segunda pasada (2026-11-27)
+
+Fuentes leídas:
+- [L] RG ARCA 5705/2025, texto: https://www.argentina.gob.ar/normativa/nacional/norma-413494/texto (B.O. 02/06/2025, n.° 35678; art. 7 derogaciones desde 01/12/2025; art. 8 vigencia y obligatoriedad desde el período noviembre 2025). Coincide con la nota; se sacó «no se leyó».
+- [L] Ley 6927 CABA, PDF del B.O. 7269 (19/12/2025): https://documentosboletinoficial.buenosaires.gob.ar/publico/ck_PL-LEY-LCABA-LCBA-6927-25-7269.pdf (art. 1: alícuotas y aforos en la Ley Impositiva anexa; vigencia 1/1/2026). Corrección: no existe «Ley Tarifaria 2026» en CABA, el instrumento es la Ley Impositiva.
+- [M] Ley 6948 CABA (B.O. 19/05/2026), página oficial del B.O. de la Ciudad: https://boletinoficial.buenosaires.gob.ar/normativaba/norma/855152 (resumen de la página, no el PDF): 3,00 % hasta $391.128.000 y 5,00 % arriba para comercialización y reparaciones; 3,00 % hasta $2.154.300.000 y 4,00 a 5,00 % arriba en otros grupos.
+- [L] Ley de IVA, art. 43, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42701/texact.htm. Verificado; coincide con la nota.
+- [L] Comisión Arbitral, novedad del 22/09/2026 y listado de novedades (https://www.ca.gob.ar/novedades-home): la novedad solo dice que falta completar el circuito legislativo en provincias pendientes, sin nombrarlas ni dar fecha. Contenido de la reforma: no encontrado.
+
+Sigue abierto: anexo completo de la Ley Impositiva CABA 2026 (PDF bloqueado por Cloudflare); contenido y vigencia de la reforma del Convenio Multilateral (cupo de búsqueda agotado); Directrices de IVA de la OCDE (403/410/404); Directiva 2006/112/CE consolidada en EUR-Lex (responde 202 sin contenido, no se eludió el control).

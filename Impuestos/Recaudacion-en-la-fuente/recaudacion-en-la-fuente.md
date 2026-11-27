@@ -7,7 +7,7 @@ fuentes:
   - "IMF, Tax Law Design and Drafting, vol. 2, cap. 14 «Individual Income Tax» (Burns y Krever, 1998), secciones sobre terminología y PAYE: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch14.pdf"
   - "Harrison y Krelove, «VAT Refunds: A Review of Country Experience», IMF Working Paper WP/05/218 (2005): https://www.imf.org/external/pubs/ft/wp/2005/wp05218.pdf"
   - "IRS, Publication 5869, Tax Gap Projections for Tax Year 2022 (análisis de visibilidad TY 2014-2016): https://www.irs.gov/pub/irs-pdf/p5869.pdf"
-  - "Kleven, Knudsen, Kreiner, Pedersen y Saez, «Unwilling or Unable to Cheat? Evidence from a Tax Audit Experiment in Denmark», NBER WP 15769 (abstract): https://www.nber.org/papers/w15769"
+  - "Kleven, Knudsen, Kreiner, Pedersen y Saez, «Unwilling or Unable to Cheat? Evidence from a Tax Audit Experiment in Denmark», NBER WP 15769 (2010), texto completo leído el 2026-11-27: https://www.nber.org/system/files/working_papers/w15769/w15769.pdf"
   - "Impuestos/.investigacion/recaudacion-en-la-fuente.md (2026-11-27)"
 aliases: [recaudación en la fuente, retención en la fuente, retenciones y percepciones, withholding, withholding tax, tax withholding, collection at source, regímenes de recaudación, PAYE]
 creado: 2026-11-27
@@ -57,10 +57,10 @@ La evidencia empírica muestra que el cumplimiento sube mucho cuando un tercero 
 | Con información de terceros y retención sustancial (EE. UU.) | 1 % | IRS, tax gap TY 2014-2016 |
 | Con información de terceros, sin retención (EE. UU.) | 6 % | IRS, tax gap TY 2014-2016 |
 | Con poca o ninguna información (cuentapropistas no agrícolas, EE. UU.) | 55 % | IRS, tax gap TY 2014-2016 |
-| Informado por terceros (Dinamarca, experimento aleatorio) | 0,3 % | Kleven et al., 2011 (según su resumen) |
-| Autodeclarado (Dinamarca) | 37 % | Kleven et al., 2011 (según su resumen) |
+| Informado por terceros (Dinamarca, experimento aleatorio) | 0,3 % | Kleven et al., 2010 |
+| Autodeclarado (Dinamarca) | 37 % | Kleven et al., 2010 |
 
-Esas cifras son del impuesto a la renta de personas. Que el efecto sea parecido en las retenciones y percepciones entre empresas es una inferencia razonable que ninguna de las dos fuentes mide.
+En Dinamarca, las cifras son la evasión que detectó la auditoría, como parte del ingreso, y los autores dicen que son una cota inferior de la evasión real. Los mismos autores separan, dentro del ingreso informado por terceros, el que además tiene retención: la evasión es de 0,2 % con retención y de 2,1 % sin ella. Concluyen que, «once there is information reporting», las tasas son muy chicas con o sin retención, y que lo que sugieren los datos es que la información de terceros pesa más que la retención en el control efectivo; no pueden descartar un efecto propio de la retención. Esas cifras son del impuesto a la renta de personas. Que el efecto sea parecido en las retenciones y percepciones entre empresas es una inferencia razonable que ninguna de las dos fuentes mide.
 
 ## Lo que le cuesta a la empresa
 

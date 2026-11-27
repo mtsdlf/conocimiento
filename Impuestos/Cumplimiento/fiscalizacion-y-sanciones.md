@@ -6,7 +6,7 @@ estabilidad: estable
 fuentes:
   - "FMI, Tax Law Design and Drafting, vol. 1 (1996), cap. 4, secciones II.E (Audits and Investigations), II.H (Collection, Installment Payment Arrangements), II.J (Interest), II.K.10 (Limitations) y III (Taxpayer Compliance and Sanctions): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch4.pdf"
   - "CIAT, Modelo de Código Tributario (2015), índice y tabla de cambios (la extracción del PDF perdió letras y cifras): https://www.ciat.org/Biblioteca/DocumentosTecnicos/Espanol/2015_Modelo_Codigo_Tributario_CIAT.pdf"
-  - "World Bank Group y PwC, Paying Taxes 2020, secciones de tecnología y post-filing index (según lo leído de esas secciones): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
+  - "World Bank Group y PwC, Paying Taxes 2020, secciones de tecnología y post-filing index (leído el 2026-11-27): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf"
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
 aliases: [fiscalización, inspección, auditoría fiscal, tax audit, verificación, requerimiento, cruce de información, matching, gestión de riesgo de cumplimiento, compliance risk management, determinación de oficio, intereses resarcitorios, intereses moratorios, late payment interest, multa, sanción, penalty, omisión, defraudación, evasión, tax evasion, prescripción, statute of limitations, plan de pagos, plan de facilidades, installment agreement, moratoria, amnistía fiscal, tax amnesty, apropiación indebida de tributos]
 creado: 2026-11-27
