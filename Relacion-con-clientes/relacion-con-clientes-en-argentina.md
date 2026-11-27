@@ -44,7 +44,7 @@ La condición del cliente frente al IVA decide qué clase de comprobante se le e
 | Monotributista o exento | Cualquiera | C |
 | Cualquiera | Del exterior (exportación) | E |
 
-La clase M ya no figura. ARCA dice que la RG 5762 la reemplazó desde el 1 de diciembre de 2025 por una variante de la A con la leyenda «Operación sujeta a retención»; una nota de prensa lo menciona, sin citar la resolución. El texto de la RG 5762 no se pudo abrir.
+La clase M ya no figura. ARCA dice que la RG 5762 la reemplazó desde el 1 de diciembre de 2025 por una variante de la A con la leyenda «Operación sujeta a retención»; una nota de prensa lo menciona, sin citar la resolución. Esta nota no abrió el texto de la RG 5762; el tema Impuestos lo leyó entero y lo explica en [factura A con leyenda en Argentina](../Impuestos/Recaudacion-en-la-fuente/factura-a-con-leyenda-en-argentina.md).
 
 Desde la RG 5616/2024, la factura electrónica tiene que «identificar la condición ante el impuesto al valor agregado del cliente». La [nota de factura electrónica de ARCA](../Comercio-electronico/Normativa/factura-electronica-de-arca.md) registra que, según el manual de ARCA y la prensa, el pedido de autorización se rechaza sin ese dato desde el 1 de diciembre de 2026; no se encontró la norma que fije esa fecha.
 

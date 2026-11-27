@@ -84,7 +84,7 @@ El impuesto de una línea de factura no es un número fijo del producto: sale de
 | El lugar | el hecho tiene que pasar en el territorio del fisco | entregas «en el territorio de un Estado miembro» (art. 2) |
 | La fecha | el devengo decide el período y la alícuota vigente ese día | devengo (arts. 62 a 64) |
 
-Las partes pesan también por lo que el vendedor y el comprador son ante el fisco: inscripto o no, exento, en un régimen simplificado, agente de retención. Eso está en [sujetos del impuesto](sujetos-del-impuesto.md). El lugar tiene sus reglas propias para importaciones, exportaciones y servicios digitales, en [lugar de la operación](../Impuestos-al-consumo/lugar-de-la-operacion.md). Y lo que el comprobante tiene que mostrar de todo esto está en [comprobante fiscal](../Cumplimiento/comprobante-fiscal.md).
+Las partes pesan también por lo que el vendedor y el comprador son ante el fisco: inscripto o no, exento, en un régimen simplificado, agente de retención. Eso está en [sujetos del impuesto](sujetos-del-impuesto.md). El lugar tiene sus reglas propias para importaciones, exportaciones y servicios digitales, en [lugar de la operación](../Impuestos-al-consumo/lugar-de-la-operacion.md). Y lo que el comprobante tiene que mostrar de todo esto está en [comprobante fiscal](../Cumplimiento/comprobante-fiscal.md). Cómo un software de gestión decide con estos cuatro datos el impuesto de cada renglón está en [motor de impuestos](../../Software-de-gestion/Columnas-tecnicas/motor-de-impuestos.md).
 
 ## Cómo se lee una ley con estos casilleros
 

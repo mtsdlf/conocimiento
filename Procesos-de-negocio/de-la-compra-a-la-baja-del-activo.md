@@ -20,7 +20,7 @@ revisado: 2026-11-27
 
 De la compra a la baja del activo es el recorrido que sigue la vida de un equipo propio: empieza en la decisión de comprarlo o construirlo y termina cuando se lo da de baja, por venta o desguace, con su resultado registrado. Cruza Activos y mantenimiento, Compras y Contabilidad, y lleva dos registros del mismo equipo que tienen que coincidir hasta el final.
 
-Es, por lectura de la base, el único de estos recorridos que dura años y no días. La decisión de invertir, donde empieza, no tiene nota de dominio. El trabajo diario sobre el equipo, la [orden de trabajo](../Activos-y-mantenimiento/Orden-de-trabajo/orden-de-trabajo.md), es un paso de este recorrido, y su ciclo completo está en Activos y mantenimiento. La compra misma pasa por [de la compra al pago](de-la-compra-al-pago.md), y la amortización de cada mes entra al cierre [del registro al balance](del-registro-al-balance.md). Según el Institute of Asset Management, el ciclo de vida empieza cuando surge la necesidad del activo y llega hasta su disposición.
+Es, por lectura de la base, el único de estos recorridos que dura años y no días. La decisión de invertir, donde empieza, es del tema [Proyectos de inversión](../Proyectos-de-inversion/proyectos-de-inversion.md): cómo se evalúa, se aprueba, se ejecuta y se cierra. El trabajo diario sobre el equipo, la [orden de trabajo](../Activos-y-mantenimiento/Orden-de-trabajo/orden-de-trabajo.md), es un paso de este recorrido, y su ciclo completo está en Activos y mantenimiento. La compra misma pasa por [de la compra al pago](de-la-compra-al-pago.md), y la amortización de cada mes entra al cierre [del registro al balance](del-registro-al-balance.md). Según el Institute of Asset Management, el ciclo de vida empieza cuando surge la necesidad del activo y llega hasta su disposición.
 
 APQC 7.4 lo reparte en tres lugares: 10.0 «Acquire, Construct, and Manage Assets» (de 10.1 «Plan and acquire assets» a 10.4 «Manage asset end-of-life»), 9.4 «Manage fixed-asset project accounting» para aprobar y cerrar la inversión, y 9.3.3 «Perform fixed-asset accounting» para el alta, la amortización y la baja.
 
@@ -55,7 +55,7 @@ flowchart LR
 
 | Paso | Dominio | Qué pasa | Documento que deja |
 |---|---|---|---|
-| 1. Decidir la inversión | Sin nota de dominio (APQC 9.4.1 y 10.1.1.3 «Determine build, buy, or lease decision») | Se justifica y se aprueba comprar, construir o arrendar | Proyecto de inversión aprobado |
+| 1. Decidir la inversión | [Proyectos de inversión](../Proyectos-de-inversion/proyectos-de-inversion.md) (APQC 9.4.1 y 10.1.1.3 «Determine build, buy, or lease decision») | Se justifica y se aprueba comprar, construir o arrendar | Proyecto de inversión aprobado |
 | 2. Comprar o construir | Compras: [orden de compra](../Compras-y-abastecimiento/Orden-de-compra/tipos-de-orden.md#los-bordes-subcontratación-y-compra-de-activos) | Una orden puntual, que sigue el recorrido de la compra al pago; o una obra propia | Recepción y factura, o costos de la obra |
 | 3. Dar de alta el bien de uso | Contabilidad: [activos fijos y amortización](../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md#capitalizar-o-gastar) | Se capitaliza el costo más lo necesario para dejarlo funcionando; se fijan vida útil, residual y método | Ficha del bien de uso |
 | 4. Darlo de alta en el registro de activos | Activos: [registro de activos](../Activos-y-mantenimiento/Registro-de-activos/registro-de-activos.md) | Se registra qué es, dónde está y de qué está hecho, con su [criticidad](../Activos-y-mantenimiento/Registro-de-activos/criticidad.md) | Ficha del equipo |
@@ -103,13 +103,13 @@ La lista de APQC es de 2013 y da fórmulas, sin valores. La medida 103518 se par
 
 ### Activo en arrendamiento
 
-Con un arrendamiento, el paso 2 es un contrato. Quien toma el bien lo mantiene igual que si fuera propio. La NIIF 16 regula cómo se registra, y la base no tiene nota que la trate. Lo más cercano es el [leasing](../Tesoreria/Financiamiento/prestamos.md#leasing) visto como financiamiento, en Tesorería.
+Con un arrendamiento, el paso 2 es un contrato. Quien toma el bien lo mantiene igual que si fuera propio. La NIIF 16 regula cómo se registra, y está en [arrendamientos](../Contabilidad/Operaciones/arrendamientos.md) (lo propio de la Argentina, en [arrendamientos en Argentina](../Contabilidad/Operaciones/arrendamientos-en-argentina.md)). El [leasing](../Tesoreria/Financiamiento/prestamos.md#leasing) visto como financiamiento está en Tesorería.
 
 ### Activo construido por la propia empresa
 
-El paso 2 es una obra (APQC 10.2 «Design and construct assets»). Según la NIC 16, «The cost of a self-constructed asset is determined using the same principles as for an acquired asset» (párr. 22). Cómo se acumulan los costos de la obra hasta el alta no tiene nota de dominio.
+El paso 2 es una obra (APQC 10.2 «Design and construct assets»). Según la NIC 16, «The cost of a self-constructed asset is determined using the same principles as for an acquired asset» (párr. 22). Cómo se acumulan los costos de la obra hasta el alta está en [activo construido](../Contabilidad/Operaciones/activo-construido.md), y cómo se lleva la obra como proyecto, en [obra propia](../Proyectos-de-inversion/Ejecucion/obra-propia.md) y [activación de la obra](../Proyectos-de-inversion/Cierre/activacion-de-la-obra.md). La decisión de inversión y el presupuesto de capital están en [presupuesto de capital](../Proyectos-de-inversion/Aprobacion/presupuesto-de-capital.md).
 
-> [!NOTE] Sin fuente todavía: la decisión de inversión (presupuesto de capital), el deterioro (NIC 36), la revaluación y la obra en curso. Ningún tema de dominio los desarrolla.
+> [!NOTE] Sin fuente todavía: el deterioro (NIC 36) y la revaluación. Ningún tema de dominio los desarrolla.
 
 ### Equipo en casa del cliente
 

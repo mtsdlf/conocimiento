@@ -55,7 +55,7 @@ La factura M ya no existe. Desde el 1 de diciembre de 2025 (art. 32 de la RG 576
 - El inscripto en IVA que la recibe «deberá actuar como agente de retención de los impuestos al valor agregado y a las ganancias» (art. 12): al pagar, descuenta esos impuestos y los deposita a nombre del proveedor. Si no retiene responde personal y solidariamente por el impuesto omitido, más sanciones (art. 29).
 - La RG fija el 100 % de la alícuota de IVA y el 6 % de Ganancias, retenidos al pagar (arts. 13 y 14), y no deja oponer certificados de exclusión (art. 19).
 
-Cómo se retiene, se informa y se ingresa en general es de Impuestos, en [retenciones y percepciones en Argentina](../Impuestos/Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md); esa nota no trata el régimen de la A con leyenda. Todo esto sale del texto de la RG 5762; las RG 830 y 2226 que cita no se leyeron.
+Cómo se retiene, se informa y se ingresa en general es de Impuestos, en [retenciones y percepciones en Argentina](../Impuestos/Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md); el régimen de la A con leyenda, con las RG 830 y 2226 que cita la RG 5762, está en [factura A con leyenda en Argentina](../Impuestos/Recaudacion-en-la-fuente/factura-a-con-leyenda-en-argentina.md). Lo de esta sección sale del texto de la RG 5762.
 
 La condición no es fija. ARCA evalúa a cada emisor en febrero, junio y octubre con la información del cuatrimestre vencido y publica las novedades en una consulta del micrositio «Facturación» (arts. 23 a 25). Un proveedor que hoy factura A común puede pasar a A con leyenda en cualquiera de esas evaluaciones. Esa consulta no se encontró por su nombre.
 

@@ -21,6 +21,7 @@ fuentes:
   - "CPCECABA, Resolución C.D. 107/2018 (10 de octubre de 2018), que adopta la Res. JG FACPCE 539/18 y reproduce su Segunda Parte en el anexo (leída el 2026-11-27): https://consejo.org.ar/storage/attachments/ResolucionCD107.pdf-7tClFYvNUW.pdf"
   - "CNV, Resolución General 777/2018 (26 de diciembre de 2018), Boletín Oficial del 28 de diciembre de 2018 (leída el 2026-11-27): https://www.boletinoficial.gob.ar/pdf/aviso/primera/199000/20181228"
   - "Contabilidad/.investigacion/estados-contables.md (2026-11-27), componente 7"
+  - "CPCECABA, RT 54 (T.O. RT 59 y modificatorias), párr. 6 a 9, 97, 98 y 176 a 200 (leída, vía Contabilidad/.investigacion/argentina-segunda-ronda.md): https://consejo.org.ar/storage/attachments/Resolucion%20Tecnica%20N%2054%20(TO%20RT%2059%20y%20modi-7TbUsld18i.pdf"
   - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md, secciones 3.3 y 3.4 (2026-11-27)"
 aliases: [normas contables argentinas, normas contables profesionales, RT 54, NUA, Norma Unificada Argentina de Contabilidad, resoluciones técnicas, FACPCE, ajuste por inflación contable, reexpresión en moneda homogénea, RT 26, RG CNV 562/09, entidad pequeña, entidad mediana, Res. JG 539/18, RG CNV 777/18]
 creado: 2026-11-27
@@ -72,7 +73,7 @@ La RT 54 trata distinto a las entidades pequeñas, a las medianas y a las demás
 Con una cifra supuesta: una empresa con cierre el 31 de diciembre de 2025 que facturó $4.000.000.000 en el ejercicio anterior queda por debajo de $4.861.549.242 y es pequeña; la misma cifra en pesos de octubre de 2022 la habría hecho mediana. El coeficiente se comprueba: 650.000.000 × 7,4793 = 4.861.545.000, igual a la cifra de la FACPCE salvo redondeo. La Interpretación 18 de la FACPCE guía la aplicación de los párrafos 6 y 7 de la RT 54, los de esta clasificación.
 
 > [!NOTE]
-> Sin fuente todavía: el texto de la RT 54. De la FACPCE se leyeron solo la tabla de montos y la Res. JG 660/26; lo demás sale de fuentes secundarias.
+> El texto de la RT 54 (texto ordenado por la RT 59, con sus modificatorias, en el sitio del consejo de la Ciudad de Buenos Aires) se leyó solo en algunos párrafos: la clasificación (6 a 9), el contexto de inflación (97 y 98) y el procedimiento de ajuste (176 a 200). Lo demás de esta sección sale de la tabla de montos de la FACPCE, la Res. JG 660/26 y fuentes secundarias.
 
 ### Qué normas reemplazó la RT 54
 
@@ -103,9 +104,11 @@ El Decreto 664/03 (art. 2) instruyó a la IGJ, la CNV, la ARCA (entonces AFIP) y
 
 Los índices los publica la FACPCE. La Res. 539/18 pasó de una serie que usaba el índice de precios internos al por mayor (IPIM) a una empalmada: según sus considerandos, «una serie que empalme el IPC Nacional desde enero de 2017, con el IPIM hasta esa fecha». Los mismos considerandos anticipan lo que le cuesta a un sistema: el ajuste «requiere esfuerzos diversos (capacitación, modificación de sistemas informáticos, búsqueda de información…)». La tabla de montos de la FACPCE de agosto de 2026 usa un índice con base en octubre de 2022, que en esa tabla llega a 1.028,706.
 
+La RT 54 trae su propio procedimiento de ajuste, en los párrafos 176 a 200: usa el índice de precios de la FACPCE (párr. 179), toma como fecha de origen el mes de cada partida (párr. 180) y aplica un coeficiente que divide el índice del cierre por el del origen (párr. 181); las partidas medidas al costo, como los bienes de uso, se reexpresan (párr. 188). Los párrafos 97 y 98 definen cuándo hay contexto de inflación con cuatro características, entre ellas que la inflación acumulada en tres años del índice de la FACPCE «alcanza o sobrepasa el 100%».
+
 > [!NOTE]
 > Sin fuente todavía:
-> - Dónde vive hoy el procedimiento de ajuste. Nació en la RT 6; si la RT 54 derogó la RT 6, el procedimiento pasó a la RT 54, pero la FACPCE sigue publicando índices para aplicar las dos. Hace falta el texto de la RT 54.
+> - Si la RT 6 sigue vigente al lado de la RT 54. El procedimiento nació en la RT 6 y la RT 54 tiene el suyo, pero la FACPCE sigue publicando índices para aplicar las dos, y ningún texto leído de la FACPCE enumera las derogaciones.
 > - Si la economía argentina sigue siendo hiperinflacionaria en 2026 bajo la NIC 29.
 > - El texto de las Res. JG 553/19 y 584/21 (las que modificaron la 539/18), y un ejemplo de reexpresión con cifras: la guía de aplicación de la FACPCE sobre la RT 6 y la NIC 29 trae ejercicios, pero no se pudo abrir.
 

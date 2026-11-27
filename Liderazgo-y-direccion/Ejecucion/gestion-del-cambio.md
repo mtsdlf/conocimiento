@@ -4,6 +4,8 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - "Shaw, Wild y Colquitt (2003), To justify or excuse?: A meta-analytic review of the effects of explanations, Journal of Applied Psychology 88(3) (según su abstract): https://doi.org/10.1037/0021-9010.88.3.444"
+  - "Bordia, Jones, Gallois, Callan y DiFonzo (2006), Management Are Aliens! Rumors and Stress during Organizational Change, Group & Organization Management (según su abstract): https://doi.org/10.1177/1059601106286880"
   - "Hughes (2011), Do 70 Per Cent of All Organizational Change Initiatives Really Fail?, Journal of Change Management 11(4) (abstract): https://doi.org/10.1080/14697017.2011.630506"
   - "Cândido y Santos (2015), Journal of Management & Organization (abstract): https://doi.org/10.1017/jmo.2014.77"
   - "Sobre las fuentes de la cifra del 70 % (según un resumen): https://www.projectmanagement.com/blog-post/7112/time-to-kill-the-phantom-70--failure-rate-"
@@ -63,6 +65,8 @@ ADKAR es el modelo de Prosci, una empresa con interés comercial en él. Según 
 
 El informe no encontró estudios de estos modelos en empresas de 2 a 50 personas.
 
-> [!NOTE] Sin fuente todavía: qué prácticas de gestión del cambio tienen evidencia por separado (comunicar, involucrar a los afectados, sostener el cambio) y cuál es la tasa real de fracaso de los cambios.
+Sobre comunicar hay una primera respuesta, aunque no viene de estudios de programas de cambio. El metaanálisis de Shaw, Wild y Colquitt (2003), leído por su abstract, encontró que las explicaciones rinden más cuando la decisión perjudica a quien la recibe y cuando se dan como excusas y no como justificaciones. Bordia y colegas (2006) leen los rumores durante un cambio como expresión de lo que preocupa a la gente. Los dos están en [comunicar a toda la empresa](../../Comunicacion/Comunicacion-en-la-organizacion/comunicar-a-toda-la-empresa.md), con sus límites.
+
+> [!NOTE] Sin fuente todavía: qué prácticas de gestión del cambio tienen evidencia por separado cuando se aplican a un programa de cambio (comunicar, involucrar a los afectados, sostener el cambio) y cuál es la tasa real de fracaso de los cambios.
 
 La lectura que propone la investigación de esta base es el abstract de Hughes (2011), con la discusión de cada una de las cinco instancias, porque quita un número falso, y después Cummings et al. (2016) para no citar mal a Lewin.

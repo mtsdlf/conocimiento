@@ -19,6 +19,7 @@ fuentes:
   - "Ley 27.802 (BO 06/03/2026), Títulos XXIII y XXIV: https://biblioteca.afip.gob.ar/dcp/LEY_C_027802_2026_02_27"
   - "Leyes 27.743 (BO 08/07/2024), 27.799 (BO 02/01/2026) y 27.826 (BO 09/10/2026), biblioteca de ARCA, por su índice: https://biblioteca.afip.gob.ar/dcp/LEY_C_027743_2024_06_27"
   - "Impuestos/.investigacion/impuestos-a-la-renta.md (2026-11-27)"
+  - "INDEC, IPC Nivel General Nacional, base diciembre de 2016, serie 148.3_INIVELNAL_DICI_M_26 en la API de series de datos.gob.ar (consultada el 27/11/2026): https://apis.datos.gob.ar/series/api/series/?ids=148.3_INIVELNAL_DICI_M_26"
 aliases: [Ganancias, impuesto a las ganancias, Ganancias sociedades, Ganancias personas jurídicas, Ley 20.628, Ley 27.630, artículo 73, alícuota de Ganancias, escala de Ganancias, dividendos 7%, anticipos de Ganancias, ajuste por inflación impositivo, F. 713, tercera categoría]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -91,8 +92,7 @@ El ajuste de los primeros años se difirió:
 
 El ajuste impositivo difiere del contable: los estados contables se reexpresan por la norma contable ([normas contables en Argentina](../../Contabilidad/Estados-contables/normas-contables-en-argentina.md#el-ajuste-por-inflación)), y el impositivo sigue el procedimiento de la ley y solo corre pasado el umbral.
 
-> [!NOTE]
-> Sin fuente todavía: si el umbral del 100% en 36 meses se cumple para los cierres de 2026. Depende del IPC de cada cierre, y no se encontró una publicación oficial que lo diga.
+En los cierres de 2026 el umbral se cumple. No hay una publicación oficial que lo declare, pero la cuenta sale de la serie del IPC nacional del INDEC (base diciembre de 2016): para un cierre en enero de 2026, el índice pasó de 1.202,98 en enero de 2023 a 10.413,03 (766 %); para uno en octubre de 2026, de 2.496,27 a 12.785,93 (412 %). Para el cierre de diciembre de 2026 falta el índice de diciembre, pero con el de octubre el acumulado ya es de al menos 262 % sobre los 3.533,19 de diciembre de 2023, si el índice no baja en noviembre y diciembre. La tabla completa está en [proyectos de inversión en Argentina](../../Proyectos-de-inversion/proyectos-de-inversion-en-argentina.md).
 
 ## Quebrantos
 

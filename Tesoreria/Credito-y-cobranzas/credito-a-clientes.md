@@ -115,7 +115,9 @@ APQC solo nombra la tarea de administrar las garantías del cliente (9.7.5.4.3).
 - Prenda: derecho real de garantía sobre cosas muebles no registrables o créditos instrumentados, que se constituye por contrato y entrega de la cosa (art. 2219), o prenda con registro para cualquier obligación (art. 2220).
 - Hipoteca: derecho real sobre inmuebles que siguen en poder de quien los da, con persecución y preferencia para cobrar sobre su producido (art. 2205).
 
-> [!NOTE] Sin fuente todavía: el pagaré y el aval cambiario (Decreto-Ley 5965/63), la carta de crédito, cuándo conviene pedir cada garantía a un cliente y cómo se ejecutan.
+Con un cliente del exterior, una de las garantías posibles es la [carta de crédito](../../Cadena-de-suministro-y-logistica/Comercio-exterior/carta-de-credito.md): un banco, a pedido del importador, se compromete en forma irrevocable a pagar si se presentan los documentos que el crédito exige. Cómo la trata el Código Civil y Comercial (art. 1802) está en [pagos del comercio exterior en Argentina](../../Cadena-de-suministro-y-logistica/Comercio-exterior/pagos-del-comercio-exterior-en-argentina.md).
+
+> [!NOTE] Sin fuente todavía: el pagaré y el aval cambiario (Decreto-Ley 5965/63), cuándo conviene pedir cada garantía a un cliente y cómo se ejecutan.
 
 El seguro de crédito comercial cubre la pérdida por insolvencia o falta de pago prolongada del cliente. Hay dos fuentes y ninguna es una póliza argentina: una enciclopedia abierta con aviso de citas faltantes (según su resumen) y EXIM, que asegura a exportadores de Estados Unidos. Según la enciclopedia:
 
