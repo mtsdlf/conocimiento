@@ -47,6 +47,6 @@ En los dos casos, la frontera entre lo horizontal y lo del rubro es una integrac
 
 ## Para quien construye: dónde está la ventaja
 
-En la lectura de esta base, el rubro es la puerta de entrada más común para un software nuevo. El núcleo administrativo está resuelto por muchos y es caro de reescribir por la normativa de cada país; la parte operativa de un rubro chico suele estar mal servida por los horizontales. El riesgo es el inverso: un vertical sin buen núcleo administrativo termina integrándose con un ERP o reescribiendo la contabilidad. El análisis de por dónde entrar a este mercado es de la vertical de mercado y economía del tema.
+En la lectura de esta base, el rubro es la puerta de entrada más común para un software nuevo. El núcleo administrativo está resuelto por muchos y es caro de reescribir por la normativa de cada país; la parte operativa de un rubro chico suele estar mal servida por los horizontales. El riesgo es el inverso: un vertical sin buen núcleo administrativo termina integrándose con un ERP o reescribiendo la contabilidad. El análisis de por dónde entrar a este mercado está en [dónde entra un software nuevo](../Mercado-y-economia/donde-entra-un-software-nuevo.md).
 
 > [!NOTE] Sin fuente todavía: una definición con criterios de software vertical y horizontal, y un estudio con método que compare su adopción o su resultado por industria. El candidato a leer es Loh y Ching (2004), sobre implantaciones de ERP en pymes, visto solo como cita.

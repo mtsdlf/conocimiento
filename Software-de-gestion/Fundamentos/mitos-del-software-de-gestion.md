@@ -76,7 +76,7 @@ Lo que no se sabe: si un ERP tiene una cola más gruesa que otros proyectos de T
 
 ## «Un ERP trae las mejores prácticas»
 
-La promesa del paquete es que adoptarlo ordena la empresa con la práctica de muchas otras. Davenport (1998), según un resumen, respondió que el sistema «imposes its own logic» aunque los procesos propios sean fuente de ventaja. Soh, Sia y Tay-Yap (2000) estudiaron un hospital de Singapur y, según resúmenes, hallaron menos desajustes en contabilidad y finanzas, donde las normas internacionales dan algo de estandarización, y más en el sistema de atención de pacientes. Wagner y Newell (2004), según su abstract, estudiaron un paquete de «mejores prácticas» para una universidad y señalan una brecha entre la teoría declarada de la solución y la teoría en uso de quienes la instalan.
+La promesa del paquete es que adoptarlo ordena la empresa con la práctica de muchas otras. La discuten Davenport (1998), Soh, Sia y Tay-Yap (2000) y Wagner y Newell (2004), y lo que dice cada uno está en [análisis de brechas](../Implementacion/analisis-de-brechas.md#adaptar-el-proceso-o-el-software). Soh y otros estudiaron un hospital de Singapur y, según resúmenes, hallaron menos desajustes en contabilidad y finanzas, donde las normas internacionales dan algo de estandarización, y más en el sistema de atención de pacientes.
 
 En lectura de esta base, la práctica del paquete encaja donde el dominio ya está normado (la partida doble, el impuesto) y se discute donde la empresa compite. Cómo se decide cada brecha está en [análisis de brechas](../Implementacion/analisis-de-brechas.md).
 
@@ -84,7 +84,7 @@ Lo que no se sabe: si adoptar la práctica del paquete rinde más que adaptarlo;
 
 ## «La vainilla siempre conviene»
 
-Se recomienda implantar sin personalizar porque cada cambio se paga en cada actualización. Light (2001), en dos casos y según su abstract, halla que personalizar puede dar valor y que cada personalización debe evaluarse por su efecto en el mantenimiento futuro. Hong, Siau y Kim (2016), con 96 respuestas de pymes manufactureras coreanas, no hallaron efecto del nivel de personalización sobre el desempeño (según su resumen). Según su resumen, la fe de erratas de Gattiker y Goodhue (2005) dice que sus hipótesis sobre personalización no se sostuvieron. Una consultora propone como «ideal» entre 10 y 20 % de personalización, sin método publicado.
+Se recomienda implantar sin personalizar porque cada cambio se paga en cada actualización. Ninguno de los estudios leídos (Light 2001, Gattiker y Goodhue 2005, Hong, Siau y Kim 2016) sostiene la regla ni la refuta, y la cifra «ideal» de una consultora, entre 10 y 20 % de personalización, no tiene método publicado; lo que halló cada uno está en [análisis de brechas](../Implementacion/analisis-de-brechas.md#lo-que-dice-la-evidencia).
 
 Gartner contó en 2025 entre las causas de fracaso la personalización atada a los procesos existentes (según The Register). El mecanismo y su costo están en [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md).
 

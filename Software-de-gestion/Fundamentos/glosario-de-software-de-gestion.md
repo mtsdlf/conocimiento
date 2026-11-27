@@ -91,8 +91,8 @@ En lectura de esta base, el campo no tiene una norma de terminología propia, y 
 | Multi-tenancy | Multi-tenancy | Servir a varios clientes desde una misma instancia con los datos aislados; es alojamiento, no columna, y no es multiempresa | [multi-tenancy](../../Arquitectura/Sistemas-distribuidos/multi-tenancy.md), [estructura de la organización](../Columnas-tecnicas/estructura-de-la-organizacion.md) |
 | Permiso de rol, permiso de registro | Role permission, record rule | Qué puede hacer un rol con un tipo de documento, y sobre qué registros (su empresa, su zona) | [permisos y separación de funciones](../Columnas-tecnicas/permisos-y-separacion-de-funciones.md) |
 | Separación de funciones | Segregation of duties (SoD) | Que ninguna persona autorice, registre y custodie la misma operación de punta a punta | [permisos y separación de funciones](../Columnas-tecnicas/permisos-y-separacion-de-funciones.md), [separación de funciones](../../Contabilidad/Control-interno/separacion-de-funciones.md) |
-| Rastro de auditoría (pista de auditoría) | Audit trail, audit log | Quién creó, modificó o anuló cada registro, y cuándo; cubre lo que sí se edita, como maestros y configuración | [auditoría de cambios](../Columnas-tecnicas/auditoria-de-cambios.md), [controles sobre sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md) |
-| Sistema que manda, fuente de verdad | System of record, source of truth | El sistema cuyo valor de un dato vale cuando dos sistemas lo tienen | [integración y migración](../Columnas-tecnicas/integracion-y-migracion.md), [sistemas de gestión del comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md) |
+| Pista de auditoría (rastro de auditoría) | Audit trail, audit log | Quién creó, modificó o anuló cada registro, y cuándo; cubre lo que sí se edita, como maestros y configuración | [auditoría de cambios](../Columnas-tecnicas/auditoria-de-cambios.md), [controles sobre sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md) |
+| Sistema que manda (sistema de registro, fuente de verdad) | System of record, source of truth | El sistema cuyo valor de un dato vale cuando dos sistemas lo tienen | [integración y migración](../Columnas-tecnicas/integracion-y-migracion.md), [sistemas de gestión del comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md) |
 | Estilo de integración | Integration style | Cómo se pasan datos dos sistemas: archivo, base compartida, llamada remota o mensajería (Hohpe y Woolf) | [integración y migración](../Columnas-tecnicas/integracion-y-migracion.md) |
 | Configurar | Configure | Cambiar el comportamiento cargando datos (tipos, reglas, parámetros), sin código | [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md) |
 | Nivel de conocimiento | Knowledge level | Los objetos cuyas instancias gobiernan el comportamiento de los demás; el fundamento de la configuración, según Fowler | [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md) |
@@ -105,7 +105,7 @@ En lectura de esta base, el campo no tiene una norma de terminología propia, y 
 
 | Término | Inglés | Qué es | Dónde |
 |---|---|---|---|
-| Implantación | Implementation | Llevar un producto a una empresa: elegirlo, adaptarlo, migrar, ponerlo en marcha y sostenerlo | [implementación](../Implementacion/implementacion.md) |
+| Implementación, implantación | Implementation | Llevar un producto a una empresa: elegirlo, adaptarlo, migrar, ponerlo en marcha y sostenerlo | [implementación](../Implementacion/implementacion.md) |
 | Fases de Markus y Tanis | Chartering, project, shakedown, onward and upward | El ciclo de una implantación en cuatro fases: decidir, hacer, estabilizar y mejorar | [implementación](../Implementacion/implementacion.md) |
 | Factor crítico de éxito | Critical success factor (CSF) | Lo que las encuestas asocian con implantaciones que salen bien; listas inducidas, sin causalidad probada | [implementación](../Implementacion/implementacion.md) |
 | Análisis de brechas | Fit-gap analysis | Comparar lo que trae el producto con lo que la empresa necesita y decidir, por cada brecha, si se adapta el proceso o el software | [análisis de brechas](../Implementacion/analisis-de-brechas.md) |
@@ -131,24 +131,33 @@ En lectura de esta base, el campo no tiene una norma de terminología propia, y 
 | Suscripción | Subscription | El pago periódico por usar el software, que se corta cuando se deja de pagar | [licencia y suscripción](../Mercado-y-economia/licencia-y-suscripcion.md), [SaaS](../../Emprender/Modelo-de-negocio/saas.md) |
 | Usuario nombrado, usuario concurrente | Named user, concurrent user | Cobrar por persona habilitada o por cuántas usan el sistema a la vez | [licencia y suscripción](../Mercado-y-economia/licencia-y-suscripcion.md) |
 | Partner | Partner | La empresa que revende, implanta o extiende el producto de un proveedor | [canal de partners](../Mercado-y-economia/canal-de-partners.md), [partners de implementación](../Implementacion/partners-de-implementacion.md) |
-| Revendedor con valor agregado | Value-added reseller (VAR) | El partner que revende la licencia y suma servicios de implantación y soporte | [canal de partners](../Mercado-y-economia/canal-de-partners.md) |
+| Revendedor de valor agregado | Value-added reseller (VAR) | El partner que revende la licencia y suma servicios de implantación y soporte | [canal de partners](../Mercado-y-economia/canal-de-partners.md) |
 | Tienda de extensiones | Marketplace, app store | El lugar donde terceros publican extensiones del producto, con un reparto de ingresos | [ecosistema de extensiones](../Mercado-y-economia/ecosistema-de-extensiones.md), [ecosistema de terceros](../../Producto/Plataformas/ecosistema-de-terceros.md) |
 | Costo total de propiedad | Total cost of ownership (TCO) | Todo lo que paga quien compra: licencia, implantación, personalización, operación, actualización y su propio equipo | [costo total para quien compra](../Mercado-y-economia/costo-total-para-quien-compra.md), [costo total de adquisición](../../Compras-y-abastecimiento/Abastecimiento-estrategico/costo-total-de-adquisicion.md) |
 | Costo de cambio | Switching cost | Lo que le cuesta a una empresa dejar un sistema por otro | [costos de cambio](../../Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md) |
+
+## Lo propio de la Argentina
+
+| Término | Inglés | Qué es | Dónde |
+|---|---|---|---|
+| ARCA | — | El fisco nacional, que reemplazó a la AFIP por el Decreto 953/2024 | [impuestos en Argentina](../../Impuestos/impuestos-en-argentina.md) |
+| CAE | — | Código de autorización electrónico que ARCA le da a cada comprobante en el momento, por web service; sin él el comprobante no está autorizado | [software de gestión en la Argentina](../software-de-gestion-en-argentina.md), [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md) |
+| CAEA | — | Código que se pide por anticipado para una quincena y se informa después; desde el 1 de junio de 2026 queda para las contingencias | [software de gestión en la Argentina](../software-de-gestion-en-argentina.md#el-caea-pasó-a-ser-la-contingencia) |
+| Controlador fiscal | — | El equipo homologado con el que se emiten comprobantes como alternativa a la factura electrónica por web service; lo que se homologa es el equipo, no el software de gestión | [software de gestión en la Argentina](../software-de-gestion-en-argentina.md) |
 
 ## Las siglas
 
 | Sigla | Qué es |
 |---|---|
 | ERP, CRM, HCM, SCM, WMS, TMS, MES, QMS, FSM, PSA, EAM, CMMS | Las categorías de producto, arriba |
-| SFA | *Sales force automation*, la automatización de ventas del CRM |
+| SFA | *Sales force automation*, la automatización de la fuerza de ventas del CRM |
 | HRIS | *Human resources information system*: el sistema que guarda y recupera los registros de empleados |
 | SCE | *Supply chain execution*: el grupo de Gartner que junta WMS y TMS |
-| MOM | *Manufacturing operations management*: el nivel 3 de ISA-95 (ver [marcos de la producción](../../Produccion/Fundamentos/marcos-de-la-produccion.md)) |
+| MOM | *Manufacturing operations management*: el nivel 3 de ISA-95, que explica [marcos de la producción](../../Produccion/Fundamentos/marcos-de-la-produccion.md) |
 | ITSM | *IT service management*: la mesa de ayuda de soporte interno de TI, otro mercado |
 | SoD | *Segregation of duties*, la separación de funciones |
 | TCO | *Total cost of ownership*, el costo total de propiedad |
-| VAR, SI | Revendedor con valor agregado e integrador |
+| VAR, SI | Revendedor de valor agregado e integrador |
 | CSF | *Critical success factor*, factor crítico de éxito |
 | ISA-95 (IEC 62264) | La norma que separa el nivel del negocio (4) del de la planta (3) |
-| APQC PCF | El marco de procesos de APQC, que este tema usa para comparar categorías (ver [marcos de procesos](../../Procesos-de-negocio/Fundamentos/marcos-de-procesos.md)) |
+| APQC PCF | El marco de procesos de APQC, que este tema usa para comparar categorías y que describe [marcos de procesos](../../Procesos-de-negocio/Fundamentos/marcos-de-procesos.md) |

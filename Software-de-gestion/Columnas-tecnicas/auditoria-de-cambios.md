@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La auditoría de cambios es el rastro de quién cambió qué dato, cuándo y de qué valor a qué valor, sobre todo en lo que un software de gestión sí deja editar (los datos maestros, la configuración y los permisos), que no deja movimientos. Sirve para reconstruir lo que el sistema creía en una fecha y quién lo cambió.
+  La auditoría de cambios es la pista de quién cambió qué dato, cuándo y de qué valor a qué valor, sobre todo en lo que un software de gestión sí deja editar (los datos maestros, la configuración y los permisos), que no deja movimientos. Sirve para reconstruir lo que el sistema creía en una fecha y quién lo cambió.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -16,15 +16,15 @@ revisado:
 
 # Auditoría de cambios
 
-La auditoría de cambios es el rastro de quién cambió qué dato, cuándo y de qué valor a qué valor, sobre todo en lo que un software de gestión sí deja editar (los datos maestros, la configuración y los permisos), que no deja movimientos. Sirve para reconstruir lo que el sistema creía en una fecha y quién lo cambió.
+La auditoría de cambios es la pista de quién cambió qué dato, cuándo y de qué valor a qué valor, sobre todo en lo que un software de gestión sí deja editar (los datos maestros, la configuración y los permisos), que no deja movimientos. Sirve para reconstruir lo que el sistema creía en una fecha y quién lo cambió.
 
 El control interno pide esa pista. Según [controles sobre los sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md#el-registro-de-quién-hizo-qué), la guía GTAG del IIA exige un registro que siga el dato desde la entrada hasta la salida, y la Green Book lo liga a que nadie pueda negar después una acción suya. Acá va dónde se guarda en el software y qué parte del sistema la necesita.
 
-## Lo que ya es su propio rastro
+## Lo que ya es su propia pista
 
 Una parte del sistema no necesita auditoría aparte. Un [documento](documento-y-estados.md) confirmado no se edita, y el [registro de movimientos](registro-de-movimientos-y-dimensiones.md) solo agrega filas: el error y su corrección quedan los dos a la vista. Para eso alcanza con que cada documento guarde quién lo creó, lo aprobó, lo confirmó y lo anuló, con la fecha de cada paso.
 
-Lo que sí se edita no deja ese rastro solo. En lectura de esta base, son cuatro cosas:
+Lo que sí se edita no deja esa pista solo. En lectura de esta base, son cuatro cosas:
 
 | Lo que se edita | Ejemplo | Dominio |
 |---|---|---|

@@ -5,7 +5,7 @@ estado: borrador
 estabilidad: volatil
 fuentes:
   - "Software-de-gestion/.investigacion/normativa-argentina.md (2026-11-27)"
-  - "ARCA, manual WSFEv1 «RG 4291 – Proyecto FE v4.8», revisión del 1 de diciembre de 2026: https://www.arca.gob.ar/fe/ayuda/documentos/wsfev1-RG-4291.pdf"
+  - "ARCA, manual WSFEv1 «RG 4291 – Proyecto FE v4.8», versión anticipada, «Revisión correspondiente al 1 de Diciembre de 2026» (lo que rige desde esa fecha), publicada en la ayuda de factura electrónica: https://www.arca.gob.ar/fe/ayuda/documentos/wsfev1-RG-4291.pdf"
   - "ARCA, manual del desarrollador WSAA, publicación 20.2.19: https://www.arca.gob.ar/ws/WSAA/WSAAmanualDev.pdf"
   - "ARCA, WSAA y certificados: https://www.arca.gob.ar/ws/documentacion/wsaa.asp y https://www.arca.gob.ar/ws/documentacion/certificados.asp"
   - "ARCA, puntos de venta: https://www.arca.gob.ar/facturacion/documentos/puntos-de-venta.pdf"
@@ -37,6 +37,8 @@ En la Argentina la norma le pide a un sistema de gestión que autorice cada comp
 
 > [!WARNING]
 > Ley y dinero: esto no reemplaza a un contador ni a un abogado tributarista. Las normas se leyeron el 2026-11-27 y cambian varias veces por año; antes de construir, se lee la versión vigente del manual y de la norma.
+
+Tres siglas se usan en toda la nota: ARCA es el fisco nacional (la Agencia de Recaudación y Control Aduanero, que reemplazó a la AFIP por el Decreto 953/2024, como cuenta [impuestos en Argentina](../Impuestos/impuestos-en-argentina.md#arca-el-fisco-nacional)); el CAE es el código de autorización electrónico que ARCA le da a cada comprobante en el momento, y el CAEA es un código que se pide por anticipado para una quincena y se informa después ([factura electrónica de ARCA](../Comercio-electronico/Normativa/factura-electronica-de-arca.md)).
 
 Las reglas en sí viven en sus temas: quién factura y con qué letra, en [factura electrónica de ARCA](../Comercio-electronico/Normativa/factura-electronica-de-arca.md); el IVA, en [IVA en Argentina](../Impuestos/Impuestos-al-consumo/iva-en-argentina.md); los regímenes de recaudación, en [retenciones y percepciones en Argentina](../Impuestos/Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md); el mapa de impuestos, en [impuestos en Argentina](../Impuestos/impuestos-en-argentina.md). En qué paso de cada recorrido cae cada control está en [procesos de negocio en la Argentina](../Procesos-de-negocio/procesos-de-negocio-en-argentina.md). Acá va lo que cada regla le cambia al diseño del sistema, ordenado por la [columna técnica](Columnas-tecnicas/columnas-tecnicas.md) a la que toca.
 

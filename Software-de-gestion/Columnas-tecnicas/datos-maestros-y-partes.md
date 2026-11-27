@@ -45,7 +45,7 @@ El caso que lo justifica aparece en dos dominios a la vez. Una empresa que le ve
 | Equipo | [registro de activos](../../Activos-y-mantenimiento/Registro-de-activos/registro-de-activos.md) | orden de trabajo, mantenimiento preventivo |
 | Cuenta contable | [plan de cuentas](../../Contabilidad/Registro/plan-de-cuentas.md) | todas las reglas que generan asientos |
 
-Un maestro cambia poco y cada cambio importa; una transacción es un hecho con fecha que no se edita una vez confirmado. Esa diferencia decide el resto del diseño. Los hechos quedan en el [documento](documento-y-estados.md) y en el [registro de movimientos](registro-de-movimientos-y-dimensiones.md), que son su propio rastro. Los maestros sí se editan, y por eso su rastro es la [auditoría de cambios](auditoria-de-cambios.md).
+Un maestro cambia poco y cada cambio importa; una transacción es un hecho con fecha que no se edita una vez confirmado. Esa diferencia decide el resto del diseño. Los hechos quedan en el [documento](documento-y-estados.md) y en el [registro de movimientos](registro-de-movimientos-y-dimensiones.md), que son su propia pista. Los maestros sí se editan, y por eso su pista es la [auditoría de cambios](auditoria-de-cambios.md).
 
 El documento copia algunos datos del maestro al confirmarse (el domicilio de entrega, la condición de IVA del cliente, el precio) y referencia el resto. Una factura emitida tiene que mostrar el domicilio que tenía el cliente ese día, no el de hoy. Qué se copia y qué se referencia es una decisión por campo, y equivocarse en un sentido o en el otro reescribe la historia o la congela de más (lectura de esta base). Los datos que valen desde una fecha, como un precio o un sueldo, se resuelven con [vigencias](fechas-vigencias-y-cierre.md).
 

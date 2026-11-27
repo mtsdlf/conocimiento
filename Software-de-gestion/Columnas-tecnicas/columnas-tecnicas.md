@@ -38,7 +38,7 @@ La prueba es la de un dominio cualquiera. El [pedido de venta](../../Relacion-co
 | [Cantidades, unidades y monedas](cantidades-unidades-y-monedas.md) | un número siempre con su unidad o su moneda; conversión, redondeo, diferencia de cambio | la unidad vive en el maestro; el tipo de cambio depende de la fecha |
 | [Estructura de la organización](estructura-de-la-organizacion.md) | varias empresas, sucursales y depósitos; qué se comparte | una sucursal puede ser dimensión o empresa; restringe los permisos |
 | [Permisos y separación de funciones](permisos-y-separacion-de-funciones.md) | rol sobre documento, restricción por registro, incompatibilidades | las acciones son los estados del documento; lo permitido deja rastro en la auditoría |
-| [Auditoría de cambios](auditoria-de-cambios.md) | quién cambió qué en lo que se edita: maestros, configuración, permisos | lo que no se edita ya es su propio rastro (movimientos) |
+| [Auditoría de cambios](auditoria-de-cambios.md) | quién cambió qué en lo que se edita: maestros, configuración, permisos | lo que no se edita ya es su propia pista (movimientos) |
 | [Integración y migración](integracion-y-migracion.md) | qué sistema manda en cada dato, estilos de integración, carga inicial | la carga inicial es de maestros y saldos; leer tablas por afuera es personalizar |
 | [Configurar o personalizar](configurar-o-personalizar.md) | comportamiento como datos, extensión, modificación y su costo al actualizar | casi todo lo de las otras columnas es configurable o no; ahí se decide |
 | [Reportes operativos y legales](reportes-operativos-y-legales.md) | los listados del día y los libros con corte a una fecha | dependen del cierre (fechas) y de las dimensiones (movimientos) |
@@ -86,7 +86,7 @@ Para construir un sistema, el orden de lectura es el de la venta de arriba: prim
 - [Cantidades, unidades y monedas](cantidades-unidades-y-monedas.md) — conversiones, redondeo y varias monedas en un mismo documento.
 - [Estructura de la organización](estructura-de-la-organizacion.md) — varias empresas y sucursales, qué se comparte, y por qué no es multi-tenancy.
 - [Permisos y separación de funciones](permisos-y-separacion-de-funciones.md) — las tres capas de permisos y la incompatibilidad como dato configurable.
-- [Auditoría de cambios](auditoria-de-cambios.md) — el rastro de lo que se edita: maestros, configuración y permisos.
+- [Auditoría de cambios](auditoria-de-cambios.md) — la pista de lo que se edita: maestros, configuración y permisos.
 - [Integración y migración](integracion-y-migracion.md) — qué sistema manda en cada dato, los cuatro estilos de Hohpe y Woolf y la carga inicial.
 - [Configurar o personalizar](configurar-o-personalizar.md) — el nivel de conocimiento de Fowler, configurar, extender o modificar, y lo que cuesta cada uno al actualizar.
 - [Reportes operativos y legales](reportes-operativos-y-legales.md) — los listados del día y los libros con corte a una fecha; el análisis va a Datos.

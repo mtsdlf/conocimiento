@@ -25,7 +25,7 @@ Es la primera fase del ciclo de [implementación](implementacion.md): en el mode
 
 ## Lo que dice la literatura sobre cómo se elige
 
-La literatura académica sobre selección es chica y no da un método probado. Según un resumen, Ratkevičius y otros (2012) encuentran que no hay una clasificación estándar de criterios, y que se suelen partir en criterios del software y criterios de la implantación. Según el mismo resumen, los métodos de decisión se apoyan en programación matemática y teoría de decisión (AHP, ANP, DEA), y otras líneas identifican factores críticos de la evaluación sin dar una guía para hacer el proceso.
+La literatura académica sobre selección es chica y no da un método probado. Según un resumen, Ratkevičius y otros (2012) encuentran que no hay una clasificación estándar de criterios, y que se suelen partir en criterios del software y criterios de la implantación. Según el mismo resumen, los métodos de decisión se apoyan en programación matemática y teoría de decisión (AHP y ANP, que comparan opciones de a pares con pesos por criterio, y DEA, que mide la eficiencia relativa de cada opción), y otras líneas identifican factores críticos de la evaluación sin dar una guía para hacer el proceso.
 
 El trabajo de SINTEF revisó 16 artículos sobre selección de ERP y, según su resumen, solo cinco proponían un método paso a paso. Lo que sigue es un método general armado por esta base con la práctica de consultoras; ninguna fuente leída lo describe en estos seis pasos.
 

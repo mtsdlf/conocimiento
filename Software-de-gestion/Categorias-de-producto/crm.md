@@ -32,7 +32,7 @@ Wikipedia, apoyada en la literatura académica del CRM, distingue tres component
 
 | Producto | Qué lleva | Dominio de esta base |
 |---|---|---|
-| Automatización de ventas | Interesados, oportunidades, actividades, embudo, previsión | [Relación con clientes](../../Relacion-con-clientes/relacion-con-clientes.md); el embudo como método, en [Ventas](../../Ventas/ventas.md) |
+| Automatización de la fuerza de ventas | Interesados, oportunidades, actividades, embudo, previsión | [Relación con clientes](../../Relacion-con-clientes/relacion-con-clientes.md); el embudo como método, en [Ventas](../../Ventas/ventas.md) |
 | Atención al cliente | El caso, su escalamiento y sus tiempos | [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md); como categoría, en [mesa de ayuda](servicio-de-campo-y-mesa-de-ayuda.md) |
 | Automatización de marketing | Campañas, segmentos, envíos | [Marketing](../../Marketing/marketing.md) |
 

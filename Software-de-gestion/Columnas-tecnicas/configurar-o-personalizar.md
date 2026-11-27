@@ -47,8 +47,8 @@ Brehm, Heinzl y Markus (2001) propusieron una tipología de las formas de adapta
 
 | Bloque | Tipos, de menos a más invasivo (Leyh 2012) |
 |---|---|
-| Modificación, sin tocar el código fuente | configuración, ajuste de pantallas, ajuste de reportes, complementos de terceros (*bolt-ons*), programación de flujos de trabajo |
-| Desarrollo | desarrollo de interfaces, programación en el lenguaje del producto, puntos de extensión que da el proveedor (*user exits*), modificación del código del paquete |
+| Modificación, sin tocar el código fuente | configuración, ajuste de pantallas, ajuste de reportes, complementos de terceros que se agregan al producto (*bolt-ons*), programación de flujos de trabajo |
+| Desarrollo | desarrollo de interfaces, programación en el lenguaje del producto, puntos de extensión que da el proveedor para enganchar código propio (*user exits*), modificación del código del paquete |
 
 En este tema se usan tres palabras: **configurar** es cambiar datos del nivel de conocimiento; **extender** es agregar código propio por un punto que el producto prevé; **modificar** es cambiar el código del producto.
 
@@ -60,7 +60,7 @@ Dittrich y Vaucouleur (2008) lo estudiaron con entrevistas a tres consultores y 
 
 Un caso de 2018, una petrolera africana, llega a lo mismo. Gool y Seymour concluyen que «ERP modifications need to be reapplied and tested with each upgrade», y la empresa tuvo que reducir sus objetos a medida antes de la siguiente actualización.
 
-Los productos empujan en esa dirección. La documentación de un ERP de un proveedor grande cuenta que reemplazó la modificación por capas con extensiones, porque las actualizaciones frecuentes piden «a less intrusive customization model», y hoy dice «Overlayering isn't supported». Un ERP de código abierto permite agregar campos y propiedades desde una pantalla, sin tocar el tipo de documento base, con un botón para deshacer todas las personalizaciones.
+Los productos empujan en esa dirección. La documentación de un ERP de un proveedor grande cuenta que reemplazó la modificación por capas (overlayering: cambiar el código del producto en una capa propia que lo pisa) con extensiones, porque las actualizaciones frecuentes piden «a less intrusive customization model», y hoy dice «Overlayering isn't supported». Un ERP de código abierto permite agregar campos y propiedades desde una pantalla, sin tocar el tipo de documento base, con un botón para deshacer todas las personalizaciones.
 
 > [!NOTE]
 > Sin fuente todavía: una medición independiente de cuánto encarece cada actualización una personalización. Las cifras que circulan (un porcentaje del costo de la implantación por cada actualización) salen de consultoras y vendedores, sin estudio primario leído, y no se usan.
@@ -68,7 +68,7 @@ Los productos empujan en esa dirección. La documentación de un ERP de un prove
 ## Lo que no se sabe sobre personalizar
 
 > [!IMPORTANT]
-> «No personalizar» no tiene la evidencia que parece. Según el resumen de Davenport (1998), el sistema impone su lógica a la empresa y la complejidad vuelve impracticables las modificaciones grandes. Light (2001), por su abstract, no concluye «nunca», sino que cada personalización se evalúe por su efecto en el mantenimiento. Según un resumen, Hong, Siau y Kim (2016), con 96 pymes manufactureras de Corea, no encontraron efecto del nivel de personalización sobre el desempeño del ERP. Las muestras son chicas, de un país, y autoinformadas. Cómo se usa esto para decidir está en [análisis de brechas](../Implementacion/analisis-de-brechas.md).
+> «No personalizar» no tiene la evidencia que parece. Según el resumen de Davenport (1998), el sistema impone su lógica a la empresa y la complejidad vuelve impracticables las modificaciones grandes. Los estudios leídos sobre personalizar (Light 2001; Hong, Siau y Kim 2016) no concluyen «nunca», y sus muestras son chicas; lo que dice cada uno y cómo se usa para decidir está en [análisis de brechas](../Implementacion/analisis-de-brechas.md#lo-que-dice-la-evidencia).
 
 ## Cómo falla
 

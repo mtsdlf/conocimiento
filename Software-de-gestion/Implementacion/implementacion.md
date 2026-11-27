@@ -64,7 +64,7 @@ Las cifras de fracaso de ERP que circulan cambian según la definición, la mues
 
 | Quién | Qué dice | Método | Interés |
 |---|---|---|---|
-| Gartner (2025) | «70 % of ERP initiatives fail to fully meet their original business use case goals» y 25 % «fail catastrophically» | No publicado: la nota de prensa que lo cuenta aclara que no explica cómo se llegó a los porcentajes. Según el resumen de su página (que dio 403), lo presenta como pronóstico y no como medición | Analista que vende asesoramiento a quien compra |
+| Gartner (2025) | «70 % of ERP initiatives fail to fully meet their original business use case goals» y 25 % «fail catastrophically» | No publicado: el artículo de prensa que lo cuenta aclara que no se explicó cómo se llegó a los porcentajes. Según el resumen de su página (que dio 403), lo presenta como pronóstico y no como medición | Analista que vende asesoramiento a quien compra |
 | Panorama Consulting (2017) | 74 % con sobrecosto, 59 % con atraso, duración media de 16,9 meses, 56 % con una interrupción operativa material en la puesta en marcha | Encuesta en su sitio web de marzo de 2016 a febrero de 2017, 342 respuestas, muestra autoseleccionada | Consultora que vende selección, gestión de la implantación y gestión del cambio |
 | Panorama Consulting (2024) | «More than half of organizations in our study stayed within their expected budget», con un costo mediano de USD 450.000 | Encuesta de agosto de 2022 a diciembre de 2023, 131 respuestas, muestra autoseleccionada | La misma |
 | Flyvbjerg y Budzier (2011) | Sobre 1.471 proyectos de TI, sobrecosto promedio de 27 %, y uno de cada seis con un sobrecosto promedio de 200 % | Base de proyectos con costo estimado y real; proyectos de TI en general, no de ERP | Académico |

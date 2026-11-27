@@ -69,7 +69,7 @@ Dentro de la academia se distinguen tres líneas: la que discute qué es un ERP 
 
 | Obra | Qué parte | En qué fijarse | Leída |
 |---|---|---|---|
-| Light, Holland y Wills (2001), «ERP and best of breed: a comparative analysis» | La comparación de criterios | Complejidad de implantación, ajuste y mantenimiento de cada camino; es un caso | No |
+| Light, Holland y Wills (2001), «ERP and best of breed: a comparative analysis» | La comparación de criterios | Complejidad de implantación, ajuste y mantenimiento de cada camino; es un caso | Abstract |
 | Light, Holland, Kelly y Willis (2000), ECIS | Entero | El argumento a favor de combinar piezas | Abstract |
 | ISA-95 (IEC 62264), Partes 1 a 3 | Los niveles 3 y 4 y el modelo de actividades | Qué viaja entre el ERP y el MES; las cuatro categorías de operación. Ya resumido en [marcos de la producción](../../Produccion/Fundamentos/marcos-de-la-produccion.md) | La página de ISA y una vista previa |
 | ISO 55000 | El vocabulario del ciclo de vida | Dónde termina el EAM frente al CMMS | No |
