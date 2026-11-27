@@ -93,7 +93,7 @@ El mapa de historias de Patton ordena el trabajo según el recorrido de la perso
 
 Arriba va la columna vertebral (*backbone*): "the essential capabilities the system needs to have". Primero va el walking skeleton, término de Alistair Cockburn: "the smallest possible system you could build that would give you end to end functionality". Las entregas se cortan con "horizontal swim lanes for each release", de lado a lado, para no sacar "a car without brakes". Patton lo une al [producto mínimo viable](../../Emprender/Validacion/producto-minimo-viable.md): "we'll need all of them to deliver a minimum viable product".
 
-El mapa decide orden y cortes; cada pedazo se escribe después como [historia de usuario](../../Desarrollo/Especificacion-y-prueba/historia-de-usuario.md), con sus criterios de aceptación. El breadboard y el mapa buscan el sistema mínimo de punta a punta con notaciones distintas; ninguna fuente los compara.
+El mapa decide orden y cortes; cada pedazo se escribe después como [historia de usuario](../../Desarrollo/Definicion/historia-de-usuario.md), con sus criterios de aceptación. El breadboard y el mapa buscan el sistema mínimo de punta a punta con notaciones distintas; ninguna fuente los compara.
 
 ## Lo que no se sabe
 
