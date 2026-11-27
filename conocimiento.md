@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Arquitectura e IA tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Arquitectura, IA y Gestión de proyectos tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -77,6 +77,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Estrategia competitiva](Estrategia-competitiva/estrategia-competitiva.md) — por qué una industria rinde lo que rinde, de dónde sale una ventaja que dura, cómo se mueven los rivales y cómo se analiza a los competidores antes de diseñar un producto, con su evidencia.
 - [Ventas](Ventas/ventas.md) — del problema del cliente al acuerdo: descubrimiento y calificación, la propuesta y el precio, objeciones y negociación, formas de vender y medición comercial, con la poca evidencia independiente que tienen los métodos dicha en cada nota.
 - [Storytelling](Storytelling/storytelling.md) — contar una historia para convencer: de qué está hecha, cuánto persuade frente a los datos, las estructuras (arco, viaje del héroe, ABT, pirámide de Minto) y sus usos en la marca, la venta, la presentación de ideas y el cambio, con la evidencia de cada receta.
+- [Gestión de proyectos](Gestion-de-proyectos/gestion-de-proyectos.md) — llevar cualquier trabajo con incertidumbre hasta un resultado cuando parte lo ejecutan agentes: encuadre, enfoque según la incertidumbre, planificación y pronóstico, el reparto entre personas y agentes, seguimiento, riesgo y gobierno, con la evidencia de cada práctica y lo que pierde peso.
 - [Planillas de cálculo](Planillas-de-calculo/planillas-de-calculo.md) — Excel y Google Sheets para trabajar en un negocio: fórmulas, datos ordenados, tablas dinámicas, diseño que no se rompe, cuánto fallan las planillas y cuándo pasar a una base.
 
 ## Personas
