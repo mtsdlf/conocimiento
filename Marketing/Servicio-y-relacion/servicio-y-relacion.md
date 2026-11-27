@@ -18,7 +18,7 @@ revisado: 2026-11-24
 
 Servicio y relación es la parte del marketing que sigue a la venta: si lo que se entrega alcanza lo que el cliente esperaba, qué se hace cuando falla y si conviene invertir en que el cliente se quede.
 
-En un producto, la venta cierra la mayor parte del trabajo de marketing. En un servicio, sobre todo uno que se paga todos los meses, el cliente vuelve a decidir cada mes, y lo que decide depende de lo que vivió. Esta parte recibe de [Propuesta](../Propuesta/propuesta.md) lo que se prometió y el [plano de servicio](../Propuesta/plano-de-servicio.md) con que se diseñó la entrega. Alimenta a [Canales](../Canales/canales.md), porque un cliente conforme es el origen del [boca a boca](../Canales/boca-a-boca-y-referidos.md). Y le pasa a [Medición](../Medicion/medicion.md) y a [retención y churn](../../Datos/Retencion-y-churn/retencion-y-churn.md) la pregunta de si los clientes siguen.
+En un producto, la venta cierra la mayor parte del trabajo de marketing. En un servicio, sobre todo uno que se paga todos los meses, el cliente vuelve a decidir cada mes, y lo que decide depende de lo que vivió. Esta parte recibe de [Propuesta](../Propuesta/propuesta.md) lo que se prometió y el [plano de servicio](../Propuesta/plano-de-servicio.md) con que se diseñó la entrega. Alimenta a [Canales](../Canales/canales.md), porque un cliente conforme es el origen del [boca a boca](../Canales/boca-a-boca-y-referidos.md). Y le pasa a [Medición](../Medicion/medicion.md) y a [retención y churn](../../Datos/Analitica-de-producto/Retencion-y-churn/retencion-y-churn.md) la pregunta de si los clientes siguen.
 
 ## De la promesa a la lealtad
 

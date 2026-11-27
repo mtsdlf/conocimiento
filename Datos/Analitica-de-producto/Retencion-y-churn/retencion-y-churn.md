@@ -14,7 +14,7 @@ revisado:
 Retención y churn es la parte del análisis que dice qué se mide sobre una cohorte: cuántos
 siguen usando o pagando el producto y cuántos se fueron, con las métricas que lo cuentan.
 
-Dentro de [Datos](../datos.md), recibe de [Cohortes](../Cohortes/cohortes.md) el grupo que se sigue y
+Dentro de [Analítica de producto](../analitica-de-producto.md), parte de [Datos](../../datos.md), recibe de [Cohortes](../Cohortes/cohortes.md) el grupo que se sigue y
 su tamaño, que es el denominador. Sus tasas son lo que va en cada celda de la tabla y en cada punto
 de la curva de [Lectura de cohortes](../Lectura-de-cohortes/lectura-de-cohortes.md).
 

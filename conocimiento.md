@@ -53,8 +53,8 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 ## Datos
 
-- [Datos](Datos/datos.md) — análisis de cohortes, retención y churn, para quien aprende Data Analytics; con
-  Recorrido.
+- [Datos](Datos/datos.md) — el recorrido del dato hasta una decisión: modelado y almacenamiento, ingesta, gobierno y calidad
+  (con privacidad en Argentina), análisis, estadística, analítica de producto y visualización; con rutas para aprender Data Analytics.
 
 ## Deporte
 

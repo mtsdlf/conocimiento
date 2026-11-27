@@ -55,9 +55,9 @@ CRV la presenta como un piso y no como una regla: «Companies struggling to grow
 
 ## La curva de retención que se aplana
 
-La señal en los datos es la [curva de retención](../../Datos/Lectura-de-cohortes/curva-de-retencion.md) por cohorte. Según Sequoia, «When a product has not achieved product-market fit, the retention curve will continuously decline». Cuando hay encaje, la curva deja de caer y se aplana: «The higher the level at which the curve flattens, the higher the long-term retention and the healthier the product».
+La señal en los datos es la [curva de retención](../../Datos/Analitica-de-producto/Lectura-de-cohortes/curva-de-retencion.md) por cohorte. Según Sequoia, «When a product has not achieved product-market fit, the retention curve will continuously decline». Cuando hay encaje, la curva deja de caer y se aplana: «The higher the level at which the curve flattens, the higher the long-term retention and the healthier the product».
 
-Cuánto tarda en aplanarse depende del producto. Según un resumen de los benchmarks de a16z para productos de IA, la curva «most often begins to flatten around M3», y en algunos casos aparece una curva en sonrisa, con usuarios que vuelven. Cómo se calcula la pérdida de clientes que hace caer la curva está en [churn](../../Datos/Retencion-y-churn/churn.md).
+Cuánto tarda en aplanarse depende del producto. Según un resumen de los benchmarks de a16z para productos de IA, la curva «most often begins to flatten around M3», y en algunos casos aparece una curva en sonrisa, con usuarios que vuelven. Cómo se calcula la pérdida de clientes que hace caer la curva está en [churn](../../Datos/Analitica-de-producto/Retencion-y-churn/churn.md).
 
 > [!NOTE]
 > Sin fuente todavía: umbrales de aplanamiento para B2B o SaaS, y evidencia publicada que vincule la retención con el encaje más allá de lo que afirman los inversores.

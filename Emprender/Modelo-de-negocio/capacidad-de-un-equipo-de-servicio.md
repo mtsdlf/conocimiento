@@ -33,7 +33,7 @@ La ley de Little dice que la cantidad media de ítems en un sistema es la tasa a
 - Con 2 proyectos nuevos por mes que duran 1,5 meses cada uno, hay en promedio 3 proyectos en curso.
 - Con 3 altas de abono por mes y una permanencia media de 20 meses, el equipo termina sosteniendo unos 60 abonos.
 
-La segunda cuenta dice algo que no se ve mes a mes: un abono que se vende bien se acumula. La permanencia media es la inversa de la tasa de bajas; cómo se mide está en [retención y churn](../../Datos/Retencion-y-churn/retencion-y-churn.md). Si el equipo puede atender 40 abonos y entran 3 por mes con una permanencia de 20 meses, se llena antes de los dos años, aunque ningún mes parezca cargado.
+La segunda cuenta dice algo que no se ve mes a mes: un abono que se vende bien se acumula. La permanencia media es la inversa de la tasa de bajas; cómo se mide está en [retención y churn](../../Datos/Analitica-de-producto/Retencion-y-churn/retencion-y-churn.md). Si el equipo puede atender 40 abonos y entran 3 por mes con una permanencia de 20 meses, se llena antes de los dos años, aunque ningún mes parezca cargado.
 
 No se encontró una cifra con fuente de cuántos clientes de abono atiende una persona en este tipo de servicio. Se arma con la cuenta de arriba, las horas que lleva cada cliente por mes y la utilización objetivo de la sección siguiente.
 

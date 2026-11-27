@@ -5,7 +5,7 @@ está en la skill; esto lo completa.
 
 - **Base**: la raíz de este repo, compartida por Matias y Fer. La entrada raíz es `conocimiento.md`, y la
   entrada de cada tema y de cada vertical se llama como su carpeta (`<Tema>/<tema>.md`). Los enlaces van como Markdown relativo
-  (`[texto](Datos/Cohortes/cohorte.md)`), que se leen en GitHub y en cualquier editor.
+  (`[texto](Datos/Analitica-de-producto/Cohortes/cohorte.md)`), que se leen en GitHub y en cualquier editor.
 - **Temas**: se estructuran por capas (el todo, las verticales como carpetas, los componentes y lo
   operativo), como dice el método de la skill. Los arma el modo `nuevo`, con su `ALCANCE.md` y sus
   informes crudos en `<Tema>/.investigacion/`. `Marketing/` es el ejemplo de referencia.
@@ -19,7 +19,7 @@ está en la skill; esto lo completa.
 - **Archivo**: los originales que se reemplazan van a `Archivo/<Tema>/`, en la raíz de la base.
 - **Volcar desde el Marco**: cuando el volcado sale de una Idea Clarificada como Conocimiento en
   la Revisión semanal, la ruta de la nota principal, relativa a la base (p. ej.
-  `Datos/Cohortes/cohorte.md`), es la que va en `nota_vault` del Clarificar.
+  `Datos/Analitica-de-producto/Cohortes/cohorte.md`), es la que va en `nota_vault` del Clarificar.
 - **Sitio**: la base se publica en <https://mtsdlf.github.io/conocimiento/> en cada cambio a `main`
   (`.github/workflows/sitio.yml`). Es **público**: cualquiera con la URL lo lee, borradores incluidos,
   así que lo que no puede leer cualquiera no entra a esta base. `./sitio/servir` lo levanta local en

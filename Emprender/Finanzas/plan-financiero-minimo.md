@@ -50,7 +50,7 @@ Facturar no es cobrar. OpenStax lo dice así: «projected monthly sales amounts 
 
 Los ingresos se proyectan contando clientes y multiplicando por el precio, no suponiendo un porcentaje de crecimiento. La guía de Duquesne lo ejemplifica para un servicio: 30 clientes por mes por US$ 65 da US$ 1950, y advierte que «The number of successful clients is the variable number that needs to be justified». Cada supuesto va escrito al lado de la planilla, con de dónde sale.
 
-Para un abono, la cuenta de clientes de cada mes es: los del mes anterior, más las altas, menos las bajas. Esa cuenta aparece en guías de practicantes, no en un libro de texto ni en una guía oficial. Las altas no pueden pasar lo que se puede vender y atender, y las bajas se miden como explica [retención y churn](../../Datos/Retencion-y-churn/retencion-y-churn.md). Para los proyectos, cada uno entra con su calendario de cobro: adelanto, hitos y saldo, como en [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md#formas-de-repartir-el-riesgo).
+Para un abono, la cuenta de clientes de cada mes es: los del mes anterior, más las altas, menos las bajas. Esa cuenta aparece en guías de practicantes, no en un libro de texto ni en una guía oficial. Las altas no pueden pasar lo que se puede vender y atender, y las bajas se miden como explica [retención y churn](../../Datos/Analitica-de-producto/Retencion-y-churn/retencion-y-churn.md). Para los proyectos, cada uno entra con su calendario de cobro: adelanto, hitos y saldo, como en [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md#formas-de-repartir-el-riesgo).
 
 ## Un ejemplo de doce meses
 

@@ -14,7 +14,7 @@ revisado:
 Lectura de cohortes es la parte del análisis que muestra el resultado: la tabla de cohortes y
 la curva de retención, cómo se leen y cómo se arma la tabla desde una tabla de eventos.
 
-Dentro de [Datos](../datos.md), pone una cohorte de [Cohortes](../Cohortes/cohortes.md) en cada fila y
+Dentro de [Analítica de producto](../analitica-de-producto.md), parte de [Datos](../../datos.md), pone una cohorte de [Cohortes](../Cohortes/cohortes.md) en cada fila y
 una tasa de [Retención y churn](../Retencion-y-churn/retencion-y-churn.md) en cada celda. Es donde se
 hace la comparación a la misma edad.
 
