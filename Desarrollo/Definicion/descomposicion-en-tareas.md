@@ -81,6 +81,6 @@ METR mide el horizonte temporal de los modelos: la duración de las tareas, medi
 
 Descomponer más y delegar más no siempre ahorra tiempo: en el ensayo de METR de 2025, quienes usaron IA tardaron 19 % más, aunque ese resultado ya no es una cifra vigente. La evidencia sobre cuánto acelera un agente es mixta y está en [agente de código](../Construccion/agente-de-codigo.md).
 
-## Horizontes medidos por METR en enero de 2026
+## Horizontes medidos por METR
 
-Copiado de METR, "Time Horizon 1.1" (29 de enero de 2026), el 2026-11-27. Horizonte al 50 % de éxito, con intervalo de confianza del 95 %: Claude Opus 4.5, 320 minutos (170 a 729); GPT-5, 214 minutos (117 a 480); Claude Sonnet 3.7, 60 minutos (32 a 106). Tiempo de duplicación: unos 196 días desde 2019, 131 desde 2023 y 89 desde 2024. Solo 31 tareas le llevan a una persona 8 horas o más, y solo 5 de ellas tienen medición humana.
+Las cifras por modelo, con sus intervalos, su fecha y la fuente viva, están en la ficha [horizonte de tareas](../../Gestion-de-proyectos/Personas-y-agentes/horizonte-de-tareas.md). Se mantienen en un solo lugar porque cambian en meses y entre publicaciones de METR: el post de enero de 2026 daba 320 minutos para Claude Opus 4.5 y el archivo de datos actual da 293.

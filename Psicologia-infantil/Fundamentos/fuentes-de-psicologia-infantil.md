@@ -19,6 +19,10 @@ fuentes:
   - https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.2012.12070999
   - https://www.cochrane.org/CD009260/BEHAV_early-intensive-behavioral-intervention-eibi-increasing-functional-behaviors-and-skills-young
   - https://www.nice.org.uk/guidance/cg170
+  - https://www.nice.org.uk/guidance/cg170/chapter/recommendations
+  - https://www.nice.org.uk/guidance/cg170/chapter/update-information
+  - https://childmind.org/es/guia/guia-rapida-sobre-el-trastorno-por-deficit-de-atencion-con-hiperactividad-tdah/
+  - https://www.aepnya.eu
 aliases: [bibliografía de psicología infantil, dónde leer sobre psicología infantil]
 dueno: familia
 creado: 2026-11-27
@@ -57,8 +61,8 @@ Dos fuentes que dicen lo mismo valen más si son independientes. En la terapia p
 Las leyes no dicen qué tratamiento funciona, pero definen derechos y vocabulario, y conviene leerlas en el texto oficial y con fecha:
 
 - **Ley 26.657 de salud mental**: en su artículo 8 pide que la atención esté a cargo de un "equipo interdisciplinario", y en el 3 define la salud mental como un proceso determinado por factores "históricos, socioeconómicos, culturales, biológicos y psicológicos".
-- **Ley 27.306 de dificultades específicas del aprendizaje** y su Decreto 289/2018: en el artículo 3 las define como "alteraciones de base neurobiológica" que afectan el lenguaje, la lectura, la escritura o el cálculo (según el resumen del buscador). Un proyecto de 2023 para sumar el déficit de atención no figura como ley vigente.
-- **Consenso sobre diagnóstico y tratamiento del TEA** (Ministerio de Salud, 2019; el enlace oficial es la resolución 2641), avalado por el Comité de Crecimiento y Desarrollo de la SAP: recomienda vigilar el desarrollo en los controles de todos los chicos.
+- **Ley 27.306 de dificultades específicas del aprendizaje** y su Decreto 289/2018: en el artículo 3 las define como "alteraciones de base neurobiológica" que afectan el lenguaje, la lectura, la escritura o el cálculo (leído en el Boletín Oficial). Un proyecto de 2023 para sumar el déficit de atención no figura como ley vigente.
+- **Consenso sobre diagnóstico y tratamiento del TEA** (Ministerio de Salud, 2019; el enlace oficial es la resolución 2641), elaborado con el Garrahan, el Hospital de Niños Gutiérrez y el Comité de Crecimiento y Desarrollo de la SAP, entre otros: es para profesionales y recomienda vigilar el desarrollo en los controles de todos los chicos.
 
 El certificado de discapacidad y las prestaciones cambian seguido y tienen su ficha fechada en [CUD y prestaciones](../Evaluacion/cud-y-prestaciones.md).
 
@@ -78,5 +82,12 @@ Para entender las discusiones de este tema alcanzan unas pocas fuentes, casi tod
 
 En castellano, lo que hay de peso son las normas, el consenso de TEA y los artículos de Archivos Argentinos de Pediatría. La voz crítica local está en el libro colectivo *En la infancia los diagnósticos se escriben con lápiz* (Untoiglich, 2013), que conviene leer como posición. Para la historia del psicoanálisis argentino, los libros de Dagfal y de Plotkin ([historia y escuelas](historia-y-escuelas.md)).
 
+## Guías clínicas y divulgación para familias
+
+- **NICE CG170**, la guía británica para menores de 19 años con autismo: publicada en 2013 y actualizada en 2021, cuando sumó recomendaciones sobre problemas de alimentación y cambió la terminología. En julio de 2024 anunció que actualizará lo de intervenciones psicosociales, pero a noviembre de 2026 no hay texto nuevo: sigue vigente el de 2013 con los cambios de 2021. Recomienda considerar una intervención de comunicación social con juego, desaconseja medicamentos y dietas de exclusión para los rasgos centrales del autismo y no nombra al ABA. Fuente primaria, en inglés.
+- **Child Mind Institute en español**: guías para familias sobre TDAH y un folleto sobre autismo, de un instituto privado sin fines de lucro. La de TDAH tiene revisión de noviembre de 2025 y firma de una psicóloga clínica; se leyó a través de un resumidor, así que vale como secundaria.
+- **Guía de práctica clínica sobre el TDAH del Ministerio de Sanidad de España** (2017), con una versión para familias según un documento que la cita. No se abrió.
+- **AEPNYA**, la asociación española de psiquiatría de la infancia y la adolescencia, publica una revista para profesionales; no se encontró material propio para padres.
+
 > [!NOTE]
-> Sin fuente todavía: una fuente de divulgación seria en castellano sobre TDAH o autismo pensada para padres (el Child Mind Institute tiene una versión en español que no se consultó), una guía de la SAP sobre TDAH en chicos (no apareció), y el texto vigente de las recomendaciones del NICE sobre intervenciones en autismo, que anunció una actualización en 2025.
+> Sin fuente todavía: una guía de la SAP sobre TDAH en chicos o sobre salud mental infantil (no apareció en la búsqueda), una guía clínica sobre TDAH leída (AAP, NICE NG87 o la española), y la versión nueva de NICE CG170 cuando se publique.

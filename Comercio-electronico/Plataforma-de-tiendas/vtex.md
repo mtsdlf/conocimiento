@@ -7,6 +7,7 @@ fuentes:
   - "VTEX, 20-F FY2025 (presentado 2026-02-26): https://www.sec.gov/Archives/edgar/data/1793663/000119312526076504/ck0001793663-20251231.htm (leído por tramos, caracteres 100.000-300.000)"
   - "VTEX, Pricing: https://www.vtex.com/en-us/pricing/ (no publica planes)"
   - "StoreLeads, VTEX en Argentina: https://storeleads.app/reports/vtex/AR/top-stores (leído; página actualizada 2026-11-13)"
+  - "Comercio-electronico/.investigacion/vidrieras-tamano.md (sección 2)"
   - "WMTips, Argentina: https://www.wmtips.com/technologies/e-commerce/country/ar/ (según resumen del buscador; 403 al abrirla)"
   - "Comercio-electronico/.investigacion/plataforma-de-tiendas.md (secciones 3, 5 y 7)"
 aliases: [VTEX Commerce]
@@ -46,4 +47,4 @@ El informe calculó una razón aproximada: los ingresos por suscripción sobre e
 
 ## Presencia en Argentina
 
-VTEX tiene filial en Argentina, según el 20-F. StoreLeads cuenta 438 tiendas vivas en el país, en su página actualizada el 2026-11-13. WMTips le da el 5,1% de los sitios de comercio detectados en 2026, según el buscador. Los métodos están en [presencia en Argentina](presencia-en-argentina.md).
+VTEX tiene filial en Argentina, según el 20-F. StoreLeads cuenta 438 tiendas vivas en el país, en su página actualizada el 2026-11-13; esa es la cifra de su tabla trimestral, y leída de nuevo el 2026-11-22 la página mostraba 442 vivas, con un pico de 469 en el primer trimestre de 2026. WMTips le da el 5,1% de los sitios de comercio detectados en 2026, según el buscador. Los métodos están en [presencia en Argentina](presencia-en-argentina.md).

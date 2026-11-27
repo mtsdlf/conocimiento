@@ -8,6 +8,8 @@ fuentes:
   - https://www.cdc.gov/adhd/data/index.html
   - https://zendy.io/title/10.1111/jcpp.12381
   - https://www.nice.org.uk/guidance/ng87
+  - https://www.nice.org.uk/guidance/ng87/chapter/Recommendations
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282
   - https://pubmed.ncbi.nlm.nih.gov/30097390/
   - https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.2012.12121561
   - https://www.cochrane.org/evidence/CD003018_parent-training-attention-deficit-hyperactivity-disorder-adhd-children-aged-5-18-years
@@ -49,7 +51,7 @@ Según qué grupo de síntomas predomina, el DSM habla de tres presentaciones: c
 | Fuente | Cifra | Qué mide |
 |---|---|---|
 | Polanczyk y otros 2007, 102 estudios (según su resumen) | 5,29 % | Prevalencia mundial en chicos y adolescentes |
-| Polanczyk y otros 2015 (listado secundario) | 3,4 % | Prevalencia en el metaanálisis de todos los trastornos |
+| Polanczyk y otros 2015 (según su resumen) | 3,4 % (IC 95 % 2,6 a 4,5) | Prevalencia en el metaanálisis de todos los trastornos |
 | CDC, encuesta a padres 2024 | 11,7 % de los chicos de 3 a 17 (7 millones) | Chicos con diagnóstico actual en Estados Unidos; 13 % de varones y 7 % de nenas en 2022-2023 |
 | APA, página para familias | 8,4 % | Chicos con TDAH, sin método aclarado |
 
@@ -57,9 +59,9 @@ Las cifras de Estados Unidos cuentan diagnósticos que informan los padres, no c
 
 ## La edad relativa: los más chicos del grado
 
-En los estados de Estados Unidos donde se entra a la escuela según el corte del 1 de septiembre, los nacidos en agosto, que son los más chicos del grado, recibieron el diagnóstico más seguido que los nacidos en septiembre: 85,1 contra 63,6 por cada 10.000 (Layton y otros 2018, 407.846 chicos). En los estados sin ese corte la diferencia no fue significativa. Un estudio en Taiwán (Chen 2016, por un comunicado) encontró algo parecido, y una revisión de 20 trabajos (Holland y Sayal 2018, por resumen) encontró un efecto modesto donde más se prescribe y resultados mixtos donde menos.
+En los estados de Estados Unidos donde se entra a la escuela según el corte del 1 de septiembre, los nacidos en agosto, que son los más chicos del grado, recibieron el diagnóstico más seguido que los nacidos en septiembre: 85,1 contra 63,6 por cada 10.000 (Layton y otros 2018, 407.846 chicos). La diferencia se vio en los varones y no fue significativa en las nenas, y en los estados sin ese corte tampoco fue significativa. Un estudio en Taiwán (Chen 2016, por un comunicado) encontró algo parecido, y una revisión de 20 trabajos (Holland y Sayal 2018, por resumen) encontró un efecto modesto donde más se prescribe y resultados mixtos donde menos.
 
-Dos lecturas que conviven, y se dan las dos. Layton y colegas no concluyen que haya sobrediagnóstico: su estudio no puede decir si cada diagnóstico fue correcto. Un análisis posterior con datos de 41 estudios (SIMBA 2023, por resumen) no encontró que los diagnósticos de los más chicos del grado se disiparan más con el tiempo, y lo lee como que no serían más erróneos. Una consecuencia práctica, como lectura propia: en la duda conviene comparar al chico con los de su edad, no solo con los de su grado. No se halló un estudio argentino sobre esto. La discusión entera está en [debates de psicología infantil](../../Fundamentos/debates-de-psicologia-infantil.md#los-más-chicos-del-grado-reciben-más-diagnósticos-de-tdah).
+Layton y colegas no concluyen que haya sobrediagnóstico, y un análisis de 41 estudios (SIMBA 2023, por resumen) no encontró que esos diagnósticos se disiparan más con el tiempo. Como lectura propia, en la duda conviene comparar al chico con los de su edad, no solo con los de su grado. No se halló un estudio argentino. La discusión entera está en [debates de psicología infantil](../../Fundamentos/debates-de-psicologia-infantil.md#los-más-chicos-del-grado-reciben-más-diagnósticos-de-tdah).
 
 ## Las causas
 
@@ -67,20 +69,25 @@ Según la APA (por su resumen), no hay una causa específica identificada. Hay u
 
 ## Quién lo diagnostica
 
-Las fuentes de esta nota no registran quién diagnostica el TDAH en Argentina ni una guía argentina de la SAP o del Ministerio: se buscó y no se halló. Como lectura habitual del campo, sin fuente leída: lo hace un médico (pediatra, neurólogo o psiquiatra infantil) o un psicólogo, con criterios del DSM-5-TR o de la CIE-11, y los criterios piden síntomas en más de un ámbito, de modo que cuenta lo que ven en la casa y en la escuela. La maestra puede advertir, pero no diagnostica. Qué hace cada profesional está en [quién evalúa](../../Evaluacion/quien-evalua.md), y qué miden los cuestionarios para padres y maestros, en [tests psicológicos](../../Evaluacion/tests-psicologicos.md).
+No hay una guía argentina de TDAH infantil de la SAP, de la Sociedad Argentina de Neurología Infantil ni del Ministerio: se buscó de nuevo el 2026-11-27 y no se halló. Las dos guías de referencia de afuera no coinciden en quién diagnostica, y se dan las dos:
+
+- La guía de la Academia Americana de Pediatría (AAP, Wolraich y colegas 2019, para chicos de 4 a 18 años) dice que el pediatra u otro médico de atención primaria puede evaluar y diagnosticar. Comprueba los criterios del DSM-5 en más de un ámbito, con lo que cuentan padres y maestros, descarta otras causas y deriva al especialista lo que no maneja.
+- La guía NICE NG87 del Reino Unido (2018, actualizada en 2026) dice que "ADHD should only be diagnosed by a specialist psychiatrist, paediatrician or other appropriately qualified healthcare professional", con formación y experiencia en TDAH, y que no se diagnostica solo con escalas u observación.
+
+Las dos piden información de la casa y de la escuela, y ninguna pone a la maestra como quien diagnostica: puede advertir, y lo que ve cuenta. En Argentina, como lectura habitual sin fuente leída, lo hace un médico (pediatra, neurólogo o psiquiatra infantil) o un psicólogo. Qué hace cada profesional está en [quién evalúa](../../Evaluacion/quien-evalua.md), y qué miden los cuestionarios para padres y maestros, en [tests psicológicos](../../Evaluacion/tests-psicologicos.md).
 
 ## Qué ayuda, según la edad
 
-La guía NICE NG87 del Reino Unido es la referencia, pero no se pudo abrir; lo que sigue se conoce por resúmenes del buscador y hay que verificarlo en la guía:
+Las dos guías coinciden en empezar sin medicación en los más chicos:
 
-- **Menores de 5**: el primer tratamiento es un programa grupal de entrenamiento a padres.
-- **De 5 a 18**: la medicación mejora los síntomas; antes de medicar hay que verificar que se hicieron cambios en el entorno (en el aula, en la rutina). NICE dice que no hay "clear evidence" de que los programas formales para padres mejoren los síntomas propios del TDAH en esa edad.
+- **Menores de 5**: NICE pone primero un programa grupal de entrenamiento a padres centrado en el TDAH. La AAP, de 4 a 5 años, pone primero el entrenamiento a padres o las intervenciones de conducta en el aula, y deja la medicación para cuando eso no alcanza y las dificultades son moderadas o graves.
+- **De 5 a 18**: NICE ofrece medicación solo si los síntomas siguen causando dificultades importantes después de cambiar y revisar el entorno (en el aula, en la rutina). La AAP, de 6 a 11, recomienda medicación junto con entrenamiento a padres o intervenciones en el aula, "preferably both", y apoyos escolares.
 
-**Medicación.** Un metaanálisis en red de 133 ensayos (Cortese y otros 2018, por resumen secundario, 81 de ellos en chicos y adolescentes) encontró que todos los medicamentos estudiados (salvo el modafinilo en adultos) superaron al placebo en el corto plazo, que en chicos funcionan mejor y se toleran mejor que en adultos, y concluyó que el metilfenidato es la opción preferida en chicos y adolescentes. Faltan datos de largo plazo. Los efectos adversos que documentan las guías no se pudieron leer, y por eso esta nota no los lista; lo general, sin dosis, está en [medicación](../../Intervencion/medicacion.md).
+**Medicación.** Un metaanálisis en red de 133 ensayos (Cortese y otros 2018, según su resumen, 81 de ellos en chicos y adolescentes) concluyó que el metilfenidato es la opción preferida en chicos y adolescentes. A unas 12 semanas, con los puntajes de los médicos, todos los medicamentos estudiados superaron al placebo en chicos; con los puntajes de los maestros, solo el metilfenidato y el modafinilo. En tolerancia, en chicos las anfetaminas y la guanfacina fueron peores que el placebo, y en adultos más medicamentos lo fueron. La confianza en la mayoría de las comparaciones indirectas es baja o muy baja, y faltan datos de largo plazo. Los efectos adversos que documentan las guías no se pudieron leer, y por eso esta nota no los lista; lo general, sin dosis, está en [medicación](../../Intervencion/medicacion.md).
 
-**Programas para padres.** La revisión Cochrane para chicos de 5 a 18 años (5 ensayos, 284 participantes, por resumen) dice que el entrenamiento a padres podría mejorar la conducta y bajar el estrés de los padres, con calidad baja, y que la evidencia "no es suficiente para basar guías". NICE no halló evidencia clara de mejora en los síntomas propios del TDAH, y Cochrane habla de conducta y de estrés de los padres: esa es la parte que las dos fuentes dejan en pie. Como lectura propia, igual pueden valer la pena: casi la mitad de los chicos con TDAH tiene además un problema de conducta, y para eso los [programas para padres](../../../Crianza/Limites-y-autonomia/programas-para-padres.md) tienen respaldo a corto plazo en chicos de 3 a 11 años (ver [trastornos de conducta](../trastornos-de-conducta.md)).
+**Programas para padres.** De 5 a 18, NICE ofrece a todos los padres apoyo centrado en el TDAH, que puede ser grupal y de tan solo una o dos sesiones, y deja los programas formales de entrenamiento para cuando además hay un problema de conducta. La revisión Cochrane para chicos de 5 a 18 años (5 ensayos, 284 participantes, por resumen) dice que el entrenamiento a padres podría mejorar la conducta y bajar el estrés de los padres, con calidad baja, y que la evidencia "no es suficiente para basar guías". Casi la mitad de los chicos con TDAH tiene además un problema de conducta, y para eso los [programas para padres](../../../Crianza/Limites-y-autonomia/programas-para-padres.md) tienen respaldo a corto plazo en chicos de 3 a 11 años (ver [trastornos de conducta](../trastornos-de-conducta.md)).
 
-**Dietas y otros.** Un metaanálisis de Sonuga-Barke y colegas (2013, por resumen) encontró que todos los tratamientos dietarios y psicológicos parecían funcionar cuando los evaluaba alguien cercano al tratamiento; con evaluadores que probablemente no sabían quién recibía qué, solo se sostuvo el efecto de los suplementos de ácidos grasos y de sacar los colorantes artificiales. Los autores piden mejor evidencia para la terapia conductual, el neurofeedback, el entrenamiento cognitivo y las dietas de eliminación.
+**Dietas y otros.** NICE dice que no hay evidencia de largo plazo de la dieta "de pocos alimentos" y solo evidencia limitada de beneficio a corto plazo. Un metaanálisis de Sonuga-Barke y colegas (2013, por resumen) encontró que todos los tratamientos dietarios y psicológicos parecían funcionar cuando los evaluaba alguien cercano al tratamiento; con evaluadores que probablemente no sabían quién recibía qué, solo se sostuvo el efecto de los suplementos de ácidos grasos y de sacar los colorantes artificiales.
 
 Qué tiene respaldo para cada problema está en [qué funciona para qué](../../Intervencion/que-funciona-para-que.md), y las adaptaciones en el aula, en [apoyos en la escuela](../../Intervencion/apoyos-en-la-escuela.md).
 

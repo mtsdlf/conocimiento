@@ -2,7 +2,7 @@
 resumen: >-
   Las plataformas de clases de inglés en línea con tutores (italki, Preply, Cambly) y su modelo de
   precio al 2026-11-27, casi todo según fuentes no oficiales o interesadas.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "italki, blog de precios (fuente de la propia empresa): https://www.italki.com/en/blog/italki-price"
@@ -12,7 +12,7 @@ aliases:
   - Tutoring platforms
   - Clases de inglés en línea
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plataformas de tutores
