@@ -89,7 +89,7 @@ De la regla dependen tres cosas que el sistema calcula:
 - Desde qué hito la mercadería viaja por cuenta y riesgo del comprador. A partir de ahí puede figurar [en tránsito](../../Inventario-y-depositos/Existencias/estados-del-stock.md) en la posición de stock del comprador.
 - Quién hace los trámites de aduana de exportación y de importación (sin fuente todavía, ver la nota de arriba). Qué documentos aporta cada parte no lo fija la regla, por la exclusión de la ITA.
 
-Lo que el sistema no debe hacer es inferir la propiedad o el momento de registrar la compra solo de la regla, por la exclusión que señala la ITA. Cuándo se reconoce la compra y cómo se valúa lo que viaja es de Contabilidad.
+Lo que el sistema no debe hacer es inferir la propiedad o el momento de registrar la compra solo de la regla, por la exclusión que señala la ITA. Cuándo se reconoce la compra y cómo se valúa lo que viaja es de [Contabilidad](../../Contabilidad/contabilidad.md). Quién hace el trámite en una importación a la Argentina está en [Cadena de suministro y logística en la Argentina](../cadena-de-suministro-y-logistica-en-argentina.md#el-despachante-no-es-obligatorio).
 
 ## Para leer las reglas completas
 

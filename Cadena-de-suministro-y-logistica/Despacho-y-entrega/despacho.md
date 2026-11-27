@@ -96,4 +96,4 @@ Cada cambio de estado es un hecho con fecha que no se edita, como en el [registr
 
 ## En la Argentina, el remito
 
-En la Argentina, el documento que acompaña el traslado es el remito, que va también en una transferencia entre depósitos propios; sus reglas, el remito digital y el código de operación de traslado (COT) están en [Inventario y depósitos en la Argentina](../../Inventario-y-depositos/inventario-y-depositos-en-argentina.md). Para un despacho, el remito se emite al confirmar la salida, antes de cargar (lectura de esa nota).
+En la Argentina, el documento que acompaña el traslado es el remito, que va también en una transferencia entre depósitos propios; sus reglas, el remito digital y el código de operación de traslado (COT) están en [Inventario y depósitos en la Argentina](../../Inventario-y-depositos/inventario-y-depositos-en-argentina.md). Para un despacho, el remito se emite antes de que la mercadería salga y la acompaña hasta el destino (lectura de esa nota).

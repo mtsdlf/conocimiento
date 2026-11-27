@@ -92,6 +92,8 @@ El envío local de una tienda online, con sus transportistas y precios, está en
 
 ## El transporte de cargas dentro del país
 
+Lo general del transporte (modos, flete, ruteo) está en [Transporte](Transporte/transporte.md); acá, lo que agrega la ley argentina.
+
 Todo traslado de mercadería, también entre depósitos propios, va con remito, y en la provincia de Buenos Aires y las jurisdicciones adheridas un traslado por tierra que supera cierto valor o peso pide además el código de operación de traslado (COT). Las dos cosas, con sus normas, umbrales y excepciones (entre ellas la carga que sale directo de una zona portuaria o de un depósito fiscal), están en [Inventario y depósitos en la Argentina](../Inventario-y-depositos/inventario-y-depositos-en-argentina.md#el-cot-de-la-provincia-de-buenos-aires).
 
 Quien transporta carga por carretera se inscribe en el Registro Único del Transporte Automotor (RUTA), que según el resumen del buscador crea el art. 6 de la Ley 24.653. Según los considerandos del Decreto 832/2024, que modificó su reglamentación, en el registro debe inscribirse «todo el que realice transporte o servicios de transporte (como actividad exclusiva o no) y sus vehículos». El mismo decreto fija desde cuándo hay transporte de cargas: cuando «la capacidad de carga del vehículo afectado a la actividad sea superior a TRES MIL QUINIENTOS (3500) kilogramos», y en acoplados «desde SETECIENTOS CINCUENTA (750) kilogramos». La inscripción es electrónica, declarativa y gratuita (art. 17 bis). El texto de la ley no se pudo leer: la fuente es el decreto.
