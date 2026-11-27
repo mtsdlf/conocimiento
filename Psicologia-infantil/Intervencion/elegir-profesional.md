@@ -8,6 +8,7 @@ fuentes:
   - https://www.argentina.gob.ar/matricula-digital-de-profesionales-de-la-salud
   - https://www.argentina.gob.ar/normativa/nacional/norma-370489/texto
   - https://normas.gba.gob.ar/documentos/V9rbMUP0.html
+  - https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20059/texact.htm
   - https://www.therapyroute.com/article/mental-health-licensing-regulation-in-argentina-2025-guide-by-therapyroute
   - https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013162.pub2/abstract
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282
@@ -25,7 +26,7 @@ Qué profesional ve qué cosa (psicólogo, psicopedagogo, fonoaudiólogo, neurop
 
 ## Verificar la matrícula
 
-La matrícula es lo único verificable desde afuera. En Argentina se puede consultar con el DNI del profesional en la Matrícula Digital de Profesionales de la Salud (en Mi Argentina) o en el registro federal REFEPS; la Matrícula Digital solo aparece para las provincias y las profesiones que adhirieron. La psicología se regula por provincia y la matrícula la llevan los colegios provinciales, según una fuente secundaria que falta confirmar; en la provincia de Buenos Aires, la ley 10.306 exige matrícula para ejercer.
+La matrícula es lo único verificable desde afuera. En Argentina se puede consultar con el DNI del profesional en la Matrícula Digital de Profesionales de la Salud (en Mi Argentina) o en el registro federal REFEPS; la Matrícula Digital solo aparece para las provincias y las profesiones que adhirieron. La psicología se regula por provincia: la ley nacional 23.277 rige solo en la Capital Federal y Tierra del Fuego, y en la provincia de Buenos Aires la ley 10.306 reserva el ejercicio a psicólogos con matrícula ([quién evalúa](../Evaluacion/quien-evalua.md#qué-dice-la-ley-de-cada-profesión)). Que la matrícula la lleven los colegios provinciales sale de una fuente secundaria que falta confirmar.
 
 Tener matrícula dice que la persona puede ejercer. No dice qué enfoque usa, ni si tiene experiencia con chicos, ni si lo que hace tiene respaldo para el problema del chico. Eso se averigua preguntando.
 

@@ -13,6 +13,12 @@ fuentes:
   - https://www.structural-learning.com/post/eriksons-psychosocial-development-stages
   - https://socialsci.libretexts.org/Courses/North_Central_State_College/PSYC_2030_Child_Psychology/10%3A_Cognitive_Theory/10.05%3A_Piaget's_Theory_Evaluation_and_Critique
   - https://pressbooks.cuny.edu/infantandchilddevelopmentcitytech/chapter/temporary-chapter-7-part-1/
+  - https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories
+  - https://research.vu.nl/ws/files/2755348/252440.pdf
+  - https://pubmed.ncbi.nlm.nih.gov/932126/
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC5347356
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC10801006/
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC7897233
   - "Bronfenbrenner, U. y Morris, P. A. (2006). The bioecological model of human development. En Handbook of Child Psychology, 6.ª ed., vol. 1, pp. 793-828 (no consultado)."
 aliases: [teorías del desarrollo infantil, Piaget, Vygotsky, Erikson, Bronfenbrenner, estadios del desarrollo, modelo bioecológico]
 dueno: familia
@@ -27,7 +33,7 @@ Las teorías del desarrollo son los grandes modelos que explican cómo y por qu�
 Cada teoría mira una parte distinta: Piaget y Vygotsky, el pensamiento; Erikson, la personalidad; Bronfenbrenner, el entorno. Por eso no compiten del todo entre sí. Lo que se discute de cada una es cuánto de su descripción por edades se sostiene con datos. La historia del campo y las escuelas clínicas (Freud, Klein, Winnicott) están en [historia y escuelas](../Fundamentos/historia-y-escuelas.md); las escuelas generales de la psicología, en [escuelas de psicología](../../Psicologia/Fundamentos/escuelas-de-psicologia.md). El apego de Bowlby vive en [apego](../../Crianza/Vinculo/apego.md), y el juicio moral de Kohlberg en [desarrollo moral](desarrollo-moral.md).
 
 > [!NOTE]
-> Los manuales de referencia del campo (Berk, Siegler) no se consultaron, y casi todo lo de esta nota sale de resúmenes de artículos y de material de cursos, no de los textos completos. Solo Eccles (1999) se leyó entero.
+> Los manuales de referencia del campo (Berk, Siegler) no se consultaron, y casi todo lo de esta nota sale de resúmenes de artículos y de material de cursos, no de los textos completos. Se leyó entero Eccles (1999), y en partes la revisión del andamiaje de van de Pol y otros (2010), la sección teórica de Tong y An (2024) sobre Bronfenbrenner y las secciones de Piaget y Kohlberg del capítulo de OpenStax sobre las teorías del ciclo vital.
 
 ## Qué quedó en pie de cada teoría
 
@@ -40,7 +46,7 @@ Cada teoría mira una parte distinta: Piaget y Vygotsky, el pensamiento; Erikson
 
 ## Piaget: el chico que construye, con un calendario corregido
 
-Jean Piaget describió el desarrollo del pensamiento como una secuencia de estadios, el primero de los cuales es el período sensoriomotor, en que el bebé conoce el mundo a través de los sentidos y el movimiento. Las edades de cada estadio no quedaron registradas en la investigación de esta nota.
+Jean Piaget describió el desarrollo del pensamiento como una secuencia de estadios, el primero de los cuales es el período sensoriomotor, en que el bebé conoce el mundo a través de los sentidos y el movimiento. Según un texto de curso (OpenStax, Psychology 2e), los cuatro estadios tienen edades aproximadas: sensoriomotor, del nacimiento a unos 2 años; preoperacional, de unos 2 a 7; operaciones concretas, de unos 7 a 11; y operaciones formales, desde unos 11 años. El mismo texto aclara que Piaget los pensaba "aproximadamente asociados" a esas edades, y las críticas que siguen apuntan justamente a que muchas competencias aparecen antes.
 
 El campo lo lee de dos maneras, y las dos conviven. Como descripción de qué se vuelve posible a qué edad, Piaget está muy criticado: según el resumen de manuales de curso, los bebés manifiestan la permanencia del objeto (saber que algo sigue ahí aunque no se vea) antes de lo que él sostenía, y con esperas más cortas en la prueba la resuelven todavía más temprano. Como marco general, el campo conserva su idea constructivista: el chico no recibe el conocimiento hecho, lo arma explorando. Los llamados neopiagetianos mezclaron sus conceptos con la idea de la mente como procesador de información.
 
@@ -52,8 +58,13 @@ Lev Vygotsky puso el origen del pensamiento en la interacción con los demás. S
 
 Una crítica común, según material de cursos universitarios, es que Vygotsky no dice con precisión qué cambia a cada edad.
 
-> [!NOTE]
-> Sin fuente todavía: la zona de desarrollo próximo y el andamiaje, los conceptos de Vygotsky más citados en educación, no tienen fuente leída para esta nota; tampoco las capas de entorno (micro, meso, exo y macrosistema) de la primera versión de Bronfenbrenner.
+### La zona de desarrollo próximo y el andamiaje
+
+La zona de desarrollo próximo (ZDP) es, en la definición de Vygotsky (1978) que citan van de Pol, Volman y Beishuizen (2010), "la distancia entre el nivel de desarrollo actual, determinado por la resolución independiente de problemas, y el nivel de desarrollo potencial, determinado por la resolución con guía de un adulto o en colaboración con pares más capaces". El texto de Vygotsky no se leyó directo: la cita pasa por esa revisión. Dicho simple, es lo que un chico todavía no hace solo pero sí con ayuda.
+
+El andamiaje es el apoyo que se da dentro de esa zona: según van de Pol y otros, "un apoyo temporal" para una tarea que el chico solo no podría completar, como mostrarle cómo se hace o hacerle preguntas, que se ajusta a lo que necesita, se retira de a poco y le pasa la responsabilidad. El término no es de Vygotsky: viene de un estudio de tutoría de Wood, Bruner y Ross (1976), y la conexión con la ZDP la hizo después Cazden (1979), siempre según esa revisión.
+
+La evidencia es más corta que la fama. Según van de Pol y otros, los pocos estudios con comparación "sugieren que el andamiaje es efectivo", pero hace falta más investigación, y el término se usó tan ampliamente que casi quedó como sinónimo de "ayuda". Un metaanálisis de 144 estudios experimentales con andamiaje por computadora en ciencias y matemáticas encontró un efecto positivo (Belland y otros 2017, según su resumen), en estudiantes de varios niveles, no en chicos de 0 a 12 en particular.
 
 ## Siegler: olas superpuestas en lugar de escalones
 
@@ -68,6 +79,19 @@ De las cuatro, para Erikson es para la que menos respaldo se encontró. Según u
 ## Bronfenbrenner: el chico dentro de su entorno
 
 Urie Bronfenbrenner estudió el desarrollo como algo que pasa entre el chico y su entorno. En su versión final, el modelo bioecológico tiene, según el resumen de Bronfenbrenner y Morris (2006), cuatro elementos: el proceso, la persona, el contexto y el tiempo. El motor son los procesos proximales: las interacciones que se repiten con regularidad y que se vuelven más complejas de a poco, como las conversaciones de todos los días con un adulto (ejemplo propio).
+
+### Las capas del entorno
+
+En la versión de 1979, el entorno del chico son cuatro capas, que una revisión de 2024 resume con las definiciones del propio Bronfenbrenner (Tong y An 2024):
+
+- **Microsistema**: los entornos donde el chico participa cara a cara, como la familia, la escuela o el grupo de amigos.
+- **Mesosistema**: los vínculos entre esos entornos, por ejemplo entre la familia y la escuela.
+- **Exosistema**: entornos donde el chico no está pero que lo afectan, como el trabajo de los padres.
+- **Macrosistema**: el patrón general de una cultura o subcultura, con sus normas, que envuelve a los otros tres.
+
+El cronosistema, el cambio en el tiempo de la persona y sus entornos, se agregó después, y más tarde vino el modelo bioecológico de arriba; una revisión pediátrica de 2021 usa las mismas capas. Según Tong y An, muchos estudios aplican solo el micro y el mesosistema: es un marco para ordenar factores, no un modelo con una prueba de conjunto.
+
+### Cuánto se prueba el modelo
 
 Es el marco con que esta base ordena los [contextos](../Contextos/contextos.md). Pero se usa más de lo que se prueba: una revisión de 25 trabajos posteriores a 2001 que decían basarse en Bronfenbrenner encontró que la mayoría usaba versiones desactualizadas de su teoría (Tudge 2009), y una de 2016 halló que solo dos describían, probaban y evaluaban los cuatro elementos. Las dos revisiones se conocen solo por su resumen.
 

@@ -3,7 +3,7 @@ resumen: >-
   El alfabeto fonético internacional (IPA) escribe cada sonido con un símbolo; saber leer los
   símbolos del inglés General American permite sacar la pronunciación de cualquier diccionario de
   aprendices, que usan variantes del IPA con diferencias entre sí.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Cambridge Dictionary, Pronunciation symbols: https://dictionary.cambridge.org/help/phonetics.html"
@@ -21,7 +21,7 @@ aliases:
   - AFI
   - Transcripción fonética
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alfabeto fonético

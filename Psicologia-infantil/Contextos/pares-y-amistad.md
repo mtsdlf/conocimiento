@@ -8,6 +8,13 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/22369336/
   - https://pubmed.ncbi.nlm.nih.gov/20210510/
   - https://pubmed.ncbi.nlm.nih.gov/20304490/
+  - https://scholars.duke.edu/publication/658269
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC2764280
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC4133343
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC3796039
+  - https://pubmed.ncbi.nlm.nih.gov/36521401/
+  - https://pubmed.ncbi.nlm.nih.gov/36281722/
+  - https://pubmed.ncbi.nlm.nih.gov/41914675/
 aliases: [amigos, amistad infantil, relaciones con pares, rechazo, popularidad, compañeros]
 dueno: familia
 creado: 2026-11-27
@@ -53,8 +60,19 @@ La victimización por pares es ser blanco de agresiones de otros chicos, de cual
 
 Pertenecer a un grupo y compararse con él es un mecanismo general de la mente, estudiado sobre todo en adultos: está en [influencia social](../../Psicologia/Cognicion-social/influencia-social.md) y [sesgos de grupo](../../Psicologia/Cognicion-social/sesgos-de-grupo.md). Cómo se compara un chico con sus compañeros y qué le hace a su autoestima está en [autoconcepto y autoestima](../Desarrollo/autoconcepto-y-autoestima.md).
 
-> [!NOTE]
-> Sin fuente todavía: el estatus entre los pares (quién es popular, quién es rechazado, quién es ignorado), que es la forma clásica en que la disciplina estudia el rechazo, y si el rechazo en la niñez predice problemas después. La búsqueda solo trajo amistad, antipatía y victimización.
+## El lugar que ocupa un chico en el grupo
+
+En los estudios sociométricos, a cada chico se le pide que nombre a los compañeros que le caen bien y a los que le caen mal. Con esas respuestas, Coie, Dodge y Coppotelli (1982) distinguieron cinco grupos, según el resumen de su trabajo con 531 chicos: populares, rechazados, ignorados (los que casi nadie nombra, ni para bien ni para mal), controvertidos (caen bien a unos y mal a otros) y promedio. Los rechazados eran vistos como disruptivos y agresivos; los controvertidos también, pero además como líderes. La clasificación tiene críticas: en un análisis posterior, solo el 46 % y el 36 % de los chicos clasificados como rechazados en dos muestras cayeron en el grupo rechazado que surgía de los datos, según su resumen.
+
+Como lectura propia, rechazado no es lo mismo que sin amigos: un chico puede ser rechazado por el grupo y tener un buen amigo.
+
+## El rechazo temprano y lo que viene después
+
+El rechazo en la niñez se asocia con problemas después, pero la relación no es simple. En un estudio de Dodge y colegas, con 259 chicos seguidos de 1.º-3.º a 5.º-7.º grado, el rechazo temprano predijo más agresión después; en una segunda muestra de 585 chicos, eso pasó solo en los que ya eran agresivos al principio (según su resumen). Otro seguimiento de 754 chicos, desde el jardín hasta 7.º grado y con más chicos agresivos que el promedio, encontró que el rechazo y la agresión tempranos predijeron dificultades escolares y delincuencia en la adolescencia, y que ser víctima predijo tristeza y problemas sociales (según su resumen).
+
+Rechazo y agresión van juntos: un metaanálisis de 61 estudios con 45.966 chicos encontró una correlación de 0,42, medida en el mismo momento, sin dirección causal (Yue y Zhang 2023, según su resumen). Otro, de 18 publicaciones, encontró que los chicos que agreden se vuelven más populares con el tiempo y a la vez más rechazados (Wiertsema y colegas 2023, según su resumen).
+
+A largo plazo, un metaanálisis de 39 estudios y 51.139 participantes encontró que las experiencias negativas con pares en la niñez y la adolescencia se asocian con peores relaciones en la adultez, con un efecto chico (r = -0,15) tras 11,6 años de seguimiento en promedio, que se mantiene al ajustar por género, nivel socioeconómico y adversidad familiar (Huang y colegas 2026, según su resumen). El resumen no dice si esas experiencias incluyen el rechazo o solo la victimización. Que el rechazo cause los problemas, o que marque a chicos que ya venían con dificultades, no está resuelto.
 
 ## Cuándo preocupa
 

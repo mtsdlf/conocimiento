@@ -9,6 +9,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC4336952
   - https://www.sas.rochester.edu/psy/people/faculty/smetana_judith/assets/pdf/JambonSmetana_2017_IndividualDifferences.pdf
   - https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development
+  - https://openstax.org/books/psychology-2e/pages/9-2-lifespan-theories
 aliases: [juicio moral, razonamiento moral, Kohlberg, Turiel, teoría de los dominios sociales, distinción moral-convencional]
 dueno: familia
 creado: 2026-11-27
@@ -34,7 +35,7 @@ Lawrence Kohlberg describió el juicio moral como una secuencia de seis estadios
 | Convencional | Lo correcto es ajustarse a lo que esperan los pares y la sociedad |
 | Posconvencional | Más allá de las convenciones; la descripción de la IEP no quedó registrada |
 
-Las edades de cada nivel no quedaron registradas en la investigación de esta nota.
+Según un texto de curso (OpenStax, Psychology 2e), Kohlberg ubicó el razonamiento preconvencional antes de los 9 años, el convencional desde la adolescencia temprana y el posconvencional más tarde, una vez que se alcanza el pensamiento formal, y "solo unos pocos" lo alcanzan del todo. Otros manuales, conocidos solo por resúmenes, dan cortes algo distintos (convencional de los 9 o 10 a los 15 años, posconvencional desde los 15 o 16), así que las edades son orientativas. En lectura del informe, no de las fuentes: de 0 a 12, un chico queda en el nivel preconvencional hasta cerca de los 9 y entra en el convencional hacia el final de ese rango. El mismo texto aclara que razonar sobre lo moral no es lo mismo que comportarse moralmente.
 
 ## Lo que se sostiene de Kohlberg y lo que no
 

@@ -13,6 +13,10 @@ fuentes:
   - https://rionegro.gov.ar/programa/65/ipross-acompanate-terapeutico
   - https://www.argentina.gob.ar/normativa/nacional/decreto-289-2018-308587/texto
   - https://cps.ca/documents/position/adhd-2-treatment
+  - https://sinigep.bue.edu.ar/docs/adjuntos/2022/reso_3816.pdf
+  - https://navegador.defensoria.org.ar/preguntas-y-temas/cuales-son-las-normativas-para-la-inclusion-escolar-hay-leyes-y-otras/
+  - https://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/267234/norma.htm
+  - http://www.legisalud.gov.ar/pdf/dec289_2018anexo.pdf
 aliases: [integración escolar, inclusión escolar, maestra integradora, maestro de apoyo a la inclusión, MAI, PPI, proyecto pedagógico individual, acompañante terapéutico, AT, Resolución CFE 311/16]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -57,9 +61,22 @@ Su entrada a la escuela se acuerda con la institución: Santa Fe, por ejemplo, t
 
 ## Cada provincia lo aplica a su manera
 
-La Resolución 311/16 es un acuerdo federal, y cada jurisdicción la baja con sus normas. La provincia de Buenos Aires tiene lineamientos propios que la reemplazan, y la Ciudad de Buenos Aires modificó su versión en 2022 (Resolución 3816/22). En la Ciudad, según su resumen, el PPI alcanza a alumnos con certificado de discapacidad o con un certificado de salud que justifique la inclusión.
+La Resolución 311/16 es un acuerdo federal, y cada jurisdicción la baja con sus normas. La provincia de Buenos Aires tiene lineamientos propios que la reemplazan (Resolución 1664/17), y la Ciudad de Buenos Aires modificó su versión en 2022 (Resolución 3816/22). En la provincia, la sigla PPI se lee "Propuesta Pedagógica de Inclusión", y la norma dice que "no podrá implicar una currícula paralela ni una reducción de contenidos".
 
-Si un chico con TDAH o con una dificultad de aprendizaje, sin certificado de discapacidad, puede tener PPI depende de la jurisdicción, y no se encontró una fuente que diga en cuáles. Para las dificultades del aprendizaje (dislexia, discalculia), la ley 27.306 de 2016 las define como alteraciones "de base neurobiológica" del lenguaje, la lectura, la escritura o el cálculo, y su autoridad de aplicación es el Ministerio de Educación; qué adaptaciones escolares concretas obliga no se leyó. Están descritas en [trastornos del aprendizaje](../Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md).
+### Un chico sin CUD
+
+En la Ciudad de Buenos Aires, los considerandos de la Resolución 3816/22 dicen que el PPI "está destinado a alumnos/as que cuenten con un certificado de discapacidad o bien presenten un certificado de salud de cuyo diagnóstico se desprenda la necesidad de su inclusión". La Defensoría del Pueblo de la Ciudad (agosto de 2026, fuente secundaria) lo dice de otra manera: el PPI se arma cuando la escuela lo considera necesario, y "No todo apoyo requiere el Certificado Único de Discapacidad (CUD)"; el CUD se exige para pedir un acompañante para la inclusión escolar (AIE), no para los otros apoyos pedagógicos. Las dos redacciones no dicen lo mismo, y quedan las dos.
+
+En la provincia de Buenos Aires, la Resolución 1664/17 habla siempre de "estudiantes con discapacidad" y, en el texto leído, no dice si pide el certificado ni nombra el TDAH o las dificultades del aprendizaje. Para un chico con TDAH sin certificado no se encontró una norma que lo habilite ni que lo excluya. Si el TDAH alcanza para el CUD está en [CUD y prestaciones](../Evaluacion/cud-y-prestaciones.md#alcanza-un-diagnóstico-de-tdah-o-de-una-dificultad-de-aprendizaje).
+
+Las dificultades específicas del aprendizaje (dislexia, discalculia) tienen su propio marco, la ley 27.306 de 2016. Su artículo 6 pide a la autoridad de aplicación "elaborar la adaptación curricular" y enumera consideraciones "orientativas":
+
+- dar prioridad a la oralidad, en la enseñanza y en las evaluaciones;
+- dar más tiempo y asegurarse de que el chico entendió las consignas;
+- evitar la lectura en voz alta frente a los compañeros, y los copiados largos o los dictados cuando hay disgrafía;
+- permitir computadora, calculadora y tablas, y ajustar la evaluación a cada chico.
+
+La ley aclara que esos ajustes "no implican otorgar ventajas [...] sino ponerlos en igualdad de condiciones". El Decreto 289/2018, que la reglamenta, solo crea para el artículo 6 un consejo consultivo federal, así que no queda claro qué obliga a una escuela en concreto. Todo esto está al 2026-11-27 y cambia por jurisdicción: conviene preguntar en la escuela y en la supervisión de la zona. Las dificultades en sí están descritas en [trastornos del aprendizaje](../Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md).
 
 ## Lo que tiene evidencia en el aula
 
