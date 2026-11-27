@@ -43,11 +43,11 @@ Cuando el pedido cruza sistemas separados (pagos, stock, transportista), coordin
 
 ## El catálogo y el stock
 
-La unidad que se vende es la variante de un producto, con su SKU, y su stock se lleva por ubicación y repartido en estados (disponible, apartado, dañado). Cada canal que descuenta stock por su cuenta suma riesgo de sobreventa. El modelo completo está en [catálogo y stock](catalogo-y-stock.md).
+La unidad que se vende es la variante de un producto, con su SKU, y su stock se lleva por ubicación y repartido en estados (disponible, apartado, dañado). Cada canal que descuenta stock por su cuenta suma riesgo de sobreventa. El modelo completo está en [catálogo y stock](catalogo-y-stock.md), y lo general de cualquier depósito, en [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md).
 
 ## El sistema que lleva el registro
 
-En una tienda chica, la plataforma de tiendas guarda el catálogo, el stock y los pedidos. Cuando el comercio suma un local, un marketplace o un mayorista, ese registro suele pasar a un [sistema de gestión](Sistemas-de-gestion/sistemas-de-gestion.md), que además factura, compra y lleva cuentas corrientes. Desde ahí, el sistema copia stock y precios a cada canal y recibe sus pedidos, con los riesgos que describe [integración con tiendas y marketplaces](Sistemas-de-gestion/integracion-con-tiendas-y-marketplaces.md).
+En una tienda chica, la plataforma de tiendas guarda el catálogo, el stock y los pedidos. Cuando el comercio suma un local, un marketplace o un mayorista, ese registro suele pasar a un [sistema de gestión](Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md), que además factura, compra y lleva cuentas corrientes. Desde ahí, el sistema copia stock y precios a cada canal y recibe sus pedidos, con los riesgos que describe [integración con tiendas y marketplaces](Sistemas-de-gestion-en-el-comercio/integracion-con-tiendas-y-marketplaces.md).
 
 ## El pedido y su cumplimiento
 
@@ -57,7 +57,7 @@ El pedido es el registro de la venta, y su cumplimiento (fulfillment) es aparte.
 
 ## Envío y última milla
 
-El envío lleva el paquete del depósito a la puerta; la última milla es el tramo final, dentro de la ciudad. Un comercio chico no contrata a cada transportista: los elige dentro de su plataforma de tiendas o de un agregador de envíos, y si vende mucho, puede tercerizar también la guarda del stock. Las capas, cómo se arma el costo y quién paga el envío gratis están en [envíos y logística](Envios-y-logistica/envios-y-logistica.md); los operadores de Argentina, un envío tipo cotizado y lo que dicen las reseñas, en [envíos en Argentina](Envios-y-logistica/envios-en-argentina.md).
+El envío lleva el paquete del depósito a la puerta; la última milla es el tramo final, dentro de la ciudad. Un comercio chico no contrata a cada transportista: los elige dentro de su plataforma de tiendas o de un agregador de envíos, y si vende mucho, puede tercerizar también la guarda del stock. Las capas, cómo se arma el costo y quién paga el envío gratis están en [envíos y logística](Envios-y-logistica/envios-y-logistica.md); los operadores de Argentina, un envío tipo cotizado y lo que dicen las reseñas, en [envíos en Argentina](Envios-y-logistica/envios-en-argentina.md). Preparar el pedido dentro del depósito es de [preparación de pedidos](../../Inventario-y-depositos/Operacion-del-deposito/preparacion-de-pedidos.md); despacharlo y transportarlo, dicho para cualquier empresa, de [Cadena de suministro y logística](../../Cadena-de-suministro-y-logistica/cadena-de-suministro-y-logistica.md).
 
 Los costos extra (envío, impuestos y otras tarifas) están entre las razones de abandono que recoge la encuesta de Baymard, con su cifra y su método en [carrito abandonado](../Checkout-y-conversion/carrito-abandonado.md).
 
@@ -81,13 +81,13 @@ Al comparar dos plataformas de tiendas online, conviene mirar en operaciones:
 4. Cómo registra una devolución y si la devuelve al stock.
 5. Si se conecta con los sistemas de gestión del país, o si el comercio necesita un conector aparte.
 
-Lo que la plataforma no resuelve lo cubren las [apps para comerciantes](../Plataforma-de-tiendas/apps-para-comerciantes.md) y los [sistemas de gestión](Sistemas-de-gestion/sistemas-de-gestion.md). Cómo se desarma un producto rival para ver esto está en [desarme de producto](../../Estrategia-competitiva/Analisis-de-competidores/desarme-de-producto.md).
+Lo que la plataforma no resuelve lo cubren las [apps para comerciantes](../Plataforma-de-tiendas/apps-para-comerciantes.md) y los [sistemas de gestión](Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md). Cómo se desarma un producto rival para ver esto está en [desarme de producto](../../Estrategia-competitiva/Analisis-de-competidores/desarme-de-producto.md).
 
 ## Lo que hay adentro de Operaciones del comercio
 
 - [Catálogo y stock](catalogo-y-stock.md): variante, SKU, estados del stock y sobreventa.
 - [Devoluciones](devoluciones.md): lo que cuestan y lo que obliga la ley argentina.
-- [Sistemas de gestión](Sistemas-de-gestion/sistemas-de-gestion.md): el software que lleva factura, stock, compras y cuentas detrás de la tienda, cómo se integra con los canales y quiénes operan en Argentina.
+- [Sistemas de gestión en el comercio](Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md): el software que lleva factura, stock, compras y cuentas detrás de la tienda, cómo se integra con los canales y quiénes operan en Argentina.
 
 - [Envíos y logística](Envios-y-logistica/envios-y-logistica.md): transportistas, agregadores, última milla y guarda de stock, el costo del envío y los operadores de Argentina con sus precios y reseñas.
 

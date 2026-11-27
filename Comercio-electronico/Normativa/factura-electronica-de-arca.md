@@ -32,7 +32,7 @@ La factura electrónica de ARCA es el comprobante fiscal que en Argentina respal
 > [!WARNING]
 > Ley y dinero: esto no reemplaza a un contador. Las normas se leyeron en el Boletín Oficial el 2026-11-22; varias páginas de ARCA todavía no incorporan los cambios de 2025 y 2026. Antes de actuar, se lee la norma vigente.
 
-Es el caso argentino de la regla de facturación que describe [Normativa](normativa.md). Toca a la tienda online y al local por igual: el comprobante lo emite la plataforma de tiendas, una app, un [sistema de gestión](../Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md) o el [punto de venta](../Venta-en-varios-canales/Local-fisico-con-caja/punto-de-venta.md). El resto de las normas argentinas que alcanzan a una tienda está en la [ficha de normativa argentina](normativa-argentina.md).
+Es el caso argentino de la regla de facturación que describe [Normativa](normativa.md). Toca a la tienda online y al local por igual: el comprobante lo emite la plataforma de tiendas, una app, un [sistema de gestión](../Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md) o el [punto de venta](../Venta-en-varios-canales/Local-fisico-con-caja/punto-de-venta.md). El resto de las normas argentinas que alcanzan a una tienda está en la [ficha de normativa argentina](normativa-argentina.md).
 
 ## Quién tiene que facturar
 

@@ -29,7 +29,7 @@ En esta base, **el sistema que manda** en un dato es el único donde ese dato se
 
 Dos casos de dominio:
 
-- La tienda y el marketplace. Productos, precios y stock van del sistema de gestión a los canales; los pedidos, de los canales al sistema. El caso entero, con sus fallas, está en [integración con tiendas y marketplaces](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/integracion-con-tiendas-y-marketplaces.md).
+- La tienda y el marketplace. Productos, precios y stock van del sistema de gestión a los canales; los pedidos, de los canales al sistema. El caso entero, con sus fallas, está en [integración con tiendas y marketplaces](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/integracion-con-tiendas-y-marketplaces.md).
 - El banco. El extracto llega del banco, que manda en lo que se acreditó; el sistema de gestión manda en qué factura cancela cada cobro. Juntar las dos cosas es la [aplicación de cobros](../../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md), y comprobar que coinciden, la [conciliación](../../Contabilidad/Control-interno/conciliaciones.md).
 
 La conexión con el fisco para emitir comprobantes es un caso aparte, porque el fisco no refleja el dato sino que lo autoriza (lectura de esta base). Lo que exige la norma argentina a un sistema para eso está en [software de gestión en la Argentina](../software-de-gestion-en-argentina.md).

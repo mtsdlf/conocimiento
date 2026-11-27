@@ -19,7 +19,7 @@ revisado: 2026-11-24
 
 Un local físico con caja que también vende online junta dos ventas que descuentan del mismo stock: la del mostrador, que pasa por un punto de venta, un lector de cobro y un comprobante fiscal, y la de la tienda online. Lo difícil no es cada pieza sino que las cuatro (venta, cobro, factura y stock) queden en un solo registro.
 
-Es uno de los cuatro canales de [Venta en varios canales](../venta-en-varios-canales.md), y el que más toca a [Operaciones del comercio](../../Operaciones-del-comercio/operaciones-del-comercio.md): el local es una ubicación más del [stock](../../Operaciones-del-comercio/catalogo-y-stock.md). Quien lleva ese stock puede ser la plataforma de tiendas o un [sistema de gestión](../../Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md), y el comprobante de cada venta lo pide la [factura electrónica de ARCA](../../Normativa/factura-electronica-de-arca.md) en Argentina.
+Es uno de los cuatro canales de [Venta en varios canales](../venta-en-varios-canales.md), y el que más toca a [Operaciones del comercio](../../Operaciones-del-comercio/operaciones-del-comercio.md): el local es una ubicación más del [stock](../../Operaciones-del-comercio/catalogo-y-stock.md). Quien lleva ese stock puede ser la plataforma de tiendas o un [sistema de gestión](../../Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md), y el comprobante de cada venta lo pide la [factura electrónica de ARCA](../../Normativa/factura-electronica-de-arca.md) en Argentina.
 
 ## Cuatro piezas en el mostrador
 

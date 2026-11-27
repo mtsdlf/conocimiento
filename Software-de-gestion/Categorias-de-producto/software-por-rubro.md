@@ -34,7 +34,7 @@ Varias categorías de este tema son, en los hechos, verticales de un rubro ampli
 | [PSA](psa.md) | Las firmas que venden horas de gente por proyecto |
 | [EAM y CMMS](eam-y-cmms.md) | Las empresas con muchos equipos que mantener |
 | [Servicio de campo](servicio-de-campo-y-mesa-de-ayuda.md) | Las que instalan y reparan equipos en casa del cliente |
-| El sistema de gestión del comercio | El comercio minorista y mayorista, con su punto de venta y su tienda en línea; está en [sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md) |
+| El sistema de gestión del comercio | El comercio minorista y mayorista, con su punto de venta y su tienda en línea; está en [sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md) |
 
 ## Cómo se arma un producto vertical
 

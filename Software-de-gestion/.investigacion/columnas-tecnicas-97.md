@@ -127,7 +127,7 @@ Además, tres cosas que parecían columnas se absorben: la **parte con roles** (
   - Brehm, Heinzl y Markus, «Tailoring ERP systems: a spectrum of choices and their implications», HICSS 2001: el desarrollo de interfaces es uno de los tipos de adaptación. [S]
   - Davenport 1998: el sistema integrado reemplaza aplicaciones que no se hablaban. [S]
 - **¿De todos los dominios?** Sí.
-- **Enlazar, no copiar (es la columna con más material ya escrito):** `Arquitectura/Sistemas-distribuidos/outbox.md`, `clave-de-idempotencia.md`, `saga.md`, `api-led-connectivity.md`, `circuit-breaker.md`; `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/integracion-con-tiendas-y-marketplaces.md` (el caso de canales, con «un sistema que manda en cada dato»); `Datos/Ingesta-y-transformacion/etl-y-elt.md`. La nota de la columna debería ser corta: qué es propio del software de gestión (sistema que manda, maestros compartidos, carga inicial) y enlaces.
+- **Enlazar, no copiar (es la columna con más material ya escrito):** `Arquitectura/Sistemas-distribuidos/outbox.md`, `clave-de-idempotencia.md`, `saga.md`, `api-led-connectivity.md`, `circuit-breaker.md`; `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/integracion-con-tiendas-y-marketplaces.md` (el caso de canales, con «un sistema que manda en cada dato»); `Datos/Ingesta-y-transformacion/etl-y-elt.md`. La nota de la columna debería ser corta: qué es propio del software de gestión (sistema que manda, maestros compartidos, carga inicial) y enlaces.
 - **Frontera:** la migración como actividad de proyecto va en la vertical Implementación del mismo tema; acá va solo el mecanismo (importar maestros y saldos iniciales).
 
 ### 10. Configurar frente a personalizar

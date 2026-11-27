@@ -51,7 +51,7 @@ Sin contraseña, cada cliente tiene que crear una nueva la primera vez que vuelv
 
 Lo que vive dentro de apps tampoco pasa con el importador de la plataforma: reseñas, puntos de fidelidad y suscripciones se mudan app por app. LitExtension dice que cambiar los números de pedido es "a frequent source of support tickets" y recomienda conservar los originales donde la plataforma lo permita. Son opiniones de quien vende migraciones; no hay una medición de cuánto se rompe.
 
-Cambiar los identificadores también rompe cosas. En Shopify, importar variantes con opciones distintas a las de la tienda "deletes existing variant IDs and creates new ones, which can break third-party dependencies". Lo mismo pasa con lo que vive afuera de la tienda y apunta a sus productos: la integración con el [sistema de gestión](../Operaciones-del-comercio/Sistemas-de-gestion/integracion-con-tiendas-y-marketplaces.md), y las publicaciones sincronizadas con Mercado Libre (inferencia propia: ninguna fuente midió cuánto se rompe).
+Cambiar los identificadores también rompe cosas. En Shopify, importar variantes con opciones distintas a las de la tienda "deletes existing variant IDs and creates new ones, which can break third-party dependencies". Lo mismo pasa con lo que vive afuera de la tienda y apunta a sus productos: la integración con el [sistema de gestión](../Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/integracion-con-tiendas-y-marketplaces.md), y las publicaciones sincronizadas con Mercado Libre (inferencia propia: ninguna fuente midió cuánto se rompe).
 
 ## Las direcciones: conservarlas o redirigirlas
 
