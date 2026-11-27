@@ -102,6 +102,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
 - [Desarrollo personal](Desarrollo-personal/desarrollo-personal.md) — la práctica de crecer con evidencia: autoconocimiento, hábitos y cambio, energía y salud, emociones y bienestar, relaciones, efectividad personal, coaching (el ontológico incluido, con su falta de evidencia) y lo que le pasa por dentro a quien funda una empresa.
 - [Liderazgo y dirección](Liderazgo-y-direccion/liderazgo-y-direccion.md) — cómo se conduce a una persona, a un equipo y a una empresa chica que crece: liderar personas, equipos y cultura, gestión de personas, decidir, ejecución y el rol del CEO, con la evidencia de cada práctica y lo que solo dicen los practicantes.
+- [Comunicación](Comunicacion/comunicacion.md) — hablar con otros en el trabajo: escuchar y preguntar, dar y pedir feedback, conversaciones difíciles, persuasión, negociación, hablar en público, escribir y cómo circula lo que se dice en una empresa, con la evidencia de cada habilidad y lo que solo dicen los practicantes.
 
 ## Pedagogía
 

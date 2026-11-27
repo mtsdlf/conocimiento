@@ -19,7 +19,7 @@ revisado: 2026-11-27
 
 Un punto ciego es algo de uno que los demás ven y uno no. Como la autoevaluación falla de forma sistemática y los otros juzgan mejor los rasgos que se ven desde afuera, pedir información sobre uno completa lo que la introspección no alcanza; el feedback 360 mejora poco con el tiempo y la ventana de Johari no tiene evidencia de efecto.
 
-Dentro de [Autoconocimiento](autoconocimiento.md) es la práctica que corrige a las demás. Los [valores personales](valores-personales.md) y las [fortalezas](fortalezas.md) salen de lo que uno cree de sí, y esa creencia es la que falla. Cómo dar y recibir una devolución en una conversación es asunto del tema Comunicación, que todavía no está escrito.
+Dentro de [Autoconocimiento](autoconocimiento.md) es la práctica que corrige a las demás. Los [valores personales](valores-personales.md) y las [fortalezas](fortalezas.md) salen de lo que uno cree de sí, y esa creencia es la que falla. Cómo pedir y recibir una devolución está en [pedir y recibir feedback](../../Comunicacion/Feedback/pedir-y-recibir-feedback.md), en Comunicación.
 
 ## Por qué la autoevaluación falla
 

@@ -58,7 +58,7 @@ La solidez de la evidencia cambia mucho de una etapa a otra. Contratar tiene la 
 | Desarrollo | Metaanálisis de entrenamiento, coaching y mentoría | Efectos medios; cayó la regla 70-20-10 como hecho |
 | Rotación y salidas | Metaanálisis de antecedentes; Colquitt (2001) | Muchas causas que dependen del contexto; «la gente se va de los jefes», en disputa |
 
-Ningún estudio de estas notas separa los resultados por tamaño de empresa. Las cifras vienen de muestras grandes, de bases de gerentes, de laboratorios con niños y estudiantes y de encuestas comerciales. Para una empresa de 2 a 50 personas son una extrapolación, y cada nota lo dice. Cómo se da feedback o se conduce una conversación difícil (una evaluación, un despido) es del tema Comunicación, todavía sin escribir.
+Ningún estudio de estas notas separa los resultados por tamaño de empresa. Las cifras vienen de muestras grandes, de bases de gerentes, de laboratorios con niños y estudiantes y de encuestas comerciales. Para una empresa de 2 a 50 personas son una extrapolación, y cada nota lo dice. Cómo se da feedback está en [dar feedback](../../Comunicacion/Feedback/dar-feedback.md), y cómo se conduce una conversación difícil (una evaluación, un despido), en [dar malas noticias](../../Comunicacion/Conversaciones-dificiles/dar-malas-noticias.md), en Comunicación.
 
 ## Las siete etapas
 

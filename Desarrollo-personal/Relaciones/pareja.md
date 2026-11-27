@@ -57,7 +57,7 @@ La terapia de pareja es para cuando ya hay un problema. Según el abstract de la
 3. Si hay distancia sostenida o la idea de separarse, buscá terapia de pareja con un profesional; [cuándo consultar](../Emociones-y-bienestar/cuando-consultar.md) ayuda a decidir.
 4. Si un libro o un curso promete predecir el divorcio con más de 90% de acierto, sabé que esa cifra no se pudo atribuir a un estudio concreto y que una crítica de 2001 pide cautela con predicciones sin validación cruzada.
 
-Los pasos ordenan lo que dicen las fuentes; el corte entre una situación y otra es de esta base. Cómo se dice algo difícil en una pareja (pedir, reclamar, reparar después de una pelea) es del tema Comunicación.
+Los pasos ordenan lo que dicen las fuentes; el corte entre una situación y otra es de esta base. Cómo se dice algo difícil en una pareja (pedir, reclamar, reparar después de una pelea) es del tema Comunicación: [asertividad](../../Comunicacion/Escucha-y-conversacion/asertividad.md) para pedir y reclamar, y [disculparse](../../Comunicacion/Conversaciones-dificiles/disculparse.md) para reparar.
 
 > [!NOTE] Sin fuente todavía: la crítica de Stanley y colaboradores a Gottman, y la evidencia de PREP como programa específico de educación de pareja.
 

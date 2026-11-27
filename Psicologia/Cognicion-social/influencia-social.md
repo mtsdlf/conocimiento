@@ -21,7 +21,7 @@ revisado: 2026-11-27
 
 La influencia social es el cambio en lo que alguien hace o juzga por la presencia o la presión de otros. El campo la estudia en tres formas, la conformidad con un grupo, la obediencia a una autoridad y el ajuste a las normas, y las tres quedaron en estados de evidencia distintos.
 
-El mecanismo vive acá. La persuasión como práctica (la retórica, los principios de Cialdini para convencer) es del tema Comunicación, que todavía no está escrito, y la aplicación a vender, de la [economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md). Lo que pasa cuando la influencia se da dentro de un grupo que decide junto está en [sesgos de grupo](sesgos-de-grupo.md).
+El mecanismo vive acá. La persuasión como práctica (la retórica, los principios de Cialdini para convencer) está en [principios de influencia](../../Comunicacion/Persuasion/principios-de-influencia.md), en Comunicación, y la aplicación a vender, de la [economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md). Lo que pasa cuando la influencia se da dentro de un grupo que decide junto está en [sesgos de grupo](sesgos-de-grupo.md).
 
 | Forma | Caso clásico | Estado |
 |---|---|---|

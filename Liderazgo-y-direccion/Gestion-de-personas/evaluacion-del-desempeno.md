@@ -43,7 +43,7 @@ Que dos evaluadores califiquen distinto a la misma persona es lo que la psicolog
 
 Kluger y DeNisi (1996) reunieron 607 tamaños de efecto, con 23.663 observaciones. Según el abstract, las intervenciones de feedback mejoraron el desempeño en promedio (d = .41), pero «over ⅓ of the FIs decreased performance». La efectividad baja cuando el feedback desplaza la atención de la tarea hacia el yo de la persona. La proporción sale del abstract; la búsqueda de posiciones contrarias no la confirmó en otra fuente.
 
-Para una evaluación eso pesa: una calificación es feedback sobre la persona, el tipo que más riesgo tiene según ese resultado (inferencia de esta base). Cómo se da un feedback que apunte a la tarea es del tema Comunicación, todavía sin escribir. Un feedback frecuente centrado en la tarea, por ejemplo en las [reuniones uno a uno](reuniones-uno-a-uno.md), es lo que apunta el metaanálisis según esta base, aunque no hay una comparación directa con el ciclo anual.
+Para una evaluación eso pesa: una calificación es feedback sobre la persona, el tipo que más riesgo tiene según ese resultado (inferencia de esta base). Cómo se da un feedback que apunte a la tarea está en [dar feedback](../../Comunicacion/Feedback/dar-feedback.md), en Comunicación. Un feedback frecuente centrado en la tarea, por ejemplo en las [reuniones uno a uno](reuniones-uno-a-uno.md), es lo que apunta el metaanálisis según esta base, aunque no hay una comparación directa con el ciclo anual.
 
 ## Abandonar el ciclo anual: mucho caso, poco estudio
 

@@ -49,7 +49,7 @@ Las metas aplicadas a un equipo tienen su versión operativa en los [OKR](../Eje
 
 > [!NOTE] Sin fuente todavía: evidencia de metas, reconocimiento y premios aplicados por un jefe a su equipo. La investigación de esta vertical no la buscó porque el mecanismo vive en Psicología.
 
-El feedback que un jefe da a su gente es otra palanca de motivación; cómo se da bien es del tema Comunicación, todavía sin escribir.
+El feedback que un jefe da a su gente es otra palanca de motivación; cómo se da bien está en [dar feedback](../../Comunicacion/Feedback/dar-feedback.md), en Comunicación.
 
 ## Cómo falla
 

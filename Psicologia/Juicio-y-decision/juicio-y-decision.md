@@ -70,7 +70,7 @@ Cómo se llevan a una interfaz, y dónde pasan a ser engaño, en [Percepción y 
 
 ## Dónde termina
 
-Quedan afuera la persuasión como práctica, que va al tema Comunicación, y cómo decide un equipo o un líder, que va a [Decidir](../../Liderazgo-y-direccion/Decidir/decidir.md), en Liderazgo y dirección. Los sesgos que aparecen al decidir en grupo, como el pensamiento de grupo, están en [sesgos de grupo](../Cognicion-social/sesgos-de-grupo.md). En terapia cognitiva «sesgo cognitivo» tiene otro sentido, clínico, que esta vertical no trata.
+Quedan afuera la persuasión como práctica, que va a [Persuasión](../../Comunicacion/Persuasion/persuasion.md), en Comunicación, y cómo decide un equipo o un líder, que va a [Decidir](../../Liderazgo-y-direccion/Decidir/decidir.md), en Liderazgo y dirección. Los sesgos que aparecen al decidir en grupo, como el pensamiento de grupo, están en [sesgos de grupo](../Cognicion-social/sesgos-de-grupo.md). En terapia cognitiva «sesgo cognitivo» tiene otro sentido, clínico, que esta vertical no trata.
 
 ## Las seis notas de la vertical
 

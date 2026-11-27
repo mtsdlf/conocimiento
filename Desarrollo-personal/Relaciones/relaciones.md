@@ -31,7 +31,7 @@ Casi todo lo demás es observacional o viene de practicantes. Las cifras famosas
 
 El conflicto entre trabajo y familia se estudia como un solo campo: la interfaz trabajo-familia. Según el resumen del metaanálisis de Amstad et al. (2011), el conflicto entre los dos se relaciona de forma consistente con resultados del trabajo, de la familia y no específicos de un dominio. Cómo se separa o se mezcla el trabajo con la casa (los límites) es parte del mismo campo, y por eso va en la misma nota.
 
-Las habilidades de conversar quedan afuera: decir que no, pedir algo, dar una devolución o sostener una conversación difícil son del tema Comunicación. Acá va qué vínculos cuidar, por qué y con qué evidencia; cómo se dice algo en una conversación va allá.
+Las habilidades de conversar quedan afuera: decir que no y pedir algo están en [asertividad](../../Comunicacion/Escucha-y-conversacion/asertividad.md), dar una devolución en [dar feedback](../../Comunicacion/Feedback/dar-feedback.md) y sostener una conversación difícil en [conversaciones difíciles](../../Comunicacion/Conversaciones-dificiles/conversaciones-dificiles.md), en Comunicación. Acá va qué vínculos cuidar, por qué y con qué evidencia; cómo se dice algo en una conversación va allá.
 
 ## Cómo falla el cuidado de los vínculos
 

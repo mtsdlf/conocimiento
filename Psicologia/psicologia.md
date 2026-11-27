@@ -21,7 +21,7 @@ La psicología es el estudio científico de la mente y la conducta. En esta base
 
 El APA Dictionary la define hoy como «the scientific study of the mind and behavior», y el texto abierto OpenStax usa casi las mismas palabras. La palabra viene del griego *psyche* (alma o mente) y *-logia* (estudio). Lo que la separa de la psicología popular es el método: una afirmación vale lo que vale el estudio que la sostiene, y desde 2015 se sabe que muchos estudios famosos sostenían menos de lo que decían.
 
-Psicología es la base de otros tres temas del área «Personas». [Desarrollo personal](../Desarrollo-personal/desarrollo-personal.md) dice cómo se practica un hábito o se maneja el estrés; [Liderazgo y dirección](../Liderazgo-y-direccion/liderazgo-y-direccion.md), cómo se motiva a un equipo o se decide en grupo; Comunicación, cómo se convence. Comunicación todavía no está escrito. Los tres enlazan acá el mecanismo en lugar de explicarlo de nuevo.
+Psicología es la base de otros tres temas del área «Personas». [Desarrollo personal](../Desarrollo-personal/desarrollo-personal.md) dice cómo se practica un hábito o se maneja el estrés; [Liderazgo y dirección](../Liderazgo-y-direccion/liderazgo-y-direccion.md), cómo se motiva a un equipo o se decide en grupo; [Comunicación](../Comunicacion/comunicacion.md), cómo se convence, se da feedback o se negocia. Los tres enlazan acá el mecanismo en lugar de explicarlo de nuevo.
 
 El tema termina donde empieza la clínica. Los trastornos, el diagnóstico y la psicoterapia quedan afuera, salvo como límite: cuando una nota toca la salud mental, dice cuándo hace falta un profesional, y ninguna nota lo reemplaza.
 

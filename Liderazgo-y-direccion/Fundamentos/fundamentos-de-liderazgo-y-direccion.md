@@ -62,7 +62,7 @@ Los textos de liderazgo tienen capítulos que no son una parte de este tema. Que
 - **Desarrollo de líderes** (Yukl, cap. 14): en [desarrollo de personas](../Gestion-de-personas/desarrollo-de-personas.md) y [pasar a liderar](../Liderar-personas/pasar-a-liderar.md).
 - **Estructura de la organización** (OpenStax, caps. 15 y 16): en [escalar la organización](../Rol-del-CEO/escalar-la-organizacion.md); la de equipos de software, en [Organización de equipos](../../Platform-Engineering/Organizacion-de-equipos/organizacion-de-equipos.md).
 - **Estrés y bienestar** (OpenStax, cap. 18): fuera, en [burnout](../../Psicologia/Estres-y-resiliencia/burnout.md).
-- **Conflicto y negociación** (OpenStax, cap. 14): el conflicto dentro de un equipo está en [conflicto en equipos](../Equipos-y-cultura/conflicto-en-equipos.md); negociar es del tema Comunicación, todavía sin escribir.
+- **Conflicto y negociación** (OpenStax, cap. 14): el conflicto dentro de un equipo está en [conflicto en equipos](../Equipos-y-cultura/conflicto-en-equipos.md); negociar está en [Negociación](../../Comunicacion/Negociacion/negociacion.md), en Comunicación.
 
 ## Qué hay en Fundamentos
 

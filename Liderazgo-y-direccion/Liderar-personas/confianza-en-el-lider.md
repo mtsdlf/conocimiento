@@ -59,7 +59,7 @@ Kim, Ferrin, Cooper y Dirks (2004) probaron cómo reparar la confianza después 
 
 La regla «disculpa para competencia, negación para integridad» sale de ese único artículo, con dos estudios, y la investigación de esta base no encontró réplica ni metaanálisis. Los experimentos posteriores son de laboratorio con estudiantes: en uno, con 221 personas, la disculpa funcionó a través de la confianza percibida; en otro, sumar empatía a una negación subió la integridad percibida. Ninguno es con jefes reales.
 
-Hay un límite probable que la regla no dice: como la evidencia posterior de culpa o inocencia también pesó, negar una falta que después se prueba arriesga la reparación. Es una lectura de esta base sobre el abstract, no un resultado del estudio. Cómo se sostiene esa conversación es del tema Comunicación, todavía sin escribir.
+Hay un límite probable que la regla no dice: como la evidencia posterior de culpa o inocencia también pesó, negar una falta que después se prueba arriesga la reparación. Es una lectura de esta base sobre el abstract, no un resultado del estudio. Cómo se sostiene esa conversación está en [disculparse](../../Comunicacion/Conversaciones-dificiles/disculparse.md), en Comunicación.
 
 > [!NOTE] Sin fuente todavía: una réplica o un metaanálisis de la reparación de confianza, y estudios con jefes y empleados reales.
 

@@ -60,4 +60,4 @@ Una regla que suele circular, que las reuniones se llevan el 15 % del tiempo de 
 
 Para empezar, la lectura que propone la investigación de esta base es el abstract de Kauffeld y Lehmann-Willenbrock (2012), fijándose en la diferencia entre conducta funcional y disfuncional, y el capítulo introductorio del *Cambridge Handbook of Meeting Science* (2015) para el panorama.
 
-Cómo se maneja una conversación difícil dentro de una reunión es una habilidad del tema Comunicación, todavía sin escribir.
+Cómo se maneja una conversación difícil está en [conversaciones difíciles](../../Comunicacion/Conversaciones-dificiles/conversaciones-dificiles.md), en Comunicación.

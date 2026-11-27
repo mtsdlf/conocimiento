@@ -71,4 +71,4 @@ Los moderadores de los dos metaanálisis dan la forma. La secuencia que sigue es
 4. Separá lo que dependió de la decisión de lo que fue suerte.
 5. Alineá la revisión a lo que hizo cada persona o el equipo, y cerrá con qué se cambia la próxima vez.
 
-Los pasos 2 y 5 vienen de Keiser y Arthur; el 4, de Duke, que es práctica. Cómo dar ese feedback sin que se vuelva una búsqueda de culpables es una habilidad del tema Comunicación, todavía sin escribir.
+Los pasos 2 y 5 vienen de Keiser y Arthur; el 4, de Duke, que es práctica. Cómo dar ese feedback sin que se vuelva una búsqueda de culpables está en [dar feedback](../../Comunicacion/Feedback/dar-feedback.md), en Comunicación.
