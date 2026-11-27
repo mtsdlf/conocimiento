@@ -10,6 +10,15 @@ fuentes:
   - https://www.boletinoficial.gob.ar/detalleAviso/primera/153296/20161104
   - https://www.argentina.gob.ar/normativa/nacional/decreto-289-2018-308587/texto
   - https://www.argentina.gob.ar/node/119196
+  - https://doi.org/10.3102/0034654311421793
+  - https://doi.org/10.1207/s15327957pspr0902_3
+  - https://doi.org/10.1080/02796015.2001.12086124
+  - https://doi.org/10.3102/0162373709352239
+  - https://doi.org/10.1016/j.edurev.2021.100401
+  - https://pubmed.ncbi.nlm.nih.gov/20093054/
+  - https://pubmed.ncbi.nlm.nih.gov/34501556/
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC6123573/
+  - https://argentina.gob.ar/sites/default/files/aprender_2023_final.pdf
 aliases: [rendimiento escolar, motivación escolar, escuela primaria, tarea, deberes]
 dueno: familia
 creado: 2026-11-27
@@ -55,10 +64,26 @@ La ley pide adaptar la forma de enseñar y evaluar (art. 6):
 
 La misma ley aclara que esas adaptaciones no son ventajas sino una forma de dar igualdad de condiciones. La detección, el diagnóstico y las prestaciones pasan por el Consejo Federal de Salud (art. 8). Según el buscador, la reglamentó el Decreto 289/2018, que no se leyó. Cómo se pide todo esto en la escuela está en [apoyos en la escuela](../Intervencion/apoyos-en-la-escuela.md), igual que la Resolución 311/16 del Consejo Federal de Educación, sobre la promoción y la certificación de los estudiantes con discapacidad.
 
-## Lo que no se sabe todavía
+## Lo que más pesa en el rendimiento, según los estudios
+
+Casi todo lo que sigue es correlacional y viene de otros países. Salvo del informe de Aprender, de cada fuente se leyó solo el resumen.
+
+**La relación con el docente.** Un metaanálisis de 99 estudios, de preescolar a secundaria, encontró que una relación más cálida con el docente se asocia con más compromiso con la escuela (efecto mediano a grande) y con algo más de rendimiento (efecto chico a mediano), y que una relación conflictiva pesa más en primaria que en secundaria (Roorda y colegas 2011, según su resumen).
+
+**Las expectativas del docente.** Según la revisión de Jussim y Harber (2005), las profecías autocumplidas en el aula existen, pero son chicas, no se acumulan mucho con el tiempo y pueden ser más fuertes con chicos de grupos estigmatizados. Si lo que espera el docente predice cómo le va al chico, es más porque la expectativa es acertada que porque la cause (según su resumen).
+
+**Repetir de grado.** Tres metaanálisis no muestran que repetir ayude. El de Jimerson (2001), con 20 estudios, encontró que los repitentes quedaban por debajo en rendimiento; el de Allen y colegas (2009) encontró efectos menos negativos en los estudios mejor diseñados; y el de Goos y colegas (2021), con 84 estudios recientes, un efecto promedio nulo, con diferencias según el país (los tres según su resumen). En Aprender 2023, el 12,8 % de los chicos de 6.º grado dijo haber repetido alguna vez: el 16,1 % en escuelas estatales, el 4,0 % en privadas y el 24,3 % en nivel socioeconómico bajo.
+
+**El sueño.** Dormir poco, dormir mal y tener sueño durante el día se asocian de manera modesta con peor rendimiento (correlaciones entre 0,07 y 0,13), con efectos mayores en los participantes más jóvenes (Dewald y colegas 2010, según su resumen).
+
+**La edad relativa.** Una revisión sistemática de 21 estudios de 24 países encontró que los más chicos del curso sacan puntajes algo más bajos en pruebas cognitivas y motrices y repiten más (2021, según su resumen). Su efecto sobre el diagnóstico de TDAH está en la entrada de [Psicología infantil](../psicologia-infantil.md).
+
+**El paso a secundaria.** Las revisiones narrativas lo describen como uno de los momentos más estresantes para un chico, que puede afectar su bienestar y su rendimiento (Evans y colegas 2018, según su resumen). No se encontró un metaanálisis ni datos argentinos.
+
+**Los resultados y el clima en Argentina.** En Aprender 2023, con 614.817 chicos de 6.º grado, el 66,4 % llegó a los niveles satisfactorio o avanzado en Lengua y el 51,5 % en Matemática; en Matemática, el 44,9 % en escuelas estatales y el 69,5 % en privadas. Donde el clima escolar era negativo, el 43,1 % quedó en los niveles bajos de Lengua, contra el 29,7 % donde era positivo. El informe dice que el buen clima mejora los resultados, pero un cruce así muestra una asociación, no una causa. Según el buscador, en 2024 el Ministerio corrigió la serie histórica; no se verificó si cambia estas cifras.
 
 > [!NOTE]
-> Sin fuente todavía: casi todo lo que más pesa en el rendimiento de 6 a 12. Falta evidencia sobre la relación con el docente, las expectativas del docente, la repitencia, el paso de un nivel a otro, la edad relativa dentro del grado, el sueño y el rendimiento, y datos argentinos de las pruebas Aprender. La única pieza de esta lista que aparece en el tema es la edad relativa en el diagnóstico de TDAH, en la entrada de [Psicología infantil](../psicologia-infantil.md).
+> Sin fuente todavía: datos argentinos de expectativas del docente, edad relativa, paso a secundaria y sueño; repitencia en Argentina más allá de lo que declaran los chicos; y el texto completo de Roorda, Jussim, Jimerson, Allen y Goos.
 
 ## Cuándo preocupa
 

@@ -54,7 +54,7 @@ Las críticas a los manuales y la pregunta de si se diagnostica de más se discu
 - [Neurodesarrollo](Neurodesarrollo/neurodesarrollo.md) — lo común a los trastornos que empiezan en el desarrollo, con una nota por cada uno:
   - [Autismo](Neurodesarrollo/autismo.md) — qué es un diagnóstico de TEA, "espectro" y "nivel", quién lo diagnostica en Argentina.
   - [TDAH](Neurodesarrollo/tdah.md) — criterios, la edad relativa en el grado y qué ayuda según la edad.
-  - [Trastornos del aprendizaje](Neurodesarrollo/trastornos-del-aprendizaje.md) — dislexia y la Ley 27.306.
+  - [Trastornos del aprendizaje](Neurodesarrollo/trastornos-del-aprendizaje.md) — dislexia, discalculia, qué ayuda y la Ley 27.306.
   - [Trastornos del lenguaje](Neurodesarrollo/trastornos-del-lenguaje.md) — retraso o trastorno, y cuántos chicos lo tienen al empezar la escuela.
   - [Discapacidad intelectual](Neurodesarrollo/discapacidad-intelectual.md) — los grados, el CI y las normas de apoyo.
 - [Ansiedad y miedos](ansiedad-y-miedos.md) — los miedos de cada edad, cuándo dejan de ser normales, ansiedad de separación, fobias, mutismo selectivo, TOC y la terapia cognitivo-conductual.

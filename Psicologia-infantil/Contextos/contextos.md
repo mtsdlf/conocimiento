@@ -6,6 +6,7 @@ estabilidad: estable
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/29574737/
   - https://pubmed.ncbi.nlm.nih.gov/11584788/
+  - https://pubmed.ncbi.nlm.nih.gov/1832495/
   - https://pubmed.ncbi.nlm.nih.gov/32406698/
   - https://pubmed.ncbi.nlm.nih.gov/33136156/
   - https://pubmed.ncbi.nlm.nih.gov/11315249/
@@ -30,7 +31,7 @@ Lo que se repite en varias notas es que pesa cómo es la relación, y no solo cu
 
 ## Efectos chicos en promedio, grandes en algunos chicos
 
-Los números de esta vertical suelen ser modestos, y eso no los vuelve irrelevantes. Los hijos de padres divorciados puntúan por debajo de los de familias que siguen juntas (Amato 2001); que la brecha sea chica sale de cifras de un resumen que no se verificaron en el texto. Los programas escolares contra el acoso reducen el acoso, con un efecto que sus propios metaanálisis llaman modesto o pequeño (Fraguas 2021). Y entre los chicos expuestos a un trauma, la tasa de trastorno por estrés postraumático fue del 15,9 % en un metaanálisis (Alisic 2014): la mayoría no lo desarrolla.
+Los números de esta vertical suelen ser modestos, y eso no los vuelve irrelevantes. Los hijos de padres divorciados puntúan por debajo de los de familias que siguen juntas (Amato 2001), con una brecha chica: la mediana de los efectos fue de 0,14 desvíos estándar en el metaanálisis de 1991 (Amato y Keith 1991). Los programas escolares contra el acoso reducen el acoso, con un efecto que sus propios metaanálisis llaman modesto o pequeño (Fraguas 2021). Y entre los chicos expuestos a un trauma, la tasa de trastorno por estrés postraumático fue del 15,9 % en un metaanálisis (Alisic 2014): la mayoría no lo desarrolla.
 
 Como lectura propia, un promedio chico puede esconder a unos pocos chicos muy afectados. Por eso la pregunta útil para una familia no es si el divorcio o el acoso hacen daño en general, sino qué protege y qué agrava en este caso: el conflicto, el ingreso, cómo siguen criando los adultos, si el chico tiene ya una dificultad previa. La resiliencia, que es seguir funcionando bien pese a la adversidad, es común según Masten (2001), y está en [adversidad y trauma](adversidad-y-trauma.md).
 
@@ -50,8 +51,8 @@ Buena parte de la evidencia sobre acoso, ciberacoso y mentalidad de crecimiento 
 
 ## Qué hay adentro de los contextos
 
-- [Familia](familia.md) — qué dice la investigación sobre el divorcio, el conflicto entre los padres y los hermanos; cómo acompañar vive en Crianza.
-- [Pares y amistad](pares-y-amistad.md) — cuánto se asocian la amistad, la antipatía y la victimización con la tristeza y la soledad de 6 a 12.
-- [Acoso escolar](acoso-escolar.md) — qué es el bullying y el ciberacoso, qué deja, qué programas escolares funcionan y qué dice la ley argentina.
-- [Escuela y aprendizaje](escuela-y-aprendizaje.md) — motivación y rendimiento de 6 a 12: mentalidad de crecimiento, ayuda con la tarea y la ley de dificultades del aprendizaje.
+- [Familia](familia.md) — qué dice la investigación sobre el divorcio, el conflicto entre los padres, otras estructuras de familia, la custodia compartida y los hermanos; cómo acompañar vive en Crianza.
+- [Pares y amistad](pares-y-amistad.md) — cuánto se asocian la amistad, la antipatía, la victimización y el rechazo del grupo con la tristeza y la soledad de 6 a 12, y qué predice el rechazo.
+- [Acoso escolar](acoso-escolar.md) — qué es el bullying y el ciberacoso, cuánto pasa en Argentina, qué deja, qué programas escolares funcionan y qué dice la ley argentina.
+- [Escuela y aprendizaje](escuela-y-aprendizaje.md) — motivación y rendimiento de 6 a 12: mentalidad de crecimiento, ayuda con la tarea, lo que más pesa en el rendimiento (docente, repitencia, sueño, Aprender 2023) y la ley de dificultades del aprendizaje.
 - [Adversidad y trauma](adversidad-y-trauma.md) — experiencias adversas, maltrato, resiliencia, estrés postraumático infantil y trastorno reactivo del apego, con lo que ayuda.

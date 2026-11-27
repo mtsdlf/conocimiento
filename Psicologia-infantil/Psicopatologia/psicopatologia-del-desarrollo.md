@@ -12,6 +12,9 @@ fuentes:
   - https://argentina.gob.ar/normativa/330297_res2641_pdf/archivo
   - https://www.argentina.gob.ar/normativa/nacional/ley-26657-175977/texto
   - https://effectivechildtherapy.org/concerns-symptoms-disorders/disorders/
+  - https://www.aacademica.org/000-032/175.pdf
+  - https://www.aacademica.org/000-029/190.pdf
+  - https://pubmed.ncbi.nlm.nih.gov/10832548/
 aliases: [psicopatología infantil, developmental psychopathology, trastornos mentales en la infancia]
 dueno: familia
 creado: 2026-11-27
@@ -31,16 +34,18 @@ Es la forma de pensar que ordena todas las notas de [Psicopatología](psicopatol
 
 Un síntoma es una conducta o un malestar que se puede observar: un miedo, una pelea, no quedarse quieto. Un trastorno es un patrón de síntomas que los manuales describen con reglas (cuántos, cuánto tiempo, desde qué edad) y que además produce deterioro funcional, que quiere decir que le impide al chico hacer lo que hacen los de su edad en casa, en la escuela o con amigos.
 
-La diferencia pesa en los números. El metaanálisis de Polanczyk y colegas (2015) encontró que exigir deterioro funcional para contar un caso cambia de forma significativa la prevalencia, es decir, la proporción de chicos que tienen el trastorno (según un resumen secundario, sin cotejar con el original). Un chico puede tener varios síntomas y no tener un trastorno.
+La diferencia pesa en los números. El metaanálisis de Polanczyk y colegas (2015) encontró que exigir deterioro funcional para contar un caso cambia de forma significativa la prevalencia, es decir, la proporción de chicos que tienen el trastorno (según el resumen del trabajo). Un chico puede tener varios síntomas y no tener un trastorno.
 
 ## Normal o no según la edad
 
-Casi ninguna conducta es un problema por sí sola en un chico. Llorar al separarse es esperable en los más chicos, y en el seguimiento de Costello la ansiedad de separación bajaba con la edad; los [berrinches](../../Crianza/Emociones-y-caracter/berrinches.md) son normales entre el año y los 4 años y, según Crianza, llaman la atención si siguen frecuentes después de los 5. Por eso los manuales piden que los síntomas sean más intensos o duraderos que "lo esperable para la edad o el nivel de desarrollo", como dice la APA al describir el TDAH (según su resumen).
+Casi ninguna conducta es un problema por sí sola en un chico. Llorar al separarse es esperable en los más chicos; los [berrinches](../../Crianza/Emociones-y-caracter/berrinches.md) son normales entre el año y los 4 años y, según Crianza, llaman la atención si siguen frecuentes después de los 5. Por eso los manuales piden que los síntomas sean más intensos o duraderos que "lo esperable para la edad o el nivel de desarrollo", como dice la APA al describir el TDAH (según su resumen).
 
 Lo que ayuda a separar lo normal de lo que no es mirar tres cosas: la intensidad comparada con chicos de la misma edad, cuánto dura y cuánto le impide hacer su vida. Las [señales de alarma](../../Crianza/Desarrollo/senales-de-alarma.md) de Crianza cubren el desarrollo de 0 a 6 (lenguaje, motricidad, relación con otros); las emocionales y de conducta se tratan en la nota de cada trastorno. El [temperamento](../../Crianza/Emociones-y-caracter/temperamento.md) y la [regulación emocional](../../Crianza/Emociones-y-caracter/regulacion-emocional.md) explican buena parte de las diferencias normales entre chicos.
 
+Con los miedos se ve bien. Según el resumen de una revisión de un siglo de investigación (Gullone 2000), los miedos bajan en cantidad e intensidad con la edad, cada miedo puntual suele ser pasajero, y su contenido cambia de forma previsible: de lo inmediato y concreto en los bebés a lo anticipado y abstracto en la niñez tardía y la adolescencia.
+
 > [!NOTE]
-> Sin fuente todavía: no se encontró una fuente única que ordene, por edad, lo normal frente a lo que pide consulta. Cada nota da lo que hay para su tema.
+> Sin fuente todavía: no se encontró una tabla, en una guía o un libro abierto, que ordene por edad lo normal frente a lo que pide consulta. Cada nota da lo que hay para su tema.
 
 ## Los dos manuales: DSM-5-TR y CIE-11
 
@@ -62,10 +67,17 @@ Hay dos cifras, y no se contradicen porque miden cosas distintas:
 | Chicos y adolescentes con algún trastorno en un momento dado, en el mundo | 13,4 % (IC 95 % 11,3 a 15,9) | Polanczyk y otros 2015, 41 estudios de 27 países, según su resumen |
 | Chicos que tuvieron algún trastorno en algún momento entre los 9 y los 16 años | 36,7 % | Costello y otros 2003, 1.420 chicos seguidos en Estados Unidos, según su resumen |
 
-Polanczyk encontró que las cifras de cada estudio variaban por cómo se armó la muestra y qué entrevista se usó, no por región ni por año. El mismo trabajo da, según un listado secundario que no se cotejó con el paper, estas prevalencias por grupo: ansiedad 6,5 %, trastornos depresivos 2,6 %, TDAH 3,4 % y trastornos disruptivos (los de conducta) 5,7 %. Esas cifras agrupan a chicos y adolescentes; no hay una separada para 6 a 12.
+Polanczyk encontró que las cifras de cada estudio variaban por cómo se armó la muestra y qué entrevista se usó, no por región ni por año. El mismo trabajo da, según su resumen, estas prevalencias por grupo (con su intervalo de confianza del 95 %): ansiedad 6,5 % (4,7 a 9,1), trastornos depresivos 2,6 % (1,7 a 3,9), TDAH 3,4 % (2,6 a 4,5) y trastornos disruptivos (los de conducta) 5,7 % (4,0 a 8,1). Esas cifras agrupan a chicos y adolescentes; no hay una separada para 6 a 12.
+
+## Lo que se sabe de Argentina
+
+No hay un estudio nacional que cuente con entrevista diagnóstica cuántos chicos tienen un trastorno, y los dos estudios locales encontrados dicen que escasean. Los dos usan el CBCL, un cuestionario que responden los padres y que sirve para detectar chicos con problemas (tamizaje), no para diagnosticar:
+
+- **Ciudad de Buenos Aires** (De Lellis y otros 2008): niños escolarizados de 6 a 11 años, en una muestra prevista de 27 escuelas y 2.583 alumnos. El 10,7 % tuvo un puntaje alto y el 4,3 % uno muy alto, y los autores llaman a ese 15 % "población vulnerable". Los cortes se definieron sobre la propia muestra (uno y dos desvíos por encima del promedio), así que ese 15 % sale en buena parte del corte: no es una prevalencia de trastornos y no se compara con el 13,4 % mundial. Los puntajes altos se asociaban con menor nivel socioeconómico, menos instrucción de los padres, hacinamiento, haber repetido de grado y el tipo de familia. De las consultas del último año, el 77,5 % fue al pediatra y el 14,2 % al psicólogo.
+- **San Isidro, provincia de Buenos Aires** (Samaniego 2004): 453 chicos de 6 a 11 años de escuelas públicas. La primera fase, con el cuestionario, dio 20,3 % de chicos con puntajes en la zona de problema. La segunda fase, con entrevista diagnóstica, no se encontró publicada.
 
 > [!NOTE]
-> Sin fuente todavía: no se encontraron cifras argentinas de prevalencia de trastornos mentales infantiles.
+> Sin fuente todavía: cifras argentinas por trastorno (ansiedad, depresión, TDAH) en chicos de 6 a 12, y estudios posteriores a 2013.
 
 ## Los trastornos vienen juntos
 

@@ -4,6 +4,7 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC10416238/
   - https://pubmed.ncbi.nlm.nih.gov/21052833/
   - https://pubmed.ncbi.nlm.nih.gov/27414953/
   - https://local.psy.miami.edu/faculty/dmessinger/c_c/rsrcs/rdgs/emot/yale_2003.pdf
@@ -60,7 +61,7 @@ Las díadas que reparan bien vuelven a una interacción coordinada, y un estudio
 
 ## "Suficientemente bueno": la idea de Winnicott
 
-El pediatra y psicoanalista inglés Donald Winnicott habló de la madre "suficientemente buena" (good enough) en un trabajo de 1953 sobre objetos transicionales, publicado en el International Journal of Psycho-Analysis (datos de una entrada de referencia citada en las fuentes). La idea, tal como se la suele describir (sin fuente leída), es que el chico no necesita un adulto que responda siempre y a la perfección: necesita uno que responda lo suficiente, y que de a poco lo deje enfrentar pequeñas frustraciones que puede tolerar.
+El pediatra y psicoanalista inglés Donald Winnicott habló de la madre "suficientemente buena" (good enough) en un trabajo de 1953 sobre objetos transicionales, publicado en el International Journal of Psycho-Analysis (datos de una entrada de referencia citada en las fuentes). Según una revisión de 2023 que recorre la idea (Xie y otros), es una madre que al principio se adapta casi del todo a las necesidades del bebé y después falla de a poco, lo que lo ayuda a separarse y a reconocer la realidad: el chico no necesita un adulto que responda siempre y a la perfección, sino uno que responda lo suficiente.
 
 Es una idea clínica, no un resultado de investigación. No se verificó la cita textual ni la página, y el informe de fuentes no encontró una fuente verificable para ella. Es compatible con la reparación de Tronick (lectura propia).
 
