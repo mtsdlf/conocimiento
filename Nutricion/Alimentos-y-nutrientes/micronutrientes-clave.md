@@ -4,6 +4,8 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
+  - https://www.efsa.europa.eu/en/press/news/161028
+  - https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values
   - https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/
   - https://ods.od.nih.gov/factsheets/Iron-Consumer/
   - https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/
@@ -46,6 +48,8 @@ Las cantidades de la tabla vienen de las hojas para profesionales de la Oficina 
 | Calcio | RDA 1000 mg de 19 a 50 años; 1200 mg en mujeres mayores de 50 | no se leyó una fuente sobre grupos de riesgo |
 | Zinc | RDA de 8 a 12 mg | vegetarianos y veganos suelen tener menor ingesta y menor zinc en sangre |
 | Yodo | RDA de adultos no leída; 220 mcg en el embarazo y 290 mcg en la lactancia | veganos y quienes comen poco lácteo, huevo, pescado y sal yodada |
+
+La EFSA, la autoridad europea, da para la vitamina D una ingesta adecuada de 15 µg por día para mayores de un año y un máximo tolerable de 100 µg por día para adultos ([EFSA, 2016](https://www.efsa.europa.eu/en/press/news/161028); [EFSA, tema de valores de referencia](https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values)); el 15 coincide con el piso de la tabla.
 
 El cálculo de la RDA de vitamina D tiene una crítica publicada de 2014 sobre su método estadístico ([PMC4210929](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4210929/)): es una cifra con discrepancia, no un consenso cerrado.
 

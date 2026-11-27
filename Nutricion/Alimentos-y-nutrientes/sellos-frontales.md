@@ -67,12 +67,19 @@ El sello es un octógono de fondo negro con borde, texto blanco en mayúsculas y
 
 Los límites siguen el modelo de perfil de nutrientes de la OPS de 2016 (Decreto 151/2022). Ese perfil no usa cantidades absolutas sino proporciones: según Chequeado, dos productos con 5 g de azúcar pueden terminar distinto, uno sin sello porque el azúcar aporta 8 % de sus calorías y otro con sello porque aporta 10 % ([Chequeado](https://chequeado.com/nota/el-gobierno-busca-derogar-la-ley-de-etiquetado-de-alimentos-5-narrativas-falsas-sobre-los-octogonos-negros)).
 
+Tabla 1 del art. 6 del Decreto 151/2022, leída de la imagen que publica argentina.gob.ar (`362577_dto151-2_jpg`). Se pone el sello cuando se alcanza o supera el valor:
+
 | Nutriente | Primera etapa | Segunda etapa |
 |---|---|---|
-| Sodio | 5 mg o más por kcal, con tope de 600 mg por 100 g | 1 mg por kcal y 300 mg por 100 g |
+| Azúcares añadidos | 20 % o más del total de energía | 10 % o más del total de energía |
+| Grasas totales | 35 % o más del total de energía | 30 % o más del total de energía |
+| Grasas saturadas | 12 % o más del total de energía | 10 % o más del total de energía |
+| Sodio | 5 mg o más por 1 kcal, o 600 mg o más por 100 g | 1 mg o más por 1 kcal, o 300 mg o más por 100 g |
+| Sodio, bebidas analcohólicas sin aporte energético | 40 mg o más cada 100 ml | 40 mg o más cada 100 ml |
+| Calorías, alimentos | 300 kcal o más por 100 g | 275 kcal o más por 100 g |
+| Calorías, bebidas analcohólicas | 50 kcal o más por 100 ml | 25 kcal o más por 100 ml |
 
-> [!NOTE]
-> Sin fuente todavía: los puntos de corte de azúcares, grasas saturadas, grasas totales y calorías. Están en la Tabla 1 del art. 6 del Decreto 151/2022, que es una imagen y no se pudo leer. Alternativa: la calculadora de sellos del Ministerio o el perfil de la OPS de 2016.
+Los porcentajes son sobre la energía del producto. La tabla remite a notas al pie (asteriscos) que la imagen no incluye completas; no se copian. Las etapas son las del art. 19: la primera, a los 9 meses de la vigencia de la ley (15 para pymes), y la segunda, a los 18 meses (24 para pymes). Cuál rige hoy no se verificó en esta nota. La cifra de la OPS de 2016 no se cotejó contra el original: es una sola fuente, el decreto.
 
 ## Qué se sabe de su efecto
 
@@ -80,4 +87,4 @@ La evidencia sobre si los sellos cambian lo que se compra es de encuestas, no de
 
 ## Qué tan firme es lo que dice esta nota
 
-El texto de la Ley 27.642 y del Decreto 151/2022 se copió de argentina.gob.ar el 2026-11-27, salvo la tabla de puntos de corte, que es una imagen y no se leyó. Las noticias sobre el proyecto de derogación vienen de notas de prensa, algunas leídas solo como resumen del buscador, y el estado de noviembre de 2026 no se pudo confirmar. La evidencia sobre el efecto de los sellos viene de encuestas citadas por Chequeado, no de los estudios originales.
+El texto de la Ley 27.642 y del Decreto 151/2022 se copió de argentina.gob.ar el 2026-11-27, y la tabla de puntos de corte se leyó de la imagen del decreto, a ojo y sin texto de respaldo. Las noticias sobre el proyecto de derogación vienen de notas de prensa, algunas leídas solo como resumen del buscador, y el estado de noviembre de 2026 no se pudo confirmar. La evidencia sobre el efecto de los sellos viene de encuestas citadas por Chequeado, no de los estudios originales.

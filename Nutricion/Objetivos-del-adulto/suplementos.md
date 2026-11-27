@@ -6,6 +6,9 @@ estabilidad: volatil
 fuentes:
   - https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0173-z
   - https://pubmed.ncbi.nlm.nih.gov/28615996/
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC5469049/
+  - https://www.efsa.europa.eu/en/press/news/161028
+  - https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values
   - https://pubmed.ncbi.nlm.nih.gov/33388079/
   - https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer
   - https://argentina.gob.ar/sites/default/files/2019/02/directrices_suplementos_dietarios_2021.pdf
@@ -33,14 +36,19 @@ Para un adulto que entrena, solo dos tienen evidencia clara: la creatina (3 a 5 
 
 | Suplemento | Qué dice la guía | Fuerza | Cómo se leyó |
 |---|---|---|---|
-| Creatina monohidrato | carga: «5 g de creatina monohidrato (o aproximadamente 0,3 g por kg de peso) cuatro veces al día durante 5 a 7 días»; mantenimiento: «3 a 5 g por día» (traducción; en el original: "5 g of creatine monohydrate (or approximately 0.3 g/kg body weight) four times daily for 5–7 days" y "3–5 g/day") | posición de la ISSN (International Society of Sports Nutrition), 2017 | extracto del texto vía buscador |
+| Creatina monohidrato | carga: «5 g de creatina monohidrato (o aproximadamente 0,3 g por kg de peso) cuatro veces al día durante 5 a 7 días»; mantenimiento: «3 a 5 g por día» (traducción; en el original: "5 g of creatine monohydrate (or approximately 0.3 g/kg body weight) four times daily for 5–7 days" y "3–5 g/day") | posición de la ISSN (International Society of Sports Nutrition), 2017 | texto completo (PMC) |
 | Cafeína | «3 a 6 mg por kg de peso» (en el original: "3-6 mg/kg body mass"), unos 60 minutos antes; más efectos adversos con 9 mg/kg | posición de la ISSN, 2021 | resumen |
 | Proteína en polvo | es proteína como la de la comida; cuenta dentro del total del día | ver [masa muscular y recomposición](masa-muscular-y-recomposicion.md) | |
 
 La creatina es el suplemento con más respaldo para el entrenamiento de fuerza. La posición de la International Society of Sports Nutrition (ISSN) la considera segura y bien tolerada en personas sanas y en varios grupos de pacientes ([Kreider y otros, 2017](https://pubmed.ncbi.nlm.nih.gov/28615996/), según su resumen). La seguridad tiene una sola fuente, la propia ISSN.
 
-> [!NOTE]
-> Sin fuente todavía: tres datos de la posición que circulan y no se pudieron leer en el texto, la cantidad máxima estudiada (hasta 30 g por día durante 5 años), el máximo de 5 a 10 g por día en atletas grandes y cuánto tardan en volver los depósitos al dejarla. Las dosis de carga y de mantenimiento de la tabla salen de un extracto del texto que devolvió el buscador, no de la página de la revista, que no se pudo abrir.
+Otros tres datos del texto completo de la posición (leído en PMC, [Kreider y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5469049/)), traducidos:
+
+- Cantidad máxima estudiada: la suplementación de corto y largo plazo «(hasta 30 g por día durante 5 años) es segura y bien tolerada en personas sanas» (en el original: "up to 30 g/day for 5 years) is safe and well-tolerated in healthy individuals").
+- Atletas grandes: una vez saturados los depósitos, se mantienen con 3 a 5 g por día, «aunque algunos estudios indican que los atletas más grandes pueden necesitar hasta 5 a 10 g por día» (en el original: "larger athletes may need to ingest as much as 5–10 g/day").
+- Al dejarla: una vez elevados los depósitos del músculo, «suele llevar de 4 a 6 semanas» volver a la base (en el original: "it generally takes 4–6 weeks for creatine stores to return to baseline").
+
+La seguridad sigue teniendo una sola fuente, la propia ISSN. Para menores de 18 años la posición dice que no hay evidencia científica que lo impida, pero conviene consultar antes al médico.
 
 La cafeína tiene su explicación en [rendimiento](rendimiento.md).
 
@@ -51,8 +59,10 @@ Ningún suplemento reemplaza el plato: la base es la comida de todos los días, 
 - **Omega-3**: para mayores de 1 año solo hay ingesta adecuada fijada para el ALA, no para EPA ni DHA. La FDA (la agencia de alimentos y medicamentos de Estados Unidos) recomienda no pasar de 5 g por día de EPA más DHA en suplementos, interactúa con anticoagulantes como la warfarina y un ensayo grande no halló que bajara el riesgo de cáncer ([NIH, Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer), según su resumen). No se leyó evidencia sobre rendimiento.
 - **Vitamina D**: las cantidades recomendadas y los límites están en [micronutrientes clave](../Alimentos-y-nutrientes/micronutrientes-clave.md). Si conviene suplementarla depende de un análisis y lo decide el médico.
 
+  Dos valores de la Autoridad Europea de Seguridad Alimentaria (EFSA): una ingesta adecuada de 15 µg por día «para personas sanas de más de un año» (en el original: "an adequate intake (AI) of 15 µg per day for healthy individuals over one year of age", [EFSA, 28/10/2016](https://www.efsa.europa.eu/en/press/news/161028)) y un nivel máximo tolerable de 100 µg por día para adultos (en el original: "EFSA maintains the tolerable upper intake level for vitamin D at 100 micrograms per day for adults", [EFSA, entrada de agosto de 2023](https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values)). Son valores de población, no la dosis de un suplemento: la dosis la indica el médico según el análisis.
+
 > [!NOTE]
-> Sin fuente todavía: la hoja de vitamina D de la Office of Dietary Supplements (no se pudo abrir), con el criterio de déficit y la dosis de un suplemento. Tampoco hay una fuente que diga con esas palabras que la mayoría de los suplementos no tiene evidencia: queda como inferencia.
+> Sin fuente todavía: la hoja de vitamina D de la Office of Dietary Supplements (no se pudo abrir, devuelve error 403), con el criterio de déficit en sangre. Tampoco hay una fuente que diga con esas palabras que la mayoría de los suplementos no tiene evidencia: queda como inferencia.
 
 ## Cómo los regula ANMAT
 

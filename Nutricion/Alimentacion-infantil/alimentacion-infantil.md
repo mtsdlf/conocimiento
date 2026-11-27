@@ -35,8 +35,7 @@ El atragantamiento con comida es el riesgo agudo de esta edad. La Sociedad Argen
 
 La pelea más común es el chico que rechaza verduras. Lo que dicen las fuentes es que la aceptación sube con la exposición repetida (8 a 10 veces o más) y que la SAP desaconseja obligar a comer; los pasos están en [el chico que no come](chico-que-no-come.md). La segunda es el azúcar: cuánto, cuándo y cómo se maneja sin convertir la golosina en premio ([azúcar y golosinas](azucar-y-golosinas.md)). La tercera es práctica: qué va en la vianda del jardín, donde el folleto oficial y las sociedades de pediatría no dicen lo mismo ([colaciones y vianda](colaciones-y-vianda.md)).
 
-> [!NOTE]
-> Sin fuente todavía: porciones por grupo, energía y leche para chicos de 2 a 6 años. La guía infantil del Ministerio de Salud (2006) se leyó y no las trae para esa edad; lo que sí dice está en [necesidades de 2 a 6](necesidades-de-2-a-6.md).
+Para las porciones y la leche de 2 a 6 años hay datos con fuente, pero de una sola mirada argentina y de la AAP; están en [necesidades de 2 a 6](necesidades-de-2-a-6.md).
 
 ## Qué hay adentro de la alimentación infantil
 

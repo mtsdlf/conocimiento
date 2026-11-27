@@ -4,6 +4,7 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - https://www.argentina.gob.ar/node/363317
   - https://www.argentina.gob.ar/anmat/comunidad/informacion-de-interes-para-tu-salud/como-guardar-los-alimentos-en-la-heladera
   - https://www.argentina.gob.ar/enfermedades-transmitidas-por-alimentos
   - https://argentina.gob.ar/sites/default/files/2023/05/alimentacion_viandas_2022.pdf
@@ -36,8 +37,7 @@ El riesgo de una tanda está, por inferencia de las reglas oficiales, en el enfr
 5. **Rotulá cada envase con qué es y la fecha.** Es práctica común, sin fuente; sirve para aplicar los plazos de [higiene y conservación](higiene-y-conservacion.md).
 6. **Poné lo cocido en el estante de arriba.** Las carnes crudas van abajo, tapadas, para que no goteen sobre lo que ya está listo (ANMAT).
 
-> [!NOTE]
-> Sin fuente todavía: cuántos días dura en heladera una comida cocida. La página de ANMAT da plazos solo para alimentos crudos y no da uno para sobras; un medio atribuye a ANMAT "no más de tres días", pero no se encontró en la fuente. Hasta tenerlo, la regla segura es congelar lo que no se come pronto.
+**Cuántos días dura lo cocido en la heladera.** Según el Senasa (2023), el servicio nacional de sanidad agroalimentaria: "Carne cruda, carne cocida y leche pasteurizada: 2 a 3 días"; "Verduras cocidas: 3 a 4 días"; "Verduras crudas y platos cocinados: 3 a 5 días" ([Senasa](https://www.argentina.gob.ar/node/363317)). Son plazos de "mantenimiento de calidad", no de seguridad, y es una sola fuente: ANMAT no da plazo para las sobras y no se pudo abrir la tabla del USDA. Para planificar una semana, la cuenta prudente es comer dentro de 2 a 3 días lo que tiene carne y congelar el resto (inferencia de esta base).
 
 ## Descongelar y recalentar
 

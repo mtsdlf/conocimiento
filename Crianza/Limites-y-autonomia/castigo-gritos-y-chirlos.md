@@ -69,13 +69,16 @@ Los estudios miden la disciplina verbal dura como un patrón que se repite, no u
 
 ## Cuánto pasa en Argentina
 
-Según un comunicado de UNICEF del 1/11/2017, con datos de encuestas de hogares de 2005 a 2016, en Argentina recibió castigo físico el 54,4 % de los chicos de 2 a 4 años y agresión verbal el 62,5 %; el 72,9 % de ese grupo recibió alguna forma de disciplina violenta. En la encuesta ECOVNA de 2012, citada por UNICEF, solo el 3,7 % de los adultos aprobaba el castigo físico, mientras que el 69,5 % decía usar violencia física para criar.
+Según un comunicado de UNICEF del 1/11/2017, con datos de encuestas de hogares de 2005 a 2016, en Argentina recibió castigo físico el 54,4 % de los chicos de 2 a 4 años y agresión verbal el 62,5 %; el 72,9 % de ese grupo recibió alguna forma de disciplina violenta. En la encuesta ECOVNA de 2011-2012, que cita la guía de UNICEF de octubre de 2017 (leída en su texto), el 46,4 % de los padres reconocía usar violencia física para criar o disciplinar y solo el 3,7 % creía que los chicos deben ser castigados físicamente.
 
-Las dos cifras de 2012 sugieren que casi nadie defiende el chirlo y que muchos lo usan igual, pero salen de una lectura de UNICEF que no se verificó en la encuesta original. Los pasos de [límites y consecuencias](limites-y-consecuencias.md) apuntan a esa distancia: qué hacer en vez de pegar cuando el chico no obedece.
+> [!IMPORTANT]
+> UNICEF da dos cifras distintas de uso para la misma encuesta. La guía de 2017 dice 46,4 %; la página "Crianza sin violencia" de UNICEF Argentina dice que "el 69,5% reconoce utilizar la violencia física para criar a sus hijos e hijas", citando la ECOVNA 2012 ([UNICEF](https://www.unicef.org/argentina/crianza-sin-violencia)). Ninguna de las dos explica la diferencia, y la encuesta original no se leyó. Las dos coinciden en el 3,7 % que aprueba el castigo físico.
+
+Las dos cifras de 2011-2012 sugieren que casi nadie defiende el chirlo y que muchos lo usan igual. Las lee la guía de UNICEF, no la encuesta original. Los pasos de [límites y consecuencias](limites-y-consecuencias.md) apuntan a esa distancia: qué hacer en vez de pegar cuando el chico no obedece.
 
 ## Qué tan firme es lo que dice esta nota
 
-Gershoff y Grogan-Kaylor, la posición de la AAP, Larzelere y colegas, Ferguson, Wang y Kenny y la respuesta de Gershoff se conocen por sus resúmenes, no por el texto completo; lo de Ferguson, por el resumen del buscador, y la definición de chirlo, por cobertura de prensa. Las cifras de UNICEF vienen de una lectura de UNICEF que no se verificó en la encuesta original. Que el cariño no compensó los gritos es lectura propia.
+Gershoff y Grogan-Kaylor, la posición de la AAP, Larzelere y colegas, Ferguson, Wang y Kenny y la respuesta de Gershoff se conocen por sus resúmenes, no por el texto completo; lo de Ferguson, por el resumen del buscador, y la definición de chirlo, por cobertura de prensa. Las cifras de 2011-2012 vienen de la guía de UNICEF, no de la encuesta original; las de 2005-2016, de un comunicado de UNICEF. Que el cariño no compensó los gritos es lectura propia.
 
 > [!NOTE]
-> Sin fuente todavía: cifras posteriores a 2016 verificadas en la fuente primaria (hay datos de 2019-2020 citados por la prensa que no se pudieron abrir) y la "Guía práctica para evitar gritos, chirlos y estereotipos" de UNICEF, que no se leyó.
+> Sin fuente todavía: cifras posteriores a 2016 verificadas en la fuente primaria (hay datos de 2019-2020 citados por la prensa que no se pudieron abrir).
