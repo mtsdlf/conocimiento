@@ -63,7 +63,7 @@ Cada término tiene un solo nombre en todo el tema; los sinónimos van entre par
 | [Carga interna](../Carga/carga-interna-y-externa.md) | Internal load | Lo que costó: el esfuerzo percibido, la frecuencia cardíaca, el lactato. |
 | [RPE](../Carga/carga-interna-y-externa.md) (esfuerzo percibido) | Rating of perceived exertion | Una escala para puntuar qué tan duro se siente un esfuerzo. |
 | [sRPE](../Carga/carga-interna-y-externa.md) (RPE de la sesión) | Session RPE | El RPE de toda la sesión multiplicado por sus minutos; según Foster, un método válido para cuantificar el entrenamiento en cualquier modalidad. |
-| [ACWR](../Carga/carga-interna-y-externa.md) (razón aguda:crónica) | Acute:chronic workload ratio | La carga de la última semana dividida por la de las últimas semanas; propuesta para predecir lesiones y bajo crítica estadística fuerte. |
+| [ACWR](../Carga/carga-interna-y-externa.md) (ratio aguda:crónica) | Acute:chronic workload ratio | La carga de la última semana dividida por la de las últimas semanas; propuesta para predecir lesiones y bajo crítica estadística fuerte. |
 
 ## Planificación: cómo se ordena en el tiempo
 
@@ -96,7 +96,7 @@ Cada término tiene un solo nombre en todo el tema; los sinónimos van entre par
 |---|---|---|
 | [Recuperación](../Recuperacion/recuperacion.md) | Recovery | El tiempo y las condiciones en que la fatiga se va y aparece la adaptación. |
 | [Dolor muscular tardío](../Recuperacion/dolor-y-lesiones.md) (agujetas) | Delayed-onset muscle soreness (DOMS) | El dolor difuso que aparece horas después de un esfuerzo nuevo o al volver de un parate; no es una lesión. |
-| [Overreaching](../Recuperacion/sobreentrenamiento.md) (funcional y no funcional) | Functional / non-functional overreaching | Una caída breve del rendimiento por acumular carga: la funcional se recupera con descanso; la no funcional tarda más. |
+| [Sobrecarga funcional y no funcional](../Recuperacion/sobreentrenamiento.md) (overreaching) | Functional / non-functional overreaching | Una caída breve del rendimiento por acumular carga: la funcional se recupera con descanso; la no funcional tarda más. |
 | [Sobreentrenamiento](../Recuperacion/sobreentrenamiento.md) | Overtraining syndrome (OTS) | Una desadaptación prolongada, según el consenso de Meeusen y otros (2013); distinguirlo del overreaching no funcional es muy difícil y lo hace un profesional. |
 | [REDs](../Recuperacion/sobreentrenamiento.md) | Relative energy deficiency in sport | "A syndrome of deleterious health and performance outcomes" por comer poco para lo que se entrena, según el consenso del COI de 2023; antes se escribía RED-S. |
 

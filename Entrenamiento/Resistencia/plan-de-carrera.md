@@ -49,7 +49,7 @@ La regla del 10 % dice que el volumen semanal no debe subir más de un 10 % de u
 
 Lo que sí aparece es que el volumen importa. En la cohorte de Nielsen, una progresión de volumen más rápida aumentó las lesiones ligadas a la distancia, pero no el total, y una revisión vio evidencia moderada de que el volumen se asocia con lesión ([Nielsen y otros](https://vbn.aau.dk/ws/files/284775170/e000333.full.pdf), según su resumen; diseño por confirmar). En el ensayo Run Clever, progresar en volumen o en intensidad dio el mismo riesgo en corredores recreativos ([Ramskov y otros, 2018](https://doaj.org/article/1457af541b38409483fe65c601d800c7), según su resumen).
 
-Subí el volumen de a poco y mirá cómo responde el cuerpo, sin creer que un número fijo te protege. Las tres fuentes son independientes y apuntan a lo mismo: ninguna regla de porcentaje está probada, y los saltos grandes de volumen se asocian con más lesión. Por qué un índice como la razón aguda:crónica tampoco sirve de regla está en [carga interna y externa](../Carga/carga-interna-y-externa.md). Qué hacer con un dolor, en [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md).
+Subí el volumen de a poco y mirá cómo responde el cuerpo, sin creer que un número fijo te protege. Las tres fuentes son independientes y apuntan a lo mismo: ninguna regla de porcentaje está probada, y los saltos grandes de volumen se asocian con más lesión. Por qué un índice como la ratio aguda:crónica tampoco sirve de regla está en [carga interna y externa](../Carga/carga-interna-y-externa.md). Qué hacer con un dolor, en [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md).
 
 ## De 0 a 5 km: caminar y correr
 
