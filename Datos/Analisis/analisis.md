@@ -2,7 +2,7 @@
 resumen: >-
   El análisis es el proceso que lleva de una pregunta de negocio a una decisión: formularla,
   conseguir y preparar los datos, limpiarlos, analizarlos, comunicar lo encontrado y actuar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Grow with Google, What is data analytics (21-04-2025): https://grow.google/grow-your-career/articles/what-is-data-analytics/"
@@ -15,7 +15,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (secciones 1 y 6)"
 aliases: [análisis de datos, data analysis, proceso de análisis, ciclo de análisis, CRISP-DM]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis

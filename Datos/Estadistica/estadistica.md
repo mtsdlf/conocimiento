@@ -3,7 +3,7 @@ resumen: >-
   La estadística, en el análisis de negocio, es lo que dice qué se puede concluir de un número: cómo
   resumir muchos valores sin esconder lo importante, cuánto se puede generalizar desde una muestra,
   cuándo una relación es causa y qué sesgos hacen que un dato mienta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenIntro Statistics, índice de capítulos (solo la página del libro): https://www.openintro.org/book/os/"
@@ -14,7 +14,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (secciones 4, 7 y 8)"
 aliases: [estadística para análisis, estadística aplicada, statistics, inferencia estadística]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estadística

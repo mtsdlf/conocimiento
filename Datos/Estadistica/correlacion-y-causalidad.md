@@ -3,7 +3,7 @@ resumen: >-
   Una correlación dice que dos cosas varían juntas; una causa, que cambiar una cambia la otra. Pasar
   de la primera a la segunda exige comparar con lo que habría pasado sin el cambio, el contrafactual,
   y eso solo lo da bien un grupo de control.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Miguel Hernán y James Robins, Causal Inference: What If (Chapman & Hall/CRC, 2020; versión web © 2026), parte I (solo la página del libro): https://miguelhernan.org/whatifbook"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/estadistica.md"
 aliases: [correlación no implica causalidad, causalidad, inferencia causal, causal inference, contrafactual, confusor, diferencias en diferencias, difference-in-differences]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Correlación y causalidad

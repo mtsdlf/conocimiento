@@ -4,7 +4,7 @@ resumen: >-
   (clientes, productos, proveedores), y gestionarlos es lograr que cada una tenga un solo registro
   que vale, el registro de oro, aunque aparezca en la tienda, el punto de venta y el sistema de
   gestión.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "TechTarget, Master data management (según el resumen del buscador): https://www.techtarget.com/searchdatamanagement/definition/master-data-management"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/gobierno-y-privacidad.md"
 aliases: [datos maestros, master data, MDM, gestión de datos maestros, master data management, registro de oro, golden record, datos de referencia, reference data]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Datos maestros

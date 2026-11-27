@@ -3,7 +3,7 @@ resumen: >-
   El modelado dimensional ordena los datos para analizar en tablas de hechos, que guardan las
   medidas de un proceso del negocio con un grano declarado, y tablas de dimensiones, que guardan el
   contexto (quién, qué, dónde, cuándo) por el que se filtra y se agrupa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kimball Group, Grain: http://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/grain/"
@@ -20,7 +20,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 5)"
 aliases: [esquema en estrella, star schema, hechos y dimensiones, Kimball, dimensional modeling, dimensión lentamente cambiante, SCD]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelado dimensional

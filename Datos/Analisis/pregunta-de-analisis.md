@@ -3,7 +3,7 @@ resumen: >-
   Una pregunta de análisis es un pedido de información reformulado para que los datos puedan
   contestarlo: nombra la métrica, la población y el período, y dice qué decisión cambia con la
   respuesta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Coursera, Ask Questions to Make Data-Driven Decisions (curso 2 del certificado de Google, programa del curso): https://www.coursera.org/learn/ask-questions-make-decisions"
@@ -15,7 +15,7 @@ fuentes:
   - "Datos/.investigacion/analisis.md"
 aliases: [preguntas SMART, SMART questions, pregunta de negocio, formular la pregunta, business understanding, ask]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pregunta de análisis

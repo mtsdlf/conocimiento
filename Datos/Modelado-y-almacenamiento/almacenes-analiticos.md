@@ -4,7 +4,7 @@ resumen: >-
   el data warehouse los guarda ya integrados y con estructura, el data lake los guarda crudos y en
   cualquier formato, y el lakehouse intenta dar las garantías del primero sobre el almacenamiento
   barato del segundo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Definición de data warehouse atribuida a Inmon, vía Springer, Encyclopedia of Database Systems (solo buscador): https://link.springer.com/referenceworkentry/10.1007/978-1-4614-8265-9_121"
@@ -15,7 +15,7 @@ fuentes:
   - "Datos/.investigacion/modelado-e-ingesta.md (sección 4)"
 aliases: [data warehouse, data lake, lakehouse, almacén de datos, lago de datos, warehouse]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Almacenes analíticos

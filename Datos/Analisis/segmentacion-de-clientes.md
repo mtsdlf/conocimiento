@@ -3,7 +3,7 @@ resumen: >-
   La segmentación de clientes es agrupar a los clientes que ya compraron según lo que hicieron
   (cuándo compraron por última vez, cuántas veces, cuánto gastaron) para tratar distinto a cada
   grupo. RFM es una técnica habitual para hacerlo con una tabla de ventas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IBM SPSS Statistics 23, RFM Analysis: https://www.ibm.com/support/knowledgecenter/SSLVMB_23.0.0/spss/rfm/rfm_intro.xml.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Datos/.investigacion/analisis.md"
 aliases: [RFM, análisis RFM, RFM analysis, customer segmentation, segmentar clientes, recencia frecuencia monetario, segmento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Segmentación de clientes

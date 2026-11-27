@@ -2,7 +2,7 @@
 resumen: >-
   Elegir un gráfico es decidir qué relación entre los datos se quiere mostrar y codificarla con la
   marca visual que el ojo compara con más precisión, sin deformar las proporciones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Cleveland y McGill, Graphical Perception, Journal of the American Statistical Association 79 (1984), según resúmenes: https://www.jstor.org/stable/2288400"
@@ -17,7 +17,7 @@ fuentes:
   - "Datos/.investigacion/metricas-y-visualizacion.md (sección 3)"
 aliases: [tipo de gráfico, elegir una visualización, chart choice, percepción gráfica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir un gráfico

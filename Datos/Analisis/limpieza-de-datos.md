@@ -3,7 +3,7 @@ resumen: >-
   La limpieza de datos es dejar una tabla en condiciones de analizarla: ordenarla para que cada
   columna sea una variable y cada fila una observación, y decidir qué hacer con los faltantes, los
   duplicados, los atípicos y los formatos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hadley Wickham, Tidy Data, Journal of Statistical Software 59(10), 2014, secciones 2 y 3: https://www.jstatsoft.org/article/view/v059i10 (PDF: https://vita.had.co.nz/papers/tidy-data.pdf)"
@@ -14,7 +14,7 @@ fuentes:
   - "Datos/.investigacion/analisis.md"
 aliases: [data cleaning, limpiar datos, preparación de datos, datos ordenados, tidy data, valores faltantes, missing values, outliers, atípicos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Limpieza de datos

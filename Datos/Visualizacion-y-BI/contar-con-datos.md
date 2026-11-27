@@ -2,7 +2,7 @@
 resumen: >-
   Contar con datos es presentar un hallazgo para que alguien que no hizo el análisis entienda qué
   pasó y qué conviene hacer: una idea principal, el gráfico que la muestra y lo justo de contexto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Cole Nussbaumer Knaflic, Storytelling with Data (Wiley, 2015), solo la ficha: https://oreilly.com/library/view/storytelling-with-data/9781119002253"
@@ -11,7 +11,7 @@ fuentes:
   - "Datos/.investigacion/metricas-y-visualizacion.md (sección 6)"
 aliases: [storytelling con datos, data storytelling, presentar hallazgos, comunicar datos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contar con datos

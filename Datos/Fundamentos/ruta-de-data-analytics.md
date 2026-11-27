@@ -3,7 +3,7 @@ resumen: >-
   La ruta de Data Analytics es el orden para aprender el análisis de datos con las notas de la base
   (Análisis, Estadística, Analítica de producto y Visualización y BI, con la ingeniería como
   panorama), practicado sobre las ventas de una tienda online chica.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Coursera, Google Data Analytics Professional Certificate: https://www.coursera.org/professional-certificates/google-data-analytics"
@@ -12,7 +12,7 @@ fuentes:
   - "Datos/.investigacion/estadistica.md, sección 1 (el caso de ticket promedio contra mediana)"
 aliases: [ruta de datos, aprender data analytics, cómo aprender análisis de datos, ejercicios de datos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ruta de Data Analytics

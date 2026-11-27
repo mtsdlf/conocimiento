@@ -3,7 +3,7 @@ resumen: >-
   Ingesta y transformación es la parte de Datos que lleva el dato desde los sistemas donde nace
   hasta el almacén donde se analiza y le da la forma del modelo: traerlo, transformarlo y encadenar
   esos pasos para que corran solos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Joe Reis y Matt Housley, Fundamentals of Data Engineering, cap. 7 Ingestion (O'Reilly, 2022); no leído, estructura del capítulo vía buscador: https://oreilly.com/library/view/fundamentals-of-data/9781098108298"
@@ -12,7 +12,7 @@ fuentes:
   - "Datos/.investigacion/modelado-e-ingesta.md (secciones 7 a 10 y sobre la división del árbol)"
 aliases: [pipeline de datos, pipelines, data pipeline, integración de datos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ingesta y transformación

@@ -3,7 +3,7 @@ resumen: >-
   La analítica de producto es el análisis aplicado a lo que hacen usuarios y compradores: qué
   acciones registran, en qué orden las hacen y cuántos vuelven, contado con métricas definidas por
   escrito.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "dbt Docs, Metrics: types and definition components (según su resumen): https://docs.getdbt.com/docs/build/metrics-overview"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 3)"
 aliases: [analítica de comportamiento, behavioral analytics, analítica de usuarios]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Analítica de producto

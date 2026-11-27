@@ -4,7 +4,7 @@ resumen: >-
   responde por cada conjunto de datos, qué cuenta como un dato bueno, de dónde sale cada número, qué
   registro de un cliente o un producto es el que vale y qué permite la ley hacer con los datos de las
   personas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "DAMA International, Body of Knowledge (solo la página institucional): https://www.dama.org/cpages/body-of-knowledge"
@@ -17,7 +17,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md"
 aliases: [gobierno de datos, data governance, gestión de datos, data management, gobernanza de datos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gobierno y calidad

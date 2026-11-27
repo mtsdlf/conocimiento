@@ -3,7 +3,7 @@ resumen: >-
   Los tipos de analítica son cuatro clases de pregunta que un análisis puede contestar: qué pasó
   (descriptiva), por qué pasó (diagnóstica), qué va a pasar (predictiva) y qué conviene hacer
   (prescriptiva).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "destinationCRM, Gartner Data & Analytics Summit 2017 Day 2: The Evolution of Analytics (08-03-2017), con Peter Krensky: https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/Gartner-Data-and-Analytics-Summit-2017-Day-2-The-Evolution-of-Analytics-116832.aspx"
@@ -15,7 +15,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 6)"
 aliases: [analítica descriptiva, analítica diagnóstica, analítica predictiva, analítica prescriptiva, descriptive analytics, predictive analytics, prescriptive analytics, Analytic Ascendancy Model, escalera de la analítica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tipos de analítica

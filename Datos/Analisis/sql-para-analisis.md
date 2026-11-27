@@ -3,7 +3,7 @@ resumen: >-
   SQL para análisis es el uso del lenguaje de consultas de las bases de datos para contestar
   preguntas: saber qué es una fila, unir tablas sin duplicar, agregar, tratar los NULL y calcular
   sobre filas vecinas con funciones de ventana.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL 19, 7.2 Table Expressions: https://www.postgresql.org/docs/current/queries-table-expressions.html"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/analisis.md"
 aliases: [SQL, consultas SQL, SQL analítico, joins, fan-out, fanout, funciones de ventana, window functions, grano, granularidad, grain]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # SQL para análisis

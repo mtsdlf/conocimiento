@@ -2,7 +2,7 @@
 resumen: >-
   ETL y ELT son dos órdenes para el mismo trabajo: en ETL el dato se transforma antes de cargarlo
   en el almacén; en ELT se carga crudo y se transforma después, adentro del almacén.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "dbt Labs (Daniel Poppy), Understanding ELT: Extract, Load, Transform (6 sep. 2023): https://www.getdbt.com/blog/extract-load-transform"
@@ -11,7 +11,7 @@ fuentes:
   - "Datos/.investigacion/modelado-e-ingesta.md (sección 8 y sobre la división del árbol)"
 aliases: [ETL, ELT, transformación de datos, extract transform load, extraer transformar cargar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # ETL y ELT

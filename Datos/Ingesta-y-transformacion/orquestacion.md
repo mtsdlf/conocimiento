@@ -2,7 +2,7 @@
 resumen: >-
   La orquestación es encadenar y programar los pasos de un pipeline de datos para que corran solos,
   en orden, a su hora y con reintentos, describiéndolos como un grafo de tareas con dependencias.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Apache Airflow, Dags (documentación de la versión 3.4.0): https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/dags.html"
@@ -10,7 +10,7 @@ fuentes:
   - "Datos/.investigacion/modelado-e-ingesta.md (sección 9)"
 aliases: [orquestador, DAG, workflow de datos, programación de pipelines, scheduler]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Orquestación

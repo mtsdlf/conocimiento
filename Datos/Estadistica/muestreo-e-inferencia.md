@@ -3,7 +3,7 @@ resumen: >-
   La inferencia estadística saca conclusiones sobre una población a partir de una muestra, y dice
   cuánta incertidumbre tienen: con intervalos de confianza, con p-valores y con un tamaño de muestra
   elegido de antemano para tener potencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ASA, Statement on Statistical Significance and P-Values (7 de marzo de 2016): https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 4)"
 aliases: [inferencia estadística, inferencia, muestreo, p-valor, p-value, valor p, intervalo de confianza, potencia estadística, tamaño de muestra]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Muestreo e inferencia

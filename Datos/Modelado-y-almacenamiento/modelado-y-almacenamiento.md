@@ -3,7 +3,7 @@ resumen: >-
   Modelado y almacenamiento es la parte de Datos que decide dónde se guarda el dato y con qué forma:
   la base de la aplicación o una copia para analizar, tablas normalizadas o un modelo de hechos y
   dimensiones, y un almacén analítico cuando hace falta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Kleppmann, Designing Data-Intensive Applications, cap. 3 (1ª ed.), sección Transaction Processing versus Analytics, según resúmenes secundarios: https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch03.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 2)"
 aliases: [almacenamiento de datos, modelado de datos, data modeling, data storage]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelado y almacenamiento

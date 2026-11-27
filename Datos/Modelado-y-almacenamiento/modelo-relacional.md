@@ -2,14 +2,14 @@
 resumen: >-
   El modelo relacional guarda los datos en tablas de filas y columnas, identifica cada fila con una
   clave y relaciona las tablas por esas claves, de modo que cada dato se escribe una sola vez.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "E. F. Codd, A Relational Model of Data for Large Shared Data Banks, Communications of the ACM 13(6), junio 1970, pp. 377-387, secciones 1.3 y 1.4 (copia en UPenn): https://www.engineering.upenn.edu/~zives/03f/cis550/codd.pdf"
   - "Datos/.investigacion/modelado-e-ingesta.md (sección 2)"
 aliases: [base relacional, modelo de Codd, normalización, relational model, clave primaria, clave foránea]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelo relacional

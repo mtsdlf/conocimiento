@@ -3,7 +3,7 @@ resumen: >-
   Fundamentos reúne lo que cruza todo el tema Datos sin ser una de sus partes: de dónde viene el
   campo, los dos marcos que lo dividen, los roles que se reparten el recorrido del dato, las fuentes
   del tema y las dos rutas para aprenderlo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Joe Reis, The Data Engineering Lifecycle and Undercurrents, 4 Years Later (2026): https://joereis.substack.com/p/the-data-engineering-lifecycle-and"
@@ -21,7 +21,7 @@ fuentes:
   - "Datos/.investigacion/vistazo.md, sección 1"
 aliases: [fundamentos, fundamentos del tema Datos, historia de los datos, marcos de datos]
 creado: 2026-11-19
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de datos

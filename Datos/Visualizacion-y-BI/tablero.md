@@ -2,7 +2,7 @@
 resumen: >-
   Un tablero (dashboard) es una pantalla que reúne la información más importante para seguir uno o más
   objetivos, ordenada para que quien la mira vea de un vistazo si algo se salió de lo normal.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Stephen Few, Dashboard Confusion (Intelligent Enterprise, 2004), reimpresión (según su resumen): https://www.informationweek.com/government/dashboard-confusion-2"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 3)"
 aliases: [dashboard, tablero de control, panel, cuadro de mando]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tablero

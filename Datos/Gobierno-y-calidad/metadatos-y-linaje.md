@@ -3,7 +3,7 @@ resumen: >-
   Los metadatos son los datos sobre los datos: qué significa cada columna, de qué tipo es, quién la
   mantiene y de dónde viene. El linaje es la parte de los metadatos que registra el camino de un
   dato, qué procesos lo leyeron y lo escribieron desde la fuente hasta el tablero.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenLineage, Object model (según el resultado del buscador; versión 1.40.1 de la documentación): https://openlineage.io/docs/spec/object-model"
@@ -12,7 +12,7 @@ fuentes:
   - "Datos/.investigacion/gobierno-y-privacidad.md"
 aliases: [metadatos, metadata, linaje, linaje de datos, data lineage, catálogo de datos, data catalog, diccionario de datos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Metadatos y linaje

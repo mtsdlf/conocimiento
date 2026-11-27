@@ -2,7 +2,7 @@
 resumen: >-
   Qué hace, con qué licencia y a qué precio de lista se ofrecen seis herramientas de ingesta,
   transformación y orquestación de datos, leídas el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Airbyte, pricing y repo: https://airbyte.com/pricing; https://github.com/airbytehq/airbyte"
@@ -15,7 +15,7 @@ fuentes:
   - "Datos/.investigacion/modelado-e-ingesta.md (secciones 7 y 10)"
 aliases: [herramientas de ETL, herramientas de ELT, orquestadores]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramientas de pipeline

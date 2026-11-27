@@ -2,7 +2,7 @@
 resumen: >-
   Licencias y precios públicos de cinco herramientas de BI (Power BI, Tableau, Looker Studio,
   Metabase y Superset), copiados el 2026-11-27 con su fuente y sus discrepancias.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Microsoft, Power BI pricing (según su resumen): https://www.microsoft.com/en-us/power-platform/products/power-bi/pricing"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/metricas-y-visualizacion.md (sección 7)"
 aliases: [herramientas de business intelligence, BI tools, Power BI, Tableau, Looker Studio, Metabase, Superset]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramientas de BI

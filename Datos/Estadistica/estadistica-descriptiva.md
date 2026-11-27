@@ -2,7 +2,7 @@
 resumen: >-
   La estadística descriptiva resume un conjunto de valores con pocos números (un centro, una
   dispersión) y con la forma de su distribución, sin pretender decir nada más allá de esos datos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenIntro Statistics, cap. 2, Summarizing Data (solo la página del libro): https://www.openintro.org/book/os/"
@@ -15,7 +15,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 7)"
 aliases: [estadísticos descriptivos, descriptive statistics, medidas de tendencia central, medidas de dispersión, media y mediana]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estadística descriptiva

@@ -3,7 +3,7 @@ resumen: >-
   La capa semántica es el lugar donde las métricas y dimensiones de un negocio se definen una sola
   vez, por encima de las tablas, para que todas las herramientas que consultan usen la misma
   definición.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "dbt Docs, Semantic Layer (según su resumen): https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl"
@@ -14,7 +14,7 @@ fuentes:
   - "Datos/.investigacion/metricas-y-visualizacion.md (sección 5)"
 aliases: [semantic layer, modelo semántico, semantic model, capa de métricas, metrics layer]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Capa semántica

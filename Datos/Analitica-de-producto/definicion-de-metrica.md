@@ -3,7 +3,7 @@ resumen: >-
   Una definición de métrica es la receta escrita que fija qué se cuenta, sobre qué total, en qué
   ventana y con qué filtros, para que dos personas que la siguen sobre los mismos datos lleguen al
   mismo número.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "dbt Docs, Metrics: types and definition components (según su resumen): https://docs.getdbt.com/docs/build/metrics-overview"
@@ -14,7 +14,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 3)"
 aliases: [definición de una métrica, metric definition, KPI, indicador, árbol de métricas, metric tree, driver tree]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Definición de métrica

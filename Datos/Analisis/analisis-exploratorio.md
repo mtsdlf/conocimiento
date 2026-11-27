@@ -3,7 +3,7 @@ resumen: >-
   El análisis exploratorio es mirar los datos, sobre todo con gráficos, antes de resumirlos o de
   imponerles un modelo, para encontrar su forma, sus errores y las hipótesis que vale la pena
   probar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "NIST/SEMATECH e-Handbook of Statistical Methods, 1.1.1 What is EDA?: https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm"
@@ -18,7 +18,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 7)"
 aliases: [EDA, exploratory data analysis, exploración de datos, análisis exploratorio de datos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis exploratorio

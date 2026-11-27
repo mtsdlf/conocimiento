@@ -3,7 +3,7 @@ resumen: >-
   La significancia, en un experimento, es el criterio para decidir si la diferencia entre dos
   variantes es real o salió del azar. Funciona solo si el tamaño de muestra y la regla de parada se
   fijan antes de mirar, y con poco tráfico exagera los efectos que encuentra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Evan Miller, How Not To Run an A/B Test (18-abr-2010): https://www.evanmiller.org/how-not-to-run-an-ab-test.html"
@@ -19,7 +19,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 4)"
 aliases: [significancia estadística, statistical significance, significación estadística, peeking, mirar antes de tiempo, comparaciones múltiples, multiple comparisons, error tipo M, error tipo S, efecto mínimo detectable, MDE]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Significancia

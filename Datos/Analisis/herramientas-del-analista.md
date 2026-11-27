@@ -3,7 +3,7 @@ resumen: >-
   Las herramientas con que un analista prepara, consulta y explora datos (planilla, SQL y Python
   con pandas y Jupyter), con las versiones vigentes al 2026-11-27 y los cambios que rompen
   tutoriales viejos.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "python.org, Downloads (consultado 2026-11-27): https://www.python.org/downloads/"
@@ -17,7 +17,7 @@ fuentes:
   - "Microsoft, Study guide for Exam PL-300: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
   - "Datos/.investigacion/analisis.md (sección 8)"
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramientas del analista

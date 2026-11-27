@@ -2,7 +2,7 @@
 resumen: >-
   Un embudo es una secuencia ordenada de eventos que se mide como la proporción de usuarios que,
   después de hacer el primero, completa cada paso siguiente dentro de una ventana de tiempo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Amplitude, Funnel analysis, build (según su resumen): https://amplitude.com/docs/analytics/charts/funnel-analysis/funnel-analysis-build"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/metricas-y-visualizacion.md (sección 2)"
 aliases: [funnel, análisis de embudo, funnel analysis, conversión por pasos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Embudo

@@ -4,7 +4,7 @@ resumen: >-
   dimensiones (completitud, unicidad, consistencia, oportunidad, validez y exactitud). Un dato malo se
   detecta con tests de datos: consultas que buscan las filas que rompen una regla y fallan si
   encuentran alguna.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "UK Government, Meet the data quality dimensions (definiciones citadas literalmente): https://www.gov.uk/government/news/meet-the-data-quality-dimensions"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/gobierno-y-privacidad.md"
 aliases: [data quality, calidad del dato, dimensiones de calidad, tests de datos, data tests]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calidad de datos

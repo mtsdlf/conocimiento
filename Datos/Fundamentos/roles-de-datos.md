@@ -3,7 +3,7 @@ resumen: >-
   Los roles de datos se reparten el recorrido del dato: el ingeniero de datos lo trae y lo guarda,
   el analytics engineer lo deja en tablas limpias, el analista y el analista BI lo convierten en
   respuestas y tableros, y el científico de datos arma modelos sobre él.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "dbt Labs (proveedor), Analytics engineer vs data analyst: https://www.getdbt.com/blog/analytics-engineer-vs-data-analyst"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/vistazo.md, sección 1"
 aliases: [roles en datos, data analyst, analista de datos, analytics engineer, data engineer, ingeniero de datos, data scientist, científico de datos, analista BI]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Roles de datos

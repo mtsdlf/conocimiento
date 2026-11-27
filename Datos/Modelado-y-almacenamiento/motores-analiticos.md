@@ -2,7 +2,7 @@
 resumen: >-
   Licencia, modelo de precio y precio de lista de siete motores para analizar datos, de los
   warehouses en la nube a los motores gratis que corren en una sola máquina, leídos el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Google Cloud, BigQuery pricing (no se pudo leer): https://cloud.google.com/bigquery/pricing"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/modelado-e-ingesta.md (sección 6)"
 aliases: [warehouses en la nube, precios de data warehouse]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Motores analíticos

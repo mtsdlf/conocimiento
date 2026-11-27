@@ -2,7 +2,7 @@
 resumen: >-
   Datos es el trabajo de llevar un hecho registrado (una venta, un clic, un alta) hasta una
   decisión: guardarlo, moverlo, dejarlo limpio, analizarlo y mostrarlo para que alguien lo use.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Joe Reis, The Data Engineering Lifecycle and Undercurrents, 4 Years Later (2026): https://joereis.substack.com/p/the-data-engineering-lifecycle-and"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/"
 aliases: [data, análisis de datos, data analytics, gestión de datos, datos y análisis]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Datos

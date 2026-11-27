@@ -3,7 +3,7 @@ resumen: >-
   La tabla de eventos registra lo que hace cada usuario como una fila por acción (qué hizo, quién,
   cuándo y con qué detalles), y el plan de tracking es el documento que decide qué acciones se
   registran y por qué.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Google, Analytics Help, Events: https://support.google.com/analytics/answer/9322688"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/modelado-e-ingesta.md (sección 5)"
 aliases: [eventos, event tracking, plan de tracking, tracking plan, instrumentación, tabla de eventos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tabla de eventos

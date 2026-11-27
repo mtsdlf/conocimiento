@@ -3,7 +3,7 @@ resumen: >-
   Un sesgo es una forma sistemática en que los datos llevan a una conclusión equivocada aunque los
   cálculos estén bien: por cómo se agregan (paradoja de Simpson), por quiénes quedaron en la muestra
   (supervivencia y selección) o por haber elegido los casos extremos (regresión a la media).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Peter Bickel, Eugene Hammel y J. William O'Connell, Sex Bias in Graduate Admissions: Data from Berkeley, Science 187(4175), 398-404, 1975, doi 10.1126/science.187.4175.398 (según su resumen): https://www.science.org/doi/10.1126/science.187.4175.398"
@@ -19,7 +19,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 7)"
 aliases: [sesgos estadísticos, paradoja de Simpson, Simpson's paradox, sesgo de supervivencia, survivorship bias, sesgo de selección, selection bias, regresión a la media, regression to the mean]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sesgos

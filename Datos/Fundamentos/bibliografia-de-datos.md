@@ -2,7 +2,7 @@
 resumen: >-
   La bibliografía canónica del tema Datos, ordenada por vertical: qué obra leer para cada parte, qué
   edición se verificó y qué se cita solo por catálogo o resumen.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Joe Reis, The Data Engineering Lifecycle and Undercurrents, 4 Years Later (2026): https://joereis.substack.com/p/the-data-engineering-lifecycle-and"
@@ -26,7 +26,7 @@ fuentes:
   - "Datos/.investigacion/analisis.md; Datos/.investigacion/estadistica.md; Datos/.investigacion/metricas-y-visualizacion.md; Datos/.investigacion/modelado-e-ingesta.md; Datos/.investigacion/posicion-contraria.md"
 aliases: [bibliografía de datos, libros de datos, qué leer de datos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de datos

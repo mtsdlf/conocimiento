@@ -3,7 +3,7 @@ resumen: >-
   Visualización y BI es la parte de Datos que pone los números delante de quien decide: elige la
   forma gráfica de cada comparación, arma los tableros, fija cada métrica en un solo lugar y cuenta
   los hallazgos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Stephen Few, Dashboard Confusion (Intelligent Enterprise, 2004), reimpresión (según su resumen): https://www.informationweek.com/government/dashboard-confusion-2"
@@ -15,7 +15,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (secciones 1 y 3)"
 aliases: [BI, business intelligence, inteligencia de negocios, visualización de datos, data visualization, dataviz]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Visualización y BI

@@ -3,7 +3,7 @@ resumen: >-
   OLTP es el trabajo de la base que atiende a la aplicación (muchas transacciones chicas, de pocas
   filas cada una) y OLAP el de la base para analizar (pocas consultas que recorren muchas filas y
   pocas columnas); por esa diferencia, el análisis se hace sobre una copia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Kleppmann, Designing Data-Intensive Applications, cap. 3 (1ª ed.) / cap. 4 (2ª ed.), secciones Transaction Processing versus Analytics y Column-Oriented Storage; no leído, estructura y resumen vía buscador: https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch03.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/modelado-e-ingesta.md (secciones 1 y 4)"
 aliases: [OLTP, OLAP, transaccional y analítico, base transaccional, base analítica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # OLTP y OLAP
