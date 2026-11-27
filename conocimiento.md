@@ -76,6 +76,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Emprender](Emprender/emprender.md) — armar una empresa nueva con incertidumbre: validación (Lean Startup), modelo de negocio, crecimiento, finanzas, fundadores y equipo, legal e impuestos en Argentina, con las escuelas y su evidencia.
 - [Estrategia competitiva](Estrategia-competitiva/estrategia-competitiva.md) — por qué una industria rinde lo que rinde, de dónde sale una ventaja que dura, cómo se mueven los rivales y cómo se analiza a los competidores antes de diseñar un producto, con su evidencia.
 - [Ventas](Ventas/ventas.md) — del problema del cliente al acuerdo: descubrimiento y calificación, la propuesta y el precio, objeciones y negociación, formas de vender y medición comercial, con la poca evidencia independiente que tienen los métodos dicha en cada nota.
+- [Storytelling](Storytelling/storytelling.md) — contar una historia para convencer: de qué está hecha, cuánto persuade frente a los datos, las estructuras (arco, viaje del héroe, ABT, pirámide de Minto) y sus usos en la marca, la venta, la presentación de ideas y el cambio, con la evidencia de cada receta.
 - [Planillas de cálculo](Planillas-de-calculo/planillas-de-calculo.md) — Excel y Google Sheets para trabajar en un negocio: fórmulas, datos ordenados, tablas dinámicas, diseño que no se rompe, cuánto fallan las planillas y cuándo pasar a una base.
 
 ## Personas
