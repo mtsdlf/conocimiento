@@ -29,15 +29,15 @@ Es una de las tres piezas de la [convivencia](convivencia.md), y la más lejana 
 
 ## Por qué estos marcos casi no tocan las tareas
 
-La teoría de sistemas familiares viene de la terapia y del desarrollo familiar, y la usan sobre todo terapeutas que atienden familias. Según el informe de investigación de esta base, el campo no la usa para explicar el reparto del trabajo de la casa: esa pregunta la contestan la sociología y la economía, en las [teorías del reparto](../Reparto/teorias-del-reparto.md). La idea de leer «la casa» como sistema es entonces un préstamo, y esta nota la trata así.
+La teoría de sistemas familiares viene de la terapia y del desarrollo familiar, y la usan sobre todo terapeutas que atienden familias. Según el informe de investigación de esta base, el campo no la usa para explicar el reparto del trabajo de la casa: esa pregunta la contestan la sociología y la economía, en las [teorías del reparto](../Reparto/teorias-del-reparto.md). La idea de leer «la casa» como sistema es entonces un préstamo.
 
-Lo que los tres marcos comparten es una premisa: lo que hace una persona en la familia responde a lo que hacen las otras, y no solo a su carácter. Esa premisa se presenta acá como el punto de partida de la escuela, no como un hallazgo.
+Lo que los tres marcos comparten es una premisa: lo que hace una persona en la familia responde a lo que hacen las otras, y no solo a su carácter. Esa premisa es el punto de partida de la escuela y no un hallazgo.
 
 ## Minuchin: subsistemas y límites, sin evidencia encontrada
 
 Salvador Minuchin fundó la terapia familiar estructural. En su vocabulario, la familia se divide en subsistemas (por ejemplo, la pareja y los hijos), separados por límites que pueden ser demasiado rígidos o demasiado difusos, y ordenados por una jerarquía. Lo único leído de esta escuela es el artículo de Wikipedia, que describe los límites a lo largo de un continuo entre la fusión y la rigidez, y a la jerarquía con el subsistema de los padres «arriba»; es una fuente de enciclopedia abierta, no un texto de la escuela.
 
-La investigación de esta base no encontró ninguna revisión sistemática ni metaanálisis que ponga a prueba los subsistemas y los límites. Lo que apareció es doctrina clínica y un instrumento, el Family System Test (FAST) de Gehring, visto solo por Wikipedia. Es un hueco de la búsqueda y no una ausencia probada: puede haber estudios en bases que no se revisaron.
+La investigación de esta base no encontró ninguna revisión sistemática ni metaanálisis que ponga a prueba los subsistemas y los límites. Lo que apareció es doctrina clínica y un instrumento, el Family System Test (FAST) de Gehring, visto solo por Wikipedia. Es un hueco de la búsqueda que no prueba ausencia: puede haber estudios en bases que no se revisaron.
 
 > [!NOTE] Sin fuente todavía: evidencia empírica sobre la teoría estructural de Minuchin (subsistemas, límites, jerarquía), y una lectura del texto original (*Families and Family Therapy*, 1974), que el informe cita de memoria.
 
@@ -60,7 +60,7 @@ Los autores piden además poner a prueba que la teoría valga en todas las cultu
 El modelo circumplejo de David Olson mide a la familia en dos ejes: la cohesión (qué tan unidos están) y la flexibilidad (cuánto cambian sus roles y reglas cuando hace falta). Su hipótesis central es curvilínea: los extremos de los dos ejes serían problemáticos y el centro, «equilibrado», sería lo sano. Se mide con un cuestionario, FACES, que va por su cuarta versión.
 
 > [!IMPORTANT]
-> **La forma de la curva está discutida, y las críticas se conocen solo por sus títulos.** Del lado del autor, Olson y colegas sostienen que las seis escalas de FACES IV son confiables y válidas; es validación de los propios desarrolladores, y la actualización de 2019 está alojada por la empresa de Olson. Del otro lado, Anderson y Gavazzi (1990), en *Family Process*, llamaron a la curvilinealidad uno de «the most fundamental points of controversy» del modelo; no se leyó su resultado. Un artículo de 1994 en la misma revista, «A Moratorium on Curvilinearity», la rechaza según su título, y un estudio de 1991 con 2.440 familias y FACES III no le encontró apoyo en una muestra clínica, según un resumen del buscador. Ninguna de las críticas se leyó: sirven como pistas para leer, no como hallazgo.
+> La forma de la curva está discutida, y las críticas se conocen solo por sus títulos. Del lado del autor, Olson y colegas sostienen que las seis escalas de FACES IV son confiables y válidas; es validación de los propios desarrolladores, y la actualización de 2019 está alojada por la empresa de Olson. Del otro lado, Anderson y Gavazzi (1990), en *Family Process*, llamaron a la curvilinealidad uno de «the most fundamental points of controversy» del modelo; no se leyó su resultado. Un artículo de 1994 en la misma revista, «A Moratorium on Curvilinearity», la rechaza según su título, y un estudio de 1991 con 2.440 familias y FACES III no le encontró apoyo en una muestra clínica, según un resumen del buscador. Ninguna de las críticas se leyó: sirven como pistas para leer, no como hallazgo.
 
 Según un resumen de enciclopedia que no se verificó, el modelo circumplejo es de los más investigados de la terapia familiar. Un estudio preregistrado en siete países, según el buscador, habría hallado que el modelo no ajusta y habría propuesto una versión ampliada; no se encontró el artículo, así que queda sin usar.
 

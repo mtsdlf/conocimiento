@@ -27,32 +27,32 @@ Es la versión económica de las [teorías del reparto](teorias-del-reparto.md):
 
 ## El argumento de Becker: la ventaja comparativa
 
-La **nueva economía del hogar**, asociada a Gary Becker, trata a la casa como una pequeña empresa que produce comida, orden y cuidado con el tiempo de sus miembros. Si uno de los dos rinde relativamente más en el trabajo pago y el otro en la casa, a la pareja le conviene que cada uno se concentre en lo suyo. Eso es la **ventaja comparativa**: no importa quién hace todo mejor, sino quién pierde menos haciendo cada cosa.
+La nueva economía del hogar, asociada a Gary Becker, trata a la casa como una pequeña empresa que produce comida, orden y cuidado con el tiempo de sus miembros. Si uno de los dos rinde relativamente más en el trabajo pago y el otro en la casa, a la pareja le conviene que cada uno se concentre en lo suyo. Eso es la ventaja comparativa: cuenta quién pierde menos al hacer cada cosa, sin importar quién hace todo mejor.
 
 La conclusión depende de un supuesto fuerte. Según Pollak, un economista que se describe como uno de los críticos más persistentes de Becker, la especialización sale del modelo solo si el tiempo de los dos es un sustituto perfecto en la producción del hogar, es decir, si una hora de uno vale lo mismo que una hora del otro en cualquier tarea (según su abstract y un resumen). Becker en el original no se leyó para esta nota.
 
 ## La negociación: el reparto como acuerdo entre dos
 
-Los modelos de **negociación** (*bargaining*) dejan de tratar a la pareja como una unidad con un solo interés. El reparto sale de lo que cada uno puede exigir, y eso depende de qué le pasaría si no hubiera acuerdo. En el modelo de Lundberg y Pollak (1993), esa alternativa no es el divorcio sino seguir casados sin cooperar, cada uno en su «esfera separada»; más ingreso propio que no viene del trabajo sube el poder de negociación (según un resumen del buscador).
+Los modelos de negociación (*bargaining*) dejan de tratar a la pareja como una unidad con un solo interés. El reparto sale de lo que cada uno puede exigir, y eso depende de qué le pasaría si no hubiera acuerdo. En el modelo de Lundberg y Pollak (1993), esa alternativa es seguir casados sin cooperar, cada uno en su «esfera separada», y no el divorcio; más ingreso propio que no viene del trabajo sube el poder de negociación (según un resumen del buscador).
 
 Iversen, Rosenbluth y Soskice (2005) sostienen que un modelo de negociación mediado por las instituciones de cada país explica el reparto mejor que el de Becker, que «supone que el divorcio no existe»; predicen más divorcio cuanto menos especialización (según un resumen).
 
 ## Lo que dice la evidencia sobre especializarse
 
-**La ventaja comparativa casi no explica el reparto.** Siminski y Yetsenga (2022) lo dicen en su abstract: «la ventaja comparativa juega poco o ningún papel en la división sexual del trabajo dentro de las parejas», y la ventaja absoluta tampoco explica la especialización en las parejas del mismo sexo. Si el reparto actual no responde a quién rinde más dónde, el argumento de la especialización eficiente no sirve para justificarlo. Lo que queda son las explicaciones por normas de género de las [teorías del reparto](teorias-del-reparto.md), difíciles de aislar con datos de encuestas.
+La ventaja comparativa casi no explica el reparto. Siminski y Yetsenga (2022) lo dicen en su abstract: «la ventaja comparativa juega poco o ningún papel en la división sexual del trabajo dentro de las parejas», y la ventaja absoluta tampoco explica la especialización en las parejas del mismo sexo. Si el reparto actual no responde a quién rinde más dónde, el argumento de la especialización eficiente no sirve para justificarlo. Lo que queda son las explicaciones por normas de género de las [teorías del reparto](teorias-del-reparto.md), difíciles de aislar con datos de encuestas.
 
-**No hay evidencia directa de que especializarse rinda más.** El informe de investigación de esta base no encontró ningún estudio que mida que una pareja especializada sea más eficiente o más satisfecha que una que reparte parejo. Lo más cercano es un estudio que no se pudo identificar, citado de segunda mano: la especialización sube con el primer hijo, y sube menos en las parejas que después se divorcian.
+No hay evidencia directa de que especializarse rinda más. El informe de investigación de esta base no encontró ningún estudio que mida que una pareja especializada sea más eficiente o más satisfecha que una que reparte parejo. Lo más cercano es un estudio que no se pudo identificar, citado de segunda mano: la especialización sube con el primer hijo, y sube menos en las parejas que después se divorcian.
 
 > [!NOTE]
 > Sin fuente todavía: un estudio que compare directamente la eficiencia o la satisfacción de parejas especializadas y parejas que reparten parejo.
 
 ## Los riesgos de que uno se especialice en la casa
 
-**La estabilidad del matrimonio ya no depende de que ella se quede en casa.** Killewald (2016) siguió a más de 6.300 parejas de distinto sexo en Estados Unidos entre 1968 y 2013. En los matrimonios de 1975 a 2011, lo que predice el divorcio es que el marido no trabaje a tiempo completo; en los anteriores pesaba la parte de las tareas domésticas que hacía la esposa. Los recursos de ella y su capacidad de mantenerse sola no predicen la duración (según un resumen).
+La estabilidad del matrimonio ya no depende de que ella se quede en casa. Killewald (2016) siguió a más de 6.300 parejas de distinto sexo en Estados Unidos entre 1968 y 2013. En los matrimonios de 1975 a 2011, lo que predice el divorcio es que el marido no trabaje a tiempo completo; en los anteriores pesaba la parte de las tareas domésticas que hacía la esposa. Los recursos de ella y su capacidad de mantenerse sola no predicen la duración (según un resumen).
 
-**El efecto depende del país y de la época.** Según un resumen de Cooke (2006), en la ex Alemania Occidental las parejas que se alejaban de los roles separados, porque ella ganaba más o él hacía más en la casa, tenían más riesgo de divorcio; en Estados Unidos, el patrón era el inverso. Con datos de fines de los 2000, Bellani y colegas sostienen que alejarse del modelo tradicional ya no perjudica la estabilidad (según un resumen). No hay datos argentinos.
+El efecto depende del país y de la época. Según un resumen de Cooke (2006), en la ex Alemania Occidental las parejas que se alejaban de los roles separados, porque ella ganaba más o él hacía más en la casa, tenían más riesgo de divorcio; en Estados Unidos, el patrón era el inverso. Con datos de fines de los 2000, Bellani y colegas sostienen que alejarse del modelo tradicional ya no perjudica la estabilidad (según un resumen). No hay datos argentinos.
 
-**Quien se especializa en la casa pierde capacidad de ganar.** Es un riesgo que se discute, pero en lo que se leyó es una discusión teórica, sin fuente primaria que lo mida.
+Quien se especializa en la casa pierde capacidad de ganar. Es un riesgo que se discute, pero en lo que se leyó es una discusión teórica, sin fuente primaria que lo mida.
 
 > [!NOTE]
 > Sin fuente todavía: la pérdida de experiencia y de ingresos futuros (capital humano) de quien se especializa en la casa, y qué le pasa si la pareja se separa.

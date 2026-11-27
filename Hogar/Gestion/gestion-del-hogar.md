@@ -33,9 +33,9 @@ Solo el ciclo es «gestión» en sentido académico: los manuales del campo se o
 
 ## Qué tan probado está cada componente
 
-La evidencia es despareja, y conviene saberlo antes de leer cada nota. El ciclo de gestión es un marco para pensar y enseñar: no se encontró un estudio que pruebe que aplicarlo mejore algo. Las rutinas tienen una literatura amplia, pero casi toda sobre familias con niños y casi toda correlacional (muestra que dos cosas van juntas, no que una cause la otra). La idea de ser dueño de una tarea se apoya en estudios del trabajo cognitivo, con muestras chicas. La reunión de la casa no tiene estudios de resultados. Tercerizar tiene estudios cuantitativos, que discrepan entre sí sobre si cambia el reparto.
+La evidencia es despareja. El ciclo de gestión es un marco para pensar y enseñar: no se encontró un estudio que pruebe que aplicarlo mejore algo. Las rutinas tienen una literatura amplia, pero casi toda sobre familias con niños y casi toda correlacional (muestra que dos cosas van juntas, no que una cause la otra). La idea de ser dueño de una tarea se apoya en estudios del trabajo cognitivo, con muestras chicas. La reunión de la casa no tiene estudios de resultados. Tercerizar tiene estudios cuantitativos, que discrepan entre sí sobre si cambia el reparto.
 
-Los métodos de divulgación, como *Fair Play* de Eve Rodsky, se citan como prácticas de sus autores. No se encontró una evaluación independiente ni revisada por pares de esos métodos; sirven como lenguaje común para conversar, no como método probado.
+Los métodos de divulgación, como *Fair Play* de Eve Rodsky, se citan como prácticas de sus autores. No se encontró una evaluación independiente ni revisada por pares de esos métodos; sirven como lenguaje común para conversar, y ninguno está probado.
 
 ## Cómo falla la gestión de una casa
 
@@ -45,9 +45,9 @@ La gestión de una casa se parece a la [gestión de tareas](../../Desarrollo-per
 
 ## Qué hay adentro de la gestión
 
-- [Ciclo de gestión](ciclo-de-gestion.md) — el modelo de la administración de recursos familiares: metas, recursos, decidir, planificar, ejecutar y evaluar; un marco normativo, sin prueba empírica del ciclo completo.
-- [Dueño de la tarea](dueno-de-la-tarea.md) — hacerse cargo de una tarea de punta a punta contra ayudar; el trabajo cognitivo, el *gatekeeping* y *Fair Play*.
-- [Rutinas y sistemas](rutinas-y-sistemas.md) — rutinas y rituales familiares, el caos del hogar y lo que no se estudió (listas, turnos, estándares de hecho).
-- [Reunión de la casa](reunion-de-la-casa.md) — revisar y acordar a intervalos fijos; origen adleriano, sin estudios de resultados.
-- [Hacer o tercerizar](hacer-o-tercerizar.md) — comprar tiempo y bienestar, si tercerizar cambia el reparto en la pareja, y los electrodomésticos.
-- [Servicio doméstico en Argentina](servicio-domestico-en-argentina.md) — ficha del régimen de la Ley 26.844: qué cubre, la registración y dónde se publican los salarios (copiado el 2026-11-27).
+- [Ciclo de gestión](ciclo-de-gestion.md): el modelo de la administración de recursos familiares: metas, recursos, decidir, planificar, ejecutar y evaluar; un marco normativo, sin prueba empírica del ciclo completo.
+- [Dueño de la tarea](dueno-de-la-tarea.md): hacerse cargo de una tarea de punta a punta contra ayudar; el trabajo cognitivo, el *gatekeeping* y *Fair Play*.
+- [Rutinas y sistemas](rutinas-y-sistemas.md): rutinas y rituales familiares, el caos del hogar y lo que no se estudió (listas, turnos, estándares de hecho).
+- [Reunión de la casa](reunion-de-la-casa.md): revisar y acordar a intervalos fijos; origen adleriano, sin estudios de resultados.
+- [Hacer o tercerizar](hacer-o-tercerizar.md): comprar tiempo y bienestar, si tercerizar cambia el reparto en la pareja, y los electrodomésticos.
+- [Servicio doméstico en Argentina](servicio-domestico-en-argentina.md): ficha del régimen de la Ley 26.844: qué cubre, la registración y dónde se publican los salarios (copiado el 2026-11-27).

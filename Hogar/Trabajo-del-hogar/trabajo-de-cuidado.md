@@ -23,7 +23,7 @@ Dentro del [trabajo del hogar](trabajo-del-hogar.md), es la parte dirigida a per
 
 ## Lo que separa el cuidado de las tareas
 
-Lo que separa al cuidado de las tareas en las definiciones oficiales es a quién va dirigido, no el tipo de gesto. Según el glosario de la ENUT, «preparar, cocinar y servir los alimentos» es trabajo doméstico, y darle de comer a un chico es cuidado. Ninguna de las dos encuestas lo formula como regla; sale de comparar sus definiciones, así que es una lectura propia.
+Las definiciones oficiales separan el cuidado de las tareas por su destinatario; el tipo de gesto no decide. Según el glosario de la ENUT, «preparar, cocinar y servir los alimentos» es trabajo doméstico, y darle de comer a un chico es cuidado. Ninguna de las dos encuestas lo formula como regla; sale de comparar sus definiciones, así que es una lectura propia.
 
 La ENUT define el cuidado como las «actividades de cuidado y apoyo a niñas y niños menores de 14 años de edad, de personas mayores y de aquellos otros miembros del hogar que lo requieran [...] por problemas de salud temporales, crónicos o permanentes, o por discapacidad». Para los chicos incluye darles de comer, bañarlos, llevarlos al baño o cambiarles los pañales, prepararlos para la escuela o para dormir, jugar y «el apoyo escolar y de aprendizaje». Cuenta solo el cuidado a miembros del propio hogar: ayudar a otro hogar va en una categoría aparte, la de apoyo a otros hogares, a la comunidad y voluntario.
 
@@ -31,7 +31,7 @@ La encuesta de Estados Unidos (ATUS) agrega una aclaración útil: que haya un c
 
 ## Cuidar mientras se hace otra cosa
 
-Una parte del cuidado no es una actividad en sí, sino una atención de fondo. La ATUS lo mide como cuidado secundario: el «care for children under age 13 that is done while doing something else as a primary activity», como cocinar mientras se vigila a un chico. Solo lo cuenta entre que se despierta el primer hijo y se acuesta el último, con el adulto despierto. Es la única actividad secundaria que la ATUS registra.
+Una parte del cuidado es atención de fondo y no una actividad en sí. La ATUS lo mide como cuidado secundario: el «care for children under age 13 that is done while doing something else as a primary activity», como cocinar mientras se vigila a un chico. Solo lo cuenta entre que se despierta el primer hijo y se acuesta el último, con el adulto despierto. Es la única actividad secundaria que la ATUS registra.
 
 Craig (2006) separa tres cosas al medir el cuidado de los hijos: las actividades que lo componen, el cuidado hecho a la vez que otra actividad y el tiempo en que una persona queda a cargo de los chicos en solitario. Según resúmenes de segunda mano de su artículo, las madres pasan más de cinco veces más tiempo que los padres a cargo en solitario de chicos menores de 12, y los padres hacen una parte mayor del cuidado interactivo (hablar, jugar, enseñar) que del físico. El texto original no se leyó.
 

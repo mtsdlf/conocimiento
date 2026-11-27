@@ -34,7 +34,7 @@ La definición es más ancha que la de esta nota. Incluye las refacciones menore
 
 Los estudios de uso del tiempo separan las tareas rutinarias, las de todos los días como cocinar y limpiar, de las no rutinarias, que llaman tareas «de varones» (*male-typed*) y entre las que cuentan el mantenimiento de la casa. La frontera no es fija: según un resumen del buscador, un estudio agrupa el jardín con el mantenimiento del auto como tarea no rutinaria y otro lo suma a la limpieza, y el resultado cambia según cómo se clasifique.
 
-La distinción importa porque el cambio fue distinto en cada grupo. Según su abstract, Kan, Sullivan y Gershuny (2011) encuentran en 40 años una convergencia lenta e incompleta: los varones aumentaron sobre todo en tareas no rutinarias y las mujeres siguen haciendo la mayor parte de la limpieza, la cocina y el cuidado. Garcia-Roman y Ophir (2024), con diarios de 74.630 parejas de sexo distinto con hijos menores de 18 en 15 países europeos, concluyen según su abstract que las tareas no rutinarias «might be becoming gender-neutral». Es evidencia descriptiva: muestra cómo cambió el reparto, no por qué.
+La distinción importa porque el cambio fue distinto en cada grupo. Según su abstract, Kan, Sullivan y Gershuny (2011) encuentran en 40 años una convergencia lenta e incompleta: los varones aumentaron sobre todo en tareas no rutinarias y las mujeres siguen haciendo la mayor parte de la limpieza, la cocina y el cuidado. Garcia-Roman y Ophir (2024), con diarios de 74.630 parejas de sexo distinto con hijos menores de 18 en 15 países europeos, concluyen según su abstract que las tareas no rutinarias «might be becoming gender-neutral». Es evidencia descriptiva: muestra cómo cambió el reparto y no explica por qué.
 
 > [!NOTE] Sin fuente todavía: una definición explícita de «rutinaria» y «ocasional», con la lista de tareas de cada grupo, en una fuente primaria leída. Garcia-Roman y Ophir miden cocinar, limpiar, lavar ropa, mantenimiento, jardín y mascotas, y administración del hogar, pero la página del artículo no dice cuáles cuentan como rutinarias. La revisión de Coltrane (2000), candidata a darla, no se pudo abrir.
 
@@ -55,6 +55,6 @@ En Argentina no hay una serie comparable. La ENUT 2021 da una foto: el 90,0 % de
 
 ## Por qué las horas declaradas engañan
 
-Cuando se le pregunta a alguien cuántas horas por semana dedica a las tareas, en vez de pedirle un diario del día, la respuesta sale inflada. Según un resumen secundario, Press y Townsley hallaron sobrerreporte en los dos sexos, mayor en porcentaje en los varones: el sesgo no es de un solo sexo. Sus cifras, que no se verificaron, y los estudios que discrepan están en [cómo se mide](../Fundamentos/como-se-mide.md).
+Cuando se le pregunta a alguien cuántas horas por semana dedica a las tareas, en vez de pedirle un diario del día, la respuesta sale inflada. Según un resumen secundario, Press y Townsley hallaron sobrerreporte en los dos sexos, mayor en porcentaje en los varones. Sus cifras, que no se verificaron, y los estudios que discrepan están en [cómo se mide](../Fundamentos/como-se-mide.md).
 
 Ver también: [estándares distintos](../Convivencia/estandares-distintos.md), sobre quién define cuándo una tarea está bien hecha; y [rutinas y sistemas](../Gestion/rutinas-y-sistemas.md), sobre cómo se organizan.

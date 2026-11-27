@@ -26,11 +26,11 @@ Dentro de los [recursos del hogar](recursos-del-hogar.md), la plata se estudia s
 
 ## Los sistemas de manejo del dinero de Pahl
 
-Pahl describió en 1989, en *Money and Marriage*, cuatro formas en que una pareja maneja sus ingresos: el **salario completo** (*whole wage*), en que uno de los dos administra todo el ingreso y el otro recibe dinero para sus gastos personales; la **asignación** (*allowance*); el **fondo común** (*pooling*), en que los ingresos se juntan; y el **manejo independiente**. El libro no se leyó: los nombres y la descripción del salario completo salen de cómo lo citan otros trabajos, y la definición textual de cada sistema no se verificó.
+Pahl describió en 1989, en *Money and Marriage*, cuatro formas en que una pareja maneja sus ingresos: el salario completo (*whole wage*), en que uno de los dos administra todo el ingreso y el otro recibe dinero para sus gastos personales; la asignación (*allowance*); el fondo común (*pooling*), en que los ingresos se juntan; y el manejo independiente. El libro no se leyó: los nombres y la descripción del salario completo salen de cómo lo citan otros trabajos, y la definición textual de cada sistema no se verificó.
 
 Vogler y Pahl (1994), con datos británicos, distinguen seis sistemas en lugar de cuatro. Según un resumen (una sola fuente, sin leer el original), su hallazgo central es que, aun cuando la pareja dice que pone todo en común, en la práctica el marido o la esposa suele controlar ese fondo. La desigualdad entre los dos fue menor en los hogares donde el fondo común se controlaba de verdad en conjunto. Una referencia fecha ese trabajo en 1993; la ficha de la revista dice 1994.
 
-La distinción que deja Vogler y Pahl es entre **juntar** la plata y **controlarla**. Una pareja con cuenta conjunta puede tener a una sola persona decidiendo los gastos grandes, y eso no se ve preguntando solo si la cuenta es de los dos.
+Vogler y Pahl distinguen entre juntar la plata y controlarla. Una pareja con cuenta conjunta puede tener a una sola persona decidiendo los gastos grandes, y eso no se ve preguntando solo si la cuenta es de los dos.
 
 ## Cuentas conjuntas o separadas: el experimento de Olson
 
@@ -41,11 +41,11 @@ Según la nota de Kellogg sobre el estudio, las parejas que siguieron separadas 
 Los propios autores ponen límites. Unir solo una parte no dio los mismos beneficios que unir todo. Los resultados son promedios. En una relación frágil, una cuenta única puede facilitar el control financiero de uno sobre el otro o el abuso. Además, la muestra es de parejas heterosexuales nuevas de Estados Unidos, y lo que se midió es la calidad de la relación, no quién decide.
 
 > [!WARNING]
-> **Una sola fuente.** Todo lo que se sabe del experimento sale de un único artículo, leído por su abstract y por notas de prensa que lo parafrasean (Kellogg, Indiana University); esas notas no cuentan como fuentes aparte. Un borrador de Gladstone, Garbinsky y Mogilner (2018), con encuestas y experimentos, va en la misma dirección según un resumen, pero no está publicado y sus autores piden no citarlo. Antes de tomar una decisión sobre cuentas, conviene leer el artículo y no tratarlo como prueba de que unir las cuentas le sirve a cualquier pareja.
+> Todo lo que se sabe del experimento sale de un único artículo, leído por su abstract y por notas de prensa que lo parafrasean (Kellogg, Indiana University); esas notas no cuentan como fuentes aparte. Un borrador de Gladstone, Garbinsky y Mogilner (2018), con encuestas y experimentos, va en la misma dirección según un resumen, pero no está publicado y sus autores piden no citarlo. Antes de tomar una decisión sobre cuentas, conviene leer el artículo y no tratarlo como prueba de que unir las cuentas le sirve a cualquier pareja.
 
 ## Lo que mide cada uno
 
-Olson y Vogler y Pahl parecen decir cosas distintas, pero miden cosas distintas. Olson sugiere que la cuenta unida se asocia con una relación que no se desgasta. Vogler y Pahl muestran que unir no garantiza decidir juntos, porque el fondo común puede estar en manos de uno. Juntas, las dos fuentes dejan una pregunta que ninguna contesta: si una cuenta conjunta controlada por una sola persona tiene el mismo efecto que una controlada por las dos.
+Olson y Vogler y Pahl parecen contradecirse, pero miden cosas distintas. Olson sugiere que la cuenta unida se asocia con una relación que no se desgasta. Vogler y Pahl muestran que unir no garantiza decidir juntos, porque el fondo común puede estar en manos de uno. Juntas, las dos fuentes dejan una pregunta que ninguna contesta: si una cuenta conjunta controlada por una sola persona tiene el mismo efecto que una controlada por las dos.
 
 Quién decide sobre la plata se vincula con la [equidad percibida](../Reparto/equidad-percibida.md): según un resumen de Lennon y Rosenfield (1994), las mujeres con menos recursos y menos alternativas fuera del matrimonio ven más justo un reparto desigual.
 

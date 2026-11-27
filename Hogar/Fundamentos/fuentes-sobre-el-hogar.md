@@ -61,7 +61,7 @@ Casi todo es de Estados Unidos, Europa y Australia. Para Argentina hay encuestas
 
 ## Revistas donde se publica
 
-El *Journal of Marriage and Family*, el *Journal of Family Theory & Review*, la *American Sociological Review*, *Gender & Society*, *Sex Roles*, el *Journal of Family and Economic Issues*, la *Review of Economics of the Household* y el *electronic International Journal of Time Use Research*. En castellano, *Nueva Sociedad* publica economía feminista y del cuidado.
+Los estudios del tema aparecen sobre todo en el *Journal of Marriage and Family*, el *Journal of Family Theory & Review*, la *American Sociological Review*, *Gender & Society*, *Sex Roles*, el *Journal of Family and Economic Issues*, la *Review of Economics of the Household* y el *electronic International Journal of Time Use Research*. En castellano, *Nueva Sociedad* publica economía feminista y del cuidado.
 
 ## Qué leer para empezar
 

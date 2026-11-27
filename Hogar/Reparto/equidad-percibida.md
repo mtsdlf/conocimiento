@@ -29,17 +29,17 @@ revisado:
 
 La equidad percibida es si cada miembro de la pareja juzga justo el reparto del trabajo de la casa, más allá de cuántas horas hace cada uno; muchas personas ven justo un reparto desigual, y ese juicio se asocia con la satisfacción y el conflicto en la pareja.
 
-No es una teoría de por qué se reparte como se reparte, como las [teorías del reparto](teorias-del-reparto.md), sino de cómo se vive. Es el puente entre el reparto y la [convivencia](../Convivencia/convivencia.md): un reparto que se juzga injusto alimenta el [conflicto por la casa](../Convivencia/conflicto-por-la-casa.md). Lo que le pasa a la pareja en general está en [pareja](../../Desarrollo-personal/Relaciones/pareja.md).
+Las [teorías del reparto](teorias-del-reparto.md) explican por qué se reparte como se reparte; la equidad percibida describe cómo se vive. Es el puente entre el reparto y la [convivencia](../Convivencia/convivencia.md): un reparto que se juzga injusto alimenta el [conflicto por la casa](../Convivencia/conflicto-por-la-casa.md). Lo que le pasa a la pareja en general está en [pareja](../../Desarrollo-personal/Relaciones/pareja.md).
 
 ## La paradoja: un reparto desigual que se ve justo
 
 Lennon y Rosenfield (1994) parten de un enigma: las esposas con empleo hacen «aproximadamente el doble» de tareas domésticas que sus maridos, y aun así la mayoría lo ve justo. Su explicación es de opciones: quienes tienen más alternativas fuera del matrimonio y más recursos propios ven el mismo reparto como injusto. Ver el reparto como injusto, a su vez, se asocia con peor bienestar psicológico (según su abstract).
 
-La consecuencia para leer cualquier estudio (una inferencia de la base a partir de ese resultado) es fuerte: **percibido como justo no quiere decir parejo, ni siquiera justo**. La equidad percibida puede reflejar el poder y las opciones de cada uno.
+La consecuencia para leer cualquier estudio (una inferencia de la base a partir de ese resultado) es fuerte: percibido como justo no quiere decir parejo, ni siquiera justo. La equidad percibida puede reflejar el poder y las opciones de cada uno.
 
 ## De qué depende el juicio de justicia
 
-Thompson (1991) propuso que la justicia del reparto no es solo proporción de horas. Según las fuentes que la citan, depende de tres cosas: con quién se compara cada uno, qué contribuciones cuentan y cómo se valoran, y qué **justificaciones** se aceptan para que uno haga más. Un test posterior con esposas (Hawkins y colegas, 1995) apoyó la idea. El artículo de Thompson no se leyó; todo sale de citas.
+Thompson (1991) propuso que la justicia del reparto no es solo proporción de horas. Según las fuentes que la citan, depende de tres cosas: con quién se compara cada uno, qué contribuciones cuentan y cómo se valoran, y qué justificaciones se aceptan para que uno haga más. Un test posterior con esposas (Hawkins y colegas, 1995) apoyó la idea. El artículo de Thompson no se leyó; todo sale de citas.
 
 Las justificaciones cambian el efecto de las horas. Según un resumen de un estudio de Hu y Yucel en 30 países, los procesos que legitiman la división moderan cuánto afectan las tareas domésticas a la satisfacción. La ideología de género también entra: una mujer de ideas tradicionales trata más las tareas domésticas como parte de su identidad, y las juzga de otra manera (Carriero y Todesco, según un resumen). Gager y Hohmann-Marriott (2006) hallaron que las esposas usan a la vez normas de género e igualdad entre los cónyuges para juzgar (según un resumen).
 
@@ -61,12 +61,12 @@ Además, los dos miembros de la pareja no ven lo mismo. Según una encuesta de P
 ## Repartir parejo y la vida sexual de la pareja
 
 > [!IMPORTANT]
-> **Disputa: ¿un reparto más parejo se asocia con más o con menos sexo?**
-> - **Menos, con datos de 1992-1994.** Kornrich, Brines y Leupp (2013), con la segunda ola de una encuesta nacional de familias de Estados Unidos (NSFH2), hallaron más frecuencia sexual en las parejas con reparto tradicional, y lo leyeron como exhibición de género (según una nota de prensa).
-> - **Ya no, con datos de 2006.** Carlson, Miller, Sassler y Hanson (2016) compararon esa misma ola con una encuesta de 2006 (MARS). Según su abstract, en la NSFH2 las parejas igualitarias tenían menos frecuencia sexual que las convencionales, y en la de 2006 esa diferencia no aparece; la frecuencia declarada subió entre una encuesta y la otra solo en las igualitarias. Los autores lo atribuyen a que la equidad percibida pesa cada vez más en el vínculo entre las tareas y el sexo.
-> - **Los resúmenes de los datos de 2006 no dicen lo mismo.** Uno de divulgación dice que no hubo diferencias significativas de frecuencia ni de satisfacción sexual entre parejas convencionales e igualitarias. El texto de Sassler, una de las autoras, para el Council on Contemporary Families dice que las igualitarias tenían sexo más a menudo que las parejas donde uno de los dos hace el 65 % o más, con una satisfacción sexual parecida a la de las más tradicionales. En esa encuesta «parejo» va de más de un tercio hasta el 65 % hecho por el varón. Coinciden en que las igualitarias no están peor y, según resúmenes, en que la peor frecuencia fue donde el varón hacía la mayor parte.
+> Disputa: ¿un reparto más parejo se asocia con más o con menos sexo?
+> - Menos, con datos de 1992-1994. Kornrich, Brines y Leupp (2013), con la segunda ola de una encuesta nacional de familias de Estados Unidos (NSFH2), hallaron más frecuencia sexual en las parejas con reparto tradicional, y lo leyeron como exhibición de género (según una nota de prensa).
+> - Ya no, con datos de 2006. Carlson, Miller, Sassler y Hanson (2016) compararon esa misma ola con una encuesta de 2006 (MARS). Según su abstract, en la NSFH2 las parejas igualitarias tenían menos frecuencia sexual que las convencionales, y en la de 2006 esa diferencia no aparece; la frecuencia declarada subió entre una encuesta y la otra solo en las igualitarias. Los autores lo atribuyen a que la equidad percibida pesa cada vez más en el vínculo entre las tareas y el sexo.
+> - Los resúmenes de los datos de 2006 no dicen lo mismo. Uno de divulgación dice que no hubo diferencias significativas de frecuencia ni de satisfacción sexual entre parejas convencionales e igualitarias. El texto de Sassler, una de las autoras, para el Council on Contemporary Families dice que las igualitarias tenían sexo más a menudo que las parejas donde uno de los dos hace el 65 % o más, con una satisfacción sexual parecida a la de las más tradicionales. En esa encuesta «parejo» va de más de un tercio hasta el 65 % hecho por el varón. Coinciden en que las igualitarias no están peor y, según resúmenes, en que la peor frecuencia fue donde el varón hacía la mayor parte.
 >
-> No es una réplica fallida: son dos encuestas tomadas con unos doce años de diferencia, y lo que cambió entre una y otra es el resultado. Sassler lo explica como un cambio de normas, una interpretación que no se probó. Todo es observacional: las parejas más satisfechas pueden repartir mejor, o al revés. Lo que sí se desprende es que «más parejo» no es «cuanto más, mejor».
+> Las dos encuestas se tomaron con unos doce años de diferencia, así que el resultado distinto no cuenta como réplica fallida. Sassler lo explica como un cambio de normas, una interpretación que no se probó. Todo es observacional: las parejas más satisfechas pueden repartir mejor, o al revés. Lo que sí se desprende es que «más parejo» no es «cuanto más, mejor».
 
 ## El país cambia lo que se considera justo
 

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La carga mental es el trabajo de pensar la casa: anticipar lo que va a hacer falta, buscar opciones, decidir y monitorear que se haga; no es una lista de tareas aparte sino una dimensión que atraviesa la cocina, el cuidado y los arreglos, y la evidencia de cuánto se reparte depende de cómo se mida.
+  La carga mental es el trabajo de pensar la casa: anticipar lo que va a hacer falta, buscar opciones, decidir y monitorear que se haga; es una dimensión que atraviesa la cocina, el cuidado y los arreglos, y la evidencia de cuánto se reparte depende de cómo se mida.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -25,24 +25,24 @@ revisado:
 
 # Carga mental
 
-La carga mental es el trabajo de pensar la casa: anticipar lo que va a hacer falta, buscar opciones, decidir y monitorear que se haga; no es una lista de tareas aparte sino una dimensión que atraviesa la cocina, el cuidado y los arreglos, y la evidencia de cuánto se reparte depende de cómo se mida.
+La carga mental es el trabajo de pensar la casa: anticipar lo que va a hacer falta, buscar opciones, decidir y monitorear que se haga; es una dimensión que atraviesa la cocina, el cuidado y los arreglos, y la evidencia de cuánto se reparte depende de cómo se mida.
 
-Dentro del [trabajo del hogar](trabajo-del-hogar.md) es la parte que no se ve. Las [tareas domésticas](tareas-domesticas.md), el [trabajo de cuidado](trabajo-de-cuidado.md) y el [mantenimiento y los trámites](mantenimiento-y-tramites.md) tienen cada uno su parte de pensar y su parte de hacer: alguien nota que falta leche, alguien elige qué marca y alguien la compra. Esta nota trata la parte de pensar.
+Dentro del [trabajo del hogar](trabajo-del-hogar.md) es la parte que no se ve. Las [tareas domésticas](tareas-domesticas.md), el [trabajo de cuidado](trabajo-de-cuidado.md) y el [mantenimiento y los trámites](mantenimiento-y-tramites.md) tienen cada uno su parte de pensar y su parte de hacer: alguien nota que falta leche, alguien elige qué marca y alguien la compra.
 
 ## Las cuatro etapas de Daminger
 
 El estudio de referencia es el de Daminger (2019), que llama a este trabajo *cognitive labor* (trabajo cognitivo). Lo divide en cuatro etapas:
 
-1. **Anticipar** las necesidades: darse cuenta de que algo va a hacer falta antes de que falte.
-2. **Identificar opciones** para cubrirlas: averiguar dónde, cuál, cuánto cuesta.
-3. **Decidir** entre esas opciones.
-4. **Monitorear** los resultados: verificar que se hizo y que salió bien.
+1. Anticipar las necesidades: darse cuenta de que algo va a hacer falta antes de que falte.
+2. Identificar opciones para cubrirlas: averiguar dónde, cuál, cuánto cuesta.
+3. Decidir entre esas opciones.
+4. Monitorear los resultados: verificar que se hizo y que salió bien.
 
-Daminger insiste en que no es una categoría más de tareas. Según el abstract de su artículo, las tareas «are better understood as examples of a unique dimension of housework: cognitive labor». Por eso la midió en nueve áreas de la vida del hogar, entre ellas la comida, las finanzas y el mantenimiento: las cuatro etapas existen en cada una.
+Daminger trata el trabajo cognitivo como una dimensión que atraviesa las tareas. Según el abstract de su artículo, las tareas «are better understood as examples of a unique dimension of housework: cognitive labor». Por eso la midió en nueve áreas de la vida del hogar, entre ellas la comida, las finanzas y el mantenimiento: las cuatro etapas existen en cada una.
 
 ## Quién hace cada etapa, según 35 parejas
 
-La base es chica y cualitativa: 70 entrevistas a los miembros de 35 parejas de clase media y media alta, y la comparación por género usa las 32 parejas heterosexuales. Según el abstract, «women in this study do more cognitive labor overall and more of the anticipation and monitoring work in particular», mientras que la participación en decidir es «roughly equal». Con ese tamaño se describe cómo funciona el trabajo cognitivo, no cuántas parejas lo reparten así.
+La base es chica y cualitativa: 70 entrevistas a los miembros de 35 parejas de clase media y media alta, y la comparación por género usa las 32 parejas heterosexuales. Según el abstract, «women in this study do more cognitive labor overall and more of the anticipation and monitoring work in particular», mientras que la participación en decidir es «roughly equal». Con ese tamaño se describe cómo funciona el trabajo cognitivo, y no se puede decir cuántas parejas lo reparten así.
 
 Según la nota de divulgación de JSTOR Daily sobre el artículo, las mujeres hicieron más trabajo cognitivo en 26 de las 32 parejas. En promedio lideraban 4,6 de las 9 áreas, los varones 1,6 y 2,2 eran compartidas; los varones lideraban sobre todo el mantenimiento y las finanzas. La misma nota cita a Daminger: los varones participan de un modo que les permite «maximize the ratio of power exerted to labor completed», y se concentran en decidir, mientras que la anticipación es un trabajo «that cannot be confined to a to-do list». Estas cifras no se cotejaron con el artículo.
 
@@ -67,18 +67,18 @@ Según un resumen de una revisión sistemática (Reich-Stiebert y colegas, 2023)
 
 Desde el artículo de Daminger aparecieron varias escalas. Todas son de autorreporte y de países del norte, y varias preguntan solo a madres.
 
-- **Wayne y colegas (2023).** Según un resumen, una escala de nueve ítems, tres por dimensión (gerencial, cognitiva y emocional), con frecuencias de 1 (nunca) a 7 (siempre) en el último mes. Las mujeres reportan más en las tres. La carga emocional se asocia con conflicto, peor sueño y agotamiento; la gerencial y la cognitiva, con algunas asociaciones positivas con la familia y el trabajo. Los ítems y su confiabilidad no se verificaron.
-- **Aviv y colegas (2024).** 322 madres de chicos de unos 36 meses califican, en 30 categorías de tareas, quién planifica y quién ejecuta, de 1 («todo mi pareja») a 7 («todo yo»). Las madres reportan el 73 % de la carga cognitiva y el 64 % de la física, y más responsabilidad cognitiva en 29 de las 30 tareas. La carga cognitiva se asocia con síntomas depresivos, estrés y *burnout*, pero explica poco (R² de 0,02 a 0,09). Los autores dicen que la medida no está validada, que el diseño es transversal y la muestra de conveniencia (81 % blancas). Las categorías salen del mazo de *Fair Play*, un método de divulgación, y su autora, Eve Rodsky, firma el artículo.
-- **Barigozzi y colegas (2025, preprint sin revisión por pares).** 415 parejas heterosexuales de Emilia-Romagna con hijos menores de 11, las dos personas encuestadas. El 54,7 % de las mujeres dice ser la organizadora principal de las tareas y el 42,6 % de los varones dice que lo es su pareja; solo cerca del 64 % de las parejas coincide en quién organiza. Piensa «muy seguido o siempre» en la organización de la casa mientras trabaja el 41,1 % de las empleadas y el 9,6 % de los empleados.
-- **Haupt y Gelbgiser (2024).** Según su abstract, con preguntas de una encuesta europea en 10 países, una mayor proporción de trabajo cognitivo aumenta el conflicto entre familia y trabajo de las mujeres y no el de los varones; ese conflicto está en [trabajo y familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md).
-- **Petts y Carlson (2023).** Según un resumen, en 1.765 madres y padres durante la pandemia, las madres dedicaban más del doble de tiempo semanal al trabajo cognitivo (5 horas contra 2), y su estrés y sus síntomas depresivos eran menores cuando los padres asumían más.
+- Wayne y colegas (2023). Según un resumen, una escala de nueve ítems, tres por dimensión (gerencial, cognitiva y emocional), con frecuencias de 1 (nunca) a 7 (siempre) en el último mes. Las mujeres reportan más en las tres. La carga emocional se asocia con conflicto, peor sueño y agotamiento; la gerencial y la cognitiva, con algunas asociaciones positivas con la familia y el trabajo. Los ítems y su confiabilidad no se verificaron.
+- Aviv y colegas (2024). 322 madres de chicos de unos 36 meses califican, en 30 categorías de tareas, quién planifica y quién ejecuta, de 1 («todo mi pareja») a 7 («todo yo»). Las madres reportan el 73 % de la carga cognitiva y el 64 % de la física, y más responsabilidad cognitiva en 29 de las 30 tareas. La carga cognitiva se asocia con síntomas depresivos, estrés y *burnout*, pero explica poco (R² de 0,02 a 0,09). Los autores dicen que la medida no está validada, que el diseño es transversal y la muestra de conveniencia (81 % blancas). Las categorías salen del mazo de *Fair Play*, un método de divulgación, y su autora, Eve Rodsky, firma el artículo.
+- Barigozzi y colegas (2025, preprint sin revisión por pares). 415 parejas heterosexuales de Emilia-Romagna con hijos menores de 11, las dos personas encuestadas. El 54,7 % de las mujeres dice ser la organizadora principal de las tareas y el 42,6 % de los varones dice que lo es su pareja; solo cerca del 64 % de las parejas coincide en quién organiza. Piensa «muy seguido o siempre» en la organización de la casa mientras trabaja el 41,1 % de las empleadas y el 9,6 % de los empleados.
+- Haupt y Gelbgiser (2024). Según su abstract, con preguntas de una encuesta europea en 10 países, una mayor proporción de trabajo cognitivo aumenta el conflicto entre familia y trabajo de las mujeres y no el de los varones; ese conflicto está en [trabajo y familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md).
+- Petts y Carlson (2023). Según un resumen, en 1.765 madres y padres durante la pandemia, las madres dedicaban más del doble de tiempo semanal al trabajo cognitivo (5 horas contra 2), y su estrés y sus síntomas depresivos eran menores cuando los padres asumían más.
 
 Todos estos estudios muestran asociaciones: que la carga mental vaya junto con más estrés no prueba que lo cause.
 
 ## Entrevistas contra diarios de tiempo
 
 > [!IMPORTANT]
-> **Cuánto más hacen las mujeres depende del método.** Las entrevistas, como las de Daminger, y las escalas de autorreporte, como la de Aviv, encuentran brechas grandes. Según Aviv y colegas, con medidas de uso del tiempo las diferencias de género en el trabajo cognitivo se ven «insignificantes»; citan a Lee y Waite (2005) y a Offer y Schneider (2011), que no se verificaron. Hay dos lecturas posibles. Una: el trabajo cognitivo es menos desigual de lo que dicen las entrevistas. Otra, la de Aviv y colegas: los diarios de tiempo lo pasan por alto porque se hace en simultáneo con otras cosas y de fondo. Barigozzi y colegas, con medidas más detalladas y preguntando a los dos miembros de la pareja, sí encuentran brecha. La disputa sigue abierta.
+> Cuánto más hacen las mujeres depende del método. Las entrevistas, como las de Daminger, y las escalas de autorreporte, como la de Aviv, encuentran brechas grandes. Según Aviv y colegas, con medidas de uso del tiempo las diferencias de género en el trabajo cognitivo se ven «insignificantes»; citan a Lee y Waite (2005) y a Offer y Schneider (2011), que no se verificaron. Hay dos lecturas posibles. Una: el trabajo cognitivo es menos desigual de lo que dicen las entrevistas. Otra, la de Aviv y colegas: los diarios de tiempo lo pasan por alto porque se hace en simultáneo con otras cosas y de fondo. Barigozzi y colegas, con medidas más detalladas y preguntando a los dos miembros de la pareja, sí encuentran brecha. La disputa sigue abierta.
 
 El autorreporte suma otro problema. Rodsky afirma que «men overreport what they do, and women underreport what they do», pero la entrevista donde lo dice no ofrece datos. Lo que se sabe del sobrerreporte de horas en los dos sexos está en [cómo se mide](../Fundamentos/como-se-mide.md).
 

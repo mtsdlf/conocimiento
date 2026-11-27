@@ -26,7 +26,7 @@ Como inferencia de la base, en el [ciclo de gestión](ciclo-de-gestion.md) la re
 
 ## El consejo familiar de Dreikurs
 
-La idea viene de Rudolf Dreikurs, de la escuela de Alfred Adler (la psicología adleriana). En *Family Council* (1974), con Gould y Corsini, propuso el consejo familiar como vehículo de liderazgo democrático, armonía familiar, responsabilidad individual y resolución respetuosa de problemas, según la búsqueda en Adlerpedia. El libro no se leyó; es un texto de práctica, escrito para que las familias lo apliquen, no un estudio.
+La idea viene de Rudolf Dreikurs, de la escuela de Alfred Adler (la psicología adleriana). En *Family Council* (1974), con Gould y Corsini, propuso el consejo familiar como vehículo de liderazgo democrático, armonía familiar, responsabilidad individual y resolución respetuosa de problemas, según la búsqueda en Adlerpedia. El libro no se leyó. Es un texto de práctica escrito para que las familias lo apliquen.
 
 Un estudio cualitativo con padres de Estados Unidos e Israel encontró, según el resumen del buscador, que cada grupo interpretaba el consejo familiar de forma distinta según su cultura.
 
@@ -57,4 +57,4 @@ Un estudio de parejas del mismo sexo en Nueva Zelanda y Australia, divulgado por
 
 ## Cómo leer la evidencia
 
-La reunión de la casa es una práctica razonable sin evidencia directa. Lo que hay dice que hablar del reparto va junto con repartir distinto, no que una reunión fija lo logre. Quien la use la está probando por su cuenta. El texto de origen es Dreikurs, Gould y Corsini (1974); para lo que sí está medido, Carlson, Miller y Rudd (2020).
+La reunión de la casa es una práctica razonable sin evidencia directa. Lo que hay dice que hablar del reparto va junto con repartir distinto, y no dice que una reunión fija lo logre. Quien la use la está probando por su cuenta. El texto de origen es Dreikurs, Gould y Corsini (1974); para lo que sí está medido, Carlson, Miller y Rudd (2020).

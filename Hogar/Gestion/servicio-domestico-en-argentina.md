@@ -28,7 +28,7 @@ Es el marco legal de una de las opciones de [hacer o tercerizar](hacer-o-terceri
 Copiado del texto de la ley (InfoLEG y argentina.gob.ar) y de las páginas oficiales el 2026-11-27. Según el enlace al Boletín Oficial (que no se abrió), la ley se publicó el 12 de abril de 2013; el texto de InfoLEG trae sanción del 13 de marzo y promulgación del 3 de abril de 2013.
 
 > [!WARNING]
-> Esta ficha no es asesoramiento legal. Se apoya en **una sola fuente primaria**, el texto de la ley, cotejado en dos copias oficiales; no se leyó comentario de especialistas ni jurisprudencia, y no se verificaron reformas posteriores al texto leído. Para una decisión concreta, el texto vigente está en [InfoLEG / argentina.gob.ar](https://www.argentina.gob.ar/normativa/nacional/ley-26844-210489/texto) y conviene consultar a un profesional.
+> Esta ficha no es asesoramiento legal. Se apoya en una sola fuente primaria, el texto de la ley, cotejado en dos copias oficiales; no se leyó comentario de especialistas ni jurisprudencia, y no se verificaron reformas posteriores al texto leído. Para una decisión concreta, el texto vigente está en [InfoLEG / argentina.gob.ar](https://www.argentina.gob.ar/normativa/nacional/ley-26844-210489/texto) y conviene consultar a un profesional.
 
 ## Qué cubre
 
@@ -41,7 +41,7 @@ Copiado del texto de la ley (InfoLEG y argentina.gob.ar) y de las páginas ofici
 | Edad mínima | Prohibido contratar a menores de 16 años. Con 16 y 17 años, máximo 6 horas diarias y 36 semanales, y nunca sin retiro. | 9, 11, 13 |
 | Jornada | Máximo 8 horas diarias o 48 semanales. Sin retiro, un descanso nocturno de 9 horas. | 14, 15 |
 
-Lo que importa para un hogar: el régimen se aplica **aunque sean pocas horas** (art. 1).
+Lo que importa para un hogar: el régimen se aplica aunque sean pocas horas (art. 1).
 
 La ley también fija vacaciones de 14 a 35 días según la antigüedad (art. 29), un aguinaldo del 50 % de la mayor remuneración mensual de cada semestre (arts. 26 y 27) y licencia paga por enfermedad de hasta 3 meses al año con menos de 5 años de antigüedad y de 6 con más (art. 34).
 
@@ -57,7 +57,7 @@ Según la página oficial para empleadores, el registro se hace siempre, sin imp
 
 ## Dónde se publican los salarios
 
-Esta ficha no copia montos: cambian varias veces por año. El salario mínimo por tipo de tarea, modalidad y categoría lo fija periódicamente la **Comisión Nacional de Trabajo en Casas Particulares** (CNTCP), para todo el país (art. 18). Lo hace por resoluciones publicadas en la sección primera del [Boletín Oficial](https://www.boletinoficial.gob.ar/), con anexos por categoría.
+Esta ficha no copia montos: cambian varias veces por año. El salario mínimo por tipo de tarea, modalidad y categoría lo fija periódicamente la Comisión Nacional de Trabajo en Casas Particulares (CNTCP), para todo el país (art. 18). Lo hace por resoluciones publicadas en la sección primera del [Boletín Oficial](https://www.boletinoficial.gob.ar/), con anexos por categoría.
 
 Las de 2026 encontradas el 2026-11-27:
 

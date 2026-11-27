@@ -40,7 +40,7 @@ Las preguntas que siguen vienen de literaturas distintas y conviene no mezclarla
 
 El estudio más citado es el de Ashley Whillans y otros (2017). Según su abstract, en encuestas de Estados Unidos, Canadá, Dinamarca y Países Bajos (6.271 personas), quienes gastan en servicios que ahorran tiempo reportan más satisfacción con la vida. Un experimento de campo agrega evidencia causal: adultos que trabajan reportaron más felicidad después de gastar en una compra que les ahorraba tiempo que después de una compra material.
 
-Los detalles del experimento vienen de la prensa, no del abstract: fueron 60 adultos de Vancouver durante dos fines de semana, y la felicidad dio 4 contra 3,7 sobre 5, una diferencia chica. Según la misma prensa, el 28,2 % de los encuestados gastaba plata cada mes para ganar tiempo, y el beneficio apareció en distintos niveles de ingreso.
+Los detalles del experimento vienen de la prensa y no figuran en el abstract: fueron 60 adultos de Vancouver durante dos fines de semana, y la felicidad dio 4 contra 3,7 sobre 5, una diferencia chica. Según la misma prensa, el 28,2 % de los encuestados gastaba plata cada mes para ganar tiempo, y el beneficio apareció en distintos niveles de ingreso.
 
 El efecto resultó menos firme después:
 
@@ -48,8 +48,6 @@ El efecto resultó menos firme después:
 - El experimento original apuntó a personas acomodadas, con un pago único chico, y midió el ánimo inmediato, según un trabajo posterior de Whillans y West (2022), conocido por su resumen. No es claro que valga para hogares de ingresos bajos.
 - No se encontró una réplica directa del experimento de 2017.
 - Mide la felicidad de un fin de semana, no un efecto sostenido ni lo que pasa con el reparto en la pareja.
-
-Así, gastar en ahorrar tiempo se asocia con más bienestar y hay un experimento chico a favor, pero el efecto aparece menos firme en un análisis posterior y no se probó a largo plazo.
 
 > [!NOTE] Sin fuente todavía: quién puede tercerizar según su ingreso. Que un hogar con pocos recursos no puede comprar tiempo es una inferencia sin estudio citado.
 

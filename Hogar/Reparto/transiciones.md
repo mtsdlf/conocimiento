@@ -51,7 +51,7 @@ El resultado va contra la neutralización de la desviación, la idea de que un m
 Al jubilarse, el tiempo de tareas domésticas de los maridos se duplicó aproximadamente y la brecha con sus esposas se redujo a la mitad, en un estudio alemán con 1.302 parejas (Leopold y Skopek 2015, según un resumen). Un trabajo posterior de los mismos autores precisa que quien se jubila primero hace más, pero que cuando se jubilan los dos la pareja vuelve al reparto que tenía antes (Leopold y Skopek 2018, según un resumen).
 
 > [!IMPORTANT]
-> **Disputa: ¿la jubilación achica la brecha para siempre?** Los dos estudios alemanes muestran un cambio que depende de quién se jubila primero y que se deshace cuando se jubilan los dos. Un estudio de Estados Unidos de 2025, con otra encuesta, encuentra que la jubilación por sí sola no se asocia con menos desigualdad, y que depende de cuántas tareas asociadas a un género quedan por dividir (según su abstract: 976 parejas de la Health and Retirement Study, con modelos de efectos fijos; autores sin confirmar).
+> Disputa: ¿la jubilación achica la brecha para siempre? Los dos estudios alemanes muestran un cambio que depende de quién se jubila primero y que se deshace cuando se jubilan los dos. Un estudio de Estados Unidos de 2025, con otra encuesta, encuentra que la jubilación por sí sola no se asocia con menos desigualdad, y que depende de cuántas tareas asociadas a un género quedan por dividir (según su abstract: 976 parejas de la Health and Retirement Study, con modelos de efectos fijos; autores sin confirmar).
 
 ## Lo que no se sabe de otras transiciones
 

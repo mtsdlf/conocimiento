@@ -26,7 +26,7 @@ Dentro del [trabajo del hogar](trabajo-del-hogar.md), es lo que no se hace todos
 
 ## Cómo lo cortan las encuestas
 
-La ENUT 2021 del INDEC no separa ninguna de las dos: las dos están dentro del trabajo doméstico. Su glosario incluye «realizar trabajos menores de refacción de la vivienda; hacer trámites y pagar los servicios personales o del hogar». En lo leído no hay un cuadro que dé estas actividades por separado ni por sexo.
+La ENUT 2021 del INDEC no las separa: ambas están dentro del trabajo doméstico. Su glosario incluye «realizar trabajos menores de refacción de la vivienda; hacer trámites y pagar los servicios personales o del hogar». En lo leído no hay un cuadro que dé estas actividades por separado ni por sexo.
 
 La encuesta de Estados Unidos (ATUS) sí las separa. Sus actividades del hogar son las que la gente hace «to maintain their households» e incluyen las reparaciones. De ahí cuelga una subcategoría aparte, la administración del hogar (*household management*), que cubre «household management and organizational activities»: el papeleo, el presupuesto y la planificación de eventos. Según un resumen de su lexicon de 2025, se divide en gestión financiera, organización y planificación del hogar y personal, correspondencia del hogar (correo y e-mail) y seguridad del hogar.
 

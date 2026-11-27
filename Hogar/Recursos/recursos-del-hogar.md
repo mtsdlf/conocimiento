@@ -29,7 +29,7 @@ Las otras disciplinas no miran igual. Según el informe de investigación de est
 
 ## Por qué el recurso no es lo mismo que su uso
 
-Que un hogar tenga un recurso no dice quién lo usa. Tres ejemplos de las notas de esta vertical:
+Que un hogar tenga un recurso no dice quién lo usa. Tres ejemplos:
 
 - Según el abstract de Mattingly y Bianchi (2003), con diarios de Estados Unidos, los varones tienen más tiempo libre que las mujeres, y el de ellas está más mezclado con otras actividades o con los hijos.
 - Según un resumen de Vogler y Pahl (1994), con datos británicos, aun cuando una pareja dice poner toda la plata en común, en la práctica uno de los dos suele controlar ese fondo.
@@ -46,6 +46,6 @@ Las finanzas del hogar (presupuesto, ahorro, inversión) no están acá: son de 
 
 ## Qué hay adentro de los recursos
 
-- [Tiempo del hogar](tiempo-del-hogar.md) — la pobreza de tiempo, la segunda jornada y la discusión de su «mes extra», el ocio fragmentado o contaminado y cómo se reparte el tiempo libre.
-- [Plata en la pareja](plata-en-la-pareja.md) — los sistemas de manejo del dinero de Pahl y Vogler, cuentas conjuntas o separadas y quién controla el fondo común.
-- [Espacio de la vivienda](espacio.md) — el hacinamiento, el lugar para trabajar desde casa y lo que no se estudió.
+- [Tiempo del hogar](tiempo-del-hogar.md): la pobreza de tiempo, la segunda jornada y la discusión de su «mes extra», el ocio fragmentado o contaminado y cómo se reparte el tiempo libre.
+- [Plata en la pareja](plata-en-la-pareja.md): los sistemas de manejo del dinero de Pahl y Vogler, cuentas conjuntas o separadas y quién controla el fondo común.
+- [Espacio de la vivienda](espacio.md): el hacinamiento, el lugar para trabajar desde casa y lo que no se estudió.

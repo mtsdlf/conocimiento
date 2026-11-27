@@ -30,14 +30,14 @@ La administración de recursos familiares (*family resource management*) es la d
 
 Los libros de texto del campo presentan la gestión como una secuencia que se repite. La versión que sigue sale de los capítulos del libro de Goldsmith:
 
-1. **Metas**: qué quiere lograr la casa, a partir de valores y actitudes de quienes viven en ella.
-2. **Recursos**: con qué se cuenta. No es solo plata: también tiempo, energía, habilidades y el espacio; los tres que tienen nota están en [recursos del hogar](../Recursos/recursos-del-hogar.md).
-3. **Decisión**: elegir entre opciones y resolver problemas.
-4. **Plan**: ordenar qué se hace, cuándo y quién.
-5. **Ejecución**: hacerlo.
-6. **Evaluación**: mirar qué salió y usar eso para ajustar las metas o el plan siguiente.
+1. Metas: qué quiere lograr la casa, a partir de valores y actitudes de quienes viven en ella.
+2. Recursos: con qué se cuenta. Incluye plata, tiempo, energía, habilidades y espacio; los tres que tienen nota están en [recursos del hogar](../Recursos/recursos-del-hogar.md).
+3. Decisión: elegir entre opciones y resolver problemas.
+4. Plan: ordenar qué se hace, cuándo y quién.
+5. Ejecución: hacerlo.
+6. Evaluación: mirar qué salió y usar eso para ajustar las metas o el plan siguiente.
 
-La última etapa cierra el círculo, y eso es lo que lo hace un ciclo y no una lista. Deacon y Firebaugh lo describieron como un sistema de insumos, transformación, productos y retroalimentación, según fuentes secundarias (una tesis lo resume como «Management as System: An Input-Output Model» con «Evaluation Feedback»). Moore y Asay, otro libro de texto del campo, usan un modelo de decisión de cinco pasos.
+La última etapa cierra el círculo y convierte la lista en un ciclo. Deacon y Firebaugh lo describieron como un sistema de insumos, transformación, productos y retroalimentación, según fuentes secundarias (una tesis lo resume como «Management as System: An Input-Output Model» con «Evaluation Feedback»). Moore y Asay, otro libro de texto del campo, usan un modelo de decisión de cinco pasos.
 
 > [!NOTE]
 > La secuencia de seis etapas se infiere de los títulos de capítulo de Goldsmith; la página del editor no describe el modelo en etapas, y los libros no se leyeron más allá del índice. Lo mismo vale para la versión de Deacon y Firebaugh, reconstruida de fuentes secundarias.
@@ -52,11 +52,11 @@ Richards definió la *euthenics* como «la ciencia de vivir mejor», según el S
 
 Con el tiempo, el campo pasó del «manejo del hogar», centrado en simplificar el trabajo y ganar eficiencia, a ver la familia como un sistema social, según una entrada de enciclopedia de Goldsmith que solo se leyó por el resumen del buscador. La misma fuente marca la diferencia con la economía: la economía supone que la gente optimiza, y la gestión admite que a menudo no actúa de forma del todo racional.
 
-## Un marco para pensar, no un resultado probado
+## Un marco para pensar, sin prueba empírica
 
 No se encontró una revisión que pruebe empíricamente el ciclo completo. Lo que apareció es poco: una tesis de 1986 que probó un modelo de sistemas y dijo que sus resultados apoyaban «la amplia aplicabilidad» del modelo, y otra tesis que deja la prueba empírica como tarea pendiente. Las dos se conocen solo por el resumen del buscador.
 
-Como inferencia, y no como resultado de un estudio: el ciclo es un marco organizador y didáctico, y su evidencia es indirecta, porque cada pieza (las metas compartidas, la comunicación) se estudia por separado. Los manuales son enseñanza, no evaluación, y no se buscó evidencia de que aplicar el ciclo mejore los resultados de una casa.
+Como inferencia de la base, el ciclo es un marco organizador y didáctico, y su evidencia es indirecta, porque cada pieza (las metas compartidas, la comunicación) se estudia por separado. Los manuales enseñan el modelo y no lo evalúan, y no se buscó evidencia de que aplicar el ciclo mejore los resultados de una casa.
 
 En la práctica, el ciclo sirve como lenguaje común. Ayuda a ver en qué etapa se traba una casa: si nadie fija metas, si se decide sin mirar los recursos o si nunca se evalúa. Esa última etapa es la que intentan sostener las [rutinas y sistemas](rutinas-y-sistemas.md) y la [reunión de la casa](reunion-de-la-casa.md). Y la división entre quien piensa el ciclo y quien solo ejecuta es la que estudia el [dueño de la tarea](dueno-de-la-tarea.md).
 

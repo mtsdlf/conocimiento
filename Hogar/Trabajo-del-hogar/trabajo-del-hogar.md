@@ -31,7 +31,7 @@ Las encuestas de uso del tiempo (encuestas en las que la gente anota en un diari
 
 ## Cuatro partes que no se cortan igual
 
-Las cuatro partes de esta vertical no son cuatro listas del mismo tipo. Dos son categorías que las encuestas miden por separado, una es una dimensión que atraviesa a las otras y la última junta dos cosas que el campo separa.
+Las cuatro partes de esta vertical son de tipos distintos. Dos son categorías que las encuestas miden por separado, una es una dimensión que atraviesa a las otras y la última junta dos cosas que el campo separa.
 
 | Parte | Qué abarca | Cómo la trata el campo |
 |---|---|---|
@@ -40,7 +40,7 @@ Las cuatro partes de esta vertical no son cuatro listas del mismo tipo. Dos son 
 | Carga mental | Anticipar, buscar opciones, decidir y monitorear | No es una categoría de las encuestas; Daminger la define como una dimensión de todo el trabajo de la casa |
 | Mantenimiento y trámites | Arreglos de la casa por un lado; papeles, pagos y planificación por el otro | La ENUT mete las dos cosas dentro del trabajo doméstico; la ATUS separa la administración del hogar (*household management*) |
 
-Lo que distingue al cuidado de las tareas es a quién va dirigido, no el gesto: según el glosario de la ENUT, cocinar es trabajo doméstico y darle de comer a un chico es cuidado. La carga mental existe en las cuatro partes: hay que anticipar qué falta en la heladera, cuándo toca el control del pediatra y cuándo vence un servicio. Daminger lo dice así en el abstract de su artículo de 2019: las tareas «are better understood as examples of a unique dimension of housework: cognitive labor».
+Lo que distingue al cuidado de las tareas es a quién va dirigido: según el glosario de la ENUT, cocinar es trabajo doméstico y darle de comer a un chico es cuidado. La carga mental existe en las cuatro partes: hay que anticipar qué falta en la heladera, cuándo toca el control del pediatra y cuándo vence un servicio. Daminger lo dice así en el abstract de su artículo de 2019: las tareas «are better understood as examples of a unique dimension of housework: cognitive labor».
 
 ## Cuánto pesa y quién lo hace
 
@@ -56,7 +56,7 @@ Las horas miden lo que se hace, no lo que se piensa. Según Aviv y colegas, los 
 
 ## Las cuatro partes del trabajo del hogar
 
-- [Tareas domésticas](tareas-domesticas.md) — lo visible y repetitivo (cocinar, limpiar, ropa, compras), cuánto tiempo lleva y dónde cambió desde 1965.
-- [Trabajo de cuidado](trabajo-de-cuidado.md) — atender a quien lo necesita, el cuidado como actividad principal o como supervisión, y en qué se distingue de las tareas.
-- [Carga mental](carga-mental.md) — anticipar, buscar opciones, decidir y monitorear: la parte que no se ve, cómo se mide y por qué las mediciones no coinciden.
-- [Mantenimiento y trámites](mantenimiento-y-tramites.md) — los arreglos ocasionales de la casa y la administración de papeles, pagos y servicios, que el campo trata por separado.
+- [Tareas domésticas](tareas-domesticas.md): lo visible y repetitivo (cocinar, limpiar, ropa, compras), cuánto tiempo lleva y dónde cambió desde 1965.
+- [Trabajo de cuidado](trabajo-de-cuidado.md): atender a quien lo necesita, el cuidado como actividad principal o como supervisión, y en qué se distingue de las tareas.
+- [Carga mental](carga-mental.md): anticipar, buscar opciones, decidir y monitorear: la parte que no se ve, cómo se mide y por qué las mediciones no coinciden.
+- [Mantenimiento y trámites](mantenimiento-y-tramites.md): los arreglos ocasionales de la casa y la administración de papeles, pagos y servicios, que el campo trata por separado.

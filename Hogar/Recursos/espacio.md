@@ -23,7 +23,7 @@ Dentro de los [recursos del hogar](recursos-del-hogar.md), el espacio es el que 
 
 ## El hacinamiento y los chicos
 
-El **hacinamiento** (*crowding*) es vivir con más gente de la que la vivienda acomoda. Cada estudio lo mide a su manera, y la definición exacta que usa cada uno no se copió acá.
+El hacinamiento (*crowding*) es vivir con más gente de la que la vivienda acomoda. Cada estudio lo mide a su manera, y la definición exacta que usa cada uno no se copió acá.
 
 Solari y Mare (2012), con dos encuestas de Estados Unidos, encontraron que vivir hacinado se asocia con peor bienestar infantil en varias dimensiones, aun descontando el nivel socioeconómico del hogar. En sus palabras, «several dimensions of children's wellbeing suffer when exposed to crowded living conditions». El efecto fue más fuerte en la muestra de Los Ángeles.
 

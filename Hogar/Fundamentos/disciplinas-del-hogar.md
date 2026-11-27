@@ -78,7 +78,7 @@ Según Corina Rodríguez Enríquez (2015, *Nueva Sociedad* 256, leído por su ab
 
 ## Cuánto del PBI es trabajo no remunerado en Argentina
 
-Según la Dirección Nacional de Economía, Igualdad y Género (DNEIyG), el trabajo doméstico y de cuidados no remunerado equivalía al **15,9 % del PBI** en 2019, más que la industria (13,2 %) y el comercio (13,0 %). Eran $4.001.047 millones, de los que las mujeres aportaban el 75,7 % ($3.027.433 millones) y los varones el 24,3 % ($973.613 millones). El cálculo usa el método generalista: cada hora se valúa con el ingreso por hora del empleo doméstico pago.
+Según la Dirección Nacional de Economía, Igualdad y Género (DNEIyG), el trabajo doméstico y de cuidados no remunerado equivalía al 15,9 % del PBI en 2019, más que la industria (13,2 %) y el comercio (13,0 %). Eran $4.001.047 millones, de los que las mujeres aportaban el 75,7 % ($3.027.433 millones) y los varones el 24,3 % ($973.613 millones). El cálculo usa el método generalista: cada hora se valúa con el ingreso por hora del empleo doméstico pago.
 
 La misma dirección publicó después la serie:
 
@@ -92,7 +92,7 @@ La misma dirección publicó después la serie:
 Fuentes: DNEIyG, *Los cuidados, un sector económico estratégico* (2020, pp. 7-11) y *Las brechas de género en la economía argentina, 4.º trimestre 2022*.
 
 > [!WARNING]
-> El 15,9 % que repite la prensa es de 2019 y toma las horas de la encuesta de 2013 (tercer trimestre, personas de 18 años y más, tres preguntas sobre «ayer»), con ingresos de la EPH del cuarto trimestre de 2019. No sale de la ENUT 2021. El porcentaje cambió casi 2,4 puntos entre años: según la DNEIyG, por las horas medidas y por el peso de los otros sectores. No es una constante.
+> El 15,9 % que repite la prensa es de 2019 y toma las horas de la encuesta de 2013 (tercer trimestre, personas de 18 años y más, tres preguntas sobre «ayer»), con ingresos de la EPH del cuarto trimestre de 2019. No sale de la ENUT 2021. El porcentaje cambió casi 2,4 puntos entre años, según la DNEIyG por las horas medidas y por el peso de los otros sectores, así que no es una constante.
 
 El número depende también del método. El informe de 2020 compara: España 10,3 %, Francia 14,8 %, Alemania 15,0 % y Nueva Zelanda 20,0 %; Colombia, con otro método (el especialista), da 20,4 %. Cómo se miden las horas de las que parte el cálculo está en [cómo se mide](como-se-mide.md).
 

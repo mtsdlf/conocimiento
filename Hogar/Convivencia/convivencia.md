@@ -23,7 +23,7 @@ Dentro del [hogar](../hogar.md), es el lugar donde el reparto se vuelve vínculo
 
 ## Tres piezas que vienen de campos distintos
 
-El campo no divide la convivencia así. Las tres notas de esta parte juntan literaturas que casi no se citan entre sí, y cada una está a otra distancia de las tareas. El corte es de esta base, y la tabla dice de dónde sale cada pieza para que se lea con la cautela que corresponde.
+Las tres notas de esta parte juntan literaturas que casi no se citan entre sí, y cada una está a otra distancia de las tareas. El corte es de esta base, y la tabla dice de dónde sale cada pieza.
 
 | Pieza | De qué campo viene | Qué tan cerca está de las tareas |
 |---|---|---|
@@ -31,7 +31,7 @@ El campo no divide la convivencia así. Las tres notas de esta parte juntan lite
 | [Conflicto por la casa](conflicto-por-la-casa.md) | Encuestas de opinión, la sociología del trabajo doméstico y la comunicación de pareja | A medio camino: las tareas aparecen como motivo de discusión, pero el patrón de demanda-retirada es de la comunicación de pareja en general |
 | [Estándares distintos](estandares-distintos.md) | La sociología del trabajo doméstico y la psicología social | Cerca: se lee mejor junto con el reparto que junto con el conflicto |
 
-Los marcos de sistemas familiares sirven acá como vocabulario (límites, roles, triangulación, cohesión) más que como evidencia; es la lectura de la investigación de esta base, no de una fuente. La demanda-retirada, un patrón en que uno reclama un cambio y el otro evita la discusión, se estudió en parejas que discuten de cualquier cosa; se trae porque las tareas son uno de los cambios que más se reclaman. Los estándares de limpieza, en cambio, son parte de la explicación de por qué una persona termina haciendo más, que es la pregunta de las [teorías del reparto](../Reparto/teorias-del-reparto.md).
+Los marcos de sistemas familiares sirven acá como vocabulario (límites, roles, triangulación, cohesión) y no como evidencia. Esa es la lectura de la investigación de esta base, no de una fuente. La demanda-retirada, un patrón en que uno reclama un cambio y el otro evita la discusión, se estudió en parejas que discuten de cualquier cosa; se trae porque las tareas son uno de los cambios que más se reclaman. Los estándares de limpieza, en cambio, son parte de la explicación de por qué una persona termina haciendo más, que es la pregunta de las [teorías del reparto](../Reparto/teorias-del-reparto.md).
 
 ## Cómo una diferencia en la casa llega al vínculo
 
@@ -57,6 +57,6 @@ Casi todo lo que hay es correlacional, de Estados Unidos y de parejas heterosexu
 
 ## Qué hay en la convivencia
 
-- [La casa como sistema](la-casa-como-sistema.md) — la familia leída como un conjunto de partes que se afectan entre sí (Minuchin, Bowen, Olson), cuánta evidencia tiene cada marco y qué dicen de los roles y las reglas implícitas.
-- [Conflicto por la casa](conflicto-por-la-casa.md) — cuánto pesan las tareas entre los motivos de pelea, el patrón de demanda-retirada, lo que se sabe de cómo resolverlo, y los convivientes que no son pareja.
-- [Estándares distintos](estandares-distintos.md) — quién pone la vara de limpio u ordenado, a quién se le exige más, el estudio del desorden y el cortisol, y lo que falta saber.
+- [La casa como sistema](la-casa-como-sistema.md): la familia leída como un conjunto de partes que se afectan entre sí (Minuchin, Bowen, Olson), cuánta evidencia tiene cada marco y qué dicen de los roles y las reglas implícitas.
+- [Conflicto por la casa](conflicto-por-la-casa.md): cuánto pesan las tareas entre los motivos de pelea, el patrón de demanda-retirada, lo que se sabe de cómo resolverlo, y los convivientes que no son pareja.
+- [Estándares distintos](estandares-distintos.md): quién pone la vara de limpio u ordenado, a quién se le exige más, el estudio del desorden y el cortisol, y lo que falta saber.

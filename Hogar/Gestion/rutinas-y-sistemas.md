@@ -27,14 +27,14 @@ revisado:
 
 Las rutinas y los sistemas de una casa son las formas fijas de hacer el trabajo (horarios, listas, turnos, reglas de cuándo algo está hecho) que evitan decidir todo de nuevo cada vez. La evidencia que hay es sobre rutinas familiares y caos del hogar, casi toda con niños y correlacional.
 
-Dentro de la [gestión del hogar](gestion-del-hogar.md), las rutinas serían, como inferencia de la base, la etapa de ejecución del [ciclo de gestión](ciclo-de-gestion.md) puesta en piloto automático. Lo que la investigación estudió, sin embargo, no son las listas ni los turnos, sino algo más amplio: qué tan predecible y ordenada es la vida de una familia.
+Dentro de la [gestión del hogar](gestion-del-hogar.md), las rutinas serían, como inferencia de la base, la etapa de ejecución del [ciclo de gestión](ciclo-de-gestion.md) puesta en piloto automático. La investigación estudió algo más amplio que las listas y los turnos: qué tan predecible y ordenada es la vida de una familia.
 
 ## Rutinas y rituales, dos cosas distintas
 
 La revisión de referencia es la de Barbara Fiese y otros (2002), que recorrió 32 publicaciones desde 1950. Según su abstract, distingue dos cosas:
 
-- **Rutinas**: prácticas que se pueden observar, como la hora de la cena o quién lleva a los chicos al colegio.
-- **Rituales**: representaciones simbólicas de la vida en común, como una comida de los domingos que dice algo sobre quiénes son como familia.
+- Rutinas: prácticas que se pueden observar, como la hora de la cena o quién lleva a los chicos al colegio.
+- Rituales: representaciones simbólicas de la vida en común, como una comida de los domingos que dice algo sobre quiénes son como familia.
 
 La revisión encontró que rutinas y rituales se relacionan con la competencia de los padres, el ajuste de los chicos y la satisfacción en la pareja. Los propios autores declaran sus límites: los estudios medían las rutinas de formas distintas, usaban muestras de conveniencia (las personas que estaban a mano, no una muestra representativa) y no separaban efectos directos de indirectos. La revisión no dice cuántas rutinas hacen falta, como señaló la prensa en su momento.
 
@@ -61,7 +61,7 @@ Un metaanálisis de 57 estudios sobre comidas en familia, conocido por el resume
 
 ## Lo que no se estudió: listas, turnos y estándares de hecho
 
-La literatura no llega a las herramientas que una casa usa en el día a día. CHAOS mide el ambiente de familias con chicos chicos; no es una escala del desorden de una casa de dos adultos, y no valida ninguna forma concreta de organizarse.
+La literatura no llega a las herramientas que una casa usa en el día a día. CHAOS mide el ambiente de familias con chicos chicos. No mide el desorden de una casa de dos adultos ni valida ninguna forma concreta de organizarse.
 
 > [!NOTE] Sin fuente todavía: estudios sobre listas de tareas, turnos, rotación de tareas o acuerdos explícitos de cuándo una tarea está hecha (un «estándar de hecho»), y sobre rutinas y satisfacción en parejas sin hijos.
 

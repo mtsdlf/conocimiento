@@ -72,7 +72,7 @@ La única evaluación encontrada es un informe de la Universidad del Sur de Cali
 - mostró más igualdad, con cambios modestos, mayores en lo cognitivo que en lo físico;
 - no fue aleatorizado, informó solo un miembro de cada pareja, no tuvo revisión por pares y se hizo en coordinación con el Fair Play Policy Institute y una empresa de salud.
 
-Daminger lo llama «la mejor herramienta de bajo costo que vi» y pide estudios más grandes y aleatorizados. No se encontró una evaluación independiente, y el método sirve como lenguaje común para conversar, no como método probado.
+Daminger lo llama «la mejor herramienta de bajo costo que vi» y pide estudios más grandes y aleatorizados. No se encontró una evaluación independiente, y el método sirve como lenguaje común para conversar, sin estar probado.
 
 Hay críticas de diseño. Lyman Stone, en un texto de opinión, sostiene que contar cartas mide mal la carga real y que el juego ignora el trabajo pago; sus números salen de su propia casa y no son evidencia.
 

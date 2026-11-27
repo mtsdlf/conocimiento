@@ -31,20 +31,20 @@ Según Alberts, investigadora de la Universidad Estatal de Arizona, cada persona
 
 La tesis doctoral de Riforgiate, de la misma universidad, estudió esos umbrales en parejas y en compañeros de casa. Según su resumen, quienes tienen umbrales distintos a los de quien comparte su casa reportan menos satisfacción y más conflicto. Es una tesis, no un artículo revisado por pares.
 
-El umbral explica un mecanismo, no a quién le toca. Si el umbral más bajo cae siempre del mismo lado, el reparto queda desparejo sin que nadie lo decida; que eso pase con frecuencia según el género es inferencia de esta base y no lo midió ninguna de las dos fuentes.
+El umbral explica un mecanismo y deja abierto a quién le toca. Si el umbral más bajo cae siempre del mismo lado, el reparto queda desparejo sin que nadie lo decida; que eso pase con frecuencia según el género es inferencia de esta base y no lo midió ninguna de las dos fuentes.
 
 ## Ver el desorden no es lo mismo que ser juzgado por él
 
 Thébaud, Kornrich y Ruppanner (2021) hicieron un experimento con 327 varones y 295 mujeres que juzgaban la foto de un living y una cocina. Según los resúmenes, varones y mujeres evaluaron igual cuán desordenada estaba la habitación y cuán urgente era ordenarla. Pero cuando la habitación estaba limpia y se decía que vivía una mujer, se le exigía más y se la veía más responsable de la limpieza que a un varón. Con la habitación desordenada, los efectos fueron menores y menos consistentes.
 
-El experimento separa dos cosas que suelen confundirse. Que los varones «no ven el desorden» no aparece en estos datos; lo que aparece es que la vara que los demás aplican no es la misma. Mide el juicio de terceros ante una foto, no cuánto limpia cada uno en su casa.
+Los datos no muestran que los varones «no vean el desorden»: muestran que la vara que los demás aplican no es la misma. Mide el juicio de terceros ante una foto, no cuánto limpia cada uno en su casa.
 
 ## Poner la vara también es controlar la tarea
 
 Fijar el estándar es una forma de quedarse con la tarea. Allen y Hawkins (1999) incluyeron los estándares rígidos como una de las dimensiones del *gatekeeping*, el control que una persona ejerce sobre cómo y si el otro participa. El concepto, su evidencia y sus críticas están en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md), y el término, en el [glosario del hogar](../Fundamentos/glosario-del-hogar.md).
 
 > [!IMPORTANT]
-> **Explicar el reparto por los estándares tiene una lectura en contra.** Una reseña crítica de *Fair Play* sostiene que el libro trata la desigualdad como un descuido en que las parejas caen, y sugiere que pone el peso en la mujer que tiene que pedir bien; que el libro se apoya mucho en el gatekeeping materno y en los «estándares altos» de las mujeres lo dice un comentario de lector de esa página, no la reseña. Es una opinión en un blog, no un estudio. Del otro lado, los umbrales y el gatekeeping hacen plausible que la vara explique una parte del reparto. Ninguna de las dos posiciones tiene datos de horas.
+> Explicar el reparto por los estándares tiene una lectura en contra. Una reseña crítica de *Fair Play* sostiene que el libro trata la desigualdad como un descuido en que las parejas caen, y sugiere que pone el peso en la mujer que tiene que pedir bien; que el libro se apoya mucho en el gatekeeping materno y en los «estándares altos» de las mujeres lo dice un comentario de lector de esa página, no la reseña. Es una opinión en un blog, no un estudio. Del otro lado, los umbrales y el gatekeeping hacen plausible que la vara explique una parte del reparto. Ninguna de las dos posiciones tiene datos de horas.
 
 ## Lo que se sabe del desorden y el estrés
 

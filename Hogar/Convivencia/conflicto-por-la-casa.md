@@ -37,7 +37,7 @@ La encuesta de Pew de 2007 en Estados Unidos preguntó qué hace a un buen matri
 
 La cifra subió: «Back in 1990, fewer than half (47%) of adults said» lo mismo. Y no separa a varones de mujeres: «there's virtually no difference of opinion between men and women». Es una encuesta de opinión: mide lo que la gente cree que importa, no qué causa que un matrimonio funcione.
 
-## Demanda-retirada: un reclama y el otro se va
+## Demanda-retirada: uno reclama y el otro se va
 
 La demanda-retirada (*demand-withdraw*) es un patrón de discusión en que una persona reclama, critica o pide un cambio, y la otra evita el tema, se calla o se va. No es propio de la casa: se estudió en parejas que discuten de cualquier cosa. Se trae acá porque las tareas son uno de los cambios que más se reclaman.
 
@@ -53,10 +53,10 @@ Newkirk, Perry-Jenkins y Sayer (2016) siguieron a 108 parejas de bajos ingresos 
 
 Cuántas tareas se comparten puede importar más que el porcentaje total. Según el comunicado de Carlson (2022), con dos muestras nacionales de parejas de varón y mujer, las mujeres que comparten por igual aunque sea una tarea reportan más satisfacción que las que hacen casi todo. Dividirse las tareas sin compartir ninguna no las satisface más que hacerlo todo solas. Los varones están igual de satisfechos si no hacen nada que si comparten casi todo. El comunicado no da tamaños de muestra ni de efecto.
 
-El reparto, además, se negocia todos los días y no una vez. Mannino y Deutsch (2007), leídos por resumen, estudian la asertividad de las esposas y las estrategias con que intentan cambiar la asignación. Cómo convertir esa negociación diaria en un acuerdo revisable está en [reunión de la casa](../Gestion/reunion-de-la-casa.md).
+El reparto se negocia todos los días. Mannino y Deutsch (2007), leídos por resumen, estudian la asertividad de las esposas y las estrategias con que intentan cambiar la asignación. Cómo convertir esa negociación diaria en un acuerdo revisable está en [reunión de la casa](../Gestion/reunion-de-la-casa.md).
 
 > [!IMPORTANT]
-> **Repartir más parejo no siempre va con una relación mejor.** Kornrich, Brines y Leupp (2013), con datos de 1992-1994, hallaron más frecuencia sexual en las parejas con reparto tradicional. Carlson y colegas (2016) compararon esos datos con una encuesta de 2006 y, según su abstract, la diferencia ya no aparece; según resúmenes, la peor frecuencia sexual fue la de las parejas donde el varón hace la mayor parte de las tareas domésticas. Todo es observacional. La disputa, con lo que dice cada resumen, está en [equidad percibida](../Reparto/equidad-percibida.md).
+> Repartir más parejo no siempre va con una relación mejor. Kornrich, Brines y Leupp (2013), con datos de 1992-1994, hallaron más frecuencia sexual en las parejas con reparto tradicional. Carlson y colegas (2016) compararon esos datos con una encuesta de 2006 y, según su abstract, la diferencia ya no aparece; según resúmenes, la peor frecuencia sexual fue la de las parejas donde el varón hace la mayor parte de las tareas domésticas. Todo es observacional. La disputa, con lo que dice cada resumen, está en [equidad percibida](../Reparto/equidad-percibida.md).
 
 ## Qué ayuda a resolverlo
 
@@ -71,7 +71,7 @@ Casi toda la literatura estudia parejas. Sobre los demás convivientes la eviden
 Con hijos adolescentes, Gager, Cooney y Call (1999), con datos de uso del tiempo seguidos en el tiempo, hallaron según su abstract que «girls devote more time to household tasks than boys and … this gender gap increases during high school». Los varones de secundaria dedicaban más tiempo a actividades extracurriculares y de ocio, y el esfuerzo de los adolescentes era mayor en familias grandes y monoparentales. No se encontró el tamaño de la muestra.
 
 > [!IMPORTANT]
-> **¿Sigue habiendo brecha entre chicas y chicos?** Una nota del Foro Económico Mundial (2020) dice que en Estados Unidos los adolescentes varones y mujeres hoy hacen cantidades parecidas de tareas, según un estudio del *Journal of Time Use Research* que no se leyó. Gager et al. son de otra década. No hay datos de Argentina ni de América Latina. Qué tareas puede hacer un chico según la edad está en [autonomía y tareas](../../Crianza/Limites-y-autonomia/autonomia-y-tareas.md).
+> ¿Sigue habiendo brecha entre chicas y chicos? Una nota del Foro Económico Mundial (2020) dice que en Estados Unidos los adolescentes varones y mujeres hoy hacen cantidades parecidas de tareas, según un estudio del *Journal of Time Use Research* que no se leyó. Gager et al. son de otra década. No hay datos de Argentina ni de América Latina. Qué tareas puede hacer un chico según la edad está en [autonomía y tareas](../../Crianza/Limites-y-autonomia/autonomia-y-tareas.md).
 
 Con compañeros de casa adultos, lo único que apareció es una nota de la Universidad Estatal de Arizona sobre el trabajo de Alberts, sin datos: según ella, las compañeras mujeres hablan de las tareas abiertamente y los varones usan más tácticas pasivo-agresivas, y las parejas gay reparten con más facilidad porque lo conversan.
 

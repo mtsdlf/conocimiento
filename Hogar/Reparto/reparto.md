@@ -35,11 +35,11 @@ En las parejas de distinto sexo, las mujeres hacen más trabajo doméstico que l
 
 La brecha se achicó durante décadas y después se frenó. Una revisión de más de 200 trabajos de 1989 a 1999 resume que las mujeres redujeron su aporte y los varones lo aumentaron un poco (Coltrane 2000, según un resumen). En Estados Unidos, las mujeres casadas pasaron de 33,9 horas semanales de tareas domésticas en 1965 a 17,8 en 2009/10, y los varones casados, de 4,7 a 10,3 (Bianchi y colegas 2012); la serie está en [tareas domésticas](../Trabajo-del-hogar/tareas-domesticas.md).
 
-A ese freno se lo llama **revolución estancada** (*stalled revolution*): el cambio hacia la igualdad avanzó y después se detuvo. Las actitudes igualitarias crecieron durante más de dos décadas y «cambiaron poco desde mediados de los noventa» (Cotter, Hermsen y Vanneman 2011, según un resumen). England (2010) describe ese cambio como desparejo y estancado, y lo atribuye en parte a que lo que hacen las mujeres se sigue valorando menos (según su abstract). La convergencia, además, es de distinto tipo según la tarea: las mujeres siguen haciendo la mayor parte de lo rutinario, y los varones aumentaron más en lo que no es rutinario (Kan, Sullivan y Gershuny 2011, según un resumen).
+A ese freno se lo llama revolución estancada (*stalled revolution*): el cambio hacia la igualdad avanzó y después se detuvo. Las actitudes igualitarias crecieron durante más de dos décadas y «cambiaron poco desde mediados de los noventa» (Cotter, Hermsen y Vanneman 2011, según un resumen). England (2010) describe ese cambio como desparejo y estancado, y lo atribuye en parte a que lo que hacen las mujeres se sigue valorando menos (según su abstract). La convergencia, además, es de distinto tipo según la tarea: las mujeres siguen haciendo la mayor parte de lo rutinario, y los varones aumentaron más en lo que no es rutinario (Kan, Sullivan y Gershuny 2011, según un resumen).
 
 ## Por qué una persona termina haciendo más
 
-Cuatro explicaciones compiten. Según la de **recursos relativos**, quien aporta menos ingreso o educación hace más; según la de **disponibilidad de tiempo**, quien tiene menos horas de trabajo pago; según la de **ideología de género**, las parejas con ideas más tradicionales reparten de manera más tradicional; y según la de ***doing gender*** («hacer género»), las tareas sirven para mostrar quién es varón y quién es mujer. El tiempo y los recursos explican una parte del reparto, y queda un resto que se atribuye al género. Las cuatro, la disputa entre ingreso absoluto y relativo y lo que sostiene la evidencia están en [teorías del reparto](teorias-del-reparto.md). Una explicación más, que nadie puso a prueba con horas, es que hace más quien nota antes el desorden: los [estándares distintos](../Convivencia/estandares-distintos.md).
+Cuatro explicaciones compiten. Según la de recursos relativos, quien aporta menos ingreso o educación hace más; según la de disponibilidad de tiempo, quien tiene menos horas de trabajo pago; según la de ideología de género, las parejas con ideas más tradicionales reparten de manera más tradicional; y según la de *doing gender* («hacer género»), las tareas sirven para mostrar quién es varón y quién es mujer. El tiempo y los recursos explican una parte del reparto, y queda un resto que se atribuye al género. Las cuatro, la disputa entre ingreso absoluto y relativo y lo que sostiene la evidencia están en [teorías del reparto](teorias-del-reparto.md). Una explicación más, que nadie puso a prueba con horas, es que hace más quien nota antes el desorden: los [estándares distintos](../Convivencia/estandares-distintos.md).
 
 La economía tiene su propia versión: cada uno se especializa en lo que le rinde más, o el reparto sale de una negociación. La evidencia empírica reciente le da poco apoyo a la especialización por ventaja comparativa como explicación del reparto actual (Siminski y Yetsenga 2022, según su abstract). Esa discusión, con los riesgos de especializarse, está en [especialización o reparto parejo](especializacion-o-reparto-parejo.md).
 
@@ -49,7 +49,7 @@ El país también cuenta. En los países con roles de género más igualitarios,
 
 Las parejas del mismo sexo reparten las tareas domésticas de manera más pareja que las heterosexuales. Una revisión analítica de Goldberg (2013) dice que esa literatura «es consistente» en ese punto. Cuando hay diferencias, hace más quien tiene menos prestigio laboral, menos ingreso o más flexibilidad horaria: el tiempo y los recursos siguen operando aunque no haya diferencia de género. La misma revisión advierte que la literatura es chica.
 
-Un documento de trabajo australiano encuentra que, en parejas de cualquier orientación, quien más gana trabaja 80 minutos más por día en el mercado y 40 menos en la casa (según un resumen del buscador); eso apunta a un efecto del ingreso relativo y no del género. En cambio, Siminski y Yetsenga (2022) dicen en su abstract que la ventaja absoluta no explica la especialización en las parejas del mismo sexo. Las dos lecturas conviven.
+Un documento de trabajo australiano encuentra que, en parejas de cualquier orientación, quien más gana trabaja 80 minutos más por día en el mercado y 40 menos en la casa (según un resumen del buscador); eso apunta a un efecto del ingreso relativo y no del género. En cambio, Siminski y Yetsenga (2022) dicen en su abstract que la ventaja absoluta no explica la especialización en las parejas del mismo sexo.
 
 ## Cómo se vive y cuándo se mueve
 
@@ -62,7 +62,7 @@ El reparto se reacomoda en ciertos momentos: con el primer hijo se abre una brec
 
 ## Qué hay adentro del reparto
 
-- [Teorías del reparto](teorias-del-reparto.md) — recursos relativos, tiempo, ideología de género, *doing gender* y la neutralización de la desviación, con lo que sostiene la evidencia; para entender por qué el reparto quedó como quedó.
-- [Especialización o reparto parejo](especializacion-o-reparto-parejo.md) — el modelo de Becker, la negociación y los riesgos de que uno se especialice en la casa.
-- [Equidad percibida](equidad-percibida.md) — por qué el mismo reparto se vive como justo o injusto, y qué pesa más en la pareja.
-- [Transiciones](transiciones.md) — qué le pasa al reparto con el primer hijo, el desempleo y la jubilación.
+- [Teorías del reparto](teorias-del-reparto.md): recursos relativos, tiempo, ideología de género, *doing gender* y la neutralización de la desviación, con lo que sostiene la evidencia; para entender por qué el reparto quedó como quedó.
+- [Especialización o reparto parejo](especializacion-o-reparto-parejo.md): el modelo de Becker, la negociación y los riesgos de que uno se especialice en la casa.
+- [Equidad percibida](equidad-percibida.md): por qué el mismo reparto se vive como justo o injusto, y qué pesa más en la pareja.
+- [Transiciones](transiciones.md): qué le pasa al reparto con el primer hijo, el desempleo y la jubilación.

@@ -35,7 +35,7 @@ Casi toda cifra de la base sobre cuánto trabajo hay y quién lo hace sale de un
 
 Hay dos formas de preguntar. El **diario de actividad** reconstruye un día concreto, en general el anterior, momento por momento: a las 8 desayuné, de 8:30 a 9 lavé la ropa. La **pregunta estilizada** pide una estimación: «¿cuántas horas por semana dedica a las tareas de la casa?». La pregunta es barata y entra en cualquier encuesta; el diario cuesta más y da un día, pero ata la respuesta a lo que pasó.
 
-Un estudio de primeros padres muestra la diferencia. Yavorsky, Kamp Dush y Schoppe-Sullivan (2015) siguieron a 182 parejas de doble ingreso de Ohio con diarios y con encuesta. Con la encuesta, ambos declaraban unas 30 horas más de trabajo tras el parto, sin diferencia entre ellos. Con los diarios, el trabajo total de ellas subía unas 21 horas semanales y el de ellos unas 12,5, contando todo el cuidado (15 y 5 sin el tiempo de interacción con el bebé); el estudio está en [transiciones](../Reparto/transiciones.md). Los autores lo dicen así: con solo la encuesta, «gender work inequalities would not have been apparent». La muestra es chica, educada y no representativa.
+Un estudio de primeros padres muestra la diferencia. Yavorsky, Kamp Dush y Schoppe-Sullivan (2015) siguieron a 182 parejas de doble ingreso de Ohio con diarios y con encuesta. Con la encuesta, ambos declaraban unas 30 horas más de trabajo tras el parto, sin diferencia entre ellos. Con los diarios, el trabajo total de ellas subía unas 21 horas semanales y el de ellos unas 12,5, contando todo el cuidado (15 y 5 sin el tiempo de interacción con el bebé). El estudio está en [transiciones](../Reparto/transiciones.md). Los autores lo dicen así: con solo la encuesta, «gender work inequalities would not have been apparent». La muestra es chica, educada y no representativa.
 
 ## Quién infla sus horas
 
@@ -68,13 +68,13 @@ Los resultados cambian también según cómo se agrupan las tareas: un estudio c
 
 ## Lo que las horas no ven
 
-**La carga mental.** Anticipar, buscar opciones, decidir y monitorear ocurren de fondo y a la vez que otra cosa, así que un diario casi no los registra. Las entrevistas encuentran que las mujeres hacen mucho más de ese trabajo; los estudios con medidas de tiempo encuentran brechas chicas. Aviv y colegas (2024) sostienen que los diarios lo pasan por alto. Las dos lecturas conviven: o el trabajo cognitivo es menos desigual de lo que dicen las entrevistas, o los diarios no lo captan. Esa disputa, y las escalas que se inventaron para medirlo, están en [carga mental](../Trabajo-del-hogar/carga-mental.md).
+La carga mental casi no aparece en un diario. Anticipar, buscar opciones, decidir y monitorear ocurren de fondo y a la vez que otra cosa. Las entrevistas encuentran que las mujeres hacen mucho más de ese trabajo; los estudios con medidas de tiempo encuentran brechas chicas. Aviv y colegas (2024) sostienen que los diarios lo pasan por alto. Las dos lecturas conviven: o el trabajo cognitivo es menos desigual de lo que dicen las entrevistas, o los diarios no lo captan. Esa disputa, y las escalas que se inventaron para medirlo, están en [carga mental](../Trabajo-del-hogar/carga-mental.md).
 
-**Quién se hace cargo.** Una encuesta registra quién hizo algo, no quién lo pensó o es responsable. En un estudio italiano (preprint de Barigozzi y colegas, 2025), solo cerca del 64 % de las parejas coincidía en quién organiza la casa. La diferencia entre hacer y hacerse cargo está en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md).
+Tampoco se ve quién se hace cargo: una encuesta registra quién hizo algo, no quién lo pensó o es responsable. En un estudio italiano (preprint de Barigozzi y colegas, 2025), solo cerca del 64 % de las parejas coincidía en quién organiza la casa. La diferencia entre hacer y hacerse cargo está en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md).
 
-**La calidad del tiempo libre.** Mattingly y Bianchi (2003) encontraron con diarios de Estados Unidos que el tiempo libre de las mujeres está más mezclado con otras actividades o con los hijos y alivia menos el apuro. La ENUT registra actividades simultáneas, pero su cuadro de ocio no las separa. Ver [tiempo del hogar](../Recursos/tiempo-del-hogar.md).
+La calidad del tiempo libre queda fuera de las horas. Mattingly y Bianchi (2003) encontraron con diarios de Estados Unidos que el tiempo libre de las mujeres está más mezclado con otras actividades o con los hijos y alivia menos el apuro. La ENUT registra actividades simultáneas, pero su cuadro de ocio no las separa. Ver [tiempo del hogar](../Recursos/tiempo-del-hogar.md).
 
-**La pareja.** La ENUT da cifras por sexo y edad, no cómo reparte cada pareja. Para eso hacen falta datos de los dos miembros de cada pareja.
+La pareja tampoco aparece: la ENUT da cifras por sexo y edad, no cómo reparte cada pareja. Para eso hacen falta datos de los dos miembros de cada pareja.
 
 ## Lo que se mide con estas horas
 
