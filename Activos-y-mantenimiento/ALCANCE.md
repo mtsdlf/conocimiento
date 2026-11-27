@@ -6,8 +6,8 @@ escuela: neutral; el mantenimiento centrado en la confiabilidad (RCM), el manten
 fuera:
   - el alta contable del activo, la amortización, capitalizar o gastar y la baja con su resultado — Contabilidad/Operaciones/activos-fijos-y-amortizacion.md; se enlaza
   - la compra del activo y de los repuestos (pedido, recepción, proveedor) — tema Compras y abastecimiento (todavía no armado)
-  - el stock de repuestos en el depósito (contar, ubicar, valuar) — tema Inventario y depósitos (todavía no armado); acá, qué repuesto necesita una orden y cuál es crítico
-  - la atención al cliente, el reclamo y el escalamiento — tema Servicio al cliente (en armado); acá empieza cuando el caso deriva a un técnico
+  - el stock de repuestos en el depósito (contar, ubicar, valuar) — tema Inventario y depósitos (Inventario-y-depositos/); acá, qué repuesto necesita una orden y cuál es crítico
+  - la atención al cliente, el reclamo y el escalamiento — tema Servicio al cliente (Servicio-al-cliente/, que deriva desde Escalamiento/derivacion-al-tecnico.md); acá empieza cuando el caso deriva a un técnico
   - el presupuesto y la venta de un contrato de servicio — Relación con clientes; acá, qué cubre el contrato y qué promete
   - la programación de la planta, la calidad y la eficiencia de la línea (OEE como medida de producción) — tema Producción (todavía no armado)
   - el legajo, las horas para liquidar y la capacitación de los técnicos — tema Administración de personal y nómina (todavía no armado)
@@ -43,8 +43,8 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 |---|---|---|
 | [Contabilidad](../Contabilidad/contabilidad.md) | el activo fijo como valor: alta, amortización, capitalizar o gastar, baja | El mismo equipo tiene dos registros: el operativo (acá) y el contable (allá). La orden de trabajo junta el costo de una reparación; si alarga la vida útil y se capitaliza lo decide la regla de [activos fijos y amortización](../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md) |
 | Compras y abastecimiento (no armado) | comprar el activo y los repuestos | La orden pide un repuesto que no hay; la compra, allá |
-| Inventario y depósitos (no armado) | el stock de repuestos: contar, ubicar, valuar | Acá, qué repuestos lleva un equipo, cuál es crítico y la reserva contra la orden; allá, cuántos hay y dónde |
-| Servicio al cliente (en armado) | la atención, el reclamo y el escalamiento | El caso nace allá; cuando hace falta un técnico, deriva una orden de servicio que es de acá. El cierre de la orden vuelve al caso |
+| [Inventario y depósitos](../Inventario-y-depositos/inventario-y-depositos.md) | el stock de repuestos: contar, ubicar, valuar | Acá, qué repuestos lleva un equipo, cuál es crítico y la reserva contra la orden; allá, cuántos hay y dónde |
+| [Servicio al cliente](../Servicio-al-cliente/servicio-al-cliente.md) | la atención, el reclamo y el escalamiento | El caso nace allá; cuando hace falta un técnico, [deriva](../Servicio-al-cliente/Escalamiento/derivacion-al-tecnico.md) una orden de servicio que es de acá. Revisar y autorizar un reclamo de garantía es del caso; qué promete el contrato, de acá. El cierre de la orden vuelve al caso |
 | [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) | el cliente como registro, el presupuesto y el pedido de venta | Un contrato de servicio se vende con un presupuesto y un pedido de allá; qué cubre y qué tiempo de respuesta promete, acá |
 | Producción (no armado) | transformar: programar la planta, calidad, eficiencia de la línea | Producción dice cuándo se puede parar la máquina; mantenimiento, qué hacerle. La OEE mide la línea y se explica allá |
 | Administración de personal y nómina (no armado) | el legajo, la asistencia y la liquidación del técnico | Las horas cargadas en una orden son costo del trabajo acá; para liquidar el sueldo, allá |

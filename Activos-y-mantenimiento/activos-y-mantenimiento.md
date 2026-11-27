@@ -49,8 +49,8 @@ APQC, en su marco de procesos 7.4 (2024), dedica la categoría 10.0 «Acquire, C
 Cada dominio es dueño de un objeto y un verbo, y los demás lo enlazan; la tabla completa está en el [alcance del tema](ALCANCE.md). Lo que más se confunde:
 
 - Con la contabilidad: la orden junta el costo de una reparación, y si se capitaliza lo decide [activos fijos y amortización](../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md). Dar de baja un equipo en el registro operativo no da de baja el bien de uso.
-- Con la atención al cliente: la consulta, el reclamo y el escalamiento son del tema Servicio al cliente, todavía en armado. Cuando el caso necesita un técnico, se abre una orden de servicio, que es de acá; al cerrarse, vuelve al caso.
-- Con el inventario y las compras: acá se decide qué repuestos lleva un equipo, cuáles son críticos y cuáles reserva una orden. Cuántos hay y cuánto valen es de Inventario y depósitos; comprarlos, de Compras y abastecimiento. Ninguno de los dos está armado todavía.
+- Con la atención al cliente: la consulta, el reclamo y el escalamiento son del tema [Servicio al cliente](../Servicio-al-cliente/servicio-al-cliente.md). Cuando el caso necesita un técnico, se [deriva](../Servicio-al-cliente/Escalamiento/derivacion-al-tecnico.md) y se abre una orden de servicio, que es de acá; al cerrarse, vuelve al caso.
+- Con el inventario y las compras: acá se decide qué repuestos lleva un equipo, cuáles son críticos y cuáles reserva una orden. Cuántos hay y cuánto valen es de [Inventario y depósitos](../Inventario-y-depositos/inventario-y-depositos.md); comprarlos, de Compras y abastecimiento, todavía no armado.
 - Con la producción: producción decide cuándo se puede parar una máquina; mantenimiento, qué hacerle. La eficiencia global del equipo (OEE) nació en el mantenimiento productivo total, pero mide la línea y se explica en el tema Producción, todavía no armado.
 - Con el software: las categorías de producto (CMMS, EAM) y las piezas que comparte todo software de gestión, como el documento con sus estados, van al tema Software de gestión, todavía no armado.
 

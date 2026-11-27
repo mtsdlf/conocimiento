@@ -49,7 +49,7 @@ El trabajo tiene que poder hacerse sin señal: el mismo sistema deja descargar l
 
 El técnico lleva repuestos con él, y esa camioneta es un depósito más. El sistema de referencia lo llama «truck stock»: los encargados de inventario aseguran que el técnico tenga lo necesario, y al instalar una pieza se registra una baja «from the related warehouse or truck». En otro sistema, los productos de los pedidos creados en la intervención salen siempre del depósito por defecto, y el stock se actualiza cuando la tarea se marca terminada.
 
-Qué repuesto pide la orden y cuándo se registra el consumo está en [repuestos y materiales](../Orden-de-trabajo/repuestos-y-materiales.md). Cuánto stock lleva cada camioneta, cómo se repone y cómo se cuenta es del tema Inventario y depósitos, todavía no armado. La pieza instalada puede pasar a ser un equipo del cliente, como se explica en [base instalada](base-instalada.md#cómo-nace-un-equipo-en-la-base).
+Qué repuesto pide la orden y cuándo se registra el consumo está en [repuestos y materiales](../Orden-de-trabajo/repuestos-y-materiales.md). Cuánto stock lleva cada camioneta, cómo se repone y cómo se cuenta es del tema [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md). La pieza instalada puede pasar a ser un equipo del cliente, como se explica en [base instalada](base-instalada.md#cómo-nace-un-equipo-en-la-base).
 
 ## La conformidad del cliente
 
@@ -79,6 +79,6 @@ Las cifras que circulan se atribuyen a Aberdeen Group, pero llegan por blogs de 
 
 ## El cierre vuelve al caso
 
-Si la visita nació de un reclamo, su cierre no le contesta al cliente: lo hace la atención. La atención, el caso, el reclamo y el escalamiento son del tema Servicio al cliente, todavía en armado; este tema empieza cuando el caso deriva a un técnico, y el cierre de la orden vuelve al caso para que la atención le conteste al cliente. Ese límite está en [servicio de campo](servicio-de-campo.md#del-caso-del-cliente-a-la-factura).
+Si la visita nació de un reclamo, su cierre no le contesta al cliente: lo hace la atención. La atención, el caso, el reclamo y el escalamiento son del tema [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md); este tema empieza cuando el caso deriva a un técnico, y el cierre de la orden vuelve al caso para que la atención le conteste al cliente. Ese límite está en [servicio de campo](servicio-de-campo.md#del-caso-del-cliente-a-la-factura).
 
 Lo que queda en este tema es el registro: la orden cerrada se suma al historial del equipo de la base instalada, y contar las visitas de cada orden da el dato para resolver en la primera visita y para los [indicadores de mantenimiento](../Desempeno-de-los-activos/indicadores-de-mantenimiento.md); esto último es inferencia de la base.

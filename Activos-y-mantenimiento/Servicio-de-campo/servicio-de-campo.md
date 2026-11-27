@@ -39,7 +39,7 @@ La columna del mantenimiento interno es criterio de la base, por contraste. La d
 
 ## Del caso del cliente a la factura
 
-El servicio de campo empieza cuando alguien decide que hace falta ir. La atención, el caso, el reclamo y el escalamiento son del tema Servicio al cliente, todavía en armado; este tema empieza cuando el caso deriva a un técnico, y el cierre de la orden vuelve al caso. Allí los agentes, según un sistema de referencia, «triage incoming requests and determine when to create work orders for onsite visits». Que el cierre vuelva al caso para que la atención le conteste al cliente es decisión del mapa de la base.
+El servicio de campo empieza cuando alguien decide que hace falta ir. La atención, el caso, el reclamo y el escalamiento son del tema [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md); este tema empieza cuando el caso [deriva a un técnico](../../Servicio-al-cliente/Escalamiento/derivacion-al-tecnico.md), y el cierre de la orden vuelve al caso. Allí los agentes, según un sistema de referencia, «triage incoming requests and determine when to create work orders for onsite visits». Que el cierre vuelva al caso para que la atención le conteste al cliente es decisión del mapa de la base.
 
 El ciclo típico, según el mismo sistema, tiene estos pasos y estos responsables:
 

@@ -22,7 +22,7 @@ revisado:
 
 La base instalada es el registro de cada equipo que la empresa vendió o instaló y que está en manos de un cliente: qué es, su número de serie, dónde está, cuándo se instaló y qué cobertura tiene. Cumple para los equipos ajenos el papel que el registro de activos cumple para los propios, y no tiene contraparte contable en la empresa que lo lleva.
 
-Es el punto de partida de [Servicio de campo](servicio-de-campo.md): la orden de servicio, la visita y el reclamo de garantía se abren sobre un equipo de la base instalada. Sin ese registro, el técnico no tiene a mano el modelo ni lo que se le hizo antes; es criterio de la base. La atención, el caso, el reclamo y el escalamiento son del tema Servicio al cliente, todavía en armado; este tema empieza cuando el caso deriva a un técnico, y el cierre de la orden vuelve al caso.
+Es el punto de partida de [Servicio de campo](servicio-de-campo.md): la orden de servicio, la visita y el reclamo de garantía se abren sobre un equipo de la base instalada. Sin ese registro, el técnico no tiene a mano el modelo ni lo que se le hizo antes; es criterio de la base. La atención, el caso, el reclamo y el escalamiento son del tema [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md); este tema empieza cuando el caso deriva a un técnico, y el cierre de la orden vuelve al caso.
 
 ## Dos sentidos de la expresión
 
@@ -66,4 +66,4 @@ Por inferencia de la base, con el número de serie la atención puede saber en e
 
 El equipo de la base instalada es del cliente. La empresa que presta el servicio lleva su registro, su historial y su plan, pero no lo tiene entre sus bienes de uso: no se amortiza ni se da de baja en su contabilidad, que trata [activos fijos y amortización](../../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md) solo para lo propio. Es el caso más claro de lo que la entrada del tema llama registro operativo sin registro contable.
 
-El repuesto que se instala sí pasa por los libros de quien presta el servicio: sale de su stock; quién lo paga, el cliente o el contrato, depende de la cobertura, que ninguna fuente leída detalla. Ese movimiento de stock es del tema Inventario y depósitos, todavía no armado.
+El repuesto que se instala sí pasa por los libros de quien presta el servicio: sale de su stock; quién lo paga, el cliente o el contrato, depende de la cobertura, que ninguna fuente leída detalla. Ese movimiento de stock es del tema [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md).
