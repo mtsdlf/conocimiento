@@ -80,7 +80,7 @@ Compras-y-abastecimiento/
     orden-de-compra.md               (entrada) el documento, sus estados y lo que dispara
     solicitud-de-compra.md           quién pide, quién aprueba, y las compras que saltean el circuito
     tipos-de-orden.md                puntual, abierta, contra contrato, de servicios, en consignación
-    cambios-y-cancelaciones.md       modificar, cancelar y volver a aprobar una orden emitida
+    cambios-y-cancelaciones-de-la-orden.md  modificar, cancelar y volver a aprobar una orden emitida
   Seguimiento-de-la-orden/         de la orden emitida a lo recibido que coincide con lo pedido
     seguimiento-de-la-orden.md       (entrada) los estados después de emitir y dónde termina Compras
     confirmacion-y-seguimiento.md    el acuse del proveedor, la fecha confirmada y el seguimiento de entregas
