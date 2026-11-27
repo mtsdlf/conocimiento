@@ -53,5 +53,7 @@ Todas las cifras son las de los resúmenes de los estudios.
 
 ## Qué falta
 
+Estos programas son también el tratamiento de primera línea cuando la conducta difícil llega a ser un trastorno: dónde entran entre los demás tratamientos está en [qué funciona para qué](../../Psicologia-infantil/Intervencion/que-funciona-para-que.md).
+
 > [!NOTE]
 > Sin fuente todavía: una revisión Cochrane de programas para chicos de 4 a 6 años y un resumen en castellano de Triple P, Incredible Years y PCIT hecho por una fuente argentina.

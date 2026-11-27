@@ -53,5 +53,7 @@ De noche, el umbral también es de 5 años. La SAP define la enuresis nocturna c
 
 Mojar la cama después de los 5 es frecuente. En una encuesta que cita la guía, sobre 3.952 padres de chicos mayores de 5 años en hospitales de la Ciudad de Buenos Aires, el 8,14 % de los chicos mojaba la cama y solo el 21,7 % había recibido alguna intervención. No es una muestra de toda la población. El tratamiento de primera línea según la guía es la alarma; la medicación la indica el médico cuando la alarma no funcionó o no es adecuada.
 
+Cuándo mojar la cama o ensuciarse pasa a ser enuresis o encopresis, y qué ayuda, está en [otros trastornos](../../Psicologia-infantil/Psicopatologia/otros-trastornos.md).
+
 > [!NOTE]
 > Sin fuente todavía: la página de la AAP en castellano para familias, la guía AAP de 1999 leída entera, una edad argentina de logro de continencia y la tabla de prevalencia de enuresis por edad que trae la guía de la SAP.

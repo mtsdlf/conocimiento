@@ -70,3 +70,5 @@ El IODI (Instrumento de Observación del Desarrollo Infantil) es una herramienta
 > Sin fuente todavía: el documento del Ministerio de Salud con las pautas del IODI y de la Libreta de salud, y una guía de la SAP posterior a 2017. La guía usada tiene nueve años.
 
 Si el chico va adelantado en algo, la pregunta es otra y está en [altas capacidades](../Altas-capacidades/altas-capacidades.md).
+
+Estas señales son del desarrollo (movimiento, lenguaje, relación). Las emocionales y de conducta, y cómo se separa lo normal para la edad de un trastorno, están en [psicopatología del desarrollo](../../Psicologia-infantil/Psicopatologia/psicopatologia-del-desarrollo.md); quién evalúa a un chico y cómo, en [evaluación](../../Psicologia-infantil/Evaluacion/evaluacion-psicologica.md).

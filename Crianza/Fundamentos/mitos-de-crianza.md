@@ -88,5 +88,7 @@ Un metaanálisis de 205 estudios longitudinales con 87.408 participantes halló 
 
 La heredabilidad tampoco es destino. El 49 % promedio de Polderman y otros (2015) describe qué parte de las diferencias entre personas de una población va con las diferencias genéticas, no cuánto de un chico está escrito; la discusión entera está en [cuánto pesa la crianza](cuanto-pesa-la-crianza.md). En sentido contrario, las ventajas que dan los programas tempranos tienden a desvanecerse: en 67 programas, el efecto cognitivo promedió 0,23 desviaciones estándar al terminar y cerca de 0,10 a los 12 meses (Bailey y otros 2017).
 
+Los mitos sobre trastornos y terapias de chicos más grandes están en [mitos de psicología infantil](../../Psicologia-infantil/Fundamentos/mitos-de-psicologia-infantil.md).
+
 > [!NOTE]
 > Sin fuente todavía: una revisión sobre la heredabilidad del CI a lo largo de la infancia y sobre la estimulación temprana para "hacer superdotados" en hogares que ya estimulan.

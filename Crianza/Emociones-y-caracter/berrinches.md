@@ -69,3 +69,5 @@ Un chico que habla y razona como uno mayor puede tener los berrinches de su edad
 > Sin fuente todavía: una guía de la Sociedad Argentina de Pediatría sobre berrinches; una fuente verificada sobre el mecanismo (lenguaje, autonomía y maduración prefrontal) de por qué se concentran a los 2 y 3 años.
 
 Para leer más: la entrada [Rabietas del Manual MSD](https://www.msdmanuals.com/es/hogar/salud-infantil/problemas-de-comportamiento-en-ni%C3%B1os/rabietas), en castellano y corta, para qué pasa y cuándo consultar; y la [guía de UNICEF Argentina para evitar gritos y chirlos](https://unicef.org/lac/media/24146/file/Gu%C3%ADa%20pr%C3%A1ctica%20para%20evitar%20gritos,%20chirlos%20y%20estereotipos.pdf), el capítulo sobre berrinches, para ejemplos de qué decir (no se leyó para esta nota).
+
+Cuando los berrinches y la oposición son mucho más intensos o frecuentes que en otros chicos de su edad y duran meses, la psicología infantil habla de un trastorno; qué lo distingue y cómo se trata está en [trastornos de conducta](../../Psicologia-infantil/Psicopatologia/trastornos-de-conducta.md).

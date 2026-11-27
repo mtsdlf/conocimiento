@@ -50,7 +50,7 @@ flowchart LR
 - [Estrés y resiliencia](Estres-y-resiliencia/estres-y-resiliencia.md): qué le pasa a una persona bajo presión, cómo se recupera y qué es el burnout.
 - [Cognición social](Cognicion-social/cognicion-social.md): cómo pensamos sobre los demás y cuánto nos influyen.
 
-Quedan afuera la biopsicología, la conciencia y el desarrollo a lo largo de la vida, que aparecen solo como mención dentro de cada mecanismo. La sensación y la percepción aplicadas a pantallas viven en [UX](../UX/ux.md), y la psicología del trabajo se reparte entre [Liderazgo y dirección](../Liderazgo-y-direccion/liderazgo-y-direccion.md) y esta base.
+Quedan afuera la biopsicología, la conciencia y el desarrollo a lo largo de la vida, que aparecen solo como mención dentro de cada mecanismo; el desarrollo y la clínica de los chicos de 0 a 12 viven en [Psicología infantil](../Psicologia-infantil/psicologia-infantil.md). La sensación y la percepción aplicadas a pantallas viven en [UX](../UX/ux.md), y la psicología del trabajo se reparte entre [Liderazgo y dirección](../Liderazgo-y-direccion/liderazgo-y-direccion.md) y esta base.
 
 ## Por qué cada nota dice qué se sostuvo
 
