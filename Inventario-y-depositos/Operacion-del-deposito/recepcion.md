@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La recepción es el paso en que la mercadería que llega al depósito se descarga, se cuenta, se inspecciona y se ubica, y en que su cantidad entra al registro de stock. Lo que no pasa la inspección queda apartado y no se puede vender; lo que se recibe para salir enseguida puede cruzar el depósito sin guardarse (cross-docking).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bartholdi y Hackman, Warehouse & Distribution Science, versión 0.98.1 (16-ago-2019), §3.1-3.2 (recepción y guardado), §4.1 y §4.3 (efecto contable, funciones de un WMS) y §13.1-13.2 (cross-docking): https://www.warehouse-science.com/book/editions/wh-sci-0.98.1.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/operacion-del-deposito.md (2026-11-27), sección 2"
 aliases: [recepción, recepción de mercadería, ingreso de mercadería, receiving, inbound, goods receipt, recibo, inspección de recepción, control de calidad en la recepción, incoming inspection, guardado, put-away, putaway, cuarentena, quarantine, cross-docking, cross-dock]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recepción

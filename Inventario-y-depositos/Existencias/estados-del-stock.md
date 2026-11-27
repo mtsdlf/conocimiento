@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los estados del stock reparten la cantidad de un artículo según lo que se puede hacer con ella: físico, disponible, comprometido, en tránsito, en cuarentena, bloqueado y de terceros. La misma pila de cajas puede tener unidades en varios estados, y solo las disponibles se pueden prometer.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, Inventory Visibility: available-to-promise (fórmula de disponible con PhysicalInvent, OnHand, Unrestricted, QualityInspection, Inbound, ReservPhysical, SoftReservePhysical, Outbound): https://learn.microsoft.com/en-us/dynamics365/supply-chain/inventory/inventory-visibility-available-to-promise"
@@ -13,7 +13,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/operacion-del-deposito.md y reposicion.md (2026-11-27)"
 aliases: [estados del stock, estados de inventario, inventory status, stock status, stock físico, on hand, disponible, available, comprometido, committed, reservado, reserved, en tránsito, in transit, en cuarentena, quarantine, en inspección, quality inspection, bloqueado, blocked stock, stock de terceros, consignación, consignment]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estados del stock

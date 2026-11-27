@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una ubicación es un lugar del depósito con una dirección única donde puede haber stock, desde una porción de estante hasta las horquillas de un autoelevador. Las ubicaciones se ordenan en jerarquía (depósito, zona, ubicación) y se asignan a los artículos de manera fija o libre, una decisión que cambia cuánto espacio se aprovecha y cuánto control hace falta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bartholdi y Hackman, Warehouse & Distribution Science, versión 0.98.1 (16-ago-2019), §2.4 (ubicación fija y compartida), cap. 2 p. 17-18 (slotting), §3.2-3.3 y §4.2 (stock locator): https://www.warehouse-science.com/book/editions/wh-sci-0.98.1.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/operacion-del-deposito.md (2026-11-27), sección 1"
 aliases: [ubicación, ubicaciones, location, storage location, bin, posición, dirección de ubicación, direccionamiento, ubicación fija, dedicated storage, ubicación libre, ubicación compartida, shared storage, random storage, slotting, zona de picking, forward area, zona de reserva, reserve area, forward-reserve, stock locator]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ubicaciones

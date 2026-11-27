@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La clasificación ABC ordena los artículos por su valor anual de consumo y los parte en tres clases, para darles control fino a los pocos que pesan mucho (A) y control simple a los muchos que pesan poco (C). Decide qué política de reposición y qué frecuencia de conteo lleva cada artículo. Sus cortes no son fijos, y XYZ le suma una segunda mirada por variabilidad de la demanda.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, ABC analysis (Pareto, clases, ejemplos de cortes, método en cinco pasos): https://en.wikipedia.org/wiki/ABC_analysis"
@@ -16,7 +16,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/fundamentos-y-contraria.md (sección 4.4)"
 aliases: [clasificación ABC, análisis ABC, ABC analysis, ABC classification, curva ABC, ley de Pareto, Pareto, 80-20, clasificación XYZ, análisis XYZ, ABC-XYZ, segmentación de artículos, SKU segmentation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Clasificación ABC

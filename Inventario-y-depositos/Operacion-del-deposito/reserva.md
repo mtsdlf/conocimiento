@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La reserva es apartar una cantidad del stock disponible para un pedido, sin moverla del estante, para que no se le prometa a otro. Su resultado es stock comprometido; las decisiones que la definen son en qué momento se reserva, si se aparta una cantidad o una unidad concreta (de qué lote y de qué ubicación) y cuándo se libera.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ASCM/APICS, CPIM 6.1 (2019) Excerpt, sección F, definición de «Available inventory» del APICS Dictionary: https://learningsystem.ascm.org/wp-content/uploads/2018/11/APICS_CPIM_2019_Excerpt.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/existencias-y-control.md (2026-11-27), estados del stock"
 aliases: [reserva, reserva de stock, reservar, apartar stock, reservation, stock reservation, inventory reservation, asignación, allocation, compromiso de stock, reserva blanda, soft reservation, soft allocation, reserva dura, reserva física, hard reservation, hard allocation, liberación de la reserva]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reserva

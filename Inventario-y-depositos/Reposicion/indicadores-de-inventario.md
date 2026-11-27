@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los indicadores de inventario miden si el stock cumple su función sin costar de más: cuántas veces rota en el año, cuántos días de venta cubre, qué parte de la demanda se atiende a tiempo y cuánto coincide el registro con el estante. Se calculan sobre el costo de lo vendido y el valor promedio del stock, y varios tienen definiciones que cambian según la fuente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hammond y Western Technical College, Operations Management, §6.8 Measuring Supply Chain Performance (CC BY 4.0; leído por resumen): https://biz.libretexts.org/Courses/Western_Technical_College/Operations_Management_(Hammond)/06%3A_Supply_Chain_and_Inventory_Management/6.08%3A_Measuring_Supply_Chain_Performance"
@@ -11,7 +11,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/reposicion.md (sección 6)"
 aliases: [indicadores de inventario, KPI de inventario, inventory KPIs, rotación de inventario, rotación de stock, inventory turnover, inventory turns, días de inventario, días de stock, days of supply, days of inventory, DIO, cobertura, cobertura de stock, nivel de servicio, exactitud de inventario, inventory accuracy, obsolescencia, stock obsoleto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Indicadores de inventario

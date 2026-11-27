@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El stock de seguridad es el stock que se tiene de más, por encima de la demanda esperada durante el plazo de reposición, para cubrir la incertidumbre de la demanda y del plazo. Se calcula como un factor de seguridad por el desvío de la demanda en el plazo, y el factor sale del nivel de servicio buscado; la fórmula es una aproximación que falla cuando la demanda no es normal ni independiente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Caplice, C. (MIT CTL), Inventory Management: Probabilistic Demand, ESD.260 lección 11, octubre de 2006, diapositivas 9-28 (remite a Silver, Pyke y Peterson, ecuaciones 7.19, 7.20 y 7.23): https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/8b53c45fd26ffff706d815131e8d177e_lect11.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/fundamentos-y-contraria.md (sección 4.3)"
 aliases: [stock de seguridad, inventario de seguridad, existencia de seguridad, safety stock, SS, colchón, buffer stock, nivel de servicio, service level, nivel de servicio por ciclo, cycle service level, CSL, fill rate, tasa de cumplimiento, item fill rate, IFR, factor de seguridad, safety factor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Stock de seguridad

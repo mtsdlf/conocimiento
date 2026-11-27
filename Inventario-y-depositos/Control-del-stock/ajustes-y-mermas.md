@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un ajuste es el movimiento que lleva la cantidad del registro a la que se contó, o que registra una salida que no fue venta (rotura, robo, vencimiento). La merma es la mercadería perdida que esos ajustes dejan a la vista; se registra como un movimiento nuevo con su motivo, nunca pisando el saldo, y lo aprueba alguien distinto de quien cuida el stock.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ERPNext, Stock Reconciliation: https://docs.frappe.io/erpnext/user/manual/en/stock-reconciliation (según su resumen)"
@@ -12,7 +12,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/existencias-y-control.md (componente 2, ajustes y mermas), 2026-11-27"
 aliases: [ajuste de stock, ajuste de inventario, stock adjustment, inventory adjustment, merma, shrinkage, shrink, faltante, sobrante, diferencia de inventario, rotura, robo, hurto, vencimiento, baja de stock, conciliación de stock, stock reconciliation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ajustes y mermas

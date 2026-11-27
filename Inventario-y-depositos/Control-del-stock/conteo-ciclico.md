@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El conteo cíclico cuenta una parte chica del stock por vez, según un calendario fijo, para que todo el depósito se cuente a lo largo del año sin frenar la operación. Reemplaza o complementa el inventario físico anual, y su decisión central es qué contar más seguido: por clase de artículo o por ubicación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wikipedia, Cycle count: https://en.wikipedia.org/wiki/Cycle_count (según su resumen)"
@@ -14,7 +14,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/existencias-y-control.md (componente 2) y fundamentos-y-contraria.md (secciones 4.1 y 4.4), 2026-11-27"
 aliases: [conteo cíclico, cycle count, cycle counting, inventario rotativo, conteo rotativo, inventario físico, conteo físico, physical inventory, inventario anual, toma de inventario, recuento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conteo cíclico

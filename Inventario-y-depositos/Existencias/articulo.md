@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El artículo es el dato maestro de cada cosa que la empresa guarda, compra o vende: un código que la identifica, la unidad en que se cuenta con sus conversiones, y la decisión de si lleva stock o no. Todo movimiento y toda cantidad del tema cuelgan de un artículo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bartholdi y Hackman, Warehouse & Distribution Science, versión 0.98.1 (16-ago-2019), cap. 2, p. 17-18 (SKU y slotting) y §3.3 (línea de pedido y línea de picking): https://www.warehouse-science.com/book/editions/wh-sci-0.98.1.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/operacion-del-deposito.md (2026-11-27)"
 aliases: [artículo, ítem, item, producto, SKU, stock keeping unit, código de artículo, maestro de artículos, item master, unidad de medida, UOM, unit of measure, conversión de unidades]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Artículo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Inventario y depósitos: de dónde vienen sus ideas, las escuelas que discuten si conviene tener stock (colchón, desperdicio y DDMRP), la evidencia contra las fórmulas y los supuestos más repetidos, y dónde se produce el saber del campo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Harris (1913), How many parts to make at once, Factory, The Magazine of Management; reimpreso en Operations Research 38(6), 947-950, 1990: https://doi.org/10.1287/opre.38.6.947 (según el resumen)"
@@ -20,7 +20,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/fundamentos-y-contraria.md (2026-11-27)"
 aliases: [fundamentos de inventario, historia del inventario, escuelas de inventario, lean e inventario, DDMRP, mitos del inventario]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de inventario y depósitos

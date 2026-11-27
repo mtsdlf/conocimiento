@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La reposición es la decisión de cuándo y cuánto traer de cada artículo para que el stock cumpla su función sin costar de más. Se apoya en una cuenta de tres costos (pedir, mantener y quedarse sin stock) y en unas pocas políticas que miran la posición de stock y disparan un pedido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Caplice, C. (MIT CTL), Inventory Management: Probabilistic Demand, ESD.260 lección 11, octubre de 2006, diapositivas 5-12 y 25 (remite a Silver, Pyke y Peterson como libro de texto): https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/8b53c45fd26ffff706d815131e8d177e_lect11.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/fundamentos-y-contraria.md (secciones 3 y 4.5)"
 aliases: [reposición, reabastecimiento, replenishment, política de inventario, inventory policy, funciones del inventario, costos del inventario, costo de mantener, holding cost, carrying cost, costo de pedir, ordering cost, costo de faltante, stockout cost]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reposición

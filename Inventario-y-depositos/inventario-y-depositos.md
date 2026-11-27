@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Inventario y depósitos, como dominio de negocio, es lo que una empresa registra y hace con la mercadería que guarda: qué artículos tiene, cuántos, en qué lugar y en qué estado, cuánto puede prometer, cómo entra, cómo se aparta y se prepara para salir, cómo se controla que el número sea cierto y cuándo se repone. Es lo que lleva el módulo de stock de un ERP y un sistema de gestión de depósitos, pero existe antes del software: una ficha por artículo, estanterías numeradas y un conteo periódico hacen lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 4.4 «Manage logistics and warehousing» y 4.4.3 «Operate warehousing»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/ (cinco informes, 2026-11-27)"
 aliases: [inventario, inventarios, stock, existencias, gestión de inventario, inventory management, depósito, almacén, warehouse, warehousing, gestión de depósitos, WMS, warehouse management, control de stock]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inventario y depósitos

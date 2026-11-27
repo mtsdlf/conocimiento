@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La operación del depósito es lo que se hace con la mercadería entre la puerta de entrada y la de salida: recibirla, ubicarla, apartarla para un pedido y prepararla. Cada uno de esos pasos es un movimiento que cambia dónde está el stock o en qué estado, y casi todo su costo es trabajo de gente que camina.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bartholdi y Hackman, Warehouse & Distribution Science, versión 0.98.1 (16-ago-2019), cap. 3 «Warehouse operations» y §4.1-4.3: https://www.warehouse-science.com/book/editions/wh-sci-0.98.1.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/operacion-del-deposito.md (2026-11-27)"
 aliases: [operación del depósito, operación del almacén, operaciones de depósito, warehouse operations, warehousing, operar el depósito, flujo del depósito, gestión de depósitos, WMS, warehouse management system]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Operación del depósito

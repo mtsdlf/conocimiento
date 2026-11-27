@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Control del stock es la parte del dominio que se ocupa de que la cantidad del registro sea la que está en el estante: cuándo se actualiza esa cantidad, cómo se cuenta para encontrar las diferencias y cómo se corrigen sin perder el rastro. Todo lo que se calcula sobre el stock, de lo disponible al punto de pedido, depende de que esto funcione.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "DeHoratius y Raman (2008), Inventory Record Inaccuracy: An Empirical Analysis, Management Science 54(4), 627-641, abstract: https://doi.org/10.1287/mnsc.1070.0789 y https://ideas.repec.org/a/inm/ormnsc/v54y2008i4p627-641.html (según su resumen; el texto completo no se leyó)"
@@ -12,7 +12,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/existencias-y-control.md (componente 2) y fundamentos-y-contraria.md (sección 4.1), 2026-11-27"
 aliases: [control del stock, control de inventario, inventory control, exactitud del inventario, exactitud de registros, inventory record accuracy, IRA, inexactitud del registro, inventory record inaccuracy, inventario permanente, perpetual inventory, inventario periódico, periodic inventory]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Control del stock

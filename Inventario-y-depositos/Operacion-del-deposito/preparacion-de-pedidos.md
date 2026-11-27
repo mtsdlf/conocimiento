@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La preparación de pedidos (picking) es sacar de sus ubicaciones las unidades que pide cada pedido, juntarlas, embalarlas y controlarlas hasta dejarlas listas en la puerta de salida. Es la tarea más cara del depósito y casi todo su tiempo es caminar, por eso se organiza por pedido, por lote, por zona o por ola según cuánto se ahorra de caminata.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bartholdi y Hackman, Warehouse & Distribution Science, versión 0.98.1 (16-ago-2019), §3.3-3.6 (preparación, embalaje y despacho): https://www.warehouse-science.com/book/editions/wh-sci-0.98.1.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/operacion-del-deposito.md (2026-11-27), sección 4"
 aliases: [preparación de pedidos, picking, order picking, armado de pedidos, preparación, pick and pack, picking por pedido, discrete picking, picking por lote, batch picking, picking por zona, zone picking, picking por ola, wave picking, embalaje, packing, control de pedido, línea de picking, pick line]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Preparación de pedidos

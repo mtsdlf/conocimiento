@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El punto de pedido es el nivel de la posición de stock en que se dispara un pedido de reposición: la demanda esperada durante el plazo de entrega más un stock de seguridad. Con él se arman las cuatro políticas clásicas, de revisión continua o periódica, que deciden cuándo pedir y cuánto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Caplice, C. (MIT CTL), Inventory Management: Probabilistic Demand, ESD.260 lección 11, octubre de 2006, diapositivas 5-9: https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/8b53c45fd26ffff706d815131e8d177e_lect11.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/fundamentos-y-contraria.md (sección 4.1)"
 aliases: [punto de pedido, punto de reorden, reorder point, ROP, stock mínimo, mínimo y máximo, min-max, revisión continua, revisión periódica, continuous review, periodic review, (s, Q), (s, S), (R, S), (R, s, S), order-up-to level, nivel máximo, doble cajón, two-bin system, posición de stock, inventory position]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Punto de pedido

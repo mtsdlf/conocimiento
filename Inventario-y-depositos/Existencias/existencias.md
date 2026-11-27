@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Existencias es la parte del dominio que dice qué tiene la empresa: cada artículo, cuántas unidades hay, en qué lugar, de qué lote y en qué estado, y cuánto de eso se puede prometer a un pedido nuevo. Todo lo demás del tema la cambia, la corrige o la consulta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, Inventory Visibility: on-hand change schedule y available-to-promise (fórmula de disponible por estados): https://learn.microsoft.com/en-us/dynamics365/supply-chain/inventory/inventory-visibility-available-to-promise"
@@ -12,7 +12,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/operacion-del-deposito.md y reposicion.md (2026-11-27)"
 aliases: [existencias, stock, inventario disponible, on hand, stock on hand, inventory balance, saldo de stock]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Existencias

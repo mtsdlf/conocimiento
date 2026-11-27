@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El lote económico (EOQ) es la cantidad por pedido que hace mínimo el costo de pedir más el de mantener, cuando la demanda es constante: Q* = √(2DK/h). Lo publicó Ford Whitman Harris en 1913; R. H. Wilson lo difundió después. Es una aproximación con supuestos fuertes. Sirve porque el costo cambia poco cerca del óptimo (criterio de la base, por el ejemplo numérico de abajo).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Harris, F. W. (1913), How many parts to make at once, Factory, The Magazine of Management, febrero de 1913, 10:135-136, 152; reimpreso en Operations Research 38(6):947-950, 1990 (según el registro): https://doi.org/10.1287/opre.38.6.947"
@@ -14,7 +14,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/fundamentos-y-contraria.md (secciones 2 y 4.2)"
 aliases: [lote económico, lote económico de compra, cantidad económica de pedido, economic order quantity, EOQ, fórmula de Wilson, fórmula de Harris, economic lot size, tamaño de lote, stock de ciclo, cycle stock]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lote económico

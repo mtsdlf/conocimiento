@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que la Argentina le agrega al movimiento de mercadería: todo traslado, también entre depósitos propios y sin venta, va con remito, que desde abril de 2025 se puede no imprimir. En la provincia de Buenos Aires y las jurisdicciones adheridas, un traslado por tierra que supera cierto valor o peso pide además un código de operación de traslado (COT). Algunos rubros tienen, encima, trazabilidad obligatoria propia.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "RG AFIP 1415/2003, B.O. nº 30066 del 13/1/2003, texto ordenado con modificaciones hasta la RG 3666/2014 (copia local leída para el informe; desactualizada en los arts. 27 y 30). El original de 2003: https://www.unc.edu.ar/sites/default/files/RG-AFIP-01415-03.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/argentina.md (2026-11-27)"
 aliases: [remito, remito R, remito X, remito digital, remito electrónico, documento de traslado, RG 1415, RG 5678, COT, código de operación de traslado, código de operación de transporte, COT ARBA, CRE, COT remito electrónico, traslado de mercadería, trazabilidad obligatoria, DT-e]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inventario y depósitos en la Argentina

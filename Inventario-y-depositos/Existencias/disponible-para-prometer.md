@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El disponible para prometer (ATP) es el cálculo de cuántas unidades de un artículo se pueden comprometer a un pedido nuevo en cada fecha: la oferta confirmada menos la demanda ya comprometida, período por período. Se calcula por el método discreto o por el acumulado hacia adelante, y su resultado depende de qué se decide contar como oferta y como comprometido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ASCM/APICS, CPIM 6.1 (2019) Excerpt, módulo 1, sección F, «Calculating Available-to-Promise», p. 1-209 a 1-210 (método discreto y regla del negativo): https://learningsystem.ascm.org/wp-content/uploads/2018/11/APICS_CPIM_2019_Excerpt.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/existencias-y-control.md (2026-11-27), sección Disponible para prometer"
 aliases: [disponible para prometer, ATP, available-to-promise, available to promise, disponibilidad, cálculo de disponibilidad, ATP discreto, discrete ATP, ATP acumulado, cumulative ATP, look-ahead ATP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Disponible para prometer

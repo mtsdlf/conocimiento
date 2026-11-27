@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El lote agrupa unidades de un artículo que se recibieron, fabricaron o vencen juntas, y el número de serie identifica una sola unidad. Los dos permiten rastrear de dónde vino y a dónde fue cada cosa, y decidir qué sale primero (FIFO, FEFO).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Odoo 17, Lots (lote, retiros de mercado, vencimiento y estrategia de salida; según el resumen leído): https://www.odoo.com/documentation/17.0/applications/inventory_and_mrp/inventory/product_management/product_tracking/lots.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/argentina.md (2026-11-27), sección 4, Trazabilidad obligatoria"
 aliases: [lote, partida, lot, batch, número de serie, serie, serial number, trazabilidad, traceability, vencimiento, fecha de vencimiento, expiration date, FIFO, FEFO, LIFO, PEPS físico, first expired first out, retiro de mercado, recall]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lote y serie
