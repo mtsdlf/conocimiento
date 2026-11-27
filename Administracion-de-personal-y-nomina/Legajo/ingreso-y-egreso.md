@@ -19,25 +19,25 @@ revisado:
 
 El ingreso y el egreso son el alta y la baja administrativas de una persona: abrir su legajo, darla de alta ante la seguridad social y prepararla para cobrar, y al final darla de baja, liquidar lo que se le debe y entregarle sus constancias. La primera vez que una empresa contrata, el alta incluye además hacerse empleador.
 
-Son los dos extremos del [legajo](legajo.md). Antes del ingreso está la [búsqueda](busquedas-y-postulantes.md); después, el período en que la persona aprende su rol y entra al grupo, que es la [incorporación](../../Liderazgo-y-direccion/Gestion-de-personas/incorporacion.md) y es de Liderazgo. Antes del egreso está la decisión de que alguien se vaya, que se trata en [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md). El recorrido entero, de la contratación a la baja, va al tema Procesos de negocio, todavía no escrito.
+Son los dos extremos del [legajo](legajo.md). Antes del ingreso está la [búsqueda](busquedas-y-postulantes.md); después, el período en que la persona aprende su rol y entra al grupo, que es la [incorporación](../../Liderazgo-y-direccion/Gestion-de-personas/incorporacion.md) y es de Liderazgo. Antes del egreso está la decisión de que alguien se vaya, que trata [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md). El recorrido entero, de la contratación a la baja, va al tema Procesos de negocio, todavía no escrito.
 
 ## Lo que deja hecho el alta
 
-Como criterio de esta base, el alta está completa cuando la persona puede cobrar su primer sueldo sin que nadie complete datos a mano ese día. Eso pide cuatro cosas, en este orden:
+Como criterio de esta base, el alta está completa cuando la persona puede cobrar su primer sueldo sin que nadie complete datos a mano ese día. Hacen falta cuatro cosas, en este orden:
 
 1. **El legajo abierto**, con identidad, [modalidad](modalidades-de-contratacion.md), [puesto, categoría, jefe y centro de costo](puesto-y-estructura.md), todo con fecha desde igual a la fecha de ingreso.
-2. **La comprobación de que puede trabajar.** Algunos países exigen comprobar al contratar que la persona tiene derecho a trabajar; el Reino Unido publica una guía para el empleador sobre «when to carry out initial checks», que no se leyó entera, así que el momento exacto queda sin verificar.
+2. **La comprobación de que puede trabajar.** Algunos países exigen comprobar al contratar que la persona tiene derecho a trabajar. El Reino Unido publica una guía para el empleador sobre «when to carry out initial checks»; no se leyó entera, así que el momento exacto queda sin verificar.
 3. **El alta ante la seguridad social**, desde el primer día de trabajo. En la Argentina, la registración se cumple con el alta en los sistemas de ARCA (Decreto 407/2026, Anexo I art. 1) y sin ella se pierde el período de prueba (art. 92 bis LCT).
 4. **Los datos para pagar y retener**: la cuenta donde se acredita el sueldo, los datos fiscales para la [retención del impuesto](../Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md) y el turno y el saldo de licencias en [tiempo y asistencia](../Tiempo-y-asistencia/tiempo-y-asistencia.md).
 
-El orden importa porque la fecha de ingreso del legajo es la que leen la antigüedad, las vacaciones y la liquidación. Un alta cargada el día 10 con fecha de ingreso del día 1 tiene que guardar las dos fechas, como cualquier [cambio del legajo](legajo.md#la-historia-del-legajo-con-sus-dos-fechas).
+El orden cuenta porque la antigüedad, las vacaciones y la liquidación leen la fecha de ingreso del legajo. Un alta cargada el día 10 con fecha de ingreso del día 1 tiene que guardar las dos fechas, como cualquier [cambio del legajo](legajo.md#la-historia-del-legajo-con-sus-dos-fechas).
 
 > [!NOTE]
 > Sin fuente todavía: una lista agnóstica de pasos de alta y de baja (documentos, entrega de equipos, apertura y cierre de accesos) en una fuente leída.
 
 ## Lo que cierra la baja
 
-La baja cierra el legajo sin borrarlo: el legajo queda con fecha de egreso y motivo, y se conserva lo que la ley de cada país exija ([cuánto se guarda](legajo.md#cuánto-se-guarda)). Como criterio de esta base, la baja tiene cuatro piezas:
+La baja cierra el legajo sin borrarlo: queda con fecha de egreso y motivo, y se conserva lo que exija la ley de cada país ([cuánto se guarda](legajo.md#cuánto-se-guarda)). Como criterio de esta base, la baja tiene cuatro piezas:
 
 - **La fecha y el motivo del egreso**: renuncia, despido con o sin causa, fin del plazo, mutuo acuerdo. El motivo decide qué se paga en la [liquidación final](../Liquidacion-de-sueldos/liquidacion-final.md).
 - **La constancia formal de la extinción.** En la Argentina, la renuncia vale solo si se hace por telegrama, físico o digital, o ante la autoridad del trabajo (art. 240 LCT).
@@ -46,7 +46,7 @@ La baja cierra el legajo sin borrarlo: el legajo queda con fecha de egreso y mot
 
 ## Hacerse empleador: la primera contratación
 
-La primera persona que contrata una empresa no es un alta más: antes de su legajo, la empresa tiene que existir como empleador. Ninguna fuente leída describe este paso en general; lo que sigue es inferencia de esta base a partir del caso argentino, con lo que en cualquier país conviene tener resuelto antes del primer día:
+Antes de abrir el legajo de la primera persona que contrata, la empresa tiene que existir como empleador. Ninguna fuente leída describe este paso en general. Lo que sigue es inferencia de esta base a partir del caso argentino, con lo que en cualquier país conviene tener resuelto antes del primer día:
 
 1. **Inscribirse como empleador** ante el organismo de la seguridad social, para poder dar altas y declarar cada mes.
 2. **Saber qué régimen y qué convenio aplican**: el encuadre fija la categoría, el sueldo mínimo y los adicionales de esa primera persona.
@@ -54,8 +54,8 @@ La primera persona que contrata una empresa no es un alta más: antes de su lega
 4. **Tener cómo liquidar**: un recibo que cumpla la ley, una cuenta para pagar y el calendario de vencimientos de las [cargas](../Cargas-y-declaraciones/cargas-y-declaraciones.md).
 5. **Recién después, dar el alta** de la persona, desde su primer día.
 
-La razón para hacerlo antes, según la misma inferencia, es que una persona que empieza a trabajar sin registración queda fuera del período de prueba y, en la Argentina, la falta de registro hace presumir a favor de lo que diga el trabajador (art. 55 LCT). Los trámites concretos del país están en [relación laboral en la Argentina](relacion-laboral-en-argentina.md#la-primera-contratación-en-la-argentina), y lo que se paga por ese empleado, en [cargas sociales en la Argentina](../Cargas-y-declaraciones/cargas-sociales-en-argentina.md). La elección de la forma de la empresa y su régimen impositivo, que vienen antes, están en [Legal e impuestos](../../Emprender/Legal-e-impuestos/legal-e-impuestos.md), dentro de Emprender.
+Según la misma inferencia, conviene hacerlo antes porque quien empieza a trabajar sin registración queda fuera del período de prueba. En la Argentina, además, la falta de registro hace presumir a favor de lo que diga el trabajador (art. 55 LCT). Los trámites concretos del país están en [relación laboral en la Argentina](relacion-laboral-en-argentina.md#la-primera-contratación-en-la-argentina), y lo que se paga por ese empleado, en [cargas sociales en la Argentina](../Cargas-y-declaraciones/cargas-sociales-en-argentina.md). La forma de la empresa y su régimen impositivo se eligen antes y están en [Legal e impuestos](../../Emprender/Legal-e-impuestos/legal-e-impuestos.md), dentro de Emprender.
 
 ## Cómo fallan el alta y la baja
 
-Como criterio de esta base, el alta falla cuando la persona empieza a trabajar antes de estar registrada, y el primer recibo sale con datos incompletos o con una fecha de ingreso que no coincide con la declarada. La baja falla cuando el legajo se cierra pero la persona sigue en la nómina del mes siguiente, o cuando se da de baja ante la seguridad social sin que se haya liquidado lo que se le debe.
+Como criterio de esta base, el alta falla cuando la persona empieza a trabajar antes de estar registrada, y el primer recibo sale con datos incompletos o con una fecha de ingreso que no coincide con la declarada. La baja falla cuando el legajo se cierra pero la persona sigue en la nómina del mes siguiente, o cuando se la da de baja ante la seguridad social antes de liquidar lo que se le debe.

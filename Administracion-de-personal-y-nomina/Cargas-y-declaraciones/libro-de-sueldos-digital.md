@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El Libro de Sueldos Digital es el sistema de ARCA donde el empleador carga cada liquidación, con sus conceptos asociados a una grilla común, y de donde salen a la vez el libro de sueldos del art. 52 de la LCT y la declaración mensual de cargas (formulario 931). Lo hicieron obligatorio las RG 5249/2022 y 5250/2022, en forma progresiva; en 2026 la Ley 27.802 reemplazó el art. 52 por la registración ante ARCA, y no está claro todavía cómo queda el sistema.
+  El Libro de Sueldos Digital es el sistema de ARCA donde el empleador carga cada liquidación, con sus conceptos asociados a una grilla común, y de donde salen a la vez el libro de sueldos del art. 52 de la LCT y la declaración mensual de cargas (formulario 931). Lo hicieron obligatorio las RG 5249/2022 y 5250/2022, en forma progresiva. En 2026 la Ley 27.802 reemplazó el art. 52 por la registración ante ARCA, y no está claro todavía cómo queda el sistema.
 estado: borrador
 estabilidad: volatil
 fuentes:
@@ -32,7 +32,7 @@ revisado:
 
 # Libro de sueldos digital
 
-El Libro de Sueldos Digital es el sistema de ARCA donde el empleador carga cada liquidación, con sus conceptos asociados a una grilla común, y de donde salen a la vez el libro de sueldos del art. 52 de la LCT y la declaración mensual de cargas (formulario 931). Lo hicieron obligatorio las RG 5249/2022 y 5250/2022, en forma progresiva; en 2026 la Ley 27.802 reemplazó el art. 52 por la registración ante ARCA, y no está claro todavía cómo queda el sistema.
+El Libro de Sueldos Digital es el sistema de ARCA donde el empleador carga cada liquidación, con sus conceptos asociados a una grilla común, y de donde salen a la vez el libro de sueldos del art. 52 de la LCT y la declaración mensual de cargas (formulario 931). Lo hicieron obligatorio las RG 5249/2022 y 5250/2022, en forma progresiva. En 2026 la Ley 27.802 reemplazó el art. 52 por la registración ante ARCA, y no está claro todavía cómo queda el sistema.
 
 > [!WARNING]
 > Ley, al 27 de noviembre de 2026: esta nota no reemplaza a un contador ni a un abogado laboralista. La Ley 27.802 de Modernización Laboral (Boletín Oficial del 6 de marzo de 2026) sustituyó el art. 52 de la LCT, que es la base de este libro, y fue impugnada en la justicia (según un resumen de WS y Asociados, una sola fuente secundaria, una suspensión de unos 82 artículos dictada el 30 de marzo de 2026 se levantó en la Sala VIII el 23 de abril; no se leyó ninguna sentencia y queda un riesgo judicial residual). Todo lo de esta nota tiene una sola fuente, la oficial (normas y páginas de ARCA); no se leyó ninguna fuente profesional independiente.
@@ -57,7 +57,7 @@ La RG Conjunta 5249/2022 dice que los empleadores que llevan el Libro Especial d
 
 No hay un cronograma por fecha ni por cantidad de empleados. ARCA notifica a cada empleador «en el domicilio fiscal electrónico» que pasa a estar obligado (RG 5250, art. 2), y la fecha de cada uno está en su notificación. Desde ese período, según el micrositio, «el empleador sólo puede presentar la DDJJ F.931, cumpliendo con los requisitos de este nuevo servicio, quedando inhabilitada la posibilidad de ingresar por el servicio Declaración en Línea». Hay un procedimiento para pedir que se extienda el período de prueba.
 
-Para un sistema de nómina, eso significa que el mismo empleador puede declarar los meses anteriores a su obligación por «Declaración en línea» o SICOSS y los posteriores por el libro digital: ARCA avisa que «Para presentar DDJJ F.931 anteriores al período mm/aaaa deberá utilizar el servicio Declaración en Línea o SICOSS» (Errores frecuentes). Las rectificativas van por el sistema que se usó en la original (RG 5250, art. 4).
+Para un sistema de nómina, esto implica que el mismo empleador puede declarar los meses anteriores a su obligación por «Declaración en línea» o SICOSS y los posteriores por el libro digital: ARCA avisa que «Para presentar DDJJ F.931 anteriores al período mm/aaaa deberá utilizar el servicio Declaración en Línea o SICOSS» (Errores frecuentes). Las rectificativas van por el sistema que se usó en la original (RG 5250, art. 4).
 
 ## Del libro a la declaración mensual
 
@@ -71,13 +71,13 @@ El sistema arma el libro con tres piezas: las declaraciones juradas de aportes y
 6. Obtener el libro y el «Digesto Resumen» (formulario 8351), firmado electrónicamente por ARCA.
 7. Presentar el formulario 931, que llega armado desde el libro.
 
-Por cada liquidación aceptada se puede generar un libro, que se imprime o se remite «según lo normado por la autoridad de aplicación de cada jurisdicción»; no hace falta firma digital, aunque una provincia puede exigirla para su rúbrica (Guía 8). Las autoridades provinciales de trabajo pueden firmar convenios con ARCA para rubricar y cobrar aranceles, y ver los datos de su jurisdicción (RG 5250, arts. 6 y 7). No generan libro los becarios, los pasantes y el personal siniestrado de terceros (Guía 8).
+Por cada liquidación aceptada se puede generar un libro, que se imprime o se remite «según lo normado por la autoridad de aplicación de cada jurisdicción». No hace falta firma digital, aunque una provincia puede exigirla para su rúbrica (Guía 8). Las autoridades provinciales de trabajo pueden firmar convenios con ARCA para rubricar y cobrar aranceles, y ver los datos de su jurisdicción (RG 5250, arts. 6 y 7). No generan libro los becarios, los pasantes y el personal siniestrado de terceros (Guía 8).
 
 Quien está obligado queda exceptuado de la declaración informativa de conceptos no remunerativos de la RG 3279 (RG 5250, art. 13), y los incumplimientos se sancionan con la Ley 11.683 (art. 14).
 
 ## La parametrización de conceptos
 
-Antes de liquidar, el empleador asocia cada uno de sus [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md) a uno de la «grilla universal predefinida» de ARCA e indica a qué subsistemas de la seguridad social se vincula (RG 5250, art. 4). Los conceptos propios se clasifican en remunerativos, no remunerativos y descuentos, y cada uno se asocia a un «Concepto ARCA»; los que ya se usaron en una liquidación «no podrán editarse ni borrarse» (Guía 4).
+Antes de liquidar, el empleador asocia cada uno de sus [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md) a uno de la «grilla universal predefinida» de ARCA e indica a qué subsistemas de la seguridad social se vincula (RG 5250, art. 4). Los conceptos propios se clasifican en remunerativos, no remunerativos y descuentos, y cada uno se asocia a un «Concepto ARCA». Los que ya se usaron en una liquidación «no podrán editarse ni borrarse» (Guía 4).
 
 Es la marca por concepto y por régimen que explica [aportes y contribuciones](aportes-y-contribuciones.md#la-base-y-el-tope), hecha obligatoria: ARCA recalcula los aportes a partir de las marcas y rechaza la declaración si no coinciden con lo informado (Errores frecuentes). Un concepto mal asociado falla en todos los recibos que lo usan, y como no se puede editar después de usarlo, se corrige con un concepto nuevo (inferencia de esta base sobre la Guía 4).
 

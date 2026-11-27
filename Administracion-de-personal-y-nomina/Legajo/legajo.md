@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El legajo es el registro de cada persona que trabaja en la empresa: quién es, en qué puesto y con qué contrato trabaja, cuánto gana, qué documentos respaldan todo eso y cómo cambió cada dato con el tiempo. Es el dato maestro del tema: el tiempo trabajado, la liquidación y las cargas leen de él.
+  El legajo es el registro de cada persona que trabaja en la empresa: quién es, en qué puesto y con qué contrato trabaja, cuánto gana, qué documentos lo respaldan y cómo cambió cada dato con el tiempo. Es el dato maestro del tema: el tiempo trabajado, la liquidación y las cargas leen de él.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -20,15 +20,15 @@ revisado:
 
 # Legajo
 
-El legajo es el registro de cada persona que trabaja en la empresa: quién es, en qué puesto y con qué contrato trabaja, cuánto gana, qué documentos respaldan todo eso y cómo cambió cada dato con el tiempo. Es el dato maestro del tema: el tiempo trabajado, la liquidación y las cargas leen de él.
+El legajo es el registro de cada persona que trabaja en la empresa: quién es, en qué puesto y con qué contrato trabaja, cuánto gana, qué documentos lo respaldan y cómo cambió cada dato con el tiempo. Es el dato maestro del tema: el tiempo trabajado, la liquidación y las cargas leen de él.
 
-Dentro de [Administración de personal y nómina](../administracion-de-personal-y-nomina.md) es la primera vertical y la que menos se mueve. Le da a [Tiempo y asistencia](../Tiempo-y-asistencia/tiempo-y-asistencia.md) el turno y el saldo de licencias de cada persona, a [Liquidación de sueldos](../Liquidacion-de-sueldos/liquidacion-de-sueldos.md) el sueldo, la categoría y las condiciones del contrato, y a [Cargas y declaraciones](../Cargas-y-declaraciones/cargas-y-declaraciones.md) los datos con que el empleador declara a cada uno ante la seguridad social. Como todo [dato maestro](../../Datos/Gobierno-y-calidad/datos-maestros.md), se carga una vez y los documentos lo referencian. Sin software, es la carpeta de cada empleado en un armario; con software, es la tabla que leen todos los módulos.
+Es la primera vertical de [Administración de personal y nómina](../administracion-de-personal-y-nomina.md) y la que menos se mueve. Le da a [Tiempo y asistencia](../Tiempo-y-asistencia/tiempo-y-asistencia.md) el turno y el saldo de licencias de cada persona. A [Liquidación de sueldos](../Liquidacion-de-sueldos/liquidacion-de-sueldos.md) le da el sueldo, la categoría y las condiciones del contrato, y a [Cargas y declaraciones](../Cargas-y-declaraciones/cargas-y-declaraciones.md), los datos con que el empleador declara a cada uno ante la seguridad social. Como todo [dato maestro](../../Datos/Gobierno-y-calidad/datos-maestros.md), se carga una vez y los documentos lo referencian. Sin software, es la carpeta de cada empleado en un armario; con software, la tabla que leen todos los módulos.
 
 ## Qué datos lleva un legajo
 
-Ninguna fuente leída da una lista agnóstica. La norma de Estados Unidos sirve de ejemplo de país: por cada empleado alcanzado por el salario mínimo y las horas extra, el empleador guarda, entre otros, el nombre legal, el domicilio, la fecha de nacimiento si tiene menos de 19 años, el sexo y la ocupación, la base de pago, las horas por día y por semana, lo ganado, el recargo por horas extra, los agregados y descuentos al sueldo, y la fecha y el período de pago (29 CFR 516.2).
+Ninguna fuente leída da una lista agnóstica. La norma de Estados Unidos sirve de ejemplo: por cada empleado alcanzado por el salario mínimo y las horas extra, el empleador guarda, entre otros, el nombre legal, el domicilio, la fecha de nacimiento si tiene menos de 19 años, el sexo y la ocupación. También guarda la base de pago, las horas por día y por semana, lo ganado, el recargo por horas extra, los agregados y descuentos al sueldo, y la fecha y el período de pago (29 CFR 516.2).
 
-Ordenados por lo que hace cada uno, como criterio de esta base, los datos caen en cinco grupos:
+Como criterio de esta base, los datos se ordenan por lo que hace cada uno en cinco grupos:
 
 | Grupo | Ejemplos | Quién lo lee |
 |---|---|---|
@@ -38,42 +38,42 @@ Ordenados por lo que hace cada uno, como criterio de esta base, los datos caen e
 | Pago | sueldo o tarifa, cuenta donde se acredita, conceptos fijos | liquidación |
 | Fiscal y previsional | datos para la retención del impuesto, obra social o seguro de salud, cargas de familia | cargas y declaraciones |
 
-En la Argentina, el recibo tiene que llevar el CUIL, la calificación profesional, la fecha de ingreso o la antigüedad reconocida y la tarea o categoría del trabajador (art. 140 LCT): todo eso tiene que estar en el legajo antes de liquidar. El detalle del país está en [relación laboral en la Argentina](relacion-laboral-en-argentina.md).
+En la Argentina, el recibo lleva el CUIL, la calificación profesional, la fecha de ingreso o la antigüedad reconocida y la tarea o categoría del trabajador (art. 140 LCT). Todo eso va en el legajo antes de liquidar. El detalle del país está en [relación laboral en la Argentina](relacion-laboral-en-argentina.md), y el contenido del recibo, en [liquidación en la Argentina](../Liquidacion-de-sueldos/liquidacion-en-argentina.md).
 
 ## Los documentos que respaldan el registro
 
-El legajo guarda los datos y también los papeles de donde salieron: el contrato firmado, la constancia del alta ante la seguridad social, los certificados médicos que justifican una licencia, las notificaciones de un cambio de puesto o de sueldo, la renuncia o el telegrama de despido. Una licencia aprobada, en los sistemas abiertos leídos, es un registro propio con empleado, tipo, fecha desde, fecha hasta y estado, y no un campo que se pisa sobre el empleado.
+El legajo guarda los datos y los papeles de donde salieron: el contrato firmado, la constancia del alta ante la seguridad social, los certificados médicos que justifican una licencia, las notificaciones de un cambio de puesto o de sueldo, la renuncia o el telegrama de despido. En los sistemas abiertos leídos, una licencia aprobada es un registro propio con empleado, tipo, fecha desde, fecha hasta y estado; no se guarda en un campo del empleado que se pisa.
 
 > [!NOTE]
 > Sin fuente todavía: una lista agnóstica de los documentos que integran un legajo y de cómo se archivan.
 
 ## La historia del legajo con sus dos fechas
 
-Un sueldo, un puesto o una jornada no tienen un valor: tienen una sucesión de valores, cada uno desde una fecha. Fowler llama a esto una propiedad temporal, «an accessor that is parameterized by date»: la pregunta no es «cuál es el sueldo» sino «cuál era el sueldo el 25 de febrero».
+Un sueldo, un puesto o una jornada tienen una sucesión de valores, cada uno desde una fecha. Fowler llama a esto una propiedad temporal, «an accessor that is parameterized by date»: en lugar de «cuál es el sueldo», se pregunta «cuál era el sueldo el 25 de febrero».
 
-Fowler distingue además dos tiempos. El tiempo actual es «the time something happened» (en el legajo, la fecha desde la que vale un cambio) y el tiempo de registro es «the time we knew about it» (la fecha en que se cargó). Su regla es que «bi-temporal information always needs both dates». En el legajo hacen falta las dos porque los cambios llegan tarde con frecuencia.
+Fowler distingue dos tiempos. El tiempo actual es «the time something happened» (en el legajo, la fecha desde la que vale un cambio) y el tiempo de registro es «the time we knew about it» (la fecha en que se cargó). Su regla es que «bi-temporal information always needs both dates». El legajo necesita las dos porque los cambios llegan tarde a menudo.
 
-Un caso: el 10 de mayo se firma un aumento que vale desde el 1 de marzo. El legajo registra un sueldo nuevo con fecha del hecho 1 de marzo y fecha de registro 10 de mayo. Con las dos fechas el sistema contesta dos preguntas distintas:
+Un caso: el 10 de mayo se firma un aumento que vale desde el 1 de marzo. El legajo lo registra con fecha del hecho 1 de marzo y fecha de registro 10 de mayo. Las dos fechas contestan dos preguntas:
 
-- **Qué sueldo correspondía en marzo**: el nuevo, por la fecha del hecho. Es lo que usa la [reliquidación](../Liquidacion-de-sueldos/retroactivos-y-reliquidaciones.md) para calcular la diferencia.
-- **Con qué sueldo se liquidó marzo**: el viejo, porque al cerrar marzo el aumento no estaba registrado. Es lo que explica el recibo de marzo ya pagado y declarado.
+- Qué sueldo correspondía en marzo: el nuevo, por la fecha del hecho. La [reliquidación](../Liquidacion-de-sueldos/retroactivos-y-reliquidaciones.md) lo usa para calcular la diferencia.
+- Con qué sueldo se liquidó marzo: el viejo, porque al cerrar marzo el aumento no estaba registrado. Eso explica el recibo de marzo ya pagado y declarado.
 
-Sin la fecha de registro, la segunda pregunta no tiene respuesta y la reliquidación no sabe cuánto se pagó de menos. Es inferencia de esta base sobre el patrón de Fowler. Cómo se guarda un cambio que no pisa al anterior, en una base de datos, está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md); cómo lo resuelve un software de gestión va a estar en el tema Software de gestión, todavía no escrito.
+Sin la fecha de registro, la segunda pregunta queda sin respuesta y la reliquidación no sabe cuánto se pagó de menos. Es inferencia de esta base sobre el patrón de Fowler. Cómo guarda una base de datos un cambio sin pisar el anterior está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md); cómo lo resuelve un software de gestión irá en el tema Software de gestión, todavía no escrito.
 
-La vigencia vale igual para todos los datos que cambian: el [puesto](puesto-y-estructura.md), la [modalidad del contrato](modalidades-de-contratacion.md) y la jornada. Quien decide el cambio no es este tema: un aumento se decide en [compensación e incentivos](../../Liderazgo-y-direccion/Gestion-de-personas/compensacion-e-incentivos.md) y acá se registra con su fecha.
+La vigencia vale igual para todos los datos que cambian: el [puesto](puesto-y-estructura.md), la [modalidad del contrato](modalidades-de-contratacion.md) y la jornada. Este tema registra el cambio con su fecha; un aumento se decide en [compensación e incentivos](../../Liderazgo-y-direccion/Gestion-de-personas/compensacion-e-incentivos.md).
 
 ## Quién ve el legajo
 
-El legajo junta datos que la ley trata como sensibles. En la Argentina, la Ley 25.326 llama sensibles, entre otros, a la «afiliación sindical» y a la «información referente a la salud» (art. 2), y pide datos «adecuados, pertinentes y no excesivos» para su finalidad (art. 4 inc. 1); está en [privacidad de datos personales](../../Datos/Gobierno-y-calidad/privacidad-de-datos-personales.md). Un certificado médico con diagnóstico y una retención de cuota sindical son los dos casos que aparecen en cualquier legajo argentino, según la lectura de esta base.
+El legajo junta datos que la ley trata como sensibles. En la Argentina, la Ley 25.326 llama sensibles, entre otros, a la «afiliación sindical» y a la «información referente a la salud» (art. 2), y pide datos «adecuados, pertinentes y no excesivos» para su finalidad (art. 4 inc. 1); está en [privacidad de datos personales](../../Datos/Gobierno-y-calidad/privacidad-de-datos-personales.md). Según la lectura de esta base, un certificado médico con diagnóstico y una retención de cuota sindical aparecen en cualquier legajo argentino.
 
-La consecuencia de diseño, como inferencia de esta base, es separar lo que ve cada rol: el jefe ve el puesto y las licencias de su equipo, quien liquida ve el sueldo y los datos fiscales, y el diagnóstico de un certificado lo ve solo quien tiene que controlarlo.
+Como inferencia de esta base, el diseño separa lo que ve cada rol: el jefe ve el puesto y las licencias de su equipo, quien liquida ve el sueldo y los datos fiscales, y el diagnóstico de un certificado lo ve solo quien tiene que controlarlo.
 
 > [!NOTE]
 > Sin fuente todavía: una guía oficial sobre acceso al legajo y datos de salud del empleado (la guía de prácticas de empleo de la autoridad del Reino Unido no se pudo leer).
 
 ## Cuánto se guarda
 
-El plazo de conservación lo fija cada país y no hay un valor agnóstico. Dos ejemplos, cada uno con una sola fuente:
+Cada país fija el plazo de conservación; no hay un valor agnóstico. Dos ejemplos, cada uno con una sola fuente:
 
 | País | Qué se guarda | Plazo | Norma |
 |---|---|---|---|
@@ -82,15 +82,15 @@ El plazo de conservación lo fija cada país y no hay un valor agnóstico. Dos e
 | Argentina | recibos de sueldo | según la prescripción laboral (2 años) y la previsional (10 años) | art. 143 LCT |
 | Argentina | libros laborales anteriores a la Ley 27.802 | 10 años | art. 52 LCT |
 
-Que un plazo venza no obliga a borrar todo junto: el recibo argentino se guarda diez años por lo previsional aunque lo laboral prescriba a los dos (inferencia de esta base sobre el art. 143). La ley de datos personales pide, en el otro sentido, destruir los datos «cuando hayan dejado de ser necesarios o pertinentes» (art. 4 inc. 7 de la Ley 25.326, según la [nota de privacidad](../../Datos/Gobierno-y-calidad/privacidad-de-datos-personales.md)).
+El vencimiento de un plazo no obliga a borrar todo junto: el recibo argentino se guarda diez años por lo previsional aunque lo laboral prescriba a los dos (inferencia de esta base sobre el art. 143). En el otro sentido, la ley de datos personales pide destruir los datos «cuando hayan dejado de ser necesarios o pertinentes» (art. 4 inc. 7 de la Ley 25.326, según la [nota de privacidad](../../Datos/Gobierno-y-calidad/privacidad-de-datos-personales.md)).
 
 ## Cómo falla el legajo
 
-Como criterio de esta base, el legajo falla de tres maneras, y las tres se ven recién en el recibo:
+Como criterio de esta base, el legajo falla de tres maneras, y las tres aparecen recién en el recibo:
 
-1. **Un dato que se pisa.** Se cambia el sueldo sin fecha desde: el mes pasado queda liquidado con un valor que el sistema ya no tiene.
-2. **Una novedad que llega tarde sin fecha de registro.** El aumento retroactivo se carga como si valiera desde hoy y la diferencia no se paga.
-3. **Un dato que vive en otro lado.** El jefe o el centro de costo se escriben a mano en cada aprobación o en cada asiento, y cada uno los escribe distinto.
+1. Un dato que se pisa. El sueldo cambia sin fecha desde y el mes pasado queda liquidado con un valor que el sistema ya no tiene.
+2. Una novedad que llega tarde sin fecha de registro. El aumento retroactivo se carga como si valiera desde hoy y la diferencia no se paga.
+3. Un dato que vive en otro lado. El jefe o el centro de costo se escriben a mano en cada aprobación o asiento, y cada uno los escribe distinto.
 
 ## Qué hay en el legajo
 

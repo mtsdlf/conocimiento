@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La retención de impuestos sobre sueldos es el descuento que hace el empleador, en cada pago, del impuesto sobre la renta que le corresponde al empleado, para depositarlo al fisco a nombre de él. El empleador actúa como agente de retención: no paga el impuesto, lo cobra por cuenta del fisco, con los datos que le declara el empleado y un ajuste al cerrar el año.
+  La retención de impuestos sobre sueldos es el descuento que hace el empleador, en cada pago, del impuesto sobre la renta que le corresponde al empleado, para depositarlo al fisco a nombre de él. El empleador actúa como agente de retención y cobra por cuenta del fisco un impuesto que no es suyo, con los datos que le declara el empleado y un ajuste al cerrar el año.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -20,7 +20,7 @@ revisado:
 
 # Retención de impuestos sobre sueldos
 
-La retención de impuestos sobre sueldos es el descuento que hace el empleador, en cada pago, del impuesto sobre la renta que le corresponde al empleado, para depositarlo al fisco a nombre de él. El empleador actúa como agente de retención: no paga el impuesto, lo cobra por cuenta del fisco, con los datos que le declara el empleado y un ajuste al cerrar el año.
+La retención de impuestos sobre sueldos es el descuento que hace el empleador, en cada pago, del impuesto sobre la renta que le corresponde al empleado, para depositarlo al fisco a nombre de él. El empleador actúa como agente de retención y cobra por cuenta del fisco un impuesto que no es suyo, con los datos que le declara el empleado y un ajuste al cerrar el año.
 
 Es una de las cuatro cargas de [cargas y declaraciones](cargas-y-declaraciones.md) y la única que no es de la seguridad social. Se calcula en la [liquidación de sueldos](../Liquidacion-de-sueldos/liquidacion-de-sueldos.md), después de los [aportes](aportes-y-contribuciones.md), porque en muchos países los aportes se restan de la base del impuesto (inferencia de esta base sobre el orden de cálculo, que está en [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md#el-orden-de-cálculo)). El impuesto sobre la renta como tal, con sus escalas y categorías, va al tema Impuestos, todavía no escrito.
 
@@ -28,7 +28,7 @@ Es una de las cuatro cargas de [cargas y declaraciones](cargas-y-declaraciones.m
 
 Como criterio de esta base, el fisco cobra en el origen del pago porque ahí el dinero todavía no llegó al contribuyente. El empleador queda en el medio con una obligación propia: en EE. UU., lo retenido es un «trust fund tax», y quien no lo retiene o no lo deposita puede responder con la «trust fund recovery penalty» (IRS, Pub. 15). La retención mal hecha es deuda del empleador, aunque el impuesto sea del empleado.
 
-El resultado es que el empleado no paga el impuesto de una vez al final del año, sino en cuotas, una por cada pago de sueldo. Como criterio de esta base, si la retención está bien calibrada, al cerrar el año no debe nada ni le deben nada.
+Así el empleado paga el impuesto en cuotas, una por cada pago de sueldo, en lugar de pagarlo de una vez al final del año. Como criterio de esta base, si la retención está bien calibrada, al cerrar el año no debe nada ni le deben nada.
 
 ## Lo que declara el empleado
 
@@ -44,12 +44,12 @@ El de la Argentina está en [Ganancias sobre sueldos en la Argentina](ganancias-
 
 ## Los pagos que no son el sueldo de todos los meses
 
-Un bono, una comisión o un pago retroactivo cambian el cálculo; como criterio de esta base, la retención del mes los tomaría como si se repitieran todo el año. EE. UU. los llama «supplemental wages», e incluyen bonos, comisiones, licencias acumuladas que se pagan, indemnizaciones, «back pay» y «retroactive pay increases» (Pub. 15, una sola fuente). Da dos métodos:
+Un bono, una comisión o un pago retroactivo cambian el cálculo. Como criterio de esta base, la retención del mes los tomaría como si se repitieran todo el año. EE. UU. los llama «supplemental wages», e incluyen bonos, comisiones, licencias acumuladas que se pagan, indemnizaciones, «back pay» y «retroactive pay increases» (Pub. 15, una sola fuente). Da dos métodos:
 
 1. **Una alícuota fija**, si el pago va identificado aparte del sueldo: «a flat 22% (no other percentage allowed)», y 37 % sobre lo que pase de $1 millón en el año.
 2. **Sumarlo al sueldo del período**, calcular la retención del total y restar lo que ya se retuvo sobre el sueldo regular: «Withhold the remaining tax from the supplemental wages».
 
-Los dos métodos dan resultados distintos sobre el mismo pago, y el ajuste anual corrige la diferencia (inferencia de esta base). Para el cálculo, lo que importa es que un concepto eventual tiene que poder marcarse con su propio tratamiento frente a la retención.
+Los dos métodos dan resultados distintos sobre el mismo pago, y el ajuste anual corrige la diferencia (inferencia de esta base). Para el cálculo, un concepto eventual tiene que poder marcarse con su propio tratamiento frente a la retención.
 
 Un beneficio también puede tener un tratamiento distinto en cada régimen. En EE. UU., el interés que el empleador no le cobra a un préstamo de más de $10,000 a tasa baja es compensación sujeta a las cargas de la seguridad social, «but not to federal income tax withholding» (Pub. 15-A).
 
@@ -64,7 +64,7 @@ La liquidación final es parte de la [liquidación final](../Liquidacion-de-suel
 
 ## Cómo se equivoca la retención
 
-- **Un dato del empleado que no llegó.** Una deducción que el empleado no declaró, o declaró tarde, se corrige recién en el ajuste anual; hasta ahí se retuvo de más.
+- **Un dato del empleado que no llegó.** Una deducción que el empleado no declaró, o declaró tarde, se corrige recién en el ajuste anual, y hasta ahí se retuvo de más.
 - **Un pago eventual tratado como mensual.** Un bono grande calculado como si fuera el sueldo de todos los meses retiene de más ese mes.
 - **Dos empleadores sin coordinar.** Si el empleado tiene otro empleo y no lo informa, cada empleador aplica las deducciones completas y la retención total queda corta (por eso el F.572 argentino pide los ingresos de otro empleo).
 

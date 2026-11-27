@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  En la Argentina, la relación laboral se rige por la Ley de Contrato de Trabajo (20.744), los convenios colectivos de cada actividad y la registración ante ARCA, y cambió dos veces en poco tiempo: con la Ley 27.742 en 2024 y con la Ley 27.802 de Modernización Laboral en 2026. Lo que le importa al legajo es quién está alcanzado, cómo se registra, el período de prueba, las modalidades, el convenio que fija la categoría, el certificado de trabajo y qué hace falta para contratar a la primera persona.
+  En la Argentina, la relación laboral se rige por la Ley de Contrato de Trabajo (20.744), los convenios colectivos de cada actividad y la registración ante ARCA. Cambió dos veces en poco tiempo: con la Ley 27.742 en 2024 y con la Ley 27.802 de Modernización Laboral en 2026. Al legajo le importan quién está alcanzado, cómo se registra, el período de prueba, las modalidades, el convenio que fija la categoría, el certificado de trabajo y qué hace falta para contratar a la primera persona.
 estado: borrador
 estabilidad: volatil
 fuentes:
@@ -27,7 +27,7 @@ revisado:
 
 # Relación laboral en la Argentina
 
-En la Argentina, la relación laboral se rige por la Ley de Contrato de Trabajo (20.744), los convenios colectivos de cada actividad y la registración ante ARCA, y cambió dos veces en poco tiempo: con la Ley 27.742 en 2024 y con la Ley 27.802 de Modernización Laboral en 2026. Lo que le importa al legajo es quién está alcanzado, cómo se registra, el período de prueba, las modalidades, el convenio que fija la categoría, el certificado de trabajo y qué hace falta para contratar a la primera persona.
+En la Argentina, la relación laboral se rige por la Ley de Contrato de Trabajo (20.744), los convenios colectivos de cada actividad y la registración ante ARCA. Cambió dos veces en poco tiempo: con la Ley 27.742 en 2024 y con la Ley 27.802 de Modernización Laboral en 2026. Al legajo le importan quién está alcanzado, cómo se registra, el período de prueba, las modalidades, el convenio que fija la categoría, el certificado de trabajo y qué hace falta para contratar a la primera persona.
 
 > [!WARNING]
 > Ley y dinero, al 27 de noviembre de 2026: esta nota no reemplaza a un abogado laboralista ni a un contador. La Ley 27.802 de Modernización Laboral (Boletín Oficial del 6 de marzo de 2026) sustituyó buena parte de la LCT y rige desde su publicación (art. 217). Fue impugnada en la justicia: según un resumen de WS y Asociados, el 30 de marzo de 2026 un juzgado nacional del trabajo suspendió unos 82 artículos a pedido de la CGT y el 23 de abril la Sala VIII de la Cámara levantó la suspensión; no se leyó ninguna sentencia. El texto legal sale del Boletín Oficial y de InfoLEG, que publican lo mismo y no son fuentes independientes; donde hay una sola familia de fuentes, la nota lo dice. Leé el artículo en la fuente viva antes de actuar.
@@ -40,7 +40,7 @@ La vigencia de la LCT queda condicionada a que su aplicación «resulte compatib
 
 ## Empleado o independiente en la Argentina
 
-La prestación de servicios hace presumir el contrato de trabajo, pero la presunción no se aplica cuando «se emitan los recibos o facturas correspondientes» a una contratación de obra o servicios o el pago se haga por sistemas bancarios, y eso se extiende «inclusive a la seguridad social» (art. 23 LCT, sustituido por el art. 13 de la Ley 27.802). El Decreto 847/2024 (anexo, cap. II art. 3) ya decía que la regla vale «con independencia de la cantidad de recibos o facturas». Es un cambio respecto del criterio general de la [R198 de la OIT](modalidades-de-contratacion.md#empleado-o-independiente-lo-decide-la-realidad-del-vínculo), que mira los indicios y no la forma del pago (lectura de esta base).
+La prestación de servicios hace presumir el contrato de trabajo, pero la presunción no se aplica cuando «se emitan los recibos o facturas correspondientes» a una contratación de obra o servicios o el pago se haga por sistemas bancarios, y eso se extiende «inclusive a la seguridad social» (art. 23 LCT, sustituido por el art. 13 de la Ley 27.802). El Decreto 847/2024 (anexo, cap. II art. 3) ya decía que la regla vale «con independencia de la cantidad de recibos o facturas». Se aparta del criterio general de la [R198 de la OIT](modalidades-de-contratacion.md#empleado-o-independiente-lo-decide-la-realidad-del-vínculo), que mira los indicios y no la forma del pago (lectura de esta base).
 
 El trabajador independiente puede tener hasta tres colaboradores independientes, «sin que exista vínculo de dependencia», con una cuota mensual que cubre previsión, obra social y riesgos del trabajo; queda prohibido «fragmentar o dividir los establecimientos» (art. 97 de la Ley 27.742). El régimen no aplica si se presume que sustituye una relación de dependencia (Decreto 847/2024, anexo, cap. IV art. 24). Un régimen de incentivo baja las contribuciones de las relaciones nuevas registradas entre el 1 de mayo de 2026 y el 30 de abril de 2027, entre ellas las de ex monotributistas (Decreto 315/2026); sus cifras están en [cargas sociales en la Argentina](../Cargas-y-declaraciones/cargas-sociales-en-argentina.md).
 
@@ -52,7 +52,7 @@ La falta de registración hace presumir a favor de lo que diga el trabajador sob
 
 ## El período de prueba
 
-Dura 6 meses; un convenio colectivo puede extenderlo hasta 8 meses en empresas de 6 a 100 trabajadores y hasta 1 año en empresas de hasta 5. El empleador no puede usarlo dos veces con el mismo trabajador, y si no lo registra desde el inicio «se considerará que ha renunciado al período de prueba» (art. 92 bis LCT, texto del art. 91 de la Ley 27.742, que la 27.802 no modificó). Para casas particulares son 6 meses y para el trabajo agrario permanente, 8 (arts. 107 y 113 de la Ley 27.802).
+Dura 6 meses. Un convenio colectivo puede extenderlo hasta 8 meses en empresas de 6 a 100 trabajadores y hasta 1 año en empresas de hasta 5. El empleador no puede usarlo dos veces con el mismo trabajador, y si no lo registra desde el inicio «se considerará que ha renunciado al período de prueba» (art. 92 bis LCT, texto del art. 91 de la Ley 27.742, que la 27.802 no modificó). Para casas particulares son 6 meses y para el trabajo agrario permanente, 8 (arts. 107 y 113 de la Ley 27.802).
 
 > [!IMPORTANT]
 > Discrepancia: un comentario de García Alonso (26/3/2026) dice que la 27.802 permite a los convenios ampliar o reducir el período de prueba. El texto de la 27.802 leído no contiene el art. 92 bis, y WS y Asociados dice que no se modificó. La nota sigue el texto legal.
@@ -79,7 +79,7 @@ Las normas de un convenio homologado rigen para todos los trabajadores de la act
 
 ## El certificado de trabajo del art. 80
 
-Al terminar la relación, el empleador tiene «cuarenta y cinco (45) días hábiles desde la extinción» para entregar el certificado, con los datos de la relación, la función, las capacitaciones y la constancia de aportes y contribuciones. Cumple si lo pone a disposición en papel o en formato digital fehaciente, o si la información está en el sitio de ARCA (art. 80 LCT, sustituido por el art. 25 de la Ley 27.802). Se confecciona en Simplificación Registral, formulario F. 984, digital con clave fiscal o en papel por duplicado (RG ARCA 5848/2026, art. 1).
+Al terminar la relación, el empleador tiene «cuarenta y cinco (45) días hábiles desde la extinción» para entregar el certificado, con los datos de la relación, la función, las capacitaciones y la constancia de aportes y contribuciones. El empleador cumple si lo pone a disposición en papel o en formato digital fehaciente, o si la información está en el sitio de ARCA (art. 80 LCT, sustituido por el art. 25 de la Ley 27.802). Se confecciona en Simplificación Registral, formulario F. 984, digital con clave fiscal o en papel por duplicado (RG ARCA 5848/2026, art. 1).
 
 ## La primera contratación en la Argentina
 

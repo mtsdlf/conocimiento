@@ -32,7 +32,7 @@ Los conceptos generales están en [liquidación de sueldos](liquidacion-de-sueld
 
 ## El aguinaldo
 
-El sueldo anual complementario (SAC, o aguinaldo) es la doceava parte de las remuneraciones (art. 121). Se paga en dos cuotas, que vencen el 30 de junio y el 18 de diciembre, y «El importe a abonar en cada semestre será liquidado sobre el cálculo del cincuenta por ciento (50%) de la mayor remuneración mensual devengada por todo concepto dentro de los dos (2) semestres que culminan en los meses de junio y diciembre» (art. 122, no cambiado por la 27.802). La Ley 23.041 dice lo mismo, según un resumen. La cuota de diciembre se calcula con una estimación del sueldo de diciembre, y la diferencia se ajusta en ese sueldo.
+El sueldo anual complementario (SAC, o aguinaldo) es la doceava parte de las remuneraciones (art. 121). Se paga en dos cuotas, que vencen el 30 de junio y el 18 de diciembre, y «El importe a abonar en cada semestre será liquidado sobre el cálculo del cincuenta por ciento (50%) de la mayor remuneración mensual devengada por todo concepto dentro de los dos (2) semestres que culminan en los meses de junio y diciembre» (art. 122, no cambiado por la 27.802). La Ley 23.041 dice lo mismo, según un resumen. La cuota de diciembre usa una estimación del sueldo de diciembre, y la diferencia se ajusta en ese sueldo.
 
 Al terminar la relación se paga el proporcional: «la doceava parte de las remuneraciones devengadas en la fracción del semestre trabajado» (art. 123). Un ejemplo de esta base: quien cobró 1.200.000 por mes y trabajó tres meses del semestre recibe 1.200.000 × 3 / 12 = 300.000.
 
@@ -55,9 +55,9 @@ Los recibos se conservan según la prescripción laboral (2 años) y la previsio
 
 ## Cuenta sueldo y plazo de pago
 
-El sueldo se paga «bajo pena de nulidad, únicamente mediante la acreditación en cuenta abierta a su nombre» en un banco o una institución de ahorro oficial, sin límite de extracciones ni costo para el trabajador (art. 124, sustituido por el art. 35 de la 27.802). Según un resumen de la Ley 26.590, el texto anterior permitía pagar en efectivo o con cheque, y el trabajador podía exigir el efectivo; esa opción ya no está.
+El sueldo se paga «bajo pena de nulidad, únicamente mediante la acreditación en cuenta abierta a su nombre» en un banco o una institución de ahorro oficial, sin límite de extracciones ni costo para el trabajador (art. 124, sustituido por el art. 35 de la 27.802). Según un resumen de la Ley 26.590, el texto anterior permitía pagar en efectivo o con cheque, y el trabajador podía exigir el efectivo. La ley nueva sacó esa opción.
 
-El mensualizado cobra al vencimiento de cada mes calendario (art. 126), y el pago tiene plazo: «cuatro (4) días hábiles para la remuneración mensual o quincenal y tres (3) días hábiles para la semanal», contados desde el vencimiento del período (art. 128, no cambiado).
+El mensualizado cobra al vencimiento de cada mes calendario (art. 126), con este plazo: «cuatro (4) días hábiles para la remuneración mensual o quincenal y tres (3) días hábiles para la semanal», contados desde el vencimiento del período (art. 128, no cambiado).
 
 ## Remunerativo y no remunerativo
 
@@ -81,24 +81,24 @@ El salario mínimo vital es inembargable en la proporción que fije la reglament
 
 ## La liquidación final en la Argentina
 
-**Indemnización por antigüedad (art. 245, sustituido por el art. 51 de la 27.802).** En el despido sin justa causa, después del período de prueba, se paga «un (1) mes de sueldo por cada año de servicio o fracción mayor de tres (3) meses», sobre «la mejor remuneración mensual, normal y habitual devengada durante el último año». Es la misma fórmula que cita [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md#el-límite-legal-en-argentina). El texto detalla la base:
+La indemnización por antigüedad está en el art. 245, sustituido por el art. 51 de la 27.802. En el despido sin justa causa, después del período de prueba, se paga «un (1) mes de sueldo por cada año de servicio o fracción mayor de tres (3) meses», sobre «la mejor remuneración mensual, normal y habitual devengada durante el último año». [Rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md#el-límite-legal-en-argentina) cita la misma fórmula. El texto detalla la base:
 
 - Entra lo «devengada y pagada en cada mes calendario»; no entran el SAC, las vacaciones ni los premios que no son de pago mensual.
 - Es habitual lo devengado al menos seis meses en el último año calendario; para los variables, la base es el promedio de los últimos seis meses o del último año, si es más favorable.
-- Tope: tres veces el salario mensual promedio del convenio aplicable, sin la antigüedad. Piso del tope: el 67 % de la remuneración normal y habitual. Y nunca menos de un mes de sueldo.
+- El tope es tres veces el salario mensual promedio del convenio aplicable, sin la antigüedad. Ese tope tiene un piso del 67 % de la remuneración normal y habitual, y la indemnización nunca baja de un mes de sueldo.
 - Es «la única reparación procedente» por el despido sin causa, y cobrarla «importa la extinción definitiva de cualquier reclamo judicial o extrajudicial vinculado al despido», salvo las acciones por ilícitos penales. Un convenio puede sustituirla por un fondo o sistema de cese a cargo del empleador.
 
 Según un resumen, WS y Asociados dice que la fórmula de un mes por año se mantuvo y se reescribieron la base y el tope; García Alonso, también según un resumen, dice que la base «excluye expresamente el Sueldo Anual Complementario y los premios que no sean de pago mensual». El texto anterior del artículo no se leyó.
 
-**Preaviso e integración del mes.** El empleador avisa con un mes de anticipación si la antigüedad no supera cinco años y con dos si la supera, sin preaviso en el período de prueba (art. 231 inc. b, sustituido). Si no avisa, paga una indemnización sustitutiva por esos plazos (art. 232). Si además el despido no cae el último día del mes, suma «los salarios por los días faltantes hasta el último día del mes» (art. 233). Los arts. 232 y 233 no cambiaron, según el texto y WS y Asociados.
+En el preaviso, el empleador avisa con un mes de anticipación si la antigüedad no supera cinco años y con dos si la supera, sin preaviso en el período de prueba (art. 231 inc. b, sustituido). Si no avisa, paga una indemnización sustitutiva por esos plazos (art. 232). Si además el despido no cae el último día del mes, suma «los salarios por los días faltantes hasta el último día del mes» (art. 233). Los arts. 232 y 233 no cambiaron, según el texto y WS y Asociados.
 
-**Vacaciones no gozadas.** Se paga el salario del período de descanso proporcional a la fracción del año trabajada (art. 156, no cambiado según InfoLEG y WS y Asociados). Los días por antigüedad están en [jornada y licencias en la Argentina](../Tiempo-y-asistencia/jornada-y-licencias-en-argentina.md).
+Por las vacaciones no gozadas se paga el salario del período de descanso proporcional a la fracción del año trabajada (art. 156, no cambiado según InfoLEG y WS y Asociados). Los días por antigüedad están en [jornada y licencias en la Argentina](../Tiempo-y-asistencia/jornada-y-licencias-en-argentina.md).
 
 Como criterio de esta base, a eso se suman el SAC proporcional (art. 123) y los días trabajados del mes. Los créditos laborales impagos se actualizan por IPC más 3 % anual (art. 276, sustituido); WS y Asociados, según un resumen, menciona fallos que declararon inconstitucional el art. 55 de la ley, que fija la tasa para los juicios en trámite. Un ejemplo de esta base, sin tope, con 4 años y 5 meses de antigüedad y mejor sueldo de 1.000.000: 5 sueldos de indemnización (la fracción de 5 meses supera 3), 1 mes de preaviso y la integración de los días que falten.
 
 ## El Fondo de Asistencia Laboral
 
-La Ley 27.802 crea el Fondo de Asistencia Laboral (FAL), una cuenta del empleador, administrada por entidades habilitadas por la CNV, para ayudar a pagar indemnizaciones, preaviso e integración (arts. 58 y 59). No cambia el régimen de indemnización (art. 58) ni limita la responsabilidad del empleador si no alcanza (art. 64). No es el fondo de cese por convenio del art. 245, que sí puede sustituir la indemnización.
+La Ley 27.802 crea el Fondo de Asistencia Laboral (FAL), una cuenta del empleador que ayuda a pagar indemnizaciones, preaviso e integración (arts. 58 y 59). La administran entidades habilitadas por la CNV. No cambia el régimen de indemnización (art. 58) ni limita la responsabilidad del empleador si no alcanza (art. 64). No es el fondo de cese por convenio del art. 245, que sí puede sustituir la indemnización.
 
 | Pieza | Texto vigente |
 |---|---|

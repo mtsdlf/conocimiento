@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Lo transversal de la administración de personal y nómina: de dónde viene la nómina como una de las primeras tareas que se automatizaron, cómo dividen el dominio los marcos y los productos, por qué este tema separa administrar de decidir, qué muestran dos fracasos públicos de sistemas de nómina y qué posiciones contrarias aparecen, con la nota que trata cada punto.
+  Lo transversal de la administración de personal y nómina: el origen de la nómina, una de las primeras tareas automatizadas; cómo dividen el dominio marcos y productos; por qué este tema separa administrar de decidir; dos fracasos públicos de sistemas de nómina, y las posiciones contrarias, cada punto con su nota.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -30,23 +30,23 @@ revisado:
 
 # Fundamentos de administración de personal
 
-Lo transversal de la administración de personal y nómina: de dónde viene la nómina como una de las primeras tareas que se automatizaron, cómo dividen el dominio los marcos y los productos, por qué este tema separa administrar de decidir, qué muestran dos fracasos públicos de sistemas de nómina y qué posiciones contrarias aparecen, con la nota que trata cada punto.
+Lo transversal de la administración de personal y nómina: el origen de la nómina, una de las primeras tareas automatizadas; cómo dividen el dominio marcos y productos; por qué este tema separa administrar de decidir; dos fracasos públicos de sistemas de nómina, y las posiciones contrarias, cada punto con su nota.
 
-Rodea a las cuatro verticales de la [administración de personal y nómina](../administracion-de-personal-y-nomina.md) sin ser una de ellas. Al lado están el [glosario](glosario-de-administracion-de-personal.md), con los términos y su nombre en inglés, y las [fuentes](fuentes-de-administracion-de-personal.md), con qué leer para cada vertical.
+Rodea a las cuatro verticales de la [administración de personal y nómina](../administracion-de-personal-y-nomina.md) sin ser una de ellas. El [glosario](glosario-de-administracion-de-personal.md) da los términos con su nombre en inglés, y las [fuentes](fuentes-de-administracion-de-personal.md), qué leer para cada vertical.
 
 ## De la planilla de jornales al sistema de nómina
 
-La nómina se tercerizaba antes de las computadoras: según Wikipedia, que cita a The New York Times, en 1949 nació en Estados Unidos un servicio de «manual payroll processing» para tintorerías industriales.
+La nómina se tercerizaba antes de las computadoras. Según Wikipedia, una fuente terciaria que cita a The New York Times, en 1949 nació en Estados Unidos un servicio de «manual payroll processing» que empezó con nóminas de casas de teñido.
 
 > [!NOTE]
 > Sin fuente todavía: la historia de la planilla de jornales y del libro de sueldos en papel antes de 1950.
 
-LEO I, la primera computadora comercial, de la empresa británica J. Lyons and Co., empezó por la valuación de la panadería. Según el Science Museum, la nómina de los empleados de Lyons vino «soon afterwards», y las pruebas estrictas hicieron que «no one was ever paid late». En 1956, según Wikipedia, Lyons ya calculaba en LEO I la nómina de Ford UK y de otras empresas.
+Según un resumen del Science Museum, LEO I, de la británica J. Lyons and Co., fue la primera computadora comercial y empezó por la valuación de la panadería. La nómina del personal de Lyons vino «soon afterwards», y las pruebas estrictas hicieron que «no one was ever paid late», según el mismo resumen. En 1956, según un resumen de Wikipedia, Lyons ya calculaba en LEO I la de Ford UK y otras empresas.
 
 > [!IMPORTANT]
-> Las fechas de LEO discrepan. La valuación de la panadería corrió el 5 de septiembre de 1951 según Wikipedia (que cita a Bird, 1994) y fue el «first commercial data processing job» en noviembre de 1951 según la LEO Computers Society. Para la primera nómina, resúmenes del buscador dan noviembre de 1951, 1953 y febrero de 1954. Ninguna fuente primaria leída la fija.
+> Las fechas de LEO discrepan. Según Wikipedia (que cita a Bird, 1994), la valuación de la panadería corrió el 5 de septiembre de 1951; según la LEO Computers Society, fue el «first commercial data processing job» en noviembre de 1951. Para la primera nómina, resúmenes del buscador dan noviembre de 1951, 1953 y febrero de 1954, y ninguna fuente primaria leída la fija.
 
-Que se automatizara pronto por su volumen y sus reglas fijas es inferencia de esta base. Según Wikipedia, que cita a Kavanagh y otros (1990), «the use of information systems in human resources began with payroll automation in the late 1950s»; el artículo ubica en 1979 el primer ERP con funciones de RR. HH. y trata HRIS, HRMS y HCM como nombres solapados. Hoy el mercado dice HCM, y Gartner evalúa esas suites por el núcleo de RR. HH., el talento y la nómina, según un resumen.
+Que se automatizara pronto por su volumen y reglas fijas es inferencia de esta base. Según Wikipedia, que cita a Kavanagh y otros (1990), «the use of information systems in human resources began with payroll automation in the late 1950s». El artículo ubica en 1979 el primer ERP con funciones de RR. HH. y trata HRIS, HRMS y HCM como nombres solapados. Hoy el mercado dice HCM; Gartner evalúa esas suites por el núcleo de RR. HH., el talento y la nómina, según un resumen.
 
 ## Cómo dividen el dominio los marcos y los productos
 
@@ -55,17 +55,17 @@ Ningún marco externo corta el dominio como este tema, y la nómina cambia de lu
 | Quién | Cómo lo divide | Dónde queda la nómina |
 |---|---|---|
 | APQC, PCF 7.2.1 | 7.0 Develop and Manage Human Capital, de 7.1 a 7.9 | Dos veces: 7.5.4 Administer payroll, en personas, y 9.5 Process payroll, en finanzas |
-| SHRM, BASK | Tres dominios, People, Organization y Workplace, con la compensación total («Total Rewards») en People | Sin área propia en lo leído |
-| Un ERP abierto | Saca personas a una aplicación aparte: selección, turnos y asistencia, licencias, gastos, desempeño, nómina, impuestos y beneficios | Junto con los impuestos sobre sueldos |
+| SHRM, BoCK (anterior al BASK) | Tres dominios, People, Organization y Workplace, con la compensación total («Total Rewards») en People | Sin área propia en lo leído |
+| Un ERP abierto | Personas en una aplicación aparte: selección, turnos y asistencia, licencias, gastos, desempeño, nómina, impuestos y beneficios | Junto con los impuestos sobre sueldos |
 | Otro ERP abierto | Una familia de RR. HH. que suma la flota de vehículos, el almuerzo y la recepción de visitas | Dentro de esa familia |
 
-APQC publica aparte el recorrido de la contratación a la baja (hire-to-retire), que en esta base va al tema Procesos de negocio, todavía no escrito. La numeración es de la 7.2.1, por una copia de terceros; la 7.4 y la 8.0 no se pudieron leer. Del BASK, el resumen de la página actual da nueve competencias de comportamiento y una técnica, sin nombrar los dominios.
+APQC publica aparte el recorrido de la contratación a la baja (hire-to-retire); en esta base va a Procesos de negocio, tema todavía sin escribir. La numeración sale de una copia de terceros de la 7.2.1; la 7.4 y la 8.0 no se pudieron leer. Los tres dominios son del BoCK. Según un resumen de la página actual, el BASK que lo reemplazó habla de nueve competencias de comportamiento y una técnica, sin nombrar dominios.
 
 ## Administrar y decidir, en dos temas
 
-SHRM y APQC 7.0 juntan lo que una empresa decide sobre las personas con lo que registra y calcula. Esta base los separa: seleccionar, evaluar, fijar cuánto pagar y despedir viven en [Gestión de personas](../../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md); este tema se queda con el [legajo](../Legajo/legajo.md), la [asistencia](../Tiempo-y-asistencia/tiempo-y-asistencia.md) y la [liquidación](../Liquidacion-de-sueldos/liquidacion-de-sueldos.md).
+SHRM y APQC 7.0 juntan lo que una empresa decide sobre su gente con lo que registra y calcula. Esta base los separa: seleccionar, evaluar, fijar cuánto pagar y despedir viven en [Gestión de personas](../../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md), y este tema se queda con el [legajo](../Legajo/legajo.md), la [asistencia](../Tiempo-y-asistencia/tiempo-y-asistencia.md) y la [liquidación](../Liquidacion-de-sueldos/liquidacion-de-sueldos.md).
 
-El corte sigue la regla del mapa de la base, un objeto y un verbo por dominio, y cada decisión deja un registro de este lado. Un aumento se decide en [compensación e incentivos](../../Liderazgo-y-direccion/Gestion-de-personas/compensacion-e-incentivos.md) y acá se registra con su fecha de vigencia; una salida se conduce en [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md) y acá se hacen la [baja](../Legajo/ingreso-y-egreso.md) y la [liquidación final](../Liquidacion-de-sueldos/liquidacion-final.md).
+El corte sigue la regla del mapa de la base, un objeto y un verbo por dominio, y cada decisión deja un registro de este lado. Un aumento se decide en [compensación e incentivos](../../Liderazgo-y-direccion/Gestion-de-personas/compensacion-e-incentivos.md) y acá se registra con su fecha de vigencia. Una salida se conduce en [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md), y acá se hacen la [baja](../Legajo/ingreso-y-egreso.md) y la [liquidación final](../Liquidacion-de-sueldos/liquidacion-final.md).
 
 ## Dos fracasos de sistemas de nómina con informe público
 
@@ -73,30 +73,30 @@ Los dos casos reemplazaron de una vez la nómina pública de decenas de miles de
 
 ### Queensland Health, Australia, 2010
 
-El sistema salió el 14 de marzo de 2010 y unos 78.000 empleados cobraron mal o no cobraron, según Wikipedia. La Comisión de Investigación presidida por Richard Chesterman informó el 31 de julio de 2013. Según su apertura, el precio pactado para diseñar e implementar el sistema fue de 6,19 millones de dólares (australianos, por el contexto), lo pagado al contratista superaba los 37 millones al ponerlo en marcha y el Estado gastó otros 64 millones.
+Según Wikipedia, el sistema salió el 14 de marzo de 2010 y unos 78.000 empleados cobraron mal o no cobraron. La Comisión de Investigación presidida por Richard Chesterman informó el 31 de julio de 2013. Según su apertura, el precio pactado por diseñarlo e implementarlo fue de 6,19 millones de dólares (australianos, por el contexto). Al ponerlo en marcha lo pagado al contratista superaba los 37 millones y el Estado gastó otros 64.
 
-Unos 80.000 empleados bajo dos leyes, 12 convenios de rama y seis acuerdos daban «more than 200 separate allowances and as many as 24,000 different combinations of pay» (párr. 1.4). Según una revisión de 2012 que cita el informe, hacían falta «more than 1,000 payroll employees» para procesar 92.000 formularios por quincena, y hubo empleados que cobraron de más y fueron «falsely accused of fraud».
+Unos 80.000 empleados bajo dos leyes, 12 convenios de rama y seis acuerdos daban «more than 200 separate allowances and as many as 24,000 different combinations of pay» (párr. 1.4). Según la apertura, el sistema necesitaba «more than 1,000 payroll employees» y hubo quienes cobraron de más y fueron «falsely accused of fraud».
 
 > [!IMPORTANT]
-> Las cifras discrepan. Wikipedia da 98 millones como contrato original; el informe da 6,19 millones como precio pactado y ubica los 98 millones como la oferta del contratista en la licitación (párr. 1.12). La prensa de 2012 da un costo total de más de 1.200 millones; el informe, en lo leído, más de 400 millones gastados en operarlo hasta mayo de 2012 y 836 millones proyectados para los cinco años siguientes. Que la suma se acerque a los 1.200 millones es inferencia de esta base.
+> Las cifras discrepan. Wikipedia da 98 millones como contrato original; el informe da 6,19 millones como precio pactado y los 98 como la oferta del contratista en la licitación (párr. 1.12). La prensa de 2012 da un costo total de más de 1.200 millones; el informe, en lo leído, más de 400 millones gastados en operarlo hasta mayo de 2012 y 836 millones proyectados para los cinco años siguientes. Que la suma se acerque a los 1.200 millones es inferencia de esta base.
 
 ### Phoenix, Canadá, 2016
 
-Sin los informes del Auditor General, que no abrieron, esto sale de Wikipedia y del buscador. La primera ola salió en febrero de 2016, con unos 120.000 empleados. Según Wikipedia, el Auditor General lo llamó en 2018 «an incomprehensible failure of project management and oversight», un piloto en un solo departamento se había cancelado en junio de 2015 y en septiembre de 2017 se habían analizado «6 of the 200 custom programs».
+Los informes del Auditor General no abrieron: esto sale de Wikipedia y del buscador. La primera ola salió en febrero de 2016, con unos 120.000 empleados. Según Wikipedia, en 2018 el Auditor General lo llamó «an incomprehensible failure of project management and oversight». También cuenta que se canceló un piloto en un solo departamento (lo fecha en junio de 2015, sin aclarar si es el piloto o su cancelación) y que en septiembre de 2017 se habían analizado «6 of the 200 custom programs».
 
 > [!IMPORTANT]
-> Las cifras de Phoenix discrepan. El presupuesto de 2009 figura como 309 millones (Senado) o 310 millones (Ottawa Citizen); el costo de arreglarlo, según Wikipedia, va de 540 millones (noviembre de 2017) a más de 5.100 millones (junio de 2025), de fuentes distintas. Los errores de pago figuran como 520 millones (seguimiento de 2018) y 615 millones (prensa atribuida al auditor), sin fecha clara para cada una.
+> Las cifras de Phoenix discrepan. El presupuesto de 2009 figura como 309 millones (Senado) o 310 millones (Ottawa Citizen). El costo de arreglarlo, según Wikipedia, va de 540 millones (noviembre de 2017) a más de 5.100 (junio de 2025), de fuentes distintas. Los errores de pago figuran como 520 millones (seguimiento de 2018) y 615 millones (prensa atribuida al auditor), sin fecha clara.
 
 ## Posiciones contrarias y creencias que los informes discuten
 
-Llamar creencias a estas cinco ideas es lectura de esta base; la evidencia de cada una está en su nota.
+Llamar creencias a estas cinco ideas es lectura de esta base; cada una enlaza su evidencia.
 
-**La nómina es un cálculo simple.** Los dos fracasos se asocian a reglas especiales muy numerosas: 24.000 combinaciones de pago en Queensland, unos 200 programas a medida en Phoenix. Cómo se ordenan las reglas está en [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md).
+**La nómina es un cálculo simple.** Los dos fracasos se asocian a muchas reglas especiales: 24.000 combinaciones de pago en Queensland y unos 200 programas a medida en Phoenix ([conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md)).
 
-**Fichar y vigilar mejora la productividad.** Según un resumen, un metaanálisis de 2023 sobre monitoreo electrónico no encontró mejora del desempeño y sí más estrés; está en [registro de asistencia](../Tiempo-y-asistencia/registro-de-asistencia.md#vigilancia-y-lo-que-dice-la-evidencia).
+**Fichar y vigilar mejora la productividad.** Según un resumen, un metaanálisis de 2023 sobre monitoreo electrónico no encontró mejora del desempeño y sí más estrés ([registro de asistencia](../Tiempo-y-asistencia/registro-de-asistencia.md#vigilancia-y-lo-que-dice-la-evidencia)).
 
-**Las vacaciones ilimitadas dan más descanso.** Un estudio de 2018 citado por SHRM encontró que con ese plan se tomaban dos días menos al año; la evidencia es de encuestas y casos, en [licencias y ausencias](../Tiempo-y-asistencia/licencias-y-ausencias.md#vacaciones-ilimitadas).
+**Las vacaciones ilimitadas dan más descanso.** Según un resumen del buscador, un estudio de Namely de 2018 encontró que con ese plan se tomaban dos días menos al año; la evidencia es de encuestas y casos ([licencias y ausencias](../Tiempo-y-asistencia/licencias-y-ausencias.md#vacaciones-ilimitadas)).
 
-**Llamar independiente a alguien lo vuelve independiente.** La Recomendación 198 de la OIT y la prueba de realidad económica de Estados Unidos miran el control y la integración a la empresa, no el nombre del contrato: [modalidades de contratación](../Legajo/modalidades-de-contratacion.md#empleado-o-independiente-lo-decide-la-realidad-del-vínculo), y para la Ley 27.802, [relación laboral en la Argentina](../Legajo/relacion-laboral-en-argentina.md).
+**Llamar independiente a alguien lo vuelve independiente.** La Recomendación 198 de la OIT y la prueba de realidad económica de Estados Unidos miran el control y la integración a la empresa, no el nombre del contrato ([modalidades de contratación](../Legajo/modalidades-de-contratacion.md#empleado-o-independiente-lo-decide-la-realidad-del-vínculo)); para la Ley 27.802, [relación laboral en la Argentina](../Legajo/relacion-laboral-en-argentina.md).
 
-**Un concepto es remunerativo o no lo es.** La OIT define el salario «however designated or calculated», y los fiscos de Estados Unidos y del Reino Unido usan listas distintas según sea para tributar, aportar o embargar. El informe de investigación concluye que lo remunerativo es un conjunto de marcas por propósito; está en [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md).
+**Un concepto es remunerativo o no lo es.** La OIT define el salario «however designated or calculated», y en lo leído la lista cambia con el propósito: el fisco de Estados Unidos define el sueldo para sus tributos y una guía del Reino Unido da otra lista para los embargos. Según el informe de investigación, lo remunerativo es un conjunto de marcas por propósito ([conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md)).

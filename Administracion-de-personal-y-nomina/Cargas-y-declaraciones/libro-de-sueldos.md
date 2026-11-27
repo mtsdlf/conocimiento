@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El libro de sueldos es el registro obligatorio de lo que el empleador pagó a cada empleado en cada período de liquidación: quién cobró, cuánto, por qué conceptos y qué se le retuvo. Como criterio de esta base, sirve de prueba ante el empleado, el fisco y la inspección del trabajo y se guarda durante años; y, como inferencia sobre los ejemplos leídos, en varios países la declaración periódica al fisco pasó a cumplir esa función.
+  El libro de sueldos es el registro obligatorio de lo que el empleador pagó a cada empleado en cada período de liquidación: quién cobró, cuánto, por qué conceptos y qué se le retuvo. Como criterio de esta base, sirve de prueba ante el empleado, el fisco y la inspección del trabajo y se guarda durante años. Como inferencia sobre los ejemplos leídos, en varios países la declaración periódica al fisco pasó a cumplir esa función.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -19,9 +19,9 @@ revisado:
 
 # Libro de sueldos
 
-El libro de sueldos es el registro obligatorio de lo que el empleador pagó a cada empleado en cada período de liquidación: quién cobró, cuánto, por qué conceptos y qué se le retuvo. Como criterio de esta base, sirve de prueba ante el empleado, el fisco y la inspección del trabajo y se guarda durante años; y, como inferencia sobre los ejemplos leídos, en varios países la declaración periódica al fisco pasó a cumplir esa función.
+El libro de sueldos es el registro obligatorio de lo que el empleador pagó a cada empleado en cada período de liquidación: quién cobró, cuánto, por qué conceptos y qué se le retuvo. Como criterio de esta base, sirve de prueba ante el empleado, el fisco y la inspección del trabajo y se guarda durante años. Como inferencia sobre los ejemplos leídos, en varios países la declaración periódica al fisco pasó a cumplir esa función.
 
-Cierra [cargas y declaraciones](cargas-y-declaraciones.md): es lo que queda de cada nómina cuando ya se pagó y se declaró. Lo alimenta la [liquidación de sueldos](../Liquidacion-de-sueldos/liquidacion-de-sueldos.md) al cerrar cada período; cada línea del libro corresponde a un [recibo de sueldo](../Liquidacion-de-sueldos/recibo-de-sueldo.md), que es la copia que recibe el empleado.
+Cierra [cargas y declaraciones](cargas-y-declaraciones.md) con lo que queda de cada nómina cuando ya se pagó y se declaró. Lo alimenta la [liquidación de sueldos](../Liquidacion-de-sueldos/liquidacion-de-sueldos.md) al cerrar cada período, y cada línea del libro corresponde a un [recibo de sueldo](../Liquidacion-de-sueldos/recibo-de-sueldo.md), que es la copia que recibe el empleado.
 
 ## Por qué la ley pide un registro
 
@@ -40,13 +40,13 @@ Las fuentes agnósticas leídas no listan el contenido mínimo. El ejemplo argen
 | Cada concepto | código del concepto, cantidad, unidad, importe, si suma o resta, y el período al que corresponde si es un ajuste retroactivo |
 | Los datos para las cargas | cónyuge, hijos, convenio colectivo, seguro de vida, reducciones |
 
-Generalizado, como criterio de esta base: un libro de sueldos tiene una fila por empleado, período y concepto, con el importe, y lo necesario para rehacer el cálculo de las cargas. Es la misma estructura que el recibo, junta para todos.
+Generalizado, como criterio de esta base: un libro de sueldos tiene una fila por empleado, período y concepto, con el importe, y lo necesario para rehacer el cálculo de las cargas. Tiene la misma estructura que el recibo, con todos los empleados juntos.
 
-El campo del período de ajuste importa: un retroactivo se registra en el período en que se paga, pero dice a qué período corresponde. Es lo que permite recalcular las cargas del mes original sin tocar lo que ya se registró ([retroactivos y reliquidaciones](../Liquidacion-de-sueldos/retroactivos-y-reliquidaciones.md)).
+Con el campo del período de ajuste, un retroactivo se registra en el período en que se paga y dice a qué período corresponde. Así se pueden recalcular las cargas del mes original sin tocar lo que ya se registró ([retroactivos y reliquidaciones](../Liquidacion-de-sueldos/retroactivos-y-reliquidaciones.md)).
 
 ## Lo registrado no se edita
 
-Un libro de sueldos es un registro de movimientos: lo que se cerró no se corrige encima, se corrige con un movimiento nuevo. Fowler usa justamente un sistema de nómina para explicarlo: distingue la fecha en que algo pasó de la fecha en que se supo, y dice que las correcciones son entradas nuevas, porque los cambios retroactivos sobre lo registrado «break the integrity of the record». Cómo se modela eso está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md#un-error-se-corrige-con-otro-movimiento).
+Un libro de sueldos es un registro de movimientos, y lo que se cerró se corrige con un movimiento nuevo en lugar de escribir encima. Fowler usa un sistema de nómina para explicarlo: distingue la fecha en que algo pasó de la fecha en que se supo, y dice que las correcciones son entradas nuevas, porque los cambios retroactivos sobre lo registrado «break the integrity of the record». Cómo se modela eso está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md#un-error-se-corrige-con-otro-movimiento).
 
 En la Argentina, el sistema del fisco lo hace cumplir: una liquidación aceptada no se puede cambiar, y un concepto que ya se usó en una liquidación no se puede editar ni borrar ([libro de sueldos digital](libro-de-sueldos-digital.md)).
 
@@ -69,4 +69,4 @@ El plazo más largo manda: si un mismo registro sirve de prueba laboral y previs
 
 En la Argentina, el libro era el Libro Especial del art. 52 de la LCT o un registro de hojas móviles, y la autoridad del trabajo de cada provincia lo rubricaba (RG 5249/2022 para el libro; RG 5250/2022, arts. 6 y 7, y Guía 8 de ARCA para la rúbrica provincial, en [libro de sueldos digital](libro-de-sueldos-digital.md)). La tendencia en los ejemplos leídos es que el registro lo arme el fisco con lo que el empleador declara cada período. En el Reino Unido, el empleador informa cada pago en el momento ([cargas y declaraciones](cargas-y-declaraciones.md#la-declaración-periódica)). En la Argentina hubo dos pasos: primero el libro digital que arma ARCA con las liquidaciones del empleador, y después la Ley 27.802, según la cual la registración ante ARCA «será suficiente a todos los efectos». El detalle, y lo que todavía no está claro, está en [libro de sueldos digital](libro-de-sueldos-digital.md).
 
-Para quien construye el sistema, el cambio no elimina el registro: lo traslada. El empleador sigue necesitando su propio historial por empleado, período y concepto para reliquidar, contestar un reclamo o rehacer una declaración (inferencia de esta base).
+Para quien construye el sistema, el registro pasa al fisco, pero el empleador sigue necesitando su propio historial por empleado, período y concepto para reliquidar, contestar un reclamo o rehacer una declaración (inferencia de esta base).

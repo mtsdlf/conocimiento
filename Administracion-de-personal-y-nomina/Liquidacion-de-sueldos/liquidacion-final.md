@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La liquidación final es la que se hace cuando termina la relación laboral: paga lo trabajado y no cobrado hasta el último día, la parte proporcional de los conceptos que se devengan por período, las vacaciones no gozadas y, según el motivo de la salida, el preaviso y la indemnización, y descuenta lo que el empleado deba.
+  La liquidación final es la que se hace cuando termina la relación laboral. Paga lo trabajado y no cobrado hasta el último día, la parte proporcional de los conceptos que se devengan por período, las vacaciones no gozadas y, según el motivo de la salida, el preaviso y la indemnización. También descuenta lo que el empleado deba.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -19,20 +19,20 @@ revisado:
 
 # Liquidación final
 
-La liquidación final es la que se hace cuando termina la relación laboral: paga lo trabajado y no cobrado hasta el último día, la parte proporcional de los conceptos que se devengan por período, las vacaciones no gozadas y, según el motivo de la salida, el preaviso y la indemnización, y descuenta lo que el empleado deba.
+La liquidación final es la que se hace cuando termina la relación laboral. Paga lo trabajado y no cobrado hasta el último día, la parte proporcional de los conceptos que se devengan por período, las vacaciones no gozadas y, según el motivo de la salida, el preaviso y la indemnización. También descuenta lo que el empleado deba.
 
-Es una [liquidación fuera de ciclo](liquidacion-de-sueldos.md#liquidaciones-fuera-de-ciclo): rara vez coincide con el fin del período y no puede esperar. La dispara la baja del [legajo](../Legajo/ingreso-y-egreso.md#lo-que-cierra-la-baja), que trae la fecha y el motivo del egreso. Cómo se decide y se conduce una salida, y qué le pasa al equipo que queda, es de [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md); acá se calcula lo que se paga.
+Es una [liquidación fuera de ciclo](liquidacion-de-sueldos.md#liquidaciones-fuera-de-ciclo): rara vez coincide con el fin del período y no puede esperar. La dispara la baja del [legajo](../Legajo/ingreso-y-egreso.md#lo-que-cierra-la-baja), que trae la fecha y el motivo del egreso. La decisión de una salida, su conducción y lo que le pasa al equipo que queda están en [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md); acá se calcula lo que se paga.
 
 > [!WARNING]
 > Lo argentino de esta nota es ley y dinero, copia al 27 de noviembre de 2026, con una sola fuente por artículo (el Boletín Oficial e InfoLEG publican el mismo texto), y no reemplaza a un abogado laboralista ni a un liquidador de sueldos. El aviso completo sobre la Ley 27.802 y su impugnación judicial está en [liquidación en la Argentina](liquidacion-en-argentina.md).
 
 ## El plazo para pagarla
 
-La OIT pide que, al terminar el contrato, «a final settlement of all wages due shall be effected within a reasonable period of time having regard to the terms of the contract» (Convenio 95, art. 12). No fija días: cada país pone su plazo. Es la única fuente agnóstica leída sobre el plazo.
+La OIT pide que, al terminar el contrato, «a final settlement of all wages due shall be effected within a reasonable period of time having regard to the terms of the contract» (Convenio 95, art. 12). No fija días, así que cada país pone su plazo. Es la única fuente agnóstica leída sobre el plazo.
 
 ## De qué está hecha
 
-La liquidación final junta conceptos de tres clases. Cuáles aplican depende del motivo de la salida, que es un dato del legajo.
+La liquidación final junta conceptos de tres clases. El motivo de la salida, que es un dato del legajo, decide cuáles aplican.
 
 | Parte | Qué paga | Aplica |
 |---|---|---|
@@ -48,7 +48,7 @@ La división en partes es criterio de esta base y sigue la ley argentina, la ún
 
 El saldo sale de [licencias y ausencias](../Tiempo-y-asistencia/licencias-y-ausencias.md): los días devengados en el año hasta la fecha de egreso, menos los tomados. En la Argentina las vacaciones no son compensables en dinero salvo lo que dispone el art. 156 para la extinción del contrato (art. 162 LCT). Según ese art. 156, la indemnización por vacaciones no gozadas equivale al salario del período de descanso proporcional a la fracción del año trabajada (art. 156 LCT).
 
-Un saldo de licencias bien llevado durante toda la relación es lo que hace este cálculo posible; si el saldo no se llevó, la liquidación final lo reconstruye a mano (inferencia de esta base).
+Este cálculo necesita un saldo de licencias bien llevado durante toda la relación; si no se llevó, la liquidación final lo reconstruye a mano (inferencia de esta base).
 
 ## La indemnización como concepto
 
@@ -59,19 +59,19 @@ La indemnización por despido es un monto que la ley pone a cargo del empleador 
 
 En la Argentina es la del art. 245 de la LCT, sustituido por la Ley 27.802: «un (1) mes de sueldo por cada año de servicio o fracción mayor de tres (3) meses», sobre la mejor remuneración mensual, normal y habitual del último año, con tope y piso. Es la misma cifra que da [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md#el-límite-legal-en-argentina); la base, el tope, el piso, el preaviso y la integración del mes están en [liquidación en la Argentina](liquidacion-en-argentina.md#la-liquidación-final-en-la-argentina).
 
-Para la liquidación, la base de la indemnización es otra base más: cada [concepto](conceptos-de-liquidacion.md#remunerativo-y-no-remunerativo) lleva una marca que dice si entra. En la Argentina, por ejemplo, el aguinaldo y las vacaciones no entran (art. 245).
+Para la liquidación, la base de la indemnización es una base como las demás: cada [concepto](conceptos-de-liquidacion.md#remunerativo-y-no-remunerativo) lleva una marca que dice si entra. En la Argentina, por ejemplo, el aguinaldo y las vacaciones no entran (art. 245).
 
 ## Lo que se descuenta
 
-De la liquidación final salen las deducciones de siempre (aportes y retención sobre los conceptos que las llevan) y, como inferencia de esta base, lo pendiente del empleado: el saldo de un préstamo o un adelanto no recuperado. Si el tope de deducciones alcanza para descontar todo depende de la ley de cada país; esta base supone, sin fuente que lo trate para la baja, que en la Argentina rige también el tope del art. 133, en [liquidación en la Argentina](liquidacion-en-argentina.md#adelantos-deducciones-y-embargos). Como inferencia de esta base, un embargo vigente se aplica también a la liquidación final, según lo que la ley de cada país cuente como sueldo para el embargo ([conceptos de liquidación](conceptos-de-liquidacion.md#adelantos-préstamos-y-embargos)).
+De la liquidación final salen las deducciones de siempre (aportes y retención sobre los conceptos que las llevan) y, como inferencia de esta base, lo pendiente del empleado: el saldo de un préstamo o un adelanto no recuperado. La ley de cada país decide si el tope de deducciones alcanza para descontar todo. Esta base supone, sin fuente que lo trate para la baja, que en la Argentina rige también el tope del art. 133, en [liquidación en la Argentina](liquidacion-en-argentina.md#adelantos-deducciones-y-embargos). Como inferencia de esta base, un embargo vigente se aplica también a la liquidación final, según lo que la ley de cada país cuente como sueldo para el embargo ([conceptos de liquidación](conceptos-de-liquidacion.md#adelantos-préstamos-y-embargos)).
 
 Cada parte va al [recibo de sueldo](recibo-de-sueldo.md) como un concepto separado, porque cada una tiene un tratamiento distinto frente a las [cargas](../Cargas-y-declaraciones/aportes-y-contribuciones.md) y la [retención](../Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md).
 
 ## Cómo falla
 
-- **Usar el motivo equivocado.** Una renuncia cargada como despido paga una indemnización que no correspondía, y al revés.
-- **Saldo de vacaciones mal llevado.** Se pagan días ya tomados o se omiten días ganados.
-- **Liquidar tarde.** Los créditos laborales vencidos se actualizan; en la Argentina, por IPC más 3 % anual (art. 276 LCT).
-- **Mezclar todo en un solo concepto.** Sin separación, no se puede aplicar a cada parte su tratamiento frente a aportes e impuesto.
+- Usar el motivo equivocado: una renuncia cargada como despido paga una indemnización que no correspondía, y al revés.
+- Llevar mal el saldo de vacaciones: se pagan días ya tomados o se omiten días ganados.
+- Liquidar tarde: los créditos laborales vencidos se actualizan; en la Argentina, por IPC más 3 % anual (art. 276 LCT).
+- Mezclar todo en un solo concepto: sin separación, no se puede aplicar a cada parte su tratamiento frente a aportes e impuesto.
 
-Salvo la actualización del art. 276, son inferencia de esta base sobre el modelo.
+Salvo la actualización del art. 276, estas fallas son inferencia de esta base sobre el modelo.

@@ -20,7 +20,7 @@ revisado:
 
 Los términos del tema Administración de personal y nómina, cada uno con su nombre en inglés, una definición de una línea y la nota que lo explica.
 
-Las cifras, los plazos y las discrepancias viven en la nota de cada término. El tema usa un término por concepto; si hay dos nombres en castellano, el que usa va primero. Los términos de las decisiones sobre las personas son de [Gestión de personas](../../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md).
+Las cifras, los plazos y las discrepancias están en la nota de cada término. El tema usa un término por concepto, y cuando hay dos nombres en castellano va primero el que usa. Los términos de las decisiones sobre las personas son de [Gestión de personas](../../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md).
 
 ## El legajo
 
@@ -33,7 +33,7 @@ Las cifras, los plazos y las discrepancias viven en la nota de cada término. El
 | Categoría | Job grade | El escalón que fija el sueldo mínimo; en la Argentina, del convenio | [puesto y estructura](../Legajo/puesto-y-estructura.md) |
 | Modalidad de contratación | Employment contract type | Indeterminado, plazo fijo, eventual o tiempo parcial | [modalidades de contratación](../Legajo/modalidades-de-contratacion.md) |
 | Período de prueba | Probation period | El tramo inicial en que se puede terminar el contrato con menos costo | [modalidades de contratación](../Legajo/modalidades-de-contratacion.md) |
-| Clasificación del trabajador | Worker classification | Decidir si alguien es empleado o independiente por la realidad del vínculo | [modalidades de contratación](../Legajo/modalidades-de-contratacion.md) |
+| Clasificación del trabajador | Worker classification | La decisión de si alguien es empleado o independiente, según la realidad del vínculo | [modalidades de contratación](../Legajo/modalidades-de-contratacion.md) |
 | Alta | New hire setup | Lo que se registra y se declara para que alguien empiece a trabajar | [ingreso y egreso](../Legajo/ingreso-y-egreso.md) |
 | Baja | Termination processing | Lo que se registra, se declara y se cierra al terminar la relación | [ingreso y egreso](../Legajo/ingreso-y-egreso.md) |
 | Búsqueda (vacante) | Job requisition | El pedido registrado de cubrir un puesto | [búsquedas y postulantes](../Legajo/busquedas-y-postulantes.md) |
@@ -46,7 +46,7 @@ Las cifras, los plazos y las discrepancias viven en la nota de cada término. El
 | Jornada | Working time | Cuánto se trabaja: límite, período de cómputo y recargo | [jornada y turnos](../Tiempo-y-asistencia/jornada-y-turnos.md) |
 | Turno | Shift | El horario esperado de un día, contra el que se concilia la asistencia | [jornada y turnos](../Tiempo-y-asistencia/jornada-y-turnos.md) |
 | Horas extra | Overtime | Las horas sobre la jornada, con recargo o tiempo libre | [jornada y turnos](../Tiempo-y-asistencia/jornada-y-turnos.md) |
-| Banco de horas | Time bank, TOIL | Un saldo de horas de más que se compensan con tiempo libre | [jornada y turnos](../Tiempo-y-asistencia/jornada-y-turnos.md) |
+| Banco de horas | Time bank, TOIL | Un saldo de horas extra aprobadas que se devuelven después como tiempo libre en lugar de pagarse con recargo | [jornada y turnos](../Tiempo-y-asistencia/jornada-y-turnos.md) |
 | Marcación (fichada) | Punch, clock in and out | Cada registro de entrada o salida, con su hora y su origen | [registro de asistencia](../Tiempo-y-asistencia/registro-de-asistencia.md) |
 | Ausencia | Absence | Tiempo del turno sin marcación; justificada si la cubre una licencia | [registro de asistencia](../Tiempo-y-asistencia/registro-de-asistencia.md) |
 | Licencia | Leave, time off | Una ausencia autorizada, paga o sin goce, de un tipo con reglas propias | [licencias y ausencias](../Tiempo-y-asistencia/licencias-y-ausencias.md) |
@@ -65,7 +65,7 @@ Las cifras, los plazos y las discrepancias viven en la nota de cada término. El
 | Concepto de liquidación | Pay component | Cada renglón del cálculo, haber o deducción, con su regla y su base | [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md) |
 | Haber y deducción | Earning and deduction | Lo que suma al sueldo y lo que se resta | [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md) |
 | Bruto y neto | Gross pay and net pay | La suma de los haberes, y lo que queda después de las deducciones | [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md) |
-| Neto a bruto | Gross-up | Calcular el bruto que deja un neto pactado | [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md) |
+| Neto a bruto | Gross-up | Calcular el bruto que deja un neto pactado (definición de esta base; las fuentes leídas no lo definen) | [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md) |
 | Proporcional | Proration | Un concepto pagado según los días trabajados del período | [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md) |
 | Remunerativo | Wages (subject to contributions) | Que entra en la base de aportes y contribuciones; cada propósito puede tener su lista | [conceptos de liquidación](../Liquidacion-de-sueldos/conceptos-de-liquidacion.md) |
 | Recibo de sueldo | Payslip, pay stub | El comprobante de cada pago | [recibo de sueldo](../Liquidacion-de-sueldos/recibo-de-sueldo.md) |
@@ -88,14 +88,21 @@ Las cifras, los plazos y las discrepancias viven en la nota de cada término. El
 
 | Término | Inglés | Qué es | Dónde |
 |---|---|---|---|
+| ARCA | — | El organismo nacional ante el que el empleador da de alta a los trabajadores y declara cargas y retenciones | [relación laboral en la Argentina](../Legajo/relacion-laboral-en-argentina.md) |
+| CUIT y CUIL | — | La clave que identifica al empleador ante ARCA y la que identifica al trabajador; las dos van en el recibo | [recibo de sueldo](../Liquidacion-de-sueldos/recibo-de-sueldo.md) |
+| Alta temprana | — | El alta del trabajador en Simplificación Registral, el servicio de ARCA, desde el primer día (art. 92 bis LCT) | [ingreso y egreso](../Legajo/ingreso-y-egreso.md) |
 | LCT | — | La Ley de Contrato de Trabajo 20.744, cambiada por la Ley 27.802 | [relación laboral en la Argentina](../Legajo/relacion-laboral-en-argentina.md) |
 | Convenio colectivo (CCT) | Collective agreement | El acuerdo que fija categorías y escalas de una actividad | [relación laboral en la Argentina](../Legajo/relacion-laboral-en-argentina.md) |
 | Certificado de trabajo | — | La constancia que se entrega al terminar la relación (art. 80 LCT) | [relación laboral en la Argentina](../Legajo/relacion-laboral-en-argentina.md) |
 | Aguinaldo (SAC) | Thirteenth-month pay | El sueldo anual complementario, en dos cuotas (arts. 121 a 123 LCT) | [liquidación en la Argentina](../Liquidacion-de-sueldos/liquidacion-en-argentina.md) |
+| Salario Mínimo Vital y Móvil | — | El salario mínimo legal; la nota lo usa como base de topes, como el de la comida fuera del establecimiento | [liquidación en la Argentina](../Liquidacion-de-sueldos/liquidacion-en-argentina.md) |
 | Suma no remunerativa | — | Un pago excluido de la base de aportes y contribuciones | [liquidación en la Argentina](../Liquidacion-de-sueldos/liquidacion-en-argentina.md) |
 | Cuenta sueldo | — | La cuenta del trabajador donde se acredita el sueldo (art. 124 LCT) | [liquidación en la Argentina](../Liquidacion-de-sueldos/liquidacion-en-argentina.md) |
 | Fondo de Asistencia Laboral (FAL) | — | Fondo del empleador para pagar indemnizaciones (Ley 27.802, arts. 58 a 77) | [liquidación en la Argentina](../Liquidacion-de-sueldos/liquidacion-en-argentina.md) |
 | SIPA, obra social y ART | — | Jubilación, salud y seguro de riesgos del trabajo | [cargas sociales en la Argentina](../Cargas-y-declaraciones/cargas-sociales-en-argentina.md) |
+| SICOSS | — | El aplicativo de ARCA que arma el formulario 931, junto con «Declaración en línea» | [cargas sociales en la Argentina](../Cargas-y-declaraciones/cargas-sociales-en-argentina.md) |
+| REPSAL | — | El registro de sanciones laborales; sus empleadores quedan fuera del régimen de incentivo a empleos nuevos | [cargas sociales en la Argentina](../Cargas-y-declaraciones/cargas-sociales-en-argentina.md) |
 | F. 931 | — | La declaración jurada mensual de aportes y contribuciones ante ARCA | [cargas sociales en la Argentina](../Cargas-y-declaraciones/cargas-sociales-en-argentina.md) |
 | Cuarta categoría | — | Las ganancias del empleo, sobre las que retiene el empleador | [Ganancias sobre sueldos en la Argentina](../Cargas-y-declaraciones/ganancias-sobre-sueldos-en-argentina.md) |
-| Libro de sueldos digital | — | El libro del art. 52 LCT llevado en el sistema de ARCA | [libro de sueldos digital](../Cargas-y-declaraciones/libro-de-sueldos-digital.md) |
+| SiRADIG | — | El sistema de ARCA por el que el empleado informa al empleador sus deducciones de Ganancias (formulario 572 web) | [Ganancias sobre sueldos en la Argentina](../Cargas-y-declaraciones/ganancias-sobre-sueldos-en-argentina.md) |
+| Libro de sueldos digital | — | El sistema de ARCA del que salía el libro del art. 52 LCT; su situación tras la Ley 27.802 está en la nota | [libro de sueldos digital](../Cargas-y-declaraciones/libro-de-sueldos-digital.md) |

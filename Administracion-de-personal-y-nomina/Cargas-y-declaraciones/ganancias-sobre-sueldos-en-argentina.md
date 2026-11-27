@@ -40,7 +40,7 @@ La escala del art. 94 tiene nueve alícuotas: 5, 9, 12, 15, 19, 23, 27, 31 y 35 
 
 ## Cómo calcula la retención el empleador
 
-La retención es acumulativa: cada mes se mira el año hasta ese mes, no el mes solo. Es inferencia de esta base, porque el texto de la RG 4003 que describe el cálculo no se leyó entero, pero la sostiene que ARCA publique las deducciones acumuladas mes por mes: en julio de 2026, la ganancia no imponible acumulada es de 3.077.540,53 (ARCA, PDF de julio a diciembre). Así, el empleador tomaría la ganancia del año hasta el mes, restaría las deducciones acumuladas, aplicaría la escala y retendría la diferencia con lo ya retenido.
+La retención es acumulativa: cada mes se mira el año acumulado hasta ese mes. Es inferencia de esta base, porque el texto de la RG 4003 que describe el cálculo no se leyó entero. La sostiene que ARCA publique las deducciones acumuladas mes por mes: en julio de 2026, la ganancia no imponible acumulada es de 3.077.540,53 (ARCA, PDF de julio a diciembre). Así, el empleador tomaría la ganancia del año hasta el mes, restaría las deducciones acumuladas, aplicaría la escala y retendría la diferencia con lo ya retenido.
 
 > [!NOTE]
 > Sin fuente todavía: el procedimiento de cálculo mensual de la RG 4003, la lista vigente de conceptos exentos del art. 26 de la ley del impuesto y el tratamiento del aguinaldo y de las horas extra.
@@ -49,7 +49,7 @@ La retención es acumulativa: cada mes se mira el año hasta ese mes, no el mes 
 
 «El SiRADIG es el Sistema de Registro y Actualización de Deducciones del Impuesto a las Ganancias. Permite a los empleados transmitir a sus empleadores la información [...] El trabajador presenta el F. 572 web con los conceptos a deducir, las percepciones que le hubieran practicado o los ingresos extra que tuviera en caso de tener otro empleo» (ARCA). Con eso el empleador sabe qué cargas de familia, qué gastos deducibles y qué otros ingresos tiene que considerar.
 
-En el legajo, cada presentación del F.572 es una novedad con fecha: cambia la retención desde el mes que informa, y la liquidación anual la toma completa (inferencia de esta base).
+En el legajo, cada presentación del F.572 es una novedad con fecha: cambia la retención desde el mes que informa y la liquidación anual la toma completa (inferencia de esta base).
 
 > [!NOTE]
 > Sin fuente todavía: el plazo del empleado para presentar el F.572 web (la prensa habla del 31 de marzo, sin que se haya abierto la fuente) y el art. 8 de la RG 4003.
@@ -77,9 +77,9 @@ El Manual del F.1359 trae además los topes de otras deducciones para 2026: segu
 
 ## La liquidación anual, final e informativa
 
-El agente de retención practica una liquidación anual, final o informativa por cada empleado; la anual, «hasta el último día hábil del mes de abril» del año siguiente (RG 4003, art. 21). Como criterio de esta base, la final corresponde al fin de la relación. La final y la informativa se presentan «dentro de los 5 (CINCO) días hábiles inmediatos siguientes de realizada» (Manual del F.1359).
+El agente de retención practica una liquidación anual, final o informativa por cada empleado. La anual se practica «hasta el último día hábil del mes de abril» del año siguiente (RG 4003, art. 21). Como criterio de esta base, la final corresponde al fin de la relación. La final y la informativa se presentan «dentro de los 5 (CINCO) días hábiles inmediatos siguientes de realizada» (Manual del F.1359).
 
-Las tres se presentan en el formulario 1359. La versión 2.0 «surge como consecuencia de las modificaciones establecidas por la Resolución General ARCA 5683/2025» y es obligatoria desde el período fiscal 2025; la versión 1.0 sirvió solo para 2024, y el F.1357, de 2018 a 2023 (Manual del F.1359). Es un archivo de texto (o comprimido) con 8 tipos de registro, que se presenta por el servicio «Presentación de DDJJ y Pagos» con clave fiscal nivel 2 o por webservice, con el nombre `F1359.<CUIT>.<PERIODO>.<SECUENCIA>.txt`. «NO SE ACEPTARÁN RECTIFICATIVAS POR NOVEDAD», y el resultado le llega al empleado en el SiRADIG.
+Las tres se presentan en el formulario 1359. La versión 2.0 «surge como consecuencia de las modificaciones establecidas por la Resolución General ARCA 5683/2025» y es obligatoria desde el período fiscal 2025. La versión 1.0 sirvió solo para 2024, y el F.1357, de 2018 a 2023 (Manual del F.1359). Es un archivo de texto (o comprimido) con 8 tipos de registro, que se presenta por el servicio «Presentación de DDJJ y Pagos» con clave fiscal nivel 2 o por webservice, con el nombre `F1359.<CUIT>.<PERIODO>.<SECUENCIA>.txt`. «NO SE ACEPTARÁN RECTIFICATIVAS POR NOVEDAD», y el resultado le llega al empleado en el SiRADIG.
 
 Para un sistema, el cambio de formulario según el período obliga a guardar con qué versión se presentó cada año: una rectificativa de 2023 va en F.1357, aunque hoy rija el F.1359 (inferencia de esta base sobre las fechas del manual). La liquidación final es parte de la [liquidación final](../Liquidacion-de-sueldos/liquidacion-final.md) de quien se va.
 
