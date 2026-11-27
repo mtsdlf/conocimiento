@@ -30,7 +30,7 @@ No hay una definición de consenso. Zablah, Bellenger y Johnston (2004) distingu
 
 Este tema escribe desde la segunda lectura, porque su lector construye software de gestión. La primera importa porque explica por qué un sistema bien hecho puede fracasar igual: si la empresa no decidió a qué clientes cuidar ni cambió cómo trabaja, el registro no lo resuelve (ver [mitos del CRM](mitos-del-crm.md)).
 
-Hay además una tipología muy repetida que parte el CRM en operativo (automatizar ventas, marketing y atención), analítico (analizar los datos de los clientes) y colaborativo (compartirlos con proveedores y distribuidores). Aparece en Wikipedia, con fuentes de calidad dispar; no se encontró quién la propuso ni una fuente primaria. En esta base, lo operativo de ventas es este tema, lo de atención es Servicio al cliente (todavía no armado) y lo analítico está en [Datos](../../Datos/datos.md) y en [Marketing](../../Marketing/marketing.md).
+Hay además una tipología muy repetida que parte el CRM en operativo (automatizar ventas, marketing y atención), analítico (analizar los datos de los clientes) y colaborativo (compartirlos con proveedores y distribuidores). Aparece en Wikipedia, con fuentes de calidad dispar; no se encontró quién la propuso ni una fuente primaria. En esta base, lo operativo de ventas es este tema, lo de atención es [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md) y lo analítico está en [Datos](../../Datos/datos.md) y en [Marketing](../../Marketing/marketing.md).
 
 > [!NOTE] Sin fuente todavía: quién propuso la tipología operativo, analítico y colaborativo, y los nombres de las cinco perspectivas de Zablah y otros.
 

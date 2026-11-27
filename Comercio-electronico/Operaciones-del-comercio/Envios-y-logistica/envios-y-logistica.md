@@ -21,6 +21,8 @@ Envíos y logística es la parte de las operaciones que saca el pedido del depó
 
 Es el eslabón de [Operaciones del comercio](../operaciones-del-comercio.md) que sigue al pedido y precede a la [devolución](../devoluciones.md). Recibe del [catálogo y stock](../catalogo-y-stock.md) el peso y las medidas de cada variante, que deciden el precio del envío, y le entrega al [checkout](../../Checkout-y-conversion/checkout-y-conversion.md) la cotización que ve el comprador antes de pagar.
 
+Esta vertical es el envío de una tienda online. Lo general de mover mercadería entre lugares está en [Cadena de suministro y logística](../../../Cadena-de-suministro-y-logistica/cadena-de-suministro-y-logistica.md): el [despacho y la entrega](../../../Cadena-de-suministro-y-logistica/Despacho-y-entrega/despacho-y-entrega.md), el [transporte](../../../Cadena-de-suministro-y-logistica/Transporte/transporte.md) y su [costo del flete](../../../Cadena-de-suministro-y-logistica/Transporte/costo-del-flete.md), y la [tercerización logística](../../../Cadena-de-suministro-y-logistica/Red-de-distribucion/tercerizacion-logistica.md).
+
 ## Las capas que mueven un pedido
 
 ```mermaid

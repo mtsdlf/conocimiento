@@ -6,6 +6,8 @@ estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), categoría 10.0 «Acquire, Construct, and Manage Assets», pp. 27-28: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Institute of Asset Management, What is asset management (cita ISO 55000:2014, 3.2.1 y 3.3.1): https://theiam.org/what-is-asset-management/"
+  - "ISO 55000:2014, ficha oficial (retirada el 3 de julio de 2024, reemplazada por ISO 55000:2024; copia de la Wayback Machine, porque iso.org da 403): https://web.archive.org/web/2024/https://www.iso.org/standard/55088.html"
+  - "ISO 55000:2024, Asset management, Vocabulary, overview and principles, ficha oficial (copia de la Wayback Machine): https://web.archive.org/web/2025/https://www.iso.org/standard/83053.html"
   - "Wikipedia, ISO 55000 (resumen secundario, para ISO/TS 55010): https://en.wikipedia.org/wiki/ISO_55000"
   - "Wikipedia, Asset management (resumen secundario): https://en.wikipedia.org/wiki/Asset_management"
   - "ERPNext, Asset (como evidencia de práctica, resumen): https://docs.frappe.io/erpnext/user/manual/en/asset"
@@ -25,7 +27,11 @@ Dentro de [Activos y mantenimiento](../activos-y-mantenimiento.md) es la vertica
 
 ## El activo físico frente al contable
 
-Un mismo equipo tiene dos registros con dueños distintos, como criterio de la base. El físico dice qué es, dónde está y qué le pasó, y es de este tema. El contable dice cuánto costó, cuánto se amortizó y cuánto vale en libros, y es de [activos fijos y amortización](../../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md). La ISO 55000:2014 (3.2.1), citada por el Institute of Asset Management, define activo como «an item, thing or entity that has potential or actual value to an organisation»; la edición 2024, que la reemplazó, no se leyó. Según su resumen en Wikipedia, la serie tiene una guía aparte, la ISO/TS 55010:2019, para alinear la gestión de activos con finanzas y contabilidad.
+Un mismo equipo tiene dos registros con dueños distintos, como criterio de la base. El físico dice qué es, dónde está y qué le pasó, y es de este tema. El contable dice cuánto costó, cuánto se amortizó y cuánto vale en libros, y es de [activos fijos y amortización](../../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md). La ISO 55000:2014 (3.2.1), citada por el Institute of Asset Management, define activo como «an item, thing or entity that has potential or actual value to an organisation».
+
+> [!WARNING] Obsoleto desde 2024-07: esa definición es de la ISO 55000:2014, que según la ficha de la ISO fue retirada el 3 de julio de 2024 y reemplazada por la ISO 55000:2024 («Vocabulary, overview and principles», segunda edición). La definición de la edición vigente no se leyó; el detalle está en [fundamentos](../Fundamentos/fundamentos-de-activos-y-mantenimiento.md).
+
+Según su resumen en Wikipedia, la serie tiene una guía aparte, la ISO/TS 55010:2019, para alinear la gestión de activos con finanzas y contabilidad.
 
 Como criterio de la base, los dos registros no se superponen del todo: un repuesto rotativo o un equipo alquilado se mantienen sin ser bienes de uso, y un terreno es un bien de uso que nadie mantiene. El equipo de un cliente, en el servicio de campo, está solo del lado físico: es la [base instalada](../Servicio-de-campo/base-instalada.md).
 

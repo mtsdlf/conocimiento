@@ -68,4 +68,4 @@ El regulador británico de datos personales (ICO) publicó en octubre de 2023 un
 
 ## Dónde termina el registro de asistencia
 
-La asistencia dice cuántas horas trabajó alguien. La carga de horas por proyecto (en qué proyecto, para qué cliente, si se factura) es del tema Servicios profesionales y proyectos, todavía no escrito. Muchos sistemas piden las dos cosas en una sola hoja de horas. Aun así, la suma de horas por proyecto no reemplaza a la marcación como registro de jornada, porque responde a otra pregunta (inferencia de esta base).
+La asistencia dice cuántas horas trabajó alguien. La carga de horas por proyecto (en qué proyecto, para qué cliente, si se factura) es del [registro de horas](../../Servicios-profesionales-y-proyectos/Registro-de-horas/registro-de-horas.md), del tema Servicios profesionales y proyectos. Muchos sistemas piden las dos cosas en una sola hoja de horas. Aun así, la suma de horas por proyecto no reemplaza a la marcación como registro de jornada, porque responde a otra pregunta (inferencia de esta base).

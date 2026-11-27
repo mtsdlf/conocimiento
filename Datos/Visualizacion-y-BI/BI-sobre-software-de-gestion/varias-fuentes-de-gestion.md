@@ -34,7 +34,7 @@ Es una de las dos razones por las que existe el [BI sobre el software de gestió
 | Planillas | el presupuesto, las metas comerciales, costos estimados, clasificaciones que nadie cargó en el sistema | casi siempre por mes y por categoría |
 | El sistema anterior | la historia previa al cambio de sistema | todas las dimensiones, con claves viejas |
 
-La tabla es lectura de esta base. Dónde termina el CRM frente al módulo de ventas del ERP está en [CRM](../../../Software-de-gestion/Categorias-de-producto/crm.md); qué viaja entre el sistema y la tienda, en [integración con tiendas y marketplaces](../../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/integracion-con-tiendas-y-marketplaces.md).
+La tabla es lectura de esta base. Dónde termina el CRM frente al módulo de ventas del ERP está en [CRM](../../../Software-de-gestion/Categorias-de-producto/crm.md); qué viaja entre el sistema y la tienda, en [integración con tiendas y marketplaces](../../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/integracion-con-tiendas-y-marketplaces.md).
 
 ## Las tres diferencias que hay que resolver
 

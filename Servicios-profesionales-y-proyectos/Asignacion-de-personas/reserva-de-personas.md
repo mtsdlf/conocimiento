@@ -54,7 +54,7 @@ La consecuencia más útil es que dos proyectos pueden tener reserva tentativa s
 
 El mismo sistema ofrece dos modos, configurables por proyecto. En el central, quien administra a las personas cubre los pedidos y quien lleva el proyecto solo acepta o rechaza. En el híbrido, los dos pueden reservar directo. El primero centraliza la decisión; el segundo es más rápido y deja más conflictos para después (lectura de esta base).
 
-Las ausencias entran al mismo tablero: las vacaciones o licencias pendientes aparecen como «Out» para que quien administra a las personas planifique alrededor. Cargar y aprobar esas licencias no es de acá: es de la asistencia, del tema Administración de personal y nómina.
+Las ausencias entran al mismo tablero: las vacaciones o licencias pendientes aparecen como «Out» para que quien administra a las personas planifique alrededor. Cargar y aprobar esas licencias no es de acá: es de [licencias y ausencias](../../Administracion-de-personal-y-nomina/Tiempo-y-asistencia/licencias-y-ausencias.md), en Administración de personal y nómina.
 
 ## Conflictos entre proyectos
 

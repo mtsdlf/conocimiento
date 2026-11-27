@@ -111,4 +111,5 @@ El documento del despacho, que junta lo que sale y recorre estados hasta la entr
 
 - [Modos de transporte](modos-de-transporte.md): camión, ferrocarril, barco, avión y ducto comparados; carga completa o consolidada; intermodal; el contenedor, el TEU y el marítimo.
 - [Costo del flete](costo-del-flete.md): de qué se arma la tarifa, el peso facturable, los recargos, cómo se contrata (contrato, spot, licitación) y la auditoría de fletes.
+- [Flujo de entrada](flujo-de-entrada.md): el viaje de lo comprado hasta el muelle: quién contrata el flete, el aviso de despacho, los turnos de descarga, cómo se mide la entrada y el costo de llegada.
 - [Consolidación y ruteo](consolidacion-y-ruteo.md): qué carga va junta y cuándo sale; el problema de ruteo de vehículos, el algoritmo de ahorros y lo que se sabe de cuánto ahorra; el llenado del vehículo.

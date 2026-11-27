@@ -58,7 +58,7 @@ La división funciona si el corte es limpio: unos días antes del vencimiento, e
 
 Un sistema de gestión tiene que poder entregar al contador, por período, el detalle de ventas y compras con su impuesto, las retenciones y percepciones sufridas, y los comprobantes anulados o corregidos (inferencia de la base; ver [registros fiscales](registros-fiscales.md)).
 
-El calendario de cierre (quién entrega qué, en qué día del mes, para que la contabilidad y los impuestos cierren juntos) es el recorrido «del registro al balance» del tema Procesos de negocio (todavía no escrito). Acá queda qué se presenta y cuándo vence.
+El calendario de cierre (quién entrega qué, en qué día del mes, para que la contabilidad y los impuestos cierren juntos) es el recorrido [del registro al balance](../../Procesos-de-negocio/del-registro-al-balance.md#quién-entrega-qué-y-en-qué-día), en Procesos de negocio. Acá queda qué se presenta y cuándo vence.
 
 ## Cuánto cuesta cumplir
 
@@ -98,6 +98,6 @@ Estas fallas son inferencia de la base a partir de los componentes; ninguna fuen
 - [Declaración y pago](declaracion-y-pago.md): autoliquidación, declaración jurada, vencimientos, anticipos, saldo a favor, compensación, devolución y rectificativa.
 - [Fiscalización y sanciones](fiscalizacion-y-sanciones.md): cómo controla el fisco, intereses, multas, prescripción, planes de pago y el agente que no ingresó lo retenido.
 
-Lo argentino (ARCA, la clave fiscal y el calendario de vencimientos) empieza en [impuestos en Argentina](../impuestos-en-argentina.md); la factura electrónica argentina está en [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md), y los saldos de IVA, en [IVA en Argentina](../Impuestos-al-consumo/iva-en-argentina.md). Cómo se registra el impuesto en la contabilidad es de [Contabilidad](../../Contabilidad/contabilidad.md), y pagar y tener la caja para hacerlo, del tema Tesorería y finanzas de la empresa en marcha (todavía no escrito).
+Lo argentino (ARCA, la clave fiscal y el calendario de vencimientos) empieza en [impuestos en Argentina](../impuestos-en-argentina.md); la factura electrónica argentina está en [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md), y los saldos de IVA, en [IVA en Argentina](../Impuestos-al-consumo/iva-en-argentina.md). Cómo se registra el impuesto en la contabilidad es de [Contabilidad](../../Contabilidad/contabilidad.md), y pagar y tener la caja para hacerlo, de [Tesorería](../../Tesoreria/tesoreria.md).
 
 Para leer más: *Paying Taxes 2020*, sección «The advantage of automation» (pp. 20-23), que ordena en cuatro niveles cómo la tecnología cambia el cumplimiento del IVA, de poca tecnología a la declaración y la factura electrónica en tiempo real.

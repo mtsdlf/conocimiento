@@ -21,6 +21,8 @@ La gestión de personas es el ciclo de una persona en la empresa, desde que se l
 
 En el lenguaje de [Liderazgo y dirección](../liderazgo-y-direccion.md), esta vertical es sobre todo dirigir: organizar quién entra, qué se espera de cada uno y cómo se paga. Elige y hace crecer a las personas que forman [Equipos y cultura](../Equipos-y-cultura/equipos-y-cultura.md). Se apoya en [Liderar personas](../Liderar-personas/liderar-personas.md) para la parte de influir (motivar, ganar confianza), y en [Decidir](../Decidir/decidir.md) para cuánto se le delega a cada uno. En una empresa chica no hay un área de recursos humanos: el ciclo entero suele llevarlo el fundador o el jefe directo, y el [Rol del CEO](../Rol-del-CEO/rol-del-ceo.md) incluye armar ese primer equipo.
 
+Lo que esta vertical decide lo registra y lo paga [Administración de personal y nómina](../../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md): la búsqueda y los postulantes, el legajo, el alta y la baja, la asistencia y la liquidación del sueldo. Acá se decide a quién contratar, cuánto pagar y cómo se despide; allá queda el registro y se liquida (decisión de #98). El recorrido entero, de la búsqueda a la baja, está en [de la contratación a la baja](../../Procesos-de-negocio/de-la-contratacion-a-la-baja.md).
+
 ## El ciclo, etapa por etapa
 
 El campo de los recursos humanos ordena su materia por el ciclo de vida del empleado («employee life cycle»), y las notas siguen ese orden. Cada etapa alimenta a la siguiente: lo que se pidió al contratar es lo que se evalúa después, y la evaluación decide el pago.

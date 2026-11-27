@@ -29,7 +29,7 @@ La cifra más repetida del campo es que el 70 % de las iniciativas de cambio fra
 
 Cândido y Santos (2015) llegan a lo mismo para la estrategia en general. Según su abstract, se dice que entre el 50 % y el 90 % de las iniciativas estratégicas fallan, pero «the true rate of implementation failure remains to be determined». Las estimaciones, dicen, se basan en evidencia «outdated, fragmentary, fragile or just absent».
 
-Según resúmenes secundarios, las fuentes más citadas de la cifra son Beer y Nohria (2000) en HBR, que dicen «about 70%», y Kotter (2008). Hughes habría rastreado una cadena hasta un artículo de Pace y Mulvin (2002). La lista exacta de las cinco instancias de Hughes no se obtuvo. El mito está también en [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md).
+Según resúmenes secundarios, las fuentes más citadas de la cifra son Beer y Nohria (2000) en HBR, que dicen «about 70%», y Kotter (2008). Hughes habría rastreado una cadena hasta un artículo de Pace y Mulvin (2002). La lista exacta de las cinco instancias de Hughes no se obtuvo. El mito está también en [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md). Su pariente en los sistemas, que el 70 % de los ERP fracasan, tiene otro origen (un pronóstico de un analista) y está en [mitos del software de gestión](../../Software-de-gestion/Fundamentos/mitos-del-software-de-gestion.md#el-70--de-los-erp-fracasan).
 
 ## Lewin nunca formuló las tres etapas
 

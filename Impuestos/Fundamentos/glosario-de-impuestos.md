@@ -13,6 +13,8 @@ fuentes:
   - "Impuestos/.investigacion/argentina-mapa-y-comercio-exterior.md"
   - "Impuestos/.investigacion/fundamentos.md"
   - "Impuestos/.investigacion/posicion-contraria.md"
+  - "Impuestos/.investigacion/ganancias-de-personas-humanas.md"
+  - "Impuestos/.investigacion/factura-a-con-leyenda.md"
 aliases: [glosario de impuestos, términos tributarios, vocabulario tributario, glosario tributario, tax glossary, tax terms]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -71,6 +73,12 @@ Las cifras, los ejemplos y las discrepancias entre fuentes viven en la nota de c
 | Quebranto | Pérdida impositiva que muchas leyes dejan descontar de las ganancias de años siguientes, con un límite de años. | Tax loss | [Resultado impositivo](../Impuestos-a-la-renta/resultado-impositivo.md) |
 | Impuesto diferido | Reconocimiento contable hoy del impuesto que las diferencias temporarias generarán o ahorrarán. | Deferred tax | [Resultado impositivo](../Impuestos-a-la-renta/resultado-impositivo.md) |
 | Anticipo | Pago a cuenta del impuesto de un período que todavía no terminó. | Advance payment | [Declaración y pago](../Cumplimiento/declaracion-y-pago.md) |
+| Impuesto a la renta de personas | El que grava lo que gana cada individuo, con mínimo no imponible, deducciones personales y escala progresiva. | Personal income tax | [Impuesto a la renta de personas](../Impuestos-a-la-renta/impuesto-a-la-renta-de-personas.md) |
+| Impuesto global | Suma todas las rentas de la persona y les aplica una sola escala. | Global income tax | [Impuesto a la renta de personas](../Impuestos-a-la-renta/impuesto-a-la-renta-de-personas.md) |
+| Impuesto cedular | Grava cada clase de renta por separado, a menudo con tasa fija. | Schedular income tax | [Impuesto a la renta de personas](../Impuestos-a-la-renta/impuesto-a-la-renta-de-personas.md) |
+| Sistema dual | Grava el trabajo con escala progresiva y el capital con una tasa proporcional reducida. | Dual income tax | [Impuesto a la renta de personas](../Impuestos-a-la-renta/impuesto-a-la-renta-de-personas.md) |
+| Mínimo no imponible | Lo que nadie paga: debajo de ese monto el impuesto de la persona es cero. | Tax-free threshold | [Impuesto a la renta de personas](../Impuestos-a-la-renta/impuesto-a-la-renta-de-personas.md) |
+| Tasa marginal | La del último tramo alcanzado; la tasa media es el impuesto dividido la ganancia. | Marginal tax rate | [Impuesto a la renta de personas](../Impuestos-a-la-renta/impuesto-a-la-renta-de-personas.md) |
 
 ## La recaudación en la fuente
 
@@ -84,6 +92,8 @@ Las cifras, los ejemplos y las discrepancias entre fuentes viven en la nota de c
 | Pago a cuenta | Parte del impuesto adelantada por retención, percepción o anticipo, que se resta en la declaración. | Prepayment | [Pagos a cuenta](../Recaudacion-en-la-fuente/pagos-a-cuenta.md) |
 | Saldo a favor | Lo adelantado que supera lo que se debe; se arrastra, se compensa o se pide en devolución. | Credit balance | [Pagos a cuenta](../Recaudacion-en-la-fuente/pagos-a-cuenta.md) |
 | Certificado de exclusión | Autorización del fisco para que no retengan, o retengan menos, durante un tiempo. | Exemption certificate | [Pagos a cuenta](../Recaudacion-en-la-fuente/pagos-a-cuenta.md) |
+| Retención por calificación del emisor | El fisco marca a un vendedor de riesgo y quien le compra retiene el impuesto que facturó. | — | [Recaudación en la fuente](../Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md) |
+| Pago fraccionado | El comprador paga el IVA a una cuenta del vendedor de uso restringido. | Split payment | [Recaudación en la fuente](../Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md) |
 
 ## El cumplimiento
 
@@ -112,6 +122,10 @@ Las cifras, los ejemplos y las discrepancias entre fuentes viven en la nota de c
 | Recategorización | Revisión semestral, en febrero y agosto, de la categoría del monotributista. | — | [Monotributo en marcha](../Obligacion-tributaria/monotributo-en-marcha.md) |
 | Exclusión del monotributo | Salida de pleno derecho del régimen desde el día en que pasa la causal. | — | [Monotributo en marcha](../Obligacion-tributaria/monotributo-en-marcha.md) |
 | Ganancias | Impuesto a la renta de las sociedades: escala de 25 %, 30 % y 35 % y nueve anticipos. | — | [Ganancias en Argentina](../Impuestos-a-la-renta/ganancias-en-argentina.md) |
+| Ganancias de personas humanas | Cuatro categorías, escala del art. 94 del 5 % al 35 %, cedular para el capital y cinco anticipos del 20 %. | — | [Ganancias de personas humanas en Argentina](../Impuestos-a-la-renta/ganancias-de-personas-humanas-en-argentina.md) |
+| Categorías de Ganancias | Primera (alquileres), segunda (capitales), tercera (empresas) y cuarta (trabajo personal). | — | [Ganancias de personas humanas en Argentina](../Impuestos-a-la-renta/ganancias-de-personas-humanas-en-argentina.md) |
+| Deducción especial | La del art. 30, inc. c: para quien trabaja por su cuenta, con los aportes de autónomo pagos. | — | [Ganancias de personas humanas en Argentina](../Impuestos-a-la-renta/ganancias-de-personas-humanas-en-argentina.md) |
+| Factura A con leyenda | La A con «OPERACIÓN SUJETA A RETENCIÓN» que reemplazó a la M: el comprador inscripto retiene el 100 % del IVA y el 6 % de Ganancias. | — | [Factura A con leyenda en Argentina](../Recaudacion-en-la-fuente/factura-a-con-leyenda-en-argentina.md) |
 | Ingresos Brutos | Impuesto provincial sobre lo facturado, sin crédito: es un impuesto en cascada. | Gross receipts tax | [Ingresos Brutos](../Impuestos-al-consumo/ingresos-brutos.md) |
 | Convenio Multilateral | Reparte la base de Ingresos Brutos entre las provincias donde opera una empresa. | — | [Ingresos Brutos](../Impuestos-al-consumo/ingresos-brutos.md) |
 | SIRCREB | Sistema por el que los bancos retienen Ingresos Brutos sobre las acreditaciones. | — | [Retenciones y percepciones en Argentina](../Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md) |

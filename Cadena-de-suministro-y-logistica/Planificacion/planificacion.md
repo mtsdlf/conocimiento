@@ -17,7 +17,7 @@ revisado: 2026-11-27
 
 La planificación de la cadena es la parte que decide, por período, cuánto se va a vender y cuánto hace falta tener, comprar, producir y mandar a cada lugar. Se arma como una jerarquía de planes: arriba, pocos números por familia y a meses o años; abajo, muchos números por artículo, lugar y semana.
 
-Es la primera de las cinco partes de [Cadena de suministro y logística](../cadena-de-suministro-y-logistica.md). Le dice a la [Red de distribución](../Red-de-distribucion/red-de-distribucion.md) cuánto mover y adónde, y fija cuánto comprar y cuánto producir, que ejecutan Compras y abastecimiento y Producción (temas todavía no armados). Recibe de [Despacho y entrega](../Despacho-y-entrega/despacho-y-entrega.md) lo entregado y lo devuelto, que es la historia con la que se pronostica.
+Es la primera de las cinco partes de [Cadena de suministro y logística](../cadena-de-suministro-y-logistica.md). Le dice a la [Red de distribución](../Red-de-distribucion/red-de-distribucion.md) cuánto mover y adónde, y fija cuánto comprar y cuánto producir, que ejecutan [Compras y abastecimiento](../../Compras-y-abastecimiento/compras-y-abastecimiento.md) y [Producción](../../Produccion/produccion.md). Recibe de [Despacho y entrega](../Despacho-y-entrega/despacho-y-entrega.md) lo entregado y lo devuelto, que es la historia con la que se pronostica.
 
 ## El mapa de procesos: APQC 4.1
 
@@ -34,9 +34,9 @@ Los planes se encadenan de arriba hacia abajo. Las diapositivas de MIT 2.854 lo 
 | Nivel | Horizonte y detalle, según la fuente | Plan | Dónde está |
 |---|---|---|---|
 | Largo plazo | «six months to five years», recalculado de «1/month to 1/year», con detalle de «part family» (MIT) | pronóstico agregado, recursos, plan agregado | [pronóstico de demanda](pronostico-de-demanda.md), [plan de ventas y operaciones](plan-de-ventas-y-operaciones.md) |
-| Plazo intermedio | gestión de la demanda, que «converts long range forecast and actual orders into detailed forecast» (MIT) | plan maestro y capacidad gruesa (MIT); el MRP lo ubica acá la base | Producción, todavía no armado |
+| Plazo intermedio | gestión de la demanda, que «converts long range forecast and actual orders into detailed forecast» (MIT) | plan maestro y capacidad gruesa (MIT); el MRP lo ubica acá la base | Producción: [plan maestro](../../Produccion/Planificacion-de-la-produccion/plan-maestro-de-produccion.md) y [planificación de capacidad](../../Produccion/Planificacion-de-la-produccion/planificacion-de-capacidad.md) |
 | Plazo intermedio, sin fábrica | por artículo, depósito y semana | plan de distribución (DRP) | [planificación de la distribución](planificacion-de-la-distribucion.md) |
-| Corto plazo | plan diario y control de planta (MIT) | qué se despacha o produce hoy | Producción; en lo de este tema, [despacho](../Despacho-y-entrega/despacho.md) |
+| Corto plazo | plan diario y control de planta (MIT) | qué se despacha o produce hoy | Producción, en [programación de planta](../../Produccion/Ejecucion-en-planta/programacion-de-planta.md); en lo de este tema, [despacho](../Despacho-y-entrega/despacho.md) |
 
 La fila del DRP no está en las diapositivas de MIT, que son de una fábrica; la ubica la base en el mismo nivel que el MRP porque usa la misma cuenta. Para el S&OP, la única cifra de horizonte con fuente es de 18 meses, de un caso (está en su nota).
 
@@ -48,12 +48,12 @@ Los niveles fallan en las costuras. MIT lo dice así: «The high level and low l
 
 - El pronóstico lo hacen ventas y un planificador de la demanda; el glosario del CSCMP llama a esa función demand planning: «identifying, aggregating, and prioritizing, all sources of demand». Ver [pronóstico de demanda](pronostico-de-demanda.md).
 - El plan agregado lo acuerdan ventas, operaciones y finanzas en el S&OP, que según el CSCMP busca «agree on a single plan/forecast that can be used to drive the entire business». Ver [plan de ventas y operaciones](plan-de-ventas-y-operaciones.md).
-- El plan por artículo lo calcula el sistema y lo revisa un planificador: el plan maestro y el MRP en Producción, el DRP en este tema.
-- La compra y la orden quedan para Compras y abastecimiento: el plan dice cuánto y cuándo; a quién y a qué precio, no.
+- El plan por artículo lo calcula el sistema y lo revisa un planificador: el [plan maestro](../../Produccion/Planificacion-de-la-produccion/plan-maestro-de-produccion.md) y el [MRP](../../Produccion/Planificacion-de-la-produccion/mrp.md) en Producción, el DRP en este tema.
+- La compra y la [orden](../../Compras-y-abastecimiento/Orden-de-compra/orden-de-compra.md) quedan para Compras y abastecimiento: el plan dice cuánto y cuándo; a quién y a qué precio, no.
 
 ## Dónde corta con Producción y con Inventario
 
-Con Producción, el S&OP fija cuánto producir por familia y por mes; el plan maestro lo baja a artículos y semanas, y el MRP lo explota en componentes con la lista de materiales. El plan maestro y el MRP son de Producción, todavía no armado. El DRP usa la misma cuenta de neteo, pero entre depósitos en lugar de entre niveles de una lista de materiales.
+Con Producción, el S&OP fija cuánto producir por familia y por mes; el plan maestro lo baja a artículos y semanas, y el MRP lo explota en componentes con la lista de materiales. El [plan maestro](../../Produccion/Planificacion-de-la-produccion/plan-maestro-de-produccion.md) y el [MRP](../../Produccion/Planificacion-de-la-produccion/mrp.md) son de Producción, que cuenta desde su lado el traspaso en [planificación de la producción](../../Produccion/Planificacion-de-la-produccion/planificacion-de-la-produccion.md#dónde-empieza-el-plan-agregado-es-de-cadena). El DRP usa la misma cuenta de neteo, pero entre depósitos en lugar de entre niveles de una lista de materiales.
 
 Con Inventario, la reposición va artículo por artículo y mira la posición de stock, con [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md) y [lote económico](../../Inventario-y-depositos/Reposicion/lote-economico.md): ver [reposición](../../Inventario-y-depositos/Reposicion/reposicion.md). Este tema planifica por períodos hacia adelante y para varios lugares a la vez. El colchón contra el error del pronóstico se calcula allá, en [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md); el error se mide acá.
 

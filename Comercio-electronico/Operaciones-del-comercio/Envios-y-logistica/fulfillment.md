@@ -18,7 +18,7 @@ revisado:
 
 El fulfillment (guarda de stock tercerizada) es el servicio en el que un operador guarda el stock del comercio en su depósito, prepara cada pedido cuando entra la venta y lo despacha. Se cobra por almacenar, por preparar cada pedido y por despachar, y suele pedir un volumen mínimo; el de un marketplace solo sirve para lo que se vende en ese marketplace.
 
-Es la capa de [envíos y logística](envios-y-logistica.md) que está antes del transportista. El nombre se confunde con el cumplimiento del pedido en general, que en [operaciones del comercio](../operaciones-del-comercio.md#el-pedido-y-su-cumplimiento) es el registro de lo que salió; acá es el servicio de un tercero que hace ese trabajo físico.
+Es la capa de [envíos y logística](envios-y-logistica.md) que está antes del transportista. El nombre se confunde con el cumplimiento del pedido en general, que en [operaciones del comercio](../operaciones-del-comercio.md#el-pedido-y-su-cumplimiento) es el registro de lo que salió; acá es el servicio de un tercero que hace ese trabajo físico. Tercerizar la logística en cualquier empresa, no solo en una tienda, está en [tercerización logística](../../../Cadena-de-suministro-y-logistica/Red-de-distribucion/tercerizacion-logistica.md), y el trabajo dentro del depósito, en [preparación de pedidos](../../../Inventario-y-depositos/Operacion-del-deposito/preparacion-de-pedidos.md).
 
 ## Qué se cobra
 

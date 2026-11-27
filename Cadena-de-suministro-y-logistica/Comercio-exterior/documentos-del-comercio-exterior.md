@@ -58,7 +58,7 @@ No todo documento marítimo transfiere la mercadería. Según la misma fuente:
 - A la orden: se endosa, y por eso se puede negociar o dar en garantía. Es el que funciona como título.
 - Sea waybill (guía marítima no negociable): «gives the bearer the right to possession of the cargo, but does not confer title». Como no es título, no hace falta presentar el original para retirar la carga.
 
-La elección importa para el pago. Un banco que financia la operación quiere un documento que represente la mercadería, y eso es el conocimiento a la orden (lectura de la base). Cómo se usa en una carta de crédito es de Tesorería y finanzas de la empresa en marcha, todavía no armado.
+La elección importa para el pago. Un banco que financia la operación quiere un documento que represente la mercadería, y eso es el conocimiento a la orden (lectura de la base). Cómo lo examina el banco en una [carta de crédito](carta-de-credito.md#la-presentación-conforme-y-sus-plazos), y por qué la [cobranza documentaria](cobranza-documentaria.md#cuándo-conviene) no sirve con un documento que no es título, está en sus notas.
 
 ## El documento electrónico transmisible
 

@@ -89,7 +89,7 @@ La respuesta corta para quien pregunta «si gané, ¿dónde está la plata?» es
 
 ## A quién le toca cada pregunta
 
-Para una empresa que empieza, la pregunta que decide si sigue viva es la de caja: cuántos meses le dura la plata (criterio de la base, no de las fuentes de esta nota). Esa pregunta, con la pista y el consumo mensual, vive en [Finanzas de Emprender](../../Emprender/Finanzas/finanzas.md), que usa la distinción entre caja y resultado y la tiene explicada acá. Cobrar, pagar y cuidar la posición de caja de una empresa en marcha va al tema Tesorería y finanzas de la empresa en marcha, todavía no escrito.
+Para una empresa que empieza, la pregunta que decide si sigue viva es la de caja: cuántos meses le dura la plata (criterio de la base, no de las fuentes de esta nota). Esa pregunta, con la pista y el consumo mensual, vive en [Finanzas de Emprender](../../Emprender/Finanzas/finanzas.md), que usa la distinción entre caja y resultado y la tiene explicada acá. Cobrar, pagar y cuidar la posición de caja de una empresa en marcha está en [Tesorería](../../Tesoreria/tesoreria.md).
 
 Para quien construye un sistema, el devengado pide registrar la factura y el cobro como dos hechos con fechas propias, y poder emitir los dos informes desde el mismo registro (inferencia de la base). Cómo se registra una venta a plazo de punta a punta está en [ingresos y cuentas a cobrar](../Operaciones/ingresos-y-cuentas-a-cobrar.md).
 

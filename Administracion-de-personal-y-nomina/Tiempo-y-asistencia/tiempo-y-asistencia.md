@@ -49,7 +49,7 @@ Lo que fija la ley argentina (jornada, recargos, descanso, banco de horas, vacac
 
 ## Dónde termina la asistencia
 
-La asistencia dice que alguien trabajó ocho horas un martes. En qué proyecto las trabajó y a qué cliente se le facturan es la carga de horas por proyecto, del tema Servicios profesionales y proyectos, todavía no escrito. Las dos pueden salir de la misma pantalla, pero responden preguntas distintas. La asistencia alimenta el recibo y el cumplimiento de los límites de jornada; la carga de horas, el costo y la factura del proyecto.
+La asistencia dice que alguien trabajó ocho horas un martes. En qué proyecto las trabajó y a qué cliente se le facturan es la carga de horas por proyecto, en [registro de horas](../../Servicios-profesionales-y-proyectos/Registro-de-horas/registro-de-horas.md), del tema Servicios profesionales y proyectos. Las dos pueden salir de la misma pantalla, pero responden preguntas distintas. La asistencia alimenta el recibo y el cumplimiento de los límites de jornada; la carga de horas, el costo y la factura del proyecto.
 
 La política de vacaciones o de trabajo remoto de la empresa la decide [Gestión de personas](../../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md). Acá se registra lo que esa política dice y lo que cada empleado hizo.
 

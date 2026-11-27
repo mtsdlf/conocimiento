@@ -18,7 +18,7 @@ revisado:
 
 El costo del envío es lo que paga el comercio al transportista por cada paquete, y se arma con el peso (el real o el volumétrico, el mayor), la distancia, el servicio, el valor declarado y los ajustes posteriores. Lo que paga el comprador puede ser menos, nada si el envío es gratis, o una cotización que no coincide con el costo real: la diferencia la pone el comercio.
 
-Es la cuenta que hay detrás de [transportistas y agregadores](transportistas-y-agregadores.md). Los precios de un envío tipo en Argentina están en [envíos en Argentina](envios-en-argentina.md#el-mismo-kilo-por-cada-vía).
+Es la cuenta que hay detrás de [transportistas y agregadores](transportistas-y-agregadores.md). Los precios de un envío tipo en Argentina están en [envíos en Argentina](envios-en-argentina.md#el-mismo-kilo-por-cada-vía). El costo del flete visto desde cualquier cargador, no solo desde una tienda, está en [costo del flete](../../../Cadena-de-suministro-y-logistica/Transporte/costo-del-flete.md).
 
 ## De qué se arma el precio
 

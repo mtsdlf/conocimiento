@@ -72,6 +72,6 @@ Otros adquirentes, todos según la misma nota de iProUP de enero de 2026 (C3, si
 | Fudo (gastronomía) | sí, con terminal de pagos integrada | sí | tienda online propia | C3 |
 | YoFacturo (kioscos) | sí; $20.000 por mes con 1 punto de venta y 500 productos; factura los cobros de Point | sí | no relevado | C3 |
 
-Los precios completos y las integraciones de cada sistema están en [sistemas de gestión en Argentina](../../Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion-en-argentina.md).
+Los precios completos y las integraciones de cada sistema están en [sistemas de gestión en Argentina](../../Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-argentina.md).
 
 > [!NOTE] Sin fuente todavía: el precio del punto de venta extra de Tiendanube en Argentina; si el POS de Tiendanube se integra con Point; las comisiones oficiales de Getnet, Nave, Payway y Ualá Bis; el POS de Tango y de Bsale; reseñas codificables del POS de las plataformas y de los lectores (no hay una masa pública).

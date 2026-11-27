@@ -20,7 +20,7 @@ revisado: 2026-11-27
 
 Hacer o comprar es la decisión de producir adentro algo que la empresa necesita o comprárselo a un proveedor. La teoría de los costos de transacción la explica por la especificidad de lo que se intercambia, y la práctica la decide con la estrategia del negocio, el riesgo y el costo total, no solo con el precio.
 
-Es previa a cotizar y a negociar en [Abastecimiento estratégico](abastecimiento-estrategico.md): si se hace adentro, no hay nada que [cotizar](cotizacion-y-licitacion.md) ni [negociar](negociacion-de-compras.md). CIPS la pone en el paso 2 de su ciclo, «Market analysis and make or buy decision»; APQC pone la política de tercerizar en la planificación, en 4.1.1.3 «Define outsourcing policies», fuera de compras. La subcontratación de una etapa de la fabricación, como paso del plan de producción, es del tema Producción, todavía no armado; acá va la decisión de abastecimiento.
+Es previa a cotizar y a negociar en [Abastecimiento estratégico](abastecimiento-estrategico.md): si se hace adentro, no hay nada que [cotizar](cotizacion-y-licitacion.md) ni [negociar](negociacion-de-compras.md). CIPS la pone en el paso 2 de su ciclo, «Market analysis and make or buy decision»; APQC pone la política de tercerizar en la planificación, en 4.1.1.3 «Define outsourcing policies», fuera de compras. La subcontratación de una etapa de la fabricación, como paso del plan de producción, está en [subcontratación](../../Produccion/Ejecucion-en-planta/subcontratacion.md), de Producción; acá va la decisión de abastecimiento.
 
 ## Lo que explican los costos de transacción
 

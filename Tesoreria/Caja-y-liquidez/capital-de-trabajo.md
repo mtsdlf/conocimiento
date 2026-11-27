@@ -28,7 +28,7 @@ Es la pieza de [Caja y liquidez](caja-y-liquidez.md) que explica por qué una em
 
 OpenStax define el capital de trabajo como lo que hace falta para la operación de todos los días: «Working capital describes the resources that are needed to meet the daily, weekly, and monthly operating cash flow needs». La medida contable es el capital de trabajo neto: «NWC = Current Assets - Current Liabilities» (*Principles of Finance*, 19.1).
 
-Para la tesorería pesan tres renglones del balance. El stock y las cuentas a cobrar son plata que ya salió o que ya se ganó y todavía no entró. Las cuentas a pagar son plata que la empresa usa y todavía no pagó. Cada uno tiene su vertical: lo que deben los clientes es de [Crédito y cobranzas](../Credito-y-cobranzas/credito-y-cobranzas.md), lo que se debe a los proveedores es de [Pagos a proveedores](../Pagos-a-proveedores/pagos-a-proveedores.md) y el stock es del tema Inventario y depósitos, todavía no escrito.
+Para la tesorería pesan tres renglones del balance. El stock y las cuentas a cobrar son plata que ya salió o que ya se ganó y todavía no entró. Las cuentas a pagar son plata que la empresa usa y todavía no pagó. Cada uno tiene su vertical: lo que deben los clientes es de [Crédito y cobranzas](../Credito-y-cobranzas/credito-y-cobranzas.md), lo que se debe a los proveedores es de [Pagos a proveedores](../Pagos-a-proveedores/pagos-a-proveedores.md) y el stock es de [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md).
 
 ## El ciclo de conversión del efectivo
 
