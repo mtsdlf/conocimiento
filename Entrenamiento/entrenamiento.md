@@ -51,6 +51,7 @@ flowchart LR
 - Si querés rendir más, coordinar mejor y cuidar la salud: [rendir y coordinar](rendir-y-coordinar.md), [cuánto ejercicio](cuanto-ejercicio.md) y [fuerza y cardio](fuerza-y-cardio.md).
 - Si buscás un cambio estético: [estética y entrenamiento](estetica-y-entrenamiento.md) y, en Nutrición, [estética](../Nutricion/Objetivos-del-adulto/estetica.md).
 - Si estás por empezar o volver después de mucho tiempo: [dolor y lesiones](dolor-y-lesiones.md), [cuánto ejercicio](cuanto-ejercicio.md) y [elegir un plan o un entrenador](elegir-plan-o-entrenador.md).
+- Si arrancás de cero después de años y con poco tiempo, en este orden: [dolor y lesiones](dolor-y-lesiones.md) (antes de empezar), [cuánto ejercicio](cuanto-ejercicio.md), [principios básicos](principios-basicos.md), [fuerza y cardio](fuerza-y-cardio.md) (intervalos) y [elegir un plan o un entrenador](elegir-plan-o-entrenador.md).
 - Si tenés poco tiempo: [fuerza y cardio](fuerza-y-cardio.md) (intervalos) y [principios básicos](principios-basicos.md) (cuánto volumen alcanza).
 - Si te duele algo: [dolor y lesiones](dolor-y-lesiones.md).
 - Si leíste algo en redes que suena demasiado bien: [mitos del entrenamiento](mitos-del-entrenamiento.md).

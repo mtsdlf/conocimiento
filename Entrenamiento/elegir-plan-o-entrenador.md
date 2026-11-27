@@ -29,9 +29,9 @@ Mirá que el plan suba la exigencia de a poco, que trabaje cada grupo grande de 
 
 ## Lo que tiene un programa serio
 
-La pregunta útil no es qué rutina es la mejor, porque la posición de la ACSM sugiere que casi cualquiera funciona si cumple lo básico. La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM), que revisó 137 revisiones sistemáticas, encontró que la mayoría de las variables de una rutina tuvo poco efecto en los resultados. Entrenar al fallo, el tipo de equipo, la complejidad de los ejercicios y la periodización no tuvieron un efecto consistente ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/)).
+La pregunta útil no es qué rutina es la mejor, porque la posición de la ACSM sugiere que casi cualquiera funciona si cumple lo básico. La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM), que revisó 137 revisiones sistemáticas, encontró que la mayoría de las variables de una rutina tuvo poco efecto en los resultados. Entrenar al fallo (hasta no poder hacer otra repetición), el tipo de equipo, la complejidad de los ejercicios y la periodización (organizar el entrenamiento en etapas con cargas que cambian) no tuvieron un efecto consistente ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/)).
 
-Lo que sí pesó: cargas altas, 2 a 3 series por ejercicio y al menos 2 sesiones por semana para la fuerza; al menos 10 series por semana para el músculo. La conclusión es que los adultos sanos deben hacer fuerza progresiva con prescripciones variadas. Según el comunicado de la ACSM, bandas, peso corporal y rutinas en casa también dan beneficios notables.
+Lo que sí pesó: cargas altas, 2 a 3 series por ejercicio (una serie es un bloque de repeticiones seguidas) y al menos 2 sesiones por semana para la fuerza; al menos 10 series por semana para el músculo. La conclusión es que los adultos sanos deben hacer fuerza progresiva con prescripciones variadas. Según el comunicado de la ACSM, bandas, peso corporal y rutinas en casa también dan beneficios notables.
 
 Un plan serio, entonces, cumple con [principios básicos](principios-basicos.md) y entra en tu semana. Uno que pide seis días si tenés tres, o que cambia todo cada semana sin progresar, falla por ahí.
 
@@ -50,12 +50,14 @@ Un profesor sirve sobre todo para lo que esta base no enseña: la técnica de ca
 
 En la Ciudad de Buenos Aires, la Ley 139 exige que las actividades en gimnasios estén supervisadas por un profesor o una profesora de educación física con título reconocido por la Ciudad. Su reglamentación pide un profesor presente en el horario de apertura, copia de los títulos del responsable y de los instructores, e instructores formados en reanimación cardiopulmonar y primeros auxilios ([Ley 139](https://boletinoficial.buenosaires.gob.ar/normativaba/norma/1278); [reglamentación](https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-DEC-AJG-AJG-11-22-ANX.pdf)). La exigencia recae sobre quien supervisa el gimnasio; la figura del entrenador personal no aparece regulada como tal en lo encontrado.
 
+> [!NOTE]
+> Sin fuente todavía: el texto consolidado vigente de la Ley 139 con sus cambios posteriores, qué rige fuera de la Ciudad y cómo se reconocen en Argentina las certificaciones extranjeras.
+
+## Requisitos de formación, para quien quiera el detalle
+
 El profesorado de educación física dura cuatro años en los institutos de la Ciudad ([GCBA](https://buenosaires.gob.ar/gcaba_historico/profesorados-y-formacion-en-educacion/profesorado-de-educacion-fisica)); la licenciatura, entre cuatro y cinco.
 
 Las certificaciones de Estados Unidos tienen requisitos de entrada simples. La de entrenador personal del ACSM pide 18 años, secundario completo y reanimación cardiopulmonar ([ACSM](https://www.acsm.org/get-certified/personal-trainer)); la CSCS de la NSCA (Asociación Nacional de Fuerza y Acondicionamiento de Estados Unidos), un título de grado en cualquier campo ([NSCA](https://www.nsca.com/cscs-certification/)). No reemplazan el título que la ley de la Ciudad pide para supervisar un gimnasio.
-
-> [!NOTE]
-> Sin fuente todavía: el texto consolidado vigente de la Ley 139 con sus cambios posteriores, qué rige fuera de la Ciudad y cómo se reconocen en Argentina las certificaciones extranjeras.
 
 ## Qué tan firme es lo que dice esta nota
 

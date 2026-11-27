@@ -33,7 +33,7 @@ Para la salud se suman. En 16 estudios que siguieron a personas durante años si
 
 ## El cardio no come músculo: la interferencia en un adulto común
 
-La idea de que el cardio "come" músculo viene de estudios viejos. Wilson y otros (2012) encontraron menos músculo y fuerza al combinar fuerza con correr, no con bicicleta, sobre todo con mucho cardio por semana. El metaanálisis más nuevo, con 43 estudios, no lo confirma: el cardio sumado a la fuerza «no compromete la hipertrofia ni la fuerza máxima» (en el original: "does not compromise muscle hypertrophy and maximal strength"). El tamaño del efecto fue -0,01 para el músculo y -0,06 para la fuerza máxima, prácticamente cero ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/)).
+La idea de que el cardio "come" músculo viene de estudios viejos. Wilson y otros (2012) encontraron menos músculo y fuerza al combinar fuerza con correr, no con bicicleta, sobre todo con mucho cardio por semana. El metaanálisis más nuevo, con 43 estudios, no lo confirma: el cardio sumado a la fuerza «no compromete la hipertrofia ni la fuerza máxima» (en el original: "does not compromise muscle hypertrophy and maximal strength"; la hipertrofia es el crecimiento del músculo). El tamaño del efecto fue -0,01 para el músculo y -0,06 para la fuerza máxima, prácticamente cero ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/)).
 
 Lo único que se resiente es la fuerza explosiva (saltar, arrancar rápido): -0,28, con un intervalo de confianza (el rango donde probablemente está el valor real) de -0,48 a -0,08. Se resiente más si cardio y fuerza van en la misma sesión que si se separan 3 horas o más. Schumann no encontró diferencia entre correr y pedalear, ni por la edad.
 

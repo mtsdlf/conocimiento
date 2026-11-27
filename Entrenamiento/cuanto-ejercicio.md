@@ -53,7 +53,7 @@ No contradicen a la OMS: ella pone el piso y las cohortes muestran que la mejora
 
 ## La fuerza y el tiempo sentado cuentan aparte
 
-Un metaanálisis (un estudio que junta y recalcula los resultados de varios) de 16 cohortes asoció la fuerza muscular con 10 a 17 % menos riesgo de muerte por todas las causas, enfermedad cardiovascular, cáncer y diabetes. La mayor baja apareció con unos 30 a 60 minutos de fuerza por semana, y combinar fuerza y aeróbico se asoció con menos riesgo que cualquiera de los dos solo ([Momma y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35228201/)). Qué aporta cada uno está en [fuerza y cardio](fuerza-y-cardio.md).
+Un metaanálisis (un estudio que junta y recalcula los resultados de varios) de 16 cohortes asoció la fuerza muscular con 10 a 17 % menos riesgo de muerte por todas las causas, enfermedad cardiovascular, cáncer y diabetes. La mayor baja apareció con unos 30 a 60 minutos de fuerza por semana, y combinar fuerza y aeróbico se asoció con menos riesgo que cualquiera de los dos solo ([Momma y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35228201/)). Qué aporta cada uno está en [fuerza y cardio](fuerza-y-cardio.md); para mejorar la capacidad aeróbica, el equilibrio y la potencia con la edad, ver [rendir y coordinar](rendir-y-coordinar.md).
 
 Estar sentado muchas horas pesa, pero la actividad lo compensa. En un millón de personas, quienes se sentaban más de 8 horas por día y se movían bastante (más de 35,5 MET-hora por semana, una medida de gasto) no tuvieron más mortalidad; el grupo que se sentaba mucho y se movía poco tuvo HR 1,59 ([Ekelund y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/27475271/)). Con acelerómetro, cualquier actividad se asoció con menos mortalidad ([Ekelund y otros, 2019](https://pubmed.ncbi.nlm.nih.gov/31434697/)).
 
@@ -65,7 +65,7 @@ Quien empieza de cero empieza con lo que puede y sube de a poco ([principios bá
 
 ## Lo que estos números no prueban
 
-Casi todo lo de arriba es observacional: muestra que la gente activa vive más, no que el ejercicio sea la única causa. Es razonable pensar (inferencia, no un dato de estos estudios) que quien se mueve más también cuida otros hábitos, como la comida o el cigarrillo. La dirección del efecto es muy consistente; el tamaño exacto de cada cifra es lo menos firme.
+Casi todo lo de arriba es observacional: muestra que la gente activa vive más, no que el ejercicio sea la única causa (si querés ver qué ideas sobre el ejercicio no se sostienen, están en [mitos del entrenamiento](mitos-del-entrenamiento.md)). Es razonable pensar (inferencia, no un dato de estos estudios) que quien se mueve más también cuida otros hábitos, como la comida o el cigarrillo. La dirección del efecto es muy consistente; el tamaño exacto de cada cifra es lo menos firme.
 
 ## Qué tan firme es lo que dice esta nota
 

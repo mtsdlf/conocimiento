@@ -58,7 +58,7 @@ En 20 mujeres jóvenes a dieta que hicieron cardio tres veces por semana durante
 > [!NOTE]
 > Sin fuente todavía: estudios sobre si el dolor muscular tardío indica que el entrenamiento funciona ("sin dolor no hay ganancia"), y sobre si las pesas ponen "voluminosas" a las mujeres.
 
-Lo más cercano: llegar al fallo, que da más malestar durante la serie, no mostró una ventaja clara en músculo frente a quedarse cerca ([Refalo y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36334240/); detalle en [principios básicos](principios-basicos.md)). Es una pista, no una prueba sobre el dolor del día siguiente.
+Lo más cercano: llegar al fallo (hasta no poder hacer otra repetición), que da más malestar durante la serie (un bloque de repeticiones seguidas), no mostró una ventaja clara en músculo frente a quedarse cerca ([Refalo y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36334240/); detalle en [principios básicos](principios-basicos.md)). Es una pista, no una prueba sobre el dolor del día siguiente.
 
 ## Por qué en este campo abundan los mitos
 

@@ -25,7 +25,7 @@ Para bajar grasa y ganar o conservar músculo, el entrenamiento que importa es l
 
 ## Qué hacer con 3 o 4 días por semana
 
-Hacé fuerza con cada grupo grande al menos dos veces por semana y subí el peso de a poco; repartirlo en tus 3 o 4 días es una forma de aplicarlo, no un plan estudiado. Sumá cardio si te gusta o si te sobra tiempo, y caminá más en el día. La grasa la baja el déficit de comida: el entrenamiento de fuerza ayuda a que se pierda menos músculo. Si recién empezás o tenés bastante grasa, podés ganar músculo y perder grasa a la vez; si ya entrenás hace años, eso cuesta más.
+Hacé fuerza con cada grupo grande al menos dos veces por semana y subí el peso de a poco; repartirlo en tus 3 o 4 días es una forma de aplicarlo, no un plan estudiado. Sumá cardio si te gusta o si te sobra tiempo, y caminá más en el día. La grasa la baja el déficit (comer menos energía de la que se gasta; en [pérdida de grasa](../Nutricion/Objetivos-del-adulto/perdida-de-grasa.md) está cuánto) de comida: el entrenamiento de fuerza ayuda a que se pierda menos músculo. Si recién empezás o tenés bastante grasa, podés ganar músculo y perder grasa a la vez; si ya entrenás hace años, eso cuesta más.
 
 ## La fuerza es la que protege el músculo en un déficit
 
@@ -39,7 +39,7 @@ Un déficit largo frena el músculo nuevo pero no la fuerza. En un metaanálisis
 
 Perder grasa y ganar músculo al mismo tiempo es posible con fuerza progresiva, suficiente proteína y un déficit moderado. Según una revisión narrativa de 2026, pasa más en personas sin entrenamiento previo y con más grasa, y menos en las entrenadas o magras ([revisión de recomposición, 2026](https://doi.org/10.1080/15502783.2026.2743880)). La proteína y el resto de la comida para este objetivo están en [masa muscular y recomposición](../Nutricion/Objetivos-del-adulto/masa-muscular-y-recomposicion.md).
 
-Qué hace funcionar la fuerza (progresar, terminar cerca del límite, sumar series) está en [principios básicos](principios-basicos.md). Sumar cardio no le saca músculo a la fuerza: un metaanálisis de 43 estudios no encontró pérdida de músculo ni de fuerza máxima ([Schumann y otros, 2022](https://doi.org/10.1007/s40279-021-01587-7)); el detalle está en [fuerza y cardio](fuerza-y-cardio.md).
+Qué hace funcionar la fuerza (progresar, terminar cerca del límite, sumar series) está en [principios básicos](principios-basicos.md). Si algo duele al entrenar, [dolor y lesiones](dolor-y-lesiones.md) dice cuándo seguir y cuándo parar; y para armar el plan con alguien, [elegir un plan o un entrenador](elegir-plan-o-entrenador.md) dice cómo reconocer uno serio. Sumar cardio no le saca músculo a la fuerza: un metaanálisis de 43 estudios no encontró pérdida de músculo ni de fuerza máxima ([Schumann y otros, 2022](https://doi.org/10.1007/s40279-021-01587-7)); el detalle está en [fuerza y cardio](fuerza-y-cardio.md).
 
 ## Caminar suma salud; para la grasa falta evidencia
 
