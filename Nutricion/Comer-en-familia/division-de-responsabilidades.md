@@ -51,10 +51,10 @@ La evidencia es correlacional y casi toda sale del grupo que impulsa el modelo. 
 | Estudio | Diseño | Qué encontró |
 |---|---|---|
 | Validación del cuestionario sDOR.2-6y | transversal, con preescolares | correlación modesta (r = 0,26, p = 0,03) entre seguir el modelo y menor riesgo nutricional; el cuestionario lo desarrollaron quienes impulsan el modelo |
-| Ensayo piloto de Danaher y colegas (autoría y año sin confirmar), alojado en el sitio del instituto | ensayo piloto, familias con un padre con sobrepeso | menos presión y menos restricción alimentaria que el grupo control, solo en niñas |
+| Ensayo piloto de Danaher y colegas (autoría y año sin confirmar), alojado en el sitio del instituto | ensayo piloto, familias con un padre con sobrepeso | menos presión y menos restricción alimentaria que el grupo control, solo en las chicas |
 | Entrevistas a 40 padres de preescolares | cualitativo | pocos padres seguían el modelo de cerca; los autores piden investigar su relación con la salud del chico |
 
-Una correlación de 0,26 es chica, y un estudio transversal no dice si el modelo mejora la alimentación o si las familias que ya comen bien lo siguen más. Se dice que la Academia Americana de Pediatría respalda el modelo, pero eso tampoco se verificó.
+Una correlación de 0,26 es chica, y un estudio transversal no dice si el modelo mejora la alimentación o si las familias que ya comen bien lo siguen más. Se dice que la Academia Estadounidense de Pediatría respalda el modelo, pero eso tampoco se verificó.
 
 ## Por qué se usa igual
 

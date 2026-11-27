@@ -29,14 +29,14 @@ El término viene del Columbus Group, que en 1991 definió las altas capacidades
 
 La posición de primera infancia de la NAGC habla de un crecimiento "rapid and often asynchronous" y de un desarrollo "varied and uneven physical, social, emotional, and cognitive growth" en los chicos de 3 a 8 años. Según la página de New Jersey, el desfase se nota más en los primeros años de primaria y menos en la secundaria.
 
-Es un marco teórico con ejemplos y opinión de expertos. No hay estudios que midan la asincronía como algo medible en chicos de 2 a 6 años.
+Es un marco teórico con ejemplos y opinión de expertos. No hay estudios que midan la asincronía en chicos de 2 a 6 años.
 
 ## Adelantado en lo cognitivo, ¿atrasado en lo emocional?
 
 > [!IMPORTANT]
 > Las fuentes no dicen lo mismo. La imagen del Columbus Group y de la NAGC es la de un chico adelantado en lo cognitivo y de su edad, o menos, en lo emocional. A Nation Deceived (2004), una síntesis sobre aceleración escolar, afirma en cambio que "Gifted children tend to be socially and emotionally more mature than their age-mates". Las dos pueden ser ciertas a la vez: depende de la edad, del chico y de con quién se lo compare. Frente a los chicos de su edad puede parecer maduro; frente a chicos de su nivel, más grandes, puede parecer inmaduro. Esa explicación es una lectura nuestra de la discrepancia.
 
-Ninguna fuente de las leídas dice que un vocabulario adelantado traiga un autocontrol adelantado, y es lo que cabe esperar si el desarrollo es parejo solo en parte. Sobre cómo se desarrollan la [regulación emocional](../Emociones-y-caracter/regulacion-emocional.md) y las [funciones ejecutivas](../Emociones-y-caracter/funciones-ejecutivas.md), ver [cerebro temprano](../Desarrollo/cerebro-temprano.md).
+Ninguna fuente de las leídas dice que un vocabulario adelantado traiga un autocontrol adelantado, y es lo que cabe esperar si el desarrollo es parejo solo en parte. Cómo se desarrolla ese autocontrol está en [regulación emocional](../Emociones-y-caracter/regulacion-emocional.md) y en [funciones ejecutivas](../Emociones-y-caracter/funciones-ejecutivas.md), y cómo se arma el cerebro en esos años, en [cerebro temprano](../Desarrollo/cerebro-temprano.md).
 
 ## Qué cambia en el día a día
 

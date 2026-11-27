@@ -43,7 +43,7 @@ Las [Guías Alimentarias para la Población Argentina](../Patrones-y-guias/guias
 
 ## El azúcar no vuelve hiperactivo al chico
 
-El metaanálisis de Wolraich y colegas (*JAMA*, 1995) reunió 16 informes con 23 estudios doble ciego, en los que el mismo chico recibía azúcar o un placebo con edulcorante sin que nadie supiera cuál. Los tamaños de efecto fueron de -0,14 a +0,30 en 14 mediciones, y el intervalo de confianza incluyó el cero. Los autores concluyeron que el azúcar no afecta la conducta ni el rendimiento cognitivo de los chicos. Admitieron que no se puede descartar un efecto pequeño o en un subgrupo sensible.
+El metaanálisis de Wolraich y colegas (*JAMA*, 1995) reunió 16 informes con 23 estudios doble ciego, en los que el mismo chico recibía azúcar o un placebo con edulcorante sin que nadie supiera cuál. Los tamaños de efecto fueron de −0,14 a +0,30 en 14 mediciones, y el intervalo de confianza incluyó el cero. Los autores concluyeron que el azúcar no afecta la conducta ni el rendimiento cognitivo de los chicos. Admitieron que no se puede descartar un efecto pequeño o en un subgrupo sensible.
 
 Es un metaanálisis de ensayos aleatorizados, la mejor clase de evidencia, pero es uno solo y de 1995: no se buscó una revisión posterior. Este y otros mitos están en [mitos de crianza](../../Crianza/Fundamentos/mitos-de-crianza.md). Que el azúcar no cause hiperactividad no cambia los límites de arriba, que se apoyan en las caries y en el riesgo cardiovascular.
 

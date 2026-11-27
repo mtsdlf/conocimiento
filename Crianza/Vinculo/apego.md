@@ -51,11 +51,11 @@ Cuánta sensibilidad hace falta no se verificó en ninguna fuente leída. La par
 El apego seguro temprano se asocia con más competencia social con pares (d = 0,39), menos problemas de conducta externalizantes (d = 0,31) y, más débilmente, menos problemas internalizantes como ansiedad (d = 0,15), según la síntesis de metaanálisis de Groh y otros 2017 (según su resumen). Son asociaciones observacionales, no efectos causales. Un reanálisis de 2024 con dos cohortes clásicas, la de Minnesota y la del NICHD, encontró asociaciones parecidas o más débiles, y los autores de Groh señalan posible sesgo de publicación y estudios con poca potencia estadística (según resúmenes secundarios).
 
 > [!IMPORTANT]
-> La evidencia dice que el apego seguro ayuda, pero que el efecto es modesto. Los metaanálisis recientes encuentran asociaciones modestas, no determinantes. Un chico con un apego inseguro a los 12 meses no tiene el futuro escrito, y uno seguro tampoco tiene garantías.
+> Los metaanálisis recientes encuentran que el apego seguro ayuda, con asociaciones modestas y no determinantes. Un chico con un apego inseguro a los 12 meses no tiene el futuro escrito, y uno seguro tampoco tiene garantías.
 
 ## Jardín maternal y apego
 
-El estudio del NICHD sobre cuidado infantil encontró que el cuidado no materno, por sí solo, no amenaza la seguridad del apego. El riesgo de apego inseguro aumentó cuando la mala calidad o las muchas horas de cuidado se sumaban a una crianza poco sensible en casa. Esto viene de una sola fuente secundaria, una nota periodística de 1996 sobre el estudio; falta leer el artículo. La coordinación entre los adultos que cuidan está en [cuidadores](cuidadores.md).
+El estudio del NICHD sobre cuidado infantil encontró que el cuidado no materno, por sí solo, no amenaza la seguridad del apego. En qué condiciones sí aumentó el riesgo, y con qué límites se conoce ese resultado, está en [cuidadores](cuidadores.md), junto con la coordinación entre los adultos que cuidan.
 
 ## El apego de Bowlby no es la "crianza con apego"
 

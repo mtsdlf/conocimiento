@@ -31,7 +31,7 @@ La fila de 1 a 4 años sale de la OMS. La SAP, en su hoja de 2022, reproduce esa
 
 ## Qué cuenta como actividad
 
-Los 180 minutos incluyen cualquier intensidad. Como los 180 minutos admiten cualquier intensidad, el [juego libre](../Juego-y-aprendizaje/juego-libre.md) con espacio para moverse cuenta, y no hace falta un deporte ni una clase. Los ejemplos de movimiento son nuestros, no de la OMS.
+Como los 180 minutos admiten cualquier intensidad, el [juego libre](../Juego-y-aprendizaje/juego-libre.md) con espacio para moverse cuenta, y no hace falta un deporte ni una clase. Los ejemplos de movimiento son nuestros, no de la OMS.
 
 La actividad "moderada a vigorosa" que la OMS pide desde los 3 años es la que acelera la respiración; la OMS pide al menos 60 minutos de esa intensidad dentro de los 180, repartidos en el día. Las clases de deporte o de música a esta edad están en [actividades](../Juego-y-aprendizaje/actividades.md).
 

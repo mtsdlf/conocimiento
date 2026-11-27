@@ -22,7 +22,7 @@ revisado:
 
 Los grupos de alimentos son las familias en que las Guías Alimentarias argentinas ordenan la comida en su gráfico, con una cantidad diaria o semanal para cada una: frutas y verduras, legumbres y cereales, lácteos, carnes y huevos, aceites y frutas secas, y un grupo opcional de dulces y grasas.
 
-La idea de agrupar es que los alimentos de un mismo grupo aportan nutrientes parecidos y se pueden cambiar entre sí, como yogur por queso o pescado por pollo (ejemplos de esta base, no de la guía). El gráfico es la parte visual de las [Guías Alimentarias argentinas](../Patrones-y-guias/guias-alimentarias-argentinas.md), que lo acompañan con diez mensajes; esta nota es la vista del gráfico y no repite los mensajes.
+La idea de agrupar es que los alimentos de un mismo grupo aportan nutrientes parecidos y se pueden cambiar entre sí, como yogur por queso o pescado por pollo (ejemplos de esta base, no de la guía). El gráfico es la parte visual de las [Guías Alimentarias argentinas](../Patrones-y-guias/guias-alimentarias-argentinas.md), que lo acompañan con diez mensajes; los mensajes están en esa nota.
 
 ## Los seis grupos y cuánto de cada uno
 
@@ -55,11 +55,6 @@ Las frutas y verduras están lejos de lo que pide el gráfico. Según la prensa 
 
 ## El debate de la carne roja
 
-> [!IMPORTANT]
-> **Las GAPA** recomiendan carne roja hasta 3 veces por semana y sacarle la grasa visible ([gráfico](https://www.argentina.gob.ar/salud/alimentacion-saludable/grafico)).
->
-> **El grupo NutriRECS** (Johnston, Zeraatkar y colegas, Annals of Internal Medicine, 2019) revisó los ensayos sobre comer menos carne roja. De 12 ensayos elegibles, el más creíble, con 48.835 mujeres, dio para la mortalidad total un HR de 0,99 (0,95-1,03) y para la cardiovascular un HR de 0,98 (0,91-1,06); los autores lo califican de certeza baja ([revisión](https://doi.org/10.7326/M19-0622)). Su panel sugirió que los adultos "continue current unprocessed red meat consumption (weak recommendation, low-certainty evidence)", y lo mismo para la carne procesada ([guía](https://doi.org/10.7326/M19-1621)).
->
-> Las dos publicaciones son del mismo equipo, así que cuentan como una sola fuente. La guía fue muy criticada por organismos de salud, pero esas críticas no se leyeron todavía. Certeza baja quiere decir que no se sabe, no que no hace daño. Las cifras salen del resumen de los artículos.
+Las GAPA recomiendan carne roja hasta 3 veces por semana y sacarle la grasa visible ([gráfico](https://www.argentina.gob.ar/salud/alimentacion-saludable/grafico)). El grupo NutriRECS revisó en 2019 los ensayos sobre comer menos carne roja, encontró evidencia de certeza baja y sugirió a los adultos seguir con su consumo actual. Las cifras y las dos posiciones están en [debates de nutrición](../Fundamentos/debates-de-nutricion.md).
 
 Ver también: [escuelas de nutrición](../Fundamentos/escuelas-de-nutricion.md), para la diferencia entre pensar por grupos de alimentos y pensar por nutrientes.

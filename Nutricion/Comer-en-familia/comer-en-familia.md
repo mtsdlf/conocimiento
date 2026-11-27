@@ -24,7 +24,7 @@ Es el punto donde se juntan las otras partes de la base. Recibe de [Alimentació
 
 La primera es quién decide. El modelo más usado es la división de responsabilidades de Ellyn Satter: el adulto decide qué, cuándo y dónde se come, y el chico decide cuánto y si come. Es una propuesta de una nutricionista y terapeuta familiar, con evidencia correlacional y casi toda de su propio grupo ([división de responsabilidades](division-de-responsabilidades.md)).
 
-La segunda es si importa comer juntos. Los metaanálisis encuentran que los chicos que comen más veces en familia tienen mejor dieta y un peso algo menor, pero las asociaciones son chicas (el índice de masa corporal se mueve con r = -0,05) y los estudios no prueban causa ([mesa compartida](mesa-compartida.md)).
+La segunda es si importa comer juntos. Los metaanálisis encuentran que los chicos que comen más veces en familia tienen mejor dieta y un peso algo menor, pero las asociaciones son chicas (el índice de masa corporal se mueve con r = −0,05) y los estudios no prueban causa ([mesa compartida](mesa-compartida.md)).
 
 La tercera es práctica: cómo se cocina una vez para un chico de jardín, un adulto que baja grasa y otro que gana músculo. La respuesta es un plato base común con ajustes de porción y de agregados por persona, y no tiene estudios propios ([un menú para todos](un-menu-para-todos.md)).
 

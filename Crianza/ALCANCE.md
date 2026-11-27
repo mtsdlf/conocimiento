@@ -89,5 +89,5 @@ Crianza/
 ## Supuestos
 
 - Dueño `familia`.
-- Nueve verticales, una más que el máximo del método: Altas capacidades va como vertical propia porque la persona lo pidió.
+- Ocho verticales más Fundamentos: Altas capacidades va como vertical propia porque la persona lo pidió.
 - La base es pública: ninguna nota describe a un chico en particular; lo que se aplica a la familia va en un lugar privado.

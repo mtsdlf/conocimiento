@@ -42,18 +42,19 @@ flowchart LR
 - [Alimentación infantil](Alimentacion-infantil/alimentacion-infantil.md) — de 0 a 6 años: primeros alimentos, qué necesita de 2 a 6, el chico que no come, atragantamiento, alergias, azúcar, colaciones y vianda.
 - [Comer en familia](Comer-en-familia/comer-en-familia.md) — quién decide qué en la mesa, comer juntos y una comida que sirva a todos.
 - [Objetivos del adulto](Objetivos-del-adulto/objetivos-del-adulto.md) — bajar grasa, ganar músculo, rendir, salud a largo plazo, estética, suplementos y cómo medir el progreso.
-- [Planificar y cocinar](Planificar-y-cocinar/planificar-y-cocinar.md) — menú semanal, compras, cocinar por tandas, higiene y conservación.
+- [Planificar y cocinar](Planificar-y-cocinar/planificar-y-cocinar.md) — menú semanal, compras, cocinar por tandas, higiene y conservación, y la ficha de la Canasta Básica.
 
-Aparte de las partes, [Fundamentos](Fundamentos/fundamentos-de-nutricion.md) reúne lo que las cruza: las escuelas, por qué la evidencia en nutrición es difícil, las fuentes y el glosario.
+Aparte de las partes, [Fundamentos](Fundamentos/fundamentos-de-nutricion.md) reúne lo que las cruza: las escuelas, por qué la evidencia en nutrición es difícil, los debates abiertos, las fuentes y el glosario.
 
 ## Qué tan segura es cada recomendación
 
 En nutrición casi todo lo que se sabe de la salud a largo plazo sale de estudios observacionales: se mide qué come la gente y qué le pasa años después. Esos estudios muestran asociaciones, no causas, y dependen de lo que la gente recuerda que comió. Los ensayos, donde se asigna una dieta al azar, son más firmes pero duran poco. Por eso cada nota dice de qué tipo es la evidencia, y [por qué la evidencia en nutrición es difícil](Fundamentos/evidencia-en-nutricion.md) lo explica.
 
-Un ejemplo de ensayo largo: en DIETFITS (2018), un año de dieta baja en grasas y otro de dieta baja en carbohidratos terminaron en pérdidas de peso parecidas, de 5,3 y 6,0 kg, sin diferencia significativa (según su resumen). Con esa proporción de grasas y carbohidratos no se vio ventaja de una dieta sobre la otra; la nota dice qué más se sabe en [pérdida de grasa](Objetivos-del-adulto/perdida-de-grasa.md).
+Un ejemplo de ensayo largo: en DIETFITS (2018), 609 adultos siguieron durante un año una dieta baja en grasas o una baja en carbohidratos y bajaron 5,3 y 6,0 kg, sin diferencia significativa (según su resumen). Ninguna de las dos mostró ventaja sobre la otra; qué más se sabe está en [pérdida de grasa](Objetivos-del-adulto/perdida-de-grasa.md).
 
 ## Qué leer según lo que quieras lograr
 
+- Si en la casa conviven objetivos distintos (uno baja grasa, otro entrena, hay un chico chico) y tenés que organizar la semana: [un menú para todos](Comer-en-familia/un-menu-para-todos.md), [menú semanal](Planificar-y-cocinar/menu-semanal.md), y después la nota del objetivo de cada uno.
 - Si querés bajar grasa sin perder músculo: [pérdida de grasa](Objetivos-del-adulto/perdida-de-grasa.md), [masa muscular y recomposición](Objetivos-del-adulto/masa-muscular-y-recomposicion.md) y [medir el progreso](Objetivos-del-adulto/medir-el-progreso.md).
 - Si querés rendir más y cuidar la salud a largo plazo: [rendimiento](Objetivos-del-adulto/rendimiento.md), [salud a largo plazo](Objetivos-del-adulto/salud-a-largo-plazo.md) y [suplementos](Objetivos-del-adulto/suplementos.md).
 - Si buscás un cambio estético: [estética](Objetivos-del-adulto/estetica.md).
@@ -62,6 +63,8 @@ Un ejemplo de ensayo largo: en DIETFITS (2018), un año de dieta baja en grasas 
 - Si tenés que armar el menú de la semana: [menú semanal](Planificar-y-cocinar/menu-semanal.md), [un menú para todos](Comer-en-familia/un-menu-para-todos.md) y [cocinar por tandas](Planificar-y-cocinar/cocinar-por-tandas.md).
 - Si estás en el supermercado leyendo etiquetas: [sellos frontales](Alimentos-y-nutrientes/sellos-frontales.md) y [ultraprocesados](Alimentos-y-nutrientes/ultraprocesados.md).
 - Si te tienta una dieta de moda: [dietas de moda](Patrones-y-guias/dietas-de-moda.md).
+
+- Si una nota usa un término que no conocés (déficit, masa libre de grasa, metaanálisis, NOVA): [glosario de nutrición](Fundamentos/glosario-de-nutricion.md).
 
 ## Por dónde empezar
 

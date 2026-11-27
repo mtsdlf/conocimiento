@@ -17,7 +17,7 @@ revisado:
 
 Los juguetes y materiales son los objetos con que juega un chico; dos experimentos chicos sugieren que con juguetes electrónicos los padres hablan menos que con juguetes tradicionales o libros, y que con menos juguetes a mano el chico juega más tiempo y de más maneras con cada uno.
 
-La investigación sobre juguetes es escasa. Lo que hay contrasta juguetes electrónicos con tradicionales y muchos juguetes con pocos, en sesiones cortas y con pocos chicos. Sirve como indicio, no como regla.
+La investigación sobre juguetes es escasa. Lo que hay contrasta juguetes electrónicos con tradicionales y muchos juguetes con pocos, en sesiones cortas y con pocos chicos, así que sirve como indicio y no como regla.
 
 ## Con juguetes electrónicos se habla menos
 

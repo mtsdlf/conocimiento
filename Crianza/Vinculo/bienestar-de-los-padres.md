@@ -21,7 +21,7 @@ revisado:
 
 El bienestar de los padres es parte de la crianza: la depresión del adulto se asocia con más problemas en los hijos, y una idea muy usada es que al chico no le hace falta un adulto perfecto sino uno que repara los desencuentros (una idea con fuentes sin verificar del todo).
 
-La nota trata la salud del adulto. Cómo se coordinan los adultos que cuidan está en [cuidadores](cuidadores.md). No reemplaza la consulta: un adulto que se siente triste, sin energía o desbordado durante semanas tiene que hablarlo con un médico o un profesional de salud mental.
+Cómo se coordinan los adultos que cuidan está en [cuidadores](cuidadores.md). Nada de lo que sigue reemplaza la consulta: un adulto que se siente triste, sin energía o desbordado durante semanas tiene que hablarlo con un médico o un profesional de salud mental.
 
 ## Por qué el estado del adulto llega al chico
 
@@ -42,7 +42,7 @@ Son estudios observacionales: muestran asociación, no causa, y no separan lo ge
 
 Edward Tronick diseñó el experimento de la cara inmóvil (Still Face). Según los resúmenes de su trabajo, la reparación se mide en el período de reunión, cuando el adulto vuelve a interactuar. La descripción detallada del procedimiento no se verificó en el original.
 
-Según los resúmenes de su trabajo, las díadas que reparan bien vuelven a una interacción coordinada, y un estudio de 2018 encontró que los bebés participan activamente en restaurarla desde los tres meses. Una lectura habitual es que las interacciones se desacoplan seguido en la vida real y que lo que cuenta es volver a encontrarse; no se verificó en una fuente primaria.
+Las díadas que reparan bien vuelven a una interacción coordinada, y un estudio de 2018 encontró que los bebés participan activamente en restaurarla desde los tres meses. Una lectura habitual es que las interacciones se desacoplan seguido en la vida real y que lo que cuenta es volver a encontrarse; no se verificó en una fuente primaria.
 
 > [!NOTE]
 > Sin fuente todavía: la cifra que circula sobre cuánto tiempo pasan coordinados una madre y su bebé no se pudo verificar en el trabajo original de Tronick, y por eso no se da.
@@ -59,7 +59,7 @@ Lo que sigue es inferencia desde las fuentes de arriba, no una guía:
 
 1. Dormí, comé y pedí relevos (consejo general, sin fuente propia). El sueño del chico, que suele ser el del adulto, está en [sueño](../Salud-y-rutinas/sueno.md).
 2. Repartí la carga con el otro adulto o con la red que haya, y acordá entre ustedes cómo ([cuidadores](cuidadores.md)).
-3. Si perdiste la paciencia, repará: volvé, nombrá lo que pasó y retomá el vínculo. Eso es lo que muestra la reparación, no un fracaso.
+3. Si perdiste la paciencia, repará: volvé, nombrá lo que pasó y retomá el vínculo. Volver después de un desencuentro es la reparación que describen esos estudios.
 4. Si la tristeza o la ansiedad duran semanas, consultá a un profesional; la depresión tiene tratamiento.
 
 > [!NOTE]

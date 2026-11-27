@@ -28,7 +28,7 @@ El dato más sólido es un metaanálisis de 2024 sobre la estabilidad de las cap
 
 En ese estudio "preescolar" es hasta los 6 años inclusive. Es un metaanálisis de estudios observacionales. De ahí se deduce que un CI medido a los 4 años no es una medida fija; la deducción es nuestra, el estudio habla de estabilidad y no de cuánto cambia cada chico.
 
-Los tests existen. Uno para esta edad es el WPPSI-IV, que tiene una versión de 2 años y 6 meses a 3 años y 11 meses, y otra de 4 años a 7 años y 7 meses, según su editor (un listado dice 7 años y 6 meses). El mismo editor sugiere, para chicos de alta capacidad, un test de edad escolar por tener un techo más alto (según su resumen). El problema no es que no se pueda medir, sino que la medida todavía cambia mucho.
+Los tests existen. Uno para esta edad es el WPPSI-IV, que tiene una versión de 2 años y 6 meses a 3 años y 11 meses, y otra de 4 años a 7 años y 7 meses, según su editor (un listado dice 7 años y 6 meses). El mismo editor sugiere, para chicos de alta capacidad, un test de edad escolar por tener un techo más alto (según su resumen). Se puede medir, pero la medida todavía cambia mucho.
 
 ## Qué conductas se ven de 2 a 6 años
 
@@ -44,7 +44,7 @@ La posición de primera infancia de la Asociación Nacional de Niños Superdotad
 
 La misma posición advierte que son "a heterogeneous group that is not easily defined or assessed", y que su crecimiento rápido y desparejo los hace difíciles de identificar. Dice que los chicos muy adelantados "frequently hide their advanced abilities" para encajar con los demás. Es opinión de expertos que cita libros y estudios chicos, escrita en 2006.
 
-Por eso la lista sirve para mirar, no para diagnosticar: la NAGC advierte que el grupo es heterogéneo y que los chicos suelen ocultar lo que saben, así que la ausencia o la presencia de estas conductas no prueba nada. Que un chico hable como uno más grande y haga berrinches de su edad entra dentro de lo esperable ([desarrollo asincrónico](desarrollo-asincronico.md)). Lo que se espera por edad en cada área está en [dominios e hitos](../Desarrollo/dominios-e-hitos.md).
+Por eso la lista sirve para mirar y no para diagnosticar: la ausencia o la presencia de estas conductas no prueba nada. Que un chico hable como uno más grande y haga berrinches de su edad entra dentro de lo esperable ([desarrollo asincrónico](desarrollo-asincronico.md)). Lo que se espera por edad en cada área está en [dominios e hitos](../Desarrollo/dominios-e-hitos.md).
 
 ## Los padres suelen notarlo primero
 

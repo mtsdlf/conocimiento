@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Fundamentos reúne lo que cruza toda la nutrición sin ser una parte de ella: los enfoques que compiten para decidir qué es comer bien, por qué la evidencia en nutrición es difícil, las fuentes y el glosario.
+  Fundamentos reúne lo que cruza toda la nutrición sin ser una parte de ella: los marcos que compiten para decidir qué es comer bien, por qué la evidencia en nutrición es difícil, las fuentes y el glosario.
 estado: borrador
 estabilidad: estable
 fuentes: []
@@ -11,9 +11,9 @@ revisado:
 
 # Fundamentos de nutrición
 
-Fundamentos reúne lo que cruza toda la nutrición sin ser una parte de ella: los enfoques que compiten para decidir qué es comer bien, por qué la evidencia en nutrición es difícil, las fuentes y el glosario.
+Fundamentos reúne lo que cruza toda la nutrición sin ser una parte de ella: los marcos que compiten para decidir qué es comer bien, por qué la evidencia en nutrición es difícil, las fuentes y el glosario.
 
-Estas notas sirven para leer cualquier parte de la [nutrición](../nutricion.md). Los enfoques explican por qué las [Guías Alimentarias](../Patrones-y-guias/guias-alimentarias-argentinas.md) hablan de alimentos, los [sellos frontales](../Alimentos-y-nutrientes/sellos-frontales.md) de nutrientes y los [ultraprocesados](../Alimentos-y-nutrientes/ultraprocesados.md) del procesamiento. La evidencia dice cuánto creerle a cada cifra que citan las verticales, y el glosario fija los términos.
+Estas notas sirven para leer cualquier parte de la [nutrición](../nutricion.md). Los marcos explican por qué las [Guías Alimentarias](../Patrones-y-guias/guias-alimentarias-argentinas.md) hablan de alimentos, los [sellos frontales](../Alimentos-y-nutrientes/sellos-frontales.md) de nutrientes y los [ultraprocesados](../Alimentos-y-nutrientes/ultraprocesados.md) del procesamiento. La evidencia dice cuánto creerle a cada cifra que citan las verticales, y el glosario fija los términos.
 
 ## Casi todo lo que se sabe es asociación
 

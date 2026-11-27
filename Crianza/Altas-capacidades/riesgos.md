@@ -28,7 +28,7 @@ revisado:
 
 Los riesgos de las altas capacidades que describe la bibliografía son una etiqueta que cambia cómo se ve el chico, una ventaja temprana que no siempre se mantiene, el perfeccionismo y una dificultad que la capacidad tapa (doble excepcionalidad); casi todo se estudió en edad escolar.
 
-Casi toda la investigación sobre estos riesgos se hizo con chicos en edad escolar. Para los 2 a 6 años hay muy poco, y la nota lo dice en cada caso.
+Para los 2 a 6 años hay muy poco, y cada apartado dice cuánto.
 
 ## Lo que no es un riesgo: "early ripe, early rot"
 
@@ -43,7 +43,7 @@ La primera tiene buena evidencia: la medición es poco estable antes de los 7 a�
 La segunda es una inferencia razonable sin estudio propio: una ventaja de lectura o cálculo a los 4 años puede alcanzarse cuando los demás aprenden lo mismo en la escuela.
 
 > [!WARNING]
-> Una confusión frecuente: el llamado "fade-out", el desvanecimiento de las ventajas tempranas, describe programas e intervenciones, no a chicos adelantados por naturaleza. Bailey y otros (2017) muestran que en Perry Preschool el efecto en el CI fue de 0,75 desviaciones estándar a los 5 años y bajó a 0,08 (no significativo) a los 8; en 67 programas el efecto cognitivo promedió 0,23 al terminar y cerca de 0,10 a los 12 meses. Eso describe lo que pasa con los programas ([estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md)). No dice nada sobre un chico que ya va adelantado sin programa.
+> Una confusión frecuente: el desvanecimiento (fade-out) de las ventajas tempranas describe programas e intervenciones, no a chicos adelantados por naturaleza. Bailey y otros (2017) muestran que en Perry Preschool el efecto en el CI fue de 0,75 desviaciones estándar a los 5 años y bajó a 0,08 (no significativo) a los 8; en 67 programas el efecto cognitivo promedió 0,23 al terminar y cerca de 0,10 a los 12 meses. Eso describe lo que pasa con los programas ([estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md)). No dice nada sobre un chico que ya va adelantado sin programa.
 
 Lo práctico para una familia es no apostar todo a una ventaja de los 4 años: ni para festejarla como destino ni para alarmarse si se achica.
 
@@ -63,7 +63,7 @@ La lectura prudente: el chico adelantado no es más perfeccionista que otro, per
 
 Doble excepcionalidad (2e, por *twice exceptional*) se llama a un chico con altas capacidades y, a la vez, un trastorno o una dificultad. Los que más se reportan juntos son el trastorno por déficit de atención con hiperactividad (TDAH), el trastorno del espectro autista (TEA) y las dificultades de aprendizaje. El riesgo es el "enmascaramiento": la capacidad tapa la dificultad, la dificultad tapa la capacidad, y el chico parece promedio. Según su resumen, una revisión sistemática halla que el 60 % de los estudios discute el enmascaramiento, pero solo el 7 % describe cómo lo tiene en cuenta al identificar.
 
-Lo sostienen más de una fuente independiente, pero ninguna se leyó completa, y no hay una cifra confiable de cuántos chicos son 2e. Para una familia, la consecuencia práctica es una sola: un chico adelantado con problemas de conducta, de atención, de lenguaje o de relación con otros se consulta por eso, igual que cualquier otro, y la capacidad no explica ni descarta nada. Las [señales de alarma](../Desarrollo/senales-de-alarma.md) valen para él como para todos. El diagnóstico lo hace un profesional, y esta base no lo reemplaza.
+Lo sostiene más de una fuente independiente, pero ninguna se leyó completa, y no hay una cifra confiable de cuántos chicos son 2e. Para una familia, la consecuencia práctica es una sola: un chico adelantado con problemas de conducta, de atención, de lenguaje o de relación con otros se consulta por eso, igual que cualquier otro, y la capacidad no explica ni descarta nada. Las [señales de alarma](../Desarrollo/senales-de-alarma.md) valen para él como para todos. El diagnóstico lo hace un profesional, y esta base no lo reemplaza.
 
 > [!NOTE]
 > Sin fuente todavía: ninguna revisión de doble excepcionalidad o de etiquetado se leyó completa, y no hay estudios revisados sobre estos riesgos en chicos de 2 a 6 años.

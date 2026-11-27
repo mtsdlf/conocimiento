@@ -26,7 +26,7 @@ El tema cubre de 0 a 6 años, con más profundidad entre los 2 y los 6. Quedan a
 
 ## De qué está hecha la crianza
 
-La crianza tiene nueve partes. El desarrollo es lo que el chico hace al crecer; las altas capacidades son una forma de ese desarrollo que pide sus propias decisiones. El vínculo es la base sobre la que se apoyan las emociones, los límites y el juego. La salud y las rutinas sostienen el cuerpo, y la escuela suma otros adultos y otros chicos.
+La crianza tiene ocho partes. El desarrollo es lo que el chico hace al crecer; las altas capacidades son una forma de ese desarrollo que pide sus propias decisiones. El vínculo es la base sobre la que se apoyan las emociones, los límites y el juego. La salud y las rutinas sostienen el cuerpo, y la escuela suma otros adultos y otros chicos.
 
 ```mermaid
 flowchart LR
@@ -67,7 +67,9 @@ La misma prudencia vale para "estimular": los videos para bebés no mostraron qu
 - Si tenés que decidir cuánta pantalla: [pantallas](Juego-y-aprendizaje/pantallas.md).
 - Si querés estimularlo: [juego libre](Juego-y-aprendizaje/juego-libre.md), [lectura compartida](Juego-y-aprendizaje/lectura-compartida.md), [estimulación temprana](Juego-y-aprendizaje/estimulacion-temprana.md) y [elogio y mentalidad](Emociones-y-caracter/elogio-y-mentalidad.md).
 - Si duerme mal o estás por sacarle los pañales: [sueño](Salud-y-rutinas/sueno.md) y [control de esfínteres](Salud-y-rutinas/control-de-esfinteres.md).
-- Si tenés que elegir escuela: [elegir escuela](Escuela/elegir-escuela.md), [opciones escolares](Altas-capacidades/opciones-escolares.md) si va adelantado.
+- Si tenés que elegir escuela: [elegir escuela](Escuela/elegir-escuela.md) y [escuela bilingüe](Escuela/escuela-bilingue.md); si va adelantado, además [señales y evaluación](Altas-capacidades/senales-y-evaluacion.md) y [opciones escolares](Altas-capacidades/opciones-escolares.md).
+- Si escuchaste algo que suena a verdad de crianza (Mozart, videos para bebés, "los primeros tres años lo deciden todo"): [mitos de crianza](Fundamentos/mitos-de-crianza.md).
+- Si una nota usa un término que no conocés (apego, funciones ejecutivas, heredabilidad, metaanálisis): [glosario de crianza](Fundamentos/glosario-de-crianza.md).
 - Si no quiere comer: [el chico que no come](../Nutricion/Alimentacion-infantil/chico-que-no-come.md), en Nutrición.
 
 ## Por dónde empezar

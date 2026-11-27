@@ -48,10 +48,11 @@ Es una teoría con apoyo empírico parcial, que no se verificó para esta nota. 
 ## Cómo se cruza con lo demás
 
 - Con los [berrinches](berrinches.md): según la AAP, algunos chicos tienen más que otros por su forma de ser. Un chico intenso y poco adaptable podría tener más (inferencia propia). La cita de la AAP no se pudo cotejar con la fuente.
-- Las tres conexiones que siguen son lectura propia.
 - Con la [regulación emocional](regulacion-emocional.md): el temperamento pone el punto de partida, cuán rápido se enciende un chico y cuánto tarda en calmarse.
 - Con los [cuidadores](../Vinculo/cuidadores.md): dos adultos con temperamentos distintos pueden leer al mismo chico de formas opuestas.
 - Con los [cambios difíciles](cambios-dificiles.md): un chico lento para adaptarse necesita más anticipación ante una mudanza o una [adaptación al jardín](../Escuela/adaptacion.md).
+
+Las tres últimas conexiones son lectura propia.
 
 ## Cuánto viene dado
 

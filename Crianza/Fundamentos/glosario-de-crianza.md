@@ -51,17 +51,17 @@ Las definiciones salen de las fuentes que citan las notas, casi todas leídas po
 | PRUNAPE | Prueba Nacional de Pesquisa: según la SAP, el único instrumento validado con chicos argentinos para detectar problemas inaparentes del desarrollo en menores de 6 años. Tiene 79 pautas en cuatro áreas y la toman profesionales entrenados. | [Señales de alarma](../Desarrollo/senales-de-alarma.md) |
 | IODI | Instrumento de Observación del Desarrollo Infantil: una vigilancia sistematizada que no requiere especialización para aplicarse. | [Señales de alarma](../Desarrollo/senales-de-alarma.md) |
 | Retraso, desviación y regresión | Las tres trayectorias atípicas de la guía SAP. Retraso: logra las pautas más tarde. Desviación: logra una pauta avanzada sin la anterior. Regresión: pierde lo que ya tenía. | [Señales de alarma](../Desarrollo/senales-de-alarma.md) |
-| Arquitectura del cerebro | La imagen de Harvard para el cerebro que se construye "from the bottom up": las conexiones tempranas son la base de las que vienen después. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
+| Arquitectura del cerebro | La imagen del Centro para el Niño en Desarrollo de Harvard para el cerebro que se construye "from the bottom up": las conexiones tempranas son la base de las que vienen después. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
 | Período crítico o sensible | Una etapa en que un sistema es más sensible a la experiencia, como la visión o la lengua materna. "Sensible" no quiere decir que después se cierre. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
 | Estrés positivo, tolerable y tóxico | Las tres respuestas al estrés según Harvard. El positivo es breve y normal; el tolerable es más fuerte y el chico se recupera con adultos que ayudan; el tóxico viene de una adversidad fuerte, frecuente y prolongada sin ese apoyo. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
-| Cuidado cariñoso y sensible (*nurturing care*) | El marco de la OMS con cinco componentes: salud, nutrición, seguridad, cuidado que responde y oportunidades de aprendizaje temprano. | [Desarrollo](../Desarrollo/desarrollo-infantil.md) |
+| Cuidado cariñoso y sensible (*nurturing care*) | El marco de la OMS, UNICEF y el Banco Mundial (2018) con cinco componentes: salud, nutrición, seguridad, cuidado que responde y oportunidades de aprendizaje temprano. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
 
 ## Vínculo y emociones
 
 | Término | Qué es | Dónde se desarrolla |
 |---|---|---|
 | Apego | El lazo del chico con los adultos que lo cuidan. El apego seguro se asocia con más competencia social con pares y menos problemas de conducta, con efectos modestos. | [Apego](../Vinculo/apego.md) |
-| Crianza con apego | El método de William Sears (portear, colecho, respuesta sensible). Es un estilo de crianza, no la teoría del apego. | [Enfoques de crianza](enfoques-de-crianza.md) |
+| Crianza con apego | El método de William Sears (portear, colecho, respuesta sensible). Es un enfoque con nombre propio, distinto de la teoría del apego. | [Enfoques de crianza](enfoques-de-crianza.md) |
 | Sensibilidad | Qué tan bien el adulto nota las señales del chico y responde a tiempo y de acuerdo con ellas. Fue el mejor predictor del apego en el estudio NICHD, según una nota de prensa de 1996. | [Apego](../Vinculo/apego.md) |
 | Ida y vuelta (*serve and return*) | "Responsive, back-and-forth exchanges between a young child and a caring adult": el chico balbucea o señala, y el adulto responde con la mirada, palabras o un abrazo. | [Ida y vuelta](../Vinculo/ida-y-vuelta.md) |
 | Funciones ejecutivas | La familia de tres habilidades que permiten frenar, recordar y cambiar de plan: control inhibitorio, memoria de trabajo y flexibilidad cognitiva. | [Funciones ejecutivas](../Emociones-y-caracter/funciones-ejecutivas.md) |
@@ -76,22 +76,22 @@ Las definiciones salen de las fuentes que citan las notas, casi todas leídas po
 |---|---|---|
 | Estilos de crianza | La tipología de Baumrind, ampliada por Maccoby y Martin, que cruza calidez y exigencia: autoritativo, autoritario, permisivo (o indulgente) y negligente. | [Estilos de crianza](../Limites-y-autonomia/estilos-de-crianza.md) |
 | Autoritativo | Mucha calidez y mucha exigencia. No confundir con autoritario, que es mucha exigencia con poca calidez. | [Estilos de crianza](../Limites-y-autonomia/estilos-de-crianza.md) |
-| Dimensiones de la crianza | Lo que la investigación mide en vez de estilos: calidez, control conductual, concesión de autonomía, control duro y control psicológico. | [Enfoques de crianza](enfoques-de-crianza.md) |
-| Control psicológico | Manejar al chico con culpa, vergüenza o retiro del afecto. Junto con el control duro, es lo que más se asocia con problemas de conducta. | [Estilos de crianza](../Limites-y-autonomia/estilos-de-crianza.md) |
-| Problemas externalizantes e internalizantes | Los de afuera (agresión, desobediencia, impulsividad) y los de adentro (ansiedad, tristeza, retraimiento). | [Estilos de crianza](../Limites-y-autonomia/estilos-de-crianza.md) |
-| Entrenamiento a padres | Programas que enseñan a los padres técnicas como el refuerzo positivo y las consecuencias consistentes. Es el lado de la crianza con más ensayos. | [Límites y consecuencias](../Limites-y-autonomia/limites-y-consecuencias.md) |
+| Dimensiones de la crianza | Lo que la investigación mide en vez de estilos: calidez, control conductual, otorgar autonomía, control duro y control psicológico. | [Enfoques de crianza](enfoques-de-crianza.md) |
+| Control psicológico | Manejar al chico con culpa o retiro del afecto. Junto con el control duro, es lo que más se asocia con problemas de conducta. | [Estilos de crianza](../Limites-y-autonomia/estilos-de-crianza.md) |
+| Problemas externalizantes e internalizantes | Los de afuera (agresión, desobediencia, impulsividad) y los de adentro (ansiedad, tristeza, retraimiento). | [Apego](../Vinculo/apego.md) |
+| Entrenamiento a padres | Programas que enseñan a los padres técnicas como el refuerzo positivo y las consecuencias naturales o lógicas. Es el lado de la crianza con más ensayos. | [Programas para padres](../Limites-y-autonomia/programas-para-padres.md) |
 | Tiempo fuera y tiempo dentro | Tiempo fuera: apartar un rato al chico de la atención después de una conducta, como pegar. Tiempo dentro: quedarse con él para calmarlo cuando está desbordado. | [Límites y consecuencias](../Limites-y-autonomia/limites-y-consecuencias.md) |
 
 ## Altas capacidades
 
 | Término | Qué es | Dónde se desarrolla |
 |---|---|---|
-| Altas capacidades | El término de la ley 6614 de la Ciudad de Buenos Aires: una capacidad de aprendizaje "radicalmente distinta" de la de su edad. En la prensa se dice superdotación. | [Qué son las altas capacidades](../Altas-capacidades/que-son-las-altas-capacidades.md) |
+| Altas capacidades | El término de la Ley 6614 de la Ciudad de Buenos Aires: una capacidad de aprendizaje "radicalmente distinta" de la de su edad. En la prensa se dice superdotación. | [Qué son las altas capacidades](../Altas-capacidades/que-son-las-altas-capacidades.md) |
 | Dotación y talento | La distinción de Gagné: la dotación es el potencial natural y el talento, el rendimiento que se desarrolla. | [Qué son las altas capacidades](../Altas-capacidades/que-son-las-altas-capacidades.md) |
-| Tres anillos | El modelo de Renzulli, que ve la superdotación como algo que aparece "en ciertas personas, en ciertos momentos y en ciertas circunstancias". | [Qué son las altas capacidades](../Altas-capacidades/que-son-las-altas-capacidades.md) |
+| Tres anillos | El modelo de Renzulli, que ve las altas capacidades como algo que se muestra "en ciertas personas, en ciertos momentos y en ciertas circunstancias". | [Qué son las altas capacidades](../Altas-capacidades/que-son-las-altas-capacidades.md) |
 | Desarrollo asincrónico | Ir adelantado en lo cognitivo y a otro ritmo en lo motor o lo emocional, como un chico de 5 años que lee como uno de 9. | [Desarrollo asincrónico](../Altas-capacidades/desarrollo-asincronico.md) |
 | Doble excepcionalidad | Altas capacidades junto con una dificultad, como TDAH, autismo o un trastorno del aprendizaje. Una puede tapar a la otra (enmascaramiento). | [Riesgos](../Altas-capacidades/riesgos.md) |
-| Estabilidad del CI | Cuánto se parece un puntaje de CI a uno posterior. En preescolar es baja: alcanza para decisiones individuales recién después de los 7 años. | [Señales y evaluación](../Altas-capacidades/senales-y-evaluacion.md) |
+| Estabilidad del CI | Cuánto se parece un puntaje de CI a uno posterior. En edad de jardín es baja: alcanza para decisiones individuales recién después de los 7 años. | [Señales y evaluación](../Altas-capacidades/senales-y-evaluacion.md) |
 
 ## Evidencia y genética
 
@@ -100,13 +100,12 @@ Las definiciones salen de las fuentes que citan las notas, casi todas leídas po
 | Ensayo aleatorizado | Un estudio que reparte a los participantes al azar entre un tratamiento y un control. Es la forma más directa de probar causa y efecto. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
 | Estudio observacional | Uno que mide lo que la gente ya hace, sin asignarlo. Muestra asociaciones, no causas. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
 | Metaanálisis | Un estudio que junta los resultados de muchos otros para sacar un efecto promedio. Hereda los defectos de los estudios que junta. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
-| Tamaño del efecto | Cuánto cambia algo, en una escala común (d, r, SMD). | [Enfoques de crianza](enfoques-de-crianza.md) |
+| Tamaño del efecto | Cuánto cambia algo, en una escala común (d, r, SMD). | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
 | Heredabilidad | Qué parte de las diferencias entre personas de una población va con las diferencias genéticas. Describe a una población, no a un chico. | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
 | Entorno compartido | Lo que hace parecidos a hermanos criados juntos, más allá de los genes. No es lo mismo que "la crianza". | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
-| Entorno no compartido | Lo que hace distintos a hermanos criados juntos: experiencias propias, pares, azar. | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
 | Crisis de replicación | La caída de efectos famosos de la psicología al repetir los estudios con más gente y el plan registrado de antemano. | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
 | Desvanecimiento (*fade-out*) | La tendencia de las ventajas que dan los programas tempranos a achicarse en los años siguientes. Es un hallazgo sobre intervenciones, no sobre chicos adelantados por naturaleza. | [Estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md) |
 | Lectura dialógica | Leer haciendo preguntas y dejando que el chico cuente; un metaanálisis le halló un efecto de d = 0,59, menor a los 4 y 5 años. | [Lectura compartida](../Juego-y-aprendizaje/lectura-compartida.md) |
 
 > [!NOTE]
-> Sin fuente todavía: las definiciones de ensayo aleatorizado, estudio observacional, metaanálisis, tamaño del efecto, heredabilidad y entorno no compartido son definiciones corrientes de metodología, no tomadas de una fuente puntual.
+> Sin fuente todavía: las definiciones de ensayo aleatorizado, estudio observacional, metaanálisis, tamaño del efecto y heredabilidad son definiciones corrientes de metodología, no tomadas de una fuente puntual.

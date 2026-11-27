@@ -37,11 +37,7 @@ Los argumentos, en orden:
 
 ## Qué se puede esperar de la escuela de inmersión
 
-Casi toda la evidencia sobre escuelas en otro idioma viene de la inmersión en francés en Canadá, con chicos que hablan inglés en casa y en la calle. Se parece a la de un chico argentino que habla castellano en casa y va a una escuela en inglés en que el idioma de la casa es también el de la sociedad, pero no es igual: un colegio bilingüe argentino puede tener otra carga horaria. Genesee llama a esto un entorno bilingüe "aditivo": el segundo idioma se suma sin desplazar al primero.
-
-Según Genesee y Lindholm-Leary, estos alumnos logran más francés que quienes lo estudian como materia, aunque "seldom attain native-like grammatical accuracy" ni después de 10 a 12 años. En inglés, el idioma de su casa, alcanzan "the same levels of proficiency in all aspects of English" que sus pares en escuelas solo en inglés. Pueden ir por detrás en lectura y escritura en inglés en los primeros grados de inmersión total, y se emparejan dentro de uno o dos años de tener clases en inglés, "usually by grades 3 or 4" (Genesee, 2009). En ciencias y matemática rinden igual, y los chicos con dificultades de lenguaje o riesgo escolar rinden como sus pares de escuelas en un solo idioma.
-
-La fuerza de esto es la de décadas de estudios que comparan grupos, sin ensayos aleatorizados. Trasladarlo a una escuela argentina es una inferencia: los programas canadienses están bien definidos, y una escuela "bilingüe" argentina puede tener otra carga horaria y otra calidad. Lo escolar (cuántas horas, qué preguntar) está en [escuela bilingüe](../Escuela/escuela-bilingue.md).
+Casi toda la evidencia sobre escuelas en otro idioma viene de la inmersión en francés en Canadá, con chicos que hablan inglés en casa y en la calle. Genesee llama a esto un entorno bilingüe "aditivo": el segundo idioma se suma sin desplazar al primero. Según Genesee y Lindholm-Leary, el idioma de la casa llega al mismo nivel que en una escuela de un solo idioma, con un atraso pasajero en lectura y escritura durante la inmersión total, y el segundo idioma llega a un buen uso funcional sin gramática de nativo. Las citas, los límites de esa evidencia para una escuela argentina y qué preguntarle a la escuela están en [escuela bilingüe](../Escuela/escuela-bilingue.md).
 
 > [!NOTE]
 > Sin fuente todavía: estudios de escuelas bilingües con castellano como idioma de la casa y de la sociedad, en Argentina o en América Latina, y sobre aprender a leer en dos idiomas a la vez.
@@ -74,7 +70,7 @@ Según la AAP, "si un niño tiene un problema del habla o del lenguaje, aparecer
 
 ## La ventaja cognitiva del bilingüismo, en duda
 
-Durante años se dijo que ser bilingüe mejora el control de la atención y otras funciones ejecutivas. Los metaanálisis recientes la ponen en duda.
+Durante años se dijo que ser bilingüe mejora el control de la atención y otras funciones ejecutivas. Los metaanálisis recientes ponen en duda esa ventaja.
 
 > [!IMPORTANT]
 > En adultos, Lehtonen y otros (2018), con 152 estudios, hallaron "a very small bilingual advantage" en algunas funciones, y "no evidence for a bilingual advantage remained after correcting for bias". En chicos, Gunnerud y otros (2020), con 143 comparaciones, hallaron una ventaja "significant, albeit marginal (g = 0.06)" que "gives little support for a bilingual advantage on overall EF"; solo el cambio de tarea resistió la corrección por sesgo. Paap y otros (2015) informan que más del 80 % de las pruebas publicadas después de 2011 dan resultados nulos. Del otro lado, Bialystok (2017) sostiene que la mayoría de la investigación revisada muestra alguna relación entre bilingüismo y resultados cognitivos o cerebrales, aunque admite que los estudios de conducta en adultos jóvenes en gran parte no la encuentran. Son metaanálisis de estudios observacionales; de Gunnerud, Paap y Bialystok se leyó solo el resumen.

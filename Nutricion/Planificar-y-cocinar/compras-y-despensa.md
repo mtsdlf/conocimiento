@@ -38,14 +38,14 @@ Una despensa armada con los grupos de las GAPA permite cocinar algo sano cuando 
 | Legumbres y cereales (mensaje 8) | Lentejas, garbanzos y porotos secos o en lata; arroz, fideos y avena, mejor integrales |
 | Frutas y verduras (mensaje 3) | Papa, batata, cebolla y zanahoria, que duran; verduras congeladas; tomate en lata |
 | Carnes y huevo (mensaje 7) | Huevos; pescado en lata; carne y pollo porcionados en el freezer |
-| Aceites y semillas (mensaje 9) | Aceite para usar crudo; frutos secos o semillas sin sal |
+| Aceites y semillas (mensaje 9) | Aceite para usar crudo; frutas secas o semillas sin sal |
 | Lácteos (mensaje 6) | Leche larga vida, queso de rallar |
 
 Las verduras y frutas crudas duran 8 a 12 meses en el freezer, según la tabla de ANMAT: una bolsa de espinaca o de choclo congelado cubre el medio plato de verdura de una noche sin verdulería.
 
 ## Cómo leer el envase antes de comprar
 
-El frente del envase dice primero si el producto tiene exceso de algún nutriente crítico. Con la Ley 27.642 de etiquetado frontal, los productos con exceso de azúcares, sodio, grasas saturadas o grasas totales, o de calorías, llevan sellos negros octogonales. Qué marca cada uno, y el proyecto del Ejecutivo para derogar la ley presentado en mayo de 2026, están en [sellos frontales](../Alimentos-y-nutrientes/sellos-frontales.md). Un producto puede no tener sellos y ser igual un [ultraprocesado](../Alimentos-y-nutrientes/ultraprocesados.md), que se reconoce por la lista de ingredientes.
+El frente del envase dice primero si el producto tiene exceso de algún nutriente crítico. Con la Ley 27.642 de etiquetado frontal, los productos con exceso de azúcares, sodio, grasas saturadas o grasas totales, o de calorías, llevan un sello frontal por cada exceso. Qué marca cada uno, y el proyecto del Ejecutivo para derogar la ley presentado en mayo de 2026, están en [sellos frontales](../Alimentos-y-nutrientes/sellos-frontales.md). Un producto puede no tener sellos y ser igual un [ultraprocesado](../Alimentos-y-nutrientes/ultraprocesados.md), que se reconoce por la lista de ingredientes.
 
 Para la mesa diaria, las GAPA ponen los ultraprocesados con exceso de azúcar, grasa o sal en el grupo opcional y dicen que "no deben formar parte de la alimentación diaria". En la lista de compras eso se traduce en que no figuren como base de ninguna comida del menú.
 

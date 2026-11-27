@@ -18,7 +18,7 @@ revisado:
 
 Ganar masa muscular es sumar músculo con entrenamiento de fuerza, más proteína y en general un superávit de energía; la recomposición es ganar músculo y perder grasa a la vez, algo más probable en principiantes o en quienes tienen más grasa.
 
-Esta es la nota dueña de las cantidades de proteína de la base: las demás notas la enlazan. No reemplaza a un médico ni a un licenciado en nutrición, sobre todo con una enfermedad renal o una indicación de dieta.
+El rango general de proteína de un adulto, como porcentaje de la energía, está en [macronutrientes](../Alimentos-y-nutrientes/macronutrientes.md); las cantidades por kilo para ganar o conservar músculo son las de abajo. Nada de esto reemplaza a un médico ni a un licenciado en nutrición, sobre todo con una enfermedad renal o una indicación de dieta.
 
 ## El estímulo es el entrenamiento de fuerza
 

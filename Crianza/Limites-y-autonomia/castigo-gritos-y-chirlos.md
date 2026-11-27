@@ -60,10 +60,10 @@ La posición de la AAP (Sege y Siegel, 2018) dice, según su resumen: "Aversive 
 
 Los gritos, los insultos y la humillación se estudian como disciplina verbal dura, junto con el castigo físico. La AAP los incluye en la misma frase que el chirlo ("yelling at or shaming children"). La nota de HealthyChildren sobre esa política agrega que "striking a child, yelling at or shaming them can elevate stress hormones and lead to changes in the brain's architecture"; es la misma institución, así que no cuenta como segunda fuente.
 
-El estudio directo más citado es el de Wang y Kenny (2014), con 976 familias. Según su resumen, la disciplina verbal dura de madres y padres a los 13 años predijo más problemas de conducta y síntomas depresivos entre los 13 y los 14, y "maternal and paternal warmth did not moderate the longitudinal associations". Leído sin tecnicismos, el cariño no compensó los gritos (lectura propia). Los autores también encontraron también un efecto del chico, es decir, que la relación va en los dos sentidos.
+El estudio directo más citado es el de Wang y Kenny (2014), con 976 familias. Según su resumen, la disciplina verbal dura de madres y padres a los 13 años predijo más problemas de conducta y síntomas depresivos entre los 13 y los 14, y "maternal and paternal warmth did not moderate the longitudinal associations". Leído sin tecnicismos, el cariño no compensó los gritos (lectura propia). Los autores encontraron también un efecto del chico, es decir, que la relación va en los dos sentidos.
 
 > [!NOTE]
-> Fuente única para la edad: no se encontró un estudio de gritos en chicos de 2 a 6 años. Wang y Kenny es de adolescentes; para preescolares, la base es la declaración de la AAP, que resume el conjunto de la literatura.
+> Fuente única para la edad: no se encontró un estudio de gritos en chicos de 2 a 6 años. Wang y Kenny es de adolescentes; para chicos en edad de jardín, la base es la declaración de la AAP, que resume el conjunto de la literatura.
 
 Los estudios miden la disciplina verbal dura como un patrón que se repite, no un grito aislado (inferencia a partir de cómo se describen las mediciones). Para el momento en que el adulto está por perder el control, la AAP propone que se tome él mismo unos minutos para respirar o llamar a un amigo ([límites y consecuencias](limites-y-consecuencias.md#cómo-se-pone-un-límite-sin-gritar-y-sin-ceder), paso 6).
 

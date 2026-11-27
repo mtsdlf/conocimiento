@@ -51,7 +51,7 @@ De día, la revisión de 2019 marca el umbral: "Inability to achieve at least da
 
 De noche, el umbral también es de 5 años. La SAP define la enuresis nocturna como incontinencia de orina intermitente durante el sueño en chicos "> 5 años de edad", sin otros síntomas urinarios. La misma guía advierte que "La arbitrariedad de los 5 años y el imperativo cultural de controlar esfínteres debería posicionar a los colegas para la evaluación lejos de una mirada de 'enfermedad'", y la describe como "una condición transitoria y de resolución espontánea".
 
-Mojar la cama después de los 5 es frecuente. En una encuesta que cita la guía, sobre 3952 padres de chicos mayores de 5 años en hospitales de la Ciudad de Buenos Aires, el 8,14 % de los chicos mojaba la cama y solo el 21,7 % había recibido alguna intervención. No es una muestra de toda la población. El tratamiento de primera línea según la guía es la alarma; la medicación la indica el médico cuando la alarma no funcionó o no es adecuada.
+Mojar la cama después de los 5 es frecuente. En una encuesta que cita la guía, sobre 3.952 padres de chicos mayores de 5 años en hospitales de la Ciudad de Buenos Aires, el 8,14 % de los chicos mojaba la cama y solo el 21,7 % había recibido alguna intervención. No es una muestra de toda la población. El tratamiento de primera línea según la guía es la alarma; la medicación la indica el médico cuando la alarma no funcionó o no es adecuada.
 
 > [!NOTE]
 > Sin fuente todavía: la página de la AAP en castellano para familias, la guía AAP de 1999 leída entera, una edad argentina de logro de continencia y la tabla de prevalencia de enuresis por edad que trae la guía de la SAP.

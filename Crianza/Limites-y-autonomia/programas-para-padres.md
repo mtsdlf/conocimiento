@@ -30,7 +30,7 @@ Leijten y otros (2019) analizaron 154 ensayos aleatorizados y 26 técnicas. Seg�
 
 Una consecuencia natural es lo que pasa solo (no se puso el abrigo y tiene frío); una lógica la pone el adulto y está atada a la falta (tiró la comida, la comida se termina). Los ejemplos son propios, para ilustrar.
 
-Kaminski y otros (2008) revisaron 77 evaluaciones de chicos de 0 a 7 años. Según un resumen secundario, asoció con efectos mayores aumentar la interacción positiva entre padres e hijo, enseñar tiempo fuera y consistencia, y practicar con el chico durante las sesiones. Leijten no ubica el tiempo fuera entre las técnicas con efecto diferencial. Las dos lecturas pueden convivir si casi todos los programas lo enseñan y por eso no hay contraste, pero lo leído no alcanza para afirmarlo.
+Kaminski y otros (2008) revisaron 77 evaluaciones de chicos de 0 a 7 años. Según un resumen secundario, asociaron con efectos mayores aumentar la interacción positiva entre padres e hijo, enseñar tiempo fuera y consistencia, y practicar con el chico durante las sesiones. Leijten no ubica el tiempo fuera entre las técnicas con efecto diferencial. Las dos lecturas pueden convivir si casi todos los programas lo enseñan y por eso no hay contraste, pero lo leído no alcanza para afirmarlo.
 
 ## Cuánto ayudan según el problema
 
@@ -43,10 +43,10 @@ Todas las cifras son las de los resúmenes de los estudios.
 | Programa o revisión | Qué midió | Ojo con |
 |---|---|---|
 | Cochrane (Furlong y otros), programas grupales, 3 a 12 años | 13 ensayos; menos problemas de conducta según los padres (SMD -0,53; IC 95 % -0,72 a -0,34) y según observadores (SMD -0,44); menos crianza dura y mejor salud mental de los padres | Chicos con problemas de conducta; la página de Cochrane la fecha en 2022 y no se verificó si es la versión de 2012 |
-| Cochrane 2016 (Barlow), programas grupales, hasta 3 años 11 meses | 22 ensayos aleatorizados y 2 cuasi-aleatorizados, 3161 participantes; problemas externalizantes SMD -0,23 (IC -0,46 a -0,01; 8 estudios) | Calidad de evidencia baja a moderada; no cubre de 4 a 6 |
+| Cochrane 2016 (Barlow), programas grupales, hasta 3 años 11 meses | 22 ensayos aleatorizados y 2 cuasi-aleatorizados, 3.161 participantes; problemas externalizantes SMD -0,23 (IC -0,46 a -0,01; 8 estudios) | Calidad de evidencia baja a moderada; no cubre de 4 a 6 |
 | Triple P | 101 estudios, 16.099 familias; conducta infantil d = 0,473 a corto plazo | El metaanálisis es del creador del programa; ver la disputa abajo |
 | Incredible Years | 50 estudios; d = 0,27 en conducta disruptiva en general; d = 0,50 en tratamiento, 0,20 en prevención indicada y 0,13 en selectiva | El efecto en prevención es chico |
-| PCIT (terapia de interacción padres-hijo) | 23 estudios, 1144 participantes; SMD -0,87 en conducta externalizante | Es un tratamiento clínico para problemas de conducta, no crianza corriente |
+| PCIT (terapia de interacción padres-hijo) | 23 estudios, 1.144 participantes; SMD -0,87 en conducta externalizante | Es un tratamiento clínico para problemas de conducta, no crianza corriente |
 
 > [!IMPORTANT]
 > Sobre Triple P hay disputa. Wilson y otros (2012) concluyeron que su investigación tiene alto riesgo de sesgo, por la afiliación de los autores, reporte selectivo y conflictos de interés no declarados, y que no hay "convincing evidence" de beneficios a largo plazo o en la población. Los creadores respondieron que las acusaciones eran inexactas. Las dos posturas se conocen por el resumen del buscador, no por los textos.

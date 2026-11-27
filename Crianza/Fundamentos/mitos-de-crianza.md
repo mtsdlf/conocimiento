@@ -45,7 +45,7 @@ Varios tienen un origen real: el efecto Mozart salió de un estudio con universi
 | Hay gente de cerebro izquierdo y de cerebro derecho | La lateralización es local, no un rasgo de la persona | Neuroimagen | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
 | Cada chico aprende mejor en su estilo (visual, auditivo) | No hay base para enseñar según el estilo | Revisión | [Estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md) |
 | Los primeros tres años lo deciden todo | Hay más sensibilidad temprana, no una ventana que se cierra | Disputa | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
-| El azúcar los pone hiperactivos | Los estudios no encuentran efecto | Un metaanálisis | [Nutrición](../../Nutricion/nutricion.md) |
+| El azúcar los pone hiperactivos | Los estudios no encuentran efecto | Un metaanálisis | [Azúcar y golosinas](../../Nutricion/Alimentacion-infantil/azucar-y-golosinas.md) |
 | Las vacunas causan autismo | Sin asociación en millones de chicos | Revisión y cohorte nacional | [Controles y vacunas](../Salud-y-rutinas/controles-y-vacunas.md) |
 | El CI de un chico chico marca su futuro | Antes de los 7 años el CI es poco estable | Metaanálisis | [Señales y evaluación](../Altas-capacidades/senales-y-evaluacion.md) |
 
@@ -53,7 +53,7 @@ Varios tienen un origen real: el efecto Mozart salió de un estudio con universi
 
 El estudio original midió a estudiantes universitarios, y la idea de poner Mozart a un bebé llegó después. Un metaanálisis de 39 estudios con 3.109 participantes no halló evidencia de una mejora cognitiva específica por escuchar Mozart, según el comunicado de la Universidad de Viena (Pietschnig, Voracek y Formann 2010). Schellenberg lee el mismo metaanálisis como una mejora chica y de corto plazo en tareas espaciales. Ninguna de las dos lecturas sostiene que haga más inteligente.
 
-Las clases de música tampoco mostraron ese efecto en preescolares. Dos ensayos aleatorizados compararon música con artes visuales y con nada, sin beneficios cognitivos consistentes fuera de la música (Mehr y otros 2013). La música vale por sí misma, no como atajo.
+Las clases de música tampoco mostraron ese efecto en chicos en edad de jardín. Dos ensayos aleatorizados compararon música con artes visuales y con nada, sin beneficios cognitivos consistentes fuera de la música (Mehr y otros 2013); lo que la música vale por sí misma está en [actividades](../Juego-y-aprendizaje/actividades.md).
 
 ## Los videos para bebés no enseñan a hablar ni a leer
 
@@ -86,7 +86,7 @@ Dos fuentes independientes coinciden. Una revisión Cochrane de 2021 sobre la va
 
 Un metaanálisis de 205 estudios longitudinales con 87.408 participantes halló "low stability in preschool children": la estabilidad mínima para decisiones individuales "can only be expected over the age of 7" (Breit y otros 2024, leído el resumen y el método). Un número de CI a los 4 años no es una medida fija del chico. Eso pesa al pensar en [altas capacidades](../Altas-capacidades/senales-y-evaluacion.md).
 
-La heredabilidad tampoco es destino. El 49 % promedio de Polderman y otros (2015) describe qué parte de las diferencias entre personas de una población va con las diferencias genéticas, no cuánto de un chico está escrito (ver [enfoques de crianza](enfoques-de-crianza.md)). En sentido contrario, las ventajas que dan los programas tempranos tienden a desvanecerse: en 67 programas, el efecto cognitivo promedió 0,23 desviaciones estándar al terminar y cerca de 0,10 a los 12 meses (Bailey y otros 2017).
+La heredabilidad tampoco es destino. El 49 % promedio de Polderman y otros (2015) describe qué parte de las diferencias entre personas de una población va con las diferencias genéticas, no cuánto de un chico está escrito; la discusión entera está en [cuánto pesa la crianza](cuanto-pesa-la-crianza.md). En sentido contrario, las ventajas que dan los programas tempranos tienden a desvanecerse: en 67 programas, el efecto cognitivo promedió 0,23 desviaciones estándar al terminar y cerca de 0,10 a los 12 meses (Bailey y otros 2017).
 
 > [!NOTE]
 > Sin fuente todavía: una revisión sobre la heredabilidad del CI a lo largo de la infancia y sobre la estimulación temprana para "hacer superdotados" en hogares que ya estimulan.

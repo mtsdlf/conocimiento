@@ -49,14 +49,12 @@ Estos pasos aplican la lista de la NAGC; no hay estudios que comparen formas de 
 
 ## Elogiar lo que hace, no lo que es
 
-El estudio clásico es el de Mueller y Dweck (1998): seis experimentos con chicos de quinto grado, de unos 10 a 11 años. Según su resumen, los chicos elogiados por su inteligencia después elegían problemas más fáciles y tuvieron peor motivación que los elogiados por su esfuerzo. Llevado a un chico al que todos le dicen que es muy inteligente, el riesgo que se infiere es que evite lo difícil para no dejar de serlo; el estudio no se hizo con chicos adelantados.
-
-La evidencia para esta edad es más chica. Un estudio de 53 chicos halló que el elogio de los padres al proceso entre los 14 y los 38 meses predijo, a los 7 u 8 años, la creencia de que la inteligencia se puede desarrollar (Gunderson y otros, 2013, según su resumen). Es un estudio observacional de un solo grupo.
+En los experimentos de Mueller y Dweck (1998), hechos con chicos de 10 a 11 años, los elogiados por su inteligencia después elegían problemas más fáciles que los elogiados por su esfuerzo; el estudio y la evidencia para chicos más chicos, que es de un solo grupo de 53 chicos, están en [elogio y mentalidad](../Emociones-y-caracter/elogio-y-mentalidad.md). Llevado a un chico al que todos le dicen que es muy inteligente, el riesgo que se infiere es que evite lo difícil para no dejar de serlo; el estudio no se hizo con chicos adelantados.
 
 > [!IMPORTANT]
-> La "mentalidad de crecimiento" tiene menos sustento que lo que promete la divulgación. Un metaanálisis de 2018 (273 estudios sobre mentalidad y logro, 43 sobre intervenciones) halló efectos débiles en general, con posible ventaja en chicos de bajo nivel socioeconómico (Sisk y otros, según su resumen). Otro de 2023, del mismo grupo, halló que el efecto de las intervenciones es pequeño y no significativo al corregir el sesgo de publicación (Macnamara y Burgoyne, según su resumen). Elogiar el proceso sigue siendo razonable; esperar que cambie el destino del chico, no.
+> La "mentalidad de crecimiento" tiene menos sustento que lo que promete la divulgación. Dos metaanálisis (Sisk y otros, 2018; Macnamara y Burgoyne, 2023) hallaron efectos débiles en general, y no significativos en las intervenciones al corregir el sesgo de publicación; las cifras están en la misma nota. Elogiar el proceso sigue siendo razonable, sin esperar que cambie el destino del chico.
 
-Cómo elogiar en la práctica está en [elogio y mentalidad](../Emociones-y-caracter/elogio-y-mentalidad.md).
+Cómo elogiar en la práctica está en esa misma nota.
 
 ## Lo que no hace falta comprar
 
@@ -66,8 +64,8 @@ Con un chico adelantado la tentación de sobreestimular es mayor, y el costo, au
 
 ## La intensidad no es una señal ni un defecto
 
-Muchos textos de divulgación describen a estos chicos como "intensos" o "sobreexcitables", siguiendo a Dabrowski. Un metaanálisis reciente (230 tamaños de efecto de 20 estudios) halló una asociación positiva con las altas capacidades, más fuerte en lo intelectual y más débil en lo emocional. El resultado "varió según cómo se definió superdotación" y no fue significativo cuando se basó solo en inteligencia general; los autores aconsejan cautela (según su resumen, una sola fuente). Si el chico es intenso, se acompaña como cualquier [temperamento](../Emociones-y-caracter/temperamento.md), sin tomarlo como prueba de nada.
+Muchos textos de divulgación describen a estos chicos como "intensos" o "sobreexcitables", siguiendo a Dabrowski. Un metaanálisis reciente (230 tamaños de efecto de 20 estudios) halló una asociación positiva con las altas capacidades, más fuerte en lo intelectual y más débil en lo emocional. El resultado "varió según cómo se definió superdotación" y no fue significativo cuando se basó solo en inteligencia general; hay probable sesgo de publicación y los autores aconsejan cautela (según su resumen, una sola fuente). Si el chico es intenso, se acompaña como cualquier [temperamento](../Emociones-y-caracter/temperamento.md), sin tomarlo como prueba de nada.
 
 ## Sus pares y sus adultos
 
-La NAGC pide las dos clases de pares: chicos de su edad, y chicos con sus intereses, con los que puede hablar de lo que le apasiona. En casa eso se traduce en plazas, cumpleaños y también en algún taller o grupo de su interés. Sobre los adultos que lo cuidan, ver [cuidadores](../Vinculo/cuidadores.md).
+La NAGC pide las dos clases de pares: chicos de su edad, y chicos con sus intereses, con los que puede hablar de lo que le apasiona. En casa eso se traduce en plazas, cumpleaños y también en algún taller o grupo de su interés. Cómo se coordinan los adultos que lo cuidan está en [cuidadores](../Vinculo/cuidadores.md).

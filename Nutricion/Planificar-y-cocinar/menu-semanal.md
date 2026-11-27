@@ -23,18 +23,14 @@ El menú es el primer paso de [planificar y cocinar](planificar-y-cocinar.md): d
 
 ## Las frecuencias que ordenan la semana
 
-La gráfica del Ministerio de Salud no da gramos: da porciones orientativas y cuántas veces por semana va cada alimento. Son estas, tal como las presenta la [página de la gráfica](https://argentina.gob.ar/salud/alimentacion-saludable/grafico):
+La gráfica del Ministerio de Salud no da gramos: da porciones orientativas y cuántas veces por semana va cada alimento ([página de la gráfica](https://argentina.gob.ar/salud/alimentacion-saludable/grafico)). La tabla completa, con la advertencia sobre cómo se leyó, está en [grupos de alimentos](../Alimentos-y-nutrientes/grupos-de-alimentos.md). Las frecuencias que ordenan la semana son estas:
 
-| Grupo | Frecuencia en las GAPA |
-|---|---|
-| Frutas y verduras | 5 porciones diarias: "2 o 3 frutas por día y medio plato de verduras en el almuerzo y en la cena" |
-| Leche, yogur y queso | 3 porciones diarias, preferentemente descremados (para población general) |
-| Carnes y huevo | Una porción diaria del tamaño de la palma de la mano; pescado 2 o más veces por semana; carne roja hasta 3 veces por semana; huevo hasta uno por día |
-| Legumbres, cereales, papa, pan y pastas | Diario; cereales preferentemente integrales (mensaje 8) |
-| Aceite, frutas secas y semillas | 2 cucharadas soperas de aceite crudo por día; un puñado de frutos secos o semillas sin sal al menos una vez por semana |
-| Dulces y ultraprocesados con exceso de azúcar, grasa o sal | Opcionales; "no deben formar parte de la alimentación diaria" |
+- **Todos los días**: 5 porciones de frutas y verduras ("2 o 3 frutas por día y medio plato de verduras en el almuerzo y en la cena"), 3 porciones de leche, yogur o queso, una porción de carne del tamaño de la palma de la mano, hasta un huevo y 2 cucharadas soperas de aceite crudo.
+- **Por semana**: pescado 2 o más veces, carne roja hasta 3 veces y un puñado de frutas secas o semillas sin sal al menos una vez.
+- **Sin cantidad leída**: legumbres, cereales, papa, pan y pastas; el mensaje 8 pide cereales "preferentemente integrales".
+- **Fuera de la alimentación diaria**: los dulces y los ultraprocesados con exceso de azúcar, grasa o sal.
 
-Estas cantidades salen de una sola fuente institucional, leída a través de un extractor de la página web; la versión de la FAO traduce al Ministerio y no es independiente. Antes de tomarlas como dosis conviene cotejarlas con el PDF completo de las GAPA. El "descremados" está dicho para la población general: para chicos de 2 a 5 años no se verificó qué dice la guía infantil ([necesidades de 2 a 6](../Alimentacion-infantil/necesidades-de-2-a-6.md)).
+El "preferentemente descremados" de los lácteos está dicho para la población general: para chicos de 2 a 5 años no se verificó qué dice la guía infantil ([necesidades de 2 a 6](../Alimentacion-infantil/necesidades-de-2-a-6.md)).
 
 ## Cómo armar el menú de la semana
 
@@ -42,8 +38,8 @@ Estas cantidades salen de una sola fuente institucional, leída a través de un 
 2. **Sumá medio plato de verduras a cada almuerzo y cena.** Variá tipos y colores, como pide el mensaje 3 de las GAPA, y dejá las frutas para postres, desayunos y meriendas: dos o tres por día.
 3. **Completá con el almidón.** Legumbres, arroz o fideos (mejor integrales), papa, batata, choclo o mandioca. Una olla de legumbres o de arroz sirve para dos o tres comidas.
 4. **Ubicá los lácteos en desayuno y merienda.** Tres porciones por día entre leche, yogur y queso.
-5. **Agregá el aceite crudo y los frutos secos.** Aceite como condimento, no para freír, y un puñado de frutos secos o semillas en la semana. Para un chico menor de cuatro años los frutos secos enteros son un riesgo de [atragantamiento](../Alimentacion-infantil/atragantamiento.md): molidos o en pasta fina.
-6. **Ajustá para cada comensal sin cocinar otro plato.** El chico come lo mismo en su porción y con los alimentos de riesgo cortados; el adulto que baja grasa o gana músculo cambia proporciones en su plato. Cómo se hace está en [un menú para todos](../Comer-en-familia/un-menu-para-todos.md).
+5. **Agregá el aceite crudo y las frutas secas.** Aceite como condimento, no para freír, y un puñado de frutas secas o semillas en la semana. Para un chico menor de cuatro años las frutas secas y las semillas quedan afuera, por el riesgo de [atragantamiento](../Alimentacion-infantil/atragantamiento.md).
+6. **Ajustá para cada comensal sin cocinar otro plato.** El chico come lo mismo en su porción y con los alimentos de riesgo cortados; el adulto que baja grasa o gana músculo cambia proporciones en su plato. Cómo se hace está en [un menú para todos](../Comer-en-familia/un-menu-para-todos.md), y lo que necesita cada objetivo, en [pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md), [masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md) y [rendimiento](../Objetivos-del-adulto/rendimiento.md).
 7. **Marcá qué se cocina por tandas y qué sobra para otro día.** Una carne al horno del domingo puede ser el relleno del martes; los plazos de heladera están en [higiene y conservación](higiene-y-conservacion.md).
 8. **Sacá la lista de compras del menú.** Recorré la semana y anotá todo lo que falta en la [despensa](compras-y-despensa.md).
 9. **Dejá el agua como bebida de la mesa.** El mensaje 2 de las GAPA pide 8 vasos de agua segura por día y el mensaje 5, limitar las bebidas azucaradas.
@@ -52,7 +48,7 @@ Que el chico participe ayuda a que acepte lo que hay en la mesa: el folleto de v
 
 ## Una semana de ejemplo
 
-Un ejemplo armado para esta nota con las frecuencias de arriba, no una receta de las GAPA. Muestra cómo encajan los límites semanales en catorce comidas.
+Un ejemplo propio, armado con las frecuencias de arriba; no es una receta de las GAPA. Muestra cómo encajan los límites semanales en catorce comidas.
 
 | Día | Almuerzo | Cena |
 |---|---|---|

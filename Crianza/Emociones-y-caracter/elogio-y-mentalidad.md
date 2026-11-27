@@ -9,6 +9,7 @@ fuentes:
   - "Gunderson y otros (2013). Child Development, 84(5), 1526-1541 (resumen vía Europe PMC)."
   - "Gunderson y otros (2018). Developmental Psychology, 54(3), 397-409 (resumen vía Europe PMC)."
   - https://news.osu.edu/when-being-called-incredibly-good-is-bad-for-children/
+  - https://www.columbia.edu/cu/psychology/courses/3615/Readings/Mueller_Dweck.pdf
 aliases: [growth mindset, mentalidad de crecimiento, mentalidad fija, elogio de proceso, cómo elogiar]
 dueno: familia
 creado: 2026-11-27
@@ -23,6 +24,8 @@ Elogiar el esfuerzo y el proceso en vez de la inteligencia se asocia, en un estu
 
 La idea viene de Carol Dweck, cuyos textos no se leyeron para esta nota. Según su teoría, un chico con mentalidad fija cree que la inteligencia es algo que se tiene o no; uno con mentalidad de crecimiento cree que se desarrolla con esfuerzo. El elogio sería una de las vías por las que se forma: "qué inteligente sos" enseña que la capacidad es fija, y "cómo te esforzaste con ese rompecabezas" enseña que mejora con trabajo.
 
+El estudio clásico es el de Mueller y Dweck (1998): seis experimentos con chicos de quinto grado, de unos 10 a 11 años. Según su resumen, los chicos elogiados por su inteligencia después elegían problemas más fáciles y tuvieron peor motivación que los elogiados por su esfuerzo. No se hizo con chicos de 0 a 6 años.
+
 Los ejemplos de la tabla son ilustraciones propias.
 
 | Tipo de elogio | Ejemplo | Lo que transmitiría |
@@ -35,7 +38,7 @@ Los ejemplos de la tabla son ilustraciones propias.
 
 La evidencia para la primera infancia viene de un solo grupo y una sola muestra. Gunderson y otros midieron cómo elogiaban los padres a 53 chicos de 14 a 38 meses (según sus resúmenes). El elogio de proceso a esa edad predijo que los chicos, a los 7 u 8 años, creyeran que la inteligencia se desarrolla; el elogio de rasgo no predijo lo contrario (2013). En el seguimiento, el elogio de proceso a 1 a 3 años predijo el rendimiento en matemática y lectura en cuarto grado, a través de esas creencias (2018).
 
-Son estudios observacionales con 53 chicos: sugieren una dirección, no la prueban. No hay un metaanálisis del elogio en preescolares.
+Son estudios observacionales con 53 chicos: sugieren una dirección, no la prueban. No hay un metaanálisis del elogio en chicos en edad de jardín.
 
 ## Qué quedó de la mentalidad de crecimiento
 
@@ -53,9 +56,9 @@ Un estudio de Brummelman y otros (2014) encontró que el elogio inflado ("incre�
 
 ## Cómo elogiar, con lo que se sabe
 
-Con esta evidencia, una salida razonable, que es inferencia propia, es elogiar de forma concreta y nombrar lo que el chico hizo, sin esperar que eso cambie su rendimiento. La AAP recomendaría elogiar de forma específica la buena conducta para prevenir los [berrinches](berrinches.md) (cita sin cotejar con la fuente). El elogio puede funcionar como un premio, con los problemas que eso tiene para la motivación propia, como explican [premios](../Limites-y-autonomia/premios.md) y [empatía y valores](empatia-y-valores.md).
+Con esta evidencia, una salida razonable, que es inferencia propia, es elogiar de forma concreta y nombrar lo que el chico hizo, sin esperar que eso cambie su rendimiento. La AAP recomendaría elogiar de forma específica la buena conducta para prevenir los [berrinches](berrinches.md) (cita sin cotejar con la fuente). El elogio también es una forma de refuerzo, y en los experimentos sobre motivación sale mejor parado que el premio material, como explican [premios](../Limites-y-autonomia/premios.md) y [empatía y valores](empatia-y-valores.md).
 
 Una hipótesis propia, sin fuente para esta edad: un chico al que siempre le dicen que es inteligente podría evitar lo que le cuesta para no dejar de parecerlo. Los riesgos de etiquetar y el perfeccionismo están en [riesgos](../Altas-capacidades/riesgos.md) y en [acompañar en casa](../Altas-capacidades/acompanar-en-casa.md).
 
 > [!NOTE]
-> Sin fuente todavía: el estudio clásico de Mueller y Dweck (1998) sobre elogio de inteligencia y de esfuerzo, no leído; evidencia del elogio específica para chicos de 3 a 6 años más allá de Gunderson.
+> Sin fuente todavía: el texto completo de Mueller y Dweck (1998), del que solo se leyó el resumen; evidencia del elogio específica para chicos de 3 a 6 años más allá de Gunderson.

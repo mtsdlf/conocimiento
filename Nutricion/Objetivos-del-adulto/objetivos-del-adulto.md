@@ -30,16 +30,16 @@ Casi todos los objetivos se mueven con dos perillas. La primera es el balance de
 | Objetivo | Energía | Proteína | Qué más pesa |
 |---|---|---|---|
 | [Bajar grasa](perdida-de-grasa.md) | déficit sostenido | alta, para no perder músculo | saciedad, ritmo, mantenimiento |
-| [Ganar músculo o recomponer](masa-muscular-y-recomposicion.md) | superávit, o déficit chico en principiantes | la nota dueña de las cantidades | entrenamiento de fuerza |
-| [Rendir](rendimiento.md) | suficiente para entrenar | según la guía | carbohidratos, líquidos, cafeína, sueño |
-| [Salud a largo plazo](salud-a-largo-plazo.md) | la que mantiene un peso estable | la del patrón general | sodio, granos enteros, fruta, alcohol |
+| [Ganar músculo o recomponer](masa-muscular-y-recomposicion.md) | superávit, o déficit chico en principiantes | alta; las cantidades están en esa nota | entrenamiento de fuerza |
+| [Rendir](rendimiento.md) | suficiente para entrenar | la de ganar músculo | carbohidratos, líquidos, cafeína, sueño |
+| [Salud a largo plazo](salud-a-largo-plazo.md) | sin ajuste propio; bajar algo de peso si sobra | la del patrón general | sodio, granos enteros, fruta, alcohol |
 | [Estética](estetica.md) | la de bajar grasa, más lenta | la de recomponer | expectativas y señales de alarma |
 
-La proteína tiene una sola nota dueña, [masa muscular y recomposición](masa-muscular-y-recomposicion.md): las cifras viven ahí y las demás notas la enlazan.
+Las cantidades de proteína por kilo están en [masa muscular y recomposición](masa-muscular-y-recomposicion.md), y el rango general, en [macronutrientes](../Alimentos-y-nutrientes/macronutrientes.md).
 
 ## El tipo de dieta pesa poco frente a la adherencia
 
-Lo que muestran las fuentes es que, entre dietas razonables, el tipo de dieta pesa menos que poder sostenerla. En el ensayo DIETFITS, 609 adultos asignados al azar a una dieta baja en grasas o baja en carbohidratos, las dos saludables, bajaron 5,3 kg y 6,0 kg a los 12 meses, una diferencia de 0,7 kg que no fue significativa; el ensayo no fijó calorías iguales entre los grupos ([Gardner y otros, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5839290), según su resumen). La ISSN dice lo mismo en general: dietas de bajas en grasa a cetogénicas "can be similarly effective for improving body composition". El detalle, con el debate entre quienes creen que solo cuentan las calorías y quienes culpan a la insulina, está en [pérdida de grasa](perdida-de-grasa.md); cada dieta de moda, en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md).
+Lo que muestran las fuentes es que, entre dietas razonables, el tipo de dieta pesa menos que poder sostenerla. En el ensayo DIETFITS, 609 adultos asignados al azar a una dieta baja en grasas o baja en carbohidratos, las dos saludables, bajaron 5,3 kg y 6,0 kg a los 12 meses, una diferencia de 0,7 kg que no fue significativa; el ensayo no fijó calorías iguales entre los grupos ([Gardner y otros, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5839290), según su resumen). La ISSN dice lo mismo en general: dietas de bajas en grasa a cetogénicas "can be similarly effective for improving body composition". El detalle está en [pérdida de grasa](perdida-de-grasa.md); el debate entre quienes creen que solo cuentan las calorías y quienes culpan a la insulina, en [debates de nutrición](../Fundamentos/debates-de-nutricion.md); y cada dieta de moda, en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md).
 
 ## La comida acompaña al entrenamiento
 
@@ -51,10 +51,10 @@ Los objetivos fallan casi siempre por las mismas tres razones. La primera es no 
 
 ## Qué hay adentro de los objetivos del adulto
 
-- [Pérdida de grasa](perdida-de-grasa.md): el déficit, el ritmo, la saciedad, por qué cuesta mantener y qué pasa con el ayuno.
-- [Masa muscular y recomposición](masa-muscular-y-recomposicion.md): cuánta proteína hace falta y cuándo se puede ganar músculo mientras se baja grasa.
-- [Rendimiento](rendimiento.md): comer para entrenar, cafeína y sueño.
-- [Salud a largo plazo](salud-a-largo-plazo.md): qué riesgos de la dieta pesan más en la salud de la población y qué dice la evidencia del alcohol.
-- [Estética](estetica.md): qué cambio del aspecto es realista, qué riesgos tienen las dietas extremas y cuándo consultar.
-- [Suplementos](suplementos.md): ficha de los que tienen evidencia (creatina, cafeína) y de la regulación de ANMAT, copiada en noviembre de 2026.
-- [Medir el progreso](medir-el-progreso.md): peso, cintura y composición corporal, con el error de cada método.
+- [Pérdida de grasa](perdida-de-grasa.md) — el déficit, el ritmo, la saciedad, por qué cuesta mantener y qué pasa con el ayuno.
+- [Masa muscular y recomposición](masa-muscular-y-recomposicion.md) — cuánta proteína hace falta y cuándo se puede ganar músculo mientras se baja grasa.
+- [Rendimiento](rendimiento.md) — comer para entrenar, cafeína y sueño.
+- [Salud a largo plazo](salud-a-largo-plazo.md) — qué riesgos de la dieta pesan más en la salud de la población y qué dice la evidencia del alcohol.
+- [Estética](estetica.md) — qué cambio del aspecto es realista, qué riesgos tienen las dietas extremas y cuándo consultar.
+- [Suplementos](suplementos.md) — ficha de los que tienen evidencia (creatina, cafeína) y de la regulación de ANMAT, copiada en noviembre de 2026.
+- [Medir el progreso](medir-el-progreso.md) — peso, cintura y composición corporal, con el error de cada método.

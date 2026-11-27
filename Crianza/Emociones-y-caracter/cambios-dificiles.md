@@ -39,7 +39,7 @@ El metaanálisis clásico de Amato y Keith (1991), con 92 estudios, encontró qu
 
 La AAP agrega el lado práctico: muchos chicos pasan por sentimientos dolorosos de corto plazo y se recuperan dentro de los 2 a 3 años posteriores a la separación, y un estilo de crianza estable los protege (según su resumen). Que los padres sigan criando en equipo después de separarse es lo que trata [cuidadores](../Vinculo/cuidadores.md).
 
-Hay dos fuentes independientes que coinciden, un metaanálisis y una guía de sociedad pediátrica: el efecto promedio de la separación existe y es chico, y un estilo de crianza estable protege al chico, según la AAP.
+Son dos fuentes independientes, un metaanálisis y una guía de sociedad pediátrica, y apuntan en la misma dirección: el efecto promedio de la separación existe y es chico.
 
 > [!NOTE]
 > Sin fuente todavía: datos específicos para chicos de 2 a 6 años; ensayos sobre programas para hijos de padres separados; la mirada de la SAP o de UNICEF.
@@ -48,7 +48,7 @@ Hay dos fuentes independientes que coinciden, un metaanálisis y una guía de so
 
 Fuentes de hospitales y servicios de salud coinciden en cómo entienden la muerte los chicos de 3 a 6 años, aunque ninguna se apoya en estudios: es opinión de expertos.
 
-- Los preescolares suelen no entender la causa ni que la muerte es definitiva (Children's Colorado, según el informe de fuentes), y con su pensamiento mágico pueden creer que es reversible (Children's Hospital of Philadelphia, según su resumen).
+- Los chicos en edad de jardín suelen no entender la causa ni que la muerte es definitiva (Children's Colorado, según el informe de fuentes), y con su pensamiento mágico pueden creer que es reversible (Children's Hospital of Philadelphia, según su resumen).
 - Creen que sus pensamientos causan las cosas, así que conviene asegurarles que no tuvieron la culpa (Alberta Health, según su resumen).
 - Los menores de 3 años no temen a la muerte, pero sí sufren la separación y la pérdida (Zero to Three, según su resumen).
 

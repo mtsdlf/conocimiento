@@ -17,7 +17,7 @@ revisado:
 
 Una alergia alimentaria es una reacción del sistema inmune a un alimento; en los chicos chicos la causan sobre todo ocho alimentos, se diagnostica con el médico y se trata evitando ese alimento.
 
-Esta nota se apoya en una sola fuente argentina leída completa, la ficha divulgativa del Comité Nacional de Alergia de la Sociedad Argentina de Pediatría (SAP). Para el riesgo de anafilaxia falta una segunda fuente independiente leída, aunque es un punto estándar de la pediatría. Una sospecha de alergia se consulta con el pediatra o el alergista: esta nota no sirve para diagnosticar.
+Lo que sigue se apoya en una sola fuente argentina leída completa, la ficha divulgativa del Comité Nacional de Alergia de la Sociedad Argentina de Pediatría (SAP). Para el riesgo de anafilaxia falta una segunda fuente independiente leída, aunque es un punto estándar de la pediatría. Una sospecha de alergia se consulta con el pediatra o el alergista: nada de lo que sigue sirve para diagnosticar.
 
 ## Cuántos chicos y qué alimentos
 

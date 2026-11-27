@@ -20,7 +20,7 @@ revisado:
 
 Un chico aprende a hablar comprendiendo antes de decir, usando gestos antes que palabras y conversando con adultos que le responden; lo que mejor acompaña ese aprendizaje es el habla dirigida a él y la conversación por turnos, más que la cantidad de palabras que oye.
 
-Qué se espera a cada edad está en la tabla de [dominios e hitos](dominios-e-hitos.md). Acá se ve cómo se llega.
+Qué se espera a cada edad está en la tabla de [dominios e hitos](dominios-e-hitos.md).
 
 ## Primero se comprende, primero se señala
 

@@ -18,7 +18,7 @@ revisado:
 
 Higiene y conservación son las reglas para preparar y guardar la comida sin que transmita enfermedades: las cinco claves de la OMS, las temperaturas de cocción y de frío, los plazos de heladera y freezer, y la prevención del síndrome urémico hemolítico en los chicos.
 
-Es el último paso de [planificar y cocinar](planificar-y-cocinar.md) y el que sostiene a los otros: [cocinar por tandas](cocinar-por-tandas.md) depende de estos plazos y temperaturas, y [compras y despensa](compras-y-despensa.md) los aplica al guardar lo que entra. Esta nota resume guías oficiales y no reemplaza al pediatra ni al médico.
+Es el último paso de [planificar y cocinar](planificar-y-cocinar.md) y el que sostiene a los otros: [cocinar por tandas](cocinar-por-tandas.md) depende de estos plazos y temperaturas, y [compras y despensa](compras-y-despensa.md) los aplica al guardar lo que entra. Son guías oficiales resumidas, que no reemplazan al pediatra ni al médico.
 
 ## Las cinco claves de la OMS
 
@@ -40,7 +40,7 @@ Las cifras son del Ministerio de Salud, citadas textuales de su [página de ETA]
 | Recongelado | "No vuelvas a congelar un alimento que ya fue descongelado, a menos que lo cocines antes" |
 | Recalentado | "Recalentá completamente la comida cocinada" |
 
-Entre 5 °C y 60 °C la comida está en la franja donde las bacterias crecen; por eso las reglas empujan a salir rápido de ella, hacia arriba o hacia abajo. La explicación de la franja es una inferencia de las dos cifras del Ministerio, que no la nombra. Para carnes rojas y pollo, el Ministerio pide además que no queden partes rojas por dentro, sobre todo en trozos grandes, pollos enteros y carne picada, .
+Entre 5 °C y 60 °C la comida está en la franja donde las bacterias crecen; por eso las reglas empujan a salir rápido de ella, hacia arriba o hacia abajo. La explicación de la franja es una inferencia de las dos cifras del Ministerio, que no la nombra. Para carnes rojas y pollo, el Ministerio pide además que no queden partes rojas por dentro, sobre todo en trozos grandes, pollos enteros y carne picada.
 
 > [!NOTE]
 > Sin fuente todavía: la temperatura recomendada de la heladera y del freezer en grados para el hogar. ANMAT no la da en su página, y las tablas de USDA (FoodKeeper) no se pudieron leer.
@@ -71,7 +71,7 @@ Las cifras de Argentina, de una nota del Ministerio de Salud del 18 de agosto de
 
 - En 2026 se notificaron 73 casos en todo el país hasta esa fecha, la cifra más baja para ese período desde 2016.
 - En 2025 hubo 209 casos, con una tasa de 0,44 por 100.000 habitantes, la más baja de 2015 a 2025.
-- Los niños de 1 año tienen la tasa más alta: 8,6 casos cada 100.000 chicos de esa edad. El grupo de 2 a 4 años concentró el 43 % de los casos de 2025 y el de 1 año, el 30 %.
+- Los chicos de 1 año tienen la tasa más alta: 8,6 casos cada 100.000 chicos de esa edad. El grupo de 2 a 4 años concentró el 43 % de los casos de 2025 y el de 1 año, el 30 %.
 
 Es una sola fuente, oficial, y la tendencia es a la baja. Para una familia con un chico chico, las cinco claves se traducen en carne, sobre todo picada, cocida sin partes rojas por dentro; tablas y cuchillos distintos o lavados entre crudo y cocido; manos lavadas después de cambiar pañales y antes de cocinar; y agua segura.
 

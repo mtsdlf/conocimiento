@@ -20,7 +20,7 @@ revisado:
 
 El atragantamiento es la obstrucción de la vía aérea por un trozo de comida; en los menores de 4 años se previene evitando o cortando los alimentos redondos, duros o pegajosos y haciendo que el chico coma sentado y acompañado.
 
-Lo que sigue se apoya en dos fuentes independientes leídas completas: las recomendaciones de la Sociedad Argentina de Pediatría (SAP) sobre la prevención de la aspiración de cuerpos extraños orgánicos (*Archivos Argentinos de Pediatría*, 2017) y la página de prevención de la Academia Americana de Pediatría (AAP). Las dos son revisiones de guías y de datos observacionales de accidentes, que es lo que existe en este tema: no hay ensayos. Ninguna reemplaza un curso de primeros auxilios ni la consulta con el pediatra.
+Lo que sigue se apoya en dos fuentes independientes leídas completas: las recomendaciones de la Sociedad Argentina de Pediatría (SAP) sobre la prevención de la aspiración de cuerpos extraños orgánicos (*Archivos Argentinos de Pediatría*, 2017) y la página de prevención de la Academia Estadounidense de Pediatría (AAP). Las dos son revisiones de guías y de datos observacionales de accidentes, que es lo que existe en este tema: no hay ensayos. Ninguna reemplaza un curso de primeros auxilios ni la consulta con el pediatra.
 
 ## Por qué los menores de 4 años
 
@@ -62,7 +62,7 @@ La SAP agrega hábitos que importan tanto como el corte, y los dice así:
 El último punto coincide con lo que se recomienda para [el chico que no come](chico-que-no-come.md). La prevención de otros accidentes de la casa está en [prevención de accidentes](../../Crianza/Salud-y-rutinas/prevencion-de-accidentes.md).
 
 > [!IMPORTANT]
-> El folleto oficial "Alimentación VIANDAS 2022" del Ministerio de Salud propone para los recreos frutos secos (nueces, almendras, maní sin sal), pochoclo sin azúcar, semillas de girasol y tomates cherry. No dice para qué edad es; por su título parece pensado para la escuela. Para un chico de jardín, menor de 4 años o cerca, los frutos secos y las semillas están en la lista de riesgo de la SAP y la AAP, el pochoclo en la de la AAP, y los tomates cherry piden corte según la SAP. Si se usa el folleto para la vianda del jardín, los frutos secos, las semillas y el pochoclo se dejan afuera y los tomates cherry se cortan a lo largo. El detalle está en [colaciones y vianda](colaciones-y-vianda.md).
+> El folleto oficial "Alimentación VIANDAS 2022" del Ministerio de Salud propone para los recreos frutos secos, semillas de girasol, pochoclo y tomates cherry, sin decir para qué edad. Para un chico de jardín, los tres primeros quedan afuera de la vianda y los tomates cherry se cortan a lo largo; el detalle está en [colaciones y vianda](colaciones-y-vianda.md).
 
 ## Si el chico se atraganta
 

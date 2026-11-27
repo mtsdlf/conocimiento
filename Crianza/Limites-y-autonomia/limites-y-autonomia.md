@@ -24,9 +24,9 @@ Se apoya en el [vínculo](../Vinculo/vinculo.md): un límite funciona mejor con 
 
 ## Calidez y exigencia, las dos a la vez
 
-El marco de la vertical son los [estilos de crianza](estilos-de-crianza.md): cruzar cuánta calidez da el adulto con cuánto exige da cuatro estilos. El autoritativo, con mucho de las dos, es el que la evidencia asocia con menos problemas de conducta. Según el metaanálisis de Pinquart (2017), lo que más se asocia con problemas es el control duro (gritos, amenazas, golpes) y el psicológico (culpa, vergüenza), más que la falta de límites. Son asociaciones chicas y observacionales.
+El marco de la vertical son los [estilos de crianza](estilos-de-crianza.md): cruzar cuánta calidez da el adulto con cuánto exige da cuatro estilos. El autoritativo, con mucho de las dos, es el que la evidencia asocia con menos problemas de conducta. Según el metaanálisis de Pinquart (2017), lo que más se asocia con problemas es el control duro y el psicológico (culpa, retiro del afecto), más que la falta de límites. Son asociaciones chicas y observacionales.
 
-La evidencia causal viene de los programas que entrenan a los padres, que tienen ensayos aleatorizados. Una revisión Cochrane (Furlong y otros) encontró, en chicos de 3 a 12 años con problemas de conducta, menos problemas y menos crianza dura después del programa (según su resumen). Los programas comparten técnicas: refuerzo positivo, sobre todo el elogio, y consecuencias naturales o lógicas (Leijten 2019). Están en [programas para padres](programas-para-padres.md) y se aplican en [límites y consecuencias](limites-y-consecuencias.md).
+La evidencia causal viene de los programas que entrenan a los padres, que tienen ensayos aleatorizados. Una revisión Cochrane (Furlong y otros) encontró, en chicos de 3 a 12 años con problemas de conducta, menos problemas y menos crianza dura después del programa (según su resumen). Las técnicas que más pesan en esos programas son el refuerzo positivo, sobre todo el elogio, y las consecuencias naturales o lógicas (Leijten 2019). Están en [programas para padres](programas-para-padres.md) y se aplican en [límites y consecuencias](limites-y-consecuencias.md).
 
 ## Cómo se ponen límites sin gritar y sin ceder
 
@@ -49,7 +49,7 @@ Los chirlos y los gritos se asocian con más problemas en los chicos y ninguna f
 
 ## Premios y tareas: reforzar sin comprar
 
-El refuerzo positivo es una de las técnicas que más pesan en los programas. Pero los premios materiales por algo que el chico ya hacía con gusto, como ayudar, pueden bajar sus ganas ([premios](premios.md)). Lo mismo aparece en las tareas de la casa: los chicos chicos quieren ayudar solos, y entre los 3 y los 4 años ya comen, se lavan y se visten solos ([autonomía y tareas](autonomia-y-tareas.md)). El elogio que describe lo que hizo funciona en los dos casos.
+El refuerzo positivo es una de las técnicas que más pesan en los programas. Pero los premios materiales por algo que el chico ya hacía con gusto, como ayudar, pueden bajar sus ganas ([premios](premios.md)). Lo mismo aparece en las tareas de la casa: los chicos chicos quieren ayudar solos, y entre los 3 y los 4 años ya comen, se lavan y se visten solos ([autonomía y tareas](autonomia-y-tareas.md)). El elogio que describe lo que hizo queda bien parado en los dos casos, según la inferencia que hacen esas notas.
 
 ## Los enfoques con nombre propio
 

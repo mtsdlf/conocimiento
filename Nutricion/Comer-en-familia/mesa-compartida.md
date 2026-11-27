@@ -25,10 +25,10 @@ La mesa compartida es comer juntos en familia; los chicos que lo hacen más segu
 Hay dos metaanálisis de estudios observacionales, leídos por su resumen.
 
 - **Hammons y Fiese (*Pediatrics*, 2011).** Los chicos y adolescentes que comían en familia tres o más veces por semana tendían a tener peso normal, mejor dieta y menos conductas alimentarias desordenadas. Los autores sugieren promover las comidas familiares. El tamaño de la muestra que circula en la prensa no se pudo verificar en el artículo.
-- **Dallacker, Hertwig y Mata (*Obesity Reviews*, 2018).** Con 57 estudios y 203.706 participantes, más comidas en familia se asociaron con mejor calidad global de la dieta (r = 0,13), dieta más saludable (r = 0,10), dieta menos poco saludable (r = -0,04) y menor índice de masa corporal (r = -0,05). La edad, el país y el tipo de comida no cambiaron la relación.
+- **Dallacker, Hertwig y Mata (*Obesity Reviews*, 2018).** Con 57 estudios y 203.706 participantes, más comidas en familia se asociaron con mejor calidad global de la dieta (r = 0,13), dieta más saludable (r = 0,10), dieta menos poco saludable (r = −0,04) y menor índice de masa corporal (r = −0,05). La edad, el país y el tipo de comida no cambiaron la relación.
 
 > [!IMPORTANT]
-> Las dos fuentes no leen igual los mismos datos. Hammons y Fiese presentan la asociación como prometedora y recomiendan comer en familia. Dallacker y colegas muestran que los efectos son pequeños (el del peso, r = -0,05, es casi nulo) y escriben que los estudios son correlacionales y no permiten inferir causa; proponen que la investigación busque ahora "the causal direction of the relationship". Las dos coinciden en que la evidencia es observacional.
+> Las dos fuentes no leen igual los mismos datos. Hammons y Fiese presentan la asociación como prometedora y recomiendan comer en familia. Dallacker y colegas muestran que los efectos son pequeños (el del peso, r = −0,05, es casi nulo) y escriben que los estudios son correlacionales y no permiten inferir causa; proponen que la investigación busque ahora "the causal direction of the relationship". Las dos coinciden en que la evidencia es observacional.
 
 La objeción más obvia es el nivel socioeconómico: las familias con más tiempo y recursos pueden comer juntas más seguido y también comer mejor. No se leyó ningún estudio que controle eso.
 

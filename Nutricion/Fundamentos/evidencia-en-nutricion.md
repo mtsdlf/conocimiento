@@ -36,8 +36,8 @@ Un **ensayo aleatorizado** asigna la dieta por sorteo, y eso reparte las demás 
 | Cohorte | Asociación en el tiempo | Huevos y enfermedad cardiovascular (Drouin-Chartier 2020) |
 | Metaanálisis de observacionales | Asociación promedio de muchos estudios | Comer en familia (Dallacker 2018), en [mesa compartida](../Comer-en-familia/mesa-compartida.md) |
 | Ensayo controlado corto | Causa, en semanas y con pocas personas | Ultraprocesados (Hall 2019), en [ultraprocesados](../Alimentos-y-nutrientes/ultraprocesados.md) |
-| Ensayo grande | Causa, en meses o años | DIETFITS, en [pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md) |
-| Revisión sistemática con GRADE | Qué tan cierta es la evidencia junta | Cochrane de grasas saturadas, NutriRECS |
+| Ensayo grande | Causa, en meses o años | DIETFITS, en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md) |
+| Revisión sistemática con GRADE | Qué tan cierta es la evidencia junta | Cochrane de grasas saturadas y NutriRECS, en [debates de nutrición](debates-de-nutricion.md) |
 
 Un mismo efecto puede verse distinto según el lugar. En el metaanálisis de cohortes de Drouin-Chartier (BMJ 2020), comer hasta un huevo por día no se asoció con enfermedad cardiovascular (RR 0,98 por huevo diario; IC 0,93 a 1,03). Para diabetes, el mismo grupo halló un 14 % más de riesgo por huevo diario en las cohortes de Estados Unidos y ninguna asociación en las europeas. Los dos resultados son según su resumen.
 
@@ -62,7 +62,7 @@ Los debates concretos (carne roja y la guía NutriRECS, grasas saturadas y la Co
 
 **Ultraprocesados.** El ensayo de Hall (2019) internó a 20 adultos dos semanas con cada dieta: con la ultraprocesada comieron 508 kcal más por día y subieron 0,9 kg. Es un ensayo, pero chico y corto. Un editorial de *PLoS Medicine* (2024) señala que la evidencia observacional que lo acompaña es en su mayoría de baja calidad y que es difícil separar el procesamiento de la mala calidad nutricional. Está en [ultraprocesados](../Alimentos-y-nutrientes/ultraprocesados.md).
 
-**Comer en familia.** El metaanálisis de Dallacker (2018), con 57 estudios y 203.706 participantes, halló asociaciones muy chicas (r = 0,13 con calidad de dieta; r = −0,05 con IMC), y sus autores piden ensayos para saber la dirección causal ([mesa compartida](../Comer-en-familia/mesa-compartida.md)).
+**Comer en familia.** El metaanálisis de Dallacker (2018), con 57 estudios y 203.706 participantes, halló asociaciones muy chicas (r = 0,13 con la calidad global de la dieta; r = −0,05 con el índice de masa corporal), y sus autores escriben que los estudios son correlacionales y piden investigar la dirección causal ([mesa compartida](../Comer-en-familia/mesa-compartida.md)).
 
 **Dieta mediterránea.** En 2018 la *NEJM* retractó el ensayo PREDIMED por errores de aleatorización y publicó una versión reanalizada con el mismo resultado, unos 30 % menos de enfermedad cardiovascular, según la nota de Harvard. Muestra que un ensayo grande también puede fallar ([dieta mediterránea](../Patrones-y-guias/dieta-mediterranea.md)).
 

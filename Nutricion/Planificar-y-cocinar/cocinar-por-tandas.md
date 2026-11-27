@@ -17,7 +17,7 @@ revisado:
 
 Cocinar por tandas es preparar de una vez comida para varios días y guardarla porcionada en heladera o freezer; ahorra tiempo en la semana si lo cocido se enfría rápido, se guarda en porciones chicas y se recalienta completo.
 
-Las tandas salen del [menú semanal](menu-semanal.md), que marca qué se repite, y de lo que se compró en [compras y despensa](compras-y-despensa.md). Los plazos de heladera y freezer y las temperaturas no se repiten acá: viven en [higiene y conservación](higiene-y-conservacion.md).
+Las tandas salen del [menú semanal](menu-semanal.md), que marca qué se repite, y de lo que se compró en [compras y despensa](compras-y-despensa.md). Los plazos de heladera y freezer y las temperaturas están en [higiene y conservación](higiene-y-conservacion.md).
 
 ## Qué conviene cocinar en cantidad
 
@@ -43,10 +43,10 @@ El riesgo de una tanda está, por inferencia de las reglas oficiales, en el enfr
 
 Lo congelado se descongela dentro de la heladera, nunca sobre la mesada: el Ministerio de Salud dice "No descongeles los alimentos a temperatura ambiente, pues algunas bacterias podrían multiplicarse muy rápidamente". Conviene pasar al estante de la heladera la noche anterior la porción del día siguiente.
 
-Al servir, la comida se recalienta completa, también en el centro, y no a medias. El Ministerio pide "Recalentá completamente la comida cocinada" y "No vuelvas a congelar un alimento que ya fue descongelado". Por eso se descongela solo la porción que se va a comer.
+Al servir, la comida se recalienta completa, también en el centro, y no a medias. El Ministerio pide "Recalentá completamente la comida cocinada" y "No vuelvas a congelar un alimento que ya fue descongelado, a menos que lo cocines antes". Por eso se descongela solo la porción que se va a comer.
 
 ## Cómo falla una tanda
 
 Tres fallas posibles, todas de tiempo (ejemplos de esta base, sin fuente). La olla se deja enfriar entera sobre la cocina toda la tarde. Se guarda en un solo envase grande que se recalienta y vuelve a la heladera varias veces. Y la tanda se estira más días de los que aguanta porque "todavía tiene buen olor". Con un chico chico pesan más, por lo que se cuenta del síndrome urémico hemolítico en [higiene y conservación](higiene-y-conservacion.md).
 
-Esta nota resume reglas de inocuidad de organismos oficiales; ante una intoxicación o una diarrea en un chico, la consulta es con el pediatra o el médico.
+Son reglas de inocuidad de organismos oficiales; ante una intoxicación o una diarrea en un chico, la consulta es con el pediatra o el médico.

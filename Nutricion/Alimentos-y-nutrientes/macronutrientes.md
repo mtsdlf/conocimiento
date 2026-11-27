@@ -49,17 +49,12 @@ El rango de proteína para adultos es de 10 a 35 % de la energía (DRI, según e
 
 Las grasas se separan por tipo, y las guías tratan distinto a cada uno. Las GAPA piden "aceite crudo como condimento" en su mensaje 9 y sacarle la grasa visible a la carne en el mensaje 7 ([GAPA](https://www.argentina.gob.ar/node/92458)); la OMS pone las saturadas por debajo de 10 % y las trans por debajo de 1 %. Lo que está en discusión es cuánto pesa bajar las saturadas.
 
-> [!IMPORTANT]
-> **A favor de bajarlas.** La revisión Cochrane de Hooper y colegas (2020) juntó 12 ensayos a largo plazo con 53.758 participantes. Reducir la grasa saturada bajó los eventos cardiovasculares combinados un 17 % (RR 0,83; IC 0,70-0,98; certeza moderada). Los autores concluyen que reducirla durante al menos 2 años "may meaningfully reduce combined cardiovascular events", y que reemplazarla por grasas poliinsaturadas o por carbohidratos parece útil.
->
-> **Lo que no mostró.** En la misma revisión, la mortalidad total (RR 0,96; 0,90-1,03) y la cardiovascular (RR 0,95; 0,80-1,12) casi no cambiaron, también con certeza moderada. Esa ausencia de efecto en mortalidad va contra la regla simple de "grasa saturada igual a mala".
->
-> Las cifras salen del registro de la versión pub3 en Europe PMC (hubo una versión anterior con otras cifras). Es una sola revisión, aunque de ensayos.
+La revisión Cochrane de Hooper y colegas (2020), con 12 ensayos y 53.758 participantes, encontró que reducir la grasa saturada bajó un 17 % los eventos cardiovasculares combinados y casi no cambió la mortalidad total ni la cardiovascular. Las cifras de los dos lados están en [debates de nutrición](../Fundamentos/debates-de-nutricion.md).
 
 ## Los carbohidratos y la fibra
 
-Los carbohidratos tienen el rango más ancho, de 45 a 65 % de la energía, y dentro de ellos la OMS separa los azúcares libres, que limita, de la fibra, que pide. Las GAPA lo traducen a alimentos: legumbres, "cereales preferentemente integrales, papa, batata, choclo o mandioca" (mensaje 8) y limitar las bebidas azucaradas (mensaje 5). Si comer menos carbohidratos hace bajar más grasa que comer menos grasa, con las mismas calorías, es un debate abierto entre dos modelos; está en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md) y en [debates de nutrición](../Fundamentos/debates-de-nutricion.md).
+Los carbohidratos tienen el rango más ancho, de 45 a 65 % de la energía, y dentro de ellos la OMS separa los azúcares libres, que limita, de la fibra, que pide. Las GAPA lo traducen a alimentos: legumbres, "cereales preferentemente integrales, papa, batata, choclo o mandioca" (mensaje 8) y limitar las bebidas azucaradas (mensaje 5). Si comer menos carbohidratos hace bajar más grasa que comer menos grasa, con las mismas calorías, es un debate abierto entre dos modelos, que está en la misma nota de debates; lo que dio cada dieta en los ensayos está en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md).
 
 Los rangos son para adultos sanos; una enfermedad o un objetivo concreto se ajustan con un profesional.
 
-Ver también: [evidencia en nutrición](../Fundamentos/evidencia-en-nutricion.md), para leer un RR y una certeza "moderada".
+Ver también: [evidencia en nutrición](../Fundamentos/evidencia-en-nutricion.md), para lo que vale cada tipo de estudio.

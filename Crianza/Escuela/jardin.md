@@ -23,7 +23,7 @@ El jardín es el nivel inicial del sistema educativo, de los 45 días a los 5 a�
 
 ## Qué dice la ley argentina
 
-La Ley 27.045, de 2015, modificó la Ley de Educación Nacional ([texto](https://www.argentina.gob.ar/normativa/nacional/ley-27045-2014-240450/texto)). Sus artículos dicen, textuales:
+La Ley 27.045, publicada en el Boletín Oficial el 7 de enero de 2015, modificó la Ley de Educación Nacional ([texto](https://www.argentina.gob.ar/normativa/nacional/ley-27045-2014-240450/texto)). Sus artículos dicen, textuales:
 
 - Art. 1: "Declárese obligatoria la educación inicial para niños/as de cuatro (4) años en el sistema educativo nacional."
 - Art. 3: la educación inicial "comprende a los/as niños/as desde los cuarenta y cinco (45) días hasta los cinco (5) años de edad inclusive" "siendo obligatorios los dos (2) últimos años."
@@ -58,7 +58,7 @@ Los efectos académicos de los programas tempranos, además, tienden a desvanece
 
 ## A qué edad empezar
 
-Ninguna de las fuentes leídas fija una edad óptima de ingreso al jardín maternal o a la sala de 3 para un chico que en casa tiene un ambiente rico. Las fuentes no lo resuelven, así que la decisión depende de cosas como el trabajo de los padres, quién cuida en casa ([cuidadores](../Vinculo/cuidadores.md)), cuántas horas serían y cómo es el jardín disponible. Lo que sí se sabe es que la calidad pesa más que la edad, y que el estudio del NICHD asoció más horas de cuidado con más conducta de riesgo e impulsividad a los 15 años.
+Ninguna de las fuentes leídas fija una edad óptima de ingreso al jardín maternal o a la sala de 3 para un chico que en casa tiene un ambiente rico. La decisión depende entonces de cosas como el trabajo de los padres, quién cuida en casa ([cuidadores](../Vinculo/cuidadores.md)), cuántas horas serían y cómo es el jardín disponible. Lo que sí se sabe es que la calidad pesa más que la edad, y que el estudio del NICHD asoció más horas de cuidado con más conducta de riesgo e impulsividad a los 15 años.
 
 > [!NOTE]
 > Sin fuente todavía: evidencia argentina sobre el impacto del nivel inicial y sobre la edad de ingreso, y el informe del Ministerio de Educación y UNICEF sobre calidad del nivel inicial.

@@ -35,13 +35,13 @@ No se encontró un glosario oficial de nutrición en castellano, así que las de
 | Término | Qué es | Dónde se desarrolla |
 |---|---|---|
 | GAPA | Guías Alimentarias para la Población Argentina, del Ministerio de Salud (2016): diez mensajes y una gráfica para personas sanas mayores de dos años. | [Guías Alimentarias argentinas](../Patrones-y-guias/guias-alimentarias-argentinas.md) |
-| Grupos de alimentos | Las seis categorías de la gráfica de las GAPA: frutas y verduras; legumbres, cereales, papa, pan y pastas; lácteos; carnes y huevo; aceites, frutas secas y semillas; y el grupo opcional de dulces y ultraprocesados. | [Grupos de alimentos](../Alimentos-y-nutrientes/grupos-de-alimentos.md) |
+| Grupos de alimentos | Las seis categorías de la gráfica de las GAPA: frutas y verduras; legumbres, cereales, papa, pan y pastas; lácteos; carnes y huevo; aceites, frutas secas y semillas; y el grupo opcional de dulces y grasas. | [Grupos de alimentos](../Alimentos-y-nutrientes/grupos-de-alimentos.md) |
 | Porción | La cantidad orientativa de un alimento que usan las guías; las GAPA la expresan en medidas caseras (medio plato, la palma de la mano), no en gramos. | [Menú semanal](../Planificar-y-cocinar/menu-semanal.md) |
 | Ultraprocesado | En la clasificación NOVA, un producto industrial con al menos un ingrediente que no se usa en la cocina de una casa, como emulsionantes o edulcorantes. | [Ultraprocesados](../Alimentos-y-nutrientes/ultraprocesados.md) |
 | NOVA | La clasificación de Monteiro que ordena los alimentos en cuatro grupos según cuánto se los procesó. | [Ultraprocesados](../Alimentos-y-nutrientes/ultraprocesados.md) |
 | Sello frontal | El octógono negro que la Ley 27.642 pone en el frente de los productos con exceso de azúcares, sodio, grasas saturadas, grasas totales o calorías. | [Sellos frontales](../Alimentos-y-nutrientes/sellos-frontales.md) |
 | Nutriente crítico | Los nutrientes cuyo exceso marca la ley de etiquetado: azúcares, sodio, grasas saturadas y grasas totales. | [Sellos frontales](../Alimentos-y-nutrientes/sellos-frontales.md) |
-| Dieta mediterránea | Patrón con mucho vegetal, legumbres, pescado y aceite de oliva; su ensayo principal es PREDIMED. | [Dieta mediterránea](../Patrones-y-guias/dieta-mediterranea.md) |
+| Dieta mediterránea | Patrón basado en la cocina tradicional del Mediterráneo, con mucho aceite de oliva y frutos secos; su ensayo principal es PREDIMED. | [Dieta mediterránea](../Patrones-y-guias/dieta-mediterranea.md) |
 
 ## Nutrientes y energía
 
@@ -50,7 +50,7 @@ No se encontró un glosario oficial de nutrición en castellano, así que las de
 | Macronutrientes | Los nutrientes que aportan energía en cantidad: proteína, grasas y carbohidratos. La fibra se trata junto a ellos. | [Macronutrientes](../Alimentos-y-nutrientes/macronutrientes.md) |
 | Micronutrientes | Vitaminas y minerales que se necesitan en cantidades chicas, como hierro, calcio, vitamina D y B12. | [Micronutrientes clave](../Alimentos-y-nutrientes/micronutrientes-clave.md) |
 | AMDR | Rangos aceptables de distribución de macronutrientes de las DRI estadounidenses: qué porcentaje de la energía puede venir de cada uno. | [Macronutrientes](../Alimentos-y-nutrientes/macronutrientes.md) |
-| Azúcares libres | Los azúcares agregados a los alimentos más los de la miel, los jarabes y los jugos; la OMS pide menos del 10 % de la energía total. | [Azúcar y golosinas](../Alimentacion-infantil/azucar-y-golosinas.md) |
+| Azúcares libres | Los azúcares agregados más los de los jugos y la miel; la OMS pide menos del 10 % de la energía total. | [Azúcar y golosinas](../Alimentacion-infantil/azucar-y-golosinas.md) |
 | Balance energético | La diferencia entre la energía que se come y la que se gasta; define si el peso sube o baja. | [Pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md) |
 | Déficit calórico | Comer menos energía de la que se gasta, de forma sostenida; es la condición para perder grasa según la ISSN. | [Pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md) |
 | Modelo carbohidratos-insulina | La hipótesis de Ludwig de que los carbohidratos de alta carga glucémica, vía insulina, guardan grasa y empujan a comer más. | [Debates de nutrición](debates-de-nutricion.md) |
@@ -62,10 +62,10 @@ No se encontró un glosario oficial de nutrición en castellano, así que las de
 | Término | Qué es | Dónde se desarrolla |
 |---|---|---|
 | Alimentación complementaria | Los alimentos que se suman a la leche desde alrededor de los 6 meses, según la OMS. | [Primeros alimentos](../Alimentacion-infantil/primeros-alimentos.md) |
-| BLW | *Baby-led weaning*: el bebé come solo trozos de comida en lugar de purés. BLISS es su versión modificada, probada en un ensayo. | [Primeros alimentos](../Alimentacion-infantil/primeros-alimentos.md) |
+| BLW | *Baby-led weaning*: el bebé come solo trozos de comida en lugar de papillas. BLISS es su versión modificada, probada en un ensayo. | [Primeros alimentos](../Alimentacion-infantil/primeros-alimentos.md) |
 | Neofobia alimentaria | El rechazo a probar alimentos nuevos, común en los chicos chicos. | [El chico que no come](../Alimentacion-infantil/chico-que-no-come.md) |
 | Exposición repetida | Ofrecer muchas veces un alimento sin presionar; la aceptación sube después de 8 a 10 exposiciones o más, según una revisión del USDA. | [El chico que no come](../Alimentacion-infantil/chico-que-no-come.md) |
-| ARFID | Trastorno de evitación o restricción de la ingesta de alimentos: una restricción que causa pérdida de peso, falta de crecimiento, deficiencias o problemas sociales. Lo diagnostica un profesional. | [El chico que no come](../Alimentacion-infantil/chico-que-no-come.md) |
+| ARFID | Trastorno de evitación y restricción de la ingesta: una restricción que causa pérdida de peso, falta de crecimiento, deficiencias o problemas sociales. Lo diagnostica un profesional. | [El chico que no come](../Alimentacion-infantil/chico-que-no-come.md) |
 | División de responsabilidades | El modelo de Ellyn Satter: el adulto decide qué, cuándo y dónde se come; el chico, cuánto y si come. | [División de responsabilidades](../Comer-en-familia/division-de-responsabilidades.md) |
 | Colación | Una comida chica entre las principales, como la del recreo. | [Colaciones y vianda](../Alimentacion-infantil/colaciones-y-vianda.md) |
 
@@ -76,7 +76,7 @@ No se encontró un glosario oficial de nutrición en castellano, así que las de
 | Inocuidad | Que la comida no enferme a quien la come. | [Higiene y conservación](../Planificar-y-cocinar/higiene-y-conservacion.md) |
 | ETA | Enfermedades transmitidas por alimentos: las que causa comer algo contaminado. | [Higiene y conservación](../Planificar-y-cocinar/higiene-y-conservacion.md) |
 | Contaminación cruzada | El paso de bacterias de un alimento crudo a uno listo para comer, por las manos, la tabla o el goteo en la heladera. | [Higiene y conservación](../Planificar-y-cocinar/higiene-y-conservacion.md) |
-| SUH | Síndrome urémico hemolítico: enfermedad asociada a *E. coli* productora de toxina Shiga, con su tasa más alta en los niños de un año en Argentina. | [Higiene y conservación](../Planificar-y-cocinar/higiene-y-conservacion.md) |
+| SUH | Síndrome urémico hemolítico: enfermedad asociada a *E. coli* productora de toxina Shiga, con su tasa más alta en los chicos de un año en Argentina. | [Higiene y conservación](../Planificar-y-cocinar/higiene-y-conservacion.md) |
 | STEC | *E. coli* productora de toxina Shiga, la bacteria que se asocia al SUH. | [Higiene y conservación](../Planificar-y-cocinar/higiene-y-conservacion.md) |
 | Cadena de frío | Mantener un alimento frío sin cortes desde que se compra o cocina hasta que se come. | [Cocinar por tandas](../Planificar-y-cocinar/cocinar-por-tandas.md) |
 | Cocinar por tandas | Preparar de una vez comida para varios días y guardarla porcionada. | [Cocinar por tandas](../Planificar-y-cocinar/cocinar-por-tandas.md) |

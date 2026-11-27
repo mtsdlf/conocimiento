@@ -38,7 +38,7 @@ NOVA, propuesta por Carlos Monteiro y su equipo, reparte toda la comida en cuatr
 
 La regla práctica para reconocer un ultraprocesado es leer la lista de ingredientes: si aparece al menos un ingrediente característico del grupo 4, como un emulsionante, un edulcorante o un espesante, el producto es ultraprocesado.
 
-## En qué se diferencia de los sellos negros
+## En qué se diferencia de los sellos frontales
 
 NOVA y los [sellos frontales](sellos-frontales.md) de la Ley 27.642 son dos clasificaciones distintas que se suelen confundir. NOVA mira cómo se hizo el producto; los sellos miran qué contiene, con el perfil de nutrientes de la OPS de 2016, que marca exceso de azúcares, sodio, grasas saturadas, grasas totales o calorías. Por eso no coinciden, y un producto puede ser ultraprocesado sin sello o llevar sello sin ser ultraprocesado. Por inferencia a partir de las dos definiciones: un producto con un emulsionante y poca azúcar, sal y grasa sería ultraprocesado sin sello, y uno procesado con mucha sal, como unas aceitunas de mesa (cuyos productores reclamaron contra los sellos), puede llevarlo sin ser ultraprocesado. La primera mirada pregunta por los ingredientes; la segunda, por la tabla nutricional.
 

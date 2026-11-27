@@ -21,9 +21,9 @@ A esta edad un chico aprende jugando y conversando con adultos que le responden.
 
 ## Lo que sirve es barato y cotidiano
 
-La evidencia apunta a pocas cosas y todas son de todos los días. La AAP sostiene que el juego con padres y con otros chicos construye habilidades sociales, de lenguaje y de autorregulación ([juego libre](juego-libre.md)). Harvard pone la conversación de "servir y devolver" en la base de la arquitectura del cerebro. La lectura dialógica tiene un metaanálisis con efecto moderado sobre el vocabulario ([lectura compartida](lectura-compartida.md)).
+La evidencia apunta a pocas cosas y todas son de todos los días. La AAP sostiene que el juego con padres y con otros chicos construye habilidades sociales, de lenguaje y de autorregulación ([juego libre](juego-libre.md)). El Centro para el Niño en Desarrollo de Harvard pone la conversación de ida y vuelta en la base de la arquitectura del cerebro. La lectura dialógica tiene un metaanálisis con efecto moderado sobre el vocabulario ([lectura compartida](lectura-compartida.md)).
 
-En un hogar que ya hace eso, sumar más rinde poco. Los productos para que un bebé aprenda a leer fracasaron en un ensayo aleatorizado, las clases de música no mejoraron otras capacidades en dos ensayos y las ventajas académicas tempranas tienden a desdibujarse con los años. La idea está desarrollada en [estimulación temprana](estimulacion-temprana.md), y las otras notas la enlazan en lugar de repetirla.
+En un hogar que ya hace eso, sumar más rinde poco. Los productos para que un bebé aprenda a leer fracasaron en un ensayo aleatorizado, las clases de música no mejoraron otras capacidades en dos ensayos y las ventajas académicas tempranas tienden a desvanecerse con los años. La idea está desarrollada en [estimulación temprana](estimulacion-temprana.md).
 
 ## Lo que compite con el juego
 
@@ -38,7 +38,7 @@ Casi todo lo de esta vertical es observacional o sale de experimentos chicos. Lo
 - [Juego libre](juego-libre.md) — el juego que el chico conduce, el espectro hasta el juego guiado y qué se sabe de sus beneficios.
 - [Juguetes y materiales](juguetes-y-materiales.md) — electrónicos o tradicionales, muchos o pocos: lo que muestran dos experimentos chicos.
 - [Lectura compartida](lectura-compartida.md) — leer conversando, su efecto sobre el vocabulario y cómo se hace.
-- [Estimulación temprana](estimulacion-temprana.md) — qué sirve y qué no en un hogar que ya da mucho; los productos para acelerar y por qué las ventajas se desdibujan.
+- [Estimulación temprana](estimulacion-temprana.md) — qué sirve y qué no en un hogar que ya da mucho; los productos para acelerar y por qué las ventajas se desvanecen.
 - [Pantallas](pantallas.md) — cuánta, de qué tipo y si sirven las apps educativas.
 - [Recomendaciones de pantallas por organismo](recomendaciones-de-pantallas.md) — ficha con lo que dicen OMS, CPS, AAP y SAP, con la fecha de cada una.
 - [Actividades](actividades.md) — música, deporte e idiomas extra de 2 a 6 años: qué se sabe y qué no.

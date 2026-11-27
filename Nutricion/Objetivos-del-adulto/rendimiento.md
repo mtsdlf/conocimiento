@@ -33,6 +33,8 @@ Su recurso canónico son las tablas de carbohidratos, proteína e hidratación d
 
 Para rendir hay que comer lo suficiente para el entrenamiento. Quien además quiere bajar grasa tiene un conflicto: el déficit de [pérdida de grasa](perdida-de-grasa.md) resta energía para entrenar. La proteína, para rendir o para ganar músculo, está en [masa muscular y recomposición](masa-muscular-y-recomposicion.md).
 
+En una casa donde otros comen para bajar grasa, la misma comida se ajusta en el plato de cada uno: está en [un menú para todos](../Comer-en-familia/un-menu-para-todos.md).
+
 ## Cafeína: el suplemento con más ensayos
 
 La cafeína mejora el rendimiento en dosis conocidas. La posición de la International Society of Sports Nutrition (ISSN) de 2021 dice: "Caffeine has consistently been shown to improve exercise performance when consumed in doses of 3-6 mg/kg body mass" ([ISSN, 2021](https://pubmed.ncbi.nlm.nih.gov/33388079/), según su resumen). Según el mismo resumen, la dosis mínima eficaz puede ser de 2 mg/kg, con 9 mg/kg aumentan los efectos adversos sin más beneficio, y lo habitual es tomarla unos 60 minutos antes.

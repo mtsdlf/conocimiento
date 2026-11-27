@@ -35,7 +35,7 @@ Los berrinches suelen ser cortos. En un estudio con 335 chicos de 18 a 60 meses,
 1. Asegurate de que el chico y los demás estén a salvo. Si corre hacia la calle, la AAP indica agarrarlo con firmeza y sostenerlo.
 2. Probá distraerlo o redirigirlo: cambiar de lugar, ofrecer otra cosa, cantar algo. Es lo primero que recomiendan MSD y la AAP.
 3. Si no funciona, llevalo a un lugar tranquilo y seguro y quedate cerca. MSD recomienda alejarlo y darle un entorno seguro.
-4. No lo interrogues ni le expliques en pleno estallido: MSD aconseja evitar las preguntas durante la rabieta. Lo que el chico necesita es un adulto calmo, que es la [corregulación](regulacion-emocional.md).
+4. No lo interrogues ni le expliques en pleno estallido: MSD aconseja evitar las preguntas durante el berrinche. Lo que el chico necesita es un adulto calmo, que es la [corregulación](regulacion-emocional.md).
 5. Si pega, patea, muerde o tira cosas, frenalo enseguida y dejá claro que eso no se hace. La AAP pide no ignorar esas conductas y propone sacarlo de la situación o quitarle un privilegio.
 6. Si sentís que te desbordás, pedí un relevo: la AAP recomienda turnarse con otro adulto.
 7. Cuando pasó, retomá el vínculo con normalidad, y ahí sí nombrá lo que sintió. Este paso no está en las guías citadas: sale de la idea de reparación de [bienestar de los padres](../Vinculo/bienestar-de-los-padres.md).
@@ -57,7 +57,7 @@ La AAP propone anticiparse a lo que dispara el berrinche:
 
 ## Cuándo preocupa
 
-MSD señala que una causa de fondo, física, mental o social, es más probable si la rabieta dura más de 15 minutos o si ocurre varias veces al día. También dice que si los berrinches siguen siendo frecuentes después de los 5 años es probable que persistan. La AAP no da criterios y dice que se hable con el pediatra si algo preocupa.
+MSD señala que una causa de fondo, física, mental o social, es más probable si el berrinche dura más de 15 minutos o si ocurre varias veces al día. También dice que si los berrinches siguen siendo frecuentes después de los 5 años es probable que persistan. La AAP no da criterios y dice que se hable con el pediatra si algo preocupa.
 
 Las dos fuentes coinciden en el mensaje: consultar ante la duda. Las señales de que algo en el desarrollo merece una consulta están en [señales de alarma](../Desarrollo/senales-de-alarma.md). Esta nota no reemplaza la consulta con el pediatra.
 

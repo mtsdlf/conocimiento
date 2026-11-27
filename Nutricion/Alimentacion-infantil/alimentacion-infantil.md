@@ -29,7 +29,7 @@ Hasta los 2 años la base es la leche materna y la [alimentación complementaria
 
 ## Los dos riesgos que no se negocian
 
-El atragantamiento con comida es el riesgo agudo de esta edad. La Sociedad Argentina de Pediatría (SAP) y la Academia Americana de Pediatría (AAP) coinciden en que los menores de 4 años son los más expuestos y en que los alimentos redondos y firmes se cortan; está en [atragantamiento](atragantamiento.md). Las alergias alimentarias afectan, según la SAP, a "uno de cada 12 chicos menores de 5 años", y su diagnóstico es médico ([alergias alimentarias](alergias-alimentarias.md)).
+El atragantamiento con comida es el riesgo agudo de esta edad. La Sociedad Argentina de Pediatría (SAP) y la Academia Estadounidense de Pediatría (AAP) coinciden en que los menores de 4 años son los más expuestos y en que los alimentos redondos y firmes se cortan; está en [atragantamiento](atragantamiento.md). Las alergias alimentarias afectan, según la SAP, a "uno de cada 12 chicos menores de 5 años", y su diagnóstico es médico ([alergias alimentarias](alergias-alimentarias.md)).
 
 ## Dónde suele trabarse una familia
 

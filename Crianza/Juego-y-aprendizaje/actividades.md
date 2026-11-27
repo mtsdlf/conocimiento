@@ -23,7 +23,7 @@ La pregunta útil es qué le da al chico la actividad en sí. Es la misma idea q
 
 ## Música: buena por sí misma, sin efecto en otras capacidades
 
-Mehr, Schachner, Katz y Spelke (2013) hicieron dos ensayos aleatorizados con preescolares: clases de música contra clases de artes visuales y contra nada ([PLoS ONE](https://pmc.ncbi.nlm.nih.gov/articles/PMC3859544), según su resumen). No encontraron beneficios cognitivos fuera de la música que fueran consistentes. Los autores hallaron solo cinco ensayos previos sobre el tema, ninguno replicado.
+Mehr, Schachner, Katz y Spelke (2013) hicieron dos ensayos aleatorizados con chicos en edad de jardín: clases de música contra clases de artes visuales y contra nada ([PLoS ONE](https://pmc.ncbi.nlm.nih.gov/articles/PMC3859544), según su resumen). No encontraron beneficios cognitivos fuera de la música que fueran consistentes. Los autores hallaron solo cinco ensayos previos sobre el tema, ninguno replicado.
 
 Ese resultado mide transferencia a otras capacidades. No dice que la música no valga la pena: cantar, bailar y tocar tienen sentido por el placer y por lo musical. Harvard Gazette lo contó como "muting the Mozart effect" ([Harvard Gazette](https://news.harvard.edu/gazette/story/2013/12/muting-the-mozart-effect/)); el mito del efecto Mozart está en [mitos de crianza](../Fundamentos/mitos-de-crianza.md).
 

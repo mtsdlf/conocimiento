@@ -54,5 +54,5 @@ Los riesgos que describe la bibliografía son pocos y casi todos de edad escolar
 - [Señales y evaluación](senales-y-evaluacion.md) — qué conductas se ven de 2 a 6 años, qué puede y qué no puede decir un test, y cuándo evaluar.
 - [Desarrollo asincrónico](desarrollo-asincronico.md) — adelantado en lo cognitivo y de su edad en lo emocional o lo motor; qué se sabe y qué es solo marco teórico.
 - [Acompañar en casa](acompanar-en-casa.md) — qué ambiente recomiendan los expertos, cómo elogiar y qué evitar.
-- [Opciones escolares](opciones-escolares.md) — enriquecimiento, aceleración e ingreso anticipado, con su evidencia y la norma argentina vigente a noviembre de 2026.
+- [Opciones escolares](opciones-escolares.md) — enriquecimiento, agrupamiento, aceleración e ingreso anticipado, con su evidencia y la norma argentina vigente a noviembre de 2026.
 - [Riesgos](riesgos.md) — etiquetar, perfeccionismo, doble excepcionalidad y por qué las ventajas tempranas no siempre se mantienen.

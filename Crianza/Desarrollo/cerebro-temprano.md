@@ -28,19 +28,19 @@ Casi todo lo que aquí se cita del Centro para el Niño en Desarrollo de Harvard
 
 ## Un cerebro que se arma de abajo hacia arriba
 
-Según el Centro de Harvard, "brains are built over time, from the bottom up", en un proceso que empieza antes de nacer. En los primeros años se formarían más de un millón de conexiones nuevas por segundo, y las conexiones tempranas dan una base "strong or weak" para las que vienen después.
+Según Harvard, "brains are built over time, from the bottom up", en un proceso que empieza antes de nacer. En los primeros años se formarían más de un millón de conexiones nuevas por segundo, y las conexiones tempranas dan una base "strong or weak" para las que vienen después.
 
 La SAP dice lo mismo desde la pediatría argentina: en los primeros años "el sistema nervioso crece y se desarrolla como en ningún otro momento de la vida y presenta gran plasticidad neuronal". Por eso es una etapa vulnerable y también sensible a la ayuda. De ahí se puede deducir que conviene consultar temprano ante una duda ([señales de alarma](senales-de-alarma.md)); la deducción es nuestra, la guía lo dice de otro modo.
 
 ## La interacción que construye: ida y vuelta
 
-El ingrediente que el Centro de Harvard pone en el centro es el intercambio de "servir y devolver" (serve and return): el chico hace algo (mira, señala, balbucea) y el adulto responde, y así sucesivamente. Esas interacciones "play a key role in shaping brain architecture", según su resumen. Cómo se hace en la vida diaria está en [ida y vuelta](../Vinculo/ida-y-vuelta.md), y su versión en el lenguaje, la conversación por turnos, en [adquisición del lenguaje](adquisicion-del-lenguaje.md).
+El ingrediente que Harvard pone en el centro es el intercambio de ida y vuelta (serve and return): el chico hace algo (mira, señala, balbucea) y el adulto responde, y así sucesivamente. Esas interacciones "play a key role in shaping brain architecture", según su resumen. Cómo se hace en la vida diaria está en [ida y vuelta](../Vinculo/ida-y-vuelta.md), y su versión en el lenguaje, la conversación por turnos, en [adquisición del lenguaje](adquisicion-del-lenguaje.md).
 
 El marco de la OMS, UNICEF y el Banco Mundial (Nurturing Care, 2018) amplía la idea a cinco componentes: salud, nutrición, seguridad, cuidado que responde y oportunidades de aprendizaje temprano. Una revisión publicada en The Lancet en 2017 concluye que las intervenciones deberían ser paquetes de varios sectores "anchored in nurturing care" (Britto y otros, según su resumen).
 
 ## Tres tipos de estrés, y cuál daña
 
-El Centro de Harvard distingue tres respuestas al estrés:
+Harvard distingue tres respuestas al estrés:
 
 | Tipo | Qué es | Ejemplo típico |
 |---|---|---|
@@ -50,7 +50,7 @@ El Centro de Harvard distingue tres respuestas al estrés:
 
 Los ejemplos son ilustrativos, propios de esta nota y no de la fuente. Lo que separa al estrés tolerable del tóxico es la presencia de un adulto que contiene. Un informe técnico de la AAP de 2012 (Shonkoff, Garner y otros) llevó la idea a la pediatría con un marco "ecobiodevelopmental" y sostiene que muchas enfermedades adultas "should be viewed as developmental disorders that begin early in life" (según su resumen).
 
-Las dos fuentes sobre estrés tóxico vienen del mismo grupo de investigadores: Shonkoff cofundó el Centro de Harvard. En rigor, la idea tiene una sola línea de respaldo, aunque sea una línea de peso. Ninguna de las dos da un umbral de cuánto estrés es dañino.
+Las dos fuentes sobre estrés tóxico vienen del mismo grupo de investigadores: Shonkoff cofundó ese centro de Harvard. En rigor, la idea tiene una sola línea de respaldo, aunque sea una línea de peso. Ninguna de las dos da un umbral de cuánto estrés es dañino.
 
 ## Qué se sabe de los períodos sensibles
 

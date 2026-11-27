@@ -40,6 +40,8 @@ La creatina es el suplemento con más respaldo para el entrenamiento de fuerza. 
 
 La cafeína tiene su explicación en [rendimiento](rendimiento.md).
 
+Ningún suplemento reemplaza el plato: la base es la comida de todos los días, que en una casa con objetivos distintos se arma como dice [un menú para todos](../Comer-en-familia/un-menu-para-todos.md).
+
 ## Lo que se toma sin una razón clara
 
 - **Omega-3**: para mayores de 1 año solo hay ingesta adecuada fijada para el ALA, no para EPA ni DHA. La FDA recomienda no pasar de 5 g por día de EPA más DHA en suplementos, interactúa con anticoagulantes como la warfarina y un ensayo grande no halló que bajara el riesgo de cáncer ([NIH, Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/Omega3FattyAcids-Consumer), según su resumen). No se leyó evidencia sobre rendimiento.
@@ -64,7 +66,7 @@ Pasos antes de comprar:
 
 Una parte de los suplementos trae sustancias que no declara. Una revisión de 50 estudios halló sustancias no declaradas en 875 de 3.132 suplementos, sobre todo sibutramina y esteroides anabólicos (dato de un resumen del buscador, sin URL propia confirmada). Un estudio holandés de 2021 encontró sustancias dopantes no declaradas en 25 de 66 suplementos deportivos de alto riesgo, 38 % ([PubMed 34211326](https://pubmed.ncbi.nlm.nih.gov/34211326/), según su resumen), y otro de 2022 reportó 4,5 % ([PMC9054437](https://pmc.ncbi.nlm.nih.gov/articles/PMC9054437/), según su resumen).
 
-Las cifras difieren porque cada estudio eligió productos y métodos distintos, y los productos son de Estados Unidos y Europa, no de Argentina. Son análisis de laboratorio, no estudios de daño en quienes los toman. Aun así, varios estudios independientes coinciden en que el riesgo existe. Que las sustancias más halladas sean un anorexígeno y esteroides sugiere que el riesgo se concentra en los productos para adelgazar y para ganar músculo; es una inferencia.
+Las cifras difieren porque cada estudio eligió productos y métodos distintos, y los productos son de Estados Unidos y Europa, no de Argentina. Son análisis de laboratorio, no estudios de daño en quienes los toman. Aun así, varios estudios independientes coinciden en que el riesgo existe. Que las sustancias más halladas sean un anorexígeno y esteroides sugiere que el riesgo se concentra en los productos que prometen bajar grasa y ganar músculo; es una inferencia.
 
 > [!NOTE]
 > Sin fuente todavía: estudios de contaminación en productos vendidos en Argentina y alertas de ANMAT sobre suplementos concretos.

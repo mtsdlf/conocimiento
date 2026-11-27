@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Las dietas de moda son patrones que se promocionan como mejores que comer de forma equilibrada (baja en carbohidratos o keto, ayuno intermitente, paleo) junto con la vegetariana y la vegana, que tienen otra base; comparadas con una dieta de las mismas calorías, ninguna hace bajar consistentemente más peso.
+  Las dietas de moda son patrones que se promocionan como mejores que comer de forma equilibrada (baja en carbohidratos o keto, ayuno intermitente, paleo) junto con la vegetariana y la vegana, que tienen otra base; en los ensayos que las compararon con otra dieta, ninguna hizo bajar consistentemente más peso.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -23,7 +23,7 @@ revisado:
 
 # Dietas de moda
 
-Las dietas de moda son patrones que se promocionan como mejores que comer de forma equilibrada (baja en carbohidratos o keto, ayuno intermitente, paleo) junto con la vegetariana y la vegana, que tienen otra base; comparadas con una dieta de las mismas calorías, ninguna hace bajar consistentemente más peso.
+Las dietas de moda son patrones que se promocionan como mejores que comer de forma equilibrada (baja en carbohidratos o keto, ayuno intermitente, paleo) junto con la vegetariana y la vegana, que tienen otra base; en los ensayos que las compararon con otra dieta, ninguna hizo bajar consistentemente más peso.
 
 El nombre junta cosas distintas. La low-carb y el ayuno se estudiaron con ensayos de peso; la vegetariana y la vegana se eligen muchas veces por razones éticas o culturales y tienen una postura profesional propia; la [dieta mediterránea](dieta-mediterranea.md), con ensayos de infartos y ACV, va aparte. Todas se comparan acá con la base de las [Guías Alimentarias argentinas](guias-alimentarias-argentinas.md). Ninguna reemplaza la consulta con un médico o un licenciado en nutrición, sobre todo con una enfermedad de base.
 
@@ -39,18 +39,13 @@ Casi cualquier dieta hace bajar de peso si hace comer menos energía. La pregunt
 | Vegetariana | resumen de congreso, Curr Dev Nutr 2022 | dietas de control | peso −3,4 kg; LDL −6,8 mg/dL |
 | Paleo | metaanálisis de Manheimer 2015 | dietas de control de guías | mejoras de corto plazo en el síndrome metabólico |
 
-Las dos últimas filas no comparan contra el mismo déficit, y por eso no responden la pregunta: son el hueco de esta nota.
+Las dos últimas filas no comparan contra el mismo déficit, y por eso no responden la pregunta: esa comparación falta.
 
 ## Baja en carbohidratos y keto
 
 DIETFITS asignó al azar a 609 adultos de 18 a 50 años con IMC de 28 a 40 a una dieta baja en grasas o baja en carbohidratos, las dos "saludables", durante 12 meses. Bajaron 5,3 kg y 6,0 kg, una diferencia de 0,7 kg que no llega a ser significativa, y ni el genotipo ni la secreción de insulina predijeron a quién le convenía cuál ([DIETFITS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5839290), según su resumen).
 
-> [!IMPORTANT]
-> **El modelo energético (Hall).** En una sala metabólica, con 19 adultos con obesidad y las mismas calorías, restringir grasa hizo perder unos 89 g de grasa por día y restringir carbohidratos unos 53 g (Hall 2015). Un metaanálisis de 32 estudios de alimentación controlada encontró que el gasto de energía (26 kcal/d) y la pérdida de grasa (16 g/d) fueron algo mayores con menos grasa ([Hall y Guo 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5568065)). Son efectos chicos y de pocas semanas.
->
-> **El modelo carbohidratos-insulina (Ludwig).** Ludwig y colegas proponen invertir la causa: la respuesta hormonal a una dieta de alta carga glucémica haría acumular grasa y eso empujaría a comer más. Un reanálisis suyo encontró que en los ensayos más largos el gasto subía unos 135 kcal por día con pocos carbohidratos (IC 95 % 72,0 a 198,7), con pocos estudios ([Ludwig 2021](https://pubmed.ncbi.nlm.nih.gov/33274750/), según su resumen).
->
-> Hall respondió en 2024 que ese reanálisis "was fatally flawed" por ignorar las medidas repetidas ([Hall 2024](https://doi.org/10.1016/j.tjnut.2024.01.024), según su resumen). El punto en disputa es la duración de los ensayos. Ninguno de los dos modelos tiene ganador declarado.
+Si con las mismas calorías conviene restringir grasa o carbohidratos es el debate entre el modelo energético de Kevin Hall y el modelo carbohidratos-insulina de David Ludwig. En los estudios de alimentación controlada las diferencias son chicas y de pocas semanas, y ninguno de los dos modelos tiene ganador declarado. Las cifras de cada lado están en [debates de nutrición](../Fundamentos/debates-de-nutricion.md).
 
 > [!NOTE]
 > Sin fuente todavía: ensayos de keto de largo plazo y sus riesgos, por ejemplo en los lípidos de la sangre.
@@ -78,4 +73,4 @@ La paleo propone comer como se supone que comían los cazadores-recolectores. El
 
 ## Cómo se elige
 
-Si las dietas dan resultados parecidos con el mismo déficit, tiene sentido elegir la que una persona puede sostener sin perder nutrientes ni músculo (criterio de esta base). Para una familia, eso suele significar no cocinar una dieta aparte para un adulto: cómo se arma una comida que sirva a objetivos distintos está en [un menú para todos](../Comer-en-familia/un-menu-para-todos.md). Los enfoques que compiten en nutrición, de los que estas dietas son una parte, están en [escuelas de nutrición](../Fundamentos/escuelas-de-nutricion.md).
+Si las dietas dan resultados parecidos con el mismo déficit, tiene sentido elegir la que una persona puede sostener sin perder nutrientes ni músculo (criterio de esta base). Para una familia, eso suele significar no cocinar una dieta aparte para un adulto: cómo se arma una comida que sirva a objetivos distintos está en [un menú para todos](../Comer-en-familia/un-menu-para-todos.md). Los marcos que compiten en nutrición, de los que estas dietas son una parte, están en [escuelas de nutrición](../Fundamentos/escuelas-de-nutricion.md).

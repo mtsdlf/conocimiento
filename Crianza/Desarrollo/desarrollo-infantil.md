@@ -39,7 +39,7 @@ Para medir hace falta una pesquisa: una prueba estandarizada, como la PRUNAPE en
 
 ## Lo que el chico trae y lo que pone el entorno
 
-El cerebro se arma de abajo hacia arriba en los primeros años, y las experiencias de esos años, sobre todo las interacciones con adultos que responden, forman parte de esa construcción (Centro para el Niño en Desarrollo de Harvard, según su resumen). La genética también pesa: un metaanálisis de 2015 sobre estudios de gemelos halló una heredabilidad promedio del 49 % para los rasgos humanos (Polderman y otros, según su resumen). Las dos cosas son ciertas a la vez, y la discusión está en [enfoques de crianza](../Fundamentos/enfoques-de-crianza.md).
+El cerebro se arma de abajo hacia arriba en los primeros años, y las experiencias de esos años, sobre todo las interacciones con adultos que responden, forman parte de esa construcción (Centro para el Niño en Desarrollo de Harvard, según su resumen). La genética también pesa: un metaanálisis de 2015 sobre estudios de gemelos halló una heredabilidad promedio del 49 % para los rasgos humanos (Polderman y otros, según su resumen). Las dos cosas son ciertas a la vez, y la discusión está en [cuánto pesa la crianza](../Fundamentos/cuanto-pesa-la-crianza.md).
 
 La versión exagerada de lo primero, que "los primeros tres años lo deciden todo", no aparece en las páginas de Harvard que leímos: hablan de mayor sensibilidad temprana, no de una ventana que se cierra. Lo que se sabe y lo que no está en [cerebro temprano](cerebro-temprano.md) y en [mitos de crianza](../Fundamentos/mitos-de-crianza.md).
 
@@ -49,7 +49,7 @@ El lenguaje es el área que los padres miran más y donde más dudas aparecen: c
 
 ## Qué hay adentro del desarrollo
 
-- [Dominios e hitos](dominios-e-hitos.md) — las cuatro áreas, qué se espera a cada edad (con tabla de hitos del CDC) y qué significa ir parejo o desparejo. Leer para saber si algo es esperable.
+- [Dominios e hitos](dominios-e-hitos.md) — las áreas según el CDC y la SAP, qué se espera a cada edad (con tabla de hitos del CDC), las cuatro trayectorias y qué significa ir desparejo entre áreas. Leer para saber si algo es esperable.
 - [Cerebro temprano](cerebro-temprano.md) — cómo se construye el cerebro, períodos sensibles y estrés tóxico, separando la ciencia de la divulgación exagerada.
 - [Adquisición del lenguaje](adquisicion-del-lenguaje.md) — cómo se aprende a hablar y qué lo favorece: la conversación por turnos, más que la cantidad de palabras.
 - [Crianza bilingüe](crianza-bilingue.md) — dos idiomas desde chico, la escuela bilingüe con castellano en casa, qué hacer en casa y qué pasa con la "ventaja bilingüe".

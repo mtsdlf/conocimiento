@@ -33,7 +33,7 @@ El CDC (Centros para el Control y la Prevención de Enfermedades de Estados Unid
 
 En 2022 el CDC y la AAP revisaron sus listas con un grupo de expertos. Uno de los criterios fue elegir hitos "most children (≥75%) would be expected to achieve" a la edad del control, y que se puedan observar en la vida cotidiana (Zubler y otros, 2022). El cambio fue grande: las listas viejas se redujeron un 26,4 % y se reemplazó un 40,9 %, y de los hitos que quedaron, un tercio cambió de edad (el 67,7 % de esos, a una edad mayor).
 
-La consecuencia práctica es que un hito del CDC no es un promedio. Si un chico no lo cumple a esa edad, está entre el 25 % más tardío o menos, y el objetivo declarado de la revisión fue "discourage a wait-and-see approach". El CDC recomienda hablar con el médico si no cumple uno o más hitos, sin esperar a ver si se acomoda ([señales de alarma](senales-de-alarma.md)). Que un solo hito falte no es un diagnóstico: es el motivo para preguntar.
+La consecuencia práctica es que un hito del CDC no es un promedio. Si un chico no lo cumple a esa edad, está entre el 25 % más tardío o menos, y el objetivo declarado de la revisión fue "discourage a wait-and-see approach". El CDC recomienda hablar con el médico si no cumple uno o más hitos, sin esperar a ver si se acomoda ([señales de alarma](senales-de-alarma.md)). Un solo hito que falta es motivo para preguntar y no alcanza para un diagnóstico.
 
 Dos límites, dichos por la misma revisión. Las listas de hitos "are not validated", a diferencia de las pruebas de pesquisa. Y los hitos socioemocionales y cognitivos "had the least normative data": son los que menos datos de población tienen detrás. La evidencia es una revisión de literatura con consenso de expertos.
 
@@ -63,7 +63,7 @@ Esta distinción importa más que la edad exacta de un hito. Un chico que habla 
 
 ## Habla como uno de 4 y se enoja como uno de 2
 
-Un chico de 2 años y medio que arma oraciones largas y conversa como uno de 4, pero tiene berrinches de su edad, es un caso común de desarrollo desparejo entre áreas. Los hitos de cada dominio se listan por separado, y nada indica que un lenguaje adelantado traiga consigo el control de las emociones. En la tabla, calmarse solo dentro de los 10 minutos después de una despedida aparece recién como hito de los 3 años, y seguir reglas y turnos con otros chicos, a los 5. Por esa misma lógica, a los 2 años y medio los berrinches serían esperables aunque el chico hable mucho. Es una inferencia de la tabla, no un dato de una fuente.
+Un chico de 2 años y medio que arma oraciones largas y conversa como uno de 4, pero tiene berrinches de su edad, es un caso común de desarrollo desparejo entre áreas. Los hitos de cada dominio se listan por separado, y nada indica que un lenguaje adelantado traiga consigo el control de las emociones. En la tabla, calmarse dentro de los 10 minutos después de una despedida aparece recién como hito de los 3 años, y seguir reglas y turnos con otros chicos, a los 5. Por esa misma lógica, a los 2 años y medio los berrinches serían esperables aunque el chico hable mucho. Es una inferencia de la tabla, no un dato de una fuente.
 
 Para pensarlo sirven tres preguntas, cada una con su nota:
 

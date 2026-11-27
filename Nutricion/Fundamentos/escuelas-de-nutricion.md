@@ -28,7 +28,7 @@ revisado:
 
 La nutrición no tiene escuelas oficiales, pero en la práctica compiten seis marcos para decidir qué es comer bien: mirar alimentos, nutrientes, el grado de procesamiento, la energía, el origen vegetal o la conducta al comer; cada uno tiene evidencia distinta y las guías oficiales combinan varios.
 
-No son ramas de una ciencia. Son formas de cortar la misma pregunta, y cada una produce un tipo de consejo distinto: un plato, un porcentaje, una etiqueta, un número de calorías, una lista de alimentos permitidos o una regla de conducta. Cuánto pesa la evidencia de cada una se entiende mejor con [evidencia en nutrición](evidencia-en-nutricion.md).
+Los marcos son formas de cortar la misma pregunta, y cada uno produce un tipo de consejo distinto: un plato, un porcentaje, una etiqueta, un número de calorías, una lista de alimentos permitidos o una regla de conducta. Cuánto pesa la evidencia de cada una se entiende mejor con [evidencia en nutrición](evidencia-en-nutricion.md).
 
 ## Los seis marcos y su consejo típico
 
@@ -45,7 +45,7 @@ No son ramas de una ciencia. Son formas de cortar la misma pregunta, y cada una 
 
 Las Guías Alimentarias para la Población Argentina (GAPA) hablan de alimentos, no de gramos de nutrientes. Sus diez mensajes empiezan por "Incorporá a diario alimentos de todos los grupos y realizá al menos 30 minutos de actividad física" y siguen con agua, frutas y verduras, sal, bebidas azucaradas, lácteos, carnes, legumbres y cereales, aceite y alcohol. La gráfica del Ministerio de Salud los traduce en porciones y frecuencias.
 
-La ventaja es que se cocinan directo: dicen qué poner en el plato. La evidencia que las sostiene es la de cada mensaje, mezcla de ensayos y observacionales, y las guías no detallan en su página la fuerza de cada uno. Es el marco de base de esta base, como dice su [alcance](../ALCANCE.md).
+La ventaja es que se cocinan directo: dicen qué poner en el plato. La evidencia que las sostiene es la de cada mensaje, mezcla de ensayos y observacionales, y las guías no detallan en su página la fuerza de cada uno. Es el marco de partida de esta base, como dice su [alcance](../ALCANCE.md).
 
 ## Guías basadas en nutrientes
 
@@ -56,11 +56,11 @@ La OMS da límites por nutriente: azúcares libres por debajo del 10 % de la ene
 La clasificación NOVA, de Carlos Monteiro, ordena los alimentos en cuatro grupos según cuánto se los transformó: sin procesar o mínimamente procesados, ingredientes culinarios, procesados y ultraprocesados. Un producto es ultraprocesado si su lista de ingredientes tiene al menos un ingrediente típico de la industria, como emulsionantes o edulcorantes (Monteiro 2019, según su resumen).
 
 > [!IMPORTANT]
-> **A favor.** Un ensayo de Hall (2019) mostró que con una dieta ultraprocesada se comen unas 500 kcal más por día, y una revisión paraguas del *BMJ* (2024) asoció los ultraprocesados con 32 problemas de salud.
+> **A favor.** Un ensayo de Hall (2019) mostró que con una dieta ultraprocesada se comen 508 kcal más por día, y una revisión paraguas del *BMJ* (2024) asoció los ultraprocesados con 32 parámetros de salud.
 >
 > **En contra.** Un editorial de *PLoS Medicine* (2024) dice que esa evidencia es en su mayoría de baja calidad, que hasta los especialistas aplican NOVA de forma inconsistente y que cuesta separar el procesamiento de la mala calidad nutricional. En un debate del *AJCN* de 2022, Arne Astrup sostuvo que NOVA aporta poco frente a los perfiles de nutrientes, y Monteiro respondió que sus criterios no se entendieron (según un buscador).
 
-Las GAPA usan la idea a su manera: su grupo opcional son los ultraprocesados con exceso de azúcar, grasa o sal, definidos por nutrientes y no por NOVA.
+Las GAPA usan la idea a su manera: su grupo opcional son los ultraprocesados con exceso de azúcar, grasa o sal, definidos por nutrientes y no por NOVA. Las dos posiciones completas están en [ultraprocesados](../Alimentos-y-nutrientes/ultraprocesados.md).
 
 ## Energía: ¿una caloría es una caloría?
 
@@ -72,7 +72,7 @@ La Academy of Nutrition and Dietetics de Estados Unidos sostiene que las dietas 
 
 ## La conducta al comer
 
-Este marco no dice qué comer sino cómo. La alimentación intuitiva propone comer según el hambre y la saciedad, sin dietas. Un metaanálisis de 97 estudios, casi todos transversales, la asoció con menos patología alimentaria y mejor imagen corporal (Linardon 2021); otro de 2023, con nueve estudios de intervención, mostró que sube el puntaje de la escala de alimentación intuitiva hasta seis meses, sin medir peso ni salud física (Babbott 2023). Los dos se leyeron por su resumen.
+Este marco se ocupa de cómo se come. La alimentación intuitiva propone comer según el hambre y la saciedad, sin dietas. Un metaanálisis de 97 estudios, casi todos transversales, la asoció con menos patología alimentaria y mejor imagen corporal (Linardon 2021); otro de 2023, con nueve estudios de intervención, mostró que sube el puntaje de la escala de alimentación intuitiva hasta seis meses, sin medir peso ni salud física (Babbott 2023). Los dos se leyeron por su resumen.
 
 Para los chicos, el modelo de Ellyn Satter reparte las decisiones: el adulto decide qué, cuándo y dónde se come, y el chico cuánto y si come. Su evidencia es correlacional ([división de responsabilidades](../Comer-en-familia/division-de-responsabilidades.md)).
 

@@ -25,7 +25,7 @@ revisado:
 
 Altas capacidades es el nombre de una capacidad de aprender muy superior a la de la edad; los modelos actuales la ven como un potencial que se desarrolla con el ambiente, no como un número de CI fijo que se tiene o no se tiene.
 
-Para un chico de 2 a 6 años la diferencia importa mucho. Si las altas capacidades fueran un rasgo fijo, un test temprano alcanzaría para saberlo. Si son un potencial que se va mostrando, lo que se ve a esa edad son conductas adelantadas que pueden afirmarse o diluirse, y eso es lo que sostiene la evidencia sobre la medición en preescolar ([señales y evaluación](senales-y-evaluacion.md)).
+Para un chico de 2 a 6 años la diferencia importa mucho. Si las altas capacidades fueran un rasgo fijo, un test temprano alcanzaría para saberlo. Si son un potencial que se va mostrando, lo que se ve a esa edad son conductas adelantadas que pueden afirmarse o diluirse, y eso es lo que sostiene la evidencia sobre la medición en edad de jardín ([señales y evaluación](senales-y-evaluacion.md)).
 
 ## Del corte de CI a los modelos de potencial
 
@@ -36,7 +36,7 @@ Los modelos que hoy usan las escuelas parten de otro lado:
 | Modelo | Qué mira | Qué aporta para un chico chico |
 |---|---|---|
 | Corte de CI | Un puntaje por encima de un umbral | Es simple, pero antes de los 7 años el puntaje es poco estable |
-| Tres anillos (Renzulli) | Capacidad por encima de la media, creatividad y compromiso con la tarea, que coinciden en ciertos momentos | La superdotación se muestra "en ciertas personas, en ciertos momentos y en ciertas circunstancias"; se habla de conductas, no de un rasgo poseído |
+| Tres anillos (Renzulli) | Capacidad por encima de la media, creatividad y compromiso con la tarea, que coinciden en ciertos momentos | Las altas capacidades se muestran "en ciertas personas, en ciertos momentos y en ciertas circunstancias"; se habla de conductas, no de un rasgo poseído |
 | Dotación y talento (Gagné) | Separa la dotación, el potencial natural, del talento, el rendimiento desarrollado de forma sistemática | Entre los dos median "catalizadores" que el resumen leído no detalla |
 
 Lo de Renzulli y Gagné viene de resúmenes de sus modelos, no de los textos originales, y lo que mira cada anillo no estaba en el resumen leído: es lo habitual del modelo. Un resumen universitario nota que los tres anillos identifican sobre todo a los que Gagné llamaría "talentosos", y que los chicos que entran y salen de esos momentos serían, para Gagné, dotados que todavía no convierten el potencial en talento.

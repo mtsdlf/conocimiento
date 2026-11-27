@@ -38,7 +38,7 @@ Los ejemplos de la tercera columna son ilustraciones propias. Las tres habilidad
 
 Según la revisión de Diamond y Lee de 2011 en Science (según su resumen), las funciones ejecutivas mejoraron en chicos de 4 a 12 años con programas muy distintos: juegos por computadora y sin computadora, ejercicio aeróbico, artes marciales, yoga, mindfulness y algunos currículos escolares. Lo común a todos los que funcionaron es la práctica repetida con una dificultad que aumenta de a poco. Los chicos con funciones ejecutivas más débiles fueron los que más se beneficiaron. El entrenamiento de memoria de trabajo por computadora dio resultados mixtos y no se trasladó a habilidades que no se practicaron.
 
-Para un chico de 2 a 6 años en casa, esto sugiere actividades que ya existen: juegos con reglas (la mancha, "Simón dice", juegos de mesa simples), [juego libre](../Juego-y-aprendizaje/juego-libre.md) con otros chicos, música, rutinas que el chico aprende a seguir. Esa traducción es una inferencia: no se encontró una fuente que evalúe estas prácticas familiares en preescolares. No hace falta comprar programas; qué estimulación sirve está en [estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md).
+Para un chico de 2 a 6 años en casa, esto sugiere actividades que ya existen: juegos con reglas (la mancha, "Simón dice", juegos de mesa simples), [juego libre](../Juego-y-aprendizaje/juego-libre.md) con otros chicos, música, rutinas que el chico aprende a seguir. Esa traducción es una inferencia: no se encontró una fuente que evalúe estas prácticas familiares en chicos en edad de jardín. No hace falta comprar programas; qué estimulación sirve está en [estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md).
 
 ## La prueba del malvavisco y lo que quedó de ella
 
@@ -58,4 +58,4 @@ Un chico puede tener un vocabulario o una memoria muy por encima de su edad y fu
 > [!NOTE]
 > Sin fuente todavía: evidencia de qué prácticas familiares (juego simbólico, rutinas, juegos con reglas) desarrollan las funciones ejecutivas entre los 2 y los 6 años; un metaanálisis sobre el malvavisco posterior a 2020.
 
-Para leer más: el documento de Harvard [How Early Experiences Shape the Development of Executive Function](https://developingchild.harvard.edu/wp-content/uploads/2024/10/How-Early-Experiences-Shape-the-Development-of-Executive-Function.pdf), pensado para no especialistas (no se leyó para esta nota).
+Para leer más: el documento del Centro para el Niño en Desarrollo de Harvard [How Early Experiences Shape the Development of Executive Function](https://developingchild.harvard.edu/wp-content/uploads/2024/10/How-Early-Experiences-Shape-the-Development-of-Executive-Function.pdf), pensado para no especialistas (no se leyó para esta nota).

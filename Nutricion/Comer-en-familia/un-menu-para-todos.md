@@ -18,7 +18,7 @@ revisado:
 Un menú para todos es una sola comida base, armada con el plato de las Guías Alimentarias, que cada miembro de la familia ajusta en porción y agregados: el chico con cortes seguros, el adulto que baja grasa con menos energía y el que gana músculo con más proteína.
 
 > [!NOTE]
-> Sin fuente todavía: estudios o guías con método sobre cómo adaptar una misma comida a un chico y a adultos con objetivos distintos. La nota se arma con piezas que sí tienen fuente (el plato de la guía argentina, el modelo de Satter, los cortes de la SAP y las notas de objetivos del adulto), y lo que las une es inferencia propia.
+> Sin fuente todavía: estudios o guías con método sobre cómo adaptar una misma comida a un chico y a adultos con objetivos distintos. Lo que sigue se arma con piezas que sí tienen fuente (el plato de la guía argentina, el modelo de Satter, los cortes de la SAP y las notas de objetivos del adulto), y lo que las une es inferencia propia.
 
 ## Por qué una sola comida y no dos
 
@@ -26,7 +26,7 @@ El modelo de [división de responsabilidades](division-de-responsabilidades.md) 
 
 ## El plato base
 
-La base es el plato de las [Guías Alimentarias argentinas](../Patrones-y-guias/guias-alimentarias-argentinas.md), que sirve desde los 2 años. Su gráfica pide "al menos medio plato de verduras en el almuerzo, medio plato en la cena y 2 o 3 frutas por día" y "3 porciones al día de leche, yogur o queso" (esas son cantidades para la población general; la guía infantil no da porciones para el chico de jardín, ver [necesidades de 2 a 6](../Alimentacion-infantil/necesidades-de-2-a-6.md)). El resto del plato se completa con los otros grupos. Armado así, el plato base ya está cerca de lo que necesita cada uno, y las diferencias se resuelven en el servido.
+La base es el plato de las [Guías Alimentarias argentinas](../Patrones-y-guias/guias-alimentarias-argentinas.md), que sirve desde los 2 años. Su gráfica pide "2 o 3 frutas por día y medio plato de verduras en el almuerzo y en la cena" y 3 porciones diarias de leche, yogur o queso, como detalla [grupos de alimentos](../Alimentos-y-nutrientes/grupos-de-alimentos.md) (son cantidades para la población general; la guía infantil no da porciones para el chico de jardín, ver [necesidades de 2 a 6](../Alimentacion-infantil/necesidades-de-2-a-6.md)). El resto del plato se completa con los otros grupos. Armado así, el plato base ya está cerca de lo que necesita cada uno, y las diferencias se resuelven en el servido.
 
 ## Cómo se ajusta cada plato
 
@@ -36,7 +36,7 @@ La base es el plato de las [Guías Alimentarias argentinas](../Patrones-y-guias/
 | El adulto que baja grasa | menos energía en el plato; como inferencia propia, más verdura y proteína y menos aceite, cereal o pan | [pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md) |
 | El adulto que gana músculo | más proteína y, en general, más energía; como inferencia propia, una porción extra de proteína y de cereal o legumbre | [masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md) |
 
-Las cantidades de proteína por kilo de peso viven en [masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md), y las del déficit, en [pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md). Acá no se repiten.
+Las cantidades de proteína por kilo de peso viven en [masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md), y las del déficit, en [pérdida de grasa](../Objetivos-del-adulto/perdida-de-grasa.md).
 
 ## Cómo se cocina una comida que se ajusta
 

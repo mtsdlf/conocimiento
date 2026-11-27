@@ -32,20 +32,20 @@ El mensaje 2 de las GAPA dice "Tomá a diario 8 vasos de agua segura" ([GAPA](ht
 
 El mensaje 5 de las GAPA pide "Limitá el consumo de bebidas azucaradas y de alimentos con elevado contenido de grasas, azúcar y sal". Según la prensa que cubrió la ENNyS 2, casi 4 de cada 10 personas toman bebidas azucaradas todos los días ([Diario de Cuyo](https://diariodecuyo.com.ar/suplementos/Solo-1-de-cada-3-argentinos-consume-frutas-y-verduras-20210717-0003.html), fuente secundaria).
 
-La OMS pide que los azúcares libres queden por debajo de 10 % de la energía, alrededor de 50 g en una dieta de 2000 kcal ([OMS](https://www.who.int/news-room/fact-sheets/detail/healthy-diet), según su resumen); el detalle está en [macronutrientes](macronutrientes.md). Para los chicos, las cifras de azúcar y las bebidas en la vianda están en [azúcar y golosinas](../Alimentacion-infantil/azucar-y-golosinas.md) y [colaciones y vianda](../Alimentacion-infantil/colaciones-y-vianda.md).
+La OMS pide que los azúcares libres queden por debajo de 10 % de la energía, alrededor de 50 g en una dieta de 2000 kcal ([OMS](https://www.who.int/news-room/fact-sheets/detail/healthy-diet), según su resumen); el detalle está en [macronutrientes](macronutrientes.md). Los azúcares libres son los agregados más los de los jugos y la miel. Para los chicos, las cifras de azúcar, con esa definición, y las bebidas en la vianda están en [azúcar y golosinas](../Alimentacion-infantil/azucar-y-golosinas.md) y [colaciones y vianda](../Alimentacion-infantil/colaciones-y-vianda.md).
 
 Las bebidas con edulcorantes o cafeína llevan en Argentina una leyenda obligatoria: "CONTIENE EDULCORANTES, NO RECOMENDABLE EN NIÑOS/AS" y "CONTIENE CAFEÍNA. EVITAR EN NIÑOS/AS" (Ley 27.642, art. 4; ver [sellos frontales](sellos-frontales.md)).
 
 > [!NOTE]
-> Sin fuente todavía: si los azúcares libres de la OMS incluyen los jugos (se supone, pero no se leyó la definición), evidencia sobre jugos de fruta enteros contra fruta, sobre gaseosas "light" y edulcorantes en adultos, y sobre aguas saborizadas.
+> Sin fuente todavía: evidencia sobre jugos de fruta contra fruta entera, sobre gaseosas "light" y edulcorantes en adultos, y sobre aguas saborizadas.
 
 ## El alcohol: dos posiciones
 
 > [!IMPORTANT]
-> **Las GAPA**, mensaje 10: "Si vas a consumir bebidas alcohólicas, hacelo de forma responsable", y la versión de la FAO agrega que los niños, adolescentes y mujeres embarazadas no deben consumirlas y que hay que evitarlas siempre al conducir ([GAPA](https://www.argentina.gob.ar/node/92458); [FAO](https://sftest.fao.org/fao/misc/test-food-dietary-guidelines/argentina/en)).
+> **Las GAPA**, mensaje 10: "Si vas a consumir bebidas alcohólicas, hacelo de forma responsable", y la versión de la FAO agrega que los chicos, los adolescentes y las embarazadas no deben consumirlas y que hay que evitarlas siempre al conducir ([GAPA](https://www.argentina.gob.ar/node/92458); [FAO](https://sftest.fao.org/fao/misc/test-food-dietary-guidelines/argentina/en)).
 >
 > **La OMS Europa**, en un comunicado del 4 de enero de 2023: "no level of alcohol consumption is safe for our health". Según el comunicado, la mitad de los cánceres atribuibles al alcohol en la región europea los causa el consumo "ligero" y "moderado", y los efectos protectores que se le atribuyen dependen de los grupos de comparación y de los métodos estadísticos ([OMS Europa](https://www.who.int/azerbaijan/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health), según su resumen).
 >
-> La guía argentina no fija un límite; la OMS dice que no hay un nivel sin riesgo. Es un riesgo para la salud con una sola fuente leída (el comunicado, por su resumen), y no se leyó una segunda independiente. Según esta base, la posición de la OMS es institucional y se apoya en estudios observacionales y de carga de enfermedad.
+> La guía argentina no fija un límite; la OMS dice que no hay un nivel sin riesgo. De la OMS se leyó solo ese comunicado, por su resumen. Según esta base, la posición de la OMS es institucional y se apoya en estudios observacionales y de carga de enfermedad.
 
-Lo que el alcohol hace en la salud a largo plazo de un adulto se retoma en [salud a largo plazo](../Objetivos-del-adulto/salud-a-largo-plazo.md).
+La segunda fuente de peso sobre el alcohol, el estudio Global Burden of Disease de 2016, está con sus críticos en [salud a largo plazo](../Objetivos-del-adulto/salud-a-largo-plazo.md).

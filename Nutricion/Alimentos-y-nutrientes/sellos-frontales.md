@@ -56,7 +56,7 @@ El sello es un octógono de fondo negro con borde, texto blanco en mayúsculas y
 
 - Están exentos el azúcar común, los aceites vegetales, los frutos secos y la sal común de mesa (art. 7).
 - Un producto con sello no puede llevar información nutricional complementaria (art. 9).
-- Un producto con sello no puede tener publicidad dirigida a niños ni usar personajes infantiles, celebridades, deportistas o mascotas (art. 10).
+- Un producto con sello no puede tener publicidad dirigida a chicos ni usar personajes infantiles, celebridades, deportistas o mascotas (art. 10).
 - Los productos con sello no se ofrecen ni se promocionan en escuelas de nivel inicial, primario y secundario (art. 12).
 
 ## El perfil de la OPS y los puntos de corte
@@ -72,4 +72,4 @@ Los límites siguen el modelo de perfil de nutrientes de la OPS de 2016 (Decreto
 
 ## Qué se sabe de su efecto
 
-La evidencia sobre si los sellos cambian lo que se compra es de encuestas, no de ensayos. Según Chequeado: un estudio de FIC y UNICEF de junio de 2024, con encuestas en línea antes y después, encontró una "disminución significativa en la intención de compra"; una encuesta del Ministerio de Salud de 2023 dio 90 % de acuerdo con los sellos; y una de la UBA, que 97 % notó los octógonos. Un informe de la OPS de marzo de 2026 dice que Argentina cumple 10 de los 11 criterios de mejores prácticas (citado por Chequeado; el informe no se leyó).
+La evidencia sobre si los sellos cambian lo que se compra es de encuestas, no de ensayos. Según Chequeado: un estudio de FIC y UNICEF de junio de 2024, con encuestas en línea antes y después, encontró una "disminución significativa en la intención de compra"; una encuesta del Ministerio de Salud de 2023 dio 90 % de acuerdo con los sellos; y una de la UBA, que 97 % notó los sellos. Un informe de la OPS de marzo de 2026 dice que Argentina cumple 10 de los 11 criterios de mejores prácticas (citado por Chequeado; el informe no se leyó).
