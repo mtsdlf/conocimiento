@@ -32,8 +32,8 @@ Martin Fowler y Anthropic.
 Un [modelo de lenguaje](../../IA/llm.md) rompe dos supuestos del resto del código. El primero es el
 determinismo: "With LLM-based systems, we encounter a system that no longer behaves
 deterministically", y "Such a system will provide different outputs to the same inputs on repeated
-requests" (Subramaniam, en el sitio de Fowler). El segundo es la estabilidad: el proveedor cambia el
-modelo, su API y sus precios, y a veces se cae. Si cada parte del sistema llama al modelo por su
+requests" (Subramaniam, en el sitio de Fowler). El segundo es la estabilidad: el proveedor puede cambiar el
+modelo o su API, y a veces se cae. Si cada parte del sistema llama al modelo por su
 cuenta, cada uno de esos cambios se reparte por todo el código. Con un solo punto de entrada, se
 arregla en un lugar.
 
@@ -46,7 +46,9 @@ the model gateway". Cuando un modelo se cae, el gateway "can route requests to a
 El detalle de esa pieza está en
 [router y gateway de modelos](../Sistemas-con-modelos/router-y-gateway-de-modelos.md).
 
-Detrás de la misma interfaz quedan las piezas que tratan la salida incierta:
+Detrás de la misma interfaz quedan las piezas que tratan la salida incierta. Que vivan juntas ahí es
+lectura de esta base: las fuentes tratan cada una por separado.
+
 
 - **Los guardrails**, que filtran lo que entra al modelo y validan lo que emite antes de que llegue al resto. Según el mismo
   artículo, "Guardrails act to shield the LLM", y "guardrails don't come for free". Las capas están

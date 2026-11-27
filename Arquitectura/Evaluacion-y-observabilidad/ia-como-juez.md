@@ -41,7 +41,7 @@ que genera.
 
 ## Los sesgos que midió Zheng
 
-Zheng et al. (2023), el trabajo que instaló el término, examinan "the usage and limitations of
+Zheng et al. (2023) examinan "the usage and limitations of
 LLM-as-a-judge, including position, verbosity, and self-enhancement biases":
 
 | Sesgo | Qué hace el juez |
@@ -58,7 +58,7 @@ leyó.
 
 > [!IMPORTANT]
 > Zheng et al. reportan que jueces fuertes como GPT-4 alcanzan "over 80% agreement, the same level
-> of agreement between humans", sobre preferencias por pares en conversaciones abiertas. Yan, que
+> of agreement between humans" con preferencias humanas controladas y de plataforma colaborativa. Yan, que
 > revisó unos 24 papers, cita un estudio de resumen donde la correlación entre juez y humano fue de
 > 0,3 a 0,6, contra 0,8 a 0,9 entre humanos. La diferencia puede venir de la tarea y la métrica
 > (acuerdo en preferencias contra correlación en puntajes), pero ninguna fuente la resuelve: el
@@ -66,15 +66,15 @@ leyó.
 
 El Thoughtworks Technology Radar movió LLM-as-a-judge de Trial (octubre de 2024) a Assess (noviembre
 de 2025), con el argumento de que "often fails as a reliable proxy for human judgment" y es "less
-mature than once believed". Yan agrega que las correlaciones mejoran con anotadores no expertos, es
-decir, que el juez se parece más a un lector común que a un especialista.
+mature than once believed". Yan agrega que las correlaciones mejoran con anotadores no expertos, y advierte que los resultados
+pueden inflarse si quienes anotaron no eran expertos.
 
 ## Validar al juez como cualquier sistema
 
 Huyen lo pone como regla: "AI judges must be evaluated and iterated over time, just like all other
 AI applications", y "AI judges should be validated and correlated with systematic human evaluation".
 Según los resúmenes de capítulo de su libro, los puntajes de jueces distintos no son comparables
-entre sí. Los pasos que se desprenden de las fuentes:
+entre sí. Pasos armados por esta base a partir de esas fuentes:
 
 1. Etiquetá a mano un conjunto de salidas con el criterio del producto.
 2. Corré el juez sobre el mismo conjunto y compará.
@@ -83,13 +83,13 @@ entre sí. Los pasos que se desprenden de las fuentes:
    classes are imbalanced".
 4. Versioná el prompt y el modelo del juez; si cambia cualquiera, repetí la validación.
 
-Shankar et al. agregan un límite: por *criteria drift*, el conjunto etiquetado envejece, y el juez se
-revalida cuando cambian los criterios. Registrar qué modelo y qué umbral se eligió para el juez es
+Shankar et al. describen el *criteria drift*; de ahí se deduce, como inferencia de esta base, que el conjunto
+etiquetado envejece y que el juez se revalida cuando cambian los criterios. Registrar qué modelo y qué umbral se eligió para el juez es
 una decisión que va a un [ADR](../Decisiones/adr.md).
 
 > [!NOTE]
 > Sin fuente todavía: cifras confiables de cuánto bajan los sesgos con mitigaciones (invertir el
-> orden, pedir justificación). Un paper de 2026 que las daba fue retirado por arXiv y no se usa.
+> orden, pedir justificación). Un paper de 2026 con cifras de acuerdo y de sesgo de verbosidad fue retirado por arXiv y no se usa.
 
 ## Qué leer sobre jueces
 

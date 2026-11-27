@@ -63,7 +63,7 @@ landscape), el dinámico, para un flujo concreto, y el de despliegue.
 
 El diagrama de contenedores suele ser el que se usa en un [análisis de riesgo](analisis-de-riesgo.md),
 porque ahí se ven las dependencias por la red, y el que acompaña a un [ADR](adr.md) cuando la
-decisión cambia la estructura (esto es lectura de esta base, no del sitio de C4). En un sistema con
+decisión cambia la estructura (las dos cosas son lectura de esta base, no del sitio de C4). En un sistema con
 un modelo de IA, el modelo y el
 [gateway](../Sistemas-con-modelos/router-y-gateway-de-modelos.md) aparecen en el nivel de
 contenedores como dependencias externas, igual que cualquier otra API.
@@ -71,5 +71,5 @@ contenedores como dependencias externas, igual que cualquier otra API.
 ## Qué leer
 
 c4model.com, empezando por la página de abstracciones y después la de los cuatro niveles. Fijarse
-en que cada diagrama tenga un solo nivel y en qué es un contenedor. Lo completa el capítulo
+en los niveles y en qué es un contenedor. Lo completa el capítulo
 "Diagramming Architecture" de Richards y Ford.

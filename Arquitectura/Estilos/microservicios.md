@@ -47,15 +47,15 @@ Fowler ordenó la decisión en 2015 en tres beneficios y tres costos:
 |---|---|
 | Límites de módulo firmes: "Putting the modules into separate services makes the boundaries firmer" | Distribución: "remote calls are slow and are always at risk of failure" |
 | Despliegue independiente de cada servicio | Consistencia eventual entre las bases de cada servicio |
-| Diversidad tecnológica: cada servicio elige su stack | Complejidad operativa: muchos servicios que desplegar, monitorear y depurar |
+| Diversidad tecnológica: cada servicio elige su stack | Complejidad operativa |
 
-Fowler agrega que los factores blandos (la calidad del equipo y cómo colabora) pesan más que la elección del estilo. Richardson suma un costo menos visible: el acoplamiento de diseño, cuando cambiar una cosa obliga a cambiar varios servicios en "lockstep changes". Ese es el peor caso, el monolito distribuido: el costo de la red sin la independencia.
+Fowler agrega que los factores blandos (la calidad del equipo y cómo colabora) pesan más que la elección del estilo. Richardson suma un costo menos visible: el acoplamiento de diseño, cuando cambiar una cosa obliga a cambiar varios servicios en "lockstep changes". Newman llama monolito distribuido al peor caso, el costo de la red sin la independencia (dato de un resumen secundario).
 
-Los tres costos son medibles, y eso es lo que pide la mirada del tema: cuántos equipos se traban al desplegar, cuánta latencia suma la cadena de llamadas, cuántas operaciones cruzan servicios. Medir antes de partir es la regla de [Empezar simple](../Decisiones/empezar-simple.md); qué características pesar está en [Elegir un estilo](elegir-un-estilo.md).
+Según la lectura de esta base, los tres costos son medibles, y eso es lo que pide la mirada del tema: cuántos equipos se traban al desplegar, cuánta latencia suma la cadena de llamadas, cuántas operaciones cruzan servicios. Medir antes de partir es la regla de [Empezar simple](../Decisiones/empezar-simple.md); qué características pesar está en [Elegir un estilo](elegir-un-estilo.md).
 
 ## Lo que un sistema de microservicios necesita alrededor
 
-Azure dice que sirven en dominios complejos con actualizaciones frecuentes, pero "Success requires mature development and DevOps practices". Richardson supone equipos chicos y multifuncionales que despliegan solos. Sin pipelines automatizados ni observabilidad, los costos de la tabla crecen sin los beneficios; eso es lo que cubren [DevOps](../../DevOps/devops.md) y una plataforma interna ([Platform Engineering](../../Platform-Engineering/platform-engineering.md)).
+Azure dice que sirven en dominios complejos con actualizaciones frecuentes, pero "Success requires mature development and DevOps practices". Richardson supone equipos chicos y multifuncionales, con DevOps. Esta base lo lee así: sin pipelines automatizados ni observabilidad, los costos de la tabla crecen sin los beneficios; eso es lo que cubren [DevOps](../../DevOps/devops.md) y una plataforma interna ([Platform Engineering](../../Platform-Engineering/platform-engineering.md)).
 
 Cada costo de la distribución tiene un patrón en [Sistemas distribuidos](../Sistemas-distribuidos/sistemas-distribuidos.md):
 
@@ -69,7 +69,7 @@ Newman, autor de *Building Microservices*, dijo en QCon 2020 que "Microservices 
 
 ## Prime Video: un caso que se lee de dos maneras
 
-En marzo de 2023, el equipo de análisis de calidad de video de Prime Video contó que había juntado en un solo proceso un componente de monitoreo armado con funciones serverless orquestadas. El post original ya no se puede abrir (la URL redirige); los números que siguen vienen del resumen de InfoQ. El diseño distribuido pasaba frames y resultados entre pasos por almacenamiento de objetos, y el costo venía de esas lecturas y escrituras y de las transiciones del orquestador, que además chocaron con el límite de la cuenta cerca del 5 % de la carga esperada. Al consolidar todo en un proceso con los datos en memoria, el costo bajó un 90 %. Marcin Kolny, su autor: "We realized that distributed approach wasn't bringing a lot of benefits in our specific use case."
+En marzo de 2023, el equipo de análisis de calidad de video de Prime Video contó que había juntado en un solo proceso un componente de monitoreo armado con funciones serverless orquestadas. El post original ya no se puede abrir (la URL redirige); los números que siguen vienen del resumen de InfoQ (el del 5 % también lo da DHH). El diseño distribuido pasaba los ítems intermedios entre pasos por almacenamiento de objetos, y el costo venía de esas lecturas y escrituras y de las transiciones del orquestador, que además chocaron con el límite de la cuenta cerca del 5 % de la carga esperada. Al consolidar todo en un proceso con los datos en memoria, el costo bajó un 90 %. Marcin Kolny, su autor: "We realized that distributed approach wasn't bringing a lot of benefits in our specific use case."
 
 > [!IMPORTANT]
 > Buena parte de la prensa, y DHH, lo leyó como "de microservicios a monolito" y como prueba contra el estilo. Adrian Cockcroft, ex Amazon y Netflix, lo lee como la evolución planeada de un prototipo serverless a un servicio único escalado horizontalmente, y dice que el debate se perdió el punto (su texto se leyó solo en parte, por un paywall). Otros comentaristas, vistos solo por buscador, dicen que es un monolito "only at the service level". La lectura de esta base: es un componente con mucho dato entre etapas fuertemente acopladas, no un sistema de negocio entero, y lo que muestra es el costo de pasar datos por la red entre pasos que no se separan. No es un veredicto sobre microservicios.

@@ -44,7 +44,7 @@ En un sistema sin modelos, el costo y la latencia son características entre otr
 [modelo de lenguaje](../../IA/llm.md) adentro, cada consulta tiene un costo que crece con los
 tokens y una latencia que se parte en el primer token y los siguientes, y las dos se vuelven
 decisiones de diseño de primera. Huyen las mide como métricas propias de la observabilidad de una
-plataforma de IA generativa. Hay una tercera que el canon no tenía: la calidad de una salida que
+plataforma de IA generativa. Hay una tercera que no figura en el índice del canon: la calidad de una salida que
 cambia de una vez a otra, que solo se mide con [evaluación](../Evaluacion-y-observabilidad/evaluacion.md).
 
 ## Qué hay adentro de Características

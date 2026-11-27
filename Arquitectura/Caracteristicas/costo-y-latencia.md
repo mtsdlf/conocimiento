@@ -22,7 +22,7 @@ parte en el tiempo hasta el primer token (TTFT) y el tiempo por token de salida 
 
 ## Por qué un modelo los sube al frente
 
-En un servicio sin modelos, el costo de una consulta más es casi cero y la latencia depende de la
+La explicación es de esta base. En un servicio sin modelos, el costo de una consulta más es casi cero y la latencia depende de la
 base de datos y la red. Un [modelo de lenguaje](../../IA/llm.md) genera la respuesta token por token
 y se paga por los tokens que lee y escribe, así que cada consulta tiene un costo propio y una
 latencia que crece con el largo de la respuesta. Richards y Ford tratan el rendimiento como una
@@ -38,7 +38,7 @@ Huyen separa la latencia en dos métricas:
 - **TPOT** (time per output token): "The time it takes to generate each output token". Es la
   velocidad a la que se va escribiendo la respuesta.
 
-De las dos definiciones se deduce que la latencia total de una respuesta es, aproximadamente, el
+De las dos definiciones se deduce (cuenta de esta base) que la latencia total de una respuesta es, aproximadamente, el
 TTFT más el TPOT por la cantidad de tokens de salida. Una respuesta larga con buen TTFT puede
 tardar mucho igual; acortar la salida baja latencia y costo a la vez. Según un resumen secundario
 de una charla de Huyen, en los modelos de razonamiento "The first generated token might not be the
@@ -55,7 +55,7 @@ no acá.
 
 ## Las piezas que los controlan
 
-Cada pieza de la arquitectura de Huyen mueve alguna de las dos:
+Cada pieza de la arquitectura de Huyen mueve alguna de las dos. Las dos últimas filas son lectura de esta base:
 
 | Pieza | Qué mueve |
 |---|---|

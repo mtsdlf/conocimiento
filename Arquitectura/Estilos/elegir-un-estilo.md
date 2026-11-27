@@ -52,12 +52,12 @@ En lo que recogió la investigación, esa correspondencia no nombra el monolito 
 
 ## La tabla de calificaciones del canon
 
-Richards y Ford califican cada estilo contra una lista de características (despliegue, elasticidad, evolución, costo, simplicidad, entre otras) en una tabla por capítulo y en el capítulo "Choosing the Appropriate Architecture Style".
+Según el resumen del buscador, Richards y Ford califican cada estilo contra una lista de características, y el índice del libro muestra el capítulo "Choosing the Appropriate Architecture Style". Qué características puntúan (despliegue, elasticidad, evolución, costo, simplicidad, entre otras) es lo que habría que mirar en la tabla, no algo verificado.
 
 > [!NOTE]
 > Sin fuente todavía: la tabla de la 2ª edición no se leyó. O'Reilly devolvió 403, y según el resumen del buscador la 2ª edición cambió algunas calificaciones y sumó categorías, y el informe *Software Architecture Patterns* de Richards puntúa cada estilo de 1 a 5 por característica. Ninguno de esos valores se verificó, así que esta base no da puntajes por estilo: copiarlos sin la tabla sería inventarlos.
 
-Aun con la tabla a mano, sus calificaciones son una heurística de práctica, no una medición del sistema propio.
+Según la lectura de esta base, aun con la tabla a mano sus calificaciones serían una heurística de práctica y no una medición del sistema propio.
 
 ## Una elección que se vuelve a medir
 

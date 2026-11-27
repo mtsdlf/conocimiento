@@ -43,8 +43,8 @@ Muchos prompts empiezan igual: las instrucciones del sistema, las definiciones d
 documento largo, la conversación hasta acá. El prompt cache guarda el cómputo de ese comienzo y lo
 reutiliza en la consulta siguiente, que se cobra más barata y tarda menos. Huyen advierte que, como
 pasa con el KV cache, "prompt cache size can be quite large and require significant
-engineering effort". Hoy lo ofrecen los proveedores, y a la aplicación le toca aprovecharlo. El
-mecanismo del lado del servidor está en el cap. 9 del libro (p. 440).
+engineering effort". Hoy lo ofrecen los proveedores, y a la aplicación le toca aprovecharlo. Del
+lado del servidor, el libro trata la optimización del servicio de inferencia en el cap. 9 (p. 440).
 
 Los tres grandes proveedores lo ofrecen con diseños distintos: uno exige marcar qué se cachea,
 otros lo activan solos; algunos cobran la escritura en la cache además de descontar la lectura. Lo
@@ -67,8 +67,8 @@ modelo, y está en [Plataformas de IA](plataformas-de-ia.md).
 
 La cache exacta es la de cualquier sistema: misma entrada, misma salida guardada. Huyen la descarta
 para consultas propias de un usuario o que dependen del momento, donde una respuesta guardada
-queda mal. Su advertencia es la de toda cache: sin una política de expiración, lo guardado envejece y crece
-sin límite.
+queda mal. Huyen dice que tener una política de desalojo es imprescindible para controlar el tamaño de la cache y
+mantener el rendimiento; que lo guardado envejezca es lectura de esta base.
 
 ## La cache semántica y por qué se equivoca
 

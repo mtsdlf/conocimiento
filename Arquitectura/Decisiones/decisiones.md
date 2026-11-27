@@ -26,12 +26,12 @@ una [característica](../Caracteristicas/caracteristicas.md) sobre otra o sumar 
 [sistema con modelos](../Sistemas-con-modelos/sistemas-con-modelos.md) son decisiones; esta
 vertical dice cómo se toman y cómo se guardan. La evidencia para tomarlas llega de la
 [evaluación y la observabilidad](../Evaluacion-y-observabilidad/evaluacion-y-observabilidad.md).
-Richards y Ford agrupan decisiones, análisis de riesgo y diagramas en la parte de técnicas de su
+La definición de "cuestan caro cambiar" es de trabajo de esta base; ninguna fuente leída la formula así. Richards y Ford agrupan decisiones, análisis de riesgo y diagramas en la parte de técnicas de su
 libro, y esta vertical sigue esa división.
 
 ## Decidir, registrar y revisar
 
-Una decisión de arquitectura sale bien cuando se pueden reconstruir sus razones años después. El
+Una decisión de arquitectura sale bien, según esta base, cuando se pueden reconstruir sus razones años después. El
 ciclo tiene cuatro piezas:
 
 1. **Partir de lo más simple** que podría funcionar y sumar complejidad solo con evidencia. Huyen
@@ -40,10 +40,9 @@ ciclo tiene cuatro piezas:
 2. **Mirar qué puede salir mal** antes de comprometerse, en grupo y sobre un diagrama: es el
    [análisis de riesgo](analisis-de-riesgo.md).
 3. **Escribir la decisión** con su contexto, lo elegido y sus consecuencias, en un texto corto que
-   vive junto al código: es el [ADR](adr.md), que Michael Nygard propuso en 2011.
+   vive junto al código: es el [ADR](adr.md), que Michael Nygard popularizó en 2011.
 4. **Dibujar la estructura** con un vocabulario que todos lean igual, para que el ADR y el análisis
-   de riesgo tengan sobre qué apoyarse: son los [diagramas](diagramas.md), con C4 como modelo más
-   usado.
+   de riesgo tengan sobre qué apoyarse: son los [diagramas](diagramas.md), con C4 como modelo de ejemplo.
 
 Una decisión tomada no se reescribe: si cambia el contexto, se escribe otra que la reemplaza. Con
 un modelo de IA adentro, además del estilo se deciden el modelo, el umbral de la evaluación y cada
@@ -53,7 +52,7 @@ pieza nueva, y cada una de esas decisiones envejece rápido porque los modelos c
 
 - [ADR](adr.md) — el registro corto de una decisión, de Nygard a MADR.
 - [Empezar simple](empezar-simple.md) — sumar una pieza solo cuando la medición la pide; el
-  principio que comparten el canon, Huyen y Anthropic.
+  principio que comparten Huyen y Anthropic, y que Fowler defiende para los monolitos.
 - [Análisis de riesgo](analisis-de-riesgo.md) — risk storming y la matriz de impacto por
   probabilidad.
 - [Diagramas](diagramas.md) — el modelo C4 y sus cuatro niveles.

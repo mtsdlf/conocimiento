@@ -58,8 +58,8 @@ práctica: mirar trazas, anotar fallas, contarlas, escribir pruebas y volver a m
 Con un modelo, la misma entrada puede dar salidas distintas, y "correcto" pasa a ser una proporción
 sobre un conjunto de casos. Sin ese conjunto no hay forma de saber si un cambio mejoró o empeoró el
 sistema. Husain lo dice sin rodeos: "Rigorous and systematic evaluation is the most important part
-of the whole system." Huyen cuenta entre los errores comunes llegar rápido al 60 % y descubrir que
-del 60 al 100 es lo difícil; lo que hace visible esa distancia es la evaluación.
+of the whole system." Huyen cuenta entre los errores comunes que llegar de 0 a 80 % lleve lo mismo que
+pasar de 80 % a 90 %; lo que hace visible esa distancia es la evaluación.
 
 La evaluación tampoco termina en el modelo. Muchas veces la falla está en el producto: Huyen relata
 equipos que midieron la calidad del resumen cuando a sus usuarios no les importaba el resumen, y

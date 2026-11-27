@@ -21,9 +21,9 @@ Strangler fig es reemplazar un sistema de a partes, sin apagarlo: una fachada re
 
 ## La higuera de Queensland
 
-El nombre es de Martin Fowler. En 2001 vio en Queensland higueras estranguladoras, que crecen sobre un árbol huésped hasta reemplazarlo, y "a couple of years later" escribió una entrada breve con la metáfora. La entrada se llamó primero "Strangler Application" y después se retituló "Strangler Fig Application". Fowler actualizó la página el 22 de agosto de 2024, que es la fecha que muestra hoy; no da el año de la entrada original.
+El nombre es de Martin Fowler. En 2001 vio en Queensland higueras estranguladoras, que crecen sobre un árbol huésped hasta reemplazarlo, y "a couple of years later" escribió una entrada breve con la metáfora. La entrada se llamó primero "Strangler Application" y después se retituló "Strangler Fig Application". La página lleva la fecha del 22 de agosto de 2024; no da el año de la entrada original.
 
-El argumento de Fowler es de riesgo y de valor. Reemplazar un sistema serio de una vez "takes a long time, and the users can't wait for new features". Ir de a partes cuesta más en total, porque hay que construir y sostener piezas de transición, pero "the reduced risk and earlier value from the gradual approach outweigh its costs".
+El argumento de Fowler es de riesgo y de valor. Reemplazar un sistema serio de una vez "takes a long time, and the users can't wait for new features". Ir de a partes tiene costos, entre ellos las piezas de transición, pero "the reduced risk and earlier value from the gradual approach outweigh its costs".
 
 ## Fachada, convivencia y retiro
 

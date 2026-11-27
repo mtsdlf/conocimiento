@@ -34,7 +34,7 @@ El router mueve la característica que con un modelo pasa al frente, el
 [costo y la latencia](../Caracteristicas/costo-y-latencia.md). RouteLLM (Ong et al., preprint de
 2024) entrena routers con datos de preferencia y, según su resumen, reporta bajar el costo "more
 than 2x in some cases" sin perder calidad. Es la afirmación de los autores, sin revisión por pares
-ni datos de producción de terceros. Un router también se equivoca: si manda una consulta difícil al
+ni datos de producción de terceros. Un router también se equivoca (lectura de esta base): si manda una consulta difícil al
 modelo barato, la respuesta empeora sin que nadie lo note, y eso solo lo ve la
 [evaluación](../Evaluacion-y-observabilidad/evaluacion.md) separada por ruta.
 
@@ -44,7 +44,8 @@ Huyen trata en el cap. 4 ("Model Selection", p. 179, con la decisión entre cons
 ## El gateway: un solo lugar para llamar a los modelos
 
 "A model gateway is access control and cost management", dice Huyen. Concentra en una pieza lo que
-si no se repetiría en cada servicio que llama a un modelo:
+si no se repetiría en cada servicio que llama a un modelo (Huyen nombra el control de acceso, el
+costo y el fallback; el resto sale de la documentación de LiteLLM y Cloudflare):
 
 - una interfaz única para varios proveedores, que permite cambiar de modelo sin tocar la aplicación;
 - claves y permisos por usuario, equipo o proyecto, con presupuestos y límites de gasto;

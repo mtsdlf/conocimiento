@@ -23,7 +23,7 @@ Un API gateway es el punto de entrada único entre los clientes y los servicios:
 
 Cuando un sistema se parte en [microservicios](../Estilos/microservicios.md), un cliente que llamara a cada servicio tendría que conocer la partición entera y hacer muchos viajes por la red para armar una pantalla. Richardson pone un gateway en el medio: recibe cada pedido y lo enruta a un servicio, o lo abre en abanico a varios y junta los resultados. También adapta protocolos y maneja la seguridad.
 
-Los beneficios, según Richardson: el cliente no ve cómo está partido el sistema, y hace menos viajes por la red, que es lo que más pesa en un teléfono ("An API gateway is essential for mobile applications"). Los costos: otro componente que construir y operar, y un salto de red más en cada pedido.
+Los beneficios, según Richardson: el cliente no ve cómo está partido el sistema, y hace menos viajes por la red, que importa sobre todo en móvil ("An API gateway is essential for mobile applications"). Los costos: otro componente que construir y operar, y un salto de red más en cada pedido.
 
 ## El BFF: un backend por experiencia
 
@@ -37,7 +37,7 @@ Azure separa las responsabilidades: el BFF tiene solo la lógica propia de su cl
 
 Las fuentes no encuadran igual la relación. Richardson trata el BFF como una variante del gateway (un gateway por tipo de cliente); Newman y Azure lo tratan como un patrón propio, distinto de un gateway genérico. Por eso esta base los trata en una sola nota.
 
-El BFF se parece a la capa Experience de [API-led connectivity](api-led-connectivity.md): las dos adaptan los datos a un consumidor y no tienen reglas de negocio. La correspondencia es de esta base; API-led agrega además una capa Process que orquesta, que ni el gateway ni el BFF deberían absorber. En un sistema [multi-tenant](multi-tenancy.md), el tenant se resuelve en el borde, y el gateway es un lugar natural para hacerlo.
+El BFF se parece a la capa Experience de [API-led connectivity](api-led-connectivity.md): las dos adaptan los datos a un consumidor y no tienen reglas de negocio. La correspondencia es de esta base; API-led agrega además una capa Process que orquesta, que ni el gateway ni el BFF deberían absorber. En un sistema [multi-tenant](multi-tenancy.md), según esta base, el tenant se resuelve en el borde, y el gateway es un lugar natural para hacerlo.
 
 ## Cuándo no hace falta
 

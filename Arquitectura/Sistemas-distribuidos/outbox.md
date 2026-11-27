@@ -23,7 +23,7 @@ El outbox guarda el mensaje que hay que publicar en una tabla de la misma base y
 
 Un servicio de pedidos guarda un pedido en su base y publica el evento "pedido creado" para que lo escuchen stock y facturación. Son dos escrituras en dos sistemas distintos, y no hay una transacción que abarque las dos: Morling lo dice para su caso, "we cannot have one shared transaction that would span the service's database" y el broker. AWS llama a esto "dual write". Si la base se actualiza y la publicación falla, el pedido existe y nadie se entera. Si se publica primero y la base falla, los demás reaccionan a un pedido que no existe.
 
-Un commit en dos fases entre la base y el broker resolvería el problema, pero bloquea recursos y depende de que los dos estén disponibles a la vez; es la misma razón por la que una [saga](saga.md) evita las transacciones distribuidas.
+Richardson presenta el patrón como la solución sin commit en dos fases. Las fuentes leídas no explican por qué se descarta ese commit, así que la base no lo deduce.
 
 ## Una tabla en la misma transacción, y un relay
 
@@ -40,13 +40,13 @@ La columna de costos es inferencia de esta base. Morling describe la segunda: el
 
 ## Al menos una vez, y por eso consumidores idempotentes
 
-El outbox no garantiza que cada evento llegue exactamente una vez. Si el relay publica y se cae antes de marcar la fila como enviada, la vuelve a publicar. La semántica es "at least once" (Morling), y Richardson lo dice igual: el relay puede publicar un mensaje más de una vez.
+El outbox no garantiza que cada evento llegue exactamente una vez. Por ejemplo, si el relay publica y se cae antes de marcar la fila como enviada, la vuelve a publicar. La semántica es "at least once" (Morling), y Richardson lo dice igual: el relay puede publicar un mensaje más de una vez.
 
 Por eso el consumidor tiene que ser idempotente. Morling manda el UUID del evento en un header, y el consumidor guarda en una tabla los IDs ya procesados para descartar los repetidos. Es la misma idea que la [clave de idempotencia](clave-de-idempotencia.md) de una API, aplicada a mensajes. AWS agrega que hay que preservar el orden; Azure recomienda el mismo par, outbox más consumidor idempotente, para sincronizar los dos modelos de [CQRS](cqrs.md).
 
 ## Dónde aparece
 
-Richardson dice que la [saga](saga.md) y los eventos de dominio son los que crean la necesidad: cada paso de una saga confirma su transacción local y publica su resultado, y ese "publicar después de escribir" es justo el problema que el outbox resuelve. Lo mismo vale para cualquier componente de un sistema [event-driven](../Estilos/event-driven.md) que publique tras escribir en su base, y para los pendientes que deja una [degradación controlada](degradacion-controlada.md), como un email que se manda en segundo plano.
+Richardson dice que la [saga](saga.md) y los eventos de dominio son los que crean la necesidad: cada paso de una saga confirma su transacción local y publica su resultado, y ese "publicar después de escribir" es justo el problema que el outbox resuelve. Lo mismo vale para cualquier componente de un sistema [event-driven](../Estilos/event-driven.md) que publique tras escribir en su base, y, por inferencia de esta base, para los pendientes que deja una [degradación controlada](degradacion-controlada.md), como un email que se manda en segundo plano.
 
 Richardson nombra una alternativa: con [event sourcing](cqrs.md#event-sourcing-guardar-los-cambios-en-lugar-del-estado), el evento es la escritura, y no hay dos cosas que sincronizar.
 

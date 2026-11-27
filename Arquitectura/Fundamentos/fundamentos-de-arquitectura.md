@@ -45,7 +45,7 @@ Algunas confusiones documentadas, cada una con su fuente:
 - **Monolito no es sinónimo de legacy.** Según Newman, "monolito" nombra la unidad de despliegue, no
   la edad del código; el peor caso es el monolito distribuido. Ver
   [monolito modular](../Estilos/monolito-modular.md).
-- **Prime Video no prueba que los microservicios fracasaron.** El caso de 2023 movió un componente,
+- **Prime Video no prueba que los microservicios fracasaron.** Según comentaristas vistos solo por buscador, el caso de 2023 movió un componente,
   no un sistema entero, y la etiqueta está disputada; el detalle está en
   [lo que pierde peso](lo-que-pierde-peso.md).
 

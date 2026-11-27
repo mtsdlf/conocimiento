@@ -37,7 +37,7 @@ Azure describe dos topologías, que coinciden con las que usan Richards y Ford (
 
 En **broker**, cada componente publica sus eventos y los demás reaccionan, sin nadie que coordine. Sirve cuando el flujo es simple. Su límite, según Azure: "No component owns or is aware of the state of any multistep business transaction". Por eso las transacciones que cruzan varios pasos son riesgosas y no hay un lugar natural para reintentar o reprocesar.
 
-En **mediator**, un mediador recibe el evento inicial, lleva el estado del flujo, maneja errores y reinicios y despacha comandos a cada paso, muchas veces por colas. Da más control y mejor consistencia, a cambio de más acoplamiento: el mediador conoce a todos y puede volverse cuello de botella.
+En **mediator**, un mediador recibe el evento inicial, lleva el estado del flujo, maneja errores y reinicios y despacha comandos a cada paso, muchas veces por colas. Da más control y mejor consistencia, a cambio de más acoplamiento, y el mediador puede volverse cuello de botella.
 
 Es la misma elección que tiene una [saga](../Sistemas-distribuidos/saga.md) entre coreografía y orquestación; la correspondencia (broker con coreografía, mediator con orquestación) es lectura de esta base.
 
@@ -59,6 +59,6 @@ Dos de esos problemas tienen patrón propio en la base. Publicar un evento despu
 
 ## Cuándo no conviene
 
-Azure lo desaconseja en tres casos: flujos simples de pedido y respuesta donde alcanzan llamadas síncronas, transacciones que exigen consistencia fuerte y equipos sin experiencia operando sistemas asíncronos distribuidos. Event-driven no es un escalón entre el [monolito modular](monolito-modular.md) y los [microservicios](microservicios.md): es una forma de comunicar piezas que se suma cuando el desacople temporal vale lo que cuesta.
+Azure lo desaconseja en tres casos: flujos simples de pedido y respuesta donde alcanzan llamadas síncronas, transacciones que exigen consistencia fuerte y equipos sin experiencia operando sistemas asíncronos distribuidos. Para esta base, event-driven no es un escalón entre el [monolito modular](monolito-modular.md) y los [microservicios](microservicios.md): es una forma de comunicar piezas que se suma cuando el desacople temporal vale lo que cuesta.
 
 Para leer más: primero Fowler (2017), que es corto y ordena el vocabulario; después el capítulo event-driven de Richards y Ford (2ª ed.), fijándose en broker contra mediator y en cómo califica la testeabilidad y la simplicidad. La página de Azure sirve como lista de verificación antes de poner el estilo en producción.

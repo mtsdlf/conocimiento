@@ -48,10 +48,10 @@ fases:
    mirar lo que marcan los demás, para que nadie influya en nadie.
 2. **Consenso**: se juntan las marcas y se discute dónde coinciden y dónde no, hasta acordar qué
    riesgos hay.
-3. **Mitigación**: para los riesgos acordados, qué cambio de diseño los reduce y cuánto cuesta.
+3. **Mitigación**: para los riesgos acordados, qué cambio de diseño los reduce.
 
-El diagrama es la condición: sin un dibujo compartido de la estructura, cada uno habla de un
-sistema distinto. Por eso el análisis de riesgo se apoya en un modelo como C4
+El diagrama es la condición (razonamiento de esta base): sin un dibujo compartido de la estructura, cada uno habla de un
+sistema distinto. Por eso, según esta base, el análisis de riesgo se apoya en un modelo como C4
 ([diagramas](diagramas.md)), y lo que se decide al mitigar queda en un [ADR](adr.md).
 
 > [!NOTE] Las fases salen de resúmenes secundarios que parafrasean el capítulo de Richards y Ford;

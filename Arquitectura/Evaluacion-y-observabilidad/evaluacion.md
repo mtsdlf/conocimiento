@@ -30,7 +30,8 @@ exacto cuando la misma entrada puede dar salidas distintas.
 
 Cada caso de ese conjunto se llama, en la jerga, un *eval*. La evaluación es la pieza central del
 [bucle de evaluación y observabilidad](evaluacion-y-observabilidad.md): recibe del
-[análisis de errores](analisis-de-errores.md) qué medir y decide si una mejora se queda.
+[análisis de errores](analisis-de-errores.md) qué medir, corre sobre las trazas que guarda la
+[observabilidad](observabilidad-de-modelos.md) y decide si una mejora se queda.
 
 ## Por qué la prueba unitaria no alcanza
 
@@ -43,7 +44,7 @@ con el criterio de una persona.
 Parte del no determinismo se puede evitar. He (Thinking Machines, 2025) mostró que la causa principal
 no es la concurrencia sino que los kernels de inferencia no son invariantes al tamaño del batch: con
 1.000 completions de Qwen3-235B a temperatura 0 obtuvo 80 salidas distintas, y con kernels
-invariantes, las 1.000 iguales, a un costo de 42 s frente a 26 s en su prueba. Aun con salidas
+invariantes, las 1.000 iguales. El costo, en una prueba con Qwen3-8B, fue de 42 s frente a 26 s de vLLM por defecto. Aun con salidas
 reproducibles, un cambio chico de prompt o de modelo cambia el comportamiento, así que la evaluación
 sobre muchos casos sigue haciendo falta. Cómo se aísla esa pieza incierta en el diseño está en
 [aislar lo no determinista](../Modularidad/aislar-lo-no-determinista.md).
@@ -54,12 +55,12 @@ Husain (2024) ordena la evaluación en tres niveles, de lo barato a lo caro:
 
 | Nivel | Qué es | Cuándo corre |
 |---|---|---|
-| 1. Pruebas unitarias | Aserciones de código sobre la salida (formato, campos, palabras prohibidas) | En cada cambio |
-| 2. Evaluación humana y por modelo | Personas o un [juez](ia-como-juez.md) califican trazas registradas | Con cadencia fija |
+| 1. Pruebas unitarias | Aserciones de código sobre la salida | En cada cambio |
+| 2. Evaluación humana y por modelo | Personas o un [juez](ia-como-juez.md) califican trazas registradas | Sobre las trazas ya guardadas |
 | 3. A/B testing | Dos versiones frente a usuarios reales | Cuando el producto ya es maduro |
 
 El nivel 1 conserva lo que la prueba unitaria sí puede fijar. Husain recomienda etiquetas binarias
-(bueno o malo) antes que puntajes en escala, porque obligan a decidir. Y advierte: "You can never stop
+(bueno o malo) antes que puntajes en escala. Y advierte: "You can never stop
 looking at data—no free lunch exists."
 
 ## Criterios antes de construir y en cada componente
@@ -68,7 +69,7 @@ Según el resumen del buscador del capítulo 4, Huyen propone *evaluation-driven
 los criterios de evaluación antes de construir, como en TDD. La cita literal no se verificó. El índice
 del capítulo sí muestra los tres pasos del pipeline: evaluar todos los componentes del sistema, no solo
 la salida final; escribir una guía de evaluación con rúbrica; y elegir métodos y datos. Evaluar cada
-componente es lo que permite saber si una falla viene de la recuperación de
+componente es, por inferencia de esta base, lo que permite saber si una falla viene de la recuperación de
 [contexto](../Sistemas-con-modelos/contexto-y-rag.md), del prompt o del modelo.
 
 Según los resúmenes de capítulo del repositorio del libro, Huyen sostiene que los benchmarks públicos
@@ -81,9 +82,9 @@ comparación exacta, juez, personas.
 > [!IMPORTANT]
 > Anthropic, en su guía de evaluaciones, pide "Prioritize volume over quality": "More questions with
 > slightly lower signal automated grading is better than fewer questions with high-quality human
-> hand-graded evals." Husain insiste en lo contrario en el énfasis: mirar los datos a mano, porque
-> "it is impossible to completely determine evaluation criteria prior to human judging of LLM
-> outputs". Las dos posiciones no se excluyen: la de Anthropic habla de cuántos casos automatizados
+> hand-graded evals." Husain insiste en lo contrario en el énfasis: mirar los datos a mano, porque,
+> según una frase que toma de Shankar et al., "it is impossible to completely determine evaluation
+> criteria prior to human judging of LLM outputs". Las dos posiciones no se excluyen: la de Anthropic habla de cuántos casos automatizados
 > correr; la de Husain, de cómo se descubren los criterios. Una lectura que las junta, inferencia de
 > esta base: primero pocos casos mirados a mano para saber qué medir, después muchos casos
 > automatizados para medirlo.

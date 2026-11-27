@@ -42,8 +42,9 @@ operativa; hay ejemplos en [Plataformas de IA](plataformas-de-ia.md).
 
 ## La escalera de recuperación
 
-Huyen ordena las técnicas de recuperación de la más barata a la más precisa, y la regla es subir un
-escalón solo si la evaluación de la recuperación lo pide.
+Huyen presenta estas técnicas en este orden, con la de términos como opción atractiva para empezar.
+Ordenarlas como escalera de la más barata a la más precisa, y subir un escalón solo si la evaluación
+de la recuperación lo pide, es lectura de esta base.
 
 1. **Por términos** (como BM25): busca palabras. "Term-based retrieval is much faster and cheaper
    than embedding-based retrieval", y según el resumen del cap. 6 da líneas de base fuertes.
@@ -98,13 +99,13 @@ RAG clásico: recuperación *just-in-time* (el modelo tiene identificadores livi
 contenido con herramientas cuando lo necesita), compactar la conversación, notas fuera de la
 ventana y subagentes con contexto propio.
 
-La diferencia con el RAG de Huyen es de momento: el RAG arma el contexto una vez, antes de llamar
+La diferencia con el RAG de Huyen es de momento (lectura de esta base): el RAG arma el contexto una vez, antes de llamar
 al modelo; el context engineering lo administra durante toda una tarea larga. Que pase a ser parte
 del harness de un agente es lo que se cuenta en [Agente](agente.md).
 
 ## Cómo falla y cómo se mide
 
-Un RAG falla en dos lugares distintos, y la [evaluación](../Evaluacion-y-observabilidad/evaluacion.md)
+Un RAG puede fallar en dos lugares distintos (lectura de esta base), y la [evaluación](../Evaluacion-y-observabilidad/evaluacion.md)
 tiene que separarlos: el recuperador no trajo el fragmento correcto, o lo trajo y el modelo no lo
 usó bien. El primero se arregla subiendo la escalera; el segundo, con el prompt o con el modelo.
 Cuándo la falla no es de contexto sino de comportamiento, y conviene otra cosa que RAG, está en

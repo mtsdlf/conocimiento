@@ -80,7 +80,7 @@ ESB (Hold, octubre de 2020). No se pudieron leer completos los volúmenes de 202
 
 **A favor de dejarlo fuera.** BloombergGPT (50.000 millones de parámetros) se entrenó con unos 708.000
 millones de tokens. Li et al. (2023) encontraron
-que modelos generales en zero o few-shot superan a ese modelo de dominio y a modelos ajustados en
+que ChatGPT y GPT-4 en zero o few-shot superan a un modelo preentrenado de dominio y a modelos ajustados en
 muchas tareas (según el resumen del buscador). **En contra.** BloombergGPT reportó ganar "por amplios
 márgenes" en tareas financieras, y Li et al. muestran que el modelo general falla donde hace falta
 conocimiento de dominio. Huyen no dice "nunca": dedica el capítulo 7 a cuándo sí hacer fine-tuning,
@@ -105,7 +105,7 @@ Anthropic pide "start by using LLM APIs directly" y sumar complejidad "only when
 improves outcomes". El Radar (Caution) critica adoptar "heavyweight AI agent frameworks" sin
 entenderlos. Kapoor et al. muestran que los benchmarks de precisión producen agentes "needlessly
 complex and expensive". **En contra.** Anthropic reporta +90,2 % de su sistema multiagente frente a
-un agente solo, con unas 15 veces más tokens, y el Radar tiene harness y runtimes de agentes en Trial
+un agente solo, con unas 15 veces los tokens de un chat, y el Radar tiene harness y runtimes de agentes en Trial
 o Assess. **Quién.** Huyen y laboratorios que también venden SDK de agentes; no hay estudio
 independiente. Lo que pierde peso es el framework opaco, no la orquestación. Ver
 [agente](../Sistemas-con-modelos/agente.md).
@@ -125,7 +125,7 @@ servicio como unidad.
 Richards la presenta para escalabilidad, con nodos que comparten una grilla de datos en memoria;
 según fuentes secundarias, es mala para consistencia fuerte y escrituras intensas. **No hay evidencia de que pierda
 peso**: no se encontró un caso de adopción, ni una crítica independiente, ni una entrada del Radar.
-Sigue en el índice de Richards y Ford. Corresponde decir "evidencia de uso pública escasa". **Quién.** Criterio de esta base.
+Sigue en el índice de Richards y Ford. **Quién.** Criterio de esta base.
 
 ## ML clásico a medida
 
@@ -147,14 +147,14 @@ song for needlessly complicating your system". Según InfoQ, Prime Video juntó 
 solo proceso y logró "a 90% reduction in operational costs". **En contra.** Tilkov: "starting with a
 monolith is usually exactly the wrong thing to do" si el sistema va a terminar en servicios, porque
 partirlo después es difícil. Fowler admite que monolith-first es "by no means unanimous", y el caso
-Prime Video movió un componente, no un sistema. **Quién.** Voces de práctica y consultoría; no hay
+Prime Video, según comentaristas vistos solo por buscador, movió un componente y no un sistema. **Quién.** Voces de práctica y consultoría; no hay
 estudio empírico. La disputa es sobre dominio entendido y escala de equipos, no sobre rendimiento.
 Ver [monolito modular](../Estilos/monolito-modular.md) y [microservicios](../Estilos/microservicios.md).
 
 ## Patrones GoF como lo primero que se estudia
 
 **A favor de bajarlos.** Norvig (1996) mostró que 16 de 23 patrones son "invisible or simpler" en
-lenguajes dinámicos (la cifra viene de un resumen). Ousterhout discute otra ortodoxia de diseño, la
+Lisp o Dylan (la cifra viene de un resumen). Ousterhout discute otra ortodoxia de diseño, la
 descomposición extrema, que según él produce "teeny-tiny methods that suffer from both shallow
 interfaces and entanglement". **En contra.** En los lenguajes de uso corriente los patrones siguen
 siendo vocabulario común. **Quién.** Criterio de esta base; no hay estudio sobre el orden de
@@ -165,13 +165,13 @@ enseñanza. Los patrones de código viven en [Desarrollo](../../Desarrollo/desar
 - **Evaluación propia** antes que las piezas: el centro de
   [Evaluación y observabilidad](../Evaluacion-y-observabilidad/evaluacion-y-observabilidad.md).
 - **Context engineering**: en Adopt en el Radar de abril de 2026, y "Progressive context disclosure"
-  en Adopt en noviembre de 2026. Ver [contexto y RAG](../Sistemas-con-modelos/contexto-y-rag.md).
-- **Harness**: "coding harness for general-purpose agents" en Trial y "harness quality evaluation" en
+  en Adopt en noviembre de 2026; ver [contexto y RAG](../Sistemas-con-modelos/contexto-y-rag.md).
+- **Harness** ([qué es](../Sistemas-con-modelos/agente.md)): "coding harness for general-purpose agents" en Trial y "harness quality evaluation" en
   Assess (noviembre de 2026).
 - **Chequeos automáticos**: "Feedback sensors for coding agents" en Trial (abril de 2026), heredero de
   la [fitness function](../Caracteristicas/fitness-function.md).
 - **Monolito modular**: estilo nuevo en la segunda edición de Richards y Ford.
-- **Modelos chicos y abiertos**: en Trial, frente al modelo más grande para todo.
+- **Modelos chicos y abiertos**: en Trial.
 
 ## Qué leer de la posición contraria
 

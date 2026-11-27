@@ -17,7 +17,7 @@ revisado:
 
 Capas, pipeline y microkernel son los estilos de un solo despliegue que no parten el sistema por dominio: las capas lo parten por función técnica, el pipeline por etapas que se pasan datos y el microkernel en un núcleo chico con plugins.
 
-Richards y Ford dedican un capítulo a cada uno en la 2ª edición (2025). Esos capítulos no se leyeron; lo que sigue sale de la guía de estilos de Azure para las capas y es definición de esta base para pipeline y microkernel. Comparten con el [monolito modular](monolito-modular.md) el despliegue único y se diferencian de él en cómo agrupan el código.
+Richards y Ford dedican un capítulo a cada uno en la 2ª edición (2025). Esos capítulos no se leyeron; lo que sigue sale de la guía de estilos de Azure para las capas y es definición de esta base para pipeline y microkernel. Comparten con el [monolito modular](monolito-modular.md) el despliegue único (las capas pueden repartirse en niveles físicos) y se diferencian de él en cómo agrupan el código.
 
 ## Capas: partir por función técnica
 

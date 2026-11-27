@@ -31,10 +31,10 @@ por las notas de Husain y el trabajo de Shankar.
 ## El paso que más se saltea
 
 Husain (2025) llama a saltearse el análisis de errores "el error más común" al construir productos
-con modelos. El síntoma es un tablero de métricas genéricas (fidelidad, relevancia, toxicidad) que no
-se mueven cuando el producto mejora o empeora, porque nadie miró qué fallaba. Huyen dice lo mismo
+con modelos. Husain critica partir de métricas genéricas como "hallucination" o "toxicity". En esta lectura, el síntoma es un tablero que no
+se mueve cuando el producto mejora o empeora, porque nadie miró qué fallaba. Huyen dice lo mismo
 desde su experiencia: "staring at data for just 15 minutes usually gives me some insight that could
-save me hours of headaches", y recomienda inspeccionar a mano datos de producción todos los días.
+save me hours of headaches", y dice que es útil inspeccionar a mano datos de producción a diario.
 
 ## De la traza a la categoría contada
 

@@ -21,7 +21,7 @@ CQRS (Command Query Responsibility Segregation) separa el modelo que actualiza l
 
 ## Un modelo para escribir y otro para leer
 
-En la mayoría de los sistemas, el mismo modelo (las mismas entidades y tablas) sirve para guardar un pedido y para mostrar el listado de pedidos. Cuando las dos necesidades se separan mucho, ese modelo único queda incómodo para las dos: las escrituras necesitan validar reglas sobre un agregado y las lecturas necesitan vistas planas que junten datos de varios lados. CQRS los parte: los comandos van a un modelo de escritura y las consultas a uno de lectura. Fowler atribuye la descripción del patrón a Greg Young.
+En la mayoría de los sistemas, el mismo modelo (las mismas entidades y tablas) sirve para guardar un pedido y para mostrar el listado de pedidos. Esta base lo explica así: cuando las dos necesidades se separan mucho, ese modelo único queda incómodo para las dos: las escrituras necesitan validar reglas sobre un agregado y las lecturas necesitan vistas planas que junten datos de varios lados. CQRS los parte: los comandos van a un modelo de escritura y las consultas a uno de lectura. Fowler atribuye la descripción del patrón a Greg Young.
 
 Azure lo describe en dos niveles:
 
@@ -30,13 +30,13 @@ Azure lo describe en dos niveles:
 | **Básico** | dos modelos en el código, sobre el mismo almacén | más código; ninguna sincronización |
 | **Avanzado** | dos almacenes, uno optimizado para escribir y otro para leer | sincronizarlos, con mensajería y consistencia eventual |
 
-En el nivel avanzado, cada cambio del modelo de escritura se publica para actualizar el de lectura. Azure pide para eso un [outbox](outbox.md) del lado que publica y un consumidor idempotente del lado que lee, porque los mensajes pueden llegar repetidos. Mientras el mensaje viaja, la lectura muestra un dato viejo: es consistencia eventual.
+La columna de costos es inferencia de esta base. En el nivel avanzado, cada cambio del modelo de escritura se publica para actualizar el de lectura. Azure pide para eso un [outbox](outbox.md) del lado que publica y un consumidor idempotente del lado que lee, porque los mensajes pueden llegar repetidos. Mientras el mensaje viaja, la lectura muestra un dato viejo: es consistencia eventual.
 
 ## Cuándo paga y cuándo no
 
 Azure lista los beneficios: escalar lecturas y escrituras por separado, esquemas optimizados para cada lado, seguridad distinta para cada uno y consultas más simples. Los costos son la complejidad, la mensajería (duplicados, reintentos) y la consistencia eventual. No conviene, según Azure, cuando "the domain or the business rules are simple" o cuando alcanza una interfaz CRUD.
 
-Fowler es más tajante: "for most systems CQRS adds risky complexity", y "you should be very cautious about using CQRS". El nivel básico es la versión barata que alcanza a muchos sistemas; el avanzado se suma cuando una medición lo pide, por ejemplo una carga de lectura que el modelo de escritura no aguanta. Es la regla de [Empezar simple](../Decisiones/empezar-simple.md) aplicada al modelo de datos.
+Fowler es más tajante: "for most systems CQRS adds risky complexity", y "you should be very cautious about using CQRS". Esta base lee el nivel básico como la versión barata que alcanza a muchos sistemas; el avanzado se suma cuando una medición lo pide, por ejemplo una carga de lectura que el modelo de escritura no aguanta. Es la regla de [Empezar simple](../Decisiones/empezar-simple.md) aplicada al modelo de datos.
 
 ## CQRS no es event-driven
 

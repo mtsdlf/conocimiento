@@ -34,7 +34,7 @@ Richards y Ford sumaron en la 2ª edición (2025) un capítulo propio, "The Modu
 
 ## Por qué el tema arranca por acá
 
-Fowler sostiene que "you shouldn't start a new project with microservices". Su observación es que la mayoría de los sistemas de microservicios exitosos empezaron como un monolito que creció, y que los que arrancaron partidos en servicios "often ran into serious trouble". La razón que da: los límites entre servicios son difíciles de acertar al principio, y mover código entre servicios cuesta mucho más que moverlo entre módulos de un mismo proceso. Él mismo reconoce que la evidencia es escasa.
+Fowler sostiene que "you shouldn't start a new project with microservices". Su observación es que la mayoría de los sistemas de microservicios exitosos empezaron como un monolito que creció, y que los que arrancaron partidos en servicios "often ran into serious trouble". La razón que da: los límites entre servicios son difíciles de acertar al principio, y refactorizar entre servicios es más duro que hacerlo dentro de un monolito. Él mismo reconoce que la evidencia es escasa.
 
 En "MicroservicePremium" lo dice más fuerte: "don't even consider microservices unless you have a system that's too complex to manage as a monolith". El premio que se paga por distribuir puede "slow down your development considerably".
 

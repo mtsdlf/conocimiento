@@ -28,7 +28,7 @@ Los estilos se distinguen por dos preguntas independientes. La primera es el eje
 
 | Estilo | Partición | Unidades de despliegue | Nota |
 |---|---|---|---|
-| Capas | técnica | una | [Estilos simples](estilos-simples.md) |
+| Capas | técnica | una, o una por nivel físico (N-tier) | [Estilos simples](estilos-simples.md) |
 | Pipeline | por etapa de procesamiento | una, por lo general | [Estilos simples](estilos-simples.md) |
 | Microkernel | núcleo más plugins | una | [Estilos simples](estilos-simples.md) |
 | Monolito modular | de dominio | una | [Monolito modular](monolito-modular.md) |
@@ -36,7 +36,7 @@ Los estilos se distinguen por dos preguntas independientes. La primera es el eje
 | Event-driven | por reacción a eventos | varias | [Event-driven](event-driven.md) |
 | Microservicios | de dominio, servicios chicos | una por servicio | [Microservicios](microservicios.md) |
 
-La tabla es una síntesis de esta base sobre el índice de Richards y Ford (2ª ed., 2025), que trata cada uno de estos estilos en un capítulo propio, y sobre la guía de estilos de Azure. Los capítulos no se leyeron: la columna "Partición" de pipeline, microkernel y event-driven es inferencia.
+La tabla es una síntesis de esta base sobre el índice de Richards y Ford (2ª ed., 2025), que trata cada uno de estos estilos en un capítulo propio, y sobre la guía de estilos de Azure. Los capítulos no se leyeron: la columna "Unidades de despliegue" y la columna "Partición" de pipeline, microkernel y event-driven son inferencia de esta base.
 
 Un monolito modular y una arquitectura en capas tienen el mismo despliegue y se diferencian solo en el eje de partición. Un monolito modular y los microservicios tienen la misma partición y se diferencian en el despliegue. Esa es la razón por la que el monolito modular es el punto de partida que recomienda el tema: deja los límites de dominio hechos sin pagar todavía el costo de la red.
 
@@ -52,7 +52,7 @@ Azure plantea los estilos como restricciones que se aceptan a cambio de un benef
 
 Tres estilos o costumbres no tienen nota propia; por qué, con la posición contraria de cada uno, está en [Lo que pierde peso](../Fundamentos/lo-que-pierde-peso.md):
 
-- **SOA con ESB**: la lógica de integración centralizada en un bus; lo que cae es el bus como lugar de la lógica, no el servicio como unidad.
+- **SOA con ESB**: la lógica de integración centralizada en un bus; según la lectura de esta base, lo que cae es el bus como lugar de la lógica y no el servicio como unidad.
 - **Space-based**: nodos con una grilla de datos en memoria replicada, para escalar mucho; figura en el canon pero hay poca evidencia pública de uso.
 - **Microservicios por defecto**: empezar un sistema nuevo partido en servicios chicos antes de conocer sus límites.
 

@@ -25,19 +25,20 @@ estructura; se eligen pocas porque compiten entre sí.
 La funcionalidad dice qué hace el sistema: cobrar un pedido, responder una pregunta. La
 característica dice cómo tiene que hacerlo: en menos de un segundo, sin caerse en el pico de
 ventas, sin que un cliente vea los datos de otro. Dos sistemas con la misma funcionalidad pueden
-pedir arquitecturas distintas porque piden características distintas. Por eso Richards y Ford les
-dedican capítulos propios: definirlas, identificarlas, medirlas y gobernarlas, y delimitar su
-alcance (según el índice de la 2ª edición).
+pedir arquitecturas distintas porque piden características distintas (los ejemplos son de esta
+base). Richards y Ford les dedican capítulos propios: definirlas, identificarlas, medirlas y
+gobernarlas, y delimitar su alcance (según el índice de la 2ª edición).
 
 > [!NOTE] Sin fuente todavía: los criterios del libro para decidir qué cuenta como característica,
-> la distinción entre características explícitas e implícitas y la idea de buscar la arquitectura
-> "menos mala". El capítulo no se pudo leer (acceso bloqueado).
+> la distinción entre características explícitas e implícitas, la idea de buscar la arquitectura
+> "menos mala" y por qué conviene elegir pocas. El capítulo no se pudo leer (acceso bloqueado).
 
 ## Todo es un trade-off
 
 Las características se contradicen. Un sistema más disponible necesita copias y eso cuesta; uno
-más seguro agrega controles y eso suma latencia; uno muy elástico es más difícil de probar. Por eso
-se eligen pocas, las que deciden el éxito, y las demás quedan como deseables. Según resúmenes
+más seguro agrega controles y eso suma latencia; uno muy elástico es más difícil de probar. De ahí
+que convenga elegir pocas, las que deciden el éxito, y dejar las demás como deseables (razonamiento
+de esta base; el libro no se leyó). Según resúmenes
 secundarios del libro, la primera ley de Richards y Ford es "Everything in software architecture is
 a trade-off" y la segunda, "the why is more important than how"; la 2ª edición sumaría una tercera,
 que las decisiones "aren't binary but rather exist on a spectrum between extremes".
@@ -46,8 +47,8 @@ que las decisiones "aren't binary but rather exist on a spectrum between extreme
 > no se confirmó en el libro.
 
 La segunda ley es la que conecta esta nota con [Decisiones](../Decisiones/decisiones.md): elegir
-una característica implica resignar otra, y eso se escribe en un [ADR](../Decisiones/adr.md) para
-que se pueda revisar cuando cambie el contexto.
+una característica implica resignar otra, y eso conviene escribirlo en un [ADR](../Decisiones/adr.md) para
+que se pueda revisar cuando cambie el contexto (inferencia de esta base).
 
 ## De la característica al estilo y a la medición
 

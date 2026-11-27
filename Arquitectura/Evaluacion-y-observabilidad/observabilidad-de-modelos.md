@@ -30,8 +30,8 @@ tamaño, y más cuanto más complejo es el sistema.
 
 ## Log everything: métricas, logs y trazas
 
-Huyen separa tres cosas. Las métricas resumen: del modelo ("accuracy, toxicity, and hallucination
-rate") y del sistema (latencia, costo, errores, que se ven en
+Huyen nombra tres pilares: logs, trazas y métricas. Las métricas resumen: del modelo ("accuracy, toxicity, and hallucination
+rate") y del sistema (throughput, memoria, uso de hardware y disponibilidad; el costo y la latencia se ven en
 [costo y latencia](../Caracteristicas/costo-y-latencia.md)). Los logs guardan cada evento. Las
 trazas unen los eventos de una misma consulta.
 
@@ -50,8 +50,8 @@ el contexto no traía el dato, la falla es de recuperación; si lo traía y el m
 prompt o del modelo. Husain usa esas trazas como insumo de su nivel 2 de evaluación, donde personas o
 un [juez](ia-como-juez.md) las califican.
 
-Registrar no alcanza: alguien tiene que leer. Huyen recomienda inspeccionar a mano datos de
-producción todos los días.
+Registrar no alcanza: alguien tiene que leer. Huyen dice que es útil inspeccionar a mano datos de
+producción a diario.
 
 ## Un vocabulario común: las convenciones GenAI de OpenTelemetry
 

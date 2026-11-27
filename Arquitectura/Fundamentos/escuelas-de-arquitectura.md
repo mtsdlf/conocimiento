@@ -82,10 +82,9 @@ well-defined and applicable", típicamente un subsistema o el trabajo de un equi
 mejoras, pero con estudios de poco rigor; no hay medición rigurosa de su costo-beneficio. Los libros
 de Evans y Vernon no se leyeron: lo dicho viene de fuentes secundarias.
 
-## ML de producción: el modelo es lo de menos
+## ML de producción: el sistema entero, no solo el modelo
 
-Sculley et al. (NIPS 2015) mostraron que el código del modelo es una parte chica de un sistema de ML y
-que la velocidad inicial engaña: "it is dangerous to think of these quick wins as coming for free".
+Sculley et al. (NIPS 2015) mostraron que la velocidad inicial de un sistema de ML engaña: "it is dangerous to think of these quick wins as coming for free".
 Nombraron la deuda propia de esos sistemas: erosión de límites, entrelazamiento, bucles de
 retroalimentación ocultos, consumidores no declarados, dependencias de datos y configuración. Huyen
 (*Designing Machine Learning Systems*, 2022) lleva eso a mirar el sistema entero, donde datos, features,

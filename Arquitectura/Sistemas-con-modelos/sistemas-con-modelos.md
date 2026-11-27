@@ -10,7 +10,7 @@ fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
   - https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html
-  - "Huyen, AI Engineering (O'Reilly, 2025), cap. 10 «AI Engineering Architecture and User Feedback», pp. 450-474"
+  - "Huyen, AI Engineering (O'Reilly, 2025), cap. 10 «AI Engineering Architecture and User Feedback», sección de arquitectura, pp. 449-473"
 aliases: [AI engineering architecture, arquitectura de AI engineering, sistemas con LLM, plataforma de IA generativa]
 creado: 2026-11-27
 revisado:
@@ -50,6 +50,8 @@ según ella, un sistema típico las va necesitando, no el orden en que una consu
 | — | Observabilidad | Saber qué pasó en cada consulta: métricas, logs y trazas | [Observabilidad](../Evaluacion-y-observabilidad/observabilidad-de-modelos.md) |
 | — | Orquestación | Encadenar las capas en un flujo | en esta nota, abajo |
 
+El diagrama es un flujo posible que arma esta base con esas capas; no es la figura de Huyen.
+
 ```mermaid
 flowchart LR
   U[Consulta] -->|se busca en| CA[Cache]
@@ -81,10 +83,10 @@ primero, qué pasa si un paso falla, cuándo se vuelve al modelo. Huyen la trata
 (cap. 10, "AI Pipeline Orchestration", p. 472) y recomienda empezar sin una herramienta de
 orquestación externa, porque "any external tool brings added complexity". En el mismo sentido
 cuenta entre los errores comunes "use an agentic framework when direct API calls work": un flujo de
-tres capas se escribe en el lenguaje de la aplicación, con llamadas directas.
+tres capas se escribe en el lenguaje de la aplicación, con llamadas directas (lectura de esta base).
 
 Cuando el flujo crece (varios modelos, pasos en paralelo, reintentos), un framework de orquestación
-puede ahorrar código; cuáles hay está en [Plataformas de IA](plataformas-de-ia.md). Que el campo
+puede ahorrar código (lectura de esta base); cuáles hay está en [Plataformas de IA](plataformas-de-ia.md). Que el campo
 desconfía de los frameworks pesados de agentes, y con qué evidencia, se cuenta en
 [Agente](agente.md) y en [Lo que pierde peso](../Fundamentos/lo-que-pierde-peso.md).
 
@@ -111,20 +113,20 @@ Esta lectura cruzada es de esta base: Huyen no la hace.
 
 ## Qué hay adentro de esta vertical
 
-- [Contexto y RAG](contexto-y-rag.md) — cómo se le da al modelo la información que no tiene: la
+- [Contexto y RAG](contexto-y-rag.md): cómo se le da al modelo la información que no tiene: la
   escalera de recuperación, contexto largo frente a RAG y context engineering.
-- [Router y gateway de modelos](router-y-gateway-de-modelos.md) — qué modelo atiende cada consulta
+- [Router y gateway de modelos](router-y-gateway-de-modelos.md): qué modelo atiende cada consulta
   y cómo se centraliza el acceso, el costo y el fallback.
-- [Cache de modelos](cache-de-modelos.md) — las tres caches (del prompt, exacta y semántica) y por
+- [Cache de modelos](cache-de-modelos.md): las tres caches (del prompt, exacta y semántica) y por
   qué la semántica puede devolver una respuesta equivocada.
-- [Agente](agente.md) — el modelo que planifica y usa herramientas: sus fallas, workflows frente a
+- [Agente](agente.md): el modelo que planifica y usa herramientas: sus fallas, workflows frente a
   agentes, MCP y harness engineering.
-- [Prompt, RAG o fine-tuning](prompt-rag-o-finetuning.md) — la decisión de cómo adaptar el modelo,
+- [Prompt, RAG o fine-tuning](prompt-rag-o-finetuning.md): la decisión de cómo adaptar el modelo,
   y por qué el fine-tuning mueve el problema al dato.
-- [Plataformas de IA](plataformas-de-ia.md) — ficha fechada con ejemplos de gateways, vector
+- [Plataformas de IA](plataformas-de-ia.md): ficha fechada con ejemplos de gateways, vector
   stores, orquestación y evals, el prompt cache por proveedor y el estado del fine-tuning.
 
-El recurso canónico de toda la vertical es el cap. 10 de *AI Engineering* (pp. 450-474), o su
+El recurso canónico de toda la vertical es la parte de arquitectura del cap. 10 de *AI Engineering* (pp. 449-473), o su
 versión libre, el post ["Building A Generative AI Platform"](https://huyenchip.com/2024/07/25/genai-platform.html).
 Conviene leerlo por el diagrama que crece paso a paso y fijarse en qué problema justifica cada
 pieza: es lo que permite decidir que una no hace falta.

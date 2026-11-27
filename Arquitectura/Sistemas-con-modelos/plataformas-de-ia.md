@@ -76,17 +76,17 @@ sobre el precio de entrada normal. Copiado de las tres documentaciones el 2026-1
 | Escritura | 1,25x (5 min); 2x (1 h) | modelos nuevos: 1,25x (30 min) o 2,5x (12 h); anteriores: sin cargo | la página no lo dice |
 | Lectura | 0,1x; 0,05x en Opus 5.5 y Sonnet 5.5; 0,025x en Fable/Mythos 5.1 y 5.2 | 0,1x; 0,05x en algunos modelos | la página no lo dice |
 | Mínimo cacheable | de 512 a 4.096 tokens según modelo | 1.024 tokens (GPT-5.6 y posteriores) | de 2.048 a 4.096 tokens según modelo |
-| Qué invalida | cualquier cambio en el prefijo (orden `tools`, `system`, `messages`); cambiar herramientas invalida todo; cambiar `tool_choice`, system y tools | contenido distinto al comienzo; guarda el estado KV, no el texto | — |
+| Qué invalida | cualquier cambio en el prefijo (orden `tools`, `system`, `messages`); cambiar herramientas invalida todo; cambiar `tool_choice` invalida system y tools | contenido distinto al comienzo; guarda el estado KV, no el texto | — |
 
 ## Estado del fine-tuning por proveedor
 
 | Proveedor | Estado al 2026-11-27 | Fuente |
 |---|---|---|
-| OpenAI | "OpenAI is winding down the fine-tuning platform": cerrada a usuarios nuevos; los clientes existentes elegibles pueden crear jobs hasta el 2026-12-15. Fechas de apagado de modelos afinables: `gpt-4.1-nano-2025-04-14` el 2026-10-23; `gpt-4.1` y `gpt-4.1-mini` el 2027-01-14. Métodos que documentaba: SFT, DPO y visión | [distillation](https://developers.openai.com/api/docs/guides/distillation), [model optimization](https://developers.openai.com/api/docs/guides/model-optimization) |
+| OpenAI | "OpenAI is winding down the fine-tuning platform": cerrada a usuarios nuevos; los clientes existentes elegibles pueden crear jobs hasta el 2026-12-15, salvo que el modelo base se apague antes (la página de distillation da la fecha; la de model optimization dice solo que se podrán crear jobs por los próximos meses). Los modelos afinados siguen disponibles hasta que se apaga su base. Fechas de apagado de modelos afinables: `gpt-4.1-nano-2025-04-14` el 2026-10-23 (ya pasada); `gpt-4.1` y `gpt-4.1-mini` el 2027-01-14. Métodos que documentaba: SFT, DPO y visión | [distillation](https://developers.openai.com/api/docs/guides/distillation), [model optimization](https://developers.openai.com/api/docs/guides/model-optimization) |
 | Anthropic | Fine-tuning de Claude 3 Haiku en Amazon Bedrock, disponible desde el 2024-11-01 en us-west-2; según el buscador, ese modelo llegó a fin de vida el 2026-09-10. No se encontró una página oficial vigente | [anuncio](https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga) **[buscador]** |
 | Google | Sin dato: no se buscó una página oficial | — |
 
 > [!NOTE]
 > Sin fuente todavía: las alternativas de fine-tuning que quedan con la plataforma de OpenAI en
 > retirada (pesos abiertos con LoRA, otros proveedores), y el TTL y el descuento del cache de Google
-> en su página viva.
+> en su página viva. La documentación de Anthropic se leyó hasta el carácter 100.000 de unos 155.000.

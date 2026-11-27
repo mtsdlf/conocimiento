@@ -23,7 +23,7 @@ características tiene que cumplir el sistema, cómo se parte en módulos, con q
 cómo se verifica que sigue funcionando, también cuando una de sus piezas es un modelo de IA que no
 responde siempre lo mismo.
 
-El tema se escribe desde dos referencias que se complementan. Richards y Ford (*Fundamentals of
+La definición de "cuestan caro cambiar" es de trabajo de esta base. El tema se escribe desde dos referencias que se complementan. Richards y Ford (*Fundamentals of
 Software Architecture*, 2ª ed., 2025) ordenan el canon: características, modularidad, estilos y
 decisiones. Chip Huyen (*AI Engineering*, 2025) agrega lo que el canon no tenía: un sistema con un
 modelo adentro se arma de a una pieza por vez, y la evaluación decide cuándo hace falta la
@@ -75,10 +75,11 @@ flowchart LR
 
 ## Empezar simple y medir antes de sumar
 
-La idea que ordena el tema es la misma en el canon y en Huyen: cada pieza tiene un costo y entra
-cuando hay evidencia de que hace falta. En el canon, eso es partir de un
-[monolito modular](Estilos/monolito-modular.md) y no de microservicios. En un sistema con modelos, es
-probar primero con el prompt, después con contexto y recién después con fine-tuning o un agente;
+La idea que ordena el tema es de esta base, apoyada en Huyen y en Anthropic: cada pieza tiene un costo y entra
+cuando hay evidencia de que hace falta. En estilos, una forma es partir de un
+[monolito modular](Estilos/monolito-modular.md) y no de microservicios (postura de Fowler, disputada). En un sistema con modelos, es
+arrancar con el prompt y sumar contexto, fine-tuning o un agente según la falla que muestre la evaluación
+([Prompt, RAG o fine-tuning](Sistemas-con-modelos/prompt-rag-o-finetuning.md) explica ese diagnóstico);
 Huyen cuenta entre los errores comunes "use an agentic framework when direct API calls work". Lo que
 decide si una pieza entra es la [evaluación](Evaluacion-y-observabilidad/evaluacion.md), y la regla
 completa está en [Empezar simple](Decisiones/empezar-simple.md).
@@ -119,7 +120,12 @@ Cada patrón vive en la vertical de su problema; esta tabla los junta.
 ## Qué leer según lo que estés construyendo
 
 - Si arrancás un producto con un LLM adentro: [Sistemas con modelos](Sistemas-con-modelos/sistemas-con-modelos.md),
-  [Empezar simple](Decisiones/empezar-simple.md) y [Evaluación](Evaluacion-y-observabilidad/evaluacion.md).
+  [Empezar simple](Decisiones/empezar-simple.md), [Aislar lo no determinista](Modularidad/aislar-lo-no-determinista.md),
+  [Evaluación](Evaluacion-y-observabilidad/evaluacion.md) y, desde el primer día, los registros de
+  [Observabilidad de modelos](Evaluacion-y-observabilidad/observabilidad-de-modelos.md).
+- Si el sistema además actúa (abre un ticket, manda un mail, cobra): [Agente](Sistemas-con-modelos/agente.md),
+  que explica cuándo alcanza un workflow fijo, y [Clave de idempotencia](Sistemas-distribuidos/clave-de-idempotencia.md),
+  para que un reintento no repita la acción.
 - Si tenés que elegir cómo armar un sistema nuevo: [Características arquitectónicas](Caracteristicas/caracteristicas-arquitectonicas.md),
   [Elegir un estilo](Estilos/elegir-un-estilo.md) y [Monolito modular](Estilos/monolito-modular.md).
 - Si dudás entre monolito y microservicios: [Monolito modular](Estilos/monolito-modular.md),

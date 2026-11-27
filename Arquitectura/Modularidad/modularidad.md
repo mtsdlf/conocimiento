@@ -28,7 +28,7 @@ Es la vertical que delimita las piezas con las que trabaja el resto. Un
 [estilo](../Estilos/estilos.md) decide cómo se despliegan y se comunican esas piezas, pero no dónde
 van los límites: eso es modularidad. Por eso un [monolito modular](../Estilos/monolito-modular.md)
 y unos [microservicios](../Estilos/microservicios.md) pueden tener los mismos módulos, uno en un
-proceso y el otro repartido por la red. Los límites se eligen para cumplir las
+proceso y el otro repartido por la red (lectura de esta base, no del canon). Los límites se eligen para cumplir las
 [características](../Caracteristicas/caracteristicas.md) priorizadas: lo que tiene que escalar,
 desplegarse o cambiar por separado va en su propio módulo. Richards y Ford tratan la modularidad
 como un capítulo de fundamentos, antes que los estilos.
@@ -38,8 +38,9 @@ como un capítulo de fundamentos, antes que los estilos.
 Un módulo está bien cortado cuando lo de adentro cambia junto y lo de afuera casi no se entera. La
 cohesión mide lo primero: un módulo de facturación cohesivo tiene todo lo de facturación y nada de
 envíos. El acoplamiento mide lo segundo: si cambiar cómo se guarda un pedido obliga a tocar cinco
-módulos, están acoplados. Se busca cohesión alta y acoplamiento bajo, y casi siempre una arrastra a
-la otra: lo que no está junto adentro termina conectado afuera.
+módulos, están acoplados. Se busca cohesión alta y acoplamiento bajo; es el criterio habitual del campo, sin fuente leída
+para esta nota. Que una arrastre a la otra (lo que no está junto adentro termina conectado afuera)
+es observación de esta base.
 
 > [!NOTE] Sin fuente todavía: las clasificaciones de cohesión y acoplamiento del capítulo
 > "Modularity" de Richards y Ford (no se pudo leer).
@@ -54,22 +55,23 @@ taxonomía se suele atribuir a Meilir Page-Jones; no se verificó en una fuente 
 
 Tres propiedades dicen qué acoplamiento preocupa:
 
-- **Fuerza**: "Stronger connascences are harder to discover, or harder to refactor". Que dos
-  módulos compartan un nombre es débil; que dependan del orden en que se ejecutan es fuerte.
+- **Fuerza**: "Stronger connascences are harder to discover, or harder to refactor". Los
+  ejemplos son de esta base: que dos módulos compartan un nombre es débil; que dependan del orden
+  en que se ejecutan es fuerte.
 - **Localidad**: "Connascent elements that are close together in a codebase are better than ones
   that are far apart". El mismo acoplamiento es tolerable dentro de un módulo y caro entre dos
   servicios.
 - **Grado**: cuántas piezas están involucradas.
 
-La regla práctica que sale de ahí: las formas fuertes de acoplamiento se quedan adentro de un
+La regla práctica que sale de ahí (inferencia de esta base): las formas fuertes de acoplamiento se quedan adentro de un
 módulo, y entre módulos solo cruzan las débiles.
 
 ## Módulos profundos
 
 John Ousterhout, en *A Philosophy of Software Design*, propone que los módulos sean profundos:
-mucha funcionalidad detrás de una interfaz chica. Un módulo superficial tiene una interfaz casi tan
+mucha funcionalidad detrás de una interfaz chica. Un módulo superficial, en lectura de esta base, tiene una interfaz casi tan
 grande como lo que hace, y quien lo usa no se ahorra nada. La definición viene de resúmenes
-secundarios del libro, que la trata en el capítulo 4, "Modules Should Be Deep".
+secundarios; el libro la trata en el capítulo 4, "Modules Should Be Deep".
 
 En su debate con Robert Martin, Ousterhout discute que partir el código en métodos diminutos produce
 "teeny-tiny methods that suffer from both shallow interfaces and entanglement", y que "the

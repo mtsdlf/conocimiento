@@ -1,8 +1,8 @@
 ---
 resumen: >-
   Empezar simple es arrancar con la versión más chica que podría funcionar y sumar una pieza solo
-  cuando la medición muestra que hace falta; es el principio que comparten el canon de
-  arquitectura, Chip Huyen y Anthropic, y el que más se rompe al construir con modelos de IA.
+  cuando la medición muestra que hace falta; es el principio que comparten Chip Huyen y
+  Anthropic, y que Fowler defiende para los monolitos.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -23,12 +23,12 @@ revisado:
 # Empezar simple
 
 Empezar simple es arrancar con la versión más chica que podría funcionar y sumar una pieza solo
-cuando la medición muestra que hace falta; es el principio que comparten el canon de
-arquitectura, Chip Huyen y Anthropic, y el que más se rompe al construir con modelos de IA.
+cuando la medición muestra que hace falta; es el principio que comparten Chip Huyen y
+Anthropic, y que Fowler defiende para los monolitos.
 
 No es una técnica con capítulo propio en Richards y Ford: es un criterio que atraviesa las demás
-decisiones. En el canon aparece como partir de un [monolito modular](../Estilos/monolito-modular.md)
-en lugar de microservicios; en un sistema con modelos, como probar el prompt antes que el contexto,
+decisiones. En estilos aparece como la postura monolith-first de Fowler, partir de un
+[monolito modular](../Estilos/monolito-modular.md) en lugar de microservicios (está disputada, ver abajo); en un sistema con modelos, como probar el prompt antes que el contexto,
 y el contexto antes que el fine-tuning o un agente.
 
 ## Cada pieza agrega fallas nuevas
@@ -36,7 +36,7 @@ y el contexto antes que el fine-tuning o un agente.
 La razón es de costo. Huyen lo dice en el resumen del capítulo de arquitectura de *AI Engineering*:
 "Each added component can improve capability, safety, or speed, but also adds complexity and new
 failure modes". Una pieza que no hacía falta no solo cuesta construirla: suma una forma más de
-fallar, algo más que observar y algo más que entender al depurar.
+fallar, algo más que observar y algo más que entender al depurar (desarrollo de esta base).
 
 Por eso su arquitectura de referencia arranca con lo mínimo, "query, model, response", y suma
 componentes de a uno ("progressively add more components"), evaluando en cada paso. La misma
@@ -59,11 +59,11 @@ simplest solution possible, and only increasing complexity when needed". Recomie
 llamando a las APIs directamente, porque los frameworks "often create extra layers of abstraction
 that can obscure the underlying prompts", y sumar complejidad "only when it demonstrably improves
 outcomes". Distingue además los workflows, con caminos de código predefinidos, de los agentes, que
-deciden sus propios pasos; lo simple es el workflow.
+deciden sus propios pasos; lo simple es el workflow (lectura de esta base).
 
 Huyen agrega por qué la complejidad tienta: "It's easy to build a demo, but hard to build a
 product", y "The journey from 0 to 60 is easy, whereas progressing from 60 to 100 becomes
-exceedingly challenging". La tentación es atacar el tramo difícil con más piezas, cuando lo que
+exceedingly challenging". Según esta base, la tentación es atacar el tramo difícil con más piezas, cuando lo que
 suele faltar es mirar los datos: "staring at data for just 15 minutes usually gives me some
 insight", que es lo que sistematiza el
 [análisis de errores](../Evaluacion-y-observabilidad/analisis-de-errores.md).
@@ -90,7 +90,7 @@ miran precisión empujan a agentes "needlessly complex and expensive"; el
 
 ## Gall y YAGNI
 
-El principio es más viejo que los modelos. La ley de Gall, de *Systemantics* (1975), dice, según
+El principio es más viejo que los modelos. La ley de Gall, de *Systemantics* (publicado en 1975 como *General Systemantics*), dice, según
 la paráfrasis de Wikipedia, que "a complex system that works is invariably found to have evolved
 from a simple system that worked", y que uno complejo diseñado desde cero no funciona ni se puede
 arreglar para que funcione. YAGNI ("you aren't gonna need it") es la versión del desarrollo ágil:

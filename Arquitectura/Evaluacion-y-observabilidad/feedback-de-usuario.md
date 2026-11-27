@@ -25,8 +25,8 @@ vuelve al sistema como traza y como etiqueta para la evaluación.
 
 Cierra el [bucle de evaluación y observabilidad](evaluacion-y-observabilidad.md): entra por la
 [observabilidad](observabilidad-de-modelos.md) como un evento más de la traza y llega a la
-[evaluación](evaluacion.md) como juicio de alguien que usó el producto. Huyen le dedica la segunda
-mitad del capítulo 10, con tres secciones según el índice: "Extracting Conversational Feedback",
+[evaluación](evaluacion.md) como juicio de alguien que usó el producto. Huyen le dedica la última
+parte del capítulo 10, con tres secciones según el índice: "Extracting Conversational Feedback",
 "Feedback Design" y "Feedback Limitations". Su post de arquitectura lo deja afuera a propósito: "I
 won't go into specifics or cover user feedback, drift detection, and debugging."
 
@@ -38,7 +38,7 @@ won't go into specifics or cover user feedback, drift detection, and debugging."
 
 Según esas notas, el feedback se divide en dos clases:
 
-| Clase | Ejemplos | Qué cuesta |
+| Clase | Ejemplos | Qué cuesta (inferencia de esta base) |
 |---|---|---|
 | Explícito | Pulgar arriba o abajo, calificaciones, comentarios | Interrumpe al usuario; pocos lo dan |
 | Implícito | Terminar la conversación temprano, corregir la respuesta, pedir que la regenere, el tono del mensaje siguiente | Hay que inferirlo y puede leerse mal |
@@ -64,7 +64,7 @@ como base de datos sintéticos. Ese juicio es de quienes construyen el producto,
 finales, pero el mecanismo es el mismo: una etiqueta humana entra al conjunto de evaluación.
 
 El término *data flywheel* se usa para este ciclo (el uso genera datos, los datos mejoran el modelo,
-el modelo atrae más uso), pero ninguna fuente leída lo define. Husain describe el ciclo sin usar el
+el modelo atrae más uso; es la descripción corriente, no de una fuente leída), pero ninguna fuente leída lo define. Husain describe el ciclo sin usar el
 término. El Thoughtworks Technology Radar puso "feedback flywheel" en Trial en noviembre de 2026; la
 entrada no se leyó, solo su nombre y su anillo.
 
