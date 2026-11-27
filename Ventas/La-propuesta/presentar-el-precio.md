@@ -5,7 +5,7 @@ estado: vigente
 estabilidad: semi
 fuentes:
   - "Galinsky y Mussweiler (2001), JPSP 81(4):657-669: https://pubmed.ncbi.nlm.nih.gov/11642352 ; https://www.kellogg.northwestern.edu/faculty/research/detail/2001/first-offers-as-anchors-the-role-of-perspective-taking (solo abstract)"
-  - "Orr y Guthrie (2005/2006), meta-análisis de anclaje en negociación, Ohio State Journal on Dispute Resolution 21:597: https://ir.vanderbilt.edu/handle/1803/7415 (solo abstract)"
+  - "Orr y Guthrie (2005/2006), meta-análisis de anclaje en negociación, Ohio State Journal on Dispute Resolution 21:597: https://ir.vanderbilt.edu/handle/1803/7415 (abstract); artículo leído entero el 2026-11-27: https://kb.osu.edu/server/api/core/bitstreams/ee61725c-61eb-5807-9696-137b45a113ec/content"
   - "Petrowsky, Loschelder y otros (2025), The power and peril of first offers in negotiations, OBHDP 191:104448: https://fis.leuphana.de/en/publications/the-power-and-peril-of-first-offers-in-negotiations-a-conceptual- ; nota de prensa: https://www.eurekalert.org/news-releases/1108896 (según resumen)"
   - "Klein y otros (2014), Many Labs 1, Social Psychology 45(3): https://econtent.hogrefe.com/doi/10.1027/1864-9335/a000178 (según resúmenes; 403 al abrir)"
   - "Maniadis, Tufano y List (2014), AER 104(1):277-290: https://econpapers.repec.org/RePEc:aea:aecrev:v:104:y:2014:i:1:p:277-90 (solo abstract); lectura de Data Colada: https://datacolada.org/7 (según resumen)"
@@ -38,7 +38,7 @@ Casi toda la evidencia de esta nota es de laboratorio con consumidores o de nego
 El anclaje y el precio de referencia se explican en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md#el-precio-de-referencia-contra-qué-compara-el-cliente). Una propuesta con precio es además una primera oferta:
 
 - Galinsky y Mussweiler (2001): quien ofrece primero se queda con ventaja, y la pierde si el otro piensa en su propia alternativa. El estudio está en [quién hace la primera oferta](../Objeciones-y-negociacion/objeciones-y-negociacion.md#quién-hace-la-primera-oferta).
-- Orr y Guthrie, en un meta-análisis de 19 efectos en negociaciones simuladas, encontraron un efecto de medio a grande, según su abstract.
+- Orr y Guthrie reunieron en un meta-análisis 19 resultados de 16 artículos sobre negociaciones simuladas y encontraron una correlación de 0,497 entre el ancla y el resultado del acuerdo, que llaman «unusually "large"»; ninguno de los 19 dio menos de 0,30 (parte IV.B del artículo; el abstract no trae cifras).
 - Un meta-análisis preregistrado de 2025 (Petrowsky, Loschelder y otros: 374 efectos, 90 estudios, N = 16.334) da, según su nota de prensa y su ficha, una ventaja de quien ofrece primero de g = 0,42. La correlación entre la primera oferta y el acuerdo es r = 0,62, y las ofertas ambiciosas superan a las moderadas con g = 1,14.
 
 El mismo meta-análisis muestra el costo. Las ofertas ambiciosas generan más impasses (g = -0,42) y peor valoración de quien las recibe (g = -0,40), y el efecto se debilita cuanto más compleja es la negociación. Una versión de congreso de 2023 daba g = 0,49 y 1,30; aquí van las cifras del artículo publicado.

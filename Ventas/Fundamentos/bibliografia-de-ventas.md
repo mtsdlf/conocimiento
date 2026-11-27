@@ -86,7 +86,7 @@ El desarrollo está en [La propuesta](../La-propuesta/la-propuesta.md), [Present
 | Program on Negotiation de Harvard, "Principled Negotiation: Focus on Interests to Create Value" | Los cuatro elementos y la mejor alternativa a un acuerdo, para quien no se formó en negociación | Divulgación de la institución de los autores | Texto |
 | White, "The Pros and Cons of Getting to YES", *Journal of Legal Education* 34, 1984 | La crítica, para leer junto con el libro | Reseña académica | Abstract |
 | Galinsky y Mussweiler, "First offers as anchors", *JPSP* 81(4), 657-669, 2001 | La condición que anula la ventaja de ofertar primero | Artículo académico | Resumen |
-| Orr y Guthrie, meta-análisis de anclaje en negociación, *Ohio State Journal on Dispute Resolution* 21, 2006 | El efecto del anclaje en negociaciones simuladas | Meta-análisis | Abstract |
+| Orr y Guthrie, meta-análisis de anclaje en negociación, *Ohio State Journal on Dispute Resolution* 21, 2006 | El efecto del anclaje en negociaciones simuladas | Meta-análisis | Artículo entero |
 
 Para las objeciones no hay recurso académico; los datos que existen son de proveedores. El desarrollo está en [Objeciones y negociación](../Objeciones-y-negociacion/objeciones-y-negociacion.md).
 

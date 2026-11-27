@@ -12,7 +12,8 @@ fuera:
   - cobrar online con tarjeta, billeteras y QR, su costo y sus contracargos, que están en Comercio-electronico/Pagos; la cuenta corriente de un mayorista, en Comercio-electronico/Comercio-B2B
   - el recorrido de punta a punta del pedido al cobro y de la compra al pago, que va al tema Procesos de negocio
   - cómo lo resuelve un software (el documento de pago y sus estados, el registro de movimientos, la integración con bancos), que va al tema Software de gestión
-  - las finanzas corporativas de una empresa grande: valuación, estructura de capital, presupuesto de capital con VAN y TIR, emisión de acciones y fusiones
+  - las finanzas corporativas de una empresa grande: valuación, estructura de capital, emisión de acciones y fusiones
+  - decidir y seguir una inversión en un activo propio (presupuesto de capital, VAN y TIR), que es el tema Proyectos de inversión; acá pesa solo como salida de caja y como financiamiento
 fuentes: []
 preguntas:
   - "Estoy diseñando la pantalla de posición de caja de un sistema: ¿qué saldos tiene que mostrar, de dónde salen y en qué se diferencia de lo que dice la contabilidad?"

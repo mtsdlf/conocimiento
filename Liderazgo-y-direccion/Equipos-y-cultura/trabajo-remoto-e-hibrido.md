@@ -7,7 +7,8 @@ fuentes:
   - "Bloom, Liang, Roberts y Ying (2015), Does Working from Home Work? Evidence from a Chinese Experiment, Quarterly Journal of Economics (abstract): https://doi.org/10.1093/qje/qju032"
   - "Bloom, Han y Liang (2024), Hybrid working from home improves retention without damaging performance, Nature (abstract, cortado): https://doi.org/10.1038/s41586-024-07500-2"
   - "Gajendran y Harrison (2007), metaanálisis de teletrabajo, Journal of Applied Psychology (abstract): https://doi.org/10.1037/0021-9010.92.6.1524"
-  - "Yang et al. (2022), The effects of remote work on collaboration among information workers, Nature Human Behaviour (según un resumen de prensa): https://newsroom.haas.berkeley.edu/research/when-everyone-works-remotely-communication-and-collaboration-suffer-study-finds/"
+  - "Yang et al. (2022), The effects of remote work on collaboration among information workers, Nature Human Behaviour 6, 43-54 (según su abstract; el artículo es de pago): https://www.nature.com/articles/s41562-021-01196-4"
+  - "Berkeley Haas Newsroom, resumen de prensa de Yang et al. (2022): https://newsroom.haas.berkeley.edu/research/when-everyone-works-remotely-communication-and-collaboration-suffer-study-finds/"
   - "Emanuel, Harrington y Pallais (2023), The Power of Proximity to Coworkers, NBER (abstract): https://doi.org/10.3386/w31880"
   - "Liderazgo-y-direccion/.investigacion/equipos-y-cultura.md"
 aliases: [trabajo remoto, teletrabajo, trabajo desde casa, home office, remote work, working from home, WFH, trabajo híbrido, hybrid work, dirigir a distancia]
@@ -33,7 +34,9 @@ El metaanálisis de Gajendran y Harrison (2007), con 46 estudios y 12.883 emplea
 
 ## Lo que se pierde con la distancia
 
-Yang y colegas (2022) estudiaron qué pasó en Microsoft cuando toda la empresa pasó a remoto. Según un resumen de prensa (el artículo no se pudo abrir), la red de colaboración se volvió más estática y separada en silos: el tiempo de colaboración con personas de otros grupos cayó alrededor del 25 %, se sumaron y dejaron menos colaboradores, las horas de reunión bajaron alrededor del 5 % y subió la comunicación asincrónica. Compararon a quienes ya trabajaban en remoto antes de marzo de 2020 con quienes cambiaron de golpe.
+Yang y colegas (2022) estudiaron qué pasó en Microsoft cuando toda la empresa pasó a remoto. Según el abstract, el trabajo remoto en toda la empresa hizo que la red de colaboración se volviera «more static and siloed, with fewer bridges between disparate parts», con menos comunicación sincrónica y más asincrónica. Compararon a quienes ya trabajaban en remoto antes de marzo de 2020 con quienes cambiaron de golpe.
+
+> [!NOTE] Sin fuente todavía: cuánto cayó la colaboración entre grupos y cuánto bajaron las reuniones. Los resúmenes de Microsoft Research y de Berkeley Haas dan cifras, pero el artículo es de pago y no se pudo cotejar en qué sección están ni cómo se miden.
 
 Emanuel, Harrington y Pallais (2023) miraron a los ingenieros de software de una empresa de Fortune 500. Según el abstract, la cercanía «increases long-run human capital development at the expense of short-term output». Con las oficinas abiertas, los ingenieros que estaban en el mismo edificio que todo su equipo recibían un 22 % más de feedback en línea que quienes tenían compañeros lejos, y esa ventaja desapareció con el cierre por COVID-19. Sentarse juntos bajaba la producción de código, sobre todo de los más experimentados. Los costos y beneficios eran más agudos para las mujeres, que dan y reciben más mentoría. Alcanzaba con un solo compañero lejos para que bajara el feedback de los que estaban juntos. Es un documento de trabajo de un solo empleador.
 

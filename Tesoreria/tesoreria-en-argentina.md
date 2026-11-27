@@ -10,7 +10,7 @@ fuentes:
   - "Ministerio de Justicia, Derecho Fácil, Cheque, sin fecha (leído): https://www.argentina.gob.ar/node/159422"
   - "BCRA, texto ordenado Sistema Nacional de Pagos, Transferencias, A 8295 al 07/08/2025, sección 2 y punto 1.2.3 (leído en esas partes): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-snp-tr.pdf"
   - "BCRA, texto ordenado Transferencias, Normas complementarias, al 08/09/2026 (A 8477), secciones 2.5, 3.4 y 6 (leído en esas partes): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-snp-tr-nc.pdf"
-  - "BCRA, texto ordenado Exterior y cambios, al 14/09/2026 (A 8481), puntos 3.10, 10.3 y 10.4 (leído en esas partes): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-excbio.pdf"
+  - "BCRA, texto ordenado Exterior y cambios, al 26/11/2026 (A 8512), puntos 3.10, 10.3 y 10.4 (leído en esas partes el 2026-11-27): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-excbio.pdf"
   - "BCRA, API de Estadísticas Monetarias v4.0, UVA del 27/11/2026 (leído): https://api.bcra.gob.ar/estadisticas/v4.0/monetarias"
   - "MAV, portada con Datos de Mercado, 26/11/2026 (las tablas leídas; el rótulo de cada pestaña, según su resumen): https://www.mav-sa.com.ar/"
   - "Criteria en iProfesional, El descuento de cheques de pago diferido es ideal para las pymes (24/01/2023), según su resumen: https://www.iprofesional.com/tecnologia/376420-el-descuento-de-cheques-de-pago-diferido-es-ideal-para-las-pymes"
@@ -112,7 +112,7 @@ Hay tres lugares habituales para la plata de pocos días o semanas:
 
 ## Comprar dólares y pagar importaciones
 
-Una empresa no puede comprar dólares para atesorar sin permiso. El texto ordenado «Exterior y cambios» del BCRA, al 14/09/2026, dice que el acceso al mercado de cambios de las personas jurídicas «requerirá la conformidad previa del BCRA para la formación de activos externos» (punto 3.10). Las personas humanas tienen otro régimen, que no se leyó.
+Una empresa no puede comprar dólares para atesorar sin permiso. El texto ordenado «Exterior y cambios» del BCRA, al 26/11/2026, dice que el acceso al mercado de cambios de las personas jurídicas «requerirá la conformidad previa del BCRA para la formación de activos externos» (punto 3.10). Las personas humanas tienen otro régimen, que no se leyó.
 
 Pagar una importación de bienes sí tiene acceso cuando se cumplen las condiciones:
 

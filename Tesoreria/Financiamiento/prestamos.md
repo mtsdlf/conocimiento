@@ -6,7 +6,8 @@ estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance, 8.3 Loan Amortization (leído): https://openstax.org/books/principles-finance/pages/8-3-loan-amortization"
   - "OCC (Estados Unidos), Comptroller's Handbook, Asset-Based Lending, versión 1.1 (2017), secciones de línea rotativa, covenants y glosario (leído en esas secciones): https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/asset-based-lending/pub-ch-asset-based-lending.pdf"
-  - "IASB, página de la NIIF 16 Arrendamientos (leída; sin el texto de la norma): https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/"
+  - "IASB, página de la NIIF 16 Arrendamientos (leída): https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/"
+  - "IFRS Foundation, IFRS 16 Leases, texto oficial ed. 2026, párr. 5, 22, 61, 62 y C1 (leído, vía Contabilidad/.investigacion/arrendamientos.md): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs16.html"
   - "Wikipedia, Amortization calculator, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Amortization_calculator"
   - "Wikipedia, Amortization schedule, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Amortization_schedule"
   - "Wikipedia, Loan covenant, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Loan_covenant"
@@ -74,9 +75,7 @@ Para un sistema, un covenant financiero es un cálculo con fecha: qué ratio, co
 
 ## Leasing
 
-En el leasing financiero, según Wikipedia (fuente terciaria, según su resumen), la financiera suele ser la dueña legal del bien durante el contrato, y quien lo toma tiene el control operativo y comparte sus riesgos y beneficios. Bajo las NIIF, un arrendamiento es financiero si transfiere «substantially all the risks and rewards» de la propiedad; la cita viene del resumen y no se cotejó con la norma. La NIIF 16, según la página del IASB (leída), exige al tomador reconocer un activo por derecho de uso y un pasivo por el arrendamiento en todos los arrendamientos de más de 12 meses, salvo que el bien sea de bajo valor. Rige para ejercicios que empiecen el 1 de enero de 2019 o después y reemplazó a la NIC 17. Con eso el tomador deja de clasificar entre financiero y operativo. Que el arrendador sigue clasificando no está en la página y no se cotejó.
-
-> [!NOTE] Sin fuente todavía: el texto de la NIIF 16 (la clasificación del arrendador, la definición del leasing operativo y la cita sobre «substantially all the risks and rewards»). Solo se leyó la página de resumen del IASB; el texto de la norma exige suscripción.
+En el leasing financiero, según Wikipedia (fuente terciaria, según su resumen), la financiera suele ser la dueña legal del bien durante el contrato, y quien lo toma tiene el control operativo y comparte sus riesgos y beneficios. La NIIF 16 (texto de la norma, leído) exige al tomador reconocer un activo por derecho de uso y un pasivo por el arrendamiento (párr. 22); puede no hacerlo con los de 12 meses o menos y con los de bienes de bajo valor (párr. 5). Rige para ejercicios que empiecen el 1 de enero de 2019 o después (párr. C1) y reemplazó a la NIC 17. Con eso el tomador deja de clasificar entre financiero y operativo. El arrendador sigue clasificando (párr. 61): el arrendamiento es financiero si «transfers substantially all the risks and rewards incidental to ownership of an underlying asset» y, si no, operativo (párr. 62). Los asientos de cada lado y un ejemplo con cifras están en [arrendamientos](../../Contabilidad/Operaciones/arrendamientos.md).
 
 Para la tesorería, la cuota del leasing es una salida de caja fija y contratada, igual que la de un préstamo, y entra a la proyección del mismo modo. Cómo se registra es de [Contabilidad](../../Contabilidad/contabilidad.md).
 

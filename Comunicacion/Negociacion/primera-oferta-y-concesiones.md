@@ -5,7 +5,7 @@ estado: vigente
 estabilidad: estable
 fuentes:
   - "Galinsky y Mussweiler (2001), First offers as anchors, JPSP 81(4), 657-669 (según su abstract): https://doi.org/10.1037/0022-3514.81.4.657"
-  - "Orr y Guthrie (2005), Anchoring, Information, Expertise, and Negotiation: New Insights from Meta-Analysis, 21 Ohio St. J. on Disp. Resol. 597 (según su abstract; el texto dio error 403): https://ir.vanderbilt.edu/handle/1803/7415"
+  - "Orr y Guthrie (2005), Anchoring, Information, Expertise, and Negotiation: New Insights from Meta-Analysis, 21 Ohio St. J. on Disp. Resol. 597 (abstract: https://ir.vanderbilt.edu/handle/1803/7415; artículo leído entero el 2026-11-27: https://kb.osu.edu/server/api/core/bitstreams/ee61725c-61eb-5807-9696-137b45a113ec/content)"
   - "Loschelder, Friese, Schaerer y Galinsky (2016), The Too-Much-Precision Effect, Psychological Science (según su abstract): https://doi.org/10.1177/0956797616666074"
   - "Program on Negotiation, Harvard, When Forming First Offers, Take Precision into Account (divulgación; leído vía extractor): https://www.pon.harvard.edu/daily/dealmaking-daily/forming-first-offers-take-precision-account-nb/"
   - "Réplica preregistrada del efecto de precisión con 400 agentes inmobiliarios (2019), Experimental Psychology (según su abstract): https://doi.org/10.1027/1618-3169/a000441"
@@ -41,7 +41,7 @@ El efecto desapareció cuando quien recibía la oferta pensaba en la alternativa
 
 ### Cuánto pesa: lo que se sabe de los tamaños de efecto
 
-Orr y Guthrie (2005) hicieron un metaanálisis del anclaje en negociación en una revista de derecho; según el abstract, «anchoring has a significant impact on the deals that negotiators reach», y exploraron si la experiencia y la información disponible lo atenúan. El texto no se pudo bajar, y esta base no tiene sus k, r ni d. Ventas le atribuye, según su abstract, 19 efectos y un efecto de medio a grande; el abstract que encontró esta vertical no trae esos datos.
+Orr y Guthrie (2005) hicieron un metaanálisis del anclaje en negociación en una revista de derecho; según el abstract, «anchoring has a significant impact on the deals that negotiators reach», y exploraron si la experiencia y la información disponible lo atenúan. Las cifras están en el cuerpo del artículo, no en el abstract: 19 resultados de 16 artículos y una correlación de 0,497 entre el ancla y el resultado, que los autores llaman «unusually "large"» (parte IV.B). La correlación baja a 0,38 cuando las partes tienen mucha información y a 0,37 con negociadores expertos; el ancla pesa menos, pero sigue pesando.
 
 La cifra más reciente es de un metaanálisis preregistrado de 2025 de Petrowsky, Loschelder y otros, que está con su fuente en [presentar el precio](../../Ventas/La-propuesta/presentar-el-precio.md#el-primer-número-que-ve-el-cliente): la ventaja de ofrecer primero es g = 0,42, y las ofertas ambiciosas traen más impasses y peor valoración de quien las recibe. Un preprint de 2022 sobre anclaje en general, fuera de la negociación, da g = 0,689 (k = 393), según un extractor; el informe avisa que no es cifra de negociación, y que no se traslade a una mesa es lectura de esta base.
 

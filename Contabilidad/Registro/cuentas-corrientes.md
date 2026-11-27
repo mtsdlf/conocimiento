@@ -82,6 +82,6 @@ Las cuentas corrientes ponen tres requisitos en un sistema (inferencia de la bas
 2. La suma del auxiliar y el saldo del control salen del mismo registro, para que solo difieran si hay un error de carga.
 3. Un cobro o un pago se puede aplicar a facturas concretas, porque la antigüedad se calcula por comprobante y no por saldo.
 
-Si el auxiliar y el control se guardan en dos lugares que se actualizan por separado, se desincronizan: es el problema que describe [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) para cualquier saldo guardado aparte de sus movimientos.
+Si el auxiliar y el control se guardan en dos lugares que se actualizan por separado, se desincronizan: es el problema que describe [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) para cualquier saldo guardado aparte de sus movimientos. Cómo lo resuelve un software de gestión, con partidas y aplicaciones, está en [cuenta corriente y aplicación](../../Software-de-gestion/Columnas-tecnicas/cuenta-corriente-y-aplicacion.md).
 
 Para leer más: OpenStax, sección 7.4, para el auxiliar y su control, y 9.2 para la antigüedad. En la 7.4 conviene fijarse en que la suma del auxiliar coincide con el control; en la 9.2, en la tabla de tres tramos con porcentajes crecientes.

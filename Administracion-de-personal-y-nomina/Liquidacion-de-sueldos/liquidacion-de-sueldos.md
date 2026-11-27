@@ -60,7 +60,7 @@ Sobre el medio de pago, el Convenio 95 de la OIT pide pagar en moneda de curso l
 
 Con transferencia, la liquidación termina en un archivo con un registro por empleado (cuenta y neto) que el banco procesa. En el ejemplo de EE. UU., la red de pagos entre bancos usa un archivo de texto con líneas de «exactly 94 characters». Cada línea es un registro de un tipo, marcado por su primer carácter: cabecera de archivo (1), cabecera de lote (5), detalle (6), información adicional (7), cierre de lote (8) y cierre de archivo (9). El detalle lleva la cuenta y el nombre de quien recibe, el importe, si es débito o crédito y un número de rastreo; el lote agrupa movimientos del mismo tipo.
 
-Según el operador de esa red, el día de pago que cae en fin de semana o feriado se paga el viernes anterior, como práctica de la industria. Si el día de pago es viernes, el sueldo está en la cuenta «by 9 a.m. on that day in virtually all cases».
+Según Nacha, que escribe las reglas de esa red (uno de los operadores que procesan los archivos entre bancos es la Reserva Federal), el día de pago que cae en fin de semana o feriado se paga el viernes anterior, como práctica de la industria. Si el día de pago es viernes, el sueldo está en la cuenta «by 9 a.m. on that day in virtually all cases».
 
 > [!NOTE]
 > Sin fuente todavía: el formato del archivo de pago de sueldos en otra red bancaria, o en la Argentina.

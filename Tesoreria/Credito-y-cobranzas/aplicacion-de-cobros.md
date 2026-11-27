@@ -48,7 +48,7 @@ La documentación de un sistema de gestión abierto, leída como evidencia de pr
 | Diferencia | Cobro y aplicación no coinciden | Muestra el monto de diferencia para revisarlo antes de confirmar |
 | Aplicación equivocada | Se imputó a la factura o al cliente que no era | Se desaplica y se vuelve a conciliar |
 
-Una regla atraviesa la tabla: el monto asignado no puede superar ni el saldo de la factura ni el del cobro.
+Una regla atraviesa la tabla: el monto asignado no puede superar ni el saldo de la factura ni el del cobro. Cómo se modela todo esto en un software de gestión (una partida por vencimiento, la aplicación como registro propio, desaplicar y compensar) está en [cuenta corriente y aplicación](../../Software-de-gestion/Columnas-tecnicas/cuenta-corriente-y-aplicacion.md).
 
 ### Las diferencias van a una cuenta con nombre
 
