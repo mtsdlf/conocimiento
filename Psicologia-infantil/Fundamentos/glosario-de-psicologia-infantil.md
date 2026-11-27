@@ -73,7 +73,7 @@ Un término se usa con el mismo sentido en todas las notas de [Psicología infan
 | ARFID (trastorno de evitación o restricción de la ingesta de alimentos) | Comer tan poco o tan restringido que el chico baja de peso, tiene déficits nutricionales, depende de suplementos o se le complica la vida social; no es la selectividad común de los chicos chicos. | [Otros trastornos](../Psicopatologia/otros-trastornos.md) |
 | Niveles de apoyo | Los tres niveles con que el DSM-5 describe el autismo según el apoyo que el chico necesita: 1 "requiere apoyo", 2 "requiere apoyo sustancial", 3 "requiere apoyo muy sustancial". Un nivel 1 no dice que el autismo sea leve. | [Autismo](../Psicopatologia/Neurodesarrollo/autismo.md) |
 | Conducta adaptativa | Lo que el chico logra hacer en la vida diaria (comunicarse, cuidarse, manejarse con otros). Junto con el CI, es la base con que el DSM define la discapacidad intelectual. | [Discapacidad intelectual](../Psicopatologia/Neurodesarrollo/discapacidad-intelectual.md) |
-| Remisión | En el ensayo POTS sobre el TOC, un puntaje bajo en una escala de síntomas. | [Ansiedad y miedos](../Psicopatologia/ansiedad-y-miedos.md) |
+| Remisión | Que el chico deje de cumplir los criterios del diagnóstico. Algunos ensayos la miden distinto: en el POTS sobre el TOC fue un puntaje bajo en una escala de síntomas. | [Enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md), [ansiedad y miedos](../Psicopatologia/ansiedad-y-miedos.md) |
 
 ## Evaluar
 
@@ -136,6 +136,21 @@ Un término se usa con el mismo sentido en todas las notas de [Psicología infan
 | Ajustes razonables | Los cambios que necesita un chico en particular para participar en igualdad, según la Resolución 311/16. | [Apoyos en la escuela](../Intervencion/apoyos-en-la-escuela.md) |
 | Maestro de apoyo a la inclusión | Como la Resolución 311/16 llama a lo que se conoce como maestra integradora: un docente que trabaja con la escuela común para que el chico pueda aprender ahí. | [Apoyos en la escuela](../Intervencion/apoyos-en-la-escuela.md) |
 | Acompañante terapéutico (AT) | Una persona que acompaña al chico durante la jornada para ayudarlo a regularse y a participar. Es una prestación de salud: la paga la obra social o la prepaga, no el sistema educativo. | [Apoyos en la escuela](../Intervencion/apoyos-en-la-escuela.md) |
+
+## Organismos, guías y programas que se citan
+
+| Sigla | Qué es | Dónde se usa |
+|---|---|---|
+| APA | Asociación Estadounidense de Psiquiatría (American Psychiatric Association), que edita el DSM. | [Psicopatología del desarrollo](../Psicopatologia/psicopatologia-del-desarrollo.md) |
+| OMS | Organización Mundial de la Salud, que edita la CIE. | [Psicopatología del desarrollo](../Psicopatologia/psicopatologia-del-desarrollo.md) |
+| AAP | Academia Estadounidense de Pediatría (American Academy of Pediatrics); publica guías clínicas, como la de TDAH de 2019. | [Quién evalúa](../Evaluacion/quien-evalua.md), [qué funciona para qué](../Intervencion/que-funciona-para-que.md) |
+| AACAP | Academia Estadounidense de Psiquiatría del Niño y del Adolescente (American Academy of Child and Adolescent Psychiatry); publica parámetros de práctica clínica. | [Medicación](../Intervencion/medicacion.md) |
+| NICE | Instituto Nacional de Excelencia en Salud y Atención del Reino Unido; sus guías (NG87 para TDAH, CG158 para conducta, NG116 para trauma) resumen la evidencia y recomiendan tratamientos para el sistema de salud británico. | [Qué funciona para qué](../Intervencion/que-funciona-para-que.md) |
+| SCCAP | Sociedad de Psicología Clínica del Niño y del Adolescente (Society of Clinical Child and Adolescent Psychology), de la APA de psicólogos; clasifica los tratamientos por su respaldo ("bien establecido", "probablemente eficaz"). | [Qué funciona para qué](../Intervencion/que-funciona-para-que.md) |
+| CDC | Centros para el Control y la Prevención de Enfermedades de Estados Unidos; hacen la vigilancia de autismo y TDAH que citan las notas. | [Autismo](../Psicopatologia/Neurodesarrollo/autismo.md) |
+| Cochrane | Una red internacional que hace revisiones sistemáticas de tratamientos con un método fijo; sus revisiones dicen además la calidad de la evidencia. | [Enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md) |
+| SAP | Sociedad Argentina de Pediatría. | [Quién evalúa](../Evaluacion/quien-evalua.md) |
+| Triple P, Incredible Years, PCIT | Programas de entrenamiento a padres con ensayos; se explican en Crianza. | [Programas para padres](../../Crianza/Limites-y-autonomia/programas-para-padres.md) |
 
 ## Términos que se definen en Crianza
 

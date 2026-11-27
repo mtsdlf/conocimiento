@@ -93,7 +93,7 @@ Qué pasó después de agosto de 2026 no quedó verificado.
 
 ## Dificultades de aprendizaje: la ley 27.306
 
-La ley 27.306 (sancionada el 19 de octubre de 2016, publicada el 4 de noviembre de 2016) define las dificultades específicas del aprendizaje (DEA) como alteraciones "de base neurobiológica" que afectan los procesos del lenguaje, la lectura, la escritura o el cálculo (art. 3). Sus artículos 8 b) y c) quedan incorporados al Programa Médico Obligatorio (PMO), la canasta básica de prestaciones de salud. La autoridad de aplicación es el Ministerio de Educación (Decreto 289/2018). Todo esto según el resumen del decreto; el texto completo de la ley no se leyó. Qué son esas dificultades está en [trastornos del aprendizaje](../Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md).
+La ley 27.306 (sancionada el 19 de octubre de 2016, publicada el 4 de noviembre de 2016) define las dificultades específicas del aprendizaje (DEA) como alteraciones "de base neurobiológica" que afectan los procesos del lenguaje, la lectura, la escritura o el cálculo (art. 3). Sus artículos 8 b) y c) quedan incorporados al Programa Médico Obligatorio (PMO), la canasta básica de prestaciones de salud. La autoridad de aplicación es el Ministerio de Educación (Decreto 289/2018), y la ley deja los procedimientos de detección y diagnóstico al Consejo Federal de Salud, como cuenta [trastornos del aprendizaje](../Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md). Todo esto según el resumen del decreto; el texto completo de la ley no se leyó. Qué son esas dificultades está en [trastornos del aprendizaje](../Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md).
 
 ## Lo que no quedó verificado
 

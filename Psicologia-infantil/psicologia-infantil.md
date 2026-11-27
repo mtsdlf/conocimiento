@@ -60,7 +60,7 @@ Esta base se escribe desde la psicología científica del desarrollo, que descri
 
 ## Qué leer según lo que te pase
 
-- Si la maestra o el pediatra nombraron un diagnóstico (TDAH, autismo, dislexia): la nota del trastorno en [Neurodesarrollo](Psicopatologia/Neurodesarrollo/neurodesarrollo.md), después [quién evalúa](Evaluacion/quien-evalua.md) y [qué funciona para qué](Intervencion/que-funciona-para-que.md).
+- Si la maestra o el pediatra nombraron un diagnóstico: [TDAH](Psicopatologia/Neurodesarrollo/tdah.md), [autismo](Psicopatologia/Neurodesarrollo/autismo.md), [trastornos del aprendizaje](Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md) como la dislexia, o los demás en [Neurodesarrollo](Psicopatologia/Neurodesarrollo/neurodesarrollo.md); después [quién evalúa](Evaluacion/quien-evalua.md) y [qué funciona para qué](Intervencion/que-funciona-para-que.md).
 - Si un miedo, una preocupación o una tristeza te parecen demasiado: [ansiedad y miedos](Psicopatologia/ansiedad-y-miedos.md), [depresión infantil](Psicopatologia/depresion-infantil.md) y [psicopatología del desarrollo](Psicopatologia/psicopatologia-del-desarrollo.md), que dice cómo se separa lo normal de lo que no.
 - Si se porta mal todo el tiempo y los límites no alcanzan: [trastornos de conducta](Psicopatologia/trastornos-de-conducta.md) y, para el tratamiento, los [programas para padres](../Crianza/Limites-y-autonomia/programas-para-padres.md) de Crianza.
 - Si te recomendaron terapia: [enfoques terapéuticos](Intervencion/enfoques-terapeuticos.md), [qué funciona para qué](Intervencion/que-funciona-para-que.md) y [elegir profesional](Intervencion/elegir-profesional.md).

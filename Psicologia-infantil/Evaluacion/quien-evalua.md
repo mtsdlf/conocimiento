@@ -44,7 +44,7 @@ Que los médicos sean los únicos que recetan importa cuando el tratamiento incl
 
 Las guías ponen el peso en el juicio del profesional. Según una revisión sistemática de 2024 sobre TDAH, un diagnóstico válido pide un clínico con experiencia, escalas estandarizadas y varios informantes (según su resumen). La guía de la Academia Estadounidense de Pediatría (AAP, Wolraich y otros 2019) dice qué tiene que reunir el clínico antes de diagnosticar: síntomas en dos o más contextos y una evaluación de otros cuadros que puedan estar al mismo tiempo. Es una guía de una sociedad de pediatras; en Argentina no se encontró un consenso pediátrico equivalente para TDAH.
 
-Para el autismo, el Ministerio de Salud aprobó en 2019 un consenso de diagnóstico y tratamiento (Resolución 2641/2019) que habla de "el abordaje integral e interdisciplinario". Quién diagnostica y con qué está en el anexo del consenso, que no se leyó. Según la nota de prensa de la Sociedad Argentina de Pediatría (SAP), el consenso recomienda considerar la sospecha ya en el primer nivel de atención, es decir, en el consultorio del pediatra.
+Para el autismo, el Ministerio de Salud aprobó en 2019 un consenso de diagnóstico y tratamiento (Resolución 2641/2019) que habla de "el abordaje integral e interdisciplinario". Según el consenso, el diagnóstico lo hace un equipo de al menos dos profesionales, uno de ellos médico; está en [autismo](../Psicopatologia/Neurodesarrollo/autismo.md#quién-lo-diagnostica-en-argentina). Según la nota de prensa de la Sociedad Argentina de Pediatría (SAP), el consenso recomienda considerar la sospecha ya en el primer nivel de atención, es decir, en el consultorio del pediatra.
 
 ## A quién se consulta primero
 
