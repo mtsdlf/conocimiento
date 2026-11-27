@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El MRP (planificación de los requerimientos de materiales) calcula, período por período, cuánto hace falta de cada componente y cuándo lanzar su orden de fabricación o de compra. Parte del plan maestro, resta lo que hay y lo que ya viene, explota la lista de materiales nivel por nivel y corre cada orden hacia atrás por su plazo; es contabilidad, no optimización, y por eso depende de que los datos sean exactos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gershwin, S. B., Material Requirements Planning, diapositivas de MIT 2.853/2.854 (© 2002-2006; MIT OCW, otoño de 2016), diapositivas 3, 14, 19, 23, 25 a 27, 31 a 34: https://ocw.mit.edu/courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52d64f4ea1bed6d9905bc00_MIT2_854F16_MatrialRequire.pdf"
@@ -20,7 +20,7 @@ fuentes:
   - "Produccion/.investigacion/planificacion.md (sección 3) y planificacion-2.md (secciones 4 a 6), 2026-11-27; Cadena-de-suministro-y-logistica/.investigacion/planificacion-3.md (H1)"
 aliases: [MRP, planificación de los requerimientos de materiales, planificación de necesidades de materiales, material requirements planning, MRP I, plan de materiales, materials plan, necesidades brutas, gross requirements, necesidades netas, net requirements, neteo, netting, explosión, explosion, desfase, offsetting, lotificación, lot sizing, lote por lote, lot for lot, L4L, cantidad fija de pedido, fixed order quantity, FOQ, período fijo, fixed order period, cantidad por período, period order quantity, POQ, Wagner-Whitin, Silver-Meal, recepción programada, scheduled receipt, orden planificada, planned order, orden planificada firme, firm planned order, mensaje de acción, action message, mensaje de excepción, exception message, rastreo de la demanda, pegging, regenerativo, regenerative MRP, cambio neto, net change, nerviosismo, nervousness, plazo de seguridad, safety lead time, demanda dependiente, dependent demand]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # MRP

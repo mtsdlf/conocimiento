@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El control estadístico de procesos vigila un proceso con mediciones tomadas en el tiempo, para separar la variación propia del proceso de la que tiene una causa que se puede encontrar y corregir. Sus herramientas son el gráfico de control, con sus límites y reglas, y los índices de capacidad, que comparan el proceso con la especificación.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "NIST/SEMATECH e-Handbook of Statistical Methods, 6.3.1 «What are Control Charts?» (leído por el lector): https://www.itl.nist.gov/div898/handbook/pmc/section3/pmc31.htm"
@@ -15,7 +15,7 @@ fuentes:
   - "Produccion/.investigacion/calidad.md (sección 3) y calidad-2.md (sección 3), 2026-11-27"
 aliases: [control estadístico de procesos, control estadístico del proceso, CEP, statistical process control, SPC, gráfico de control, carta de control, control chart, gráfico de Shewhart, Shewhart chart, X-barra y R, X-bar and R chart, gráfico p, p chart, límites de control, control limits, causa asignable, assignable cause, causa por azar, chance cause, causa común, common cause, causa especial, special cause, reglas de Western Electric, Western Electric rules, capacidad del proceso, process capability, Cp, Cpk, Cpm]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Control estadístico de procesos

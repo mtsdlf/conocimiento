@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fabricar para stock o contra pedido es la decisión de en qué punto de la fabricación un producto pasa a ser de un cliente: antes de ese punto se trabaja con pronóstico y después, con pedidos. La literatura distingue cinco posiciones (para stock, ensamblar, fabricar, comprar y fabricar, y diseñar contra pedido), y cada una cambia qué se planifica en el plan maestro, qué lista de materiales hace falta y qué se le promete al cliente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Petropoulos, F. y otros (2025), Operations & Supply Chain Management: Principles and Practice, arXiv:2503.05749v2 (CC BY 4.0), pasaje sobre el CODP con la cita de Sharman (1984): https://arxiv.org/pdf/2503.05749"
@@ -19,7 +19,7 @@ fuentes:
   - "Produccion/.investigacion/planificacion.md (sección 1) y planificacion-2.md (secciones 3 y 7), 2026-11-27"
 aliases: [fabricar para stock, make to stock, MTS, ensamblar contra pedido, assemble to order, ATO, fabricar contra pedido, make to order, MTO, build to order, BTO, comprar y fabricar contra pedido, purchase and make to order, PMTO, diseñar contra pedido, engineer to order, ETO, punto de desacople del pedido, customer order decoupling point, CODP, punto de penetración del pedido, order penetration point, OPP, estrategia de respuesta, estrategia de producción]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fabricar para stock o contra pedido

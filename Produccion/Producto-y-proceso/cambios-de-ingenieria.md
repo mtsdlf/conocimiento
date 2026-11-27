@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un cambio de ingeniería es la modificación controlada de la lista de materiales o la ruta de un producto: alguien la pide, se evalúa, se aprueba y entra en vigencia en una fecha o un número de serie, con una decisión sobre el stock y la producción en proceso que quedan con la versión anterior.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ISO 10007:2017, vista previa (índice, prólogo e introducción): https://cdn.standards.iteh.ai/samples/70400/c1702ad12e3e4fe99ce2f15a60fe9ad7/ISO-10007-2017.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Produccion/.investigacion/producto-y-proceso.md (2026-11-27), sección 3; costos.md, sección 1"
 aliases: [cambio de ingeniería, engineering change, EC, orden de cambio de ingeniería, engineering change order, ECO, solicitud de cambio de ingeniería, engineering change request, ECR, aviso de cambio de ingeniería, engineering change notice, ECN, gestión de la configuración, configuration management, ISO 10007, revisión, revision, versión de la lista, BOM version, vigencia, effectivity, fecha de vigencia, effective date, vigencia por número de serie, serial effectivity, disposición, disposition, uso hasta agotar, use-up]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cambios de ingeniería

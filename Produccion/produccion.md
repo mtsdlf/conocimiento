@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Producción, como dominio de negocio, es lo que una empresa registra y decide para transformar materiales en productos: de qué está hecho cada producto y cómo se fabrica, cuánto fabricar y cuándo, cómo se ordena y se sigue el trabajo en la planta, cuánto cuesta lo fabricado y cómo se controla que salga bien. Es lo que llevan el módulo de fabricación de un ERP, un sistema de ejecución de planta (MES) y uno de gestión de la calidad, pero existe antes del software: una ficha técnica por producto, un tablero con las órdenes de la semana y una planilla de controles hacen lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.1.3, 4.1.4, 4.1.8 y 4.3 «Produce/Assemble/Test product»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Produccion/.investigacion/ (informes del 2026-11-27)"
 aliases: [producción, fabricación, manufactura, manufacturing, production, planificación y control de la producción, PCP, production planning and control, gestión de la producción, operaciones de manufactura, manufacturing operations management, MOM]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Producción

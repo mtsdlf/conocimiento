@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La programación de planta decide en qué orden y en qué momento pasa cada orden de producción por cada centro de trabajo, dentro de la capacidad que hay. Su salida es el programa detallado y la lista de despacho de cada centro, y sus reglas van desde ordenar la cola por fecha de entrega hasta subordinar toda la planta al cuello de botella o dejar que el consumo dispare la producción con kanban.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Apuntes de un curso de la Universidad de Kentucky, reglas de prioridad (definiciones y fórmulas): https://www.uky.edu/~dsianita/300/schedule.html"
@@ -22,7 +22,7 @@ fuentes:
   - "Produccion/.investigacion/ejecucion-en-planta.md (sección 3) y ejecucion-en-planta-2.md (secciones 2 a 4), 2026-11-27"
 aliases: [programación de planta, programación de la producción, production scheduling, shop floor scheduling, secuenciación, sequencing, programa detallado, detailed production schedule, work schedule, lista de despacho, dispatch list, job list, reglas de despacho, dispatching rules, reglas de prioridad, FCFS, primero en llegar primero en salir, SPT, menor tiempo de proceso, EDD, fecha de entrega más temprana, razón crítica, critical ratio, holgura, slack, programación hacia adelante, forward scheduling, programación hacia atrás, backward scheduling, carga finita, finite capacity scheduling, cuello de botella, bottleneck, WIP crítico, critical WIP, cinco pasos de enfoque, five focusing steps, tambor-amortiguador-cuerda, drum-buffer-rope, DBR, kanban, heijunka, nivelación de la producción, production leveling, cumplimiento del programa, schedule adherence]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Programación de planta

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La orden de producción es el documento que autoriza fabricar una cantidad de un artículo para una fecha, con la versión de la lista de materiales y de la ruta que se va a usar, y que junta lo planificado con lo que de verdad pasó. Nace de una orden planificada que se libera y termina cuando se cierra, que no es lo mismo que terminarla.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Documentación de Work Order de un sistema abierto (reserva al emitir, almacenes, programación, Stop, estados por operación): https://docs.frappe.io/erpnext/user/manual/en/work-order"
@@ -14,7 +14,7 @@ fuentes:
   - "Produccion/.investigacion/ejecucion-en-planta.md (sección 1) y ejecucion-en-planta-2.md (sección 6), 2026-11-27"
 aliases: [orden de producción, orden de fabricación, orden de trabajo de producción, production order, manufacturing order, MO, work order, job order, Production Work Order, orden liberada, released order, orden planificada, planned order, orden firme, firm planned order, liberar la orden, cerrar la orden, hoja de operación, tarjeta de trabajo, job card, orden discreta, orden repetitiva, orden de proceso, process order]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Orden de producción

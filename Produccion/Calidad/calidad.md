@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La calidad, dentro de la producción, es la parte que controla que lo fabricado cumpla sus requisitos: decide qué se inspecciona y cómo, vigila que el proceso no se desvíe, aparta y resuelve lo que no cumple, ataca las causas y deja rastro de qué entró en cada lote. Es la calidad del producto fabricado; la de lo que llega del proveedor, la de la atención y la del proveedor mismo son de otros temas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ISO, comunicado de prensa del 16 de septiembre de 2026, lanzamiento de ISO 9001:2026: https://committee.iso.org/files/live/sites/isoorg/files/news/News_archive/2026/09/MediaRelease_9001-2026-en.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "Produccion/.investigacion/calidad.md y calidad-2.md (2026-11-27); fundamentos-y-contraria.md, sección del PCF 4.3"
 aliases: [calidad, calidad del producto, product quality, gestión de la calidad, quality management, control de calidad, quality control, QC, aseguramiento de la calidad, quality assurance, QA, sistema de gestión de la calidad, quality management system, QMS, ISO 9001, trilogía de Juran, Juran trilogy, costo de la calidad, cost of quality, COQ]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calidad

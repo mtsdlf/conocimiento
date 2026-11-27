@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La trazabilidad de lotes, en la fabricación, es la genealogía del lote fabricado: qué lotes de componente entraron en cada lote de producto, y a qué clientes fue cada uno. Permite rastrear hacia atrás, de un producto a sus materiales y proveedores, y hacia adelante, de un material a los productos y clientes, y es lo que limita un retiro a lo que de verdad está afectado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Reglamento (CE) n.º 178/2002, versión en español del DOCE L 31 del 1.2.2002, arts. 3.15, 18 y 19 (texto extraído del PDF; el art. 19 parcialmente ilegible): https://www.boe.es/doue/2002/031/L00001-00024.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Produccion/.investigacion/calidad.md (sección 6), argentina.md (sección de alimentos) y fundamentos-y-contraria.md (PCF 4.3.4), 2026-11-27"
 aliases: [trazabilidad de lotes, trazabilidad, traceability, lot traceability, genealogía, genealogía del lote, lot genealogy, batch genealogy, rastreo hacia atrás, backward traceability, trace back, rastreo hacia adelante, forward traceability, trace forward, tracking and tracing, un paso atrás, un paso adelante, one step back one step forward, retiro de mercado, retiro de producto, recall, product recall, ISO 22005]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trazabilidad de lotes

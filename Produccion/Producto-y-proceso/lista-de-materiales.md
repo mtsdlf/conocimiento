@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La lista de materiales dice qué componentes, y en qué cantidad, hacen falta para fabricar una cantidad base de un producto. Cada componente puede tener su propia lista, y la cadena de listas forma el árbol del producto, que el MRP explota y el costo estándar recorre nivel por nivel.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Documentación de un sistema comercial, «Bill of materials (BOM)» y fórmulas (página del 2025-07-10): https://learn.microsoft.com/en-us/dynamics365/supply-chain/production-control/bill-of-material-bom"
@@ -19,7 +19,7 @@ fuentes:
   - "Produccion/.investigacion/producto-y-proceso.md (2026-11-27), sección 1; costos.md, sección 1; ejecucion-en-planta-2.md, sección 7"
 aliases: [lista de materiales, LdM, bill of materials, BOM, bill of material, estructura de producto, product structure, lista multinivel, multilevel BOM, lista explotada, indented BOM, merma, scrap factor, rendimiento, yield, lista fantasma, phantom BOM, blow-through, lista de planificación, planning BOM, lista modular, modular BOM, super bill, lista configurable, lista de ingeniería, EBOM, lista de fabricación, MBOM, código de nivel más bajo, low-level code, subproducto, by-product, coproducto, co-product]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lista de materiales

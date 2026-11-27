@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La planificación de la producción decide cuánto fabricar de cada artículo y cuándo, y qué componentes comprar o fabricar para eso. Baja el plan agregado por familia y mes a un plan maestro por artículo y semana, lo explota en componentes con el MRP y controla en cada paso si la capacidad alcanza, hasta dejar órdenes propuestas para la planta y para compras.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gershwin, S. B., Material Requirements Planning, diapositivas de MIT 2.853/2.854 (© 2002-2006; publicadas en MIT OCW, otoño de 2016), diapositivas 8, 34 y 38 a 43: https://ocw.mit.edu/courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52d64f4ea1bed6d9905bc00_MIT2_854F16_MatrialRequire.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Produccion/.investigacion/planificacion.md y planificacion-2.md (2026-11-27); Cadena-de-suministro-y-logistica/.investigacion/planificacion-3.md (H1)"
 aliases: [planificación de la producción, production planning, planificación y control de la producción, manufacturing planning and control, MPC, cascada de planes, jerarquía de planes de producción, planificador de la producción, production planner, master scheduler, programador maestro]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificación de la producción

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El plan maestro de producción (MPS) dice cuánto se va a fabricar de cada artículo final, o de cada módulo, en cada período. Baja el plan agregado a artículos y semanas, es la entrada principal del MRP y es la fuente de lo que ventas puede prometer; por eso se protege con barreras de tiempo que limitan quién puede cambiarlo y cuándo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ASCM, CPIM Version 6.1, 2019 Edition, módulo 1, sección F «Master Planning», pp. 1-207 a 1-211 (extracto de muestra; cita el APICS Dictionary, 15.ª ed.): https://learningsystem.ascm.org/wp-content/uploads/2018/11/APICS_CPIM_2019_Excerpt.pdf"
@@ -20,7 +20,7 @@ fuentes:
   - "Produccion/.investigacion/planificacion.md (sección 2) y planificacion-2.md (secciones 1 a 3), 2026-11-27"
 aliases: [plan maestro de producción, plan maestro, programa maestro de producción, programa maestro, master production schedule, MPS, master schedule, planificación maestra, master scheduling, programador maestro, master scheduler, barrera de tiempo, time fence, barrera de demanda, demand time fence, DTF, barrera de planificación, planning time fence, PTF, barrera de liberación, release time fence, zona congelada, frozen zone, zona semicongelada, slushy zone, zona abierta, liquid zone, consumo del pronóstico, forecast consumption, disponible para prometer del plan maestro, ATP, available to promise, programa de ensamble final, final assembly schedule, FAS, cubeta, time bucket]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plan maestro de producción

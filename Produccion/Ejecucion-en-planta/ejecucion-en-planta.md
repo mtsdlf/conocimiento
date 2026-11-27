@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ejecución en planta es la parte de la producción que convierte una orden liberada en producto terminado: decide en qué orden pasan los trabajos por las máquinas, entrega el material, registra lo consumido y lo producido, y mide cuánto rindió el equipo. En ISA-95 es el nivel 3, donde la base ubica al MES, debajo de la planificación del nivel 4, donde ubica al ERP.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ANSI/ISA-95.00.03-2013, vista previa (alcance, actividades del nivel 3, cambios de nombres): https://www.isa.org/getmedia/506c4c83-c2d3-4807-83e7-682fd98c17f8/ISA-95-00-03-2013-preview.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Produccion/.investigacion/ejecucion-en-planta.md (sección 6) y ejecucion-en-planta-2.md (sección 1), 2026-11-27"
 aliases: [ejecución en planta, ejecución de la producción, control de la actividad de planta, shop floor control, production activity control, PAC, sistema de ejecución de manufactura, manufacturing execution system, MES, nivel 3 de ISA-95, ley de Little, Little's law, WIP = TH × CT, producción en proceso, work in process, WIP, tiempo de ciclo, cycle time, throughput, parte de producción]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ejecución en planta

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Costos de producción es la parte que dice cuánto cuesta lo fabricado: el costo estándar de cada producto, que sale de la lista de materiales y la ruta, el costo real que junta cada orden con los consumos y las horas de la planta, y las variaciones entre los dos. El método de costeo y el registro en los libros son de Contabilidad; acá, de dónde salen los datos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Resolución Técnica 17 FACPCE, texto ordenado de junio de 2003 (Consejo Profesional de CABA), sección 4.2.6 «Bienes producidos» (leída en el texto): https://www.consejo.org.ar/storage/attachments/RT_FACPCE17_TO2003.pdf-bGCewZIHs8.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "Produccion/.investigacion/costos-2.md (RT 54 y RT 59), 2026-11-27"
 aliases: [costos de producción, costo de producción, costo de fabricación, manufacturing cost, production cost, costo industrial, merma normal, merma anormal, normal spoilage, abnormal spoilage, rechazo, reproceso, retrabajo, rework, desecho, scrap, ociosidad, capacidad ociosa, idle capacity]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costos de producción

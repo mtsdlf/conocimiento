@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El consumo registra qué material, de qué lote, usó una orden de producción, y la declaración de producción registra qué salió de ella: cuánto bueno, cuánto rechazado, cuánta merma y qué subproductos. Son los dos hechos que convierten el trabajo de la planta en movimientos de stock y en costo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Documentación de Work Order de un sistema abierto (entrega a producción en proceso, consumo automático, devolución, desecho): https://docs.frappe.io/erpnext/user/manual/en/work-order"
@@ -13,7 +13,7 @@ fuentes:
   - "Produccion/.investigacion/ejecucion-en-planta.md (sección 2) y ejecucion-en-planta-2.md (secciones 6 y 7), 2026-11-27"
 aliases: [consumo de materiales, material consumption, entrega de materiales a la orden, material issue, vale de salida, consumo automático, backflush, backflushing, back flush, declaración de producción, production reporting, production confirmation, parte de producción, merma, scrap, pérdida de proceso, process loss, rechazo, reject, desecho, subproducto, by-product, coproducto, co-product, producto conjunto, joint product]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Consumo y declaración

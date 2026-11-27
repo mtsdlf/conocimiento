@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una acción correctiva elimina la causa de una no conformidad para que no se repita, a diferencia de la corrección, que arregla lo que ya salió mal. Se abre con un problema, busca la causa raíz, cambia algo en el producto, el proceso o el sistema, y se cierra solo cuando se verificó que funcionó.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Advisera, «ISO 9001:2015 vs. ISO 9001:2026» (consultora; según el lector), 10.2 y 10.1: https://advisera.com/articles/iso-9001-2015-vs-9001-2026-main-differences/"
@@ -20,7 +20,7 @@ fuentes:
   - "Produccion/.investigacion/calidad.md (sección 5) y calidad-2.md (secciones 2 y 6); fundamentos-y-contraria.md (Card), 2026-11-27"
 aliases: [acción correctiva, corrective action, acción preventiva, preventive action, corrección, correction, CAPA, corrective and preventive action, causa raíz, root cause, análisis de causa raíz, root cause analysis, RCA, 8D, ocho disciplinas, eight disciplines, G8D, TOPS, 5 porqués, cinco porqués, five whys, 5 whys, diagrama de Ishikawa, espina de pescado, fishbone diagram, Ishikawa diagram, 6M, verificación de la eficacia, effectiveness check, contención, containment, QMSR]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Acción correctiva

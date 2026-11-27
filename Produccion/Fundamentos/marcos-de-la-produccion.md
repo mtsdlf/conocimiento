@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tres marcos cortan la producción en procesos o en niveles: el Process Classification Framework (PCF) de APQC, ISA-95 (IEC 62264), que separa la planificación del negocio de la gestión de las operaciones de planta, y SCOR, de ASCM. Ninguno corta como esta base, así que cada proceso se reparte entre las verticales del tema y sus vecinos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, Cross Industry, versión 7.4 (2024), procesos 4.1.1, 4.1.3, 4.1.4, 4.1.8 y 4.3, y 9.1.2.4 y 10.3: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Produccion/.investigacion/fundamentos-y-contraria.md (sección 2) y ejecucion-en-planta.md (sección 6), 2026-11-27"
 aliases: [marcos de la producción, PCF 4.3, APQC 4.3, Produce/Assemble/Test product, ISA-95, ANSI/ISA-95, IEC 62264, niveles de ISA-95, modelo Purdue, gestión de operaciones de manufactura, manufacturing operations management, MOM, Job Order, Work Schedule, Job List, Work Master, SCOR Make, CPIM]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Marcos de la producción

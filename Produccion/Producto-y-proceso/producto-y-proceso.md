@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Producto y proceso es la parte de la producción que define de qué está hecho cada producto y cómo se fabrica: la lista de materiales, la ruta de fabricación con sus centros de trabajo y los cambios de ingeniería que las modifican. Son los datos maestros de fabricación, y de ellos dependen el plan, la orden, el costo y la calidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Documentación de un sistema comercial, «Bill of materials (BOM)» y fórmulas (página del 2025-07-10): https://learn.microsoft.com/en-us/dynamics365/supply-chain/production-control/bill-of-material-bom"
@@ -13,7 +13,7 @@ fuentes:
   - "Produccion/.investigacion/producto-y-proceso.md (2026-11-27), secciones 0 a 3; planificacion.md, costos.md y ejecucion-en-planta.md (2026-11-27)"
 aliases: [producto y proceso, datos maestros de fabricación, manufacturing master data, datos de ingeniería, engineering data, ficha técnica, definición del producto, product definition, fabricación discreta, discrete manufacturing, fabricación por procesos, process manufacturing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Producto y proceso

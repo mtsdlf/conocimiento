@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El costo estándar de un producto fabricado es lo que debería costar una unidad, calculado sumando nivel por nivel el material de la lista de materiales y la conversión de cada operación de la ruta (horas por la tasa de su centro de trabajo). Se fija para un período y es la vara contra la que se mide el costo real de cada orden.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Documentación de un sistema comercial, Bills of Material: Cost Calculation (según el resumen): https://help.myob.com.au/advanced/Docs/Published/UserGuide/BOM_Cost_Calculation.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Produccion/.investigacion/costos.md (sección 1), 2026-11-27"
 aliases: [costo estándar del producto, costo estándar, standard cost, acumulación de costos, roll-up de costos, cost roll-up, costo de la lista de materiales, BOM cost, costeo de la lista, tasa del centro de trabajo, work center rate, tarifa horaria, escenario de costos, cost scenario]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costo estándar del producto

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El plan de inspección dice, para cada producto, qué características se controlan, en qué punto del recorrido, contra qué especificación, con qué método y cada cuánto. Cuando no se revisa todo, el muestreo de aceptación decide si un lote entero se acepta o se rechaza mirando una muestra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "MIL-STD-105E, «Sampling procedures and tables for inspection by attributes», 10 de mayo de 1989, cancelada (PDF escaneado con OCR; tablas leídas en la imagen): https://everyspec.com/MIL-STD/MIL-STD-0100-0299/download.php?spec=MIL-STD-105E.011675.PDF"
@@ -14,7 +14,7 @@ fuentes:
   - "Produccion/.investigacion/calidad.md (sección 2) y calidad-2.md (sección 1), 2026-11-27"
 aliases: [plan de inspección, plan de control, inspection plan, control plan, punto de control de calidad, quality control point, inspección, inspection, inspección en proceso, in-process inspection, inspección final, final inspection, primera pieza, first article inspection, first piece, muestreo de aceptación, acceptance sampling, lot acceptance sampling, AQL, nivel de calidad aceptable, acceptable quality level, límite de calidad de aceptación, acceptance quality limit, letra código, sample size code letter, inspección normal, rigurosa y reducida, normal, tightened and reduced inspection, reglas de cambio, switching rules, MIL-STD-105E, ANSI/ASQ Z1.4, ISO 2859-1]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plan de inspección

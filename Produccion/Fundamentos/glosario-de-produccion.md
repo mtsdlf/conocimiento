@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos del tema Producción, cada uno con su nombre en inglés, una definición corta y la nota donde vive, agrupados por la parte del dominio a la que pertenecen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "NIC 2 Existencias, párrafo 14, en el Reglamento (CE) 1126/2008, Diario Oficial de la UE L 320, 29.11.2008: https://www.boe.es/doue/2008/320/L00001-00481.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Produccion/.investigacion/ (informes del 2026-11-27)"
 aliases: [glosario de producción, glosario de fabricación, manufacturing glossary, production glossary, términos de producción, vocabulario de producción, vocabulario de fabricación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de producción

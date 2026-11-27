@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ruta de fabricación es la secuencia de operaciones por la que pasa un producto para fabricarse, con el centro de trabajo de cada una y sus tiempos de preparación y de ejecución. Con ella se calcula cuántas horas pide un plan, cuánto tarda una orden y cuánto cuesta la conversión.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Manual de Routing de un sistema abierto: https://docs.frappe.io/erpnext/user/manual/en/routing"
@@ -18,7 +18,7 @@ fuentes:
   - "Produccion/.investigacion/producto-y-proceso.md (2026-11-27), sección 2"
 aliases: [ruta de fabricación, ruta, hoja de ruta, routing, route, hoja de operaciones, operation sheet, operación, operation, centro de trabajo, work center, workstation, puesto de trabajo, tiempo de preparación, setup time, tiempo de ejecución, run time, tiempo de cola, queue time, tiempo de movimiento, move time, plazo de fabricación, manufacturing lead time, capacidad nominal, rated capacity, eficiencia, efficiency, utilización, utilization, fórmula, receta, recipe, formula, ISA-88]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ruta de fabricación

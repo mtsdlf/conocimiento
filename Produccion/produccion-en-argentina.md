@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que la Argentina le agrega a quien fabrica: alimentos, medicamentos, productos médicos y cosméticos necesitan una habilitación sanitaria de la planta y, en algunos casos, un registro por producto; los medicamentos y algunos productos médicos informan además su trazabilidad a la ANMAT. Fuera de esos rubros no hay un registro industrial nacional, los productos eléctricos suman una declaración jurada de conformidad a la certificación de producto y la promoción industrial general se derogó.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 18.284 (Código Alimentario Argentino), arts. 1 a 4: https://www.argentina.gob.ar/normativa/nacional/ley-18284-21841/texto (según el resumen de la herramienta, con citas)"
@@ -58,7 +58,7 @@ fuentes:
   - "Produccion/.investigacion/argentina-2.md (2026-11-27)"
 aliases: [producción en Argentina, fabricar en Argentina, habilitación de planta, habilitación sanitaria, Código Alimentario Argentino, CAA, Ley 18.284, RNE, RNPA, registro nacional de establecimiento, registro nacional de producto alimenticio, BPM, buenas prácticas de manufactura, Res. GMC 80/96, HACCP, ANMAT, BPF, buenas prácticas de fabricación, Disposición 4159/2023, Disposición 3266/2013, Disposición 8799/2025, Disposición 7939/2025, trazabilidad de medicamentos, Disposición 3683/2011, trazabilidad de productos médicos, Disposición 2303/2014, GTIN, INTI, IRAM, Resolución 16/2025, declaración jurada de conformidad, registro industrial, Ley 19.971, RIGI, Ley 27.742, parques industriales, Ley 27.264, régimen de bienes de capital, Decreto 379/2001]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Producción en la Argentina

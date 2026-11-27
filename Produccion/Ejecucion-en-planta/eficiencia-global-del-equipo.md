@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La eficiencia global del equipo (OEE) mide qué parte del tiempo planificado un equipo produjo piezas buenas a la velocidad ideal. Es el producto de tres factores, disponibilidad, rendimiento y calidad, y su valor depende tanto de la planta como de qué se decidió contar como tiempo planificado y como velocidad ideal.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "oee.com, Calculating OEE (fórmulas y ejemplo; sitio de un proveedor, según el resumen): https://www.oee.com/calculating-oee/"
@@ -17,7 +17,7 @@ fuentes:
   - "Produccion/.investigacion/ejecucion-en-planta.md (sección 5), ejecucion-en-planta-2.md (sección 5) y fundamentos-y-contraria.md (tabla de mitos), 2026-11-27"
 aliases: [eficiencia global del equipo, eficiencia general de los equipos, efectividad global del equipo, overall equipment effectiveness, OEE, disponibilidad, availability, rendimiento, performance, calidad, quality, seis grandes pérdidas, six big losses, tiempo ideal de ciclo, ideal cycle time, TEEP, total effective equipment performance, utilización, OEE de clase mundial, world-class OEE, ISO 22400]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Eficiencia global del equipo

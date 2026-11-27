@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Producción: cómo se llegó del MRP al ERP y del sistema de Toyota a lean, las escuelas que discuten cómo planificar y liberar el trabajo (empujar, tirar, restricciones, DDMRP), lo que la evidencia discute de las ideas más repetidas y dónde se produce el saber.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Material requirements planning: https://en.wikipedia.org/wiki/Material_requirements_planning (secundaria)"
@@ -37,7 +37,7 @@ fuentes:
   - "Produccion/.investigacion/fundamentos-y-contraria.md, planificacion.md y ejecucion-en-planta.md (2026-11-27)"
 aliases: [fundamentos de producción, historia de la producción, historia del MRP, MRP II, manufacturing resource planning, ERP, sistema de producción de Toyota, Toyota Production System, TPS, justo a tiempo, just in time, JIT, lean, lean manufacturing, teoría de las restricciones, theory of constraints, TOC, CONWIP, empujar y tirar, push y pull, DDMRP, mitos de la producción]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de producción

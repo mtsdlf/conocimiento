@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una no conformidad es el incumplimiento de un requisito especificado por una característica del producto. Tratarla es registrarla, apartar lo que no cumple para que nadie lo use por error y decidir qué se hace con eso: reprocesar, reparar, usar como está con autorización, desechar o devolver al proveedor.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "MIL-STD-1520C, «Corrective Action and Disposition System for Nonconforming Material», 27 de junio de 1986, cancelada (PDF escaneado con OCR), 3.5 a 3.15, 4.5 y 5.2 a 5.4: https://everyspec.com/MIL-STD/MIL-STD-1500-1599/download.php?spec=MIL_STD_1520C.1489.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Produccion/.investigacion/calidad.md (secciones 1 y 4) y calidad-2.md (secciones 2 y 5), 2026-11-27"
 aliases: [no conformidad, nonconformity, nonconformance, NC, producto no conforme, nonconforming product, salida no conforme, nonconforming output, material no conforme, nonconforming material, disposición, disposition, reproceso, retrabajo, rework, reparación, repair, usar como está, use as is, use-as-is, concesión, concession, desviación, waiver, desecho, descarte, scrap, devolución al proveedor, return to supplier, comité de revisión de material, material review board, MRB, revisión preliminar, preliminary review, retención, hold, segregación, segregation, contención, containment]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # No conformidad

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El costo real de la orden es lo que efectivamente costó fabricar lo que pidió una orden de producción: el material consumido, las horas trabajadas y la carga fabril aplicada, acumulados mientras la orden está abierta y pasados a producto terminado al cerrarla. Comparado con el costo estándar de lo producido, deja las variaciones de la orden.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Accounting, Volume 2: Managerial Accounting (2019), sección 4.3 (según el resumen): https://openstax.org/books/principles-managerial-accounting/pages/4-3-use-the-job-order-costing-method-to-trace-the-flow-of-product-costs-through-the-inventory-accounts"
@@ -20,7 +20,7 @@ fuentes:
   - "Produccion/.investigacion/costos.md (secciones 2, 3 y 5), 2026-11-27"
 aliases: [costo real de la orden, costo de la orden, costo real, actual cost, job cost, hoja de costos, hoja de costos de la orden, job cost sheet, producción en proceso, productos en proceso, work in process, WIP, carga fabril aplicada, applied overhead, carga fabril sobreaplicada, carga fabril subaplicada, over-applied overhead, under-applied overhead, variación, desvío, variance, variación de uso, variación de cantidad, usage variance, variación de eficiencia, efficiency variance, variación de volumen, volume variance, costo de producción terminada, cost of goods manufactured]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costo real de la orden

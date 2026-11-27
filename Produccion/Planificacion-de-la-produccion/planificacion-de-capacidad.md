@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La planificación de capacidad compara las horas que pide el plan con las que tiene la planta, en cada nivel de la cascada: los recursos para el plan agregado, la capacidad gruesa para el plan maestro y los requerimientos de capacidad para las órdenes del MRP. El MRP calcula con capacidad infinita; estos controles muestran dónde el plan no entra, y cerrar ese lazo es lo que dio el MRP de lazo cerrado y el MRP II.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Lymperopoulos, G., Σχεδιασμός και Προγραμματισμός Παραγωγής: MRP (diapositivas, Univ. de Tesalia, 25/11/2015, sobre Hopp y Spearman, Factory Physics, cap. 3), sección 2.2.3, ejemplos de RCCP y CRP (traducción de la base): https://opencourses.uth.gr/modules/document/file.php/MHXB125/MRP.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Produccion/.investigacion/planificacion.md (sección 4) y planificacion-2.md (sección 8), 2026-11-27"
 aliases: [planificación de capacidad, capacity planning, planificación de recursos, resource planning, capacidad gruesa, planificación gruesa de la capacidad, rough-cut capacity planning, RCCP, lista de recursos, bill of resources, perfil de recursos, planificación de requerimientos de capacidad, requerimientos de capacidad, capacity requirements planning, CRP, perfil de carga, load profile, carga infinita, infinite loading, carga finita, finite loading, capacidad finita, finite capacity scheduling, MRP de lazo cerrado, closed-loop MRP, MRP II, planificación de los recursos de fabricación, manufacturing resource planning]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificación de capacidad
