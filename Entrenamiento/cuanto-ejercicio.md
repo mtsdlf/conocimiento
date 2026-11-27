@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La Organización Mundial de la Salud pide a todo adulto entre 150 y 300 minutos semanales de actividad aeróbica moderada, o la mitad si es vigorosa, más fuerza muscular; menos que eso igual sirve, y más allá de unas tres a cinco veces ese piso el beneficio extra es chico.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/33239350/
@@ -16,7 +16,7 @@ fuentes:
 aliases: [cuánta actividad física, recomendaciones de actividad física, mínimo de ejercicio]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuánto ejercicio

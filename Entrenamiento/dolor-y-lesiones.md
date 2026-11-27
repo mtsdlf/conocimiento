@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Entrenar fuerza lesiona poco comparado con otros deportes; antes de empezar alcanza con un cuestionario breve salvo que haya síntomas o enfermedad, el dolor muscular de los días siguientes es normal, y un dolor súbito, localizado o que empeora, o un síntoma en el pecho, es para parar y consultar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://hfjc.library.ubc.ca/index.php/HFJC/article/view/839
@@ -21,7 +21,7 @@ fuentes:
 aliases: [lesiones en el gimnasio, dolor muscular tardío, agujetas, apto físico, PAR-Q+, rabdomiólisis]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dolor y lesiones

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Rendir más de adulto es subir la capacidad aeróbica, la fuerza y la potencia, y coordinar mejor es practicar equilibrio, agilidad y movimientos variados; las guías piden ese trabajo neuromotor dos o tres días por semana, y la capacidad aeróbica se asocia fuertemente con vivir más.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://doi.org/10.1249/mss.0b013e318213fefb
@@ -16,7 +16,7 @@ fuentes:
 aliases: [coordinación, equilibrio, capacidad aeróbica, VO2max, ejercicio neuromotor, rendimiento físico]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rendir y coordinar

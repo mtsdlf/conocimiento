@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La fuerza construye músculo y fuerza; el cardio, o ejercicio aeróbico, mejora la capacidad del corazón y los pulmones y ayuda con la grasa; se combinan sin que el cardio le quite músculo a un adulto que no es atleta, e intervalos y cardio continuo dan resultados parecidos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/22002517/
@@ -14,7 +14,7 @@ fuentes:
 aliases: [entrenamiento concurrente, cardio, aeróbico, HIIT, zona 2, efecto de interferencia]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuerza y cardio

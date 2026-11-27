@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El entrenamiento puede cambiar cuánto músculo y cuánta grasa hay, pero no se elige de dónde se va la grasa, y no hay estudios que digan si cambia la forma de los músculos; la respuesta varía muchísimo de una persona a otra, y buscar un cuerpo a cualquier costo trae riesgos reales, como los anabólicos y la dismorfia muscular.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/15947721/
@@ -12,7 +12,7 @@ fuentes:
 aliases: [entrenar por estética, cambio físico, físico, vigorexia, dismorfia muscular, anabólicos]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estética y entrenamiento
