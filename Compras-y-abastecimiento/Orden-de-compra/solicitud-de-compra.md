@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La solicitud de compra es el pedido interno con el que un área dice qué necesita, cuánto y para cuándo, antes de que alguien le pida precios a un proveedor. Sirve de autorización previa: la compra sale con el consentimiento de quien responde por el gasto y con presupuesto disponible, y lo que se compra sin pasar por ella es compra fuera del circuito.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - "Wikipedia, Purchase requisition (según su resumen): https://en.wikipedia.org/wiki/Purchase_requisition"
@@ -9,13 +9,14 @@ fuentes:
   - "ERPNext, Purchase Order, porcentaje de sobrepedido (según su resumen): https://docs.frappe.io/erpnext/user/manual/en/purchase-order"
   - "Microsoft, Dynamics 365 Supply Chain Management, Purchase agreements: https://learn.microsoft.com/en-us/dynamics365/supply-chain/procurement/purchase-agreements"
   - "GAO, Governmentwide Purchase Cards, GAO-08-333 (marzo de 2008; leído por extracto del texto): https://www.gao.gov/assets/gao-08-333.pdf"
-  - "APQC, Maverick purchasing means slower, more costly purchases (según su resumen): https://www.apqc.org/blog/maverick-purchasing-means-slower-more-costly-purchases"
+  - "APQC, Maverick purchasing means slower, more costly purchases (28 de octubre de 2019, leído completo el 2026-11-27): https://www.apqc.org/blog/maverick-purchasing-means-slower-more-costly-purchases"
+  - "ERPNext, Subcontracting (la orden de compra de subcontratación como primer documento): https://docs.frappe.io/erpnext/user/manual/en/subcontracting"
   - "APQC, Process Classification Framework 7.4 (2024), 4.2.3.1 y 4.2.3.2: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Wikipedia, Purchase order, sección Legal («no PO, no pay», según su resumen): https://en.wikipedia.org/wiki/Purchase_order"
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (sección 2) y apqc-4-2.md"
 aliases: [solicitud de compra, sobrepedido, porcentaje de sobrepedido, requisición, requisición de compra, pedido interno, pedido de materiales, purchase requisition, PR, material request, compra fuera del circuito, maverick spending, maverick spend, maverick buying, compra fuera de contrato, off-contract spend, no PO no pay]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Solicitud de compra
@@ -28,7 +29,7 @@ Es el primer documento de [Orden de compra](orden-de-compra.md) y el único que 
 
 Según el resumen del artículo de Wikipedia, la solicitud dice qué se necesita, cuánto, de qué fuente y a qué costo, y garantiza que la compra se haga con el consentimiento del jefe del área y con presupuesto suficiente. Es la definición más débil de las leídas, porque la sección no cita fuentes.
 
-Un sistema abierto la modela como el registro de una necesidad interna antes de pedir precios. No genera asiento ni movimiento de stock. El mismo documento sirve para cinco propósitos: comprar, transferir entre depósitos, consumir, fabricar o subcontratar. Solo el primero termina en una orden de compra (lectura de esta base); la transferencia es de Inventario y la fabricación y la subcontratación, de Producción, todavía no armado.
+Un sistema abierto la modela como el registro de una necesidad interna antes de pedir precios. No genera asiento ni movimiento de stock. El mismo documento sirve para cinco propósitos: comprar, transferir entre depósitos, consumir, fabricar o subcontratar. Dos de ellos terminan en una orden al proveedor: comprar, en una orden de compra, y subcontratar, en una orden de compra de subcontratación por el servicio, de la que sale la orden que calcula el material a mandar (según la documentación de subcontratación del mismo sistema; el recorrido entero está en [subcontratación](../../Produccion/Ejecucion-en-planta/subcontratacion.md), de Producción). La documentación de la solicitud no dice qué documento sigue a cada propósito, así que el vínculo entre la solicitud y esas órdenes es lectura de esta base. La transferencia entre depósitos es de [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md), y la fabricación, de la [orden de producción](../../Produccion/Ejecucion-en-planta/orden-de-produccion.md).
 
 Los estados del mismo sistema muestran que la solicitud también tiene avance:
 
@@ -45,7 +46,7 @@ Los estados del mismo sistema muestran que la solicitud también tiene avance:
 
 Una solicitud aprobada sigue por uno de dos caminos. Si hace falta comparar precios, pasa a un [pedido de cotización](../Abastecimiento-estrategico/cotizacion-y-licitacion.md); si el proveedor y el precio ya están fijados, pasa directo a la orden, tome el precio de las [condiciones](../Proveedores/condiciones-del-proveedor.md) del proveedor o de un [contrato marco](../Abastecimiento-estrategico/contrato-marco.md) (el reparto en dos caminos es lectura de esta base). En los dos casos la orden guarda la referencia a la solicitud, para saber cuánto de lo pedido ya se ordenó.
 
-Una solicitud no siempre la escribe una persona. En el sistema abierto se crea sola cuando el stock proyectado de un artículo baja de su nivel de reposición; la regla que fija ese nivel está en [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md), de Inventario. Cuando la necesidad sale del plan de producción, la propondría el MRP (la planificación de los requerimientos de materiales, que calcula qué comprar a partir de lo que se va a fabricar), que es de Producción, todavía no armado; ninguna fuente leída lo describe.
+Una solicitud no siempre la escribe una persona. En el sistema abierto se crea sola cuando el stock proyectado de un artículo baja de su nivel de reposición; la regla que fija ese nivel está en [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md), de Inventario. Cuando la necesidad sale del plan de producción, la propondría el MRP (la planificación de los requerimientos de materiales, que calcula qué comprar a partir de lo que se va a fabricar), que está en [MRP](../../Produccion/Planificacion-de-la-produccion/mrp.md), de Producción; ninguna fuente leída de Compras describe cómo se convierte su propuesta en solicitud.
 
 La orden puede pedir más que la solicitud. El sistema abierto tiene un porcentaje de sobrepedido para cubrir el embalaje o el mínimo del proveedor, y su documentación advierte, según su resumen, que no se use para tapar un aumento que nadie aprobó. Tampoco conviene descontar de un contrato marco en la solicitud: un ERP grande controla el máximo del acuerdo en la orden y no en la solicitud, porque las solicitudes no siempre se aprueban.
 
@@ -59,9 +60,9 @@ La regla que no depende del monto es la [separación de funciones](../../Contabi
 
 ## La compra fuera del circuito
 
-La compra fuera del circuito es la que alguien hace por su cuenta, salteando la solicitud, la orden o el contrato marco vigente; en inglés, maverick spending. APQC la define como comprar fuera del proceso estándar y la explica porque el proceso se ve «too complicated or a waste of time», y la mide en su base de comparación (según el resumen de su artículo). En las organizaciones de peor desempeño, con ingresos de al menos USD 500 millones, representa «2.5 percent or more of their total purchases».
+La compra fuera del circuito es la que alguien hace por su cuenta, salteando la solicitud, la orden o el contrato marco vigente; en inglés, maverick spending. APQC la define como comprar fuera del proceso estándar y la explica porque el proceso se ve «too complicated or a waste of time», y la mide en su base de comparación. En las organizaciones de peor desempeño, con ingresos de al menos USD 500 millones, representa «2.5 percent or more of their total purchases».
 
-APQC concluye que no hace la compra más rápida ni más barata, aunque se crea lo contrario. Las organizaciones que más la practican necesitan, en la mediana, «16 hours more to issue a purchase order to a vendor» y gastan USD 2,58 más de costo de compras por cada USD 1.000 comprados. Son diferencias de mediana entre grupos, no una causa demostrada; que un proceso lento empuje a saltearlo, y no al revés, es lectura de esta base.
+APQC concluye que no hace la compra más rápida ni más barata, aunque se crea lo contrario. La comparación usa otro corte del mismo artículo: las organizaciones con 2 % o más de sus compras por fuera del circuito, frente a las que tienen menos de 1 %, necesitan, en la mediana, «16 hours more to issue a purchase order to a vendor» y gastan USD 2,58 más de costo de compras por cada USD 1.000 comprados. Son diferencias de mediana entre grupos, no una causa demostrada; que un proceso lento empuje a saltearlo, y no al revés, es lectura de esta base.
 
 Algunas organizaciones responden con una regla dura, «no PO, no pay»: devuelven las facturas sin número de orden. La única fuente leída es la sección legal del artículo de Wikipedia. Una consecuencia posible es la orden cargada después de la factura, para regularizar una compra ya hecha; ninguna fuente leída la define ni la mide.
 

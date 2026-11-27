@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La recepción es el paso en que la mercadería que llega al depósito se descarga, se cuenta, se inspecciona y se ubica, y en que su cantidad entra al registro de stock. Lo que no pasa la inspección queda apartado y no se puede vender; lo que se recibe para salir enseguida puede cruzar el depósito sin guardarse (cross-docking).
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - "Bartholdi y Hackman, Warehouse & Distribution Science, versión 0.98.1 (16-ago-2019), §3.1-3.2 (recepción y guardado), §4.1 y §4.3 (efecto contable, funciones de un WMS) y §13.1-13.2 (cross-docking): https://www.warehouse-science.com/book/editions/wh-sci-0.98.1.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Inventario-y-depositos/.investigacion/operacion-del-deposito.md (2026-11-27), sección 2"
 aliases: [recepción, recepción de mercadería, ingreso de mercadería, receiving, inbound, goods receipt, recibo, inspección de recepción, control de calidad en la recepción, incoming inspection, guardado, put-away, putaway, cuarentena, quarantine, cross-docking, cross-dock]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Recepción
@@ -21,7 +21,7 @@ Es la puerta de entrada de [Operación del depósito](operacion-del-deposito.md)
 
 ## Qué es de Compras y qué es de acá
 
-En la misma descarga trabajan dos dominios. Compras y abastecimiento, todavía no armado, mira si llegó lo pedido: compara lo recibido con la orden de compra y con la factura del proveedor, y si llegaron 90 de 100 decide qué se le reclama. Este tema cuenta lo que hay, lo inspecciona, aparta lo dudoso, lo ubica y suma el movimiento al stock. El conteo de acá es el dato que Compras usa para su control.
+En la misma descarga trabajan dos dominios. Compras y abastecimiento mira si llegó lo pedido: compara lo recibido con la orden de compra, en [recepción contra lo pedido](../../Compras-y-abastecimiento/Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md), y si llegaron 90 de 100 decide qué se le reclama, en [diferencias y devoluciones](../../Compras-y-abastecimiento/Seguimiento-de-la-orden/diferencias-y-devoluciones.md). La factura del proveedor no entra en ese control: su cruce con la orden y la recepción es de Contabilidad, en [compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md#el-cruce-de-tres-vías-visto-desde-el-registro), y el recorrido entero está en [de la compra al pago](../../Procesos-de-negocio/de-la-compra-al-pago.md). Este tema cuenta lo que hay, lo inspecciona, aparta lo dudoso, lo ubica y suma el movimiento al stock. El conteo de acá es el dato que Compras usa para su control.
 
 Bartholdi y Hackman marcan el efecto hacia los costados: la recepción dispara el pago al proveedor, igual que el despacho dispara la factura al cliente. Por eso una recepción mal registrada deja mal el stock y además hace pagar lo que no llegó (inferencia de la base).
 
@@ -55,7 +55,7 @@ Según el mismo libro, que cita cifras de terceros sin segunda fuente, recibir r
 
 El cross-docking hace pasar la mercadería de la puerta de entrada a la de salida sin guardarla. Bartholdi y Hackman le atribuyen dos ventajas: menos inventario, porque todo fluye, y menos trabajo, porque no hay que guardar ni buscar después. Un centro de cross-docking separa las puertas donde se descarga de las puertas donde se carga.
 
-En este tema basta saber que existe: la mercadería entra y sale sin pasar a una ubicación de guardado, y el registro tiene que reflejarlo igual con su entrada y su salida. Cómo se organiza una red con centros de cruce es de Cadena de suministro y logística, todavía no armado.
+En este tema basta saber que existe: la mercadería entra y sale sin pasar a una ubicación de guardado, y el registro tiene que reflejarlo igual con su entrada y su salida. Cómo se organiza una red con centros de cruce es de Cadena de suministro y logística, en [red de distribución](../../Cadena-de-suministro-y-logistica/Red-de-distribucion/red-de-distribucion.md#los-flujos-por-la-red).
 
 ## En la Argentina
 

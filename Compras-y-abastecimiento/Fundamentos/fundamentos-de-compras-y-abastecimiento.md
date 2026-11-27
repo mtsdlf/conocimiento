@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Compras y abastecimiento: cómo pasó de oficina de pedidos a gestión del abastecimiento, cómo dividen el dominio CIPS, APQC y esta base, las escuelas que discuten cómo tratar al proveedor, la evidencia contra lo que más se repite y dónde se produce el saber del campo.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - "Kraljic (1983), Purchasing must become supply management, Harvard Business Review, sept-oct, 109-117: https://hbr.org/1983/09/purchasing-must-become-supply-management (solo la apertura, en la página de HBR; el texto completo no se pudo leer)"
@@ -25,7 +25,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/abastecimiento-estrategico.md y orden-y-seguimiento.md (2026-11-27)"
 aliases: [fundamentos de compras, historia de las compras, escuelas de compras, purchasing and supply management, de purchasing a supply management, mitos de compras, ahorros de compras, costo por orden de compra]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Fundamentos de compras y abastecimiento
@@ -71,7 +71,7 @@ La crítica de fondo viene del IMP Group, que estudia las compras industriales c
 | «A lo estratégico, un socio estratégico» | Kraljic da tres posiciones para ese cuadrante (equilibrar, explotar, diversificar); el socio para todo lo estratégico es de quienes lo simplificaron | Gelderman y van Weele (2003) |
 | «Compras ahorró tanto» | Bain afirma que se realiza «only 60%» de lo identificado, sin publicar método. Roland Berger cuenta un caso con más de USD 150 millones validados y unos USD 30-40 millones en el resultado | Bain; Roland Berger |
 | «Cada orden de compra cuesta tanto» | APQC divide el costo de todo el proceso de ordenar, no solo de emitir el documento, por las órdenes: de unos USD 14 a USD 54,50 entre los percentiles 25 y 75, sin página ni año leídos (la página de APQC dio error 403 al reabrirla). Es un rango, no una constante; los «USD 90 por orden» que circulan no tienen origen encontrado | APQC, según el resumen del buscador |
-| «Comprar por fuera del circuito es más rápido» | En organizaciones de más de USD 500 millones de ingresos, las que compran por fuera en 2 % o más de sus compras, frente a las que lo hacen en menos de 1 %, tardan «16 hours more to issue a purchase order» en la mediana y gastan USD 2,58 más por cada USD 1.000; son medianas entre grupos, no prueba de causa | APQC (2019) |
+| «Comprar por fuera del circuito es más rápido» | En organizaciones de más de USD 500 millones de ingresos, las que compran por fuera en 2 % o más de sus compras, frente a las que lo hacen en menos de 1 %, tardan «16 hours more to issue a purchase order» en la mediana y gastan USD 2,58 más por cada USD 1.000; son medianas entre grupos, no prueba de causa. El mismo artículo pone a las de peor desempeño en «2.5 percent or more» de sus compras por fuera: es otro corte del mismo estudio, no otra cifra (lo usa [solicitud de compra](../Orden-de-compra/solicitud-de-compra.md#la-compra-fuera-del-circuito)) | APQC (2019) |
 | «La subasta inversa baja el costo» | Mide precio contra el costo histórico, no costo total. Jap analizó 6 subastas de un fabricante de componentes automotrices (1999-2000), 3 cerradas y 3 abiertas, con ahorros potenciales parecidos. En las abiertas los proveedores desconfiaron más del comprador; también hubo efectos positivos, como más disposición a invertir. El 18-20 % de baja que circula lo informan los proveedores de subastas (sin verificar) | Jap, según el artículo de Sloan |
 
 **El ahorro que no llega al resultado** es lo mejor documentado en contra. Bain y Roland Berger coinciden en el mecanismo, no en las cifras: compras calcula el ahorro contra un precio de referencia, pero los dueños de presupuesto gastan contra su presupuesto y vuelven a gastar lo liberado. Lo que se sostiene es que el ahorro depende de la referencia (precio anterior, presupuesto o mejor oferta) y que no hay una definición única; por criterio de la base, un sistema tiene que guardar cuál se usó.
