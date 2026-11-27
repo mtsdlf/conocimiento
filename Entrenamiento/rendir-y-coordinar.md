@@ -25,13 +25,13 @@ Rendir más de adulto es subir la capacidad aeróbica, la fuerza y la potencia, 
 
 ## Qué hacer para rendir y moverse mejor
 
-Hacé cardio que te haga esforzar y fuerza, como en [cuánto ejercicio](cuanto-ejercicio.md), y sumá dos o tres veces por semana algo de equilibrio, agilidad y coordinación (ejemplos nuestros: un deporte, baile, ejercicios en un pie, cambios de dirección). Cuando practiques una habilidad, mezclá variantes en vez de repetir siempre la misma: se retiene mejor. Si buscás potencia, no pongas el cardio pegado a la fuerza. La técnica de cada ejercicio o de un deporte la enseña un profesor.
+Hacé cardio que te haga esforzar y fuerza, como en [cuánto ejercicio](Carga/cuanto-ejercicio.md), y sumá dos o tres veces por semana algo de equilibrio, agilidad y coordinación (ejemplos nuestros: un deporte, baile, ejercicios en un pie, cambios de dirección). Cuando practiques una habilidad, mezclá variantes en vez de repetir siempre la misma: se retiene mejor. Si buscás potencia, no pongas el cardio pegado a la fuerza. La técnica de cada ejercicio o de un deporte la enseña un profesor.
 
 ## La capacidad aeróbica se asocia con vivir más
 
 La capacidad aeróbica (cuánto oxígeno puede usar el cuerpo al máximo, el VO2max) se asocia con la supervivencia. En 122.007 pacientes derivados a una prueba de esfuerzo, los de capacidad baja tuvieron un HR (razón de riesgos) de 5,04 frente a los de capacidad de élite: unas cinco veces más riesgo de morir en el período ([Mandsager y otros, 2018](https://doi.org/10.1001/jamanetworkopen.2018.3605)). Es una cohorte de pacientes, no de población general.
 
-Un metaanálisis (un estudio que junta y recalcula varios) independiente lo confirma: cada MET más de capacidad (un MET es el gasto del cuerpo en reposo; 8 MET es ocho veces eso) se asoció con un RR (riesgo relativo) de 0,87, es decir, 13 % menos mortalidad. Quienes llegaban a 7,9 MET o más tuvieron tasas «sustancialmente más bajas» (en el original: "substantially lower rates of all-cause mortality") ([Kodama y otros, 2009](https://doi.org/10.1001/jama.2009.681)). Las dos son observacionales (siguen gente sin intervenir) y concuerdan. Cómo subirla, con intervalos o cardio continuo, está en [fuerza y cardio](fuerza-y-cardio.md).
+Un metaanálisis (un estudio que junta y recalcula varios) independiente lo confirma: cada MET más de capacidad (un MET es el gasto del cuerpo en reposo; 8 MET es ocho veces eso) se asoció con un RR (riesgo relativo) de 0,87, es decir, 13 % menos mortalidad. Quienes llegaban a 7,9 MET o más tuvieron tasas «sustancialmente más bajas» (en el original: "substantially lower rates of all-cause mortality") ([Kodama y otros, 2009](https://doi.org/10.1001/jama.2009.681)). Las dos son observacionales (siguen gente sin intervenir) y concuerdan. Cómo subirla, con intervalos o cardio continuo, está en [fuerza y cardio](Planificacion/fuerza-y-cardio.md).
 
 ## Coordinación y equilibrio: lo que pide la guía
 
@@ -53,7 +53,7 @@ Podría aplicarse a un deporte de habilidad como el [golf](../Golf/golf.md), pra
 La fuerza mejora la potencia: la posición 2026 de la ACSM encontró que el entrenamiento de fuerza la mejora frente a no entrenar ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/)). Lo único que el cardio le resta es la fuerza explosiva, sobre todo si va en la misma sesión que la fuerza; separarlos 3 horas o más hizo que la pérdida deje de ser significativa ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/)).
 
 > [!NOTE]
-> Sin fuente todavía: cómo entrenar potencia y velocidad en adultos que no compiten. El programa para un deporte concreto es trabajo de un profesor ([elegir un plan o un entrenador](elegir-plan-o-entrenador.md)).
+> Sin fuente todavía: cómo entrenar potencia y velocidad en adultos que no compiten. El programa para un deporte concreto es trabajo de un profesor ([elegir un plan o un entrenador](Fundamentos/elegir-plan-o-entrenador.md)).
 
 Para rendir también importa lo que se come alrededor del entrenamiento: está en [rendimiento](../Nutricion/Objetivos-del-adulto/rendimiento.md).
 
