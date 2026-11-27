@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, la persona humana inscripta en Ganancias suma sus rentas de primera a cuarta categoría, resta la ganancia no imponible, las cargas de familia y, si trabaja por su cuenta con los aportes de autónomo pagos, una deducción especial, y paga con la escala de nueve tramos del artículo 94 (del 5 % al 35 %); las rentas financieras, los dividendos y la venta de inmuebles van aparte, en el impuesto cedular, y todo se declara una vez por año, con cinco anticipos del 20 %.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley de Impuesto a las Ganancias, t.o. 2019 (Decreto 824/2019), texto actualizado, biblioteca de ARCA, arts. 2, 24, 30, 31, 33, 44, 48, 49, 53, 82 y 94 a 100, leída el 2026-11-27: https://biblioteca.afip.gob.ar/dcp/LEY_C_020628_2019_12_05"
@@ -30,7 +30,7 @@ fuentes:
   - "Impuestos/.investigacion/ganancias-y-leyenda-ronda-2.md (2026-11-27)"
 aliases: [Ganancias de personas humanas, Ganancias personas humanas, Ganancias de autónomos, Ganancias de profesionales, impuesto a las ganancias personas humanas, categorías de Ganancias, primera categoría, segunda categoría, tercera categoría, cuarta categoría, impuesto cedular, artículo 94, escala del artículo 94, artículo 30, deducción especial, nuevos profesionales, ganancia no imponible, F. 711, Portal Integrado, anticipos de personas humanas, RG 5211, declaración jurada simplificada, Ganancias simplificada, Ley 27.799, RG 5820]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ganancias de personas humanas en Argentina

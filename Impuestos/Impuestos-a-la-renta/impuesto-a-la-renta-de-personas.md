@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El impuesto a la renta de personas grava lo que gana cada individuo por su trabajo, su capital o su actividad por cuenta propia, con una escala progresiva sobre lo que queda después de un mínimo no imponible y de deducciones personales; según el país, junta todas las rentas en una sola base (global), grava cada clase por separado (cedular) o mezcla los dos sistemas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Burns y Krever, «Individual Income Tax», FMI, Tax Law Design and Drafting, vol. 2, cap. 14 (1998), secciones II.A, unidad de imposición, X.A y XII, leído el 2026-11-27: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch14.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Impuestos/.investigacion/ganancias-de-personas-humanas.md (2026-11-27)"
 aliases: [impuesto a la renta de personas, impuesto a la renta personal, impuesto sobre la renta de las personas físicas, IRPF, personal income tax, PIT, individual income tax, impuesto global, impuesto cedular, schedular income tax, global income tax, sistema dual, dual income tax, unidad de imposición, tax unit, mínimo no imponible, deducciones personales, escala progresiva, tasa marginal, tasa media]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Impuesto a la renta de personas

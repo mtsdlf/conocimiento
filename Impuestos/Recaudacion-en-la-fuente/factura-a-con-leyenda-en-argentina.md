@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, ARCA marca a los responsables inscriptos que no acreditan solvencia o muestran inconsistencias y los obliga a emitir la factura A con la leyenda «OPERACIÓN SUJETA A RETENCIÓN» (RG 5762/2025, que reemplazó a la factura M); quien la recibe, si está inscripto en IVA, retiene al pagar el 100 % del IVA y el 6 % de Ganancias, sin que el vendedor pueda oponer certificados de exclusión.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "RG ARCA 5762/2025, Boletín Oficial 25/09/2025, aviso 331947, PDF leído entero el 2026-11-27: https://www.boletinoficial.gob.ar/pdf/aviso/primera/331947/20250925"
@@ -21,7 +21,7 @@ fuentes:
   - "Impuestos/.investigacion/ganancias-y-leyenda-ronda-2.md (2026-11-27)"
 aliases: [factura A con leyenda, A con leyenda, operación sujeta a retención, OPERACIÓN SUJETA A RETENCIÓN, factura M, clase M, RG 5762, RG 1575, RG 4132, pago en CBU informada, retención 100 % de IVA, retención 6 % de Ganancias, códigos 99 y 499]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Factura A con leyenda en Argentina
