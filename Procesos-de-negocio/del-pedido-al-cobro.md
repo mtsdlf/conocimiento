@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Del pedido al cobro es el recorrido que empieza cuando la empresa acepta un pedido de venta y termina cuando el cobro está aplicado a sus facturas y conciliado con el banco. Pasa por seis dominios (Relación con clientes, Inventario, Cadena de suministro, Contabilidad, Impuestos y Tesorería), y, según la lectura de la base, casi todas sus fallas nacen en un traspaso entre ellos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 3.5.4, 4.1.2.4, 4.4.3.4, 4.4.4.1, 9.2.1 a 9.2.5 y 9.7.2.1: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/del-pedido-al-cobro.md (informe del 2026-11-27)"
 aliases: [del pedido al cobro, order-to-cash, order to cash, O2C, OTC, quote-to-cash, quote to cash, Q2C, lead-to-cash, lead to cash, ciclo de ingresos, revenue cycle, ciclo de ventas y cobranzas, de la venta al cobro, sales to cash collections]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Del pedido al cobro

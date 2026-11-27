@@ -1,7 +1,7 @@
 ---
 resumen: >-
   De la compra al pago es el recorrido que empieza cuando un área pide algo con una solicitud de compra y termina cuando el pago al proveedor está registrado y conciliado con el banco. Cruza Compras, Inventario, Contabilidad, Tesorería e Impuestos, y su control central es el cruce de tres vías entre la orden, la recepción y la factura.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.2.3, 4.2.4.4, 4.4.3.2, 9.6.1, 9.6.3 y 9.7.2.3: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/de-la-compra-al-pago.md (informe del 2026-11-27)"
 aliases: [de la compra al pago, procure-to-pay, procure to pay, P2P, purchase-to-pay, purchase to pay, PTP, ciclo de egresos, expenditure cycle, ciclo de compras y pagos, acquisition and payment cycle, source-to-pay, S2P, control de tres vías]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # De la compra al pago

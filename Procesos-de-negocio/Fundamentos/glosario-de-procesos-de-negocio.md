@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Los términos del tema Procesos de negocio, cada uno con su nombre en inglés, una definición corta y la nota donde vive: los recorridos y sus alias, las palabras de los marcos y los ciclos, los controles que viven en un traspaso y las medidas del recorrido entero.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Procesos-de-negocio/.investigacion/ (informes del 2026-11-27)"
 aliases: [glosario de procesos de negocio, glosario de procesos de punta a punta, términos de procesos, end-to-end process glossary, vocabulario de procesos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de procesos de negocio

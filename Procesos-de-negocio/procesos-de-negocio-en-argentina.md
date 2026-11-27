@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dónde la Argentina le agrega pasos o controles a cada recorrido de punta a punta: la factura electrónica con CAE, las percepciones al facturar y las retenciones al cobrar y al pagar, el cierre mensual que corre detrás de los vencimientos, el alta laboral antes del primer día y la garantía legal en los reclamos. El detalle de cada regla vive en los temas de dominio; acá va en qué paso cae.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Impuestos/Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md"
@@ -17,7 +17,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/ (borradores de Argentina de cada informe, 2026-11-27)"
 aliases: [procesos de negocio en Argentina, recorridos en Argentina, order-to-cash Argentina, procure-to-pay Argentina, factura electrónica en el recorrido, retenciones en el recorrido]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Procesos de negocio en la Argentina

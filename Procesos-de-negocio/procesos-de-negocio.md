@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un proceso de negocio de punta a punta es una cadena de pasos que cruza varios dominios de la empresa y termina en un resultado del negocio, como cobrar un pedido o pagarle a un proveedor. Este tema cuenta los ocho recorridos que atraviesan los dominios de una empresa que ya opera: qué pasos tienen, qué documento pasa de un dominio a otro, dónde se traban y qué se mide del recorrido entero. El detalle de cada paso vive en su dominio.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/ (informes del 2026-11-27)"
 aliases: [procesos de negocio, procesos de punta a punta, procesos end-to-end, end-to-end processes, E2E, business processes, procesos transversales, cross-functional processes, ciclos de transacciones, transaction cycles]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Procesos de negocio

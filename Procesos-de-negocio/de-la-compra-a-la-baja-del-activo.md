@@ -1,7 +1,7 @@
 ---
 resumen: >-
   De la compra a la baja del activo es el recorrido que sigue la vida de un equipo propio: empieza en la decisión de comprarlo o construirlo y termina cuando se lo da de baja, por venta o desguace, con su resultado registrado. Cruza Activos y mantenimiento, Compras y Contabilidad, y lleva dos registros del mismo equipo que tienen que coincidir hasta el final.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 16 Propiedades, planta y equipo, texto oficial (edición HTML 2026), párrafos 7, 12, 20, 22, 55 y 67: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ias16.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/de-la-compra-a-la-baja-del-activo.md (informe del 2026-11-27)"
 aliases: [de la compra a la baja del activo, acquire-to-retire, acquire to retire, A2R, ciclo de vida del activo, asset lifecycle, vida del activo, del alta a la baja del bien de uso, plan-to-retire]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # De la compra a la baja del activo

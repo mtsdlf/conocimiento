@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Del registro al balance (record-to-report) es el recorrido que lleva lo que cada dominio registró en el período hasta los estados contables emitidos y el período cerrado: cada área cierra lo suyo, la contabilidad ajusta y concilia, alguien revisa y aprueba, se informa adentro y afuera, se declaran los impuestos que dependen del cierre y el período se bloquea.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 9.3 «Perform general accounting and reporting», 9.3.1, 9.1.2.1, 9.7.2.1, 9.8 y 9.9.2: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/del-registro-al-balance.md (informe del 2026-11-27)"
 aliases: [del registro al balance, record-to-report, record to report, R2R, cierre contable, cierre de período, cierre de mes, cierre mensual, cierre anual, period-end close, month-end close, financial close, calendario de cierre, close calendar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Del registro al balance

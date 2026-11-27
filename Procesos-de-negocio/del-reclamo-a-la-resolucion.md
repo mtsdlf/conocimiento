@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Del reclamo a la resolución es el recorrido que empieza cuando un cliente reclama y se abre un caso, y termina cuando el caso se cierra con la solución aplicada y registrada: un cambio, una reparación, una devolución con nota de crédito o un reembolso. El caso es el hilo, y cada resolución deja un documento en otro dominio (Inventario, Cadena de suministro, Producción, Activos, Contabilidad o Tesorería) que tiene que volver antes de cerrarlo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.3.3.5, 4.4.2.4, 4.4.2.5, 6.2.2, 6.2.3, 6.2.4, 6.3.2, 6.3.4, 6.5.2, 9.2.2.5 y 9.2.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/del-reclamo-a-la-resolucion.md (informe del 2026-11-27)"
 aliases: [del reclamo a la resolución, issue-to-resolution, issue to resolution, I2R, case-to-resolution, case to resolution, del caso a la resolución, tratamiento de reclamos de punta a punta, posventa, devolución con nota de crédito]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Del reclamo a la resolución

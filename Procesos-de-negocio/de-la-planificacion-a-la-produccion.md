@@ -1,7 +1,7 @@
 ---
 resumen: >-
   De la planificación a la producción (plan-to-produce) es el recorrido que va del pronóstico de demanda y el plan de ventas y operaciones al producto terminado: baja el plan a órdenes, compra y entrega los materiales, fabrica, controla, ingresa lo bueno al depósito y cierra cada orden con su costo real y sus variaciones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, Cross Industry 7.4 (agosto de 2024), 4.1.2, 4.1.3, 4.1.4, 4.2.3, 4.3.1 a 4.3.4, 4.4.3.7, 9.1.2.4 y 9.1.2.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/de-la-planificacion-a-la-produccion.md (informe del 2026-11-27)"
 aliases: [de la planificación a la producción, plan-to-produce, plan to produce, plan-to-make, plan-to-manufacture, ciclo de producción, production cycle, recorrido de la producción]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # De la planificación a la producción

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un marco de procesos clasifica por función todo lo que hace una empresa, sin decir en qué orden; un proceso de punta a punta toma piezas de varias funciones y las ordena hasta un resultado. El marco general es el Process Classification Framework (PCF) de APQC, del que salen los códigos de los ocho recorridos de este tema; los marcos de un solo dominio se explican en su tema.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, Cross-Industry, versión 7.4 (agosto de 2024), entero: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/marcos-de-procesos.md (informe del 2026-11-27)"
 aliases: [marco de procesos, process framework, Process Classification Framework, PCF, APQC PCF, códigos APQC, marco funcional, end-to-end process, E2E, proceso de punta a punta, eTOM, Business Process Framework, MECE]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Marcos de procesos

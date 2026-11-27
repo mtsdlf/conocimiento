@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Procesos de negocio: de dónde viene la mirada por procesos (la cadena de valor, la reingeniería, el espacio en blanco del organigrama y los ciclos de transacciones de los libros contables y de auditoría), qué discute la evidencia de la reingeniería y del dueño de proceso, y qué leer.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hammer, Reengineering Work: Don't Automate, Obliterate, Harvard Business Review, julio-agosto de 1990, reprint 90406 (leído entero): https://folk.idi.ntnu.no/thomasos/paper/hammer_reengineering.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/fundamentos.md (informe del 2026-11-27)"
 aliases: [fundamentos de procesos, mirada por procesos, orientación a procesos, process orientation, reingeniería, business process reengineering, BPR, ciclos de transacciones, transaction cycles, ciclo de ingresos, revenue cycle, ciclo de egresos, expenditure cycle, dueño de proceso, process owner, espacio en blanco del organigrama, white space]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de procesos de negocio

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Del proyecto al cobro (project-to-cash) es el recorrido de una firma de servicios que va del presupuesto aceptado o el contrato firmado al cobro aplicado: abre el proyecto, asigna personas, registra y aprueba horas y gastos, factura por hora, hito o abono, reconoce el ingreso, cobra y cierra el proyecto con su margen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, Cross Industry 7.4 (agosto de 2024), 5.2.2, 5.3.1, 5.3.2, 5.3.3, 9.5.1, 9.6.2, 9.2.2, 9.2.3, 9.2.4 y 9.1.4.1: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/del-proyecto-al-cobro.md (informe del 2026-11-27)"
 aliases: [del proyecto al cobro, project-to-cash, project to cash, contract-to-cash, quote-to-cash de servicios, ciclo del proyecto con cliente, de la hora al cobro]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Del proyecto al cobro

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   De la contratación a la baja (hire-to-retire) es el recorrido de una relación laboral entera, desde el puesto aprobado y la búsqueda hasta la liquidación final pagada y el legajo cerrado, con un ciclo que se repite cada período: asistencia, liquidación, asiento, pago y cargas declaradas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 7.2, 7.3.1, 7.5.2, 7.5.4, 7.6, 7.6.3, 7.7.3 y 9.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/de-la-contratacion-a-la-baja.md (informe del 2026-11-27)"
 aliases: [de la contratación a la baja, hire-to-retire, hire to retire, H2R, del ingreso al egreso, ciclo de vida del empleado, employee lifecycle, ciclo de recursos humanos y nómina, HR and payroll cycle]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # De la contratación a la baja
