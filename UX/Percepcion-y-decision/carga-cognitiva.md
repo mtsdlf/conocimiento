@@ -20,7 +20,7 @@ revisado: 2026-11-22
 
 La carga cognitiva de una interfaz es el esfuerzo mental que exige usarla. Se reduce quitando el procesamiento que no ayuda a la tarea, y no depende de un número mágico de elementos por pantalla.
 
-NN/g la define así: "the cognitive load imposed by a user interface is the amount of mental resources that is required to operate the system". La idea viene de la teoría de la carga cognitiva de Sweller, nacida en la educación (aprendizaje con resolución de problemas). Su aplicación a interfaces es una extrapolación de practicantes: no se encontró evidencia empírica de carga cognitiva específica en interfaces web.
+NN/g la define así: "the cognitive load imposed by a user interface is the amount of mental resources that is required to operate the system". La idea viene de la teoría de la carga cognitiva de Sweller, nacida en la educación (aprendizaje con resolución de problemas); la teoría en su terreno de origen está en [carga cognitiva en el aprendizaje](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md), de Diseño instruccional. Su aplicación a interfaces es una extrapolación de practicantes: no se encontró evidencia empírica de carga cognitiva específica en interfaces web.
 
 ## Carga intrínseca y carga extrínseca
 

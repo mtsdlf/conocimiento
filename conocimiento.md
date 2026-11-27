@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Contabilidad, Arquitectura, IA y Gestión de proyectos tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Contabilidad, Arquitectura, IA, Gestión de proyectos y los cinco temas de Pedagogía tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -65,7 +65,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 ## Deporte
 
 - [Golf](Golf/golf.md) — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
-- [Entrenamiento](Entrenamiento/entrenamiento.md) — entrenar de adulto al nivel de las decisiones: cuánto ejercicio, fuerza y cardio, los principios básicos, qué pide cada objetivo (bajar grasa y ganar músculo, rendir y coordinar, estética), cómo elegir un plan y cuándo un dolor es para consultar.
+- [Entrenamiento](Entrenamiento/entrenamiento.md) — entrenar de adulto: arriba las decisiones (cuánto ejercicio, qué pide cada objetivo, cuándo un dolor es para consultar) y abajo la teoría del entrenamiento para cualquier disciplina (adaptación, capacidades, carga, planificación, evaluación, recuperación), con la resistencia (correr) y la musculación como disciplinas.
 
 ## Música
 
@@ -87,6 +87,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Relación con clientes](Relacion-con-clientes/relacion-con-clientes.md) — lo que registra una empresa sobre sus clientes y sus ventas en curso: el cliente y sus condiciones, el interesado, la oportunidad, el presupuesto y el pedido de venta, sin nombrar productos y con lo de Argentina aparte.
 - [Servicio al cliente](Servicio-al-cliente/servicio-al-cliente.md) — cómo se atiende al cliente después de la venta: canales y autoservicio, el caso y el reclamo, el escalamiento y la derivación al técnico, los acuerdos de nivel de servicio y cómo se mide la calidad de la atención, sin nombrar productos y con lo de Argentina aparte.
 - [Inventario y depósitos](Inventario-y-depositos/inventario-y-depositos.md) — lo que pasa con la mercadería dentro del depósito: qué se tiene y en qué estado, cuánto se puede prometer, recibir, reservar y preparar, contar y ajustar, y cuándo reponer, sin nombrar productos y con lo de Argentina aparte.
+- [Compras y abastecimiento](Compras-y-abastecimiento/compras-y-abastecimiento.md) — conseguir de afuera lo que la empresa necesita: el proveedor y sus condiciones, a quién comprarle y en qué términos (gasto, Kraljic, cotización, negociación, contrato marco), la solicitud y la orden de compra, y el seguimiento hasta que lo recibido coincide con lo pedido, sin nombrar productos y con lo de Argentina aparte.
 - [Impuestos](Impuestos/impuestos.md) — lo que una empresa que ya opera le debe al fisco y cómo cumple cada mes: la obligación tributaria, los impuestos al consumo y a la renta, las retenciones y percepciones, y el ciclo de facturar, declarar y pagar, con lo de Argentina (monotributo, IVA, Ingresos Brutos, Ganancias, comercio exterior) aparte.
 
 ## Personas
@@ -94,6 +95,14 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
 - [Desarrollo personal](Desarrollo-personal/desarrollo-personal.md) — la práctica de crecer con evidencia: autoconocimiento, hábitos y cambio, energía y salud, emociones y bienestar, relaciones, efectividad personal, coaching (el ontológico incluido, con su falta de evidencia) y lo que le pasa por dentro a quien funda una empresa.
 - [Liderazgo y dirección](Liderazgo-y-direccion/liderazgo-y-direccion.md) — cómo se conduce a una persona, a un equipo y a una empresa chica que crece: liderar personas, equipos y cultura, gestión de personas, decidir, ejecución y el rol del CEO, con la evidencia de cada práctica y lo que solo dicen los practicantes.
+
+## Pedagogía
+
+- [Ciencias del aprendizaje](Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) — cómo una persona llega a saber algo nuevo: conocimiento previo y comprensión, memoria y práctica, transferencia, metacognición y autorregulación, motivación para aprender y aprender con otros, con las teorías del aprendizaje, la andragogía y los mitos sobre el cerebro y la memoria.
+- [Didáctica](Didactica/didactica.md) — la enseñanza: explicar y modelar, práctica guiada y andamiaje, preguntas y diálogo, retroalimentación, aprendizaje activo e indagación, tutoría y mentoría y las didácticas específicas, con la programación como caso; suma cómo leer la evidencia educativa y los mitos de la enseñanza, que sirven a toda el área.
+- [Diseño instruccional](Diseno-instruccional/diseno-instruccional.md) — armar un curso o un camino entero: análisis previo, objetivos de aprendizaje, secuencia y currículo, materiales y carga cognitiva, formatos y modelos de diseño (ADDIE, diseño hacia atrás, 4C/ID), con dónde hay evidencia y dónde solo práctica.
+- [Evaluación educativa](Evaluacion-educativa/evaluacion-educativa.md) — saber qué aprendió alguien: propósitos, instrumentos, validez, confiabilidad y equidad, evaluación adaptativa, calificación y acreditación, y evaluar un programa (Kirkpatrick, transferencia, grupo de comparación).
+- [Tecnología educativa](Tecnologia-educativa/tecnologia-educativa.md) — lo que aportan los medios digitales: el debate de los medios, el aprendizaje en línea, los tutores inteligentes, la IA como tutor, como ayuda del docente o como atajo, y la práctica adaptativa, separando lo que cambia el aprendizaje de lo que solo cambia el canal.
 
 ## Carrera
 
