@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Gestionar un proyecto es llevar un trabajo con incertidumbre hasta un resultado que se puede comprobar: se encuadra qué se busca, se elige cómo organizarlo, se planifica, se reparte entre personas y agentes, se sigue, se trata lo que sale distinto y se gobierna hasta cerrarlo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "PMI, The Standard for Project Management and A Guide to the PMBOK, 8.ª ed. (2025), folleto e índice: https://www.pmi.org/-/media/pmi/documents/public/pdf/publications/pmbok-guide-eighth-edition_table-of-contents.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/ (siete informes, 2026-11-27)"
 aliases: [project management, gestión del trabajo, dirección de proyectos, PM, gestión de entregas, delivery management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gestión de proyectos

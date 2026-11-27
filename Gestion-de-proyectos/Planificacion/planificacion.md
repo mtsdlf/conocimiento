@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Planificar un proyecto es partir el trabajo en piezas comprobables, ver qué depende de qué, pronosticar cuándo termina y cuánto cuesta, y rehacer ese plan cada vez que los datos del seguimiento lo desmienten.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PMI, PMBOK 8, dominios de desempeño (según resumen): https://www.pmi.org/standards/pmbok/about"
@@ -11,7 +11,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [planificación, planning, plan del proyecto, project planning, plan vivo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificación

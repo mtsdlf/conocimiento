@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Personas y agentes es el modelo operativo de un trabajo en el que una parte la ejecutan agentes de IA: quién decide, quién ejecuta, quién verifica y quién responde, cuánta autonomía tiene cada agente y por dónde pasa el trabajo hasta que una persona lo acepta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Dell'Acqua et al. (2023), Navigating the Jagged Technological Frontier, HBS WP 24-013 (texto del PDF leído en parte): https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [fábrica, fábrica de agentes, modelo operativo con agentes, human-AI teaming, equipos de personas y agentes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Personas y agentes

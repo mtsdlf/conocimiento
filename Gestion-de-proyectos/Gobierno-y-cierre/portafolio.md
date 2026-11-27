@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El portafolio es el conjunto de proyectos que una organización lleva a la vez, y gestionarlo es decidir cuáles entran, en qué orden y cuántos corren en paralelo. El problema que más se repite es tener demasiados proyectos para la gente disponible.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Cooper, Edgett y Kleinschmidt, portafolios de nuevos productos (Research-Technology Management 40(6), 1997; 2004) (según resúmenes): https://macsphere.mcmaster.ca/bitstream/11375/5432/1/fulltext.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/fundamentos.md"
 aliases: [cartera de proyectos, portfolio management, gestión de portafolio, project portfolio, proyectos en paralelo, multiproyecto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Portafolio

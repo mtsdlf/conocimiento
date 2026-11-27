@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Pronosticar es decir cuándo termina un trabajo y cuánto cuesta como un rango con su probabilidad; se hace mirando cuánto llevaron trabajos parecidos ya terminados, porque mirar solo el plan propio produce un optimismo sistemático.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Buehler, Griffin y Ross (1994), Exploring the planning fallacy, JPSP 67(3):366-381: https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf"
@@ -21,7 +21,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [forecast, forecasting, previsión, falacia de la planificación, planning fallacy, clase de referencia, reference class forecasting, visión externa, outside view, pronóstico probabilístico, probabilistic forecasting]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pronóstico

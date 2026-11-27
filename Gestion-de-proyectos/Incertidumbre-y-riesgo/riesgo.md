@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un riesgo es algo incierto que, si pasa, cambia el resultado del proyecto; gestionarlo es identificarlo, analizarlo, decidir qué hacer con él y revisarlo mientras dura el trabajo, sin confiar en que una matriz de colores lo haya medido.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ISO 31000:2018, noticia de publicación (según resumen; la página del estándar no se pudo leer): https://www.iso.org/news/ref2263.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/planificacion-y-riesgo.md"
 aliases: [gestión de riesgos, risk, risk management, registro de riesgos, risk register, matriz de riesgos, risk matrix, ISO 31000]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Riesgo

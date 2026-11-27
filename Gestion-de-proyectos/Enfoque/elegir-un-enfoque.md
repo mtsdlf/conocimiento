@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Elegir un enfoque es decidir qué queda fijo y qué varía en un proyecto (alcance, tiempo o trabajo en curso) mirando cuánto se sabe del resultado y del camino, y mezclar enfoques por partes cuando conviene. Es el criterio en el que, según resúmenes secundarios, pone el foco el PMBOK 8 (el estándar no se pudo leer), aunque la evidencia de que elegir así mejore los resultados es débil.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Serrador y Pinto (2015), Does Agile work? A quantitative analysis of agile project success, IJPM 33(5):1040-1051 (abstract): https://pure.psu.edu/en/publications/does-agile-work-a-quantitative-analysis-of-agile-project-success/"
@@ -18,7 +18,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [elección del enfoque, adaptar el enfoque, tailoring, enfoque híbrido, hybrid approach, ajuste por contingencia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir un enfoque

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las escuelas de gestión de proyectos son las tradiciones que responden distinto a cómo llevar un trabajo incierto: planificar todo antes, iterar, gestionar el flujo, proteger la cadena crítica, apostar con tiempo fijo, adaptar el enfoque o desconfiar del pronóstico propio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Manifiesto ágil (2001), texto completo: https://agilemanifesto.org/"
@@ -26,7 +26,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/enfoque.md"
 aliases: [escuelas de project management, enfoques de gestión de proyectos, schools of project management, historia de la gestión de proyectos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuelas de gestión de proyectos

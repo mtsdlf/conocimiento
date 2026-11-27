@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las listas literales con que dividen el campo PMBOK 7 y 8, PRINCE2 7, ISO 21502 e IPMA ICB4, copiadas el 2026-11-27 en su idioma original con traducción, cómo se verificó cada una y cómo se reparten los dominios del PMBOK 8 entre las verticales del tema.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "PMI, The Standard for Project Management and A Guide to the PMBOK, 8.ª ed. (2025), ISBN 978-1-62825-829-5, folleto e índice (leído entero el PDF, que es solo índice): https://www.pmi.org/-/media/pmi/documents/public/pdf/publications/pmbok-guide-eighth-edition_table-of-contents.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/fundamentos.md, ítems 1 a 5"
 aliases: [PMBOK, PMBOK 7, PMBOK 8, PRINCE2, ISO 21502, ICB4, IPMA, estándares de gestión de proyectos, project management standards, dominios de desempeño, performance domains]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Marcos de referencia

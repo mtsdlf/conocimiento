@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Medir el avance es saber cuánto falta con datos de lo que ya se terminó. Hay dos familias de medidas que no se mezclan: las de flujo (tiempo de entrega, rendimiento, flujo acumulado), que no necesitan un plan fijo, y el valor ganado, que compara contra una línea base de alcance.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Christensen y Templin (2002), EAC Evaluation Methods: Do They Still Work?, Acquisition Review Quarterly, primavera 2002, pp. 105-116 (leído entero): https://webharvest.gov/peth04/20041015060742/http:/www.dau.mil/pubs/arq/2002arq/ChrisSP2.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/seguimiento.md"
 aliases: [medición del avance, progress measurement, métricas de flujo, flow metrics, valor ganado, earned value, EVM, CPI, SPI, lead time, tiempo de entrega, throughput, rendimiento, flujo acumulado, cumulative flow diagram, CFD]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Medir el avance

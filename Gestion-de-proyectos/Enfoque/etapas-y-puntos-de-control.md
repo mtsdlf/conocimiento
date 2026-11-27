@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las etapas y puntos de control parten un proyecto en tramos y, al final de cada uno, obligan a decidir con información nueva si se sigue, se cambia o se para. No es un enfoque más sino una capa de gobierno que se monta sobre cualquiera, predictivo, iterativo, de flujo o de apuesta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PRINCE2, principio de gestionar por etapas (según una guía de referencia rápida y Wikipedia; manual no leído): https://en.wikipedia.org/wiki/Managing_stage_boundaries"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/enfoque.md"
 aliases: [stage-gate, puertas, compuertas, gestionar por etapas, manage by stages, go/kill, puntos de decisión, phase gates]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Etapas y puntos de control

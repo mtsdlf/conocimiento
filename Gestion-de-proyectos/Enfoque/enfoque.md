@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El enfoque es la forma en que se organiza el trabajo de un proyecto según cuánto se sabe del resultado y del camino: planificar todo antes, entregar por partes, hacer fluir un trabajo que no para o fijar el tiempo y recortar el alcance. Sobre cualquiera de esas formas se monta una capa de etapas con una decisión de seguir o parar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Klünder et al. (2019), Catching up with Method and Process Practice (HELENA), ICSE-SEIP (texto completo): https://arxiv.org/pdf/2101.12383"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [enfoque de desarrollo, ciclo de vida del proyecto, development approach, project life cycle, metodología]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Enfoque

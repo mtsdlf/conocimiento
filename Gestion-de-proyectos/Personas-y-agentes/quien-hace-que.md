@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En un trabajo con personas y agentes hay cuatro papeles por cada pieza: quien decide qué se hace, quien lo ejecuta, quien verifica que esté bien y quien responde por el resultado. Un agente puede ejecutar y verificar en parte; para esta base, responder queda en una persona con nombre.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Tomašev, Franklin y Osindero (2026), Intelligent AI Delegation, arXiv 2602.11865, preprint sin revisión por pares (abstract y resumen de la primera mitad del HTML, secciones 4.8, 5.1 y 5.2): https://arxiv.org/abs/2602.11865 y https://arxiv.org/html/2602.11865"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [roles en la fábrica, matriz de responsabilidades, RACI, quién responde, accountability con agentes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Quién hace qué

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los interesados son las personas y los grupos que ganan, pierden, pueden frenar o deciden algo sobre un proyecto. Se identifican al encuadrar para saber a quién hay que escuchar, a quién informar y quién aprueba, aunque la evidencia de que gestionarlos mejore el resultado es escasa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mitchell, Agle y Wood (1997), Academy of Management Review 22(4) 853-886, doi 10.5465/amr.1997.9711022105 (según resúmenes)"
@@ -15,7 +15,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/fundamentos.md"
 aliases: [stakeholders, partes interesadas, involucrados, mapa de interesados, stakeholder management, gestión de interesados]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Interesados

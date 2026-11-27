@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El control de cambios es cómo se decide qué hacer cuando cambia lo pedido a mitad de camino: quién aprueba el cambio, qué desplaza y qué se mueve de la línea base. Los estándares la prescriben (PMBOK y PRINCE2, según lo que se pudo ver) y no se encontró evidencia con método que la respalde.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "PMI, Pulse of the Profession 2018, sobre scope creep (según un resumen; encuesta autodeclarada): https://www.pmi.org/learning/library/2019/04/07/16/06/scope-creep-rising-11308"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/seguimiento.md"
 aliases: [gestión de cambios del proyecto, control integrado de cambios, integrated change control, change control, scope creep, deriva del alcance, corrimiento del alcance, junta de cambios, change control board]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Control de cambios

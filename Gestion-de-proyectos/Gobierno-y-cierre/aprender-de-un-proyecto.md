@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprender de un proyecto es convertir lo que pasó en un cambio concreto en cómo se hace el próximo: una regla, una lista, una prueba, un umbral. La retrospectiva o el análisis de fallas solo sirven si terminan en ese cambio, y la investigación dice que aprender de un proyecto al siguiente se descuida seguido.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Williams (2008), How do organizations learn lessons from projects—and do they?, IEEE Transactions on Engineering Management 55(2) 248-266, doi 10.1109/TEM.2007.912920 (según resúmenes; la página dio 403): https://eprints.soton.ac.uk/148943"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [lecciones aprendidas, lessons learned, retrospectiva, retrospective, revisión posterior al proyecto, post-project review, análisis de fallas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprender de un proyecto

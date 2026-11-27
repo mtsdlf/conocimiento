@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El nivel de autonomía de un agente es cuánto decide solo antes de que intervenga una persona, desde que la persona opera cada paso hasta que solo observa. Se elige por pieza de trabajo, separado de lo capaz que sea el agente, y choca con un límite humano: quien supervisa automatización tiende a confiar de más.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Feng, McDonald y Zhang (2025), Levels of Autonomy for AI Agents, arXiv 2506.12469 (abstract y resumen del HTML): https://arxiv.org/abs/2506.12469 y https://arxiv.org/html/2506.12469"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [autonomía de un agente, levels of autonomy, persona en el bucle, human in the loop, human on the loop, gestión por excepción, management by exception, sesgo de automatización, automation bias, complacencia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Niveles de autonomía

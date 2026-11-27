@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un margen es tiempo o plata que se reserva para absorber lo que salga distinto del plan; importa tanto su tamaño como dónde se ubica y quién lo controla, porque, según la explicación habitual de la cadena crítica, el margen repartido en cada tarea tiende a gastarse aunque no haga falta (con evidencia débil).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Gutierrez y Kouvelis (1991), Parkinson's law and its implications for project management, Management Science 37(8):990-1001 (según resumen): https://econpapers.repec.org/RePEc:inm:ormnsc:v:37:y:1991:i:8:p:990-1001"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/planificacion-y-riesgo.md"
 aliases: [margen, reserva, buffer, colchón, reserva de contingencia, contingency reserve, reserva de gestión, management reserve, ley de Parkinson, Parkinson's law, síndrome del estudiante, student syndrome]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Márgenes

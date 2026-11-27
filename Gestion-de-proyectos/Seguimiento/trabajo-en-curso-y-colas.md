@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trabajo en curso es todo lo que se empezó y no se terminó; por la ley de Little, con el mismo ritmo de salida, más trabajo en curso significa más tiempo de entrega, y por eso se limita y se vigilan las colas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Little (2011), Little's Law as Viewed on Its 50th Anniversary, Operations Research 59(3): 536-549 (leído entero): https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/OS/Littles-Law-50-Years-Later.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [WIP, work in progress, trabajo en proceso, límite de WIP, WIP limit, ley de Little, Little's law, colas, queues, tamaño de tanda, batch size]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trabajo en curso y colas

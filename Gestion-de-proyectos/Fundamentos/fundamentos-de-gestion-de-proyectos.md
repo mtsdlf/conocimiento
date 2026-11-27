@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Gestión de proyectos sin ser una de sus partes: de dónde vienen sus ideas, cómo dividen el campo los marcos, cuánto creerle a un estudio del área, qué pierde peso, qué números no hay que repetir, qué leer y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Serrador y Pinto (2015), Does Agile work?, IJPM 33(5) (abstract y ficha de APM): https://apm.org.uk/media/r01fph3t/does-agile-work-a-quantitative-analysis-of-agile-project-success.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [fundamentos de gestión de proyectos, fundamentos de project management, project management foundations]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de Gestión de proyectos

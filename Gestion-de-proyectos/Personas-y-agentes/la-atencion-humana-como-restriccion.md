@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cuando los agentes producen más rápido de lo que las personas revisan, la atención de quien revisa pasa a ser la restricción del sistema: fija cuánto trabajo termina de verdad. Es una síntesis de esta base (Teoría de Restricciones, costo del cambio de tarea y datos de revisión de agentes) sin un estudio que la junte.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Goldratt (1984), The Goal, los cinco pasos de enfoque (según un resumen; libro no consultado): https://www.ebsco.com/research-starters/business-and-management/theory-constraints-toc"
@@ -15,7 +15,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/personas-y-agentes.md"
 aliases: [cuello de botella de la revisión, review bottleneck, capacidad de revisión, atención como restricción, fatiga de revisión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # La atención humana como restricción

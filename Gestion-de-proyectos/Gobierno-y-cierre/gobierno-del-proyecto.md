@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El gobierno del proyecto es quién tiene autoridad sobre un proyecto y cómo la delega: quién lo patrocina, quién aprueba seguir en cada punto de control, dentro de qué tolerancias decide solo quien lo lleva y qué pasa cuando se excede el margen.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "DIN/Beuth, índice de ISO 21502:2020 (solo el índice): https://www.din.de/de/mitwirken/normenausschuesse/nqsz/veroeffentlichungen/wdc-beuth:din21:334145134/toc-3233385/download"
@@ -20,7 +20,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [gobernanza del proyecto, project governance, patrocinador, sponsor, junta del proyecto, project board, gestión por excepción, manage by exception, tolerancias, PMO, oficina de proyectos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gobierno del proyecto

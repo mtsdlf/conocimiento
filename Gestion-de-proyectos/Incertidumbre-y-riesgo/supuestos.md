@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un supuesto es algo que el plan da por cierto sin haberlo comprobado; se trata escribiéndolo, buscando los que nadie dijo (el premortem es la técnica más conocida) y probando primero los que, si son falsos, tiran abajo más trabajo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Klein (2007), Performing a Project Premortem, Harvard Business Review 85(9):18-19: https://comprobo24.github.io/assignments/performing_a_project_premortem.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/planificacion-y-riesgo.md"
 aliases: [supuesto, assumption, assumptions, registro de supuestos, assumption log, premortem, pre-mortem, prospective hindsight, retrospectiva prospectiva]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Supuestos

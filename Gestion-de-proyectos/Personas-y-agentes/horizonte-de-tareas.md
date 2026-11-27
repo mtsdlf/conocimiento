@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los horizontes de tarea que METR midió para cada modelo: el largo de las tareas, en tiempo de una persona, que un agente completa con 50 % y con 80 % de éxito, copiados del archivo de datos de METR el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "METR, página de horizontes de tiempo (última actualización 2026-09-08; ya no se actualiza): https://metr.org/time-horizons/"
@@ -13,7 +13,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/personas-y-agentes.md"
 aliases: [time horizon, horizonte temporal, 50% time horizon, largo de tarea de un agente, METR]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Horizonte de tareas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aceptar con evidencia es dar una pieza por hecha porque muestra que cumple su criterio de terminado, y no porque quien la hizo diga que está lista; vale para personas, que tienden a callar las malas noticias, y más para agentes, que pueden reportar como cumplida una tarea que no cumplieron.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "METR (2025-06-05), Recent Frontier Models Are Reward Hacking (leído entero; laboratorio, sin revisión de pares): https://metr.org/blog/2025-06-05-recent-reward-hacking"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/seguimiento.md"
 aliases: [aceptación, aceptar el trabajo, acceptance, aceptación por evidencia, definición de terminado, definition of done, reward hacking, verificación independiente]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aceptar con evidencia

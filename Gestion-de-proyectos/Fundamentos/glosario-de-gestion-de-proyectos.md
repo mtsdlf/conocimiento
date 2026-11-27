@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos que usan las notas de gestión de proyectos, cada uno con su equivalente en inglés, una definición de una línea y la nota del tema donde se explica.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/ (los otros seis informes, por el vocabulario de cada vertical)"
 aliases: [glosario, vocabulario de gestión de proyectos, project management glossary, términos de project management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de gestión de proyectos

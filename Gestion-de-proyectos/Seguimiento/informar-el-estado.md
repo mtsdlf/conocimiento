@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Informar el estado es darle a quien decide lo que necesita para decidir: dónde está el trabajo, cuándo se pronostica que termina, qué se sale de la tolerancia y qué decisión se le pide. Su falla típica es el sesgo de reportar en verde, el mum effect, que, por inferencia de la base, se contrarresta armando el informe con datos y no con la palabra de una sola persona.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Keil, Smith, Iacovou y Thompson (2014), The Pitfalls of Project Status Reporting, MIT Sloan Management Review (leído entero; síntesis de los autores, no artículo con revisión): https://sloanreview.mit.edu/article/the-pitfalls-of-project-status-reporting"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [informe de estado, status report, reporte de avance, reporte por excepción, exception report, highlight report, mum effect, efecto silencio, sesgo de reportar en verde, watermelon reporting, semáforo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Informar el estado

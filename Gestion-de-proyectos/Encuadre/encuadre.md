@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El encuadre fija qué resultado busca un proyecto, por qué vale la pena, qué entra y qué no, quién gana, quién pierde y quién decide, y cómo se va a saber que terminó.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PMI, The Standard for Project Management and A Guide to the PMBOK, 8.ª ed. (2025), folleto e índice: https://www.pmi.org/-/media/pmi/documents/public/pdf/publications/pmbok-guide-eighth-edition_table-of-contents.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/fundamentos.md"
 aliases: [encuadre del proyecto, project framing, definición del proyecto, inicio del proyecto, project initiation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Encuadre

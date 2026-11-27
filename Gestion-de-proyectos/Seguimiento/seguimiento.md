@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El seguimiento es saber cómo va un trabajo y cuándo hay que intervenir: se mira cuánto trabajo hay en curso, se mide el avance con datos y no con impresiones, se acepta lo hecho por la evidencia, se deciden los cambios y se informa a quien decide.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Little (2011), Little's Law as Viewed on Its 50th Anniversary, Operations Research 59(3): https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/OS/Littles-Law-50-Years-Later.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [monitoreo y control, monitorear y controlar, progreso y controles, project monitoring and control, tracking, seguimiento del proyecto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Seguimiento

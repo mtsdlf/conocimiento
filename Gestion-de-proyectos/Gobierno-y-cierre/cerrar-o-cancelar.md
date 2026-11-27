@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cerrar un proyecto es darlo por terminado con el resultado comprobado y el trabajo traspasado a quien lo va a usar; cancelarlo es pararlo antes porque dejó de justificarse. Las dos son decisiones de gobierno, y la segunda choca con la escalada del compromiso: la tendencia a seguir invirtiendo en lo que no rinde.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Staw (1976), Organizational Behavior and Human Performance 16, 27-44, doi 10.1016/0030-5073(76)90005-2 (según resúmenes)"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/encuadre-y-gobierno.md"
 aliases: [cierre del proyecto, project closure, cancelar un proyecto, matar un proyecto, kill a project, escalada del compromiso, escalation of commitment, falacia del costo hundido, sunk cost]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cerrar o cancelar

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El enfoque iterativo entrega el resultado por partes que se pueden usar o mirar, y aprende de cada una para decidir la siguiente. Lo fijo es el largo de cada vuelta y lo que varía es el alcance; no exige ningún marco ni ceremonia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Larman y Basili (2003), Iterative and Incremental Development: A Brief History, IEEE Computer 36(6):47-56 (texto completo): https://mosaicprojects.com.au/PDF-Gen/History_of_Iterative_and_Incremental_Development.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [desarrollo iterativo e incremental, IID, iterative and incremental development, enfoque adaptativo, ágil, agile, entregas incrementales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Enfoque iterativo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las categorías de herramientas para seguir el trabajo de un proyecto (trackers de tareas, tableros, portafolio y observabilidad de agentes), con dos o tres ejemplos de cada una, copiadas el 2026-11-27 sin precios.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "monday.com, Linear or Jira (blog de un vendedor; según un resumen): https://monday.com/blog/rnd/linear-or-jira/"
@@ -10,7 +10,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/seguimiento.md"
 aliases: [herramientas de gestión de proyectos, project management tools, trackers, issue trackers, tableros kanban, observabilidad de agentes, LLM observability]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramientas de seguimiento

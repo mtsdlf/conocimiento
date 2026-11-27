@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Gobierno y cierre es la parte de la gestión de proyectos que decide sobre el proyecto desde afuera: quién tiene autoridad y con qué tolerancias, cuántos proyectos corren a la vez y cuáles entran, cuándo se termina o se cancela, y qué se aprende para el próximo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PMI, The Standard for Project Management and A Guide to the PMBOK, 8.ª ed. (2025), folleto e índice: https://www.pmi.org/-/media/pmi/documents/public/pdf/publications/pmbok-guide-eighth-edition_table-of-contents.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [gobernanza del proyecto, project governance, cierre del proyecto, project closure, dirección del proyecto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gobierno y cierre

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Doce lecturas canónicas de gestión de proyectos ordenadas por necesidad (el mapa del campo, elegir un enfoque, el flujo, pronosticar, trabajar con agentes, desconfiar de las cifras), con qué parte leer, en qué fijarse y cuánto se leyó para armar la base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "PMI, The Standard for Project Management and A Guide to the PMBOK, 8.ª ed. (2025), folleto e índice: https://www.pmi.org/-/media/pmi/documents/public/pdf/publications/pmbok-guide-eighth-edition_table-of-contents.pdf"
@@ -20,7 +20,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/enfoque.md, planificacion-y-riesgo.md, seguimiento.md, personas-y-agentes.md y encuadre-y-gobierno.md (recurso canónico de cada componente)"
 aliases: [lecturas de gestión de proyectos, libros de project management, project management reading list, por dónde empezar en gestión de proyectos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de gestión de proyectos

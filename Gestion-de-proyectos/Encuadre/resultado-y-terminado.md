@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El resultado de un proyecto es lo que tiene que ser verdad cuando termine, escrito de modo que se pueda comprobar; "terminado" es el momento en que la evidencia muestra que se logró, no el momento en que se acabaron las actividades.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Atkinson (1999), Project management: cost, time and quality, two best guesses and a phenomenon..., IJPM (resumen secundario): https://edisciplinas.usp.br/mod/resource/view.php?id=5118664"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/encuadre-y-gobierno.md"
 aliases: [definición de terminado, definition of done, criterio de éxito, success criteria, resultado esperado, outcome, entregable, output]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Resultado y terminado

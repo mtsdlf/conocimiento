@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Descomponer el trabajo es partir todo el alcance en piezas definidas por lo que entregan, hasta llegar a paquetes que se pueden estimar, asignar a un responsable y verificar uno por uno.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PMI, Practice Standard for Work Breakdown Structures, 2.ª y 3.ª ed. (según resúmenes; no se leyó el texto): https://www.pmi.org/learning/library/practice-standard-work-breakdown-structures-8063"
@@ -10,7 +10,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/planificacion-y-riesgo.md"
 aliases: [EDT, estructura de desglose del trabajo, WBS, work breakdown structure, paquete de trabajo, work package, regla del 100 %, 100% rule]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Descomposición del trabajo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un problema es un desvío que ya ocurrió o que el pronóstico da por seguro; se escala a quien tiene autoridad cuando el pronóstico dice que va a salir de la tolerancia acordada, con un informe que trae la causa, el impacto y opciones para decidir.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "PRINCE2, Manage by exception (resumen secundario): https://prince2.wiki/Manage_by_exception"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/personas-y-agentes.md"
 aliases: [problema, issue, escalamiento, escalation, escalar, tolerancia, tolerance, informe de excepción, exception report, plan de excepción, exception plan]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Problemas y escalamiento

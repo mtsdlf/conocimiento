@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las dependencias dicen qué pieza del trabajo espera a cuál; el camino crítico es la cadena de dependencias más larga, la que fija el plazo, y subestima la duración cuando hay varias cadenas casi tan largas o recursos compartidos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "MacCrimmon y Ryavec (1964), An Analytical Study of the PERT Assumptions, Operations Research 12(1):16-37 (según resumen): https://pubsonline.informs.org/doi/fpi/10.1287/opre.12.1.16"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/planificacion-y-riesgo.md"
 aliases: [camino crítico, ruta crítica, critical path, CPM, PERT, cadena crítica, critical chain, CCPM, dependencias, dependencies]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dependencias y camino crítico

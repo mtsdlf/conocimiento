@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Incertidumbre y riesgo es la parte de la gestión que trata lo que puede salir distinto del plan: los riesgos que se ven venir, los supuestos que se dieron por ciertos, los márgenes para absorber desvíos y los problemas que ya ocurrieron y hay que escalar, sabiendo que los proyectos se desvían de forma sistemática y con cola gruesa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Flyvbjerg (2014), What You Should Know About Megaprojects and Why, Project Management Journal 45(2): https://arxiv.org/pdf/1409.0003"
@@ -12,7 +12,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [gestión de riesgos, risk management, incertidumbre, uncertainty, gestión de la incertidumbre]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Incertidumbre y riesgo

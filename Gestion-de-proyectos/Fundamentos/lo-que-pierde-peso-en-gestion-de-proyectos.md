@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que pierde peso en gestión de proyectos son las prácticas que este tema deja para aprender después o pone en segundo plano, cada una con quién lo dice, la evidencia en contra y un veredicto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Jørgensen, estimación por juicio experto y modelos formales (según un resumen): https://simula.no/research/estimation-software-development-work-effortevidence-expert-judgment-and-formal-models"
@@ -25,7 +25,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/seguimiento.md, sección 2"
 aliases: [posición contraria en gestión de proyectos, qué dejar del PMBOK y de Scrum, prácticas de gestión en desuso, what to unlearn in project management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lo que pierde peso en gestión de proyectos

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una apuesta con tiempo fijo decide primero cuánto tiempo vale un trabajo y después recorta el alcance para que entre, en lugar de estimar el alcance y aceptar el plazo que salga. Según los practicantes, funciona cuando quien pide acepta recortar; no hay estudios con método que midan si rinde más que estimar y comprometer.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Singer, Shape Up (Basecamp), cap. 3, Set Boundaries (página leída): https://basecamp.com/shapeup/1.2-chapter-03"
@@ -13,7 +13,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/enfoque.md"
 aliases: [tiempo fijo y alcance variable, fixed time variable scope, apetito, appetite, timebox, caja de tiempo, scope hammering]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Apuesta con tiempo fijo

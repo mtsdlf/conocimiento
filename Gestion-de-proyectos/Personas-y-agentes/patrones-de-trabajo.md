@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los patrones de trabajo son las formas de repartir un trabajo entre personas y agentes: un orquestador que reparte y junta, hacer y revisar en manos distintas, piezas en paralelo, una cadena de pasos o una mesa de entrada que deriva. Se toman de los patrones de diseño de agentes y se leen como organización del trabajo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Anthropic (2024-12-19), Building effective agents (resumen): https://www.anthropic.com/research/building-effective-agents"
@@ -10,7 +10,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/personas-y-agentes.md"
 aliases: [patrones de organización con agentes, orquestador y trabajadores, orchestrator-workers, hacer y revisar, maker-checker, evaluador-optimizador, multiagente]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Patrones de trabajo

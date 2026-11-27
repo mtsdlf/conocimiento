@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El alcance es la frontera del proyecto: qué entra, qué queda afuera y qué se fija como línea base, de modo que cualquier cambio posterior se vea como cambio. Se decide junto con qué se deja variar cuando falta tiempo o plata.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PMI, The Standard for Project Management and A Guide to the PMBOK, 8.ª ed. (2025), folleto e índice: https://www.pmi.org/-/media/pmi/documents/public/pdf/publications/pmbok-guide-eighth-edition_table-of-contents.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/fundamentos.md"
 aliases: [scope, alcance del proyecto, línea base de alcance, scope baseline, fuera de alcance, out of scope]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alcance

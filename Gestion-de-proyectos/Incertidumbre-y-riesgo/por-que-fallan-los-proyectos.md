@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los grandes proyectos se pasan de costo y de plazo una y otra vez, y el desvío tiene cola gruesa: unos pocos se desvían muchísimo. Eso está respaldado por datos publicados en infraestructura y tecnología, aunque los propios autores admiten que su muestra probablemente no es representativa; la causa (Flyvbjerg la pone en el sesgo de optimismo y la tergiversación) está en disputa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Flyvbjerg (2014), What You Should Know About Megaprojects and Why: An Overview, Project Management Journal 45(2):6-19 (se leyó el borrador 9.2): https://arxiv.org/pdf/1409.0003"
@@ -16,7 +16,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/encuadre-y-gobierno.md"
 aliases: [ley de hierro de los megaproyectos, iron law of megaprojects, sobrecosto, cost overrun, cola gruesa, fat tail, sesgo de optimismo, optimism bias, tergiversación estratégica, strategic misrepresentation, fracaso de proyectos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Por qué fallan los proyectos

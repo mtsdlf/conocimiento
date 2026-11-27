@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La capacidad es cuánto trabajo puede terminar un equipo por período y el costo es lo que se gasta en hacerlo; con personas la capacidad es casi fija y se paga aunque esté ociosa, y con agentes el costo crece con el uso y los reintentos, mientras la revisión de las personas acota cuánto se termina.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "PMI, PMBOK 8, dominios de finanzas y recursos (según resumen): https://www.pmi.org/standards/pmbok/about"
@@ -15,7 +15,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/seguimiento.md"
 aliases: [capacidad, capacity, costo del proyecto, project cost, presupuesto, budget, utilización, utilization, costo por tarea, costo de agentes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Capacidad y costo

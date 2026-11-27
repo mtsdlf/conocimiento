@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El enfoque predictivo fija el alcance antes de ejecutar y ordena el trabajo en fases que se recorren una vez: requisitos, diseño, construcción, prueba y entrega. Sirve cuando el resultado y el camino se conocen; engaña cuando el plan detallado se toma como conocimiento de algo que nadie sabe todavía.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Larman y Basili (2003), Iterative and Incremental Development: A Brief History, IEEE Computer 36(6):47-56 (texto completo): https://mosaicprojects.com.au/PDF-Gen/History_of_Iterative_and_Incremental_Development.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/enfoque.md"
 aliases: [cascada, waterfall, enfoque tradicional, plan-driven, predictive approach]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Enfoque predictivo

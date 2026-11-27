@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La frontera irregular es el borde, desparejo e invisible de antemano, entre las tareas que la IA hace bien y las que hace mal. Dentro de ella mejora el trabajo; fuera, lo empeora sin que la persona lo note, así que qué darle a un agente se decide probando y midiendo, no por intuición.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Dell'Acqua, McFowland, Mollick, Lifshitz-Assaf, Kellogg, Rajendran, Krayer, Candelon y Lakhani (2023), Navigating the Jagged Technological Frontier, HBS Working Paper 24-013 (texto del PDF: abstract, resultados y sección Centaur/Cyborg): https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [jagged frontier, frontera tecnológica irregular, qué tareas dar a un agente, centauros y cyborgs, uplift]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Frontera irregular

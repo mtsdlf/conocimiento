@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Delegar a un agente es pasarle una pieza de trabajo con cuatro cosas dichas: la intención (para qué sirve), los límites (qué no puede hacer), el criterio de terminado (cómo se comprueba) y el presupuesto (cuánto puede gastar antes de parar). La lista es una síntesis de esta base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Anthropic (2024-12-19), Building effective agents (resumen): https://www.anthropic.com/research/building-effective-agents"
@@ -13,7 +13,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/personas-y-agentes.md"
 aliases: [encargo a un agente, brief para un agente, especificar una tarea para un agente, delegating to an agent, task specification]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Delegar a un agente

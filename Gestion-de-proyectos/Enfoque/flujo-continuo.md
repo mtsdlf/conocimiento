@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El flujo continuo organiza el trabajo como una corriente de pedidos que entran, esperan en colas y salen terminados, y lo gobierna limitando cuánto trabajo hay en curso, achicando los lotes y ordenando por costo de demora. Sirve para el trabajo que no tiene fin y es la lente principal de este tema.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Reinertsen (2009), The Principles of Product Development Flow, Celeritas (libro no leído; según resúmenes): https://www.slideshare.net/slideshow/the-principles-of-product-development-flow-a-summary/72489409 ; https://productdevelopment101.substack.com/p/productivity-in-product-development-4bb"
@@ -13,7 +13,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md"
 aliases: [flujo, kanban, gestión del flujo, flow, continuous flow, trabajo en curso, WIP, costo de demora, cost of delay]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Flujo continuo

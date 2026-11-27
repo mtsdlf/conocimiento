@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de gestión de proyectos son cifras y afirmaciones que circulan en el campo sin un estudio que las sostenga, del informe CHAOS al 70 % de cambios que fracasan y al 90 % del tiempo en comunicación, cada una con su origen y su estado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Standish Group, CHAOS (1994), copia del informe (según un resumen): https://www.math.unipd.it/~tullio/IS-1/2004/Approfondimenti/CHAOS.html"
@@ -23,7 +23,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/posicion-contraria.md, tesis 7"
 aliases: [mitos de project management, CHAOS report, informe CHAOS, Standish, 70 % de los proyectos fracasa, project management myths]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos de gestión de proyectos

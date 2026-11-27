@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La justificación es la razón escrita por la que un trabajo vale lo que cuesta, comparado con no hacerlo o con hacer otra cosa, y la condición bajo la cual deja de valer. Se escribe al empezar y se vuelve a mirar en cada punto de control.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "PRINCE2, principio de justificación continua, resumen en Wikipedia (secundaria; el manual PRINCE2 7 no se leyó): https://en.wikipedia.org/wiki/PRINCE2"
@@ -14,7 +14,7 @@ fuentes:
   - "Gestion-de-proyectos/.investigacion/fundamentos.md"
 aliases: [caso de negocio, business case, justificación continua, continued business justification, justificación del proyecto, gestión de beneficios, benefits realisation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Justificación
