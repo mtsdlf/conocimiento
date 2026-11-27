@@ -56,7 +56,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 ## Datos
 
 - [Datos](Datos/datos.md) — el recorrido del dato hasta una decisión: modelado y almacenamiento, ingesta, gobierno y calidad
-  (con privacidad en Argentina), análisis, estadística, analítica de producto y visualización; con rutas para aprender Data Analytics.
+  (con privacidad en Argentina), análisis, estadística, analítica de producto y visualización, con el BI sobre el software de gestión; con rutas para aprender Data Analytics.
 
 ## Idiomas
 

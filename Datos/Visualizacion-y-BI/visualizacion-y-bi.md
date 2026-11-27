@@ -31,6 +31,11 @@ BI (business intelligence) es el nombre de la práctica y de las herramientas de
 de una empresa. Lo que un tablero deja ver también vuelve hacia atrás: el dato que falta o el número
 que no cierra es un pedido para las verticales de ingeniería.
 
+Cuando la fuente es un sistema de gestión (un ERP, el sistema de un comercio), el tramo tiene una
+parte propia: [BI sobre el software de gestión](BI-sobre-software-de-gestion/bi-sobre-software-de-gestion.md),
+que dice dónde termina el reporte que el sistema emite y cómo se sacan, modelan, juntan y concilian
+sus datos para decidir.
+
 ## Tres usos de un gráfico: vigilar, explorar y contar
 
 Few separa el tablero, que sirve para vigilar algo de un vistazo, de lo que llama "faceted
@@ -84,4 +89,5 @@ decisión asociada. Cómo se aplica está en [tablero](tablero.md).
 - [Tablero](tablero.md) — el tablero de una pantalla para vigilar: para qué decisión, qué comparación y qué es excepción.
 - [Capa semántica](capa-semantica.md) — donde cada métrica se define una sola vez para todas las herramientas.
 - [Contar con datos](contar-con-datos.md) — cómo se presenta un hallazgo a quien tiene que actuar, y qué afirma el número.
+- [BI sobre el software de gestión](BI-sobre-software-de-gestion/bi-sobre-software-de-gestion.md) — el BI que se arma con los datos de un sistema de gestión: extraer, hechos y dimensiones de gestión, historia, varias fuentes, empresas y monedas, la Argentina y la conciliación con el balance.
 - [Herramientas de BI](herramientas-de-bi.md) — ficha: licencias y precios públicos de cinco herramientas de BI, copiados el 2026-11-27.
