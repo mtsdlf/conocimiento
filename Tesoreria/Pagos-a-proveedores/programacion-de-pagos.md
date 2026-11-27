@@ -68,7 +68,7 @@ La evidencia sobre quién estira es de abstracts, leídos solo en su resumen. Pe
 
 ## Las prioridades cuando la caja no alcanza
 
-Cuando la proyección muestra que la plata de la semana no cubre todo lo que vence, alguien decide qué se paga primero y qué se renegocia. Esa decisión, y quién la toma, la fija la [política de tesorería](../politica-de-tesoreria.md). Los sueldos y los impuestos entran acá como salidas de caja con fecha fija; qué se paga y cuándo vence es de los temas Administración de personal y nómina e Impuestos, todavía no escritos.
+Cuando la proyección muestra que la plata de la semana no cubre todo lo que vence, alguien decide qué se paga primero y qué se renegocia. Esa decisión, y quién la toma, la fija la [política de tesorería](../politica-de-tesoreria.md). Los sueldos y los impuestos entran acá como salidas de caja con fecha fija; los sueldos se pagan como dice [pago de sueldos](../Pago-de-sueldos/pago-de-sueldos.md), y qué impuesto vence cuándo es del tema [Impuestos](../../Impuestos/impuestos.md).
 
 Una regla de este orden tiene fuente. En Estados Unidos, el IRS llama impuestos «trust fund» a los que la empresa retiene a sus empleados, porque «you actually hold the employee's money in trust». Dice que usar fondos disponibles para pagar a otros acreedores cuando el negocio no puede pagar esos impuestos indica intención, y la sanción puede cobrarse a la persona responsable. Es una sola fuente y de otro país.
 

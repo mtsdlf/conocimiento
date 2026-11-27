@@ -65,7 +65,7 @@ Por lectura de esta base, cada fila de la proyección sale de un registro distin
 - Cobros de facturas emitidas: de la [antigüedad de saldos](../../Contabilidad/Registro/cuentas-corrientes.md) de los clientes, corrida por lo que cada cliente suele tardar después del vencimiento. Cómo se mide ese atraso está en [gestión de la cobranza](../Credito-y-cobranzas/gestion-de-la-cobranza.md).
 - Cobros de lo que todavía no se facturó: de los [pedidos de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md) abiertos y, más lejos, de una estimación de ventas.
 - Pagos a proveedores: de las facturas aprobadas y su [programación de pagos](../Pagos-a-proveedores/programacion-de-pagos.md).
-- Sueldos y cargas: del calendario de liquidación, que es del tema Administración de personal y nómina, todavía no escrito.
+- Sueldos y cargas: del calendario de sueldos, en dos filas con fechas distintas, el neto el día de pago y las cargas en su vencimiento ([fondeo y calendario](../Pago-de-sueldos/fondeo-y-calendario.md)); cuánto es cada una sale de la [liquidación de sueldos](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md).
 - Impuestos: de los vencimientos, que son del tema Impuestos, todavía no escrito; acá pesan solo como salida de caja.
 - Deuda: de las cuotas e intereses de los [préstamos](../Financiamiento/prestamos.md).
 

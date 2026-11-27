@@ -23,7 +23,7 @@ revisado: 2026-11-27
 
 La política de tesorería es el documento que fija las reglas de la plata de una empresa: quién puede decidir y mover fondos y hasta qué monto, con qué bancos se trabaja, en qué se puede colocar lo que sobra, cuánto y cómo se puede deber, qué riesgos se cubren y qué controles se aplican.
 
-Gobierna las cinco partes de la [tesorería](tesoreria.md). Las verticales hacen el trabajo: [caja y liquidez](Caja-y-liquidez/caja-y-liquidez.md) mira y coloca la plata, [crédito y cobranzas](Credito-y-cobranzas/credito-y-cobranzas.md) la hace entrar, [pagos a proveedores](Pagos-a-proveedores/pagos-a-proveedores.md) la hace salir, [financiamiento](Financiamiento/financiamiento.md) consigue la que falta y [riesgos financieros](Riesgos-financieros/riesgos-financieros.md) acota lo que puede salir mal. La política dice, para cada una, quién decide y dentro de qué límites.
+Gobierna las seis partes de la [tesorería](tesoreria.md). Las verticales hacen el trabajo: [caja y liquidez](Caja-y-liquidez/caja-y-liquidez.md) mira y coloca la plata, [crédito y cobranzas](Credito-y-cobranzas/credito-y-cobranzas.md) la hace entrar, [pagos a proveedores](Pagos-a-proveedores/pagos-a-proveedores.md) y [pago de sueldos](Pago-de-sueldos/pago-de-sueldos.md) la hacen salir, [financiamiento](Financiamiento/financiamiento.md) consigue la que falta y [riesgos financieros](Riesgos-financieros/riesgos-financieros.md) acota lo que puede salir mal. La política dice, para cada una, quién decide y dentro de qué límites.
 
 ## APQC la pone antes que todo lo demás
 
