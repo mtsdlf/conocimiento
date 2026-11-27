@@ -93,7 +93,7 @@ Stephan (2018) revisó 144 estudios empíricos: el 67 % transversales, el 25 % l
 >
 > **No más psicopatología (Heinz et al., 2017).** En una muestra nacional representativa de veteranos de EE. UU. (230 autoempleados y 1.055 empleados), los autoempleados «did not experience higher rates of current or lifetime psychopathology or lower perceived quality of life», aunque informaron más traumas a lo largo de la vida. Es una población específica, que no se extrapola a todos los fundadores.
 
-No se encontró un metaanálisis de burnout en fundadores. Cómo se sostiene en la práctica el rol de founder va en el tema Desarrollo personal, que todavía no existe.
+No se encontró un metaanálisis de burnout en fundadores. Cómo se sostiene en la práctica el rol de founder va en [El founder por dentro](../../Desarrollo-personal/El-founder-por-dentro/el-founder-por-dentro.md), dentro de Desarrollo personal.
 
 > [!NOTE] Sin fuente todavía: un metaanálisis de burnout en fundadores, y una búsqueda sistemática sobre salud mental de emprendedores.
 

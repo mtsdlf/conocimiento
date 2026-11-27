@@ -74,6 +74,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 ## Personas
 
 - [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
+- [Desarrollo personal](Desarrollo-personal/desarrollo-personal.md) — la práctica de crecer con evidencia: autoconocimiento, hábitos y cambio, energía y salud, emociones y bienestar, relaciones, efectividad personal, coaching (el ontológico incluido, con su falta de evidencia) y lo que le pasa por dentro a quien funda una empresa.
 
 ## Carrera
 
