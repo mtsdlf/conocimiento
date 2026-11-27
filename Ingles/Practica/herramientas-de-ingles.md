@@ -13,6 +13,8 @@ fuentes:
   - "Forvo: https://forvo.com/"
   - "Cambridge Dictionary: https://dictionary.cambridge.org/"
   - "Anki: https://apps.ankiweb.net/"
+  - "AnkiMobile Flashcards, App Store de EE.UU.: https://apps.apple.com/us/app/id373493387 (leída 2026-11-27)"
+  - "Tecnologia-educativa/.investigacion/fuentes-ia-y-practica-adaptativa-2026-11.md"
   - "Language Reactor: https://www.languagereactor.com/pro-mode"
   - "SkELL: https://skell.sketchengine.eu/"
   - "Netspeak: https://netspeak.org/"
@@ -81,7 +83,7 @@ Implementan la [repetición espaciada](../Adquisicion/repeticion-espaciada.md) y
 
 | Herramienta | Qué es | Acceso | Verificado |
 |---|---|---|---|
-| [Anki](https://apps.ankiweb.net/) | Tarjetas con repetición espaciada | Escritorio gratis (Windows, macOS, Linux), AnkiDroid gratis, AnkiWeb gratis para sincronizar; AnkiMobile de pago en iOS (precio no figura) | Página vista |
+| [Anki](https://apps.ankiweb.net/) | Tarjetas con repetición espaciada | Escritorio gratis (Windows, macOS, Linux), AnkiDroid gratis, AnkiWeb gratis para sincronizar; AnkiMobile de pago en iOS (USD 24,99 en el App Store de EE.UU. al 2026-11-27) | Página vista |
 | [VocabularySize.com](https://my.vocabularysize.com/) | Test de tamaño de vocabulario basado en el de Nation | No consta | En mantenimiento el 2026-11-27 |
 | [Vocabulary Size Test](https://openaccess.wgtn.ac.nz/articles/journal_contribution/A_vocabulary_size_test/12552197) (Nation y Beglar 2007) | Prueba de opción múltiple de vocabulario receptivo escrito | Gratis para docentes e investigadores | Por resumen |
 | [Lextutor](https://www.lextutor.ca/) | Perfiles de cobertura de un texto | No consta | No verificada |

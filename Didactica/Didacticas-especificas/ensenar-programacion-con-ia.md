@@ -13,10 +13,13 @@ fuentes:
   - "Zi, Y. et al. (2025), FSE Companion 2025, arXiv 2504.19037: https://arxiv.org/abs/2504.19037"
   - "Bastani et al. (2025), PNAS 122(26), e2422633122 (abstract)"
   - "Kestin et al. (2025), Scientific Reports 15, 17458, DOI 10.1038/s41598-025-97652-6 (abstract parcial)"
+  - "Chen, M. et al. (2021), Evaluating Large Language Models Trained on Code, arXiv 2107.03374: https://arxiv.org/abs/2107.03374 (texto completo; sin revisión por pares)"
+  - "OpenAI (10/08/2021), OpenAI Codex: https://openai.com/index/openai-codex/ (leída 2026-11-27)"
   - "Denny et al. (2024), Communications of the ACM 67(2), DOI 10.1145/3624720 (solo metadatos)"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
   - "Didactica/.investigacion/fuentes-didacticas-especificas-2026-11.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-tutores-y-plataformas-2026-11.md"
 aliases: [enseñar a programar con IA, aprender a programar con IA, programar con IA, novatos y asistentes de código, CS1 con IA, IA en la enseñanza de la programación, asistentes de código en la educación, LLM en educación en computación, generative AI in computing education, ilusión de competencia, illusion of competence, widening gap]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -34,7 +37,7 @@ Siete estudios son de novatos que programan con un asistente:
 
 | Estudio | Diseño | Hallazgo | Estado |
 |---|---|---|---|
-| Kazemitabaar et al. (2023) | 69 novatos de 10 a 17 años, 45 tareas de Python, la mitad con Codex, el modelo de OpenAI que genera código a partir de texto | Con Codex, 1,15 veces la tasa de finalización y 1,8 veces el puntaje en las tareas de escribir; modificar código a mano no empeoró; en el [postest](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) (la prueba final) a la semana, algo mejor con Codex pero sin diferencia significativa; quienes tenían mejor pretest (la prueba inicial) retuvieron significativamente más | Presentado en CHI 2023 (la revisión por pares se infiere por la sede) |
+| Kazemitabaar et al. (2023) | 69 novatos de 10 a 17 años, 45 tareas de Python, la mitad con Codex, el modelo de OpenAI de 2021, derivado de GPT-3 y entrenado con código público de GitHub, que genera código a partir de texto | Con Codex, 1,15 veces la tasa de finalización y 1,8 veces el puntaje en las tareas de escribir; modificar código a mano no empeoró; en el [postest](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) (la prueba final) a la semana, algo mejor con Codex pero sin diferencia significativa; quienes tenían mejor pretest (la prueba inicial) retuvieron significativamente más | Presentado en CHI 2023 (la revisión por pares se infiere por la sede) |
 | Prather et al. (2024) | 21 sesiones de laboratorio con observación, entrevistas y seguimiento ocular | Quienes ya iban bien usaron la IA para construir lo que habían planeado e ignoraron las sugerencias malas; quienes tenían problemas metacognitivos los conservaron y sumaron otros, y muchos sobreestimaron su rendimiento | Aceptado en ICER 2024; cualitativo |
 | Kazemitabaar et al. (2024), CodeAid | Un asistente que no muestra el código de la solución, usado por 700 alumnos de un curso de programación durante 12 semanas; análisis de 8000 usos, encuestas, 22 entrevistas a alumnos y 8 a docentes | Cuatro criterios de diseño para asistentes educativos, entre ellos evitar las respuestas directas y promover el compromiso cognitivo | CHI 2024; cualitativo |
 | Kazemitabaar et al. (2025) | Siete técnicas para que el alumno se involucre con el código generado; 82 participantes entre grupos y 42 intrasujeto | La más eficaz fue guiar paso a paso: el alumno dice qué debe pasar en cada etapa antes de ver el código | IUI 2025 (preprint de octubre de 2024) |

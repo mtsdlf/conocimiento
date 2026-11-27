@@ -5,6 +5,7 @@ estado: vigente
 estabilidad: semi
 fuentes:
   - "VanLehn (2011), The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems, Educational Psychologist 46(4), DOI 10.1080/00461520.2011.611369: https://eric.ed.gov/?id=EJ946764 (abstract)"
+  - "VanLehn (2012), Intelligent tutoring systems (ITS) for online learning, diapositivas del autor, CC BY 3.0: https://quality.mit.edu/files/2012/01/Quality-Symposium-Kurt-VanLehn.pdf (texto completo; la diapositiva 24 resume VanLehn 2011)"
   - "Shih, Koedinger y Scheines (2008), EDM: https://www.cmu.edu/dietrich/philosophy/docs/scheines/Shih_Koedinger_Scheines_2008_EDM.pdf (resumen)"
   - "Lepper y Woolverton (2002), The wisdom of practice, en Aronson (ed.), Improving Academic Achievement (según un resumen secundario)"
   - "Chi, Siler, Jeong, Yamauchi y Hausmann (2001), Learning from human tutoring, Cognitive Science 25(4), DOI 10.1207/s15516709cog2504_1 (abstract)"
@@ -13,6 +14,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
   - "Didactica/.investigacion/fuentes-retroalimentacion-y-tutoria-2026-11.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-tutores-y-plataformas-2026-11.md"
 aliases: [escalera de pistas, pistas graduales, hint ladder, graduated hints, pista final, bottom-out hint, ayuda escalonada]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -51,13 +53,13 @@ Enseñar a usar la escalera cambió cómo se pedía ayuda, pero no cuánto se ap
 
 En los dos, el Help Tutor mejoró el uso de las pistas mientras estaba activo. En el segundo, la mejora siguió en unidades nuevas sin el apoyo, pero solo después de recibirlo en dos unidades. En el primero, lo aprendido de geometría no cambió: «there was no effect of the Help Tutor on students' learning gains». En el segundo tampoco hubo efecto en los dos meses con apoyo, y en los meses sin apoyo el aprendizaje no se midió. La revisión de los mismos autores (Aleven, Roll, McLaren y Koedinger 2016) lo resume así, según su resumen: la ayuda se usó «more deliberately», «but not to achieve better learning outcomes».
 
-Los estudios son de secundaria y con un tutor por computadora. Que pase lo mismo con un tutor humano o con adultos es inferencia.
+La versión programada de este estudio está en [pistas de un tutor inteligente](../../Tecnologia-educativa/Tutores-inteligentes/pistas-de-un-tutor-inteligente.md#enseñar-a-pedir-ayuda). Los estudios son de secundaria y con un tutor por computadora. Que pase lo mismo con un tutor humano o con adultos es inferencia.
 
 > [!NOTE] Sin fuente todavía: un estudio con adultos o con un tutor humano sobre enseñar a pedir ayuda.
 
 ## Qué dice la tutoría por computadora sobre el grano de la ayuda
 
-VanLehn (2011) clasificó los sistemas de tutoría por el tamaño del paso en que dan ayuda: por respuesta final, por paso o por subpaso. Se creía que la tutoría humana rendía [d](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 2,0 y los tutores inteligentes d = 1,0; su revisión encontró 0,79 para la tutoría humana y 0,76 para los tutores inteligentes, «nearly as effective as human tutoring». Según un resumen secundario, los sistemas que solo corrigen la respuesta final rinden bastante menos (0,31) y los que ayudan por paso, 0,76. La lectura para una escalera de pistas, que es inferencia: ayudar paso a paso rinde más que corregir solo el resultado. Lo que pasa al bajar de paso a subpaso no quedó registrado. La versión programada de la escalera, con el abuso de la ayuda y la última pista, está en [pistas de un tutor inteligente](../../Tecnologia-educativa/Tutores-inteligentes/pistas-de-un-tutor-inteligente.md); los tutores por computadora como sistema, en [tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/tutores-inteligentes.md).
+VanLehn (2011) clasificó los sistemas de tutoría por el tamaño del paso en que dan ayuda: por respuesta final, por paso o por subpaso. Se creía que la tutoría humana rendía [d](../Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 2,0 y los tutores inteligentes d = 1,0; su revisión encontró 0,79 para la tutoría humana y 0,76 para los tutores inteligentes, «nearly as effective as human tutoring». Las diapositivas del propio VanLehn (2012), que resumen esa revisión, desglosan el efecto contra no tener tutor: 0,31 para los sistemas que solo corrigen la respuesta final (165 efectos), 0,76 para los que ayudan por paso (28) y 0,40 para los que ayudan por subpaso (26). Comparados directamente con los de paso, los de subpaso dan 0,16, en 11 efectos y con 0 % de ellos confiables. La lectura para una escalera de pistas, que es inferencia: ayudar paso a paso rinde más que corregir solo el resultado, y bajar a subpasos no mostró ventaja. La versión programada de la escalera, con el abuso de la ayuda y la última pista, está en [pistas de un tutor inteligente](../../Tecnologia-educativa/Tutores-inteligentes/pistas-de-un-tutor-inteligente.md); los tutores por computadora como sistema, en [tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/tutores-inteligentes.md).
 
 ## Cuándo mostrar la solución
 

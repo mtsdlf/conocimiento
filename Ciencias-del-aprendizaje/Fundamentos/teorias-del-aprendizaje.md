@@ -9,6 +9,8 @@ fuentes:
   - "Thorndike (1898), Animal Intelligence: An Experimental Study of the Associative Processes in Animals, Psychological Review, Monograph Supplement 8; reimpreso como cap. 2 de Animal Intelligence (1911) (capítulo 2): https://psychclassics.yorku.ca/Thorndike/Animal/chap2.htm"
   - "Thorndike (1911), Animal Intelligence: Experimental Studies, cap. 5, Laws and hypotheses for behavior (capítulo 5): https://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm"
   - "Skinner (1954), The science of learning and the art of teaching, Harvard Educational Review (según resumen): https://pressbooks.pub/lidtfoundations/chapter/programmed-instruction"
+  - "Skinner (1958), Teaching Machines, Science 128(3330):969-977 (texto completo): https://app.nova.edu/toolbox/instructionalproducts/edd8124/fall11/1958-Skinner-TeachingMachines.pdf"
+  - "Tecnologia-educativa/.investigacion/fuentes-fundamentos-y-medios-2026-11.md"
   - "Kulik et al. (1982), Programmed Instruction in Secondary Education: A Meta-Analysis of Evaluation Findings, Journal of Educational Research 75(3):133-138 (abstract): https://eric.ed.gov/?id=EJ258748"
   - "Wikipedia, Cognitive revolution (extracto): https://en.wikipedia.org/wiki/Cognitive_revolution"
   - "Sweller (1988), Cognitive Load During Problem Solving: Effects on Learning, Cognitive Science 12:257-285 (vía resumen): https://en.wikipedia.org/wiki/Cognitive_load"
@@ -54,7 +56,7 @@ La ley del efecto de Thorndike dice que las respuestas que producen un efecto sa
 
 Thorndike midió cuánto tardaban gatos en escapar de cajas: el gato 12 tardó 160 segundos el primer intento y 7 el vigésimo cuarto, con idas y vueltas. Lo leyó como un impulso exitoso «stamped in by the resulting pleasure». El mecanismo, con refuerzo y castigo positivo y negativo, está en [condicionamiento y refuerzo](../../Psicologia/Aprendizaje-y-memoria/condicionamiento-y-refuerzo.md).
 
-Llevado a la enseñanza, el conductismo dio la instrucción programada. Skinner presentó «The science of learning and the art of teaching» en 1954, con una máquina de enseñar experimental; Sidney Pressey había hecho máquinas en 1927 sobre las leyes de Thorndike. En la secundaria rindió como la enseñanza convencional, según el resumen del metaanálisis de Kulik et al. (1982). La mente que dejó afuera la recuperó el cognitivismo.
+Llevado a la enseñanza, el conductismo dio la instrucción programada. Skinner presentó «The science of learning and the art of teaching» en 1954, con una máquina de enseñar experimental; antes, Sidney Pressey había diseñado máquinas de evaluar que también podían enseñar. Skinner (1958) las ubica «in the 1920's» y cita un artículo de Pressey de 1926; según el resumen de la instrucción programada, se apoyaban en las leyes de Thorndike. En la secundaria, la instrucción programada rindió como la enseñanza convencional, según el resumen del metaanálisis de Kulik et al. (1982). La mente que dejó afuera la recuperó el cognitivismo.
 
 > [!NOTE]
 > Sin fuente todavía: resultados medidos de las máquinas de enseñar de Skinner, y las cifras de Kulik, Cohen y Ebeling (1980) para la universidad.
