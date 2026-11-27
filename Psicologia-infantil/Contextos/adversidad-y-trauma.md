@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La adversidad en la niñez, el maltrato, la violencia en casa, la pérdida o la negligencia, se asocia con más riesgo de problemas de salud y de salud mental hasta la adultez, pero la resiliencia es común; cuando deja un trastorno por estrés postraumático, la terapia cognitivo-conductual centrada en el trauma es lo que recomienda la guía NICE, y una revisión Cochrane coincide con una evidencia de calidad baja.
+  La adversidad en la niñez, el maltrato, la violencia en casa, la pérdida o la negligencia, se asocia con más riesgo de problemas de salud y de salud mental hasta la adultez, pero la resiliencia es común; cuando deja un trastorno por estrés postraumático, la terapia centrada en el trauma va primero según las guías NICE y AACAP, y una revisión Cochrane coincide con una evidencia de calidad baja.
 estado: vigente
 estabilidad: semi
 fuentes:
@@ -16,6 +16,10 @@ fuentes:
   - https://www.nice.org.uk/guidance/ng26/chapter/Recommendations
   - https://pubmed.ncbi.nlm.nih.gov/25359236/
   - https://pubmed.ncbi.nlm.nih.gov/19486847/
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC6069421
+  - https://pubmed.ncbi.nlm.nih.gov/20410735/
+  - https://www.cismef.org/page/detail/en/ICD11_CA_2070699808
+  - https://pubmed.ncbi.nlm.nih.gov/16382093/
 aliases: [experiencias adversas en la infancia, ACE, maltrato infantil, trauma infantil, TEPT infantil, estrés postraumático en chicos, trastorno reactivo del apego, RAD]
 dueno: familia
 creado: 2026-11-27
@@ -24,7 +28,7 @@ revisado: 2026-11-27
 
 # Adversidad y trauma
 
-La adversidad en la niñez, el maltrato, la violencia en casa, la pérdida o la negligencia, se asocia con más riesgo de problemas de salud y de salud mental hasta la adultez, pero la resiliencia es común; cuando deja un trastorno por estrés postraumático, la terapia cognitivo-conductual centrada en el trauma es lo que recomienda la guía NICE, y una revisión Cochrane coincide con una evidencia de calidad baja.
+La adversidad en la niñez, el maltrato, la violencia en casa, la pérdida o la negligencia, se asocia con más riesgo de problemas de salud y de salud mental hasta la adultez, pero la resiliencia es común; cuando deja un trastorno por estrés postraumático, la terapia centrada en el trauma va primero según las guías NICE y AACAP, y una revisión Cochrane coincide con una evidencia de calidad baja.
 
 > [!IMPORTANT]
 > Esto sirve para entender, no para evaluar a un chico. Si sospechás maltrato o abuso, o si después de algo grave no vuelve a estar bien, consultá con el pediatra o un profesional de salud mental infantil.
@@ -59,26 +63,28 @@ La CDC cita una estimación de que prevenir las ACE reduciría un 22 % la enferm
 
 ## La resiliencia es común
 
-La resiliencia es seguir funcionando bien pese a la adversidad. Según Masten (2001), lo sorprendente tras décadas de estudio es lo común que es: la resiliencia suele surgir de los sistemas de adaptación de todos los días (un vínculo con un adulto que cuida, la propia capacidad de regularse, una escuela o una comunidad que sostienen), y las mayores amenazas son las que dañan esos sistemas. Masten lo llamó «magia ordinaria». Cómo se estudia la resiliencia en adultos, y la disputa sobre cuán común es, está en [resiliencia](../../Psicologia/Estres-y-resiliencia/resiliencia.md).
+La resiliencia es seguir funcionando bien pese a la adversidad. Según Masten (2001), lo sorprendente tras décadas de estudio es lo común que es: la resiliencia suele surgir de los sistemas de adaptación de todos los días, y las mayores amenazas son las que dañan esos sistemas. Masten lo llamó «magia ordinaria». Una revisión posterior para pediatras (Masten y Barnes 2018) pone entre esos sistemas protectores el cuidado sensible de la familia, las relaciones cercanas y de pertenencia y los padres con recursos para criar.
 
-> [!NOTE]
-> Sin fuente todavía: una revisión específica de resiliencia en chicos posterior a Masten (2001). Los ejemplos entre paréntesis son lectura propia; el resumen no los enumera.
+La misma revisión agrega que la dosis importa: en estudios de pobreza, maltrato, guerra y desastres, a más adversidad acumulada hay más problemas en promedio, y a la vez hay chicos que andan mejor de lo que ese gradiente haría esperar. También dice que la resiliencia cambia con el tiempo y se puede fortalecer, y que pesa el momento del desarrollo en que llega la adversidad. Las dos revisiones son de la misma autora. Cómo se estudia la resiliencia en adultos, y la disputa sobre cuán común es, está en [resiliencia](../../Psicologia/Estres-y-resiliencia/resiliencia.md).
 
 ## El estrés postraumático en chicos
 
-El trastorno por estrés postraumático (TEPT) es un cuadro que puede aparecer después de un evento traumático; el DSM-5, el manual de clasificación de la asociación estadounidense de psiquiatría, lo ubica en el capítulo de trastornos relacionados con traumas y factores de estrés, junto con los del apego. El metaanálisis de Alisic y colegas (2014), con 43 muestras y 3.563 chicos y adolescentes expuestos a un trauma, encontró una tasa de TEPT del 15,9 %. Fue menor en varones con traumas no causados por otra persona, como un accidente (8,4 %), y mayor en niñas con traumas causados por otra persona, como una agresión (32,9 %). La mayoría de los chicos expuestos no desarrolla TEPT.
+El trastorno por estrés postraumático (TEPT) es un cuadro que puede aparecer después de un evento traumático; el DSM-5, el manual de clasificación de la asociación estadounidense de psiquiatría, lo ubica en el capítulo de trastornos relacionados con traumas y factores de estrés, junto con los del apego. La CIE-11, la clasificación de la OMS, lo describe con tres rasgos: revivir el evento en el presente (recuerdos intrusivos vívidos, *flashbacks* o pesadillas), evitar lo que lo recuerda y sentir una amenaza actual aumentada, por ejemplo con hipervigilancia o sobresaltos. Los síntomas duran al menos varias semanas y afectan la vida familiar, social o escolar. Se leyó en una copia del texto de la OMS, sin verificar si hay una descripción aparte para chicos.
+
+El metaanálisis de Alisic y colegas (2014), con 43 muestras y 3.563 chicos y adolescentes expuestos a un trauma, encontró una tasa de TEPT del 15,9 %. Fue menor en varones con traumas no causados por otra persona, como un accidente (8,4 %), y mayor en niñas con traumas causados por otra persona, como una agresión (32,9 %). La mayoría de los chicos expuestos no desarrolla TEPT.
 
 ## Qué ayuda en el estrés postraumático
 
-Hay dos fuentes que coinciden, aunque parten en parte de los mismos ensayos. NICE es una guía británica, y falta una segunda guía independiente:
+Tres fuentes coinciden en lo central, aunque parten en parte de los mismos ensayos: la psicoterapia centrada en el trauma va primero.
 
-- **La guía NICE NG116** (Reino Unido, 2018) recomienda, para chicos de 7 a 17 años con TEPT que consultan después de 3 meses, una terapia cognitivo-conductual centrada en el trauma, individual, de 6 a 12 sesiones en general, con los padres o cuidadores involucrados según corresponda. La terapia cognitivo-conductual (TCC) trabaja sobre lo que el chico piensa y hace; la centrada en el trauma lo ayuda a procesar el recuerdo. La EMDR, una terapia que usa movimientos oculares mientras se recuerda, queda solo si la TCC no funciona o el chico no se engancha. La guía dice expresamente que no se ofrezcan medicamentos para prevenir ni tratar el TEPT en menores de 18 años.
+- **La guía NICE NG116** (Reino Unido, 2018) recomienda, para chicos de 7 a 17 años con TEPT que consultan después de 3 meses, una terapia cognitivo-conductual centrada en el trauma, individual, de 6 a 12 sesiones en general, con los padres o cuidadores involucrados según corresponda. La terapia cognitivo-conductual (TCC) trabaja sobre lo que el chico piensa y hace; centrada en el trauma, lo ayuda a procesar el recuerdo. La EMDR, una terapia que usa movimientos oculares mientras se recuerda, queda solo si la TCC no funciona o el chico no se engancha.
 - **La revisión Cochrane de Gillies y colegas (2016)** encontró que la terapia psicológica redujo el diagnóstico de TEPT hasta un mes después del tratamiento y bajó los síntomas, pero con evidencia de calidad muy baja a baja, y esos efectos no se vieron a largo plazo. La TCC fue algo mejor que la EMDR, la terapia de juego y la de apoyo en los síntomas a corto plazo, y no se diferenció de la EMDR ni de la terapia de apoyo en el diagnóstico.
+- **La guía de la academia estadounidense de psiquiatría infantil (AACAP, 2010)** pide considerar las psicoterapias centradas en el trauma como primera línea, para todas las edades desde preescolar, porque superan a las terapias no directivas; acepta modelos cognitivo-conductuales, de apego y psicoanalíticos.
+
+> [!IMPORTANT]
+> Las guías discrepan en la medicación. NICE dice expresamente que no se ofrezcan medicamentos para prevenir ni tratar el TEPT en menores de 18 años. AACAP deja como opción considerar un antidepresivo ISRS, nunca solo y en general después de la TCC, si la gravedad o la falta de respuesta lo piden; aclara que la evidencia en chicos es preliminar y que un ensayo no mostró diferencia con el placebo.
 
 Los enfoques están en [enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md), lo que tiene respaldo para cada problema en [qué funciona para qué](../Intervencion/que-funciona-para-que.md) y lo general de los medicamentos en [medicación](../Intervencion/medicacion.md).
-
-> [!NOTE]
-> Sin fuente todavía: una segunda guía independiente sobre TEPT infantil (la de la academia estadounidense de psiquiatría infantil, AACAP) y el texto del DSM-5-TR y de la CIE-11 sobre TEPT en chicos.
 
 ## El trastorno reactivo del apego
 
@@ -88,7 +94,13 @@ Según un resumen del buscador, sin verificar en el DSM-5-TR, el trastorno react
 
 La guía NICE NG26, sobre chicos adoptados, en cuidado del Estado o en riesgo de ir a él, pide diagnosticar un trastorno del apego solo si cumple los criterios del DSM-5 y no ofrecer pruebas genéticas para predecirlo. Para chicos en edad escolar en riesgo, propone considerar un entrenamiento de los padres en sensibilidad y conducta, y para los que fueron maltratados y tienen TEPT, la TCC centrada en el trauma. El ensayo de Bucarest, de primera infancia, encontró un desarrollo mejor en los chicos que pasaron de una institución a una familia sustituta; su lugar es [apego](../../Crianza/Vinculo/apego.md).
 
+### Las terapias de apego coercitivas
+
+Una fuerza de tareas de la sociedad profesional estadounidense sobre el abuso infantil (APSAC, 2006) revisó las llamadas terapias de apego. Concluyó que las técnicas con coerción física, sostén físico forzado, contención, provocación de la furia, humillación o privación de comida y agua «están contraindicadas por el riesgo de daño y la ausencia de beneficio probado y no deben usarse». Aclara que eso no alcanza al tiempo fuera ni a sostener a un chico un momento por su seguridad. Lo que recomienda es estabilidad, seguridad y consistencia del cuidador, y un entrenamiento breve de los padres en sensibilidad. La guía NICE NG26 no trata estas terapias, pero propone lo mismo para los padres.
+
+Como criterio propio: si a una familia con un chico adoptado o con dificultades de apego le proponen una «terapia de contención» o algo parecido, conviene frenar y consultar con otro profesional.
+
 > [!NOTE]
-> Sin fuente todavía: evidencia sobre las llamadas terapias de apego coercitivas o de contención física, y la posición psicoanalítica sobre trauma y apego.
+> Sin fuente todavía: la posición psicoanalítica sobre trauma y apego, el texto del DSM-5-TR sobre TEPT en chicos y si APSAC actualizó su informe de 2006.
 
 Para leer entero: Hughes (2017) con Lacey y Minnis (2020), para las cifras de ACE con sus límites, y las recomendaciones 1.6.11 a 1.6.14 de la guía NICE NG116.

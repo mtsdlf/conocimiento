@@ -8,6 +8,8 @@ fuentes:
   - https://www.psychologicalscience.org/journals/current-directions/0963721414547414/
   - https://www.psychologicalscience.org/journals/current-directions/j.0963-7214.2005.00353.x/
   - https://pubmed.ncbi.nlm.nih.gov/26151640/
+  - https://pubmed.ncbi.nlm.nih.gov/30010349/
+  - https://pubmed.ncbi.nlm.nih.gov/21942279/
 aliases: [autoestima infantil, autoconcepto, self-esteem, self-concept, comparación social, industria frente a inferioridad]
 dueno: familia
 creado: 2026-11-27
@@ -40,11 +42,15 @@ Según Eccles (1999), los chicos que se ven menos competentes cuentan más sínt
 
 La necesidad de sentirse competente es una de las tres que propone la [teoría de la autodeterminación](../../Psicologia/Motivacion-y-emocion/autodeterminacion.md), junto con la autonomía y la relación con otros; Eccles usa las mismas tres para describir lo que mueve a un chico de 6 a 14 años.
 
-## La autoestima sube y baja con la edad
+## La autoestima sube en la niñez y no cae en la adolescencia
 
-Según el resumen de dos revisiones, la autoestima es relativamente alta en la niñez y baja en la adolescencia, sobre todo en las chicas (Robins y Trzesniewski 2005). Después sube desde la adolescencia hasta la adultez media y baja en la vejez, en hombres y mujeres. A la vez, las diferencias entre personas son estables: el chico con más autoestima que sus compañeros tiende a seguir teniéndola más alta años después (Orth y Robins 2014).
+La autoestima media sube entre los 4 y los 11 años, se mantiene estable de los 11 a los 15 y vuelve a subir hasta la adultez. Es lo que encontró un metaanálisis de estudios longitudinales, es decir, que siguieron a las mismas personas en el tiempo: Orth, Erol y Luciano (2018) juntaron 331 muestras con unas 165.000 personas de 4 a 94 años (según su resumen). Respecto de los 4 años, el aumento acumulado hasta los 11 es moderado (d = 0,34, una medida del tamaño de la diferencia), crece mucho hasta los 30 (d = 1,05) y tiene su pico hacia los 60, para bajar recién en la vejez. Según los autores, el patrón fue el mismo en varones y mujeres, entre países, grupos étnicos y generaciones, también entre los 10 y los 20 años.
 
-Las cifras de esas curvas no quedaron registradas; solo se leyeron los resúmenes.
+Esto corrige una idea muy repetida, que en esta base se citaba del resumen de Robins y Trzesniewski (2005): que la autoestima es alta en la niñez y cae en la adolescencia, sobre todo en las chicas. Ese hallazgo previo, en la lectura del informe, venía sobre todo de estudios transversales, que comparan grupos de edades distintas en un mismo momento, y el metaanálisis longitudinal posterior no lo confirma. Es un ejemplo del límite de esos diseños que explica [investigar con chicos](../Fundamentos/investigar-con-chicos.md#seguir-a-los-mismos-chicos-o-comparar-edades-distintas). El pico en la adultez coincide con un estudio anterior de 16 a 97 años (Orth, Robins y Widaman 2012, según su resumen), que no cubre la niñez.
+
+La subida de la autoestima global no choca con la baja de confianza que describe Eccles entre los 6 y los 10: una cosa es cuánto se valora el chico en conjunto y otra cuánto espera lograr en una tarea o un área (lectura propia, que ninguna de las fuentes compara).
+
+Las diferencias entre personas, en cambio, son estables: el chico con más autoestima que sus compañeros tiende a seguir teniéndola más alta años después (Orth y Robins 2014). Esa revisión no se pudo leer; el dato sale de su resumen.
 
 ## Subir la autoestima no mejora el rendimiento
 

@@ -14,7 +14,14 @@ fuentes:
   - https://www.infobae.com/politica/2025/09/22/el-gobierno-promulgo-la-ley-de-emergencia-en-discapacidad-pero-postergo-su-aplicacion/
   - https://www.argentina.gob.ar/normativa/nacional/norma-423441/texto
   - https://www.argentina.gob.ar/normativa/nacional/decreto-289-2018-308587/texto
-  - https://www.iprofesional.com/impuestos/430522-discapacidad-paso-a-paso-para-obtener-el-cud-en-junio-2025
+  - https://www.unc.edu.ar/sites/default/files/RESOL-2024-1654-APN-DE%23AND_0.pdf
+  - https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-2520-2024-407346/texto
+  - https://www.eldestapeweb.com/sociedad/discapacidad/certificado-unico-de-discapacidad-el-gobierno-establecio-los-criterios-para-recibir-el-cud-de-forma-permanente-202481313300
+  - https://www.cronista.com/economia-politica/certificado-unico-de-discapacidad-sin-vencimiento-cuales-son-los-requisitos-y-como-tramitarlo/
+  - https://www.argentina.gob.ar/sites/default/files/2018/02/normativa_para_la_certificacion_de_personas_con_discapacidad_con_deficiencia_intelectual_y_mental_1_422026.pdf
+  - https://www.argentina.gob.ar/normativa/nacional/norma-249897/texto
+  - https://navegador.defensoria.org.ar/preguntas-y-temas/cuales-son-las-normativas-para-la-inclusion-escolar-hay-leyes-y-otras/
+  - https://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/267234/norma.htm
 aliases: [CUD, certificado de discapacidad, certificado único de discapacidad, ley 24.901, prestaciones básicas, nomenclador de discapacidad]
 dueno: familia
 creado: 2026-11-27
@@ -39,9 +46,33 @@ Fuentes vivas: la [página oficial del CUD](https://www.argentina.gob.ar/cud) pa
 | Qué es | "certifica la discapacidad de la persona y le permite acceder a derechos y prestaciones que brinda el Estado" | Página oficial del CUD (leída) |
 | Quién lo decide | Una "Junta Evaluadora interdisciplinaria" | Página oficial del CUD (leída) |
 | Organismo | Secretaría Nacional de Discapacidad, en el Ministerio de Salud; reemplazó a la ANDIS, disuelta por el DNU 942/2025, que aclara que no se suspenden pensiones ni prestaciones | Página oficial (leída) y resúmenes de prensa y del Boletín Oficial |
-| Vigencia | La página oficial deja el campo vacío y remite a una consulta online del registro | Página oficial del CUD (leída) |
+| Vigencia | Sin plazo según la ley 27.711 y el Decreto 534/2023, pero con "instancias de actualización"; un primer CUD sale con fecha de actualización (detalle abajo). La página oficial deja el campo vacío | Res. ANDIS 1654/2024 (leída, sin el anexo) |
 
-Una nota de prensa dice que el certificado médico que se presenta para el trámite vale como máximo 6 meses; es la vigencia de ese certificado, no la del CUD (iProfesional, 2025, según su resumen).
+El límite de 6 meses que se repite sale de la Disposición SNR 648/2015: la solicitud de evaluación que firma el médico o el equipo tratante tiene "no más de 6 meses de vigencia". Es la vigencia de ese formulario, no la del CUD.
+
+### Cuánto dura y cuándo se renueva (al 2026-11-27)
+
+El Decreto 534/2023, que reglamenta la ley 27.711, dice que el CUD "se expedirá sin sujeción a plazo temporal alguno, determinándose instancias de actualización durante todo el curso de vida" (citado en la Resolución ANDIS 1654/2024). Esa resolución aprueba los criterios para emitir el CUD con la leyenda "Sin vencimiento conforme Ley N° 27.711", y aclara que la persona "podrá solicitar la actualización del CUD en cualquier momento", por ejemplo si cambia su perfil de funcionamiento. Los criterios están en un anexo que no se leyó; según dos notas de prensa que coinciden (El Destape, 2024, y El Cronista, 2026), alcanza con uno de estos tres:
+
+1. Dos certificados previos con un perfil de funcionamiento constante.
+2. Más de 60 años, con cinco años de estabilidad.
+3. Necesidad de equipamiento o dispositivos permanentes para preservar funciones vitales.
+
+Ninguno nombra la edad. Un chico que tramita su primer CUD no tiene "dos certificados previos", así que su certificado sale con fecha de actualización. Que un CUD infantil nunca salga "sin vencimiento" es una inferencia, no un texto.
+
+Los CUD con vencimiento o actualización original entre el 1 de enero y el 31 de diciembre de 2025 se prorrogaron "por única vez" un año, contado desde la fecha del certificado (Res. ANDIS 2520/2024). Los que vencían en noviembre o diciembre de 2025 vencen ahora, en noviembre o diciembre de 2026, y los que tenían vencimiento original en 2026 no tienen prórroga. Al 2026-11-27 no se encontró una norma que prorrogue otra vez; las notas de prensa de 2026 que hablan de una "extensión" repiten la de 2025. Antes de depender de una fecha, conviene consultar la validez en la página oficial del CUD.
+
+### ¿Alcanza un diagnóstico de TDAH o de una dificultad de aprendizaje?
+
+No por sí solo. La norma de certificación para la discapacidad "intelectual y mental" (Disposición SNR 648/2015, que la página oficial del CUD enlaza) incluye el TDAH (F90.0) y los trastornos de las habilidades escolares (F81) en su lista de códigos, pero dice que "el diagnóstico por sí solo no determina el otorgamiento del certificado": lo que cuenta es el perfil de funcionamiento. La norma mide ese perfil con la CIF, la clasificación de la OMS que registra qué puede hacer la persona en su vida diaria.
+
+Para los chicos con trastornos del aprendizaje, de la comunicación o de conducta, la norma pide un déficit "grave a completo" en las funciones y limitaciones "moderado a completo" en al menos el 50 % de las categorías de actividad y participación. Para el autismo el umbral de las funciones es menor ("moderado a completo"). Mira las secuelas "luego de haber transcurrido al menos seis meses tras el diagnóstico e inicio del tratamiento interdisciplinario".
+
+Como lectura de esa norma, no como cita: un TDAH o una dificultad de aprendizaje leves o moderados, con buen funcionamiento, probablemente no alcancen. No se encontró ninguna cifra de cuántos chicos con esos diagnósticos obtienen el certificado. La dificultad específica del aprendizaje tiene su propio marco legal (la ley 27.306, más abajo) y, según la Defensoría del Pueblo de la Ciudad (agosto de 2026), no requiere CUD.
+
+### La junta después de la disolución de la ANDIS
+
+La ANDIS se disolvió por el Decreto 942/2025 (Boletín Oficial del 2026-01-02). Sus funciones pasaron a la Secretaría Nacional de Discapacidad, dentro del Ministerio de Salud, que actúa "como continuador" y debe garantizar "la continuidad en la prestación de los servicios". El decreto no tiene ningún artículo sobre las juntas ni sobre el CUD. Las juntas evaluadoras interdisciplinarias siguen siendo de cada jurisdicción: la Nación fija el modelo de certificado y el protocolo, y las provincias evalúan (Res. ANDIS 1654/2024, art. 5). Al 2026-11-27 la página oficial del CUD describe el mismo trámite, y no se encontró una norma de 2026 que cambie cómo funcionan las juntas.
 
 ## Cómo se tramita
 
@@ -93,15 +124,15 @@ Qué pasó después de agosto de 2026 no quedó verificado.
 
 ## Dificultades de aprendizaje: la ley 27.306
 
-La ley 27.306 (sancionada el 19 de octubre de 2016, publicada el 4 de noviembre de 2016) define las dificultades específicas del aprendizaje (DEA) como alteraciones "de base neurobiológica" que afectan los procesos del lenguaje, la lectura, la escritura o el cálculo (art. 3). Sus artículos 8 b) y c) quedan incorporados al Programa Médico Obligatorio (PMO), la canasta básica de prestaciones de salud. La autoridad de aplicación es el Ministerio de Educación (Decreto 289/2018), y la ley deja los procedimientos de detección y diagnóstico al Consejo Federal de Salud, como cuenta [trastornos del aprendizaje](../Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md). Todo esto según el resumen del decreto; el texto completo de la ley no se leyó. Qué son esas dificultades está en [trastornos del aprendizaje](../Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md).
+La ley 27.306 (sancionada el 19 de octubre de 2016, publicada el 4 de noviembre de 2016) define las dificultades específicas del aprendizaje (DEA) como alteraciones "de base neurobiológica" que afectan los procesos del lenguaje, la lectura, la escritura o el cálculo (art. 3). Por su artículo 9, las obras sociales y prepagas tienen que cubrir la detección, el diagnóstico y el tratamiento, que quedan incorporados al Programa Médico Obligatorio (PMO), la canasta básica de prestaciones de salud. La autoridad de aplicación es el Ministerio de Educación (Decreto 289/2018), y la ley deja los procedimientos de detección y diagnóstico al Consejo Federal de Salud, como cuenta [trastornos del aprendizaje](../Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md). La definición del artículo 3 se leyó en el texto de la ley, que no habla de discapacidad ni del CUD; lo de los artículos 8 y 9 y del Consejo Federal de Salud también se leyó en el texto de la ley (Boletín Oficial). Lo que la ley pide en la escuela está en [apoyos en la escuela](../Intervencion/apoyos-en-la-escuela.md#un-chico-sin-cud).
 
 ## Lo que no quedó verificado
 
 > [!NOTE]
 > Sin fuente todavía:
-> - Cuánto dura el CUD y cómo se renueva.
-> - Si un diagnóstico de TDAH o de una dificultad de aprendizaje alcanza para obtener el CUD.
-> - Cómo funciona hoy la junta evaluadora después de la disolución de la ANDIS.
+> - El anexo con los criterios del CUD sin vencimiento (Res. ANDIS 1654/2024), que se conoce solo por la prensa.
+> - Qué parte de los chicos con TDAH o con una dificultad de aprendizaje obtiene el CUD.
+> - Si en 2026 hubo cambios operativos en las juntas o una nueva prórroga de vencimientos.
 > - Los valores del nomenclador para la integración escolar y el maestro de apoyo.
 > - La cobertura efectiva de las prepagas comparada con la de las obras sociales.
 > - El estado de la ley 27.793 y de su prórroga después de agosto de 2026.

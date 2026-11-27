@@ -12,6 +12,10 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC6322209
   - https://journals.sagepub.com/doi/10.1177/2515245919900809
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7197218
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC4669300/
+  - https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/developmental-research-designs/
+  - https://servicios.infoleg.gob.ar/infolegInternet/anexos/185000-189999/187206/norma.htm
+  - https://cioms.ch/wp-content/uploads/2017/01/WEB-CIOMS-EthicalGuidelines.pdf
 aliases: [investigación con niños, informantes múltiples, cómo leer un estudio con chicos]
 dueno: familia
 creado: 2026-11-27
@@ -48,5 +52,16 @@ La respuesta del campo a la crisis de replicación, con chicos, fue repetir el m
 
 Otra lección es que los mismos datos admiten conclusiones distintas según cómo se analicen. El test del malvavisco fue reanalizado con los mismos datos por dos equipos que llegaron a lecturas diferentes; uno de los trabajos se tituló, justamente, "Same Data Set, Different Conclusions" (Michaelson y Munakata 2020). El caso está en [debates](debates-de-psicologia-infantil.md).
 
-> [!NOTE]
-> Sin fuente todavía: la diferencia entre estudios longitudinales (los mismos chicos seguidos en el tiempo) y transversales (chicos de distintas edades medidos una vez), y lo propio de la ética de investigar con chicos (consentimiento de los padres y asentimiento del chico). Un libro de texto de desarrollo como el de Berk lo trata, pero no se consultó.
+## Seguir a los mismos chicos o comparar edades distintas
+
+Un estudio longitudinal sigue a las mismas personas a lo largo del tiempo, a menudo durante años; uno transversal mide una sola vez a personas de edades distintas (Caruana y otros 2015, una revisión de medicina). El longitudinal permite ver cómo cambia cada chico y en qué orden pasan las cosas, pero es lento y pierde participantes con los años, lo que puede dejar una muestra que ya no representa al grupo inicial. El transversal es rápido de hacer, pero no dice nada del paso del tiempo: confunde la edad con la generación.
+
+Por eso un estudio transversal puede mostrar diferencias entre edades que después no se confirman al seguir a los mismos chicos. Pasó con la autoestima: la idea de que cae en la adolescencia no se sostuvo en un metaanálisis de estudios longitudinales ([autoconcepto y autoestima](../Desarrollo/autoconcepto-y-autoestima.md)). El diseño secuencial combina los dos: sigue en el tiempo a varios grupos que empezaron a edades distintas, y así separa el efecto de la edad del de la generación y del momento en que se midió (Schaie y Baltes 1975, según un texto de curso de Lumen Learning).
+
+## Qué exige la ética: el permiso de los padres y el sí del chico
+
+Para investigar con un chico hacen falta dos acuerdos. El consentimiento, o permiso, lo dan los padres o el representante legal; el asentimiento es el "sí" del propio chico, pedido después de explicarle el estudio de un modo que pueda entender.
+
+En la Argentina lo regula la Guía para Investigaciones con Seres Humanos del Ministerio de Salud (Resolución 1480/2011). Pide que el consentimiento de un menor lo dé su representante legal, por ejemplo el padre o la madre, "siempre respetando la voluntad" del chico en la medida de su capacidad, y que además se busque su asentimiento según su grado de madurez. La guía no fija una edad: "el CEI [comité de ética en investigación] deberá determinar la edad a partir de la cual se requerirá el asentimiento del menor". Si el chico se niega, su decisión debe respetarse; incluso uno demasiado chico para asentir puede expresar una "objeción deliberada" que debe respetarse, salvo que necesite un tratamiento que no consigue fuera del estudio. Además, investigar con menores solo se justifica si lo que se espera aprender es lo bastante importante frente a riesgos que deben ser mínimos o apenas mayores.
+
+La pauta internacional dice lo mismo. Las guías éticas del CIOMS (2016, pauta 17) piden el permiso de un padre o representante y el asentimiento del chico según su capacidad, y aclaran que el asentimiento "no es la mera ausencia de rechazo": el chico tiene que participar de verdad en la decisión. Con un adolescente cerca de los 18, su acuerdo puede valer éticamente como un consentimiento, y si cumple la mayoría de edad durante el estudio hay que pedirle su consentimiento para seguir.

@@ -11,7 +11,13 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/37203373/
   - https://www.kennedykrieger.org/sites/default/files/library/documents/research/center-labs-cores/brain-and-behavioral-development-lab/Hongetal_AutismResearch.pdf
   - https://pubmed.ncbi.nlm.nih.gov/38523599/
-aliases: [tests, pruebas psicológicas, psicometría infantil, cribado, screening, WISC-V, M-CHAT, ADOS-2, CBCL, Conners]
+  - https://www.pearsonassessments.com/store/en/usd/p/100001996.html
+  - https://pubmed.ncbi.nlm.nih.gov/23597678/
+  - https://pubmed.ncbi.nlm.nih.gov/37640232/
+  - https://pubmed.ncbi.nlm.nih.gov/33283025/
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC2893552
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC4104252
+aliases: [tests, pruebas psicológicas, psicometría infantil, cribado, screening, WISC-V, M-CHAT, ADOS-2, CBCL, Conners, Bayley, Bayley-4]
 dueno: familia
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -55,8 +61,17 @@ La consecuencia práctica, como lectura propia de esas dos fuentes: en un inform
 
 Las pruebas de desarrollo miden lenguaje, motricidad, juego y habilidades cognitivas en bebés y chicos pequeños, comparados con su edad.
 
-> [!NOTE]
-> Sin fuente todavía: la escala Bayley (la prueba de desarrollo más conocida para los primeros años), sus edades y qué mide. La investigación no encontró una fuente que la describa.
+### La escala Bayley
+
+La escala Bayley de desarrollo infantil (cuarta edición, Bayley-4) es la prueba de desarrollo más conocida para los primeros años. Según su editor (Pearson), se aplica de los 16 días a los 42 meses y mide cinco áreas: cognitiva, lenguaje, motora, socioemocional y conducta adaptativa. Una reseña de terceros da de 1 a 42 meses; acá se toma la edad del editor. Según un resumen de la ficha de Pearson Canadá, las tres primeras áreas las evalúa un profesional con el chico, y las dos últimas las responden los padres en un cuestionario. Sirve para ver si el desarrollo va por debajo de lo esperado y qué área necesita apoyo (RehabMeasures, según su resumen); no diagnostica una causa.
+
+Cuánto predice a futuro es limitado, y se estudió sobre todo en bebés muy prematuros y con ediciones anteriores:
+
+- Un metaanálisis de 2013 (Luttikhuizen dos Santos y otros; 14 estudios con 1.330 chicos muy prematuros, ediciones I a III) encontró que el puntaje cognitivo explicaba el 37 % de las diferencias en la función cognitiva posterior, y el motor, el 12 %. Los autores lo llaman muy predictivo y a la vez subrayan que gran parte de las diferencias queda sin explicar.
+- En un estudio de 2023 con prematuros extremos (Lowe y otros), de los chicos con puntaje cognitivo menor de 70 en la Bayley-III a los 18-22 meses, el 67 % tuvo un CI menor de 70 a los 6-7 años. De los que sacaron entre 85 y 100, el 43 % terminó con un CI menor de 85.
+- Un estudio chico de 2020 (Flynn y otros) encontró que la Bayley-III sobreestimaba el CI a los 4 años y podía pasar por alto a chicos en riesgo.
+
+Los tres se leyeron por su resumen. No se encontró un estudio de predicción de la Bayley-4 en bebés nacidos a término. Como lectura de esos estudios: un puntaje bajo a los 2 años es una señal para mirar y suele confirmarse, un puntaje normal no descarta, y la prueba se repite con el tiempo junto con el resto de la evaluación.
 
 ## Autismo: un cribado y una observación estructurada
 
@@ -70,7 +85,7 @@ El M-CHAT-R/F es un cuestionario de cribado de autismo que completan los padres 
 
 En el estudio de atención primaria, de cada 100 chicos que dieron positivo, unos 15 tenían autismo, y el cuestionario detectó a menos de 4 de cada 10 de los que después recibieron el diagnóstico. Un positivo pide una evaluación, no confirma nada; y con esa sensibilidad, según ese estudio, un negativo no descarta el autismo si la preocupación sigue.
 
-La ADOS-2 es una observación estructurada: el profesional propone actividades y juegos fijos y registra cómo el chico se comunica y se relaciona. Tiene módulos según la edad y el nivel de lenguaje. Según un estudio del Kennedy Krieger Institute, con el punto de corte del manual detecta al 95 % o más de los chicos con autismo, pero descarta bien a entre el 63 y el 73 % de los que no lo tienen (módulos 1 a 3); con un corte más alto, la especificidad sube a 76-86 % y la sensibilidad baja a 81-94 % (según su resumen). El mismo estudio sugiere combinarla con cuestionarios para padres, como el SCQ o el SRS. Cómo se diagnostica el autismo está en [autismo](../Psicopatologia/Neurodesarrollo/autismo.md).
+La ADOS-2 es una observación estructurada: el profesional propone actividades y juegos fijos y registra cómo el chico se comunica y se relaciona. Tiene cinco módulos, según la edad y el nivel de lenguaje: el de bebés (Toddler), para menores de 30 meses con poco o ningún lenguaje, que caminan solos y tienen una edad no verbal de al menos 12 meses, y los módulos 1 a 4, que van de los chicos sin lenguaje hasta el módulo 4, para adolescentes mayores y adultos con lenguaje fluido (Luyster y otros 2009; Hus y Lord 2014). El de bebés no da un punto de corte sino "rangos de preocupación". Según un estudio del Kennedy Krieger Institute, con el punto de corte del manual detecta al 95 % o más de los chicos con autismo, pero descarta bien a entre el 63 y el 73 % de los que no lo tienen (módulos 1 a 3); con un corte más alto, la especificidad sube a 76-86 % y la sensibilidad baja a 81-94 % (según su resumen). El mismo estudio sugiere combinarla con cuestionarios para padres, como el SCQ o el SRS. Cómo se diagnostica el autismo está en [autismo](../Psicopatologia/Neurodesarrollo/autismo.md).
 
 ## Cuestionarios de conducta y atención
 
