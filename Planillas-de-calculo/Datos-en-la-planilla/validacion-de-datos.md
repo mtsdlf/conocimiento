@@ -39,14 +39,15 @@ Los usos más comunes en un negocio chico:
 ## Qué tipos de regla hay en Excel y en Sheets
 
 En Excel, los tipos son Whole Number, Decimal, List, Date, Time, Text Length y Custom; la última
-acepta una fórmula. Una lista escrita a mano se separa con comas. Sheets organiza la regla alrededor
-de la lista desplegable y la muestra en tres estilos: Chip, Arrow o Plain text. Solo el estilo chip
+acepta una fórmula. Una lista escrita a mano se separa con comas. De Sheets se leyó solo la página de listas
+desplegables, así que lo que sigue vale para esa regla y no se verificó para las demás. Sheets muestra la lista en tres estilos: Chip, Arrow o Plain text. Solo el estilo chip
 permite elegir varios valores en la misma celda, y la lista se actualiza sola si cambia el rango de
 origen.
 
 ## Rechazar o advertir: la diferencia que más importa
 
-Lo que pasa cuando alguien escribe un valor fuera de la regla cambia entre las dos aplicaciones:
+Lo que pasa cuando alguien escribe un valor fuera de la regla cambia entre las dos aplicaciones (en
+Sheets, según la página de listas desplegables):
 
 | | Excel | Google Sheets |
 |---|---|---|
@@ -67,8 +68,8 @@ cuando no hay excepción posible (un producto que no está en el catálogo).
 
 ## Dónde deja de proteger
 
-En Excel, la validación no se puede cambiar si el libro está compartido en el modo antiguo o si la
-hoja está protegida. La validación tampoco es una barrera completa: es una ayuda para quien carga.
+En Excel, la validación no se puede cambiar si el libro está compartido en el modo antiguo (el «libro
+compartido» anterior a la coautoría, que se activa aparte) o si la hoja está protegida. La validación tampoco es una barrera completa: es una ayuda para quien carga.
 Para que otro no toque fórmulas ni supuestos hace falta además proteger rangos, como cuenta
 [compartir y colaborar](../Automatizar-y-compartir/compartir-y-colaborar.md).
 

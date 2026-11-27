@@ -44,7 +44,7 @@ El riesgo también es distinto. Las macros de VBA son, según Microsoft, "a comm
 
 ## Una sola copia, varias personas
 
-Compartir bien empieza por tener un solo archivo en la nube en lugar de copias que viajan por mail: es el mismo principio del ICAEW de un solo lugar por dato, llevado al archivo entero. Después vienen los permisos (quién ve, comenta o edita), la protección de rangos para que nadie pise las fórmulas, y el historial de versiones para volver atrás. Sheets trae todo eso de fábrica porque el archivo siempre vive en la nube; Excel lo tiene con condiciones (archivo en OneDrive o SharePoint, suscripción a Microsoft 365). La comparación está en [compartir y colaborar](compartir-y-colaborar.md).
+Compartir bien empieza por tener un solo archivo en la nube en lugar de copias que viajan por mail: es el mismo principio del ICAEW de un solo lugar por dato, llevado al archivo entero. Después vienen los permisos (quién ve, comenta o edita), la protección de rangos para que nadie pise las fórmulas, y el historial de versiones para volver atrás. Sheets trae todo eso de fábrica (la coautoría sin condiciones es inferencia de que el archivo siempre vive en la nube, sin fuente que lo diga); Excel lo tiene con condiciones (archivo en OneDrive o SharePoint, suscripción a Microsoft 365). La comparación está en [compartir y colaborar](compartir-y-colaborar.md).
 
 Cuando varias personas cargan los mismos registros todo el tiempo, compartir la planilla deja de alcanzar y aparecen las señales de [pasar a una base](../cuando-pasar-a-una-base.md).
 

@@ -67,8 +67,10 @@ límites y versiones al 2026-11-27.
 ## Las planillas fallan porque fallan las personas
 
 Las auditorías intensivas que reúne Panko encontraron errores en el 94 % de 85 planillas revisadas,
-y los experimentos dan entre 1 % y 5 % de celdas con fórmula mal hechas. Son muestras chicas y
-elegidas, no la tasa de todas las planillas, y la cifra «88 % de las planillas tienen errores» que
+y los experimentos de laboratorio promedian 3,9 % de celdas con fórmula con error, cerca de lo que
+la investigación sobre error humano espera (entre 1 % y 5 %). Son muestras chicas, no la tasa de todas
+las planillas (que no sean aleatorias es lectura propia: según Panko, son mayormente auditorías de
+firmas comerciales de varios días por planilla), y la cifra «88 % de las planillas tienen errores» que
 circula no tiene fuente rastreable. Panko lo resume así: "spreadsheet programs are not error-prone.
 People are error prone." Lo que reduce errores es el diseño ordenado y revisar celda por celda, como
 cuentan [errores en planillas](Diseno-de-planillas/errores-en-planillas.md) y
@@ -78,9 +80,12 @@ cuentan [errores en planillas](Diseno-de-planillas/errores-en-planillas.md) y
 
 Las dos comparten la mayoría de las funciones, pero difieren en lo que más pesa al elegir. Excel
 limita por filas (1.048.576) y Sheets por celdas totales (20 millones desde septiembre de 2026). Excel
-tiene Power Query y VBA; Sheets tiene QUERY, IMPORTRANGE y Apps Script, y vive siempre en la nube.
-Una función nueva puede existir en Microsoft 365 y no en Excel 2019: BUSCARX falla si el archivo lo
-abre alguien con una versión vieja. La [ficha de equivalencias](Formulas/equivalencias-de-funciones.md) dice qué existe dónde.
+tiene [Power Query](Datos-en-la-planilla/power-query.md) y [VBA](Automatizar-y-compartir/macros.md);
+Sheets tiene [QUERY e IMPORTRANGE](Datos-en-la-planilla/power-query.md) y
+[Apps Script](Automatizar-y-compartir/apps-script.md), y vive siempre en la nube.
+Una función nueva puede existir en Microsoft 365 y no en Excel 2019: según un resumen de la ayuda de
+Microsoft, [BUSCARX](Formulas/funciones-de-busqueda.md) da error al editar la fórmula si el archivo
+lo abre alguien con una versión vieja. La [ficha de equivalencias](Formulas/equivalencias-de-funciones.md) dice qué existe dónde.
 
 ## Qué leer según lo que estés haciendo
 
@@ -94,8 +99,17 @@ abre alguien con una versión vieja. La [ficha de equivalencias](Formulas/equiva
 - Si una fórmula da error o un número raro: [errores de fórmula](Modelo-de-la-planilla/errores-de-formula.md),
   [tipos de dato](Modelo-de-la-planilla/tipos-de-dato.md) y [revisar una planilla](Diseno-de-planillas/revisar-una-planilla.md).
 - Si tenés que decidir un precio o una cantidad que cumpla una meta: [análisis de escenarios](Analisis/analisis-de-escenarios.md).
-- Si tenés que elegir entre Excel y Google Sheets: la [ficha de aplicaciones](aplicaciones-de-planillas.md) y
+- Si tenés que elegir entre Excel y Google Sheets: la [ficha de aplicaciones](aplicaciones-de-planillas.md),
+  la [ficha de equivalencias de funciones](Formulas/equivalencias-de-funciones.md) y
   [compartir y colaborar](Automatizar-y-compartir/compartir-y-colaborar.md).
+- Si tenés que armar una planilla de stock que usan varias personas a la vez: no hay nota de diseño de
+  stock todavía; lo más cercano es [cuándo pasar a una base](cuando-pasar-a-una-base.md) (la señal de
+  dos personas descontando el mismo producto),
+  [compartir y colaborar](Automatizar-y-compartir/compartir-y-colaborar.md),
+  [entradas, cálculo y salidas](Diseno-de-planillas/entradas-calculo-salidas.md) y
+  [datos ordenados](Datos-en-la-planilla/datos-ordenados.md); y
+  [concurrencia](../Bases-de-datos/Transacciones/concurrencia.md) para entender por qué dos descuentos
+  simultáneos se pisan.
 - Si la planilla se volvió lenta, la editan muchos o se pierden datos: [cuándo pasar a una base](cuando-pasar-a-una-base.md).
 
 ## Orden de lectura
@@ -103,6 +117,7 @@ abre alguien con una versión vieja. La [ficha de equivalencias](Formulas/equiva
 Para quien escribe fórmulas simples: [Modelo de la planilla](Modelo-de-la-planilla/modelo-de-la-planilla.md), después
 [Datos en la planilla](Datos-en-la-planilla/datos-en-la-planilla.md) y [Fórmulas](Formulas/formulas.md), y
 [Diseño de planillas](Diseno-de-planillas/diseno-de-planillas.md) antes de armar una planilla que dure. Análisis y
-Automatizar y compartir se leen cuando hace falta.
+Automatizar y compartir se leen cuando hace falta. El [glosario](Fundamentos/glosario-de-planillas.md)
+queda a mano para cualquier término que aparezca sin explicar.
 
 - [Fundamentos](Fundamentos/fundamentos-de-planillas.md) — historia, enfoques en conflicto, bibliografía y glosario.

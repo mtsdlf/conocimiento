@@ -39,7 +39,7 @@ Implementa la comparación que usan [planillas de cálculo](planillas-de-calculo
 |---|---|---|
 | Excel de Microsoft 365 | Suscripción con mejoras continuas. Según Microsoft, "Microsoft 365 already has all the features included in Office 2024 and Office LTSC 2024, plus additional collaboration, productivity, and security features." | [FAQ de Office 2024](https://support.microsoft.com/office/office-2024-and-office-ltsc-2024-faq-1c454a7d-3d0a-4139-b1bd-c61725ea436c) |
 | Excel 2024 | Compra única. Incluye "only a subset of the features" de Microsoft 365. Fin de soporte: 2029-10-09. La versión de consumo sigue la Modern Lifecycle Policy; la comercial (LTSC) tiene 5 años fijos. Office 2024 en Windows 10 no tiene extensión de actualizaciones de seguridad; las apps de Microsoft 365 en Windows 10 las reciben hasta el 2028-10-10 | [Ciclo de vida de Office 2024](https://learn.microsoft.com/lifecycle/products/office-2024) |
-| Excel para la web | En el navegador; corre Office Scripts y Power Query (ver y actualizar consultas está disponible para todos los suscriptores de Microsoft 365) | [Office Scripts](https://learn.microsoft.com/en-us/office/dev/scripts/overview/excel), [Power Query en la web](https://support.microsoft.com/excel/use-power-query-in-excel-for-the-web) |
+| Excel para la web | En el navegador; corre Office Scripts y, según la página de ayuda, Power Query (ver y actualizar consultas está disponible para todos los suscriptores de Microsoft 365). Otra página de Microsoft lo contradice: la discrepancia está en [Power Query](Datos-en-la-planilla/power-query.md) | [Office Scripts](https://learn.microsoft.com/en-us/office/dev/scripts/overview/excel), [Power Query en la web](https://support.microsoft.com/excel/use-power-query-in-excel-for-the-web) |
 | Google Sheets | En la nube, sin versiones. Automatiza con Apps Script (JavaScript) | [Límites de Drive](https://support.google.com/drive/answer/37603) |
 | LibreOffice Calc | Libre y gratuito. Vigente: **26.8.3** ("LibreOffice 26.8 is our latest stable release"); la página también ofrece la 26.2.7, y la 27.2.0.0 alpha1 es un prelanzamiento | [Descarga de LibreOffice](https://www.libreoffice.org/download/download-libreoffice/) |
 
@@ -53,10 +53,10 @@ Implementa la comparación que usan [planillas de cálculo](planillas-de-calculo
 | Caracteres por celda | 32.767 | Al convertir de Excel, se eliminan las celdas con más de 50.000 caracteres | Sin verificar |
 | Caracteres por fórmula | 8.192 | Sin verificar | Sin verificar |
 | Precisión | 15 dígitos | Sin verificar | Sin verificar |
-| Usuarios a la vez | 256 en un libro compartido | Sin verificar | — |
+| Usuarios a la vez | 256 en el modo antiguo de «libro compartido» ("Allow changes by more than one user"), que no admite tablas; no es el límite de la coautoría, que no se verificó | Sin verificar | — |
 | Libros abiertos, hojas | Dependen de la memoria | Sin verificar | Sin verificar |
 
-El límite de Sheets subió de 10 a 20 millones de celdas, según el anuncio de Google del 2026-09-10, para archivos nuevos, existentes e importados (.xlsx y CSV), sin control de administrador. El despliegue empezó el 2026-09-10 en Rapid Release y el 2026-09-28 en Scheduled Release, con hasta 15 días de demora. El límite anterior, de 10 millones, regía desde marzo de 2022. Google anunció también un aumento del tamaño de archivo importado como "coming soon", sin fecha. Ninguna fuente leída menciona el máximo de columnas de Sheets.
+El límite de Sheets subió de 10 a 20 millones de celdas, según el anuncio de Google del 2026-09-10, para archivos nuevos, existentes e importados (.xlsx y CSV), sin control de administrador. El despliegue empezó el 2026-09-10 en Rapid Release y el 2026-09-28 en Scheduled Release, con hasta 15 días de demora. El límite anterior, de 10 millones, regía desde marzo de 2022, según el título de un anuncio de Google de 2022 que no se leyó. Google anunció también un aumento del tamaño de archivo importado como "coming soon", sin fecha. Ninguna fuente leída menciona el máximo de columnas de Sheets.
 
 > [!NOTE] Sin fuente todavía: los límites de filas y columnas de LibreOffice Calc y el máximo de columnas de Google Sheets.
 
@@ -66,7 +66,7 @@ El límite de Sheets subió de 10 a 20 millones de celdas, según el anuncio de 
 |---|---|---|---|
 | Programar | VBA | Office Scripts | Apps Script |
 | Bloqueo de macros de internet | Sí, en Windows (desde 2022) | No aplica | No aplica |
-| Coautoría | Con archivo en OneDrive o SharePoint Online y suscripción a Microsoft 365 | Sin verificar | Siempre |
+| Coautoría | Con archivo en OneDrive o SharePoint Online y suscripción a Microsoft 365 | Sin verificar | Siempre, sin fuente: es inferencia de que el archivo vive en la nube |
 | Tiempo máximo de una función propia | — | — | 30 s por llamada a función personalizada |
 
 Si Excel para la web ejecuta VBA no está verificado. El detalle de cada fila está en [macros](Automatizar-y-compartir/macros.md), [Apps Script](Automatizar-y-compartir/apps-script.md) y [compartir y colaborar](Automatizar-y-compartir/compartir-y-colaborar.md).

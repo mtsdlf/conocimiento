@@ -41,7 +41,7 @@ a la celda equivocada y devuelve un número creíble; de esa se ocupan
 [errores en planillas](../Diseno-de-planillas/errores-en-planillas.md) y
 [revisar una planilla](../Diseno-de-planillas/revisar-una-planilla.md). Leer un error empieza por
 la celda donde nace: como se propaga, el total que muestra #¡REF! puede no tener la culpa, y hay
-que seguir sus precedentes hasta la primera celda con error.
+que seguir sus precedentes (las celdas de las que toma valores) hasta la primera celda con error.
 
 ## Qué dice cada error
 
@@ -73,8 +73,10 @@ En Sheets, la función TIPO.DE.ERROR (ERROR.TYPE) devuelve un número por tipo d
 8: #NULL!, #DIV/0!, #VALOR!, #REF!, #NAME?, #NUM!, #N/A y "todos los demás errores".
 
 > [!NOTE]
-> Sin fuente todavía: una página de Google que liste los errores de Sheets y sus causas, y el
-> error #ERROR! de Sheets (de análisis de la fórmula), que no apareció en ninguna página oficial.
+> Sin fuente todavía: una página de Google que liste los errores de Sheets y sus causas. El error
+> #ERROR! de Sheets aparece en la guía oficial de funciones personalizadas de Apps Script, como lo que
+> muestra la celda cuando la función tarda más de 30 segundos ([Apps Script](../Automatizar-y-compartir/apps-script.md));
+> sus otras causas no se encontraron en páginas oficiales.
 
 ## Atrapar un error no es arreglarlo
 
@@ -105,7 +107,7 @@ Microsoft define una función volátil como aquella "whose value cannot be assum
 from one moment to the next", y Excel la recalcula, con todo lo que depende de ella, en cada
 recálculo de cualquier celda. La recomendación de Microsoft es "Use them sparingly". En una
 planilla de ventas con miles de filas, un DESREF (OFFSET) o un INDIRECTO (INDIRECT) en cada fila
-puede hacer que cada cambio tarde segundos.
+puede hacer que cada cambio tarde segundos (inferencia, sin medición que lo respalde).
 
 > [!IMPORTANT]
 > Las fuentes no coinciden en la lista de funciones volátiles. Las tres coinciden en AHORA (NOW),
@@ -125,7 +127,7 @@ La salida práctica es reemplazar DESREF e INDIRECTO por INDICE, que no es volá
 una sola celda a la que apunten las demás, en lugar de repetirla en cada fila (lo último es
 inferencia).
 
-Excel tiene tres modos de cálculo: automático, automático excepto tablas de datos, y manual. En
+Excel tiene tres modos de cálculo: automático, automático excepto [tablas de datos](../Analisis/analisis-de-escenarios.md), y manual. En
 manual, F9 recalcula lo pendiente y Ctrl+Alt+F9 recalcula todo en todos los libros abiertos. Una
 planilla en manual muestra valores viejos hasta que alguien recalcula: si un total no cambia al
 cambiar un dato, lo primero es mirar el modo. La página de HOY lo dice para su caso: si no se

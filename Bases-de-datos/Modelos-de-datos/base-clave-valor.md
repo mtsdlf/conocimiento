@@ -58,8 +58,8 @@ documentación ofrece cuatro opciones:
 | AOF | Un registro de cada escritura; por defecto `appendfsync everysec` | Con ese defecto, "you can only lose one second worth of writes" |
 | RDB más AOF | Las dos a la vez | Lo de AOF, con fotos para recuperar más rápido |
 
-Para una caché, perder todo es aceptable: se reconstruye desde la base principal. Para carritos, un
-segundo puede alcanzar. Si se quiere usar Redis como base principal, la propia documentación pide
+Para una caché, perder todo es aceptable: se reconstruye desde la base principal. Para carritos, por
+inferencia propia, perder un segundo puede ser aceptable. Si se quiere usar Redis como base principal, la propia documentación pide
 combinar RDB y AOF para lograr "a degree of data safety comparable to what PostgreSQL can provide
 you". Esa persistencia es un requisito que se pide al
 [elegir una base administrada](../Elegir-una-base/base-administrada.md).

@@ -86,14 +86,17 @@ Lo que dice Microsoft sobre cómo se usa:
 - **Restricciones**: <=, =, >=, int (entero), bin (binario, 0 o 1) y dif (todos distintos). Las tres
   últimas solo se aplican sobre celdas de decisión.
 - **Tres métodos**: GRG Nonlinear, para problemas "smooth nonlinear"; Simplex LP, para problemas
-  "linear"; y Evolutionary, para los "non-smooth". Con precios y costos unitarios fijos, la ganancia es
-  una suma de cantidades por márgenes: el problema es lineal y corresponde Simplex LP.
+  "linear"; y Evolutionary, para los "non-smooth".
+
+Con precios y costos unitarios fijos, la ganancia es una suma de cantidades por márgenes, así que el
+problema del ejemplo es lineal; elegir Simplex LP para él es inferencia de esta nota, no algo que diga
+Microsoft.
 
 ## Qué hay en Google Sheets
 
-Sheets no trae ninguna de estas herramientas como función propia. Google anunció el 9 de octubre de
+En Sheets no se encontró ninguna de estas herramientas como función propia. Google anunció el 9 de octubre de
 2019 un complemento de Buscar objetivo (Goal Seek) para Sheets, según el resumen del anuncio; no se
-encontró una versión nativa posterior. No hay un Solver de Google: hay complementos de terceros en el
+encontró una versión nativa posterior. No se encontró un Solver de Google; lo que aparece son complementos de terceros en el
 Marketplace de Workspace, con límites distintos. Según sus fichas, Optimization Solver admite hasta
 50 variables de decisión, y SolveSheet cobra su solver no lineal y resuelve el modelo en un servicio
 externo.

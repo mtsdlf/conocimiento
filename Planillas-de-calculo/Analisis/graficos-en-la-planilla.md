@@ -56,8 +56,9 @@ Cómo se crea depende de la plataforma, según Microsoft:
 - **Excel para la web**: también hay que crear antes la tabla dinámica y después insertar un gráfico
   desde la pestaña Insert.
 
-El examen de Excel experto de Microsoft (MO-211) incluye los gráficos dinámicos en su dominio
-"Manage advanced charts and tables".
+El examen de Excel experto de Microsoft (MO-211) tiene un dominio "Manage advanced charts and
+tables" (25 a 30 % del examen). Solo se conocen su nombre y su peso; que incluya los gráficos
+dinámicos es inferencia.
 
 > [!NOTE]
 > Sin fuente todavía: cómo se hace un gráfico que siga a una tabla dinámica en Google Sheets.

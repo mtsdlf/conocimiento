@@ -32,15 +32,23 @@ en [concurrencia](concurrencia.md).
 ## Un pedido con BEGIN, COMMIT y ROLLBACK
 
 En PostgreSQL una transacción se arma rodeando las sentencias con `BEGIN` y `COMMIT`. Con las
-tablas de un comercio, confirmar un pedido queda así:
+tablas de [definir tablas](../SQL/definir-tablas.md), confirmar un pedido de Bruno (cliente 2) por
+un Mate (producto 2) queda así:
 
 ```sql
 BEGIN;
-INSERT INTO pedidos (id, cliente_id, fecha) VALUES (1001, 42, now());
-INSERT INTO items_pedido (pedido_id, producto_id, cantidad) VALUES (1001, 7, 1);
-UPDATE productos SET stock = stock - 1 WHERE id = 7;
+INSERT INTO pedidos (cliente_id) VALUES (2) RETURNING id;   -- devuelve el id nuevo: 5
+INSERT INTO items_pedido (pedido_id, producto_id, cantidad, precio_unitario)
+  VALUES (5, 2, 1, 12000);                                  -- el Mate, al precio de hoy
+UPDATE productos SET stock = stock - 1 WHERE id = 2;
 COMMIT;
 ```
+
+El id del pedido lo genera la base (`GENERATED ALWAYS AS IDENTITY`), así que no se escribe:
+`RETURNING` lo devuelve y la aplicación lo usa en el ítem. Con los datos iniciales de la
+[ruta de SQL](../Fundamentos/ruta-de-sql.md) sale el 5; se comprobó al ejecutarlo en PostgreSQL
+18.4. El `UPDATE` de este ejemplo descuenta sin mirar si queda stock; cómo descontar sin vender lo
+que no hay está en [concurrencia](concurrencia.md).
 
 Si a mitad de camino la aplicación decide no seguir (el cliente canceló, el pago falló), manda
 `ROLLBACK` en lugar de `COMMIT` y "all our updates so far will be canceled". Si una sentencia da

@@ -27,9 +27,10 @@ se agregan filas y se referencia por el nombre de sus columnas. Es la "tabla de 
 Las dos se llaman "tabla" en la interfaz y hacen cosas opuestas. La tabla estructurada es donde se
 guardan los datos crudos, fila por fila: la lista de ventas, el catálogo de productos. La
 [tabla dinámica](../Analisis/tabla-dinamica.md) lee esos datos y muestra un resumen (ventas por mes y
-por producto) que no se edita a mano. Lo normal es usarlas juntas: la tabla estructurada como origen
-y la dinámica como salida. Microsoft lo recomienda así, porque si el origen es una tabla de Excel las
-filas nuevas entran con más facilidad en la tabla dinámica.
+por producto) que no se edita a mano. Conviene usarlas juntas: la tabla estructurada como origen
+y la dinámica como salida. Lo que dice la página de Microsoft es que, si el origen es una tabla de
+Excel, las filas nuevas entran con más facilidad en la tabla dinámica; la recomendación de usarlas
+juntas es inferencia de eso.
 
 ## Por qué conviene: crece sola
 
@@ -58,8 +59,9 @@ dar un nombre único a cada columna. Después se le pone a la tabla un nombre qu
 (Ventas, Productos), porque ese nombre aparece en cada fórmula.
 
 En Google Sheets: Format > Convert to table. Google la anunció el 8 de mayo de 2024, para todas las
-ediciones de Workspace y las cuentas personales. Las referencias usan el mismo formato que Excel
-(`Task_tracker[Priority]` en el ejemplo de Google), y en noviembre de 2024 se mejoraron.
+ediciones de Workspace y las cuentas personales. Las referencias se escriben como
+`Task_tracker[Priority]` en el ejemplo de Google; que sea el mismo formato que en Excel es inferencia
+por la forma, sin comparación oficial, y en noviembre de 2024 se mejoraron.
 
 ## Qué cambia entre las dos
 

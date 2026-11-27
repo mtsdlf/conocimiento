@@ -9,6 +9,7 @@ fuentes:
   - "PostgreSQL Documentation, 4.2.7 Aggregate Expressions: https://www.postgresql.org/docs/current/sql-expressions.html"
   - "PostgreSQL Documentation, 7.2.3 y 7.2.4 GROUP BY, HAVING, GROUPING SETS, CUBE y ROLLUP: https://www.postgresql.org/docs/current/queries-table-expressions.html"
   - "PostgreSQL Documentation, SELECT: https://www.postgresql.org/docs/current/sql-select.html"
+  - "MySQL 8.4 Reference Manual, MySQL Handling of GROUP BY: https://dev.mysql.com/doc/refman/8.4/en/group-by-handling.html"
   - "Markus Winand, modern-sql.com, The filter clause: https://modern-sql.com/feature/filter"
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [GROUP BY, HAVING, funciones de agregado, aggregate functions, agrupar]
@@ -77,7 +78,9 @@ GROUP BY c.nombre;
 
 Agrupar por `c.id`, la clave primaria, sí deja usar `c.nombre` y `c.ciudad` en PostgreSQL (se
 comprobó al ejecutarlo): con la clave fija, el resto de las columnas de esa tabla tiene un solo
-valor. Otros motores piden listarlas todas.
+valor. No todos los motores detectan esa dependencia funcional, y donde no la detectan hay que
+listar todas las columnas en `GROUP BY`; MySQL 8.4 sí la detecta, según su manual: "MySQL implements
+detection of functional dependence".
 
 ## count(*) y count(columna) cuentan cosas distintas
 

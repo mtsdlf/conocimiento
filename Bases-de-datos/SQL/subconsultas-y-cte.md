@@ -67,7 +67,16 @@ si no hay coincidencia "and at least one right-hand row yields null, the result 
 construct will be null, not true".
 
 Con una columna `referido_por` en `clientes`, que dice qué cliente recomendó a cada uno y está vacía
-para casi todos, la pregunta "clientes que no recomendaron a nadie" escrita con `NOT IN`:
+para casi todos, la pregunta "clientes que no recomendaron a nadie" escrita con `NOT IN`. La
+columna no está en el script de la [ruta de SQL](../Fundamentos/ruta-de-sql.md); para reproducir el
+ejemplo, se agrega así (Ana recomendó a Bruno):
+
+```sql
+ALTER TABLE clientes ADD COLUMN referido_por integer REFERENCES clientes (id);
+UPDATE clientes SET referido_por = 1 WHERE id = 2;
+```
+
+La consulta:
 
 ```sql
 SELECT nombre FROM clientes
@@ -167,7 +176,16 @@ LATERAL subquery produces no rows for them". No todos los motores lo tienen: SQL
 
 Es la pregunta de "el último (o el mayor) de cada grupo". Las cuatro formas son ejemplos propios:
 la documentación da los ingredientes pero no el caso completo. Se ejecutaron en PostgreSQL 18.4 con
-un empate a propósito: Bruno tiene dos pedidos con la misma fecha y hora (ids 3 y 5).
+un empate a propósito: Bruno tiene dos pedidos con la misma fecha y hora (ids 3 y 5). El pedido 5
+no está en el script de la [ruta de SQL](../Fundamentos/ruta-de-sql.md); se agrega con:
+
+```sql
+INSERT INTO pedidos (cliente_id, fecha, envio)
+VALUES (2, '2026-11-15 09:00-03', 0) RETURNING id;   -- 5 sobre los datos de la ruta
+```
+
+`DELETE FROM pedidos WHERE id = 5;` lo saca después, para que los resultados de las otras notas
+coincidan.
 
 **1. Subconsulta correlacionada.** Anda en cualquier motor.
 

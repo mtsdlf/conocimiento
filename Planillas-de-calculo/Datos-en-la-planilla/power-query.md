@@ -78,7 +78,8 @@ todo. Lo que dicen al 2026-11-27:
 - **Web**: se pueden crear consultas desde un libro de Excel, Text/CSV, XML, JSON, SQL Server, lista
   de SharePoint Online y OData, y actualizarlas con Data > Refresh All. "Viewing and refreshing
   queries is available to all Microsoft 365 Subscribers." Otra página dice que en la web no se
-  actualizan las consultas cargadas al Modelo de Datos y que el límite es de 1000 conexiones por
+  actualizan las consultas cargadas al Modelo de Datos (el almacén interno de Excel donde se cargan
+  varias tablas para relacionarlas) y que el límite es de 1000 conexiones por
   usuario. Según una publicación del blog de Microsoft de julio de 2025, la actualización con
   fuentes autenticadas seleccionadas ya está disponible de forma general.
 - **Android e iOS**: no está soportado.
@@ -103,7 +104,7 @@ pedazos distintos del trabajo de Power Query, y ninguna de ellas lo repite:
 |---|---|---|---|
 | IMPORTRANGE | trae un rango de otra hoja de cálculo de Google | importar | limpiar, transformar, otros formatos de archivo |
 | QUERY | consulta un rango con cláusulas tipo SQL | filtrar, agrupar, pivotar | importar, pasos grabados, interfaz gráfica |
-| Connected Sheets | conecta la hoja con BigQuery | trabajar sobre datos grandes | no es para archivos sueltos ni para un negocio chico |
+| Connected Sheets | conecta la hoja con BigQuery, el almacén de datos de Google Cloud | trabajar sobre datos grandes | no es para archivos sueltos ni para un negocio chico |
 
 **IMPORTRANGE** tiene la sintaxis `IMPORTRANGE(spreadsheet_url, range_string)`, con coma en la
 documentación en inglés; en una hoja configurada en castellano se escribe con punto y coma:

@@ -32,7 +32,7 @@ Casi todo es gratuito y está en línea. Las ideas de cada fuente están reparti
 
 **ICAEW, *Financial Modelling Code*** (2018, edición 2024). [PDF gratuito](https://www.icaew.com/-/media/corporate/files/technical/technology/excel-community/financial-modelling-code.ashx). Es la referencia principal de [entradas, cálculo y salidas](../Diseno-de-planillas/entradas-calculo-salidas.md) y de [revisar una planilla](../Diseno-de-planillas/revisar-una-planilla.md). Leer los principios #9 (separar entradas, cálculos y salidas), #12 (fórmulas consistentes), #14 (sin números fijos en las fórmulas), #15 (un solo lugar por dato), #17 (controles) y #18 (revisar y probar). Fijarse en que está escrito para modelos financieros: hay que traducir cada principio a una planilla de costos o de stock. Se apoya en los «Twenty principles for good spreadsheet practice» del mismo instituto, cuya lista completa la investigación no abrió.
 
-**FAST Standard.** [Página del estándar](https://www.fast-standard.org/the-fast-standard/). La segunda referencia de diseño, más detallada en reglas de construcción. La versión enlazada es la 02c de julio de 2019, según el nombre del archivo. Leer el PDF de reglas, que la investigación no leyó; fijarse en si hay una edición posterior.
+**FAST Standard.** [Página del estándar](https://www.fast-standard.org/the-fast-standard/). La segunda referencia de diseño; según un resumen de buscador, más detallada en reglas de construcción (ICAEW diría qué lograr y FAST cómo construirlo), algo que no se contrastó porque el PDF no se leyó. La versión enlazada es la 02c de julio de 2019, según el nombre del archivo. Leer el PDF de reglas, que la investigación no leyó; fijarse en si hay una edición posterior.
 
 ## Para saber cuánto fallan las planillas
 

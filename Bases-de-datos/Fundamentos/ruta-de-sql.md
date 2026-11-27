@@ -23,7 +23,9 @@ ejercicio para hacer solo, con las respuestas escondidas y los recursos de prác
 
 Cada paso corresponde a una nota de la vertical [SQL](../SQL/sql.md), que tiene la explicación
 completa. La ruta da por sabido usar una planilla y nada más. Todas las respuestas salieron de
-ejecutar las consultas en PostgreSQL 18.4 el 2026-11-27.
+ejecutar las consultas en PostgreSQL 18.4 el 2026-11-27, y lo que se dice de SQLite, en SQLite
+3.53.2: son las versiones que había instaladas, distintas de las vigentes de la
+[ficha de motores](../Elegir-una-base/motores-de-bases-de-datos.md).
 
 ## Cómo usar cada paso
 
@@ -543,8 +545,9 @@ INSERT INTO clientes (nombre, email)
 SELECT 'Cliente ' || g, 'c' || g || '@example.com' FROM generate_series(1, 5000) g;
 
 INSERT INTO pedidos (cliente_id, fecha)
-SELECT 5 + (g % 5000), timestamptz '2025-01-01' + g * interval '5 minutes'
-FROM generate_series(1, 100000) g;
+SELECT c.id, timestamptz '2025-01-01' + g * interval '5 minutes'
+FROM generate_series(1, 100000) g
+JOIN clientes c ON c.email = 'c' || (1 + g % 5000) || '@example.com';
 
 ANALYZE;
 EXPLAIN ANALYZE SELECT * FROM pedidos WHERE cliente_id = 42;   -- Seq Scan
@@ -553,7 +556,11 @@ CREATE INDEX pedidos_cliente_id_idx ON pedidos (cliente_id);
 EXPLAIN ANALYZE SELECT * FROM pedidos WHERE cliente_id = 42;   -- Bitmap Index Scan
 ```
 
-`generate_series` es de PostgreSQL. Compará el `Execution Time` de los dos planes.
+`generate_series` es de PostgreSQL. Cada cliente generado queda con 20 pedidos, y la tabla, con
+100.004 (los 4 del script inicial más los 100.000). Los pedidos se asignan por email y no por número
+de cliente porque un `INSERT ... ON CONFLICT` del paso 7 gasta números de la secuencia aunque no
+inserte ni se confirme, y los clientes nuevos pueden no empezar en el 5. Compará el
+`Execution Time` de los dos planes.
 
 **Caso modificado.** Creá un índice en `pedidos (fecha)` y mirá el plan de
 `SELECT count(*) FROM pedidos WHERE fecha::date = '2025-06-01';`. ¿Usa el índice?

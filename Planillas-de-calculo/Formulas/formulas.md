@@ -39,12 +39,13 @@ cálculo que con operadores sería largo o imposible: `=SUMA(D2:D500)`, `=BUSCAR
 argumentos entre paréntesis y devuelve un resultado, que puede entrar en otra función.
 
 En una planilla en castellano los nombres de las funciones están traducidos: SUMA es SUM, SI es
-IF, BUSCARX es XLOOKUP. Los foros y buena parte de la documentación están en inglés, así que cada
+IF, BUSCARX es XLOOKUP (en Excel; Sheets la deja como XLOOKUP). Los foros y buena parte de la documentación están en inglés, así que cada
 nota da los dos nombres, y la [ficha de equivalencias](equivalencias-de-funciones.md) los junta.
 
 El separador de argumentos depende de la configuración regional. En Excel es el "separador de
-listas" de Windows, que en inglés de Estados Unidos es la coma; en las planillas en castellano con
-coma decimal se usa el punto y coma, y así se escriben los ejemplos de este tema:
+listas" de Windows, que en inglés de Estados Unidos es la coma, según Microsoft. Que en las
+planillas en castellano con coma decimal sea el punto y coma es lo habitual, pero no tiene fuente
+oficial (solo respuestas de foros); así se escriben los ejemplos de este tema:
 `=SI(C2<D2; "Reponer"; "")`. Una fórmula copiada de un foro en inglés hay que pasarla de `,` a `;`.
 Por qué, en [tipos de dato](../Modelo-de-la-planilla/tipos-de-dato.md#la-configuración-regional-decide-la-coma-y-el-punto).
 
@@ -74,15 +75,19 @@ Las fallas más caras no son de sintaxis, que la planilla marca, sino de diseño
   y mantener (ver [funciones lógicas](funciones-logicas.md)). Partir el cálculo en columnas
   auxiliares, o nombrar los pasos con LET, hace que otro pueda revisarlo.
 - **Errores tapados.** Un SI.ERROR que cubre todo esconde las referencias rotas.
-- **Funciones que no existen en la versión del que abre el archivo.** BUSCARX, FILTRAR o LAMBDA
-  dan #¿NOMBRE? en versiones viejas de Excel.
+- **Funciones que no existen en la versión del que abre el archivo.** Para BUSCARX, según un
+  resumen de la ayuda de Microsoft, una versión vieja de Excel muestra el resultado guardado y da
+  #¿NOMBRE? al reescribir la fórmula. Que FILTRAR o LAMBDA se comporten igual no se verificó.
 
 Cuánto fallan las fórmulas en planillas reales está en
 [errores en planillas](../Diseno-de-planillas/errores-en-planillas.md).
 
 ## Qué cambia entre Excel y Sheets
 
-Las dos comparten la mayoría de las funciones y casi todos sus nombres en castellano. Las
+Las dos comparten la mayoría de las funciones y muchos de sus nombres en castellano, pero no
+todos: en la lista de Google en castellano, XLOOKUP, FILTER, SORT, UNIQUE, LET y LAMBDA quedan en
+inglés, mientras que BUSCARV o SUMAR.SI.CONJUNTO están traducidas (detalle en la
+[ficha de equivalencias](equivalencias-de-funciones.md)). Las
 diferencias que más pesan:
 
 - **Versiones.** Sheets es una sola versión para todos. En Excel, una función nueva puede existir

@@ -61,7 +61,8 @@ Ahora salen cinco filas, y la de Carla trae `pedido` vacío. Es el join de las p
 
 `RIGHT JOIN` es lo mismo con los lados cambiados. La documentación de MySQL recomienda no usarlo:
 "To keep code portable across databases, it is recommended that you use LEFT JOIN instead of RIGHT
-JOIN". `FULL JOIN` conserva las filas sin pareja de los dos lados; PostgreSQL y SQLite lo tienen, y
+JOIN". `FULL JOIN` conserva las filas sin pareja de los dos lados; PostgreSQL y SQLite lo tienen (en
+SQLite, comprobado en 3.53.2), y
 la gramática de JOIN de MySQL 8.4 no lo documenta (ver la [ficha de dialectos](dialectos-de-sql.md)).
 
 ## ON contra WHERE en un left join

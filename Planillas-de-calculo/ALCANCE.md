@@ -35,7 +35,7 @@ Planillas-de-calculo/
   Modelo-de-la-planilla/      cómo piensa una planilla
     celda-y-referencia        relativas, absolutas, rangos con nombre
     tipos-de-dato             número, texto, fecha como número; formato contra valor
-    errores-de-formula        #N/A, #REF!, #VALUE!, circulares; recálculo
+    errores-de-formula        #N/A, #¡REF!, #¡VALOR!, circulares; recálculo
   Formulas/
     funciones-logicas         SI, Y, O, SI.CONJUNTO, SI.ERROR
     funciones-de-busqueda     BUSCARV, INDICE y COINCIDIR, BUSCARX

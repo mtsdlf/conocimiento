@@ -103,8 +103,8 @@ SELECT 0.1::float8 + 0.2::float8 = 0.3::float8 AS flotante,   -- falso
        0.1::numeric + 0.2 = 0.3 AS numerico;                  -- verdadero
 ```
 
-El costo es velocidad: `numeric` es más lento que los enteros y los flotantes, algo que no se nota
-en el volumen de un comercio. Las columnas de precio del comercio son `numeric(12,2)`: hasta 12
+El costo es velocidad: `numeric` es más lento que los enteros y los flotantes, algo que, por
+inferencia propia (no se midió), no se nota en el volumen de un comercio. Las columnas de precio del comercio son `numeric(12,2)`: hasta 12
 dígitos, dos de ellos decimales.
 
 Otra trampa de tipos: la división entre enteros descarta los decimales. `7 / 2` da 3; `7 / 2.0` o

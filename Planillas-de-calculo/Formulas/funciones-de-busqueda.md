@@ -13,6 +13,8 @@ fuentes:
   - "Microsoft, XLOOKUP function: https://support.microsoft.com/en-us/office/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929"
   - "Microsoft Excel Blog, Announcing XLOOKUP (2019-08-28): https://techcommunity.microsoft.com/blog/excelblog/announcing-xlookup/811376 (según un resumen)"
   - "Google, XLOOKUP: https://support.google.com/docs/answer/12405947 (según un resumen)"
+  - "Microsoft, XLOOKUP function (versiones viejas; según un resumen de buscador): https://support.microsoft.com/excel/functions/xlookup-function"
+  - "Google, lista de funciones de Hojas de cálculo en español (2026-11-27): https://support.google.com/docs/table/25273?hl=es"
   - "Exceljet, XLOOKUP function: https://exceljet.net/functions/xlookup-function (según un resumen)"
   - "Exceljet, INDEX function: https://exceljet.net/functions/index-function (según un resumen)"
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 2.2; Planillas-de-calculo/.investigacion/posicion-contraria-y-fundamentos.md, B2"
@@ -28,7 +30,8 @@ producto por su código, el nombre de un cliente por su CUIT. Hay tres formas de
 BUSCARV, INDICE con COINCIDIR y BUSCARX, y difieren en hacia dónde buscan, qué hacen si no
 encuentran y en qué versiones existen.
 
-Es la operación que más se repite en una planilla de negocio: la lista de ventas tiene el código
+La clave es el dato que identifica cada fila sin repetirse, como un código de producto o el CUIT
+(el número de identificación tributaria argentino). Es la operación que más se repite en una planilla de negocio: la lista de ventas tiene el código
 del producto y la lista de precios tiene el precio, y hay que juntarlas. En una base de datos lo
 mismo se hace con un [JOIN](../../Bases-de-datos/SQL/join.md); en la planilla, con una fórmula por
 fila. Si las dos listas son archivos que llegan todos los meses, conviene juntarlas con
@@ -46,17 +49,19 @@ castellano con coma decimal los argumentos se separan con `;`:
 ```
 
 Trae, para el código de A2, lo que está en la tercera columna de la hoja Precios. Tiene cuatro
-trampas, todas documentadas por Microsoft:
+trampas. Microsoft documenta el núcleo de las cuatro; dos detalles que no están en su página se
+marcan como inferencia:
 
 - **La coincidencia aproximada es la predeterminada.** Si se omite el cuarto argumento, BUSCARV
-  "assumes the first column in the table is sorted" y, si no encuentra el valor exacto, devuelve
-  el de la fila anterior sin avisar. Para buscar códigos, clientes o productos hay que poner
+  "assumes the first column in the table is sorted". Que, si no encuentra el valor exacto, devuelva
+  sin avisar el de la fila anterior no está en la página leída (es el comportamiento conocido de
+  la búsqueda aproximada, sin fuente acá). Para buscar códigos, clientes o productos hay que poner
   `FALSO` (o 0) siempre.
 - **Solo devuelve hacia la derecha.** La clave tiene que estar en la primera columna del rango.
   Si el código está en la columna C y el nombre en la B, BUSCARV no sirve.
-- **El número de columna es fijo.** Si alguien inserta una columna en la lista de precios, el `3`
-  sigue apuntando a la tercera, que ahora es otra. Si el número supera las columnas del rango, da
-  #¡REF!.
+- **El número de columna es fijo.** Si el número supera las columnas del rango, da #¡REF!, según
+  Microsoft. Que al insertar una columna en la lista de precios el `3` siga apuntando a la tercera,
+  que ahora es otra, es inferencia: la página no lo dice.
 - **Números guardados como texto y espacios de más** hacen que no encuentre el valor aunque se
   vea igual en pantalla. Es un problema de [tipos de dato](../Modelo-de-la-planilla/tipos-de-dato.md).
 
@@ -122,15 +127,17 @@ esconde el #N/A y con él los códigos mal cargados; y las dos matrices de disti
 > [!IMPORTANT]
 > BUSCARX hace todo lo que hace INDICE con COINCIDIR en una fórmula más legible, y Microsoft la
 > recomienda. El argumento a favor de seguir con INDICE y COINCIDIR es que BUSCARX no existe en
-> Excel 2016 ni 2019: según la página de Microsoft, un libro con BUSCARX abierto en una de esas
-> versiones muestra los resultados guardados, pero al volver a escribir la fórmula da #¿NOMBRE?.
-> La misma página se contradice: su lista de versiones incluye Excel 2016 y 2019, y una nota dice
+> Excel 2016 ni 2019: según un resumen de la ayuda de Microsoft
+> (https://support.microsoft.com/excel/functions/xlookup-function; la página de XLOOKUP que se leyó
+> no lo dice), un libro con BUSCARX abierto en una de esas versiones muestra los resultados
+> guardados, pero al volver a escribir la fórmula da #¿NOMBRE?. La página de XLOOKUP se contradice: su lista de versiones incluye Excel 2016 y 2019, y una nota dice
 > "XLOOKUP is not available in Excel 2016 and Excel 2019". Exceljet la da para "Excel 2021+ and
 > Excel 365". Qué versión tiene cada quien se resuelve en la
 > [ficha de equivalencias](equivalencias-de-funciones.md).
 
 La regla práctica que sale de ahí es una inferencia: si todos los que abren el archivo tienen
-Microsoft 365 o Excel 2021 en adelante, o Google Sheets, BUSCARX; si el archivo circula entre
+Microsoft 365 o Excel 2021 en adelante, o Google Sheets (donde se llama XLOOKUP aun en castellano),
+BUSCARX; si el archivo circula entre
 computadoras con versiones viejas, INDICE y COINCIDIR. BUSCARV queda para planillas heredadas,
 siempre con `FALSO`.
 
@@ -145,5 +152,8 @@ Sheets tiene VLOOKUP, INDEX, MATCH y XLOOKUP. XLOOKUP llegó en el anuncio de Go
 24 de agosto de 2022 y su sintaxis es
 `XLOOKUP(search_key, lookup_range, result_range, missing_value, match_mode, search_mode)`, con las
 mismas opciones predeterminadas que en Excel. En Sheets no hay problema de versiones: todos usan
-la misma, así que BUSCARX es la opción directa. Para traer el dato desde otro archivo de Sheets
-hace falta IMPORTRANGE, que está en la [ficha de equivalencias](equivalencias-de-funciones.md).
+la misma, así que XLOOKUP es la opción directa. En la lista de funciones de Google en castellano
+queda sin traducir (no se llama BUSCARX), mientras que BUSCARV, INDICE y COINCIDIR sí están
+traducidas. Para traer el dato desde otro archivo de Sheets hace falta IMPORTRANGE, que explica
+[Power Query](../Datos-en-la-planilla/power-query.md) y figura en la
+[ficha de equivalencias](equivalencias-de-funciones.md).

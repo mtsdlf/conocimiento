@@ -46,7 +46,7 @@ Notas sobre la tabla:
 - **MySQL**: la serie 9.x es la de innovación. Que la 8.4 sea la serie de soporte largo (LTS) no lo
   dice su página de notas; viene del conocimiento previo de quien investigó y queda sin confirmar.
 - **MongoDB**: según la página de notas, la serie anterior a la 9.0 es la 8.3 (y no la 8.2 ni la
-  8.1), y antes la 8.0 y la 7.0. No se contrastó con otra fuente. La 9.0.7 corrigió 27 CVE, según la
+  8.1), y antes la 8.0 y la 7.0. No se contrastó con otra fuente. La 9.0.7 corrigió 27 CVE (vulnerabilidades con identificador público), según la
   misma página.
 - **Redis**: hubo un parche de seguridad el 26 de octubre para la 8.10.3 y ramas anteriores.
 
@@ -59,7 +59,7 @@ Notas sobre la tabla:
 
 | Servicio | Motor | Plan gratis | Restauración a un punto | Planes pagos | Fuente viva |
 |---|---|---|---|---|---|
-| Neon | PostgreSQL | 100 CU-horas por proyecto por mes y 1 GB por proyecto | 6 horas | Launch y Scale, sin cargo mínimo mensual ("No minimum monthly fee"); PITR de hasta 7 días en Launch y hasta 30 en Scale | [Plans](https://neon.com/docs/introduction/plans) |
+| Neon | PostgreSQL | 100 CU-horas (una unidad de cómputo de Neon encendida una hora) por proyecto por mes y 1 GB por proyecto | 6 horas | Launch y Scale, sin cargo mínimo mensual ("No minimum monthly fee"); PITR de hasta 7 días en Launch y hasta 30 en Scale | [Plans](https://neon.com/docs/introduction/plans) |
 | Supabase | PostgreSQL | 500 MB; se pausa tras una semana sin actividad | No: el plan gratis no tiene respaldos automáticos ni PITR | Pro desde USD 25 por mes, con 8 GB y respaldos diarios por 7 días; PITR como extra de USD 100 por mes por 7 días. Team desde USD 599 por mes, con respaldos por 14 días | [Pricing](https://supabase.com/pricing) |
 
 Precios de Neon por uso, según la misma página: Launch a USD 0,106 por CU-hora y USD 0,35 por
@@ -70,6 +70,7 @@ respaldo de [base administrada](base-administrada.md), y el de Neon permite volv
 atrás. Esta lectura es una inferencia a partir de los valores copiados.
 
 > [!NOTE]
-> Sin fuente todavía: el SLA y la política de réplicas de Neon y Supabase, y la retención de
+> Sin fuente todavía: el SLA (acuerdo de nivel de servicio: la disponibilidad que promete el
+> proveedor) y la política de réplicas de Neon y Supabase, y la retención de
 > respaldos y los precios de Amazon RDS. Los servicios de Azure están en
 > [Almacenamiento y bases de datos en Azure](../../Cloud/Datos-operacionales/almacenamiento-y-bases-de-datos-en-azure.md).

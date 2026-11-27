@@ -37,13 +37,13 @@ En Excel varias personas pueden editar el mismo libro a la vez, pero no en cualq
 
 - El archivo guardado en OneDrive, OneDrive para la Empresa o una biblioteca de SharePoint Online. SharePoint local no la admite.
 - Cada persona con una suscripción a Microsoft 365 y la última versión de Excel.
-- Formato `.xlsx`, `.xlsm` o `.xlsb`. El formato Strict Open XML no la admite.
-- AutoSave activado, para que todos vean los cambios y las selecciones de los demás en color.
-- Que el archivo no esté protegido con IRM o RMS.
+- Formato `.xlsx`, `.xlsm` o `.xlsb`. El formato Strict Open XML (una variante más estricta de `.xlsx` que se elige al guardar) no la admite.
+- AutoSave (el guardado automático en la nube) activado, para que todos vean los cambios y las selecciones de los demás en color.
+- Que el archivo no esté protegido con IRM o RMS (la gestión de derechos de Microsoft, que limita quién abre, copia o imprime un archivo).
 
-Editar macros durante la coautoría puede interrumpir a los demás. La ficha de límites de Excel da 256 usuarios a la vez en un libro compartido; las cifras de cada aplicación están en la [ficha de aplicaciones](../aplicaciones-de-planillas.md).
+Editar macros durante la coautoría puede interrumpir a los demás. La ficha de límites de Excel da 256 usuarios a la vez, pero en el modo antiguo de «libro compartido» ("Allow changes by more than one user"), que no admite tablas: no es el límite de la coautoría, que no se encontró. Las cifras de cada aplicación están en la [ficha de aplicaciones](../aplicaciones-de-planillas.md).
 
-En Google Sheets la coautoría no tiene condiciones: el archivo vive en la nube y cualquiera con permiso de edición edita a la vez.
+En Google Sheets no se encontraron condiciones para la coautoría: como el archivo vive en la nube, cualquiera con permiso de edición edita a la vez. Es inferencia de cómo funciona Sheets; ninguna página leída lo dice así.
 
 ## Permisos y protección en Google Sheets
 

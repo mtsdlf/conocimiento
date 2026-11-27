@@ -64,7 +64,8 @@ RETURNING stock;
 Si la sentencia afectó una fila, la venta se hizo; si afectó cero, no quedaba stock y la aplicación
 tiene que avisarle al cliente y deshacer el pedido. No hace falta el `SELECT` previo. PostgreSQL
 responde con una etiqueta de la forma `UPDATE count`, y la aplicación tiene que leer ese número:
-ignorarlo vuelve a abrir el agujero.
+ignorarlo vuelve a abrir el agujero. La misma sentencia, con el `CHECK (stock >= 0)` como red de
+seguridad, está en [modificar datos](../SQL/modificar-datos.md#descontar-stock-sin-vender-lo-que-no-hay).
 
 Por qué esto es seguro en PostgreSQL con el nivel por defecto lo explica su documentación de Read
 Committed. Cuando una sesión quiere actualizar una fila que otra está actualizando, "the would-be
@@ -133,7 +134,8 @@ column `lock_version`", y si dos usuarios editan el mismo registro, el segundo r
 `ActiveRecord::StaleObjectError` y "the update is ignored". Otros ORM tienen lo mismo con otro
 nombre; cómo se usa desde el código está en [SQL desde una aplicación](../SQL/sql-desde-una-aplicacion.md).
 
-Sirve cuando entre leer y escribir pasan minutos, como en un formulario de edición.
+Por inferencia propia, sirve cuando entre leer y escribir pasan minutos, como en un formulario de
+edición: ninguna fuente leída lo dice así.
 
 ## Cuál de las tres conviene
 
@@ -141,7 +143,7 @@ Sirve cuando entre leer y escribir pasan minutos, como en un formulario de edici
 |---|---|---|---|
 | Actualización condicional | La regla cabe en un `WHERE` (stock, saldo, cupos) | Casi nada | Leer las filas afectadas y actuar si son cero |
 | Bloqueo pesimista (`FOR UPDATE`) | La decisión necesita lógica entre leer y escribir, y hay conflictos seguido | Esperas; riesgo de deadlock | Mantener la transacción corta |
-| Bloqueo optimista (versión) | Los conflictos son raros o entre leer y escribir pasa mucho tiempo | Una columna; escrituras rechazadas | Reintentar o avisar cuando la versión no coincide |
+| Bloqueo optimista (versión) | Los conflictos son raros o entre leer y escribir pasa mucho tiempo (inferencia propia) | Una columna; escrituras rechazadas | Reintentar o avisar cuando la versión no coincide |
 
 Para el stock, la actualización condicional suele alcanzar y es la que menos puede salir mal: es
 una recomendación de esta base, apoyada en el mecanismo de PostgreSQL, no de una fuente.
@@ -192,9 +194,10 @@ robar inventario. Parten de que "in practice, database transactions frequently e
 isolation that exposes programs to a range of concurrency anomalies".
 
 Las 22 vulnerabilidades se manifiestan con el aislamiento por defecto de bases populares, Oracle 12c
-incluida. Y 17 de ellas aparecen incluso con el aislamiento más fuerte, porque la aplicación usa mal
-las transacciones: subir el nivel no alcanza si la lectura y la escritura no están en la misma
-transacción o si la condición no llega a la base.
+incluida. Y 17 de ellas aparecen incluso con el aislamiento más fuerte; el paper lo atribuye al uso
+incorrecto de las transacciones. Una inferencia propia de cómo es ese uso incorrecto: subir el
+nivel no alcanza si la lectura y la escritura no están en la misma transacción o si la condición
+no llega a la base.
 
 El mismo paper señala que el Repeatable Read de MySQL no impide la actualización perdida salvo con
 `FOR UPDATE`; las diferencias entre motores están en

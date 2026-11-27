@@ -10,7 +10,7 @@ fuentes:
   - "MongoDB, Data Modeling: https://www.mongodb.com/docs/manual/data-modeling/"
   - "Redis, Redis as an in-memory data store: https://redis.io/docs/latest/develop/get-started/data-store/"
   - "Neo4j, What is a graph database: https://neo4j.com/docs/getting-started/get-started-with-neo4j/graph-database/"
-  - "Martin Kleppmann, Designing Data-Intensive Applications (O'Reilly), cap. 2 Data Models and Query Languages: https://dataintensive.net/ (según la ficha del libro; no se leyó ni se confirmó la numeración de la edición vigente)"
+  - "Martin Kleppmann, Designing Data-Intensive Applications (O'Reilly), capítulo Data Models and Query Languages: https://dataintensive.net/ (no se leyó; el número de capítulo no se verificó)"
   - "Bases-de-datos/.investigacion/ (informes del 2026-11-27)"
 aliases: [modelo de datos, data model, modelos de bases de datos, NoSQL]
 creado: 2026-11-27
@@ -68,9 +68,9 @@ En 2024, Michael Stonebraker y Andrew Pavlo repasaron veinte años de modelos al
 relacional. Su conclusión es que SQL y el modelo relacional absorben las buenas ideas de las
 alternativas. Según el paper, los dos mensajes de venta de NoSQL fueron "SQL and joins are slow" y
 "ACID transactions are unnecessary", y casi todos esos sistemas terminaron agregando una interfaz
-parecida a SQL y transacciones.
+SQL y muchos, transacciones.
 
-Sobre cada familia son tajantes. Las bases de documentos están "on a collision course with
+Sobre cada familia son tajantes (RDBMS es la sigla en inglés de motor relacional). Las bases de documentos están "on a collision course with
 RDBMSs"; las de clave-valor "can generally be equaled or beaten by modern high-performance RDBMSs";
 las de familia de columnas son "a niche market".
 

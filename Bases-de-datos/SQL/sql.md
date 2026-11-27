@@ -42,18 +42,22 @@ con sus restricciones, está en [definir tablas](definir-tablas.md).
 El SQL es de PostgreSQL. Lo que es extensión de PostgreSQL y no del estándar se marca en cada
 caso, y la [ficha de dialectos](dialectos-de-sql.md) dice cómo se escribe en otros motores. Los
 resultados que se muestran salieron de ejecutar las consultas en PostgreSQL 18.4 con datos de
-prueba, el 2026-11-27.
+prueba, el 2026-11-27, y los contrastes con SQLite, en SQLite 3.53.2. Son las versiones que había
+instaladas, distintas de las vigentes que lista la
+[ficha de motores](../Elegir-una-base/motores-de-bases-de-datos.md).
 
 ## Una consulta dice qué, no cómo
 
 Una consulta SQL describe el resultado: qué columnas, de qué tablas, con qué condición. No dice si
-el motor recorre la tabla entera o usa un [índice](indice.md); eso lo decide el planificador, y por
+el motor recorre la tabla entera o usa un [índice](indice.md); eso lo decide el planificador (la parte del motor que elige cómo ejecutar cada consulta), y por
 eso una consulta lenta se arregla muchas veces sin tocar su texto. La contracara es que el orden
 en que se escriben las cláusulas no es el orden en que se evalúan: `SELECT` va primero en el texto
 y se evalúa casi al final, como cuenta [consulta SELECT](consulta-select.md). La mayoría de las
 sorpresas de quien empieza salen de ahí.
 
-SQL tiene tres partes que se usan distinto:
+SQL tiene tres partes que se usan distinto. Una aclaración de palabras: en sentido amplio, como lo
+usa el [glosario](../Fundamentos/glosario-de-bases-de-datos.md), "consulta" es cualquier pedido a
+la base, incluidos los que modifican; acá "consultar" es solo leer.
 
 - **Consultar**: `SELECT` y todo lo que va adentro (unir, agrupar, subconsultas, ventanas). Es lo
   que más se escribe y lo que ocupa la mayor parte de la vertical.
@@ -78,8 +82,9 @@ sin dar error:
 
 ## El estándar y los dialectos
 
-SQL tiene un estándar ISO (ISO/IEC 9075), que se publica por ediciones con nombre de año. Según
-modern-sql.com, la más reciente es SQL:2023, que agregó una parte para consultas sobre grafos. Ningún
+SQL tiene un estándar ISO (ISO/IEC 9075), que se publica por ediciones con nombre de año. modern-sql.com
+lista primero SQL:2023, que agregó una parte para consultas sobre grafos; que sea la edición vigente
+sale de un buscador y no se confirmó en el catálogo de ISO. Ningún
 motor implementa el estándar entero y todos agregan extensiones propias: el núcleo de
 `SELECT`, `JOIN`, `GROUP BY` e `INSERT` se escribe igual en todos, y las diferencias aparecen en
 límites de filas, upsert, tipos de fecha y booleanos. La lista concreta está en la

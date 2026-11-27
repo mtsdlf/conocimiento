@@ -37,14 +37,14 @@ Casi todo lo que se sabe viene de Raymond Panko, de la Universidad de Hawái, qu
 
 Las cifras de errores en planillas que circulan mezclan dos magnitudes distintas. Conviene separarlas antes de citar cualquiera.
 
-**El porcentaje de planillas con al menos un error.** Sale de auditorías: alguien revisa una planilla entera y cuenta si encontró algo. En 2015 Panko reúne 85 planillas inspeccionadas a fondo en seis trabajos (Hicks 1995, Coopers & Lybrand 1997, KPMG 1998, Lukasic 1998, Butler 2000, Lawrence y Lee 2001) y da un 94 % con errores. La edición de 2000 da 91 % para las 54 planillas de los estudios de 1997 en adelante (Coopers & Lybrand 1997: 91 % de 23; KPMG 1997: 91 % de 22; Butler 2000: 86 % de 7).
+**El porcentaje de planillas con al menos un error.** Sale de auditorías: alguien revisa una planilla entera y cuenta si encontró algo. En 2015 Panko reúne 85 planillas inspeccionadas a fondo en seis trabajos (Hicks 1995, Coopers & Lybrand 1997, KPMG 1998, Lukasic 1998, Butler 2000, Lawrence y Lee 2001) y da un 94 % con errores. La edición de 2000 da 91 % para las 54 planillas de los estudios de 1997 en adelante (Coopers & Lybrand 1997: 91 % de 23; KPMG 1997: 91 % de 22; Lukasik 1998: 100 % de 2; Butler 2000: 86 % de 7).
 
-**La tasa de error por celda** (*cell error rate*, CER). Es la proporción de celdas con fórmula que tienen un error original. En 2015 Panko da un promedio de 3,9 % en los experimentos de laboratorio y dice que lo esperable es de 1 % a 5 % "based on human error research". En las auditorías de 2000, las CER fueron 1,2 %, 2,2 % y 2,5 %, y 0,38 % para las celdas con fórmula en el estudio de Butler.
+**La tasa de error por celda** (*cell error rate*, CER). Es la proporción de celdas con fórmula que tienen un error original. En 2015 Panko da un promedio de 3,9 % en los experimentos de laboratorio y dice que lo esperable es de 1 % a 5 % "based on human error research". En las auditorías de 2000, las tres planillas grandes de Hicks y Lukasik dieron CER de 2,2 % y 2,5 % (Lukasik) y de 1,2 % (Hicks) según la Tabla 1; el texto de esa misma edición dice 1,1 % para Hicks, y la de 2015 repite 1,2 %. El estudio de Butler dio 0,38 % para las celdas con fórmula.
 
 Las dos se conectan así: si cada celda con fórmula tiene una chance chica de estar mal, una planilla con cientos de fórmulas encadenadas tiene una chance alta de que algún resultado final herede un error. Panko lo muestra en un gráfico de su texto de 2015.
 
 > [!IMPORTANT]
-> El 94 % no es la proporción de todas las planillas que tienen errores. Es la de planillas que alguien eligió auditar, revisadas en su mayoría por firmas comerciales en auditorías de varios días por planilla. Son muestras chicas y no aleatorias. La edición de 2000 da otra cifra, 24 % de 367 planillas, porque mezcla esas auditorías con estudios más viejos y menos rigurosos (Davies e Ikin 1987: 21 % de 19; Butler 1992: 11 % de 273). Las dos cifras son ciertas para su muestra y no se pueden comparar entre sí.
+> El 94 % no es la proporción de todas las planillas que tienen errores. Según Panko, son en su mayoría auditorías de firmas comerciales, con varios días de trabajo por planilla. Que sean muestras chicas y no aleatorias (planillas que alguien eligió auditar) es lectura propia: Panko no describe cómo se eligieron. La edición de 2000 da otra cifra, 24 % de 367 planillas, porque mezcla esas auditorías con estudios más viejos y menos rigurosos (Davies e Ikin 1987: 21 % de 19; Butler 1992: 11 % de 273). Las dos cifras son ciertas para su muestra y no se pueden comparar entre sí.
 
 ## De dónde sale el «88 %»
 
@@ -66,9 +66,11 @@ En un experimento, el reparto fue 45 % lógicos, 23 % mecánicos y 31 % de omisi
 
 ## Quien hizo la planilla cree que está bien
 
-El problema de fondo es la sobreconfianza. En los estudios que reúne Panko en 2000, quienes habían armado las planillas estimaron, en la mediana, que había un 10 % de chance de que la suya tuviera errores (18 % en promedio). El 86 % de esas planillas tenía errores.
+El problema de fondo es la sobreconfianza. En un experimento con estudiantes (Panko y Featherman 1999, citado en la revisión de 2000), quienes habían armado las planillas estimaron, en la mediana, que había un 10 % de chance de haber cometido un error (18 % en promedio); el 86 % lo había cometido. Ese 86 % no es el de la auditoría de Butler 2000 (86 % de 7 planillas reales): coinciden por casualidad. Panko agrega que la sobreconfianza también se encontró en expertos de muchos campos.
 
-La detección tampoco es fácil cuando alguien busca. En el experimento de Galletta y colegas que cita Panko, ninguno de 14 errores sembrados fue encontrado por todos los participantes: tres los encontró menos del 10 % y la mitad, menos del 40 %. Panko pone el techo de las revisiones celda por celda en encontrar alrededor del 90 % de los errores. Cómo se organiza esa revisión está en [revisar una planilla](revisar-una-planilla.md).
+La detección tampoco es fácil cuando alguien busca. En 2000, Panko escribe que quien revisa una planilla celda por celda solo encuentra "about half" de los errores, aun con experiencia. La detección se acerca al 90 % solo para errores mecánicos (tipeo, celda equivocada) en fórmulas cortas; para errores lógicos, errores mecánicos en fórmulas largas y omisiones es "far lower". En 2015 da cifras: nueve experimentos con más de 1.000 participantes promedian 60 % de detección, y en un experimento propio los individuos encontraron 63 % y los equipos de tres, 83 %.
+
+El experimento de Anderson (2004), que cita Panko en 2015, se hizo con desarrolladores de planillas experimentados. De 14 errores sembrados de distinta complejidad, tres los detectó menos del 10 % de los participantes y la mitad, menos del 40 %; ni los más simples superaron el 60 % de detección, y nadie encontró todos. Cómo se organiza una revisión que compense eso está en [revisar una planilla](revisar-una-planilla.md).
 
 ## Casos que se hicieron públicos
 
@@ -86,10 +88,10 @@ EuSpRIG lleva desde 1995 una lista de casos públicos (*horror stories*), con 89
 
 ## La crítica a las cifras de laboratorio
 
-Powell, Baker y Lawson publicaron en 2008 una revisión crítica de esta literatura. Según su resumen, sostienen que las tasas de error de los experimentos de laboratorio no deberían usarse sin cuidado para inferir cuántos errores hay en las planillas que se usan en las empresas. El punto pesa porque la mayoría de los experimentos se hicieron con estudiantes, sobre planillas de 25 a 50 celdas. Panko responde en 2015 que la evidencia es "substantial, compelling, and unanimous".
+Powell, Baker y Lawson publicaron en 2008 una revisión crítica de esta literatura. Según su resumen, sostienen que las tasas de error de los experimentos de laboratorio no deberían usarse sin cuidado para inferir cuántos errores hay en las planillas que se usan en las empresas. Esa postura se conoce solo por un resumen de buscador. El punto pesa porque la mayoría de los experimentos se hicieron con estudiantes, sobre planillas de 25 a 50 celdas. Del otro lado, la revisión de Panko de 2015 abre su introducción con que la investigación sobre errores en planillas es "substantial, compelling, and unanimous"; no la presenta como respuesta a Powell y colegas.
 
 > [!IMPORTANT]
-> Las dos posiciones no se reconciliaron. Lo que comparten es que las muestras no son aleatorias. Lo que las separa es si las tasas de laboratorio se pueden trasladar a planillas reales. La revisión de 2008 solo se vio por su resumen.
+> Las dos posiciones no se reconciliaron. Lo que las separa es si las tasas de laboratorio se pueden trasladar a planillas reales. Que ninguna muestra sea aleatoria es lectura propia, no algo que digan las dos. La revisión de 2008 solo se vio por su resumen.
 
 ## Por qué no alcanza con sacar las planillas
 

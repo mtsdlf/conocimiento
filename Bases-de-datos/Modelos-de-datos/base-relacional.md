@@ -52,7 +52,7 @@ carga. Una restricción que se declara al [definir la tabla](../SQL/definir-tabl
 para cualquier programa o persona que escriba:
 
 - `NOT NULL`: el pedido tiene que tener fecha.
-- `UNIQUE`: no se repite el SKU de un producto.
+- `UNIQUE`: no se repite el SKU (el código interno) de un producto.
 - `CHECK`: la cantidad tiene que ser mayor que cero.
 - `FOREIGN KEY`: el ítem tiene que apuntar a un producto que existe, y se decide qué pasa si se
   borra el producto.
@@ -60,8 +60,8 @@ para cualquier programa o persona que escriba:
 Dos detalles de PostgreSQL sorprenden a quien empieza. Un `CHECK` se cumple si la expresión da
 verdadero "or the null value", así que solo no impide un dato vacío: hace falta sumarle `NOT NULL`.
 Y en una clave foránea, la acción por defecto al borrar el padre es `ON DELETE NO ACTION`, que
-rechaza el borrado si quedan hijos; `CASCADE` borra los hijos, y conviene solo cuando no pueden
-existir sin el padre.
+rechaza el borrado si quedan hijos; `CASCADE` borra los hijos, y, según un resumen de la
+documentación, conviene solo cuando no pueden existir sin el padre.
 
 ## SQL se ocupa del qué, no del cómo
 

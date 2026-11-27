@@ -43,8 +43,9 @@ definiciones van literales, con un ejemplo de comercio al lado.
 | Lectura fantasma (phantom read) | "A transaction re-executes a query returning a set of rows that satisfy a search condition and finds that the set of rows satisfying the condition has changed due to another recently-committed transaction." | Cuenta los pedidos de hoy dos veces y la segunda aparece uno nuevo |
 | Anomalía de serialización | "The result of successfully committing a group of transactions is inconsistent with all possible orderings of running those transactions one at a time." | Dos transacciones, cada una correcta sola, dejan juntas un estado imposible |
 
-La última es la más difícil de ver. El ejemplo de manual es el write skew: dos transacciones leen
-lo mismo, cada una escribe una fila distinta y ninguna ve la escritura de la otra. Ninguna fila se
+La última es la más difícil de ver. La documentación de PostgreSQL trae un ejemplo sin ponerle
+nombre; Jepsen y Kleppmann lo llaman write skew: dos transacciones leen lo mismo, cada una escribe
+una fila distinta y ninguna ve la escritura de la otra. Ninguna fila se
 pisó, pero la regla que las dos comprobaron dejó de cumplirse.
 
 ## Qué permite cada nivel en PostgreSQL
@@ -114,22 +115,29 @@ lector ve una foto fija, y si después intenta escribir con una foto vieja falla
 >
 > - **PostgreSQL.** Su Repeatable Read ya impide los fantasmas, que el estándar permitiría, pero
 >   deja pasar anomalías de serialización. Jepsen, en su análisis de PostgreSQL 12.3 (2020), lo
->   resume así: "PostgreSQL 'repeatable read' is actually snapshot isolation". Si dos
+>   resume así: "PostgreSQL 'repeatable read' is actually snapshot isolation" (aislamiento por
+>   instantánea: la transacción lee una foto fija y solo choca si escribe una fila que otra ya
+>   escribió). Si dos
 >   transacciones actualizan la misma fila, PostgreSQL aborta a la segunda con "could not
 >   serialize access due to concurrent update", así que no hay actualización perdida; el write
 >   skew, en cambio, pasa.
 > - **MySQL.** Según su documentación, en Repeatable Read "consistent reads within the same
 >   transaction read the snapshot established by the first read" y bloquea rangos con gap locks y
->   next-key locks. Jepsen, en su análisis de MySQL 8.0.34 (2023), encontró que "MySQL's Repeatable
->   Read routinely allows G2-item, even on a single healthy node" y que "MySQL Repeatable Read
+>   next-key locks (bloqueos sobre el hueco entre filas de un índice, para que otra transacción no
+>   inserte ahí). Jepsen, en su análisis de MySQL 8.0.34 (2023), encontró que "MySQL's Repeatable
+>   Read routinely allows G2-item, even on a single healthy node" (G2-item es el nombre que usa Jepsen
+>   para una anomalía de la familia del write skew) y que "MySQL Repeatable Read
 >   transactions cannot safely read a value and then write it": permite la actualización perdida.
 >   ACIDRain (2017) ya había señalado que el Repeatable Read de MySQL no impide la actualización
 >   perdida salvo con `FOR UPDATE`. Jepsen cita además una nota de la propia documentación de MySQL
 >   según la cual los cambios de otras transacciones pueden volverse visibles.
 > - **Serializable tampoco es un absoluto.** El mismo análisis de PostgreSQL 12.3 encontró que
 >   "transactions executed with serializable isolation on a single PostgreSQL instance were not, in
->   fact, serializable", por un error en la detección de conflictos que se corrigió en una versión
->   menor siguiente. Jepsen aclara que sus pruebas muestran que hay errores, no que no los haya.
+>   fact, serializable", por un error en la detección de conflictos. Jepsen informó el parche como
+>   programado para la versión menor del 13 de agosto de 2020; que esa versión haya salido con el
+>   arreglo no se verificó.
+> - **Las pruebas no prueban la ausencia de errores.** En el análisis de MySQL 8.0.34, Jepsen aclara
+>   que sus pruebas muestran que hay errores, no que no los haya.
 >
 > Los dos análisis de Jepsen se leyeron por su resumen, no enteros.
 

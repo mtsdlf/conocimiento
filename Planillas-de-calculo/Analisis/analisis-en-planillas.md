@@ -43,8 +43,9 @@ escenarios dependen más del [diseño de la planilla](../Diseno-de-planillas/dis
 que de los datos: necesitan supuestos separados en celdas de entrada, como cuenta
 [entradas, cálculo y salidas](../Diseno-de-planillas/entradas-calculo-salidas.md).
 
-Microsoft agrupa las dos primeras: su examen de Excel experto (MO-211) las pone en un solo dominio,
-"Manage advanced charts and tables", con un peso de 25 a 30 %. El gráfico dinámico es el puente
+Microsoft parece agruparlas: su examen de Excel experto (MO-211) tiene un dominio llamado
+"Manage advanced charts and tables", con un peso de 25 a 30 %. De ese dominio solo se conocen el
+nombre y el peso; que incluya las tablas y los gráficos dinámicos es inferencia por el nombre. El gráfico dinámico es el puente
 entre ambas: un gráfico que se arma sobre una tabla dinámica y cambia con ella.
 
 ## Tabla dinámica o fórmulas
@@ -61,8 +62,8 @@ meses.
 
 Las dos aplicaciones tienen tablas dinámicas y gráficos con las mismas ideas y detalles distintos.
 La diferencia grande está en los escenarios: Excel trae Buscar objetivo, Tabla de datos,
-Administrador de escenarios y el complemento Solver; Google Sheets no tiene ninguno como función
-propia y depende de complementos, varios de terceros, que pueden mandar los datos fuera de la hoja.
+Administrador de escenarios y el complemento Solver; en Google Sheets no se encontró ninguno como
+función propia, y lo que aparece son complementos, varios de terceros, que pueden mandar los datos fuera de la hoja.
 
 > [!IMPORTANT]
 > "Tabla" nombra tres objetos distintos en el tema: la

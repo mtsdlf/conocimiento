@@ -32,7 +32,9 @@ queda fuera del tema; acá importa cuándo se usa y cómo se ve.
 
 ## Qué mirar primero cuando una consulta tarda
 
-Con 100 mil pedidos, buscar los de un cliente sin índice obliga a leer todos. El primer paso es
+Con 100 mil pedidos, buscar los de un cliente sin índice obliga a leer todos. Los planes de esta
+sección salen de las tablas y el script de 100.000 pedidos de la
+[ruta de SQL](../Fundamentos/ruta-de-sql.md#paso-8-tablas-e-índices). El primer paso es
 pedirle el plan al motor con `EXPLAIN ANALYZE`:
 
 ```sql
@@ -40,28 +42,28 @@ EXPLAIN ANALYZE SELECT * FROM pedidos WHERE cliente_id = 42;
 ```
 
 ```
-Seq Scan on pedidos  (cost=0.00..2721.04 rows=20 width=29) (actual time=2.699..12.588 rows=20.00 loops=1)
+Seq Scan on pedidos  (cost=0.00..1887.05 rows=20 width=19) (actual time=0.048..22.328 rows=20.00 loops=1)
   Filter: (cliente_id = 42)
-  Rows Removed by Filter: 99983
-Execution Time: 12.624 ms
+  Rows Removed by Filter: 99984
+Execution Time: 22.408 ms
 ```
 
-`Seq Scan` es un recorrido secuencial: leyó las 100.003 filas y descartó 99.983 para quedarse con
-20. Después de crear el índice:
+`Seq Scan` es un recorrido secuencial: leyó las 100.004 filas (los 4 pedidos del script
+base más los 100.000 generados) y descartó 99.984 para quedarse con 20. Después de crear el índice:
 
 ```sql
 CREATE INDEX pedidos_cliente_id_idx ON pedidos (cliente_id);
 ```
 
 ```
-Bitmap Heap Scan on pedidos  (cost=4.45..77.70 rows=20 width=29) (actual time=0.173..0.284 rows=20.00 loops=1)
+Bitmap Heap Scan on pedidos  (cost=4.45..74.07 rows=20 width=19) (actual time=0.051..0.110 rows=20.00 loops=1)
   Recheck Cond: (cliente_id = 42)
   ->  Bitmap Index Scan on pedidos_cliente_id_idx  (cost=0.00..4.44 rows=20 width=0)
         Index Cond: (cliente_id = 42)
-Execution Time: 0.323 ms
+Execution Time: 0.148 ms
 ```
 
-El motor encontró las 20 filas en el índice y fue a buscar solo esas: de 12,6 a 0,3 milisegundos.
+El motor encontró las 20 filas en el índice y fue a buscar solo esas: de 22,4 a 0,15 milisegundos.
 Son mediciones propias en PostgreSQL 18.4 con datos de prueba, el 2026-11-27; muestran el orden de
 magnitud, no una cifra para comparar.
 
@@ -69,8 +71,8 @@ La lista para una consulta lenta, en orden:
 
 1. Corré `EXPLAIN ANALYZE` y buscá un `Seq Scan` sobre una tabla grande con un `Filter` que descarta
    casi todo.
-2. Mirá las columnas de ese filtro y de los joins: ¿tienen índice? Declarar una clave foránea no
-   crea un índice: en las tablas de prueba, `pedidos.cliente_id` no tenía ninguno hasta crearlo.
+2. Mirá las columnas de ese filtro y de los joins: ¿tienen índice? Declarar una clave foránea, como las de
+   [definir tablas](definir-tablas.md), no crea un índice: en las tablas de prueba, `pedidos.cliente_id` no tenía ninguno hasta crearlo.
 3. Si tienen índice y no se usa, buscá una función o una conversión sobre la columna (abajo).
 4. Si la consulta es rápida pero se ejecuta cientos de veces por pantalla, el problema no es el
    índice sino el [problema N+1](sql-desde-una-aplicacion.md#el-problema-n1).
@@ -113,7 +115,7 @@ buscar emails sin distinguir mayúsculas, PostgreSQL permite indexar la expresi�
 `CREATE INDEX clientes_lower_email_idx ON clientes (lower(email));` hace que `WHERE lower(email) =
 '...'` use el índice. El costo, según la documentación: estos índices "are relatively expensive to
 maintain, because the derived expression(s) must be computed for each row insertion and non-HOT
-update".
+update" (una actualización non-HOT es la que obliga a tocar también los índices de la tabla).
 
 **Cuando un LIKE empieza con comodín.** Un índice sirve para `LIKE 'c42%'` (el comienzo está fijo)
 pero no para `LIKE '%42@example.com'`. Winand: "Avoid LIKE expressions with leading wildcards".

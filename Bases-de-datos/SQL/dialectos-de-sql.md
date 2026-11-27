@@ -1,8 +1,8 @@
 ---
 resumen: >-
   Las diferencias concretas de sintaxis entre PostgreSQL, MySQL, SQLite y SQL Server en lo que más
-  cambia (límite de filas, upsert, joins, booleanos, fechas y extensiones), con la edición vigente
-  del estándar, copiadas de cada documentación el 2026-11-27.
+  cambia (límite de filas, upsert, joins, booleanos, fechas y extensiones), con las ediciones del
+  estándar, copiadas de cada documentación el 2026-11-27.
 estado: borrador
 estabilidad: volatil
 fuentes:
@@ -27,8 +27,8 @@ revisado:
 # Dialectos de SQL
 
 Las diferencias concretas de sintaxis entre PostgreSQL, MySQL, SQLite y SQL Server en lo que más
-cambia (límite de filas, upsert, joins, booleanos, fechas y extensiones), con la edición vigente
-del estándar, copiadas de cada documentación el 2026-11-27.
+cambia (límite de filas, upsert, joins, booleanos, fechas y extensiones), con las ediciones del
+estándar, copiadas de cada documentación el 2026-11-27.
 
 Implementa lo que dicen [SQL](sql.md) y sus componentes, que están escritos en PostgreSQL. Los
 datos salen de la documentación de cada motor (PostgreSQL 19, MySQL 8.4, SQLite y SQL Server en
@@ -39,11 +39,12 @@ un sistema está en [Elegir una base](../Elegir-una-base/elegir-una-base.md).
 ## El estándar
 
 SQL tiene un estándar ISO, ISO/IEC 9075, dividido en partes y publicado por ediciones que se nombran
-con el año ("SQL:2023"). Según modern-sql.com, la edición más reciente es SQL:2023, que agregó la
-parte "9075-16:2023 Property Graph Queries (SQL/PGQ)" y mejoras de JSON; SQL:2019 había agregado
-"9075-15:2019 Multi-dimensional arrays (SQL/MDA)". El estándar "is public but not free": cada parte
-se compra por separado. Que SQL:2023 sea la última edición sale de un buscador, no del catálogo de
-ISO (que no se pudo abrir).
+con el año ("SQL:2023"). modern-sql.com lista primero SQL:2023, que agregó la parte "9075-16:2023
+Property Graph Queries (SQL/PGQ)" y mejoras de JSON; SQL:2019 había agregado "9075-15:2019
+Multi-dimensional arrays (SQL/MDA)". Que SQL:2023 sea la edición vigente sale de un buscador, no
+del catálogo de ISO (que no se pudo abrir). El estándar "is public but not free": cada parte se
+compra por separado, salvo la primera, que según modern-sql.com se baja gratis ("Part 1 can be
+downloaded for free from ISO").
 
 ## Límite de filas
 

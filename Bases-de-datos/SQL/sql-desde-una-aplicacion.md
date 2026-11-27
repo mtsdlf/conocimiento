@@ -8,6 +8,7 @@ estabilidad: estable
 fuentes:
   - "OWASP, SQL Injection Prevention Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html"
   - "OWASP Top 10 2021, A03 Injection: https://top10.owasp.org/2021/A03_2021-Injection"
+  - "OWASP Top 10:2025 (Injection en A05): https://top10.owasp.org/2025/"
   - "Django 5.2, QuerySet API reference (select_related y prefetch_related): https://docs.djangoproject.com/en/5.2/ref/models/querysets/ (leída hasta la mitad)"
   - "Martin Fowler, OrmHate (2012-05-08): https://martinfowler.com/bliki/OrmHate.html (según un resumen)"
   - "Michael Stonebraker y Andrew Pavlo, What Goes Around Comes Around... And Around..., SIGMOD Record 53(2), 2024: https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf (lectura parcial)"
@@ -24,7 +25,8 @@ Una aplicación le manda SQL a la base por un driver o un ORM; los datos que vie
 siempre como parámetros, separados del texto de la consulta, para evitar la inyección SQL, y las
 consultas se agrupan para no caer en el problema N+1.
 
-Las notas anteriores de la vertical tratan el SQL que escribe una persona en una consola. Desde una
+Un driver es la biblioteca que conecta el programa con el motor y le pasa el SQL. Las notas
+anteriores de la vertical tratan el SQL que escribe una persona en una consola. Desde una
 aplicación cambian tres cosas: los valores vienen de afuera y pueden ser hostiles, el SQL lo puede
 generar una biblioteca, y la misma consulta se ejecuta miles de veces.
 
@@ -45,9 +47,9 @@ SELECT id, nombre FROM clientes WHERE email = 'x' OR '1'='1';
 
 y devuelve todos los clientes de la base. La comilla del usuario cerró la cadena y lo que siguió se
 interpretó como SQL. Con otro texto se puede borrar una tabla o leer otra. OWASP la ubica en su lista
-de riesgos de aplicaciones web: en la edición 2021, "94% of the applications were tested for some form
-of injection", y la categoría quedó en el tercer puesto. No se verificó si hay una edición más nueva
-de la lista.
+de riesgos de aplicaciones web: en 2021, "94% of the applications were tested for some form of
+injection", y la categoría quedó en el tercer puesto. En la edición 2025 de la lista, Injection
+quedó quinta (A05); las cifras de esa edición no se revisaron.
 
 ## La defensa: consultas parametrizadas
 
@@ -97,8 +99,9 @@ y solo entonces lo pega en el texto. Cualquier otro valor se rechaza.
 ## ORM o SQL a mano
 
 Un ORM (mapeador objeto-relacional) es una biblioteca que convierte filas en objetos del lenguaje y
-genera el SQL de las operaciones comunes. OWASP lo cuenta entre las opciones seguras contra la
-inyección, porque parametriza solo. El debate es sobre cuánto esconde:
+genera el SQL de las operaciones comunes. OWASP prefiere una API que "avoids using the
+interpreter entirely" y cuenta ahí a los ORM; que eso se deba a que el ORM parametriza por su
+cuenta es inferencia propia. El debate es sobre cuánto esconde:
 
 > [!IMPORTANT]
 > **A favor del ORM.** Fowler, según un resumen de su artículo "OrmHate" (2012): "However much you
@@ -109,8 +112,9 @@ inyección, porque parametriza solo. El debate es sobre cuánto esconde:
 >
 > **En contra.** El ORM genera consultas que nadie ve, y la falla típica es el problema N+1 (abajo).
 > Stonebraker y Pavlo (2024) nombran el problema N+1 entre las razones que empujaron a las bases de
-> documentos. Un estudio sobre los ORM de Rails ("Feral Concurrency Control", Bailis y otros, 2015)
-> trata invariantes que se validan en la aplicación en lugar de en la base; solo se vio su título.
+> documentos. El estudio "Feral Concurrency Control" (Bailis y otros, 2015), según el resumen de un
+> buscador, trata invariantes que los ORM de Rails validan en la aplicación en lugar de en la base;
+> el paper no se abrió.
 >
 > No se encontró una fuente con evidencia empírica a favor de escribir SQL a mano.
 
@@ -132,8 +136,8 @@ SELECT nombre FROM clientes WHERE id = 2;                                 -- 50 
 -- ...
 ```
 
-Son 51 consultas, cada una rápida. Lo que tarda es el ida y vuelta a la base 51 veces, y por eso
-no aparece al mirar una consulta sola ni lo arregla un [índice](indice.md). Con un ORM pasa sin que
+Son 51 consultas, cada una rápida. Lo que tarda, por inferencia propia, es el ida y vuelta a la
+base 51 veces, y por eso no aparece al mirar una consulta sola ni lo arregla un [índice](indice.md). Con un ORM pasa sin que
 se vea: el código recorre los pedidos y lee `pedido.cliente.nombre`, y cada lectura dispara una
 consulta. La salida es pedir todo junto, con un [join](join.md):
 

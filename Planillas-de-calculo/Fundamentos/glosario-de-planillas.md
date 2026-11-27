@@ -50,21 +50,21 @@ Las definiciones se apoyan en la documentación de Microsoft y de Google cuando 
 | Fórmula | formula | Lo que se escribe en una celda empezando con `=`. Según Microsoft, puede contener "functions, references, operators, and constants" | [Fórmulas](../Formulas/formulas.md) |
 | Función | function | Un cálculo con nombre que se usa dentro de una fórmula, como SUMA (SUM) o BUSCARX (XLOOKUP) | [Fórmulas](../Formulas/formulas.md) |
 | Constante | constant | Según Microsoft, "a value that isn't calculated and always stays the same". Escrita adentro de una fórmula, es un número fijo que el ICAEW pide evitar | [Entradas, cálculo y salidas](../Diseno-de-planillas/entradas-calculo-salidas.md) |
-| Error de fórmula | formula error | El valor que muestra una celda cuando la fórmula no puede calcular: `#N/A`, `#REF!`, `#VALUE!` (en castellano, `#N/D`, `#REF!`, `#VALOR!`) | [Errores de fórmula](../Modelo-de-la-planilla/errores-de-formula.md) |
+| Error de fórmula | formula error | El valor que muestra una celda cuando la fórmula no puede calcular: en castellano `#N/A`, `#¡REF!`, `#¡VALOR!` (en inglés, `#N/A`, `#REF!`, `#VALUE!`; algunas páginas escriben `#N/D`, como explica la nota de errores) | [Errores de fórmula](../Modelo-de-la-planilla/errores-de-formula.md) |
 | Referencia circular | circular reference | Una fórmula que termina dependiendo de su propia celda | [Errores de fórmula](../Modelo-de-la-planilla/errores-de-formula.md) |
-| Recálculo | recalculation | Volver a calcular las fórmulas cuando cambia algo. Excel tiene modo automático, automático excepto tablas de datos y manual | [Errores de fórmula](../Modelo-de-la-planilla/errores-de-formula.md) |
+| Recálculo | recalculation | Volver a calcular las fórmulas cuando cambia algo. Excel tiene modo automático, automático excepto [tablas de datos](../Analisis/analisis-de-escenarios.md) y manual | [Errores de fórmula](../Modelo-de-la-planilla/errores-de-formula.md) |
 | Función volátil | volatile function | Según Microsoft, una función "whose value cannot be assumed to be the same from one moment to the next", que se recalcula siempre; HOY (TODAY) y AHORA (NOW) son volátiles | [Errores de fórmula](../Modelo-de-la-planilla/errores-de-formula.md) |
 | Matriz dinámica | dynamic array | Una fórmula que devuelve varios valores y los vuelca en las celdas vecinas, como FILTRAR (FILTER) u ORDENAR (SORT) | [Matrices dinámicas](../Formulas/matrices-dinamicas.md) |
 | Desbordamiento | spill | El volcado de los resultados de una matriz dinámica. Si algo ocupa ese lugar, Excel muestra `#DESBORDAMIENTO!` (`#SPILL!`); `A1#` refiere al rango desbordado entero | [Matrices dinámicas](../Formulas/matrices-dinamicas.md) |
 | ARRAYFORMULA | ARRAYFORMULA | Función de Sheets que aplica una fórmula a un rango entero; según Google, muchas fórmulas ya se expanden solas sin ella | [Matrices dinámicas](../Formulas/matrices-dinamicas.md) |
-| Separador de argumentos | argument separator | El signo entre los argumentos de una función: `;` en las configuraciones con coma decimal, `,` en las de punto decimal | [Fórmulas](../Formulas/formulas.md) |
+| Separador de argumentos | argument separator | El signo entre los argumentos de una función. En Excel es el "list separator" de la configuración regional de Windows, que en inglés de EE. UU. es la coma; que con coma decimal sea `;` es lo habitual pero no tiene fuente oficial (ver [tipos de dato](../Modelo-de-la-planilla/tipos-de-dato.md)). Los ejemplos de este tema usan `;` | [Fórmulas](../Formulas/formulas.md) |
 
 ## Datos y análisis
 
 | Término | Inglés | Qué es | Dónde se trata |
 |---|---|---|---|
 | Datos ordenados | tidy data | Una fila por registro y una columna por variable, sin celdas combinadas | [Datos ordenados](../Datos-en-la-planilla/datos-ordenados.md) |
-| Tabla | table | En Excel, un rango con nombre y encabezados que crece solo y admite columnas calculadas; en Sheets existen desde 2024 (Formato, Convertir en tabla). No es una tabla dinámica | [Tabla estructurada](../Datos-en-la-planilla/tabla-estructurada.md) |
+| Tabla estructurada | table, Excel table | En el tema no se dice "tabla" a secas, porque nombra tres cosas distintas ([datos en la planilla](../Datos-en-la-planilla/datos-en-la-planilla.md)). En Excel, un rango con nombre y encabezados que crece solo y admite columnas calculadas; en Sheets existen desde 2024 (Formato, Convertir en tabla). No es una tabla dinámica | [Tabla estructurada](../Datos-en-la-planilla/tabla-estructurada.md) |
 | Referencia estructurada | structured reference | La forma de nombrar una columna de una tabla en una fórmula, como `Ventas[Importe]` | [Tabla estructurada](../Datos-en-la-planilla/tabla-estructurada.md) |
 | Validación de datos | data validation | Reglas que limitan qué se puede cargar en una celda, como una lista desplegable | [Validación de datos](../Datos-en-la-planilla/validacion-de-datos.md) |
 | Power Query | Power Query | Según Microsoft, "a data transformation and data preparation engine" de Excel: importa, limpia y combina datos guardando los pasos, sin tocar el origen | [Power Query](../Datos-en-la-planilla/power-query.md) |
@@ -72,6 +72,7 @@ Las definiciones se apoyan en la documentación de Microsoft y de Google cuando 
 | Tabla dinámica | PivotTable, pivot table | Un resumen interactivo que agrupa y totaliza filas por categorías sin escribir fórmulas; en Excel trabaja sobre una copia en caché que hay que actualizar | [Tabla dinámica](../Analisis/tabla-dinamica.md) |
 | Segmentación de datos | slicer | Botones que filtran una o varias tablas dinámicas | [Tabla dinámica](../Analisis/tabla-dinamica.md) |
 | Análisis de hipótesis | what-if analysis | Probar qué pasa con un resultado si cambian las entradas: escenarios, tablas de datos y buscar objetivo | [Análisis de escenarios](../Analisis/analisis-de-escenarios.md) |
+| Tabla de datos | data table | Una grilla de resultados de una fórmula para distintos valores de una o dos entradas; no es una tabla estructurada ni una dinámica | [Análisis de escenarios](../Analisis/analisis-de-escenarios.md) |
 | Buscar objetivo | Goal Seek | Encontrar el valor de una entrada que lleva una fórmula a un resultado buscado; trabaja con una sola variable | [Análisis de escenarios](../Analisis/analisis-de-escenarios.md) |
 | Solver | Solver | Complemento de Excel que optimiza un resultado cambiando varias celdas bajo restricciones | [Análisis de escenarios](../Analisis/analisis-de-escenarios.md) |
 | Minigráfico | sparkline | Un gráfico chico dentro de una celda | [Gráficos en la planilla](../Analisis/graficos-en-la-planilla.md) |

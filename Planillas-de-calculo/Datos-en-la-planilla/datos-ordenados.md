@@ -25,14 +25,17 @@ para que las fórmulas, los filtros y las tablas dinámicas funcionen sin prepar
 
 La regla tiene dos formulaciones que se complementan. Wickham (2014) define un modelo de datos para
 analizar: "Each variable is a column, each observation is a row, and each type of observational unit
-is a table." Broman y Woo (2018) dan reglas de práctica para quien carga en la planilla. La primera
+is a table." La *table* de Wickham es una tabla en sentido de datos (un conjunto de filas y
+columnas), no la [tabla estructurada](tabla-estructurada.md) de Excel. Broman y Woo (2018) dan reglas de práctica para quien carga en la planilla. La primera
 dice qué forma tienen que tener los datos; la segunda, cómo no estropearlos al escribirlos.
 
 Las prácticas de Broman y Woo que más pesan en un negocio chico:
 
 - **Una cosa por celda.** "The cells in your spreadsheet should each contain one piece of data.
   Don't put more than one thing in a cell." "500 g" son dos datos: el número va en la celda y la
-  unidad en el nombre de la columna (`peso_g`) o en un diccionario de datos aparte.
+  unidad, según Broman y Woo, no va en el nombre de la columna (que queda, en su ejemplo,
+  `body_weight`) sino en un diccionario de datos aparte: una hoja que dice, para cada columna, qué
+  guarda y en qué unidad.
 - **Un solo rectángulo.** "The best layout for your data within a spreadsheet is as a single big
   rectangle." Nada de un bloque de ventas de enero y otro de febrero separados por filas vacías.
 - **Sin celdas combinadas.** "Finally, don't merge cells." Una celda combinada deja vacías las
@@ -42,8 +45,8 @@ Las prácticas de Broman y Woo que más pesan en un negocio chico:
   "Capital" en otra son dos lugares para la planilla.
 
 > [!NOTE]
-> Sin fuente todavía: las partes del trabajo de Broman y Woo sobre no usar el color como dato, no
-> hacer cálculos en los datos crudos y armar un diccionario de datos no se leyeron en el texto.
+> Sin fuente todavía: las partes del trabajo de Broman y Woo sobre no usar el color como dato y no
+> hacer cálculos en los datos crudos no se leyeron en el texto.
 
 El tercer pedazo de la regla de Wickham, una tabla por tipo de unidad, es el mismo principio que
 ordena una [base relacional](../../Bases-de-datos/Modelos-de-datos/base-relacional.md): las ventas

@@ -145,8 +145,10 @@ cuatro cosas:
   una fórmula lo que pedirían varias funciones de esta nota.
 
 En qué versiones de Excel existe cada función, y desde cuándo en Sheets, está en la
-[ficha de equivalencias](equivalencias-de-funciones.md). Lo que conviene saber de antemano: un
-archivo con estas funciones abierto en una versión vieja de Excel no las calcula.
+[ficha de equivalencias](equivalencias-de-funciones.md). Lo que conviene saber de antemano: estas
+funciones no existen en las versiones viejas de Excel. Qué pasa exactamente al abrir el archivo en
+una de ellas solo se encontró, en un resumen, para BUSCARX (muestra el resultado guardado y da
+#¿NOMBRE? al reescribir la fórmula); para FILTRAR, LAMBDA y las demás no se verificó.
 
 > [!NOTE]
 > Sin fuente todavía: si la sintaxis `A1#` funciona en Google Sheets, y desde cuándo existen

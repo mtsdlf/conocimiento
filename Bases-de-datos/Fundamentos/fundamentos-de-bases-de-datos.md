@@ -60,7 +60,8 @@ relacional sin SQL, y Johan Oskarsson, de Last.fm, lo revivió en 2009 para un e
 surgió a principios de los 2000; la discrepancia no se resolvió.
 
 Según Stonebraker y Pavlo (2024), "the inability of OLTP RDBMSs to
-scale in the 2000s ushered in dozens of document DBMSs", con dos mensajes de venta: "SQL and joins
+scale in the 2000s ushered in dozens of document DBMSs" (RDBMS y DBMS son las siglas en inglés de motor relacional
+y de motor de base de datos; OLTP, los que atienden las transacciones del día a día), con dos mensajes de venta: "SQL and joins
 are slow" y "ACID transactions are unnecessary". Veinte años después, casi todos esos sistemas
 sumaron una interfaz SQL y muchos, transacciones ACID.
 
@@ -79,7 +80,7 @@ sumaron una interfaz SQL y muchos, transacciones ACID.
 >   rápidas y pérdida de independencia de los datos. Leído así, el documento conviene cuando el dato
 >   es un árbol que se lee entero, como dice [base de documentos](../Modelos-de-datos/base-de-documentos.md).
 > - **Sesgo.** Stonebraker fundó empresas de bases relacionales y columnares (Ingres, Vertica,
->   VoltDB): es una fuente primaria y autorizada, y también parte interesada. Kleppmann trata el
+>   VoltDB; el dato no sale de una fuente leída): es una fuente primaria y autorizada, y también parte interesada. Kleppmann trata el
 >   mismo dilema con una mirada más neutral, pero no se leyó.
 
 Cómo elegir entre los dos está en [modelos de datos](../Modelos-de-datos/modelos-de-datos.md).
@@ -94,8 +95,9 @@ Cómo elegir entre los dos está en [modelos de datos](../Modelos-de-datos/model
 >   trabajo repetitivo "is worthwhile even if it is only 80%". Admite que hay que saber SQL igual.
 > - **En contra.** El problema N+1, que Stonebraker y Pavlo cuentan entre las razones del auge de
 >   los documentos: el ORM dispara una consulta por cada fila en lugar de una sola con un join. Y el
->   estudio "Feral Concurrency Control" (Bailis y otros, SIGMOD 2015), del que solo se vio el
->   título, sobre reglas que los ORM validan en la aplicación en vez de en la base.
+>   estudio "Feral Concurrency Control" (Bailis y otros, SIGMOD 2015), que según el resumen de un
+>   buscador trata reglas que los ORM de Rails validan en la aplicación en vez de en la base; el
+>   paper no se abrió.
 
 > [!NOTE]
 > Sin fuente todavía: una defensa de "SQL primero" con evidencia empírica. "The Vietnam of Computer
@@ -133,7 +135,8 @@ ACIDRain (Warszawski y Bailis, 2017) analizó 12 aplicaciones de comercio electr
 over 2M websites" y verificó 22 ataques críticos que se dan con el aislamiento por defecto de bases
 populares. El matiz más útil: 17 de esos 22 aparecen incluso con el aislamiento más fuerte, porque
 el problema también es cómo la aplicación usa las transacciones. Jepsen, sobre PostgreSQL 12.3
-(2020, por resumen), encontró que ni el nivel Serializable lo era, por un error luego corregido.
+(2020, por resumen), encontró que ni el nivel Serializable lo era, por un error cuyo parche informó
+como programado para la versión menor del 13 de agosto de 2020 (no se verificó que haya salido).
 
 **Sesgo:** ACIDRain estudió aplicaciones autoalojadas buscando ataques, no una muestra al azar de
 sistemas. Que la falla sea común es inferencia del tamaño de la muestra, no una medición. La salida

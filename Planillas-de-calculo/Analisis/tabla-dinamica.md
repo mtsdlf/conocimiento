@@ -63,7 +63,7 @@ campos calculados no se pueden usar con segmentaciones; no se confirmó con Micr
 
 ## El error más común: no actualizar
 
-La tabla dinámica de Excel no lee los datos en vivo: trabaja sobre una copia en caché. Cuando cambia
+La tabla dinámica de Excel no lee los datos en vivo: trabaja sobre una copia en caché (una copia guardada aparte de los datos de origen). Cuando cambia
 el origen, "any PivotTables built on that data source need to be refreshed", con PivotTable Analyze >
 Refresh > Refresh All. Si se corrige un precio en la lista de ventas y no se actualiza, la tabla
 dinámica sigue mostrando el total viejo, sin ningún aviso. Es la diferencia de fondo con las
@@ -89,8 +89,8 @@ las ventas por mes hay que agrupar las fechas: clic derecho en una celda con for
 Un gráfico dinámico se arma sobre la tabla dinámica y cambia cuando cambian sus campos o filtros; está
 en [gráficos en la planilla](graficos-en-la-planilla.md). Si el resumen tiene que quedar en celdas que
 otras fórmulas usan, conviene más
-[sumar y contar con condiciones](../Formulas/sumar-y-contar-con-condiciones.md) o, en Sheets, QUERY
-con group by ([Power Query y equivalentes](../Datos-en-la-planilla/power-query.md)).
+[sumar y contar con condiciones](../Formulas/sumar-y-contar-con-condiciones.md) o, en Sheets,
+[QUERY](../Datos-en-la-planilla/power-query.md) con group by.
 
 ## Qué leer
 

@@ -21,6 +21,7 @@ fuentes:
   - "Google Workspace Updates, 2023-02-01: https://workspaceupdates.googleblog.com/2023/01/google-sheets-powerful-functions-advanced-analysis.html"
   - "Google, QUERY: https://support.google.com/docs/answer/3093343; IMPORTRANGE: https://support.google.com/docs/answer/3093340; ARRAYFORMULA: https://support.google.com/docs/answer/3093275"
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 3"
+  - "Microsoft, XLOOKUP function (versiones viejas; según un resumen de buscador): https://support.microsoft.com/excel/functions/xlookup-function"
 aliases: [equivalencias de funciones, nombres de funciones en inglés, function names Spanish English, compatibilidad de funciones]
 creado: 2026-11-27
 revisado:
@@ -48,8 +49,11 @@ dos y las fechas.
   365, Excel para Microsoft 365 para Mac, Excel para la Web, Excel 2024, Excel 2024 para Mac,
   Excel 2021, Excel 2021 para Mac, Excel 2019, Excel 2016". Es la versión más vieja que figura en
   las páginas; no dice que la función no exista antes.
-- Cuando dice **desde 2019** o **desde 2021**, las versiones anteriores no figuran en la página:
-  un archivo con esa función abierto en una versión vieja da #¿NOMBRE? al recalcular.
+- Cuando dice **desde 2019** o **desde 2021**, las versiones anteriores no figuran en la página.
+  Para BUSCARX, un resumen de la ayuda de Microsoft
+  (https://support.microsoft.com/excel/functions/xlookup-function) dice que un archivo abierto en
+  una versión vieja muestra los resultados guardados y que al reescribir la fórmula da #¿NOMBRE?;
+  que pase lo mismo con las demás (FILTRAR, LAMBDA) no se verificó.
 - Las celdas con "(resumen)" salen de un resumen de la página y no de su texto.
 
 ## Tabla
@@ -62,13 +66,13 @@ dos y las fechas.
 | SI.CONJUNTO | IFS | desde 2019 (resumen) | SI.CONJUNTO | — |
 | SI.ERROR | IFERROR | todas | SI.ERROR (segundo argumento opcional) | — |
 | SI.ND | IFNA | todas | SI.ND | — |
-| BUSCARV | VLOOKUP | todas (resumen) | sin verificar | — |
-| INDICE / COINCIDIR | INDEX / MATCH | sin verificar | sin verificar | — |
-| BUSCARX | XLOOKUP | discrepancia (ver abajo) | sin verificar | anuncio del 2022-08-24 |
-| SUMAR.SI.CONJUNTO | SUMIFS | todas (resumen) | sin verificar | — |
+| BUSCARV | VLOOKUP | todas (resumen) | BUSCARV | — |
+| INDICE / COINCIDIR | INDEX / MATCH | sin verificar | INDICE / COINCIDIR | — |
+| BUSCARX | XLOOKUP | discrepancia (ver abajo) | XLOOKUP (sin traducir) | anuncio del 2022-08-24 |
+| SUMAR.SI.CONJUNTO | SUMIFS | todas (resumen) | SUMAR.SI.CONJUNTO | — |
 | CONTAR.SI.CONJUNTO | COUNTIFS | todas | CONTAR.SI.CONJUNTO | — |
 | IZQUIERDA, DERECHA, EXTRAE, LARGO | LEFT, RIGHT, MID, LEN | todas | iguales | — |
-| ESPACIOS | TRIM | todas | ESPACIOS | — |
+| ESPACIOS (la página es-es de Microsoft se titula SUPRESP; ver [texto y fechas](texto-y-fechas.md)) | TRIM | todas | ESPACIOS | — |
 | LIMPIAR | CLEAN | todas | LIMPIAR | — |
 | CONCAT | CONCAT | discrepancia (ver abajo) | sin verificar | — |
 | UNIRCADENAS | TEXTJOIN | desde 2019 | UNIRCADENAS | — |
@@ -83,15 +87,20 @@ dos y las fechas.
 | FECHA.MES | EDATE | todas | FECHA.MES | — |
 | MES, AÑO | MONTH, YEAR | todas | sin verificar | — |
 | SIFECHA | DATEDIF | todas (resumen), por compatibilidad con Lotus 1-2-3 | sin verificar | — |
-| FILTRAR | FILTER | desde 2021 (resumen) | sin verificar | sin fuente |
-| ORDENAR | SORT | desde 2021 | SORT (otros argumentos) | sin fuente |
-| UNICOS | UNIQUE | desde 2021 | UNIQUE | sin fuente |
+| FILTRAR | FILTER | desde 2021 (resumen) | FILTER (sin traducir) | sin fuente |
+| ORDENAR | SORT | desde 2021 | SORT (sin traducir; otros argumentos) | sin fuente |
+| UNICOS | UNIQUE | desde 2021 | UNIQUE (sin traducir) | sin fuente |
 | SECUENCIA | SEQUENCE | desde 2021 | SECUENCIA | sin fuente |
-| LET | LET | desde 2021 (resumen) | sin verificar | anuncio del 2023-02-01, despliegue previsto completo al 2023-03-14 |
-| LAMBDA (y MAP, REDUCE, SCAN, BYROW, BYCOL, MAKEARRAY) | LAMBDA | solo Microsoft 365 y 2024 (resumen); auxiliares sin verificar | sin verificar | anuncio del 2022-08-24 |
+| LET | LET | desde 2021 (resumen) | LET | anuncio del 2023-02-01, despliegue previsto completo al 2023-03-14 |
+| LAMBDA (y MAP, REDUCE, SCAN, BYROW, BYCOL, MAKEARRAY) | LAMBDA | solo Microsoft 365 y 2024 (resumen); auxiliares sin verificar | LAMBDA (sin traducir); auxiliares sin verificar | anuncio del 2022-08-24 |
 | — | QUERY | no existe; lo más parecido es Power Query | QUERY | sin fuente |
 | — | IMPORTRANGE | no existe; Excel usa vínculos a otro libro | IMPORTRANGE | sin fuente |
 | — | ARRAYFORMULA | no hace falta: las fórmulas se desbordan solas | ARRAYFORMULA | sin fuente |
+
+En la lista de funciones de Google en castellano (vista el 2026-11-27), XLOOKUP, FILTER, SORT,
+UNIQUE, LET y LAMBDA quedan con su nombre en inglés, mientras que BUSCARV, COINCIDIR, INDICE,
+SUMAR.SI.CONJUNTO y SECUENCIA están traducidas. Una fórmula de Excel en castellano con BUSCARX o
+FILTRAR no se escribe igual en Sheets.
 
 La llegada de XLOOKUP y LAMBDA a Sheets sale del anuncio de Google Workspace del 2022-08-24, con un
 despliegue extendido previsto completo al 2022-09-26. Las funciones que Sheets tuvo desde siempre
@@ -106,7 +115,9 @@ llevan "—".
 > function in it, if it was created by someone else using a newer version of Excel." Exceljet la
 > da para "Excel 2021+ and Excel 365". La nota es la que describe el comportamiento; la lista
 > parece incluir esas versiones porque el archivo se puede abrir en ellas (esto es inferencia).
-> En la práctica: BUSCARX desde Excel 2021 y en Microsoft 365.
+> En la práctica: BUSCARX desde Excel 2021 y en Microsoft 365. Qué pasa al abrir el archivo en una
+> versión vieja (se ven los resultados guardados y al reescribir la fórmula da #¿NOMBRE?) no está en
+> la página leída: viene de un resumen de https://support.microsoft.com/excel/functions/xlookup-function.
 >
 > **CONCAT.** La página la lista desde Excel 2016, pero su nota dice que está "disponible en
 > Windows o Mac si tiene Office 2019 o si tiene una suscripción a Office 365".
@@ -115,21 +126,23 @@ llevan "—".
 
 Las funciones volátiles se recalculan siempre (ver
 [errores de fórmula](../Modelo-de-la-planilla/errores-de-formula.md#el-recálculo-y-las-funciones-volátiles),
-donde están las tres listas que no coinciden). Sus nombres:
+donde están las tres listas que no coinciden). Sus nombres, y en qué listas figuran:
 
-| Castellano | Inglés |
-|---|---|
-| AHORA | NOW |
-| HOY | TODAY |
-| DESREF | OFFSET |
-| INDIRECTO | INDIRECT |
-| CELDA | CELL |
-| INFO | INFO |
-| ALEATORIO | RAND |
-| ALEATORIO.ENTRE | RANDBETWEEN |
+| Castellano | Inglés | Listas de Excel |
+|---|---|---|
+| AHORA | NOW | las tres |
+| HOY | TODAY | las tres |
+| DESREF | OFFSET | las tres |
+| INDIRECTO | INDIRECT | las tres |
+| CELDA | CELL | las tres |
+| INFO | INFO | las tres |
+| ALEATORIO | RAND | dos de tres ("Excel Recalculation" no la incluye) |
+| ALEATORIO.ENTRE | RANDBETWEEN | dos de tres ("Improving calculation performance" no la incluye) |
+
+Google nombra como volátiles en Sheets a TODAY, NOW, RAND y RANDBETWEEN.
 
 > [!NOTE]
-> Sin fuente todavía: los nombres en castellano de DESREF, INDIRECTO, CELDA, ALEATORIO y
-> ALEATORIO.ENTRE, de BUSCARV, INDICE y COINCIDIR en Sheets, y la página de Microsoft de INDICE y
-> COINCIDIR con sus versiones. Tampoco se verificó desde cuándo existen FILTER, SORT, UNIQUE,
+> Sin fuente todavía: los nombres en castellano en Excel de DESREF, INDIRECTO, CELDA, ALEATORIO y
+> ALEATORIO.ENTRE (ALEATORIO y ALEATORIO.ENTRE figuran así en la lista de Sheets), y la página de
+> Microsoft de INDICE y COINCIDIR con sus versiones. Tampoco se verificó desde cuándo existen FILTER, SORT, UNIQUE,
 > SEQUENCE, QUERY, IMPORTRANGE y ARRAYFORMULA en Sheets.

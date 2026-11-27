@@ -15,6 +15,7 @@ fuentes:
   - "Bill Karwin, SQL Antipatterns, Volume 1 (Pragmatic Bookshelf, octubre de 2022): https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/ (solo la tabla de capítulos)"
   - "OWASP, SQL Injection Prevention Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html"
   - "OWASP Top 10 2021, A03 Injection: https://top10.owasp.org/2021/A03_2021-Injection"
+  - "OWASP Top 10:2025 (Injection en A05): https://top10.owasp.org/2025/"
   - "Jepsen, índice de análisis: https://jepsen.io/analyses"
   - "CMU 15-445/645 Database Systems, Fall 2025: https://15445.courses.cs.cmu.edu/fall2025/schedule.html (solo el calendario)"
   - "Berenson y otros, A Critique of ANSI SQL Isolation Levels, SIGMOD 1995: https://arxiv.org/abs/cs/0701157 (abstract)"
@@ -82,10 +83,10 @@ Ninguna fuente leída da pesos por tipo: los pesos son de esta base.
   común ("Fear of the Unknown"), columnas implícitas con `SELECT *`, inyección SQL. Leer los
   capítulos de lo que se esté por hacer; fijarse en el par antipatrón y solución de cada uno. Solo se
   vio la tabla de capítulos.
-- **CMU 15-445/645 Database Systems (Andy Pavlo).** Curso universitario con el calendario publicado.
-  La clase 2 del calendario de otoño de 2025 se llama "Modern SQL". Solo se vio la fila del
-  calendario: qué cubre esa clase y cuánto del curso trata el interior del motor, que queda fuera de
-  este tema, no se verificó.
+- **CMU 15-445/645 Database Systems.** Curso universitario con el calendario publicado. Según el
+  resumen de un buscador, el de otoño de 2026 lo da Jignesh Patel. La clase 2 del calendario de
+  otoño de 2025 se llama "Modern SQL". Solo se vio la fila del calendario: el contenido de esa clase
+  y cuánto del curso trata el interior del motor, que queda fuera de este tema, no se verificaron.
 
 Los ejercicios para practicar (pgexercises, SQLBolt, Select Star SQL) están en la
 [ruta de SQL](ruta-de-sql.md).
@@ -109,9 +110,10 @@ Los ejercicios para practicar (pgexercises, SQLBolt, Select Star SQL) están en 
   Leer "Primary Defenses" y la parte de lista permitida. Fijarse en que los nombres de tabla o de
   columna y el sentido de un `ORDER BY` no se pueden parametrizar, y ahí va una lista de valores
   permitidos; y en que "input validation complements parameter binding; it does not replace it".
-- **OWASP Top 10 2021, A03 Injection.** Para dimensionar el problema: "94% of the applications were
-  tested for some form of injection". Es la edición 2021; si hay una posterior no se verificó, así
-  que conviene mirar https://owasp.org/Top10/ antes de citar cifras.
+- **OWASP Top 10 2021, A03 Injection.** Para dimensionar el problema: en 2021, "94% of the
+  applications were tested for some form of injection". En la edición 2025
+  (https://top10.owasp.org/2025/) Injection quedó quinta (A05); sus cifras no se revisaron, así que
+  conviene leerla antes de citar números nuevos.
 
 Cómo se aplican las dos está en [SQL desde una aplicación](../SQL/sql-desde-una-aplicacion.md).
 

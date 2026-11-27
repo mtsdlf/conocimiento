@@ -11,7 +11,7 @@ fuentes:
   - "PostgreSQL Documentation, 13.2 Transaction Isolation: https://www.postgresql.org/docs/current/transaction-iso.html"
   - "PostgreSQL Documentation, 13.3 Explicit Locking: https://www.postgresql.org/docs/current/explicit-locking.html"
   - "Warszawski y Bailis, ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications, SIGMOD 2017: https://www.bailis.org/papers/acidrain-sigmod2017.pdf (abstract, introducción y análisis)"
-  - "Martin Kleppmann, Designing Data-Intensive Applications (O'Reilly), cap. Transactions: https://dataintensive.net/ (edición y numeración de capítulos sin verificar)"
+  - "Martin Kleppmann, Designing Data-Intensive Applications (O'Reilly), capítulo Transactions: https://dataintensive.net/ (no se leyó; la edición y los números de capítulo no se verificaron)"
   - "Bases-de-datos/.investigacion/modelos-transacciones-elegir.md, sección 2; Bases-de-datos/.investigacion/modelos-transacciones-elegir-huecos.md, secciones 2 y 3"
 aliases: [transacciones, control de concurrencia, transactions, concurrency control]
 creado: 2026-11-27

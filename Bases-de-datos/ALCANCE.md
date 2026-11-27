@@ -52,7 +52,7 @@ Bases-de-datos/
     nivel-de-aislamiento      qué ve una transacción de las otras y sus anomalías
     concurrencia              actualización perdida, bloqueo optimista y pesimista
   Elegir-una-base/            criterios y opciones
-    criterios-de-eleccion     modelo, consistencia, escala, operación, costo
+    criterios-de-eleccion     modelo, garantías transaccionales, escala, operación, costo
     base-administrada         propia o administrada; respaldo y réplica como requisitos
     ficha: motores de bases de datos
   Fundamentos/

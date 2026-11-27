@@ -62,7 +62,7 @@ guardar copias.
 
 ## Lo que hay en esta vertical
 
-- [Criterios de elección](criterios-de-eleccion.md) — modelo, consistencia, concurrencia de escritura,
+- [Criterios de elección](criterios-de-eleccion.md) — modelo, garantías transaccionales, concurrencia de escritura,
   escala, operación, costo y experiencia del equipo; PostgreSQL por defecto y sus críticas, y
   cuándo alcanza SQLite.
 - [Base administrada](base-administrada.md) — propia contra administrada; respaldo, restauración a un

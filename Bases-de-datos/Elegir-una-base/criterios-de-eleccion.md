@@ -1,7 +1,7 @@
 ---
 resumen: >-
-  Los criterios para elegir una base son siete: el modelo de datos, la consistencia que hace falta,
-  cuántos escriben a la vez, la escala, quién la opera, el costo y lo que ya sabe el equipo. Para
+  Los criterios para elegir una base son siete: el modelo de datos, las garantías transaccionales
+  que hacen falta, cuántos escriben a la vez, la escala, quién la opera, el costo y lo que ya sabe el equipo. Para
   el sistema de un comercio suelen llevar a PostgreSQL, o a SQLite si escribe un solo programa en un
   solo equipo.
 estado: borrador
@@ -25,36 +25,43 @@ revisado:
 
 # Criterios de elección
 
-Los criterios para elegir una base son siete: el modelo de datos, la consistencia que hace falta,
-cuántos escriben a la vez, la escala, quién la opera, el costo y lo que ya sabe el equipo. Para
+Los criterios para elegir una base son siete: el modelo de datos, las garantías transaccionales
+que hacen falta, cuántos escriben a la vez, la escala, quién la opera, el costo y lo que ya sabe el equipo. Para
 el sistema de un comercio suelen llevar a PostgreSQL, o a SQLite si escribe un solo programa en un
 solo equipo.
 
 Es el componente central de [Elegir una base](elegir-una-base.md). Los criterios no pesan igual:
-los dos primeros salen de cómo es el dato y casi nunca cambian; los últimos dependen del momento
-del negocio y del equipo.
+los dos primeros salen de cómo es el dato y, por inferencia propia, casi nunca cambian; los
+últimos dependen del momento del negocio y del equipo.
+
+"Garantías transaccionales" quiere decir qué promete la base cuando dos operaciones se pisan: que
+un grupo de escrituras se aplique entero o nada y qué ve cada una de las otras (el
+[nivel de aislamiento](../Transacciones/nivel-de-aislamiento.md)). No se lo llama "consistencia"
+porque en ACID esa palabra dice otra cosa: que se cumplan las restricciones, como explica
+[transacción](../Transacciones/transaccion.md).
 
 ## Los siete criterios aplicados a un comercio
 
 | Criterio | La pregunta | En el sistema de un comercio |
 |---|---|---|
 | Modelo | ¿Qué preguntas se le hacen a los datos? | Pedidos, clientes, productos y stock que se cruzan: [relacional](../Modelos-de-datos/base-relacional.md) |
-| Consistencia | ¿Qué pasa si dos operaciones se pisan? | El stock no puede quedar negativo: hacen falta [transacciones](../Transacciones/transaccion.md) |
+| Garantías transaccionales | ¿Qué pasa si dos operaciones se pisan? | El stock no puede quedar negativo: hacen falta [transacciones](../Transacciones/transaccion.md) |
 | Concurrencia de escritura | ¿Cuántos escriben a la vez y desde dónde? | Una caja en un local: pocos; una tienda web: muchos usuarios a la vez |
-| Escala | ¿Cuántos datos y cuántas consultas por segundo? | Casi siempre poco para cualquier motor; se revisa con cifras reales |
+| Escala | ¿Cuántos datos y cuántas consultas por segundo? | Casi siempre poco para cualquier motor (inferencia propia); se revisa con cifras reales |
 | Operación | ¿Quién la instala, respalda, actualiza y vigila? | Rara vez hay alguien dedicado: pesa la [base administrada](base-administrada.md) |
 | Costo | ¿Cuánto sale con el respaldo que hace falta? | El plan gratis puede no traer copias; ver la [ficha](motores-de-bases-de-datos.md) |
-| Experiencia del equipo | ¿Qué motor conoce quien la va a usar? | Un motor bien conocido ahorra errores de configuración |
+| Experiencia del equipo | ¿Qué motor conoce quien la va a usar? | Un motor bien conocido ahorra errores de configuración (inferencia propia) |
 
-## Consistencia y concurrencia van juntas
+## Las garantías y la concurrencia van juntas
 
-La consistencia que hace falta depende de cuántos escriben sobre el mismo dato. Si dos clientes
+Las garantías que hacen falta dependen de cuántos escriben sobre el mismo dato. Si dos clientes
 compran el último producto a la vez, el sistema tiene que vender uno solo. Eso se resuelve con una
 escritura condicional o un bloqueo, como explica [concurrencia](../Transacciones/concurrencia.md), y
 la base tiene que soportarlo.
 
 Al comparar motores, el nombre de un nivel no alcanza. Según un resumen del análisis de Jepsen sobre
-MySQL 8.0.34, "MySQL's Repeatable Read routinely allows G2-item, even on a single healthy node", y
+MySQL 8.0.34, "MySQL's Repeatable Read routinely allows G2-item, even on a single healthy node" (G2-item es el nombre de Jepsen para una
+anomalía de la familia del write skew), y
 sus transacciones en ese nivel "cannot safely read a value and then write it". El mismo nombre de
 nivel en PostgreSQL se comporta distinto. Las diferencias están en
 [nivel de aislamiento](../Transacciones/nivel-de-aislamiento.md).
@@ -67,12 +74,14 @@ relacional, su búsqueda de texto y sus extensiones (ver
 críticas existen y son concretas:
 
 - **Uber, 2016.** Según un resumen del artículo, Uber dejó PostgreSQL por la amplificación de
-  escritura con muchos índices secundarios, la replicación verbosa entre centros de datos, un bug
+  escritura con muchos índices secundarios (cada cambio en una fila obliga a escribir también en
+  cada índice), la replicación verbosa entre centros de datos, un bug
   de la versión 9.2 que duplicaba filas en réplicas, la imposibilidad de replicar entre versiones
   mayores y un proceso por conexión que no llegaba a más de unos cientos de conexiones activas.
 - **Pavlo, 2023.** Según un resumen de su artículo, Andrew Pavlo, de la Carnegie Mellon, llama a
-  PostgreSQL "our favorite DBMS" y aun así lista cuatro problemas: la copia de versiones de las filas, la hinchazón de las tablas,
-  el mantenimiento de índices secundarios y la gestión de vacuum. El título resume la posición:
+  PostgreSQL "our favorite DBMS" y aun así lista cuatro problemas: la copia de versiones de las filas, la hinchazón de las tablas
+  (el espacio que ocupan las versiones viejas), el mantenimiento de índices secundarios y la
+  gestión de vacuum (el proceso de PostgreSQL que limpia esas versiones viejas). El título resume la posición:
   "Yes, PostgreSQL Has Problems. But We're Sticking With It!".
 - **Practicantes.** Según resúmenes del buscador, el apéndice "When not to use Postgres" del libro
   *Just Use Postgres* dice que no es "silver bullet" y que no conviene reemplazar una base que
@@ -81,7 +90,9 @@ críticas existen y son concretas:
 
 > [!IMPORTANT]
 > **Qué carga critican.** EnterpriseDB, que vende servicios de PostgreSQL, sostiene que parte de la
-> crítica de Uber no aplica: "replicas certainly allow access to data with full MVCC semantics".
+> crítica de Uber no aplica: "replicas certainly allow access to data with full MVCC semantics" (MVCC: guardar varias
+> versiones de cada fila para que leer no bloquee escribir; ver
+> [nivel de aislamiento](../Transacciones/nivel-de-aislamiento.md)).
 > Las críticas de Uber y de Pavlo apuntan a cargas con muchísimas actualizaciones y borrados, muchos
 > índices y replicación entre centros de datos. El sistema de un comercio chico o mediano es lo
 > contrario: pocas escrituras por segundo y lecturas que se cruzan. Que por eso la crítica no
@@ -107,6 +118,9 @@ La regla del proyecto: si los datos están en un dispositivo local, con poca con
 escritura y menos de un terabyte, SQLite "is almost always a better solution". Se usa una base
 cliente-servidor cuando la base está separada de la aplicación por una red, cuando hay muchos
 escritores concurrentes o cuando los datos son muy grandes; "Otherwise → choose SQLite".
+
+La versión vigente de SQLite y su fuente están en la
+[ficha de motores](motores-de-bases-de-datos.md).
 
 Para el comercio, eso significa que la caja de un local, una aplicación de escritorio o un sitio
 chico con un solo servidor entran en SQLite. Una tienda web con varios servidores o varias

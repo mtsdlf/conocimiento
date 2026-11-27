@@ -19,6 +19,7 @@ fuentes:
   - "FAST Standard Organisation, The FAST Standard: https://www.fast-standard.org/the-fast-standard/"
   - "Raymond R. Panko, What We Don't Know About Spreadsheet Errors Today, EuSpRIG 2015: https://arxiv.org/pdf/1602.02601"
   - "Planillas-de-calculo/.investigacion/posicion-contraria-y-fundamentos.md"
+  - "Microsoft, XLOOKUP function (versiones viejas; según un resumen de buscador): https://support.microsoft.com/excel/functions/xlookup-function"
 aliases: [historia de las planillas, spreadsheet history, VisiCalc, Lotus 1-2-3]
 creado: 2026-11-27
 revisado:
@@ -49,7 +50,7 @@ La última gran renovación de las fórmulas fue la de las matrices dinámicas. 
 
 ### FAST y el Code del ICAEW se complementan
 
-Hay dos referencias para armar planillas que duren. El *Financial Modelling Code* del ICAEW da principios (separar entradas, cálculos y salidas; no esconder números en las fórmulas; fórmulas consistentes) y, según un resumen de su presentación, "is not intended to be a tick-box compliance tool; rather it is a framework". El FAST Standard ("Flexible, Appropriate, Structured & Transparent") detalla reglas de construcción, con "Rigorous consistency in layout and organisation" y "simple, clear formulas". Las fuentes los presentan como complementarios, no rivales: ICAEW dice qué lograr y FAST cómo construirlo. Cómo se aplica el Code a una planilla de costos está en [entradas, cálculo y salidas](../Diseno-de-planillas/entradas-calculo-salidas.md).
+Hay dos referencias para armar planillas que duren. El *Financial Modelling Code* del ICAEW da principios (separar entradas, cálculos y salidas; no esconder números en las fórmulas; fórmulas consistentes) y, según un resumen de su presentación, "is not intended to be a tick-box compliance tool; rather it is a framework". El FAST Standard ("Flexible, Appropriate, Structured & Transparent") detalla reglas de construcción, con "Rigorous consistency in layout and organisation" y "simple, clear formulas". Según un resumen de buscador, las fuentes los presentan como complementarios, no rivales: ICAEW dice qué lograr y FAST cómo construirlo. Como el PDF de FAST no se leyó, esa división no se pudo contrastar. Cómo se aplica el Code a una planilla de costos está en [entradas, cálculo y salidas](../Diseno-de-planillas/entradas-calculo-salidas.md).
 
 Las reglas concretas de FAST están en su PDF, que la investigación no leyó; acá no se le atribuye ninguna. Un tercer estándar que a veces se nombra, SMART, no apareció en ninguna búsqueda.
 
@@ -61,13 +62,13 @@ FAST pide fórmulas simples y transparentes, que cualquiera pueda seguir celda p
 
 ### BUSCARX o INDICE+COINCIDIR
 
-BUSCARX (XLOOKUP) busca en cualquier dirección y da coincidencia exacta por defecto, y Microsoft la recomienda sobre BUSCARV. El argumento a favor de INDICE+COINCIDIR (INDEX+MATCH) es la compatibilidad: según Microsoft, un libro con BUSCARX abierto en una versión vieja muestra los resultados guardados, pero si se vuelve a escribir la fórmula da `#NAME?`. La propia página de Microsoft se contradice sobre si Excel 2016 y 2019 la tienen (la lista de versiones las incluye y una nota dice que no); Exceljet la da desde Excel 2021. Google Sheets la tiene desde agosto de 2022. INDICE+COINCIDIR funciona en todas las versiones y, según Exceljet, cubre la búsqueda a la izquierda, en dos direcciones y con varios criterios. La decisión depende de quién va a abrir el archivo; el detalle está en [funciones de búsqueda](../Formulas/funciones-de-busqueda.md).
+BUSCARX (XLOOKUP) busca en cualquier dirección y da coincidencia exacta por defecto, y Microsoft la recomienda sobre BUSCARV. El argumento a favor de INDICE+COINCIDIR (INDEX+MATCH) es la compatibilidad: según un resumen de la ayuda de Microsoft (https://support.microsoft.com/excel/functions/xlookup-function; la página de XLOOKUP que se leyó no lo dice), un libro con BUSCARX abierto en una versión vieja muestra los resultados guardados, pero si se vuelve a escribir la fórmula da `#¿NOMBRE?`. La propia página de Microsoft se contradice sobre si Excel 2016 y 2019 la tienen (la lista de versiones las incluye y una nota dice que no); Exceljet la da desde Excel 2021. Google Sheets la tiene desde agosto de 2022. INDICE+COINCIDIR funciona en todas las versiones y, según Exceljet, cubre la búsqueda a la izquierda, en dos direcciones y con varios criterios. La decisión depende de quién va a abrir el archivo; el detalle está en [funciones de búsqueda](../Formulas/funciones-de-busqueda.md).
 
 ## Ideas que circulan y no se sostienen
 
 | Lo que se dice | Lo que dicen las fuentes | Dónde está |
 |---|---|---|
-| «El 88 % de las planillas tiene errores» | Sin fuente rastreable. Panko da 94 % de 85 planillas auditadas, sobre muestras no aleatorias | [Errores en planillas](../Diseno-de-planillas/errores-en-planillas.md) |
+| «El 88 % de las planillas tiene errores» | Sin fuente rastreable. Panko da 94 % de 85 planillas auditadas, mayormente por firmas comerciales; que la muestra no sea aleatoria es lectura propia | [Errores en planillas](../Diseno-de-planillas/errores-en-planillas.md) |
 | «Las planillas son la fuente de los errores; hay que sacarlas» | Panko: "spreadsheet programs are not error-prone. People are error prone." Lo que falta es probarlas | [Errores en planillas](../Diseno-de-planillas/errores-en-planillas.md) |
 | «Microsoft bloquea las macros de internet desde 2022» | Solo en Office para Windows; no en Mac, móviles ni la web | [Macros](../Automatizar-y-compartir/macros.md) |
 | «Google Sheets admite 10 millones de celdas» | 20 millones desde septiembre de 2026 | [Ficha de aplicaciones](../aplicaciones-de-planillas.md) |

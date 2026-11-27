@@ -80,7 +80,9 @@ lectura, hay que confirmar cuál se contrata.
 
 Un clúster con réplicas puede dar garantías más débiles que una sola instancia del mismo motor. Según
 el resumen del análisis de Jepsen sobre Amazon RDS for PostgreSQL, publicado el 2025-04-29, "Amazon
-RDS for PostgreSQL multi-AZ clusters violate Snapshot Isolation". La anomalía (Long Fork) apareció en
+RDS for PostgreSQL multi-AZ clusters violate Snapshot Isolation" (el aislamiento por instantánea que explica
+[nivel de aislamiento](../Transacciones/nivel-de-aislamiento.md#el-mismo-nombre-no-garantiza-lo-mismo)).
+La anomalía (Long Fork: dos lectores ven en órdenes opuestos dos transacciones independientes) apareció en
 clústeres sanos, en todas las versiones probadas, y el autor llama a su trabajo "a cursory
 exploration".
 

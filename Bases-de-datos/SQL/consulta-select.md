@@ -30,7 +30,7 @@ SELECT nombre, precio          -- qué columnas
 FROM productos                 -- de qué tabla
 WHERE stock > 0                -- qué filas
 ORDER BY precio DESC           -- en qué orden
-LIMIT 2;                       -- cuántas (LIMIT es de PostgreSQL, MySQL y SQLite)
+LIMIT 2;                       -- cuántas (LIMIT es de PostgreSQL, MySQL y SQLite; en SQLite, comprobado en 3.53.2)
 ```
 
 La forma general, según la documentación de PostgreSQL, es
@@ -53,9 +53,10 @@ a lo que importa para escribir consultas:
 7. `LIMIT` u `OFFSET`: se recorta.
 
 Es un orden lógico, un modelo para predecir el resultado, no lo que hace el motor paso a paso. La
-misma página aclara que PostgreSQL "will effectively evaluate output expressions after sorting and
-limiting" cuando eso no cambia el resultado. El resultado es siempre el que daría el orden lógico;
-la forma de llegar la elige el planificador.
+misma página aclara que, si hay `ORDER BY` o `LIMIT`, PostgreSQL "will effectively evaluate output
+expressions after sorting and limiting", mientras esas expresiones no aparezcan en `DISTINCT`,
+`ORDER BY` o `GROUP BY`. Qué filas y columnas salen se predice con el orden lógico; cómo llega el
+motor a ellas lo elige el planificador (la parte del motor que decide cómo ejecutar cada consulta).
 
 ## Por qué un alias no se ve en WHERE
 
@@ -69,8 +70,10 @@ WHERE precio_con_iva > 10000;
 -- ERROR:  column "precio_con_iva" does not exist
 ```
 
+El error se comprobó al ejecutar la consulta en PostgreSQL 18.4.
+
 Se arregla repitiendo la expresión en `WHERE` (`WHERE precio * 1.21 > 10000`) o calculándola en una
-[subconsulta o CTE](subconsultas-y-cte.md). En cambio, `ORDER BY precio_con_iva` sí funciona, porque
+[subconsulta o CTE](subconsultas-y-cte.md). En cambio, `ORDER BY precio_con_iva` sí funciona (comprobado en PostgreSQL 18.4), porque
 `ORDER BY` va después de `SELECT`. Lo mismo explica que no se pueda filtrar por un agregado en
 `WHERE` (para eso está `HAVING`) ni por una [función de ventana](funciones-de-ventana.md) (para eso
 hace falta una subconsulta).

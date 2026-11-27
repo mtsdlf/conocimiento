@@ -81,7 +81,8 @@ completa está en [modelos de datos](modelos-de-datos.md#lo-que-sostienen-stoneb
 
 ## Dónde se queda corto en un comercio
 
-El problema aparece con las preguntas que cruzan documentos. "Cuánto vendió cada producto este mes"
+El problema aparece con las preguntas que cruzan documentos; los ejemplos de esta sección son
+inferencias propias a partir de cómo se guarda un documento, no casos de una fuente. "Cuánto vendió cada producto este mes"
 obliga a recorrer todos los pedidos y abrir sus listas de ítems. "Qué clientes compraron mate y
 nunca taza" es una unión que en SQL sale con un [join](../SQL/join.md) y acá queda en una
 agregación más compleja o en la aplicación. El stock, que se descuenta desde muchos pedidos a la
