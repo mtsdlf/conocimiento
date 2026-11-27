@@ -5,10 +5,12 @@ estado: vigente
 estabilidad: estable
 fuentes:
   - "Simonsmeier, Flaig, Deiglmayr, Schalk y Schneider (2022), Domain-specific prior knowledge and learning: a meta-analysis, Educational Psychologist 57(1):31-54 (abstract): https://doi.org/10.1080/00461520.2021.1939700"
-  - "National Research Council (2000), How People Learn, cap. 1 y 2 (solo un extracto verificado): https://www.nationalacademies.org/read/9457/chapter/4"
+  - "National Research Council (2000), How People Learn, expanded edition, cap. 1 «Key Findings» (texto completo): https://nap.nationalacademies.org/resource/hpl/Chapter1.pdf"
+  - "Johnson-Laird (2010), Mental models and human reasoning, PNAS 107(43) (abstract): https://doi.org/10.1073/pnas.1012933107"
   - "Smith, diSessa y Roschelle (1994), Misconceptions reconceived, Journal of the Learning Sciences 3(2) (solo título): https://doi.org/10.1207/s15327809jls0302_1"
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-conocimiento-previo-y-motivacion-2026-11.md"
 aliases: [prior knowledge, conocimiento previo, comprensión, understanding, esquemas, ideas previas]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -28,12 +30,20 @@ La medida importa más de lo que parece. El metaanálisis de Simonsmeier et al. 
 
 ## Comprender no es retener
 
-La idea de que comprender es distinto de memorizar no tiene un cuerpo de evidencia propio: según el informe de esta base, se sostiene con *How People Learn* y con los efectos de la autoexplicación. El único hallazgo de esa síntesis verificado en el texto dice que «organizing information into a conceptual framework allows for greater transfer» (NRC, *How People Learn*). Como lectura de esta base, comprender sería tener lo sabido organizado en un marco, de modo que sirva fuera del ejercicio donde se aprendió.
+La idea de que comprender es distinto de memorizar no tiene un cuerpo de evidencia propio: según el informe de esta base, se sostiene con *How People Learn* y con los efectos de la autoexplicación. Ese libro destaca tres hallazgos porque tienen «a solid research base» (NRC 2000, cap. 1):
+
+- Los alumnos llegan con preconceptos. Si no se los trabaja, «they may fail to grasp the new concepts and information that are taught, or they may learn them for purposes of a test but revert to their preconceptions outside the classroom». Es el problema del [cambio conceptual](cambio-conceptual.md).
+- Para ser competente hacen falta una base de hechos, entenderlos dentro de un marco conceptual y organizarlos para poder recuperarlos y aplicarlos. Según el mismo capítulo, «organizing information into a conceptual framework allows for greater "transfer"».
+- Un enfoque «metacognitive» de la enseñanza ayuda a que los alumnos controlen su aprendizaje, definiendo metas y siguiendo su progreso. Está en [Metacognición y autorregulación](../Metacognicion-y-autorregulacion/metacognicion-y-autorregulacion.md).
+
+Como lectura de esta base, comprender sería tener lo sabido organizado en un marco, de modo que sirva fuera del ejercicio donde se aprendió.
+
+La psicología del razonamiento usa otra palabra para algo parecido. Johnson-Laird (2010), según su abstract, sostiene que se razona construyendo «mental models of each distinct possibility», y que razonar es «a simulation of the world fleshed out with our knowledge». Es una teoría del razonamiento, no de la enseñanza; el puente con comprender es de esta base.
 
 La técnica que pide explicitar ese marco mientras se aprende es la [autoexplicación](../../Didactica/Preguntas-y-dialogo/autoexplicacion.md), que vive en Didáctica. El límite de la memoria de trabajo que hace necesario organizar está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md).
 
 > [!NOTE]
-> Sin fuente todavía: los otros dos hallazgos que suelen atribuirse a *How People Learn* (que los alumnos llegan con preconceptos y que la enseñanza metacognitiva ayuda) no se verificaron en el capítulo «Key Findings». Tampoco se buscó la literatura de modelos mentales (Johnson-Laird, Gentner).
+> Sin fuente todavía: el libro *Mental Models* de Gentner y Stevens (1983) y los estudios que llevan los modelos mentales a la comprensión en clase.
 
 ## Qué hay adentro
 

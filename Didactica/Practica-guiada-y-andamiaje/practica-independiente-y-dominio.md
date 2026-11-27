@@ -26,7 +26,7 @@ El principio 9 de [Rosenshine](../Explicar-y-modelar/principios-de-rosenshine.md
 
 - El mismo material: La práctica independiente trata «the same material as the guided practice», o una variación leve. No es el momento de introducir lo nuevo.
 - Guiada antes: exige que antes haya habido práctica guiada suficiente. Si quien enseña tiene que explicar mucho mientras el otro practica solo, la guiada se cortó antes de tiempo.
-- Sobreaprender: practicar más allá del primer acierto («overlearning») para que el recuerdo sea automático y libere memoria de trabajo.
+- Sobreaprender: practicar más allá del primer acierto («overlearning») para que el recuerdo sea automático y libere memoria de trabajo. Su beneficio está disputado: en una sola sesión se desvanece en semanas, y para que dure rinde más repartir ese tiempo (ver [memoria y práctica](../../Ciencias-del-aprendizaje/Memoria-y-practica/memoria-y-practica.md)).
 - Circular: quien enseña pasa por cada uno con contactos cortos, de «30 seconds or less».
 
 Rosenshine también encuentra que la práctica cooperativa, con estudiantes que se ayudan, aparece asociada a mayor logro en los estudios que cita.

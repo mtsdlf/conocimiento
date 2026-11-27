@@ -4,11 +4,13 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
-  - "Perkins y Salomon (1989), Are cognitive skills context-bound?, Educational Researcher; (1992), entrada de enciclopedia; vía resúmenes: https://en.wikipedia.org/wiki/Transfer_of_learning y https://dynamiclearning.substack.com/p/18-transfer-high-roads-and-low-roads"
+  - "Perkins y Salomon (1992), Transfer of learning, International Encyclopedia of Education, 2.ª ed.: https://openlab.citytech.cuny.edu/fywpd/files/2020/01/transferoflearning.pdf (texto completo)"
+  - "Salomon y Perkins (1989), Rocky roads to transfer, Educational Psychologist 24(2):113-142, y Perkins y Salomon (1988), Teaching for transfer, Educational Leadership 46(1):22-32, citados en la entrada de 1992; vía resúmenes: https://en.wikipedia.org/wiki/Transfer_of_learning y https://dynamiclearning.substack.com/p/18-transfer-high-roads-and-low-roads"
   - "Pan y Rickard (2018), Transfer of test-enhanced learning: meta-analytic review and synthesis, Psychological Bulletin: https://pubmed.ncbi.nlm.nih.gov/29733621/ (abstract)"
   - "Bjork y Bjork (2011), Making things hard on yourself, but in a good way: https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf (leído)"
   - "National Research Council (2000), How People Learn, cap. 4: https://www.nationalacademies.org/read/9457/chapter/4 (extracto del buscador)"
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-metacognicion-memoria-transferencia-2026-11.md"
 aliases: [low road transfer, high road transfer, hugging, bridging, abrazar y tender puentes, transferencia por camino alto, cómo enseñar para transferir]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -18,15 +20,15 @@ revisado: 2026-11-27
 
 Camino bajo y camino alto son los dos mecanismos de transferencia que distinguen Perkins y Salomon: el bajo dispara una rutina muy practicada en un contexto parecido; el alto abstrae a propósito un principio y lo lleva a otro lado. De ahí salen las prácticas que la favorecen: practicar variado, tender puentes explícitos, recuperar de memoria y organizar lo aprendido en un marco conceptual.
 
-Lo que sigue sobre Perkins y Salomon viene de resúmenes secundarios; sus artículos de 1989 y 1992 no se leyeron. Las cifras sobre recuperación vienen del abstract de Pan y Rickard (2018).
+Lo que sigue sobre Perkins y Salomon viene de su entrada de enciclopedia de 1992, leída entera. Los artículos donde propusieron los dos caminos (1989) y las dos estrategias (1988) no se leyeron. Las cifras sobre recuperación vienen del abstract de Pan y Rickard (2018).
 
 ## Dos maneras de llevar algo a otro lado
 
-El camino bajo es la transferencia refleja. Una habilidad practicada mucho y en situaciones variadas se vuelve automática, y se dispara sola cuando aparece una situación parecida. Ejemplos ilustrativos de esta base: quien manejó muchos autos maneja una camioneta sin pensar, y quien escribió muchas consultas a una base de datos reconoce el patrón en otra.
+El camino bajo es la transferencia refleja. Una habilidad practicada mucho y en situaciones variadas se vuelve automática, y se dispara sola cuando aparece una situación parecida. Perkins y Salomon (1992) lo definen como "the triggering of well-practiced routines by stimulus conditions similar to those in the learning context", y dan el ejemplo de quien alquila un camión por primera vez y lo maneja casi como un auto. Ejemplos ilustrativos de esta base: quien manejó muchos autos maneja una camioneta sin pensar, y quien escribió muchas consultas a una base de datos reconoce el patrón en otra.
 
-El camino alto es la transferencia deliberada. Quien aprende saca a propósito el principio de un caso y lo aplica en otro que en la superficie no se parece. Puede ir hacia adelante (al aprender, pensar dónde más va a servir) o hacia atrás (ante un problema nuevo, buscar qué de lo ya sabido se aplica).
+El camino alto es la transferencia deliberada. Quien aprende saca a propósito el principio de un caso y lo aplica en otro que en la superficie no se parece: para Perkins y Salomon (1992), "deliberate effortful abstraction and a search for connections". Según resúmenes secundarios de su artículo de 1989, puede ir hacia adelante (al aprender, pensar dónde más va a servir) o hacia atrás (ante un problema nuevo, buscar qué de lo ya sabido se aplica).
 
-Los dos caminos se pueden ubicar en la [transferencia cercana y lejana](transferencia-cercana-y-lejana.md). Como lectura de esta base, el bajo serviría para lo cercano y el alto, que exige esfuerzo y abstracción, para lo lejano; ninguna fuente leída lo comprueba.
+Los dos caminos se pueden ubicar en la [transferencia cercana y lejana](transferencia-cercana-y-lejana.md). Perkins y Salomon (1992) sostienen que el camino bajo "figures most often in near transfer" y que el alto "can easily accomplish far transfer", y que en un mismo episodio los dos pueden trabajar juntos. Es su síntesis teórica, no una medición.
 
 ## Abrazar y tender puentes
 
@@ -34,10 +36,10 @@ De esos dos caminos Perkins y Salomon derivan dos estrategias de enseñanza:
 
 | Estrategia | Camino | Qué hace quien enseña |
 |---|---|---|
-| Abrazar (*hugging*) | Bajo | Hace que la práctica se parezca a la situación en que se va a usar lo aprendido |
-| Tender puentes (*bridging*) | Alto | Hace explícita la conexión con otros contextos, con analogías y preguntas sobre dónde más se aplica |
+| Abrazar (*hugging*) | Bajo | Hace que la práctica se parezca a la situación en que se va a usar lo aprendido; por ejemplo, tomar exámenes de prueba en lugar de hablar de técnica de examen |
+| Tender puentes (*bridging*) | Alto | Pide abstraer, buscar conexiones y reflexionar sobre el propio pensamiento; por ejemplo, armar una estrategia de examen a partir de la experiencia previa |
 
-Ejemplos ilustrativos de esta base, no de los autores: en un curso de programación, abrazar sería practicar con código y herramientas como las del trabajo, y tender puentes, preguntar qué otro problema tiene la misma estructura que el que se acaba de resolver.
+Los ejemplos de la tabla son de Perkins y Salomon (1992), que recomiendan combinar las dos: la enseñanza que junta lo vivencial de abrazar con lo analítico de tender puentes "seems most likely to yield rich transfer". Ejemplos ilustrativos de esta base, no de los autores: en un curso de programación, abrazar sería practicar con código y herramientas como las del trabajo, y tender puentes, preguntar qué otro problema tiene la misma estructura que el que se acaba de resolver.
 
 ## La recuperación transfiere, con condiciones
 
@@ -61,4 +63,4 @@ Inferencias de esta base a partir de lo anterior, no un procedimiento probado:
 4. Pedí que recuperen de memoria con preguntas de aplicación, no solo de recordar.
 5. Medí la transferencia con una tarea nueva, no con las mismas preguntas de la práctica.
 
-> [!NOTE] Sin fuente todavía: los artículos de Perkins y Salomon leídos en el original, y estudios que midan *hugging* y *bridging* como intervenciones.
+> [!NOTE] Sin fuente todavía: los artículos de 1988 y 1989 leídos en el original, y estudios con grupo de comparación que midan *hugging* y *bridging* como intervenciones; la búsqueda solo trajo estudios con percepciones de estudiantes, que no se leyeron.

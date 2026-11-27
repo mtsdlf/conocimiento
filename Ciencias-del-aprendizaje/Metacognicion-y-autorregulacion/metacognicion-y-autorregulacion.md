@@ -7,9 +7,11 @@ fuentes:
   - "Bjork, Dunlosky y Kornell (2013), Self-regulated learning: beliefs, techniques, and illusions, Annual Review of Psychology 64: https://pubmed.ncbi.nlm.nih.gov/23020639/ (abstract)"
   - "Wikipedia, Metacognition (Flavell 1979): https://en.wikipedia.org/wiki/Metacognition (resumen)"
   - "Zimmerman (2002), Becoming a self-regulated learner: an overview, Theory Into Practice 41(2), DOI 10.1207/s15430421tip4102_2 (solo título)"
-  - "EEF, Teaching and Learning Toolkit, Metacognition and self-regulation: https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation (vía buscador)"
+  - "EEF, Teaching and Learning Toolkit, Metacognition and self-regulation, revisión de mayo de 2025: https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation (texto completo)"
+  - "EEF (2025), Metacognition and Self-Regulated Learning: Guidance Report, segunda edición: https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf (resumen de recomendaciones y capítulo introductorio)"
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-metacognicion-memoria-transferencia-2026-11.md"
 aliases: [metacognition, self-regulated learning, metacognición, autorregulación del aprendizaje, aprender a aprender]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -43,9 +45,9 @@ La consecuencia es doble. Quien cree saber deja de estudiar antes de tiempo (es 
 
 ## Cuánto rinde enseñarlo
 
-Según el buscador, el Toolkit de la EEF da a la metacognición y la autorregulación un costo muy bajo, y el efecto circula en dos versiones: +8 meses de progreso por año en la página actual, según el buscador, y +7 en otras páginas y en la noticia de su guía (primaria +8, secundaria +7). La evidencia figura como "alta", aunque muchos estudios no tuvieron evaluación independiente. Cómo leer esos meses está en [Fundamentos](../Fundamentos/fundamentos-de-ciencias-del-aprendizaje.md). El detalle de los metaanálisis está en [aprendizaje autorregulado](aprendizaje-autorregulado.md).
+La ficha del Toolkit de la EEF, revisada en mayo de 2025 y leída entera, da a la metacognición y la autorregulación "+8 months" de progreso adicional en un año, con costo muy bajo y 355 estudios. La evidencia figura como "high", pero perdió un candado porque "a large percentage of the studies were not independently evaluated": las evaluaciones de organizaciones ligadas al enfoque suelen dar efectos mayores. La ficha dice que el impacto "is similar across all age groups"; el +7 y la división entre primaria y secundaria que circulaban venían de versiones anteriores. Cómo leer esos meses está en [Fundamentos](../Fundamentos/fundamentos-de-ciencias-del-aprendizaje.md). El detalle de los metaanálisis está en [aprendizaje autorregulado](aprendizaje-autorregulado.md).
 
-> [!NOTE] Sin fuente todavía: el número vigente de la EEF leído en la página (dio 403) y las siete recomendaciones de su guía *Metacognition and self-regulated learning*.
+La guía de la EEF para docentes, *Metacognition and Self-Regulated Learning*, tiene una segunda edición publicada el 13 de noviembre de 2025. Hace siete recomendaciones: que la escuela ayude a los docentes a entender el conocimiento metacognitivo, enseñar de forma explícita a planificar, monitorear y evaluar, modelar el propio pensamiento, promover la conversación metacognitiva, fijar un nivel de desafío adecuado, enseñar a organizar el estudio independiente y armar procesos de implementación en la escuela. La lista completa, traducida, está en [aprendizaje autorregulado](aprendizaje-autorregulado.md#qué-se-enseña-cuando-se-enseña-a-autorregularse).
 
 ## Lo que hay adentro
 
