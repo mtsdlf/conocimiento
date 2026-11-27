@@ -16,7 +16,9 @@ revisado: 2026-11-22
 
 El catálogo y el stock son lo que hace posible una venta: la unidad que se vende es la variante de un producto, identificada por su SKU, y su stock se lleva por ubicación y repartido en estados (disponible, apartado, dañado). Sin esos estados, cada canal vende contra una copia del número y aparece la sobreventa.
 
-Es el primer eslabón de la cadena que describe [Operaciones del comercio](operaciones-del-comercio.md): el pedido aparta stock de una variante y la [devolución](devoluciones.md) lo repone. Cuando el stock lo lleva un [sistema de gestión](Sistemas-de-gestion/sistemas-de-gestion.md) y no la plataforma de tiendas, la pregunta pasa a ser cuál de los dos manda.
+Es el primer eslabón de la cadena que describe [Operaciones del comercio](operaciones-del-comercio.md): el pedido aparta stock de una variante y la [devolución](devoluciones.md) lo repone. Cuando el stock lo lleva un [sistema de gestión](Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md) y no la plataforma de tiendas, la pregunta pasa a ser cuál de los dos manda.
+
+Esta nota es el caso de la tienda online. Lo mismo, dicho para cualquier empresa que guarda mercadería, está en [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md): el [artículo](../../Inventario-y-depositos/Existencias/articulo.md) y su código, los [estados del stock](../../Inventario-y-depositos/Existencias/estados-del-stock.md), lo [disponible para prometer](../../Inventario-y-depositos/Existencias/disponible-para-prometer.md) y la [reserva](../../Inventario-y-depositos/Operacion-del-deposito/reserva.md).
 
 ## La unidad que se vende es la variante
 
@@ -43,7 +45,7 @@ Una cantidad de stock sola no alcanza para vender sin errores. Shopify la parte 
 
 ## La sobreventa crece con cada canal
 
-Sobreventa es vender más unidades de las que hay disponibles. En la lectura de la base, el riesgo crece con cada canal que descuenta stock por su cuenta, porque cada uno vende contra una copia del número que puede estar atrasada; el stock de seguridad es una de las defensas. Cómo se reparte el stock entre la tienda online y un local está en [retiro en el local y stock compartido](../Venta-en-varios-canales/Local-fisico-con-caja/retiro-en-el-local-y-stock-compartido.md), y cómo lo sincroniza un sistema externo, en [integración con tiendas y marketplaces](Sistemas-de-gestion/integracion-con-tiendas-y-marketplaces.md). Cómo se lleva el número sin perder de dónde sale (cada entrada y salida como un movimiento) está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) para una base y en [planilla de stock](../../Planillas-de-calculo/Diseno-de-planillas/planilla-de-stock.md) para una planilla.
+Sobreventa es vender más unidades de las que hay disponibles. En la lectura de la base, el riesgo crece con cada canal que descuenta stock por su cuenta, porque cada uno vende contra una copia del número que puede estar atrasada; el stock de seguridad es una de las defensas. Cómo se reparte el stock entre la tienda online y un local está en [retiro en el local y stock compartido](../Venta-en-varios-canales/Local-fisico-con-caja/retiro-en-el-local-y-stock-compartido.md), y cómo lo sincroniza un sistema externo, en [integración con tiendas y marketplaces](Sistemas-de-gestion-en-el-comercio/integracion-con-tiendas-y-marketplaces.md). Cómo se lleva el número sin perder de dónde sale (cada entrada y salida como un movimiento) está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) para una base y en [planilla de stock](../../Planillas-de-calculo/Diseno-de-planillas/planilla-de-stock.md) para una planilla.
 
 > [!NOTE] Sin fuente todavía: cuánto tarda en sincronizarse el stock entre una tienda propia, un marketplace y las redes, y con qué frecuencia se sobrevende. No se encontró fuente primaria.
 

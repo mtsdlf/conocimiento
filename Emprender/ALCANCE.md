@@ -8,6 +8,7 @@ fuera:
   - quién compra y por qué, posicionamiento, canales y medición de marketing (tema Marketing, se enlaza)
   - análisis de cohortes, retención y churn como técnica (tema Datos, se enlaza)
   - innovación dentro de empresas grandes (intraemprendimiento), salvo como mención
+  - lo recurrente de la empresa en marcha (decisión de #98): caja y resultado (Contabilidad/Registro/devengado.md, Tesoreria/Caja-y-liquidez/proyeccion-de-caja.md), punto de equilibrio (Contabilidad/Contabilidad-de-gestion/punto-de-equilibrio.md), monotributo en marcha (Impuestos/Obligacion-tributaria/monotributo-en-marcha.md), Ingresos Brutos (Impuestos/Impuestos-al-consumo/ingresos-brutos.md), factura electrónica (Comercio-electronico/Normativa/factura-electronica-de-arca.md) y la primera contratación (Administracion-de-personal-y-nomina/Legajo/ingreso-y-egreso.md); se enlaza
 fuentes:
   - "Eric Ries, The Lean Startup (2011); en castellano, El método Lean Startup (Deusto)"
 preguntas:
@@ -84,6 +85,7 @@ Emprender/
 - Profundidad de esta primera pasada: el árbol completo con la entrada de cada parte; Validación y Fundamentos a fondo, más los dos componentes de Crecimiento que vienen de Ries. Las otras partes se llenan cuando se vuelque algo leído o vivido.
 - Mercado y cliente no es una parte propia: el tamaño de mercado va a Validación y quién compra y por qué se enlaza al tema Marketing.
 - Lo legal e impositivo es de Argentina y vive en la capa operativa, con fecha: cambia seguido.
+- Emprender se queda con las decisiones de una vez y la pista; lo recurrente de la empresa en marcha es de los temas de dominio (decisión de #98). Varios componentes que Finanzas y Legal e impuestos tenían pendientes ya están escritos allá, y en la sesión 16 del mapa (#123) se enlazaron desde las entradas: caja y resultado en [devengado](../Contabilidad/Registro/devengado.md) y [proyección de caja](../Tesoreria/Caja-y-liquidez/proyeccion-de-caja.md), el [punto de equilibrio](../Contabilidad/Contabilidad-de-gestion/punto-de-equilibrio.md), el [monotributo en marcha](../Impuestos/Obligacion-tributaria/monotributo-en-marcha.md), [Ingresos Brutos](../Impuestos/Impuestos-al-consumo/ingresos-brutos.md), la [factura electrónica de ARCA](../Comercio-electronico/Normativa/factura-electronica-de-arca.md) y la primera contratación en [ingreso y egreso](../Administracion-de-personal-y-nomina/Legajo/ingreso-y-egreso.md#hacerse-empleador-la-primera-contratación).
 
 ## Ampliación del 2026-11-22: Oportunidades y tipos de modelo
 

@@ -44,7 +44,7 @@ La relación entre ellos, para un artículo en un lugar, es (criterio de la base
 
 > físico = disponible + comprometido + en cuarentena + bloqueado
 
-Lo de terceros se cuenta aparte, porque está en el estante pero no en el patrimonio: entra en el conteo físico y no en el valor de [costo de lo vendido](../../Contabilidad/Operaciones/costo-de-lo-vendido.md). Lo propio que está en casa de un cliente en consignación es el caso inverso: es de la empresa y no está en su depósito. La base lo trata como un lugar más, sin nota propia. El inventario en proceso de una planta también es un estado, y es del tema Producción, todavía no armado.
+Lo de terceros se cuenta aparte, porque está en el estante pero no en el patrimonio: entra en el conteo físico y no en el valor de [costo de lo vendido](../../Contabilidad/Operaciones/costo-de-lo-vendido.md). Lo propio que está en casa de un cliente en consignación es el caso inverso: es de la empresa y no está en su depósito. La base lo trata como un lugar más, sin nota propia. El inventario en proceso de una planta también es un estado, y es de Producción, en [Ejecución en planta](../../Produccion/Ejecucion-en-planta/ejecucion-en-planta.md).
 
 Las cantidades por recibir (lo pedido al proveedor que todavía no salió de su depósito) no son un estado del stock, porque todavía no son stock. Sí entran en el cálculo de lo que se puede prometer a futuro y en la posición de stock de [punto de pedido](../Reposicion/punto-de-pedido.md).
 

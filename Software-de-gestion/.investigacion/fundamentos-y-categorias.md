@@ -145,7 +145,7 @@ Para la nota: el debate es de **dónde poner la frontera de integración** (cost
 
 Fuentes encontradas, todas flojas para esta sección:
 
-- **Etiquetas del mercado argentino (ya en el repo)**: facturador, sistema contable, sistema de gestión comercial, ERP, con la advertencia de que «los productos reales cruzan las etiquetas». Está en `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md` (borrador, fuentes de proveedores). No repetir: enlazar.
+- **Etiquetas del mercado argentino (ya en el repo)**: facturador, sistema contable, sistema de gestión comercial, ERP, con la advertencia de que «los productos reales cruzan las etiquetas». Está en `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md` (borrador, fuentes de proveedores). No repetir: enlazar.
 - **Panorama 2010 por «tiers»**: reporta sobrecostos y retrasos separados por Tier I, II y III (retraso en 30 %, 18 % y 5 % de los proyectos; sobrecosto en 53 %, 33 % y 59 %). La definición de cada tier no apareció en el texto leído, así que la tabla no se puede interpretar. [L] F15, con interés comercial de la consultora.
 - **Mabert et al. 2003 (Omega)**: estudia el efecto del tamaño en la implantación de ERP en manufactura de EE. UU. [M]; hay que abrirlo.
 - **Ejes que cambian de escalón, a verificar** (propuestos, sin fuente propia salvo lo que cita cada uno): cantidad de usuarios y de comprobantes, multiempresa y multimoneda (columnas técnicas, ya cubiertas en el tema), localización fiscal, quién implanta (proveedor, partner o propia empresa; es la nota `partners-de-implementacion.md`), y qué se personaliza. Son afirmaciones de diseño del árbol, no de una fuente.
@@ -234,7 +234,7 @@ Fuentes encontradas, todas flojas para esta sección:
 ### 11.4 Software por rubro (vertical) frente a horizontal
 
 - **No apareció una fuente académica ni de norma** que defina «vertical» frente a «horizontal» para software de gestión. La distinción se usa en el mercado: vertical = construido para una industria con sus procesos y su normativa; horizontal = funciones que sirven a cualquier industria (contabilidad, personal).
-- **Lo que sí hay**: el ERP «de producto» frente al «de servicios» de Gartner (#96) es una partición vertical gruesa; la gran diferencia entre rubros es la localización fiscal y los procesos propios (producción, obra, salud). En el repo, la aplicación al comercio está en `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/` (borrador).
+- **Lo que sí hay**: el ERP «de producto» frente al «de servicios» de Gartner (#96) es una partición vertical gruesa; la gran diferencia entre rubros es la localización fiscal y los procesos propios (producción, obra, salud). En el repo, la aplicación al comercio está en `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/` (borrador).
 - **Hueco**: una fuente con método (p. ej. estudios de ERP en SMEs por industria, Loh y Ching 2004, «Critical elements for a successful ERP implementation in SMEs», *Int. J. Production Research* 42(17):3433-3455, https://doi.org/10.1080/00207540410001671679, solo citada en F10 [S]). Hay que decidir si la nota se escribe desde la lógica del árbol, con la marca de «propio de este tema».
 
 ---
@@ -252,7 +252,7 @@ Fuentes encontradas, todas flojas para esta sección:
 
 | Ya escrito (enlazar, no copiar) | Es propio de este tema |
 |---|---|
-| `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md`: módulos de un sistema de gestión para comercio, cuatro etiquetas (facturador, contable, gestión comercial, ERP), «fuente de verdad», instalado frente a nube. Borrador, fuentes de proveedores. | La definición de ERP con su historia y su desacuerdo (F1, F10); los mitos; las categorías de mercado y cómo se pisan; los escalones como criterio general (no solo del comercio). |
+| `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md`: módulos de un sistema de gestión para comercio, cuatro etiquetas (facturador, contable, gestión comercial, ERP), «fuente de verdad», instalado frente a nube. Borrador, fuentes de proveedores. | La definición de ERP con su historia y su desacuerdo (F1, F10); los mitos; las categorías de mercado y cómo se pisan; los escalones como criterio general (no solo del comercio). |
 | `Produccion/Ejecucion-en-planta/` y `Produccion/Calidad/`: orden de producción, consumo, programación de planta, OEE; no conformidad, acción correctiva, trazabilidad. | La frontera ERP/MES (ISA-95 niveles 3 y 4) y qué agrega el software de calidad. Ninguna nota del repo menciona ISA-95, best-of-breed ni MRP (búsqueda en el repo, fuera de `.investigacion` y de `conocimiento.md`: solo aparecen en Activos y mantenimiento, y por «MRP» en el sentido de repuestos, no de planificación). |
 | `Activos-y-mantenimiento/` (registro de activos, orden de trabajo, servicio de campo), `Servicios-profesionales-y-proyectos/`, `Relacion-con-clientes/`, `Administracion-de-personal-y-nomina/`, `Inventario-y-depositos/`, `Cadena-de-suministro-y-logistica/`: el saber de dominio. | Cómo cada categoría de software lo empaqueta y con qué se pisa. |
 

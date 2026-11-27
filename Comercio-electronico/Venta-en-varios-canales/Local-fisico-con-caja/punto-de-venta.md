@@ -47,7 +47,7 @@ Con conexión desaparece la doble carga y el cierre de caja cuadra solo. Lo que 
 
 ## En qué se diferencia del sistema de gestión
 
-Un POS vende y cobra; un [sistema de gestión](../../Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md) lleva además compras, proveedores, cuentas corrientes, varios depósitos y, en los más completos, la contabilidad. En la práctica las fronteras se cruzan. Los sistemas de gestión argentinos traen su propio POS, y hay POS de rubro (gastronomía, por ejemplo) que suman caja, terminal de pago integrada, factura y tienda online en un solo producto.
+Un POS vende y cobra; un [sistema de gestión](../../Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md) lleva además compras, proveedores, cuentas corrientes, varios depósitos y, en los más completos, la contabilidad. En la práctica las fronteras se cruzan. Los sistemas de gestión argentinos traen su propio POS, y hay POS de rubro (gastronomía, por ejemplo) que suman caja, terminal de pago integrada, factura y tienda online en un solo producto.
 
 Por eso la pregunta útil al mirar un producto no es qué etiqueta tiene, sino cuál de estas cuatro cosas guarda como verdad: la venta, el cobro, el comprobante o el stock.
 

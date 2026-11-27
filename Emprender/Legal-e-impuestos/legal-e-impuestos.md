@@ -62,7 +62,7 @@ Las reglas de inscripción también cambian por resolución de la IGJ. En 2026 l
 - **Elegir la sociedad antes de validar.** Una forma más compleja suma costo fijo y acorta la pista mientras el modelo todavía cambia (inferencia de la base, sin fuente sobre costos).
 
 > [!NOTE]
-> Sin fuente todavía: la inscripción en Ingresos Brutos fuera del monotributo unificado (el impuesto está en [Ingresos Brutos](../../Impuestos/Impuestos-al-consumo/ingresos-brutos.md)), contabilidad según los consejos profesionales de ciencias económicas, y costos de constitución con fuente oficial.
+> Ingresos Brutos fuera del monotributo (alícuotas, Convenio Multilateral) está en [Ingresos Brutos](../../Impuestos/Impuestos-al-consumo/ingresos-brutos.md); la clave fiscal y el domicilio fiscal electrónico, en [impuestos en Argentina](../../Impuestos/impuestos-en-argentina.md#arca-el-fisco-nacional); la contabilidad obligatoria y las normas de los consejos profesionales, en [libros contables en Argentina](../../Contabilidad/Registro/libros-contables-en-argentina.md) y [normas contables en Argentina](../../Contabilidad/Estados-contables/normas-contables-en-argentina.md). Sin fuente todavía: la inscripción en Ingresos Brutos fuera del monotributo unificado y los costos de constitución con fuente oficial.
 
 ## Los contratos de un servicio
 
@@ -82,8 +82,8 @@ Además de los contratos de un servicio y del encuadre fiscal y previsional, con
 - Qué forma elegir: el árbol de decisión por responsabilidad, costo, socios e inversión.
 - SAS: qué es, cómo se constituye y qué cambió en la IGJ en 2026.
 - SRL y SA: cuándo conviene cada una.
-- Facturación electrónica: los comprobantes. Cómo se habilita el punto de venta ya está en la [inscripción en ARCA al arrancar](inscripcion-en-arca-al-arrancar.md#el-punto-de-venta).
+- Facturación electrónica: los comprobantes ya están en [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md), y el comprobante en general, en [comprobante fiscal](../../Impuestos/Cumplimiento/comprobante-fiscal.md). Cómo se habilita el punto de venta está en la [inscripción en ARCA al arrancar](inscripcion-en-arca-al-arrancar.md#el-punto-de-venta).
 - Ingresos Brutos: la inscripción en cada provincia fuera del monotributo unificado. El impuesto está en [Ingresos Brutos](../../Impuestos/Impuestos-al-consumo/ingresos-brutos.md), del tema Impuestos.
-- La primera contratación: el empleador y sus cargas, que el tema [Administración de personal y nómina](../../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md) explica para una empresa en marcha.
+- La primera contratación ya está en [relación laboral en Argentina](../../Administracion-de-personal-y-nomina/Legajo/relacion-laboral-en-argentina.md#la-primera-contratación-en-la-argentina) y en [ingreso y egreso](../../Administracion-de-personal-y-nomina/Legajo/ingreso-y-egreso.md#hacerse-empleador-la-primera-contratación), y las cargas sobre cada sueldo, en [cargas sociales en Argentina](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/cargas-sociales-en-argentina.md).
 - Propiedad intelectual y contratos básicos: marca, cesión de derechos y acuerdo entre socios. Los contratos con clientes de un servicio ya están en [contrato de servicio](contrato-de-servicio.md); falta la cesión de derechos sobre lo que se programa por encargo.
 - Cómo recibir inversión desde Argentina: la SAS ante un SAFE o una nota convertible.

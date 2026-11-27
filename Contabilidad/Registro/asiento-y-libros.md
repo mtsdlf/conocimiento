@@ -37,7 +37,7 @@ Un sistema guarda los asientos una sola vez y calcula el mayor sumando: es el pa
 
 ## El balance de sumas y saldos
 
-El balance de sumas y saldos (trial balance) lista todas las cuentas del mayor que tienen saldo distinto de cero, con los deudores en una columna y los acreedores en otra. Si la partida doble se respetó, las dos columnas suman lo mismo. OpenStax lo ubica como el cuarto paso del ciclo contable; en ese momento todavía es un balance sin ajustar, antes de los [ajustes de cierre](../Estados-contables/ajustes-de-cierre.md).
+El balance de sumas y saldos (trial balance) lista todas las cuentas del mayor que tienen saldo distinto de cero, con los deudores en una columna y los acreedores en otra. Si la partida doble se respetó, las dos columnas suman lo mismo. OpenStax lo ubica como el cuarto paso del ciclo contable; en ese momento todavía es un balance sin ajustar, antes de los [ajustes de cierre](../Estados-contables/ajustes-de-cierre.md). El que se arma después de los ajustes es el mismo balance con los saldos nuevos, el [balance de sumas y saldos ajustado](../Estados-contables/ajustes-de-cierre.md#el-balance-de-sumas-y-saldos-ajustado). Otros textos lo llaman balance de comprobación.
 
 El de Printing Plus al 31 de enero de 2019, con las cuentas traducidas (cifras en dólares):
 

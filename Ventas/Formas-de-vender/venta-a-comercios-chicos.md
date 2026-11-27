@@ -68,7 +68,7 @@ El dueño de un comercio chico le pregunta a otros dueños. Kuhn, Galloway y Col
 
 El contador es el otro consejero posible, y la evidencia es mixta. Un trabajo de pymes de Mendoza dice, según el buscador, que el contador tiene «considerable relevancia» al elegir un sistema de gestión. Brickman y colegas (2024), con cerveceros y destiladores artesanales europeos, sugieren que los contadores perdieron relevancia como asesores, o nunca la tuvieron. En la encuesta de *Mercado*, la consultoría contable es justo la que no decide el gerente general.
 
-La lectura de esta base: el contador opina cuando lo que se compra toca la facturación, los cobros o los impuestos, como un [sistema de gestión](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md) o la [factura electrónica](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md), y pesa menos en el resto. Conviene preguntarle al dueño si alguien más lo va a mirar, como dice [grupo de compra](../Descubrimiento-y-calificacion/grupo-de-compra.md).
+La lectura de esta base: el contador opina cuando lo que se compra toca la facturación, los cobros o los impuestos, como un [sistema de gestión](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md) o la [factura electrónica](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md), y pesa menos en el resto. Conviene preguntarle al dueño si alguien más lo va a mirar, como dice [grupo de compra](../Descubrimiento-y-calificacion/grupo-de-compra.md).
 
 ## Con vendedor o por su cuenta
 

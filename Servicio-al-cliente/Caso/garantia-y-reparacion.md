@@ -4,6 +4,7 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - "APQC, Process Classification Framework 7.4 (agosto de 2024), Cross-Industry, 6.1.6, 6.2.4, 6.3 y 6.5.4, copia de la IFRC, leída el 2026-11-27: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "APQC, Process Classification Framework, categoría «Manage Customer Service», 6.1.6, 6.2.4, 6.3 y 6.5.4, copia de un tercero sin versión declarada: https://capechamber.co.za/enterprise/improve-your-business-processes/6-manage-customer-service"
   - "Shopify, «Return merchandise authorization»: https://www.shopify.com/blog/return-merchandise-authorization (según el resumen del buscador; como evidencia de práctica, junto con páginas parecidas de otros dos proveedores)"
   - "ServiceNow, recorrido de un caso RMA: https://www.servicenow.com/docs/r/order-management/rma-case-user-journey.html (como evidencia de práctica)"
@@ -20,7 +21,7 @@ revisado: 2026-11-27
 
 Un caso de garantía y reparación es el que trata un producto que falló o que el cliente quiere devolver: se revisa si está cubierto, se autoriza o se rechaza, y se decide la resolución (reparar, cambiar, devolver la plata o compensar). Lo propio del servicio al cliente es esa decisión y el registro que une los pasos; el paquete, el taller, el stock y la nota de crédito son de otros dominios.
 
-Es un tipo de [caso](caso.md) que apunta a un producto y no solo a un cliente. APQC lo reparte en varios procesos de su categoría de servicio, en una copia sin versión declarada: la oferta de garantía se define en la estrategia (6.1.6 «Define warranty offering»); la devolución se procesa con los contactos (6.2.4 «Process returns», con 6.2.4.1 «Authorize return»); y el servicio posventa (6.3) incluye registrar productos, los reclamos de garantía con diez pasos, el recupero a proveedores y el servicio del producto, con «Execute product repair» y «Generate service order». ISO 10002 e ITIL lo dejan fuera.
+Es un tipo de [caso](caso.md) que apunta a un producto y no solo a un cliente. APQC lo reparte en varios procesos de su categoría de servicio, en la versión 7.4 de su marco: la política y la oferta de garantía se definen en la estrategia (6.1.6 «Define warranty claims», con 6.1.6.4 «Define warranty related offerings for customers»); la devolución se procesa con los contactos (6.2.4 «Process returns», con 6.2.4.1 «Authorize return»); y el servicio posventa (6.3) incluye registrar productos, los reclamos de garantía con diez pasos, el recupero a proveedores y el servicio del producto, con «Execute product repair» y «Generate service order». ISO 10002 e ITIL lo dejan fuera.
 
 ## La autorización de devolución
 
