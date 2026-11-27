@@ -4,6 +4,9 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
+  - "Romney, Steinbart, Mula, McNamara y Tonkin, Accounting Information Systems, ed. australasiana (Pearson Australia, 2013), cap. 1, pp. 11-12: https://researchonline.jcu.edu.au/38329/11/38329_Romney_etal_2013_FrontPages.pdf"
+  - "Arens, Elder, Beasley y Hogan, Auditing and Assurance Services, 18.ª ed. (Pearson, 2023), índice: https://pearson.com/en-us/subject-catalog/p/auditing-and-assurance-services/P200000010148/9780137879267"
+  - "Procesos-de-negocio/.investigacion/fundamentos.md, sección 2 (2026-11-27)"
   - "OpenStax, Principles of Financial Accounting (2019), 6.3 compras con inventario permanente: https://openstax.org/books/principles-financial-accounting/pages/6-3-analyze-and-record-transactions-for-merchandise-purchases-using-the-perpetual-inventory-system"
   - "OpenStax, Principles of Financial Accounting (2019), 6.4 ventas con inventario permanente: https://openstax.org/books/principles-financial-accounting/pages/6-4-analyze-and-record-transactions-for-the-sale-of-merchandise-using-the-perpetual-inventory-system"
   - "OpenStax, Principles of Financial Accounting (2019), 4.2 ajustes: https://openstax.org/books/principles-financial-accounting/pages/4-2-discuss-the-adjustment-process-and-illustrate-common-types-of-adjusting-entries"
@@ -23,7 +26,7 @@ Esta vertical aplica a cada caso el mecanismo de [Registro](../Registro/registro
 
 ## Los ciclos que llegan al registro
 
-El campo agrupa las operaciones en ciclos: de la venta al cobro, de la compra al pago, el inventario y su costo, los activos fijos y los sueldos. Cada ciclo lo recorren otras áreas (ventas, compras, depósito, personal); la contabilidad entra cuando aparece un documento que cambia el patrimonio. Por eso (explicación propia, sin fuente leída) el pedido de un cliente o la orden de compra no generan asiento: todavía no pasó nada que la empresa deba o tenga derecho a cobrar.
+Los libros de sistemas de información contable y de auditoría agrupan las operaciones en ciclos. Romney y Steinbart cuentan cinco (ingresos, egresos, recursos humanos y nómina, producción y financiamiento), más el mayor general, que junta lo que procesan los otros; un libro de auditoría como el de Arens y otros arma los suyos con nombres parecidos y separa el inventario y el depósito. Esta vertical usa los que llegan al registro: de la venta al cobro, de la compra al pago, el inventario y su costo, los activos fijos y los sueldos (la lista es de la base). La comparación de las dos clasificaciones está en [fundamentos de procesos de negocio](../../Procesos-de-negocio/Fundamentos/fundamentos-de-procesos-de-negocio.md#los-ciclos-de-transacciones-de-los-libros-contables). Cada ciclo lo recorren otras áreas (ventas, compras, depósito, personal); la contabilidad entra cuando aparece un documento que cambia el patrimonio. Por eso (explicación propia, sin fuente leída) el pedido de un cliente o la orden de compra no generan asiento: todavía no pasó nada que la empresa deba o tenga derecho a cobrar.
 
 La tabla resume qué documento dispara qué asiento. Los patrones salen de OpenStax y de la NIC 2; la tabla como síntesis es del informe de investigación.
 
@@ -38,6 +41,8 @@ La tabla resume qué documento dispara qué asiento. Los patrones salen de OpenS
 | Inventario | Rebaja a valor neto de realización | Resultado / Inventario | [costo de lo vendido](costo-de-lo-vendido.md) |
 | Activos | Compra de un activo fijo | Activo / Caja o Cuentas a pagar | [activos fijos](activos-fijos-y-amortizacion.md) |
 | Activos | Amortización del período | Amortización del período / Amortización acumulada | [activos fijos](activos-fijos-y-amortizacion.md) |
+| Activos | Costos de una obra propia | Obra en curso / Proveedores, Sueldos a pagar, Intereses a pagar | [activo construido](activo-construido.md) |
+| Activos | Inicio de un arrendamiento (NIIF 16) | Activo por derecho de uso / Pasivo por arrendamiento | [arrendamientos](arrendamientos.md) |
 | Sueldos | Sueldos devengados | Sueldos / varios pasivos | la sección de abajo |
 
 Una venta con stock lleva dos asientos, porque mueve dos cosas: el derecho a cobrar y la mercadería que sale. En el ejemplo de OpenStax 6.4, una empresa vende el 1 de octubre 55 impresoras a $350 que le habían costado $100 cada una:
@@ -90,7 +95,7 @@ Las vacaciones siguen la misma lógica. Según la NIC 19, las ausencias pagadas 
 
 > [!NOTE] Sin fuente todavía: un asiento con números del devengamiento de vacaciones.
 
-Cómo se calcula cada concepto del recibo, el legajo y las licencias son del tema Administración de personal y nómina, todavía no escrito. Los porcentajes de aportes y contribuciones de cada país, también.
+Cómo se calcula cada concepto del recibo, el legajo y las licencias son del tema Administración de personal y nómina: la liquidación está en [liquidación de sueldos](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md) y los porcentajes de aportes y contribuciones, en [aportes y contribuciones](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/aportes-y-contribuciones.md) y, para Argentina, en [cargas sociales en Argentina](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/cargas-sociales-en-argentina.md).
 
 ## Qué hay adentro de Operaciones
 
@@ -99,4 +104,6 @@ Cómo se calcula cada concepto del recibo, el legajo y las licencias son del tem
 - [Gastos y rendiciones](gastos-y-rendiciones.md): los gastos que paga un empleado, los anticipos a rendir y el fondo fijo.
 - [Costo de lo vendido](costo-de-lo-vendido.md): inventario permanente o periódico, PEPS, promedio ponderado y UEPS, y el valor neto de realización.
 - [Activos fijos y amortización](activos-fijos-y-amortizacion.md): qué se capitaliza, cómo se amortiza, qué pasa al vender un activo, y por qué la amortización no guarda plata.
+- [Activo construido por la propia empresa](activo-construido.md): la obra en curso, qué costos entran (la gente propia, los intereses) y cuándo se deja de sumar; lo argentino, en [activo construido en Argentina](activo-construido-en-argentina.md).
+- [Arrendamientos](arrendamientos.md): el derecho de uso y el pasivo por arrendamiento de la NIIF 16, con un ejemplo a cinco años; lo argentino, en [arrendamientos en Argentina](arrendamientos-en-argentina.md), donde las empresas que no cotizan siguen separando financieros y operativos.
 - [Moneda extranjera](moneda-extranjera.md): moneda funcional, conversión y diferencia de cambio.

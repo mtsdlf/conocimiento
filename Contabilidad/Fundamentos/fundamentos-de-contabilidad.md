@@ -9,6 +9,9 @@ fuentes:
   - "Sangster, A. (2025), The emergence of double entry bookkeeping, Economic History Review 78(2): 499-528, resumen de la Univ. de Aberdeen: https://www.abdn.ac.uk/media/site/business/content-images/Sangster---RI---Emergence.pdf"
   - "Yamey, B. S. (2010), Market for Luca Pacioli's Summa de Arithmetica: some comments, Accounting Historians Journal 37(2): https://egrove.olemiss.edu/aah_journal/vol37/iss2/8"
   - "McCarthy, W. (1982), The REA Accounting Model, The Accounting Review 57(3): 554-578, vía https://en.wikipedia.org/wiki/Resources,_Events,_Agents"
+  - "McCarthy, Geerts y Gal, The REA Accounting Model as an Accounting and Economic Ontology, borrador 0.90, 2019, caps. 1 y 5: https://static1.squarespace.com/static/5feb9bf81c227637fcd6262b/t/667f4e6e846ebb74f8b18595/1719619185764"
+  - "Nikitkov (2020), REA model, its development and integration as an enterprise ontology framework, AMIS 19(3): https://online-cig.ase.ro/RePEc/ami/articles/19_3_6.pdf"
+  - "Software-de-gestion/.investigacion/columnas-tecnicas-complemento.md, sección de la columna 3 (2026-11-27)"
   - "Ijiri, Y. (1986), A framework for triple-entry bookkeeping, The Accounting Review 61(4): 745-759"
   - "Grigg, I. (2005), Triple Entry Accounting: https://iang.org/papers/triple_entry.html"
   - "Ibañez, Bayer, Tasca y Xu, REA, Triple-Entry Accounting and Blockchain (abstract): https://arxiv.org/pdf/2005.07802"
@@ -51,13 +54,15 @@ La [partida doble](../Registro/partida-doble.md) nació para libros en papel, y 
 
 ## Las posiciones que discuten el modelo
 
-Tres líneas discuten la partida doble tal como la enseñan los libros de texto. En lo leído, ninguna la reemplazó en la práctica, y para REA y la triple entrada no se encontró ningún dato de adopción.
+Tres líneas discuten la partida doble tal como la enseñan los libros de texto. En lo leído, ninguna la reemplazó en la práctica. Para la triple entrada no se encontró ningún dato de adopción; para REA, solo que sirvió de base a un producto comercial y entró en una norma ISO, según sus propios autores y una revisión de la literatura.
 
 ### REA: registrar los hechos y no los asientos
 
 William McCarthy publicó en 1982, en The Accounting Review (vol. 57, n.º 3, pp. 554-578), el modelo REA: recursos económicos, eventos económicos y agentes económicos, con sus relaciones. Según su abstract, que se conoce por resúmenes, el marco apunta a un entorno de datos compartidos donde contadores y no contadores mantienen información sobre los mismos hechos.
 
-REA es, en lectura de la base, el modelo que propondría quien diseña una base de datos: la venta, la entrega y el cobro como eventos, y el asiento como algo que se deriva de ellos. Según un taller de Vandenbossche y Wortmann, los sistemas de gestión siguieron guardando asientos de partida doble como modelo central y los modelos de la investigación no se adoptaron. Esa evidencia son talleres y casos de los años 2000, leídos por resúmenes: que REA se use poco es una inferencia. Cómo modela los movimientos un sistema está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y va a estar en el tema Software de gestión, todavía no escrito.
+REA es, en lectura de la base, el modelo que propondría quien diseña una base de datos: la venta, la entrega y el cobro como eventos enlazados. Sus autores lo dicen así en un libro de 2019 (McCarthy, Geerts y Gal, borrador 0.90): «REA does not use accounts as modeling primitives, nor does it follow debit-credit posting procedures»; en su lugar arma una base donde las filas de distintas tablas se conectan para capturar el significado de cada transacción. Que el mayor quede como una vista derivada de los eventos no vale para todo sistema REA: el mismo libro lo dice de una variante, los sistemas organizados con principios REA que no cargan con un diseño heredado, donde alcanza con «a minimal general ledger with other double-entry artifacts limited to database views». Los sistemas heredados, según ellos, conservan muchos artefactos de la partida doble. Lo que dicen los autores sobre su propio modelo es testimonio de parte.
+
+Según un taller de Vandenbossche y Wortmann, los sistemas de gestión siguieron guardando asientos de partida doble como modelo central y los modelos de la investigación no se adoptaron. Esa evidencia son talleres y casos de los años 2000, leídos por resúmenes: que REA se use poco es una inferencia. Nikitkov (2020), en una revisión de la literatura, dice que REA «served as the basis for at least one cloud-based enterprise system» y que «has not received sufficient attention from IS academics or practitioners». Cómo modela los movimientos un sistema está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md), y las dos posiciones, del lado del producto, en [registro de movimientos y dimensiones](../../Software-de-gestion/Columnas-tecnicas/registro-de-movimientos-y-dimensiones.md#partida-doble-o-rea).
 
 ### Dos cosas distintas llamadas triple entrada
 

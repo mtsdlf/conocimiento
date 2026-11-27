@@ -63,7 +63,7 @@ Las fuentes tratan al RCM, al TPM y a la ISO 55000 como enfoques que se solapan 
 
 Lo que modela el software es sobre todo el plano de la primera fila: equipos, planes, órdenes y contadores, con los tipos de mantenimiento de la [estrategia de mantenimiento](../Estrategia-de-mantenimiento/estrategia-de-mantenimiento.md).
 
-**El TPM** tiene ocho pilares, según el resumen de Wikipedia: mantenimiento autónomo, mejora enfocada, mantenimiento planificado, mantenimiento de la calidad, gestión temprana del equipo, educación y entrenamiento, TPM administrativo, y seguridad, salud y ambiente. Su medida es la eficiencia global del equipo, «Performance × Availability × Quality = OEE»; según Wikipedia, el término aparece por primera vez en *TPM Tenkai*, de Nakajima (1982); mide la línea y se explica en el tema Producción, todavía no armado.
+**El TPM** tiene ocho pilares, según el resumen de Wikipedia: mantenimiento autónomo, mejora enfocada, mantenimiento planificado, mantenimiento de la calidad, gestión temprana del equipo, educación y entrenamiento, TPM administrativo, y seguridad, salud y ambiente. Su medida es la eficiencia global del equipo, «Performance × Availability × Quality = OEE»; según Wikipedia, el término aparece por primera vez en *TPM Tenkai*, de Nakajima (1982); mide la línea y se explica en [eficiencia global del equipo](../../Produccion/Ejecucion-en-planta/eficiencia-global-del-equipo.md), del tema Producción.
 
 **La gestión de activos**, según el sitio del IAM (Institute of Asset Management), se organiza en 39 materias agrupadas en seis grupos.
 

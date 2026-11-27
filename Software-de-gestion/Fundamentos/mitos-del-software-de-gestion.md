@@ -54,6 +54,8 @@ La cifra actual es de Gartner y es un pronóstico. Según el resumen de un docum
 
 Las otras cifras no tienen documento. Una consultora dice que el 75 % empezó a circular en 2017 por un artículo en una red social profesional; otras citan «entre 55 % y 75 %» a Gartner sin informe. En la página de Gartner, según su resumen, el 75 % es otra cosa: las estrategias de ERP mal alineadas con las del negocio. Más atrás, Hitt, Wu y Zhou (2002) escriben que «at least 90 percent of ERP implementations end up late or over budget», con una cita de prensa. Y una consultora escribió en 2013 que «It's often been said that 80% or more of ERP implementations are considered failures», sin fuente, y que «there is no clear definition of what constitutes ERP failure».
 
+La cifra se parece a la del 70 % de los cambios organizacionales que fracasan, que tampoco tiene fuente válida y viene de otra cadena de citas; está en [gestión del cambio](../../Liderazgo-y-direccion/Ejecucion/gestion-del-cambio.md#el-70--de-cambios-que-fracasan-no-tiene-fuente).
+
 Lo que miden las encuestas con muestra es otra cosa: presupuesto, plazo y beneficios.
 
 | Encuesta de una consultora de selección | Muestra | Lo que da |

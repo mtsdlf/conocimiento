@@ -8,6 +8,7 @@ fuentes:
   - "Institute for Manufacturing, University of Cambridge, Porter's Value Chain: https://www.ifm.eng.cam.ac.uk/research/dstools/value-chain-/ (por resumen)"
   - "Rayport y Sviokla (1995), Exploiting the Virtual Value Chain, HBR 73(6):75-85: https://acnpsearch.tweb-dev.unibo.it/singlejournalindex/32198995 (por resumen)"
   - "Michael E. Porter (2008), The Five Competitive Forces That Shape Strategy, HBR: https://public.dhe.ibm.com/software/data/sw-library/cognos/pdfs/articles/art_the_five_competitive_forces_that_shape_strategy.pdf (leído completo)"
+  - "Romney, Steinbart, Mula, McNamara y Tonkin (2013), Accounting Information Systems, edición australasiana, Pearson Australia, cap. 1, figura 1.10 (páginas publicadas, leídas en Procesos-de-negocio/.investigacion/fundamentos.md): https://researchonline.jcu.edu.au/38329/11/38329_Romney_etal_2013_FrontPages.pdf"
   - "Estrategia-competitiva/.investigacion/industria-y-ventaja.md (sección 0 y A3)"
   - "Estrategia-competitiva/.investigacion/fundamentos.md (bibliografía)"
 aliases: [value chain, cadena de valor de Porter, Porter's value chain, actividades primarias, actividades de apoyo, cadena de valor virtual, virtual value chain]
@@ -33,7 +34,9 @@ Según resúmenes del libro de 1985, la cadena tiene cinco actividades primarias
 
 Y cuatro de apoyo, que atraviesan a las primarias: infraestructura de la empresa, gestión de recursos humanos, desarrollo de tecnología y abastecimiento. Según un resumen secundario, el margen es el valor que se crea menos lo que cuesta crearlo.
 
-> [!NOTE] Sin fuente todavía: la lista de las cuatro actividades de apoyo está verificada solo en parte; los resúmenes consultados nombraron algunas y el resto es la lista habitual, sin confirmar en el libro.
+La lista de las cuatro de apoyo coincide con la de un libro de texto de sistemas de información contable, Romney y otros (2013, cap. 1, figura 1.10): «Firm infrastructure», «Human resources activities», «Technology activities» y «Purchasing activities», junto a las cinco primarias que «directly provide value to customers». El fragmento leído no nombra a Porter.
+
+> [!NOTE] Sin fuente todavía: la lista de las actividades de apoyo en el libro de Porter, que no se abrió.
 
 ## La cadena de un SaaS
 

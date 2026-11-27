@@ -59,4 +59,6 @@ Kim y Ouimet (2014) estudiaron planes de acciones para muchos empleados en empre
 
 Se sostuvo que el pago contingente sube la cantidad y no la calidad, y que los premios contingentes pueden bajar la motivación intrínseca en experimentos, con efectos moderados. Se achicó la generalización de ese daño al sueldo de adultos, porque los datos son de laboratorio. Están en disputa cuánto del efecto del incentivo es esfuerzo y cuánto selección, y si la transparencia es neta positiva. La evidencia sale de laboratorios, de economías nacionales y de empresas cotizantes; ninguna de empresas chicas.
 
+Cómo se liquida lo que se decidió pagar (los conceptos del recibo, los aportes y las contribuciones) es de Administración de personal y nómina, en [liquidación de sueldos](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md).
+
 Para leer: Jenkins y colegas (1998), por la diferencia entre cantidad y calidad, y Cullen (2024), por la diferencia entre transparencia horizontal y vertical.

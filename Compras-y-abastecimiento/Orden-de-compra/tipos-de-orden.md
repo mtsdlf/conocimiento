@@ -11,6 +11,7 @@ fuentes:
   - "SAP R/3 4.6C, Service Entry and Acceptance for Purchase Orders (según su resumen): https://help.sap.com/saphelp_46c/helpdata/en/76/5aa8010d3211d3836f0000e8a5eb64/content.htm"
   - "Wikipedia, Consignment (según su resumen): https://en.wikipedia.org/wiki/Consignment"
   - "ERPNext, Material Request, propósito de subcontratación (según su resumen): https://docs.frappe.io/erpnext/user/manual/en/material-request"
+  - "ERPNext, Subcontracting (la orden de compra de subcontratación como primer documento): https://docs.frappe.io/erpnext/user/manual/en/subcontracting"
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (sección 3)"
 aliases: [tipos de orden, tipos de orden de compra, purchase order types, orden puntual, orden estándar, standard purchase order, orden abierta, blanket order, blanket purchase order, orden contra contrato, liberación, release order, call-off, orden planificada, planned purchase order, orden de servicios, hoja de aceptación de servicios, hoja de entrada de servicios, service entry sheet, consignación, consignment]
 creado: 2026-11-27
@@ -59,6 +60,6 @@ En la consignación, el dueño legal de la mercadería es el consignante hasta q
 
 ## Los bordes: subcontratación y compra de activos
 
-La subcontratación, en que se le manda material a un tercero para que lo transforme, aparece como propósito de la solicitud en un sistema abierto. Es un paso de la fabricación y va al tema Producción, todavía no armado; acá solo interesa que, según se entiende, termina en una orden al proveedor. La compra de una máquina es una orden puntual (criterio de la base); su alta como activo está en [activos fijos y amortización](../../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md) y su vida, en Activos y mantenimiento, todavía no armado.
+La subcontratación, en que se le manda material a un tercero para que lo transforme, aparece como propósito de la solicitud en un sistema abierto. Es un paso de la fabricación y está en [subcontratación](../../Produccion/Ejecucion-en-planta/subcontratacion.md), de Producción; acá solo interesa que termina en una orden al proveedor. La documentación de subcontratación del mismo sistema empieza por una orden de compra de subcontratación, cuyo precio es el del servicio y no el del producto. La compra de una máquina es una orden puntual (criterio de la base); su alta como activo está en [activos fijos y amortización](../../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md) y su vida, en [Activos y mantenimiento](../../Activos-y-mantenimiento/activos-y-mantenimiento.md), con el recorrido entero en [de la compra a la baja del activo](../../Procesos-de-negocio/de-la-compra-a-la-baja-del-activo.md).
 
 Del lado de la venta, el espejo de esta nota es [tipos de pedido](../../Relacion-con-clientes/Pedido-de-venta/tipos-de-pedido.md): el pedido abierto del vendedor es la orden abierta del comprador.

@@ -25,7 +25,7 @@ APQC 7.4 lo ubica en «Obtain required resources» (10.3.2.2), un proceso de rec
 
 ## Dónde termina este componente
 
-Este tema decide qué repuestos lleva un equipo, cuáles son críticos y cuáles reserva una orden. Cuántos hay, dónde están y cuánto valen es del tema [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md); comprarlos, del tema Compras y abastecimiento, todavía no armado. Cómo el depósito aparta mercadería para un pedido está en [reserva](../../Inventario-y-depositos/Operacion-del-deposito/reserva.md). La orden es cliente de los dos: pide al depósito lo que hay y, por medio del depósito o directo, a compras lo que falta.
+Este tema decide qué repuestos lleva un equipo, cuáles son críticos y cuáles reserva una orden. Cuántos hay, dónde están y cuánto valen es del tema [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md); comprarlos, del tema [Compras y abastecimiento](../../Compras-y-abastecimiento/compras-y-abastecimiento.md), que arranca con la [solicitud de compra](../../Compras-y-abastecimiento/Orden-de-compra/solicitud-de-compra.md). Cómo el depósito aparta mercadería para un pedido está en [reserva](../../Inventario-y-depositos/Operacion-del-deposito/reserva.md). La orden es cliente de los dos: pide al depósito lo que hay y, por medio del depósito o directo, a compras lo que falta.
 
 ## Qué pide la orden
 

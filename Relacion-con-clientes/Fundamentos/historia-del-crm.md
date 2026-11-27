@@ -44,6 +44,6 @@ La fecha del concepto (los setenta, según Wikipedia) y la del producto y la sig
 
 ## Qué cambió con la nube y qué no
 
-En los dos mil el CRM pasó a venderse también como servicio por suscripción en internet. La base no lo desarrolla, y no lo verificó en una fuente, porque es historia de la industria del software y no del dominio: cómo se vende y se cobra un software de gestión es del tema Software de gestión, todavía no armado.
+En los dos mil el CRM pasó a venderse también como servicio por suscripción en internet. La base no lo desarrolla, y no lo verificó en una fuente, porque es historia de la industria del software y no del dominio: cómo se vende y se cobra un software de gestión está en [licencia y suscripción](../../Software-de-gestion/Mercado-y-economia/licencia-y-suscripcion.md), el paso a la nube de toda la clase, en [historia del software de gestión](../../Software-de-gestion/Fundamentos/historia-del-software-de-gestion.md#la-nube), y el CRM como producto, en [CRM](../../Software-de-gestion/Categorias-de-producto/crm.md), los tres en Software de gestión.
 
 Lo que no cambió es el registro: una cuenta con sus contactos, una oportunidad con su etapa, un presupuesto con su vigencia, un pedido con su fecha. Un vendedor con un cuaderno y un sistema en la nube anotan las mismas cosas; cambia quién más puede leerlas y cuándo.

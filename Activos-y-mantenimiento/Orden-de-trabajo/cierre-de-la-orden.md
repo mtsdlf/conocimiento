@@ -37,7 +37,7 @@ Un ERP abierto pide, para una reparación: el equipo, la fecha de la falla, una 
 | Materiales | Repuestos e insumos consumidos | Costo; qué pieza se cambió en el equipo |
 | Costo | La suma de lo anterior más servicios de terceros | Comparar contra lo estimado; pasarlo a Contabilidad |
 
-Los materiales consumidos vienen de [repuestos y materiales](repuestos-y-materiales.md). Las horas cargadas son costo del trabajo acá; para liquidar el sueldo del técnico son del tema Administración de personal y nómina, todavía no armado.
+Los materiales consumidos vienen de [repuestos y materiales](repuestos-y-materiales.md). Las horas cargadas son costo del trabajo acá; para liquidar el sueldo del técnico son del [registro de asistencia](../../Administracion-de-personal-y-nomina/Tiempo-y-asistencia/registro-de-asistencia.md) y la [liquidación de sueldos](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md), en Administración de personal y nómina.
 
 ## La falla codificada
 
