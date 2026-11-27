@@ -5,7 +5,7 @@ estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, Cross Industry, versión 7.4 (© 2024), 4.4.2 «Plan and manage inbound material flow» (ID 20936) y sus actividades 4.4.2.1 a 4.4.2.5, 4.4.3.2, 4.4.4 y 4.2.3.5 a 4.2.3.7 (leído en esas partes): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
-  - "APQC, Process Classification Framework, Cross Industry, versión 8.0, 27/02/2026 (no se pudo leer, error 403; existencia y fecha según el buscador): https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-pdf-13"
+  - "APQC, Process Classification Framework, Cross Industry, versión 8.0, febrero de 2026, PDF bajado por una persona desde el sitio de APQC (leído el 2026-11-27 en 4.4, 4.4.1, 4.4.2, 4.4.3.2 y 4.4.4): https://www.apqc.org/pcf-pdf"
   - "ASCM, SCOR DS / SCOR 12 Comparison Document (© 2025), procesos S2.1 a S2.7 (leído): https://www.ascm.org/globalassets/ascm_website_assets/docs/scor/scor_crosswalk.pdf"
   - "ASCM, SCOR Digital Standard Quick Reference Guide, métricas CO.3.13, CO.3.14, RS.3.8 y RL.2.8 (leído): https://www.ascm.org/globalassets/documents--files/corporate-transformation/scor-ds-digital-guide_final.pdf"
   - "GS1 Germany, EANCOM 2002 S3, perfil DESADV, introducción (leído): https://www.publikationen.gs1-germany.de/Complete/eancom_v9.3/profiles/s3/desadv/en/html/in1.htm"
@@ -41,9 +41,11 @@ En la versión 7.4 del Process Classification Framework de APQC, el proceso es 4
 
 El PCF no tiene un proceso de transporte de entrada aparte: el transporte propio está en 4.4.4 «Operate outbound transportation», y 4.4.2 solo planifica, gestiona y monitorea la entrada. Los turnos de descarga y el aviso de despacho no figuran en el PCF; ponerlos acá, y repartir las actividades como en la tabla, es de la base. La recepción física es la actividad siguiente, 4.4.3.2 «Receive, inspect, and store inbound deliveries», que en la base es [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md), de Inventario.
 
-APQC publicó la versión 8.0 del PCF el 27 de febrero de 2026, según el buscador. No se pudo leer (la página dio error 403), así que no se sabe si 4.4.2 cambió de número o de nombre. Las páginas de medidas de APQC siguen mostrando 4.4.2.3 «Monitor inbound delivery performance» con el ID 10351, pero no dicen de qué versión son.
+APQC publicó la versión 8.0 del PCF en febrero de 2026, y esta parte no cambió. En el PDF de la 8.0, 4.4 «Manage logistics and warehousing» (10219) y 4.4.2 «Plan and manage inbound material flow» (20936) tienen las mismas cinco actividades de la tabla, con los mismos números e ID, incluida 4.4.2.3 «Monitor inbound delivery performance» (10351). También siguen igual 4.4.3.2 y 4.4.4.
 
-> [!NOTE] Sin fuente todavía: el texto de 4.4.2 en el PCF 8.0 y sus definiciones; la base cita la 7.4 en todos los temas. Se probaron el PDF y el Excel de APQC (bloqueados), las copias de archive.org (guardan solo la ficha, sin el documento), una copia en un sitio de documentos (bloqueada) y notas de versión (no se encontraron). Hace falta abrir el PDF de APQC desde un navegador.
+El PCF dice que el ID de cinco dígitos sigue a la definición del elemento y que «A new 5-digit number will be assigned to a process element if its definition substantially changes». Que estas definiciones no cambiaron de fondo, porque los ID son los mismos, es lectura de la base.
+
+> [!NOTE] Sin fuente todavía: el texto de las definiciones de cada actividad en la 8.0. El PDF trae solo los nombres y los ID.
 
 SCOR, el otro marco de la cadena, pone la entrada dentro de abastecer. Según la tabla de equivalencias de ASCM de 2025, el SCOR Digital Standard tiene S2.2 «Schedule Product Delivery», S2.3 «Manage Inbound Transport» y S2.4 «Receive Product». El S2.3 es nuevo: la versión 12 pasaba directo de programar la entrega (sS1.1) a recibir (sS1.2). Cómo se reparten los dos marcos en el tema está en [marcos de la cadena de suministro](../Fundamentos/marcos-de-la-cadena-de-suministro.md).
 
