@@ -8,6 +8,7 @@ fuentes:
   - "Odoo 18, Time and materials invoicing (confirmar el pedido crea el proyecto y la tarea): https://www.odoo.com/documentation/18.0/applications/sales/sales/invoicing/time_materials.html"
   - "ERPNext, Project Profitability (el proyecto como campo de los documentos de compra y venta): https://docs.frappe.io/erpnext/user/manual/en/project-profitability"
   - "Microsoft Learn, Dynamics 365 Project Operations, Manage contract values for project-based sales (líneas de contrato con método de facturación): https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/sales/manage-contract-values-project-based-sales"
+  - "FAR 52.232-7 Payments under Time-and-Materials and Labor-Hour Contracts, párrafos (a)(7), (f) y (g) (voucher de cierre y liberación de lo retenido): https://www.acquisition.gov/far/52.232-7"
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (secciones 0 y 2)"
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 4.1)"
 aliases: [proyecto del cliente, proyecto facturable, client project, billable project, engagement, encargo, proyecto con cliente]
@@ -42,7 +43,7 @@ La regla de facturación puede no ser una sola. Un sistema de gestión de servic
 
 ## Los estados del proyecto
 
-> [!NOTE] Sin fuente todavía: ningún estándar leído define los estados de un proyecto con cliente. APQC solo da el ciclo de iniciar (5.3.1), ejecutar (5.3.2) y completar (5.3.3).
+> [!NOTE] Sin fuente todavía: ningún estándar leído define los estados de un proyecto con cliente. APQC solo da el ciclo de iniciar (5.3.1), ejecutar (5.3.2) y completar (5.3.3). Se buscó una guía de contabilidad de proyectos con una lista de estados y no apareció.
 
 La tabla que sigue es síntesis de esta base, no un estándar. Sirve como punto de partida para modelar:
 
@@ -66,7 +67,9 @@ No todo proyecto tiene un cliente que pague. La preventa, la capacitación, un d
 
 APQC separa el cierre financiero de la entrega: «Complete/finalize financial management activities» (5.3.3.2) y «Confirm delivery according to contract terms» (5.3.3.3), seguidos de liberar a las personas (5.3.3.4) y archivar los registros (5.3.3.7). El marco da los nombres pero no el contenido.
 
-> [!NOTE] Sin fuente todavía: qué incluye el cierre financiero de un proyecto. Lectura de esta base: aprobar las últimas horas, facturar el remanente, liberar las retenciones de garantía, devolver o dar por consumido el saldo prepago, dejar en cero el [trabajo en curso](../Facturacion-del-proyecto/trabajo-en-curso.md) y cerrar el proyecto a nuevos cargos.
+Un caso de cierre está escrito en una cláusula de contratos públicos de los Estados Unidos por tiempo y materiales (FAR 52.232-7): el contratista presenta una «completion voucher» con su documentación «as promptly as practicable following completion of the work» y a más tardar 120 días después, y las sumas retenidas se mantienen hasta que entrega una liberación de reclamos. Es una sola fuente y vale para ese tipo de contrato.
+
+> [!NOTE] Sin fuente todavía: qué incluye el cierre financiero de un proyecto de servicios en general. Se buscó una guía de contabilidad de proyectos o de estudios, y solo aparecieron listas de cierre de obra y blogs de proveedores, que no sirven como autoridad. Lectura de esta base: aprobar las últimas horas, facturar el remanente, liberar las retenciones de garantía, devolver o dar por consumido el saldo prepago, dejar en cero el [trabajo en curso](../Facturacion-del-proyecto/trabajo-en-curso.md) y cerrar el proyecto a nuevos cargos.
 
 La aceptación del cliente que habilita ese cierre está en [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md#aceptar-y-cerrar); el cierre como método, en [Gestión de proyectos](../../Gestion-de-proyectos/gestion-de-proyectos.md).
 

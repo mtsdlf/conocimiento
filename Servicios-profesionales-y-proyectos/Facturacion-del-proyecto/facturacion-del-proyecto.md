@@ -10,6 +10,7 @@ fuentes:
   - "Odoo 18, Time and materials invoicing: https://www.odoo.com/documentation/18.0/applications/sales/sales/invoicing/time_materials.html"
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 9.2.2 «Invoice customer» y 5.3"
   - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos 35 y 105-109: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
+  - "Grant Thornton, Revenue from Contracts with Customers: Navigating the guidance in ASC 606 and ASC 340-40 (enero 2022), ASC 606-10-25-27 y 606-10-45-2: https://www.grantthornton.com/content/dam/grantthornton/website/assets/content-page-files/audit/pdfs/2022/revenue-from-contracts-with-customers-updated-220124.pdf"
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (sección 3)"
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 4)"
 aliases: [facturación del proyecto, project billing, project invoicing, facturación de servicios, regla de facturación, billing rule, billing method]
@@ -48,12 +49,12 @@ Lectura de esta base sobre los dos sistemas: el documento que se factura es la l
 
 ## Reconocer el ingreso no es facturar
 
-La factura sigue el calendario pactado con el cliente; el ingreso sigue el trabajo hecho. La NIIF 15 reconoce el ingreso de un servicio a lo largo del tiempo cuando, entre otros casos, el cliente «simultaneously receives and consumes the benefits» a medida que la firma trabaja (párrafo 35), que, en lectura de esta base, es lo normal en un servicio profesional. Por eso, al cierre de cada mes, casi todo proyecto tiene una diferencia entre lo trabajado y lo facturado:
+La factura sigue el calendario pactado con el cliente; el ingreso sigue el trabajo hecho. La NIIF 15 reconoce el ingreso de un servicio a lo largo del tiempo cuando, entre otros casos, el cliente «simultaneously receives and consumes the benefits» a medida que la firma trabaja (párrafo 35). Grant Thornton, sobre el ASC 606, dice que en «typical service contracts» el cliente recibe y consume el resultado a medida que la firma trabaja y, por eso, la obligación se cumple a lo largo del tiempo; que un servicio profesional sea uno de esos casos es lectura de esta base. Por eso, al cierre de cada mes, casi todo proyecto tiene una diferencia entre lo trabajado y lo facturado:
 
 - Trabajado y no facturado: un activo del contrato o una cuenta a cobrar.
 - Facturado y no trabajado: un pasivo del contrato.
 
-Esa diferencia, con sus nombres según la norma, está en [trabajo en curso](trabajo-en-curso.md). Lo que se cobra antes de entregar, del lado contable, está en [ingresos y cuentas a cobrar](../../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md#cobrar-antes-de-entregar-anticipos-e-ingresos-diferidos). Dinero y norma: lo de la NIIF 15 sale de una sola fuente, la IFRS Foundation.
+Esa diferencia, con sus nombres según la norma, está en [trabajo en curso](trabajo-en-curso.md). Lo que se cobra antes de entregar, del lado contable, está en [ingresos y cuentas a cobrar](../../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md#cobrar-antes-de-entregar-anticipos-e-ingresos-diferidos). Dinero y norma: lo de la NIIF 15 tiene dos fuentes, la IFRS Foundation y el ASC 606 de los Estados Unidos según Grant Thornton (606-10-25-27 y 606-10-45-2).
 
 ## Lo que sigue a la factura
 

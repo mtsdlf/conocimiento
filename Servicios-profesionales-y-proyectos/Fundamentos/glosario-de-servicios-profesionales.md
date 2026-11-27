@@ -8,6 +8,8 @@ fuentes:
   - "IFRS Foundation, NIIF 15, párrafos 18, 35 y 105-109: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
   - "Microsoft Learn, Dynamics 365 Project Operations (estados de reserva, hoja de horas, tope, calendario de facturación, retainer): https://learn.microsoft.com/en-us/dynamics365/project-operations/"
   - "Wikipedia, Billable hours, Utilization rate y Professional services automation (según resumen)"
+  - "SPI Research, Professional Services Benchmarks (definición de utilización facturable y cifras del PS Maturity Benchmark 2026; no da la fórmula de la encuesta): https://spiresearch.com/professional-services-benchmarks/"
+  - "Thomson Reuters Institute, Law Firm Rates Report 2027 (tarifa de lista y tarifa pactada con definición; realización de facturación y de cobro del segundo trimestre de 2026; datos de 184 estudios de Estados Unidos): https://www.thomsonreuters.com/en/institute/reports/law-firm-rates-report-2027"
   - "Servicios-profesionales-y-proyectos/.investigacion/ (cuatro informes, 2026-11-27)"
 aliases: [glosario de servicios profesionales, glosario de PSA, PSA glossary, términos de servicios profesionales, vocabulario de una consultora]
 creado: 2026-11-27
@@ -18,7 +20,7 @@ revisado:
 
 Los términos del tema Servicios profesionales y proyectos, cada uno con su nombre en inglés, una definición corta y la nota donde vive.
 
-No hay un glosario canónico del campo: el vocabulario viene de los estudios jurídicos y contables, y los sistemas usan nombres distintos para lo mismo (*retainer* nombra por lo menos tres arreglos). Estas son las palabras de esta base, en un sentido cada una. Las de realización y lockup son criterio de esta base, sin fuente leída. Los términos del método de llevar un proyecto (línea base, valor ganado, pronóstico) están en el [glosario de gestión de proyectos](../../Gestion-de-proyectos/Fundamentos/glosario-de-gestion-de-proyectos.md), y los del presupuesto y el pedido como documentos, en el [glosario de relación con clientes](../../Relacion-con-clientes/Fundamentos/glosario-de-relacion-con-clientes.md).
+No hay un glosario canónico del campo: el vocabulario viene de los estudios jurídicos y contables, y los sistemas usan nombres distintos para lo mismo (*retainer* nombra por lo menos tres arreglos). Estas son las palabras de esta base, en un sentido cada una. La utilización facturable tiene una definición con fuente (SPI Research, horas facturables sobre horas disponibles), y la realización tiene una descripción parcial del Thomson Reuters Institute; la tarifa efectiva y el lockup son criterio de esta base, sin fuente leída. Los términos del método de llevar un proyecto (línea base, valor ganado, pronóstico) están en el [glosario de gestión de proyectos](../../Gestion-de-proyectos/Fundamentos/glosario-de-gestion-de-proyectos.md), y los del presupuesto y el pedido como documentos, en el [glosario de relación con clientes](../../Relacion-con-clientes/Fundamentos/glosario-de-relacion-con-clientes.md).
 
 ## El proyecto
 

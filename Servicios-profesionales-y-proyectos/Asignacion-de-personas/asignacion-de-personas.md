@@ -8,7 +8,9 @@ fuentes:
   - "Microsoft Learn, Project Operations, Resource management key concepts (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/resource-management/resource-management-key-concepts"
   - "Microsoft Learn, Project Operations, Resource management mode overview (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/resource-management/resource-management-mode-overview"
   - "Microsoft Learn, Project Operations, Booking status (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/resource-management/booking-status"
+  - "Nesheim, T. (2021), Exploring the resource manager role in a project-based organization, International Journal of Managing Projects in Business, https://doi.org/10.1108/ijmpb-12-2020-0389 (solo el resumen, que es lo que el editor publica)"
   - "Servicios-profesionales-y-proyectos/.investigacion/asignacion-y-horas.md (sección 1)"
+  - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-asignacion-y-horas.md"
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (secciones 1 y 2)"
 aliases: [asignación de recursos, resource management, gestión de recursos, staffing, planificación de recursos, resource planning, dotación de proyectos]
 creado: 2026-11-27
@@ -39,8 +41,10 @@ En la práctica de los sistemas de gestión de servicios hay dos papeles. Quien 
 
 La reserva tiene dos intensidades. La firme consume la capacidad de la persona; la tentativa la deja en el equipo pero sin consumirla, así que puede seguir ofreciéndose a otros proyectos. El detalle de los estados está en [reserva de personas](reserva-de-personas.md).
 
+Un estudio de caso con 12 entrevistas en un departamento de proyectos de una industria con estructura de matriz describe esos dos papeles desde el lado de quien administra a las personas: el responsable de recursos es un jefe de línea que complementa al jefe de proyecto, sus tareas centrales son asignar recursos, desarrollar competencias y evaluar el desempeño, y su desafío principal es la relación con el jefe de proyecto (Nesheim, 2021, según el resumen del artículo). Es un solo caso, en una organización grande, y no habla de firmas chicas.
+
 > [!NOTE]
-> Sin fuente todavía: quién decide cuando dos proyectos quieren a la misma persona en firme, y con qué criterio (margen, cliente, fecha de firma, riesgo). Las fuentes leídas describen los dos papeles y que colaboran, pero ninguna dice quién arbitra.
+> Sin fuente todavía: quién decide cuando dos proyectos quieren a la misma persona en firme, y con qué criterio (margen, cliente, fecha de firma, riesgo). Las fuentes leídas describen los dos papeles y que colaboran, pero ninguna dice quién arbitra ni con qué criterio. Se buscó en la documentación de dos sistemas, en el marco APQC y en la literatura sobre asignación en varios proyectos a la vez (resúmenes de artículos); el texto de la guía del PMI y el artículo de Engwall y Jerbrant (2003) sobre «el síndrome de la asignación de recursos» no se pudieron abrir.
 
 ## Cómo falla la asignación
 

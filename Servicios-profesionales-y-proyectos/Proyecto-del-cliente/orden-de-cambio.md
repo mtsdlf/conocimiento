@@ -5,6 +5,8 @@ estado: borrador
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos 18-21 y 56: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
+  - "Grant Thornton, Revenue from Contracts with Customers: Navigating the guidance in ASC 606 and ASC 340-40 (enero 2022), sección 10 Modifications, ASC 606-10-25-10 a 25-13: https://www.grantthornton.com/content/dam/grantthornton/website/assets/content-page-files/audit/pdfs/2022/revenue-from-contracts-with-customers-updated-220124.pdf"
+  - "AIA Contract Documents, Instructions: G701-2017, Change Order (y el formulario de muestra G701-2017): https://help.aiacontracts.com/hc/en-us/articles/1500009322061-Instructions-G701-2017-Change-Order"
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 5.3.2.4 «Identify changes» y 5.3.2.5 «Obtain approval to proceed»"
   - "Microsoft Learn, Dynamics 365 Project Operations, Revise a project cost budget: https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/budget/revise-project-cost-budget"
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (sección 2.5)"
@@ -23,13 +25,13 @@ Cómo se decide un cambio (quién lo aprueba, si se cotiza, se intercambia por a
 
 La definición más precisa que se leyó es la de la NIIF 15, párrafo 18: «A contract modification is a change in the scope or price (or both) of a contract that is approved by the parties». Tiene tres partes, y cada una es un dato del registro:
 
-- **Qué cambia**: el alcance, el precio o los dos. Lectura de esta base, a partir de «scope or price (or both)»: una rebaja sin cambio de trabajo también es una orden de cambio.
-- **Quién aprueba**: las dos partes. Un pedido del cliente que la firma todavía no aceptó, o un cambio que la firma propone y el cliente no firmó, no es una orden de cambio todavía.
+- **Qué cambia**: el alcance, el precio o los dos. Una rebaja sin cambio de trabajo también es una orden de cambio: Grant Thornton lista, entre las formas comunes de modificación según el ASC 606, «Reducing the contract price without a change in goods or services promised». El párrafo 18 agrega que la modificación puede llamarse «change order, a variation or an amendment».
+- **Quién aprueba**: las dos partes. Un pedido del cliente que la firma todavía no aceptó, o un cambio que la firma propone y el cliente no firmó, no es una orden de cambio todavía. La norma admite que la aprobación sea escrita, oral o «implied by customary business practices»; para el registro, criterio de esta base, conviene que quede escrita.
 - **Sobre qué contrato**: la orden apunta al contrato o al pedido de origen, no flota suelta.
 
 El párrafo 19 agrega un caso que el registro tiene que admitir: puede haber modificación aunque las partes discutan el alcance o el precio. Si el precio no está resuelto, la firma lo estima con las reglas de la contraprestación variable (la parte del precio que depende de algo que todavía no se sabe, que la NIIF 15 manda estimar), y el párrafo 56 solo deja contar como ingreso lo que sea muy probable que no haya que revertir. Para el registro eso quiere decir, en lectura de esta base, que una orden puede estar aprobada en alcance y abierta en precio, y que mientras tanto el ingreso que genera se calcula con cautela.
 
-Dinero y norma: todo lo de este apartado sale de una sola fuente, la NIIF 15 de la IFRS Foundation. No se leyó el tratamiento del US GAAP ni una segunda fuente independiente.
+Dinero y norma: lo de este apartado y del siguiente tiene dos fuentes, la NIIF 15 de la IFRS Foundation y el ASC 606 de los Estados Unidos (606-10-25-10 a 25-13, leído en el texto que reproduce Grant Thornton), que dicen lo mismo sobre la definición, el cambio sin precio resuelto y los dos tratamientos.
 
 ## Los estados de una orden de cambio
 
@@ -61,7 +63,18 @@ Una orden aprobada toca tres registros del proyecto. La lista es criterio de est
 - **Los hitos o las líneas del contrato.** En un precio cerrado, la orden agrega un [hito](hitos-y-entregables.md) o sube el monto de uno; si no, el trabajo se hace y no hay dónde facturarlo. En un contrato con varias líneas, un servicio distinto puede ser una línea nueva con su propio método de facturación.
 - **La fecha.** Si el cambio corre el plazo, la fecha de los hitos posteriores se mueve con él.
 
-> [!NOTE] Sin fuente todavía: formularios de orden de cambio de la práctica (los de construcción y obra pública son los más conocidos y no se leyeron) y cómo registran los sistemas el efecto de un cambio en el calendario.
+## Qué datos lleva el formulario
+
+El formulario estándar de la construcción en los Estados Unidos, el G701 del Instituto Americano de Arquitectos, da una lista de datos que sirve de contraste. Según sus instrucciones, lleva:
+
+- una descripción detallada del cambio, con los anexos que aclaren el alcance;
+- el monto original del contrato, el cambio neto de las órdenes anteriores, el monto antes de esta orden, el aumento o la baja de esta orden y el monto nuevo;
+- el cambio en el plazo, en días, y la fecha nueva de terminación sustancial;
+- la firma de las tres partes: el dueño, el contratista y el arquitecto.
+
+El formulario cuenta el monto como una cuenta corriente de órdenes: cada una parte del total que dejó la anterior. Para un proyecto de servicios, el equivalente es guardar con cada orden el precio antes y después, no solo la diferencia. Es una lectura de esta base sobre un formulario de otro rubro, no una práctica documentada en servicios profesionales.
+
+> [!NOTE] Sin fuente todavía: el procedimiento de variación de los contratos de obra del FIDIC (se buscó y solo aparecieron comentarios de terceros, no el texto) y cómo registran los sistemas de servicios el efecto de un cambio en el calendario.
 
 ## Cómo se pierde plata con los cambios
 

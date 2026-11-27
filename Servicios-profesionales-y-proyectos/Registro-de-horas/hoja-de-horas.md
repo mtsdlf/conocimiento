@@ -7,12 +7,14 @@ fuentes:
   - "Microsoft Learn, Project Operations, Time entry overview, UI behavior y Time entry configurations (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/time/time-entry-overview"
   - "Microsoft Learn, Project Operations, Approvals overview (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/approvals/approvals-overview"
   - "Microsoft Learn, Project Operations, Recall and cancel approvals (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/approvals/recall-cancel"
-  - "ERPNext, Timesheet (según resumen): https://docs.frappe.io/erpnext/user/manual/en/timesheet"
-  - "Odoo 19, Timesheets (según resumen): https://www.odoo.com/documentation/19.0/applications/services/timesheets.html"
-  - "WilmerHale (2010), Slice of History: Reginald Heber Smith and the Birth of the Billable Hour (según resumen): https://www.wilmerhale.com/en/insights/publications/slice-of-history-reginald-heber-smith-and-the-birth-of-the-billable-hour-august-9-2010"
-  - "FAR 52.232-7 Payments under Time-and-Materials and Labor-Hour Contracts (según resumen): https://www.acquisition.gov/far/52.232-7"
+  - "ERPNext, Timesheet (como evidencia de práctica, leída en el sitio): https://docs.frappe.io/erpnext/user/manual/en/timesheet"
+  - "Odoo 19, Timesheets (como evidencia de práctica, leída en el sitio): https://www.odoo.com/documentation/19.0/applications/services/timesheets.html"
+  - "WilmerHale (2010), Slice of History: Reginald Heber Smith and the Birth of the Billable Hour (leída entera en el sitio): https://www.wilmerhale.com/en/insights/publications/slice-of-history-reginald-heber-smith-and-the-birth-of-the-billable-hour-august-9-2010"
+  - "FAR 52.232-7 Payments under Time-and-Materials and Labor-Hour Contracts, cláusula de nov. 2021, leída entera en el texto oficial: https://www.acquisition.gov/far/52.232-7"
+  - "2 CFR 200.430(g), Standards for Documentation of Personnel Expenses (control interno y ajustes posteriores de los registros de tiempo), leído en el texto de la e-CFR: https://www.law.cornell.edu/cfr/text/2/200.430"
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 3)"
   - "Servicios-profesionales-y-proyectos/.investigacion/asignacion-y-horas.md (secciones 2.2 y 2.3)"
+  - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-asignacion-y-horas.md"
 aliases: [hoja de horas, timesheet, planilla de horas, parte de horas, time sheet, aprobación de horas, timesheet approval]
 creado: 2026-11-27
 revisado:
@@ -26,7 +28,7 @@ Es la forma concreta del [registro de horas](registro-de-horas.md). Lo que aprue
 
 ## Qué lleva cada línea
 
-La primera hoja de horas documentada, la que Reginald Heber Smith armó hacia 1920 en un estudio jurídico de Boston, era «a form on which you wrote the name of the client, the name of the case», más la descripción del trabajo y el tiempo. La unidad mínima era una décima de hora, porque «I can more easily add, subtract, and divide on the decimal system»: de ahí los seis minutos que todavía usan muchos estudios (según el resumen de la historia que publica ese estudio).
+La primera hoja de horas documentada, la que Reginald Heber Smith armó hacia 1920 en un estudio jurídico de Boston, era «a form on which you wrote the name of the client, the name of the case», más la descripción del trabajo y el tiempo. La unidad mínima era una décima de hora, porque «I can more easily add, subtract, and divide on the decimal system»: de ahí los seis minutos que todavía usan muchos estudios (según la historia que publica ese estudio).
 
 Los sistemas actuales guardan lo mismo con más dimensiones:
 
@@ -47,9 +49,9 @@ Un sistema también limita la duración por día (configurable, por defecto 24 h
 Dos de los sistemas leídos cargan en una grilla semanal, con vista por día o por mes. Como criterio de esta base, la semana es la unidad de carga, no necesariamente la de aprobación ni la de factura.
 
 > [!NOTE]
-> Sin fuente todavía: el cierre del período (una fecha después de la cual no se cargan más horas de una semana o un mes) no aparece en ninguna de las fuentes leídas. Tampoco hay fuente sobre la jerarquía de proyecto, tarea y actividad como práctica recomendada.
+> Sin fuente todavía: el cierre del período (una fecha después de la cual no se cargan más horas de una semana o un mes) no aparece en ninguna de las fuentes leídas, que son la documentación de tres sistemas, 29 CFR 516.2, 2 CFR 200.430 y la cláusula FAR 52.232-7: las normas hablan de la semana de trabajo y del comprobante quincenal, no de un cierre de carga. Tampoco hay fuente sobre la jerarquía de proyecto, tarea y actividad como práctica recomendada.
 
-La frecuencia de carga sí tiene un caso extremo documentado. En los contratos por tiempo y materiales del Estado de los Estados Unidos, cada factura se respalda con «Individual daily job timekeeping records», según el resumen de la cláusula FAR 52.232-7 (una sola fuente, leída por resumen). Es una exigencia de un cliente público estadounidense, no práctica general; muestra hasta dónde puede pedir un cliente que el registro sea diario.
+La frecuencia de carga sí tiene un caso documentado. En los contratos por tiempo y materiales del Estado de los Estados Unidos, la cláusula FAR 52.232-7 deja presentar comprobantes «not more than once every two weeks» y exige respaldarlos con prueba del pago real y con «Individual daily job timekeeping records», con registros que verifiquen que el personal reúne las calificaciones del contrato, o con «Other substantiation approved by the Contracting Officer». Los registros diarios son una de tres alternativas, no la única. Es una cláusula de un cliente público estadounidense (una sola fuente, leída entera), no práctica general; muestra qué puede pedir un cliente para pagar por hora.
 
 ## Los estados y quién aprueba
 
@@ -60,7 +62,7 @@ Un sistema de gestión de servicios documenta cuatro estados:
 3. **Aprobada.** Crea los valores reales del proyecto: «If the entry is related to a project, the actuals are created when you approve it».
 4. **Devuelta.** El aprobador la rechazó; vuelve a la persona con un comentario visible para corregir y reenviar.
 
-En ese sistema aprueban los miembros del equipo marcados como aprobadores del proyecto, y además se puede configurar el jefe de cada persona. Un sistema abierto bloquea la tarifa de venta y el costo al enviar la hoja («Billing Rate and Costing rate get locked») y factura desde la hoja enviada. Otro tiene la validación como permiso («validate all employees' timesheets»), sin un flujo de varios pasos documentado.
+En ese sistema aprueban los miembros del equipo marcados como aprobadores del proyecto, y además se puede configurar el jefe de cada persona. Un sistema abierto bloquea la tarifa de venta y el costo al enviar la hoja («Billing Rate and Costing rate get locked») y factura desde la hoja enviada. Otro tiene la validación como permiso («validate all employees' timesheets»), sin un flujo de varios pasos documentado. Fuera de los sistemas, las reglas federales de EE. UU. para imputar sueldos a un proyecto financiado piden que los registros estén «supported by a system of internal control that provides reasonable assurance that the charges are accurate» y, si se imputó con estimaciones hechas antes del trabajo, que haya revisiones posteriores y que se hagan «all necessary adjustments» para que lo cobrado sea exacto (2 CFR 200.430(g)(1)(i) y (vii)). Piden un control y un ajuste posterior; no dicen quién aprueba ni en qué plazo.
 
 Los sistemas difieren (uno bloquea la tarifa al enviar la hoja, otro factura desde la hoja enviada), pero como lectura de esta base la aprobación es el punto en que la hora deja de ser de la persona y pasa a ser del proyecto: desde ahí cuenta como costo, como venta sin facturar si el contrato es por tiempo y materiales, y como base de la utilización. En un proyecto a precio cerrado, el mismo sistema crea solo el costo.
 

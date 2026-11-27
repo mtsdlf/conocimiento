@@ -4,11 +4,12 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos B14-B17: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
+  - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos B14-B19 y B83-B86: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
+  - "Grant Thornton, Revenue from Contracts with Customers: Navigating the guidance in ASC 606 and ASC 340-40 (enero 2022), ASC 606-10-55-17 y comentario sobre «milestones reached»: https://www.grantthornton.com/content/dam/grantthornton/website/assets/content-page-files/audit/pdfs/2022/revenue-from-contracts-with-customers-updated-220124.pdf"
   - "Microsoft Learn, Dynamics 365 Project Operations, Manage contract values for project-based sales: https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/sales/manage-contract-values-project-based-sales"
   - "Microsoft Learn, Dynamics 365 Project Operations, Invoice schedules on a contract line: https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/sales/invoice-schedules-contract-line-sales"
   - "Microsoft Learn, Dynamics 365 Project Operations, Manage billing backlog: https://learn.microsoft.com/en-us/dynamics365/project-operations/proforma-invoicing/manage-billing-backlog"
-  - "Odoo 19, Milestone invoicing (según resumen): https://www.odoo.com/documentation/19.0/applications/sales/sales/invoicing/milestone.html"
+  - "Odoo 19, Invoice project milestones: https://www.odoo.com/documentation/19.0/applications/sales/sales/invoicing/milestone.html"
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (sección 2.4)"
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 4.3)"
 aliases: [hito, hitos, milestone, entregable, deliverable, hito de facturación, billing milestone, hito de pago]
@@ -34,9 +35,11 @@ Un hito puede no facturar nada (la aprobación de un borrador interno) y una fac
 
 ## Por qué el hito tiene que ser observable
 
-La NIIF 15 reconoce dos familias de métodos para medir cuánto se avanzó en una obligación que se cumple a lo largo del tiempo (B14): los de producto, que miden lo que el cliente recibió, y los de insumo, que miden lo que la firma puso. Según B15, los métodos de producto miden directamente el valor para el cliente, y entre sus ejemplos trae «surveys of performance completed to date» y «appraisals of results achieved». B17 dice su punto débil: «the outputs used to measure progress may not be directly observable».
+La NIIF 15 reconoce dos familias de métodos para medir cuánto se avanzó en una obligación que se cumple a lo largo del tiempo (B14): los de producto, que miden lo que el cliente recibió, y los de insumo, que miden lo que la firma puso. Según B15, los métodos de producto miden directamente el valor para el cliente, y entre sus ejemplos trae «surveys of performance completed to date, appraisals of results achieved, milestones reached, time elapsed and units produced or units delivered»: los hitos alcanzados figuran como método de producto. B17 dice su punto débil: «the outputs used to measure progress may not be directly observable».
 
-> [!NOTE] Sin fuente todavía: el texto completo del párrafo B15 de la NIIF 15 (el extracto leído está cortado), donde se espera que figuren los hitos alcanzados.
+B15 pone una condición: el producto elegido tiene que reflejar fielmente el desempeño de la firma, y no lo hace si deja sin medir bienes o servicios cuyo control ya pasó al cliente. El ASC 606 de los Estados Unidos dice lo mismo en 606-10-55-17. Grant Thornton, una firma auditora, concluye que un método de «milestones reached» no es apropiado si deja fuera del avance trabajo en curso material que el cliente ya controla. Dinero y norma: dos fuentes, la IFRS Foundation y el ASC 606 citado por Grant Thornton.
+
+La aceptación del cliente entra en la misma discusión (B83-B86). Si la firma puede determinar objetivamente que el servicio cumple lo pactado, la aceptación es «a formality» y no cambia cuándo pasa el control (B84); si no puede, no concluye que el cliente tiene el control hasta recibir su aceptación (B85). Para el registro, eso pide un criterio de aceptación que se pueda comprobar.
 
 De ahí sale una regla de registro, que es lectura de esta base: un hito que sirve para facturar o para medir el avance tiene que ser un hecho que alguien pueda verificar (un acta firmada, un correo de aceptación, una puesta en marcha con fecha), no una estimación de porcentaje. «Diseño al 60 %» no es un hito; «diseño aprobado por el cliente» sí.
 
@@ -63,6 +66,6 @@ Cómo se arma ese calendario, con anticipos y retenciones de garantía, está en
 
 ## Cómo falla
 
-> [!NOTE] Sin fuente todavía: estudios o práctica documentada sobre cómo fallan los hitos de facturación. Lo que sigue es criterio de esta base.
+> [!NOTE] Sin fuente todavía: estudios o práctica documentada sobre cómo fallan los hitos de facturación. Lo que sigue es criterio de esta base, con un respaldo parcial: la advertencia de la norma sobre el trabajo que queda sin medir entre un hito y otro.
 
 El hito falla cuando su criterio de aceptación es vago, porque el cliente puede no aceptarlo y la factura queda trabada. Falla cuando los hitos están muy separados, porque la firma financia meses de trabajo sin cobrar. Y falla cuando una orden de cambio agrega trabajo pero no agrega un hito ni mueve el monto de uno existente: el trabajo se hace y no hay renglón donde cobrarlo.

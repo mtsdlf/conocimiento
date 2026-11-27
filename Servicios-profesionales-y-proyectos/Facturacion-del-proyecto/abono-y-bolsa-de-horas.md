@@ -5,7 +5,8 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "IFRS Foundation, NIIF 15 Ejemplos ilustrativos, Ejemplo 18 (cuota de un club de salud): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15-ie.html"
-  - "IFRS Foundation, NIIF 15, párrafo 106 (pasivo del contrato): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
+  - "IFRS Foundation, NIIF 15, párrafos 62(a), 106 y B44-B47 (pasivo del contrato, pago por adelantado y derechos no ejercidos): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
+  - "Grant Thornton, Revenue from Contracts with Customers: Navigating the guidance in ASC 606 and ASC 340-40 (enero 2022), sección 7.7 Customer's unexercised rights, ASC 606-10-45-2 y 606-10-55-46 a 55-49: https://www.grantthornton.com/content/dam/grantthornton/website/assets/content-page-files/audit/pdfs/2022/revenue-from-contracts-with-customers-updated-220124.pdf"
   - "Microsoft Learn, Dynamics 365 Project Operations, Set up advances and retainer-based contracts: https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/sales/set-up-advances-retainer-based-contracts-sales"
   - "Microsoft Learn, Dynamics 365 Project Operations, Invoice a retainer or advance: https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/proforma-invoicing/invoice-retainer-advance-sales"
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (sección 3.3)"
@@ -33,19 +34,21 @@ En la práctica, «abono» y *retainer* nombran por lo menos tres arreglos disti
 
 ## El abono se gana con el tiempo
 
-El Ejemplo 18 de la NIIF 15 es un club de salud que cobra «CU100 per month (CU1,200 over the year)». La obligación es tener el club disponible, y el ingreso se reconoce parejo a lo largo del año «whether or not the customer uses the clubs». Es la base contable de un abono de disponibilidad: la cuota de cada mes es ingreso de ese mes aunque el cliente no haya pedido nada.
+El Ejemplo 18 de la NIIF 15 es un club de salud cuyo cliente «promises to pay CU100 per month» por un año de acceso ilimitado. La obligación es tener el club disponible, y el ingreso se reconoce parejo a lo largo del año, «on a straight-line basis», porque el cliente se beneficia de tener el club disponible «regardless of whether the customer uses it or not». Es la base contable de un abono de disponibilidad: la cuota de cada mes es ingreso de ese mes aunque el cliente no haya pedido nada.
 
-Para el registro eso quiere decir, en lectura de esta base, que en un abono de disponibilidad las horas trabajadas son costo y no consumen nada: sirven para saber si el abono deja plata, no para facturar. Si el contrato pone un cupo de cambios chicos dentro de la cuota, el cupo se cuenta para avisarle al cliente, no para reconocer el ingreso. Dinero y norma: una sola fuente, la IFRS Foundation.
+Para el registro eso quiere decir, en lectura de esta base, que en un abono de disponibilidad las horas trabajadas son costo y no consumen nada: sirven para saber si el abono deja plata, no para facturar. Si el contrato pone un cupo de cambios chicos dentro de la cuota, el cupo se cuenta para avisarle al cliente, no para reconocer el ingreso. Dinero y norma: para este ejemplo hay una sola fuente, la IFRS Foundation; no se leyó el ejemplo equivalente del ASC 606.
 
 ## La bolsa se gana hora por hora
 
 En una bolsa de horas, el cliente compra, por ejemplo, 40 horas y la firma le descuenta cada hora que trabaja. El registro natural es un saldo que se mueve: una entrada por la compra y una salida por cada hora aprobada, sin pisar el número. Es el patrón de [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md), aplicado a horas en lugar de stock, y su uso acá es criterio de esta base.
 
-> [!NOTE] Sin fuente todavía: que el saldo de horas no consumidas sea un pasivo del contrato hasta que se consume o vence es inferencia de esta base desde la definición de pasivo del contrato (NIIF 15, párrafo 106) y de lo que dice [ingresos y cuentas a cobrar](../../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md#cobrar-antes-de-entregar-anticipos-e-ingresos-diferidos) sobre el cobro adelantado. No se leyó una fuente que trate la bolsa de horas, ni los párrafos B44-B47 de la norma sobre los derechos que el cliente no ejerce.
+El saldo de horas pagadas y no consumidas es un pasivo del contrato. La NIIF 15 lo dice del pago por adelantado en general: si el cliente paga antes de que la firma transfiera el servicio, la firma presenta el contrato como pasivo del contrato cuando el pago se hace o se debe, lo que ocurra primero (párrafo 106), y por el monto del pago, por su obligación de transferir o de «stand ready to transfer» servicios, hasta que los transfiere (B44). El ASC 606-10-45-2 y 606-10-55-46, en el texto de Grant Thornton, dicen lo mismo. Que una bolsa de horas sea un caso de esa regla es una aplicación de esta base: ninguna fuente leída trata la bolsa de horas por su nombre. Tampoco hay un componente de financiación que ajustar mientras el cliente decide cuándo usar las horas (62(a)).
 
 Las horas que vencen sin usarse son el punto delicado. Si el contrato dice que vencen, la firma deja de deber ese servicio; si dice que se trasladan o se devuelven, la deuda sigue. El registro tiene que guardar la regla de vencimiento con la bolsa, no en la cabeza de quien la vendió.
 
-> [!NOTE] Sin fuente todavía: cómo se reconoce el ingreso de las horas que vencen sin usarse, y si en la Argentina una cláusula de vencimiento de horas prepagas es válida frente a un consumidor.
+Contablemente, las horas que vencen son lo que la norma llama *breakage*: derechos que el cliente no ejerce (B45). Si la firma espera tener derecho a ese monto, lo reconoce como ingreso «in proportion to the pattern of rights exercised by the customer», es decir, a medida que el cliente consume las demás horas. Si no lo espera, lo reconoce «when the likelihood of the customer exercising its remaining rights becomes remote» (B46). Para decidir si lo espera aplica las reglas que restringen las estimaciones de contraprestación variable (párrafos 56-58). Dónde cae una fecha de vencimiento escrita en el contrato dentro de esas dos reglas, es lectura de esta base: al llegar el vencimiento, la probabilidad de que el cliente use lo que le queda es nula, y el saldo pasa a ingreso si no se tiene que devolver. Dinero y norma: dos fuentes, la IFRS Foundation y el ASC 606 (606-10-55-47 y 55-48) según Grant Thornton.
+
+> [!NOTE] Sin fuente todavía: si en la Argentina una cláusula de vencimiento de horas prepagas es válida frente a un consumidor.
 
 Un practicante (Dunn, citado en [abono de cuidado](../../Emprender/Modelo-de-negocio/abono-de-cuidado.md#cómo-se-cobra)) desaconseja venderlos como horas incluidas, porque ata al cliente a la tarifa y le pone techo al ingreso. Es una discusión de modelo de negocio; el registro tiene que poder llevar las dos formas.
 

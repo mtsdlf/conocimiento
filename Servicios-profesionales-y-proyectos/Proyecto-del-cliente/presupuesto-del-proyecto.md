@@ -9,7 +9,8 @@ fuentes:
   - "Microsoft Learn, Dynamics 365 Project Operations, Estimating projects overview: https://learn.microsoft.com/en-us/dynamics365/project-operations/project-management/estimating-projects-overview"
   - "Microsoft Learn, Dynamics 365 Project Operations, Manage contract values for project-based sales: https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/sales/manage-contract-values-project-based-sales"
   - "ERPNext, Project Profitability (presupuesto con tope de gasto): https://docs.frappe.io/erpnext/user/manual/en/project-profitability"
-  - "ERPNext, Project y Project Costing (costo estimado, avance por tareas) (según resumen): https://docs.frappe.io/erpnext/user/manual/en/project"
+  - "ERPNext, Project y Project Costing (costo estimado, avance por tareas): https://docs.frappe.io/erpnext/user/manual/en/project"
+  - "GAO, Cost Estimating and Assessment Guide, GAO-20-195G (2020), glosario y capítulo de valor ganado, estimate at completion: https://www.gao.gov/assets/gao-20-195g.pdf"
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 5)"
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (sección 2.3)"
 aliases: [presupuesto del proyecto, project budget, línea base de costo, cost baseline, budget at completion, presupuesto de costo, presupuesto de ingreso, pronóstico del proyecto, project forecast]
@@ -63,7 +64,9 @@ La revisión parte siempre de una versión aprobada y crea una nueva en borrador
 
 El valor ganado, el índice de costo y la estimación al terminar (*estimate at completion*) son método de seguimiento y están en [medir el avance](../../Gestion-de-proyectos/Seguimiento/medir-el-avance.md#el-valor-ganado-y-la-estabilidad-del-cpi). Lo que este tema necesita de ellos es dónde se guardan: el presupuesto aprobado es el total presupuestado, y el pronóstico por línea hace el papel de la estimación al terminar.
 
-> [!NOTE] Sin fuente todavía: un sistema de servicios que guarde la estimación al terminar o la estimación para terminar con su fórmula. Ninguna página leída usa esas siglas; lo más cercano es el pronóstico por línea con piso en el real.
+La guía de costos de la Oficina de Rendición de Cuentas del gobierno de los Estados Unidos (GAO-20-195G) da las definiciones que sostienen esa correspondencia. El presupuesto al terminar (*budget at completion*) es «the sum of the estimated budgets for all cost elements», y vale también para un elemento de nivel más bajo. La estimación al terminar es «an assessment of the cost to complete authorized work based on a contractor's historical EVM performance», con un segundo método, la estimación de abajo hacia arriba, que evalúa en detalle el trabajo que queda. La fórmula general que trae es «EAC = ACWP (cumulative) + (BAC – BCWP (cumulative)) / efficiency index»: el costo real acumulado más lo que falta del presupuesto, ajustado por un índice de eficiencia. La guía recomienda calcular más de una estimación al terminar. Es una guía de programas públicos de gran escala, no de servicios profesionales; sirve para la definición de los datos y no dice cómo se guardan en un sistema.
+
+> [!NOTE] Sin fuente todavía: un sistema de servicios que guarde la estimación al terminar o la estimación para terminar con su fórmula. Ninguna página de sistemas leída usa esas siglas; lo más cercano es el pronóstico por línea con piso en el real.
 
 ## Cómo falla
 

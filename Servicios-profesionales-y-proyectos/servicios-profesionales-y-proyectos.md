@@ -4,7 +4,7 @@ resumen: >-
 estado: borrador
 estabilidad: semi
 fuentes:
-  - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), categorías 5.0 «Deliver Services», 9.2.2 y 9.5.1.5"
+  - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), categorías 5.0 «Deliver Service», 3.5.3, 9.2.2 y 9.5.1.5 (leídas en el texto)"
   - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos 35, 39-41 y 105-109: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
   - "WilmerHale (2010), Slice of History: Reginald Heber Smith and the Birth of the Billable Hour (según resumen): https://www.wilmerhale.com/en/insights/publications/slice-of-history-reginald-heber-smith-and-the-birth-of-the-billable-hour-august-9-2010"
   - "Wikipedia, Professional services automation (solo para ubicar el término): https://en.wikipedia.org/wiki/Professional_services_automation"
@@ -51,7 +51,7 @@ Lo propio de la Argentina (la factura de un servicio, los honorarios con arancel
 
 ## Por qué el corte es este
 
-APQC, un marco de procesos pensado para comparar empresas entre sí, no corta el dominio así. Su categoría 5.0 «Deliver Services» tiene tres partes: el gobierno y la estrategia de la entrega (5.1), los recursos (5.2) y la entrega al cliente (5.3), que va de iniciar a ejecutar y a completar. La facturación no está ahí sino en finanzas (9.2.2 «Invoice customer»), la utilización también (9.5.1.5 «Analyze and report employee utilization») y la oferta con su dotación y su precio, en ventas (3.5.3). La hora imputada a un proyecto no tiene un proceso propio en el marco.
+APQC, un marco de procesos pensado para comparar empresas entre sí, no corta el dominio así. Su categoría 5.0 «Deliver Service» tiene tres partes: el gobierno y la estrategia de la entrega (5.1), los recursos (5.2) y la entrega al cliente (5.3), que va de iniciar a ejecutar y a completar. La facturación no está ahí sino en finanzas (9.2.2 «Invoice customer»), la utilización también (9.5.1.5 «Analyze and report employee utilization») y la oferta con su dotación y su precio, en ventas (3.5.3). La hora imputada a un proyecto no tiene un proceso propio en el marco.
 
 La base corta por objeto, como hace con [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md). Su lector principal construye software de gestión, y un objeto es lo que se modela: tiene datos, estados y reglas. Es también como lo corta la documentación de un sistema de gestión de servicios leído para este tema: proyectos, planificación de recursos, horas y la facturación atada a la línea del contrato. El corte junta en un tema lo que APQC reparte en cuatro categorías, y la rentabilidad, que el marco no trata como parte de la entrega, entra porque la firma la mide con indicadores propios del rubro.
 

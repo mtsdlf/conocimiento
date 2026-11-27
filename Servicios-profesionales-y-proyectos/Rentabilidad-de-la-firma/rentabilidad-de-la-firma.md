@@ -6,6 +6,8 @@ estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 9.5.1.5 «Analyze and report employee utilization»"
   - "Wikipedia, Utilization rate (según resumen): https://en.wikipedia.org/wiki/Utilization_rate"
+  - "SPI Research, Professional Services Benchmarks (definición de utilización facturable y cifras del PS Maturity Benchmark 2026; no da la fórmula de la encuesta): https://spiresearch.com/professional-services-benchmarks/"
+  - "Thomson Reuters Institute, Law Firm Rates Report 2027 (tarifa de lista y tarifa pactada con definición; realización de facturación y de cobro del segundo trimestre de 2026; datos de 184 estudios de Estados Unidos): https://www.thomsonreuters.com/en/institute/reports/law-firm-rates-report-2027"
   - "Servicios-profesionales-y-proyectos/.investigacion/metricas-fundamentos-y-contraria.md"
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md"
 aliases: [rentabilidad de la firma, rentabilidad de un servicio profesional, firm profitability, métricas de servicios profesionales, professional services KPIs, indicadores de una consultora]
@@ -60,7 +62,7 @@ La gente puede estar llena de horas facturables y la firma ganar poco. Cada esla
 
 Las cuatro medidas sirven para ver dónde se pierde plata, y se deforman cuando se convierten en metas personales. La utilización es la más expuesta, porque la carga la misma persona a la que se evalúa: la ley de Goodhart aplicada a la utilización está en [utilización](utilizacion.md#cuando-la-utilización-se-vuelve-meta), y la crítica de los estudios jurídicos a la hora facturable, en [Fundamentos](../Fundamentos/fundamentos-de-servicios-profesionales.md). Cómo se atan bonos e incentivos a estas medidas es de [compensación e incentivos](../../Liderazgo-y-direccion/Gestion-de-personas/compensacion-e-incentivos.md).
 
-> [!NOTE] Sin fuente todavía: cifras de referencia con método de realización, lockup, margen por proyecto e ingreso por persona. Las de utilización están en la [economía de una firma de servicios](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md#cifras-de-utilización-de-referencia).
+> [!NOTE] Sin fuente todavía: cifras de referencia con método de lockup, de margen por proyecto con su fórmula y de ingreso por persona. Hay dos con fuente y límites: la realización de estudios jurídicos de Estados Unidos en el segundo trimestre de 2026, en [realización](realizacion.md#qué-dicen-las-fuentes-leídas), y la utilización facturable del benchmark 2026 de SPI Research (67,6 % en 2025), en [utilización](utilizacion.md#una-definición-con-encuesta-detrás). El mismo benchmark da un margen de proyecto promedio del 37,7 % en 2025 (509 firmas) sin decir cómo lo calcula, así que no sirve para comparar. Más cifras de utilización están en la [economía de una firma de servicios](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md#cifras-de-utilización-de-referencia).
 
 ## Qué hay en la rentabilidad de la firma
 

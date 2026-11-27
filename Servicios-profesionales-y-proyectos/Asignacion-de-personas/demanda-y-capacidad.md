@@ -6,7 +6,10 @@ estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 5.2.1 «Manage service delivery resource demand» (5.2.1.1 a 5.2.1.8) y 5.2.2 «Create and manage resource plan» (5.2.2.2 a 5.2.2.6)"
   - "Microsoft Learn, Project Operations, Booking status (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/resource-management/booking-status"
+  - "Maister, D. (2004), The Anatomy of a Consulting Firm, capítulo 2 de The Advice Business (Pearson), adaptado de Managing the Professional Service Firm (1997), leído en la página del autor (sección «Leverage Structure»): https://davidmaister.com/articles/4/2/index.html"
+  - "SFIA Foundation, SFIA 9, skill «Workforce planning» (WFPL), notas de guía, leída en el sitio: https://sfia-online.org/en/sfia-9/skills/workforce-planning"
   - "Servicios-profesionales-y-proyectos/.investigacion/asignacion-y-horas.md (sección 1.2)"
+  - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-asignacion-y-horas.md"
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 1)"
 aliases: [demanda de recursos, resource demand, plan de recursos, resource plan, pronóstico de recursos, resource forecast, capacity planning, banco, bench, personas sin asignar, subcontratar]
 creado: 2026-11-27
@@ -48,6 +51,12 @@ La separación entre las dos primeras viene de la práctica de los sistemas: una
 
 Un pronóstico así es un número con mucha incertidumbre. Cómo se expresa como rango y por qué el plan propio sale optimista está en [pronóstico](../../Gestion-de-proyectos/Planificacion/pronostico.md).
 
+## De los proyectos a las personas por nivel
+
+Maister hace la cuenta para una consultora con un proyecto «típico» que pide el 50 % del tiempo de un socio, el 100 % de uno de nivel medio y el tiempo completo de tres junior. Si la firma se propone que los socios facturen el 75 % de su tiempo y los junior el 90 %, y tiene cuatro socios, sale que cabe el equivalente de tres socios de tiempo completo, o sea seis proyectos; esos seis proyectos piden el equivalente de seis personas de nivel medio y de 18 junior de tiempo completo, que a esas tasas son 8 y 20 personas. La proporción queda en un socio por cada dos de nivel medio y cada cinco junior. Es un ejemplo numérico del autor, no una medición.
+
+Dos cosas sirven para esta nota. La demanda se pasa de proyectos a personas por nivel, no por nombre. Y el desajuste de la mezcla es un costo en las dos direcciones: si el trabajo que entra pide más junior y menos socios de los que hay, «higher-priced people will end up performing lower-value tasks» y los socios quedan subutilizados; si pide más seniors, falta gente calificada y hay riesgo de calidad. La cuenta de Maister es de una consultora con una escalera de socios, medios y junior; una firma sin esa pirámide tiene que adaptarla.
+
 ## La capacidad de cada persona
 
 La capacidad es lo que cada persona puede trabajar en proyectos por semana. Como criterio de esta base, se calcula como su jornada menos las ausencias conocidas y menos el tiempo que la firma reserva para otras cosas (vender, administrar, formarse). El plan de recursos de APQC la cruza con la demanda en 5.2.2.3 «Match resource demand with capacity, skills, and capabilities» y la vigila en 5.2.2.6 «Monitor and manage resource capacity and availability».
@@ -58,5 +67,7 @@ Llenarla al 100 % es un error que la base ya explica dos veces: alarga los plazo
 
 Si sobra gente, la firma tiene personas sin proyecto, lo que en inglés se llama el banco (*bench*). APQC no usa el término; 5.2.2.6 lo cubre sin nombrarlo. Si falta, hay tres salidas: contratar, que es de [contratar](../../Liderazgo-y-direccion/Gestion-de-personas/contratar.md); subcontratar a otra firma o a un independiente, que APQC prevé en 5.2.2.4 «Collaborate with suppliers and partners to supplement skills and capabilities»; o, como criterio de esta base, mover la fecha de un proyecto, que es una decisión de [portafolio](../../Gestion-de-proyectos/Gobierno-y-cierre/portafolio.md). APQC también pide identificar los recursos críticos y la capacidad de los proveedores (5.2.2.5).
 
+SFIA, el marco público de habilidades, tiene una habilidad «Workforce planning» (planificación de la dotación) y dice en sus notas que mira toda la organización y es «more strategic than tactical resource allocation to projects». Entre sus actividades están evaluar el estado actual, analizar datos de la organización «over extended time periods to discover multi-year trends» y elaborar planes para cerrar las brechas con acciones como la contratación externa, el desarrollo interno, la recapacitación y «sourcing external partners», o sea subcontratar. Es la misma lista de salidas de arriba, ahora con una fuente que no es el marco de procesos, pero no dice cuándo conviene cada una.
+
 > [!NOTE]
-> Sin fuente todavía: cuándo conviene contratar y cuándo subcontratar, cuánto banco es sano, qué se hace con las personas sin proyecto, y con cuánta anticipación se mira la demanda. Los libros de práctica de firmas de servicios (Maister, Løwendahl) no se leyeron para esta nota.
+> Sin fuente todavía: cuándo conviene contratar y cuándo subcontratar, cuánto banco es sano, qué se hace con las personas sin proyecto, y con cuánta anticipación se mira la demanda (SFIA habla de tendencias de varios años para el plan de la dotación de toda la organización, no del horizonte del pronóstico de una firma de servicios). De Maister se leyó solo un capítulo sobre la mezcla de niveles; su libro y el de Løwendahl no se leyeron. Se buscó también en resúmenes de la literatura académica sin dar con nada que midiera el banco o el horizonte en firmas de servicios.

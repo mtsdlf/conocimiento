@@ -5,7 +5,9 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "FAR 52.232-7, Payments under Time-and-Materials and Labor-Hour Contracts, (a)(4) (la cita leída en la página): https://www.acquisition.gov/far/52.232-7"
-  - "FAR 31.201-1, Composition of total cost (según resumen): https://www.acquisition.gov/far/31.201-1"
+  - "FAR 31.201-1, Composition of total cost, párrafo (a) (leído en la página): https://www.acquisition.gov/far/31.201-1"
+  - "FAR 31.203, Indirect costs (grupos de costos indirectos y base de reparto; leído en la página): https://www.acquisition.gov/far/31.203"
+  - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-rentabilidad-y-fundamentos.md"
   - "Wikipedia, Contribution margin (según resumen): https://en.wikipedia.org/wiki/Contribution_margin"
   - "ERPNext, Timesheet y Project costing (costo y tarifa como campos separados; margen bruto del proyecto), según resumen: https://docs.frappe.io/erpnext/user/manual/en/timesheet"
   - "ERPNext, Project Profitability: https://docs.frappe.io/erpnext/user/manual/en/project-profitability"
@@ -29,13 +31,15 @@ Contablemente, cada proyecto es una orden: se costea como el trabajo de una impr
 
 Cada hora imputada lleva dos valores: lo que le cuesta a la firma y lo que se le cobra al cliente. Un sistema abierto los guarda como campos distintos, uno «the actual cost of work done» y otro la tarifa a la que se factura, y multiplica cada uno por las horas. El porqué de esa separación está en el [registro de horas](../Registro-de-horas/registro-de-horas.md); acá importa que el margen sale de la diferencia.
 
-La norma de compras del gobierno de Estados Unidos dice de qué está hecha una tarifa horaria en sus contratos por tiempo y materiales: «The hourly rates shall include wages, indirect costs, general and administrative expense, and profit» (FAR 52.232-7, párrafo (a)(4)). Es decir, salarios, costos indirectos, gastos generales y de administración, y ganancia. Otra cláusula de la misma norma define el costo total de un contrato como la suma de los costos directos e indirectos que se le pueden asignar (FAR 31.201-1, según resumen). Las dos son reglas de un tipo de contrato público de un solo país, y es la única fuente leída sobre dinero en esta nota.
+La norma de compras del gobierno de Estados Unidos dice de qué está hecha una tarifa horaria en sus contratos por tiempo y materiales: «The hourly rates shall include wages, indirect costs, general and administrative expense, and profit» (FAR 52.232-7, párrafo (a)(4)). Es decir, salarios, costos indirectos, gastos generales y de administración, y ganancia. Otra cláusula de la misma norma define el costo total de un contrato como «the sum of the direct and indirect costs allocable to the contract, incurred or to be incurred», más el costo del dinero que se le pueda asignar y menos los créditos asignables (FAR 31.201-1, párrafo (a)). Las dos son reglas de un tipo de contrato público de un solo país, y es la única fuente leída sobre dinero en esta nota.
 
 Leída al revés, que es lectura de esta base, la cláusula separa la tarifa en dos partes: un costo cargado (salarios más indirectos más gastos generales y de administración) y una ganancia. El costo de la hora que interesa para el margen es la primera parte.
 
 ## Cómo se calcula el costo cargado
 
-> [!NOTE] Sin fuente todavía: la fórmula del costo de la hora cargado, qué entra en el numerador y sobre qué horas se divide. Lo que sigue es práctica común sin fuente leída y criterio de esta base.
+> [!NOTE] Sin fuente todavía: la fórmula del costo de la hora cargado, qué entra en el numerador y sobre qué horas se divide. Lo que sigue es práctica común y criterio de esta base. Se buscó en un libro de texto abierto de contabilidad de gestión (sus páginas no abrieron) y en la norma de compras de Estados Unidos, que sí aporta lo que sigue y nada más.
+
+La norma pide que los costos indirectos se junten en «logical cost groupings», que cada grupo se reparta con una base común a lo que sirve, y que una vez aceptada la base no se la «fragment» quitándole elementos (FAR 31.203, párrafos (c) y (d)). Es decir, exige un criterio de reparto consistente, no un denominador en particular: no dice si las horas son pagadas, de capacidad o facturables.
 
 La cuenta usual tiene un numerador y un denominador, y en los dos hay una decisión:
 

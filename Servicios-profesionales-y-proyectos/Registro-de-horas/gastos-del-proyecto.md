@@ -7,13 +7,14 @@ fuentes:
   - "Microsoft Learn, Project Operations, Set up cost and sales rates for expenses (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/pricing-costing/set-up-cost-sales-rates-expenses"
   - "Microsoft Learn, Project Operations, Sales price resolution (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/pricing-costing/sales-price-resolution-sales"
   - "Microsoft Learn, Project Operations, Manage contract values for project-based sales (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/sales/manage-contract-values-project-based-sales"
-  - "FAR 31.201-2 Determining allowability (según resumen): https://www.acquisition.gov/far/31.201-2"
-  - "FAR 31.205-26 Material costs (según resumen): https://www.acquisition.gov/far/31.205-26"
-  - "FAR 52.232-7 Payments under Time-and-Materials and Labor-Hour Contracts (según resumen): https://www.acquisition.gov/far/52.232-7"
+  - "FAR 31.201-2 Determining allowability, leída entera en el texto oficial: https://www.acquisition.gov/far/31.201-2"
+  - "FAR 31.205-26 Material costs, leída entera en el texto oficial (FAC 2026-01): https://www.acquisition.gov/far/31.205-26"
+  - "FAR 52.232-7 Payments under Time-and-Materials and Labor-Hour Contracts, cláusula de nov. 2021, leída entera en el texto oficial: https://www.acquisition.gov/far/52.232-7"
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 9.6.2.3 y 9.6.2.4 (reembolsos y anticipos)"
   - "Servicios-profesionales-y-proyectos/.investigacion/asignacion-y-horas.md (sección 2.4)"
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 4.7)"
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (sección 3.1)"
+  - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-asignacion-y-horas.md"
 aliases: [gastos del proyecto, gastos reembolsables, reimbursable expenses, project expenses, gastos refacturables, recargo, markup, refacturar gastos, rebilling]
 creado: 2026-11-27
 revisado:
@@ -35,7 +36,7 @@ APQC solo tiene los reembolsos a empleados, en finanzas (9.6.2.3 «Approve reimb
 
 En el sistema de gestión de servicios leído, un gasto entra a la factura solo si el contrato lo prevé: cada línea del contrato dice qué clases de transacción incluye (tiempo, gasto, material, honorario), y los gastos solo se facturan si la línea los incluye y están marcados como cobrables.
 
-Para decidir si un gasto se puede trasladar, el caso más exigente documentado es el de los contratos públicos de los Estados Unidos. Según el resumen de la FAR 31.201-2, un costo es admisible solo si es razonable, imputable a ese contrato, conforme a los términos del contrato, a los límites de la norma y a los estándares de costos aplicables (CAS) o, si no hay, a los principios contables generalmente aceptados, y el contratista tiene que guardar respaldo «adequate to demonstrate that costs claimed have been incurred»; si no, el funcionario puede rechazarlo. Es una norma de un tipo de contrato, no una regla para firmas privadas, pero sirve de lista de preguntas: ¿es razonable?, ¿es de este proyecto?, ¿lo permite el contrato?, ¿hay comprobante?
+Para decidir si un gasto se puede trasladar, el caso más exigente documentado es el de los contratos públicos de los Estados Unidos. Según la FAR 31.201-2, un costo es admisible solo si cumple todo esto: es razonable, es imputable a ese contrato, respeta los estándares de la junta de costos (CAS) si corresponden o, si no, los principios contables generalmente aceptados, respeta los términos del contrato y respeta los límites de la propia subparte. El contratista tiene que llevar los registros, con su documentación de respaldo, «adequate to demonstrate that costs claimed have been incurred, are allocable to the contract, and comply with applicable cost principles», y el funcionario «may disallow all or part of a claimed cost that is inadequately supported». Es una norma de un tipo de contrato, no una regla para firmas privadas, pero sirve de lista de preguntas: ¿es razonable?, ¿es de este proyecto?, ¿lo permite el contrato?, ¿hay comprobante?
 
 ## A costo, con recargo o por tarifa
 
@@ -49,10 +50,10 @@ Un sistema documenta tres formas de poner el precio de venta de una categoría d
 
 En ese sistema, en la estimación los métodos a costo y con recargo dan cero por defecto, porque solo se aplican al gasto real; y si falta la línea de precio de una categoría, el precio de venta es cero.
 
-El contrato público estadounidense va al otro extremo con los materiales: según el resumen de la FAR 52.232-7 (una sola fuente, leída por resumen), «the Government will not pay profit or fee to the prime Contractor on materials», salvo las excepciones de la FAR 31.205-26. Y según el resumen de esa sección, al costo de los materiales se le restan los descuentos, reintegros y bonificaciones que la firma obtuvo: se traslada el costo neto.
+El contrato público estadounidense va al otro extremo con los materiales: según la FAR 52.232-7, «the Government will not pay profit or fee to the prime Contractor on materials», salvo lo que dicen los párrafos (e) y (f) de la FAR 31.205-26 (que son las transferencias entre divisiones de un mismo grupo y los productos comerciales de catálogo). La cláusula define «materiales» de manera amplia: incluye los materiales directos, los subcontratos de insumos y servicios incidentales sin categoría laboral en el contrato, otros costos directos (como los viajes) y los costos indirectos que correspondan; quien presta el servicio puede sumar costos indirectos y otros costos directos asignables solo si están claramente excluidos de la tarifa horaria y los asigna según sus prácticas contables, y no se aplican costos indirectos a los subcontratos pagados a tarifa horaria. Es decir: sin ganancia sobre los materiales, aunque sí pueden sumarse los costos indirectos asignables. Además, la FAR 31.205-26(b) manda ajustar el costo de los materiales por los descuentos comerciales, reintegros, bonificaciones, descuentos por pago al contado y créditos por desechos y devoluciones: se traslada el costo neto. Los materiales se reembolsan si la firma ya los pagó o suele pagarlos dentro de los 30 días de presentar el comprobante.
 
 > [!IMPORTANT]
-> Es plata y hay una sola fuente de cada lado: el recargo está documentado por un sistema de gestión y la prohibición del recargo por una norma de contratos públicos de los Estados Unidos. No se leyó ninguna fuente sobre cuánto recargan las firmas privadas ni sobre las reglas de los colegios profesionales; la opinión formal de la asociación de abogados estadounidense sobre cargos de gastos al cliente no se pudo abrir. Lo que se cobra lo fija el contrato con cada cliente.
+> Es plata y hay una sola fuente de cada lado: el recargo está documentado por un sistema de gestión y la prohibición del recargo por una norma de contratos públicos de los Estados Unidos (ahora leída entera, pero es una sola norma de un tipo de contrato). No se leyó ninguna fuente sobre cuánto recargan las firmas privadas ni sobre las reglas de los colegios profesionales: la opinión formal 93-379 de la asociación de abogados estadounidense sobre cargos de gastos al cliente devolvió acceso denegado (403) en dos rondas de búsqueda y no se pudo abrir ni por otra copia. Lo que se cobra lo fija el contrato con cada cliente.
 
 Qué factura y qué impuesto lleva un gasto refacturado en la Argentina está en [Servicios profesionales en la Argentina](../servicios-profesionales-en-argentina.md), y lo impositivo recurrente, en el tema Impuestos, que todavía no está escrito.
 
