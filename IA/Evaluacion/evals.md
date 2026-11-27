@@ -1,8 +1,8 @@
 ---
 resumen: >-
-  La evaluación de un sistema con un modelo mide, sobre un conjunto de casos que imita el uso real,
-  qué proporción de las salidas cumple los criterios del producto; reemplaza a la prueba de
-  resultado exacto cuando la misma entrada puede dar salidas distintas.
+  Los evals de un sistema con un modelo son un conjunto de casos que imita el uso real y mide qué
+  proporción de las salidas cumple los criterios del producto; reemplazan a la prueba de resultado
+  exacto cuando la misma entrada puede dar salidas distintas.
 estado: vigente
 estabilidad: semi
 fuentes:
@@ -22,16 +22,18 @@ creado: 2026-11-27
 revisado: 2026-11-27
 ---
 
-# Evaluación
+# Evals
 
-La evaluación de un sistema con un modelo mide, sobre un conjunto de casos que imita el uso real,
-qué proporción de las salidas cumple los criterios del producto; reemplaza a la prueba de resultado
+Los evals de un sistema con un modelo son un conjunto de casos que imita el uso real y mide qué
+proporción de las salidas cumple los criterios del producto; reemplazan a la prueba de resultado
 exacto cuando la misma entrada puede dar salidas distintas.
 
-Cada caso de ese conjunto se llama, en la jerga, un *eval*. La evaluación es la pieza central del
-[bucle de evaluación y observabilidad](evaluacion.md): recibe del
-[análisis de errores](analisis-de-errores.md) qué medir, corre sobre las trazas que guarda la
-[observabilidad](../Produccion/observabilidad-de-modelos.md) y decide si una mejora se queda.
+Cada caso de ese conjunto se llama, en la jerga, un *eval*. Los evals son la pieza central del
+[bucle de la evaluación](evaluacion.md): reciben del
+[análisis de errores](analisis-de-errores.md) qué medir, corren sobre las trazas que guarda la
+[observabilidad](../Produccion/observabilidad-de-modelos.md) y deciden si una mejora se queda. Cada
+caso se califica con código, con una [métrica](metricas-de-evaluacion.md), con un
+[juez](ia-como-juez.md) o con una persona.
 
 ## Por qué la prueba unitaria no alcanza
 
@@ -57,7 +59,7 @@ Husain (2024) ordena la evaluación en tres niveles, de lo barato a lo caro:
 |---|---|---|
 | 1. Pruebas unitarias | Aserciones de código sobre la salida | En cada cambio |
 | 2. Evaluación humana y por modelo | Personas o un [juez](ia-como-juez.md) califican trazas registradas | Sobre las trazas ya guardadas |
-| 3. A/B testing | Dos versiones frente a usuarios reales | Cuando el producto ya es maduro |
+| 3. A/B testing | Dos versiones frente a usuarios reales, como en un [experimento A/B](../../Producto/Medicion/experimento-ab.md) | Cuando el producto ya es maduro |
 
 El nivel 1 conserva lo que la prueba unitaria sí puede fijar. Husain recomienda etiquetas binarias
 (bueno o malo) antes que puntajes en escala. Y advierte: "You can never stop
@@ -72,8 +74,8 @@ la salida final; escribir una guía de evaluación con rúbrica; y elegir métod
 componente es, por inferencia de esta base, lo que permite saber si una falla viene de la recuperación de
 [contexto](../Contexto/contexto-y-rag.md), del prompt o del modelo.
 
-Según los resúmenes de capítulo del repositorio del libro, Huyen sostiene que los benchmarks públicos
-sirven para descartar modelos malos pero no para elegir el mejor para una aplicación, y que para eso
+Según los resúmenes de capítulo del repositorio del libro, Huyen sostiene que los
+[benchmarks públicos](benchmarks-y-eleccion-de-modelo.md) sirven para descartar modelos malos pero no para elegir el mejor para una aplicación, y que para eso
 se arma un "private leaderboard" propio. También que ningún método es perfecto y que se combinan:
 comparación exacta, juez, personas.
 

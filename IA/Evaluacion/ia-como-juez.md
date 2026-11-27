@@ -26,9 +26,10 @@ IA como juez es usar un modelo de lenguaje para calificar o comparar las salidas
 que la evaluación escale sin personas; es otro sistema con sesgos propios, que se valida contra
 juicio humano antes de confiar en él.
 
-Es un método de la [evaluación](evals.md), no una alternativa a ella: Huyen lo trata como una
-sección del capítulo de metodología de evaluación, junto a la comparación exacta y la evaluación
-comparativa. Los criterios que aplica el juez salen del [análisis de errores](analisis-de-errores.md).
+Es una forma de calificar [evals](evals.md), no una alternativa a ellos: Huyen lo trata como una
+sección del capítulo de metodología de evaluación, junto a la evaluación exacta (ver
+[métricas de evaluación](metricas-de-evaluacion.md)) y la evaluación comparativa (ver
+[benchmarks y elección de modelo](benchmarks-y-eleccion-de-modelo.md)). Los criterios que aplica el juez salen del [análisis de errores](analisis-de-errores.md).
 
 ## Puntaje directo o comparación por pares
 

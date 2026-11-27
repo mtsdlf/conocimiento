@@ -42,9 +42,10 @@ muy distintos.
 Muchos prompts empiezan igual: las instrucciones del sistema, las definiciones de herramientas, un
 documento largo, la conversación hasta acá. El prompt cache guarda el cómputo de ese comienzo y lo
 reutiliza en la consulta siguiente, que se cobra más barata y tarda menos. Huyen advierte que, como
-pasa con el KV cache, "prompt cache size can be quite large and require significant
+pasa con la [KV cache](../Modelos/transformer.md), "prompt cache size can be quite large and require significant
 engineering effort". Hoy lo ofrecen los proveedores, y a la aplicación le toca aprovecharlo. Del
-lado del servidor, el libro trata la optimización del servicio de inferencia en el cap. 9 (p. 440).
+lado del servidor, el libro trata la optimización del servicio de inferencia en el cap. 9 (p. 440),
+y su versión autoalojada (*prefix caching*) se cuenta en [Inferencia](inferencia.md).
 
 Los tres grandes proveedores lo ofrecen con diseños distintos: uno exige marcar qué se cachea,
 otros lo activan solos; algunos cobran la escritura en la cache además de descontar la lectura. Lo

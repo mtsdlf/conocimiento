@@ -21,7 +21,7 @@ fuentes:
   - https://www.anthropic.com/engineering/harness-design-long-running-apps
   - https://claude.com/resources/articles/harnessing-claudes-intelligence
   - https://www.latent.space/p/ainews-is-harness-engineering-real
-aliases: [agent, agente de IA, AI agent, agentic system, sistema agéntico, harness, harness engineering, MCP, Model Context Protocol]
+aliases: [agent, agente de IA, AI agent, agentic system, sistema agéntico, harness, harness engineering]
 creado: 2026-11-27
 revisado: 2026-11-27
 ---
@@ -51,6 +51,7 @@ ejecutarlo: Huyen propone validarlo con heurísticas o con un modelo juez, y adm
 acción que el agente puede repetir necesita una
 [clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md), y una que toca varios
 sistemas, una [saga](../../Arquitectura/Sistemas-distribuidos/saga.md) (lectura de esta base).
+El plan se desarrolla en [Planificación](planificacion.md).
 
 ## Las tres fallas de un agente
 
@@ -66,7 +67,8 @@ Cada una se mide aparte en la [evaluación](../Evaluacion/evals.md), y las
 trazas de la [observabilidad](../Produccion/observabilidad-de-modelos.md) son la materia
 prima del [análisis de errores](../Evaluacion/analisis-de-errores.md) que las
 encuentra. Según su resumen, Kapoor et al. (2024) advierten sobre la tercera: medir solo
-precisión lleva a agentes "needlessly complex and expensive".
+precisión lleva a agentes "needlessly complex and expensive". Se desarrolla en
+[Fallas de agentes](fallas-de-agentes.md).
 
 ## Workflow o agente: los cinco patrones de Anthropic
 
@@ -90,7 +92,8 @@ rindió 90,2% más que un agente solo en su evaluación interna, con unas 15 vec
 chat, y que no sirve cuando hay mucho contexto compartido o muchas dependencias, como en la mayoría
 del código. Cognition ("Don't Build Multi-Agents", 2025) pide compartir contexto y trazas completas,
 porque "actions carry implicit decisions, and conflicting decisions carry bad results". Los dos son
-informes de proveedores, no estudios independientes.
+informes de proveedores, no estudios independientes. Se desarrolla en
+[Patrones de flujo](patrones-de-flujo.md).
 
 ## Frameworks de agentes: llamar directo primero
 
@@ -111,7 +114,8 @@ servidores (herramientas, recursos y prompts). Los mensajes viajan en JSON-RPC 2
 Su advertencia de seguridad importa para la arquitectura: las herramientas "represent
 arbitrary code execution", y sus descripciones no son confiables salvo que el servidor lo sea.
 Conectar un servidor MCP pide el cuidado de una acción de escritura (lectura de esta base). La especificación se versiona por fecha, y la vigente se lee en
-[la fuente](https://modelcontextprotocol.io/specification/latest).
+[la fuente](https://modelcontextprotocol.io/specification/latest). Se desarrolla en
+[Uso de herramientas](uso-de-herramientas.md) y en [Versiones de MCP](versiones-de-mcp.md).
 
 ## Harness engineering (2026): el sistema alrededor del modelo
 
@@ -165,5 +169,5 @@ Para harness engineering, el caso de [OpenAI](https://openai.com/index/harness-e
 conviene fijarse en qué piezas del harness se pueden quitar.
 
 > [!NOTE]
-> Sin fuente todavía: memoria de agentes (Huyen, cap. 6, p. 300) y una medición independiente y
-> reproducible del efecto del harness.
+> Sin fuente todavía: una medición independiente y reproducible del efecto del harness. La memoria
+> de agentes (Huyen, cap. 6, p. 300) se trata en [Memoria](../Contexto/memoria.md).

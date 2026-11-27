@@ -24,14 +24,14 @@ en texto libre, agruparlas en categorías y contarlas, para saber qué evaluar a
 métricas.
 
 Es el puente del [bucle](evaluacion.md) entre la
-[observabilidad](../Produccion/observabilidad-de-modelos.md), que guarda las trazas, y la [evaluación](evals.md), que
-necesita saber qué medir. El índice de Huyen no lo separa como sección; el campo lo trata aparte
+[observabilidad](../Produccion/observabilidad-de-modelos.md), que guarda las trazas, y los [evals](evals.md), que
+necesitan saber qué medir. El índice de Huyen no lo separa como sección; el campo lo trata aparte
 por las notas de Husain y el trabajo de Shankar.
 
 ## El paso que más se saltea
 
 Husain (2025) llama a saltearse el análisis de errores "el error más común" al construir productos
-con modelos. Husain critica partir de métricas genéricas como "hallucination" o "toxicity". En esta lectura, el síntoma es un tablero que no
+con modelos. Husain critica partir de [métricas genéricas](metricas-de-evaluacion.md) como "hallucination" o "toxicity". En esta lectura, el síntoma es un tablero que no
 se mueve cuando el producto mejora o empeora, porque nadie miró qué fallaba. Huyen dice lo mismo
 desde su experiencia: "staring at data for just 15 minutes usually gives me some insight that could
 save me hours of headaches", y dice que es útil inspeccionar a mano datos de producción a diario.
@@ -48,7 +48,7 @@ El proceso de Husain va de abajo hacia arriba:
 En el caso de un cliente propio que relata, tres problemas
 causaban más del 60 % de las fallas, y el manejo de fechas pasó de 33 % a 95 % de acierto después de
 atacarlo. Es la cifra de un solo cliente del autor, sin verificación independiente. Las categorías
-contadas son las que después se vuelven evals y, si hace falta escala, criterios para un
+contadas son las que después se vuelven [evals](evals.md) y, si hace falta escala, criterios para un
 [juez](ia-como-juez.md).
 
 ## Criteria drift: los criterios cambian al mirar

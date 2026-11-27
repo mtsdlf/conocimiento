@@ -30,7 +30,7 @@ para todas es la misma: "a component can be skipped if your system works well wi
 decide si una capa entra es la [evaluación](../Evaluacion/evals.md), y el
 criterio general está en [Empezar simple](../../Arquitectura/Decisiones/empezar-simple.md).
 
-Cómo funciona el modelo por dentro está en [LLM](../Modelos/modelo-base.md). Esta vertical trata lo que lo
+Cómo funciona el modelo por dentro está en [Modelo base](../Modelos/modelo-base.md). Esta nota trata lo que lo
 rodea: el modelo queda detrás de una interfaz propia, como pide
 [aislar lo no determinista](../../Arquitectura/Modularidad/aislar-lo-no-determinista.md), y las capas se montan
 sobre esa interfaz.
@@ -43,7 +43,7 @@ según ella, un sistema típico las va necesitando, no el orden en que una consu
 | Paso | Capa | Qué problema resuelve | Dónde se explica |
 |---|---|---|---|
 | 1 | Contexto | El modelo no tiene la información para responder | [Contexto y RAG](../Contexto/contexto-y-rag.md) |
-| 2 | Guardrails | La entrada o la salida pueden ser dañinas o incorrectas | [Guardrails de LLM](guardrails.md) |
+| 2 | Guardrails | La entrada o la salida pueden ser dañinas o incorrectas | [Guardrails](guardrails.md) |
 | 3 | Router y gateway | Cada consulta pide un modelo distinto; el acceso, las claves y el costo hay que centralizarlos | [Router y gateway de modelos](router-y-gateway-de-modelos.md) |
 | 4 | Cache | Consultas repetidas cuestan y tardan | [Cache de modelos](cache-de-modelos.md) |
 | 5 | Lógica compleja y acciones de escritura | La tarea pide varios pasos, herramientas o cambiar algo afuera | [Agente](../Agentes/agente.md) |
@@ -68,11 +68,11 @@ flowchart LR
   OR[Orquestación] -.->|encadena| CX
 ```
 
-Los guardrails se tratan como capa pero no se duplican acá: viven en [IA](guardrails.md)
-porque dependen de cómo el modelo emite, y del lado de la arquitectura alcanza con saber que van en
+Los guardrails se tratan como capa pero no se duplican acá: tienen su nota,
+[Guardrails](guardrails.md), y para ubicar la capa alcanza con saber que van en
 dos puntos, antes del modelo (lo que entra, incluida información privada) y después (lo que sale).
-La observabilidad se mide con el mismo bucle que la evaluación y vive en
-[Evaluación y observabilidad](../Evaluacion/evaluacion.md), junto
+La observabilidad tiene la suya, [Observabilidad](observabilidad-de-modelos.md), y alimenta el mismo
+bucle que la [evaluación](../Evaluacion/evaluacion.md), junto
 con el [feedback de usuario](../Evaluacion/feedback-de-usuario.md), que Huyen pone
 al final del mismo capítulo.
 
@@ -92,10 +92,10 @@ desconfía de los frameworks pesados de agentes, y con qué evidencia, se cuenta
 
 ## Lo que no es una capa: adaptar el modelo
 
-Elegir entre mejorar el prompt, sumar RAG o hacer fine-tuning es una decisión de desarrollo, no
+Elegir entre mejorar el prompt, sumar RAG o hacer finetuning es una decisión de desarrollo, no
 una capa de runtime: se toma antes de servir, cambia qué modelo o qué prompt hay detrás del
 gateway, y no agrega un paso al flujo de la consulta. Por eso tiene su propia nota,
-[Prompt, RAG o fine-tuning](../prompt-rag-o-finetuning.md), que comparte RAG con
+[Prompt, RAG o finetuning](../prompt-rag-o-finetuning.md), que comparte RAG con
 [Contexto y RAG](../Contexto/contexto-y-rag.md): esa explica el mecanismo; la de la decisión, cuándo subir de
 escalón.
 
@@ -111,7 +111,7 @@ cada capa mueve dos números que con un modelo pasan al frente, el
 [costo y la latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md), y que la calidad deja de ser binaria.
 Esta lectura cruzada es de esta base: Huyen no la hace.
 
-## Qué hay adentro de esta vertical
+## Dónde sigue cada capa
 
 - [Contexto y RAG](../Contexto/contexto-y-rag.md): cómo se le da al modelo la información que no tiene: la
   escalera de recuperación, contexto largo frente a RAG y context engineering.
@@ -121,12 +121,14 @@ Esta lectura cruzada es de esta base: Huyen no la hace.
   qué la semántica puede devolver una respuesta equivocada.
 - [Agente](../Agentes/agente.md): el modelo que planifica y usa herramientas: sus fallas, workflows frente a
   agentes, MCP y harness engineering.
-- [Prompt, RAG o fine-tuning](../prompt-rag-o-finetuning.md): la decisión de cómo adaptar el modelo,
-  y por qué el fine-tuning mueve el problema al dato.
+- [Guardrails](guardrails.md): los controles sobre la entrada, la salida y las acciones.
+- [Observabilidad](observabilidad-de-modelos.md): métricas, logs y trazas de cada consulta.
+- [Prompt, RAG o finetuning](../prompt-rag-o-finetuning.md): la decisión de cómo adaptar el modelo,
+  y por qué el finetuning mueve el problema al dato.
 - [Plataformas de IA](plataformas-de-ia.md): ficha fechada con ejemplos de gateways, vector
-  stores, orquestación y evals, el prompt cache por proveedor y el estado del fine-tuning.
+  stores, orquestación y evals, el prompt cache por proveedor y el estado del finetuning.
 
-El recurso canónico de toda la vertical es la parte de arquitectura del cap. 10 de *AI Engineering* (pp. 449-473), o su
+El recurso canónico de todas las capas es la parte de arquitectura del cap. 10 de *AI Engineering* (pp. 449-473), o su
 versión libre, el post ["Building A Generative AI Platform"](https://huyenchip.com/2024/07/25/genai-platform.html).
 Conviene leerlo por el diagrama que crece paso a paso y fijarse en qué problema justifica cada
 pieza: es lo que permite decidir que una no hace falta.

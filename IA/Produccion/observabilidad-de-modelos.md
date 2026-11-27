@@ -31,7 +31,7 @@ tamaño, y más cuanto más complejo es el sistema.
 ## Log everything: métricas, logs y trazas
 
 Huyen nombra tres pilares: logs, trazas y métricas. Las métricas resumen: del modelo ("accuracy, toxicity, and hallucination
-rate") y del sistema (throughput, memoria, uso de hardware y disponibilidad; el costo y la latencia se ven en
+rate") y del sistema ([throughput](inferencia.md), memoria, uso de hardware y disponibilidad; el costo y la latencia se ven en
 [costo y latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md)). Los logs guardan cada evento. Las
 trazas unen los eventos de una misma consulta.
 

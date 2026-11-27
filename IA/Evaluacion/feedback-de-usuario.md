@@ -23,9 +23,9 @@ El feedback de usuario es la señal que deja el uso real sobre si una salida sir
 pulgar, una calificación) o inferida de lo que la persona hace (corregir, regenerar, abandonar);
 vuelve al sistema como traza y como etiqueta para la evaluación.
 
-Cierra el [bucle de evaluación y observabilidad](evaluacion.md): entra por la
-[observabilidad](../Produccion/observabilidad-de-modelos.md) como un evento más de la traza y llega a la
-[evaluación](evals.md) como juicio de alguien que usó el producto. Huyen le dedica la última
+Cierra el [bucle de la evaluación](evaluacion.md): entra por la
+[observabilidad](../Produccion/observabilidad-de-modelos.md) como un evento más de la traza y llega a los
+[evals](evals.md) como juicio de alguien que usó el producto. Huyen le dedica la última
 parte del capítulo 10, con tres secciones según el índice: "Extracting Conversational Feedback",
 "Feedback Design" y "Feedback Limitations". Su post de arquitectura lo deja afuera a propósito: "I
 won't go into specifics or cover user feedback, drift detection, and debugging."

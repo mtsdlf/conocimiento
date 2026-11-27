@@ -38,7 +38,8 @@ ni datos de producción de terceros. Un router también se equivoca (lectura de 
 modelo barato, la respuesta empeora sin que nadie lo note, y eso solo lo ve la
 [evaluación](../Evaluacion/evals.md) separada por ruta.
 
-Elegir un modelo para cada ruta es el mismo problema que elegir el modelo de toda la aplicación, que
+Elegir un modelo para cada ruta es el mismo problema que elegir el modelo de toda la aplicación
+([Benchmarks y elección de modelo](../Evaluacion/benchmarks-y-eleccion-de-modelo.md)), que
 Huyen trata en el cap. 4 ("Model Selection", p. 179, con la decisión entre construir y comprar).
 
 ## El gateway: un solo lugar para llamar a los modelos
