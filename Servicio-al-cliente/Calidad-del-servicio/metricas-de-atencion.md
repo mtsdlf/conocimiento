@@ -55,9 +55,9 @@ Los mismos autores muestran el límite de cualquier definición: «22% of repeat
 
 El tiempo medio de atención es lo que dura, en promedio, atender un contacto: la conversación más el trabajo posterior de quien atiende (según un resumen). No es el tiempo de resolución, que se mide en el calendario del caso desde que entra hasta que se resuelve. En el modelo de colas de Gans, Koole y Mandelbaum (2003) es un parámetro del servicio: con el volumen y la meta de espera, da cuántas personas hacen falta. Ese uso está en el [dimensionamiento del equipo](../Canales-de-atencion/dimensionamiento-del-equipo.md).
 
-Usarlo como meta de calidad es otra cosa. Dixon y otros encontraron que los centros rara vez miden el esfuerzo del cliente a lo largo de varios contactos, «generally because they're overly focused on managing call time», y que la causa más grande de esfuerzo es tener que volver a llamar. Quien atiende con un reloj encima corta antes y el cliente vuelve.
+Usarlo como meta de calidad es otra cosa. Dixon y otros encontraron que los centros rara vez miden el esfuerzo del cliente a lo largo de varios contactos, «generally because they're overly focused on managing call time», y que la causa más grande de esfuerzo es tener que volver a llamar. Quien atiende con un reloj encima corta antes y el cliente vuelve (lectura de esta base).
 
-La evidencia en la otra dirección es débil. Gallup estudió un banco de México en el primer trimestre de 2015: los grupos con el 30% superior en puntajes de servicio tuvieron un tiempo medio por llamada 2,4% menor y una resolución al primer contacto 6,1% mayor. Es una correlación en una sola organización, sin tamaño de muestra ni definiciones publicadas. Dos estudios que cita un medio del rubro, con resultados opuestos, no se leyeron.
+La evidencia en la otra dirección es débil. Gallup estudió un banco de México en el primer trimestre de 2015: los grupos con el 30% superior en puntajes de servicio tuvieron un tiempo medio por llamada 2,4% menor y una resolución al primer contacto 6,1% mayor. Es una correlación en una sola organización, sin tamaño de muestra ni definiciones publicadas. Dos estudios que cita un medio del rubro no se leyeron: según su resumen, uno halla que los agentes con llamadas más largas resuelven más en un solo contacto, y otro no halla efecto de la duración sobre la satisfacción.
 
 La lectura de esta base es que el tiempo medio de atención sirve para dimensionar y para encontrar casos que tardan por una falla del proceso, y no como meta para quien atiende. El mito y sus cifras están en [mitos del servicio al cliente](../Fundamentos/mitos-del-servicio-al-cliente.md).
 
@@ -67,18 +67,18 @@ La lectura de esta base es que el tiempo medio de atención sirve para dimension
 
 **Pendientes.** Son los casos abiertos sin resolver en un momento dado, y su antigüedad dice cuánto llevan esperando. En el desarrollo de software «backlog» nombra otra cosa, la lista de trabajo por hacer, y el [glosario](../Fundamentos/glosario-de-servicio-al-cliente.md) lo separa.
 
-**Abandono.** Es el contacto que se corta en la cola antes de que lo atiendan. Gans y otros advierten que la velocidad media de respuesta no incluye a los que abandonaron, así que se mira junto con el porcentaje de abandono: un centro puede bajar la espera promedio porque los que esperaban mucho se fueron. Como referencia, describen centros de buen desempeño con abandono de «1%–2%» y ocupación de entre 90% y 95%.
+**Abandono.** Es el contacto que se corta en la cola antes de que lo atiendan. Gans y otros advierten que la velocidad media de respuesta no incluye a los que abandonaron, así que se mira junto con el porcentaje de abandono: un centro puede bajar la espera promedio porque los que esperaban mucho se fueron. Como referencia, describen un centro de alto rendimiento con abandono de «1%–2%» y utilización promedio de entre 90% y 95%.
 
 > [!NOTE] Sin fuente todavía: una definición con método de la reapertura, de los pendientes y su antigüedad, y del abandono (por ejemplo, desde cuántos segundos de espera se cuenta).
 
 ## Cómo se mejora el tablero empeorando la atención
 
-Cada métrica tiene una forma de subir sin que el cliente esté mejor, y una métrica hermana que la delata. Las formas de inflarlas son lectura de esta base, salvo donde se cita; las fuentes solo proponen los controles marcados.
+Cada métrica tiene una forma de subir sin que el cliente esté mejor, y una métrica hermana que la delata. Las formas de inflarlas son lectura de esta base, salvo donde se cita; las fuentes solo proponen los controles que llevan atribución.
 
 | Métrica | Cómo se mejora sin mejorar | Con qué se controla |
 |---|---|---|
 | Resolución al primer contacto (interna) | Acortar la ventana, cerrar rápido y dejar que el cliente vuelva por otro canal como caso nuevo | Reaperturas y satisfacción (una mesa de ayuda); la definición multicanal |
-| Tiempo medio de atención | Cortar la conversación, transferir o pedir que vuelva a escribir | Resolución al primer contacto y rellamadas (Dixon y otros) |
+| Tiempo medio de atención | Cortar la conversación, transferir o pedir que vuelva a escribir | Resolución al primer contacto y rellamadas (lectura de esta base a partir de Dixon y otros) |
 | Reaperturas | Abrir un caso nuevo en lugar de reabrir el que se cerró | Contactos del mismo cliente por el mismo motivo dentro de la ventana |
 | Pendientes | Cerrar sin resolver o pasar casos a «esperando al cliente» | Reaperturas y antigüedad de los casos en espera |
 | Abandono y velocidad de respuesta | Mirar una sin la otra | Las dos juntas (Gans y otros) |

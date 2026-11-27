@@ -27,7 +27,7 @@ revisado:
 Lo que la Argentina le exige a la atención después de la venta: trato digno y un horario mínimo, la garantía legal y la constancia de cada reparación, la baja y el arrepentimiento con un código de trámite en 24 horas, los plazos de respuesta de bancos, telecomunicaciones y servicios públicos, y adónde va el cliente si la empresa no contesta.
 
 > [!WARNING]
-> Es dinero y ley, y cambia seguido: la nota es una copia al 27 de noviembre de 2026. Casi todas las afirmaciones descansan en una sola fuente primaria, el texto de la norma, y se dice en cada caso. No reemplaza a un abogado. Antes de actuar, leé la norma en la fuente viva.
+> Es dinero y ley, y cambia seguido: la nota es una copia al 27 de noviembre de 2026. Casi todas las afirmaciones descansan en una sola fuente primaria, el texto de la norma, y se dice en cada caso. No reemplaza a un abogado. Antes de actuar, leé la norma en la fuente viva. Los párrafos «Lo que tiene que tener el sistema» son lectura de esta base: traducen la norma a campos y alertas, y ninguna fuente los pide así.
 
 Hay una sola ley de base, la Ley 24.240 de Defensa del Consumidor. Lo que cambió desde 2023 fue la reglamentación (Disposiciones 954/2025, 3/2026 y 890/2025, Decreto 55/2025), no la ley: el texto completo del DNU 70/2023 no menciona la Ley 24.240. El texto de InfoLEG conserva referencias al Código Civil derogado (arts. 11 y 18), que se leen junto con el Código Civil y Comercial.
 
@@ -35,7 +35,7 @@ La nota se ordena por la situación del cliente, porque cada situación cruza la
 
 ## Cómo hay que atender a cualquier cliente
 
-El trato digno es una obligación con sanción. El art. 8 bis de la Ley 24.240 dice: «Los proveedores deberán garantizar condiciones de atención y trato digno y equitativo a los consumidores y usuarios. Deberán abstenerse de desplegar conductas que coloquen a los consumidores en situaciones vergonzantes, vejatorias o intimidatorias.» En los reclamos extrajudiciales de deudas, no pueden usar «cualquier medio que le otorgue la apariencia de reclamo judicial». La multa civil del art. 52 bis se extiende «solidariamente a quien actuare en nombre del proveedor»; según la lectura de esta base, eso alcanza a un centro de contacto tercerizado.
+El trato digno es una obligación con sanción. El art. 8 bis de la Ley 24.240 dice: «Los proveedores deberán garantizar condiciones de atención y trato digno y equitativo a los consumidores y usuarios. Deberán abstenerse de desplegar conductas que coloquen a los consumidores en situaciones vergonzantes, vejatorias o intimidatorias.» En los reclamos extrajudiciales de deudas, no pueden usar «cualquier medio que le otorgue la apariencia de reclamo judicial». Las sanciones del art. 8 bis incluyen la multa civil del art. 52 bis y se extienden «solidariamente a quien actuare en nombre del proveedor»; según la lectura de esta base, eso alcanza a un centro de contacto tercerizado.
 
 El horario de [los canales de atención](Canales-de-atencion/canales-de-atencion.md) tiene un piso. El art. 6 de la Disposición 954/2025 dice que el horario de consultas y reclamos «no puede ser inferior a los días y horarios en que operen comercialmente». Si la atención es solo telefónica o electrónica, «no podrá ser inferior a OCHO (8) horas por día, en días hábiles, de lunes a viernes». La web tiene que informar «el número telefónico, canal alternativo de comunicación o sitio electrónico» para reclamar, y «el área responsable del servicio de atención al cliente». Una sola fuente primaria.
 
@@ -49,9 +49,9 @@ No se encontró una norma nacional general que fije tiempos máximos de espera n
 
 La garantía legal rige aunque el vendedor no dé una propia. El art. 11 cubre las cosas muebles no consumibles «por los defectos o vicios de cualquier índole, aunque hayan sido ostensibles o manifiestos al tiempo del contrato». El plazo es de «TRES (3) meses cuando se trate de bienes muebles usados y por SEIS (6) meses en los demás casos a partir de la entrega», y las partes pueden pactar uno mayor. Si hay que llevar la cosa al taller, el flete y el seguro van por cuenta del responsable de la garantía.
 
-Responden todos los de la cadena. El art. 13 hace «solidariamente responsables» a productores, importadores, distribuidores y vendedores. Para quien atiende, eso significa que el vendedor no puede mandar al cliente al fabricante y cerrar el [caso](Caso/caso.md): lectura de esta base sobre ese artículo. El certificado de garantía va por escrito y en castellano, con el vendedor, el fabricante o importador, la cosa, sus condiciones de uso, el plazo, y las condiciones y el lugar de reparación (art. 14).
+Responden todos los de la cadena. El art. 13 hace «solidariamente responsables» a productores, importadores, distribuidores y vendedores. Para quien atiende, eso significa que el vendedor no puede mandar al cliente al fabricante y cerrar el [caso](Caso/caso.md): lectura de esta base sobre ese artículo. El certificado de garantía va por escrito y en idioma nacional, con el vendedor, el fabricante o importador, la cosa, sus condiciones de uso, el plazo, y las condiciones y el lugar de reparación (art. 14).
 
-Lo que tiene que tener el sistema para un caso de [garantía y reparación](Caso/garantia-y-reparacion.md): la fecha de entrega del producto (de ahí corre el plazo), si es nuevo o usado, el plazo pactado si es mayor al legal, y el número de serie o la identificación de la cosa.
+Lo que tiene que tener el sistema para un caso de [garantía y reparación](Caso/garantia-y-reparacion.md): la fecha de entrega del producto (de ahí corre el plazo), si es nuevo o usado, el plazo pactado si es mayor al legal, y la identificación de la cosa (el art. 14 la pide en el certificado).
 
 ## La reparación: constancia, plazo que se estira y lo que pasa si falla
 

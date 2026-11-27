@@ -25,7 +25,7 @@ Es la parte de los [niveles de servicio](niveles-de-servicio.md) que se ocupa de
 
 ## El vencimiento y las alertas
 
-Un caso vence cuando el reloj llega al tiempo prometido sin que ocurra el evento esperado: la primera respuesta o la resolución. El sistema conoce el vencimiento desde que el caso entra, porque lo calcula con el acuerdo, la prioridad y el calendario. Por eso puede avisar antes y no solo después.
+Un caso vence cuando el reloj llega al tiempo prometido sin que ocurra el evento esperado: la primera respuesta o la resolución. Según la lectura de esta base, el sistema conoce el vencimiento desde que el caso entra, porque lo calcula con el acuerdo, la prioridad y el calendario. Por eso puede avisar antes y no solo después.
 
 La lectura de esta base es que el sistema tiene que registrar cada vencimiento como un hecho del caso, con la fecha, el objetivo que se venció (respuesta o resolución) y por cuánto, y no solo como un porcentaje del mes. El porcentaje sale de esos hechos; al revés no se puede reconstruir qué casos fallaron.
 

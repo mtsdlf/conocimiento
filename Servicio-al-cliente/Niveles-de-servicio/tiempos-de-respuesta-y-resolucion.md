@@ -16,13 +16,13 @@ revisado:
 
 El acuerdo de nivel de servicio fija, para cada prioridad, dos tiempos: el de primera respuesta y el de resolución. El reloj que los mide corre solo dentro del horario de atención, se detiene los feriados y se pausa mientras el caso espera algo del cliente.
 
-Es el componente operativo de los [niveles de servicio](niveles-de-servicio.md): el acuerdo dice qué se promete y esta nota, cómo se cuenta. La prioridad que elige los tiempos viene de la [clasificación y prioridad](../Caso/clasificacion-y-prioridad.md) del caso, y los estados que pausan el reloj son estados del [caso](../Caso/caso.md). Cuando el reloj llega a cero, empieza el [incumplimiento del acuerdo](incumplimiento-del-acuerdo.md).
+Es el componente operativo de los [niveles de servicio](niveles-de-servicio.md): el acuerdo dice qué se promete y el reloj, cómo se cuenta. La prioridad que elige los tiempos viene de la [clasificación y prioridad](../Caso/clasificacion-y-prioridad.md) del caso, y los estados que pausan el reloj son estados del [caso](../Caso/caso.md). Cuando el reloj llega a cero, empieza el [incumplimiento del acuerdo](incumplimiento-del-acuerdo.md).
 
 ## Primera respuesta y resolución
 
 Los dos tiempos miden cosas distintas. La **primera respuesta** es cuánto tarda el cliente en saber que alguien tomó su caso. La **resolución** es cuánto tarda en tener lo que pidió. Un caso puede cumplir la primera y vencer la segunda.
 
-En un sistema abierto, cada prioridad del acuerdo tiene su tiempo para responder y su tiempo para resolver, en horas y minutos, y una de ellas es la prioridad por defecto: «Default Priority selected in Priorities table that will be applied in the Service Level Agreement». Otro sistema, independiente del primero, arma el acuerdo como una etapa objetivo del caso y un tiempo asignado para llegar a ella. Las dos formas son equivalentes: el objetivo es un evento del caso (la primera respuesta, el paso a resuelto) y un plazo para que ocurra.
+En un sistema abierto, cada prioridad del acuerdo tiene su tiempo para responder y su tiempo para resolver, en horas y minutos, y una de ellas es la prioridad por defecto: «Default Priority selected in Priorities table that will be applied in the Service Level Agreement». Otro sistema, independiente del primero, arma el acuerdo como una etapa objetivo del caso y un tiempo asignado para llegar a ella. Las dos formas son equivalentes, en la lectura de esta base: el objetivo es un evento del caso (la primera respuesta, el paso a resuelto) y un plazo para que ocurra.
 
 Qué evento para el reloj de resolución depende de cómo el [caso](../Caso/caso.md) separe resuelto de cerrado. Si para al pasar a resuelto, mide el trabajo de quien atiende; si para al cierre, suma el tiempo que el cliente tarda en confirmar. La elección se escribe en el acuerdo (lectura de esta base).
 

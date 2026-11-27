@@ -53,7 +53,7 @@ Ninguna de las páginas leídas describe cómo se guarda el vínculo entre el ca
 
 ## El caso sigue abierto mientras dura la visita
 
-En esta base, el caso no se cierra al derivar: el cliente sigue esperando la solución y el reloj del [acuerdo de nivel de servicio](../Niveles-de-servicio/niveles-de-servicio.md) sigue siendo del caso. Cómo se pausa o no ese reloj mientras se espera al técnico está en [tiempos de respuesta y resolución](../Niveles-de-servicio/tiempos-de-respuesta-y-resolucion.md). Cuando la visita termina, su resultado vuelve al caso y el caso pasa a resuelto. Un sistema abierto cierra el reclamo de garantía con el estado «The repairs have been done», lo que sugiere el mismo circuito.
+En esta base, el caso no se cierra al derivar: el cliente sigue esperando la solución y el reloj del [acuerdo de nivel de servicio](../Niveles-de-servicio/niveles-de-servicio.md) sigue siendo del caso. Cómo se pausa o no ese reloj mientras se espera al técnico está en [tiempos de respuesta y resolución](../Niveles-de-servicio/tiempos-de-respuesta-y-resolucion.md). Cuando la visita termina, su resultado vuelve al caso y el caso pasa a resuelto. Un sistema abierto cierra el reclamo de garantía con el estado «The repairs have been done», lo que sugiere, como lectura de esta base, el mismo circuito.
 
 ## Dónde falla la derivación
 

@@ -37,14 +37,14 @@ Es uno de los dos lados de los [canales de atención](canales-de-atencion.md): e
 
 ## KCS: la base de conocimiento se escribe mientras se atiende
 
-KCS (Knowledge-Centered Service) es la metodología del Consortium for Service Innovation para mantener la base de conocimiento. Su idea central es que el artículo no lo escribe un equipo aparte después, sino quien atiende el caso, en el momento. La guía v6 lo organiza en dos ciclos.
+KCS (Knowledge-Centered Service) es la metodología del Consortium for Service Innovation para mantener la base de conocimiento. Su idea central: quien atiende el caso escribe el artículo en el momento, y no un equipo aparte después. La guía v6 lo organiza en dos ciclos.
 
 El **ciclo de resolución** (Solve Loop) es, en sus palabras, «the request-response workflow». La página leída lo arma con cuatro prácticas:
 
 1. **Capturar**: «capture in the workflow: while responding to the request, we capture the requestor's context».
 2. **Estructurar**: «consistent structure, simple templates, and a crisp style improves KCS article readability».
-3. **Reusar**: buscar un artículo que exista antes de escribir otro.
-4. **Mejorar**: «reuse is review: as responders, we take responsibility for the articles we interact with».
+3. **Reusar**: buscar un artículo que exista antes de escribir otro (lectura de esta base; el informe solo transcribe una cita para reusar y mejorar).
+4. **Mejorar**: corregir el artículo que se usó. La cita que el informe da para esta práctica y la anterior es «reuse is review: as responders, we take responsibility for the articles we interact with».
 
 Otra lectura del corpus v6 pone el orden reusar, mejorar, capturar, estructurar; la página leída numera como arriba. No se leyó la guía completa para resolverlo.
 
@@ -54,7 +54,7 @@ Para un sistema, KCS pide tres cosas: buscar en la base desde la pantalla del ca
 
 ## Cómo se mide el autoservicio
 
-El Consortium dice que medir el éxito del autoservicio es difícil y que «there is no one measure that indicates success». Define el **éxito del autoservicio** como el porcentaje de veces que el cliente encuentra lo que necesita, y la **evasión de costo** (el contacto que ya no llega a una persona) como un subconjunto de ese éxito. Propone medir con más de un indicador. La TSIA, una asociación del sector, propone definiciones estándar de éxito, desvío implícito y desvío explícito; se conocen por su resumen.
+Según un resumen de su página, el Consortium dice que medir el éxito del autoservicio es difícil y que «there is no one measure that indicates success». Define el **éxito del autoservicio** como el porcentaje de veces que el cliente encuentra lo que necesita, y la **evasión de costo** (el contacto que ya no llega a una persona) como un subconjunto de ese éxito. Propone medir con más de un indicador. La TSIA, una asociación del sector, propone definiciones estándar de éxito, desvío implícito y desvío explícito; se conocen por su resumen.
 
 ## Por qué el desvío se cuenta mal
 

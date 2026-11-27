@@ -28,7 +28,7 @@ No hay una historia académica del servicio al cliente que se haya podido verifi
 
 | Momento | Qué cambió | Fuente |
 |---|---|---|
-| Antes del teléfono | El cliente vuelve al mostrador o escribe; el comercio anota el reclamo en un cuaderno | — |
+| Antes del teléfono | El cliente vuelve al mostrador o escribe; el comercio anota el reclamo en un cuaderno | Sin fuente: lectura de esta base |
 | Años cincuenta | Aparecen los primeros distribuidores automáticos de llamadas, que reparten las llamadas entrantes entre las personas que atienden | Wikipedia: «1950s: ACDs first appeared» |
 | 1965 | Primeros agentes en fila con una centralita, en Birmingham (Reino Unido) | Un resumen del buscador; no verificado |
 | Principios de los setenta | La New York Telephone usa una central modificada para repartir las llamadas del servicio de información entre cientos de operadoras, «one of the first large and separate ACDs» | Wikipedia |
@@ -47,7 +47,7 @@ La atención a los usuarios de sistemas se volvió disciplina propia a fines de 
 
 ## Del reclamo como costo al reclamo como dato
 
-En 1990, Hart, Heskett y Sasser publicaron en la *Harvard Business Review* «The Profitable Art of Service Recovery», que trató la respuesta al reclamo como algo que se gestiona y que rinde. Lo que la recuperación significa para el cliente está en [recuperación del servicio](../../Marketing/Servicio-y-relacion/recuperacion-del-servicio.md). La norma ISO 10002, cuya edición vigente es la tercera, de 2018, convirtió el tratamiento del reclamo en un proceso con pasos; la ISO 18295-1, de 2017, hizo lo mismo con el centro de contacto. Cómo se tramita el reclamo está en [reclamo](../Caso/reclamo.md).
+En 1990, Hart, Heskett y Sasser publicaron en la *Harvard Business Review* «The Profitable Art of Service Recovery», sobre la recuperación del servicio como disciplina de gestión (solo se leyó la ficha del artículo). Lo que la recuperación significa para el cliente está en [recuperación del servicio](../../Marketing/Servicio-y-relacion/recuperacion-del-servicio.md). La norma ISO 10002, cuya edición vigente es la tercera, de 2018 (según la ficha de ISO, leída por resumen), convirtió el tratamiento del reclamo en un proceso con pasos; la ISO 18295-1, de 2017, hizo lo mismo con el centro de contacto. Cómo se tramita el reclamo está en [reclamo](../Caso/reclamo.md).
 
 ## El autoservicio y los bots
 

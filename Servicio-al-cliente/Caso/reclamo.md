@@ -20,7 +20,7 @@ revisado:
 
 Un reclamo es un caso en el que el cliente expresa insatisfacción con un producto, un servicio o la propia atención y espera una respuesta. La norma ISO 10002 lo trata como un proceso con nueve pasos, de la comunicación y la recepción al cierre, y pide analizar los reclamos para eliminar sus causas.
 
-Para el campo, el reclamo es un tipo de [caso](caso.md), y la [clasificación](clasificacion-y-prioridad.md) lo separa de la consulta y del pedido. Tiene nota propia porque una norma lo trata como proceso, y porque APQC le da un proceso aparte (6.2.3 «Manage customer complaints»: recibir, enrutar, resolver, responder y analizar) del de problemas, pedidos y consultas (6.2.2). En castellano, «queja» y «reclamo» se usan sin distinción.
+Para el campo, el reclamo es un tipo de [caso](caso.md), y la [clasificación](clasificacion-y-prioridad.md) lo separa de la consulta y del pedido. Tiene nota propia porque una norma lo trata como proceso, y porque APQC le da un proceso aparte (6.2.3 «Manage customer complaints»: recibir, enrutar, resolver, responder y analizar) del de problemas, pedidos y consultas (6.2.2). En castellano, «queja» y «reclamo» se usan sin distinción (lectura de esta base; ninguna fuente leída la hace).
 
 Qué espera quien reclama y cómo juzga la respuesta (lo que recibe, cómo se hizo y cómo lo trataron) está en [recuperación del servicio](../../Marketing/Servicio-y-relacion/recuperacion-del-servicio.md), dentro de Marketing. Esta nota trata cómo se tramita.
 
@@ -43,7 +43,7 @@ La norma es compatible con ISO 9001 y 9004 y puede usarse sola. Tiene tres herma
 La cláusula 4 fija catorce principios (4.2 a 4.15): compromiso, capacidad, transparencia, accesibilidad, capacidad de respuesta, objetividad, cargos, integridad de la información, confidencialidad, enfoque centrado en el cliente, responsabilidad, mejora, competencia y oportunidad. Dos se traducen directo en reglas de un sistema:
 
 - **Cargos**: «Access to the complaints-handling process should be free of charge to the complainant». Reclamar no puede costar.
-- **Oportunidad**: el reclamo se trata «as expeditiously as feasible given the nature of the complaint and of the process used». La norma no fija plazos; los plazos del acuerdo están en [niveles de servicio](../Niveles-de-servicio/niveles-de-servicio.md).
+- **Oportunidad**: el reclamo se trata «as expeditiously as feasible given the nature of the complaint and of the process used». El principio no fija plazos (el texto de los pasos no se leyó); los plazos del acuerdo están en [niveles de servicio](../Niveles-de-servicio/niveles-de-servicio.md).
 
 ## Los nueve pasos
 

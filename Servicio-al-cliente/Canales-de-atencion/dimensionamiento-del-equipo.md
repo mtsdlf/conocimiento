@@ -20,7 +20,7 @@ revisado:
 
 El dimensionamiento del equipo calcula cuántas personas tienen que estar atendiendo en cada franja para cumplir un objetivo de espera, a partir del volumen de contactos y del tiempo medio de atención. En los canales sincrónicos se resuelve con modelos de colas (Erlang C y Erlang A); en el correo el objetivo es de horas y la cuenta cambia.
 
-Es la parte cuantitativa de los [canales de atención](canales-de-atencion.md): el canal fija qué espera tiene sentido, y el dimensionamiento traduce esa espera a personas. El [autoservicio](autoservicio.md) cambia el volumen que entra; las [métricas de atención](../Calidad-del-servicio/metricas-de-atencion.md) dicen después si el resultado fue bueno. La copia consultada del marco de APQC lo pone en 6.2.1 «Plan and manage customer service work force», con tres pasos: pronosticar el volumen, armar los turnos y seguir la utilización.
+Es la parte cuantitativa de los [canales de atención](canales-de-atencion.md): el canal fija qué espera tiene sentido, y el dimensionamiento traduce esa espera a personas. El [autoservicio](autoservicio.md) cambia el volumen que entra; las [métricas de atención](../Calidad-del-servicio/metricas-de-atencion.md) dicen después si el resultado fue bueno. La copia consultada del marco de APQC lo pone en 6.2.1 «Plan and manage customer service work force», con cuatro pasos: pronosticar el volumen, armar los turnos, seguir la utilización y monitorear la calidad de las interacciones.
 
 ## El nivel de servicio del centro de contacto
 
@@ -47,13 +47,13 @@ La carga es el piso, nunca la dotación. En el modelo de Gans y sus coautores ha
 
 ## Erlang C: el modelo de base
 
-Erlang C es el modelo de base del dimensionamiento. Supone llegadas al azar (Poisson), tiempos de atención exponenciales, atención por orden de llegada, y no tiene en cuenta el abandono, la línea ocupada ni los reintentos. Sus fórmulas, según la sección 3 de Gans y sus coautores:
+Erlang C es el modelo de base del dimensionamiento. No tiene en cuenta el bloqueo (la línea ocupada) ni el abandono. Los supuestos habituales del modelo (llegadas al azar, tiempos de atención exponenciales, atención por orden de llegada) no figuran en el informe. Sus fórmulas, según la sección 3 de Gans y sus coautores:
 
 - Ocupación: ρ = R / N.
 - Velocidad media de respuesta: ASA = P(Wait > 0) · E[Wait | Wait > 0].
 - Nivel de servicio: TSF = P(Wait ≤ T) = 1 − C(N, R) · e^(−Nμ(1−ρ)T), donde C(N, R) es la probabilidad de esperar, μ = 1/E[S] y T es el objetivo en segundos.
 
-Como se sigue de las fórmulas, para dimensionar se prueba con N = R + 1, R + 2… hasta que el TSF cumple el objetivo. Los supuestos no se cumplen al pie de la letra y el modelo se usa igual. Supone además un solo tipo de cliente y personas que atienden todas igual.
+Como se sigue de las fórmulas, para dimensionar se prueba con N = R + 1, R + 2… hasta que el TSF cumple el objetivo. Que los supuestos no se cumplan al pie de la letra y el modelo se use igual es lectura de esta base. Supone además un solo tipo de cliente y personas que atienden todas igual.
 
 ## Erlang A: los clientes que cuelgan
 
@@ -67,13 +67,13 @@ La consecuencia, como lectura de esta base sobre la fórmula, es que el personal
 
 ## Ocupación y utilización
 
-El paper distingue dos medidas que se confunden. La **ocupación** es el tiempo atendiendo sobre el tiempo atendiendo más el disponible. La **utilización** del turno (en los reportes que describe, «On Prod %») es la fracción del tiempo conectado en que la persona está atendiendo o disponible. Las pausas y el trabajo fuera del teléfono bajan la utilización diaria a niveles sostenibles, según el paper. El dimensionamiento calcula personas atendiendo; los turnos tienen que agregar lo que se va en pausas, capacitación y ausencias.
+El paper distingue dos medidas que se confunden. La **ocupación** es el tiempo atendiendo sobre el tiempo atendiendo más el disponible. La **utilización** del turno (en los reportes que describe, «On Prod %») es la fracción del tiempo conectado en que la persona está atendiendo o disponible. Las pausas y el trabajo fuera del teléfono bajan la utilización diaria a niveles sostenibles, según el paper. El dimensionamiento calcula personas atendiendo; los turnos tienen que agregar lo que se va en pausas, capacitación y ausencias (lectura de esta base).
 
 > [!NOTE] Sin fuente todavía: valores de referencia de ocupación sostenible para una persona que atiende.
 
 ## El caso del correo y los canales asincrónicos
 
-En el correo y en muchas mesas de ayuda el contacto se puede guardar y contestar después, y el cálculo cambia de régimen. Gans y sus coautores lo llaman régimen impulsado por la eficiencia: la utilización tiende al 100% y casi todos los contactos esperan. Dan como ejemplos «e-mail response and many help-desk operations». El objetivo pasa de segundos a horas, y lo que se dimensiona es cuántas personas hacen falta para que la cola de pendientes no crezca de un día a otro.
+En el correo y en muchas mesas de ayuda el contacto se puede guardar y contestar después, y el cálculo cambia de régimen. Gans y sus coautores lo llaman régimen impulsado por la eficiencia: la utilización tiende al 100% y casi todos los contactos esperan. Dan como ejemplos «e-mail response and many help-desk operations». El objetivo pasa de segundos a horas, y lo que se dimensiona, según la lectura de esta base, es cuántas personas hacen falta para que la cola de pendientes no crezca de un día a otro.
 
 La herramienta que vincula la cola con la espera es la ley de Little: el largo medio de la cola es el volumen por la espera media, E[Queue-Length] = λ·E[Wait]. Para el correo, la ley dice que con 200 correos por día y una espera media de 1 día hay unos 200 correos pendientes en la cola (ejemplo de esta base).
 

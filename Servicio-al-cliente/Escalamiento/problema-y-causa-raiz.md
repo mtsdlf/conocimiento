@@ -28,7 +28,7 @@ Vive en [Escalamiento](escalamiento.md) porque nace cuando quien atiende ve que 
 
 ## Caso y problema son dos registros distintos
 
-En el vocabulario de ITIL, el caso se llama incidente y el problema es otra cosa: «A cause, or potential cause, of one or more incidents», según la definición de ITIL 4 que citan segundas fuentes (el glosario oficial es pago y no se leyó). En castellano común «problema» es cualquier dificultad; en este tema es la causa. El [glosario](../Fundamentos/glosario-de-servicio-al-cliente.md) marca la diferencia.
+ITIL no habla de caso sino de incidente (una noción más estrecha, según resúmenes de su glosario), y el problema es otra cosa: «A cause, or potential cause, of one or more incidents», según la definición de ITIL 4 que citan segundas fuentes (el glosario oficial es pago y no se leyó). En castellano común «problema» es cualquier dificultad; en este tema es la causa. El [glosario](../Fundamentos/glosario-de-servicio-al-cliente.md) marca la diferencia.
 
 La consecuencia para un sistema, como lectura de esta base: el problema es un registro aparte, vinculado a muchos casos. El caso se puede cerrar con una solución provisoria mientras el problema sigue abierto, y cuando el problema se arregla, los casos vinculados tienen una respuesta de fondo.
 
@@ -36,10 +36,10 @@ La consecuencia para un sistema, como lectura de esta base: el problema es un re
 
 La gestión de problemas de ITIL agrega dos términos, que se leyeron en fuentes comerciales y resúmenes y no en el texto de ITIL:
 
-- **Solución provisoria** (workaround): reduce el impacto de un problema sin eliminar su causa raíz. Le permite al primer nivel resolver el caso del cliente mientras la causa sigue.
+- **Solución provisoria** (workaround): reduce el impacto de un problema sin eliminar su causa raíz. Según esta base, le permite al primer nivel resolver el caso del cliente mientras la causa sigue.
 - **Error conocido** (known error): un problema que ya se analizó. Si arreglar la causa no conviene económicamente, el problema queda como error conocido y la solución provisoria se aplica cada vez que vuelven los casos, según un proveedor de software de gestión de servicios.
 
-Los errores conocidos se registran en una base de errores conocidos (KEDB, por su sigla en inglés), que es lo que consulta el primer nivel para reconocer un caso ya visto. Según un resumen, ITIL 4 recuperó el control de problemas y el control de errores, que faltaban en ITIL v3 de 2011.
+Los errores conocidos se registran en una base de errores conocidos (KEDB, por su sigla en inglés), que, como lectura de esta base, el primer nivel consulta para reconocer un caso ya visto. Según un resumen, ITIL 4 recuperó el control de problemas y el control de errores, que faltaban en ITIL v3 de 2011.
 
 > [!IMPORTANT]
 > Las fuentes leídas definen el error conocido de dos formas que no coinciden. Un proveedor lo define como «a problem that has a documented root cause and a workaround»; otro, como «a problem that has been analyzed but not resolved», que es también la redacción que un glosario atribuye a ITIL 4. La primera exige causa y solución provisoria documentadas; la segunda, solo el análisis. No se pudo verificar contra el glosario oficial.
@@ -56,7 +56,7 @@ Cómo se analizan los reclamos junto con las encuestas y la escucha de conversac
 
 ## La mejor atención es no necesitarla
 
-Una escuela lleva la idea más lejos. Price y Jaffe, en *The Best Service Is No Service* (2008), tratan cada contacto como un dato de algo que falló antes y proponen bajar la demanda de atención atacando sus causas, según la sinopsis del editor; el libro no se leyó y sus cifras no se citan acá. Para esta escuela, el problema y la causa raíz no son un paso del escalamiento sino el objetivo de toda la atención. La posición y sus críticas están en [fundamentos](../Fundamentos/fundamentos-de-servicio-al-cliente.md).
+Una escuela lleva la idea más lejos. Price y Jaffe, en *The Best Service Is No Service* (2008), tratan cada contacto como un dato de algo que falló antes y proponen bajar la demanda de atención atacando sus causas, según la sinopsis del editor; el libro no se leyó y sus cifras no se citan acá. Para esta escuela, el problema y la causa raíz son el objetivo de toda la atención, y no un paso del escalamiento. La posición y sus críticas están en [fundamentos](../Fundamentos/fundamentos-de-servicio-al-cliente.md).
 
 ## Dónde falla
 

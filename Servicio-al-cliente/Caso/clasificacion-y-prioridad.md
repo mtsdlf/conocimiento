@@ -20,7 +20,7 @@ revisado:
 
 Clasificar un caso es decir qué es (su tipo y su categoría) y priorizarlo es decir cuánto apura, cruzando el impacto con la urgencia. De las dos decisiones salen a quién se asigna, qué tiempo promete el acuerdo de nivel de servicio y cuándo se escala.
 
-Son datos del [caso](caso.md) que se deciden al entrar y se pueden corregir después. En el campo, clasificar y escalar son una misma práctica: ITIL los pone juntos dentro de la gestión de incidentes, con el tipo, la prioridad, los niveles de soporte y los escalamientos (según resúmenes; las guías de ITIL son pagas y no se leyeron). La base los separa para que cada uno se lea solo, pero la prioridad no se entiende sin el [escalamiento](../Escalamiento/escalamiento.md) ni sin el reloj de [tiempos de respuesta y resolución](../Niveles-de-servicio/tiempos-de-respuesta-y-resolucion.md).
+Son datos del [caso](caso.md) que, como lectura de esta base, se deciden al entrar y se pueden corregir después. En el campo, clasificar y escalar son una misma práctica: ITIL los pone juntos dentro de la gestión de incidentes, con el tipo, la prioridad, los niveles de soporte y los escalamientos (según resúmenes; las guías de ITIL son pagas y no se leyeron). La base los separa para que cada uno se lea solo, pero la prioridad no se entiende sin el [escalamiento](../Escalamiento/escalamiento.md) ni sin el reloj de [tiempos de respuesta y resolución](../Niveles-de-servicio/tiempos-de-respuesta-y-resolucion.md).
 
 ## El tipo de caso: consulta, pedido, incidente o reclamo
 

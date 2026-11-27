@@ -38,7 +38,7 @@ La encuesta de la atención es transaccional: se dispara con un evento (el caso 
 
 ## CSAT: satisfecho con este caso
 
-El CSAT pregunta, en una escala corta, qué tan satisfecho quedó el cliente con la atención que recibió. Es la pregunta más directa sobre el caso y la que menos dice de lo que el cliente hará después.
+El CSAT pregunta, en una escala corta, qué tan satisfecho quedó el cliente con la atención que recibió. Es la pregunta más directa sobre el caso y, en la lectura de esta base, la que menos dice de lo que el cliente hará después.
 
 Dixon, Freeman y Toman (2010) midieron esa distancia: «Twenty percent of the "satisfied" customers in our study said they intended to leave the company in question; 28% of the "dissatisfied" customers intended to stay». Es intención declarada, no conducta. Los estudios que cruzan encuestas con lo que el cliente hizo después (la retención en telefonía de Johnson y otros, 2005; la participación en el gasto a lo largo del tiempo de Cooil y otros, 2007) se leyeron solo por sus resúmenes. Cooil y otros señalan que el trabajo anterior era casi todo transversal, es decir, de una sola foto.
 
@@ -48,15 +48,15 @@ Si el cliente se queda o se va se ve en los datos de [retención y churn](../../
 
 ## Esfuerzo del cliente: la evidencia a favor
 
-La pregunta de esfuerzo viene de Dixon, Freeman y Toman (2010), en Harvard Business Review. Con datos de más de 75.000 personas, sostienen que deleitar al cliente no construye lealtad y que bajarle el esfuerzo sí. El 84% dijo que sus expectativas no habían sido superadas, y un cliente tenía «four times more likely» de salir de una interacción de servicio desleal que leal. Propusieron el Customer Effort Score con una escala de 1 a 5, donde 5 es esfuerzo muy alto (p. 119).
+La pregunta de esfuerzo viene de Dixon, Freeman y Toman (2010), en Harvard Business Review. Con datos de más de 75.000 personas, sostienen que deleitar al cliente no construye lealtad y que bajarle el esfuerzo sí. El 84% dijo que sus expectativas no habían sido superadas, y los clientes tenían cuatro veces más probabilidades de salir de una interacción de servicio desleales que leales («four times more likely»). Propusieron el Customer Effort Score con una escala de 1 a 5, donde 5 es esfuerzo muy alto (p. 119).
 
-Para quien diseña la operación, el artículo dice dónde está el esfuerzo: tener que volver a llamar es su causa más grande (p. 120), y el 57% de las llamadas entrantes venía de clientes que antes habían pasado por el sitio web (p. 121). Por eso la pregunta de esfuerzo se lleva bien con las [métricas de atención](metricas-de-atencion.md) que miden rellamadas.
+Para quien diseña la operación, el artículo dice dónde está el esfuerzo: tener que volver a llamar es su causa más grande (p. 120), y el 57% de las llamadas entrantes venía de clientes que antes habían pasado por el sitio web (p. 121). La pregunta de esfuerzo combina bien, en la lectura de esta base, con las [métricas de atención](metricas-de-atencion.md) que miden rellamadas.
 
 ## Esfuerzo del cliente: la evidencia en contra
 
 > [!IMPORTANT]
 > La evidencia es débil de los dos lados.
-> - **A favor**, el estudio es de la misma consultora que vendía la métrica, sin revisión externa por pares. No se encontró una réplica académica, ni a favor ni en contra.
+> - **A favor**, el estudio es de la misma consultora que vendía la métrica, sin réplica revisada por pares. No se encontró una réplica académica, ni a favor ni en contra.
 > - **En contra**, Great Brook, una consultora con interés propio, objeta que el estudio mide lealtad intencionada y no conducta futura, que compara la pregunta de esfuerzo con otras preguntas de actitud de la misma encuesta, y que se limitó «intentionally» a transacciones de centros de servicio (p. 12 del libro de 2013), lo que puede inflar el peso del esfuerzo.
 > - Según resúmenes, la redacción de la pregunta cambió entre versiones, lo que impide comparar series; la pregunta solo se le puede hacer a quien contactó a la empresa, así que no dice nada del resto de los clientes; y en otros análisis el esfuerzo aparece como un factor entre varios y no como el predictor más fuerte.
 

@@ -24,7 +24,7 @@ Es un tipo de [caso](caso.md) que apunta a un producto y no solo a un cliente. A
 
 ## La autorización de devolución
 
-La autorización de devolución, que el campo llama RMA (return merchandise authorization, y en logística return material authorization), es según un proveedor de comercio electrónico «a business's formal approval for the repair, replacement, or refund of a product under warranty» (según el resumen del buscador). El esquema que describen tres proveedores, que en la práctica cuentan como una sola fuente, tiene cinco pasos:
+La autorización de devolución, que el campo llama RMA (return merchandise authorization, y en logística return material authorization), es según un proveedor de comercio electrónico «a business's formal approval for the repair, replacement, or refund of a product under warranty» (según el resumen del buscador). El esquema que describen tres proveedores, que en la práctica cuentan como una sola fuente, tiene cinco pasos, según los resúmenes:
 
 1. La empresa fija una política de devoluciones y garantía.
 2. El cliente pide la devolución.
@@ -32,11 +32,11 @@ La autorización de devolución, que el campo llama RMA (return merchandise auth
 4. El cliente envía el producto.
 5. La empresa lo inspecciona, y de la inspección sale el reembolso, el cambio, el reemplazo o el servicio de garantía.
 
-Fuera de garantía la autorización puede no aplicar, aunque el soporte puede ofrecer una reparación paga.
+Fuera de garantía la autorización puede no aplicar, aunque el soporte puede ofrecer una reparación.
 
 ## De qué está hecho el caso de garantía
 
-Un sistema abierto abre el reclamo de garantía con el cliente y el número de serie, y de la serie trae el artículo, su descripción y los datos de la garantía. Sus estados son abierto, en curso, cerrado («The repairs have been done») y cancelado («The Warranty Claim was invalid»). Si hace falta ir a la casa del cliente, desde el reclamo se crea una visita.
+Un sistema abierto abre el reclamo de garantía con el cliente y el número de serie, y de la serie trae el artículo, su descripción y los datos de la garantía. Sus estados son abierto, en curso, cerrado («The repairs have been done») y cancelado («The Warranty Claim was invalid»). Si hace falta una visita al cliente, desde el reclamo se crea una visita.
 
 Un sistema de un proveedor grande arma el caso de devolución por líneas. Cada línea es un producto defectuoso tomado de lo que el cliente tiene instalado, con un código de motivo y la resolución esperada. La garantía y el derecho del cliente se revisan línea por línea; el caso se acepta o se rechaza (si se rechaza, avisa y cierra), se propone una solución y, si hace falta, se crea una tarea para un especialista. Sus estados son borrador, en curso, resuelto y cerrado.
 
@@ -44,11 +44,13 @@ Como lectura de esta base sobre los dos, un sistema necesita en este caso el ví
 
 ## Las resoluciones que se disparan desde el caso
 
-Una mesa de ayuda abierta dispara desde el caso cinco resoluciones. El reembolso genera una nota de crédito y pide que la factura esté registrada. El cupón compensa sin devolver la plata. La devolución genera un movimiento inverso de mercadería, con la opción de cambio que genera una entrega nueva, y solo aparece si hay una entrega registrada. La reparación genera una orden de reparación que, si está en garantía, queda con precio cero. El servicio de campo genera una tarea en el domicilio.
+Una mesa de ayuda abierta dispara desde el caso cinco resoluciones. El reembolso genera una nota de crédito y pide que la factura esté registrada. El cupón es otra forma de resolver. La devolución genera un movimiento inverso de mercadería, con la opción de cambio que genera una entrega nueva, y solo aparece si hay una entrega registrada. La reparación genera una orden de reparación que, si está en garantía, queda con precio cero. El servicio de campo genera una tarea en el lugar del cliente.
 
 Cada resolución crea un documento en otro dominio, y el caso queda como el registro que los une. Esa división es lectura de esta base sobre dos sistemas.
 
 ## Dónde termina el caso y empieza el vecino
+
+El reparto es lectura de esta base sobre dos sistemas; ninguna fuente lo fija.
 
 | Paso | De quién es |
 |---|---|
@@ -59,7 +61,7 @@ Cada resolución crea un documento en otro dominio, y el caso queda como el regi
 | La reparación en el taller y la visita al domicilio | Activos y mantenimiento |
 | La falla repetida de un producto fabricado | Producción, a partir del [problema](../Escalamiento/problema-y-causa-raiz.md) |
 
-La visita al domicilio se decide acá y se pasa con la [derivación al técnico](../Escalamiento/derivacion-al-tecnico.md); el caso queda abierto hasta que vuelve el resultado. Si la devolución anula parte de una venta, el pedido de origen está en [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md).
+La visita al domicilio se decide acá y se pasa con la [derivación al técnico](../Escalamiento/derivacion-al-tecnico.md); el caso queda abierto hasta que vuelve el resultado (lectura de esta base). Si la devolución anula parte de una venta, el pedido de origen está en [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md).
 
 ## Cómo falla
 

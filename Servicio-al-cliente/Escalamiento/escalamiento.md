@@ -27,14 +27,14 @@ Dentro del [Servicio al cliente](../servicio-al-cliente.md), recibe del [Caso](.
 
 Ninguna de las divisiones del campo consultadas tiene al escalamiento como parte de primer nivel. ITIL lo trata como un paso dentro de la gestión de incidentes, según resúmenes de la práctica. La categoría de servicio al cliente de APQC (6.0 en una copia sin versión declarada) no tiene un nodo de escalamiento: el verbo más cercano es «Route», enrutar, dentro del tratamiento de reclamos (6.2.3.2). La ISO 10002 tampoco le da una cláusula, aunque trae un flujograma de escalamiento en su Anexo H. En la literatura de centros de contacto, Gans, Koole y Mandelbaum lo tratan como enrutamiento por habilidades (§5).
 
-Que sea una vertical en esta base es una decisión de la base y no del campo. Se justifica por el lector: quien construye una mesa de ayuda tiene que modelar quién es el dueño del caso en cada momento, a qué grupo pasa, por qué y contra qué reloj, y eso pesa lo mismo que el caso o el acuerdo.
+Que sea una vertical en esta base es una decisión de la base y no del campo. Se justifica por el lector: quien construye una mesa de ayuda tiene que modelar quién es el dueño del caso en cada momento, a qué grupo pasa, por qué y contra qué reloj.
 
 ## Escalamiento funcional y escalamiento jerárquico
 
 La palabra tiene dos sentidos, y un sistema los registra distinto:
 
-- **Funcional**: el caso pasa a un grupo con más conocimiento. El estándar de gestión de incidentes del gobierno de Ontario, que adopta ITIL, lo dice así: «the SDA assigns the incident to a group with more specialized skills. (This is known as functional escalation)». Es lo que organiza los [niveles de soporte](niveles-de-soporte.md).
-- **Jerárquico**: el caso sube a alguien con más autoridad, no con más conocimiento. Según un resumen de ITIL, «hierarchical escalation engages appropriate levels of management». Se escala así para autorizar una excepción, una compensación o un recurso que el equipo no tiene.
+- **Funcional**: el caso pasa a un grupo con más conocimiento. El estándar de gestión de incidentes del gobierno de Ontario, que adopta ITIL, lo dice así: «the SDA assigns the incident to a group with more specialized skills. (This is known as functional escalation)». La sigla SDA no se explica en el fragmento leído; por el contexto es quien atiende en la mesa de servicio (lectura de esta base). Es lo que organiza los [niveles de soporte](niveles-de-soporte.md).
+- **Jerárquico**: el caso sube a alguien con más autoridad, no con más conocimiento. Según un resumen de ITIL, «hierarchical escalation engages appropriate levels of management». Se escala así, como lectura de esta base, para autorizar una excepción, una compensación o un recurso que el equipo no tiene.
 
 Las dos definiciones salen de adoptantes y resúmenes de ITIL, leídos por citas del buscador; el texto de ITIL 4, que es pago, no se leyó. Valen como «según la práctica de ITIL».
 
@@ -61,7 +61,7 @@ El escalamiento jerárquico, en cambio, suele agregar una aprobación o un aviso
 
 La crítica más articulada viene de quien promueve una alternativa, el Consortium for Service Innovation. Describe el modelo por niveles como «static, linear, hierarchy-based model» y dice que los procesos lineales de escalamiento «treat every issue the same», que cada equipo optimiza su parte «almost always to the detriment of the customer» y que el resultado es «rework, inefficiency, and frustration». Es una fuente con interés: la alternativa que propone, el enjambre, es marca suya. La discusión con su evidencia está en [niveles de soporte](niveles-de-soporte.md#el-enjambre-como-alternativa).
 
-Falla también cuando nadie mira por qué se escala. Si el mismo tipo de caso sube una y otra vez, el escalamiento resuelve cada uno y deja la causa. Ese es el paso a [problema y causa raíz](problema-y-causa-raiz.md). Y falla cuando el caso sale del tema sin dueño: una visita del técnico que nadie sigue deja al cliente sin respuesta, como se ve en [derivación al técnico](derivacion-al-tecnico.md).
+Como lectura de esta base, falla también cuando nadie mira por qué se escala. Si el mismo tipo de caso sube una y otra vez, el escalamiento resuelve cada uno y deja la causa. Ese es el paso a [problema y causa raíz](problema-y-causa-raiz.md). Y falla cuando el caso sale del tema sin dueño: una visita del técnico que nadie sigue deja al cliente sin respuesta, como se ve en [derivación al técnico](derivacion-al-tecnico.md).
 
 ## Qué hay en el escalamiento
 

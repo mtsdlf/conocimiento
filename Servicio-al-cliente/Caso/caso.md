@@ -20,7 +20,7 @@ revisado:
 
 El caso es el registro de lo que un cliente pidió después de la venta (una consulta, un pedido, un incidente o un reclamo), con sus datos, sus estados y un dueño, desde que entra hasta que se cierra. Junta todos los contactos sobre un mismo asunto, aunque lleguen por canales distintos, y es lo que las demás partes de la atención escalan, cronometran y miden.
 
-Es el centro del [servicio al cliente](../servicio-al-cliente.md). Los [canales de atención](../Canales-de-atencion/canales-de-atencion.md) lo abren y lo actualizan; el [escalamiento](../Escalamiento/escalamiento.md) lo pasa a quien sabe o puede más; los [niveles de servicio](../Niveles-de-servicio/niveles-de-servicio.md) le ponen el reloj; la [calidad del servicio](../Calidad-del-servicio/calidad-del-servicio.md) mide lo que deja. El campo lo llama caso en un CRM, ticket en una mesa de ayuda e issue en el seguimiento de trabajo: tres nombres para casi lo mismo. Ninguna norma lo define como objeto de datos; sale de la práctica.
+Es el centro del [servicio al cliente](../servicio-al-cliente.md). Los [canales de atención](../Canales-de-atencion/canales-de-atencion.md) lo abren y lo actualizan; el [escalamiento](../Escalamiento/escalamiento.md) lo pasa a quien sabe o puede más; los [niveles de servicio](../Niveles-de-servicio/niveles-de-servicio.md) le ponen el reloj; la [calidad del servicio](../Calidad-del-servicio/calidad-del-servicio.md) mide lo que deja. El campo lo llama caso, ticket o issue: tres nombres para casi lo mismo, que en la práctica se reparten (como lectura de esta base) entre un CRM, una mesa de ayuda y el seguimiento de trabajo. Ninguna norma lo define como objeto de datos; sale de la práctica.
 
 ## Qué hace la empresa con un caso
 
@@ -32,7 +32,7 @@ La oportunidad de venta que aparece en un caso no se trabaja acá: se abre una [
 
 Una mesa de ayuda abierta guarda en cada caso el asunto, quién lo planteó, la descripción, el cliente, la prioridad (baja, media y alta por defecto), el tipo, la fecha de apertura, el tiempo hasta la primera respuesta, la fecha y el detalle de la resolución y el tiempo de resolución. Suma comentarios internos que solo ve el equipo. El tipo y la prioridad se deciden en la [clasificación y prioridad](clasificacion-y-prioridad.md); los tiempos se cuentan como dice [tiempos de respuesta y resolución](../Niveles-de-servicio/tiempos-de-respuesta-y-resolucion.md).
 
-El caso apunta al cliente y no lo copia. La misma mesa de ayuda lo vincula sola cuando el remitente coincide con un cliente guardado: el cliente y sus contactos viven en [cuenta y contacto](../../Relacion-con-clientes/Registro-del-cliente/cuenta-y-contacto.md). Si el caso viene de una compra, apunta además al [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md) o, para un producto, a su número de serie: un sistema abierto trae el artículo y los datos de la garantía desde la serie, como cuenta [garantía y reparación](garantia-y-reparacion.md).
+El caso apunta al cliente y no lo copia (lectura de esta base). La misma mesa de ayuda lo vincula sola cuando el remitente coincide con un cliente guardado: el cliente y sus contactos viven en [cuenta y contacto](../../Relacion-con-clientes/Registro-del-cliente/cuenta-y-contacto.md). Si el caso viene de una compra, apunta además al [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md) o, para un producto, a su número de serie: un sistema abierto trae el artículo y los datos de la garantía desde la serie, como cuenta [garantía y reparación](garantia-y-reparacion.md).
 
 ## Los estados del caso
 
@@ -58,11 +58,11 @@ stateDiagram-v2
   C --> [*]
 ```
 
-Resuelto y cerrado no son lo mismo. Resuelto es lo que cree el equipo; cerrado, lo que confirma el cliente. Esa mesa de ayuda cierra sola si el cliente no responde en 7 días. El estado en espera importa para el reloj: la misma práctica separa el tiempo de resolución total del tiempo de resolución que excluye la espera del cliente, y reinicia las métricas si el caso se reabre o se divide.
+El diagrama junta lo que dicen dos sistemas; las vueltas de resuelto y de cerrado a abierto, y la salida de espera, son lectura de esta base. Resuelto y cerrado no son lo mismo. Resuelto es lo que cree el equipo; cerrado, lo que confirma el cliente. Esa mesa de ayuda cierra sola si el cliente no responde en 7 días. El estado en espera importa para el reloj: la misma práctica separa el tiempo de resolución total del tiempo de resolución que excluye la espera del cliente, y reinicia las métricas si el caso se reabre o se divide.
 
 ## El dueño del caso
 
-Cada caso tiene un responsable, asignado a mano o por regla. Un sistema reparte por cantidad total de casos o por cantidad de abiertos y saltea a quien está de licencia. Quien atiende puede pasar el caso a otro nivel o a otro equipo, que es [escalar](../Escalamiento/escalamiento.md); el dueño cambia, el caso sigue siendo el mismo.
+Cada caso tiene un responsable, asignado a mano o por regla. Un sistema reparte por cantidad total de casos o por cantidad de abiertos y saltea a quien está de licencia. Quien atiende puede pasar el caso a otro nivel o a otro equipo, que es [escalar](../Escalamiento/escalamiento.md); el dueño cambia, el caso sigue siendo el mismo (lectura de esta base).
 
 ## Un caso aunque haya varios contactos
 
@@ -72,7 +72,7 @@ La operación inversa es dividir un caso que trae dos asuntos. La única regla c
 
 ## Cierre y reapertura
 
-Cerrar el caso termina el reloj y deja el resultado para la medición. Reabrirlo lo devuelve a abierto. Las reaperturas son, a la vez, una señal de que el caso se cerró antes de tiempo y una de las [métricas de atención](../Calidad-del-servicio/metricas-de-atencion.md).
+Cerrar el caso termina el reloj y deja el resultado para la medición, y reabrirlo lo devuelve a abierto; ambas cosas son lectura de esta base, y la fuente solo dice que reabrir reinicia las métricas. Las reaperturas son, a la vez, una señal de que el caso se cerró antes de tiempo y una de las [métricas de atención](../Calidad-del-servicio/metricas-de-atencion.md).
 
 > [!NOTE] Sin fuente todavía: reglas de reapertura. No hay norma ni fuente neutral sobre cuánto tiempo puede reabrirse un caso cerrado ni sobre cuándo conviene abrir uno nuevo vinculado al anterior.
 

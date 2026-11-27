@@ -42,7 +42,7 @@ Según el mismo trabajo, la ampliación de canales vino de dos lados: «customer
 
 El cliente que escribe por correo, vuelve a reclamar por chat y después llama hizo tres contactos sobre un mismo asunto. Si cada canal guarda los suyos por separado, la empresa ve tres casos, cada persona que atiende empieza de cero y el cliente repite la historia. La práctica llama **omnicanal** a la atención que junta los contactos de cualquier canal en un solo caso con una historia común, y **multicanal** a la que ofrece varios canales en paralelo, cada uno con su historia. Es una definición de práctica: no se encontró una definición normativa, y según lo que se pudo ver de ISO 18295-1, la norma no usa ninguno de los dos términos.
 
-El cambio de canal es frecuente. Dixon, Freeman y Toman encontraron que «Fifty-seven percent of inbound calls came from customers who went to the website first». Muchas llamadas, entonces, llegan después de un intento fallido en otro canal, y el caso debería mostrar ese intento.
+El cambio de canal es frecuente. Dixon, Freeman y Toman encontraron que «Fifty-seven percent of inbound calls came from customers who went to the website first». Muchas llamadas, entonces, llegan después de un intento en otro canal, y el caso debería mostrar ese intento (lectura de esta base).
 
 Para un sistema, la decisión de diseño es separar dos registros: el **contacto** (cada interacción, con su canal, su hora y quién atendió) y el **caso** (el asunto, con su estado y su dueño). Cada contacto que entra se identifica contra el [registro del cliente](../../Relacion-con-clientes/Registro-del-cliente/cuenta-y-contacto.md) y se agrega a un caso abierto o abre uno nuevo. Qué datos lleva el caso y cómo se fusionan dos casos duplicados está en [caso](../Caso/caso.md).
 
@@ -50,9 +50,9 @@ Para un sistema, la decisión de diseño es separar dos registros: el **contacto
 
 ## Qué pide la norma de centros de contacto
 
-ISO 18295-1:2017 fija requisitos para centros de contacto con el cliente, propios o tercerizados. Según su ficha, se aplica a «in-house (captive) and outsourced (third party operator) CCCs of all sizes», de todos los sectores y en «all interaction channels», entrantes y salientes. Especifica indicadores «as and where required». Según su índice, trata la comunicación de información al cliente, la medición de la experiencia, la protección del cliente, el aseguramiento de calidad de las interacciones y el manejo de las interacciones y los datos del cliente.
+ISO 18295-1:2017 fija requisitos para centros de contacto con el cliente, propios o tercerizados. Según el resumen de su ficha, se aplica a «in-house (captive) and outsourced (third party operator) CCCs of all sizes», de todos los sectores y en «all interaction channels», entrantes y salientes. Especifica indicadores «as and where required». Según su índice, trata la comunicación de información al cliente, la medición de la experiencia, la protección del cliente, el aseguramiento de calidad de las interacciones y el manejo de las interacciones y los datos del cliente.
 
-La norma se revisó y se confirmó en 2023, y hay un proyecto de segunda edición que la va a reemplazar: conviene revisar su estado antes de citarla. El texto es pago; lo de arriba sale de la ficha y del índice. Que un centro de contacto tercerizado tenga una relación aparte con la empresa que lo contrata (cláusula 9 y Anexo B de la norma) se trata en [acuerdos internos](../Niveles-de-servicio/acuerdos-internos.md).
+Según resúmenes del buscador, la norma se revisó y se confirmó en 2023, y hay un proyecto de segunda edición que la va a reemplazar: conviene revisar su estado antes de citarla. El texto es pago; lo de arriba sale de resúmenes de la ficha y del índice. Que un centro de contacto tercerizado tenga una relación aparte con la empresa que lo contrata (cláusula 9 y Anexo B de la norma) se trata en [acuerdos internos](../Niveles-de-servicio/acuerdos-internos.md).
 
 ## Por qué canales y dimensionamiento van en la misma vertical
 
@@ -62,7 +62,7 @@ La base los junta porque el lector que construye software los ve juntos: el cana
 
 ## Dónde fallan los canales
 
-Fallan cuando un canal no comparte la historia con los demás y el cliente tiene que contar todo de nuevo. Fallan cuando el autoservicio no resuelve y el cliente vuelve por el teléfono, contado igual como un contacto evitado: está en [autoservicio](autoservicio.md). Y fallan cuando se abre un canal sincrónico (un chat, un teléfono) sin la dotación para contestarlo en segundos, que es el problema de [dimensionamiento del equipo](dimensionamiento-del-equipo.md).
+Fallan cuando un canal no comparte la historia con los demás y el cliente tiene que contar todo de nuevo (lectura de esta base). Fallan cuando el autoservicio no resuelve y el cliente vuelve por el teléfono, contado igual como un contacto evitado: está en [autoservicio](autoservicio.md). Y fallan cuando se abre un canal sincrónico (un chat, un teléfono) sin la dotación para contestarlo en segundos, que es el problema de [dimensionamiento del equipo](dimensionamiento-del-equipo.md).
 
 Lo que la ley argentina pide de los canales (las vías de reclamo, el botón de baja, el trato digno) está en [Servicio al cliente en la Argentina](../servicio-al-cliente-en-argentina.md).
 

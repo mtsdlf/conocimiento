@@ -37,7 +37,7 @@ Las fuentes que ordenan el dominio tratan por separado medir, preguntar y escuch
 - La norma ISO 18295-1:2017, de centros de contacto, tiene una cláusula para medir y seguir la experiencia del cliente (4.3), otra para el aseguramiento de la calidad de las interacciones (7.4) y un Anexo A informativo con directrices de métricas (según su índice).
 - El marco de APQC tiene el monitoreo de las conversaciones dentro de la gestión del equipo de atención (6.2.1.4) y la evaluación de la satisfacción como proceso propio (6.5).
 - La norma ISO 10002, de reclamos, pone el análisis de los reclamos para mejorar en su cláusula 8, aparte del trámite de cada reclamo; la ISO 10004 da directrices para seguir y medir la satisfacción (según resúmenes).
-- Gans, Koole y Mandelbaum (2003), desde el estudio del centro de llamadas como sistema de colas, dedican una sección a la calidad del servicio (2.5) junto a las métricas de espera y abandono.
+- Gans, Koole y Mandelbaum (2003), desde el estudio del centro de llamadas como sistema de colas, dedican una sección a la calidad del servicio (2.5) y tratan el abandono en otra (4.2).
 
 | Forma | Qué mira | Qué no ve |
 |---|---|---|
@@ -49,7 +49,7 @@ La lectura de esta base es que cada forma controla a las otras dos. Una resoluci
 
 ## Por qué el tablero puede estar verde con el cliente enojado
 
-Cada número de la atención se puede mejorar sin que la atención mejore. Barclay Rae llama a esto el efecto sandía (watermelon): el acuerdo de nivel de servicio se ve verde en el reporte y la experiencia del cliente es roja por dentro. Lo atribuye a acuerdos definidos sin acordar resultados con el negocio, que miden componentes y no su efecto combinado. Es opinión experta, sin un estudio que mida la brecha; cómo se aplica al acuerdo está en [incumplimiento del acuerdo](../Niveles-de-servicio/incumplimiento-del-acuerdo.md).
+Cada número de la atención se puede mejorar sin que la atención mejore (lectura de esta base). Barclay Rae llama a esto el efecto sandía (watermelon): el acuerdo de nivel de servicio se ve verde en el reporte y la experiencia del cliente es roja por dentro. Lo atribuye a acuerdos definidos sin acordar resultados con el negocio, que miden componentes y no su efecto combinado. Es opinión experta, sin un estudio que mida la brecha; cómo se aplica al acuerdo está en [incumplimiento del acuerdo](../Niveles-de-servicio/incumplimiento-del-acuerdo.md).
 
 Dixon, Freeman y Toman (2010) dan dos mediciones de la distancia entre los números del servicio y la conducta del cliente. El 20% de los clientes «satisfechos» de su estudio dijo que pensaba irse, y el 28% de los «insatisfechos», que pensaba quedarse. Y el 22% de las rellamadas venía de problemas derivados del original, aunque ese se hubiera resuelto bien: la resolución al primer contacto da verde y el cliente vuelve a llamar.
 

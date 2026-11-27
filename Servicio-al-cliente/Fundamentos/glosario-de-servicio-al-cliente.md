@@ -22,7 +22,7 @@ revisado:
 
 Los términos del tema Servicio al cliente, cada uno con su nombre en inglés, una definición corta y la nota donde vive, y las palabras que el campo usa con más de un sentido.
 
-No hay un glosario canónico y abierto del campo: el de ITIL es pago y se leyó por resúmenes, y la norma ISO 10002 se leyó solo en su vista previa. Estas son las palabras que usa esta base, en un sentido cada una. Las marcadas con † tienen más de un sentido en el campo y se explican al final.
+No hay un glosario canónico y abierto del campo: el de ITIL es pago y se leyó por resúmenes, y la norma ISO 10002 se leyó solo en su vista previa. Estas son las palabras que usa esta base, en un sentido cada una. Las marcadas con † tienen más de un sentido en el campo y se explican al final. Los tipos de caso (consulta, pedido, incidente) y sus estados son lectura de esta base sobre prácticas de productos: ninguna norma los fija.
 
 ## El caso y su recorrido
 
@@ -35,7 +35,7 @@ No hay un glosario canónico y abierto del campo: el de ITIL es pago y se leyó 
 | Incidente † | Incident | En ITIL, una interrupción o baja de calidad de un servicio; en este tema, un tipo de caso | [clasificación y prioridad](../Caso/clasificacion-y-prioridad.md) |
 | Reclamo, queja † | Complaint | Según ISO 10002, una expresión de insatisfacción con un producto, un servicio o el propio tratamiento de reclamos, cuando se espera una respuesta o una solución | [reclamo](../Caso/reclamo.md) |
 | Acuse de recibo | Acknowledgement | El aviso al cliente de que su reclamo entró; es un paso de la cláusula 7 de ISO 10002 | [reclamo](../Caso/reclamo.md) |
-| Impacto, urgencia, prioridad | Impact, urgency, priority | La prioridad sale de cruzar cuánto afecta (impacto) con cuánto apura (urgencia); la tabla la fija cada organización | [clasificación y prioridad](../Caso/clasificacion-y-prioridad.md) |
+| Impacto, urgencia, prioridad | Impact, urgency, priority | La prioridad sale de cruzar cuánto afecta (impacto) con cuánto apura (urgencia), según el estándar de Ontario y BMC por resúmenes; la tabla la fija cada organización | [clasificación y prioridad](../Caso/clasificacion-y-prioridad.md) |
 | Triage | Triage | La primera mirada que clasifica y prioriza un caso; no se encontró una definición con fuente | [clasificación y prioridad](../Caso/clasificacion-y-prioridad.md) |
 | Resuelto | Resolved | Quien atiende cree que el caso está resuelto y el cliente todavía no lo confirmó | [caso](../Caso/caso.md) |
 | Cerrado | Closed | El cliente confirmó, o pasó el plazo sin que contestara | [caso](../Caso/caso.md) |
@@ -93,7 +93,7 @@ No hay un glosario canónico y abierto del campo: el de ITIL es pago y se leyó 
 | Tiempo medio de atención | Average handle time (AHT) | El tiempo de conversación más el trabajo posterior de cada contacto; no es el tiempo de resolución del caso | [métricas de atención](../Calidad-del-servicio/metricas-de-atencion.md) |
 | Pendientes † | Backlog | Los casos abiertos sin resolver en un momento | [métricas de atención](../Calidad-del-servicio/metricas-de-atencion.md) |
 | Satisfacción | Customer satisfaction (CSAT) | La pregunta al cliente, después de un caso, por cuán conforme quedó | [encuestas de satisfacción](../Calidad-del-servicio/encuestas-de-satisfaccion.md) |
-| Esfuerzo del cliente | Customer effort score (CES) | La pregunta por cuánto le costó resolver; Dixon y otros la propusieron con una escala de 1 a 5, donde 5 es esfuerzo muy alto, y versiones posteriores cambiaron la escala | [encuestas de satisfacción](../Calidad-del-servicio/encuestas-de-satisfaccion.md) |
+| Esfuerzo del cliente | Customer effort score (CES) | La pregunta por cuánto le costó resolver; Dixon y otros la propusieron con una escala de 1 a 5, donde 5 es esfuerzo muy alto, y se dice que versiones posteriores cambiaron la escala (sin verificar) | [encuestas de satisfacción](../Calidad-del-servicio/encuestas-de-satisfaccion.md) |
 | Recomendación | Net Promoter Score (NPS) | La pregunta por cuán probable es que recomiende; su valor como predictor se discute en [boca a boca y referidos](../../Marketing/Canales/boca-a-boca-y-referidos.md#cómo-se-mide-y-qué-pasa-con-el-nps) | [encuestas de satisfacción](../Calidad-del-servicio/encuestas-de-satisfaccion.md) |
 | Monitoreo de calidad | Quality assurance, quality monitoring | Evaluar conversaciones con una pauta | [monitoreo de calidad](../Calidad-del-servicio/monitoreo-de-calidad.md) |
 | Calibración | Calibration | Que varios evaluadores puntúen las mismas conversaciones para alinear criterios | [monitoreo de calidad](../Calidad-del-servicio/monitoreo-de-calidad.md) |
@@ -104,7 +104,7 @@ No hay un glosario canónico y abierto del campo: el de ITIL es pago y se leyó 
 - **Caso, ticket, incidencia, incidente.** «Caso» es habitual en los CRM, «ticket» en las mesas de ayuda e *issue* en el seguimiento de trabajo: casi lo mismo con tres nombres. El incidente de ITIL es más estrecho, porque es la interrupción de un servicio. El tema dice «caso» para el registro e «incidente» solo como tipo de caso. En APQC, «incident» también es lo que se informa a un regulador (6.2.5), que queda fuera del tema.
 - **Problema.** En el habla común es cualquier dificultad; en ITIL es la causa de uno o más incidentes. El tema lo usa solo en el segundo sentido y dice «lo que pide el cliente» para el primero.
 - **Backlog.** En atención son los casos abiertos; en desarrollo de software, la lista de trabajo por hacer. El tema dice «pendientes».
-- **Escalamiento** junta dos movimientos: el funcional, hacia quien sabe más, y el jerárquico, hacia quien puede decidir más. Un sistema los modela distinto: el primero cambia el equipo asignado, el segundo avisa a un responsable. En una práctica de producto, además, escalar es subir la prioridad, lo que cambia el acuerdo que se aplica.
+- **Escalamiento** junta dos movimientos: el funcional, hacia quien sabe más, y el jerárquico, hacia quien puede decidir más. Lectura de esta base: un sistema los modela distinto, porque el primero cambia el equipo asignado y el segundo avisa a un responsable. En una práctica de producto, además, cambiar la prioridad de un caso lo escala respecto del acuerdo, que debe definir a qué prioridades aplica.
 - **Reclamo y queja** se usan como sinónimos en castellano, y este tema hace lo mismo con la definición de ISO 10002. En el derecho del consumidor argentino tienen consecuencias propias, que están en [Servicio al cliente en la Argentina](../servicio-al-cliente-en-argentina.md). La ausencia de reclamos tampoco es satisfacción: la misma norma dice que «their absence does not necessarily imply high customer satisfaction».
 
 Las razones del vocabulario elegido y las divisiones del campo están en [Fundamentos](fundamentos-de-servicio-al-cliente.md).
