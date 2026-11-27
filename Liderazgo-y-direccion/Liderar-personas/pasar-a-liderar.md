@@ -78,7 +78,7 @@ La lista es una síntesis de esta base a partir de las notas enlazadas, no un pr
 1. Reservá tiempo para tu gente: las [reuniones uno a uno](../Gestion-de-personas/reuniones-uno-a-uno.md) son la herramienta para eso.
 2. Decidí qué trabajo soltás y qué te quedás, con la [delegación](../Decidir/delegacion.md) como guía.
 3. Medí tu trabajo por lo que logra el equipo y no por lo que hacés vos: es el cambio que Hill describe como una transformación psicológica.
-4. Pedí feedback sobre cómo dirigís; cómo se pide y se da es del tema Comunicación, todavía sin escribir.
+4. Pedí feedback sobre cómo dirigís; cómo se pide está en [pedir y recibir feedback](../../Comunicacion/Feedback/pedir-y-recibir-feedback.md), y cómo se da, en [dar feedback](../../Comunicacion/Feedback/dar-feedback.md), en Comunicación.
 
 Cuando el fundador pasa de dirigir a unas pocas personas a dirigir a otros jefes, el problema cambia: está en [escalar la organización](../Rol-del-CEO/escalar-la-organizacion.md) y [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md). El reparto de roles entre socios está en [Fundadores y equipo](../../Emprender/Fundadores-y-equipo/fundadores-y-equipo.md).
 

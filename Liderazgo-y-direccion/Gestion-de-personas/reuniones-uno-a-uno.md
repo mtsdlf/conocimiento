@@ -37,7 +37,7 @@ La cifra que más circula es de Gallup (2015): «employees whose managers hold r
 
 ## Lo que la reunión transporta sí tiene evidencia
 
-Lo que se hace adentro de un uno a uno está mejor estudiado que la reunión. El feedback mejora el desempeño en promedio, pero según el metaanálisis de Kluger y DeNisi más de un tercio de las intervenciones lo empeoraron, sobre todo cuando la atención pasa de la tarea a la persona; lo cuenta [evaluación del desempeño](evaluacion-del-desempeno.md). Cómo se da ese feedback es del tema Comunicación, todavía sin escribir. Por qué la autonomía y el reconocimiento sostienen las ganas está en [motivar a un equipo](../Liderar-personas/motivar-a-un-equipo.md).
+Lo que se hace adentro de un uno a uno está mejor estudiado que la reunión. El feedback mejora el desempeño en promedio, pero según el metaanálisis de Kluger y DeNisi más de un tercio de las intervenciones lo empeoraron, sobre todo cuando la atención pasa de la tarea a la persona; lo cuenta [evaluación del desempeño](evaluacion-del-desempeno.md). Cómo se da ese feedback está en [dar feedback](../../Comunicacion/Feedback/dar-feedback.md), en Comunicación. Por qué la autonomía y el reconocimiento sostienen las ganas está en [motivar a un equipo](../Liderar-personas/motivar-a-un-equipo.md).
 
 En la [incorporación](incorporacion.md), el uno a uno puede ser donde el recién llegado pregunta y aclara su rol, y más adelante donde se habla del [desarrollo](desarrollo-de-personas.md) y de las señales de que alguien se quiere ir (inferencia de esta base).
 

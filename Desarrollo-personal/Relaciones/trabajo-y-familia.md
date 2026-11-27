@@ -78,7 +78,7 @@ Los pasos ordenan lo que dicen las fuentes; no hay ensayo que los pruebe como pa
 2. Si separás, armá un rito de paso al terminar el día (cerrar la computadora, salir a caminar); Ashforth lo propone para facilitar el cruce.
 3. Si mezclás, decidí de antemano cuándo sí y cuándo no mirás el trabajo, para no quedar reaccionando a lo que llega.
 4. Si dirigís un equipo, decí en voz alta qué se espera fuera de horario: lo que pesa es la expectativa percibida.
-5. Hablá con tu pareja o tu familia qué tiempo es intocable; cómo se sostiene esa conversación es del tema Comunicación, igual que decir que no a un pedido de trabajo.
+5. Hablá con tu pareja o tu familia qué tiempo es intocable; cómo se sostiene esa conversación está en [conversaciones difíciles](../../Comunicacion/Conversaciones-dificiles/conversaciones-dificiles.md), y cómo decir que no a un pedido de trabajo, en [asertividad](../../Comunicacion/Escucha-y-conversacion/asertividad.md), en Comunicación.
 
 ## Cuánto se sostiene
 

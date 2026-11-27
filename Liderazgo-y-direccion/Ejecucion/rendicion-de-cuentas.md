@@ -45,6 +45,6 @@ Lo mismo vale para el seguimiento de compromisos (anotar quién hace qué y para
 - **Se sostuvo, en una revisión amplia**: la rendición de cuentas tiene efectos buenos y malos según cómo se estructure. Viene de revisiones de la psicología social (juicio y decisión) y de la organizacional.
 - **Sin evidencia**: el DRI y el seguimiento de compromisos como prácticas. Su origen atribuido es una corporación.
 
-Para una empresa chica, lo que se puede tomar es la advertencia: poner un nombre en cada compromiso no garantiza nada por sí solo, y la forma en que se piden las cuentas cambia el efecto. Cómo se da feedback cuando un compromiso no se cumplió es del tema Comunicación, todavía sin escribir.
+Para una empresa chica, lo que se puede tomar es la advertencia: poner un nombre en cada compromiso no garantiza nada por sí solo, y la forma en que se piden las cuentas cambia el efecto. Cómo se da feedback cuando un compromiso no se cumplió está en [dar feedback](../../Comunicacion/Feedback/dar-feedback.md), en Comunicación.
 
 La lectura que propone la investigación de esta base es el abstract de Hall et al. (2015) con su sección de limitaciones, y Lerner y Tetlock (1999) para la parte de decisiones.
