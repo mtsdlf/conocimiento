@@ -8,10 +8,17 @@ fuentes:
   - "Wikipedia, Zone of proximal development (como mapa): https://en.wikipedia.org/wiki/Zone_of_proximal_development"
   - "Wikipedia, Situated learning (como mapa): https://en.wikipedia.org/wiki/Situated_learning"
   - "Kyndt et al. (2013), Educational Research Review 10:133-149, DOI 10.1016/j.edurev.2013.02.002"
+  - "Johnson y Johnson (2009), An educational psychology success story: social interdependence theory and cooperative learning, Educational Researcher 38(5):365-379: https://doi.org/10.3102/0013189X09339057 (texto completo, copia de JSTOR)"
+  - "Slavin (1991), Synthesis of research on cooperative learning, Educational Leadership, febrero de 1991: https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_199102_slavin.pdf (texto completo)"
+  - "van de Pol, Volman y Beishuizen (2010), Scaffolding in teacher-student interaction: a decade of research, Educational Psychology Review 22(3):271-296: https://link.springer.com/content/pdf/10.1007/s10648-010-9127-6.pdf (abstract)"
+  - "Porter, Bailey Lee y Simon (2013), Halving fail rates using peer instruction, SIGCSE '13:177-182: https://files.software-carpentry.org/training-course/2012/08/porter-halving-fail-peer-instruction-2013.pdf (texto completo, preimpresión)"
+  - "Umapathy y Ritzhaupt (2017), A meta-analysis of pair-programming in computer programming courses, ACM Transactions on Computing Education 17(4), DOI 10.1145/2996201: https://digitalcommons.unf.edu/unf_faculty_publications/1812 (abstract)"
   - "Smith et al. (2009), Why peer discussion improves student performance on in-class concept questions, Science (abstract): https://pubmed.ncbi.nlm.nih.gov/19119232/"
   - "Kobayashi (2018), Frontiers in Psychology (abstract): https://pubmed.ncbi.nlm.nih.gov/30687196/"
+  - "Wang, Cheng y Mayer (2023), Journal of Educational Psychology 115(6):783-797: https://eric.ed.gov/?id=EJ1386593 (abstract)"
   - "Sawyer (ed.), The Cambridge Handbook of the Learning Sciences, 3.ª ed., 2022, parte IV (índice, según resumen): https://perlego.com/book/4229836/the-cambridge-handbook-of-the-learning-sciences-pdf"
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-aprender-con-otros-2026-11.md"
 aliases: [aprendizaje social, aprender juntos, learning together, aprendizaje entre pares, peer learning, aprendizaje colaborativo]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -38,24 +45,21 @@ Una confusión posible es usar la teoría como si fuera evidencia de la técnica
 
 La zona de desarrollo próximo de Vygotsky es la distancia entre lo que alguien hace solo y lo que hace con ayuda; se desarrolla en [teorías del aprendizaje](../Fundamentos/teorias-del-aprendizaje.md). El andamiaje no es de Vygotsky: lo introducen Wood, Bruner y Ross (1976), estudiando cómo padres y tutores ayudaban a niños pequeños a armar una pirámide de bloques, y según la literatura secundaria Vygotsky nunca usó el término.
 
-Dos lecturas erróneas de la zona, que recoge la misma literatura secundaria: que quien ayuda tiene que saber más (en aprendizaje de segunda lengua adulto también ayudaron pares menos capaces) y que la zona es «empujar más» (Vygotsky advirtió contra el material demasiado difícil). La práctica del andamiaje y su evidencia están en [andamiaje](../../Didactica/Practica-guiada-y-andamiaje/andamiaje.md).
+Dos lecturas erróneas de la zona, que recoge la misma literatura secundaria: que quien ayuda tiene que saber más (en aprendizaje de segunda lengua adulto también ayudaron pares menos capaces) y que la zona es «empujar más» (Vygotsky advirtió contra el material demasiado difícil). La revisión de van de Pol, Volman y Beishuizen (2010) distingue tres rasgos del andamiaje docente: contingencia, retiro gradual de la ayuda y traspaso de la responsabilidad. Según su abstract, los pocos estudios de efecto «suggest that scaffolding is effective. However, more research is needed». La práctica del andamiaje y su evidencia están en [andamiaje](../../Didactica/Practica-guiada-y-andamiaje/andamiaje.md).
 
 ## Qué decide si un grupo aprende
 
 Tres hallazgos de las técnicas apuntan a lo mismo: el beneficio depende de lo que cada uno hace dentro del grupo.
 
-- En aprendizaje cooperativo, la EEF encuentra mejores resultados con grupos de 3 a 5 con meta compartida (según el buscador; ver [aprendizaje cooperativo](aprendizaje-cooperativo.md)).
+- En aprendizaje cooperativo, la EEF encuentra mejores resultados con grupos de 3 a 5 con meta compartida, y Slavin (1991) encuentra que los métodos eficaces combinan metas grupales y responsabilidad individual (ver [aprendizaje cooperativo](aprendizaje-cooperativo.md)).
 - En instrucción entre pares, discutir con un compañero mejora la comprensión «even when none of the students in a discussion group originally knows the correct answer» (Smith et al. 2009, abstract).
-- Al enseñar a otro, el beneficio crece con la interactividad: estudiar para enseñar cara a cara supera a prepararse para una enseñanza indirecta, como grabar una clase (Kobayashi 2018, abstract).
+- Al enseñar a otro, el beneficio crece con la interactividad según Kobayashi (2018, abstract): estudiar para enseñar cara a cara supera a prepararse para una enseñanza indirecta, como grabar una clase. Está en disputa: en un experimento de Wang, Cheng y Mayer (2023), explicar a una cámara superó a explicarle a otro estudiante (ver [aprender enseñando](aprender-ensenando.md)).
 
 Que el mecanismo común sea tener que producir una explicación es una lectura de esta base que conecta con la [autoexplicación](../../Didactica/Preguntas-y-dialogo/autoexplicacion.md) y con las [dificultades deseables](../Memoria-y-practica/dificultades-deseables.md); ninguna fuente leída lo prueba.
 
 ## Lo que falta para adultos
 
-Ningún estudio leído de esta vertical es de adultos en capacitación técnica: todo es escuela o grado. El único dato de adultos verificado es del andamiaje con computadora (Belland et al. 2017, [g](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,46 global, mayor en adultos), que se trata en Didáctica. La evidencia más pertinente para enseñar programación, programación en pareja e instrucción entre pares en computación, quedó sin verificar.
-
-> [!NOTE]
-> Sin fuente todavía: Johnson y Johnson (2009) y Slavin sobre aprendizaje cooperativo; van de Pol, Volman y Beishuizen (2010) sobre andamiaje docente; el metaanálisis de programación en pareja de Umapathy y Ritzhaupt (2017).
+Ningún estudio leído de esta vertical es de adultos en capacitación técnica: todo es escuela o grado. El único dato de adultos verificado es del andamiaje con computadora (Belland et al. 2017, [g](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,46 global, mayor en adultos), que se trata en Didáctica. Lo más cercano a enseñar programación es de computación universitaria: la instrucción entre pares bajó la reprobación de 20 % a 7 % en promedio (Porter et al. 2013), y la programación en pareja favorece a trabajos, exámenes y aprobación según un metaanálisis de 18 trabajos (Umapathy y Ritzhaupt 2017, abstract). Los detalles están en [instrucción entre pares](instruccion-entre-pares.md).
 
 ## Qué hay adentro
 

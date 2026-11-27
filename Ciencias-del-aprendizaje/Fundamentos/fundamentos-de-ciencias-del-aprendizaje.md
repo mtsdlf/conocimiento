@@ -10,10 +10,15 @@ fuentes:
   - "Sawyer (ed.), The Cambridge Handbook of the Learning Sciences, 3.ª ed., 2022 (índice según el buscador): https://perlego.com/book/4229836/the-cambridge-handbook-of-the-learning-sciences-pdf"
   - "Woolfolk, Educational Psychology, 15.ª ed. (índice): https://www.pearson.com/en-au/media/2628261/9781292331522-toc.pdf"
   - "National Research Council (2000), How People Learn: https://www.nap.edu/read/9853/chapter/1"
+  - "National Academies of Sciences, Engineering, and Medicine (2018), How People Learn II: Learners, Contexts, and Cultures, doi 10.17226/24783 (índice): https://www.nationalacademies.org/read/24783/chapter/1"
+  - "Lovett, Bridges, DiPietro, Ambrose y Norman (2023), How Learning Works: Eight Research-Based Principles for Smart Teaching, 2.ª ed., Jossey-Bass (índice y descripción de la editorial): https://www.wiley.com/en-us/how-learning-works-eight-research-based-principles-for-smart-teaching-2nd-edition-p-9781119861690"
+  - "Ambrose, Bridges, DiPietro, Lovett y Norman (2010), How Learning Works: Seven Research-Based Principles for Smart Teaching, Jossey-Bass (portada y página de derechos, copia de un curso de la Universidad de Wisconsin): https://courses.dcs.wisc.edu/design-teaching/FacilitationManagement_Spring2016/facilitation-module/2_Supporting_eLearners/resources/HowLearningWorksAmbrose.pdf"
+  - "Brown, Roediger y McDaniel (2014), Make It Stick: The Science of Successful Learning, Belknap Press of Harvard University Press (descripción de la editorial): https://www.hup.harvard.edu/books/9780674729018"
   - "Bjork, Dunlosky y Kornell (2013), Self-regulated learning: beliefs, techniques, and illusions, Annual Review of Psychology 64 (abstract): https://pubmed.ncbi.nlm.nih.gov/23020639/"
   - "Didactica/.investigacion/vistazo-del-area.md"
   - "Didactica/.investigacion/fundamentos-del-area.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-fundamentos-2026-11.md"
 aliases: [fundamentos de ciencias del aprendizaje, bibliografía de ciencias del aprendizaje, learning sciences]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -56,13 +61,16 @@ En 2015, Deans for Impact publicó *The Science of Learning*, redactado con Dani
 | Obra | Para qué | Estado en esta base |
 |---|---|---|
 | Sawyer (ed.), *The Cambridge Handbook of the Learning Sciences*, 3.ª ed., 2022 | El manual del campo; sus partes son fundamentos, metodologías, tecnología, aprender juntos, conocimiento disciplinar y llevar la investigación al aula | Solo se vio el índice, por el buscador |
-| National Research Council, *How People Learn* (2000) | La síntesis de consenso; capítulos 1 y 2 para conocimiento previo, comprensión y novato-experto | Un solo extracto verificado; *How People Learn II* (2018) no se consultó |
+| National Research Council, *How People Learn* (2000) | La síntesis de consenso; capítulos 1 y 2 para conocimiento previo, comprensión y novato-experto | Un solo extracto verificado |
+| National Academies, *How People Learn II: Learners, Contexts, and Cultures* (2018) | La actualización de la anterior; diez capítulos, de contexto y cultura a motivación, tecnología digital y aprendizaje a lo largo de la vida | Índice verificado; del capítulo 9 se leyeron extractos, en [andragogía](andragogia.md) |
+| Lovett, Bridges, DiPietro, Ambrose y Norman, *How Learning Works*, 2.ª ed. (2023; la 1.ª, de 2010, con Ambrose como primera autora, tenía siete principios) | Ocho principios para enseñar en la universidad, un capítulo cada uno: identidad y etapas de desarrollo, conocimiento previo, organización del conocimiento, motivación, dominio, práctica y retroalimentación, clima del curso y autodirección | Índice y descripción de la editorial |
+| Brown, Roediger y McDaniel, *Make It Stick* (2014) | Divulgación sobre cómo estudiar: según la editorial, subrayar, releer y estudiar a último momento crean «the illusion of mastery», y rinden más testearse, espaciar el repaso e intercalar temas | Descripción de la editorial |
 | Deans for Impact, *The Science of Learning* (2015) | Seis preguntas con sus respuestas, en pocas páginas, pensado para formar docentes | Verificado como existencia y estructura |
 | Bjork y Bjork (2011), «Making things hard on yourself, but in a good way» | Aprendizaje frente a rendimiento y dificultades deseables, en unas diez páginas de acceso abierto | Leído |
 | Bjork, Dunlosky y Kornell (2013), *Annual Review of Psychology* | Por qué la gente se equivoca sobre su propio aprendizaje | Solo el abstract |
 | Dunlosky et al. (2013), *Psychological Science in the Public Interest* | Las diez técnicas de estudio calificadas | En [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md) |
 
 > [!NOTE]
-> Sin fuente todavía: *How Learning Works* de Ambrose et al., *Make It Stick* de Brown, Roediger y McDaniel, *How People Learn II* y el manual de Woolfolk, salvo su índice. Son los manuales que el campo recomienda y ninguno se leyó.
+> Sin fuente todavía: el texto de *How Learning Works*, *Make It Stick*, *How People Learn II* y el manual de Woolfolk. Son los manuales que el campo recomienda; de ellos solo se verificaron los datos, el índice y la descripción de la editorial.
 
 Casi toda la evidencia del tema es de escuelas y universidades. Cuando una nota la lleva a adultos que aprenden un oficio, o a enseñar informática, lo dice como inferencia.

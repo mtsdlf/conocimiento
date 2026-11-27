@@ -5,9 +5,12 @@ estado: vigente
 estabilidad: estable
 fuentes:
   - "Lave y Wenger (1991), Situated Learning: Legitimate Peripheral Participation, Cambridge University Press (no leído; citado por la página de Wikipedia)"
-  - "Anderson, Reder y Simon (1996), Situated learning and education, Educational Researcher 25(4):5-11 (no leído; citado por la página de Wikipedia)"
+  - "Anderson, Reder y Simon (1996), Situated learning and education, Educational Researcher 25(4):5-11: https://www.andrew.cmu.edu/user/reder/publications/96_jra_lmr_has.pdf (primera página, con abstract e introducción, y la de referencias, leídas como imagen en la copia de la autora)"
+  - "Li, Grimshaw, Nielsen, Judd, Coyte y Graham (2009), Use of communities of practice in business and health care sectors: a systematic review, Implementation Science 4:27: https://pubmed.ncbi.nlm.nih.gov/19445723/ (abstract)"
+  - "Ranmuthugala, Plumb, Cunningham, Georgiou, Westbrook y Braithwaite (2011), How and why are communities of practice established in the healthcare sector? A systematic review of the literature, BMC Health Services Research 11:273: https://pubmed.ncbi.nlm.nih.gov/21999305/ (abstract)"
   - "Wikipedia, Situated learning (mapa): https://en.wikipedia.org/wiki/Situated_learning"
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-aprender-con-otros-2026-11.md"
 aliases: [situated learning, cognición situada, situated cognition, comunidades de práctica, communities of practice, participación periférica legítima, legitimate peripheral participation]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -17,7 +20,7 @@ revisado: 2026-11-27
 
 El aprendizaje situado es la perspectiva de Lave y Wenger (1991) según la cual aprender es participar en una comunidad de práctica, moviéndose de la periferia al centro. Sus autores dicen que no es un método de enseñanza sino una forma de analizar el aprendizaje, y Anderson, Reder y Simon (1996) discuten que se presente como respaldada por la psicología cognitiva.
 
-Es la capa de teoría de [Aprender con otros](aprender-con-otros.md), junto con la perspectiva sociocultural de Vygotsky, que se trata en [teorías del aprendizaje](../Fundamentos/teorias-del-aprendizaje.md). Todo lo que sigue sale de una página de Wikipedia usada como mapa; ni el libro de Lave y Wenger ni su crítica se leyeron.
+Es la capa de teoría de [Aprender con otros](aprender-con-otros.md), junto con la perspectiva sociocultural de Vygotsky, que se trata en [teorías del aprendizaje](../Fundamentos/teorias-del-aprendizaje.md). Lo de Lave y Wenger sale de una página de Wikipedia usada como mapa; el libro no se leyó. De la crítica se leyeron la primera página (abstract e introducción) y la de referencias.
 
 ## De la periferia al centro
 
@@ -36,7 +39,7 @@ Esto tiene una consecuencia práctica. No hay un «método de aprendizaje situad
 > [!IMPORTANT]
 > **El aprendizaje es participación situada (Lave y Wenger 1991).** Aprender es pasar de la periferia a la participación plena en una comunidad, con reconstrucción de la identidad.
 >
-> **La educación no puede apoyarse en eso como si fuera evidencia (Anderson, Reder y Simon 1996).** Cuestionan que se presente la opinión educativa del enfoque situado como respaldada por la psicología cognitiva. La página no da sus argumentos y el artículo no se leyó.
+> **La educación no puede apoyarse en eso como si fuera evidencia (Anderson, Reder y Simon 1996).** Cuestionan que se presente como derivada de la psicología cognitiva una opinión educativa «quite contrary to the body of empirical evidence». Revisan cuatro afirmaciones del enfoque: que la acción está atada a la situación concreta, que el conocimiento no se transfiere entre tareas, que entrenar en abstracto sirve de poco y que la instrucción tiene que darse en entornos sociales complejos. Para cada una citan estudios que muestran que «the claims are overstated». Le reconocen al movimiento haber llamado la atención sobre la distancia entre la escuela y el «mundo real», y aclaran que las implicaciones educativas que critican no siempre las respaldan los autores originales.
 >
 > La página agrega que la evidencia empírica que se lista a favor es débil: estudios chicos y de un solo curso.
 
@@ -44,10 +47,10 @@ Como lectura de esta base, la disputa se toca con la [transferencia](../Transfer
 
 ## Para qué sirve igual
 
-Como lente, la perspectiva invita a mirar cosas que una prueba no mide, como mirar trabajar a otros o las tareas de entrada que permiten participar sin saber todavía (lectura de esta base). Llevarla a la incorporación de personas a un equipo técnico también es inferencia de esta base; no se encontró evidencia sobre mentoría o comunidades en capacitación técnica de adultos. Lo que sí se midió de acompañar a alguien en su trayectoria está en [mentoría](../../Didactica/Tutoria-y-mentoria/mentoria.md).
+Como lente, la perspectiva invita a mirar cosas que una prueba no mide, como mirar trabajar a otros o las tareas de entrada que permiten participar sin saber todavía (lectura de esta base). Llevarla a la incorporación de personas a un equipo técnico también es inferencia de esta base. En salud, donde las comunidades de práctica se usan con adultos, dos revisiones sistemáticas no resuelven si funcionan. Li et al. (2009) no encontraron ningún estudio del sector que cumpliera sus criterios para el análisis cuantitativo, así que la efectividad «remained unclear». Ranmuthugala et al. (2011) revisaron 31 estudios y encontraron más esfuerzo por evaluar, pero intervenciones tan complejas que era difícil atribuir el cambio a la comunidad. Los dos se leyeron por abstract. Lo que sí se midió de acompañar a alguien en su trayectoria está en [mentoría](../../Didactica/Tutoria-y-mentoria/mentoria.md).
 
 > [!NOTE]
-> Sin fuente todavía: el libro de Lave y Wenger (1991), el artículo de Anderson, Reder y Simon (1996) y cualquier estudio empírico con diseño comparativo sobre comunidades de práctica.
+> Sin fuente todavía: el libro de Lave y Wenger (1991), con la frase de la página 40, y un estudio empírico con diseño comparativo sobre comunidades de práctica fuera de salud.
 
 ## Qué leer
 

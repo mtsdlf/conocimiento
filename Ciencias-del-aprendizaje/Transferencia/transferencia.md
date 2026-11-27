@@ -4,12 +4,14 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
-  - "Barnett y Ceci (2002), When and where do we apply what we learn? A taxonomy for far transfer, Psychological Bulletin 128(4):612-637: https://pubmed.ncbi.nlm.nih.gov/12081085/ (extractos vía buscador)"
-  - "Perkins y Salomon (1989, 1992), vía resúmenes secundarios: https://en.wikipedia.org/wiki/Transfer_of_learning"
+  - "Barnett y Ceci (2002), When and where do we apply what we learn? A taxonomy for far transfer, Psychological Bulletin 128(4):612-637: https://pubmed.ncbi.nlm.nih.gov/12081085/ (abstract)"
+  - "Perkins y Salomon (1992), Transfer of learning, International Encyclopedia of Education, 2.ª ed.: https://openlab.citytech.cuny.edu/fywpd/files/2020/01/transferoflearning.pdf (texto completo)"
+  - "National Research Council (2000), How People Learn, cap. 3, Learning and transfer: https://www.nationalacademies.org/read/9853/chapter/6 (capítulo leído)"
   - "Sala y Gobet (2017), Does far transfer exist?, Current Directions in Psychological Science: https://pubmed.ncbi.nlm.nih.gov/29276344/ (abstract)"
   - "Pan y Rickard (2018), Transfer of test-enhanced learning, Psychological Bulletin: https://pubmed.ncbi.nlm.nih.gov/29733621/ (abstract)"
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-metacognicion-memoria-transferencia-2026-11.md"
 aliases: [transfer, transfer of learning, transferencia del aprendizaje, aplicar lo aprendido]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -33,7 +35,9 @@ Sala y Gobet (2017) lo resumieron en una frase del abstract: "far transfer of le
 
 La caída también aparece fuera de la escuela. En capacitación laboral, según un resumen de investigación que ya cita la base, los [tamaños de efecto](../../Didactica/Fundamentos/evidencia-en-educacion.md) bajan al pasar de medir lo aprendido a medir la conducta en el trabajo (ver [aprender por cuenta propia](../../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md)).
 
-> [!NOTE] Sin fuente todavía: una fuente primaria leída que explique el mecanismo por el que la transferencia falla. Lo que hay son la taxonomía, los metaanálisis negativos y la lectura de Perkins y Salomon por resúmenes.
+Perkins y Salomon (1992) explican el mecanismo por sus dos caminos, y concluyen que "the conditions for transfer are stringent". El camino bajo necesita una práctica abundante y variada hasta automatizar, y una situación nueva lo bastante parecida para dispararla; muchas clases practican pocos ejemplos y pocas veces. El camino alto necesita abstraer el principio y buscar conexiones a propósito, y muchas clases no lo piden. Un caso que citan: con dos problemas de la misma estructura lógica y distinto disfraz, "subjects usually do not recognize the connection between one isomorph and the other", pero la aprovechan si se la señalan.
+
+*How People Learn* (NRC 2000) suma dos condiciones. La primera es el aprendizaje inicial: "Without an adequate level of initial learning, transfer cannot be expected", y memorizar sin entender no alcanza. La segunda es el contexto: "Knowledge that is taught in only a single context is less likely to support flexible transfer". En los estudios de analogías de Gick y Holyoak (1980), pocos universitarios resolvieron el problema nuevo por su cuenta, y más del 90 % lo resolvió cuando se les dijo que usaran la historia anterior.
 
 ## Qué sí la favorece
 
