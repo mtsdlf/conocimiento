@@ -18,12 +18,8 @@ aliases: [Maven archetype, Archetype, Plantilla de proyecto Maven]
 Un arquetipo de Maven es una plantilla de proyecto que `mvn archetype:generate` copia y completa
 con parámetros, para que todos los proyectos nuevos arranquen con la misma estructura.
 
-## Por qué no copiar otro servicio
-
-Sin plantilla, cada servicio nuevo copia otro existente y arrastra lo que tenga de más o de menos:
-dependencias viejas, otra estructura de paquetes, otra configuración de logs. Un arquetipo fija la
-estructura, las dependencias y los archivos base en un solo lugar versionado, y un proyecto nuevo
-sale con un comando. Un arquetipo es la plantilla de un [golden path](../../Platform-Engineering/Plataforma-interna/golden-path.md) para servicios Java.
+Es la implementación para Java de la [plantilla de proyecto](plantilla-de-proyecto.md), del tipo que
+copia una vez.
 
 ## Los recursos, el descriptor y el post-generate
 
@@ -64,6 +60,6 @@ configuración común del equipo.
 
 ## Arquetipo y proyecto padre
 
-Un proyecto padre (`<parent>` en el `pom.xml`). El padre se hereda y sus cambios llegan a todos
+Un proyecto padre (`<parent>` en el `pom.xml`) no es lo mismo: el padre se hereda y sus cambios llegan a todos
 los hijos en la próxima versión; el arquetipo se copia una sola vez, y lo generado ya no se
 actualiza solo.

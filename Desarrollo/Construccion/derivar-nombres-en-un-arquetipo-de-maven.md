@@ -20,7 +20,7 @@ de Maven, sea por parámetros o con un script post-generate en Groovy.
 
 ## El objetivo y por qué hay dos caminos
 
-- Entender cómo un arquetipo copia y filtra archivos: [Arquetipo de Maven](arquetipo-de-maven.md).
+- Entender cómo un arquetipo copia y filtra archivos: [Arquetipo de Maven](arquetipo-de-maven.md), la implementación para Java de la [plantilla de proyecto](plantilla-de-proyecto.md).
 - El objetivo: con `-DartifactId=orden-de-compra-api`, que el proyecto traiga
   `OrdenDeCompraService.java`, la variable `ordenDeCompra` y la tabla `orden_de_compra`.
 - Un `defaultValue` del descriptor acepta expresiones de Velocity sobre otras propiedades (sobre

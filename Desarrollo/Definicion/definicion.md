@@ -10,7 +10,6 @@ fuentes:
   - https://www.thoughtworks.com/radar/techniques/spec-driven-development
   - https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.84
   - https://arxiv.org/abs/2608.25202
-  - https://arxiv.org/abs/1609.04886
   - https://arxiv.org/abs/2502.13069
   - https://code.claude.com/docs/en/best-practices
   - https://learn.chatgpt.com/guides/best-practices
@@ -46,18 +45,13 @@ Por debajo de los cuatro corre el [modelo de dominio](modelo-de-dominio.md): el 
 
 ## El documento gigante pierde peso, la especificación por tramos gana
 
-El documento de requisitos completo, escrito al principio y congelado, pierde peso. Al mismo tiempo, el desarrollo guiado por especificaciones vuelve a poner un texto escrito antes del código, y lo hace el insumo principal del agente.
+El documento de requisitos completo, escrito al principio y congelado, pierde peso, mientras el desarrollo guiado por especificaciones vuelve a poner un texto escrito antes del código como insumo principal del agente. Lo que pierde peso es la forma, no la idea de escribir antes: como criterio de esta base, sin un estudio que compare las dos, cede el documento único y gana la especificación por tramos; quién lo dice y con qué evidencia está en [lo que pierde peso](../Fundamentos/lo-que-pierde-peso-en-desarrollo.md#el-documento-de-requisitos-gigante-y-congelado).
 
-Lo que pierde peso es la forma, no la idea de escribir antes. Böckeler, que probó las herramientas de especificación para agentes, dice: "I'm very skeptical that lots of up-front spec design is a good idea" y "The past has shown that the best way for us to stay in control of what we're building are small, iterative steps". Según su resumen, el estudio de Agarwal y otros sobre la práctica real (21 entrevistas y 266 repositorios, preprint) encuentra que las especificaciones se usan de forma selectiva, sobre todo en funcionalidades nuevas, y que las que traen detalles de implementación tienden a quedar viejas. Menzies y otros, sobre 171 proyectos, no encontraron evidencia consistente de que arreglar un defecto tarde cueste mucho más (según su resumen), lo que debilita el argumento económico de especificar todo antes.
-
-> [!IMPORTANT]
-> No hay un estudio que compare el documento de requisitos completo con la especificación por tramos. Que pierda peso el documento único y congelado, y no la especificación de cada cambio chico, es criterio de esta base, apoyado en Böckeler (práctica) y en Menzies (indirecto). Las normas siguen describiendo documentos de requisitos: ISO/IEC/IEEE 29148:2018 "defines the construct of a good requirement, provides attributes and characteristics of requirements".
-
-Criterio de esta base: de las normas sigue sirviendo el vocabulario de qué hace bueno a un requisito y la diferencia entre requisito y diseño. Cómo se aplica eso a una especificación chica está en [especificación](especificacion.md).
+Criterio de esta base: de las normas, que siguen describiendo documentos de requisitos, sirve el vocabulario de qué hace bueno a un requisito y la diferencia entre requisito y diseño. Cómo se aplica eso a una especificación chica está en [especificación](especificacion.md#qué-hace-bueno-a-un-requisito).
 
 ## La evidencia sobre especificar para agentes es mixta
 
-El desarrollo guiado por especificaciones (spec-driven development) es una práctica emergente. Los tres niveles con que se lo describe (la especificación antes de la tarea, la que se conserva y evoluciona, y la que reemplaza al código como fuente) son una clasificación de Böckeler, no un estándar.
+El desarrollo guiado por especificaciones (spec-driven development) es una práctica emergente. Sus [tres niveles](especificacion.md#los-tres-niveles-del-desarrollo-guiado-por-especificaciones) son una clasificación de Böckeler, no un estándar.
 
 > [!IMPORTANT]
 > No hay estudio empírico que respalde el desarrollo guiado por especificaciones con agentes. Hill (ESEM 2026), sobre 88.052 pull requests de 119 repositorios, no encontró efecto de la calidad de la especificación sobre defectos (p = 0,164) ni sobre retrabajo (p = 0,860); el propio autor aclara que lo medido son sobre todo enlaces a tickets y que ningún repositorio de la muestra versiona la salida de herramientas de especificación. A favor hay solo evidencia acotada, sobre generación de pruebas. Thoughtworks lo puso en "Assess" en su Radar de noviembre de 2025. El detalle está en [especificación](especificacion.md).
@@ -66,9 +60,9 @@ Las guías de Anthropic y OpenAI piden, como base de todo, un chequeo que dé pa
 
 ## La ambigüedad se cierra antes de construir
 
-Los agentes no detectan bien lo que falta en un pedido. En el estudio Ambig-SWE (ICLR 2026), los modelos tuvieron dificultad para distinguir tareas bien especificadas de subespecificadas y por defecto no preguntaban; cuando se los dejaba interactuar, el rendimiento en las tareas subespecificadas mejoró hasta un 74 % (según su resumen). Por eso una especificación lleva sus preguntas abiertas y sus supuestos a la vista, y conviene que el agente esté configurado para preguntar.
+Los agentes no detectan bien lo que falta en un pedido y por defecto no preguntan, según el estudio Ambig-SWE que se cuenta en [especificación](especificacion.md#las-partes-de-una-especificación-de-un-cambio); por eso una especificación lleva sus preguntas abiertas y sus supuestos a la vista, y conviene que el agente esté configurado para preguntar.
 
-La guía de Anthropic propone invertir la entrevista cuando el pedido no está pensado del todo: que el agente entreviste a la persona "until you could write the spec", y que la construcción arranque en una sesión nueva "so the build begins with a clean context and a written definition of done". Las preguntas que no se pueden contestar en la sala son las que hay que llevarle al cliente, y con eso se vuelve a [Encargo](../Encargo/encargo.md).
+Cuando el pedido no está pensado del todo, la guía de Anthropic propone invertir la entrevista: el agente entrevista a la persona y la construcción arranca en una sesión nueva, como cuenta [especificación](especificacion.md#escribirla-con-el-agente-y-construir-con-otro-contexto). Las preguntas que no se pueden contestar en la sala son las que hay que llevarle al cliente, y con eso se vuelve a [Encargo](../Encargo/encargo.md).
 
 ## Lo que esta vertical deja a otros temas
 

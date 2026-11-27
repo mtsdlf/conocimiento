@@ -27,7 +27,7 @@ Dentro del ciclo técnico de [Desarrollo](../desarrollo.md), Verificación recib
 
 ## Verificar contra lo definido, validar contra lo que se necesitaba
 
-Esta base separa dos preguntas. Verificar pregunta si se construyó bien, según lo definido: las pruebas pasan, el contrato se respeta, el revisor no encontró huecos contra la especificación. Validar pregunta si lo definido era lo que el cliente necesitaba, y eso solo lo contesta el cliente usando el software, en la aceptación de cada incremento.
+Esta base separa dos preguntas. Verificar pregunta si se construyó bien, según lo definido: las pruebas pasan, el contrato se respeta, el revisor no encontró huecos contra la [especificación](../Definicion/especificacion.md). Validar pregunta si lo definido era lo que el cliente necesitaba, y eso solo lo contesta el cliente usando el software, en la aceptación de cada incremento.
 
 Las dos fallan por separado. Un sistema puede pasar todas sus pruebas y resolver el problema equivocado; eso es una falla de [Definición](../Definicion/definicion.md) o del [acuerdo inicial](../Encargo/acuerdo-inicial.md), y ninguna prueba la detecta. Por eso Verificación trabaja contra lo escrito y deja la otra pregunta al ciclo con el cliente.
 
@@ -48,7 +48,7 @@ El reparto en tres capas es síntesis de esta base a partir de varias fuentes, n
 
 ## La prueba como señal, no como ritual
 
-Las pruebas valen por la señal que dan: rápidas, confiables y que fallen por buenas razones. La forma de la suite (cuántas de unidad, cuántas de integración) importa menos que eso, como se discute en la [pirámide de pruebas](piramide-de-pruebas.md). Escribir la prueba antes, como pide [TDD](tdd.md), sirve como definición de terminado para un agente, aunque la evidencia sobre su efecto en la calidad es nula o mixta.
+Las pruebas valen por la señal que dan: rápidas, confiables y que fallen por buenas razones. La forma de la suite (cuántas de unidad, cuántas de integración) importa menos que eso, como se discute en la [pirámide de pruebas](piramide-de-pruebas.md). Escribir la prueba antes, como pide [TDD](tdd.md), sirve como contrato de terminado para un agente, aunque la evidencia sobre su efecto en la calidad es nula o mixta.
 
 La cobertura de líneas no mide si las pruebas detectan fallas. Inozemtseva y Holmes (ICSE 2014) encontraron, según un resumen de su trabajo, una correlación de baja a moderada entre cobertura y efectividad al controlar por el número de casos. Las pruebas de mutación miden directamente si la suite detecta un cambio en el código, y por eso están en [verificar lo que hizo un agente](verificar-lo-que-hizo-un-agente.md).
 
@@ -61,7 +61,7 @@ De ahí sale la regla de esta vertical: lo que entrega un agente se acepta con e
 ## Qué hay adentro de Verificación
 
 - [Pirámide de pruebas](piramide-de-pruebas.md): qué se prueba a qué nivel, las formas alternativas (trofeo, panal) y las pruebas de contrato.
-- [TDD](tdd.md): la prueba primero, como señal y definición de terminado, con su evidencia mixta.
+- [TDD](tdd.md): la prueba primero, como señal y contrato de terminado, con su evidencia nula o mixta.
 - [Diseñar casos de prueba de una API](disenar-casos-de-prueba-de-api.md): el formato y las categorías de casos para una API REST.
 - [Revisión de código](revision-de-codigo.md): qué revisa una persona, qué otro agente y qué una herramienta.
 - [Verificar lo que hizo un agente](verificar-lo-que-hizo-un-agente.md): señales de trabajo incompleto o inventado, y las pruebas de mutación.

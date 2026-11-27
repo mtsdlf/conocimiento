@@ -68,6 +68,6 @@ Con eso, esta base sostiene una inferencia: un agente acumula deuda más rápido
 
 ## Medir la deuda en puntos pierde peso
 
-Pierde peso medir la deuda en puntos de historia o reservar un porcentaje fijo de cada iteración para pagarla; es criterio de esta base, ninguna fuente leída lo estudia. El cuadrante sigue valiendo como vocabulario. Las decisiones de estructura que generan deuda grande, como acoplar módulos que deberían estar separados, son de [Arquitectura](../../Arquitectura/Modularidad/modularidad.md).
+[Pierde peso](../Fundamentos/lo-que-pierde-peso-en-desarrollo.md#lo-que-pierde-peso-en-cada-etapa), en criterio de esta base, medir la deuda en puntos de historia (story points) o reservar un porcentaje fijo de cada iteración para pagarla. Ninguna fuente leída lo estudia. El cuadrante sigue valiendo como vocabulario. Las decisiones de estructura que generan deuda grande, como acoplar módulos que deberían estar separados, son de [Arquitectura](../../Arquitectura/Modularidad/modularidad.md).
 
 Para leer: el cuadrante de Fowler, que es breve, y Besker 2019 para el costo.

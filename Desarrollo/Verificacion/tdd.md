@@ -2,7 +2,7 @@
 resumen: >-
   TDD (desarrollo guiado por pruebas) es escribir primero una prueba que falla, después el código
   que la hace pasar y por último ordenar el código. Con agentes vale sobre todo como señal de
-  retroalimentación y definición de terminado; su efecto sobre la calidad no está probado.
+  retroalimentación y contrato de terminado; su efecto sobre la calidad no está probado.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -20,7 +20,7 @@ revisado:
 
 # TDD
 
-TDD (desarrollo guiado por pruebas) es escribir primero una prueba que falla, después el código que la hace pasar y por último ordenar el código. Con agentes vale sobre todo como señal de retroalimentación y definición de terminado; su efecto sobre la calidad no está probado.
+TDD (desarrollo guiado por pruebas) es escribir primero una prueba que falla, después el código que la hace pasar y por último ordenar el código. Con agentes vale sobre todo como señal de retroalimentación y contrato de terminado; su efecto sobre la calidad no está probado.
 
 El ciclo se conoce como rojo, verde, refactor: la prueba falla (rojo), el código mínimo la hace pasar (verde) y después se mejora la forma sin cambiar el comportamiento, que es [refactorizar](../Evolucion/refactorizar.md). La referencia es el libro de Kent Beck, *Test-Driven Development by Example* (2002), que esta base no leyó.
 
@@ -42,7 +42,7 @@ Birgitta Böckeler probó TDD dentro del ciclo de un agente, en el sitio de Fowl
 
 Es una evaluación pequeña, con un modelo como juez y sin fecha visible en la página: sirve como señal, no como prueba.
 
-## La prueba como definición de terminado
+## La prueba como contrato de terminado
 
 Lo que sobrevive con agentes es la prueba como contrato de terminado. La guía de buenas prácticas de Anthropic para su agente de código (leída el 2026-11-27) da un ejemplo: el pedido débil es "fix the login bug"; el fuerte pide escribir una prueba que reproduzca el fallo y después arreglarlo. Y pide evidencia, "the command it ran and its output", en lugar de un "pasan todas las pruebas" a secas.
 
@@ -57,6 +57,6 @@ Thoughtworks, en su Radar de noviembre de 2025, recomienda reforzar "established
 
 ## El ritual que pierde peso
 
-Pierde peso el ciclo rojo-verde-refactor como ritual obligatorio para cada línea que escribe un agente, y la cobertura como objetivo. TDD sigue vigente como práctica de diseño para una persona y como la forma de pedir una prueba que reproduzca un bug. Dónde se ubica la prueba en la suite está en la [pirámide de pruebas](piramide-de-pruebas.md).
+[Pierde peso](../Fundamentos/lo-que-pierde-peso-en-desarrollo.md#lo-que-pierde-peso-en-cada-etapa) el ciclo rojo-verde-refactor como ritual obligatorio para cada línea que escribe un agente, y la cobertura como objetivo. TDD sigue vigente como práctica de diseño para una persona y como la forma de pedir una prueba que reproduzca un bug. Dónde se ubica la prueba en la suite está en la [pirámide de pruebas](piramide-de-pruebas.md).
 
 Para leer: el resumen de Fucci et al. (2017) para ver qué pesa del proceso, y el artículo de Böckeler para ver cómo se comporta un agente, en el apartado de adherencia y costo.

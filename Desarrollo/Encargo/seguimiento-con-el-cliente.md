@@ -43,7 +43,7 @@ Para la pregunta de cuándo, hay dos formas que se apoyan en lo terminado. Duart
 
 El plan sigue sirviendo como referencia. Fowler dice que «a plan acts as a baseline to help assess changes»: muestra qué se movió y ayuda a decidir qué hacer.
 
-En criterio de esta base, pierden peso el informe semanal con un porcentaje de avance y el gráfico de puntos quemados como evidencia para el cliente. La evidencia es software corriendo y ritmo medido en ítems entregados. Que la velocidad no sirve como medida de productividad tiene respaldo, como cuenta [estimación](estimacion.md#lo-que-pierde-peso-y-con-qué-respaldo); el porcentaje de avance no se encontró evaluado.
+En criterio de esta base, [pierden peso](../Fundamentos/lo-que-pierde-peso-en-desarrollo.md#lo-que-pierde-peso-en-cada-etapa) el informe semanal con un porcentaje de avance y el gráfico de puntos quemados como evidencia para el cliente. La evidencia es software corriendo y ritmo medido en ítems entregados. Que la velocidad (velocity) no sirve como medida de productividad tiene respaldo, como cuenta [estimación](estimacion.md#lo-que-pierde-peso-y-con-qué-respaldo); el porcentaje de avance no se encontró evaluado.
 
 ## Los riesgos con el cliente
 
@@ -56,6 +56,6 @@ Qué riesgos se miran con el cliente y cuándo no tiene nota propia. El informe 
 
 El riesgo nuevo es cantidad sin dirección: muchas rebanadas chicas que nadie del cliente revisa. La lectura de esta base es que la demostración frecuente es lo que deja corregir el rumbo antes de que se acumule código, y que conviene decirle al cliente qué hizo un agente y cómo se verificó; el detalle de qué verifica una persona está en [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md). No hay fuente específica para el cliente.
 
-Según el resumen de DORA 2025, las ganancias locales de productividad de la IA se pierden en lo que viene después de escribir el código (integrar, desplegar, operar). Para el seguimiento, en criterio de esta base, eso quiere decir que lo que se muestra al cliente tiene que estar desplegado, no solo en una rama. Las métricas de entrega que propone DORA están en [métricas DORA](../../DevOps/Cultura-y-medicion/metricas-dora.md).
+Según el resumen de DORA 2025, la aceleración puede dejar a la vista debilidades en lo que viene después de escribir el código (integrar, desplegar, operar), como cuenta [agente de código](../Construccion/agente-de-codigo.md). Para el seguimiento, en criterio de esta base, eso quiere decir que lo que se muestra al cliente tiene que estar desplegado, no solo en una rama. Las métricas de entrega que propone DORA están en [métricas DORA](../../DevOps/Cultura-y-medicion/metricas-dora.md).
 
 Para leer: el *Scrum Guide*, sección Sprint Review, para el propósito de la demostración, y el *Primer*, secciones Acceptance y Payment, para volver contractual esa evidencia. Fijate en que el cliente decida sobre algo que corre.

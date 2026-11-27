@@ -46,7 +46,7 @@ Casi ningún libro se leyó entero para escribir el tema: de varios se usaron el
 
 | Recurso | Qué leer | En qué fijarse |
 |---|---|---|
-| Farley, *Modern Software Engineering* (Addison-Wesley, 2021; copyright 2022) | Parte II, "Optimize for Learning" (caps. 4 a 8); la Parte III va con [Arquitectura](../../Arquitectura/arquitectura.md) | Los cinco principios de aprender rápido, que ordenan este tema |
+| Farley, *Modern Software Engineering* (Addison-Wesley, 2021; copyright 2022) | Parte II, "Optimize for Learning" (caps. 4 a 8); la Parte III va con [Arquitectura](../../Arquitectura/arquitectura.md) | Los cinco principios de aprender rápido (iterar, buscar retroalimentación, avanzar por incrementos, decidir con evidencia y experimentar), que ordenan este tema |
 | Forsgren, Humble y Kim, *Accelerate* (2018) | Las métricas de entrega y las capacidades | Qué es evidencia y qué es correlación; el aviso de DORA de 2023 contra evaluar equipos con las métricas |
 | DORA, informe 2025 | Lo que dice sobre la IA como amplificador y los controles que la acompañan | Que son correlaciones de encuesta |
 | Scrum Guide 2020 (gratis) | Entera, es corta | Que se define como marco "purposefully incomplete" |
@@ -60,9 +60,9 @@ Las escuelas que salen de estas lecturas están en [escuelas de desarrollo](escu
 | Recurso | Qué leer | En qué fijarse |
 |---|---|---|
 | Adzic, *Specification by Example* (Manning, 2011) | El ciclo: derivar el alcance de los objetivos, especificar en colaboración, ilustrar con ejemplos, automatizar la validación | Ejemplos concretos como especificación y documentación viva |
-| Cohn, *User Stories Applied* (edición sin verificar) | Qué es una buena historia | La historia como inicio de una conversación, no como especificación completa |
+| Cohn, *User Stories Applied* (Addison-Wesley, 2004; no leído) | Qué es una buena historia | La historia como inicio de una conversación, no como especificación completa |
 | Referencia de Gherkin (Cucumber) | Given, When, Then y `Rule` | Que Then afirme algo observable y que el ejemplo describa comportamiento, no implementación |
-| Evans, *Domain-Driven Design* (edición sin verificar) y su DDD Reference (gratis, marzo de 2015) | La parte de lenguaje ubicuo y la de contextos delimitados | El vocabulario del negocio igual en el código |
+| Evans, *Domain-Driven Design* (Addison-Wesley, 2003; no leído) y su DDD Reference (gratis, marzo de 2015) | La parte de lenguaje ubicuo y la de contextos delimitados | El vocabulario del negocio igual en el código |
 | ISO/IEC/IEEE 29148:2018 (de pago) | Solo los atributos de un buen requisito | Necesario, no ambiguo, verificable, trazable (lista sin verificar en la norma); no el documento entero como entregable |
 
 Se usan en [especificación](../Definicion/especificacion.md), [criterios de aceptación](../Definicion/criterios-de-aceptacion.md), [historia de usuario](../Definicion/historia-de-usuario.md) y [modelo de dominio](../Definicion/modelo-de-dominio.md).
@@ -71,7 +71,7 @@ Se usan en [especificación](../Definicion/especificacion.md), [criterios de ace
 
 | Recurso | Qué leer | En qué fijarse |
 |---|---|---|
-| Beck, *Test-Driven Development by Example* (edición sin verificar) | Las primeras dos partes (sin verificar) | El ritmo rojo, verde, refactorizar; la evidencia sobre calidad es mixta |
+| Beck, *Test-Driven Development by Example* (2002; no leído) | Las primeras dos partes (sin verificar) | El ritmo rojo, verde, refactorizar; la evidencia sobre calidad es mixta |
 | "The Practical Test Pyramid" (martinfowler.com) | Entero | Que el propio artículo llama simplista al modelo de la pirámide |
 | Böckeler, sobre TDD en el bucle de un agente (martinfowler.com) | Los hallazgos | Agentes que se saltan el paso rojo y pruebas tautológicas |
 
@@ -81,7 +81,7 @@ Se usan en [pirámide de pruebas](../Verificacion/piramide-de-pruebas.md) y [TDD
 
 | Recurso | Qué leer | En qué fijarse |
 |---|---|---|
-| Feathers, *Working Effectively with Legacy Code* (edición sin verificar) | Las partes de seams y de pruebas de caracterización (capítulos sin verificar) | Su definición: código heredado es código sin pruebas |
+| Feathers, *Working Effectively with Legacy Code* (2004; no leído) | Las partes de seams y de pruebas de caracterización (capítulos sin verificar) | Su definición: código heredado es código sin pruebas |
 | Fowler, *Refactoring*, 2ª ed. (2018) | El capítulo 1 y el de pruebas; el catálogo como vocabulario | Pasos chicos sostenidos por pruebas |
 | Ousterhout, *A Philosophy of Software Design* (edición sin verificar) | Lo que indica la [bibliografía de Arquitectura](../../Arquitectura/Fundamentos/bibliografia-de-arquitectura.md) | Módulos profundos como contrapeso a partir el código por reflejo |
 
@@ -107,6 +107,6 @@ Se usan en [agente de código](../Construccion/agente-de-codigo.md), [contexto d
 | Singer, *Shape Up*, cap. 2, "Principles of Shaping" | Entero | El trabajo moldeado como "rough", "solved" y "bounded": le dice al equipo dónde parar |
 | Jørgensen, revisión de estudios sobre estimación experta (2004) | El resumen y las prácticas recomendadas | Que las estimaciones se quedan cortas de forma sistemática |
 | Eveleens y Verhoef, "The Rise and Fall of the Chaos Report Figures" (IEEE Software, 2010) | El resumen | Por qué no citar el CHAOS como dato |
-| McConnell, *Software Estimation*; Vacanti, *When Will It Be Done?*; Opelt et al., *Agile Contracts* (las tres, edición sin verificar) | No se leyeron | Pendientes para estimación por rangos, previsión por flujo y contratos |
+| McConnell, *Software Estimation* (2006); Vacanti, *When Will It Be Done?* (edición sin verificar); Opelt y otros, *Agile Contracts* (Wiley, 2013) | No se leyeron | Pendientes para estimación por rangos, previsión por flujo y contratos |
 
 Se usan en [acuerdo inicial](../Encargo/acuerdo-inicial.md), [estimación](../Encargo/estimacion.md) y [modelos de contrato y cobro](../Encargo/modelos-de-contrato-y-cobro.md); el caso del precio cerrado tiene su propia bibliografía en [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md).

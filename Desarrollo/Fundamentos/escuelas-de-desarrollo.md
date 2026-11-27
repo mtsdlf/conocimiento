@@ -52,14 +52,14 @@ El [tema](../desarrollo.md) se escribe desde la ingeniería de software moderna 
 | Ingeniería moderna | Optimizar para aprender y para gestionar la complejidad | Farley, 2021 | Se apoya en DORA |
 | DORA como evidencia | Medir entrega y estabilidad | Forsgren, Humble y Kim, 2018 | Encuestas grandes, correlaciones |
 | Predictiva o cascada | Un plan completo por fases | Atribuida a Royce, 1970 | Contraste |
-| Guiado por especificaciones | La especificación antes del código | Böckeler; Radar | No se hallaron estudios |
+| Guiado por especificaciones | La especificación antes del código | Böckeler; Radar | Pocos estudios, ninguno que la respalde |
 | Posturas sobre IA | Cuánto se revisa lo que escribe el modelo | Karpathy, Willison, Beck | Textos de practicantes |
 
 ## Ágil, XP y Scrum: los valores y los marcos que salieron de ellos
 
 El Manifiesto Ágil (2001, 17 firmantes) prefiere, entre otros valores, "Working software over comprehensive documentation" y "Responding to change over following a plan". Según el resumen de Rytkönen et al. (2024), hay "far less empirical evidence on agile benefits than the method's popularity would suggest". DORA respalda prácticas concretas, como entregar en lotes chicos, más que la etiqueta.
 
-XP nació en el proyecto C3 de Chrysler, que Beck lideró desde 1996; *Extreme Programming Explained* salió en 1999 y su segunda edición, con Cynthia Andres, en 2004. Sus prácticas técnicas (TDD, integración continua, refactorización, entregas chicas) son la base de la escuela de este tema y viven en [Verificación](../Verificacion/verificacion.md), [Evolución](../Evolucion/evolucion.md) e [integración continua](../../DevOps/Integracion-y-entrega/integracion-continua.md).
+XP nació en el proyecto C3 de Chrysler, que Beck lideró desde 1996; *Extreme Programming Explained* salió en 1999 y su segunda edición, con Cynthia Andres, en 2004. Sus prácticas técnicas ([TDD](../Verificacion/tdd.md), de evidencia nula o mixta; integración continua; [refactorización](../Evolucion/refactorizar.md); entregas chicas) son la base de la escuela de este tema y viven en [Verificación](../Verificacion/verificacion.md), [Evolución](../Evolucion/evolucion.md) e [integración continua](../../DevOps/Integracion-y-entrega/integracion-continua.md).
 
 La Scrum Guide 2020 define Scrum como "a lightweight framework", con cinco eventos (Sprint, Sprint Planning, Daily Scrum, Sprint Review y Sprint Retrospective) y tres responsabilidades (Developers, Product Owner y Scrum Master), y se declara "purposefully incomplete". Por qué el Scrum con todas sus ceremonias es acá contraste está en [lo que pierde peso](lo-que-pierde-peso-en-desarrollo.md).
 
@@ -71,15 +71,15 @@ Entre las capacidades que *Accelerate* asocia con mejor desempeño están el flu
 
 ## Shape Up: apetito en lugar de estimación
 
-Shape Up (Singer, Basecamp) trabaja en ciclos de seis semanas, le da forma al trabajo antes de dárselo al equipo y fija el apetito, "The amount of time we want to spend on a project, as opposed to an estimate". El *circuit breaker* cancela por defecto lo que no sale en un ciclo. Al tema le sirve para el ciclo con el cliente: el apetito alimenta la [estimación](../Encargo/estimacion.md) y el corte por defecto, los [cambios de alcance](../Encargo/cambios-de-alcance.md). La escuela entera está en [Shape Up](../../Producto/Planificacion-y-entrega/shape-up.md); su evidencia es la práctica de una empresa.
+Shape Up (Singer, Basecamp) trabaja en ciclos de seis semanas, le da forma al trabajo antes de dárselo al equipo y fija el apetito, "The amount of time we want to spend on a project, as opposed to an estimate". El *circuit breaker* cancela por defecto lo que no sale en un ciclo. Al tema le sirve para el ciclo con el cliente: el apetito alimenta la [estimación](../Encargo/estimacion.md) y el corte por defecto, los [cambios de alcance](../Encargo/cambios-de-alcance.md). La escuela entera está en [Shape Up](../../Producto/Planificacion-y-entrega/shape-up.md).
 
 ## Ingeniería moderna y DORA: aprender rápido, medido
 
-Farley (*Modern Software Engineering*) organiza el oficio en dos ejes: optimizar para aprender (iterar, retroalimentación, incrementalismo, empirismo, experimentar) y optimizar para gestionar la complejidad (modularidad, cohesión, separación de responsabilidades, ocultamiento de información, acoplamiento). El primero ordena este tema; el segundo vive en [modularidad](../../Arquitectura/Modularidad/modularidad.md).
+Farley (*Modern Software Engineering*) organiza el oficio en dos ejes: optimizar para aprender (iterar, buscar retroalimentación, avanzar por incrementos, decidir con evidencia (empirismo) y experimentar) y optimizar para gestionar la complejidad (modularidad, cohesión, separación de responsabilidades, ocultamiento de información, acoplamiento). El primero ordena este tema; el segundo vive en [modularidad](../../Arquitectura/Modularidad/modularidad.md).
 
 *Accelerate* (Forsgren, Humble y Kim, 2018) le dio su evidencia: cuatro métricas de entrega y 24 capacidades, sobre unos 23.000 datos de encuestas. En octubre de 2023 DORA advirtió contra usar las métricas para evaluar equipos individuales; las actuales están en [métricas DORA](../../DevOps/Cultura-y-medicion/metricas-dora.md).
 
-DORA 2025 (casi 5.000 profesionales) encontró una relación positiva entre la adopción de IA y el rendimiento de entrega, y una que "does continue to have a negative relationship with software delivery stability". Su lectura: "AI doesn't fix a team; it amplifies what's already there". Son correlaciones de encuesta.
+DORA 2025 (casi 5.000 profesionales) encontró una relación positiva entre la adopción de IA y el volumen de entrega (throughput) y el desempeño del producto, y una que "does continue to have a negative relationship with software delivery stability". Su lectura: "AI doesn't fix a team; it amplifies what's already there". Son correlaciones de encuesta.
 
 ## La cascada y el malentendido de Royce
 
@@ -92,9 +92,7 @@ Planificar la intención por adelantado sigue siendo necesario, y este tema lo h
 
 ## Guiado por especificaciones: la especificación vuelve, con dudas
 
-El desarrollo guiado por especificaciones (spec-driven development) le da al agente, antes del código, una especificación escrita como fuente de verdad. Böckeler (octubre de 2025) distingue tres niveles: *spec-first* (se usa y se descarta), *spec-anchored* (se mantiene junto al código) y *spec-as-source* (es lo único que se edita); las herramientas que revisó son todas spec-first.
-
-Su crítica es de practicante: una herramienta convirtió un bug chico en cuatro historias con 16 criterios de aceptación, otra le resultó "very verbose and tedious to review", y vio seguido al agente no seguir todas las instrucciones. El Radar de Thoughtworks lo puso en Assess en noviembre de 2025. No hay estudios sobre la práctica. El tema toma de acá la [especificación](../Definicion/especificacion.md) con ejemplos verificables y un flujo proporcional al tamaño del cambio.
+El desarrollo guiado por especificaciones (spec-driven development) le da al agente, antes del código, una especificación escrita como fuente de verdad. Böckeler (octubre de 2025) lo ordena en tres niveles, y en la práctica casi todas las herramientas son spec-first. Su crítica es de practicante: especificaciones desproporcionadas, tediosas de revisar, y agentes que no siguen todas las instrucciones. El Radar de Thoughtworks lo puso en Assess en noviembre de 2025, y los pocos estudios que hay no la respaldan (Hill, ESEM 2026; Agarwal y otros, preprint). Los niveles, el detalle por herramienta y la evidencia están en [especificación](../Definicion/especificacion.md); el tema toma de ahí la especificación con ejemplos verificables y un flujo proporcional al tamaño del cambio.
 
 ## Cuánto se revisa lo que escribe el modelo: las posturas sobre IA
 
@@ -103,6 +101,6 @@ Su crítica es de practicante: una herramienta convirtió un bug chico en cuatro
 - Augmented coding. Beck (junio de 2025) sigue cuidando el código ("tidy code that works") aunque no lo tipee, y avisa de bucles, funcionalidad no pedida y pruebas borradas o desactivadas.
 - Ingeniería con agentes. La documentación de Anthropic pide decirle al agente lo que no puede ver y darle una verificación para correr.
 
-La postura de este tema es la de Beck y Willison: el agente escribe y lo que entrega se acepta con evidencia, como dice [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md). Cuánto acelera un agente está en disputa: METR midió en 2025 un 19 % más de tiempo con IA, pero advirtió en febrero de 2026 que ese diseño ya no mide bien, y otros ensayos miden ganancias; el detalle está en [agente de código](../Construccion/agente-de-codigo.md).
+La postura de este tema es la de Beck y Willison: el agente escribe y lo que entrega se acepta con evidencia, como dice [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md). Cuánto acelera un agente está en disputa, como cuenta [agente de código](../Construccion/agente-de-codigo.md).
 
-> [!NOTE] Sin fuente todavía: una comparación con método entre Scrum, Kanban y Shape Up, y cualquier estudio sobre el desarrollo guiado por especificaciones.
+> [!NOTE] Sin fuente todavía: una comparación con método entre Scrum, Kanban y Shape Up.

@@ -13,6 +13,8 @@ fuentes:
   - https://metr.org/blog/2026-1-29-time-horizon-1-1
   - https://arxiv.org/abs/2503.14499
   - https://kiro.dev/docs/specs/
+  - "Bain, Designing Agile Missions (según resumen): https://www.bain.com/insights/designing-agile-missions/"
+  - "User stories and vertical slicing, dev.to (según resumen): https://dev.to/jan/user-stories-and-vertical-slicing-1dpo"
 aliases: [descomponer, partir historias, splitting user stories, rebanada vertical, vertical slice, slicing, tarea, desglose de tareas, tamaño de tarea]
 creado: 2026-11-27
 revisado:
@@ -28,7 +30,9 @@ Es el último paso de [Definición](definicion.md) antes de [Construcción](../C
 
 Richard Lawrence (Humanizing Work) define una buena porción como "a work item that delivers a valuable change in system behavior". Una porción horizontal cubre una sola capa (la tabla, el endpoint, la pantalla) y no cambia nada que se pueda ver hasta que llegan las otras. La vertical atraviesa todas las capas con poco ancho: la consigna es "find thin vertical slices inside those wide ones".
 
-El desglose clásico por capa (una tarea de base de datos, otra de API, otra de interfaz) va contra esa idea. Lectura de esta base: con agentes pesa más, porque una tarea horizontal no tiene un comportamiento que se pueda comprobar y por eso no tiene un criterio de pasa o falla propio.
+El desglose clásico por capa (una tarea de base de datos, otra de API, otra de interfaz) va contra esa idea. Según materiales secundarios que coinciden entre sí, las rebanadas horizontales no entregan valor solas. Hay voces en contra: un equipo que corta en horizontal a propósito y entrega un grupo de historias como una función, y la idea de *dicing*, rebanadas que no valen hasta que se juntan. Todo esto viene de blogs y se toma como práctica aceptada, no como resultado medido. En un encargo, cada incremento del [plan de entregas](../Encargo/plan-de-entregas.md) se arma con una o más de estas rebanadas.
+
+Lectura de esta base: con agentes el corte vertical pesa más, porque una tarea horizontal no tiene un comportamiento que se pueda comprobar y por eso no tiene un criterio de pasa o falla propio.
 
 ## Los patrones para partir
 

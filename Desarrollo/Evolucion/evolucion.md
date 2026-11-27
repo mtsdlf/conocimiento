@@ -31,7 +31,7 @@ Sin esas pruebas no hay forma barata de saber si un cambio rompió algo (inferen
 
 ## Lo que cambia cuando el código lo cambia un agente
 
-Los agentes tiran en dos direcciones. Por un lado, la deuda se acumula más rápido: según el resumen de un estudio causal sobre repositorios que adoptaron un editor con agente (MSR 2026), la ganancia de velocidad fue transitoria y el aumento de complejidad y de advertencias de análisis estático, persistente. GitClear, que vende análisis de código, midió más líneas copiadas y menos líneas movidas (la señal de refactor) entre 2020 y 2024.
+Los agentes tiran en dos direcciones. Por un lado, la deuda se acumula más rápido: según el resumen de un estudio causal sobre repositorios que adoptaron un editor con agente (MSR 2026), la ganancia de velocidad fue transitoria y el aumento de complejidad y de advertencias de análisis estático, persistente. GitClear, que vende análisis de código, midió más líneas copiadas y menos líneas movidas (la señal de refactor) entre 2020 y 2024; las cifras están en [deuda técnica](deuda-tecnica.md#la-deuda-que-acumula-un-agente).
 
 Por el otro, un agente hace barato el trabajo mecánico de pagarla: renombrar, extraer, migrar miles de archivos. Google reporta que en una migración interna 80 % de los cambios de código aprobados los generó un modelo, y que cada cambio se validó compilando y corriendo pruebas, con revisión de personas. Es un autoinforme de la empresa.
 

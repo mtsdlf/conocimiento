@@ -68,3 +68,5 @@ La IEEE marca la edición 2017 de la norma de ciclo de vida ISO/IEC/IEEE 12207 c
 - [Lo que pierde peso en desarrollo](lo-que-pierde-peso-en-desarrollo.md): las prácticas que el tema dejó en segundo plano, con quién lo dice, la evidencia en contra y un veredicto, más las creencias que no conviene repetir.
 - [Bibliografía de desarrollo](bibliografia-de-desarrollo.md): qué leer según lo que se necesite hacer, qué parte y en qué fijarse.
 - [Glosario de desarrollo](glosario-de-desarrollo.md): los términos del tema en una línea, con la nota donde se explica cada uno.
+
+Pendiente, sin nota todavía: evidencia y medición (`evidencia-y-medicion`). Mientras tanto, la evidencia de cada práctica está en su nota y las métricas de entrega, en [métricas DORA](../../DevOps/Cultura-y-medicion/metricas-dora.md).

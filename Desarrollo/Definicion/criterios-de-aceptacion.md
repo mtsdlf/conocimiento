@@ -13,7 +13,7 @@ fuentes:
   - https://code.claude.com/docs/en/best-practices
   - https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
   - https://www.mountaingoatsoftware.com/agile/user-stories
-aliases: [acceptance criteria, criterio de aceptación, dado cuando entonces, given when then, Gherkin, BDD, especificación por ejemplos, specification by example, example mapping, definición de terminado]
+aliases: [acceptance criteria, criterio de aceptación, dado cuando entonces, given when then, Gherkin, BDD, especificación por ejemplos, specification by example, example mapping]
 creado: 2026-11-27
 revisado:
 ---
@@ -59,7 +59,7 @@ El mapa también diagnostica. Muchas tarjetas rojas dicen que falta aprender ant
 
 Con agentes, el criterio deja de ser texto para leer y pasa a ser algo que se corre. Anthropic recomienda darle al agente "something it can run that comes back pass or fail": una prueba, el código de salida del build, un linter, una comparación contra un archivo de referencia o una captura contra el diseño. También pide evidencia, el comando y su salida, porque que diga que todas las pruebas pasan dice poco.
 
-La razón es una falla documentada. En un arnés para trabajos largos, Anthropic vio que el agente tendía a "declare the job done" demasiado pronto y a marcar funcionalidades como completas sin probarlas. El arnés expande el pedido en una lista de funcionalidades en JSON, todas marcadas al principio como falladas, donde el agente solo podía cambiar el estado; eligieron JSON porque los modelos lo alteran menos que Markdown. Las pruebas de punta a punta con automatización de navegador mejoraron mucho el resultado frente a pruebas unitarias y llamadas sueltas.
+La razón es una falla documentada. En un arnés para trabajos largos, Anthropic vio que el agente tendía a "declare the job done" demasiado pronto y a marcar funcionalidades como completas sin probarlas. El arnés expande el pedido en una lista de funcionalidades en JSON, todas marcadas al principio como falladas, donde el agente solo podía cambiar el estado; eligieron JSON porque los modelos lo alteran menos que Markdown. Las pruebas de extremo a extremo con automatización de navegador mejoraron mucho el resultado frente a pruebas de unidad y llamadas sueltas; esos niveles están en [pirámide de pruebas](../Verificacion/piramide-de-pruebas.md).
 
 Regla de esta base: un criterio que no se puede ejecutar se acepta solo si una persona lo comprueba, y eso se dice en el criterio. Cómo se escribe la prueba antes que el código está en [TDD](../Verificacion/tdd.md); a qué nivel conviene cada prueba, en [pirámide de pruebas](../Verificacion/piramide-de-pruebas.md); y cómo se revisa que el agente no haya hecho trampa con las pruebas, en [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md).
 

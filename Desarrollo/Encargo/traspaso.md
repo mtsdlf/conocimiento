@@ -79,6 +79,6 @@ La documentación se genera barata; lo caro es que sea verdadera y siga siéndol
 
 El cliente recibe código que quizás no puede revisar, hecho por un agente y verificado sobre todo por pruebas. Eso vuelve más importante entregar las pruebas y la forma de correrlas (ver [Verificación](../Verificacion/verificacion.md)), y es lo primero que va a mirar quien lo reciba como [sistema heredado](../Evolucion/sistema-heredado.md).
 
-En criterio de esta base, pierden peso el documento de diseño de cien páginas como entregable de cierre y la capacitación presencial larga como único medio de pasar el conocimiento.
+En criterio de esta base, [pierden peso](../Fundamentos/lo-que-pierde-peso-en-desarrollo.md#lo-que-pierde-peso-en-cada-etapa) el documento de diseño de cien páginas como entregable de cierre y la capacitación presencial larga como único medio de pasar el conocimiento.
 
 Para leer: no hay un recurso canónico con fuente fuerte. Lo más cercano es el *Primer* (Deliverables, Warranty y el caso de soporte) para el criterio, y una lista de agencia, como la de Simplethread, leída como práctica. Fijate en la propiedad de las cuentas y en que el cliente corra solo el build y las pruebas.

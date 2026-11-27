@@ -42,7 +42,7 @@ Hay estudios recientes, todos preprints conocidos por su resumen. Uno, sobre pul
 > [!NOTE]
 > Sin fuente todavía: los estudios hallados detectan refactorizaciones con herramientas de análisis y miden malos olores, pero ninguno verifica ejecutando pruebas si el agente preservó el comportamiento. No se sabe con evidencia qué tan seguido un agente cambia lo que el código hace cuando dice que solo lo reordenó.
 
-A la vez, según GitClear (que vende análisis de código), el código movido, que es la señal de refactorización en un diff, bajó de 24,1 % a 9,5 % de las líneas cambiadas entre 2020 y 2024. Esta base lo lee como señal de que se refactoriza menos justo cuando la herramienta lo hace más barato, aunque el estudio es observacional y no prueba la causa.
+A la vez, según GitClear (que vende análisis de código), el código movido, que es la señal de refactorización en un diff, bajó a menos de la mitad de las líneas cambiadas entre 2020 y 2024 (las cifras están en [deuda técnica](deuda-tecnica.md#la-deuda-que-acumula-un-agente)). Esta base lo lee como señal de que se refactoriza menos justo cuando la herramienta lo hace más barato, aunque el estudio es observacional y no prueba la causa.
 
 ## Cómo se le pide una refactorización a un agente
 
@@ -56,6 +56,6 @@ Böckeler encontró una prueba escrita por un agente que fijaba un bug: si la su
 
 ## Lo mecánico pierde peso
 
-Pierde peso hacer a mano, por rutina, los cambios mecánicos (renombres, extracciones) que un agente hace con pruebas. El catálogo de Fowler no pierde peso: es el vocabulario para pedir y para revisar. Cuando el cambio de forma toca miles de archivos a la vez, deja de ser una refactorización local y pasa a ser una [migración](migraciones-y-actualizaciones.md).
+[Pierde peso](../Fundamentos/lo-que-pierde-peso-en-desarrollo.md#lo-que-pierde-peso-en-cada-etapa) hacer a mano, por rutina, los cambios mecánicos (renombres, extracciones) que un agente hace con pruebas. El catálogo de Fowler no pierde peso: es el vocabulario para pedir y para revisar. Cuando el cambio de forma toca miles de archivos a la vez, deja de ser una refactorización local y pasa a ser una [migración](migraciones-y-actualizaciones.md).
 
 Para leer: *Refactoring*, segunda edición, el capítulo 1 (el ejemplo completo) y el capítulo sobre pruebas; el catálogo, como consulta.

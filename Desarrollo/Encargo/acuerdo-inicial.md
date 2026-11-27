@@ -39,6 +39,8 @@ El corte entre acuerdo inicial y especificación es de esta base: el acuerdo ter
 
 La tercera fila sale de Lean Inception, que la arma como el ejercicio «Is – Is not – Does – Does not». Las demás son la síntesis de esta base sobre las fuentes de abajo; ninguna fuente leída da la lista entera.
 
+Las palabras del negocio que aparecen en esta conversación son el comienzo del [modelo de dominio](../Definicion/modelo-de-dominio.md).
+
 ## Dos formas de llegar al acuerdo
 
 Lean Inception es la forma de taller. Caroli la describe como «a focused form of inception, which can be done in a single week», con una agenda por día: el lunes la visión del producto y el «Is – Is not – Does – Does not»; el martes personas y funciones; el miércoles una revisión técnica, de experiencia y de negocio, y los recorridos de usuario; el jueves las funciones sobre esos recorridos y su secuencia; el viernes el MVP canvas y una muestra a los interesados. El resultado es «the understanding the MVP». Según el resumen del buscador, el formato busca reducir a una semana las inceptions tradicionales, que duran de dos a cuatro semanas.
@@ -54,7 +56,7 @@ Para un encargo chico, la lectura de esta base es que una semana de talleres sob
 
 La lectura de esta base es que el acuerdo inicial es donde más pesa el cuello de botella nuevo. Un agente construye rápido lo que se le pide; si el problema o el resultado se entendieron mal, se entrega rápido lo equivocado. Se apoya en la tesis de DORA 2025 de que la IA amplifica lo que la organización ya hace, bueno o malo, pero ninguna fuente lo midió en el arranque de un proyecto.
 
-El prototipo también cambió de precio. Un prototipo que anda cuesta hoy mucho menos que antes, y eso empuja a reemplazar parte de la conversación por algo a lo que el cliente pueda reaccionar. Es práctica emergente: el informe de la vertical no encontró fuente que la mida. El riesgo, en criterio de esta base, es que el prototipo se tome por acuerdo: el cliente dice que sí a lo que ve y nadie escribió qué problema resuelve ni qué queda afuera. Qué prueba un prototipo y qué no está en [producto mínimo viable](../../Emprender/Validacion/producto-minimo-viable.md).
+El prototipo también cambió de precio. Un prototipo que anda cuesta hoy mucho menos que antes, y eso empuja a reemplazar parte de la conversación por algo a lo que el cliente pueda reaccionar. Es práctica emergente: el informe de la vertical no encontró fuente que la mida. El riesgo, en criterio de esta base, es que el prototipo se tome por acuerdo: el cliente dice que sí a lo que ve y nadie escribió qué problema resuelve ni qué queda afuera. Qué prueba un prototipo está en [prueba de supuestos](../../Producto/Descubrimiento/prueba-de-supuestos.md), y si puede servir como especificación, en [dar forma a una solución](../../Producto/Descubrimiento/dar-forma-a-una-solucion.md).
 
 ## Cómo falla el acuerdo inicial
 

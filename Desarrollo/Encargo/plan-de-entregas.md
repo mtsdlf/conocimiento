@@ -1,8 +1,7 @@
 ---
 resumen: >-
   El plan de entregas corta el alcance acordado en incrementos que el cliente puede ver y usar, y
-  decide en qué orden llegan. Cada incremento es una rebanada que cruza todas las capas y queda
-  desplegada, de modo que se pueda aceptar, cobrar y corregir el rumbo antes de seguir.
+  decide en qué orden llegan. Cada incremento es una o más rebanadas verticales desplegadas, de modo que se pueda aceptar, cobrar y corregir el rumbo antes de seguir.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -10,18 +9,16 @@ fuentes:
   - "Caroli, Lean Inception (martinfowler.com), paso de secuencia y MVP canvas: https://www.martinfowler.com/articles/lean-inception"
   - "Singer, Shape Up, cap. 2 y glosario: https://basecamp.com/shapeup/1.1-chapter-02 ; https://basecamp.com/shapeup/4.5-appendix-06"
   - "Arbogast, Larman y Vodde (2012), Agile Contracts Primer v5, aceptación y pago por iteración: http://www.agilecontracts.org/agile_contracts_primer.pdf"
-  - "Bain, Designing Agile Missions (según resumen): https://www.bain.com/insights/designing-agile-missions/"
-  - "User stories and vertical slicing, dev.to (según resumen): https://dev.to/jan/user-stories-and-vertical-slicing-1dpo"
   - "METR (2025), Measuring AI Ability to Complete Long Tasks (según su resumen): https://arxiv.org/abs/2503.14499"
   - "Desarrollo/.investigacion/encargo.md"
-aliases: [plan de entregas, release planning, planificación de entregas, incremento, increment, slicing vertical, vertical slice, rebanada vertical, walking skeleton, esqueleto andante]
+aliases: [plan de entregas, release planning, planificación de entregas, incremento, increment, walking skeleton, esqueleto andante]
 creado: 2026-11-27
 revisado:
 ---
 
 # Plan de entregas
 
-El plan de entregas corta el alcance acordado en incrementos que el cliente puede ver y usar, y decide en qué orden llegan. Cada incremento es una rebanada que cruza todas las capas y queda desplegada, de modo que se pueda aceptar, cobrar y corregir el rumbo antes de seguir.
+El plan de entregas corta el alcance acordado en incrementos que el cliente puede ver y usar, y decide en qué orden llegan. Cada incremento es una o más rebanadas verticales desplegadas, de modo que se pueda aceptar, cobrar y corregir el rumbo antes de seguir.
 
 Toma el [alcance](alcance-y-aceptacion.md) y lo ordena en el tiempo. Cada incremento pasa al ciclo técnico, donde [Definición](../Definicion/definicion.md) lo parte en tareas con la [descomposición en tareas](../Definicion/descomposicion-en-tareas.md), y vuelve al encargo para mostrarse en el [seguimiento](seguimiento-con-el-cliente.md) y aceptarse. El plan dice qué se corta y en qué orden; cómo se muestra el avance es del seguimiento. Cómo conviven las fechas firmadas con un roadmap está en [roadmap](../../Producto/Planificacion-y-entrega/roadmap.md#el-roadmap-cuando-el-cliente-paga-por-fechas-y-alcance).
 
@@ -31,12 +28,12 @@ El *Scrum Guide* pone la condición: «In order to provide value, the Increment 
 
 ## Cortar en vertical
 
-Un corte vertical parte el trabajo en rebanadas más chicas que cruzan todas las capas: la interfaz, la lógica y los datos de una función angosta. Un corte horizontal lo parte por capa técnica: primero toda la base de datos, después toda la lógica, al final la interfaz. Según los materiales secundarios, que coinciden entre sí, las rebanadas horizontales no entregan valor solas. Hay voces en contra: un equipo que corta en horizontal a propósito y entrega un grupo de historias como una función, y la idea de *dicing*, rebanadas que no valen hasta que se juntan. Todo esto viene de blogs y se toma como práctica aceptada, no como resultado medido.
+Cada incremento se arma con una o más rebanadas verticales desplegadas: cortes que cruzan la interfaz, la lógica y los datos de una función angosta. Qué es una rebanada, cómo se parte y las voces en contra del corte vertical están en [descomposición en tareas](../Definicion/descomposicion-en-tareas.md#rebanadas-verticales-y-no-capas). Un plan por capa técnica (primero toda la base de datos, después toda la lógica, al final la interfaz) no deja nada que el cliente pueda usar hasta el final.
 
-El incremento más chico que cruza todas las capas y se despliega se suele llamar *walking skeleton*, un término atribuido a Cockburn cuya fuente no se pudo abrir; en los blogs de corte aparece como rebanadas verticales finas.
+El incremento más chico que cruza todas las capas y se despliega se suele llamar *walking skeleton*, término de Cockburn que Patton usa como primer corte del [mapa de historias](../Definicion/historia-de-usuario.md#el-mapa-de-historias). La cita, la columna vertebral del mapa y los cortes de entrega de lado a lado están en [dar forma a una solución](../../Producto/Descubrimiento/dar-forma-a-una-solucion.md).
 
 > [!NOTE]
-> Sin fuente todavía: la definición de *walking skeleton* en el texto de Cockburn (la dirección probada no respondió), y una técnica de planificación de entregas con nombre leída en su fuente, como el mapeo de historias de Patton.
+> Sin fuente todavía: la definición de *walking skeleton* en el texto de Cockburn (la dirección probada no respondió); la que se cita llega a través de Patton.
 
 ## En qué orden llegan los incrementos
 

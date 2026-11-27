@@ -38,7 +38,7 @@ Si se entrega por incrementos, se acepta por incrementos. El *Agile Contracts Pr
 
 Esto tiene dos efectos que el *Primer* nombra. El riesgo de la garantía final baja, «especially enhanced if automated acceptance testing is employed», porque cada parte ya se probó; la garantía se ata a cada entregable. Y el pago se puede atar a cada aceptación, que es el sistema que el *Primer* llama el más popular (ver [modelos de contrato y cobro](modelos-de-contrato-y-cobro.md)). Qué se hace con los defectos menores que no traban la aceptación y cómo se cierra formalmente está en [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md#aceptar-y-cerrar); en Argentina, la recepción provisional con plazo de garantía del art. 1272 del Código Civil y Comercial está en [contrato de servicio](../../Emprender/Legal-e-impuestos/contrato-de-servicio.md#lo-que-conviene-que-diga).
 
-En criterio de esta base, la prueba de aceptación de usuarios como una fase única al final, con planillas de casos manuales, pierde peso frente a la aceptación incremental con demostraciones y criterios automatizados. No se encontró una fuente que mida ese cambio; es la lectura del *Primer* que hace esta base.
+En criterio de esta base, la prueba de aceptación de usuarios como una fase única al final, con planillas de casos manuales, [pierde peso](../Fundamentos/lo-que-pierde-peso-en-desarrollo.md#lo-que-pierde-peso-en-cada-etapa) frente a la aceptación incremental con demostraciones y criterios automatizados. No se encontró una fuente que mida ese cambio; es la lectura del *Primer* que hace esta base.
 
 ## Qué va en el contrato y qué no
 
@@ -50,7 +50,7 @@ La documentación técnica se suele pedir en los contratos tradicionales, pero s
 
 Los criterios escritos como ejemplos verificables valen más que antes. Son lo que un agente usa para saber cuándo terminó y lo que una persona usa para no leer cada línea; el detalle está en [criterios de aceptación](../Definicion/criterios-de-aceptacion.md) y en [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md). La idea de que la aceptación automatizada baja el riesgo ya estaba en el *Primer*.
 
-Lo que no se delega es que el cliente confirme que el criterio dice lo que quiere. Un agente verifica contra el criterio escrito, no contra la intención del cliente. En criterio de esta base, por eso la aceptación tiene dos firmas distintas: el cliente aprueba los criterios antes de que se construya, y acepta el incremento después de verlo andar.
+Lo que no se delega es que el cliente confirme que el criterio dice lo que quiere. Un agente verifica contra el criterio escrito, no contra la intención del cliente. En criterio de esta base, por eso la aceptación tiene dos firmas distintas: el cliente aprueba los criterios antes de que se construya, y acepta el incremento después de verlo andar. Esa segunda firma es la validación, que [Verificación](../Verificacion/verificacion.md#verificar-contra-lo-definido-validar-contra-lo-que-se-necesitaba) separa de verificar.
 
 ## Cómo falla
 

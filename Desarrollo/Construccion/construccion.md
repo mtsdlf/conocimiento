@@ -41,7 +41,7 @@ La guía de Anthropic pone en el centro que el agente tenga una verificación qu
 
 ## Cuánto rinde, con la evidencia que hay
 
-No hay una cifra confiable de cuánto acelera un agente. Hay ensayos controlados con ganancias y uno con pérdidas, y el autor de ese último (METR) advirtió en febrero de 2026 que su diseño ya no mide bien el efecto. DORA 2025 encuentra, en una encuesta de casi 5.000 profesionales, una relación positiva entre la adopción de IA y el rendimiento de la entrega y del producto, y una negativa con la estabilidad de la entrega: "AI doesn't fix a team; it amplifies what's already there". La lectura de esta base es que el agente acelera la escritura y que la estabilidad depende de los controles alrededor (pruebas automáticas, lotes chicos, retroalimentación rápida). Los estudios, sus límites y la crítica a los benchmarks están en [agente de código](agente-de-codigo.md).
+No hay una cifra confiable de cuánto acelera un agente. Hay ensayos controlados con ganancias y uno con pérdidas, y el autor de ese último (METR) advirtió en febrero de 2026 que su diseño ya no mide bien el efecto. DORA 2025 encuentra, en una encuesta de casi 5.000 profesionales, una relación positiva entre la adopción de IA y el volumen de entrega (throughput) y el desempeño del producto, y una negativa con la estabilidad de la entrega: "AI doesn't fix a team; it amplifies what's already there". La lectura de esta base es que el agente acelera la escritura y que la estabilidad depende de los controles alrededor (pruebas automáticas, lotes chicos, retroalimentación rápida). Los estudios, sus límites y la crítica a los benchmarks están en [agente de código](agente-de-codigo.md).
 
 ## Que todo proyecto arranque igual
 

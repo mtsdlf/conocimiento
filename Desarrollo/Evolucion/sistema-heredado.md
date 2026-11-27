@@ -55,6 +55,6 @@ Hay dos riesgos. Fijar el comportamiento actual también fija sus bugs: Böckele
 
 ## Lo que pierde peso al entrar a un sistema
 
-Pierde peso leer todo el código antes de tocar nada y documentar el sistema a mano antes de empezar: un agente da un primer mapa rápido, que después se verifica. No pierde peso la regla de fijar el comportamiento antes de cambiar. Cómo se recibe un sistema con sus accesos y su documentación, cuando viene de otro equipo, se acuerda en el [traspaso](../Encargo/traspaso.md); lo que se descubre de deuda al entrar va a [deuda técnica](deuda-tecnica.md).
+[Pierde peso](../Fundamentos/lo-que-pierde-peso-en-desarrollo.md#lo-que-pierde-peso-en-cada-etapa) leer todo el código antes de tocar nada y documentar el sistema a mano antes de empezar: un agente da un primer mapa rápido, que después se verifica. No pierde peso la regla de fijar el comportamiento antes de cambiar. Cómo se recibe un sistema con sus accesos y su documentación, cuando viene de otro equipo, se acuerda en el [traspaso](../Encargo/traspaso.md); lo que se descubre de deuda al entrar va a [deuda técnica](deuda-tecnica.md).
 
 Para leer: Feathers, las partes sobre costuras y sobre pruebas de caracterización (los capítulos exactos están por verificar contra el índice del libro).

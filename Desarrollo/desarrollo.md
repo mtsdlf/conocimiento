@@ -24,7 +24,7 @@ Desarrollar software para alguien es convertir su necesidad en software andando 
 
 El tema trata el proceso, no el producto ni la estructura del sistema. Qué conviene construir, para quién y por qué está en [Producto](../Producto/producto.md); cómo se estructura el sistema (estilos, módulos, patrones), en [Arquitectura](../Arquitectura/arquitectura.md); cómo se integra, se despliega y se opera, en [DevOps](../DevOps/devops.md); y cómo se vende el proyecto, en [Ventas](../Ventas/ventas.md). Este tema empieza cuando hay alguien con una necesidad y termina cuando el software es suyo.
 
-Se escribe desde cómo se trabaja hoy: con agentes de código como parte normal del oficio. Eso no agrega una etapa, pero cambia dónde está el trabajo difícil. Según el criterio de esta base, escribir código se abarató y definir bien qué se pide y verificar lo que salió pesan más que antes. Lo que perdió peso con ese cambio se nombra una sola vez, en [lo que pierde peso](Fundamentos/lo-que-pierde-peso-en-desarrollo.md).
+Se escribe desde cómo se trabaja hoy: con agentes de código como parte normal del oficio. Eso no agrega una etapa, pero cambia dónde está el trabajo difícil. Según el criterio de esta base, escribir código se abarató y definir bien qué se pide y verificar lo que salió pesan más que antes. Lo que perdió peso con ese cambio se reúne en [lo que pierde peso](Fundamentos/lo-que-pierde-peso-en-desarrollo.md); cada nota nombra lo suyo y enlaza ahí.
 
 ## Los dos ciclos del desarrollo
 
@@ -48,8 +48,8 @@ flowchart LR
 
 - [Encargo](Encargo/encargo.md): el ciclo con el cliente: el acuerdo inicial, el alcance y cómo se acepta, la estimación y el modelo de cobro, el plan de entregas, los cambios a mitad de camino, el seguimiento y el traspaso.
 - [Definición](Definicion/definicion.md): pasar de una intención a algo que se puede construir sin adivinar: especificación, historias, criterios de aceptación, descomposición en tareas y modelo de dominio.
-- [Construcción](Construccion/construccion.md): escribir el código, con agentes: el contexto que el repositorio le da al agente, cómo trabaja un agente de código, la plantilla de proyecto, la configuración y Git.
-- [Verificación](Verificacion/verificacion.md): cómo se sabe que lo construido hace lo que se pidió: niveles de prueba, TDD, revisión de código y cómo se verifica el trabajo de un agente.
+- [Construcción](Construccion/construccion.md): escribir el código, con agentes: el contexto que el repositorio le da al agente, cómo trabaja un agente de código y la ficha de [herramientas de agentes de código](Construccion/herramientas-de-agentes-de-codigo.md), la plantilla de proyecto, la configuración y Git.
+- [Verificación](Verificacion/verificacion.md): cómo se sabe que lo construido hace lo que se pidió: niveles de prueba, TDD, revisión de código, cómo se verifica el trabajo de un agente y cómo [diseñar casos de prueba de una API](Verificacion/disenar-casos-de-prueba-de-api.md).
 - [Evolución](Evolucion/evolucion.md): el software después de la primera entrega: deuda técnica, refactorización, código heredado, migraciones y actualizaciones.
 - [Fundamentos](Fundamentos/fundamentos-de-desarrollo.md): las escuelas, lo que pierde peso, la bibliografía y el glosario.
 
@@ -57,15 +57,15 @@ Dos etapas del ciclo técnico viven en otros temas y se enlazan desde acá. Dise
 
 ## Optimizar para aprender
 
-La idea que ordena el tema viene de Farley (*Modern Software Engineering*), que dedica una parte del libro a optimizar para aprender. Según su índice (lo único que se leyó del libro), esa parte tiene cinco capítulos: trabajar de forma iterativa, retroalimentación, incrementalismo, empirismo y ser experimental. Esta base lo lee así: el desarrollo es aprender qué hay que construir mientras se construye. En el ciclo de afuera se ve como entregas chicas que el cliente usa; en el de adentro, como pruebas que dicen en minutos si lo construido anda.
+La idea que ordena el tema viene de Farley (*Modern Software Engineering*), que dedica una parte del libro a optimizar para aprender. Según su índice (lo único que se leyó del libro), esa parte tiene cinco capítulos, que esta base lee como cinco principios: iterar, buscar retroalimentación, avanzar por incrementos, decidir con evidencia (empirismo) y experimentar. Esta base lo lee así: el desarrollo es aprender qué hay que construir mientras se construye. En el ciclo de afuera se ve como entregas chicas que el cliente usa; en el de adentro, como pruebas que dicen en minutos si lo construido anda.
 
 La tercera parte del libro, optimizar para gestionar la complejidad (modularidad, cohesión, acoplamiento), está en [Arquitectura](../Arquitectura/arquitectura.md).
 
 ## Lo que cambia cuando el código lo escribe un agente
 
-Según DORA 2025, la IA funciona como amplificador: magnifica lo que la organización ya hace bien y lo que hace mal. El mismo informe encuentra una relación positiva entre la adopción de IA y el rendimiento de la entrega, y una negativa con su estabilidad. La evidencia sobre cuánto acelera un agente es mixta: hay estudios controlados que miden ganancias y otros que miden pérdidas (el detalle está en [agente de código](Construccion/agente-de-codigo.md)).
+Según DORA 2025, la IA funciona como amplificador: magnifica lo que la organización ya hace bien y lo que hace mal. El mismo informe encuentra una relación positiva entre la adopción de IA y el volumen de entrega (throughput) y el desempeño del producto, y una negativa con la estabilidad de la entrega. La evidencia sobre cuánto acelera un agente es mixta: hay estudios controlados que miden ganancias y otros que miden pérdidas (el detalle está en [agente de código](Construccion/agente-de-codigo.md)).
 
-De ahí salen las tres apuestas del tema. Lo que se le pide a un agente tiene que estar escrito y ser verificable, y por eso [Definición](Definicion/definicion.md) va a fondo. Lo que entrega un agente se acepta con evidencia y no con su palabra, y para eso está [verificar lo que hizo un agente](Verificacion/verificar-lo-que-hizo-un-agente.md). El cliente acepta software andando, no informes de avance, como se ve en [alcance y aceptación](Encargo/alcance-y-aceptacion.md).
+De ahí salen las tres apuestas del tema. Lo que se le pide a un agente tiene que estar escrito y ser verificable, y por eso [Definición](Definicion/definicion.md) va a fondo. Lo que entrega un agente se acepta con evidencia y no con su palabra, y para eso está [verificar lo que hizo un agente](Verificacion/verificar-lo-que-hizo-un-agente.md). El cliente acepta software andando, no informes de avance, como se ve en [alcance y aceptación](Encargo/alcance-y-aceptacion.md) y en [seguimiento con el cliente](Encargo/seguimiento-con-el-cliente.md).
 
 ## Qué leer según lo que estés haciendo
 

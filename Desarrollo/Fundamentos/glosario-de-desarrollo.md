@@ -24,7 +24,7 @@ revisado:
 
 Los términos que usan las notas de desarrollo de software, cada uno con una definición de una línea y la nota del tema donde se explica.
 
-Las definiciones son generales; las citas, las cifras y los desacuerdos viven en la nota de cada término. Varias notas enlazadas todavía están por escribirse, y algunas definiciones salen de resúmenes secundarios que hay que revisar contra el original antes de pasar a vigente.
+Las definiciones son generales; las citas, las cifras y los desacuerdos viven en la nota de cada término. Algunas definiciones salen de resúmenes secundarios que hay que revisar contra el original antes de pasar a vigente.
 
 ## El ciclo con el cliente
 
@@ -33,7 +33,8 @@ Las definiciones son generales; las citas, las cifras y los desacuerdos viven en
 | Acuerdo inicial | Lo que se entiende con el cliente antes de construir: el problema, el resultado buscado y quién decide | [Acuerdo inicial](../Encargo/acuerdo-inicial.md) |
 | Lean Inception | Taller de una semana que termina en un MVP entendido por todos | [Acuerdo inicial](../Encargo/acuerdo-inicial.md) |
 | Alcance | Qué entra en el encargo y qué no | [Alcance y aceptación](../Encargo/alcance-y-aceptacion.md) |
-| Validación | Comprobar que lo construido es lo que el cliente necesitaba | [Alcance y aceptación](../Encargo/alcance-y-aceptacion.md) |
+| Validación | Comprobar que lo construido es lo que el cliente necesitaba | [Verificación](../Verificacion/verificacion.md#verificar-contra-lo-definido-validar-contra-lo-que-se-necesitaba) |
+| Definición de terminado | Lo que todo incremento cumple para darse por hecho (probado, revisado, desplegado); distinta de los criterios de aceptación, que son de cada incremento | [Alcance y aceptación](../Encargo/alcance-y-aceptacion.md#qué-quiere-decir-terminado) |
 | Apetito | El tiempo que se quiere gastar en un trabajo, fijado antes de diseñarlo y no como estimación (Shape Up) | [Estimación](../Encargo/estimacion.md) |
 | Precio cerrado | Contrato con alcance y precio fijados de antemano | [Modelos de contrato y cobro](../Encargo/modelos-de-contrato-y-cobro.md) |
 | Tiempo y materiales | Contrato que cobra el tiempo trabajado | [Modelos de contrato y cobro](../Encargo/modelos-de-contrato-y-cobro.md) |
@@ -47,9 +48,10 @@ Las definiciones son generales; las citas, las cifras y los desacuerdos viven en
 |---|---|---|
 | Especificación | Descripción escrita de lo que el software debe hacer, insumo principal de un agente | [Especificación](../Definicion/especificacion.md) |
 | Desarrollo guiado por especificaciones | Escribir la especificación antes del código y dársela al agente como fuente de verdad | [Escuelas de desarrollo](escuelas-de-desarrollo.md) |
-| Spec-first, spec-anchored, spec-as-source | Los tres niveles de Böckeler: la especificación se usa y se descarta, se mantiene, o es lo único que se edita | [Escuelas de desarrollo](escuelas-de-desarrollo.md) |
+| Spec-first, spec-anchored, spec-as-source | Los tres niveles de Böckeler: la especificación se usa y se descarta, se mantiene, o es lo único que se edita | [Especificación](../Definicion/especificacion.md#los-tres-niveles-del-desarrollo-guiado-por-especificaciones) |
 | Historia de usuario | Descripción breve de una necesidad desde quien la tiene | [Historia de usuario](../Definicion/historia-de-usuario.md) |
 | Criterio de aceptación | Condición verificable con la que se decide que algo está terminado | [Criterios de aceptación](../Definicion/criterios-de-aceptacion.md) |
+| Contrato de terminado | La prueba o el chequeo de pasa o falla que dice cuándo una tarea está hecha; con agentes, lo que el agente corre para saber si terminó | [Criterios de aceptación](../Definicion/criterios-de-aceptacion.md#el-criterio-que-un-agente-ejecuta) |
 | Dado, cuando, entonces | Forma de escribir un ejemplo: estado inicial, acción y resultado observable (Gherkin) | [Criterios de aceptación](../Definicion/criterios-de-aceptacion.md) |
 | Descomposición en tareas | Partir el trabajo en tareas que se hacen y se verifican solas | [Descomposición en tareas](../Definicion/descomposicion-en-tareas.md) |
 | Lenguaje ubicuo | El vocabulario del negocio, igual en la conversación, las notas y el código | [Modelo de dominio](../Definicion/modelo-de-dominio.md) |
@@ -96,7 +98,7 @@ Las definiciones son generales; las citas, las cifras y los desacuerdos viven en
 |---|---|---|
 | Cascada (waterfall) | Secuencia de fases sin retorno; el nombre es posterior a Royce (1970) | [Escuelas de desarrollo](escuelas-de-desarrollo.md#la-cascada-y-el-malentendido-de-royce) |
 | Sprint | Contenedor de tiempo fijo de Scrum | [Escuelas de desarrollo](escuelas-de-desarrollo.md) |
-| Story points y velocity | Estimación relativa del esfuerzo y cuántos puntos completa un equipo por ciclo | [Lo que pierde peso](lo-que-pierde-peso-en-desarrollo.md) |
+| Puntos de historia (story points) y velocidad (velocity) | Estimación relativa del esfuerzo y cuántos puntos completa un equipo por ciclo | [Lo que pierde peso](lo-que-pierde-peso-en-desarrollo.md) |
 | Límite de trabajo en curso (WIP) | Tope a cuántas cosas se trabajan a la vez, para que el flujo no se trabe | [Flujo de valor](../../DevOps/Cultura-y-medicion/flujo-de-valor.md) |
 | Retroalimentación | Información rápida sobre si lo hecho funciona; uno de los cinco principios de Farley | [Escuelas de desarrollo](escuelas-de-desarrollo.md) |
 | Empirismo | Decidir con evidencia observada y no con opinión (Farley) | [Escuelas de desarrollo](escuelas-de-desarrollo.md) |

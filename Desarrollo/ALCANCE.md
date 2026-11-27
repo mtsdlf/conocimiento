@@ -10,7 +10,7 @@ fuera:
   - cómo funciona un modelo de lenguaje (tema IA; se enlaza)
   - vender el proyecto, la propuesta comercial y el precio de lista (tema Ventas; se enlaza)
   - el diseño propio de una fábrica de software con agentes (va al repo de la empresa o a mtsdlf/procesos; acá solo lo general)
-  - lo que pierde peso, que solo se nombra en Fundamentos/lo-que-pierde-peso
+  - lo que pierde peso como tema propio: se reúne en Fundamentos/lo-que-pierde-peso-en-desarrollo, y cada nota nombra lo suyo y enlaza ahí
 fuentes: []
 preguntas:
   - Un cliente me trae una idea vaga, ¿qué tengo que tener escrito antes de que un agente escriba la primera línea?
@@ -49,6 +49,7 @@ Desarrollo/
   Construccion/                   escribir el código, con agentes como parte del oficio
     contexto-del-repositorio        lo que un agente necesita saber del repo (AGENTS.md, skills, docs)
     agente-de-codigo                cómo trabaja uno, dónde rinde y dónde falla
+    herramientas-de-agentes-de-codigo  ficha fechada con los nombres de archivos, hooks y comandos de las herramientas
     plantilla-de-proyecto           que todo proyecto arranque igual (Generacion-de-proyectos se funde acá; Maven queda como ficha)
     arquetipo-de-maven, derivar-nombres-en-un-arquetipo-de-maven   (ya existían; fichas de plantilla-de-proyecto)
     Configuracion/                  (ya existía)

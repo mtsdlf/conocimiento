@@ -1,10 +1,7 @@
 ---
 resumen: >-
   Lo que pierde peso en desarrollo son las prácticas del proceso que este tema dejó fuera o puso en
-  segundo plano (el documento de requisitos gigante y congelado, story points como productividad,
-  Scrum con todas sus ceremonias, Gitflow, la cobertura como objetivo, la estimación en horas de cada
-  tarea y la revisión línea por línea como único control), cada una con quién lo dice, la evidencia
-  en contra y un veredicto.
+  segundo plano, cada una con quién lo dice, la evidencia en contra y un veredicto.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -38,9 +35,9 @@ revisado:
 
 # Lo que pierde peso en desarrollo
 
-Lo que pierde peso en desarrollo son las prácticas del proceso que este tema dejó fuera o puso en segundo plano (el documento de requisitos gigante y congelado, story points como productividad, Scrum con todas sus ceremonias, Gitflow, la cobertura como objetivo, la estimación en horas de cada tarea y la revisión línea por línea como único control), cada una con quién lo dice, la evidencia en contra y un veredicto.
+Lo que pierde peso en desarrollo son las prácticas del proceso que este tema dejó fuera o puso en segundo plano, cada una con quién lo dice, la evidencia en contra y un veredicto.
 
-"Pierde peso" quiere decir que conviene aprenderlo después, no que esté muerto. El respaldo es desigual: story points como productividad y cobertura como objetivo tienen estudios o una entrada del Radar de Thoughtworks; Scrum ceremonial y estimación en horas son criterio de esta base, sin estudio que lo zanje. Lo que pierde peso en la estructura del sistema y en los sistemas con modelos está en [lo que pierde peso en Arquitectura](../../Arquitectura/Fundamentos/lo-que-pierde-peso.md) y no se repite.
+"Pierde peso" quiere decir que conviene aprenderlo después, no que esté muerto. Lo de la estructura del sistema y los sistemas con modelos está en [Arquitectura](../../Arquitectura/Fundamentos/lo-que-pierde-peso.md).
 
 ## Resumen por ítem
 
@@ -54,11 +51,28 @@ Lo que pierde peso en desarrollo son las prácticas del proceso que este tema de
 | Estimación en horas de cada tarea | Criterio de la base | Hay prácticas de estimación con evidencia a favor | Sin estudio que lo zanje |
 | Revisión línea por línea como único control | Bacchelli y Bird; Sadowski et al. | La revisión cumple funciones que las pruebas no | Pierde peso como único control |
 
+## Lo que pierde peso en cada etapa
+
+Lo que nombra cada nota en su etapa (Encargo, Verificación, Evolución) y enlaza acá; todo es criterio de esta base, sin estudio:
+
+| Qué pierde peso | Nota |
+|---|---|
+| el documento de requisitos al arrancar | [acuerdo inicial](../Encargo/acuerdo-inicial.md) |
+| la aceptación como fase única al final | [alcance y aceptación](../Encargo/alcance-y-aceptacion.md) |
+| las fases por capa | [plan de entregas](../Encargo/plan-de-entregas.md) |
+| el comité de cambios y cotizar cada cambio en horas | [cambios de alcance](../Encargo/cambios-de-alcance.md) |
+| el porcentaje de avance y los puntos quemados | [seguimiento](../Encargo/seguimiento-con-el-cliente.md) |
+| el diseño de cien páginas y la capacitación presencial larga | [traspaso](../Encargo/traspaso.md) |
+| el rojo-verde-refactor como ritual para un agente | [TDD](../Verificacion/tdd.md) |
+| medir la deuda en puntos o reservarle un porcentaje fijo | [deuda técnica](../Evolucion/deuda-tecnica.md) |
+| los cambios mecánicos hechos a mano | [refactorizar](../Evolucion/refactorizar.md) |
+| leer y documentar todo antes de tocar | [sistema heredado](../Evolucion/sistema-heredado.md) |
+
 ## El documento de requisitos gigante y congelado
 
 Böckeler, después de probar herramientas de desarrollo guiado por especificaciones: "I'm very skeptical that lots of up-front spec design is a good idea", y "The past has shown that the best way for us to stay in control of what we're building are small, iterative steps". Menzies et al. analizaron 171 proyectos de 2006 a 2014 y no encontraron evidencia consistente de que arreglar un defecto más tarde cueste mucho más, según su resumen. Eso debilita la curva de costo del cambio que justificaba especificar todo antes, pero los datos son de un solo grupo de proyectos y no tratan el documento de requisitos.
 
-En contra, no hay estudio que compare el documento grande con los requisitos iterativos, y las normas siguen describiéndolo. El desarrollo guiado por especificaciones vuelve a poner la especificación escrita antes del código, y el Radar lo tiene en Assess (noviembre de 2025). La tensión se resuelve así, como criterio de esta base: pierde peso el documento único, completo y congelado antes de empezar, y gana la [especificación](../Definicion/especificacion.md) por tramos chicos, escrita justo antes de construir cada parte.
+En contra, no hay estudio que compare el documento grande con los requisitos iterativos, y las normas siguen describiéndolo. Como criterio de esta base, pierde peso el documento único, completo y congelado antes de empezar, y gana la [especificación](../Definicion/especificacion.md) por tramos chicos, escrita justo antes de construir cada parte.
 
 ## Story points y velocity como medida de productividad
 
@@ -66,7 +80,7 @@ El Radar puso "Velocity as productivity" en Hold en enero de 2015: la métrica s
 
 ## Scrum con todas sus ceremonias
 
-Según Rytkönen et al. (2024), hay "far less empirical evidence on agile benefits than the method's popularity would suggest" (según el resumen del buscador). Eso tampoco prueba que Scrum dañe: no hay entrada del Radar en su contra ni meta-análisis que aísle la daily, la retrospectiva o la planificación. Es criterio de esta base: el tema contrasta un proceso con eventos predefinidos contra la entrega continua medida con DORA, sin afirmar que uno esté probado mejor que otro. El marco está en [escuelas de desarrollo](escuelas-de-desarrollo.md).
+Según Rytkönen et al. (2024), hay "far less empirical evidence on agile benefits than the method's popularity would suggest" (según el resumen del buscador). Eso tampoco prueba que Scrum dañe: no hay entrada del Radar en su contra ni meta-análisis que aísle la daily, la retrospectiva o la planificación. Es criterio de esta base contrastarlo con la entrega continua medida con DORA, sin afirmar que una esté probada mejor. El marco está en [escuelas de desarrollo](escuelas-de-desarrollo.md).
 
 ## Gitflow
 
@@ -74,15 +88,15 @@ Driessen, que lo publicó en 2010, aclaró en 2020 que para equipos con entrega 
 
 ## La cobertura de pruebas como objetivo
 
-Inozemtseva y Holmes (ICSE 2014) observaron una correlación de baja a moderada entre cobertura y efectividad de la suite al controlar por la cantidad de pruebas, y concluyen que la cobertura sirve para encontrar código poco probado pero no como objetivo de calidad (según su resumen). En Google se calcula la cobertura en cada cambio, para mil millones de líneas por día (Ivanković et al., 2019): se la usa como señal. Un agente puede inflarla con pruebas triviales; no hay estudio sobre eso, y el Radar pide reforzar TDD y análisis estático frente a la complacencia con el código generado. La forma de medir si las pruebas detectan fallas está en [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md).
+Inozemtseva y Holmes (ICSE 2014) observaron una correlación de baja a moderada entre cobertura y efectividad de la suite al controlar por la cantidad de pruebas, y concluyen que la cobertura sirve para encontrar código poco probado pero no como objetivo de calidad (según su resumen). En Google se calcula la cobertura en cada cambio, para mil millones de líneas por día (Ivanković et al., 2019): se la usa como señal. Un agente puede inflarla con pruebas triviales; no hay estudio sobre eso, y el Radar pide reforzar TDD y análisis estático frente a la complacencia con el código generado. Cómo medir si las pruebas detectan fallas está en [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md).
 
 ## La estimación en horas de cada tarea
 
-Jørgensen (2004) concluye que la estimación por juicio experto es la más usada y que no hay evidencia sustancial a favor de los modelos formales. En su revisión de 2007, citando a Moløkken-Østvold y Jørgensen, los proyectos gastan "roughly 30–40% more effort than estimated", y la exactitud no mejoró con los años (según el resumen del buscador). Eso muestra un desvío sistemático, no que haya que dejar de estimar, y la misma literatura trae prácticas con evidencia a favor, como combinar estimaciones de varios. Nada compara estimar tarea por tarea con estimar en grueso, y no hay datos sobre tareas que hace un agente. Es criterio de esta base; la alternativa por rangos y apetito está en [estimación](../Encargo/estimacion.md).
+Jørgensen (2004) concluye que la estimación por juicio experto es la más usada y que no hay evidencia sustancial a favor de los modelos formales. En su revisión de 2007, citando a Moløkken-Østvold y Jørgensen, los proyectos gastan "roughly 30–40% more effort than estimated", y la exactitud no mejoró con los años (según el resumen del buscador). Eso muestra un desvío sistemático, no que haya que dejar de estimar, y la misma literatura trae prácticas con evidencia a favor, como combinar estimaciones de varios. Nada compara estimar tarea por tarea con estimar en grueso, y no hay datos sobre tareas que hace un agente. Es criterio de esta base; la alternativa, por rangos y apetito, está en [estimación](../Encargo/estimacion.md).
 
 ## La revisión línea por línea como único control
 
-Bacchelli y Bird (Microsoft, 2013) encontraron que la revisión de código es "less about defects than expected" y rinde sobre todo conocimiento compartido y soluciones alternativas; Sadowski et al. (Google, 2018) la describen como herramienta educativa y de claridad (según sus resúmenes). Según esta base, ya antes de los agentes no era un buen único control de defectos (inferencia). En contra, Perry et al. (2023) vieron que quienes usaban un asistente escribían código menos seguro y creían lo contrario, y eso pide más control humano. Veredicto: la revisión sigue; pierde peso como único control frente a pruebas, análisis estático y verificación automática. El reparto está en [revisión de código](../Verificacion/revision-de-codigo.md).
+Bacchelli y Bird (Microsoft, 2013) encontraron que la revisión de código es "less about defects than expected" y rinde sobre todo conocimiento compartido y soluciones alternativas; Sadowski et al. (Google, 2018) la describen como herramienta educativa y de claridad (según sus resúmenes). En contra, Perry et al. (2023) vieron que quienes usaban un asistente escribían código menos seguro y creían lo contrario, y eso pide más control humano. Veredicto: la revisión sigue; pierde peso como único control frente a pruebas, análisis estático y verificación automática. El reparto está en [revisión de código](../Verificacion/revision-de-codigo.md).
 
 ## Que escribir código sea el cuello de botella
 

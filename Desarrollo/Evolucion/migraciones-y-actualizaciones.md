@@ -57,7 +57,7 @@ Es el mismo patrón que [el LLM emite, el reasoner verifica](../../IA/llm-emite-
 Esta sección envejece rápido; las herramientas cambian y el patrón de arriba queda.
 
 - Bots de dependencias. Renovate y Dependabot abren pull requests de actualización y los dos soportan actualizaciones agrupadas. Según la comparación que publica Renovate (fuente de uno de los dos bots), Dependabot viene integrado en GitHub y Renovate se instala como app o se aloja por cuenta propia; Renovate trae un tablero de dependencias activado por defecto. Siguen siendo la primera línea para lo chico; el agente entra cuando una actualización obliga a cambiar código (criterio de esta base).
-- Agentes de código. La guía de buenas prácticas de Anthropic (leída el 2026-11-27) describe un comando que divide un cambio mecánico grande en 5 a 30 unidades, cada una en su propio árbol de trabajo y con su propio pull request.
+- Agentes de código. La guía de buenas prácticas de Anthropic (leída el 2026-11-27) describe un comando que divide un cambio mecánico grande en 5 a 30 unidades, cada una en su propio worktree y con su propio pull request; su nombre está en la ficha [herramientas de agentes de código](../Construccion/herramientas-de-agentes-de-codigo.md).
 
 > [!NOTE]
 > Sin fuente todavía: la documentación oficial de Dependabot no se leyó, y las herramientas de codemods (transformaciones de código por reglas, sin modelo) no tienen fuente leída. Una actualización de dependencias también es un punto de entrada a la [cadena de suministro](../../DevOps/DevSecOps/cadena-de-suministro-de-software.md), y eso tampoco se investigó para esta nota.

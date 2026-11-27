@@ -20,7 +20,7 @@ categorías que hay que cubrir, del camino feliz a la concurrencia.
 
 ## El contrato, las historias y las categorías propias
 
-- Tener el contrato de la API (OpenAPI o equivalente) y los criterios de aceptación de cada
+- Tener el contrato de la API (OpenAPI o equivalente) y los [criterios de aceptación](../Definicion/criterios-de-aceptacion.md) de cada
   [Historia de usuario](../Definicion/historia-de-usuario.md).
 - Si la API es multi-tenant o acepta reintentos, entender [Multi-tenancy](../../Arquitectura/Sistemas-distribuidos/multi-tenancy.md) y
   [Clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md): generan categorías propias.

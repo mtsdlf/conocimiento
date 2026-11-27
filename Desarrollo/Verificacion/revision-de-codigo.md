@@ -31,13 +31,9 @@ Google estudió su propia práctica (Sadowski et al., ICSE SEIP 2018) con 12 ent
 
 ## Qué revisa cada uno
 
-| Quién | Qué revisa | Por qué ahí |
-|---|---|---|
-| Herramienta | formato, lint, tipos, análisis estático, que las pruebas pasen | es determinista |
-| Otro agente, con contexto limpio | el cambio contra la especificación, casos borde, huecos de corrección | no lo arrastra el razonamiento que produjo el código |
-| Persona | intención, diseño, seguridad, lo que el agente no puede saber del negocio | conserva el traspaso de conocimiento que Bacchelli y Bird vieron como beneficio |
+El reparto es el de las [tres capas de control](verificacion.md#las-tres-capas-de-control) de Verificación, síntesis de esta base: una herramienta determinista controla formato, lint, tipos, análisis estático y que las pruebas pasen; otro agente con contexto limpio, al que no arrastra el razonamiento que produjo el código, contrasta el cambio contra la especificación y busca casos borde y huecos de corrección; una persona revisa intención, diseño, seguridad y lo que el agente no puede saber del negocio.
 
-El reparto es síntesis de esta base; no lo afirma una fuente única. La fila de la persona incluye lo que Bacchelli y Bird vieron como beneficio principal: que alguien más entienda el código. Si nadie lo lee, ese beneficio se pierde, y es un costo que hay que nombrar cuando se decide cuánto revisar.
+Lo propio de la revisión está en la parte de la persona, que conserva lo que Bacchelli y Bird vieron como beneficio principal: que alguien más entienda el código. Si nadie lo lee, ese beneficio se pierde, y es un costo que hay que nombrar cuando se decide cuánto revisar.
 
 Los comentarios de estilo y de formato salen de la revisión humana, porque los absorbe la herramienta. La herramienta también corre antes: el Radar de Thoughtworks (vol. 34, abril de 2026, según un resumen) pone controles deterministas antes de la revisión humana.
 
@@ -55,7 +51,7 @@ La guía de buenas prácticas de Anthropic para su agente de código (leída el 
 
 Un revisor puede tener solo herramientas de lectura, y esa restricción la aplica la herramienta, no el prompt. Pasos, con eso:
 
-1. Abrí una sesión que no vio la conversación y dale el diff y la especificación (sale de [Definición](../Definicion/definicion.md)).
+1. Abrí una sesión que no vio la conversación y dale el diff y la [especificación](../Definicion/especificacion.md).
 2. Pedile huecos que afecten la corrección, no estilo.
 3. Leé sus hallazgos como hipótesis: verificá cada uno antes de corregir.
 4. Lo que queda para vos es la intención y el riesgo.

@@ -19,6 +19,7 @@ fuentes:
   - "Pronóstico Monte Carlo con takt time, actas de conferencia 2021 (según abstract por buscador): https://core.ac.uk/download/334528317.pdf"
   - "Thoughtworks Technology Radar, Velocity as productivity (Hold, ene 2015): https://www.thoughtworks.com/radar/techniques/velocity-as-productivity"
   - "METR (2025), Measuring AI Ability to Complete Long Tasks (según su resumen): https://arxiv.org/abs/2503.14499"
+  - "METR, Time Horizon 1.1 (29 de enero de 2026): https://metr.org/blog/2026-1-29-time-horizon-1-1"
   - "Preprints sobre modelos de lenguaje que estiman puntos de historia (según resumen): https://arxiv.org/pdf/2403.08430 ; https://arxiv.org/pdf/2603.06276 ; https://arxiv.org/pdf/2604.03443"
   - "Desarrollo/.investigacion/encargo.md"
   - "Desarrollo/.investigacion/posicion-contraria.md"
@@ -69,7 +70,7 @@ El ritmo solo existe después de empezar, así que esta forma no sirve para coti
 
 ## Lo que pierde peso, y con qué respaldo
 
-La velocidad del equipo como medida de productividad tiene respaldo para dejarse: el Radar de Thoughtworks la puso en Hold en 2015, porque se usa para jugar la métrica en lugar de entregar software. La misma entrada admite la velocidad como estimación interna de capacidad.
+La velocidad (velocity) del equipo como medida de productividad tiene respaldo para dejarse: el Radar de Thoughtworks la puso en Hold en 2015, porque se usa para jugar la métrica en lugar de entregar software. La misma entrada admite la velocidad como estimación interna de capacidad.
 
 Estimar en horas cada tarea técnica y sumar no tiene ese respaldo. Lo que hay es evidencia de que la estimación detallada se queda corta de forma sistemática, no de que haya que abandonarla, y nada de lo encontrado compara estimar tarea por tarea contra estimar en grueso. Que pierde peso es criterio de esta base, y se dice así en [lo que pierde peso](../Fundamentos/lo-que-pierde-peso-en-desarrollo.md).
 
@@ -77,8 +78,8 @@ Estimar en horas cada tarea técnica y sumar no tiene ese respaldo. Lo que hay e
 
 No hay estudio sobre estimar trabajo que hace un agente; el informe de posición contraria lo marca como el hueco más grande de esta nota. Lo que hay es indirecto y se lee con cuidado:
 
-- Que un modelo de lenguaje estime da resultados dispares. Según los resúmenes, un estudio de 2024 halló que en cero ejemplos el modelo rinde peor que los promedios y medianas de base, un preprint de 2026 que con pocos ejemplos mejora y un tercero evalúa recuperación aumentada. Todos miden puntos de historia y no tiempo, y los autores piden una evaluación rigurosa antes de reemplazar el Planning Poker.
-- METR mide el horizonte de tareas que un agente completa la mitad de las veces y, según su resumen, encontró que se duplicó cada siete meses aproximadamente desde 2019. METR advierte que no se lee como que la IA haga todo el trabajo de esa duración. En criterio de esta base, sirve para decidir qué porción darle a un agente, no para estimar el proyecto.
+- Que un modelo de lenguaje estime da resultados dispares. Según los resúmenes, un estudio de 2024 halló que en cero ejemplos el modelo rinde peor que los promedios y medianas de base, un preprint de 2026 que con pocos ejemplos mejora y un tercero evalúa recuperación aumentada. Todos miden puntos de historia (story points) y no tiempo, y los autores piden una evaluación rigurosa antes de reemplazar el Planning Poker.
+- METR mide el horizonte de tareas que un agente completa la mitad de las veces y, según su resumen, encontró que se duplicó cada siete meses aproximadamente desde 2019; su medición de enero de 2026 da unos 196 días de duplicación desde 2019 y 89 desde 2024, como cuenta [descomposición en tareas](../Definicion/descomposicion-en-tareas.md#horizontes-medidos-por-metr-en-enero-de-2026). METR advierte que no se lee como que la IA haga todo el trabajo de esa duración. En criterio de esta base, sirve para decidir qué porción darle a un agente, no para estimar el proyecto.
 - Cuánto acelera un agente a quien programa tiene evidencia en las dos direcciones, como cuenta [agente de código](../Construccion/agente-de-codigo.md).
 
 La lectura de esta base, sin fuente que la mida, es que la parte que el agente abarata (escribir el código) nunca fue la que más se desviaba. Lo que dispara los proyectos sigue ahí: definir mal, integrar, requisitos que cambian. Y nada indica que el sesgo de optimismo desaparezca porque estime o construya un agente; tampoco se encontró evidencia en contra.
