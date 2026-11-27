@@ -9,7 +9,7 @@ preguntas:
   - "¿Un tutor de IA ayuda a aprender o hace que no se aprenda?"
   - "¿Por qué la mayoría abandona un curso en línea, y qué lo evita?"
   - "¿Qué aporta un software de repaso espaciado frente a estudiar sin él?"
-aprobado:
+aprobado: 2026-11-27
 ---
 
 # Alcance: Tecnología educativa

@@ -9,7 +9,7 @@ preguntas:
   - "¿Cómo sé si de verdad aprendieron, y no solo si les gustó?"
   - "¿Cómo ubico a alguien que entra a un curso según lo que ya sabe?"
   - "¿Qué hace confiable a una prueba?"
-aprobado:
+aprobado: 2026-11-27
 ---
 
 # Alcance: Evaluación educativa

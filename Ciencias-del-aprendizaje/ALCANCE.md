@@ -10,7 +10,7 @@ preguntas:
   - "¿Qué tiene que saber antes una persona para aprender un tema nuevo, y cómo se nota que le falta?"
   - "¿Aprende distinto un adulto que un chico, o es un mito?"
   - "¿Qué de lo que se repite sobre cómo aprendemos es mito?"
-aprobado:
+aprobado: 2026-11-27
 ---
 
 # Alcance: Ciencias del aprendizaje

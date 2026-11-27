@@ -9,7 +9,7 @@ preguntas:
   - "Tengo que armar una capacitación de ocho horas: ¿por dónde empiezo y en qué orden la diseño?"
   - "¿Cómo se ordena un temario para que cada parte se apoye en la anterior?"
   - "¿Qué cambia si el curso es a ritmo propio en lugar de con cohorte?"
-aprobado:
+aprobado: 2026-11-27
 ---
 
 # Alcance: Diseño instruccional

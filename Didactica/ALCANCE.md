@@ -10,7 +10,7 @@ preguntas:
   - "¿Cómo se explica algo nuevo para que se entienda y no se olvide?"
   - "¿Qué hace un buen mentor o tutor uno a uno que no hace una clase?"
   - "¿Qué cambia al enseñar programación frente a otra materia?"
-aprobado:
+aprobado: 2026-11-27
 ---
 
 # Alcance: Didáctica
