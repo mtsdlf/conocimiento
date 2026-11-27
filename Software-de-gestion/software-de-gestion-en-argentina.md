@@ -111,6 +111,22 @@ El Libro de IVA Digital no desapareció con IVA Simple: la RG 5705 no deroga la 
 
 Para los libros contables, el art. 61 permite llevarlos en registros digitales y el diario con asientos globales de hasta un mes ([libros contables en Argentina](../Contabilidad/Registro/libros-contables-en-argentina.md#libros-en-computadora-y-registros-digitales)). La RG IGJ 15/2024 admite, en sus considerandos, conservar el soporte como «archivos identificados con un hash» y aclara que se conserva el soporte y no los servidores. Es el único texto leído que nombra el hash; su Anexo A no se leyó.
 
+## Qué preguntarle a un proveedor
+
+Las reglas de arriba se vuelven preguntas al [elegir un sistema](Implementacion/elegir-un-sistema.md). La lista es lectura de esta base: ninguna fuente leída la arma, y cada pregunta sale de una sección de esta nota.
+
+1. ¿Autoriza por web service con certificado propio de la empresa o por delegación, y quién renueva el certificado?
+2. ¿Qué hace ante un time-out: consulta el comprobante antes de reenviar, o reenvía?
+3. ¿Opera con CAEA como contingencia, con su punto de venta propio y la rendición de cada quincena dentro del plazo?
+4. ¿Ya manda la condición frente al IVA del receptor, y de dónde la toma?
+5. ¿Se integra con el controlador fiscal, si la empresa lo usa?
+6. ¿Baja y aplica los padrones de Ingresos Brutos de las provincias donde opera la empresa, con la vigencia de cada alícuota?
+7. ¿Genera IVA Simple o el Libro de IVA Digital, según corresponda, y los regímenes de SICORE o SIRE si la empresa es agente?
+8. ¿Cómo y en cuánto tiempo actualiza el producto cuando ARCA cambia una resolución o una versión del manual?
+9. ¿Lleva los libros contables y de sueldos con los requisitos de los registros digitales?
+
+En la demo guionada conviene pedir que emita en el ambiente de homologación una factura, una nota de crédito y un comprobante con rechazo.
+
 ## No hay homologación de software de gestión
 
 No se encontró ninguna norma que exija homologar o certificar un software de gestión o de facturación. Es ausencia de evidencia, no evidencia de ausencia: se buscó en el sitio de ARCA y con un buscador, y la única verificación firme sería consultar a ARCA o a un tributarista. Tres cosas se confunden con eso:

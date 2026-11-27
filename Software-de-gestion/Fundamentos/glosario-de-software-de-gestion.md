@@ -100,6 +100,7 @@ En lectura de esta base, el campo no tiene una norma de terminología propia, y 
 | Modificar | Modify, overlayer | Cambiar el código del núcleo; se paga en cada actualización | [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md) |
 | Personalizar | Customize, tailor | Adaptar el producto a la empresa; según la fuente, incluye configurar o se reserva para el código | [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md) |
 | Reporte operativo, reporte legal | Operational report, statutory report | Lo que el sistema entrega de su propia base: el listado del día y el libro que pide la norma | [reportes operativos y legales](../Columnas-tecnicas/reportes-operativos-y-legales.md) |
+| Punto de extensión | User exit | Un lugar que el producto prevé para enganchar código propio sin modificar el suyo | [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md) |
 
 ## Implementación
 
@@ -116,6 +117,7 @@ En lectura de esta base, el campo no tiene una norma de terminología propia, y 
 | Saldos de apertura | Opening balances | Los saldos con los que arranca el sistema nuevo a la fecha de corte; tienen que cuadrar con el balance aprobado | [migración de datos](../Implementacion/migracion-de-datos.md) |
 | Corte | Cutover | El paso de un sistema al otro, una ventana en la que no se usa ninguno | [puesta en marcha](../Implementacion/puesta-en-marcha.md) |
 | Ensayo de corte | Mock cutover | Repetir el corte con los mismos datos, herramientas y personas antes de hacerlo de verdad | [puesta en marcha](../Implementacion/puesta-en-marcha.md) |
+| Seguir o no seguir | Go/no-go | La decisión, con criterios fijados antes, de hacer o postergar el corte | [puesta en marcha](../Implementacion/puesta-en-marcha.md#el-corte) |
 | Puesta en marcha | Go-live | El momento en que la empresa empieza a trabajar con el sistema nuevo | [puesta en marcha](../Implementacion/puesta-en-marcha.md) |
 | De una vez, por fases, en paralelo | Big bang, phased, parallel | Las tres formas de poner en marcha: todo junto, por módulos o sedes, o con los dos sistemas a la vez | [puesta en marcha](../Implementacion/puesta-en-marcha.md) |
 | Hipercuidado | Hypercare | El soporte reforzado de las primeras semanas; el término sale de la metodología de un proveedor y no tiene definición neutral | [puesta en marcha](../Implementacion/puesta-en-marcha.md) |
@@ -144,6 +146,11 @@ En lectura de esta base, el campo no tiene una norma de terminología propia, y 
 | CAE | — | Código de autorización electrónico que ARCA le da a cada comprobante en el momento, por web service; sin él el comprobante no está autorizado | [software de gestión en la Argentina](../software-de-gestion-en-argentina.md), [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md) |
 | CAEA | — | Código que se pide por anticipado para una quincena y se informa después; desde el 1 de junio de 2026 queda para las contingencias | [software de gestión en la Argentina](../software-de-gestion-en-argentina.md#el-caea-pasó-a-ser-la-contingencia) |
 | Controlador fiscal | — | El equipo homologado con el que se emiten comprobantes como alternativa a la factura electrónica por web service; lo que se homologa es el equipo, no el software de gestión | [software de gestión en la Argentina](../software-de-gestion-en-argentina.md) |
+| CUIT | — | La clave de identificación tributaria de cada contribuyente; identifica al emisor y al receptor en cada comprobante | [impuestos en Argentina](../../Impuestos/impuestos-en-argentina.md) |
+| WSAA y WSFEv1 | — | Los web services de ARCA: el primero autentica al sistema con su certificado y le da un ticket de acceso; el segundo autoriza los comprobantes y devuelve el CAE | [software de gestión en la Argentina](../software-de-gestion-en-argentina.md) |
+| CAI | — | La autorización para comprobantes impresos, que queda para las contingencias | [software de gestión en la Argentina](../software-de-gestion-en-argentina.md#el-caea-pasó-a-ser-la-contingencia) |
+| Padrón | — | La lista que publica un fisco con la alícuota de percepción o retención que corresponde a cada contribuyente, con su vigencia; el sistema la baja y la aplica | [software de gestión en la Argentina](../software-de-gestion-en-argentina.md), [retenciones y percepciones en Argentina](../../Impuestos/Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md) |
+| SICORE y SIRE | — | Los sistemas de ARCA donde el agente informa lo que retuvo o percibió | [retenciones y percepciones en Argentina](../../Impuestos/Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md#cómo-informa-el-agente-sicore-y-sire) |
 
 ## Las siglas
 

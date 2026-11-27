@@ -62,6 +62,10 @@ Lo que la guía pide, en pasos:
 
 La fecha del corte es también la de los saldos de apertura de la [migración](migracion-de-datos.md). En lectura de esta base, importa tanto como el plan: un corte se pone donde el negocio puede frenar, lejos de la temporada alta, del cierre de mes y de los vencimientos fiscales, y desde ese día el sistema viejo debería quedar con una [fecha de bloqueo](../Columnas-tecnicas/fechas-vigencias-y-cierre.md) que impida registrar en él.
 
+### Cortar sin frenar la facturación en la Argentina
+
+Ninguna fuente leída explica cómo cortar sin dejar de facturar. Lo que sigue es lectura de esta base sobre las reglas de ARCA que junta [software de gestión en la Argentina](../software-de-gestion-en-argentina.md#el-comprobante-con-cae-como-documento). La numeración se lleva por tipo de comprobante y punto de venta, y el web service exige correlatividad de número y de fecha: el sistema viejo y el nuevo no pueden emitir a la vez en el mismo punto de venta. Hay dos salidas. Una es que el nuevo arranque en el mismo punto, después de consultar el último número autorizado (el manual tiene un método para eso) y con el viejo ya bloqueado. La otra es habilitar un punto de venta nuevo para el sistema nuevo. En los dos casos, el ensayo del corte incluye emitir comprobantes en el ambiente de homologación de ARCA, y el CAEA queda como contingencia si el web service no responde durante la ventana.
+
 ## Hipercuidado
 
 La metodología de un proveedor grande ubica el hipercuidado (hypercare), según un resumen, dentro de la fase de despliegue. No se encontró una definición neutral del término. En lectura de esta base, es el período inmediato a la puesta en marcha en que el equipo del proyecto sigue al lado de los usuarios, con atención reforzada y prioridad para los errores que frenan la operación.
