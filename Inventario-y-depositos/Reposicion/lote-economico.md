@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El lote económico (EOQ) es la cantidad por pedido que hace mínimo el costo de pedir más el de mantener, cuando la demanda es constante: Q* = √(2DK/h). Lo publicó Ford Whitman Harris en 1913; R. H. Wilson lo difundió después. Es una aproximación con supuestos fuertes, que (por el ejemplo numérico de abajo, criterio de la base) sirve porque el costo cambia poco cerca del óptimo.
+  El lote económico (EOQ) es la cantidad por pedido que hace mínimo el costo de pedir más el de mantener, cuando la demanda es constante: Q* = √(2DK/h). Lo publicó Ford Whitman Harris en 1913; R. H. Wilson lo difundió después. Es una aproximación con supuestos fuertes. Sirve porque el costo cambia poco cerca del óptimo (criterio de la base, por el ejemplo numérico de abajo).
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -19,7 +19,7 @@ revisado:
 
 # Lote económico
 
-El lote económico (EOQ) es la cantidad por pedido que hace mínimo el costo de pedir más el de mantener, cuando la demanda es constante: Q* = √(2DK/h). Lo publicó Ford Whitman Harris en 1913; R. H. Wilson lo difundió después. Es una aproximación con supuestos fuertes, que (por el ejemplo numérico de abajo, criterio de la base) sirve porque el costo cambia poco cerca del óptimo.
+El lote económico (EOQ) es la cantidad por pedido que hace mínimo el costo de pedir más el de mantener, cuando la demanda es constante: Q* = √(2DK/h). Lo publicó Ford Whitman Harris en 1913; R. H. Wilson lo difundió después. Es una aproximación con supuestos fuertes. Sirve porque el costo cambia poco cerca del óptimo (criterio de la base, por el ejemplo numérico de abajo).
 
 Contesta el «cuánto» de una política de [reposición](reposicion.md), y es la Q de la política (s, Q) del [punto de pedido](punto-de-pedido.md). Dimensiona el stock de ciclo: en promedio, la mitad del lote está en el depósito.
 

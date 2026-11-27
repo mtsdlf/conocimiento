@@ -66,4 +66,4 @@ Las fallas son criterio de la base:
 - **Reservar sobre un número falso.** Si el registro no coincide con el estante, la reserva aparta algo que no existe. El problema es de [Control del stock](../Control-del-stock/control-del-stock.md).
 - **Reservar en varios canales a la vez.** Cada canal aparta contra su propia copia del número; en una tienda online es la sobreventa, que está en [catálogo y stock](../../Comercio-electronico/Operaciones-del-comercio/catalogo-y-stock.md).
 
-En un sistema, la reserva se guarda como un movimiento más, que no cambia la cantidad física sino la comprometida, con el patrón de [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md).
+En un sistema, la reserva se guarda como un movimiento más, que cambia la cantidad comprometida y deja igual la física, con el patrón de [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md).

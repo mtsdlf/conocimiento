@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El lote agrupa unidades de un artículo que se recibieron, fabricaron o vencen juntas, y el número de serie identifica una sola unidad; los dos permiten rastrear de dónde vino y a dónde fue cada cosa, y decidir qué sale primero (FIFO, FEFO).
+  El lote agrupa unidades de un artículo que se recibieron, fabricaron o vencen juntas, y el número de serie identifica una sola unidad. Los dos permiten rastrear de dónde vino y a dónde fue cada cosa, y decidir qué sale primero (FIFO, FEFO).
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -18,7 +18,7 @@ revisado:
 
 # Lote y serie
 
-El lote agrupa unidades de un artículo que se recibieron, fabricaron o vencen juntas, y el número de serie identifica una sola unidad; los dos permiten rastrear de dónde vino y a dónde fue cada cosa, y decidir qué sale primero (FIFO, FEFO).
+El lote agrupa unidades de un artículo que se recibieron, fabricaron o vencen juntas, y el número de serie identifica una sola unidad. Los dos permiten rastrear de dónde vino y a dónde fue cada cosa, y decidir qué sale primero (FIFO, FEFO).
 
 Son la tercera coordenada de la fórmula de [existencias](existencias.md): con lote o serie, una cantidad ya no es «40 frascos» sino «25 del lote A, que vence en marzo, y 15 del lote B». Si un [artículo](articulo.md) se sigue por lote, por serie o sin seguimiento se decide en su ficha y afecta a todo el recorrido por el depósito.
 

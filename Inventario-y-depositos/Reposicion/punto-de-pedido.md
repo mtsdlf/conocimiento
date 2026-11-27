@@ -30,7 +30,7 @@ x̂L es la demanda pronosticada durante el plazo de entrega L, k es el factor de
 
 Con el ejemplo del MIT: demanda de 13.000 unidades al año, plazo de 2 semanas y error del pronóstico de 1.316 unidades al año. La demanda en el plazo es 13.000 × 2/52 = 500 y su desvío, 1.316/√26 = 258. Para no quedarse sin stock en el 95 % de los ciclos, el MIT da un stock de seguridad de 423, así que el punto de pedido queda en 500 + 423 = 923 unidades. La suma final es cuenta de la base sobre los datos de la fuente.
 
-El pronóstico que entra en la fórmula no se hace acá: es de Cadena de suministro y logística. El punto de pedido lo usa.
+El pronóstico que entra en la fórmula lo hace Cadena de suministro y logística; el punto de pedido solo lo usa.
 
 ## Qué se compara con el punto: la posición de stock
 
@@ -71,7 +71,7 @@ Las clases salen de la [clasificación ABC](clasificacion-abc.md).
 
 ## Cómo falla el punto de pedido
 
-- **El registro está mal.** La posición de stock hereda el error del registro. DeHoratius y Raman encontraron inexacto el 65 % de los registros de un minorista (según el resumen; está en [control del stock](../Control-del-stock/control-del-stock.md)). Si el sistema cree que hay más, el punto no se cruza y el pedido no sale. Kök y Shang, según el resumen de su artículo, proponen con registros inexactos una política que inspecciona cuando el registro cae bajo un umbral y pide hasta un nivel que depende del tiempo desde la última inspección; un [conteo cíclico](../Control-del-stock/conteo-ciclico.md) con niveles que dependen del estado rinde casi igual.
+- **El registro está mal.** La posición de stock hereda el error del registro. DeHoratius y Raman encontraron inexacto el 65 % de los registros de un minorista (según el resumen; está en [control del stock](../Control-del-stock/control-del-stock.md)). Si el sistema cree que hay más, el punto no se cruza y el pedido no sale. Kök y Shang, según el resumen de su artículo, proponen con registros inexactos una política que inspecciona cuando el registro cae bajo un umbral y pide hasta un nivel que depende del tiempo desde la última inspección. Un [conteo cíclico](../Control-del-stock/conteo-ciclico.md) con niveles que dependen del estado rinde casi igual.
 - **No se resta lo comprometido.** Si los pedidos de clientes no reservan, la posición incluye stock que ya es de otro.
 - **El punto quedó fijo y la demanda cambió.** La fórmula usa un pronóstico; si nadie la recalcula, el punto de la temporada pasada dispara tarde o de más. Es criterio de la base.
 - **Los supuestos de la fórmula no se cumplen.** Demanda normal, independiente y plazo fijo: los límites están en [stock de seguridad](stock-de-seguridad.md).

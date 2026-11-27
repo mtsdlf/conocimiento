@@ -17,7 +17,7 @@ revisado:
 
 El artículo es el dato maestro de cada cosa que la empresa guarda, compra o vende: un código que la identifica, la unidad en que se cuenta con sus conversiones, y la decisión de si lleva stock o no. Todo movimiento y toda cantidad del tema cuelgan de un artículo.
 
-Es la primera coordenada de la fórmula de [existencias](existencias.md): sin artículo no hay cantidad. Cómo resuelve cualquier sistema los datos maestros en general (quién los da de alta, cómo se versionan) es del tema Software de gestión, todavía no armado; esta nota trata lo que el negocio necesita registrar del artículo para llevar stock.
+Es la primera coordenada de la fórmula de [existencias](existencias.md): sin artículo no hay cantidad. Cómo resuelve cualquier sistema los datos maestros en general (quién los da de alta, cómo se versionan) es del tema Software de gestión, todavía no armado. Acá va lo que el negocio necesita registrar del artículo para llevar stock.
 
 ## Un código por cada cosa que se cuenta por separado
 

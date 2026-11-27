@@ -32,13 +32,13 @@ La base usa estos estados en todo el tema. Las definiciones son criterio de la b
 
 | Estado | Qué cuenta | Está en el depósito | Se puede prometer | Qué lo pone y qué lo saca |
 |---|---|---|---|---|
-| **Físico** | Todo lo que está en el lugar, en cualquiera de los estados de abajo salvo en tránsito | Sí | No como tal: es la suma | Lo suman la recepción y las transferencias que llegan; lo restan las salidas y los ajustes |
-| **Disponible** | Lo que está y se puede usar sin quitárselo a nadie | Sí | Sí | Lo libera la inspección o la reserva que se cancela; lo consume la reserva |
-| **Comprometido** | Lo apartado para un pedido que todavía no salió | Sí | No | Lo pone la [reserva](../Operacion-del-deposito/reserva.md); lo saca la salida o la cancelación |
-| **En cuarentena** | Lo que espera inspección o una decisión de calidad | Sí | Según la regla de cada empresa | Lo pone la [recepción](../Operacion-del-deposito/recepcion.md) o un reclamo; lo saca la inspección, a disponible o a bloqueado |
-| **Bloqueado** | Lo que no se puede usar: roto, vencido, retenido por un retiro de mercado | Sí | No | Lo pone una inspección, un conteo o el vencimiento; lo saca la reparación o un [ajuste](../Control-del-stock/ajustes-y-mermas.md) |
-| **En tránsito** | Lo que salió de un lugar propio y no llegó a otro | No | Según la regla de cada empresa | Lo pone la salida de una transferencia; lo saca la recepción en el destino |
-| **De terceros** | Lo que está en el depósito pero no es de la empresa | Sí | No, salvo acuerdo | Lo ponen la recepción en consignación o en guarda; lo saca la devolución o la compra |
+| Físico | Todo lo que está en el lugar, en cualquiera de los estados de abajo salvo en tránsito | Sí | No como tal: es la suma | Lo suman la recepción y las transferencias que llegan; lo restan las salidas y los ajustes |
+| Disponible | Lo que está y se puede usar sin quitárselo a nadie | Sí | Sí | Lo libera la inspección o la reserva que se cancela; lo consume la reserva |
+| Comprometido | Lo apartado para un pedido que todavía no salió | Sí | No | Lo pone la [reserva](../Operacion-del-deposito/reserva.md); lo saca la salida o la cancelación |
+| En cuarentena | Lo que espera inspección o una decisión de calidad | Sí | Según la regla de cada empresa | Lo pone la [recepción](../Operacion-del-deposito/recepcion.md) o un reclamo; lo saca la inspección, a disponible o a bloqueado |
+| Bloqueado | Lo que no se puede usar: roto, vencido, retenido por un retiro de mercado | Sí | No | Lo pone una inspección, un conteo o el vencimiento; lo saca la reparación o un [ajuste](../Control-del-stock/ajustes-y-mermas.md) |
+| En tránsito | Lo que salió de un lugar propio y no llegó a otro | No | Según la regla de cada empresa | Lo pone la salida de una transferencia; lo saca la recepción en el destino |
+| De terceros | Lo que está en el depósito pero no es de la empresa | Sí | No, salvo acuerdo | Lo ponen la recepción en consignación o en guarda; lo saca la devolución o la compra |
 
 La relación entre ellos, para un artículo en un lugar, es (criterio de la base):
 

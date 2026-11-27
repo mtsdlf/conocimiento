@@ -23,7 +23,7 @@ Es la puerta de entrada de [Operación del depósito](operacion-del-deposito.md)
 
 En la misma descarga trabajan dos dominios. Compras y abastecimiento, todavía no armado, mira si llegó lo pedido: compara lo recibido con la orden de compra y con la factura del proveedor, y si llegaron 90 de 100 decide qué se le reclama. Este tema cuenta lo que hay, lo inspecciona, aparta lo dudoso, lo ubica y suma el movimiento al stock. El conteo de acá es el dato que Compras usa para su control.
 
-Bartholdi y Hackman marcan el efecto hacia los costados: la recepción dispara el pago al proveedor, igual que el despacho dispara la factura al cliente. Por eso registrar mal una recepción no solo deja mal el stock, también hace pagar lo que no llegó (inferencia de la base).
+Bartholdi y Hackman marcan el efecto hacia los costados: la recepción dispara el pago al proveedor, igual que el despacho dispara la factura al cliente. Por eso una recepción mal registrada deja mal el stock y además hace pagar lo que no llegó (inferencia de la base).
 
 ## Los pasos de una recepción
 

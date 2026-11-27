@@ -60,7 +60,7 @@ Bartholdi y Hackman dan la regla para agrupar. Casi siempre conviene juntar los 
 
 ## El recorrido
 
-Elegir el orden de las ubicaciones es un problema de recorrido mínimo, el del viajante. La revisión de De Koster et al. explica que en la práctica se usan reglas simples (volver por el mismo pasillo, ir hasta la mitad, recorrer en S, entre otras) porque el óptimo no existe para cualquier plano y a quienes preparan les resulta poco lógico seguirlo. Para quien construye un sistema, la consecuencia práctica es ordenar la lista de picking según la dirección de [ubicaciones](ubicaciones.md), en el orden en que se camina (criterio de la base).
+Elegir el orden de las ubicaciones es un problema de recorrido mínimo, el del viajante. La revisión de De Koster et al. explica que en la práctica se usan reglas simples: volver por el mismo pasillo, ir hasta la mitad, recorrer en S, entre otras. Las razones son que el óptimo no existe para cualquier plano y que a quienes preparan les resulta poco lógico seguirlo. Para quien construye un sistema, la consecuencia práctica es ordenar la lista de picking según la dirección de [ubicaciones](ubicaciones.md), en el orden en que se camina (criterio de la base).
 
 ## Cuando la ubicación está vacía
 

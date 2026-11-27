@@ -89,7 +89,7 @@ Wikipedia lo dice sin vueltas: «No universal formula exists for safety stock, a
 
 Dos artículos primarios, leídos solo por su resumen, van en la misma dirección. Eppen y Martin (1988) sostienen que un procedimiento estándar de la literatura puede dar resultados lejos del nivel buscado cuando el plazo y la demanda son aleatorios, y presentan uno corregido («A correct procedure is presented.»). Chopra, Reinhardt y Dada (2004) argumentan que lo que la aproximación normal concluye sobre la variabilidad del plazo es erróneo en el rango de servicio donde opera la mayoría de las empresas, y que a veces conviene acortar el plazo antes que reducir su variabilidad.
 
-Hay un supuesto más, que ninguna fórmula escribe: que el registro es exacto. DeHoratius y Raman encontraron inexacto el 65 % de casi 370.000 registros de 37 tiendas de un minorista (según el resumen). Un colchón calculado sobre un número que miente es un colchón de mentira; cómo se corrige el número está en [control del stock](../Control-del-stock/control-del-stock.md).
+Hay un supuesto más, que ninguna fórmula escribe: que el registro es exacto. DeHoratius y Raman encontraron inexacto el 65 % de casi 370.000 registros de 37 tiendas de un minorista (según el resumen). Si el registro está mal, el colchón calculado sobre él no cubre lo que dice cubrir. Cómo se corrige el número está en [control del stock](../Control-del-stock/control-del-stock.md).
 
 En la base, la fórmula se da como punto de partida: un k y un σL razonables, y después se mira el nivel de servicio real con los [indicadores de inventario](indicadores-de-inventario.md) y se ajusta. Es criterio de la base.
 

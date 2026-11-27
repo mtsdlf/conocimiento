@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La clasificación ABC ordena los artículos por su valor anual de consumo y los parte en tres clases, para darles control fino a los pocos que pesan mucho (A) y control simple a los muchos que pesan poco (C). Decide qué política de reposición y qué frecuencia de conteo lleva cada artículo; sus cortes no son fijos, y XYZ le suma una segunda mirada por variabilidad de la demanda.
+  La clasificación ABC ordena los artículos por su valor anual de consumo y los parte en tres clases, para darles control fino a los pocos que pesan mucho (A) y control simple a los muchos que pesan poco (C). Decide qué política de reposición y qué frecuencia de conteo lleva cada artículo. Sus cortes no son fijos, y XYZ le suma una segunda mirada por variabilidad de la demanda.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -21,7 +21,7 @@ revisado:
 
 # Clasificación ABC
 
-La clasificación ABC ordena los artículos por su valor anual de consumo y los parte en tres clases, para darles control fino a los pocos que pesan mucho (A) y control simple a los muchos que pesan poco (C). Decide qué política de reposición y qué frecuencia de conteo lleva cada artículo; sus cortes no son fijos, y XYZ le suma una segunda mirada por variabilidad de la demanda.
+La clasificación ABC ordena los artículos por su valor anual de consumo y los parte en tres clases, para darles control fino a los pocos que pesan mucho (A) y control simple a los muchos que pesan poco (C). Decide qué política de reposición y qué frecuencia de conteo lleva cada artículo. Sus cortes no son fijos, y XYZ le suma una segunda mirada por variabilidad de la demanda.
 
 Dentro de [reposición](reposicion.md), dice a qué artículos dedicarles la política más fina de [punto de pedido](punto-de-pedido.md) y de [stock de seguridad](stock-de-seguridad.md). Fuera de ella, fija cada cuánto se cuenta cada artículo en el [conteo cíclico](../Control-del-stock/conteo-ciclico.md). Vive acá porque nace como política de atención; el conteo la usa.
 

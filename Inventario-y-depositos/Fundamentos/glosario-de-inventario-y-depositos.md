@@ -92,3 +92,21 @@ Los sistemas usan nombres distintos para lo mismo, sobre todo en los estados del
 |---|---|---|
 | Remito | El documento que acompaña el traslado y la entrega de bienes | [Inventario y depósitos en la Argentina](../inventario-y-depositos-en-argentina.md) |
 | COT | El código de operación de traslado que piden algunas provincias para mover mercadería | [Inventario y depósitos en la Argentina](../inventario-y-depositos-en-argentina.md) |
+| CAI | El código de autorización de impresión que tiene que figurar en el remito | [Inventario y depósitos en la Argentina](../inventario-y-depositos-en-argentina.md) |
+| DT-e | El documento de tránsito electrónico con que se mueven animales bajo control del SENASA | [Inventario y depósitos en la Argentina](../inventario-y-depositos-en-argentina.md) |
+
+## Siglas
+
+| Sigla | Qué es | Dónde |
+|---|---|---|
+| ATP | Available-to-promise, disponible para prometer | [disponible para prometer](../Existencias/disponible-para-prometer.md) |
+| CSL | Cycle service level, nivel de servicio por ciclo | [stock de seguridad](../Reposicion/stock-de-seguridad.md) |
+| IFR | Item fill rate, tasa de cumplimiento | [stock de seguridad](../Reposicion/stock-de-seguridad.md) |
+| IOH | Inventory on hand, el stock en mano | [punto de pedido](../Reposicion/punto-de-pedido.md) |
+| RMSE | Root mean square error, la raíz del error cuadrático medio del pronóstico | [punto de pedido](../Reposicion/punto-de-pedido.md) |
+| EOQ | Economic order quantity, lote económico | [lote económico](../Reposicion/lote-economico.md) |
+| WMS | Warehouse management system, sistema de gestión de depósitos | [operación del depósito](../Operacion-del-deposito/operacion-del-deposito.md) |
+| APQC | La organización que publica el Process Classification Framework, la taxonomía de procesos que cita la base | [fundamentos](fundamentos-de-inventario-y-depositos.md) |
+| ASCM | Association for Supply Chain Management, ex APICS: publica el diccionario del campo y la certificación CPIM | [fundamentos](fundamentos-de-inventario-y-depositos.md) |
+| CPIM | La certificación de ASCM en planificación e inventario | [fundamentos](fundamentos-de-inventario-y-depositos.md) |
+| SCOR | El modelo de referencia de procesos de la cadena de suministro | [fundamentos](fundamentos-de-inventario-y-depositos.md) |

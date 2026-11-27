@@ -23,7 +23,7 @@ Es el último paso del [Control del stock](control-del-stock.md): el [conteo cí
 
 ## El ajuste es un movimiento con motivo
 
-Un ajuste no cambia el saldo a mano: agrega un movimiento por la diferencia, positivo si sobra y negativo si falta, que dice por qué. Así se conserva qué había antes, quién lo cambió y cuándo. Cómo queda en una base (la fila de tipo `ajuste` con el motivo escrito) está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md), y no se repite acá.
+Un ajuste no cambia el saldo a mano: agrega un movimiento por la diferencia, positivo si sobra y negativo si falta, que dice por qué. Así se conserva qué había antes, quién lo cambió y cuándo. Cómo queda en una base (la fila de tipo `ajuste` con el motivo escrito) está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md).
 
 La práctica de software sigue esa forma. Según su resumen, un sistema abierto llama a su conciliación de stock «the process of counting and evaluating material/products, periodically at the year-end»: se carga la cantidad contada y, al validar, la diferencia se asienta contra una cuenta de diferencia, por defecto «Stock Adjustment», o «Temporary Opening» cuando se carga el stock inicial. Es decir, el ajuste tiene dos caras: unidades que cambian acá y un importe que va a la contabilidad.
 
@@ -63,6 +63,6 @@ Un error de registro se corrige mejor anulando o compensando el movimiento equiv
 
 El ajuste es la puerta por donde se esconde un faltante: quien se lleva mercadería y además puede ajustar el stock, borra el rastro. Es la combinación que la [separación de funciones](../../Contabilidad/Control-interno/separacion-de-funciones.md) prohíbe, custodiar un bien y llevar su registro. Aplicada al stock, y como lectura de la base sobre ese principio: quien cuenta o cuida el depósito propone el ajuste, y lo aprueba alguien que no tiene la mercadería a cargo.
 
-En una empresa chica eso no siempre es posible, y entonces entran los controles compensatorios que describe la misma nota: un supervisor que revisa después los ajustes con su motivo, un reporte de ajustes por persona y por artículo, y el rastro de quién hizo cada paso. Para eso el sistema tiene que guardar en cada ajuste quién lo propuso, quién lo aprobó, cuándo y por qué; cómo se diseñan esos permisos está en [controles sobre los sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md).
+En una empresa chica eso no siempre es posible, y entonces entran los controles compensatorios que describe la misma nota: un supervisor que revisa después los ajustes con su motivo, un reporte de ajustes por persona y por artículo, y el rastro de quién hizo cada paso. Para eso el sistema tiene que guardar en cada ajuste quién lo propuso, quién lo aprobó, cuándo y por qué. Cómo se diseñan esos permisos está en [controles sobre los sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md).
 
 > [!NOTE] Sin fuente todavía: umbrales de aprobación (desde qué cantidad o importe un ajuste pide una firma más alta) y una fuente primaria sobre aprobación de ajustes de stock; ninguna de las leídas lo trata.

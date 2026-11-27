@@ -16,7 +16,7 @@ revisado:
 
 El disponible para prometer (ATP) es el cálculo de cuántas unidades de un artículo se pueden comprometer a un pedido nuevo en cada fecha: la oferta confirmada menos la demanda ya comprometida, período por período. Se calcula por el método discreto o por el acumulado hacia adelante, y su resultado depende de qué se decide contar como oferta y como comprometido.
 
-El cálculo es de este tema; la fecha que se le dice al cliente es de Relación con clientes, en [fecha prometida](../../Relacion-con-clientes/Pedido-de-venta/fecha-prometida.md), que trae la definición del APICS Dictionary, el primer paso del ejemplo del CPIM y el capable-to-promise para lo que se fabrica contra pedido. Esta nota sigue desde ahí. Lo que se suma y se resta sale de la lista de [estados del stock](estados-del-stock.md), y apartar físicamente las unidades para un pedido es otra cosa: está en [reserva](../Operacion-del-deposito/reserva.md).
+El cálculo es de este tema; la fecha que se le dice al cliente es de Relación con clientes, en [fecha prometida](../../Relacion-con-clientes/Pedido-de-venta/fecha-prometida.md), que trae la definición del APICS Dictionary, el primer paso del ejemplo del CPIM y el capable-to-promise para lo que se fabrica contra pedido. Lo que se suma y se resta sale de la lista de [estados del stock](estados-del-stock.md), y apartar físicamente las unidades para un pedido es otra cosa: está en [reserva](../Operacion-del-deposito/reserva.md).
 
 ## Oferta menos demanda comprometida, sin descontar dos veces
 

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Lo que la Argentina le agrega al movimiento de mercadería: todo traslado, también entre depósitos propios y sin venta, va con remito, que desde abril de 2025 se puede no imprimir; en la provincia de Buenos Aires y las jurisdicciones adheridas, un traslado por tierra que supera cierto valor o peso pide además un código de operación de traslado (COT); y algunos rubros tienen trazabilidad obligatoria propia.
+  Lo que la Argentina le agrega al movimiento de mercadería: todo traslado, también entre depósitos propios y sin venta, va con remito, que desde abril de 2025 se puede no imprimir. En la provincia de Buenos Aires y las jurisdicciones adheridas, un traslado por tierra que supera cierto valor o peso pide además un código de operación de traslado (COT). Algunos rubros tienen, encima, trazabilidad obligatoria propia.
 estado: borrador
 estabilidad: volatil
 fuentes:
@@ -23,7 +23,7 @@ revisado:
 
 # Inventario y depósitos en la Argentina
 
-Lo que la Argentina le agrega al movimiento de mercadería: todo traslado, también entre depósitos propios y sin venta, va con remito, que desde abril de 2025 se puede no imprimir; en la provincia de Buenos Aires y las jurisdicciones adheridas, un traslado por tierra que supera cierto valor o peso pide además un código de operación de traslado (COT); y algunos rubros tienen trazabilidad obligatoria propia.
+Lo que la Argentina le agrega al movimiento de mercadería: todo traslado, también entre depósitos propios y sin venta, va con remito, que desde abril de 2025 se puede no imprimir. En la provincia de Buenos Aires y las jurisdicciones adheridas, un traslado por tierra que supera cierto valor o peso pide además un código de operación de traslado (COT). Algunos rubros tienen, encima, trazabilidad obligatoria propia.
 
 Es ley y cambia seguido: la nota es una copia al 27 de noviembre de 2026 de normas que se leyeron en parte, varias por el resumen de una herramienta. Donde hay una sola fuente se dice. No reemplaza a un contador ni a un abogado. Lo general del tema está en [Inventario y depósitos](inventario-y-depositos.md); la factura que respalda la venta, en [factura electrónica de ARCA](../Comercio-electronico/Normativa/factura-electronica-de-arca.md).
 
@@ -33,7 +33,7 @@ La RG 1415 obliga a documentar cada movimiento de mercadería fuera del depósit
 
 La RG 5678/2025 sustituyó ese artículo y, según el resumen del aviso en el Boletín Oficial, mantiene las dos reglas: el traslado sin venta se documenta igual, y el remito se hace antes de que la mercadería salga. Son dos textos de fechas distintas que coinciden; no son fuentes independientes en sentido estricto, porque el segundo reescribe al primero.
 
-Para un sistema, eso quiere decir que una transferencia entre depósitos propios, un envío a un depósito de terceros o una entrega en consignación tienen que emitir remito, igual que una venta. El remito se genera al despachar y antes de la salida, no después. Esta lectura es de la base.
+Para un sistema, eso quiere decir que una transferencia entre depósitos propios, un envío a un depósito de terceros o una entrega en consignación tienen que emitir remito, igual que una venta. El remito se genera al despachar, antes de la salida. Esta lectura es de la base.
 
 ## El remito digital desde abril de 2025
 
