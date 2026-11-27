@@ -36,12 +36,12 @@ Esta nota es de toda el área Pedagogía: [Ciencias del aprendizaje](../../Cienc
 
 Casi toda la evidencia educativa se expresa como un tamaño de efecto: la diferencia entre el grupo que recibió algo y el que no, dividida por una desviación estándar (la d de Cohen; la g de Hedges es una corrección para muestras chicas). Un metaanálisis combina esos efectos de muchos estudios; Glass lo llamó en 1976 «the analysis of analyses».
 
-Cohen propuso en 1988 que 0,20 es chico, 0,50 mediano y 0,80 grande, y advirtió que dependía del campo. En educación esa escala engaña. Kraft (2020), con casi 750 ensayos aleatorizados de intervenciones con pruebas de logro estandarizadas, propone otra: menos de 0,05 es chico, de 0,05 a 0,20 mediano y 0,20 o más grande. Su conclusión: los efectos chicos según Cohen «are large relative to the impacts of most field-based interventions». Una fuente da el rango medio como 0,05 a 0,19.
+Cohen propuso en 1988 que 0,20 es chico, 0,50 mediano y 0,80 grande, y advirtió que dependía del campo. En educación esa escala engaña. Kraft (2020), con casi 750 ensayos aleatorizados de intervenciones con pruebas de logro estandarizadas, propone otra: menos de 0,05 es chico, de 0,05 a 0,20 mediano y 0,20 o más grande. Según su resumen, los efectos chicos según Cohen «are large relative to the impacts of most field-based interventions». Una fuente da el rango medio como 0,05 a 0,19.
 
 > [!IMPORTANT]
 > **Los umbrales de Kraft ordenan expectativas realistas.** Salen de cómo rinden de verdad las intervenciones evaluadas con rigor.
 >
-> **Los umbrales son engañosos (Simpson; Cheung y Slavin, «Benchmarking a Misnomer», 2021).** Simpson objeta que salen de la distribución del conjunto de datos sin contar el signo y quedan demasiado bajos; Cheung y Slavin cuestionan que se usen como vara general.
+> **Los umbrales son engañosos (Simpson; Cheung y Slavin, «Benchmarking a Misnomer», 2021; de esta última solo se vio el título).** Simpson objeta que salen de la distribución del conjunto de datos sin contar el signo y quedan demasiado bajos. Cheung y Slavin los discuten en un artículo del que no se leyó el argumento.
 
 ## Los resúmenes de evidencia y cómo leer cada uno
 
@@ -58,14 +58,14 @@ Las cifras del Toolkit cambian entre versiones: la retroalimentación figuraba c
 
 ## Hattie y por qué su ranking se discute
 
-*Visible Learning* (2008) sintetiza 815 metaanálisis con la d de Cohen y ordena las «influencias» sobre el logro: entre las citadas, autoevaluación de notas 1,44, programas piagetianos 1,28, evaluación formativa 0,90 y retroalimentación 0,73. Es la síntesis más citada por docentes y la más criticada por metodólogos.
+*Visible Learning* (2008) sintetiza 815 metaanálisis con la d de Cohen y ordena las «influencias» sobre el logro: entre las citadas, autoevaluación de notas 1,44, programas piagetianos 1,28, evaluación formativa 0,90 y retroalimentación 0,73. Tiene defensores y críticos fuertes.
 
 > [!IMPORTANT]
 > **El ranking orienta a quien enseña (Hattie).** Ordena qué pesa más sobre el logro, y la evidencia acumulada de cientos de metaanálisis es más estable que la de un estudio. Peter DeWitt, formador de Visible Learning, respondió en 2018 que el problema es el mal uso del trabajo, no el trabajo. En *Visible Learning: The Sequel* (2023), según un resumen, el propio Hattie advierte contra usar los tamaños de efecto como medidas absolutas.
 >
-> **El método no sostiene el ranking.** Bergeron, en el *McGill Journal of Education*, muestra que el «efecto de lenguaje común» del libro da probabilidades negativas o mayores que 100 % (Hattie admitió que esos valores estaban mal calculados), que promediar efectos heterogéneos no tiene sentido y que el grupo de comparación elegido define el signo: el nivel socioeconómico puede dar 0,59 o −0,59. Concluye: «We must therefore absolutely qualify Hattie's methodology as pseudoscience». Slavin, según un resumen secundario, objeta que se mezclen metaanálisis de calidad dispar. Simpson (2017) va más lejos: los tamaños de efecto estandarizados dependen de decisiones del investigador (la población, la prueba) que impiden compararlos y combinarlos, y eso alcanza a cualquier ranking tipo Toolkit.
+> **El método no sostiene el ranking.** Bergeron, en el *McGill Journal of Education*, muestra que el «efecto de lenguaje común» del libro da probabilidades negativas o mayores que 100 % (Hattie admitió que esos valores estaban mal calculados), que promediar efectos heterogéneos no tiene sentido y que el grupo de comparación elegido define el signo: el nivel socioeconómico puede dar 0,59 o −0,59. Concluye: «We must therefore absolutely qualify Hattie's methodology as pseudoscience». Slavin, según un resumen secundario, objeta que se mezclen metaanálisis de calidad dispar. Simpson (2017) critica comparar tamaños de efecto estandarizados.
 
-Lo útil para leer una cifra de Hattie: es un promedio de metaanálisis con estudios, pruebas y poblaciones distintas, no el efecto de hacer algo en una clase. Un ejemplo es la [instrucción directa](../Explicar-y-modelar/instruccion-directa.md), que figura con 0,93 en una versión de la síntesis y 0,59 en otra.
+Lo útil para leer una cifra de Hattie: es un promedio de metaanálisis con estudios, pruebas y poblaciones distintas, no el efecto de hacer algo en una clase. Un ejemplo es la [instrucción directa](../Explicar-y-modelar/instruccion-directa.md), que figura con 0,93 en la síntesis de 1999, según Hattie y Timperley (2007), y con 0,59 en un resumen de 2015 de la investigadora del instituto del programa, sobre otra síntesis.
 
 ## Por qué los ensayos grandes dan efectos chicos
 
@@ -73,9 +73,9 @@ Lortie-Forgues e Inglis (2019) reanalizaron 141 ensayos aleatorizados grandes de
 
 Tres consecuencias para quien lee una cifra:
 
-- **El laboratorio infla.** Un efecto de 0,5 en experimentos chicos y controlados no se traslada al aula; en ensayos grandes lo normal es 0,06.
-- **Casi nadie replica.** Makel y Plucker (2014) encontraron que solo el 0,13 % de los artículos de las 100 revistas de educación de mayor impacto eran replicaciones; otra fuente da 461 de 164.589, cerca de 0,28 %, cifra que no cuadra con el titular. Su lectura: «a value of novelty over truth».
-- **Casi todo es de chicos.** La evidencia es de escuelas y universidades. Llevarla a adultos que aprenden en el trabajo es inferencia, y esta base lo dice cada vez que lo hace.
+- El laboratorio infla. Un efecto de 0,5 en experimentos chicos y controlados no se traslada al aula; en ensayos grandes lo normal es 0,06.
+- Casi nadie replica. Makel y Plucker (2014) encontraron que solo el 0,13 % de los artículos de las 100 revistas de educación de mayor impacto eran replicaciones; otra fuente da 461 de 164.589, cerca de 0,28 %, cifra que no cuadra con el titular. Su lectura: «a value of novelty over truth».
+- Casi todo es de chicos. La evidencia es de escuelas y universidades. Llevarla a adultos que aprenden en el trabajo es inferencia, y esta base lo dice cada vez que lo hace.
 
 ## La crítica que no discute los datos
 

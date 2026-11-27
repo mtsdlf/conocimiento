@@ -30,7 +30,7 @@ Son los mitos propios del oficio de diseñar cursos. Los del área entera (estil
 | Los adultos aprenden distinto | Los adultos necesitan métodos propios, no los de los chicos | Se achicó: sirve como lista de buenas prácticas, no como teoría con evidencia propia | [Andragogía](../../Ciencias-del-aprendizaje/Fundamentos/andragogia.md); lo que cambia para el diseño, abajo |
 | Quien aprende sabe qué le conviene | Dejar elegir cómo y qué aprender mejora el aprendizaje | Se achicó; en disputa para el control de quien aprende en general | [Mitos de la enseñanza](../../Didactica/Fundamentos/mitos-de-la-ensenanza.md#que-quien-aprende-elija); lo que cambia para el diseño, abajo |
 | ADDIE es un modelo probado | Seguir las cinco fases garantiza un buen curso | No hay modelo original ni evidencia comparativa | [ADDIE y SAM](../Modelos-de-diseno/addie-y-sam.md) |
-| Bloom es un orden de enseñanza | Primero recordar, después comprender, después aplicar | La revisión de 2001 aflojó la jerarquía; los datos no sostienen la estructura acumulativa | [Taxonomía de Bloom](../Objetivos-de-aprendizaje/taxonomia-de-bloom.md) |
+| Bloom es un orden de enseñanza | Primero recordar, después comprender, después aplicar | La revisión de 2001 aflojó la jerarquía; estudios psicométricos encontraron inconsistencias en la estructura acumulativa | [Taxonomía de Bloom](../Objetivos-de-aprendizaje/taxonomia-de-bloom.md) |
 | Mostrar los objetivos mejora el aprendizaje | Empezar cada clase con la lista de objetivos | Se achicó: efecto chico y focalizado, mejora lo cubierto y empeora lo incidental | [Objetivos de aprendizaje](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md) |
 
 ## Los adultos aprenden distinto

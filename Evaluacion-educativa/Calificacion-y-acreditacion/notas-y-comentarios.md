@@ -24,9 +24,9 @@ Es la consecuencia de la [calificación](calificacion-y-acreditacion.md) sobre q
 
 Butler publicó dos experimentos que se citan juntos y se confunden.
 
-**Butler (1987)**, leído entero: 200 alumnos de quinto y sexto grado hicieron tareas de pensamiento divergente en tres sesiones. Después de las dos primeras recibieron comentarios individuales, notas numéricas, elogio estandarizado o nada. El interés, el desempeño y la atribución al esfuerzo «were highest at both levels of achievement after receipt of comments». Las notas y el elogio produjeron atribuciones centradas en el yo y tuvieron un efecto parecido entre sí, algo que la teoría de la evaluación cognitiva no predecía.
+Butler (1987), leído entero: 200 alumnos de quinto y sexto grado hicieron tareas de pensamiento divergente en tres sesiones. Después de las dos primeras recibieron comentarios individuales, notas numéricas, elogio estandarizado o nada. El interés, el desempeño y la atribución al esfuerzo «were highest at both levels of achievement after receipt of comments». Las notas y el elogio produjeron atribuciones centradas en el yo y tuvieron un efecto parecido entre sí, algo que la teoría de la evaluación cognitiva no predecía.
 
-**Butler (1988)**, por su abstract: 12 clases asignadas al azar a notas, comentarios o ambos, con 132 alumnos medidos. El interés y el desempeño fueron más altos con comentarios, en los dos niveles de rendimiento. Y: «Grades and grades plus comments had similar and generally undermining effects». Agregar comentarios a una nota no salva el efecto: la nota se lleva la atención.
+Butler (1988), por su abstract: 12 clases asignadas al azar a notas, comentarios o ambos, con 132 alumnos medidos. El interés y el desempeño fueron más altos con comentarios, en los dos niveles de rendimiento. Y: «Grades and grades plus comments had similar and generally undermining effects». Agregar comentarios a una nota no salva el efecto.
 
 ## Lo que dice el metaanálisis
 

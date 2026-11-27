@@ -21,7 +21,7 @@ Es la vertical que juzga a todas las demás. Un [propósito](../Propositos/propo
 
 ## El documento de referencia
 
-Los *Standards for Educational and Psychological Testing* (AERA, APA y NCME, 2014) son el marco común del campo y están en acceso abierto. Su primera parte, «Foundations», tiene tres capítulos: validez, confiabilidad/precisión y equidad. La equidad tiene capítulo propio desde la edición de 2014; antes quedaba repartida.
+Los *Standards for Educational and Psychological Testing* (AERA, APA y NCME, 2014) son el marco común del campo y están en acceso abierto. Su primera parte, «Foundations», tiene tres capítulos: validez, confiabilidad/precisión y equidad. La edición de 2014 le dio capítulo propio en esa parte, según el APA Monitor (resumen).
 
 Los Standards se escribieron para pruebas formales con consecuencias, no para el aula. Ellos mismos dicen que sus principios se pueden aplicar «to day-to-day decisions», como las de un docente que arma una prueba, pero que sería «overreaching» esperar que se sigan los estándares formales en ese caso. Para quien enseña a un grupo chico sirven las preguntas, no los cálculos.
 
@@ -37,7 +37,7 @@ Las tres se tocan. La confiabilidad es condición de la validez: un puntaje que 
 
 ## Cuando la medida se vuelve meta
 
-La amenaza más común en la práctica no es técnica: es usar el resultado como objetivo. Cuando aprobar la prueba pasa a ser la meta, se enseña lo que la prueba muestrea y el puntaje sube sin que suba lo aprendido. Es la [inflación de notas](inflacion-de-notas.md), la versión educativa de la [ley de Goodhart](../../Producto/Estrategia/resultados-y-entregables.md#goodhart-cuando-el-resultado-se-vuelve-meta).
+Otra amenaza no es técnica: usar el resultado como objetivo. Cuando aprobar la prueba pasa a ser la meta, se enseña lo que la prueba muestrea y el puntaje sube sin que suba lo aprendido. Es la [inflación de notas](inflacion-de-notas.md), la versión educativa de la [ley de Goodhart](../../Producto/Estrategia/resultados-y-entregables.md#goodhart-cuando-el-resultado-se-vuelve-meta).
 
 ## Qué hay adentro
 

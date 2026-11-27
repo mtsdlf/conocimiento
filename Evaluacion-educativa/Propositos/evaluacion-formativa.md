@@ -52,14 +52,16 @@ El rango salía en buena parte de una revisión de 1986 sobre educación especia
 >
 > **El efecto es chico: alrededor de 0,20 (Kingston y Nash, 2011).** Con 13 estudios y 42 tamaños de efecto que cumplían criterios más estrictos, la mediana fue 0,25 y la media de efectos aleatorios 0,20, con «considerable variability». La fe de erratas de 2015 corrigió los moderadores y mantuvo «about .20». A su vez, Briggs et al. (2012) y McMillan et al. (2013) criticaron la metodología de Kingston y Nash (según resúmenes).
 >
-> **Bennett (2011)** sostiene que algunas afirmaciones de eficacia están sobrestimadas y que el término mismo está mal definido.
+> **Bennett (2011)** sostiene que algunas afirmaciones de eficacia están sobrestimadas y discute cómo se define el término.
 
-La cifra que más circula en guías de docentes es la alta. Para adultos fuera de la escuela no hay estimación. Por qué los efectos de educación suelen achicarse en ensayos grandes está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md), y cómo se lee un tamaño de efecto, en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
+La cifra que más circula es la alta. Para adultos fuera de la escuela no hay estimación. Por qué los efectos de educación suelen achicarse en ensayos grandes está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md), y cómo se lee un tamaño de efecto, en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
 
 El Toolkit de la EEF, que resume evidencia para escuelas inglesas, da a la retroalimentación (*feedback*) unos 6 meses de progreso adicional; otras páginas de la misma fundación hablan de hasta 8, y las cifras no se pudieron verificar en la página. Es retroalimentación, no evaluación formativa entera.
 
 ## Cómo falla
 
-- **Se evalúa y no cambia nada.** Se toma la prueba, se anota el resultado y la clase siguiente es la que estaba planeada. Por la definición de Wiliam, eso no es formativo.
-- **Se le pone nota.** La evidencia pasa a contar para la calificación y la gente esconde lo que no sabe.
-- **Se devuelve un número.** Sin decir qué falta ni cómo cerrarlo, la retroalimentación no cumple la condición de Sadler.
+Inferencias de esta base a partir de la definición de Wiliam y de Sadler:
+
+- Se evalúa y no cambia nada. Se toma la prueba, se anota el resultado y la clase siguiente es la que estaba planeada. Por la definición de Wiliam, eso no es formativo.
+- Se le pone nota. La evidencia pasa a contar para la calificación y la gente esconde lo que no sabe.
+- Se devuelve un número. Sin decir qué falta ni cómo cerrarlo, la retroalimentación no cumple la condición de Sadler.

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Calificar es convertir lo observado en una nota que informa lo aprendido dentro de un curso; acreditar es emitir un certificado que lo señala afuera, ante quien contrata. Son dos problemas con literaturas distintas: la de las notas es de educación, la de los certificados es de economía del mercado laboral.
+  Calificar es convertir lo observado en una nota que informa lo aprendido dentro de un curso; acreditar es emitir un certificado que lo señala afuera, ante quien contrata. Son dos problemas con literaturas distintas: la de las notas es de educación, la de los certificados es del mercado laboral.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -15,7 +15,7 @@ revisado:
 
 # Calificación y acreditación
 
-Calificar es convertir lo observado en una nota que informa lo aprendido dentro de un curso; acreditar es emitir un certificado que lo señala afuera, ante quien contrata. Son dos problemas con literaturas distintas: la de las notas es de educación, la de los certificados es de economía del mercado laboral.
+Calificar es convertir lo observado en una nota que informa lo aprendido dentro de un curso; acreditar es emitir un certificado que lo señala afuera, ante quien contrata. Son dos problemas con literaturas distintas: la de las notas es de educación, la de los certificados es del mercado laboral.
 
 Es el destino del [propósito](../Propositos/propositos.md) sumativo. Recibe la evidencia de los [instrumentos](../Instrumentos/instrumentos.md) y la resume; con eso hereda sus problemas de [validez y confiabilidad](../Validez-confiabilidad-y-equidad/validez-confiabilidad-y-equidad.md) y suma uno propio, la [inflación de notas](../Validez-confiabilidad-y-equidad/inflacion-de-notas.md).
 
@@ -27,13 +27,13 @@ Por eso esta base las deja en la misma vertical pero en notas separadas, y no me
 
 ## Qué mide una nota
 
-Una nota parece una medida de lo aprendido, pero rara vez es solo eso. Brookhart et al. (2016) revisaron un siglo de investigación sobre calificación. Las primeras encuestas del siglo XX condenaron las notas por poco confiables; los estudios recientes, según el abstract, encuentran que evalúan «a multidimensional construct containing both cognitive and noncognitive factors reflecting what teachers value»: lo aprendido, pero también el esfuerzo, la entrega a tiempo y la conducta.
+Una nota parece una medida de lo aprendido, pero rara vez es solo eso. Brookhart et al. (2016) revisaron un siglo de investigación sobre calificación. Las primeras encuestas del siglo XX condenaron las notas por poco confiables; los estudios recientes, según el abstract, encuentran que evalúan «a multidimensional construct containing both cognitive and noncognitive factors reflecting what teachers value»: lo aprendido, pero también factores no cognitivos (por ejemplo, el esfuerzo o la conducta).
 
 Para quien califica, la decisión de fondo es contra qué se compara: contra los demás o contra un criterio. Es la distinción de Glaser (1963), en [referencia a norma y a criterio](referencia-a-norma-y-a-criterio.md). La calificación por dominio lleva el criterio al extremo: no se avanza hasta dominar; ver [calificación por dominio](calificacion-por-dominio.md).
 
 ## Lo que la nota le hace a quien la recibe
 
-Una nota no solo informa: cambia la motivación. Según un metaanálisis de Koenka et al., frente a no recibir retroalimentación, las notas mejoraron el logro y empeoraron la motivación; frente a comentarios, empeoraron los dos. Está en [notas y comentarios](notas-y-comentarios.md). Por eso la [evaluación formativa](../Propositos/evaluacion-formativa.md) rinde más sin nota.
+Una nota no solo informa: cambia la motivación. Según un metaanálisis de Koenka et al., frente a no recibir retroalimentación, las notas mejoraron el logro y empeoraron la motivación; frente a comentarios, empeoraron los dos. Está en [notas y comentarios](notas-y-comentarios.md). Por eso, en escolares, la [evaluación formativa](../Propositos/evaluacion-formativa.md) rinde más sin nota.
 
 ## Qué señala un certificado
 

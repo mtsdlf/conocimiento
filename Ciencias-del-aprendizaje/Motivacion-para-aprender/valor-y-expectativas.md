@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La teoría de expectativa-valor sostiene que alguien elige y sostiene un aprendizaje según cuánto espera lograrlo y cuánto valor le ve. Eccles y Wigfield la rebautizaron situada en 2020, y su aplicación más probada es la intervención de relevancia: pedir que se conecte lo aprendido con la propia vida subió interés y notas, pero solo en quienes esperaban rendir poco.
+  La teoría de expectativa-valor sostiene que alguien elige y sostiene un aprendizaje según cuánto espera lograrlo y cuánto valor le ve. Eccles y Wigfield la rebautizaron situada en 2020, y una de sus intervenciones probadas es la de relevancia: en un experimento, pedir que se conecte lo aprendido con la propia vida subió interés y notas, pero solo en quienes esperaban rendir poco.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -15,13 +15,13 @@ revisado:
 
 # Valor y expectativas
 
-La teoría de expectativa-valor sostiene que alguien elige y sostiene un aprendizaje según cuánto espera lograrlo y cuánto valor le ve. Eccles y Wigfield la rebautizaron situada en 2020, y su aplicación más probada es la intervención de relevancia: pedir que se conecte lo aprendido con la propia vida subió interés y notas, pero solo en quienes esperaban rendir poco.
+La teoría de expectativa-valor sostiene que alguien elige y sostiene un aprendizaje según cuánto espera lograrlo y cuánto valor le ve. Eccles y Wigfield la rebautizaron situada en 2020, y una de sus intervenciones probadas es la de relevancia: en un experimento, pedir que se conecte lo aprendido con la propia vida subió interés y notas, pero solo en quienes esperaban rendir poco.
 
-Es la familia de expectativa-valor de las [teorías de la motivación](../../Psicologia/Motivacion-y-emocion/teorias-de-la-motivacion.md), que en Psicología figura como hueco sin evidencia. Acá se suma lo que se probó en clase.
+Es la familia de expectativa-valor de las [teorías de la motivación](../../Psicologia/Motivacion-y-emocion/teorias-de-la-motivacion.md), que en Psicología figura como «sin verificar». Acá se suma lo que se probó en clase.
 
-## Dos preguntas que se multiplican
+## Dos preguntas
 
-La teoría junta dos cosas que quien aprende se pregunta, aunque no lo diga: «¿puedo hacerlo?» y «¿para qué me sirve?». Si una de las dos da cero, la otra no alcanza. Esa es la idea de fondo del modelo; la forma exacta de combinarlas no se verificó en una fuente leída.
+La teoría junta dos cosas que quien aprende se pregunta, aunque no lo diga: «¿puedo hacerlo?» y «¿para qué me sirve?» (formulación de esta base). La forma en que la teoría las combina no se verificó en una fuente leída.
 
 Según una tesis que reconceptualiza el modelo (leída en parte, y crítica de terceros), la teoría nació para explicar por qué varones y mujeres elegían distinto las carreras de ciencia, tecnología, ingeniería y matemática, y entre sus componentes de valor nombra el interés intrínseco y el de logro.
 
@@ -30,13 +30,13 @@ Según una tesis que reconceptualiza el modelo (leída en parte, y crítica de t
 
 ## Por qué ahora se llama situada
 
-En 2020 Eccles y Wigfield cambiaron el nombre a teoría de expectativa-valor situada. Según el resumen del artículo, los diagramas clásicos hacían parecer la teoría estática y lineal, y los autores quisieron destacar que las situaciones y los sistemas culturales moldean las elecciones. El cambio importa para quien enseña: el valor y la expectativa no son rasgos del alumno sino algo que depende de la tarea, del curso y de quién lo rodea.
+En 2020 Eccles y Wigfield cambiaron el nombre a teoría de expectativa-valor situada. Según el resumen del artículo, los diagramas clásicos hacían parecer la teoría estática y lineal, y los autores quisieron destacar que las situaciones y los sistemas culturales moldean las elecciones. Como lectura de esta base, para quien enseña el valor y la expectativa dependerían de la tarea, del curso y del entorno, y no solo de un rasgo del alumno.
 
 ## La intervención de relevancia y a quién le sirve
 
-Hulleman y Harackiewicz (2009) hicieron un experimento de campo aleatorizado en clases de ciencias de secundaria. A un grupo se le pidió escribir cómo se conectaba lo que aprendían con su vida. Según el abstract, la actividad aumentó el interés y las notas del curso **solo en quienes tenían bajas expectativas de éxito**. El abstract no da tamaños de efecto ni número de estudiantes.
+Hulleman y Harackiewicz (2009) hicieron un experimento de campo aleatorizado en clases de ciencias de secundaria. Una actividad pedía a los estudiantes conectar lo que aprendían con su vida. Según el abstract, la actividad aumentó el interés y las notas del curso **solo en quienes tenían bajas expectativas de éxito**. El abstract no da tamaños de efecto ni número de estudiantes.
 
-Dos lecturas salen de ahí. La primera es que el valor y la expectativa interactúan: a quien ya cree que puede, explicarle para qué sirve no le agrega mucho; a quien duda, sí. La segunda es que la relevancia funcionó cuando la produjo el propio alumno, escribiendo, y no cuando se la dijeron. Esta segunda es inferencia de esta base a partir del diseño del estudio, no una comparación que el estudio haya hecho.
+Una lectura de esta base es que el valor y la expectativa interactúan: a quien ya cree que puede, la relevancia no le agrega mucho, y a quien duda, sí. El abstract no dice qué recibió el grupo de comparación ni si la relevancia habría funcionado dicha por quien enseña en lugar de producida por el alumno.
 
 ## Aplicado a enseñar a adultos
 

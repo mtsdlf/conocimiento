@@ -77,4 +77,4 @@ Kirschner y van Merriënboer (2013) agrupan tres «leyendas urbanas» bajo una i
 
 ## Por qué se sostienen
 
-Según Howard-Jones, muchos mitos son distorsiones de algo real: hay lateralización en el cerebro, hay preferencias de formato, el descubrimiento guiado funciona. El mito toma el hallazgo, le saca las condiciones y le agrega un número redondo. Para quien enseña, la defensa práctica es la misma que en [evidencia en educación](evidencia-en-educacion.md): preguntar de dónde sale la cifra, con quién se midió y si alguien la replicó.
+Según Howard-Jones, muchos mitos son distorsiones de algo real: hay lateralización en el cerebro, hay preferencias de formato, el descubrimiento guiado funciona. El mito toma el hallazgo y le saca las condiciones. Para quien enseña, la defensa práctica es la misma que en [evidencia en educación](evidencia-en-educacion.md): preguntar de dónde sale la cifra, con quién se midió y si alguien la replicó.

@@ -21,14 +21,14 @@ revisado:
 
 La autoexplicación es pedirle a quien aprende que explique, con sus palabras, por qué un paso es correcto o cómo llegó a una respuesta. Aparece en las revisiones como uno de los apoyos que hacen funcionar la enseñanza guiada, aunque los estudios clásicos del tema no se leyeron.
 
-Es la forma más exigente de las [preguntas en clase](preguntas-en-clase.md): no pide el resultado sino el porqué. Se usa sobre todo con [ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md), para que quien aprende no los lea de corrido, y en la [tutoría](../Tutoria-y-mentoria/tutoria.md), donde quien tutorea pregunta en lugar de explicar. El mecanismo de por qué generar una explicación deja más que leerla es el [efecto de generación](../../Ciencias-del-aprendizaje/Memoria-y-practica/dificultades-deseables.md#el-efecto-de-generación), una de las dificultades deseables.
+Es la forma más exigente de las [preguntas en clase](preguntas-en-clase.md): pide el porqué del paso, además del resultado. Se usa sobre todo con [ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md), para que quien aprende no los lea de corrido, y en la [tutoría](../Tutoria-y-mentoria/tutoria.md), donde quien tutorea pregunta en lugar de explicar. El mecanismo de por qué generar una explicación deja más que leerla es el [efecto de generación](../../Ciencias-del-aprendizaje/Memoria-y-practica/dificultades-deseables.md#el-efecto-de-generación), una de las dificultades deseables.
 
 ## Dónde aparece en la evidencia
 
 La autoexplicación no tiene en lo leído un metaanálisis verificado propio, pero aparece en tres lugares independientes:
 
 - **En la disputa guía o descubrimiento.** El metaanálisis de Alfieri et al. (2011), con 164 estudios, concluye que «unassisted discovery does not benefit learners, whereas feedback, worked examples, scaffolding, and elicited explanations do». Las explicaciones elicitadas, es decir, pedidas a quien aprende, están entre los cuatro apoyos que hacen rendir al descubrimiento guiado (ver [guía o descubrimiento](../Aprendizaje-activo-e-indagacion/guia-o-descubrimiento.md)).
-- **En el diseño de ejemplos resueltos.** Atkinson et al. (2000) recomiendan incentivar la autoexplicación, por entrenamiento o por la estructura del ejemplo. Un ejemplo que deja un hueco para que quien aprende justifique el paso obliga a procesarlo.
+- **En el diseño de ejemplos resueltos.** Atkinson et al. (2000) recomiendan incentivar la autoexplicación, por entrenamiento o por la estructura del ejemplo. Que un ejemplo deje un hueco para que quien aprende justifique el paso es una idea de esta base, no de Atkinson et al.
 - **En la tutoría.** En el segundo estudio de Chi et al. (2001), los tutores no podían dar explicaciones ni retroalimentación, solo hacer preguntas guía, y «students learned just as effectively even when tutors were suppressed from giving explanations and feedback». Los autores lo atribuyen a la construcción que hace quien aprende y a más episodios de andamiaje.
 
 La guía de Pashler et al. (2007) respalda con evidencia fuerte las preguntas de profundidad (recomendación 7), que piden explicar el porqué del contenido; es la misma familia de técnica.
@@ -50,4 +50,4 @@ En programación, el equivalente es pedir que alguien explique qué hace un frag
 
 ## Cuándo no rinde
 
-Pedir explicaciones cuesta tiempo y esfuerzo, y quien no tiene ninguna base no tiene qué explicar. Atkinson et al. (2000) ubican los ejemplos resueltos, y con ellos la autoexplicación sobre ejemplos, en las «early stages of skill development». Con alguien que ya domina el procedimiento, la [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md) sugiere pasar a problemas.
+Pedir explicaciones cuesta tiempo y esfuerzo, y ninguna fuente leída mide ese costo. Atkinson et al. (2000) ubican los ejemplos resueltos, y con ellos la autoexplicación sobre ejemplos, en las «early stages of skill development». Con alguien que ya domina el procedimiento, la [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md) sugiere pasar a problemas.

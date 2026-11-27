@@ -29,11 +29,11 @@ El análisis contesta tres preguntas, y el orden importa porque cada una puede c
 | ¿Qué hace un experto en esta tarea? | Los pasos, las decisiones y los criterios que el curso tiene que enseñar | El curso enseña lo que el experto cree que hace, no lo que hace |
 | ¿Desde dónde arranca quien aprende? | Cuánta ayuda y cuánto diagnóstico previo hacen falta | La ayuda sobra a unos y falta a otros |
 
-La primera pregunta es la más barata y la más salteada. Mager y Pipe la convirtieron en un diagrama de preguntas que termina, muchas veces, en un remedio que no es un curso; el BEM de Gilbert ordena las causas del ambiente antes que las de la persona. Están en [análisis de necesidades](analisis-de-necesidades.md).
+La columna de la derecha es una lectura de esta base, sin fuente. Mager y Pipe la convirtieron en un diagrama de preguntas que lleva a examinar primero las soluciones que no son de formación; el BEM de Gilbert ordena las causas del ambiente antes que las de la persona. Están en [análisis de necesidades](analisis-de-necesidades.md).
 
 ## Por qué el experto no alcanza como fuente
 
-La segunda pregunta tiene una trampa: quien domina una tarea la automatizó y ya no ve sus propios pasos. Los autores de la línea de análisis cognitivo de tareas estiman que los expertos omiten cerca del 70 % de las decisiones cuando describen cómo hacen una tarea compleja, una cifra que nadie replicó fuera de ese grupo. El remedio son entrevistas estructuradas a varios expertos, y un metaanálisis encontró un efecto grande de la instrucción armada así (g = 0,871). El detalle y sus límites están en [análisis cognitivo de tareas](analisis-cognitivo-de-tareas.md).
+La segunda pregunta tiene una trampa: quien domina una tarea la automatizó y ya no ve sus propios pasos. Los autores de la línea de análisis cognitivo de tareas estiman que los expertos omiten cerca del 70 % de las decisiones cuando describen cómo hacen una tarea compleja, una cifra de la que no se encontró una réplica independiente. El remedio son entrevistas estructuradas a varios expertos, y un metaanálisis encontró un efecto grande de la instrucción armada así (g = 0,871). El detalle y sus límites están en [análisis cognitivo de tareas](analisis-cognitivo-de-tareas.md).
 
 ## Lo que cambia según quién llega
 

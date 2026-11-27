@@ -18,7 +18,7 @@ revisado:
 
 La inversión de la experticia es el hallazgo de que los métodos que ayudan a quien recién empieza, como los ejemplos resueltos y la guía fuerte, pierden valor y hasta perjudican a quien ya sabe. Obliga a averiguar cuánto sabe quien aprende antes de decidir cuánto guiar.
 
-Es el límite de toda la instrucción explícita: los [ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) y el [andamiaje](andamiaje.md) son para novatos, y con quien sabe más hay que retirarlos antes. También es el argumento que Sweller y sus colegas dieron a quienes criticaban la teoría de la carga cognitiva, y uno de los puntos donde se tocan los dos bandos de [guía o descubrimiento](../Aprendizaje-activo-e-indagacion/guia-o-descubrimiento.md).
+Es el límite de toda la instrucción explícita: los [ejemplos resueltos](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) y el [andamiaje](andamiaje.md) son para novatos, y con quien sabe más hay que retirarlos antes. También es la respuesta de Sweller y sus colegas a las críticas a la instrucción explícita, y uno de los puntos donde se tocan los dos bandos de [guía o descubrimiento](../Aprendizaje-activo-e-indagacion/guia-o-descubrimiento.md).
 
 ## Lo que muestran los estudios
 
@@ -35,13 +35,13 @@ Atkinson et al. (2000) llegan a lo mismo desde el otro lado: los ejemplos resuel
 
 ## Por qué depende del conocimiento y no de la edad
 
-La explicación de la carga cognitiva es que el novato necesita la guía porque no tiene en la memoria de largo plazo los esquemas que organizan la tarea. Quien ya los tiene recibe la guía como información repetida que tiene que procesar igual. El mecanismo de la memoria está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md); la carga cognitiva aplicada a materiales, en [carga cognitiva en el aprendizaje](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md).
+Para Kirschner, Sweller y Clark (2006, según una reseña), la experticia descansa en buena parte en la memoria de largo plazo, y las tareas con poca guía cargan la memoria de trabajo del novato. Que el experto reciba la guía como información repetida que tiene que procesar igual es la lectura de esta base de esa teoría; las fuentes leídas no lo dicen así. El mecanismo de la memoria está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md); la carga cognitiva aplicada a materiales, en [carga cognitiva en el aprendizaje](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md).
 
 Una consecuencia, que es lectura de esta base y no de una fuente: lo que cambia cuánto guiar es cuánto sabe la persona del tema, no si es adulta. Un adulto que recién empieza a programar es novato; un chico que lleva años en algo no lo es. Eso es lo que discute la [versión fuerte de la andragogía](../Fundamentos/mitos-de-la-ensenanza.md), según la cual los adultos necesitan otra pedagogía.
 
 ## Diagnosticar antes de guiar
 
-Con un grupo mixto, la misma clase guía de más a unos y de menos a otros. Lo que se desprende de Kalyuga, llevado a la práctica:
+Con un grupo mixto, la misma clase guía de más a unos y de menos a otros. Lo que se desprende de Kalyuga, llevado a la práctica (pasos ilustrativos de esta base):
 
 1. Averiguá qué sabe cada uno antes de elegir el formato, con un problema corto o pidiéndole que explique cómo lo resolvería.
 2. Con quien no puede empezar, ejemplo resuelto y retiro lento.

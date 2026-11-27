@@ -32,11 +32,11 @@ La vertical tiene dos capas con evidencia de calidad muy distinta.
 | Teoría | Conceptos para explicar por qué lo social importa: la zona de desarrollo próximo, la participación en una comunidad | Ninguna medida de efecto; sus propios autores dicen que no es un método | [Aprendizaje situado](aprendizaje-situado.md); la perspectiva sociocultural en [teorías del aprendizaje](../Fundamentos/teorias-del-aprendizaje.md) |
 | Técnica | Formas concretas de organizar el trabajo con otros | Metaanálisis y ensayos, casi todos escolares o universitarios | [Aprendizaje cooperativo](aprendizaje-cooperativo.md), [instrucción entre pares](instruccion-entre-pares.md), [aprender enseñando](aprender-ensenando.md) |
 
-La confusión habitual es usar la teoría como si fuera evidencia de la técnica: citar a Vygotsky para justificar un trabajo en grupo. La teoría explica por qué podría funcionar; si funciona lo dicen los estudios de cada técnica, y ahí los resultados dependen de cómo se arma el grupo.
+Una confusión posible es usar la teoría como si fuera evidencia de la técnica: citar a Vygotsky para justificar un trabajo en grupo. La teoría explica por qué podría funcionar; si funciona lo dicen los estudios de cada técnica, y ahí los resultados dependen de cómo se arma el grupo.
 
 ## Vygotsky, la zona y el andamiaje
 
-La zona de desarrollo próximo de Vygotsky es la distancia entre lo que alguien hace solo y lo que hace con ayuda; se desarrolla en [teorías del aprendizaje](../Fundamentos/teorias-del-aprendizaje.md). El andamiaje no es de Vygotsky: lo introducen Wood, Bruner y Ross (1976), estudiando cómo tutores ayudaban a chicos chicos a armar una pirámide de bloques, y según la literatura secundaria Vygotsky nunca usó el término. El vínculo entre los dos conceptos lo hicieron autores posteriores.
+La zona de desarrollo próximo de Vygotsky es la distancia entre lo que alguien hace solo y lo que hace con ayuda; se desarrolla en [teorías del aprendizaje](../Fundamentos/teorias-del-aprendizaje.md). El andamiaje no es de Vygotsky: lo introducen Wood, Bruner y Ross (1976), estudiando cómo padres y tutores ayudaban a niños pequeños a armar una pirámide de bloques, y según la literatura secundaria Vygotsky nunca usó el término.
 
 Dos lecturas erróneas de la zona, que recoge la misma literatura secundaria: que quien ayuda tiene que saber más (en aprendizaje de segunda lengua adulto también ayudaron pares menos capaces) y que la zona es «empujar más» (Vygotsky advirtió contra el material demasiado difícil). La práctica del andamiaje y su evidencia están en [andamiaje](../../Didactica/Practica-guiada-y-andamiaje/andamiaje.md).
 
@@ -46,7 +46,7 @@ Tres hallazgos de las técnicas apuntan a lo mismo: el beneficio depende de lo q
 
 - En aprendizaje cooperativo, la EEF encuentra mejores resultados con grupos de 3 a 5 con meta compartida (según el buscador; ver [aprendizaje cooperativo](aprendizaje-cooperativo.md)).
 - En instrucción entre pares, discutir con un compañero mejora la comprensión «even when none of the students in a discussion group originally knows the correct answer» (Smith et al. 2009, abstract).
-- Al enseñar a otro, el beneficio crece con la interactividad: enseñar cara a cara supera a grabar una explicación (Kobayashi 2018, abstract).
+- Al enseñar a otro, el beneficio crece con la interactividad: estudiar para enseñar cara a cara supera a prepararse para una enseñanza indirecta, como grabar una clase (Kobayashi 2018, abstract).
 
 Que el mecanismo común sea tener que producir una explicación es una lectura de esta base que conecta con la [autoexplicación](../../Didactica/Preguntas-y-dialogo/autoexplicacion.md) y con las [dificultades deseables](../Memoria-y-practica/dificultades-deseables.md); ninguna fuente leída lo prueba.
 

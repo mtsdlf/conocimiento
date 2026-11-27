@@ -58,7 +58,7 @@ Los términos de la enseñanza (instrucción explícita, retroalimentación, con
 | Expectativa-valor | Se elige y sostiene un aprendizaje según cuánto se espera lograrlo y cuánto valor se le ve | [Valor y expectativas](../Motivacion-para-aprender/valor-y-expectativas.md) |
 | Intervención de relevancia | Pedir que se conecte lo aprendido con la propia vida | [Valor y expectativas](../Motivacion-para-aprender/valor-y-expectativas.md) |
 | Apoyo a la autonomía | Enseñar con razones, opciones y reconocimiento en lugar de presión | [Apoyo a la autonomía](../Motivacion-para-aprender/apoyo-a-la-autonomia.md) |
-| Regulación identificada | Hacer algo porque se le ve valor personal; la forma de motivación más asociada con persistir | [Apoyo a la autonomía](../Motivacion-para-aprender/apoyo-a-la-autonomia.md) |
+| Regulación identificada | Hacer algo porque se le ve valor personal; la forma de motivación más asociada con persistir en Howard et al. (2021) | [Apoyo a la autonomía](../Motivacion-para-aprender/apoyo-a-la-autonomia.md) |
 | Mentalidad de crecimiento | Creer que la inteligencia se desarrolla con esfuerzo | [Mentalidad de crecimiento](../Motivacion-para-aprender/mentalidad-de-crecimiento.md) |
 
 ## Aprender con otros

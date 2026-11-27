@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El aprendizaje cooperativo organiza la clase en grupos chicos que trabajan hacia una meta común. Los metaanálisis le dan un efecto positivo frente a la clase expositiva, con más resultado en grupos de tres a cinco con meta compartida; las dos referencias clásicas del campo, Johnson y Johnson y Slavin, no se leyeron.
+  El aprendizaje cooperativo organiza la clase en grupos chicos que trabajan hacia una meta común. Kyndt et al. le encuentran un efecto positivo frente a la clase expositiva, y la EEF, según el buscador, más resultado en grupos de tres a cinco con meta compartida; las dos referencias clásicas del campo, Johnson y Johnson y Slavin, no se leyeron.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -14,9 +14,9 @@ revisado:
 
 # Aprendizaje cooperativo
 
-El aprendizaje cooperativo organiza la clase en grupos chicos que trabajan hacia una meta común. Los metaanálisis le dan un efecto positivo frente a la clase expositiva, con más resultado en grupos de tres a cinco con meta compartida; las dos referencias clásicas del campo, Johnson y Johnson y Slavin, no se leyeron.
+El aprendizaje cooperativo organiza la clase en grupos chicos que trabajan hacia una meta común. Kyndt et al. le encuentran un efecto positivo frente a la clase expositiva, y la EEF, según el buscador, más resultado en grupos de tres a cinco con meta compartida; las dos referencias clásicas del campo, Johnson y Johnson y Slavin, no se leyeron.
 
-Es una de las técnicas de [Aprender con otros](aprender-con-otros.md). Se distingue de la [instrucción entre pares](instruccion-entre-pares.md), que es un intercambio breve entre dos personas dentro de una clase, y del [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md), una categoría más amplia que incluye cualquier clase donde se hace algo con el contenido.
+Es una de las técnicas de [Aprender con otros](aprender-con-otros.md). Se distingue de la [instrucción entre pares](instruccion-entre-pares.md), un intercambio breve dentro de una clase, y del [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md), una categoría más amplia que incluye cualquier clase donde se hace algo con el contenido.
 
 ## Lo que encontró Kyndt
 
@@ -38,11 +38,11 @@ El Toolkit de la EEF traduce el efecto a meses de progreso adicional en un año 
 
 Costo muy bajo. El mejor resultado aparece en grupos de 3 a 5 con una meta compartida. El buscador avisa que algunos espejos dicen «high impact», etiqueta que no es de la EEF. La nota de [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md), en Didáctica, leyó el espejo australiano del Toolkit y da +5 meses sobre 212 estudios, con la condición de que participen los de menor rendimiento; las cifras coinciden en el promedio. Cómo se leen los meses y los candados está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md).
 
-Que la solidez haya bajado de «extensa» a «limitada» entre versiones no quiere decir que el efecto haya desaparecido; quiere decir que la EEF endureció sus criterios. Es lectura de esta base, coherente con lo que el Toolkit explica de sus candados.
+Por qué la solidez bajó de «extensa» a «limitada» entre versiones no quedó registrado en lo leído.
 
 ## Por qué un grupo no siempre coopera
 
-El hallazgo de las versiones digitales (+3 frente a +5) y la condición de meta compartida apuntan al mismo problema: poner a gente junta no alcanza. Lo que la literatura clásica, según el informe, propone como receta (meta del grupo más responsabilidad de cada uno) busca evitar dos fallas conocidas de cualquier trabajo en grupo, que uno haga todo o que nadie se haga cargo. Esa receta y esas fallas no se verificaron en Johnson y Johnson ni en Slavin; quedan como lo que el campo repite.
+Como lectura de esta base, las versiones digitales (+3 frente a +5) y la condición de meta compartida sugieren que poner a gente junta no alcanza. La receta que el informe atribuye a Slavin, metas grupales más responsabilidad individual, no se verificó en Johnson y Johnson ni en Slavin.
 
 ## Llevado a adultos y a cursos técnicos
 

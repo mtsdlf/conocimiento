@@ -17,7 +17,7 @@ revisado:
 
 El diseño hacia atrás es armar un curso empezando por el final: primero qué tienen que poder hacer, después qué evidencia lo mostraría y recién al último las actividades. Su versión más conocida es Understanding by Design, de Wiggins y McTighe (1998); no tiene evaluación empírica encontrada.
 
-Dentro de los [modelos de diseño](modelos-de-diseno.md) es un orden de decisiones, no un proceso de proyecto como [ADDIE](addie-y-sam.md). Es la forma de trabajo que produce la [alineación constructiva](../Objetivos-de-aprendizaje/alineacion-constructiva.md): si la evidencia se decide antes que las actividades, las actividades tienden a apuntar a ella. Las dos ideas tienen el mismo antecedente en Tyler (1949) y son un solo hallazgo conceptual, no dos confirmaciones independientes.
+Dentro de los [modelos de diseño](modelos-de-diseno.md) es un orden de decisiones, no un proceso de proyecto como [ADDIE](addie-y-sam.md). Por lectura de esta base, es la forma de trabajo que produce la [alineación constructiva](../Objetivos-de-aprendizaje/alineacion-constructiva.md): si la evidencia se decide antes que las actividades, estas tienden a apuntar a ella. Las dos ideas tienen el mismo antecedente en Tyler (1949) y son un solo hallazgo conceptual, no dos confirmaciones independientes.
 
 ## Las tres etapas
 
@@ -37,7 +37,7 @@ flowchart LR
 
 El orden que invierte es el habitual: elegir un tema, armar las clases y escribir al final un examen sobre lo que se dio. Esa descripción del orden habitual es de esta base, no de una cita del libro.
 
-Wikipedia aclara que UbD es un ejemplo de una práctica más amplia, la de partir de los resultados; «diseño hacia atrás» nombra la práctica, y UbD, una versión con marcas y plantillas propias.
+Wikipedia aclara que UbD es un ejemplo de una práctica más amplia, la de partir de los resultados; «diseño hacia atrás» nombra la práctica, y UbD, una versión de esa práctica.
 
 ## Cómo se combina con otros modelos
 
@@ -45,6 +45,6 @@ El diseño hacia atrás no dice cómo ordenar los contenidos ni qué lleva una b
 
 ## Qué evidencia hay
 
-No se encontró ninguna evaluación empírica de UbD ni críticas académicas. Hay un libro blanco de una editorial escolar, con interés comercial y no leído. Como el resto de los modelos, vale por el orden que impone al trabajo.
+No se encontró ninguna evaluación empírica de UbD ni críticas académicas. Hay un libro blanco de una editorial, con interés comercial y no leído. Como el resto de los modelos, vale por el orden que impone al trabajo.
 
 > [!NOTE] Sin fuente todavía: una evaluación empírica de Understanding by Design y sus críticas académicas.

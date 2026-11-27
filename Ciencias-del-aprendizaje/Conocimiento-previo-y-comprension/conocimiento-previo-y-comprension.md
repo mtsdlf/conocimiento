@@ -18,17 +18,17 @@ revisado:
 
 Conocimiento previo y comprensión es la parte de las ciencias del aprendizaje que estudia lo que quien aprende ya trae y cómo eso se reorganiza al entender algo nuevo. Lo previo es a la vez el material con que se entiende y, cuando está equivocado, el obstáculo.
 
-Es el punto de partida del resto del tema. Lo que se practica en [Memoria y práctica](../Memoria-y-practica/memoria-y-practica.md) se apoya en lo que ya se sabe: Bjork y Bjork (2011) advierten que una dificultad deseable se vuelve indeseable si falta la base para responderla. La [transferencia](../Transferencia/transferencia.md) depende de cómo quedó organizado lo aprendido, y la [calibración](../Metacognicion-y-autorregulacion/calibracion.md) de cuánto se sabe para notar lo que falta. Del lado de quien enseña, la [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md) de Didáctica dice que el nivel previo cambia qué enseñanza sirve.
+Es el punto de partida del resto del tema. Lo que se practica en [Memoria y práctica](../Memoria-y-practica/memoria-y-practica.md) se apoya en lo que ya se sabe: Bjork y Bjork (2011) advierten que una dificultad deseable se vuelve indeseable si falta la base para responderla. La [transferencia](../Transferencia/transferencia.md) depende de cómo quedó organizado lo aprendido, y la [calibración](../Metacognicion-y-autorregulacion/calibracion.md) de cuánto se sabe. Del lado de quien enseña, la [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md) de Didáctica dice que el nivel previo cambia qué enseñanza sirve.
 
 ## Recurso y obstáculo a la vez
 
 El conocimiento previo cumple dos papeles que la literatura estudia por separado. Como recurso, es lo que permite entender: un dato nuevo se engancha en algo que ya está. Como obstáculo, son las ideas equivocadas que el alumno trae y que la enseñanza tiene que mover, no solo completar. El primer papel es el de [conocimiento previo](conocimiento-previo.md); el segundo, el de [cambio conceptual](cambio-conceptual.md).
 
-La medida importa más de lo que parece. El metaanálisis de Simonsmeier et al. (2022) encontró que quien sabía más al empezar sabe más al terminar, pero que lo previo predice poco cuánto se gana. Dicho de otro modo, el conocimiento previo explica el punto de llegada mejor que el progreso.
+La medida importa más de lo que parece. El metaanálisis de Simonsmeier et al. (2022) encontró que quien sabía más al empezar sabe más al terminar, pero que lo previo predice poco cuánto se gana. Es decir, lo previo explica el punto de llegada más que el progreso.
 
 ## Comprender no es retener
 
-La idea de que comprender es distinto de memorizar no tiene un cuerpo de evidencia propio: según el informe de esta base, se sostiene con *How People Learn* y con los efectos de la autoexplicación. El único hallazgo de esa síntesis verificado en el texto dice que «organizing information into a conceptual framework allows for greater transfer» (NRC, cap. 2). Comprender, en esa lectura, es tener lo sabido organizado en un marco, de modo que sirva fuera del ejercicio donde se aprendió.
+La idea de que comprender es distinto de memorizar no tiene un cuerpo de evidencia propio: según el informe de esta base, se sostiene con *How People Learn* y con los efectos de la autoexplicación. El único hallazgo de esa síntesis verificado en el texto dice que «organizing information into a conceptual framework allows for greater transfer» (NRC, *How People Learn*). Como lectura de esta base, comprender sería tener lo sabido organizado en un marco, de modo que sirva fuera del ejercicio donde se aprendió.
 
 La técnica que pide explicitar ese marco mientras se aprende es la [autoexplicación](../../Didactica/Preguntas-y-dialogo/autoexplicacion.md), que vive en Didáctica. El límite de la memoria de trabajo que hace necesario organizar está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md).
 

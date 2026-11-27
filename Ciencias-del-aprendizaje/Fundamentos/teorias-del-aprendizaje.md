@@ -38,7 +38,7 @@ Las teorías no se suceden como versiones corregidas: describen el mismo fenóme
 
 | Teoría | Aprender es | Mira sobre todo | Qué dejó en la enseñanza |
 |---|---|---|---|
-| Conductismo | Un cambio de conducta moldeado por sus consecuencias | La conducta observable y el refuerzo | Instrucción programada: pasos chicos con respuesta inmediata |
+| Conductismo | Un cambio de conducta moldeado por sus consecuencias | La conducta observable y el refuerzo | Instrucción programada (pasos chicos con respuesta inmediata, según el informe, sin fuente) |
 | Cognitivismo | Construir y reorganizar estructuras mentales en un sistema con límites | La memoria de trabajo y los esquemas | La carga cognitiva y los ejemplos resueltos |
 | Constructivismo | Que quien aprende arme el conocimiento a partir de lo que ya tiene | La reorganización de lo previo ante lo que no encaja | El cambio conceptual; mal leído, el descubrimiento sin guía |
 | Sociocultural | Algo que ocurre primero entre personas y después se internaliza | La interacción con otros más capaces y las herramientas de la cultura | La zona de desarrollo próximo; el aprendizaje con otros |
@@ -68,7 +68,7 @@ El constructivismo se partió en dos. El radical de von Glasersfeld (1989) agreg
 
 ## Teoría del aprendizaje no es método de enseñanza
 
-El constructivismo describe cómo se aprende, no prescribe cómo enseñar: «Constructivism is not a specific pedagogy, but a theory explaining how learning occurs», dice la Wikipedia. Según esa descripción, alguien construye sentido también mientras escucha una clase. La confusión aparece cuando se pasa de ahí a «hay que dejar que descubran solos».
+El constructivismo describe cómo se aprende, no prescribe cómo enseñar: «Constructivism is not a specific pedagogy, but a theory explaining how learning occurs», dice la Wikipedia. Según esa descripción, quien escucha una clase también construye sentido. La confusión aparece cuando se pasa de ahí a «hay que dejar que descubran solos».
 
 Mayer (2004), citado por la Wikipedia, concluye que el descubrimiento puro sin asistencia «should be eliminated» y recomienda el descubrimiento guiado. Kirschner, Sweller y Clark (2006) sostienen que la enseñanza con guía mínima es menos efectiva que la guiada, salvo con conocimiento previo alto. Ninguno de los dos artículos se leyó entero. La disputa y su evidencia, con el metaanálisis de Alfieri et al. (2011), están en [guía o descubrimiento](../../Didactica/Aprendizaje-activo-e-indagacion/guia-o-descubrimiento.md).
 

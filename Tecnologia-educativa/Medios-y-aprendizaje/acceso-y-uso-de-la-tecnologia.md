@@ -46,4 +46,4 @@ La división sirve igual para ordenar el tema: el acceso es esta nota; el aprend
 
 ## Qué cambia en una decisión de compra
 
-Lo que se infiere de estas fuentes, como lectura de esta base: el costo de una herramienta educativa no es la licencia sino lograr que se use bien. Antes de adoptar una, conviene preguntar quién va a hacer que se use, con qué rutina y qué uso concreto se espera (cuántas sesiones, para qué tarea). Una herramienta sin esa respuesta reproduce el caso de Cuban. La extensión a la capacitación de adultos en empresas es inferencia: las fuentes son de escuelas.
+Lo que se infiere de estas fuentes, como lectura de esta base: el mayor costo de una herramienta educativa está en lograr que se use bien, más que en la licencia. Antes de adoptar una, conviene preguntar quién va a hacer que se use, con qué rutina y qué uso concreto se espera (cuántas sesiones, para qué tarea). Una herramienta sin esa respuesta reproduce el caso de Cuban. La extensión a la capacitación de adultos en empresas es inferencia: las fuentes son de escuelas.

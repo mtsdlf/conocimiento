@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La tutoría es enseñar una habilidad a una persona o a un grupo de dos a cinco, con atención a lo que cada uno hace. En escuelas, los ensayos aleatorizados le dan un efecto de entre 0,29 y 0,37 desviaciones estándar, y su ventaja se explica más por las preguntas y el andamiaje que por las explicaciones del tutor.
+  La tutoría es enseñar una habilidad a una persona o a un grupo de dos a cinco, con atención a lo que cada uno hace. En escuelas, los ensayos aleatorizados le dan un efecto de entre 0,29 y 0,37 desviaciones estándar, y en un estudio clave los alumnos aprendieron igual cuando el tutor solo podía preguntar, sin explicar.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -19,7 +19,7 @@ revisado:
 
 # Tutoría
 
-La tutoría es enseñar una habilidad a una persona o a un grupo de dos a cinco, con atención a lo que cada uno hace. En escuelas, los ensayos aleatorizados le dan un efecto de entre 0,29 y 0,37 desviaciones estándar, y su ventaja se explica más por las preguntas y el andamiaje que por las explicaciones del tutor.
+La tutoría es enseñar una habilidad a una persona o a un grupo de dos a cinco, con atención a lo que cada uno hace. En escuelas, los ensayos aleatorizados le dan un efecto de entre 0,29 y 0,37 desviaciones estándar, y en un estudio clave los alumnos aprendieron igual cuando el tutor solo podía preguntar, sin explicar.
 
 Es la forma de enseñar más cercana a lo que hace un mentor técnico cuando se sienta con alguien a resolver un problema, aunque la literatura la separa de la [mentoría](mentoria.md), que acompaña una trayectoria. Su cifra más famosa, las dos desviaciones estándar de Bloom, no se sostuvo: la historia está en [problema de las dos sigmas](problema-de-las-dos-sigmas.md).
 
@@ -57,6 +57,6 @@ De las dos fuentes sale una pauta práctica: en una sesión uno a uno, quien tut
 
 ## Lo que falta para adultos
 
-No hay en los informes un metaanálisis de tutoría con adultos que aprenden habilidades técnicas. Toda la evidencia de esta nota es escolar, salvo parte de VanLehn.
+No hay en los informes un metaanálisis de tutoría con adultos que aprenden habilidades técnicas. Toda la evidencia de esta nota es escolar o universitaria.
 
 > [!NOTE] Sin fuente todavía: evidencia de tutoría con adultos en habilidades técnicas, y la página de tutoría entre pares del Toolkit de la EEF.

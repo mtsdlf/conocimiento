@@ -20,27 +20,27 @@ Es el principio de [Memoria y práctica](memoria-y-practica.md): explica por qu�
 
 ## Lo que dicen Bjork y Soderstrom
 
-Bjork y Bjork (2011) lo formulan así: «current performance can be a highly unreliable index of whether learning has occurred». La revisión de Soderstrom y Bjork (2015) lo respalda en su abstract: el rendimiento durante la práctica «is often an unreliable index» del aprendizaje de largo plazo. La revisión reúne dos clases de evidencia, según el abstract: aprendizaje que ocurre sin que el rendimiento mejore en el momento, y rendimiento que mejora sin que quede aprendizaje.
+Bjork y Bjork (2011) lo formulan así: «current performance can be a highly unreliable index of whether learning has occurred». La revisión de Soderstrom y Bjork (2015) lo respalda en su abstract: el rendimiento durante la práctica «is often an unreliable index» del aprendizaje de largo plazo.
 
 Un caso conocido, de la base de Psicología: en Roediger y Karpicke (2006), reestudiar rindió más a los 5 minutos y testearse rindió más a los 2 días y a la semana; quienes reestudiaron se sentían más seguros. El detalle está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md).
 
 ## Dos fuerzas de la memoria
 
-Bjork y Bjork explican la distinción con una teoría de dos fuerzas. La fuerza de almacenamiento es cuán bien está guardado algo y cuán conectado con lo demás; la fuerza de recuperación, cuán accesible está ahora. El rendimiento del momento refleja la segunda, y el aprendizaje, la primera.
+Bjork y Bjork explican la distinción con una teoría de dos fuerzas. La fuerza de almacenamiento es cuán bien guardado está algo y la fuerza de recuperación, cuán accesible está ahora. El rendimiento del momento refleja la segunda y el aprendizaje, la primera (definiciones en palabras de esta base; la teoría es de Bjork y Bjork).
 
-La consecuencia contraintuitiva es que olvidar un poco ayuda: «forgetting (losing retrieval strength) creates the opportunity for increasing the storage strength». Recuperar algo que ya costaba recordar fortalece más que recuperar algo que estaba a mano. Es una teoría, no un hallazgo; la evidencia está en cada técnica por separado, que es lo que reúne [dificultades deseables](dificultades-deseables.md).
+Según esa teoría, olvidar un poco ayuda: «forgetting (losing retrieval strength) creates the opportunity for increasing the storage strength». Es una teoría y no un hallazgo; la evidencia está en cada técnica por separado, que reúne [dificultades deseables](dificultades-deseables.md).
 
 ## Por qué engaña a quien estudia y a quien enseña
 
-Si lo que se ve al practicar es el rendimiento, todos los que miran eso eligen mal. Quien estudia prefiere releer y practicar en bloque porque se siente fluido; el mecanismo de ese juicio errado es la [ilusión de saber](../Metacognicion-y-autorregulacion/ilusion-de-saber.md). Quien enseña ve una clase sin errores y la da por buena. En el estudio de pintores que citan Bjork y Bjork (Kornell y Bjork, 2008), la mayoría creyó haber aprendido mejor con bloques, lo contrario de lo medido; el caso está en [intercalado](intercalado.md).
+Lo que se ve al practicar es el rendimiento, y quien juzga por eso elige mal. Quien estudia tiende a preferir releer y practicar en bloque porque se siente fluido; el mecanismo de ese juicio errado es la [ilusión de saber](../Metacognicion-y-autorregulacion/ilusion-de-saber.md). Por inferencia de esta base, quien enseña cae en lo mismo cuando da por buena una clase sin errores. En el estudio de pintores que citan Bjork y Bjork (Kornell y Bjork, 2008), la mayoría creyó haber aprendido mejor con bloques, lo contrario de lo medido; el caso está en [intercalado](intercalado.md).
 
 Tres consecuencias para medir lo aprendido, como lectura de esta base a partir de Bjork y Bjork:
 
 1. Medí después de una pausa (días, no minutos), no al final de la práctica.
-2. Medí con tareas nuevas, no con las mismas que se practicaron, porque eso es lo que separa aprendizaje de rendimiento según la definición.
+2. Medí con tareas nuevas y no con las practicadas, porque la definición de aprendizaje pide que se vea en otro contexto.
 3. No tomes la comodidad del grupo durante la práctica como señal de que aprendió.
 
-Cómo se arma una evaluación con esos criterios es tema de Evaluación educativa; que la prueba sostenga lo que se concluye de ella es su [validez](../../Evaluacion-educativa/Validez-confiabilidad-y-equidad/validez.md). Un caso de la distinción con asistentes de IA, donde el rendimiento sube mientras se practica sin que necesariamente suba lo aprendido, está en [enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md).
+Cómo se arma una evaluación con esos criterios es tema de Evaluación educativa; que la prueba sostenga lo que se concluye de ella es su [validez](../../Evaluacion-educativa/Validez-confiabilidad-y-equidad/validez.md). Un caso de la distinción con asistentes de IA está en [enseñar programación con IA](../../Didactica/Didacticas-especificas/ensenar-programacion-con-ia.md).
 
 ## Qué leer
 

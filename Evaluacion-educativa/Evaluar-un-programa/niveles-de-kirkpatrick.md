@@ -21,24 +21,24 @@ revisado:
 
 Los niveles de Kirkpatrick ordenan lo que se puede medir de una capacitación: reacción, aprendizaje, conducta en el trabajo y resultados. Sirven como lista de resultados, pero no forman una cadena: que guste un curso dice poco de si se aprendió o se usa.
 
-Es el marco más usado de la tradición organizacional de [evaluar un programa](evaluar-un-programa.md). El tercer nivel, la conducta en el trabajo, es lo que estudia la [transferencia de la capacitación](transferencia-de-la-capacitacion.md); el cuarto, llevado a dinero, es el [retorno](retorno-de-la-capacitacion.md).
+Es el marco de la tradición organizacional de [evaluar un programa](evaluar-un-programa.md). El tercer nivel, la conducta en el trabajo, es lo que estudia la [transferencia de la capacitación](transferencia-de-la-capacitacion.md); el cuarto, llevado a dinero, es el [retorno](retorno-de-la-capacitacion.md).
 
 ## Los cuatro niveles
 
 Kirkpatrick lo propuso entre 1959 y 1960; el original no se leyó.
 
-| Nivel | Qué mide | Cómo se suele medir |
+| Nivel | Qué mide | Cómo se suele medir (descripción de esta base) |
 |---|---|---|
 | 1. Reacción | Qué les pareció a quienes participaron | Encuesta al final |
 | 2. Aprendizaje | Qué saben o pueden hacer al terminar | Prueba o tarea |
 | 3. Conducta | Si lo usan en el trabajo | Observación, jefes, registros, semanas después |
 | 4. Resultados | Qué cambió en la organización | Indicadores del negocio |
 
-Cuanto más arriba, más importa y más cuesta medirlo. Por eso muchas evaluaciones se quedan en el nivel 1. Bell et al. (2017) agregan que «many studies continue to measure learning only in terms of declarative knowledge»: el nivel 2 se mide con preguntas de memoria, no con tareas.
+Cuanto más arriba, más cuesta medirlo (inferencia de esta base). Bell et al. (2017) agregan que «many studies continue to measure learning only in terms of declarative knowledge»: el nivel 2 se mide con preguntas de memoria, no con tareas.
 
 ## La cadena que no está
 
-Según Colquitt, LePine y Noe (2000), el marco «posits that reactions to training, learning, behavior change, and results are linked in a positive, causal manner». Esa suposición es la que no se sostiene.
+Según Colquitt, LePine y Noe (2000), el marco «posits that reactions to training, learning, behavior change, and results are linked in a positive, causal manner». Alliger y colegas cuestionaron esa suposición.
 
 Alliger et al. (1997) metaanalizaron 34 estudios con 115 correlaciones entre niveles. Separaron dos tipos de reacción: la afectiva («me gustó») y la de utilidad («me va a servir»). Según el abstract, «Utility-type reaction measures were more strongly related to learning or on-the-job performance (transfer) than affective-type reaction measures», y fueron mejores predictores de la transferencia que el aprendizaje medido al terminar. Los coeficientes no se pudieron leer, así que esta base no da un número.
 

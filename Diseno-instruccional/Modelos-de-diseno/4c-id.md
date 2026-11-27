@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  4C/ID es un modelo para enseñar habilidades complejas con cuatro componentes: tareas de aprendizaje completas, información de apoyo, información procedimental y práctica de partes. Su versión práctica son los diez pasos de Ten Steps to Complex Learning; es el único modelo de diseño con un metaanálisis propio (d = 0,79), con salvedades.
+  4C/ID es un modelo para enseñar habilidades complejas con cuatro componentes: tareas de aprendizaje completas, información de apoyo, información procedimental y práctica de partes. Su versión práctica son los diez pasos de Ten Steps to Complex Learning; es el modelo con más evidencia entre los encontrados (un metaanálisis, d = 0,79), con salvedades.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -16,20 +16,22 @@ revisado:
 
 # 4C/ID
 
-4C/ID es un modelo para enseñar habilidades complejas con cuatro componentes: tareas de aprendizaje completas, información de apoyo, información procedimental y práctica de partes. Su versión práctica son los diez pasos de Ten Steps to Complex Learning; es el único modelo de diseño con un metaanálisis propio (d = 0,79), con salvedades.
+4C/ID es un modelo para enseñar habilidades complejas con cuatro componentes: tareas de aprendizaje completas, información de apoyo, información procedimental y práctica de partes. Su versión práctica son los diez pasos de Ten Steps to Complex Learning; es el modelo con más evidencia entre los encontrados (un metaanálisis, d = 0,79), con salvedades.
 
 Dentro de los [modelos de diseño](modelos-de-diseno.md) es el que cubre las tres clases a la vez: tiene fases, un orden de decisiones y una idea de qué lleva una buena instrucción. Su eje, el orden de las tareas, está explicado en [secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md). Es la referencia de esta base para quien arma formación en habilidades complejas, como las de IT.
 
 ## Los cuatro componentes
 
-| Componente | Para qué | Cuándo se da |
-|---|---|---|
-| Tareas de aprendizaje | El eje: tareas completas y auténticas, agrupadas en clases de lo simple a lo complejo | Todo el curso, con ayuda que baja dentro de cada clase |
-| Información de apoyo | Lo no rutinario: modelos mentales y estrategias para resolver problemas que cambian | Al empezar cada clase de tareas, antes de practicar |
-| Información procedimental | Lo rutinario: los pasos que se hacen siempre igual | Justo cuando hace falta, durante la tarea |
-| Práctica de partes | Repetir aspectos rutinarios hasta automatizarlos | Aparte de las tareas, solo para lo que lo pide |
+| Componente | Para qué |
+|---|---|
+| Tareas de aprendizaje | El eje: tareas completas y auténticas, agrupadas en clases de lo simple a lo complejo |
+| Información de apoyo | Lo no rutinario |
+| Información procedimental | Lo rutinario |
+| Práctica de partes | Repetir aspectos rutinarios hasta automatizarlos |
 
-La distinción entre lo no rutinario y lo rutinario es la que ordena todo. Lo no rutinario se aprende razonando sobre casos y necesita información que quien aprende pueda pensar antes; lo rutinario se aprende haciéndolo y necesita la instrucción en el momento, no antes. La [carga cognitiva](../Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md) justifica la separación: dar los pasos rutinarios antes de la tarea los obliga a sostenerse en la memoria de trabajo sin uso. Esa justificación es una lectura de esta base sobre los componentes; el libro, que no se leyó, da la suya.
+La distinción entre lo no rutinario y lo rutinario ordena los componentes. Una lectura de esta base, no del libro (que no se leyó): la [carga cognitiva](../Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md) podría justificar la separación.
+
+> [!NOTE] Sin fuente todavía: cuándo se da cada tipo de información dentro del curso y cómo se retira la ayuda en cada clase de tareas.
 
 ## Los diez pasos
 
@@ -43,7 +45,7 @@ Los diez pasos son, según la editorial, una «practicable version» del modelo 
 6. Analizar los modelos mentales.
 7. Diseñar la información procedimental.
 
-El décimo es diseñar la práctica de partes; el 8 y el 9 no se confirmaron. Los pasos 5 y 6 son [análisis cognitivo de tareas](../Analisis-previo/analisis-cognitivo-de-tareas.md) aplicado: qué estrategias y qué modelos mentales usa el experto. Que los pasos 1 y 2 vayan primero acerca el modelo al [diseño hacia atrás](diseno-hacia-atras.md).
+El décimo es diseñar la práctica de partes; el 8 y el 9 no se confirmaron. Por lectura de esta base, los pasos 5 y 6 corresponden al [análisis cognitivo de tareas](../Analisis-previo/analisis-cognitivo-de-tareas.md): qué estrategias y qué modelos mentales usa el experto. Que los pasos 1 y 2 vayan primero acerca el modelo al [diseño hacia atrás](diseno-hacia-atras.md), también por lectura de esta base.
 
 La 4.ª edición (2024) suma a Frèrejean como autora y, según la editorial, «over 50 new references»; van Merriënboer murió en 2023. Que incluya un capítulo sobre IA no se verificó.
 
@@ -55,10 +57,10 @@ Las salvedades pesan:
 
 - No se pudo ver cuántos estudios entraron, su heterogeneidad ni su riesgo de sesgo: solo se leyó el abstract.
 - Un metaanálisis de diseños heterogéneos dice poco del modelo en sí: cada estudio aplica 4C/ID a su manera.
-- Según el informe de esta base, los estudios los hacen en buena parte quienes ya usan el modelo; no se verificó.
+- Según el material propio de la academia, los estudios los hacen en buena parte quienes ya usan el modelo; no se verificó.
 - «Nivel educativo» no es «adultos» ni «capacitación en el trabajo». Leer el moderador como «funciona mejor en adultos» sobreinterpreta.
 
-Aun así, es más evidencia de la que tiene cualquier otro modelo de diseño encontrado.
+Aun así, es más que lo encontrado para ADDIE, SAM, el diseño hacia atrás o Merrill; para Gagné hay una revisión de baja calidad.
 
 ## Cuándo conviene y cuándo sobra
 

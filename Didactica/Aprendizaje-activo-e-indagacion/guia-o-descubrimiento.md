@@ -23,11 +23,11 @@ revisado:
 
 La disputa entre guía y descubrimiento pregunta cuánta ayuda necesita quien aprende algo nuevo: explicarle y hacerlo practicar, o dejar que lo encuentre resolviendo. La evidencia descarta el descubrimiento sin guía y respalda el descubrimiento con andamiaje; lo que sigue en discusión es cómo clasificar la indagación y el aprendizaje basado en problemas.
 
-Es la disputa central de la didáctica, y por eso ordena a dos verticales. De un lado está la secuencia de [explicar y modelar](../Explicar-y-modelar/explicar-y-modelar.md) que resumen los [principios de Rosenshine](../Explicar-y-modelar/principios-de-rosenshine.md); del otro, los métodos de esta vertical, [Aprendizaje activo e indagación](aprendizaje-activo-e-indagacion.md). La pregunta útil para quien enseña no es "explicar o dejar descubrir" sino cuánta ayuda dar, de qué tipo y en qué momento.
+Es la disputa central de la didáctica, y por eso ordena a dos verticales. De un lado está la secuencia de [explicar y modelar](../Explicar-y-modelar/explicar-y-modelar.md) que resumen los [principios de Rosenshine](../Explicar-y-modelar/principios-de-rosenshine.md); del otro, los métodos de esta vertical, [Aprendizaje activo e indagación](aprendizaje-activo-e-indagacion.md). Para quien enseña, la pregunta útil es cuánta ayuda dar, de qué tipo y en qué momento, más que si explicar o dejar descubrir.
 
 ## La posición de la guía fuerte
 
-Kirschner, Sweller y Clark (2006) sostienen en "Why Minimal Guidance During Instruction Does Not Work" que la instrucción con guía mínima rinde menos que la guiada. Su abstract la presenta como "an analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching". El argumento, según las reseñas que se leyeron, tiene tres pasos:
+Kirschner, Sweller y Clark (2006) sostienen en "Why Minimal Guidance During Instruction Does Not Work" que la instrucción con guía mínima rinde menos que la guiada. No se leyó su texto ni su abstract literal, solo reseñas y los registros de la revista. El argumento, según esas reseñas, tiene tres pasos:
 
 1. La experticia se explica en buena parte por lo guardado en la memoria a largo plazo.
 2. Una tarea con poca guía carga la memoria de trabajo del novato, que no tiene esquemas para organizarla (el mecanismo está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md) y en [carga cognitiva](../../UX/Percepcion-y-decision/carga-cognitiva.md)).
@@ -35,7 +35,7 @@ Kirschner, Sweller y Clark (2006) sostienen en "Why Minimal Guidance During Inst
 
 La ventaja de la guía cede solo cuando el [conocimiento previo](../../Ciencias-del-aprendizaje/Conocimiento-previo-y-comprension/conocimiento-previo.md) es alto, que es la [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md).
 
-Mayer (2004) llegó antes a una conclusión parecida. Revisó tres áreas (descubrimiento de reglas de resolución de problemas, estrategias de conservación y enseñanza de programación) y encontró que el descubrimiento guiado rinde más que el puro en aprendizaje y transferencia. Su título propone una "regla de tres strikes" contra el descubrimiento puro. Lo que pide es guía, no Instrucción Directa: no argumenta contra todos los métodos centrados en quien aprende.
+Mayer (2004) llegó antes a una conclusión parecida. Según la reseña consultada, revisó tres áreas (descubrimiento de reglas de resolución de problemas, estrategias de conservación y enseñanza de programación) y encontró que el descubrimiento guiado rinde más que el puro en aprendizaje y transferencia. Su título propone una "regla de tres strikes" contra el descubrimiento puro. Lo que pide es guía, no Instrucción Directa: no argumenta contra todos los métodos centrados en quien aprende.
 
 ## La respuesta de la indagación y el ABP
 
@@ -56,7 +56,7 @@ Ambos bandos aceptan este resultado. El acuerdo es que el descubrimiento sin ayu
 
 ## Problema primero o explicación primero
 
-Una versión distinta de la pregunta no compara guía con descubrimiento sino el orden: intentar un problema antes de la explicación o después. Sinha y Kapur (2021) metaanalizaron 53 estudios con 166 comparaciones y hallaron un efecto moderado a favor de probar primero (g = 0,36). El detalle, los moderadores y los límites están en [falla productiva](falla-productiva.md). Es compatible con Alfieri: el problema inicial va seguido de instrucción explícita, no la reemplaza.
+Una versión distinta de la pregunta no compara guía con descubrimiento sino el orden: intentar un problema antes de la explicación o después. Sinha y Kapur (2021), según su abstract, metaanalizaron 53 estudios con 166 comparaciones y hallaron un efecto moderado a favor de probar primero (g = 0,36). El detalle, los moderadores y los límites están en [falla productiva](falla-productiva.md). Es compatible con Alfieri, según lectura de esta base: el problema inicial va seguido de instrucción explícita, no la reemplaza.
 
 ## Lo que muestran los datos de PISA
 
@@ -78,7 +78,7 @@ El titular "PISA muestra que la indagación empeora" se achica a "la asociación
 >
 > **Punto de acuerdo.** Nadie defiende el descubrimiento sin ayuda. Lo abierto es clasificar cada método concreto y decidir cuánto andamiaje lleva.
 
-Detrás hay una confusión que la disputa ayudó a separar. El constructivismo como teoría del aprendizaje describe cómo cualquiera da sentido a lo nuevo, incluso escuchando una clase; la prescripción de dejar descubrir sin guía es otra cosa, y la crítica apunta a esta última. La distinción se desarrolla en [teorías del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/teorias-del-aprendizaje.md#teoría-del-aprendizaje-no-es-método-de-enseñanza), de Ciencias del aprendizaje; la idea de que "aprendemos mejor descubriendo solos" figura en los [mitos de la enseñanza](../Fundamentos/mitos-de-la-ensenanza.md).
+Detrás hay una confusión que la disputa ayuda a separar. El constructivismo como teoría del aprendizaje describe cómo cualquiera da sentido a lo nuevo, incluso escuchando una clase; la prescripción de dejar descubrir sin guía es otra cosa, y la crítica apunta a esta última. La distinción se desarrolla en [teorías del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/teorias-del-aprendizaje.md#teoría-del-aprendizaje-no-es-método-de-enseñanza), de Ciencias del aprendizaje; la idea de que "aprendemos mejor descubriendo solos" figura en los [mitos de la enseñanza](../Fundamentos/mitos-de-la-ensenanza.md).
 
 ## Cómo se decide cuánta guía dar
 

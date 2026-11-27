@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Un concepto umbral es una idea que, una vez entendida, transforma cómo se ve el resto de un dominio y sin la cual no se puede avanzar; suele ser el lugar donde la gente se traba. El marco viene de Meyer y Land (2003) y se usa en la educación superior para decidir dónde poner tiempo y práctica, con muchos casos y pocas pruebas.
+  Un concepto umbral es una idea que, una vez entendida, transforma cómo se ve el resto de un dominio y sin la cual no se puede avanzar; suele ser el lugar donde la gente se traba. El marco viene de Meyer y Land (2003) y se usa en la educación superior como punto de partida para diseñar, con muchos casos y pocas pruebas.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -15,9 +15,9 @@ revisado:
 
 # Conceptos umbral
 
-Un concepto umbral es una idea que, una vez entendida, transforma cómo se ve el resto de un dominio y sin la cual no se puede avanzar; suele ser el lugar donde la gente se traba. El marco viene de Meyer y Land (2003) y se usa en la educación superior para decidir dónde poner tiempo y práctica, con muchos casos y pocas pruebas.
+Un concepto umbral es una idea que, una vez entendida, transforma cómo se ve el resto de un dominio y sin la cual no se puede avanzar; suele ser el lugar donde la gente se traba. El marco viene de Meyer y Land (2003) y se usa en la educación superior como punto de partida para diseñar, con muchos casos y pocas pruebas.
 
-Dentro de la [secuencia](secuencia-y-curriculo.md) no es un orden sino una marca sobre el recorrido: dice qué nodos de la [jerarquía de aprendizaje](jerarquia-de-aprendizaje.md) merecen más vueltas, en el sentido de la [espiral](secuencia-de-contenidos.md), y más práctica. Encontrarlos es trabajo del [análisis previo](../Analisis-previo/analisis-previo.md), porque el [punto ciego del experto](../Analisis-previo/analisis-cognitivo-de-tareas.md) los vuelve invisibles para quien ya los cruzó.
+Dentro de la [secuencia](secuencia-y-curriculo.md) funciona como una marca sobre el recorrido: según la lectura de esta base, dice qué nodos de la [jerarquía de aprendizaje](jerarquia-de-aprendizaje.md) merecen más vueltas, en el sentido de la [espiral](secuencia-de-contenidos.md), y más práctica. Por inferencia de esta base, encontrarlos es trabajo del [análisis previo](../Analisis-previo/analisis-previo.md), porque el [punto ciego del experto](../Analisis-previo/analisis-cognitivo-de-tareas.md) los vuelve invisibles para quien ya los cruzó.
 
 ## Qué los distingue
 
@@ -25,13 +25,13 @@ Land, Cousin, Meyer y Davies (2005) los definen como «a transformed way of unde
 
 Las guías secundarias dan una lista de cinco rasgos: transformador, irreversible, integrador, acotado (*bounded*) y problemático. El artículo de 2005 no enumera «acotado» como rasgo; la lista de cinco viene de otras fuentes y conviene citarla como tal.
 
-Un ejemplo propio, sin fuente: en programación, entender que una variable guarda una referencia y no el objeto cambia cómo se lee todo el código con estructuras compartidas. Antes de cruzarlo, los errores parecen aleatorios; después, son previsibles.
+Un ejemplo ilustrativo, sin fuente: en programación, entender que una variable guarda una referencia y no el objeto cambia cómo se lee todo el código con estructuras compartidas. Antes de cruzarlo, los errores parecen aleatorios; después, son previsibles.
 
 ## Cómo se diseña alrededor de ellos
 
-Los autores los llaman las «jewels in the curriculum»: puntos de partida para diseñar y, a la vez, los lugares donde el estudiante se traba (*stuck places*). Piden compromiso activo, que quien aprende explique, represente y aplique la idea en situaciones nuevas, no solo que la recuerde. El texto de 2005 trae nueve consideraciones de diseño; la nota no las reproduce porque solo se vieron en ese capítulo.
+Los autores los llaman las «jewels in the curriculum»: puntos de partida para diseñar y, a la vez, los lugares donde el estudiante se traba (*stuck places*). Piden compromiso activo, que quien aprende explique, represente y aplique la idea en situaciones nuevas, no solo que la recuerde. El texto de 2005 trae nueve consideraciones de diseño que no se reproducen: solo se vieron en ese capítulo.
 
-Para el diseño, la consecuencia práctica es de reparto: el tiempo de un curso no se distribuye parejo entre temas, se concentra donde está el umbral.
+Una consecuencia posible para el diseño, que es inferencia de esta base: repartir el tiempo del curso sin igualarlo entre temas y concentrarlo donde está el umbral.
 
 ## Qué evidencia hay
 

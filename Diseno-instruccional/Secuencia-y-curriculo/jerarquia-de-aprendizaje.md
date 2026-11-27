@@ -29,11 +29,11 @@ La fuente es *The Conditions of Learning* (3.ª ed. 1977), que no se leyó; la p
 
 ## Qué tan validada está
 
-White (1974) propuso un procedimiento de nueve etapas para validar jerarquías, y Dayton y Macready (1976), un análisis estructural alternativo. Según un resumen de un informe técnico del ejército de EE. UU., la investigación previa tenía «serious methodological flaws», y la hipótesis central, que los prerrequisitos median la transferencia, nunca se probó bien. No se encontró una revisión reciente.
+White (1974) propuso un procedimiento de nueve etapas para validar jerarquías, y Dayton y Macready (1976), un análisis estructural alternativo. Según un resumen de un informe técnico archivado en DTIC, la investigación previa tenía «serious methodological flaws», y la hipótesis central, que los prerrequisitos median la transferencia, nunca se probó bien. No se encontró una revisión reciente.
 
 ## Del árbol al grafo
 
-Un árbol supone que cada habilidad sirve a una sola de arriba; en un dominio real, una habilidad es prerrequisito de varias. Por eso la representación actual es un grafo dirigido: cada nodo es una competencia y cada flecha dice «esto va antes». Willcox y Huang muestran que un mapa de currículo en tabla esconde relaciones que un grafo deja ver: vacíos, solapamientos y caminos.
+Por inferencia de esta base, un árbol supone que cada habilidad sirve a una sola de arriba, y en un dominio real una habilidad puede ser prerrequisito de varias. La representación actual es un grafo dirigido: cada nodo es una competencia y cada flecha dice «esto va antes». Según un resumen, Willcox y Huang muestran que un mapa de currículo en tabla esconde relaciones que un grafo deja ver: vacíos, solapamientos y caminos.
 
 La base formal es la teoría de espacios de conocimiento de Doignon y Falmagne (1985):
 
@@ -57,6 +57,6 @@ El diagrama es un ejemplo ilustrativo, no sale de una fuente.
 
 ## Para qué se usa y qué no se sabe
 
-Una revisión sistemática de grafos de conocimiento en educación (*Heliyon*, 2024) encuentra cinco usos: aprendizaje adaptativo, diseño curricular (en crecimiento), mapas conceptuales, búsqueda semántica y otros; las limitaciones son el conocimiento que cambia y los errores de extracción automática. Para medir lo que sabe alguien recorriendo el grafo, ver [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md) y, en Evaluación educativa, [espacios de conocimiento](../../Evaluacion-educativa/Evaluacion-adaptativa/espacios-de-conocimiento.md), que es la teoría de esos tests adaptativos.
+Según su resumen, una revisión sistemática de grafos de conocimiento en educación (*Heliyon*, 2024) encuentra cinco usos: aprendizaje adaptativo, diseño curricular (en crecimiento), mapas conceptuales, búsqueda semántica y otros; las limitaciones son el conocimiento que cambia y los errores de extracción automática. Para medir lo que sabe alguien recorriendo el grafo, ver [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md) y, en Evaluación educativa, [espacios de conocimiento](../../Evaluacion-educativa/Evaluacion-adaptativa/espacios-de-conocimiento.md), que es la teoría de esos tests adaptativos.
 
-Los grafos de prerrequisitos de las plataformas no tienen, en lo encontrado, evaluación comparada de resultados. Las patentes describen el método pero no son evidencia. El grafo hereda la validez de las jerarquías: si los prerrequisitos están mal identificados, el grafo ordena mal con mucha precisión.
+Los grafos de prerrequisitos de las plataformas no tienen, en lo encontrado, evaluación comparada de resultados. Las patentes describen el método pero no son evidencia. Por inferencia de esta base, el grafo hereda la validez de las jerarquías: si los prerrequisitos están mal identificados, ordena mal con mucha precisión.

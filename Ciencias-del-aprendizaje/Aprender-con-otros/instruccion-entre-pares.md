@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La instrucción entre pares es hacer que los estudiantes se expliquen entre sí: en la técnica de Mazur, votar una pregunta conceptual, discutirla con el vecino y volver a votar; en la tutoría entre pares, que uno le enseñe a otro. Discutir mejora la comprensión aun cuando nadie del grupo sabía la respuesta, pero adaptar la técnica sin cuidado le quita efecto.
+  La instrucción entre pares es hacer que los estudiantes se expliquen entre sí: en la técnica de Mazur, votar una pregunta conceptual, discutirla con el vecino y volver a votar; en la tutoría entre pares, que uno le enseñe a otro. En un estudio, discutir mejoró la comprensión aun cuando nadie del grupo sabía la respuesta, y una revisión advierte que adaptar la técnica puede comprometer su efecto.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -17,16 +17,16 @@ revisado:
 
 # Instrucción entre pares
 
-La instrucción entre pares es hacer que los estudiantes se expliquen entre sí: en la técnica de Mazur, votar una pregunta conceptual, discutirla con el vecino y volver a votar; en la tutoría entre pares, que uno le enseñe a otro. Discutir mejora la comprensión aun cuando nadie del grupo sabía la respuesta, pero adaptar la técnica sin cuidado le quita efecto.
+La instrucción entre pares es hacer que los estudiantes se expliquen entre sí: en la técnica de Mazur, votar una pregunta conceptual, discutirla con el vecino y volver a votar; en la tutoría entre pares, que uno le enseñe a otro. En un estudio, discutir mejoró la comprensión aun cuando nadie del grupo sabía la respuesta, y una revisión advierte que adaptar la técnica puede comprometer su efecto.
 
 Es una técnica de [Aprender con otros](aprender-con-otros.md). La instrucción entre pares forma parte del [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md), cuyo metaanálisis de Freeman et al. (2014) y el caso de programación se tratan en Didáctica; la tutoría con un adulto que enseña, en [tutoría](../../Didactica/Tutoria-y-mentoria/tutoria.md). Acá va lo propio de que el que explica sea un par.
 
 ## Los cinco pasos de Mazur
 
-Según la página de Wikipedia usada como mapa, la técnica que Eric Mazur armó para física universitaria sigue esta secuencia:
+Según la página de Wikipedia usada como mapa, la técnica de Mazur sigue esta secuencia:
 
-1. Quien enseña plantea una pregunta conceptual, no de cálculo.
-2. Cada uno responde solo (con tarjetas o un sistema de votación).
+1. Quien enseña plantea una pregunta conceptual.
+2. Cada uno responde solo.
 3. Cada uno discute su respuesta con el compañero de al lado.
 4. Se vuelve a votar.
 5. Quien enseña explica la respuesta y el razonamiento.
@@ -37,17 +37,17 @@ El artículo de Crouch y Mazur (2001), que la describe con diez años de datos, 
 
 Smith et al. (2009) lo probaron en un curso de genética de grado. Después de discutir con el vecino y revotar, los estudiantes respondieron mejor una pregunta isomorfa posterior, es decir, otra pregunta con la misma lógica y distinta superficie. Según el abstract, «peer discussion enhances understanding, even when none of the students in a discussion group originally knows the correct answer».
 
-El hallazgo descarta la explicación más simple, que el que sabía le pasa la respuesta al que no. Que la ganancia venga de tener que formular y defender un razonamiento es una lectura de esta base que conecta con la [autoexplicación](../../Didactica/Preguntas-y-dialogo/autoexplicacion.md) y con [aprender enseñando](aprender-ensenando.md); el abstract no la desarrolla.
+En ese caso la ganancia no puede venir de que quien sabía le pase la respuesta a quien no. Que la ganancia venga de tener que formular y defender un razonamiento es una lectura de esta base que conecta con la [autoexplicación](../../Didactica/Preguntas-y-dialogo/autoexplicacion.md) y con [aprender enseñando](aprender-ensenando.md); el abstract no la desarrolla.
 
 ## Lo que se pierde al adaptarla
 
-Vickrey et al. (2015) revisaron cómo se implementa. Según su abstract, «instructors often adapt rather than adopt practices, unknowingly compromising their effectiveness», y proponen un modelo de implementación basado en investigación. Los pasos que se suelen saltar (el voto individual antes de discutir, la pregunta realmente conceptual) no están detallados en el abstract.
+Vickrey et al. (2015) revisaron cómo se implementa. Según su abstract, «instructors often adapt rather than adopt practices, unknowingly compromising their effectiveness», y proponen un modelo de implementación basado en investigación. El abstract no detalla qué partes de la técnica se suelen adaptar.
 
 La misma página de Wikipedia agrega dos límites que no se verificaron en su fuente: la eficacia puede depender del conocimiento previo (citando a Vickrey 2015), y un ensayo aleatorizado de 2021 en fisiología respiratoria (Mohammad et al.) no encontró diferencia frente al trabajo grupal convencional. Lo primero conecta con el [conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md): discutir sirve si hay algo que discutir.
 
 ## Tutoría entre pares: lo que da la EEF
 
-En la tutoría entre pares un estudiante le enseña a otro, a veces de la misma edad y a veces mayor. El Toolkit de la EEF, según el buscador (la página dio 403 y las versiones discrepan):
+En la tutoría entre pares un estudiante le enseña a otro. El Toolkit de la EEF, según el buscador (la página dio 403 y las versiones discrepan):
 
 | Dato | Versión actual | Versiones anteriores |
 |---|---|---|
@@ -55,7 +55,7 @@ En la tutoría entre pares un estudiante le enseña a otro, a veces de la misma 
 | Solidez | «alta» | — |
 | Por nivel | secundaria +7, primaria +5 | — |
 
-El mayor beneficio aparece en estudiantes de bajo rendimiento y con necesidades educativas especiales, y la tutoría entre pares rinde más para repasar y consolidar que para introducir material nuevo. Esa última condición es la más útil al diseñar: el par tutor sirve para practicar lo ya explicado, no para reemplazar la primera explicación. Cómo leer los meses y los candados está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md).
+El mayor beneficio aparece en estudiantes de bajo rendimiento y con necesidades educativas especiales, y la tutoría entre pares rinde más para repasar y consolidar que para introducir material nuevo. Como lectura de esta base, eso sugiere usar al par tutor para practicar lo ya explicado y no para la primera explicación. Cómo leer los meses y los candados está en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md).
 
 ## Lo que falta para enseñar programación
 

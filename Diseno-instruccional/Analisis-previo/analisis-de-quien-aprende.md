@@ -10,6 +10,7 @@ fuentes:
   - "Doignon y Falmagne (1985), espacios de conocimiento: https://en.wikipedia.org/wiki/Knowledge_space"
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
+  - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [learner analysis, análisis del alumno, conductas de entrada, entry behaviors, conocimiento previo, diagnóstico de entrada, efecto de inversión de la experticia, expertise reversal effect]
 creado: 2026-11-27
 revisado:
@@ -25,7 +26,7 @@ Es la tercera pregunta del [análisis previo](analisis-previo.md). Dick y Carey 
 
 Kalyuga, Ayres, Chandler y Sweller (2003) describieron el efecto de [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md), que Didáctica desarrolla con sus casos: técnicas muy eficaces con novatos pierden eficacia con quien tiene más experiencia, y a veces la empeoran. El caso típico es el ejemplo resuelto: guía a un novato y pierde efecto con quien ya tiene experiencia en el tema. El mecanismo es el de la [carga cognitiva en el aprendizaje](../Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md).
 
-La consecuencia de diseño es que un curso con un solo nivel de ayuda falla a una parte del grupo. El análisis decide si hace falta un diagnóstico de entrada, si conviene armar recorridos distintos o si la ayuda se retira a medida que el que aprende avanza, como en las clases de tareas de [4C/ID](../Modelos-de-diseno/4c-id.md).
+Por inferencia de esta base, un curso con un solo nivel de ayuda falla a una parte del grupo. El análisis decide si hace falta un diagnóstico de entrada, si conviene armar recorridos distintos o si la ayuda se retira a medida que el que aprende avanza.
 
 ## Edad o conocimiento previo
 
@@ -33,6 +34,6 @@ La andragogía de Knowles sostiene que los adultos necesitan otra pedagogía: so
 
 ## Cómo se representa lo que alguien ya sabe
 
-La forma más formal de describir el punto de partida es la teoría de espacios de conocimiento de Doignon y Falmagne (1985). El estado de conocimiento de una persona es el conjunto de conceptos que domina; el borde externo de ese estado es lo que ya está lista para aprender. Un diagnóstico que recorre el grafo de prerrequisitos ubica a alguien con pocas preguntas. La herramienta se explica en [jerarquía de aprendizaje](../Secuencia-y-curriculo/jerarquia-de-aprendizaje.md); los tests que la usan para medir, en [espacios de conocimiento](../../Evaluacion-educativa/Evaluacion-adaptativa/espacios-de-conocimiento.md) y [evaluación diagnóstica](../../Evaluacion-educativa/Propositos/evaluacion-diagnostica.md).
+La forma más formal de describir el punto de partida es la teoría de espacios de conocimiento de Doignon y Falmagne (1985). El estado de conocimiento de una persona es el conjunto de conceptos que domina; el borde externo de ese estado es lo que ya está lista para aprender. Según el material propio de la academia, que no se verificó, un diagnóstico que recorre el grafo de prerrequisitos ubica a alguien con pocas preguntas. La herramienta se explica en [jerarquía de aprendizaje](../Secuencia-y-curriculo/jerarquia-de-aprendizaje.md); los tests que la usan para medir, en [espacios de conocimiento](../../Evaluacion-educativa/Evaluacion-adaptativa/espacios-de-conocimiento.md) y [evaluación diagnóstica](../../Evaluacion-educativa/Propositos/evaluacion-diagnostica.md).
 
 > [!NOTE] Sin fuente todavía: evidencia propia de diagnósticos de entrada con adultos, y en particular con adultos que aprenden IT.

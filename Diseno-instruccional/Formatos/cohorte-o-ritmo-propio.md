@@ -29,14 +29,14 @@ La tabla es una síntesis de esta base, no un hallazgo de una fuente.
 
 ## Lo que muestra la práctica de las escuelas
 
-Una revisión propia de escuelas de programación que publican su método encontró de todo: escuelas a ritmo propio, escuelas por tandas o talleres, escuelas con plazos que se recalculan según el avance y campus, y comunidades con cohorte opcional. Ninguna publica datos auditados de aprendizaje. Una escuela a ritmo propio admite en sus preguntas frecuentes que estudiar sola es solitario y puede desmoralizar.
+Una revisión propia de escuelas de IT que publican su método encontró variedad: escuelas a ritmo propio, escuelas por tandas o talleres, escuelas con plazos que se recalculan según el avance y campus, y comunidades con cohorte opcional. Ninguna publica datos auditados de aprendizaje. Una escuela a ritmo propio admite en sus preguntas frecuentes que estudiar sola es solitario y puede desmoralizar.
 
 Según esa misma revisión, que es material propio y no literatura:
 
 - **Lo que escala a grupos chicos**: la evaluación humana en vivo en pocos puntos del recorrido; el «todavía no» con un plan de mejora en lugar de un aplazo; guías de estudio por evaluación; plazos que se recalculan con el avance.
 - **Lo que no**: la corrección solo entre pares, la autodirección sin currículo y las comunidades sostenidas por voluntarios.
 
-Esto es experiencia propia de noviembre de 2026, sin verificación externa. Sirve como hipótesis de diseño, no como evidencia.
+Es material propio de la academia, anterior a esta investigación y sin verificación externa. Sirve como hipótesis de diseño y no como evidencia.
 
 ## Lo que se puede decir sin evidencia directa
 

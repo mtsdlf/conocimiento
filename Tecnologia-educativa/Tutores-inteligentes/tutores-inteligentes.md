@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Un tutor inteligente es un programa que guía a quien aprende paso a paso dentro de un problema: sigue cada acción, estima qué sabe y decide qué pista dar y qué problema poner después. Es la familia de tecnología educativa con más evidencia, y la base de los tutores con IA.
+  Un tutor inteligente es un programa que guía a quien aprende paso a paso dentro de un problema: sigue cada acción, estima qué sabe y decide qué pista dar y qué problema poner después. Es una de las familias de tecnología educativa con más evidencia reunida en esta base, y el antecedente de los tutores con IA.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -15,7 +15,7 @@ revisado:
 
 # Tutores inteligentes
 
-Un tutor inteligente es un programa que guía a quien aprende paso a paso dentro de un problema: sigue cada acción, estima qué sabe y decide qué pista dar y qué problema poner después. Es la familia de tecnología educativa con más evidencia, y la base de los tutores con IA.
+Un tutor inteligente es un programa que guía a quien aprende paso a paso dentro de un problema: sigue cada acción, estima qué sabe y decide qué pista dar y qué problema poner después. Es una de las familias de tecnología educativa con más evidencia reunida en esta base, y el antecedente de los tutores con IA.
 
 Dentro de [Tecnología educativa](../tecnologia-educativa.md) es la parte que intenta automatizar lo que hace un tutor humano. Le presta su arquitectura y su escalera de pistas a [IA en la educación](../IA-en-la-educacion/ia-en-la-educacion.md): un tutor con un modelo de lenguaje que no regala respuestas está haciendo, con otra tecnología, lo que estos sistemas hacen desde los años 80. Le presta su estimación de lo que sabe cada alumno a la [práctica adaptativa](../Practica-adaptativa/practica-adaptativa.md). La [tutoría](../../Didactica/Tutoria-y-mentoria/tutoria.md) humana, con la que se los compara, está en Didáctica.
 

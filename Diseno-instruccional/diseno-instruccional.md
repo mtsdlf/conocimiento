@@ -11,6 +11,7 @@ fuentes:
   - "Means, Toyama, Murphy y Bakia (2013), Teachers College Record 115(3): https://draft.epsy5221.education.uconn.edu/wp-content/uploads/sites/2358/2018/08/Means-2013-meta-analysius.pdf"
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
+  - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [instructional design, diseño de cursos, diseño curricular, currículo, learning design, diseño de la formación, ISD]
 creado: 2026-11-27
 revisado:
@@ -20,9 +21,9 @@ revisado:
 
 El diseño instruccional es el oficio de armar una experiencia de aprendizaje entera, un curso, un programa o un camino, decidiendo qué se aprende, en qué orden, con qué materiales y en qué formato.
 
-Trabaja una escala arriba de la [didáctica](../Didactica/didactica.md): no una explicación o una clase sino el recorrido completo. Toma de las [ciencias del aprendizaje](../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) cómo se aprende, planifica desde el principio cómo se va a comprobar con la [evaluación educativa](../Evaluacion-educativa/evaluacion-educativa.md) y deja a la [tecnología educativa](../Tecnologia-educativa/tecnologia-educativa.md) las plataformas en que se entrega. Es uno de los cinco temas del área Pedagogía. El mecanismo psicológico del aprendizaje está en [Aprendizaje y memoria](../Psicologia/Aprendizaje-y-memoria/aprendizaje-y-memoria.md), de Psicología.
+Trabaja una escala arriba de la [didáctica](../Didactica/didactica.md): el recorrido completo, en lugar de una explicación o una clase. Toma de las [ciencias del aprendizaje](../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md) cómo se aprende, planifica desde el principio cómo se va a comprobar con la [evaluación educativa](../Evaluacion-educativa/evaluacion-educativa.md) y deja a la [tecnología educativa](../Tecnologia-educativa/tecnologia-educativa.md) las plataformas en que se entrega. Es uno de los cinco temas del área Pedagogía. El mecanismo psicológico del aprendizaje está en [Aprendizaje y memoria](../Psicologia/Aprendizaje-y-memoria/aprendizaje-y-memoria.md), de Psicología.
 
-La idea que ordena el tema es que un curso se diseña desde el final y desde el problema: primero se averigua si hace falta enseñar y qué hace de verdad quien domina la tarea, después se fija qué va a poder hacer quien aprenda y cómo se va a comprobar, y recién al final se eligen el orden, los materiales y el formato. La segunda idea es de honestidad: la evidencia es despareja. Los principios para armar materiales tienen decenas de experimentos; los modelos de diseño, que son lo más enseñado del oficio, casi ninguno.
+La idea que ordena el tema es que un curso se diseña desde el final y desde el problema: primero se averigua si hace falta enseñar y qué hace de verdad quien domina la tarea, después se fija qué va a poder hacer quien aprenda y cómo se va a comprobar, y recién al final se eligen el orden, los materiales y el formato. La segunda idea es que la evidencia es despareja. Los principios para armar materiales tienen decenas de comparaciones experimentales cada uno; los modelos de diseño, casi ninguna.
 
 ## De qué está hecho un curso diseñado
 

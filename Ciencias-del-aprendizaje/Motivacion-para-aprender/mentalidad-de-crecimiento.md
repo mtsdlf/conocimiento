@@ -38,19 +38,19 @@ La última fila es la única evidencia leída sobre adultos: la intervención no
 ## La disputa sobre si queda algo
 
 > [!IMPORTANT]
-> **El efecto es nulo una vez que se corrigen los sesgos (Macnamara y Burgoyne 2023).** Con 63 estudios y N = 97.672, el efecto total fue d = 0,05 [0,02; 0,09], «nonsignificant after correcting for potential publication bias». En los 13 estudios que lograron cambiar la mentalidad, d = 0,04 [-0,01; 0,10]; en los 6 de mejor calidad (N = 13.571), d = 0,02 [-0,06; 0,10]. Además, «authors with a financial incentive to report positive findings published significantly larger effects». Concluyen que los efectos aparentes «are likely attributable to inadequate study design, reporting flaws, and bias» (abstract).
+> **El efecto es nulo una vez corregidos los sesgos (Macnamara y Burgoyne 2023).** Con 63 estudios y N = 97.672, el efecto total fue d = 0,05 [0,02; 0,09], «nonsignificant after correcting for potential publication bias». En los 13 estudios que lograron cambiar la mentalidad, d = 0,04 [-0,01; 0,10]; en los 6 de mejor calidad (N = 13.571), d = 0,02 [-0,06; 0,10]. Además, «authors with a financial incentive to report positive findings published significantly larger effects». Concluyen que los efectos aparentes «are likely attributable to inadequate study design, reporting flaws, and bias» (abstract).
 >
 > **El efecto es chico pero real en quienes pueden beneficiarse (Burnette et al. 2023; Yeager et al. 2019).** Burnette et al., con 53 muestras de diseño aleatorizado, hallaron en los subgrupos esperables y con alta fidelidad d = 0,14 [0,06; 0,22] en rendimiento y d = 0,32 [0,10; 0,54] en salud mental; el intervalo de predicción para rendimiento va de -0,08 a 0,35, es decir, la variación esperable en futuras intervenciones es amplia (abstract). Yeager et al., con una intervención en línea de menos de una hora en una muestra nacional de EE. UU. y preregistrada, mejoraron las notas de los de bajo rendimiento y la inscripción en matemática avanzada, con efectos que se sostuvieron donde las normas de los pares acompañaban el mensaje (abstract).
 >
-> Sisk et al. y Macnamara y Burgoyne son del mismo grupo; Yeager es uno de los proponentes de la intervención. Los metaanálisis se superponen en buena parte de los estudios. Un comentario, conocido solo por el buscador, dice que un reanálisis de los datos de Macnamara y Burgoyne con los métodos de Burnette confirmó a Burnette; no se abrió.
+> Sisk et al. y Macnamara y Burgoyne son del mismo grupo, y Yeager et al. presentan un experimento propio. Los metaanálisis se superponen en buena parte de los estudios. Un comentario, conocido solo por el buscador, dice que un reanálisis de los datos de Macnamara y Burgoyne con los métodos de Burnette confirmó a Burnette; no se abrió.
 
 Los dos bandos coinciden en una cosa: el efecto promedio es chico. Discuten si, en grupos elegidos y con buena implementación, queda algo que justifique la intervención.
 
 ## Qué hacer con esto al enseñar
 
-Como programa para mejorar el rendimiento de un grupo cualquiera, la mentalidad de crecimiento no tiene respaldo: es el caso que [mitos del aprendizaje](../Fundamentos/mitos-del-aprendizaje.md) registra como «se achicó». Lo que la disputa deja abierto es un efecto chico focalizado en estudiantes de bajo nivel socioeconómico o bajo rendimiento, en contextos que acompañan el mensaje.
+Como programa para mejorar el rendimiento de un grupo cualquiera, la mentalidad de crecimiento tiene poco respaldo: el efecto promedio es chico, y [mitos del aprendizaje](../Fundamentos/mitos-del-aprendizaje.md) la registra como «se achicó». Lo que la disputa deja abierto es un efecto chico focalizado en estudiantes de bajo nivel socioeconómico o bajo rendimiento, en contextos que acompañan el mensaje.
 
-Para un curso de adultos, la única evidencia leída (d = 0,08, no significativo) no da razones para dedicarle tiempo. Las palancas con más evidencia en esta vertical son el [apoyo a la autonomía](apoyo-a-la-autonomia.md) y, para quien duda de poder, la relevancia de [valor y expectativas](valor-y-expectativas.md). Esto es inferencia de esta base sobre evidencia escolar.
+Para un curso de adultos, la única evidencia leída (d = 0,08, no significativo) no da razones para dedicarle tiempo. Las otras dos palancas de esta vertical son el [apoyo a la autonomía](apoyo-a-la-autonomia.md) y, para quien duda de poder, la relevancia de [valor y expectativas](valor-y-expectativas.md), cada una con las limitaciones que dicen sus notas. Todo esto es inferencia de esta base sobre evidencia escolar.
 
 ## Qué leer
 

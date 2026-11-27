@@ -30,7 +30,7 @@ Los instrumentos se ordenan en una línea. En un extremo, la pregunta cerrada: m
 | Cercanía al trabajo real | Baja | Alta |
 | Riesgo típico | Medir reconocimiento en vez de uso | Generalizar desde dos o tres tareas |
 
-Los Standards (2014) explican el costo del lado auténtico: las tareas abiertas suman variación por tarea y por corrector, así que la confiabilidad hay que estimarla «over tasks, contexts, raters». Con pocas tareas, el resultado depende mucho de cuáles tocaron. Cuántas tareas hacen falta para generalizar no se investigó en esta base.
+La tabla es una síntesis de esta base, no de una fuente. Los Standards (2014) explican el costo del lado auténtico: las tareas abiertas suman variación por tarea y por corrector, así que la confiabilidad hay que estimarla «over tasks, contexts, raters». Con pocas tareas, el resultado depende mucho de cuáles tocaron. Cuántas tareas hacen falta para generalizar no se investigó en esta base.
 
 ## Quién juzga
 

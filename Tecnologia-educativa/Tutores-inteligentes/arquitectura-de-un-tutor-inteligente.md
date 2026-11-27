@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Un tutor inteligente se arma con cuatro piezas: un modelo del dominio (lo que hay que saber), un modelo del estudiante (lo que este alumno sabe), un modelo pedagógico (qué hacer ahora) y una interfaz. La división viene de los años 70 y 80, de SCHOLAR y de los tutores cognitivos de Carnegie Mellon.
+  Un tutor inteligente se arma con cuatro piezas: un modelo del dominio (lo que hay que saber), un modelo del estudiante (lo que este alumno sabe), un modelo pedagógico (qué hacer ahora) y una interfaz. La historia que sigue arranca con SCHOLAR (1970) y los tutores cognitivos de Carnegie Mellon (principios de los 80).
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -14,7 +14,7 @@ revisado:
 
 # Arquitectura de un tutor inteligente
 
-Un tutor inteligente se arma con cuatro piezas: un modelo del dominio (lo que hay que saber), un modelo del estudiante (lo que este alumno sabe), un modelo pedagógico (qué hacer ahora) y una interfaz. La división viene de los años 70 y 80, de SCHOLAR y de los tutores cognitivos de Carnegie Mellon.
+Un tutor inteligente se arma con cuatro piezas: un modelo del dominio (lo que hay que saber), un modelo del estudiante (lo que este alumno sabe), un modelo pedagógico (qué hacer ahora) y una interfaz. La historia que sigue arranca con SCHOLAR (1970) y los tutores cognitivos de Carnegie Mellon (principios de los 80).
 
 > [!NOTE]
 > La división en cuatro piezas y el detalle de los tutores cognitivos salen de Wikipedia, que cita a Wenger (1987), Self (1990) y Koedinger y Corbett (2006). Falta verificarlo en una fuente primaria, como Wenger o Nkambou et al. (2010), y en Anderson et al. (1995).
@@ -32,9 +32,9 @@ La columna de ejemplos es ilustración de esta base, no sale de las fuentes.
 
 ## Seguir cada paso: trazado de modelo y de conocimiento
 
-Lo que separa a un tutor inteligente de un ejercicio con corrección automática es que mira cada paso, no solo la respuesta final. En los tutores cognitivos, el trazado de modelo (*model tracing*) compara cada acción del alumno con las rutas de solución del modelo del dominio: si el paso está en una ruta válida, el tutor lo deja seguir; si coincide con un error conocido, puede marcarlo en ese momento.
+Un tutor inteligente se distingue de un ejercicio con corrección automática porque mira cada paso y no solo la respuesta final. En los tutores cognitivos, el trazado de modelo (*model tracing*) compara cada acción del alumno con las rutas de solución del modelo del dominio: si el paso está en una ruta válida, el tutor lo deja seguir; si coincide con un error conocido, puede marcarlo en ese momento.
 
-El trazado de conocimiento (*knowledge tracing*) actualiza el modelo del estudiante. Con un modelo bayesiano estima, después de cada paso, la probabilidad de que el alumno ya haya aprendido cada habilidad, y con esa estimación elige el próximo problema. Es el mismo principio que usa la [práctica adaptativa](../Practica-adaptativa/sistemas-adaptativos.md) para decidir qué practicar.
+El trazado de conocimiento (*knowledge tracing*) actualiza el modelo del estudiante. Con un modelo bayesiano estima, después de cada paso, la probabilidad de que el alumno ya haya aprendido cada habilidad, y con esa estimación elige el próximo problema. Como lectura de esta base, es el mismo principio que usa la [práctica adaptativa](../Practica-adaptativa/sistemas-adaptativos.md) para decidir qué practicar.
 
 Ma et al. (2014) compararon formas de modelar al estudiante: los tutores con trazado de modelo dieron un efecto de 0,35, y los basados en modelos de restricciones, de 0,24.
 

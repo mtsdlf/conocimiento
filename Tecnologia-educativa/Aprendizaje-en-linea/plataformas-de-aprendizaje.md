@@ -22,7 +22,7 @@ Es la infraestructura del [aprendizaje en línea](aprendizaje-en-linea.md).
 
 Copiado de las páginas oficiales de cada producto el 2026-11-27. Casi todo es lo que el proveedor dice de sí mismo. No es un ranking. Las funciones de IA de estas plataformas cambian cada pocos meses: re-verificar antes de usar.
 
-No hay evidencia comparativa de que un sistema de gestión del aprendizaje (LMS) cambie lo que se aprende: Escueta et al. (2020) clasifican el aprendizaje en línea como categoría, no la plataforma. Elegir una es una decisión de operación, no de aprendizaje.
+Esta base no encontró evidencia comparativa de que un sistema de gestión del aprendizaje (LMS) cambie lo que se aprende: Escueta et al. (2020) clasifican el aprendizaje en línea como categoría y no la plataforma. Como inferencia, elegir una es una decisión de operación.
 
 | Categoría | Qué hace | Ejemplo | Lo verificado en su página |
 |---|---|---|---|

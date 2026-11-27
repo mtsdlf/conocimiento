@@ -37,7 +37,7 @@ El tamaño de efecto agrupado de Adesope et al. no se obtuvo. Una fuente secunda
 
 ## Por qué la prueba de práctica no lleva nota
 
-Si la prueba es la intervención, ponerle nota cambia su función. La práctica pasa a ser una [evaluación sumativa](propositos.md) chica, con lo que eso trae: menos ganas de equivocarse y menos interés, según el experimento de Butler sobre [notas y comentarios](../Calificacion-y-acreditacion/notas-y-comentarios.md). La inferencia de esta base es que la práctica rinde más con consecuencias bajas o nulas; ninguna de las síntesis leídas aísla esa variable.
+Si la prueba es la intervención, ponerle nota cambia su función. La práctica pasa a ser una [evaluación sumativa](propositos.md) chica, con lo que eso trae: menos interés, según el experimento de Butler sobre [notas y comentarios](../Calificacion-y-acreditacion/notas-y-comentarios.md). La inferencia de esta base es que la práctica rinde más con consecuencias bajas o nulas; ninguna de las síntesis leídas aísla esa variable.
 
 Según un resumen secundario de Adesope et al., la opción múltiple fue el formato más eficaz como práctica. Eso importa para elegir [instrumento](../Instrumentos/opcion-multiple.md): para practicar, una pregunta cerrada bien escrita alcanza, aunque para acreditar pueda no alcanzar. Hay que verificar el dato en el original.
 

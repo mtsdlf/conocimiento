@@ -45,7 +45,7 @@ Esta nota es de toda el área Pedagogía y reúne los mitos sobre cómo se apren
 
 En la encuesta de Dekker et al. (2012), con 242 docentes de Reino Unido y Países Bajos, el 91 % y el 86 % aceptaron que las diferencias de hemisferio dominante explican diferencias entre alumnos, y el 48 % y el 46 % que usamos el 10 % del cerebro. Saber más sobre el cerebro en general no protegía. El resto de la encuesta, con Macdonald et al. (2017) y Howard-Jones (2014), está en [mitos de la enseñanza](../../Didactica/Fundamentos/mitos-de-la-ensenanza.md).
 
-Howard-Jones (2014), según un resumen, explica por qué duran: muchos neuromitos son distorsiones de hechos científicos, y se usan para respaldar enseñanza ineficaz. Los tres que siguen lo muestran: cada uno parte de algo que existe.
+Howard-Jones (2014), según un resumen, explica por qué duran: muchos neuromitos son distorsiones de hechos científicos, y se usan para respaldar enseñanza ineficaz. Los de hemisferios y Brain Gym lo muestran: cada uno parte de algo que existe.
 
 ## Hemisferios: lateralización sí, tipos de persona no
 
@@ -53,11 +53,11 @@ La lateralización existe: el lenguaje tiende a procesarse más a la izquierda y
 
 ## Brain Gym: el programa construido sobre el mito anterior
 
-Brain Gym vende ejercicios físicos que supuestamente reorganizan y «integran» el cerebro. Según un resumen, Spaulding, Mostert y Beam (2010) revisaron su base teórica y la investigación publicada y no encontraron respaldo para lo que dicen sus promotores; ningún estudio de apoyo era de alta calidad. Hyatt (2007) analizó sus tres ideas de base (reorganización neurológica, dominancia cerebral y entrenamiento perceptivo-motor) y encontró que el entrenamiento perceptivo-motor se había declarado inválido a fines de los años 80. En la encuesta de Dekker, el 82 % de las escuelas británicas lo usaba, frente al 8 % de las neerlandesas.
+Brain Gym vende ejercicios físicos que supuestamente reorganizan y «integran» el cerebro. Según un resumen, Spaulding, Mostert y Beam (2010) revisaron su base teórica y la investigación publicada y no encontraron respaldo para lo que dicen sus promotores; ningún estudio de apoyo era de alta calidad. Hyatt (2007) analizó sus tres ideas de base (reorganización neurológica, dominancia cerebral y entrenamiento perceptivo-motor) y encontró validez dispar; el entrenamiento perceptivo-motor se había declarado inválido a fines de los años 80. En la encuesta de Dekker, el 82 % de las escuelas británicas lo usaba, frente al 8 % de las neerlandesas.
 
 ## El 10 % del cerebro
 
-Es uno de los mitos más creídos por docentes en Dekker et al., cerca de la mitad en los dos países.
+En Dekker et al. lo creía cerca de la mitad de los docentes de los dos países (48 % y 46 %).
 
 > [!NOTE]
 > Sin fuente todavía: una refutación del mito del 10 % del cerebro. El informe solo trae su prevalencia, no un estudio que lo desmienta.

@@ -21,7 +21,7 @@ Es la primera pregunta del [análisis previo](analisis-previo.md). Si la respues
 
 ## El diagrama de Mager y Pipe
 
-Mager y Pipe armaron el diagnóstico como un diagrama de flujo: cada pregunta tiene una respuesta que cambia el camino. Un manual universitario confirma que está «designed as a flow chart with questions» y que sirve para examinar primero las soluciones que no son de formación. Según resúmenes del libro, las preguntas van más o menos así:
+Mager y Pipe armaron el diagnóstico como un diagrama de flujo: cada pregunta tiene una respuesta que cambia el camino. Un manual universitario confirma que está «designed as a flow chart with questions» y que sirve para examinar primero las soluciones que no son de formación. Según resúmenes del libro, las preguntas van más o menos así (las aclaraciones después de cada pregunta son ejemplos ilustrativos de esta base):
 
 1. ¿Importa este desempeño? Si no importa, se deja.
 2. ¿Hay un déficit de habilidad o de conocimiento?
@@ -39,7 +39,7 @@ El Behavior Engineering Model (BEM) de Thomas Gilbert, de *Human Competence* (19
 | **Ambiente** | Información o datos | Recursos o instrumentos | Incentivos |
 | **Persona** | Conocimiento | Capacidad | Motivos |
 
-Gilbert propuso atacar las celdas en orden, de la más barata a la más cara: datos, instrumentos, incentivos, conocimiento, capacidad, motivos. La formación vive en una sola celda, la del conocimiento, y llega cuarta. Las fuentes secundarias nombran distinto las dos primeras celdas, así que para citarlas conviene el libro. Las Six Boxes de Binder descienden de esta matriz.
+Gilbert propuso atacar las celdas en un orden que va del ambiente a la persona y que sale más barato: datos, instrumentos, incentivos, conocimiento, capacidad, motivos. La formación vive en una sola celda, la del conocimiento, y llega cuarta. Las fuentes secundarias nombran distinto las dos primeras celdas, así que para citarlas conviene el libro. Las Six Boxes de Binder descienden de esta matriz.
 
 ## Qué evidencia respalda estas herramientas
 
@@ -47,6 +47,6 @@ Ninguna de las dos tiene validación empírica de su estructura en lo que se enc
 
 ## Cómo falla
 
-El error típico es saltear el análisis porque alguien ya pidió un curso. La formación termina tapando un problema de herramientas, de incentivos o de proceso, y el desempeño no cambia. Si después se mide el curso con los criterios de [evaluar un programa](../../Evaluacion-educativa/Evaluar-un-programa/evaluar-un-programa.md), el resultado culpa a la enseñanza de algo que no era de enseñanza.
+Ninguna fuente de esta base describe cómo falla el análisis en la práctica. Por inferencia: si se saltea porque alguien ya pidió un curso, la formación puede terminar tapando un problema de herramientas, de incentivos o de proceso, y el desempeño no cambia. Medido después con los criterios de [evaluar un programa](../../Evaluacion-educativa/Evaluar-un-programa/evaluar-un-programa.md), el curso parecería haber fallado en algo que no era de enseñanza.
 
 > [!NOTE] Sin fuente todavía: el análisis de necesidades de Kaufman y la distinción entre brecha de desempeño y brecha de formación; citas literales del libro de Mager y Pipe.

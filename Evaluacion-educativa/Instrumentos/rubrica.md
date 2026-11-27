@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Una rúbrica es una tabla de criterios con la descripción de cada nivel de calidad, que se usa para juzgar un trabajo abierto. Sube el acuerdo entre correctores y hace visible qué se espera; su efecto sobre el aprendizaje cuando se usa de forma formativa es menos claro.
+  Una rúbrica es una tabla de criterios con la descripción de cada nivel de calidad, que se usa para juzgar un trabajo abierto. Puede subir el acuerdo entre correctores y hace visible qué se espera; su efecto sobre el aprendizaje cuando se usa de forma formativa es menos claro.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -15,7 +15,7 @@ revisado:
 
 # Rúbrica
 
-Una rúbrica es una tabla de criterios con la descripción de cada nivel de calidad, que se usa para juzgar un trabajo abierto. Sube el acuerdo entre correctores y hace visible qué se espera; su efecto sobre el aprendizaje cuando se usa de forma formativa es menos claro.
+Una rúbrica es una tabla de criterios con la descripción de cada nivel de calidad, que se usa para juzgar un trabajo abierto. Puede subir el acuerdo entre correctores y hace visible qué se espera; su efecto sobre el aprendizaje cuando se usa de forma formativa es menos claro.
 
 Es la herramienta que hace comparable el juicio sobre una [tarea de desempeño](tareas-de-desempeno.md). Sirve a dos [propósitos](../Propositos/propositos.md) distintos: corregir de forma consistente (sumativo) y mostrarle a quien aprende cómo se ve un buen trabajo antes de hacerlo (formativo, la primera estrategia de la [evaluación formativa](../Propositos/evaluacion-formativa.md)).
 
@@ -45,8 +45,10 @@ Pasos inferidos de lo anterior y de los Standards, no un procedimiento validado:
 
 ## Cómo falla
 
-- **Criterios que no son el constructo.** Si la rúbrica premia el formato y la extensión, mide eso; es un problema de [validez](../Validez-confiabilidad-y-equidad/validez.md).
-- **Niveles con adjetivos.** «Excelente, bueno, regular» deja todo el juicio sin anclar.
-- **Se usa solo al final.** Pierde la mitad formativa.
+Inferencias de esta base:
+
+- Criterios que no son el constructo. Si la rúbrica premia el formato y la extensión, mide eso; es un problema de [validez](../Validez-confiabilidad-y-equidad/validez.md).
+- Niveles con adjetivos. «Excelente, bueno, regular» deja todo el juicio sin anclar.
+- Se usa solo al final. Pierde la mitad formativa.
 
 > [!NOTE] Sin fuente todavía: las cifras de acuerdo de Jönsson y Svingby (2007) y los resultados de Panadero y Jönsson (2013) leídos en el original.

@@ -32,11 +32,11 @@ Tres cosas que el diseño instruccional usa todo el tiempo son del área Pedagog
 - **La historia de la enseñanza y de la didáctica**, de Comenio a la educación basada en evidencia: en [historia de la didáctica](../../Didactica/Fundamentos/historia-de-la-didactica.md).
 - **Cómo leer la evidencia educativa** (tamaños de efecto, metaanálisis, rankings como el de Hattie y sus críticas): en los fundamentos de los temas del área; mientras tanto, lo general está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md), de Psicología.
 
-Una advertencia propia del tema sí va acá: la evidencia del diseño instruccional es despareja. Los [principios multimedia](../Materiales-y-carga-cognitiva/principios-multimedia.md) tienen decenas de experimentos; los [modelos de diseño](../Modelos-de-diseno/modelos-de-diseno.md), casi ninguno. Casi todo viene de escuelas, universidades y salud, y llevarlo a adultos que aprenden IT en el trabajo es una extrapolación.
+Una advertencia propia del tema sí va acá: la evidencia del diseño instruccional es despareja. Los [principios multimedia](../Materiales-y-carga-cognitiva/principios-multimedia.md) tienen decenas de comparaciones experimentales cada uno; los [modelos de diseño](../Modelos-de-diseno/modelos-de-diseno.md), casi ninguna. Casi todo viene de escuelas, universidades y salud, y llevarlo a adultos que aprenden IT en el trabajo es una extrapolación.
 
 ## Los manuales de referencia
 
-Ninguno de estos libros se leyó entero; se eligieron por lo que dicen sus fichas y los informes de esta base.
+Los libros no se leyeron enteros y se eligieron por sus fichas y por los informes de esta base. Los textos abiertos de la lista (Mayer 2023, Biggs 2014, Krathwohl 2002, de Jong 2010) sí se leyeron según los informes.
 
 | Para qué | Manual | Qué leer |
 |---|---|---|

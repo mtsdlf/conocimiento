@@ -22,10 +22,10 @@ Es la segunda decisión de la [retroalimentación](retroalimentacion.md): una ve
 
 La revisión de Shute tiene una tabla de qué hacer y otra de qué evitar. Lo principal de la primera:
 
-- **Centrarla en la tarea, no en la persona.** Coincide con lo que muestran los niveles de Hattie y Timperley.
-- **Que sea elaborada.** Explicar el qué, el cómo y el porqué del problema es «typically more effective than verification of results», es decir, más que decir solo si está bien o mal.
-- **En unidades manejables.** Una retroalimentación con veinte observaciones no se procesa; mejor pocas, y las que importan.
-- **Específica y clara**, y simple «but no simpler».
+- Centrarla en la tarea, no en la persona. Coincide con lo que muestran los niveles de Hattie y Timperley.
+- Que sea elaborada. Explicar el qué, el cómo y el porqué del problema es «typically more effective than verification of results», es decir, más que decir solo si está bien o mal.
+- En unidades manejables. Una retroalimentación con veinte observaciones no se procesa; mejor pocas, y las que importan.
+- Específica y clara, y simple «but no simpler».
 
 En la tabla de qué evitar figura comparar a quien aprende con otros estudiantes.
 

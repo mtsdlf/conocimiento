@@ -33,7 +33,7 @@ Las dos se necesitan. La primera sabe qué medir (no alcanza con que guste ni co
 
 ## Que guste no prueba que sirva
 
-El error más común es evaluar un curso por la encuesta del final. Según Bell et al. (2017), en su revisión de cien años de investigación, las reacciones de quienes se capacitan «are not necessarily a strong predictor of learning». Las reacciones de utilidad («me sirve») predicen algo mejor que las afectivas («me gustó»); está en [niveles de Kirkpatrick](niveles-de-kirkpatrick.md).
+Evaluar un curso solo por la encuesta del final es insuficiente. Según Bell et al. (2017), en su revisión de cien años de investigación, las reacciones de quienes se capacitan «are not necessarily a strong predictor of learning». Las reacciones de utilidad («me sirve») predicen algo mejor que las afectivas («me gustó»); está en [niveles de Kirkpatrick](niveles-de-kirkpatrick.md).
 
 La capacitación funciona, en promedio. El metaanálisis de Arthur et al. (2003) da diferencias medias de 0,60 a 0,63 frente a no capacitarse, en reacciones, aprendizaje, conducta y resultados. Son efectos de capacitar contra no capacitar, no correlaciones entre niveles.
 

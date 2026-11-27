@@ -21,9 +21,9 @@ El mecanismo psicológico no está acá. La memoria de trabajo y la curva del ol
 
 ## Lo que se ve al practicar engaña
 
-Bjork y Bjork (2011) lo dicen sin vueltas: «current performance can be a highly unreliable index of whether learning has occurred». Releer un capítulo o resolver diez ejercicios iguales seguidos produce un rendimiento alto en el momento y poco que quede a la semana. Espaciar, mezclar o testearse producen más errores en el momento y más retención después. Es la distinción de [aprendizaje y rendimiento](aprendizaje-y-rendimiento.md), y explica por qué tanto quien estudia como quien enseña elige mal: los dos miran lo que se ve.
+Bjork y Bjork (2011) escriben: «current performance can be a highly unreliable index of whether learning has occurred». Según el marco de Bjork, releer un capítulo o resolver diez ejercicios iguales seguidos da un rendimiento alto en el momento y poco que quede después, mientras que espaciar, mezclar o testearse dan más errores en el momento y más retención después. Es la distinción de [aprendizaje y rendimiento](aprendizaje-y-rendimiento.md), y sugiere por qué quien estudia y quien enseña pueden elegir mal: los dos miran lo que se ve.
 
-Esa distinción conecta con otras dos verticales. Quien aprende juzga su propio avance por lo fácil que le resulta, y por eso cae en la [ilusión de saber](../Metacognicion-y-autorregulacion/ilusion-de-saber.md). Y lo que se practica en condiciones variadas es lo que mejor llega a otro contexto, tema de [Transferencia](../Transferencia/transferencia.md).
+Esa distinción conecta con otras dos verticales. Quien aprende juzga su propio avance por lo fácil que le resulta, y por eso cae en la [ilusión de saber](../Metacognicion-y-autorregulacion/ilusion-de-saber.md). Y variar las condiciones de práctica, según Bjork y Bjork, apoya la transferencia, tema de [Transferencia](../Transferencia/transferencia.md).
 
 ## Dificultad que ayuda y dificultad que estorba
 

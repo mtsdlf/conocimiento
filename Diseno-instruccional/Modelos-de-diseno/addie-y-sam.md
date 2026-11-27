@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  ADDIE es la sigla de cinco fases para armar instrucción (análisis, diseño, desarrollo, implementación y evaluación); más que un modelo con autor, es un rótulo para una familia de procesos. SAM es la alternativa iterativa de Michael Allen, con prototipos tempranos. Ninguno tiene evidencia comparativa.
+  ADDIE es la sigla de cinco fases para armar instrucción (análisis, diseño, desarrollo, implementación y evaluación); se lo describe como un rótulo para una familia de procesos, sin una fuente original encontrada. SAM es la alternativa iterativa de Michael Allen, con prototipos tempranos. Ninguno tiene evidencia comparativa.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -18,7 +18,7 @@ revisado:
 
 # ADDIE y SAM
 
-ADDIE es la sigla de cinco fases para armar instrucción (análisis, diseño, desarrollo, implementación y evaluación); más que un modelo con autor, es un rótulo para una familia de procesos. SAM es la alternativa iterativa de Michael Allen, con prototipos tempranos. Ninguno tiene evidencia comparativa.
+ADDIE es la sigla de cinco fases para armar instrucción (análisis, diseño, desarrollo, implementación y evaluación); se lo describe como un rótulo para una familia de procesos, sin una fuente original encontrada. SAM es la alternativa iterativa de Michael Allen, con prototipos tempranos. Ninguno tiene evidencia comparativa.
 
 Son los modelos de proceso de proyecto dentro de los [modelos de diseño](modelos-de-diseno.md): dicen en qué fases se trabaja, no qué decidir en cada una. Lo que se decide en cada fase está en las otras verticales: el [análisis previo](../Analisis-previo/analisis-previo.md) es la A; los [objetivos](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md) y la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md), el primer D; los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md), el segundo D; la E, en [evaluar un programa](../../Evaluacion-educativa/Evaluar-un-programa/evaluar-un-programa.md), de Evaluación educativa.
 
@@ -30,7 +30,7 @@ Según fuentes secundarias, el origen está en el trabajo del Centro de Tecnolog
 
 Molenda (2003) buscó la fuente original de ADDIE y no la encontró. Según el resumen que trajo el buscador, la sigla se eligió «as an umbrella term for ISD models because that's the term they heard most often in oral discussions», y una entrada enciclopédica que parece ser suya lo describe como «an umbrella term that refers to a family of models that share a common underlying structure». El texto de Molenda no se abrió: antes de citarlo literal, conviene leerlo.
 
-Leer ADDIE como un rótulo tiene una consecuencia práctica: cuando alguien dice «usamos ADDIE», todavía no dijo cómo trabaja. Las cinco letras nombran fases que casi cualquier proceso tiene; lo que distingue un proceso de otro es cuánto se itera y qué se entrega en cada fase.
+Una consecuencia práctica, por lectura de esta base: cuando alguien dice «usamos ADDIE», todavía no dijo cómo trabaja. Las cinco letras nombran fases que casi cualquier proceso tiene; lo que distingue un proceso de otro es cuánto se itera y qué se entrega en cada fase.
 
 > [!IMPORTANT]
 > **ADDIE es una cascada rígida.** La crítica habitual, que se atribuye a Gordon y Zemke («The Attack on ISD», *Training*, 2000), no se verificó en la fuente.
@@ -39,14 +39,14 @@ Leer ADDIE como un rótulo tiene una consecuencia práctica: cuando alguien dice
 
 ## Dick y Carey, el modelo sistémico
 
-*The Systematic Design of Instruction*, de Dick, Carey y Carey (1.ª ed. 1978), es un modelo de proceso con más detalle que ADDIE. Tiene diez componentes: meta instruccional, análisis instruccional de la meta, análisis de las conductas de entrada y de quien aprende, objetivos de desempeño, instrumentos de evaluación, estrategia, materiales, evaluación formativa, revisión y evaluación sumativa. Parte del supuesto de que ya se hizo un análisis de necesidades. Las fuentes discrepan en si incluye el análisis del contexto como componente aparte.
+*The Systematic Design of Instruction*, de Dick, Carey y Carey (1.ª ed. 1978), es un modelo de proceso con más detalle que ADDIE (la edición de 1978 viene de conocimiento previo, no verificado en las fuentes). Tiene diez componentes: meta instruccional, análisis instruccional de la meta, análisis de las conductas de entrada y de quien aprende, objetivos de desempeño, instrumentos de evaluación, estrategia, materiales, evaluación formativa, revisión y evaluación sumativa. Parte del supuesto de que ya se hizo un análisis de necesidades. Las fuentes discrepan en si incluye el análisis del contexto como componente aparte.
 
 ## SAM: iterar con prototipos
 
 SAM (Successive Approximation Model) es la propuesta de Michael Allen en *Leaving ADDIE for SAM* (con Richard Sites, 2012). Sus fases, según reseñas:
 
 1. **Preparación**: reunir información, aclarar conflictos, fijar metas iniciales.
-2. **Savvy Start**: una sesión de ideas con los interesados que produce lo necesario para planificar.
+2. **Savvy Start**: una sesión de lluvia de ideas que produce información para planificar.
 3. **Diseño iterativo**: diseñar, prototipar, revisar, varias veces.
 4. **Desarrollo iterativo**: versiones alfa, beta y final («gold»).
 

@@ -30,7 +30,7 @@ Dentro de [Didácticas específicas](didacticas-especificas.md) es la materia co
 
 ## Leer y trazar antes de escribir
 
-La línea de trabajo de Lister et al. (2004) y Lopez et al. (2008) sostiene que la habilidad de escribir código se apoya en la de leerlo y trazarlo: predecir qué hace un fragmento, paso a paso. Las cifras que circulan sobre esa relación no se verificaron, y se trata de estudios correlacionales, no de experimentos. Xie, Nelson y Ko (2018) propusieron enseñar una estrategia explícita de trazado como andamiaje para novatos; su resultado tampoco se verificó.
+Lister et al. (2004) y Lopez et al. (2008) se citan para la idea de que la habilidad de escribir código se apoya en la de leerlo y trazarlo: predecir qué hace un fragmento, paso a paso. De ambos solo se verificaron título, lugar de publicación y autores; las cifras que circulan sobre esa relación no se verificaron, y según la pista de la que parte esta base son correlaciones y no experimentos. Xie, Nelson y Ko (2018) propusieron enseñar una estrategia explícita de trazado como andamiaje para novatos; su resultado tampoco se verificó.
 
 > [!NOTE] Sin fuente todavía: cuánto de la habilidad de escribir código explican el trazado y la explicación (Lopez et al. 2008) y el efecto de la estrategia de trazado de Xie et al. (2018), leídos en el artículo.
 
@@ -38,14 +38,14 @@ La idea encaja con el resto del tema: leer un programa que funciona es estudiar 
 
 ## Subobjetivos nombrados
 
-Margulieux, Morrison y Decker (2020) hicieron un cuasiexperimento en un curso introductorio de un semestre con 265 estudiantes: la mitad recibió instrucción con subobjetivos nombrados (cada procedimiento partido en pasos con un nombre que dice para qué sirve) y la otra mitad, la habitual. Según el abstract, el grupo con subobjetivos sacó mejores notas en los cuestionarios formativos, tomados dentro de la semana en que se aprendía cada procedimiento, pero no en los exámenes finales. Tuvo menor varianza de notas y menos abandonos y reprobados, con un efecto mayor en los estudiantes en riesgo. El abstract no da tamaños de efecto.
+Margulieux, Morrison y Decker (2020) hicieron un cuasiexperimento en un curso introductorio de un semestre con 265 estudiantes: la mitad recibió instrucción con subobjetivos nombrados (cada procedimiento partido en pasos con un nombre que dice para qué sirve; definición de esta base) y la otra mitad, la habitual. Según el abstract, el grupo con subobjetivos sacó mejores notas en los cuestionarios formativos, tomados dentro de la semana en que se aprendía cada procedimiento, pero no en los exámenes finales. Tuvo menor varianza de notas y menos abandonos y reprobados; según el resumen de un buscador, con un efecto mayor en los estudiantes en riesgo. No hay tamaños de efecto.
 
 Es el estudio de programación con resultado concreto mejor verificado de esta base. La técnica es una forma de [modelado](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md): hace visible la estructura que el experto ve y el novato no.
 
 ## Del código ajeno al propio: PRIMM y problemas de Parsons
 
-- **PRIMM** (Sentance, Waite y Kallia, 2019) ordena la clase en los cinco pasos de su sigla en inglés (*predict, run, investigate, modify, make*): predecir, ejecutar, investigar, modificar y crear; el desglose de la sigla es de esta base, no se leyó el artículo. Es la secuencia de [práctica guiada y andamiaje](../Practica-guiada-y-andamiaje/practica-guiada-y-andamiaje.md) aplicada al código: primero se lee y se predice, al final se escribe solo. Los detalles del estudio (escuelas, cantidad y edad de alumnos) no se verificaron; es evidencia escolar, no de adultos.
-- **Problemas de Parsons**: en su forma habitual se dan las líneas de una solución desordenadas y hay que ordenarlas (descripción de esta base, sin fuente leída). Ericson et al. (2022) revisan esa literatura en un grupo de trabajo de ITiCSE; su contenido no se leyó.
+- **PRIMM** (Sentance, Waite y Kallia, 2019) ordena la clase en los cinco pasos de su sigla en inglés (*predict, run, investigate, modify, make*): predecir, ejecutar, investigar, modificar y crear; el desglose de la sigla es ilustrativo, de esta base: no se leyó el artículo. Es la secuencia de [práctica guiada y andamiaje](../Practica-guiada-y-andamiaje/practica-guiada-y-andamiaje.md) aplicada al código: primero se lee y se predice, al final se escribe solo. Los detalles del estudio (escuelas, cantidad y edad de alumnos) no se verificaron; es evidencia escolar, no de adultos.
+- **Problemas de Parsons**: en su forma habitual se dan las líneas de una solución desordenadas y hay que ordenarlas (descripción ilustrativa de esta base, sin fuente leída). Ericson et al. (2022) revisan esa literatura en un grupo de trabajo de ITiCSE; su contenido no se leyó.
 
 ## La máquina nocional
 
@@ -54,7 +54,7 @@ Sorva (2013) llama máquina nocional a la versión simplificada de la computador
 ## Programar en vivo y aprender entre pares
 
 - **Programar en vivo** (*live coding*): escribir código frente al grupo, con los errores y las correcciones a la vista. Selvaraj et al. (2021) revisaron la literatura y concluyen que «there is a lack of empirical evidence to support claims about the effectiveness of live coding on student learning», aunque se recomienda como una de las mejores prácticas. Lo que sí tiene respaldo general es el [modelado](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) y el pensar en voz alta; programar en vivo es una forma de hacerlo.
-- **[Instrucción entre pares](../../Ciencias-del-aprendizaje/Aprender-con-otros/instruccion-entre-pares.md)** (*peer instruction*): en su forma habitual, una pregunta conceptual, votación individual, discusión con un compañero y nueva votación (descripción de esta base, sin fuente leída). El título de Porter, Bailey Lee y Simon (2013) habla de reducir a la mitad las tasas de reprobación; la cifra exacta no se verificó. La evidencia general del aprendizaje activo está en [aprendizaje activo](../Aprendizaje-activo-e-indagacion/aprendizaje-activo.md).
+- **[Instrucción entre pares](../../Ciencias-del-aprendizaje/Aprender-con-otros/instruccion-entre-pares.md)** (*peer instruction*): en su forma habitual, una pregunta conceptual, votación individual, discusión con un compañero y nueva votación (descripción ilustrativa de esta base, sin fuente leída). El título de Porter, Bailey Lee y Simon (2013) habla de reducir a la mitad las tasas de reprobación; la cifra exacta no se verificó. La evidencia general del aprendizaje activo está en [aprendizaje activo](../Aprendizaje-activo-e-indagacion/aprendizaje-activo.md).
 
 ## Lo que la evidencia no cubre
 

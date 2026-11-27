@@ -34,10 +34,10 @@ Un ejemplo propio, del mismo formato, para una tarea de IT: «Con acceso a la do
 
 ## Objetivo de desempeño y resultado de aprendizaje
 
-La educación superior habla de resultados de aprendizaje (*intended learning outcomes*, ILO). Biggs los define como lo que se espera que los estudiantes logren, fijado antes de enseñar, y pone el verbo del resultado como el vínculo con la actividad y la evaluación: eso es la [alineación constructiva](alineacion-constructiva.md). La diferencia práctica con Mager es que Biggs admite verbos abiertos («diseñar», «crear») y criterios que se juzgan con una rúbrica en lugar de un número.
+La educación superior habla de resultados de aprendizaje (*intended learning outcomes*, ILO). Biggs los define como lo que se espera que los estudiantes logren, fijado antes de enseñar, y pone el verbo del resultado como el vínculo con la actividad y la evaluación: eso es la [alineación constructiva](alineacion-constructiva.md). La diferencia práctica con Mager es que Biggs admite verbos abiertos («diseñar», «crear») y una evaluación flexible, por ejemplo con portfolios.
 
 ## Cómo falla
 
-El fallo más común es el objetivo con verbo inobservable: «entender los patrones de diseño». No dice qué hay que hacer para demostrarlo, y la evaluación termina pidiendo lo más fácil de corregir, que suele ser recordar. El segundo es el objetivo que describe la actividad del curso («ver el módulo 3») en lugar de lo que la persona va a poder hacer. El tercero es la lista larga de objetivos chicos que nadie usa al diseñar: el objetivo vale si decide qué se evalúa.
+Las fuentes de esta base no describen los fallos frecuentes; lo que sigue es una lectura de esta base, con ejemplos ilustrativos. Un fallo posible es el objetivo con verbo inobservable: «entender los patrones de diseño». No dice qué hay que hacer para demostrarlo, y la evaluación termina pidiendo lo más fácil de corregir, que suele ser recordar. Otro es el objetivo que describe la actividad del curso («ver el módulo 3») en lugar de lo que la persona va a poder hacer. Otro es la lista larga de objetivos chicos que nadie usa al diseñar: el objetivo vale si decide qué se evalúa.
 
 > [!NOTE] Sin fuente todavía: el libro de Mager no se leyó; los componentes y el ejemplo salen de guías universitarias y de la ATD.

@@ -78,10 +78,10 @@ La revolución cognitiva cambió la pregunta de la conducta a la mente. George M
 
 ## Las ciencias del aprendizaje y el movimiento de la evidencia
 
-Las *learning sciences* se armaron como campo interdisciplinario a principios de los 90. El *Journal of the Learning Sciences* salió en 1991, con Janet Kolodner como editora, y ese agosto el Institute for the Learning Sciences de Northwestern organizó la primera conferencia internacional. La sociedad internacional (ISLS) se constituyó en 2002; otra fuente da 1991, probablemente confundiendo la sociedad con la conferencia.
+Las *learning sciences* se armaron como campo interdisciplinario a principios de los 90. El *Journal of the Learning Sciences* salió en 1991, con Janet Kolodner como editora, y ese agosto el Institute for the Learning Sciences de Northwestern organizó la primera conferencia internacional. La sociedad internacional (ISLS) se constituyó en 2002; un extracto de Cambridge da 1991 y la discrepancia no se resolvió.
 
 En paralelo creció la idea de que la enseñanza tiene que basarse en evidencia. David Hargreaves dijo en 1996 que «Teaching is not at present a research-based profession». Siguieron instituciones: el What Works Clearinghouse (2002, dentro del Institute of Education Sciences de EE. UU.), la Education Endowment Foundation (2011, en Inglaterra, con 125 millones de libras iniciales), researchED (2013, fundada por Tom Bennett, de docentes) y *The Science of Learning* de Deans for Impact (2015, seis preguntas, con Daniel Willingham y Paul Bruno). Cómo leer lo que producen está en [evidencia en educación](evidencia-en-educacion.md).
 
-El movimiento tiene críticos que no discuten los datos sino la pregunta: Gert Biesta sostiene que juzgar la educación solo por su eficacia deja afuera para qué se educa. Esa crítica también está en [evidencia en educación](evidencia-en-educacion.md).
+Gert Biesta, crítico del movimiento, cuestiona la pregunta y no los datos: sostiene que juzgar la educación solo por su eficacia deja afuera para qué se educa. Esa crítica también está en [evidencia en educación](evidencia-en-educacion.md).
 
 > [!NOTE] Sin fuente todavía: las obras originales de Comenio, Klafki, Dewey, Camilloni (*El saber didáctico*) y Litwin; la tradición francesa más allá de Houssaye (Chevallard y la transposición didáctica aparecen solo mencionados); una historia de la didáctica en castellano que no sea enciclopedia.

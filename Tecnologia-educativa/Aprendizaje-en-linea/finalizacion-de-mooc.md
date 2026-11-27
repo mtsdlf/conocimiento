@@ -32,9 +32,9 @@ La retención entre cursos también cayó. De la primera cohorte, el 38 % tomó 
 
 ## Por qué la cifra engaña
 
-Dividir los que terminan por los que se anotan supone que todos se anotaron para terminar. Los datos muestran que no: la mitad nunca entró, y entre quienes declararon querer terminar, lo logró entre el 11 y el 18 % según el año. Esa segunda cifra sigue siendo baja, pero es de dos a cinco veces la primera. Que la finalización sea baja no prueba que en un MOOC no se aprenda: [en línea y presencial](en-linea-y-presencial.md) muestra que quienes cursan aprenden al menos igual que en un aula.
+Dividir los que terminan por los que se anotan supone que todos se anotaron para terminar. Los datos muestran que no: la mitad nunca entró, y entre quienes declararon querer terminar, lo logró entre el 11 y el 18 % según el año. Esa segunda cifra sigue siendo baja, pero es de dos a cinco veces la primera. Que la finalización sea baja no prueba que en un MOOC no se aprenda: [en línea y presencial](en-linea-y-presencial.md) muestra que en cursos en línea anteriores a los MOOC (estudios hasta 2008) quienes cursaron aprendieron al menos igual que en un aula; esa evidencia no es de MOOC.
 
-La vía paga muestra el otro extremo: con certificado pago, terminó cerca de la mitad. No se puede atribuir esa diferencia al pago. Quien paga ya llega decidido, y eso es autoselección, no efecto del certificado.
+La vía paga muestra el otro extremo: con certificado pago, terminó cerca de la mitad. No se puede atribuir esa diferencia al pago. Quien paga ya llega decidido: hay autoselección.
 
 > [!NOTE]
 > Sin fuente todavía: la tipología de participantes de Kizilcec, Piech y Schneider (2013: quienes completan, auditan, se desenganchan o muestrean) y el trabajo de Reich (2014) sobre intención y retención. Los dos se citan seguido y no se leyeron.
@@ -45,7 +45,7 @@ Jordan (2014) reunió datos de Coursera, edX y Udacity de febrero a julio de 201
 
 ## El giro hacia las maestrías
 
-La tesis de Reich y Ruipérez-Valiente es que el campo dejó de lado la promesa de educar a cualquiera y se encamina a maestrías profesionales en línea para gente ya educada y de países ricos. Ellos mismos aclaran que sus datos son de dos proveedores y que otros podrían mostrar otras dinámicas. Según Harvard Magazine, se les objetó extrapolar de los MOOC gratuitos al aprendizaje en línea en general, y Anant Agarwal, de edX, respondió que el artículo ignora el crecimiento de la plataforma. La historia completa de esa promesa está en [promesas incumplidas de la tecnología educativa](../Fundamentos/promesas-incumplidas-de-la-tecnologia-educativa.md).
+La tesis de Reich y Ruipérez-Valiente es que el campo se encamina a maestrías profesionales en línea para gente ya educada y de países ricos. Ellos mismos aclaran que sus datos son de dos proveedores y que otros podrían mostrar otras dinámicas. Según un resumen de Harvard Magazine, se les objetó extrapolar de los MOOC gratuitos al aprendizaje en línea en general, y Anant Agarwal, de edX, respondió que el artículo ignora el crecimiento de la plataforma. La historia completa de esa promesa está en [promesas incumplidas de la tecnología educativa](../Fundamentos/promesas-incumplidas-de-la-tecnologia-educativa.md).
 
 ## Qué cambia para quien arma un curso abierto
 

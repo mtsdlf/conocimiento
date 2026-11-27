@@ -28,7 +28,7 @@ La historia de la enseñanza en general, de Comenio a la educación basada en ev
 
 ## Las raíces: entrenar a mucha gente rápido
 
-Wikipedia define el diseño instruccional como «the practice of systematically designing, developing and delivering instructional materials and experiences», con raíces en la psicología conductual y cognitiva y en la ingeniería de sistemas, y lo ubica en el entrenamiento militar posterior a la Segunda Guerra. El problema de origen era práctico: formar a mucha gente en tareas técnicas, con resultados comprobables. Esa herencia explica los rasgos que el campo conserva: objetivos observables, fases de proyecto y evaluación del resultado.
+Wikipedia define el diseño instruccional como «the practice of systematically designing, developing and delivering instructional materials and experiences», con raíces en la psicología conductual y cognitiva y en la ingeniería de sistemas, y lo ubica en el entrenamiento militar posterior a la Segunda Guerra. El problema de origen era práctico: formar a mucha gente en tareas técnicas, con resultados comprobables. Los rasgos que el campo conserva (objetivos observables, fases de proyecto, evaluación del resultado) son coherentes con ese origen; la relación es una lectura de esta base.
 
 Hay un antecedente civil. Tyler (1949) pidió expresar los objetivos con el tipo de conducta y el contexto donde opera, y escribió que «it is what he (sic) does that he learns, not what the teacher does», según la cita de Biggs.
 
@@ -47,7 +47,7 @@ Hay un antecedente civil. Tyler (1949) pidió expresar los objetivos con el tipo
 | 1975 | IPISD, informe de Branson et al. para el ejército de EE. UU. | El modelo de fases que después se llamó ADDIE ([ADDIE y SAM](../Modelos-de-diseno/addie-y-sam.md)) |
 | 1978 | Dick y Carey, *The Systematic Design of Instruction*; Gilbert, *Human Competence* | El modelo sistémico de diez componentes y el análisis de desempeño ([análisis de necesidades](../Analisis-previo/analisis-de-necesidades.md)) |
 | 1988 | Sweller, carga cognitiva en la resolución de problemas | La [carga cognitiva](../Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md) como criterio de diseño |
-| 1998 | Wiggins y McTighe, *Understanding by Design*; Sweller, van Merriënboer y Paas, las tres cargas | El diseño hacia atrás; el marco de tres cargas |
+| 1998 | Wiggins y McTighe, *Understanding by Design*; Sweller, van Merriënboer y Paas, las tres cargas (año según Wikipedia; la carga extrínseca ya aparece en trabajos de 1988 y 1991) | El diseño hacia atrás; el marco de tres cargas |
 | 1999 | Biggs acuña «alineación constructiva»; Reigeluth edita el volumen II de *Instructional-Design Theories and Models* | La alineación como principio; la teoría de la elaboración |
 | 2002 | Merrill, «First principles of instruction» | Los [principios de instrucción](../Modelos-de-diseno/principios-de-instruccion.md) |
 | 2003 | Molenda no encuentra el origen de ADDIE | ADDIE pasa a leerse como rótulo |

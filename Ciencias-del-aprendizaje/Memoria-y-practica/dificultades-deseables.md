@@ -29,7 +29,7 @@ La definición del propio capítulo trae su límite: «Desirable difficulties, v
 No toda dificultad sirve. Una letra ilegible o un ruido de fondo hacen difícil la tarea sin disparar ningún proceso útil (ejemplo de esta base, no del capítulo). Y una dificultad útil para quien ya sabe algo puede hundir a quien recién empieza: es la misma lógica de la [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md) y depende del [conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md).
 
 > [!IMPORTANT]
-> **Una categoría o varias técnicas.** La dificultad deseable como paraguas único es una propuesta del grupo de Bjork. La tradición de la carga cognitiva pide condicionar cada dificultad al nivel de quien aprende, porque para un novato la carga extra puede impedir aprender. El capítulo de Bjork y Bjork ya pone esa condición en su definición, así que la diferencia es de énfasis más que de fondo. No se leyó una crítica independiente; la teoría que las une (dos fuerzas de la memoria) es una teoría, y la evidencia está en cada técnica por separado.
+> **Una categoría o varias técnicas.** La dificultad deseable como paraguas único es una propuesta del grupo de Bjork. La tradición de la carga cognitiva pide condicionar cada dificultad al nivel de quien aprende, porque el nivel de quien aprende cambia qué dificultad le sirve. El capítulo de Bjork y Bjork ya pone esa condición en su definición, así que la diferencia es de énfasis más que de fondo. No se leyó una crítica independiente; la teoría que las une (dos fuerzas de la memoria) es una teoría, y la evidencia está en cada técnica por separado.
 
 ## La evidencia, técnica por técnica
 
@@ -57,7 +57,7 @@ Como lectura de esta base a partir de Bjork y Bjork:
 1. Asegurá la base primero: con un novato, ejemplo resuelto y práctica guiada antes de mezclar o espaciar.
 2. Pasá de practicar en bloque a mezclar cuando la persona ya resuelve cada tipo por separado.
 3. Reemplazá el repaso releído por preguntas que se contesten sin mirar.
-4. Avisá que la práctica se va a sentir peor y por qué: es lo que más frena a quien la prueba, según el caso de los pintores en [intercalado](intercalado.md).
+4. Avisá que la práctica se va a sentir peor y por qué: en el caso de los pintores de [intercalado](intercalado.md), quienes la probaron creyeron haber aprendido menos.
 
 ## Qué leer
 

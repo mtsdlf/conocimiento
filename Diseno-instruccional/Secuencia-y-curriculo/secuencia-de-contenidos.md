@@ -18,7 +18,7 @@ revisado:
 
 La secuencia de contenidos ordena los conceptos de un dominio de dos maneras clásicas: de lo general a lo detallado, como en la teoría de la elaboración de Reigeluth, o en vueltas que vuelven a cada tema con más profundidad, como en el currículo en espiral de Bruner. Ninguna de las dos tiene evaluación controlada encontrada.
 
-Dentro de la [secuencia](secuencia-y-curriculo.md) resuelve el orden de las piezas de conocimiento, no el de las tareas, que está en [secuencia por tareas completas](secuencia-por-tareas-completas.md). Complementa a la [jerarquía de aprendizaje](jerarquia-de-aprendizaje.md): la jerarquía dice qué va antes de qué; la elaboración y la espiral dicen cómo recorrer lo que la jerarquía deja libre.
+Dentro de la [secuencia](secuencia-y-curriculo.md) resuelve el orden de las piezas de conocimiento, no el de las tareas, que está en [secuencia por tareas completas](secuencia-por-tareas-completas.md). Complementa a la [jerarquía de aprendizaje](jerarquia-de-aprendizaje.md): la jerarquía dice qué va antes de qué; la elaboración y la espiral dicen cómo recorrer lo que la jerarquía deja libre (lectura de esta base).
 
 ## De lo general a lo detallado: la elaboración
 
@@ -32,11 +32,13 @@ Su estado empírico: la teoría nació de una crítica a métodos anteriores de 
 
 Bruner, en *The Process of Education* (1960), sostuvo que «any subject can be taught effectively in some intellectually honest form to any child at any stage of development» (p. 33, según una cita secundaria). La consecuencia de diseño es la espiral: los temas se revisitan varias veces, cada vuelta con más complejidad, en lugar de cerrarse una vez y no volver.
 
-La evidencia es sobre todo descriptiva. El caso que más se cita es un curso de química orgánica con una deserción del 30 al 50 % que, con un diseño en espiral de dos semestres, perdió 5 de 298 estudiantes a mediados de octubre (Grove et al. 2008); no es un estudio controlado. El interés bajó en los 80, y Gibbs (2014) lo matiza con un andamiaje que se va retirando.
+La evidencia es sobre todo descriptiva. Un caso es un curso de química orgánica con una deserción del 30 al 50 % que, con un diseño en espiral de dos semestres, perdió 5 de 298 estudiantes a mediados de octubre (Grove et al. 2008); no es un estudio controlado. El interés bajó en los 80, y Gibbs (2014) lo matiza con un andamiaje que se va retirando.
 
 Que la espiral reparta el estudio de un tema en el tiempo la acerca a la práctica espaciada, que sí tiene evidencia fuerte ([práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md)). Esa conexión es una inferencia: las fuentes de la espiral leídas no la hacen.
 
 ## Elaboración y espiral lado a lado
+
+Las filas «Arranca con», «Avanza» y «Riesgo» son una síntesis de esta base; los riesgos son hipótesis sin fuente.
 
 | | Elaboración | Espiral |
 |---|---|---|

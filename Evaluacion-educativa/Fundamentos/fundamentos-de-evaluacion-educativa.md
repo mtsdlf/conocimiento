@@ -41,9 +41,9 @@ La fecha de Bloom, Hastings y Madaus (1971) como manual que difundió la distinc
 
 ## Dos culturas en el mismo campo
 
-El campo tiene dos culturas que comparten palabras. La de la **medición** viene de la psicometría: pruebas con muchas personas, consecuencias altas, estadística de ítems; su documento es el de los Standards y su pregunta es si el puntaje sostiene la decisión. La de la **evaluación de aula** viene de la enseñanza: pocas personas, decisiones del día a día, evidencia informal; su referencia es Black y Wiliam y su pregunta es si la evidencia cambia lo que se hace después.
+Esta base distingue dos culturas en el campo, que comparten palabras (agrupación propia a partir de los Standards y de Black y Wiliam). La de la **medición** viene de la psicometría: pruebas con muchas personas, consecuencias altas, estadística de ítems; su documento es el de los Standards y su pregunta es si el puntaje sostiene la decisión. La de la **evaluación de aula** viene de la enseñanza: pocas personas, decisiones del día a día, evidencia informal; su referencia es Black y Wiliam y su pregunta es si la evidencia cambia lo que se hace después.
 
-Se cruzan menos de lo que deberían. Los Standards dicen que esperar que un docente siga sus estándares formales sería «overreaching»; la evaluación de aula, a su vez, cita poco la literatura de validez. Esta base las junta con una regla (inferencia propia): de la medición se toman las preguntas (¿qué concluyo?, ¿daría lo mismo?, ¿es justo?), no los cálculos, que con grupos chicos no se pueden hacer. La evaluación de programas suma una tercera cultura, la de la capacitación en organizaciones, que se cuenta en [evaluar un programa](../Evaluar-un-programa/evaluar-un-programa.md).
+Los Standards dicen que esperar que un docente siga sus estándares formales sería «overreaching». Esta base las junta con una regla (inferencia propia): de la medición se toman las preguntas (¿qué concluyo?, ¿daría lo mismo?, ¿es justo?), no los cálculos, que con grupos chicos no se pueden hacer. La evaluación de programas suma una tercera cultura, la de la capacitación en organizaciones, que se cuenta en [evaluar un programa](../Evaluar-un-programa/evaluar-un-programa.md).
 
 ## Lo que circula y lo que se sabe
 

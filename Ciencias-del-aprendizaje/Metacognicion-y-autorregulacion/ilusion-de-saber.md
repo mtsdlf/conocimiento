@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La ilusión de saber es creer que se aprendió algo porque mientras se estudia resulta fluido y fácil. Las señales que la gente usa para juzgar su aprendizaje (la fluidez, el rendimiento del momento, la poca dificultad) apuntan al revés de lo que funciona, y el esfuerzo de las técnicas buenas se lee como señal de aprender poco.
+  La ilusión de saber es creer que se aprendió algo porque mientras se estudia resulta fluido y fácil. Las señales que la gente usa para juzgar su aprendizaje (la fluidez, el rendimiento del momento, la poca dificultad) pueden apuntar al revés de lo que funciona, y en un estudio el esfuerzo de una técnica buena se leyó como señal de aprender poco.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -16,7 +16,7 @@ revisado:
 
 # Ilusión de saber
 
-La ilusión de saber es creer que se aprendió algo porque mientras se estudia resulta fluido y fácil. Las señales que la gente usa para juzgar su aprendizaje (la fluidez, el rendimiento del momento, la poca dificultad) apuntan al revés de lo que funciona, y el esfuerzo de las técnicas buenas se lee como señal de aprender poco.
+La ilusión de saber es creer que se aprendió algo porque mientras se estudia resulta fluido y fácil. Las señales que la gente usa para juzgar su aprendizaje (la fluidez, el rendimiento del momento, la poca dificultad) pueden apuntar al revés de lo que funciona, y en un estudio el esfuerzo de una técnica buena se leyó como señal de aprender poco.
 
 Pertenece a la tradición de la metacognición, la de los juicios sobre el propio saber (ver [Metacognición y autorregulación](metacognicion-y-autorregulacion.md)). Es la cara subjetiva de la distinción entre [aprendizaje y rendimiento](../Memoria-y-practica/aprendizaje-y-rendimiento.md): lo que se ve al practicar no predice bien lo que queda, y quien aprende se guía por lo que ve.
 
@@ -34,11 +34,11 @@ Koriat y Bjork (2005) muestran un mecanismo concreto. Los juicios de aprendizaje
 | Bloque frente a intercalado | La mayoría cree haber aprendido mejor en bloques | El intercalado rinde más | Kornell y Bjork (2008), recogido en Bjork y Bjork (2011); ver [intercalado](../Memoria-y-practica/intercalado.md) |
 | Clase activa frente a exposición | Se siente que se aprende menos | Se aprende más | Deslauriers et al. (2019) |
 
-El tercero es el más directo para quien enseña. Deslauriers et al. (2019) hicieron un ensayo aleatorizado en física universitaria: quienes tuvieron instrucción activa aprendieron más, pero sintieron que aprendían menos que quienes tuvieron una exposición pasiva. Según el abstract, los estudiantes "initially take that effort to signify poorer learning". El esfuerzo, que acompaña a las [dificultades deseables](../Memoria-y-practica/dificultades-deseables.md), se interpreta como señal de no entender. La clase activa en sí está en [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md).
+El tercer caso es el más directo para quien enseña. Deslauriers et al. (2019) hicieron un ensayo aleatorizado en física universitaria: quienes tuvieron instrucción activa aprendieron más, pero sintieron que aprendían menos que quienes tuvieron una exposición pasiva. Según el abstract, los estudiantes "initially take that effort to signify poorer learning". El esfuerzo, que acompaña a las [dificultades deseables](../Memoria-y-practica/dificultades-deseables.md), se interpreta como señal de no entender. La clase activa en sí está en [aprendizaje activo](../../Didactica/Aprendizaje-activo-e-indagacion/aprendizaje-activo.md).
 
 ## Qué consecuencias trae
 
-La ilusión explica por qué los estudiantes eligen mal sus técnicas aunque las conozcan: eligen por cómo se sienten, y releer, subrayar y practicar en bloque se sienten mejor. También explica dos errores de quien enseña, que es una inferencia de esta base. Uno es juzgar una clase por la sensación de los alumnos al salir. El otro es abandonar una práctica que funciona porque los alumnos dicen que no aprenden con ella.
+La ilusión ayuda a entender por qué los estudiantes eligen mal sus técnicas: eligen por cómo se sienten, y releer y practicar en bloque se sienten mejor que testearse e intercalar. Como inferencia de esta base, también lleva a dos errores de quien enseña: juzgar una clase por la sensación de los alumnos al salir, y abandonar una práctica que funciona porque los alumnos dicen que no aprenden con ella.
 
 La versión cuantitativa del problema, cuánto se desvía la confianza de lo que se sabe y qué hace eso con el estudio, está en [calibración](calibracion.md).
 
@@ -47,7 +47,7 @@ La versión cuantitativa del problema, cuánto se desvía la confianza de lo que
 Inferencias de esta base a partir de las fuentes, no intervenciones probadas como tales:
 
 1. Juzgá lo que sabés sin la respuesta a la vista: cerrá el material, intentá responder y recién después compará.
-2. Dejá pasar un rato antes de juzgar; lo que se siente sabido inmediatamente después de leer engaña más.
+2. Dejá pasar un rato antes de juzgar, para que la fluidez del momento pese menos.
 3. Si enseñás con técnicas que cuestan, avisá antes que se van a sentir más difíciles y por qué.
 4. Mostrá el resultado de una prueba a la semana, no la impresión del día.
 

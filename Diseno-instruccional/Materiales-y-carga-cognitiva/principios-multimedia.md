@@ -55,7 +55,7 @@ Las medianas vienen de los tests del grupo de Mayer, como reconoce el capítulo 
 > [!IMPORTANT]
 > **Los principios tienen efectos grandes (Mayer 2023).** Las medianas van de 0,67 a 1,35 en ocho de los nueve principios.
 >
-> **El efecto global es moderado (metaanálisis 1990-2022, según un resumen).** g = 0,37 en conjunto. Además, casi todos los estudios son lecciones de minutos sobre mecanismos físicos con pruebas inmediatas; su extrapolación a cursos de semanas no está probada en estas fuentes.
+> **El efecto global es menor (metaanálisis 1990-2022, según un resumen).** g = 0,37 en conjunto, por debajo del 0,40 que Mayer toma como importante. Además, casi todos los estudios son lecciones de minutos sobre mecanismos físicos con pruebas inmediatas; su extrapolación a cursos de semanas no está probada en estas fuentes.
 
 ## Segmentar no es fragmentar un curso
 

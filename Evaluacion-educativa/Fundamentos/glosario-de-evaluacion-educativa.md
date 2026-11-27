@@ -45,7 +45,7 @@ Las definiciones resumen las notas enlazadas, que tienen las fuentes. Los térmi
 | [Ley de Campbell](../Validez-confiabilidad-y-equidad/inflacion-de-notas.md) | Cuanto más se usa un indicador para decidir, más se corrompe y más distorsiona lo que mide. |
 | [Microcredencial](../Calificacion-y-acreditacion/certificados-y-microcredenciales.md) | Certificado de los resultados de un curso corto. |
 | [Niveles de Kirkpatrick](../Evaluar-un-programa/niveles-de-kirkpatrick.md) | Reacción, aprendizaje, conducta y resultados: lo que se puede medir de una capacitación. |
-| [Oportunidad de aprender](../Validez-confiabilidad-y-equidad/equidad-y-sesgo.md) | Que lo evaluado se haya enseñado a quien lo rinde; sin ella, el resultado no es válido. |
+| [Oportunidad de aprender](../Validez-confiabilidad-y-equidad/equidad-y-sesgo.md) | Que lo evaluado se haya enseñado a quien lo rinde; sin ella, el resultado puede no ser válido. |
 | [Rasch](../Evaluacion-adaptativa/teoria-de-respuesta-al-item.md) | Modelo de un solo parámetro de la pregunta, la dificultad; también una escuela de medición. |
 | [Referencia a criterio](../Calificacion-y-acreditacion/referencia-a-norma-y-a-criterio.md) | Leer el resultado contra lo que había que saber hacer. |
 | [Referencia a norma](../Calificacion-y-acreditacion/referencia-a-norma-y-a-criterio.md) | Leer el resultado contra cómo les fue a los demás. |

@@ -17,7 +17,7 @@ revisado:
 
 Un modelo de diseño instruccional es una receta para armar instrucción: un orden de trabajo, un orden de decisiones o una lista de lo que tiene que tener una buena lección. Ninguno tiene evidencia de que produzca mejor aprendizaje que otro; sirven como orden de trabajo y vocabulario común, no como tratamientos probados.
 
-Los modelos no son una parte más del curso sino la forma de recorrer las otras: dicen en qué orden se hace el [análisis previo](../Analisis-previo/analisis-previo.md), se escriben los [objetivos](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md), se arma la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md) y se producen los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md). Por eso conviene leerlos después de esas verticales.
+Los modelos son la forma de recorrer las otras partes del curso: dicen en qué orden se hace el [análisis previo](../Analisis-previo/analisis-previo.md), se escriben los [objetivos](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md), se arma la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md) y se producen los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md). Por eso conviene leerlos después de esas verticales.
 
 ## Tres clases de modelo
 

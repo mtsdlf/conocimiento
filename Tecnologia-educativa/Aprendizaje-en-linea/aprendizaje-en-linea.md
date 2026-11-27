@@ -25,11 +25,11 @@ La primera es de eficacia: con el mismo contenido, ¿se aprende igual en línea 
 
 La segunda es de retención: ¿cuántos de los que se anotan terminan? En los cursos abiertos masivos (MOOC) de HarvardX y MITx, entre el 3 y el 6 % de los inscriptos terminó, y el número no se movió en seis años (Reich y Ruipérez-Valiente, 2019). Está en [finalización de los MOOC](finalizacion-de-mooc.md).
 
-Mezclarlas produce dos errores opuestos. Uno es leer la baja finalización como prueba de que en línea no se aprende; el otro, leer el metaanálisis de eficacia como prueba de que un curso abierto va a funcionar con cualquiera. El primero ignora que muchos inscriptos solo curiosean; el segundo, que Means midió a quienes cursaron, no a quienes se anotaron y abandonaron.
+Mezclarlas produce dos errores opuestos. Uno es leer la baja finalización como prueba de que en línea no se aprende; el otro, leer el metaanálisis de eficacia como prueba de que un curso abierto va a funcionar con cualquiera. El primero ignora que muchos inscriptos solo curiosean; el segundo, que el metaanálisis de Means compara aprendizaje y esta base no encontró en él una medida de abandono.
 
 ## Qué sostiene a quien cursa
 
-Es la pregunta práctica más importante de la vertical, y la que tiene menos evidencia verificada en esta base. Hay dos pistas. En Means et al., la instrucción colaborativa (+0,25) o dirigida por un docente (+0,39) rindió más que el estudio independiente (+0,05, no significativo). En los MOOC, quienes pagaron la vía con certificado terminaron entre el 44 y el 56 %, aunque ahí hay autoselección: quien paga ya está decidido.
+Es la pregunta práctica de la vertical con menos evidencia verificada en esta base. Hay dos pistas. En Means et al., la instrucción colaborativa (+0,25) o dirigida por un docente (+0,39) rindió más que el estudio independiente (+0,05, no significativo). En los MOOC, quienes pagaron la vía con certificado terminaron entre el 44 y el 56 %, aunque ahí hay autoselección: quien paga ya está decidido.
 
 > [!NOTE]
 > Sin fuente todavía: evidencia experimental sobre qué reduce el abandono en un curso en línea (cohortes, plazos, comunidad, planes de compromiso, intervenciones como las de Kizilcec y colegas). La creencia de que los plazos y el contacto humano sostienen la finalización circula, pero no se verificó.

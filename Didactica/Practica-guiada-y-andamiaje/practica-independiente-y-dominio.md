@@ -24,16 +24,16 @@ Cierra la secuencia de [Práctica guiada y andamiaje](practica-guiada-y-andamiaj
 
 El principio 9 de [Rosenshine](../Explicar-y-modelar/principios-de-rosenshine.md) pone cuatro condiciones:
 
-- **El mismo material.** La práctica independiente trata «the same material as the guided practice», o una variación leve. No es el momento de introducir lo nuevo.
-- **Guiada antes.** Exige que antes haya habido práctica guiada suficiente. Si quien enseña tiene que explicar mucho mientras el otro practica solo, la guiada se cortó antes de tiempo.
-- **Sobreaprender.** Practicar más allá del primer acierto («overlearning») para que el recuerdo sea automático y libere memoria de trabajo.
-- **Circular.** Quien enseña pasa por cada uno con contactos cortos, de «30 seconds or less».
+- El mismo material: La práctica independiente trata «the same material as the guided practice», o una variación leve. No es el momento de introducir lo nuevo.
+- Guiada antes: exige que antes haya habido práctica guiada suficiente. Si quien enseña tiene que explicar mucho mientras el otro practica solo, la guiada se cortó antes de tiempo.
+- Sobreaprender: practicar más allá del primer acierto («overlearning») para que el recuerdo sea automático y libere memoria de trabajo.
+- Circular: quien enseña pasa por cada uno con contactos cortos, de «30 seconds or less».
 
 Rosenshine también encuentra que la práctica cooperativa, con estudiantes que se ayudan, aparece asociada a mayor logro en los estudios que cita.
 
 ## Cuánto acierto buscar
 
-El principio 7 pide una tasa de éxito alta. En un estudio de matemática de cuarto grado, las clases de los docentes más eficaces respondían bien el 82 % y las de los menos eficaces, el 73 %. Rosenshine escribe que «the optimal success rate [...] appears to be about 80 percent», como estimación y no como regla. La razón: «practice can be a disaster if students are practicing errors». Practicar mucho con errores fija los errores.
+El principio 7 pide una tasa de éxito alta. En un estudio de matemática de cuarto grado, las clases de los docentes más eficaces respondían bien el 82 % y las de los menos eficaces, el 73 %. Rosenshine escribe que «the optimal success rate [...] appears to be about 80 percent», como estimación y no como regla. La razón: «practice can be a disaster if students are practicing errors».
 
 Una práctica con 80 % de aciertos tiene poco margen para el problema que todavía no se sabe resolver. La [falla productiva](../Aprendizaje-activo-e-indagacion/falla-productiva.md) defiende justo lo contrario en otro momento de la secuencia: equivocarse antes de la explicación. Las dos no chocan si se ve dónde va cada una: la falla productiva prepara la explicación; la práctica independiente consolida lo ya explicado. Esa lectura es de esta base.
 

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El cambio conceptual es el paso de una idea previa equivocada sobre cómo funciona algo a la idea que sostiene la disciplina. El campo discute si esas ideas se reemplazan o se refinan, y la técnica con más respaldo para moverlas es el texto de refutación.
+  El cambio conceptual es el paso de una idea previa equivocada sobre cómo funciona algo a la idea que sostiene la disciplina. El campo discute si esas ideas se reemplazan o se refinan, y la técnica que más se estudia para moverlas es el texto de refutación.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -18,13 +18,13 @@ revisado:
 
 # Cambio conceptual
 
-El cambio conceptual es el paso de una idea previa equivocada sobre cómo funciona algo a la idea que sostiene la disciplina. El campo discute si esas ideas se reemplazan o se refinan, y la técnica con más respaldo para moverlas es el texto de refutación.
+El cambio conceptual es el paso de una idea previa equivocada sobre cómo funciona algo a la idea que sostiene la disciplina. El campo discute si esas ideas se reemplazan o se refinan, y la técnica que más se estudia para moverlas es el texto de refutación.
 
-Es la mitad «obstáculo» de [Conocimiento previo y comprensión](conocimiento-previo-y-comprension.md). El [conocimiento previo](conocimiento-previo.md) ayuda cuando es correcto; cuando no, la enseñanza no completa un hueco sino que tiene que desarmar algo que ya funciona en la cabeza del alumno. Casi toda esta literatura es de enseñanza de las ciencias en la escuela.
+Es la mitad «obstáculo» de [Conocimiento previo y comprensión](conocimiento-previo-y-comprension.md). El [conocimiento previo](conocimiento-previo.md) ayuda cuando es correcto; cuando no, la enseñanza tiene que desarmar una idea que ya funciona en la cabeza del alumno, y completar un hueco no alcanza. Casi toda esta literatura es de enseñanza de las ciencias en la escuela.
 
 ## Por qué una idea equivocada resiste
 
-Una concepción errónea no es un dato suelto que falta corregir: es una explicación que el alumno usa y que muchas veces le anda en la vida diaria. Por eso escuchar la versión correcta no alcanza. La raíz teórica es la de Piaget: el aprendizaje avanza cuando lo nuevo no entra en el esquema actual y obliga a acomodarlo. Un resumen del buscador llama a esa fricción la parte más durable de su teoría; está desarrollada en [teorías del aprendizaje](../Fundamentos/teorias-del-aprendizaje.md).
+Una concepción errónea es una explicación que el alumno usa y que, según esta base, muchas veces le anda en la vida diaria; no es un dato suelto. Por eso escuchar la versión correcta no alcanza. Ninguna fuente leída lo mide: es una lectura del campo, sin fuente todavía. La raíz teórica es la de Piaget: el aprendizaje avanza cuando lo nuevo no entra en el esquema actual y obliga a acomodarlo. Un resumen del buscador considera esa fricción la parte más durable de su teoría; está desarrollada en [teorías del aprendizaje](../Fundamentos/teorias-del-aprendizaje.md).
 
 ## Reemplazar o refinar
 
@@ -37,7 +37,7 @@ Una concepción errónea no es un dato suelto que falta corregir: es una explica
 
 ## El texto de refutación
 
-Un texto de refutación enuncia la idea equivocada, dice que lo es y explica la correcta, en lugar de exponer solo la correcta. El metaanálisis de Guzzetti et al. (1993), según una cita en otro artículo, concluyó que el texto puede eliminar concepciones erróneas «when text is refutational or when text is used in combination with other strategies that cause cognitive conflict».
+Un texto de refutación enuncia la idea equivocada, dice que lo es y explica la correcta. El metaanálisis de Guzzetti et al. (1993), según una cita en otro artículo, concluyó que el texto puede eliminar concepciones erróneas «when text is refutational or when text is used in combination with other strategies that cause cognitive conflict».
 
 Lo posterior está menos verificado. Una revisión menciona un metaanálisis de 1995 a 2010 (Armağan et al., 2017) con un efecto «very strong», conocido solo por esa cita; Tippett (2010) revisó dos décadas de investigación y hay un metaanálisis preregistrado de 2024 en *Educational Psychologist*, los dos vistos solo por el título.
 

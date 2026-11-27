@@ -17,15 +17,15 @@ revisado:
 
 El aprendizaje cognitivo (cognitive apprenticeship) es un modelo de enseñanza de Collins, Brown y Newman (1989) que lleva al aula la lógica del aprendiz de un oficio: quien sabe hace visible su razonamiento, acompaña mientras el otro practica y retira la ayuda. Tiene seis métodos y es un marco de diseño sin estudios de efecto propios.
 
-Junta en un solo modelo lo que el resto de [Práctica guiada y andamiaje](practica-guiada-y-andamiaje.md) trata por separado: el [modelado](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md), el [andamiaje](andamiaje.md) y su retiro. Sirve tanto a la [tutoría](../Tutoria-y-mentoria/tutoria.md) como a quien acompaña a alguien en un trabajo, y es la descripción más clara de qué hace alguien que enseña uno a uno. No es mentoría: la [mentoría](../Tutoria-y-mentoria/mentoria.md) acompaña una trayectoria, y el aprendizaje cognitivo enseña una habilidad.
+Junta en un solo modelo lo que el resto de [Práctica guiada y andamiaje](practica-guiada-y-andamiaje.md) trata por separado: el [modelado](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md), el [andamiaje](andamiaje.md) y su retiro. Sirve tanto a la [tutoría](../Tutoria-y-mentoria/tutoria.md) como a quien acompaña a alguien en un trabajo, y es, según el informe de esta base, la descripción más clara de qué hace un mentor que enseña. No es mentoría: la [mentoría](../Tutoria-y-mentoria/mentoria.md) acompaña una trayectoria, y el aprendizaje cognitivo enseña una habilidad.
 
 ## Hacer visible lo que el experto hace por dentro
 
-En el aprendiz de un oficio manual, el maestro trabaja a la vista: el aprendiz ve cómo se corta la madera. En las habilidades cognitivas (leer, escribir, resolver problemas, programar) lo importante pasa en la cabeza y no se ve. La idea central del modelo es que ese razonamiento experto está oculto y quien enseña tiene que sacarlo afuera para que se pueda imitar.
+En el aprendiz de un oficio manual, el maestro trabaja a la vista (por ejemplo, el aprendiz ve cómo se corta la madera; ejemplo ilustrativo). En las habilidades cognitivas (leer, escribir, resolver problemas, programar) lo importante pasa en la cabeza y no se ve. La idea central del modelo es que ese razonamiento experto está oculto y quien enseña tiene que sacarlo afuera para que se pueda imitar.
 
 ## Los seis métodos
 
-Según la reseña que leyó esta base, el núcleo son los tres primeros y los otros tres empujan hacia la autonomía:
+Según la reseña que leyó esta base, el núcleo son los tres primeros y los otros tres empujan hacia la autonomía. Las columnas «Quién hace el trabajo» y «Qué pasa» son una lectura de esta base, no el texto de los autores:
 
 | Método | Quién hace el trabajo | Qué pasa |
 |---|---|---|

@@ -35,7 +35,7 @@ Una correlación alta dice que los pares ordenan los trabajos parecido a quien e
 
 Juzgar un trabajo concreto con una rúbrica no es lo mismo que estimar cuánto se sabe. Para lo segundo, Dunning, Heath y Suls (2004) encontraron que la relación entre autoevaluación y desempeño es de «meager to modest», con correlaciones de metaanálisis de 0,21 a 0,39 según un resumen. Ese desajuste entre lo que alguien cree saber y lo que sabe es la [calibración](../../Ciencias-del-aprendizaje/Metacognicion-y-autorregulacion/calibracion.md). Por eso la autoevaluación sirve para orientar un [diagnóstico](../Propositos/evaluacion-diagnostica.md), no para reemplazarlo.
 
-Sadler (1989) da la razón de practicarla igual: sin desarrollar la pericia para juzgar la calidad del propio trabajo, quien aprende depende siempre de otro para saber si va bien, y su progreso tiene un techo. La autoevaluación es, en esa lectura, algo que se enseña, no solo una medida.
+Sadler (1989) da la razón de practicarla igual: sin desarrollar la pericia para juzgar la calidad del propio trabajo, el sistema, según su resumen, fija «artificial but potentially removable performance ceilings». La autoevaluación es, en esa lectura, algo que se enseña, no solo una medida.
 
 ## Cómo se usa sin que falle
 

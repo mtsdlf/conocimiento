@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La transferencia cercana lleva lo aprendido a una situación parecida y la lejana a una muy distinta. Barnett y Ceci (2002) mostraron que no es un binario sino un continuo con varias dimensiones de contenido y de contexto, y que por eso no se puede hablar de un único efecto de "transferencia lejana".
+  La transferencia cercana lleva lo aprendido a una situación parecida y la lejana a una muy distinta. Barnett y Ceci (2002) proponen verla como un continuo con varias dimensiones de contenido y de contexto, y sostienen que estimar un único efecto de "transferencia lejana" no tiene sentido.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -15,15 +15,15 @@ revisado:
 
 # Transferencia cercana y lejana
 
-La transferencia cercana lleva lo aprendido a una situación parecida y la lejana a una muy distinta. Barnett y Ceci (2002) mostraron que no es un binario sino un continuo con varias dimensiones de contenido y de contexto, y que por eso no se puede hablar de un único efecto de "transferencia lejana".
+La transferencia cercana lleva lo aprendido a una situación parecida y la lejana a una muy distinta. Barnett y Ceci (2002) proponen verla como un continuo con varias dimensiones de contenido y de contexto, y sostienen que estimar un único efecto de "transferencia lejana" no tiene sentido.
 
-Es la herramienta para leer cualquier promesa de que algo "se transfiere". Antes de preguntar si hubo transferencia, hay que preguntar de qué a qué: qué contenido se llevó y cuánto cambió el contexto en cada dimensión.
+Sirve para leer cualquier promesa de que algo "se transfiere". Antes de preguntar si hubo transferencia, hay que preguntar de qué a qué: qué contenido se llevó y cuánto cambió el contexto en cada dimensión.
 
 ## Elementos idénticos, la versión de partida
 
-La idea clásica es de Thorndike y Woodworth (1901), según un resumen: lo aprendido pasa a una situación nueva en la medida en que las dos comparten elementos. Con esa lente, la transferencia cercana es fácil porque comparte mucho, y la lejana es difícil porque comparte poco. La división cercana-lejana que se usa hasta hoy sale de ahí.
+La idea clásica es de Thorndike y Woodworth (1901), según un resumen: lo aprendido pasa a una situación nueva en la medida en que las dos comparten elementos. Con esa lente, la transferencia cercana es fácil porque comparte mucho, y la lejana es difícil porque comparte poco. 
 
-El problema es que "parecido" no dice en qué. Dos tareas pueden tener la misma estructura matemática y verse distintas, o verse iguales y pedir cosas diferentes. Sin decir en qué se parecen, dos estudios que dicen medir "transferencia lejana" pueden estar midiendo cosas incomparables.
+El problema es que "parecido" no dice en qué. Sin decir en qué se parecen, dos estudios que dicen medir "transferencia lejana" pueden estar midiendo cosas incomparables, que es el punto de Barnett y Ceci.
 
 ## Las dimensiones de Barnett y Ceci
 
@@ -34,9 +34,9 @@ Barnett y Ceci proponen una taxonomía con dos ejes, según extractos del artíc
 | Contenido | Qué se transfiere | No se obtuvieron en los extractos |
 | Contexto | Desde dónde hacia dónde | Ámbito físico, separación en el tiempo, ámbito social y modalidad de evaluación, entre otras |
 
-Cada dimensión se ubica por separado entre cercana y lejana. Aprender un procedimiento en un aula y usarlo en el mismo lugar al día siguiente, rindiendo el mismo tipo de prueba, es cercano en todo. Usarlo meses después, en el trabajo, con colegas y sin que nadie lo pregunte, es lejano en casi todas las dimensiones aunque el contenido sea el mismo.
+Cada dimensión se ubica por separado entre cercana y lejana. Dos casos ilustrativos de esta base: aprender un procedimiento en un aula y usarlo en el mismo lugar al día siguiente, con el mismo tipo de prueba, es cercano en todas las dimensiones; usarlo meses después, en el trabajo, con colegas y sin que nadie lo pregunte, es lejano en casi todas aunque el contenido sea el mismo.
 
-Su conclusión, según los extractos: "estimation of a single effect size for far transfer is misguided in view of this complexity". Los estudios se mueven en dimensiones distintas y por eso no se pueden promediar como si midieran lo mismo.
+Su conclusión, según los extractos: "estimation of a single effect size for far transfer is misguided in view of this complexity". Como lectura de esta base, estudios que se mueven en dimensiones distintas no se pueden promediar como si midieran lo mismo.
 
 > [!NOTE] Sin fuente todavía: las dimensiones del eje de contenido y la lista completa de las de contexto, que están en la Figura 1 del artículo. El abstract y el texto no se leyeron enteros.
 

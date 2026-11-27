@@ -24,9 +24,9 @@ Es uno de los tres [propósitos](propositos.md) de la evaluación y el que menos
 
 ## Preguntar por el primer paso
 
-Kalyuga y Sweller (2004) probaron una medida rápida: mostrar un problema y pedir solo el primer paso de la solución. El novato arranca por el principio; el que sabe salta pasos intermedios. Según el abstract, con álgebra y geometría de 9.º y 10.º grado, la medida rápida dio «a highly significant correlation (up to .92)» con las pruebas tradicionales, y redujo el tiempo de prueba por factores de 4,9 y 2,5.
+Kalyuga y Sweller (2004) probaron una medida rápida: mostrar un problema y pedir solo el primer paso de la solución. Según los autores, el novato arranca por el principio y el que sabe salta pasos intermedios. Según el abstract, con álgebra y geometría de 9.º y 10.º grado, la medida rápida dio «a highly significant correlation (up to .92)» con las pruebas tradicionales, y redujo el tiempo de prueba por factores de 4,9 y 2,5.
 
-En un segundo estudio, Kalyuga y Sweller (2005) usaron esas pruebas rápidas para adaptar un tutor de álgebra. El grupo con instrucción adaptada mostró, según el abstract, «higher knowledge and cognitive efficiency gains» que el control. La razón de adaptar es el efecto de inversión de la experticia: los ejemplos resueltos y la guía que le sirven al novato dejan de servirle al experto.
+En un segundo estudio, Kalyuga y Sweller (2005) usaron esas pruebas rápidas para adaptar un tutor de álgebra. El grupo con instrucción adaptada mostró, según el abstract, «higher knowledge and cognitive efficiency gains» que el control. La razón de adaptar, para estos autores, es el efecto de inversión de la experticia: los ejemplos resueltos y la guía que le sirven al novato dejan de servirle al experto.
 
 > [!WARNING]
 > Circula otra cifra para el mismo método, «2,8 veces menos tiempo y correlación de 0,72». Viene de otro trabajo de Kalyuga, con aritmética en octavo grado, no del artículo de 2004. Cada cifra va con su estudio.
@@ -37,7 +37,7 @@ Todos estos estudios son con escolares y materiales de matemática. Que el méto
 
 Si alguien resuelve un problema que requiere tres cosas, probablemente sabe las tres; si falla una base, probablemente no sabe lo que se apoya en ella. Esa regla es la idea central de los [espacios de conocimiento](../Evaluacion-adaptativa/espacios-de-conocimiento.md): ordenar los temas en un grafo de prerrequisitos y buscar la frontera, lo que la persona «is ready to learn» (Cosyn et al., 2013).
 
-La regla no necesita muestras grandes ni estadística, a diferencia de la [teoría de respuesta al ítem](../Evaluacion-adaptativa/teoria-de-respuesta-al-item.md). Lo costoso es construir el grafo y las preguntas. Su riesgo es dar por sabido algo que no se demostró; los sistemas que la usan marcan esos temas como completados «condicionalmente» y retroceden si la persona se traba.
+La regla no necesita muestras grandes ni estadística, a diferencia de la [teoría de respuesta al ítem](../Evaluacion-adaptativa/teoria-de-respuesta-al-item.md). Lo costoso es construir el grafo y las preguntas. Su riesgo es dar por sabido algo que no se demostró; Math Academy, una página comercial, marca esos temas como completados «condicionalmente» y retrocede si la persona se traba.
 
 Aplicado a mano, un diagnóstico para un grupo chico puede hacerse así (inferencia de esta base a partir de las fuentes, no un procedimiento validado):
 
@@ -55,8 +55,10 @@ La versión popular de que los que menos saben se sobrestiman más está en disp
 
 ## Cómo falla un diagnóstico
 
-- **Se usa para acreditar.** Una prueba de cinco preguntas da una ubicación probable, no una certificación; la [validez](../Validez-confiabilidad-y-equidad/validez.md) depende del uso.
-- **Infiere sin confirmar.** Dar por sabido lo inferido y no revisarlo cuando la persona se traba.
-- **Mide lo que no importa.** Preguntas fáciles de corregir (definiciones) en lugar de lo que el curso pide hacer.
+Inferencias de esta base, no resultados medidos:
+
+- Se usa para acreditar. Una prueba de cinco preguntas da una ubicación probable, no una certificación; la [validez](../Validez-confiabilidad-y-equidad/validez.md) depende del uso.
+- Infiere sin confirmar. Dar por sabido lo inferido y no revisarlo cuando la persona se traba.
+- Mide lo que no importa. Preguntas fáciles de corregir (definiciones) en lugar de lo que el curso pide hacer.
 
 > [!NOTE] Sin fuente todavía: una validación de diagnósticos de entrada en capacitación de adultos o en cursos de informática; toda la evidencia leída es escolar.

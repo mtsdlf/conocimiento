@@ -28,7 +28,7 @@ Explicar no es dar una clase magistral larga. En la secuencia de Rosenshine cada
 
 ## Qué es instrucción explícita y qué no
 
-«Instrucción explícita» nombra el enfoque: explicar, modelar, guiar la práctica y comprobar, en ese orden. El campo lo trata como una sola secuencia de clase; así lo presentan Rosenshine, la guía del What Works Clearinghouse de Pashler et al. (2007) y el marco de formación docente de Inglaterra de 2024. Tres cosas se confunden con ella:
+«Instrucción explícita» nombra el enfoque: explicar, modelar, guiar la práctica y comprobar, en ese orden. El campo la trata como una sola secuencia de clase; así la presentan Rosenshine, la guía del What Works Clearinghouse de Pashler et al. (2007) y el marco de formación docente de Inglaterra de 2024. Se la confunde con tres cosas:
 
 | Se confunde con | La diferencia |
 |---|---|

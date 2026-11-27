@@ -25,29 +25,29 @@ El debate de los medios es la discusión entre Richard Clark y Robert Kozma sobr
 
 Clark revisó en 1983 los estudios que comparaban medios y concluyó que el medio no influye en el aprendizaje en ninguna condición. En 1994 lo sostuvo con una frase que el buscador devuelve así: el medio «is neither sufficient for nor necessary to learning». Según su argumento, los estudios que encontraban ventajas para un medio estaban confundidos: el grupo con el medio nuevo recibía además otro método de enseñanza, y era el método lo que explicaba la diferencia.
 
-La consecuencia práctica es fuerte. Si Clark tiene razón, cualquier efecto atribuido a una tecnología se puede conseguir con otro medio que lleve el mismo método, y elegir el medio es una decisión de costo y de acceso, no de aprendizaje.
+Como inferencia de esta base: si Clark tiene razón, cualquier efecto atribuido a una tecnología se puede conseguir con otro medio que lleve el mismo método, y elegir el medio es una decisión de costo y de acceso, no de aprendizaje.
 
 > [!NOTE]
 > Sin fuente todavía: la analogía del camión de reparto de Clark (el medio como el camión que trae la comida sin cambiar su valor nutritivo) se cita mucho, pero no se leyó en una fuente.
 
-## La posición de Kozma: depende de lo que el medio permite
+## La posición de Kozma: depende de las condiciones
 
-Kozma (1994) cambia la pregunta de «¿influyen los medios?» a «¿van a influir, y bajo qué condiciones?». Su argumento, según el resumen, es que algunos medios permiten métodos que otros no pueden llevar. Analiza dos entornos: ThinkerTools, una simulación de física, y la serie Jasper Woodbury, de problemas de matemática en video.
+Kozma (1994) cambia la pregunta de «¿influyen los medios?» a «¿van a influir, y bajo qué condiciones?». Analiza dos entornos: ThinkerTools y la serie Jasper Woodbury. El resumen que leyó esta base no detalla su argumento.
 
 El mismo número de la revista trae réplicas de Jonassen, Campbell y Davidson, de Morrison, de Reiser y de Shrock, que esta base no leyó.
 
 > [!IMPORTANT]
 > **El medio no influye (Clark).** Los efectos que se le atribuyen vienen del método; un estudio limpio iguala el método y la diferencia desaparece.
 >
-> **El medio habilita métodos (Kozma).** Una simulación interactiva permite cosas que un libro no, y en ese sentido el medio importa.
+> **El medio puede importar según las condiciones (Kozma).** La pregunta correcta es si va a influir y bajo qué condiciones.
 >
 > El buscador describe el debate como no resuelto. Esta base no encontró una revisión que diga cuál de las dos lecturas domina hoy.
 
 ## «Sin diferencia significativa»
 
-Russell (1999) reunió estudios de educación a distancia que no encontraron diferencias entre la enseñanza a distancia y la presencial. Es una compilación, no un metaanálisis: no promedia efectos ni pondera la calidad de los estudios. Se la cita como apoyo a Clark, porque cambiar el canal no cambió el resultado.
+Russell (1999) reunió estudios de educación a distancia que no encontraron diferencias entre la enseñanza a distancia y la presencial. Es una compilación, no un metaanálisis, y esta base la conoce por una página secundaria. Como lectura de esta base, encaja con la posición de Clark: cambiar el canal no cambió el resultado.
 
-El metaanálisis de Means et al. (2010) sobre cursos en línea muestra el patrón que Clark predice. Cuando currículo e instrucción eran casi idénticos en las dos condiciones, el efecto a favor del curso en línea fue de +0,13; cuando variaban en varios aspectos, de +0,40. Los autores advierten que la ventaja también puede deberse a que en línea se dedicó más tiempo a la tarea. El detalle está en [en línea y presencial](../Aprendizaje-en-linea/en-linea-y-presencial.md).
+El metaanálisis de Means et al. (2010) sobre cursos en línea es consistente con lo que Clark predice (lectura de esta base). Cuando currículo e instrucción eran casi idénticos en las dos condiciones, el efecto a favor del curso en línea fue de +0,13; cuando variaban en varios aspectos, de +0,40. Los autores advierten que la ventaja también puede deberse a que en línea se dedicó más tiempo a la tarea. El detalle está en [en línea y presencial](../Aprendizaje-en-linea/en-linea-y-presencial.md).
 
 ## Cómo usar el debate para leer un estudio
 
@@ -61,4 +61,4 @@ El experimento de Bastani et al. (2025) es un caso que el debate ayuda a leer: e
 
 ## Qué leer del debate
 
-El par Clark 1994 y Kozma 1994, en el mismo número de *Educational Technology Research and Development* (42(2)), es el recurso canónico. Conviene leerlos juntos y fijarse en qué estudios cita cada uno como prueba: Clark, comparaciones de medios con método confundido; Kozma, entornos diseñados para hacer algo que otro medio no permite.
+El par Clark 1994 y Kozma 1994, en el mismo número de *Educational Technology Research and Development* (42(2)), es el recurso canónico. Conviene leerlos juntos y fijarse en qué evidencia usa cada uno: Clark, las comparaciones de medios que juzga confundidas con el método; Kozma, los entornos ThinkerTools y Jasper Woodbury.

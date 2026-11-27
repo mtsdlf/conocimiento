@@ -20,11 +20,11 @@ revisado:
 
 La teoría de la carga cognitiva, de Sweller, explica por qué un material enseña más o menos según cuánto ocupa la memoria de trabajo en lo que no construye conocimiento. Es la base de las reglas de diseño de materiales, y su crítica más seria, de de Jong (2010), es que la carga casi nunca se mide directamente.
 
-La definición, la distinción intrínseca y extrínseca vista desde una interfaz y la discusión sobre el «siete más o menos dos» están en [carga cognitiva](../../UX/Percepcion-y-decision/carga-cognitiva.md), del tema UX; no se repiten. Esta nota mira lo mismo desde el material didáctico: qué cambia cuando el objetivo no es usar una pantalla sino aprender. Dentro de [materiales y carga cognitiva](materiales-y-carga-cognitiva.md) es la teoría; las reglas concretas que salen de ella están en [principios multimedia](principios-multimedia.md).
+La definición, la distinción intrínseca y extrínseca vista desde una interfaz y la discusión sobre el «siete más o menos dos» están en [carga cognitiva](../../UX/Percepcion-y-decision/carga-cognitiva.md), del tema UX; no se repiten. Acá se mira desde el material didáctico, donde el objetivo es aprender y no usar una pantalla. Dentro de [materiales y carga cognitiva](materiales-y-carga-cognitiva.md) es la teoría; las reglas concretas que salen de ella están en [principios multimedia](principios-multimedia.md).
 
 ## Las tres cargas en un material didáctico
 
-El marco de tres cargas es de Sweller, van Merriënboer y Paas (1998), y la revisión de los mismos autores en 2019 lo mantiene, según el resumen del buscador:
+El marco de tres cargas se atribuye a Sweller, van Merriënboer y Paas (1998, según Wikipedia), y la revisión de los mismos autores en 2019 lo mantiene, según el resumen del buscador:
 
 | Carga | De dónde sale | Qué hace el diseño |
 |---|---|---|
@@ -32,7 +32,7 @@ El marco de tres cargas es de Sweller, van Merriënboer y Paas (1998), y la revi
 | Extrínseca | La forma del material: buscar, cruzar, descartar lo que no enseña | Se minimiza |
 | Pertinente | El esfuerzo de construir esquemas, lo que de verdad enseña | Se optimiza dentro de la capacidad que queda |
 
-La diferencia con la mirada de interfaz es la tercera fila. En una interfaz el ideal es que la tarea cueste poco; en un material didáctico, que cueste lo que tiene que costar. Un material que no exige nada tampoco enseña. Cómo redefine la revisión de 2019 la carga pertinente no se leyó.
+La diferencia con la mirada de interfaz es la tercera fila. Por lectura de esta base, en una interfaz el ideal es que la tarea cueste poco y en un material didáctico, que cueste lo que tiene que costar. Cómo redefine la revisión de 2019 la carga pertinente no se leyó.
 
 ## El primer hallazgo: ejemplos resueltos y metas abiertas
 
@@ -40,18 +40,18 @@ Sweller (1988) estudió la resolución de problemas. Para un novato, un problema
 
 ## Lo que sirve al novato estorba al que sabe
 
-El efecto de [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md) (Kalyuga et al. 2003) fue, en parte, la respuesta de la escuela de Sweller a sus críticos: técnicas muy eficaces con novatos pierden eficacia, o la empeoran, con quien tiene más experiencia. El ejemplo resuelto es el caso típico. La consecuencia para los materiales es que no hay un material bueno en abstracto: hay un material bueno para un nivel de conocimiento previo, y por eso importa el [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md).
+El efecto de [inversión de la experticia](../../Didactica/Practica-guiada-y-andamiaje/inversion-de-la-experticia.md) (Kalyuga et al. 2003) dice que técnicas muy eficaces con novatos pierden eficacia, o la empeoran, con quien tiene más experiencia. El ejemplo resuelto es el caso típico. La consecuencia para los materiales es que no hay un material bueno en abstracto: hay un material bueno para un nivel de conocimiento previo, y por eso importa el [análisis de quien aprende](../Analisis-previo/analisis-de-quien-aprende.md).
 
 ## La crítica de de Jong
 
-de Jong (2010) hace el inventario más citado de problemas de la teoría, en un artículo de acceso abierto:
+de Jong (2010) hace un inventario de problemas de la teoría en un artículo de acceso abierto:
 
 - **La carga pertinente es circular.** La define como «quite tautological»: la carga buena es la que ayuda a aprender y la mala, la que no.
 - **La carga casi no se mide.** En muchos estudios «there is no direct measurement of cognitive load»; se usa el resultado en una prueba de transferencia como medida indirecta. Cuando se mide, es con un cuestionario de esfuerzo mental de 9 puntos (la escala de Paas), con medidas fisiológicas como la variabilidad del ritmo cardíaco o con una doble tarea.
 - **Las medidas no separan las cargas.** Son siempre relativas, un puntaje único no distingue intrínseca de extrínseca ni de pertinente, y los instrumentos más usados no captan cambios en el tiempo.
 - **La explicación llega después.** «Attributing better performance on a post-test to a reduction of extraneous load, as most of these studies do, is a post-hoc explanation without direct evidence». Y como las medidas solo comparan condiciones, «all conditions in a study could show overload».
 
-Otra objeción, según un resumen: que la carga intrínseca no se pueda cambiar con la instrucción es una premisa dudosa.
+Otra objeción, según un resumen: es dudosa la premisa de que la carga intrínseca no se puede cambiar con la instrucción.
 
 > [!IMPORTANT]
 > **La teoría tiene problemas conceptuales y de medición serios (de Jong 2010).** La carga pertinente es tautológica y la carga casi no se mide.
@@ -62,4 +62,4 @@ Las respuestas posteriores a de Jong, como instrumentos que intentan medir las t
 
 ## Qué queda en pie para diseñar
 
-Las reglas que la teoría inspiró, quitar lo que no enseña, poner juntas las cosas que hay que mirar juntas, dar ejemplos resueltos a quien empieza, tienen su propia evidencia experimental en [principios multimedia](principios-multimedia.md), independiente de que la explicación de por qué funcionan esté bien medida. Esa separación entre regla y explicación es una lectura de esta base.
+Las reglas que la teoría inspiró (quitar lo que no enseña, poner juntas las cosas que hay que mirar juntas, dar ejemplos resueltos a quien empieza) tienen su propia evidencia experimental en [principios multimedia](principios-multimedia.md), aunque la explicación de por qué funcionan no esté bien medida. Esa separación entre regla y explicación es una lectura de esta base.

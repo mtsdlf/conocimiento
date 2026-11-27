@@ -9,6 +9,7 @@ fuentes:
   - "Constructive alignment (Wikipedia): https://en.wikipedia.org/wiki/Constructive_alignment (página parcial)"
   - "Hidden curriculum (Wikipedia): https://en.wikipedia.org/wiki/Hidden_curriculum"
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
+  - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [constructive alignment, alineación, alineamiento constructivo, Biggs, backwash, efecto de retroceso, currículo oculto, hidden curriculum]
 creado: 2026-11-27
 revisado:
@@ -24,13 +25,13 @@ Es el tercer trabajo de los [objetivos de aprendizaje](objetivos-de-aprendizaje.
 
 La definición de Biggs (2014): «Constructive alignment (CA) is an outcomes-based approach to teaching in which the learning outcomes that students are intended to achieve are defined before teaching takes place. Teaching and assessment methods are then designed to best achieve those outcomes and to assess the standard at which they have been achieved.»
 
-El verbo del resultado de aprendizaje es lo que ata las tres piezas. Si el resultado es «diagnosticar un fallo de red», la actividad tiene que hacer diagnosticar fallos y la evaluación tiene que pedir un diagnóstico, no una definición de los protocolos. Biggs usa el ejemplo de aprender a atarse los cordones o a manejar: la tarea es a la vez el resultado, el método y la evaluación.
+El verbo del resultado de aprendizaje es lo que ata las tres piezas. Un ejemplo ilustrativo, sin fuente: si el resultado es «diagnosticar un fallo de red», la actividad tiene que hacer diagnosticar fallos y la evaluación tiene que pedir un diagnóstico, no una definición de los protocolos. Biggs usa el ejemplo de aprender a atarse los cordones o a manejar: la tarea es a la vez el resultado, el método y la evaluación.
 
 El término se acuñó en 1999, según una guía universitaria. Wikipedia lo resume así: «The teacher makes a deliberate alignment between the planned learning activities and the learning outcomes».
 
 ## Por qué se aprende lo que se evalúa
 
-El efecto de retroceso (*backwash*) es la razón de fondo: los estudiantes aprenden lo que esperan que se evalúe. Si la evaluación pide recordar, se estudia para recordar, diga lo que diga el objetivo. Un curso desalineado enseña, sin querer, a pasar el examen.
+El efecto de retroceso (*backwash*) es la razón de fondo: los estudiantes aprenden lo que esperan que se evalúe. Si la evaluación pide recordar, se estudia para recordar, diga lo que diga el objetivo.
 
 Lo mismo explica el currículo oculto, el término de Philip Jackson (*Life in Classrooms*, 1968) para lo que se aprende sin estar declarado: normas, valores y creencias que transmite la vida del aula. En un curso de adultos, el equivalente útil es lo que el recorrido enseña por cómo está armado: qué premia, qué evalúa, qué deja pasar. Esa conexión entre currículo oculto y retroceso es una lectura del informe de esta base, no de una fuente.
 

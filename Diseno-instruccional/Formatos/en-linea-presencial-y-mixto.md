@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  En promedio, un curso totalmente en línea enseña lo mismo que uno presencial, y uno mixto enseña algo más (g+ = +0,35 en el metaanálisis de Means et al. 2013). La ventaja del mixto está confundida: esos estudios también daban más tiempo, más recursos y más interacción.
+  En promedio, un curso totalmente en línea enseña lo mismo que uno presencial, y uno mixto enseña algo más (g+ = +0,35 en el metaanálisis de Means et al. 2013). La ventaja del mixto está confundida: esos estudios tendían a incluir también más tiempo, más recursos y más interacción.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -16,7 +16,7 @@ revisado:
 
 # En línea, presencial y mixto
 
-En promedio, un curso totalmente en línea enseña lo mismo que uno presencial, y uno mixto enseña algo más (g+ = +0,35 en el metaanálisis de Means et al. 2013). La ventaja del mixto está confundida: esos estudios también daban más tiempo, más recursos y más interacción.
+En promedio, un curso totalmente en línea enseña lo mismo que uno presencial, y uno mixto enseña algo más (g+ = +0,35 en el metaanálisis de Means et al. 2013). La ventaja del mixto está confundida: esos estudios tendían a incluir también más tiempo, más recursos y más interacción.
 
 Es el eje del medio dentro de los [formatos](formatos.md), el único con metaanálisis grandes. El recurso para leer entero es Means et al. (2013): abierto, de 47 páginas y con tablas.
 
@@ -36,15 +36,15 @@ La diferencia entre en línea y mixto también es significativa. Lo que agrandó
 
 Los propios autores advierten que los estudios con formato mixto «also tended to involve additional learning time, instructional resources, and course elements that encourage interactions among learners», lo que «leaves open the possibility that one or all of these other practice variables contributed». No se puede saber si ganó el medio o ganaron las horas y la interacción de más. Piden investigar qué principios de diseño hacen funcionar una mezcla.
 
-Para quien diseña, la lectura útil es al revés: pasar un curso a mixto no mejora nada por sí solo; lo que tiene más chances de mejorar es lo que suele venir con él, más práctica y más interacción. Esa lectura es inferencia de esta base a partir de la advertencia.
+Para quien diseña, una lectura posible es que pasar un curso a mixto no garantiza una mejora y que lo que tiene más chances de mejorarla es lo que suele venir con él: más práctica y más interacción. Es inferencia de esta base a partir de la advertencia.
 
 ## En vivo o diferido
 
-El metaanálisis de Bernard et al. (2004) comparó educación a distancia con aula sobre 232 estudios de 1985 a 2002. Según la cita de Means et al., encontró «an overall effect size close to zero for student achievement (g+ = 0.01)», con asincrónico g+ = +0,05 y sincrónico g+ = −0,10. Las diferencias son muy chicas, y «a substantial proportion of the variability… was accounted for by the studies' research methodology»: el método de cada estudio explica más que el formato. Las fuentes discrepan en el número de efectos (699 según Means et al., 599 según un resumen del buscador).
+El metaanálisis de Bernard et al. (2004) comparó educación a distancia con aula sobre 232 estudios de 1985 a 2002. Según la cita de Means et al., encontró «an overall effect size close to zero for student achievement (g+ = 0.01)», con asincrónico g+ = +0,05 y sincrónico g+ = −0,10. Las diferencias son muy chicas, y «a substantial proportion of the variability… was accounted for by the studies' research methodology»: una parte sustancial de la variación la explica el método de cada estudio. Las fuentes discrepan en el número de efectos (699 según Means et al., 599 según un resumen del buscador).
 
 ## Fechas que se citan mal
 
-Dos confusiones frecuentes: el metaanálisis de educación a distancia contra aula de Bernard es de 2004, no de 2009 (el de 2009 es otro, sobre tipos de interacción a distancia); y el artículo de Means et al. es de 2013, mientras que el informe del Departamento de Educación de EE. UU. que lo antecede es de 2009 y 2010. La cifra citable es la del artículo de 2013.
+Dos fechas que las fuentes consultadas permiten confundir: el metaanálisis de educación a distancia contra aula de Bernard es de 2004, no de 2009 (el de 2009 es otro, sobre tipos de interacción a distancia); y el artículo de Means et al. es de 2013, mientras que el informe del Departamento de Educación de EE. UU. que lo antecede es de 2009 y 2010. La cifra citable es la del artículo de 2013.
 
 ## A quién se le aplica
 

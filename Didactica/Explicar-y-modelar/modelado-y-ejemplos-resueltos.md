@@ -32,10 +32,10 @@ La evidencia que reúne Rosenshine sobre modelado viene de comprensión lectora,
 
 Atkinson, Derry, Renkl y Wortham (2000) definen el ejemplo resuelto como «instructional devices that provide an expert's problem solution for a learner to study». De su revisión salen principios de diseño:
 
-1. **Integrar las partes.** Combinar modalidades y marcar la estructura conceptual con etiquetas o separando el ejemplo en segmentos.
-2. **Varios ejemplos por tipo de problema**, con formatos variados dentro del tipo y rasgos superficiales que señalen la estructura profunda.
-3. **Ponerlos cerca de problemas de práctica equivalentes**, no todos los ejemplos primero y todos los problemas después.
-4. **Hacer que el alumno se explique el ejemplo**, entrenándolo o con la estructura misma del ejemplo.
+1. Integrar las partes: combinar modalidades y marcar la estructura conceptual con etiquetas o separando el ejemplo en segmentos.
+2. Varios ejemplos por tipo de problema, con formatos variados dentro del tipo y rasgos superficiales que señalen la estructura profunda.
+3. Ponerlos cerca de problemas de práctica equivalentes, no todos los ejemplos primero y todos los problemas después.
+4. Hacer que el alumno se explique el ejemplo, entrenándolo o con la estructura misma del ejemplo.
 
 Los autores aclaran que los ejemplos resueltos corresponden a las «early stages of skill development». La guía del What Works Clearinghouse (Pashler et al. 2007) lo resume en su recomendación 2, «Interleave worked example solutions with problem-solving exercises», con evidencia moderada.
 
@@ -43,7 +43,7 @@ Rosenshine cuenta un problema práctico: en una investigación en Australia que 
 
 ## Subobjetivos: ponerle nombre a cada tramo
 
-Un ejemplo con subobjetivos etiqueta los tramos de la solución con lo que cada uno logra («leer la entrada», «acumular el total»), para que quien aprende vea la estructura que se repite entre problemas. Margulieux, Morrison y Decker (2020) lo probaron en un curso introductorio de programación de un semestre, con 265 estudiantes: mitad con instrucción con subobjetivos y mitad con la habitual. Según el abstract, los del grupo con subobjetivos sacaron mejores notas en los cuestionarios de la semana y no se diferenciaron en los exámenes finales; tuvieron menos varianza y menos abandono y desaprobación, con un efecto mayor en los estudiantes en riesgo. El informe no tuvo acceso al texto, así que no hay tamaños de efecto. El caso de programación sigue en [enseñar programación](../Didacticas-especificas/ensenar-programacion.md).
+Un ejemplo con subobjetivos etiqueta los tramos de la solución con lo que cada uno logra (ilustrativo, no tomado de los estudios: «leer la entrada», «acumular el total»), para que quien aprende vea la estructura que se repite entre problemas. Margulieux, Morrison y Decker (2020) lo probaron en un curso introductorio de programación de un semestre, con 265 estudiantes: mitad con instrucción con subobjetivos y mitad con la habitual. Según el abstract, los del grupo con subobjetivos sacaron mejores notas en los cuestionarios de la semana y no se diferenciaron en los exámenes finales; tuvieron menos varianza y menos abandono y desaprobación, con un efecto mayor en los estudiantes en riesgo. El informe no tuvo acceso al texto, así que no hay tamaños de efecto. El caso de programación sigue en [enseñar programación](../Didacticas-especificas/ensenar-programacion.md).
 
 ## Cuándo el ejemplo deja de ayudar
 

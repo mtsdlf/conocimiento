@@ -41,9 +41,9 @@ Zi et al. agrega un dato para quien enseña en castellano: no ser hablante nativ
 
 Lo que sostienen estos estudios, como lectura de esta base:
 
-1. **Que el alumno decida antes de ver el código.** Es la técnica que mejor funcionó en Kazemitabaar et al. (2024), y es la misma lógica de la [escalera de pistas](../Tutores-inteligentes/pistas-de-un-tutor-inteligente.md): el alumno intenta antes de recibir el paso.
-2. **Medir sin la herramienta.** Lo que se termina con el asistente no dice lo que se aprendió; el postest sin asistente sí.
-3. **Mirar a quien va peor.** El beneficio cae sobre quien ya sabe más; quien tiene problemas puede terminar peor y creer que va bien.
+1. Que el alumno decida antes de ver el código. Es la técnica que mejor funcionó en Kazemitabaar et al. (2024), y es la misma lógica de la [escalera de pistas](../Tutores-inteligentes/pistas-de-un-tutor-inteligente.md): el alumno intenta antes de recibir el paso.
+2. Medir sin la herramienta. Lo que se termina con el asistente no dice lo que se aprendió; el postest sin asistente sí.
+3. Mirar a quien va peor. El beneficio cae sobre quien ya sabe más; quien tiene problemas metacognitivos los conserva y puede creer que va bien.
 
 > [!NOTE]
 > Sin fuente todavía: Margulieux et al. (ITiCSE 2024), el ensayo de tres brazos de Bassner et al. (*Computers and Education: AI*, 2025, 275 participantes), Geng et al. (2025) y Xiao et al. (2026). Se citan seguido y no se pudieron verificar. Tampoco hay estudios de adultos que aprenden a programar en su trabajo.

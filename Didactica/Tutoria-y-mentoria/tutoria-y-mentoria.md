@@ -33,7 +33,7 @@ En un oficio técnico, la misma persona suele hacer las dos cosas, y conviene sa
 
 ## Por qué la tutoría rinde lo que rinde
 
-La tutoría supera a la clase común, pero bastante menos que la cifra que la hizo famosa. Bloom (1984) habló de dos desviaciones estándar; los ensayos posteriores dan entre 0,29 y 0,37 en escuelas, y VanLehn (2011), 0,79. Lo que más explica su ventaja, según Chi et al. (2001), son las preguntas y el andamiaje, no las explicaciones del tutor: en su estudio, los alumnos aprendieron igual cuando a los tutores se les prohibió explicar.
+La tutoría supera a la clase común, pero bastante menos que la cifra que la hizo famosa. Bloom (1984) habló de dos desviaciones estándar; los ensayos posteriores dan entre 0,29 y 0,37 en escuelas, y VanLehn (2011), 0,79. Según Chi et al. (2001), en su estudio los alumnos aprendieron igual cuando a los tutores se les prohibió explicar, y los autores lo atribuyen a las preguntas y al andamiaje.
 
 Toda esta evidencia es de escuelas y universidades. Los informes no encontraron estudios de tutoría ni de mentoría con adultos que aprenden habilidades técnicas, y llevar los resultados a ese público es una inferencia.
 

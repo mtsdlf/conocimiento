@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El repaso espaciado con software es usar un programa de tarjetas que estima cuándo se va a olvidar cada dato y lo vuelve a preguntar cerca de ese momento. Automatiza espaciar y recuperar de memoria; la evidencia respalda el espaciado digital, y la de los algoritmos mide cuánto predicen el olvido, no cuánto se aprende.
+  El repaso espaciado con software es usar un programa de tarjetas que estima cuándo se va a olvidar cada dato y lo vuelve a preguntar cerca de ese momento. Automatiza espaciar y recuperar de memoria; un metaanálisis en estudiantes de salud respalda el espaciado digital, y la evidencia de los algoritmos mide cuánto predicen el olvido y no cuánto se aprende.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -17,7 +17,7 @@ revisado:
 
 # Repaso espaciado con software
 
-El repaso espaciado con software es usar un programa de tarjetas que estima cuándo se va a olvidar cada dato y lo vuelve a preguntar cerca de ese momento. Automatiza espaciar y recuperar de memoria; la evidencia respalda el espaciado digital, y la de los algoritmos mide cuánto predicen el olvido, no cuánto se aprende.
+El repaso espaciado con software es usar un programa de tarjetas que estima cuándo se va a olvidar cada dato y lo vuelve a preguntar cerca de ese momento. Automatiza espaciar y recuperar de memoria; un metaanálisis en estudiantes de salud respalda el espaciado digital, y la evidencia de los algoritmos mide cuánto predicen el olvido y no cuánto se aprende.
 
 El mecanismo psicológico (por qué espaciar y testearse retienen más que releer) está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md) y no se repite acá. Esta nota trata lo que agrega el software.
 
@@ -27,8 +27,8 @@ Cada tarjeta tiene una pregunta y una respuesta. El programa la muestra, la pers
 
 Hay dos familias de reglas para calcular ese intervalo:
 
-- **Reglas fijas con un factor de facilidad.** Cada tarjeta tiene un multiplicador que sube o baja según las respuestas, con un piso para que no se achique de más. Es la lógica de los algoritmos derivados de SuperMemo.
-- **Un modelo de la memoria ajustado a cada persona.** El programa estima para cada tarjeta tres cosas (cuán probable es recordarla hoy, cuánto dura en memoria y cuán difícil es) y ajusta los parámetros con el historial de repasos de quien la usa. Es el modelo de tres componentes que se atribuye a Wozniak.
+- Reglas fijas con un factor de facilidad. Cada tarjeta tiene un multiplicador que sube o baja según las respuestas, con un piso para que no se achique de más. Es la lógica de los algoritmos derivados de SuperMemo.
+- Un modelo de la memoria ajustado a cada persona. El programa estima para cada tarjeta tres cosas (cuán probable es recordarla hoy, cuánto dura en memoria y cuán difícil es) y ajusta los parámetros con el historial de repasos de quien la usa. Es el modelo de tres componentes que se atribuye a Wozniak.
 
 Los algoritmos concretos, sus versiones y los valores por defecto están en la ficha de [herramientas de práctica adaptativa](herramientas-de-practica-adaptativa.md).
 

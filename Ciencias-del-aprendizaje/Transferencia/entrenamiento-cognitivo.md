@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El entrenamiento cognitivo es practicar una tarea (juegos de memoria de trabajo, ajedrez, música) esperando que mejore la cognición general o el rendimiento escolar. Los metaanálisis encuentran mejoras en tareas parecidas a las entrenadas y casi ninguna transferencia lejana cuando el estudio tiene un buen grupo de control.
+  El entrenamiento cognitivo es practicar una tarea (juegos de memoria de trabajo, ajedrez, música) esperando que mejore la cognición general o el rendimiento escolar. Los metaanálisis leídos encuentran mejoras en tareas parecidas a las entrenadas y ninguna transferencia lejana convincente cuando el grupo de control hace alguna actividad.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -15,33 +15,33 @@ revisado:
 
 # Entrenamiento cognitivo
 
-El entrenamiento cognitivo es practicar una tarea (juegos de memoria de trabajo, ajedrez, música) esperando que mejore la cognición general o el rendimiento escolar. Los metaanálisis encuentran mejoras en tareas parecidas a las entrenadas y casi ninguna transferencia lejana cuando el estudio tiene un buen grupo de control.
+El entrenamiento cognitivo es practicar una tarea (juegos de memoria de trabajo, ajedrez, música) esperando que mejore la cognición general o el rendimiento escolar. Los metaanálisis leídos encuentran mejoras en tareas parecidas a las entrenadas y ninguna transferencia lejana convincente cuando el grupo de control hace alguna actividad.
 
-Es el caso de prueba de la [transferencia lejana](transferencia-cercana-y-lejana.md): si entrenar una capacidad de base sirviera para todo, sería el atajo más barato de la educación. Por eso la pregunta se estudió mucho, y la respuesta acumulada es negativa.
+Es el caso de prueba de la [transferencia lejana](transferencia-cercana-y-lejana.md): si entrenar una capacidad de base sirviera para todo, sería un atajo. Los metaanálisis leídos responden que no.
 
 ## Lo que encontraron los metaanálisis
 
-Sala y Gobet (2017) revisaron tres metaanálisis propios, sobre ajedrez, música y entrenamiento de la memoria de trabajo. Los efectos sobre la cognición y el rendimiento académico fueron "small to moderate", pero "the effect sizes are inversely related to the quality of the experimental design": cuanto mejor el estudio, menor el efecto. Su conclusión, según el abstract: "far transfer of learning rarely occurs". En 2019 lo resumieron con un título que no deja dudas, *Cognitive training does not enhance general cognition*, y un efecto "minimal" sobre habilidades cognitivas generales.
+Sala y Gobet (2017) revisaron tres metaanálisis, sobre ajedrez, música y entrenamiento de la memoria de trabajo. Los efectos fueron "small to moderate", pero "the effect sizes are inversely related to the quality of the experimental design": cuanto mejor el estudio, menor el efecto. Su conclusión, según el abstract: "far transfer of learning rarely occurs". En 2019 publicaron *Cognitive training does not enhance general cognition*, con un efecto "minimal" sobre habilidades cognitivas generales.
 
-Melby-Lervåg, Redick y Hulme (2016) se concentraron en la memoria de trabajo: 87 publicaciones y 145 comparaciones. Encontraron mejoras en transferencia intermedia, en otras tareas de memoria de trabajo verbal y visoespacial. Para la transferencia lejana, a inteligencia, lectura o matemática, no hallaron "convincing evidence of any reliable improvements" cuando el grupo de control también hacía alguna actividad.
+Melby-Lervåg, Redick y Hulme (2016) se concentraron en la memoria de trabajo: 87 publicaciones y 145 comparaciones. Encontraron mejoras en transferencia intermedia, en otras tareas de memoria de trabajo verbal y visoespacial. Para la transferencia lejana, como la inteligencia, no hallaron "convincing evidence of any reliable improvements" cuando el grupo de control también hacía alguna actividad.
 
 | Qué se entrena | Qué mejora | Qué no mejora |
 |---|---|---|
 | Memoria de trabajo | Tareas de memoria de trabajo parecidas a la entrenada | Inteligencia y otras medidas lejanas (Melby-Lervåg et al.) |
-| Ajedrez o música | Efectos chicos a moderados en estudios de diseño débil | Cognición y rendimiento cuando el diseño mejora (Sala y Gobet) |
+| Ajedrez o música | Efectos chicos a moderados, que bajan cuanto mejor es el diseño | Transferencia lejana (Sala y Gobet) |
 
 ## Por qué el diseño cambia el resultado
 
-El patrón que encuentran ambos equipos es el mismo: los efectos aparecen con grupos de control que no hacen nada y se achican con grupos de control que hacen otra actividad. Una lectura posible, que es de esta base y no de los autores, es que parte de lo que se mide como transferencia es expectativa, motivación o simple práctica con pruebas, que cualquier actividad comparable también produce. Es la misma razón por la que [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md) pide mirar contra qué se compara.
+Sala y Gobet hallan que los efectos se achican cuanto mejor es el diseño, y Melby-Lervåg et al. no hallan mejoras lejanas confiables con grupos de control tratados. Una lectura posible, de esta base y no de los autores, es que parte de lo que se mide como transferencia es expectativa, motivación o simple práctica con pruebas, que cualquier actividad comparable también produce. Es la misma razón por la que [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md) pide mirar contra qué se compara.
 
 > [!IMPORTANT]
-> **Posición negativa (Sala y Gobet 2017 y 2019; Melby-Lervåg et al. 2016).** Las dos líneas coinciden: transferencia cercana sí, lejana no, y los efectos positivos se concentran en los estudios de peor diseño.
+> **Posición negativa (Sala y Gobet 2017 y 2019; Melby-Lervåg et al. 2016).** Las dos líneas coinciden en que la transferencia lejana no aparece de forma confiable. Sala y Gobet agregan que los efectos positivos se concentran en los estudios de peor diseño.
 >
 > **Posición favorable.** No se buscó a los defensores del entrenamiento cognitivo, así que esta nota no presenta su mejor evidencia. El consenso que muestra es el de quienes lo critican.
 
 ## Qué se lleva a la enseñanza
 
-La inferencia de esta base es directa: para mejorar en algo, se practica ese algo o algo que se le parezca en las dimensiones que importan. Practicar una capacidad "de base" esperando que derrame sobre todo lo demás no tiene respaldo. Por la misma razón, conviene desconfiar de cursos o aplicaciones que prometen mejorar "el pensamiento" en general con ejercicios abstractos; la familia de mitos cercanos (Brain Gym, hemisferios) está en [mitos del aprendizaje](../Fundamentos/mitos-del-aprendizaje.md).
+La inferencia de esta base es directa: para mejorar en algo, se practica ese algo o algo que se le parezca en las dimensiones que importan. Practicar una capacidad "de base" esperando que derrame sobre todo lo demás no tiene respaldo. Por la misma razón, conviene mirar con cautela los cursos o aplicaciones que prometen mejorar "el pensamiento" en general con ejercicios abstractos; la familia de mitos cercanos (Brain Gym, hemisferios) está en [mitos del aprendizaje](../Fundamentos/mitos-del-aprendizaje.md).
 
 Lo que sí transfiere, con condiciones, está en [camino alto y camino bajo](camino-alto-y-camino-bajo.md).
 

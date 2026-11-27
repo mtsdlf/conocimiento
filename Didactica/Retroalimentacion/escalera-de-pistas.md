@@ -25,10 +25,10 @@ Es la tercera decisión de la [retroalimentación](retroalimentacion.md): cuánt
 
 Un ejemplo de escalera ante un programa que falla, ilustrativo y no de una fuente:
 
-1. **Orientar.** «Algo pasa cuando la lista está vacía.»
-2. **Señalar el lugar.** «Mirá qué devuelve la función en la línea del bucle si no entra nunca.»
-3. **Nombrar la idea.** «Falta un valor inicial para el caso sin elementos.»
-4. **Mostrar la solución**, y pedir que se explique.
+1. Orientar. «Algo pasa cuando la lista está vacía.»
+2. Señalar el lugar. «Mirá qué devuelve la función en la línea del bucle si no entra nunca.»
+3. Nombrar la idea. «Falta un valor inicial para el caso sin elementos.»
+4. Mostrar la solución, y pedir que se explique.
 
 Cada escalón da un poco más que el anterior. Se sube solo si el escalón anterior no alcanzó.
 
@@ -46,7 +46,7 @@ El último escalón da la respuesta, y eso tiene un riesgo: quien aprende puede 
 
 ## Qué dice la tutoría por computadora sobre el grano de la ayuda
 
-VanLehn (2011) clasificó los sistemas de tutoría por el tamaño del paso en que dan ayuda: por respuesta final, por paso o por subpaso. Se creía que la tutoría humana rendía d = 2,0 y los tutores inteligentes d = 1,0; su revisión encontró 0,79 para la tutoría humana y 0,76 para los tutores inteligentes, «nearly as effective as human tutoring». Según un resumen secundario, los sistemas que solo corrigen la respuesta final rinden bastante menos (0,31) y la efectividad deja de crecer al bajar del paso al subpaso. La lectura para una escalera de pistas, que es inferencia: ayudar paso a paso rinde más que corregir solo el resultado, pero no hace falta intervenir en cada microdecisión. La versión programada de la escalera, con el abuso de la ayuda y la última pista, está en [pistas de un tutor inteligente](../../Tecnologia-educativa/Tutores-inteligentes/pistas-de-un-tutor-inteligente.md); los tutores por computadora como sistema, en [tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/tutores-inteligentes.md).
+VanLehn (2011) clasificó los sistemas de tutoría por el tamaño del paso en que dan ayuda: por respuesta final, por paso o por subpaso. Se creía que la tutoría humana rendía d = 2,0 y los tutores inteligentes d = 1,0; su revisión encontró 0,79 para la tutoría humana y 0,76 para los tutores inteligentes, «nearly as effective as human tutoring». Según un resumen secundario, los sistemas que solo corrigen la respuesta final rinden bastante menos (0,31) y los que ayudan por paso, 0,76. La lectura para una escalera de pistas, que es inferencia: ayudar paso a paso rinde más que corregir solo el resultado. Lo que pasa al bajar de paso a subpaso no quedó registrado. La versión programada de la escalera, con el abuso de la ayuda y la última pista, está en [pistas de un tutor inteligente](../../Tecnologia-educativa/Tutores-inteligentes/pistas-de-un-tutor-inteligente.md); los tutores por computadora como sistema, en [tutores inteligentes](../../Tecnologia-educativa/Tutores-inteligentes/tutores-inteligentes.md).
 
 ## Cuándo mostrar la solución
 

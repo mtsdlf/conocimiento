@@ -35,7 +35,7 @@ Los ejemplos de la tabla son ilustrativos, no de la fuente.
 
 ## Por qué el elogio no enseña
 
-En los metaanálisis que reúnen Hattie y Timperley, los efectos más altos correspondieron a la información sobre la tarea y cómo hacerla mejor, y los más bajos a elogios, recompensas y castigos. El elogio da 0,14 en su tabla; Kluger y DeNisi dan 0,09 y Wilkinson (1981), 0,12. Según los autores, el elogio a la persona «carries little» información y desvía la atención de la tarea.
+En los metaanálisis que reúnen Hattie y Timperley, los efectos más altos correspondieron a la información sobre la tarea y cómo hacerla mejor, y los más bajos a elogios, recompensas y castigos. El elogio da 0,14 en su tabla; según Hattie y Timperley, Kluger y DeNisi (1998) dan 0,09 y Wilkinson (1981), 0,12. Según los autores, el elogio a la persona «carries little» información y desvía la atención de la tarea.
 
 La teoría de Kluger y DeNisi lo explica por la atención: cuanto más se acerca el mensaje a la persona, menos efecto tiene, y más de un tercio de las intervenciones que reunieron empeoraron el desempeño. La ficha de la EEF dice lo mismo con otras palabras: la retroalimentación sobre la persona «tends to be the least effective type», y la que funciona «tends to focus on the task, subject and self-regulation strategies».
 
@@ -62,4 +62,4 @@ La retroalimentación de alta información duplica a la correctiva, aunque con m
 3. Decí qué hacer a continuación.
 4. Si querés reconocer algo, reconocé una decisión del trabajo, no a la persona.
 
-Toda la evidencia es de escuelas, universidades y tareas de desempeño; aplicarla a un mentor que revisa el trabajo de un adulto es una inferencia. La crítica general a los promedios de Hattie, que también alcanza al 0,79 de este modelo, está en [evidencia en educación](../Fundamentos/evidencia-en-educacion.md).
+Ninguna fuente leída trata a un mentor que revisa el trabajo de un adulto; aplicarla ahí es una inferencia. La crítica general a los promedios de Hattie, que también alcanza al 0,79 de este modelo, está en [evidencia en educación](../Fundamentos/evidencia-en-educacion.md).

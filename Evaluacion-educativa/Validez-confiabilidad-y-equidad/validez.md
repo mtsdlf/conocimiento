@@ -24,7 +24,7 @@ Es la primera de las tres preguntas de [validez, confiabilidad y equidad](valide
 
 Los Standards (2014) la definen así: «Validity refers to the degree to which evidence and theory support the interpretations of test scores for proposed uses of tests». Y agregan: «It is the interpretations of test scores for proposed uses that are evaluated, not the test itself». Por eso dicen que es incorrecto hablar de «the validity of the test» sin más.
 
-Un caso: una prueba de diez preguntas de opción múltiple sobre comandos de terminal. Para decidir si alguien puede saltear la primera semana de un curso, puede alcanzar. Para certificar que esa persona administra servidores, no: la conclusión va mucho más allá de lo que se observó. La prueba es la misma; lo que cambia es el uso, y con él la evidencia que hace falta.
+Un caso ilustrativo: una prueba de diez preguntas de opción múltiple sobre comandos de terminal. Para decidir si alguien puede saltear la primera semana de un curso, puede alcanzar. Para certificar que esa persona administra servidores, no: la conclusión va mucho más allá de lo que se observó. La prueba es la misma; lo que cambia es el uso, y con él la evidencia que hace falta.
 
 ## Las dos maneras de fallar
 
@@ -39,7 +39,7 @@ La subrepresentación es también lo que permite [enseñar para la prueba](infla
 
 Los Standards listan cinco fuentes de evidencia de validez. Se presentan como lo que se puede juntar, no como un listado de verificación: los propios Standards dicen que no lo son.
 
-| Fuente | Pregunta que contesta | Ejemplo en un curso |
+| Fuente | Pregunta que contesta | Ejemplo en un curso (ilustrativo) |
 |---|---|---|
 | Contenido | ¿Las tareas cubren lo que se quiere evaluar? | Comparar las preguntas con los objetivos del curso |
 | Procesos de respuesta | ¿La gente resuelve con el proceso que se cree? | Pedir a dos personas que piensen en voz alta mientras responden |

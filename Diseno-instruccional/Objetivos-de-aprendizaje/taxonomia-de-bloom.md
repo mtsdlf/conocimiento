@@ -41,9 +41,9 @@ Marcar en esa tabla dónde cae cada objetivo de un curso muestra de un vistazo s
 El original suponía «a cumulative hierarchy»: dominar cada categoría simple era prerrequisito de la siguiente. La revisión lo afloja: «the requirement of a strict hierarchy has been relaxed to allow the categories to overlap». Krathwohl da un ejemplo: explicar, que es de comprender, es más complejo que ejecutar, que es de aplicar. Aun así sostiene que los procesos forman una jerarquía, «probably one that would be supported as well as was the original Taxonomy in terms of empirical evidence».
 
 > [!IMPORTANT]
-> **Los procesos forman una jerarquía (Krathwohl 2002).** Con solapamientos, pero con el mismo respaldo empírico que el original.
+> **Los procesos forman una jerarquía (Krathwohl 2002).** Con solapamientos; Krathwohl cree que probablemente tenga el mismo respaldo empírico que el original.
 >
-> **La estructura acumulativa no se sostiene en los datos.** Estudios psicométricos (Furst 1981; Kreitzer y Madaus 1994; Booker 2007, citados en una tabla de *CBE-Life Sciences Education*; los originales no se abrieron) encontraron inconsistencias en la jerarquía. Las críticas de que la taxonomía no dice nada sobre cómo se aprende aparecen en notas de opinión, no en una revisión sistemática.
+> **La estructura acumulativa tiene problemas en los datos.** Estudios psicométricos (Furst 1981; Kreitzer y Madaus 1994; Booker 2007, citados en una tabla de *CBE-Life Sciences Education*; los originales no se abrieron) encontraron inconsistencias en la jerarquía. Las críticas de que la taxonomía no dice nada sobre cómo se aprende aparecen en notas de opinión, no en una revisión sistemática.
 
 ## Para qué usarla y para qué no
 

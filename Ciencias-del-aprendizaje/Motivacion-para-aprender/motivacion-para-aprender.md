@@ -30,19 +30,19 @@ Las notas de esta vertical se ordenan por palanca, no por teoría:
 |---|---|---|
 | Valor | Mostrar para qué sirve lo que se aprende | [Valor y expectativas](valor-y-expectativas.md) |
 | Autonomía | Dar opciones y razones en lugar de presión | [Apoyo a la autonomía](apoyo-a-la-autonomia.md) |
-| Creencia sobre la capacidad | Enseñar que la inteligencia se desarrolla | [Mentalidad de crecimiento](mentalidad-de-crecimiento.md) |
+| Creencia sobre la capacidad | Enseñar que la inteligencia se desarrolla con esfuerzo | [Mentalidad de crecimiento](mentalidad-de-crecimiento.md) |
 
-La palanca con más efecto medido es la autonomía, con la advertencia de que casi toda su evidencia viene del grupo que propuso la teoría. La de menos efecto es la más popular: la mentalidad de crecimiento como programa.
+De las tres, la autonomía tiene la evidencia más amplia, con la advertencia de que casi toda viene del grupo que propuso la teoría. La mentalidad de crecimiento como programa muestra el efecto promedio más chico.
 
 ## Qué se asocia con persistir
 
 El metaanálisis de Howard et al. (2021), con 344 muestras y 223.209 participantes, separa los tipos de motivación por lo que predicen. Según su abstract, la intrínseca se asocia con éxito y bienestar, el valor personal (regulación identificada) se asocia sobre todo con la persistencia, y la regulación externa, estudiar por premios o para evitar castigos, no se asocia con rendimiento ni con persistencia pero sí con menos bienestar.
 
-Para quien diseña un curso, la lectura es que la persistencia depende de que quien aprende se identifique con el valor de lo que hace. Es una correlación, no un experimento, y viene de estudiantes; aplicarla a adultos que aprenden un oficio es inferencia de esta base.
+Para quien diseña un curso, la lectura es que la persistencia va con que quien aprende se identifique con el valor de lo que hace. Es una asociación, sin diseño experimental, y viene de estudiantes; aplicarla a adultos que aprenden un oficio es inferencia de esta base.
 
 ## Cómo se conecta con el resto del tema
 
-La motivación decide si alguien llega a practicar lo suficiente para que operen la [memoria y la práctica](../Memoria-y-practica/memoria-y-practica.md). Se cruza con el [aprendizaje autorregulado](../Metacognicion-y-autorregulacion/aprendizaje-autorregulado.md), donde Sitzmann y Ely encontraron que la autoeficacia y la persistencia pesan más que planificar. Qué devolver para no apagar las ganas está en los [niveles de retroalimentación](../../Didactica/Retroalimentacion/niveles-de-retroalimentacion.md), en Didáctica. En chicos de 6 a 12, la escuela como contexto motivacional está en [escuela y aprendizaje](../../Psicologia-infantil/Contextos/escuela-y-aprendizaje.md).
+La motivación decide si alguien llega a practicar lo suficiente para que operen la [memoria y la práctica](../Memoria-y-practica/memoria-y-practica.md). Se cruza con el [aprendizaje autorregulado](../Metacognicion-y-autorregulacion/aprendizaje-autorregulado.md), donde Sitzmann y Ely encontraron que la autoeficacia y la persistencia pesan más que planificar. Qué tipo de devolución sirve está en los [niveles de retroalimentación](../../Didactica/Retroalimentacion/niveles-de-retroalimentacion.md), en Didáctica. En chicos de 6 a 12, la escuela como contexto motivacional está en [escuela y aprendizaje](../../Psicologia-infantil/Contextos/escuela-y-aprendizaje.md).
 
 ## Lo que la vertical todavía no cubre
 

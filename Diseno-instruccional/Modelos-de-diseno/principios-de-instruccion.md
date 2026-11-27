@@ -31,7 +31,7 @@ Merrill (2002) formula cinco principios con la misma fórmula, «Learning is pro
 4. **Aplican** lo nuevo.
 5. **Integran** lo nuevo en su mundo cotidiano.
 
-Merrill los presenta como prescriptivos (cómo diseñar) y no como descriptivos (cómo se aprende). La afirmación habitual de que sintetizan varias teorías de diseño no se confirmó, y la página del EduTechWiki que los resume señala que ella misma no cita datos empíricos. Marca también la diferencia con el aprendizaje basado en problemas: en Merrill las tareas vienen con demostración y guía.
+Merrill los presenta como prescriptivos (cómo diseñar) y no como descriptivos (cómo se aprende). La afirmación habitual de que sintetizan varias teorías de diseño no se confirmó, y la página del EduTechWiki que los resume señala que ella misma no cita datos empíricos. Marca también una diferencia con el aprendizaje basado en problemas, que los informes de esta base no detallan.
 
 ## Los nueve eventos de Gagné
 
@@ -65,4 +65,4 @@ Los autores describen los estudios como «generally low quality», con muestras 
 
 ## Cómo se usan sin sobrevenderlas
 
-Como lista de chequeo de una lección ya diseñada sirven: ¿hay una demostración?, ¿hay práctica con retroalimentación?, ¿se activó lo previo?, ¿la lección gira alrededor de una tarea? Lo que no sostienen es la promesa de que seguirlas al pie de la letra produce más aprendizaje que otra forma bien pensada. El segundo evento, informar los objetivos, tiene además su propia evidencia, chica y focalizada, en [objetivos de aprendizaje](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md).
+Por lectura de esta base, como lista de chequeo de una lección ya diseñada sirven: ¿hay una demostración?, ¿hay práctica con retroalimentación?, ¿se activó lo previo?, ¿la lección gira alrededor de una tarea? Lo que no sostienen es la promesa de que seguirlas al pie de la letra produce más aprendizaje que otra forma bien pensada. El segundo evento, informar los objetivos, tiene además su propia evidencia, chica y focalizada, en [objetivos de aprendizaje](../Objetivos-de-aprendizaje/objetivos-de-aprendizaje.md).

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La transferencia es usar lo aprendido en una situación distinta de aquella en que se aprendió. Es el fin de casi toda enseñanza y lo que más seguido falla: la transferencia cercana aparece con práctica, la lejana casi nunca aparece sola.
+  La transferencia es usar lo aprendido en una situación distinta de aquella en que se aprendió. Es el fin de casi toda enseñanza. Los metaanálisis de entrenamiento cognitivo encuentran mejoras cercanas e intermedias y casi ninguna lejana.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -17,21 +17,21 @@ revisado:
 
 # Transferencia
 
-La transferencia es usar lo aprendido en una situación distinta de aquella en que se aprendió. Es el fin de casi toda enseñanza y lo que más seguido falla: la transferencia cercana aparece con práctica, la lejana casi nunca aparece sola.
+La transferencia es usar lo aprendido en una situación distinta de aquella en que se aprendió. Es el fin de casi toda enseñanza. Los metaanálisis de entrenamiento cognitivo encuentran mejoras cercanas e intermedias y casi ninguna lejana.
 
-Es la vertical que mide si las otras sirvieron. El [conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md) y su organización deciden qué se puede llevar a otro lado; las [dificultades deseables](../Memoria-y-practica/dificultades-deseables.md) y el [intercalado](../Memoria-y-practica/intercalado.md) son, según sus autores, de las prácticas que más la favorecen; y la [ilusión de saber](../Metacognicion-y-autorregulacion/ilusion-de-saber.md) explica por qué quien aprende cree que va a poder usar algo que todavía no puede. La pregunta de la [entrada del tema](../ciencias-del-aprendizaje.md), por qué alguien entiende en clase y a la semana no puede usarlo, se contesta en buena parte acá.
+Es la vertical que mide si las otras sirvieron. El [conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md) y su organización deciden qué se puede llevar a otro lado; las [dificultades deseables](../Memoria-y-practica/dificultades-deseables.md) y el [intercalado](../Memoria-y-practica/intercalado.md) apoyan la retención y la transferencia, según Bjork y Bjork; y la [ilusión de saber](../Metacognicion-y-autorregulacion/ilusion-de-saber.md) puede llevar a creer que se va a poder usar algo que todavía no se puede. La pregunta de la [entrada del tema](../ciencias-del-aprendizaje.md), por qué alguien entiende en clase y a la semana no puede usarlo, se contesta en parte acá.
 
 ## De Thorndike a las dimensiones
 
 La primera explicación fue la de los elementos idénticos: Thorndike y Woodworth (1901) sostuvieron que lo aprendido se transfiere en la medida en que la situación nueva comparte elementos con la vieja (según un resumen de Wikipedia). De ahí viene la división clásica entre transferencia cercana, a situaciones parecidas, y lejana, a situaciones distintas.
 
-Barnett y Ceci (2002) mostraron que esa división es demasiado gruesa. Su taxonomía separa el contenido que se transfiere del contexto, y el contexto tiene varias dimensiones (ámbito físico, separación en el tiempo, ámbito social, forma de evaluar). Una situación puede ser cercana en una dimensión y lejana en otra; por eso, según ellos, estimar un único tamaño de efecto para "la transferencia lejana" no tiene sentido. El detalle está en [transferencia cercana y lejana](transferencia-cercana-y-lejana.md).
+Barnett y Ceci (2002) proponen que esa división es demasiado gruesa. Su taxonomía separa el contenido que se transfiere del contexto, y el contexto tiene varias dimensiones (ámbito físico, separación en el tiempo, ámbito social, forma de evaluar). Una situación puede ser cercana en una dimensión y lejana en otra; por eso, según ellos, estimar un único tamaño de efecto para "la transferencia lejana" no tiene sentido. El detalle está en [transferencia cercana y lejana](transferencia-cercana-y-lejana.md).
 
 ## Por qué falla tan seguido
 
-Sala y Gobet (2017) lo resumieron en una frase del abstract: "far transfer of learning rarely occurs". Los efectos que se reportan para el ajedrez, la música o el entrenamiento de la memoria de trabajo bajan a medida que mejora el diseño del estudio. El caso que más plata movió, los programas de entrenamiento cerebral, está en [entrenamiento cognitivo](entrenamiento-cognitivo.md).
+Sala y Gobet (2017) lo resumieron en una frase del abstract: "far transfer of learning rarely occurs". Los efectos que se reportan para el ajedrez, la música o el entrenamiento de la memoria de trabajo bajan a medida que mejora el diseño del estudio. El caso de los programas de entrenamiento cerebral está en [entrenamiento cognitivo](entrenamiento-cognitivo.md).
 
-La caída también aparece fuera de la escuela. En capacitación laboral, según un resumen de investigación que ya cita la base, los tamaños de efecto bajan mucho al pasar de medir lo aprendido a medir la conducta en el trabajo (ver [aprender por cuenta propia](../../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md)).
+La caída también aparece fuera de la escuela. En capacitación laboral, según un resumen de investigación que ya cita la base, los tamaños de efecto bajan al pasar de medir lo aprendido a medir la conducta en el trabajo (ver [aprender por cuenta propia](../../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md)).
 
 > [!NOTE] Sin fuente todavía: una fuente primaria leída que explique el mecanismo por el que la transferencia falla. Lo que hay son la taxonomía, los metaanálisis negativos y la lectura de Perkins y Salomon por resúmenes.
 
@@ -41,6 +41,6 @@ Perkins y Salomon distinguen dos caminos: el bajo, por práctica extensa y varia
 
 ## Lo que hay adentro de la transferencia
 
-- [Transferencia cercana y lejana](transferencia-cercana-y-lejana.md) — la taxonomía de Barnett y Ceci, para ubicar cualquier afirmación de "esto transfiere".
-- [Camino alto y camino bajo](camino-alto-y-camino-bajo.md) — los dos mecanismos de Perkins y Salomon y las prácticas que favorecen transferir.
-- [Entrenamiento cognitivo](entrenamiento-cognitivo.md) — el caso empírico en contra: entrenar memoria de trabajo, ajedrez o música no mejora la cognición general.
+- [Transferencia cercana y lejana](transferencia-cercana-y-lejana.md): la taxonomía de Barnett y Ceci, para ubicar cualquier afirmación de "esto transfiere".
+- [Camino alto y camino bajo](camino-alto-y-camino-bajo.md): los dos mecanismos de Perkins y Salomon y las prácticas que favorecen transferir.
+- [Entrenamiento cognitivo](entrenamiento-cognitivo.md): el caso empírico en contra: entrenar memoria de trabajo, ajedrez o música no mejora la cognición general.

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Una evaluación referida a norma dice cómo le fue a alguien comparado con los demás; una referida a criterio dice qué puede hacer, comparado con lo que había que saber. La distinción es de Glaser (1963), y un curso que enseña una habilidad casi siempre quiere la segunda.
+  Una evaluación referida a norma dice cómo le fue a alguien comparado con los demás; una referida a criterio dice qué puede hacer, comparado con lo que había que saber. La distinción es de Glaser (1963), y esta base parte de que un curso que enseña una habilidad necesita la segunda.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -14,7 +14,7 @@ revisado:
 
 # Referencia a norma y a criterio
 
-Una evaluación referida a norma dice cómo le fue a alguien comparado con los demás; una referida a criterio dice qué puede hacer, comparado con lo que había que saber. La distinción es de Glaser (1963), y un curso que enseña una habilidad casi siempre quiere la segunda.
+Una evaluación referida a norma dice cómo le fue a alguien comparado con los demás; una referida a criterio dice qué puede hacer, comparado con lo que había que saber. La distinción es de Glaser (1963), y esta base parte de que un curso que enseña una habilidad necesita la segunda.
 
 Es la primera decisión de la [calificación](calificacion-y-acreditacion.md): contra qué se compara lo observado. Glaser introdujo los dos términos en 1963, en *American Psychologist*; el artículo no se leyó, solo su registro.
 
@@ -30,11 +30,11 @@ Según Wikipedia, una prueba referida a criterio usa el puntaje para afirmar qu�
 | Para qué sirve | Seleccionar cuando hay lugares limitados | Certificar una habilidad, decidir si se avanza |
 | Preguntas que conviene incluir | Las que separan a unos de otros | Las que cubren lo que había que saber |
 
-Un matiz de la definición: el criterio es el dominio evaluado, no el punto de corte. «Aprueba con 60» no hace criterial a una prueba; lo hace que el 60 se interprete como «puede hacer estas cosas».
+La tabla es una síntesis de esta base a partir de la definición. Un matiz: el criterio es el dominio evaluado, no el punto de corte. «Aprueba con 60» no hace criterial a una prueba; lo hace que el 60 se interprete como «puede hacer estas cosas».
 
 ## Por qué un curso quiere criterio
 
-Un curso que enseña una habilidad quiere poder decir que todos la aprendieron. Con norma, eso es imposible por construcción: alguien queda último aunque sepa. Calificar «con curva», ajustar las notas para que se repartan de cierta forma, es referir a norma una evaluación que debería ser criterial. Es una inferencia de esta base, coherente con la definición.
+Esta base parte de que un curso que enseña una habilidad quiere poder decir que todos la aprendieron. Con norma, eso es imposible por construcción: alguien queda último aunque sepa. Calificar «con curva», ajustar las notas para que se repartan de cierta forma, es referir a norma una evaluación que debería ser criterial. Es una inferencia de esta base, coherente con la definición.
 
 La norma tiene su lugar cuando hay que elegir entre personas con cupo limitado: una beca, un puesto. También explica por qué la teoría psicométrica descarta preguntas que no separan, mientras que los [espacios de conocimiento](../Evaluacion-adaptativa/espacios-de-conocimiento.md) las conservan: los primeros buscan ordenar, los segundos saber qué se domina.
 

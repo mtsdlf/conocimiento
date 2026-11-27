@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La IA como atajo es usar un modelo de lenguaje para que haga la tarea o el razonamiento en lugar de quien aprende. Sube el rendimiento mientras se la usa y baja lo aprendido: en el único experimento con prueba posterior sin IA, el grupo con chat abierto rindió 17 % menos que quien nunca la usó.
+  La IA como atajo es usar un modelo de lenguaje para que haga la tarea o el razonamiento en lugar de quien aprende. Sube el rendimiento mientras se la usa y baja lo aprendido: en el experimento de Bastani et al., con prueba posterior sin IA, el grupo con chat abierto rindió 17 % menos que quien nunca la usó.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -17,21 +17,21 @@ revisado:
 
 # La IA como atajo
 
-La IA como atajo es usar un modelo de lenguaje para que haga la tarea o el razonamiento en lugar de quien aprende. Sube el rendimiento mientras se la usa y baja lo aprendido: en el único experimento con prueba posterior sin IA, el grupo con chat abierto rindió 17 % menos que quien nunca la usó.
+La IA como atajo es usar un modelo de lenguaje para que haga la tarea o el razonamiento en lugar de quien aprende. Sube el rendimiento mientras se la usa y baja lo aprendido: en el experimento de Bastani et al., con prueba posterior sin IA, el grupo con chat abierto rindió 17 % menos que quien nunca la usó.
 
-El mecanismo tiene nombre: descarga cognitiva (no confundir con la [carga cognitiva](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md), que es lo que ocupa la memoria de trabajo al aprender), pasarle a una herramienta un trabajo mental que de otro modo se haría en la cabeza. No es mala en sí (anotar en una agenda es descarga cognitiva), pero aprender consiste justamente en hacer ese trabajo. Lo que se aprende es lo que se practica recuperando y elaborando, como explica [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md); si la IA recupera y elabora, el alumno no.
+El mecanismo que proponen los estudios es la descarga cognitiva (no confundir con la [carga cognitiva](../../Diseno-instruccional/Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md), que es lo que ocupa la memoria de trabajo al aprender), pasarle a una herramienta un trabajo mental que de otro modo se haría en la cabeza. No es mala en sí (anotar en una agenda es descarga cognitiva), pero aprender consiste justamente en hacer ese trabajo. Lo que se aprende es lo que se practica recuperando y elaborando, como explica [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md); si la IA recupera y elabora, el alumno no.
 
 ## El experimento: rinde más durante, aprende menos después
 
 Bastani et al. (2025, *PNAS*, con revisión por pares) dieron GPT-4 a casi 1.000 alumnos de secundaria durante la práctica de matemática. Con un chat tipo ChatGPT rindieron 48 % más que el control mientras lo usaban. Cuando se lo sacaron, rindieron 17 % menos que el grupo que nunca lo tuvo. En los registros, la mayoría pedía la respuesta.
 
-Es la prueba más limpia del atajo porque mide lo que importa: la prueba posterior sin IA. Una medida tomada durante la tarea habría mostrado un éxito. La otra mitad del experimento, el tutor con guardas que no dio daño, está en [la IA como tutor](ia-como-tutor.md).
+Es la prueba más limpia del atajo de los tres estudios: mide la prueba posterior sin IA. Una medida tomada durante la tarea habría mostrado un éxito. La otra mitad del experimento, el tutor con guardas que no dio daño, está en [la IA como tutor](ia-como-tutor.md).
 
 ## Dos estudios que apuntan igual, con menos fuerza
 
-**Gerlich (2025)**, en *Societies*, encuestó y entrevistó a 666 personas. El uso frecuente de IA se correlacionó negativamente con el pensamiento crítico, y la descarga cognitiva apareció como mediadora; los más jóvenes mostraron más dependencia y menos pensamiento crítico. Es correlacional y autorreportado: no puede decir qué causa qué, porque alguien con menos pensamiento crítico puede depender más de la IA. Esta base no leyó el texto completo ni el detalle de una corrección posterior a la publicación.
+Gerlich (2025), en *Societies*, encuestó y entrevistó a 666 personas. El uso frecuente de IA se correlacionó negativamente con el pensamiento crítico, y la descarga cognitiva apareció como mediadora; los más jóvenes mostraron más dependencia y menos pensamiento crítico. Es correlacional y autorreportado: no puede decir qué causa qué, porque alguien con menos pensamiento crítico puede depender más de la IA. Esta base no leyó el texto completo ni el detalle de una corrección posterior a la publicación.
 
-**Kosmyna et al. («Your Brain on ChatGPT», MIT)** es un preprint sin revisión por pares. Compararon a personas que escribían ensayos con un modelo de lenguaje, con un buscador o sin herramientas: 54 participantes en las tres primeras sesiones y 18 en la cuarta. Con electroencefalograma, la conectividad cerebral bajó con las herramientas externas; quienes usaron el modelo sintieron menos autoría del ensayo y les costó más citar lo que habían escrito. Los autores lo resumen así: «Over four months, LLM users consistently underperformed at neural, linguistic, and behavioral levels».
+Kosmyna et al. («Your Brain on ChatGPT», MIT) es un preprint sin revisión por pares. Compararon a personas que escribían ensayos con un modelo de lenguaje, con un buscador o sin herramientas: 54 participantes en las tres primeras sesiones y 18 en la cuarta. Con electroencefalograma, la conectividad cerebral bajó con las herramientas externas; quienes usaron el modelo sintieron menos autoría del ensayo y les costó más citar lo que habían escrito. Los autores lo resumen así: «Over four months, LLM users consistently underperformed at neural, linguistic, and behavioral levels».
 
 > [!IMPORTANT]
 > **La IA genera «deuda cognitiva» (Kosmyna et al.).** Quien escribe con un modelo trabaja menos con la cabeza y retiene menos de lo que produjo.
@@ -44,7 +44,7 @@ Es la prueba más limpia del atajo porque mide lo que importa: la prueba posteri
 
 Los tres apuntan en la misma dirección, pero solo Bastani es un experimento con tarea de aprendizaje y prueba posterior sin IA. Gerlich muestra una asociación; Kosmyna, un patrón en pocas personas que se discute. Quien cite «la IA te hace más tonto» se apoya en los dos más débiles; quien cite «la IA sin guardas daña lo aprendido en la práctica» se apoya en el más fuerte.
 
-Todos son de escuela, universidad o voluntarios adultos en una tarea de laboratorio. El caso de quien aprende un oficio técnico tiene su versión en programación: [aprender a programar con IA](aprender-a-programar-con-ia.md).
+Ninguno es de adultos que aprenden un oficio técnico en su trabajo. El caso más cercano tiene su versión en programación: [aprender a programar con IA](aprender-a-programar-con-ia.md).
 
 ## Qué hacer con el atajo
 

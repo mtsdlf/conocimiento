@@ -36,7 +36,7 @@ La sumativa no tiene nota propia en esta vertical: lo que hay que saber de ella 
 
 ## Evaluar también enseña
 
-Hay un cuarto uso que no viene del campo de la medición sino de la psicología cognitiva: la prueba como intervención. Recuperar de memoria lo aprendido lo fija mejor que releerlo, el [efecto de testeo](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md). En la escuela anglosajona se lo llama a veces «evaluación como aprendizaje». Lo que cambia en el aula, y por qué una prueba de práctica no debería contar para la nota, está en [evaluación como aprendizaje](evaluacion-como-aprendizaje.md).
+Hay un cuarto uso que no viene del campo de la medición sino de la psicología cognitiva: la prueba como intervención. Recuperar de memoria lo aprendido lo fija mejor que releerlo, el [efecto de testeo](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md). Esta base lo llama «evaluación como aprendizaje». Lo que cambia en el aula, y por qué una prueba de práctica no debería contar para la nota, está en [evaluación como aprendizaje](evaluacion-como-aprendizaje.md).
 
 ## Cómo se confunden los propósitos
 

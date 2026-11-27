@@ -25,11 +25,11 @@ Encontraron que los videos cortos son «much more engaging», y que también eng
 
 El número es una recomendación de producción a partir de cuándo la gente deja de mirar, no un límite de la memoria ni de la atención. Hay tres razones para no leerlo como regla de aprendizaje:
 
-1. **Mide mirar, no aprender.** Que alguien mire hasta el final es condición para aprender del video, no prueba de que aprendió.
-2. **Es observacional.** Los videos largos eran además de otro tipo y de otros cursos, así que la duración no está aislada de lo demás.
-3. **No preguntó a los alumnos.** Los autores admiten que no recogieron respuestas directas de los estudiantes.
+1. Mide mirar, no aprender. Que alguien mire hasta el final es condición para aprender del video, no prueba de que aprendió.
+2. Es observacional. Los videos largos eran además de otro tipo y de otros cursos, así que la duración no está aislada de lo demás.
+3. No preguntó a los alumnos. Los autores admiten que no recogieron respuestas directas de los estudiantes.
 
-La recomendación es razonable como práctica de producción. Lo que no hace es probar que un video de cinco minutos enseña más que uno de quince con el mismo contenido.
+La recomendación es razonable como práctica de producción. Lo que no hace es probar que un video corto enseña más que uno largo con el mismo contenido.
 
 > [!NOTE]
 > Sin fuente todavía: evidencia experimental sobre aprendizaje con video, como las preguntas incrustadas en el video. No se buscó en esta ronda. Los principios de Mayer para combinar palabras e imágenes están en [principios multimedia](../../Diseno-instruccional/Materiales-y-carga-cognitiva/principios-multimedia.md), de Diseño instruccional, y la carga de la memoria de trabajo frente a una pantalla, en [carga cognitiva](../../UX/Percepcion-y-decision/carga-cognitiva.md), del tema UX.

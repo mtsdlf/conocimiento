@@ -18,15 +18,15 @@ El formato es cómo se entrega un curso, y se decide sobre tres ejes independien
 
 El formato recibe de la [secuencia](../Secuencia-y-curriculo/secuencia-y-curriculo.md) el recorrido y de los [materiales](../Materiales-y-carga-cognitiva/materiales-y-carga-cognitiva.md) lo que se va a usar, y decide cómo llega todo eso a quien aprende. La parte técnica de enseñar en línea (plataformas, cursos masivos y su abandono) está en [aprendizaje en línea](../../Tecnologia-educativa/Aprendizaje-en-linea/aprendizaje-en-linea.md), de Tecnología educativa.
 
-## Tres ejes, no una lista de formatos
+## Tres ejes
 
-Las etiquetas corrientes mezclan ejes: «bootcamp» es un contexto (intensivo, pago, orientado a empleo) que suele ser también presencial o en vivo y por cohorte; «curso en línea» dice el medio pero no el ritmo. Separarlos deja ver qué se sabe de cada decisión.
+Las etiquetas corrientes mezclan ejes: «bootcamp» es un contexto (según el material propio, cohorte intensiva y paga) que además fija el ritmo; «curso en línea» dice el medio pero no el ritmo. Separarlos deja ver qué se sabe de cada decisión.
 
 | Eje | Opciones | Qué evidencia hay | Nota |
 |---|---|---|---|
 | Medio | Presencial, en línea, mixto | Metaanálisis grandes: en línea empata con presencial; mixto rinde más, con una confusión de tiempo y recursos | [En línea, presencial y mixto](en-linea-presencial-y-mixto.md) |
 | Ritmo y estructura social | Cohorte o ritmo propio; sincrónico o asincrónico | Ninguna comparación de finalización encontrada; práctica de escuelas sin datos auditados | [Cohorte o ritmo propio](cohorte-o-ritmo-propio.md) |
-| Contexto | Curso aparte o aprendizaje en el trabajo | La proporción 70-20-10 no tiene respaldo; su creador la llamó folklore | [Aprender en el trabajo](aprender-en-el-trabajo.md) |
+| Contexto | Curso aparte o aprendizaje en el trabajo | La proporción 70-20-10 no tiene respaldo; uno de sus autores la llamó folklore | [Aprender en el trabajo](aprender-en-el-trabajo.md) |
 
 La división en tres ejes es una propuesta del informe de esta base, no de un manual.
 
@@ -34,7 +34,7 @@ La división en tres ejes es una propuesta del informe de esta base, no de un ma
 
 Dos formatos muy nombrados quedaron sin evidencia en esta base:
 
-- **Bootcamps.** No se encontró literatura revisada por pares sobre sus resultados. Las escuelas de este tipo no publican, en lo revisado, datos auditados de aprendizaje ni de inserción laboral. Se puede hablar del formato (cohorte intensiva, paga, de pocos meses) pero no de su efecto.
+- **Bootcamps.** No se encontró literatura revisada por pares sobre sus resultados. Según el material propio, las escuelas revisadas no publican datos auditados de aprendizaje, y una de ellas no publica su tasa de inserción. Se puede hablar del formato (cohorte intensiva y paga, según el material propio) pero no de su efecto.
 - **Microaprendizaje.** No se investigó su definición ni sus revisiones. La hipótesis a verificar es que la evidencia directa es escasa y que se apoya en la segmentación de Mayer, que es otra cosa: partir una explicación en partes que se avanzan al ritmo propio, no partir un curso en piezas de pocos minutos ([principios multimedia](../Materiales-y-carga-cognitiva/principios-multimedia.md)).
 
 ## Qué hay adentro de los formatos

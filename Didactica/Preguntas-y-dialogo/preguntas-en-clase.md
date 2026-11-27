@@ -29,7 +29,7 @@ Para preguntar por el proceso, Rosenshine da una lista de iniciadores que se com
 - «How are __ and __ alike?»
 - «What do you still not understand about __?»
 
-La guía del What Works Clearinghouse (Pashler et al. 2007) va en la misma dirección con más respaldo. Su recomendación 7 dice: «Use instructional prompts that encourage students to pose and answer "deep-level" questions on course material», y le asigna evidencia **fuerte**. En la misma guía, las preguntas previas a la lección (recomendación 5a) tienen evidencia mínima.
+La guía del What Works Clearinghouse (Pashler et al. 2007) va en la misma dirección con más respaldo. Su recomendación 7 dice: «Use instructional prompts that encourage students to pose and answer "deep-level" questions on course material», y le asigna evidencia fuerte. En la misma guía, las preguntas previas a la lección (recomendación 5a) tienen evidencia mínima.
 
 ## Comprobar que entendieron todos
 
@@ -41,13 +41,13 @@ Comprobar la comprensión es preguntar para decidir si seguir o volver a enseña
 4. Pedir que piensen en voz alta mientras resuelven.
 5. Pedir que defiendan una posición.
 
-Para que respondan todos y no solo el que levanta la mano, propone contarle la respuesta a un compañero, escribirla en una tarjeta y levantarla, o votar a mano alzada entre opciones. La pregunta «Are there any questions?» la presenta como la señal del docente poco eficaz: deja el diagnóstico en manos de quien todavía no sabe qué no sabe.
+Para que respondan todos y no solo el que levanta la mano, propone contarle la respuesta a un compañero, escribirla en una tarjeta y levantarla, o votar a mano alzada entre opciones. La pregunta «Are there any questions?» la presenta como la señal del docente poco eficaz: deja el diagnóstico en manos de quien todavía no sabe qué no sabe (razonamiento de esta base, no de Rosenshine).
 
 Con un grupo chico o una sola persona, la traducción práctica es evitar la pregunta global y pedir una producción: que explique el paso siguiente, que prediga qué hace un fragmento de código antes de correrlo, que resuma lo visto. Esto es una inferencia desde estudios escolares; ninguna fuente leída trata la mentoría de adultos.
 
 ## Tiempo de espera
 
-> [!NOTE] Sin fuente todavía: el trabajo clásico sobre cuánto esperar después de preguntar es Rowe (1986), «Wait time: slowing down may be a way of speeding up», *Journal of Teacher Education*. No se pudo leer, así que esta nota no da duraciones ni efectos.
+> [!NOTE] Sin fuente todavía: el trabajo clásico sobre cuánto esperar después de preguntar es Rowe (1986), «Wait time: slowing down may be a way of speeding up», *Journal of Teacher Education*. No se pudo leer, por eso no se dan duraciones ni efectos.
 
 ## Enseñanza dialógica
 

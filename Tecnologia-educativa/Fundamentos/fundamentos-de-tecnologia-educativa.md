@@ -20,7 +20,7 @@ Queda fuera de las cinco partes de [Tecnología educativa](../tecnologia-educati
 
 ## Leer la tecnología educativa con su historia
 
-La tecnología educativa tiene una historia larga de promesas grandes y resultados chicos, y conocerla cambia cómo se lee la próxima. Las computadoras en el aula se usaron poco (Cuban, 2001), los países que más invirtieron no mejoraron (OCDE, 2015), los cursos abiertos masivos terminaron sirviendo a quienes ya estaban educados (Reich y Ruipérez-Valiente, 2019). Los tutores inteligentes funcionan, pero menos a escala que en los primeros estudios. Los tutores con IA están empezando el mismo recorrido.
+La tecnología educativa tiene una historia larga de promesas grandes y resultados chicos, y conocerla cambia cómo se lee la próxima. Las computadoras en el aula se usaron poco (Cuban, 2001), los países que más invirtieron no mejoraron (OCDE, 2015), los cursos abiertos masivos terminaron sirviendo a quienes ya estaban educados (Reich y Ruipérez-Valiente, 2019). Los tutores inteligentes funcionan, pero menos a escala que en los primeros estudios. Como lectura de esta base, los tutores con IA empiezan un recorrido parecido.
 
 Por eso cada nota del tema dice qué midió cada estudio (uso o aprendizaje), con qué prueba, a qué escala y si tiene revisión por pares. Las preguntas para hacerlo están en [fuentes de tecnología educativa](fuentes-de-tecnologia-educativa.md).
 

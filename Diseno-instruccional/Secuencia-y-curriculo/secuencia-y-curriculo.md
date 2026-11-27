@@ -28,13 +28,13 @@ Recibe del [análisis previo](../Analisis-previo/analisis-previo.md) los prerreq
 | ¿De lo general a lo detallado, o en vueltas? | Contenidos de un dominio | Reigeluth (elaboración), Bruner (espiral) | [Secuencia de contenidos](secuencia-de-contenidos.md) |
 | ¿Qué tarea completa va primero? | Tareas auténticas enteras | van Merriënboer (clases de tareas), Reigeluth (condiciones simplificadoras) | [Secuencia por tareas completas](secuencia-por-tareas-completas.md) |
 
-Las dos primeras filas ordenan piezas de conocimiento; la tercera ordena tareas enteras, cada una de las cuales usa muchas piezas a la vez. La diferencia importa al diseñar: un temario por contenidos enseña los ladrillos y deja para el final la tarea que los junta; uno por tareas completas hace la tarea desde el primer día, simplificada, y va subiendo la complejidad. Qué conviene cuándo no tiene una comparación directa en las fuentes leídas.
+Las dos primeras filas ordenan piezas de conocimiento; la tercera ordena tareas enteras, cada una de las cuales usa muchas piezas a la vez. Una lectura de esta base sobre la diferencia: un temario por contenidos enseña los ladrillos y deja para el final la tarea que los junta; uno por tareas completas hace la tarea desde el primer día, simplificada, y va subiendo la complejidad. Qué conviene cuándo no tiene una comparación directa en las fuentes leídas.
 
 Una cuarta mirada atraviesa las tres: los [conceptos umbral](conceptos-umbral.md), los puntos del recorrido donde quien aprende se traba y que, una vez cruzados, cambian cómo ve el resto.
 
 ## Qué evidencia hay
 
-Poca y despareja. Las jerarquías de Gagné tuvieron un programa de validación en los 70 con fallas metodológicas; la teoría de la elaboración no tiene estudios de resultados encontrados; la espiral tiene casos descriptivos; 4C/ID tiene un metaanálisis con d = 0,79, que mide el modelo entero y no la secuencia sola. El grafo de prerrequisitos se usa mucho en plataformas sin evaluación comparada de resultados. Cada nota declara el estado de lo suyo.
+Poca y despareja. Las jerarquías de Gagné tuvieron un programa de validación en los 70 con fallas metodológicas; la teoría de la elaboración no tiene estudios de resultados encontrados; la espiral tiene casos descriptivos; 4C/ID tiene un metaanálisis con d = 0,79, que mide el modelo entero y no la secuencia sola. El grafo de prerrequisitos se usa mucho en plataformas sin evaluación comparada de resultados.
 
 ## Qué hay adentro de la secuencia
 

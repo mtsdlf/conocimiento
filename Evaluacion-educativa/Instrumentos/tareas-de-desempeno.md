@@ -35,7 +35,7 @@ Los Standards (2014) piden reportar la confiabilidad de las tareas abiertas «ov
 
 ## Corregir código y proyectos técnicos
 
-Corregir programas con tests automáticos es la forma más común de evaluar programación a escala. La revisión sistemática de Messer, Brown, Kölling y Shi (2023) analizó 121 artículos de 2017 a 2021. Según el resumen:
+Corregir programas con tests automáticos es lo que más hacen las herramientas de evaluación de programación. La revisión sistemática de Messer, Brown, Kölling y Shi (2023) analizó 121 artículos de 2017 a 2021. Según el resumen:
 
 - La mayoría de las herramientas evalúa si el programa es correcto.
 - Pocas evalúan legibilidad, mantenibilidad o documentación.

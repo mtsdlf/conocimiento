@@ -50,9 +50,9 @@ flowchart LR
 
 ## Casi toda la evidencia es escolar
 
-Los experimentos sobre notas, evaluación formativa, diagnóstico rápido y dominio se hicieron con escolares y universitarios, casi siempre en matemática. La única literatura con adultos en el trabajo es la de capacitación en organizaciones, que mide otras cosas (reacción, transferencia) y casi nunca con grupo de comparación. Cada nota dice cuándo extrapola a adultos o a la enseñanza de informática, y lo marca como inferencia.
+Los experimentos sobre notas, evaluación formativa, diagnóstico rápido y dominio se hicieron con escolares y universitarios, y los de evaluación adaptativa, sobre todo en matemática. La única literatura con adultos en el trabajo es la de capacitación en organizaciones, que mide otras cosas (reacción, transferencia) y casi nunca con grupo de comparación. Cada nota dice cuándo extrapola a adultos o a la enseñanza de informática, y lo marca como inferencia.
 
-La otra advertencia es de escala. Buena parte del campo (la teoría de respuesta al ítem, los tests adaptativos, el funcionamiento diferencial de los ítems) necesita cientos de personas. Quien enseña a un grupo chico se lleva las preguntas de esos métodos, no sus cálculos.
+La otra advertencia es de escala. Buena parte del campo (la teoría de respuesta al ítem, los tests adaptativos) necesita entre decenas y miles de personas, según el método. Quien enseña a un grupo chico se lleva las preguntas de esos métodos, no sus cálculos.
 
 ## Qué leer según lo que estés haciendo
 

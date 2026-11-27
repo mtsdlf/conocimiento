@@ -48,7 +48,7 @@ La cantidad y la frecuencia, por sí solas, no aparecen en ninguna fuente leída
 
 La teoría de Kluger y DeNisi explica los efectos negativos por dónde pone la atención el mensaje: en la tarea, en la motivación o en la persona. «FI effectiveness decreases as attention moves up the hierarchy closer to the self and away from the task.» Un comentario sobre quién es la persona («sos muy capaz», «esto no es lo tuyo») saca la atención del trabajo. Hattie y Timperley llegan a lo mismo por otro camino: el elogio a la persona da poca información.
 
-Toda esta evidencia es de escuelas, universidades y, en Kluger y DeNisi, también de desempeño en tareas fuera del aula. Que la regla de centrar la retroalimentación en la tarea valga para un mentor con un adulto es una inferencia, pero es de las más directas del tema.
+Ninguna fuente leída trata a un mentor con un adulto. Que la regla de centrar la retroalimentación en la tarea valga para un mentor con un adulto es una inferencia, pero es de las más directas del tema.
 
 ## Lo que hay adentro de la retroalimentación
 

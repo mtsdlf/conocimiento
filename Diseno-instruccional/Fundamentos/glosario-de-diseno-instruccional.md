@@ -35,7 +35,7 @@ Los términos de todo el área (aprendizaje, conductismo, constructivismo, tama�
 | Carga extrínseca | Lo que ocupa la memoria de trabajo por la forma del material, sin enseñar | [Carga cognitiva en el aprendizaje](../Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md) |
 | Carga intrínseca | La dificultad propia del contenido, por cuántos elementos interactúan | [Carga cognitiva en el aprendizaje](../Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md) |
 | Carga pertinente | El esfuerzo que construye esquemas; criticada como definición circular | [Carga cognitiva en el aprendizaje](../Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md) |
-| Clase de tareas | Grupo de tareas completas de igual complejidad, dentro del cual la ayuda baja | [Secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md) |
+| Clase de tareas | Grupo de tareas completas de complejidad similar; las clases van de la más simple a la más compleja | [Secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md) |
 | Cohorte | Grupo que empieza y avanza junto, con fechas | [Cohorte o ritmo propio](../Formatos/cohorte-o-ritmo-propio.md) |
 | Concepto umbral | Idea que transforma cómo se ve un dominio y donde la gente se traba | [Conceptos umbral](../Secuencia-y-curriculo/conceptos-umbral.md) |
 | Condiciones simplificadoras | Método de Reigeluth: arrancar por la versión más simple de la tarea completa | [Secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md) |

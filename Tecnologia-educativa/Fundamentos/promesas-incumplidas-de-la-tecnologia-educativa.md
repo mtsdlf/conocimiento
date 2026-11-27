@@ -27,7 +27,7 @@ Esta nota da la línea de tiempo y el patrón. Cada episodio tiene su desarrollo
 
 | Año | Qué pasó | Qué se prometió y qué quedó | Dónde se desarrolla |
 |---|---|---|---|
-| 1970 | SCHOLAR, de Carbonell, considerado el primer tutor inteligente | Un programa que enseñe como un tutor; quedó la arquitectura de piezas separadas | [Arquitectura de un tutor inteligente](../Tutores-inteligentes/arquitectura-de-un-tutor-inteligente.md) |
+| 1970 | SCHOLAR, de Carbonell, considerado el primer tutor inteligente | Quedó la separación del dominio y la interfaz, según Ma et al. | [Arquitectura de un tutor inteligente](../Tutores-inteligentes/arquitectura-de-un-tutor-inteligente.md) |
 | Principios de los 80 | Tutores cognitivos en Carnegie Mellon (geometría, LISP; Álgebra a principios de los 90) | Efectos de 0,4 a 0,8 en los metaanálisis; de 0 a 0,20 en el ensayo a escala de 2014 | [Evidencia de los tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md) |
 | 1983 y 1994 | Clark revisa los estudios de medios y concluye que el medio no influye; Kozma le responde | La pregunta de fondo del tema, todavía abierta | [Debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md) |
 | 1999 | Russell compila estudios de educación a distancia «sin diferencia significativa» | Cambiar el canal no cambió el resultado | [Debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md) |
@@ -44,10 +44,10 @@ Esta nota da la línea de tiempo y el patrón. Cada episodio tiene su desarrollo
 
 Cuban lo resumió en el título de su libro: sobrevendidas y subutilizadas. Lo que repiten los episodios de la tabla, como lectura de esta base:
 
-1. **La promesa se mide con el acceso y el resultado con el aprendizaje.** Se cuentan computadoras repartidas o inscriptos; después se mide qué se aprendió, y la distancia sorprende.
-2. **Los primeros estudios dan efectos grandes y los ensayos a escala, chicos.** Pasó con los tutores inteligentes (metaanálisis contra el ensayo de Pane) y empieza a pasar con los tutores de IA (Kestin contra Oreopoulos y Low).
-3. **El beneficio cae sobre quien ya estaba mejor.** Los MOOC terminaron sirviendo a gente ya educada de países ricos, según Reich y Ruipérez-Valiente; con IA, los novatos que ya iban bien sacan más provecho, según Prather et al. (en [aprender a programar con IA](../IA-en-la-educacion/aprender-a-programar-con-ia.md)).
-4. **La culpa se le pasa al docente.** Cuban advirtió que pedirles a los docentes que se esfuercen más desvía la mirada del mal diseño del software y de la organización.
+1. La promesa se mide con el acceso y el resultado con el aprendizaje. Se cuentan computadoras repartidas o inscriptos; después se mide qué se aprendió, y la distancia sorprende.
+2. Los primeros estudios dan efectos grandes y los ensayos a escala, chicos. Pasó con los tutores inteligentes (metaanálisis contra el ensayo de Pane) y empieza a pasar con los tutores de IA (Kestin contra Oreopoulos y Low).
+3. El beneficio cae sobre quien ya estaba mejor. Los MOOC terminaron sirviendo a gente ya educada de países ricos, según Reich y Ruipérez-Valiente; con IA, los novatos que ya iban bien sacan más provecho, según Prather et al. (en [aprender a programar con IA](../IA-en-la-educacion/aprender-a-programar-con-ia.md)).
+4. La culpa se le pasa al docente. Según una cita que se le atribuye (no cotejada con el libro), Cuban advirtió que pedirles a los docentes que se esfuercen más desvía la mirada del mal diseño del software y de la organización.
 
 > [!NOTE]
 > Sin fuente todavía: *Failure to Disrupt* (Reich, 2020), el libro que se suele citar para este patrón. No se leyó y no se le atribuye nada.

@@ -30,7 +30,7 @@ Howard et al. (2021) reunieron 344 muestras con 223.209 participantes y 26 resul
 | Externa (premios o evitar castigos) | Ni rendimiento ni persistencia; menos bienestar |
 | Amotivación | Malos resultados |
 
-La fila que más cambia cómo se enseña es la tercera. Estudiar para la nota o para no ser sancionado no se asocia con rendir mejor, y sí con estar peor. Es un metaanálisis correlacional: no muestra que bajar la presión externa suba el rendimiento, muestra cómo se distribuyen las asociaciones.
+La fila que más cambia cómo se enseña es la tercera. Estudiar para la nota o para no ser sancionado no se asocia con rendir mejor, y sí con estar peor. Según su abstract, son asociaciones; esta base no encontró que muestre que bajar la presión externa suba el rendimiento.
 
 ## Qué hace un docente que apoya la autonomía
 
@@ -41,7 +41,7 @@ Ryan y Deci (2020) sostienen que la motivación intrínseca y las formas extrín
 
 ## Cuánto mueve entrenar a los docentes
 
-Ryan y Deci citan a Su y Reeve (2011): diecinueve estudios en los que docentes recibieron entrenamiento para apoyar la autonomía, con un tamaño de efecto de 0,63 «hacia la mejora de los grupos de intervención». El texto no aclara si el efecto se midió sobre la conducta del docente o sobre los estudiantes, y esa diferencia es grande: cambiar cómo habla un docente es más fácil que cambiar cuánto aprenden sus alumnos. La cifra no debe usarse como efecto sobre el aprendizaje hasta leer a Su y Reeve.
+Ryan y Deci citan a Su y Reeve (2011): diecinueve estudios en los que docentes recibieron entrenamiento para apoyar la autonomía, con un tamaño de efecto de 0,63 «hacia la mejora de los grupos de intervención». El texto no aclara si el efecto se midió sobre la conducta del docente o sobre los estudiantes, y esa diferencia importa (como lectura de esta base, cambiar cómo enseña un docente es un resultado distinto de cambiar cuánto aprenden sus alumnos). La cifra no debe usarse como efecto sobre el aprendizaje hasta leer a Su y Reeve.
 
 ## Quién sostiene la evidencia
 
@@ -50,7 +50,7 @@ Ryan y Deci citan a Su y Reeve (2011): diecinueve estudios en los que docentes r
 >
 > **Falta una evaluación independiente.** Ryan y Deci escriben una revisión de su propia teoría, y Ryan es coautor de Howard et al. Esta base no encontró una revisión de la autodeterminación en educación hecha por un grupo ajeno. La lectura de Lazowski y Hulleman tampoco se verificó en su fuente.
 
-Lo que la base puede afirmar es la dirección: en estudiantes, la motivación propia se asocia con mejores resultados que la impuesta. El tamaño de efecto de enseñar distinto sigue sin una fuente independiente.
+Lo que la base puede afirmar es la asociación: en estudiantes, la motivación propia va con mejores resultados que la impuesta. El efecto de enseñar distinto sigue sin una fuente independiente.
 
 ## Aplicado a adultos y a cursos técnicos
 

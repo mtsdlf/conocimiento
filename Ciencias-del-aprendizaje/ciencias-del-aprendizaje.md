@@ -22,7 +22,7 @@ Las ciencias del aprendizaje estudian cómo una persona llega a saber y a saber 
 
 Es la base sobre la que se apoya el resto del área: la [didáctica](../Didactica/didactica.md) y el [diseño instruccional](../Diseno-instruccional/diseno-instruccional.md) deciden cómo enseñar a partir de lo que acá se sabe sobre cómo se aprende, la [evaluación educativa](../Evaluacion-educativa/evaluacion-educativa.md) decide cómo comprobarlo y la [tecnología educativa](../Tecnologia-educativa/tecnologia-educativa.md) pregunta qué cambia un medio. El mecanismo psicológico (condicionamiento, memoria, práctica espaciada y recuperación, experticia) vive en [Aprendizaje y memoria](../Psicologia/Aprendizaje-y-memoria/aprendizaje-y-memoria.md), del tema Psicología, y se enlaza; este tema lo mira desde la educación. El desarrollo de los chicos está en [Psicología infantil](../Psicologia-infantil/psicologia-infantil.md), y cómo estudia solo un adulto, en [aprender por cuenta propia](../Desarrollo-personal/Efectividad-personal/aprender-por-cuenta-propia.md).
 
-La idea que ordena todo el tema es que quien aprende no puede ver directamente su propio aprendizaje. Lo que se ve mientras se estudia es el rendimiento del momento, y ese rendimiento engaña: lo que se siente fácil deja poco, y lo que cuesta deja más (Bjork y Bjork, 2011). Casi todas las verticales son una variación de esa brecha.
+La idea que ordena todo el tema es que quien aprende no puede ver directamente su propio aprendizaje. Lo que se ve mientras se estudia es el rendimiento del momento, y ese rendimiento engaña: lo que se siente fácil puede dejar poco y lo que cuesta, más (Bjork y Bjork, 2011). Casi todas las verticales son una variación de esa brecha.
 
 ## De qué está hecho aprender
 

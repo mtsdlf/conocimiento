@@ -30,12 +30,13 @@ El modelo tiene dos fases. Primero, tres insumos producen aprendizaje y retenci�
 
 ```mermaid
 flowchart LR
-  A[Quien aprende] -->|trae capacidad y motivación a| L[Aprendizaje y retención]
+  A[Quien aprende] -->|produce| L[Aprendizaje y retención]
   D[Diseño del curso] -->|produce| L
-  W[Ambiente de trabajo] -->|da o niega oportunidad a| T[Generalización y mantenimiento]
-  L -->|se convierte en| T
-  A -->|sostiene| T
+  W[Ambiente de trabajo] -->|produce| L
+  L -->|condiciona| T[Generalización y mantenimiento]
 ```
+
+El resumen leído no detalla qué efecto directo tiene cada insumo sobre la transferencia.
 
 ## Qué predice que se use
 
@@ -57,6 +58,6 @@ Circula que «solo el 10 % de lo que se enseña en una capacitación se transfie
 
 ## Lo que queda para quien enseña
 
-Tres cosas del cuadro dependen de quien arma el curso: la utilidad percibida, el diseño realista y el seguimiento. La oportunidad de practicar en el trabajo no depende del curso, y el metaanálisis de Blume dice que pesa. Que un curso corto de una herramienta (habilidad cerrada) dependa menos del ambiente que uno de liderazgo es lo que encontró Blume; trasladarlo a un curso concreto es inferencia.
+Inferencia de esta base: tres cosas del cuadro dependen de quien arma el curso, la utilidad percibida, el diseño realista y el seguimiento. La oportunidad de practicar en el trabajo no depende del curso, y Grossman y Salas la cuentan entre los factores más fuertes. Que un curso corto de una herramienta (habilidad cerrada) dependa menos del ambiente que uno de liderazgo es lo que encontró Blume; trasladarlo a un curso concreto es inferencia.
 
 > [!NOTE] Sin fuente todavía: los tamaños de efecto de Blume et al. (2010) y el texto de Baldwin y Ford (1988).

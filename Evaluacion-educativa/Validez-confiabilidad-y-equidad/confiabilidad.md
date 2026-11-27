@@ -30,19 +30,19 @@ Los Standards (2014) usan «reliability/precision» para «the more general noti
 | Cuándo se rindió | Pruebas cortas, un solo momento | Más de una ocasión |
 | Azar al responder | [Opción múltiple](../Instrumentos/opcion-multiple.md) con pocas preguntas | Más preguntas |
 
-La regla de los Standards es de proporción: «the need for precision increases as the consequences of decisions and interpretations grow in importance». Una pregunta al grupo para decidir si se repasa algo no necesita la precisión de un examen que certifica.
+La tabla es una síntesis de esta base. La regla de los Standards es de proporción: «the need for precision increases as the consequences of decisions and interpretations grow in importance». Una pregunta al grupo para decidir si se repasa algo no necesita la precisión de un examen que certifica.
 
 ## Calibrar a los correctores
 
 El estándar 6.9 pide documentar el control de calidad de la corrección, entrenar a quienes corrigen y monitorear la calidad. El comentario agrega: «Procedures should be instituted to calibrate scorers (human or machine) prior to operational scoring, and to monitor how consistently scorers are scoring». La consistencia se suele revisar volviendo a corregir de forma independiente respuestas elegidas al azar.
 
-Aplicado a un curso con más de una persona que corrige, eso da tres pasos:
+Aplicado a un curso con más de una persona que corrige, eso da tres pasos (inferencia de esta base, no un procedimiento validado):
 
 1. Antes de corregir, corrijan juntos tres o cuatro trabajos con la rúbrica y discutan cada diferencia.
 2. Durante, que cada uno corrija a ciegas una muestra de lo que corrigió el otro.
 3. Si las diferencias crecen, paren y vuelvan al paso 1.
 
-Sobre los errores típicos de los correctores (el efecto halo, la indulgencia), la evidencia que se encontró viene de la psicología del trabajo, no de la medición educativa, y solo por resumen. Según ese resumen, entrenar para evitar esos errores bajó el halo sin mejorar la exactitud, y entrenar directamente en exactitud dio mejores resultados. Los mismos errores aparecen en la [evaluación del desempeño](../../Liderazgo-y-direccion/Gestion-de-personas/evaluacion-del-desempeno.md) de empleados.
+Sobre los errores típicos de los correctores (el efecto halo, la indulgencia), la evidencia que se encontró viene de la psicología del trabajo, no de la medición educativa, y solo por resumen. Según ese resumen, entrenar para evitar esos errores bajó el halo sin mejorar la exactitud, y entrenar solo en exactitud dio mejores resultados que combinarlo con lo anterior. Los mismos errores aparecen en la [evaluación del desempeño](../../Liderazgo-y-direccion/Gestion-de-personas/evaluacion-del-desempeno.md) de empleados.
 
 ## Grupos chicos
 

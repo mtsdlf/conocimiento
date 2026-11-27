@@ -32,7 +32,7 @@ Los mitos generales del aprendizaje (los estilos de aprendizaje, la pirámide de
 | Se puede atender bien a varias cosas a la vez | Lo que existe es alternar entre tareas, con un costo; la asociación entre multitarea mediática crónica y peor desempeño está, pero la causa se discute | Se achicó |
 | Más computadoras en la escuela dan mejores resultados | OCDE (2015): poca evidencia sólida de que más uso dé mejores puntajes; los países que más invirtieron no mejoraron de forma apreciable | Cayó como promesa de acceso |
 | Un video educativo tiene que durar menos de seis minutos para que se aprenda | Guo et al. (2014) midieron cuánto se mira, no cuánto se aprende, en un estudio observacional | Se matizó: es una recomendación de producción |
-| Si casi nadie termina un curso abierto, el curso en línea no enseña | La mitad de los inscriptos nunca entra; entre quienes cursan, en línea rinde igual o algo mejor que presencial | Se matizó |
+| Si casi nadie termina un curso abierto, el curso en línea no enseña | La mitad de los inscriptos nunca entra; en los estudios de cursos en línea hasta 2008, quienes cursaron rindieron igual o algo mejor que en presencial | Se matizó |
 
 ## Nativos digitales
 
@@ -55,7 +55,7 @@ La parte de diseño no depende de la disputa: un curso o una clase que reparte l
 
 ## Los mitos de la promesa
 
-Los otros tres de la tabla no son creencias sobre la mente sino lecturas apuradas de un dato. Más computadoras no es más aprendizaje: [acceso y uso de la tecnología](../Medios-y-aprendizaje/acceso-y-uso-de-la-tecnologia.md). Seis minutos es un umbral de atención, no de aprendizaje: [video educativo](../Aprendizaje-en-linea/video-educativo.md). La baja finalización mezcla curiosos con alumnos: [finalización de los MOOC](../Aprendizaje-en-linea/finalizacion-de-mooc.md). Lo que tienen en común está en [promesas incumplidas de la tecnología educativa](promesas-incumplidas-de-la-tecnologia-educativa.md).
+Los otros tres de la tabla son lecturas apuradas de un dato, más que creencias sobre la mente. Más computadoras no es más aprendizaje: [acceso y uso de la tecnología](../Medios-y-aprendizaje/acceso-y-uso-de-la-tecnologia.md). Seis minutos es un umbral de atención, no de aprendizaje: [video educativo](../Aprendizaje-en-linea/video-educativo.md). La baja finalización mezcla curiosos con alumnos: [finalización de los MOOC](../Aprendizaje-en-linea/finalizacion-de-mooc.md). Lo que tienen en común está en [promesas incumplidas de la tecnología educativa](promesas-incumplidas-de-la-tecnologia-educativa.md).
 
 > [!NOTE]
 > Lo de nativos digitales y multitarea sale de resúmenes del buscador; los artículos no se leyeron enteros. Falta un metaanálisis de multitarea.

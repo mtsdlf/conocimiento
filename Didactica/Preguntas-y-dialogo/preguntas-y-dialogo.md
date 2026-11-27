@@ -25,7 +25,7 @@ Dentro de [Didáctica](../didactica.md), las preguntas son piezas de la secuenci
 
 Una pregunta en clase sirve para elaborar (quien responde tiene que conectar, comparar, explicar) o para diagnosticar (quien enseña ve si hay que reenseñar). Rosenshine da los dos fines para las mismas técnicas: pedir un resumen, pedir que repitan las instrucciones, preguntar si están de acuerdo con la respuesta de otro. Una pregunta bien elegida hace las dos cosas a la vez.
 
-Lo que separa a los docentes eficaces en los estudios que resume Rosenshine es la cantidad y el tipo: hacen más preguntas, piden que se explique el proceso y verifican la respuesta de todos. Los menos eficaces preguntan «Are there any questions?» y siguen. La pregunta global no diagnostica nada, porque quien no entendió no suele saber qué preguntar.
+Lo que separa a los docentes eficaces en los estudios que resume Rosenshine es la cantidad y el tipo: hacen más preguntas, piden que se explique el proceso y verifican la respuesta de todos. Los menos eficaces preguntan «Are there any questions?» y siguen. La pregunta global no diagnostica nada; la razón, que quien no entendió no suele saber qué preguntar, es razonamiento de esta base.
 
 ## Cuánto respaldo tiene cada técnica
 

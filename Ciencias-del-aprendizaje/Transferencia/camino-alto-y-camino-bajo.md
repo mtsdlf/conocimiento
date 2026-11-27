@@ -22,11 +22,11 @@ Lo que sigue sobre Perkins y Salomon viene de resúmenes secundarios; sus artíc
 
 ## Dos maneras de llevar algo a otro lado
 
-El **camino bajo** es la transferencia refleja. Una habilidad practicada mucho y en situaciones variadas se vuelve automática, y se dispara sola cuando aparece una situación parecida. Quien manejó muchos autos maneja una camioneta sin pensar; quien escribió muchas consultas a una base de datos reconoce el patrón en otra.
+El camino bajo es la transferencia refleja. Una habilidad practicada mucho y en situaciones variadas se vuelve automática, y se dispara sola cuando aparece una situación parecida. Ejemplos ilustrativos de esta base: quien manejó muchos autos maneja una camioneta sin pensar, y quien escribió muchas consultas a una base de datos reconoce el patrón en otra.
 
-El **camino alto** es la transferencia deliberada. Quien aprende saca a propósito el principio de un caso y lo aplica en otro que en la superficie no se parece. Puede ir hacia adelante (al aprender, pensar dónde más va a servir) o hacia atrás (ante un problema nuevo, buscar qué de lo ya sabido se aplica).
+El camino alto es la transferencia deliberada. Quien aprende saca a propósito el principio de un caso y lo aplica en otro que en la superficie no se parece. Puede ir hacia adelante (al aprender, pensar dónde más va a servir) o hacia atrás (ante un problema nuevo, buscar qué de lo ya sabido se aplica).
 
-Los dos caminos responden a lo que mide la [transferencia cercana y lejana](transferencia-cercana-y-lejana.md): el bajo cubre bien lo cercano y casi nada lo lejano; el alto es el único que llega lejos, y exige esfuerzo y abstracción.
+Los dos caminos se pueden ubicar en la [transferencia cercana y lejana](transferencia-cercana-y-lejana.md). Como lectura de esta base, el bajo serviría para lo cercano y el alto, que exige esfuerzo y abstracción, para lo lejano; ninguna fuente leída lo comprueba.
 
 ## Abrazar y tender puentes
 
@@ -37,19 +37,19 @@ De esos dos caminos Perkins y Salomon derivan dos estrategias de enseñanza:
 | Abrazar (*hugging*) | Bajo | Hace que la práctica se parezca a la situación en que se va a usar lo aprendido |
 | Tender puentes (*bridging*) | Alto | Hace explícita la conexión con otros contextos, con analogías y preguntas sobre dónde más se aplica |
 
-En un curso de programación, abrazar sería practicar con código y herramientas como las del trabajo; tender puentes, preguntar qué otro problema tiene la misma estructura que el que se acaba de resolver. Los ejemplos son de esta base, no de los autores.
+Ejemplos ilustrativos de esta base, no de los autores: en un curso de programación, abrazar sería practicar con código y herramientas como las del trabajo, y tender puentes, preguntar qué otro problema tiene la misma estructura que el que se acaba de resolver.
 
 ## La recuperación transfiere, con condiciones
 
-Pan y Rickard (2018) metaanalizaron si lo aprendido testeándose sirve fuera de las preguntas practicadas: 192 tamaños de efecto, 122 experimentos y 10.382 participantes, con una transferencia de d = 0,40 (IC 95 % [0,31; 0,50]). El efecto fue mayor al cambiar de formato de prueba y hacia preguntas de aplicación e inferencia, y más débil con ejemplos resueltos.
+Pan y Rickard (2018) metaanalizaron si lo aprendido testeándose sirve fuera de las preguntas practicadas, según su abstract: 192 tamaños de efecto, 122 experimentos y 10.382 participantes, con una transferencia de d = 0,40 (IC 95 % [0,31; 0,50]). El efecto fue mayor al cambiar de formato de prueba y hacia preguntas de aplicación e inferencia, y más débil con ejemplos resueltos.
 
-La condición importa. Tras corregir el sesgo de publicación, el abstract dice que los resultados "often indicating no positive transfer when none of the aforementioned moderators are present". La recuperación no transfiere por sí sola: lo hace cuando la práctica ya pide algo parecido a lo que se va a pedir después. Cómo funciona la recuperación está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md), y su uso en cursos en [evaluación como aprendizaje](../../Evaluacion-educativa/Propositos/evaluacion-como-aprendizaje.md).
+Hay una condición. Tras corregir el sesgo de publicación, el abstract dice que los resultados van "often indicating no positive transfer when none of the aforementioned moderators are present": sin los moderadores que mejoran la transferencia (otro formato de prueba, preguntas de aplicación e inferencia), muchas veces no hay transferencia positiva. Cómo funciona la recuperación está en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md), y su uso en cursos en [evaluación como aprendizaje](../../Evaluacion-educativa/Propositos/evaluacion-como-aprendizaje.md).
 
 ## Variar las condiciones y organizar en un marco
 
-Bjork y Bjork (2011) incluyen variar las condiciones de práctica y el intercalado entre las [dificultades deseables](../Memoria-y-practica/dificultades-deseables.md) que apoyan la retención y la transferencia. El dato más citado del capítulo: con práctica intercalada de volúmenes de sólidos, a la semana se resolvió el 63 % de problemas nuevos frente al 20 % con práctica en bloque (Rohrer y Taylor 2007, recogido por ellos). El detalle está en [intercalado](../Memoria-y-practica/intercalado.md).
+Bjork y Bjork (2011) incluyen variar las condiciones de práctica y el intercalado entre las [dificultades deseables](../Memoria-y-practica/dificultades-deseables.md) que apoyan la retención y la transferencia. Un dato del capítulo: con práctica intercalada de volúmenes de sólidos, a la semana se resolvió el 63 % de problemas nuevos frente al 20 % con práctica en bloque (Rohrer y Taylor 2007, recogido por ellos). El detalle está en [intercalado](../Memoria-y-practica/intercalado.md).
 
-*How People Learn* (NRC 2000) agrega la parte de la organización: "organizing information into a conceptual framework allows for greater transfer", según el extracto que trajo el buscador. Saber datos sueltos no alcanza; lo que se transfiere es lo que está conectado a un principio, que es lo que construye el camino alto. Cómo se arma ese marco sobre lo que ya se sabe está en [conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md).
+*How People Learn* (NRC 2000) agrega la parte de la organización: "organizing information into a conceptual framework allows for greater transfer", según el extracto que trajo el buscador. Como lectura de esta base, eso encaja con el camino alto: lo que se transfiere es lo que está conectado a un principio. Cómo se arma ese marco sobre lo que ya se sabe está en [conocimiento previo](../Conocimiento-previo-y-comprension/conocimiento-previo.md).
 
 ## Cómo se enseña para transferir
 

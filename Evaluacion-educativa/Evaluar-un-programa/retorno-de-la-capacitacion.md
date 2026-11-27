@@ -21,7 +21,7 @@ Extiende los [niveles de Kirkpatrick](niveles-de-kirkpatrick.md) a un quinto niv
 
 ## La metodología de Phillips
 
-Según materiales de la profesión (Training Industry y ATD; los libros de Phillips no se leyeron), Phillips agrega a los cuatro niveles un nivel 0 (insumos) y un nivel 5 (retorno), y una etapa para aislar el efecto del programa. Las técnicas para aislar van de las más fuertes a las más débiles: grupo de control, análisis de tendencia, pronóstico y estimaciones de los participantes. Las estimaciones se ajustan por la confianza que declara cada participante, y se usan «only when other methods are unavailable or too time-consuming».
+Según materiales de la profesión (Training Industry y ATD; los libros de Phillips no se leyeron), Phillips agrega a los cuatro niveles un nivel 0 (insumos) y un nivel 5 (retorno), y una etapa para aislar el efecto del programa. Las técnicas para aislar son el grupo de control, el análisis de tendencia, el pronóstico y las estimaciones de los participantes. Las estimaciones se ajustan por la confianza que declara cada participante, y se usan «only when other methods are unavailable or too time-consuming».
 
 Esos mismos materiales reconocen los límites: una estimación es solo una estimación, algunos participantes no saben qué factores contribuyeron, y separar el efecto del curso de los cambios del mercado o de la operación es uno de los desafíos principales. Son fuentes de la profesión, sin distancia crítica.
 

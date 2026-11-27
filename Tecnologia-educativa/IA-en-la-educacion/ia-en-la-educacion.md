@@ -22,7 +22,7 @@ Dentro de [Tecnología educativa](../tecnologia-educativa.md) es la parte más n
 
 ## Por qué se divide por rol y no por producto
 
-La IA generativa no es un mecanismo de aprendizaje nuevo: es una tecnología que puede cumplir roles que ya existían. En el experimento de Bastani et al. (2025), el mismo modelo, GPT-4, subió el rendimiento durante la práctica en los dos grupos que lo usaron, y al sacarlo dejó a uno 17 % por debajo del control y al otro igual que el control. Lo que cambió fue el rol: en un grupo hacía la tarea, en el otro guiaba sin dar la respuesta. Es el [debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md) con otra tecnología.
+La IA generativa puede cumplir roles que ya existían, sin ser un mecanismo de aprendizaje nuevo. En el experimento de Bastani et al. (2025), el mismo modelo, GPT-4, subió el rendimiento durante la práctica en los dos grupos que lo usaron, y al sacarlo dejó a uno 17 % por debajo del control y al otro igual que el control. Lo que cambió fue el rol: en un grupo hacía la tarea, en el otro guiaba sin dar la respuesta. Es el [debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md) con otra tecnología.
 
 | Rol | Qué hace la IA | Qué muestra la evidencia | Nota |
 |---|---|---|---|
@@ -36,9 +36,9 @@ Aprender a programar con IA cruza los tres roles y es el caso más cercano a ens
 
 Tres advertencias valen para todas las notas de la vertical:
 
-1. **Es escolar o universitaria.** Matemática de secundaria, física de primer año, inglés en Nigeria, programación inicial. Ningún estudio leído es de adultos que aprenden un oficio técnico en su trabajo; llevarlo a ese caso es inferencia.
-2. **Mucho no tiene revisión por pares.** Varios estudios son preprints de arXiv o documentos de trabajo del NBER o del Banco Mundial, y algunos tienen al proveedor del modelo como coautor. Cada nota lo marca.
-3. **Las herramientas envejecen rápido.** Un estudio con un modelo de 2023 dice poco del modelo de hoy, pero sí del rol: la diferencia entre guiar y resolver no depende de la versión.
+1. Es escolar o universitaria. Matemática de secundaria, física de primer año, inglés en Nigeria, programación inicial. Ningún estudio leído es de adultos que aprenden un oficio técnico en su trabajo; llevarlo a ese caso es inferencia.
+2. Mucho no tiene revisión por pares. Varios estudios son preprints de arXiv o documentos de trabajo del NBER o del Banco Mundial, y algunos tienen al proveedor del modelo como coautor. Cada nota lo marca.
+3. Las herramientas envejecen rápido. Un estudio con un modelo de 2023 dice poco del modelo de hoy. Como hipótesis de esta base, la diferencia entre guiar y resolver se mantiene entre versiones; ningún estudio leído lo probó con modelos nuevos.
 
 > [!NOTE]
 > Sin fuente todavía: un metaanálisis general del uso de ChatGPT en el aprendizaje (se buscaba Wang y Fan, 2025). No se cita ninguno.

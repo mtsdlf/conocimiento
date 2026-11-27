@@ -19,11 +19,11 @@ revisado:
 
 Metacognición y autorregulación es la parte del aprendizaje en que quien aprende se mira a sí mismo: juzga cuánto sabe y dirige su propio estudio. Son dos literaturas distintas que suelen nombrarse juntas: la de los juicios y la calibración, y la del ciclo de planificar, ejecutar y reflexionar.
 
-Esta vertical explica por qué la gente estudia mal aun teniendo a mano las técnicas que funcionan. Recibe de [Memoria y práctica](../Memoria-y-practica/aprendizaje-y-rendimiento.md) la distinción entre lo que se ve mientras se practica y lo que se aprende, y muestra cómo esa distinción engaña a quien aprende. Se cruza con [Motivación para aprender](../Motivacion-para-aprender/motivacion-para-aprender.md), porque en el aprendizaje autorregulado la meta y la autoeficacia pesan tanto como la estrategia. La autorregulación en general (autocontrol, procrastinación) vive en [Autorregulación](../../Psicologia/Autorregulacion/autorregulacion.md), del tema Psicología; acá se trata solo la que se aplica a aprender.
+Esta vertical explica por qué la gente estudia mal aun teniendo a mano las técnicas que funcionan. Recibe de [Memoria y práctica](../Memoria-y-practica/aprendizaje-y-rendimiento.md) la distinción entre lo que se ve mientras se practica y lo que se aprende, y muestra cómo esa distinción engaña a quien aprende. Se cruza con [Motivación para aprender](../Motivacion-para-aprender/motivacion-para-aprender.md), porque en capacitación laboral la meta y la autoeficacia se asociaron más con aprender que planificar o monitorear. La autorregulación en general (autocontrol, procrastinación) vive en [Autorregulación](../../Psicologia/Autorregulacion/autorregulacion.md), del tema Psicología; acá se trata solo la que se aplica a aprender.
 
 ## Dos tradiciones con el mismo nombre de familia
 
-La metacognición, en la definición de Flavell (1979) que recoge Wikipedia, es "knowledge about cognition and control of cognition": saber qué se sabe y regularlo. En la práctica, su literatura estudia los juicios: cuánto cree alguien que aprendió, cuán seguro está de una respuesta, y cuánto coincide eso con lo que después rinde. Se publica en revistas como *Metacognition and Learning* y su objeto es medible en laboratorio.
+La metacognición, en la definición de Flavell (1979) según Wikipedia, es "knowledge about cognition and control of cognition": saber qué se sabe y regularlo. En la práctica, su literatura estudia los juicios: cuánto cree alguien que aprendió, cuán seguro está de una respuesta, y cuánto coincide eso con lo que después rinde. Se publica en revistas como *Metacognition and Learning*.
 
 La autorregulación del aprendizaje viene de otra tradición, la de Zimmerman y Winne: un ciclo de planificar, ejecutar y reflexionar, con la motivación adentro. Su objeto es el estudiante que se pone metas, elige estrategias y persiste.
 
@@ -37,18 +37,18 @@ Tratarlas juntas es una simplificación que esta base asume porque la autorregul
 
 ## Por qué quien aprende se equivoca sobre su aprendizaje
 
-Bjork, Dunlosky y Kornell (2013) lo resumen en su abstract: la gente "often [has] a faulty mental model of how they learn and remember, making them prone to both misassessing and mismanaging their own learning". Juzga por lo que siente ahora, por la fluidez con que lee y por lo fácil que le resulta la práctica, y esas señales apuntan al revés de lo que funciona. Releer se siente mejor que testearse; practicar en bloque se siente mejor que intercalar; una clase activa se siente peor que una exposición clara. Los tres casos están en [ilusión de saber](ilusion-de-saber.md).
+Bjork, Dunlosky y Kornell (2013) lo resumen en su abstract: la gente "often [has] a faulty mental model of how they learn and remember, making them prone to both misassessing and mismanaging their own learning". Juzga por lo que siente ahora, por la fluidez con que lee y por lo fácil que le resulta la práctica, y esas señales apuntan al revés de lo que funciona. Releer se siente mejor que testearse; practicar en bloque se siente mejor que intercalar; una clase activa se siente peor que una exposición pasiva. Los tres casos están en [ilusión de saber](ilusion-de-saber.md).
 
-La consecuencia es doble. Quien cree saber deja de estudiar antes de tiempo (es un problema de [calibración](calibracion.md)), y quien juzga mal las técnicas elige las que rinden menos (es un problema de autorregulación). Por eso enseñar las técnicas no alcanza: hay que enseñar también a desconfiar de la sensación de dominio.
+La consecuencia es doble. Quien cree saber deja de estudiar antes de tiempo (es un problema de [calibración](calibracion.md)), y quien juzga mal las técnicas elige las que rinden menos (es un problema de autorregulación). Como inferencia de esta base, enseñar las técnicas no alcanzaría: habría que enseñar también a desconfiar de la sensación de dominio.
 
 ## Cuánto rinde enseñarlo
 
-El Toolkit de la EEF ubica la metacognición y la autorregulación entre las prácticas de más efecto y menor costo. El número circula en dos versiones: +8 meses de progreso por año en la página actual, según el buscador, y +7 en otras páginas y en la noticia de su guía (primaria +8, secundaria +7). La evidencia figura como "alta", aunque muchos estudios no tuvieron evaluación independiente. Cómo leer esos meses está en [Fundamentos](../Fundamentos/fundamentos-de-ciencias-del-aprendizaje.md). El detalle de los metaanálisis está en [aprendizaje autorregulado](aprendizaje-autorregulado.md).
+Según el buscador, el Toolkit de la EEF da a la metacognición y la autorregulación un costo muy bajo, y el efecto circula en dos versiones: +8 meses de progreso por año en la página actual, según el buscador, y +7 en otras páginas y en la noticia de su guía (primaria +8, secundaria +7). La evidencia figura como "alta", aunque muchos estudios no tuvieron evaluación independiente. Cómo leer esos meses está en [Fundamentos](../Fundamentos/fundamentos-de-ciencias-del-aprendizaje.md). El detalle de los metaanálisis está en [aprendizaje autorregulado](aprendizaje-autorregulado.md).
 
 > [!NOTE] Sin fuente todavía: el número vigente de la EEF leído en la página (dio 403) y las siete recomendaciones de su guía *Metacognition and self-regulated learning*.
 
 ## Lo que hay adentro
 
-- [Ilusión de saber](ilusion-de-saber.md) — por qué la fluidez y la facilidad hacen creer que se aprendió, y por qué el esfuerzo se lee como fracaso. Metacognición.
-- [Calibración](calibracion.md) — cuánto coincide lo que alguien cree saber con lo que sabe, la sobreconfianza que frena el estudio y el Dunning-Kruger aplicado a estudiantes. Metacognición.
-- [Aprendizaje autorregulado](aprendizaje-autorregulado.md) — el ciclo de Zimmerman, qué pesa de verdad según Sitzmann y Ely, y cuánto rinde enseñarlo. Autorregulación.
+- [Ilusión de saber](ilusion-de-saber.md): por qué la fluidez y la facilidad hacen creer que se aprendió, y por qué el esfuerzo se lee como fracaso. Metacognición.
+- [Calibración](calibracion.md): cuánto coincide lo que alguien cree saber con lo que sabe, la sobreconfianza que frena el estudio y el Dunning-Kruger aplicado a estudiantes. Metacognición.
+- [Aprendizaje autorregulado](aprendizaje-autorregulado.md): el ciclo de Zimmerman, qué pesa de verdad según Sitzmann y Ely, y cuánto rinde enseñarlo. Autorregulación.

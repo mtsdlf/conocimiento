@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Aprender en el trabajo es aprender haciendo tareas reales y con otros, fuera de un curso. La regla 70-20-10, que dice que el 70 % se aprende así, el 20 % con otros y el 10 % en cursos, no tiene respaldo empírico: salió de una encuesta de percepción a ejecutivos y su propio creador la llamó folklore.
+  Aprender en el trabajo es aprender haciendo tareas reales y con otros, fuera de un curso. La regla 70-20-10, que dice que el 70 % se aprende así, el 20 % con otros y el 10 % en cursos, no tiene respaldo empírico: salió de una encuesta de percepción a ejecutivos y uno de sus autores, Morgan McCall, la llamó folklore.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -17,9 +17,9 @@ revisado:
 
 # Aprender en el trabajo
 
-Aprender en el trabajo es aprender haciendo tareas reales y con otros, fuera de un curso. La regla 70-20-10, que dice que el 70 % se aprende así, el 20 % con otros y el 10 % en cursos, no tiene respaldo empírico: salió de una encuesta de percepción a ejecutivos y su propio creador la llamó folklore.
+Aprender en el trabajo es aprender haciendo tareas reales y con otros, fuera de un curso. La regla 70-20-10, que dice que el 70 % se aprende así, el 20 % con otros y el 10 % en cursos, no tiene respaldo empírico: salió de una encuesta de percepción a ejecutivos y uno de sus autores, Morgan McCall, la llamó folklore.
 
-Es el eje del contexto dentro de los [formatos](formatos.md): no cómo se entrega un curso, sino si hace falta un curso. Se conecta con el [análisis de necesidades](../Analisis-previo/analisis-de-necesidades.md), que puede concluir que la brecha se cierra mejor en el trabajo, y con la [secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md), que trae tareas reales al curso. Lo que hace un jefe para que alguien crezca en el trabajo (delegar, mentoría, coaching) está en [desarrollo de personas](../../Liderazgo-y-direccion/Gestion-de-personas/desarrollo-de-personas.md), de Liderazgo y dirección.
+Es el eje del contexto dentro de los [formatos](formatos.md): trata de si hace falta un curso, antes que de cómo se entrega. Se conecta con el [análisis de necesidades](../Analisis-previo/analisis-de-necesidades.md), que puede concluir que la brecha se cierra mejor en el trabajo, y con la [secuencia por tareas completas](../Secuencia-y-curriculo/secuencia-por-tareas-completas.md), que trae tareas reales al curso. Lo que hace un jefe para que alguien crezca en el trabajo (delegar, mentoría, coaching) está en [desarrollo de personas](../../Liderazgo-y-direccion/Gestion-de-personas/desarrollo-de-personas.md), de Liderazgo y dirección.
 
 ## De dónde sale el 70-20-10
 

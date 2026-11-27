@@ -37,9 +37,9 @@ El "problema" del título no era el efecto sino su costo. Bloom escribió que la
 
 Von Hippel (2024) revisó el origen de la cifra y planteó tres objeciones:
 
-1. **Muestra chica.** El efecto salió de dos tesis doctorales de la Universidad de Chicago (Anania y Burke), con grupos de unos 30 alumnos.
-2. **No era solo tutoría.** "It wasn't just tutoring": la condición combinaba tutoría con aprendizaje de dominio.
-3. **No se replicó.** "It's never been replicated". De los 96 estudios que reunieron Nickow, Oreopoulos y Quan, "none produced a two-sigma effect".
+1. Muestra chica. El efecto salió de dos tesis doctorales (Anania y Burke), con grupos de unos 30 alumnos; que fueran de Chicago lo dice la página de Wikipedia, no von Hippel.
+2. No era solo tutoría. "It wasn't just tutoring": la condición combinaba tutoría con aprendizaje de dominio.
+3. No se replicó. "It's never been replicated". De los 96 estudios que reunieron Nickow, Oreopoulos y Quan, "none produced a two-sigma effect".
 
 Los números de las revisiones posteriores ubican el efecto real. VanLehn (2011) dio d = 0,79 para la tutoría humana y escribió que la creencia previa de d = 2,0 no se confirmó. Nickow et al. dieron 0,37 DE en su borrador de 2020 y 0,288 en la versión publicada de 2023. El detalle está en [tutoría](tutoria.md).
 

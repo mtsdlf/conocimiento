@@ -25,7 +25,7 @@ Es la rama psicométrica de la [evaluación adaptativa](evaluacion-adaptativa.md
 
 ## En qué se diferencia de la teoría clásica
 
-La teoría clásica de los tests suma aciertos y estima el error para el test entero. La IRT, según Wikipedia, se diferencia en tres cosas: no supone que todas las preguntas sean igual de difíciles, deja que el error de medición varíe entre personas (se mide mejor a quien está cerca de la dificultad de las preguntas) y sus parámetros, en teoría, no dependen de la muestra ni del test. La teoría clásica gana en simpleza de cálculo.
+La teoría clásica de los tests suma aciertos y estima el error para el test entero. La IRT, según Wikipedia, se diferencia en tres cosas: no supone que todas las preguntas sean igual de difíciles, deja que el error de medición varíe entre personas y sus parámetros, en teoría, no dependen de la muestra ni del test. La teoría clásica gana en simpleza de cálculo.
 
 Los modelos se distinguen por cuántos rasgos de la pregunta estiman:
 
@@ -48,7 +48,7 @@ Para calibrar las preguntas hacen falta respuestas de muchas personas, y las fue
 | Ree (1981), simulación 3PL | Reducir el error «required at least 200 items calibrated on 2,000 subjects» |
 | König, Spoden y Frey (2019), 2PL | La recomendación habitual es una muestra grande; proponen un método bayesiano para achicarla (las cifras no figuran en el abstract) |
 
-La cifra de «150 a 500 personas» que circula es una simplificación. Para un grupo chico, el cuello de botella no es solo la gente sino el banco: cientos de preguntas ya calibradas. Esto último es inferencia del informe de esta base a partir de Ree y de Şahin y Weiss.
+Una cifra de «150 a 500 personas» que se menciona es una simplificación. Para un grupo chico, el cuello de botella no es solo la gente sino el banco: cientos de preguntas ya calibradas. Esto último es inferencia del informe de esta base a partir de Ree y de Şahin y Weiss.
 
 ## El test adaptativo computarizado
 

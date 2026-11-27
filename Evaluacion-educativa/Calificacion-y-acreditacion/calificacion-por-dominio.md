@@ -32,7 +32,7 @@ Kulik, Kulik y Bangert-Drowns (1990) metaanalizaron 108 evaluaciones controladas
 - Efectos positivos sobre las actitudes hacia el contenido.
 - Los programas a ritmo propio «often reduce the completion rates in college classes».
 
-El último punto importa para cursos a ritmo propio: dejar que cada uno avance cuando domina hace que algunos no terminen.
+El último punto importa para cursos a ritmo propio: en los programas de ese tipo, algunos no terminan.
 
 > [!IMPORTANT]
 > **El dominio mejora el aprendizaje (Kulik et al., 1990).** Efecto positivo en 108 evaluaciones controladas, mayor en los alumnos más flojos.
@@ -41,14 +41,14 @@ El último punto importa para cursos a ritmo propio: dejar que cada uno avance c
 
 ## Calificar por estándares
 
-La calificación por estándares informa, en lugar de una nota única, el nivel alcanzado en cada objetivo del curso. Es la versión de calificación del dominio. Brookhart et al. (2016) la incluyen como uno de los cinco tipos de estudio de su revisión, pero esta base no encontró evidencia de que mejore el aprendizaje. Su argumento a favor es de [validez](../Validez-confiabilidad-y-equidad/validez.md): una nota única mezcla aprendizaje con esfuerzo y conducta, según la misma revisión, y separar por objetivo dice qué se sabe.
+La calificación por estándares informa, en lugar de una nota única, el nivel alcanzado en cada objetivo del curso. Se parece a la calificación por dominio, pero las fuentes leídas no las relacionan (inferencia de esta base). Brookhart et al. (2016) la incluyen como uno de los cinco tipos de estudio de su revisión, pero esta base no encontró evidencia de que mejore el aprendizaje. Su argumento a favor es de [validez](../Validez-confiabilidad-y-equidad/validez.md): una nota única mezcla aprendizaje con esfuerzo y conducta, según la misma revisión, y separar por objetivo dice qué se sabe.
 
 ## Cómo se aplica y cómo falla
 
-La lógica del dominio coincide con la del [seguimiento del conocimiento](../Evaluacion-adaptativa/seguimiento-del-conocimiento.md): más de una evidencia antes de dar algo por dominado. En la práctica falla de tres maneras, inferidas de las críticas:
+La lógica del dominio coincide con la del [seguimiento del conocimiento](../Evaluacion-adaptativa/seguimiento-del-conocimiento.md): más de una evidencia antes de dar algo por dominado. En la práctica puede fallar de tres maneras, inferidas de las críticas:
 
-- **El umbral se mide con una prueba que se puede practicar.** Si la segunda oportunidad repite la primera prueba, se aprueba la prueba y no el tema.
-- **No hay tiempo para la segunda vuelta.** Sin la corrección entre intentos, es solo recuperatorio.
-- **Se pierde a los lentos.** El costo en terminación que encontró Kulik.
+- El umbral se mide con una prueba que se puede practicar. Si la segunda oportunidad repite la primera prueba, se aprueba la prueba y no el tema.
+- No hay tiempo para la segunda vuelta. Sin la corrección entre intentos, es solo recuperatorio.
+- Se pierde a los lentos. El costo en terminación que encontró Kulik.
 
 > [!NOTE] Sin fuente todavía: evidencia de la calificación por estándares sobre el aprendizaje, y cualquier estudio de dominio con adultos o en capacitación técnica.

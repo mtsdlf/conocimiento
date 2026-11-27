@@ -31,7 +31,7 @@ La diferencia de fondo es qué devuelve el diagnóstico. La psicometría devuelv
 
 ## Qué sobrevive con un grupo chico
 
-Casi todo lo que se estudió de evaluación adaptativa es de matemática escolar y universitaria, con miles de personas. Las dos primeras comunidades necesitan datos: muchas respuestas para calibrar las preguntas o ajustar los parámetros. Con un curso de unas decenas de personas no se llega.
+Casi todo lo que se estudió de evaluación adaptativa es de matemática escolar y universitaria. Las dos primeras comunidades necesitan datos: muchas respuestas para calibrar las preguntas o ajustar los parámetros. Con un curso de unas decenas de personas no se llega.
 
 Lo que sí se lleva a un grupo chico es una idea por comunidad (inferencias del informe de esta base, no resultados medidos):
 

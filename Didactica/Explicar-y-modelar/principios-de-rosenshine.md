@@ -53,4 +53,4 @@ La base de los principios es observacional y de ciencia cognitiva, no ensayos co
 
 Ningún estudio de los que reúne es de adultos ni de enseñanza técnica. Usar la secuencia para enseñar a adultos, por ejemplo un curso de programación, es una inferencia razonable: el límite de la memoria de trabajo que la justifica no cambia con la edad, pero sí cambia cuánto sabe quien aprende, y con eso cuánto guiar (ver [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md)).
 
-Rosenshine es el recurso canónico de esta parte: el PDF de *American Educator* tiene ocho páginas y se lee entero. Conviene fijarse en los recuadros de cada principio, que traen las preguntas y los ejemplos de aula concretos.
+Rosenshine es el recurso canónico de esta parte: el PDF de *American Educator* tiene ocho páginas y se lee entero. Trae además una lista de preguntas para iniciar el diálogo con el grupo.

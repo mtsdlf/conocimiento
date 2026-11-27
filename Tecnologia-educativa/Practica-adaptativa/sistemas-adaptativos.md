@@ -17,7 +17,7 @@ revisado:
 
 Un sistema adaptativo es un programa de práctica que mantiene un mapa de qué temas domina cada alumno y elige con él el próximo ejercicio, el próximo prerrequisito o el próximo repaso. Su diseño se apoya en técnicas con evidencia, pero casi no hay estudios independientes de que un producto concreto enseñe más.
 
-Hace a escala de un curso lo que el [tutor inteligente](../Tutores-inteligentes/tutores-inteligentes.md) hace dentro de un problema: el trazado de conocimiento de la [arquitectura de un tutor](../Tutores-inteligentes/arquitectura-de-un-tutor-inteligente.md) estima qué habilidades se dominan para elegir el próximo problema, y un sistema adaptativo hace lo mismo con todo el temario. Se diferencia del [repaso espaciado con software](repaso-espaciado-con-software.md) en que no solo decide cuándo repasar, sino también qué aprender después.
+Como lectura de esta base, hace a escala de un curso lo que el [tutor inteligente](../Tutores-inteligentes/tutores-inteligentes.md) hace dentro de un problema: el trazado de conocimiento de la [arquitectura de un tutor](../Tutores-inteligentes/arquitectura-de-un-tutor-inteligente.md) estima qué habilidades se dominan para elegir el próximo problema, y un sistema adaptativo hace lo mismo con todo el temario. Se diferencia del [repaso espaciado con software](repaso-espaciado-con-software.md) en que no solo decide cuándo repasar, sino también qué aprender después.
 
 ## Cómo decide qué practicar
 
@@ -27,7 +27,7 @@ La descripción es la que dan los proveedores y la lógica del trazado de conoci
 
 ## El repaso jerárquico
 
-Un problema de combinar el mapa con el repaso espaciado es que, en matemática, los temas avanzados ejercitan los simples. Si cada tema tuviera su propio calendario de repaso, el alumno repasaría de más lo que ya practica al resolver lo avanzado.
+Como lectura de esta base (la fuente no lo plantea así), el problema de combinar el mapa con el repaso espaciado es que, en matemática, los temas avanzados ejercitan los simples. Si cada tema tuviera su propio calendario de repaso, el alumno repasaría de más lo que ya practica al resolver lo avanzado.
 
 La propuesta de Justin Skycak (2023, renombrada en 2026 como «Hierarchical Spaced Repetition») resuelve eso con repeticiones implícitas fraccionarias. Aprobar un tema avanzado cuenta como repaso parcial de los temas más simples que ejercita; fallar uno simple penaliza hacia arriba a los avanzados que dependen de él. Usa un grafo propio, distinto del de prerrequisitos, que dice qué tema «abarca» a cuál, con pesos puestos por un experto.
 
@@ -37,10 +37,10 @@ Es un diseño con respaldo teórico y sin evidencia de efecto. El propio autor d
 
 Escueta et al. (2020) ubican estos sistemas dentro del aprendizaje asistido por computadora, una de sus cuatro categorías de tecnología educativa. Esta base no leyó sus conclusiones por categoría.
 
-El único ensayo adaptativo verificado en esta base es indirecto. En el ensayo de dos años de Oreopoulos y Low (2026, documento de trabajo del NBER, sin revisión por pares), el tutor de IA dio, según su resumen, un efecto parecido al de la práctica de Khan Academy sin IA: de 0,06 a 0,08 desviaciones estándar por año. La práctica adaptativa y la tutoría por chat dieron efectos parecidos y chicos, en escolares de matemática remedial.
+El único ensayo adaptativo verificado en esta base es indirecto. En el ensayo de dos años de Oreopoulos y Low (2026, documento de trabajo del NBER, sin revisión por pares), el tutor de IA dio de 0,06 a 0,08 desviaciones estándar por año, que según su resumen es un efecto parecido al de la práctica de Khan Academy sin IA. La práctica adaptativa y la tutoría por chat dieron efectos parecidos y chicos, en escolares de matemática remedial.
 
 > [!NOTE]
-> Sin fuente todavía: un metaanálisis de sistemas adaptativos comerciales (ALEKS, Duolingo y otros) y las conclusiones de Escueta et al. sobre el aprendizaje asistido por computadora. Para los tutores inteligentes, que son la familia más estudiada, está [evidencia de los tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md).
+> Sin fuente todavía: un metaanálisis de sistemas adaptativos comerciales (ALEKS, Duolingo y otros) y las conclusiones de Escueta et al. sobre el aprendizaje asistido por computadora. Para los tutores inteligentes, que son una de las familias con más evidencia en esta base, está [evidencia de los tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md).
 
 ## Cómo leer la promesa de un producto
 

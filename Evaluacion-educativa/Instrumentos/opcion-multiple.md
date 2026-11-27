@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Una pregunta de opción múltiple pide elegir la respuesta correcta entre varias. Bien redactada, cubre mucho contenido con poca corrección y sirve también como práctica; mal redactada, mide astucia para descartar opciones.
+  Una pregunta de opción múltiple pide elegir la respuesta correcta entre varias. Bien redactada, cubre mucho contenido con poca corrección y sirve también como práctica; mal redactada, mide algo ajeno al contenido.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -15,13 +15,13 @@ revisado:
 
 # Opción múltiple
 
-Una pregunta de opción múltiple pide elegir la respuesta correcta entre varias. Bien redactada, cubre mucho contenido con poca corrección y sirve también como práctica; mal redactada, mide astucia para descartar opciones.
+Una pregunta de opción múltiple pide elegir la respuesta correcta entre varias. Bien redactada, cubre mucho contenido con poca corrección y sirve también como práctica; mal redactada, mide algo ajeno al contenido.
 
 Es el instrumento del extremo cerrado entre los [instrumentos](instrumentos.md). Su ventaja es la cobertura: en una hora entran decenas de preguntas, y eso reduce la dependencia de qué tema tocó. Su límite es que muestra si se reconoce una respuesta, no si se la produce ni si se la usa en una tarea real, que es lo que piden las [tareas de desempeño](tareas-de-desempeno.md).
 
 ## Las pautas de Haladyna
 
-Haladyna, Downing y Rodriguez (2002) armaron una taxonomía de 31 pautas de redacción a partir de 27 textos de evaluación y 27 estudios y revisiones desde 1990. Las agrupan en contenido, formato, estilo y redacción del enunciado y de las opciones. Según el resumen, dos recomendaciones salen con fuerza:
+Haladyna, Downing y Rodriguez (2002) armaron una taxonomía de 31 pautas de redacción a partir de 27 textos de evaluación y 27 estudios y revisiones desde 1990. Las agrupan en contenido, formato, estilo y redacción del enunciado y de las opciones. Según el resumen, recomiendan dos cosas en particular:
 
 - Evitar el formato complejo tipo K («A y C son correctas», «todas las anteriores salvo B»).
 - Evitar los enunciados negativos («¿cuál NO es…?», «todas EXCEPTO…»).

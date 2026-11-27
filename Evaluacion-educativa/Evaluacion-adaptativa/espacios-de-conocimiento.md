@@ -34,7 +34,7 @@ De ahí sale un resultado: un estado queda definido por sus dos fronteras. La in
 
 El diagnóstico no devuelve un número sino una estructura, el estado. Según el abstract de Doignon y Falmagne (2015), es adaptativo porque usa las respuestas previas, y se apoya en procesos probabilísticos de tipo Markov.
 
-La regla, en su forma simple: si alguien resuelve un problema, probablemente sabe sus prerrequisitos; si falla, probablemente no sabe lo que depende de él. Cada respuesta descarta muchos estados posibles a la vez, y por eso alcanzan pocas preguntas para un curso con muchos temas. No hace falta calibrar con cientos de personas como en la [teoría de respuesta al ítem](teoria-de-respuesta-al-item.md); hace falta un buen grafo.
+La regla, en su forma simple: si alguien resuelve un problema, probablemente sabe sus prerrequisitos; si falla, probablemente no sabe lo que depende de él. Cada respuesta descarta muchos estados posibles a la vez, y por eso alcanzarían pocas preguntas para un curso con muchos temas (inferencia de esta base). No hace falta calibrar con cientos de personas como en la [teoría de respuesta al ítem](teoria-de-respuesta-al-item.md); hace falta un buen grafo.
 
 ## Dónde choca con la psicometría
 
@@ -42,8 +42,10 @@ Cosyn et al. contrastan los dos enfoques. El test psicométrico busca un puntaje
 
 ## Cómo falla
 
-- **El grafo está mal.** Si un prerrequisito no lo es, la inferencia da por sabido lo que no se sabe. El costo de la teoría está en construir el grafo y las preguntas.
-- **Se infiere y no se confirma.** Los sistemas que la usan marcan lo inferido como provisorio y retroceden si la persona se traba; ver la [ficha de sistemas](sistemas-de-diagnostico-adaptativo.md).
-- **Se aplica a lo que no tiene prerrequisitos claros.** La evidencia es de matemática, donde el orden de los temas es firme. Que valga para un oficio técnico, donde el orden es más discutible, es una inferencia.
+Las dos primeras son inferencias de esta base.
+
+- El grafo está mal. Si un prerrequisito no lo es, la inferencia da por sabido lo que no se sabe. El costo de la teoría está en construir el grafo y las preguntas.
+- Se infiere y no se confirma. Math Academy marca lo inferido como provisorio y retrocede si la persona se traba; ver la [ficha de sistemas](sistemas-de-diagnostico-adaptativo.md).
+- Se aplica a lo que no tiene prerrequisitos claros. La evidencia es de matemática, donde el orden de los temas es firme. Que valga para un oficio técnico, donde el orden es más discutible, es una inferencia.
 
 > [!NOTE] Sin fuente todavía: Doignon y Falmagne (1985 y 1999) leídos en el original, y una aplicación validada fuera de la matemática.

@@ -21,17 +21,17 @@ Cómo leer un estudio en general (correlación o experimento, tamaño de efecto,
 
 ## Cinco preguntas antes de creerle a un estudio de tecnología
 
-1. **¿Midió aprendizaje o uso?** Tiempo de visualización, acierto en el ejercicio siguiente o tareas terminadas no son aprendizaje. Guo et al. (2014) midieron cuánto se mira un video; Khan Academy, el acierto en el ejercicio siguiente; Kazemitabaar et al. (2023), tareas terminadas con la IA. Lo que importa es una prueba posterior sin la herramienta, como la de Bastani et al. (2025).
-2. **¿Contra qué se comparó?** Contra «nada» o contra una clase expositiva, el efecto mezcla el método con el medio; es el problema del [debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md).
-3. **¿Con qué prueba?** En Ma et al. (2014), los efectos de los tutores inteligentes fueron más chicos con pruebas estandarizadas que con pruebas armadas por el investigador.
-4. **¿Cuánto duró y a qué escala?** Los estudios cortos y cuidados dan efectos grandes; los ensayos largos en escuelas comunes, chicos ([evidencia de los tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md), [la IA como tutor](../IA-en-la-educacion/ia-como-tutor.md)).
-5. **¿Quién lo hizo y está revisado?** Mucho de lo nuevo sobre IA son preprints, documentos de trabajo o pruebas A/B del proveedor. No son inútiles, pero pesan menos y se marcan.
+1. ¿Midió aprendizaje o uso? Tiempo de visualización, acierto en el ejercicio siguiente o tareas terminadas no son aprendizaje. Guo et al. (2014) midieron cuánto se mira un video; Khan Academy, el acierto en el ejercicio siguiente; Kazemitabaar et al. (2023), tareas terminadas con la IA. Lo que importa es una prueba posterior sin la herramienta, como la de Bastani et al. (2025).
+2. ¿Contra qué se comparó? Contra «nada» o contra una clase expositiva, el efecto mezcla el método con el medio; es el problema del [debate de los medios](../Medios-y-aprendizaje/debate-de-los-medios.md).
+3. ¿Con qué prueba? En Ma et al. (2014), los efectos de los tutores inteligentes fueron más chicos con pruebas estandarizadas que con pruebas armadas por el investigador.
+4. ¿Cuánto duró y a qué escala? En los casos de esta base, los estudios cortos y cuidados dan efectos grandes y los ensayos largos, chicos ([evidencia de los tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md), [la IA como tutor](../IA-en-la-educacion/ia-como-tutor.md)).
+5. ¿Quién lo hizo y está revisado? Mucho de lo nuevo sobre IA son preprints, documentos de trabajo o pruebas A/B del proveedor. No son inútiles, pero pesan menos y se marcan.
 
 ## Cuánto pesa cada tipo de fuente
 
 | Tipo | Ejemplos en el tema | Cómo se usa |
 |---|---|---|
-| Metaanálisis revisado | Means et al. (2010), Ma et al. (2014), Kulik y Fletcher (2016), Martinengo et al. (2024) | La mejor estimación del promedio; mirar fechas y qué pruebas incluye |
+| Metaanálisis o informe de organismo | Means et al. (2010, informe del Departamento de Educación), Ma et al. (2014), Kulik y Fletcher (2016), Martinengo et al. (2024) | La mejor estimación del promedio; mirar fechas y qué pruebas incluye |
 | Ensayo aleatorizado revisado | Bastani et al. (2025), Kestin et al. (2025), Pane et al. (2014) | Lo más fuerte para una causa; mirar escala y prueba |
 | Documento de trabajo o preprint | Oreopoulos y Low (NBER), De Simone et al. (Banco Mundial), Tutor CoPilot, Kosmyna et al. | Sin revisión por pares; se cita marcado |
 | Prueba del proveedor | Pruebas A/B de Khan Academy, evaluación de LearnLM por Google | Útil para saber qué probó el proveedor; no es evidencia independiente |
@@ -42,12 +42,12 @@ Casi toda la evidencia del tema es escolar o universitaria. Ningún estudio leí
 
 ## Los recursos canónicos por parte del tema
 
-- **Medios**: Clark (1994) y Kozma (1994), juntos, en *Educational Technology Research and Development* 42(2). No se leyeron enteros.
-- **Aprendizaje en línea**: Means et al. (2010) para la eficacia; Reich y Ruipérez-Valiente (2019, *Science*) para la finalización. Ambos leídos.
-- **Tutores inteligentes**: Ma et al. (2014), leído entero; VanLehn (2011), solo el resumen; Pane et al. (2014), vía RAND y el WWC.
-- **IA**: Bastani et al. (2025, *PNAS*) para el contraste entre atajo y tutor; Oreopoulos y Low (2026, NBER) para el ensayo más largo.
-- **Práctica adaptativa**: Martinengo et al. (2024) para el espaciado digital; el manual de Anki para el uso.
-- **Encuadre general**: Escueta, Nickow, Oreopoulos y Quan (2020, *Journal of Economic Literature*), del que se leyó solo el resumen.
+- Medios: Clark (1994) y Kozma (1994), juntos, en *Educational Technology Research and Development* 42(2). No se leyeron enteros.
+- Aprendizaje en línea: Means et al. (2010) para la eficacia; Reich y Ruipérez-Valiente (2019, *Science*) para la finalización. Ambos leídos.
+- Tutores inteligentes: Ma et al. (2014), leído entero; VanLehn (2011), solo el resumen; Pane et al. (2014), vía RAND y el WWC.
+- IA: Bastani et al. (2025, *PNAS*) para el contraste entre atajo y tutor; Oreopoulos y Low (2026, NBER) para el ensayo más largo.
+- Práctica adaptativa: Martinengo et al. (2024) para el espaciado digital; el manual de Anki para el uso.
+- Encuadre general: Escueta, Nickow, Oreopoulos y Quan (2020, *Journal of Economic Literature*), del que se leyó solo el resumen.
 
 ## Lo que falta leer
 

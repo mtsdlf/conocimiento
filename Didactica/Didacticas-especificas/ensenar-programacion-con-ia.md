@@ -38,9 +38,9 @@ Denny et al. (2024), en *Communications of the ACM*, es un artículo de posició
 
 Los cinco estudios, leídos juntos, dibujan tres regularidades:
 
-1. **La IA sin guía infla el rendimiento durante la práctica.** En Bastani et al., quienes practicaron con la versión base rindieron más mientras la tenían y menos que el control cuando se la sacaron. Es el mismo problema que el tema ve en la [retroalimentación](../Retroalimentacion/retroalimentacion.md) que da la respuesta: resolver no es lo mismo que aprender a resolver.
-2. **Ayuda más a quien ya sabía.** En Kazemitabaar et al. 2023 retuvieron más los de mayor puntaje previo, y en Prather et al. quienes ya planeaban bien sacaron provecho. Encaja con la [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md): la misma ayuda no sirve igual a un novato que a alguien con base.
-3. **Los diseños que obligan a pensar antes de mostrar funcionan mejor.** La versión tutor de Bastani, que no entregaba la respuesta, casi no dañó; en Kazemitabaar et al. 2024, predecir cada etapa antes de ver el código fue lo más eficaz. Es la lógica de la [escalera de pistas](../Retroalimentacion/escalera-de-pistas.md) y de la [autoexplicación](../Preguntas-y-dialogo/autoexplicacion.md).
+1. La IA sin guía infla el rendimiento durante la práctica. En Bastani et al., quienes practicaron con la versión base rindieron más mientras la tenían y menos que el control cuando se la sacaron. Es el mismo problema que el tema ve en la [retroalimentación](../Retroalimentacion/retroalimentacion.md) que da la respuesta: resolver con ayuda no garantiza aprender a resolver.
+2. Ayuda más a quien ya sabía. En Kazemitabaar et al. 2023 retuvieron más los de mayor puntaje previo, y en Prather et al. quienes ya planeaban bien sacaron provecho. Encaja con la [inversión de la experticia](../Practica-guiada-y-andamiaje/inversion-de-la-experticia.md): la misma ayuda no sirve igual a un novato que a alguien con base.
+3. Los diseños que obligan a pensar antes de mostrar funcionan mejor. La versión tutor de Bastani, que no entregaba la respuesta, casi no dañó; en Kazemitabaar et al. 2024, predecir cada etapa antes de ver el código fue lo más eficaz. Es la lógica de la [escalera de pistas](../Retroalimentacion/escalera-de-pistas.md) y de la [autoexplicación](../Preguntas-y-dialogo/autoexplicacion.md).
 
 ## Qué decisiones toma quien enseña
 
@@ -52,6 +52,6 @@ Lo que sigue es una inferencia de esta base a partir de los estudios de arriba, 
 
 ## Lo que todavía no se sabe
 
-Dos de los cinco estudios son con menores, uno es de matemática y otro de física, no de programación. Ninguno es de adultos que aprenden a programar. Bastani y Kestin miden dominios cercanos y no el código. La base de esta nota es corta y el campo publica rápido; los estudios posteriores que no se verificaron no entran.
+Dos de los cinco estudios son con menores (Kazemitabaar et al. 2023 y Bastani et al.), y Bastani es de matemática y Kestin de física, no de programación. Ninguno es de adultos que aprenden a programar. La base de esta nota es corta y el campo publica rápido; los estudios posteriores que no se verificaron no entran.
 
 > [!NOTE] Sin fuente todavía: un experimento con adultos que aprenden programación con asistentes de IA, y una revisión sistemática del subcampo.

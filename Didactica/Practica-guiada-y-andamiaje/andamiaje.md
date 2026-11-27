@@ -26,7 +26,7 @@ Es el centro de la [práctica guiada](practica-guiada-y-andamiaje.md): lo que pa
 
 ## De dónde viene la metáfora
 
-Wood, Bruner y Ross (1976) la introdujeron estudiando a un tutor que ayudaba a chicos a armar un rompecabezas de pirámide de madera. Describieron seis funciones del tutor: reclutar el interés, reducir los grados de libertad de la tarea, mantener la dirección, marcar los rasgos críticos, controlar la frustración y demostrar.
+Wood, Bruner y Ross (1976) la introdujeron estudiando a un tutor que ayudaba a chicos a armar un rompecabezas de pirámide de madera (detalle que esta base conoce por fuentes secundarias). Según la lista que reproduce van de Pol et al., describieron seis funciones del tutor: reclutar el interés, reducir los grados de libertad de la tarea, mantener la dirección, marcar los rasgos críticos, controlar la frustración y demostrar.
 
 Vygotsky nunca usó la palabra. El vínculo con su zona de desarrollo próximo lo hicieron después Cazden (1979) y Bruner (1985), y hay autores, como Lantolf, que sostienen que los dos conceptos se parecen solo en parte. La zona de desarrollo próximo se define en la parte sociocultural de las [teorías del aprendizaje](../../Ciencias-del-aprendizaje/Fundamentos/teorias-del-aprendizaje.md#sociocultural-aprender-primero-con-otros).
 
@@ -54,7 +54,7 @@ El retiro tiene un procedimiento estudiado con ejemplos resueltos. Renkl, Atkins
 
 El ritmo del retiro depende de quien aprende. En estudios que cita Kalyuga (2007), los alumnos con más conocimiento previo rendían mejor con retiro rápido o inmediato y los de poco conocimiento, con retiro lento. En ingeniería eléctrica (Reisslein et al. 2006), «novices benefited more from example-problem pairs, whereas experts benefited more from problem-example pairs and faded examples sequences».
 
-Una secuencia práctica, que sale de juntar estas fuentes y no de un estudio que la pruebe entera:
+Una secuencia práctica, ilustrativa, que sale de juntar estas fuentes y no de un estudio que la pruebe entera:
 
 1. Mostrá un ejemplo resuelto completo, pensando en voz alta.
 2. Dá uno igual con el último paso en blanco.

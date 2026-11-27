@@ -19,7 +19,7 @@ revisado:
 
 La tecnología educativa estudia qué aportan los medios digitales a enseñar y aprender: el aprendizaje en línea, los tutores inteligentes, la IA y el software de práctica, separando lo que cambia el aprendizaje de lo que solo cambia el canal.
 
-Es un medio para la [didáctica](../Didactica/didactica.md) y el [diseño instruccional](../Diseno-instruccional/diseno-instruccional.md), no un sustituto. La pregunta que ordena todo el tema la planteó Richard Clark en 1983 y sigue abierta: si el medio enseña o solo transporta un método de enseñanza. La evidencia que reúne esta base empuja hacia la segunda lectura con un matiz. Los efectos aparecen cuando la tecnología cambia lo que hace quien aprende (practicar con pistas, recuperar de memoria, recibir retroalimentación paso a paso) y desaparecen cuando solo pone el mismo contenido en otra pantalla.
+Es un medio para la [didáctica](../Didactica/didactica.md) y el [diseño instruccional](../Diseno-instruccional/diseno-instruccional.md), no un sustituto. La pregunta que ordena todo el tema la planteó Richard Clark en 1983: si el medio enseña o solo transporta un método de enseñanza. El buscador la describe como no resuelta. La evidencia que reúne esta base apunta, como lectura propia, hacia la segunda opción con un matiz. Los efectos aparecen cuando la tecnología cambia lo que hace quien aprende (practicar con pistas, recuperar de memoria, recibir retroalimentación paso a paso) y desaparecen cuando solo pone el mismo contenido en otra pantalla.
 
 El tema termina donde empiezan sus vecinos. El mecanismo de la memoria y la práctica vive en [Aprendizaje y memoria](../Psicologia/Aprendizaje-y-memoria/aprendizaje-y-memoria.md); cómo funciona un modelo de lenguaje, en [IA](../IA/ia.md); la [tutoría](../Didactica/Tutoria-y-mentoria/tutoria.md) humana y la [escalera de pistas](../Didactica/Retroalimentacion/escalera-de-pistas.md) del docente, en Didáctica; medir lo aprendido, en [Evaluación educativa](../Evaluacion-educativa/evaluacion-educativa.md). Es uno de los cinco temas del área Pedagogía, junto a [Ciencias del aprendizaje](../Ciencias-del-aprendizaje/ciencias-del-aprendizaje.md).
 
@@ -37,7 +37,7 @@ flowchart LR
   AL -->|entrega por su canal| PA
 ```
 
-- [Medios y aprendizaje](Medios-y-aprendizaje/medios-y-aprendizaje.md): el debate de Clark y Kozma sobre si el medio influye, y por qué dar más dispositivos no subió los resultados. Entrá acá antes de creerle a cualquier promesa de una herramienta.
+- [Medios y aprendizaje](Medios-y-aprendizaje/medios-y-aprendizaje.md): el debate de Clark y Kozma sobre si el medio influye, y por qué dar más dispositivos no subió los resultados. Conviene leerlo antes de creerle a cualquier promesa de una herramienta.
 - [Aprendizaje en línea](Aprendizaje-en-linea/aprendizaje-en-linea.md): cuánto rinde un curso en línea frente al presencial, por qué casi nadie termina un curso abierto masivo y qué se sabe del video.
 - [Tutores inteligentes](Tutores-inteligentes/tutores-inteligentes.md): los programas que guían paso a paso, sus cuatro piezas, la escalera de pistas y la distancia entre los metaanálisis y el ensayo a escala.
 - [IA en la educación](IA-en-la-educacion/ia-en-la-educacion.md): el modelo de lenguaje como tutor, como ayuda de quien enseña y como atajo que reemplaza el esfuerzo de aprender.
@@ -47,7 +47,7 @@ flowchart LR
 
 ## El uso decide más que el acceso
 
-Las revisiones de experimentos dividen el campo por mecanismo, no por producto. Escueta, Nickow, Oreopoulos y Quan (2020) separan acceso a la tecnología, aprendizaje asistido por computadora, intervenciones conductuales con tecnología y aprendizaje en línea. Esta base no leyó sus conclusiones por categoría, pero los estudios que sí leyó repiten un patrón: el acceso solo no mueve los resultados y el diseño del uso sí.
+Las revisiones de experimentos dividen el campo por mecanismo. Escueta, Nickow, Oreopoulos y Quan (2020) separan acceso a la tecnología, aprendizaje asistido por computadora, intervenciones conductuales con tecnología y aprendizaje en línea. Esta base no leyó sus conclusiones por categoría, pero los estudios que sí leyó repiten un patrón: el acceso solo no mueve los resultados y el diseño del uso sí.
 
 Tres casos lo muestran. En la OCDE (2015), los países que más invirtieron en computadoras en la escuela no mejoraron de forma apreciable en lectura, matemática ni ciencia. En Bastani et al. (2025), el mismo modelo de lenguaje dañó lo aprendido con una interfaz de chat abierta y no lo dañó con un tutor que no regalaba respuestas. En Oreopoulos y Low (2026), casi todos los alumnos probaron el tutor de IA, pero lo usaron poco, y los autores concluyen que lo difícil es que lo usen, no darles acceso.
 
@@ -69,6 +69,6 @@ Casi toda la evidencia del tema es escolar o universitaria, de matemática, fís
 ## Del debate a las herramientas
 
 1. [Debate de los medios](Medios-y-aprendizaje/debate-de-los-medios.md) y [promesas incumplidas de la tecnología educativa](Fundamentos/promesas-incumplidas-de-la-tecnologia-educativa.md), para leer todo lo demás con la pregunta correcta.
-2. [Tutores inteligentes](Tutores-inteligentes/tutores-inteligentes.md), que es la familia con más evidencia y la que explica por qué un tutor con IA funciona o falla.
+2. [Tutores inteligentes](Tutores-inteligentes/tutores-inteligentes.md), una de las familias con más evidencia reunida en esta base, que ayuda a entender (lectura de esta base) por qué un tutor con IA funciona o falla.
 3. [IA en la educación](IA-en-la-educacion/ia-en-la-educacion.md) y [Práctica adaptativa](Practica-adaptativa/practica-adaptativa.md).
 4. [Aprendizaje en línea](Aprendizaje-en-linea/aprendizaje-en-linea.md), según la necesidad.

@@ -21,7 +21,7 @@ Es la tercera pregunta de [validez, confiabilidad y equidad](validez-confiabilid
 
 ## Lo ajeno a lo evaluado
 
-La amenaza central es la varianza irrelevante al constructo que afecta más a un grupo. El capítulo 3 de los Standards y el estándar 3.20 tratan esa varianza y las diferencias de puntaje entre subgrupos (texto leído en parte). Ejemplos de lo que puede meterse en el puntaje sin ser lo evaluado:
+La amenaza central es la varianza irrelevante al constructo que afecta más a un grupo. El capítulo 3 de los Standards y el estándar 3.20 tratan esa varianza y las diferencias de puntaje entre subgrupos (texto leído en parte). Ejemplos ilustrativos, de esta base, de lo que puede meterse en el puntaje sin ser lo evaluado:
 
 - El idioma de la consigna, cuando se evalúa otra cosa: un enunciado en inglés técnico para evaluar lógica.
 - El tiempo, cuando la velocidad no es parte de la habilidad.
@@ -34,7 +34,7 @@ La pregunta práctica es la de la validez aplicada por grupo: ¿alguien que sabe
 
 Una diferencia de promedio entre dos grupos puede venir de la prueba o de una diferencia real en lo aprendido. El funcionamiento diferencial del ítem (DIF) es la herramienta estadística para separarlas: compara personas de igual nivel en lo evaluado y mira si un ítem les resulta más difícil a unas que a otras.
 
-Según un artículo de *Psicothema* (leído por resumen), los Standards tratan el DIF a la vez como evidencia de estructura interna y como clave para la equidad, y el DIF «is not always a flaw»: un ítem puede funcionar distinto por razones que sí son parte de lo evaluado. El DIF necesita muestras grandes; en un curso chico queda la revisión de los ítems con la pregunta de arriba.
+Según un artículo de *Psicothema* (leído por resumen), los Standards tratan el DIF a la vez como evidencia de estructura interna y como clave para la equidad, y el DIF «is not always a flaw»: un ítem puede funcionar distinto por razones que sí son parte de lo evaluado. Con un curso chico, la comparación estadística no es viable (inferencia de esta base) y queda la revisión de los ítems con la pregunta de arriba.
 
 ## La oportunidad de aprender
 

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Dos sistemas comerciales de diagnóstico adaptativo basados en espacios de conocimiento (ALEKS y Math Academy), con lo que publican de su método y de su exactitud, copiado en 2026-11. Lo que dicen de sí mismos tiene conflicto de interés.
+  Dos sistemas comerciales de diagnóstico adaptativo (ALEKS, basado en espacios de conocimiento, y Math Academy, con un grafo de prerrequisitos y una frontera de conocimiento), con lo que publican de su método y de su exactitud, copiado en 2026-11. Lo que dicen de sí mismos tiene conflicto de interés.
 estado: borrador
 estabilidad: volatil
 fuentes:
@@ -14,9 +14,9 @@ revisado:
 
 # Sistemas de diagnóstico adaptativo
 
-Dos sistemas comerciales de diagnóstico adaptativo basados en espacios de conocimiento (ALEKS y Math Academy), con lo que publican de su método y de su exactitud, copiado en 2026-11. Lo que dicen de sí mismos tiene conflicto de interés.
+Dos sistemas comerciales de diagnóstico adaptativo (ALEKS, basado en espacios de conocimiento, y Math Academy, con un grafo de prerrequisitos y una frontera de conocimiento), con lo que publican de su método y de su exactitud, copiado en 2026-11. Lo que dicen de sí mismos tiene conflicto de interés.
 
-Implementan los [espacios de conocimiento](espacios-de-conocimiento.md). Copiado de las fuentes de arriba el 2026-11-27.
+ALEKS implementa los [espacios de conocimiento](espacios-de-conocimiento.md); Math Academy usa una idea cercana, y sus fuentes no dicen que se base en esa teoría. Copiado de las fuentes de arriba el 2026-11-27.
 
 | | ALEKS | Math Academy |
 |---|---|---|
@@ -27,4 +27,4 @@ Implementan los [espacios de conocimiento](espacios-de-conocimiento.md). Copiado
 | Datos de exactitud publicados | Sobre 1.940.473 experiencias de aprendizaje, «the median probability of learning success was .93» | No publica |
 | Conflicto de interés | El capítulo lo escribieron empleados de la empresa que vende el sistema | Página de producto |
 
-La duración del diagnóstico de Math Academy tiene dos versiones en los informes de esta base, que leyeron la misma página («How it works»): uno la da como dicho de la página, «30 a 45 minutos», y el otro no la encontró ahí. Queda sin verificar. El repaso que el sistema programa después del diagnóstico está en la ficha de [herramientas de práctica adaptativa](../../Tecnologia-educativa/Practica-adaptativa/herramientas-de-practica-adaptativa.md#math-academy).
+La página de Math Academy («How it works») no declara, en la lectura de esta base, cuánto dura el diagnóstico ni cuántas preguntas tiene; una duración de 30 a 45 minutos que se menciona no se pudo confirmar. El repaso que el sistema programa después del diagnóstico está en la ficha de [herramientas de práctica adaptativa](../../Tecnologia-educativa/Practica-adaptativa/herramientas-de-practica-adaptativa.md#math-academy).

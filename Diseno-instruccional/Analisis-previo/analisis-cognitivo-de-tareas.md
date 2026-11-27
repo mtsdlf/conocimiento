@@ -26,13 +26,13 @@ Es la segunda pregunta del [análisis previo](analisis-previo.md): qué hace de 
 
 La práctica automatiza. Feldon (2007) revisa la investigación con la lente de dos procesos: la automatización libera memoria de trabajo, pero oculta los pasos al propio experto. Según un resumen de Feldon (2010), las autoexplicaciones de los participantes «are largely inaccurate». El fenómeno de fondo, cómo la práctica larga produce un rendimiento estable, está en [experticia](../../Psicologia/Aprendizaje-y-memoria/experticia.md).
 
-La cifra que circula es que los expertos omiten cerca del 70 % de las decisiones. Aparece afirmada en el resumen de un taller de 2011 de Yates, Feldon y Clark: «experts omit about 70% of the decisions they make when they describe how to perform a complex task». Se atribuye a Feldon y Clark (2006), cuyo resumen indexado no muestra la cifra. La forma honesta de citarla es «los autores de la línea CTA estiman cerca del 70 %»: no se verificó en la fuente primaria ni se encontró una réplica de otro grupo.
+La cifra que circula es que los expertos omiten cerca del 70 % de las decisiones. Aparece afirmada en el resumen de un taller de 2011 de Yates, Feldon y Clark: «experts omit about 70% of the decisions they make when they describe how to perform a complex task». Se atribuye a Feldon y Clark (2006), cuyo resumen indexado no muestra la cifra. Conviene citarla como «los autores de la línea CTA estiman cerca del 70 %»: no se verificó en la fuente primaria ni se encontró una réplica de otro grupo.
 
 ## Cómo se hace
 
-Las técnicas más usadas son entrevistas a varios expertos, no a uno. Dos ejemplos según resúmenes: el Critical Decision Method, que reconstruye un caso real y las decisiones tomadas en él, y PARI (Precursor, Acción, Resultado, Interpretación), del que el método CPP de Clark es una variante. Para cada paso se busca qué lo dispara, qué decide el experto, con qué criterio y qué ve que un novato no ve.
+Las técnicas más usadas son entrevistas, y se suele consultar a varios expertos. Según resúmenes, dos ejemplos son el Critical Decision Method y PARI (Precursor, Acción, Resultado, Interpretación), del que el método CPP de Clark es una variante.
 
-El capítulo de referencia es Clark, Feldon, van Merriënboer, Yates y Early (2008) en el *Handbook of Research on Educational Communications and Technology*. Para un diseñador sin formación previa, es la lectura que explica los métodos y cuándo usar cada uno.
+El capítulo de referencia es Clark, Feldon, van Merriënboer, Yates y Early (2008) en el *Handbook of Research on Educational Communications and Technology*. Solo se vio su ficha, sin resumen: qué explica de cada método no se verificó.
 
 ## Qué evidencia hay
 
@@ -45,8 +45,8 @@ Tofel-Grehl y Feldon (2013) metaanalizaron la instrucción basada en CTA. Según
 
 ## El punto ciego del experto
 
-Un fenómeno vecino pero distinto: el experto no solo omite lo que hace, también juzga mal lo que le cuesta al novato. Nathan y Petrosino (2003) estudiaron a 48 docentes de secundaria en formación y relacionaron su experticia matemática con cómo juzgaban la dificultad de problemas de álgebra. Su hipótesis, que los datos acompañaron: «educators with advanced subject-matter knowledge tend to use the powerful organizing principles, formalisms, and methods of analysis of their discipline as guiding principles for students' conceptual development, rather than knowledge of novices' learning needs and developmental profiles».
+Un fenómeno vecino pero distinto: el experto omite lo que hace y además juzga mal lo que le cuesta al novato. Nathan y Petrosino (2003) estudiaron a 48 docentes de secundaria en formación y relacionaron su experticia matemática con cómo juzgaban la dificultad de problemas de álgebra. Según la cita que trajo el buscador (el texto no cargó), su hipótesis, que los datos acompañaron: «educators with advanced subject-matter knowledge tend to use the powerful organizing principles, formalisms, and methods of analysis of their discipline as guiding principles for students' conceptual development, rather than knowledge of novices' learning needs and developmental profiles».
 
-La omisión de pasos es un problema del autoinforme (lo que el experto dice que hace); el punto ciego es un problema de juicio (lo que cree que le cuesta al otro). Las dos líneas no se citan entre sí. Llevar el punto ciego a quien enseña IT a adultos es una extensión: el estudio fue con álgebra y con docentes en formación.
+La omisión de pasos es un problema del autoinforme (lo que el experto dice que hace); el punto ciego es un problema de juicio (lo que cree que le cuesta al otro). En lo leído, las dos líneas no se citan entre sí. Llevar el punto ciego a quien enseña IT a adultos es una extensión: el estudio fue con álgebra y con docentes en formación.
 
 > [!NOTE] Sin fuente todavía: la cita literal del 70 % en Feldon y Clark (2006); cuántos estudios entraron en el metaanálisis de 2013; la aplicación de CTA a cursos de IT.

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Los metaanálisis dan a los tutores inteligentes efectos de 0,4 a 0,8 desviaciones estándar, cerca de la tutoría humana; el mejor ensayo a escala, el de Pane et al. (2014) con el Cognitive Tutor de Álgebra, dio cero el primer año y unos 0,20 el segundo. La distancia entre las dos cifras se explica en parte por cómo se mide.
+  Los metaanálisis dan a los tutores inteligentes efectos de 0,4 a 0,8 desviaciones estándar, cerca de la tutoría humana; el mejor ensayo a escala, el de Pane et al. (2014) con el Cognitive Tutor de Álgebra, dio cero el primer año y unos 0,20 el segundo. Esta base atribuye parte de la distancia a cómo se mide; es una inferencia que ningún autor leído formula así.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -18,7 +18,7 @@ revisado:
 
 # Evidencia de los tutores inteligentes
 
-Los metaanálisis dan a los tutores inteligentes efectos de 0,4 a 0,8 desviaciones estándar, cerca de la tutoría humana; el mejor ensayo a escala, el de Pane et al. (2014) con el Cognitive Tutor de Álgebra, dio cero el primer año y unos 0,20 el segundo. La distancia entre las dos cifras se explica en parte por cómo se mide.
+Los metaanálisis dan a los tutores inteligentes efectos de 0,4 a 0,8 desviaciones estándar, cerca de la tutoría humana; el mejor ensayo a escala, el de Pane et al. (2014) con el Cognitive Tutor de Álgebra, dio cero el primer año y unos 0,20 el segundo. Esta base atribuye parte de la distancia a cómo se mide; es una inferencia que ningún autor leído formula así.
 
 Cómo leer un tamaño de efecto (d, g, desviaciones estándar) está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md); por qué un ensayo grande da menos que un metaanálisis de estudios chicos, en [evidencia en educación](../../Didactica/Fundamentos/evidencia-en-educacion.md).
 
@@ -26,11 +26,11 @@ Cómo leer un tamaño de efecto (d, g, desviaciones estándar) está en [cómo l
 
 | Revisión | Qué reunió | Resultado principal | Cuánto se leyó |
 |---|---|---|---|
-| VanLehn (2011) | Tutoría humana, tutores inteligentes y otros sistemas | Tutoría humana d = 0,79 y tutores inteligentes d = 0,76 frente a sin tutoría; los sistemas que solo miran la respuesta final, d = 0,31 | Abstract; la cifra de 0,31, de una diapositiva |
+| VanLehn (2011) | Tutoría humana, tutores inteligentes y otros sistemas | Tutoría humana d = 0,79 y tutores inteligentes d = 0,76 frente a sin tutoría; los sistemas que solo miran la respuesta final, d = 0,31 | Resumen del buscador; la cifra de 0,31, de una diapositiva |
 | Ma et al. (2014) | 107 tamaños de efecto, 14.321 participantes | g = 0,42 frente a clase grupal dirigida por un docente; 0,57 frente a instrucción por computadora sin tutor; 0,35 frente a libros o cuadernos; sin diferencia significativa con tutoría humana individual (g = –0,11) ni en grupos chicos (0,05) | Texto completo |
 | Kulik y Fletcher (2016) | 50 evaluaciones controladas | Efecto mediano de 0,66 desviaciones estándar, del percentil 50 al 75 | Resumen del buscador |
 
-VanLehn probó además la hipótesis de la granularidad: la creencia de que cuanto más fino el seguimiento, mayor el efecto (0,3 para los sistemas de respuesta, 1,0 para los tutores inteligentes y 2,0 para el tutor humano experto). La revisión no la confirmó: seguir los pasos rinde casi lo mismo que un humano, y ni uno ni otro llega a 2,0. Eso choca con las dos desviaciones estándar que Bloom atribuyó a la tutoría en 1984; esa discusión está en el [problema de las dos sigmas](../../Didactica/Tutoria-y-mentoria/problema-de-las-dos-sigmas.md), y la evidencia de la [tutoría](../../Didactica/Tutoria-y-mentoria/tutoria.md) humana, en Didáctica.
+VanLehn probó además la hipótesis de la granularidad: la creencia de que cuanto más fino el seguimiento, mayor el efecto (0,3, 1,0 y 2,0 según el nivel de detalle del seguimiento). La revisión no la confirmó: seguir los pasos rinde casi lo mismo que un humano, y ni uno ni otro llega a 2,0. Eso choca con las dos desviaciones estándar que Bloom atribuyó a la tutoría en 1984; esa discusión está en el [problema de las dos sigmas](../../Didactica/Tutoria-y-mentoria/problema-de-las-dos-sigmas.md), y la evidencia de la [tutoría](../../Didactica/Tutoria-y-mentoria/tutoria.md) humana, en Didáctica.
 
 Ma et al. encontraron efectos positivos en todos los niveles educativos y en casi todas las materias. En sus tablas, los efectos son más chicos con pruebas estandarizadas (0,42 en un modelo, 0,27 en el otro) que con pruebas armadas por el investigador, y más grandes en los estudios que no controlaron el nivel previo de los alumnos (0,54 contra 0,38). Para la comparación con la clase grupal, el abstract da 0,42 y las tablas dan 0,44 y 0,37 según el modelo.
 
@@ -51,9 +51,9 @@ Un análisis posterior de Israni, Sales y Pane encontró que la conducta de abus
 
 ## Por qué los metaanálisis dan más que el ensayo
 
-Ningún autor leído lo dice con estas palabras, pero los datos de Ma et al. sugieren el patrón: los efectos bajan con pruebas estandarizadas y con control del nivel previo, que son justamente las condiciones de un ensayo a escala como el de Pane. Según la APA, vía el buscador, muchas evaluaciones se hicieron en las condiciones para las que se diseñó el sistema. Un estudio chico, con la prueba del propio investigador y una implementación cuidada por quienes hicieron el tutor, mide lo mejor posible; un ensayo en 147 escuelas mide lo que pasa en el aula común.
+Ningún autor leído lo dice con estas palabras, pero los datos de Ma et al. sugieren el patrón: los efectos bajan con pruebas estandarizadas y con control del nivel previo, que son justamente las condiciones de un ensayo a escala como el de Pane. Según la APA, vía el buscador, muchas evaluaciones se hicieron en las condiciones para las que se diseñó el sistema. Como lectura de esta base, un estudio chico, con la prueba del propio investigador y una implementación cuidada por quienes hicieron el tutor, mide lo mejor posible; un ensayo en 147 escuelas mide lo que pasa en el aula común.
 
-La conclusión para quien decide: un tutor inteligente bien implementado enseña, y puede rendir como un tutor humano en la prueba del investigador. A escala y con un examen externo, el efecto esperable es de cero a 0,20 desviaciones estándar, y puede tardar un año en aparecer. Todos estos estudios son escolares o universitarios; la extensión a adultos es inferencia.
+Como lectura de esta base, para quien decide: un tutor inteligente bien implementado enseña, y puede rendir como un tutor humano en la prueba del investigador. El único ensayo a escala leído, de un solo producto, dio de cero a 0,20 desviaciones estándar, con el efecto recién en el segundo año. Todos estos estudios son escolares o universitarios; la extensión a adultos es inferencia.
 
 > [!NOTE]
 > Sin fuente todavía: los textos completos de VanLehn (2011), Kulik y Fletcher (2016) y Pane et al. (2014). Las cifras de esos tres salen de resúmenes y de las páginas de RAND y del WWC.

@@ -20,7 +20,7 @@ revisado:
 
 El conocimiento pedagógico del contenido (PCK) es el saber propio de quien enseña una materia: qué representaciones, ejemplos y analogías hacen comprensible cada tema, y qué ideas previas traen los alumnos que lo vuelven fácil o difícil. Lo propuso Shulman en 1986.
 
-Dentro de [Didácticas específicas](didacticas-especificas.md) es el concepto que explica por qué existen: si enseñar fuera solo saber la materia más saber técnicas generales, no harían falta didácticas por materia. Es la respuesta anglosajona a la misma pregunta que la tradición europea contesta con la *Fachdidaktik*.
+Dentro de [Didácticas específicas](didacticas-especificas.md) es el concepto que explica por qué existen: si enseñar fuera solo saber la materia más saber técnicas generales, no harían falta didácticas por materia. Se puede leer como la respuesta anglosajona a la pregunta que la tradición europea contesta con la *Fachdidaktik* (lectura de esta base).
 
 ## Lo que Shulman separó de la materia y de la pedagogía
 
@@ -47,5 +47,5 @@ Toda esa evidencia es de docentes escolares de matemática y ciencias. Que el PC
 
 ## Con qué se confunde
 
-- **Con saber mucho de la materia.** Shulman lo separó de la materia porque saberla no incluye saber qué le cuesta a quien la aprende; el PCK es ese saber sobre la dificultad. Cómo se analiza lo que hace un experto para enseñarlo está en [análisis cognitivo de tareas](../../Diseno-instruccional/Analisis-previo/analisis-cognitivo-de-tareas.md), de Diseño instruccional.
-- **Con una técnica general.** Hacer preguntas o dar retroalimentación son técnicas que sirven en cualquier materia; el PCK dice qué preguntar y qué error esperar en una materia concreta.
+- Con saber mucho de la materia. Shulman lo presenta como una categoría distinta de la materia; el PCK es el saber sobre lo que le cuesta a quien la aprende. Cómo se analiza lo que hace un experto para enseñarlo está en [análisis cognitivo de tareas](../../Diseno-instruccional/Analisis-previo/analisis-cognitivo-de-tareas.md), de Diseño instruccional.
+- Con una técnica general. Hacer preguntas o dar retroalimentación son técnicas que sirven en cualquier materia; el PCK dice qué preguntar y qué error esperar en una materia concreta.
