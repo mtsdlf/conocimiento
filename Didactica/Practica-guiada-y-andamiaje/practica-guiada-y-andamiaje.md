@@ -5,10 +5,11 @@ estado: vigente
 estabilidad: estable
 fuentes:
   - "Rosenshine (2012), Principles of Instruction (principios 5, 7, 8 y 9): https://www.aft.org/sites/default/files/Rosenshine.pdf (lectura completa)"
-  - "van de Pol, Volman y Beishuizen (2010), Educational Psychology Review 22(3):271-297: https://research.vu.nl/ws/files/2755348/252440.pdf (lectura parcial)"
+  - "van de Pol, Volman y Beishuizen (2010), Educational Psychology Review 22(3):271-296: https://research.vu.nl/ws/files/2755348/252440.pdf (lectura parcial)"
   - "Kalyuga (2007), Educational Psychology Review 19:509-539: https://www.uky.edu/~gmswan3/EDC608/Kalyuga2007_Article_ExpertiseReversalEffectAndItsI.pdf (lectura parcial)"
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
+  - "Didactica/.investigacion/fuentes-explicar-y-practica-guiada-2026-11.md"
 aliases: [práctica guiada, guided practice, andamiaje, práctica, scaffolding]
 creado: 2026-11-27
 revisado: 2026-11-27

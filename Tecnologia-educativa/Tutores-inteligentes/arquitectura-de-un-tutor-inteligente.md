@@ -7,6 +7,8 @@ fuentes:
   - "Ma, Adesope, Nesbit y Liu (2014), Journal of Educational Psychology 106(4):901-918, DOI 10.1037/a0037123: https://www.cs.uky.edu/~sgware/reading/papers/ma2014intelligent.pdf"
   - "Wikipedia, Cognitive tutor: https://en.wikipedia.org/wiki/Cognitive_tutor (terciaria; cita a Anderson, Corbett, Koedinger y Pelletier 1995, Journal of the Learning Sciences 4(2):167-207, no leído)"
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
+  - "Anderson, Corbett, Koedinger y Pelletier (1995), Cognitive Tutors: Lessons Learned, Journal of the Learning Sciences 4(2):167-207: https://kilthub.cmu.edu/articles/journal_contribution/Cognitive_Tutors_Lessons_Learned/6469901 (texto completo escaneado; leídas las págs. 168-176 y 196)"
+  - "Tecnologia-educativa/.investigacion/fuentes-tutores-y-plataformas-2026-11.md"
 aliases: [ITS architecture, arquitectura ITS, modelo del estudiante, student model, modelo del dominio, modelo pedagógico, model tracing, knowledge tracing, trazado de modelo, trazado de conocimiento, Cognitive Tutor, SCHOLAR, ACT-R]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -42,7 +44,7 @@ Ma et al. (2014) compararon formas de modelar al estudiante: los tutores con tra
 
 Ma et al. abren la historia con SCHOLAR, de Carbonell (1970), «often regarded as the first ITS». Lo destacan porque su arquitectura ya separaba la representación del dominio de la interfaz en lenguaje natural: la idea de piezas separadas está desde el principio.
 
-Los tutores cognitivos nacieron a principios de los 80 en Carnegie Mellon para poner a prueba la teoría ACT-R de John Anderson. Los primeros fueron un tutor de demostraciones de geometría y uno de programación en LISP. El curso de Álgebra se creó a principios de los 90 y hacia 1999 estaba en 75 escuelas de Estados Unidos; Carnegie Learning es la empresa que salió de ese trabajo. Es el tutor del ensayo a escala de Pane et al., en [evidencia de los tutores inteligentes](evidencia-de-los-tutores-inteligentes.md).
+Los tutores cognitivos nacieron a principios de los 80 en Carnegie Mellon para poner a prueba la teoría de John Anderson, que entonces se llamaba ACT* y después ACT-R. Los primeros fueron un tutor de demostraciones de geometría y uno de programación en LISP. El curso de Álgebra se creó a principios de los 90 y hacia 1999 estaba en 75 escuelas de Estados Unidos; Carnegie Learning es la empresa que salió de ese trabajo. Es el tutor del ensayo a escala de Pane et al., en [evidencia de los tutores inteligentes](evidencia-de-los-tutores-inteligentes.md).
 
 ## Qué heredan los tutores con IA
 

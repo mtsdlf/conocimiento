@@ -7,7 +7,9 @@ fuentes:
   - "Dick y Carey, The Systematic Design of Instruction (componentes del modelo): https://edutechwiki.unige.ch/en/Dick_and_Carey_model (página parcial)"
   - "Mager y Pipe (1997), Analyzing Performance Problems, 3.ª ed. (no leído; reseñas: https://sites.gsu.edu/7150-hpt-manual/?p=331)"
   - "Clark, Feldon, van Merriënboer, Yates y Early (2008), Cognitive task analysis, en Spector et al. (eds.), Handbook of Research on Educational Communications and Technology, 3.ª ed., pp. 577-593: https://digitalcommons.usu.edu/itls_facpub/366 (solo la ficha)"
+  - "Watkins, West Meiers y Visser (2012), A Guide to Assessing Needs, Banco Mundial: https://openknowledge.worldbank.org/handle/10986/2231 (texto completo)"
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
+  - "Diseno-instruccional/.investigacion/fuentes-analisis-previo-2026-11.md"
 aliases: [análisis, front-end analysis, fase de análisis, análisis de ADDIE, análisis de la formación]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -29,7 +31,7 @@ El análisis contesta tres preguntas, y el orden importa porque cada una puede c
 | ¿Qué hace un experto en esta tarea? | Los pasos, las decisiones y los criterios que el curso tiene que enseñar | El curso enseña lo que el experto cree que hace, no lo que hace |
 | ¿Desde dónde arranca quien aprende? | Cuánta ayuda y cuánto diagnóstico previo hacen falta | La ayuda sobra a unos y falta a otros |
 
-La columna de la derecha es una lectura de esta base, sin fuente. Mager y Pipe la convirtieron en un diagrama de preguntas que lleva a examinar primero las soluciones que no son de formación; el BEM de Gilbert ordena las causas del ambiente antes que las de la persona. Están en [análisis de necesidades](analisis-de-necesidades.md).
+La columna de la derecha es una lectura de esta base, sin fuente. Mager y Pipe la convirtieron en un diagrama de preguntas que lleva a examinar primero las soluciones que no son de formación; el BEM de Gilbert ordena las causas del ambiente antes que las de la persona. Kaufman pone la necesidad en la brecha de resultados: «necesitan capacitación» ya nombra una solución, no una necesidad. Los tres están en [análisis de necesidades](analisis-de-necesidades.md).
 
 ## Por qué el experto no alcanza como fuente
 
@@ -41,8 +43,8 @@ La tercera pregunta sale del efecto de inversión de la experticia (Kalyuga et a
 
 ## Qué hay adentro del análisis previo
 
-- [Análisis de necesidades](analisis-de-necesidades.md): decidir si un problema de desempeño se arregla con formación, con el diagrama de Mager y Pipe y el modelo de Gilbert.
+- [Análisis de necesidades](analisis-de-necesidades.md): decidir si un problema de desempeño se arregla con formación, con el diagrama de Mager y Pipe, el modelo de Gilbert y la necesidad como brecha de resultados de Kaufman.
 - [Análisis cognitivo de tareas](analisis-cognitivo-de-tareas.md): sacarle al experto lo que hace sin darse cuenta, la cifra del 70 % y el punto ciego del experto.
 - [Análisis de quien aprende](analisis-de-quien-aprende.md): las conductas de entrada, el conocimiento previo y por qué la ayuda tiene que cambiar con la experiencia.
 
-> [!NOTE] Sin fuente todavía: el análisis de necesidades más allá de Mager-Pipe y Gilbert (Kaufman, la distinción entre brecha de desempeño y brecha de formación) no se investigó.
+> [!NOTE] Sin fuente todavía: los libros de Kaufman, leídos de primera mano (su definición llega por una guía del Banco Mundial escrita por un coautor suyo).

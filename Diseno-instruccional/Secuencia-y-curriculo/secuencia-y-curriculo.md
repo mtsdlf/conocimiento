@@ -36,7 +36,7 @@ Una cuarta mirada atraviesa las tres: los [conceptos umbral](conceptos-umbral.md
 
 ## Qué evidencia hay
 
-Poca y despareja. Las jerarquías de Gagné tuvieron un programa de validación en los 70 con fallas metodológicas; la teoría de la elaboración no tiene estudios de resultados encontrados; la espiral tiene casos descriptivos; 4C/ID tiene un metaanálisis con [d](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,79, que mide el modelo entero y no la secuencia sola. El grafo de prerrequisitos se usa mucho en plataformas sin evaluación comparada de resultados.
+Poca y despareja. Las jerarquías de Gagné tuvieron un programa de validación en los 70 con fallas metodológicas; la teoría de la elaboración tiene experimentos chicos de los 80 con resultados mixtos; la espiral, casos descriptivos, un cuasi-experimento universitario y un ensayo aleatorizado de 2024 en primaria que no la aísla ([secuencia de contenidos](secuencia-de-contenidos.md)); 4C/ID tiene un metaanálisis con [d](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,79, que mide el modelo entero y no la secuencia sola. El grafo de prerrequisitos se usa mucho en plataformas sin evaluación comparada de resultados.
 
 ## Qué hay adentro de la secuencia
 

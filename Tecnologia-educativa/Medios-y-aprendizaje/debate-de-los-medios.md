@@ -4,11 +4,15 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
-  - "Clark, R. E. (1994), Media will never influence learning, Educational Technology Research and Development 42(2):21-29, DOI 10.1007/BF02299088: https://link.springer.com/article/10.1007/BF02299088 (resumen del buscador; texto no leído)"
-  - "Kozma, R. B. (1994), Will media influence learning? Reframing the debate, ETR&D 42(2):7-19, DOI 10.1007/BF02299087: https://link.springer.com/content/pdf/10.1007/BF02299087.pdf (resumen del buscador; texto no leído)"
+  - "Clark, R. E. (1983), Reconsidering research on learning from media, Review of Educational Research 53(4):445-459: https://eric.ed.gov/?id=EJ294173 (abstract; la frase del camión, citada por Kozma 1994)"
+  - "Clark, R. E. (1994), Media will never influence learning, Educational Technology Research and Development 42(2):21-29, DOI 10.1007/BF02299088: https://eric.ed.gov/?id=EJ488324 (abstract de ERIC; texto no leído)"
+  - "Kozma, R. B. (1994), Will media influence learning? Reframing the debate, ETR&D 42(2):7-19, DOI 10.1007/BF02299087: copia de un curso de la Universidad de Kentucky, https://www.uky.edu/~gmswan3/609/Kozma_1991.pdf (texto completo)"
+  - "Lawson, Marchand Martella et al. (2024), Confounded or Controlled? A Systematic Review of Media Comparison Studies Involving Immersive Virtual Reality for STEM Education, Educational Psychology Review 36:69: https://escholarship.org/uc/item/8zv0283x (texto completo)"
+  - "Hastings y Tracey (2005), Does Media Affect Learning: Where Are We Now?, TechTrends: https://eric.ed.gov/?id=EJ684131 (abstract)"
   - "Russell, T. L. (1999), The No Significant Difference Phenomenon, North Carolina State University, vía https://www.tonybates.ca/2008/07/21/the-no-significant-difference-phenomenon/ (secundaria)"
   - "Means et al. (2010), Evaluation of Evidence-Based Practices in Online Learning, U.S. Department of Education: https://internet.psych.wisc.edu/wp-content/uploads/532-Master/532-UnitPages/Unit-03/DOE_OnlineLearningMetaAnalysis_2010.pdf"
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-fundamentos-y-medios-2026-11.md"
 aliases: [media debate, Clark-Kozma debate, debate Clark Kozma, media will never influence learning, no significant difference, sin diferencia significativa]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -19,20 +23,21 @@ revisado: 2026-11-27
 El debate de los medios es la discusión entre Richard Clark y Robert Kozma sobre si un medio de enseñanza influye en lo que se aprende o si todo el efecto viene del método que transporta. Sirve para leer cualquier estudio que compara una tecnología con su ausencia.
 
 > [!NOTE]
-> Los dos artículos de 1994 no se pudieron abrir (la editorial pide autenticación). Lo que sigue sale de resúmenes del buscador; la cita de Clark no se cotejó con el original.
+> Kozma (1994) se leyó entero. Clark (1983 y 1994) se conoce por sus resúmenes en ERIC y por las citas que hacen otros; la frase de 1994 que sigue no se cotejó con el original.
 
 ## La posición de Clark: el medio es el vehículo
 
-Clark revisó en 1983 los estudios que comparaban medios y concluyó que el medio no influye en el aprendizaje en ninguna condición. En 1994 lo sostuvo con una frase que el buscador devuelve así: el medio «is neither sufficient for nor necessary to learning». Según su argumento, los estudios que encontraban ventajas para un medio estaban confundidos: el grupo con el medio nuevo recibía además otro método de enseñanza, y era el método lo que explicaba la diferencia.
+Clark revisó en 1983 los estudios que comparaban medios y concluyó que el medio no influye en el aprendizaje en ninguna condición. Según su resumen, encontró evidencia consistente de que no hay «learning benefits to be gained from employing any specific medium to deliver instruction». En 1994 lo sostuvo con una frase que el buscador devuelve así: el medio «is neither sufficient for nor necessary to learning». Según su argumento, los estudios que encontraban ventajas para un medio estaban confundidos: el grupo con el medio nuevo recibía además otro método de enseñanza, y era el método lo que explicaba la diferencia.
 
 Como inferencia de esta base: si Clark tiene razón, cualquier efecto atribuido a una tecnología se puede conseguir con otro medio que lleve el mismo método, y elegir el medio es una decisión de costo y de acceso, no de aprendizaje.
 
-> [!NOTE]
-> Sin fuente todavía: la analogía del camión de reparto de Clark (el medio como el camión que trae la comida sin cambiar su valor nutritivo) se cita mucho, pero no se leyó en una fuente.
+La analogía más citada del debate es de ese artículo de 1983. Según la cita que hace Kozma (1994), Clark escribió que los medios son «mere vehicles that deliver instruction but do not influence student achievement any more than the truck that delivers our groceries causes changes in our nutrition» (p. 445). El resumen de Hastings y Tracey (2005) trae la misma cita con la misma página.
 
 ## La posición de Kozma: depende de las condiciones
 
-Kozma (1994) cambia la pregunta de «¿influyen los medios?» a «¿van a influir, y bajo qué condiciones?». Analiza dos entornos: ThinkerTools y la serie Jasper Woodbury. El resumen que leyó esta base no detalla su argumento.
+Kozma (1994) cambia la pregunta: «Perhaps the appropriate question is not do but will media influence learning». Para él la tecnología educativa es una ciencia de diseño, y por eso «If there is no relationship between media and learning it may be because we have not yet made one». Del camión dice que describe el marco de «presentation and response»: el medio como «an inert conveyer of an active stimulus to which the learner makes a behavioral response».
+
+Su evidencia son dos entornos. En ThinkerTools, la computadora dio representaciones y operaciones que a los alumnos les costaba armar solos. En la serie Jasper Woodbury, el video presentó problemas dentro de situaciones sociales complejas. Según Kozma, es probable que el medio ayude a quien tiene dificultad para generar esas representaciones por sí mismo, por poco conocimiento previo o por los límites de la memoria de trabajo. Cierra proponiendo otra pregunta: «In what ways can we use the capabilities of media to influence learning for particular students, tasks, and situations?».
 
 El mismo número de la revista trae réplicas de Jonassen, Campbell y Davidson, de Morrison, de Reiser y de Shrock, que esta base no leyó.
 
@@ -41,7 +46,7 @@ El mismo número de la revista trae réplicas de Jonassen, Campbell y Davidson, 
 >
 > **El medio puede importar según las condiciones (Kozma).** La pregunta correcta es si va a influir y bajo qué condiciones.
 >
-> El buscador describe el debate como no resuelto. Esta base no encontró una revisión que diga cuál de las dos lecturas domina hoy.
+> Ninguna revisión que encontró esta base declara un ganador. La revisión sistemática de Lawson et al. (2024) expone las dos posiciones y aclara que no busca contribuir al debate. Según los autores, de cualquier lado que se esté, hay que comparar medios con el mismo método y el mismo contenido. Según su resumen, Hastings y Tracey (2005) sostienen que siempre hubo más acuerdo del que el debate deja ver. El estado actual está en [medios y aprendizaje](medios-y-aprendizaje.md).
 
 ## «Sin diferencia significativa»
 
@@ -61,4 +66,4 @@ El experimento de Bastani et al. (2025) es un caso que el debate ayuda a leer: e
 
 ## Qué leer del debate
 
-El par Clark 1994 y Kozma 1994, en el mismo número de *Educational Technology Research and Development* (42(2)), es el recurso canónico. Conviene leerlos juntos y fijarse en qué evidencia usa cada uno: Clark, las comparaciones de medios que juzga confundidas con el método; Kozma, los entornos ThinkerTools y Jasper Woodbury.
+El par Clark 1994 y Kozma 1994, en el mismo número de *Educational Technology Research and Development* (42(2)), es el recurso canónico. Conviene leerlos juntos y fijarse en qué evidencia usa cada uno: Clark, las comparaciones de medios que juzga confundidas con el método; Kozma, los entornos ThinkerTools y Jasper Woodbury. Para ver cómo se aplica hoy la exigencia de Clark, sirve la revisión de Lawson et al. (2024) sobre realidad virtual.

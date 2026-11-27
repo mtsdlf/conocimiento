@@ -6,8 +6,9 @@ estabilidad: estable
 fuentes:
   - "Biggs (2014), Constructive alignment in university teaching, HERDSA Review of Higher Education 1: https://www.tru.ca/__shared/assets/herdsa33493.pdf"
   - "Krathwohl (2002), A Revision of Bloom's Taxonomy: An Overview, Theory Into Practice 41(4), 212-218: https://ocw.metu.edu.tr/mod/resource/view.php?id=4265"
-  - "Mager, Preparing Instructional Objectives (1.ª ed. 1962, 3.ª ed. 1997; no leído)"
+  - "Mager (1962), Preparing Instructional Objectives, Fearon Publishers (1.ª ed.): https://archive.org/details/preparinginstruc00mage_0 (texto completo; la 3.ª ed. de 1997, no leída)"
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
+  - "Diseno-instruccional/.investigacion/fuentes-objetivos-y-secuencia-2026-11.md"
 aliases: [learning objectives, objetivos instruccionales, resultados de aprendizaje, learning outcomes, intended learning outcomes, ILO]
 creado: 2026-11-27
 revisado: 2026-11-27

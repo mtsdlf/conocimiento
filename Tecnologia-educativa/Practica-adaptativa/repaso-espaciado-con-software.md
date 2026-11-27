@@ -9,7 +9,10 @@ fuentes:
   - "Manual de Anki, What spaced repetition algorithm does Anki use: https://docs.ankiweb.net/faqs/what-spaced-repetition-algorithm"
   - "Manual de Anki, Deck options: https://docs.ankiweb.net/deck-options.html"
   - "Benchmark de open-spaced-repetition: https://expertium.github.io/Benchmark.html (comunidad del proyecto, sin fecha)"
+  - "FSRS, README: https://www.github.com/open-spaced-repetition/free-spaced-repetition-scheduler (texto completo)"
+  - "Woźniak, P. (1990, en la web desde 1998), SuperMemo 2: Algorithm: https://www.super-memory.com/english/ol/sm2.htm (texto completo)"
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-ia-y-practica-adaptativa-2026-11.md"
 aliases: [spaced repetition software, SRS, tarjetas de memoria, flashcards, repetición espaciada con software, retención deseada, desired retention, programador de repasos]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -28,7 +31,7 @@ Cada tarjeta tiene una pregunta y una respuesta. El programa la muestra, la pers
 Hay dos familias de reglas para calcular ese intervalo:
 
 - Reglas fijas con un factor de facilidad. Cada tarjeta tiene un multiplicador que sube o baja según las respuestas, con un piso para que no se achique de más. Es la lógica de los algoritmos derivados de SuperMemo.
-- Un modelo de la memoria ajustado a cada persona. El programa estima para cada tarjeta tres cosas (cuán probable es recordarla hoy, cuánto dura en memoria y cuán difícil es) y ajusta los parámetros con el historial de repasos de quien la usa. Esas tres estimaciones forman el modelo de tres componentes que el proyecto FSRS atribuye a Piotr Woźniak, creador de SuperMemo.
+- Un modelo de la memoria ajustado a cada persona. El programa estima para cada tarjeta tres cosas (cuán probable es recordarla hoy, cuánto dura en memoria y cuán difícil es) y ajusta los parámetros con el historial de repasos de quien la usa. Esas tres estimaciones forman el modelo de tres componentes que el proyecto FSRS atribuye a Piotr Woźniak, que escribió el primer programa SuperMemo en diciembre de 1987.
 
 Los algoritmos concretos, sus versiones y los valores por defecto están en la ficha de [herramientas de práctica adaptativa](herramientas-de-practica-adaptativa.md).
 
@@ -44,7 +47,7 @@ Con un modelo de la memoria, en lugar de intervalos se elige qué probabilidad d
 | ¿Se asocia el uso de tarjetas con mejores notas? | Deng, Gluckstein y Larsen (2015): 72 estudiantes de medicina de una institución; cada 1.700 tarjetas únicas en un programa de repaso o 445 preguntas de práctica se asociaron con un punto más en el examen Step 1, controlando por el examen de ingreso y otras variables; las tarjetas comerciales prehechas no predijeron | Correlacional y exploratorio: quien más usa puede ser quien más estudia |
 | ¿Qué algoritmo predice mejor el olvido? | Un benchmark público de la comunidad de un algoritmo abierto, con casi 350 millones de repasos: el modelo de la memoria ajustado supera a la regla fija en casi todos los usuarios (las cifras, en la [ficha](herramientas-de-practica-adaptativa.md)) | Mide predicción, no aprendizaje. La regla fija no fue diseñada para dar probabilidades, y el autor advierte: «There is no way to have a truly fair, no caveats, comparison» |
 
-Según el manual del programa, el modelo ajustado «reportedly requires fewer reviews» que la regla fija. Si es así, la ventaja de un mejor algoritmo es de eficiencia (menos repasos para la misma retención), no de cuánto se aprende. Es una inferencia de esta base a partir del manual.
+Según el manual del programa, con el modelo ajustado «users have to do fewer reviews than with Anki's default algorithm to achieve the same retention level», sin citar el estudio que lo mide. Hasta 2026-11 esta nota citaba un «reportedly requires fewer reviews» que la página ya no tiene. Si es así, la ventaja de un mejor algoritmo es de eficiencia (menos repasos para la misma retención), no de cuánto se aprende. Es una inferencia de esta base a partir del manual.
 
 Estudios posteriores sobre el uso de tarjetas digitales dan resultados mixtos, mayormente observacionales y autorreportados; se vieron solo resúmenes y no se citan cifras.
 

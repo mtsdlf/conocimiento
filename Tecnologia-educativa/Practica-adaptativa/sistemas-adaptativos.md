@@ -6,8 +6,13 @@ estabilidad: estable
 fuentes:
   - "Skycak, J. (2023, actualizado en 2026), Individualized Spaced Repetition in Hierarchical Knowledge Structures: https://justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/ (del autor y proveedor)"
   - "Escueta, Nickow, Oreopoulos y Quan (2020), Journal of Economic Literature 58(4):897-996: https://www.aeaweb.org/doi/10.1257/jel.20191507 (resumen)"
+  - "J-PAL (2019), Will technology transform education for the better? (evidence review, resumen del artículo de Escueta et al.): https://www.povertyactionlab.org/sites/default/files/2020-03/education-technology-evidence-review.pdf (texto completo)"
+  - "Quan, V. (2017-09-05), Exploring the promise of education technology, blog de J-PAL: https://www.povertyactionlab.org/node/4552 (texto completo)"
+  - "Fang, Y., Ren, Z., Hu, X. y Graesser, A. (2019), A meta-analysis of the effectiveness of ALEKS on learning, Educational Psychology 39(10):1278-1292: https://doi.org/10.1080/01443410.2018.1495829 (abstract)"
+  - "Sun, S., Else-Quest, N. M., Hodges, L. C., French, A. M. y Dowling, R. (2021), The Effects of ALEKS on Mathematics Learning in K-12 and Higher Education: A Meta-Analysis, Investigations in Mathematics Learning 13(3):182-196: https://doi.org/10.1080/19477503.2021.1926194 (abstract)"
   - "Oreopoulos y Low (2026), NBER w35620: https://www.nber.org/papers/w35620"
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-ia-y-practica-adaptativa-2026-11.md"
 aliases: [adaptive learning system, aprendizaje adaptativo, grafo de conocimiento, knowledge graph, repaso jerárquico, hierarchical spaced repetition, aprendizaje para el dominio, mastery learning, aprendizaje asistido por computadora]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -35,12 +40,14 @@ Es un diseño con respaldo teórico y sin evidencia de efecto. El propio autor d
 
 ## Qué se sabe del efecto
 
-Escueta et al. (2020) ubican estos sistemas dentro del aprendizaje asistido por computadora, una de sus cuatro categorías de tecnología educativa. Esta base no leyó sus conclusiones por categoría.
+Escueta et al. (2020) ubican estos sistemas dentro del aprendizaje asistido por computadora, una de sus cuatro categorías de tecnología educativa. El artículo no se pudo leer; sus conclusiones llegan por el resumen que publicó J-PAL en 2019, antes de la versión de la revista. Según J-PAL, de 30 estudios de aprendizaje asistido por computadora, 20 dieron efectos positivos significativos, y 15 de esos 20 eran de matemática. El mismo resumen dice que hay «some evidence» de que estos programas suben las notas tanto como una tutoría eficaz, y que falta entender por qué unos programas funcionan mejor que otros. Según un coautor, rindieron más usados en clase o como tarea obligatoria.
 
-El único ensayo adaptativo verificado en esta base es indirecto. En el ensayo de dos años de Oreopoulos y Low (2026, documento de trabajo del NBER, sin revisión por pares), el tutor de IA dio de 0,06 a 0,08 [desviaciones estándar](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) por año, que según su resumen es un efecto parecido al de la práctica de Khan Academy sin IA. La práctica adaptativa y la tutoría por chat dieron efectos parecidos y chicos, en escolares de matemática remedial.
+ALEKS, uno de los tutores en línea más usados en Estados Unidos según Fang et al., rinde como la clase tradicional. Fang et al. (2019) reunieron 15 estudios de 2005 a 2015 y, según su resumen, ALEKS fue «as good, but not better than, traditional classroom teaching»; el efecto fue mayor con usos más cortos. Sun et al. (2021) reunieron 33 estudios con 9.238 alumnos y, según su resumen, dieron g = 0,05 (IC 95 % −0,01 a 0,20, así en el resumen, aunque el intervalo no queda centrado en el valor) frente a la enseñanza tradicional y g = 0,43 (0,02 a 0,83) cuando ALEKS la complementa. Los dos discrepan en eso: Fang et al. no encontraron diferencia entre usarlo como enseñanza principal o de apoyo.
+
+El único ensayo reciente leído en esta base es indirecto. En el ensayo de dos años de Oreopoulos y Low (2026, documento de trabajo del NBER, sin revisión por pares), el tutor de IA dio de 0,06 a 0,08 [desviaciones estándar](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) por año, que según su resumen es un efecto parecido al de la práctica de Khan Academy sin IA. La práctica adaptativa y la tutoría por chat dieron efectos parecidos y chicos, en escolares de matemática remedial.
 
 > [!NOTE]
-> Sin fuente todavía: un metaanálisis de sistemas adaptativos comerciales (ALEKS, Duolingo y otros) y las conclusiones de Escueta et al. sobre el aprendizaje asistido por computadora. Para los tutores inteligentes, que son una de las familias con más evidencia en esta base, está [evidencia de los tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md).
+> Sin fuente todavía: un metaanálisis de varios sistemas adaptativos comerciales a la vez (Duolingo y otros, más allá de ALEKS) y el texto de Escueta et al. (2020), que dio 403; lo de arriba sale del resumen de J-PAL. Para los tutores inteligentes, que son una de las familias con más evidencia en esta base, está [evidencia de los tutores inteligentes](../Tutores-inteligentes/evidencia-de-los-tutores-inteligentes.md).
 
 ## Cómo leer la promesa de un producto
 

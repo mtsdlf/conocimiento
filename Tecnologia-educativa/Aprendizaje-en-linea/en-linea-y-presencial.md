@@ -5,7 +5,10 @@ estado: vigente
 estabilidad: estable
 fuentes:
   - "Means, B., Toyama, Y., Murphy, R., Bakia, M. y Jones, K. (2010), Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies, U.S. Department of Education: https://internet.psych.wisc.edu/wp-content/uploads/532-Master/532-UnitPages/Unit-03/DOE_OnlineLearningMetaAnalysis_2010.pdf"
+  - "Bernard, R. M., Borokhovski, E., Schmid, R. F., Tamim, R. M. y Abrami, P. C. (2014), A meta-analysis of blended learning and technology use in higher education: from the general to the applied, Journal of Computing in Higher Education 26(1):87-122: https://eric.ed.gov/?id=EJ1040524 (abstract)"
+  - "Pei, L. y Wu, H. (2019), Does online learning work better than offline learning in undergraduate medical education? A systematic review and meta-analysis, Medical Education Online: https://pubmed.ncbi.nlm.nih.gov/31526248/ (abstract)"
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-aprendizaje-en-linea-2026-11.md"
 aliases: [online vs face-to-face, en línea vs presencial, blended learning, aprendizaje combinado, aprendizaje híbrido, Means 2010]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -43,8 +46,15 @@ La mayoría de los estudios eran de educación superior y de formación profesio
 
 El límite mayor es la fecha. Los estudios terminan en 2008, antes de los cursos abiertos masivos y de los tutores con IA. Esta base no encontró en el metaanálisis una medida de cuántos abandonan, que es la otra pregunta de la vertical y está en [finalización de los MOOC](finalizacion-de-mooc.md).
 
+Dos metaanálisis posteriores van en la misma dirección, según sus resúmenes:
+
+- Bernard, Borokhovski, Schmid, Tamim y Abrami (2014) compararon cursos mixtos con clases presenciales en educación superior. En 117 comparaciones, el curso mixto rindió un tercio de desvío estándar más (g = 0,334). El efecto creció con el tipo de apoyo de la computadora y con la interacción entre estudiantes, con el docente o con el contenido.
+- Pei y Wu (2019) reunieron 16 estudios, buscados entre 2000 y 2017, con estudiantes de grado de medicina. En las pruebas posteriores, el curso en línea rindió más que el presencial (diferencia de medias estandarizada de 0,81, en 15 comparaciones). Con la ganancia entre prueba previa y posterior, la diferencia no fue significativa (3 comparaciones).
+
+El efecto de Pei y Wu es cuatro veces el de Means, con pocos estudios y de una sola disciplina; como lectura de esta base, no alcanza para mover la conclusión general. Ninguno de los dos es de cursos de IT para adultos.
+
 > [!NOTE]
-> Sin fuente todavía: metaanálisis posteriores a 2013 sobre en línea frente a presencial. No se buscaron. El de Bernard et al. (2004) sobre educación a distancia está, por cita secundaria, en [en línea, presencial y mixto](../../Diseno-instruccional/Formatos/en-linea-presencial-y-mixto.md).
+> Sin fuente todavía: un metaanálisis posterior a 2013 de cursos totalmente en línea frente a presenciales, fuera de medicina, leído entero. El de Bernard et al. (2004) sobre educación a distancia está, por cita secundaria, en [en línea, presencial y mixto](../../Diseno-instruccional/Formatos/en-linea-presencial-y-mixto.md).
 
 ## Qué leer del informe
 

@@ -6,8 +6,9 @@ estabilidad: estable
 fuentes:
   - "Wikipedia, Computerized adaptive testing: https://en.wikipedia.org/wiki/Computerized_adaptive_testing"
   - "Cosyn, Doble, Falmagne et al. (2013), cap. 2 de Knowledge Spaces: Applications in Education, Springer: https://www.mheducation.com/content/dam/mhe/research/prek-12/essa-tier-4/aleks-assessing-learning-space.pdf"
-  - "Corbett y Anderson (1994), Knowledge tracing, User Modeling and User-Adapted Interaction 4, 253-278: https://doi.org/10.1007/BF01099821"
+  - "Corbett y Anderson (1995), Knowledge tracing, User Modeling and User-Adapted Interaction 4, 253-278: https://doi.org/10.1007/BF01099821"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-adaptativa-2026-11.md"
 aliases: [adaptive assessment, evaluación adaptativa, modelado del estudiante, student modeling, diagnóstico adaptativo]
 creado: 2026-11-27
 revisado: 2026-11-27

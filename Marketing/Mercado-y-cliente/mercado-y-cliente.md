@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Mercado y cliente es la parte del marketing que decide a quién se le vende: qué progreso busca esa gente al comprar, cuántos de ellos están comprando hoy y si se apunta a un segmento o a toda la categoría.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Clayton Christensen et al., Competing Against Luck (2016)"
@@ -13,7 +13,7 @@ fuentes:
   - "Ehrenberg-Bass, From mental availability to mass marketing... what Ritson and Sharp did and didn't agree on at this year's Cannes: https://marketingscience.info/news-and-insights/from-mental-availability-to-mass-marketing-purpose-nonsense-and-consistency-what-ritson-and-sharp-did-and-didnt-agree-on-at-this-years-cannes"
   - "Marketing/.investigacion/medicion-y-persuasion.md (P9), b2b-y-salida-al-mercado.md (P6) y posicion-contraria.md (P7, E3)"
 creado: 2026-11-19
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mercado y cliente

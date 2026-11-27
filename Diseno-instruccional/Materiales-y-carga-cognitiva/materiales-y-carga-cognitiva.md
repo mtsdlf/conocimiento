@@ -7,7 +7,13 @@ fuentes:
   - "Mayer (2023), Research-Based Principles for Designing Multimedia Instruction, en In Their Own Words, APA Division 2: https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-research-based-principles-for-designing-multimedia-instruction-mayer.pdf"
   - "de Jong (2010), Cognitive load theory, educational research, and instructional design: some food for thought, Instructional Science 38(2), 105-134, doi 10.1007/s11251-009-9110-0: https://ris.utwente.nl/ws/files/6597420/Jong10cognitive.pdf"
   - "Sweller, van Merriënboer y Paas (2019), Cognitive Architecture and Instructional Design: 20 Years Later, Educational Psychology Review 31, 261-292 (no leído)"
+  - "Schroeder y Cenkci (2018), Spatial contiguity and spatial split-attention effects in multimedia learning environments: A meta-analysis, Educational Psychology Review, doi 10.1007/s10648-018-9435-9: https://eric.ed.gov/?id=EJ1186641 (abstract)"
+  - "Chandler y Sweller (1992), The split-attention effect as a factor in the design of instruction, British Journal of Educational Psychology 62, 233-246, doi 10.1111/j.2044-8279.1992.tb01017.x (solo la ficha)"
+  - "Catrambone (1995), Aiding subgoal learning: Effects on transfer, Journal of Educational Psychology: https://eric.ed.gov/?id=EJ505854 (abstract)"
+  - "Margulieux, Catrambone y Guzdial (2016), Employing subgoals in computer programming education, Computer Science Education, doi 10.1080/08993408.2016.1144429: https://eric.ed.gov/?id=EJ1096330 (abstract)"
+  - "Guo, Kim y Rubin (2014), How Video Production Affects Student Engagement: An Empirical Study of MOOC Videos, Learning at Scale 2014, doi 10.1145/2556325.2566239: https://www.cs.rochester.edu/hci/pubs/pdfs/edX-MOOC-video-production-and-engagement_LAS-2014.pdf (texto completo)"
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
+  - "Diseno-instruccional/.investigacion/fuentes-modelos-y-materiales-2026-11.md"
 aliases: [materiales didácticos, materiales instruccionales, diseño de materiales, instructional materials, diseño multimedia]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -38,4 +44,10 @@ Que todo esto valga para adultos que aprenden IT es una extrapolación: ninguno 
 - [Carga cognitiva en el aprendizaje](carga-cognitiva-en-el-aprendizaje.md): las cargas intrínseca, extrínseca y pertinente aplicadas al material didáctico, el efecto de inversión de la experticia y la crítica de de Jong.
 - [Principios multimedia](principios-multimedia.md): los nueve principios de Mayer con cuántos tests los apoyan, sus medianas y cuándo dejan de valer.
 
-> [!NOTE] Sin fuente todavía: el efecto de atención dividida (*split-attention*, Chandler y Sweller), los ejemplos resueltos con subobjetivos y los videos cortos como pautas de material para IT. Son candidatos a una nota propia cuando se investiguen.
+## Tres pautas sin nota propia todavía
+
+- **Atención dividida.** Si el texto y el gráfico que se explican entre sí están separados, quien aprende tiene que juntarlos en la cabeza. Un metaanálisis de 58 comparaciones (n = 2426) encontró g = 0,63 a favor de integrarlos, según su resumen (Schroeder y Cenkci 2018); es pariente de la contigüidad espacial de los [principios multimedia](principios-multimedia.md).
+- **Ejemplos resueltos con subobjetivos.** Catrambone (1995), según su resumen, mostró con 218 universitarios que etiquetar y aislar los pasos de un ejemplo ayuda a resolver problemas nuevos que usan ese subobjetivo. En programación, según su resumen, Margulieux, Catrambone y Guzdial (2016) sugieren mejoras en el laboratorio y efectos parecidos en un entorno de aprendizaje en línea con docentes en ejercicio que querían enseñar computación; el detalle está en [modelado y ejemplos resueltos](../../Didactica/Explicar-y-modelar/modelado-y-ejemplos-resueltos.md).
+- **Videos cortos.** Guo, Kim y Rubin (2014) encontraron en 6,9 millones de sesiones de edX que la mediana de lo que se mira es «at most 6 minutes», y recomiendan tramos más cortos. Midieron cuánto se mira, no cuánto se aprende; el análisis está en [video educativo](../../Tecnologia-educativa/Aprendizaje-en-linea/video-educativo.md).
+
+> [!NOTE] Sin fuente todavía: el texto de Chandler y Sweller (1991, 1992) y un estudio de estas tres pautas en capacitación de adultos en IT. Son candidatos a una nota propia.

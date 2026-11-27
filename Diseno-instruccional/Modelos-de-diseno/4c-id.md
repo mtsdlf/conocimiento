@@ -7,8 +7,13 @@ fuentes:
   - "van Merriënboer, Kirschner y Frèrejean (2024), Ten Steps to Complex Learning: A Systematic Approach to Four-Component Instructional Design, 4.ª ed., Routledge, ISBN 9781032333113: https://www.routledge.com/Ten-Steps-to-Complex-Learning-A-Systematic-Approach-to-Four-Component-Instructional-Design/vanMerrienboer-Kirschner-Frerejean/p/book/9781032333113 (ficha editorial; libro no leído)"
   - "Maastricht University, ficha del libro: https://cris.maastrichtuniversity.nl/en/publications/ten-steps-to-complex-learning-a-systematic-approach-to-four-compo/ (resumen del buscador)"
   - "Costa, Miranda y Melo (2022), The four-component instructional design model (4C/ID): a meta-analysis on use and effect, Learning Environments Research 25(2), 445-463, doi 10.1007/s10984-021-09373-y: https://ciencia.iscte-iul.pt/publications/the-four-component-instructional-design-model-4cid-a-meta-analysis-on-use-and-effect/81383 (abstract)"
+  - "Bastiaens, van Merriënboer y Hoogveld (2002), A Design Methodology for Complex (E)-Learning, AHRD Conference Proceedings, ERIC ED474326: https://files.eric.ed.gov/fulltext/ED474326.pdf (texto completo)"
+  - "Frerejean, van Merriënboer, Kirschner, Roex, Aertgeerts y Marcellis (2019), Designing instruction for complex learning: 4C/ID in higher education, European Journal of Education 54(4), 513-524, doi 10.1111/ejed.12363; versión condensada con licencia CC: https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Design_for_Learning_-_Principles_Processes_and_Praxis_(McDonald_and_West)/02%3A_Instructional_Design_Knowledge/06%3A_Instructional_Design_Processes/6.03%3A_Designing_Instruction_For_Complex_Learning (texto completo de la versión condensada)"
+  - "van Merriënboer, Clark y de Croock (2002), Blueprints for complex learning: The 4C/ID-model, Educational Technology Research and Development 50(2), 39-61, doi 10.1007/BF02504993: https://eric.ed.gov/?id=EJ652497 (abstract)"
+  - "Kester, Kirschner y van Merriënboer (2006), Just-in-time information presentation: Improving learning a troubleshooting skill, Contemporary Educational Psychology, doi 10.1016/j.cedpsych.2005.04.002: https://eric.ed.gov/?id=EJ737564 (abstract)"
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
+  - "Diseno-instruccional/.investigacion/fuentes-modelos-y-materiales-2026-11.md"
 aliases: [4C/ID, four-component instructional design, modelo de cuatro componentes, Ten Steps to Complex Learning, diez pasos, van Merriënboer]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -31,7 +36,26 @@ Dentro de los [modelos de diseño](modelos-de-diseno.md) es el que cubre las tre
 
 La distinción entre lo no rutinario y lo rutinario ordena los componentes. Una lectura de esta base, no del libro (que no se leyó): la [carga cognitiva](../Materiales-y-carga-cognitiva/carga-cognitiva-en-el-aprendizaje.md) podría justificar la separación.
 
-> [!NOTE] Sin fuente todavía: cuándo se da cada tipo de información dentro del curso y cómo se retira la ayuda en cada clase de tareas.
+## Cuándo se da cada información y cómo se retira la ayuda
+
+Dentro de una clase de tareas, la ayuda empieza alta y se retira. Según Bastiaens, van Merriënboer y Hoogveld (2002), la primera tarea de la clase lleva mucha ayuda y la última, ninguna; al pasar a la clase siguiente, la ayuda vuelve a subir. Lo llaman andamiaje (*scaffolding*), y el resultado en todo el curso es «a sawtooth pattern of support».
+
+La ayuda puede ser de dos tipos. La ayuda sobre el producto da parte de la solución: estudiar un caso resuelto o completar una solución a medias. La ayuda sobre el proceso guía los pasos, por ejemplo con hojas de trabajo de preguntas que ordenan cómo encarar el problema.
+
+Frerejean et al. (2019) muestran el andamiaje en un curso de desarrollo de apps para Android de la Universidad de Ciencias Aplicadas de Ámsterdam. Cada clase de tareas empieza con el docente que arma una app pensando en voz alta y los estudiantes que la replican. Siguen apps a medio hacer para terminar y, al final, tareas convencionales «without any support and guidance».
+
+Las dos clases de información llegan en momentos distintos:
+
+| Información | Cuándo se da | A qué se ata |
+|---|---|---|
+| De apoyo | Antes o durante las tareas: «available for students to study before or while they carry out the learning tasks» (Frerejean et al. 2019), como clases, talleres o material de estudio | A la clase de tareas, no a una tarea suelta; cada clase nueva la amplía |
+| Procedimental | Durante la tarea, paso a paso, como un «assistant looking over your shoulder»; aparece en la primera tarea que la necesita y después «quickly fades away» (Bastiaens et al. 2002) | A la rutina que se está haciendo, en unidades chicas |
+
+En esos textos de 2002, la información procedimental se llama «just-in-time information» (así figura también en el resumen de ERIC de van Merriënboer, Clark y de Croock 2002). Bastiaens et al. justifican las unidades chicas porque solo poca información nueva a la vez evita la sobrecarga. La práctica de partes, según el mismo texto, empieza recién después de que se trabajó una versión simple de la tarea completa.
+
+La evidencia sobre el momento es mixta. Kester, Kirschner y van Merriënboer (2006), según su resumen, probaron con 85 estudiantes de unos 15 años si convenía dar la información declarativa (para razonar sobre la falla) antes de la práctica y la procedimental durante. Dar la información de a partes mejoró la transferencia, pero esa combinación de momentos no sumó: «the second hypothesis was not supported».
+
+En IT, el contenido de las dos clases de información envejece rápido. En el curso de Android, los diseñadores usaron menos clases grabadas y mandaron a los estudiantes a fuentes externas, como la documentación oficial para desarrolladores de Android. Según Frerejean et al., así la lista se mantiene al día y los estudiantes practican leer documentación oficial, como en el trabajo.
 
 ## Los diez pasos
 

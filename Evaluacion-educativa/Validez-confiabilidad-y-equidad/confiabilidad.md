@@ -4,10 +4,13 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
-  - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, cap. 2 Reliability/precision y estándar 6.9: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
+  - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, pasajes citados de la introducción, del cap. 2 Reliability/precision y estándar 6.9 (texto): https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
+  - "Jonsson y Svingby (2007), The use of scoring rubrics: Reliability, validity and educational consequences, Educational Research Review 2(2):130-144 (abstract): https://eric.ed.gov/?id=EJ796733"
+  - "Weigle (1994), Using FACETS To Model Rater Training Effects, borrador (abstract): https://eric.ed.gov/?id=ED381994"
   - "Linacre (1994), Sample size and item calibration stability, Rasch Measurement Transactions 7(4) (resumen de herramienta): https://www.rasch.org/rmt/rmt74m.htm"
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-validez-2026-11.md"
 aliases: [reliability, fiabilidad, precisión, reliability/precision, consistencia, acuerdo entre correctores, inter-rater reliability, calibración de correctores]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -42,12 +45,16 @@ Aplicado a un curso con más de una persona que corrige, eso da tres pasos (infe
 2. Durante, que cada uno corrija a ciegas una muestra de lo que corrigió el otro.
 3. Si las diferencias crecen, paren y vuelvan al paso 1.
 
+En la medición educativa, la evidencia leída por resumen va en la misma dirección. Jonsson y Svingby (2007) revisaron 75 estudios sobre rúbricas. Concluyen que la confiabilidad de la corrección de tareas de desempeño puede mejorar con rúbricas, «especially if they are analytic, topic-specific, and complemented with exemplars and/or rater training». Weigle (1994) estudió a 16 correctores de redacciones de inglés como segunda lengua, antes y después de entrenarlos. Según su resumen, el entrenamiento emparejó algo la severidad y mejoró la consistencia, pero «cannot make raters into duplicates of one another».
+
 Sobre los errores típicos de los correctores (el efecto halo, que es dejar que una impresión general tiña la nota de cada criterio, y la indulgencia, que es corregir de más a favor), la evidencia que se encontró viene de la psicología del trabajo, no de la medición educativa, y solo por resumen. Según ese resumen, entrenar para evitar esos errores bajó el halo sin mejorar la exactitud, y entrenar solo en exactitud dio mejores resultados que combinarlo con lo anterior. Los mismos errores aparecen en la [evaluación del desempeño](../../Liderazgo-y-direccion/Gestion-de-personas/evaluacion-del-desempeno.md) de empleados.
 
 ## Grupos chicos
 
 Los índices psicométricos clásicos de confiabilidad, y los modelos de la [teoría de respuesta al ítem](../Evaluacion-adaptativa/teoria-de-respuesta-al-item.md), necesitan decenas o cientos de personas. Con Rasch, Linacre (1994) recomienda unas 30 personas como mínimo para ítems dicotómicos y 50 bien apuntadas como cifra conservadora; para decisiones de alto riesgo, 250. Un curso o una mentoría no llegan a eso.
 
+Los Standards prevén el caso en su introducción. Cuando el análisis cuantitativo no es posible «due to small sample sizes», proponen otras vías: «small sample methodologies, qualitative studies, focus groups, and even logical analysis». No dan un método concreto para estimar la confiabilidad con pocas personas.
+
 Con pocas personas queda el criterio práctico (inferencia de esta base): más de una evidencia antes de una decisión importante, una segunda persona que corrija una muestra, y decisiones reversibles cuando la evidencia es poca.
 
-> [!NOTE] Sin fuente todavía: alternativas validadas para estimar la confiabilidad con cohortes chicas, y literatura de medición educativa (no de psicología del trabajo) sobre entrenamiento de correctores.
+> [!NOTE] Sin fuente todavía: un método validado para estimar la confiabilidad con cohortes chicas (los Standards solo nombran vías generales), y Jonsson y Svingby (2007) y Weigle (1994) leídos enteros.
