@@ -4,10 +4,11 @@ resumen: >-
   devolución, un ajuste) como una fila que no se edita, y calcula el saldo sumando esas filas. Es la
   manera de llevar el stock, una cuenta corriente o cualquier saldo sin perder de dónde salió cada
   número.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Event Sourcing (2005): https://martinfowler.com/eaaDev/EventSourcing.html"
+  - "Martin Fowler, Accounting Narrative (leída el 2026-11-27; también en Software-de-gestion/.investigacion/columnas-tecnicas-97.md): https://martinfowler.com/eaaDev/AccountingNarrative.html"
   - "OpenStax, Principles of Financial Accounting, 6.2 Compare and Contrast Perpetual versus Periodic Inventory Systems: https://openstax.org/books/principles-financial-accounting/pages/6-2-compare-and-contrast-perpetual-versus-periodic-inventory-systems"
   - "PostgreSQL Documentation, Materialized Views: https://www.postgresql.org/docs/current/rules-materializedviews.html"
   - "Martin Kleppmann, Using logs to build a solid data infrastructure (2015): https://martin.kleppmann.com/2015/05/27/logs-for-data-infrastructure.html"
@@ -18,7 +19,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/llevar-el-stock.md (2026-11-27)"
 aliases: [movimientos de stock, libro de movimientos, ledger, stock ledger, kardex, inventario permanente, saldo calculado]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Registro de movimientos
@@ -80,6 +81,16 @@ fecha elegida.
 Un movimiento no se edita ni se borra: si estaba mal, se agrega otro que lo compensa. Fowler
 explica por qué conviene que los movimientos sean diferencias y no valores finales: revertir "add
 $10" es simple, y revertir "set account to $110" obliga a guardar el valor anterior.
+
+En sus patrones contables (*Accounting Narrative*), Fowler formula lo mismo para una cuenta: "The
+value, or balance, of the Account is derived as the sum of all the Accounting Entrys". Ahí compara
+tres maneras de corregir. Borrar lo que estaba mal y cargarlo bien (*Replacement Adjustment*) hace
+perder "history of Accounting Transactions". Revertirlo con un movimiento opuesto y cargar el
+correcto (*Reversal Adjustment*) "keeps history", a costa de muchos movimientos que se cancelan
+entre sí. Cargar solo la diferencia (*Difference Adjustment*) también la conserva, con menos
+movimientos y más trabajo para calcularla. El ajuste por conteo de más abajo es una corrección por
+diferencia. Cómo usa este patrón un software de gestión para la plata, el stock y las horas está en
+[registro de movimientos y dimensiones](../../Software-de-gestion/Columnas-tecnicas/registro-de-movimientos-y-dimensiones.md).
 
 La contabilidad trabaja igual. En el inventario permanente que describe OpenStax, el sistema
 "automatically updates and records the inventory account" con cada compra y cada venta, y el conteo
@@ -152,7 +163,8 @@ lugar, sin cambiar cómo funciona el resto del sistema.
 > [!NOTE]
 > Sin fuente todavía: una fuente primaria del patrón que guarda saldo y movimiento en la misma
 > transacción; el texto de Kleppmann en *Designing Data-Intensive Applications* sobre el libro mayor
-> (solo se vio una cita de un lector); los patrones contables de Fowler (solo se leyó el índice); y
-> el kardex en una norma contable.
+> (solo se vio una cita de un lector); el capítulo de inventario y contabilidad de *Analysis
+> Patterns* de Fowler (solo se leyó el índice; *Accounting Narrative* sí se leyó); y el kardex en una
+> norma contable.
 
 Ver también: [base relacional](base-relacional.md), [cuándo pasar a una base](../../Planillas-de-calculo/cuando-pasar-a-una-base.md).

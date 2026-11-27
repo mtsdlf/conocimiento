@@ -27,7 +27,7 @@ En Argentina, vender o comprar afuera paga tributos propios: derechos de exporta
 > [!WARNING]
 > Ley y dinero: la nota no reemplaza a un contador ni a un despachante. Copia del 2026-11-27. Las alícuotas de exportación se fijan por decreto y cambian; las de granos de acá salen de los anexos del Decreto 423/2026 y rigen según la fecha de embarque. Antes de cotizar una operación, buscá la posición arancelaria en la norma vigente.
 
-Por qué una exportación no lleva IVA y una importación sí, en cualquier país, está en [lugar de la operación](Impuestos-al-consumo/lugar-de-la-operacion.md). El trámite de aduana (destinación, despacho, transporte) es del tema Cadena de suministro y logística (todavía no escrito). La persona humana que cobra servicios del exterior, con las reglas del Banco Central y el monotributo, está en [cobrar servicios del exterior](../Emprender/Legal-e-impuestos/cobrar-servicios-del-exterior.md); acá va lo que paga una empresa.
+Por qué una exportación no lleva IVA y una importación sí, en cualquier país, está en [lugar de la operación](Impuestos-al-consumo/lugar-de-la-operacion.md). El trámite de aduana (destinación, despacho, transporte) está en [comercio exterior](../Cadena-de-suministro-y-logistica/Comercio-exterior/comercio-exterior.md), en Cadena de suministro y logística. La persona humana que cobra servicios del exterior, con las reglas del Banco Central y el monotributo, está en [cobrar servicios del exterior](../Emprender/Legal-e-impuestos/cobrar-servicios-del-exterior.md); acá va lo que paga una empresa.
 
 ## Tributos de la aduana
 

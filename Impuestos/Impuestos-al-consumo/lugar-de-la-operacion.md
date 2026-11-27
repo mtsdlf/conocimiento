@@ -36,7 +36,7 @@ La exportación sale limpia. No alcanza con no cobrar IVA en la venta al exterio
 
 La consecuencia para el exportador es, por inferencia de esta base, un saldo a favor casi permanente: vende sin débito y compra con crédito. Las exportaciones figuran entre las causas de saldo que cita Harrison y Krelove; que el fisco lo devuelva a tiempo es lo que decide si la exportación de verdad sale sin impuesto. Un impuesto en cascada no puede hacer esto: el impuesto de las etapas anteriores ya está en el costo y nadie lo devuelve, como recuerda Keen (ver [impuesto a las ventas](impuesto-a-las-ventas.md#por-qué-los-organismos-lo-critican)).
 
-La importación paga en la aduana. El FMI: «The destination principle requires a charge to VAT to be placed on all imports», con las reglas de la aduana para decidir qué es un bien y cuándo entra. El importador paga el IVA al despachar, junto con los derechos, y si es un contribuyente inscripto lo toma como crédito. Con los bienes es fácil: la mercadería misma garantiza el pago. El trámite de aduana es del tema Cadena de suministro y logística, todavía no escrito.
+La importación paga en la aduana. El FMI: «The destination principle requires a charge to VAT to be placed on all imports», con las reglas de la aduana para decidir qué es un bien y cuándo entra. El importador paga el IVA al despachar, junto con los derechos, y si es un contribuyente inscripto lo toma como crédito. Con los bienes es fácil: la mercadería misma garantiza el pago. El trámite de aduana está en [aduana](../../Cadena-de-suministro-y-logistica/Comercio-exterior/aduana.md), en Cadena de suministro y logística.
 
 ## Servicios: dónde se consume
 
