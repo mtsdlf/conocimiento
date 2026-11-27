@@ -86,6 +86,18 @@ Las definiciones de aprendizaje son las de los libros de texto, como *Learning a
 | Condrodistrofia | Según Brown et al. 2017, "dysplastic, shortened long bones and premature degeneration and calcification of intervertebral discs": patas cortas y discos que envejecen antes. | [Columna del teckel](../Teckel/columna-del-teckel.md) |
 | IVDD (enfermedad de disco intervertebral) | La enfermedad en que los discos de la columna envejecen antes y se hernian. Según la revisión que cita DachsLife, el teckel tiene un riesgo 10 a 12 veces mayor que otras razas. | [Columna del teckel](../Teckel/columna-del-teckel.md) |
 
+## La caza
+
+| Término | Qué es | Dónde se desarrolla |
+|---|---|---|
+| Rastro de sangre (Schweißarbeit) | Seguir con traílla el rastro de un animal herido hasta encontrarlo. | [Rastro de sangre](../Caza-y-trabajo/rastro-de-sangre.md) |
+| Trabajo en madriguera (Bauarbeit, earthdog) | Entrar a una cueva, encontrar a la presa y ladrarle hasta que sale. | [Trabajo en madriguera](../Caza-y-trabajo/trabajo-en-madriguera.md) |
+| Spurlaut | Ladrar mientras se sigue un rastro; es también el nombre de la prueba de rastro de liebre. | [Rastreo de liebre](../Caza-y-trabajo/rastreo-de-liebre.md) |
+| Stöbern | Búsqueda en el monte: el perro busca solo en vegetación espesa, levanta la presa y la persigue ladrando. | [Rastreo de liebre](../Caza-y-trabajo/rastreo-de-liebre.md#búsqueda-en-el-monte) |
+| Madriguera artificial (Schliefenanlage) | Túnel construido donde se entrena y se prueba el trabajo en madriguera, con la presa detrás de una reja. | [Trabajo en madriguera](../Caza-y-trabajo/trabajo-en-madriguera.md) |
+| Baulaut | Ladrar en una madriguera vacía; descalifica en la prueba. | [Trabajo en madriguera](../Caza-y-trabajo/trabajo-en-madriguera.md) |
+| Secuencia predatoria | Los pasos de la caza: orientarse, acechar, perseguir, agarrar, matar, destripar y comer. | [Canalizar el instinto](../Caza-y-trabajo/canalizar-el-instinto.md) |
+
 ## Siglas
 
 | Sigla | Nombre completo | Qué es |

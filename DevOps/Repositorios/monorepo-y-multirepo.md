@@ -50,7 +50,7 @@ actualización y los manifiestos que mantienen todo alineado se explican en
 [Coordinación entre repositorios](coordinacion-entre-repositorios.md).
 
 Un monorepo grande necesita herramientas para no clonar ni construir todo: clon parcial, sparse
-checkout y builds por ruta. La mecánica está en [Git](../../Desarrollo/Git/git.md).
+checkout y builds por ruta. La mecánica está en [Git](../../Desarrollo/Construccion/Git/git.md).
 
 ## Google en un repo, veinte microservicios en veinte
 
