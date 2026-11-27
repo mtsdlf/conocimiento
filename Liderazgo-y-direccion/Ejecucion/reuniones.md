@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una reunión es el formato en que un grupo de trabajo se junta a informarse, resolver problemas o decidir. La ciencia de las reuniones muestra que lo que se dice adentro predice los resultados del equipo, y que las conductas malas, como quejarse, pesan más que las buenas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kauffeld y Lehmann-Willenbrock (2012), Meetings Matter, Small Group Research (según un resumen del abstract): https://doi.org/10.1177/1046496411429599"
@@ -13,7 +13,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/decidir-y-ejecucion.md"
 aliases: [reunión, reuniones, meetings, meeting science, ciencia de las reuniones, reunión de equipo, reunión de pie, stand-up, daily, reuniones improductivas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reuniones

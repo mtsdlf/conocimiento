@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El rol del CEO es lo que le toca a quien dirige la empresa entera: repartir su tiempo y las decisiones, decidir si el fundador sigue al frente, cambiar la organización cuando crece, armar el equipo directivo y rendir cuentas a los dueños. Es la parte del tema con la evidencia más lejana a una empresa chica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bandiera, Prat, Hansen y Sadun (2020), CEO Behavior and Firm Performance, Journal of Political Economy 128(4), versión NBER w23248 (abstract): https://www.nber.org/papers/w23248"
@@ -15,7 +15,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [rol del CEO, CEO, director ejecutivo, director general, dirigir la empresa, chief executive officer]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rol del CEO

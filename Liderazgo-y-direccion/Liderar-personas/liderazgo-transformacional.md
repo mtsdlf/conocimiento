@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El liderazgo transformacional es el estilo que inspira y moviliza a la gente más allá de su interés inmediato, en el modelo que formalizó Bass. Es el más estudiado del campo: predice resultados de forma consistente, pero la crítica más seria sostiene que no se sabe bien qué mide.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Judge y Piccolo (2004), Transformational and Transactional Leadership: A Meta-Analytic Test of Their Relative Validity, Journal of Applied Psychology 89(5) (abstract): https://doi.org/10.1037/0021-9010.89.5.755"
@@ -16,7 +16,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/fundamentos.md"
 aliases: [transformational leadership, liderazgo carismático, charismatic leadership, liderazgo transaccional, transactional leadership, recompensa contingente, contingent reward, rango completo, full-range leadership, MLQ, Multifactor Leadership Questionnaire, Bass]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Liderazgo transformacional

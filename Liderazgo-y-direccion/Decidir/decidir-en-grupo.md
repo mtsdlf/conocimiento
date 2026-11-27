@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Decidir en grupo es juntar lo que saben varias personas para elegir mejor que cada una sola, y falla de forma predecible porque la discusión gira sobre lo que todos ya saben. El fenómeno tiene metaanálisis; las técnicas que lo corrigen (abogado del diablo, premortem, Delphi, votar antes de hablar) tienen evidencia dispar, casi toda de laboratorio o ninguna.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Stasser y Titus (1985), Journal of Personality and Social Psychology 48(6), 1467-1478 (solo metadatos): https://doi.org/10.1037/0022-3514.48.6.1467"
@@ -14,7 +14,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/decidir-y-ejecucion.md"
 aliases: [decisión en grupo, group decision making, perfiles ocultos, hidden profiles, información compartida, abogado del diablo, devil's advocacy, indagación dialéctica, dialectical inquiry, premortem, pre-mortem, Delphi, método Delphi, votar antes de discutir, disenso]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Decidir en grupo

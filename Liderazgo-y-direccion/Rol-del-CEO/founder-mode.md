@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Founder mode es el nombre que Paul Graham le dio en 2024 a dirigir con el fundador metido en el detalle, en lugar de delegar en gerentes profesionales. Ningún estudio lo midió; la pregunta que sí tiene evidencia es si conviene que dirija el fundador o un CEO externo, y la respuesta depende de la población que se mire.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Paul Graham, Founder Mode (1 de septiembre de 2024), leído vía resumidor (según un resumen): https://paulgraham.com/foundermode.html"
@@ -21,7 +21,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [founder mode, manager mode, modo fundador, fundador o CEO externo, fundador-CEO, founder-CEO, sucesión del fundador, founder succession, CEO profesional, founder's dilemma, dilema del fundador]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Founder mode

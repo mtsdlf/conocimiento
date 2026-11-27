@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El equipo directivo es el grupo chico de personas con el que el CEO reparte la dirección de la empresa. La investigación dice que sus miembros imprimen su mirada en la organización y que la mayoría de estos equipos rinde por debajo de lo que podría, pero casi todo viene de empresas grandes; para armar el primero en una empresa chica solo hay práctica.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hambrick y Mason (1984), Upper Echelons: The Organization as a Reflection of Its Top Managers, Academy of Management Review 9 (según un resumen): https://open.ncl.ac.uk/theories/13/upper-echelons-theory/"
@@ -13,7 +13,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/rol-del-ceo.md"
 aliases: [equipo directivo, equipo de dirección, top management team, TMT, senior leadership team, equipo de liderazgo, upper echelons, escalones superiores, first team, primer equipo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Equipo directivo

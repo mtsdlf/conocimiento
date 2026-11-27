@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El conflicto en equipos es el desacuerdo entre sus miembros, que la investigación divide en conflicto de tarea (sobre el trabajo), de relación (personal) y de proceso (sobre cómo se reparte y organiza el trabajo). El de relación y el de proceso dañan de forma estable el desempeño; el efecto del de tarea está en disputa entre dos metaanálisis.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Jehn (1995), A Multimethod Examination of the Benefits and Detriments of Intragroup Conflict, Administrative Science Quarterly (solo metadatos): https://doi.org/10.2307/2393638"
@@ -11,7 +11,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/equipos-y-cultura.md"
 aliases: [conflicto intragrupal, intragroup conflict, team conflict, conflicto de tarea, task conflict, conflicto de relación, relationship conflict, conflicto de proceso, process conflict]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conflicto en equipos

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El ritmo operativo es la cadencia fija de revisiones con que una empresa mira cómo va y corrige: la reunión semanal, la revisión mensual, la planificación trimestral y los tableros que se miran en cada una. No tiene literatura académica propia: se apoya en que monitorear el desempeño se asocia con productividad, y en la práctica de Grove y otros practicantes.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bloom y Van Reenen (2007), Measuring and Explaining Management Practices Across Firms and Countries, QJE 122(4) (según un resumen de NBER): https://nber.org/papers/w12216"
@@ -12,7 +12,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/decidir-y-ejecucion.md"
 aliases: [ritmo operativo, operating rhythm, operating cadence, cadencia de gestión, cadencia de revisiones, management cadence, revisión semanal, revisión mensual, planificación trimestral, QBR, tablero de indicadores, dashboard, business review]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ritmo operativo

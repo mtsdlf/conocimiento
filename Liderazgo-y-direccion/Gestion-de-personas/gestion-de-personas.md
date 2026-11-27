@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La gestión de personas es el ciclo de una persona en la empresa, desde que se la busca hasta que se va: contratarla, incorporarla, conversar con ella, evaluarla, pagarle, hacerla crecer y cerrar su salida. Su evidencia viene casi toda de muestras grandes y no se separa por tamaño de empresa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "DeNisi y Murphy (2017), Performance appraisal and performance management: 100 years of progress?, Journal of Applied Psychology 102(3) (abstract): https://doi.org/10.1037/apl0000085"
@@ -12,7 +12,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [gestión de personas, recursos humanos, RR. HH., gestión del talento, people management, human resource management, HRM, employee life cycle, ciclo de vida del empleado]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gestión de personas

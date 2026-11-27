@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las teorías del liderazgo son las explicaciones de qué hace eficaz a quien influye en otros: sus rasgos, su conducta, la situación, la relación con cada persona y, desde los ochenta, los estilos transformacional y moral. Las conductas predicen más que los rasgos, y varios estilos con nombre propio miden casi lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Judge, Bono, Ilies y Gerhardt (2002), Personality and leadership, Journal of Applied Psychology 87(4) (abstract): https://doi.org/10.1037/0021-9010.87.4.765"
@@ -24,7 +24,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/fundamentos.md"
 aliases: [leadership theories, teorías de liderazgo, estilos de liderazgo, rasgos de liderazgo, consideración e iniciación de estructura, Fiedler, liderazgo situacional, Hersey-Blanchard, camino-meta, path-goal, LMX, leader-member exchange, intercambio líder-miembro, liderazgo auténtico, liderazgo ético, liderazgo de servicio, servant leadership]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Teorías del liderazgo

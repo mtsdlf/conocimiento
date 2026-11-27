@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El tamaño y la composición son los insumos de un equipo: cuántas personas lo forman y quiénes son (habilidades, personalidad, diversidad). Sumar gente agrega capacidad y también costos de coordinación que se subestiman de forma sistemática; la diversidad trae a la vez pérdidas y ganancias de proceso, y no hay una cifra de tamaño óptimo verificada.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hackman (1998), Why Teams Don't Work: https://harrt.ucla.edu/wp-content/uploads/2015/12/why-teams-dont-work.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/equipos-y-cultura.md"
 aliases: [tamaño del equipo, team size, composición del equipo, team composition, diversidad en equipos, team diversity, falacia de escala, team scaling fallacy, pérdidas de proceso, process losses]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tamaño y composición

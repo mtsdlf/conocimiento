@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Pasar de la estrategia al trabajo es convertir un rumbo elegido en pocas prioridades y en lo que cada persona hace cada semana. La mejor evidencia de que esa conversión importa son los estudios de prácticas de gestión, con un experimento aleatorio en la India; las recetas para hacerla son de practicantes.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bloom, Eifert, Mahajan, McKenzie y Roberts (2013), Does Management Matter? Evidence from India, QJE 128(1) (abstract): https://doi.org/10.1093/qje/qjs044"
@@ -17,7 +17,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [ejecución de la estrategia, strategy execution, brecha de ejecución, execution gap, bajar la estrategia, despliegue de la estrategia, kernel de Rumelt, prácticas de gestión, management practices, World Management Survey]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # De la estrategia al trabajo

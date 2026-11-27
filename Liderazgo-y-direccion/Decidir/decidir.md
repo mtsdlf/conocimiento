@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Decidir, como parte de la dirección, es repartir quién decide cada cosa, cuánto se delega, qué tan rápido se decide y cómo se decide entre varios, y aprender después de lo decidido. Las piezas tienen evidencia muy dispar: hay metaanálisis sobre la ambigüedad de rol, la delegación y las revisiones después de la acción, y casi nada sobre los marcos con siglas o las reglas de velocidad de los practicantes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tubre y Collins (2000), Journal of Management 26(1) (abstract): https://doi.org/10.1177/014920630002600104"
@@ -14,7 +14,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [decisiones, toma de decisiones, decision making, decidir en la organización, gobierno de las decisiones]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Decidir

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La compensación es lo que una empresa paga por el trabajo, y un incentivo es la parte del pago que depende de un resultado. Según el metaanálisis de Jenkins y colegas (1998), el incentivo financiero sube la cantidad de trabajo pero no su calidad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Jenkins, Gupta, Mitra y Shaw (1998), Are financial incentives related to performance? A meta-analytic review of empirical research, Journal of Applied Psychology 83(5), 777 (abstract): https://doi.org/10.1037/0021-9010.83.5.777"
@@ -15,7 +15,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [compensación, incentivos, sueldo, salario, bono, pago por desempeño, pay for performance, compensation, incentive pay, transparencia salarial, pay transparency, participación accionaria, employee stock ownership]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Compensación e incentivos

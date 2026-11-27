@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las escuelas de liderazgo y dirección son las formas en que se pensó cómo conducir una organización, desde la administración científica de principios del siglo XX hasta la gestión basada en evidencia. Cada una dejó una idea en uso, y casi ninguna se apoyó en datos que hoy se sostengan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Fayol, funciones del management (Wikipedia, secundaria): https://en.wikipedia.org/wiki/Henri_Fayol"
@@ -27,7 +27,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [escuelas de management, historia del management, teorías de la administración, schools of management thought, management theory, relaciones humanas, gestión basada en evidencia, evidence-based management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuelas de liderazgo y dirección

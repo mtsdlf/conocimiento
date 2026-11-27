@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que hace un CEO, según los estudios que lo midieron, es pasar casi toda la semana en reuniones breves y variadas con mucha gente; cuánto pesa eso en el resultado de la empresa está en disputa, con estimaciones que van de casi nada a una parte grande según el método.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bandiera, Prat, Hansen y Sadun (2020), CEO Behavior and Firm Performance, Journal of Political Economy 128(4): 1325-1369, versión de trabajo NBER w23248 (abstract): https://www.nber.org/papers/w23248 y https://doi.org/10.1086/705331"
@@ -22,7 +22,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/fundamentos.md"
 aliases: [qué hace un CEO, trabajo del CEO, agenda del CEO, efecto CEO, CEO effect, CEO behavior, roles gerenciales, managerial roles, leaders y managers]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Qué hace un CEO

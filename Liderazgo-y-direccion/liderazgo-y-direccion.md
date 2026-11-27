@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Liderazgo y dirección es cómo se conduce a otras personas hacia un trabajo compartido: liderar es influir en ellas, y dirigir es fijar el rumbo, organizar el trabajo y hacer que se cumpla. En esta base cubre los tres niveles en que se ejerce, una persona, un equipo y la empresa entera, con la evidencia de cada práctica.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kotter (1990), What Leaders Really Do, HBR (reproducción parcial): https://www.ere.net/articles/what-leaders-really-do"
@@ -13,7 +13,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/"
 aliases: [liderazgo, dirección, management, gestión, conducción, leadership, dirigir, liderar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Liderazgo y dirección

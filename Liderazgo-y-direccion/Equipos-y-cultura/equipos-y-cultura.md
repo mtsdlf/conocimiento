@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Equipos y cultura es la parte de dirigir que trata qué hace que un grupo trabaje como equipo y qué normas comparte una organización. Su marco es el del campo: los insumos de un equipo (tarea, tamaño, composición) pasan por procesos y estados compartidos (coordinarse, sentirse seguro, discutir) y dan resultados.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kozlowski e Ilgen (2006), Enhancing the Effectiveness of Work Groups and Teams, Psychological Science in the Public Interest (según un resumen): https://doi.org/10.1111/j.1529-1006.2006.00030.x"
@@ -13,7 +13,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/fundamentos.md"
 aliases: [equipos, cultura, trabajo en equipo, teams, teamwork, team effectiveness, organizational culture]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Equipos y cultura

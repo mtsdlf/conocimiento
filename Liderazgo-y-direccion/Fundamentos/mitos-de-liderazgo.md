@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de liderazgo son afirmaciones que circulan en libros, charlas y cursos sobre cómo dirigir y que la evidencia no sostiene como se cuentan: unos cayeron, otros se achicaron y otros nunca se publicaron con revisión de pares.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "De Neve et al. (2013), Born to lead?, Leadership Quarterly (abstract): https://doi.org/10.1016/j.leaqua.2012.08.001"
@@ -30,7 +30,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [mitos del management, mitos de liderazgo, leadership myths, management myths, el líder nace, 70 % de cambios que fracasan]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos de liderazgo

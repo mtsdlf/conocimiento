@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Liderar personas es cómo alguien influye en otras para que hagan bien un trabajo compartido: qué conductas de un jefe tienen evidencia, cómo se gana la confianza, cómo se motiva y cómo se daña. Lo que mejor se sostiene es que importa lo que el jefe hace más que cómo es.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kotter (1990), What Leaders Really Do, HBR (reproducción parcial): https://www.ere.net/articles/what-leaders-really-do"
@@ -16,7 +16,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/fundamentos.md"
 aliases: [liderar, liderazgo de personas, people leadership, leading people, ser jefe, liderazgo interpersonal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Liderar personas

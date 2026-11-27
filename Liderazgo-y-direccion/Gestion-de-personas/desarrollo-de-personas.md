@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El desarrollo de personas es lo que una empresa y un jefe hacen para que alguien pueda hacer un trabajo más difícil que el actual: delegarle, mentorearlo, darle coaching o entrenarlo. El entrenamiento y el coaching tienen efectos medios en metaanálisis; la regla 70-20-10 tiene una base débil.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lee, Willis y Tian (2018), Empowering leadership: A meta-analytic examination, Journal of Organizational Behavior 39(3), 306-325 (abstract): https://doi.org/10.1002/job.2220"
@@ -18,7 +18,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [desarrollo de personas, desarrollo profesional, mentoría, mentoring, coaching, entrenamiento de liderazgo, leadership training, liderazgo empoderador, empowering leadership, 70-20-10, plan de carrera]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desarrollo de personas

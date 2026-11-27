@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos que usan las notas de Liderazgo y dirección, cada uno con una definición corta y la nota que lo desarrolla, agrupados por la parte del tema donde se tratan.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -14,7 +14,7 @@ fuentes:
   - "Rousseau (2006), AMR (abstract): https://doi.org/10.5465/amr.2006.20208679"
 aliases: [glosario, términos de liderazgo, vocabulario de management, glossary of leadership, glossary of management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de Liderazgo y dirección

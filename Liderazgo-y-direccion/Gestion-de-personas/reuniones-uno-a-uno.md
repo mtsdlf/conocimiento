@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una reunión uno a uno es una conversación regular y privada entre un jefe y una persona de su equipo. Casi no tiene investigación propia: el único estudio específico (Gray y colegas, 2026) asocia la calidad de la reunión, más que su cantidad, con el compromiso de la persona.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Gray, Flinchum, Rogelberg, Gerson, Dilley y Kreamer (2026), One Meeting That Should Not Be an Email: Manager-Direct Report One-on-One Meetings and Employee Engagement, Journal of Organizational Behavior (abstract): https://doi.org/10.1002/job.70134"
@@ -12,7 +12,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/gestion-de-personas.md"
 aliases: [uno a uno, one-on-one, one-on-ones, 1:1, reunión individual, reunión de seguimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reuniones uno a uno

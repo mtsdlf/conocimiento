@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La incorporación es el período en que una persona recién contratada aprende su rol y entra al grupo. El metaanálisis de Bauer y colegas (2007) la explica por tres ajustes, claridad de rol, autoeficacia y aceptación social, que median entre lo que hacen la empresa y el recién llegado y si este rinde y se queda.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bauer, Bodner, Erdogan, Truxillo y Tucker (2007), Newcomer adjustment during organizational socialization: A meta-analytic review of antecedents, outcomes, and methods, Journal of Applied Psychology 92(3), 707 (abstract): https://doi.org/10.1037/0021-9010.92.3.707"
@@ -11,7 +11,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/gestion-de-personas.md"
 aliases: [onboarding, socialización organizacional, organizational socialization, ajuste del recién llegado, newcomer adjustment, inducción]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Incorporación

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El liderazgo destructivo es la familia de conductas de un jefe que dañan a su gente o a la organización: la supervisión abusiva, el abandono del rol (laissez-faire) y los rasgos oscuros como el narcisismo. Su asociación con peores resultados se sostiene, y no dirigir también daña: en un estudio, más que el maltrato para la ciudadanía.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tepper (2000), Consequences of abusive supervision, Academy of Management Journal 43(2) (solo metadatos): https://doi.org/10.5465/1556375"
@@ -18,7 +18,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [destructive leadership, supervisión abusiva, abusive supervision, jefe tóxico, toxic boss, mal jefe, laissez-faire, liderazgo pasivo, liderazgo tiránico, tríada oscura, dark triad, narcisismo en líderes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Liderazgo destructivo

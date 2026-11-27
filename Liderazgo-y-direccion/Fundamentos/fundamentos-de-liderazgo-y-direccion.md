@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Liderazgo y dirección sin ser una de sus partes: de dónde vienen sus ideas, cuánto creerle a un estudio de liderazgo, qué circula sin sostén, el vocabulario y qué leer según la necesidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Yukl y Gardner, Leadership in Organizations, 9.ª ed. (índice, texto completo): https://www.pearsonhighered.com/assets/preface/0/1/3/4/0134895134.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [fundamentos de liderazgo, fundamentos de management, fundamentos, liderazgo transversal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de Liderazgo y dirección

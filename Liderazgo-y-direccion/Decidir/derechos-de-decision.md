@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los derechos de decisión dicen quién decide cada tipo de decisión, quién opina antes, quién puede vetar y quién se entera después. La evidencia sostiene que no tenerlo claro (la ambigüedad de rol) se asocia con peor desempeño; los marcos con siglas, como RACI o RAPID, son herramientas de practicantes sin estudios que los comparen.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Tubre y Collins (2000), A meta-analysis of the relationships between role ambiguity, role conflict, and job performance, Journal of Management 26(1), 155-169 (abstract): https://doi.org/10.1177/014920630002600104"
@@ -16,7 +16,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [decision rights, quién decide, roles de decisión, RACI, RAPID, DACI, matriz de responsabilidades, ambigüedad de rol, role ambiguity, descentralización, decentralization]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Derechos de decisión

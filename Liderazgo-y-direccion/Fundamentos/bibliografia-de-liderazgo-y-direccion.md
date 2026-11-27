@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de liderazgo y dirección ordenadas por necesidad (tener el mapa, leer un estudio con criterio, dirigir a una persona, armar un equipo, contratar, decidir, bajar la estrategia, dirigir la empresa entera): la obra, qué parte leer, en qué fijarse y cuánto se leyó para armar la base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Liderazgo-y-direccion/.investigacion/fundamentos.md, secciones 1 a 5 (recursos canónicos y bibliografía)"
@@ -19,7 +19,7 @@ fuentes:
   - "Goleman (2000), Leadership That Gets Results, HBR (texto completo, copia en la web): https://uploads-ssl.webflow.com/5d67ccbeb41d9343fae3a4bc/5e43cc21378398d9716edaff_Goleman-Leadership-that-Gets-Results.pdf"
 aliases: [lecturas de liderazgo, bibliografía de management, libros de liderazgo, reading list leadership, por dónde empezar en liderazgo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de Liderazgo y dirección

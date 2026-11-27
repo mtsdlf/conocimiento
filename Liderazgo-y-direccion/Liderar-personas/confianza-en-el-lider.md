@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La confianza en el líder es cuánto se fía una persona de su jefe, según cómo juzga su habilidad, su benevolencia y su integridad. En un metaanálisis fue el mecanismo de mayor efecto entre la relación con el jefe y el desempeño, y el jefe directo es un referente de confianza particularmente importante.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mayer, Davis y Schoorman (1995), An Integrative Model of Organizational Trust, Academy of Management Review 20(3) (abstract): https://doi.org/10.5465/amr.1995.9508080335"
@@ -16,7 +16,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [trust in leadership, confianza en el jefe, confianza organizacional, organizational trust, habilidad benevolencia integridad, ability benevolence integrity, reparar la confianza, trust repair]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Confianza en el líder

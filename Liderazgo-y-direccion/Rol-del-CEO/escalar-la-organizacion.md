@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Escalar la organización es cambiar cómo se dirige una empresa a medida que suma gente: pasar de que el fundador decida todo a repartir decisiones y sumar mandos medios. No hay teoría con evidencia sólida sobre cuándo hacerlo; hay un modelo de etapas basado en casos, un estudio interno de Google sobre jefes y estudios de economía sobre cuánta autonomía conviene dar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Greiner (1972), Evolution and Revolution as Organizations Grow, Harvard Business Review 50; reedición 1998 (copia del artículo, no abierta): https://naturalsciences.ucmerced.edu/sites/g/files/ufvvjh1296/f/page/documents/evolution_and_revolution_as_organizations_grow.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [escalar, scaling, crecer la organización, etapas de crecimiento, modelo de Greiner, Greiner growth model, mandos medios, middle managers, span of control, alcance de control, amplitud de control, Proyecto Oxígeno, Project Oxygen]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escalar la organización

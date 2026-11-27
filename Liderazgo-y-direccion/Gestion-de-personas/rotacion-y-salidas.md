@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La rotación es la salida de personas de una empresa, por decisión propia (rotación voluntaria) o de la empresa (despido). Depende de muchas causas cuyo peso cambia según el contexto. La investigación sobre justicia estudia cómo se trata a quien se va y cómo lo viven quienes se quedan.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Griffeth, Hom y Gaertner (2000), A meta-analysis of antecedents and correlates of employee turnover, Journal of Management 26(3), 463 (abstract): https://doi.org/10.1177/014920630002600305"
@@ -23,7 +23,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/fundamentos.md"
 aliases: [rotación, rotación de personal, turnover, rotación voluntaria, voluntary turnover, despido, despidos, layoffs, renuncia, salida, retención, retention, arraigo laboral, job embeddedness]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rotación y salidas

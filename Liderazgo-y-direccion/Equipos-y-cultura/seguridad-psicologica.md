@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La seguridad psicológica es la creencia compartida en un equipo de que se puede tomar un riesgo interpersonal (preguntar, admitir un error, discrepar) sin que eso traiga castigo. Se asocia con aprendizaje y desempeño en el estudio original y, según un resumen, en un metaanálisis de 136 muestras; que los cause, y cuánto pesa frente a otras cosas, está sin probar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Edmondson (1999), Psychological Safety and Learning Behavior in Work Teams, Administrative Science Quarterly (abstract): https://doi.org/10.2307/2666999"
@@ -16,7 +16,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [psychological safety, seguridad psicológica del equipo, clima de seguridad, Edmondson, team psychological safety]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Seguridad psicológica

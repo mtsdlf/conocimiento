@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Delegar es pasarle a otra persona la autoridad para decidir sobre un área, y no solo la tarea. La academia lo estudia como liderazgo empoderador: un metaanálisis de 105 muestras lo asocia con más desempeño, conducta de ciudadanía y creatividad, pero, según un metaanálisis posterior, el efecto varía por cultura, y delegar también puede cargar a quien recibe.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lee, Willis y Tian (en línea 2017, papel 2018), Empowering leadership: A meta-analytic examination of incremental contribution, mediation, and moderation, Journal of Organizational Behavior 39(3), 306-325 (abstract): https://doi.org/10.1002/job.2220"
@@ -15,7 +15,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/decidir-y-ejecucion.md"
 aliases: [delegar, delegation, liderazgo empoderador, empowering leadership, empoderamiento, empowerment, niveles de delegación, levels of delegation, delegation poker, participación en la decisión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Delegación

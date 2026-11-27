@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los OKR (objetivos y resultados clave) son un sistema para fijar metas en una organización: un objetivo cualitativo y unos pocos resultados medibles que dicen si se logró. La investigación de esta base no encontró ningún estudio cuantitativo revisado por pares que mida si funcionan; se apoyan en la investigación sobre metas y en el metaanálisis de la dirección por objetivos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Rodgers y Hunter (1991), Impact of management by objectives on organizational productivity, Journal of Applied Psychology 76(2) (abstract, cortado): https://doi.org/10.1037/0021-9010.76.2.322"
@@ -17,7 +17,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [OKR, OKRs, objetivos y resultados clave, objectives and key results, resultados clave, key results, iMBO, MBO, dirección por objetivos, management by objectives, gestión por objetivos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # OKR

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La rendición de cuentas es la expectativa de que una persona tenga que justificar ante otros lo que hizo o decidió. La investigación muestra que puede mejorar o empeorar los resultados según cómo se arme; la práctica de un responsable con nombre por cada compromiso no tiene estudios.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lerner y Tetlock (1999), Accounting for the effects of accountability, Psychological Bulletin 125(2) (abstract): https://doi.org/10.1037/0033-2909.125.2.255"
@@ -11,7 +11,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/decidir-y-ejecucion.md"
 aliases: [rendición de cuentas, accountability, felt accountability, responsabilidad, responsable con nombre, DRI, directly responsible individual, dueño de la tarea, owner, seguimiento de compromisos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rendición de cuentas

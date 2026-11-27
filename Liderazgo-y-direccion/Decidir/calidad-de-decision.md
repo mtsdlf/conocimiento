@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La calidad de una decisión se juzga por cómo se tomó, con la información que había, y no por cómo salió: un buen resultado puede venir de una mala decisión con suerte. La práctica con más evidencia para aprender de lo decidido es la revisión después de la acción (after-action review o debrief), con dos metaanálisis a favor; la idea de que el proceso pesa más que el análisis viene de un estudio de consultora.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lovallo y Sibony (2010), The case for behavioral strategy, McKinsey Quarterly (según un resumen): https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-case-for-behavioral-strategy"
@@ -12,7 +12,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/decidir-y-ejecucion.md"
 aliases: [calidad de las decisiones, decision quality, resulting, juzgar por el resultado, revisión después de la acción, revisión posterior, after-action review, AAR, debrief, retrospectiva, registro de decisiones, decision log, decision record, estrategia conductual, behavioral strategy]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calidad de decisión

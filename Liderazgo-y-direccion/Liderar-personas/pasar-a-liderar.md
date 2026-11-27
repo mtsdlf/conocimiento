@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Pasar a liderar es la transición de hacer el trabajo uno mismo a conseguir que lo hagan otros, como pasa cuando un fundador suma a su primera persona o alguien del equipo asciende a jefe. Su evidencia es escasa: un estudio cualitativo de 19 jefes nuevos, datos de ascensos de vendedores y la práctica interna de Google.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hill (2003), Becoming a Manager: How New Managers Master the Challenges of Leadership, 2.ª ed., Harvard Business School Press (según el catálogo): https://openlibrary.org/books/OL8854532M/Becoming_a_Manager"
@@ -16,7 +16,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/fundamentos.md"
 aliases: [new manager, nuevo jefe, primer jefe, transición a gerente, becoming a manager, de contribuidor individual a jefe, individual contributor to manager, principio de Peter, Peter principle, trampa del experto, Project Oxygen, Proyecto Oxígeno]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pasar a liderar

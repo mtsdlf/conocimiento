@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Contratar es elegir, entre quienes se postulan, a la persona que va a rendir en el puesto. Según la revisión de Sackett y colegas (2022), la entrevista estructurada es el método que mejor predice el desempeño, y la entrevista libre y los años de experiencia están entre los que menos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Sackett, Zhang, Berry y Lievens (2022), Revisiting meta-analytic estimates of validity in personnel selection: Addressing systematic overcorrection for restriction of range, Journal of Applied Psychology 107(11), 2040-2068 (abstract y tabla 3 leída en el PDF): https://doi.org/10.1037/apl0000994"
@@ -15,7 +15,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/gestion-de-personas.md"
 aliases: [contratación, selección de personal, reclutamiento, hiring, personnel selection, entrevista estructurada, structured interview, validez predictiva]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contratar

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ejecución es cómo una estrategia se vuelve trabajo hecho cada semana: pocas prioridades, metas medibles, revisiones regulares, reuniones que sirven y un responsable por cada compromiso. Que gestionar así rinde tiene un experimento aleatorio a favor; casi todas las herramientas concretas son de practicantes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bloom, Eifert, Mahajan, McKenzie y Roberts (2013), Does Management Matter? Evidence from India, QJE 128(1) (abstract): https://doi.org/10.1093/qje/qjs044"
@@ -17,7 +17,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [ejecución, execution, ejecutar la estrategia, strategy execution, bajar la estrategia, operaciones de gestión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ejecución

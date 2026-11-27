@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un equipo efectivo es el que rinde bien en su tarea y deja satisfechos a sus miembros. Hackman propone que lo explica su diseño (la tarea, quiénes lo forman, la dirección y el contexto), y los procesos de coordinación se asocian con el desempeño en un metaanálisis.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hackman (1998), Why Teams Don't Work, en Tindale et al. (eds.), Theory and Research on Small Groups, Plenum: https://harrt.ucla.edu/wp-content/uploads/2015/12/why-teams-dont-work.pdf"
@@ -20,7 +20,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [equipo efectivo, efectividad de equipos, team effectiveness, condiciones de Hackman, Proyecto Aristóteles, Project Aristotle, inteligencia colectiva, collective intelligence, procesos de equipo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Equipos efectivos

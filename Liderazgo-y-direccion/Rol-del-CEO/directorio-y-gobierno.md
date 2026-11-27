@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El gobierno de una empresa es quién controla a quien la dirige: el directorio, los asesores y la forma en que el CEO rinde cuentas a socios e inversores. La evidencia de que un directorio mejore el resultado es difícil de obtener y viene de empresas cotizantes; para una empresa chica hay práctica de capital de riesgo y, en Argentina, lo que piden la SAS y la SRL, que no incluye un directorio.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Adams, Hermalin y Weisbach (2010), The Role of Boards of Directors in Corporate Governance, Journal of Economic Literature 48(1): 58-107, NBER w14486 (abstract): https://www.nber.org/papers/w14486"
@@ -14,7 +14,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/rol-del-ceo.md"
 aliases: [directorio, board, board of directors, gobierno corporativo, corporate governance, consejo asesor, advisory board, asesores, reunión de socios, órgano de administración, gerencia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Directorio y gobierno

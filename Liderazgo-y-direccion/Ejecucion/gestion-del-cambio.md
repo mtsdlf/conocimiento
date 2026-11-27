@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La gestión del cambio es el conjunto de modelos para llevar a una organización de una forma de trabajar a otra, como los ocho pasos de Kotter o ADKAR. El campo es grande y de calidad dispar: el 70 % de cambios que fracasan no tiene fuente, el modelo de tres etapas atribuido a Lewin no es suyo así, y ningún modelo completo se puso a prueba.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hughes (2011), Do 70 Per Cent of All Organizational Change Initiatives Really Fail?, Journal of Change Management 11(4) (abstract): https://doi.org/10.1080/14697017.2011.630506"
@@ -14,7 +14,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/fundamentos.md"
 aliases: [gestión del cambio, change management, cambio organizacional, organizational change, ocho pasos de Kotter, Leading Change, ADKAR, descongelar-cambiar-recongelar, unfreeze-change-refreeze, modelo de Lewin, 70 % de cambios que fracasan]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gestión del cambio

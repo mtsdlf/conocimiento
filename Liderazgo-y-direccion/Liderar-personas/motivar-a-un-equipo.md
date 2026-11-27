@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Motivar a un equipo es lo que hace un jefe para que la gente quiera hacer bien el trabajo, aplicando lo que la psicología sabe de autonomía, metas e incentivos. La conducta con más evidencia es apoyar la autonomía de cada persona, aunque casi toda esa evidencia es de encuestas y no de experimentos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Slemp, Kern, Patrick y Ryan (2018), Leader autonomy support in the workplace: A meta-analytic review, Motivation and Emotion (abstract): https://doi.org/10.1007/s11031-018-9698-y"
@@ -12,7 +12,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [motivar al equipo, motivación de equipos, motivar empleados, team motivation, employee motivation, soporte de autonomía, apoyo a la autonomía, autonomy support]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Motivar a un equipo

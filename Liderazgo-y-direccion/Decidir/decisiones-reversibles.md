@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las decisiones reversibles son las que se pueden deshacer a bajo costo, y la idea es decidirlas rápido y entre pocos, guardando el proceso lento para las que no tienen vuelta. Es una regla de Jeff Bezos, un practicante, sin estudio que la pruebe; el respaldo más cercano es Eisenhardt (1989), que en ocho empresas encontró que quien decide rápido usa más información, no menos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bezos, carta a los accionistas de 2015, publicada en 2016 (según un resumen): https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm"
@@ -12,7 +12,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [decisión reversible, decisiones irreversibles, puerta de una vía, puerta de dos vías, puerta de un sentido, puerta de ida y vuelta, one-way door, two-way door, decisiones de tipo 1 y tipo 2, Type 1 and Type 2 decisions, disagree and commit, regla del 70 %, decidir rápido, velocidad de decisión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Decisiones reversibles

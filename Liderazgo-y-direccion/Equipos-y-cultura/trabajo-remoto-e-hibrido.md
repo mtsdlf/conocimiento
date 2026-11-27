@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trabajo remoto es trabajar fuera de la oficina todo o casi todo el tiempo, y el híbrido es repartir la semana entre la casa y la oficina. Los experimentos muestran más retención y satisfacción sin pérdida de desempeño medible; otros estudios muestran costos en colaboración, feedback y mentoría, y las dos líneas no se compararon directamente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bloom, Liang, Roberts y Ying (2015), Does Working from Home Work? Evidence from a Chinese Experiment, Quarterly Journal of Economics (abstract): https://doi.org/10.1093/qje/qju032"
@@ -12,7 +12,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/equipos-y-cultura.md"
 aliases: [trabajo remoto, teletrabajo, trabajo desde casa, home office, remote work, working from home, WFH, trabajo híbrido, hybrid work, dirigir a distancia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trabajo remoto e híbrido

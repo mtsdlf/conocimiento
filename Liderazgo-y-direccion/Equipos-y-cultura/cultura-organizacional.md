@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La cultura organizacional es el conjunto de supuestos, valores y prácticas que comparte la gente de una organización y que orienta lo que hace sin que nadie lo ordene. Que se asocia con resultados tiene respaldo en un metaanálisis; que se pueda diseñar o cambiar a voluntad no tiene estudios causales.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Schein, Organizational Culture and Leadership, 5.ª ed., cap. de mecanismos de incorporación (índice): https://www.oreilly.com/library/view/organizational-culture-and/9781119212041/c10.xhtml"
@@ -16,7 +16,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [cultura, cultura de empresa, cultura corporativa, organizational culture, corporate culture, Schein, Competing Values Framework, valores en competencia, CVF]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cultura organizacional

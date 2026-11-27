@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación del desempeño es el juicio formal y periódico sobre cómo trabaja una persona, que suele decidir su pago. En dos bases grandes de gerentes, las calificaciones dicen más del evaluador que del evaluado, y en un metaanálisis más de un tercio de las intervenciones de feedback empeoraron el desempeño.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "DeNisi y Murphy (2017), Performance appraisal and performance management: 100 years of progress?, Journal of Applied Psychology 102(3) (abstract): https://doi.org/10.1037/apl0000085"
@@ -17,7 +17,7 @@ fuentes:
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
 aliases: [evaluación de desempeño, evaluación anual, performance review, performance appraisal, gestión del desempeño, performance management, calificación de desempeño, distribución forzada, forced ranking]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación del desempeño
