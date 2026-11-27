@@ -15,7 +15,7 @@ fuentes:
   - "ICC, Incoterms 2020, EXW, A4 y B4 (leído): https://library.iccwbo.org/content/tfb/BOOKS/BK_0049/BK_0049_04_RulesAny.htm"
   - "IFRS Foundation, NIC 2 Inventarios, párrafo 11 (leído): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ias2.html"
   - "DP World, glosario, Landed cost (secundaria, leída): https://www.dpworld.com/en/glossary/landed-cost"
-  - "Cadena-de-suministro-y-logistica/.investigacion/flujo-de-entrada.md (2026-11-27)"
+  - "Cadena-de-suministro-y-logistica/.investigacion/flujo-de-entrada.md y flujo-de-entrada-2.md (2026-11-27)"
 aliases: [flujo de entrada, logística de entrada, inbound logistics, inbound material flow, flujo de materiales de entrada, transporte de entrada, inbound transportation, flete de entrada, inbound freight, arribo esperado, llegada esperada, expected receipt, turno de muelle, turno de descarga, dock appointment, dock appointment scheduling, ventana de descarga, time slot, aviso de despacho, despatch advice, DESADV, ASN, advance ship notice, detención, detention, tiempo de permanencia, dwell time, costo de llegada, landed cost, costo puesto en depósito, desempeño de las entregas entrantes, inbound delivery performance]
 creado: 2026-11-27
 revisado:
@@ -43,7 +43,7 @@ El PCF no tiene un proceso de transporte de entrada aparte: el transporte propio
 
 APQC publicó la versión 8.0 del PCF el 27 de febrero de 2026, según el buscador. No se pudo leer (la página dio error 403), así que no se sabe si 4.4.2 cambió de número o de nombre. Las páginas de medidas de APQC siguen mostrando 4.4.2.3 «Monitor inbound delivery performance» con el ID 10351, pero no dicen de qué versión son.
 
-> [!NOTE] Sin fuente todavía: el texto de 4.4.2 en el PCF 8.0 y sus definiciones; la base cita la 7.4 en todos los temas.
+> [!NOTE] Sin fuente todavía: el texto de 4.4.2 en el PCF 8.0 y sus definiciones; la base cita la 7.4 en todos los temas. Se probaron el PDF y el Excel de APQC (bloqueados), las copias de archive.org (guardan solo la ficha, sin el documento), una copia en un sitio de documentos (bloqueada) y notas de versión (no se encontraron). Hace falta abrir el PDF de APQC desde un navegador.
 
 SCOR, el otro marco de la cadena, pone la entrada dentro de abastecer. Según la tabla de equivalencias de ASCM de 2025, el SCOR Digital Standard tiene S2.2 «Schedule Product Delivery», S2.3 «Manage Inbound Transport» y S2.4 «Receive Product». El S2.3 es nuevo: la versión 12 pasaba directo de programar la entrega (sS1.1) a recibir (sS1.2). Cómo se reparten los dos marcos en el tema está en [marcos de la cadena de suministro](../Fundamentos/marcos-de-la-cadena-de-suministro.md).
 
