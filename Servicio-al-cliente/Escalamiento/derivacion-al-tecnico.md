@@ -20,7 +20,7 @@ revisado: 2026-11-27
 
 Derivar al técnico es decidir, desde un caso, que el problema necesita que alguien vaya a ver el producto, y pasarle al servicio de campo lo que hace falta para la visita. El caso decide y deriva; la visita, su orden de trabajo, el técnico y los repuestos son del servicio de campo, y el caso queda abierto hasta que vuelve el resultado.
 
-Es la salida del [Escalamiento](escalamiento.md) hacia afuera del tema. El servicio de campo pertenece al tema Activos y mantenimiento, todavía no armado. El caso que más seguido termina en una visita es el del producto en garantía, que está en [garantía y reparación](../Caso/garantia-y-reparacion.md).
+Es la salida del [Escalamiento](escalamiento.md) hacia afuera del tema. El [servicio de campo](../../Activos-y-mantenimiento/Servicio-de-campo/servicio-de-campo.md) pertenece al tema Activos y mantenimiento. El caso que más seguido termina en una visita es el del producto en garantía, que está en [garantía y reparación](../Caso/garantia-y-reparacion.md).
 
 ## Dónde lo ubica el campo
 
