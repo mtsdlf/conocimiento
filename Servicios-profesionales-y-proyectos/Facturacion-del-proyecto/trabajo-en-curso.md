@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trabajo en curso es la diferencia, en un momento dado, entre lo que una firma ya trabajó para un cliente y lo que ya le facturó. Existe porque reconocer el ingreso no es facturar: el ingreso sigue el avance del trabajo y la factura sigue el calendario pactado, y la NIIF 15 llama a la diferencia activo del contrato, cuenta a cobrar o pasivo del contrato.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos 35, 39-41, 105-109 y B14-B19: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
@@ -16,7 +16,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 4.5)"
 aliases: [trabajo en curso, WIP, work in progress, trabajo en curso sin facturar, unbilled revenue, ventas sin facturar, unbilled sales, activo del contrato, contract asset, pasivo del contrato, contract liability, ingreso diferido, deferred revenue, porcentaje de avance, percentage of completion]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trabajo en curso

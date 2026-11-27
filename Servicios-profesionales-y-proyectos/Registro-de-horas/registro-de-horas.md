@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El registro de horas es el trabajo hecho, imputado a un proyecto: cada hora imputada dice quién trabajó, en qué proyecto y tarea, qué día, cuánto tiempo y si se cobra. Una vez aprobada se trata como un movimiento: no se edita, se revierte y se vuelve a cargar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 5.3.3.2, 7.7.6 «Develop and manage time and attendance systems», 9.2.2.2 «Generate customer billing data», 9.5.1.5 «Analyze and report employee utilization» y 9.5.2.1 «Enter employee time worked into payroll system»"
@@ -17,7 +17,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-asignacion-y-horas.md"
 aliases: [registro de horas, carga de horas, time tracking, timekeeping, hora imputada, time entry, horas imputadas, parte de horas, imputación de horas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registro de horas

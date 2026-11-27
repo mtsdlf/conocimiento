@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los servicios profesionales, como dominio de negocio, son lo que registra y gestiona una firma que vende trabajo de personas por proyecto: el proyecto con el cliente y su presupuesto, quién trabaja en qué, las horas que se cargan, cómo ese trabajo se vuelve factura y si el proyecto y la firma ganan plata. Es lo que lleva un PSA (professional services automation) o el módulo de proyectos de un ERP, pero existe antes del software: una carpeta por cliente, una planilla de horas y un talonario de facturas hacen lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), categorías 5.0 «Deliver Service», 3.5.3, 9.2.2 y 9.5.1.5 (leídas en el texto)"
@@ -11,7 +11,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/ (cinco informes, 2026-11-27)"
 aliases: [servicios profesionales, PSA, professional services automation, firma de servicios, gestión de proyectos facturables, proyectos con clientes, ERP de servicios, project-based ERP, gestión de una consultora, gestión de un estudio]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Servicios profesionales y proyectos

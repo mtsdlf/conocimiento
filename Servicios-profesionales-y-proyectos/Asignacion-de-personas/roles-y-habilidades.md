@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El rol es la categoría con que una firma de servicios pide, estima y cobra el trabajo (consultor, desarrollador, jefe de proyecto), y la habilidad, con su nivel, es lo que permite elegir qué persona con nombre lo cubre. Un proyecto se planifica primero con roles genéricos y después se baja a personas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 5.2.2.1 «Define and manage skills taxonomy», 5.2.1.5 y 5.2.3.6 «Perform skill and capability testing»"
@@ -18,7 +18,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 2)"
 aliases: [rol, rol genérico, recurso genérico, generic resource, named resource, persona con nombre, habilidades, skills, taxonomía de habilidades, skills taxonomy, nivel de competencia, proficiency]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Roles y habilidades

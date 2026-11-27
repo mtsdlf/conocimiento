@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un hito es un punto del proyecto que se puede observar y que el cliente acepta, como la entrega de un diseño o la puesta en marcha; el entregable es lo que se entrega en ese punto. En un proyecto con cliente el hito es además un evento económico: suele disparar una factura y puede servir para medir el avance del ingreso.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos B14-B19 y B83-B86: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
@@ -14,7 +14,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 4.3)"
 aliases: [hito, hitos, milestone, entregable, deliverable, hito de facturación, billing milestone, hito de pago]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hitos y entregables

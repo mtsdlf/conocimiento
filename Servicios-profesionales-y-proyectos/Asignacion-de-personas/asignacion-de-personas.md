@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La asignación de personas es decidir, a nivel de la firma, quién trabaja en qué proyecto y en qué semanas. Se compara la demanda que viene de los proyectos vendidos y del embudo con la capacidad de las personas, se pide por rol y se reserva a personas con nombre, en firme o en tentativa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 5.2 «Manage service delivery resources», 5.3.1.6 «Identify, select, and assign resources» y 5.3.3.4 «Release resources»"
@@ -14,7 +14,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (secciones 1 y 2)"
 aliases: [asignación de recursos, resource management, gestión de recursos, staffing, planificación de recursos, resource planning, dotación de proyectos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Asignación de personas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los gastos del proyecto son los viajes, materiales y otros costos que la firma paga para un proyecto y le imputa. Algunos se trasladan al cliente y otros no; los que se trasladan se cobran a costo, con un recargo sobre el costo o con un precio por unidad, según lo que diga el contrato.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Project Operations, Set up cost and sales rates for expenses (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/pricing-costing/set-up-cost-sales-rates-expenses"
@@ -17,7 +17,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-asignacion-y-horas.md"
 aliases: [gastos del proyecto, gastos reembolsables, reimbursable expenses, project expenses, gastos refacturables, recargo, markup, refacturar gastos, rebilling]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gastos del proyecto

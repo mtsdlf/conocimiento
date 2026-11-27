@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La utilización es la parte del tiempo de una persona o de la firma que se va en trabajo facturable: horas facturables sobre unas horas de referencia. El número depende de cuál es ese denominador, y si se calcula sobre las horas registradas sube solo cuando la gente deja de cargar el trabajo que no se cobra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wikipedia, Utilization rate (según resumen; su única fuente es el blog de un proveedor de software de servicios): https://en.wikipedia.org/wiki/Utilization_rate"
@@ -16,7 +16,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md"
 aliases: [utilización, utilization, utilization rate, tasa de utilización, utilización facturable, billable utilization, chargeability, utilización productiva, productive utilization, horas disponibles]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Utilización

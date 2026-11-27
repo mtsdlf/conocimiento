@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El proyecto del cliente es el registro económico de un trabajo vendido a un cliente: nace de un presupuesto aceptado o de un contrato firmado, fija la regla con que se va a cobrar, lleva un presupuesto en horas, costo y precio, y junta las horas, los gastos, los hitos y las facturas hasta el cierre financiero.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), categoría 5.3 «Deliver service to customer» (5.3.1.1, 5.3.1.3, 5.3.1.6, 5.3.3.2 a 5.3.3.7)"
@@ -13,7 +13,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 4.1)"
 aliases: [proyecto del cliente, proyecto facturable, client project, billable project, engagement, encargo, proyecto con cliente]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Proyecto del cliente

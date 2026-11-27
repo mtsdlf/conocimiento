@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El abono es un pago periódico fijo por tener un servicio disponible, se use o no; la bolsa de horas es un paquete de horas que el cliente paga por adelantado y que se descuenta a medida que se trabaja. Los dos se facturan antes de trabajar, pero se registran distinto: el abono se gana con el paso del tiempo y la bolsa con cada hora consumida.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "IFRS Foundation, NIIF 15 Ejemplos ilustrativos, Ejemplo 18 (cuota de un club de salud): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15-ie.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 4.4)"
 aliases: [abono, bolsa de horas, horas prepagas, prepaid hours, retainer, iguala, abono mensual, monthly retainer, block of hours, drawdown, horas incluidas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Abono y bolsa de horas

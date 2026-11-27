@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La rentabilidad de la firma es si cada proyecto, cada cliente y la firma entera ganan plata, medida desde el registro de la firma en marcha. Se arma con cuatro datos: el costo de la hora, el margen del proyecto, la utilización y la realización.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 9.5.1.5 «Analyze and report employee utilization»"
@@ -12,7 +12,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md"
 aliases: [rentabilidad de la firma, rentabilidad de un servicio profesional, firm profitability, métricas de servicios profesionales, professional services KPIs, indicadores de una consultora]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rentabilidad de la firma

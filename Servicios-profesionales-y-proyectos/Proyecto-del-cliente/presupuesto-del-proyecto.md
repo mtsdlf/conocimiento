@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El presupuesto del proyecto es la foto aprobada de cuántas horas, cuánto costo y cuánto ingreso se esperan en un proyecto, repartidos por fase, tarea o rol; contra esa foto se comparan los reales, se mueve un pronóstico y, cuando el pronóstico se aleja, se aprueba una versión revisada.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Dynamics 365 Project Operations, Project budget key concepts: https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/budget/keyconcepts-projectbudget"
@@ -15,7 +15,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (sección 2.3)"
 aliases: [presupuesto del proyecto, project budget, línea base de costo, cost baseline, budget at completion, presupuesto de costo, presupuesto de ingreso, pronóstico del proyecto, project forecast]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Presupuesto del proyecto

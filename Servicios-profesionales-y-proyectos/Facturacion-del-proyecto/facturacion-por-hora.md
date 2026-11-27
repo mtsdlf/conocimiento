@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Facturar por hora, en tiempo y materiales, es cobrarle al cliente las horas aprobadas por la tarifa que corresponde a cada una, más los gastos reembolsables; el registro tiene que resolver qué tarifa vale para cada hora, cuánto falta para el tope pactado, qué se ajusta en el borrador y cómo se corrige una factura ya emitida.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Dynamics 365 Project Operations, Price list setup: https://learn.microsoft.com/en-us/dynamics365/project-operations/pricing-costing/price-list-setup"
@@ -26,7 +26,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (sección 3.1)"
 aliases: [facturación por hora, tiempo y materiales, time and materials, T&M, hourly billing, tarifa horaria, billing rate, tope, not-to-exceed, NTE, precio máximo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Facturación por hora

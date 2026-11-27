@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La hoja de horas es el documento en que una persona carga sus horas imputadas de un período, por proyecto y tarea, y las envía para que alguien las apruebe. Pasa por borrador, enviada, aprobada o devuelta; al aprobarse genera el costo y la venta sin facturar del proyecto, y desde ahí una corrección se hace revirtiendo, no editando.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Project Operations, Time entry overview, UI behavior y Time entry configurations (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/time/time-entry-overview"
@@ -17,7 +17,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-asignacion-y-horas.md"
 aliases: [hoja de horas, timesheet, planilla de horas, parte de horas, time sheet, aprobación de horas, timesheet approval]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hoja de horas

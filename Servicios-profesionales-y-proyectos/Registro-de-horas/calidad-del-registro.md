@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La calidad del registro es cuánto se parecen las horas imputadas a las que de verdad se trabajaron en cada proyecto. Hay pocos estudios con método y ninguno da una cifra general: los que hay muestran que el incentivo y la demora de la carga desvían el dato, y el resto es razonamiento sobre para qué se usa la hora y de qué premia la firma.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "WilmerHale (2010), Slice of History: Reginald Heber Smith and the Birth of the Billable Hour (leída entera en el sitio): https://www.wilmerhale.com/en/insights/publications/slice-of-history-reginald-heber-smith-and-the-birth-of-the-billable-hour-august-9-2010"
@@ -18,7 +18,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-asignacion-y-horas.md"
 aliases: [calidad del registro de horas, timesheet accuracy, subregistro, horas no registradas, carga tardía, sobrerregistro, padding, registro automático de tiempo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calidad del registro

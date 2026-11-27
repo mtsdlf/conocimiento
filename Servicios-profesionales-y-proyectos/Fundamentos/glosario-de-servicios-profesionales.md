@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos del tema Servicios profesionales y proyectos, cada uno con su nombre en inglés, una definición corta y la nota donde vive.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), categorías 5.0, 9.2.2 y 9.5.1.5"
@@ -13,7 +13,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/ (cuatro informes, 2026-11-27)"
 aliases: [glosario de servicios profesionales, glosario de PSA, PSA glossary, términos de servicios profesionales, vocabulario de una consultora]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de servicios profesionales

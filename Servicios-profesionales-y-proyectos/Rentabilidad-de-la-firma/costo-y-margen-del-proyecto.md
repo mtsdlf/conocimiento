@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El costo de un proyecto es la suma de sus horas imputadas, cada una por su costo de la hora, más los gastos que se le cargan; el margen del proyecto es su ingreso menos ese costo, y el del cliente, la suma de sus proyectos. El costo de la hora es un dato separado de la tarifa, y cómo se calcula decide qué margen se ve.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "FAR 52.232-7, Payments under Time-and-Materials and Labor-Hour Contracts, (a)(4) (la cita leída en la página): https://www.acquisition.gov/far/52.232-7"
@@ -18,7 +18,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md"
 aliases: [costo y margen del proyecto, costo de la hora, cost rate, costo cargado, loaded cost, fully loaded cost, costo horario, margen del proyecto, project margin, rentabilidad del proyecto, project profitability, margen del cliente, client profitability]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costo y margen del proyecto

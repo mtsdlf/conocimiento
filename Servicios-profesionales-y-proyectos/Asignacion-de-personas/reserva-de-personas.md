@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La reserva de personas es el registro de que una persona va a trabajar en un proyecto unas horas en unas fechas. Nace de un pedido del proyecto, pasa por una propuesta de quien administra a las personas y queda tentativa, que no consume la capacidad de la persona, o firme, que sí.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Project Operations, Booking status (como evidencia de práctica): https://learn.microsoft.com/en-us/dynamics365/project-operations/resource-management/booking-status"
@@ -16,7 +16,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/verificacion-asignacion-y-horas.md"
 aliases: [reserva, booking, reserva tentativa, soft booking, reserva firme, hard booking, pedido de recurso, resource request, staffing request, asignación tentativa, asignación firme]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reserva de personas

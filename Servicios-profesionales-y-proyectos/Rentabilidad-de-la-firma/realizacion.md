@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La realización es la parte del valor del trabajo hecho, a tarifa de lista, que la firma termina facturando y cobrando. Se pierde en tres puntos del registro: cuando se fija una tarifa menor que la de lista, cuando se castigan horas en el borrador de la factura y cuando el cliente no paga lo facturado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Dynamics 365 Project Operations, Manage a proforma invoice (tipos cobrable, no cobrable y de cortesía; qué se edita en el borrador): https://learn.microsoft.com/en-us/dynamics365/project-operations/proforma-invoicing/manage-proforma-invoice"
@@ -17,7 +17,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md"
 aliases: [realización, realization, realization rate, tasa de realización, realización de facturación, billing realization, realización de cobro, collection realization, castigo, write-down, write-off, tarifa efectiva, effective rate, lockup]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Realización

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Demanda y capacidad es la cuenta que dice, con meses de anticipación, si a la firma le van a sobrar o faltar personas de cada rol: la demanda sale de las reservas de los proyectos vendidos y de lo que se espera vender, y la capacidad, de las horas disponibles de cada persona. Cuando no cierra, se contrata, se subcontrata o se mueve la fecha de un proyecto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 5.2.1 «Manage service delivery resource demand» (5.2.1.1 a 5.2.1.8) y 5.2.2 «Create and manage resource plan» (5.2.2.2 a 5.2.2.6)"
@@ -13,7 +13,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 1)"
 aliases: [demanda de recursos, resource demand, plan de recursos, resource plan, pronóstico de recursos, resource forecast, capacity planning, banco, bench, personas sin asignar, subcontratar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Demanda y capacidad

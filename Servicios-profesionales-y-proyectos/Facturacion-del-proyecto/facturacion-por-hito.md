@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Facturar por hito es cobrar un proyecto a precio cerrado según un calendario de facturación: un anticipo al firmar, cuotas que se liberan cuando se alcanzan los hitos acordados y, a veces, una retención de garantía hasta el final. La hora trabajada es costo y no dispara factura; lo que la dispara es el hito.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Dynamics 365 Project Operations, Manage contract values for project-based sales: https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/sales/manage-contract-values-project-based-sales"
@@ -18,7 +18,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (secciones 4.3 y 4.4)"
 aliases: [facturación por hito, milestone billing, calendario de facturación, billing schedule, invoice schedule, anticipo, adelanto, down payment, advance, retención, retainage, retención de garantía]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Facturación por hito

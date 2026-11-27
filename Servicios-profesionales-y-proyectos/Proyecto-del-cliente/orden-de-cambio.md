@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una orden de cambio es el registro de un cambio en el alcance o en el precio de un proyecto (o en los dos) que el cliente y la firma aprobaron; dice qué se agrega o se quita, cuánto vale y cómo mueve el presupuesto del proyecto, los hitos y lo que se factura.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, párrafos 18-21 y 56: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs15.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/proyecto-y-facturacion.md (sección 2.5)"
 aliases: [orden de cambio, change order, modificación del contrato, contract modification, pedido de cambio, change request, adenda]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Orden de cambio

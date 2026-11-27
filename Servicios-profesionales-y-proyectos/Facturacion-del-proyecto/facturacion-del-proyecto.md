@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La facturación del proyecto es la regla con que el trabajo hecho para un cliente se vuelve factura: por hora, por hito o por abono y bolsa de horas, según el modelo de cobro que se vendió. Cada modelo decide qué registro dispara la factura, y en todos la factura sigue un calendario distinto del ingreso, que sigue el trabajo hecho.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, Dynamics 365 Project Operations, Manage contract values for project-based sales: https://learn.microsoft.com/en-us/dynamics365/project-operations/pro/sales/manage-contract-values-project-based-sales"
@@ -15,7 +15,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md (sección 4)"
 aliases: [facturación del proyecto, project billing, project invoicing, facturación de servicios, regla de facturación, billing rule, billing method]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Facturación del proyecto

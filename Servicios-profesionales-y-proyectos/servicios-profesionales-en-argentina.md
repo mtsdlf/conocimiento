@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la Argentina, una firma que factura proyectos de servicios tiene cuatro reglas propias: la factura electrónica de un servicio lleva el período facturado y el vencimiento del pago; la factura se emite al terminar la prestación o al cobrar algo del precio, lo que pase primero; los honorarios son libres salvo los mínimos de la ley de abogados en la justicia nacional y federal; y ajustar en pesos por un índice choca con la prohibición de indexar, que sigue vigente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ARCA, Manual del desarrollador WSFEv1 (RG 4291), tablas del detalle del comprobante y de validaciones: https://www.arca.gob.ar/fe/ayuda/documentos/wsfev1-RG-4291.pdf"
@@ -20,7 +20,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/argentina.md"
 aliases: [servicios profesionales en Argentina, factura de servicios ARCA, honorarios profesionales Argentina, UMA, indexación de contratos, ajuste por inflación en contratos de servicios]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Servicios profesionales en la Argentina
