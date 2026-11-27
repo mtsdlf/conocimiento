@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El castigo físico (chirlos, palmadas) y los gritos o la humillación son disciplina dura; los estudios los asocian con más problemas en los chicos y ningún beneficio claro, aunque se discute cuánto de esa asociación es causa, y en Argentina el castigo corporal está prohibido por el Código Civil y Comercial.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://doi.org/10.1037/fam0000191
@@ -22,14 +22,14 @@ fuentes:
 aliases: [castigo físico, castigo corporal, chirlo, palmada, nalgada, spanking, gritos, disciplina dura, disciplina verbal dura]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Castigo, gritos y chirlos
 
 El castigo físico (chirlos, palmadas) y los gritos o la humillación son disciplina dura; los estudios los asocian con más problemas en los chicos y ningún beneficio claro, aunque se discute cuánto de esa asociación es causa, y en Argentina el castigo corporal está prohibido por el Código Civil y Comercial.
 
-En el cuadro de [estilos de crianza](estilos-de-crianza.md) es el control duro: exigencia sin calidez. El metaanálisis de Pinquart (2017) lo ubica, junto con el control psicológico (culpa, retiro del afecto, según las fuentes), como lo más asociado a problemas de conducta. Qué hacer en su lugar está en [límites y consecuencias](limites-y-consecuencias.md#cómo-se-pone-un-límite-sin-gritar-y-sin-ceder).
+En el cuadro de [estilos de crianza](estilos-de-crianza.md) es el control duro: exigencia sin calidez. El [metaanálisis](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) de Pinquart (2017) lo ubica, junto con el control psicológico (culpa, retiro del afecto, según las fuentes), como lo más asociado a problemas de conducta. Qué hacer en su lugar está en [límites y consecuencias](limites-y-consecuencias.md#cómo-se-pone-un-límite-sin-gritar-y-sin-ceder).
 
 ## Qué dice la ley argentina
 
@@ -43,24 +43,24 @@ La ley 26.061, en su artículo 9, reconoce el derecho de los chicos a "no ser so
 
 ## Qué dice la evidencia sobre el chirlo
 
-No hay ensayos de castigo físico, porque sería antiético asignar chicos a recibirlo. Toda la evidencia es observacional.
+No hay ensayos de castigo físico, porque sería antiético asignar chicos a recibirlo. Toda la evidencia es [observacional](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética): mide lo que ya pasa, sin asignarlo al azar.
 
-El metaanálisis más citado es el de Gershoff y Grogan-Kaylor (2016). Según su resumen, juntó 111 tamaños de efecto de 160.927 chicos; 13 de 17 efectos promedio fueron distintos de cero y "all indicated a link between spanking and increased risk for detrimental child outcomes". Los efectos no difirieron mucho entre el chirlo y el maltrato físico. Según la cobertura de prensa, el estudio define el chirlo como un golpe con la mano abierta en las nalgas o las extremidades.
+El metaanálisis más citado es el de Gershoff y Grogan-Kaylor (2016). Juntó 111 tamaños de efecto (la medida de cuánto cambia algo) de 160.927 chicos; 13 de 17 efectos promedio fueron distintos de cero y todos indicaron «un vínculo entre el chirlo y un mayor riesgo de resultados perjudiciales en los chicos» (traducción; en el original: "all indicated a link between spanking and increased risk for detrimental child outcomes"). Los efectos no difirieron mucho entre el chirlo y el maltrato físico. Según la cobertura de prensa, el estudio define el chirlo como un golpe con la mano abierta en las nalgas o las extremidades.
 
-La posición de la AAP (Sege y Siegel, 2018) dice, según su resumen: "Aversive disciplinary strategies, including all forms of corporal punishment and yelling at or shaming children, are minimally effective in the short-term and not effective in the long-term". La frase importa porque responde al argumento de que "el chirlo funciona": según la AAP, funciona poco aun en el momento. La SAP, en su folleto sobre límites, es más tajante: "Nunca utilizar el castigo físico".
+La posición de la Academia Americana de Pediatría (AAP; Sege y Siegel, 2018) dice: «Las estrategias de disciplina aversivas, incluidas todas las formas de castigo corporal y los gritos o la humillación a los chicos, son mínimamente eficaces a corto plazo y no eficaces a largo plazo» (traducción; en el original: "Aversive disciplinary strategies, including all forms of corporal punishment and yelling at or shaming children, are minimally effective in the short-term and not effective in the long-term"). La frase importa porque responde al argumento de que "el chirlo funciona": según la AAP, funciona poco aun en el momento. La SAP, en su folleto sobre límites, es más tajante: "Nunca utilizar el castigo físico".
 
 > [!IMPORTANT]
-> Se discute si la asociación es causa. Larzelere, Gunnoe y Ferguson (2018) ajustaron por el nivel de problemas que el chico ya tenía antes, porque los chicos más difíciles pueden recibir más castigo. Según su resumen, los resultados indican "a small risk or a small benefit of spanking, depending on the adjustment method", en chicos de 18 meses a 11 años. Un metaanálisis de Ferguson (2013), solo con estudios longitudinales, halló efectos mayormente triviales, salvo uno pequeño sobre el rendimiento cognitivo (según el resumen del buscador).
+> Se discute si la asociación es causa. Larzelere, Gunnoe y Ferguson (2018) ajustaron por el nivel de problemas que el chico ya tenía antes, porque los chicos más difíciles pueden recibir más castigo. Los resultados indican «un riesgo pequeño o un beneficio pequeño del chirlo, según el método de ajuste» (traducción; en el original: "a small risk or a small benefit of spanking, depending on the adjustment method"), en chicos de 18 meses a 11 años. Un metaanálisis de Ferguson (2013), solo con estudios longitudinales (que siguen a los mismos chicos en el tiempo), halló efectos mayormente triviales, salvo uno pequeño sobre el rendimiento cognitivo.
 >
-> Gershoff y otros cinco autores respondieron en 2019 que esas críticas no negaron sus conclusiones ni mostraron "any convincing evidence that physical punishment is beneficial to children", y que "The preponderance of evidence clearly indicates physical punishment is harmful".
+> Gershoff y otros cinco autores respondieron en 2019 que esas críticas no negaron sus conclusiones ni mostraron «ninguna prueba convincente de que el castigo físico beneficie a los chicos» (traducción; en el original: "any convincing evidence that physical punishment is beneficial to children"), y que «la preponderancia de la evidencia indica con claridad que el castigo físico es dañino» (traducción; en el original: "The preponderance of evidence clearly indicates physical punishment is harmful").
 >
 > Lo que comparten las dos posiciones: ninguna fuente leída muestra un beneficio claro del chirlo. La discusión es entre "daña" y "no se puede probar que dañe ni que ayude".
 
 ## Qué dice la evidencia sobre los gritos
 
-Los gritos, los insultos y la humillación se estudian como disciplina verbal dura, junto con el castigo físico. La AAP los incluye en la misma frase que el chirlo ("yelling at or shaming children"). La nota de HealthyChildren sobre esa política agrega que "striking a child, yelling at or shaming them can elevate stress hormones and lead to changes in the brain's architecture"; es la misma institución, así que no cuenta como segunda fuente.
+Los gritos, los insultos y la humillación se estudian como disciplina verbal dura, junto con el castigo físico. La AAP los incluye en la misma frase que el chirlo («gritarles o humillarlos», traducción; en el original: "yelling at or shaming children"). La nota de HealthyChildren sobre esa política agrega que «pegarle a un chico, gritarle o humillarlo puede elevar las hormonas del estrés y llevar a cambios en la arquitectura del cerebro» (traducción; en el original: "striking a child, yelling at or shaming them can elevate stress hormones and lead to changes in the brain's architecture"); es la misma institución, así que no cuenta como segunda fuente.
 
-El estudio directo más citado es el de Wang y Kenny (2014), con 976 familias. Según su resumen, la disciplina verbal dura de madres y padres a los 13 años predijo más problemas de conducta y síntomas depresivos entre los 13 y los 14, y "maternal and paternal warmth did not moderate the longitudinal associations". Leído sin tecnicismos, el cariño no compensó los gritos (lectura propia). Los autores encontraron también un efecto del chico, es decir, que la relación va en los dos sentidos.
+El estudio directo más citado es el de Wang y Kenny (2014), con 976 familias. La disciplina verbal dura de madres y padres a los 13 años predijo más problemas de conducta y síntomas depresivos entre los 13 y los 14, y «la calidez materna y paterna no moderó las asociaciones longitudinales» (traducción; en el original: "maternal and paternal warmth did not moderate the longitudinal associations"). Leído sin tecnicismos, el cariño no compensó los gritos (lectura propia). Los autores encontraron también un efecto del chico, es decir, que la relación va en los dos sentidos.
 
 > [!NOTE]
 > Fuente única para la edad: no se encontró un estudio de gritos en chicos de 2 a 6 años. Wang y Kenny es de adolescentes; para chicos en edad de jardín, la base es la declaración de la AAP, que resume el conjunto de la literatura.
@@ -72,6 +72,10 @@ Los estudios miden la disciplina verbal dura como un patrón que se repite, no u
 Según un comunicado de UNICEF del 1/11/2017, con datos de encuestas de hogares de 2005 a 2016, en Argentina recibió castigo físico el 54,4 % de los chicos de 2 a 4 años y agresión verbal el 62,5 %; el 72,9 % de ese grupo recibió alguna forma de disciplina violenta. En la encuesta ECOVNA de 2012, citada por UNICEF, solo el 3,7 % de los adultos aprobaba el castigo físico, mientras que el 69,5 % decía usar violencia física para criar.
 
 Las dos cifras de 2012 sugieren que casi nadie defiende el chirlo y que muchos lo usan igual, pero salen de una lectura de UNICEF que no se verificó en la encuesta original. Los pasos de [límites y consecuencias](limites-y-consecuencias.md) apuntan a esa distancia: qué hacer en vez de pegar cuando el chico no obedece.
+
+## Qué tan firme es lo que dice esta nota
+
+Gershoff y Grogan-Kaylor, la posición de la AAP, Larzelere y colegas, Ferguson, Wang y Kenny y la respuesta de Gershoff se conocen por sus resúmenes, no por el texto completo; lo de Ferguson, por el resumen del buscador, y la definición de chirlo, por cobertura de prensa. Las cifras de UNICEF vienen de una lectura de UNICEF que no se verificó en la encuesta original. Que el cariño no compensó los gritos es lectura propia.
 
 > [!NOTE]
 > Sin fuente todavía: cifras posteriores a 2016 verificadas en la fuente primaria (hay datos de 2019-2020 citados por la prensa que no se pudieron abrir) y la "Guía práctica para evitar gritos, chirlos y estereotipos" de UNICEF, que no se leyó.

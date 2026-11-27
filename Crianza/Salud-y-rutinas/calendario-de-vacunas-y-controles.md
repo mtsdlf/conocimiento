@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las vacunas del Calendario Nacional de Vacunación 2026 y la frecuencia de los controles de salud del cronograma 2025 del Ministerio de Salud, de 0 a 6 años, copiadas el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://www.argentina.gob.ar/salud/vacunas
@@ -10,7 +10,7 @@ fuentes:
   - https://www.argentina.gob.ar/normativa/nacional/norma-423397/texto
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calendario de vacunas y controles

@@ -66,7 +66,7 @@ El cliente no juzga un precio en el vacío: lo compara con un precio de referenc
 
 Mazumdar, Raj y Sinha (2005) revisan después las dos corrientes, la conductual y la de modelos con datos de panel. Que el precio de un rival conocido funcione como referencia en una categoría de software es una inferencia: los abstracts de ambas revisiones hablan de elección de marca y de promociones en tiendas, no de software.
 
-El anclaje es el caso extremo. Ariely, Loewenstein y Prelec (2003), en seis experimentos, encontraron que las valoraciones iniciales "are strongly influenced by arbitrary 'anchors'", a veces sacados del número de seguro social. Según su abstract, el efecto "does not decrease as a result of experience with a good" y "is not necessarily reduced by market forces". Cuánto resisten estos efectos en réplicas se discute en [economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md).
+El anclaje es el caso extremo. Ariely, Loewenstein y Prelec (2003), en seis experimentos, encontraron que las valoraciones iniciales "are strongly influenced by arbitrary 'anchors'", a veces sacados del número de seguro social. Según su abstract, el efecto "does not decrease as a result of experience with a good" y "is not necessarily reduced by market forces". Cuánto resisten estos efectos en réplicas se discute en [economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md), y el anclaje como sesgo de juicio, en [heurísticas y sesgos](../../Psicologia/Juicio-y-decision/heuristicas-y-sesgos.md#anclaje-el-sesgo-mejor-sostenido).
 
 ## Por qué copiar el precio del rival es mala señal
 

@@ -34,7 +34,7 @@ La satisfacción con las reuniones pesa en cómo se vive el trabajo. Según un r
 
 ## Cuánto tiempo se llevan
 
-Perlow, Hadley y Eun (2017) encuestaron a 182 gerentes senior. Según una nota de la Universidad de Boston, el 65 % dijo que las reuniones les impiden terminar su propio trabajo, el 71 % que son improductivas e ineficientes, el 64 % que van en detrimento del pensamiento profundo y el 62 % que pierden la oportunidad de acercar al equipo. Los ejecutivos pasan «nearly 23 hours a week» en reuniones, contra menos de 10 horas en los años sesenta.
+Perlow, Hadley y Eun (2017) encuestaron a 182 gerentes senior. Según una nota de la Universidad de Boston, el 65 % dijo que las reuniones les impiden terminar su propio trabajo, el 71 % que son improductivas e ineficientes, el 64 % que van en detrimento del pensamiento profundo y el 62 % que pierden la oportunidad de acercar al equipo. Cómo protege cada uno su tiempo de pensar sin cortes está en [trabajo profundo](../../Desarrollo-personal/Efectividad-personal/trabajo-profundo.md), en Desarrollo personal. Los ejecutivos pasan «nearly 23 hours a week» en reuniones, contra menos de 10 horas en los años sesenta.
 
 Son gerentes senior, y es autorreporte. Para empresas de 2 a 50 personas no hay una medida equivalente.
 

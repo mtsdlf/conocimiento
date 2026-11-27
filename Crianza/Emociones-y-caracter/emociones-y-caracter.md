@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Emociones y carácter es el mundo interno del chico: cómo aprende a manejar lo que siente y lo que hace, con qué temperamento viene, cómo se forman la empatía y la motivación, y cómo atraviesa los cambios grandes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.msdmanuals.com/es/hogar/salud-infantil/problemas-de-comportamiento-en-ni%C3%B1os/rabietas
@@ -12,7 +12,7 @@ fuentes:
 aliases: [desarrollo socioemocional, mundo emocional del chico]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Emociones y carácter
@@ -29,7 +29,7 @@ Los [berrinches](berrinches.md) son lo que se ve de ese proceso entre el año y 
 
 ## Lo que el chico trae y lo que se cultiva
 
-El temperamento es la base biológica y se nota desde bebé; cuánto cambia con los años no se verificó. Encima de esa base, el chico desarrolla la [empatía](empatia-y-valores.md), que aparece temprano (a los 18 meses ya ayuda a otros a conseguir lo que buscan) y que los estudios asocian con la forma en que los adultos hablan de lo que sienten los demás. La motivación para esforzarse se cruza con cómo se lo [elogia](elogio-y-mentalidad.md), un tema donde los metaanálisis encuentran efectos chicos.
+El temperamento es la base biológica y se nota desde bebé; cuánto cambia con los años no se verificó. Encima de esa base, el chico desarrolla la [empatía](empatia-y-valores.md), que aparece temprano (a los 18 meses ya ayuda a otros a conseguir lo que buscan) y que los estudios asocian con la forma en que los adultos hablan de lo que sienten los demás. La motivación para esforzarse se cruza con cómo se lo [elogia](elogio-y-mentalidad.md), un tema donde los [metaanálisis](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) (estudios que juntan los resultados de muchos otros) encuentran efectos chicos.
 
 ## Lo que mueve el piso
 

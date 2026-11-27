@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los macronutrientes son los nutrientes que el cuerpo necesita en gramos y que aportan energía: proteína, grasas y carbohidratos, con la fibra como un carbohidrato que no se digiere; los comités de expertos fijan para cada uno un rango como porcentaje de la energía diaria.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.nationalacademies.org/read/27957
@@ -14,7 +14,7 @@ fuentes:
 aliases: [macros]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Macronutrientes
@@ -23,11 +23,15 @@ Los macronutrientes son los nutrientes que el cuerpo necesita en gramos y que ap
 
 Los macronutrientes son la mirada por nutrientes de la comida, la que se usa para comparar dietas y para ajustar un objetivo. La mirada por alimentos, que es la de las guías, está en [grupos de alimentos](grupos-de-alimentos.md); las vitaminas y minerales, que se necesitan en miligramos, en [micronutrientes clave](micronutrientes-clave.md).
 
+## Cuánto de cada uno
+
+Para un adulto sano, los comités de expertos aceptan un rango ancho de cada macronutriente: de 10 a 35 % de la energía en proteína, de 20 a 35 % en grasa y de 45 a 65 % en carbohidratos. La OMS pone topes más estrictos: azúcares libres por debajo de 10 % de la energía, grasas saturadas por debajo de 10 %, grasas trans por debajo de 1 %, y al menos 25 g de fibra por día. Como los rangos son anchos, caben muchas combinaciones distintas de comida. Cuánta proteína necesita quien entrena o quiere bajar grasa es una pregunta de objetivo, y está en [masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md).
+
 ## Los rangos de referencia para adultos
 
-Las Dietary Reference Intakes (DRI) de las National Academies de Estados Unidos fijan un rango aceptable para cada macronutriente, el AMDR. Para adultos es: proteína de 10 a 35 % de la energía, grasa de 20 a 35 % y carbohidratos de 45 a 65 % ([National Academies](https://www.nationalacademies.org/read/27957), según el resumen del buscador). Los rangos son anchos, y por eso admiten combinaciones muy distintas (lectura de esta base). En 2024 las propias National Academies publicaron una carta que se pregunta si el AMDR sigue siendo necesario ([carta](https://pubmed.ncbi.nlm.nih.gov/39680697/)); su conclusión no se leyó.
+Las Ingestas Dietéticas de Referencia (DRI, por Dietary Reference Intakes) de las National Academies de Estados Unidos fijan un rango aceptable para cada macronutriente, el AMDR (rango aceptable de distribución de macronutrientes). Para adultos es: proteína de 10 a 35 % de la energía, grasa de 20 a 35 % y carbohidratos de 45 a 65 % ([National Academies](https://www.nationalacademies.org/read/27957), según el resumen del buscador, marca que vale también para la OMS y para el resto de esta sección). Los rangos son anchos, y por eso admiten combinaciones muy distintas (lectura de esta base). En 2024 las propias National Academies publicaron una carta que se pregunta si el AMDR sigue siendo necesario ([carta](https://pubmed.ncbi.nlm.nih.gov/39680697/)); su conclusión no se leyó.
 
-La OMS fija límites para algunas partes de esos macronutrientes ([OMS](https://www.who.int/news-room/fact-sheets/detail/healthy-diet), según el resumen):
+La OMS (Organización Mundial de la Salud) fija límites para algunas partes de esos macronutrientes ([OMS](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)):
 
 | Qué limita o pide | Cifra de la OMS |
 |---|---|
@@ -43,13 +47,13 @@ Para azúcares hay una sola línea de fuentes leída (la OMS). Las bebidas con a
 
 ## La proteína
 
-El rango de proteína para adultos es de 10 a 35 % de la energía (DRI, según el resumen del buscador). No se leyó una fuente sobre su función en el cuerpo. Cuánta proteína hace falta para conservar músculo mientras se baja grasa, o para ganarlo con entrenamiento, es una pregunta de objetivo y no de la dieta general: está desarrollada en [masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md). Lo de los chicos está en [necesidades de 2 a 6](../Alimentacion-infantil/necesidades-de-2-a-6.md).
+El rango de proteína para adultos es de 10 a 35 % de la energía (DRI). No se leyó una fuente sobre su función en el cuerpo. Cuánta proteína hace falta para conservar músculo mientras se baja grasa, o para ganarlo con entrenamiento, es una pregunta de objetivo y no de la dieta general: está desarrollada en [masa muscular y recomposición](../Objetivos-del-adulto/masa-muscular-y-recomposicion.md). Lo de los chicos está en [necesidades de 2 a 6](../Alimentacion-infantil/necesidades-de-2-a-6.md).
 
 ## Las grasas y el debate de las saturadas
 
-Las grasas se separan por tipo, y las guías tratan distinto a cada uno. Las GAPA piden "aceite crudo como condimento" en su mensaje 9 y sacarle la grasa visible a la carne en el mensaje 7 ([GAPA](https://www.argentina.gob.ar/node/92458)); la OMS pone las saturadas por debajo de 10 % y las trans por debajo de 1 %. Lo que está en discusión es cuánto pesa bajar las saturadas.
+Las grasas se separan por tipo, y las guías tratan distinto a cada uno. Las GAPA (Guías Alimentarias para la Población Argentina) piden "aceite crudo como condimento" en su mensaje 9 y sacarle la grasa visible a la carne en el mensaje 7 ([GAPA](https://www.argentina.gob.ar/node/92458)); la OMS pone las saturadas por debajo de 10 % y las trans por debajo de 1 %. Lo que está en discusión es cuánto pesa bajar las saturadas.
 
-La revisión Cochrane de Hooper y colegas (2020), con 12 ensayos y 53.758 participantes, encontró que reducir la grasa saturada bajó un 17 % los eventos cardiovasculares combinados y casi no cambió la mortalidad total ni la cardiovascular. Las cifras de los dos lados están en [debates de nutrición](../Fundamentos/debates-de-nutricion.md).
+La revisión Cochrane de Hooper y colegas (2020, una revisión sistemática: reúne todos los estudios sobre una pregunta con un método fijado de antemano), con 12 ensayos y 53.758 participantes, encontró que reducir la grasa saturada bajó un 17 % los eventos cardiovasculares combinados y casi no cambió la mortalidad total ni la cardiovascular. Las cifras de los dos lados están en [debates de nutrición](../Fundamentos/debates-de-nutricion.md).
 
 ## Los carbohidratos y la fibra
 

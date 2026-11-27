@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La alimentación infantil es cómo come un chico de 0 a 6 años: cuándo empieza con sólidos, qué y cuánto necesita, cómo se maneja el rechazo y qué riesgos propios tiene a esa edad, como el atragantamiento y las alergias.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.who.int/es/news-room/fact-sheets/detail/infant-and-young-child-feeding
@@ -14,7 +14,7 @@ fuentes:
 aliases: [alimentación del niño, nutrición infantil]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alimentación infantil
@@ -25,7 +25,7 @@ Toma los patrones de [Patrones y guías](../Patrones-y-guias/patrones-y-guias.md
 
 ## Qué cambia entre el bebé y el chico de jardín
 
-Hasta los 2 años la base es la leche materna y la [alimentación complementaria](primeros-alimentos.md), que según la OMS empieza en torno a los 6 meses. Desde el año, según la guía oficial para el chico (Ministerio de Salud, 2006), puede comer lo mismo que la familia; las Guías Alimentarias para la Población Argentina se dirigen a la población general mayor de 2 años, y la porción a su medida es una inferencia, porque ninguna fuente leída da cuánto. Entre los 2 y los 6 aparecen tres cosas que no tiene el adulto: la neofobia (el rechazo de lo nuevo), una masticación todavía inmadura (según la SAP, menores de 4 años no mastican ni degluten con alta coordinación) y comidas más frecuentes que las del adulto: la guía de 2006 pide 4 comidas y, si hace falta, una o dos colaciones.
+Hasta los 2 años la base es la leche materna y la [alimentación complementaria](primeros-alimentos.md), que según la Organización Mundial de la Salud (OMS) empieza en torno a los 6 meses. Desde el año, según la guía oficial para el chico (Ministerio de Salud, 2006), puede comer lo mismo que la familia; las Guías Alimentarias para la Población Argentina se dirigen a la población general mayor de 2 años, y la porción a su medida es una inferencia, porque ninguna fuente leída da cuánto. Entre los 2 y los 6 aparecen tres cosas que no tiene el adulto: la neofobia (el rechazo de lo nuevo), una masticación todavía inmadura (según la SAP, menores de 4 años no mastican ni degluten con alta coordinación) y comidas más frecuentes que las del adulto: la guía de 2006 pide 4 comidas y, si hace falta, una o dos colaciones.
 
 ## Los dos riesgos que no se negocian
 

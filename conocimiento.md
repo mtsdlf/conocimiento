@@ -66,17 +66,23 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 - [Golf](Golf/golf.md) — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
 
+## Música
+
+- [DJ](DJ/dj.md) — la técnica fundamental de pinchar, independiente del equipo: tiempo, forma, espectro, armonía y energía al unir dos temas, y el criterio para elegirlos, con ejemplos del techno del sello ARTS y lo que se sostiene y lo que no de cada regla.
+
 ## Negocio
 
 - [Marketing](Marketing/marketing.md) — mercado y cliente, propuesta, marca, canales, comunicación y medición, con las escuelas y la evidencia de cada idea.
 - [Emprender](Emprender/emprender.md) — armar una empresa nueva con incertidumbre: validación (Lean Startup), modelo de negocio, crecimiento, finanzas, fundadores y equipo, legal e impuestos en Argentina, con las escuelas y su evidencia.
 - [Estrategia competitiva](Estrategia-competitiva/estrategia-competitiva.md) — por qué una industria rinde lo que rinde, de dónde sale una ventaja que dura, cómo se mueven los rivales y cómo se analiza a los competidores antes de diseñar un producto, con su evidencia.
 - [Ventas](Ventas/ventas.md) — del problema del cliente al acuerdo: descubrimiento y calificación, la propuesta y el precio, objeciones y negociación, formas de vender y medición comercial, con la poca evidencia independiente que tienen los métodos dicha en cada nota.
+- [Storytelling](Storytelling/storytelling.md) — contar una historia para convencer: de qué está hecha, cuánto persuade frente a los datos, las estructuras (arco, viaje del héroe, ABT, pirámide de Minto) y sus usos en la marca, la venta, la presentación de ideas y el cambio, con la evidencia de cada receta.
 - [Planillas de cálculo](Planillas-de-calculo/planillas-de-calculo.md) — Excel y Google Sheets para trabajar en un negocio: fórmulas, datos ordenados, tablas dinámicas, diseño que no se rompe, cuánto fallan las planillas y cuándo pasar a una base.
 
 ## Personas
 
 - [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
+- [Desarrollo personal](Desarrollo-personal/desarrollo-personal.md) — la práctica de crecer con evidencia: autoconocimiento, hábitos y cambio, energía y salud, emociones y bienestar, relaciones, efectividad personal, coaching (el ontológico incluido, con su falta de evidencia) y lo que le pasa por dentro a quien funda una empresa.
 - [Liderazgo y dirección](Liderazgo-y-direccion/liderazgo-y-direccion.md) — cómo se conduce a una persona, a un equipo y a una empresa chica que crece: liderar personas, equipos y cultura, gestión de personas, decidir, ejecución y el rol del CEO, con la evidencia de cada práctica y lo que solo dicen los practicantes.
 
 ## Carrera

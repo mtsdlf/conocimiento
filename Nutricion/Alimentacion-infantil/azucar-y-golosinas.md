@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El azúcar agregado y las golosinas son la parte de la dieta del chico que las guías piden limitar: la AHA pone un techo de seis cucharaditas por día desde los 2 años y ninguna antes, y la idea de que el azúcar vuelve hiperactivos a los chicos no se sostuvo en los ensayos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.ncbi.nlm.nih.gov/books/NBK285538/
@@ -16,22 +16,26 @@ fuentes:
 aliases: [azúcar agregado, azúcares libres, dulces, golosinas, azúcar e hiperactividad]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Azúcar y golosinas
 
 El azúcar agregado y las golosinas son la parte de la dieta del chico que las guías piden limitar: la AHA pone un techo de seis cucharaditas por día desde los 2 años y ninguna antes, y la idea de que el azúcar vuelve hiperactivos a los chicos no se sostuvo en los ensayos.
 
+## Cómo manejar las golosinas en casa
+
+Decidí vos cuándo hay golosina, como con cualquier otra comida, y servila en una porción chica dentro de una comida o colación. No la uses como premio ni la saques como castigo. Dejá las fiestas como fiestas: en un cumpleaños se come lo que hay. Menores de 2 años, sin azúcar agregado; de 2 años en adelante, hasta unos 25 g por día (seis cucharaditas) según la AHA. El detalle de cada punto está al final.
+
 ## Los dos límites y por qué no se suman
 
-Dos organismos dan cifras, y miden cosas distintas. Las dos se leyeron por resúmenes con citas literales, no en el documento completo.
+Dos organismos dan cifras, y miden cosas distintas: la OMS (Organización Mundial de la Salud) y la AHA (American Heart Association, Asociación Estadounidense del Corazón). Las dos se leyeron por resúmenes con citas literales, no en el documento completo.
 
 | | OMS 2015 | AHA 2016 (Vos y colegas) |
 |---|---|---|
 | Qué cuenta | azúcares libres: los agregados más los de jugos y miel | azúcares agregados |
 | Para quién | adultos y chicos | de 2 a 18 años |
-| Límite | menos del 10 % de la energía total ("strong recommendation"); menos del 5 %, recomendación "condicional" | "no more than six teaspoons of added sugars per day", unos 25 g o 100 calorías |
+| Límite | menos del 10 % de la energía total (recomendación «fuerte»; en el original: "strong recommendation"); menos del 5 %, recomendación «condicional» | «no más de seis cucharaditas de azúcares agregados por día» (traducción; en el original: "no more than six teaspoons of added sugars per day"), unos 25 g o 100 calorías |
 | Menores de 2 años | | sin azúcares agregados |
 | Bebidas azucaradas | | una porción de 8 onzas (unos 240 ml) por semana como máximo |
 
@@ -43,9 +47,9 @@ Las [Guías Alimentarias para la Población Argentina](../Patrones-y-guias/guias
 
 ## El azúcar no vuelve hiperactivo al chico
 
-El metaanálisis de Wolraich y colegas (*JAMA*, 1995) reunió 16 informes con 23 estudios doble ciego, en los que el mismo chico recibía azúcar o un placebo con edulcorante sin que nadie supiera cuál. Los tamaños de efecto fueron de −0,14 a +0,30 en 14 mediciones, y el intervalo de confianza incluyó el cero. Los autores concluyeron que el azúcar no afecta la conducta ni el rendimiento cognitivo de los chicos. Admitieron que no se puede descartar un efecto pequeño o en un subgrupo sensible.
+El metaanálisis de Wolraich y colegas (*JAMA*, 1995; un metaanálisis junta los resultados de varios estudios en uno) reunió 16 informes con 23 estudios doble ciego, en los que el mismo chico recibía azúcar o un placebo con edulcorante sin que nadie supiera cuál. Los tamaños de efecto (cuánto cambió la conducta con el azúcar, donde 0 es nada) fueron de −0,14 a +0,30 en 14 mediciones, y el intervalo de confianza (el rango donde probablemente está el efecto real) incluyó el cero, o sea que no se puede afirmar que haya efecto. Los autores concluyeron que el azúcar no afecta la conducta ni el rendimiento cognitivo de los chicos. Admitieron que no se puede descartar un efecto pequeño o en un subgrupo sensible.
 
-Es un metaanálisis de ensayos aleatorizados, la mejor clase de evidencia, pero es uno solo y de 1995: no se buscó una revisión posterior. Este y otros mitos están en [mitos de crianza](../../Crianza/Fundamentos/mitos-de-crianza.md). Que el azúcar no cause hiperactividad no cambia los límites de arriba, que se apoyan en las caries y en el riesgo cardiovascular.
+Es un metaanálisis de ensayos aleatorizados (la dieta se asigna por sorteo), la mejor clase de evidencia, pero es uno solo y de 1995: no se buscó una revisión posterior. Este y otros mitos están en [mitos de crianza](../../Crianza/Fundamentos/mitos-de-crianza.md). Que el azúcar no cause hiperactividad no cambia los límites de arriba, que se apoyan en las caries y en el riesgo cardiovascular.
 
 ## Golosinas sin prohibir ni premiar
 

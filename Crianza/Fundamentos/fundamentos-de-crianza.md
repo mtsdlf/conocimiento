@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza toda la crianza sin ser una parte de ella: los enfoques con nombre propio, la discusión sobre cuánto pesa lo que hacen los padres, los mitos, las fuentes y el glosario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.nature.com/articles/ng.3285.pdf
@@ -9,7 +9,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/28459276/
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos
@@ -20,9 +20,9 @@ Estas notas sirven para leer cualquier parte de la [crianza](../crianza.md). Los
 
 ## Pocas marcas con evidencia, mucha discusión de fondo
 
-La crianza tiene muchas escuelas con nombre propio y casi ninguna con ensayos propios. La evidencia firme está en otro lado: en dimensiones de lo que hacen los adultos, como la calidez y el control duro, medidas en estudios correlacionales con efectos chicos (Pinquart 2017, según su resumen), y en programas de entrenamiento a padres, que en ensayos bajan los problemas de conducta a corto plazo (Cochrane 2012, según su resumen).
+La crianza tiene muchas escuelas con nombre propio y casi ninguna con ensayos propios. La evidencia firme está en otro lado: en dimensiones de lo que hacen los adultos, como la calidez y el control duro, medidas en estudios correlacionales con efectos chicos (Pinquart 2017, según su resumen; un metaanálisis es un estudio que junta los resultados de muchos otros), y en programas de entrenamiento a padres, que en ensayos bajan los problemas de conducta a corto plazo (Cochrane 2012, según su resumen; una revisión Cochrane resume los ensayos disponibles sobre una pregunta).
 
-Por debajo corre una pregunta sin cerrar: cuánto de cómo sale un chico depende de lo que hacen los padres. Los estudios de gemelos dan una heredabilidad promedio del 49 % y poco efecto del entorno que comparten los hermanos (Polderman y otros 2015). Los que estudian crianza responden que eso no mide la privación ni las intervenciones, que sí cambian cosas. La lectura prudente de esta base, que es una síntesis y no la conclusión de una fuente: los padres no fabrican un chico a medida, pero cambian cómo está, cómo se porta y qué oportunidades tiene. El detalle está en [cuánto pesa la crianza](cuanto-pesa-la-crianza.md).
+Por debajo corre una pregunta sin cerrar: cuánto de cómo sale un chico depende de lo que hacen los padres. Los estudios de gemelos dan una heredabilidad promedio del 49 % (la parte de las diferencias entre personas que va con los genes) y poco efecto del entorno que comparten los hermanos (Polderman y otros 2015). Los que estudian crianza responden que eso no mide la privación ni las intervenciones, que sí cambian cosas. La lectura prudente de esta base, que es una síntesis y no la conclusión de una fuente: los padres no fabrican un chico a medida, pero cambian cómo está, cómo se porta y qué oportunidades tiene. El detalle está en [cuánto pesa la crianza](cuanto-pesa-la-crianza.md).
 
 Casi todas las fuentes de esta carpeta se leyeron por su resumen o por reseñas. Cada nota lo dice donde pasa, y la [jerarquía de fuentes](fuentes-sobre-crianza.md) dice cuánto pesa cada tipo.
 

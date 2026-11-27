@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estética como objetivo es comer para cambiar el aspecto, casi siempre para verse más definido; se logra con lo mismo que bajar grasa y ganar músculo, más lento cuanto más magro se está, y tiene riesgos propios cuando la dieta se vuelve extrema o la imagen se vuelve una obsesión.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/
@@ -10,7 +10,7 @@ fuentes:
 aliases: [definición muscular, verse mejor, imagen corporal, vigorexia]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estética
@@ -19,9 +19,13 @@ La estética como objetivo es comer para cambiar el aspecto, casi siempre para v
 
 No hay una nutrición de la estética aparte. Verse más definido es tener menos grasa encima de más músculo, y eso se construye con [pérdida de grasa](perdida-de-grasa.md) y [masa muscular y recomposición](masa-muscular-y-recomposicion.md). Lo propio de este objetivo es saber qué esperar y reconocer cuándo deja de ser sano.
 
+## Qué hacer para verse más definido
+
+Bajá grasa y ganá músculo con las mismas herramientas de siempre: comer algo menos de energía de la que gastás, mucha proteína y entrenamiento de fuerza. Cuanto más magro estés, más despacio tenés que ir. Desconfiá de las dietas extremas y de los suplementos que prometen definir. Si el aspecto empieza a mandar sobre el resto de tu vida, consultá a un profesional. Los detalles están abajo.
+
 ## Lo realista: cuanto más magro, más despacio
 
-El cuerpo se resiste más a perder grasa cuando ya tiene poca. La posición de la International Society of Sports Nutrition (ISSN) dice que cuanta más grasa hay al empezar, más agresivo puede ser el déficit, y que en personas más magras bajar despacio conserva más músculo ([Aragon y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/)). Cita a Helms y colegas, que sugieren bajar de 0,5 a 1,0 % del peso por semana a fisicoculturistas que se preparan para competir. Una inferencia razonable es que un adulto que quiere marcar el abdomen no tiene por qué ir más rápido que ese ritmo; las fuentes no lo dicen para el público general.
+El cuerpo se resiste más a perder grasa cuando ya tiene poca. La posición de la International Society of Sports Nutrition (ISSN) dice que cuanta más grasa hay al empezar, más agresivo puede ser el déficit (la diferencia entre la energía que se come y la que se gasta; ver el [glosario](../Fundamentos/glosario-de-nutricion.md)), y que en personas más magras bajar despacio conserva más músculo ([Aragon y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/)). Cita a Helms y colegas, que sugieren bajar de 0,5 a 1,0 % del peso por semana a fisicoculturistas que se preparan para competir. Una inferencia razonable es que un adulto que quiere marcar el abdomen no tiene por qué ir más rápido que ese ritmo; las fuentes no lo dicen para el público general.
 
 Lo sostenible es lo que se puede mantener después. La misma posición recuerda que el cuerpo responde al déficit con más hambre y menos gasto, y que el éxito a largo plazo depende de poder seguir la dieta. El aspecto de una foto de competencia es un pico de pocos días, no un estado que se mantenga todo el año.
 
@@ -30,7 +34,7 @@ Lo sostenible es lo que se puede mantener después. La misma posición recuerda 
 
 ## Los riesgos de las dietas extremas
 
-Las dietas extremas fallan primero por adherencia. Sobre las cetogénicas y las muy bajas en grasa, la ISSN anota que "Dietary extremes can challenge long-term adherence", y ninguna de las dos mostró ventaja sobre otras con las mismas calorías y proteína. Según la ISSN, bajar más despacio conserva más músculo en personas magras, y el músculo es lo que da la forma ([pérdida de grasa](perdida-de-grasa.md) tiene el ritmo que recomiendan las fuentes).
+Las dietas extremas fallan primero por adherencia. Sobre las cetogénicas y las muy bajas en grasa, la ISSN anota que «los extremos dietarios pueden poner a prueba la adherencia a largo plazo» (traducción; en el original: "Dietary extremes can challenge long-term adherence"; adherencia es poder sostener la dieta), y ninguna de las dos mostró ventaja sobre otras con las mismas calorías y proteína. Según la ISSN, bajar más despacio conserva más músculo en personas magras, y el músculo es lo que da la forma ([pérdida de grasa](perdida-de-grasa.md) tiene el ritmo que recomiendan las fuentes).
 
 Los suplementos que prometen definir son otro riesgo. Una parte de los productos que se venden para el gimnasio tiene sustancias que no figuran en la etiqueta, como cuenta [suplementos](suplementos.md).
 
@@ -39,7 +43,7 @@ Los suplementos que prometen definir son otro riesgo. Una parte de los productos
 
 ## Cuando la imagen se vuelve obsesión
 
-La preocupación por el aspecto puede volverse un problema de salud. La dismorfia muscular, también llamada vigorexia, se describe como un cuadro de tipo dismórfico con preocupación excesiva por la imagen corporal. Una revisión sistemática de 2016 estima que un 10 % de los hombres que van al gimnasio pueden presentarla ([psiquiatria.com](https://psiquiatria.com/trastornos-de-la-personalidad/vigorexia-y-culto-al-cuerpo-alteraciones-de-la-imagen-corporal-en-hombres), según un resumen de segunda mano). No hay consenso científico sobre su definición.
+La preocupación por el aspecto puede volverse un problema de salud. La dismorfia muscular, también llamada vigorexia, se describe como un cuadro de tipo dismórfico con preocupación excesiva por la imagen corporal. Una revisión sistemática (una búsqueda ordenada de todos los estudios sobre una pregunta) de 2016 estima que un 10 % de los hombres que van al gimnasio pueden presentarla ([psiquiatria.com](https://psiquiatria.com/trastornos-de-la-personalidad/vigorexia-y-culto-al-cuerpo-alteraciones-de-la-imagen-corporal-en-hombres), según un resumen de segunda mano). No hay consenso científico sobre su definición.
 
 Los rasgos que se describen son dietas muy altas en proteína, uso de suplementos y ejercicio intenso, con riesgo de terminar en un trastorno de la conducta alimentaria ([Redalyc](https://www.redalyc.org/journal/6138/613872154005/613872154005.pdf), según su resumen). La evidencia es observacional y las dos fuentes son secundarias.
 
@@ -56,4 +60,4 @@ Conviene consultar a un médico, a un psicólogo o a un licenciado en nutrición
 Los trastornos de la conducta alimentaria quedan fuera de esta base y se tratan con profesionales.
 
 > [!NOTE]
-> Sin fuente todavía: una guía de una sociedad de psiquiatría o de nutrición (por ejemplo la Asociación de Psiquiatras Argentinos) con las señales de alarma, y el criterio del DSM-5 para la dismorfia corporal.
+> Sin fuente todavía: una guía de una sociedad de psiquiatría o de nutrición (por ejemplo la Asociación de Psiquiatras Argentinos) con las señales de alarma, y el criterio del DSM-5 (el manual de diagnóstico de la Asociación Estadounidense de Psiquiatría) para la dismorfia corporal.

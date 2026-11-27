@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Salud y rutinas es el cuidado del cuerpo de un chico de 0 a 6 años en el día a día: cuánto duerme y se mueve, cómo deja los pañales, sus controles y vacunas, cómo se lo protege de accidentes y cómo aprende a cuidar su cuerpo y su intimidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://iris.who.int/server/api/core/bitstreams/60a1cbaa-2bef-4251-9557-e52ce22112b3/content
@@ -11,7 +11,7 @@ fuentes:
   - https://www.argentina.gob.ar/sites/default/files/2023/06/res._cfe_45-08_anexo.pdf
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Salud y rutinas
@@ -22,19 +22,19 @@ Es la parte que sostiene el cuerpo sobre el que ocurre el [desarrollo](../Desarr
 
 ## El día de 24 horas
 
-La OMS trata el sueño, el movimiento y el tiempo quieto como un solo comportamiento: en 2019 publicó una única guía para los tres en menores de 5 años. El día tiene 24 horas, y lo que se suma de pantalla o de silla se le resta al juego activo o al sueño. Por eso [sueño](sueno.md) y [actividad física](actividad-fisica.md) se leen juntas.
+La Organización Mundial de la Salud (OMS) trata el sueño, el movimiento y el tiempo quieto como un solo comportamiento: en 2019 publicó una única guía para los tres en menores de 5 años. El día tiene 24 horas, y lo que se suma de pantalla o de silla se le resta al juego activo o al sueño. Por eso [sueño](sueno.md) y [actividad física](actividad-fisica.md) se leen juntas.
 
-Las cifras de esas guías son consenso de expertos con evidencia de calidad muy baja, según la propia OMS. Sirven como meta razonable, no como una línea debajo de la cual aparece un daño medido. Con las rutinas pasa algo parecido: para dejar los pañales ningún método demostró ser mejor que otro, y lo que cuenta es que el chico esté listo.
+Las cifras de esas guías son consenso de expertos con evidencia de calidad muy baja (pocos estudios o débiles), según la propia OMS. Sirven como meta razonable, no como una línea debajo de la cual aparece un daño medido. Con las rutinas pasa algo parecido: para dejar los pañales ningún método demostró ser mejor que otro, y lo que cuenta es que el chico esté listo.
 
 ## Lo que fija el Estado y lo que decide la familia
 
 Una parte de esta vertical la fijan normas argentinas. El Ministerio de Salud publica el calendario de vacunación y el cronograma de controles; la ley de tránsito dice cómo viaja un chico en el auto; la Ley 26.150 da a todos los alumnos el derecho a recibir educación sexual integral. Esas normas cambian por resolución, así que los valores exactos viven en una ficha fechada.
 
-La otra parte la decide la familia con el pediatra: cómo es la hora de dormir, cuándo empezar con la pelela, qué barreras poner en la casa. Ahí las fuentes son guías de sociedades de pediatría, y la nota de cada tema dice cuánta evidencia tienen.
+La otra parte la decide la familia con el pediatra: cómo es la hora de dormir, cuándo empezar con la pelela, qué barreras poner en la casa. Ahí las fuentes son guías de sociedades de pediatría (como la Sociedad Argentina de Pediatría), y la nota de cada tema dice cuánta evidencia tienen.
 
 ## Dónde están los riesgos de verdad
 
-En chicos de 1 a 4 años, en Argentina, las primeras causas de muerte accidental son el ahogamiento y el tránsito, según la DEIS. Las dos tienen barreras concretas: el cerco de pileta y la silla del auto. La asfixia con comida, tercera en el cuadro junto con otras sofocaciones, se previene en la cocina ([atragantamiento](../../Nutricion/Alimentacion-infantil/atragantamiento.md)).
+En chicos de 1 a 4 años, en Argentina, las primeras causas de muerte accidental son el ahogamiento y el tránsito, según la DEIS (Dirección de Estadísticas e Información de Salud). Las dos tienen barreras concretas: el cerco de pileta y la silla del auto. La asfixia con comida, tercera en el cuadro junto con otras sofocaciones, se previene en la cocina ([atragantamiento](../../Nutricion/Alimentacion-infantil/atragantamiento.md)).
 
 ## Qué hay adentro de salud y rutinas
 

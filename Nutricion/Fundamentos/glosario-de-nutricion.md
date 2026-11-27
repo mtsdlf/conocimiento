@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos técnicos que usan las notas sobre nutrición, cada uno con una definición corta y la nota que lo desarrolla.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.argentina.gob.ar/node/92458
@@ -21,7 +21,7 @@ fuentes:
 aliases: [términos de nutrición, vocabulario de nutrición]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de nutrición

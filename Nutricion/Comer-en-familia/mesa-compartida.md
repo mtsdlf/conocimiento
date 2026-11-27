@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La mesa compartida es comer juntos en familia; los chicos que lo hacen más seguido tienen una dieta algo mejor y un peso algo menor, pero las asociaciones son chicas y los estudios no prueban que comer juntos las cause.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/29334693/
@@ -13,28 +13,32 @@ fuentes:
 aliases: [comidas en familia, comer juntos, family meals]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mesa compartida
 
 La mesa compartida es comer juntos en familia; los chicos que lo hacen más seguido tienen una dieta algo mejor y un peso algo menor, pero las asociaciones son chicas y los estudios no prueban que comer juntos las cause.
 
+## Qué hacer en la mesa
+
+Sentá a todos a la misma mesa y a la misma comida, al menos tres veces por semana. Apagá la televisión, no apures la comida y cuidá el clima: sin peleas por bocados. Comé lo mismo que el chico, delante de él, y mantenelo sentado y acompañado mientras come. Los pasos, con la evidencia de cada uno, están más abajo.
+
 ## Qué encontraron los metaanálisis
 
-Hay dos metaanálisis de estudios observacionales, leídos por su resumen.
+Hay dos metaanálisis (estudios que combinan los resultados de muchos otros) de estudios observacionales (que miden lo que pasa sin intervenir). Los dos se leyeron por su resumen, y el tercero, más abajo, por Europe PMC.
 
 - **Hammons y Fiese (*Pediatrics*, 2011).** Los chicos y adolescentes que comían en familia tres o más veces por semana tendían a tener peso normal, mejor dieta y menos conductas alimentarias desordenadas. Los autores sugieren promover las comidas familiares. El tamaño de la muestra que circula en la prensa no se pudo verificar en el artículo.
-- **Dallacker, Hertwig y Mata (*Obesity Reviews*, 2018).** Con 57 estudios y 203.706 participantes, más comidas en familia se asociaron con mejor calidad global de la dieta (r = 0,13), dieta más saludable (r = 0,10), dieta menos poco saludable (r = −0,04) y menor índice de masa corporal (r = −0,05). La edad, el país y el tipo de comida no cambiaron la relación.
+- **Dallacker, Hertwig y Mata (*Obesity Reviews*, 2018).** Con 57 estudios y 203.706 participantes, más comidas en familia se asociaron con mejor calidad global de la dieta (r = 0,13; r mide qué tan juntas van dos cosas, de 0 a 1, y 0,13 es una asociación débil; ver el [glosario](../Fundamentos/glosario-de-nutricion.md)), dieta más saludable (r = 0,10), dieta menos poco saludable (r = −0,04) y menor índice de masa corporal (r = −0,05). La edad, el país y el tipo de comida no cambiaron la relación.
 
 > [!IMPORTANT]
-> Las dos fuentes no leen igual los mismos datos. Hammons y Fiese presentan la asociación como prometedora y recomiendan comer en familia. Dallacker y colegas muestran que los efectos son pequeños (el del peso, r = −0,05, es casi nulo) y escriben que los estudios son correlacionales y no permiten inferir causa; proponen que la investigación busque ahora "the causal direction of the relationship". Las dos coinciden en que la evidencia es observacional.
+> Las dos fuentes no leen igual los mismos datos. Hammons y Fiese presentan la asociación como prometedora y recomiendan comer en familia. Dallacker y colegas muestran que los efectos son pequeños (el del peso, r = −0,05, es casi nulo) y escriben que los estudios son correlacionales y no permiten inferir causa; proponen que la investigación busque ahora «la dirección causal de la relación» (traducción; en el original: "the causal direction of the relationship"). Las dos coinciden en que la evidencia es observacional.
 
 La objeción más obvia es el nivel socioeconómico: las familias con más tiempo y recursos pueden comer juntas más seguido y también comer mejor. No se leyó ningún estudio que controle eso.
 
 ## Qué parte de la comida en familia importa
 
-Un segundo metaanálisis del mismo grupo (Dallacker y colegas, *Health Psychology*, 2019; 50 estudios, 49.137 participantes) separó los componentes de la comida familiar. Según su resumen (leído por Europe PMC), se asociaron con mejor alimentación del chico:
+Un segundo metaanálisis del mismo grupo (Dallacker y colegas, *Health Psychology*, 2019; 50 estudios, 49.137 participantes) separó los componentes de la comida familiar. Se asociaron con mejor alimentación del chico:
 
 | Componente | Correlación |
 |---|---|
@@ -45,7 +49,7 @@ Un segundo metaanálisis del mismo grupo (Dallacker y colegas, *Health Psycholog
 | televisión apagada | r = 0,09 |
 | los chicos que ayudan a preparar la comida | r = 0,08 |
 
-Los autores piden ensayos aleatorizados: "Randomized control trials are needed to further verify these findings." Es un solo grupo de autores y todas las asociaciones están por debajo de 0,2. El comunicado del Instituto Max Planck lo resume en que el clima de la mesa importa tanto como la comida sana.
+Los autores piden ensayos aleatorizados (donde la dieta se asigna por sorteo): «Se necesitan ensayos controlados aleatorizados para verificar mejor estos hallazgos» (traducción; en el original: "Randomized control trials are needed to further verify these findings."). Es un solo grupo de autores y todas las asociaciones están por debajo de 0,2. El comunicado del Instituto Max Planck lo resume en que el clima de la mesa importa tanto como la comida sana.
 
 ## Cómo se arma una mesa compartida
 

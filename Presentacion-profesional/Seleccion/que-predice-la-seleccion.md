@@ -71,6 +71,11 @@ desempeño «are considerably lower than previously thought».
 > tabla da las dos columnas: la de 1998 sigue apareciendo en libros y cursos, y la de 2022 es la
 > estimación más reciente.
 
+Qué mide una prueba de habilidad cognitiva general está en
+[inteligencia](../../Psicologia/Personalidad/inteligencia.md), y qué es la conscienciosidad como
+rasgo (la responsabilidad de los Cinco Grandes), en [cinco grandes](../../Psicologia/Personalidad/cinco-grandes.md). Cómo usa esta tabla
+quien contrata está en [contratar](../../Liderazgo-y-direccion/Gestion-de-personas/contratar.md).
+
 ## Qué quiere decir el .07 de la experiencia
 
 Contar años de experiencia predice poco el desempeño. La experiencia importa, pero el número de

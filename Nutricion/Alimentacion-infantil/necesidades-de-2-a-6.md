@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las necesidades de 2 a 6 años son cuánto y qué come un chico de jardín: cuántas comidas, qué porciones de cada grupo, cuánta leche y qué nutrientes le suelen faltar, como el hierro.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113218/norma.htm
@@ -16,12 +16,16 @@ fuentes:
 aliases: [porciones para chicos, cuánto come un chico, necesidades nutricionales del preescolar]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Necesidades de 2 a 6
 
 Las necesidades de 2 a 6 años son cuánto y qué come un chico de jardín: cuántas comidas, qué porciones de cada grupo, cuánta leche y qué nutrientes le suelen faltar, como el hierro.
+
+## Qué darle y cuánto
+
+Un chico de jardín hace 4 comidas al día (desayuno, almuerzo, merienda y cena) y, si hace falta, una o dos colaciones. Come lo mismo que la familia, en porciones más chicas, con leche, yogur o queso todos los días y agua como bebida. Las frituras, las golosinas y las gaseosas quedan para pocas ocasiones. Que coma poco un día y mucho otro es normal: dejá que decida cuánto come de lo que servís. Ninguna fuente leída da gramos ni vasos para esta edad, así que las cantidades exactas se piden al pediatra.
 
 La guía oficial para el chico son las Guías Alimentarias para la Población Infantil del Ministerio de Salud y Ambiente, aprobadas por la Resolución 12/2006 ([texto en Infoleg](https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113218/norma.htm), [PDF](https://bnm.educacion.gob.ar/digital/normas/11605.pdf)). Se leyó el texto de la resolución, que reproduce el cuadernillo para padres y cuidadores y el documento para equipos de salud. Es una guía de 2006.
 
@@ -51,13 +55,13 @@ La gráfica de las GAPA pide 3 porciones diarias de leche, yogur o queso, prefer
 
 ## Cuántas comidas por día
 
-Para el bebé, la OMS propone "3–4 comidas diarias para lactantes de 9 a 23 meses, con 1–2 tentempiés adicionales según sea necesario" (más en [primeros alimentos](primeros-alimentos.md)). Para el chico de 2 a 6, la guía de 2006 dice 4 comidas principales y, si hace falta, una o dos colaciones (arriba). Un cuadernillo para familias de la provincia de Buenos Aires sugiere, según un resumen, al menos cuatro comidas diarias y algunas colaciones, pero para chicos de alrededor de un año; lo que sí se sabe de las colaciones está en [colaciones y vianda](colaciones-y-vianda.md).
+Para el bebé, la Organización Mundial de la Salud (OMS) propone "3–4 comidas diarias para lactantes de 9 a 23 meses, con 1–2 tentempiés adicionales según sea necesario" (más en [primeros alimentos](primeros-alimentos.md)). Para el chico de 2 a 6, la guía de 2006 dice 4 comidas principales y, si hace falta, una o dos colaciones (arriba). Un cuadernillo para familias de la provincia de Buenos Aires sugiere, según un resumen, al menos cuatro comidas diarias y algunas colaciones, pero para chicos de alrededor de un año; lo que sí se sabe de las colaciones está en [colaciones y vianda](colaciones-y-vianda.md).
 
 ## El hierro
 
-La anemia por falta de hierro es un problema nutricional que se midió en chicos argentinos. La Encuesta Nacional de Nutrición y Salud (ENNyS 1, 2004-2005) la midió así, según el resumen de dos documentos:
+La anemia por falta de hierro es un problema nutricional que se midió en chicos argentinos. La Encuesta Nacional de Nutrición y Salud (ENNyS 1, 2004-2005) la midió así, según el resumen de dos documentos (anemia: pocos glóbulos rojos por falta de hierro):
 
-| Grupo | SAP | Ministerio de Salud |
+| Grupo | Sociedad Argentina de Pediatría | Ministerio de Salud |
 |---|---|---|
 | 6 a 23 meses | 35,3 % | 34,1 % |
 | Menores de 1 año | | 47,6 % |

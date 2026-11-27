@@ -41,6 +41,8 @@ La regla "7±2" sale de Miller (1956), y la evidencia posterior la corrige. Mill
 
 ## Por qué 7±2 no manda sobre los menús
 
+El límite de la memoria de trabajo, con la disputa sobre si es uno solo o varios, está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md), en Psicología.
+
 Es frecuente limitar un menú a siete ítems por la memoria a corto plazo. Lo medido por Miller y Cowan es cuántos ítems se retienen y se recuerdan, y un menú visible se reconoce: no hay que retenerlo. Esta es una inferencia a partir de las definiciones de Miller y de NN/g sobre reconocimiento. La idea de que NN/g mismo llama error a ese uso solo llegó por una cita en un blog; el artículo de NN/g no se encontró. Su texto sobre la regla de los tres clics sí presenta "no más de 7 categorías de navegación principal" como un mito. Un artículo de 2002 de Dr. Dobb's (secundario) dice que el número óptimo de ítems no se reduce a una regla general. Cómo se organiza un menú es asunto de [Navegación](../Arquitectura-de-informacion/navegacion.md); para el tiempo de elegir entre opciones, [las leyes de Fitts y Hick](leyes-de-fitts-y-hick.md).
 
 ## Dónde leer más

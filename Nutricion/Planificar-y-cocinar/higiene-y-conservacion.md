@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Higiene y conservación son las reglas para preparar y guardar la comida sin que transmita enfermedades: las cinco claves de la OMS, las temperaturas de cocción y de frío, los plazos de heladera y freezer, y la prevención del síndrome urémico hemolítico en los chicos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.who.int/publications/i/item/9789241594639
@@ -11,7 +11,7 @@ fuentes:
 aliases: [inocuidad alimentaria, seguridad alimentaria en casa, ETA, SUH]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Higiene y conservación
@@ -20,9 +20,13 @@ Higiene y conservación son las reglas para preparar y guardar la comida sin que
 
 Es el último paso de [planificar y cocinar](planificar-y-cocinar.md) y el que sostiene a los otros: [cocinar por tandas](cocinar-por-tandas.md) depende de estos plazos y temperaturas, y [compras y despensa](compras-y-despensa.md) los aplica al guardar lo que entra. Son guías oficiales resumidas, que no reemplazan al pediatra ni al médico.
 
+## Qué hacer en la cocina para que la comida no enferme
+
+Según el Ministerio de Salud: separá lo crudo de lo cocido, cociná completo (los guisos y sopas hasta 70 °C), mantené caliente lo que se sirve (por encima de 60 °C) y enfriá rápido lo que sobra (por debajo de 5 °C). No dejes lo cocido más de 2 horas a temperatura ambiente, y recalentalo completo. Lo congelado se descongela en la heladera y no se vuelve a congelar sin cocinarlo antes. Con un chico chico, además, la carne picada se cocina sin partes rojas por dentro. La tabla de abajo da cada regla textual.
+
 ## Las cinco claves de la OMS
 
-La OMS resume la inocuidad de la comida en cinco claves, publicadas en 2006: "keep clean", "separate raw and cooked", "cook thoroughly", "keep food at safe temperatures" y "use safe water and raw materials". La página del Ministerio de Salud sobre enfermedades transmitidas por alimentos (ETA) agrupa sus consejos con los mismos cinco títulos: mantener la higiene, separar crudos de cocidos, cocinar completamente, mantener los alimentos a temperaturas seguras y usar agua y alimentos seguros.
+La OMS (Organización Mundial de la Salud) resume la inocuidad de la comida en cinco claves, publicadas en 2006: «mantener la limpieza» (traducción; en el original: "keep clean"), «separar lo crudo de lo cocido» ("separate raw and cooked"), «cocinar bien» ("cook thoroughly"), «mantener los alimentos a temperaturas seguras» ("keep food at safe temperatures") y «usar agua y materias primas seguras» ("use safe water and raw materials"). La página del Ministerio de Salud sobre enfermedades transmitidas por alimentos (ETA) agrupa sus consejos con los mismos cinco títulos: mantener la higiene, separar crudos de cocidos, cocinar completamente, mantener los alimentos a temperaturas seguras y usar agua y alimentos seguros.
 
 Las dos coinciden; la página del Ministerio no cita a la OMS, y no se verificó si una deriva de la otra. De la OMS se leyó solo el título y la lista de claves, no el manual completo.
 
@@ -47,7 +51,7 @@ Entre 5 °C y 60 °C la comida está en la franja donde las bacterias crecen; po
 
 ## Cuánto dura cada alimento en heladera y freezer
 
-Plazos de ANMAT para alimentos crudos, copiados de su página [Cómo guardar los alimentos en la heladera](https://www.argentina.gob.ar/anmat/comunidad/informacion-de-interes-para-tu-salud/como-guardar-los-alimentos-en-la-heladera) el 2026-11-27:
+Plazos de ANMAT (la administración nacional que regula alimentos y medicamentos) para alimentos crudos, copiados de su página [Cómo guardar los alimentos en la heladera](https://www.argentina.gob.ar/anmat/comunidad/informacion-de-interes-para-tu-salud/como-guardar-los-alimentos-en-la-heladera) el 2026-11-27:
 
 | Alimento crudo | Heladera | Freezer |
 |---|---|---|

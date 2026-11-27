@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las altas capacidades son una capacidad de aprender muy por encima de la de los chicos de la misma edad; entre los 2 y los 6 años lo que se ve son conductas adelantadas, que se acompañan con un ambiente rico y sin apuro por ponerles un nombre, porque antes de los 7 la medición es poco estable.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://dx.doi.org/10.1037/bul0000425
@@ -15,7 +15,7 @@ aliases:
   - giftedness
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Altas capacidades
@@ -25,12 +25,6 @@ Las altas capacidades son una capacidad de aprender muy por encima de la de los 
 Es una forma particular del [desarrollo](../Desarrollo/desarrollo-infantil.md): el chico va por delante en algunas áreas y a su edad en otras. Por eso toca casi todas las demás partes de la crianza. Pide decisiones en la [escuela](../Escuela/escuela.md), cambia cómo conviene [elogiar](../Emociones-y-caracter/elogio-y-mentalidad.md) y hace que un berrinche de 3 años conviva con un vocabulario de 5.
 
 En la Argentina el término oficial es "altas capacidades" (la Ley 6614 de la Ciudad de Buenos Aires lo usa); "superdotado" es el de la prensa y "talento" es, en algunos modelos, el rendimiento ya desarrollado. Esta base usa "altas capacidades" y, para la edad que cubre, "chico adelantado".
-
-## Cómo se sabe si un chico de 3 años tiene altas capacidades
-
-A los 3 años no se puede saber con seguridad. Un metaanálisis de 205 estudios longitudinales y 87.408 participantes halló "low stability in preschool children": la estabilidad mínima para tomar decisiones diagnósticas sobre una persona (rtt = .80) "can only be expected over the age of 7 and for short time intervals in children" (Breit y otros, 2024). Un número de CI a los 3 o a los 5 años describe ese momento y no fija lo que el chico va a ser.
-
-Lo que sí se puede ver es un patrón de conductas adelantadas: vocabulario amplio o lectura temprana, curiosidad y observación agudas, una memoria fuera de lo común, períodos de concentración intensa. La Asociación Nacional de Niños Superdotados de EE. UU. (NAGC) dice que los padres suelen ser de los primeros en notarlo y, a la vez, que estos chicos son "a heterogeneous group that is not easily defined or assessed". El detalle, y cuándo vale la pena una evaluación profesional, está en [señales y evaluación](senales-y-evaluacion.md).
 
 ## Qué conviene hacer si va adelantado
 
@@ -43,6 +37,12 @@ Tres cosas conviene evitar, porque tienen evidencia en contra o ninguna a favor:
 - Pedirle madurez emocional a la altura de su lenguaje. Es de esperar un desparejo entre áreas, y tiene nota propia: [desarrollo asincrónico](desarrollo-asincronico.md).
 
 En la escuela, la evidencia internacional favorece la aceleración en primaria, y en la Ciudad de Buenos Aires hay una ley y una resolución que la regulan. En el jardín la decisión es más chica: elegir un lugar que deje avanzar a cada chico a su ritmo y, solo en casos excepcionales, el ingreso anticipado ([opciones escolares](opciones-escolares.md), [elegir escuela](../Escuela/elegir-escuela.md)).
+
+## Cómo se sabe si un chico de 3 años tiene altas capacidades
+
+A los 3 años no se puede saber con seguridad. Un metaanálisis (un estudio que junta los resultados de muchos otros) de 205 estudios longitudinales (que siguen a los mismos chicos a lo largo del tiempo) y 87.408 participantes halló poca estabilidad en los chicos de edad preescolar (en el original: "low stability in preschool children"). La estabilidad es cuánto se parece una medición a una posterior; la mínima para tomar decisiones diagnósticas sobre una persona (rtt = .80, una correlación alta entre dos mediciones del mismo chico) solo puede esperarse pasados los 7 años y en intervalos cortos (Breit y otros, 2024; en el original: "can only be expected over the age of 7 and for short time intervals in children"). Un número de CI (cociente intelectual, el puntaje de un test de inteligencia) a los 3 o a los 5 años describe ese momento y no fija lo que el chico va a ser.
+
+Lo que sí se puede ver es un patrón de conductas adelantadas: vocabulario amplio o lectura temprana, curiosidad y observación agudas, una memoria fuera de lo común, períodos de concentración intensa. La Asociación Nacional de Niños Superdotados de EE. UU. (NAGC) dice que los padres suelen ser de los primeros en notarlo y, a la vez, que estos chicos son un grupo heterogéneo, difícil de definir y de evaluar (en el original: "a heterogeneous group that is not easily defined or assessed"). El detalle, y cuándo vale la pena una evaluación profesional, está en [señales y evaluación](senales-y-evaluacion.md).
 
 ## Lo que puede salir mal
 

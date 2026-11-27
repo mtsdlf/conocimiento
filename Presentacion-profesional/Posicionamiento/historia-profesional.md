@@ -73,7 +73,7 @@ transmitir «quién soy» se va a leer y a sobreinterpretar.
 
 ## Cómo se arma
 
-Estos pasos ordenan la práctica; no hay un método probado:
+Estos pasos ordenan la práctica; no hay un método probado. Qué hace que un relato sea una historia y no una lista (alguien que quiere algo, un obstáculo, un cambio) está en [personaje y conflicto](../../Storytelling/La-historia/personaje-y-conflicto.md).
 
 1. **Escribí el puesto al que vas en una línea**, con el nombre que usan los avisos, no uno inventado.
 2. **Listá del [inventario](../Material/inventario-profesional.md) lo que ya hiciste de ese puesto**,

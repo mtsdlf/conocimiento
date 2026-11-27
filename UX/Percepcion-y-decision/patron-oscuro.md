@@ -56,7 +56,7 @@ Del lado de la persuasión, según Mathur et al., el nudge de Thaler y Sunstein 
 
 Un caso: el mensaje de poco stock (632 instancias) y el temporizador (393), los dos más frecuentes, no son engañosos por naturaleza, y lo son cuando el dato es falso (lectura de esta base a partir de las fuentes): 157 temporizadores, en 140 sitios, se reiniciaban tras vencer con la misma oferta vigente. Un criterio operativo, que es inferencia de esta base y no una cita: la cifra es verdadera y rechazar es tan fácil como aceptar.
 
-Los mismos sesgos aplicados al mensaje, y cuánto de su efecto resiste la replicación, están en [Economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md). Los defaults y las cancelaciones suelen vivir en los [formularios](../Interaccion/formularios.md). Luguri y Strahilevitz proponen decidir con pruebas A/B; esta base infiere que las [métricas de UX](../Evaluacion/metricas-de-ux.md) no distinguen por sí solas una variante mejor de un patrón oscuro que sube la conversión.
+Los mismos [sesgos](../../Psicologia/Juicio-y-decision/heuristicas-y-sesgos.md) aplicados al mensaje, y cuánto de su efecto resiste la replicación, están en [Economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md). Los defaults y las cancelaciones suelen vivir en los [formularios](../Interaccion/formularios.md). Luguri y Strahilevitz proponen decidir con pruebas A/B; esta base infiere que las [métricas de UX](../Evaluacion/metricas-de-ux.md) no distinguen por sí solas una variante mejor de un patrón oscuro que sube la conversión.
 
 ## Normativa, a 2026-11-22
 

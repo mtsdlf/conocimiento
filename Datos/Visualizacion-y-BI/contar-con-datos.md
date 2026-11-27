@@ -50,7 +50,9 @@ un rótulo (lectura de la base).
 Quien no hizo el análisis quiere saber qué se encontró y qué se le pide, no recorrerlo. Por
 eso el hallazgo se dice en la primera oración, y lo que lo sostiene va debajo, agrupado en pocas
 razones. El recorrido del análisis (qué tablas, qué limpieza, qué se probó y no sirvió) queda para
-quien lo pregunte. Es la estructura de pirámide que se asocia a Barbara Minto.
+quien lo pregunte. Es la estructura de pirámide que se asocia a Barbara Minto; cómo se combina con
+una historia está en [pirámide y SCQA](../../Storytelling/Estructuras/piramide-y-scqa.md), y presentar
+una idea sin gráficos, en [presentar ideas](../../Storytelling/Usos/presentar-ideas.md).
 
 > [!NOTE]
 > Sin fuente todavía: la estructura de pirámide de Minto aplicada a presentar hallazgos no se leyó en

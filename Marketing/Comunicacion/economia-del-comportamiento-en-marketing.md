@@ -27,7 +27,7 @@ La economía del comportamiento aporta al marketing hipótesis sobre cómo decid
 
 ## Defaults y normas sociales
 
-Los defaults son la categoría de mayor efecto en el meta-análisis de Mertens et al. (2022): d = 0.62 [0.50, 0.73]. La norma social también ayuda: Goldstein, Cialdini y Griskevicius (2008) aumentaron la reutilización de toallas de hotel, aunque las réplicas no confirmaron qué mensaje rinde más [S].
+Los defaults son la categoría de mayor efecto en el meta-análisis de Mertens et al. (2022): d = 0.62 [0.50, 0.73]. La [norma social](../../Psicologia/Cognicion-social/influencia-social.md#normas-descriptivas-e-injuntivas) también ayuda: Goldstein, Cialdini y Griskevicius (2008) aumentaron la reutilización de toallas de hotel, aunque las réplicas no confirmaron qué mensaje rinde más [S].
 
 ## Cuánto efecto queda al corregir el sesgo de publicación
 
@@ -43,11 +43,11 @@ DellaVigna y Linos compararon 126 ensayos de dos Nudge Units de EE. UU., con 23 
 | Efecto | Qué pasó | Fuente |
 |---|---|---|
 | Priming social | Many Labs 1 replicó 10 de 13 efectos; el priming con dinero y con bandera, no | Klein et al. 2014, solo abstract [M] |
-| Ego depletion | d = 0.04 en 23 laboratorios; un multilab posterior halló d = 0.10 | Hagger et al. 2016 [S] |
+| [Ego depletion](../../Psicologia/Autorregulacion/agotamiento-del-ego.md) | d = 0.04 en 23 laboratorios; un multilab posterior halló d = 0.10 | Hagger et al. 2016 [S] |
 | Señuelo (decoy) | Disputado: sin efecto en 19 estudios con estímulos naturales, sí con atributos numéricos; Huber, Payne y Puto sostienen que replica en las condiciones originales | Frederick, Lee y Baskin 2014; Huber, Payne y Puto 2014 [S] |
 | Escasez | La escasez por exceso de demanda aumenta la compra; la urgencia, no. Mide intención, no ventas | Barton et al. 2022; Ladeira et al. 2023 [S] |
 
-El capítulo de priming de Kahneman también está en disputa: un blog de Schimmack et al. da a sus estudios una potencia mediana observada del 57% [S].
+El capítulo de priming de Kahneman también está en disputa: un blog de Schimmack et al. da a sus estudios una potencia mediana observada del 57% [S]. El recuento de qué efectos de la psicología cayeron en réplicas grandes, el priming incluido, está en [crisis de replicación](../../Psicologia/Fundamentos/crisis-de-replicacion.md).
 
 Un efecto sin réplica que se sigue citando funciona como uno de los [mitos de marketing](../Fundamentos/mitos-de-marketing.md).
 

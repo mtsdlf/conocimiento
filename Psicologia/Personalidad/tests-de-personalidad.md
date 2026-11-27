@@ -59,4 +59,4 @@ Esto es una inferencia de esta base a partir de esas fuentes, no una recomendaci
 
 > [!NOTE] Sin fuente todavía: una guía formal sobre qué tests usar en selección (estándares de la APA o de la SIOP), y la evidencia sobre cuánto se puede falsear un test de personalidad cuando hay un puesto en juego.
 
-Para conocerse, un test de los Cinco Grandes da dimensiones continuas con evidencia de que predicen resultados de vida. Un test de tipos como el MBTI no mostró tipos reales en los datos de McCrae y Costa. Usar la personalidad para crecer es asunto del tema Desarrollo personal, que todavía no está escrito.
+Para conocerse, un test de los Cinco Grandes da dimensiones continuas con evidencia de que predicen resultados de vida. Un test de tipos como el MBTI no mostró tipos reales en los datos de McCrae y Costa. Usar la personalidad para conocerse está en [Autoconocimiento](../../Desarrollo-personal/Autoconocimiento/autoconocimiento.md), en Desarrollo personal.

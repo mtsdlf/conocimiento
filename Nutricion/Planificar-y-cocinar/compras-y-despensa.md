@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Compras y despensa es el paso que convierte el menú semanal en lo que hay en la casa: la lista que sale del menú, los alimentos que conviene tener siempre guardados y cómo se lee un envase antes de comprarlo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://argentina.gob.ar/salud/alimentacion-saludable/grafico
@@ -11,7 +11,7 @@ fuentes:
 aliases: [lista de compras, alacena, despensa]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Compras y despensa
@@ -21,7 +21,7 @@ Compras y despensa es el paso que convierte el menú semanal en lo que hay en la
 Viene después del [menú semanal](menu-semanal.md) y abastece a [cocinar por tandas](cocinar-por-tandas.md). Lo que se compra fresco se guarda según [higiene y conservación](higiene-y-conservacion.md).
 
 > [!NOTE]
-> Sin fuente todavía: una guía oficial argentina sobre despensa básica, compra por estación o ahorro en alimentos. Lo de abajo sale de las GAPA y de ANMAT, y lo que es deducción propia se dice.
+> Sin fuente todavía: una guía oficial argentina sobre despensa básica, compra por estación o ahorro en alimentos. Lo de abajo sale de las GAPA (Guías Alimentarias para la Población Argentina) y de ANMAT (la administración nacional que regula alimentos y medicamentos), y lo que es deducción propia se dice.
 
 ## La lista sale del menú, no del supermercado
 
@@ -51,7 +51,7 @@ Para la mesa diaria, las GAPA ponen los ultraprocesados con exceso de azúcar, g
 
 ## Cuánto cuesta comer: la Canasta Básica
 
-La referencia oficial del costo de la comida en Argentina es la Canasta Básica Alimentaria (CBA) del INDEC. Es una canasta que define la línea de indigencia, no una recomendación de qué comprar (aclaración conceptual de esta base, no leída en el INDEC). Sirve para comparar cuánto sube la comida mes a mes. El valor de octubre de 2026, tomado de prensa y no verificado en el INDEC, está en la ficha [Canasta Básica Alimentaria](canasta-basica.md).
+La referencia oficial del costo de la comida en Argentina es la Canasta Básica Alimentaria (CBA) del INDEC (Instituto Nacional de Estadística y Censos). Es una canasta que define la línea de indigencia, no una recomendación de qué comprar (aclaración conceptual de esta base, no leída en el INDEC). Sirve para comparar cuánto sube la comida mes a mes. El valor de octubre de 2026, tomado de prensa y no verificado en el INDEC, está en la ficha [Canasta Básica Alimentaria](canasta-basica.md).
 
 ## Al volver de la compra
 

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos técnicos que usan las notas sobre crianza, cada uno con una definición corta y la nota que lo desarrolla.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2017/v115n3a27s.pdf
@@ -31,7 +31,7 @@ fuentes:
 aliases: [términos de crianza, vocabulario de crianza]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de crianza
@@ -51,7 +51,7 @@ Las definiciones salen de las fuentes que citan las notas, casi todas leídas po
 | PRUNAPE | Prueba Nacional de Pesquisa: según la SAP, el único instrumento validado con chicos argentinos para detectar problemas inaparentes del desarrollo en menores de 6 años. Tiene 79 pautas en cuatro áreas y la toman profesionales entrenados. | [Señales de alarma](../Desarrollo/senales-de-alarma.md) |
 | IODI | Instrumento de Observación del Desarrollo Infantil: una vigilancia sistematizada que no requiere especialización para aplicarse. | [Señales de alarma](../Desarrollo/senales-de-alarma.md) |
 | Retraso, desviación y regresión | Las tres trayectorias atípicas de la guía SAP. Retraso: logra las pautas más tarde. Desviación: logra una pauta avanzada sin la anterior. Regresión: pierde lo que ya tenía. | [Señales de alarma](../Desarrollo/senales-de-alarma.md) |
-| Arquitectura del cerebro | La imagen del Centro para el Niño en Desarrollo de Harvard para el cerebro que se construye "from the bottom up": las conexiones tempranas son la base de las que vienen después. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
+| Arquitectura del cerebro | La imagen del Centro para el Niño en Desarrollo de Harvard para el cerebro que se construye «de abajo hacia arriba» (en el original: "from the bottom up"): las conexiones tempranas son la base de las que vienen después. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
 | Período crítico o sensible | Una etapa en que un sistema es más sensible a la experiencia, como la visión o la lengua materna. "Sensible" no quiere decir que después se cierre. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
 | Estrés positivo, tolerable y tóxico | Las tres respuestas al estrés según Harvard. El positivo es breve y normal; el tolerable es más fuerte y el chico se recupera con adultos que ayudan; el tóxico viene de una adversidad fuerte, frecuente y prolongada sin ese apoyo. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
 | Cuidado cariñoso y sensible (*nurturing care*) | El marco de la OMS, UNICEF y el Banco Mundial (2018) con cinco componentes: salud, nutrición, seguridad, cuidado que responde y oportunidades de aprendizaje temprano. | [Cerebro temprano](../Desarrollo/cerebro-temprano.md) |
@@ -63,7 +63,7 @@ Las definiciones salen de las fuentes que citan las notas, casi todas leídas po
 | Apego | El lazo del chico con los adultos que lo cuidan. El apego seguro se asocia con más competencia social con pares y menos problemas de conducta, con efectos modestos. | [Apego](../Vinculo/apego.md) |
 | Crianza con apego | El método de William Sears (portear, colecho, respuesta sensible). Es un enfoque con nombre propio, distinto de la teoría del apego. | [Enfoques de crianza](enfoques-de-crianza.md) |
 | Sensibilidad | Qué tan bien el adulto nota las señales del chico y responde a tiempo y de acuerdo con ellas. Fue el mejor predictor del apego en el estudio NICHD, según una nota de prensa de 1996. | [Apego](../Vinculo/apego.md) |
-| Ida y vuelta (*serve and return*) | "Responsive, back-and-forth exchanges between a young child and a caring adult": el chico balbucea o señala, y el adulto responde con la mirada, palabras o un abrazo. | [Ida y vuelta](../Vinculo/ida-y-vuelta.md) |
+| Ida y vuelta (*serve and return*) | «Intercambios receptivos, de ida y vuelta, entre un chico y un adulto que lo cuida» (en el original: "Responsive, back-and-forth exchanges between a young child and a caring adult"): el chico balbucea o señala, y el adulto responde con la mirada, palabras o un abrazo. | [Ida y vuelta](../Vinculo/ida-y-vuelta.md) |
 | Funciones ejecutivas | La familia de tres habilidades que permiten frenar, recordar y cambiar de plan: control inhibitorio, memoria de trabajo y flexibilidad cognitiva. | [Funciones ejecutivas](../Emociones-y-caracter/funciones-ejecutivas.md) |
 | Regulación emocional | La capacidad de manejar la intensidad de las emociones; a esta edad, la parte emocional de la autorregulación que también incluye las funciones ejecutivas. | [Regulación emocional](../Emociones-y-caracter/regulacion-emocional.md) |
 | Temperamento | La base biológica de cómo reacciona un chico y cómo se regula. Thomas y Chess propusieron nueve dimensiones y tres tipos: fácil, difícil y lento para entrar en calor. | [Temperamento](../Emociones-y-caracter/temperamento.md) |
@@ -100,7 +100,9 @@ Las definiciones salen de las fuentes que citan las notas, casi todas leídas po
 | Ensayo aleatorizado | Un estudio que reparte a los participantes al azar entre un tratamiento y un control. Es la forma más directa de probar causa y efecto. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
 | Estudio observacional | Uno que mide lo que la gente ya hace, sin asignarlo. Muestra asociaciones, no causas. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
 | Metaanálisis | Un estudio que junta los resultados de muchos otros para sacar un efecto promedio. Hereda los defectos de los estudios que junta. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
-| Tamaño del efecto | Cuánto cambia algo, en una escala común (d, r, SMD). | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
+| Tamaño del efecto | Cuánto cambia algo, en una escala común (d, r, SMD). Para d y SMD, alrededor de 0,2 es un efecto chico, 0,5 mediano y 0,8 grande; r = 0,1 es una asociación débil. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
+| Intervalo de confianza (IC 95 %) | El rango donde cae el valor real con 95 % de confianza. Si incluye el cero (o el 1, en un riesgo relativo), no se puede descartar que no haya efecto. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
+| Cohorte | Un grupo de personas seguido en el tiempo. | [Fuentes sobre crianza](fuentes-sobre-crianza.md) |
 | Heredabilidad | Qué parte de las diferencias entre personas de una población va con las diferencias genéticas. Describe a una población, no a un chico. | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
 | Entorno compartido | Lo que hace parecidos a hermanos criados juntos, más allá de los genes. No es lo mismo que "la crianza". | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |
 | Crisis de replicación | La caída de efectos famosos de la psicología al repetir los estudios con más gente y el plan registrado de antemano. | [Cuánto pesa la crianza](cuanto-pesa-la-crianza.md) |

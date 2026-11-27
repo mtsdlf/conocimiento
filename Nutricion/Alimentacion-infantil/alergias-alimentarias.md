@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una alergia alimentaria es una reacción del sistema inmune a un alimento; en los chicos chicos la causan sobre todo ocho alimentos, se diagnostica con el médico y se trata evitando ese alimento.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.sap.org.ar/docs/pdf/files_alergia-alim-9-20_1599081818.pdf
@@ -10,14 +10,16 @@ fuentes:
 aliases: [alergia a los alimentos, alergia a la leche, alergia al maní, anafilaxia]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alergias alimentarias
 
 Una alergia alimentaria es una reacción del sistema inmune a un alimento; en los chicos chicos la causan sobre todo ocho alimentos, se diagnostica con el médico y se trata evitando ese alimento.
 
-Lo que sigue se apoya en una sola fuente argentina leída completa, la ficha divulgativa del Comité Nacional de Alergia de la Sociedad Argentina de Pediatría (SAP). Para el riesgo de anafilaxia falta una segunda fuente independiente leída, aunque es un punto estándar de la pediatría. Una sospecha de alergia se consulta con el pediatra o el alergista: nada de lo que sigue sirve para diagnosticar.
+## Qué hacer ante una alergia alimentaria
+
+Si sospechás una alergia, llevá al chico al pediatra o al alergista: el diagnóstico es médico y nada de esta nota sirve para hacerlo en casa. Una vez confirmada, el tratamiento es no darle el alimento que le hace mal y leer las etiquetas. Si ya tuvo una reacción grave (anafilaxia, una reacción rápida de todo el cuerpo), el chico lleva adrenalina inyectable y una pulsera que lo identifique. No saques alimentos de la dieta por las dudas, porque podés dejarlo sin nutrientes que necesita.
 
 ## Cuántos chicos y qué alimentos
 
@@ -44,7 +46,7 @@ La SAP dice que las alergias de la infancia al huevo, el trigo y la leche se sup
 
 ## Introducir temprano reduce la alergia al maní
 
-El ensayo LEAP mostró, según revisiones que lo resumen, una reducción relativa del 81 % de la alergia al maní a los 5 años en lactantes de alto riesgo que lo comieron temprano y con regularidad. La guía del NIAID de Estados Unidos (2017) sugiere introducirlo entre los 4 y los 6 meses en lactantes con eccema grave o alergia al huevo, después de una evaluación médica. Está contado en [primeros alimentos](primeros-alimentos.md).
+El ensayo LEAP (un ensayo aleatorizado: se asignó por sorteo quién comía maní) mostró, según revisiones que lo resumen, una reducción relativa del 81 % de la alergia al maní a los 5 años en lactantes de alto riesgo que lo comieron temprano y con regularidad; relativa quiere decir que el riesgo bajó en esa proporción respecto del grupo que lo evitó. La guía del NIAID (Instituto Nacional de Alergias y Enfermedades Infecciosas de Estados Unidos, 2017) sugiere introducirlo entre los 4 y los 6 meses en lactantes con eccema grave (una enfermedad de la piel) o alergia al huevo, después de una evaluación médica. Está contado en [primeros alimentos](primeros-alimentos.md).
 
 > [!NOTE]
 > Sin fuente todavía: la posición de la SAP sobre cuándo y cómo introducir los alimentos alergénicos.
@@ -52,3 +54,7 @@ El ensayo LEAP mostró, según revisiones que lo resumen, una reducción relativ
 ## Alergia en el jardín
 
 Un chico con alergia necesita que el jardín sepa qué evitar y qué hacer ante una reacción. Qué va en la vianda está en [colaciones y vianda](colaciones-y-vianda.md). Cómo se organiza el jardín frente a un chico alérgico no está en las fuentes leídas.
+
+## Qué tan firme es lo que dice esta nota
+
+Lo que sigue se apoya en una sola fuente argentina leída completa, la ficha divulgativa del Comité Nacional de Alergia de la Sociedad Argentina de Pediatría (SAP). Para el riesgo de anafilaxia falta una segunda fuente independiente leída, aunque es un punto estándar de la pediatría. Una sospecha de alergia se consulta con el pediatra o el alergista: nada de lo que sigue sirve para diagnosticar.

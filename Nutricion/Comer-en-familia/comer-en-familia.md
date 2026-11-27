@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Comer en familia es cómo se reparte la comida en la mesa de la casa: quién decide qué se come, cómo se come juntos y cómo una sola comida sirve a un chico chico y a adultos con objetivos distintos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.ellynsatterinstitute.org/wp-content/uploads/2025/06/Satter-Division-of-Responsibility-in-Feeding-2025-1.pdf
@@ -11,7 +11,7 @@ fuentes:
 aliases: [comidas familiares, la mesa familiar]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Comer en familia
@@ -22,15 +22,15 @@ Es el punto donde se juntan las otras partes de la base. Recibe de [Alimentació
 
 ## Las tres preguntas de la mesa
 
-La primera es quién decide. El modelo más usado es la división de responsabilidades de Ellyn Satter: el adulto decide qué, cuándo y dónde se come, y el chico decide cuánto y si come. Es una propuesta de una nutricionista y terapeuta familiar, con evidencia correlacional y casi toda de su propio grupo ([división de responsabilidades](division-de-responsabilidades.md)).
+La primera es quién decide. El modelo más usado es la división de responsabilidades de Ellyn Satter: el adulto decide qué, cuándo y dónde se come, y el chico decide cuánto y si come. Es una propuesta de una nutricionista y terapeuta familiar, con evidencia correlacional (muestra que dos cosas aparecen juntas, no que una cause la otra) y casi toda de su propio grupo ([división de responsabilidades](division-de-responsabilidades.md)).
 
-La segunda es si importa comer juntos. Los metaanálisis encuentran que los chicos que comen más veces en familia tienen mejor dieta y un peso algo menor, pero las asociaciones son chicas (el índice de masa corporal se mueve con r = −0,05) y los estudios no prueban causa ([mesa compartida](mesa-compartida.md)).
+La segunda es si importa comer juntos. Los metaanálisis (estudios que combinan los resultados de muchos otros) encuentran que los chicos que comen más veces en familia tienen mejor dieta y un peso algo menor, pero las asociaciones son chicas (el índice de masa corporal, la relación entre peso y talla, se mueve con r = −0,05, una asociación casi nula; ver el [glosario](../Fundamentos/glosario-de-nutricion.md)) y los estudios no prueban causa ([mesa compartida](mesa-compartida.md)).
 
 La tercera es práctica: cómo se cocina una vez para un chico de jardín, un adulto que baja grasa y otro que gana músculo. La respuesta es un plato base común con ajustes de porción y de agregados por persona, y no tiene estudios propios ([un menú para todos](un-menu-para-todos.md)).
 
 ## Dónde se traba la mesa
 
-La mesa se vuelve campo de batalla cuando el adulto intenta decidir cuánto come el chico: insistir con un bocado más, negociar el postre, cocinar un plato aparte. El modelo de Satter y la Sociedad Argentina de Pediatría, que desaconseja obligar a comer, apuntan a lo mismo: el adulto se ocupa de qué hay en la mesa y del clima, y deja el cuánto al chico. Los pasos para el caso más común, el chico que rechaza verduras, están en [el chico que no come](../Alimentacion-infantil/chico-que-no-come.md).
+La mesa se vuelve campo de batalla cuando el adulto intenta decidir cuánto come el chico: insistir con un bocado más, negociar el postre, cocinar un plato aparte. El modelo de Satter y la Sociedad Argentina de Pediatría (SAP), que desaconseja obligar a comer, apuntan a lo mismo: el adulto se ocupa de qué hay en la mesa y del clima, y deja el cuánto al chico. Los pasos para el caso más común, el chico que rechaza verduras, están en [el chico que no come](../Alimentacion-infantil/chico-que-no-come.md).
 
 ## Qué hay adentro de comer en familia
 

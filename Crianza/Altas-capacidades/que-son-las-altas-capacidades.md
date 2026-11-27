@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Altas capacidades es el nombre de una capacidad de aprender muy superior a la de la edad; los modelos actuales la ven como un potencial que se desarrolla con el ambiente, no como un número de CI fijo que se tiene o no se tiene.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://gifted.uconn.edu/schoolwide-enrichment-model/three-ring_conception_of_giftedness
@@ -18,7 +18,7 @@ aliases:
   - giftedness
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Qué son las altas capacidades
@@ -29,7 +29,7 @@ Para un chico de 2 a 6 años la diferencia importa mucho. Si las altas capacidad
 
 ## Del corte de CI a los modelos de potencial
 
-La definición más vieja es psicométrica: tiene altas capacidades quien supera un corte en un test de inteligencia. Es la que usó Terman en el estudio longitudinal más antiguo de la psicología, que desmintió la idea de que los chicos brillantes fueran enfermizos o inadaptados. Una revisión de 2018 recoge las críticas a ese enfoque: el peso excesivo del CI, la carga meritocrática y la lectura genética (Warne, según su resumen).
+La definición más vieja es psicométrica: tiene altas capacidades quien supera un corte en un test de inteligencia; el puntaje es el CI, el cociente intelectual. Es la que usó Terman en el estudio longitudinal más antiguo de la psicología, que desmintió la idea de que los chicos brillantes fueran enfermizos o inadaptados. Una revisión de 2018 recoge las críticas a ese enfoque: el peso excesivo del CI, la carga meritocrática y la lectura genética (Warne).
 
 Los modelos que hoy usan las escuelas parten de otro lado:
 
@@ -39,7 +39,7 @@ Los modelos que hoy usan las escuelas parten de otro lado:
 | Tres anillos (Renzulli) | Capacidad por encima de la media, creatividad y compromiso con la tarea, que coinciden en ciertos momentos | Las altas capacidades se muestran "en ciertas personas, en ciertos momentos y en ciertas circunstancias"; se habla de conductas, no de un rasgo poseído |
 | Dotación y talento (Gagné) | Separa la dotación, el potencial natural, del talento, el rendimiento desarrollado de forma sistemática | Entre los dos median "catalizadores" que el resumen leído no detalla |
 
-Lo de Renzulli y Gagné viene de resúmenes de sus modelos, no de los textos originales, y lo que mira cada anillo no estaba en el resumen leído: es lo habitual del modelo. Un resumen universitario nota que los tres anillos identifican sobre todo a los que Gagné llamaría "talentosos", y que los chicos que entran y salen de esos momentos serían, para Gagné, dotados que todavía no convierten el potencial en talento.
+Lo que mira cada anillo no estaba en el resumen leído: es lo habitual del modelo. Un resumen universitario nota que los tres anillos identifican sobre todo a los que Gagné llamaría "talentosos", y que los chicos que entran y salen de esos momentos serían, para Gagné, dotados que todavía no convierten el potencial en talento.
 
 Para una familia, lo útil de Gagné es la distinción: un chico de 4 años puede tener mucho potencial y ningún talento desarrollado todavía, y es razonable pensar que lo que pasa en casa y en el jardín influye en que lo convierta; es una deducción nuestra.
 
@@ -50,11 +50,11 @@ Para una familia, lo útil de Gagné es la distinción: un chico de 4 años pued
 
 La Ley 6614 de la Ciudad de Buenos Aires (2022), en su artículo 3, habla de una capacidad de aprendizaje "radicalmente distinta, que lo/la diferencia de las personas de su edad". Dice que puede mostrarse en inteligencia general por encima de la media, en aptitudes académicas específicas, en pensamiento creativo o productivo, o en talento en áreas curriculares. Es una definición amplia, cercana a los modelos de potencial, y es la que rige en las escuelas porteñas ([opciones escolares](opciones-escolares.md)).
 
-El especialista español Javier Tourón, según su resumen, sostiene que las altas capacidades no son "un atributo o condición natural de la que unos gozan y otros no". Es la misma idea de desarrollo, dicha por alguien que trabaja en identificación temprana.
+El especialista español Javier Tourón sostiene que las altas capacidades no son "un atributo o condición natural de la que unos gozan y otros no". Es la misma idea de desarrollo, dicha por alguien que trabaja en identificación temprana.
 
 ## Una forma de desarrollo, no solo de inteligencia
 
-Una corriente define las altas capacidades por su efecto en el desarrollo: el Columbus Group (1991) las describe como "asynchronous development in which advanced cognitive abilities and heightened intensity combine to create inner experiences and awareness that are qualitatively different from the norm". La fuente original es un manuscrito de una reunión y no un estudio. Lo que significa para la crianza está en [desarrollo asincrónico](desarrollo-asincronico.md).
+Una corriente define las altas capacidades por su efecto en el desarrollo: el Columbus Group (1991) las describe como «un desarrollo asincrónico en el que las capacidades cognitivas avanzadas y una intensidad aumentada se combinan para crear experiencias internas y una conciencia cualitativamente distintas de la norma» (en el original: "asynchronous development in which advanced cognitive abilities and heightened intensity combine to create inner experiences and awareness that are qualitatively different from the norm"). La fuente original es un manuscrito de una reunión y no un estudio. Lo que significa para la crianza está en [desarrollo asincrónico](desarrollo-asincronico.md).
 
 ## Cuántos chicos tienen altas capacidades
 
@@ -65,6 +65,10 @@ No hay una cifra confiable, porque depende de la definición.
 
 ## Lo que muestran los estudios largos
 
-Dos estudios longitudinales conocidos son el de Terman y el SMPY. El de Terman refutó el mito "early ripe, early rot", que lo brillante temprano se pudre pronto ([riesgos](riesgos.md)). El Study of Mathematically Precocious Youth (SMPY), iniciado por Stanley en 1971, siguió a más de 5.000 participantes en cinco cohortes y contradice la idea de un techo de capacidad entre los más altos (Lubinski y Benbow, 2006, según su resumen). El SMPY siguió a adolescentes identificados por tests; no encontramos un estudio equivalente con chicos de 2 a 6 años.
+Dos estudios longitudinales (que siguen a las mismas personas durante años) conocidos son el de Terman y el SMPY. El de Terman refutó el mito de que lo brillante temprano se pudre pronto (en inglés, "early ripe, early rot") ([riesgos](riesgos.md)). El Study of Mathematically Precocious Youth (SMPY), iniciado por Stanley en 1971, siguió a más de 5.000 participantes en cinco cohortes y contradice la idea de un techo de capacidad entre los más altos (Lubinski y Benbow, 2006). El SMPY siguió a adolescentes identificados por tests; no encontramos un estudio equivalente con chicos de 2 a 6 años.
+
+## Qué tan firme es lo que dice esta nota
+
+Lo de Warne, Renzulli, Gagné, Tourón y Lubinski y Benbow viene de resúmenes de sus trabajos, no de los textos originales. La cifra de "uno de cada 50" y la del 15 % vienen de prensa. La definición del Columbus Group sale de un manuscrito, no de un estudio.
 
 Para leer más: el sitio de Renzulli en la Universidad de Connecticut explica los tres anillos en una página; fijarse en la parte de "conductas" contra "rasgo".

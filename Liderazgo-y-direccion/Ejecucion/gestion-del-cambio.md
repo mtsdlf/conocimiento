@@ -39,7 +39,7 @@ Antes ya se lo criticaba por simplificar, y otros lo defendían. Lo nuevo de Cum
 
 ## Kotter: ocho pasos sin prueba en contra ni a favor
 
-Los ocho pasos de Kotter (*Leading Change*, 1996) son uno de los modelos que revisó el informe. Appelbaum, Habashy, Malo y Shafiq (2012) hicieron la primera revisión formal, a los 15 años, recorriendo la literatura paso por paso.
+Los ocho pasos de Kotter (*Leading Change*, 1996) son uno de los modelos que revisó el informe. Appelbaum, Habashy, Malo y Shafiq (2012) hicieron la primera revisión formal, a los 15 años, recorriendo la literatura paso por paso. Cómo se cuenta la visión de un cambio (la historia trampolín de Denning, el sensemaking) está en [historia del cambio](../../Storytelling/Usos/historia-del-cambio.md).
 
 > [!IMPORTANT]
 > **El modelo tiene límites (Appelbaum et al. 2012).** Según un resumen del abstract, encontraron «several limitations that affect the model's universal acceptance».

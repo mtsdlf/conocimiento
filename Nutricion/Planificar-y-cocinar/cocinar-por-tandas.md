@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cocinar por tandas es preparar de una vez comida para varios días y guardarla porcionada en heladera o freezer; ahorra tiempo en la semana si lo cocido se enfría rápido, se guarda en porciones chicas y se recalienta completo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/anmat/comunidad/informacion-de-interes-para-tu-salud/como-guardar-los-alimentos-en-la-heladera
@@ -10,7 +10,7 @@ fuentes:
 aliases: [batch cooking, meal prep, cocinar para la semana]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cocinar por tandas
@@ -27,7 +27,7 @@ Para la vianda del jardín o del trabajo, el folleto de viandas del Ministerio d
 
 ## Cómo pasar la tanda de la olla a la heladera
 
-El riesgo de una tanda está, por inferencia de las reglas oficiales, en el enfriado: una olla grande tarda en enfriarse y pasa ese tiempo fuera del frío. Las reglas de ANMAT y del Ministerio de Salud apuntan a acortar ese tiempo.
+El riesgo de una tanda está, por inferencia de las reglas oficiales, en el enfriado: una olla grande tarda en enfriarse y pasa ese tiempo fuera del frío. Las reglas de ANMAT (la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica) y del Ministerio de Salud apuntan a acortar ese tiempo.
 
 1. **No dejes lo cocido más de dos horas afuera.** ANMAT pide refrigerar cuanto antes y no pasar "más de 2 horas a temperatura ambiente"; el Ministerio baja el límite a una hora en días de mucho calor.
 2. **Separá en porciones chicas y envases poco profundos.** Así se enfrían rápido en el centro, como recomienda ANMAT. Una porción por comida evita abrir y recalentar todo el envase.
