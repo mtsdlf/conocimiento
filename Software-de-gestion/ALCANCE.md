@@ -20,6 +20,7 @@ preguntas:
   - "¿Por qué personalizar un ERP sale caro después, y cómo se decide entre adaptar el proceso o adaptar el software?"
   - "¿De qué vive una empresa que hace software de gestión, cuánto se queda un partner y cuánto termina pagando el que compra más allá de la licencia?"
   - "Tengo que vender o construir un sistema para empresas en la Argentina: ¿qué le exige la normativa al sistema (factura electrónica, libros digitales, percepciones y retenciones) y qué tiene de propio el mercado local?"
+  - "Tengo que programar la factura y la cuenta corriente de un mayorista: ¿cómo calcula el sistema el impuesto de cada renglón, cómo redondea y cómo aplica un cobro parcial que llega con retenciones?"
 aprobado:
 ---
 
@@ -90,6 +91,9 @@ Software-de-gestion/
     integracion-y-migracion.md
     configurar-o-personalizar.md
     reportes-operativos-y-legales.md
+    motor-de-impuestos.md                 pieza que combina columnas: el impuesto de cada renglón, la categoría fiscal, las alícuotas con vigencia y el redondeo
+    cuenta-corriente-y-aplicacion.md      pieza que combina columnas: partidas, vencimientos y aplicación de cobros y pagos
+    impuestos-y-cuenta-corriente-en-argentina.md  lo que la norma argentina les pide a esas dos piezas
   Implementacion/
     implementacion.md                    (entrada) el ciclo de una implantación y cómo falla
     elegir-un-sistema.md                 método general, sin nombrar productos
@@ -116,4 +120,5 @@ Software-de-gestion/
 - Lo de la Argentina va en dos notas: una en la raíz del tema, con lo que la norma le exige a un sistema (cruza varias columnas técnicas), y otra en Mercado y economía. Las dos enlazan a Impuestos, Contabilidad y Administración de personal en lugar de repetir la norma.
 - Reportes queda como columna angosta (decisión de #100). BI no tiene nota de categoría: enlaza a Datos.
 - Multi-tenancy no es columna (decisión de #97): la nota de estructura de la organización lo enlaza para marcar la diferencia con varias empresas.
+- El motor de impuestos y la cuenta corriente (issue #173) entran en Columnas técnicas como piezas que combinan columnas, sin cambiar el número de columnas: no están en todos los dominios, pero se arman con varias. Lo de la Argentina va en una nota aparte dentro de la misma vertical.
 - Las investigaciones de #96 y #97 se copiaron enteras a `.investigacion/` como parte de la capa cruda del tema.
