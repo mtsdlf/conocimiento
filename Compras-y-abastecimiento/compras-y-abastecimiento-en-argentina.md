@@ -48,7 +48,7 @@ La letra del comprobante depende de la condición de quien vende y de quien comp
 
 La factura M ya no existe. Desde el 1 de diciembre de 2025 (art. 32 de la RG 5762) la reemplaza la clase A con la leyenda «OPERACIÓN SUJETA A RETENCIÓN», y toda referencia a la M en otras normas se entiende hecha a ella (art. 31). Las M impresas «podrán utilizarse hasta los plazos de validez otorgados» (art. 27). Para el comprador, esta A no es una A común:
 
-- El inscripto en IVA que la recibe «deberá actuar como agente de retención de los impuestos al valor agregado y a las ganancias» (art. 12), y si no retiene responde personal y solidariamente por el impuesto omitido, más sanciones (art. 29).
+- El inscripto en IVA que la recibe «deberá actuar como agente de retención de los impuestos al valor agregado y a las ganancias» (art. 12): al pagar, descuenta esos impuestos y los deposita a nombre del proveedor. Si no retiene responde personal y solidariamente por el impuesto omitido, más sanciones (art. 29).
 - La RG fija el 100 % de la alícuota de IVA y el 6 % de Ganancias, retenidos al pagar (arts. 13 y 14), y no deja oponer certificados de exclusión (art. 19).
 
 Cómo se retiene y se ingresa es del tema Impuestos, todavía no armado. Todo esto sale del texto de la RG 5762; las RG 830 y 2226 que cita no se leyeron.
