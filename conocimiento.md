@@ -92,6 +92,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Tesorería y finanzas de la empresa en marcha](Tesoreria/tesoreria.md) — la plata real de una empresa que ya opera: posición y proyección de caja, capital de trabajo, crédito y cobranzas, pagos a proveedores, financiamiento y riesgos financieros, con lo de Argentina aparte.
 - [Activos y mantenimiento](Activos-y-mantenimiento/activos-y-mantenimiento.md) — lo que una empresa registra y decide sobre los equipos que tienen que seguir andando: el registro y el historial de cada equipo, la estrategia de mantenimiento, la orden de trabajo, el servicio técnico en casa del cliente y los indicadores, con lo de Argentina aparte.
 - [Servicios profesionales y proyectos](Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md) — lo que registra y gestiona una firma que vende trabajo de personas por proyecto, en cualquier rubro: el proyecto con el cliente y su presupuesto, la asignación de personas, las horas, la facturación por hora, por hito o por abono, y el margen, la utilización y la realización, con lo de Argentina aparte.
+- [Cadena de suministro y logística](Cadena-de-suministro-y-logistica/cadena-de-suministro-y-logistica.md) — lo que pasa con la mercadería entre lugares: el pronóstico, el plan de ventas y operaciones (S&OP) y el plan de distribución, la red de depósitos, el transporte, el despacho y la entrega, y el comercio exterior, sin nombrar productos y con lo de Argentina aparte.
 
 ## Personas
 
