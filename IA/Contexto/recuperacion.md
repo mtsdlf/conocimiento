@@ -3,7 +3,7 @@ resumen: >-
   La recuperación es el paso de un RAG que busca los fragmentos que van a entrar en el contexto. Se
   hace de forma léxica (por términos), por embeddings (densa) o combinando las dos, se afina con
   reranking y con la partición en fragmentos, y se mide antes de tocar el modelo que genera.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -22,7 +22,7 @@ fuentes:
   - "Huyen, AI Engineering (O'Reilly, 2025), cap. 6 «Retrieval Algorithms» p. 257 y «Retrieval Optimization» p. 268 (solo índice)"
 aliases: [retrieval, recuperador, retriever, búsqueda híbrida, hybrid search, reranking, chunking, partición en fragmentos, BM25, búsqueda agentiva, agentic search, RRF]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recuperación

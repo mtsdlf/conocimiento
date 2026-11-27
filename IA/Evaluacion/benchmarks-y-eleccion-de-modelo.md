@@ -3,7 +3,7 @@ resumen: >-
   Un benchmark es un conjunto público de tareas con respuesta conocida en el que se comparan modelos;
   sirve para descartar los que no alcanzan, pero el modelo de una aplicación se elige con una
   evaluación propia, que también decide si conviene una API o un modelo alojado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -24,7 +24,7 @@ fuentes:
   - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/
 aliases: [benchmark, benchmarks, leaderboard, ranking de modelos, model selection, elegir un modelo, build vs buy, construir o comprar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Benchmarks y elección de modelo

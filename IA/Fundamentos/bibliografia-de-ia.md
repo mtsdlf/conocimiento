@@ -3,7 +3,7 @@ resumen: >-
   La bibliografía de IA junta los libros, cursos abiertos, ensayos y papers que conviene leer para
   construir productos con un modelo adentro, cada uno con qué parte leer y en qué fijarse, y la
   evidencia en contra que se lee al lado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://github.com/chiphuyen/aie-book
@@ -37,7 +37,7 @@ fuentes:
   - https://www.rand.org/pubs/research_reports/RRA2680-1.html
 aliases: [bibliografía de AI engineering, qué leer de IA, recursos de IA, AI engineering reading list]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de IA

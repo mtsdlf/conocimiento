@@ -3,7 +3,7 @@ resumen: >-
   RAG (generación aumentada por recuperación) es armar el contexto del modelo buscando, en una base de
   documentos, solo los fragmentos relevantes para cada consulta, para que pueda responder lo que no
   sabe.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -19,7 +19,7 @@ fuentes:
   - https://www.trychroma.com/research/context-rot
 aliases: [RAG, retrieval-augmented generation, generación aumentada por recuperación, context construction, construcción de contexto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contexto y RAG

@@ -3,7 +3,7 @@ resumen: >-
   El Transformer es la arquitectura de red sobre la que se construyen los LLM: en cada capa, cada
   token mira a los demás tokens de la ventana de contexto con un mecanismo de atención y decide
   cuánto pesa cada uno para predecir el próximo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://arxiv.org/abs/1706.03762
@@ -17,7 +17,7 @@ fuentes:
   - https://web.stanford.edu/~jurafsky/slp3/
 aliases: [Transformer, atención, attention, self-attention, autoatención, ventana de contexto, context window, KV cache, mixture of experts, MoE, mezcla de expertos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Transformer

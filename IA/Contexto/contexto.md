@@ -3,7 +3,7 @@ resumen: >-
   El contexto es todo lo que entra en la ventana del modelo en una llamada: las instrucciones, los
   ejemplos, el historial, la información recuperada, los resultados de herramientas y la memoria. Es
   la forma de adaptar un modelo sin cambiar sus pesos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -13,7 +13,7 @@ fuentes:
   - https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection
   - https://www.trychroma.com/research/context-rot
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contexto

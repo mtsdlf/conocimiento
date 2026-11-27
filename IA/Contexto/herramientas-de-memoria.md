@@ -2,7 +2,7 @@
 resumen: >-
   Cómo implementan la memoria una API de agentes, un producto de memoria y dos asistentes de chat
   comerciales, copiado de sus páginas el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://platform.claude.com/docs/en/agents-and-tools/tool-use/memory-tool
@@ -10,7 +10,7 @@ fuentes:
   - https://help.openai.com/en/articles/8590148-memory-faq
   - https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-conversations
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramientas de memoria

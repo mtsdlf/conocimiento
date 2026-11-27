@@ -3,7 +3,7 @@ resumen: >-
   Fundamentos reúne lo que cruza todo el tema IA sin ser una parte del sistema: de dónde viene la
   IA generativa, en qué se diferencia el oficio de AI engineering del de ML engineering, con qué
   sesgo hablan sus voces de referencia y qué leer para ir más hondo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack
@@ -13,7 +13,7 @@ fuentes:
   - https://arxiv.org/abs/2604.16304
 aliases: [fundamentos de AI engineering, AI engineering foundations]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de IA

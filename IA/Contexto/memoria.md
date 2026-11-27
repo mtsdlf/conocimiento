@@ -3,7 +3,7 @@ resumen: >-
   La memoria de un sistema con modelos es lo que se guarda fuera de la ventana de contexto y vuelve a
   entrar cuando hace falta: entre los pasos de un agente, entre turnos y entre sesiones. El modelo no
   recuerda nada entre llamadas; la memoria es un archivo o una base que controla la aplicación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://arxiv.org/abs/2005.11401
@@ -14,7 +14,7 @@ fuentes:
   - "Huyen, AI Engineering (O'Reilly, 2025), cap. 6, «Agents», sección «Memory», p. 300 (solo índice)"
 aliases: [memory, memoria de agentes, agent memory, memoria a largo plazo, long-term memory, memoria persistente]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Memoria

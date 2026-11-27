@@ -2,7 +2,7 @@
 resumen: >-
   Descuento, ventana y límites de las APIs de batch de los proveedores, y las técnicas que soporta
   un motor de inferencia de código abierto, copiados el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://platform.claude.com/docs/en/build-with-claude/batch-processing
@@ -10,7 +10,7 @@ fuentes:
   - https://docs.vllm.ai/en/latest/
 aliases: [batch API, Message Batches, vLLM, motor de inferencia, inference engine]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # APIs de batch y motores de inferencia

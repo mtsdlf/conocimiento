@@ -4,7 +4,7 @@ resumen: >-
   herramientas, encadena pasos y, en el extremo, decide él mismo qué hacer hasta terminar la
   tarea. Abarca el mecanismo de las herramientas, los patrones para encadenar pasos, la
   planificación y cómo fallan y se evalúan los agentes.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2025/01/07/agents.html
@@ -18,7 +18,7 @@ fuentes:
   - https://cognition.com/blog/dont-build-multi-agents
 aliases: [agentes de IA, AI agents, agentic AI, IA agéntica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Agentes

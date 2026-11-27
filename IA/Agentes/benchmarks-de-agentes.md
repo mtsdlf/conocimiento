@@ -3,7 +3,7 @@ resumen: >-
   Los benchmarks públicos de agentes (SWE-bench, τ-bench, GAIA, TheAgentCompany y el horizonte de
   tiempo de METR), con qué mide cada uno, los resultados publicados con su fecha y lo que se sabe
   de su validez, copiado el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://arxiv.org/abs/2310.06770
@@ -16,7 +16,7 @@ fuentes:
   - https://metr.org/time-horizons/
 aliases: [agent benchmarks, benchmarks de agentes, SWE-bench, τ-bench, tau-bench, GAIA, TheAgentCompany]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Benchmarks de agentes

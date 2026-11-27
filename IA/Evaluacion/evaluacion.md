@@ -3,7 +3,7 @@ resumen: >-
   La evaluación es la parte de un sistema con un modelo que mide si hace lo que tiene que hacer:
   lee lo que pasa con el uso, nombra las fallas, las convierte en casos que se corren de nuevo y
   decide con eso qué cambio se queda y qué modelo se usa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -15,7 +15,7 @@ fuentes:
   - https://arxiv.org/abs/2604.16304
 aliases: [evaluation, AI evaluation, evaluación de sistemas con modelos, evaluación de LLM]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación

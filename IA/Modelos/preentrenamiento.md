@@ -3,7 +3,7 @@ resumen: >-
   El preentrenamiento es la primera etapa de un modelo base: entrenarlo a predecir el próximo token
   sobre un corpus enorme y sin etiquetas, que es donde adquiere la mayor parte de su conocimiento
   factual.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://arxiv.org/abs/2001.08361
@@ -16,7 +16,7 @@ fuentes:
   - http://cs336.stanford.edu/spring2025/
 aliases: [pretraining, pre-training, preentrenar, leyes de escala, scaling laws, Chinchilla, datos de entrenamiento, corte de conocimiento, knowledge cutoff]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Preentrenamiento

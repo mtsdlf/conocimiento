@@ -4,7 +4,7 @@ resumen: >-
   workflow con el camino fijado en el código hasta un agente que decide sus pasos, pasando por
   cinco patrones intermedios; los sistemas multiagente son el extremo, y su conveniencia está en
   disputa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.anthropic.com/engineering/building-effective-agents
@@ -15,7 +15,7 @@ fuentes:
   - https://arxiv.org/abs/2503.13657
 aliases: [workflow, flujo fijo, agentic workflow, patrones agénticos, agent patterns, multiagente, multi-agent system, sistema multiagente, ReAct, orchestrator-workers, evaluator-optimizer, prompt chaining]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Patrones de flujo

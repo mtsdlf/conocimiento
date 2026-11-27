@@ -2,7 +2,7 @@
 resumen: >-
   Los rankings y agregadores públicos de modelos que se consultan hoy, con lo que mostraban el
   2026-11-27: qué evalúan, quién los opera y los primeros puestos, copiados con fecha.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index
@@ -12,7 +12,7 @@ fuentes:
   - https://arxiv.org/abs/2211.09110
 aliases: [leaderboards, rankings de modelos, leaderboards vigentes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Benchmarks vigentes

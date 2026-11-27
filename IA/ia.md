@@ -3,7 +3,7 @@ resumen: >-
   AI engineering es el oficio de construir productos con un modelo de IA ya entrenado adentro:
   elegir el modelo, darle el contexto y las herramientas que necesita, ajustarlo solo si hace
   falta, medir si el sistema hace lo que tiene que hacer y operarlo en producción.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack
@@ -17,7 +17,7 @@ fuentes:
   - https://papers.ssrn.com/abstract=4945566
 aliases: [AI engineering, ingeniería de IA, IA generativa, LLM engineering]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # IA

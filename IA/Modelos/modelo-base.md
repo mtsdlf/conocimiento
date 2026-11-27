@@ -3,7 +3,7 @@ resumen: >-
   Un modelo base es un modelo grande, entrenado por otros sobre datos amplios y a escala, que se
   adapta a muchas tareas sin reentrenarlo; un LLM es el caso en que los datos son texto, y los
   modelos multimodales suman imagen, audio o video.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://arxiv.org/abs/2108.07258
@@ -16,7 +16,7 @@ fuentes:
   - https://web.stanford.edu/~jurafsky/slp3/
 aliases: [foundation model, modelo fundacional, LLM, large language model, modelo de lenguaje grande, modelo de lenguaje, modelo multimodal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelo base

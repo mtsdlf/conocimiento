@@ -3,7 +3,7 @@ resumen: >-
   Los datos sintéticos son ejemplos de entrenamiento generados por un modelo en lugar de escritos o
   recolectados por personas; abaratan y escalan los datos para ajustar, pero hay que verificarlos
   como cualquier dato, y entrenar con ellos en exceso puede degradar al modelo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
@@ -20,7 +20,7 @@ fuentes:
   - https://arxiv.org/abs/2211.04325
 aliases: [synthetic data, datos generados, data synthesis, síntesis de datos, Self-Instruct, colapso de modelos, model collapse]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Datos sintéticos

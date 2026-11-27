@@ -3,7 +3,7 @@ resumen: >-
   El prompt es el texto con que se le pide algo al modelo: instrucciones, ejemplos y la consulta,
   repartidos en mensajes con roles. Adapta el modelo a una tarea sin tocar sus pesos, y se versiona y
   se prueba como código.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://arxiv.org/abs/2005.14165
@@ -18,7 +18,7 @@ fuentes:
   - "Huyen, AI Engineering (O'Reilly, 2025), cap. 5 «Prompt Engineering», pp. 211-251 (solo índice)"
 aliases: [prompt engineering, ingeniería de prompts, prompting, system prompt, prompt de sistema, few-shot, in-context learning, aprendizaje en contexto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Prompt

@@ -3,7 +3,7 @@ resumen: >-
   Planificar una aplicación con un modelo adentro es decidir, antes de construir, si el caso de uso
   necesita un modelo, cuánto error tolera, qué tiene que lograr el primer hito y cómo se va a
   mantener cuando el modelo cambie.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -19,7 +19,7 @@ fuentes:
   - https://80000hours.org/podcast/episodes/ai-workplace-mit-study/
 aliases: [planificar una aplicación de IA, AI product planning, caso de uso de IA, should we build it]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificar una aplicación

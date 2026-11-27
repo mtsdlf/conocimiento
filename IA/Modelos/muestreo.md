@@ -3,7 +3,7 @@ resumen: >-
   El muestreo es la regla con que se elige el próximo token a partir de la distribución de
   probabilidad que calcula el modelo; decide cuánto varía la salida entre corridas, y en su forma
   restringida (salidas estructuradas) obliga a que la salida respete un esquema.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://arxiv.org/abs/1904.09751
@@ -15,7 +15,7 @@ fuentes:
   - https://developers.openai.com/api/docs/guides/structured-outputs
 aliases: [sampling, decoding, decodificación, temperatura, temperature, top-p, nucleus sampling, top-k, greedy, salidas estructuradas, structured outputs, constrained decoding, decodificación restringida, modo JSON, JSON mode]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Muestreo
