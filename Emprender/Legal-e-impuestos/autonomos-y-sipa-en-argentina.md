@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la Argentina, quien trabaja por su cuenta fuera del monotributo aporta al SIPA como autónomo: el 27 % de una renta de referencia fija según su categoría (de la I a la V), más el 5 % para el PAMI, todos los meses y sin obra social. La categoría depende de la actividad y de los ingresos del año anterior, se revisa cada mayo y los montos cambian todos los meses con la movilidad.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 24.241, texto actualizado, InfoLEG, arts. 2 a 5, 8 a 11, 32 y 34 (leída el 2026-11-27): https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/639/texact.htm"
@@ -28,7 +28,7 @@ fuentes:
   - "Emprender/.investigacion/argentina-puntos-abiertos.md (2026-11-27)"
 aliases: [autónomos, trabajador autónomo, régimen de autónomos, aportes de autónomos, SIPA, Sistema Integrado Previsional Argentino, Ley 24.241, categorías de autónomos, renta de referencia, recategorización de autónomos, Decreto 1866/2006, RG 2217, CRA, Código de Registro Autónomo, empadronamiento autónomos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autónomos y SIPA en Argentina

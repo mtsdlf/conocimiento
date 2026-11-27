@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cómo una persona humana con DNI argentino se inscribe en ARCA para empezar a facturar por su cuenta: la clave fiscal de nivel 3, la CUIT digital, los domicilios y la actividad, la elección entre el monotributo y el régimen general con su alta, el punto de venta y lo que queda del lado de la provincia, al 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "RG ARCA 5803/2025 (BO 24/12/2025, vigente desde el 2/03/2026), arts. 1, 3, 8, 9, 33 y 34, argentina.gob.ar (leída a través de un lector que resume, sin los Anexos): https://www.argentina.gob.ar/normativa/nacional/421823/texto"
@@ -28,7 +28,7 @@ fuentes:
   - "Emprender/.investigacion/argentina-puntos-abiertos.md (2026-11-27)"
 aliases: [inscripción en ARCA, inscribirse en ARCA, inscripción en AFIP, alta en ARCA, CUIT, CUIT digital, obtener la CUIT, Clave Única de Identificación Tributaria, clave fiscal, nivel de clave fiscal, RG 5803, RG 5048, Registro Único Tributario, RUT, Sistema Registral, alta de impuestos, F. 460/E, F. 420/T, CLAE, F. 883, punto de venta, adhesión al monotributo, Portal Monotributo, CDI, CUIL, administrador de relaciones]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inscripción en ARCA al arrancar

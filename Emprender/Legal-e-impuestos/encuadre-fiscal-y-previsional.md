@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El encuadre fiscal y previsional es la condición con que quien empieza a trabajar por su cuenta existe ante el fisco y ante la seguridad social: qué régimen impositivo elige (el simplificado o el general) y cómo aporta para su jubilación sin un empleador que lo haga por él. Se decide al inscribirse y se revisa cada vez que cambia lo que factura.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OIT, Social Protection Spotlight, Extending social security to self-employed workers: Lessons from international experience (PDF fechado en marzo de 2021; la ficha dice 30/06/2020), pp. 3, 5 y 7: https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749488.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Emprender/.investigacion/encuadre-fiscal-y-previsional-general.md (2026-11-27)"
 aliases: [encuadre fiscal, encuadre previsional, condición fiscal, condición frente al fisco, régimen impositivo de quien empieza, trabajador independiente, trabajador por cuenta propia, cuentapropista, self-employed, own-account worker]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Encuadre fiscal y previsional
