@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una operación en moneda extranjera se registra en la moneda funcional de la empresa al tipo de cambio del día, y las deudas y créditos que siguen abiertos se vuelven a convertir en cada cierre; la diferencia entre un tipo y otro es una diferencia de cambio que va a resultados.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 21 Efectos de las variaciones en las tasas de cambio de la moneda extranjera, resumen oficial: https://www.ifrs.org/issued-standards/list-of-standards/ias-21-the-effects-of-changes-in-foreign-exchange-rates/"
@@ -11,7 +11,7 @@ fuentes:
   - "Contabilidad/.investigacion/operaciones.md (2026-11-27)"
 aliases: [moneda extranjera, foreign currency, diferencia de cambio, diferencias de cambio, exchange difference, foreign exchange gain or loss, moneda funcional, functional currency, conversión, remedición, remeasurement, NIC 21, IAS 21]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Moneda extranjera

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El estado de resultados muestra los ingresos, los costos y los gastos de un período y el resultado que queda, ganancia o pérdida, medido por lo devengado y no por lo cobrado y pagado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 1 Presentation of Financial Statements (página de la norma, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/ias-1-presentation-of-financial-statements/"
@@ -11,7 +11,7 @@ fuentes:
   - "Contabilidad/.investigacion/estados-contables.md (2026-11-27)"
 aliases: [estado de resultados, cuenta de pérdidas y ganancias, estado de pérdidas y ganancias, income statement, profit and loss, P&L, statement of profit or loss, estado del resultado integral, otro resultado integral, other comprehensive income, margen bruto, gross margin, resultado operativo, operating profit]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estado de resultados

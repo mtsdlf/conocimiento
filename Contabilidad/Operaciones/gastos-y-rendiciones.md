@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los gastos de empleados son compras chicas que paga una persona de la empresa con plata propia, con un anticipo o con un fondo fijo, y que se registran recién cuando rinde los comprobantes.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 8.4 caja chica: https://openstax.org/books/principles-financial-accounting/pages/8-4-define-the-purpose-and-use-of-a-petty-cash-fund-and-prepare-petty-cash-journal-entries"
@@ -11,7 +11,7 @@ fuentes:
   - "Contabilidad/.investigacion/operaciones.md (2026-11-27)"
 aliases: [gastos de empleados, rendición de gastos, rendiciones, expense report, expense reimbursement, reintegro de gastos, anticipo a rendir, anticipo de viáticos, travel advance, fondo fijo, caja chica, petty cash, imprest]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gastos y rendiciones

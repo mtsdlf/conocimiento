@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los ajustes de cierre son los asientos que se registran al final de un período para que los saldos reflejen lo devengado aunque no haya un documento que lo dispare, y los asientos de cierre son los que después vuelcan las cuentas de resultado al patrimonio y las dejan en cero.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 4.2 Discuss the Adjustment Process and Illustrate Common Types of Adjusting Entries (según extractos del buscador): https://openstax.org/books/principles-financial-accounting/pages/4-2-discuss-the-adjustment-process-and-illustrate-common-types-of-adjusting-entries"
@@ -13,7 +13,7 @@ fuentes:
   - "Contabilidad/.investigacion/operaciones.md (2026-11-27), previsión para incobrables"
 aliases: [ajustes de cierre, asientos de ajuste, adjusting entries, asientos de cierre, closing entries, refundición de cuentas de resultado, resumen de resultados, income summary, balance de comprobación ajustado, adjusted trial balance, devengamientos, accruals, diferimientos, deferrals, previsión, allowance, provisión, provision]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ajustes de cierre

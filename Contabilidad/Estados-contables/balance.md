@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El balance es el estado que muestra, a una fecha, lo que la empresa controla (activo), lo que debe a terceros (pasivo) y lo que queda para sus dueños (patrimonio neto), separando lo corriente de lo no corriente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 1 Presentation of Financial Statements (página de la norma, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/ias-1-presentation-of-financial-statements/"
@@ -18,7 +18,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md (2026-11-27), secciones 4 y 5"
 aliases: [balance general, estado de situación patrimonial, estado de situación financiera, balance sheet, statement of financial position, activo corriente, pasivo corriente, capital de trabajo, working capital, valor en libros, book value]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Balance

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los controles sobre los sistemas son las actividades de control que cuidan la tecnología con que se registra (quién entra, quién cambia los programas, cómo se opera y qué queda anotado de cada acción), para que los controles automáticos y los datos contables sean confiables.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "COSO, Internal Control — Integrated Framework, Executive Summary (2013), principio 11: https://www.coso.org/_files/ugd/3059fc_1df7d5dd38074006bce8fdf621a942cf.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Contabilidad/.investigacion/control-interno.md, sección «Ampliación para controles sobre sistemas» (2026-11-27)"
 aliases: [controles generales de tecnología, controles generales de TI, IT general controls, ITGC, technology general controls, controles de aplicación, application controls, pista de auditoría, audit trail, bitácora]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Controles sobre los sistemas

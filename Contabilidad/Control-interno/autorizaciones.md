@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las autorizaciones definen quién puede aprobar cada tipo de operación y hasta qué monto, y los documentos numerados en forma correlativa permiten comprobar después que ninguna operación se hizo sin pasar por esa aprobación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "COSO, Internal Control — Integrated Framework, Executive Summary (2013): https://www.coso.org/_files/ugd/3059fc_1df7d5dd38074006bce8fdf621a942cf.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Contabilidad/.investigacion/control-interno.md (2026-11-27)"
 aliases: [autorización, aprobaciones, niveles de aprobación, matriz de autorizaciones, delegación de autoridad, delegation of authority, approval matrix, numeración correlativa, formularios prenumerados, prenumbered documents]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autorizaciones

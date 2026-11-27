@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las cuentas corrientes son los libros auxiliares que llevan el saldo de cada cliente y de cada proveedor por separado, mientras el mayor guarda una sola cuenta de control cuyo saldo tiene que ser igual a la suma del auxiliar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 7.4 Prepare a Subsidiary Ledger: https://openstax.org/books/principles-financial-accounting/pages/7-4-prepare-a-subsidiary-ledger"
@@ -10,7 +10,7 @@ fuentes:
   - "Contabilidad/.investigacion/registro-y-fundamentos.md (2026-11-27)"
 aliases: [cuenta corriente, cuentas corrientes, libro auxiliar, auxiliar, subsidiary ledger, subledger, auxiliar de clientes, accounts receivable subsidiary ledger, auxiliar de proveedores, accounts payable subsidiary ledger, cuenta de control, controlling account, control account, antigüedad de saldos, aging, aging of receivables, deudores por ventas, proveedores]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuentas corrientes

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El asiento es la anotación de un hecho con sus cuentas, sus importes al debe y al haber, su fecha y su explicación; se anota primero en el diario, se pasa al mayor de cada cuenta y se controla con el balance de sumas y saldos, y si está mal se corrige con otro asiento, nunca borrándolo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 3.5 Use Journal Entries to Record Transactions and Post to T-Accounts: https://openstax.org/books/principles-financial-accounting/pages/3-5-use-journal-entries-to-record-transactions-and-post-to-t-accounts"
@@ -10,7 +10,7 @@ fuentes:
   - "Contabilidad/.investigacion/registro-y-fundamentos.md (2026-11-27)"
 aliases: [asiento, asiento contable, journal entry, libro diario, diario, journal, libro mayor, mayor, general ledger, pase al mayor, posting, cuenta T, T-account, balance de sumas y saldos, balance de comprobación, trial balance, contraasiento, asiento de corrección, correcting entry, asiento de reversión, reversing entry]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Asiento y libros

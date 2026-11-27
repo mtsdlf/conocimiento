@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La contabilidad de gestión produce información de costos, presupuestos y desempeño para quienes dirigen una empresa, para decidir adentro; ninguna norma obligatoria la rige y se arma según la decisión que tiene que servir.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Accounting, Volume 2: Managerial Accounting (2019), sección 1.2: https://openstax.org/books/principles-managerial-accounting/pages/1-2-distinguish-between-financial-and-managerial-accounting"
@@ -14,7 +14,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md"
 aliases: [contabilidad gerencial, contabilidad de costos, contabilidad directiva, management accounting, managerial accounting, cost accounting]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contabilidad de gestión

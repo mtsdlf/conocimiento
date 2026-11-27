@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El estado de flujo de efectivo explica cómo cambió la caja de la empresa en un período, separando lo que entró y salió por operar, por invertir en activos de largo plazo y por financiarse.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 7 Statement of Cash Flows (página de la norma, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/ias-7-statement-of-cash-flows/"
@@ -10,7 +10,7 @@ fuentes:
   - "Contabilidad/.investigacion/estados-contables.md (2026-11-27)"
 aliases: [estado de flujo de efectivo, estado de flujos de efectivo, flujo de caja, estado de origen y aplicación de fondos, cash flow statement, statement of cash flows, método indirecto, indirect method, método directo, direct method, flujo operativo, operating cash flow]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estado de flujo de efectivo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El registro contable es el mecanismo que convierte cada hecho económico de una empresa en un asiento de partida doble, respaldado por un comprobante, y cada asiento en saldos de cuentas de los que salen los estados contables.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), cap. 3, secciones 3.1 a 3.6: https://openstax.org/books/principles-financial-accounting/pages/3-1-describe-principles-assumptions-and-concepts-of-accounting-and-their-relationship-to-financial-statements"
@@ -12,7 +12,7 @@ fuentes:
   - "Contabilidad/.investigacion/registro-y-fundamentos.md (2026-11-27)"
 aliases: [registro, registro contable, registración contable, teneduría de libros, bookkeeping, ciclo contable, accounting cycle, recording, contabilidad general, general ledger]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registro contable

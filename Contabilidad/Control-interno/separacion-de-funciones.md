@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La separación de funciones reparte cada operación entre varias personas (quien la autoriza, quien la registra y quien custodia el bien) para que nadie pueda cometer un error o un fraude y además esconderlo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 8.2 y 8.3: https://openstax.org/books/principles-financial-accounting/pages/8-3-describe-internal-controls-within-an-organization"
@@ -12,7 +12,7 @@ fuentes:
   - "Contabilidad/.investigacion/control-interno.md (2026-11-27)"
 aliases: [segregación de funciones, segregation of duties, SoD, separación de tareas, oposición de intereses, controles compensatorios, compensating controls]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Separación de funciones

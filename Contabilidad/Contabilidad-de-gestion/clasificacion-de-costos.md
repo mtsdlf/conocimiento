@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La clasificación de costos ordena cada costo según cómo se comporta cuando cambia la actividad (fijo, variable, mixto), según si se puede atribuir a un producto (directo o indirecto) y según cuándo pasa a resultados (de producto o del período).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Accounting, Volume 2: Managerial Accounting (2019), sección 2.2: https://openstax.org/books/principles-managerial-accounting/pages/2-2-identify-and-apply-basic-cost-behavior-patterns"
@@ -10,7 +10,7 @@ fuentes:
   - "Contabilidad/.investigacion/contabilidad-de-gestion.md"
 aliases: [comportamiento de costos, costo fijo, costo variable, costo mixto, costo semivariable, costo directo, costo indirecto, costo del período, cost behavior, fixed cost, variable cost, direct cost, overhead, period cost, product cost]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Clasificación de costos

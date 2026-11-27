@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El plan de cuentas es la lista numerada de todas las cuentas que usa una empresa para registrar, ordenada como aparecen en los estados contables y codificada para que el primer dígito diga el rubro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 3.2 Define and Describe the Expanded Accounting Equation, tabla 3.2: https://openstax.org/books/principles-financial-accounting/pages/3-2-define-and-describe-the-expanded-accounting-equation-and-its-relationship-to-analyzing-transactions"
@@ -11,7 +11,7 @@ fuentes:
   - "Contabilidad/.investigacion/registro-y-fundamentos.md (2026-11-27)"
 aliases: [plan de cuentas, chart of accounts, COA, catálogo de cuentas, nomenclador de cuentas, codificación de cuentas, cuenta imputable, cuenta de detalle]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plan de cuentas

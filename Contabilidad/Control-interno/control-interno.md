@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El control interno es el proceso, a cargo de la dirección y de toda la gente de la empresa, que da una seguridad razonable de que las operaciones, la información y el cumplimiento de la ley salen como se espera; en contabilidad, es lo que cuida que el registro diga la verdad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "COSO, Internal Control — Integrated Framework, Executive Summary (mayo de 2013), pp. 1 a 8: https://www.coso.org/_files/ugd/3059fc_1df7d5dd38074006bce8fdf621a942cf.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md, sección 5, mito 5 (2026-11-27)"
 aliases: [control interno, internal control, COSO, marco COSO, sistema de control interno, internal control over financial reporting, ICFR]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Control interno

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un ingreso se reconoce cuando la empresa le transfiere al cliente el bien o el servicio prometido, y desde ahí nace una cuenta a cobrar que se cancela con el cobro, se reduce con una nota de crédito o se da de baja si el cliente no paga.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIIF 15 Ingresos de actividades ordinarias procedentes de contratos con clientes, resumen oficial: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/"
@@ -14,7 +14,7 @@ fuentes:
   - "Contabilidad/.investigacion/operaciones.md (2026-11-27)"
 aliases: [ingresos, reconocimiento de ingresos, revenue recognition, cuentas a cobrar, cuentas por cobrar, accounts receivable, deudores por ventas, NIIF 15, IFRS 15, ingresos diferidos, deferred revenue, pasivo del contrato, contract liability, incobrables, previsión para incobrables, allowance for doubtful accounts]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ingresos y cuentas a cobrar

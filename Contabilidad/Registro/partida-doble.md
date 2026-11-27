@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La partida doble es la regla de registrar cada hecho económico en al menos dos cuentas, con débitos que suman lo mismo que los créditos, de modo que la ecuación activo = pasivo + patrimonio neto se cumpla siempre.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 3.2 Define and Describe the Expanded Accounting Equation: https://openstax.org/books/principles-financial-accounting/pages/3-2-define-and-describe-the-expanded-accounting-equation-and-its-relationship-to-analyzing-transactions"
@@ -14,7 +14,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md (2026-11-27)"
 aliases: [partida doble, doble entrada, double-entry bookkeeping, double entry, ecuación contable, accounting equation, débito y crédito, debe y haber, debits and credits, saldo normal, normal balance, contracuenta, contra account]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Partida doble

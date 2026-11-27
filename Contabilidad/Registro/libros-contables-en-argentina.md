@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, el Código Civil y Comercial (arts. 320 a 331) obliga a llevar contabilidad a las personas jurídicas privadas y a quien realiza una actividad económica organizada, con un diario y un libro de inventarios y balances como registros indispensables; la Ley General de Sociedades (arts. 61 y 62) permite llevarlos en registros digitales y pide estados contables en moneda constante.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ley 26.994, Código Civil y Comercial de la Nación, Libro Primero, Título IV, Capítulo 5, Sección 7.ª Contabilidad y estados contables, arts. 320 a 331, texto actualizado en Infoleg: https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/texact.htm"
@@ -9,7 +9,7 @@ fuentes:
   - "Contabilidad/.investigacion/registro-y-fundamentos.md (2026-11-27)"
 aliases: [libros contables, libros obligatorios, libros de comercio, registros contables obligatorios, libro diario, libro de inventarios y balances, rúbrica de libros, rubricación, libros digitales, registros digitales, Código Civil y Comercial contabilidad, CCyC 320, Ley 19.550 art. 61]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Libros contables en Argentina

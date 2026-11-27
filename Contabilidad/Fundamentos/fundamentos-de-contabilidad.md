@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal de la contabilidad: de dónde viene la partida doble, qué posiciones discuten el modelo (REA, la triple entrada y la pérdida de relevancia de la información contable) y qué creen de la contabilidad quienes no son contadores, con la nota que explica cada punto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Double-entry bookkeeping (sección de historia): https://en.wikipedia.org/wiki/Double-entry_bookkeeping"
@@ -24,7 +24,7 @@ fuentes:
   - "Contabilidad/.investigacion/control-interno.md (secciones 1 y 3)"
 aliases: [fundamentos de contabilidad, historia de la contabilidad, history of accounting, mitos contables, accounting misconceptions, REA, triple entrada, triple-entry accounting]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de contabilidad

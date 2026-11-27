@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La contabilidad es el sistema con que una empresa registra en dinero cada hecho económico que la afecta, lo resume en estados contables para quien la mira desde afuera, lo usa para decidir adentro y lo controla para que diga la verdad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), caps. 1 a 5: https://openstax.org/details/books/principles-financial-accounting"
@@ -10,7 +10,7 @@ fuentes:
   - "Contabilidad/.investigacion/ (seis informes, 2026-11-27)"
 aliases: [contabilidad, accounting, contabilidad general, contabilidad financiera, teneduría de libros, bookkeeping, general ledger]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contabilidad

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un sistema de costeo es la regla con que una empresa le asigna a cada producto, pedido o servicio su parte de los costos: por órdenes o por procesos, por absorción o variable, con costos reales o estándar, y con reparto tradicional o por actividades (ABC).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Accounting, Volume 2: Managerial Accounting (2019), secciones 4.1, 5.3, 6.3, 6.4, 6.5 y 8.1: https://openstax.org/books/principles-managerial-accounting/pages/6-5-compare-and-contrast-variable-and-absorption-costing"
@@ -14,7 +14,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md"
 aliases: [costeo, costeo por órdenes, costeo por procesos, costeo por absorción, costeo variable, costeo directo, costeo estándar, costo estándar, ABC, costeo basado en actividades, TDABC, job order costing, process costing, absorption costing, variable costing, standard costing, activity-based costing, time-driven activity-based costing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sistemas de costeo

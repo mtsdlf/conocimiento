@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El presupuesto es el plan de una empresa expresado en números para un período: cuánto espera vender, gastar, cobrar y pagar, y cómo quedaría su patrimonio; después se compara contra lo real y la diferencia se explica en desvíos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Accounting, Volume 2: Managerial Accounting (2019), sección 7.1: https://openstax.org/books/principles-managerial-accounting/pages/7-1-describe-how-and-why-managers-use-budgets"
@@ -15,7 +15,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md"
 aliases: [presupuesto maestro, presupuesto flexible, presupuesto estático, presupuesto base cero, presupuesto móvil, análisis de desvíos, variaciones, desvío de precio, desvío de cantidad, budget, master budget, flexible budget, zero-based budgeting, rolling forecast, variance analysis, Beyond Budgeting]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Presupuesto

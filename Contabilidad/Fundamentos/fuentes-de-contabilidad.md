@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El saber contable se produce en cuatro lugares de distinto peso: los emisores de normas, los libros de texto, las asociaciones profesionales y las revistas académicas; para cada vertical del tema hay un recurso que conviene leer primero.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "IFRS Foundation, normas emitidas: https://www.ifrs.org/issued-standards/list-of-standards/"
@@ -21,7 +21,7 @@ fuentes:
   - "Contabilidad/.investigacion/registro-y-fundamentos.md, operaciones.md, estados-contables.md, contabilidad-de-gestion.md, control-interno.md y posicion-contraria.md (tablas de fuentes y recursos canónicos)"
 aliases: [fuentes contables, bibliografía de contabilidad, qué leer de contabilidad, accounting sources, accounting standards setters]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de contabilidad

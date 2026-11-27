@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El devengado es la base contable que registra ingresos y gastos en el período en que ocurren, aunque se cobren o se paguen en otro; por eso el resultado de un período y la caja que entró en ese período son dos números distintos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, Conceptual Framework for Financial Reporting (2018), párrs. 1.17 a 1.21: https://moodle2.units.it/pluginfile.php/493397/mod_resource/content/1/conceptual-framework-for-financial-reporting.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md (2026-11-27)"
 aliases: [devengado, base de devengado, devengamiento, principio de lo devengado, accrual, accrual basis, accrual accounting, base caja, base de caja, percibido, cash basis, caja y resultado, ganancia y caja, matching, correlación de ingresos y gastos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Devengado

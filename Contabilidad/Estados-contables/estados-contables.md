@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los estados contables son el resumen del registro de una empresa en un juego de informes para quien la mira desde afuera: qué tiene y qué debe a una fecha, cuánto ganó en un período, cómo cambió su patrimonio y de dónde vino y a dónde fue su caja, con notas que los explican.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 1 Presentation of Financial Statements (página de la norma, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/ias-1-presentation-of-financial-statements/"
@@ -12,7 +12,7 @@ fuentes:
   - "Contabilidad/.investigacion/estados-contables.md (2026-11-27)"
 aliases: [estados contables, estados financieros, juego completo de estados financieros, financial statements, estado de cambios en el patrimonio neto, estado de evolución del patrimonio neto, statement of changes in equity, notas a los estados contables, notes to the financial statements]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estados contables

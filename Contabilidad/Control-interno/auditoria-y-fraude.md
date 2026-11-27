@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La auditoría es la revisión independiente del control interno (la interna) o de los estados contables (la externa), y el fraude ocupacional es el engaño de alguien de adentro para sacarle plata o bienes a su empresa; según los datos, la vía más común por la que se descubre un fraude es una denuncia, y la auditoría externa descubre pocos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "IIA, The IIA's Three Lines Model (2020), principios 3 a 5: https://www.theiia.org/globalassets/site/communication/2020/three-lines-model-updated.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md, sección 6 (2026-11-27)"
 aliases: [auditoría, auditoría interna, auditoría externa, internal audit, external audit, fraude ocupacional, occupational fraud, triángulo del fraude, fraud triangle, tres líneas, three lines model, ACFE]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Auditoría y fraude

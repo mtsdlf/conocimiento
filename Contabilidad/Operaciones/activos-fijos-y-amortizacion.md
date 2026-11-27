@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un activo fijo es un bien que la empresa usa durante varios años (una máquina, un vehículo, un edificio); se registra por su costo y ese costo se reparte como gasto a lo largo de su vida útil mediante la amortización.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 16 Propiedades, planta y equipo, resumen oficial: https://www.ifrs.org/issued-standards/list-of-standards/ias-16-property-plant-and-equipment/"
@@ -14,7 +14,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md, mito 3 (2026-11-27)"
 aliases: [activos fijos, bienes de uso, propiedades planta y equipo, PP&E, property plant and equipment, fixed assets, amortización, depreciación, depreciation, amortización acumulada, accumulated depreciation, vida útil, useful life, valor residual, residual value, salvage value, NIC 16, IAS 16]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Activos fijos y amortización

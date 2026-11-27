@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un centro de costo es una parte de la empresa cuyo responsable responde solo por los costos; junto con los centros de ingreso, de utilidad y de inversión forma la contabilidad por responsabilidad, que reparte costos indirectos entre áreas y se lleva como dimensión de cada movimiento.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Accounting, Volume 2: Managerial Accounting (2019), sección 9.3: https://openstax.org/books/principles-managerial-accounting/pages/9-3-describe-the-types-of-responsibility-centers"
@@ -12,7 +12,7 @@ fuentes:
   - "Contabilidad/.investigacion/contabilidad-de-gestion.md"
 aliases: [centro de responsabilidad, contabilidad por responsabilidad, centro de utilidad, centro de beneficio, centro de inversión, prorrateo, reparto de costos indirectos, método escalonado, precio de transferencia, contabilidad analítica, dimensión, cost center, profit center, investment center, responsibility accounting, step-down allocation, transfer pricing, analytic accounting, financial dimension]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Centros de costo

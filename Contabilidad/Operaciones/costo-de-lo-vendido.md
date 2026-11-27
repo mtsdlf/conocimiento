@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El costo de lo vendido es lo que costaron las mercaderías que la empresa entregó en un período; se calcula con una fórmula de valuación del inventario (PEPS o promedio ponderado bajo NIIF) y nunca deja el stock por encima de lo que se puede recuperar vendiéndolo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 2 Inventarios, resumen oficial: https://www.ifrs.org/issued-standards/list-of-standards/ias-2-inventories/"
@@ -13,7 +13,7 @@ fuentes:
   - "Contabilidad/.investigacion/operaciones.md (2026-11-27)"
 aliases: [costo de lo vendido, costo de ventas, costo de la mercadería vendida, CMV, cost of goods sold, COGS, valuación de inventarios, inventory valuation, PEPS, FIFO, UEPS, LIFO, promedio ponderado, weighted average cost, valor neto de realización, net realisable value, NIC 2, IAS 2]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costo de lo vendido

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El punto de equilibrio es el nivel de ventas en el que el margen de contribución cubre justo los costos fijos y el resultado es cero; se calcula dividiendo los costos fijos por el margen de contribución, por unidad o como porcentaje del precio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Accounting, Volume 2: Managerial Accounting (2019), sección 3.1: https://openstax.org/books/principles-managerial-accounting/pages/3-1-explain-contribution-margin-and-calculate-contribution-margin-per-unit-contribution-margin-ratio-and-total-contribution-margin"
@@ -12,7 +12,7 @@ fuentes:
   - "Contabilidad/.investigacion/contabilidad-de-gestion.md"
 aliases: [break-even, break-even point, punto muerto, umbral de rentabilidad, margen de contribución, contribution margin, margen de seguridad, margin of safety, costo-volumen-utilidad, CVP, cost-volume-profit, apalancamiento operativo, operating leverage]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Punto de equilibrio
