@@ -19,11 +19,15 @@ revisado: 2026-11-27
 
 En Argentina, el ahogamiento y el tránsito son las dos primeras causas de muerte accidental en chicos de 1 a 4 años; se previenen con vigilancia y con barreras como el cerco de pileta y la silla del auto.
 
-El campo ordena la prevención por mecanismo (agua, tránsito, asfixia, fuego, intoxicación, caídas) y no por ambiente de la casa, porque cada mecanismo tiene su barrera. Lo que sigue resume datos oficiales y notas de la SAP; no reemplaza al pediatra ni a un curso de primeros auxilios.
+El campo ordena la prevención por mecanismo (agua, tránsito, asfixia, fuego, intoxicación, caídas) y no por ambiente de la casa, porque cada mecanismo tiene su barrera. Lo que sigue resume datos oficiales y notas de la SAP (Sociedad Argentina de Pediatría); no reemplaza al pediatra ni a un curso de primeros auxilios.
+
+## Qué hacer para evitar las dos causas principales
+
+Cerca del agua, un adulto atento tiene que vigilar siempre; la pileta necesita un cerco perimetral completo, y los cobertores y las alarmas no lo reemplazan. En el auto, un chico de menos de 1,50 m de estatura viaja en una silla de retención infantil, atrás, y mirando hacia atrás hasta los 2 años o el máximo que indique el fabricante. Vaciar baldes y tachos después de usarlos es una inferencia de la advertencia de la SAP. Los detalles y las fuentes están más abajo.
 
 ## Qué mata a los chicos de 1 a 4 años
 
-El boletín 172 de la Dirección de Estadísticas e Información de Salud (DEIS), con datos de 2023, cuenta 196 muertes por causas externas en chicos de 1 a 4 años. Las filas de accidentes suman 141; la diferencia con el subtotal son otras causas externas que el cuadro no detalla (resta nuestra).
+El boletín 172 de la Dirección de Estadísticas e Información de Salud (DEIS), del Ministerio de Salud, con datos de 2023, cuenta 196 muertes por causas externas en chicos de 1 a 4 años. Las filas de accidentes suman 141; la diferencia con el subtotal son otras causas externas que el cuadro no detalla (resta nuestra).
 
 | Causa (cuadro 6, DEIS 2023) | Muertes |
 |---|---|

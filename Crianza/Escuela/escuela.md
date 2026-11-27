@@ -22,13 +22,13 @@ La escuela suma adultos y pares al [juego y aprendizaje](../Juego-y-aprendizaje/
 
 ## La calidad pesa más que la edad o el tipo de escuela
 
-En Argentina el jardín es obligatorio desde la sala de 4 por la Ley 27.045, y la sala de 3 y el maternal son opcionales ([jardín](jardin.md)). Sobre qué aporta, los estudios discrepan: un consenso de investigadores ve efectos positivos de los programas públicos y un ensayo aleatorizado en Tennessee encontró efectos negativos a largo plazo. Lo que se repite es que la calidad decide, y que no hay una edad óptima de ingreso establecida para un chico que en casa tiene un ambiente rico.
+En Argentina el jardín es obligatorio desde la sala de 4 por la Ley 27.045, y la sala de 3 y el maternal son opcionales ([jardín](jardin.md)). Sobre qué aporta, los estudios discrepan: un consenso de investigadores ve efectos positivos de los programas públicos y un ensayo aleatorizado (un estudio que reparte a los chicos al azar entre un programa y un control) en Tennessee encontró efectos negativos a largo plazo. Lo que se repite es que la calidad decide, y que no hay una edad óptima de ingreso establecida para un chico que en casa tiene un ambiente rico.
 
-La calidad que más se asocia con lo que aprende el chico es la de proceso: cómo conversan, contienen y organizan los docentes. La estructural, como la cantidad de chicos por adulto, se pregunta; la de proceso se ve en una visita ([elegir escuela](elegir-escuela.md)). Un jardín que adelanta lectoescritura a costa del juego choca con la posición de la NAEYC, que pone el juego en el centro de la enseñanza, y con el desvanecimiento de las ventajas tempranas (inferencia nuestra).
+La calidad que más se asocia con lo que aprende el chico es la de proceso: cómo conversan, contienen y organizan los docentes. La estructural, como la cantidad de chicos por adulto, se pregunta; la de proceso se ve en una visita ([elegir escuela](elegir-escuela.md)). Un jardín que adelanta lectoescritura a costa del juego choca con la posición de la NAEYC (Asociación Nacional para la Educación de los Niños Pequeños, de Estados Unidos), que pone el juego en el centro de la enseñanza, y con el desvanecimiento de las ventajas tempranas (inferencia nuestra).
 
 ## La escuela bilingüe, en pocas líneas
 
-La evidencia de la inmersión canadiense dice que el idioma de la casa y de la sociedad se desarrolla igual que en una escuela de un solo idioma, con un posible atraso pasajero en la lectoescritura, y que el segundo idioma llega a un buen uso funcional sin gramática de nativo ([escuela bilingüe](escuela-bilingue.md)). Se traslada con cuidado: no hay estudios con castellano como lengua mayoritaria y las escuelas bilingües argentinas varían mucho en horas.
+La evidencia de la inmersión canadiense dice que el idioma de la casa y de la sociedad se desarrolla igual que en una escuela de un solo idioma, con un posible atraso pasajero en la lectoescritura, y que el segundo idioma llega a un buen uso funcional sin gramática de nativo ([escuela bilingüe](escuela-bilingue.md)). Los términos técnicos están en el [glosario de crianza](../Fundamentos/glosario-de-crianza.md). Esto se traslada con cuidado: no hay estudios con castellano como lengua mayoritaria y las escuelas bilingües argentinas varían mucho en horas.
 
 ## El ingreso
 

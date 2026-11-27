@@ -23,7 +23,7 @@ El temperamento no es el carácter. Es la base biológica de la reactividad y la
 
 ## Las nueve dimensiones de Thomas y Chess
 
-El estudio longitudinal de Nueva York, de Alexander Thomas y Stella Chess, propuso nueve dimensiones para describir a un chico (según resúmenes secundarios):
+El estudio longitudinal de Nueva York (que siguió a los mismos chicos durante años), de Alexander Thomas y Stella Chess, propuso nueve dimensiones para describir a un chico:
 
 | Dimensión | Pregunta que contesta |
 |---|---|
@@ -56,7 +56,11 @@ Las tres últimas conexiones son lectura propia.
 
 ## Cuánto viene dado
 
-Los estudios de gemelos atribuyen a la genética cerca de la mitad de las diferencias entre personas en rasgos de todo tipo: el metaanálisis de Polderman y otros (2015, según su resumen) halló una heredabilidad promedio del 49 % sobre 17.804 rasgos. Ese dato no es específico del temperamento infantil, pero es coherente con que el temperamento se note tan temprano. La discusión sobre cuánto pesa la crianza frente a los genes está en la [entrada del tema](../crianza.md) y en [enfoques de crianza](../Fundamentos/enfoques-de-crianza.md).
+Los estudios de gemelos atribuyen a la genética cerca de la mitad de las diferencias entre personas en rasgos de todo tipo: el [metaanálisis](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) de Polderman y otros (2015), que junta los resultados de muchos estudios, halló una [heredabilidad](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) promedio del 49 % sobre 17.804 rasgos (la heredabilidad es qué parte de las diferencias entre personas de una población va con las diferencias genéticas; no dice cuánto de un chico concreto es genético). Ese dato no es específico del temperamento infantil, pero es coherente con que el temperamento se note tan temprano. La discusión sobre cuánto pesa la crianza frente a los genes está en la [entrada del tema](../crianza.md) y en [enfoques de crianza](../Fundamentos/enfoques-de-crianza.md).
+
+## Qué tan firme es lo que dice esta nota
+
+Las nueve dimensiones y los porcentajes de los tres tipos vienen de resúmenes secundarios, no del estudio original; el metaanálisis de Polderman se conoce por su resumen. La bondad de ajuste no se verificó para esta nota, y la cita de la AAP sobre berrinches no se pudo cotejar con la fuente.
 
 > [!NOTE]
 > Sin fuente todavía: el modelo de Mary Rothbart (afectividad negativa, extraversión y control con esfuerzo), que es el que usa hoy la investigación; datos sobre cuán estable es el temperamento de la infancia a la adultez; evidencia empírica de la bondad de ajuste.

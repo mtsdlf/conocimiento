@@ -19,7 +19,7 @@ revisado: 2026-11-27
 
 La división de responsabilidades es el modelo de Ellyn Satter para alimentar a un chico: el adulto decide qué, cuándo y dónde se come, y el chico decide cuánto y si come; su evidencia es correlacional y casi toda del propio grupo de Satter.
 
-Ellyn Satter es nutricionista y terapeuta familiar, y su instituto difunde el modelo. La definición de abajo sale del folleto del instituto (2025), leído a través de las citas de un buscador y no completo. El instituto afirma que los lineamientos de la Academy of Nutrition and Dietetics se alinean con el modelo; esa afirmación es del propio instituto y no se verificó.
+Ellyn Satter es nutricionista y terapeuta familiar, y su instituto difunde el modelo. La definición de abajo sale del folleto del instituto (2025), leído a través de las citas de un buscador y no completo. El instituto afirma que los lineamientos de la Academia de Nutrición y Dietética de Estados Unidos se alinean con el modelo; esa afirmación es del propio instituto y no se verificó.
 
 ## Qué decide el adulto y qué decide el chico
 
@@ -33,7 +33,7 @@ El modelo vale, según Satter, desde la niñez temprana hasta la adolescencia. E
 
 ## Los deberes del adulto
 
-El instituto los enumera así: "choose and prepare the food; provide regular meals and snacks; make eating times pleasant; show children by example how to behave at family mealtime; be considerate of children's lack of food experience without catering to likes and dislikes; and not let children have food or beverages except water between meal and snack times". Bajado a la casa:
+El instituto los enumera así (traducción): elegir y preparar la comida; dar comidas y colaciones regulares; hacer agradables los momentos de comer; mostrar con el ejemplo cómo se comporta uno en la mesa familiar; tener en cuenta la poca experiencia del chico con la comida sin complacer gustos y disgustos; y no dejar que tome comida ni bebidas, salvo agua, entre las comidas y colaciones (en el original: "choose and prepare the food; provide regular meals and snacks; make eating times pleasant; show children by example how to behave at family mealtime; be considerate of children's lack of food experience without catering to likes and dislikes; and not let children have food or beverages except water between meal and snack times"). Bajado a la casa:
 
 1. **Elegí y prepará la comida** de toda la familia.
 2. **Dá comidas y colaciones a horario**, sin picoteo en el medio ([colaciones y vianda](../Alimentacion-infantil/colaciones-y-vianda.md)).
@@ -46,15 +46,15 @@ Del lado del chico, el modelo confía en que come lo que necesita si el adulto c
 
 ## Qué tan probado está
 
-La evidencia es correlacional y casi toda sale del grupo que impulsa el modelo. No se encontró una revisión sistemática ni un ensayo grande e independiente del modelo completo. Lo que hay, según los resúmenes:
+La evidencia es correlacional (asociaciones, no causas; ver el [glosario](../Fundamentos/glosario-de-nutricion.md)) y casi toda sale del grupo que impulsa el modelo. No se encontró una revisión sistemática (una búsqueda ordenada de todos los estudios) ni un ensayo grande e independiente del modelo completo. Lo que hay, según los resúmenes:
 
 | Estudio | Diseño | Qué encontró |
 |---|---|---|
-| Validación del cuestionario sDOR.2-6y | transversal, con preescolares | correlación modesta (r = 0,26, p = 0,03) entre seguir el modelo y menor riesgo nutricional; el cuestionario lo desarrollaron quienes impulsan el modelo |
-| Ensayo piloto de Danaher y colegas (autoría y año sin confirmar), alojado en el sitio del instituto | ensayo piloto, familias con un padre con sobrepeso | menos presión y menos restricción alimentaria que el grupo control, solo en las chicas |
-| Entrevistas a 40 padres de preescolares | cualitativo | pocos padres seguían el modelo de cerca; los autores piden investigar su relación con la salud del chico |
+| Validación del cuestionario sDOR.2-6y | transversal (mira un solo momento), con preescolares | correlación modesta (r = 0,26, una asociación débil; p = 0,03, poco probable que sea casualidad) entre seguir el modelo y menor riesgo nutricional; el cuestionario lo desarrollaron quienes impulsan el modelo |
+| Ensayo piloto de Danaher y colegas (autoría y año sin confirmar), alojado en el sitio del instituto | ensayo piloto (prueba chica), familias con un padre con sobrepeso | menos presión y menos restricción alimentaria que el grupo control (el que no recibió el modelo), solo en las chicas |
+| Entrevistas a 40 padres de preescolares | cualitativo (entrevistas, sin medir) | pocos padres seguían el modelo de cerca; los autores piden investigar su relación con la salud del chico |
 
-Una correlación de 0,26 es chica, y un estudio transversal no dice si el modelo mejora la alimentación o si las familias que ya comen bien lo siguen más. Se dice que la Academia Estadounidense de Pediatría respalda el modelo, pero eso tampoco se verificó.
+Una correlación de 0,26 es chica (0 es ninguna y 1 es perfecta), y un estudio transversal no dice si el modelo mejora la alimentación o si las familias que ya comen bien lo siguen más. Se dice que la Academia Estadounidense de Pediatría respalda el modelo, pero eso tampoco se verificó.
 
 ## Por qué se usa igual
 

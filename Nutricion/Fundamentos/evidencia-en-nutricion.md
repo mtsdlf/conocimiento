@@ -22,7 +22,17 @@ revisado: 2026-11-27
 
 Saber qué comida es sana es difícil porque casi toda la evidencia sobre salud a largo plazo es observacional, mide la dieta con cuestionarios imprecisos y encuentra asociaciones chicas, mientras que los ensayos que podrían probar causa son cortos o miden marcadores; por eso los debates sobre carne roja, grasas saturadas y calorías siguen abiertos ([debates de nutrición](debates-de-nutricion.md)).
 
-Es la razón por la que cada nota de la [nutrición](../nutricion.md) dice de qué tipo es su evidencia. Casi todo lo citado aquí se leyó por su resumen, porque PubMed bloqueó la lectura directa.
+Es la razón por la que cada nota de la [nutrición](../nutricion.md) dice de qué tipo es su evidencia. Casi todo lo citado aquí se leyó por su resumen; el detalle está en la última sección.
+
+## Cómo leer un titular de nutrición
+
+1. **Fijate si el estudio es observacional o un ensayo.** "Se asocia con" es observacional; no prueba que comer eso cause el efecto.
+2. **Mirá el tamaño.** Un riesgo un 10 % mayor sobre un riesgo chico es un efecto chico; un r de 0,05 es casi nada.
+3. **Preguntá qué midieron.** Peso o colesterol a las 12 semanas no es lo mismo que infartos a los 10 años.
+4. **Buscá si hay una revisión sistemática.** Cochrane y las guías con GRADE ([fuentes](fuentes-sobre-nutricion.md)) pesan más que un estudio nuevo.
+5. **Desconfiá del estudio único.** Un resultado que contradice a todos los anteriores necesita que alguien lo repita.
+
+Estos pasos sirven para leer, no para decidir un tratamiento: eso se habla con un médico o un licenciado en nutrición.
 
 ## Observar no es probar
 
@@ -39,7 +49,7 @@ Un **ensayo aleatorizado** asigna la dieta por sorteo, y eso reparte las demás 
 | Ensayo grande | Causa, en meses o años | DIETFITS, en [dietas de moda](../Patrones-y-guias/dietas-de-moda.md) |
 | Revisión sistemática con GRADE | Qué tan cierta es la evidencia junta | Cochrane de grasas saturadas y NutriRECS, en [debates de nutrición](debates-de-nutricion.md) |
 
-Un mismo efecto puede verse distinto según el lugar. En el metaanálisis de cohortes de Drouin-Chartier (BMJ 2020), comer hasta un huevo por día no se asoció con enfermedad cardiovascular (RR 0,98 por huevo diario; IC 0,93 a 1,03). Para diabetes, el mismo grupo halló un 14 % más de riesgo por huevo diario en las cohortes de Estados Unidos y ninguna asociación en las europeas. Los dos resultados son según su resumen.
+Un mismo efecto puede verse distinto según el lugar. En el metaanálisis de cohortes de Drouin-Chartier (BMJ 2020), comer hasta un huevo por día no se asoció con enfermedad cardiovascular (RR 0,98 por huevo diario; el RR o riesgo relativo compara el riesgo de un grupo con el de otro, y 1 es sin diferencia; IC 0,93 a 1,03, el rango donde probablemente está el valor real, que incluye el 1). Para diabetes, el mismo grupo halló un 14 % más de riesgo por huevo diario en las cohortes de Estados Unidos y ninguna asociación en las europeas.
 
 ## Lo que la gente recuerda que comió
 
@@ -50,9 +60,9 @@ La dieta de una cohorte se mide casi siempre con un **cuestionario de frecuencia
 
 ## La crítica de Ioannidis y la respuesta
 
-En 2018, John Ioannidis publicó en *JAMA* un comentario que pide una reforma de la epidemiología nutricional. Según el resumen de un buscador, porque no se pudo leer el texto, escribió: "The emerging picture of nutritional epidemiology is difficult to reconcile with good scientific principles. The field needs radical reform." Señala la confusión residual, el reporte selectivo de resultados y el error de los cuestionarios, y propone grandes ensayos pragmáticos o estándares mucho más estrictos para los observacionales.
+En 2018, John Ioannidis publicó en *JAMA* un comentario que pide una reforma de la epidemiología nutricional. Según el resumen de un buscador, porque no se pudo leer el texto, escribió: «El panorama que emerge de la epidemiología nutricional es difícil de conciliar con los buenos principios científicos. El campo necesita una reforma radical» (traducción; en el original: "The emerging picture of nutritional epidemiology is difficult to reconcile with good scientific principles. The field needs radical reform."). Señala la confusión residual, el reporte selectivo de resultados y el error de los cuestionarios, y propone grandes ensayos pragmáticos o estándares mucho más estrictos para los observacionales.
 
-Es un comentario de opinión, no un estudio. Del otro lado, Edward Giovannucci defiende los cuestionarios y los estudios guiados por hipótesis, en un comentario de 2019 que también se conoce por su resumen. El debate es interno a la epidemiología: los dos aceptan que la evidencia observacional tiene límites y discrepan en cuánto vale.
+Es un comentario de opinión, no un estudio. Del otro lado, Edward Giovannucci defiende los cuestionarios y los estudios guiados por hipótesis, en un comentario de 2019. El debate es interno a la epidemiología: los dos aceptan que la evidencia observacional tiene límites y discrepan en cuánto vale.
 
 ## Tres debates abiertos
 
@@ -60,18 +70,12 @@ Los debates concretos (carne roja y la guía NutriRECS, grasas saturadas y la Co
 
 ## Otros casos que conviene conocer
 
-**Ultraprocesados.** El ensayo de Hall (2019) internó a 20 adultos dos semanas con cada dieta: con la ultraprocesada comieron 508 kcal más por día y subieron 0,9 kg. Es un ensayo, pero chico y corto. Un editorial de *PLoS Medicine* (2024) señala que la evidencia observacional que lo acompaña es en su mayoría de baja calidad y que es difícil separar el procesamiento de la mala calidad nutricional. Está en [ultraprocesados](../Alimentos-y-nutrientes/ultraprocesados.md).
+**Ultraprocesados.** El ensayo de Hall (2019) internó a 20 adultos dos semanas con cada dieta: con la ultraprocesada comieron 508 kcal más por día y subieron 0,9 kg. Es un ensayo, pero chico y corto. Un editorial de la revista *PLoS Medicine* (2024) señala que la evidencia observacional que lo acompaña es en su mayoría de baja calidad y que es difícil separar el procesamiento de la mala calidad nutricional. Está en [ultraprocesados](../Alimentos-y-nutrientes/ultraprocesados.md).
 
-**Comer en familia.** El metaanálisis de Dallacker (2018), con 57 estudios y 203.706 participantes, halló asociaciones muy chicas (r = 0,13 con la calidad global de la dieta; r = −0,05 con el índice de masa corporal), y sus autores escriben que los estudios son correlacionales y piden investigar la dirección causal ([mesa compartida](../Comer-en-familia/mesa-compartida.md)).
+**Comer en familia.** El metaanálisis de Dallacker (2018), con 57 estudios y 203.706 participantes, halló asociaciones muy chicas (r = 0,13 con la calidad global de la dieta, una asociación débil, donde 1 sería una asociación perfecta; r = −0,05 con el índice de masa corporal, casi nula), y sus autores escriben que los estudios son correlacionales y piden investigar la dirección causal ([mesa compartida](../Comer-en-familia/mesa-compartida.md)).
 
 **Dieta mediterránea.** En 2018 la *NEJM* retractó el ensayo PREDIMED por errores de aleatorización y publicó una versión reanalizada con el mismo resultado, unos 30 % menos de enfermedad cardiovascular, según la nota de Harvard. Muestra que un ensayo grande también puede fallar ([dieta mediterránea](../Patrones-y-guias/dieta-mediterranea.md)).
 
-## Cómo leer un titular de nutrición
+## Qué tan firme es lo que dice esta nota
 
-1. **Fijate si el estudio es observacional o un ensayo.** "Se asocia con" es observacional; no prueba que comer eso cause el efecto.
-2. **Mirá el tamaño.** Un riesgo un 10 % mayor sobre un riesgo chico es un efecto chico; un r de 0,05 es casi nada.
-3. **Preguntá qué midieron.** Peso o colesterol a las 12 semanas no es lo mismo que infartos a los 10 años.
-4. **Buscá si hay una revisión sistemática.** Cochrane y las guías con GRADE ([fuentes](fuentes-sobre-nutricion.md)) pesan más que un estudio nuevo.
-5. **Desconfiá del estudio único.** Un resultado que contradice a todos los anteriores necesita que alguien lo repita.
-
-Estos pasos sirven para leer, no para decidir un tratamiento: eso se habla con un médico o un licenciado en nutrición.
+Casi todos los estudios citados se leyeron solo por su resumen, porque PubMed bloqueó la lectura directa: Drouin-Chartier, Ioannidis, Giovannucci y el resto de los resultados con cifras. El texto de Ioannidis no se pudo leer, y su cita sale del resumen de un buscador. La descripción del cuestionario de frecuencia no tiene una validación detrás.

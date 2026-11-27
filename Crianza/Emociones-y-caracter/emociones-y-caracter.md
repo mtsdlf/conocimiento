@@ -29,7 +29,7 @@ Los [berrinches](berrinches.md) son lo que se ve de ese proceso entre el año y 
 
 ## Lo que el chico trae y lo que se cultiva
 
-El temperamento es la base biológica y se nota desde bebé; cuánto cambia con los años no se verificó. Encima de esa base, el chico desarrolla la [empatía](empatia-y-valores.md), que aparece temprano (a los 18 meses ya ayuda a otros a conseguir lo que buscan) y que los estudios asocian con la forma en que los adultos hablan de lo que sienten los demás. La motivación para esforzarse se cruza con cómo se lo [elogia](elogio-y-mentalidad.md), un tema donde los metaanálisis encuentran efectos chicos.
+El temperamento es la base biológica y se nota desde bebé; cuánto cambia con los años no se verificó. Encima de esa base, el chico desarrolla la [empatía](empatia-y-valores.md), que aparece temprano (a los 18 meses ya ayuda a otros a conseguir lo que buscan) y que los estudios asocian con la forma en que los adultos hablan de lo que sienten los demás. La motivación para esforzarse se cruza con cómo se lo [elogia](elogio-y-mentalidad.md), un tema donde los [metaanálisis](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) (estudios que juntan los resultados de muchos otros) encuentran efectos chicos.
 
 ## Lo que mueve el piso
 

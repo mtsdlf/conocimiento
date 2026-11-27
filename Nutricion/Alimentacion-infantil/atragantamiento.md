@@ -20,11 +20,13 @@ revisado: 2026-11-27
 
 El atragantamiento es la obstrucción de la vía aérea por un trozo de comida; en los menores de 4 años se previene evitando o cortando los alimentos redondos, duros o pegajosos y haciendo que el chico coma sentado y acompañado.
 
-Lo que sigue se apoya en dos fuentes independientes leídas completas: las recomendaciones de la Sociedad Argentina de Pediatría (SAP) sobre la prevención de la aspiración de cuerpos extraños orgánicos (*Archivos Argentinos de Pediatría*, 2017) y la página de prevención de la Academia Estadounidense de Pediatría (AAP). Las dos son revisiones de guías y de datos observacionales de accidentes, que es lo que existe en este tema: no hay ensayos. Ninguna reemplaza un curso de primeros auxilios ni la consulta con el pediatra.
+## Qué hacer para que no se atragante
+
+Hasta los 4 años, cortá a lo largo las uvas, los tomates cherry, las aceitunas y las salchichas, en trozos de unos 5 mm. Rallá o cortá chiquito la manzana y la zanahoria crudas, y no le des frutos secos enteros, semillas, caramelos duros ni chicles. Que coma sentado, con un adulto al lado, sin correr, sin reírse ni llorar y nunca en el auto. Aprendé las maniobras de desobstrucción y hacé un curso de reanimación cardiopulmonar (RCP). Abajo está el detalle de cada alimento.
 
 ## Por qué los menores de 4 años
 
-La SAP dice que "los niños menores de 4 años son las víctimas prevalentes": a esa edad "no son capaces de masticar y deglutir con alto grado de coordinación". En Argentina, la edad media de los chicos que aspiraron semillas de girasol fue de 3 años, y la de los que aspiraron maní, de 2,7 años (registro Susy Safe, citado por la SAP). La AAP pide mantener los alimentos de alto riesgo "until 4 years of age or older", según el desarrollo de cada chico.
+La SAP dice que "los niños menores de 4 años son las víctimas prevalentes": a esa edad "no son capaces de masticar y deglutir con alto grado de coordinación". En Argentina, la edad media de los chicos que aspiraron semillas de girasol fue de 3 años, y la de los que aspiraron maní, de 2,7 años (registro Susy Safe, citado por la SAP). La AAP pide mantener los alimentos de alto riesgo X de cada chico.
 
 Las semillas y los frutos secos son los cuerpos extraños más frecuentes en las consultas. Los "más a menudo asociados con resultados fatales son las salchichas, seguidas por los caramelos duros y las uvas" (SAP).
 
@@ -32,7 +34,7 @@ Las semillas y los frutos secos son los cuerpos extraños más frecuentes en las
 
 | Alimento | SAP 2017 | AAP |
 |---|---|---|
-| Salchichas | cortar a lo largo y en trozos chicos | alto riesgo; se pueden servir "completely chopped into tiny pieces" |
+| Salchichas | cortar a lo largo y en trozos chicos | alto riesgo; se pueden servir «completamente picadas en trozos diminutos» (en el original: "completely chopped into tiny pieces") |
 | Uvas, tomates cherry, aceitunas | cortar a lo largo y en trozos chicos | uvas enteras: alto riesgo; cortadas, sí |
 | Frutos secos y semillas (maní, nueces, girasol) | evitar en menores de 4; después, "uno a uno (no a puñados)" | alto riesgo |
 | Caramelos duros o pegajosos, chicle, bombones | evitar | alto riesgo |
@@ -45,7 +47,7 @@ El sitio del Ministerio de Salud también aconseja evitar salchichas, nueces, ca
 
 ## Cómo cortar y preparar
 
-1. **Cortá a lo largo los alimentos redondos o cilíndricos.** La SAP dice que uvas, aceitunas, tomates cherry y salchichas "deben ser cortados de forma longitudinal y en trozos pequeños (aproximadamente, de 5 mm de diámetro)". La AAP habla de trozos "no larger than one-half inch" (media pulgada, unos 13 mm); según el resumen de su política de 2010, la uva y la salchicha van en cuartos a lo largo. Las dos piden cortar; el tamaño de la SAP es el más chico.
+1. **Cortá a lo largo los alimentos redondos o cilíndricos.** La SAP dice que uvas, aceitunas, tomates cherry y salchichas "deben ser cortados de forma longitudinal y en trozos pequeños (aproximadamente, de 5 mm de diámetro)". La AAP habla de trozos «no más grandes que media pulgada» (traducción; en el original: "no larger than one-half inch"; unos 13 mm); según el resumen de su política de 2010, la uva y la salchicha van en cuartos a lo largo. Las dos piden cortar; el tamaño de la SAP es el más chico.
 2. **Rallá o cortá chiquito la fruta y la verdura cruda.** Manzana y zanahoria crudas, "cortadas en trozos pequeños o ralladas" (SAP).
 3. **Cociná hasta que se pueda hacer puré con un tenedor** lo que se cocina (SAP).
 4. **Dejá afuera lo que no se corta**: caramelos duros, chicles, frutos secos enteros y semillas, hasta los 4 años.
@@ -67,3 +69,7 @@ El último punto coincide con lo que se recomienda para [el chico que no come](c
 ## Si el chico se atraganta
 
 La SAP aconseja no intervenir si el chico puede mover aire, tose con eficacia o llora. También aconseja que padres y cuidadores aprendan las maniobras de desobstrucción y la reanimación cardiopulmonar (RCP), y la AAP recomienda un curso de RCP y primeros auxilios.
+
+## Qué tan firme es lo que dice esta nota
+
+Lo que sigue se apoya en dos fuentes independientes leídas completas: las recomendaciones de la Sociedad Argentina de Pediatría (SAP) sobre la prevención de la aspiración de cuerpos extraños orgánicos (*Archivos Argentinos de Pediatría*, 2017) y la página de prevención de la Academia Estadounidense de Pediatría (AAP). Las dos son revisiones de guías y de datos observacionales de accidentes (que registran lo que pasó, sin comparar grupos), que es lo que existe en este tema: no hay ensayos. Ninguna reemplaza un curso de primeros auxilios ni la consulta con el pediatra.

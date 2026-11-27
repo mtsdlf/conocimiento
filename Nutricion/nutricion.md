@@ -48,9 +48,9 @@ Aparte de las partes, [Fundamentos](Fundamentos/fundamentos-de-nutricion.md) re�
 
 ## Qué tan segura es cada recomendación
 
-En nutrición casi todo lo que se sabe de la salud a largo plazo sale de estudios observacionales: se mide qué come la gente y qué le pasa años después. Esos estudios muestran asociaciones, no causas, y dependen de lo que la gente recuerda que comió. Los ensayos, donde se asigna una dieta al azar, son más firmes pero duran poco. Por eso cada nota dice de qué tipo es la evidencia, y [por qué la evidencia en nutrición es difícil](Fundamentos/evidencia-en-nutricion.md) lo explica.
+En nutrición casi todo lo que se sabe de la salud a largo plazo sale de estudios observacionales: se mide qué come la gente y qué le pasa años después. Esos estudios observacionales (el [glosario](Fundamentos/glosario-de-nutricion.md) explica los términos) muestran asociaciones, no causas, y dependen de lo que la gente recuerda que comió. Los ensayos, donde se asigna una dieta al azar, son más firmes pero duran poco. Por eso cada nota dice de qué tipo es la evidencia, y [por qué la evidencia en nutrición es difícil](Fundamentos/evidencia-en-nutricion.md) lo explica.
 
-Un ejemplo de ensayo largo: en DIETFITS (2018), 609 adultos siguieron durante un año una dieta baja en grasas o una baja en carbohidratos y bajaron 5,3 y 6,0 kg, sin diferencia significativa (según su resumen). Ninguna de las dos mostró ventaja sobre la otra; qué más se sabe está en [pérdida de grasa](Objetivos-del-adulto/perdida-de-grasa.md).
+Un ejemplo de ensayo largo: en DIETFITS (2018), 609 adultos siguieron durante un año una dieta baja en grasas o una baja en carbohidratos y bajaron 5,3 y 6,0 kg, sin diferencia significativa, es decir, una diferencia que no se distingue del azar (según su resumen). Ninguna de las dos mostró ventaja sobre la otra; qué más se sabe está en [pérdida de grasa](Objetivos-del-adulto/perdida-de-grasa.md).
 
 ## Qué leer según lo que quieras lograr
 

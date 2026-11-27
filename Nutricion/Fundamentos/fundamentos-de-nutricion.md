@@ -17,9 +17,9 @@ Estas notas sirven para leer cualquier parte de la [nutrición](../nutricion.md)
 
 ## Casi todo lo que se sabe es asociación
 
-La mayor parte de lo que se sabe sobre comida y salud a largo plazo sale de estudios que observan qué come la gente y qué le pasa años después. Muestran asociaciones chicas, dependen de lo que cada uno recuerda haber comido y no prueban causa. Los ensayos que asignan una dieta al azar son más firmes, pero suelen ser cortos, chicos o medir marcadores en lugar de enfermedades.
+La mayor parte de lo que se sabe sobre comida y salud a largo plazo sale de estudios observacionales, que miran qué come la gente y qué le pasa años después. Muestran asociaciones chicas, dependen de lo que cada uno recuerda haber comido y no prueban causa. Los ensayos que asignan una dieta al azar son más firmes, pero suelen ser cortos, chicos o medir marcadores en lugar de enfermedades.
 
-Por eso los debates de carne roja, grasas saturadas y calorías siguen abiertos entre investigadores serios. Esta base parte de las guías oficiales, dice de qué tipo es la evidencia de cada recomendación y, cuando dos fuentes discrepan, da las dos. La [evidencia en nutrición](evidencia-en-nutricion.md) explica cómo leer cada tipo de estudio, y las [fuentes](fuentes-sobre-nutricion.md) dicen cuánto pesa cada una.
+Por eso los debates de carne roja, grasas saturadas y calorías siguen abiertos entre investigadores serios. Esta base parte de las guías oficiales, dice de qué tipo es la evidencia de cada recomendación y, cuando dos fuentes discrepan, da las dos. La [evidencia en nutrición](evidencia-en-nutricion.md) explica cómo leer cada tipo de estudio, y las [fuentes](fuentes-sobre-nutricion.md) dicen cuánto pesa cada una. Los términos técnicos están en el [glosario](glosario-de-nutricion.md).
 
 ## Qué hay en los fundamentos
 

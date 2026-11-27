@@ -20,6 +20,10 @@ Ganar masa muscular es sumar músculo con entrenamiento de fuerza, más proteín
 
 El rango general de proteína de un adulto, como porcentaje de la energía, está en [macronutrientes](../Alimentos-y-nutrientes/macronutrientes.md); las cantidades por kilo para ganar o conservar músculo son las de abajo. Nada de esto reemplaza a un médico ni a un licenciado en nutrición, sobre todo con una enfermedad renal o una indicación de dieta.
 
+## Qué hacer para ganar músculo
+
+Entrená fuerza con cargas, comé más proteína y un poco más de energía de la que gastás. Como guía, apuntá a unos 1,4 a 2,0 g de proteína por kilo de peso por día; por encima de unos 1,6 g, el metaanálisis más grande no encontró más ganancia. Si además querés bajar grasa, mantené esa proteína y comé algo menos de energía; funciona mejor si recién empezás a entrenar. Seguí el cambio con la cintura y fotos, no solo con el peso. Las fuentes de cada cifra están abajo.
+
 ## El estímulo es el entrenamiento de fuerza
 
 El músculo crece porque se lo entrena con cargas; la comida da el material. Los ensayos que miden el efecto de la proteína se hicieron con gente que hacía entrenamiento de fuerza prolongado ([Morton y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/28698222/), según su resumen). La nutrición acompaña a ese entrenamiento; cómo se entrena no está en esta base.
@@ -30,9 +34,9 @@ Tres fuentes dan cifras compatibles pero no idénticas, y conviene verlas juntas
 
 | Fuente | Tipo | Qué dice | Cómo se leyó |
 |---|---|---|---|
-| Morton y otros, 2018 | metaanálisis de 49 ensayos, 1.863 personas | con más de ~1,6 g por kg y día no hubo más ganancia de masa libre de grasa | resumen |
-| ISSN, proteína y ejercicio (Jäger y otros, 2017) | posición de expertos | "about 1.4 to 2.0 g" por kg y día alcanza para la mayoría de quienes entrenan | resumen |
-| ISSN, dietas y composición corporal (Aragon y otros, 2017) | posición de expertos | "Higher protein intakes (2.3–3.1 g/kg FFM) may be required to maximize muscle retention in lean, resistance-trained subjects under hypocaloric conditions" | texto completo |
+| Morton y otros, 2018 | metaanálisis (junta los resultados de muchos estudios) de 49 ensayos, 1.863 personas | con más de ~1,6 g por kg y día no hubo más ganancia de masa libre de grasa (todo lo que no es grasa) | resumen |
+| ISSN (International Society of Sports Nutrition), proteína y ejercicio (Jäger y otros, 2017) | posición de expertos | «alrededor de 1,4 a 2,0 g» por kg y día (en el original: "about 1.4 to 2.0 g") alcanza para la mayoría de quienes entrenan | resumen |
+| ISSN, dietas y composición corporal (Aragon y otros, 2017) | posición de expertos | «pueden hacer falta ingestas de proteína más altas (2,3 a 3,1 g por kg de masa libre de grasa) para maximizar la conservación del músculo en personas magras, entrenadas con cargas y en una dieta baja en calorías» (traducción; en el original: "Higher protein intakes (2.3–3.1 g/kg FFM) may be required to maximize muscle retention in lean, resistance-trained subjects under hypocaloric conditions") | texto completo |
 
 En el metaanálisis de Morton, la proteína suplementada aumentó la fuerza, la masa libre de grasa y el tamaño del músculo. El efecto sobre la masa libre de grasa fue menor con la edad y mayor en entrenados.
 
@@ -43,9 +47,9 @@ La cifra de 2,3 a 3,1 g de la ISSN vale para un caso estrecho: personas magras, 
 
 ## Superávit para ganar, déficit chico para recomponer
 
-Para ganar músculo hace falta en general comer de más. Según la ISSN, las dietas para ganar masa magra "are driven by a sustained caloric surplus", y el tamaño del superávit depende del nivel de entrenamiento: los superávits grandes sirven más a quienes no entrenaban y los chicos, a los avanzados, que con un superávit grande suman más grasa ([Aragon y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/)). Los autores aclaran que no todos encajan en ese esquema.
+Para ganar músculo hace falta en general comer de más (un superávit; ver el [glosario](../Fundamentos/glosario-de-nutricion.md)). Según la ISSN, las dietas para ganar masa magra «se basan en un superávit calórico sostenido» (traducción; en el original: "are driven by a sustained caloric surplus"), y el tamaño del superávit depende del nivel de entrenamiento: los superávits grandes sirven más a quienes no entrenaban y los chicos, a los avanzados, que con un superávit grande suman más grasa ([Aragon y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/)). Los autores aclaran que no todos encajan en ese esquema.
 
-La recomposición pasa cuando el cuerpo gana músculo aunque el balance total sea negativo. La ISSN cuenta que en personas sin entrenamiento y con obesidad, el entrenamiento de fuerza conservó o aumentó el músculo incluso con 800 kcal por día. Una revisión de 2020 dice que hay "a substantial amount of literature" sobre recomposición también en entrenados, y que influyen la grasa de partida, la masa muscular, la experiencia, el sueño y la proteína ([Barakat y otros, 2020](https://lida.sport-iat.de/ta/Record/4066252?lng=en), según un resumen secundario). Que sea más fácil en principiantes es una inferencia de esas dos fuentes, no un resultado medido directamente.
+La recomposición pasa cuando el cuerpo gana músculo aunque el balance total sea negativo. La ISSN cuenta que en personas sin entrenamiento y con obesidad, el entrenamiento de fuerza conservó o aumentó el músculo incluso con 800 kcal por día. Una revisión de 2020 dice que hay «una cantidad sustancial de literatura» (traducción; en el original: "a substantial amount of literature") sobre recomposición también en entrenados, y que influyen la grasa de partida, la masa muscular, la experiencia, el sueño y la proteína ([Barakat y otros, 2020](https://lida.sport-iat.de/ta/Record/4066252?lng=en), según un resumen secundario). Que sea más fácil en principiantes es una inferencia de esas dos fuentes, no un resultado medido directamente.
 
 ## Cómo se arma en la casa
 

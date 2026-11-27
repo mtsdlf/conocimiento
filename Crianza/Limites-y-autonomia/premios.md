@@ -21,17 +21,27 @@ revisado: 2026-11-27
 
 Un premio es algo que el chico recibe por una conducta, desde un elogio hasta un sticker o un juguete; el refuerzo positivo es una de las técnicas que más pesan en los programas con ensayos, pero los premios materiales por algo que el chico ya hacía con gusto pueden bajar sus ganas de hacerlo.
 
-Los premios son la otra mitad de [límites y consecuencias](limites-y-consecuencias.md): en vez de responder a lo que sale mal, se refuerza lo que sale bien. La AAP lo pone como punto de partida: "It's best to begin with the premise of rewarding positive behavior".
+Los premios son la otra mitad de [límites y consecuencias](limites-y-consecuencias.md): en vez de responder a lo que sale mal, se refuerza lo que sale bien. La AAP lo pone como punto de partida: «lo mejor es partir de la premisa de premiar la conducta positiva» (traducción; en el original: "It's best to begin with the premise of rewarding positive behavior").
+
+## Cómo usar premios y tablas, según los CDC
+
+Los CDC dan una guía práctica, sin citar estudios:
+
+1. **Elogiá con detalle lo que hizo.** Ejemplo de los CDC: «¡Vi que guardaste tus juguetes!» (traducción; en el original: "I saw that you put your toys away!").
+2. **Dá el premio enseguida.**
+3. **Empezá por los premios sociales.** Afecto, elogio y tiempo especial con el adulto, antes que objetos.
+4. **Si usás una tabla, que sea simple.** Con dibujos y palabras simples, y conductas simples y realistas para la edad.
+5. **No saques lo ganado.** «Nunca le saques los premios que el chico ya ganó» (traducción; en el original: "Never take away rewards your child has already earned").
 
 ## Por qué el refuerzo funciona en los programas
 
-El metaanálisis de Leijten y otros (2019), sobre 154 ensayos de programas para padres, encontró que tres de 26 técnicas se asociaban con efectos mayores, según su resumen: "positive reinforcement, praise in particular, and natural/logical consequences". El elogio es la forma de refuerzo que más se destaca. Es evidencia de ensayos, sobre la reducción de la conducta disruptiva.
+El [metaanálisis](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) de Leijten y otros (2019), un estudio que junta los resultados de 154 ensayos de programas para padres, encontró que tres de 26 técnicas se asociaban con efectos mayores: «el refuerzo positivo, el elogio en particular, y las consecuencias naturales o lógicas» (traducción; en el original: "positive reinforcement, praise in particular, and natural/logical consequences"). El elogio es la forma de refuerzo que más se destaca. Es evidencia de ensayos, sobre la reducción de la conducta disruptiva.
 
 ## Cuándo un premio baja las ganas
 
-La otra línea de investigación estudia la motivación intrínseca: hacer algo porque gusta. Un metaanálisis de Deci, Koestner y Ryan (1999) sobre 128 estudios encontró, según su resumen, que las recompensas condicionadas a participar, a terminar o al desempeño "significantly undermined free-choice intrinsic motivation" (d = -0,40, -0,36 y -0,28). En cambio, la retroalimentación positiva aumentó la conducta de elección libre (d = 0,33) y el interés declarado (d = 0,31). Y "Tangible rewards tended to be more detrimental for children than college students". Son experimentos, casi todos de laboratorio y con tareas que ya interesaban.
+La otra línea de investigación estudia la motivación intrínseca. Un metaanálisis de Deci, Koestner y Ryan (1999) sobre 128 estudios encontró que las recompensas condicionadas a participar, a terminar o al desempeño «socavaron significativamente la motivación intrínseca de elección libre» (traducción; en el original: "significantly undermined free-choice intrinsic motivation"), con d = -0,40, -0,36 y -0,28. La d mide el tamaño de la diferencia: cerca de 0,2 es chica y cerca de 0,5, mediana; el signo negativo quiere decir que bajó la motivación. En cambio, la retroalimentación positiva aumentó la conducta de elección libre (d = 0,33) y el interés declarado (d = 0,31). Y «las recompensas materiales tendieron a ser más perjudiciales para los chicos que para los estudiantes universitarios» (traducción; en el original: "Tangible rewards tended to be more detrimental for children than college students"). La motivación intrínseca es hacer algo porque gusta, no por lo que se recibe. Son experimentos, casi todos de laboratorio y con tareas que ya interesaban.
 
-En chicos chicos hay un experimento claro. Warneken y Tomasello (2008) vieron que bebés de 20 meses que recibieron un premio material por ayudar ayudaron menos después que los que recibieron un elogio o nada, según su resumen. La ayuda espontánea es algo que los chicos chicos hacen solos, como se ve en [autonomía y tareas](autonomia-y-tareas.md).
+En chicos chicos hay un experimento claro. Warneken y Tomasello (2008) vieron que bebés de 20 meses que recibieron un premio material por ayudar ayudaron menos después que los que recibieron un elogio o nada. La ayuda espontánea es algo que los chicos chicos hacen solos, como se ve en [autonomía y tareas](autonomia-y-tareas.md).
 
 > [!IMPORTANT]
 > El efecto de los premios sobre la motivación está en disputa desde los años noventa. Cameron y Pierce (1994) concluyeron que, en general, las recompensas no bajan la motivación intrínseca; Deci y colegas respondieron que ese metaanálisis tenía fallas, y Cameron, Banko y Pierce publicaron otro en 2008 para resolver las diferencias. Todo esto se conoce por resúmenes secundarios, sin leer los textos, así que la base no toma partido.
@@ -42,15 +52,9 @@ Las dos líneas no se contradicen si se separan dos tipos de conducta. Una infer
 
 Qué tipo de elogio conviene (al esfuerzo o al talento, cuánto, cuándo) está en [elogio y mentalidad](../Emociones-y-caracter/elogio-y-mentalidad.md).
 
-## Cómo usar premios y tablas, según los CDC
+## Qué tan firme es lo que dice esta nota
 
-Los CDC dan una guía práctica, sin citar estudios:
-
-1. **Elogiá con detalle lo que hizo.** "I saw that you put your toys away!"
-2. **Dá el premio enseguida.**
-3. **Empezá por los premios sociales.** Afecto, elogio y tiempo especial con el adulto, antes que objetos.
-4. **Si usás una tabla, que sea simple.** Con dibujos y palabras simples, y conductas simples y realistas para la edad.
-5. **No saques lo ganado.** "Never take away rewards your child has already earned".
+Leijten, Deci y colegas, y Warneken y Tomasello se conocen por sus resúmenes. La disputa entre Cameron y Deci se conoce por resúmenes secundarios, sin leer los textos. La guía de los CDC no cita estudios. La forma de conciliar las dos líneas es inferencia propia.
 
 > [!NOTE]
 > Sin fuente todavía: una fuente en castellano o argentina sobre tablas de stickers, y los textos de Cameron y Pierce y de Lepper (1973). La página de Raising Children Network sobre tablas no se leyó.

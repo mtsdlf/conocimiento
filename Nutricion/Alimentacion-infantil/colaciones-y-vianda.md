@@ -21,11 +21,15 @@ revisado: 2026-11-27
 
 Las colaciones son las comidas chicas entre las principales, y la vianda es la comida que el chico lleva al jardín; se arman con los mismos grupos que el resto del día, con agua como bebida, cadena de frío y los cortes seguros para su edad.
 
+## Qué llevar al jardín
+
+Armá la vianda con fruta, verdura, algo de cereal o pan integral y agua, y dejá las golosinas y gaseosas para las fiestas. Prepará todo el día anterior, guardalo en la heladera y llevalo en una conservadora con un gel frío. Cortá en casa lo redondo y firme, y no mandes frutos secos, semillas ni pochoclo hasta los 4 años. Si el chico tiene una alergia, avisá al jardín. El detalle está abajo.
+
 La fuente principal es el folleto "Alimentación VIANDAS 2022" del Ministerio de Salud, leído completo. Es concreto y argentino, pero no dice para qué edad es y choca con las sociedades de pediatría en un punto de seguridad, que se explica abajo.
 
 ## Cuántas colaciones
 
-Para el chico de preescolar, la guía oficial del Ministerio de Salud (2006) pide 4 comidas principales y, si es necesario, una colación a media mañana, a media tarde o ambas. Lo que dicen la OMS y otras fuentes para los más chicos está en [necesidades de 2 a 6](necesidades-de-2-a-6.md). En el modelo de [división de responsabilidades](../Comer-en-familia/division-de-responsabilidades.md), las colaciones tienen horario fijo y entre una y otra el chico solo toma agua.
+Para el chico de preescolar, la guía oficial del Ministerio de Salud (2006) pide 4 comidas principales y, si es necesario, una colación a media mañana, a media tarde o ambas. Lo que dicen la Organización Mundial de la Salud (OMS) y otras fuentes para los más chicos está en [necesidades de 2 a 6](necesidades-de-2-a-6.md). En el modelo de [división de responsabilidades](../Comer-en-familia/division-de-responsabilidades.md), las colaciones tienen horario fijo y entre una y otra el chico solo toma agua.
 
 ## Qué va en la vianda
 
