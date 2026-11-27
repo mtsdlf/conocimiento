@@ -83,7 +83,7 @@ El Modelo del CIAT de 2015 incluye la prescripción como forma de extinguir la o
 
 ## Planes de pago y moratorias
 
-Quien no puede pagar una deuda de una vez puede pedir un plan de pagos. El FMI recomienda que la ley autorice al fisco a acordar con el contribuyente «to pay the tax over time, in cases where the taxpayer cannot pay the amount of assessed tax immediately», y aclara que la prórroga no frena los intereses. Como financiamiento (si conviene un plan o un préstamo) es del tema Tesorería y finanzas de la empresa en marcha (todavía no escrito).
+Quien no puede pagar una deuda de una vez puede pedir un plan de pagos. El FMI recomienda que la ley autorice al fisco a acordar con el contribuyente «to pay the tax over time, in cases where the taxpayer cannot pay the amount of assessed tax immediately», y aclara que la prórroga no frena los intereses. Como financiamiento (si conviene un plan o un préstamo) es de [Tesorería](../../Tesoreria/Financiamiento/financiamiento.md), que compara lo que cuesta cada opción en [costo del financiamiento](../../Tesoreria/Financiamiento/costo-del-financiamiento.md).
 
 Una moratoria es un régimen excepcional y temporal para regularizar deudas viejas en mejores condiciones; una amnistía perdona también lo no declarado (definiciones de la base, sin fuente leída). Si una moratoria condona intereses, contradice lo que dice el FMI de que el interés nunca debería condonarse (inferencia de la base).
 

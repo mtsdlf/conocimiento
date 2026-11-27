@@ -48,18 +48,18 @@ En los dos casos el tribunal valoró lo que la empresa podía probar: que verifi
 
 ## Qué factura tiene que mandar el proveedor
 
-La letra del comprobante depende de la condición de quien vende y de quien compra. La tabla de ARCA está en [factura electrónica de ARCA](../Comercio-electronico/Normativa/factura-electronica-de-arca.md). Leída desde quien compra, con la empresa responsable inscripta: un proveedor responsable inscripto le factura A; uno monotributista o exento, C. Que la C no deje computar crédito fiscal es lectura de la base sobre esa tabla, no un texto leído; el crédito fiscal es del tema Impuestos, todavía no armado. Desde el 1 de noviembre de 2026 los monotributistas facturan todos en forma electrónica (RG 5893/2026, en la misma nota), así que también sus facturas C llegan con CAE.
+La letra del comprobante depende de la condición de quien vende y de quien compra. La tabla de ARCA está en [factura electrónica de ARCA](../Comercio-electronico/Normativa/factura-electronica-de-arca.md). Leída desde quien compra, con la empresa responsable inscripta: un proveedor responsable inscripto le factura A; uno monotributista o exento, C. Que la C no deje computar crédito fiscal es lectura de la base sobre esa tabla, no un texto leído; el crédito fiscal es de Impuestos, en [IVA en Argentina](../Impuestos/Impuestos-al-consumo/iva-en-argentina.md#débito-crédito-y-descuentos). Desde el 1 de noviembre de 2026 los monotributistas facturan todos en forma electrónica (RG 5893/2026, en la misma nota), así que también sus facturas C llegan con CAE.
 
 La factura M ya no existe. Desde el 1 de diciembre de 2025 (art. 32 de la RG 5762) la reemplaza la clase A con la leyenda «OPERACIÓN SUJETA A RETENCIÓN», y toda referencia a la M en otras normas se entiende hecha a ella (art. 31). Las M impresas «podrán utilizarse hasta los plazos de validez otorgados» (art. 27). Para el comprador, esta A no es una A común:
 
 - El inscripto en IVA que la recibe «deberá actuar como agente de retención de los impuestos al valor agregado y a las ganancias» (art. 12): al pagar, descuenta esos impuestos y los deposita a nombre del proveedor. Si no retiene responde personal y solidariamente por el impuesto omitido, más sanciones (art. 29).
 - La RG fija el 100 % de la alícuota de IVA y el 6 % de Ganancias, retenidos al pagar (arts. 13 y 14), y no deja oponer certificados de exclusión (art. 19).
 
-Cómo se retiene y se ingresa es del tema Impuestos, todavía no armado. Todo esto sale del texto de la RG 5762; las RG 830 y 2226 que cita no se leyeron.
+Cómo se retiene, se informa y se ingresa en general es de Impuestos, en [retenciones y percepciones en Argentina](../Impuestos/Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md); esa nota no trata el régimen de la A con leyenda. Todo esto sale del texto de la RG 5762; las RG 830 y 2226 que cita no se leyeron.
 
 La condición no es fija. ARCA evalúa a cada emisor en febrero, junio y octubre con la información del cuatrimestre vencido y publica las novedades en una consulta del micrositio «Facturación» (arts. 23 a 25). Un proveedor que hoy factura A común puede pasar a A con leyenda en cualquiera de esas evaluaciones. Esa consulta no se encontró por su nombre.
 
-La misma RG regula otra leyenda, «PAGO EN CBU INFORMADA»: si el proveedor la usa, el pago va a la CBU que informó a ARCA, consultable en el micrositio «Facturación» (art. 22). Cómo se paga es de Tesorería, todavía no armado. Es la única consulta de CBU con base normativa que apareció, y vale solo para quien optó por esa leyenda.
+La misma RG regula otra leyenda, «PAGO EN CBU INFORMADA»: si el proveedor la usa, el pago va a la CBU que informó a ARCA, consultable en el micrositio «Facturación» (art. 22). Cómo se paga es de Tesorería, en [pagos a proveedores](../Tesoreria/Pagos-a-proveedores/pagos-a-proveedores.md), y el control del cambio de cuenta del proveedor, en [seguridad de los pagos](../Tesoreria/Pagos-a-proveedores/seguridad-de-los-pagos.md). Es la única consulta de CBU con base normativa que apareció, y vale solo para quien optó por esa leyenda.
 
 ## Qué se controla cuando llega la factura
 
@@ -84,7 +84,7 @@ Rechazar solo se puede dentro del plazo y por una causal del art. 8 de la ley. E
 
 ## Qué datos fiscales guarda la ficha del proveedor
 
-Lo que el comprador hace con ellos (retener, computar el crédito, pagar) es de los temas Impuestos y Tesorería, todavía no armados. Acá va solo qué guardar, como lectura de la base sobre las normas citadas en la RG 5762, no de un texto que los enumere:
+Lo que el comprador hace con ellos (retener, computar el crédito, pagar) es de [Impuestos](../Impuestos/impuestos.md) y de [Tesorería](../Tesoreria/tesoreria.md); el recorrido entero, con la factura y el pago, está en [de la compra al pago](../Procesos-de-negocio/de-la-compra-al-pago.md). Acá va solo qué guardar, como lectura de la base sobre las normas citadas en la RG 5762, no de un texto que los enumere:
 
 - CUIT y condición frente al IVA y a Ganancias.
 - Si factura A con leyenda «OPERACIÓN SUJETA A RETENCIÓN», con la fecha en que se verificó: cambia el cálculo de la retención y anula los certificados de exclusión.

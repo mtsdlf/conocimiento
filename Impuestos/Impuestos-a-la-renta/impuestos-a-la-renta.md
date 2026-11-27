@@ -69,7 +69,7 @@ Calcular sobre el año anterior falla en los dos sentidos (razonamiento de esta 
 
 - Recibe de la [recaudación en la fuente](../Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md) las retenciones y percepciones que se computan contra el impuesto.
 - Se declara y se paga en el ciclo de [cumplimiento](../Cumplimiento/cumplimiento.md), una vez por año más los anticipos.
-- Su registro contable (la provisión del impuesto y el impuesto diferido) es del tema [Contabilidad](../../Contabilidad/contabilidad.md); pagarlo y tener la caja, del tema Tesorería y finanzas de la empresa en marcha (todavía no escrito).
+- Su registro contable (la provisión del impuesto y el impuesto diferido) es del tema [Contabilidad](../../Contabilidad/contabilidad.md); pagarlo y tener la caja, de [Tesorería](../../Tesoreria/tesoreria.md).
 
 ## Notas de esta vertical
 

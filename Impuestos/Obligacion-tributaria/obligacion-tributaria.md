@@ -38,7 +38,7 @@ El CIAT define el tributo como las prestaciones en dinero que el Estado exige «
 | Tasa | «la prestación efectiva o potencial de un servicio en régimen de derecho público, individualizado en el contribuyente» (art. 11) | una habilitación, un certificado, el alumbrado y la limpieza de una cuadra (ejemplos de la base, no del CIAT) |
 | Contribución especial | «beneficios especiales derivados de la realización de obras públicas, prestaciones sociales y demás actividades estatales» (art. 12) | la contribución de mejora por una obra; las contribuciones a la seguridad social, según el comentario |
 
-El tema trata sobre todo impuestos. Las tasas municipales y las contribuciones a la seguridad social aparecen como mención; los aportes sobre sueldos son del tema Administración de personal y nómina (todavía no escrito).
+El tema trata sobre todo impuestos. Las tasas municipales y las contribuciones a la seguridad social aparecen como mención; los aportes sobre sueldos están en [aportes y contribuciones](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/aportes-y-contribuciones.md), en Administración de personal y nómina.
 
 ## Los elementos de cada obligación
 

@@ -36,9 +36,9 @@ La mercadería recibida no está a la venta hasta que se registra. Bartholdi y H
 
 ## Dónde corta la base y dónde corta el campo
 
-El campo no corta en la puerta. Bartholdi y Hackman ponen el despacho como último paso del mismo flujo, APQC junta preparar, embalar y despachar en un solo proceso (4.4.3.4), y los sistemas de gestión de depósitos lo incluyen. La base corta en la puerta de salida: el despacho, la carga del camión y el transporte son del tema Cadena de suministro y logística, todavía no armado. La frontera, como criterio de la base, es el registro de que el pedido embalado está listo para salir.
+El campo no corta en la puerta. Bartholdi y Hackman ponen el despacho como último paso del mismo flujo, APQC junta preparar, embalar y despachar en un solo proceso (4.4.3.4), y los sistemas de gestión de depósitos lo incluyen. La base corta en la puerta de salida: el despacho, la carga del camión y el transporte son del tema Cadena de suministro y logística, en [Despacho y entrega](../../Cadena-de-suministro-y-logistica/Despacho-y-entrega/despacho-y-entrega.md) y [Transporte](../../Cadena-de-suministro-y-logistica/Transporte/transporte.md). La frontera, como criterio de la base, es el registro de que el pedido embalado está listo para salir.
 
-En la puerta de entrada el corte es parecido. Controlar que llegó lo pedido, contra la orden de compra, es de Compras y abastecimiento, todavía no armado. Esta vertical cuenta, inspecciona, aparta lo dudoso y ubica. El mismo libro marca el efecto hacia los costados: la recepción dispara el pago al proveedor y el despacho, la factura al cliente.
+En la puerta de entrada el corte es parecido. Controlar que llegó lo pedido, contra la orden de compra, es de Compras y abastecimiento, en [recepción contra lo pedido](../../Compras-y-abastecimiento/Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md). Esta vertical cuenta, inspecciona, aparta lo dudoso y ubica. El mismo libro marca el efecto hacia los costados: la recepción dispara el pago al proveedor y el despacho, la factura al cliente.
 
 ## Dónde se va el costo
 

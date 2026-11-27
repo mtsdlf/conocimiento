@@ -10,7 +10,7 @@ fuera:
   - de la idea al mercado (idea-to-market) y el desarrollo de producto físico — fuera del perímetro del mapa (#99, #104)
   - riesgo, cumplimiento y comercio exterior como recorridos — no son recorridos (#99); comercio exterior es de Cadena-de-suministro-y-logistica y lo fiscal de Impuestos
   - la gestión por procesos como disciplina (modelar con BPMN, mejora continua, gobierno de procesos) — no es de este tema; se nombra en Fundamentos solo como contexto
-  - cómo un producto de software lleva el recorrido (el flujo de trabajo, los estados del documento, la integración entre módulos) — tema Software de gestión (todavía no armado)
+  - cómo un producto de software lleva el recorrido (el flujo de trabajo, los estados del documento, la integración entre módulos) — tema Software de gestión
   - los procesos de cómo trabaja la organización propia (runbooks, quién decide) — repo mtsdlf/procesos
 fuentes: []
 preguntas:
@@ -48,7 +48,7 @@ Cada dominio es dueño de un objeto y un verbo, y lo que cruza dominios va acá 
 | [Administración de personal y nómina](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md) | el legajo, la asistencia, la liquidación y las cargas | Cada paso de la contratación a la baja se explica allá; acá, la cadena entera y lo que toca en Contabilidad y Tesorería |
 | [Servicios profesionales y proyectos](../Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md) | el proyecto del cliente, la asignación, las horas, la facturación del proyecto y el margen | Cada paso del proyecto al cobro tiene su detalle allá |
 | [Activos y mantenimiento](../Activos-y-mantenimiento/activos-y-mantenimiento.md) | el registro del equipo, la estrategia de mantenimiento y la orden de trabajo | La orden de trabajo es un paso de la compra a la baja del activo; la amortización, de Contabilidad |
-| Software de gestión (no armado) | las categorías de producto y las columnas técnicas (documento y estados, integración) | Acá, el recorrido que existe sin software; allá, cómo un producto lo lleva entre módulos |
+| [Software de gestión](../Software-de-gestion/software-de-gestion.md) | las [categorías de producto](../Software-de-gestion/Categorias-de-producto/categorias-de-producto.md) y las [columnas técnicas](../Software-de-gestion/Columnas-tecnicas/columnas-tecnicas.md) (documento y estados, integración) | Acá, el recorrido que existe sin software; allá, cómo un producto lo lleva entre módulos |
 
 ## Árbol
 

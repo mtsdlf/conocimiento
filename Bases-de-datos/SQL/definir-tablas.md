@@ -134,7 +134,7 @@ corrija, para que el historial sea el mismo en todas las bases.
 
 > [!NOTE] Sin fuente todavía: la convención de nombres de los archivos de migración, la regla de no
 > editar una migración aplicada y la verificación con sumas de control no se confirmaron en una
-> fuente primaria. Las herramientas concretas van en una ficha que todavía no existe.
+> fuente primaria. Ninguna nota trata las herramientas concretas.
 
 ## Vistas: una consulta con nombre
 

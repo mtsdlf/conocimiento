@@ -10,12 +10,12 @@ fuera:
   - la economía de la firma como modelo de negocio (la ecuación de Maister, la pirámide, las cifras de utilización de referencia), la capacidad con teoría de colas, el abono de cuidado y el servicio productizado — Emprender/Modelo-de-negocio; se enlaza
   - el presupuesto y el pedido de venta como documentos — tema Relación con clientes; se enlaza
   - el asiento, el ingreso según la NIIF 15, el costeo por órdenes y el proyecto como dimensión contable — tema Contabilidad; se enlaza
-  - la asistencia, la liquidación de sueldos y el legajo — tema Administración de personal y nómina (sesión 10 del mapa, no armado)
-  - el cobro y la decisión de dar crédito — tema Tesorería y finanzas de la empresa en marcha (no armado)
-  - la factura electrónica, las alícuotas y las retenciones como obligación recurrente — tema Impuestos (no armado)
-  - el recorrido de punta a punta del proyecto al cobro (project-to-cash) — tema Procesos de negocio (sesión 13, no armado)
-  - el PSA como categoría de software — tema Software de gestión (sesión 14, no armado)
-  - la posventa (consultas, reclamos) — tema Servicio al cliente (Servicio-al-cliente/servicio-al-cliente.md); la visita técnica y la orden de trabajo sobre un equipo — tema Activos y mantenimiento (no armado)
+  - la asistencia, la liquidación de sueldos y el legajo — tema Administración de personal y nómina (Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md)
+  - el cobro y la decisión de dar crédito — tema Tesorería (Tesoreria/Credito-y-cobranzas/credito-y-cobranzas.md)
+  - la factura electrónica, las alícuotas y las retenciones como obligación recurrente — tema Impuestos (Impuestos/impuestos.md)
+  - el recorrido de punta a punta del proyecto al cobro (project-to-cash) — tema Procesos de negocio (Procesos-de-negocio/del-proyecto-al-cobro.md)
+  - el PSA como categoría de software — tema Software de gestión (Software-de-gestion/Categorias-de-producto/psa.md)
+  - la posventa (consultas, reclamos) — tema Servicio al cliente (Servicio-al-cliente/servicio-al-cliente.md); la visita técnica y la orden de trabajo sobre un equipo — tema Activos y mantenimiento (Activos-y-mantenimiento/Servicio-de-campo/servicio-de-campo.md)
   - seleccionar, evaluar y hacer crecer a las personas — Liderazgo-y-direccion/Gestion-de-personas; se enlaza
   - productos de PSA o ERP, comparativas y precios — fuera de la base
 fuentes: []
@@ -46,14 +46,14 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 | [Emprender/Modelo-de-negocio](../Emprender/Modelo-de-negocio/modelo-de-negocio.md) | la economía de la firma como modelo de negocio (Maister), la capacidad con teoría de colas, el abono y el servicio productizado | Allá, por qué una firma gana o pierde plata y qué cifras de referencia hay; acá, cómo se miden la utilización, la realización y el margen desde el registro de la firma en marcha |
 | [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) | el presupuesto y el pedido de venta como documentos | El presupuesto aceptado o el contrato firmado abre el proyecto; de ahí en adelante es de acá |
 | [Contabilidad](../Contabilidad/contabilidad.md) | el asiento, el ingreso según la NIIF 15, el costeo por órdenes, el proyecto como dimensión | Acá se calcula el avance, el trabajo en curso y lo que se factura; allá, el asiento que lo registra |
-| Administración de personal y nómina (no armado) | la asistencia, el legajo y la liquidación | Allá, cuántas horas trabajó una persona; acá, a qué proyecto se imputan y cuáles se cobran |
-| Tesorería y finanzas de la empresa en marcha (no armado) | el cobro y el crédito | Acá se emite la factura del proyecto; allá se cobra |
-| Impuestos (no armado) | qué impuesto lleva la factura y qué retenciones se sufren | La nota de Argentina de acá los nombra y los va a enlazar |
-| Procesos de negocio (no armado) | el recorrido del proyecto al cobro | El recorrido entero allá; cada paso, en su dominio |
-| Software de gestión (no armado) | el PSA como categoría de producto y las columnas técnicas | Acá el saber del dominio, que existe sin software |
-| [Servicio al cliente](../Servicio-al-cliente/servicio-al-cliente.md) y Activos y mantenimiento (no armado) | la posventa y la orden de trabajo sobre un equipo | Un servicio de campo se gestiona allá aunque se facture por hora |
+| [Administración de personal y nómina](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md) | la asistencia, el legajo y la liquidación | Allá, cuántas horas trabajó una persona; acá, a qué proyecto se imputan y cuáles se cobran |
+| [Tesorería](../Tesoreria/tesoreria.md) | el cobro y el crédito | Acá se emite la factura del proyecto; allá se cobra |
+| [Impuestos](../Impuestos/impuestos.md) | qué impuesto lleva la factura y qué retenciones se sufren | La nota de Argentina de acá los nombra y enlaza las [retenciones y percepciones en Argentina](../Impuestos/Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md) |
+| [Procesos de negocio](../Procesos-de-negocio/del-proyecto-al-cobro.md) | el recorrido del proyecto al cobro | El recorrido entero allá; cada paso, en su dominio |
+| [Software de gestión](../Software-de-gestion/software-de-gestion.md) | el PSA como categoría de producto ([PSA](../Software-de-gestion/Categorias-de-producto/psa.md)) y las columnas técnicas | Acá el saber del dominio, que existe sin software |
+| [Servicio al cliente](../Servicio-al-cliente/servicio-al-cliente.md) y [Activos y mantenimiento](../Activos-y-mantenimiento/Servicio-de-campo/servicio-de-campo.md) | la posventa y la orden de trabajo sobre un equipo | Un servicio de campo se gestiona allá aunque se facture por hora |
 
-Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
+Cuando se armó el tema, varios vecinos no existían y se nombraban sin enlace; la sesión 16 del mapa (#123) los enlazó.
 
 ## Árbol
 
@@ -98,4 +98,4 @@ Servicios-profesionales-y-proyectos/
 - **Gestión de proyectos se mergeó mientras se armaba este tema** (PR #128) y cubre el método. Por eso este tema no tiene verticales de planificación ni de seguimiento: el avance y el plan son de allá, y acá entran solo como dato que mueve plata (presupuesto del proyecto, hito, trabajo en curso).
 - Las cinco verticales siguen a APQC 5.0 (5.2 recursos, 5.3 entrega y cierre financiero) y a los módulos que separan los productos de servicios (proyecto, planificación de recursos, horas, facturación), más la rentabilidad, que el campo mide con indicadores propios (utilización, realización).
 - El nombre de la carpeta es el del tema del mapa, «Servicios profesionales y proyectos», aunque sea largo, para que no se confunda con `Gestion-de-proyectos/`.
-- Lo de la Argentina va en una sola nota del tema, porque toca dos verticales y es corto; lo impositivo recurrente va al tema Impuestos cuando exista.
+- Lo de la Argentina va en una sola nota del tema, porque toca dos verticales y es corto; lo impositivo recurrente va al tema [Impuestos](../Impuestos/impuestos.md), que se enlazó en la sesión 16 (#123).

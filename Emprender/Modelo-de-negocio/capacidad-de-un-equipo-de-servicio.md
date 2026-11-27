@@ -12,12 +12,13 @@ fuentes:
   - "David Maister, The Anatomy of a Consulting Firm (prosa leída, figuras no): https://davidmaister.com/articles/16/2/"
   - "Fitzsimmons, Fitzsimmons y Bordoloi, Service Management, 9.ª ed. (McGraw-Hill), caps. 11 a 13 (solo los títulos, vistos en un fragmento del buscador)"
   - "Deltek, Professional services billable utilization (sobre SPI Research 2025): https://www.deltek.com/resources/articles/professional-services-billable-utilization-historic-low/"
+  - "SPI Research, Professional Services Benchmarks (tabla del benchmark 2026: 67,6 % en 2025; leída el 2026-11-27): https://spiresearch.com/professional-services-benchmarks/"
   - "Bartolucci y Vivo (2026), Queue & AI: When Faster Tasks Slow Down the Workflow, arXiv 2605.27202, preprint (abstract, modelo y secciones elegidas): https://arxiv.org/pdf/2605.27202"
   - "Emprender/.investigacion/economia-de-una-firma-de-servicios.md"
   - "Emprender/.investigacion/plata-de-un-servicio-contraria.md"
 aliases: [capacidad, capacity planning, planificación de capacidad, utilización, ley de Little, Little's law, fórmula de Kingman, teoría de colas, cuántos clientes]
 creado: 2026-11-24
-revisado: 2026-11-24
+revisado: 2026-11-27
 ---
 
 # Capacidad de un equipo de servicio
@@ -69,7 +70,7 @@ La palabra utilización se usa para dos cosas, y confundirlas lleva a llenar el 
 | Quién la usa | Maister, los benchmarks de servicios profesionales | La teoría de colas (Kingman, Little) |
 | Para qué sirve | Saber cuánto factura cada persona | Saber cuánto esperan los pedidos |
 
-Un equipo puede estar al 66 % facturable y al 95 % de carga, porque vender, administrar y atender urgencias también ocupa horas (lectura del informe de investigación de esta base). El benchmark de SPI Research da un 66,4 % de utilización facturable promedio en 2025 y un 75 % para las firmas de mejor desempeño; Maister usa 75 % para seniors y mandos medios y 90 % para juniors en su ejemplo. Son cifras de utilización facturable, no de carga. La ficha de esas cifras está en [economía de una firma de servicios](economia-de-una-firma-de-servicios.md#cifras-de-utilización-de-referencia).
+Un equipo puede estar al 66 % facturable y al 95 % de carga, porque vender, administrar y atender urgencias también ocupa horas (lectura del informe de investigación de esta base). El benchmark de SPI Research da una utilización facturable promedio de 2025 del 66,4 % en su comunicado y del 67,6 % en la tabla de su página, sin explicar la diferencia, y un 75 % para las firmas de mejor desempeño; Maister usa 75 % para seniors y mandos medios y 90 % para juniors en su ejemplo. Son cifras de utilización facturable, no de carga. La ficha de esas cifras está en [economía de una firma de servicios](economia-de-una-firma-de-servicios.md#cifras-de-utilización-de-referencia).
 
 ## Nivelar la demanda o perseguirla
 

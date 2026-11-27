@@ -44,7 +44,7 @@ Los errores conocidos se registran en una base de errores conocidos (KEDB, por s
 > [!IMPORTANT]
 > Las fuentes leídas definen el error conocido de dos formas que no coinciden. Un proveedor lo define como «a problem that has a documented root cause and a workaround»; otro, como «a problem that has been analyzed but not resolved», que es también la redacción que un glosario atribuye a ITIL 4. La primera exige causa y solución provisoria documentadas; la segunda, solo el análisis. No se pudo verificar contra el glosario oficial.
 
-Esta práctica sale de la gestión de servicios de TI. Llevarla a un producto físico es una analogía de esta base: el error conocido sería una falla conocida de un modelo o de un lote, y la solución provisoria, el ajuste que el técnico aplica mientras fábrica corrige el diseño. La calidad del producto fabricado es del tema Producción, todavía no armado.
+Esta práctica sale de la gestión de servicios de TI. Llevarla a un producto físico es una analogía de esta base: el error conocido sería una falla conocida de un modelo o de un lote, y la solución provisoria, el ajuste que el técnico aplica mientras fábrica corrige el diseño. La calidad del producto fabricado es de la [calidad](../../Produccion/Calidad/calidad.md) del tema Producción, que la corrige con una [acción correctiva](../../Produccion/Calidad/accion-correctiva.md).
 
 ## El análisis de reclamos de la ISO 10002
 

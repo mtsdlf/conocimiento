@@ -35,7 +35,8 @@ Las cifras, los ejemplos con asientos y las discrepancias entre fuentes viven en
 | Asiento | El registro de un hecho: fecha, cuentas, importes al debe y al haber, y una explicación. | Journal entry | [Asiento y libros](../Registro/asiento-y-libros.md) |
 | Libro diario | El registro cronológico de los asientos; es donde la información entra primero. | Journal | [Asiento y libros](../Registro/asiento-y-libros.md) |
 | Libro mayor | El registro de cada cuenta con sus movimientos y su saldo. | General ledger | [Asiento y libros](../Registro/asiento-y-libros.md) |
-| Balance de sumas y saldos | Lista de las cuentas del mayor con saldo, que comprueba que débitos y créditos totalizan lo mismo. | Trial balance | [Asiento y libros](../Registro/asiento-y-libros.md) |
+| Balance de sumas y saldos (balance de comprobación) | Lista de las cuentas del mayor con saldo, que comprueba que débitos y créditos totalizan lo mismo. | Trial balance | [Asiento y libros](../Registro/asiento-y-libros.md) |
+| Balance de sumas y saldos ajustado (balance de comprobación ajustado) | El mismo balance de sumas y saldos, armado otra vez después de los ajustes de cierre; de él salen los estados. | Adjusted trial balance | [Ajustes de cierre](../Estados-contables/ajustes-de-cierre.md#el-balance-de-sumas-y-saldos-ajustado) |
 | Asiento de corrección | Asiento nuevo que arregla un error sin borrar el original. | Correcting entry | [Asiento y libros](../Registro/asiento-y-libros.md) |
 | Devengado | Registrar un hecho en el período en que ocurre, aunque se cobre o se pague en otro; lo opuesto es la base caja. | Accrual basis (cash basis) | [Devengado](../Registro/devengado.md) |
 | Libro auxiliar | El detalle por cliente o por proveedor que suma lo mismo que su cuenta del mayor. | Subsidiary ledger | [Cuentas corrientes](../Registro/cuentas-corrientes.md) |
@@ -93,6 +94,7 @@ Las cifras, los ejemplos con asientos y las discrepancias entre fuentes viven en
 | Conciliación bancaria | Explicar la diferencia entre el saldo del extracto y el de los libros. | Bank reconciliation | [Conciliaciones](../Control-interno/conciliaciones.md) |
 | Matriz de autorizaciones | Quién puede aprobar qué operación y hasta qué monto. | Delegation of authority matrix | [Autorizaciones](../Control-interno/autorizaciones.md) |
 | Controles generales de tecnología | Los controles sobre accesos, cambios y operación de los sistemas que sostienen el registro. | IT general controls (ITGC) | [Controles sobre los sistemas](../Control-interno/controles-sobre-sistemas.md) |
+| Pista de auditoría | El registro que guarda, para cada acción sobre un dato o un asiento, quién la hizo, cuándo y qué cambió, para que nadie pueda negarla después. | Audit trail | [Controles sobre los sistemas](../Control-interno/controles-sobre-sistemas.md#el-registro-de-quién-hizo-qué) |
 | Triángulo del fraude | Presión, oportunidad y racionalización, las tres condiciones que suelen estar detrás de un fraude. | Fraud triangle | [Auditoría y fraude](../Control-interno/auditoria-y-fraude.md) |
 
 ## Las posiciones contrarias

@@ -60,7 +60,7 @@ APQC junta deuda e inversión en una sola categoría, 9.7.4 «Manage debt and in
 
 ## Qué tiene que saber un sistema de cada deuda
 
-Para la tesorería, cada deuda es un cronograma de salidas de caja y un conjunto de condiciones que vigilar. Un sistema de gestión que lo sirva guarda, por deuda, el capital, la moneda, la tasa y si es fija o variable, el cronograma de cuotas, las garantías y los covenants con su fecha de medición. Las cuotas tienen que entrar solas a la [proyección de caja](../Caja-y-liquidez/proyeccion-de-caja.md), y el tope sin usar de cada línea suma a la liquidez disponible (lectura de esta base; cómo se modela es del tema Software de gestión, todavía no escrito).
+Para la tesorería, cada deuda es un cronograma de salidas de caja y un conjunto de condiciones que vigilar. Un sistema de gestión que lo sirva guarda, por deuda, el capital, la moneda, la tasa y si es fija o variable, el cronograma de cuotas, las garantías y los covenants con su fecha de medición. Las cuotas tienen que entrar solas a la [proyección de caja](../Caja-y-liquidez/proyeccion-de-caja.md), y el tope sin usar de cada línea suma a la liquidez disponible (lectura de esta base; cómo se modela sería de [Software de gestión](../../Software-de-gestion/software-de-gestion.md), que todavía no trata la deuda).
 
 El registro contable del préstamo y de sus intereses es de [Contabilidad](../../Contabilidad/contabilidad.md): la toma y la devolución aparecen como actividades de financiación en el [estado de flujo de efectivo](../../Contabilidad/Estados-contables/estado-de-flujo-de-efectivo.md), y una deuda en otra moneda genera la diferencia de cambio de [moneda extranjera](../../Contabilidad/Operaciones/moneda-extranjera.md).
 

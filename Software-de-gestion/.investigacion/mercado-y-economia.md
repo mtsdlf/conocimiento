@@ -15,7 +15,7 @@ Puntaje: autoridad / profundidad / ejemplos / unicidad, de 1 a 3.
 | Resourcing y securing; apertura óptima; comisión de una tienda de apps de comercio (15 % sobre lo que pasa del primer millón de dólares); absorción por la plataforma | `Producto/Plataformas/ecosistema-de-terceros.md` |
 | Farrell y Klemperer, tres tipos de costo de cambio; «bargain-then-ripoff»; poca evidencia empírica (Greenstein 1993, mainframes); Porter 2008 con el software empresarial integrado como ejemplo | `Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md` |
 | TCO de compras (Ellram, Hurkens y otros); hueco declarado sobre cuánto pesan los costos antes y después de comprar; TCO de tecnología popularizado por Gartner en 1987 (de Wikipedia) | `Compras-y-abastecimiento/Abastecimiento-estrategico/costo-total-de-adquisicion.md` |
-| Módulos típicos; cuatro etiquetas (facturador, contable, gestión, ERP); instalado frente a nube; los de nube escalan precio por comprobantes, usuarios y cuentas de canal; precios de varios sistemas a 2026-11-22; Tango «licencia por módulos y puestos, vendida por centros de servicio» (D5, sin precio) | `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/` (tres notas) |
+| Módulos típicos; cuatro etiquetas (facturador, contable, gestión, ERP); instalado frente a nube; los de nube escalan precio por comprobantes, usuarios y cuentas de canal; precios de varios sistemas a 2026-11-22; Tango «licencia por módulos y puestos, vendida por centros de servicio» (D5, sin precio) | `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/` (tres notas) |
 
 **Propio de este tema:**
 

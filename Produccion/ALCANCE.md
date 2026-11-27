@@ -11,10 +11,10 @@ fuera:
   - el registro del equipo, la estrategia de mantenimiento, la orden de trabajo, el MTBF y la disponibilidad — Activos-y-mantenimiento; acá, la OEE como medida de la línea y cuándo se puede parar una máquina
   - la calidad en la recepción (Inventario), la calidad de la atención (Servicio-al-cliente) y la evaluación de proveedores (Compras); acá, la calidad del producto fabricado
   - el reclamo del cliente y el caso — Servicio-al-cliente; acá, la no conformidad que abre un reclamo repetido
-  - el legajo, la asistencia y la liquidación de los operarios — tema Administración de personal y nómina (todavía no armado)
+  - el legajo, la asistencia y la liquidación de los operarios — Administracion-de-personal-y-nomina
   - el diseño del producto físico (ingeniería, PLM) más allá de la lista de materiales y los cambios de ingeniería — fuera del perímetro (decisión de #104)
-  - el recorrido de la planificación a la producción (plan-to-produce) — tema Procesos de negocio (todavía no armado)
-  - las categorías de producto (MRP, MES, gestión de la calidad) y las piezas comunes de todo software de gestión — tema Software de gestión (todavía no armado)
+  - el recorrido de la planificación a la producción (plan-to-produce) — Procesos-de-negocio/de-la-planificacion-a-la-produccion.md
+  - las categorías de producto (MRP, MES, gestión de la calidad) y las piezas comunes de todo software de gestión — Software-de-gestion (Categorias-de-producto/erp.md, mes.md; Columnas-tecnicas)
   - la seguridad e higiene en la planta, el ambiente y la automatización de máquinas (PLC, SCADA, niveles 0 a 2 de ISA-95); los productos de fabricación, comparativas y precios
 fuentes: []
 preguntas:
@@ -47,11 +47,11 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 | [Activos y mantenimiento](../Activos-y-mantenimiento/activos-y-mantenimiento.md) | el equipo como registro, el plan de mantenimiento, la orden de trabajo, el MTBF y la disponibilidad | Producción dice cuándo se puede parar una máquina; mantenimiento, qué hacerle. La OEE mide la línea y se explica acá; su primer factor, la disponibilidad, se mide allá |
 | [Servicio al cliente](../Servicio-al-cliente/servicio-al-cliente.md) | el caso, el reclamo y su escalamiento | Un reclamo repetido sobre un producto es un dato para la calidad; la no conformidad y la acción correctiva se abren acá |
 | [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) | el pedido de venta y la [fecha prometida](../Relacion-con-clientes/Pedido-de-venta/fecha-prometida.md) | Un pedido de un producto que se fabrica contra pedido genera una orden de acá; la fecha que se promete usa la capacidad de acá |
-| Administración de personal y nómina (no armado) | el legajo, la asistencia y la liquidación | Las horas cargadas a una orden son costo de la orden acá; para liquidar el sueldo, allá |
-| Procesos de negocio (no armado) | el recorrido de la planificación a la producción (plan-to-produce) | Cada paso del recorrido tiene su detalle acá |
-| Software de gestión (no armado) | las categorías (MRP, MES, gestión de la calidad) y las columnas técnicas (documento y estados, datos maestros, unidades) | Acá, el saber que existe sin software; allá, cómo lo empaqueta un producto |
+| [Administración de personal y nómina](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md) | el legajo, la asistencia y la liquidación | Las horas cargadas a una orden son costo de la orden acá; para liquidar el sueldo, allá |
+| [Procesos de negocio](../Procesos-de-negocio/procesos-de-negocio.md) | el recorrido [de la planificación a la producción](../Procesos-de-negocio/de-la-planificacion-a-la-produccion.md) (plan-to-produce) | Cada paso del recorrido tiene su detalle acá |
+| [Software de gestión](../Software-de-gestion/software-de-gestion.md) | las categorías ([ERP](../Software-de-gestion/Categorias-de-producto/erp.md), [MES](../Software-de-gestion/Categorias-de-producto/mes.md), [gestión de la calidad](../Software-de-gestion/Categorias-de-producto/mes.md#la-gestión-de-calidad-qms)) y las [columnas técnicas](../Software-de-gestion/Columnas-tecnicas/columnas-tecnicas.md) (documento y estados, datos maestros, unidades) | Acá, el saber que existe sin software; allá, cómo lo empaqueta un producto |
 
-Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
+Cuando se escribió, Administración de personal y nómina, Procesos de negocio y Software de gestión no existían y se nombraban sin enlace; la sesión 16 del mapa (#123) los enlazó.
 
 ## Árbol
 
