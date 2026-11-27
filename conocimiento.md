@@ -60,7 +60,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 ## Idiomas
 
-- [Inglés](Ingles/ingles.md) — pasar del intermedio-alto al avanzado siendo hispanohablante: cómo aprende un adulto, pronunciación, gramática, léxico, discurso y práctica, con la evidencia de cada técnica; con Ruta.
+- [Inglés](Ingles/ingles.md) — pasar del intermedio-alto al avanzado siendo hispanohablante: cómo aprende un adulto, pronunciación, gramática, léxico, discurso y práctica, con la evidencia de cada técnica, y el inglés de trabajo en software; con Ruta.
 
 ## Deporte
 
