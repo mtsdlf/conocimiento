@@ -5,10 +5,12 @@ estado: vigente
 estabilidad: semi
 fuentes:
   - "Rosenshine (2012), Principles of Instruction (principios 7 y 9): https://www.aft.org/sites/default/files/Rosenshine.pdf (lectura completa)"
-  - "Kulik, Kulik y Bangert-Drowns (1990), Effectiveness of Mastery Learning Programs: A Meta-Analysis, Review of Educational Research 60(2):265-299: https://doi.org/10.3102/00346543060002265 (según resumen del buscador)"
+  - "Kulik, Kulik y Bangert-Drowns (1990), Effectiveness of Mastery Learning Programs: A Meta-Analysis, Review of Educational Research 60(2):265-299: https://doi.org/10.3102/00346543060002265 (abstract, en OpenAlex y en ERIC: https://eric.ed.gov/?id=EJ415887)"
+  - "Education Endowment Foundation, Teaching and Learning Toolkit, Mastery learning (revisión de septiembre de 2021): https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/mastery-learning (texto completo de la ficha)"
   - "Wikipedia, Mastery learning: https://en.wikipedia.org/wiki/Mastery_learning (terciaria)"
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
+  - "Didactica/.investigacion/fuentes-explicar-y-practica-guiada-2026-11.md"
 aliases: [práctica independiente, independent practice, práctica autónoma, aprendizaje para el dominio, mastery learning, aprendizaje de dominio, tasa de éxito, sobreaprendizaje, overlearning]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -45,13 +47,15 @@ La idea de fondo es que el tiempo varía y el nivel no. En una clase común es a
 
 ## Cuánto rinde, y con qué pruebas
 
-Kulik, Kulik y Bangert-Drowns (1990) revisaron 108 evaluaciones controladas y encontraron efectos positivos sobre el rendimiento en exámenes en universidad, secundaria y primaria alta, según el resumen del buscador. El tamaño de efecto no se pudo confirmar: una página de terceros da 0,52 y la Wikipedia, 0,59 sin fuente clara. Ninguna de las dos cifras debería usarse sin ver el artículo.
+Kulik, Kulik y Bangert-Drowns (1990) revisaron 108 evaluaciones controladas y encontraron efectos positivos sobre el rendimiento en exámenes en universidad, secundaria y primaria alta. Según su abstract, los efectos «appear to be stronger on the weaker students in a class» y varían con el procedimiento, el diseño del estudio y la materia. Los programas a ritmo propio «often reduce the completion rates in college classes». El abstract no da un tamaño de efecto: una página de terceros da 0,52 y la Wikipedia, 0,59 sin fuente clara. Ninguna de las dos cifras debería usarse sin ver el artículo.
+
+La ficha del Toolkit de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra), revisada en septiembre de 2021, reúne 80 estudios. Le asigna un impacto de «+5 months» de progreso en un año, con costo muy bajo y evidencia de solidez baja: pocos estudios recientes y muchos sin asignación aleatoria. El efecto es mayor en primaria (+8 meses) que en secundaria (+3), y en matemática y ciencias (+6) que en lectura (+3). Rinde más con un umbral alto, de «usually 80% to 90%», y mucho menos cuando cada alumno avanza a su ritmo. Muchos de los estudios con más impacto incluían trabajo en grupo.
 
 > [!IMPORTANT]
-> **El dominio funciona, sobre todo para los más flojos.** Según la Wikipedia, los mayores beneficios en Kulik et al. fueron para los alumnos con menor rendimiento, y un estudio de cuatro años (Arlin 1984) no halló un punto en que el efecto se desvaneciera.
+> **El dominio funciona, sobre todo para los más flojos.** El abstract de Kulik et al. dice que los efectos parecen mayores en los alumnos más flojos de la clase. Según la Wikipedia, un estudio de cuatro años (Arlin 1984) no halló un punto en que el efecto se desvaneciera. La EEF encuentra efectos «consistently positive», aunque con mucha variación.
 >
 > **El efecto depende de quién arma la prueba.** La misma fuente cita críticas: los efectos grandes aparecen con pruebas hechas por los investigadores y «essentially disappeared» con pruebas estandarizadas, y los grupos de control eran débiles.
 
 El dominio también es la mitad del famoso efecto de dos desviaciones estándar de Bloom, que combinaba tutoría con dominio: está en [problema de las dos sigmas](../Tutoria-y-mentoria/problema-de-las-dos-sigmas.md). Cómo se fija y se mide el nivel de dominio está en [calificación por dominio](../../Evaluacion-educativa/Calificacion-y-acreditacion/calificacion-por-dominio.md).
 
-> [!NOTE] Sin fuente todavía: el texto de Kulik et al. (1990) con su tamaño de efecto, la ficha de aprendizaje para el dominio del Toolkit de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-de-evidencia-y-cómo-leer-cada-uno) (Education Endowment Foundation, Inglaterra) y la evidencia posterior a 1990.
+> [!NOTE] Sin fuente todavía: el texto de Kulik et al. (1990) con su tamaño de efecto, la crítica de las pruebas hechas por los investigadores en su fuente primaria, y los estudios recientes que reúne la EEF, con su fecha.

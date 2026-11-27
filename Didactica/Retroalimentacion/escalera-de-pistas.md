@@ -8,8 +8,11 @@ fuentes:
   - "Shih, Koedinger y Scheines (2008), EDM: https://www.cmu.edu/dietrich/philosophy/docs/scheines/Shih_Koedinger_Scheines_2008_EDM.pdf (resumen)"
   - "Lepper y Woolverton (2002), The wisdom of practice, en Aronson (ed.), Improving Academic Achievement (según un resumen secundario)"
   - "Chi, Siler, Jeong, Yamauchi y Hausmann (2001), Learning from human tutoring, Cognitive Science 25(4), DOI 10.1207/s15516709cog2504_1 (abstract)"
+  - "Roll, Aleven, McLaren y Koedinger (2011), Improving students' help-seeking skills using metacognitive feedback in an intelligent tutoring system, Learning and Instruction 21(2):267-280, DOI 10.1016/j.learninstruc.2010.07.004: https://www.cs.cmu.edu/~bmclaren/pubs/RollEtAl-ImprovingMetacogSkillsWithITS-LandI2010.pdf (texto completo, versión de autor)"
+  - "Aleven, Roll, McLaren y Koedinger (2016), Help Helps, But Only So Much: Research on Help Seeking with Intelligent Tutoring Systems, International Journal of Artificial Intelligence in Education 26(1):205-223, DOI 10.1007/s40593-015-0089-1: https://cris.iucc.ac.il/en/publications/help-helps-but-only-so-much-research-on-help-seeking-with-intelli/ (según su resumen)"
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
+  - "Didactica/.investigacion/fuentes-retroalimentacion-y-tutoria-2026-11.md"
 aliases: [escalera de pistas, pistas graduales, hint ladder, graduated hints, pista final, bottom-out hint, ayuda escalonada]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -42,7 +45,15 @@ El estudio de Chi et al. (2001) muestra hasta dónde puede llegar el primer esca
 
 El último escalón da la respuesta, y eso tiene un riesgo: quien aprende puede saltar los escalones para llegar a ella. Shih, Koedinger y Scheines (2008), con datos de un tutor por computadora, proponen que «bottom-out hints can act as worked examples»: la solución mostrada enseña si quien la recibe la lee y se la explica. Su modelo de tiempos de respuesta distingue ese buen uso del abuso. Por eso, después de mostrar la solución conviene pedir [autoexplicación](../Preguntas-y-dialogo/autoexplicacion.md).
 
-> [!NOTE] Sin fuente todavía: si enseñar a pedir ayuda mejora el aprendizaje. Un trabajo que se cita sobre el tema (Aleven, Roll, McLaren y Koedinger 2016) no se verificó.
+## Enseñar a pedir ayuda
+
+Enseñar a usar la escalera cambió cómo se pedía ayuda, pero no cuánto se aprendió. Roll, Aleven, McLaren y Koedinger (2011) sumaron a un tutor de geometría por computadora un «Help Tutor», que corregía en el momento cómo cada alumno pedía pistas. Los dos estudios fueron con alumnos de 15 a 17 años: 58 en el primero y 67 en el segundo.
+
+En los dos, el Help Tutor mejoró el uso de las pistas mientras estaba activo. En el segundo, la mejora siguió en unidades nuevas sin el apoyo, pero solo después de recibirlo en dos unidades. En el primero, lo aprendido de geometría no cambió: «there was no effect of the Help Tutor on students' learning gains». En el segundo tampoco hubo efecto en los dos meses con apoyo, y en los meses sin apoyo el aprendizaje no se midió. La revisión de los mismos autores (Aleven, Roll, McLaren y Koedinger 2016) lo resume así, según su resumen: la ayuda se usó «more deliberately», «but not to achieve better learning outcomes».
+
+Los estudios son de secundaria y con un tutor por computadora. Que pase lo mismo con un tutor humano o con adultos es inferencia.
+
+> [!NOTE] Sin fuente todavía: un estudio con adultos o con un tutor humano sobre enseñar a pedir ayuda.
 
 ## Qué dice la tutoría por computadora sobre el grano de la ayuda
 

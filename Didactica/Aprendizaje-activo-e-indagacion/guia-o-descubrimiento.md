@@ -9,11 +9,13 @@ fuentes:
   - "Hmelo-Silver, Duncan y Chinn (2007), Educational Psychologist 42(2), 99-107: https://doi.org/10.1080/00461520701263368 (abstract)"
   - "Alfieri, Brooks, Aldrich y Tenenbaum (2011), Does discovery-based instruction enhance learning?, Journal of Educational Psychology 103(1), 1-18: https://www.fisme.science.uu.nl/publicaties/literatuur/2011_alfieri_discovery_learning.pdf (abstract)"
   - "Sinha y Kapur (2021), Review of Educational Research 91(5), 761-798: https://doi.org/10.3102/00346543211019105 (abstract)"
-  - "OCDE (2016), Ten Questions for Mathematics Teachers… and How PISA Can Help Answer Them: https://www.oecd.org/education/ten-questions-for-mathematics-teachers-and-how-pisa-can-help-answer-them_9789264265387-en (según resumen de prensa)"
-  - "OCDE (2018), The science of teaching science, EDU/WKP(2018)24: https://www.oecd.org/education/the-science-of-teaching-science_f5bd9e57-en (según resumen)"
+  - "OCDE (2016), Ten Questions for Mathematics Teachers… and How PISA Can Help Answer Them, PISA, OECD Publishing, DOI 10.1787/9789264265387-en, cap. 1: https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/10/ten-questions-for-mathematics-teachers-and-how-pisa-can-help-answer-them_g1g7136d/9789264265387-en.pdf (texto completo)"
+  - "Mostafa, Echazarra y Guillou (2018), The science of teaching science: An exploration of science teaching practices in PISA 2015, OECD Education Working Paper 188, EDU/WKP(2018)24, DOI 10.1787/f5bd9e57-en: https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/11/the-science-of-teaching-science_b00c65f8/f5bd9e57-en.pdf (texto completo, secciones 3.3 y 4)"
+  - "OCDE (2018), How do science teachers teach science — and does it matter?, PISA in Focus 90: https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/11/how-do-science-teachers-teach-science-and-does-it-matter_14e1a23c/f3ac3fd6-en.pdf (texto completo)"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
+  - "Didactica/.investigacion/fuentes-activo-y-preguntas-2026-11.md"
 aliases: [instrucción explícita vs. descubrimiento, guía mínima, minimal guidance, aprendizaje por descubrimiento, discovery learning, cuánta guía, debate guía y descubrimiento]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -62,12 +64,12 @@ Una versión distinta de la pregunta no compara guía con descubrimiento sino el
 
 La OCDE usó las encuestas de PISA para mirar la misma pregunta en escuelas reales. Son datos correlacionales: asocian lo que dicen los alumnos sobre sus clases con sus puntajes, y no prueban causa.
 
-- Con PISA 2012, *Ten Questions for Mathematics Teachers* (2016) encuentra, según un resumen de prensa, que las estrategias dirigidas por el docente se asocian con más aciertos en problemas, pero la ventaja se desvanece en los difíciles. Las cifras no se verificaron.
-- Con PISA 2015, *The science of teaching science* (2018) encuentra que la enseñanza dirigida por el docente se asocia con mejores puntajes en ciencias sin importar el clima escolar, y que la relación negativa entre enseñanza por indagación y desempeño es mucho más débil en aulas con disciplina.
+- Con PISA 2012, *Ten Questions for Mathematics Teachers* (2016) mide la probabilidad de acertar cada problema de matemática, no un puntaje. Su lectura: «when teachers direct student learning, students are slightly more likely to be successful in solving the easiest mathematics problems in PISA. Yet as the problems become more difficult, students with more exposure to direct instruction no longer have a better chance of success». No propone abandonar la enseñanza dirigida, sino usarla junto con otras estrategias.
+- Con PISA 2015, Mostafa, Echazarra y Guillou (2018) calculan que, en el promedio de la OCDE, cada unidad más en el índice de enseñanza dirigida por el docente se asocia con siete puntos más en ciencias. La enseñanza por indagación va en sentido contrario: la asociación queda «negative and significant, albeit weak, in 51 out of 68 countries» después de controlar por el perfil del alumno y la escuela.
+- El clima del aula cambia la segunda cifra. Según el boletín de la OCDE *PISA in Focus* 90 (2018), la enseñanza dirigida se asocia con mejores puntajes «regardless of the classroom environment». La indagación, en cambio, se asocia con peores puntajes sobre todo en clases desordenadas, y en 33 países la asociación negativa desaparece en las clases con disciplina.
+- Lo que la indagación sí muestra en PISA 2015 son actitudes. Según el mismo boletín, parece el enfoque más prometedor para el interés, el disfrute y la confianza en la ciencia.
 
-El titular "PISA muestra que la indagación empeora" se achica a "la asociación depende del clima del aula, y no prueba causa".
-
-> [!NOTE] Sin fuente todavía: los puntos de diferencia de PISA 2012 y 2015 por tipo de enseñanza.
+El titular "PISA muestra que la indagación empeora" se achica a "la asociación es débil, depende del clima del aula y no prueba causa". Los autores de 2018 sugieren una explicación posible que no confirman: los alumnos de escuelas o ramas técnicas podrían recibir más indagación.
 
 ## Dónde está la disputa hoy
 

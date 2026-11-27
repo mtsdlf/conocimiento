@@ -10,7 +10,11 @@ fuentes:
   - "Margulieux, Morrison y Decker (2020), Reducing withdrawal and failure rates in introductory programming with subgoal labeled worked examples, International Journal of STEM Education 7, art. 19: https://link.springer.com/article/10.1186/s40594-020-00222-7 (según abstract)"
   - "Selvaraj, Zhang, Porter y Soosai Raj (2021), Live Coding: A Review of the Literature, ITiCSE: https://par.nsf.gov/biblio/10313400-live-coding-review-literature (según abstract)"
   - "Kalyuga (2007), Expertise Reversal Effect and Its Implications for Learner-Tailored Instruction, Educational Psychology Review 19:509-539: https://www.uky.edu/~gmswan3/EDC608/Kalyuga2007_Article_ExpertiseReversalEffectAndItsI.pdf (lectura parcial)"
+  - "Rubin (2013), The effectiveness of live-coding to teach introductory programming, SIGCSE '13:651-656: https://doi.org/10.1145/2445196.2445388 (abstract)"
+  - "Shah, Hogan, Agarwal, Driscoll, Porter, Griswold y Soosai Raj (2023), An Empirical Evaluation of Live Coding in CS1, ICER '23:476-494: https://icer2023.acm.org/details/icer-2023-papers/34/An-Empirical-Evaluation-of-Live-Coding-in-CS1 (abstract)"
+  - "Wilson (2019), Teaching Tech Together, Taylor & Francis, sección 8.1 «Live Coding»: https://teachtogether.tech/en/index.html (texto completo de la sección)"
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
+  - "Didactica/.investigacion/fuentes-explicar-y-practica-guiada-2026-11.md"
 aliases: [modelado, modeling, pensar en voz alta, think-aloud, ejemplo resuelto, worked example, worked examples, subobjetivos, subgoal labels, live coding, programar en vivo]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -53,6 +57,13 @@ El ejemplo resuelto ayuda a quien sabe poco y deja de ayudar, o estorba, a quien
 
 En programación, modelar suele tomar la forma de *live coding*, programar en vivo frente al grupo. Selvaraj et al. (2021) revisaron la literatura y, según su abstract, concluyen que «there is a lack of empirical evidence to support claims about the effectiveness of live coding on student learning», aunque se lo presente como «one of the best practices for teaching programming». El abstract no dice cuántos trabajos revisaron.
 
+*Teaching Tech Together* (Wilson 2019) lo defiende en su sección 8.1. Dice que el docente escribe el código frente al grupo mientras los alumnos lo tipean y lo corren. Entre sus razones: obliga a ir más despacio, muestra cómo se diagnostica y corrige un error y enseña el orden en que se escribe un programa. Su regla principal es «embrace your mistakes»: pensar los errores en voz alta con el grupo.
+
+> [!IMPORTANT]
+> **Es la mejor forma de enseñar a programar (Wilson 2019).** El libro abre la sección con «The most effective way to teach programming is live coding» y cita tres trabajos. De ellos, solo Rubin (2013) compara con código estático; Raj et al. (2018) es un análisis cualitativo de opiniones de estudiantes y Haaranen (2017) trata la transmisión en vivo.
+>
+> **Rinde igual que mostrar código ya escrito (Rubin 2013; Shah et al. 2023).** Rubin comparó secciones de un curso de C++ y, según su abstract, concluye que programar en vivo es «as good as if not better than using static code examples». Shah et al. (2023) compararon dos grupos de un mismo docente, con el mismo contenido y los mismos exámenes. Según su abstract, «Our findings did not show that live coding improved students' programming processes or performance in the course». Más estudiantes del grupo en vivo dijeron que la clase iba demasiado rápido para tomar notas. Los dos son cuasiexperimentos de una sola materia.
+
 Leído junto con Rosenshine, el *live coding* se sostiene como una forma de pensar en voz alta, con sus errores incluidos, más que como técnica con evidencia propia. Esa lectura es inferencia de esta base.
 
-> [!NOTE] Sin fuente todavía: si programar en vivo rinde distinto que mostrar código ya escrito, y qué dice *Teaching Tech Together* en su capítulo sobre el tema.
+> [!NOTE] Sin fuente todavía: un experimento aleatorizado que compare programar en vivo con mostrar código ya escrito; Rubin (2013) y Shah et al. (2023) se leyeron solo por su abstract.
