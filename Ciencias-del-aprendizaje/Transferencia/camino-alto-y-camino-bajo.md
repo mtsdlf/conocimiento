@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Camino bajo y camino alto son los dos mecanismos de transferencia que distinguen Perkins y Salomon: el bajo dispara una rutina muy practicada en un contexto parecido; el alto abstrae a propósito un principio y lo lleva a otro lado. De ahí salen las prácticas que la favorecen: practicar variado, tender puentes explícitos, recuperar de memoria y organizar lo aprendido en un marco conceptual.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Perkins y Salomon (1989), Are cognitive skills context-bound?, Educational Researcher; (1992), entrada de enciclopedia; vía resúmenes: https://en.wikipedia.org/wiki/Transfer_of_learning y https://dynamiclearning.substack.com/p/18-transfer-high-roads-and-low-roads"
@@ -11,7 +11,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
 aliases: [low road transfer, high road transfer, hugging, bridging, abrazar y tender puentes, transferencia por camino alto, cómo enseñar para transferir]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Camino alto y camino bajo

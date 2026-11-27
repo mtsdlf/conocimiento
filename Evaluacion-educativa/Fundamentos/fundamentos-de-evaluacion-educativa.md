@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que atraviesa toda la evaluación educativa: de dónde salen sus conceptos (Scriven, Glaser, Bloom, la psicometría), las dos culturas que conviven en el campo (la medición y la evaluación de aula), los mitos que circulan y dónde están las fuentes y el glosario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area.md"
 aliases: [historia de la evaluación educativa, mitos de la evaluación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de la evaluación educativa

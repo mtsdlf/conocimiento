@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La tutoría es enseñar una habilidad a una persona o a un grupo de dos a cinco, con atención a lo que cada uno hace. En escuelas, los ensayos aleatorizados le dan un efecto de entre 0,29 y 0,37 desviaciones estándar, y en un estudio clave los alumnos aprendieron igual cuando el tutor solo podía preguntar, sin explicar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "VanLehn (2011), The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems, Educational Psychologist 46(4): https://eric.ed.gov/?id=EJ946764 (abstract)"
@@ -14,7 +14,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [tutoring, tutoría uno a uno, tutoría individual, clases particulares, tutoría en grupos chicos, small group tuition, tutoría de alta dosis, high-dosage tutoring]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tutoría

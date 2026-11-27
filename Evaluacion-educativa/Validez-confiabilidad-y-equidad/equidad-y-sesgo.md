@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La equidad de una evaluación es que el resultado signifique lo mismo para todos los que la rinden. Se rompe cuando el puntaje depende de algo ajeno a lo evaluado que varía entre grupos, o cuando se evalúa lo que alguien no tuvo oportunidad de aprender.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, cap. 3 Fairness, estándares 3.20 y 13.7: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [equidad, fairness, sesgo de la prueba, test bias, DIF, funcionamiento diferencial del ítem, differential item functioning, oportunidad de aprender, opportunity to learn]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Equidad y sesgo

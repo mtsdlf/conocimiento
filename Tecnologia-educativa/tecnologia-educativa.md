@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La tecnología educativa estudia qué aportan los medios digitales a enseñar y aprender: el aprendizaje en línea, los tutores inteligentes, la IA y el software de práctica, separando lo que cambia el aprendizaje de lo que solo cambia el canal.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Clark (1994), Media will never influence learning, ETR&D 42(2): https://link.springer.com/article/10.1007/BF02299088 (resumen del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [edtech, educational technology, aprendizaje en línea, e-learning, IA en educación, tecnología educativa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tecnología educativa

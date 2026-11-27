@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El conocimiento previo es lo que una persona ya sabe de un dominio cuando empieza a aprender algo de él. Predice con fuerza cuánto va a saber al final, pero poco cuánto va a ganar, y es la diferencia entre quienes aprenden que más cambia qué enseñanza les sirve.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Simonsmeier, Flaig, Deiglmayr, Schalk y Schneider (2022), Domain-specific prior knowledge and learning: a meta-analysis, Educational Psychologist 57(1):31-54 (abstract vía Semantic Scholar): https://doi.org/10.1080/00461520.2021.1939700"
@@ -13,7 +13,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [prior knowledge, saberes previos, conocimientos previos, novato y experto, novice and expert, novato-experto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conocimiento previo

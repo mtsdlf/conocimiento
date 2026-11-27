@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Tecnología educativa sin ser una de sus partes: la historia de sus promesas incumplidas, los mitos sobre aprender con tecnología, cómo pesar sus fuentes y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
@@ -9,7 +9,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [fundamentos de tecnología educativa, fundamentos de edtech]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de Tecnología educativa

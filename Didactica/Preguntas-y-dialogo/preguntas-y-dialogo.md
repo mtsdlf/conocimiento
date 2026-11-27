@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Preguntas y diálogo es la parte de la didáctica que usa el habla de la clase para dos cosas: hacer pensar a quien aprende y ver qué entendió. Es la vertical con menos evidencia verificada del tema: hay respaldo fuerte para las preguntas de profundidad y para pedir explicaciones, y huecos en tiempo de espera y enseñanza dialógica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rosenshine (2012), Principles of Instruction, American Educator, primavera 2012, pp. 12-19: https://www.aft.org/sites/default/files/Rosenshine.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
 aliases: [preguntas y diálogo, questioning, preguntas en clase, diálogo en clase, classroom talk]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Preguntas y diálogo

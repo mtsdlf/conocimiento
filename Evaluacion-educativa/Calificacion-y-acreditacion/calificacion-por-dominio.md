@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La calificación por dominio no deja avanzar a alguien hasta que demuestra que domina el tema, con un umbral fijo y nuevas oportunidades si no llega. El aprendizaje para el dominio (Bloom, 1968) mostró efectos positivos en un metaanálisis de 108 evaluaciones, más fuertes en los alumnos más flojos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kulik, Kulik y Bangert-Drowns (1990), Effectiveness of mastery learning programs: a meta-analysis, Review of Educational Research (abstract): https://doi.org/10.3102/00346543060002265"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [mastery learning, aprendizaje para el dominio, aprendizaje de dominio, mastery grading, calificación por estándares, standards-based grading, calificación por competencias]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calificación por dominio

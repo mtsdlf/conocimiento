@@ -1,14 +1,14 @@
 ---
 resumen: >-
   El video educativo es la explicación grabada que se mira en un curso en línea. El estudio más citado sobre él (Guo, Kim y Rubin, 2014) encontró que los videos cortos e informales retienen más la atención, pero midió cuánto se mira, no cuánto se aprende.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Guo, P. J., Kim, J. y Rubin, R. (2014), How Video Production Affects Student Engagement: An Empirical Study of MOOC Videos, Learning at Scale 2014 (ACM), DOI 10.1145/2556325.2566239: https://www.cs.rochester.edu/hci/pubs/pdfs/edX-MOOC-video-production-and-engagement_LAS-2014.pdf"
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [educational video, video en cursos en línea, videos de seis minutos, Guo 2014, video engagement]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Video educativo

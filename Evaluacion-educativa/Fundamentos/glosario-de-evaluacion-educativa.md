@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos de la evaluación educativa, cada uno con una definición corta y la nota donde se explica. Sirve para entrar al tema por una palabra.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
@@ -9,7 +9,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area.md"
 aliases: [glosario de evaluación, términos de evaluación educativa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de evaluación educativa

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Enseñar programación con IA es decidir cómo y cuándo dejar que quien aprende use un asistente que escribe código. Los primeros experimentos coinciden en que la IA sin guía sube el rendimiento mientras se practica pero no necesariamente lo aprendido, ayuda más a quien ya sabía (la brecha se ensancha), y rinde mejor cuando obliga a predecir o explicar antes de mostrar la solución.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kazemitabaar et al. (2023), Studying the effect of AI code generators on supporting novice learners in introductory programming, CHI: https://arxiv.org/abs/2302.07427 (abstract)"
@@ -15,7 +15,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [enseñar a programar con IA, aprender a programar con IA, programar con IA, novatos y asistentes de código, CS1 con IA, IA en la enseñanza de la programación, asistentes de código en la educación, LLM en educación en computación, generative AI in computing education, ilusión de competencia, illusion of competence, widening gap]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Enseñar programación con IA

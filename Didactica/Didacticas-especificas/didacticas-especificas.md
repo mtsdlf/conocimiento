@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las didácticas específicas estudian lo que cambia al enseñar según qué se enseña: la programación, las ciencias o un idioma tienen dificultades, representaciones y errores típicos propios que la didáctica general no resuelve sola.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia en español, Didáctica (definición de Camilloni y de Litwin): https://es.wikipedia.org/wiki/Didáctica (lectura parcial)"
@@ -13,7 +13,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [didáctica específica, didácticas de las disciplinas, didáctica de la materia, Fachdidaktik, subject didactics, subject-matter didactics]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Didácticas específicas

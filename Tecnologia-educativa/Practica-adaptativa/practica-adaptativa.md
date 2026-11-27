@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La práctica adaptativa es el software que decide qué practicar y cuándo según lo que cada persona sabe: programa repasos para cuando se está por olvidar algo o elige el próximo ejercicio según un mapa de lo dominado. La evidencia del espaciado digital es moderada y viene de estudiantes de salud; la de cada programa en particular, escasa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martinengo et al. (2024), J Med Internet Res 26:e57760: https://pmc.ncbi.nlm.nih.gov/articles/PMC11502984/"
@@ -10,7 +10,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [adaptive practice, adaptive learning, aprendizaje adaptativo, práctica personalizada, software de repaso, sistemas adaptativos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Práctica adaptativa

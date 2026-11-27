@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La IA como tutor es un modelo de lenguaje configurado para guiar al alumno con preguntas y pistas sin darle la respuesta. Los ensayos cortos con diseño cuidado muestran ganancias; el único ensayo largo muestra efectos chicos, que sus autores atribuyen al poco uso.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bastani, H. et al. (2025), PNAS 122(26), antes SSRN «Generative AI Can Harm Learning»: https://ideas.repec.org/a/nas/journl/v122y2025pe2422633122.html; resumen de Wharton: https://knowledge.wharton.upenn.edu/article/without-guardrails-generative-ai-can-harm-education/"
@@ -11,7 +11,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [AI tutor, tutor de IA, LLM tutor, tutor con modelo de lenguaje, Khanmigo, GPT Tutor, tutor socrático con IA]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # La IA como tutor

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un tutor inteligente es un programa que guía a quien aprende paso a paso dentro de un problema: sigue cada acción, estima qué sabe y decide qué pista dar y qué problema poner después. Es una de las familias de tecnología educativa con más evidencia reunida en esta base, y el antecedente de los tutores con IA.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ma, Adesope, Nesbit y Liu (2014), Intelligent tutoring systems and learning outcomes: A meta-analysis, Journal of Educational Psychology 106(4):901-918: https://www.cs.uky.edu/~sgware/reading/papers/ma2014intelligent.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [intelligent tutoring system, ITS, sistemas de tutoría inteligente, tutor cognitivo, cognitive tutor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tutores inteligentes

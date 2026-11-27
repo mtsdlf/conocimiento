@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La autoexplicación es pedirle a quien aprende que explique, con sus palabras, por qué un paso es correcto o cómo llegó a una respuesta. Aparece en las revisiones como uno de los apoyos que hacen funcionar la enseñanza guiada, aunque los estudios clásicos del tema no se leyeron.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Alfieri, Brooks, Aldrich y Tenenbaum (2011), Does discovery-based instruction enhance learning?, Journal of Educational Psychology 103(1): https://www.fisme.science.uu.nl/publicaties/literatuur/2011_alfieri_discovery_learning.pdf (abstract)"
@@ -14,7 +14,7 @@ fuentes:
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
 aliases: [autoexplicación, self-explanation, explicaciones elicitadas, elicited explanations, pedir que expliquen, pensar en voz alta del alumno]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autoexplicación

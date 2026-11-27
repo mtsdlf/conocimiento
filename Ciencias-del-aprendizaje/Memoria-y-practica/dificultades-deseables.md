@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las dificultades deseables son condiciones de práctica que la hacen más difícil y más lenta en el momento pero dejan más aprendizaje: espaciar, intercalar, testearse en lugar de releer, generar la respuesta y variar las condiciones. Dejan de ser deseables cuando quien aprende no tiene la base para responderlas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bjork y Bjork (2011), Making things hard on yourself, but in a good way, en Psychology and the Real World (leído): https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
 aliases: [desirable difficulties, dificultad deseable, efecto de generación, generation effect, generación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dificultades deseables

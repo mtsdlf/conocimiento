@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de la tecnología educativa son creencias muy difundidas sobre aprender con tecnología que la evidencia desmiente o achica: los nativos digitales, la multitarea, que más dispositivos dan más aprendizaje, que un video debe durar seis minutos y que la baja finalización prueba que en línea no se aprende.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kirschner, P. A. y De Bruyckere, P. (2017), Teaching and Teacher Education 67:135-142, DOI 10.1016/j.tate.2017.06.001: https://www.gwern.net/doc/psychology/2017-kirschner.pdf (resumen del buscador)"
@@ -15,7 +15,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [nativos digitales, digital natives, multitarea, multitasking, media multitasking, mitos de la edtech, leyendas urbanas en educación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos de tecnología educativa

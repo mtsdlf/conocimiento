@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un sistema adaptativo es un programa de práctica que mantiene un mapa de qué temas domina cada alumno y elige con él el próximo ejercicio, el próximo prerrequisito o el próximo repaso. Su diseño se apoya en técnicas con evidencia, pero casi no hay estudios independientes de que un producto concreto enseñe más.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Skycak, J. (2023, actualizado en 2026), Individualized Spaced Repetition in Hierarchical Knowledge Structures: https://justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/ (del autor y proveedor)"
@@ -10,7 +10,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [adaptive learning system, aprendizaje adaptativo, grafo de conocimiento, knowledge graph, repaso jerárquico, hierarchical spaced repetition, aprendizaje para el dominio, mastery learning, aprendizaje asistido por computadora]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sistemas adaptativos

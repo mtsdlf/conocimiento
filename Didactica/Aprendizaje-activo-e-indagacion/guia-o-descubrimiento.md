@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La disputa entre guía y descubrimiento pregunta cuánta ayuda necesita quien aprende algo nuevo: explicarle y hacerlo practicar, o dejar que lo encuentre resolviendo. La evidencia descarta el descubrimiento sin guía y respalda el descubrimiento con andamiaje; lo que sigue en discusión es cómo clasificar la indagación y el aprendizaje basado en problemas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kirschner, Sweller y Clark (2006), Why Minimal Guidance During Instruction Does Not Work, Educational Psychologist 41(2), 75-86: https://doi.org/10.1207/s15326985ep4102_1 (abstract parcial y reseñas)"
@@ -16,7 +16,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [instrucción explícita vs. descubrimiento, guía mínima, minimal guidance, aprendizaje por descubrimiento, discovery learning, cuánta guía, debate guía y descubrimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Guía o descubrimiento

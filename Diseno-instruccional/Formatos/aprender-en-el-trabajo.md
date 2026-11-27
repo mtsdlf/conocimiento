@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprender en el trabajo es aprender haciendo tareas reales y con otros, fuera de un curso. La regla 70-20-10, que dice que el 70 % se aprende así, el 20 % con otros y el 10 % en cursos, no tiene respaldo empírico: salió de una encuesta de percepción a ejecutivos y uno de sus autores, Morgan McCall, la llamó folklore.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "70/20/10 model (Wikipedia): https://en.wikipedia.org/wiki/70/20/10_Model (página parcial)"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [70-20-10, regla 70-20-10, 70/20/10, aprendizaje informal, informal learning, aprendizaje en el puesto, on-the-job learning, workplace learning]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprender en el trabajo

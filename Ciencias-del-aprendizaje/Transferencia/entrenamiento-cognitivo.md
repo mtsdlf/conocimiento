@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El entrenamiento cognitivo es practicar una tarea (juegos de memoria de trabajo, ajedrez, música) esperando que mejore la cognición general o el rendimiento escolar. Los metaanálisis leídos encuentran mejoras en tareas parecidas a las entrenadas y ninguna transferencia lejana convincente cuando el grupo de control hace alguna actividad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Sala y Gobet (2017), Does far transfer exist? Negative evidence from chess, music, and working memory training, Current Directions in Psychological Science: https://pubmed.ncbi.nlm.nih.gov/29276344/ (abstract)"
@@ -10,7 +10,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
 aliases: [cognitive training, entrenamiento cerebral, brain training, entrenamiento de la memoria de trabajo, working memory training]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Entrenamiento cognitivo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Modelar es mostrar cómo se resuelve algo haciendo visible el razonamiento que un experto lleva oculto, pensando en voz alta o con ejemplos resueltos paso a paso. El ejemplo resuelto es de las técnicas con mejor respaldo experimental, y sirve sobre todo a quien recién empieza.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rosenshine (2012), Principles of Instruction, American Educator (principios 4 y 8): https://www.aft.org/sites/default/files/Rosenshine.pdf (lectura completa)"
@@ -13,7 +13,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [modelado, modeling, pensar en voz alta, think-aloud, ejemplo resuelto, worked example, worked examples, subobjetivos, subgoal labels, live coding, programar en vivo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelado y ejemplos resueltos

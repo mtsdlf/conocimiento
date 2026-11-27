@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La calibración es cuánto coincide lo que alguien cree saber con lo que de verdad sabe. Al estudiar importa porque, según el título de Dunlosky y Rawson (2012), la sobreconfianza produce bajo rendimiento. Que quienes rinden poco se sobreestimen es un hallazgo repetido; que se deba a no saber que no saben está en disputa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dunlosky y Rawson (2012), Overconfidence produces underachievement, Learning and Instruction, DOI 10.1016/j.learninstruc.2011.08.003 (solo título)"
@@ -12,7 +12,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
 aliases: [calibration, calibración metacognitiva, metacognitive calibration, sobreconfianza al estudiar, monitoreo, efecto Dunning-Kruger en estudiantes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calibración

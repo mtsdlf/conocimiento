@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El aprendizaje situado es la perspectiva de Lave y Wenger (1991) según la cual aprender es participar en una comunidad de práctica, moviéndose de la periferia al centro. Sus autores dicen que no es un método de enseñanza sino una forma de analizar el aprendizaje, y Anderson, Reder y Simon (1996) discuten que se presente como respaldada por la psicología cognitiva.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Lave y Wenger (1991), Situated Learning: Legitimate Peripheral Participation, Cambridge University Press (no leído; citado por la página de Wikipedia)"
@@ -10,7 +10,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
 aliases: [situated learning, cognición situada, situated cognition, comunidades de práctica, communities of practice, participación periférica legítima, legitimate peripheral participation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje situado

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprendizaje y rendimiento son dos cosas distintas: el rendimiento es lo que alguien logra mientras practica; el aprendizaje, el cambio duradero que queda y se ve después o en otro contexto. El rendimiento durante la práctica es a menudo un mal indicador del aprendizaje.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bjork y Bjork (2011), Making things hard on yourself, but in a good way, en Psychology and the Real World (leído): https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
 aliases: [learning versus performance, aprendizaje frente a rendimiento, aprendizaje vs. rendimiento, fuerza de almacenamiento, fuerza de recuperación, storage strength, retrieval strength]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje y rendimiento

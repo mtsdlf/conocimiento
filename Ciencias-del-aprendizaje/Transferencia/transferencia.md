@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La transferencia es usar lo aprendido en una situación distinta de aquella en que se aprendió. Es el fin de casi toda enseñanza. Los metaanálisis de entrenamiento cognitivo encuentran mejoras cercanas e intermedias y casi ninguna lejana.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Barnett y Ceci (2002), When and where do we apply what we learn? A taxonomy for far transfer, Psychological Bulletin 128(4):612-637: https://pubmed.ncbi.nlm.nih.gov/12081085/ (extractos vía buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [transfer, transfer of learning, transferencia del aprendizaje, aplicar lo aprendido]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Transferencia

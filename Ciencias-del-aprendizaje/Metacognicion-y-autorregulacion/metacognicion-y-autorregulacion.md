@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Metacognición y autorregulación es la parte del aprendizaje en que quien aprende se mira a sí mismo: juzga cuánto sabe y dirige su propio estudio. Son dos literaturas distintas que suelen nombrarse juntas: la de los juicios y la calibración, y la del ciclo de planificar, ejecutar y reflexionar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bjork, Dunlosky y Kornell (2013), Self-regulated learning: beliefs, techniques, and illusions, Annual Review of Psychology 64: https://pubmed.ncbi.nlm.nih.gov/23020639/ (abstract)"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [metacognition, self-regulated learning, metacognición, autorregulación del aprendizaje, aprender a aprender]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Metacognición y autorregulación

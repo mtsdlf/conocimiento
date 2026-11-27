@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La Instrucción Directa, con mayúsculas, es una familia de programas curriculares muy guionados que diseñó Siegfried Engelmann. Tiene un metaanálisis grande a favor, hecho en parte por gente del instituto que la promueve, y su prueba más famosa, Project Follow Through, se discute desde 1978.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Stockard, Wood, Coughlin y Khoury (2018), The Effectiveness of Direct Instruction Curricula: A Meta-Analysis of a Half Century of Research, Review of Educational Research 88(4):479-507: https://scholarsbank.uoregon.edu/items/9c5db747-52be-4bd8-8771-b05d0f7c0b01/full (abstract)"
@@ -14,7 +14,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [Instrucción Directa, Direct Instruction, DI, Engelmann, Project Follow Through, Follow Through]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Instrucción Directa

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una tarea de desempeño pide hacer algo parecido a lo que se hace fuera del curso (resolver un caso, construir un programa, presentar un proyecto) y juzga el producto o el proceso. Gana realismo y pierde confiabilidad: cada tarea y cada corrector agregan ruido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, cap. 2 Reliability/precision: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [evaluación auténtica, authentic assessment, performance assessment, tarea auténtica, proyecto, portfolio, portafolio, corrección automática de código, autograding]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tareas de desempeño

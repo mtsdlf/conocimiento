@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Explicar y modelar es la parte de la enseñanza en que quien enseña presenta lo nuevo: en pasos chicos, mostrando cómo se resuelve y haciendo visible su razonamiento. Es el núcleo de la instrucción explícita y el primer tramo de la secuencia de clase que sigue con la práctica guiada.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rosenshine (2012), Principles of Instruction, American Educator: https://www.aft.org/sites/default/files/Rosenshine.pdf (lectura completa)"
@@ -11,7 +11,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [instrucción explícita, explicit instruction, explicar, exposición, presentar material nuevo, modelar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Explicar y modelar

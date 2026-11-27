@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ilusión de saber es creer que se aprendió algo porque mientras se estudia resulta fluido y fácil. Las señales que la gente usa para juzgar su aprendizaje (la fluidez, el rendimiento del momento, la poca dificultad) pueden apuntar al revés de lo que funciona, y en un estudio el esfuerzo de una técnica buena se leyó como señal de aprender poco.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bjork, Dunlosky y Kornell (2013), Self-regulated learning: beliefs, techniques, and illusions, Annual Review of Psychology 64: https://pubmed.ncbi.nlm.nih.gov/23020639/ (abstract)"
@@ -11,7 +11,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
 aliases: [illusion of competence, ilusión de competencia, ilusión de fluidez, fluency illusion, feeling of learning, sensación de aprender, juicios de aprendizaje, judgments of learning]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ilusión de saber

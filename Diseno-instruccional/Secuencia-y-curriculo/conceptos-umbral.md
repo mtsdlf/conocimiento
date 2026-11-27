@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un concepto umbral es una idea que, una vez entendida, transforma cómo se ve el resto de un dominio y sin la cual no se puede avanzar; suele ser el lugar donde la gente se traba. El marco viene de Meyer y Land (2003) y se usa en la educación superior como punto de partida para diseñar, con muchos casos y pocas pruebas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Land, Cousin, Meyer y Davies (2005), Threshold concepts and troublesome knowledge (3): implications for course design and evaluation, en Rust (ed.), Improving Student Learning: Diversity and Inclusivity: https://www.ee.ucl.ac.uk/~mflanaga/ISL04-pp53-64-Land-et-al.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [threshold concepts, concepto umbral, troublesome knowledge, conocimiento problemático, stuck places, lugares de traba]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conceptos umbral

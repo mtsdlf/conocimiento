@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La IA como ayuda del docente es un modelo de lenguaje que le sugiere a un tutor humano qué decir o le redacta los mensajes para que los apruebe, sin hablar directo con el alumno. Los dos ensayos que lo prueban dan resultados positivos, pero ninguno tiene revisión por pares.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wang et al., Tutor CoPilot, arXiv 2410.03017 (v3 2026-10-10): https://arxiv.org/abs/2410.03017"
@@ -10,7 +10,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [Tutor CoPilot, IA para tutores, human-in-the-loop tutoring, IA que asiste al docente, copiloto del docente]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # La IA como ayuda del docente

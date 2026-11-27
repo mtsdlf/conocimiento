@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los metaanálisis dan a los tutores inteligentes efectos de 0,4 a 0,8 desviaciones estándar, cerca de la tutoría humana; el mejor ensayo a escala, el de Pane et al. (2014) con el Cognitive Tutor de Álgebra, dio cero el primer año y unos 0,20 el segundo. Esta base atribuye parte de la distancia a cómo se mide; es una inferencia que ningún autor leído formula así.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "VanLehn, K. (2011), The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems, Educational Psychologist 46(4):197-221: https://eric.ed.gov/?id=EJ946764 (abstract y resumen del buscador)"
@@ -13,7 +13,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [efectividad de los tutores inteligentes, ITS effectiveness, VanLehn 2011, Ma 2014, Kulik y Fletcher, Pane 2014, RAND Cognitive Tutor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evidencia de los tutores inteligentes

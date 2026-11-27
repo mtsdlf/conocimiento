@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La retroalimentación inmediata ayuda a corregir errores en el momento y a aprender más rápido; la diferida se asocia con mejor transferencia. La evidencia es mixta, y la revisión de Shute (2008) da lineamientos por tipo de tarea y de alumno en lugar de una regla única.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Shute (2008), Focus on Formative Feedback, Review of Educational Research: https://myweb.fsu.edu/vshute/pdf/shute%202008_b.pdf (lectura parcial: tablas 2 a 5 y sección de momento)"
@@ -9,7 +9,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [feedback inmediato, feedback diferido, immediate feedback, delayed feedback, retroalimentación formativa, formative feedback, retroalimentación elaborada, momento de la retroalimentación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Retroalimentación inmediata o diferida

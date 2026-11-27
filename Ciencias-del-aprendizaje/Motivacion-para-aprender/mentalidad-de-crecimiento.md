@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La mentalidad de crecimiento es la creencia de que la inteligencia se desarrolla con esfuerzo, y su intervención educativa busca enseñarla para mejorar el rendimiento. Los metaanálisis coinciden en que el efecto promedio es chico; discrepan en si desaparece al corregir sesgos o si queda un efecto real en algunos grupos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Sisk, Burgoyne, Sun, Butler y Macnamara (2018), To what extent and under which circumstances are growth mind-sets important to academic achievement?, Psychological Science 29(4):549-571 (resultados leídos): https://pubmed.ncbi.nlm.nih.gov/29505339/ y https://hhs.purdue.edu/skill-learning-and-performance-lab/wp-content/uploads/sites/43/2024/08/sisk-et-al-2018-to-what-extent-and-under-which-circumstances-are-growth-mind-sets-important-to-academic-achievement-two.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [growth mindset, mindset, mentalidad fija, fixed mindset, intervención de mentalidad, teorías implícitas de la inteligencia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mentalidad de crecimiento

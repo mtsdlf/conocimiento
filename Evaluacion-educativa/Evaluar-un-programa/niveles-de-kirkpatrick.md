@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los niveles de Kirkpatrick ordenan lo que se puede medir de una capacitación: reacción, aprendizaje, conducta en el trabajo y resultados. Sirven como lista de resultados, pero no forman una cadena: que guste un curso dice poco de si se aprendió o se usa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Colquitt, LePine y Noe (2000), Toward an integrative theory of training motivation, Journal of Applied Psychology: https://www.gwern.net/doc/iq/2000-colquitt.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [Kirkpatrick, cuatro niveles, four levels, modelo de Kirkpatrick, reacción aprendizaje conducta resultados, encuesta de satisfacción, happy sheet]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Niveles de Kirkpatrick

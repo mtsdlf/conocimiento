@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El aprendizaje autorregulado es dirigir el propio estudio en un ciclo de planificar, ejecutar y reflexionar, con la motivación adentro. Enseñarlo rinde en escuelas, con efectos promedio cercanos a 0,7 en dos metaanálisis (cifra conocida por una cita de segunda mano); en capacitación laboral, lo que más se asocia con aprender es la meta, la persistencia y la autoeficacia, más que planificar o monitorear.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Zimmerman (2002), Becoming a self-regulated learner: an overview, Theory Into Practice 41(2), DOI 10.1207/s15430421tip4102_2 (solo título)"
@@ -12,7 +12,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
 aliases: [self-regulated learning, SRL, autorregulación del aprendizaje, aprender a aprender, modelo cíclico de Zimmerman]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje autorregulado

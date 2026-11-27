@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Evaluar un programa con grupo de comparación es medir el mismo resultado en quienes hicieron el curso y en quienes no, para atribuirle la diferencia. Los estándares del What Works Clearinghouse ponen arriba los diseños con asignación controlada y exigen que los grupos empiecen parecidos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "What Works Clearinghouse, Procedures and Standards Handbook v5.0: https://ies.ed.gov/ncee/wwc/Docs/referenceresources/Final_WWC-HandbookVer5.0-0-508.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [diseño experimental, grupo de control, ensayo aleatorizado, cuasiexperimento, What Works Clearinghouse, WWC, evaluación de impacto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación con grupo de comparación

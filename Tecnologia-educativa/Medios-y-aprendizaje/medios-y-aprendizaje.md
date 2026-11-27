@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Medios y aprendizaje es la parte de la tecnología educativa que pregunta si un medio (la radio, la computadora, la pantalla, el chat) cambia lo que se aprende o solo transporta un método de enseñanza. Es un debate, no un catálogo de medios.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Clark (1994), Media will never influence learning, ETR&D 42(2):21-29: https://link.springer.com/article/10.1007/BF02299088 (resumen del buscador)"
@@ -10,7 +10,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [media debate, debate de los medios, media and learning, medios educativos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Medios y aprendizaje

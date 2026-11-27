@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La finalización de un MOOC (curso en línea abierto y masivo) es la proporción de inscriptos que lo termina: entre el 3 y el 6 % en HarvardX y MITx de 2013 a 2018, sin mejora en seis años. La cifra mezcla a quienes quieren terminar con quienes solo miran, y sube mucho entre quienes pagan un certificado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Reich, J. y Ruipérez-Valiente, J. A. (2019), The MOOC pivot, Science 363(6423):130-131, DOI 10.1126/science.aav7958, postprint: https://webs.um.es/jruiperez/papers/journals/2019_Science_MOOCPivot_postprint.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [MOOC, MOOC completion, tasa de finalización, abandono en cursos en línea, deserción, MOOC pivot, cursos abiertos masivos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Finalización de los MOOC

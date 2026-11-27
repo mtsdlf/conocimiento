@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El seguimiento del conocimiento (knowledge tracing) estima, respuesta a respuesta, la probabilidad de que alguien domine cada habilidad mientras practica. Su versión clásica, Bayesian Knowledge Tracing, separa saber de acertar; las redes neuronales no la superan con claridad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Corbett y Anderson (1994), Knowledge tracing: Modeling the acquisition of procedural knowledge, User Modeling and User-Adapted Interaction 4, 253-278 (resumen del buscador): https://doi.org/10.1007/BF01099821"
@@ -11,7 +11,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [knowledge tracing, Bayesian Knowledge Tracing, BKT, deep knowledge tracing, DKT, modelo del estudiante]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Seguimiento del conocimiento

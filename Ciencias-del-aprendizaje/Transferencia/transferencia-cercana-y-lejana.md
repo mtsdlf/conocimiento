@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La transferencia cercana lleva lo aprendido a una situación parecida y la lejana a una muy distinta. Barnett y Ceci (2002) proponen verla como un continuo con varias dimensiones de contenido y de contexto, y sostienen que estimar un único efecto de "transferencia lejana" no tiene sentido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Barnett y Ceci (2002), When and where do we apply what we learn? A taxonomy for far transfer, Psychological Bulletin 128(4):612-637: https://pubmed.ncbi.nlm.nih.gov/12081085/ (extractos vía buscador; abstract no leído entero)"
@@ -10,7 +10,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [near transfer, far transfer, transferencia cercana, transferencia lejana, taxonomía de Barnett y Ceci, elementos idénticos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Transferencia cercana y lejana

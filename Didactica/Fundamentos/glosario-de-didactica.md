@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos de la didáctica que usa este tema, con una definición de una línea y la nota donde se desarrollan. Los términos de las teorías del aprendizaje viven en Ciencias del aprendizaje.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Didactica/.investigacion/fundamentos-del-area.md (glosario base)"
@@ -9,7 +9,7 @@ fuentes:
   - "Las fuentes de cada nota enlazada"
 aliases: [glosario de didáctica, términos de didáctica, vocabulario de enseñanza]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de didáctica

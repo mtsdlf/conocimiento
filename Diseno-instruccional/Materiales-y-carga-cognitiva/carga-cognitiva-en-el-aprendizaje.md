@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La teoría de la carga cognitiva, de Sweller, explica por qué un material enseña más o menos según cuánto ocupa la memoria de trabajo en lo que no construye conocimiento. Es la base de las reglas de diseño de materiales, y su crítica más seria, de de Jong (2010), es que la carga casi nunca se mide directamente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Sweller (1988), Cognitive load during problem solving: effects on learning, Cognitive Science 12(2), 257-285: https://escholarship.org/content/qt2dp9867s/qt2dp9867s.pdf (resumen del buscador)"
@@ -13,7 +13,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [cognitive load theory, CLT, teoría de la carga cognitiva, carga intrínseca, carga extrínseca, carga pertinente, germane load, Sweller, efecto del ejemplo resuelto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Carga cognitiva en el aprendizaje

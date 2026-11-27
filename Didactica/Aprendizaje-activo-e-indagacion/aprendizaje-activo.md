@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El aprendizaje activo es cualquier clase en la que quien aprende hace algo con el contenido (resolver, discutir, responder) en lugar de solo escuchar una exposición. En ciencias, ingeniería y matemática universitarias baja la reprobación de 33,8 % a 21,8 % y sube los exámenes en 0,47 desviaciones estándar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Freeman et al. (2014), Active learning increases student performance in science, engineering, and mathematics, PNAS 111(23): https://www.bu.edu/eng/files/2025/01/Active-learning-increases-student-performance-in-science-engineering-and-mathematics.pdf (texto leído)"
@@ -11,7 +11,7 @@ fuentes:
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
 aliases: [active learning, clase activa, aprendizaje colaborativo, collaborative learning, peer instruction, instrucción entre pares, ICAP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje activo

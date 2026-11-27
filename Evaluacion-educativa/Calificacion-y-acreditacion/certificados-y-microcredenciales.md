@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un certificado o una microcredencial acredita lo aprendido ante alguien que no estuvo en el curso. Su valor en el mercado depende de cuánto se confía en quien lo emite; la poca evidencia que hay dice que las microcredenciales digitales no mejoran la probabilidad de ser contratado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Comisión Europea, Micro-credentials: https://education.ec.europa.eu/education-levels/higher-education/micro-credentials"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [microcredenciales, micro-credentials, certificado, certificación, insignias digitales, digital badges, credencial, acreditación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Certificados y microcredenciales

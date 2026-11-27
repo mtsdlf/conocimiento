@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los documentos de referencia de la evaluación educativa, ordenados por vertical: qué es cada uno, qué parte leer y cuánto se pudo leer para esta base. El central son los Standards de 2014, de acceso abierto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
@@ -9,7 +9,7 @@ fuentes:
   - "Página de acceso abierto de los Standards: https://www.testingstandards.net/open-access-files.html"
 aliases: [bibliografía de evaluación educativa, lecturas de evaluación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de evaluación educativa

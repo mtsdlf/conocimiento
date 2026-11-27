@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una evaluación referida a norma dice cómo le fue a alguien comparado con los demás; una referida a criterio dice qué puede hacer, comparado con lo que había que saber. La distinción es de Glaser (1963), y esta base parte de que un curso que enseña una habilidad necesita la segunda.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Glaser (1963), Instructional technology and the measurement of learning outcomes: some questions, American Psychologist (solo el registro): https://doi.org/10.1037/h0049294"
@@ -9,7 +9,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [norm-referenced, criterion-referenced, evaluación referida a norma, evaluación referida a criterio, curva, calificar con curva, evaluación criterial]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Referencia a norma y a criterio

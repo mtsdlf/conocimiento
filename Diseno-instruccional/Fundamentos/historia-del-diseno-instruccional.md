@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El diseño instruccional nació de la formación militar de EE. UU. después de la Segunda Guerra, sobre la psicología conductista y la ingeniería de sistemas, y fue sumando capas: objetivos y taxonomías en los 50 y 60, modelos de sistemas en los 70, la psicología cognitiva y la carga cognitiva desde los 80, y modelos de tareas completas como 4C/ID.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Instructional design (Wikipedia): https://en.wikipedia.org/wiki/Instructional_design (página parcial)"
@@ -17,7 +17,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [historia del diseño instruccional, history of instructional design, ISD, instructional systems design, tecnología instruccional]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia del diseño instruccional
