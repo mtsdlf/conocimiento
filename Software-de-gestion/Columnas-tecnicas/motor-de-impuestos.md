@@ -21,7 +21,7 @@ revisado:
 
 El motor de impuestos es la parte del software de gestión que decide, renglón por renglón, qué impuestos lleva un comprobante, sobre qué base y con qué alícuota. Lo decide con la categoría fiscal del artículo, la condición fiscal de la parte, el lugar y la fecha. Después junta los renglones por categoría y alícuota y redondea con una regla que fija la norma o, si la norma deja elegir, el diseño.
 
-No es una columna técnica más: combina varias. Lee [datos maestros](datos-maestros-y-partes.md) (el artículo y la parte), busca [datos con vigencia](fechas-vigencias-y-cierre.md#vigencias-datos-que-valen-desde-y-hasta) (las alícuotas), redondea importes como pide [cantidades, unidades y monedas](cantidades-unidades-y-monedas.md) y deja su resultado dentro del [documento](documento-y-estados.md) que se confirma. El saber tributario de fondo es de [Impuestos](../../Impuestos/impuestos.md): qué es la [base y la alícuota](../../Impuestos/Obligacion-tributaria/hecho-imponible-y-base.md), quién es [sujeto](../../Impuestos/Obligacion-tributaria/sujetos-del-impuesto.md), qué país cobra según el [lugar de la operación](../../Impuestos/Impuestos-al-consumo/lugar-de-la-operacion.md). Acá va cómo lo calcula un sistema. Lo propio de la Argentina está en [impuestos y cuenta corriente en la Argentina](impuestos-y-cuenta-corriente-en-argentina.md).
+El motor combina varias columnas técnicas. Lee [datos maestros](datos-maestros-y-partes.md) (el artículo y la parte), busca [datos con vigencia](fechas-vigencias-y-cierre.md#vigencias-datos-que-valen-desde-y-hasta) (las alícuotas), redondea importes como pide [cantidades, unidades y monedas](cantidades-unidades-y-monedas.md) y deja su resultado dentro del [documento](documento-y-estados.md) que se confirma. El saber tributario de fondo es de [Impuestos](../../Impuestos/impuestos.md): qué es la [base y la alícuota](../../Impuestos/Obligacion-tributaria/hecho-imponible-y-base.md), quién es [sujeto](../../Impuestos/Obligacion-tributaria/sujetos-del-impuesto.md), qué país cobra según el [lugar de la operación](../../Impuestos/Impuestos-al-consumo/lugar-de-la-operacion.md). Acá va cómo lo calcula un sistema. Lo propio de la Argentina está en [impuestos y cuenta corriente en la Argentina](impuestos-y-cuenta-corriente-en-argentina.md).
 
 ## Lo que entra y lo que sale de cada renglón
 
@@ -37,11 +37,11 @@ El impuesto de un renglón depende del producto, de las partes, del lugar y de l
 
 Lo que sale es, por cada impuesto del renglón, una categoría, una alícuota y la base. Según qué estándar se siga, también el importe. Ese resultado se guarda en el renglón: el comprobante lo muestra y las [reglas de contabilización](registro-de-movimientos-y-dimensiones.md#del-documento-al-movimiento-las-reglas-de-contabilización) lo convierten en el asiento del débito o del crédito fiscal.
 
-Ningún estándar de factura dice cómo se determina la categoría. EN 16931, el modelo europeo de factura electrónica, exige que cada renglón la lleve: «Each Invoice line (BG-25) shall be categorized with an Invoiced item VAT category code (BT-151)» (regla BR-CO-04). De dónde sale queda fuera del estándar. Esa determinación es justamente el trabajo del motor.
+Ninguno de los estándares de factura leídos dice cómo se determina la categoría. EN 16931, el modelo europeo de factura electrónica, exige que cada renglón la lleve: «Each Invoice line (BG-25) shall be categorized with an Invoiced item VAT category code (BT-151)» (regla BR-CO-04). De dónde sale queda fuera del estándar. Esa determinación es trabajo del motor.
 
 ## La categoría fiscal mezcla tasa, exención y mecanismo
 
-La lista UNCL5305, que usa EN 16931, no es una lista de alícuotas. Según la versión que publica OpenPeppol, sus códigos son estos:
+La lista UNCL5305, que usa EN 16931, mezcla alícuotas, exenciones y mecanismos. Según la versión que publica OpenPeppol, sus códigos son estos:
 
 | Código | Nombre en la lista | Qué combina |
 |---|---|---|
@@ -56,11 +56,11 @@ La lista UNCL5305, que usa EN 16931, no es una lista de alícuotas. Según la ve
 
 Las reglas BR-Z, BR-E y BR-AE fijan en cero el impuesto de las categorías que no lo cobran. Una misma alícuota de cero, entonces, puede ser tasa cero, exención o inversión, y cada una tiene consecuencias distintas para el crédito de quien vende ([exento no es lo mismo que tasa cero](../../Impuestos/Impuestos-al-consumo/iva.md#exento-no-es-lo-mismo-que-tasa-cero)). Por eso el motor guarda la categoría y no solo el porcentaje.
 
-La consecuencia de diseño es una lectura de esta base. La categoría del renglón no es un campo del artículo: sale de cruzar el artículo con la parte y el lugar. El mismo producto va a S para un cliente local, a AE para una empresa de otro país que liquida el impuesto y a G si se exporta. Esa cruza se guarda mejor como una tabla de reglas configurable que como código: es el [nivel de conocimiento](configurar-o-personalizar.md#el-nivel-de-conocimiento-comportamiento-guardado-como-datos) aplicado a los impuestos. Así, cuando cambia la norma, alguien carga una regla y no hace falta reprogramar.
+En lectura de esta base, la categoría del renglón sale de cruzar el artículo con la parte y el lugar. El mismo producto va a S para un cliente local, a AE para una empresa de otro país que liquida el impuesto y a G si se exporta. Esa cruza se guarda mejor como una tabla de reglas configurable que como código: es el [nivel de conocimiento](configurar-o-personalizar.md#el-nivel-de-conocimiento-comportamiento-guardado-como-datos) aplicado a los impuestos. Así, cuando cambia la norma, alguien carga una regla y no hace falta reprogramar.
 
 ## Alícuotas y límites con fecha de vigencia
 
-Una alícuota es un dato con vigencia: una nota de crédito sobre una factura vieja tiene que usar la tasa de ese día, no la de hoy ([vigencias](fechas-vigencias-y-cierre.md#vigencias-datos-que-valen-desde-y-hasta)). Donde varias jurisdicciones cobran a la vez sobre la misma venta, también cambian los límites de cada una.
+Una alícuota es un dato con vigencia: en la lectura de [vigencias](fechas-vigencias-y-cierre.md#vigencias-datos-que-valen-desde-y-hasta), una nota de crédito sobre una factura vieja tiene que usar la tasa de ese día y no la de hoy. Donde varias jurisdicciones cobran a la vez sobre la misma venta, también cambian los límites de cada una.
 
 El acuerdo de los estados de EE. UU. para simplificar el impuesto a las ventas (Streamlined Sales and Use Tax Agreement, SSUTA) es el texto más detallado leído sobre cómo se mantiene ese dato. Su sección 305 obliga a cada estado miembro a:
 
@@ -92,13 +92,13 @@ Redondear el impuesto de cada renglón y sumar no da lo mismo que sumar las base
 | Por renglón | 2,1525 redondeado a 2,15, tres veces | 6,45 |
 | Por total de la alícuota | 30,75 × 21 % = 6,4575, redondeado | 6,46 |
 
-Un centavo por comprobante parece poco, pero sobre miles de comprobantes separa el libro de IVA de lo que el cliente registró como crédito. Las normas leídas no coinciden en cuál es la forma correcta:
+En lectura de esta base, un centavo por comprobante parece poco, pero sobre miles de comprobantes separa el libro de IVA de lo que el cliente registró como crédito. Las normas leídas no coinciden en cuál es la forma correcta:
 
 | Fuente | Qué pide |
 |---|---|
 | EN 16931 (BIS Billing 3.0, §9 y BR-CO-17) | redondear el neto de cada renglón a dos decimales y el impuesto una vez por categoría y alícuota; «Results from calculations involving already rounded amounts are not subject to rounding» |
-| HMRC, VAT Notice 700 (Reino Unido), §17.5 | quien factura puede redondear hacia abajo el total al penique entero; si calcula por renglón, redondea cada uno a 0,1 o a 1 penique, y «Whatever you decide, you must be consistent» |
-| HMRC, VAT Notice 700, §17.6 | el minorista que calcula por renglón o por factura «must not round the VAT figure down», pero puede redondear cada cálculo hacia arriba o hacia abajo |
+| HMRC, VAT Notice 700 (Reino Unido), §17.5 | quien factura puede redondear hacia abajo el total al penique entero; si calcula por renglón, redondea cada uno hacia abajo a 0,1 penique o al más cercano de 1 o 0,5 penique, y «Whatever you decide, you must be consistent» |
+| HMRC, VAT Notice 700, §17.6 | el minorista que no usa un esquema especial para minoristas y calcula por renglón o por factura «must not round the VAT figure down», pero puede redondear cada cálculo hacia arriba o hacia abajo |
 | SSUTA, sección 324 (EE. UU.) | calcular hasta el tercer decimal y redondear al centavo hacia arriba «whenever the third decimal place is greater than four»; cada estado deja elegir «on an item or an invoice basis» y aplicar el redondeo a la suma de los impuestos estatales y locales |
 | Manual del web service de factura electrónica de ARCA (Argentina) | no fija una forma; acepta diferencias chicas entre lo informado y lo calculado ([impuestos y cuenta corriente en la Argentina](impuestos-y-cuenta-corriente-en-argentina.md#la-tolerancia-del-fisco-al-redondeo)) |
 
@@ -137,13 +137,13 @@ Un sistema puede calcular con tablas propias o llamar a un servicio que mantiene
 - Un sistema certificado (certified automated system) es el «Software certified under the Agreement to calculate the tax imposed by each jurisdiction on a transaction, determine the amount of tax to remit to the appropriate state, and maintain a record of the transaction» (sección 202).
 - Un proveedor certificado (certified service provider) es «An agent certified under the Agreement to perform the seller's sales and use tax functions», salvo el impuesto sobre sus propias compras (sección 203).
 
-La diferencia que importa es quién paga por el error. El estado releva a vendedores y proveedores certificados de responsabilidad por cobrar de menos o de más cuando confiaron en «erroneous data provided by a member state on tax rates, boundaries, or taxing jurisdiction assignments» (sección 306). Un vendedor que usa un sistema certificado por el estado, aunque sea propio, se presume con práctica comercial razonable (sección 325).
+La diferencia que importa es quién paga por el error. El estado releva de responsabilidad por cobrar de menos o de más a los vendedores y proveedores certificados que usan las bases de datos del estado, cuando el error viene de «erroneous data provided by a member state on tax rates, boundaries, or taxing jurisdiction assignments» (sección 306). Y cuando un comprador pide la devolución de un impuesto cobrado de más, el vendedor que usó un proveedor o un sistema certificado por el estado, aunque sea propio, y remitió lo cobrado se presume con práctica comercial razonable (sección 325).
 
 En lectura de esta base, la pregunta de diseño tiene dos partes: quién mantiene al día las tablas de alícuotas, límites y categorías, y quién responde cuando están mal. Con un servicio externo, el motor pasa a ser una [integración](integracion-y-migracion.md) con un sistema que manda en ese dato, y el comprobante tiene que poder emitirse, o esperar, cuando el servicio no responde.
 
 ## Lo que también calcula el motor: la recaudación en la fuente
 
-Además del impuesto de la operación, el motor de quien es [agente de recaudación](../../Impuestos/Recaudacion-en-la-fuente/agente-de-recaudacion.md) calcula las percepciones que suma a la factura. Una percepción se calcula como un impuesto más del comprobante, con su base, su alícuota y su vigencia, pero la alícuota suele depender del cliente y no del artículo ([retención y percepción](../../Impuestos/Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md#retención-y-percepción)). La retención, en cambio, se practica al pagar y no en la factura: se modela en la [cuenta corriente](cuenta-corriente-y-aplicacion.md#los-impuestos-que-cancelan-deuda-retenciones-y-percepciones).
+Además del impuesto de la operación, el motor de quien es [agente de recaudación](../../Impuestos/Recaudacion-en-la-fuente/agente-de-recaudacion.md) calcula las percepciones que suma a la factura. Una percepción se calcula como un impuesto más del comprobante, con su base, su alícuota y su vigencia, pero en los regímenes de padrón leídos la alícuota depende del cliente y no del artículo ([impuestos y cuenta corriente en la Argentina](impuestos-y-cuenta-corriente-en-argentina.md#la-alícuota-de-percepción-sale-del-padrón-de-cada-provincia); [retención y percepción](../../Impuestos/Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md#retención-y-percepción)). La retención, en cambio, se practica al pagar y no en la factura: se modela en la [cuenta corriente](cuenta-corriente-y-aplicacion.md#los-impuestos-que-cancelan-deuda-retenciones-y-percepciones).
 
 ## Cómo falla el motor
 

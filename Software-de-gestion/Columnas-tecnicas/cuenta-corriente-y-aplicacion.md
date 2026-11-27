@@ -14,6 +14,8 @@ fuentes:
   - "IAS 21 (NIC 21), párrafos 28 y 29, en una copia del texto IFRS alojada por una universidad: https://ktkt.uel.edu.vn/Resources/Docs/SubDomain/ktkt/VanBan/IAS/ias21_en.pdf"
   - "Documentación de un software de gestión para servicios públicos, Open-Item Versus Balance-Forward Accounting (como evidencia de práctica, según el lector de la página): https://docs.oracle.com/en/industries/energy-water/ccb/29011/ccb-user-guides/Topics/C1_03Finan_Open_Item_Versus_Balance_Forward_.html"
   - "Documentación de un ERP, partidas residuales (como evidencia de práctica, según el lector de la página): https://help.sap.com/saphelp_46c/helpdata/en/01/a9bba1455711d182b40000e829fbfe/content.htm"
+  - "Glendale Community College, Chapter Four, Accounts Receivable, apunte de curso sobre un software contable (según el resumen del buscador): https://gcc.glendale.edu/ckloezem/Book/arbasics.doc"
+  - "Documentación de un software de gestión para la construcción, resúmenes de cuenta (como evidencia de práctica, según el resumen del buscador): https://help.trimble.com/en/vista/vista/accounting/accounts-receivable/invoices/statements"
   - "Software-de-gestion/.investigacion/modelo-de-la-deuda.md (2026-11-27)"
 aliases: [cuenta corriente en el sistema, modelo de la deuda, partida abierta, partidas abiertas, open item, open items, saldo corriente, balance forward, vencimiento, due date, cuotas, installments, condición de pago, payment terms, aplicación, aplicación de pagos, imputación, application, allocation, desaplicar, compensación, netting, partida residual, residual item, remesa estructurada, structured remittance, referencia del acreedor, creditor reference, RF]
 creado: 2026-11-27
@@ -24,41 +26,41 @@ revisado:
 
 En un software de gestión, la deuda con cada cliente y con cada proveedor se modela como partidas. Cada comprobante deja una partida por vencimiento con su saldo pendiente, y cada cobro o pago deja una partida de signo contrario. Una aplicación registra cuánto de una cancela a la otra. El saldo de la cuenta corriente no se guarda aparte: es la suma de las partidas, y la antigüedad se calcula sobre las que siguen abiertas.
 
-La contabilidad ya dice qué es una cuenta corriente: el libro auxiliar de cada cliente y proveedor, cuya suma tiene que coincidir con la cuenta de control del mayor ([cuentas corrientes](../../Contabilidad/Registro/cuentas-corrientes.md)). La tesorería dice qué tarea es aplicar un cobro y qué casos aparecen ([aplicación de cobros](../../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md)). Lo que agrega esta nota es el modelo de datos que sostiene las dos cosas. Es una pieza que combina columnas: la partida es un [movimiento](registro-de-movimientos-y-dimensiones.md), su vencimiento es una [fecha](fechas-vigencias-y-cierre.md) y su importe lleva [moneda](cantidades-unidades-y-monedas.md).
+La contabilidad ya dice qué es una cuenta corriente: el libro auxiliar de cada cliente y proveedor, cuya suma tiene que coincidir con la cuenta de control del mayor ([cuentas corrientes](../../Contabilidad/Registro/cuentas-corrientes.md)). La tesorería dice qué tarea es aplicar un cobro y qué casos aparecen ([aplicación de cobros](../../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md)). El modelo de datos que sostiene las dos cosas combina columnas: la partida es un [movimiento](registro-de-movimientos-y-dimensiones.md), su vencimiento es una [fecha](fechas-vigencias-y-cierre.md) y su importe lleva [moneda](cantidades-unidades-y-monedas.md).
 
 ## Partidas abiertas o saldo corriente
 
-Hay dos maneras de llevar lo que debe un cliente, y la documentación de los productos las nombra como *open item* y *balance forward*:
+Hay dos maneras de llevar lo que debe un cliente, y la documentación de los productos las nombra como *open item* y *balance forward*. La tabla resume la documentación de un software de facturación de servicios públicos, según el lector de la página y no con su texto literal:
 
 | Método | Cómo trata un cobro | Qué cuenta como deuda vencida |
 |---|---|---|
 | Partidas abiertas | se aplica a facturas y ajustes concretos | solo las partidas que no se cancelaron |
 | Saldo corriente | no se asocia a una factura: baja el saldo | los débitos envejecen y el cobro cancela primero lo más viejo |
 
-Según un apunte de curso sobre un software contable, con partidas abiertas «The invoice is considered an open item (invoice) until its balance is $0», y con saldo corriente «The balance is the amount due for the customer and is not listed by invoice number».
+Según un apunte de curso sobre un software contable, leído por el resumen del buscador, con partidas abiertas «The invoice is considered an open item (invoice) until its balance is $0», y con saldo corriente «The balance is the amount due for the customer and is not listed by invoice number».
 
-Las fuentes leídas no fijan un criterio general para elegir. En la documentación de un software de facturación de servicios públicos, el método se define por clase de cliente: saldo corriente para los residenciales, partidas abiertas para los industriales y comerciales. Otro producto deja aplicar los cobros por partidas y emitir el resumen de cuenta como saldo corriente, así que la palabra también puede referirse al formato del resumen. Todo esto es evidencia de práctica, leída por el lector de la página. El pasaje de un libro de texto de sistemas contables que defina los dos métodos no se encontró.
+Las fuentes leídas no fijan un criterio general para elegir. En la documentación de un software de facturación de servicios públicos, el método se define por clase de cliente: saldo corriente para los residenciales, partidas abiertas para los industriales y comerciales. Otro producto deja aplicar los cobros por partidas y emitir el resumen de cuenta como saldo corriente, así que la palabra también puede referirse al formato del resumen. Todo esto es evidencia de práctica y de fuentes secundarias, leída por el lector de la página o por el resumen del buscador. El pasaje de un libro de texto de sistemas contables que defina los dos métodos no se encontró.
 
 En lectura de esta base, un sistema para empresas que se facturan entre sí lleva partidas abiertas. Hay tres motivos, y cada uno está en otra nota de la base: la antigüedad se calcula por comprobante ([cuentas corrientes](../../Contabilidad/Registro/cuentas-corrientes.md#lo-que-un-registro-tiene-que-poder-hacer)), el cliente discute facturas concretas ([disputas y deducciones](../../Tesoreria/Credito-y-cobranzas/gestion-de-la-cobranza.md#disputas-y-deducciones)) y las retenciones se practican sobre facturas concretas. El saldo corriente sirve cuando se le factura lo mismo cada mes a muchos clientes chicos.
 
 ## Del comprobante a sus vencimientos
 
-Una factura no es una partida: deja una por cada vencimiento. La [condición de pago](../../Tesoreria/Credito-y-cobranzas/credito-a-clientes.md#la-condición-de-pago-y-los-plazos-usuales) dice cuántas partidas, cuándo vence cada una y si hay descuento por pronto pago. Vive en las [condiciones comerciales](../../Relacion-con-clientes/Registro-del-cliente/condiciones-comerciales.md) del cliente y se copia al comprobante.
+Una factura deja una partida por cada vencimiento. La [condición de pago](../../Tesoreria/Credito-y-cobranzas/credito-a-clientes.md#la-condición-de-pago-y-los-plazos-usuales) dice cuántas partidas, cuándo vence cada una y si hay descuento por pronto pago. Vive en las [condiciones comerciales](../../Relacion-con-clientes/Registro-del-cliente/condiciones-comerciales.md) del cliente y se copia al comprobante.
 
-UBL 2.1 permite que una factura lleve varios juegos de condiciones de pago (`PaymentTerms`, cardinalidad 0..n en el esquema de la factura). Cada juego puede llevar:
+UBL 2.1 permite que una factura lleve varios juegos de condiciones de pago (`PaymentTerms`, cardinalidad 0..n en el esquema de la factura); la BIS Billing 3.0 de OpenPeppol, que implementa EN 16931, lo restringe a uno. Cada juego puede llevar:
 
 - `PaymentDueDate`, «The due date for these payment terms», o `InstallmentDueDate`, el vencimiento de una cuota;
-- `PaymentPercent` o `Amount`, la parte del total que cubre;
+- `PaymentPercent` o `Amount`, la parte del total que cubre (si el total no se divide exacto, el centavo que sobra va a una de las cuotas, como en el reparto de [importes con moneda](cantidades-unidades-y-monedas.md#importes-con-moneda));
 - `SettlementDiscountPercent`, `SettlementDiscountAmount` y `SettlementPeriod`, el descuento por pronto pago y su plazo;
 - `PenaltySurchargePercent` y `PenaltyAmount`, el recargo por pagar después.
 
-EN 16931, el modelo europeo, es más angosto. Tiene una sola fecha de vencimiento estructurada (BT-9) y las condiciones como texto libre (BT-20), y exige una de las dos si queda algo por pagar: «In case the Amount due for payment (BT-115) is positive, either the Payment due date (BT-9) or the Payment terms (BT-20) shall be present» (BR-CO-25). Lo que queda por pagar es el total con IVA, menos lo ya pagado, más el redondeo (BR-CO-16). Un anticipo cobrado antes de facturar viaja así en la misma factura.
+EN 16931, el modelo europeo, es más angosto. Tiene una sola fecha de vencimiento estructurada (BT-9) y las condiciones como texto libre (BT-20), y exige una de las dos si queda algo por pagar: «In case the Amount due for payment (BT-115) is positive, either the Payment due date (BT-9) or the Payment terms (BT-20) shall be present» (BR-CO-25). Lo que queda por pagar es el total con IVA, menos lo ya pagado, más el redondeo (BR-CO-16). En lectura de esta base, así viaja en la misma factura un anticipo cobrado antes de facturar.
 
 En lectura de esta base, el sistema calcula los vencimientos al confirmar el comprobante y los guarda en las partidas, como pide [programación de pagos](../../Tesoreria/Pagos-a-proveedores/programacion-de-pagos.md#la-condición-de-pago-fija-dos-fechas) del lado de los proveedores. Si los recalculara cada vez a partir de la condición, un cambio en la ficha del cliente movería los vencimientos de facturas ya emitidas.
 
 ## El saldo es una suma, no un campo
 
-Fowler lo dice para cualquier cuenta: «The value, or balance, of the Account is derived as the sum of all the Accounting Entrys». Permite guardar el saldo actual como caché, para no sumar cada vez, siempre que se pueda reconstruir desde los movimientos. Sus patrones no hablan de facturas ni de partidas abiertas. Aplicarlos a la cuenta corriente es lectura de esta base.
+Fowler lo dice para cualquier cuenta: «The value, or balance, of the Account is derived as the sum of all the Accounting Entrys». Permite guardar el saldo actual como caché, para no sumar cada vez, y reemplazar asientos viejos por uno consolidado, a costa de perder el detalle. Sus patrones no hablan de facturas ni de partidas abiertas. Aplicarlos a la cuenta corriente es lectura de esta base.
 
 Con partidas, hay dos saldos y los dos se derivan:
 
@@ -108,7 +110,7 @@ La [recaudación en la fuente](../../Impuestos/Recaudacion-en-la-fuente/recaudac
 - La percepción la calcula el [motor de impuestos](motor-de-impuestos.md) al facturar y es parte de lo que el cliente debe. Entra en la partida de la factura.
 - La retención se practica al pagar. Quien paga entrega menos plata y un comprobante de retención, y la factura se cancela con las dos cosas. Para el modelo, el comprobante de retención es otra partida acreedora que se aplica a la factura, con su número y su régimen.
 
-Del lado del cobro, la retención sufrida no es una deuda perdonada: es un [pago a cuenta](../../Impuestos/Recaudacion-en-la-fuente/pagos-a-cuenta.md) de un impuesto propio, que la contabilidad lleva a una cuenta de impuestos y no a una pérdida. Cuándo cancela la factura, si al recibir el certificado o al validarlo, sigue sin fuente, como dice [las retenciones sufridas](../../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md#las-retenciones-sufridas). El caso argentino está en [impuestos y cuenta corriente en la Argentina](impuestos-y-cuenta-corriente-en-argentina.md#el-recibo-y-la-orden-de-pago-con-retenciones).
+Del lado del cobro, la retención sufrida es un [pago a cuenta](../../Impuestos/Recaudacion-en-la-fuente/pagos-a-cuenta.md) de un impuesto propio, que la contabilidad lleva a una cuenta de impuestos y no a una pérdida. El momento en que cancela la factura (al recibir el certificado o al validarlo) sigue sin fuente, como dice [las retenciones sufridas](../../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md#las-retenciones-sufridas). El caso argentino está en [impuestos y cuenta corriente en la Argentina](impuestos-y-cuenta-corriente-en-argentina.md#el-recibo-y-la-orden-de-pago-con-retenciones).
 
 ## Vencida, morosa y con intereses
 
