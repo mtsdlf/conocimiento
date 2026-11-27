@@ -50,7 +50,7 @@ Estos pasos son de esta base, sin fuente que los haya probado. Según el resumen
 
 ## El feedback 360 y la ventana de Johari
 
-El feedback 360 junta calificaciones de jefes, pares, colaboradores y la propia, y las compara. Según el resumen del buscador, el metaanálisis de Smither, London y Reilly (2005), con 24 estudios longitudinales, encontró que la mejora de las calificaciones con el tiempo es en general pequeña. En coaching, el feedback multifuente aparece como moderador del efecto, como cuenta [evidencia del coaching](../Coaching/evidencia-del-coaching.md).
+El feedback 360 junta calificaciones de jefes, pares, colaboradores y la propia, y las compara. Según el resumen del buscador, el metaanálisis de Smither, London y Reilly (2005), con 24 estudios longitudinales, encontró que la mejora de las calificaciones con el tiempo es en general pequeña. En coaching, el feedback multifuente aparece como moderador del efecto, como cuenta [evidencia del coaching](../Coaching/evidencia-del-coaching.md). Cuánto de una calificación de jefes, pares y subordinados depende de quien califica está en [evaluación del desempeño](../../Liderazgo-y-direccion/Gestion-de-personas/evaluacion-del-desempeno.md#más-de-la-mitad-de-una-calificación-es-el-evaluador), en Liderazgo y dirección.
 
 La ventana de Johari ordena lo que uno sabe de sí en cuatro cuadrantes: lo que saben uno y los otros, lo que solo saben los otros (el punto ciego), lo que solo sabe uno y lo que nadie sabe. La única validación que apareció es de 1983, de Shapiro, Heil y Hager, como medida de autorrevelación, y solo se leyó su título.
 

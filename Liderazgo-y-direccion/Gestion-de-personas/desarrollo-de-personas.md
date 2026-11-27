@@ -46,7 +46,7 @@ Dos metaanálisis encuentran efectos positivos del coaching:
 | Theeboom, Beersma y van Vianen (2014) | Efectos en todos los resultados, de «g = 0.43 (coping) to g = 0.74 (goal-directed self-regulation)» | Cinco categorías de resultados, calidad de estudios dispar |
 | Jones, Woods y Guillaume (2016), k = 17 | δ = 0.36 sobre resultados organizacionales (habilidades .28, afectivos .51, resultados individuales 1.24); mayor con coaches internos que externos, menor si se suma feedback de varias fuentes | Excluye el coaching del jefe a su equipo y entre pares |
 
-La segunda exclusión pesa para una empresa chica: lo que un jefe hace con su equipo no está en esos datos. Con muestras chicas y sin ciego, no se puede separar cuánto del efecto es la expectativa de quien recibe el coaching.
+La segunda exclusión pesa para una empresa chica: lo que un jefe hace con su equipo no está en esos datos. Con muestras chicas y sin ciego, no se puede separar cuánto del efecto es la expectativa de quien recibe el coaching. El coaching visto desde quien lo contrata para sí, con más metaanálisis y el ajuste por sesgo de publicación, está en [evidencia del coaching](../../Desarrollo-personal/Coaching/evidencia-del-coaching.md), en Desarrollo personal.
 
 ## El entrenamiento de liderazgo funciona mejor de lo que se creía
 

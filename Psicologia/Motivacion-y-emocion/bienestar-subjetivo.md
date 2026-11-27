@@ -63,7 +63,7 @@ Diener, Lucas y Scollon (2006) revisaron la teoría, según un resumen: el punto
 
 ## Las intervenciones de psicología positiva tienen efectos chicos
 
-Según un resumen, White, Uttl y Holder (2019) reanalizaron dos metaanálisis: el de Bolier había dado r = 0,17 (d = 0,34) sobre el bienestar subjetivo, y al corregir el sesgo de los estudios con muestras chicas el efecto quedó «small but significant (approximately r = .10)». Sobre la depresión el efecto fue variable y en general no significativo.
+Según un resumen, White, Uttl y Holder (2019) reanalizaron dos metaanálisis: el de Bolier había dado r = 0,17 (d = 0,34) sobre el bienestar subjetivo, y al corregir el sesgo de los estudios con muestras chicas el efecto de las intervenciones en conjunto quedó «small but significant (approximately r = .10)». Para el bienestar subjetivo con los datos de Bolier dan 0,13, como detalla [intervenciones de psicología positiva](../../Desarrollo-personal/Emociones-y-bienestar/intervenciones-de-psicologia-positiva.md). Sobre la depresión el efecto fue variable y en general no significativo.
 
 ## Leer la corrección como método
 

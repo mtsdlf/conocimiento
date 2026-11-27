@@ -56,6 +56,6 @@ El ensayo más grande es el de Stieger y otros (2021): 1.523 personas, una app (
 
 ## Lo que esto no dice
 
-Los estudios duran de 16 semanas a tres meses, y Hudson y Fraley hablan de cambios «very modest». Cómo se practica un cambio así en la vida propia es asunto del tema Desarrollo personal, que todavía no está escrito.
+Los estudios duran de 16 semanas a tres meses, y Hudson y Fraley hablan de cambios «very modest». Desarrollo personal no tiene una nota sobre cambiar un rasgo; cómo se practica un cambio de conducta en la vida propia está en [Hábitos y cambio](../../Desarrollo-personal/Habitos-y-cambio/habitos-y-cambio.md).
 
 Por qué funciona el cambio voluntario no quedó registrado en estas fuentes; el tema vecino es la [formación de hábitos](../Aprendizaje-y-memoria/formacion-de-habitos.md).

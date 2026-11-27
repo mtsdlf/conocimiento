@@ -56,7 +56,7 @@ Para seleccionar personal, la capacidad mental general dejó de encabezar el ran
 | La capacidad mental general es el mejor predictor laboral | Cayó: en la tabla de 2022 baja de .51 a .31 y queda quinta, detrás de la entrevista estructurada (.42) |
 | El grit es un rasgo nuevo | Se correlaciona muy fuerte con la responsabilidad |
 
-Cómo se usa esto para contratar está en [contratar](../../Liderazgo-y-direccion/Gestion-de-personas/contratar.md), en Liderazgo y dirección, y cómo se trabaja la propia personalidad, en Desarrollo personal, que todavía no está escrito.
+Cómo se usa esto para contratar está en [contratar](../../Liderazgo-y-direccion/Gestion-de-personas/contratar.md), en Liderazgo y dirección, y cómo se usa para conocerse, en [Autoconocimiento](../../Desarrollo-personal/Autoconocimiento/autoconocimiento.md), en Desarrollo personal.
 
 ## Qué hay adentro de la personalidad
 

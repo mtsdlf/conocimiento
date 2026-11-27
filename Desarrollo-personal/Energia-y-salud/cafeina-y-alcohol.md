@@ -24,7 +24,7 @@ La cafeína y el alcohol son dos sustancias de uso diario que afectan el sueño 
 > [!WARNING]
 > No reemplaza a un profesional de la salud. Las cantidades son textuales de organismos y no se ajustan a nadie en particular. Un embarazo, una medicación o una condición de salud cambian lo que conviene, y un consumo de alcohol que cuesta controlar es motivo para [consultar](../Emociones-y-bienestar/cuando-consultar.md).
 
-Dentro de [Energía y salud](energia-y-salud.md) entran por su efecto en el [sueño](sueno.md): la alimentación en general queda fuera del tema. Las dos se usan para manejar la energía del día (la cafeína para despertarse, el alcohol para aflojar), y las dos pueden empeorar justamente la noche que repone esa energía.
+Dentro de [Energía y salud](energia-y-salud.md) entran por su efecto en el [sueño](sueno.md): la alimentación en general queda fuera del tema y vive en [Nutrición](../../Nutricion/nutricion.md), donde la cafeína para entrenar está en [rendimiento](../../Nutricion/Objetivos-del-adulto/rendimiento.md) y el alcohol como riesgo para la salud, en [salud a largo plazo](../../Nutricion/Objetivos-del-adulto/salud-a-largo-plazo.md). Las dos se usan para manejar la energía del día (la cafeína para despertarse, el alcohol para aflojar), y las dos pueden empeorar justamente la noche que repone esa energía.
 
 ## La cafeína de la tarde llega a la noche
 

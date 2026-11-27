@@ -62,6 +62,8 @@ Lo que sigue es inferencia desde las fuentes de arriba, no una guía:
 3. Si perdiste la paciencia, repará: volvé, nombrá lo que pasó y retomá el vínculo. Volver después de un desencuentro es la reparación que describen esos estudios.
 4. Si la tristeza o la ansiedad duran semanas, consultá a un profesional; la depresión tiene tratamiento.
 
+Lo que tiene evidencia para cuidarse como adulto, más allá de la crianza, está en Desarrollo personal: el [sueño](../../Desarrollo-personal/Energia-y-salud/sueno.md), [manejar el estrés](../../Desarrollo-personal/Emociones-y-bienestar/manejar-el-estres.md), el choque entre el [trabajo y la familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md) y [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md).
+
 > [!NOTE]
 > Sin fuente todavía: estrés parental no depresivo (sueño, carga, agotamiento); depresión posparto y su efecto sobre el vínculo; eficacia de las intervenciones para padres con depresión.
 

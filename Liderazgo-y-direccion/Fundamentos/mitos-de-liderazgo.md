@@ -103,7 +103,7 @@ Levitt y List (2011) recuperaron los datos de iluminación: «Existing descripti
 
 ## Una pose de poder te hace más seguro
 
-El estudio original de Carney, Cuddy y Yap (2010) tenía 42 personas. En 2016 Carney dijo que ya no cree que «power pose effects are real», según NPR; las réplicas están en la nota de Psicología. Lo subjetivo, sentirse con más poder, sigue en disputa.
+El estudio original de Carney, Cuddy y Yap (2010) tenía 42 personas. En 2016 Carney dijo que ya no cree que «power pose effects are real», según NPR; las réplicas están en [crisis de replicación](../../Psicologia/Fundamentos/crisis-de-replicacion.md). Lo subjetivo, sentirse con más poder, sigue en disputa, como cuenta [mitos del desarrollo personal](../../Desarrollo-personal/Fundamentos/mitos-del-desarrollo-personal.md).
 
 ## A las 150 personas la empresa se rompe
 

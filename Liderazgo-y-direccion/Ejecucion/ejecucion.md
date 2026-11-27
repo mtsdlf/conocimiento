@@ -24,7 +24,7 @@ revisado: 2026-11-27
 
 La ejecución es cómo una estrategia se vuelve trabajo hecho cada semana: pocas prioridades, metas medibles, revisiones regulares, reuniones que sirven y un responsable por cada compromiso. Que gestionar así rinde tiene un experimento aleatorio a favor; casi todas las herramientas concretas son de practicantes.
 
-Es la parte de dirigir del tema (fijar rumbo, organizar, hacer cumplir), más que la de liderar. Recibe de [Decidir](../Decidir/decidir.md) las prioridades y devuelve lo que se midió para corregirlas. El [Rol del CEO](../Rol-del-CEO/rol-del-ceo.md) marca su ritmo, y [Gestión de personas](../Gestion-de-personas/gestion-de-personas.md) pone a las personas que ejecutan, con sus [uno a uno](../Gestion-de-personas/reuniones-uno-a-uno.md) y su evaluación. Qué estrategia elegir antes de ejecutarla es de [estrategia competitiva](../../Estrategia-competitiva/estrategia-competitiva.md).
+Es la parte de dirigir del tema (fijar rumbo, organizar, hacer cumplir), más que la de liderar. Recibe de [Decidir](../Decidir/decidir.md) las prioridades y devuelve lo que se midió para corregirlas. Ordenar el trabajo propio, y no el de un equipo, es [Efectividad personal](../../Desarrollo-personal/Efectividad-personal/efectividad-personal.md), en Desarrollo personal. El [Rol del CEO](../Rol-del-CEO/rol-del-ceo.md) marca su ritmo, y [Gestión de personas](../Gestion-de-personas/gestion-de-personas.md) pone a las personas que ejecutan, con sus [uno a uno](../Gestion-de-personas/reuniones-uno-a-uno.md) y su evaluación. Qué estrategia elegir antes de ejecutarla es de [estrategia competitiva](../../Estrategia-competitiva/estrategia-competitiva.md).
 
 ## La cadena de la estrategia a la semana
 

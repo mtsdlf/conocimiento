@@ -53,7 +53,7 @@ Si pesa la expectativa y no el tiempo, una regla de equipo explícita podría ca
 
 La Ley 27.555 de teletrabajo tiene un artículo 5 sobre desconexión digital. Su texto literal: «La persona que trabaja bajo la modalidad de teletrabajo tendrá derecho a no ser contactada y a desconectarse de los dispositivos digitales y/o tecnologías de la información y comunicación, fuera de su jornada laboral y durante los períodos de licencias. No podrá ser sancionada por hacer uso de este derecho. El empleador no podrá exigir a la persona que trabaja la realización de tareas, ni remitirle comunicaciones, por ningún medio, fuera de la jornada laboral.»
 
-El alcance es acotado. Aplica a quien trabaja en relación de dependencia bajo la modalidad de teletrabajo, no a socios ni a founders. Según el buscador, el Decreto 27/2021 admite excepciones por husos horarios o por una razón objetiva indispensable, y prohíbe incentivos condicionados a no desconectarse; el decreto no se leyó. Una nota de prensa de 2026 menciona una reglamentación parcial posterior, sin alcance confirmado.
+El alcance es acotado. Aplica a quien trabaja en relación de dependencia bajo la modalidad de teletrabajo, no a socios ni a founders. Qué hace el teletrabajo con el conflicto entre trabajo y familia, según el metaanálisis de Gajendran y Harrison, está en [trabajo remoto e híbrido](../../Liderazgo-y-direccion/Equipos-y-cultura/trabajo-remoto-e-hibrido.md). Según el buscador, el Decreto 27/2021 admite excepciones por husos horarios o por una razón objetiva indispensable, y prohíbe incentivos condicionados a no desconectarse; el decreto no se leyó. Una nota de prensa de 2026 menciona una reglamentación parcial posterior, sin alcance confirmado.
 
 Es una sola fuente primaria (el texto de la ley), y su vigencia en 2026 no está verificada. Se cita como contexto de una norma social, no como asesoramiento legal: ante un caso concreto hace falta consultar a un abogado laboral.
 
@@ -63,6 +63,8 @@ Milkie, Nomaguchi y Denny (2015), con datos de un panel de EEUU, encontraron que
 
 > [!IMPORTANT]
 > **El estudio de Milkie está discutido.** Según la nota del NICHD, Mayer y Kalil criticaron el marco, las medidas y la estimación, y Waldfogel lo describió como un cuadro mixto. Los propios autores aclararon que no es «the definitive study». No alcanza para concluir que el tiempo con los hijos no importa.
+
+Cómo llega al chico el estado del adulto que lo cría (la depresión, el agotamiento) está en [bienestar de los padres](../../Crianza/Vinculo/bienestar-de-los-padres.md), en Crianza.
 
 Para emprendedores, Powell y Eddleston (2013) estudian el enriquecimiento entre familia y negocio, y una revisión indica que el conflicto y el enriquecimiento parecen afectar más a las mujeres. La investigación no encontró evidencia específica sobre founders con hijos chicos.
 

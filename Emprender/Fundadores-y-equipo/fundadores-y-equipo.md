@@ -22,7 +22,7 @@ revisado: 2026-11-22
 
 Fundadores y equipo es cómo se reparten entre quienes fundan la propiedad, las decisiones y el trabajo de una empresa nueva, y cuándo y cómo se suman las primeras personas.
 
-Es la parte que ejecuta a las demás: quienes fundan prueban las hipótesis de [Validación](../Validacion/validacion.md), arman el [modelo de negocio](../Modelo-de-negocio/modelo-de-negocio.md) y deciden cuándo pivotar. Cada contratación sube el consumo mensual que mide [Finanzas](../Finanzas/finanzas.md), y el reparto de la propiedad se escribe en la forma legal que se elija en [Legal e impuestos](../Legal-e-impuestos/legal-e-impuestos.md).
+Es la parte que ejecuta a las demás: quienes fundan prueban las hipótesis de [Validación](../Validacion/validacion.md), arman el [modelo de negocio](../Modelo-de-negocio/modelo-de-negocio.md) y deciden cuándo pivotar. Cada contratación sube el consumo mensual que mide [Finanzas](../Finanzas/finanzas.md), y el reparto de la propiedad se escribe en la forma legal que se elija en [Legal e impuestos](../Legal-e-impuestos/legal-e-impuestos.md). Lo que fundar le hace por dentro a quien funda (el estrés, la soledad, la empresa vuelta identidad) está en [El founder por dentro](../../Desarrollo-personal/El-founder-por-dentro/el-founder-por-dentro.md), en Desarrollo personal.
 
 ## Cómo se reparte la propiedad
 

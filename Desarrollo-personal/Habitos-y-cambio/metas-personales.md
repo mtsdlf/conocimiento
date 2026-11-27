@@ -20,7 +20,7 @@ revisado: 2026-11-27
 
 Una meta personal es un resultado que uno elige para sí y que ordena la conducta durante un tiempo. Dos técnicas tienen metaanálisis: el contraste mental con planes si-entonces (lo que se difunde como WOOP), con un efecto pequeño a mediano que puede estar inflado, y registrar el progreso, que ayuda más si se registra de forma física y se hace público.
 
-La teoría de por qué una meta específica y difícil rinde más que una vaga, y cuándo una meta hace daño, está en [establecimiento de metas](../../Psicologia/Motivacion-y-emocion/establecimiento-de-metas.md). El plan que ata la meta a una situación es una [intención de implementación](../../Psicologia/Autorregulacion/intenciones-de-implementacion.md). Acá va la práctica de ponerse metas uno mismo; qué meta vale la pena se decide antes, con los [valores personales](../Autoconocimiento/valores-personales.md).
+La teoría de por qué una meta específica y difícil rinde más que una vaga, y cuándo una meta hace daño, está en [establecimiento de metas](../../Psicologia/Motivacion-y-emocion/establecimiento-de-metas.md). El plan que ata la meta a una situación es una [intención de implementación](../../Psicologia/Autorregulacion/intenciones-de-implementacion.md). Acá va la práctica de ponerse metas uno mismo, y las de un equipo se escriben con [OKR](../../Liderazgo-y-direccion/Ejecucion/okr.md); qué meta vale la pena se decide antes, con los [valores personales](../Autoconocimiento/valores-personales.md).
 
 ## Imaginar el resultado y después el obstáculo
 
