@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina la tesorería de una empresa trabaja con instrumentos y reglas propias: el cheque de pago diferido y el ECHEQ, que son a la vez medio de cobro, crédito y activo que se descuenta; las transferencias inmediatas con límites en UVA; el financiamiento pyme con cheques y facturas; colocaciones que se miden contra la inflación, y un mercado de cambios con autorización previa para atesorar dólares.
-estado: vigente
+estado: borrador
 estabilidad: volatil
 fuentes:
   - "BCRA, texto ordenado Sistema Nacional de Pagos, Cheques y otros instrumentos compensables, al 23/07/2026 (A 8458), puntos 2.3.2, 3.4 y 3.5 (leído en esas partes): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-snp-cheq.pdf"
@@ -25,9 +25,10 @@ fuentes:
   - "CAFCI, glosario (leída solo la definición de tipos de fondos): https://www.cafci.org.ar/glosario.html"
   - "Tesoreria/.investigacion/argentina.md (2026-11-27)"
   - "Tesoreria/.investigacion/argentina-y-fundamentos-verificacion.md (2026-11-27)"
+  - "Decreto 380/2001, texto actualizado, arts. 7 y 13, biblioteca de ARCA (leído el 2026-11-27, en el tema Impuestos): https://biblioteca.afip.gob.ar/dcp/DEC_C_000380_2001_03_29"
 aliases: [tesorería en Argentina, cheque de pago diferido, CPD, ECHEQ, cheque electrónico, transferencia inmediata, transferencia push, transferencia pull, DEBIN, descuento de cheques, SGR, aval SGR, caución bursátil, plazo fijo, cepo cambiario, acceso al mercado de cambios, treasury in Argentina]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Tesorería en Argentina
@@ -124,7 +125,9 @@ El seguimiento de esos pagos se hace en el sistema SEPAIMPO. Es una sola fuente,
 
 El impuesto a los créditos y débitos bancarios grava los movimientos de las cuentas, así que la proyección de caja lo resta como una salida más, junto a los cobros y los pagos que lo generan. La Ley 25.413 (art. 1) lo creó sobre «los créditos y débitos en cuenta corriente bancaria», con una alícuota que fija el Poder Ejecutivo hasta un máximo del 6 ‰. La alícuota general quedó en 6 ‰ (0,6 %) desde el 01/08/2001 según el cuadro de evolución de alícuotas de la Secretaría de Hacienda, de enero de 2022. El artículo 4 solo faculta al Poder Ejecutivo a computar el impuesto como pago a cuenta de otros tributos: la ley no fija el porcentaje, y el texto vigente del artículo lo refiere a las contribuciones sobre la nómina salarial. Qué parte se computa hoy está en [impuestos en Argentina](../Impuestos/impuestos-en-argentina.md#los-nacionales-que-no-tienen-nota-propia), en Impuestos.
 
-> [!NOTE] Sin fuente todavía: la alícuota y el porcentaje computable vigentes a fines de 2026 y su reglamentación actual (la fuente leída es de enero de 2022 y la página de ARCA no los trae); un proyecto de ley de 2025 propone derogar el impuesto y no se verificó su suerte.
+El texto actualizado del Decreto 380/2001, leído en el tema Impuestos, mantiene la alícuota general del 6 ‰ (art. 7) y deja computar como crédito de impuestos el 33 % de lo percibido a quien paga esa tasa, y el 20 % si la alícuota es menor (art. 13), contra Ganancias; el detalle está en [impuestos en la Argentina](../Impuestos/impuestos-en-argentina.md).
+
+> [!NOTE] Sin fuente todavía: si el artículo 7 sigue con ese texto después del Decreto 737/2024, que la biblioteca de ARCA lista como modificatorio sin mostrar su texto; un proyecto de ley de 2025 propone derogar el impuesto y no se verificó su suerte.
 
 ## Qué tiene que modelar un sistema de gestión
 
