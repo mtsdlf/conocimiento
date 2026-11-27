@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que la Argentina le agrega a comprar: verificar la condición fiscal del proveedor y que no esté en la base de facturas apócrifas, saber qué factura tiene que mandar según esa condición, constatar el CAE de la que llega y, si el proveedor es una pyme y la empresa es grande, aceptar o rechazar su factura de crédito electrónica antes de que venza el plazo.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "RG ARCA 5762/2025, Boletín Oficial 25/9/2025, aviso 331947 (PDF leído entero): https://www.boletinoficial.gob.ar/pdf/aviso/primera/331947/20250925"
@@ -25,7 +25,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/argentina.md y verificacion-argentina.md (2026-11-27)"
 aliases: [factura de compra, factura del proveedor, factura recibida, base APOC, facturas apócrifas, contribuyentes no confiables, constatación de comprobantes, constatar CAE, A con leyenda, operación sujeta a retención, pago en CBU informada, factura M, factura de crédito electrónica, FCE MiPyME, FCEM, Ley 27.440, RG 5762, constancia de inscripción del proveedor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Compras y abastecimiento en la Argentina

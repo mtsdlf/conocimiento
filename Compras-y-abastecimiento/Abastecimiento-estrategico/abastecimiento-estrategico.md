@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El abastecimiento estratégico es la parte de compras que decide a quién comprarle cada cosa y en qué términos: mira en qué se gasta, ordena lo que se compra en categorías, elige una estrategia para cada una, pide ofertas, negocia y deja el resultado en un acuerdo con el proveedor. Se decide pocas veces y fija las condiciones de las órdenes de compra que vienen después.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "CIPS, The thirteen steps of the procurement process: https://1prd-dxp.cips.org/intelligence-hub/procurement/procurement-process"
@@ -14,7 +14,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/apqc-4-2.md (2026-11-27)"
 aliases: [abastecimiento estratégico, strategic sourcing, sourcing, gestión de categorías, category management, ciclo de compras y abastecimiento, procurement cycle, procurement and supply cycle]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Abastecimiento estratégico

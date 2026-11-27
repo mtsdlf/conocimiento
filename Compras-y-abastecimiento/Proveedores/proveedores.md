@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Proveedores es la parte de Compras y abastecimiento que trata a quién se le compra y en qué condiciones: el proveedor como registro, su alta, sus precios y plazos, si cumple y cuánto depende la empresa de él. El registro del proveedor es el dato maestro del dominio: se carga una vez y lo leen la solicitud, la orden de compra, la recepción y la cuenta a pagar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 4.2.2.2 «Certify and validate suppliers» y 4.2.4 «Manage suppliers»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/apqc-4-2.md (2026-11-27)"
 aliases: [proveedores, registro del proveedor, ficha del proveedor, maestro de proveedores, vendor master, supplier master, supplier management, gestión de proveedores]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Proveedores

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El seguimiento de la orden es lo que hace Compras desde que emite una orden de compra hasta que lo recibido coincide con lo pedido: obtener la confirmación del proveedor, perseguir las entregas, comparar cada recepción con la orden y decidir qué hacer con la diferencia. Ahí termina el trabajo de Compras, aunque la orden siga abierta hasta que llegue la factura.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 4.2.3.5 a 4.2.3.7 y 4.4.2: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/apqc-4-2.md (2026-11-27)"
 aliases: [seguimiento de la orden, seguimiento de órdenes de compra, purchase order follow-up, order tracking, PO reconciliation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Seguimiento de la orden

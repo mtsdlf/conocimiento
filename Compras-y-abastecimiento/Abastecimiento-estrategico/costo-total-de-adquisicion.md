@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El costo total de adquisición es todo lo que le cuesta a la empresa comprarle algo a un proveedor, no solo el precio: lo que gasta antes de comprar, al comprar y después, mientras usa lo comprado. Sirve para comparar ofertas, elegir y evaluar proveedores y negociar, y su nombre en el campo es costo total de propiedad (TCO).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ellram (1993), A Framework for Total Cost of Ownership, International Journal of Logistics Management 4(2), 49-60: https://www.emeraldinsight.com/doi/pdf/10.1108/09574099310804984 (según su abstract)"
@@ -15,7 +15,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/fundamentos-y-contraria.md (2026-11-27), sección 2.2"
 aliases: [costo total de adquisición, costo total de propiedad, costo total de posesión, total cost of ownership, TCO, costo de ciclo de vida, costo de vida completa, whole life cost, life cycle cost, costo total, precio contra costo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costo total de adquisición

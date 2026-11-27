@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El contrato marco es el acuerdo con un proveedor que fija precio y condiciones para las compras de un período, a veces con una cantidad comprometida, sin pedir nada todavía. Las compras concretas se hacen después con órdenes que lo usan, y lo que queda por consumir se sigue contra lo acordado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Dynamics 365 Supply Chain Management, Purchase agreements (práctica de un ERP grande): https://learn.microsoft.com/en-us/dynamics365/supply-chain/procurement/purchase-agreements"
@@ -14,7 +14,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (2026-11-27), sección 3"
 aliases: [contrato marco, acuerdo marco, framework agreement, framework contract, blanket agreement, umbrella agreement, acuerdo de compra, purchase agreement, contrato de suministro, contrato de precios, acuerdo de precios]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contrato marco

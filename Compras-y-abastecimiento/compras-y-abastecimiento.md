@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Compras y abastecimiento, como dominio de negocio, es lo que una empresa registra y hace para conseguir de afuera lo que necesita: a quién le compra y en qué condiciones, cómo decide a quién comprarle, cómo se pide y se aprueba una compra, qué se le ordena al proveedor y cómo se controla que llegó lo pedido. Es lo que lleva el módulo de compras de un ERP, pero existe antes del software: una carpeta de proveedores, un talonario de órdenes de compra y un remito firmado hacen lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 4.2 «Procure materials and services»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/ (seis informes, 2026-11-27)"
 aliases: [compras, abastecimiento, aprovisionamiento, procurement, purchasing, sourcing, supply management, gestión de compras, módulo de compras, buying, procure-to-pay]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Compras y abastecimiento

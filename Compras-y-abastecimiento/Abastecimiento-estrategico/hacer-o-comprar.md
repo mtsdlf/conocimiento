@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Hacer o comprar es la decisión de producir adentro algo que la empresa necesita o comprárselo a un proveedor. La teoría de los costos de transacción la explica por la especificidad de lo que se intercambia, y la práctica la decide con la estrategia del negocio, el riesgo y el costo total, no solo con el precio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tadelis y Williamson (2012), Transaction Cost Economics, en Gibbons y Roberts (eds.), Handbook of Organizational Economics, secciones 3.1 a 3.3 y notas (leído completo, 57 páginas): https://escholarship.org/uc/item/3gs768k8"
@@ -13,7 +13,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/abastecimiento-estrategico.md (2026-11-27), sección 4"
 aliases: [hacer o comprar, make or buy, make-or-buy, fabricar o comprar, producir o comprar, tercerizar, tercerización, outsourcing, insourcing, integración vertical, vertical integration, delivery model assessment]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hacer o comprar

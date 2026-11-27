@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una orden de compra emitida se cambia o se cancela, y cada camino tiene su regla: el cambio la devuelve a borrador y puede pedir una nueva aprobación, y la cancelación solo alcanza a lo que no se recibió ni se facturó. Cada versión confirmada queda guardada, para saber qué se le pidió al proveedor y cuándo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft, Dynamics 365 Supply Chain Management, Approve and confirm purchase orders (secciones «Changing purchase orders» y «Canceling purchase orders»): https://learn.microsoft.com/en-us/dynamics365/supply-chain/procurement/purchase-order-approval-confirmation"
@@ -10,7 +10,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (sección 4)"
 aliases: [cambios en la orden de compra, modificar orden de compra, change order, purchase order change, re-aprobación, reaprobación, re-approval, cancelar orden de compra, cancel purchase order, versión de la orden, cancelar y enmendar, cancel and amend, finalizar orden]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cambios y cancelaciones

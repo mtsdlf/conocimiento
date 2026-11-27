@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La orden de compra es el documento con el que una empresa le pide a un proveedor ciertos productos o servicios, en cierta cantidad, a cierto precio y para cierta fecha. Es un documento con estados que siguen tres ejes a la vez (si está aprobada, cuánto se recibió y cuánto se facturó), y es el punto donde la necesidad interna pasa a ser un compromiso con alguien de afuera.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 4.2.3 «Order materials and services»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (secciones 1 a 4) y apqc-4-2.md"
 aliases: [orden de compra, OC, purchase order, PO, nota de pedido al proveedor, pedido de compra, pedido al proveedor, estados de la orden de compra]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Orden de compra

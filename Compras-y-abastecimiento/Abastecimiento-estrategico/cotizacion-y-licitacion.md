@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La cotización y la licitación son las maneras de pedirles ofertas a varios proveedores y compararlas: el pedido de información sondea el mercado, el pedido de cotización pide precio y condiciones por algo bien especificado y el pedido de propuesta pide una solución. La oferta elegida se convierte en una orden de compra o en un contrato marco.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "CIPS, The thirteen steps of the procurement process, pasos 4 a 8: https://1prd-dxp.cips.org/intelligence-hub/procurement/procurement-process"
@@ -15,7 +15,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/fundamentos-y-contraria.md (2026-11-27), sección 2.4"
 aliases: [cotización, licitación, pedido de cotización, solicitud de cotización, request for quotation, RFQ, pedido de propuesta, request for proposal, RFP, pedido de información, request for information, RFI, llamado a ofertas, invitation to tender, ITT, tender, RFx, concurso de precios, cuadro comparativo, comparativo de ofertas, cotización del proveedor, supplier quotation, subasta inversa, reverse auction, e-auction]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cotización y licitación

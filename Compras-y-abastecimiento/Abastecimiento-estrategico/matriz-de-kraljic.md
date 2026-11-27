@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La matriz de Kraljic ubica cada categoría de compra según dos ejes, su impacto en el resultado y su riesgo de abastecimiento, y la asigna a uno de cuatro cuadrantes (no crítico, apalancable, cuello de botella y estratégico), cada uno con su estrategia de compra. Es una herramienta de discusión muy difundida y una heurística, no un método de decisión validado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kraljic (1983), Purchasing must become supply management, Harvard Business Review, septiembre de 1983: https://hbr.org/1983/09/purchasing-must-become-supply-management (solo la apertura, en la página de HBR; el texto completo es de pago y la copia en PDF que ofrecía una universidad ya no está)"
@@ -14,7 +14,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/fundamentos-y-contraria.md (2026-11-27), secciones 1.2, 1.3 y 2.1"
 aliases: [matriz de Kraljic, Kraljic matrix, modelo de Kraljic, modelo de portafolio de compras, purchasing portfolio model, portafolio de compras, segmentación de categorías, artículo estratégico, artículo crítico, artículo apalancable, artículo de apalancamiento, leverage item, cuello de botella, bottleneck item, artículo no crítico, artículo rutinario, non-critical item, routine item, strategic item, critical item]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Matriz de Kraljic

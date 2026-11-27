@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una diferencia es lo que separa lo recibido de lo pedido: un faltante, un sobrante o algo que llegó y no sirve. Compras decide qué se le pide al proveedor por cada una (esperar el resto, reponer, cambiar o acreditar), y la devolución al proveedor es el documento con que lo rechazado vuelve a él.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Create vendor returns (Dynamics 365 Supply Chain Management): https://learn.microsoft.com/en-us/training/modules/process-purchase-orders-dyn365-supply-chain-mgmt/7-create-vendor-returns"
@@ -13,7 +13,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (2026-11-27), sección 8"
 aliases: [diferencias de recepción, faltante, sobrante, rechazo, mercadería rechazada, devolución al proveedor, return to vendor, RTV, vendor return, purchase return, autorización de devolución, RMA, return material authorization, reclamo al proveedor, nota de débito, debit memo, nota de crédito del proveedor, vendor credit note, order exceptions]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Diferencias y devoluciones

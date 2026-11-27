@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las condiciones del proveedor son los términos con que vende: precio, plazo de entrega, cantidad mínima y condición de pago, casi siempre distintos para cada artículo. Se guardan en el registro artículo-proveedor, que dice qué artículo se le compra a quién, con qué código y en qué condiciones, y que la orden de compra trae sola.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Odoo 17, Requests for quotation y Lead times (según su resumen; como evidencia de práctica): https://www.odoo.com/documentation/17.0/applications/inventory_and_mrp/purchase/manage_deals/rfq.html ; https://www.odoo.com/documentation/17.0/applications/inventory_and_mrp/inventory/warehouses_storage/replenishment/lead_times.html"
@@ -14,7 +14,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (2026-11-27), sección 7"
 aliases: [condiciones de compra, lista de precios del proveedor, precio de compra, registro artículo-proveedor, artículo-proveedor, info record, purchasing info record, supplier price list, vendor price list, plazo de entrega, lead time, cantidad mínima, mínimo de compra, minimum order quantity, MOQ, condición de pago, payment terms, Incoterms]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Condiciones del proveedor

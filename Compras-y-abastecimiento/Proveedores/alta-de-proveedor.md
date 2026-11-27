@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El alta de proveedor es el paso en que un proveedor nuevo entra al registro: se cargan sus datos, se verifica que existe y es quien dice ser y, si lo que se le va a comprar lo justifica, se lo homologa antes de la primera compra. El mismo registro guarda el bloqueo, que impide comprarle, recibirle facturas o pagarle.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 4.2.2.2 «Certify and validate suppliers» y 4.2.4.1 «Monitor/Manage supplier information»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (2026-11-27), fuente 6.5"
 aliases: [alta de proveedores, alta de proveedor nuevo, vendor onboarding, supplier onboarding, homologación, homologación de proveedores, calificación de proveedores, supplier qualification, precalificación, prequalification, lista de proveedores aprobados, approved vendor list, AVL, proveedor bloqueado, bloqueo de proveedor, supplier block]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alta de proveedor

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La negociación de compras es acordar con un proveedor el precio y las condiciones de lo que se le va a comprar, desde el lado del comprador. Usa el mismo método que cualquier negociación, pero el comprador decide con qué poder negocia según la categoría, junta volúmenes para tener más y negocia mucho más que el precio.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "CIPS, Negotiation: https://1prd-dxp.cips.org/intelligence-hub/negotiation"
@@ -14,7 +14,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/fundamentos-y-contraria.md (2026-11-27), secciones 1.4 y 2.7"
 aliases: [negociación de compras, negociación con proveedores, negociar con proveedores, supplier negotiation, procurement negotiation, purchasing negotiation, negociación del comprador]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Negociación de compras

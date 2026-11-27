@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los tipos de orden son las variantes de la orden de compra que cambian qué se compromete y cómo se da por cumplido: la puntual, por una compra con cantidad, precio y fecha; la orden abierta, por un total o un período con entregas que se liberan de a poco; la orden contra contrato, que toma el precio y las condiciones de un contrato marco; la de servicios, que se cumple con una aceptación en lugar de una recepción; y la de consignación, donde lo que llega sigue siendo del proveedor.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Dynamics 365 Supply Chain Management, Purchase agreements: https://learn.microsoft.com/en-us/dynamics365/supply-chain/procurement/purchase-agreements"
@@ -14,7 +14,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (sección 3)"
 aliases: [tipos de orden, tipos de orden de compra, purchase order types, orden puntual, orden estándar, standard purchase order, orden abierta, blanket order, blanket purchase order, orden contra contrato, liberación, release order, call-off, orden planificada, planned purchase order, orden de servicios, hoja de aceptación de servicios, hoja de entrada de servicios, service entry sheet, consignación, consignment]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tipos de orden

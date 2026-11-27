@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La relación con proveedores es cómo una empresa maneja a cada proveedor a lo largo del tiempo: lo ubica en un segmento según cuánto gasta con él y cuánto le cuesta reemplazarlo, decide si vale la pena desarrollarlo y decide cuánto depender de él. La decisión central es proveedor único o varios, que cambia el costo y el riesgo de cada compra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "NSW Government, The supplier relationship (leído por extracto): https://www.info.buy.nsw.gov.au/buyer-guidance/manage/the-supplier-relationship"
@@ -17,7 +17,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/abastecimiento-estrategico.md (2026-11-27), sección 3"
 aliases: [relación con proveedores, gestión de la relación con proveedores, supplier relationship management, SRM, segmentación de proveedores, supplier segmentation, desarrollo de proveedores, supplier development, proveedor único, single sourcing, sole sourcing, múltiples proveedores, multiple sourcing, segundo proveedor, dual sourcing, second sourcing, dependencia de proveedores, riesgo de proveedor, supplier risk]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Relación con proveedores

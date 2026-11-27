@@ -3,7 +3,7 @@ tipo: mapa
 resumen: >-
   Mapa raíz del Conocimiento compartido de Matías y Fer: enlaza el Mapa de cada Tema, agrupados
   por área.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: matias
 creado: 2026-10-03

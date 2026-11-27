@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La recepción contra lo pedido es la comparación, renglón por renglón, de lo que el depósito contó al recibir con lo que dice la orden de compra. Lo que coincide dentro de la tolerancia da por cumplido el renglón; lo que falta queda como saldo pendiente, hasta que llega o hasta que alguien cierra el renglón.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "SAP, Underdeliveries, Overdeliveries, and Final Deliveries (versión 4.6C; según su resumen): https://help.sap.com/saphelp_46c/helpdata/en/a5/63343943a211d189410000e829fbbd/content.htm"
@@ -13,7 +13,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (2026-11-27), sección 7"
 aliases: [recepción contra lo pedido, recepción contra la orden, recepción contra orden de compra, goods receipt against purchase order, tolerancia, tolerancia de recepción, tolerance, subentrega, underdelivery, sobreentrega, overdelivery, entrega parcial, partial delivery, saldo pendiente, open quantity, quantity on order, remaining quantity, deliver remainder, entrega completa, delivery completed, cierre de la orden, cerrar el renglón]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recepción contra lo pedido

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La confirmación es la respuesta del proveedor a una orden de compra emitida, que acepta, rechaza o cambia el precio, la cantidad o la fecha; el seguimiento es lo que hace Compras después para que la entrega llegue cuando se confirmó. Entre las dos queda la fecha confirmada, que es la que promete el proveedor.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Approve and confirm purchase orders (Dynamics 365 Supply Chain Management), secciones de revisión externa y confirmación: https://learn.microsoft.com/en-us/dynamics365/supply-chain/procurement/purchase-order-approval-confirmation"
@@ -15,7 +15,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (2026-11-27), sección 6"
 aliases: [confirmación de la orden, acuse del proveedor, acknowledgement, order acknowledgment, PO confirmation, fecha confirmada, confirmed date, fecha requerida, fecha esperada, seguimiento de entregas, expediting, activación de pedidos, aviso de despacho, advance ship notice, ASN, EDI 856, DESADV]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Confirmación y seguimiento

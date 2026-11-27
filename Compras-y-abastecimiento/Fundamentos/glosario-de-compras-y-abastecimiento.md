@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos del tema Compras y abastecimiento, cada uno con su nombre en inglés, una definición corta y la nota donde vive.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), categoría 4.2: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/ (seis informes, 2026-11-27)"
 aliases: [glosario de compras, procurement glossary, purchasing glossary, términos de compras, vocabulario de abastecimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de compras y abastecimiento

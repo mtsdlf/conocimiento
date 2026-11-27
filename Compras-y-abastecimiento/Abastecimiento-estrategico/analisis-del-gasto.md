@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis del gasto es juntar, limpiar, clasificar y analizar lo que la empresa le pagó a sus proveedores, para saber en qué y a quién le compra. Su producto son las categorías de compra, que son la unidad con que se decide la estrategia de abastecimiento.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wikipedia, Spend analysis (consultada 2026-11-27): https://en.wikipedia.org/wiki/Spend_analysis"
@@ -14,7 +14,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/fundamentos-y-contraria.md (2026-11-27), sección 1.7"
 aliases: [análisis del gasto, análisis de gasto, spend analysis, spend analytics, mapa del gasto, cubo de gasto, spend cube, categoría de compra, categorías de compra, purchasing category, gasto directo, gasto indirecto, direct spend, indirect spend, gasto bajo gestión, spend under management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis del gasto

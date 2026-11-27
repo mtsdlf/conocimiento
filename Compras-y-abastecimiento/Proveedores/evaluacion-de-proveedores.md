@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación de proveedores mide si cada proveedor cumple, con indicadores que salen de sus entregas (a tiempo, completas, aceptadas por calidad) y de su respuesta comercial, y decide qué hacer con el que no cumple: seguir, vigilarlo o bloquearlo. Se repite cada cierto período y es la reevaluación de lo que se verificó en el alta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 4.2.4.2 «Prepare/Analyze procurement and supplier performance» y 4.2.4.4 «Monitor quality of product delivered»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/proveedores.md (2026-11-27), sección 4"
 aliases: [evaluación de proveedores, desempeño de proveedores, tablero de proveedores, supplier scorecard, vendor scorecard, supplier performance, supplier evaluation, vendor rating, reevaluación de proveedores, OTIF, on time in full, entrega a tiempo y completa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación de proveedores

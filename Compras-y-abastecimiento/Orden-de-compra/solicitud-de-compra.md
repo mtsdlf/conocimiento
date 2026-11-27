@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La solicitud de compra es el pedido interno con el que un área dice qué necesita, cuánto y para cuándo, antes de que alguien le pida precios a un proveedor. Sirve de autorización previa: la compra sale con el consentimiento de quien responde por el gasto y con presupuesto disponible, y lo que se compra sin pasar por ella es compra fuera del circuito.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wikipedia, Purchase requisition (según su resumen): https://en.wikipedia.org/wiki/Purchase_requisition"
@@ -15,7 +15,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (sección 2) y apqc-4-2.md"
 aliases: [solicitud de compra, sobrepedido, porcentaje de sobrepedido, requisición, requisición de compra, pedido interno, pedido de materiales, purchase requisition, PR, material request, compra fuera del circuito, maverick spending, maverick spend, maverick buying, compra fuera de contrato, off-contract spend, no PO no pay]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Solicitud de compra
