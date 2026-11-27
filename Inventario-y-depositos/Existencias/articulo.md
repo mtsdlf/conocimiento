@@ -46,7 +46,7 @@ Para que eso funcione, el artículo guarda (criterio de la base):
 - **Las conversiones** a las demás unidades: 1 caja = 12 unidades, 1 pallet = 40 cajas. Cada documento puede usar otra unidad, pero el movimiento se registra convertido.
 - **Si la cantidad admite decimales.** Un artículo que se vende por kilo o por metro los necesita; uno que se vende por unidad, no.
 
-El error más común es tener la conversión en la cabeza del que carga: se recibe «10» pensando en cajas y el sistema suma 10 unidades. El [conteo](../Control-del-stock/conteo-ciclico.md) lo descubre meses después como una diferencia sin causa.
+El error típico, a juicio de la base, es tener la conversión en la cabeza del que carga: se recibe «10» pensando en cajas y el sistema suma 10 unidades. El [conteo](../Control-del-stock/conteo-ciclico.md) lo descubre después como una diferencia sin causa (criterio de la base).
 
 > [!NOTE] Sin fuente todavía: una fuente primaria sobre unidad de medida y conversión en el maestro de artículos, y sobre el redondeo cuando una conversión no es exacta.
 

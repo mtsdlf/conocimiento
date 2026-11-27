@@ -29,7 +29,7 @@ El inventario físico tradicional cuenta todo de una vez, una vez por año. La p
 
 El conteo cíclico, según el resumen de la enciclopedia, cuenta un subconjunto chico del stock de manera repetida y según un calendario, y no frena la operación. Además de evitar el cierre, encuentra las diferencias cerca de cuando se produjeron. Un error del lunes que se descubre el martes deja rastros (el pedido, el remito, la persona del turno); el mismo error descubierto en diciembre no deja ninguno. Esto último es inferencia de la base.
 
-Kök y Shang (2007) dan el respaldo de modelo: con registros que se saben inexactos, un conteo cíclico con niveles que dependen del estado rinde casi igual que su política óptima de inspección (según su resumen).
+Kök y Shang (2007) dan el respaldo de modelo: con registros que se saben inexactos, un conteo cíclico con niveles que dependen del estado rinde casi igual que la política de inspección que proponen (según su resumen).
 
 ## Qué se cuenta más seguido: por clase o por ubicación
 
@@ -38,7 +38,7 @@ En la práctica hay dos diseños, y un sistema puede ofrecer uno u otro:
 | Diseño | Cómo reparte los conteos | Dónde aparece |
 |---|---|---|
 | Por clase de artículo | Los artículos se agrupan con la [clasificación ABC](../Reposicion/clasificacion-abc.md) por el método de Pareto, y los de mayor valor se cuentan más seguido | La mayoría de las implementaciones, según la enciclopedia |
-| Por ubicación | Cada [ubicación](../Operacion-del-deposito/ubicaciones.md) tiene una frecuencia en días; al aplicar los ajustes de un conteo, el sistema programa el siguiente | Un sistema abierto (la frecuencia por defecto es 0, sin conteo programado) |
+| Por ubicación | Cada [ubicación](../Operacion-del-deposito/ubicaciones.md) tiene una frecuencia en días; al aplicar los ajustes de un conteo, el sistema programa el siguiente | Un sistema abierto (la frecuencia por defecto es 0) |
 
 Contar por ubicación tiene una ventaja que no da el ABC: el contador recorre un pasillo y cuenta todo lo que hay, así que encuentra también lo que está donde no debía. Contar por clase obliga a buscar cada artículo en todas sus ubicaciones. Esta comparación es criterio de la base.
 

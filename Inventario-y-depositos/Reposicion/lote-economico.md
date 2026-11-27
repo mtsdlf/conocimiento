@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El lote económico (EOQ) es la cantidad por pedido que hace mínimo el costo de pedir más el de mantener, cuando la demanda es constante: Q* = √(2DK/h). Lo publicó Ford Whitman Harris en 1913; R. H. Wilson lo difundió después. Es una aproximación con supuestos fuertes, que sirve porque el costo cambia poco cerca del óptimo.
+  El lote económico (EOQ) es la cantidad por pedido que hace mínimo el costo de pedir más el de mantener, cuando la demanda es constante: Q* = √(2DK/h). Lo publicó Ford Whitman Harris en 1913; R. H. Wilson lo difundió después. Es una aproximación con supuestos fuertes, que (por el ejemplo numérico de abajo, criterio de la base) sirve porque el costo cambia poco cerca del óptimo.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -19,7 +19,7 @@ revisado:
 
 # Lote económico
 
-El lote económico (EOQ) es la cantidad por pedido que hace mínimo el costo de pedir más el de mantener, cuando la demanda es constante: Q* = √(2DK/h). Lo publicó Ford Whitman Harris en 1913; R. H. Wilson lo difundió después. Es una aproximación con supuestos fuertes, que sirve porque el costo cambia poco cerca del óptimo.
+El lote económico (EOQ) es la cantidad por pedido que hace mínimo el costo de pedir más el de mantener, cuando la demanda es constante: Q* = √(2DK/h). Lo publicó Ford Whitman Harris en 1913; R. H. Wilson lo difundió después. Es una aproximación con supuestos fuertes, que (por el ejemplo numérico de abajo, criterio de la base) sirve porque el costo cambia poco cerca del óptimo.
 
 Contesta el «cuánto» de una política de [reposición](reposicion.md), y es la Q de la política (s, Q) del [punto de pedido](punto-de-pedido.md). Dimensiona el stock de ciclo: en promedio, la mitad del lote está en el depósito.
 
@@ -64,7 +64,7 @@ La segunda columna es lectura de la base. Wikipedia recoge que el EOQ fue critic
 
 ## Del lote fijo a la revisión periódica
 
-Con revisión periódica, el lote deja de ser una cantidad fija: cada R días se pide lo que falta hasta un máximo. El MIT traduce una política en la otra con Q → D·R: lo que se pide en promedio es la demanda del período. Con el EOQ se puede elegir el período: 13.000 al año en lotes de 228 son unos 57 pedidos, uno por semana. La cuenta es de la base. Las políticas están en [punto de pedido](punto-de-pedido.md).
+Con revisión periódica, el lote deja de ser una cantidad fija: cada R días se pide lo que falta hasta un máximo. El MIT traduce una política en la otra con Q → D·R: lo que se pide en promedio es la demanda del período. Con el EOQ se puede elegir el período: 13.000 al año en lotes de 228 son unos 57 pedidos, algo más de uno por semana. La cuenta es de la base. Las políticas están en [punto de pedido](punto-de-pedido.md).
 
 ## Harris, no Wilson
 
@@ -72,7 +72,7 @@ Ford Whitman Harris publicó el modelo en febrero de 1913, en la revista *Factor
 
 El artículo quedó olvidado. Un estudio de 1990 en *Operations Research* empieza: «Ford Whitman Harris first presented the familiar economic order quantity (EOQ) model in a paper published in 1913», y cuenta, según su resumen, que el modelo pasó inadvertido hasta su redescubrimiento en 1988. Erlenkotter (2014) lo llama «one of the most cited and applied results in production and operations management».
 
-La difusión se atribuye a R. H. Wilson, que publicó «A Scientific Routine for Stock Control» en *Harvard Business Review* en 1934 (una sola fuente secundaria). De ahí el nombre «fórmula de Wilson», corriente en castellano. Decir que la inventó Wilson es un error documentado.
+La difusión se atribuye a R. H. Wilson, que publicó «A Scientific Routine for Stock Control» en *Harvard Business Review* en 1934 (una sola fuente secundaria). De ahí el nombre «fórmula de Wilson» (que sea corriente en castellano es lectura de la base). Decir que la inventó Wilson es un error documentado.
 
 > [!IMPORTANT] Fecha discutida: el registro de la reimpresión dice febrero de 1913. Otros trabajos de Erlenkotter (1989 y 1990) hablan del modelo «de 1915», según el informe de la base. Para zanjarlo hay que leer a Harris o a Erlenkotter (1990).
 

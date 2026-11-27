@@ -47,7 +47,7 @@ La práctica distingue dos profundidades de reserva. Un sistema de un proveedor 
 - **Reserva blanda**: aparta una cantidad del artículo en un depósito, sin decir cuál unidad. Basta para que el disponible no se prometa dos veces.
 - **Reserva dura (física)**: aparta unidades concretas, de un lote o número de serie y una ubicación determinados. Es la que necesita la preparación para saber qué sacar.
 
-Lo común es reservar blando al confirmar y endurecer cerca de la preparación, cuando se elige de qué lote y de qué ubicación sale. Elegir el lote sigue la regla de salida del artículo: el que entró primero (FIFO) o el que vence primero (FEFO), que están en [lote y serie](../Existencias/lote-y-serie.md). Endurecer demasiado temprano ata el pedido a un lote que quizás vence antes de la entrega, o a una ubicación que después se reorganiza.
+Lo común (criterio de la base) es reservar blando al confirmar y endurecer cerca de la preparación, cuando se elige de qué lote y de qué ubicación sale. Elegir el lote sigue la regla de salida del artículo: el que entró primero (FIFO) o el que vence primero (FEFO), que están en [lote y serie](../Existencias/lote-y-serie.md). Endurecer demasiado temprano ata el pedido a un lote que quizás vence antes de la entrega, o a una ubicación que después se reorganiza.
 
 > [!NOTE] Sin fuente todavía: una definición canónica de reserva blanda y dura (o de asignación y reserva en el sentido del APICS Dictionary) y de cómo se asigna el lote al reservar.
 

@@ -54,6 +54,8 @@ La diferencia, en palabras del MIT: «IFR usually much higher than CSL for same 
 | 90 % | 330 | 252 |
 | 80 % | 217 | 148 |
 
+Los valores son los de la tabla del MIT. Rehecha la cuenta con la misma fórmula, la fila del 95 % por fill rate da unas 339 unidades y no 348; las otras filas cierran. No se pudo saber de dónde sale la diferencia.
+
 Quien pide «95 % de servicio» tiene que decir cuál de los dos; la diferencia, en este artículo, es de 75 unidades. De la fórmula del fill rate se desprende que un lote más grande lo sube con el mismo colchón, porque los faltantes de cada ciclo se reparten sobre más unidades.
 
 Con revisión periódica, el MIT usa el fill rate. Para pedir cada 8 semanas con IFR = 0,95: «Gu[k] = (1-.95)(2000/577) = 0.1733 giving k=0.58», y el nivel máximo queda en 2.835 unidades. El resto de ese ejemplo está en [punto de pedido](punto-de-pedido.md).
@@ -95,4 +97,4 @@ En la base, la fórmula se da como punto de partida: un k y un σL razonables, y
 
 En [catálogo y stock](../../Comercio-electronico/Operaciones-del-comercio/catalogo-y-stock.md), el stock de seguridad aparece como una defensa contra la sobreventa: unidades que no se publican para que varios canales no vendan la misma. Es el mismo nombre con otro fin. Aquel colchón cubre el atraso del registro entre canales; este cubre la incertidumbre de la demanda y el plazo de reposición. La distinción es de la base.
 
-Para leer más: Caplice, lección 11, diapositivas 9 a 24, y lección 12, diapositivas 3 a 6, con los dos ejemplos resueltos. Fijarse en que CSL y fill rate dan stocks distintos para el mismo porcentaje. El libro base es Silver, Pyke y Thomas, *Inventory and Production Management in Supply Chains*, capítulo de sistemas de punto de pedido (no leído).
+Para leer más: Caplice, lección 11, diapositivas 9 a 24, y lección 12, diapositivas 3 a 6, con los dos ejemplos resueltos. Fijarse en que CSL y fill rate dan stocks distintos para el mismo porcentaje. El libro base que cita el MIT es Silver, Pyke y Peterson («SPP»); su edición posterior es de Silver, Pyke y Thomas, *Inventory and Production Management in Supply Chains*, capítulo de sistemas de punto de pedido (no leído).

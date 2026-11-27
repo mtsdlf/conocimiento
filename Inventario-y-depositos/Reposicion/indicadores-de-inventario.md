@@ -6,7 +6,7 @@ estabilidad: semi
 fuentes:
   - "Hammond y Western Technical College, Operations Management, §6.8 Measuring Supply Chain Performance (CC BY 4.0; leído por resumen): https://biz.libretexts.org/Courses/Western_Technical_College/Operations_Management_(Hammond)/06%3A_Supply_Chain_and_Inventory_Management/6.08%3A_Measuring_Supply_Chain_Performance"
   - "Caplice, C. (MIT CTL), Inventory Management: Probabilistic Demand, ESD.260 lección 11, octubre de 2006, diapositivas 10-24: https://ocw.mit.edu/courses/esd-260j-logistics-systems-fall-2006/8b53c45fd26ffff706d815131e8d177e_lect11.pdf"
-  - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.4.3.5 «Track inventory accuracy»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "APQC, Process Classification Framework 7.4, 4.4.3.5 «Track inventory accuracy»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "DeHoratius y Raman (2008), Inventory Record Inaccuracy: An Empirical Analysis, Management Science 54(4):627-641 (según el resumen): https://doi.org/10.1287/mnsc.1070.0789"
   - "Inventario-y-depositos/.investigacion/reposicion.md (sección 6)"
 aliases: [indicadores de inventario, KPI de inventario, inventory KPIs, rotación de inventario, rotación de stock, inventory turnover, inventory turns, días de inventario, días de stock, days of supply, days of inventory, DIO, cobertura, cobertura de stock, nivel de servicio, exactitud de inventario, inventory accuracy, obsolescencia, stock obsoleto]
@@ -33,11 +33,11 @@ Son la vuelta de control de [reposición](reposicion.md): la política fija un [
 
 ## Rotación y días de inventario
 
-La rotación, literal: «cost of goods sold divided by average aggregate inventory value». Los ejemplos de la fuente: 17.550.000 / 1.650.000 = 10,64 vueltas al año, y 16.255.000 / 1.763.350 = 9,22.
+Según el resumen de la fuente, la rotación es, literal: «cost of goods sold divided by average aggregate inventory value». Los ejemplos de la fuente: 17.550.000 / 1.650.000 = 10,64 vueltas al año, y 16.255.000 / 1.763.350 = 9,22.
 
-Los días de inventario: «average aggregate inventory value divided by annual cost of goods sold, the sum of which is multiplied by 365». El ejemplo: 3.025.600 / 45.000.000 × 365 = 24,54 días.
+Los días de inventario, también según el resumen: «average aggregate inventory value divided by annual cost of goods sold, the sum of which is multiplied by 365». El ejemplo: 3.025.600 / 45.000.000 × 365 = 24,54 días.
 
-Las dos son la misma información dada vuelta: días = 365 / rotación. Una rotación de 10,64 equivale a unos 34 días. La equivalencia y la cuenta son de la base; los ejemplos de la fuente son de empresas distintas.
+Las dos son la misma información dada vuelta: días = 365 / rotación. Una rotación de 10,64 equivale a unos 34 días. La equivalencia y la cuenta son de la base; los ejemplos de la fuente no encajan entre sí (inferencia de la base: son de empresas distintas).
 
 Las dos van al costo, no al precio de venta: el numerador es el [costo de lo vendido](../../Contabilidad/Operaciones/costo-de-lo-vendido.md) y el stock se valúa al costo, con el método que fija Contabilidad. Mezclar ventas a precio con stock a costo infla la rotación por el margen (inferencia de la base). Cambiar de método de valuación también mueve el indicador sin que cambie una sola unidad.
 
@@ -51,7 +51,7 @@ Medido después, el nivel de servicio real es el que dice si el stock de segurid
 
 ## Exactitud del registro
 
-APQC 7.4 tiene una tarea propia, 4.4.3.5 «Track inventory accuracy», dentro de la operación del depósito. DeHoratius y Raman midieron la inexactitud en un minorista y encontraron inexacto el 65 % de los registros (según el resumen). Es el indicador del que dependen los demás: si el registro miente, la rotación y la cobertura se calculan sobre un número falso. Cómo se cuenta y se corrige está en [control del stock](../Control-del-stock/control-del-stock.md) y [conteo cíclico](../Control-del-stock/conteo-ciclico.md).
+APQC 7.4 tiene una tarea propia, 4.4.3.5 «Track inventory accuracy». DeHoratius y Raman midieron la inexactitud en un minorista y encontraron inexacto el 65 % de los registros (según el resumen). Es el indicador del que dependen los demás: si el registro miente, la rotación y la cobertura se calculan sobre un número falso. Cómo se cuenta y se corrige está en [control del stock](../Control-del-stock/control-del-stock.md) y [conteo cíclico](../Control-del-stock/conteo-ciclico.md).
 
 > [!NOTE] Sin fuente todavía: la fórmula de la exactitud de registros (por artículo, por valor, con o sin tolerancia), la cobertura medida sobre la demanda futura y la obsolescencia. Tampoco se leyó de primera mano cómo define SCOR los días de inventario: según fuentes secundarias, hay quien la calcula sobre el costo de lo vendido y quien sobre la demanda pronosticada.
 

@@ -25,7 +25,7 @@ Los sistemas usan nombres distintos para lo mismo, sobre todo en los estados del
 |---|---|---|---|
 | Artículo | Item, SKU | Lo que se cuenta por separado: un código con su unidad de medida y sus reglas de stock | [artículo](../Existencias/articulo.md) |
 | Unidad de medida | Unit of measure, UOM | En qué se cuenta un artículo (unidad, caja, kilo) y cómo se convierte entre unidades | [artículo](../Existencias/articulo.md) |
-| Existencias | Stock on hand, inventory balance | La cantidad de un artículo en un lugar y en un estado | [existencias](../Existencias/existencias.md) |
+| Existencias | Stock on hand, inventory balance | La cantidad de un artículo en un lugar, de un lote o serie si lo lleva, y en un estado | [existencias](../Existencias/existencias.md) |
 | Lote | Lot, batch | Un conjunto de unidades producidas o recibidas juntas, que comparten origen y vencimiento | [lote y serie](../Existencias/lote-y-serie.md) |
 | Número de serie | Serial number | El identificador de una unidad individual | [lote y serie](../Existencias/lote-y-serie.md) |
 | FIFO, FEFO | First in first out, first expired first out | El orden en que sale la mercadería: lo que entró primero, o lo que vence primero. Es físico; la PEPS de la valuación es de Contabilidad | [lote y serie](../Existencias/lote-y-serie.md) |
@@ -35,13 +35,13 @@ Los sistemas usan nombres distintos para lo mismo, sobre todo en los estados del
 
 | Término | Inglés | Qué es | Dónde |
 |---|---|---|---|
-| Stock físico | On hand | Lo que está en el depósito, en cualquier estado | [estados del stock](../Existencias/estados-del-stock.md) |
+| Stock físico | On hand | Lo que está en el depósito, en cualquier estado menos en tránsito | [estados del stock](../Existencias/estados-del-stock.md) |
 | Disponible | Available | Lo físico que se puede vender o usar: no está comprometido, en cuarentena ni bloqueado | [estados del stock](../Existencias/estados-del-stock.md) |
 | Comprometido | Committed, allocated | Lo apartado para un pedido que todavía no salió | [estados del stock](../Existencias/estados-del-stock.md) |
 | En cuarentena | Quarantine, quality inspection | Lo que espera inspección o una decisión de calidad | [estados del stock](../Existencias/estados-del-stock.md) |
-| Bloqueado | Blocked | Lo que no se puede usar hasta que alguien decida (rechazado, retenido, en retiro de mercado) | [estados del stock](../Existencias/estados-del-stock.md) |
+| Bloqueado | Blocked | Lo que no se puede usar hasta que alguien decida (roto, vencido, retenido por un retiro de mercado) | [estados del stock](../Existencias/estados-del-stock.md) |
 | En tránsito | In transit | Lo que salió de un depósito propio y no llegó al otro | [estados del stock](../Existencias/estados-del-stock.md) |
-| Stock de terceros, consignación | Consignment | Lo que está en el depósito y es de otro, o lo propio que está en casa de otro | [estados del stock](../Existencias/estados-del-stock.md) |
+| Stock de terceros, consignación | Consignment | Lo que está en el depósito y es de otro (consignación o guarda); lo propio que está en casa de otro es un lugar más, sin estado propio | [estados del stock](../Existencias/estados-del-stock.md) |
 | Disponible para prometer | Available-to-promise, ATP | La parte del stock y de lo que va a entrar que todavía no está comprometida, período por período | [disponible para prometer](../Existencias/disponible-para-prometer.md) |
 | Posición de stock | Inventory position | Lo que hay, más lo pedido al proveedor que no llegó, menos lo que se debe y lo comprometido; es lo que se compara con el punto de pedido | [punto de pedido](../Reposicion/punto-de-pedido.md) |
 
@@ -67,7 +67,7 @@ Los sistemas usan nombres distintos para lo mismo, sobre todo en los estados del
 | Inventario periódico | Periodic inventory | La cantidad se conoce contando cada tanto | [control del stock](../Control-del-stock/control-del-stock.md) |
 | Exactitud del registro | Inventory record accuracy, IRA | Cuánto coincide lo que dice el registro con lo que hay | [control del stock](../Control-del-stock/control-del-stock.md) |
 | Conteo físico | Physical inventory | Contar todo el depósito de una vez | [conteo cíclico](../Control-del-stock/conteo-ciclico.md) |
-| Conteo cíclico | Cycle counting | Contar una parte de los artículos cada día o cada semana, con más frecuencia los que más importan | [conteo cíclico](../Control-del-stock/conteo-ciclico.md) |
+| Conteo cíclico | Cycle counting | Contar una parte chica del stock por vez, según un calendario, sin frenar la operación | [conteo cíclico](../Control-del-stock/conteo-ciclico.md) |
 | Ajuste | Inventory adjustment | El movimiento que corrige el registro para que coincida con lo contado | [ajustes y mermas](../Control-del-stock/ajustes-y-mermas.md) |
 | Merma | Shrinkage | La mercadería que se pierde por rotura, vencimiento, robo o error, y que los ajustes dejan a la vista | [ajustes y mermas](../Control-del-stock/ajustes-y-mermas.md) |
 

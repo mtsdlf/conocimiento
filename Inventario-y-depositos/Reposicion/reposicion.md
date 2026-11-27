@@ -24,7 +24,7 @@ Es la cuarta parte de [Inventario y depósitos](../inventario-y-depositos.md). L
 
 El stock existe porque cumple funciones distintas, y cada función se dimensiona con una herramienta distinta. El material de preparación de la certificación CPIM (fuente secundaria) lista siete:
 
-| Función | Qué es, según la fuente | Dónde se decide |
+| Función | Qué es | Dónde se decide |
 |---|---|---|
 | Anticipación | «Inventory built up in advance to meet expected increases in demand» | pronóstico y plan agregado, de Cadena de suministro y logística |
 | Ciclo | «The portion of inventory that results from ordering or producing in lots or batches» | [lote económico](lote-economico.md) |
@@ -34,7 +34,7 @@ El stock existe porque cumple funciones distintas, y cada función se dimensiona
 | Tránsito (pipeline) | «Inventory that is currently in transit between locations in the supply chain» | Cadena de suministro y logística |
 | Desacople | «Inventory held between stages of a production process or supply chain» | Producción, o la cadena |
 
-La columna «Dónde se decide» es criterio de la base. Reposición se queda con el stock de ciclo y el de seguridad; los demás se nombran para no confundirlos.
+Lo que va entre comillas es de la fuente; las descripciones sin comillas (seguridad, cobertura) y la columna «Dónde se decide» son criterio de la base. Reposición se queda con el stock de ciclo y el de seguridad; los demás se nombran para no confundirlos.
 
 > [!NOTE] Sin fuente todavía: la lista de funciones del Diccionario APICS. Una búsqueda atribuyó al CPIM Learning System otra lista de seis (anticipación, cobertura, ciclo, fluctuación, transporte y repuestos de servicio), solo de forma secundaria.
 
@@ -52,7 +52,7 @@ TRC = A(D/Q) + (Q/2 + kσL)vr + B1(D/Q)p_u≥(k)
 
 A es el costo por pedido, D la demanda anual, Q la cantidad por pedido, v el costo unitario y r la tasa anual de mantener. El primer término son los pedidos del año; el segundo, el stock promedio (la mitad del lote más el stock de seguridad kσL) por lo que cuesta tenerlo; el tercero, el costo B1 de cada faltante por la probabilidad de faltar en cada ciclo. Los ejemplos del MIT usan r = 10 %, que es un dato de ejemplo y no del campo.
 
-Pedir más seguido baja el stock promedio y sube los pedidos; pedir más de una vez baja los pedidos y sube el stock. Ese tironeo es el [lote económico](lote-economico.md). Subir el colchón baja los faltantes y sube el costo de mantener, y ese es el [stock de seguridad](stock-de-seguridad.md).
+Pedir más seguido baja el stock promedio y sube los pedidos; pedir menos seguido baja los pedidos y sube el stock. Ese tironeo es el [lote económico](lote-economico.md). Subir el colchón baja los faltantes y sube el costo de mantener, y ese es el [stock de seguridad](stock-de-seguridad.md).
 
 ## Cómo se arma una política de reposición
 

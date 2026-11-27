@@ -47,14 +47,14 @@ Preparar cajas completas y preparar unidades sueltas son trabajos distintos: el 
 
 De Koster, Le-Duc y Roodbergen describen las variantes:
 
-| Manera | Cómo trabaja | Qué gana y qué cuesta |
+| Manera | Cómo trabaja | Qué gana y qué cuesta (en parte criterio de la base) |
 |---|---|---|
 | Por pedido (discreto) | una persona recorre el depósito con un pedido por vez | simple, sin clasificar después; la caminata más larga |
 | Por lote (batch) | una persona junta varios pedidos en un mismo recorrido | menos caminata; hay que separar los pedidos, mientras se saca o después |
 | Por zona | el depósito se divide en partes, cada una con su gente; el pedido pasa de zona en zona (progresivo) o todas trabajan en paralelo (sincronizado) | cada uno camina poco y aprende su zona; hay que juntar las partes y balancear la carga |
 | Por ola | se liberan juntos los pedidos que tienen un destino común, como un camión que sale a una hora fija, en varias zonas a la vez | ordena el trabajo según la salida; la ola siguiente espera a que termine la anterior |
 
-Según la misma revisión, una ola suele durar entre 30 minutos y 2 horas. Las maneras se combinan: un depósito puede preparar por ola, dentro de la ola por zona y dentro de cada zona por lote.
+Según la misma revisión, una ola suele durar entre 30 minutos y 2 horas. Las maneras se combinan (criterio de la base): un depósito puede preparar por ola, dentro de la ola por zona y dentro de cada zona por lote.
 
 Bartholdi y Hackman dan la regla para agrupar. Casi siempre conviene juntar los pedidos de una sola línea, porque no hay que separarlos después; los pedidos muy grandes no necesitan agruparse; la decisión difícil es con los medianos. Se agrupa cuando lo que cuesta separar los pedidos y el espacio extra es menos que la caminata que se ahorra. El picking por zona, agregan, funciona como una línea de montaje: los pedidos salen en el orden en que se liberaron, pero hay que balancear la carga entre zonas.
 
@@ -70,7 +70,7 @@ La preparación saca de la zona de picking, que tiene poco de cada artículo. Si
 
 Al embalar, Bartholdi y Hackman ven el momento para revisar que el pedido esté completo y correcto, y llaman a la exactitud del pedido una medida clave del servicio. El costo de no hacerlo es alto: según el libro, manejar una devolución puede costar hasta diez veces lo que costó mandar el producto. Lo embalado se escanea para registrar que el pedido está listo para salir; ese registro es, para la base, donde termina este tema.
 
-Al embalar también se decide si se espera a juntar todo o se manda en partes. El libro da el ejemplo de una gran tienda online que manda dos paquetes si se piden dos libros con quince minutos de diferencia. Es una decisión de política, no del depósito: lo que se promete al cliente sobre entregas parciales está en [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md).
+Al embalar también se decide si se espera a juntar todo o se manda en partes. El libro da el ejemplo de una gran tienda online que probablemente manda dos paquetes si se piden dos libros con quince minutos de diferencia. Es una decisión de política, no del depósito: lo que se promete al cliente sobre entregas parciales está en [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md).
 
 En la Argentina, el remito tiene que estar hecho antes de que la mercadería salga; está en [Inventario y depósitos en la Argentina](../inventario-y-depositos-en-argentina.md). Cuando la preparación la hace un tercero para una tienda online, el caso y lo que se cobra están en [fulfillment](../../Comercio-electronico/Operaciones-del-comercio/Envios-y-logistica/fulfillment.md).
 

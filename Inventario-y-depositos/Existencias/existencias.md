@@ -36,7 +36,7 @@ Una cantidad de stock dice poco si no se sabe de qué, dónde y en qué condici�
 
 La práctica separa así las cantidades. El ERP de un proveedor grande calcula lo disponible sumando y restando cantidades que guarda aparte: stock físico, en inspección de calidad, entrante, reservado en firme, reservado en blando y saliente. Un sistema abierto modela el tránsito y las pérdidas de inventario como ubicaciones virtuales (según el resumen leído), es decir, los mete en la coordenada del lugar. La misma idea, aplicada a una tienda online, está en [catálogo y stock](../../Comercio-electronico/Operaciones-del-comercio/catalogo-y-stock.md).
 
-No todos los artículos usan las cuatro. Un comercio chico con un solo local lleva artículo y cantidad; el lote aparece cuando hay vencimiento o una obligación de rastrear, y el estado aparece en cuanto alguien aparta mercadería para un pedido que todavía no salió.
+No todos los artículos usan las cuatro (criterio de la base). Un comercio chico con un solo local lleva artículo y cantidad; el lote aparece cuando hay vencimiento o una obligación de rastrear, y el estado aparece en cuanto alguien aparta mercadería para un pedido que todavía no salió.
 
 ## La cantidad es un saldo de movimientos
 

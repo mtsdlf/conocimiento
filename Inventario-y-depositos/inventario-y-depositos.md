@@ -4,7 +4,7 @@ resumen: >-
 estado: borrador
 estabilidad: semi
 fuentes:
-  - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.4 «Manage logistics and warehousing» y 4.4.3 «Operate warehousing»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "APQC, Process Classification Framework 7.4 (2024), 4.4 «Manage logistics and warehousing» y 4.4.3 «Operate warehousing»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Bartholdi y Hackman, Warehouse & Distribution Science, versión 0.98.1: https://www.warehouse-science.com/"
   - "DeHoratius y Raman (2008), Inventory Record Inaccuracy: An Empirical Analysis, Management Science 54(4), 627-641: https://doi.org/10.1287/mnsc.1070.0789 (según el resumen)"
   - "Inventario-y-depositos/.investigacion/ (cinco informes, 2026-11-27)"
@@ -19,7 +19,7 @@ Inventario y depósitos, como dominio de negocio, es lo que una empresa registra
 
 El tema mira **lo que pasa adentro del depósito** y la cantidad que resulta. Lo de los costados es de otros dominios. Antes de la puerta de entrada está Compras y abastecimiento, que elige al proveedor y controla que llegó lo pedido. Después de la puerta de salida está Cadena de suministro y logística, que despacha, transporta y planifica la red. Cuánto vale lo guardado lo dice [Contabilidad](../Contabilidad/contabilidad.md), en [costo de lo vendido](../Contabilidad/Operaciones/costo-de-lo-vendido.md). La fecha que se le promete a un cliente es de [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md), en [fecha prometida](../Relacion-con-clientes/Pedido-de-venta/fecha-prometida.md); el cálculo de lo disponible en que se apoya esa fecha es de acá. Compras, Cadena de suministro y Producción todavía no están armados en la base.
 
-Las fuentes no separan así el dominio: APQC 7.4 pone el depósito dentro de «Manage logistics and warehousing» (4.4), junto con el transporte, y los cuerpos de certificación de operaciones ponen el inventario con la planificación. El corte es de la base, que le da a cada dominio un objeto y un verbo. Este tema es dueño de **la cantidad de cada artículo, en qué lugar y en qué estado**, y de recibir, ubicar, reservar, preparar, contar, ajustar y reponer.
+Las fuentes no separan así el dominio: APQC 7.4 pone el depósito dentro de «Manage logistics and warehousing» (4.4), junto con el transporte, y, a juicio de la base, los cuerpos de certificación de operaciones ponen el inventario con la planificación (ninguna fuente leída lo sostiene). El corte es de la base, que le da a cada dominio un objeto y un verbo. Este tema es dueño de **la cantidad de cada artículo, en qué lugar y en qué estado**, y de recibir, ubicar, reservar, preparar, contar, ajustar y reponer.
 
 ## Las cuatro partes del dominio
 

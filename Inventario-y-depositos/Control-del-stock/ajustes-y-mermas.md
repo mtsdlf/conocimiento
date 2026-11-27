@@ -41,7 +41,7 @@ La encuesta de seguridad del comercio minorista de Estados Unidos (NRSS 2023, so
 | Desconocido | 6 % |
 | Otros | 1 % |
 
-La tasa promedio de merma fue de 1,6 % de las ventas, contra 1,4 % el año anterior. Son cifras de comercio minorista, no de un depósito general, y para la Argentina no se encontró un equivalente.
+La tasa promedio de merma fue de 1,6 %, contra 1,4 % el año anterior. Son cifras de comercio minorista, no de un depósito general, y para la Argentina no se encontró un equivalente.
 
 Lo que la tabla muestra, leído por la base: más de un cuarto de la merma, la de errores administrativos o de proceso, es un registro mal hecho sin mercadería que falte. Una devolución que no se cargó, una recepción contada de más o un pedido preparado con otro artículo producen la misma diferencia que un robo. La divulgación del estudio de DeHoratius y Raman nombra esas causas: errores de escaneo, devoluciones y cambios mal tratados, envíos equivocados y mercadería que llega sin inspeccionar.
 

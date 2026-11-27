@@ -48,7 +48,7 @@ La idea que ordena la vertical es de Bartholdi y Hackman: la mayor parte del gas
 
 ## Dos inventarios: el de productos y el de lugares
 
-Un depósito con más de unos pocos pasillos lleva dos registros. Uno dice cuánto hay de cada artículo; el otro, qué ubicaciones están libres, de qué tamaño y cuánto peso aguantan. Bartholdi y Hackman llaman a la capacidad de llevar los dos «stock locator» y la ponen como lo que habilita a un sistema a decirle al operario dónde guardar y de dónde sacar. Está en [ubicaciones](ubicaciones.md).
+Un depósito de cierto tamaño lleva dos registros (criterio de la base). Uno dice cuánto hay de cada artículo; el otro, qué ubicaciones están libres, de qué tamaño y cuánto peso aguantan. Bartholdi y Hackman llaman a la capacidad de llevar los dos «stock locator» y la ponen como lo que habilita a un sistema a decirle al operario dónde guardar y de dónde sacar. Está en [ubicaciones](ubicaciones.md).
 
 ## Cómo falla la operación
 

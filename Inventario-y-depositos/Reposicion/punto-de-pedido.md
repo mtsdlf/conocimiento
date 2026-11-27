@@ -49,7 +49,7 @@ El MIT usa esta notación: «s = Order Point, S = Order-up-to Level, L = Order L
 | (R, S) | periódica | «Order S-IP every R time periods» | ciclo de reposición |
 | (R, s, S) | periódica | «Order S-IP if IP ≤ s every R time periods, if IP>s then do not order» | híbrido |
 
-El doble cajón es la versión física de (s, Q): cuando se vacía el primer cajón, se pide; el segundo cajón es el punto de pedido. El «stock mínimo» de una planilla con alerta de reponer, como el de [planilla de stock](../../Planillas-de-calculo/Diseno-de-planillas/planilla-de-stock.md), es un punto de pedido puesto a ojo, sin la fórmula (lectura de la base).
+El doble cajón es la versión física de (s, Q): cuando se vacía el primer cajón, se pide; el segundo cajón es el punto de pedido (lectura de la base). El «stock mínimo» de una planilla con alerta de reponer, como el de [planilla de stock](../../Planillas-de-calculo/Diseno-de-planillas/planilla-de-stock.md), es un punto de pedido puesto a ojo, sin la fórmula (lectura de la base).
 
 ## Continua o periódica
 
