@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El desempeño de los activos es cómo una empresa sabe si su mantenimiento alcanza: cuánto andan los equipos entre fallas, cuánto tardan en volver, cuánto del plan se cumple y cuánto cuesta. Cada indicador sirve para una decisión concreta, y la más grande es cuándo dejar de reparar un equipo y reemplazarlo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 10.3.2 y 10.4.1, pp. 27-28: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-registro-y-desempeno.md (2026-11-27)"
 aliases: [desempeño del mantenimiento, maintenance performance, asset performance, gestión del desempeño de activos, asset performance management, APM, indicadores de mantenimiento, KPI de mantenimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desempeño de los activos

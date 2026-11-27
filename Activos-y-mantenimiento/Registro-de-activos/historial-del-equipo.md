@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El historial del equipo es lo que le pasó a cada equipo a lo largo de su vida: las órdenes de trabajo cerradas, las fallas con su modo y su causa, los repuestos que se le cambiaron, dónde estuvo instalado y las lecturas de sus medidores. De él salen los indicadores y la decisión de seguir reparando o reemplazar, y por eso vale tanto como la calidad de lo que se cargó al cerrar cada orden.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Reliability-centered maintenance (resumen): https://en.wikipedia.org/wiki/Reliability-centered_maintenance"
@@ -18,7 +18,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/estrategia-y-fundamentos.md (2026-11-27), componente A"
 aliases: [historia del equipo, historial de mantenimiento, maintenance history, equipment history, bitácora del equipo, hoja de vida del equipo, código de falla, failure code, modo de falla, failure mode, causa de falla, failure cause, mecanismo de falla, failure mechanism, problema causa remedio, problem cause remedy, medidor, meter, contador, counter, punto de medida, measuring point, horómetro]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historial del equipo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La criticidad de un equipo es cuánto le importa a la empresa que falle, por la gravedad de lo que pasa cuando falla y por lo probable que es. Se calcula una vez por equipo, con un análisis que suele terminar en una matriz de consecuencia por probabilidad, y decide cuánto esfuerzo de mantenimiento merece cada uno.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wikipedia, Reliability-centered maintenance (resumen): https://en.wikipedia.org/wiki/Reliability-centered_maintenance"
@@ -14,7 +14,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-registro-y-desempeno.md (2026-11-27)"
 aliases: [análisis de criticidad, criticality analysis, criticidad del equipo, asset criticality, equipment criticality, matriz de riesgo, risk matrix, matriz de criticidad, criticality matrix, FMECA, ranking de criticidad]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Criticidad

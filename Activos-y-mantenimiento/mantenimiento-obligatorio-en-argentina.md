@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la Argentina, la Ley 19.587 de Higiene y Seguridad en el Trabajo obliga al empleador a mantener sus máquinas, instalaciones eléctricas y equipos contra incendios, pero la norma nacional fija pocas frecuencias: calderas al menos una vez al año, aparatos para izar a diario y cada tres meses, y la medición de puesta a tierra con validez de 12 meses. Ascensores, matafuegos y aparatos a presión dependen de la jurisdicción: en la Ciudad de Buenos Aires hay un conservador inscripto que informa al menos una vez al mes y la recarga de matafuegos vale un año; en la Provincia de Buenos Aires, los aparatos a presión se ensayan con ingenieros inscriptos.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 19.587 de Higiene y Seguridad en el Trabajo, arts. 8 y 9, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/17612/norma.htm"
@@ -22,7 +22,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-argentina.md (2026-11-27)"
 aliases: [mantenimiento obligatorio, mantenimiento legal, mantenimiento reglamentario, inspecciones obligatorias, statutory maintenance, regulatory inspections, Ley 19.587, Decreto 351/79, Resolución SRT 900/2015, medición de puesta a tierra, protocolo de puesta a tierra, inspección de calderas, aparatos para izar, control de matafuegos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mantenimiento obligatorio en la Argentina

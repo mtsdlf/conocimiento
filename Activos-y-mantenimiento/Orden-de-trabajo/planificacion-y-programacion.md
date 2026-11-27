@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Planificar una orden de trabajo es decidir qué se hace, cómo y con qué (tareas, horas, oficios, repuestos, herramientas); programarla es decidir cuándo y quién. Son dos trabajos distintos: el primero deja la orden lista, el segundo la pone en la semana de una cuadrilla, en el momento en que producción puede parar el equipo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "D. Palmer, «Do you know the purpose and principles of maintenance planning and scheduling?», Palmer's Planning Corner, Plant Services, 3 de marzo de 2026 [M]: https://www.plantservices.com/voices/palmers-planning-corner/article/55361071/do-you-know-the-purpose-and-principles-of-maintenance-planning-and-scheduling"
@@ -14,7 +14,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-orden-de-trabajo.md, orden-de-trabajo.md, tercera-ronda.md y apqc-10.md"
 aliases: [planificación del mantenimiento, programación del mantenimiento, maintenance planning, maintenance scheduling, planning and scheduling, pendiente, backlog, trabajo pendiente, tiempo de herramienta, wrench time, cumplimiento del programa, schedule compliance, trabajo listo, ready backlog]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificación y programación

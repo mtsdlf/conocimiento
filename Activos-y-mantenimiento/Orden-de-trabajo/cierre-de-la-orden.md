@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cerrar una orden de trabajo es registrar lo que pasó: el trabajo hecho, la falla encontrada, las horas, los materiales y el costo. Es lo que convierte un trabajo en historia del equipo; un cierre vacío o mal codificado deja un historial que no sirve para medir ni para decidir.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "IBM, Maximo Manage, Work order statuses (terminada, cerrada, edición en historia): https://www.ibm.com/docs/en/maximo-manage/continuous-delivery?topic=orders-work-order-statuses"
@@ -16,7 +16,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-orden-de-trabajo.md, orden-de-trabajo.md, registro-y-desempeno.md, servicio-de-campo.md, tercera-ronda.md y apqc-10.md"
 aliases: [cierre de la orden, cierre de orden de trabajo, work order close, work order completion, cierre técnico, cierre administrativo, technical completion, códigos de falla, failure codes, notificación de tiempos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cierre de la orden

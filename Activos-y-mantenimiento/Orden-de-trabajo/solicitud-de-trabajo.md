@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La solicitud de trabajo es el aviso de que un equipo necesita atención: alguien ve una falla, un ruido o una pérdida y lo registra. Es un pedido, no una autorización; mantenimiento lo evalúa, decide si se convierte en orden de trabajo y con qué prioridad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Odoo 17, Maintenance requests (campos y prioridad): https://www.odoo.com/documentation/17.0/applications/inventory_and_mrp/maintenance/maintenance_requests.html"
@@ -18,7 +18,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-orden-de-trabajo.md, orden-de-trabajo.md, tercera-ronda.md, apqc-10.md y servicio-de-campo.md"
 aliases: [solicitud de trabajo, aviso, aviso de mantenimiento, pedido de trabajo, pedido de mantenimiento, solicitud de mantenimiento, work request, maintenance request, maintenance notification, notificación de avería]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Solicitud de trabajo

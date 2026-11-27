@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Activos y mantenimiento, como dominio de negocio, es lo que una empresa registra y decide sobre los equipos que tienen que seguir funcionando: qué equipos hay y qué les pasó, qué mantenimiento se le hace a cada uno, cómo se organiza el trabajo con órdenes y cómo se mide si alcanza. Incluye el servicio de campo, el mismo trabajo hecho en casa del cliente sobre un equipo que es de él. Existe antes del software: una planilla de equipos, un tablero de tarjetas y un cuaderno de historial hacen lo mismo que un sistema de mantenimiento (CMMS o EAM).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), categoría 10.0 «Acquire, Construct, and Manage Assets» y 6.3 «Service products after sales»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/ (informes del 2026-11-27)"
 aliases: [mantenimiento, gestión del mantenimiento, maintenance management, gestión de activos, asset management, EAM, enterprise asset management, CMMS, computerized maintenance management system, mantenimiento de planta, plant maintenance, servicio técnico]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Activos y mantenimiento

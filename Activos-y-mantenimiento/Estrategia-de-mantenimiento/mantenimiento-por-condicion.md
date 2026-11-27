@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El mantenimiento por condición es el que mide el estado de un equipo y lo interviene cuando la medición muestra que una falla está en camino, en lugar de hacerlo a intervalos fijos. Funciona solo si la falla avisa con tiempo para actuar: ese tiempo es el intervalo P-F.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "DOE/FEMP, O&M Best Practices Guide, Release 3.0, cap. 5, sec. 5.4 «Predictive Maintenance (Condition-Based Maintenance)» y comparación de programas: https://www1.eere.energy.gov/femp/pdfs/OM_5.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-estrategia.md (2026-11-27)"
 aliases: [mantenimiento por condición, mantenimiento predictivo, predictive maintenance, PdM, mantenimiento basado en la condición, condition-based maintenance, CBM, monitoreo de condición, condition monitoring, curva P-F, P-F curve, intervalo P-F, P-F interval, falla potencial, potential failure, falla funcional, functional failure, tarea a condición, on-condition task]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mantenimiento por condición

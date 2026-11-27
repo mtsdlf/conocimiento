@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El mantenimiento preventivo es el que se hace a intervalos fijados de antemano, por calendario o por uso, sin esperar a que el equipo falle ni a que muestre síntomas. Se organiza como un plan de tareas con su frecuencia, y el plan genera una orden de trabajo cada vez que una tarea vence.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "DOE/FEMP, O&M Best Practices Guide, Release 3.0, cap. 5, sec. 5.3 «Preventive Maintenance» y 5.4: https://www1.eere.energy.gov/femp/pdfs/OM_5.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-estrategia.md (2026-11-27)"
 aliases: [mantenimiento preventivo, preventive maintenance, PM, mantenimiento planificado, planned maintenance, mantenimiento programado, scheduled maintenance, mantenimiento predeterminado, predetermined maintenance, plan de mantenimiento, maintenance plan, preventivo por calendario, time-based maintenance, preventivo por uso, usage-based maintenance, meter-based maintenance]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mantenimiento preventivo

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El mantenimiento centrado en la confiabilidad (RCM) es un método para decidir qué mantenimiento necesita cada equipo partiendo de su función: qué tiene que hacer, de qué maneras puede dejar de hacerlo, qué consecuencias tiene cada falla y qué tarea, si alguna, la previene o la detecta a tiempo. Elige entre los tipos de mantenimiento: lo que sale de él, para cada modo de falla, es una tarea de la estrategia o la decisión de no hacer ninguna.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Nowlan y Heap, Reliability-Centered Maintenance, United Airlines para el Departamento de Defensa de EE.UU., 29 de diciembre de 1978, DTIC ADA066579, secs. 1.2, 2.3, 2.4, 2.8 y cap. 3 (copia de la Wayback Machine del PDF de DTIC; la URL original, apps.dtic.mil/sti/pdfs/ADA066579.pdf, da 403): https://web.archive.org/web/2020/https://apps.dtic.mil/sti/pdfs/ADA066579.pdf"
@@ -20,7 +20,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/tercera-ronda.md (Nowlan y Heap, 2026-11-27)"
 aliases: [mantenimiento centrado en la confiabilidad, RCM, reliability-centered maintenance, reliability-centred maintenance, RCM2, mantenimiento centrado en la fiabilidad, patrones de falla, failure patterns, curvas de Nowlan y Heap, curva de la bañera, bathtub curve, FMEA, AMEF, análisis de modos y efectos de falla, failure mode and effects analysis, SAE JA1011]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mantenimiento centrado en la confiabilidad

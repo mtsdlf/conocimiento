@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La orden de trabajo es el documento que autoriza y lleva un trabajo de mantenimiento sobre un equipo, desde que alguien lo pide hasta que se cierra con lo que se hizo, lo que se usó y lo que costó. Pasa por estados que separan pedir, aprobar, preparar, ejecutar, terminar el trabajo físico y cerrar el registro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IBM, Maximo Manage, Work order statuses (estados y transiciones): https://www.ibm.com/docs/en/maximo-manage/continuous-delivery?topic=orders-work-order-statuses"
@@ -17,7 +17,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/orden-de-trabajo.md, tercera-ronda.md, apqc-10.md y servicio-de-campo.md"
 aliases: [orden de trabajo, OT, orden de mantenimiento, work order, WO, maintenance work order, ciclo de la orden de trabajo, work order lifecycle, gestión del trabajo, work management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Orden de trabajo

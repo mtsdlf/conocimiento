@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El servicio de campo es el mantenimiento que una empresa hace sobre equipos de sus clientes, en el lugar donde están: instalarlos, mantenerlos y repararlos. Usa el mismo ciclo de orden de trabajo que el mantenimiento interno y le suma lo que trae que el equipo sea de otro: el contrato, el viaje, la conformidad del cliente y el cobro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 6.3 «Service products after sales», 5.0 «Deliver Service» y 10.3 «Maintain assets»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/apqc-10.md"
 aliases: [servicio de campo, field service, field service management, FSM, gestión del servicio de campo, servicio técnico, servicio técnico a domicilio, servicio posventa, after-sales service, service products after sales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Servicio de campo

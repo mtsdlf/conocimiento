@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La jerarquía de activos ordena los equipos de una empresa de lo general a lo particular: la planta, sus sistemas, los lugares donde se instala un equipo, el equipo y sus componentes. Su decisión central es separar la ubicación técnica, que queda, del equipo, que se puede mover, para que cada uno guarde su propia historia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Reliable Media (Reliamag), How to build an asset hierarchy in a CMMS, cita la figura 3 de ISO 14224:2016 vía un paper de OTC (resumen): https://reliamag.com/topics/guides/how-to-build-asset-hierarchy-cmms"
@@ -19,7 +19,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-registro-y-desempeno.md (2026-11-27)"
 aliases: [jerarquía de equipos, asset hierarchy, ubicación técnica, functional location, ubicación funcional, taxonomía de equipos, equipment taxonomy, ISO 14224, lista de repuestos del equipo, lista de materiales de mantenimiento, maintenance BOM, equipment BOM, componente mantenible, maintainable item]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Jerarquía de activos

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El contrato de servicio es el acuerdo por el que una empresa se obliga a mantener o reparar equipos de un cliente durante un período, a un precio negociado: dice qué equipos cubre, dónde, cada cuánto se visitan y qué se cobra aparte. A diferencia de la garantía, que es una promesa del vendedor, el contrato es un servicio que se vende, y es lo que genera las visitas preventivas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, Set up customer agreements to generate work orders, 2026-03-02: https://learn.microsoft.com/en-us/dynamics365/field-service/set-up-agreements-work-orders"
@@ -19,7 +19,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/servicio-de-campo.md (rondas 1 y 2)"
 aliases: [contrato de servicio, contrato de mantenimiento, service contract, service agreement, maintenance contract, acuerdo de servicio, abono de mantenimiento, AMC, annual maintenance contract, garantía, warranty, garantía extendida, extended warranty, cobertura, entitlement, derecho de servicio, SLA, acuerdo de nivel de servicio]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contrato de servicio

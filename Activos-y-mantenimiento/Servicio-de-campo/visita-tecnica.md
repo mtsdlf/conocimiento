@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La visita técnica es la cita concreta de un técnico en el lugar del cliente para trabajar sobre una orden de servicio: viaja, llega, trabaja, usa repuestos y la cierra con la conformidad del cliente, completa o con seguimiento. Cada paso deja la hora en que pasó, y de esos registros salen la factura y el historial del equipo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Overview of Dynamics 365 Field Service, 2026-11-23: https://learn.microsoft.com/en-us/dynamics365/field-service/overview"
@@ -18,7 +18,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/servicio-de-campo.md (rondas 1 y 2) y tercera-ronda.md"
 aliases: [visita técnica, visita, visita de servicio, visita de mantenimiento, maintenance visit, service visit, reserva, booking, servicio en sitio, on-site service, stock de la camioneta, truck stock, van stock, firma del cliente, customer signature, conformidad del cliente, resolver en la primera visita, first-time fix, first-time fix rate, FTFR, visita de seguimiento, follow-up]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Visita técnica

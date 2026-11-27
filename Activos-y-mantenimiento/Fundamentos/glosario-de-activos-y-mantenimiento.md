@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos del tema Activos y mantenimiento, cada uno con su nombre en inglés, una definición corta y la nota donde vive, agrupados por la parte del dominio a la que pertenecen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Corrective maintenance (cita NF EN 13306; según su resumen): https://en.wikipedia.org/wiki/Corrective_maintenance"
@@ -10,7 +10,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/ (informes del 2026-11-27)"
 aliases: [glosario de mantenimiento, maintenance glossary, términos de mantenimiento, vocabulario de mantenimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de activos y mantenimiento

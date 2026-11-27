@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estrategia de mantenimiento es la decisión de qué mantenimiento se le hace a cada equipo: repararlo cuando falla, intervenirlo a intervalos fijos de tiempo o de uso, vigilar su condición e intervenir cuando avisa, o dejarlo fallar a propósito. Se decide equipo por equipo, y a veces modo de falla por modo de falla, según cuánto importa que falle y cómo falla.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "DOE/FEMP, O&M Best Practices Guide, Release 3.0, cap. 5 «Types of Maintenance Programs»: https://www1.eere.energy.gov/femp/pdfs/OM_5.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-estrategia.md (2026-11-27)"
 aliases: [estrategia de mantenimiento, maintenance strategy, tipos de mantenimiento, types of maintenance, política de mantenimiento, maintenance policy, programa de mantenimiento, maintenance program]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estrategia de mantenimiento

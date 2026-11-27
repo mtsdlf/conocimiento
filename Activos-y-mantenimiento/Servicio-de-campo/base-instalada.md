@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La base instalada es el registro de cada equipo que la empresa vendió o instaló y que está en manos de un cliente: qué es, su número de serie, dónde está, cuándo se instaló y qué cobertura tiene. Cumple para los equipos ajenos el papel que el registro de activos cumple para los propios, y no tiene contraparte contable en la empresa que lo lleva.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, Overview of Dynamics 365 Field Service, 2026-11-23: https://learn.microsoft.com/en-us/dynamics365/field-service/overview"
@@ -15,7 +15,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/servicio-de-campo.md (rondas 1 y 2)"
 aliases: [base instalada, installed base, parque instalado, equipo del cliente, activo del cliente, customer asset, customer equipment, número de serie, serial number, registro de productos, product registration]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Base instalada

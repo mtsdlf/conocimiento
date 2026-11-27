@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los repuestos y materiales de una orden de trabajo son lo que el trabajo consume además de horas: piezas del equipo, insumos y consumibles. La orden los pide, los reserva contra el stock y registra lo que de verdad se usó, que pasa al costo de la orden y al historial del equipo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "IBM, Maximo Manage, Work order statuses (estado esperando materiales): https://www.ibm.com/docs/en/maximo-manage/continuous-delivery?topic=orders-work-order-statuses"
@@ -14,7 +14,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/orden-de-trabajo.md, registro-y-desempeno.md, servicio-de-campo.md y apqc-10.md"
 aliases: [repuestos, materiales de mantenimiento, spare parts, MRO, repuestos críticos, critical spares, reserva de materiales, material reservation, consumo de materiales, esperando materiales, waiting for materials]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Repuestos y materiales

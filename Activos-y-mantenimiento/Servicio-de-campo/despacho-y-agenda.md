@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El despacho es asignar cada orden de servicio a un técnico y a un horario, y la agenda es el resultado: las visitas de cada técnico en el día, con su ruta. Se decide por ubicación, disponibilidad, habilidades y prioridad, dentro de la ventana que el cliente o el contrato aceptan, a mano, con un asistente o con un motor de optimización.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, Overview of Dynamics 365 Field Service, 2026-11-23: https://learn.microsoft.com/en-us/dynamics365/field-service/overview"
@@ -18,7 +18,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/servicio-de-campo.md (rondas 1 y 2)"
 aliases: [despacho, agenda, despacho y agenda, dispatch, dispatching, scheduling, programación de técnicos, field service scheduling, tablero de programación, schedule board, reserva, booking, ventana horaria, time window, ruteo de técnicos, technician routing, despachante, dispatcher, autoasignación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Despacho y agenda

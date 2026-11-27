@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tres hitos con fuente marcan el mantenimiento como disciplina, la aviación (RCM), Japón (TPM) y la gestión de activos de la ISO 55000, y hoy los tres enfoques conviven en planos distintos. Varias cifras y creencias del campo circulan sin respaldo, y el saber se produce en normas, sociedades profesionales, organismos públicos, revistas y prensa de practicantes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "NASA, Reliability Centered Maintenance Guide for Facilities and Collateral Equipment, copia de febrero de 2000, sec. 1.2, fig. 1-1 y sec. 2.4: https://everyspec.com/NASA/NASA-General/download.php?spec=NASA_RCM_GUIDE_2000.030306.pdf"
@@ -30,7 +30,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/posicion-contraria.md (2026-11-27)"
 aliases: [fundamentos de mantenimiento, historia del mantenimiento, escuelas de mantenimiento, TPM, mantenimiento productivo total, total productive maintenance, gestión de activos, asset management, ISO 55000, ISO 55001, PAS 55, mitos del mantenimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de activos y mantenimiento

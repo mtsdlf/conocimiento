@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los indicadores de mantenimiento son las cuentas que se hacen sobre el historial de los equipos y de las órdenes de trabajo para saber cuánto andan los equipos (MTBF, MTTR, disponibilidad), si el trabajo se hace como se planeó (cumplimiento del preventivo, pendiente, trabajo planificado) y cuánto cuesta (costo sobre valor de reposición). Cada uno tiene más de una fórmula en circulación, y ninguno vale sin decir cuál se usó.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Reliable Media (Reliamag), Maintenance and Reliability KPI Reference (página leída, sin fecha de publicación): https://reliamag.com/topics/guides/maintenance-reliability-kpi-reference"
@@ -21,7 +21,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-registro-y-desempeno.md (2026-11-27)"
 aliases: [KPI de mantenimiento, maintenance KPI, métricas de mantenimiento, maintenance metrics, MTBF, tiempo medio entre fallas, mean time between failures, MTTR, tiempo medio de reparación, mean time to repair, MTTF, tiempo medio hasta la falla, MTBM, disponibilidad, availability, disponibilidad inherente, disponibilidad operacional, cumplimiento del preventivo, PM compliance, pendiente en semanas, backlog, trabajo planificado, planned work, costo sobre valor de reposición, RAV, replacement asset value]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Indicadores de mantenimiento

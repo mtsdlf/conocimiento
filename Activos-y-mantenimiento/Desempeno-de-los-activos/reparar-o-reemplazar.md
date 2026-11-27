@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Reparar o reemplazar es la decisión de seguir manteniendo un equipo o darlo de baja y poner otro, y se toma comparando cuánto cuesta por año cada camino a lo largo de su vida. Las herramientas son el costo del ciclo de vida, que suma todo lo que cuesta tener el equipo, y el costo anual equivalente, que pone en la misma unidad opciones de vidas distintas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Whole-life cost (resumen): https://en.wikipedia.org/wiki/Whole-life_cost"
@@ -15,7 +15,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/verificacion-registro-y-desempeno.md (2026-11-27)"
 aliases: [reparar o reemplazar, repair or replace, decisión de reemplazo, replacement decision, costo del ciclo de vida, life cycle cost, LCC, costo total de propiedad, whole-life cost, total cost of ownership, TCO, costo anual equivalente, equivalent annual cost, EAC, vida económica, economic life, fin de vida del activo, asset end-of-life]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reparar o reemplazar
