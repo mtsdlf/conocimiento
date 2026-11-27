@@ -24,7 +24,7 @@ Es la quinta parte de [Cadena de suministro y logística](../cadena-de-suministr
 
 ## Quién interviene cuando la carga cruza
 
-Una compra local tiene dos partes y un transportista. Una importación suma por lo menos una aduana y, casi siempre, alguien que hace los trámites ante ella. Las figuras con fuente leída son estas; las definiciones legales son del Código Aduanero argentino, que sirve de ejemplo y se desarrolla en [la nota de la Argentina](../cadena-de-suministro-y-logistica-en-argentina.md).
+Una compra local tiene dos partes y un transportista. Una importación suma por lo menos una aduana y alguien que hace los trámites ante ella: el propio importador o un despachante. Las figuras con fuente leída son estas; las definiciones legales son del Código Aduanero argentino, que sirve de ejemplo y se desarrolla en [la nota de la Argentina](../cadena-de-suministro-y-logistica-en-argentina.md).
 
 | Actor | Qué hace | Fuente |
 |---|---|---|

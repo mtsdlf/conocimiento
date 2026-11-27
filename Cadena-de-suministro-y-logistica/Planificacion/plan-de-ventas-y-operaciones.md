@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El plan de ventas y operaciones (S&OP) es el proceso, normalmente mensual, en que ventas, operaciones y finanzas acuerdan un único plan de demanda y de abastecimiento por familia y por período. Su salida es el plan agregado que después se baja al plan maestro de producción y al plan de distribución.
+  El plan de ventas y operaciones (S&OP) es el proceso, normalmente mensual, en que ventas, operaciones y finanzas acuerdan un único plan de demanda y de abastecimiento para los meses que vienen. Su salida es el plan agregado que después se baja al plan maestro de producción y al plan de distribución.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -22,13 +22,13 @@ revisado:
 
 # Plan de ventas y operaciones
 
-El plan de ventas y operaciones (S&OP) es el proceso, normalmente mensual, en que ventas, operaciones y finanzas acuerdan un único plan de demanda y de abastecimiento por familia y por período. Su salida es el plan agregado que después se baja al plan maestro de producción y al plan de distribución.
+El plan de ventas y operaciones (S&OP) es el proceso, normalmente mensual, en que ventas, operaciones y finanzas acuerdan un único plan de demanda y de abastecimiento para los meses que vienen. Su salida es el plan agregado que después se baja al plan maestro de producción y al plan de distribución.
 
 El glosario del CSCMP lo define como «A strategic planning process that reconciles conflicting business objectives and plans future supply chain actions», en el que distintas áreas, «such as sales, operations and finance», acuerdan «a single plan/forecast that can be used to drive the entire business». Es el nivel de arriba de la jerarquía de [Planificación](planificacion.md): toma el [pronóstico de demanda](pronostico-de-demanda.md) y lo convierte en un compromiso.
 
 ## Una práctica, no un proceso del marco
 
-El S&OP viene de los cuerpos de certificación y de la consultoría, no de los marcos de procesos. APQC 7.4 no tiene un proceso con ese nombre: lo más cercano es 4.1.2.3, «Develop demand consensus forecast». Una fuente secundaria atribuye el término a Richard Ling, consultor de Oliver Wight, en los años ochenta.
+El S&OP viene de los cuerpos de certificación y de la consultoría, no de los marcos de procesos. APQC 7.4 no tiene un proceso con ese nombre: lo más cercano es 4.1.2.3, «Develop demand consensus forecast».
 
 > [!NOTE] Sin fuente todavía: el ciclo de S&OP en un texto de referencia (Wallace, *Sales & Operations Planning: The How-To Handbook*, o Oliver Wight). Lo que sigue sale de un solo estudio de caso.
 
@@ -38,7 +38,7 @@ La única fuente leída que describe el ciclo paso a paso es un estudio de caso 
 
 | Paso | Cuándo, en el caso | Quién | Qué sale |
 |---|---|---|---|
-| 1. Recolección de datos | automática y diaria; no es paso formal | el sistema | historia de ventas, stock y capacidad |
+| 1. Recolección de datos | automática y diaria; no es paso formal | el sistema | la carga de datos del ERP |
 | 2. Plan de demanda | primera semana | ventas y marketing | un plan de demanda sin restricciones, agregado y por artículo |
 | 3. Plan de abastecimiento | segunda semana | el director de la cadena de suministro | un plan con restricciones de capacidad y opciones para cubrir las brechas |
 | 4. Reunión previa | tercera semana, no siempre formal | «representatives from different functional business areas (e.g., sales, marketing, and operations)», y finanzas | una propuesta con los dilemas sin resolver y su análisis financiero |
@@ -52,7 +52,7 @@ La diferencia entre el paso 2 y el 3 es el corazón del proceso (lectura de la b
 
 En el caso de PLoS ONE, el plan cubre un «18-month horizon». La revisión de la literatura de ese artículo agrega que el horizonte «is extended and tends to merge with the multi-year strategic plan». Una fuente secundaria repite los 18 meses «at the product family level (or SKU)». Es una sola cifra, de un caso: los rangos de 18 a 24 meses que circulan no tienen fuente leída.
 
-El plan se arma por familia de productos y por mes, no por artículo y semana. Bajarlo a artículos es trabajo del plan maestro, en Producción, y de la [planificación de la distribución](planificacion-de-la-distribucion.md).
+En el caso, el plan de demanda se hace agregado y por artículo (SKU) y se revisa por línea de producto y canal; la fuente secundaria habla de familia de productos «(or SKU)». La lectura de la base es que el plan se mira por familia y por mes, y que bajarlo a artículo y semana es trabajo del plan maestro, en Producción, y de la [planificación de la distribución](planificacion-de-la-distribucion.md).
 
 ## Perseguir la demanda o nivelar
 
@@ -69,7 +69,7 @@ El plan agregado de producción tiene dos estrategias opuestas, según una fuent
 | Detalle | cuentas y centros de costo | familia y mes | artículo y semana |
 | Dueño | finanzas | la dirección, con ventas, operaciones y finanzas | producción |
 
-La tabla es síntesis de la base: ninguna fuente leída define las diferencias. Lo que sí dice el caso de PLoS ONE es que el plan de S&OP «is compared to the budget with a risk analysis» antes de aprobarse, y que ventas y abastecimiento buscan cumplir el presupuesto comprometido. El presupuesto fija la meta del año; el S&OP revisa cada mes si el plan llega y qué hacer si no. Los pronósticos móviles que algunos proponen al lado del presupuesto anual están en la nota de presupuesto, de Contabilidad.
+La tabla es síntesis de la base: ninguna fuente leída define las diferencias. Lo que sí dice el caso de PLoS ONE es que el plan de S&OP «is compared to the budget with a risk analysis» antes de aprobarse, y que ventas y abastecimiento buscan cumplir el presupuesto comprometido. Lectura de la base: el presupuesto fija la meta del año; el S&OP revisa cada mes si el plan llega y qué hacer si no. Los pronósticos móviles que algunos proponen al lado del presupuesto anual están en la nota de presupuesto, de Contabilidad.
 
 El plan maestro y el MRP son de Producción, todavía no armado. El caso de PLoS ONE no los trata más que para decir que su «production master plan» alimenta el MRP.
 
@@ -82,7 +82,7 @@ La evidencia de que el S&OP mejora el desempeño existe, pero es parcial:
 - Thomé, Sousa y do Carmo (2014), con «725 manufacturing plants from 21 countries», hallaron que las prácticas de S&OP «impact positively on manufacturing operational dimensions of quality, delivery and flexibility», y más cuanto más complejo el proceso. Mide plantas y dimensiones operativas, no rentabilidad.
 - Grimson y Pyke (2007) propusieron un marco de madurez de cinco etapas con 15 entrevistas; encontraron que los procesos de negocio habilitan la integración del plan, «but that information technology is not clearly so».
 
-Resumen de la base: hay evidencia parcial de que el S&OP mejora el desempeño operativo y falta evidencia sólida sobre el resultado económico. En lo leído no hay un estudio que muestre que no mejora. El último punto importa a quien vende software: según ese estudio, la herramienta no es lo que hace funcionar el proceso.
+Resumen de la base: hay evidencia parcial de que el S&OP mejora el desempeño operativo y falta evidencia sólida sobre el resultado económico. En lo leído no hay un estudio que muestre que no mejora. El último punto importa a quien vende software: ese estudio, con una muestra chica y resultados que sus autores llaman preliminares, no encontró que la tecnología habilite con claridad la integración del plan.
 
 ## Lo que un sistema registra del S&OP, y lo que no
 

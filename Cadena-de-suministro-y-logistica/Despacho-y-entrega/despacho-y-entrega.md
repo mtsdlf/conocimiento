@@ -58,6 +58,8 @@ En la Argentina, el documento que acompaña todo traslado es el remito, y en alg
 
 ## Fallas del tramo
 
+Estas fallas son criterio de la base.
+
 - La salida no se confirma o se confirma tarde. El stock sigue figurando en el depósito aunque ya viaja, y el disponible para prometer miente (inferencia de la base).
 - Se entrega sin dejar constancia. Sin firma, fecha ni observaciones, después no se puede reclamar al transportista ni probar la entrega al cliente. En el transporte internacional por carretera, recibir sin reservas pesa como prueba de que todo llegó bien; está en [prueba de entrega](prueba-de-entrega.md).
 - Se mide «a tiempo» contra una fecha que nadie fijó. Si la base de la fecha y la tolerancia no se acuerdan antes, el indicador sale distinto según quién lo calcule; está en [nivel de servicio logístico](nivel-de-servicio-logistico.md).
@@ -65,11 +67,11 @@ En la Argentina, el documento que acompaña todo traslado es el remito, y en alg
 
 ## Cuándo es comercio electrónico
 
-Una tienda online hace lo mismo con paquetes chicos y casi siempre a través de un transportista o un agregador. Cómo se ve en una tienda (la etiqueta, el agregador, el costo del envío, el fulfillment) está en [Envíos y logística](../../Comercio-electronico/Operaciones-del-comercio/Envios-y-logistica/envios-y-logistica.md), y la devolución de una tienda, en [devoluciones](../../Comercio-electronico/Operaciones-del-comercio/devoluciones.md). Esta vertical da el concepto general, que vale también para un camión propio que reparte a comercios.
+Una tienda online hace lo mismo con paquetes chicos y casi siempre a través de un transportista o un agregador (lectura de la base). Cómo se ve en una tienda (la etiqueta, el agregador, el costo del envío, el fulfillment) está en [Envíos y logística](../../Comercio-electronico/Operaciones-del-comercio/Envios-y-logistica/envios-y-logistica.md), y la devolución de una tienda, en [devoluciones](../../Comercio-electronico/Operaciones-del-comercio/devoluciones.md). Esta vertical da el concepto general, que vale también para un camión propio que reparte a comercios.
 
 ## Notas de Despacho y entrega
 
 - [Despacho](despacho.md): el documento que registra lo que sale, sus datos y estados, el aviso de despacho anticipado, el SSCC y la etiqueta logística, y el seguimiento.
-- [Prueba de entrega](prueba-de-entrega.md): la conformidad del destinatario, la entrega fallida, la diferencia en destino y los plazos para reclamar del CMR, el convenio de transporte internacional por carretera nacido en Europa.
+- [Prueba de entrega](prueba-de-entrega.md): la conformidad del destinatario, la entrega fallida, la diferencia en destino y los plazos para reclamar del CMR, el convenio de transporte internacional por carretera de Ginebra, 1956.
 - [Nivel de servicio logístico](nivel-de-servicio-logistico.md): a tiempo y completo (OTIF), pedido perfecto y tasa de cumplimiento de la entrega, y por qué sus definiciones varían.
 - [Logística inversa](logistica-inversa.md): lo que vuelve por la cadena, la autorización de devolución y qué se hace con lo devuelto.

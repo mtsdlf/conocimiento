@@ -47,7 +47,7 @@ Cruza las cinco verticales de [Cadena de suministro y logística](../cadena-de-s
 
 ## De la logística a la cadena de suministro
 
-El término «gestión de la cadena de suministro» se usa desde los años ochenta. Ellram y Cooper (2014) hablan de «over three decades of the use of the term», y Lummus y Vokurka (1999) dicen que el interés «has steadily increased since the 1980s». El origen se atribuye a Oliver y Webber, «Supply-Chain Management: Logistics Catches up with Strategy», un texto de consultoría reeditado en 2012 en *The Roots of Logistics*.
+El término «gestión de la cadena de suministro» se usa desde los años ochenta. Ellram y Cooper (2014) hablan de «over three decades of the use of the term», y Lummus y Vokurka (1999) dicen que el interés «has steadily increased since the 1980s». Existe un texto de Oliver y Webber, «Supply-Chain Management: Logistics Catches up with Strategy», reeditado en 2012 en *The Roots of Logistics*, pero ninguna fuente leída confirma que sea el origen del término.
 
 > [!NOTE] Sin fuente todavía: el año y la publicación original del texto de Oliver y Webber, y quién usó primero el término. Solo se confirmaron el título y los autores.
 
@@ -58,7 +58,7 @@ Dos hitos anteriores al término:
 - La dinámica de la cadena. Forrester escribió «Industrial Dynamics: A Major Breakthrough for Decision Makers», reeditado en el mismo libro de 2012. El glosario del CSCMP pone en «Forrester's Industrial Dynamics (1961)» la raíz del [efecto látigo](../Planificacion/efecto-latigo.md), que por eso también se llama efecto Forrester.
 - El contenedor. Según la editorial de *The Box*, de Levinson, «In April 1956, a refitted oil tanker carried fifty-eight shipping containers from Newark to Houston». La misma página dice que el mundo se convenció del contenedor recién con el éxito de McLean abasteciendo a las fuerzas de EE.UU. en Vietnam.
 
-El MRP de los años sesenta está en [fundamentos de inventario y depósitos](../../Inventario-y-depositos/Fundamentos/fundamentos-de-inventario-y-depositos.md#de-la-ficha-de-stock-al-sistema-de-depósito). SCOR nació en 1996, según su propio documento, y quedó en manos de ASCM, que resultó de la fusión del Supply Chain Council y APICS en 2014.
+El MRP está en [fundamentos de inventario y depósitos](../../Inventario-y-depositos/Fundamentos/fundamentos-de-inventario-y-depositos.md#de-la-ficha-de-stock-al-sistema-de-depósito). SCOR nació en 1996, según su propio documento, y quedó en manos de ASCM, que resultó de la fusión del Supply Chain Council y APICS en 2014.
 
 > [!NOTE] Sin fuente todavía: el origen del DRP, la logística militar y la distribución física como antecedentes, y la fecha exacta del primer viaje del contenedor (la editorial da solo el mes).
 
@@ -125,7 +125,7 @@ Las escuelas y los estudios describen ideas y métricas. Los datos mínimos que 
 ## Dónde se produce el saber del campo
 
 - Revistas académicas: *Management Science* y *Manufacturing & Service Operations Management*, con los estudios del látigo; *International Journal of Forecasting*, con las competencias M; *Journal of Business Logistics*, *International Journal of Logistics Management* y *Journal of Supply Chain Management*, con el debate sobre qué es la cadena; *International Journal of Physical Distribution & Logistics Management* e *International Journal of Production Economics*, con la ley de la raíz cuadrada y la «leagility».
-- Asociaciones: ASCM, que publica SCOR, el diccionario del campo y las certificaciones; el CSCMP, con su glosario y sus definiciones oficiales de cadena y logística; APQC, con el PCF.
+- Asociaciones: ASCM, que publica SCOR; el CSCMP, con su glosario y sus definiciones oficiales de cadena y logística; APQC, con el PCF.
 - Libros, cursos y artículos abiertos: *Forecasting: Principles and Practice*, de Hyndman y Athanasopoulos, libre en línea; el curso ESD.260J Logistics Systems del MIT (Caplice y Sheffi, 2006), que usa [Transporte](../Transporte/transporte.md); el artículo de Fisher, con sus dos tablas y la matriz.
 - Documentación de sistemas abiertos: muestra qué datos y estados lleva cada documento y sirve como evidencia de que un patrón es común, sin valor de norma.
 

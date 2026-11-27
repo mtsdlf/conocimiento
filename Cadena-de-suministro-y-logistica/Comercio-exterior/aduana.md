@@ -27,11 +27,11 @@ Cada país tiene su aduana y su ley, pero dos tratados ordenan cómo trabajan.
 
 El Convenio de Kyoto revisado, de la Organización Mundial de Aduanas (OMA), «entered into force on February 3, 2006». La OMA lo llama «the blueprint for modern and efficient Customs procedures in the 21st century». Sus principios son transparencia y previsibilidad, declaraciones simplificadas, uso máximo de la tecnología de la información, gestión de riesgo y controles basados en auditoría, coordinación con otros organismos de frontera y asociación con el sector privado.
 
-El Acuerdo sobre Facilitación del Comercio, de la Organización Mundial del Comercio (OMC), baja varios de esos principios a obligaciones:
+El Acuerdo sobre Facilitación del Comercio, de la Organización Mundial del Comercio (OMC), retoma varios de esos principios:
 
 - Gestión de riesgo (párr. 4.2): «Each Member shall design and apply risk management in a manner as to avoid arbitrary or unjustifiable discrimination.»
-- Ventanilla única (art. 10, párr. 4.1): «Members shall endeavour to establish or maintain a single window, enabling traders to submit documentation.» Un solo punto donde se presentan los papeles para todos los organismos.
-- Operadores autorizados: «Each Member shall provide additional trade facilitation measures related to import, export, or transit formalities.» Es el trato facilitado a quien cumple ciertos criterios.
+- Ventanilla única (art. 10, párr. 4.1): «Members shall endeavour to establish or maintain a single window, enabling traders to submit documentation.» Un solo punto donde se presenta la documentación.
+- Operadores autorizados: «Each Member shall provide additional trade facilitation measures related to import, export, or transit formalities.» Es un trato facilitado para ciertos operadores; qué criterios tienen que cumplir no tiene fuente todavía (ver la nota de abajo).
 
 > [!NOTE] Sin fuente todavía: la fecha de entrada en vigor del Acuerdo sobre Facilitación del Comercio y la numeración exacta del artículo de operadores autorizados; el marco SAFE de la OMA y los criterios del operador económico autorizado (OEA).
 
@@ -53,11 +53,11 @@ La aduana necesita un valor sobre el que calcular lo que se cobra. La regla com�
 
 ## Para qué entra: los regímenes
 
-La declaración dice además qué destino aduanero se le da a la mercadería. No es lo mismo traerla para quedarse que traerla por un tiempo. El Código Aduanero argentino regula dos destinaciones de importación:
+La declaración dice además qué destino aduanero se le da a la mercadería. No es lo mismo traerla para quedarse que traerla por un tiempo. El Código Aduanero argentino regula varias destinaciones de importación (sus arts. 217 a 320); dos tienen fuente leída:
 
 | Destinación | Qué permite | Artículo |
 |---|---|---|
-| Importación para consumo | que la mercadería «pueda permanecer por tiempo indeterminado dentro del territorio aduanero» | art. 233 |
+| Importación para consumo | que la mercadería importada «puede permanecer por tiempo indeterminado dentro del territorio aduanero» | art. 233 |
 | Importación temporaria | que permanezca «con una finalidad y por un plazo determinado», con la obligación de reexportarla antes de que venza | art. 250 |
 
 La temporaria admite que la mercadería vuelva a salir en el mismo estado o transformada, reparada o perfeccionada (art. 251). Sobre esa regla se apoya, a juicio de la base, el perfeccionamiento activo: importar insumos sin quedárselos para elaborar algo que se exporta.
@@ -82,7 +82,7 @@ Como criterio de la base, un sistema que importa o exporta guarda la declaració
 - Estados: borrador, presentada, con canal asignado, en verificación, liberada, anulada.
 - Plazos: en una importación temporaria, la fecha en que vence la obligación de reexportar, que el sistema tiene que avisar antes.
 
-La declaración liberada es lo que habilita la [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md) en el depósito propio. Hasta ese momento la mercadería sigue [en tránsito](../../Inventario-y-depositos/Existencias/estados-del-stock.md) o retenida, y no se puede prometer.
+A juicio de la base, la declaración liberada es lo que habilita la [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md) en el depósito propio. Hasta ese momento la mercadería sigue [en tránsito](../../Inventario-y-depositos/Existencias/estados-del-stock.md) o retenida, y no se puede prometer.
 
 ## Para leer más
 

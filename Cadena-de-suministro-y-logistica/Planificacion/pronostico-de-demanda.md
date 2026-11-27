@@ -81,7 +81,7 @@ No dice que ajustar empeore: dice que los ajustes chicos y los optimistas suelen
 
 Un artículo es intermitente cuando muchos períodos tienen demanda cero: repuestos, artículos de cola. El suavizado común lo pronostica mal. Croston (1972), según FPP3, separa dos series, el tamaño de las demandas no nulas y el tiempo entre ellas, las suaviza por separado y pronostica su cociente. FPP3 marca dos límites: «Forecasts obtained from Croston's method are also known to be biased», y el método «does not correspond to any statistical model», así que no da intervalos.
 
-Para el sesgo hay una corrección, SBA, de Syntetos y Boylan (2005). Su fórmula se verificó solo en la documentación de un paquete de pronóstico, que multiplica el cociente de Croston por (1 − α/2), con α la constante de suavizado.
+Para el sesgo hay una corrección, SBA, que se asocia a Syntetos y Boylan (2005); de ese artículo solo se leyeron los metadatos. Su fórmula se verificó solo en la documentación de un paquete de pronóstico, que no cita la fuente y que multiplica el cociente de Croston por (1 − α/2), con α la constante de suavizado.
 
 Para decidir qué artículo es intermitente, Syntetos, Boylan y Croston (2005) proponen clasificar la demanda con dos variables, según su resumen: «the average inter-demand interval and the squared coefficient of variation of demand sizes» (el ADI y el CV²). Lo validaron con 3.000 series del sector automotor.
 
@@ -102,7 +102,7 @@ En los ejemplos de FPP3, MinT fue más preciso que abajo-arriba. Que «lo agrega
 
 ## La venta no es la demanda
 
-La historia que se pronostica casi nunca es la demanda: es lo que se vendió, se pidió o se despachó. Si un artículo estuvo sin stock, la venta registrada queda por debajo de lo que se hubiera vendido, y pronosticar sobre esa venta repite el faltante (inferencia de la base). Lo mismo pasa al revés con una promoción, que infla un período. El CSCMP define la planificación de la demanda como identificar «all sources of demand», no solo las ventas.
+La historia que se pronostica casi nunca es la demanda: es lo que se vendió, se pidió o se despachó. Si un artículo estuvo sin stock, la venta registrada queda por debajo de lo que se hubiera vendido, y pronosticar sobre esa venta repite el faltante (inferencia de la base). Lo mismo pasa al revés con una promoción, que infla un período (inferencia de la base). El CSCMP define la planificación de la demanda como identificar «all sources of demand», no solo las ventas.
 
 > [!NOTE] Sin fuente todavía: el tratamiento de la demanda censurada por faltantes (corregir la historia cuando hubo quiebre de stock) en una fuente leída.
 

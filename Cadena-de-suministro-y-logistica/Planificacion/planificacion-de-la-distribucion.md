@@ -106,12 +106,12 @@ La tabla es síntesis de la base. Una empresa puede usar los dos: DRP entre el c
 
 ## Cómo falla el DRP
 
-MIT enumera los problemas del MRP, que son los mismos:
+MIT enumera los problemas del MRP; la base los aplica al DRP porque es la misma cuenta:
 
 - Supone certeza. «MRP is deterministic but reality is not. Therefore, the system needs safety stock and safety lead times.» El DRP hereda el error de cada [pronóstico de demanda](pronostico-de-demanda.md) de la red.
 - Supone capacidad infinita. Calcula lo que hace falta, no lo que el central, el camión o la fábrica pueden. Por eso «it frequently produces non-optimal or infeasible schedules» y «it requires constant manual intervention».
 - Es nervioso. «Nervousness — drastic changes in schedules due to small deviations from plans». Un cambio chico en un depósito mueve un lote en el central. MIT propone congelar las primeras semanas del plan y pregunta: «What price is paid for freezing?»
-- Pasa los lotes hacia arriba. El central ve golpes aunque la venta sea pareja, como en el ejemplo. Es una de las causas del [efecto látigo](efecto-latigo.md), la agrupación de pedidos.
+- Pasa los lotes hacia arriba. El central ve golpes aunque la venta sea pareja, como en el ejemplo. Es la agrupación de pedidos, una de las causas del [efecto látigo](efecto-latigo.md) según Lee y otros (la relación con el DRP es lectura de la base).
 
 > [!NOTE] Sin fuente todavía: cómo se reparte el stock del central cuando no alcanza para todos los depósitos (el reparto justo, «fair share», o el despliegue). El ERP comercial nombra la función de despliegue («deployment function») sin describirla.
 

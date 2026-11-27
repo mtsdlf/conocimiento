@@ -73,11 +73,11 @@ Del otro lado, Chopra marca lo que se pierde. El tiempo de respuesta: «Response
 
 ## Qué artículos conviene centralizar
 
-Chopra da el criterio: «The benefits from centralization are highest for high value, low volume items with unpredictable demand. The inventory benefits of aggregation are small for items with predictable demand and low value». Por eso las redes mezclan diseños: lo que rota poco y es caro va a un solo lugar, y lo que rota mucho y es barato se tiene cerca del cliente. La [clasificación ABC](../../Inventario-y-depositos/Reposicion/clasificacion-abc.md) con XYZ, que ordena por valor y por variabilidad, es una forma de hacer esa separación (inferencia de la base).
+Chopra da el criterio: «The benefits from centralization are highest for high value, low volume items with unpredictable demand. The inventory benefits of aggregation are small for items with predictable demand and low value». Por eso las redes mezclan diseños (lectura de la base): lo que rota poco y es caro va a un solo lugar, y lo que rota mucho y es barato se tiene cerca del cliente. La [clasificación ABC](../../Inventario-y-depositos/Reposicion/clasificacion-abc.md) con XYZ, que ordena por valor y por variabilidad, es una forma de hacer esa separación (inferencia de la base).
 
 ## Agrupar en el plazo y no en el lugar
 
-El stock puede quedar cerca del cliente y aun así agruparse. El MIT (diapositivas 31 a 33, adaptadas de Cachon y Terwiesch) separa tres incertidumbres: «Total demand uncertainty», «Allocation demand uncertainty» y «Product mix uncertainty». Un centro de distribución intermedio protege contra la segunda: «Consolidated Distribution: Keep inventory near customers; Hedge against allocation uncertainty». Se decide tarde a qué local va cada unidad.
+El stock puede quedar cerca del cliente y aun así agruparse. El MIT (diapositivas 31 a 33, adaptadas de Cachon y Terwiesch) separa tres incertidumbres: «Total demand uncertainty», «Allocation demand uncertainty» y «Product mix uncertainty». Un centro de distribución intermedio protege contra la segunda: «Consolidated Distribution: Keep inventory near customers; Hedge against allocation uncertainty». Se decide tarde a qué local va cada unidad (lectura de la base).
 
 El caso de la clase: un proveedor que abastece directo a 100 tiendas, con plazo de 4 semanas, revisión cada 4 semanas, «Weekly demand in each store is iid ~N(75, 20)» y «IFR = 99.5%». La alternativa pone un centro regional: 4 semanas del proveedor al centro y 1 del centro a las tiendas. La diapositiva no da el resultado; pregunta «What is the safety stock on hand in the system?» y «Who owns the pipeline inventory?». Cuánto mandar desde el centro a cada tienda es la [planificación de la distribución](../Planificacion/planificacion-de-la-distribucion.md).
 
@@ -86,8 +86,8 @@ El caso de la clase: un proveedor que abastece directo a 100 tiendas, con plazo 
 La ley es un resultado de modelo, y pocas empresas cumplen sus supuestos.
 
 > [!IMPORTANT] Cuánto vale la ley de la raíz cuadrada en la práctica está discutido.
-> - A favor: Eppen la deduce para demandas normales, idénticas e independientes, y las clases del MIT la usan como regla de cálculo.
-> - En contra, con datos: Oeser y Romano (2016) derivan las condiciones para el stock de ciclo, el de seguridad y el total, y las prueban con cuatro casos y una encuesta a 280 empresas alemanas. Según su resumen: «Most companies do not fulfil the assumptions of the SRL and therefore cannot apply it with accurate results». Las comerciales cumplen más supuestos que las manufactureras, los minoristas más que los mayoristas, y los supuestos se ajustan mejor al stock de ciclo que al de seguridad, al revés de como se la suele usar.
+> - A favor: Eppen la deduce para demandas normales, idénticas e independientes, y el ejemplo de las clases del MIT da porcentajes que coinciden con ella.
+> - En contra, con datos: Oeser y Romano (2016) derivan las condiciones para el stock de ciclo, el de seguridad y el total, y las prueban con cuatro casos y una encuesta a 280 empresas alemanas. Según su resumen: «Most companies do not fulfil the assumptions of the SRL and therefore cannot apply it with accurate results». Las comerciales cumplen más supuestos que las manufactureras, los minoristas más que los mayoristas, y los supuestos se ajustan mejor al stock de ciclo que al de seguridad.
 > - En contra, midiendo el error: Oeser (2019), según su resumen, comparó la estimación de la ley con lo que pasó en 26 casos de empresas que redujeron depósitos. El error medio para el inventario total fue del 27,85 %, con mucha variación entre casos, y la ley «seems to mostly overestimate inventory savings from centralisation».
 > - En contra, por la forma de la demanda: Bimpikis y Markakis (2016), según su resumen, muestran que con demanda de cola pesada (parámetro alfa entre 1 y 2) el beneficio de agrupar crece más lento que la raíz cuadrada.
 > - En contra, por el transporte: Fleischmann (2016), según el resultado del buscador, encuentra que si los depósitos se reponen en camión completo con un nivel de servicio dado, la ley «is not valid».
@@ -106,6 +106,6 @@ La agrupación no es un objeto del sistema, sino una consecuencia de la relació
 - el plazo de reposición desde quien la abastece;
 - el nivel de servicio del stock buscado (en el ejemplo, por ciclo).
 
-Si dos zonas pasan a abastecerse de un mismo depósito, el sistema tiene que sumar sus demandas antes de calcular, y no sumar los colchones (inferencia de la base). Guardar el historial de demanda por zona, y no solo por depósito, permite simular la centralización antes de hacerla.
+Si dos zonas pasan a abastecerse de un mismo depósito, el sistema tiene que sumar sus demandas antes de calcular, y no sumar los colchones (inferencia de la base). Guardar el historial de demanda por zona, y no solo por depósito, permite simular la centralización antes de hacerla (inferencia de la base).
 
 Para leer más: Caplice, archivo lect25, diapositivas 28 a 30, tiene el ejemplo y el rendimiento decreciente; Oeser y Romano (2016), la lista de supuestos y cuántas empresas los cumplen.

@@ -18,7 +18,7 @@ revisado:
 
 Los Incoterms son once reglas de tres letras de la Cámara de Comercio Internacional (ICC) que, puestas en una compraventa, fijan dónde entrega el vendedor, cuándo pasa el riesgo al comprador y quién contrata el transporte y el seguro. La versión vigente es Incoterms 2020; no dicen cuándo pasa la propiedad ni cómo se paga.
 
-Son la primera decisión de una operación de [comercio exterior](comercio-exterior.md): de la regla elegida depende quién contrata el viaje que describe [Transporte](../Transporte/transporte.md), quién paga el [flete](../Transporte/costo-del-flete.md) y qué [documentos](documentos-del-comercio-exterior.md) tiene que conseguir cada parte.
+Son la primera decisión de una operación de [comercio exterior](comercio-exterior.md): de la regla elegida depende quién contrata el viaje que describe [Transporte](../Transporte/transporte.md), y quién paga el [flete](../Transporte/costo-del-flete.md). Los [documentos](documentos-del-comercio-exterior.md) que tiene que conseguir cada parte los fija el contrato, no la regla.
 
 ## Las once reglas de la ICC
 
@@ -40,12 +40,12 @@ El riesgo y el costo no siempre pasan en el mismo punto. En CFR, por ejemplo, el
 
 ## Los dos grupos
 
-La ITA las divide por modo de transporte: «Of the 11 rules, there are seven for ANY mode(s) of transport and four for SEA or LAND or INLAND WATERWAY transport.» Wikipedia da las mismas listas.
+La ITA las divide por modo de transporte: «Of the 11 rules, there are seven for ANY mode(s) of transport and four for SEA or LAND or INLAND WATERWAY transport.» Wikipedia da las mismas listas. La ITA escribe «SEA or LAND or INLAND WATERWAY» para el segundo grupo; la tabla lo rotula como marítimo y vías navegables por lectura de la base, sin que ninguna fuente leída lo explique.
 
 | Grupo | Reglas |
 |---|---|
-| Cualquier modo, también multimodal | EXW, FCA, CPT, CIP, DAP, DPU, DDP |
-| Solo marítimo y vías navegables | FAS, FOB, CFR, CIF |
+| Cualquier modo | EXW, FCA, CPT, CIP, DAP, DPU, DDP |
+| Marítimo y vías navegables (lectura de la base) | FAS, FOB, CFR, CIF |
 
 ## Dónde pasa el riesgo, regla por regla
 
@@ -56,7 +56,7 @@ La ICC no publica gratis el detalle de cada regla. Lo que sigue combina lo poco 
 | EXW | en el local del vendedor o el lugar nombrado | | Wikipedia |
 | FCA | al entregar en el lugar nombrado, con el despacho aduanero de exportación hecho | | Wikipedia |
 | CPT | al entregar al primer transportista | | Wikipedia |
-| CIP | al entregar al primer transportista | el seguro tiene que cumplir las Institute Cargo Clauses (A) «o similares» | Wikipedia |
+| CIP | al entregar al primer transportista | el seguro tiene que cumplir las Institute Cargo Clauses (A) o similares | Wikipedia |
 | DAP | en el destino convenido, sin descargar | «the seller does not unload the goods» | Wikipedia y ICC |
 | DPU | en el destino, descargada | reemplazó a DAT en 2020 | Wikipedia |
 | DDP | en el destino convenido; el vendedor también hace el despacho aduanero de importación | | Wikipedia |
@@ -69,7 +69,7 @@ En DDP el vendedor paga además los derechos de la importación; cuánto y cómo
 
 > [!IMPORTANT] El seguro en CIF: la ICC dice que la cobertura por defecto son las cláusulas (C), la mínima. El resumen de Wikipedia que se leyó decía (A) también para CIF. La base sigue a la ICC, que escribe las reglas.
 
-Wikipedia agrega que el seguro de CIF y CIP cubre por lo menos el 110 % del valor del contrato. Es una sola fuente, secundaria; la página de la ICC leída no lo dice.
+Wikipedia agrega, según el resumen, que el seguro cubre por lo menos el 110 % del valor del contrato; lo da para CIP, y para CIF no quedó registrado. Es una sola fuente, secundaria; la página de la ICC leída no lo dice.
 
 > [!NOTE] Sin fuente todavía: el punto de riesgo en CIF; quién contrata transporte y seguro en cada una de las once reglas; quién hace el despacho aduanero de exportación y de importación en cada una; y si FOB, CFR y CIF sirven para carga en contenedor que se entrega en la terminal antes de subir al buque. Lo resuelve la introducción del texto de la ICC y sus artículos A y B de cada regla.
 
@@ -87,7 +87,7 @@ De la regla dependen tres cosas que el sistema calcula:
 
 - Qué costos del viaje (flete, seguro, descarga) carga cada parte, y por lo tanto qué entra en el costo de lo comprado.
 - Desde qué hito la mercadería viaja por cuenta y riesgo del comprador. A partir de ahí puede figurar [en tránsito](../../Inventario-y-depositos/Existencias/estados-del-stock.md) en la posición de stock del comprador.
-- Qué documentos y qué trámites de aduana tiene que conseguir cada parte.
+- Quién hace los trámites de aduana de exportación y de importación (sin fuente todavía, ver la nota de arriba). Qué documentos aporta cada parte no lo fija la regla, por la exclusión de la ITA.
 
 Lo que el sistema no debe hacer es inferir la propiedad o el momento de registrar la compra solo de la regla, por la exclusión que señala la ITA. Cuándo se reconoce la compra y cómo se valúa lo que viaja es de Contabilidad.
 

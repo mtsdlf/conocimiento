@@ -40,8 +40,8 @@ Rodrigue describe a los intermediarios (agentes de carga, despachantes, depósit
 
 Caplice separa a los transportistas en dos clases, y la diferencia explica con quién negocia el cargador:
 
-- Directos: el vehículo va de origen a destino con la carga de un cliente. Lista «Taxi, TL, Unit trains, Charter/private planes, Tramp services, Courier».
-- Consolidados: juntan cargas de muchos clientes en una red con terminales de transbordo. Lista «Bus/rail transit, LTL, Rail, Airlines, Ocean carriers/liner service, Package delivery».
+- Directos (lectura de la base sobre el rótulo: el vehículo va de origen a destino con la carga de un cliente). Lista «Taxi, TL, Unit trains, Charter/private planes, Tramp services, Courier».
+- Consolidados (lectura de la base: juntan cargas de muchos clientes en una red con terminales de transbordo). Lista «Bus/rail transit, LTL, Rail, Airlines, Ocean carriers/liner service, Package delivery».
 
 Las dos se mezclan: un contenedor o un vagón completo es un viaje directo que va adentro de una red consolidada («sub-consolidation»).
 
@@ -60,7 +60,7 @@ Las decisiones que salen de ahí tienen cada una su nota:
 
 Caplice lista cuatro maneras en que el transporte pesa en el costo del cargador: «Cost of transportation (Value & Structure)», «Lead Time (Value & Variability & Schedule)», «Capacity (Limits on Q)» y «Miscellaneous Factors». Un modo más lento alarga el plazo y sube el stock en tránsito; uno menos confiable sube el [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md); uno con capacidad chica limita el tamaño del [lote](../../Inventario-y-depositos/Reposicion/lote-economico.md). Por eso propone comparar modos con el costo total del stock más el flete, TC(Q) = vD + A(D/Q) + rv(Q/2 + kσL) + B_SO(D/Q)Pr[SO], y la regla «Pick mode with smaller TRC». Los términos son los de [reposición](../../Inventario-y-depositos/Reposicion/reposicion.md).
 
-El plazo también varía. Un ejemplo de Caplice, de un fabricante de consumo masivo, suma «Total Lead Time = 56 days» en seis tramos con promedio y desvío: producción 15 (12), transporte interno 2 (2), carga y demora en puerto 2 (1), océano 26 (5), descarga y despacho 5 (2) y transporte interno 6 (3).
+El plazo también varía. Un ejemplo de Caplice, de un fabricante de consumo masivo, suma «Total Lead Time = 56 days» en seis tramos con promedio y desvío: producción 15 (12), transporte interno 2 (2), carga y demora en puerto 2 (1), océano 26 (5), descarga y salida del puerto 5 (2) y transporte interno 6 (3).
 
 Rodrigue agrega que el costo para el usuario incluye «time costs, and costs related to possible inefficiencies and risks (e.g. unexpected delays)», pero que «Many shippers or freight forwarders are primarily guided by direct monetary costs». Como orden de magnitud general, «It is not uncommon for transport costs to account for 10% of the total cost of a product».
 
@@ -77,7 +77,7 @@ El costo por unidad baja con el tamaño y con la densidad, por razones distintas
 
 La economía de escala tiene un techo: según Rodrigue, la unidad de transporte más grande en una ruta no puede superar la demanda disponible «without impairing its profitability».
 
-El costo por kilómetro también baja con la distancia, porque cargar y descargar cuesta lo mismo en un viaje corto que en uno largo. Rodrigue lo funda en la estructura de costos de terminal, que imponen «fixed costs incurred independent of the distance traveled», separados de los costos de línea, que son «a function of the distance». Los libros de texto llaman a esto economía de distancia; ninguna de las fuentes leídas usa ese nombre.
+El costo por kilómetro también baja con la distancia, porque cargar y descargar cuesta lo mismo en un viaje corto que en uno largo. Rodrigue lo funda en la estructura de costos de terminal, que imponen «fixed costs incurred independent of the distance traveled», separados de los costos de línea, que son «a function of the distance». Ninguna de las fuentes leídas le da el nombre de «economía de distancia».
 
 > [!NOTE] Sin fuente todavía: el término «economía de distancia» y su definición en un libro de texto de logística (Ballou o Chopra y Meindl, no leídos). El mecanismo tiene fuente; la etiqueta, no.
 
@@ -99,7 +99,7 @@ En un extremo, la fuente pone «Use for random & distressed traffic»; en el otr
 
 El sistema de un cargador guarda pocos objetos, y cada uno tiene su nota:
 
-- Transportista, con el tipo de relación del continuo de arriba (dato que Caplice sugiere y que la base no vio en los sistemas abiertos consultados).
+- Transportista, con el tipo de relación del continuo de arriba (dato que sale del continuo de Caplice como lectura de la base, y que no apareció en los sistemas abiertos consultados).
 - Método o servicio de envío, ligado a un transportista y a un modo: [modos de transporte](modos-de-transporte.md#cómo-se-registran-el-modo-y-el-tramo).
 - Tramo del envío, con su modo, transportista, costo y fechas: también en [modos de transporte](modos-de-transporte.md#cómo-se-registran-el-modo-y-el-tramo).
 - Tarifa y regla de cálculo, y el costo real por tramo: [costo del flete](costo-del-flete.md#qué-guarda-un-sistema-de-la-tarifa).

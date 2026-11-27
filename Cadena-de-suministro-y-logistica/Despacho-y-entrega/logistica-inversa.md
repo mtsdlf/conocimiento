@@ -33,11 +33,11 @@ La definición que circula, citada por una fuente secundaria a la Reverse Logist
 
 La misma fuente secundaria cita a Rogers (2002) para decir que el campo no se agota en las devoluciones: abarca «activities related to returns avoidance, gatekeeping, disposal, and all other after-market supply chain issues».
 
-Lo que vuelve, según la misma fuente, tiene destinos distintos:
+Lo que vuelve tiene destinos distintos; los destinos son los que lista la misma fuente, y los ejemplos y el agrupamiento son de la base:
 
 | Qué vuelve | Ejemplo | Destino posible |
 |---|---|---|
-| Devolución del cliente | no lo quería, llegó fallado, talle equivocado | reingreso al stock tras el control, reparación, reventa en un mercado secundario |
+| Devolución del cliente | no lo quería, llegó fallado, talle equivocado | reacondicionado o remanufacturado, reventa en un mercado secundario |
 | Rechazo en la entrega | el destinatario no lo recibe, un contra reembolso rechazado | vuelta al origen y reingreso al stock |
 | Devolución por crédito | diarios y revistas no vendidos | crédito al comercio |
 | Envases y embalajes de circuito cerrado | pallets, cajones, barriles | reutilización |

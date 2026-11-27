@@ -44,7 +44,7 @@ CSCMP enumera cuatro diferencias del 4PL con el 3PL: suele ser una entidad apart
 
 Una misma palabra puede tener una definición legal distinta de la comercial. El glosario cita una ley de Estados Unidos de 2008 que define al 3PL como quien «solely receives, holds, or otherwise transports a consumer product in the ordinary course of business but who does not take title to the product». No da el nombre de la norma, y la nota no la verificó.
 
-1PL y 2PL no tienen definición oficial. El glosario de CSCMP no tiene entradas para «first-party» ni «second-party logistics»; solo la mención de que antes del 3PL los contratos tenían dos partes. Se usan por convención, por analogía con esa historia.
+1PL y 2PL no tienen definición oficial. El glosario de CSCMP no tiene entradas para «first-party» ni «second-party logistics»; solo la mención de que antes del 3PL los contratos tenían dos partes. Se usan por convención.
 
 > [!NOTE] Sin fuente todavía: una definición con autoridad de 1PL y 2PL (el diccionario de ASCM no se pudo leer), la edición vigente del glosario de CSCMP y la definición original del 4PL en un documento de quien la registró.
 
@@ -74,7 +74,7 @@ Lo que destaca la nota de la universidad sobre la edición 2026:
 - «Only 5% of shipper-3PL relationships are truly strategic, though 55% of shippers describe theirs that way»;
 - el 74 % cambiaría de operador por sus capacidades de inteligencia artificial.
 
-La edición 2024, según el resultado del buscador, daba que el 89 % de los cargadores dice que los operadores mejoraron el servicio y el 80 %, que ayudaron a bajar el costo logístico total; la misma cobertura cita 95 % de relaciones exitosas. No se comparan 2024 y 2026 sin abrir los dos informes, porque las preguntas pueden no ser las mismas.
+La edición 2024, según el resultado del buscador, daba que el 89 % de los cargadores dice que los operadores mejoraron el servicio y el 80 %, que ayudaron a bajar el costo logístico total; la misma cobertura cita 95 % de relaciones exitosas. No se comparan 2024 y 2026 sin abrir los dos informes, y no se sabe si miden lo mismo.
 
 La distancia entre el 55 % que se cree estratégico y el 5 % que lo es sugiere que muchas empresas tercerizan la ejecución y siguen decidiendo la red solas (lectura de la base). Las fuentes leídas no traen una lista con evidencia de lo que se gana y se pierde al tercerizar; a juicio de la base, se cambian costos fijos por variables y se pierde control directo sobre el servicio y sobre el dato del stock.
 

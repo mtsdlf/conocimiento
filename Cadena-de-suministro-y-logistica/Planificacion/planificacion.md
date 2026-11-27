@@ -34,7 +34,7 @@ Los planes se encadenan de arriba hacia abajo. Las diapositivas de MIT 2.854 lo 
 | Nivel | Horizonte y detalle, según la fuente | Plan | Dónde está |
 |---|---|---|---|
 | Largo plazo | «six months to five years», recalculado de «1/month to 1/year», con detalle de «part family» (MIT) | pronóstico agregado, recursos, plan agregado | [pronóstico de demanda](pronostico-de-demanda.md), [plan de ventas y operaciones](plan-de-ventas-y-operaciones.md) |
-| Plazo intermedio | gestión de la demanda, que «converts long range forecast and actual orders into detailed forecast» (MIT) | plan maestro y MRP | Producción, todavía no armado |
+| Plazo intermedio | gestión de la demanda, que «converts long range forecast and actual orders into detailed forecast» (MIT) | plan maestro y capacidad gruesa (MIT); el MRP lo ubica acá la base | Producción, todavía no armado |
 | Plazo intermedio, sin fábrica | por artículo, depósito y semana | plan de distribución (DRP) | [planificación de la distribución](planificacion-de-la-distribucion.md) |
 | Corto plazo | plan diario y control de planta (MIT) | qué se despacha o produce hoy | Producción; en lo de este tema, [despacho](../Despacho-y-entrega/despacho.md) |
 
@@ -42,7 +42,7 @@ La fila del DRP no está en las diapositivas de MIT, que son de una fábrica; la
 
 > [!NOTE] Sin fuente todavía: una jerarquía de planes con horizontes de un libro de texto de cadena de suministro (Chopra y Meindl o el diccionario de ASCM). La tabla usa las diapositivas de MIT, que miran una fábrica.
 
-Los niveles fallan en las costuras. MIT lo dice así: «The high level and low level models sometimes don't match». Un plan agregado por familia puede sumar bien y no poder bajarse a artículos, y un evento real puede dejar viejo el objetivo de arriba.
+Los niveles fallan en las costuras. MIT lo dice así: «The high level and low level models sometimes don't match». Un plan agregado por familia puede sumar bien y no poder bajarse a artículos, y un evento real puede dejar viejo el objetivo de arriba (lectura de la base).
 
 ## Quién planifica qué
 

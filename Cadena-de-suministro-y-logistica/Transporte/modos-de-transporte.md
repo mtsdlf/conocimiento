@@ -47,7 +47,7 @@ La matriz de Caplice (MIT, 2006, contexto de Estados Unidos) los compara así, c
 
 Rodrigue lo cuenta en prosa y coincide en el fondo:
 
-- Camión: «road transport tends to be most competitive over short distances and for small bundles of goods». Es el único modo que va puerta a puerta.
+- Camión: «road transport tends to be most competitive over short distances and for small bundles of goods». En la matriz de Caplice es el único cuya cobertura es punto a punto.
 - Ferrocarril: «the land transportation mode offering the highest capacity, with a 23,000 tons fully loaded coal unit train being the heaviest load ever carried».
 - Ducto: mueve líquidos como derivados del petróleo «over long distances cost-effectively».
 - Marítimo: «the most effective mode of moving large quantities of cargo over long distances». Su ventaja «does not rest on its speed, but on its capacity and on the continuity of its services».
@@ -105,7 +105,7 @@ Rodrigue da cifras de una sola fuente académica, sin cruzar:
 - «Relatively to bulk, container transportation reduces transport costs considerably, about 20 times less». El flete marítimo, que antes era «between 5 and 10% of the retail price», bajó a «about 1.5%».
 - El buque más grande abarata cada caja: «A 5,000 TEU containership has operating costs per container 50% lower than a 2,500 TEU vessel». Los mayores pasaron de 6.000 TEU en 1996 a más de 22.000 hacia 2022.
 - El buque pasa menos tiempo en puerto: el tiempo navegando era «around 25%» del año en los de carga fraccionada y es «around 70% for containerships».
-- El comercio es desparejo y deja cajas vacías: «About 2.5 million TEUs of empty containers are stored in yards and depots worldwide», cerca del 20 % del movimiento portuario. Reposicionarlas cuesta, y por eso, según Rodrigue, en un país que importa más de lo que exporta el flete de importación tiende a ser más caro.
+- El comercio es desparejo y deja cajas vacías: «About 2.5 million TEUs of empty containers are stored in yards and depots worldwide», cerca del 20 % del movimiento portuario. Reposicionarlas cuesta tiempo y plata. Rodrigue agrega, por separado, que si un país importa mucho más de lo que exporta, el flete de importación tiende a ser más caro que el de exportación.
 
 > [!NOTE] Sin fuente todavía: contenedor completo (FCL) frente a carga consolidada en contenedor (LCL), y cifras corrientes de fletes y flota marítima (UNCTAD, Review of Maritime Transport, no accesible).
 
@@ -114,7 +114,7 @@ Rodrigue da cifras de una sola fuente académica, sin cruzar:
 Un envío no siempre es un solo viaje: puede ser una secuencia de tramos con modos y transportistas distintos. Lo que muestran los sistemas abiertos consultados, según el resumen de su modelo de datos:
 
 - Método de envío: un tipo de servicio (camión, aéreo, marítimo) ligado a un transportista, con el código de servicio que usa ese transportista.
-- Tramo del envío (segmento de ruta): origen y destino, transportista y método, peso facturable con su unidad, costo real separado en transporte, servicio y otros, fechas estimadas y reales de salida y llegada, y número de seguimiento. Cada tramo tiene además un estado de la reserva con el transportista, que está en [despacho](../Despacho-y-entrega/despacho.md#los-estados-que-recorre).
+- Tramo del envío (segmento de ruta): origen y destino, transportista y método, peso facturable con su unidad, costo real separado en transporte, servicio y otros, fechas estimadas y reales de salida y llegada, y número de seguimiento. Cada tramo tiene además un estado del servicio del transportista, que está en [despacho](../Despacho-y-entrega/despacho.md#los-estados-que-recorre).
 - Bulto por tramo: el paquete con su código de seguimiento, sus costos, el monto asegurado y el contra reembolso.
 
 De las fuentes de este tema sale además, como inferencia de la base: el contenedor como unidad de manejo con número, tamaño (TEU o FEU) y precinto, y el TEU como unidad para la capacidad. Los umbrales de distancia de Rodrigue no son datos de sistema; si un sistema sugiere el modo, son reglas que carga el usuario.

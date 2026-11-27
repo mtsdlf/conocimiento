@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El diseño de la red es la decisión de cuántos depósitos o centros de distribución tener, dónde ponerlos y a qué clientes atiende cada uno, buscando el menor costo total para el servicio que se le quiere dar al cliente. Se toma con un horizonte de un año o más, porque abrir o cerrar un depósito no se deshace rápido.
+  El diseño de la red es la decisión de cuántos depósitos o centros de distribución tener, dónde ponerlos y a qué clientes atiende cada uno, buscando el menor costo total para el servicio que se le quiere dar al cliente. Se toma con un horizonte de un año o más.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -14,7 +14,7 @@ revisado:
 
 # Diseño de la red
 
-El diseño de la red es la decisión de cuántos depósitos o centros de distribución tener, dónde ponerlos y a qué clientes atiende cada uno, buscando el menor costo total para el servicio que se le quiere dar al cliente. Se toma con un horizonte de un año o más, porque abrir o cerrar un depósito no se deshace rápido.
+El diseño de la red es la decisión de cuántos depósitos o centros de distribución tener, dónde ponerlos y a qué clientes atiende cada uno, buscando el menor costo total para el servicio que se le quiere dar al cliente. Se toma con un horizonte de un año o más.
 
 Es la decisión de más largo plazo de la [red de distribución](red-de-distribucion.md). Elige los lugares; cuánto stock tiene cada uno lo afina la [centralización del stock](centralizacion-del-stock.md), y cuánto se manda a cada uno cada semana, la [planificación de la distribución](../Planificacion/planificacion-de-la-distribucion.md).
 
@@ -26,9 +26,9 @@ Las clases del MIT definen el problema así: «Network design is the selection o
 2. «Where should the DCs be located?»
 3. «For each SKU and each customer: which DC should serve the customer, and which plant should serve the DC?»
 
-La tercera es la que después usa todos los días el sistema: de qué depósito sale cada pedido y de dónde se repone cada depósito.
+La tercera es la que después usa todos los días el sistema: de qué depósito sale cada pedido y de dónde se repone cada depósito (lectura de la base).
 
-La misma fuente separa tres horizontes: «Strategic – longer scope and less data available (yr+)», «Tactical – shorter scope w/ planning data (week to yr)» y «Operational – very short scope real data (daily)». El diseño de la red es la decisión estratégica; el plan de distribución es táctico, y el despacho, operativo.
+La misma fuente separa tres horizontes: «Strategic – longer scope and less data available (yr+)», «Tactical – shorter scope w/ planning data (week to yr)» y «Operational – very short scope real data (daily)». El MIT ubica el diseño de la red en el horizonte estratégico; según la lectura de la base, el plan de distribución es táctico y el despacho, operativo.
 
 ## Los cuatro tironeos
 
@@ -70,7 +70,7 @@ Conseguir los datos cuesta más que resolver el modelo. Las clases listan los pr
 
 El mismo MIT termina la formulación con dos preguntas abiertas: «What about Inventory?» y «What about Customer Service?». El modelo de flujos decide lugares y asignaciones, pero no cuánto stock pone en cada uno ni qué plazo de entrega resulta.
 
-El stock se agrega en un segundo paso. Para cada artículo i y depósito j, el MIT calcula el costo de mantener el stock de seguridad como «ICCij = COGi x ICC%ij x SSij»: costo de lo vendido del artículo, por el porcentaje anual de mantener en ese depósito, por el [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md) que necesita ahí. El porcentaje de mantener es el de [reposición](../../Inventario-y-depositos/Reposicion/reposicion.md#los-tres-costos-que-se-equilibran), y el costo de lo vendido, el de [Contabilidad](../../Contabilidad/Operaciones/costo-de-lo-vendido.md).
+El stock se agrega en un segundo paso. Para cada artículo i y depósito j, el MIT calcula el costo de mantener el stock de seguridad como «ICCij = COGi x ICC%ij x SSij»: costo de lo vendido del artículo, por el porcentaje de costo de mantener en ese depósito, por el [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md) que necesita ahí. El porcentaje de mantener es el de [reposición](../../Inventario-y-depositos/Reposicion/reposicion.md#los-tres-costos-que-se-equilibran), y el costo de lo vendido, el de [Contabilidad](../../Contabilidad/Operaciones/costo-de-lo-vendido.md).
 
 ## La red de depósitos y la red de transporte se deciden juntas
 
@@ -91,12 +91,12 @@ El diseño de la red es un escenario de planificación. Según la formulación d
 - la demanda por zona de cliente y por producto o grupo de productos, y por período;
 - el resultado: qué instalaciones se abren y qué zona atiende cada una.
 
-El resultado se vuelve dato operativo cuando se carga como ubicación y como relación de abastecimiento entre ubicaciones, que es lo que registran los sistemas de ejecución (ver [red de distribución](red-de-distribucion.md#qué-tiene-que-poder-representar-un-sistema-de-la-red)). Que un sistema guarde varios escenarios para compararlos es una inferencia de la base.
+El resultado se vuelve dato operativo cuando se carga como ubicación y como relación de abastecimiento entre ubicaciones (inferencia de la base), que es lo que registran los sistemas de ejecución (ver [red de distribución](red-de-distribucion.md#qué-tiene-que-poder-representar-un-sistema-de-la-red)). Que un sistema guarde varios escenarios para compararlos es una inferencia de la base.
 
 ## Cómo falla un diseño de red
 
 - Optimizar solo el costo. El mínimo de la curva no cuenta el ingreso que se pierde por entregar más lento; Chopra pide justificar cualquier depósito extra con ese ingreso.
-- Datos agregados de más. Las zonas de demanda y las tarifas promedio esconden diferencias que mueven el resultado; es el primer problema de datos que lista el MIT.
+- Datos agregados de más. Las zonas de demanda y las tarifas promedio esconden diferencias que mueven el resultado (lectura de la base); es el primer problema de datos que lista el MIT.
 - Olvidar el stock. Un modelo de flujos sin el segundo paso de stock subestima lo que cuesta tener muchos depósitos (inferencia de la base sobre el MIT).
 - No revisarlo. Es una decisión de un año o más, pero hay que revisarla (lectura de la base sobre los horizontes del MIT).
 

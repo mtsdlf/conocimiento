@@ -27,7 +27,7 @@ Es el último paso de [Despacho y entrega](despacho-y-entrega.md): el [despacho]
 
 ## Qué prueba la constancia
 
-Una fuente secundaria la define como «a document that substantiates that goods have been delivered to their intended recipient». La misma fuente menciona la firma del destinatario y la prueba electrónica (ePOD), que reemplaza el papel. En la Argentina, el documento que viaja con la mercadería es el remito, y la base lee el remito firmado como la constancia corriente; las reglas del remito están en [Inventario y depósitos en la Argentina](../../Inventario-y-depositos/inventario-y-depositos-en-argentina.md).
+Una fuente secundaria la define como «a document that substantiates that goods have been delivered to their intended recipient». La misma fuente menciona la firma del destinatario y la prueba electrónica (ePOD), que puede intercambiar correcciones. En la Argentina, el documento que viaja con la mercadería es el remito, y la base lee el remito firmado como la constancia corriente; las reglas del remito están en [Inventario y depósitos en la Argentina](../../Inventario-y-depositos/inventario-y-depositos-en-argentina.md).
 
 La constancia sirve para dos cosas distintas (lectura de la base). Frente al cliente, prueba que se cumplió la entrega y habilita a facturar o a cobrar. Frente al transportista, fija en qué estado llegó la carga, y de eso depende si se le puede reclamar.
 
@@ -49,7 +49,7 @@ Un sistema abierto trae como motivos de rechazo al recibir «Damaged», «Not Or
 
 Reserva, acá, es la observación que deja quien recibe sobre un faltante, un daño o una demora. No es la [reserva](../../Inventario-y-depositos/Operacion-del-deposito/reserva.md) de stock de Inventario.
 
-El CMR (Convention on the Contract for the International Carriage of Goods by Road, Ginebra, 19 de mayo de 1956) es el convenio que rige el contrato de transporte internacional de mercadería por carretera entre los países que lo ratificaron. Nació en Europa y tiene 58 partes según la colección de tratados de las Naciones Unidas, consultada el 27 de noviembre de 2026. No rige el transporte dentro de un país ni los otros modos: el aéreo y el marítimo tienen sus propios plazos, que no se investigaron. Es útil como ejemplo de cómo una norma convierte la firma de conformidad en prueba.
+El CMR (Convention on the Contract for the International Carriage of Goods by Road, Ginebra, 19 de mayo de 1956) es el convenio que rige el contrato de transporte internacional de mercadería por carretera entre los países que lo ratificaron. Tiene 58 partes según la colección de tratados de las Naciones Unidas, consultada el 27 de noviembre de 2026. No rige el transporte dentro de un país ni los otros modos: el aéreo y el marítimo tienen sus propios plazos, que no se investigaron. Es útil como ejemplo de cómo una norma convierte la firma de conformidad en prueba.
 
 Hay una sola fuente independiente: el texto oficial en la colección de tratados de las Naciones Unidas, capítulo V, que es lo que hay que leer. Una transcripción universitaria da las mismas palabras, pero es una copia del mismo instrumento. Lo que sigue no es asesoramiento legal; para un caso real, hay que leer el texto vigente y consultar a quien sepa del derecho aplicable.
 

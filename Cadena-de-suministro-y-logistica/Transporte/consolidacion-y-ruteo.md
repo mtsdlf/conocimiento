@@ -73,9 +73,9 @@ Dantzig y Ramser (1959) lo plantearon como «The Truck Dispatching Problem». Se
 
 Clarke y Wright (1964), según su resumen, dieron «an iterative procedure that enables the rapid selection of an optimum or near-optimum route», programado para computadora pero «also suitable for hand computation». Laporte (2009), a los cincuenta años, resume que el campo produjo «highly sophisticated exact mathematical programming decomposition algorithms and powerful metaheuristics».
 
-### Por qué no se resuelve exacto
+### Un problema difícil, con heurísticas
 
-El VRP es NP-difícil: según Wikipedia, «Because the traveling salesman problem is NP-hard, so is the VRP». Caplice da la escala: elegir y ordenar una ruta de 10 paradas entre 20 clientes ya admite 670.442.572.800 formas. Por eso se usan heurísticas, que Caplice agrupa en tres familias:
+El VRP es NP-difícil: según Wikipedia, «Because the traveling salesman problem is NP-hard, so is the VRP». Caplice da la escala: elegir y ordenar una ruta de 10 paradas entre 20 clientes ya admite 670.442.572.800 formas. Caplice agrupa las heurísticas en tres familias:
 
 1. **Rutear primero y agrupar después**: una sola vuelta que se corta en rutas.
 2. **Agrupar primero y rutear después**: el barrido por sectores y el algoritmo de ahorros.
@@ -98,7 +98,7 @@ Las fuentes no son comparables punto a punto, y se dan las dos con su contexto:
 
 ### Cuánto se recorre sin rutear
 
-Antes de rutear se puede estimar la distancia. Caplice, tomando a Larson y Odoni (1981), da para n paradas en una zona de área X: «E[d_TSP] ≈ k·√(nX)», con k = 0,7124 en distancias en línea recta (n > 25) y 0,7650 en una grilla de calles. La vuelta completa es «d_TOUR ≈ 2·d_LineHaul + d_Local»: ir a la zona, recorrerla y volver. La distancia por parada baja con la raíz de la densidad de paradas, y eso explica la economía de densidad de [Transporte](transporte.md#por-qué-cargar-más-abarata).
+Antes de rutear se puede estimar la distancia. Caplice, tomando a Larson y Odoni (1981), da para n paradas en una zona de área X: «E[d_TSP] ≈ k·√(nX)», con k = 0,7124 en distancias en línea recta (n > 25) y 0,7650 en una grilla de calles. La vuelta completa es «d_TOUR ≈ 2·d_LineHaul + d_Local»: ir a la zona, recorrerla y volver. La distancia por parada baja con la raíz de la densidad de paradas, y de ahí sale, como lectura de la base, la economía de densidad de [Transporte](transporte.md#por-qué-cargar-más-abarata).
 
 ### Rutas fijas o dinámicas
 
@@ -117,7 +117,7 @@ Caplice lista lo que el problema de libro deja afuera: horarios y muelles, tipos
 No hay un estudio independiente que dé un ahorro típico. Lo que hay es esto:
 
 - **Un caso de curso.** Caplice, adaptado de Goentzel (2004): de 10 rutas a 7, «30% savings», y de 2.006 a 1.345 millas, «32% improvement». Es un solo caso, sin método publicado en la diapositiva, que advierte «Difficult to evaluate quality by inspection».
-- **Un caso de empresa.** Weigel y Cao (1999), según su resumen, cuentan un sistema de ruteo para el servicio técnico y la entrega a domicilio de una cadena minorista de Estados Unidos, con «over $9 million in one-time savings and over $42 million in annual savings». Es un solo caso, en dólares y sin decir contra qué base se compara.
+- **Un caso de empresa.** Weigel y Cao (1999), según su resumen, cuentan un sistema de ruteo y programación con SIG para el servicio técnico y la entrega a domicilio de Sears, en Estados Unidos, con «over $9 million in one-time savings and over $42 million in annual savings». Es un solo caso, en dólares y sin decir contra qué base se compara.
 - **Lo que dicen los vendedores.** Según Wikipedia, los proveedores de software de ruteo declaran ahorros de 5 % a 30 %. Es afirmación comercial, no evidencia con método.
 
 ## El llenado del vehículo

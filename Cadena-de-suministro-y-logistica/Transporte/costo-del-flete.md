@@ -52,7 +52,7 @@ Las tarifas toman cinco formas, según las funciones de costo que muestra Caplic
 | Variable con mínimo | «Variable Cost / Unit with a Minimum»: por unidad, pero nunca menos de un piso |
 | Con descuentos por escala | «Incremental Discounts»: el precio por unidad baja por tramos de cantidad |
 
-La forma decide el modo. Caplice suma al flete el costo del stock que viaja, «cf + cv + r·v·tm» (fijo, variable y el costo de tener el valor v inmovilizado durante el tiempo de viaje tm), y concluye que cada modo es el más barato en un rango de tamaño de envío. Es la misma cuenta del costo total de [Transporte](transporte.md#el-transporte-entra-en-el-costo-del-stock).
+El tamaño del envío entra en la elección del modo. Caplice suma al flete el costo del stock que viaja, «cf + cv + r·v·tm» (fijo, variable y el costo de tener el valor v inmovilizado durante el tiempo de viaje tm), y grafica tres modos contra el tamaño del envío; la lectura de la base es que cada modo resulta el más barato en un rango de tamaños. Es la misma cuenta del costo total de [Transporte](transporte.md#el-transporte-entra-en-el-costo-del-stock).
 
 ### El peso que se cobra
 
@@ -78,7 +78,7 @@ El contrato fija la tarifa por un período; el spot la pacta viaje por viaje. Li
 
 La tarifa de contrato sale de una licitación. Según el resumen de Sheffi (2004), «Most shippers use annual auctions to procure transportation services, leading to annual contracts». Se licita por carril (lane, un par de origen y destino): Sheffi habla de decidir «which carrier should serve what lane».
 
-Tres ideas de la literatura, todas de dos autores del mismo grupo del MIT y leídas como resumen:
+Tres ideas de la literatura, todas de Caplice y Sheffi, dos autores, y leídas como resumen:
 
 - Asignar es un problema combinatorio. Caplice y Sheffi (2003): «the shipper's assignment problem involves a combinatorial number of choices and cannot be easily executed manually», y por eso la licitación se beneficia de la optimización.
 - Ofertar por paquetes de carriles. En una subasta combinatoria el transportista oferta por un conjunto de carriles que le cierra en su red. Sheffi dice que así el cargador baja costos «while protecting carriers from winning lanes that do not fit their networks», porque tiene en cuenta las economías de alcance, «which many consider more important than economies of scale in transportation operations».

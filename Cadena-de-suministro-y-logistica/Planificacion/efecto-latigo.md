@@ -21,7 +21,7 @@ revisado:
 
 El efecto látigo es la amplificación de la variabilidad de la demanda a medida que se sube por la cadena: cada eslabón le pide a su proveedor con más variación que la que tienen sus propias ventas. Lee, Padmanabhan y Whang le encontraron cuatro causas estructurales y Sterman una de comportamiento; los datos muestran que lo tienen dos de cada tres empresas, con una magnitud moderada.
 
-Lee, Padmanabhan y Whang (1997) lo definen como el fenómeno en que «orders to the supplier tend to have larger variance than sales to the buyer (i.e., demand distortion), and the distortion often increases as one moves upstream». Está en [Planificación](planificacion.md) porque nace de cómo cada eslabón convierte lo que le piden en lo que pide. Pega más fuerte en quien está lejos del consumidor: el depósito central de la [red de distribución](../Red-de-distribucion/red-de-distribucion.md), el mayorista, la fábrica.
+Lee, Padmanabhan y Whang (1997) lo definen como el fenómeno en que «orders to the supplier tend to have larger variance than sales to the buyer (i.e., demand distortion), and the distortion often increases as one moves upstream». Está en [Planificación](planificacion.md) porque nace de cómo cada eslabón convierte lo que le piden en lo que pide. Según la definición, la distorsión suele crecer cuanto más lejos se está del consumidor. La lectura de la base es que le toca más al depósito central de la [red de distribución](../Red-de-distribucion/red-de-distribucion.md) y al mayorista; en los datos por industria, el látigo aparece en el mayorista y no en la mayoría de las industrias manufactureras (ver más abajo).
 
 ## De Forrester a Lee y otros
 
@@ -37,7 +37,7 @@ El resumen del artículo las nombra así: «demand signal processing, rationing 
 |---|---|---|
 | Procesamiento de la señal de demanda (demand signal processing) | cada eslabón pronostica con los pedidos que recibe, no con las ventas finales, y los ajusta | sin visibilidad de la demanda final, pronósticos múltiples, plazos largos |
 | Juego del racionamiento (rationing game) | cuando el proveedor raciona, los clientes piden de más para recibir lo que necesitan | racionamiento proporcional, ignorancia de la oferta, pedidos sin restricción |
-| Agrupación de pedidos (order batching) | se pide en lotes grandes y espaciados, no lo que se vende cada día | costo alto por pedido, economía del camión completo, pedidos de todos en las mismas fechas |
+| Agrupación de pedidos (order batching) | se pide en lotes grandes y espaciados, no lo que se vende cada día | costo alto por pedido, economía del camión completo, pedidos aleatorios o correlacionados |
 | Variación de precios (price variations) | las promociones hacen comprar de más en el precio bajo y nada después | precios alto-bajo |
 
 La columna «Qué pasa» es la lectura de la base de cada causa. La agrupación aparece en la [planificación de la distribución](planificacion-de-la-distribucion.md): los depósitos venden parejo y el central ve golpes del tamaño del lote.
@@ -46,7 +46,7 @@ La columna «Qué pasa» es la lectura de la base de cada causa. La agrupación 
 
 Sterman (1989) puso a personas a manejar «a simulated inventory distribution system which contains multiple actors, feedbacks, nonlinearities, and time delays». Según el resumen de su artículo, las decisiones producen «aggregate dynamics which systematically diverge from optimal behavior». Propuso que quienes deciden siguen una regla de anclaje y ajuste, y que fallan por «misperceptions of feedback»: «subjects are shown to be insensitive to the feedbacks from their decisions to the environment».
 
-Ese experimento es el juego de la cerveza: una fuente secundaria dice que el látigo «is well simulated by the beer distribution game that was developed by MIT Sloan School of Management in the 1960s». La lectura de la base: Lee y otros explican el efecto por la estructura; Sterman, por cómo deciden las personas con demoras. Una fuente secundaria le atribuye a Sterman que quien decide subestima lo que ya pidió y todavía no llegó, pero eso no está en el resumen leído. Las dos explicaciones se suman.
+El resumen no menciona la cerveza ni el látigo; la conexión la hace una fuente secundaria, que dice que el látigo «is well simulated by the beer distribution game that was developed by MIT Sloan School of Management in the 1960s». La lectura de la base: Lee y otros explican el efecto por la estructura; Sterman, por cómo deciden las personas con demoras. Una fuente secundaria le atribuye a Sterman que quien decide subestima lo que ya pidió y todavía no llegó, pero eso no está en el resumen leído. Las dos explicaciones se suman.
 
 ## Los remedios
 

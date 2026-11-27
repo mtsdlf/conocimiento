@@ -48,11 +48,11 @@ El MAPE es la medida más pedida porque se entiende como porcentaje, y FPP3 le m
 - Pone «a heavier penalty on negative errors than on positive errors»: no es simétrico.
 - Supone que «the unit of measurement has a meaningful zero». Sirve para unidades vendidas; no para una temperatura.
 
-Las competencias M lo siguen usando en versión simétrica (sMAPE): el ganador de M4 fue, según el resumen, «close to 10% more accurate» en sMAPE que el método de comparación. Que una competencia lo use no lo vuelve apto para cualquier serie.
+La competencia M4 usó una versión simétrica (sMAPE): su método híbrido fue, según el resumen, «close to 10% more accurate» en sMAPE que el método de comparación. Que una competencia lo use no lo vuelve apto para cualquier serie (lectura de la base).
 
 ## Cómo se mide bien
 
-- Sobre datos que no se usaron para ajustar: FPP3 mide la exactitud sobre un tramo de prueba, separado del de entrenamiento. Medir sobre lo mismo con que se ajustó el método da un error demasiado optimista.
+- Sobre datos que no se usaron para ajustar: FPP3 mide la exactitud sobre un tramo de prueba, separado del de entrenamiento. Medir sobre lo mismo con que se ajustó el método da un error demasiado optimista (inferencia de la base).
 - Al rezago en que se decide: si el pedido sale con dos meses de anticipación, importa el error del pronóstico hecho dos meses antes, no el del mes anterior (criterio de la base).
 - Contra una referencia: un error del 30 % puede ser bueno o malo; el MASE lo dice comparando contra el ingenuo.
 - Por artículo y agregado: el total puede tener poco error y cada artículo mucho, porque los errores se compensan al sumar (inferencia de la base).
@@ -74,13 +74,13 @@ Si el pronóstico es parejo, los errores se cancelan y la señal queda cerca de 
 3. Saber si el ajuste ayudó: Fildes y otros encontraron que los ajustes chicos «often damaged accuracy». Midiendo el error antes y después de cada ajuste se sabe si el paso suma.
 4. Dimensionar el colchón: el stock de seguridad se calcula con el desvío del error del pronóstico en el plazo de reposición, como explica [stock de seguridad](../../Inventario-y-depositos/Reposicion/stock-de-seguridad.md), en Inventario. Ahí la medida es el desvío (la raíz del error cuadrático medio), no el MAPE.
 
-El tercer punto tiene nombre en la práctica, valor agregado del pronóstico (FVA): comparar el error de cada paso del proceso (el estadístico, el ajuste del planificador, el consenso) contra el de un pronóstico ingenuo.
+El tercer punto tiene nombre en la práctica, valor agregado del pronóstico (FVA); la definición es de la base, sin fuente leída: comparar el error de cada paso del proceso (el estadístico, el ajuste del planificador, el consenso) contra el de un pronóstico ingenuo.
 
 > [!NOTE] Sin fuente todavía: la definición de FVA en un texto leído. Existen el capítulo 4 de Gilliland, *The Business Forecasting Deal*, y el 27 de Vandeput (2021), pero solo se vieron sus registros bibliográficos.
 
 ## Qué tiene que guardar un sistema para medir el error
 
-Ninguno de los ERP abiertos consultados mostró un registro del error. Lo que hace falta, por inferencia de FPP3 y de la señal de seguimiento:
+En los sistemas abiertos que se leyeron no apareció un registro del error (no se auditó su base completa). Lo que hace falta, por inferencia de FPP3 y de la señal de seguimiento:
 
 - Cada pronóstico congelado, con la fecha en que se hizo y el período al que apunta, para medir a cualquier rezago.
 - El real con signo, de la misma serie que se pronosticó (venta, pedido o despacho).

@@ -30,11 +30,11 @@ El documento de transporte cambia con el [modo](../Transporte/modos-de-transport
 
 ## Las tres funciones del conocimiento de embarque
 
-El conocimiento de embarque (bill of lading, B/L) lo emite el transportista marítimo al recibir la carga. Según Wikipedia, fuente secundaria y la única leída, cumple tres funciones:
+El conocimiento de embarque (bill of lading, B/L) es el documento del transporte marítimo. Según Wikipedia, fuente secundaria y la única leída, cumple tres funciones:
 
 | Función | Qué quiere decir | Cita |
 |---|---|---|
-| Recibo | prueba que el transportista recibió esa carga, en ese estado | «it is a conclusive receipt» |
+| Recibo | prueba que el transportista recibió esa carga | «it is a conclusive receipt» |
 | Prueba del contrato | contiene o prueba las condiciones del transporte | «contains, or evidences» |
 | Título | quien lo tiene puede reclamar la mercadería y transferirla | «it serves as a document of title to the goods» |
 
@@ -60,7 +60,7 @@ Un papel que es título tiene un problema digital: un archivo se copia, y el tí
 
 El control y la singularidad (un solo original activo) son el núcleo de la ley. Wikipedia describe el conocimiento electrónico (eBL) como «the legal and functional equivalent of a paper bill of lading».
 
-Una ley modelo no rige hasta que un país la adopta. Wikipedia lista, con años de confiabilidad dispar, Bahrein (2018), Singapur, Belice, Kiribati y Papúa Nueva Guinea (2021), Paraguay (Ley 6.822, 2 de enero de 2022), Timor-Leste (Decreto-Ley 12/2024), el Reino Unido (Electronic Trade Documents Act, sancionada en julio de 2023 y vigente desde el 20 de septiembre de 2023) y Abu Dabi. Francia tenía un proyecto adoptado en marzo de 2024.
+Una ley modelo no rige hasta que un país la adopta. Wikipedia lista, con años de confiabilidad dispar, Bahrein (2018), Singapur (2021, sin confirmar el año de promulgación), Belice, Kiribati y Papúa Nueva Guinea (2021), Paraguay (Ley 6.822, 2 de enero de 2022), Timor-Leste (Decreto-Ley 12/2024), el Reino Unido (Electronic Trade Documents Act, sancionada en julio de 2023 y vigente desde el 20 de septiembre de 2023) y Abu Dabi. Francia tenía un proyecto adoptado en marzo de 2024.
 
 > [!NOTE] Sin fuente todavía: el texto de la MLETR y el estado oficial de las adopciones en el sitio de UNCITRAL (la página dio error 403); si la Argentina la adoptó.
 
