@@ -48,7 +48,7 @@ Lo que cada segmento necesita se lee en lo que suma cada plan. La tabla es una l
 
 La capacidad técnica también escala. En la API de Tiendanube, las tiendas de los planes más altos tienen un límite de uso diez veces mayor que el resto (ver [arquitectura de una plataforma](arquitectura-de-plataforma.md#límites-de-uso-el-balde-de-tiendanube)). Una marca grande integra su tienda con otros sistemas y hace muchas más llamadas que un emprendedor.
 
-El modo headless queda arriba de la escalera, en la práctica: pide un equipo de ingeniería que solo tienen los comercios grandes. Las condiciones están en [tipos de plataforma](tipos-de-plataforma.md#cuándo-conviene-headless-o-composable).
+El modo headless queda arriba de la escalera, en la práctica: pide un equipo de ingeniería que solo tienen los comercios grandes. Las condiciones están en [tipos de plataforma](tipos-de-plataforma.md#cuándo-conviene-headless-o-composable), y cuánto cuesta sostenerlo y cuántas marcas lo tienen en Argentina, en [vitrina a medida](vitrina-a-medida.md).
 
 ## Pocos comercios grandes, mucho volumen
 
