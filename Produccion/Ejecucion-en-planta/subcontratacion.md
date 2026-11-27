@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La subcontratación es mandarle material propio a un tercero para que haga una o más operaciones de la fabricación y lo devuelva transformado. El material sigue siendo de la empresa mientras está en manos del tercero, y lo que se le paga es el servicio, no el producto.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - "Documentación de Subcontracting de un sistema abierto: https://docs.frappe.io/erpnext/user/manual/en/subcontracting"
@@ -9,7 +9,7 @@ fuentes:
   - "Produccion/.investigacion/ejecucion-en-planta.md (sección 4), 2026-11-27"
 aliases: [subcontratación, subcontracting, fasón, trabajo a fasón, façon, maquila, operación externa, outside operation, outside processing, tercerización de una operación, orden de subcontratación, subcontracting order, material en poder de terceros, stock en poder de terceros]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Subcontratación
@@ -53,7 +53,7 @@ Ese saldo es el que más se descuida. El proveedor recibe 1.000 kg de chapa, dev
 | Lo que vuelve y no cumple | Calidad | [no conformidad](../Calidad/no-conformidad.md) |
 | Cuánto costó | Costos | el servicio más el material, en el [costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md) |
 
-Las notas de Compras discrepan en un punto: [tipos de orden](../../Compras-y-abastecimiento/Orden-de-compra/tipos-de-orden.md#los-bordes-subcontratación-y-compra-de-activos) dice que la subcontratación termina en una orden al proveedor, y [solicitud de compra](../../Compras-y-abastecimiento/Orden-de-compra/solicitud-de-compra.md) lee que, de los propósitos de la solicitud, solo el de comprar termina en una orden. La documentación de subcontratación del sistema abierto empieza por una orden de compra de subcontratación, que es lo que sostiene la primera lectura.
+Las notas de Compras coinciden en que la subcontratación termina en una orden al proveedor: [tipos de orden](../../Compras-y-abastecimiento/Orden-de-compra/tipos-de-orden.md#los-bordes-subcontratación-y-compra-de-activos) lo dice de la orden, y [solicitud de compra](../../Compras-y-abastecimiento/Orden-de-compra/solicitud-de-compra.md), de los propósitos de la solicitud (comprar y subcontratar). Lo sostiene la documentación de subcontratación del sistema abierto, que empieza por una orden de compra de subcontratación.
 
 ## Qué guarda una subcontratación
 

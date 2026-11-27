@@ -58,7 +58,7 @@ Una diferencia que el cliente descontó a propósito (una devolución, una difer
 
 ### Las retenciones sufridas
 
-En Argentina, un cliente que actúa como agente de retención paga neto y la diferencia es un impuesto retenido, no una deuda perdonada: la factura se cancela con la plata más el comprobante de la retención (lectura de esta base). Qué retenciones existen y cómo se acreditan está en [tesorería en Argentina](../tesoreria-en-argentina.md); qué impuesto es y cuándo se computa es del tema Impuestos, todavía no escrito.
+En Argentina, un cliente que actúa como agente de retención paga neto y la diferencia es un impuesto retenido, no una deuda perdonada: la factura se cancela con la plata más el comprobante de la retención (lectura de esta base). Qué retenciones existen y cómo se acreditan está en [tesorería en Argentina](../tesoreria-en-argentina.md); qué impuesto es y cuándo se computa está en [pagos a cuenta](../../Impuestos/Recaudacion-en-la-fuente/pagos-a-cuenta.md), en Impuestos.
 
 > [!NOTE] Sin fuente todavía: cómo se aplica una retención sufrida (si cancela la factura al recibir el certificado o al validarlo) y qué pasa cuando el certificado no llega.
 
@@ -77,6 +77,8 @@ Lo que sigue es lectura de esta base, sin fuente:
 ## Los cheques y el momento de aplicar
 
 Un cheque a fecha, físico o electrónico, se recibe hoy y se acredita después. Hay que decidir si cancela la factura al recibirlo o al acreditarse, y qué pasa si lo rechazan. La conciliación de [conciliaciones](../../Contabilidad/Control-interno/conciliaciones.md) muestra el caso del rechazo: la deuda del cliente renace, porque el cobro registrado no existió. Una lectura de esta base: si el cheque cancela la factura al recibirse, tiene que seguir contando en la exposición del cliente hasta que se acredite, como dice [crédito a clientes](credito-a-clientes.md#cómo-se-evalúa-al-cliente-y-cómo-se-fija-el-límite). El ECHEQ y sus plazos están en [tesorería en Argentina](../tesoreria-en-argentina.md).
+
+> [!NOTE] Sin fuente todavía: si un cheque de pago diferido o un ECHEQ cancela la factura al recibirse o al acreditarse, en la ley o en la práctica contable. Los informes de investigación del tema no lo traen.
 
 ## Cómo falla la aplicación
 

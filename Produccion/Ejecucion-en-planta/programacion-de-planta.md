@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La programación de planta decide en qué orden y en qué momento pasa cada orden de producción por cada centro de trabajo, dentro de la capacidad que hay. Su salida es el programa detallado y la lista de despacho de cada centro, y sus reglas van desde ordenar la cola por fecha de entrega hasta subordinar toda la planta al cuello de botella o dejar que el consumo dispare la producción con kanban.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - "Apuntes de un curso de la Universidad de Kentucky, reglas de prioridad (definiciones y fórmulas): https://www.uky.edu/~dsianita/300/schedule.html"
@@ -20,9 +20,11 @@ fuentes:
   - "Toyota UK, Heijunka - Toyota Production System guide: https://mag.toyota.co.uk/heijunka"
   - "Cambridge Institute for Manufacturing, Decision Support Tools, Kanbans: https://www.ifm.eng.cam.ac.uk/research/dstools/kanbans/"
   - "Produccion/.investigacion/ejecucion-en-planta.md (sección 3) y ejecucion-en-planta-2.md (secciones 2 a 4), 2026-11-27"
+  - "APQC, Open Standards Benchmarking Measure List, Manufacturing (2012), medida 100251: https://www.apqc.org/sites/default/files/files/OSB/measureLists/20120812/Measures%20List%20-%20Manufacturing.pdf"
+  - "Procesos-de-negocio/.investigacion/de-la-planificacion-a-la-produccion.md, sección 5 (2026-11-27)"
 aliases: [programación de planta, programación de la producción, production scheduling, shop floor scheduling, secuenciación, sequencing, programa detallado, detailed production schedule, work schedule, lista de despacho, dispatch list, job list, reglas de despacho, dispatching rules, reglas de prioridad, FCFS, primero en llegar primero en salir, SPT, menor tiempo de proceso, EDD, fecha de entrega más temprana, razón crítica, critical ratio, holgura, slack, programación hacia adelante, forward scheduling, programación hacia atrás, backward scheduling, carga finita, finite capacity scheduling, cuello de botella, bottleneck, WIP crítico, critical WIP, cinco pasos de enfoque, five focusing steps, tambor-amortiguador-cuerda, drum-buffer-rope, DBR, kanban, heijunka, nivelación de la producción, production leveling, cumplimiento del programa, schedule adherence]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Programación de planta
@@ -113,7 +115,9 @@ Kanban no reemplaza el plan. Cambridge aclara que ajusta la producción a cambio
 
 ## Cumplimiento del programa
 
-> [!NOTE] Sin fuente todavía: una definición y una fórmula del cumplimiento del programa de producción. Como inferencia de la base, se mide comparando, por período, las órdenes u operaciones terminadas en su fecha con las programadas. Una crítica académica a la OEE señala que esa medida «does not consider compliance with the production plan» (ver [eficiencia global del equipo](eficiencia-global-del-equipo.md)).
+APQC tiene una medida para esto en su lista de medidas de manufactura: «Average production schedule attainment during a planning period for primary products» (ID 100251), asignada al proceso 4.3.2 de su marco. Según el resumen del buscador sobre la página de la medida, se expresa en porcentaje; la página no se pudo leer. El recorrido entero, que es donde esta medida junta las fallas de material, de capacidad y de calidad, está en [de la planificación a la producción](../../Procesos-de-negocio/de-la-planificacion-a-la-produccion.md#qué-se-mide-del-recorrido-entero).
+
+> [!NOTE] Sin fuente todavía: la fórmula del cumplimiento del programa de producción. Como inferencia de la base, se mide comparando, por período, las órdenes u operaciones terminadas en su fecha con las programadas. Una crítica académica a la OEE señala que esa medida «does not consider compliance with the production plan» (ver [eficiencia global del equipo](eficiencia-global-del-equipo.md)).
 
 ## Qué guarda un programa de planta
 

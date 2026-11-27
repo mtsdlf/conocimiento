@@ -20,7 +20,7 @@ revisado: 2026-11-27
 
 Comercio exterior, en este tema, es lo que cambia en el movimiento de la mercadería cuando cruza una frontera: se suman actores, un reparto pactado de costos y riesgos entre comprador y vendedor (los Incoterms), documentos que viajan con la carga y un control de la aduana antes de que la mercadería se pueda usar o embarcar.
 
-Es la quinta parte de [Cadena de suministro y logística](../cadena-de-suministro-y-logistica.md). El viaje en sí lo cuenta [Transporte](../Transporte/transporte.md), con sus [modos](../Transporte/modos-de-transporte.md) y el [costo del flete](../Transporte/costo-del-flete.md); la salida desde la puerta, [Despacho y entrega](../Despacho-y-entrega/despacho-y-entrega.md). Comercio exterior agrega lo que pasa en el borde. Lo que se paga al cruzar (derechos, tasas, IVA y percepciones) existe y pesa en el costo, pero es de Impuestos, todavía no armado. El pago al exterior, por ejemplo con carta de crédito, es de Tesorería y finanzas de la empresa en marcha, también sin armar. La diferencia de cambio entre la compra y el pago está en [moneda extranjera](../../Contabilidad/Operaciones/moneda-extranjera.md), de Contabilidad.
+Es la quinta parte de [Cadena de suministro y logística](../cadena-de-suministro-y-logistica.md). El viaje en sí lo cuenta [Transporte](../Transporte/transporte.md), con sus [modos](../Transporte/modos-de-transporte.md) y el [costo del flete](../Transporte/costo-del-flete.md); la salida desde la puerta, [Despacho y entrega](../Despacho-y-entrega/despacho-y-entrega.md). Comercio exterior agrega lo que pasa en el borde. Lo que se paga al cruzar (derechos, tasas, IVA y percepciones) existe y pesa en el costo, pero es de Impuestos; lo de la Argentina está en [comercio exterior en Argentina](../../Impuestos/comercio-exterior-en-argentina.md). El pago al exterior es de Tesorería: en la Argentina, [comprar dólares y pagar importaciones](../../Tesoreria/tesoreria-en-argentina.md#comprar-dólares-y-pagar-importaciones); la carta de crédito no tiene nota en la base. La diferencia de cambio entre la compra y el pago está en [moneda extranjera](../../Contabilidad/Operaciones/moneda-extranjera.md), de Contabilidad.
 
 ## Quién interviene cuando la carga cruza
 
@@ -57,7 +57,7 @@ flowchart LR
 2. El vendedor entrega la carga en el lugar pactado y se emite el [documento de transporte](documentos-del-comercio-exterior.md), que en el barco puede ser además título de la mercadería.
 3. La carga viaja. Mientras tanto es stock en tránsito: está comprometida o pagada, y no se puede vender.
 4. Al llegar, el importador o su despachante declara ante la [aduana](aduana.md) qué es, cuánto vale y para qué entra. La aduana decide con gestión de riesgo cuánto controla.
-5. La aduana libera la mercadería (lo que haya que pagar para eso es de Impuestos) y la carga entra al depósito por la [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md), de Inventario.
+5. La aduana libera la mercadería (lo que haya que pagar para eso es de Impuestos; en la Argentina, los [tributos de la aduana](../../Impuestos/comercio-exterior-en-argentina.md#tributos-de-la-aduana)) y la carga entra al depósito por la [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md), de Inventario.
 
 La exportación recorre lo mismo al revés: la declaración y el control ocurren antes del embarque, y el documento de transporte se emite al cargar.
 

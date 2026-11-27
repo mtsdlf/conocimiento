@@ -7,11 +7,11 @@ fuera:
   - registrar lo devengado, los asientos de cobros y pagos, las cuentas corrientes como auxiliares, la previsión de incobrables, la diferencia de cambio, el estado de flujo de efectivo, el presupuesto económico, la separación de funciones y la conciliación bancaria, que son de Contabilidad; acá se enlazan
   - la pista, el consumo mensual, default alive, el plan financiero de 12 meses y las fuentes del capital inicial (bootstrapping, SAFE, capital de riesgo) de una empresa que empieza, que se quedan en Emprender/Finanzas
   - el límite de crédito y la condición de pago como datos del cliente, que se registran en Relación con clientes; quién los fija y cómo se cobra es de acá
-  - el pedido al proveedor y el cruce de tres vías, que son de Compras y abastecimiento (todavía no escrito); acá se paga la factura ya aprobada
-  - qué impuesto se paga y cuándo vence (incluidos el impuesto a los débitos y créditos bancarios, retenciones y percepciones), que va al tema Impuestos (todavía no escrito); acá pesa solo como salida de caja
+  - el pedido al proveedor y la recepción, que son de Compras y abastecimiento, y la factura del proveedor con su cruce de tres vías y la cuenta a pagar, que son de Contabilidad; acá se paga la factura ya aprobada
+  - qué impuesto se paga y cuándo vence (incluidos el impuesto a los débitos y créditos bancarios, retenciones y percepciones), que va al tema Impuestos; acá pesa solo como salida de caja
   - cobrar online con tarjeta, billeteras y QR, su costo y sus contracargos, que están en Comercio-electronico/Pagos; la cuenta corriente de un mayorista, en Comercio-electronico/Comercio-B2B
-  - el recorrido de punta a punta del pedido al cobro y de la compra al pago, que va al tema Procesos de negocio (todavía no escrito)
-  - cómo lo resuelve un software (el documento de pago y sus estados, el registro de movimientos, la integración con bancos), que va al tema Software de gestión (todavía no escrito)
+  - el recorrido de punta a punta del pedido al cobro y de la compra al pago, que va al tema Procesos de negocio
+  - cómo lo resuelve un software (el documento de pago y sus estados, el registro de movimientos, la integración con bancos), que va al tema Software de gestión
   - las finanzas corporativas de una empresa grande: valuación, estructura de capital, presupuesto de capital con VAN y TIR, emisión de acciones y fusiones
 fuentes: []
 preguntas:
@@ -82,12 +82,12 @@ Regla del mapa (#98): cada dominio es dueño de un objeto y un verbo; un saber v
 | [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) | decidir el crédito y cobrar | el límite y la condición de pago como datos del cliente, y el pedido que se bloquea | Tesorería fija el límite; la [ficha del cliente](../Relacion-con-clientes/Registro-del-cliente/condiciones-comerciales.md) lo guarda |
 | [Comercio-electronico/Pagos](../Comercio-electronico/Pagos/pagos.md) | el medio de cobro visto desde la caja | cobrar online: tarjeta, billeteras, QR, su costo y sus contracargos | cuánto cuesta cobrar con tarjeta es de allá; cuándo se acredita y cómo se aplica, de acá |
 | [Comercio-electronico/Comercio-B2B](../Comercio-electronico/Comercio-B2B/cuenta-corriente-y-credito.md) | el crédito y la cobranza en general | la cuenta corriente en el comercio mayorista argentino | allá, cómo se ve en un distribuidor; acá, el concepto |
-| Compras y abastecimiento (no escrito) | pagar | el pedido, la recepción y el cruce de tres vías | Compras aprueba que se deba; Tesorería decide cuándo y cómo se paga |
-| Impuestos (no escrito) | el impuesto como salida de caja en la proyección | qué se paga, cuándo vence y cómo se declara | la fecha del vencimiento es de Impuestos; tener la plata ese día, de acá |
-| Procesos de negocio (no escrito) | cada paso de cobrar y pagar | los recorridos del pedido al cobro y de la compra al pago | el recorrido es del proceso; la aplicación del cobro, de acá |
-| Software de gestión (no escrito) | el saber de tesorería, que existe sin software | el documento de pago, la integración con bancos y el registro de movimientos como columnas técnicas | la corrida de pagos se explica acá; cómo se modela, allá |
+| [Compras y abastecimiento](../Compras-y-abastecimiento/compras-y-abastecimiento.md) y [Contabilidad](../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md) | pagar | Compras, el pedido y la recepción; Contabilidad, la factura del proveedor, el [cruce de tres vías](../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md#el-cruce-de-tres-vías-visto-desde-el-registro) y la cuenta a pagar | la factura queda aprobada para pago en cuentas a pagar, después del cruce de tres vías; Tesorería decide cuándo y cómo se paga |
+| [Impuestos](../Impuestos/impuestos.md) | el impuesto como salida de caja en la proyección | qué se paga, cuándo vence y cómo se declara | la fecha del vencimiento es de Impuestos; tener la plata ese día, de acá |
+| [Procesos de negocio](../Procesos-de-negocio/procesos-de-negocio.md) | cada paso de cobrar y pagar | los recorridos [del pedido al cobro](../Procesos-de-negocio/del-pedido-al-cobro.md) y [de la compra al pago](../Procesos-de-negocio/de-la-compra-al-pago.md) | el recorrido es del proceso; la aplicación del cobro, de acá |
+| [Software de gestión](../Software-de-gestion/software-de-gestion.md) | el saber de tesorería, que existe sin software | el [documento](../Software-de-gestion/Columnas-tecnicas/documento-y-estados.md), la [integración con bancos](../Software-de-gestion/Columnas-tecnicas/integracion-y-migracion.md) y el [registro de movimientos](../Software-de-gestion/Columnas-tecnicas/registro-de-movimientos-y-dimensiones.md) como columnas técnicas | la corrida de pagos se explica acá; cómo se modela, allá |
 
-Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
+Cuando se escribió, Compras, Impuestos, Procesos de negocio y Software de gestión no existían y se nombraban sin enlace; la sesión 16 del mapa (#123) los enlazó.
 
 ## Supuestos
 
@@ -98,4 +98,4 @@ Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa 
 - **Cambios después de investigar** (2026-11-27). La política de tesorería sube a nota del todo, al lado de la entrada, porque APQC la pone primera (9.7.1) y gobierna las cinco verticales. Los medios de cobro y los de pago son los mismos rieles vistos de dos lados: van en una sola nota de Caja y liquidez, que es donde pesa cuándo se acredita la plata. El financiamiento de la cadena (reverse factoring) tiene nota propia, por su riesgo y por la enmienda del IASB de 2023. Las disputas y deducciones (APQC 9.2.5) van en gestión de la cobranza, y el aviso de pago en aplicación de cobros. La relación con los bancos y sus comisiones (APQC 9.7.2.7 y 9.7.2.8) va en cuentas bancarias.
 - **El riesgo de tasa y el de contraparte no tienen nota propia**: van en la entrada de Riesgos financieros, porque en una pyme se resuelven con dos decisiones (tasa fija o variable; en qué bancos y con qué límite). El banco interno, el netting y la cobertura formal se nombran como cosa de empresa grande.
 - **Fuentes flacas.** El cupo de búsqueda web se agotó en las dos rondas de investigación. Muchos componentes se apoyan en OpenStax, APQC, la Credit Research Foundation, el FBI y AFP, y en Wikipedia marcada como tal; lo que no tuvo fuente queda en cada nota como «sin fuente todavía».
-- **Lo que queda pendiente para otra sesión**: Contabilidad, Relación con clientes y Emprender dicen hoy «Tesorería, todavía no escrito»; pasan a enlazar este tema en la sesión 16 (#101).
+- **Lo que queda pendiente para otra sesión**: Contabilidad, Relación con clientes y Emprender dicen hoy «Tesorería, todavía no escrito»; pasan a enlazar este tema en la sesión 16 (#101). Se resolvió en la sesión 16 (#123), que además alineó el límite de la factura con la regla del mapa: la aprueba Contabilidad, no Compras.
