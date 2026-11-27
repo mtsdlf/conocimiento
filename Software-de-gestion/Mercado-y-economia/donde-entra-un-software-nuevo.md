@@ -44,7 +44,7 @@ Que la normativa de cada país proteja a los proveedores locales es inferencia d
 
 ## La entrada que hace el propio incumbente
 
-El cambio de modelo no siempre lo trae un entrante. En el informe anual de uno de los proveedores de ERP más grandes, la licencia nueva cayó de 2.056 a 1.399 millones de euros entre 2022 y 2024, mientras la nube subió de 11.426 a 17.141. El paso a la nube, que podría haber sido la puerta de un rival, lo está haciendo el incumbente con su propia base. Es un caso, no una regla.
+El cambio de modelo no siempre lo trae un entrante. En el informe anual de uno de los proveedores de ERP más grandes, la licencia nueva cayó de 2.056 a 1.399 millones de euros entre 2022 y 2024, mientras la nube subió de 11.426 a 17.141. El paso a la nube, que podría haber sido la puerta de un rival, lo está haciendo el incumbente con su propia base, en el único caso mirado.
 
 ## El software por rubro que cobra los pagos
 

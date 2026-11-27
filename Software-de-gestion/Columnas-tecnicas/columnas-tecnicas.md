@@ -23,7 +23,7 @@ Son el esqueleto de las [categorías de producto](../Categorias-de-producto/cate
 
 ## Qué hace que una pieza sea columna
 
-Una pieza es columna si cumple tres condiciones: aparece en todos los dominios, la reconoce una fuente de diseño y la documentación de los productos la resuelve como algo propio. La fuente de diseño principal son los patrones de análisis de Martin Fowler, que tratan la contabilidad y el inventario con las mismas piezas, la parte con roles, la jerarquía de la organización, el nivel de conocimiento y el tiempo. Hohpe y Woolf ponen la integración; Soh, Sia y Tay-Yap (2000), los desajustes que aparecen cuando una columna del producto no calza con la empresa.
+Con el criterio de esta base, una pieza es columna si cumple tres condiciones: aparece en todos los dominios, la reconoce una fuente de diseño y la documentación de los productos la resuelve como algo propio. La fuente de diseño principal son los patrones de análisis de Martin Fowler. Según el índice de *Analysis Patterns*, tratan la contabilidad y el inventario con las mismas piezas. Además cubren la parte con roles, la jerarquía de la organización, el nivel de conocimiento y el tiempo. Hohpe y Woolf aportan la integración; Soh, Sia y Tay-Yap (2000), los desajustes que aparecen cuando una columna del producto no calza con la empresa.
 
 La prueba es la de un dominio cualquiera. El [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md), la [orden de compra](../../Compras-y-abastecimiento/Orden-de-compra/orden-de-compra.md), la [orden de producción](../../Produccion/Ejecucion-en-planta/orden-de-produccion.md), la [orden de trabajo](../../Activos-y-mantenimiento/Orden-de-trabajo/orden-de-trabajo.md) y la [hoja de horas](../../Servicios-profesionales-y-proyectos/Registro-de-horas/hoja-de-horas.md) son, para el software, el mismo problema: un documento con estados que referencia maestros, deja movimientos con fecha, cantidad y moneda, y lo confirma alguien con permiso.
 
@@ -64,10 +64,10 @@ flowchart LR
 
 Algunas piezas parecen columnas y son de otra capa o atributos de una columna:
 
-- **Multi-tenancy** es cómo se aloja un software vendido como servicio, no cómo se modela el negocio: [multi-tenancy](../../Arquitectura/Sistemas-distribuidos/multi-tenancy.md).
-- **La saga, el outbox y la clave de idempotencia** son patrones de Arquitectura que la integración usa: [saga](../../Arquitectura/Sistemas-distribuidos/saga.md), [outbox](../../Arquitectura/Sistemas-distribuidos/outbox.md) y [clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md).
-- **Las [transacciones](../../Bases-de-datos/Transacciones/transacciones.md) de la base de datos** son de Bases de datos.
-- **La parte con roles, la numeración, las aprobaciones, las dimensiones y la carga inicial** son atributos de otras columnas (datos maestros, documento, movimientos e integración) y viven adentro de ellas.
+- Multi-tenancy es cómo se aloja un software vendido como servicio, no cómo se modela el negocio: [multi-tenancy](../../Arquitectura/Sistemas-distribuidos/multi-tenancy.md).
+- La saga, el outbox y la clave de idempotencia son patrones de Arquitectura que la integración usa: [saga](../../Arquitectura/Sistemas-distribuidos/saga.md), [outbox](../../Arquitectura/Sistemas-distribuidos/outbox.md) y [clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md).
+- Las [transacciones](../../Bases-de-datos/Transacciones/transacciones.md) de la base de datos son de Bases de datos.
+- La parte con roles, la numeración, las aprobaciones, las dimensiones y la carga inicial son atributos de otras columnas (datos maestros, documento, movimientos e integración) y viven adentro de ellas.
 
 ## Cómo falla una columna
 

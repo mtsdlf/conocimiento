@@ -30,7 +30,7 @@ Es la decisión central de la fase de proyecto de la [implementación](implement
 
 ## Ajuste, brecha y desajuste
 
-Una brecha es una necesidad de la empresa que el producto, tal como viene, no cubre. Se encuentra recorriendo los procesos de la empresa en el producto: un pedido, una devolución, un cierre de mes, como en los recorridos de [Procesos de negocio](../../Procesos-de-negocio/procesos-de-negocio.md). La metodología de un proveedor grande lo hace, según un resumen, en talleres de «ajuste al estándar» (fit-to-standard): se parte del proceso que trae el producto y se discute solo lo que no encaja, en lugar de escribir primero el proceso ideal y buscar el producto que lo copie.
+Una brecha es una necesidad de la empresa que el producto, tal como viene, no cubre. Se encuentra recorriendo los procesos de la empresa en el producto: un pedido, una devolución, un cierre de mes, como en los recorridos de [Procesos de negocio](../../Procesos-de-negocio/procesos-de-negocio.md). La metodología de un proveedor grande lo hace, según un resumen, en talleres de «ajuste al estándar» (fit-to-standard). En lectura de esta base, eso significa partir del proceso que trae el producto y discutir solo lo que no encaja, en lugar de escribir primero el proceso ideal y buscar el producto que lo copie.
 
 Soh, Sia y Tay-Yap (2000) llamaron desajustes (misfits) a esas brechas y las clasificaron en tres tipos, según los resúmenes leídos. Su estudio es un solo caso, un hospital de Singapur, presentado como resultados tempranos de un trabajo mayor.
 
@@ -40,32 +40,32 @@ Soh, Sia y Tay-Yap (2000) llamaron desajustes (misfits) a esas brechas y las cla
 | Funcional | Lo que se puede hacer: el acceso, los controles, el proceso | El producto pide aprobar todo pedido y la empresa aprueba solo los de cliente nuevo |
 | De salida | El formato y el contenido de los reportes y documentos | La factura o el listado no sale como lo pide el cliente o el fisco |
 
-Los ejemplos son de esta base. Según los resúmenes, los desajustes de salida fueron los más frecuentes, y hubo menos en contabilidad y finanzas, donde las normas dan algo de estandarización. Otro resumen agrega que los de datos son los más caros de arreglar, porque tocan las tablas del núcleo del producto.
+Los ejemplos son de esta base. Según los resúmenes, los desajustes de salida fueron los más frecuentes, y hubo menos en contabilidad y finanzas, donde las normas dan algo de estandarización. Según los extractos, los de datos obligan a reestructurar tablas, un cambio costoso en el núcleo del paquete.
 
 ## Adaptar el proceso o el software
 
-Cada brecha tiene tres salidas: se cambia el proceso de la empresa para que siga al producto, se adapta el producto, o se deja afuera y se resuelve con otra herramienta. Brehm, Heinzl y Markus (2001) ordenan las adaptaciones del software en un espectro de menos a más invasivas, desde configurar hasta modificar el código del producto, pasando por reportes, flujos de trabajo e interfaces; según los resúmenes, el número exacto de tipos varía entre quienes lo citan.
+Cada brecha tiene tres salidas: se cambia el proceso de la empresa para que siga al producto, se adapta el producto, o se deja afuera y se resuelve con otra herramienta. Brehm, Heinzl y Markus (2001) llaman tailoring a las adaptaciones del software, desde configurar hasta modificar el producto, y las clasifican por la capa que tocan. Según los resúmenes, entre ellas figuran los informes ampliados, la programación de flujos y las interfaces; los resúmenes difieren en el número de tipos (siete, ocho o nueve), y no se leyó el original.
 
-La posición clásica a favor de cambiar el proceso es de Davenport (1998). Según un resumen de terceros, sostiene que «an enterprise system, by its very nature, imposes its own logic on a company's strategy, organization, and culture», y que la mayoría de las empresas tendrán que adaptar sus procesos al sistema. Davenport advierte también lo contrario: el sistema empuja hacia procesos genéricos aunque los propios sean una ventaja frente a la competencia.
+Davenport (1998) defiende que la empresa adapte sus procesos al sistema. Según un resumen de terceros, sostiene que «an enterprise system, by its very nature, imposes its own logic on a company's strategy, organization, and culture» (cita tomada del resumen, sin verificar en el original), y que la mayoría de las empresas tendrán que adaptar sus procesos. Según el mismo resumen, advierte que el sistema empuja hacia procesos genéricos aunque los propios sean una ventaja frente a la competencia.
 
-La crítica a las «mejores prácticas» que trae el producto va por dos lados. Soh y otros señalan que esas prácticas se formaron en otras condiciones culturales, económicas y normativas. Wagner y Newell (2004), en un caso de un paquete para universidades, muestran según su abstract una brecha entre la práctica que el paquete declara y la que usan quienes lo instalan.
+La crítica a las «mejores prácticas» que trae el producto va por dos lados. Según un resumen, Soh y otros señalan que esas prácticas se formaron en otras condiciones culturales, económicas y normativas. Wagner y Newell (2004), en un solo caso, el de un paquete para universidades, muestran según su abstract una brecha entre la práctica que el paquete declara y la que usan quienes lo instalan.
 
 ## Lo que dice la evidencia
 
 La evidencia sobre si conviene adaptar poco o mucho es escasa y de baja calidad. Ningún estudio fuerte prueba ni refuta la regla de no tocar el producto («vainilla»).
 
 - Light (2001), con dos casos, concluye según su abstract que personalizar puede dar valor, pero que cada personalización se evalúa por su efecto en el mantenimiento futuro. La regla que sale es caso por caso.
-- Gattiker y Goodhue (2005), con una encuesta a 111 plantas, encuentran que el ERP encaja mejor donde las unidades dependen mucho unas de otras y se diferencian poco. Según su fe de erratas, las hipótesis sobre personalización no se sostuvieron.
-- Hong, Siau y Kim (2016), con 96 respuestas de pymes manufactureras de Corea, no encuentran que el nivel de personalización influya en el desempeño del ERP, según un resumen. Son muestras chicas, de un país y autoinformadas.
+- Gattiker y Goodhue (2005), con una encuesta a 111 plantas, encuentran según un resumen que el ERP encaja mejor donde las unidades dependen mucho unas de otras y se diferencian poco. Según su fe de erratas, las hipótesis sobre personalización no se sostuvieron.
+- Hong, Siau y Kim (2016), con 96 respuestas de pymes manufactureras de Corea, no encuentran que el nivel de personalización influya en el desempeño del ERP, según un resumen. Es una muestra chica, de un país y autoinformada.
 - Gartner, en una charla de 2025 que cuenta la prensa, nombra entre las causas de fracaso la personalización atada demasiado a los procesos existentes.
-- Panorama Consulting llama «ideal» a personalizar entre 10 y 20 % en su informe de 2017, sin método publicado.
+- Panorama Consulting, una consultora con interés comercial, llama «ideal» a personalizar entre 10 y 20 % en su informe de 2017 (encuesta autoseleccionada), sin método publicado.
 
-En lectura de esta base, el criterio defendible es preguntar por cada brecha si el proceso propio es una ventaja frente a la competencia o una costumbre. Una ventaja justifica adaptar el software y pagar su mantenimiento; una costumbre, no. La pregunta separa los casos que Davenport junta en una sola regla.
+En lectura de esta base, el criterio defendible es preguntar por cada brecha si el proceso propio es una ventaja frente a la competencia o una costumbre. Una ventaja justifica adaptar el software y pagar su mantenimiento; una costumbre, no.
 
 ## Cómo se registra y cómo falla
 
-Cada brecha queda escrita con su resolución, quién la decidió y cuánto cuesta, porque se vuelve a discutir en cada actualización del producto. Una brecha que se resuelve adaptando el software es un cambio de alcance del proyecto y se trata como tal ([cambios de alcance](../../Desarrollo/Encargo/cambios-de-alcance.md)).
+Cada brecha queda escrita con su resolución, quién la decidió y cuánto cuesta, porque se vuelve a discutir en cada actualización del producto. Una brecha que se resuelve adaptando el software es un cambio de alcance del proyecto y se trata como tal ([cambios de alcance](../../Desarrollo/Encargo/cambios-de-alcance.md)). En lectura de esta base, el análisis falla de tres maneras.
 
-- **Copiar el sistema viejo.** Los usuarios piden que el sistema nuevo haga lo que hacía el viejo, y cada pedido se vuelve una personalización.
-- **Forzar el estándar donde el negocio es distinto.** La empresa pierde lo que la diferenciaba o lo sigue haciendo en una planilla al lado del sistema.
-- **Descubrir la brecha tarde.** Una brecha que aparece en las pruebas o en la puesta en marcha ya no se negocia: se paga.
+- Copiar el sistema viejo: los usuarios piden que el sistema nuevo haga lo que hacía el viejo, y cada pedido se vuelve una personalización.
+- Forzar el estándar donde el negocio es distinto: la empresa pierde lo que la diferenciaba o lo sigue haciendo en una planilla al lado del sistema.
+- Descubrir la brecha tarde: una brecha que aparece en las pruebas o en la puesta en marcha ya no se negocia: se paga.

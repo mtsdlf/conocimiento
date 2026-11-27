@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El CRM es la categoría de software de gestión que lleva el registro del cliente y lo que pasa antes del pedido (el interesado, la oportunidad, las actividades del vendedor), y que a veces suma la atención y el marketing. Bajo esa sigla el mercado vende en realidad tres productos distintos.
+  El CRM es la categoría de software de gestión que lleva el registro del cliente y lo que pasa antes del pedido (el interesado, la oportunidad, las actividades del vendedor), y que a veces suma la atención y el marketing. Bajo esa sigla el mercado vende tres productos distintos.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -18,7 +18,7 @@ revisado:
 
 # CRM
 
-El CRM es la categoría de software de gestión que lleva el registro del cliente y lo que pasa antes del pedido (el interesado, la oportunidad, las actividades del vendedor), y que a veces suma la atención y el marketing. Bajo esa sigla el mercado vende en realidad tres productos distintos.
+El CRM es la categoría de software de gestión que lleva el registro del cliente y lo que pasa antes del pedido (el interesado, la oportunidad, las actividades del vendedor), y que a veces suma la atención y el marketing. Bajo esa sigla el mercado vende tres productos distintos.
 
 Es una de las [categorías de producto](categorias-de-producto.md). El dominio que lleva es [Relación con clientes](../../Relacion-con-clientes/relacion-con-clientes.md): el [registro del cliente](../../Relacion-con-clientes/Registro-del-cliente/registro-del-cliente.md), el [seguimiento comercial](../../Relacion-con-clientes/Seguimiento-comercial/seguimiento-comercial.md) y, según el producto, el presupuesto. Qué datos, estados y reglas tiene cada uno de esos objetos está allá; acá, cómo se empaquetan y dónde corta la caja.
 

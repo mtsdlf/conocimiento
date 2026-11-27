@@ -28,7 +28,7 @@ La regla de diseño es que cada entidad tenga un registro y que los demás la re
 
 ## La parte: persona u organización con roles
 
-Fowler lo dice así: «I usually define party as the supertype of person and organization». Cliente, proveedor y empleado no son clases distintas sino roles de una parte. Cómo se modelan esos roles y por qué no conviene la herencia simple está desarrollado en [cuenta y contacto](../../Relacion-con-clientes/Registro-del-cliente/cuenta-y-contacto.md), dentro de Relación con clientes.
+Fowler lo dice así: «I usually define party as the supertype of person and organization». Cliente, proveedor y empleado son roles de una parte y no clases distintas, como lo plantea Fowler según la nota de Relación con clientes. Cómo se modelan esos roles y por qué no conviene la herencia simple está desarrollado en [cuenta y contacto](../../Relacion-con-clientes/Registro-del-cliente/cuenta-y-contacto.md), dentro de Relación con clientes.
 
 La documentación de un ERP de un proveedor grande muestra el patrón en un producto. Su libreta de direcciones global es «a centralized repository for master data» de todas las personas y organizaciones, internas y externas; cada parte tiene uno o más roles (cliente, proveedor, trabajador) y una dirección se cambia «in only one place».
 
@@ -51,9 +51,9 @@ El documento copia algunos datos del maestro al confirmarse (el domicilio de ent
 
 ## Cómo falla el modelo de maestros
 
-- **Duplicados por rol.** El proveedor que también es cliente se carga dos veces con dos códigos. Cómo se encuentran y se unen está en [datos maestros](../../Datos/Gobierno-y-calidad/datos-maestros.md#cómo-se-encuentra-a-la-misma-persona-en-dos-registros).
-- **Un desajuste de datos con el producto.** Soh, Sia y Tay-Yap (2000) clasificaron como desajustes de datos los de formato o de relaciones entre entidades del modelo del paquete; según los extractos del trabajo, arreglarlos obliga a reestructurar tablas del núcleo, que es el cambio más caro. Un producto que no admite que una parte tenga dos roles, o que un artículo tenga dos unidades, cae acá. El estudio es de un hospital de Singapur, y la decisión de cómo resolver cada desajuste es del [análisis de brechas](../Implementacion/analisis-de-brechas.md).
-- **Un cambio sin control en un dato sensible.** El cambio de la cuenta bancaria de un proveedor tiene que volver a pasar por aprobación ([alta de proveedor](../../Compras-y-abastecimiento/Proveedores/alta-de-proveedor.md#el-cambio-de-cuenta-bancaria-vuelve-a-pasar-por-el-alta)). En el software eso se apoya en dos columnas: [permisos](permisos-y-separacion-de-funciones.md) para quién puede cambiarlo y [auditoría](auditoria-de-cambios.md) para el valor viejo y el nuevo.
+- Duplicados por rol. El proveedor que también es cliente se carga dos veces con dos códigos. Cómo se encuentran y se unen está en [datos maestros](../../Datos/Gobierno-y-calidad/datos-maestros.md#cómo-se-encuentra-a-la-misma-persona-en-dos-registros).
+- Un desajuste de datos con el producto. Soh, Sia y Tay-Yap (2000) clasificaron como desajustes de datos los de formato o de relaciones entre entidades del modelo del paquete; según los extractos del trabajo, arreglarlos obliga a reestructurar tablas del núcleo, que es el cambio más caro. Un producto que no admite que una parte tenga dos roles, o que un artículo tenga dos unidades, cae acá. El estudio es de un hospital de Singapur, y la decisión de cómo resolver cada desajuste es del [análisis de brechas](../Implementacion/analisis-de-brechas.md).
+- Un cambio sin control en un dato sensible. El cambio de la cuenta bancaria de un proveedor tiene que volver a pasar por aprobación ([alta de proveedor](../../Compras-y-abastecimiento/Proveedores/alta-de-proveedor.md#el-cambio-de-cuenta-bancaria-vuelve-a-pasar-por-el-alta)). En el software eso se apoya en dos columnas: [permisos](permisos-y-separacion-de-funciones.md) para quién puede cambiarlo y [auditoría](auditoria-de-cambios.md) para el valor viejo y el nuevo.
 
 ## Con qué columnas se cruza
 

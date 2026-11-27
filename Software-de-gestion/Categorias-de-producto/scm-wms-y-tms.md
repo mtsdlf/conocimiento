@@ -25,7 +25,7 @@ Son parte de las [categorías de producto](categorias-de-producto.md) y llevan d
 
 ## Planificación por un lado, ejecución por otro
 
-Gartner, según resúmenes, agrupa el WMS y el TMS bajo la ejecución de la cadena de suministro (*supply chain execution*), como «execution-oriented applications», y evalúa la planificación aparte, en un cuadrante de soluciones de planificación de la cadena (abril de 2025). La sigla SCM se usa para las dos cosas juntas o solo para la planificación, según quién la use.
+Gartner, según resúmenes, agrupa el WMS y el TMS bajo la ejecución de la cadena de suministro (*supply chain execution*), como «execution-oriented applications», y evalúa la planificación aparte, en un cuadrante de soluciones de planificación de la cadena (abril de 2025). La sigla SCM se usa para las dos cosas juntas o solo para la planificación, según quién la use (lectura de esta base).
 
 | Categoría | Qué lleva | Dónde está el saber |
 |---|---|---|
@@ -45,7 +45,7 @@ En la práctica, el WMS llega hasta el bulto cargado en el camión y el TMS empi
 
 El [ERP](erp.md) ya lleva stock y pedidos. En la lectura de esta base, la diferencia es de detalle: el ERP sabe cuánto hay de cada artículo en cada depósito, y el WMS sabe en qué ubicación, en qué estado y qué tarea de preparación lo va a mover. Una empresa con un depósito chico vive con el módulo de stock del ERP; el WMS aparece cuando el costo de caminar y buscar justifica dirigir cada tarea. El mismo razonamiento vale para el TMS frente a la logística que el ERP registra como un despacho con transportista.
 
-Las categorías vecinas también tienen stock: el [MES](mes.md) lleva el inventario de la planta, que ISA-95 trata como una de las operaciones del nivel 3, y la tienda en línea lleva el stock que publica. Cada una cree ser dueña del número.
+Las categorías vecinas también tienen stock: el [MES](mes.md) lleva el inventario de la planta, que ISA-95 trata como una de las operaciones del nivel 3, y la tienda en línea lleva el stock que publica.
 
 ## Quién manda en el stock
 

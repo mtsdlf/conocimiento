@@ -17,13 +17,13 @@ revisado:
 
 Los escalones por tamaño son los niveles en que el mercado ordena el software de gestión según la empresa que lo usa: el facturador, el sistema de una pyme, el ERP de una empresa mediana y el de una grande. Ninguna fuente leída los define con criterios; lo que cambia de un escalón a otro es lectura de esta base sobre las etiquetas del mercado.
 
-Es la otra forma de cortar las [categorías de producto](categorias-de-producto.md): las categorías dicen qué dominios lleva un producto, y el escalón dice para qué tamaño de empresa los lleva. Un [ERP](erp.md) de pyme y uno de multinacional comparten la sigla y casi nada más.
+Es la otra forma de cortar las [categorías de producto](categorias-de-producto.md): las categorías dicen qué dominios lleva un producto, y el escalón dice para qué tamaño de empresa los lleva. Un [ERP](erp.md) de pyme y uno de multinacional comparten la sigla y poco más.
 
 ## Las etiquetas del mercado
 
-El mercado argentino usa cuatro etiquetas que se superponen: facturador, sistema contable, sistema de gestión comercial y ERP. Están descritas, con lo que lleva cada una y la advertencia de que los productos reales las cruzan, en [sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md#facturador-contable-gestión-y-erp). Esas etiquetas valen para cualquier rubro, no solo para el comercio, y arriba del ERP de pyme el mercado distingue además el de empresa mediana y el de empresa grande.
+El mercado argentino usa cuatro etiquetas que se superponen: facturador, sistema contable, sistema de gestión comercial y ERP. Están descritas, con lo que lleva cada una y la advertencia de que los productos reales las cruzan, en [sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md#facturador-contable-gestión-y-erp). En la lectura de esta base, esas etiquetas valen para cualquier rubro, no solo para el comercio, y arriba del ERP de pyme el mercado distingue además el de empresa mediana y el de empresa grande.
 
-Los analistas hablan de *tiers* (escalón 1, 2 y 3), pero no se pudo leer ninguna definición. Un estudio de 2010 de una consultora de implantación, con 1.600 organizaciones, reportó retrasos en el 30 %, 18 % y 5 % de los proyectos de los escalones I, II y III, y sobrecostos en el 53 %, 33 % y 59 %. El texto leído no dice qué es cada escalón, así que los números no se pueden interpretar; la consultora, además, vende evaluaciones de proyectos.
+Gartner habría usado *tiers* (escalón 1, 2 y 3) en sus mercados de ERP, pero no se pudo leer ni confirmar ninguna definición. Un estudio de 2010 de una consultora de implantación, con 1.600 organizaciones, reportó retrasos en el 30 %, 18 % y 5 % de los proyectos de los escalones I, II y III, y sobrecostos en el 53 %, 33 % y 59 %. El texto leído no dice qué es cada escalón, así que los números no se pueden interpretar; la consultora, además, vende selección e implantación de ERP.
 
 ## Qué cambia de un escalón a otro
 
@@ -38,7 +38,7 @@ La tabla es lectura de esta base, armada con las etiquetas del mercado y con las
 | Qué se adapta | Nada | Parámetros | Parámetros y extensiones | Extensiones y desarrollo propio |
 | Cómo se cobra | Por comprobante o por mes | Por usuario o por plan | Por usuario y por módulo | Contrato a medida |
 
-Dos lecturas de la tabla. La primera: lo que más cambia al subir no son los dominios sino la estructura (varias empresas, varias monedas, varios países) y quién implanta. La segunda: cada escalón deja de alcanzar por un eje distinto; una pyme con una sola empresa puede necesitar producción antes que multimoneda.
+Dos lecturas de la tabla. La primera: al subir cambian sobre todo la estructura (varias empresas, varias monedas, varios países) y quién implanta; los dominios cambian menos. La segunda: cada escalón deja de alcanzar por un eje distinto; una pyme con una sola empresa puede necesitar producción antes que multimoneda.
 
 ## Por qué muchas pymes no suben
 

@@ -41,9 +41,9 @@ Cada cifra tiene una sola fuente, pero es la primaria: el informe del propio emi
 
 El soporte deja margen alto porque la versión nueva se escribe una vez y se cobra a toda la base. La lectura de esta base es que eso explica tres conductas del proveedor:
 
-- **Retener vale más que vender.** Si casi todos renuevan, cada cliente nuevo es una renta de años. Es el mecanismo de «barato para entrar, caro para quedarse» de los [costos de cambio](../../Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md), que en un software de gestión son altos porque el cliente migró datos, adaptó procesos y entrenó gente ([migración de datos](../Implementacion/migracion-de-datos.md)).
-- **Pasar la base a la nube es el plan.** La caída de licencias y el salto de la nube en la tabla muestran a un proveedor que convierte su propia base instalada. El cliente que pasa de soporte a suscripción sigue pagando todos los años, ahora por más cosas.
-- **Los servicios no son el negocio.** Dejan un margen de 23,6 % en el proveedor de la tabla, positivo pero lejos del 90 % de licencias y soporte. Por eso los grandes proveedores dejan buena parte de la implantación a su [canal de partners](canal-de-partners.md).
+- Retener vale más que vender. Si casi todos renuevan, cada cliente nuevo es una renta de años. Es el mecanismo de «barato para entrar, caro para quedarse» de los [costos de cambio](../../Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md), que en un software de gestión son altos porque el cliente migró datos, adaptó procesos y entrenó gente ([migración de datos](../Implementacion/migracion-de-datos.md)).
+- Pasar la base a la nube es el plan. La caída de licencias y el salto de la nube en la tabla muestran a un proveedor que convierte su propia base instalada. El cliente que pasa de soporte a suscripción sigue pagando todos los años, ahora por más cosas.
+- Los servicios no son el negocio. Dejan un margen de 23,6 % en el proveedor de la tabla, positivo pero lejos del 90 % de licencias y soporte. Por eso los grandes proveedores dejan buena parte de la implantación a su [canal de partners](canal-de-partners.md).
 
 El caso de la tabla es de un proveedor con décadas de base instalada. Un proveedor nuevo no tiene esa base: vive de la licencia o la suscripción del año y paga el costo de conseguir cada cliente, como explica [SaaS](../../Emprender/Modelo-de-negocio/saas.md#cómo-crece-el-costo-de-adquisición-y-la-retención). El patrón no se traslada sin más a uno chico.
 

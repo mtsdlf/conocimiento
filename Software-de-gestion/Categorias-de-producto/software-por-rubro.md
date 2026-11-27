@@ -24,7 +24,7 @@ Es un corte que atraviesa las [categorías de producto](categorias-de-producto.m
 
 La distinción más útil sale del corte entre lo [administrativo y lo operativo](categorias-de-producto.md#administrativo-frente-a-operativo). En la lectura de esta base, la contabilidad, los impuestos, la tesorería, las compras y la nómina funcionan casi igual en una fábrica, una clínica y una consultora: son horizontales, y lo que cambia es el país. Lo operativo es lo que depende del negocio, y ahí aparece el rubro: la orden de producción de una fábrica, la historia clínica de una clínica, la obra de una constructora, la hora imputada de una consultora.
 
-Los analistas cortan el ERP en dos rubros gruesos. Gartner evalúa desde octubre de 2025, según resúmenes, un ERP para empresas centradas en el producto y otro para empresas centradas en el servicio. Es una partición vertical de primer nivel: la mitad administrativa es la misma, la operativa no.
+Los analistas cortan el ERP en dos rubros gruesos. Según resúmenes, Gartner publicó en octubre de 2025 un cuadrante de ERP para empresas centradas en el producto y otro para empresas centradas en el servicio. En la lectura de esta base, es una partición vertical de primer nivel: la mitad administrativa es la misma y la operativa cambia.
 
 Varias categorías de este tema son, en los hechos, verticales de un rubro amplio (lectura de esta base):
 
@@ -40,8 +40,8 @@ Varias categorías de este tema son, en los hechos, verticales de un rubro ampli
 
 Hay dos caminos, y los dos se ven en el mercado (lectura de esta base, sin fuente que los mida):
 
-1. **Un producto entero para el rubro.** Trae el núcleo administrativo y la parte operativa propia de la industria, con su vocabulario. Gana en ajuste y pierde en tamaño de mercado.
-2. **Un horizontal con una capa de rubro.** Un ERP general al que un partner o el propio proveedor le suma módulos de la industria. Es el mismo debate de [suite o lo mejor de cada clase](categorias-de-producto.md#suite-o-lo-mejor-de-cada-clase) dentro de una sola empresa: Light y otros (2000) argumentan, según su abstract, que los paquetes de un solo proveedor «often fail to fit specific organizational and industry needs».
+1. Un producto entero para el rubro. Trae el núcleo administrativo y la parte operativa propia de la industria, con su vocabulario. Gana en ajuste y pierde en tamaño de mercado.
+2. Un horizontal con una capa de rubro. Un ERP general al que un partner o el propio proveedor le suma módulos de la industria. Es el mismo debate de [suite o lo mejor de cada clase](categorias-de-producto.md#suite-o-lo-mejor-de-cada-clase) dentro de una sola empresa: Light y otros (2000) argumentan, según su abstract, que los paquetes de un solo proveedor «often fail to fit specific organizational and industry needs».
 
 En los dos casos, la frontera entre lo horizontal y lo del rubro es una integración, y la regla es la misma que entre categorías: decidir qué sistema manda en cada dato ([integración y migración](../Columnas-tecnicas/integracion-y-migracion.md)).
 

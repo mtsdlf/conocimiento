@@ -42,7 +42,7 @@ Las reglas en sí viven en sus temas: quién factura y con qué letra, en [factu
 
 ## El comprobante con CAE como documento
 
-El comprobante electrónico es un [documento con estados](Columnas-tecnicas/documento-y-estados.md) que el sistema no confirma solo: lo confirma ARCA al darle el CAE. Sin CAE no tiene efectos frente a terceros. Lo general del [comprobante fiscal](../Impuestos/Cumplimiento/comprobante-fiscal.md) (numeración sin huecos, corrección por nota de crédito) vale igual; lo propio de ARCA, según el manual del WSFEv1 v4.8, es esto:
+El comprobante electrónico es un [documento con estados](Columnas-tecnicas/documento-y-estados.md) que el sistema no confirma solo: lo confirma ARCA al darle el CAE. Sin CAE no tiene efectos frente a terceros, según la nota de factura electrónica de ARCA, que cita el art. 12 de la RG 4291. Lo general del [comprobante fiscal](../Impuestos/Cumplimiento/comprobante-fiscal.md) (numeración sin huecos, corrección por nota de crédito) vale igual; lo propio de ARCA, según el manual del WSFEv1 v4.8, es esto:
 
 - **La numeración es por tipo de comprobante y punto de venta.** El ejemplo del manual numera «Facturas A, punto de venta 1». Que la correlatividad se lleve por ese par es inferencia de esta base sobre el ejemplo y sobre el método FECompUltimoAutorizado, que pide los dos datos.
 - **Los puntos de venta se habilitan por modalidad y no se comparten**: uno para web services, otro para controlador fiscal, otro para exportación, otro para CAEA (puntos de venta de ARCA).
@@ -73,7 +73,7 @@ Si no se puede usar CAEA, ARCA ordena seguir con el controlador fiscal, «Compro
 Varias reglas son de [fechas y vigencias](Columnas-tecnicas/fechas-vigencias-y-cierre.md):
 
 - La fecha del comprobante admite 5 días antes o después de la generación para productos, sin salir del mes, y 10 días para servicios (manual v4.8, campo CbteFch).
-- El ticket de acceso dura «alrededor de 12 horas», y pedir otro antes de tiempo falla: el manual del WSAA pide reusarlo hasta que venza y sincronizar el reloj por NTP, porque un reloj corrido hace rechazar el ticket.
+- El ticket de acceso dura «alrededor de 12 horas», y pedir otro para el mismo servicio dentro de un lapso preventivo falla: el manual del WSAA pide reusarlo hasta que venza y sincronizar el reloj por NTP, porque un reloj corrido hace rechazar el ticket.
 - Las quincenas del CAEA y su rendición al octavo día, de la tabla de arriba.
 - Las alícuotas de Ingresos Brutos de cada cliente o proveedor tienen vigencia: cambian con cada padrón (sección siguiente).
 - Los manuales de ARCA fechan cada versión con su entrada en vigencia (v4.6 el 01/08/2026, v4.8 el 01/12/2026): el sistema tiene que estar listo para el campo nuevo antes de esa fecha.
@@ -90,7 +90,7 @@ Todo esto es [integración](Columnas-tecnicas/integracion-y-migracion.md) con un
 
 **Controlador fiscal.** Es un equipo homologado por ARCA, provisto solo por empresas autorizadas (RG 3561, arts. 1 y 2); la RG 5614 lo repite en sus considerandos citando a la primera, así que cuenta como una sola fuente. El sistema de gestión le manda la venta y el equipo imprime. Esa conexión va por el protocolo de cada fabricante y ninguna norma leída la regula.
 
-**Padrones de percepciones y retenciones de Ingresos Brutos.** Cada provincia asigna a cada contribuyente una alícuota y la publica en un padrón ([Ingresos Brutos](../Impuestos/Impuestos-al-consumo/ingresos-brutos.md)). Según la RN 38/2025 de ARBA, esas alícuotas se publican en el sitio de ARBA o en el de la Comisión Arbitral «para su consulta por parte de los contribuyentes y los agentes de recaudación», y ARBA las puede reasignar a pedido del contribuyente. Santa Fe publica el suyo «mensualmente», según un resumen de KPMG. El sistema de un [agente de recaudación](../Impuestos/Recaudacion-en-la-fuente/agente-de-recaudacion.md) baja el padrón, guarda la alícuota de cada sujeto con su vigencia y la aplica al facturar o al pagar (inferencia de esta base). Para ARBA hay una sola fuente primaria leída.
+**Padrones de percepciones y retenciones de Ingresos Brutos.** Cada provincia asigna a cada contribuyente una alícuota y la publica en un padrón ([Ingresos Brutos](../Impuestos/Impuestos-al-consumo/ingresos-brutos.md)). Según la RN 38/2025 de ARBA, esas alícuotas se publican en el sitio de ARBA o en el de la Comisión Arbitral «para su consulta por parte de los contribuyentes y los agentes de recaudación», y ARBA puede asignarlas por solicitud del contribuyente. Santa Fe publica el suyo «mensualmente», según un resumen de KPMG. El sistema de un [agente de recaudación](../Impuestos/Recaudacion-en-la-fuente/agente-de-recaudacion.md) baja el padrón, guarda la alícuota de cada sujeto con su vigencia y la aplica al facturar o al pagar (inferencia de esta base). Para ARBA hay una sola fuente primaria leída.
 
 ## Libros y regímenes de información como reportes
 

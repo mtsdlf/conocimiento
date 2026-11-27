@@ -26,7 +26,7 @@ Casi todo lo que una persona hace en un software de gestión es cargar, confirma
 
 ## Borrador, confirmado y anulado
 
-El framework de un ERP de código abierto lo resuelve con tres estados, según su documentación: borrador, confirmado y anulado. Un documento confirmado o anulado no vuelve a borrador. Para corregirlo se anula y se crea una enmienda, un borrador nuevo que apunta al anulado.
+El framework de un ERP de código abierto lo resuelve con tres estados, según el resumen de su documentación: borrador, confirmado y anulado. Un documento confirmado o anulado no vuelve a borrador. Para corregirlo se anula y se crea una enmienda, un borrador nuevo que apunta al anulado.
 
 Fowler describe la misma frontera desde la contabilidad. Un asiento puede ser «mutable until they are booked», y lo contable nace de un hecho del negocio: «When a Domain Event is processed, it can produce a set of Accounting Transactions». En el vocabulario de este tema, el hecho del negocio es la confirmación del documento, y lo que produce son movimientos.
 
@@ -56,17 +56,17 @@ La documentación del ERP de código abierto dice que «Masters and transactions
 
 Ninguno de los dos textos dice «sin huecos». Ese requisito sale de la práctica y del derecho de cada país, y la nota de [comprobante fiscal](../../Impuestos/Cumplimiento/comprobante-fiscal.md#por-qué-la-numeración-no-puede-tener-huecos) lo marca como inferencia. Lo que exige la norma argentina a un sistema para numerar y emitir comprobantes está en [software de gestión en la Argentina](../software-de-gestion-en-argentina.md).
 
-La decisión de diseño es en qué estado se asigna el número. Si se asigna al confirmar, un borrador descartado no deja hueco; si se asigna al crear el borrador, cada descarte deja un número sin documento. Un número asignado no se reusa: el documento anulado conserva el suyo, como pide la regla de los formularios prenumerados en [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md#numeración-correlativa-y-formularios-prenumerados). Las dos cosas son lectura de esta base sobre las fuentes.
+La decisión de diseño es en qué estado se asigna el número. Si se asigna al confirmar, un borrador descartado no deja hueco; si se asigna al crear el borrador, cada descarte deja un número sin documento. Un número asignado no se reusa: el documento anulado conserva el suyo. La nota de [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md#numeración-correlativa-y-formularios-prenumerados) lo da como inferencia a partir de los formularios prenumerados de OpenStax, y no como cita. Las dos cosas son lectura de esta base sobre las fuentes.
 
 ## Las aprobaciones
 
 Una aprobación es un estado más entre borrador y confirmado, que solo puede pasar alguien con cierta autoridad. La documentación del ERP de un proveedor grande define el flujo de trabajo como lo que dice «who must complete a task, make a decision, or approve a document», con umbrales por importe. Qué tramos y quién aprueba cada uno lo define la empresa en su matriz de [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md); un ejemplo de dominio es la aprobación de un descuento en [precio y descuentos](../../Relacion-con-clientes/Presupuesto/precio-y-descuentos.md).
 
-Para el software, la aprobación tiene que quedar registrada con quién, cuándo y sobre qué versión del documento, como pide la nota de autorizaciones. Quién puede aprobar es de [permisos y separación de funciones](permisos-y-separacion-de-funciones.md).
+Para el software, la aprobación tiene que quedar registrada con quién, cuándo y sobre qué versión del documento, según la lectura propia que hace la nota de autorizaciones. Quién puede aprobar es de [permisos y separación de funciones](permisos-y-separacion-de-funciones.md).
 
 ## Cómo falla un documento
 
-- **Un solo campo de estado para todo.** Mezclar el ciclo con el avance hace que el pedido diga «entregado» cuando faltan renglones.
-- **Editar lo confirmado.** El saldo puede quedar igual, pero se pierde qué se registró, cuándo y quién lo cambió.
-- **Aprobar una versión y confirmar otra.** Si el documento se puede cambiar después de aprobado sin volver a aprobación, la aprobación no controla nada (lectura de esta base).
-- **Confirmar con fecha de un período cerrado.** Lo impide la fecha de bloqueo de [fechas, vigencias y cierre](fechas-vigencias-y-cierre.md).
+- Un solo campo de estado para todo. Mezclar el ciclo con el avance hace que el pedido diga «entregado» cuando faltan renglones.
+- Editar lo confirmado. El saldo puede quedar igual, pero se pierde qué se registró, cuándo y quién lo cambió.
+- Aprobar una versión y confirmar otra. Si el documento se puede cambiar después de aprobado sin volver a aprobación, la aprobación no controla nada (lectura de esta base).
+- Confirmar con fecha de un período cerrado. Lo impide la fecha de bloqueo de [fechas, vigencias y cierre](fechas-vigencias-y-cierre.md).

@@ -34,7 +34,7 @@ En un software de gestión eso se ve en tres registros que conviven:
 | Registro | Qué suma | Qué descriptor lo clasifica | Dominio |
 |---|---|---|---|
 | Contable | importes en debe y haber | la cuenta del [plan de cuentas](../../Contabilidad/Registro/plan-de-cuentas.md) | Contabilidad |
-| De stock | cantidades que entran y salen | el artículo, el depósito y el lote | [Existencias](../../Inventario-y-depositos/Existencias/existencias.md#la-cantidad-es-un-saldo-de-movimientos) |
+| De stock | cantidades que entran y salen | el artículo, el depósito y el lote (lectura de esta base) | [Existencias](../../Inventario-y-depositos/Existencias/existencias.md#la-cantidad-es-un-saldo-de-movimientos) |
 | De cuenta corriente | lo facturado, cobrado y pagado por cada parte | el cliente o el proveedor | [cuentas corrientes](../../Contabilidad/Registro/cuentas-corrientes.md) |
 
 Las horas de un proyecto siguen la misma forma: la [hoja de horas](../../Servicios-profesionales-y-proyectos/Registro-de-horas/hoja-de-horas.md#corregir-una-hora-aprobada-o-facturada) aprobada no se edita, se revierte con un movimiento de signo contrario.
@@ -50,10 +50,10 @@ La documentación del ERP de código abierto pone la regla de corrección por es
 ## Partida doble o REA
 
 > [!IMPORTANT]
-> **Dos modelos para lo mismo.** Casi todos los productos guardan asientos de partida doble como modelo central del registro contable. El modelo REA (recursos, eventos y agentes), que William McCarthy publicó en 1982, propone otra cosa: guardar los eventos económicos y sus relaciones, y no las cuentas.
+> Hay dos modelos para lo mismo. Los productos revisados guardan asientos de partida doble como modelo central del registro contable (ver abajo el informe técnico). El modelo REA (recursos, eventos y agentes), que William McCarthy publicó en 1982, propone otra cosa: guardar los eventos económicos y sus relaciones, y no las cuentas.
 >
-> - **REA, según sus autores.** McCarthy, Geerts y Gal (2019) escriben que «REA does not use accounts as modeling primitives, nor does it follow debit-credit posting procedures»: arma una base enlazada donde las filas de distintas tablas capturan el significado de cada transacción. Cada intercambio es una dualidad entre lo que se entrega y lo que se recibe. En la variante que llaman ERP de cadena de valor «no heredado», la partida doble queda relegada «to a database view» y alcanza con «a minimal general ledger». De los ERP heredados dicen que conservan «bloated charts of accounts with long faceted account codes».
-> - **La práctica de los productos.** Según el resumen de un informe técnico de la IT-Universitetet de Copenhague (2006), los modelos como REA no se adoptaron en los ERP, que siguen usando la partida doble como modelo contable que alimenta a las demás aplicaciones. Nikitkov (2020) dice que REA entró en normas ISO y sirvió de base a «at least one cloud-based enterprise system», pero que no recibió atención suficiente de académicos ni de practicantes.
+> - REA, según sus autores. McCarthy, Geerts y Gal (2019) escriben que «REA does not use accounts as modeling primitives, nor does it follow debit-credit posting procedures»: arma una base enlazada donde las filas de distintas tablas capturan el significado de cada transacción. Cada intercambio es una dualidad entre lo que se entrega y lo que se recibe. En la variante que llaman ERP de cadena de valor «no heredado», la partida doble queda relegada «to a database view» y alcanza con «a minimal general ledger». De los ERP heredados dicen que conservan «bloated charts of accounts with long faceted account codes».
+> - La práctica de los productos. Según el resumen de un informe técnico de la IT-Universitetet de Copenhague (2006), los modelos como REA no se adoptaron en los ERP, que siguen usando la partida doble como modelo contable que alimenta a las demás aplicaciones. Nikitkov (2020) dice que REA entró en normas ISO y sirvió de base a «at least one cloud-based enterprise system», pero que no recibió atención suficiente de académicos ni de practicantes.
 >
 > Lo que dicen los autores de REA es testimonio de parte: alcanza para decir que existe una implementación, no que funcione mejor. Que el mayor sea una vista derivada vale para la variante no heredada, no como regla general.
 
@@ -67,9 +67,9 @@ Lo que pide al diseño, según esa misma nota: que cada movimiento pueda llevar 
 
 ## Cómo falla el registro
 
-- **Movimientos que se editan.** Un ajuste que pisa un saldo en lugar de agregar una fila borra la causa de la diferencia.
-- **Reglas personalizadas que no sobreviven a la versión nueva.** Dittrich y Vaucouleur (2008) dan este ejemplo textual: «the postings to the general ledger are often modified to mirror specific business rules», y en cada actualización cada modificación hay que identificarla, analizarla y volver a aplicarla. El costo de cada manera de adaptar está en [configurar o personalizar](configurar-o-personalizar.md).
-- **Un movimiento con fecha pasada.** La documentación del ERP de código abierto advierte que un movimiento de stock con fecha anterior revaloriza todo lo posterior. La fecha del hecho y el cierre son de [fechas, vigencias y cierre](fechas-vigencias-y-cierre.md).
-- **Dimensiones opcionales.** Un gasto sin centro de costo no entra en ningún presupuesto, y el reporte por dimensión no cuadra con el total ([reportes operativos y legales](reportes-operativos-y-legales.md)).
+- Movimientos que se editan. Un ajuste que pisa un saldo en lugar de agregar una fila borra la causa de la diferencia.
+- Reglas personalizadas que no sobreviven a la versión nueva. Dittrich y Vaucouleur (2008) dan este ejemplo textual: «the postings to the general ledger are often modified to mirror specific business rules», y señalan que en cada actualización «each modification has to be identified, analysed and re-applied or redesigned». El costo de cada manera de adaptar está en [configurar o personalizar](configurar-o-personalizar.md).
+- Un movimiento con fecha pasada. La documentación del ERP de código abierto advierte que un movimiento de stock con fecha anterior revaloriza todo lo posterior. La fecha del hecho y el cierre son de [fechas, vigencias y cierre](fechas-vigencias-y-cierre.md).
+- Dimensiones opcionales. Un gasto sin centro de costo no entra en ningún presupuesto, y el reporte por dimensión no cuadra con el total ([reportes operativos y legales](reportes-operativos-y-legales.md)).
 
 Los movimientos salen del [documento](documento-y-estados.md) que los produce y referencian los [datos maestros](datos-maestros-y-partes.md): sin esas dos columnas, una fila de movimiento no dice qué pasó ni a quién.

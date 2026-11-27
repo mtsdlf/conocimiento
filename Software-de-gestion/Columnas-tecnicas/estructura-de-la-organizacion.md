@@ -21,7 +21,7 @@ Un grupo con dos sociedades, tres sucursales y cuatro depósitos necesita que el
 
 ## Una jerarquía o varias
 
-Fowler define la jerarquía de la organización como lo que «Represents the hierarchy of organizational units within a business»: la empresa, sus divisiones, sus sucursales. Cuando hay más de una jerarquía a la vez propone otro patrón, *Accountability*, que modela cada relación entre unidades con su tipo. Una misma sucursal puede depender de una sociedad en la jerarquía legal, de una gerencia regional en la de gestión y de una zona en la comercial.
+Fowler define la jerarquía de la organización como lo que «Represents the hierarchy of organizational units within a business»: la empresa, sus divisiones, sus sucursales. Cuando hay más de una jerarquía a la vez propone otro patrón, *Accountability*, que modela cada relación entre unidades con su tipo. Una misma sucursal puede depender de una sociedad en la jerarquía legal, de una gerencia regional en la de gestión y de una zona en la comercial (ejemplo de esta base).
 
 Los dominios ya traen sus propias jerarquías. Personal y nómina tiene la de [puestos y áreas](../../Administracion-de-personal-y-nomina/Legajo/puesto-y-estructura.md); Activos y mantenimiento, la [jerarquía de activos](../../Activos-y-mantenimiento/Registro-de-activos/jerarquia-de-activos.md) de planta, sistema y equipo; Contabilidad, los [centros de costo](../../Contabilidad/Contabilidad-de-gestion/centros-de-costo.md). En lectura de esta base, la columna no las reemplaza: da el esqueleto (empresa legal, sucursal, depósito) del que cuelgan las demás.
 
@@ -51,8 +51,8 @@ Confundirlas tiene un costo en los dos sentidos. Si cada empresa del grupo se da
 
 ## Cómo falla la estructura
 
-- **Empezar con una sola empresa fija.** Agregar la segunda obliga a poner la empresa en cada tabla y en cada consulta, como pasa con `tenant_id` en multi-tenancy (lectura de esta base).
-- **Una sociedad modelada como dimensión.** Los reportes por dimensión cuadran, pero la sociedad no tiene libros ni declaración propia.
-- **Documentos que mezclan empresas.** Sin el chequeo de coherencia, una factura de la empresa A descuenta stock del depósito de la B.
+- Empezar con una sola empresa fija. Agregar la segunda obliga a poner la empresa en cada tabla y en cada consulta, como pasa con `tenant_id` en multi-tenancy (lectura de esta base).
+- Una sociedad modelada como dimensión. Los reportes por dimensión cuadran, pero la sociedad no tiene libros ni declaración propia.
+- Documentos que mezclan empresas. Sin el chequeo de coherencia, una factura de la empresa A descuenta stock del depósito de la B.
 
 Los [permisos](permisos-y-separacion-de-funciones.md) usan la estructura para restringir qué registros ve cada usuario, y la [integración](integracion-y-migracion.md) tiene que saber a qué empresa pertenece cada dato que entra.

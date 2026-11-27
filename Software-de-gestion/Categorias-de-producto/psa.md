@@ -18,7 +18,7 @@ revisado:
 
 El PSA (automatización de servicios profesionales) es la categoría de software de gestión de las firmas que venden horas de gente por proyecto: lleva el proyecto del cliente, la asignación de personas, el registro de horas y gastos, la facturación del proyecto y su rentabilidad. Se pisa con el ERP para empresas de servicios.
 
-Es una de las [categorías de producto](categorias-de-producto.md) y lleva el dominio de [Servicios profesionales y proyectos](../../Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md). De dónde viene el nombre (principios de los años 2000, con el libro de Melik y Melik de 2002) está en sus [fundamentos](../../Servicios-profesionales-y-proyectos/Fundamentos/fundamentos-de-servicios-profesionales.md#el-psa-como-categoría-de-software).
+Es una de las [categorías de producto](categorias-de-producto.md) y lleva el dominio de [Servicios profesionales y proyectos](../../Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md). Qué se sabe del origen del nombre, que Wikipedia respalda con referencias de 2001 y 2002 (Hofferberth; Melik y Melik), está en sus [fundamentos](../../Servicios-profesionales-y-proyectos/Fundamentos/fundamentos-de-servicios-profesionales.md#el-psa-como-categoría-de-software).
 
 ## Qué funciones agrupa un PSA
 
@@ -32,14 +32,14 @@ Wikipedia, que cita a Melik y Melik (2002), lo define como software para que pro
 | Facturación | [Facturación del proyecto](../../Servicios-profesionales-y-proyectos/Facturacion-del-proyecto/facturacion-del-proyecto.md) |
 | Reportes de utilización y margen | [Rentabilidad de la firma](../../Servicios-profesionales-y-proyectos/Rentabilidad-de-la-firma/rentabilidad-de-la-firma.md) |
 
-Gartner no publica un cuadrante de PSA. Publica una guía de mercado de plataformas de PSA (15 de octubre de 2025) con proveedores representativos y sin ranking, y, según resúmenes, una lista de funciones obligatorias que incluye los reportes y el análisis de actividad y rentabilidad, y la gestión de contratos. Un sitio de comparación afirma que existe un cuadrante, pero otras dos fuentes lo contradicen.
+Según resúmenes, Gartner no publica un cuadrante de PSA. Publica una guía de mercado de plataformas de PSA (15 de octubre de 2025) con proveedores representativos y sin ranking, y una lista de funciones obligatorias que incluye los reportes y el análisis de actividad y rentabilidad, y la gestión de contratos. Un sitio de comparación afirma que existe un cuadrante, pero otras dos fuentes lo contradicen.
 
 ## Dónde termina el PSA
 
-- **Con el ERP para empresas de servicios.** Gartner evalúa un ERP «para empresas centradas en el servicio» desde octubre de 2025 ([ERP](erp.md#un-erp-para-empresas-de-producto-y-otro-para-empresas-de-servicios)). La mitad operativa de ese ERP es la misma que la del PSA. En la lectura de esta base, la diferencia es de dónde se parte: el PSA nace del proyecto y suma la factura; el ERP nace de la contabilidad y suma el proyecto.
-- **Con el [CRM](crm.md).** La oportunidad ganada abre el proyecto, y las oportunidades abiertas son la demanda futura de personas que mira la asignación. Un PSA completo trae su propio CRM.
-- **Con el [HCM](hcm.md).** La hora trabajada sirve para pagar y para facturar. Cuántas horas trabajó una persona es de la nómina; a qué proyecto se imputan y cuáles se cobran, del PSA.
-- **Con la gestión de proyectos.** El método de encuadrar, planificar y seguir un proyecto es de [Gestión de proyectos](../../Gestion-de-proyectos/gestion-de-proyectos.md). El PSA registra lo que de eso tiene precio y cliente; las herramientas de tareas y planificación sin facturación no son PSA.
+- Con el ERP para empresas de servicios. Gartner evalúa un ERP para empresas centradas en el servicio, en un cuadrante de octubre de 2025 ([ERP](erp.md#un-erp-para-empresas-de-producto-y-otro-para-empresas-de-servicios)). La mitad operativa de ese ERP se pisa con la del PSA. En la lectura de esta base, la diferencia es de dónde se parte: el PSA nace del proyecto y suma la factura; el ERP nace de la contabilidad y suma el proyecto.
+- Con el [CRM](crm.md). La oportunidad ganada abre el proyecto, y las oportunidades abiertas son la demanda futura de personas que mira la asignación. Un PSA completo trae su propio CRM.
+- Con el [HCM](hcm.md). La hora trabajada sirve para pagar y para facturar. Cuántas horas trabajó una persona es de la nómina; a qué proyecto se imputan y cuáles se cobran, del PSA.
+- Con la gestión de proyectos. El método de encuadrar, planificar y seguir un proyecto es de [Gestión de proyectos](../../Gestion-de-proyectos/gestion-de-proyectos.md). El PSA registra lo que de eso tiene precio y cliente; las herramientas de tareas y planificación sin facturación no son PSA (lectura de esta base).
 
 ## Cómo se integra con el ERP
 

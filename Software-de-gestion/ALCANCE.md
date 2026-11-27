@@ -57,7 +57,7 @@ Este tema es dueño del **producto** (cómo se empaqueta el saber de un dominio 
 
 ```
 Software-de-gestion/
-  software-de-gestion.md                 el todo: qué es, las cinco verticales y cómo se conectan; qué leer según lo que estés haciendo
+  software-de-gestion.md                 el todo: qué es, las cuatro verticales y cómo se conectan; qué leer según lo que estés haciendo
   software-de-gestion-en-argentina.md    lo que la normativa argentina le exige a un sistema: comprobante electrónico, controlador fiscal, libros y registros digitales, padrones y regímenes de información
   Fundamentos/
     fundamentos-de-software-de-gestion.md  (entrada) de dónde viene, las posiciones en disputa y cómo leer la evidencia
@@ -111,7 +111,7 @@ Software-de-gestion/
 
 ## Supuestos
 
-- Las cinco verticales y sus componentes vienen decididos en #100; el árbol de adentro (nombres de archivo, qué va en cada nota, dónde van las notas de Argentina) lo propone esta sesión sin esperar respuesta, por indicación de quien la abrió, y queda para revisar en el PR.
+- Las cinco carpetas de #100 y sus componentes vienen decididos en ese issue; Fundamentos va como carpeta transversal y no como vertical, como pide el método de `documentar`, así que la entrada habla de cuatro verticales; el árbol de adentro (nombres de archivo, qué va en cada nota, dónde van las notas de Argentina) lo propone esta sesión sin esperar respuesta, por indicación de quien la abrió, y queda para revisar en el PR.
 - No se nombran productos ni proveedores en ninguna nota. #100 da lugar a una vertical de mercado «sin análisis de competidores», y la ficha con los sistemas argentinos, sus precios y sus reseñas ya existe en Comercio electrónico: la nota de mercado argentino la enlaza en lugar de repetirla.
 - Lo de la Argentina va en dos notas: una en la raíz del tema, con lo que la norma le exige a un sistema (cruza varias columnas técnicas), y otra en Mercado y economía. Las dos enlazan a Impuestos, Contabilidad y Administración de personal en lugar de repetir la norma.
 - Reportes queda como columna angosta (decisión de #100). BI no tiene nota de categoría: enlaza a Datos.

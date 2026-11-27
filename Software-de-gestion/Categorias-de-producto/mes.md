@@ -22,13 +22,13 @@ revisado:
 
 El MES (sistema de ejecución de manufactura) es la categoría de software de gestión que supervisa, sigue y sincroniza en la planta los pasos que convierten materiales en producto terminado: despacha las órdenes, registra lo consumido y lo producido y deja la trazabilidad de cada lote. Según ISA-95 vive en el nivel 3, debajo del ERP.
 
-Es una de las [categorías de producto](categorias-de-producto.md) y lleva la [ejecución en planta](../../Produccion/Ejecucion-en-planta/ejecucion-en-planta.md) y la [calidad](../../Produccion/Calidad/calidad.md) del tema Producción. Es la única categoría con una norma que dice dónde termina: ISA-95, también IEC 62264.
+Es una de las [categorías de producto](categorias-de-producto.md) y lleva la [ejecución en planta](../../Produccion/Ejecucion-en-planta/ejecucion-en-planta.md) y la [calidad](../../Produccion/Calidad/calidad.md) del tema Producción. Es la categoría cuya frontera con el ERP fija una norma: ISA-95, también IEC 62264.
 
 ## La frontera con el ERP la pone ISA-95
 
 ISA-95 ordena la empresa en niveles; según la página de ISA, el nivel 3 «describes manufacturing execution systems (MES)», el 4 «all the activities related to running a business», y la norma «primarily deals with the interface between levels 3 and 4». Los cinco niveles, las ocho partes y el vocabulario de 2013 están en [marcos de la producción](../../Produccion/Fundamentos/marcos-de-la-produccion.md#isa-95-cinco-niveles-y-la-frontera-entre-erp-y-mes). Qué baja del nivel 4 al 3 (la orden, la versión de la lista y la ruta) y qué sube (lo producido, lo consumido, las horas) está en la tabla de [ejecución en planta](../../Produccion/Ejecucion-en-planta/ejecucion-en-planta.md#la-frontera-entre-el-erp-y-el-mes).
 
-Lo que agrega este tema es la consecuencia para el producto. La frontera de ISA-95 es entre funciones, no entre cajas de software: un mismo producto puede cubrir los dos niveles, y una empresa sin MES deja que su ERP reciba las declaraciones de planta. Según el resumen de la guía de mercado de 2025, Gartner describe al MES como el que despacha trabajo según las instrucciones del ERP o del programador de producción. El [ERP](erp.md) planifica y registra; el MES ejecuta.
+Lo que agrega este tema es la consecuencia para el producto (lectura de esta base). La frontera de ISA-95 separa funciones y no cajas de software: un mismo producto puede cubrir los dos niveles, y una empresa sin MES deja que su ERP reciba las declaraciones de planta. Según el resumen de la guía de mercado de 2025, Gartner describe al MES como el que despacha trabajo según las instrucciones del ERP o del programador de producción. El [ERP](erp.md) planifica y registra; el MES ejecuta.
 
 ## Qué funciones agrupa un MES
 
@@ -52,6 +52,6 @@ En la lectura de esta base, lo que el software agrega sobre el saber de Calidad 
 
 ## Cómo se integra con el ERP
 
-La integración ERP-MES es la que la norma intenta estandarizar: la Parte 5 de ISA-95 trata las transacciones entre el negocio y la manufactura en los niveles 3 y 4, según la página de ISA. En la práctica, el ERP baja las órdenes liberadas y sus versiones de lista y ruta, y el MES sube las declaraciones de consumo y producción, que en el ERP se vuelven movimientos de stock y costo de la orden. Cómo se conecta, con qué frecuencia y quién es fuente de verdad del lote está en [integración y migración](../Columnas-tecnicas/integracion-y-migracion.md).
+La integración ERP-MES es la que la norma intenta estandarizar: la Parte 5 de ISA-95 trata las transacciones entre el negocio y la manufactura en los niveles 3 y 4, según la página de ISA. Como reparte la base, el ERP baja las órdenes liberadas y sus versiones de lista y ruta, y el MES sube las declaraciones de consumo y producción, que en el ERP se vuelven movimientos de stock y costo de la orden. Cómo se conecta, con qué frecuencia y quién es fuente de verdad del lote está en [integración y migración](../Columnas-tecnicas/integracion-y-migracion.md).
 
 > [!NOTE] Sin fuente todavía: cuándo conviene un MES aparte y cuándo alcanza con el ERP (ninguna fuente leída lo responde con método); el texto de ISA-95 (de pago, solo la página de ISA y fuentes de proveedores) y de ISO 9001; una definición primaria del QMS como categoría de software.

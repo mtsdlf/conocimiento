@@ -41,9 +41,9 @@ La aplicación de personal de un ERP de código abierto trae diez módulos, de l
 
 ## Dónde termina y con qué se pisa
 
-- **Con el ERP, en la nómina.** La nómina se puede comprar dentro del ERP o dentro del HCM. APQC la pone dos veces en su marco de procesos, según una copia de la versión 7.2.1: en finanzas (9.5 «Process payroll») y en personas (7.5.4 «Administer payroll»). El ERP necesita el resultado para el asiento; el HCM necesita el legajo para calcularla.
-- **Con el talento como mercado aparte.** Búsqueda, aprendizaje y evaluación también se venden como productos propios de gestión del talento, fuera de las suites. Lo dice el informe de investigación de este tema, sin una fuente leída.
-- **Con el [PSA](psa.md), en las horas.** La misma hora sirve para pagarle a la persona y para facturarle al cliente. Servicios profesionales separa las dos: cuántas horas trabajó una persona es de nómina; a qué proyecto se imputan, del PSA.
+- Con el ERP, en la nómina. La nómina se puede comprar dentro del ERP o dentro del HCM. APQC la pone dos veces en su marco de procesos, según una copia de la versión 7.2.1: en finanzas (9.5 «Process payroll») y en personas (7.5.4 «Administer payroll»). El ERP necesita el resultado para el asiento; el HCM necesita el legajo para calcularla.
+- Con el talento como mercado aparte. Búsqueda, aprendizaje y evaluación también se venden como productos propios de gestión del talento, fuera de las suites. Es inferencia de esta base, sin fuente leída.
+- Con el [PSA](psa.md), en las horas. La misma hora sirve para pagarle a la persona y para facturarle al cliente. Servicios profesionales separa las dos: cuántas horas trabajó una persona es de nómina; a qué proyecto se imputan, del PSA.
 
 ## Cómo se integra con el ERP
 

@@ -19,7 +19,7 @@ revisado:
 
 La mesa de ayuda y la gestión del servicio de campo son dos categorías de software de la posventa: la primera registra y sigue los casos que abren los clientes; la segunda programa, despacha y sigue a los técnicos que van a casa del cliente. El mercado las vende por separado, y se tocan cuando un caso necesita una visita.
 
-Son parte de las [categorías de producto](categorias-de-producto.md). Esta base las junta en una nota porque el recorrido [del reclamo a la resolución](../../Procesos-de-negocio/del-reclamo-a-la-resolucion.md) pasa por las dos, no porque el campo las junte: los analistas las tienen en mercados distintos.
+Son parte de las [categorías de producto](categorias-de-producto.md). Esta base las junta en una nota porque el recorrido [del reclamo a la resolución](../../Procesos-de-negocio/del-reclamo-a-la-resolucion.md) pasa por las dos. El campo no las junta: los analistas las tienen en mercados distintos.
 
 ## Dos mercados, dos dominios
 

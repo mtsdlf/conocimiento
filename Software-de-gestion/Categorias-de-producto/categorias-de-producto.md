@@ -49,7 +49,7 @@ IDC corta distinto, según el resumen de una nota de prensa: gestión de recurso
 
 Gartner reparte la funcionalidad del ERP en dos mitades: la administrativa (finanzas, personal, compras) y la operativa (producción, distribución). La fuente primaria no se pudo leer; el corte aparece en resúmenes de terceros y en la definición de composable ERP, «a technology strategy that automates and links administrative and operational business capabilities». APQC hace un corte parecido en su marco de procesos: categorías operativas (1.0 a 6.0) y de gestión y soporte (7.0 a 13.0).
 
-En la lectura de esta base, lo administrativo es lo que toda empresa registra igual: el asiento, la factura, la orden de compra, el recibo de sueldo. Lo operativo depende del negocio: órdenes de producción en una fábrica, horas imputadas en una consultora, órdenes de trabajo en una empresa de mantenimiento. Los dos cuadrantes de ERP de Gartner, para empresas de producto y de servicios, siguen esa línea.
+En la lectura de esta base, lo administrativo es lo que toda empresa registra igual: el asiento, la factura, la orden de compra, el recibo de sueldo. Lo operativo depende del negocio: órdenes de producción en una fábrica, horas imputadas en una consultora, órdenes de trabajo en una empresa de mantenimiento. Los dos cuadrantes de ERP de Gartner, para empresas de producto y de servicios, parecen seguir esa línea (inferencia de esta base).
 
 El núcleo administrativo es parecido en todos los rubros y pesa por la normativa de cada país; lo operativo cambia de rubro en rubro, y ahí nace el [software por rubro](software-por-rubro.md) (inferencia de esta base).
 
@@ -62,29 +62,29 @@ Una empresa puede comprar una **suite**, un solo producto de un proveedor que ll
 > [!IMPORTANT]
 > **Qué conviene, suite o lo mejor de cada clase, está en disputa, y ninguna posición tiene evidencia medida.**
 >
-> - **A favor de lo mejor de cada clase.** Light, Holland, Kelly y Willis (2000) sostienen, según su abstract, que los paquetes de un solo proveedor «often fail to fit specific organizational and industry needs», y que combinar productos de varios proveedores ajusta mejor. Su evidencia es un caso, una empresa global de entretenimiento; Light, Holland y Wills (2001) comparan las dos estrategias en otro caso. Gartner llamó *postmodern ERP* (2013 o 2014, según la fuente) a federar «the best applications, likely from two or more vendors, in each business area», y esperaba que esa estrategia pasara de cerca del 15 % de las empresas a más del 40 % hacia 2020. No se encontró si se cumplió. Después vino el *composable ERP*, según resúmenes, bloques unidos por interfaces.
-> - **A favor de la suite.** El artículo de la prensa del sector que cuenta el *postmodern ERP* se titula «countered by continued appeal of single suite». Cita a analistas de otras firmas: las empresas siguen con un solo proveedor y los pronósticos de Gartner no se estaban cumpliendo. Un exanalista cuenta que clientes que querían reemplazar el módulo de finanzas lo encontraron atado a compras y a pagos.
-> - **Lo que falta.** No hay un estudio independiente que mida cuál de las dos rinde más. Casi todas las voces tienen interés comercial, y la evidencia académica más citada es de 2000 y 2001.
+> - A favor de lo mejor de cada clase. Light, Holland, Kelly y Willis (2000) sostienen, según su abstract, que los paquetes de un solo proveedor «often fail to fit specific organizational and industry needs», y que combinar productos de varios proveedores ajusta mejor. Su evidencia es un caso, una empresa global de entretenimiento; Light, Holland y Wills (2001) comparan las dos estrategias; solo se leyó su abstract. Gartner llamó *postmodern ERP* (2013 o 2014, según la fuente) a federar «the best applications, likely from two or more vendors, in each business area», y esperaba que esa estrategia pasara de cerca del 15 % de las empresas a más del 40 % hacia 2020. No se encontró si se cumplió. Después vino el *composable ERP*, según resúmenes, bloques unidos por interfaces.
+> - A favor de la suite. El artículo de la prensa del sector que cuenta el *postmodern ERP* se titula «countered by continued appeal of single suite». Cita a un analista de otra firma de análisis, que dice que las empresas siguen con un solo proveedor y que los pronósticos de Gartner no se estaban cumpliendo. Un exanalista cuenta que clientes que querían reemplazar el módulo de finanzas lo encontraron atado a compras y a pagos.
+> - Lo que falta. No hay un estudio independiente que mida cuál de las dos rinde más. Casi todas las voces tienen interés comercial, y la evidencia académica más citada es de 2000 y 2001.
 
-En la lectura de esta base, el debate es sobre dónde poner la frontera de integración. La suite paga en ajuste: lleva los dominios como los modeló el proveedor. Lo mejor de cada clase paga en integración: cada frontera entre productos obliga a decidir qué sistema es la [fuente de verdad](../Columnas-tecnicas/integracion-y-migracion.md) del cliente, del artículo o del precio, y a mantener esa conexión en cada actualización. El caso del módulo de finanzas atado a compras muestra que la frontera más cara de mover es la que pasa por un documento con efecto contable.
+En la lectura de esta base, el debate es sobre dónde poner la frontera de integración. La suite paga en ajuste: lleva los dominios como los modeló el proveedor. Lo mejor de cada clase paga en integración: cada frontera entre productos obliga a decidir qué sistema es la [fuente de verdad](../Columnas-tecnicas/integracion-y-migracion.md) del cliente, del artículo o del precio, y a mantener esa conexión en cada actualización. El caso del módulo de finanzas atado a compras sugiere que la frontera más cara de mover es la que pasa por un documento con efecto contable (inferencia de esta base a partir de una sola voz).
 
 ## Lo que no es categoría en este tema
 
-Tres cosas que venden los proveedores grandes no tienen nota acá:
+Tres cosas quedan fuera de las categorías de este tema:
 
-- **La inteligencia de negocio**, que junta datos de varias fuentes para decidir. Es de [Visualización y BI](../../Datos/Visualizacion-y-BI/visualizacion-y-bi.md), en Datos, que se va a ampliar con «BI sobre el software de gestión». Lo que el sistema entrega de su propia base (los libros, los listados del día) es una columna técnica, la de reportes operativos y legales.
-- **El comercio electrónico y el punto de venta.** Son del tema Comercio electrónico, que tiene su propia nota de [sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md).
-- **La gestión de servicios de TI, la gestión documental y las plataformas de integración.** No llevan un dominio de negocio de esta base. La primera aparece como vecina de la [mesa de ayuda](servicio-de-campo-y-mesa-de-ayuda.md).
+- La inteligencia de negocio, que junta datos de varias fuentes para decidir. Es de [Visualización y BI](../../Datos/Visualizacion-y-BI/visualizacion-y-bi.md), en Datos, que se va a ampliar con «BI sobre el software de gestión». Lo que el sistema entrega de su propia base (los libros, los listados del día) es una columna técnica, la de reportes operativos y legales.
+- El comercio electrónico y el punto de venta. Son del tema Comercio electrónico, que tiene su propia nota de [sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md).
+- La gestión de servicios de TI, la gestión documental y las plataformas de integración. No llevan un dominio de negocio de esta base. La primera aparece como vecina de la [mesa de ayuda](servicio-de-campo-y-mesa-de-ayuda.md).
 
 ## Lo que hay adentro de Categorías de producto
 
-- [Escalones por tamaño](escalones-por-tamano.md) — del facturador al ERP de una empresa grande, y qué cambia en cada escalón.
-- [ERP](erp.md) — los dominios administrativos y, en empresas de producto, el stock y la producción; el centro contra el que se integran las demás.
-- [CRM](crm.md) — el registro del cliente y lo que pasa antes del pedido, con la atención y el marketing que a veces suma.
-- [HCM](hcm.md) — el legajo, la nómina y el talento.
-- [SCM, WMS y TMS](scm-wms-y-tms.md) — la planificación de la cadena, el depósito y el transporte.
-- [MES](mes.md) — la ejecución en planta, su frontera con el ERP y la gestión de calidad.
-- [Servicio de campo y mesa de ayuda](servicio-de-campo-y-mesa-de-ayuda.md) — dos mercados de la posventa: el caso del cliente y el técnico en la calle.
-- [PSA](psa.md) — el software de las firmas que venden horas de gente por proyecto.
-- [EAM y CMMS](eam-y-cmms.md) — el registro de los equipos y su mantenimiento.
-- [Software por rubro](software-por-rubro.md) — el software hecho para una industria frente al que sirve a cualquiera.
+- [Escalones por tamaño](escalones-por-tamano.md): del facturador al ERP de una empresa grande, y qué cambia en cada escalón.
+- [ERP](erp.md): los dominios administrativos y, en empresas de producto, el stock y la producción; el centro contra el que se integran las demás.
+- [CRM](crm.md): el registro del cliente y lo que pasa antes del pedido, con la atención y el marketing que a veces suma.
+- [HCM](hcm.md): el legajo, la nómina y el talento.
+- [SCM, WMS y TMS](scm-wms-y-tms.md): la planificación de la cadena, el depósito y el transporte.
+- [MES](mes.md): la ejecución en planta, su frontera con el ERP y la gestión de calidad.
+- [Servicio de campo y mesa de ayuda](servicio-de-campo-y-mesa-de-ayuda.md): dos mercados de la posventa: el caso del cliente y el técnico en la calle.
+- [PSA](psa.md): el software de las firmas que venden horas de gente por proyecto.
+- [EAM y CMMS](eam-y-cmms.md): el registro de los equipos y su mantenimiento.
+- [Software por rubro](software-por-rubro.md): el software hecho para una industria frente al que sirve a cualquiera.

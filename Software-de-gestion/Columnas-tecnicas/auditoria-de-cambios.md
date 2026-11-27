@@ -18,7 +18,7 @@ revisado:
 
 La auditoría de cambios es el rastro de quién cambió qué dato, cuándo y de qué valor a qué valor, sobre todo en lo que un software de gestión sí deja editar (los datos maestros, la configuración y los permisos), que no deja movimientos. Sirve para reconstruir lo que el sistema creía en una fecha y quién lo cambió.
 
-El control interno pide esa pista y explica para qué: según la guía del IIA que cita [controles sobre los sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md#el-registro-de-quién-hizo-qué), guarda para cada acción quién la hizo, cuándo y qué cambió, para que nadie pueda negarla después. Acá va dónde se guarda en el software y qué parte del sistema la necesita.
+El control interno pide esa pista. Según [controles sobre los sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md#el-registro-de-quién-hizo-qué), la guía GTAG del IIA exige un registro que siga el dato desde la entrada hasta la salida, y la Green Book lo liga a que nadie pueda negar después una acción suya. Acá va dónde se guarda en el software y qué parte del sistema la necesita.
 
 ## Lo que ya es su propio rastro
 
@@ -39,19 +39,19 @@ Los borradores también se editan, pero mientras no producen movimientos su hist
 
 Fowler define el *Audit Log* como «A simple log of changes, intended to be easily written and non-intrusive». Cada entrada guarda qué cambió, el valor, la fecha del hecho y la fecha de registro. Su diagnóstico es que es fácil de escribir y difícil de consultar: sirve para reconstruir un caso puntual, no para preguntas de todos los días.
 
-Fowler lo presenta como la forma más simple de llevar la dimensión del tiempo de registro que describe en sus patrones temporales. Si un dato necesita contestar seguido «cuánto valía en tal fecha», la auditoría no alcanza y hace falta una [vigencia](fechas-vigencias-y-cierre.md#vigencias-datos-que-valen-desde-y-hasta). La auditoría contesta otra pregunta: quién lo cambió y cuándo se supo.
+Fowler lo trata como la forma simple de llevar la dimensión del tiempo de registro que describe en sus patrones temporales. Si un dato necesita contestar seguido «cuánto valía en tal fecha», la auditoría no alcanza y hace falta una [vigencia](fechas-vigencias-y-cierre.md#vigencias-datos-que-valen-desde-y-hasta). La auditoría contesta otra pregunta: quién lo cambió y cuándo se supo.
 
 Los productos lo resuelven por campo o por tipo de documento. La documentación de un ERP de código abierto permite marcar un campo para que cada cambio quede en el historial del registro. Otro ERP de código abierto ofrece activar el seguimiento de cambios por tipo de documento desde la pantalla de personalización.
 
 ## Dos casos
 
-El cambio de la cuenta bancaria de un proveedor es el caso de libro (ejemplo armado sobre las fuentes de Compras y Contabilidad). Alguien cambia el número de cuenta, la próxima corrida de pagos le transfiere a esa cuenta y el proveedor reclama que no cobró. La nota de [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md#la-aprobación-de-pagos-y-el-alta-de-proveedores) recoge que las guías piden guardar el valor viejo, el nuevo, el usuario y la hora; sin eso no hay forma de saber quién lo hizo ni desde cuándo.
+El cambio de la cuenta bancaria de un proveedor es el caso de libro (ejemplo armado sobre las fuentes de Compras y Contabilidad). Alguien cambia el número de cuenta, la próxima corrida de pagos le transfiere a esa cuenta y el proveedor reclama que no cobró. La nota de [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md#la-aprobación-de-pagos-y-el-alta-de-proveedores) recoge que las guías de empresas que venden software de pagos (sin autoridad independiente) piden guardar el valor viejo, el nuevo, el usuario y la hora; sin eso no hay forma de saber quién lo hizo ni desde cuándo.
 
 En nómina, un sueldo cargado mal y corregido al día siguiente cambia lo que se liquidó si la liquidación corrió en el medio. El legajo guarda las dos fechas de cada cambio, y la auditoría agrega quién lo hizo. Con las dos, el liquidador puede explicar por qué el recibo de ese mes salió distinto ([retroactivos y reliquidaciones](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/retroactivos-y-reliquidaciones.md)).
 
 ## Cómo falla la auditoría
 
-- **Auditar todo.** Un registro de cada cambio de cada campo crece rápido y nadie lo lee; conviene elegir los campos que importan, empezando por los que mueven plata.
-- **Una auditoría que se puede apagar.** Si el administrador desactiva el seguimiento o borra el registro sin dejar rastro, la pista no prueba nada. El control interno pide registrar también quién desactivó un control.
-- **El registro en una tabla que se edita.** La auditoría tiene que ser, ella misma, un registro de solo agregar.
-- **Confundirla con otras trazas.** La historia de los cambios al código del sistema es de [trazabilidad de cambios](../../DevOps/Repositorios/trazabilidad-de-cambios.md); de dónde viene cada dato de un análisis, de [metadatos y linaje](../../Datos/Gobierno-y-calidad/metadatos-y-linaje.md).
+- Auditar todo. Un registro de cada cambio de cada campo crece rápido y nadie lo lee; conviene elegir los campos que importan, empezando por los que mueven plata.
+- Una auditoría que se puede apagar. Si el administrador desactiva el seguimiento o borra el registro sin dejar rastro, la pista no prueba nada. Según controles sobre los sistemas, el sistema tiene que registrar también quién desactivó un control.
+- El registro en una tabla que se edita. La auditoría tiene que ser, ella misma, un registro de solo agregar.
+- Confundirla con otras trazas. La historia de los cambios al código del sistema es de [trazabilidad de cambios](../../DevOps/Repositorios/trazabilidad-de-cambios.md); de dónde viene cada dato de un análisis, de [metadatos y linaje](../../Datos/Gobierno-y-calidad/metadatos-y-linaje.md).

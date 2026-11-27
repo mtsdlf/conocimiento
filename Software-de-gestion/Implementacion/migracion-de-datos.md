@@ -20,7 +20,7 @@ La migración de datos es la parte de la implementación que pasa al sistema nue
 
 Es una actividad del proyecto de [implementación](implementacion.md), con su plan, sus responsables y su fecha. El mecanismo de carga (formatos, importadores, el sistema que manda en cada dato, la diferencia con una integración que corre todos los días) es de [integración y migración](../Columnas-tecnicas/integracion-y-migracion.md), y la extracción y transformación en general, de [ETL y ELT](../../Datos/Ingesta-y-transformacion/etl-y-elt.md). La migración termina el día del corte, que se cuenta en [puesta en marcha](puesta-en-marcha.md).
 
-Es una de las causas más citadas de atraso. En la encuesta de Panorama Consulting de 2017 (342 respuestas en su sitio, muestra autoseleccionada), los problemas de datos fueron la segunda causa de atraso, con 16 %, detrás del alcance que se amplió.
+En la encuesta de Panorama Consulting de 2017 (342 respuestas en su sitio, muestra autoseleccionada, consultora con interés comercial), los problemas de datos fueron la segunda causa de atraso, con 16 %, detrás del alcance ampliado.
 
 > [!NOTE] Sin fuente todavía: un estudio con método sobre migración de datos en implantaciones de ERP. Lo que sigue sale de la documentación de productos y de consultoras.
 
@@ -33,19 +33,21 @@ No se migra todo. La decisión es qué necesita el sistema nuevo para operar des
 | Datos maestros | Clientes, proveedores, productos, cuentas, depurados y sin duplicados | Todo documento nuevo apunta a ellos ([datos maestros](../../Datos/Gobierno-y-calidad/datos-maestros.md)) |
 | Saldos contables | Un balance de sumas y saldos aprobado a la fecha de corte, que tiene que balancear antes de cargarse | Es el punto de partida del mayor ([asiento y libros](../../Contabilidad/Registro/asiento-y-libros.md#el-balance-de-sumas-y-saldos)) |
 | Saldos de clientes y proveedores | Como facturas abiertas, una por comprobante pendiente | Se van a cobrar o pagar de a una, y la [antigüedad de saldos](../../Contabilidad/Registro/cuentas-corrientes.md#la-antigüedad-de-saldos) se calcula por comprobante |
-| Stock | Un ajuste de inventario de apertura por producto y depósito, con su costo | El costo de lo que se venda después sale de ahí |
+| Stock | Una conciliación de stock de tipo apertura, por producto y depósito | El costo de lo que se venda después sale de ahí |
 | Documentos abiertos | Pedidos de venta y órdenes de compra sin cumplir | El trabajo en curso sigue al día siguiente del corte |
 | Historia | Se deja en el sistema viejo o en un archivo de consulta, salvo decisión explícita | Cargarla cuesta más que consultarla |
 
+De la tabla, la documentación de código abierto respalda los saldos contables, las facturas abiertas y el stock de apertura; el resto es lectura de esta base.
+
 La documentación citada usa una cuenta transitoria de apertura: cada saldo entra contra ella, y al terminar la carga tiene que quedar en cero. Si no da cero, algo entró de más o de menos. Pide además los saldos de clientes y proveedores como facturas abiertas «where future settlement and ageing matter».
 
-Dejar la historia afuera tiene un costo para quien consulta. En el comercio argentino, un fabricante avisa que al migrar no se cargan datos históricos como ventas o cuentas corrientes, solo maestros y stock ([sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md#cómo-se-elige-y-cómo-falla)). Un análisis de varios años que cruce el antes y el después del corte tiene que juntar dos fuentes, y eso es trabajo de [Visualización y BI](../../Datos/Visualizacion-y-BI/visualizacion-y-bi.md).
+Dejar la historia afuera tiene un costo para quien consulta. En el comercio argentino, el fabricante de un sistema de gestión avisa que al migrar no se cargan datos históricos como ventas o cuentas corrientes, solo maestros y stock ([sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md#cómo-se-elige-y-cómo-falla)). Un análisis de varios años que cruce el antes y el después del corte tiene que juntar dos fuentes, y eso es trabajo de [Visualización y BI](../../Datos/Visualizacion-y-BI/visualizacion-y-bi.md).
 
 ## Limpiar antes de cargar
 
 El sistema nuevo hereda la [calidad de datos](../../Datos/Gobierno-y-calidad/calidad-de-datos.md) del viejo si nadie la mira. Según un resumen, las consultoras coinciden en perfilar el origen, deduplicar los maestros, mapear cada campo viejo a uno nuevo y conciliar con gente del negocio antes de la puesta en marcha. Son afirmaciones de práctica, sin método publicado.
 
-La migración es la ocasión de unir los registros duplicados en un registro de oro, porque después de la carga cada duplicado tiene documentos colgados y unirlo cuesta más. Cómo se encuentra a la misma persona en dos registros está en [datos maestros](../../Datos/Gobierno-y-calidad/datos-maestros.md#cómo-se-encuentra-a-la-misma-persona-en-dos-registros). La limpieza la hacen los usuarios clave que conocen el dato; el equipo técnico puede detectar el duplicado, pero no decidir cuál de los dos vale.
+En lectura de esta base, la migración es la ocasión de unir los registros duplicados en un registro de oro, porque después de la carga cada duplicado tiene documentos colgados y unirlo cuesta más. Cómo se encuentra a la misma persona en dos registros está en [datos maestros](../../Datos/Gobierno-y-calidad/datos-maestros.md#cómo-se-encuentra-a-la-misma-persona-en-dos-registros). La limpieza la hacen los usuarios clave que conocen el dato; el equipo técnico puede detectar el duplicado, pero no decidir cuál de los dos vale.
 
 ## Ensayar y conciliar
 
@@ -63,7 +65,9 @@ La conciliación la firma alguien del negocio, no quien hizo la carga. Es la mis
 
 ## Cómo falla la migración
 
-- **Se deja para el final.** La limpieza lleva más que la carga, y empieza tarde porque parece trabajo técnico.
-- **Se ensaya con una muestra.** Los errores aparecen con los datos raros, que una muestra no trae.
-- **Se carga la historia entera por las dudas.** Multiplica el trabajo de mapeo y trae al sistema nuevo los errores del viejo.
-- **Nadie del negocio firma.** El equipo técnico da por buena una carga que cuadra en cantidad de filas y no en saldos.
+En lectura de esta base, la migración falla de cuatro maneras.
+
+- Se deja para el final: la limpieza empieza tarde porque parece trabajo técnico.
+- Se ensaya con una muestra: los errores aparecen con los datos raros, que una muestra no trae.
+- Se carga la historia entera por las dudas: multiplica el trabajo de mapeo y trae al sistema nuevo los errores del viejo.
+- Nadie del negocio firma: el equipo técnico da por buena una carga que cuadra en cantidad de filas y no en saldos.

@@ -50,9 +50,9 @@ Hay otras dos capas de permisos que se confunden con esta. Quién puede cambiar 
 
 ## Cómo fallan los permisos
 
-- **Solo la primera capa.** Con permisos por tipo de documento y sin restricción por registro, cada vendedor ve todos los clientes de la empresa.
-- **El administrador como excepción.** Un usuario que puede saltearse una aprobación sin dejar rastro reproduce la debilidad que [controles sobre los sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md#lo-que-un-sistema-de-gestión-tiene-que-poder-hacer) asocia a la anulación de controles en los fraudes.
-- **Un desajuste con el producto.** Soh, Sia y Tay-Yap (2000) cuentan, entre los desajustes funcionales de un paquete, los de acceso y los de control; según los extractos del trabajo, son procedimientos que la organización necesita y el producto no trae. Un producto que no puede negar una combinación de roles cae acá, y la decisión de cómo cubrirlo es del [análisis de brechas](../Implementacion/analisis-de-brechas.md).
-- **Permisos que no se revisan.** El sistema tiene que poder emitir la lista de quién tiene qué permiso; sin ella, la revisión periódica que pide el control interno no se puede hacer.
+- Solo la primera capa. Con permisos por tipo de documento y sin restricción por registro, cada vendedor ve todos los clientes de la empresa.
+- El administrador como excepción. Un usuario que puede saltearse una aprobación sin dejar rastro reproduce la debilidad que [controles sobre los sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md#lo-que-un-sistema-de-gestión-tiene-que-poder-hacer) asocia a la anulación de controles en los fraudes.
+- Un desajuste con el producto. Soh, Sia y Tay-Yap (2000) cuentan, entre los desajustes funcionales de un paquete, los de acceso y los de control; según los extractos del trabajo, son procedimientos que la organización necesita y el producto no trae. Un producto que no puede negar una combinación de roles cae acá, y la decisión de cómo cubrirlo es del [análisis de brechas](../Implementacion/analisis-de-brechas.md).
+- Permisos que no se revisan. El sistema tiene que poder emitir la lista de quién tiene qué permiso; sin ella, la revisión periódica que pide el control interno no se puede hacer.
 
 Los permisos también ponen límite al tiempo: quién puede cargar una fecha anterior al cierre o mover la fecha de bloqueo es de esta columna ([fechas, vigencias y cierre](fechas-vigencias-y-cierre.md)).

@@ -40,17 +40,17 @@ revisado:
 
 Qué leer sobre software de gestión, vertical por vertical: qué obra, qué parte, en qué fijarse y si esta base la leyó. La mayoría de las fuentes canónicas están detrás de un muro, y la tabla lo dice en cada fila.
 
-En la columna «Leída», «Sí» es el texto entero, «Abstract» es solo el resumen del autor y «Resumen» es lo que dijo un buscador o un tercero. Lo que esta base cita de cada obra está en la nota de la vertical; el contexto, en [fundamentos](fundamentos-de-software-de-gestion.md).
+En la columna «Leída», «Sí» es el texto entero, «Casi entera» es una página leída casi toda, «Abstract» es solo el resumen del autor y «Resumen» es lo que dijo un buscador o un tercero. Lo que esta base cita de cada obra está en la nota de la vertical; el contexto, en [fundamentos](fundamentos-de-software-de-gestion.md).
 
 ## Quién produce el saber de este campo
 
 Cinco voces escriben sobre software de gestión, y no dicen lo mismo:
 
-- **La academia de sistemas de información** (MIS Quarterly, Journal of Information Technology, las actas de ICIS, ECIS y HICSS) estudia la implantación y el desempeño con método; casi todos los estudios que encontró esta base son de 1998 a 2007.
-- **Los analistas**, Gartner a la cabeza, ponen los nombres de las categorías y los pronósticos; sus documentos se pagan y se conocen por la prensa.
-- **Las consultoras de selección e implantación** publican encuestas anuales de costo y plazo, con muestras propias y servicios que vender.
-- **Los proveedores** publican documentación y metodologías de implantación: prueban que una práctica existe, no que convenga.
-- **Las normas** (ISA-95, ISO 55000, ISO 9001) fijan el vocabulario de algunas fronteras; casi todas son de pago.
+- La academia de sistemas de información (MIS Quarterly, Journal of Information Technology, las actas de ICIS, ECIS y HICSS) estudia la implantación y el desempeño con método. Casi todos los estudios que encontró esta base son de 1998 a 2007, con pocas excepciones.
+- Los analistas, Gartner a la cabeza, ponen los nombres de las categorías y los pronósticos; sus documentos se pagan y se conocen por la prensa.
+- Las consultoras de selección e implantación publican encuestas anuales de costo y plazo, con muestras propias y servicios que vender.
+- Los proveedores publican documentación y metodologías de implantación: prueban que una práctica existe, no que convenga.
+- Las normas (ISA-95, ISO 55000, ISO 9001) fijan el vocabulario de algunas fronteras; casi todas son de pago.
 
 Dentro de la academia se distinguen tres líneas: la que discute qué es un ERP (Klaus y otros), la de la implantación (Davenport, Markus y Tanis, Soh, Brehm) y la del modelo de producto, suite o piezas (Light y otros). El análisis de patrones de Fowler, desde la ingeniería de software, es la fuente de las columnas técnicas.
 
@@ -63,7 +63,7 @@ Dentro de la academia se distinguen tres líneas: la que discute qué es un ERP 
 | Davenport (1998), «Putting the Enterprise into the Enterprise System» | El apartado sobre la lógica que el sistema impone | Que los problemas grandes son de negocio y no técnicos | Resumen |
 | Orlicky (1975), *Material Requirements Planning* | La lógica del cálculo | El antecedente del ERP de manufactura; detalle en [MRP](../../Produccion/Planificacion-de-la-produccion/mrp.md#el-libro-de-origen) | No |
 | Gartner, nota de prensa de 2014 sobre el ERP postmoderno | La nota pública | Que es un pronóstico; el informe pago no se leyó | Resumen |
-| Wikipedia, «Enterprise resource planning» | Historia | Sirve para fechar; sus referencias (Shanks y Willcocks 2003, O'Leary 2000, el número de 2000 de *Communications of the ACM* sobre ERP) son lo que hay que buscar | Sí |
+| Wikipedia, «Enterprise resource planning» | Historia | Sirve para fechar; sus referencias (Shanks y Willcocks 2003, O'Leary 2000, el número de 2000 de *Communications of the ACM* sobre ERP) son lo que hay que buscar | Casi entera |
 
 ## Categorías de producto
 
@@ -89,7 +89,7 @@ Dentro de la academia se distinguen tres líneas: la que discute qué es un ERP 
 | Fowler, «Organization Structures» (borrador del segundo volumen) | Party, Accountability, Knowledge Level | La parte con roles, las jerarquías de la organización y el fundamento de la configuración | Sí |
 | McCarthy (1982), «The REA Accounting Model» | Entero | La dualidad de los eventos y el asiento como vista derivada | No |
 | Hohpe y Woolf, *Enterprise Integration Patterns* | Los cuatro estilos de integración | Archivo, base compartida, llamada remota y mensajería | Sí, la introducción |
-| Brehm, Heinzl y Markus (2001), «Tailoring ERP systems» | La tipología de adaptación | De la configuración a modificar el código, de menos a más invasivo | Resumen |
+| Brehm, Heinzl y Markus (2001), «Tailoring ERP systems» | La tipología de adaptación | De la configuración a modificar el código; el orden de menos a más invasivo sale de resúmenes secundarios (Leyh 2012) | Resumen |
 | Soh, Sia y Tay-Yap (2000), «Cultural fits and misfits» | La tipología de desajustes | Que los de salida (los reportes) fueron los más frecuentes; es un solo hospital | Resumen |
 | Documentación de ERP de código abierto | Estados del documento, libro inmutable, fecha de bloqueo, multiempresa | Evidencia de que la práctica existe en un producto; no es recomendación | Sí, varias páginas |
 

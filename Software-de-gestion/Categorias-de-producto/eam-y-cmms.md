@@ -28,7 +28,7 @@ Son parte de las [categorías de producto](categorias-de-producto.md) y llevan e
 
 Las dos categorías son una misma línea. Un informe de Gartner de 2004 dice, según su resumen, que el EAM evolucionó unos diez años antes desde los sistemas de mantenimiento computarizados. Gartner, citado por la prensa del sector, llama «core EAM» a las capacidades básicas de llevar un registro exacto y detallado de los activos.
 
-La diferencia que dan los proveedores y los sitios de reseñas es de alcance: el EAM cubre todo el ciclo de vida del activo (adquisición, instalación, operación, mantenimiento y baja), y el CMMS, la ejecución del mantenimiento. El vocabulario del ciclo de vida viene de la ISO 55000, que trata la gestión de activos como un sistema de gestión del que el mantenimiento es una parte; la norma está en los [fundamentos de activos y mantenimiento](../../Activos-y-mantenimiento/Fundamentos/fundamentos-de-activos-y-mantenimiento.md).
+La diferencia que dan los proveedores y los sitios de reseñas es de alcance: el EAM cubre todo el ciclo de vida del activo (adquisición, instalación, operación, mantenimiento y baja), y el CMMS, la ejecución del mantenimiento. El vocabulario del ciclo de vida lo fija la ISO 55000, de la que los [fundamentos de activos y mantenimiento](../../Activos-y-mantenimiento/Fundamentos/fundamentos-de-activos-y-mantenimiento.md) leyeron la ficha y las definiciones que cita el IAM, no el texto. En la lectura de esta base, la gestión de activos es un sistema del que el mantenimiento es una parte. La tabla baja la diferencia de alcance a ejes concretos (lectura de esta base).
 
 | | CMMS | EAM |
 |---|---|---|
@@ -38,9 +38,9 @@ La diferencia que dan los proveedores y los sitios de reseñas es de alcance: el
 
 ## Dónde termina y con qué se pisa
 
-- **Con el [ERP](erp.md), en el activo y el repuesto.** El activo tiene dos registros con dueños distintos: el operativo, que es de mantenimiento, y el contable, que es de [activos fijos y amortización](../../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md). El ERP lleva el bien de uso y el EAM el equipo; un repuesto rotativo o un equipo alquilado está solo en el segundo. Los repuestos son además stock del ERP. Un ERP de código abierto trae mantenimiento en su familia de cadena de suministro; otro tiene módulos separados de activos y de mantenimiento.
-- **Con el [MES](mes.md), en la planta.** ISA-95 pone el mantenimiento entre las cuatro operaciones del nivel 3, según un proveedor de automatización que cita la norma, y MESA lo lista entre las funciones del MES. Una fábrica puede llevar el mantenimiento de sus máquinas en el MES, en un CMMS o en el ERP.
-- **Con el [servicio de campo](servicio-de-campo-y-mesa-de-ayuda.md), en el equipo del cliente.** El ciclo de la orden de trabajo es el mismo; cambia de quién es el equipo, quién paga y quién da la conformidad. Esta base pone los dos en el mismo dominio por esa razón, y el mercado los vende en cajas distintas.
+- Con el [ERP](erp.md), en el activo y el repuesto. El activo tiene dos registros con dueños distintos: el operativo, que es de mantenimiento, y el contable, que es de [activos fijos y amortización](../../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md). El ERP lleva el bien de uso y el EAM el equipo; un repuesto rotativo o un equipo alquilado está solo en el segundo. Los repuestos son además stock del ERP. Un ERP de código abierto trae mantenimiento en su familia de cadena de suministro; otro tiene módulos separados de activos y de mantenimiento.
+- Con el [MES](mes.md), en la planta. ISA-95 pone el mantenimiento entre las cuatro operaciones del nivel 3, según un proveedor de automatización que cita la norma, y MESA lo lista entre las funciones del MES. Una fábrica puede llevar el mantenimiento de sus máquinas en el MES, en un CMMS o en el ERP.
+- Con el [servicio de campo](servicio-de-campo-y-mesa-de-ayuda.md), en el equipo del cliente. El ciclo de la orden de trabajo es el mismo; cambia de quién es el equipo, quién paga y quién da la conformidad. Esta base pone los dos en el mismo dominio por esa razón, y el mercado los vende en cajas distintas.
 
 ## Cómo se integra con el ERP
 

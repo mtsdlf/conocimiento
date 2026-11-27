@@ -29,7 +29,7 @@ Para el diseño, en lectura de esta base, eso pide tres cosas: que cada cantidad
 
 ## Importes con moneda
 
-Fowler define el patrón *Money* como lo que «Represents a monetary value»: un importe con su moneda, que impide sumar dólares con yenes. El mismo patrón encapsula el redondeo, porque al repartir un importe «it's easy to lose pennies». Repartir 100 en tres cuotas da 33,33 tres veces y se pierde un centavo; el reparto correcto pone 33,34 en una de ellas (ejemplo de esta base).
+Fowler define el patrón *Money* como lo que «Represents a monetary value»: un importe con su moneda, que impide sumar dólares con yenes. El mismo patrón encapsula el redondeo, porque «it's easy to lose pennies». Repartir 100 en tres cuotas da 33,33 tres veces y se pierde un centavo; el reparto correcto pone 33,34 en una de ellas (ejemplo de esta base).
 
 En un sistema con varias monedas, cada documento guarda el importe en la moneda de la operación y su equivalente en la moneda de la empresa, con el tipo de cambio usado. La documentación de un ERP de código abierto describe ese esquema: una moneda principal de la empresa y diferencias de cambio que el sistema registra solo, en cuentas y en un diario propios.
 
@@ -41,10 +41,10 @@ Una empresa importa un insumo en dólares por caja y lo consume en producción p
 
 ## Cómo falla
 
-- **La conversión en la cabeza.** Se recibe «10» pensando en cajas y el sistema suma 10 unidades; el conteo lo descubre después como una diferencia sin causa.
-- **Importes en punto flotante.** Un tipo de dato que no representa exactamente los centavos acumula diferencias en las sumas (lectura de esta base; el redondeo en planillas está en [tipos de dato](../../Planillas-de-calculo/Modelo-de-la-planilla/tipos-de-dato.md)).
-- **Sumar monedas distintas.** Un total de deudores que suma pesos y dólares sin convertir no es un número.
-- **El tipo de cambio de la fecha equivocada.** Convertir con el tipo de hoy un documento de hace un mes cambia lo registrado; la fecha que manda es la del hecho ([fechas, vigencias y cierre](fechas-vigencias-y-cierre.md)).
+- La conversión en la cabeza. Se recibe «10» pensando en cajas y el sistema suma 10 unidades; el conteo lo descubre después como una diferencia sin causa.
+- Importes en punto flotante. Un tipo de dato que no representa exactamente los centavos acumula diferencias en las sumas (lectura de esta base; el redondeo en planillas está en [tipos de dato](../../Planillas-de-calculo/Modelo-de-la-planilla/tipos-de-dato.md)).
+- Sumar monedas distintas. Un total de deudores que suma pesos y dólares sin convertir no es un número.
+- El tipo de cambio de la fecha equivocada. Convertir con el tipo de hoy un documento de hace un mes cambia lo registrado; la fecha que manda es la del hecho ([fechas, vigencias y cierre](fechas-vigencias-y-cierre.md)).
 
 > [!NOTE]
 > Sin fuente todavía: una fuente primaria sobre el redondeo cuando una conversión de unidades no es exacta, y una que trate en general cómo guarda un sistema el tipo de cambio usado en cada documento.

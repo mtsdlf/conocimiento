@@ -29,10 +29,10 @@ En esta base, **el sistema que manda** en un dato es el único donde ese dato se
 
 Dos casos de dominio:
 
-- **La tienda y el marketplace.** Productos, precios y stock van del sistema de gestión a los canales; los pedidos, de los canales al sistema. El caso entero, con sus fallas, está en [integración con tiendas y marketplaces](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/integracion-con-tiendas-y-marketplaces.md).
-- **El banco.** El extracto llega del banco, que manda en lo que se acreditó; el sistema de gestión manda en qué factura cancela cada cobro. Juntar las dos cosas es la [aplicación de cobros](../../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md), y comprobar que coinciden, la [conciliación](../../Contabilidad/Control-interno/conciliaciones.md).
+- La tienda y el marketplace. Productos, precios y stock van del sistema de gestión a los canales; los pedidos, de los canales al sistema. El caso entero, con sus fallas, está en [integración con tiendas y marketplaces](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/integracion-con-tiendas-y-marketplaces.md).
+- El banco. El extracto llega del banco, que manda en lo que se acreditó; el sistema de gestión manda en qué factura cancela cada cobro. Juntar las dos cosas es la [aplicación de cobros](../../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md), y comprobar que coinciden, la [conciliación](../../Contabilidad/Control-interno/conciliaciones.md).
 
-La conexión con el fisco para emitir comprobantes es un caso aparte, porque el fisco no refleja el dato: lo autoriza. Lo que exige la norma argentina a un sistema para eso está en [software de gestión en la Argentina](../software-de-gestion-en-argentina.md).
+La conexión con el fisco para emitir comprobantes es un caso aparte, porque el fisco no refleja el dato sino que lo autoriza (lectura de esta base). Lo que exige la norma argentina a un sistema para eso está en [software de gestión en la Argentina](../software-de-gestion-en-argentina.md).
 
 ## Los cuatro estilos de Hohpe y Woolf
 
@@ -71,7 +71,7 @@ La fecha de corte es una [fecha de bloqueo](fechas-vigencias-y-cierre.md#la-fech
 
 ## Cómo falla la integración
 
-- **Dos sistemas que mandan.** El precio se cambia en la tienda y en el sistema de gestión, y la próxima sincronización pisa uno de los dos.
-- **Avisos perdidos o repetidos.** Una venta que no llega descuadra el stock; una que llega dos veces crea dos pedidos.
-- **Leer las tablas del producto por afuera.** Funciona hasta la próxima versión.
-- **Saldos iniciales sin conciliar.** Si la apertura no cuadra con el último balance del sistema anterior, la diferencia arrastra a todos los períodos que siguen.
+- Dos sistemas que mandan. El precio se cambia en la tienda y en el sistema de gestión, y la próxima sincronización pisa uno de los dos.
+- Avisos perdidos o repetidos. Una venta que no llega descuadra el stock; una que llega dos veces crea dos pedidos.
+- Leer las tablas del producto por afuera. Funciona hasta la próxima versión.
+- Saldos iniciales sin conciliar. Si la apertura no cuadra con el último balance del sistema anterior, la diferencia arrastra a todos los períodos que siguen.

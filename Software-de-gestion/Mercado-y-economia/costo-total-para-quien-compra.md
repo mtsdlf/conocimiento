@@ -41,11 +41,11 @@ No hay un estudio con método que mida la proporción. Hay tres cifras que discr
 
 | Fuente | Qué dice | Debilidad |
 |---|---|---|
-| Hitt, Wu y Zhou (2002), nota al pie | En un proyecto típico, licencias 16 %, hardware 14 %, consultoría 60 % y capacitación y personal interno 10 %. El cuerpo del artículo dice que «the majority (~60 percent) of project cost is devoted to setup, installation, and customization» | Es una cita a terceros dentro de un artículo académico, no una medición propia; proyectos grandes de fines de los noventa, con un solo producto en la muestra del estudio |
+| Hitt, Wu y Zhou (2002), nota al pie | En un proyecto típico, licencias 16 %, hardware 14 %, consultoría 60 % y capacitación y personal interno 10 %. El cuerpo del artículo dice que «the majority (~60 percent) of project cost is devoted to setup, installation, and customization» | Es una nota al pie sin fuente indicada, no una medición propia; proyectos grandes de fines de los noventa, con un solo producto en la muestra del estudio |
 | Meta Group, citado por Computerworld (2003) | 25 % software, 40 % servicios profesionales y 25 % personal interno, sobre 200 empresas de 12 industrias y seis proveedores | Llegó por la prensa; los tres números suman 90 % y el artículo no dice qué es el resto; dato de hace más de veinte años |
 | Panorama Consulting (2020) | Un proveedor suele estimar la implantación en «a 1:1 ratio between software licenses and technical implementation costs», y para la consultora esa cifra es «woefully low for most companies» | Es la opinión de una consultora que vende selección e implantación, sin datos detrás |
 
-Las tres coinciden en una sola cosa: la licencia es menos de la mitad del costo. La primera la pone en un sexto, la segunda en un cuarto y la tercera dice que «la mitad» que estima el proveedor se queda corta. Con suscripción en la nube la cuenta cambia, porque la infraestructura entra en el precio, pero no se halló una cifra comparable.
+Las tres coinciden en una sola cosa: la licencia es menos de la mitad del costo. La primera la pone en un sexto, la segunda en un cuarto y la tercera dice que la estimación del proveedor, una implantación igual a la licencia, se queda corta. Con suscripción en la nube la cuenta cambia, porque la infraestructura entra en el precio, pero no se halló una cifra comparable.
 
 ## Cuánto cuesta un proyecto y cuánto se pasa
 

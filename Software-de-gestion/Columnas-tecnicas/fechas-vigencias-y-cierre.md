@@ -45,19 +45,19 @@ La tercera columna es lectura de esta base. La regla que sale de ella: el sistem
 
 El cierre de período congela lo anterior a una fecha. La documentación de un ERP de código abierto lo resuelve con una fecha de bloqueo general: los asientos con fecha anterior «cannot be created or modified during the audit», y las excepciones solo las da un administrador. Los ajustes que se hacen antes de cerrar son de [ajustes de cierre](../../Contabilidad/Estados-contables/ajustes-de-cierre.md); la regla de que un período cerrado no admite asientos con fecha anterior está en [asiento y libros](../../Contabilidad/Registro/asiento-y-libros.md#corregir-con-un-asiento-nuevo).
 
-En lectura de esta base, un sistema suele necesitar más de un bloqueo: uno contable, otro de stock, otro de impuestos, porque cada uno se cierra cuando se presenta lo suyo. El de impuestos coincide con la [declaración](../../Impuestos/Cumplimiento/declaracion-y-pago.md) del período. Un hecho que se descubre después del cierre no reabre el período: entra en el período abierto con su fecha del hecho, como el retroactivo de nómina.
+En lectura de esta base, un sistema suele necesitar más de un bloqueo: uno contable, otro de stock, otro de impuestos, porque cada uno se cierra cuando se presenta lo suyo. El de impuestos coincide con la [declaración](../../Impuestos/Cumplimiento/declaracion-y-pago.md) del período. Un hecho que se descubre después del cierre no reabre el período: entra en el período abierto con su fecha del hecho, como el retroactivo de nómina (lectura de esta base).
 
 ## Lo que mueve una fecha pasada
 
-Una fecha pasada no es inocente. La documentación de otro ERP de código abierto advierte dos cosas: no correr la fecha contable para saltarse controles, y que un movimiento de stock con fecha anterior revaloriza todo lo posterior, porque el costo de cada salida depende de lo que había entrado antes. Un remito de compra cargado con fecha del mes pasado cambia el costo de lo vendido de todas las ventas que vinieron después (ejemplo de esta base).
+Una fecha pasada no es inocente. La documentación de otro ERP de código abierto advierte dos cosas. No hay que correr la fecha contable para saltarse controles. Y un movimiento de stock con fecha anterior revaloriza todo lo posterior; la explicación de esta base es que el costo de cada salida depende de lo que había entrado antes. Un remito de compra cargado con fecha del mes pasado cambia el costo de lo vendido de todas las ventas que vinieron después (ejemplo de esta base).
 
 Por eso la fecha del hecho es un campo que se controla. Quién puede cargar una fecha anterior a cierto límite es de [permisos](permisos-y-separacion-de-funciones.md); hasta dónde llega el límite lo pone la fecha de bloqueo.
 
 ## Cómo falla el tiempo
 
-- **Una sola fecha.** Sin fecha de registro no se puede saber qué se informó en su momento; sin fecha del hecho, el retroactivo se mezcla con el mes en que se cargó.
-- **Pisar en lugar de versionar.** Una alícuota o un precio que se sobreescribe cambia los recálculos de documentos viejos.
-- **Editar la fecha de registro.** Fowler dice que cambiar hacia atrás el tiempo de registro rompe la integridad del registro; la cita completa está en [retroactivos y reliquidaciones](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/retroactivos-y-reliquidaciones.md#corregir-con-movimientos-nuevos).
-- **Un período que se reabre sin rastro.** Si el administrador mueve la fecha de bloqueo, el cambio tiene que quedar en la auditoría.
+- Una sola fecha. Sin fecha de registro no se puede saber qué se informó en su momento; sin fecha del hecho, el retroactivo se mezcla con el mes en que se cargó.
+- Pisar en lugar de versionar. Una alícuota o un precio que se sobreescribe cambia los recálculos de documentos viejos.
+- Editar la fecha de registro. Según la nota de nómina, Fowler dice que cambiar hacia atrás el tiempo de registro rompe la integridad del registro; la cita completa está en [retroactivos y reliquidaciones](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/retroactivos-y-reliquidaciones.md#corregir-con-movimientos-nuevos).
+- Un período que se reabre sin rastro. Si el administrador mueve la fecha de bloqueo, el cambio tiene que quedar en la auditoría.
 
 Los [reportes legales](reportes-operativos-y-legales.md) dependen de esta columna: un libro con corte a una fecha solo se puede volver a emitir igual si lo anterior al cierre no cambió. Lo que la norma argentina pide a un sistema sobre plazos y libros está en [software de gestión en la Argentina](../software-de-gestion-en-argentina.md).

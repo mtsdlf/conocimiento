@@ -43,14 +43,14 @@ Cómo leer las fuentes de este campo, y por qué casi todas tienen algo que vend
 |---|---|
 | «El 70 % de los ERP fracasan» | Pronóstico de un analista sobre «no cumplir del todo los objetivos», sin método publicado |
 | «El CHAOS lo prueba» | El informe no trata de ERP y sus definiciones están cuestionadas |
-| «Un ERP trae las mejores prácticas» | Discutido: la práctica del paquete se negocia, y encaja peor fuera de la contabilidad |
+| «Un ERP trae las mejores prácticas» | Discutido: los estudios son de un solo caso cada uno, y en uno de ellos el paquete encajó peor fuera de la contabilidad |
 | «La vainilla siempre conviene» | Sin evidencia fuerte a favor ni en contra |
 | «La nube siempre es más barata» | Las cifras a favor son de proveedores; no hay comparación independiente a escala |
 | «Toda pyme necesita un ERP» | Sin estudio; lo que obliga la norma es el comprobante, no el ERP |
 
 ## «El 70 % de los ERP fracasan»
 
-La cifra actual es de Gartner y es un pronóstico. Según el resumen de un documento de 2024, para 2027 más del 70 % de las iniciativas de ERP recientes no cumplirán del todo sus objetivos originales. En 2025 una directora de Gartner lo repitió en una conferencia: el 70 % «fail to fully meet their original business use case goals» y el 25 % «fail catastrophically». El diario que lo publicó anotó que no se explicó cómo se llegó a los porcentajes.
+La cifra actual es de Gartner y es un pronóstico. Según el resumen de un documento de 2024, para 2027 más del 70 % de las iniciativas de ERP recientes no cumplirán del todo sus objetivos originales. En 2025 una directora de Gartner lo repitió en una conferencia: el 70 % «fail to fully meet their original business use case goals» y el 25 % «fail catastrophically». El medio que lo publicó anotó que no se explicó cómo se llegó a los porcentajes.
 
 Las otras cifras no tienen documento. Una consultora dice que el 75 % empezó a circular en 2017 por un artículo en una red social profesional; otras citan «entre 55 % y 75 %» a Gartner sin informe. En la página de Gartner, según su resumen, el 75 % es otra cosa: las estrategias de ERP mal alineadas con las del negocio. Más atrás, Hitt, Wu y Zhou (2002) escriben que «at least 90 percent of ERP implementations end up late or over budget», con una cita de prensa. Y una consultora escribió en 2013 que «It's often been said that 80% or more of ERP implementations are considered failures», sin fuente, y que «there is no clear definition of what constitutes ERP failure».
 
@@ -64,31 +64,31 @@ Lo que miden las encuestas con muestra es otra cosa: presupuesto, plazo y benefi
 
 Son autoinformes de quien vende selección e implantación, y la serie salta de un año a otro.
 
-**Lo que no se sabe:** una tasa de fracaso de ERP medida con método y con una definición de fracaso; nada para pymes ni para Latinoamérica. El caso paralelo del CRM está en [mitos del CRM](../../Relacion-con-clientes/Fundamentos/mitos-del-crm.md).
+Lo que no se sabe: una tasa de fracaso de ERP medida con método y con una definición de fracaso; nada para pymes ni para Latinoamérica. El caso paralelo del CRM está en [mitos del CRM](../../Relacion-con-clientes/Fundamentos/mitos-del-crm.md).
 
 ## «El informe CHAOS lo prueba»
 
 El informe CHAOS del Standish Group es de proyectos de software en general, no de ERP. Sus cifras de 1994 y las críticas de Eveleens y Verhoef (2010), Glass y otros están en [mitos de gestión de proyectos](../../Gestion-de-proyectos/Fundamentos/mitos-de-gestion-de-proyectos.md#el-informe-chaos). No se encontró ninguna cifra de ERP atribuible a Standish.
 
-Lo que sí está medido apunta a otro lado. Flyvbjerg y Budzier (2011), con 1.471 proyectos de TI, hallaron un sobrecosto promedio de 27 %, pero según su abstract «Fully one in six of the projects in the sample was a Black Swan», con 200 % de sobrecosto promedio y casi 70 % de atraso. La afirmación defendible es que los proyectos de TI tienen una cola de desvíos enormes, no que la mayoría fracasa; la sigue [por qué fallan los proyectos](../../Gestion-de-proyectos/Incertidumbre-y-riesgo/por-que-fallan-los-proyectos.md).
+Lo que está medido apunta a otra cosa. Flyvbjerg y Budzier (2011), con 1.471 proyectos de TI, hallaron un sobrecosto promedio de 27 %, pero según su abstract «Fully one in six of the projects in the sample was a Black Swan», con 200 % de sobrecosto promedio y casi 70 % de atraso. En lectura de esta base, lo defendible es que los proyectos de TI tienen una cola de desvíos enormes, y no que la mayoría fracasa. Lo desarrolla [por qué fallan los proyectos](../../Gestion-de-proyectos/Incertidumbre-y-riesgo/por-que-fallan-los-proyectos.md).
 
-**Lo que no se sabe:** si un ERP tiene una cola más gruesa que otros proyectos de TI.
+Lo que no se sabe: si un ERP tiene una cola más gruesa que otros proyectos de TI.
 
 ## «Un ERP trae las mejores prácticas»
 
-Es la promesa del paquete: adoptarlo ordena la empresa con la práctica de muchas otras. Davenport (1998), según un resumen, respondió que el sistema «imposes its own logic» aunque los procesos propios sean fuente de ventaja. Soh, Sia y Tay-Yap (2000), según resúmenes, hallaron menos desajustes en contabilidad y finanzas, donde las normas internacionales estandarizan, y más en la atención de pacientes de un hospital. Wagner y Newell (2004), según su abstract, muestran que la «mejor práctica» se construye y se discute mientras se implanta.
+La promesa del paquete es que adoptarlo ordena la empresa con la práctica de muchas otras. Davenport (1998), según un resumen, respondió que el sistema «imposes its own logic» aunque los procesos propios sean fuente de ventaja. Soh, Sia y Tay-Yap (2000) estudiaron un hospital de Singapur y, según resúmenes, hallaron menos desajustes en contabilidad y finanzas, donde las normas internacionales dan algo de estandarización, y más en el sistema de atención de pacientes. Wagner y Newell (2004), según su abstract, estudiaron un paquete de «mejores prácticas» para una universidad y señalan una brecha entre la teoría declarada de la solución y la teoría en uso de quienes la instalan.
 
-En lectura de esta base, la práctica del paquete encaja donde el dominio ya está normado (la partida doble, el impuesto) y discute donde la empresa compite. Cómo se decide cada brecha está en [análisis de brechas](../Implementacion/analisis-de-brechas.md).
+En lectura de esta base, la práctica del paquete encaja donde el dominio ya está normado (la partida doble, el impuesto) y se discute donde la empresa compite. Cómo se decide cada brecha está en [análisis de brechas](../Implementacion/analisis-de-brechas.md).
 
-**Lo que no se sabe:** si adoptar la práctica del paquete rinde más que adaptarlo; son casos, no comparaciones.
+Lo que no se sabe: si adoptar la práctica del paquete rinde más que adaptarlo; son casos, no comparaciones.
 
 ## «La vainilla siempre conviene»
 
-Implantar sin personalizar se recomienda porque cada cambio se paga en cada actualización. Light (2001), en dos casos y según su abstract, no concluye «nunca personalizar»: concluye evaluar cada personalización por su efecto en el mantenimiento. Hong, Siau y Kim (2016), con 96 respuestas de pymes manufactureras coreanas, no hallaron efecto del nivel de personalización sobre el desempeño (según su resumen). La fe de erratas de Gattiker y Goodhue (2005) dice que sus hipótesis sobre personalización no se sostuvieron. Una consultora propone como «ideal» entre 10 y 20 % de personalización, sin método publicado.
+Se recomienda implantar sin personalizar porque cada cambio se paga en cada actualización. Light (2001), en dos casos y según su abstract, halla que personalizar puede dar valor y que cada personalización debe evaluarse por su efecto en el mantenimiento futuro. Hong, Siau y Kim (2016), con 96 respuestas de pymes manufactureras coreanas, no hallaron efecto del nivel de personalización sobre el desempeño (según su resumen). Según su resumen, la fe de erratas de Gattiker y Goodhue (2005) dice que sus hipótesis sobre personalización no se sostuvieron. Una consultora propone como «ideal» entre 10 y 20 % de personalización, sin método publicado.
 
-Gartner sostiene las dos cosas: en 2025 contó entre las causas de fracaso la personalización atada a los procesos existentes. El mecanismo y su costo están en [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md).
+Gartner contó en 2025 entre las causas de fracaso la personalización atada a los procesos existentes (según The Register). El mecanismo y su costo están en [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md).
 
-**Lo que no se sabe:** no hay un estudio fuerte que pruebe ni que refute la regla.
+Lo que no se sabe: no hay un estudio fuerte que pruebe ni que refute la regla.
 
 ## «La nube siempre es más barata»
 
@@ -96,12 +96,12 @@ Las cifras a favor son de parte. Una guía de una firma de análisis, patrocinad
 
 Las encuestas de «vuelta de la nube» que circulan son de infraestructura, no de ERP. Cómo se compara el costo de cada modelo está en [costo total para quien compra](../Mercado-y-economia/costo-total-para-quien-compra.md) y en [licencia y suscripción](../Mercado-y-economia/licencia-y-suscripcion.md).
 
-**Lo que no se sabe:** un costo total comparado de forma independiente, a varios años y con muchas empresas, y si alguna empresa dejó un ERP en la nube para volver a uno instalado.
+Lo que no se sabe: un costo total comparado de forma independiente, a varios años y con muchas empresas, y si alguna empresa dejó un ERP en la nube para volver a uno instalado.
 
 ## «Toda pyme necesita un ERP»
 
 Según el resumen de una encuesta de una firma de análisis de 2010, cerca del 70 % de 579 pymes no había invertido en un ERP, y la razón más citada fue «somos demasiado chicos» (39 %); el propio artículo aclara que eso no dice nada de si les convenía. Las que lo tienen siguen usando planillas: una tesis de la Universidad de Lund, según su resumen, halló un uso significativo en presupuestos aun con ERP y herramientas de análisis.
 
-En la Argentina, una pyme que factura tiene que emitir [comprobante electrónico](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md): la norma obliga a tener un facturador, no un ERP. Qué escalón le sirve a cada empresa está en [escalones por tamaño](../Categorias-de-producto/escalones-por-tamano.md), y las señales para dejar la planilla, en [cuándo pasar a una base](../../Planillas-de-calculo/cuando-pasar-a-una-base.md).
+En la Argentina, la norma exige emitir [comprobante electrónico](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md), y no tener un ERP; quién está obligado a emitirlo está en esa nota. Qué escalón le sirve a cada empresa está en [escalones por tamaño](../Categorias-de-producto/escalones-por-tamano.md), y las señales para dejar la planilla, en [cuándo pasar a una base](../../Planillas-de-calculo/cuando-pasar-a-una-base.md).
 
-**Lo que no se sabe:** no hay estudio que compare pymes con planilla y con sistema; nada de la Argentina.
+Lo que no se sabe: no hay estudio que compare pymes con planilla y con sistema; nada de la Argentina.

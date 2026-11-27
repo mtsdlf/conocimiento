@@ -60,7 +60,7 @@ Leyh (2012) cuenta el ajuste de reportes entre los tipos de adaptación que no t
 
 ## Cómo falla un reporte
 
-- **El libro que cambia.** Un libro de un período cerrado que da distinto al volver a emitirlo tiene un movimiento editado o un período reabierto.
-- **El reporte pesado en la hora pico.** Un análisis de años corriendo sobre la base que factura frena la facturación.
-- **El formato legal escrito en el código.** Cuando el fisco cambia el formato, cambia el programa y no un dato de configuración (lectura de esta base).
-- **El total que no se puede reconciliar.** Un total por dimensión que no cuadra con el total contable, porque la dimensión era optativa.
+- El libro que cambia. Un libro de un período cerrado que da distinto al volver a emitirlo tiene un movimiento editado o un período reabierto.
+- El reporte pesado en la hora pico. Un análisis de años corriendo sobre la base que factura frena la facturación.
+- El formato legal escrito en el código. Cuando el fisco cambia el formato, cambia el programa y no un dato de configuración (lectura de esta base).
+- El total que no se puede reconciliar. Un total por dimensión que no cuadra con el total contable, porque la dimensión era optativa.

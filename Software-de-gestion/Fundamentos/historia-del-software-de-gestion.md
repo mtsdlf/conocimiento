@@ -45,11 +45,11 @@ Las fechas del MRP no coinciden entre fuentes: otros textos lo ubican a fines de
 
 Según Wikipedia, «Gartner is credited with first using the acronym ERP in the 1990s»; otros textos dicen 1990, y esta base no encontró el documento de Gartner que lo acuñó. El término extendía el MRP y el MRP II a «a larger whole that reflected the evolution of application integration beyond manufacturing». Los primeros paquetes se armaron alrededor de finanzas, mantenimiento y personal, y a mediados de los noventa cubrían todas las funciones centrales.
 
-Davenport (1998), según un resumen, describió el sistema empresarial como una base central que alimenta aplicaciones modulares, y advirtió que imponía su propia lógica a la empresa. Ese artículo abre la discusión sobre adoptar o adaptar que sigue en [fundamentos](fundamentos-de-software-de-gestion.md#cuatro-posiciones-en-disputa).
+Davenport (1998), según un resumen, describió el sistema empresarial como una base central que alimenta aplicaciones modulares, y advirtió que imponía su propia lógica a la empresa. Ese artículo es una referencia de la discusión sobre adoptar o adaptar, que sigue en [fundamentos](fundamentos-de-software-de-gestion.md#cuatro-posiciones-en-disputa).
 
 ## El año 2000 como motor de reemplazo
 
-Según Wikipedia, «The year 2000 problem led many companies to replace old systems with ERP». En lectura de esta base, cambiar el sistema viejo por un paquete resolvía la fecha y prometía la integración en el mismo proyecto. Los casos de puesta en marcha que más se citan como fracaso son de esos años, y están en [puesta en marcha](../Implementacion/puesta-en-marcha.md).
+Según Wikipedia, «The year 2000 problem led many companies to replace old systems with ERP». En lectura de esta base, cambiar el sistema viejo por un paquete resolvía la fecha y prometía la integración en el mismo proyecto. Un caso de falla de corte de 1999 está en [puesta en marcha](../Implementacion/puesta-en-marcha.md).
 
 ## ERP II, postmoderno y componible
 
@@ -63,14 +63,14 @@ Desde el año 2000, Gartner propuso tres etiquetas para lo que venía después d
 
 La fecha del ERP postmoderno discrepa: el concepto se fecha en 2013 y la nota de prensa que lo hizo conocido es del 29 de enero de 2014. No se encontró si el pronóstico para 2020 se cumplió. Møller (2005) publicó una crítica académica de ERP II que esta base solo vio en un buscador.
 
-Las tres etiquetas repiten el mismo debate: [suite o lo mejor de cada clase](fundamentos-de-software-de-gestion.md#cuatro-posiciones-en-disputa), que Light y otros ya planteaban en 2000. En lectura de esta base, son posiciones de analista sobre cómo armar el software, no cambios medidos en lo que compran las empresas.
+En lectura de esta base, las tres etiquetas retoman el debate de [suite o lo mejor de cada clase](fundamentos-de-software-de-gestion.md#cuatro-posiciones-en-disputa), que Light y otros ya planteaban en 2000. Son posiciones de analista sobre cómo armar el software y no cambios medidos en lo que compran las empresas.
 
 ## La nube
 
-Según Wikipedia, los primeros productos de gestión que corrían solo en la nube aparecieron en 1999, y la adopción se aceleró a comienzos de los 2010. El CRM hizo el mismo camino en esos años, como cuenta [historia del CRM](../../Relacion-con-clientes/Fundamentos/historia-del-crm.md#qué-cambió-con-la-nube-y-qué-no). Lo que cambió con la nube fue sobre todo cómo se cobra y quién actualiza: la licencia perpetua con mantenimiento dio paso a la suscripción, y la guía de implantación de un proveedor grande presenta la actualización continua de la plataforma como parte del producto. Eso es del [mercado](../Mercado-y-economia/licencia-y-suscripcion.md) y de [después de la puesta en marcha](../Implementacion/despues-de-la-puesta-en-marcha.md).
+Según Wikipedia, los primeros productos de gestión que corrían solo en la nube aparecieron en 1999, y la adopción se aceleró a comienzos de los 2010. El CRM hizo el mismo camino en esos años, como cuenta [historia del CRM](../../Relacion-con-clientes/Fundamentos/historia-del-crm.md#qué-cambió-con-la-nube-y-qué-no). En lectura de esta base, la nube cambió sobre todo cómo se cobra y quién actualiza: la licencia perpetua con mantenimiento dio paso a la suscripción. La guía de implantación de un proveedor grande presenta la actualización continua de la plataforma como parte del producto. Eso es del [mercado](../Mercado-y-economia/licencia-y-suscripcion.md) y de [después de la puesta en marcha](../Implementacion/despues-de-la-puesta-en-marcha.md).
 
 ## Lo que no cambió
 
-Del MRP a la nube cambiaron las etiquetas, el alcance y la forma de cobrar. Las piezas de adentro siguieron siendo las mismas: el maestro de artículos, el documento que pasa por estados, el registro de movimientos que no se edita, el cierre de período. Esa continuidad es lo que este tema llama [columnas técnicas](../Columnas-tecnicas/columnas-tecnicas.md) (lectura de esta base, sin una fuente histórica que la estudie).
+Del MRP a la nube cambiaron las etiquetas, el alcance y la forma de cobrar. Las piezas de adentro siguieron igual: el maestro de artículos, el documento que pasa por estados, el registro de movimientos que no se edita, el cierre de período. Esa continuidad es lo que este tema llama [columnas técnicas](../Columnas-tecnicas/columnas-tecnicas.md) (lectura de esta base, sin una fuente histórica que la estudie).
 
 > [!NOTE] Sin fuente todavía: Jacobs y Weston (2007) leído entero; el documento de Gartner donde aparece la sigla ERP y su año exacto; el texto de «ERP Is Dead: Long Live ERP II»; una historia del software de gestión para pymes y de su llegada a la Argentina.

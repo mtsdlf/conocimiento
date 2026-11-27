@@ -42,7 +42,7 @@ La nube no cambia esa lógica: la profundiza. El cliente deja de comprar una lic
 
 ## Para el cliente, el software es la parte menor
 
-Lo que paga una empresa por un software de gestión es mucho más que la licencia: implantación, personalización y su costo en cada actualización, infraestructura, soporte y el tiempo de su propia gente. Las tres cifras que circulan sobre la proporción discrepan, y la más citada en lo académico (Hitt, Wu y Zhou, 2002) pone la licencia en 16 % del proyecto y la consultoría en 60 %. El detalle, con sus debilidades, está en [costo total para quien compra](costo-total-para-quien-compra.md). La consecuencia práctica es que comparar ofertas por el precio de la licencia elige mal.
+Lo que paga una empresa por un software de gestión es mucho más que la licencia: implantación, personalización y su costo en cada actualización, infraestructura, soporte y el tiempo de su propia gente. Las tres cifras que circulan sobre la proporción discrepan. Una, de Hitt, Wu y Zhou (2002), pone la licencia en 16 % del proyecto y la consultoría en 60 %. El detalle, con sus debilidades, está en [costo total para quien compra](costo-total-para-quien-compra.md). La consecuencia práctica es que comparar ofertas por el precio de la licencia elige mal.
 
 ## Cómo entra un producto nuevo
 
@@ -52,17 +52,17 @@ Un software nuevo no le gana a un sistema implantado por ser mejor: le gana a qu
 
 En lectura de esta base, a partir de las notas de la vertical:
 
-- **Venderse como consultora.** Un proveedor que factura más servicios que software tiene el margen de una consultora, no el de un producto.
-- **Pelear con el canal.** El proveedor que cambia el descuento o atiende directo a los clientes del partner pierde a quien vende e implanta por él.
-- **Prometer la implantación barata.** La estimación del proveedor sobre una demo se queda corta, el proyecto se pasa y el cliente culpa al producto.
-- **Quedar sin localización.** Un producto que no sigue los cambios de la norma de un país pierde a sus clientes en ese país, por bueno que sea el resto.
+- Venderse como consultora. Un proveedor que factura más servicios que software tiene el margen de una consultora, no el de un producto.
+- Pelear con el canal. El proveedor que cambia el descuento o atiende directo a los clientes del partner pierde a quien vende e implanta por él.
+- Prometer la implantación barata. La estimación del proveedor sobre una demo se queda corta, el proyecto se pasa y el cliente culpa al producto.
+- Quedar sin localización. Un producto que no sigue los cambios de la norma de un país pierde a sus clientes en ese país, por bueno que sea el resto.
 
 ## Lo que hay adentro de Mercado y economía
 
-- [Licencia y suscripción](licencia-y-suscripcion.md) — las formas de cobrar (licencia perpetua más mantenimiento, o suscripción) y las unidades de cobro (usuario, tipo de usuario, módulo, empresa, comprobante). Leer para poner precio.
-- [Canal de partners](canal-de-partners.md) — revendedores, integradores y centros de servicio: qué hace cada uno y cuánto se queda. Leer para armar o evaluar un canal.
-- [Ecosistema de extensiones](ecosistema-de-extensiones.md) — los módulos de terceros, la comisión de la tienda y por qué una extensión de gestión pesa más que una app. Corta: la teoría está en Producto.
-- [Economía del proveedor](economia-del-proveedor.md) — la mezcla de ingresos y el margen de cada línea en los informes anuales de proveedores grandes. Leer para entender de qué vive quien hace el software.
-- [Costo total para quien compra](costo-total-para-quien-compra.md) — de qué está hecho el costo del cliente, las tres cifras de licencia frente a implantación y cómo se arma la cuenta. Leer antes de elegir un sistema.
-- [Dónde entra un software nuevo](donde-entra-un-software-nuevo.md) — las cuatro puertas de entrada y la localización como barrera, con lo que es inferencia marcado. Leer antes de lanzar un producto.
-- [Mercado en la Argentina](mercado-en-argentina.md) — lo propio del mercado local: localización fiscal, canal de centros de servicio, precio por comprobante; lo fiscal, en [Impuestos](../../Impuestos/impuestos.md).
+- [Licencia y suscripción](licencia-y-suscripcion.md): las formas de cobrar (licencia perpetua más mantenimiento, o suscripción) y las unidades de cobro (usuario, tipo de usuario, módulo, empresa, comprobante). Leer para poner precio.
+- [Canal de partners](canal-de-partners.md): revendedores, integradores y centros de servicio: qué hace cada uno y cuánto se queda. Leer para armar o evaluar un canal.
+- [Ecosistema de extensiones](ecosistema-de-extensiones.md): los módulos de terceros, la comisión de la tienda y por qué una extensión de gestión pesa más que una app. Corta: la teoría está en Producto.
+- [Economía del proveedor](economia-del-proveedor.md): la mezcla de ingresos y el margen de cada línea en los informes anuales de proveedores grandes. Leer para entender de qué vive quien hace el software.
+- [Costo total para quien compra](costo-total-para-quien-compra.md): de qué está hecho el costo del cliente, las tres cifras de licencia frente a implantación y cómo se arma la cuenta. Leer antes de elegir un sistema.
+- [Dónde entra un software nuevo](donde-entra-un-software-nuevo.md): las cuatro puertas de entrada y la localización como barrera, con lo que es inferencia marcado. Leer antes de lanzar un producto.
+- [Mercado en la Argentina](mercado-en-argentina.md): lo propio del mercado local: localización fiscal, canal de centros de servicio, precio por comprobante; lo fiscal, en [Impuestos](../../Impuestos/impuestos.md).
