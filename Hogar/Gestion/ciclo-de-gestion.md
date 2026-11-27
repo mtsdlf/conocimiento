@@ -28,7 +28,7 @@ La administración de recursos familiares (*family resource management*) es la d
 
 ## Las etapas del ciclo
 
-Los libros de texto del campo presentan la gestión como una secuencia que se repite. La versión más citada en el informe de esta base sale de los capítulos del libro de Goldsmith:
+Los libros de texto del campo presentan la gestión como una secuencia que se repite. La versión que sigue sale de los capítulos del libro de Goldsmith:
 
 1. **Metas**: qué quiere lograr la casa, a partir de valores y actitudes de quienes viven en ella.
 2. **Recursos**: con qué se cuenta. No es solo plata: también tiempo, energía, habilidades y el espacio.
@@ -59,7 +59,7 @@ Con el tiempo, el campo pasó del «manejo del hogar», centrado en simplificar 
 
 No se encontró una revisión que pruebe empíricamente el ciclo completo. Lo que apareció es poco: una tesis de 1986 que probó un modelo de sistemas y dijo que sus resultados apoyaban «la amplia aplicabilidad» del modelo, y otra tesis que deja la prueba empírica como tarea pendiente. Las dos se conocen solo por el resumen del buscador.
 
-El informe de investigación lo lee, como inferencia propia, así: el ciclo es un marco organizador y didáctico, y su evidencia es indirecta, porque cada pieza (las metas compartidas, la comunicación) se estudia por separado. El informe de posición contraria agrega que los manuales son enseñanza, no evaluación, y que no se buscó evidencia de que aplicar el ciclo mejore los resultados de una casa.
+Como inferencia, y no como resultado de un estudio: el ciclo es un marco organizador y didáctico, y su evidencia es indirecta, porque cada pieza (las metas compartidas, la comunicación) se estudia por separado. Los manuales son enseñanza, no evaluación, y no se buscó evidencia de que aplicar el ciclo mejore los resultados de una casa.
 
 En la práctica, el ciclo sirve como lenguaje común. Ayuda a ver en qué etapa se traba una casa: si nadie fija metas, si se decide sin mirar los recursos o si nunca se evalúa. Esa última etapa es la que intentan sostener las [rutinas y sistemas](rutinas-y-sistemas.md) y la [reunión de la casa](reunion-de-la-casa.md). Y la división entre quien piensa el ciclo y quien solo ejecuta es la que estudia el [dueño de la tarea](dueno-de-la-tarea.md).
 

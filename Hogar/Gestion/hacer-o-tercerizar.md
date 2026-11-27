@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Hacer o tercerizar es la decisión de qué trabajo de la casa se hace con tiempo propio y cuál se paga para que lo haga otra persona, un servicio o una máquina; la evidencia separa dos preguntas: si comprar tiempo mejora el bienestar y si tercerizar cambia el reparto en la pareja.
+  Hacer o tercerizar es la decisión de qué trabajo de la casa se hace con tiempo propio y cuál se paga para que lo haga otra persona, un servicio o una máquina. La evidencia separa dos preguntas: si comprar tiempo mejora el bienestar y si tercerizar cambia el reparto en la pareja.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -20,6 +20,7 @@ fuentes:
   - "Artículo sobre la paradoja de Cowan (Mokyr), resumen del buscador: https://muse.jhu.edu/article/889774/summary"
   - "Bittman, Rice y Wajcman (2004), British Journal of Sociology 55(3):401-423, resumen del repositorio: https://openresearch-repository.anu.edu.au/items/69e28c23-1065-4788-a26f-39fc09408f25/full"
   - "Harms (UCL), sobre la constancia del trabajo doméstico, resumen del buscador: https://discovery-pp.ucl.ac.uk/10072385/1/Harms_sow073.pdf"
+  - "Gershuny, réplica a Bittman, Rice y Wajcman, abstract: https://www.iser.essex.ac.uk/research/publications/publication-508229"
   - "INDEC, ENUT 2021, resultados definitivos, cuadro 31, texto completo (vía Hogar/Fundamentos/enut-2021.md)"
   - "Hogar/.investigacion/gestion.md (sección 5) y posicion-contraria.md (sección 5)"
 aliases: [tercerizar, delegar tareas, comprar tiempo, outsourcing doméstico, buying time, servicio doméstico, paradoja de Cowan]
@@ -48,7 +49,7 @@ El efecto resultó menos firme después:
 - No se encontró una réplica directa del experimento de 2017.
 - Mide la felicidad de un fin de semana, no un efecto sostenido ni lo que pasa con el reparto en la pareja.
 
-En resumen: gastar en ahorrar tiempo se asocia con más bienestar y hay un experimento chico a favor, pero el efecto aparece menos firme en un análisis posterior y no se probó a largo plazo.
+Así, gastar en ahorrar tiempo se asocia con más bienestar y hay un experimento chico a favor, pero el efecto aparece menos firme en un análisis posterior y no se probó a largo plazo.
 
 > [!NOTE] Sin fuente todavía: quién puede tercerizar según su ingreso. Que un hogar con pocos recursos no puede comprar tiempo es una inferencia sin estudio citado.
 

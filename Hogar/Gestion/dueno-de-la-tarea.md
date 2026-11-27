@@ -61,7 +61,7 @@ Un estudio posterior con 30 padres no residentes y 72 residentes encontró que e
 
 El *gatekeeping* también se asocia con cómo les va a los chicos. En 182 parejas, que la madre percibiera que cerraba la puerta a los tres meses se asoció con más desregulación y más conductas externalizantes del chico a los 26 meses; abrir la puerta, observado, se asoció con menos desregulación (Altenburger y Schoppe-Sullivan, 2021, según su abstract).
 
-Casi toda esta literatura es sobre la crianza de bebés y chicos chicos. El informe de investigación advierte, como inferencia propia, que no hay evidencia para parejas sin hijos ni para tareas domésticas sin crianza de por medio.
+Casi toda esta literatura es sobre la crianza de bebés y chicos chicos. Como inferencia a partir de esas muestras: no hay evidencia para parejas sin hijos ni para tareas domésticas sin crianza de por medio.
 
 ## Fair Play, un método de practicantes
 
@@ -74,7 +74,7 @@ La única evaluación encontrada es un informe de la Universidad del Sur de Cali
 - mostró más igualdad, con cambios modestos, mayores en lo cognitivo que en lo físico;
 - no fue aleatorizado, informó solo un miembro de cada pareja, no tuvo revisión por pares y se hizo en coordinación con el Fair Play Policy Institute y una empresa de salud.
 
-Daminger lo llama «la mejor herramienta de bajo costo que vi» y pide estudios más grandes y aleatorizados. El informe de posición contraria lo resume así: no hay evaluación independiente conocida, y el método sirve como lenguaje común para conversar, no como método probado.
+Daminger lo llama «la mejor herramienta de bajo costo que vi» y pide estudios más grandes y aleatorizados. No se encontró una evaluación independiente, y el método sirve como lenguaje común para conversar, no como método probado.
 
 Hay críticas de diseño. Lyman Stone, en un texto de opinión, sostiene que contar cartas mide mal la carga real y que el juego ignora el trabajo pago; sus números salen de su propia casa y no son evidencia.
 

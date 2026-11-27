@@ -31,7 +31,7 @@ Dentro del [trabajo del hogar](trabajo-del-hogar.md) es la parte que no se ve. L
 
 ## Las cuatro etapas de Daminger
 
-El estudio de referencia es el de la socióloga Daminger (2019), que llama a este trabajo *cognitive labor* (trabajo cognitivo). Lo divide en cuatro etapas:
+El estudio de referencia es el de Daminger (2019), que llama a este trabajo *cognitive labor* (trabajo cognitivo). Lo divide en cuatro etapas:
 
 1. **Anticipar** las necesidades: darse cuenta de que algo va a hacer falta antes de que falte.
 2. **Identificar opciones** para cubrirlas: averiguar dónde, cuál, cuánto cuesta.
@@ -42,7 +42,7 @@ Daminger insiste en que no es una categoría más de tareas. Según el abstract 
 
 ## Quién hace cada etapa, según 35 parejas
 
-La base es chica y cualitativa: 70 entrevistas a los miembros de 35 parejas de clase media y media alta de Estados Unidos, y la comparación por género usa las 32 parejas heterosexuales. Según el abstract, «women in this study do more cognitive labor overall and more of the anticipation and monitoring work in particular», mientras que la participación en decidir es «roughly equal». Con ese tamaño se describe cómo funciona el trabajo cognitivo, no cuántas parejas lo reparten así.
+La base es chica y cualitativa: 70 entrevistas a los miembros de 35 parejas de clase media y media alta, y la comparación por género usa las 32 parejas heterosexuales. Según el abstract, «women in this study do more cognitive labor overall and more of the anticipation and monitoring work in particular», mientras que la participación en decidir es «roughly equal». Con ese tamaño se describe cómo funciona el trabajo cognitivo, no cuántas parejas lo reparten así.
 
 Según la nota de divulgación de JSTOR Daily sobre el artículo, las mujeres hicieron más trabajo cognitivo en 26 de las 32 parejas. En promedio lideraban 4,6 de las 9 áreas, los varones 1,6 y 2,2 eran compartidas; los varones lideraban sobre todo el mantenimiento y las finanzas. La misma nota cita a Daminger: los varones participan de un modo que les permite «maximize the ratio of power exerted to labor completed», porque se concentran en decidir, y la anticipación es un trabajo «that cannot be confined to a to-do list». Estas cifras no se cotejaron con el artículo.
 
@@ -50,7 +50,7 @@ Según un resumen de su tesis, Daminger también encontró unas pocas parejas no
 
 ## Trabajo cognitivo, trabajo emocional y carga mental
 
-Los términos no son sinónimos, aunque se usen como tales. El trabajo emocional (*emotion work*) viene de la socióloga Arlie Hochschild, que lo introdujo en 1979 y lo amplió en 1983. Según una enciclopedia, Hochschild lo separa del *emotional labor*, que es el manejo de las emociones que se vende por un salario: «the management of feeling to create a publicly observable facial and bodily display [that is] sold for a wage». Lo estudió en azafatas y cobradores de deudas. El *emotion work* es el mismo esfuerzo en la vida privada y sin pago, como sostener el ánimo de la familia o anticipar un conflicto.
+Los términos no son sinónimos, aunque se usen como tales. El trabajo emocional (*emotion work*) viene de Hochschild, que lo introdujo en 1979 y lo amplió en 1983. Según una enciclopedia, Hochschild lo separa del *emotional labor*, que es el manejo de las emociones que se vende por un salario: «the management of feeling to create a publicly observable facial and bodily display [that is] sold for a wage». Lo estudió en azafatas y cobradores de deudas. El *emotion work* es el mismo esfuerzo en la vida privada y sin pago, como sostener el ánimo de la familia o anticipar un conflicto.
 
 Las definiciones de la carga mental no coinciden entre autores:
 

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La reunión de la casa es un encuentro a intervalos fijos en que quienes conviven revisan cómo va la organización y acuerdan cambios; viene del consejo familiar de la psicología adleriana y no tiene estudios de resultados que muestren que funcione.
+  La reunión de la casa es un encuentro a intervalos fijos en que quienes conviven revisan cómo va la organización y acuerdan cambios. Viene del consejo familiar de la psicología adleriana y no tiene estudios de resultados que muestren que funcione.
 estado: borrador
 estabilidad: semi
 fuentes:

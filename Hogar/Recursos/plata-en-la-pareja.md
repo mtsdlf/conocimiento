@@ -10,7 +10,9 @@ fuentes:
   - "Vogler y Pahl 1994, Sociological Review 42(2):263-288 — https://www.doi.org/10.1017/S0047279400001367 (resumen del buscador); otra versión: https://econpapers.repec.org/RePEc:sae:woemps:v:7:y:1993:i:1:p:71-95"
   - "Pahl 1989, Money and Marriage (Macmillan) — no leído; citado por Vogler y Pahl y por revisiones"
   - "Gladstone, Garbinsky y Mogilner 2018, borrador sin publicar — https://anderson-review.ucla.edu/wp-content/uploads/2021/03/Gladstone-Garbinsky-Mogilner_Pooling_Finances_and_Relationship_Satisfaction_2018.pdf (resumen del buscador)"
+  - "Lennon y Rosenfield 1994, American Journal of Sociology 100(2):506-531 — https://www.journals.uchicago.edu/doi/10.1086/230545 (resumen del buscador)"
   - "Hogar/.investigacion/recursos-y-fundamentos.md (sección A2)"
+  - "Hogar/.investigacion/posicion-contraria.md (sección 3)"
 aliases: [plata en la pareja, dinero en la pareja, manejo del dinero en la pareja, cuentas conjuntas, cuenta conjunta, cuentas separadas, fondo común, pooling, money management in couples, sistemas de manejo del dinero]
 creado: 2026-11-27
 revisado:
@@ -24,14 +26,7 @@ Dentro de los [recursos del hogar](recursos-del-hogar.md), la plata es el recurs
 
 ## Los sistemas de manejo del dinero de Pahl
 
-La socióloga británica Jan Pahl describió en 1989, en *Money and Marriage*, las formas en que una pareja maneja sus ingresos. Las cuatro que se citan de ese libro son estas; el libro no se leyó, y las definiciones salen de cómo lo resumen otros trabajos:
-
-| Sistema | Cómo funciona |
-|---|---|
-| Salario completo (*whole wage*) | Uno de los dos administra todo el ingreso del hogar, y el otro recibe una suma para sus gastos personales. |
-| Asignación (*allowance*) | Uno le pasa al otro una suma fija para los gastos de la casa y maneja el resto. |
-| Fondo común (*pooling*) | Los ingresos se juntan en un pozo al que los dos tienen acceso. |
-| Manejo independiente | Cada uno maneja su ingreso y se reparten los gastos. |
+Pahl describió en 1989, en *Money and Marriage*, cuatro formas en que una pareja maneja sus ingresos: el **salario completo** (*whole wage*), en que uno de los dos administra todo el ingreso y el otro recibe dinero para sus gastos personales; la **asignación** (*allowance*); el **fondo común** (*pooling*), en que los ingresos se juntan; y el **manejo independiente**. El libro no se leyó: los nombres y la descripción del salario completo salen de cómo lo citan otros trabajos, y la definición textual de cada sistema no se verificó.
 
 Vogler y Pahl (1994), con datos británicos, distinguen seis sistemas en lugar de cuatro. Según un resumen, su hallazgo central es que, aun cuando la pareja dice que pone todo en común, en la práctica el marido o la esposa suele controlar ese fondo. La desigualdad entre los dos fue menor en los hogares donde el fondo común se controlaba de verdad en conjunto. Una referencia fecha ese trabajo en 1993; la ficha de la revista dice 1994.
 
@@ -52,6 +47,6 @@ Los propios autores ponen límites. Unir solo una parte no dio los mismos benefi
 
 Olson y Vogler y Pahl parecen decir cosas distintas, pero miden cosas distintas. Olson sugiere que la cuenta unida se asocia con una relación que no se desgasta. Vogler y Pahl muestran que unir no garantiza decidir juntos, porque el fondo común puede estar en manos de uno. Juntas, las dos fuentes dejan una pregunta que ninguna contesta: si una cuenta conjunta controlada por una sola persona tiene el mismo efecto que una controlada por las dos.
 
-Quién decide sobre la plata se vincula con la [equidad percibida](../Reparto/equidad-percibida.md): una de las explicaciones de por qué alguien ve justo un reparto desigual es que tiene menos recursos y menos opciones fuera de la pareja.
+Quién decide sobre la plata se vincula con la [equidad percibida](../Reparto/equidad-percibida.md): según un resumen de Lennon y Rosenfield (1994), las mujeres con menos recursos y menos alternativas fuera del matrimonio ven más justo un reparto desigual.
 
 > [!NOTE] Sin fuente todavía: datos de cómo manejan la plata las parejas en Argentina, las definiciones textuales de Pahl (1989) y los seis sistemas de Vogler y Pahl (1994) leídos en el original, y una réplica independiente del experimento de Olson.

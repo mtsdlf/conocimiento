@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Las rutinas y los sistemas de una casa son las formas fijas de hacer el trabajo (horarios, listas, turnos, reglas de cuándo algo está hecho) que evitan decidir todo de nuevo cada vez; la evidencia que hay es sobre rutinas familiares y caos del hogar, casi toda con niños y correlacional.
+  Las rutinas y los sistemas de una casa son las formas fijas de hacer el trabajo (horarios, listas, turnos, reglas de cuándo algo está hecho) que evitan decidir todo de nuevo cada vez. La evidencia que hay es sobre rutinas familiares y caos del hogar, casi toda con niños y correlacional.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -46,7 +46,7 @@ El reverso de las rutinas es el caos del hogar: ruido, gente que entra y sale, f
 
 Una revisión de alcance (un mapa de lo publicado, no un metaanálisis que combine resultados) de Marsh, Dobson y Maddison (2020) reunió 112 análisis de 111 estudios. Según el comentario de Emond, que se leyó entero, encontró «evidencia consistente» de asociaciones entre el caos y peores resultados en chicos, padres y familias. Pero el 53,6 % de los estudios eran transversales, el 43,8 % longitudinales y solo el 1,8 % experimentales, y el comentario concluye que «la dirección de la causalidad sigue siendo desconocida».
 
-Dos estudios recientes, conocidos por su abstract, siguen la misma línea. Más caos se asoció con peor función ejecutiva (la capacidad de planificar y controlar la propia conducta) en adolescentes, con 220 díadas madre-adolescente y 139 padre-adolescente. En 74 díadas con bebés de 12 meses, los cuidadores de hogares caóticos respondían menos a las vocalizaciones negativas del bebé (llanto y quejas).
+Dos estudios recientes, conocidos por su abstract, siguen la misma línea. Más caos se asoció con peor función ejecutiva (la capacidad de planificar y controlar la propia conducta) en adolescentes, con 220 díadas madre-adolescente y 139 padre-adolescente. En 74 díadas con bebés de 12 meses, los cuidadores de hogares caóticos respondían menos a las vocalizaciones negativas del bebé.
 
 ## Asociación no es causa
 
@@ -55,7 +55,7 @@ Que las casas con rutinas o con menos caos tengan mejores resultados no prueba q
 > [!IMPORTANT]
 > **¿El caos causa problemas o los acompaña?** Un estudio de gemelos británico (TEDS, 6.286 pares) halló que el efecto del caos sobre la conducta disruptiva posterior era ambiental, y que la genética de esa conducta no explicaba el caos. En cambio, un estudio de 2022 encontró que el riesgo genético de TDAH del chico se asocia con más caos en la casa, lo que pone en duda que el caos cause los síntomas. Una nota de divulgación de 2026 sobre otro estudio de gemelos atribuye la asociación entre caos y notas escolares a factores compartidos por la familia. Las tres fuentes se conocen solo por resúmenes; la tercera no identifica el estudio original.
 
-La segunda explicación es que las rutinas sean un indicador de recursos: una familia con tiempo, ingresos y estabilidad puede sostener más rutinas. Es una inferencia del informe de investigación, sin fuente que la pruebe.
+La segunda explicación es que las rutinas sean un indicador de recursos: una familia con tiempo, ingresos y estabilidad puede sostener más rutinas. Es una inferencia, sin fuente que la pruebe.
 
 Un metaanálisis de 57 estudios sobre comidas en familia, conocido por el resumen del buscador, ilustra el tamaño típico: comer juntos más seguido se asocia con mejor dieta y menor índice de masa corporal en los chicos, con efectos pequeños.
 

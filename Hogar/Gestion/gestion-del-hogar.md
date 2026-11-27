@@ -29,13 +29,13 @@ No hay un campo único que estudie la gestión de una casa. Lo que acá se junta
 | Sociología del trabajo doméstico | Quién hace qué, quién se hace responsable y qué cambia cuando se paga a otro | El [dueño de la tarea](dueno-de-la-tarea.md) y [hacer o tercerizar](hacer-o-tercerizar.md) |
 | Psicología de la familia | Cómo las rutinas, el desorden y la comunicación afectan a quienes conviven | [Rutinas y sistemas](rutinas-y-sistemas.md) y, de costado, la [reunión de la casa](reunion-de-la-casa.md) |
 
-Según el informe de investigación de esta base, solo el ciclo es «gestión» en sentido académico: los manuales del campo se ordenan por proceso (metas, recursos, decisión, plan, ejecución, evaluación) y por recurso (tiempo, dinero, energía). El índice del libro de texto de Goldsmith tiene capítulos de Comunicación, Tiempo y Trabajo y familia, pero ninguno sobre reuniones ni sobre hacerse cargo de una tarea. Los otros componentes de esta vertical se armaron porque sirven a quien organiza una casa, y cada uno toma su evidencia de donde la hay.
+Solo el ciclo es «gestión» en sentido académico: los manuales del campo se ordenan por proceso (metas, recursos, decisión, plan, ejecución, evaluación) y por recurso (tiempo, dinero, energía). El índice del libro de texto de Goldsmith tiene capítulos de Comunicación, Tiempo y Trabajo y familia, pero ninguno sobre reuniones ni sobre hacerse cargo de una tarea. Los otros componentes de esta vertical se armaron porque sirven a quien organiza una casa, y cada uno toma su evidencia de donde la hay.
 
 ## Qué tan probado está cada componente
 
 La evidencia es despareja, y conviene saberlo antes de leer cada nota. El ciclo de gestión es un marco para pensar y enseñar: no se encontró un estudio que pruebe que aplicarlo mejore algo. Las rutinas tienen una literatura amplia, pero casi toda sobre familias con niños y casi toda correlacional (muestra que dos cosas van juntas, no que una cause la otra). La idea de ser dueño de una tarea se apoya en estudios del trabajo cognitivo, con muestras chicas. La reunión de la casa no tiene estudios de resultados. Tercerizar tiene estudios cuantitativos, que discrepan entre sí sobre si cambia el reparto.
 
-Los métodos de divulgación, como *Fair Play* de Eve Rodsky, se citan como prácticas de sus autores. Según el informe de posición contraria, no hay una evaluación independiente ni revisada por pares de esos métodos; sirven como lenguaje común para conversar, no como método probado.
+Los métodos de divulgación, como *Fair Play* de Eve Rodsky, se citan como prácticas de sus autores. No se encontró una evaluación independiente ni revisada por pares de esos métodos; sirven como lenguaje común para conversar, no como método probado.
 
 ## Cómo falla la gestión de una casa
 
