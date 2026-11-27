@@ -110,6 +110,6 @@ La RT 54 trae su propio procedimiento de ajuste, en los párrafos 176 a 200: usa
 > Sin fuente todavía:
 > - Si la RT 6 sigue vigente al lado de la RT 54. El procedimiento nació en la RT 6 y la RT 54 tiene el suyo, pero la FACPCE sigue publicando índices para aplicar las dos, y ningún texto leído de la FACPCE enumera las derogaciones.
 > - Si la economía argentina sigue siendo hiperinflacionaria en 2026 bajo la NIC 29.
-> - El texto de las Res. JG 553/19 y 584/21 (las que modificaron la 539/18), y un ejemplo de reexpresión con cifras: la guía de aplicación de la FACPCE sobre la RT 6 y la NIC 29 trae ejercicios, pero no se pudo abrir.
+> - El texto de las Res. JG 553/19 y 584/21 (las que modificaron la 539/18), y un ejemplo de reexpresión de un estado completo con cifras. La guía de aplicación de la FACPCE sobre la RT 6 y la NIC 29 se leyó solo en parte: la pregunta 29 y el caso 5, sobre el impuesto diferido de un terreno reexpresado, que están en [impuesto diferido en Argentina](impuesto-diferido-en-argentina.md).
 
 Para quien construye un sistema que se usa en Argentina, el ajuste pide guardar la fecha de origen de cada partida no monetaria (un bien de uso, el capital aportado), que se reexpresa con el índice de su mes de origen. Es una inferencia sobre cómo funciona un índice general de precios, no el texto de una norma.
