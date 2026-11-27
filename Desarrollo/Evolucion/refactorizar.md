@@ -25,13 +25,13 @@ Refactorizar es cambiar la estructura interna del código sin cambiar su comport
 
 La referencia es *Refactoring*, de Martin Fowler: la primera edición es de 1999 y la segunda, de 2018. Según la página del libro, la segunda edición recorre de punta a punta un caso inicial, tiene capítulos sobre malos olores del código y sobre el papel de las pruebas, y un catálogo de unas setenta refactorizaciones, cada una con su motivación, su mecánica y un ejemplo.
 
-El catálogo da nombres a los cambios: extraer una función, mover un campo, reemplazar un condicional por polimorfismo. Esos nombres sirven para pedirle un cambio preciso a un agente y para revisar lo que hizo. Un pedido como "extraé esta función y no cambies nada más" se verifica mucho mejor que "mejorá este código".
+El catálogo da un nombre a cada cambio, y esos nombres sirven para pedirle un cambio preciso a un agente y para revisar lo que hizo. Un pedido como "extraé esta función y no cambies nada más" se verifica mejor que "mejorá este código" (inferencia de esta base).
 
 ## Por qué sin pruebas no es refactorizar
 
-La definición hace de la refactorización una especificación verificable: después del cambio, todo lo que el sistema hacía tiene que seguir igual. La única forma barata de comprobarlo es una suite que fije ese comportamiento y que se corra después de cada paso. Sin esa suite, un cambio de forma puede romper algo y nadie se entera hasta que lo ve el cliente.
+La definición hace de la refactorización una especificación verificable: después del cambio, todo lo que el sistema hacía tiene que seguir igual. Para esta base, la forma barata de comprobarlo es una suite que fije ese comportamiento y se corra después de cada paso; sin ella, el cambio de forma queda sin verificar (inferencia propia, sin fuente).
 
-Por eso el orden importa. Si el código no tiene pruebas, primero se escriben pruebas de caracterización sobre lo que hace hoy, como se explica en [sistema heredado](sistema-heredado.md), y recién después se refactoriza. Si las pruebas están atadas a la implementación (prueban cómo está hecho y no qué hace), cada refactorización las rompe; ese es el argumento del panal de Spotify contra muchas pruebas de unidad finas, en la [pirámide de pruebas](../Verificacion/piramide-de-pruebas.md).
+Por eso el orden importa. Si el código no tiene pruebas, primero se escriben pruebas de caracterización sobre lo que hace hoy, como se explica en [sistema heredado](sistema-heredado.md), y recién después se refactoriza. Si las pruebas están atadas a la implementación (prueban cómo está hecho y no qué hace), refactorizar obliga a cambiarlas; ese es el argumento del panal de Spotify contra muchas pruebas de unidad finas, en la [pirámide de pruebas](../Verificacion/piramide-de-pruebas.md).
 
 Refactorizar es también la forma de pagar la [deuda técnica](deuda-tecnica.md): de a pasos, en las zonas que cambian seguido, como parte del trabajo normal.
 
@@ -42,7 +42,7 @@ Hay estudios recientes, todos preprints conocidos por su resumen. Uno, sobre pul
 > [!NOTE]
 > Sin fuente todavía: los estudios hallados detectan refactorizaciones con herramientas de análisis y miden malos olores, pero ninguno verifica ejecutando pruebas si el agente preservó el comportamiento. No se sabe con evidencia qué tan seguido un agente cambia lo que el código hace cuando dice que solo lo reordenó.
 
-A la vez, según GitClear (que vende análisis de código), el código movido, que es la señal de refactorización en un diff, bajó de 24,1 % a 9,5 % de las líneas cambiadas entre 2020 y 2024. Se refactoriza menos justo cuando la herramienta lo hace más barato.
+A la vez, según GitClear (que vende análisis de código), el código movido, que es la señal de refactorización en un diff, bajó de 24,1 % a 9,5 % de las líneas cambiadas entre 2020 y 2024. Esta base lo lee como señal de que se refactoriza menos justo cuando la herramienta lo hace más barato, aunque el estudio es observacional y no prueba la causa.
 
 ## Cómo se le pide una refactorización a un agente
 

@@ -31,7 +31,7 @@ Antes de Definición está la decisión de qué construir, que es de Producto: e
 
 ## Qué tiene que estar escrito antes de que se escriba código
 
-Con agentes de código, lo que no está escrito no existe para quien construye. Las guías de los fabricantes de agentes coinciden en lo mínimo. OpenAI pide estructurar el pedido con objetivo, contexto, restricciones y una condición de "Done when". Anthropic recomienda darle al agente "something it can run that comes back pass or fail" y, antes de dejarlo trabajar solo, preguntarse primero si sabe qué es estar terminado: "A goal condition, a spec file, or a failing test it has to turn green."
+Las guías de los fabricantes de agentes coinciden en lo mínimo que tiene que estar escrito para un agente. OpenAI pide estructurar el pedido con objetivo, contexto, restricciones y una condición de "Done when". Anthropic recomienda darle al agente "something it can run that comes back pass or fail" y, antes de dejarlo trabajar solo, preguntarse primero si sabe qué es estar terminado: "A goal condition, a spec file, or a failing test it has to turn green."
 
 De ahí salen los cuatro productos de esta vertical, que se apoyan uno en otro:
 
@@ -42,18 +42,18 @@ De ahí salen los cuatro productos de esta vertical, que se apoyan uno en otro:
 | Los ejemplos verificables | cómo se sabe que está terminado | [criterios de aceptación](criterios-de-aceptacion.md) |
 | Las tareas | en qué pedazos se construye y se comprueba | [descomposición en tareas](descomposicion-en-tareas.md) |
 
-Por debajo de los cuatro corre el [modelo de dominio](modelo-de-dominio.md): el vocabulario del negocio, que tiene que ser el mismo en la conversación con el cliente, en la especificación y en el código. Un agente que mezcla dos palabras para la misma cosa produce dos conceptos en el código.
+Por debajo de los cuatro corre el [modelo de dominio](modelo-de-dominio.md): el vocabulario del negocio, que tiene que ser el mismo en la conversación con el cliente, en la especificación y en el código. Según blogs de practicantes, sin medición, un agente tiende a mezclar o inventar términos: dos palabras para la misma cosa pueden terminar como dos conceptos en el código.
 
 ## El documento gigante pierde peso, la especificación por tramos gana
 
-Hay una tensión que la vertical tiene que sostener. El documento de requisitos completo, escrito al principio y congelado, pierde peso. Al mismo tiempo, el desarrollo guiado por especificaciones vuelve a poner un texto escrito antes del código, y lo hace el insumo principal del agente.
+El documento de requisitos completo, escrito al principio y congelado, pierde peso. Al mismo tiempo, el desarrollo guiado por especificaciones vuelve a poner un texto escrito antes del código, y lo hace el insumo principal del agente.
 
-Lo que pierde peso es la forma, no la idea de escribir antes. Böckeler, que probó las herramientas de especificación para agentes, dice: "I'm very skeptical that lots of up-front spec design is a good idea" y "The past has shown that the best way for us to stay in control of what we're building are small, iterative steps". El estudio de Agarwal y otros sobre la práctica real (21 entrevistas y 266 repositorios, preprint) encuentra que las especificaciones se usan de forma selectiva, sobre todo en funcionalidades nuevas, y que las que traen detalles de implementación tienden a quedar viejas. Menzies y otros, sobre 171 proyectos, no encontraron evidencia consistente de que arreglar un defecto tarde cueste mucho más (según su resumen), lo que debilita el argumento económico de especificar todo antes.
+Lo que pierde peso es la forma, no la idea de escribir antes. Böckeler, que probó las herramientas de especificación para agentes, dice: "I'm very skeptical that lots of up-front spec design is a good idea" y "The past has shown that the best way for us to stay in control of what we're building are small, iterative steps". Según su resumen, el estudio de Agarwal y otros sobre la práctica real (21 entrevistas y 266 repositorios, preprint) encuentra que las especificaciones se usan de forma selectiva, sobre todo en funcionalidades nuevas, y que las que traen detalles de implementación tienden a quedar viejas. Menzies y otros, sobre 171 proyectos, no encontraron evidencia consistente de que arreglar un defecto tarde cueste mucho más (según su resumen), lo que debilita el argumento económico de especificar todo antes.
 
 > [!IMPORTANT]
 > No hay un estudio que compare el documento de requisitos completo con la especificación por tramos. Que pierda peso el documento único y congelado, y no la especificación de cada cambio chico, es criterio de esta base, apoyado en Böckeler (práctica) y en Menzies (indirecto). Las normas siguen describiendo documentos de requisitos: ISO/IEC/IEEE 29148:2018 "defines the construct of a good requirement, provides attributes and characteristics of requirements".
 
-De las normas sigue sirviendo el vocabulario de qué hace bueno a un requisito y la diferencia entre requisito y diseño. Cómo se aplica eso a una especificación chica está en [especificación](especificacion.md).
+Criterio de esta base: de las normas sigue sirviendo el vocabulario de qué hace bueno a un requisito y la diferencia entre requisito y diseño. Cómo se aplica eso a una especificación chica está en [especificación](especificacion.md).
 
 ## La evidencia sobre especificar para agentes es mixta
 
@@ -62,13 +62,13 @@ El desarrollo guiado por especificaciones (spec-driven development) es una prác
 > [!IMPORTANT]
 > No hay estudio empírico que respalde el desarrollo guiado por especificaciones con agentes. Hill (ESEM 2026), sobre 88.052 pull requests de 119 repositorios, no encontró efecto de la calidad de la especificación sobre defectos (p = 0,164) ni sobre retrabajo (p = 0,860); el propio autor aclara que lo medido son sobre todo enlaces a tickets y que ningún repositorio de la muestra versiona la salida de herramientas de especificación. A favor hay solo evidencia acotada, sobre generación de pruebas. Thoughtworks lo puso en "Assess" en su Radar de noviembre de 2025. El detalle está en [especificación](especificacion.md).
 
-Lo que sí tiene respaldo amplio es la capa de abajo: el ejemplo ejecutable que da pasa o falla. Esa es la parte de la vertical que menos cambió con los agentes, y vive en [criterios de aceptación](criterios-de-aceptacion.md).
+Las guías de Anthropic y OpenAI piden, como base de todo, un chequeo que dé pasa o falla; es práctica recomendada por los fabricantes, no resultado de estudios. Vive en [criterios de aceptación](criterios-de-aceptacion.md).
 
 ## La ambigüedad se cierra antes de construir
 
 Los agentes no detectan bien lo que falta en un pedido. En el estudio Ambig-SWE (ICLR 2026), los modelos tuvieron dificultad para distinguir tareas bien especificadas de subespecificadas y por defecto no preguntaban; cuando se los dejaba interactuar, el rendimiento en las tareas subespecificadas mejoró hasta un 74 % (según su resumen). Por eso una especificación lleva sus preguntas abiertas y sus supuestos a la vista, y conviene que el agente esté configurado para preguntar.
 
-La guía de Anthropic propone invertir la entrevista cuando el pedido no está pensado del todo: que el agente entreviste a la persona "until you could write the spec", y que la construcción arranque en una sesión nueva "with a clean context and a written definition of done". Las preguntas que no se pueden contestar en la sala son las que hay que llevarle al cliente, y con eso se vuelve a [Encargo](../Encargo/encargo.md).
+La guía de Anthropic propone invertir la entrevista cuando el pedido no está pensado del todo: que el agente entreviste a la persona "until you could write the spec", y que la construcción arranque en una sesión nueva "so the build begins with a clean context and a written definition of done". Las preguntas que no se pueden contestar en la sala son las que hay que llevarle al cliente, y con eso se vuelve a [Encargo](../Encargo/encargo.md).
 
 ## Lo que esta vertical deja a otros temas
 
@@ -78,10 +78,10 @@ El prototipo como herramienta para decidir qué construir está en Producto: la 
 
 ## Las notas de Definición
 
-- [Especificación](especificacion.md) — qué lleva el texto que fija un cambio, cómo se dimensiona, los tres niveles del desarrollo guiado por especificaciones y su evidencia.
-- [Historia de usuario](historia-de-usuario.md) — la unidad de valor: para quién, qué y para qué, con INVEST y el mapa de historias.
-- [Criterios de aceptación](criterios-de-aceptacion.md) — ejemplos concretos como contrato de terminado, del dado/cuando/entonces al chequeo que ejecuta un agente.
-- [Descomposición en tareas](descomposicion-en-tareas.md) — rebanadas verticales que se construyen y se verifican solas; el tamaño de tarea para un agente.
-- [Modelo de dominio](modelo-de-dominio.md) — el lenguaje del negocio, cómo se descubre con el cliente y cómo se fija para que el agente lo use.
+- [Especificación](especificacion.md): qué lleva el texto que fija un cambio, cómo se dimensiona, los tres niveles del desarrollo guiado por especificaciones y su evidencia.
+- [Historia de usuario](historia-de-usuario.md): la unidad de valor: para quién, qué y para qué, con INVEST y el mapa de historias.
+- [Criterios de aceptación](criterios-de-aceptacion.md): ejemplos concretos como contrato de terminado, del dado/cuando/entonces al chequeo que ejecuta un agente.
+- [Descomposición en tareas](descomposicion-en-tareas.md): rebanadas verticales que se construyen y se verifican solas; el tamaño de tarea para un agente.
+- [Modelo de dominio](modelo-de-dominio.md): el lenguaje del negocio, cómo se descubre con el cliente y cómo se fija para que el agente lo use.
 
 Los casos de prueba de una API REST, que salen de los criterios, están en [diseñar casos de prueba de una API](../Verificacion/disenar-casos-de-prueba-de-api.md), en Verificación.

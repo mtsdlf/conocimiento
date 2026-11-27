@@ -25,11 +25,11 @@ Migrar y actualizar es mantener el software al día con sus dependencias, versio
 
 ## Dos tamaños de cambio
 
-Una actualización chica sube una dependencia o una versión y casi no toca código propio. Pasa seguido, y lo que importa es que pase sin que nadie tenga que acordarse: un bot abre la propuesta, la integración continua la prueba y alguien la acepta. Los cambios de versión se leen con el [versionado semántico](../../DevOps/Ramas-y-versiones/versionado-semantico.md): un cambio mayor avisa que puede romper.
+Una actualización chica sube una dependencia o una versión y casi no toca código propio. Pasa seguido: un bot abre la propuesta, la integración continua la prueba y alguien la acepta. Los cambios de versión se leen con el [versionado semántico](../../DevOps/Ramas-y-versiones/versionado-semantico.md): un cambio mayor avisa que puede romper.
 
-Una migración grande cambia código propio en muchos lugares por la misma razón: una librería que cambió su interfaz, un tipo que hay que agrandar, un marco de pruebas que se reemplaza. Antes era un proyecto de meses; los casos de abajo la muestran como tarea de semanas, cuando hay una suite que decida. Si lo que se reemplaza es un sistema entero y no un patrón de código, el camino es [strangler fig](../../Arquitectura/Estilos/strangler-fig.md).
+Una migración grande cambia código propio en muchos lugares por la misma razón: una librería que cambió su interfaz, un tipo que hay que agrandar, un marco de pruebas que se reemplaza. Los casos de abajo la muestran como tarea de semanas cuando hay una suite que decida; en el de Airbnb, seis semanas frente a una estimación manual de un año y medio. Si lo que se reemplaza es un sistema entero y no un patrón de código, el camino es [strangler fig](../../Arquitectura/Estilos/strangler-fig.md).
 
-Las dos fallan por posponer. Cada actualización que se salta hace más grande la siguiente, hasta que una actualización chica se vuelve una migración.
+Las dos fallan por posponer. Cada actualización que se salta hace más grande la siguiente, hasta que una actualización chica se vuelve una migración (criterio de esta base).
 
 ## El patrón de las migraciones asistidas por modelos
 
@@ -41,9 +41,9 @@ Hay tres casos grandes publicados, y los tres son autoinformes de las empresas q
 | Airbnb | unos 3.500 archivos de pruebas de componentes de un marco de pruebas a otro | unas seis semanas frente a una estimación manual de un año y medio; 97 % automatizado | resúmenes, no el original |
 | Amazon | actualización de aplicaciones a una versión nueva de Java | "We estimate this has saved us the equivalent of 4,500 developer-years of work"; de unos 50 días-desarrollador a pocas horas por aplicación | blog del vendedor, por resúmenes |
 
-Las cifras no se comparan entre sí ni se trasladan a un proyecto de cliente: son estimaciones internas de empresas grandes con suites de pruebas sólidas, y dos de ellas venden la herramienta que usaron.
+Las cifras no se comparan entre sí ni se trasladan a un proyecto de cliente: son estimaciones internas de las propias empresas, y una de ellas (Amazon) es del proveedor de la herramienta.
 
-Lo que se aprende es el patrón común. En Google, cada cambio propuesto se valida compilando y corriendo pruebas de unidad, hay un paso de reparación automática cuando falla y las personas revisan, con los cambios repartidos entre los equipos dueños de cada parte. En Airbnb, según los resúmenes, cada archivo pasa por etapas: reescribir, hacer pasar las pruebas, limpiar lint y tipos, marcar terminado. En los dos, el modelo nunca decide solo si un cambio entra.
+Lo que se aprende es el patrón común. En Google, cada cambio propuesto se valida compilando y corriendo pruebas de unidad, hay un paso de reparación por aprendizaje automático y las personas revisan, con los cambios repartidos entre los equipos dueños de cada parte. En Airbnb, según los resúmenes, cada archivo pasa por etapas: reescribir, hacer pasar las pruebas, limpiar lint y tipos, marcar terminado. En los dos, el modelo nunca decide solo si un cambio entra.
 
 1. El modelo propone el cambio, archivo por archivo.
 2. Una verificación determinista (compilar, probar, lint) decide si entra.
@@ -56,8 +56,8 @@ Es el mismo patrón que [el LLM emite, el reasoner verifica](../../IA/llm-emite-
 
 Esta sección envejece rápido; las herramientas cambian y el patrón de arriba queda.
 
-- **Bots de dependencias.** Renovate y Dependabot abren pull requests de actualización y los dos soportan actualizaciones agrupadas. Según la comparación que publica Renovate (fuente de uno de los dos bots), Dependabot viene integrado en GitHub y Renovate se instala como app o se aloja por cuenta propia; Renovate trae un tablero de dependencias activado por defecto. Siguen siendo la primera línea para lo chico; el agente entra cuando una actualización obliga a cambiar código.
-- **Agentes de código.** La guía de buenas prácticas de Anthropic (leída el 2026-11-27) describe un comando que divide un cambio mecánico grande en 5 a 30 unidades, cada una en su propio árbol de trabajo y con su propio pull request.
+- Bots de dependencias. Renovate y Dependabot abren pull requests de actualización y los dos soportan actualizaciones agrupadas. Según la comparación que publica Renovate (fuente de uno de los dos bots), Dependabot viene integrado en GitHub y Renovate se instala como app o se aloja por cuenta propia; Renovate trae un tablero de dependencias activado por defecto. Siguen siendo la primera línea para lo chico; el agente entra cuando una actualización obliga a cambiar código (criterio de esta base).
+- Agentes de código. La guía de buenas prácticas de Anthropic (leída el 2026-11-27) describe un comando que divide un cambio mecánico grande en 5 a 30 unidades, cada una en su propio árbol de trabajo y con su propio pull request.
 
 > [!NOTE]
 > Sin fuente todavía: la documentación oficial de Dependabot no se leyó, y las herramientas de codemods (transformaciones de código por reglas, sin modelo) no tienen fuente leída. Una actualización de dependencias también es un punto de entrada a la [cadena de suministro](../../DevOps/DevSecOps/cadena-de-suministro-de-software.md), y eso tampoco se investigó para esta nota.

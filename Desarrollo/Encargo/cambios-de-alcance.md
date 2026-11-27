@@ -46,7 +46,7 @@ La tercera regla viene de Shape Up. El *scope hammering* es «Forcefully questio
 
 La lectura de esta base es que las dos posturas se reconcilian si la regla se acuerda una sola vez, al firmar, y después cada pedido se resuelve sin trámite nuevo. En precio cerrado, la autorización escrita es además lo que pide el art. 1264 en Argentina; qué vale como escrito y cómo se prueba está en [contrato de servicio](../../Emprender/Legal-e-impuestos/contrato-de-servicio.md#por-escrito-por-mail-o-por-whatsapp). Con intercambio a igual esfuerzo, alcanza con registrar qué entró y qué salió.
 
-Fowler da la razón de por qué la regla tiene que estar antes: hay proveedores que «deliberately low-bid the fixed price, with the explicit plan of making a profit on change requests». Un cliente que vio eso desconfía de cualquier cambio cotizado, y una regla escrita de antemano le muestra que no es el juego.
+Fowler cuenta que hay proveedores que «deliberately low-bid the fixed price, with the explicit plan of making a profit on change requests». En criterio de esta base, un cliente que vio eso desconfía de cualquier cambio cotizado, y una regla escrita de antemano le muestra que ese no es el juego.
 
 > [!NOTE]
 > Sin fuente todavía: el presupuesto de cambios como técnica con nombre (una bolsa de horas o de unidades acordada al firmar, que se gasta sin trámite mientras dura) y su efecto medido. Sutherland hace algo parecido con «change for free» mientras el total no crezca, pero no lo describe como bolsa.

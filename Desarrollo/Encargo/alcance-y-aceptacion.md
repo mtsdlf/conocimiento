@@ -24,9 +24,9 @@ Las dos cosas van en una nota porque son los extremos de la misma cadena: el alc
 
 ## Qué quiere decir terminado
 
-Terminado tiene dos niveles, y se confunden. El primero es del equipo: el *Scrum Guide* define que «The Definition of Done is a formal description of the state of the Increment», y agrega que «In order to provide value, the Increment must be usable». El segundo es del cliente: el glosario de ISTQB, según su resumen, define los criterios de aceptación como los que un sistema «must satisfy in order to be accepted by a user, customer, or other authorized entity», y la prueba de aceptación como el nivel que decide si se acepta el sistema.
+En criterio de esta base, terminado tiene dos niveles, y se confunden. El primero es del equipo: el *Scrum Guide* define que «The Definition of Done is a formal description of the state of the Increment», y agrega que «In order to provide value, the Increment must be usable». El segundo es del cliente: el glosario de ISTQB, según su resumen, define los criterios de aceptación como los que un sistema «must satisfy in order to be accepted by a user, customer, or other authorized entity», y la prueba de aceptación como el nivel que decide si se acepta el sistema.
 
-La definición de terminado es la misma para todos los incrementos (por ejemplo, probado, revisado y desplegado). Los criterios de aceptación son de cada incremento y dicen qué tiene que hacer. Un incremento puede cumplir la primera y no la segunda: está bien hecho y no es lo que el cliente pidió.
+En criterio de esta base, la definición de terminado es la misma para todos los incrementos (por ejemplo, probado, revisado y desplegado), y los criterios de aceptación son de cada incremento y dicen qué tiene que hacer. Un incremento puede cumplir la primera y no la segunda: está bien hecho y no es lo que el cliente pidió.
 
 ## Lo que queda afuera también es alcance
 

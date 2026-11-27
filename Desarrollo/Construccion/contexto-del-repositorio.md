@@ -37,7 +37,7 @@ La guía de buenas prácticas de Anthropic dice que el archivo "works best when 
 3. Las "decisions that aren't in the repo".
 4. "Anything you've had to correct twice already."
 
-La misma guía desaconseja describir la arquitectura y la estructura de carpetas, porque el agente lee el repositorio solo, y recomienda quedar por debajo de 200 líneas. La primera de las cuatro es la que más pesa: un agente que sabe cómo comprobar su trabajo puede iterar hasta que pase, como se explica en [agente de código](agente-de-codigo.md).
+La misma guía desaconseja describir la arquitectura y la estructura de carpetas, porque el agente lee el repositorio solo, y recomienda quedar por debajo de 200 líneas. Esta base considera que la primera de las cuatro es la que más pesa: un agente que sabe cómo comprobar su trabajo puede iterar hasta que pase, como se explica en [agente de código](agente-de-codigo.md).
 
 Hay un formato abierto y compartido entre herramientas para este archivo, y cada herramienta tiene también su nombre propio y sus reglas de precedencia; los nombres y límites concretos están en la ficha [herramientas de agentes de código](herramientas-de-agentes-de-codigo.md).
 
@@ -48,13 +48,13 @@ El único estudio encontrado sobre el efecto de estos archivos es un preprint de
 > [!IMPORTANT]
 > Las versiones del preprint discrepan sobre los archivos escritos por personas: según el resumen del buscador, la primera dice que mejoran un poco el resultado y la posterior, que no lo mejoran de forma significativa. Ninguna de las dos se leyó completa.
 
-El Radar de Thoughtworks llega a lo mismo desde la práctica: pone "agent instruction bloat" en Caution porque los archivos "tend to grow long, contradictory, and stale". Recomienda convertir instrucciones en hooks o chequeos, reevaluarlas con cada modelo nuevo, borrar las que sobran y revelar el contexto de forma progresiva. Las tres fuentes coinciden en contra de la práctica común de un archivo largo generado de una vez con un resumen de todo el repositorio.
+El Radar de Thoughtworks llega a lo mismo desde la práctica: pone "agent instruction bloat" en Caution porque los archivos "tend to grow long, contradictory, and stale". Recomienda convertir instrucciones en hooks o chequeos, reevaluarlas con cada modelo nuevo, borrar las que sobran y revelar el contexto de forma progresiva. Según la lectura de esta base, las tres fuentes van en contra de un archivo largo generado de una vez con un resumen de todo el repositorio.
 
 ## Reglas sin excepción, fuera de las instrucciones
 
-Una instrucción es una sugerencia que el agente puede descartar. La guía de Anthropic lo dice así: "If something has to happen every time, make it a hook, a deny rule, or a managed setting." No leer los archivos de secretos, no tocar las migraciones o correr el formateador después de cada edición son reglas de ese tipo. Escribirlas en mayúsculas en el archivo de instrucciones no las vuelve obligatorias.
+Una instrucción es una sugerencia que el agente puede descartar. La guía de Anthropic lo dice así: "If something has to happen every time, make it a hook, a deny rule, or a managed setting." No leer los archivos de secretos, no tocar las migraciones o correr el formateador después de cada edición son reglas de ese tipo. Según la guía de Anthropic, escribirlas en mayúsculas en el archivo de instrucciones no las vuelve obligatorias.
 
-Los mecanismos deterministas son de tres clases. Un hook del agente corre un script antes o después de cada acción y puede bloquearla. Una regla de permisos niega el acceso a un archivo o a un comando. Un [hook de Git](Git/hook-de-git.md) o un paso de [integración continua](../../DevOps/Integracion-y-entrega/integracion-continua.md) rechaza el cambio aunque lo haya hecho una persona. El formato y el estilo entran acá: el formateador y el linter corren solos y no necesitan una línea en las instrucciones. Qué secretos no debe ver un agente se decide en [configuración](Configuracion/configuracion.md), con la [gestión de secretos](../../DevOps/DevSecOps/gestion-de-secretos.md) de DevOps.
+Los mecanismos deterministas son de tres clases. Un hook del agente corre un script en un momento fijo de la sesión; el que corre antes de una acción puede bloquearla. Una regla de permisos niega el acceso a un archivo o a un comando. Un [hook de Git](Git/hook-de-git.md) o un paso de [integración continua](../../DevOps/Integracion-y-entrega/integracion-continua.md) rechaza el cambio aunque lo haya hecho una persona. El formato y el estilo entran acá: el formateador y el linter corren solos y no necesitan una línea en las instrucciones. Qué secretos no debe ver un agente se decide en [configuración](Configuracion/configuracion.md), con la [gestión de secretos](../../DevOps/DevSecOps/gestion-de-secretos.md) de DevOps.
 
 ## Material que se carga cuando hace falta
 
@@ -62,4 +62,4 @@ Lo que es largo y se usa a veces (cómo se hace una migración, la guía de esti
 
 ## Cómo se mantiene
 
-El archivo de instrucciones es código: se revisa en cada cambio, se poda cuando una regla pasó a un hook y se reescribe cuando un modelo nuevo deja de necesitar una indicación. Un criterio práctico de esta base, que sale de la lista de Anthropic: cuando hubo que corregir al agente dos veces por lo mismo, se agrega una línea; cuando una línea se puede imponer con un mecanismo, se mueve. Para que todo proyecto nuevo arranque con este contexto, va en la [plantilla de proyecto](plantilla-de-proyecto.md).
+Esta base trata el archivo de instrucciones como código: se revisa en cada cambio y se poda cuando una regla pasó a un hook. Thoughtworks recomienda además reevaluar las instrucciones con cada modelo nuevo. Un criterio práctico de esta base, que sale de la lista de Anthropic: cuando hubo que corregir al agente dos veces por lo mismo, se agrega una línea; cuando una línea se puede imponer con un mecanismo, se mueve. Para que todo proyecto nuevo arranque con este contexto, va en la [plantilla de proyecto](plantilla-de-proyecto.md).

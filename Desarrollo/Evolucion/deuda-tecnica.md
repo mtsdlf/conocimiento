@@ -23,7 +23,7 @@ revisado:
 
 La deuda técnica es el costo futuro de un atajo o de un diseño que ya no calza: cada cambio en esa zona paga intereses en tiempo y defectos. Se paga cuando los intereses pesan más que el costo de arreglarla, y no siempre conviene pagarla.
 
-Ward Cunningham introdujo la metáfora en un informe de OOPSLA de 1992; la frase que se le atribuye, según una revisión de ACM Queue de 2012, es "Shipping first-time code is like going into debt." El original no se leyó.
+Según Fowler, Ward Cunningham introdujo la metáfora en un informe de OOPSLA de 1992; la frase que se le atribuye, según un artículo de ACM Queue de 2012, es "Shipping first-time code is like going into debt." El original no se leyó.
 
 ## Los cuatro tipos de deuda
 
@@ -31,14 +31,14 @@ Fowler (2009) la ordena en un cuadrante con dos ejes: si fue deliberada o inadve
 
 | | Imprudente | Prudente |
 |---|---|---|
-| **Deliberada** | se sabía y se tomó el atajo sin pensar el costo | se tomó el atajo sabiendo qué se pagaría, para llegar a una fecha |
-| **Inadvertida** | no se sabía hacerlo mejor | se descubrió el mejor diseño después de construir |
+| **Deliberada** | se conocen las buenas prácticas y se elige ir rápido y sucio porque se cree que no hay tiempo | se toma el atajo sabiendo que es deuda y pensando si salir antes compensa el costo de pagarla |
+| **Inadvertida** | el equipo ignora las prácticas de diseño y no advierte cuánta deuda toma | se descubrió el mejor diseño después de construir |
 
-La deuda prudente e inadvertida es inevitable para Fowler: aprender qué había que construir mientras se construye deja siempre un diseño que, mirado después, podría ser mejor. El cuadrante sirve como lenguaje para explicarle a un cliente por qué una parte del sistema cuesta más de cambiar que otra.
+Para Fowler, la deuda prudente e inadvertida es común e inevitable en equipos que diseñan muy bien: entregan software valioso y recién después descubren un diseño mejor. La metáfora sirve, para él, para comunicarse con personas no técnicas, como la gerencia de un cliente.
 
 ## Cuándo se paga y cuándo no
 
-La metáfora da el criterio. Para Fowler, la deuda "may not be worth paying down if the interest payments are sufficiently small": si una zona del código casi no se toca, su deuda no cobra intereses. Conviene pagarla donde el código cambia seguido y cada cambio cuesta más de lo que debería.
+Para Fowler, la deuda prudente "may not be worth paying down if the interest payments are sufficiently small", por ejemplo en una parte del código que rara vez se toca. El corolario, que esta base propone como criterio propio, es pagarla donde el código cambia seguido y cada cambio cuesta más de lo que debería.
 
 En la práctica eso se decide así:
 
@@ -48,14 +48,14 @@ En la práctica eso se decide así:
 4. Dejá la deuda de las zonas quietas donde está.
 
 > [!NOTE]
-> Sin fuente todavía: el método de ubicar la deuda por frecuencia de cambio es criterio de esta base; no se leyó una fuente que lo sostenga con datos.
+> Sin fuente todavía: ubicar la deuda por frecuencia de cambio y los cuatro pasos de arriba son criterio de esta base; no se leyó una fuente que los sostenga con datos.
 
 ## Cuánto cuesta, según los estudios
 
 > [!IMPORTANT]
 > Las mediciones del costo existen pero son pocas, autoinformadas o de un vendedor de herramientas, y no deben mezclarse entre sí.
 > - **23 % del tiempo** (Besker, Martini y Bosch, Journal of Systems and Software, 2019): según su resumen, los desarrolladores pierden en promedio ese porcentaje por deuda técnica, en encuestas semanales durante unos diez meses más entrevistas. La actividad más común era hacer pruebas adicionales, y los gerentes en general no sabían que se perdía un cuarto del tiempo. Es autoinforme.
-> - **36 % del tiempo** (Besker et al., ICSME 2017): otra medición, con otro método, según su resumen.
+> - **36 % del tiempo** (Besker et al., ICSME 2017): otra medición distinta, según su resumen.
 > - **15 veces más defectos** (Tornhill y Borg, TechDebt 2022): en 39 bases de código propietarias, el código de baja calidad tiene unas 15 veces más defectos, resolver issues lleva 124 % más de tiempo y los tiempos máximos de ciclo son 9 veces mayores, según su resumen. La métrica de calidad es la del producto que vende el autor.
 
 ## La deuda que acumula un agente
@@ -68,6 +68,6 @@ Con eso, esta base sostiene una inferencia: un agente acumula deuda más rápido
 
 ## Medir la deuda en puntos pierde peso
 
-Medir la deuda en puntos de historia o reservar un porcentaje fijo de cada iteración para pagarla. El cuadrante sigue valiendo como vocabulario. Las decisiones de estructura que generan deuda grande, como acoplar módulos que deberían estar separados, son de [Arquitectura](../../Arquitectura/Modularidad/modularidad.md).
+Pierde peso medir la deuda en puntos de historia o reservar un porcentaje fijo de cada iteración para pagarla; es criterio de esta base, ninguna fuente leída lo estudia. El cuadrante sigue valiendo como vocabulario. Las decisiones de estructura que generan deuda grande, como acoplar módulos que deberían estar separados, son de [Arquitectura](../../Arquitectura/Modularidad/modularidad.md).
 
 Para leer: el cuadrante de Fowler, que es breve, y Besker 2019 para el costo.

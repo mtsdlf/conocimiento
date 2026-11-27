@@ -63,7 +63,7 @@ Las escuelas que salen de estas lecturas están en [escuelas de desarrollo](escu
 | Cohn, *User Stories Applied* (edición sin verificar) | Qué es una buena historia | La historia como inicio de una conversación, no como especificación completa |
 | Referencia de Gherkin (Cucumber) | Given, When, Then y `Rule` | Que Then afirme algo observable y que el ejemplo describa comportamiento, no implementación |
 | Evans, *Domain-Driven Design* (edición sin verificar) y su DDD Reference (gratis, marzo de 2015) | La parte de lenguaje ubicuo y la de contextos delimitados | El vocabulario del negocio igual en el código |
-| ISO/IEC/IEEE 29148:2018 (de pago) | Solo los atributos de un buen requisito | Necesario, no ambiguo, verificable, trazable; no el documento entero como entregable |
+| ISO/IEC/IEEE 29148:2018 (de pago) | Solo los atributos de un buen requisito | Necesario, no ambiguo, verificable, trazable (lista sin verificar en la norma); no el documento entero como entregable |
 
 Se usan en [especificación](../Definicion/especificacion.md), [criterios de aceptación](../Definicion/criterios-de-aceptacion.md), [historia de usuario](../Definicion/historia-de-usuario.md) y [modelo de dominio](../Definicion/modelo-de-dominio.md).
 
@@ -71,7 +71,7 @@ Se usan en [especificación](../Definicion/especificacion.md), [criterios de ace
 
 | Recurso | Qué leer | En qué fijarse |
 |---|---|---|
-| Beck, *Test-Driven Development by Example* (edición sin verificar) | Las primeras dos partes | El ritmo rojo, verde, refactorizar; la evidencia sobre calidad es mixta |
+| Beck, *Test-Driven Development by Example* (edición sin verificar) | Las primeras dos partes (sin verificar) | El ritmo rojo, verde, refactorizar; la evidencia sobre calidad es mixta |
 | "The Practical Test Pyramid" (martinfowler.com) | Entero | Que el propio artículo llama simplista al modelo de la pirámide |
 | Böckeler, sobre TDD en el bucle de un agente (martinfowler.com) | Los hallazgos | Agentes que se saltan el paso rojo y pruebas tautológicas |
 
@@ -82,8 +82,8 @@ Se usan en [pirámide de pruebas](../Verificacion/piramide-de-pruebas.md) y [TDD
 | Recurso | Qué leer | En qué fijarse |
 |---|---|---|
 | Feathers, *Working Effectively with Legacy Code* (edición sin verificar) | Las partes de seams y de pruebas de caracterización (capítulos sin verificar) | Su definición: código heredado es código sin pruebas |
-| Fowler, *Refactoring*, 2ª ed. (2018; la 1ª es de 1999) | El capítulo 1 y el de pruebas; el catálogo como vocabulario | Pasos chicos sostenidos por pruebas |
-| Ousterhout, *A Philosophy of Software Design* | Lo que indica la [bibliografía de Arquitectura](../../Arquitectura/Fundamentos/bibliografia-de-arquitectura.md) | Módulos profundos como contrapeso a partir el código por reflejo |
+| Fowler, *Refactoring*, 2ª ed. (2018) | El capítulo 1 y el de pruebas; el catálogo como vocabulario | Pasos chicos sostenidos por pruebas |
+| Ousterhout, *A Philosophy of Software Design* (edición sin verificar) | Lo que indica la [bibliografía de Arquitectura](../../Arquitectura/Fundamentos/bibliografia-de-arquitectura.md) | Módulos profundos como contrapeso a partir el código por reflejo |
 
 Se usan en [sistema heredado](../Evolucion/sistema-heredado.md), [refactorizar](../Evolucion/refactorizar.md) y [deuda técnica](../Evolucion/deuda-tecnica.md).
 

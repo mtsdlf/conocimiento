@@ -64,7 +64,7 @@ La IEEE marca la edición 2017 de la norma de ciclo de vida ISO/IEC/IEEE 12207 c
 
 ## Qué hay en los fundamentos
 
-- [Escuelas de desarrollo](escuelas-de-desarrollo.md) — ágil, XP, Scrum, Kanban, Shape Up, ingeniería moderna con DORA, cascada, desarrollo guiado por especificaciones y las posturas sobre la IA, y por qué el tema elige la ingeniería moderna.
-- [Lo que pierde peso en desarrollo](lo-que-pierde-peso-en-desarrollo.md) — las prácticas que el tema dejó en segundo plano, con quién lo dice, la evidencia en contra y un veredicto, más las creencias que no conviene repetir.
-- [Bibliografía de desarrollo](bibliografia-de-desarrollo.md) — qué leer según lo que se necesite hacer, qué parte y en qué fijarse.
-- [Glosario de desarrollo](glosario-de-desarrollo.md) — los términos del tema en una línea, con la nota donde se explica cada uno.
+- [Escuelas de desarrollo](escuelas-de-desarrollo.md): ágil, XP, Scrum, Kanban, Shape Up, ingeniería moderna con DORA, cascada, desarrollo guiado por especificaciones y las posturas sobre la IA, y por qué el tema elige la ingeniería moderna.
+- [Lo que pierde peso en desarrollo](lo-que-pierde-peso-en-desarrollo.md): las prácticas que el tema dejó en segundo plano, con quién lo dice, la evidencia en contra y un veredicto, más las creencias que no conviene repetir.
+- [Bibliografía de desarrollo](bibliografia-de-desarrollo.md): qué leer según lo que se necesite hacer, qué parte y en qué fijarse.
+- [Glosario de desarrollo](glosario-de-desarrollo.md): los términos del tema en una línea, con la nota donde se explica cada uno.

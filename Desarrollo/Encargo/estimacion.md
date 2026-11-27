@@ -60,7 +60,7 @@ Shape Up describe un equipo con producto propio, no un proveedor con contrato. F
 
 ### Pronosticar por ritmo
 
-La previsión probabilística toma los ítems terminados por semana, simula miles de veces y muestra una distribución de fechas. Según resúmenes de blogs de empresas, una guía sugiere usar 12 a 16 semanas de datos y otra más de 10.000 simulaciones, y el método supone un tablero llevado con rigor: límite de trabajo en curso y todos los ítems registrados. Según el abstract de unas actas de 2021, los pronósticos de fecha con Monte Carlo sobre takt time tuvieron un error relativo medio del 32 % en una serie de diez corridas. Es un estudio chico y no hay una comparación con proyectos a medida.
+La previsión probabilística toma los ítems terminados por semana, simula miles de veces y muestra una distribución de fechas. Según resúmenes de blogs de empresas, una guía sugiere usar 12 a 16 semanas de datos y otra más de 10.000 simulaciones, y el método supone un tablero llevado con rigor: límite de trabajo en curso y todos los ítems registrados. Según el abstract de unas actas de 2021, los pronósticos de fecha con Monte Carlo sobre takt time tuvieron un error relativo medio del 32 % en una serie de diez corridas. La serie es de solo diez corridas y no hay una comparación con proyectos a medida.
 
 El ritmo solo existe después de empezar, así que esta forma no sirve para cotizar. Sirve para el [seguimiento](seguimiento-con-el-cliente.md): mostrar cuándo es probable terminar sin hablar de porcentajes.
 
@@ -77,10 +77,10 @@ Estimar en horas cada tarea técnica y sumar no tiene ese respaldo. Lo que hay e
 
 No hay estudio sobre estimar trabajo que hace un agente; el informe de posición contraria lo marca como el hueco más grande de esta nota. Lo que hay es indirecto y se lee con cuidado:
 
-- Que un modelo de lenguaje estime da resultados dispares. Según los resúmenes de tres preprints, en cero ejemplos rinde peor que los promedios de base, con pocos ejemplos mejora, y todos miden puntos de historia y no tiempo; los autores piden evaluarlo antes de reemplazar la estimación del equipo.
+- Que un modelo de lenguaje estime da resultados dispares. Según los resúmenes, un estudio de 2024 halló que en cero ejemplos el modelo rinde peor que los promedios y medianas de base, un preprint de 2026 que con pocos ejemplos mejora y un tercero evalúa recuperación aumentada. Todos miden puntos de historia y no tiempo, y los autores piden una evaluación rigurosa antes de reemplazar el Planning Poker.
 - METR mide el horizonte de tareas que un agente completa la mitad de las veces y, según su resumen, encontró que se duplicó cada siete meses aproximadamente desde 2019. METR advierte que no se lee como que la IA haga todo el trabajo de esa duración. En criterio de esta base, sirve para decidir qué porción darle a un agente, no para estimar el proyecto.
 - Cuánto acelera un agente a quien programa tiene evidencia en las dos direcciones, como cuenta [agente de código](../Construccion/agente-de-codigo.md).
 
-La lectura de esta base es que la parte que el agente abarata (escribir el código) nunca fue la que más se desviaba. Lo que dispara los proyectos sigue ahí: definir mal, integrar, requisitos que cambian. Y nada indica que el sesgo de optimismo desaparezca porque estime o construya un agente; tampoco se encontró evidencia en contra.
+La lectura de esta base, sin fuente que la mida, es que la parte que el agente abarata (escribir el código) nunca fue la que más se desviaba. Lo que dispara los proyectos sigue ahí: definir mal, integrar, requisitos que cambian. Y nada indica que el sesgo de optimismo desaparezca porque estime o construya un agente; tampoco se encontró evidencia en contra.
 
 Para leer: el capítulo 3 de Shape Up, «Set Boundaries», se lee en media hora; el texto de Fowler sobre el propósito de estimar es de una página. Fijate en qué decisión va a tomar alguien con el número antes de darlo.

@@ -28,7 +28,7 @@ En la [historia de usuario](historia-de-usuario.md) son la confirmación, la ter
 
 Una regla en prosa ("el sistema valida el stock") deja abierto qué pasa en cada caso. Un ejemplo ("con 3 unidades en stock, un pedido de 5 se rechaza") no. Adzic, en *Specification by Example*, describe un ciclo que va de derivar el alcance desde los objetivos a especificar en colaboración, ilustrar con ejemplos, refinar y automatizar la validación sin cambiar las especificaciones; el resultado es documentación viva (según su descripción e índice, el libro no se leyó).
 
-Un criterio sirve si se puede contestar con un sí o un no, y si lo puede contestar alguien que no lo escribió.
+Criterio de esta base: un criterio sirve si se puede contestar con un sí o un no, y si lo puede contestar alguien que no lo escribió.
 
 ## Dado, cuando, entonces
 
@@ -45,7 +45,7 @@ Para la historia "como cliente de la tienda quiero filtrar productos por categor
 - Dado que la categoría "Vinos" no existe, cuando filtro por ella, entonces obtengo una lista vacía con un mensaje que lo indica.
 - Dado que "Bebidas" tiene 12 productos y 2 están sin stock, cuando filtro por "Bebidas", entonces los 2 aparecen marcados como sin stock.
 
-El tercer ejemplo es el que un agente no adivina: fija una regla que no estaba en la frase de la historia. En una API REST, cada uno de estos ejemplos se vuelve uno o más casos de prueba, como se arma en [diseñar casos de prueba de una API](../Verificacion/disenar-casos-de-prueba-de-api.md).
+Lectura de esta base: el tercer ejemplo es el que un agente no adivina, porque fija una regla que no estaba en la frase de la historia. En una API REST, cada uno de estos ejemplos se vuelve uno o más casos de prueba, como se arma en [diseñar casos de prueba de una API](../Verificacion/disenar-casos-de-prueba-de-api.md).
 
 Gherkin no obliga a nada: el valor está en los ejemplos concretos, no en la sintaxis. Escribirlos en prosa ordenada alcanza si no se van a ejecutar con Cucumber. Esto es lectura de esta base; no hay fuente que mida el costo de mantener escenarios en Gherkin.
 
@@ -59,8 +59,8 @@ El mapa también diagnostica. Muchas tarjetas rojas dicen que falta aprender ant
 
 Con agentes, el criterio deja de ser texto para leer y pasa a ser algo que se corre. Anthropic recomienda darle al agente "something it can run that comes back pass or fail": una prueba, el código de salida del build, un linter, una comparación contra un archivo de referencia o una captura contra el diseño. También pide evidencia, el comando y su salida, porque que diga que todas las pruebas pasan dice poco.
 
-La razón es una falla documentada. En un arnés para trabajos largos, Anthropic vio que el agente tendía a "declare the job done" demasiado pronto y a marcar funcionalidades como completas sin probarlas. La solución fue expandir el pedido en una lista de funcionalidades en JSON, todas marcadas al principio como falladas, donde el agente solo podía cambiar el estado; eligieron JSON porque los modelos lo alteran menos que Markdown. Las pruebas de punta a punta con automatización de navegador mejoraron mucho el resultado frente a pruebas unitarias y llamadas sueltas.
+La razón es una falla documentada. En un arnés para trabajos largos, Anthropic vio que el agente tendía a "declare the job done" demasiado pronto y a marcar funcionalidades como completas sin probarlas. El arnés expande el pedido en una lista de funcionalidades en JSON, todas marcadas al principio como falladas, donde el agente solo podía cambiar el estado; eligieron JSON porque los modelos lo alteran menos que Markdown. Las pruebas de punta a punta con automatización de navegador mejoraron mucho el resultado frente a pruebas unitarias y llamadas sueltas.
 
-De ahí sale una regla de esta vertical: un criterio que no se puede ejecutar se acepta solo si una persona lo comprueba, y eso se dice en el criterio. Cómo se escribe la prueba antes que el código está en [TDD](../Verificacion/tdd.md); a qué nivel conviene cada prueba, en [pirámide de pruebas](../Verificacion/piramide-de-pruebas.md); y cómo se revisa que el agente no haya hecho trampa con las pruebas, en [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md).
+Regla de esta base: un criterio que no se puede ejecutar se acepta solo si una persona lo comprueba, y eso se dice en el criterio. Cómo se escribe la prueba antes que el código está en [TDD](../Verificacion/tdd.md); a qué nivel conviene cada prueba, en [pirámide de pruebas](../Verificacion/piramide-de-pruebas.md); y cómo se revisa que el agente no haya hecho trampa con las pruebas, en [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md).
 
 Los criterios sobre cualidades (rendimiento, seguridad, costo) se escriben con número y se ejecutan como [fitness function](../../Arquitectura/Caracteristicas/fitness-function.md).

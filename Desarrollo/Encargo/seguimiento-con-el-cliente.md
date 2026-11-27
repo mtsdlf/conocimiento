@@ -47,7 +47,7 @@ En criterio de esta base, pierden peso el informe semanal con un porcentaje de a
 
 ## Los riesgos con el cliente
 
-Qué riesgos se miran con el cliente y cuándo no tiene nota propia. El informe de la vertical propuso dejarlo acá mientras sea chico. Las fuentes lo reparten entre la estimación (la cola de proyectos que se disparan), los cambios (el alcance que crece) y la aceptación (los criterios ambiguos).
+Qué riesgos se miran con el cliente y cuándo no tiene nota propia. El informe de la vertical propuso dejarlo acá mientras sea chico. Las fuentes lo reparten entre el seguimiento, la estimación (la cola de proyectos que se disparan) y los cambios (el alcance que crece).
 
 > [!NOTE]
 > Sin fuente todavía: cómo se lleva un registro de riesgos con un cliente de proyecto a medida, quién es dueño de cada riesgo y cada cuánto se revisa. Lo único que el informe de la vertical dejó como recomendación, que los reportes se apoyen en ítems terminados y en riesgos con dueño y no en porcentajes, es práctica de la escuela sin fuente que lo mida.
@@ -56,6 +56,6 @@ Qué riesgos se miran con el cliente y cuándo no tiene nota propia. El informe 
 
 El riesgo nuevo es cantidad sin dirección: muchas rebanadas chicas que nadie del cliente revisa. La lectura de esta base es que la demostración frecuente es lo que deja corregir el rumbo antes de que se acumule código, y que conviene decirle al cliente qué hizo un agente y cómo se verificó; el detalle de qué verifica una persona está en [verificar lo que hizo un agente](../Verificacion/verificar-lo-que-hizo-un-agente.md). No hay fuente específica para el cliente.
 
-Según DORA 2025, las ganancias de la IA se pierden en lo que viene después de escribir el código (integrar, desplegar, operar). Para el seguimiento, en criterio de esta base, eso quiere decir que lo que se muestra al cliente tiene que estar desplegado, no solo en una rama. Las métricas de entrega que propone DORA están en [métricas DORA](../../DevOps/Cultura-y-medicion/metricas-dora.md).
+Según el resumen de DORA 2025, las ganancias locales de productividad de la IA se pierden en lo que viene después de escribir el código (integrar, desplegar, operar). Para el seguimiento, en criterio de esta base, eso quiere decir que lo que se muestra al cliente tiene que estar desplegado, no solo en una rama. Las métricas de entrega que propone DORA están en [métricas DORA](../../DevOps/Cultura-y-medicion/metricas-dora.md).
 
 Para leer: el *Scrum Guide*, sección Sprint Review, para el propósito de la demostración, y el *Primer*, secciones Acceptance y Payment, para volver contractual esa evidencia. Fijate en que el cliente decida sobre algo que corre.

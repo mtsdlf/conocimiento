@@ -38,21 +38,21 @@ No son excluyentes ni del mismo tamaño: el Manifiesto Ágil es una declaración
 
 ## La escuela de este tema
 
-El [tema](../desarrollo.md) se escribe desde la ingeniería de software moderna de Farley, con las prácticas de XP y la evidencia de DORA: pasos chicos, retroalimentación rápida y la prueba como especificación ejecutable. Se eligió porque es la única con datos más allá de la práctica de sus autores (las encuestas de DORA), y porque DORA 2025 encuentra que la IA rinde donde ya hay pruebas automáticas y retroalimentación rápida. El desarrollo guiado por especificaciones entra como práctica emergente, con su crítica a la vista; la planificación predictiva y el Scrum ceremonial quedan como contraste.
+El [tema](../desarrollo.md) se escribe desde la ingeniería de software moderna de Farley, con las prácticas de XP y la evidencia de DORA: pasos chicos, retroalimentación rápida y la prueba como especificación ejecutable. Se eligió, por criterio de esta base, porque cuenta con datos más allá de la práctica de sus autores (las encuestas de DORA). Además, DORA 2025 encuentra que, sin pruebas automáticas, control de versiones maduro y retroalimentación rápida, más volumen de cambio con IA lleva a inestabilidad. El desarrollo guiado por especificaciones entra como práctica emergente, con su crítica a la vista; la planificación predictiva y el Scrum ceremonial quedan como contraste.
 
 ## Las escuelas de un vistazo
 
 | Escuela | Pone en el centro | Autores o fuente | Evidencia |
 |---|---|---|---|
 | Ágil | Software andando y responder al cambio | Manifiesto, 2001 | Poca, en relación con su popularidad |
-| XP | Prácticas técnicas: TDD, integración, refactorización | Beck, 1999 | DORA respalda varias prácticas |
+| XP | Prácticas técnicas: TDD, integración, refactorización | Beck, 1999 | DORA respalda la entrega en lotes chicos |
 | Scrum | Eventos y responsabilidades en ciclos fijos | Scrum Guide 2020 | Escasa en las dos direcciones |
 | Kanban y flujo | Limitar el trabajo en curso | DORA (capacidades) | Correlaciones de encuesta |
-| Shape Up | Apetito en lugar de estimación, ciclos de seis semanas | Singer, Basecamp | Experiencia de una empresa |
+| Shape Up | Apetito en lugar de estimación, ciclos de seis semanas | Singer, Basecamp | Práctica de una empresa; no se hallaron estudios |
 | Ingeniería moderna | Optimizar para aprender y para gestionar la complejidad | Farley, 2021 | Se apoya en DORA |
 | DORA como evidencia | Medir entrega y estabilidad | Forsgren, Humble y Kim, 2018 | Encuestas grandes, correlaciones |
 | Predictiva o cascada | Un plan completo por fases | Atribuida a Royce, 1970 | Contraste |
-| Guiado por especificaciones | La especificación antes del código | Böckeler; Radar | Sin estudios |
+| Guiado por especificaciones | La especificación antes del código | Böckeler; Radar | No se hallaron estudios |
 | Posturas sobre IA | Cuánto se revisa lo que escribe el modelo | Karpathy, Willison, Beck | Textos de practicantes |
 
 ## Ágil, XP y Scrum: los valores y los marcos que salieron de ellos
@@ -83,10 +83,10 @@ DORA 2025 (casi 5.000 profesionales) encontró una relación positiva entre la a
 
 ## La cascada y el malentendido de Royce
 
-La planificación predictiva hace un plan completo por fases y lo ejecuta en una pasada. Se la atribuye a Royce (1970), pero su artículo criticaba la pasada única para sistemas grandes y recomendaba recorrer el ciclo al menos dos veces, con una primera pasada que "provides an early simulation of the final product". La palabra "waterfall" no aparece en el original; según Wikipedia, su primer uso "may have been" el de Bell y Thayer en 1976, un dato que la misma Wikipedia pide respaldar mejor.
+La planificación predictiva hace un plan completo por fases y lo ejecuta en una pasada. Se la atribuye a Royce (1970), pero, según una historia de 2025 (arXiv 2510.03894), su artículo criticaba la pasada única para sistemas grandes y recomendaba recorrer el ciclo al menos dos veces, con una primera pasada que "provides an early simulation of the final product". La palabra "waterfall" no aparece en el original; según Wikipedia, su primer uso "may have been" el de Bell y Thayer en 1976, un dato que la misma Wikipedia pide respaldar mejor.
 
 > [!IMPORTANT]
-> Qué criticó Royce. Para Wikipedia y una historia de 2025 (arXiv 2510.03894), Royce describió el modelo secuencial para mostrar sus riesgos. Bossavit (*The Leprechauns of Software Engineering*, cap. 7) sostiene que la crítica apunta a la figura sin lazos de retroalimentación, no a la idea de etapas. Las dos coinciden en que no propuso la cascada pura. La cita más conocida del artículo no se verificó contra el PDF original.
+> Qué criticó Royce. Para Wikipedia y una historia de 2025 (arXiv 2510.03894), Royce describió el modelo secuencial para mostrar sus riesgos. Bossavit (*The Leprechauns of Software Engineering*, cap. 7) sostiene que la crítica apunta a la figura sin lazos de retroalimentación, no a la idea de etapas. Según esta base, las dos lecturas coinciden en que no propuso la cascada pura (Bossavit se leyó solo por un resumen). La cita más conocida del artículo no se verificó contra el PDF original.
 
 Planificar la intención por adelantado sigue siendo necesario, y este tema lo hace en el [acuerdo inicial](../Encargo/acuerdo-inicial.md).
 

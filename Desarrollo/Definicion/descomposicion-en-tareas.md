@@ -28,7 +28,7 @@ Es el último paso de [Definición](definicion.md) antes de [Construcción](../C
 
 Richard Lawrence (Humanizing Work) define una buena porción como "a work item that delivers a valuable change in system behavior". Una porción horizontal cubre una sola capa (la tabla, el endpoint, la pantalla) y no cambia nada que se pueda ver hasta que llegan las otras. La vertical atraviesa todas las capas con poco ancho: la consigna es "find thin vertical slices inside those wide ones".
 
-El desglose clásico por capa (una tarea de base de datos, otra de API, otra de interfaz) va contra esa idea. Con agentes pesa más: una tarea horizontal no tiene un comportamiento que se pueda comprobar, así que no tiene un criterio de pasa o falla propio.
+El desglose clásico por capa (una tarea de base de datos, otra de API, otra de interfaz) va contra esa idea. Lectura de esta base: con agentes pesa más, porque una tarea horizontal no tiene un comportamiento que se pueda comprobar y por eso no tiene un criterio de pasa o falla propio.
 
 ## Los patrones para partir
 
@@ -48,7 +48,7 @@ Lawrence da nueve patrones y un metapatrón: encontrar la complejidad central, i
 
 Los ejemplos de la tabla son de esta base. Lawrence hace tres advertencias. Partir "one step at a time from beginning to end" es lo más obvio y está mal. Abrir un spike "should be your last resort". Postergar el rendimiento acumula deuda si la historia se da por terminada antes de tiempo, y eso conecta con [deuda técnica](../Evolucion/deuda-tecnica.md).
 
-La palabra "gestionar" en una historia delata varias operaciones. Muchas tarjetas azules en un [Example Mapping](criterios-de-aceptacion.md) delatan varias reglas: cada regla puede ser una rebanada.
+La palabra "gestionar" en una historia delata varias operaciones. Según Wynne, muchas tarjetas azules en un [Example Mapping](criterios-de-aceptacion.md) indican que la historia es grande; esta base propone que cada regla puede ser una rebanada, como en el patrón de variaciones de reglas de negocio.
 
 ## Una funcionalidad por sesión
 
@@ -75,7 +75,7 @@ METR mide el horizonte temporal de los modelos: la duración de las tareas, medi
 > [!IMPORTANT]
 > Ni METR ni las guías de los fabricantes dan una regla de tamaño de tarea: METR mide horizontes por modelo, no recomendaciones, y la búsqueda no encontró una guía oficial con un criterio numérico. Cualquier regla es criterio de esta base. La de esta base: una tarea es una rebanada vertical que se comprueba con un chequeo de pasa o falla y entra en una sesión del agente sin agotar su contexto. Si no se puede escribir su criterio, todavía no es una tarea.
 
-Descomponer más y delegar más no siempre ahorra tiempo. La evidencia sobre cuánto acelera un agente es mixta y está en [agente de código](../Construccion/agente-de-codigo.md).
+Descomponer más y delegar más no siempre ahorra tiempo: en el ensayo de METR de 2025, quienes usaron IA tardaron 19 % más, aunque ese resultado ya no es una cifra vigente. La evidencia sobre cuánto acelera un agente es mixta y está en [agente de código](../Construccion/agente-de-codigo.md).
 
 ## Horizontes medidos por METR en enero de 2026
 

@@ -31,19 +31,19 @@ Corre por debajo de toda [Definición](definicion.md): la [especificación](espe
 
 ## Un lenguaje común con el cliente
 
-Fowler resume el lenguaje ubicuo de Evans como "building up a common, rigorous language between developers and users", basado en el modelo de dominio que usa el software. Si el cliente dice "pedido" y el código dice `Order` en un módulo y `Purchase` en otro, cada conversación necesita una traducción, y cada traducción es un lugar donde se pierde una regla.
+Fowler resume el lenguaje ubicuo de Evans como "building up a common, rigorous language between developers and users", basado en el modelo de dominio que usa el software. Si el cliente dice "pedido" y el código dice `Order` en un módulo y `Purchase` en otro, cada conversación necesita una traducción, y, según esta base, cada traducción es un lugar donde puede perderse una regla. El ejemplo es ilustrativo.
 
-El lenguaje lo pone el negocio. Qué es un "cliente", cuándo un "pedido" pasa a estar "confirmado", qué diferencia hay entre "devolución" y "cancelación" lo sabe quien trabaja en el negocio, y se aprende hablando con esa persona. Por eso el modelo de dominio se arma en el [acuerdo inicial](../Encargo/acuerdo-inicial.md) y en las conversaciones que siguen, no en el código.
+Criterio de esta base: el lenguaje lo pone el negocio. Qué es un "cliente", cuándo un "pedido" pasa a estar "confirmado", qué diferencia hay entre "devolución" y "cancelación" lo sabe quien trabaja en el negocio, y se aprende hablando con esa persona. Por eso el modelo de dominio se arma en el [acuerdo inicial](../Encargo/acuerdo-inicial.md) y en las conversaciones que siguen, no en el código.
 
 ## Una palabra, un significado, dentro de un contexto
 
-En un negocio de cierto tamaño, la misma palabra significa cosas distintas según el área: el "cliente" de ventas tiene un historial de compras y el de soporte tiene tickets abiertos. DDD no fuerza un modelo único. Según Fowler, "DDD deals with large models by dividing them into different Bounded Contexts", y dentro de cada contexto delimitado el modelo funciona como lenguaje ubicuo entre quienes desarrollan y quienes conocen el dominio.
+El ejemplo típico es la palabra "cliente", que significa cosas distintas según el área (blogs de practicantes; la fuente primaria es Evans, que no se leyó). DDD no fuerza un modelo único. Según Fowler, "DDD deals with large models by dividing them into different Bounded Contexts", y dentro de cada contexto delimitado el modelo funciona como lenguaje ubicuo entre quienes desarrollan y quienes conocen el dominio.
 
-En la práctica, el glosario de un proyecto define cada término dentro de su contexto, y dos contextos pueden tener el mismo término con definiciones distintas. Esos contextos suelen marcar los límites de los módulos, que se tratan en [modularidad](../../Arquitectura/Modularidad/modularidad.md).
+Criterio de esta base: el glosario de un proyecto define cada término dentro de su contexto, y dos contextos pueden tener el mismo término con definiciones distintas. Esta base los toma como candidatos a límites de módulos, que se tratan en [modularidad](../../Arquitectura/Modularidad/modularidad.md).
 
 ## Descubrir el dominio con Event Storming
 
-Event Storming, de Alberto Brandolini, es "a flexible workshop format for collaborative exploration of complex business domains". Se usa para entender un negocio existente, probar un modelo o diseñar servicios nuevos, y entre sus resultados declarados está marcar los límites de la arquitectura para que el sistema pueda evolucionar. Junta en una sala, o en una pizarra compartida, a quienes conocen el negocio y a quienes van a construir.
+Event Storming, de Alberto Brandolini, es "a flexible workshop format for collaborative exploration of complex business domains". Se usa para entender un negocio existente, probar un modelo o diseñar servicios nuevos, y entre sus resultados declarados está marcar los límites de la arquitectura para que el sistema pueda evolucionar.
 
 > [!NOTE]
 > Sin fuente todavía: los niveles de Event Storming (panorama, proceso y diseño de software) y su notación de notas de colores. La página oficial no los describe y el libro de Brandolini no se leyó.

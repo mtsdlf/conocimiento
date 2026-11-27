@@ -48,22 +48,22 @@ El reparto en tres capas es síntesis de esta base a partir de varias fuentes, n
 
 ## La prueba como señal, no como ritual
 
-Las pruebas valen por la señal que dan: rápidas, deterministas y que fallen por buenas razones. La forma de la suite (cuántas de unidad, cuántas de integración) importa menos que eso, como se discute en la [pirámide de pruebas](piramide-de-pruebas.md). Escribir la prueba antes, como pide [TDD](tdd.md), sirve como definición de terminado para un agente, aunque la evidencia sobre su efecto en la calidad es nula o mixta.
+Las pruebas valen por la señal que dan: rápidas, confiables y que fallen por buenas razones. La forma de la suite (cuántas de unidad, cuántas de integración) importa menos que eso, como se discute en la [pirámide de pruebas](piramide-de-pruebas.md). Escribir la prueba antes, como pide [TDD](tdd.md), sirve como definición de terminado para un agente, aunque la evidencia sobre su efecto en la calidad es nula o mixta.
 
-La cobertura de líneas no mide si las pruebas detectan fallas. Inozemtseva y Holmes (ICSE 2014) encontraron, según su resumen, una correlación de baja a moderada entre cobertura y efectividad al controlar por el número de casos. Las pruebas de mutación miden directamente si la suite detecta un cambio en el código, y por eso están en [verificar lo que hizo un agente](verificar-lo-que-hizo-un-agente.md).
+La cobertura de líneas no mide si las pruebas detectan fallas. Inozemtseva y Holmes (ICSE 2014) encontraron, según un resumen de su trabajo, una correlación de baja a moderada entre cobertura y efectividad al controlar por el número de casos. Las pruebas de mutación miden directamente si la suite detecta un cambio en el código, y por eso están en [verificar lo que hizo un agente](verificar-lo-que-hizo-un-agente.md).
 
 ## Lo que cambia cuando el código lo escribe un agente
 
-Un agente escribe pruebas casi gratis, y también las puede escribir mal o adaptarlas para pasar. METR documentó en 2025 modelos que sobrescribían el evaluador o copiaban la respuesta esperada en entornos de evaluación. Thoughtworks puso en su Radar (noviembre de 2025) la complacencia con el código generado por IA como riesgo, y recomienda reforzar TDD y análisis estático.
+Un agente escribe pruebas casi gratis, y también las puede escribir mal o adaptarlas para pasar. METR documentó en 2025, en entornos de evaluación, modelos que sobrescribían el temporizador del evaluador, copiaban su respuesta o lo modificaban para que devolviera siempre el puntaje perfecto. Thoughtworks puso en su Radar (noviembre de 2025) la complacencia con el código generado por IA como riesgo, y recomienda reforzar TDD y análisis estático.
 
 De ahí sale la regla de esta vertical: lo que entrega un agente se acepta con evidencia (el comando que corrió y su salida), no con su resumen. La [revisión de código](revision-de-codigo.md) cambia de función: deja de ser el único control de defectos y pasa a revisar contra la especificación y la evidencia.
 
 ## Qué hay adentro de Verificación
 
-- [Pirámide de pruebas](piramide-de-pruebas.md) — qué se prueba a qué nivel, las formas alternativas (trofeo, panal) y las pruebas de contrato.
-- [TDD](tdd.md) — la prueba primero, como señal y definición de terminado, con su evidencia mixta.
-- [Diseñar casos de prueba de una API](disenar-casos-de-prueba-de-api.md) — el formato y las categorías de casos para una API REST.
-- [Revisión de código](revision-de-codigo.md) — qué revisa una persona, qué otro agente y qué una herramienta.
-- [Verificar lo que hizo un agente](verificar-lo-que-hizo-un-agente.md) — señales de trabajo incompleto o inventado, y las pruebas de mutación.
+- [Pirámide de pruebas](piramide-de-pruebas.md): qué se prueba a qué nivel, las formas alternativas (trofeo, panal) y las pruebas de contrato.
+- [TDD](tdd.md): la prueba primero, como señal y definición de terminado, con su evidencia mixta.
+- [Diseñar casos de prueba de una API](disenar-casos-de-prueba-de-api.md): el formato y las categorías de casos para una API REST.
+- [Revisión de código](revision-de-codigo.md): qué revisa una persona, qué otro agente y qué una herramienta.
+- [Verificar lo que hizo un agente](verificar-lo-que-hizo-un-agente.md): señales de trabajo incompleto o inventado, y las pruebas de mutación.
 
 Pendiente: seguridad en el desarrollo (`seguridad-en-el-desarrollo`); mientras tanto, los controles de seguridad del pipeline están en [DevSecOps](../../DevOps/DevSecOps/devsecops.md). Las pruebas que corren en cada cambio se integran en la [integración continua](../../DevOps/Integracion-y-entrega/integracion-continua.md).

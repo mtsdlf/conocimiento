@@ -33,7 +33,7 @@ El *Scrum Guide* pone la condición: «In order to provide value, the Increment 
 
 Un corte vertical parte el trabajo en rebanadas más chicas que cruzan todas las capas: la interfaz, la lógica y los datos de una función angosta. Un corte horizontal lo parte por capa técnica: primero toda la base de datos, después toda la lógica, al final la interfaz. Según los materiales secundarios, que coinciden entre sí, las rebanadas horizontales no entregan valor solas. Hay voces en contra: un equipo que corta en horizontal a propósito y entrega un grupo de historias como una función, y la idea de *dicing*, rebanadas que no valen hasta que se juntan. Todo esto viene de blogs y se toma como práctica aceptada, no como resultado medido.
 
-El incremento más chico que cruza todas las capas y se despliega se conoce como *walking skeleton*, un término de Cockburn.
+El incremento más chico que cruza todas las capas y se despliega se suele llamar *walking skeleton*, un término atribuido a Cockburn cuya fuente no se pudo abrir; en los blogs de corte aparece como rebanadas verticales finas.
 
 > [!NOTE]
 > Sin fuente todavía: la definición de *walking skeleton* en el texto de Cockburn (la dirección probada no respondió), y una técnica de planificación de entregas con nombre leída en su fuente, como el mapeo de historias de Patton.

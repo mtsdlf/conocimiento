@@ -45,7 +45,7 @@ flowchart TD
   TR -->|entrega el sistema a| EV[Evolución]
 ```
 
-El orden del tramo inicial no es estricto. La estimación y el modelo de cobro se negocian juntos con el alcance, y en la práctica de agencias el primer tramo puede ser un descubrimiento pago que se cotiza aparte antes de cotizar la construcción, como cuenta [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md#cotizar-después-de-achicar-la-incertidumbre).
+El orden del tramo inicial no es estricto. La estimación y el modelo de cobro se negocian juntos con el alcance, y el primer tramo puede ser un descubrimiento pago que se cotiza aparte antes de cotizar la construcción (lo propone Boag, una sola fuente), como cuenta [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md#cotizar-después-de-achicar-la-incertidumbre).
 
 ## Lo que se acuerda es lo que se especifica y se acepta
 
@@ -55,7 +55,7 @@ De ahí sale por qué esta vertical y [Definición](../Definicion/definicion.md)
 
 ## Qué cambia cuando el código lo escribe un agente
 
-Según DORA 2025, la IA amplifica lo que la organización ya hace bien y lo que hace mal. Para el encargo, la lectura de esta base es que el costo se corre: escribir el código se abarata, y definir, verificar, integrar y conversar con el cliente cuestan lo mismo que antes. Un agente construye rápido lo que se le dice, así que un problema mal entendido en el [acuerdo inicial](acuerdo-inicial.md) se convierte rápido en software equivocado. No hay una medición de cuánto bajó el costo de un proyecto a medida por usar agentes; el informe de la vertical lo declara como el hueco más grande.
+Según DORA 2025, la IA amplifica lo que la organización ya hace bien y lo que hace mal. Para el encargo, la lectura de esta base es que el costo se corre: escribir el código se abarata, y definir, verificar, integrar y conversar con el cliente no. Ninguna fuente lo midió. Un agente construye rápido lo que se le dice, así que un problema mal entendido en el [acuerdo inicial](acuerdo-inicial.md) se convierte rápido en software equivocado. No hay una medición de cuánto bajó el costo de un proyecto a medida por usar agentes; los informes de la vertical lo declaran como hueco grande.
 
 El cobro es donde más se nota. Brynjolfsson y Petropoulos, en un *working paper* de agosto de 2026, sostienen que la IA vuelve menos observable para el cliente cuánto insumo lleva un entregable, lo que empuja hacia contratos híbridos. Es un marco teórico, sin datos de agencias de software, y se desarrolla en [modelos de contrato y cobro](modelos-de-contrato-y-cobro.md).
 
@@ -65,13 +65,13 @@ La vertical se apoya sobre todo en practicantes (el *Primer*, Fowler, Shape Up, 
 
 ## Las piezas del encargo
 
-- [Acuerdo inicial](acuerdo-inicial.md) — entender el problema, el resultado que busca el cliente, quién decide y qué queda afuera, antes de especificar nada.
-- [Alcance y aceptación](alcance-y-aceptacion.md) — qué entra, qué no y cómo se decide que un incremento o el proyecto está terminado.
-- [Estimación](estimacion.md) — cuánto lleva y con cuánta incertidumbre: rangos, clase de referencia, apetito y previsión por ritmo.
-- [Modelos de contrato y cobro](modelos-de-contrato-y-cobro.md) — precio cerrado, tiempo y materiales, alcance variable, por resultado y abono, y quién carga el riesgo en cada uno.
-- [Plan de entregas](plan-de-entregas.md) — cortar el alcance en incrementos que el cliente pueda ver y usar, y en qué orden.
-- [Cambios de alcance](cambios-de-alcance.md) — qué regla se aplica cuando el cliente pide otra cosa a mitad de camino.
-- [Seguimiento con el cliente](seguimiento-con-el-cliente.md) — qué se le muestra, cada cuánto y con qué evidencia; la parte con menos fuentes.
-- [Traspaso](traspaso.md) — entregar código, accesos, documentación y operación, y lo que sigue después: garantía y soporte.
+- [Acuerdo inicial](acuerdo-inicial.md): entender el problema, el resultado que busca el cliente, quién decide y qué queda afuera, antes de especificar nada.
+- [Alcance y aceptación](alcance-y-aceptacion.md): qué entra, qué no y cómo se decide que un incremento o el proyecto está terminado.
+- [Estimación](estimacion.md): cuánto lleva y con cuánta incertidumbre: rangos, clase de referencia, apetito y previsión por ritmo.
+- [Modelos de contrato y cobro](modelos-de-contrato-y-cobro.md): precio cerrado, tiempo y materiales, alcance variable, por resultado y abono, y quién carga el riesgo en cada uno.
+- [Plan de entregas](plan-de-entregas.md): cortar el alcance en incrementos que el cliente pueda ver y usar, y en qué orden.
+- [Cambios de alcance](cambios-de-alcance.md): qué regla se aplica cuando el cliente pide otra cosa a mitad de camino.
+- [Seguimiento con el cliente](seguimiento-con-el-cliente.md): qué se le muestra, cada cuánto y con qué evidencia; la parte con menos fuentes.
+- [Traspaso](traspaso.md): entregar código, accesos, documentación y operación, y lo que sigue después: garantía y soporte.
 
 El caso profundo del precio cerrado (sobrecostos, contingencia, control de cambios por escrito, aceptación formal) vive en Producto: [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md).

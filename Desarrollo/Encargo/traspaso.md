@@ -59,7 +59,7 @@ En criterio de esta base, que sale del informe de la vertical y no de una norma,
 
 ## Lo que sigue: garantía y soporte
 
-La garantía cubre fallas de lo entregado; el soporte y el mantenimiento cubren lo demás. Cuánto dura la garantía no tiene cifra que sirva como norma, y las tres que se encontraron discrepan:
+En criterio de esta base, la garantía cubre fallas de lo entregado, y el soporte y el mantenimiento cubren lo demás. Cuánto dura la garantía no tiene cifra que sirva como norma, y las tres que se encontraron discrepan:
 
 | Fuente | Ventana de garantía |
 |---|---|
@@ -67,7 +67,7 @@ La garantía cubre fallas de lo entregado; el soporte y el mantenimiento cubren 
 | Un estudio web europeo, en [abono de cuidado](../../Emprender/Modelo-de-negocio/abono-de-cuidado.md#cuándo-se-ofrece) | Tres meses, porque muchas fallas aparecen con tráfico real a las seis u ocho semanas |
 | Un blog legal del Reino Unido (Sprintlaw, por resumen) | 12 meses |
 
-Lo que sí coincide es separar la garantía del mantenimiento y acordar el soporte antes de que la garantía termine, para que no quede un hueco. Con entrega incremental, el *Primer* ata la garantía a cada entregable aceptado, lo que achica la garantía final. Para la fase de soporte describe un caso de tiempo y materiales con tope mensual y alcance variable, que funcionó porque había confianza; el detalle está en [modelos de contrato y cobro](modelos-de-contrato-y-cobro.md#cómo-se-paga-a-lo-largo-del-encargo). El modelo de negocio del mantenimiento como producto es el [abono de cuidado](../../Emprender/Modelo-de-negocio/abono-de-cuidado.md).
+Una de las guías (Manifestly) recomienda acordar el soporte antes de que la garantía termine, para que no quede un hueco; separar la garantía del mantenimiento es criterio de esta base. Con entrega incremental, el *Primer* ata la garantía a cada entregable aceptado, lo que achica la garantía final. Para la fase de soporte describe un caso de tiempo y materiales con tope mensual y alcance variable, que funcionó porque había confianza; el detalle está en [modelos de contrato y cobro](modelos-de-contrato-y-cobro.md#cómo-se-paga-a-lo-largo-del-encargo). El modelo de negocio del mantenimiento como producto es el [abono de cuidado](../../Emprender/Modelo-de-negocio/abono-de-cuidado.md).
 
 ## Qué cambia cuando el sistema lo construyó un agente
 
