@@ -27,7 +27,7 @@ Son la modalidad del sistema verbal ([gramática](gramatica.md#tiempo-aspecto-y-
 
 ## Deducción: qué tan seguro se está
 
-Cada modal es un punto en una escala de certeza. El castellano usa *debe*, *puede* o *capaz que*; el inglés reparte más fino.
+Cada modal es un punto en una escala de certeza. El castellano usa *debe*, *puede* o *capaz que*; el inglés tiene más modales para esos grados.
 
 | Certeza | Presente | Pasado (modal + *have* + participio) |
 |---|---|---|
@@ -38,7 +38,7 @@ Cada modal es un punto en una escala de certeza. El castellano usa *debe*, *pued
 
 La negativa de *must* para deducir es *can't*, no *mustn't*: ~~*He mustn't be at home*~~ → *He can't be at home*. *Mustn't* es prohibición.
 
-## Obligación: el falso amigo de no tener que
+## Obligación, prohibición y falta de obligación
 
 | Inglés | Qué dice | Castellano |
 |---|---|---|
@@ -48,9 +48,9 @@ La negativa de *must* para deducir es *can't*, no *mustn't*: ~~*He mustn't be at
 | *You should / ought to call her.* | consejo | *Deberías llamarla.* |
 | *You'd better leave now.* | consejo con advertencia | *Mejor andate ya.* |
 
-El error clásico del rioplatense: *No tenés que decírselo* significa en el habla "no se lo digas", y traducido sale *You don't have to tell him*, que en inglés quiere decir "no hace falta que se lo digas". Lo que se quiere decir es *You mustn't tell him* o, más natural, *Don't tell him*.
+Un error esperable en el rioplatense: *No tenés que decírselo* significa en el habla "no se lo digas", y traducido sale *You don't have to tell him*, que en inglés quiere decir "no hace falta que se lo digas". Lo que se quiere decir es *You mustn't tell him* o, más natural, *Don't tell him*.
 
-*Must* y *have to* se parecen. *Must* suena a obligación que pone el hablante o a una regla escrita; *have to*, a obligación externa. En el habla, *have to* y *need to* van ganando: según el blog de Oxford, en corpus británicos *must* cayó un 29,1 % en lo escrito y un 54,2 % en lo hablado entre los años sesenta y noventa, y el blog interpreta que *have to* y *need to* lo reemplazan. Según el resumen de un capítulo de Collins (2009), los semimodales crecen y los modales bajan, con el inglés americano adelante.
+*Must* y *have to* se parecen. *Must* suena a obligación que pone el hablante o a una regla escrita; *have to*, a obligación externa. Según el blog de Oxford, en corpus británicos *must* cayó un 29,1 % en lo escrito y un 54,2 % en lo hablado entre los años sesenta y noventa; el blog propone que *have to* y *need to* lo reemplazan, interpretación que no midió. Según el resumen de un capítulo de Collins (2009), los semimodales crecen y los modales bajan, con el inglés americano adelante.
 
 ## Los modales en perfecto juzgan el pasado
 
@@ -73,7 +73,7 @@ En el habla, *have* se reduce: *should've* /ˈʃʊdəv/, *could've* /ˈkʊdəv/,
 
 - Habilidad: *can* / *could*; en otros tiempos, *be able to*. *I've never been able to swim.* Para un logro puntual en el pasado va *was able to* o *managed to*, no *could*: *Despite the traffic, we managed to get there on time.*
 - Permiso: *can* (informal), *could*, *may* (formal). *May I come in?*
-- Pedido: *Could you…?* y *Would you mind…?* son más corteses que *Can you…?* El castellano rioplatense pide con imperativo o presente (*¿Me pasás la sal?*), y traducido literal (*Pass me the salt*) suena brusco. Está desarrollado en [registro y cortesía](../Discurso/registro-y-cortesia.md).
+- Pedido: *Could you…?* y *Would you mind…?* son más corteses que *Can you…?* El castellano rioplatense pide con imperativo o presente (*¿Me pasás la sal?*), y traducido literal (*Pass me the salt*) puede sonar brusco. Está desarrollado en [registro y cortesía](../Discurso/registro-y-cortesia.md).
 
 > [!NOTE] Sin fuente todavía: estudios de hispanohablantes con modales en perfecto o con la confusión *mustn't / don't have to*.
 

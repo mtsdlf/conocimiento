@@ -46,7 +46,7 @@ arranca ([Adquisición](../Adquisicion/adquisicion.md),
 
 <details><summary>Respuesta</summary>
 
-Más input no lo va a resolver: entiende *I'm 30* cada vez que lo escucha y no nota la diferencia.
+Según el diagnóstico de Richards, más input no lo resuelve solo: entiende *I'm 30* cada vez que lo escucha y no nota la diferencia.
 Le falta notar el error (alguien que lo marque con un prompt, no con un recast), la regla (la edad
 va con *be*) y practicarla hablando. Ver [Feedback correctivo](../Adquisicion/feedback-correctivo.md).
 
@@ -79,7 +79,7 @@ práctica es hablada. Una práctica escrita para un error oral no se transfiere
 
 ## Paso 2. Leer y producir el sonido: Pronunciación
 
-**Modelo mental.** La meta es que te entiendan sin esfuerzo. En inglés casi todas las sílabas
+**Modelo mental.** La meta es que te entiendan sin esfuerzo. En inglés muchas sílabas
 átonas llevan schwa /ə/; el castellano da a cada sílaba su vocal plena
 ([Pronunciación](../Pronunciacion/pronunciacion.md), [Alfabeto fonético](alfabeto-fonetico.md)).
 

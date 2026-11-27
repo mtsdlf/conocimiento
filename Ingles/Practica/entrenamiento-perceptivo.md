@@ -29,8 +29,9 @@ escuchando muchas voces, eligiendo qué se oyó y recibiendo la respuesta correc
 con más evidencia de la práctica, más fuerte para percibir que para pronunciar.
 
 Dentro de la [práctica](practica.md) es trabajo centrado en la forma, y apunta a la raíz de muchos
-problemas de [pronunciación](../Pronunciacion/pronunciacion.md): si el oído junta dos sonidos,
-la boca también los junta. El castellano tiene cinco vocales; el inglés distingue *ship* /ʃɪp/ de
+problemas de [pronunciación](../Pronunciacion/pronunciacion.md): se supone que si el oído junta
+dos sonidos, la boca también los junta, aunque Sakai y Moorman (2018) encontraron una relación
+entre percepción y producción pequeña a mediana y no significativa. El castellano tiene cinco vocales; el inglés distingue *ship* /ʃɪp/ de
 *sheep* /ʃiːp/, *cat* /kæt/ de *cut* /kʌt/ y de *cot*, y *berry* de *very*. Las
 [vocales](../Pronunciacion/vocales.md) y las [consonantes](../Pronunciacion/consonantes.md)
 tienen la lista de contrastes que más pesan para un hispanohablante.
@@ -43,10 +44,10 @@ en el medio, al lado de distintas consonantes) y corrección inmediata de cada r
 típica es de identificación: se oye una palabra y se elige entre *ship* y *sheep*; si se erró,
 se escucha de nuevo sabiendo cuál era.
 
-La variedad de voces es la parte disputada. Thomson la da como rasgo clave; un metaanálisis
-encontró resultados mixtos sobre si varias voces superan a una sola. El informe de esta base
-mezcla ese dato con el del metaanálisis de 79 estudios, que sí lista el número de voces entre lo
-que modula el efecto, así que la duda queda abierta.
+La variedad de voces es la parte disputada. Thomson la da como rasgo clave, y un metaanálisis
+encontró resultados mixtos sobre si varias voces superan a una sola. Ese dato puede ser del mismo
+metaanálisis de 79 estudios, que lista el número de voces entre lo que modula el efecto. La duda
+queda abierta.
 
 ## Cuánto mejora la percepción y cuánto la producción
 
@@ -64,16 +65,16 @@ encontró mejoras medianas en percepción (d = 0.92) y chicas en producción (d 
 relación entre ambas pequeña a mediana y no significativa.
 
 > [!IMPORTANT]
-> **Las cifras de producción no coinciden entre informes.** El informe de práctica da d = 0.54
+> Las cifras de producción no coinciden entre informes. El informe de práctica da d = 0.54
 > para la producción en Sakai y Moorman (2018); el informe contrario atribuye a ese mismo estudio
-> un 0.89 para la producción. Ninguno leyó el artículo. Además, el 0.92 de percepción de Sakai y
-> Moorman coincide con el 0.92 pre-post de Uchihara et al.: son estudios distintos.
+> un 0.89 para la producción. Ninguno leyó el artículo. El 0.92 de percepción de Sakai y Moorman
+> coincide con el 0.92 pre-post de Uchihara et al., pero son estudios distintos.
 
 Con hispanohablantes hay un dato directo: en aprendices catalanes y españoles, cuatro sesiones de
 HVPT con vocales del inglés mejoraron la identificación y la discriminación, y la mejora se
 mantuvo a los cuatro meses (según el resumen del estudio).
 
-## Pares mínimos y dictado, con menos respaldo
+## Pares mínimos y dictado: poca evidencia propia
 
 Los pares mínimos sueltos (*live*/*leave*, *full*/*fool*, *bat*/*vat*) son la materia prima del
 HVPT, pero practicados sin muchas voces ni corrección no tienen evidencia propia en los informes
@@ -83,19 +84,19 @@ formulaicas, aunque los dos superaron a las preguntas de comprensión.
 
 ## Cómo hacerlo solo
 
-1. Elegí un contraste que te falle. Para la mayoría: /ɪ/–/iː/, /æ/–/ʌ/–/ɑ/, /b/–/v/, /s/–/z/ al
-   final (*bus*/*buzz*), /θ/–/t/–/s/ (*thin*/*tin*/*sin*).
+1. Elegí un contraste que te falle. Contrastes frecuentes: /ɪ/-/iː/, /æ/-/ʌ/-/ɑ/, /b/-/v/, /s/-/z/ al
+   final (*bus*/*buzz*), /θ/-/t/-/s/ (*thin*/*tin*/*sin*).
 2. Juntá 20 o 30 pares mínimos con ese contraste en distintas posiciones (*sit*/*seat*,
    *fill*/*feel*, *bitter*/*beater*).
 3. Conseguí cada palabra dicha por muchas voces: diccionarios con audio y buscadores de clips de
-   habla real (están en la [ficha de herramientas](herramientas-de-ingles.md)). Si hay una
-   aplicación de HVPT a mano, mejor, porque mezcla y corrige sola.
+   habla real (están en la [ficha de herramientas](herramientas-de-ingles.md)). Los informes no
+   hallaron una aplicación de HVPT gratuita y recomendable.
 4. Escuchá sin mirar, decidí cuál de las dos palabras es, y recién ahí comprobá. Llevá la cuenta
    de aciertos.
-5. Hacé sesiones cortas, de 10 a 15 minutos, varios días seguidos. El efecto depende del tiempo
-   total de entrenamiento.
-6. Cuando aciertes casi siempre con voces que no escuchaste antes, pasá a producir: decí la palabra, grabala
-   y comparala.
+5. Hacé sesiones cortas, de 10 a 15 minutos, varios días seguidos (duración propuesta, sin fuente).
+   El efecto varía con el tiempo total de entrenamiento.
+6. Cuando aciertes casi siempre con voces que no escuchaste antes, pasá a producir: decí la
+   palabra, grabala y comparala.
 
 Para el dictado, elegí 30 segundos de audio real, escribí todo lo que oís y compará con la
 transcripción: los huecos muestran las formas débiles y el habla conectada que no estás oyendo.

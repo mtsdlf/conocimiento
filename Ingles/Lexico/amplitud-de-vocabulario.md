@@ -36,9 +36,8 @@ Los estudios cuentan **familias de palabras**: una forma base con sus flexiones 
 
 ## Cobertura: cuántas palabras desconocidas aguanta un texto
 
-La cobertura se traduce en desconocidas por línea. Con 98%, el lector tropieza con una palabra desconocida cada 50; con 95%, una cada 20. La diferencia se siente: a 95% el texto se entiende con esfuerzo, a 98% se lee con fluidez.
-
-Hu y Nation (2000) pusieron el umbral de comprensión adecuada en 98-99% de cobertura. Es la cifra más citada, pero una réplica de Kremmel y colegas (2023) con 104 adultos de Sri Lanka no la pudo confirmar del todo, según un resumen.
+La cobertura se traduce en desconocidas por línea. Con 98%, el lector tropieza con una palabra desconocida cada 50; con 95%, una cada 20. 
+Hu y Nation (2000) pusieron el umbral de comprensión adecuada en 98-99% de cobertura, según una reseña de Schmitt et al. (2011). Una réplica de Kremmel y colegas (2023) con 104 adultos de Sri Lanka no la pudo confirmar del todo, según un resumen.
 
 ## Las dos cifras que discrepan
 
@@ -50,7 +49,7 @@ Hu y Nation (2000) pusieron el umbral de comprensión adecuada en 98-99% de cobe
 >
 > Laufer y Ravenhorst-Kalovski agregan un matiz útil: pequeños aumentos de vocabulario mejoran la comprensión aunque la cobertura casi no cambie.
 
-Para un B2 la lectura práctica es esta: con 4.000-5.000 familias se entiende con esfuerzo; leer y escuchar sin ayuda materiales de adultos pide del orden de 6.000-9.000. El 98% es un umbral para entender sin ayuda, no para hablar: el vocabulario productivo es siempre menor que el receptivo.
+Esta es una lectura de la nota, no un resultado de un estudio: juntando las cifras, 4.000-5.000 familias alcanzan para leer con apoyo, y leer o escuchar sin ayuda materiales de adultos pide del orden de 6.000-9.000. Los umbrales se calcularon para comprender, y no para hablar.
 
 ## Listas que ordenan qué palabras aprender primero
 
@@ -63,11 +62,11 @@ Como inferencia, no como dato medido: lo que le suele faltar a un B2 no está en
 
 ## Cómo medirse
 
-El instrumento de referencia es el **Vocabulary Size Test** de Nation y Beglar (2007): una prueba de opción múltiple de vocabulario receptivo escrito, que estima cuántas familias se reconocen. Hay una crítica publicada a los límites de las pruebas de tamaño y de niveles: miden reconocimiento escrito, no si la palabra se entiende al oído ni si se usa. Dónde hacer el test está en [herramientas de inglés](../Practica/herramientas-de-ingles.md).
+El instrumento de referencia es el **Vocabulary Size Test** de Nation y Beglar (2007): una prueba de opción múltiple de vocabulario receptivo escrito, que estima cuántas familias se reconocen. Existe una crítica publicada a los límites de las pruebas de tamaño y de niveles; se vio solo su título, que las describe como pruebas de conocimiento receptivo escrito. Dónde hacer el test está en [herramientas de inglés](../Practica/herramientas-de-ingles.md).
 
 1. Hacé el test de tamaño una vez para tener una cifra de partida, sabiendo que estima reconocimiento escrito.
 2. Tomá tres páginas de lo que querés leer (un informe de trabajo, una novela) y contá las palabras que no conocés en un tramo de 100. Más de 5 indica que estás por debajo de 95% en ese tipo de texto.
 3. Si la cobertura es baja, la salida es más lectura con palabras de esa banda y repaso intencional ([Repetición espaciada](../Adquisicion/repeticion-espaciada.md)); si es alta y aun así cuesta, el problema está en otro lado.
-4. Repetí la medición cada pocos meses; las ganancias son lentas.
+4. Repetí la medición cada pocos meses.
 
 La explicación canónica es Nation (2006), leído junto con la réplica de Schmitt et al. (2017) para ver cuánto se sostienen los números. Fijarse en la diferencia entre familias y palabras, y en que los umbrales se calcularon para comprensión, no para producción. La relación entre nivel del MCER y vocabulario está en [Niveles del MCER](../Fundamentos/niveles-mcer.md), y cómo sumar vocabulario leyendo y escuchando, en [Escucha y lectura extensiva](../Practica/escucha-y-lectura-extensiva.md).

@@ -2,7 +2,7 @@
 resumen: >-
   El inglés hablado alarga las sílabas acentuadas y comprime las demás, y en el flujo las palabras
   se reducen, se unen y cambian de sonido (formas débiles, linking, elisión, asimilación, flap);
-  no reconocer esas formas es una de las causas principales de no entender a nativos rápidos.
+  no reconocer esas formas es una de las causas de no entender a nativos rápidos.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -25,7 +25,7 @@ revisado:
 
 # Ritmo y habla conectada
 
-El inglés hablado alarga las sílabas acentuadas y comprime las demás, y en el flujo las palabras se reducen, se unen y cambian de sonido (formas débiles, linking, elisión, asimilación, flap); no reconocer esas formas es una de las causas principales de no entender a nativos rápidos.
+El inglés hablado alarga las sílabas acentuadas y comprime las demás, y en el flujo las palabras se reducen, se unen y cambian de sonido (formas débiles, linking, elisión, asimilación, flap); no reconocer esas formas es una de las causas de no entender a nativos rápidos.
 
 Es parte de [Pronunciación](pronunciacion.md). Ritmo y habla conectada son el mismo fenómeno visto desde dos lados: al hablar, el ritmo acentual; al escuchar, las palabras reducidas que hay que reconocer. Se apoya en la schwa de [Vocales](vocales.md) y en el [acento de palabra](acento-de-palabra.md).
 
@@ -33,7 +33,7 @@ Es parte de [Pronunciación](pronunciacion.md). Ritmo y habla conectada son el m
 
 La enseñanza tradicional divide las lenguas en acentuales (el inglés: los acentos caen a intervalos parejos y las sílabas del medio se aprietan) y silábicas (el castellano: cada sílaba dura más o menos lo mismo). Grabe y Low (2002) midieron 18 lenguas y no hallaron clases separadas: las lenguas difieren de forma gradual, con el inglés y el castellano en lados opuestos, como se esperaba. Los índices discrepan entre sí, y la clasificación de otras lenguas no salió limpia; el dato llega por resúmenes, no por el artículo.
 
-Lo que sí cambia de un lado al otro es cuánto se reduce lo átono. *I want to go to the store* tiene siete sílabas pero tres golpes: /aɪ ˈwɑnə ˈgoʊ tə ðə ˈstɔr/. Un hispanohablante tiende a darle a cada sílaba el mismo peso. Marín Marín (2026) lo midió en 15 universitarios de Valencia de nivel avanzado: más proporción vocálica, menos variabilidad y menos reducción, es decir, ritmo silábico persistente; es un estudio chico, de lectura de un poema y en una revista nueva. Nava et al. (2009) hallaron que los hispanohablantes que ponen bien la prominencia de la frase también tienen mejor ritmo, lo que conecta el ritmo con la [entonación](entonacion.md).
+Lo que sí cambia de un lado al otro es cuánto se reduce lo átono. *I want to go to the store* tiene siete sílabas pero tres golpes: /aɪ ˈwɑnə ˈgoʊ tə ðə ˈstɔr/. Un hispanohablante tiende a darle a cada sílaba el mismo peso. Marín Marín (2026) lo midió en 15 universitarios de Valencia de nivel avanzado: más proporción vocálica, menos variabilidad y menos reducción, es decir, ritmo silábico persistente; es un estudio chico, de lectura de un poema y en una revista nueva. Nava et al. (2009) hallaron que los hispanohablantes con prominencia de frase "inglesa" también usan ritmo inglés, lo que conecta el ritmo con la [entonación](entonacion.md).
 
 ## Las formas débiles de las palabras de función
 
@@ -68,8 +68,8 @@ Un ejemplo con todo junto: *What do you want to do about it?* suena en GA más o
 
 ## Por qué pesa más al escuchar que al hablar
 
-Wong et al. (2017) estudiaron a 60 universitarios chinos: la percepción de formas reducidas (contracción, elisión, asimilación) y el vocabulario receptivo explicaron, cada uno por su lado, parte de la comprensión auditiva. Citan a Henrichsen (1984): aprendices avanzados rinden como nativos sin formas reducidas y caen cuando aparecen. Según un estudio en *Linguistic Approaches to Bilingualism*, la exposición es el factor decisivo para aprenderlas. Si enseñarlas mejora la comprensión general está menos claro: la evidencia es mixta y débil.
+Wong et al. (2017) estudiaron a 60 universitarios chinos: la percepción de formas reducidas (contracción, elisión, asimilación) y el vocabulario receptivo explicaron, cada uno por su lado, parte de la comprensión auditiva. Citan a Henrichsen (1984): aprendices avanzados rinden como nativos sin formas reducidas y caen cuando aparecen. Según un estudio de principiantes en *Linguistic Approaches to Bilingualism*, la exposición es el factor decisivo para aprenderlas. Si enseñarlas mejora la comprensión general está menos claro: la evidencia es mixta y débil.
 
-El Lingua Franca Core de Jenkins deja afuera las formas débiles, el flap y buena parte del habla conectada: para producir no son obligatorias, y una /t/ clara en *water* se entiende. Para escuchar a nativos, en cambio, son imprescindibles. Por eso la prioridad del hispanohablante B2 es reconocerlas primero y producirlas después.
+El Lingua Franca Core de Jenkins deja afuera las formas débiles, el flap y buena parte del habla conectada: para producir no son obligatorias, y una /t/ clara en *water* se entiende. Para escuchar a nativos, en cambio, sirven. Ese es el argumento de esta base para que el hispanohablante B2 las reconozca primero y las produzca después; ningún estudio consultado lo prueba.
 
 Cauldwell (2013), *Phonology for Listening*, sobre todo la parte de habla espontánea y reducción de palabras de función, es el recurso canónico para entrenar el oído con habla real. El cómo se entrena está en [Escucha y lectura extensiva](../Practica/escucha-y-lectura-extensiva.md), en el [shadowing](../Practica/shadowing.md) y en el dictado del [entrenamiento perceptivo](../Practica/entrenamiento-perceptivo.md).

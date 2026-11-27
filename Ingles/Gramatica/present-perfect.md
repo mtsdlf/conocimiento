@@ -23,7 +23,7 @@ revisado:
 
 El present perfect (*have* + participio) presenta algo pasado desde el ahora: una experiencia, un resultado que sigue, algo que empezó antes y continúa, o algo dentro de un período abierto; el pasado simple, en cambio, lo ubica en un momento terminado.
 
-Es el caso más difícil del sistema de [tiempo y aspecto](tiempo-y-aspecto.md) para un hablante rioplatense, y uno de los ejemplos del [castellano como filtro](../ingles.md#el-castellano-como-filtro).
+Es el caso del sistema de [tiempo y aspecto](tiempo-y-aspecto.md) donde el castellano rioplatense deja menos marcada la distinción, y uno de los ejemplos del [castellano como filtro](../ingles.md#el-castellano-como-filtro).
 
 ## Cuatro usos con el ahora como referencia
 
@@ -44,7 +44,7 @@ En el castellano de Buenos Aires el pretérito perfecto compuesto (*he estudiado
 
 El mismo trabajo cita estudios previos de la autora en los que Buenos Aires tiene la menor frecuencia de compuesto del país (6 %, contra 28 % en el Centro y 25 % en el Noroeste). Fløgstad (2016) describe el proceso como "preterit expansion and perfect demise". El rioplatense no es un bloque: el compuesto conserva algo de prestigio en el registro formal y en Tucumán se usa más.
 
-Eso quiere decir que el hablante rioplatense ya distingue "pasado conectado" de "pasado cerrado" en el significado, pero no lo marca en el verbo. El inglés le pide marcarlo. Por eso conviene aprender el present perfect por significado, y no traduciéndolo de *he hecho*: un rioplatense dice *¿Comiste?* para preguntar si ya comió, y en inglés eso es *Have you eaten?*
+Eso sugiere que el hablante rioplatense ya distingue "pasado conectado" de "pasado cerrado" en el significado, pero no lo marca en el verbo. El inglés le pide marcarlo. Por eso conviene aprender el present perfect por significado y no traducir *he hecho*: un rioplatense dice *¿Comiste?* para preguntar si ya comió, y en inglés eso es *Have you eaten?*
 
 | Rioplatense | Traducido verbo por verbo | Inglés general |
 |---|---|---|
@@ -56,7 +56,7 @@ Eso quiere decir que el hablante rioplatense ya distingue "pasado conectado" de 
 
 ## Lo que se sabe de hispanohablantes aprendiendo inglés
 
-El único estudio leído con cifras es de España, no del Río de la Plata. Perez-Guerra y Smirnova (2024) compararon ensayos universitarios: los aprendices españoles usaron el present perfect 423,41 veces cada 100.000 palabras, contra 322,22 de los nativos y 115,13 de los rusos. Es decir, lo sobreusan. Los autores atribuyen los errores a "challenges in comprehending the functions of the PP and in distinguishing its semantics from those of other English tenses, particularly the Past Simple", y ven sobregeneralización con adverbios como *already* o *before* aunque haya un momento cerrado.
+El único estudio leído con cifras es de España, no del Río de la Plata. Perez-Guerra y Smirnova (2024) compararon ensayos universitarios: los aprendices españoles usaron el present perfect 423,41 veces cada 100.000 palabras, contra 322,22 de los nativos y 115,13 de los rusos. Es decir, lo sobreusan. Los autores atribuyen los errores a "challenges in comprehending the functions of the PP and in distinguishing its semantics from those of other English tenses, particularly the Past Simple", y ven transferencia positiva en la frecuencia, sobregeneralización con adverbios compatibles con el present perfect y subgeneralización de los contextos de relevancia actual.
 
 > [!IMPORTANT]
 > **Sobreuso o subuso.** Los datos de Perez-Guerra y Smirnova son de hablantes de un castellano que usa mucho el compuesto, y escritos. La predicción para el rioplatense es la contraria (usar pasado simple donde el inglés quiere present perfect), y sale de los datos de Araújo sobre el castellano, no de un estudio de aprendices. No se encontró ningún estudio que mida el present perfect de rioplatenses que hablan inglés.
@@ -65,7 +65,7 @@ El único estudio leído con cifras es de España, no del Río de la Plata. Pere
 
 General American, el modelo de este tema, usa menos el present perfect que el británico. Según el resumen de Sheen (1992), cerca del 80 % de los usos que la gramática prescribe para el present perfect pueden alternar con el pasado simple en inglés norteamericano (es un dato viejo). *Did you eat yet?* y *I just saw him* son normales en Estados Unidos.
 
-Para el rioplatense, la brecha es menor de lo que parece, pero no desaparece. Lo que empezó antes y sigue (*for*, *since*, *how long*) pide present perfect en las dos variedades: ~~*I'm here since Monday*~~ está mal en cualquier inglés.
+Para el rioplatense, la brecha sería menor de lo que parece, pero no desaparecería (inferencia, no resultado medido). Lo que empezó antes y sigue (*for*, *since*, *how long*) pide present perfect en las dos variedades: ~~*I'm here since Monday*~~ está mal en cualquier inglés.
 
 ## Cómo practicarlo
 

@@ -1,8 +1,9 @@
 ---
 resumen: >-
   La escritura de trabajo en inglés (mails, mensajes, documentos) premia la oración corta, el
-  pedido o la respuesta al principio y el tono cortés sin rodeos. El error típico del
-  hispanohablante es la oración larga encadenada con and y so, y el mail que pide sin suavizar.
+  pedido o la respuesta al principio y el tono cortés sin rodeos. Según Reppen y Grabe, quienes
+  escriben en español hacen oraciones largas por coordinación (and, so), y los mails de aprendices que
+  piden sin suavizar se juzgan bruscos.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -23,13 +24,13 @@ revisado:
 
 # Escritura
 
-La escritura de trabajo en inglés (mails, mensajes, documentos) premia la oración corta, el pedido o la respuesta al principio y el tono cortés sin rodeos. El error típico del hispanohablante es la oración larga encadenada con and y so, y el mail que pide sin suavizar.
+La escritura de trabajo en inglés (mails, mensajes, documentos) premia la oración corta, el pedido o la respuesta al principio y el tono cortés sin rodeos. Según Reppen y Grabe, quienes escriben en español hacen oraciones largas por coordinación (and, so), y los mails de aprendices que piden sin suavizar se juzgan bruscos.
 
 Es la parte escrita de [Discurso](discurso.md): junta el orden de [Estructura del argumento](estructura-del-argumento.md), los enlaces de [Conectores y cohesión](conectores-y-cohesion.md) y los pedidos de [Registro y cortesía](registro-y-cortesia.md), aplicados a un lector que no puede preguntar. El vocabulario de oficina sale en buena parte de las [colocaciones](../Lexico/colocaciones-y-chunks.md): *meet a deadline*, *follow up on*, *raise an issue*.
 
 ## La oración larga encadenada
 
-Reppen y Grabe (1993) reportan que quienes escriben en español hacen oraciones más largas que quienes escriben en inglés, y lo atribuyen a más coordinación, no a más subordinación, según el resumen del buscador; no se hallaron cifras. Coincide con el error que se ve en mails de hispanohablantes: ideas pegadas con *and*, *so* y *but* en una sola oración.
+Reppen y Grabe (1993) reportan que quienes escriben en español hacen oraciones más largas que quienes escriben en inglés, y lo atribuyen a más coordinación, no a más subordinación, según el resumen del buscador; no se hallaron cifras. El ejemplo siguiente, armado por la nota, muestra ideas pegadas con *and*, *so* y *but* en una sola oración.
 
 - Encadenado: *We had a meeting with the client yesterday and they said that the budget was approved but they want to change some requirements so we need to review the estimate and send it again before Friday.*
 - Partido: *We met the client yesterday. The budget is approved, but they want to change some requirements. We need to review the estimate and send it again by Friday.*
@@ -40,7 +41,7 @@ Un capítulo sobre estudiantes mexicanos, *Long sentences and floating commas*, 
 
 ## Palabras que la escritura clara saca
 
-La misma guía de GOV.UK pide evitar *in order to* ("usually not needed - do not use it") y palabras infladas como `utilise`, `leverage` o `impact`. El hispanohablante tiene una tentación extra: el cognado formal. *We will proceed to inform you* dice lo mismo que *We'll let you know*; *in order to verify* lo mismo que *to check*. Ver [Cognados y falsos amigos](../Lexico/cognados-y-falsos-amigos.md).
+La misma guía de GOV.UK pide evitar *in order to* ("usually not needed - do not use it") y palabras infladas como `utilise`, `leverage` o `impact`. Una tentación posible es el cognado formal. *We will proceed to inform you* dice lo mismo que *We'll let you know*; *in order to verify* lo mismo que *to check*. Ver [Cognados y falsos amigos](../Lexico/cognados-y-falsos-amigos.md).
 
 ## Cómo se arma un mail de trabajo
 
@@ -57,9 +58,9 @@ Un mail completo, antes y después:
 - Antes: *Hello, I write you because we had a meeting yesterday with the client and they told us that they want to add a new module so I need that you send me the new estimate urgently. Thanks.*
 - Después: *Hi Sarah, Could you send me an updated estimate by Thursday? The client asked to add a reporting module in yesterday's meeting, and they'd like the numbers before their board meets on Friday. Happy to go over the details if that helps. Thanks, Martín*
 
-El "antes" tiene tres problemas que no son de gramática: el pedido llega al final, es una sola oración encadenada y *I need that you send me… urgently* traduce un "necesito que me mandes" sin atenuar. Docentes nativos juzgaron mails de aprendices de ese estilo como "significantly more abrupt, less polite", según el resumen de Economidou-Kogetsidis (2016); el detalle está en [Registro y cortesía](registro-y-cortesia.md). Las fórmulas de arranque traducidas (*I write you because…*, *I am writing to you for…*) también delatan: entre colegas se empieza directamente por el pedido.
+El "antes" tiene tres problemas que no son de gramática: el pedido llega al final, es una sola oración encadenada y *I need that you send me… urgently* traduce un "necesito que me mandes" sin atenuar. Docentes nativos juzgaron mails de aprendices como "significantly more abrupt, less polite", según el resumen de Economidou-Kogetsidis (2016); el detalle está en [Registro y cortesía](registro-y-cortesia.md). Las fórmulas de arranque traducidas (*I write you because…*, *I am writing to you for…*) también delatan: entre colegas se empieza directamente por el pedido.
 
-Las guías de lenguaje claro para textos públicos dicen que no hace falta *please*; en un mail a un colega, sacarlo de un pedido suena brusco. Son dos géneros distintos.
+La guía de GOV.UK dice que no hace falta *please* en textos públicos; en un mail a un colega, sacarlo de un pedido probablemente suena brusco. Son dos géneros distintos.
 
 > [!NOTE]
 > Sin fuente todavía: una guía verificada de estructura y fórmulas del mail de trabajo en inglés. Las cinco piezas resumen el uso corriente; lo único respaldado por estudios es la brusquedad percibida de los mails de aprendices.

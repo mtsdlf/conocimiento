@@ -71,7 +71,7 @@ En la investigación de adquisición, la relación entre el tipo de verbo y la f
 
 La hoja de errores de Cambridge para aprendices con L1 español pone el uso de "present tenses instead of past tenses (and vice versa)" como el segundo error gramatical más común, y dice que es alto en comparación con otras lenguas maternas. Las palabras más confundidas son *had*, *was* y *would*. Es una hoja de enseñanza sin método publicado, con ejemplos de España.
 
-| Castellano | Error típico | Inglés |
+| Castellano | Calco del castellano | Inglés |
 |---|---|---|
 | *Vivo acá desde 2020.* | ~~*I live here since 2020.*~~ | *I've lived / I've been living here since 2020.* |
 | *Hace dos horas que espero.* | ~~*I wait for two hours.*~~ | *I've been waiting for two hours.* |
@@ -79,7 +79,7 @@ La hoja de errores de Cambridge para aprendices con L1 español pone el uso de "
 | *Estoy queriendo cambiar de trabajo.* | ~~*I'm wanting to change jobs.*~~ | *I want to change jobs.* |
 | *Cuando llegué, ya se habían ido.* | ~~*When I arrived, they left.*~~ | *When I arrived, they had left.* |
 
-El primer par es el más persistente: el castellano usa presente con *desde* y *hace*, y el inglés exige perfecto para lo que empezó antes y sigue. Está desarrollado en [present perfect](present-perfect.md).
+En el primer par, el castellano usa presente con *desde* y *hace*, y el inglés exige perfecto para lo que empezó antes y sigue. Está desarrollado en [present perfect](present-perfect.md).
 
 ## Cómo se entrena la elección del tiempo
 
@@ -87,4 +87,4 @@ La reseña de Bardovi-Harlig y Comajoan-Colomé (2022), según su resumen, junta
 
 > [!NOTE] Sin fuente todavía: estudios con adultos B2-C1 que comparen métodos para elegir el tiempo verbal al hablar. Lo disponible son tesis y estudios cortos.
 
-Lo que sí respalda la evidencia general es combinar la regla explícita con práctica oral significativa ([instrucción explícita](../Adquisicion/instruccion-explicita.md) y [automatización](../Adquisicion/automatizacion.md)). Para el modelo mental, Leech (*Meaning and the English Verb*) en sus capítulos de presente y pasado simple y de aspecto progresivo; para practicar, las unidades de tiempo verbal de Hewings.
+La evidencia general respalda la [instrucción explícita](../Adquisicion/instruccion-explicita.md) frente a la implícita; sumarle práctica oral para la [automatización](../Adquisicion/automatizacion.md) es la propuesta de la base, y ninguna fuente de esta nota la probó para tiempo y aspecto. Para el modelo mental, Leech (*Meaning and the English Verb*) en sus capítulos de presente y pasado simple y de aspecto progresivo; para practicar, las unidades de tiempo verbal de Hewings.

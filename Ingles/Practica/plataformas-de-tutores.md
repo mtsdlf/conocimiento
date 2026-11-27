@@ -21,7 +21,7 @@ Las plataformas de clases de inglés en línea con tutores (italki, Preply, Camb
 precio al 2026-11-27, casi todo según fuentes no oficiales o interesadas.
 
 Implementa la [conversación con corrección](conversacion-con-correccion.md) con tutor pago. Antes
-de elegir, conviene leer ahí cómo pedir que te corrijan: rinde más que la plataforma que se use.
+de elegir, conviene leer ahí cómo pedir que te corrijan.
 
 Copiado el 2026-11-27 de las fuentes que se indican. Ninguna página oficial de precios se pudo
 leer: la de italki es un blog de la propia empresa, y las de Preply y Cambly dieron 404, así que

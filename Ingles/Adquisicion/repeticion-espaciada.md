@@ -37,7 +37,7 @@ Dentro de [Adquisición](adquisicion.md) es la pieza de la memoria: lo que la
 [automatización](automatizacion.md) forma la familia de la práctica. La aplica sobre todo
 [Léxico](../Lexico/lexico.md).
 
-## Dos efectos que se suman: espaciar y recuperar
+## Dos efectos: espaciar y recuperar
 
 Son dos hallazgos de la psicología de la memoria, aplicados al idioma:
 
@@ -96,7 +96,7 @@ en vez de pares sueltos traducidos:
 
 Hay que cuidar la interferencia. Nakata y Suzuki (2018), con 133 universitarios japoneses y 48
 pares inglés-japonés, hallaron que agrupar palabras del mismo campo (todas las de cocina juntas) no
-bajó los puntajes, pero produjo más confusiones entre ellas. Conviene no meter *embarrassed*,
+bajó los puntajes, pero produjo más confusiones entre ellas. Por precaución (es una inferencia, no un resultado), conviene no meter *embarrassed*,
 *ashamed* y *awkward* en el mismo día.
 
 La herramienta concreta está en [Herramientas de inglés](../Practica/herramientas-de-ingles.md).

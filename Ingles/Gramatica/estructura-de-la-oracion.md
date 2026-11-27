@@ -25,13 +25,13 @@ revisado:
 
 La oración inglesa tiene un orden fijo (sujeto, verbo, objeto) y siempre un sujeto explícito, aunque sea un *it* o un *there* vacío; el castellano, con orden libre y sujeto omitible, deja errores típicos en el sujeto, en el lugar de adjetivos y adverbios y en las preguntas indirectas.
 
-Es la parte de la [gramática](gramatica.md) más cercana a la transferencia pura. Lo que el castellano hace moviendo palabras para dar énfasis, el inglés lo hace con [estructuras avanzadas](estructuras-avanzadas.md) o con la [entonación](../Pronunciacion/entonacion.md).
+Reúne los errores de sujeto, orden y preguntas que vienen del castellano. Lo que el castellano hace moviendo palabras para dar énfasis, el inglés lo hace con [estructuras avanzadas](estructuras-avanzadas.md) o con la [entonación](../Pronunciacion/entonacion.md).
 
 ## El sujeto no se omite nunca
 
 El castellano omite el sujeto porque el verbo ya dice la persona (*llueve*, *es importante*, *hay tiempo*). El inglés lo exige siempre; cuando no hay un sujeto real, pone uno vacío: *it* para el clima, la hora, la distancia y las oraciones con *to* o *that*, y *there* para la existencia.
 
-| Castellano | Error típico | Inglés |
+| Castellano | Calco del castellano | Inglés |
 |---|---|---|
 | *Llueve.* | ~~*Is raining.*~~ | *It's raining.* |
 | *Es importante llegar temprano.* | ~~*Is important to arrive early.*~~ | *It's important to arrive early.* |
@@ -40,7 +40,7 @@ El castellano omite el sujeto porque el verbo ya dice la persona (*llueve*, *es 
 | *Dice que viene.* | ~~*Says that comes.*~~ | *She says she's coming.* |
 | *Está lejos.* | ~~*Is far.*~~ | *It's far.* |
 
-Según una revisión de estudios de los años ochenta y noventa, los hispanohablantes aceptaban oraciones sin sujeto al principio, y la aceptación bajaba con el nivel. Los sujetos vacíos (*it is*, *there is*) persistían más, incluso en avanzados; Phinney (1987) encontró más omisión de esos que de sujetos con referente en redacciones. Son datos escritos y viejos: para un B2 que habla, el efecto probablemente es menor, pero no hay dato. Donde más se ve es en la oración subordinada rápida: *I think ~~is~~ it's a good idea*.
+Según una revisión de estudios de los años ochenta y noventa, los hispanohablantes aceptaban oraciones sin sujeto al principio, y la aceptación bajaba con el nivel. Los sujetos vacíos (*it is*, *there is*) persistían más, incluso en avanzados; Phinney (1987) encontró más omisión de esos que de sujetos con referente en redacciones. Son datos escritos y viejos: para un B2 que habla, el efecto probablemente es menor, pero no hay dato.
 
 ## Sujeto, verbo y objeto en ese orden
 
@@ -50,7 +50,7 @@ Una sola negación por oración: *No sé nada* → *I don't know anything* (o *I
 
 ## Los adverbios no van entre el verbo y el objeto
 
-| Castellano | Error típico | Inglés |
+| Castellano | Calco del castellano | Inglés |
 |---|---|---|
 | *Me gusta mucho el fútbol.* | ~~*I like very much football.*~~ | *I like football very much.* / *I really like football.* |
 | *Habla muy bien inglés.* | ~~*She speaks very well English.*~~ | *She speaks English very well.* |
@@ -70,7 +70,7 @@ El adjetivo va antes del sustantivo (*a red car*), y cuando hay varios siguen un
 
 Dentro de otra oración, la pregunta pierde el auxiliar y vuelve al orden de afirmación:
 
-| Pregunta directa | Error típico en la indirecta | Inglés |
+| Pregunta directa | Calco en la indirecta | Inglés |
 |---|---|---|
 | *Where is he?* | ~~*Do you know where is he?*~~ | *Do you know where he is?* |
 | *What time is it?* | ~~*Can you tell me what time is it?*~~ | *Can you tell me what time it is?* |
@@ -82,6 +82,6 @@ Las preguntas indirectas son también una forma de cortesía (*Could you tell me
 > [!IMPORTANT]
 > **Si el error viene del castellano.** Escutia (2002) encontró que los aprendices españoles tratan las preguntas indirectas como directas y lo vincula con que el castellano prefiere invertir en la subordinada (*¿Sabés dónde está Juan?*). Un estudio de producción con aprendices chinos y españoles, en cambio, encontró que la lengua materna no predecía la producción: lo hacían las propiedades del inglés, con más inversión indebida en las subordinadas con *wh-* que en las de sí o no. Ambos se conocen por su resumen.
 
-En las preguntas directas, el error típico es olvidar el auxiliar (~~*You like it?*~~, ~~*Where you work?*~~). Con entonación ascendente, *You like it?* se oye en el habla informal, pero la forma neutra es *Do you like it?* Las preguntas por el sujeto no llevan *do*: *Who called?*, no ~~*Who did call?*~~.
+En las preguntas directas, otro error posible es olvidar el auxiliar (~~*You like it?*~~, ~~*Where you work?*~~). Con entonación ascendente, *You like it?* se oye en el habla informal, pero la forma neutra es *Do you like it?* Las preguntas por el sujeto no llevan *do*: *Who called?*, no ~~*Who did call?*~~.
 
 Para el detalle, Swan (*Practical English Usage*) en sus entradas de orden de adjetivos, posición de adverbios y preguntas indirectas. Las preposiciones, otro error de estructura, se tratan con el léxico, en [colocaciones y chunks](../Lexico/colocaciones-y-chunks.md).

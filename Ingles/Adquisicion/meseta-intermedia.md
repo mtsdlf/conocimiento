@@ -56,8 +56,7 @@ affect our understanding of the speaker»: nadie pide aclaración por un *explai
 learner may simple never notice them» (el *simple* es del original). El ciclo de notar, estudiar y
 practicar no arranca, porque nada lo dispara.
 
-Suma dos causas más. Una es la motivación: cuando el inglés alcanza para trabajar, deja de haber
-presión para mejorarlo. La otra viene de la enseñanza comunicativa temprana, que según Higgs y
+Richards suma dos causas más. Una es la motivación; el informe no registra cómo la explica. La otra viene de la enseñanza comunicativa temprana, que según Higgs y
 Clifford (1982), citados por Richards, produce fluidez a costa de exactitud.
 
 El MCER reconoce algo parecido en su escala de exactitud gramatical: «research in English, French
@@ -72,9 +71,9 @@ refleja en sus descriptores ([Niveles del MCER](../Fundamentos/niveles-mcer.md))
 cambiar, y *estabilización*.
 
 > [!IMPORTANT]
-> **¿Existe la fosilización?** Han (2004) defiende el concepto como organizador y propone la
-> Selective Fossilization Hypothesis (2009): qué partes del idioma se fosilizan depende de cuánto
-> difieren de la lengua materna y de cuán abundante es el input. Del otro lado, según las reseñas,
+> **¿Existe la fosilización?** Han (2004) estudia la fosilización en adultos y propone la
+> Selective Fossilization Hypothesis (2009): qué partes del idioma se fosilizan depende de la marcación
+> de la lengua materna y de la robustez del input en la L2. Del otro lado, según las reseñas,
 > Long (2003) cuestiona la utilidad del concepto y prefiere hablar de estabilización y fluctuación;
 > Birdsong (2004) dice que se usa como comodín para «cualquier falta de progreso», y varios
 > señalan que no tiene definición unificada ni descripción empírica sólida. Han y Odlin (2006)

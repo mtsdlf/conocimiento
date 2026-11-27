@@ -40,7 +40,7 @@ Munro y Derwing (1995) separaron tres cosas que suelen mezclarse:
 | Comprensibilidad | Cuánto esfuerzo le cuesta entender | Escala de facilidad que puntúa el oyente |
 | Acento | Cuánto se aleja el habla de la del oyente nativo | Escala de acento que puntúa el oyente |
 
-En su estudio, la comprensibilidad correlacionó con la inteligibilidad en 15 de 18 oyentes y el acento solo en 5. Se puede tener acento marcado y ser perfectamente inteligible. Levis (2005) llamó a esto el principio de inteligibilidad, frente al principio de natividad: la enseñanza apunta a lo que hace falta para entenderse, no a borrar todo rasgo extranjero. La comprensibilidad es la medida que más le importa a alguien que trabaja en inglés, porque un oyente que entiende con esfuerzo se cansa y desconfía.
+En su estudio, la comprensibilidad correlacionó con la inteligibilidad en 15 de 18 oyentes y el acento solo en 5. Se puede tener acento marcado y ser perfectamente inteligible. Levis (2005) llamó a esto el principio de inteligibilidad, frente al principio de natividad: la enseñanza apunta a lo que hace falta para entenderse, no a borrar todo rasgo extranjero. La comprensibilidad es la medida que más le importa a alguien que trabaja en inglés, porque mide el esfuerzo que le cuesta al oyente.
 
 ## La carga funcional ordena qué errores pesan
 
@@ -53,18 +53,18 @@ Munro y Derwing (2006) hicieron juzgar a 13 oyentes nativos 23 oraciones de habl
 
 ## El Lingua Franca Core es un piso, no la meta
 
-Jenkins (2000) propuso el Lingua Franca Core: los rasgos que hay que mantener para que dos hablantes no nativos se entiendan. Según el resumen de Wikipedia, adentro quedan las consonantes salvo /θ ð/, la aspiración de /p t k/, los grupos iniciales, la duración vocálica y el acento nuclear contrastivo; afuera, /θ ð/, las formas débiles, buena parte del habla conectada, el acento de palabra y el ritmo acentual. Para quien apunta a C1/C2 y habla con nativos, el núcleo marca lo mínimo: lo que deja afuera sigue haciendo falta para entender a un nativo rápido.
+Jenkins (2000) propuso el Lingua Franca Core: los rasgos que hay que mantener para que dos hablantes no nativos se entiendan. Según el resumen de Wikipedia, adentro quedan las consonantes salvo /θ ð/, la aspiración de /p t k/, los grupos iniciales, la duración vocálica y el acento nuclear contrastivo; afuera, /θ ð/, las formas débiles, buena parte del habla conectada, el acento de palabra y el ritmo acentual. Para quien apunta a C1/C2 y habla con nativos, el núcleo marca lo mínimo. Que lo que deja afuera siga haciendo falta para entender a un nativo rápido es el argumento de esta base, no un resultado de estudio.
 
 > [!IMPORTANT]
-> **Qué se puede dejar afuera.** Jenkins sostiene que el acento de palabra y las formas débiles no rompen la inteligibilidad entre no nativos, y que muchas críticas malinterpretan la propuesta. Según el mismo resumen, la base son 40 casos de malentendido entre hablantes japoneses y suizos, y se discutieron /θ ð/ (Osimk 2009), la vocal de NURSE (Walker y Zoghbor 2015), el acento léxico (McCrocklin 2012) y el tono (Pickering 2009). Field (2005) mostró que el acento mal puesto baja la inteligibilidad cuando además cambia la vocal ([Acento de palabra](acento-de-palabra.md)).
+> **Qué se puede dejar afuera.** Jenkins sostiene que el acento de palabra y las formas débiles no rompen la inteligibilidad entre no nativos, y que muchas críticas malinterpretan la propuesta. Según el mismo resumen, la base son 40 casos de malentendido entre hablantes japoneses y suizos, y se discutieron /θ ð/ (Osimk 2009), la vocal de NURSE (Walker y Zoghbor 2015), el acento léxico (McCrocklin 2012) y el tono (Pickering 2009). En Field (2005), la pérdida de inteligibilidad por el acento dependió de si cambiaba también la calidad de la vocal (según su abstract; [Acento de palabra](acento-de-palabra.md)).
 
 ## Segmentos y suprasegmentos se entrenan juntos
 
-El campo divide la pronunciación en **segmentos** (vocales y consonantes) y **suprasegmentos** o prosodia (acento, ritmo, entonación), más el habla conectada. Derwing, Munro y Wiebe (1998) se citan a favor de enseñar segmentos, prosodia y fluidez en conjunto, y Saito y Plonsky (2019) recomiendan priorizar lo que afecta la comprensibilidad, sea del nivel que sea. Para el hispanohablante la frontera se borra: la reducción vocálica es un hecho de vocal y de ritmo a la vez.
+El campo divide la pronunciación en **segmentos** (vocales y consonantes) y **suprasegmentos** o prosodia (acento, ritmo, entonación), más el habla conectada. Derwing, Munro y Wiebe (1998) se citan a favor de enseñar segmentos, prosodia y fluidez en conjunto, y Saito y Plonsky (2019) recomiendan enfocar los rasgos que afectan la comprensibilidad. Para el hispanohablante la frontera se borra: la reducción vocálica es un hecho de vocal y de ritmo a la vez.
 
 ## La instrucción de pronunciación funciona
 
-Lee, Jang y Plonsky (2015) reunieron 86 informes. Según su abstract, el efecto fue generalmente grande: d = 0,89 dentro del mismo grupo y d = 0,80 entre grupos (una revisión de 2019 llama "medio" al mismo 0,80). Fue mayor con intervenciones más largas, con [feedback correctivo](../Adquisicion/feedback-correctivo.md) y con medidas más controladas. Saito y Plonsky (2019), sobre 77 estudios, mostraron que el resultado depende de si se mide el rasgo entrenado o la comprensibilidad global. Según el resumen de su revisión narrativa, Derwing y Thomson (2015) concluyen que la instrucción casi siempre mejora algo, con resultados mixtos según la medida. Ningún artículo de estos se leyó entero.
+Lee, Jang y Plonsky (2015) reunieron 86 informes. Según su abstract, el efecto fue generalmente grande: d = 0,89 dentro del mismo grupo y d = 0,80 entre grupos (una revisión de 2019 llama "medio" al mismo 0,80). Fue mayor con intervenciones más largas, con [feedback correctivo](../Adquisicion/feedback-correctivo.md) y con medidas más controladas. Saito y Plonsky (2019), que reanalizaron 77 estudios, hallaron que el valor de la instrucción depende de si se mide un rasgo específico o uno global como la comprensibilidad. Derwing y Thomson (2015) hicieron una revisión narrativa; lo que se pudo consultar dice que la instrucción casi siempre mejora algo y que los resultados son mixtos según la medida, pero no se verificó la frase exacta. Ningún artículo de estos se leyó entero.
 
 > [!IMPORTANT]
 > **¿Inteligibilidad o acento nativo?** La meta de inteligibilidad se apoya en Munro y Derwing (1995) y Levis (2005). La posición contraria dice que el acento se penaliza socialmente. Lev-Ari y Keysar (2010) hallaron que los acentos fuertes se juzgaban menos creíbles, pero Lorenzoni et al. (2024) no lo replicaron (60 oyentes, sin diferencia de credibilidad para frases nuevas); en ese mismo estudio, 109 evaluadores puntuaron peor a los hablantes extranjeros en 8 de 11 rasgos sociales. Sonar más nativo es una meta legítima si alguien la elige; esta base no la descarta, pero ordena las prioridades por inteligibilidad. Cuánto se puede acercar un adulto está en [Edad y diferencias individuales](../Adquisicion/edad-y-diferencias-individuales.md).
@@ -91,8 +91,8 @@ Para un hispanohablante, cruzar la carga funcional, el núcleo de Jenkins y lo q
 
 ## Las cinco partes del sonido del inglés
 
-- [Vocales](vocales.md) — de las cinco del castellano a las del inglés: /i/-/ɪ/, /æ/-/ʌ/-/ɑ/, la schwa y las vocales con r; el error de mayor carga funcional.
-- [Consonantes](consonantes.md) — /θ ð v z h r/, /ʃ tʃ dʒ j/, la aspiración, la /s/ inicial, los grupos finales y las terminaciones *-ed* y *-s*.
-- [Acento de palabra](acento-de-palabra.md) — dónde cae, cómo lo mueven los sufijos, los cognados que engañan y cuándo rompe la inteligibilidad.
-- [Ritmo y habla conectada](ritmo-y-habla-conectada.md) — ritmo acentual, formas débiles, linking, elisión, asimilación, flap y contracciones; la clave para entender a nativos rápidos.
-- [Entonación](entonacion.md) — tonalidad, foco y tonos, y lo que comunica mover la prominencia.
+- [Vocales](vocales.md): de las cinco del castellano a las del inglés: /i/-/ɪ/, /æ/-/ʌ/-/ɑ/, la schwa y las vocales con r; incluye /i/-/ɪ/, de carga funcional alta.
+- [Consonantes](consonantes.md): /θ ð v z h r/, /ʃ tʃ dʒ j/, la aspiración, la /s/ inicial, los grupos finales y las terminaciones *-ed* y *-s*.
+- [Acento de palabra](acento-de-palabra.md): dónde cae, cómo lo mueven los sufijos, los cognados que engañan y cuándo rompe la inteligibilidad.
+- [Ritmo y habla conectada](ritmo-y-habla-conectada.md): ritmo acentual, formas débiles, linking, elisión, asimilación, flap y contracciones; una de las causas de no entender a nativos rápidos.
+- [Entonación](entonacion.md): tonalidad, foco y tonos, y lo que comunica mover la prominencia.

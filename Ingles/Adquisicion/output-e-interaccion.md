@@ -9,7 +9,7 @@ fuentes:
   - "Richards, Moving Beyond the Plateau (2008), secciones sobre noticing y output: https://professorjackrichards.com/wp-content/uploads/moving-beyond-the-plateau.pdf"
   - "Swain y Lapkin (1995), Testing the output hypothesis: https://experts.umn.edu/en/publications/testing-the-output-hypothesis/ (según resumen)"
   - "Schmidt (1990), The role of consciousness in second language learning, Applied Linguistics 11(2): https://doi.org/10.1093/applin/11.2.129 (sin abstract; cita vía resumen)"
-  - "Noticing hypothesis: https://en.wikipedia.org/wiki/Noticing_hypothesis"
+  - "Noticing hypothesis: https://en.wikipedia.org/wiki/Noticing_hypothesis (resumen secundario)"
   - "Lyster y Saito (2010), SSLA, con la cita de Mackey y Goo (2007): https://doi.org/10.1017/S0272263109990520 (abstract)"
   - "Krashen (1998), Comprehensible Output?: https://www.academia.edu/35820980/Comprehensible_Output (según resumen)"
   - "Informes .investigacion/adquisicion-y-fundamentos.md y contraria.md (2026-11-27)"
@@ -48,10 +48,10 @@ nunca hubo problema. Producir la frase hace visible que *realize* no lleva *of*,
 «darse cuenta de» empuja a ponerla.
 
 Swain misma encuadra la hipótesis como modesta: el output no explica «all or most» de lo que se
-aprende. Según los resúmenes disponibles, varios estudios no lograron mostrar que producir haga
+aprende. Una de las fuentes recuperadas dice que muchos estudios no mostraron que producir haga
 notar más.
 
-## Notar es la puerta: la hipótesis de Schmidt
+## La hipótesis de Schmidt: notar para aprender
 
 Schmidt (1990) sostuvo, en su versión fuerte, que no se aprende nada sin notarlo: «noticing is the
 necessary and sufficient condition for converting input to intake». La apoyó en su propio
@@ -65,22 +65,22 @@ vuelve más fácil de notar la próxima vez que aparece en el input.
 ## Negociar el significado en una conversación
 
 La hipótesis de la interacción de Long sostiene que, cuando la comunicación se traba, los dos
-hablantes ajustan lo que dicen hasta entenderse, y ese ajuste hace notar la forma. Un caso típico
+hablantes ajustan lo que dicen hasta entenderse, y ese ajuste hace notar la forma (descripción de
+manual; el original de Long no se leyó). Un caso típico
 de hispanohablante:
 
 > A: *I can't go, I'm embarrassed.* (quiso decir «embarazada»)
 > B: *Embarrassed? About what?*
 > A: *No, no... I'm pregnant.*
 
-El pedido de aclaración de B obliga a A a buscar otra palabra, y el falso amigo queda marcado para
-siempre ([Cognados y falsos amigos](../Lexico/cognados-y-falsos-amigos.md)). Ese tipo de
+El pedido de aclaración de B obliga a A a buscar otra palabra, y el falso amigo queda marcado ([Cognados y falsos amigos](../Lexico/cognados-y-falsos-amigos.md)). Ese tipo de
 negociación es una forma de [feedback correctivo](feedback-correctivo.md) sin que nadie corrija a
 propósito.
 
 El efecto de la interacción tiene cifras, aunque de segunda mano: Mackey y Goo (2007) reportan,
 según una cita en Lyster y Saito (2010), efectos de 0.71 en la prueba inmediata y 1.09 en la
-diferida, y en aula de 0.57 y 0.76. Las fuentes no coinciden en cuántos estudios reunió (26 o 28),
-y Lyster y Ranta advierten que los efectos de laboratorio fueron mayores que los de aula.
+diferida, y en aula de 0.57 y 0.76. Las fuentes no coinciden en cuántos estudios reunió (26 o 28). Los efectos en aula salen menores que los globales, y no se verificó
+ninguna de las cifras en el original.
 
 ## Por qué el B2 deja de negociar
 

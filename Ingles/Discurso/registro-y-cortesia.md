@@ -37,7 +37,7 @@ En el MCER esto es competencia sociolingüística, no pragmática; en este tema 
 
 ## Cara y amenaza: el marco de Brown y Levinson
 
-La teoría de la cortesía más usada es la de Brown y Levinson (1987). Todo hablante tiene una **cara positiva** (el deseo de ser aprobado) y una **cara negativa** (el deseo de que no le impongan nada). Un pedido amenaza la cara negativa del otro; una crítica, la positiva. La cortesía son las estrategias para reducir esa amenaza. Lo más discutido del marco es que la "cara" sea universal: la distancia y el poder entre los hablantes pesan tanto como la cultura. Sirve como mapa, no como ley.
+La teoría de la cortesía más usada es la de Brown y Levinson (1987). Todo hablante tiene una **cara positiva** (el deseo de ser aprobado) y una **cara negativa** (el deseo de que no le impongan nada). Un pedido amenaza la cara negativa del otro; una crítica, la positiva. La cortesía son las estrategias para reducir esa amenaza. Lo más discutido del marco es que la "cara" sea universal: una tesis halló que la distancia relacional y el poder también pesan. Sirve como mapa.
 
 ## Por qué el pedido rioplatense suena directo en inglés
 
@@ -48,11 +48,11 @@ Márquez Reiter (2000) comparó pedidos y disculpas de hablantes de inglés brit
 > [!IMPORTANT]
 > **¿Directo es descortés?** Una lectura de los datos es que el castellano rioplatense es menos cortés en los pedidos. Márquez Reiter discute esa lectura en otro trabajo: lo directo en castellano puede ser cortés en su contexto. Las dos cosas son compatibles, como inferencia propia: el pedido rioplatense no es descortés en castellano, pero trasladado al inglés, donde se espera la forma indirecta, queda brusco. Se conocen por resúmenes.
 
-El efecto está medido en mails. Docentes nativos juzgaron mails de aprendices como "significantly more abrupt, less polite" y como si no reconocieran bien lo que estaban pidiendo, según el resumen de Economidou-Kogetsidis (2016); no se pudo confirmar la muestra.
+Hay un estudio sobre mails de aprendices. Docentes nativos los juzgaron como "significantly more abrupt, less polite" y como si no reconocieran bien lo que estaban pidiendo, según el resumen de Economidou-Kogetsidis (2016); no se pudo confirmar la muestra.
 
 ## La escalera de un pedido
 
-El mismo pedido, de más directo a más indirecto. Ninguno es incorrecto; cada uno corresponde a una relación distinta.
+El mismo pedido, de más directo a más indirecto. Ninguno es incorrecto; cada uno corresponde a una relación distinta. La escalera es una descripción de esta nota, sin estudio detrás.
 
 | Forma | Cuándo |
 |---|---|
@@ -63,9 +63,9 @@ El mismo pedido, de más directo a más indirecto. Ninguno es incorrecto; cada u
 | *Would you mind sending me the report?* | cuando el pedido molesta o la relación es más distante |
 | *I was wondering if you could send me the report.* | para algo grande o hacia arriba en la jerarquía |
 
-Los errores típicos al traducir: *\*I need that you send me…* (castellano "necesito que") en lugar de *I need you to send me…* o, mejor, *Could you send me…*; *I want the report by Friday* (suena exigente) en lugar de *I'd like to have the report by Friday, if possible*; *\*Pass me the report* traduciendo "¿me pasás el informe?".
+Errores posibles al traducir: *\*I need that you send me…* (castellano "necesito que") en lugar de *I need you to send me…* o, mejor, *Could you send me…*; *I want the report by Friday* (suena exigente) en lugar de *I'd like to have the report by Friday, if possible*; *\*Pass me the report* traduciendo "¿me pasás el informe?".
 
-Las guías de lenguaje claro para textos públicos piden lo contrario: la de GOV.UK dice "There's usually no need to say 'please' or 'please note'". Es una regla para textos del gobierno dirigidos al público, no para un pedido a un colega, donde sacar el *please* y la pregunta suena brusco.
+Las guías de lenguaje claro para textos públicos piden lo contrario: la de GOV.UK dice "There's usually no need to say 'please' or 'please note'". Es una regla para textos del gobierno dirigidos al público, no para un pedido a un colega, donde sacar el *please* probablemente suena brusco.
 
 ## Matizar: decir lo mismo con menos certeza
 
@@ -78,8 +78,8 @@ El **hedging** es bajar la fuerza de una afirmación para dejar lugar al otro. H
 
 Comparar: *This is wrong* contra *I'm not sure this is right*; *Your proposal has a problem* contra *I think there might be an issue with the timeline*. El exceso también falla: apilar *I think maybe it could possibly be…* suena inseguro. El objetivo es un matiz por afirmación.
 
-## Enseñar cortesía funciona en el corto plazo
+## La enseñanza de cortesía funciona en las pruebas
 
-La instrucción en pragmática tiene buena evidencia agregada, con matices. Taguchi (2015) revisó 58 estudios de intervención, según el abstract. Plonsky y Zhuang (2019) sintetizaron 50 estudios con efectos significativos y sostenidos; otros metaanálisis reportan g = 1,656 (29 estudios) y d = 1,72 (89 artículos), según fuentes secundarias. Los efectos son grandes porque casi todos los estudios usan pruebas hechas a medida de lo enseñado y tienen instrucción corta; no muestran que el aprendiz use después esas formas sin pensarlo en una reunión real. Ese paso es [automatización](../Adquisicion/automatizacion.md), y pide práctica en situación.
+La instrucción en pragmática tiene buena evidencia agregada, con matices. Taguchi (2015) revisó 58 estudios de intervención, según el abstract. Plonsky y Zhuang (2019) sintetizaron 50 estudios con efectos significativos y sostenidos; otros metaanálisis reportan g = 1,656 (29 estudios) y d = 1,72 (89 artículos), según fuentes secundarias. Estos efectos conviene leerlos con cuidado: casi todos los estudios usan pruebas hechas a medida de lo enseñado y tienen instrucción corta, así que no muestran que el aprendiz use después esas formas sin pensarlo en una reunión real. Ese paso es [automatización](../Adquisicion/automatizacion.md), y pide práctica en situación.
 
 El recurso canónico es Márquez Reiter (2000), el capítulo de pedidos, junto con el capítulo de pedidos de CCSARP: conviene fijarse en las formulaciones convencionalmente indirectas y en qué se pierde al traducir, que es la fuerza del pedido sin sus atenuantes, no la gramática.

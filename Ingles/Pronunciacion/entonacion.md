@@ -57,11 +57,11 @@ El castellano mueve el orden de las palabras para lo mismo (*Lo rompió JUAN*) y
 | Caída en la tag | se pide confirmación | *It's cold, ISn't it?* ↘ |
 | Subida en la tag | es una pregunta de verdad | *You're coming, AREn't you?* ↗ |
 
-Son tendencias, no reglas fijas: una pregunta con *wh-* con subida suena más amable o de repregunta. La caída-subida es la que más le falta al hispanohablante, y con ella se dice que algo no termina ahí sin decirlo, lo que conecta con [registro y cortesía](../Discurso/registro-y-cortesia.md). Sobre las preguntas *wh-* de hispanohablantes hay solo un estudio piloto (Marasco 2011).
+Son tendencias, no reglas fijas: una pregunta con *wh-* con subida suena más amable o de repregunta. Con la caída-subida se dice que algo no termina ahí sin decirlo, lo que conecta con [registro y cortesía](../Discurso/registro-y-cortesia.md). Sobre las preguntas *wh-* de hispanohablantes hay solo un estudio piloto (Marasco 2011).
 
 ## Un rango tonal estrecho
 
-Marín Marín (2026) también halló en sus hablantes un rango tonal estrecho y contornos muy descendentes. Que eso suene en inglés aburrido, cortante o poco interesado es una interpretación frecuente en la enseñanza, no un dato de ese estudio. Ampliar el rango sobre la sílaba del foco es la forma de que la prominencia se note.
+Marín Marín (2026) también halló en sus hablantes un rango tonal estrecho y contornos muy descendentes. Si eso suena en inglés aburrido, cortante o poco interesado no es un dato de ese estudio ni de otra fuente consultada. Ampliar el rango sobre la sílaba del foco puede ayudar a que la prominencia se note, pero no quedó registrado un estudio que lo pruebe.
 
 > [!IMPORTANT]
 > **¿Se va la influencia del castellano con la experiencia?** Un estudio chileno encuentra que la influencia del idioma materno en la entonación baja con la experiencia en inglés. Marín Marín (2026) la encuentra persistente en hablantes avanzados. Las dos muestras son chicas, y ninguno de los dos estudios se leyó entero.
@@ -69,4 +69,4 @@ Marín Marín (2026) también halló en sus hablantes un rango tonal estrecho y 
 > [!NOTE]
 > Sin fuente todavía: el modelo de entonación del discurso de Brazil y las diferencias de entonación entre GA y RP.
 
-El foco es lo que más rinde para este lector, por la diferencia con la posición fija del castellano. El recurso canónico es Wells (2006), *English Intonation*, capítulos de tonicidad y tono. El oído para el foco se entrena con el [entrenamiento perceptivo](../Practica/entrenamiento-perceptivo.md) y el [shadowing](../Practica/shadowing.md).
+Según el criterio de esta base (apoyado en el contraste que muestran Nava y Marín, no en un estudio de eficacia), el foco es lo que más rinde para este lector, por la diferencia con la posición fija del castellano. El recurso canónico es Wells (2006), *English Intonation*, capítulos de tonicidad y tono. El oído para el foco se entrena con el [entrenamiento perceptivo](../Practica/entrenamiento-perceptivo.md) y el [shadowing](../Practica/shadowing.md).

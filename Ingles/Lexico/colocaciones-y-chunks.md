@@ -2,8 +2,8 @@
 resumen: >-
   Una colocación es una combinación de palabras que los hablantes prefieren por costumbre (make a
   mistake, heavy rain), y un chunk es una secuencia que se guarda y se usa entera (as far as I
-  know). Son la parte del léxico que más delata a un aprendiz avanzado, porque cada palabra suelta
-  está bien y la combinación no.
+  know). Delatan al aprendiz avanzado porque cada palabra suelta está bien y la combinación no,
+  según Pawley y Syder (1983, citados por Wray 2012).
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -29,13 +29,13 @@ revisado:
 
 # Colocaciones y chunks
 
-Una colocación es una combinación de palabras que los hablantes prefieren por costumbre (make a mistake, heavy rain), y un chunk es una secuencia que se guarda y se usa entera (as far as I know). Son la parte del léxico que más delata a un aprendiz avanzado, porque cada palabra suelta está bien y la combinación no.
+Una colocación es una combinación de palabras que los hablantes prefieren por costumbre (make a mistake, heavy rain), y un chunk es una secuencia que se guarda y se usa entera (as far as I know). Delatan al aprendiz avanzado porque cada palabra suelta está bien y la combinación no, según Pawley y Syder (1983, citados por Wray 2012).
 
 Es el componente de profundidad más amplio del [léxico](lexico.md). Los [phrasal verbs](phrasal-verbs.md) son, para la investigación, un caso particular de estas unidades de varias palabras, y van aparte solo por razones de enseñanza.
 
 ## Qué combinaciones prefiere el inglés
 
-Nada en la gramática impide decir *\*strong rain* o *\*do a mistake*; simplemente no se dice. La colocación es esa preferencia estadística. Los errores típicos del hispanohablante salen de traducir la combinación castellana:
+Nada en la gramática impide decir *\*strong rain* o *\*do a mistake*; simplemente no se dice. La colocación es esa preferencia estadística. Estos errores, ejemplos de la nota sin un estudio de frecuencia detrás, salen de traducir la combinación castellana:
 
 | Error frecuente | Forma inglesa | De dónde viene |
 |---|---|---|
@@ -52,7 +52,7 @@ Los **chunks** van más allá de dos palabras y suelen tener una función en la 
 
 ## Preposiciones regidas: la preposición viene con la palabra
 
-Muchos verbos, adjetivos y sustantivos piden una preposición fija, y casi nunca es la que pediría el castellano. No hay regla que la prediga: se aprende con la palabra, como parte del chunk.
+Muchos verbos, adjetivos y sustantivos piden una preposición fija, y con frecuencia no es la que pediría el castellano. No hay regla que la prediga: se aprende con la palabra, como parte del chunk.
 
 | Error frecuente | Forma inglesa |
 |---|---|
@@ -69,20 +69,20 @@ Muchos verbos, adjetivos y sustantivos piden una preposición fija, y casi nunca
 | *\*explain me the idea* | *explain the idea to me* |
 | *\*wait the bus* | *wait for the bus* |
 
-Las dos últimas filas muestran el caso inverso: verbos que en inglés no llevan preposición donde el castellano sí, o que la exigen donde el castellano no.
+Las filas de *discuss* y *enter* muestran el caso inverso: verbos que en inglés no llevan preposición donde el castellano sí.
 
 ## Por qué delatan al aprendiz avanzado
 
-Pawley y Syder (1983) sostuvieron que la fluidez nativa descansa en miles de secuencias guardadas y elegidas rápido, y que lo que delata al aprendiz avanzado es no usarlas. La idea se conoce acá por cómo la cuenta Wray (2012), no por el artículo original. El enfoque léxico de la enseñanza se asocia a Lewis (1993), y el estudio de las colocaciones con corpus a Sinclair (1991); ninguno de los dos se leyó para esta nota.
+Pawley y Syder (1983) sostuvieron que la fluidez nativa descansa en oraciones de varias palabras guardadas y elegidas rápido, y que lo que delata al aprendiz avanzado es no usarlas. La idea se conoce acá por cómo la cuenta Wray (2012), no por el artículo original. El enfoque léxico de la enseñanza se asocia a Lewis (1993), y el estudio de las colocaciones con corpus a Sinclair (1991); ninguno de los dos se leyó para esta nota.
 
 La evidencia de que se notan viene de estudios chicos. Boers et al. (2006) entrenaron a 17 estudiantes a notar secuencias formulaicas y dejaron 15 de control; dos jueces que no sabían quién era quién puntuaron más alto la fluidez oral del grupo entrenado, y la cantidad de secuencias usadas correlacionó con la nota, según el resumen.
 
 > [!IMPORTANT]
-> **¿El adulto aprende en bloques o palabra por palabra?** Wray (2002) sostenía que el adulto procesa el idioma nuevo de forma analítica y no guarda las combinaciones como el chico. Durrant y Schmitt (2010) mostraron que los adultos sí retienen qué palabras aparecieron juntas, y que más repetición da más retención; el déficit lo atribuyen a que el aprendiz recibe poco input, no a una incapacidad. Las dos posiciones se conocen por resúmenes.
+> **¿El adulto aprende en bloques o palabra por palabra?** Wray (2002) sostenía que el adulto aprende el idioma nuevo de forma no formulaica, sin guardar combinaciones enteras. Durrant y Schmitt (2010) mostraron que los adultos sí retienen qué palabras aparecieron juntas, y que más repetición da más retención; el déficit lo atribuyen a que el aprendiz recibe poco input, no a una incapacidad. Las dos posiciones se conocen por resúmenes.
 
 ## Enseñar colocaciones funciona, con una advertencia
 
-Un metaanálisis publicado en IRAL juntó 64 comparaciones de 17 estudios, con 3.859 participantes, y halló un efecto global de d = 1,415 (IC 95%: 1,189 a 1,641), según su resumen. Las intervenciones explícitas, en las que se señala y se explica la combinación, rindieron más que las implícitas. La cantidad y duración de las sesiones no tuvieron el efecto esperado. Un efecto tan grande sugiere que las pruebas medían casi lo mismo que se enseñó; hay una crítica general en esa línea a los metaanálisis del campo. No mide si la persona después usa esas combinaciones al hablar.
+Un metaanálisis publicado en IRAL juntó 64 proyectos de investigación de 17 estudios, con 3.859 participantes, y halló un efecto global de d = 1,415 (IC 95%: 1,189 a 1,641), según su resumen. Las intervenciones explícitas, en las que se señala y se explica la combinación, rindieron más que las implícitas. La frecuencia de las sesiones, su duración y el formato de respuesta no mostraron efectos significativos. Un efecto tan grande hace sospechar que las pruebas medían algo muy cercano a lo enseñado; es una lectura prudente de esta base, no una conclusión de los autores, y existe una crítica general a la interpretación de los metaanálisis del campo. El resumen no dice si la persona usa después esas combinaciones al hablar.
 
 Ningún metaanálisis de Boers sobre colocaciones apareció en la búsqueda; lo que existe de él es una línea de tiempo del campo (Boers y Webb, 2018) y el libro con Lindstromberg (2009).
 
@@ -90,7 +90,7 @@ Ningún metaanálisis de Boers sobre colocaciones apareció en la búsqueda; lo 
 
 Dos listas de investigación ordenan qué combinaciones conviene estudiar primero, según sus resúmenes:
 
-- La PHRASE List (Martinez y Schmitt, 2012) reúne 505 expresiones de varias palabras, frecuentes y de significado poco transparente, pensadas sobre todo para entender al leer.
+- La PHRASE List (Martinez y Schmitt, 2012) reúne 505 expresiones de varias palabras, frecuentes y de significado poco transparente, pensadas sobre todo para uso receptivo.
 - La Academic Collocation List (Ackermann y Chen, 2013) tiene 2.468 entradas según el abstract (otras fuentes dicen 2.464), sacadas de un corpus académico de más de 25 millones de palabras. Son combinaciones del estilo de *draw a conclusion* o *play a role*, útiles para escribir en el trabajo.
 
 ## Cómo se trabaja una colocación

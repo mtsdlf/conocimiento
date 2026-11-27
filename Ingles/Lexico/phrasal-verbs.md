@@ -24,7 +24,7 @@ revisado:
 
 Un phrasal verb es un verbo seguido de una partícula (up, out, off…) que juntos forman una unidad con significado propio, a menudo imposible de adivinar por las partes: give up, find out, put off. Unos pocos cubren la mitad del uso, pero cada uno tiene varios sentidos, y esa polisemia es la dificultad real.
 
-Para la investigación son un subtipo de unidad de varias palabras, como las [colocaciones y chunks](colocaciones-y-chunks.md): las listas de frecuencia los cuentan junto a modismos y colocaciones. Tienen nota propia dentro del [léxico](lexico.md) por razones de enseñanza: son muy frecuentes, muy polisémicos, el castellano no tiene nada parecido y el hispanohablante tiende a esquivarlos.
+Para la investigación son un subtipo de unidad de varias palabras, como las [colocaciones y chunks](colocaciones-y-chunks.md): las listas de frecuencia los cuentan junto a modismos y colocaciones. Tienen nota propia dentro del [léxico](lexico.md) por razones de enseñanza: son muy frecuentes, muy polisémicos, el castellano no tiene nada parecido y los aprendices tienden a esquivarlos.
 
 ## Pocos verbos cubren la mitad del uso
 
@@ -36,7 +36,7 @@ Gardner y Davies (2007) contaron los phrasal verbs del British National Corpus, 
 
 La lista PHaVE (Garnier y Schmitt, 2015) parte del mismo problema y reúne los 150 phrasal verbs más frecuentes con sus sentidos principales. Según el abstract cubren más del 75% de los casos en un corpus de inglés americano; otras fuentes secundarias hablan de 83% y de 288 sentidos. No se pudo verificar cuál cifra es la del artículo.
 
-## El problema son los sentidos, no la cantidad
+## Cada phrasal verb tiene varios sentidos
 
 Las 100 formas más frecuentes tienen 559 sentidos posibles, 5,6 por phrasal verb, según Gardner y Davies. Aprender *pick up* como "levantar" deja afuera casi todo lo que hace en la conversación:
 
@@ -50,9 +50,9 @@ Las 100 formas más frecuentes tienen 559 sentidos posibles, 5,6 por phrasal ver
 
 Lo mismo pasa con *take off* (despegar, sacarse ropa, despegar un negocio), *come up* (surgir: *something came up*) o *work out* (hacer ejercicio, resolver, salir bien). Por eso se estudian sentido por sentido, cada uno con su oración.
 
-## Por qué el hispanohablante los esquiva
+## Una hipótesis sobre la evitación en hispanohablantes
 
-El castellano pone la dirección del movimiento en el verbo (salir, entrar, subir, bajar) y el inglés la pone en la partícula (*go out*, *come in*, *go up*, *get down*). El resultado típico es elegir el verbo de origen latino, que existe y se entiende, pero suena formal o raro en la conversación:
+Una hipótesis, que se asocia a Talmy y que ninguna fuente leída liga con la evitación, parte de que el castellano pone la dirección del movimiento en el verbo (salir, entrar, subir, bajar) y el inglés en la partícula (*go out*, *come in*, *go up*, *get down*). El hispanohablante elegiría entonces el verbo de origen latino, que existe y se entiende, pero suena formal en la conversación:
 
 | Lo que sale traduciendo | Lo que se dice hablando |
 |---|---|
@@ -62,7 +62,7 @@ El castellano pone la dirección del movimiento en el verbo (salir, entrar, subi
 | *He abandoned the project.* | *He gave up on the project.* |
 | *I'll investigate it.* | *I'll look into it.* |
 
-Que esa diferencia de tipología explique la evitación es una hipótesis; no apareció una fuente que lo pruebe. Los estudios de evitación más citados no son con hispanohablantes: Liao y Fukuya (2004) estudiaron a 70 aprendices chinos y hallaron que el nivel, el tipo de phrasal verb y el tipo de prueba influyen en cuánto se los evita. Para hispanohablantes solo aparecieron trabajos de grado, como uno con aprendices catalanes y españoles avanzados que los evitaban más cuando el sentido era menos transparente.
+Los estudios de evitación hallados no son con hispanohablantes: Liao y Fukuya (2004) estudiaron a 70 aprendices chinos y hallaron que el nivel, el tipo de phrasal verb y el tipo de prueba influyen en cuánto se los evita. Para hispanohablantes solo aparecieron trabajos de grado, como uno con aprendices catalanes avanzados que los evitaban más cuando el sentido era menos transparente. No apareció un estudio revisado por pares con rioplatenses.
 
 El doblete latino y germánico también es una cuestión de registro: el verbo latino no está mal, pero en un mail a un colega o en una reunión el phrasal verb es lo esperable. Eso sigue en [Cognados y falsos amigos](cognados-y-falsos-amigos.md).
 

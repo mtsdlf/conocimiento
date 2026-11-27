@@ -2,7 +2,7 @@
 resumen: >-
   Grabarse y medirse es registrar el propio inglés hablado con una tarea fija y compararlo en el
   tiempo según complejidad, exactitud y fluidez; es la técnica con menos evidencia de la práctica
-  como forma de mejorar, pero la única forma simple de ver si algo avanza.
+  como forma de mejorar, pero sirve como forma simple de ver si algo avanza.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -25,12 +25,11 @@ revisado:
 
 Grabarse y medirse es registrar el propio inglés hablado con una tarea fija y compararlo en el
 tiempo según complejidad, exactitud y fluidez; es la técnica con menos evidencia de la práctica
-como forma de mejorar, pero la única forma simple de ver si algo avanza.
+como forma de mejorar, pero sirve como forma simple de ver si algo avanza.
 
-Dentro de la [práctica](practica.md) cumple el papel de instrumento: dice si las otras técnicas
-están moviendo algo. Quien estudia solo no tiene un docente que note el cambio, y la sensación de
-estar estancado engaña en las dos direcciones. Una grabación de hoy contra una de hace tres meses,
-con la misma tarea, es un dato.
+Dentro de la [práctica](practica.md) es un instrumento: dice si las otras técnicas están
+moviendo algo. Una grabación de hoy contra una de hace tres meses, con la misma tarea, es un
+dato.
 
 ## Complejidad, exactitud y fluidez
 
@@ -44,8 +43,8 @@ inglés, CAF:
 | Fluidez | Qué tan rápido y sin cortes sale | Menos *eh…*, menos pausas en medio de una idea, menos frases empezadas de nuevo |
 
 Las tres no suben juntas: repetir tareas mejora la fluidez de forma consistente y las otras dos
-de forma variable ([fluidez](fluidez.md)), y tratar de hablar más complejo suele traer más
-errores por un tiempo. Medir las tres evita creer que se empeoró cuando se cambió una por otra.
+de forma variable ([fluidez](fluidez.md)). Medir las tres permite ver si una mejoró mientras otra
+no.
 
 > [!NOTE] Sin fuente todavía: el planteo original del marco CAF (Skehan) no se verificó en los
 > informes; se describe acá como se usa en la literatura de tareas.
@@ -57,14 +56,14 @@ velocidad (tasa de habla, tasa de articulación), interrupciones (pausas silenci
 llenas como *uh*, *um*, *eh*) y reparaciones (empezar de nuevo, corregirse, repetir). Hay dos
 medidas compuestas que se pueden hacer a mano:
 
-- **Velocidad de habla**: palabras (o sílabas) por minuto, contando todo el tiempo, pausas
+- Velocidad de habla: palabras (o sílabas) por minuto, contando todo el tiempo, pausas
   incluidas.
-- **Longitud media de tramo** (*mean length of run*): cuántas palabras salen seguidas, en
+- Longitud media de tramo (*mean length of run*): cuántas palabras salen seguidas, en
   promedio, entre una pausa y la siguiente.
 
-Para exactitud alcanza contar errores cada cien palabras, o el porcentaje de oraciones sin
-errores. Para complejidad, contar cuántas oraciones tienen una subordinada o un conector que no
-sea *and*, *but* o *because*.
+Para exactitud se pueden contar los errores cada cien palabras o el porcentaje de oraciones sin
+errores. Para complejidad, cuántas oraciones tienen una subordinada o un conector que no sea
+*and*, *but* o *because*. Son medidas propuestas por esta base, sin fuente.
 
 > [!NOTE] Sin fuente todavía: qué valores de velocidad o de pausas corresponden a un C1. El MCER
 > no da umbrales numéricos; describe la fluidez con palabras ([niveles del MCER](../Fundamentos/niveles-mcer.md)).
@@ -74,7 +73,7 @@ sea *and*, *but* o *because*.
 
 En un estudio de alemán como segunda lengua, las valoraciones globales que los hablantes hicieron
 de su pronunciación coincidieron con las de expertos en 85% de los casos, pero no identificaban
-bien los sonidos puntuales, como las vocales. Uno se juzga bien en lo global y mal en lo fino. La
+bien los sonidos puntuales, como las vocales. Uno se juzga bien en lo global y peor en lo fino. La
 evidencia de que autoevaluarse mejore el habla es mixta: hubo mejoras en un estudio de 7
 participantes y ninguna diferencia frente al control en otro con autoevaluación semanal. Según
 esos trabajos, funciona mejor con criterios claros y en niveles avanzados. Todo esto viene de

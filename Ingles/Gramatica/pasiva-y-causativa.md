@@ -26,9 +26,9 @@ Es parte de la [gramática](gramatica.md), y su uso depende sobre todo del regis
 
 ## El se castellano y la pasiva inglesa
 
-El castellano casi no usa la pasiva con *ser* en el habla. Usa la pasiva refleja (*se vende*), que según un estudio sobre pasivas en español es más frecuente que la perifrástica, o el plural impersonal (*me robaron*). El inglés no tiene *se*: necesita un sujeto, y para no nombrar a quien hace la acción usa la pasiva, *they*, *you* o *people*.
+El castellano usa la pasiva refleja (*se vende*), que según un estudio sobre pasivas en español es más frecuente que la perifrástica (con *ser*), o el plural impersonal (*me robaron*). El inglés no tiene *se*: necesita un sujeto, y para no nombrar a quien hace la acción usa la pasiva, *they*, *you* o *people*.
 
-| Castellano | Error típico | Inglés |
+| Castellano | Calco del castellano | Inglés |
 |---|---|---|
 | *Se habla inglés.* | ~~*Is spoken English.*~~ / ~~*Speaks English.*~~ | *English is spoken here.* |
 | *Me robaron el celular.* | ~~*They stole me the phone.*~~ | *My phone was stolen.* / *Someone stole my phone.* |
@@ -39,15 +39,15 @@ El castellano casi no usa la pasiva con *ser* en el habla. Usa la pasiva refleja
 
 ## Cuándo conviene la pasiva
 
-La pasiva sirve cuando quien hace la acción no importa, no se sabe o es obvio (*The building was built in 1920*), y cuando lo conocido tiene que ir al principio de la oración y lo nuevo al final (*The report was written by the new manager*: lo nuevo es quién). Biber et al. (*Longman Grammar of Spoken and Written English*), que miden frecuencias en cuatro registros, la muestran como un rasgo de la prosa académica y la prensa, mucho más que de la conversación. En una charla, *They fixed it* suena más natural que *It was fixed*.
+La pasiva sirve cuando quien hace la acción no importa, no se sabe o es obvio (*The building was built in 1920*), y cuando lo conocido tiene que ir al principio de la oración y lo nuevo al final (*The report was written by the new manager*: lo nuevo es quién). Biber et al. (*Longman Grammar of Spoken and Written English*) miden frecuencias normadas en cuatro registros (conversación, ficción, prensa y prosa académica). Que la pasiva pese más en la prosa académica y la prensa que en la conversación es saber de manual, sin cifra verificada en esta base. En una charla, *They fixed it* suena más natural que *It was fixed*.
 
 > [!NOTE] Sin fuente todavía: las cifras de frecuencia de la pasiva y de la pasiva con *get* por registro (están en Biber et al. y no se alcanzaron), y estudios de adultos hispanohablantes con pasivas inglesas.
 
-La **pasiva impersonal** es típica del inglés formal e informativo: *It is believed that…*, *It has been suggested that…*, *She is thought to have left the country*. La versión con sujeto personal (*He is said to be…*) no tiene equivalente directo en castellano y es una marca de C1.
+La **pasiva impersonal** es típica del inglés formal e informativo: *It is believed that…*, *It has been suggested that…*, *She is thought to have left the country*. La versión con sujeto personal (*He is said to be…*) no tiene equivalente directo en castellano.
 
 La **pasiva con *get*** es informal y suele indicar algo que le pasa a alguien, a menudo malo: *He got fired.* *We got stuck in traffic.* *Did you get paid?*
 
-Con verbos de dos objetos, el sujeto de la pasiva suele ser la persona: *I was given a second chance* (más natural que *A second chance was given to me*). El castellano no permite ese orden (~~*fui dado*~~), así que el hispanohablante tiende a evitarlo.
+Con verbos de dos objetos, el sujeto de la pasiva suele ser la persona: *I was given a second chance* (más natural que *A second chance was given to me*). El castellano no permite ese orden (~~*fui dado*~~).
 
 ## La causativa: alguien lo hace por uno
 

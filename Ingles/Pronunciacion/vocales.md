@@ -1,8 +1,8 @@
 ---
 resumen: >-
   Las vocales del inglés son muchas más que las cinco del castellano, y el hispanohablante tiende
-  a meter dos o tres vocales inglesas en una sola castellana: es el error de pronunciación que más
-  afecta la inteligibilidad.
+  a meter dos o tres vocales inglesas en una sola castellana, y eso incluye /i/-/ɪ/, un contraste
+  de carga funcional alta.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -21,9 +21,9 @@ revisado:
 
 # Vocales
 
-Las vocales del inglés son muchas más que las cinco del castellano, y el hispanohablante tiende a meter dos o tres vocales inglesas en una sola castellana: es el error de pronunciación que más afecta la inteligibilidad.
+Las vocales del inglés son muchas más que las cinco del castellano, y el hispanohablante tiende a meter dos o tres vocales inglesas en una sola castellana, y eso incluye /i/-/ɪ/, un contraste de carga funcional alta.
 
-Es la primera nota de [Pronunciación](pronunciacion.md) porque ahí está el contraste de mayor carga funcional que el castellano funde, /i/-/ɪ/. Las guías para hispanohablantes cuentan unas veinte vocales inglesas, diptongos incluidos, contra cinco (MIT ESOL Tips), y según Swan y Smith, citados por IH Journal, dos vocales inglesas suelen caer en el espacio de una sola vocal castellana.
+Es la primera nota de [Pronunciación](pronunciacion.md) porque ahí está /i/-/ɪ/, un contraste de carga funcional alta que el castellano funde. Las guías para hispanohablantes cuentan unas veinte vocales inglesas, diptongos incluidos, contra cinco (MIT ESOL Tips), y según Swan y Smith, citados por IH Journal, dos vocales inglesas suelen caer en el espacio de una sola vocal castellana.
 
 ## Las vocales de General American y dónde las pone el castellano
 
@@ -58,7 +58,7 @@ Según un resumen de varios trabajos (el registro más cercano es el de Aston Un
 
 ## La schwa es la vocal más frecuente del inglés
 
-La schwa /ə/ es la vocal neutra y relajada que ocupa casi todas las sílabas átonas: *about* /əˈbaʊt/, *banana* /bəˈnænə/, *problem* /ˈprɑbləm/, *the* /ðə/. Según Cutler (2005), como casi toda sílaba átona la lleva, el inglés marca el acento sobre todo con la calidad de la vocal: la sílaba fuerte tiene vocal plena y las débiles, schwa. El castellano no reduce: pronuncia cada vocal como se escribe. Decir *banana* con tres /a/ plenas no es un error de una vocal, sino de [acento de palabra](acento-de-palabra.md) y de [ritmo](ritmo-y-habla-conectada.md) a la vez, y por eso la schwa se entrena junto con ellos.
+La schwa /ə/ es la vocal neutra y relajada que ocupa casi todas las sílabas átonas: *about* /əˈbaʊt/, *banana* /bəˈnænə/, *problem* /ˈprɑbləm/, *the* /ðə/. Según Cutler (2005), como casi toda sílaba átona lleva schwa, el acento inglés se marca en los segmentos: la sílaba fuerte tiene vocal plena y las débiles, schwa. El castellano no reduce: pronuncia cada vocal como se escribe. Decir *banana* con tres /a/ plenas es a la vez un error de vocal, de [acento de palabra](acento-de-palabra.md) y de [ritmo](ritmo-y-habla-conectada.md), y por eso la schwa se entrena junto con ellos.
 
 ## Vocales con r en General American
 

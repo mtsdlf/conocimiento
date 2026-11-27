@@ -25,8 +25,7 @@ La conversación con corrección es hablar inglés con un tutor o un compañero 
 los errores; la corrección oral tiene efecto duradero, y la que pide reformular rinde más que la
 que solo repite la forma correcta.
 
-Es la rama de output de la [práctica](practica.md) con el agregado que más le falta a quien
-estudia solo: alguien que note el error. Por qué producir obliga a notar el hueco está en
+Es la rama de output de la [práctica](practica.md), con alguien que note el error. Por qué producir obliga a notar el hueco está en
 [output e interacción](../Adquisicion/output-e-interaccion.md); qué tipos de corrección hay y qué
 dice cada metaanálisis, en [feedback correctivo](../Adquisicion/feedback-correctivo.md). Acá está
 cómo conseguir esa corrección en una conversación real.
@@ -40,9 +39,10 @@ señala el error y deja que el hablante lo arregle. Con un error típico del his
 - Recast: *Oh, you finished it yesterday? Great.*
 - Prompt: *Have finished, yesterday? Try that again.* → *Yesterday I finished the report.*
 
-En el recast la conversación sigue y el error suele pasar sin que se lo note. En el prompt el
-hablante tiene que recuperar la forma él mismo, que es el paso que lleva a
-[automatizarla](../Adquisicion/automatizacion.md).
+En el recast la conversación sigue y el hablante puede no notar el error. En el prompt tiene que
+recuperar la forma él mismo. Los resultados de Lyster y Saito (abajo) favorecen a los prompts; la
+razón no quedó registrada en los informes; cómo se pasa lo recuperado a automático lo explica la
+[automatización](../Adquisicion/automatizacion.md).
 
 Lyster y Saito (2010) reunieron 15 estudios de aula con 827 participantes. Según su resumen, el
 feedback correctivo tuvo efectos significativos y duraderos; los prompts superaron a los recasts,
@@ -54,9 +54,8 @@ distintas sobre lo implícito y lo explícito; la discusión está en
 
 ## Tutor y tándem
 
-Un tutor pago cobra por corregir, sabe hacerlo y adapta la clase. Un tándem es un intercambio: se
-habla media hora en inglés y media en castellano con alguien que aprende castellano. Es gratis,
-pero el compañero no es docente.
+Un tutor pago cobra por clase. Un tándem es un intercambio: se habla media hora en inglés y media
+en castellano con alguien que aprende castellano. Es gratis, y el compañero no es docente.
 
 La investigación del tándem es mayormente cualitativa. En un estudio de eTandem de sexto grado
 (13 parejas), la corrección más usada fue la explícita, y los autores lo atribuyen a que los
@@ -78,8 +77,9 @@ corregir y cómo.
    *-s* de tercera persona (*she work* → *she works*).
 2. Decilo al empezar, en inglés: *Today I'd like you to focus on my verb tenses. When I get one
    wrong, please stop me and let me try to fix it myself before you give me the answer.*
-3. Para un tándem, explicale los dos tipos con un ejemplo, como el de arriba. La mayoría de la
-   gente corrige con recasts sin darse cuenta.
+3. Para un tándem, explicale los dos tipos con un ejemplo, como el de arriba. En las aulas
+   observadas, los recasts son la mayor parte del feedback (57%, según un metaanálisis
+   observacional de Brown, 2014); un compañero sin entrenar puede hacer lo mismo.
 4. Pedí que anote en el chat lo que no corrigió en el momento: frases que sonaron raras,
    palabras que usaste mal. Eso no corta la conversación y deja material.
 5. Después de la sesión, pasá esas notas a tarjetas o a la próxima sesión de estudio de la forma.

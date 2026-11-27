@@ -50,14 +50,15 @@ y la [escucha extensiva](escucha-y-lectura-extensiva.md); para leer la transcrip
 |---|---|---|---|
 | [YouGlish](https://youglish.com/) | Busca una palabra o frase en clips reales de YouTube; filtros por acento (EE. UU., Reino Unido, Australia, Canadá, Irlanda, Escocia, Nueva Zelanda) y por contexto. Sirve para oír una palabra en muchas voces | La página no dice precio ni límites | Portada leída |
 | [ELSA Speak](https://elsaspeak.com/en/) | App de pronunciación con corrección por IA y juego de roles | Plan individual gratis y uno pago; precios no listados en la portada (la página de precios dio 404) | Portada leída; no explica cómo puntúa |
-| [Praat](https://www.fon.hum.uva.nl/praat/) | Programa de fonética de la Universidad de Ámsterdam (Boersma, Weenink y Shchupak): formantes, tono, intensidad. Sirve para ver la entonación propia contra la de un modelo | La portada menciona la versión 7.0.03; licencia en un enlace aparte | Portada leída |
+| [Praat](https://www.fon.hum.uva.nl/praat/) | Programa de fonética de la Universidad de Ámsterdam (Boersma, Weenink y Shchupak): formantes, tono, intensidad. | La portada menciona la versión 7.0.03; licencia en un enlace aparte | Portada leída |
 | [Rachel's English](https://rachelsenglish.com/) | Videos y curso de acento estadounidense; más de 1000 videos gratis y un curso pago | Precios no listados | Portada leída |
-| [Forvo](https://forvo.com/) | Pronunciaciones grabadas por hablantes nativos | — | No verificada (403) |
+| [Forvo](https://forvo.com/) | Pronunciaciones grabadas por hablantes nativos | No consta | No verificada (403) |
 | [Language Reactor](https://www.languagereactor.com/pro-mode) | Extensión de Chrome con subtítulos dobles en Netflix y YouTube | Versión Pro cerca de USD 5 por mes según fuentes no oficiales (otra lista USD 9,99) | No verificada (la página no devolvió precio) |
 
 Sobre la corrección automática de pronunciación en general, el metaanálisis de Ngo, Chen y Lai
 (2024) reunió 15 estudios con 38 tamaños de efecto y, según su resumen, encontró g = 0.69, grande
-en los sonidos sueltos y chico en la prosodia. No evalúa ninguna app de esta tabla.
+en los sonidos sueltos y chico en la prosodia. Los informes no lo relacionan con ninguna app de
+esta tabla.
 
 ## Diccionarios y colocaciones
 
@@ -81,9 +82,9 @@ Implementan la [repetición espaciada](../Adquisicion/repeticion-espaciada.md) y
 | Herramienta | Qué es | Acceso | Verificado |
 |---|---|---|---|
 | [Anki](https://apps.ankiweb.net/) | Tarjetas con repetición espaciada | Escritorio gratis (Windows, macOS, Linux), AnkiDroid gratis, AnkiWeb gratis para sincronizar; AnkiMobile de pago en iOS (precio no figura) | Página vista |
-| [VocabularySize.com](https://my.vocabularysize.com/) | Test de tamaño de vocabulario basado en el de Nation | Gratis | En mantenimiento el 2026-11-27 |
+| [VocabularySize.com](https://my.vocabularysize.com/) | Test de tamaño de vocabulario basado en el de Nation | No consta | En mantenimiento el 2026-11-27 |
 | [Vocabulary Size Test](https://openaccess.wgtn.ac.nz/articles/journal_contribution/A_vocabulary_size_test/12552197) (Nation y Beglar 2007) | Prueba de opción múltiple de vocabulario receptivo escrito | Gratis para docentes e investigadores | Por resumen |
-| [Lextutor](https://www.lextutor.ca/) | Perfiles de cobertura de un texto y tests | — | No verificada |
+| [Lextutor](https://www.lextutor.ca/) | Perfiles de cobertura de un texto | No consta | No verificada |
 
 > [!NOTE] Sin fuente todavía: una aplicación de HVPT gratuita y recomendable, Oxford Learner's,
 > Merriam-Webster y los reconocedores de voz de uso general sin probar.

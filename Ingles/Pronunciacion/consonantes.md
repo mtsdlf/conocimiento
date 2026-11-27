@@ -35,10 +35,10 @@ Es parte de [Pronunciación](pronunciacion.md). Lo que sigue sobre /θ ð v z h 
 | /ð/ | *this, mother, they* | /d/ | *dis*, *day* |
 | /v/ | *very, vote, have* | /b/ | *berry*, *boat* |
 | /z/ | *zoo, is, easy* | /s/ | *sue*; *ice* |
-| /h/ | *hat, who, behind* | jota áspera /x/ | marcado, pero inteligible |
-| /r/ | *red, very, car* | tap o vibrante | marcado, pero inteligible |
+| /h/ | *hat, who, behind* | jota áspera /x/ | *hat* con /x/ |
+| /r/ | *red, very, car* | tap o vibrante | /r/ castellana en lugar de [ɹ] |
 
-/θ/ y /ð/ se hacen con la punta de la lengua entre los dientes o detrás de ellos, dejando salir aire; el castellano peninsular tiene /θ/ en *zapato*, pero el rioplatense no. /v/ es labiodental: los dientes de arriba sobre el labio de abajo, con voz. En castellano *b* y *v* suenan igual, así que *very* sale como *berry* y *vote* como *boat*. /z/ es una /s/ con vibración de las cuerdas vocales; el castellano solo la tiene como variante delante de consonante sonora (*mismo*), y *is* /ɪz/ o *easy* /ˈizi/ salen con /s/. La /h/ inglesa es solo aire, sin fricción en el velo: *hot* con jota suena fuerte pero se entiende. La /r/ de GA es una aproximante [ɹ]: la lengua se curva hacia atrás sin tocar el paladar. Con /θ ð/ conviene saber que el Lingua Franca Core de Jenkins las deja afuera: con sustitutos se entiende casi siempre, y por eso van al final de la lista de prioridades.
+/θ/ y /ð/ se hacen con la punta de la lengua entre los dientes o detrás de ellos, dejando salir aire; el castellano peninsular tiene /θ/ en *zapato*, pero el rioplatense no. /v/ es labiodental: los dientes de arriba sobre el labio de abajo, con voz. En castellano *b* y *v* suenan igual, así que *very* sale como *berry* y *vote* como *boat*. /z/ es una /s/ con vibración de las cuerdas vocales; el castellano solo la tiene como variante delante de consonante sonora (*mismo*), y *is* /ɪz/ o *easy* /ˈizi/ salen con /s/. La /h/ inglesa es solo aire, sin fricción en el velo: *hot* con jota suena áspero. La /r/ de GA es una aproximante [ɹ]: la lengua se curva hacia atrás sin tocar el paladar. El Lingua Franca Core de Jenkins deja /θ ð/ afuera del núcleo; en esta base por eso van al final de la lista de prioridades, aunque no quedó registrado cuánto afecta su sustitución a un oyente nativo.
 
 ## Sonidos que el castellano tiene con otro reparto
 
@@ -48,7 +48,7 @@ Según Mackenzie, el rioplatense realiza *y* y *ll* como [ʒ], y desde hace unas
 
 ## Aspiración de /p t k/ y sonoridad final
 
-En inglés, /p t k/ al principio de una sílaba acentuada llevan un soplo de aire: *pin* [pʰɪn], *top* [tʰɑp]. Según un resumen del buscador sobre estudios de VOT, el tiempo de inicio de la voz de las sordas castellanas es corto (unos 4 a 39 ms) y el de las inglesas, largo (unos 20 a 130 ms). Por eso la /p/ castellana, sin soplo, le suena al nativo como /b/: *pin* se oye *bin*, *tie* se oye *die*. El Lingua Franca Core pide mantener esta aspiración.
+En inglés, /p t k/ al principio de una sílaba acentuada llevan un soplo de aire: *pin* [pʰɪn], *top* [tʰɑp]. Según un resumen del buscador sobre estudios de VOT (la fuente no se abrió y no es seguro que sea el estudio que trata el tema), el tiempo de inicio de la voz de las sordas castellanas es corto (unos 4 a 39 ms) y el de las inglesas, largo (unos 20 a 130 ms). Según el mismo resumen, el problema más fuerte aparece en las sonoras, porque la /p t k/ castellana cae sobre la /b d g/ inglesa; la /p/ castellana, sin soplo, le suena al nativo como /b/: *pin* se oye *bin*, *tie* se oye *die*. El Lingua Franca Core pide mantener esta aspiración.
 
 Al final de palabra pasa lo contrario: el inglés distingue sordas de sonoras (*bed-bet*, *rise-rice*, *bag-back*) y alarga la vocal antes de la sonora. El castellano casi no tiene consonantes sonoras finales, así que *bed* tiende a salir como *bet*.
 

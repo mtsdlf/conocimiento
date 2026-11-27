@@ -27,25 +27,25 @@ Lo transversal del tema Inglés: los niveles del MCER para ubicarse, el alfabeto
 la pronunciación, las escuelas de adquisición y sus autores, el glosario, la bibliografía y una
 ruta paso a paso.
 
-No es una parte del idioma, como las verticales de [Inglés](../ingles.md), sino lo que todas usan:
+Fundamentos no es una parte del idioma como las verticales de [Inglés](../ingles.md): reúne lo que todas usan,
 la escala con la que se mide el avance, los símbolos con los que se escribe un sonido, los autores
 que se citan en cada nota y el orden para recorrerlas.
 
 ## Qué hay en Fundamentos
 
-- [Niveles del MCER](niveles-mcer.md) — qué sabe hacer alguien en B2, C1 y C2, escala por escala,
+- [Niveles del MCER](niveles-mcer.md): qué sabe hacer alguien en B2, C1 y C2, escala por escala,
   y cuántas horas estiman las instituciones. Se lee antes de empezar.
-- [Alfabeto fonético](alfabeto-fonetico.md) — los símbolos del IPA para General American con un
+- [Alfabeto fonético](alfabeto-fonetico.md): los símbolos del IPA para General American con un
   ejemplo cada uno, y cómo transcribe cada diccionario de aprendices.
-- [Bibliografía de inglés](bibliografia-de-ingles.md) — las obras para corregir y para entender,
+- [Bibliografía de inglés](bibliografia-de-ingles.md): las obras para corregir y para entender,
   con qué aporta cada una y qué parte leer.
-- [Ruta de inglés](ruta-de-ingles.md) — el camino en seis pasos con ejercicios y respuestas, y una
+- [Ruta de inglés](ruta-de-ingles.md): el camino en seis pasos con ejercicios y respuestas, y una
   semana tipo de práctica.
 
 ## Las escuelas y sus autores
 
-Los nombres que más aparecen en el tema, con su idea central y la nota donde se discute. Ninguna
-escuela tiene toda la razón: el tema es neutral entre ellas y da cada una con su evidencia.
+Los nombres que más aparecen en el tema, con su idea central y la nota donde se discute. El tema
+no toma partido entre las escuelas y da a cada una con su evidencia.
 
 | Autor | Idea central | Dónde se discute |
 |---|---|---|
@@ -53,7 +53,7 @@ escuela tiene toda la razón: el tema es neutral entre ellas y da cada una con s
 | Swain | Producir obliga a notar el hueco (output empujado) | [Output e interacción](../Adquisicion/output-e-interaccion.md) |
 | Long | Negociar el significado hace notar la forma; *focus on form* | [Output e interacción](../Adquisicion/output-e-interaccion.md), [Instrucción explícita](../Adquisicion/instruccion-explicita.md) |
 | Schmidt | Sin notar no se aprende (noticing) | [Output e interacción](../Adquisicion/output-e-interaccion.md) |
-| Lyster | Los prompts rinden más que los recasts | [Feedback correctivo](../Adquisicion/feedback-correctivo.md) |
+| Lyster | En aula, los prompts rinden más que los recasts (Li discrepa) | [Feedback correctivo](../Adquisicion/feedback-correctivo.md) |
 | DeKeyser | Lo explícito se automatiza con práctica (interfaz fuerte) | [Automatización](../Adquisicion/automatizacion.md) |
 | N. Ellis | La conciencia es la interfaz (interfaz débil) | [Instrucción explícita](../Adquisicion/instruccion-explicita.md) |
 | Selinker y Han | La interlengua se fosiliza | [Meseta intermedia](../Adquisicion/meseta-intermedia.md) |

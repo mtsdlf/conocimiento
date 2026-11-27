@@ -10,7 +10,7 @@ fuentes:
   - "BLUF (communication), Wikipedia: https://en.wikipedia.org/wiki/BLUF_(communication)"
   - "Garner, Should the bottom line be up front? Only with context, ABA Journal: https://www.abajournal.com/columns/article/should-the-bottom-line-be-up-front-only-with-context-says-bryan-garner"
   - "GOV.UK, A to Z style guide: https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/"
-  - "digital.gov, Plain language guide: https://digital.gov/guides/plain-language"
+  - "digital.gov, Plain language guide (solo el índice): https://digital.gov/guides/plain-language"
 aliases:
   - Argument structure
   - Information structure
@@ -62,7 +62,7 @@ El *signposting* es anunciar la estructura antes de recorrerla y marcar cada pas
 | volver | *Going back to what Ana said…* | *As noted above, …* |
 | cerrar | *So, to sum up…* / *So the bottom line is…* | *In short, …* |
 
-Un B2 suele usar *first* y *second* y nada más. Anunciar el número de partes (*for two reasons*) es el recurso más barato y el que más ordena una respuesta oral.
+Anunciar el número de partes (*for two reasons*) ordena una respuesta oral con poco esfuerzo.
 
 ## Respuesta primero, con una advertencia
 
@@ -73,7 +73,7 @@ El principio de poner la conclusión al principio se conoce en inglés como **BL
 - Respuesta primero: *I want to work on larger systems. My current team is small, and since the acquisition there's less room to grow. This role is exactly the kind of scale I'm looking for.*
 
 > [!IMPORTANT]
-> **La respuesta primero no siempre.** Garner sostiene que BLUF funciona cuando la conclusión es una decisión concreta sobre un problema que el lector ya conoce; cuando el lector no tiene el contexto, recomienda en el trabajo jurídico plantear primero el problema y después la respuesta. Las guías de lenguaje claro, en cambio, empujan a ir al punto siempre. Las dos posiciones se conocen por resúmenes. La regla práctica que sale de juntarlas: si el otro preguntó algo, la respuesta va primero; si el otro no sabe de qué se trata, una oración de contexto y después la respuesta.
+> **La respuesta primero no siempre.** Garner sostiene que BLUF funciona cuando la conclusión es una decisión concreta sobre un problema que el lector ya conoce; cuando el lector no tiene el contexto, recomienda en el trabajo jurídico plantear primero el problema y después la respuesta. La guía de lenguaje claro de digital.gov se leyó solo en su índice y no da un consejo de orden; Garner se conoce por un resumen. Una regla práctica, inferencia de esta nota: si el otro preguntó algo, la respuesta va primero; si el otro no sabe de qué se trata, una oración de contexto y después la respuesta.
 
 ## Cómo se practica
 

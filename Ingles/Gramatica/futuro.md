@@ -43,9 +43,9 @@ El inglés no tiene un tiempo futuro en el verbo: habla del futuro con *will*, *
 
 ## Dónde se equivoca el hispanohablante
 
-El castellano rioplatense usa mucho el presente para el futuro (*mañana voy al médico*) y *ir a* para casi todo lo demás. El inglés reparte eso en varias formas, y además no pone futuro después de *when*, *if*, *as soon as* o *until*, donde el castellano pone subjuntivo.
+El castellano rioplatense usa mucho el presente (*mañana voy al médico*) y *ir a* para hablar del futuro. El inglés reparte eso en varias formas, y además no pone futuro después de *when*, *if*, *as soon as* o *until*, donde el castellano pone subjuntivo.
 
-| Castellano | Error típico | Inglés |
+| Castellano | Calco del castellano | Inglés |
 |---|---|---|
 | *Mañana voy al médico.* | ~~*Tomorrow I go to the doctor.*~~ | *I'm going to the doctor tomorrow.* |
 | *Cuando llegue, te llamo.* | ~~*When I will arrive, I call you.*~~ | *When I arrive, I'll call you.* |
@@ -58,11 +58,11 @@ El ofrecimiento con *Shall I…?* es más británico; en americano es más comú
 
 ## Will contra going to depende del registro
 
-La diferencia entre *will* y *going to* no es solo de significado. Engel y Szmrecsanyi, según el resumen de su trabajo, analizaron unos 2.600 casos en conversación, debates parlamentarios, blogs y diarios, y encontraron que la elección varía con el registro. Según Chuang (2022), *going to* es más frecuente en el habla informal. En la práctica: en una conversación, *I'm gonna* /ˈɡʌnə/ suena natural donde *I will* suena rígido; en un mail formal o un informe, *will* es lo esperable.
+La elección entre *will* y *going to* también depende del contexto. Engel y Szmrecsanyi, según el resumen de su trabajo, analizaron unos 2.600 casos en conversación, debates parlamentarios, blogs y diarios, y encontraron que la elección varía con el registro. Según Chuang (2022), *going to* es más frecuente en el habla informal. En la práctica: en una conversación, *I'm gonna* /ˈɡʌnə/ suena natural donde *I will* suena rígido; en un mail formal o un informe, *will* es lo esperable.
 
 Muchas veces las dos formas sirven y la diferencia es mínima: *I think it'll rain* y *I think it's going to rain* son igual de correctas.
 
-> [!NOTE] Sin fuente todavía: estudios sobre cómo eligen los hispanohablantes entre las formas de futuro, y sobre el uso de *future continuous*, *future perfect* y *be about to* en aprendices.
+> [!NOTE] Sin fuente todavía: que el inglés no tiene futuro en el verbo y que *will* es un modal es gramática descriptiva (Leech, Huddleston y Pullum), sin verificar con URL. Tampoco hay estudios sobre cómo eligen los hispanohablantes entre las formas de futuro, y sobre el uso de *future continuous*, *future perfect* y *be about to* en aprendices.
 
 ## Formas de C1 para hablar del futuro
 

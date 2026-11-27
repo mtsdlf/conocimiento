@@ -25,7 +25,7 @@ revisado:
 
 La inversión, las cleft sentences y los relativos son las construcciones con que el inglés avanzado da énfasis, ordena la información y sube el registro, donde el castellano movería las palabras o usaría *lo que*.
 
-Son lo más parecido a gramática nueva que tiene el paso a C1 dentro de la [gramática](gramatica.md). Como el inglés no puede mover libremente las palabras ([estructura de la oración](estructura-de-la-oracion.md)), usa estas construcciones para poner al final lo nuevo o lo importante, que es lo que trata la [estructura del argumento](../Discurso/estructura-del-argumento.md).
+El British Council ubica estas construcciones en C1, dentro de la [gramática](gramatica.md). Como el inglés no puede mover libremente las palabras ([estructura de la oración](estructura-de-la-oracion.md)), usa estas construcciones para poner al final lo nuevo o lo importante, que es lo que trata la [estructura del argumento](../Discurso/estructura-del-argumento.md).
 
 ## Cleft sentences para poner el foco
 
@@ -42,7 +42,7 @@ El castellano enfoca moviendo la palabra o con *es… quien* y *lo que… es*: *
 
 Errores típicos de traducir *lo que*: ~~*That I need is time*~~ y ~~*The thing what I need*~~ → *What I need is time* / *The thing I need*. Y ~~*Is Ana who called*~~ → *It was Ana who called* (falta el sujeto vacío).
 
-En el habla, el foco también se marca con la voz: *ANA called* dice lo mismo que la cleft. Eso es [entonación](../Pronunciacion/entonacion.md), y un hispanohablante suele no usarla, porque en castellano el foco va con el orden de palabras.
+En el habla, el foco también se marca con la voz: *ANA called* dice lo mismo que la cleft. Eso es [entonación](../Pronunciacion/entonacion.md); en castellano el foco suele ir con el orden de palabras.
 
 > [!NOTE] Sin fuente todavía: estudios sobre si los hispanohablantes subusan las cleft o las usan mal. Un listado de terceros atribuye al English Grammar Profile las cleft con *what* como C1, sin verificar.
 
@@ -59,9 +59,9 @@ En registro formal, o para dar fuerza, una expresión negativa o restrictiva va 
 | *I understood it only then.* | *Only then did I understand it.* |
 | *You must not open this under any circumstances.* | *Under no circumstances should you open this.* |
 
-Errores típicos: no invertir (~~*Never I had seen*~~), invertir sin auxiliar (~~*Little realised I*~~) y mezclar *no sooner* con *when* o *hardly* con *than*. En la conversación casi no se usa salvo *not only* y alguna frase fija; es más de discurso preparado y escritura.
+Errores típicos: no invertir (~~*Never I had seen*~~), invertir sin auxiliar (~~*Little realised I*~~) y mezclar *no sooner* con *when* o *hardly* con *than*. Se oye sobre todo en discurso preparado y escritura (saber de manual, sin cifra verificada).
 
-Rankin (2025), según su resumen, encontró que los avanzados de lengua materna alemana siguen sin igualar a los nativos en la inversión negativa. Es otra lengua y no se generaliza al castellano, pero sugiere que se adquiere tarde.
+Rankin (2025), según su resumen, encontró que los avanzados de lengua materna alemana siguen sin igualar a los nativos en la inversión negativa. Es otra lengua y no se generaliza al castellano.
 
 La **inversión condicional** reemplaza a *if* en el registro formal: *Had I known* (*If I had known*), *Should you have any questions* (*If you have…*), *Were it not for her* (*If it weren't for her*). Está en [condicionales e hipótesis](condicionales-e-hipotesis.md).
 
@@ -81,6 +81,6 @@ Lo que el castellano hace distinto:
 - *Cuyo* es *whose*, también para cosas: *a company whose profits fell*.
 - No se repite el pronombre: ~~*the man who I saw him*~~.
 
-Los relativos reducidos (*the people living here*, *the report sent yesterday*) y la nominalización (*the decision to postpone* en lugar de *they decided to postpone*) acortan y suben el registro, sobre todo en la [escritura](../Discurso/escritura.md). Biber et al. dan la frecuencia de relativos por registro.
+Los relativos reducidos (*the people living here*, *the report sent yesterday*) y la nominalización (*the decision to postpone* en lugar de *they decided to postpone*) acortan y suben el registro, sobre todo en la [escritura](../Discurso/escritura.md). Biber et al. es la fuente para la frecuencia de relativos por registro; el informe no la leyó.
 
 Para practicar, las unidades de énfasis, inversión y relativos de Hewings (*Advanced Grammar in Use*, nivel C1-C2); para el detalle, Swan.

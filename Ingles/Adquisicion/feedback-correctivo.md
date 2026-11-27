@@ -55,8 +55,8 @@ transcripción). Sobre el error típico *She don't like it*:
 Los cuatro últimos son *prompts*: no dan la respuesta, empujan a que el que habla se corrija solo.
 El recast es implícito; la corrección explícita y los prompts son explícitos, en grados distintos.
 
-Lyster y Ranta hallaron que los docentes usaban recasts de forma abrumadora, aunque casi nunca
-lograban que el alumno reparara el error. La elicitación, el feedback metalingüístico, los pedidos
+Lyster y Ranta hallaron que los docentes usaban recasts de forma abrumadora, aunque eran poco eficaces
+para que el alumno reparara el error. La elicitación, el feedback metalingüístico, los pedidos
 de aclaración y la repetición lograron más reparación hecha por el propio alumno. Brown (2014)
 confirmó la distribución en un metaanálisis de estudios de observación: los recasts son el 57% de
 todo el feedback, los prompts el 30%, y los errores gramaticales reciben el 43% de las correcciones.
@@ -106,9 +106,9 @@ aparezcan, use una elicitación o una pista en vez de reformular. El protocolo e
 > negativo, según el resumen que los reúne. Kang y Han sugieren que la corrección directa y
 > focalizada rinde más que la indirecta y la que marca todo.
 
-Para un mail o un documento de trabajo ([Escritura](../Discurso/escritura.md)), la versión con
-evidencia es corregir pocos tipos de error por vez y dar la forma correcta, no subrayar todo en
-rojo.
+Para un mail o un documento de trabajo ([Escritura](../Discurso/escritura.md)), la versión que mejor
+rinde en esos metaanálisis, según el resumen que los reúne, es la corrección directa y focalizada
+en pocos tipos de error, no subrayar todo en rojo.
 
 ## Para leer más
 

@@ -30,7 +30,7 @@ Es una de las cuatro partes del idioma que se afinan en el [tema](../ingles.md).
 
 ## Qué cambia en la gramática de B2 a C1/C2
 
-Un B2 ya vio casi todas las reglas. Lo que cambia es cuánto las controla. Los descriptores de exactitud gramatical del MCER lo dicen en esa clave, sin listar estructuras nuevas:
+Según los descriptores, lo que cambia de B2 a C2 es cuánto control se tiene. Los descriptores de exactitud gramatical del MCER lo dicen en esa clave, sin listar estructuras nuevas:
 
 | Nivel | Descriptor de *Grammatical accuracy* (Companion Volume) |
 |---|---|
@@ -38,18 +38,18 @@ Un B2 ya vio casi todas las reglas. Lo que cambia es cuánto las controla. Los d
 | C1 | "consistently maintains a high degree of grammatical accuracy; errors are rare and difficult to spot" |
 | C2 | "maintains consistent grammatical control of complex language, even while attention is otherwise engaged" |
 
-La frase del C2, "while attention is otherwise engaged", es la clave: el control tiene que sostenerse mientras la atención está en lo que se dice. Eso es [automatización](../Adquisicion/automatizacion.md), no conocimiento. Los [niveles del MCER](../Fundamentos/niveles-mcer.md) dan las otras escalas.
+La frase del C2, "while attention is otherwise engaged", es la clave: el control tiene que sostenerse mientras la atención está en lo que se dice. Eso es [automatización](../Adquisicion/automatizacion.md). Los [niveles del MCER](../Fundamentos/niveles-mcer.md) dan las otras escalas.
 
-Lo que sí se suma son construcciones que el B2 entiende pero casi no produce: la [inversión y las cleft](estructuras-avanzadas.md) para dar énfasis, los [modales en perfecto](modales.md) para juzgar el pasado, los [condicionales mixtos](condicionales-e-hipotesis.md), la [pasiva impersonal](pasiva-y-causativa.md) del registro formal.
+Las construcciones nuevas que estas notas desarrollan son la [inversión y las cleft](estructuras-avanzadas.md) para dar énfasis, los [modales en perfecto](modales.md) para juzgar el pasado, los [condicionales mixtos](condicionales-e-hipotesis.md), la [pasiva impersonal](pasiva-y-causativa.md) del registro formal.
 
 ## El English Grammar Profile como mapa y su límite
 
-El English Grammar Profile (EGP) es un inventario de más de 1.200 estructuras, cada una asignada a un nivel del MCER a partir de redacciones de examen del Cambridge Learner Corpus. Según la descripción de Verratti-Souto, Sagirov y Chen (2025), O'Keeffe y Mark daban una estructura por adquirida en un nivel con cuatro criterios: frecuencia mayor que en el corpus nativo, 60 % de usos correctos, uso por hablantes de distintas lenguas maternas y aparición en varias tareas.
+El English Grammar Profile (EGP) es un inventario de más de 1.200 estructuras, cada una asignada a un nivel del MCER a partir de redacciones de examen del Cambridge Learner Corpus. Según la descripción de Verratti-Souto, Sagirov y Chen (2025), O'Keeffe y Mark daban una estructura por adquirida en un nivel con cuatro criterios: frecuencia mayor que en el British National Corpus, 60 % de usos correctos, uso por hablantes de distintas lenguas maternas y aparición en varias tareas.
 
 > [!IMPORTANT]
-> **Qué tan confiable es el nivel que el EGP le da a cada estructura.** Verratti-Souto et al. (2025) rehicieron la asignación con estadística sobre otro corpus de aprendices (EFCAMDAT). Solo 124 de las estructuras informativas (32,80 %) aparecieron significativamente más en su nivel EGP que en el anterior, y el acuerdo fue kappa = 0,193 ("slight agreement"). El acuerdo fue mejor en niveles bajos, y "this was not the case for the CEFR B and C levels". Los autores reconocen que su corpus es distinto (textos de curso, no de examen) y que su método no mide corrección. Del lado del EGP está el análisis manual de un corpus mucho más grande.
+> **Qué tan confiable es el nivel que el EGP le da a cada estructura.** Verratti-Souto et al. (2025) rehicieron la asignación con estadística sobre otro corpus de aprendices (EFCAMDAT). Solo 124 de las estructuras informativas (32,80 %) aparecieron significativamente más en su nivel EGP que en el anterior, y el acuerdo fue kappa = 0,193 ("slight agreement"). El acuerdo fue mejor en niveles bajos, y "this was not the case for the CEFR B and C levels". Los autores reconocen que su corpus es distinto (textos de curso, no de examen) y que su método no mide corrección. El EGP, por su parte, se armó con análisis en gran parte manual de los corpus de aprendices.
 
-En la práctica, el EGP sirve para ver qué estructuras usan con éxito los aprendices de B2, C1 y C2, con ejemplos reales. No sirve como lista cerrada de "esto es C1", y menos como criterio para decidir qué estudiar primero: para eso pesa más qué errores comete cada uno.
+En la práctica, el EGP sirve de mapa orientativo de qué estructuras aparecen más en B2, C1 y C2. No se pudo leer su sitio en línea, así que estas notas no citan ningún enunciado suyo. No sirve como lista cerrada de "esto es C1", y menos como criterio para decidir qué estudiar primero: para eso pesa más qué errores comete cada uno.
 
 ## Tiempo, aspecto y modalidad como un solo sistema
 
@@ -67,11 +67,11 @@ flowchart LR
   M -->|da las mitades irreales de| C[Condicionales]
 ```
 
-El castellano tiene los mismos ejes con otro reparto. Usa subjuntivo donde el inglés usa pasado (*si tuviera* / *if I had*), presente donde el inglés pide progresivo o *going to*, y en el Río de la Plata casi no usa el pretérito perfecto compuesto. De ahí salen la mayoría de los errores de verbo.
+El castellano tiene los mismos ejes con otro reparto. Usa subjuntivo donde el inglés usa pasado (*si tuviera* / *if I had*), presente donde el inglés pide progresivo o *going to*, y en el Río de la Plata casi no usa el pretérito perfecto compuesto. De ahí salen varios errores de verbo.
 
 ## Del saber la regla a usarla al hablar
 
-La [instrucción explícita](../Adquisicion/instruccion-explicita.md) suma: según el resumen de Spada y Tomita (2010), en 41 estudios rindió más que la implícita tanto con rasgos simples como complejos. Pero la regla sola produce lo que todo B2 conoce: la explica bien y se equivoca al hablar. El paso que falta es practicar la forma con atención, en contextos con significado, hasta que salga sin pensar ([automatización](../Adquisicion/automatizacion.md)), con [corrección](../Adquisicion/feedback-correctivo.md) sobre los errores que se repiten.
+La [instrucción explícita](../Adquisicion/instruccion-explicita.md) suma: según el resumen de Spada y Tomita (2010), en 41 estudios rindió más que la implícita tanto con rasgos simples como complejos. Saber la regla no alcanza para usarla al hablar. Las notas de Adquisición proponen practicar la forma con atención, en contextos con significado, hasta que salga sin pensar ([automatización](../Adquisicion/automatizacion.md)), con [corrección](../Adquisicion/feedback-correctivo.md) sobre los errores que se repiten.
 
 Una secuencia que sigue esa lógica:
 

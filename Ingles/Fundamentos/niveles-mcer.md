@@ -102,11 +102,12 @@ orientativas.
 ## Los límites del marco
 
 > [!IMPORTANT]
-> **¿Cuánto sostiene la evidencia al MCER?** Hulstijn (2007) cuestionó la base empírica del marco
-> en un artículo titulado «The shaky ground beneath the CEFR»; de ese artículo solo se leyó el
-> título. Del otro lado, el English Profile (Hawkins y Filipović 2012) derivó del Cambridge Learner
-> Corpus qué estructuras gramaticales caracterizan cada nivel, según el resumen de su ficha. Sirve
-> para saber qué gramática se espera en C1, aunque no se consultó directamente.
+> **¿Cuánto sostiene la evidencia al MCER?** Hulstijn (2007) publicó un artículo titulado «The shaky ground beneath the CEFR», que por el
+> título cuestiona la base empírica del marco; solo se leyó el título. Del otro lado, el English
+> Profile reúne los rasgos gramaticales por nivel: Hawkins y Filipović (2012) describen sus
+> «criterial features», y el English Grammar Profile, según el buscador, tiene más de 1.200
+> enunciados derivados del Cambridge Learner Corpus. Sirve para saber qué gramática se espera en C1,
+> aunque no se consultó directamente.
 
 > [!NOTE]
 > Sin fuente todavía: los niveles intermedios con «plus» (B2+) y la escala global verificada contra

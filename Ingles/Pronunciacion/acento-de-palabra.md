@@ -35,7 +35,7 @@ La familia de *photograph* muestra el mecanismo:
 - *photography* /fəˈtɑgrəfi/
 - *photographic* /ˌfoʊtəˈgræfɪk/
 
-La misma raíz cambia de sílaba fuerte y, con ella, de vocales: la /oʊ/ de *photograph* pasa a /ə/ en *photography*. Quien dice *photography* con el acento de *photograph* no solo corre la fuerza, también pone vocales que no van. Según Cutler (2005), como casi toda sílaba átona lleva schwa, el oyente inglés reconoce el acento sobre todo por la calidad vocálica.
+La misma raíz cambia de sílaba fuerte y, con ella, de vocales: la /oʊ/ de *photograph* pasa a /ə/ en *photography*. Quien dice *photography* con el acento de *photograph* no solo corre la fuerza, también pone vocales que no van. Según Cutler (2005), como casi toda sílaba átona lleva schwa, en inglés el acento se marca en los segmentos, con la calidad vocálica.
 
 ## Los sufijos que mueven el acento
 
@@ -58,7 +58,6 @@ El error típico del hispanohablante es poner el acento del cognado castellano. 
 | Inglés | Acento inglés | Acento que arrastra el castellano |
 |---|---|---|
 | *organism* | /ˈɔrgəˌnɪzəm/ | *orgaNISmo* |
-| *development* | /dɪˈvɛləpmənt/ | *desaRROllo* |
 | *determine* | /dɪˈtɝmɪn/ | *determiNAR* |
 | *category* | /ˈkætəˌgɔri/ | *categoRÍa* |
 | *comfortable* | /ˈkʌmftɚbəl/ | *conforTAble* |
@@ -68,14 +67,14 @@ Los cognados en general están en [Cognados y falsos amigos](../Lexico/cognados-
 
 ## Pares de sustantivo y verbo, y palabras compuestas
 
-En un grupo de palabras de dos sílabas, el sustantivo lleva el acento en la primera y el verbo en la segunda: *a REcord* /ˈrɛkɚd/ y *to reCORD* /rɪˈkɔrd/; *a PREsent* y *to preSENT*; *an OBject* y *to obJECT*; *a CONtract* y *to conTRACT*. No es una regla general, pero cubre las palabras más frecuentes del tipo. Los sustantivos compuestos llevan el acento en el primer elemento: *a GREENhouse* (un invernadero) contra *a green HOUSE* (una casa verde), *a BLACKboard* contra *a black BOARD*. Para estos dos patrones no hay fuente de investigación en lo consultado; es descripción de manual.
+En un grupo de palabras de dos sílabas, el sustantivo lleva el acento en la primera y el verbo en la segunda: *a REcord* /ˈrɛkɚd/ y *to reCORD* /rɪˈkɔrd/; *a PREsent* y *to preSENT*; *an OBject* y *to obJECT*; *a CONtract* y *to conTRACT*. Es una tendencia de manual, sin investigación que la cuantifique. Los sustantivos compuestos llevan el acento en el primer elemento: *a GREENhouse* (un invernadero) contra *a green HOUSE* (una casa verde), *a BLACKboard* contra *a black BOARD*. Para estos dos patrones no hay fuente de investigación en lo consultado; es descripción de manual.
 
 ## Cuándo un acento mal puesto rompe la inteligibilidad
 
 > [!IMPORTANT]
-> **¿Cuánto pesa el acento de palabra?** Cooper, Cutler y Wales (2002) sostienen que el acento solo, sin cambio de vocal, rinde menos para reconocer palabras en inglés que en holandés o castellano, porque la reducción vocálica ya hace ese trabajo. Jenkins lo deja afuera del Lingua Franca Core. En contra, Field (2005) hizo transcribir a oyentes material con acento y vocales manipulados: la pérdida de inteligibilidad dependió de hacia dónde se corría el acento y de si cambiaba también la vocal. McCrocklin (2012) critica que el núcleo omita el acento léxico, y Connell et al. (2018) hallaron que los oyentes ingleses usan juntas las pistas de acento y de vocal. Las dos posiciones se compatibilizan separando el acento con cambio de vocal, que pesa, del acento sin cambio de vocal, que pesa menos. La cifra de casi 20 % de pérdida que una fuente secundaria atribuye a Field no está verificada contra el original.
+> **¿Cuánto pesa el acento de palabra?** Cooper, Cutler y Wales (2002) sostienen que el acento solo, sin cambio de vocal, rinde menos para reconocer palabras en inglés que en holandés o castellano, porque la reducción vocálica ya hace ese trabajo. Jenkins lo deja afuera del Lingua Franca Core. En contra, Field (2005) hizo transcribir a oyentes material con acento y vocales manipulados: la pérdida de inteligibilidad dependió de hacia dónde se corría el acento y de si cambiaba también la vocal. McCrocklin (2012) critica que el núcleo omita el acento léxico, y Connell et al. (2018) hallaron que los oyentes ingleses usan juntas las pistas de acento y de vocal. Según la investigación de esta base, las dos posiciones se compatibilizan separando el acento con cambio de vocal, que pesa, del acento sin cambio de vocal, que pesa menos. La cifra de casi 20 % de pérdida que una fuente secundaria atribuye a Field no está verificada contra el original.
 
-Para un hispanohablante casi todo error de acento viene con cambio de vocal, porque dice plenas todas las vocales. Por eso el acento conviene practicarlo con la schwa y no como una fuerza aislada.
+Es razonable pensar, aunque ninguna fuente lo mide, que en un hispanohablante casi todo error de acento viene con cambio de vocal, porque dice plenas todas las vocales. Por eso el acento conviene practicarlo junto con la schwa.
 
 ## Dónde difiere el británico
 

@@ -42,11 +42,11 @@ Halliday y Hasan (1976) describieron cinco recursos que hacen que un conjunto de
 | Conjunción | dice la relación entre ideas | *The tests passed. **However**, the build is slow.* |
 | Cohesión léxica | repite o retoma con sinónimos y palabras relacionadas | *We changed the **pricing**. The new **prices** start in May.* |
 
-Las cuatro primeras son gramaticales; la última, léxica. Dos de ellas son las que más le cuestan al hispanohablante. La **sustitución** y la **elipsis** con auxiliar no existen igual en castellano, donde se repite el verbo o se dice "sí": la respuesta inglesa a *Did you send it?* es *Yes, I did*, no *\*Yes, I sent*. Y la **referencia** necesita sujeto explícito: donde el castellano dice "Es importante", el inglés exige *It's important* o *That's important* (ver [Estructura de la oración](../Gramatica/estructura-de-la-oracion.md)).
+Las cuatro primeras son gramaticales; la última, léxica. La **sustitución** y la **elipsis** con auxiliar no existen igual en castellano, donde se repite el verbo o se dice "sí": la respuesta inglesa a *Did you send it?* es *Yes, I did*, no *\*Yes, I sent*. Y la **referencia** necesita sujeto explícito: donde el castellano dice "Es importante", el inglés exige *It's important* o *That's important* (ver [Estructura de la oración](../Gramatica/estructura-de-la-oracion.md)).
 
 ## Marcadores del habla contra conectores escritos
 
-Los conectores de la escritura (*however*, *therefore*, *moreover*, *furthermore*, *nevertheless*) casi no aparecen en la conversación. Al hablar, la misma función la cumplen marcadores cortos, que además organizan el turno, ganan tiempo y marcan actitud:
+Los conectores de la escritura (*however*, *therefore*, *moreover*, *furthermore*, *nevertheless*) son más propios de la escritura que de la conversación. Al hablar, la misma función la cumplen marcadores cortos, que además organizan el turno, ganan tiempo y marcan actitud:
 
 | Marcador del habla | Para qué se usa | Equivalente rioplatense aproximado |
 |---|---|---|
@@ -68,7 +68,7 @@ Decir *Moreover, I think we should…* en una charla suena a discurso leído; es
 
 Fung y Carter (2007) compararon un corpus de conversación nativa con el habla de aprendices en aulas de Hong Kong y propusieron un marco de categorías de marcadores; la tesis previa de Fung (2003) describe el uso de marcadores de los aprendices como "highly restricted", sobre todo los interactivos. El artículo se conoce por sus datos bibliográficos, y los aprendices eran chinos, no hispanohablantes.
 
-## Errores típicos del hispanohablante con conectores
+## Errores a revisar con los conectores
 
 - *\*In the other hand* → *on the other hand*; y *on the other hand* solo va después de una primera mano, no como "en cambio" suelto.
 - *\*On the contrary* para "en cambio": *on the contrary* niega lo anterior (*It's not cheap. On the contrary, it's the most expensive option.*); para contrastar dos cosas va *whereas* o *while*.
@@ -77,10 +77,10 @@ Fung y Carter (2007) compararon un corpus de conversación nativa con el habla d
 - *\*In resume* → *in short*, *to sum up*.
 - *however* al final de la cadena con coma, como "pero": *\*I like it, however it's expensive* es un error de puntuación en inglés editado; va *I like it. However, it's expensive* o *I like it, but it's expensive*.
 
-## Más conectores no es el problema
+## Qué conectores sobran y cuáles faltan
 
 > [!IMPORTANT]
-> **¿Los aprendices abusan de los conectores?** La divulgación repite que los aprendices llenan sus textos de *moreover* y *furthermore*. Granger y Tyson (1996), con ensayos de aprendices francófonos, no encontraron sobreuso general: hallaron sobreuso de conectores aditivos y de los que introducen ejemplos o reformulan, y subuso de los contrastivos y los de resultado. El problema es de tipo y de posición, no de cantidad. Un estudio sobre dónde se pone *however* sugiere, por su título, que esa diferencia depende de la experiencia del escritor más que de ser nativo. Todo se conoce por resúmenes, y no apareció un estudio equivalente con hispanohablantes.
+> **¿Los aprendices abusan de los conectores?** La divulgación repite que los aprendices llenan sus textos de *moreover* y *furthermore*. Granger y Tyson (1996), con ensayos de aprendices francófonos, no encontraron sobreuso general: hallaron sobreuso de conectores aditivos y apositivos, y subuso de los contrastivos y los de resultado. Según esos datos, el problema es de tipo más que de cantidad total. Un estudio sobre dónde se pone *however* sugiere, por su título, que esa diferencia depende de la experiencia del escritor más que de ser nativo. Todo se conoce por resúmenes, y no apareció un estudio equivalente con hispanohablantes.
 
 Para el lector, la consecuencia práctica es revisar dos cosas: si los conectores de contraste y de consecuencia están, y si cada conector dice la relación que de verdad hay entre las ideas. Un texto con *moreover* entre dos ideas que no se suman confunde más que uno sin conector.
 

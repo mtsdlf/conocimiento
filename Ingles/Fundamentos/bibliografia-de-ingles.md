@@ -63,8 +63,8 @@ como obras de consulta puntual. Es una recomendación de esta base, no un hallaz
 |---|---|---|---|
 | Lightbown y Spada, *How Languages Are Learned*, 5.ª ed. (2021) | La visión de conjunto de la investigación, con las discusiones sobre Krashen y la interfaz en lenguaje llano | Entero; el capítulo de ideas populares sobre el aprendizaje para desarmar mitos | ficha |
 | Ortega, *Understanding Second Language Acquisition* (2009) | El mapa de la investigación en diez capítulos; el único de estos que trata edad, aptitud y motivación a fondo | Los capítulos de edad, aptitud y motivación ([Edad y diferencias individuales](../Adquisicion/edad-y-diferencias-individuales.md)) | ficha |
-| Nation, *Learning Vocabulary in Another Language*, 3.ª ed. (2022) | La revisión más completa sobre vocabulario: tamaño, repetición, espaciado y las cuatro ramas | Las partes de tamaño de vocabulario y de aprendizaje deliberado ([Léxico](../Lexico/lexico.md)) | ficha |
-| VanPatten y Williams (eds.), *Theories in Second Language Acquisition* | Una teoría por capítulo, escrita por sus defensores | El capítulo de DeKeyser sobre adquisición de habilidades | no |
+| Nation, *Learning Vocabulary in Another Language*, 3.ª ed. (2022) | Revisión de la investigación sobre vocabulario (un reseñista citado por Cambridge la llama la más completa): tamaño, repetición, espaciado y las cuatro ramas | Las partes de tamaño de vocabulario y de aprendizaje deliberado ([Léxico](../Lexico/lexico.md)) | ficha |
+| VanPatten y Williams (eds.), *Theories in Second Language Acquisition* | Reúne teorías por capítulo, según el título; no se encontró ficha ni índice | El capítulo de DeKeyser sobre adquisición de habilidades | no |
 
 ## Textos abiertos que sostienen la base
 
@@ -75,7 +75,7 @@ Todos se pueden leer gratis. Son la versión corta de lo que dicen las notas, en
 | Krashen, *Principles and Practice in SLA* (1982) | La hipótesis del input en su formulación original | Capítulos II y V; la condición «necesaria pero no suficiente» ([Input comprensible](../Adquisicion/input-comprensible.md)) | entero |
 | Richards, *Moving Beyond the Plateau* (2008) | El diagnóstico de la meseta en lenguaje llano | Entero (20 páginas); es un marco práctico, no un hallazgo ([Meseta intermedia](../Adquisicion/meseta-intermedia.md)) | entero |
 | N. Ellis, «The weak interface» (2006) | El mapa del debate de la interfaz | Las primeras ocho páginas ([Instrucción explícita](../Adquisicion/instruccion-explicita.md)) | entero |
-| DeKeyser y Criado (2013) | La teoría de adquisición de habilidades | La sección que contrasta práctica en comprensión y en producción ([Automatización](../Adquisicion/automatizacion.md)) | parcial |
+| DeKeyser y Criado (2013) | La teoría de adquisición de habilidades | La sección que contrasta práctica en comprensión y en producción ([Automatización](../Adquisicion/automatizacion.md)) | ficha |
 | Nation, «The four strands» (2007) | El esqueleto de una rutina de práctica | La tabla de las cuatro ramas y los diez principios finales ([Práctica](../Practica/practica.md)) | ficha |
 | Birdsong (2018) | El período crítico visto desde los aprendices tardíos | La discusión de qué cuenta como «nativo» | parcial |
 | Hamada (2020) | Qué sostiene de verdad la lectura extensiva | El reanálisis por sesgo de selección | parcial |

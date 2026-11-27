@@ -88,8 +88,8 @@ La pregunta de fondo es si el conocimiento explícito (saber la regla) se convie
   aprendizaje implícito.
 
 N. Ellis (2006) explica por qué el adulto necesita lo explícito: el input implícito solo no basta
-«because of learnt attention and transfer from the L1». El castellano entrena a no oír la diferencia
-entre *I live* e *I've lived*, porque en el Río de la Plata el pretérito compuesto casi no se usa.
+«because of learnt attention and transfer from the L1». Un caso es la diferencia entre *I live* e *I've lived*: en el Río de la Plata el pretérito compuesto
+casi no se usa, y la L1 da poco apoyo para notarla.
 
 Hay una pista correlacional a favor de que lo explícito pasa a implícito. Suzuki y DeKeyser (2017)
 estudiaron a 100 hablantes avanzados de japonés: la aptitud para el aprendizaje explícito predijo el

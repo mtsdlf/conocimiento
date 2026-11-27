@@ -29,7 +29,7 @@ Es parte de la [gramática](gramatica.md) del sustantivo, y uno de los errores q
 
 ## Lo que el castellano ya resuelve bien
 
-Castellano e inglés reparten igual lo básico: *el* / *the* para lo que el oyente puede identificar, *un* / *a* para lo que se presenta por primera vez. Un capítulo sobre aprendices españoles, según su resumen, encontró que eligen *the* para lo definido y *a(n)* para lo indefinido de forma casi sistemática, y lo interpreta como transferencia del sistema castellano. La hoja de errores de Cambridge para hispanohablantes no pone los artículos entre los errores principales.
+Castellano e inglés reparten igual lo básico: *el* / *the* para lo que el oyente puede identificar, *un* / *a* para lo que se presenta por primera vez. Un capítulo sobre aprendices españoles, según su resumen, encontró que eligen *the* para lo definido y *a(n)* para lo indefinido de forma casi sistemática, y lo interpreta como transferencia del sistema castellano. La hoja de errores de Cambridge para hispanohablantes no pone los artículos entre los errores principales, aunque no declara método ni cifras. Que el punto débil sean los genéricos y la omisión ante profesión viene de fuentes secundarias.
 
 Por eso no conviene estudiar los artículos como un sistema entero. Conviene ir a los pocos lugares donde los dos idiomas se separan.
 
@@ -37,7 +37,7 @@ Por eso no conviene estudiar los artículos como un sistema entero. Conviene ir 
 
 Cuando se habla de una clase en general, el castellano usa el artículo definido (*los perros*, *la paciencia*). El inglés usa el plural o el incontable sin artículo. Con *the*, la frase pasa a hablar de unos perros concretos.
 
-| Castellano | Error típico | Inglés | Qué entendería un nativo con *the* |
+| Castellano | Calco del castellano | Inglés | Qué entendería un nativo con *the* |
 |---|---|---|---|
 | *Me gustan los perros.* | ~~*I like the dogs.*~~ | *I like dogs.* | me gustan esos perros |
 | *La paciencia es una virtud.* | ~~*The patience is a virtue.*~~ | *Patience is a virtue.* | |
@@ -46,13 +46,13 @@ Cuando se habla de una clase en general, el castellano usa el artículo definido
 | *El dinero no hace la felicidad.* | ~~*The money doesn't bring happiness.*~~ | *Money doesn't bring happiness.* | ese dinero |
 | *La mayoría de la gente piensa…* | ~~*The most of people think…*~~ | *Most people think…* | |
 
-Ionin, Montrul y Crivos (2013), según su resumen, encontraron que en castellano el plural con artículo puede ser genérico o específico, y en inglés el genérico es el plural sin artículo. Hubo efecto de la lengua materna "in both directions at lower proficiency levels", que mejora con el nivel. Un detalle útil para el B2: los aprendices acertaron más al juzgar si la oración era gramatical que al interpretarla bien. Es decir, se puede saber la regla y seguir entendiendo *the dogs* como genérico.
+Ionin, Montrul y Crivos (2013), según su resumen, encontraron que en castellano el plural con artículo puede ser genérico o específico, y en inglés el genérico es el plural sin artículo. Hubo efecto de la lengua materna "in both directions at lower proficiency levels", que mejora con el nivel. Un detalle útil para el B2: los aprendices acertaron más al juzgar si la oración era gramatical que al interpretarla bien. Es decir, juzgar bien la forma no garantiza interpretarla bien.
 
 Hay dos genéricos más, de registro formal: el singular con *the* para una especie o un invento (*The tiger is endangered*, *The smartphone changed everything*) y el singular con *a* para cualquier miembro (*A doctor must be patient*).
 
 ## Otros lugares donde se separan
 
-| Castellano | Error típico | Inglés |
+| Castellano | Calco del castellano | Inglés |
 |---|---|---|
 | *Es ingeniera.* | ~~*She is engineer.*~~ | *She's an engineer.* |
 | *Me lavé las manos.* | ~~*I washed the hands.*~~ | *I washed my hands.* |

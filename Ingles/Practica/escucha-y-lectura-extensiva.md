@@ -37,7 +37,7 @@ trata [amplitud de vocabulario](../Lexico/amplitud-de-vocabulario.md).
 
 ## Qué efecto tiene la lectura extensiva
 
-Jeon y Day (2016) reunieron 71 muestras de 49 estudios (1980–2014), con 5.919 participantes.
+Jeon y Day (2016) reunieron 71 muestras de 49 estudios (1980-2014), con 5.919 participantes.
 Según los metadatos y el resumen, el efecto fue mayor en adultos que en niños, en contextos de
 lengua extranjera que de segunda lengua, con historias en la web que con libros en papel, y
 cuando la lectura se integraba al currículo. Nakanishi (2015) reunió 34 estudios con 3.942
@@ -45,7 +45,7 @@ participantes, y según su resumen dio d = 0.46 en comparaciones entre grupos y 
 antes y después.
 
 > [!IMPORTANT]
-> **El tamaño del efecto bajó cuando se corrigió el sesgo de selección.** Hamada (2020) cita
+> El tamaño del efecto bajó cuando se corrigió el sesgo de selección. Hamada (2020) cita
 > d = 0.63 para Nakanishi y d = 0.54 para Jeon y Day en comprensión lectora, y estima un efecto
 > global de d = 0.55 (IC 95% 0.39 a 0.70). Con solo los estudios de grupos equivalentes, ese
 > efecto baja a d = 0.37 (IC 0.24 a 0.50): según Hamada, el número anterior estaba inflado. Jeon y
@@ -53,17 +53,18 @@ antes y después.
 > principios de la lectura extensiva, como que el lector elija sus libros. Las dos cifras de
 > Nakanishi (0.46 y 0.63) no se pudieron reconciliar: pueden medir cosas distintas.
 
-## La escucha extensiva y el vocabulario de paso
+## Escucha extensiva y vocabulario que se aprende de paso
 
 La escucha extensiva tiene menos estudios. Chang y Renandya (2023), con 55 participantes,
 encontraron ganancias significativas en vocabulario de escucha y en una prueba estandarizada de
-escucha, con efectos pequeños; los propios autores señalan el poco apoyo empírico que tiene.
+escucha, con efectos pequeños; según su resumen, la escucha extensiva tiene poco apoyo empírico.
 
 Sobre el vocabulario que se aprende de paso, el metaanálisis de Webb, Uchihara y Yanagisawa
 encontró ganancias parecidas leyendo, escuchando y leyendo mientras se escucha, y bastante
-menores mirando video; las cifras por modo están en [Léxico](../Lexico/lexico.md). La
-conclusión práctica: de paso se aprende una fracción chica de las palabras nuevas, y el estudio
-intencional con [repetición espaciada](../Adquisicion/repeticion-espaciada.md) rinde más.
+menores mirando video; las cifras por modo están en [Léxico](../Lexico/lexico.md). De
+paso se aprende una fracción chica de las palabras objetivo: entre 9 y 18% en pruebas inmediatas
+y entre 6 y 17% en diferidas. Estos informes no compararon eso con el estudio intencional con
+[repetición espaciada](../Adquisicion/repeticion-espaciada.md).
 
 ## Subtítulos en inglés o en castellano
 
@@ -77,9 +78,9 @@ coinciden en cuántos estudios reunió (18 o 10) y el informe no obtuvo el tama�
 ## El límite para un B2
 
 La lectura extensiva se estudió sobre todo en alumnos de niveles bajos y medios, muchas veces con
-libros graduados que no llegan a B2. Para el salto de B2 a C1 faltan estudios, y no está probado
-que el mismo efecto se mantenga cuando ya se entiende casi todo. A ese nivel, el material
-extensivo es directamente el material nativo.
+libros graduados (los informes no verificaron que beneficien a un B2). Para el salto de B2 a C1 faltan estudios, y no está probado
+que el mismo efecto se mantenga cuando ya se entiende casi todo. A ese nivel el material
+extensivo pasa a ser material nativo.
 
 ## Cómo hacerlo solo
 
@@ -89,8 +90,7 @@ extensivo es directamente el material nativo.
    frenan, es material intensivo; buscá otro más fácil o guardalo para estudiar.
 3. No pares a buscar cada palabra. Anotá solo las que se repiten o te hacen perder el hilo, y
    pasalas a tarjetas después.
-4. Sumá cantidad con lo que ya hacés: el viaje, la cocina, el gimnasio. El efecto viene del
-   volumen sostenido.
+4. Sumá cantidad con lo que ya hacés: el viaje, la cocina, el gimnasio.
 5. Para escuchar mejor a nativos rápidos, alterná: un episodio sin texto y, de vez en cuando, un
    fragmento con transcripción para ver qué no estabas oyendo
    ([ritmo y habla conectada](../Pronunciacion/ritmo-y-habla-conectada.md)).

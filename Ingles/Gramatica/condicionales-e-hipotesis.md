@@ -45,7 +45,7 @@ Otras formas de C1 en la condición: *unless* (*a menos que*), *provided / provi
 
 El castellano pone subjuntivo en la condición (*si tuviera*, *si hubiera sabido*) y condicional en la consecuencia (*tendría*, *habría llamado*). Al traducir, es fácil poner *would* en las dos mitades o usar el presente donde va pasado.
 
-| Castellano | Error típico | Inglés |
+| Castellano | Calco del castellano | Inglés |
 |---|---|---|
 | *Si tuviera tiempo, iría.* | ~~*If I would have time, I would go.*~~ | *If I had time, I'd go.* |
 | *Si lo hubiera sabido, te llamaba.* | ~~*If I would have known, I called you.*~~ | *If I'd known, I would have called you.* |
@@ -54,7 +54,7 @@ El castellano pone subjuntivo en la condición (*si tuviera*, *si hubiera sabido
 | *Ojalá dejaras de interrumpir.* | ~~*I wish you stop interrupting.*~~ | *I wish you would stop interrupting.* |
 | *Por si llueve.* | ~~*In case of it rains.*~~ | *In case it rains.* |
 
-> [!NOTE] Sin fuente todavía: el error de poner *would* en la condición aparece en material de enseñanza, pero no se encontró un estudio que lo mida en hispanohablantes que aprenden inglés. En inglés americano informal se oye *If I would have known*, aunque los manuales lo marcan como incorrecto.
+> [!NOTE] Sin fuente todavía: el error de poner *would* en la condición aparece en material de enseñanza, pero no se encontró un estudio que lo mida en hispanohablantes que aprenden inglés.
 
 ## Wish, if only y otras formas del pasado irreal
 
@@ -67,7 +67,7 @@ El mismo paso atrás aparece fuera de *if*:
 - *would rather* + otra persona + pasado: *I'd rather you didn't tell her.*
 - *as if / as though* + pasado: *He talks as if he knew everything.*
 
-Según un estudio con los corpus COCA y COHA, *wish* e *if only* se usan en variación libre para un deseo improbable o imposible; *if only* suena más enfático.
+Según un estudio con los corpus COCA y COHA, *wish* e *if only* se usan en variación libre para un deseo improbable o imposible.
 
 ## La inversión reemplaza a if en el registro formal
 

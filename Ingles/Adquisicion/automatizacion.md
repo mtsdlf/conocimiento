@@ -68,8 +68,8 @@ automatiza lo que nunca se notó: por eso esta pieza va después de notar y estu
 
 ## Fluidez es automatización vista desde afuera
 
-Segalowitz y Hulstijn (2009) conectan la automaticidad con la fluidez: cuanto menos atención pide
-la gramática y la búsqueda de palabras, más fluido sale el habla. El MCER describe esa progresión en
+Segalowitz y Hulstijn (2009) revisan las definiciones de automaticidad y su relación con la
+atención. De ahí sale la lectura de esta base: cuanto menos atención piden la gramática y la búsqueda de palabras, más fluido sale el habla. El MCER describe esa progresión en
 su escala de fluidez oral: B2 tiene «few noticeably long pauses»; C1 se expresa «fluently and
 spontaneously, almost effortlessly»; C2 tiene un «natural, effortless, unhesitating flow». Los
 descriptores completos están en [Niveles del MCER](../Fundamentos/niveles-mcer.md).
@@ -84,7 +84,7 @@ de un tirón, con las contracciones, y tiene la atención libre para lo que sigu
 > Sin fuente todavía: no se encontró un estudio controlado que mida la «práctica deliberada» de
 > Ericsson como causa de mejora oral en una segunda lengua. Lo que hay son revisiones que la
 > mencionan. Además, Hambrick et al. (2020) documentan «critical inconsistencies in the definition
-> of deliberate practice» en 25 años de trabajo de Ericsson, en música y ajedrez. En este tema no se
+> of deliberate practice» en 25 años de trabajo de Ericsson, en dominios como música y ajedrez. En este tema no se
 > usa «práctica deliberada» como si fuera un método con evidencia en idiomas.
 
 Lo que sí tiene apoyo es más modesto: practicar en el modo en que se va a usar (hablar para hablar),

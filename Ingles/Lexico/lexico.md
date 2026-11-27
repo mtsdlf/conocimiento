@@ -28,7 +28,7 @@ Es una de las cuatro partes del idioma que se afinan en el [tema](../ingles.md),
 
 ## Saber una palabra tiene muchas capas
 
-Saber una palabra no es saber su traducción. Nation (2022) divide ese saber en tres grandes aspectos, forma, significado y uso, y cada uno tiene un lado receptivo (reconocerla al leer o escuchar) y uno productivo (usarla al hablar o escribir). Esta nota toma el esquema del resumen del capítulo; el libro no se leyó.
+Saber una palabra no es saber su traducción. Nation (2022) divide ese saber en tres grandes aspectos, forma, significado y uso, y cada uno tiene un lado receptivo (reconocerla al leer o escuchar) y uno productivo (usarla al hablar o escribir). El esquema se conoce por el resumen del capítulo; el libro no se leyó.
 
 Con un verbo como *argue* se ve qué entra en cada aspecto:
 
@@ -38,7 +38,7 @@ Con un verbo como *argue* se ve qué entra en cada aspecto:
 | Significado | "discutir, pelear" (*they argued all night*) y "sostener una postura" (*she argues that prices will fall*); *argument* es "discusión" y también "argumento" |
 | Uso | *argue with someone about something*, *argue that…*, *argue for/against*; es neutral, sirve hablando y escribiendo |
 
-Un hispanohablante B2 suele reconocer *argue* sin problema y fallar en el uso: *\*argue me* en lugar de *argue with me*, o *argument* entendido solo como "argumento". Ese es el patrón de casi todo el léxico avanzado: el hueco no está en la palabra suelta, sino en lo que la rodea.
+Un hispanohablante B2 puede reconocer *argue* sin problema y fallar en el uso: *\*argue me* en lugar de *argue with me*, o *argument* entendido solo como "argumento". La intuición de la enseñanza es que el hueco del léxico avanzado está en lo que rodea a la palabra, y no en la palabra suelta; no se leyó un estudio que lo muestre (ver la nota de más abajo).
 
 ## Amplitud y profundidad del vocabulario
 
@@ -53,20 +53,20 @@ La profundidad es lo que tratan los otros tres componentes: las [colocaciones y 
 
 Hay dos maneras de sumar vocabulario, y los metaanálisis las miden por separado.
 
-**Aprendizaje incidental**: la palabra se aprende de paso, mientras se lee, se escucha o se mira algo por su contenido. El metaanálisis de Webb, Uchihara y Yanagisawa (2023), con 24 estudios y 2.771 participantes, halló que se aprende entre 9 y 18% de las palabras objetivo en la prueba inmediata y entre 6 y 17% en la diferida. Por modo de entrada, la lectura dio 17% (15% diferido), la escucha 15% (13%), la lectura con audio 13% (17%) y ver video 7% (5%). La variación entre estudios es enorme: en lectura hay resultados de menos de 10% y de más de 40%. Moderan el efecto el nivel de inglés, el espaciado de los encuentros y el modo.
+En el **aprendizaje incidental** la palabra se aprende de paso, mientras se lee, se escucha o se mira algo por su contenido. El metaanálisis de Webb, Uchihara y Yanagisawa (2023), con 24 estudios y 2.771 participantes, halló que se aprende entre 9 y 18% de las palabras objetivo en la prueba inmediata y entre 6 y 17% en la diferida. Por modo de entrada, la lectura dio 17% (15% diferido), la escucha 15% (13%), la lectura con audio 13% (17%) y ver video 7% (5%). La variación entre estudios es enorme: en lectura hay resultados de menos de 10% y de más de 40%. Moderan el efecto el nivel de inglés, el espaciado de los encuentros y el modo.
 
-**Aprendizaje intencional**: la palabra se estudia a propósito, con tarjetas, listas, escritura o ejercicios de completar. Lo midió otro metaanálisis, Webb, Yanagisawa y Uchihara (2020), con 22 estudios y 100 tamaños de efecto, según su resumen: la eficacia varía mucho entre actividades. No hay que confundir los dos trabajos; tienen los mismos autores en distinto orden.
+En el **aprendizaje intencional** la palabra se estudia a propósito, con tarjetas, listas, escritura o ejercicios de completar. Lo midió otro metaanálisis, Webb, Yanagisawa y Uchihara (2020). Según una ficha secundaria, que no se pudo contrastar con el original, reunió 22 estudios y 100 tamaños de efecto, y la eficacia varía mucho entre actividades. Los dos metaanálisis son trabajos distintos con los mismos autores en otro orden.
 
-La repetición une los dos caminos. Uchihara, Webb y Yanagisawa (2019) hallaron una correlación media de r = .34 entre la cantidad de encuentros con una palabra y su aprendizaje incidental, según el abstract (una reseña cita .41; no se pudo resolver). El espaciado moderó ese efecto. Cómo aprovecharlo al estudiar a propósito está en [Repetición espaciada](../Adquisicion/repeticion-espaciada.md).
+La repetición une los dos caminos. Uchihara, Webb y Yanagisawa (2019) hallaron una correlación media de r = .34 entre la cantidad de encuentros con una palabra y su aprendizaje incidental, según el resumen que cita el buscador (una reseña cita .41; no se pudo resolver cuál es). El espaciado moderó ese efecto. Cómo aprovecharlo al estudiar a propósito está en [Repetición espaciada](../Adquisicion/repeticion-espaciada.md).
 
 > [!IMPORTANT]
-> **¿Alcanza con leer y escuchar mucho?** Una posición sostiene que el vocabulario se adquiere sobre todo por input abundante ([Input comprensible](../Adquisicion/input-comprensible.md)), y el metaanálisis de 2023 confirma que se aprende algo en cada exposición. La otra, que Nation y Laufer comparten según un resumen, es que las ganancias incidentales son chicas y que el estudio intencional rinde más por hora. Las cifras de 2023 (un dígito a dos dígitos de porcentaje por exposición) apoyan combinar los dos: mucho input en [lectura y escucha extensiva](../Practica/escucha-y-lectura-extensiva.md) para encontrar las palabras y repaso intencional para fijar las que importan.
+> **¿Alcanza con leer y escuchar mucho?** Una posición sostiene que el vocabulario se adquiere sobre todo por input abundante ([Input comprensible](../Adquisicion/input-comprensible.md)), y el metaanálisis de 2023 confirma que se aprende algo en cada exposición. La otra, que Nation y Laufer comparten según el buscador, es que las ganancias incidentales son chicas frente al aprendizaje intencional. Las cifras de 2023 (un dígito a dos dígitos de porcentaje por exposición) apoyan combinar los dos: mucho input en [lectura y escucha extensiva](../Practica/escucha-y-lectura-extensiva.md) para encontrar las palabras y repaso intencional para fijar las que importan.
 
 ## El castellano como ventaja y como trampa
 
 El inglés tomó del latín y del francés una parte grande de su vocabulario culto, así que el hispanohablante llega a B2 con miles de palabras regaladas: *information*, *necessary*, *opportunity*. Esa ventaja tiene dos costos. Algunas palabras parecidas significan otra cosa (*actually* no es "actualmente") y otras significan lo mismo pero suenan más formales que su equivalente germánico (*obtain* frente a *get*). Las dos cosas están en [Cognados y falsos amigos](cognados-y-falsos-amigos.md).
 
-La otra trampa es traducir palabra por palabra lo que en inglés va en bloque: *\*make a question* por *ask a question*, *\*depend of* por *depend on*. Ningún diccionario bilingüe lo marca bien, y por eso las combinaciones se estudian como unidad.
+La otra trampa es traducir palabra por palabra lo que en inglés va en bloque: *\*make a question* por *ask a question*, *\*depend of* por *depend on*. Por eso las combinaciones se estudian como unidad.
 
 ## Qué hay adentro del léxico
 

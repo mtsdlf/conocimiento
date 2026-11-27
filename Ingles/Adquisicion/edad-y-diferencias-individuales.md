@@ -76,12 +76,10 @@ empezar temprano es de techo, no de velocidad.
 
 ## Aptitud: quién aprovecha más la regla
 
-La aptitud es la facilidad para aprender idiomas, y se mide por partes (memoria, oído, análisis
-gramatical). Suzuki y DeKeyser (2017), con 100 hablantes avanzados de japonés, hallaron que la
+La aptitud es la facilidad para aprender idiomas. Suzuki y DeKeyser (2017), con 100 hablantes avanzados de japonés, hallaron que la
 aptitud para el aprendizaje explícito predijo cuánto conocimiento explícito automatizado tenían, y
-eso predijo el implícito. Para un adulto, la aptitud analítica es una ventaja que se aprovecha con
-[instrucción explícita](instruccion-explicita.md): quien entiende rápido una regla saca más de
-estudiarla.
+eso predijo el implícito. Eso sugiere, sin probarlo, que la aptitud para lo explícito rinde más cuando hay
+[instrucción explícita](instruccion-explicita.md); es un estudio correlacional con hablantes de japonés.
 
 La edad también cambia cuánto rinde la corrección. Lyster y Saito (2010) hallaron que los más
 jóvenes se benefician más del [feedback correctivo](feedback-correctivo.md) que los mayores. No
@@ -99,14 +97,14 @@ quiere decir que a un adulto no le sirva: el efecto global fue significativo y d
 
 - **«Aprender como un niño»**. Según el resumen de Lightbown y Spada, ni la lengua materna ni la
   segunda se aprenden principalmente por imitación. Y el adulto tiene ventajas que el niño no tiene:
-  puede entender una regla, como *since 2019* pide present perfect, y aprender más rápido al
-  principio.
+  puede entender una regla, como que *since 2019* pide present perfect, y en laboratorio aprende
+  más rápido que el niño, según la nota del MIT sobre Hartshorne et al.
 - **«Tengo un estilo de aprendizaje visual (o auditivo)»**. Pashler et al. (2008) hallaron
   evidencia abundante de que la gente tiene preferencias, pero «virtualmente ninguna» de que enseñar
   según el estilo mejore el aprendizaje. No es un estudio específico de idiomas.
 
 ## Para leer más
 
-Ortega (2009) es el único de los textos de introducción que trata edad y aptitud a fondo, con un
+Ortega (2009) es el único de los libros revisados que trata edad y aptitud a fondo, con un
 capítulo para cada una. Birdsong (2018) está abierto y es la mejor discusión del período crítico
 desde el lado de los aprendices tardíos.

@@ -30,7 +30,7 @@ Es la parte de [Discurso](discurso.md) que solo existe hablando con otro. Desde 
 
 ## Dos campos que miran cosas distintas
 
-El **análisis de la conversación** describe cómo conversan los hablantes nativos de cualquier lengua: turnos, pausas, solapamientos, reparaciones. No es una disciplina de enseñanza. Las **estrategias de comunicación** vienen de la enseñanza de idiomas y estudian qué hace el aprendiz cuando le falta una palabra o una estructura: rodear, pedir ayuda, ganar tiempo. Esta nota toma las dos, pero la evidencia de cada una es de distinto tipo.
+El **análisis de la conversación** describe cómo conversan los hablantes nativos de cualquier lengua: turnos, pausas, solapamientos, reparaciones. No es una disciplina de enseñanza. Las **estrategias de comunicación** vienen de la enseñanza de idiomas y estudian qué hace el aprendiz cuando le falta una palabra o una estructura: rodear, pedir ayuda, ganar tiempo. La evidencia de cada una es de distinto tipo.
 
 ## Los turnos: un universal con poca variación
 
@@ -38,7 +38,7 @@ Sacks, Schegloff y Jefferson (1974) describieron cómo se reparte el turno en un
 
 Stivers et al. (2009) midieron el silencio entre turnos en 10 lenguas, con 101 conversaciones de 2 a 6 participantes. Todas evitan solaparse y minimizan el silencio. El hueco medio fue de 208 milisegundos; el danés fue la lengua más lenta (469 ms), el japonés la más rápida (7 ms) y el italiano quedó en 310. Las medias de cada lengua caen dentro de unos 250 ms a cada lado de la media general, y los autores advierten que diferencias tan chicas pueden parecer enormes a la percepción.
 
-El castellano no estaba en la muestra. No hay fuente para la idea difundida de que los hispanohablantes se solapan más que los angloparlantes: lo que el estudio muestra es una regla compartida con variaciones chicas. Para el aprendiz, la consecuencia práctica es otra: en 200 milisegundos no hay tiempo de armar una oración, así que quien necesita pensar tiene que señalar que va a hablar antes de saber qué va a decir.
+El castellano no estaba en la muestra. No hay fuente para la idea difundida de que los hispanohablantes se solapan más que los angloparlantes: lo que el estudio muestra es una regla compartida con variaciones chicas. Como inferencia de la nota, y no del estudio: en 200 milisegundos no hay tiempo de armar una oración, así que quien necesita pensar tiene que señalar que va a hablar antes de saber qué va a decir.
 
 ## Ganar tiempo sin perder el turno
 
@@ -83,7 +83,7 @@ La **reparación** es arreglar un problema de comprensión sin romper la convers
 - Pedir que aclaren: *Do you mean the first option or the second?*, *When you say "soon", do you mean this week?*
 - Confirmar lo entendido: *So you're saying we should wait?*, *Just to make sure I got it right: …*
 
-Un error típico de B2 es fingir que se entendió para no interrumpir; sale más caro después. *Sorry, I didn't catch that* es una frase completamente normal entre nativos. También conviene sacar del repertorio el *What?* seco y el *Repeat, please*, que en inglés suenan bruscos ([Registro y cortesía](registro-y-cortesia.md)).
+Fingir que se entendió para no interrumpir sale más caro después. *Sorry, I didn't catch that* es una frase completamente normal entre nativos. También conviene sacar del repertorio el *What?* seco y el *Repeat, please*, que en inglés suenan bruscos ([Registro y cortesía](registro-y-cortesia.md)).
 
 ## Cómo se practica
 

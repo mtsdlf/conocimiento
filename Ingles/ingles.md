@@ -55,22 +55,22 @@ flowchart LR
   PA -->|entrena| DI
 ```
 
-- [Adquisición](Adquisicion/adquisicion.md) — cómo aprende un idioma un adulto: input, output,
+- [Adquisición](Adquisicion/adquisicion.md): cómo aprende un idioma un adulto: input, output,
   corrección, instrucción explícita, automatización, memoria y edad, y por qué el B2 se estanca.
   Se lee primero, porque decide cómo usar todo lo demás.
-- [Pronunciación](Pronunciacion/pronunciacion.md) — vocales, consonantes, acento de palabra, ritmo,
+- [Pronunciación](Pronunciacion/pronunciacion.md): vocales, consonantes, acento de palabra, ritmo,
   habla conectada y entonación, con la inteligibilidad como meta y General American como modelo.
-- [Gramática](Gramatica/gramatica.md) — el sistema verbal (tiempo, aspecto, modalidad), los
+- [Gramática](Gramatica/gramatica.md): el sistema verbal (tiempo, aspecto, modalidad), los
   artículos, la estructura de la oración y las construcciones avanzadas, vistos desde lo que el
   castellano hace distinto.
-- [Léxico](Lexico/lexico.md) — colocaciones y chunks, phrasal verbs, cognados y falsos amigos, y
+- [Léxico](Lexico/lexico.md): colocaciones y chunks, phrasal verbs, cognados y falsos amigos, y
   cuánto vocabulario hace falta.
-- [Discurso](Discurso/discurso.md) — conectar ideas: conectores y cohesión, cómo se ordena un
+- [Discurso](Discurso/discurso.md): conectar ideas: conectores y cohesión, cómo se ordena un
   argumento, registro y cortesía, la conversación y la escritura de trabajo.
-- [Práctica](Practica/practica.md) — cómo se entrena, con las cuatro ramas de Nation como esqueleto
+- [Práctica](Practica/practica.md): cómo se entrena, con las cuatro ramas de Nation como esqueleto
   de una rutina, cada técnica con su evidencia y fichas fechadas de exámenes, herramientas y
   tutores.
-- [Fundamentos](Fundamentos/fundamentos-de-ingles.md) — los niveles del MCER, el alfabeto fonético,
+- [Fundamentos](Fundamentos/fundamentos-de-ingles.md): los niveles del MCER, el alfabeto fonético,
   la bibliografía y una ruta paso a paso.
 
 ## Saber la regla no alcanza

@@ -44,8 +44,8 @@ adquirido y solo sirve para editar lo que ya se dijo. Esa tesis es la posición 
 se discute en [Instrucción explícita](instruccion-explicita.md).
 
 Para un B2, i+1 se parece a un podcast de un tema conocido en el que se entiende casi todo, con
-algunas expresiones nuevas que el contexto aclara. Escuchar varias veces *I've been meaning to
-call you* en situaciones distintas deja la frase lista para usar, sin haberla estudiado.
+algunas expresiones nuevas que el contexto aclara. Según la hipótesis, escuchar varias veces *I've been meaning to
+call you* en situaciones distintas deja la frase lista para usar, sin estudiarla.
 
 ## Entender sin notar la forma
 
@@ -54,8 +54,8 @@ sin problema *If I had known, I would have come*, porque el sentido sale del con
 dice *If I would have known, I would have come*: el input le dio el significado, pero no le hizo
 notar que el *if* lleva past perfect.
 
-Swain observó lo mismo en la inmersión en francés en Canadá: alumnos con seis o siete años de
-input comprensible seguían con desvíos gramaticales. Richards (2008) lo resume así: que la
+Swain observó algo parecido en la inmersión en francés en Canadá: alumnos con seis o siete años de
+input comprensible seguían con desvíos gramaticales (según resúmenes; los originales no se leyeron). Richards (2008) lo resume así: que la
 producción surja del input «is not always confirmed in the experience of learners, who often find
 that their productive skills are well below the level they would like». Por eso hacen falta el
 [output y la interacción](output-e-interaccion.md) y el
@@ -63,8 +63,8 @@ that their productive skills are well below the level they would like». Por eso
 
 ## Lo que mide la lectura extensiva
 
-La lectura extensiva (leer mucho, fácil y elegido por gusto) es la mejor prueba disponible del
-input, y su efecto es medio. Las cifras no coinciden entre fuentes:
+La lectura extensiva (leer mucho, fácil y elegido por gusto) tiene metaanálisis propios y un
+efecto medio. Las cifras no coinciden entre fuentes:
 
 | Estudio | Qué reporta |
 |---|---|
@@ -88,12 +88,11 @@ moderó el efecto. Por eso el vocabulario también se estudia a propósito, con
 > [!IMPORTANT]
 > **¿Alcanza con el input?** Krashen (1998) sostiene que se pueden desarrollar niveles muy altos de
 > idioma sin producir, con historias de caso, y que la hipótesis del output «carece de evidencia
-> directa». Programas comerciales de solo input estiman unas 1.000 horas para conversar, pero esas
-> cifras salen de su fundador y de testimonios, sin estudios controlados. Del otro lado, Swain
+> directa». Dreaming Spanish, un programa comercial de solo input, estima unas 1.000 horas para conversar, pero esa
+> cifra sale de su fundador y de testimonios, sin estudios controlados. Del otro lado, Swain
 > responde con los datos de inmersión, y Gregg (1984) y McLaughlin (1987) criticaron que la teoría
 > no se puede falsar ni define «adquisición» de forma comprobable (esas dos críticas solo se
-> leyeron en reseñas). Lo disputado es la suficiencia, no la utilidad: nadie discute que un B2
-> necesite mucho input.
+> leyeron en reseñas). Se discute si el input alcanza; que un B2 necesite mucho input no lo discute nadie.
 
 Krashen, en la nota de 2009 a su libro, dice que cambió de posición en un solo punto y cita como
 confirmaciones trabajos propios y a Truscott (1996). Es autoevaluación, no evidencia

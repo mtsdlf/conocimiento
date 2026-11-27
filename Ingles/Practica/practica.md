@@ -36,9 +36,8 @@ Acá está el cómo: qué hacer en la semana, con qué técnica y cuánto respal
 ## Las cuatro ramas de Nation como esqueleto de una rutina
 
 Nation (2007) propone que un programa de idioma equilibrado tenga cuatro ramas, y que cada una
-reciba más o menos la misma parte del tiempo. El reparto parejo es lo que el informe de
-investigación tomó del resumen del artículo; el original (unas 12 páginas, abierto) no se leyó
-entero y conviene verlo antes de citarlo literal.
+reciba más o menos la misma parte del tiempo. El reparto parejo viene del resumen del artículo; el
+original (unas 12 páginas, abierto) no se leyó entero, y conviene verlo antes de citarlo literal.
 
 | Rama | Qué es | Qué la hace ser esa rama | Técnicas de esta vertical |
 |---|---|---|---|
@@ -47,14 +46,14 @@ entero y conviene verlo antes de citarlo literal.
 | Aprendizaje centrado en la forma | Estudiar sonidos, gramática, vocabulario y discurso a propósito | La atención está en la forma, no en el mensaje | [Entrenamiento perceptivo](entrenamiento-perceptivo.md), la corrección recibida, el repaso espaciado de [Adquisición](../Adquisicion/repeticion-espaciada.md) |
 | Desarrollo de la fluidez | Usar más rápido lo que ya se sabe | Todo el material es conocido, se atiende al significado, hay presión para ir más rápido y mucha cantidad | [Fluidez](fluidez.md), [shadowing](shadowing.md) |
 
-Las condiciones de la tercera columna son la forma corriente de leer el artículo de Nation; la
-tabla del original es la que hay que mirar. La consecuencia práctica es que la misma actividad
-puede caer en ramas distintas según el material. Leer una novela con una palabra desconocida por
+La tercera columna es una síntesis de esta base; la tabla del artículo de Nation es la que hay
+que mirar. Con esas condiciones, la misma actividad puede caer en ramas distintas según el
+material. Leer una novela con una palabra desconocida por
 renglón no es input extensivo: es estudio de vocabulario. Contar por tercera vez la misma
 anécdota es fluidez, no output nuevo.
 
-El esqueleto sirve contra la falla típica del B2 que estudia solo: cargar todo en una rama. Quien
-solo mira series acumula input y no destraba el habla; quien solo hace ejercicios de gramática
+Una falla probable del B2 que estudia solo es cargar todo en una rama (inferencia de esta base,
+sin estudio que la mida). Quien solo mira series acumula input y no destraba el habla; quien solo hace ejercicios de gramática
 sabe la regla y no la usa. La [meseta intermedia](../Adquisicion/meseta-intermedia.md) tiene
 mucho de eso.
 
@@ -66,15 +65,15 @@ donde cabe en el día.
 
 Con unas cinco horas por semana, un reparto posible:
 
-1. **Input (una hora y cuarto)**: podcasts o series en el viaje o al cocinar, y lectura de lo que
+1. Input (una hora y cuarto): podcasts o series en el viaje o al cocinar, y lectura de lo que
    igual se lee por trabajo, en inglés.
-2. **Output (una hora y cuarto)**: una o dos conversaciones con corrección de 30 a 45 minutos, más
+2. Output (una hora y cuarto): una o dos conversaciones con corrección de 30 a 45 minutos, más
    alguna práctica de conversación con IA en los huecos.
-3. **Forma (una hora y cuarto)**: diez minutos diarios de entrenamiento perceptivo o de repaso
+3. Forma (una hora y cuarto): diez minutos diarios de entrenamiento perceptivo o de repaso
    espaciado, y una sesión para estudiar el punto que la corrección mostró.
-4. **Fluidez (una hora y cuarto)**: 4/3/2 sobre temas de trabajo, diez minutos varias veces por
+4. Fluidez (una hora y cuarto): 4/3/2 sobre temas de trabajo, diez minutos varias veces por
    semana, y shadowing corto si se busca prosodia.
-5. **Una vez por mes**: grabar la misma tarea y medirla con [grabarse y medirse](grabarse-y-medirse.md),
+5. Una vez por mes: grabar la misma tarea y medirla con [grabarse y medirse](grabarse-y-medirse.md),
    para ver si algo se mueve.
 
 El reparto se corre según lo que falle. Si te entienden con esfuerzo, más forma en pronunciación;
@@ -86,16 +85,15 @@ Casi toda la evidencia de esta vertical viene de estudios de laboratorio o de au
 universitarios y muchas veces con niveles bajos o medios. Ninguno de los informes encontró
 estudios con adultos B2 o más que estudian por su cuenta con poco tiempo. Eso no anula los
 resultados, pero limita cuánto se puede prometer: un efecto medido en estudiantes de nivel
-intermedio en un aula puede ser menor en alguien que ya entiende casi todo. Algunas técnicas
-lo dicen explícitamente; el shadowing, por ejemplo, ayudó más a los de menor nivel en un estudio
-japonés.
+intermedio en un aula puede ser menor en alguien que ya entiende casi todo. Un estudio japonés de
+shadowing, por ejemplo, encontró más beneficio en los de menor nivel.
 
 ## Cuánta evidencia tiene cada técnica
 
 | Técnica | Qué entrena | Evidencia |
 |---|---|---|
 | [Fluidez](fluidez.md) (4/3/2, repetir tareas) | Velocidad y menos pausas con lo que ya se sabe | Repetir una tarea mejora la fluidez de forma consistente; la complejidad y la exactitud, de forma variable. Hay un mini-metaanálisis y uno de escritura, no un metaanálisis amplio del habla |
-| [Shadowing](shadowing.md) | Prosodia, fluidez, percepción | Débil y disputada: sin metaanálisis; estudios chicos con mejora en comprensibilidad y fluidez, no en acento ni en sonidos sueltos |
+| [Shadowing](shadowing.md) | Prosodia, fluidez, percepción | Débil y disputada: sin metaanálisis; estudios chicos con mejora en comprensibilidad y fluidez, y resultados mixtos o inconclusos en acento y sonidos sueltos |
 | [Entrenamiento perceptivo](entrenamiento-perceptivo.md) (HVPT) | Distinguir sonidos que el castellano junta | La mejor de la vertical: metaanálisis de 79 estudios para percepción; menor y parcial para producción |
 | [Escucha y lectura extensiva](escucha-y-lectura-extensiva.md) | Comprensión, vocabulario, velocidad de lectura | Metaanálisis con efecto medio, que bajó cuando se corrigió el sesgo de selección; casi todo en niveles bajos y medios |
 | [Conversación con corrección](conversacion-con-correccion.md) | Exactitud en el uso, interacción | La corrección oral tiene metaanálisis con efecto duradero; el tándem, casi solo estudios cualitativos |
@@ -104,15 +102,15 @@ japonés.
 
 ## Qué hay adentro de la práctica
 
-- [Fluidez](fluidez.md) — el 4/3/2 y la repetición de tareas; leer primero si te trabás al hablar.
-- [Shadowing](shadowing.md) — repetir en voz alta encima de un audio; qué mejora y qué no.
-- [Entrenamiento perceptivo](entrenamiento-perceptivo.md) — HVPT, pares mínimos y dictado para oír lo que el castellano no distingue.
-- [Escucha y lectura extensiva](escucha-y-lectura-extensiva.md) — mucho material fácil, y qué se sabe de los subtítulos.
-- [Conversación con corrección](conversacion-con-correccion.md) — tutor y tándem, y cómo pedir que te corrijan.
-- [Conversación con IA](conversacion-con-ia.md) — qué dice la evidencia, que casi no incluye modelos de lenguaje, y cómo usarla.
-- [Grabarse y medirse](grabarse-y-medirse.md) — complejidad, exactitud y fluidez, con medidas simples.
-- [Exámenes de inglés](examenes-de-ingles.md) — ficha con los certificados C1/C2, qué miden y precios fechados (2026-11-27).
-- [Herramientas de inglés](herramientas-de-ingles.md) — ficha de diccionarios, buscadores de pronunciación, tarjetas, corpus y tests de vocabulario (2026-11-27).
-- [Plataformas de tutores](plataformas-de-tutores.md) — ficha con el modelo de precio de las plataformas de clases en línea (2026-11-27).
+- [Fluidez](fluidez.md): el 4/3/2 y la repetición de tareas; leer primero si te trabás al hablar.
+- [Shadowing](shadowing.md): repetir en voz alta encima de un audio; qué mejora y qué no.
+- [Entrenamiento perceptivo](entrenamiento-perceptivo.md): HVPT, pares mínimos y dictado para oír lo que el castellano no distingue.
+- [Escucha y lectura extensiva](escucha-y-lectura-extensiva.md): mucho material fácil, y qué se sabe de los subtítulos.
+- [Conversación con corrección](conversacion-con-correccion.md): tutor y tándem, y cómo pedir que te corrijan.
+- [Conversación con IA](conversacion-con-ia.md): qué dice la evidencia, que casi no incluye modelos de lenguaje, y cómo usarla.
+- [Grabarse y medirse](grabarse-y-medirse.md): complejidad, exactitud y fluidez, con medidas simples.
+- [Exámenes de inglés](examenes-de-ingles.md): ficha con los certificados C1/C2, qué miden y precios fechados (2026-11-27).
+- [Herramientas de inglés](herramientas-de-ingles.md): ficha de diccionarios, buscadores de pronunciación, tarjetas, corpus y tests de vocabulario (2026-11-27).
+- [Plataformas de tutores](plataformas-de-tutores.md): ficha con el modelo de precio de las plataformas de clases en línea (2026-11-27).
 
 La [ruta](../Fundamentos/ruta-de-ingles.md) arma con estas técnicas un camino paso a paso.

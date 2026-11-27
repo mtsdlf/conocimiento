@@ -51,7 +51,7 @@ en [Vocales](../Pronunciacion/vocales.md).
 | /ɛ/ | *bed* /bɛd/ | Parecida a la e |
 | /æ/ | *cat* /kæt/ | Abierta, entre a y e; se confunde con /ɛ/ y /ʌ/ |
 | /ɑ/ | *hot* /hɑt/, *father* /ˈfɑðɚ/ | A abierta, atrás |
-| /ɔ/ | *thought* /θɔt/ | Muchos estadounidenses la funden con /ɑ/: *caught* = *cot* |
+| /ɔ/ | *thought* /θɔt/ | Algunos estadounidenses la funden con /ɑ/: *caught* = *cot* |
 | /oʊ/ | *go* /ɡoʊ/ | Diptongo; la o pura del castellano suena extranjera |
 | /ʊ/ | *book* /bʊk/ | Se hace /u/ y *full* suena *fool* |
 | /u/ | *food* /fud/ | Parecida a la u |

@@ -40,9 +40,9 @@ La adecuación al registro y la cortesía no son pragmática para el MCER: van e
 > [!NOTE]
 > Sin fuente todavía: los descriptores literales de B2, C1 y C2 de las escalas de coherencia, desarrollo temático y turnos. El PDF del Companion Volume no se pudo abrir.
 
-## Cómo se ve la diferencia entre B2 y C1
+## Una ilustración de la diferencia entre B2 y C1
 
-Un B2 dice lo que quiere, pero encadena las ideas con pocos recursos y en el orden en que se le ocurren. Un C1 anuncia adónde va, deja lo nuevo para el final de la oración, elige entre *so*, *which means* y *as a result* según el contexto, y suaviza un desacuerdo sin perder el punto. Un ejemplo en una reunión:
+Los descriptores literales del MCER no se leyeron; esta es una ilustración de la nota. Un B2 dice lo que quiere, pero encadena las ideas con pocos recursos y en el orden en que se le ocurren. Un C1 anuncia adónde va, deja lo nuevo para el final de la oración, elige entre *so*, *which means* y *as a result* según el contexto, y suaviza un desacuerdo sin perder el punto. Un ejemplo en una reunión:
 
 - B2: *The deadline is not possible. We need more people and the client changed the requirements and also the testing takes more time.*
 - C1: *I don't think we can make that deadline, for two reasons. First, the client changed the requirements last week. Second, testing is taking longer than we planned. So we either add people or move the date.*
@@ -54,15 +54,15 @@ La segunda versión no tiene palabras más difíciles. Tiene la respuesta primer
 La idea de que cada cultura organiza el texto a su manera viene de Kaplan (1966), que analizó unas 600 composiciones en inglés de estudiantes internacionales y dibujó un diagrama por grupo de lenguas: la línea recta para el inglés, rodeos y zigzags para otras. Fundó la **retórica contrastiva**.
 
 > [!IMPORTANT]
-> **Kaplan y sus críticos.** Kaplan sostuvo que el patrón de pensamiento de la lengua materna se ve en cómo se estructura el texto en la segunda lengua. Las críticas lo acusaron de etnocéntrico, porque toma la prosa académica inglesa como norma, y de estático, porque trata a cada cultura como un bloque sin variación (Kubota y Lehner, 2004); otra crítica apunta a que los diagramas reflejan la mirada de un observador estadounidense. Connor propuso llamar al campo *intercultural rhetoric*: las diferencias dependen del género, el contexto y el escritor más que de la lengua. No hay evidencia de consenso de que el castellano "divague". Todo se conoce por fuentes secundarias.
+> **Kaplan y sus críticos.** Kaplan sostuvo que el patrón de pensamiento de la lengua materna se ve en cómo se estructura el texto en la segunda lengua. Se lo acusó de etnocéntrico, porque toma la prosa académica inglesa como norma, y de estático, porque trata a cada cultura como un bloque sin variación (Kubota y Lehner, 2004); otra crítica apunta a que los diagramas reflejan la mirada de un observador estadounidense. Connor propuso llamar al campo *intercultural rhetoric*: las diferencias dependen del género, el contexto y el escritor más que de la lengua. No hay evidencia de consenso de que el castellano "divague". Todo se conoce por fuentes secundarias.
 
 Lo que sí aparece en estudios concretos es más acotado. Reppen y Grabe (1993) reportan oraciones más largas en quienes escriben en español, por más coordinación (encadenar con *y*, *pero*, *entonces*) y no por más subordinación, según el resumen del buscador; no se hallaron cifras. Eso se trata en [Escritura](escritura.md). Y en los pedidos, el español argentino figura entre las variedades más directas del proyecto CCSARP, según el resumen de CARLA ([Registro y cortesía](registro-y-cortesia.md)).
 
-La lengua materna no explica todos los errores: Lightbown y Spada señalan que muchos son comunes a aprendices de cualquier origen, según un resumen secundario de baja autoridad. El castellano sirve como mapa de dónde mirar, no como diagnóstico automático.
+La lengua materna no explica todos los errores: Lightbown y Spada señalan que muchos son comunes a aprendices de cualquier origen, según un resumen secundario de baja autoridad. Por eso el castellano sirve de mapa de dónde mirar y no se lo toma como diagnóstico.
 
 ## Hablado y escrito piden recursos distintos
 
-El discurso hablado y el escrito no usan las mismas herramientas. Al hablar, las ideas se conectan con marcadores cortos (*well*, *so*, *I mean*, *anyway*), se gana tiempo con fórmulas y se negocia el significado con el otro. Al escribir, el lector no puede preguntar, así que el orden, la oración temática y los conectores tienen que hacer todo el trabajo. Un error típico de B2 es trasladar los conectores formales de la escritura a la conversación (*\*Furthermore, I think we should go*), o al revés.
+El discurso hablado y el escrito no usan las mismas herramientas. Al hablar, las ideas se conectan con marcadores cortos (*well*, *so*, *I mean*, *anyway*), se gana tiempo con fórmulas y se negocia el significado con el otro. Al escribir, el lector no puede preguntar, así que el orden, la oración temática y los conectores tienen que hacer todo el trabajo. Un error posible, que ningún estudio leído cuantifica, es trasladar los conectores formales de la escritura a la conversación (*\*Furthermore, I think we should go*), o al revés.
 
 ## Qué hay adentro del discurso
 

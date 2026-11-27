@@ -47,9 +47,9 @@ Los patrones permiten adivinar la palabra inglesa desde la castellana:
 
 Walseth (2013) halló que los estudiantes hispanohablantes reconocen en general los cognados y los falsos amigos de un texto, pero que distinguir unos de otros les cuesta, según su resumen. La ventaja sirve para entender; para producir hay que comprobar.
 
-## Los falsos amigos más traicioneros
+## Una selección de falsos amigos
 
-La terminología no está unificada: "falso cognado" y "falso amigo" se usan casi como sinónimos, aunque falso amigo es la categoría más amplia, y hay varias clasificaciones (Veisbergs, 1996; Chamizo-Domínguez, 2008) sin una aceptada por todos. Para el uso alcanza con una distinción: hay falsos amigos totales, que no comparten ningún sentido, y parciales, que comparten uno y difieren en otro. Un ejemplo de los fuertes es *molest*, que significa acosar o abusar, no molestar.
+La terminología no está unificada: "falso cognado" y "falso amigo" se usan casi como sinónimos, aunque falso amigo es la categoría más amplia, y hay varias clasificaciones (Veisbergs, 1996; Chamizo-Domínguez, 2008) sin una aceptada por todos. Esta nota usa una distinción práctica propia, que no sale de esas clasificaciones: hay falsos amigos totales, que no comparten ningún sentido, y parciales, que comparten uno y difieren en otro. Un ejemplo de los fuertes es *molest*, que significa acosar o abusar, no molestar.
 
 | Palabra inglesa | Significa | Lo que se cree | Para decir eso en inglés |
 |---|---|---|---|
@@ -86,10 +86,10 @@ En muchos pares de sinónimos ingleses, la palabra de origen latino o francés e
 | *assist* | *help* |
 | *postpone* | *put off* |
 
-*I will inform you when I obtain the documents* es correcto y se entiende, pero en un mail a un colega suena acartonado; *I'll let you know when I get the documents* es lo esperable. Un trabajo de grado confirma que cognados que comparten significado pueden diferir en frecuencia y registro. Los [phrasal verbs](phrasal-verbs.md) son la otra mitad de este par.
+*I will inform you when I obtain the documents* es correcto y se entiende, pero en un mail a un colega suena acartonado; *I'll let you know when I get the documents* es lo esperable. Un trabajo de grado señala que cognados que comparten significado pueden diferir en frecuencia y registro. Los [phrasal verbs](phrasal-verbs.md) son la otra mitad de este par.
 
 > [!IMPORTANT]
-> **¿El hispanohablante sobreusa la palabra latina?** Es lo que repiten los materiales de enseñanza, y la lógica del cognado lo sugiere. El único estudio de corpus hallado dice otra cosa: un análisis computacional publicado en *Bilingualism: Language and Cognition* (2023) encontró que los aprendices eligen palabras parecidas a su lengua materna y que esa preferencia baja con la competencia, pero que, frente a nativos, el sobreuso de cognados aparecía solo en hablantes de lenguas germánicas, no de románicas; los autores lo atribuyen al registro argumentativo de los textos. Se conoce por su resumen y no se sabe qué lenguas románicas incluyó. No aparecieron datos de corpus sobre la proporción de palabras latinas por registro. Hasta que haya más, el consejo de preferir la palabra germánica vale para sonar menos formal en la conversación, no como corrección de un error comprobado.
+> **¿El hispanohablante sobreusa la palabra latina?** Es la premisa habitual, y la lógica del cognado la sugiere. El único estudio de corpus hallado dice otra cosa: un análisis computacional publicado en *Bilingualism: Language and Cognition* (2023) encontró que los aprendices eligen palabras parecidas a su lengua materna y que esa preferencia baja con la competencia, pero que, frente a nativos, el sobreuso de cognados aparecía solo en hablantes de lenguas germánicas, no de románicas; los autores lo atribuyen al registro argumentativo de los textos. Se conoce por su resumen y no se sabe qué lenguas románicas incluyó. No aparecieron datos de corpus sobre la proporción de palabras latinas por registro. Hasta que haya más, el consejo de preferir la palabra germánica vale para sonar menos formal en la conversación, no como corrección de un error comprobado.
 
 ## Cómo usar la ventaja sin caer en la trampa
 

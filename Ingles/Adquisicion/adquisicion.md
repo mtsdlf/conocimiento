@@ -91,7 +91,7 @@ conocimiento que se usa sin pensar.
 > adicional involucra procesos explícitos e implícitos. El detalle está en
 > [Instrucción explícita](instruccion-explicita.md).
 
-Para quien estudia solo, la consecuencia práctica es la misma en las dos interfaces: estudiar la
+Para quien estudia solo, esta base concluye lo mismo con las dos interfaces: estudiar la
 regla sirve si después se practica en el modo en que se va a usar.
 
 ## Cuánto respalda la evidencia a cada pieza
@@ -117,19 +117,19 @@ laboratorios.
 
 ## Qué hay adentro de Adquisición
 
-- [Input comprensible](input-comprensible.md) — la hipótesis de Krashen, la lectura extensiva y por
+- [Input comprensible](input-comprensible.md): la hipótesis de Krashen, la lectura extensiva y por
   qué entender no alcanza.
-- [Output e interacción](output-e-interaccion.md) — producir para notar el hueco, negociar el
+- [Output e interacción](output-e-interaccion.md): producir para notar el hueco, negociar el
   significado (Swain, Long, Schmidt).
-- [Feedback correctivo](feedback-correctivo.md) — recasts contra prompts, oral y escrito, y qué
+- [Feedback correctivo](feedback-correctivo.md): recasts contra prompts, oral y escrito, y qué
   pedirle a un tutor.
-- [Instrucción explícita](instruccion-explicita.md) — por qué estudiar la forma suma y el debate de
+- [Instrucción explícita](instruccion-explicita.md): por qué estudiar la forma suma y el debate de
   la interfaz.
-- [Automatización](automatizacion.md) — del conocimiento declarativo al uso sin pensar, y por qué
+- [Automatización](automatizacion.md): del conocimiento declarativo al uso sin pensar, y por qué
   se automatiza lo que se practica.
-- [Repetición espaciada](repeticion-espaciada.md) — el efecto de espaciado y la práctica de
+- [Repetición espaciada](repeticion-espaciada.md): el efecto de espaciado y la práctica de
   recuperación, con su límite en el vocabulario.
-- [Edad y diferencias individuales](edad-y-diferencias-individuales.md) — período crítico, aptitud
+- [Edad y diferencias individuales](edad-y-diferencias-individuales.md): período crítico, aptitud
   y motivación, y qué techo pone empezar de adulto.
-- [Meseta intermedia](meseta-intermedia.md) — diagnóstico de por qué el B2 se estanca, con la
+- [Meseta intermedia](meseta-intermedia.md): diagnóstico de por qué el B2 se estanca, con la
   fosilización en disputa y el hueco de evidencia a la vista.
