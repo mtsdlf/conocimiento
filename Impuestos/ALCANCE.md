@@ -48,7 +48,7 @@ Impuestos/
     iva                             débito y crédito fiscal, exento frente a tasa cero, prorrata, saldo a favor
     impuesto-a-las-ventas           el impuesto a la venta final y el que se cobra en cada etapa (en cascada)
     lugar-de-la-operacion           origen o destino: importaciones, exportaciones y servicios digitales
-    iva-en-argentina                alícuotas, crédito fiscal y prorrata, saldos, IVA Simple (que reemplazó al libro IVA digital)
+    iva-en-argentina                alícuotas, crédito fiscal y prorrata, saldos, IVA Simple de los inscriptos y el Libro de IVA Digital de los exentos
     ingresos-brutos                 el impuesto provincial sobre lo facturado, el convenio multilateral y el monotributo unificado
   Impuestos-a-la-renta/           los que gravan la ganancia
     impuestos-a-la-renta            entrada: sociedades y personas, residencia y renta de fuente, anticipos
