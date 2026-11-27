@@ -65,6 +65,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 ## Deporte
 
 - [Golf](Golf/golf.md) — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
+- [Entrenamiento](Entrenamiento/entrenamiento.md) — entrenar de adulto al nivel de las decisiones: cuánto ejercicio, fuerza y cardio, los principios básicos, qué pide cada objetivo (bajar grasa y ganar músculo, rendir y coordinar, estética), cómo elegir un plan y cuándo un dolor es para consultar.
 
 ## Música
 
