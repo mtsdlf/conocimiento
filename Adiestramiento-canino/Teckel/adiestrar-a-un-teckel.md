@@ -36,6 +36,7 @@ El estándar FCI lo describe como "Passionate, persistent and fast hunting dog w
 
 De ahí salen estos ajustes, que son práctica:
 
+- **Darle a la nariz un trabajo.** Juegos de búsqueda con el olfato y rastros artificiales usan lo que la raza hace mejor; están en [canalizar el instinto](../Caza-y-trabajo/canalizar-el-instinto.md).
 - **Premios que compitan con el olor.** Con un perro de nariz, la comida de alto valor y la oportunidad de olfatear funcionan como [reforzador](../Aprendizaje/reforzador.md); el olfateo como premio es una idea del [principio de Premack](../Aprendizaje/reforzador.md).
 - **La llamada se construye de a poco y con correa larga.** Un teckel suelto que sigue un rastro es el caso más difícil de la [llamada](../Habilidades/llamada.md). En la práctica de adiestradores, que no venga en la plaza se lee como falta de práctica con esa distracción.
 - **Sesiones cortas.** La nota del AKC aconseja "limit your sessions to five minutes" con cachorros, como consejo de la autora; el criador Walter Jones aconseja "praise a lot". Cómo se arma una sesión está en [sesión de entrenamiento](../Ensenanza/sesion-de-entrenamiento.md).

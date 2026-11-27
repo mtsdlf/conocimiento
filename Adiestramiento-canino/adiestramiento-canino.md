@@ -16,14 +16,14 @@ Adiestrar un perro es cambiar lo que hace manejando las consecuencias y las asoc
 
 El adiestramiento usa dos mecanismos. El perro repite lo que le trae algo que quiere y deja lo que no le sirve; además, asocia lugares, personas y objetos con lo que siente. Las técnicas, las herramientas y las escuelas usan esas dos palancas de maneras distintas. Antes de llamar "desobediencia" a una conducta conviene descartar que nunca se haya enseñado en ese lugar, que le falte cubrir una necesidad o que tenga miedo o dolor.
 
-El tema cubre al perro de la casa, cachorro o adulto: lo que se enseña para convivir y lo que se hace cuando algo sale mal. Quedan afuera el adiestramiento como oficio, los deportes caninos, los perros de trabajo y la cría ([alcance](ALCANCE.md)).
+El tema cubre al perro de la casa, cachorro o adulto: lo que se enseña para convivir y lo que se hace cuando algo sale mal. Para el teckel cubre también la caza: el trabajo para el que fue criado y cómo darle salida a ese instinto en casa. Quedan afuera el adiestramiento como oficio, los deportes caninos que no vienen de la caza, los perros de guarda y de asistencia y la cría ([alcance](ALCANCE.md)).
 
 > [!IMPORTANT]
 > Esta base resume estudios, guías de sociedades veterinarias y práctica de adiestradores, y dice cuál es cuál. No reemplaza a un veterinario: un cambio de conducta brusco, una mordida o un dolor de espalda en un teckel se consultan primero con uno.
 
 ## De qué está hecho adiestrar un perro
 
-El tema tiene seis partes. El aprendizaje es el mecanismo; la conducta canina dice qué animal aprende y qué necesita; la enseñanza son las técnicas que usan el mecanismo; las habilidades son lo que se enseña con ellas; los problemas aparecen cuando una necesidad, una emoción o una enseñanza falló; y el teckel cambia los pesos de todo lo anterior.
+El tema tiene siete partes. El aprendizaje es el mecanismo; la conducta canina dice qué animal aprende y qué necesita; la enseñanza son las técnicas que usan el mecanismo; las habilidades son lo que se enseña con ellas; los problemas aparecen cuando una necesidad, una emoción o una enseñanza falló; el teckel cambia los pesos de todo lo anterior; y la caza y el trabajo usan esas mismas técnicas para la tarea que la raza trae de origen.
 
 ```mermaid
 flowchart LR
@@ -34,6 +34,9 @@ flowchart LR
   E -->|si se enseña mal o con miedo, aparecen| P
   T[Teckel] -->|cambia la motivación y los límites físicos de| E
   T -->|predispone a algunos| P
+  E -->|se aplica a una tarea de origen en| K[Caza y trabajo]
+  T -->|trae el instinto y los límites de| K
+  K -->|da salida a necesidades que, sin cubrir, llevan a| P
 ```
 
 - [Aprendizaje](Aprendizaje/aprendizaje.md) — cómo aprende un perro: las consecuencias, las asociaciones y lo que le sirve de premio. Entrar para entender por qué algo funciona o deja de funcionar.
@@ -42,8 +45,9 @@ flowchart LR
 - [Habilidades](Habilidades/habilidades.md) — lo que se enseña paso a paso: hacer sus necesidades afuera, venir cuando se lo llama, caminar sin tirar, quedarse solo, sentado, echado y quieto.
 - [Problemas de conducta](Problemas-de-conducta/problemas-de-conducta.md) — ladrido, protección de recursos, reactividad y agresión, ansiedad por separación, y cuándo pedir ayuda profesional. Entrar primero si algo anda mal.
 - [Teckel](Teckel/teckel.md) — la raza: su origen de perro de madriguera, lo que se midió de su temperamento, su columna y cómo cambia el adiestramiento con él.
+- [Caza y trabajo](Caza-y-trabajo/caza-y-trabajo.md) — el teckel en lo que fue criado: rastro de sangre, madriguera y rastreo de liebre, cómo se ve el instinto, las pruebas, los riesgos, la ley en Argentina y cómo canalizar el instinto en un perro que no caza.
 
-Aparte de las seis partes, [Fundamentos](Fundamentos/fundamentos-del-adiestramiento.md) reúne lo que las cruza: las escuelas y su evidencia, los mitos, las fuentes y el glosario.
+Aparte de las siete partes, [Fundamentos](Fundamentos/fundamentos-del-adiestramiento.md) reúne lo que las cruza: las escuelas y su evidencia, los mitos, las fuentes y el glosario.
 
 ## Por qué el enfoque es pragmático y qué dice la evidencia
 
@@ -57,4 +61,5 @@ Con un teckel pesa una razón más: es una raza condrodistrófica ([condrodistro
 - **Con un cachorro**: [socialización](Conducta-canina/socializacion.md), [hacer sus necesidades afuera](Habilidades/hacer-sus-necesidades-afuera.md) y [quedarse solo](Habilidades/quedarse-solo.md).
 - **Con un adulto que ya tiene mañas**: [necesidades del perro](Conducta-canina/necesidades-del-perro.md), la nota del problema en [problemas de conducta](Problemas-de-conducta/problemas-de-conducta.md) y [cuándo derivar](Problemas-de-conducta/cuando-derivar.md).
 - **Con un teckel**: [teckel](Teckel/teckel.md), [columna del teckel](Teckel/columna-del-teckel.md) y [adiestrar a un teckel](Teckel/adiestrar-a-un-teckel.md).
+- **Para darle salida a su instinto de cazador**: [caza y trabajo](Caza-y-trabajo/caza-y-trabajo.md), [canalizar el instinto](Caza-y-trabajo/canalizar-el-instinto.md) y, si se quiere entrenar de verdad, [aptitud y cachorro](Caza-y-trabajo/aptitud-y-cachorro.md) y [rastro de sangre](Caza-y-trabajo/rastro-de-sangre.md).
 - **Antes de usar el ahorque o corregir**: [corrección](Ensenanza/correccion.md) y [collar, ahorque y arnés](Ensenanza/collar-ahorque-y-arnes.md).
