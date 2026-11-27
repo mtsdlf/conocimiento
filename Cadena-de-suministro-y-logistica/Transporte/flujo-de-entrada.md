@@ -41,7 +41,7 @@ En la versión 7.4 del Process Classification Framework de APQC, el proceso es 4
 
 El PCF no tiene un proceso de transporte de entrada aparte: el transporte propio está en 4.4.4 «Operate outbound transportation», y 4.4.2 solo planifica, gestiona y monitorea la entrada. Los turnos de descarga y el aviso de despacho no figuran en el PCF; ponerlos acá, y repartir las actividades como en la tabla, es de la base. La recepción física es la actividad siguiente, 4.4.3.2 «Receive, inspect, and store inbound deliveries», que en la base es [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md), de Inventario.
 
-APQC publicó la versión 8.0 del PCF en febrero de 2026, y esta parte no cambió. En el PDF de la 8.0, 4.4 «Manage logistics and warehousing» (10219) y 4.4.2 «Plan and manage inbound material flow» (20936) tienen las mismas cinco actividades de la tabla, con los mismos números e ID, incluida 4.4.2.3 «Monitor inbound delivery performance» (10351). También siguen igual 4.4.3.2 y 4.4.4.
+APQC publicó la versión 8.0 del PCF en febrero de 2026, y esta parte no cambió. En el PDF de la 8.0, 4.4 «Manage logistics and warehousing» (10219) y 4.4.2 «Plan and manage inbound material flow» (20936) tienen las mismas cinco actividades de la tabla, con los mismos números e ID, incluida 4.4.2.3 «Monitor inbound delivery performance» (10351). También siguen igual 4.4.3.2 y 4.4.4. Las actividades de Compras que nombra la tabla de abajo sí corren un lugar, porque la 8.0 agrega un proceso antes de «Order materials and services» ([qué cambió en la 8.0](../../Procesos-de-negocio/Fundamentos/marcos-de-procesos.md#qué-cambió-en-la-80)).
 
 El PCF dice que el ID de cinco dígitos sigue a la definición del elemento y que «A new 5-digit number will be assigned to a process element if its definition substantially changes». Que estas definiciones no cambiaron de fondo, porque los ID son los mismos, es lectura de la base.
 
@@ -55,7 +55,7 @@ Tres dominios miran la misma entrega desde lados distintos. El reparto es de la 
 
 | Dominio | Qué mira | En el PCF 7.4 |
 |---|---|---|
-| [Compras y abastecimiento](../../Compras-y-abastecimiento/compras-y-abastecimiento.md) | si el proveedor confirmó y cumple la orden: apurarlo, conciliar, resolver excepciones | 4.2.3.5 «Expedite orders and satisfy inquiries», 4.2.3.6 y 4.2.3.7 |
+| [Compras y abastecimiento](../../Compras-y-abastecimiento/compras-y-abastecimiento.md) | si el proveedor confirmó y cumple la orden: apurarlo, conciliar, resolver excepciones | 4.2.3.5 «Expedite orders and satisfy inquiries», 4.2.3.6 y 4.2.3.7 (en la 8.0, 4.2.4.5 a 4.2.4.7, con los mismos ID) |
 | Este tema | cómo viaja lo pedido y cuándo llega: el flete, el turno, el seguimiento del viaje y el desempeño de la entrega | 4.4.2.1 a 4.4.2.3 |
 | [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md) | descargar, contar, inspeccionar y guardar | 4.4.3.2 |
 
