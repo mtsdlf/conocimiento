@@ -45,7 +45,7 @@ Sant organiza el resumen ejecutivo con un modelo de cuatro letras, N-O-S-E. La N
 
 El material para esa N sale del descubrimiento: lo que el cliente dijo de su problema y de lo que le cuesta, recogido con las [preguntas de descubrimiento](../Descubrimiento-y-calificacion/preguntas-de-descubrimiento.md). Si el vendedor no puede escribir el problema con las palabras del cliente, todavía le falta descubrimiento.
 
-Además de centrado en el cliente, el resumen va con la respuesta primero, en estructura en pirámide (Minto): la recomendación y lo que el cliente gana arriba, y los argumentos que la sostienen debajo. Cómo se escribe así queda fuera de este tema.
+Además de centrado en el cliente, el resumen va con la respuesta primero, en estructura en pirámide (Minto): la recomendación y lo que el cliente gana arriba, y los argumentos que la sostienen debajo. Cómo se escribe así queda fuera de este tema. Cuándo conviene contar una historia dentro de la propuesta (un caso de cliente, el problema contado como escena) y cómo convive con la respuesta primero está en [historia en la venta](../../Storytelling/Usos/historia-en-la-venta.md).
 
 ## Temas ganadores: el beneficio antes que la característica
 

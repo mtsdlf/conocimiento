@@ -52,7 +52,7 @@ En la economía del comportamiento el choque es otro: si los nudges funcionan en
 ## Lo que falta
 
 > [!NOTE]
-> Sin nota todavía: la creatividad publicitaria. El tema solo la toca de costado, en el debate de [targeting o alcance masivo](../Mercado-y-cliente/targeting-o-alcance-masivo.md) sobre si adaptarla por segmento.
+> Sin nota todavía: la creatividad publicitaria. Lo más cercano es la [historia de marca](../../Storytelling/Usos/historia-de-marca.md), en el tema Storytelling. El tema solo la toca de costado, en el debate de [targeting o alcance masivo](../Mercado-y-cliente/targeting-o-alcance-masivo.md) sobre si adaptarla por segmento.
 
 > [!NOTE]
 > Sin fuente todavía: los libros de Cialdini, Kahneman, Sutherland, Ogilvy y Schwartz no se leyeron, y no hay evidencia de estos efectos en comercio argentino.
