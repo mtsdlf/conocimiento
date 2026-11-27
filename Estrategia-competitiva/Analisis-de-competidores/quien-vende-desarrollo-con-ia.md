@@ -3,7 +3,7 @@ resumen: >-
   Quién vendía desarrollo de software y agentes con IA al 2026-11-27, por clase de competidor
   (agencias nativas de IA, consultoras grandes, nearshore, freelancers, abonos y herramientas que
   el cliente usa solo), con su forma de cobro, el precio que publica y las tarifas de referencia.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Relevamiento propio del paisaje competitivo (experiencia propia, noviembre de 2026, consultora de software); todo consultado el 2026-11-27 salvo que la fila diga otra fecha"
@@ -42,7 +42,7 @@ fuentes:
   - "Encuesta nadIA sobre IA en pymes argentinas, según la prensa: https://mercado.com.ar/ruta-digital/ia-en-pymes-argentinas-416-ya-la-usa-pero-57-no-mide-impacto"
 aliases: [competidores en desarrollo con IA, agencias de agentes, AI agency, nearshore, software factory, desarrollo por suscripción, unlimited development, precios de consultoras de software]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Quién vende desarrollo con IA (2026-11)
