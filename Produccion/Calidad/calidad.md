@@ -5,7 +5,10 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "ISO, comunicado de prensa del 16 de septiembre de 2026, lanzamiento de ISO 9001:2026: https://committee.iso.org/files/live/sites/isoorg/files/news/News_archive/2026/09/MediaRelease_9001-2026-en.pdf"
-  - "ISO/TC 176, «ISO 9001:2026 has been released!» (entrada del 23 de septiembre de 2026; fechas de transición según el lector, sin verificar en el HTML): https://committee.iso.org/sites/tc176/home/news/content-left-area/news-and-updates/news.html"
+  - "ISO/TC 176, «ISO 9001:2026 has been released!» (entrada del 23 de septiembre de 2026; página leída por el lector, no el HTML crudo): https://committee.iso.org/sites/tc176/home/news/content-left-area/news-and-updates/news.html"
+  - "DNV, página de la revisión de ISO 9001 (certificadora; según el lector): https://www.dnv.com/assurance/Management-Systems/new-iso/transition/iso-9001-revision/"
+  - "ASC Food Safety, «ISO 9001:2026 vs 2015: Every Change, Clause by Clause» (consultora; según el lector): https://ascfoodsafety.com/iso-9001-2026-vs-2015-changes/"
+  - "Advisera, «ISO 9001:2015 vs. ISO 9001:2026» (consultora; según el lector): https://advisera.com/articles/iso-9001-2015-vs-9001-2026-main-differences/"
   - "ISO, ficha de ISO 9001:2026 (estado y edición según el buscador; la página da 403): https://www.iso.org/standard/9001"
   - "NSAI, presentación «Overview 9001:2015» (23 de septiembre de 2015), diapositivas sobre 8.5.2, 8.6, 8.7 y 10.2: https://www.nsai.ie/download/certification/Overview-9001-2015-presentation-23-Sep-15-Web-Compatibility-Mode.pdf"
   - "Juran Institute, «More About the Juran Trilogy» (M. Goldman, 2019, actualizada en 2025): https://www.juran.com/blog/the-juran-trilogy/"
@@ -68,28 +71,34 @@ Los datos salen de otras partes del tema. Las fallas internas son las piezas rec
 
 ISO 9001 es la norma de requisitos para un sistema de gestión de la calidad (su título es «Quality management systems – Requirements»). Pide que esté definido, controlado y registrado lo que afecta al producto, y deja a la empresa el cómo fabricar (lectura de la base).
 
-La edición vigente es la de 2026. ISO anunció el 16 de septiembre de 2026 «the launch of ISO 9001:2026, Quality management systems – Requirements». Según el comité ISO/TC 176, en una entrada leída por el lector y no verificada en el HTML, la transición es así:
+La edición más nueva es la de 2026, aunque la ficha de la norma en el sitio de ISO no se pudo abrir y su estado se confirmó por el comunicado. Hasta el 31 de marzo de 2028 todavía se puede certificar contra la 2015. ISO anunció el 16 de septiembre de 2026 «the launch of ISO 9001:2026, Quality management systems – Requirements». El comité ISO/TC 176 publicó la transición así (página leída por el lector, no el HTML crudo):
 
 | Fecha | Qué pasa |
 |---|---|
 | 31 de marzo de 2027 | los organismos de acreditación tienen que estar listos para evaluar contra la 2026 |
-| 31 de marzo de 2028 | las certificaciones nuevas solo se emiten contra la 2026 |
+| 30 de junio de 2027 | los organismos de certificación acreditados presentan su declaración de transición |
+| 30 de septiembre de 2027 | los organismos de acreditación completan sus decisiones de transición |
+| 31 de marzo de 2028 | las certificaciones nuevas e iniciales solo se emiten contra la 2026 |
 | 30 de septiembre de 2029 | vence el plazo para que las empresas certificadas en la 2015 completen la transición |
+
+La transición puede hacerse en una auditoría de seguimiento o de recertificación, o en una auditoría aparte. Esa página no dice quién fija las fechas. Según DNV y una consultora (ASC Food Safety), las fija Global Accreditation Cooperation (Global ACI), que reemplazó a la IAF cuando esta dejó de operar el 1 de enero de 2026. La consultora cita el documento como ACI-TECH-3-TR. El documento no se leyó.
+
+> [!NOTE] Sin fuente todavía: el documento de transición de Global ACI. Quién fija las fechas y el código del documento salen de dos fuentes secundarias.
 
 Según el comunicado de ISO, la edición nueva pone «greater emphasis on leadership, a culture of quality and ethical behaviour», aclara cómo considerar riesgos y oportunidades, suma una sección que explica la intención de los requisitos y adopta la estructura armonizada de las normas de sistemas de gestión.
 
-Las cláusulas que tocan la producción se conocen solo de segunda mano. El texto de ISO 9001 es de pago y no se pudo leer ni en la edición 2015 ni en la 2026. Lo que sigue sale de una presentación de NSAI, el organismo de normalización de Irlanda, sobre la edición 2015:
+Las cláusulas que tocan la producción se conocen de segunda mano. El texto de ISO 9001 es de pago y no se pudo leer ni en la edición 2015 ni en la 2026. La columna de la 2015 sale de una presentación de NSAI, el organismo de normalización de Irlanda. La de la 2026 sale de consultoras y certificadoras, que no son la norma:
 
-| Cláusula (2015) | Qué dice NSAI | Dónde se trata |
-|---|---|---|
-| 8.5.2 Identificación y trazabilidad | «No new requirements» | [trazabilidad de lotes](trazabilidad-de-lotes.md) |
-| 8.6 Liberación de productos y servicios | reemplaza al seguimiento y medición del producto; «No new requirements» | [plan de inspección](plan-de-inspeccion.md) |
-| 8.7 Control de las salidas no conformes | no exige procedimiento documentado pero sí información documentada | [no conformidad](no-conformidad.md) |
-| 10.2 No conformidad y acción correctiva | no tiene cláusula de acción preventiva | [acción correctiva](accion-correctiva.md) |
+| Cláusula | Qué dice NSAI sobre la 2015 | Qué se sabe de la 2026 (fuentes secundarias) | Dónde se trata |
+|---|---|---|---|
+| 8.5.2 Identificación y trazabilidad | «No new requirements» | mismo número; Advisera la ubica entre los cambios «Small (editorial)» | [trazabilidad de lotes](trazabilidad-de-lotes.md) |
+| 8.6 Liberación de productos y servicios | reemplaza al seguimiento y medición del producto; «No new requirements» | mismo número; Advisera: «No change» | [plan de inspección](plan-de-inspeccion.md) |
+| 8.7 Control de las salidas no conformes | no exige procedimiento documentado pero sí información documentada | mismo número; Advisera: «No change» | [no conformidad](no-conformidad.md) |
+| 10.2 No conformidad y acción correctiva | no tiene cláusula de acción preventiva | mismo número; Advisera: «Small (editorial)»; ASC Food Safety: «10.2 is as before, with a note that customer complaints can be a source of nonconformities» | [acción correctiva](accion-correctiva.md) |
 
-Ninguna fuente leída dice si la edición 2026 cambió la numeración o el texto de esas cláusulas. Las notas de esta vertical citan la numeración de 2015 y hay que verificarla en la 2026. Si certificar ISO 9001 mejora el desempeño es un debate que está en [fundamentos de producción](../Fundamentos/fundamentos-de-produccion.md).
+La numeración de estas cuatro cláusulas se mantiene. Lo que cambia en ese capítulo es otra cosa: la 10.1 pasa a llamarse «Continual improvement» y reúne el contenido de las antiguas 10.1 y 10.3, de modo que el capítulo 10 queda con dos subcláusulas (Advisera, DNV y ASC Food Safety coinciden). ASC Food Safety agrupa de la 8.2 a la 8.7 como «Substantively unchanged». Ninguna fuente dice qué palabras cambiaron en 8.5.2 ni en 10.2. Las referencias a la antigua 10.3 hay que renumerarlas. Si certificar ISO 9001 mejora el desempeño es un debate que está en [fundamentos de producción](../Fundamentos/fundamentos-de-produccion.md).
 
-> [!NOTE] Sin fuente todavía: el texto literal de ISO 9001:2015 (8.5.2, 8.6, 8.7, 10.2 y anexo A.3) y qué cambió en esas cláusulas en la edición 2026.
+> [!NOTE] Sin fuente todavía: el texto literal de ISO 9001:2015 y 2026 en 8.5.2, 8.6, 8.7 y 10.2, y qué redacción cambió en 8.5.2 y 10.2. Que 8.6 y 8.7 no cambiaron lo dicen solo consultoras. Tampoco se leyó el anexo A.3 de la 2015.
 
 ## Lo que APQC pone bajo «probar»
 

@@ -1,0 +1,98 @@
+# Producción en la Argentina: segunda ronda de cotejo
+
+Fecha de la consulta: 2026-11-27. Complementa a `argentina.md`. Marcas: [L] texto de la norma leído en sitio oficial, [M] metadatos o listas de InfoLEG, [S] resumen o fuente secundaria. Las páginas se bajaron con curl y un user-agent de navegador (sin él, InfoLEG da 403). `texact.htm` (texto actualizado) de la Ley 16.463 sigue sin abrir ni con user-agent ("No se pudo acceder al archivo solicitado").
+
+## 1. Ley 16.463
+
+Fuentes, las dos [L] del texto original (no se pudo abrir el texto actualizado):
+- InfoLEG, norma.htm: https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20414/norma.htm
+- Argentina.gob.ar, texto original: https://www.argentina.gob.ar/normativa/nacional/ley-16463-20414/texto
+
+Datos: sancionada el 23/7/1964, promulgada el 4/8/1964, B.O. 8/8/1964 (n.º 20488), 27 artículos.
+
+Art. 1 [L]: «Quedan sometidos a la presente ley y a los reglamentos que en su consecuencia se dicten, la importación, exportación, producción, elaboración, fraccionamiento, comercialización o depósito en jurisdicción nacional o con destino al comercio interprovincial, de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico y todo otro producto de uso y aplicación en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.»
+
+Art. 2 [L], literal: «Las actividades mencionadas en el artículo 1º sólo podrán realizarse, previa autorización y bajo el contralor del Ministerio de Asistencia Social y Salud Pública, en establecimientos habilitados por el mismo y bajo la dirección técnica del profesional universitario correspondiente, inscrito en dicho ministerio. Todo ello en las condiciones y dentro de las normas que establezca la reglamentación, atendiendo a las características particulares de cada actividad y a razonables garantías técnicas en salvaguardia de la salud pública y de la economía del consumidor.»
+
+Art. 3 [L]: los productos deben reunir las condiciones de la farmacopea argentina; «El titular de la autorización y el director técnico del establecimiento, serán personal y solidariamente responsables de la pureza y legitimidad de los productos.»
+
+Art. 7 [L]: las autorizaciones para elaborar y vender los productos del art. 5 «y sus reinscripciones tendrán vigencia por el término de cinco años, a contar de la fecha de certificado autorizante.»
+
+Modificaciones al art. 2 [M]: la lista de InfoLEG (modo 2, "normas que modifican y/o complementan") tiene 220 filas: 3 decretos reglamentarios (9763/1964, 2505/1985, 1299/1997), decretos 7250/1968, 908/1991, 150/1992, DNU 341/1992 y 202/2003, 3 resoluciones conjuntas de 2008, y el resto resoluciones y disposiciones (184 disposiciones, la mayoría ANMAT). No hay ninguna ley. La ficha dice que la ley «no modifica ni complementa a ninguna norma». La lista es de "modifica o complementa" sin decir qué artículo toca cada una: no se pudo descartar que alguna decreto toque el art. 2. Conclusión: no se halló ley ni norma que reemplace el texto del art. 2; no confirmado artículo por artículo porque falta el texto actualizado. La autoridad que nombra la ley (Ministerio de Asistencia Social y Salud Pública) la ejerce hoy la ANMAT: la Disp. 4159/2023 lo dice en sus considerandos (art. 1 del Decreto 9763/64; Decreto 1490/92).
+URL de la lista: https://servicios.infoleg.gob.ar/infolegInternet/verVinculos.do?modo=2&id=20414 (la de argentina.gob.ar, /normativa/nacional/ley-16463-20414/normas-modifican, muestra 221 normas y solo la primera página por curl).
+
+## 2. Disp. ANMAT 4159/2023
+
+Fuentes: texto, https://www.argentina.gob.ar/normativa/nacional/norma-385329/texto [L]; anexo (PDF de 302 páginas, "DI-2023-64216567-APN-INAME#ANMAT"), https://www.argentina.gob.ar/normativa/385329_disp4159_pdf/archivo [L]; vínculos en InfoLEG, https://servicios.infoleg.gob.ar/infolegInternet/verVinculos.do?modo=1&id=385329 y modo=2 [M].
+
+Datos [L]: dictada el 13/6/2023, B.O. 16/6/2023 (n.º 35192, p. 106), firmada por Manuel Limeres.
+- Art. 1: «Apruébanse los requerimientos denominados “Guía de Buenas Prácticas de Fabricación para Elaboradores, Importadores/Exportadores de Medicamentos de Uso Humano” que como ANEXO DI-2023-64216567-APN-INAME#ANMAT, forman parte integrante de la presente disposición.»
+- Art. 2: «Deróganse las Disposiciones ANMAT N° 2819/04, 3602/18, 3827/18 y 1281/19.»
+- Art. 3: «entrará en vigencia a los 30 (treinta) días hábiles de su publicación en el Boletín Oficial.» (no se calculó la fecha).
+
+En qué se basa [L, considerandos]: «Que las Buenas Prácticas de Fabricación para Elaboradores, Importadores/Exportadores de medicamentos contemplan los lineamientos internacionales aprobados por la Organización Mundial de la Salud, informes de la PIC’S - Pharmaceutical Inspection Cooperation Scheme, como así también por normas de ICH [...] e ISO»; y «resulta necesario adoptar nuevos requerimientos internacionales [...] tales como los aprobadas por la Pharmaceutical Inspection Cooperation Scheme (PIC’S) PE 009-16 Parte I y II del 2022, como así también la norma de International Council for Harmonisation ICH Q7A.» El texto del anexo (extraído con pdftotext) no menciona PIC/S en su cuerpo; la referencia está en los considerandos.
+
+Estructura del anexo [L, índice]: Parte A (requerimientos básicos para medicamentos: cap. 1 Sistema de Calidad Farmacéutico, 2 Personal, 3 Locales y Equipos, 4 Documentación, 5 Producción, 6 Control de Calidad, 7 Actividades Tercerizadas, 8 Reclamos, Defectos de Calidad y Retiros, 9 Autoinspección, 10 Glosario); Parte B (requisitos básicos para ingredientes farmacéuticos activos usados como materiales de partida); 19 anexos: 1 estériles, 2 toma de muestras, 3 muestras de referencia y de retención, 4 patrones de referencia, 5 calificación y validación, 6 sistemas informáticos, 7 agua, 8 gestión de riesgos, 9 tratamiento de aire, 10 radiación ionizante, 11 liberación en tiempo real y paramétrica, 12 líquidos y semisólidos, 13 aerosoles para inhalación, 14 gases medicinales, 15 herbarios, 16 identificación por colores de envases, 17 origen biológico, 18 derivados de sangre o plasma, 19 radiofármacos.
+
+Registro de lote [L, glosario del anexo]: «DOCUMENTACIÓN DE LOTE / REGISTRO DE LOTE: Documentos asociados a la fabricación de un lote de granel o producto terminado. Proveen la historia de cada lote del producto y todos los resultados pertinentes de control de calidad en proceso y del producto final.» Persona autorizada: «Persona reconocida por la Autoridad Regulatoria Nacional, como Director Técnico y/o Co-Director Técnico de la empresa titular de una autorización de elaboración o fabricación».
+
+Vigencia [M]: InfoLEG lista una sola norma que la modifica o complementa, la Disp. ANMAT 7998/2025 (B.O. 28/10/2025), «Lineamientos para la tramitación de certificados de buenas prácticas de fabricación de plantas»; su texto no se leyó. No se halló derogación. Sin otra fuente que InfoLEG y el texto mismo.
+
+## 3. Vigencia del RNE
+
+Disp. ANMAT 1675/2014, art. 17 [L], https://www.argentina.gob.ar/normativa/nacional/norma-227820/texto: «Las inscripciones en el RNE otorgadas por esta Administración Nacional a través del Sistema de Información Federal para la Gestión del Control de los Alimentos (SIFeGA) tienen una vigencia máxima de CINCO (5) años, pudiendo ser renovadas.» Segundo párrafo: si hay contrato de locación, comodato u otro, la duración es la del contrato, sin exceder los cinco años. Considerando: «un plazo máximo de cinco (5) años». Rige a los 30 días hábiles de publicada (art. 22).
+
+Lista de normas que la modifican o complementan [M], https://servicios.infoleg.gob.ar/infolegInternet/verVinculos.do?modo=2&id=227820: Disp. 14023/2016 (directrices para la autorización sanitaria de establecimientos), 2533/2017 (información sanitaria, página web), 5671/2018 (gestión de auditorías), 2953/2021 (reempadronamiento, plazo), 537/2025 (procedimiento), Res. Gral. ARCA 5731/2025 (VUCE).
+- Disp. 537/2025 [L], https://www.argentina.gob.ar/normativa/nacional/norma-408900/texto: art. 5 deroga las Disp. 14023/2016, 1307/2017, 10174/2017, 10100-E/2017, 10088/2017 y 2953/2021, «con el alcance expuesto en el artículo 4» (los trámites iniciados antes siguen por el régimen anterior). No deroga la 1675/2014. Sus anexos (importación y exportación) no hablan de vigencia del RNE. Rige el día de su publicación (30/1/2025).
+- Disp. 2953/2021 [L]: dio 180 días hábiles para reempadronar los RNE y RNPA anteriores a la 1675/2014 y 8403/2015; vencidos, «será dado de baja sin mediar más trámite administrativo». Hoy derogada (art. 5 de la 537/2025, con el alcance de su art. 4).
+- Disp. 3280/2025 [L], texto en https://servicios.infoleg.gob.ar/infolegInternet/anexos/410000-414999/412926/norma.htm: la ANMAT deja de intervenir en trámites de usuarios directos (alimentos de uso compasivo, ingreso para uso personal, donaciones). No toca la vigencia del RNE.
+- Disp. 4538/2025 [L]: aranceles de importación. No toca el RNE.
+- Decreto 35/2025: solo por lo que cuentan los considerandos de la Disp. 537/2025 [L]: modificó el art. 2 del Anexo I y el art. 4 del Anexo II del Decreto 2126/71 (requisitos de importadores y exportadores). No se leyó el decreto.
+- Búsqueda en el Boletín Oficial (2025-2026): no apareció ninguna norma de alimentos que cambie el plazo. Una disposición de 2025 (B.O. 326205, domisanitarios) reemplaza el número de RNE por un número de legajo y fija certificados de cinco años; es de domisanitarios, no de alimentos [S, resumen del buscador; no se leyó].
+Conclusión: en la lista de InfoLEG y en lo leído no hay norma que cambie los cinco años. Es ausencia de hallazgo, no confirmación: el art. 17 sigue en el texto de la 1675/2014 que se leyó (versión de argentina.gob.ar), y InfoLEG no anota modificación. Una sola fuente (la norma misma) para la vigencia. No se revisó el art. 13 del CAA ni el Decreto 2126/71 sobre vigencia del RNE (el CAA Cap. II, leído en la ronda anterior, no menciona plazo).
+
+## 4. Res. 16/2025 (Secretaría de Industria y Comercio)
+
+Fuentes [L]: texto y anexos en el Boletín Oficial, https://www.boletinoficial.gob.ar/detalleAviso/primera/321814/20250225 (anexos bajados con el botón de anexos: POST a /pdf/download_anexo, idAnexo 7311373, nroAnexo 1 a 3). InfoLEG id 410052, vínculos en https://servicios.infoleg.gob.ar/infolegInternet/verVinculos.do?modo=2&id=410052.
+
+Corrección: tiene tres anexos, no dos. Anexo I (IF-2025-18559087-APN-DNRT#MEC): requisitos y características esenciales de calidad y seguridad. Anexo II (IF-2025-18563479-APN-DNRT#MEC, 24 páginas): listado de productos alcanzados. Anexo III (IF-2025-13347289-APN-DNRT#MEC): procedimiento de evaluación de la conformidad.
+
+Articulado [L]: art. 3: fabricantes e importadores deben garantizar el cumplimiento «mediante una Declaración Jurada de Conformidad y el procedimiento de evaluación de la conformidad establecido en el Anexo III»; art. 4: distribuidores y comercializadores deben «contar con una copia simple de la declaración jurada de conformidad, en formato papel o digital»; art. 8 deroga las Res. 731/1987, 524/1998 y 169/2018 «y sus modificatorias y complementarias»; art. 9: los certificados anteriores «mantendrán su vigencia por el plazo de hasta UN (1) año a la fecha de entrada en vigencia»; art. 11: aplica la Res. 237/2024 y la Disp. 1/2024 de la Dirección Nacional de Reglamentos Técnicos; art. 12: rige desde el día siguiente al de publicación.
+
+Anexo I [L]: define equipamiento eléctrico como el de tensión nominal entre 50 V y 1.000 V en corriente alterna y entre 75 V y 1.500 V en continua, más fuentes, cargadores y transformadores que operen en esas tensiones. Exige que funcione «con seguridad y no provoque peligro a las personas ni al entorno»; prohíbe las clases de aislación 0 y 01; el equipamiento de baja tensión (50 V a 250 V CA) de uso domiciliario debe conectarse directo a la red sin transformador externo; si la ficha no cumple las normas IRAM 2073 o 2063, lleva una etiqueta con la leyenda «Este producto no es provisto con ficha de alimentación normalizada para la República Argentina [...]», también en la publicación web. Los insumos y repuestos integrados a un producto final del Anexo II quedan eximidos del procedimiento del Anexo III y del marcado, pero acreditan con la declaración jurada.
+
+Anexo II [L]: cuatro productos, cada uno con su apéndice: 1 fuentes y cargadores (Apéndice I), 2 aparatos eléctricos de uso doméstico (II), 3 dispositivos de iluminación (III), 4 aparatos de electrónica, audio y video (IV). Cada apéndice lista productos con su norma IEC, IRAM o EN.
+
+Anexo III [L]: los cuatro productos tienen «Certificación 1b,2,3,4 y 5» como procedimiento de evaluación de la conformidad.
+
+Hallazgo que corrige la nota: la declaración jurada no reemplaza a la certificación. Los apéndices dicen (4.1) «La declaración jurada de conformidad deberá contener la información detallada en el apartado 3.2.1 “INFORMACIÓN” de la Disposición N° 1/2024» y (4.2) «Se considerarán válidos los certificados de los incisos 1, 2, 3, 4 y 5 listados en el apartado 3.2.2. del Anexo de la Resolución N° 237/2024». Vigencia del certificado: «DOS (2) años contados a partir de su emisión original» en los apéndices I a III y «CUATRO (4) años» en el IV (revisado por la línea del texto; el apéndice II coincide con el I y el III). Vencido, se mantiene con constancia de vigilancia o con un certificado nuevo. Además hay marcado de conformidad y rotulado (apartados 3.3 de la Res. 237/2024 y 3.4 de la Disp. 1/2024).
+Res. 237/2024 (marco general, B.O. 30/8/2024), https://www.boletinoficial.gob.ar/detalleAviso/primera/313097/20240830 [L, anexo bajado]: punto 3: «se requerirá una Declaración Jurada de Conformidad y la realización de procedimientos para la evaluación de la conformidad». El punto 3.2.2 lista los certificados válidos (organismo acreditado por el OAA; organismo extranjero acreditado por un acreditador del acuerdo multilateral; con acuerdo de reconocimiento con uno nacional; esquema de aceptación global identificado en el reglamento; acuerdo de reconocimiento mutuo).
+Res. 26/2025 (B.O. 25/2/2025) [L], https://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=410062 y texto en argentina.gob.ar: art. 4 «Prorrógase hasta el 1° de octubre de 2025» la exigibilidad del marcado de conformidad del punto 3.3 de la Res. 237/2024.
+
+Modificaciones [M]: la lista de InfoLEG de normas que modifican o complementan la Res. 16/2025 está vacía. No se revisó si la Res. 237/2024 o la Disp. 1/2024 se modificaron después (la búsqueda sugiere que la Res. 438/2024 y la 26/2025 tocaron regímenes vecinos); no confirmado.
+
+## 5. Ley 27.264 y Decreto 379/2001
+
+### Ley 27.264 (B.O. 1/8/2016), Biblioteca de ARCA [L], https://biblioteca.afip.gob.ar/dcp/LEY_C_027264_2016_07_13
+Ficha: «Estado de la Norma: Vigente»; «Carácter permanente»; 58 artículos; modificada por la Ley 27.440 (arts. 195 a 199, sobre los arts. 51 a 55); reglamentada por el Decreto 1101/2016. No registra modificación de los arts. 5, 6, 15 ni 27.
+- Art. 5: «No le será aplicable a las Micro, Pequeñas y Medianas Empresas el Impuesto a la Ganancia Mínima Presunta [...] con efecto para los ejercicios fiscales que se inicien a partir del día 1° de enero de 2017.» Superado: la ficha de la Ley 25.063 en ARCA anota «Ley N° 27260 Articulo N° 76 (Se deroga el impuesto a la ganancia mínima presunta, para los ejercicios que se inician a partir del 1° de enero de 2019.)» (https://biblioteca.afip.gob.ar/dcp/LEY_C_025063_1998_12_07 [M, anotación de ARCA; el texto de la Ley 27.260 no se leyó]).
+- Art. 6: el impuesto sobre los créditos y débitos bancarios efectivamente ingresado «podrá ser computado en un cien por ciento (100%) como pago a cuenta del impuesto a las ganancias por las empresas que sean consideradas "micro" y "pequeñas" y en un cincuenta por ciento (50%) por las industrias manufactureras consideradas "medianas -tramo 1-"». ARCA no registra modificación ni derogación de este artículo. Sin otra fuente que ARCA. El estado actual de ese beneficio (que alguna ley posterior lo toque) no se verificó fuera de la ficha.
+- Art. 7: micro y pequeñas pueden ingresar el saldo de IVA al segundo mes siguiente al vencimiento original, en las condiciones que fije la AFIP. No se verificó cómo rige hoy.
+- Art. 15: el Título III (régimen de fomento de inversiones: pago a cuenta de Ganancias por inversiones, arts. 23 a 26, y bono de crédito fiscal por IVA de inversiones, arts. 27 a 31) se aplica a las inversiones «entre el 1° de julio de 2016 y el 31 de diciembre de 2018, ambas fechas inclusive». ARCA no registra prórroga. Art. 31: cupo fiscal anual de $ 5.000.000.000. Conclusión: por su propio texto, el bono por inversiones venció para inversiones posteriores a 2018; no se halló prórroga (no confirmado con un tercero). La estabilidad fiscal (art. 16) tiene el mismo plazo.
+- Arts. 10 y 11 (zonas de frontera, diferencial por economía regional): sin verificar.
+
+### Decreto 379/2001, Biblioteca de ARCA [L], https://biblioteca.afip.gob.ar/dcp/DEC_C_000379_2001_03_29
+Ficha: «Estado de la Norma: Vigente»; modificaciones registradas hasta el Decreto 209/2022 (arts. 1 a 6 y 8; derogó el art. 9). Texto vigente:
+- Art. 1: «Créase un Régimen de Incentivo para las personas jurídicas fabricantes de los bienes comprendidos en el Anexo [...] que cuenten con establecimiento industrial radicado en el Territorio Nacional»; no pueden usufructuarlo los beneficiarios del autopartismo (Ley 27.263) ni de la economía del conocimiento (Ley 27.506).
+- Art. 2: registro de beneficiarios; las empresas acreditan «cada DOS (2) años» que siguen cumpliendo los requisitos.
+- Art. 3: dos clases de beneficio, reducción de contribuciones patronales (90% de las contribuciones para MiPyME, 70% para el resto, respecto del personal afectado) y bonos de crédito fiscal anuales por montos ligados al impuesto a las ganancias, a la inversión en I+D, a reintegros de exportación y a certificación de calidad; tope: la suma anual no puede exceder el 10% de la facturación.
+- Art. 4, literal: «El Régimen creado por el presente decreto tendrá vigencia hasta el 31 de diciembre de 2027, inclusive.»
+- Art. 5: los bonos son nominativos, cedibles una vez, y sirven para Ganancias, IVA e Impuestos Internos.
+Segunda fuente del art. 4: Decreto 209/2022 (B.O. 27/4/2022), art. 4, https://www.argentina.gob.ar/normativa/nacional/decreto-209-2022-363926/texto [L]: «Sustitúyese el artículo 4º del Decreto Nº 379/01 [...] “El Régimen creado por el presente decreto tendrá vigencia hasta el 31 de diciembre de 2027, inclusive.”»; su art. 15 deroga el art. 9 del Decreto 379/01 y el Decreto 594/04.
+2024-2026: la búsqueda no halló decreto que modifique o suspenda el régimen ni resolución de cupo de 2026 [S, búsqueda web]. Las resoluciones de aplicación que aparecieron son de 2022 a 2024 (Res. 26/2022, 2/2023, la RG AFIP 5427/2023 del bono electrónico y resoluciones de 2024 sobre validación bienal y suspensión de la inscripción), sin leer. No se pudo confirmar si se emitieron bonos en 2026.
+
+## Hallazgos que cambian la nota
+1. Res. 16/2025: la declaración jurada no reemplaza a la certificación; la complementa. El Anexo III exige certificación de producto, con certificados de 2 años (4 en audio, video y electrónica).
+2. Res. 16/2025 tiene tres anexos.
+3. La Disp. 4159/2023 se funda en PIC/S PE 009-16 y en ICH Q7A (considerandos); derogó cuatro disposiciones; su anexo se pudo leer.
+4. Ley 27.264: el régimen de inversiones (Título III) venció el 31/12/2018; la ganancia mínima presunta quedó derogada desde 2019.

@@ -7,6 +7,7 @@ fuentes:
   - "MIL-STD-1520C, «Corrective Action and Disposition System for Nonconforming Material», 27 de junio de 1986, cancelada (PDF escaneado con OCR), 3.5 a 3.15, 4.5 y 5.2 a 5.4: https://everyspec.com/MIL-STD/MIL-STD-1500-1599/download.php?spec=MIL_STD_1520C.1489.pdf"
   - "EverySpec, ficha de MIL-STD-1520C (estado cancelado; retiro y reemplazo según el buscador): https://everyspec.com/MIL-STD/MIL-STD-1500-1599/MIL_STD_1520C_1489/"
   - "NSAI, presentación «Overview 9001:2015» (23 de septiembre de 2015), diapositiva sobre 8.7: https://www.nsai.ie/download/certification/Overview-9001-2015-presentation-23-Sep-15-Web-Compatibility-Mode.pdf"
+  - "Advisera, «ISO 9001:2015 vs. ISO 9001:2026» (consultora; según el lector), 8.7 «No change»: https://advisera.com/articles/iso-9001-2015-vs-9001-2026-main-differences/"
   - "ISMS.online, cláusula 8.7 de ISO 9001 (consultora; según el buscador): https://www.isms.online/iso-9001/clause-8-7-control-of-nonconforming-outputs"
   - "iso-9001-checklist.co.uk, 8.7 Control of nonconforming process outputs (consultora; según el lector): https://www.iso-9001-checklist.co.uk/8.7-control-of-nonconforming-process-outputs-products-and-services.htm"
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.3.2.4 y 4.3.3.5: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -32,7 +33,7 @@ Las clasifica en dos grupos. La menor no afecta la salud o la seguridad, el dese
 
 ## Registrar y apartar antes de decidir
 
-El primer paso es que lo malo no siga camino. ISO 9001:2015, en la cláusula 8.7.1, pide según una consultora que las salidas que no cumplen «are identified and controlled to prevent their unintended use or delivery». El texto de la norma no se leyó: es de pago.
+El primer paso es que lo malo no siga camino. ISO 9001, en la cláusula 8.7.1 (según las consultoras la 8.7 no cambió en la edición 2026; ver [Calidad](calidad.md#iso-9001-como-sistema-de-gestión)), pide según una consultora que las salidas que no cumplen «are identified and controlled to prevent their unintended use or delivery». El texto de la norma no se leyó: es de pago.
 
 Apartar tiene dos lados. En la línea, se separan las piezas o se detiene la [orden de producción](../Ejecucion-en-planta/orden-de-produccion.md); los rechazos se declaran como cantidad rechazada en [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md). En el depósito, lo que ya entró pasa a un estado que no se puede usar. Ese estado (cuarentena o bloqueado) es de Inventario y está en [estados del stock](../../Inventario-y-depositos/Existencias/estados-del-stock.md); acá se decide cuándo se levanta.
 

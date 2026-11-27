@@ -32,7 +32,7 @@ El plan nombra el momento del recorrido en que se mira cada característica. Los
 | Recepción | el material que llega del proveedor, antes de usarlo | de Inventario: [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md); el estado del material en espera, en [estados del stock](../../Inventario-y-depositos/Existencias/estados-del-stock.md) |
 | Primera pieza | la primera unidad después de preparar la máquina o cambiar de producto, antes de seguir con el lote | de acá |
 | En proceso | una operación de la [ruta de fabricación](../Producto-y-proceso/ruta-de-fabricacion.md), mientras corre la [orden de producción](../Ejecucion-en-planta/orden-de-produccion.md) | de acá |
-| Final | el producto terminado, antes de declararlo bueno y pasarlo al depósito | de acá; la liberación es la cláusula 8.6 de ISO 9001:2015, según una fuente secundaria (ver [Calidad](calidad.md)) |
+| Final | el producto terminado, antes de declararlo bueno y pasarlo al depósito | de acá; la liberación es la cláusula 8.6 de ISO 9001, que mantiene el número en la edición 2026 y según una consultora no cambió (ver [Calidad](calidad.md#iso-9001-como-sistema-de-gestión)) |
 
 La primera pieza se controla porque un error de preparación se repite en todas las unidades que siguen (criterio de la base).
 

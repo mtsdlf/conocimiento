@@ -4,6 +4,8 @@ resumen: >-
 estado: borrador
 estabilidad: semi
 fuentes:
+  - "Advisera, «ISO 9001:2015 vs. ISO 9001:2026» (consultora; según el lector), 10.2 y 10.1: https://advisera.com/articles/iso-9001-2015-vs-9001-2026-main-differences/"
+  - "ASC Food Safety, «ISO 9001:2026 vs 2015: Every Change, Clause by Clause» (consultora; según el lector), 10.2: https://ascfoodsafety.com/iso-9001-2026-vs-2015-changes/"
   - "NSAI, presentación «Overview 9001:2015» (23 de septiembre de 2015), diapositiva sobre 10.2: https://www.nsai.ie/download/certification/Overview-9001-2015-presentation-23-Sep-15-Web-Compatibility-Mode.pdf"
   - "21 CFR 820.100 «Corrective and preventive action», eCFR, versión al 2026-01-01 (leída por el lector): https://www.ecfr.gov/api/versioner/v1/full/2026-01-01/title-21.xml?part=820&section=820.100"
   - "FDA, Federal Register 2024-01709, «Medical Devices; Quality System Regulation Amendments» (2 de febrero de 2024; texto del PDF): https://www.federalregister.gov/documents/2024/02/02/2024-01709/medical-devices-quality-system-regulation-amendments"
@@ -37,6 +39,10 @@ Un sistema tiene que separar las tres. La distinción es criterio de la base; la
 | Acción correctiva | la causa de un problema que ya pasó | cambiar el sujetador que deja mover la pieza y agregar un control en primera pieza |
 | Acción preventiva | la causa de un problema que todavía no pasó | revisar las otras máquinas con el mismo sujetador |
 
+La edición vigente de ISO 9001 es la 2026 (ver [Calidad](calidad.md#iso-9001-como-sistema-de-gestión)). La cláusula 10.2 mantiene el número. Según Advisera, un cambio «Small (editorial)»; según ASC Food Safety, «10.2 is as before, with a note that customer complaints can be a source of nonconformities». Ambas son consultoras. Lo que sí cambió en el capítulo 10 es que la 10.1 reúne las antiguas 10.1 y 10.3, así que ya no hay 10.3.
+
+> [!NOTE] Sin fuente todavía: si la edición 2026 vuelve a nombrar la acción preventiva o la sigue dejando absorbida por el enfoque de riesgos. Las fuentes de la 2026 no lo dicen.
+
 ISO 9001:2015 no tiene una cláusula de acción preventiva. La presentación de NSAI lo dice así sobre la 10.2: «Does not include a clause on Preventive action as an emphasis on risk-based thinking throughout the standard supersedes a single clause on preventive action». Según la misma fuente, la 10.2 pide «taking action to control and correct nonconformity and address the consequences, determining if similar nonconformities exist or could happen, making changes to QMS if necessary».
 
 Las fuentes secundarias lo leen de dos maneras. Para algunas (BSI, Advisera, Quality Magazine), la acción preventiva fue reemplazada por las acciones para abordar riesgos y oportunidades. Para un documento del comité ISO/TC 176, quedó absorbida: está incorporada cuando el sistema se basa en riesgos. El anexo A.3 de la norma, que lo explica, no se leyó.
@@ -57,9 +63,9 @@ CAPA (corrective and preventive action) es el nombre que la regulación de dispo
 
 El apartado (b) pide documentar todas las actividades y sus resultados.
 
-Desde el 2 de febrero de 2026 rige otra regla. El Federal Register de 2024 dice: «This rule is effective February 2, 2026». La nueva regulación (QMSR) incorpora ISO 13485:2016 por referencia. Según la FDA, los puntos 6 y 7 de 820.100 no figuran en ISO 13485, pero su sustancia está cubierta por las cláusulas 8.2.2, 8.5.2 y 8.3.1.
+Desde el 2 de febrero de 2026 rige otra regla para los dispositivos médicos. El Federal Register de 2024 dice: «This rule is effective February 2, 2026». La nueva regulación (QMSR) incorpora ISO 13485:2016 por referencia. Según la FDA, los puntos 6 y 7 de 820.100 no figuran en ISO 13485, pero su sustancia está cubierta por las cláusulas 8.2.2, 8.5.2 y 8.3.1.
 
-> [!NOTE] Sin fuente todavía: si la sección 820.100 fue derogada o reemplazada en el CFR después del 2 de febrero de 2026. El texto leído no traía aviso de reemplazo. La lista de siete puntos sigue sirviendo como patrón abierto de un proceso de CAPA, aunque haya dejado de ser la norma.
+> [!NOTE] Sin fuente todavía: si la sección 820.100 fue derogada o reemplazada en el CFR después del 2 de febrero de 2026. El texto leído no traía aviso de reemplazo. La lista de siete puntos sigue sirviendo como patrón abierto de un proceso de CAPA, aunque la regla nueva ya no la pida con esas palabras.
 
 ## El 8D: ocho disciplinas para un problema
 

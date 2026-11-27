@@ -9,6 +9,7 @@ fuentes:
   - "ISO 22005:2007, ficha (según el buscador; la página da 403): https://www.iso.org/standard/36297.html"
   - "Código Alimentario Argentino, Cap. II, art. 18 tris y 18 tris 1 (Res. Conj. SCS y SAGyP N° 2/2023): https://www.argentina.gob.ar/sites/default/files/capitulo_ii_establecactualiz_2025-04.pdf"
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.3.4: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "Advisera, «ISO 9001:2015 vs. ISO 9001:2026» (consultora; según el lector), 8.5.2 entre los cambios editoriales: https://advisera.com/articles/iso-9001-2015-vs-9001-2026-main-differences/"
   - "NSAI, presentación «Overview 9001:2015» (23 de septiembre de 2015), diapositiva sobre 8.5.2: https://www.nsai.ie/download/certification/Overview-9001-2015-presentation-23-Sep-15-Web-Compatibility-Mode.pdf"
   - "Produccion/.investigacion/calidad.md (sección 6), argentina.md (sección de alimentos) y fundamentos-y-contraria.md (PCF 4.3.4), 2026-11-27"
 aliases: [trazabilidad de lotes, trazabilidad, traceability, lot traceability, genealogía, genealogía del lote, lot genealogy, batch genealogy, rastreo hacia atrás, backward traceability, trace back, rastreo hacia adelante, forward traceability, trace forward, tracking and tracing, un paso atrás, un paso adelante, one step back one step forward, retiro de mercado, retiro de producto, recall, product recall, ISO 22005]
@@ -64,7 +65,9 @@ Sin la genealogía interna, la ley se cumple, pero un retiro alcanza todo lo fab
 
 En la Argentina, el Código Alimentario (art. 18 tris) pide procedimientos que permitan seguir el rastro de un producto «como así también de sus materias primas y aditivos», y el art. 18 tris 1, un plan de retiro documentado. Nombrar las materias primas acerca el texto a la genealogía interna que el reglamento europeo no pide (lectura de la base). Lo que pide cada rubro (alimentos, medicamentos, productos médicos) está en [Producción en la Argentina](../produccion-en-argentina.md).
 
-Para la gestión de la calidad en general, ISO 9001:2015 trata la identificación y la trazabilidad en la cláusula 8.5.2. Según NSAI, la edición 2015 no le agregó requisitos nuevos; el texto no se leyó.
+Para la gestión de la calidad en general, ISO 9001 trata la identificación y la trazabilidad en la cláusula 8.5.2. Según NSAI, la edición 2015 no le agregó requisitos nuevos; el texto no se leyó. La edición vigente es la 2026, con transición hasta el 30 de septiembre de 2029 para quien está certificado en la 2015 (ver [Calidad](calidad.md#iso-9001-como-sistema-de-gestión)). La 8.5.2 mantiene el número; Advisera, una consultora, la ubica entre los cambios «Small (editorial)».
+
+> [!NOTE] Sin fuente todavía: qué redacción cambió en la 8.5.2 de la edición 2026. Solo hay fuentes secundarias y ninguna lo detalla.
 
 ## El retiro
 
