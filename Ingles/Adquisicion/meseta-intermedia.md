@@ -97,7 +97,7 @@ La evidencia indirecta apunta a cuatro cosas, cada una con su nota:
 3. Mucho input, con efecto medio a pequeño ([Input comprensible](input-comprensible.md)).
 4. Repaso espaciado del vocabulario ([Repetición espaciada](repeticion-espaciada.md)).
 
-Los remedios de Richards (notar, output empujado, monitorearse, colocaciones, rutinas de
+Los remedios de Richards (notar, [output empujado](output-e-interaccion.md), monitorearse, colocaciones, rutinas de
 conversación) remiten a las mismas piezas, y el folleto no presenta una prueba de que el conjunto
 funcione. Armar con ellas una rutina es una inferencia razonable; la rutina está en
 [Práctica](../Practica/practica.md) y en la [ruta](../Fundamentos/ruta-de-ingles.md).

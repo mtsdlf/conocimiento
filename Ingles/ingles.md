@@ -123,8 +123,9 @@ ningún estudio se hizo con adultos B2 que estudian solos: eso queda dicho donde
   y [Registro y cortesía](Discurso/registro-y-cortesia.md).
 - Si tenés que escribir mails o documentos de trabajo: [Escritura](Discurso/escritura.md),
   [Conectores y cohesión](Discurso/conectores-y-cohesion.md) y [Colocaciones y chunks](Lexico/colocaciones-y-chunks.md).
-- Si te entienden con esfuerzo: [Pronunciación](Pronunciacion/pronunciacion.md), empezando por las
-  [vocales](Pronunciacion/vocales.md), y [Entrenamiento perceptivo](Practica/entrenamiento-perceptivo.md).
+- Si te entienden con esfuerzo o no sabés qué sonidos corregir primero: el orden está en
+  [Percibir antes de producir](Pronunciacion/pronunciacion.md#percibir-antes-de-producir); después,
+  las [vocales](Pronunciacion/vocales.md) y el [entrenamiento perceptivo](Practica/entrenamiento-perceptivo.md).
 - Si te cuesta entender a nativos que hablan rápido: [Ritmo y habla conectada](Pronunciacion/ritmo-y-habla-conectada.md)
   y [Escucha y lectura extensiva](Practica/escucha-y-lectura-extensiva.md).
 - Si dudás entre tiempos verbales al hablar: [Tiempo y aspecto](Gramatica/tiempo-y-aspecto.md),

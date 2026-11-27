@@ -54,7 +54,7 @@ va con *be*) y practicarla hablando. Ver [Feedback correctivo](../Adquisicion/fe
 
 **Ejemplo resuelto.** Error: *She explained me the plan*. Notar: grabarse o pedirle al tutor que lo
 marque. Regla: *explain* no lleva persona directa; se dice *explain something to someone*. Práctica:
-cinco frases propias dichas en voz alta (*Can you explain it to me?*) y una tarjeta de producción.
+cinco frases propias dichas en voz alta (*Can you explain it to me?*) y una [tarjeta de producción](../Adquisicion/repeticion-espaciada.md#cómo-armar-una-tarjeta-para-un-b2).
 
 **Caso modificado.** El error es de pronunciación: *ship* sale como *sheep*. ¿Qué cambia?
 
@@ -241,13 +241,14 @@ material conocido, y probablemente input en volumen.
 </details>
 
 **Ejemplo resuelto.** Una semana de unas cinco horas, repartidas entre las cuatro ramas. El reparto
-es una inferencia de esta base a partir de Nation, no un plan probado.
+es una inferencia de esta base a partir de Nation, no un plan probado, y es el mismo de
+[Práctica](../Practica/practica.md#una-semana-con-poco-tiempo).
 
 | Rama | Qué hacer | Tiempo |
 |---|---|---|
 | Input | [Escucha y lectura extensiva](../Practica/escucha-y-lectura-extensiva.md): un podcast o un libro que se entienda casi entero | 75 min, repartidos |
-| Output | [Conversación con corrección](../Practica/conversacion-con-correccion.md) con un tutor que use prompts sobre tus tres errores | 60 min, una sesión |
-| Estudio de la forma | La regla de la semana, [entrenamiento perceptivo](../Practica/entrenamiento-perceptivo.md) y diez minutos diarios de tarjetas | 90 min, repartidos |
+| Output | [Conversación con corrección](../Practica/conversacion-con-correccion.md) con un tutor que use prompts sobre tus tres errores | 75 min, una o dos sesiones |
+| Estudio de la forma | La regla de la semana, [entrenamiento perceptivo](../Practica/entrenamiento-perceptivo.md) y diez minutos diarios de tarjetas | 75 min, repartidos |
 | Fluidez | [4/3/2](../Practica/fluidez.md): contar lo mismo en 4, 3 y 2 minutos | 75 min, 15 por día |
 
 Una vez por mes, la misma tarea grabada para comparar velocidad y pausas
