@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Arquitectura e IA tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Contabilidad, Arquitectura e IA tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -81,6 +81,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 ## Gestión de la empresa
 
+- [Contabilidad](Contabilidad/contabilidad.md) — registrar cada hecho económico de una empresa que ya opera: partida doble, plan de cuentas y devengado, cómo se registra cada operación, los estados contables, la contabilidad de gestión y el control interno, con lo de Argentina aparte.
 - [Relación con clientes](Relacion-con-clientes/relacion-con-clientes.md) — lo que registra una empresa sobre sus clientes y sus ventas en curso: el cliente y sus condiciones, el interesado, la oportunidad, el presupuesto y el pedido de venta, sin nombrar productos y con lo de Argentina aparte.
 
 ## Personas
