@@ -4,7 +4,7 @@ resumen: >-
   sobre todo pasar de saber el idioma a usarlo rápido y con precisión: afinar el sonido, la
   gramática, el vocabulario y el discurso donde el castellano interfiere, con práctica que tenga
   evidencia.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Consejo de Europa, MCER Companion Volume (2020): https://rm.coe.int/16809ea0d4"
@@ -16,7 +16,7 @@ aliases:
   - Aprender inglés
   - Inglés avanzado
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inglés
