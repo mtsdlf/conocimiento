@@ -47,7 +47,7 @@ Goldstein, Cialdini y Griskevicius (2008) hicieron dos experimentos de campo con
 > - En el estudio 2, el mensaje estándar rindió 93,3 % frente a 76,5 % de las normas.
 > - La reutilización de base fue alta, 82,3 %. Los autores sugieren diferencias culturales y de implicación, sin haberlas probado.
 >
-> La prueba social con norma descriptiva funcionó en una situación y no en otra: no es una ley general. Cómo se replicaron otros efectos de persuasión está en [economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md).
+> La prueba social con [norma descriptiva](../../Psicologia/Cognicion-social/influencia-social.md#normas-descriptivas-e-injuntivas) funcionó en una situación y no en otra: no es una ley general. Cómo se replicaron otros efectos de persuasión está en [economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md).
 
 ## Garantías: un solo estudio, de consumo
 

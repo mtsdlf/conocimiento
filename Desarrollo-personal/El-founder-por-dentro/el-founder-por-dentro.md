@@ -40,7 +40,7 @@ Por eso la pregunta útil es qué condiciones inclinan la balanza. Las que apare
 
 ## Dónde termina esta vertical
 
-La vertical es lo de adentro de la persona. El reparto de la propiedad, los socios y las primeras contrataciones viven en [Fundadores y equipo](../../Emprender/Fundadores-y-equipo/fundadores-y-equipo.md). El rol del CEO hacia afuera (conducir un equipo, decidir por otros) es del tema Liderazgo y dirección.
+La vertical es lo de adentro de la persona. El reparto de la propiedad, los socios y las primeras contrataciones viven en [Fundadores y equipo](../../Emprender/Fundadores-y-equipo/fundadores-y-equipo.md). El rol del CEO hacia afuera (conducir un equipo, decidir por otros) está en [Rol del CEO](../../Liderazgo-y-direccion/Rol-del-CEO/rol-del-ceo.md), en Liderazgo y dirección.
 
 El mecanismo vive en Psicología: el desgaste crónico en [burnout](../../Psicologia/Estres-y-resiliencia/burnout.md), lo que pasa después de una pérdida en [resiliencia](../../Psicologia/Estres-y-resiliencia/resiliencia.md) y el exceso de confianza del que funda en [sobreconfianza](../../Psicologia/Juicio-y-decision/sobreconfianza.md). Lo clínico (diagnosticar y tratar una depresión, un TDAH o un consumo problemático) queda afuera, y [cuándo consultar](../Emociones-y-bienestar/cuando-consultar.md) marca ese borde.
 

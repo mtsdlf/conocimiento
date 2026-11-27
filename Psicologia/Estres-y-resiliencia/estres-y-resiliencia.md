@@ -50,11 +50,11 @@ La mayoría de los estudios leídos son correlacionales o de autoinforme, y no s
 | El burnout es distinto de la depresión | En disputa entre dos líneas de investigación | [Burnout](burnout.md) |
 | Las intervenciones contra el burnout funcionan | Efectos pequeños; en un metaanálisis sobre personal de salud las organizacionales rinden más; otro, en médicos, dice que las dos ayudan | [Burnout](burnout.md) |
 
-Los emprendedores y fundadores aparecen en la nota de [burnout](burnout.md) como evidencia con límites: pocos estudios, casi todos transversales y varios con muestras de conveniencia. Cómo se sostiene en la práctica el rol de founder es asunto del tema Desarrollo personal, que todavía no está escrito.
+Los emprendedores y fundadores aparecen en la nota de [burnout](burnout.md) como evidencia con límites: pocos estudios, casi todos transversales y varios con muestras de conveniencia. Cómo se sostiene en la práctica el rol de founder es asunto de [El founder por dentro](../../Desarrollo-personal/El-founder-por-dentro/el-founder-por-dentro.md), en Desarrollo personal.
 
 ## Dónde termina esta parte
 
-La vertical describe el estrés y el desgaste; la clínica queda afuera. La depresión, el trastorno de estrés postraumático y los trastornos de ansiedad aparecen solo como límite: cuándo lo que se describe acá deja de ser una reacción esperable y pasa a pedir un profesional. Cómo se practica manejar el estrés día a día va en Desarrollo personal, que todavía no existe, y cómo se dirige un equipo, en [Liderazgo y dirección](../../Liderazgo-y-direccion/liderazgo-y-direccion.md).
+La vertical describe el estrés y el desgaste; la clínica queda afuera. La depresión, el trastorno de estrés postraumático y los trastornos de ansiedad aparecen solo como límite: cuándo lo que se describe acá deja de ser una reacción esperable y pasa a pedir un profesional. Cómo se practica manejar el estrés día a día va en [manejar el estrés](../../Desarrollo-personal/Emociones-y-bienestar/manejar-el-estres.md), en Desarrollo personal, y cómo se dirige un equipo, en [Liderazgo y dirección](../../Liderazgo-y-direccion/liderazgo-y-direccion.md).
 
 ## Las cuatro piezas
 

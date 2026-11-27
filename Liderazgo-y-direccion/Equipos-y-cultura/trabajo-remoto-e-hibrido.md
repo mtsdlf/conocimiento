@@ -29,7 +29,7 @@ El estudio es de un solo tipo de trabajo, con tareas fáciles de medir y con vol
 
 Bloom, Han y Liang (2024) probaron el híbrido en un ensayo aleatorizado de seis meses con 1.612 empleados de una empresa tecnológica china, en 2021 y 2022. Según el abstract, el híbrido «improved job satisfaction and reduced quit rates by one-third». La baja de renuncias fue significativa en quienes no eran jefes, en las mujeres y en quienes tenían traslados largos. El híbrido no cambió las calificaciones de desempeño de las dos revisiones siguientes, ni los ascensos, ni las líneas de código de los ingenieros.
 
-El metaanálisis de Gajendran y Harrison (2007), con 46 estudios y 12.883 empleados, va en la misma dirección. Según su abstract, el teletrabajo tuvo efectos pequeños y mayormente buenos en autonomía percibida, conflicto entre trabajo y familia, satisfacción, desempeño e intención de renunciar, sin un daño general a las relaciones laborales. Pero con más de 2,5 días por semana empeoraban las relaciones con los compañeros. Son datos previos a la pandemia, de teletrabajo mayormente voluntario.
+El metaanálisis de Gajendran y Harrison (2007), con 46 estudios y 12.883 empleados, va en la misma dirección. Según su abstract, el teletrabajo tuvo efectos pequeños y mayormente buenos en autonomía percibida, [conflicto entre trabajo y familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md), satisfacción, desempeño e intención de renunciar, sin un daño general a las relaciones laborales. Pero con más de 2,5 días por semana empeoraban las relaciones con los compañeros. Son datos previos a la pandemia, de teletrabajo mayormente voluntario.
 
 ## Lo que se pierde con la distancia
 

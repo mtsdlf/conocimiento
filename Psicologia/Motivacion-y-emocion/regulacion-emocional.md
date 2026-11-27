@@ -75,4 +75,4 @@ Descargar el enojo golpeando algo es un consejo popular. Según un resumen, Bush
 
 ## Regular para sostener una meta
 
-La regulación emocional se roza con la [autorregulación](../Autorregulacion/autorregulacion.md) y con la [procrastinación](../Autorregulacion/procrastinacion.md); esta nota no trae fuente sobre esa relación. Cómo practicar estas estrategias en el día a día es tema de Desarrollo personal, que todavía no existe. Para los datos, la sección de resultados de Webb et al. (2012), con las tablas por estrategia: lo que importa es la diferencia entre estrategias de la misma familia.
+La regulación emocional se roza con la [autorregulación](../Autorregulacion/autorregulacion.md) y con la [procrastinación](../Autorregulacion/procrastinacion.md); esta nota no trae fuente sobre esa relación. Cómo practicar estas estrategias en el día a día está en [manejar el estrés](../../Desarrollo-personal/Emociones-y-bienestar/manejar-el-estres.md), en Desarrollo personal. Para los datos, la sección de resultados de Webb et al. (2012), con las tablas por estrategia: lo que importa es la diferencia entre estrategias de la misma familia.

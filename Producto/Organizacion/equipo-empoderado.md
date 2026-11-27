@@ -71,6 +71,8 @@ La disputa más reciente viene del lado opuesto: la del fundador que decide los 
 > [!IMPORTANT]
 > Founder mode y equipo empoderado tienen la misma calidad de evidencia, que es ninguna. Graham escribe un ensayo basado en una charla y en anécdotas, y admite que founder mode "is not yet well understood". Cagan respondió en "Coaching Founder Mode" que founder mode "does not mean hands-off delegation, but it also does not mean micro-managing", que "Many people confuse delegation with empowerment" y que "empowered organizations don't require less management, they require better management". Chesky, según la prensa, dijo que él no lo llamó así y que no hace falta ser fundador para tenerlo; en 2025 dijo que gestiona él mismo hasta unos 50 reportes directos. No se encontró ningún estudio que compare fundadores que deciden los detalles con equipos que reciben problemas.
 
+Lo que sí se estudió, si conviene que dirija el fundador o un CEO externo, está en [founder mode](../../Liderazgo-y-direccion/Rol-del-CEO/founder-mode.md), y la diferencia entre pasar una tarea y pasar la autoridad de decidir, en [delegación](../../Liderazgo-y-direccion/Decidir/delegacion.md), los dos en Liderazgo y dirección.
+
 ## Cuándo la tesis aplica peor
 
 Las críticas y los informes permiten armar tres condiciones (lectura de la base). Con muchas dependencias entre equipos, el margen real de cada uno se achica (NN/g). En una consultora de software, el equipo suele recibir un alcance contratado y no un problema; las fuentes del caso están en [qué cambia en una consultora](../Fundamentos/que-es-producto.md#qué-cambia-en-una-consultora-que-vende-proyectos). Y cuando se adopta el vocabulario sin la capacidad, las decisiones no cambian: Scrum.org lo llama teatro (según el buscador).

@@ -47,4 +47,6 @@ Dos componentes que esta vertical va a sumar y todavía no existen:
 - Percepción visual y atención: cómo se explora una pantalla, la búsqueda visual y la ceguera a los banners. La nota de Hick remite a la búsqueda visual como el modelo más pertinente que la ley.
 - Memoria y aprendizaje: la memoria de largo plazo y cómo la gente construye esquemas con el uso. Completa lo que [Carga cognitiva](carga-cognitiva.md) solo toca en la memoria de trabajo.
 
+El mecanismo de los dos ya está en Psicología, sin la aplicación a pantallas: la [atención](../../Psicologia/Autorregulacion/atencion.md) y la [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md).
+
 Los umbrales de tiempo de respuesta del sistema (0,1 s, 1 s y 10 s) no se tratan acá: están en [Principios de interacción](../Interaccion/principios-de-interaccion.md).

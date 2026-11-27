@@ -21,7 +21,7 @@ revisado: 2026-11-27
 
 Un hábito es una conducta que el contexto dispara sola, sin pasar por una decisión, porque se repitió muchas veces en esa misma situación. Formarlo lleva meses y no semanas, y cuánto depende de la conducta y de la persona.
 
-El mecanismo es de aprendizaje: una asociación entre una señal del contexto y una respuesta, construida por repetición, como en el [condicionamiento](condicionamiento-y-refuerzo.md). La evidencia aplicada viene sobre todo de la psicología de la salud, con conductas como tomar agua, usar hilo dental o comer distinto. Por eso la nota está a caballo entre esta vertical y [Autorregulación](../Autorregulacion/autorregulacion.md). Cómo se practica armar o cortar un hábito va a vivir en el tema Desarrollo personal, que todavía no existe.
+El mecanismo es de aprendizaje: una asociación entre una señal del contexto y una respuesta, construida por repetición, como en el [condicionamiento](condicionamiento-y-refuerzo.md). La evidencia aplicada viene sobre todo de la psicología de la salud, con conductas como tomar agua, usar hilo dental o comer distinto. Por eso la nota está a caballo entre esta vertical y [Autorregulación](../Autorregulacion/autorregulacion.md). Cómo se practica armar o cortar un hábito está en [diseñar un hábito](../../Desarrollo-personal/Habitos-y-cambio/disenar-un-habito.md) y [cortar un hábito](../../Desarrollo-personal/Habitos-y-cambio/cortar-un-habito.md), en Desarrollo personal.
 
 ## El contexto dispara, la meta no hace falta
 
@@ -39,7 +39,7 @@ Wood y Neal cierran con que el cambio de hábitos pasa por autorregular las señ
 
 Lally et al. (2010) siguieron a 96 voluntarios durante 12 semanas, cada uno con una conducta diaria nueva ligada a una señal. Según el abstract, el tiempo hasta llegar al 95 % del automatismo máximo fue de «18 to 254 days». De los 96, 82 aportaron datos y el modelo de la curva ajustó en 62. Saltear un día no afectó materialmente el proceso. Las conductas simples, como un vaso de agua, se automatizaron más rápido que las complejas, como 50 abdominales (según el resumen de la BPS).
 
-El extremo de 254 días es una extrapolación de la curva, no una observación: el estudio duró 84 días. La cifra que circula es 66 días, y las fuentes no coinciden en qué es: el resumen de la BPS la da como tiempo medio, y el informe de la posición contraria la ubica como la mediana publicada en el cuerpo del artículo, no en el abstract. Ninguna de las dos lecturas se verificó contra el texto.
+El extremo de 254 días es una extrapolación de la curva, no una observación: el estudio duró 84 días. La cifra que circula es 66 días, y es la mediana: así la da el metaanálisis de Singh et al. (2024), leído entero en la investigación de [diseñar un hábito](../../Desarrollo-personal/Habitos-y-cambio/disenar-un-habito.md), y el resumen de UCL. El resumen de la BPS la llama tiempo medio, y la cifra no está en el abstract de Lally.
 
 El metaanálisis de Singh et al. (2024) junta 20 estudios con 2.601 participantes de 21,5 a 73,5 años de edad media. Según el abstract, las medianas de tiempo de formación van de 59 a 66 días y las medias de 106 a 154 días, con una variabilidad individual de «4–335 days». El puntaje de hábito antes y después mejoró con un SMD de 0,69 (IC 95 % 0,49 a 0,88). Los autores declaran como límite el «relatively small number of studies included», y la mayor parte de la evidencia es sobre hilo dental y dieta.
 

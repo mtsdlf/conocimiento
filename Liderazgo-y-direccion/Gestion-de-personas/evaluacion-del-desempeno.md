@@ -30,7 +30,7 @@ El campo la estudia junto con el pago bajo el nombre de gestión del desempeño,
 
 Scullen, Mount y Goff (2000) analizaron dos bases grandes de gerentes (2.350 y 2.142), cada uno calificado por siete personas: dos jefes, dos pares, dos subordinados y él mismo. Según el abstract, «idiosyncratic rater effects (62% and 53%) accounted for over half of the rating variance». El desempeño real del evaluado explicó «21% and 25%», y el error aleatorio, 11 % y 18 %. Una réplica con 1.380 gerentes en Japón dio un efecto del evaluador de «over half» y un desempeño real de «less than 25%».
 
-Que dos evaluadores califiquen distinto a la misma persona es lo que la psicología llama [ruido](../../Psicologia/Juicio-y-decision/ruido.md). En una empresa chica suele evaluar una sola persona, el fundador o el jefe directo, y no hay otros evaluadores que compensen su manera de calificar (inferencia de esta base).
+Que dos evaluadores califiquen distinto a la misma persona es lo que la psicología llama [ruido](../../Psicologia/Juicio-y-decision/ruido.md). En una empresa chica suele evaluar una sola persona, el fundador o el jefe directo, y no hay otros evaluadores que compensen su manera de calificar (inferencia de esta base). Las mismas calificaciones de varias fuentes, usadas para conocerse y no para evaluar, son el feedback 360 de [puntos ciegos](../../Desarrollo-personal/Autoconocimiento/puntos-ciegos.md), en Desarrollo personal.
 
 > [!IMPORTANT]
 > **Lo que pesa el evaluador es sesgo.** Scullen, Mount y Goff (2000) hallaron que más de la mitad de la varianza de las calificaciones son efectos idiosincráticos del evaluador y que el desempeño del evaluado explica menos de un cuarto, en dos bases grandes y una réplica.

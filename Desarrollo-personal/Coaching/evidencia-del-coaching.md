@@ -29,7 +29,7 @@ revisado: 2026-11-27
 
 La evidencia del coaching viene de metaanálisis de coaching en el lugar de trabajo, que dan un efecto moderado (de 0,42 a 0,59 en los que solo juntan ensayos aleatorizados, informados con índices distintos) y más chico al corregir el sesgo de publicación. Muchos estudios se miden solo por autoinforme, que da efectos mayores, y no se encontró un metaanálisis de coaching de vida en población general.
 
-Dentro de [Coaching](coaching.md) esta nota dice cuánto ayuda lo que define [qué es el coaching](que-es-el-coaching.md). Para leer estas cifras sirve [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md), sobre todo sus secciones de tamaño de efecto, sesgo de publicación y autoinforme. Ningún trabajo citado se leyó completo: casi todos por su abstract o un resumen, y Grover y Furnham (2016) y Burt y Talati (2017) hasta la mitad del texto o la introducción.
+Dentro de [Coaching](coaching.md) esta nota dice cuánto ayuda lo que define [qué es el coaching](que-es-el-coaching.md). Cómo lo usa una empresa para que su gente crezca, junto con la mentoría y el entrenamiento, está en [desarrollo de personas](../../Liderazgo-y-direccion/Gestion-de-personas/desarrollo-de-personas.md), en Liderazgo y dirección. Para leer estas cifras sirve [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md), sobre todo sus secciones de tamaño de efecto, sesgo de publicación y autoinforme. Ningún trabajo citado se leyó completo: casi todos por su abstract o un resumen, y Grover y Furnham (2016) y Burt y Talati (2017) hasta la mitad del texto o la introducción.
 
 ## Los metaanálisis, de los más amplios a los más estrictos
 

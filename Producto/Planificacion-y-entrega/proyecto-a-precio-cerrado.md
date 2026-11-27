@@ -54,7 +54,7 @@ De su revisión salen cuatro guías aplicables a una cotización:
 3. Combiná la estimación de más de una persona o método.
 4. Dá un intervalo, no un número.
 
-El sobreoptimismo crece con el control que uno tiene sobre la tarea. Según la misma revisión, el único método que lo redujo fue que estime otra persona distinta de la que va a hacer el trabajo. Los intervalos también salen angostos: según el resumen de otro estudio de Jørgensen, Teigen y Moløkken (2003), los intervalos que los profesionales daban con el 90 % de confianza resultaron demasiado estrechos.
+El sobreoptimismo al estimar es la [falacia de planificación](../../Psicologia/Juicio-y-decision/sobreconfianza.md#la-falacia-de-planificación), y crece con el control que uno tiene sobre la tarea. Según la misma revisión, el único método que lo redujo fue que estime otra persona distinta de la que va a hacer el trabajo. Los intervalos también salen angostos: según el resumen de otro estudio de Jørgensen, Teigen y Moløkken (2003), los intervalos que los profesionales daban con el 90 % de confianza resultaron demasiado estrechos.
 
 Sumar tareas no siempre mejora el número. Jørgensen recomienda la estimación de abajo hacia arriba salvo que se tengan proyectos muy parecidos para comparar. También advierte que una descomposición demasiado detallada puede empeorarla: es un estudio chico, de siete equipos. La lectura de esta base es que, para un servicio que repite el mismo tipo de proyecto, el registro de cuánto llevaron los anteriores vale más que una lista de tareas más fina.
 

@@ -43,7 +43,7 @@ Lo que muestran las fuentes es que, entre dietas razonables, el tipo de dieta pe
 
 ## La comida acompaña al entrenamiento
 
-Ganar músculo, recomponer y rendir dependen de entrenar. La nutrición acompaña a un entrenamiento de fuerza: la proteína suplementada sumó masa magra en ensayos donde la gente entrenaba con cargas ([Morton y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/28698222/), según su resumen). Cómo se entrena la fuerza o la coordinación no está en esta base.
+Ganar músculo, recomponer y rendir dependen de entrenar. La nutrición acompaña a un entrenamiento de fuerza: la proteína suplementada sumó masa magra en ensayos donde la gente entrenaba con cargas ([Morton y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/28698222/), según su resumen). Cómo se entrena la fuerza o la coordinación no está en esta base; cuánta actividad física pide la OMS, la de fuerza incluida, está en [ejercicio](../../Desarrollo-personal/Energia-y-salud/ejercicio.md).
 
 ## Cómo fallan los objetivos
 
