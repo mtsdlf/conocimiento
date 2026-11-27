@@ -67,6 +67,10 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Estrategia competitiva](Estrategia-competitiva/estrategia-competitiva.md) — por qué una industria rinde lo que rinde, de dónde sale una ventaja que dura, cómo se mueven los rivales y cómo se analiza a los competidores antes de diseñar un producto, con su evidencia.
 - [Ventas](Ventas/ventas.md) — del problema del cliente al acuerdo: descubrimiento y calificación, la propuesta y el precio, objeciones y negociación, formas de vender y medición comercial, con la poca evidencia independiente que tienen los métodos dicha en cada nota.
 
+## Personas
+
+- [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
+
 ## Carrera
 
 - [Presentación profesional](Presentacion-profesional/presentacion-profesional.md) — mostrarse para un puesto: el material de lo hecho, las vidrieras que se cortan de él (CV, LinkedIn, portfolio) y cómo se filtran del otro lado, con la evidencia de cada consejo y los mitos más repetidos.
