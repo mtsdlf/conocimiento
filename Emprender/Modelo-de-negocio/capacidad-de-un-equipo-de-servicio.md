@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La capacidad de un equipo de servicio es cuánto trabajo puede tomar sin que los tiempos de respuesta se disparen. Se calcula con dos cuentas de la teoría de colas: cuántos clientes hay a la vez (ingresos por mes por meses que dura cada uno) y cuánto esperan según qué tan cargado está el equipo, que crece muy rápido cerca del 100 %.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Kingman's formula (fórmula y definiciones; cita a Kingman 1961): https://en.wikipedia.org/wiki/Kingman%27s_formula"
@@ -18,7 +18,7 @@ fuentes:
   - "Emprender/.investigacion/plata-de-un-servicio-contraria.md"
 aliases: [capacidad, capacity planning, planificación de capacidad, utilización, ley de Little, Little's law, fórmula de Kingman, teoría de colas, cuántos clientes]
 creado: 2026-11-24
-revisado:
+revisado: 2026-11-27
 ---
 
 # Capacidad de un equipo de servicio

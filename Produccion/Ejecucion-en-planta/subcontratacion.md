@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La subcontratación es mandarle material propio a un tercero para que haga una o más operaciones de la fabricación y lo devuelva transformado. El material sigue siendo de la empresa mientras está en manos del tercero, y lo que se le paga es el servicio, no el producto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Documentación de Subcontracting de un sistema abierto: https://docs.frappe.io/erpnext/user/manual/en/subcontracting"
@@ -9,7 +9,7 @@ fuentes:
   - "Produccion/.investigacion/ejecucion-en-planta.md (sección 4), 2026-11-27"
 aliases: [subcontratación, subcontracting, fasón, trabajo a fasón, façon, maquila, operación externa, outside operation, outside processing, tercerización de una operación, orden de subcontratación, subcontracting order, material en poder de terceros, stock en poder de terceros]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Subcontratación

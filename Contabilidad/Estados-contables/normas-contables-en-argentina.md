@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, las normas contables las elabora la FACPCE en resoluciones técnicas que cada consejo profesional aprueba en su jurisdicción; la RT 54 las unificó para la mayoría de las empresas, las que cotizan aplican las NIIF por exigencia de la CNV y desde 2018 los estados se ajustan por inflación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "FACPCE, Montos de los ingresos para la determinación de entidad pequeña y mediana, Res. JG 608/22 actualizada (agosto de 2026): https://www.facpce.org.ar/wp-content/uploads/2026/09/Indice-y-actualizacion-ingresos-RT54-2026-08.pdf"
@@ -24,7 +24,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md, secciones 3.3 y 3.4 (2026-11-27)"
 aliases: [normas contables argentinas, normas contables profesionales, RT 54, NUA, Norma Unificada Argentina de Contabilidad, resoluciones técnicas, FACPCE, ajuste por inflación contable, reexpresión en moneda homogénea, RT 26, RG CNV 562/09, entidad pequeña, entidad mediana, Res. JG 539/18, RG CNV 777/18]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Normas contables en Argentina

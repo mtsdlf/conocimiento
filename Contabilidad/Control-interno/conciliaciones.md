@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una conciliación compara dos registros independientes del mismo saldo (los libros y el extracto del banco, el auxiliar de clientes y su cuenta de control) y explica cada diferencia, para corregir lo que está mal y detectar lo que no debería haber pasado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 8.6 Define the Purpose of a Bank Reconciliation: https://openstax.org/books/principles-financial-accounting/pages/8-6-define-the-purpose-of-a-bank-reconciliation-and-prepare-a-bank-reconciliation-and-its-associated-journal-entries"
@@ -15,7 +15,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md, sección 4 (2026-11-27)"
 aliases: [conciliación bancaria, bank reconciliation, conciliación de cuentas, account reconciliation, conciliación del auxiliar, conciliación intercompañía, intercompany reconciliation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conciliaciones

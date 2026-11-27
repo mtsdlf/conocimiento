@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Servicios profesionales y proyectos: de dónde vienen la hora facturable y el PSA, las escuelas que discuten cómo gana plata una firma, qué tan firme es lo que se sabe, qué leer y qué cifras desconfiar, y los términos con su nombre en inglés.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "WilmerHale (2010), Slice of History: Reginald Heber Smith and the Birth of the Billable Hour (citas releídas en la página; el resto, incluido lo de Kuckes, a través de un lector automático que resume la página): https://www.wilmerhale.com/en/insights/publications/slice-of-history-reginald-heber-smith-and-the-birth-of-the-billable-hour-august-9-2010"
@@ -23,7 +23,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/ (cinco informes, 2026-11-27)"
 aliases: [fundamentos de servicios profesionales, historia de la hora facturable, billable hour, hora facturable, historia del PSA, escuelas de servicios profesionales, crítica de la hora facturable]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de servicios profesionales

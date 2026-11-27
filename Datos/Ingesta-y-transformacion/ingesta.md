@@ -3,7 +3,7 @@ resumen: >-
   La ingesta es traer el dato crudo desde los sistemas donde nace hasta el almacén donde se
   analiza, por lotes cada cierto tiempo, en flujo a medida que ocurre o copiando los cambios de una
   base.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Joe Reis y Matt Housley, Fundamentals of Data Engineering, cap. 7 Ingestion (O'Reilly, 2022); no leído, estructura vía buscador: https://oreilly.com/library/view/fundamentals-of-data/9781098108298"
@@ -14,7 +14,7 @@ fuentes:
   - "Datos/.investigacion/modelado-e-ingesta.md (sección 7)"
 aliases: [ingesta de datos, data ingestion, carga de datos, CDC, change data capture, streaming, batch]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ingesta

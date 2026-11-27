@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una compra a crédito crea una cuenta a pagar al proveedor, que nace cuando la empresa recibe lo que pidió, se confirma con la factura después de cruzarla con el pedido y la recepción, y se cancela con el pago.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), 6.3 compras con inventario permanente: https://openstax.org/books/principles-financial-accounting/pages/6-3-analyze-and-record-transactions-for-merchandise-purchases-using-the-perpetual-inventory-system"
@@ -14,7 +14,7 @@ fuentes:
   - "Procesos-de-negocio/.investigacion/de-la-compra-al-pago.md, secciones 3 y 4 (2026-11-27)"
 aliases: [compras, cuentas a pagar, cuentas por pagar, accounts payable, proveedores, factura de proveedor, vendor invoice, cruce de tres vías, conciliación de tres vías, three-way match, recibido no facturado, GRNI, goods received not invoiced]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Compras y cuentas a pagar

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las normas contables son las reglas que dicen cómo se reconoce, se mide y se presenta cada hecho en los estados contables, para que los de empresas distintas se puedan comparar; las emite el IASB para el mundo (las NIIF y la NIIF para las PYMES) y cada país para sus empresas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "IFRS Foundation, Conceptual Framework for Financial Reporting (página, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/"
@@ -19,7 +19,7 @@ fuentes:
   - "Contabilidad/.investigacion/posicion-contraria.md (2026-11-27), sección 4"
 aliases: [normas contables, normas de información financiera, NIIF, IFRS, NIC, IAS, IFRS Accounting Standards, NIIF para las PYMES, IFRS for SMEs, Marco Conceptual, Conceptual Framework, IASB, estados consolidados, consolidación, consolidated financial statements, NIIF 10, IFRS 10, valor razonable, fair value, costo histórico, historical cost]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Normas contables

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina el IVA lo regula la Ley de Impuesto al Valor Agregado (texto ordenado en 1997), con una alícuota general del 21 %, una aumentada del 27 % y una del 50 % de la general (10,5 %); lo liquidan cada mes los responsables inscriptos, que desde noviembre de 2025 declaran por IVA Simple, y alcanza también a los servicios digitales del exterior.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley de Impuesto al Valor Agregado, texto ordenado en 1997 (Decreto 280/97), texto actualizado en InfoLEG (leído el 2026-11-27): https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42701/texact.htm"
@@ -14,7 +14,7 @@ fuentes:
   - "Impuestos/.investigacion/impuestos-al-consumo.md (2026-11-27)"
 aliases: [IVA en Argentina, Ley de IVA, Ley 23.349, Decreto 280/97, alícuota del IVA, 21 %, 10,5 %, 27 %, responsable inscripto, crédito fiscal, débito fiscal, prorrateo del crédito fiscal, saldo técnico, saldo de libre disponibilidad, IVA Simple, RG 5705/2025, Portal IVA, F.2051, libro de IVA digital, RG 4597, RG 5707/2025, servicios digitales, RG 4240/18]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # IVA en Argentina

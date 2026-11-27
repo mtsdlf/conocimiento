@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las operaciones son los hechos habituales de una empresa (vender, comprar, gastar, pagar sueldos, usar una máquina, operar en otra moneda) y cada una llega al registro con un documento que dispara un asiento de forma conocida.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Romney, Steinbart, Mula, McNamara y Tonkin, Accounting Information Systems, ed. australasiana (Pearson Australia, 2013), cap. 1, pp. 11-12: https://researchonline.jcu.edu.au/38329/11/38329_Romney_etal_2013_FrontPages.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Contabilidad/.investigacion/operaciones.md (2026-11-27)"
 aliases: [operaciones contables, ciclos contables, ciclos de transacciones, transaction cycles, sueldos, asiento de sueldos, payroll accounting]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Operaciones

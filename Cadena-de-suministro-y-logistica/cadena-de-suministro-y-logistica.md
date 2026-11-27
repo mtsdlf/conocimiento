@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cadena de suministro y logística, como dominio de negocio, es lo que una empresa planifica y hace con la mercadería entre un lugar y otro: cuánto va a vender, cómo acuerda un plan entre áreas, cuánto manda a cada depósito, dónde los tiene, cómo mueve la carga, cómo despacha y entrega, y qué cambia cuando la mercadería cruza una frontera. Es lo que llevan la planificación de un ERP, un sistema de gestión de transporte y uno de comercio exterior, pero existe antes del software: una planilla de ventas por mes, una reunión entre áreas y una hoja de ruta por camión hacen lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 4.1 «Plan for and align supply chain resources» y 4.4 «Manage logistics and warehousing» (4.4.1 a 4.4.4): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/ (informes de 2026-11-27)"
 aliases: [cadena de suministro, cadena de abastecimiento, supply chain, supply chain management, SCM, gestión de la cadena de suministro, logística, logistics, distribución, distribución física, planificación de la cadena]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cadena de suministro y logística

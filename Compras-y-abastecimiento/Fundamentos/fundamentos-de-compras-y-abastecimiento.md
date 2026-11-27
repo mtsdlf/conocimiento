@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Compras y abastecimiento: cómo pasó de oficina de pedidos a gestión del abastecimiento, cómo dividen el dominio CIPS, APQC y esta base, las escuelas que discuten cómo tratar al proveedor, la evidencia contra lo que más se repite y dónde se produce el saber del campo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kraljic (1983), Purchasing must become supply management, Harvard Business Review, sept-oct, 109-117: https://hbr.org/1983/09/purchasing-must-become-supply-management (solo la apertura, en la página de HBR; el texto completo no se pudo leer)"
@@ -25,7 +25,7 @@ fuentes:
   - "Compras-y-abastecimiento/.investigacion/abastecimiento-estrategico.md y orden-y-seguimiento.md (2026-11-27)"
 aliases: [fundamentos de compras, historia de las compras, escuelas de compras, purchasing and supply management, de purchasing a supply management, mitos de compras, ahorros de compras, costo por orden de compra]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de compras y abastecimiento

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El registro de activos es lo que una empresa guarda de cada equipo que mantiene: qué es, dónde está instalado, de qué está hecho, cuánto importa que falle y qué le pasó. Es el dato maestro del dominio: cada plan de mantenimiento y cada orden de trabajo se abren sobre un equipo de este registro, y al cerrarse le escriben el historial.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), categoría 10.0 «Acquire, Construct, and Manage Assets», pp. 27-28: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/apqc-10.md (2026-11-27)"
 aliases: [registro de equipos, maestro de equipos, equipment master, asset register, asset registry, inventario de activos, activo físico, physical asset, ficha del equipo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registro de activos

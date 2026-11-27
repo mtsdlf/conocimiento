@@ -3,7 +3,7 @@ resumen: >-
   Lo que se sabía al 2026-11-27 de la industria de servicios de software: cómo se cobra, de dónde
   sale el margen, cuánto mide el mercado en el mundo, en Estados Unidos y en Argentina, y qué le
   está haciendo la IA a los precios y a las formas de cobro, con la firmeza de cada cifra.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Relevamiento propio de la industria (experiencia propia, noviembre de 2026, consultora de software), con las fuentes que siguen"
@@ -42,7 +42,7 @@ fuentes:
   - "INE, sector TIC 2024 (2026-07-16): https://ine.es/dyngs/Prensa/ISTIC2024.htm"
 aliases: [industria de software a medida, servicios de TI, IT services, consultoras de software, software factory, tiempo y materiales, staff augmentation, alquiler de gente, AI Pods]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Servicios de software y la IA (2026-11)

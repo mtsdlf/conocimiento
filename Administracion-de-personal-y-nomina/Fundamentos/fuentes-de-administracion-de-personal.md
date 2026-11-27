@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El saber de la administración de personal y nómina se produce en seis lugares de distinto peso, y para cada vertical hay un recurso que conviene leer primero.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), copia de la Universidad de Minnesota: https://hrlibrary.umn.edu/instree/ilo95.html"
@@ -37,7 +37,7 @@ fuentes:
   - "Investigación de taxonomías del mapa, issue #96, rama research/taxonomias-externas (2026-11-27)"
 aliases: [fuentes de nómina, bibliografía de administración de personal, qué leer de nómina, payroll sources, HR sources]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de administración de personal

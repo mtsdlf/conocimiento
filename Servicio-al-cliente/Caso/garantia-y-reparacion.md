@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un caso de garantía y reparación es el que trata un producto que falló o que el cliente quiere devolver: se revisa si está cubierto, se autoriza o se rechaza, y se decide la resolución (reparar, cambiar, devolver la plata o compensar). Lo propio del servicio al cliente es esa decisión y el registro que une los pasos; el paquete, el taller, el stock y la nota de crédito son de otros dominios.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), Cross-Industry, 6.1.6, 6.2.4, 6.3 y 6.5.4, copia de la IFRC, leída el 2026-11-27: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 1 y 5"
 aliases: [garantía, reclamo de garantía, warranty claim, RMA, return merchandise authorization, return material authorization, RGA, autorización de devolución, cambio de producto, reparación, servicio técnico, posventa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Garantía y reparación

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La tesorería es la parte de la administración de una empresa en marcha que maneja su plata real: sabe cuánta hay y dónde, proyecta cuánta va a haber, cobra lo que le deben, paga lo que debe, consigue la que falta, coloca la que sobra y acota los riesgos financieros.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), categorías 9.2, 9.6 y 9.7, pp. 23-26 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Tesoreria/.investigacion/argentina-y-fundamentos-verificacion.md (2026-11-27)"
 aliases: [tesorería, treasury, treasury management, gestión de tesorería, finanzas de la empresa en marcha, finanzas de corto plazo, gestión de caja, cash management, administración financiera de corto plazo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tesorería
