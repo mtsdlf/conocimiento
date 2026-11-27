@@ -65,6 +65,8 @@ Doble excepcionalidad (2e, por *twice exceptional*) se llama a un chico con alta
 
 Lo sostiene más de una fuente independiente, pero ninguna se leyó completa, y no hay una cifra confiable de cuántos chicos son 2e. Para una familia, la consecuencia práctica es una sola: un chico adelantado con problemas de conducta, de atención, de lenguaje o de relación con otros se consulta por eso, igual que cualquier otro, y la capacidad no explica ni descarta nada. Las [señales de alarma](../Desarrollo/senales-de-alarma.md) valen para él como para todos. El diagnóstico lo hace un profesional, y esta base no lo reemplaza.
 
+Los trastornos que una capacidad alta puede tapar (TDAH, dificultades de aprendizaje, autismo) se describen en [neurodesarrollo](../../Psicologia-infantil/Psicopatologia/Neurodesarrollo/neurodesarrollo.md).
+
 ## Qué tan firme es lo que dice esta nota
 
 Warne, la nota de Psychology Today, el estudio israelí, el estudio de Mueller y Dweck, las tres revisiones sobre perfeccionismo y la revisión sobre enmascaramiento se conocen solo por su resumen.

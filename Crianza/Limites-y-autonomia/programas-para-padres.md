@@ -53,6 +53,8 @@ Todas las cifras son las de los resúmenes de los estudios. SMD es la diferencia
 
 ## Qué falta
 
+Estos programas son también el tratamiento de primera línea cuando la conducta difícil llega a ser un trastorno: dónde entran entre los demás tratamientos está en [qué funciona para qué](../../Psicologia-infantil/Intervencion/que-funciona-para-que.md).
+
 ## Qué tan firme es lo que dice esta nota
 
 Leijten, Cochrane, Triple P, Incredible Years y PCIT se conocen por los resúmenes de cada estudio, y Kaminski por un resumen secundario. La disputa sobre Triple P se conoce por el resumen del buscador. Que el tiempo fuera pueda estar en casi todos los programas es una posibilidad, no algo verificado.

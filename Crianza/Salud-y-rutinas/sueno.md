@@ -61,3 +61,5 @@ Cómo acompañar los miedos y los cambios que pueden acompañar a las pesadillas
 > Sin fuente todavía: cuándo se deja la siesta, colecho entre los 2 y los 6 años (la evidencia conocida es sobre bebés y muerte súbita), despertares nocturnos y rutinas para dormir. Tampoco se encontró un documento de la SAP sobre horas de sueño: las cifras "de la SAP" solo aparecen en notas de prensa.
 
 El tiempo de pantalla, que la OMS cuenta dentro de las mismas 24 horas, está en [pantallas](../Juego-y-aprendizaje/pantallas.md).
+
+Los problemas de sueño que pasan a ser un trastorno están en [otros trastornos](../../Psicologia-infantil/Psicopatologia/otros-trastornos.md).
