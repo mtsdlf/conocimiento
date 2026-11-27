@@ -59,7 +59,9 @@ la de BI, justamente para que todas las herramientas lean la misma definición.
 
 Después viene la forma. Un gráfico codifica cada número con una marca (una posición, una longitud,
 un ángulo, un color), y el ojo compara unas mejor que otras. Qué gráfico corresponde a qué relación
-y qué errores deforman la lectura está en [elegir un gráfico](elegir-un-grafico.md).
+y qué errores deforman la lectura está en [elegir un gráfico](elegir-un-grafico.md); cómo se arma
+cada gráfico dentro de Excel o Sheets, en
+[gráficos en la planilla](../../Planillas-de-calculo/Analisis/graficos-en-la-planilla.md).
 
 ## Qué se sabe de si un tablero mejora las decisiones
 

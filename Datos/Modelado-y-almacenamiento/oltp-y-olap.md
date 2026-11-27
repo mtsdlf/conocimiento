@@ -24,7 +24,9 @@ pocas columnas); por esa diferencia, el análisis se hace sobre una copia.
 
 Las siglas vienen de *online transaction processing* y *online analytical processing*. Es la
 primera decisión de [modelado y almacenamiento](modelado-y-almacenamiento.md): de qué base sale un
-número.
+número. La base de la aplicación, con sus modelos, sus [transacciones](../../Bases-de-datos/Transacciones/transaccion.md)
+y los [criterios para elegirla](../../Bases-de-datos/Elegir-una-base/criterios-de-eleccion.md), es
+el tema [Bases de datos](../../Bases-de-datos/bases-de-datos.md).
 
 ## Dos maneras de leer la misma tabla de pedidos
 

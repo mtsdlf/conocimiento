@@ -105,7 +105,8 @@ en `WHERE`.
 Unir una fila con N filas de otra tabla produce N filas, y cada una repite los datos de la primera.
 Eso es correcto mientras se miren las filas; se vuelve un error al sumar. Al problema se lo llama
 fan-out. La documentación oficial no lo trata como tema; se deriva de la definición de inner join
-citada arriba.
+citada arriba. Cómo lo chequea un analista y qué pasa con las herramientas de BI que lo corrigen
+solas está en [SQL para análisis](../../Datos/Analisis/sql-para-analisis.md#un-join-que-multiplica-filas).
 
 El envío es una columna del pedido. El pedido 1 de Ana costó 1500 de envío y tiene dos ítems:
 
@@ -123,7 +124,9 @@ GROUP BY p.cliente_id;
 | 4 | 0.00 | 12600.00 |
 
 La suma de productos está bien; la del envío está duplicada, porque cada pedido apareció una vez por
-ítem. No hay error ni advertencia. La salida es agregar cada tabla a su nivel antes de unirlas:
+ítem. No hay error ni advertencia. La salida es agregar cada tabla a su nivel (su
+[grano](../../Datos/Analisis/sql-para-analisis.md#el-grano-qué-es-una-fila), lo que representa una
+fila) antes de unirlas:
 
 ```sql
 SELECT p.cliente_id, sum(p.envio) AS envio, sum(t.productos) AS productos

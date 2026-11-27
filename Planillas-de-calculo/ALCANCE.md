@@ -6,7 +6,10 @@ escuela:
 fuera:
   - "Modelado financiero en profundidad (flujo de caja, valuación): Emprender/Finanzas/ para lo conceptual"
   - "Programación de macros en detalle: solo qué son, cuándo convienen y por dónde empezar"
-  - "Análisis estadístico y visualización en general: Datos/"
+  - "Limpieza de datos en general (datos ordenados según Wickham, faltantes, duplicados, atípicos): Datos/Analisis/limpieza-de-datos.md"
+  - "Elegir un gráfico y armar un tablero: Datos/Visualizacion-y-BI/elegir-un-grafico.md y tablero.md"
+  - "Análisis estadístico: Datos/Estadistica/"
+  - "Qué es una base de datos y cómo se elige: Bases-de-datos/"
 fuentes: []
 preguntas:
   - "¿Cómo armo una planilla de costos que otro pueda tocar sin romperla?"
@@ -70,8 +73,8 @@ Planillas-de-calculo/
 
 - Los nombres de funciones van en castellano con el inglés al lado, porque la persona trabaja en
   castellano y la documentación y los foros suelen estar en inglés.
-- Limpieza de datos y elegir un gráfico en general están en Datos (otra rama al 2026-11-27); acá va
-  lo propio de la planilla y se enlaza cuando las dos ramas estén en `main`.
+- Limpieza de datos y elegir un gráfico en general están en Datos; acá va lo propio de la planilla, y
+  las notas se enlazan en los dos sentidos (issue #77).
 - La vertical de automatización se llama `Automatizar-y-compartir/` porque compartir y colaborar no es
   automatizar, pero no da para una vertical propia (lo señaló la investigación).
 - El límite de Google Sheets es de 20 millones de celdas desde septiembre de 2026, no los 10 millones

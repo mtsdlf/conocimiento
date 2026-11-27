@@ -5,7 +5,11 @@ nivel: se da por sabido usar una planilla; no se dan por sabidos SQL ni bases de
 escuela:
 fuera:
   - "El interior del motor (páginas, B-tree, LSM, WAL) y la operación fina (tuning, replicación a mano): queda afuera por pedido"
-  - "Modelo relacional en detalle, OLTP y OLAP, almacenes analíticos y SQL para análisis: Datos/Modelado-y-almacenamiento/ y Datos/Analisis/"
+  - "Teoría del modelo relacional (claves según Codd, normalización): Datos/Modelado-y-almacenamiento/modelo-relacional.md"
+  - "Base de la aplicación contra base para analizar: Datos/Modelado-y-almacenamiento/oltp-y-olap.md"
+  - "Almacenes analíticos: Datos/Modelado-y-almacenamiento/almacenes-analiticos.md"
+  - "SQL para análisis (el grano, el uso del analista): Datos/Analisis/sql-para-analisis.md"
+  - "La planilla y cuándo deja de alcanzar: Planillas-de-calculo/ (Planillas-de-calculo/cuando-pasar-a-una-base.md)"
   - "Servicios de bases de datos de Azure: Cloud/Datos-operacionales/"
   - "Multi-tenancy: Arquitectura/Sistemas-distribuidos/multi-tenancy.md"
 fuentes: []
@@ -31,7 +35,7 @@ persona pidió conceptos para entender y elegir, y SQL en profundidad sin el int
 Bases-de-datos/
   bases-de-datos.md           el todo: qué hace una base, sus partes y cómo se elige
   Modelos-de-datos/           cómo organiza los datos cada familia de bases
-    base-relacional           tablas, claves y SQL; el modelo en detalle está en Datos
+    base-relacional           tablas, claves y SQL; la teoría está en Datos/Modelado-y-almacenamiento/modelo-relacional.md
     base-de-documentos        documentos JSON anidados, esquema flexible
     base-clave-valor          una clave, un valor; caché y sesiones
     modelos-especializados    grafos, series de tiempo, búsqueda, vectores
@@ -64,6 +68,6 @@ Bases-de-datos/
 
 ## Supuestos
 
-- SQL vive acá como lenguaje; `Datos/Analisis/sql-para-analisis.md` (en otra rama al 2026-11-27)
-  queda para el uso del analista y se enlazan cuando las dos ramas estén en `main`.
+- SQL vive acá como lenguaje; `Datos/Analisis/sql-para-analisis.md` queda para el grano y el uso
+  del analista, y las dos se enlazan en los dos sentidos (issue #77).
 - Respaldo y replicación entran solo como requisitos al elegir, no como operación.

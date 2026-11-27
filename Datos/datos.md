@@ -26,6 +26,10 @@ dos mitades que comparten el mismo dato. La gestión y la ingeniería de datos l
 cuidan. El análisis lo convierte en una respuesta. El tema empieza donde un sistema registra un
 hecho y termina en la decisión. Qué decidir con esa respuesta (qué construir, en qué canal
 invertir) es de [Producto](../Producto/producto.md) y de [Marketing](../Marketing/marketing.md).
+Dos temas vecinos cubren las herramientas: [Bases de datos](../Bases-de-datos/bases-de-datos.md)
+explica la base de un sistema y [SQL](../Bases-de-datos/SQL/sql.md) como lenguaje, y
+[Planillas de cálculo](../Planillas-de-calculo/planillas-de-calculo.md), la planilla como
+herramienta de trabajo.
 
 La idea que ordena el tema: un número vale lo que valen su definición y su camino. Dos personas que
 cuentan «ventas del mes» con filtros distintos, o sobre una tabla con duplicados, llegan a números
@@ -99,7 +103,8 @@ no aguanta (lectura de la base).
 - Si tenés que saber si los clientes vuelven: [análisis de cohortes](Analitica-de-producto/Cohortes/analisis-de-cohortes.md) y [retención y churn](Analitica-de-producto/Retencion-y-churn/retencion-y-churn.md).
 - Si tenés que ver dónde se pierden las compras en una tienda: [embudo](Analitica-de-producto/embudo.md), y para el checkout en sí, [Comercio electrónico](../Comercio-electronico/comercio-electronico.md).
 - Si tenés que agrupar clientes para tratarlos distinto: [segmentación](Analisis/segmentacion-de-clientes.md).
-- Si te llegó una planilla sucia: [limpieza de datos](Analisis/limpieza-de-datos.md).
+- Si te llegó una planilla sucia: [limpieza de datos](Analisis/limpieza-de-datos.md), y para ordenarla dentro de Excel o Sheets, [datos ordenados](../Planillas-de-calculo/Datos-en-la-planilla/datos-ordenados.md) de Planillas.
+- Si tenés que escribir una consulta SQL: [SQL para análisis](Analisis/sql-para-analisis.md) para el grano y las trampas que cambian un número sin error, y [SQL](../Bases-de-datos/SQL/sql.md) de Bases de datos para el lenguaje, con su [ruta de ejercicios](../Bases-de-datos/Fundamentos/ruta-de-sql.md).
 - Si tenés que contar un hallazgo a alguien que no es de datos: [contar con datos](Visualizacion-y-BI/contar-con-datos.md) y [elegir un gráfico](Visualizacion-y-BI/elegir-un-grafico.md).
 - Si tenés que elegir entre la base de la aplicación, un data warehouse o un data lake: [OLTP y OLAP](Modelado-y-almacenamiento/oltp-y-olap.md) y [almacenes analíticos](Modelado-y-almacenamiento/almacenes-analiticos.md); antes, [cuánta infraestructura necesita un negocio chico](#cuánta-infraestructura-necesita-un-negocio-chico).
 - Si tenés que decidir qué eventos registrar en una tienda o una app: [tabla de eventos](Modelado-y-almacenamiento/tabla-de-eventos.md).

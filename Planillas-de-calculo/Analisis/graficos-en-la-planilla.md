@@ -24,8 +24,9 @@ el gráfico que se arma desde un rango, el gráfico dinámico que sigue a una ta
 minigráfico que entra en una sola celda.
 
 Qué gráfico conviene para cada pregunta (líneas para una tendencia, barras para comparar) es un tema
-general de visualización y está en [Datos](../../Datos/datos.md). Acá va cómo se arma cada tipo
-dentro de la planilla y en qué difieren las dos aplicaciones.
+general de visualización y está en [elegir un gráfico](../../Datos/Visualizacion-y-BI/elegir-un-grafico.md),
+del tema Datos; cómo se arma un tablero de una pantalla, en [tablero](../../Datos/Visualizacion-y-BI/tablero.md).
+Acá va cómo se arma cada tipo dentro de la planilla y en qué difieren las dos aplicaciones.
 
 ## Tres gráficos según de dónde salen los datos
 
@@ -100,10 +101,15 @@ nuevos, una tabla dinámica que no se actualizó ([tabla dinámica](tabla-dinami
 guardadas como texto que el gráfico ordena alfabéticamente
 ([tipos de dato](../Modelo-de-la-planilla/tipos-de-dato.md)).
 
+Otros dos errores de lectura son de cualquier gráfico, no solo del de una planilla: el eje de las
+barras que no empieza en cero y la torta con muchas porciones. Por qué las barras van desde cero
+(y las líneas no siempre) está en
+[elegir un gráfico](../../Datos/Visualizacion-y-BI/elegir-un-grafico.md#el-eje-de-las-barras-empieza-en-cero),
+y cuándo se lee una torta, en [tortas y doble eje](../../Datos/Visualizacion-y-BI/elegir-un-grafico.md#tortas-y-doble-eje).
+
 > [!NOTE]
-> Sin fuente todavía: errores de lectura propios de los gráficos de planilla, como el eje vertical
-> que no empieza en cero o la torta con muchas porciones; lo general de elegir y leer un gráfico va al
-> tema [Datos](../../Datos/datos.md).
+> Sin fuente todavía: errores de lectura propios de los gráficos de planilla, como dónde empieza por
+> defecto el eje vertical en Excel y en Sheets.
 
 ## Qué leer
 

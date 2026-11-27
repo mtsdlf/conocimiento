@@ -9,6 +9,9 @@ fuera:
   - "North Star, activación y experimento A/B: Producto/Medicion/"
   - "Atribución, incrementalidad y economía unitaria: Marketing/Medicion/"
   - "Observabilidad de sistemas: DevOps/"
+  - "La base de un sistema (modelos, transacciones, elegir una): Bases-de-datos/"
+  - "SQL como lenguaje (cláusulas, joins, agregación, NULL, ventanas): Bases-de-datos/SQL/"
+  - "La planilla como herramienta (fórmulas, tablas dinámicas, gráficos en Excel y Sheets, versiones y límites): Planillas-de-calculo/"
 fuentes: []
 preguntas:
   - "Me piden un tablero de ventas de un comercio: ¿qué pasos sigo, desde los datos crudos hasta el tablero?"
@@ -53,7 +56,7 @@ Datos/
     tipos-de-analitica         descriptiva, diagnóstica, predictiva, prescriptiva
     pregunta-de-analisis       una pregunta que los datos pueden contestar
     limpieza-de-datos
-    sql-para-analisis          joins, agregaciones, ventanas
+    sql-para-analisis          el grano y para qué usa el analista cada pieza; el lenguaje, en Bases-de-datos/SQL/
     analisis-exploratorio
     segmentacion-de-clientes
     ficha: planilla, SQL, Python

@@ -23,7 +23,7 @@ La agregación junta muchas filas en una con funciones como count, sum o avg; co
 por grupo (un total por cliente, por mes, por producto) y con HAVING filtra los grupos que
 resultan.
 
-Es la tabla dinámica de la planilla escrita como consulta. Se evalúa después de `FROM` y `WHERE` y
+Es la [tabla dinámica](../../Planillas-de-calculo/Analisis/tabla-dinamica.md) de la planilla escrita como consulta. Se evalúa después de `FROM` y `WHERE` y
 antes de la lista de `SELECT`, según el orden de la [consulta SELECT](consulta-select.md).
 
 ## El total vendido por cliente, incluidos los que no compraron
@@ -144,7 +144,9 @@ los distingue, no se leyó en esta ronda.
 
 Si un total sale el doble o el triple de lo esperado, casi siempre hay un join de uno a muchos
 antes del `GROUP BY` que repite filas. El diagnóstico y la salida (agregar cada tabla a su nivel
-antes de unir) están en [join](join.md#un-join-que-multiplica-filas).
+antes de unir) están en [join](join.md#un-join-que-multiplica-filas). Ese nivel es el
+[grano](../../Datos/Analisis/sql-para-analisis.md#el-grano-qué-es-una-fila) de la tabla: qué
+representa una fila.
 
 ## Para leer en la fuente
 

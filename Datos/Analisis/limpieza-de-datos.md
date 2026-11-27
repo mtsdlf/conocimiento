@@ -48,6 +48,11 @@ Los cinco problemas más comunes, en sus palabras, con un ejemplo de comercio:
 | «Multiple types of observational units are stored in the same table» | Datos del cliente repetidos en cada venta | Una tabla de clientes y otra de ventas |
 | «A single observational unit is stored in multiple tables» | Una hoja de ventas por mes | Unir las hojas en una tabla con columna de mes |
 
+Cómo se aplica la regla dentro de una planilla, con las prácticas de carga de Broman y Woo (una
+cosa por celda, un solo rectángulo, sin celdas combinadas) y el paso de la vista ancha a la larga en
+Excel y Sheets, está en [datos ordenados](../../Planillas-de-calculo/Datos-en-la-planilla/datos-ordenados.md),
+del tema Planillas de cálculo.
+
 Ordenar es la parte de la limpieza que tiene un criterio claro. Lo que sigue son decisiones que
 cambian la respuesta y dependen de la [pregunta](pregunta-de-analisis.md).
 
@@ -79,7 +84,9 @@ duplicado hay que saber qué es una fila en esa tabla: su
 [grano](sql-para-analisis.md#el-grano-qué-es-una-fila).
 
 Los formatos son el resto: fechas escritas de tres maneras, números con coma o punto decimal,
-importes en pesos y dólares mezclados, texto con espacios de más. El programa del examen PL-300
+importes en pesos y dólares mezclados, texto con espacios de más. Las funciones de planilla que
+parten, limpian y convierten texto y fechas están en
+[texto y fechas](../../Planillas-de-calculo/Formulas/texto-y-fechas.md). El programa del examen PL-300
 de Microsoft pone en «Profile and clean the data» tareas como «Resolve inconsistencies, unexpected
 or null values, and data quality issues», y elegir el tipo de dato de cada columna en la etapa
 siguiente.

@@ -27,7 +27,9 @@ Es el tramo del [recorrido del dato](../datos.md#del-hecho-registrado-a-la-decis
 número se vuelve respuesta. Recibe las tablas que dejan
 [Ingesta y transformación](../Ingesta-y-transformacion/ingesta-y-transformacion.md) y
 [Modelado y almacenamiento](../Modelado-y-almacenamiento/modelado-y-almacenamiento.md), o una
-planilla exportada de la tienda cuando no hay nada de eso. Le pide a
+planilla exportada de la tienda cuando no hay nada de eso (cómo se trabaja esa planilla es el tema
+[Planillas de cálculo](../../Planillas-de-calculo/planillas-de-calculo.md); SQL como lenguaje, la
+vertical [SQL](../../Bases-de-datos/SQL/sql.md) de Bases de datos). Le pide a
 [Estadística](../Estadistica/estadistica.md) qué se puede concluir de lo que encuentra, se aplica a
 usuarios y compras en [Analítica de producto](../Analitica-de-producto/analitica-de-producto.md) y
 entrega lo encontrado a [Visualización y BI](../Visualizacion-y-BI/visualizacion-y-bi.md). Se lee
@@ -113,7 +115,7 @@ La mayoría de las fallas nacen antes de la consulta o después del gráfico, no
 - [Pregunta de análisis](pregunta-de-analisis.md) — cómo se pasa de un pedido vago a una pregunta que los datos pueden contestar. Va primero.
 - [Tipos de analítica](tipos-de-analitica.md) — descriptiva, diagnóstica, predictiva y prescriptiva: qué pregunta contesta cada una y por qué no son una escalera.
 - [Limpieza de datos](limpieza-de-datos.md) — datos ordenados, faltantes, duplicados, atípicos y formatos sobre la tabla del analista.
-- [SQL para análisis](sql-para-analisis.md) — grano, joins y fan-out, agregación, NULL y funciones de ventana, con una tabla de ventas.
+- [SQL para análisis](sql-para-analisis.md) — el grano y para qué usa el analista cada pieza del lenguaje (joins y fan-out, agregación, NULL, ventanas); el lenguaje está en [SQL](../../Bases-de-datos/SQL/sql.md) de Bases de datos.
 - [Análisis exploratorio](analisis-exploratorio.md) — mirar los datos antes de resumirlos, para generar hipótesis.
 - [Segmentación de clientes](segmentacion-de-clientes.md) — agrupar clientes por lo que compran, con RFM, y en qué se diferencia de una cohorte.
 - [Herramientas del analista](herramientas-del-analista.md) — ficha con planilla, SQL y Python, con versiones a 2026-11-27.

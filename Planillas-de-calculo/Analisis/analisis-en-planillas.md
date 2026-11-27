@@ -25,8 +25,10 @@ Recibe de [Datos en la planilla](../Datos-en-la-planilla/datos-en-la-planilla.md
 que tiene que estar [ordenada](../Datos-en-la-planilla/datos-ordenados.md) para que el análisis
 funcione sin preparación. Las [fórmulas](../Formulas/formulas.md) son la otra forma de resumir: lo
 que una tabla dinámica muestra con arrastrar campos, una suma con condiciones lo deja fijo en una
-celda. Lo general del análisis (estadística, qué gráfico elegir, tableros) está en el tema
-[Datos](../../Datos/datos.md); acá va lo propio de la planilla.
+celda. Lo general del análisis está en el tema [Datos](../../Datos/datos.md): el proceso de una
+pregunta a una respuesta en [Análisis](../../Datos/Analisis/analisis.md), qué gráfico elegir en
+[elegir un gráfico](../../Datos/Visualizacion-y-BI/elegir-un-grafico.md) y los tableros en
+[tablero](../../Datos/Visualizacion-y-BI/tablero.md); acá va lo propio de la planilla.
 
 ## Tres preguntas, tres herramientas
 

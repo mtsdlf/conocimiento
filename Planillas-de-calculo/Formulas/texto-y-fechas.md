@@ -31,7 +31,8 @@ Los datos de un negocio rara vez llegan limpios: un código de producto que trae
 pegada, un nombre con espacios al final, una fecha de un sistema que entra como texto. Para una
 limpieza que se repite cada mes, [Power Query](../Datos-en-la-planilla/power-query.md) la hace una
 vez y la guarda; las funciones de esta nota sirven para arreglos dentro de la planilla. La
-limpieza de datos en general está en [Datos](../../Datos/datos.md).
+limpieza de datos en general (ordenar la tabla, faltantes, duplicados, atípicos) está en
+[limpieza de datos](../../Datos/Analisis/limpieza-de-datos.md), del tema Datos.
 
 ## Partir un texto
 
