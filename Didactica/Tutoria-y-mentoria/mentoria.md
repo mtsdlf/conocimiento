@@ -6,8 +6,10 @@ estabilidad: estable
 fuentes:
   - "Eby, Allen, Evans, Ng y DuBois (2008), Does mentoring matter? A multidisciplinary meta-analysis, Journal of Vocational Behavior 72(2), 254-267: https://doi.org/10.1016/j.jvb.2007.04.005 (abstract)"
   - "Kram (1983), Phases of the Mentor Relationship, Academy of Management Journal 26(4), 608-625: https://doi.org/10.2307/255910 (metadatos)"
+  - "Kram e Isabella (1985), Mentoring Alternatives: The Role of Peer Relationships in Career Development, Academy of Management Journal 28(1):110-132: https://bu.edu/sph/files/2012/01/Kram_Mentoring-Alternatives.pdf (texto completo; se leyeron las pp. 110-111)"
   - "EEF Teaching and Learning Toolkit, Mentoring, vía Evidence for Learning: https://evidenceforlearning.org.au/education-evidence/teaching-learning-toolkit/mentoring/"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
+  - "Didactica/.investigacion/fuentes-retroalimentacion-y-tutoria-2026-11.md"
 aliases: [mentoring, mentor, mentorear, mentoreo, mentoría laboral, mentoría académica]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -21,9 +23,16 @@ En el habla corriente, "mentorear" a alguien en un oficio técnico suele incluir
 
 ## Las dos funciones de Kram
 
-Kram (1983), en "Phases of the Mentor Relationship", es el origen de la distinción entre funciones de carrera y funciones psicosociales del mentor, y de la idea de que la relación pasa por cuatro fases. Solo se leyeron los metadatos del artículo, así que qué incluye cada función y cómo se llaman las fases no se dan acá.
+Kram (1983), en "Phases of the Mentor Relationship", es el origen de la distinción entre funciones de carrera y funciones psicosociales del mentor, y de la idea de que la relación pasa por cuatro fases. El artículo no se leyó; el contenido sale de un trabajo posterior de la misma autora, Kram e Isabella (1985), que dice usar las mismas funciones de carrera.
 
-> [!NOTE] Sin fuente todavía: el texto de Kram (1983), con las cuatro fases y el contenido de cada función.
+| Función | Qué incluye | Para qué sirve, según Kram e Isabella |
+|---|---|---|
+| De carrera | Patrocinio, entrenamiento (*coaching*), exposición y visibilidad, trabajo desafiante o protección | Ubicarse en la organización, «learn the ropes» y prepararse para ascender |
+| Psicosocial | Modelo de rol, consejo, confirmación y amistad | Formar «a sense of professional identity and competence» |
+
+Las cuatro fases son iniciación, cultivo, separación y redefinición. En el cultivo, «the range of functions provided by the relationship expands to its maximum». Cambios en la organización o en las personas, como un traslado o más confianza, mueven la relación «to a new phase». Al pasar a la separación y la redefinición, la relación deja de dar muchas de sus funciones centrales (p. 111).
+
+> [!NOTE] Sin fuente todavía: el texto de Kram (1983), con cómo se pasa de una fase a otra y cuánto dura cada una.
 
 ## Cuánto mueve
 

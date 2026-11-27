@@ -4,11 +4,13 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
-  - "Hattie y Timperley (2007), The Power of Feedback, Review of Educational Research 77(1), 81-112: https://www.uky.edu/~gmswan3/575/Hattie_Timperly_2007.pdf (lectura parcial: tamaños de efecto y elogio)"
+  - "Hattie y Timperley (2007), The Power of Feedback, Review of Educational Research 77(1), 81-112: https://www.uky.edu/~gmswan3/575/Hattie_Timperly_2007.pdf (texto completo)"
   - "Kluger y DeNisi (1996), The effects of feedback interventions on performance, Psychological Bulletin 119, 254-284: https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/ (según resumen)"
   - "Wisniewski, Zierer y Hattie (2020), The Power of Feedback Revisited, Frontiers in Psychology, doi 10.3389/fpsyg.2019.03087: https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456 (casi completo)"
+  - "Harks, Rakoczy, Hattie, Besser y Klieme (2014), The effects of feedback on achievement, interest and self-evaluation: The role of feedback's perceived usefulness, Educational Psychology 34(3):269-290, DOI 10.1080/01443410.2013.785384: https://fis.leuphana.de/en/publications/the-effects-of-feedback-on-achievement-interest-and-self-evaluati/ (según su resumen)"
   - "EEF Teaching and Learning Toolkit, Feedback, vía Evidence for Learning: https://www.evidenceforlearning.org.au/teaching-and-learning-toolkit/feedback (segunda mano)"
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
+  - "Didactica/.investigacion/fuentes-retroalimentacion-y-tutoria-2026-11.md"
 aliases: [niveles de feedback, modelo de Hattie y Timperley, feedback levels, retroalimentación sobre la tarea, elogio, praise, feed up feed back feed forward]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -53,7 +55,17 @@ Wisniewski, Zierer y Hattie (2020) no separan los cuatro niveles, pero sí el ti
 
 La retroalimentación de alta información duplica a la correctiva, aunque con muchos menos estudios. También importa qué se mide: el efecto sobre resultados cognitivos fue 0,51 y sobre la motivación 0,33, con 21 % de efectos negativos en motivación. Una retroalimentación puede mejorar lo aprendido y bajar las ganas a la vez.
 
-> [!NOTE] Sin fuente todavía: un análisis que compare los cuatro niveles por separado. Wisniewski et al. (2020) no lo hacen, y en Hattie y Timperley solo se leyó la parte de tamaños de efecto y elogio.
+## Cómo ordenan los niveles Hattie y Timperley
+
+Hattie y Timperley ordenan los niveles con argumentos, no con un metaanálisis por nivel. Su tesis: «FS is the least effective, FR and FP are powerful in terms of deep processing and mastery of tasks, and FT is powerful when the task information subsequently is useful for improving strategy processing or enhancing self-regulation» (pp. 90-91). FS es la persona, FR la autorregulación, FP el proceso y FT la tarea.
+
+Solo dos niveles traen cifras. Para la tarea citan metaanálisis de retroalimentación correctiva con efectos de 1,13, 0,82 y 0,74 (p. 91). Para la persona, los del elogio de la sección anterior. Del proceso y la autorregulación no dan tamaños de efecto propios.
+
+Suman tres matices. La información sobre la tarea rinde más cuando corrige una interpretación equivocada: si falta conocimiento, «further instruction is more powerful than feedback information» (p. 91). Lo que más rinde es pasar de la tarea al proceso y del proceso a la autorregulación. Y mezclar elogio con información de la tarea «is less effective than FT by itself» (p. 92).
+
+Un experimento comparó el nivel de proceso con una nota, según su resumen. Harks, Rakoczy, Hattie, Besser y Klieme (2014) dieron a 146 alumnos de noveno grado retroalimentación escrita de matemática de uno de los dos tipos. La de proceso se percibió como más útil y, por esa vía, mejoró más el rendimiento y el interés. En la autoevaluación no hubo diferencia.
+
+> [!NOTE] Sin fuente todavía: un metaanálisis que compare los cuatro niveles por separado. Wisniewski et al. (2020) no lo hacen, y Hattie y Timperley dan cifras solo para la tarea y el elogio.
 
 ## Cómo se aplica
 

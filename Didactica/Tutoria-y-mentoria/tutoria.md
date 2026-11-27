@@ -8,11 +8,14 @@ fuentes:
   - "Nickow, Oreopoulos y Quan (2020), The Impressive Effects of Tutoring on PreK-12 Learning, NBER w27476: https://www.nber.org/papers/w27476 (resumen)"
   - "Nickow, Oreopoulos y Quan (2023), American Educational Research Journal: https://doi.org/10.3102/00028312231208687 (solo metadatos del buscador)"
   - "Chi, Siler, Jeong, Yamauchi y Hausmann (2001), Learning from human tutoring, Cognitive Science 25(4): https://doi.org/10.1207/s15516709cog2504_1 (abstract)"
+  - "VanLehn, Graesser, Jackson, Jordan, Olney y Rosé (2007), When are tutorial dialogues more effective than reading?, Cognitive Science 31(1):3-62, DOI 10.1080/03640210709336984: https://pubmed.ncbi.nlm.nih.gov/21635287/ (abstract)"
+  - "Fossati, Di Eugenio, Ohlsson, Brown y Chen (2015), Data Driven Automatic Feedback Generation in the iList Intelligent Tutoring System, Technology, Instruction, Cognition and Learning 10:5-26: https://www.oldcitypublishing.com/wp-content/uploads/2016/02/TICLv10n1p5-26Fossati.pdf (texto completo)"
   - "Lepper y Woolverton (2002), The wisdom of practice, en Aronson (ed.), Improving Academic Achievement (según un resumen secundario)"
   - "EEF Teaching and Learning Toolkit, Small group tuition, vía Evidence for Learning: https://evidenceforlearning.org.au/education-evidence/teaching-learning-toolkit/small-group-tuition/"
   - "EEF Teaching and Learning Toolkit, Peer tutoring, revisión de mayo de 2025: https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/peer-tutoring (texto completo, leído el 2026-11-27)"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
+  - "Didactica/.investigacion/fuentes-retroalimentacion-y-tutoria-2026-11.md"
 aliases: [tutoring, tutoría uno a uno, tutoría individual, clases particulares, tutoría en grupos chicos, small group tuition, tutoría de alta dosis, high-dosage tutoring]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -60,6 +63,12 @@ De las dos fuentes sale una pauta práctica: en una sesión uno a uno, quien tut
 
 ## Lo que falta para adultos
 
-No hay en los informes un metaanálisis de tutoría con adultos que aprenden habilidades técnicas. Toda la evidencia de esta nota es escolar o universitaria.
+No se encontró un metaanálisis de tutoría con adultos que aprenden habilidades técnicas. Lo más cercano son dos estudios con universitarios en materias técnicas. Uno compara la tutoría humana con estudiar textos, y el otro, con no recibir instrucción.
 
-> [!NOTE] Sin fuente todavía: evidencia de tutoría con adultos en habilidades técnicas.
+VanLehn, Graesser y otros (2007) compararon en siete experimentos tutoría humana, tutores por computadora y lectura de textos, en física cualitativa y con el mismo contenido. Según el abstract, la tutoría ganó, con efectos grandes, solo cuando novatos («students who had not taken college physics») estudiaban material escrito para quienes ya la habían cursado. Cuando el material correspondía al nivel de cada uno, el diálogo con tutor «was not reliably more effective than the text-based control conditions».
+
+Fossati, Di Eugenio y otros (2015) midieron listas enlazadas, un tema de programación de los primeros cursos universitarios. Con 54 alumnos, el puntaje medio con tutoría humana subió de 0,40 a 0,54, contra una ganancia de 0,01 de un grupo sin instrucción (53 alumnos). Esa fue una de las dos únicas diferencias significativas del estudio; su mejor tutor por computadora ganó lo mismo (0,14), con 30 alumnos.
+
+La lectura para un mentor técnico es inferencia: sentarse uno a uno rinde sobre todo cuando quien aprende no tiene el nivel que el material supone.
+
+> [!NOTE] Sin fuente todavía: evidencia de tutoría con adultos que trabajan o se forman en un oficio técnico, fuera de la universidad.

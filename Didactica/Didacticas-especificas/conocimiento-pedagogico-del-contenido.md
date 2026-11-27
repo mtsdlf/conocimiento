@@ -6,11 +6,12 @@ estabilidad: estable
 fuentes:
   - "Shulman (1986), Those Who Understand: Knowledge Growth in Teaching, Educational Researcher 15(2), 4-14, DOI 10.3102/0013189X015002004: https://home.miracosta.edu/rfrench/documents/Shulman_1986.pdf (lectura parcial: el pasaje sobre PCK)"
   - "Wikipedia, Pedagogical content knowledge: https://en.wikipedia.org/wiki/Pedagogical_content_knowledge (lectura parcial)"
-  - "Hill, Rowan y Ball (2005), American Educational Research Journal 42(2), DOI 10.3102/00028312042002371 (solo título, año y autores)"
-  - "Baumert et al. (2010), American Educational Research Journal, DOI 10.3102/0002831209345157 (solo título, año y autores)"
-  - "Sadler et al. (2013), American Educational Research Journal, DOI 10.3102/0002831213477680 (solo título, año y autores)"
+  - "Hill, Rowan y Ball (2005), Effects of Teachers' Mathematical Knowledge for Teaching on Student Achievement, American Educational Research Journal 42(2):371-406: https://doi.org/10.3102/00028312042002371 (abstract)"
+  - "Baumert, Kunter, Blum, Brunner, Voss, Jordan, Klusmann, Krauss, Neubrand y Tsai (2010), Teachers' Mathematical Knowledge, Cognitive Activation in the Classroom, and Student Progress, American Educational Research Journal 47(1):133-180: https://doi.org/10.3102/0002831209345157 (abstract)"
+  - "Sadler, Sonnert, Coyle, Cook-Smith y Miller (2013), The Influence of Teachers' Knowledge on Student Learning in Middle School Physical Science Classrooms, American Educational Research Journal 50(5):1020-1049: https://doi.org/10.3102/0002831213477680 (abstract)"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
+  - "Didactica/.investigacion/fuentes-didacticas-especificas-2026-11.md"
 aliases: [PCK, pedagogical content knowledge, conocimiento didáctico del contenido, saber pedagógico del contenido]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -39,9 +40,15 @@ El PCK se arma con los mismos materiales que el resto del tema: los [ejemplos re
 
 ## Si el PCK mejora el aprendizaje
 
-La literatura atribuye a tres estudios evidencia de que importa: Hill, Rowan y Ball (2005) y Baumert et al. (2010) en matemática, y Sadler et al. (2013) en física de secundaria. Según lo que se les atribuye, el conocimiento matemático para enseñar predice el progreso de los alumnos, y en física el efecto del conocimiento docente depende de que se trabajen las ideas erróneas. De los tres solo se verificaron título, año y autores.
+Tres estudios con alumnos de escuela dan evidencia de que importa. De los tres se leyó solo el resumen.
 
-> [!NOTE] Sin fuente todavía: los resultados de Hill, Rowan y Ball (2005), Baumert et al. (2010) y Sadler et al. (2013), leídos en el artículo.
+| Estudio | Quiénes | Resultado según su resumen |
+|---|---|---|
+| Hill, Rowan y Ball (2005) | Alumnos de 1.º y 3.er grado, con sus docentes, a lo largo de un año | El conocimiento matemático para enseñar de cada docente «was significantly related to student achievement gains in both first and third grades», con controles por alumno y docente. La prueba medía el saber matemático propio de enseñar, no la matemática general. |
+| Baumert et al. (2010) | Una muestra representativa de cursos de 10.º grado de Alemania y sus docentes de matemática, durante un año | El PCK se pudo distinguir del conocimiento de la materia. Tuvo «a substantial positive effect» sobre el progreso de los alumnos, a través de la activación cognitiva y el apoyo individual en clase. |
+| Sadler et al. (2013) | 9556 alumnos de 181 docentes de ciencias físicas de secundaria básica | En las preguntas con una respuesta errónea muy popular, los docentes que la reconocían tuvieron más avance en clase, «much larger than if the teachers knew only the correct answer». Donde no había idea errónea, alcanzaba saber la materia. |
+
+Sadler et al. llaman a esa capacidad de reconocer el error más común de los alumnos «a form of pedagogical content knowledge». Que eso sea la segunda mitad de la definición de Shulman, medida, es una lectura de esta base.
 
 Toda esa evidencia es de docentes escolares de matemática y ciencias. Que el PCK importe igual para quien enseña tecnología a adultos es una inferencia de esta base.
 

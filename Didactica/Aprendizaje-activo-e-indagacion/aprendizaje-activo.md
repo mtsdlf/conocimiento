@@ -5,10 +5,11 @@ estado: vigente
 estabilidad: estable
 fuentes:
   - "Freeman et al. (2014), Active learning increases student performance in science, engineering, and mathematics, PNAS 111(23): https://www.bu.edu/eng/files/2025/01/Active-learning-increases-student-performance-in-science-engineering-and-mathematics.pdf (texto leído)"
-  - "Chi y Wylie (2014), The ICAP Framework, Educational Psychologist: https://doi.org/10.1080/00461520.2014.965823 (metadatos)"
+  - "Chi y Wylie (2014), The ICAP Framework: Linking Cognitive Engagement to Active Learning Outcomes, Educational Psychologist 49(4):219-243, DOI 10.1080/00461520.2014.965823: https://chilab.asu.edu/sites/default/files/lcl/chiwylie2014icap_2.pdf (texto completo, copia del laboratorio de la autora)"
   - "Porter, Bailey Lee y Simon (2013), Halving fail rates using peer instruction: a study of four computer science courses, SIGCSE '13:177-182, DOI 10.1145/2445196.2445250: https://files.software-carpentry.org/training-course/2012/08/porter-halving-fail-peer-instruction-2013.pdf (texto completo, preimpresión)"
   - "EEF Teaching and Learning Toolkit, Collaborative learning approaches, vía Evidence for Learning: https://evidenceforlearning.org.au/education-evidence/teaching-learning-toolkit/collaborative-learning-approaches/"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
+  - "Didactica/.investigacion/fuentes-activo-y-preguntas-2026-11.md"
 aliases: [active learning, clase activa, aprendizaje colaborativo, collaborative learning, peer instruction, instrucción entre pares, ICAP]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -35,9 +36,22 @@ Los autores calcularon cuántos estudios nulos sin publicar harían falta para a
 
 ## Qué cuenta como activo
 
-Chi y Wylie (2014) propusieron el marco ICAP para ordenar esa variedad, con cuatro modos de compromiso: pasivo, activo, constructivo e interactivo. Solo se leyeron sus metadatos, así que no se detalla la jerarquía ni su evidencia acá. La idea que sirve sin el texto es que mover las manos no alcanza: lo que se busca es que quien aprende produzca algo nuevo con el contenido, como una explicación o una pregunta, que es lo que trata la [autoexplicación](../Preguntas-y-dialogo/autoexplicacion.md).
+Chi y Wylie (2014) propusieron el marco ICAP para ordenar esa variedad. Clasifica lo que quien aprende hace a la vista en cuatro modos:
 
-> [!NOTE] Sin fuente todavía: el texto de Chi y Wylie (2014) y la evidencia de cada modo del marco ICAP.
+| Modo | Qué hace quien aprende | Ejemplos de Chi y Wylie |
+|---|---|---|
+| Pasivo | Recibe | Escuchar una clase sin hacer otra cosa; leer en silencio |
+| Activo | Manipula el material | Subrayar, copiar los pasos de una solución, tomar notas literales |
+| Constructivo | Genera algo que no estaba en el material | Autoexplicarse, hacer un mapa conceptual, comparar y contrastar |
+| Interactivo | Dialoga | Defender una posición en pareja o en grupo; preguntar y responder |
+
+La hipótesis ICAP predice que se aprende más en el orden inverso de la tabla: interactivo, constructivo, activo, pasivo. Para que un diálogo cuente como interactivo, las dos partes tienen que aportar ideas propias y turnarse. Mover las manos no alcanza: lo que sube de nivel es producir algo nuevo con el contenido, como en la [autoexplicación](../Preguntas-y-dialogo/autoexplicacion.md).
+
+La evidencia que presentan es sobre todo una relectura de estudios sobre tres actividades: tomar notas, hacer mapas conceptuales y autoexplicar. Muchos son de otros autores, como Coleman, Brown y Rivkin (1997), que ellos reinterpretan con el marco. El estudio con los cuatro modos que citan es de su laboratorio (Menekse et al. 2013, ciencia de materiales), donde el aprendizaje sube «around 8% to 10%» de un modo al siguiente. Los estudios de aula que citan no se diseñaron con ICAP: los autores los reclasifican.
+
+Los propios autores hacen tres advertencias. Con preguntas superficiales, de puro recuerdo, el rendimiento es poco sensible a cómo se estudió, y eso vale también para los modos ICAP. Alguien puede procesar a fondo mientras parece pasivo, porque el marco mira la conducta visible. Y una discusión con toda la clase es constructiva solo para los pocos que hablan: para el resto, que escucha, es pasiva.
+
+> [!NOTE] Sin fuente todavía: estudios independientes, diseñados para probar la jerarquía ICAP fuera del laboratorio de Chi.
 
 ## Pares y grupos
 
