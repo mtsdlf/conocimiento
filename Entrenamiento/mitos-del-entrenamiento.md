@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Varias ideas muy repetidas sobre entrenar no se sostienen: no se baja grasa de una zona entrenándola, estirar no previene lesiones, el cardio no come músculo, no hay una ventana para la proteína, en un estudio chico el cardio en ayunas no bajó más grasa; otras, como "sin dolor no hay ganancia", no tienen estudios ni a favor ni en contra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/21804427/
@@ -18,7 +18,7 @@ fuentes:
 aliases: [mitos del gimnasio, reducción localizada, ventana anabólica, cardio en ayunas, estirar antes de entrenar]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos del entrenamiento

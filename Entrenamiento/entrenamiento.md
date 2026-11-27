@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Entrenar es hacer ejercicio con un plan para cambiar algo del cuerpo o de lo que puede hacer; esta base lo explica al nivel de las decisiones, para adultos que entrenan por su cuenta: cuánto hace falta, qué pide cada objetivo, los principios que no se saltean y cuándo un dolor es para consultar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
   - https://bjsm.bmj.com/content/54/24/1451
   - https://www.argentina.gob.ar/salud/actividad-fisica/mantenerse-activo
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Entrenamiento

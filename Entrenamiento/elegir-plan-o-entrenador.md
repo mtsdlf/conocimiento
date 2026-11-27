@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un plan serio es progresivo, trabaja el cuerpo entero varias veces por semana y se puede sostener, sin prometer atajos; un buen entrenador tiene formación reconocida, supervisa de verdad y ajusta la carga, y en los dos estudios hallados entrenar supervisado dio algo más de resultado que entrenar solo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://acsm.org/resistance-training-guidelines-update-2026/
@@ -16,7 +16,7 @@ fuentes:
 aliases: [elegir un entrenador, entrenador personal, personal trainer, rutina, programa de entrenamiento, profesor de educación física]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir un plan o un entrenador

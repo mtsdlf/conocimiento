@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un entrenamiento de fuerza funciona si sube la exigencia de a poco, si las series terminan cerca del límite sin necesidad de llegar al fallo, si junta suficiente trabajo por semana y si se sostiene en el tiempo; los detalles finos de una rutina pesan bastante menos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/19204579/
@@ -17,7 +17,7 @@ fuentes:
 aliases: [sobrecarga progresiva, progresión, cercanía al fallo, RIR, repeticiones en reserva, volumen de entrenamiento]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Principios básicos

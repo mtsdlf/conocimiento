@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Para bajar grasa y ganar o conservar músculo, el entrenamiento que importa es la fuerza progresiva, con cardio y pasos como sumas; la grasa la baja sobre todo la comida, y el ejercicio solo, sin cambiar lo que se come, suele bajar poco peso.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5552187/
@@ -16,7 +16,7 @@ fuentes:
 aliases: [recomposición corporal, perder grasa sin perder músculo, definir, ganar masa muscular]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bajar grasa y ganar músculo
