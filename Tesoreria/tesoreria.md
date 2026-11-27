@@ -38,7 +38,7 @@ flowchart LR
   PT -->|fija límites a| R
 ```
 
-- [Caja y liquidez](Caja-y-liquidez/caja-y-liquidez.md): la posición de caja de hoy, las cuentas bancarias, los medios por los que la plata entra y sale, la proyección de las próximas semanas, el capital de trabajo y dónde se pone lo que sobra. Entrá acá primero: las otras cuatro partes mueven los números que esta mira.
+- [Caja y liquidez](Caja-y-liquidez/caja-y-liquidez.md): la posición de caja de hoy, las cuentas bancarias, los medios por los que la plata entra y sale, la proyección de las próximas semanas, el capital de trabajo y dónde se pone lo que sobra. Entrá acá primero: las otras cinco partes mueven los números que esta mira.
 - [Crédito y cobranzas](Credito-y-cobranzas/credito-y-cobranzas.md): a quién se le vende a plazo y con qué límite, cómo se cobra lo vencido y cómo se aplica cada cobro a las facturas. Entrá acá cuando la pregunta sea cuándo entra la plata de los clientes.
 - [Pagos a proveedores](Pagos-a-proveedores/pagos-a-proveedores.md): qué se paga cuándo, cómo se arma y se aprueba la corrida de pagos y cómo se evita pagarle a quien no corresponde. Entrá acá cuando la pregunta sea cuándo y cómo sale la plata.
 - [Pago de sueldos](Pago-de-sueldos/pago-de-sueldos.md): la cuenta de la que sale el sueldo y la del empleado, el fondeo antes de la hora de corte, el calendario del año con las cargas y el desvío de sueldos. Entrá acá cuando la pregunta sea cómo y cuándo le llega la plata a cada empleado.

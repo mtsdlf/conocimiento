@@ -41,7 +41,7 @@ Una salida de sueldos son en realidad dos salidas con fechas distintas, en lectu
 1. **Lote cerrado.** La liquidación entrega el total de netos y, por cada empleado, su cuenta y su importe.
 2. **Fondeo.** La tesorería deja la plata en la cuenta de la que sale el pago, antes de la hora de corte del banco ([fondeo y calendario](fondeo-y-calendario.md)).
 3. **Archivo y control.** Se genera el archivo del banco y se compara su suma con el total de netos, y cada cuenta con la del legajo ([cuentas y acreditación](cuentas-y-acreditacion.md)).
-4. **Liberación.** Alguien distinto de quien liquidó libera el lote en el banco, con las firmas que pida la [política de tesorería](../politica-de-tesoreria.md).
+4. **Liberación.** Alguien distinto de quien liquidó libera el lote en el banco (lectura de esta base), con las firmas que pida la [política de tesorería](../politica-de-tesoreria.md).
 5. **Acreditación.** El banco reparte el lote; las cuentas que no existen o están cerradas vuelven como rechazos.
 6. **Verificación.** Se compara lo debitado con lo enviado, se paga de nuevo lo rechazado y el extracto pasa a la conciliación.
 7. **Cargas.** Las retenciones y contribuciones del período salen en su propio vencimiento.
@@ -56,7 +56,7 @@ Para la caja, la frecuencia es una decisión con costo. La CFPB, el regulador fi
 
 ## Cómo falla el pago de sueldos
 
-- **La plata llega tarde al banco.** El archivo pasa la hora de corte y el sueldo se acredita un día hábil después del plazo ([fondeo y calendario](fondeo-y-calendario.md)).
+- **La plata llega tarde al banco.** El archivo pasa la hora de corte y espera la ventana siguiente: el sueldo se acredita tarde, o sale por el carril del mismo día con su tope ([fondeo y calendario](fondeo-y-calendario.md#cuándo-tiene-que-estar-la-plata)).
 - **Un sueldo va a una cuenta ajena.** Alguien cambió la cuenta del empleado con un correo falso o con su contraseña robada ([cuentas y acreditación](cuentas-y-acreditacion.md#el-desvío-de-sueldos)).
 - **El archivo no es el lote.** Se agrega o se cambia una línea después de aprobar, o se paga a un empleado que ya no está; la defensa es comparar el archivo con el lote cerrado.
 - **Se olvidan las cargas.** La proyección muestra el neto y no las retenciones, que vencen días después y son plata de terceros ([fondeo y calendario](fondeo-y-calendario.md#las-cargas-tienen-su-propio-calendario)).

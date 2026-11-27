@@ -11,7 +11,7 @@ fuentes:
   - "BCRA, texto ordenado Sistema Nacional de Pagos, Transferencias, al 07/08/2025 (A 8295), sección 1, transferencias en lote (leída): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-snp-tr.pdf"
   - "BCRA, texto ordenado Transferencias, Normas complementarias, al 08/09/2026 (A 8477), puntos 5.1.2.1 y 6.1 (leídos): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-snp-tr-nc.pdf"
   - "Ley de Contrato de Trabajo 20.744, texto actualizado de InfoLEG con la Ley 27.802 (arts. 122, 123, 124, 125, 128, 129, 132 bis, 137, 155, 255 bis, 276 y 277, leídos): https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/texact.htm"
-  - "Ley 27.802 de Modernización Laboral, Boletín Oficial del 6/03/2026 (arts. 35, 41, 54, 56 y 133, leídos): https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306"
+  - "Ley 27.802 de Modernización Laboral, Boletín Oficial del 6/03/2026 (arts. 35, 41, 56 y 133, leídos): https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306"
   - "Decreto 407/2026, InfoLEG (búsqueda de art. 124, cuenta sueldo y acreditación en el texto completo): https://servicios.infoleg.gob.ar/infolegInternet/anexos/425000-429999/426270/norma.htm"
   - "Decreto 380/2001, reglamentación del impuesto sobre los créditos y débitos, texto de la biblioteca de ARCA según el Decreto 475/2026 (arts. 1, 7 y 10, leídos): https://biblioteca.afip.gob.ar/dcp/DEC_C_000380_2001_03_29"
   - "RG AFIP 4172, Boletín Oficial del 26/12/2017, arts. 1 a 5 (leída): https://www.boletinoficial.gob.ar/detalleAviso/primera/176672/20171226"
@@ -41,7 +41,7 @@ Lo general (la cuenta de la empresa, el archivo, el fondeo y el calendario en cu
 
 Desde la Ley 27.802, el sueldo se acredita «en cuenta abierta a su nombre en entidad bancaria o en institución de ahorro oficial» (art. 124 de la LCT, sustituido por su art. 35). El texto sancionado no nombra a los proveedores de servicios de pago ni a las cuentas de pago. Según el resumen de una nota de Forbes, el proyecto enviado al Congreso sí los incluía. El texto ordenado del BCRA al 29 de octubre de 2026 tampoco menciona billeteras ni CVU en la sección de la cuenta sueldo, y el Decreto 407/2026 no reglamenta el art. 124. En lectura de esta base, en noviembre de 2026 el sueldo se acredita en una cuenta sueldo de banco y no en una billetera; una vez acreditado, el trabajador puede transferirlo a cualquier cuenta propia «cualquiera sea la entidad» (punto 2.2).
 
-Lo que regula el BCRA, en su texto ordenado de depósitos de ahorro:
+Lo que regula el BCRA (Banco Central de la República Argentina), en su texto ordenado de depósitos de ahorro. La CBU es la clave bancaria uniforme que identifica cada cuenta, y el CUIL, el número de cada trabajador ante la seguridad social:
 
 | Pregunta | Regla | Punto |
 |---|---|---|
@@ -52,7 +52,7 @@ Lo que regula el BCRA, en su texto ordenado de depósitos de ahorro:
 | Cuánto se puede sacar | En cajeros, «sin límites de importe» (salvo los de seguridad o del equipo) ni de cantidad de extracciones; también por ventanilla, con débito en comercios y por transferencia | 2.3.2 |
 | Qué puede debitar el banco | Nada que deje saldo deudor; lo único por iniciativa del banco es un redondeo de hasta $ 99,99 que adelanta para vaciar la cuenta en el cajero y descuenta del sueldo siguiente | 2.3 y 2.3.2.1 |
 | Servicios extra | Solo si el trabajador los pide «fehacientemente»; no se pueden exigir como condición | 2.12 |
-| Cuándo se cierra | A los 180 días corridos de la última acreditación o del aviso de cierre, lo que sea posterior; lo que queda pasa a saldos inmovilizados | 2.8.1 |
+| Cuándo se cierra | A los 180 días corridos de la última acreditación o del aviso de cierre, lo que sea posterior; lo que queda pasa a saldos inmovilizados | 2.8.1 y 2.8 |
 
 La portabilidad (que el trabajador cobre en otro banco sin cambiar de empleador) viene de la Comunicación A 6042 del 12 de agosto de 2016. Ni esa comunicación ni el texto ordenado fijan en cuántos días el empleador tiene que empezar a acreditar en la cuenta nueva. Para la tesorería eso es un cambio de cuenta del empleado, con el control que pide [cuentas y acreditación](cuentas-y-acreditacion.md).
 
@@ -64,7 +64,7 @@ El BCRA tiene un tipo propio de transferencia en lote, «Pago de sueldos», dist
 
 > Día D: las entidades originantes envían las transferencias [...]. Día D: se realiza la compensación en las CEC, la liquidación en el BCRA y la acreditación en las cuentas de las entidades receptoras. Día D+1: al inicio del día, el beneficiario tiene disponibles los fondos en su cuenta.
 
-El banco del empleador transfiere a la cámara compensadora el total de la presentación, y si no tiene cobertura, la cámara no la procesa ese día (1.2.1). El momento en que el empleador le entrega al banco el archivo y los fondos «será de libre acuerdo entre las partes»; quien llega tarde al horario de la cámara espera al día hábil siguiente (1.2.1 y 1.3.1.3). La hora de corte, entonces, la fija el convenio de pago de haberes con cada banco, y el texto ordenado no regula ese convenio.
+El banco del empleador transfiere a la cámara electrónica de compensación (CEC) el total de la presentación, y si no tiene cobertura, la cámara no la procesa ese día (1.2.1). El momento en que el empleador le entrega al banco el archivo y los fondos «será de libre acuerdo entre las partes»; quien llega tarde al horario de la cámara espera al día hábil siguiente (1.2.1 y 1.3.1.3). La hora de corte, entonces, la fija el convenio de pago de haberes con cada banco, y el texto ordenado no regula ese convenio.
 
 El punto 1.2.3 compensa en 24 horas los lotes de sueldos «nominados en pesos». Las 48 horas en moneda extranjera aparecen solo para los lotes de proveedores y entre clientes. El texto es de agosto de 2025, anterior a la cuenta sueldo en dólares, y no dice cómo se acredita por lote un sueldo en dólares.
 
@@ -88,17 +88,17 @@ Las fechas que la tesorería tiene que tener cubiertas:
 
 | Salida | Cuándo | Norma |
 |---|---|---|
-| Sueldo mensual o quincenal | Hasta el cuarto día hábil después del vencimiento del período; tres días hábiles si es semanal; siempre en día hábil | arts. 126, 128 y 129 de la LCT |
+| Sueldo mensual o quincenal | Hasta el cuarto día hábil después del vencimiento del período; tres días hábiles si es semanal; siempre en día hábil | arts. 126, 128 y 129 de la Ley de Contrato de Trabajo (LCT) |
 | Aguinaldo | Dos cuotas, con vencimiento el 30 de junio y el 18 de diciembre; la Ley 27.802 no lo cambió | art. 122 |
 | Vacaciones | Se pagan «a la iniciación» de las vacaciones; desde la 27.802 se pueden partir en tramos de al menos siete días, y en lectura de esta base cada tramo es una salida | arts. 154 y 155 |
 | Liquidación final | En los plazos del art. 128, contados desde la extinción | art. 255 bis |
-| Aportes y contribuciones (F.931) | Presentación y pago el mes siguiente: CUIT terminado en 0 a 3, día 9; 4 a 6, día 10; 7 a 9, día 11 | RG 4172 modificada por la RG 4186 |
-| Retenciones (SICORE) | Las practicadas del 1 al 15 se ingresan los días 21, 22 y 23 (20, 21 y 22 en febrero y diciembre); la declaración y el pago del mes, los días 9, 10 y 11 del mes siguiente | RG 4172, apartado C, y RG 4354 |
+| Aportes y contribuciones (F.931, la declaración mensual de cargas sociales ante ARCA, el fisco nacional) | Presentación y pago el mes siguiente: CUIT terminado en 0 a 3, día 9; 4 a 6, día 10; 7 a 9, día 11 | RG 4172 modificada por la RG 4186 |
+| Retenciones (SICORE, el régimen por el que el agente informa e ingresa lo que retuvo) | Las practicadas del 1 al 15 se ingresan los días 21, 22 y 23 (20, 21 y 22 en febrero y diciembre); la declaración y el pago del mes, los días 9, 10 y 11 del mes siguiente | RG 4172, apartado C, y RG 4354 |
 | Cuota sindical retenida | Si no se deposita «en tiempo propio», el empleador pasa a ser deudor directo y la mora es automática | art. 38 de la Ley 23.551 |
 
 Un vencimiento de ARCA que cae en feriado o día inhábil se corre, con los siguientes, a los días hábiles inmediatos (art. 2 de la RG 4172). Qué entra en el F.931 y quién lo declara está en [cargas sociales en la Argentina](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/cargas-sociales-en-argentina.md); acá pesa solo como fecha de salida.
 
-Con el lote en D+1, en lectura de esta base, el archivo y la plata tienen que estar en el banco a más tardar el día hábil anterior al cuarto día hábil, antes de la hora de corte del convenio. Diciembre es el mes más cargado: con las reglas de arriba, en 2026 el F.931 de noviembre vence el 9, 10 y 11, el aguinaldo el viernes 18 y el SICORE de la primera quincena el 21 para los CUIT terminados en 0 a 3 (cuenta de esta base).
+Con el lote en D+1, en lectura de esta base, el archivo y la plata tienen que estar en el banco a más tardar el día hábil anterior al cuarto día hábil, antes de la hora de corte del convenio. En diciembre se juntan tres salidas en diez días: con las reglas de arriba, en 2026 el F.931 de noviembre vence el 9, 10 y 11 (salvo un corrimiento como el de noviembre, abajo), el aguinaldo el viernes 18 y el SICORE de la primera quincena el 21 para los CUIT terminados en 0 a 3 (cuenta de esta base).
 
 > [!NOTE]
 > Sin fuente todavía: por qué el calendario de ARCA de noviembre de 2026 pone el F.931 los días 11, 12 y 13 y no 9, 10 y 11 (no se encontró la norma del corrimiento); el anexo consolidado de la RG 4172 con sus cambios posteriores a 2018; qué tramo del SICORE usa la retención de Ganancias sobre sueldos; el plazo de depósito de la cuota sindical; si al aguinaldo del 18 de diciembre se le aplican los cuatro días hábiles del art. 128, y el calendario de feriados de 2026.
@@ -110,7 +110,7 @@ La mora es automática: se produce «por el solo vencimiento de los plazos seña
 El recargo del 50 % de la Ley 25.323 ya no existe: la Ley 27.742 la derogó (art. 100). La sanción del art. 132 bis de la LCT (aportes retenidos y no depositados) sigue en el texto de InfoLEG, pero la norma que la incorporó, el art. 43 de la Ley 25.345, fue derogada por el DNU 70/2023 y por la Ley 27.742 (art. 99); su vigencia es dudosa y no conviene usarla sin verificar.
 
 > [!NOTE]
-> Sin fuente todavía: la resolución del Ministerio de Trabajo a la que remite el BCRA sobre qué empleadores están obligados a acreditar; el contenido típico de un convenio de pago de haberes (hora de corte, fecha valor, cargo por archivo); cómo se acredita por lote un sueldo en dólares; la tasa de intereses resarcitorios de ARCA de noviembre de 2026, y cómo traba un banco un embargo sobre el saldo de una cuenta sueldo.
+> Sin fuente todavía: la resolución del Ministerio de Trabajo a la que remite el BCRA sobre qué empleadores están obligados a acreditar; el contenido típico de un convenio de pago de haberes (hora de corte, fecha valor, cargo por archivo); cómo se acredita por lote un sueldo en dólares; los códigos de rechazo del lote de sueldos y si existe una reversa como la de otras redes; la tasa de intereses resarcitorios de ARCA de noviembre de 2026, y cómo traba un banco un embargo sobre el saldo de una cuenta sueldo.
 
 ## Qué tiene que modelar un sistema
 
