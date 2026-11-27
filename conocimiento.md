@@ -71,6 +71,10 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Ventas](Ventas/ventas.md) — del problema del cliente al acuerdo: descubrimiento y calificación, la propuesta y el precio, objeciones y negociación, formas de vender y medición comercial, con la poca evidencia independiente que tienen los métodos dicha en cada nota.
 - [Planillas de cálculo](Planillas-de-calculo/planillas-de-calculo.md) — Excel y Google Sheets para trabajar en un negocio: fórmulas, datos ordenados, tablas dinámicas, diseño que no se rompe, cuánto fallan las planillas y cuándo pasar a una base.
 
+## Personas
+
+- [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
+
 ## Carrera
 
 - [Presentación profesional](Presentacion-profesional/presentacion-profesional.md) — mostrarse para un puesto: el material de lo hecho, las vidrieras que se cortan de él (CV, LinkedIn, portfolio) y cómo se filtran del otro lado, con la evidencia de cada consejo y los mitos más repetidos.
