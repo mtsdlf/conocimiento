@@ -30,9 +30,9 @@ La base las separa, y el reparto (criterio de la base) es este:
 
 | Qué | De quién |
 |---|---|
-| Cuánto stock hay, cuánto está comprometido y qué entra cuándo | Inventario y depósitos, y la planificación (Cadena de suministro y Producción) |
-| La reserva física de la mercadería para el pedido | Inventario y depósitos |
-| Cuánto tarda el transporte hasta el cliente | Cadena de suministro y logística |
+| Cuánto stock hay, cuánto está comprometido y qué entra cuándo | [Inventario y depósitos](../../Inventario-y-depositos/Existencias/disponible-para-prometer.md), y la planificación ([Cadena de suministro](../../Cadena-de-suministro-y-logistica/Planificacion/planificacion.md) y [Producción](../../Produccion/produccion.md)) |
+| La reserva física de la mercadería para el pedido | [Inventario y depósitos](../../Inventario-y-depositos/Operacion-del-deposito/reserva.md) |
+| Cuánto tarda el transporte hasta el cliente | [Cadena de suministro y logística](../../Cadena-de-suministro-y-logistica/Transporte/transporte.md) |
 | Qué fecha se le dice al cliente y queda escrita en el pedido | Relación con clientes |
 
 ASCM define el disponible para prometer sobre el plan maestro de producción, y el excerpt del CPIM dice que «sales professionals will be able to view available-to-promise information in the organization's master schedule». De ahí la base infiere el reparto: el vendedor consulta, no calcula, y el pedido consume y compromete la cifra.

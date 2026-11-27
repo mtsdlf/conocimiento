@@ -68,7 +68,7 @@ Afirmaciones
 
 Recurso canónico: ninguno claro. Propuesta provisional: una revisión de criterios (Ratkevičius et al. 2012) para la lista de criterios, más el método general (necesidades → criterios → lista corta → demo → referencias → contrato) presentado como práctica sin evidencia comparativa. Leer completos antes de confirmar.
 
-Ya escrito en el repo: `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md` (errores comunes de elección según un autor que vende desarrollo; declara «Sin fuente todavía» para estudios independientes de fallas en pymes) y `Compras-y-abastecimiento/Abastecimiento-estrategico/costo-total-de-adquisicion.md`.
+Ya escrito en el repo: `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md` (errores comunes de elección según un autor que vende desarrollo; declara «Sin fuente todavía» para estudios independientes de fallas en pymes) y `Compras-y-abastecimiento/Abastecimiento-estrategico/costo-total-de-adquisicion.md`.
 
 ## 4. Análisis de brechas (fit-gap)
 
@@ -105,7 +105,7 @@ Afirmaciones
 - Microsoft: el cutover es el paso «when you switch from your old system to the new one»; «During cutover, you can't use your old system or your new one», suele durar menos de 48 horas; hay que ensayar («mock cutover») varias veces con los mismos datos, herramientas y personas; el plan incluye dueño y suplente por tarea, verificación y plan de reversa (rollback); las condiciones de entrada incluyen estrategia de migración «ready and tested»; al final se verifica que «your data is accurate and complete in production»; decisión go/no-go con criterios. https://learn.microsoft.com/en-us/dynamics365/guidance/implementation-guide/prepare-go-live-cutover-strategy [L]
 - Consultoras (Wipro, TechTarget) coinciden en perfilar y limpiar el origen, deduplicar maestros, mapear, conciliar con expertos del negocio y financieramente antes del go-live, y cargar maestros con saldos abiertos como enfoque más común. https://www.wipro.com/analytics/latest-thinking/solving-the-erp-data-migration-puzzle/ [S]. Son afirmaciones de práctica, sin método publicado.
 - Panorama 2017: «data issues» es la segunda causa citada de atraso, con 16 % (la primera, alcance ampliado, 19 %). https://www.panorama-consulting.com/wp-content/uploads/2017/07/2017-ERP-Report.pdf [L]
-- Dato local ya en el repo: un fabricante avisa que al migrar no se cargan datos históricos como ventas o cuentas corrientes, solo maestros y stock (`Sistemas-de-gestion/sistemas-de-gestion.md` línea 62).
+- Dato local ya en el repo: un fabricante avisa que al migrar no se cargan datos históricos como ventas o cuentas corrientes, solo maestros y stock (`Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md` línea 62).
 
 Hueco principal: no encontré estudio académico con método sobre migración de datos en ERP (la búsqueda devolvió solo guías de proveedores y consultoras). Sugerencia: buscar «data conversion» en la literatura de ERP o en normas de migración de datos (ISO/IEC 25012 para calidad de datos, aún sin evaluar).
 

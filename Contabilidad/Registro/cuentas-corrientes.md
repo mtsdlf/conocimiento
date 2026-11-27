@@ -72,7 +72,7 @@ Con esa estimación, el asiento de la previsión es:
 
 La previsión es una contracuenta que resta de Cuentas a cobrar sin tocar el auxiliar: no se sabe todavía qué cliente no va a pagar (explicación de la base). Cómo sigue el ciclo (dar de baja un crédito, recuperar uno dado de baja) está en [ingresos y cuentas a cobrar](../Operaciones/ingresos-y-cuentas-a-cobrar.md).
 
-El mismo informe sirve para cobrar: dice a quién llamar primero. OpenStax lo trata solo como estimación de incobrables, y ninguna fuente leída lo trata como herramienta de cobranzas; ese uso es práctica habitual (inferencia de la base). La gestión del cobro en sí va al tema Tesorería y finanzas de la empresa en marcha, todavía no escrito. Con proveedores se arma el mismo cuadro al revés, para ver qué vence y cuándo (inferencia de la base).
+El mismo informe sirve para cobrar: dice a quién llamar primero. OpenStax lo trata solo como estimación de incobrables, y ninguna fuente leída lo trata como herramienta de cobranzas; ese uso es práctica habitual (inferencia de la base). La gestión del cobro en sí es de Tesorería, en [gestión de la cobranza](../../Tesoreria/Credito-y-cobranzas/gestion-de-la-cobranza.md), que usa este informe. Con proveedores se arma el mismo cuadro al revés, para ver qué vence y cuándo (inferencia de la base).
 
 ## Lo que un registro tiene que poder hacer
 

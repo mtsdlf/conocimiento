@@ -22,6 +22,8 @@ Producción es operar un sistema con un modelo adentro: las capas que se suman a
 modelo (guardrails, router y gateway, cache), el servicio de inferencia que lo corre y la
 observabilidad que registra qué le pasó a cada consulta.
 
+La producción industrial, la de la planta, es otro tema: [Producción](../../Produccion/produccion.md).
+
 Es la tercera de las capas del oficio que distingue Huyen, la infraestructura ("model serving,
 managing data and compute, and monitoring"), como se cuenta en [IA](../ia.md). Recibe de
 [Contexto](../Contexto/contexto.md) y de [Agentes](../Agentes/agentes.md) las dos capas que llenan

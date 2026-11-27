@@ -73,7 +73,7 @@ El plan agregado de producción tiene dos estrategias opuestas, según una fuent
 
 La tabla es síntesis de la base: ninguna fuente leída define las diferencias. Lo que sí dice el caso de PLoS ONE es que el plan de S&OP «is compared to the budget with a risk analysis» antes de aprobarse, y que ventas y abastecimiento buscan cumplir el presupuesto comprometido. Lectura de la base: el presupuesto fija la meta del año; el S&OP revisa cada mes si el plan llega y qué hacer si no. Los pronósticos móviles que algunos proponen al lado del presupuesto anual están en la nota de presupuesto, de Contabilidad.
 
-El plan maestro y el MRP son de Producción, todavía no armado. El caso de PLoS ONE no los trata más que para decir que su «production master plan» alimenta el MRP.
+El [plan maestro](../../Produccion/Planificacion-de-la-produccion/plan-maestro-de-produccion.md) y el [MRP](../../Produccion/Planificacion-de-la-produccion/mrp.md) son de Producción. El caso de PLoS ONE no los trata más que para decir que su «production master plan» alimenta el MRP.
 
 ## Qué dice la evidencia sobre su efecto
 

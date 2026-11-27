@@ -75,4 +75,4 @@ Por inferencia de esta base, a partir de los pasos y las reglas de arriba, una c
 - Un bloqueo sobre cada factura incluida, para que no entre en otra corrida mientras esta no termina; es la defensa más directa contra el pago duplicado, que [seguridad de los pagos](seguridad-de-los-pagos.md) trata sin fuente todavía.
 - La cuenta bancaria del proveedor congelada en el pago al momento de aprobar, y no leída de la ficha al generar el archivo.
 
-Cómo se modelan el documento de pago y sus estados es del tema Software de gestión, todavía no escrito; el recorrido completo de la compra al pago, del tema Procesos de negocio, también sin escribir.
+El documento de pago y sus estados siguen la regla general de [documento y estados](../../Software-de-gestion/Columnas-tecnicas/documento-y-estados.md), en Software de gestión, que no trata el pago en particular; el recorrido completo, en [de la compra al pago](../../Procesos-de-negocio/de-la-compra-al-pago.md).

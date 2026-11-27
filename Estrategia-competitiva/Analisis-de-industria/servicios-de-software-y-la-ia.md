@@ -26,6 +26,7 @@ fuentes:
   - "HFS Research, formas de contrato en servicios de atención al cliente (2026-07-06): https://www.hfsresearch.com/?p=206972"
   - "ISG Index del 3T 2026, según Outsource Accelerator: https://news.outsourceaccelerator.com/isg-index-q3-2026/"
   - "SPI Research, Professional Services Maturity Benchmark 2026 (comunicado, 2026-02-24): https://www.einpresswire.com/article/894826291/"
+  - "SPI Research, Professional Services Benchmarks (tabla del benchmark 2026: 67,6 % en 2025; leída el 2026-11-27): https://spiresearch.com/professional-services-benchmarks/"
   - "Clutch, guía de precios (2026-06-13): https://clutch.co/developers/pricing"
   - "Accelerance, tendencias de tarifas 2026 (2025-11-24): https://www.accelerance.com/blog/2026-outsourcing-rate-trends-asia-europe-latam"
   - "Lemon.io, calculadora de tarifas para Argentina: https://lemon.io/rate-calculator/argentina/"
@@ -72,7 +73,7 @@ La teoría de contratos no da una forma ganadora. Gopal y Sivaramakrishnan (2008
 
 Ninguna fuente medida descompone el margen de una firma de servicios de software. Con lo que hay, salen cuatro palancas, que son las de Maister en [economía de una firma de servicios](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md):
 
-1. **Utilización.** EPAM facturó 76,8 % de las horas en 2025 (medida). El promedio de las firmas de servicios profesionales es 66,4 %, el más bajo en 19 años (SPI Research, benchmark 2026, 509 firmas; encuesta). Endava dice que formar a su gente en IA le bajó la utilización (dicho de la gerencia; sus cifras del ejercicio 2026 están en revisión, ver «Huecos»).
+1. **Utilización.** EPAM facturó 76,8 % de las horas en 2025 (medida). El promedio de las firmas de servicios profesionales es 66,4 %, el más bajo en 19 años, según el comunicado del benchmark 2026 de SPI Research (509 firmas; encuesta); la tabla de la página de SPI da 67,6 % para el mismo año, y ninguna de las dos explica la diferencia ([utilización](../../Servicios-profesionales-y-proyectos/Rentabilidad-de-la-firma/utilizacion.md#una-definición-con-encuesta-detrás)). Endava dice que formar a su gente en IA le bajó la utilización (dicho de la gerencia; sus cifras del ejercicio 2026 están en revisión, ver «Huecos»).
 2. **La pirámide.** Muchos juniors facturados con margen debajo de pocos seniors. Las mayores ganancias de productividad medidas son de los juniors (Cui y otros, 2025, en [agente de código](../../Desarrollo/Construccion/agente-de-codigo.md#cuánto-acelera-según-quién-mida)); que eso achique la pirámide es inferencia.
 3. **La tarifa que se cobra de verdad** frente a la de lista. Sin dato público.
 4. **La prima por riesgo del precio fijo**, que crece si la IA baja el esfuerzo y el proveedor estima bien (inferencia).

@@ -6,7 +6,7 @@ Tesis del ángulo: lo que la base va a afirmar (que implantar un ERP es riesgoso
 
 ## Qué ya está escrito en el repo (para no repetir)
 
-- `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md`: definición de parte (vendedores) de ERP frente a facturador, contable y sistema de gestión; deja en una nota «Sin fuente todavía» los «estudios independientes sobre cómo fallan las implementaciones en pymes». Este informe llena parte de ese hueco, pero con evidencia de grandes proyectos de TI, no de pymes.
+- `Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md`: definición de parte (vendedores) de ERP frente a facturador, contable y sistema de gestión; deja en una nota «Sin fuente todavía» los «estudios independientes sobre cómo fallan las implementaciones en pymes». Este informe llena parte de ese hueco, pero con evidencia de grandes proyectos de TI, no de pymes.
 - `Planillas-de-calculo/cuando-pasar-a-una-base.md` y `Planillas-de-calculo/.investigacion/posicion-contraria-y-fundamentos.md`: señales para dejar la planilla (criterio propio, sin estudio), riesgo de mudarse demasiado pronto, Panko sobre errores. No tratan ERP ni pymes frente a ERP.
 - `Software-de-gestion/` está vacío salvo `.investigacion/`: no hay notas propias todavía. Lo de abajo es propio del tema; la nota `mitos-del-software-de-gestion.md` del árbol es el destino natural de las secciones 1 y 2.
 - No encontré en el repo ninguna nota sobre REA ni sobre Standish. Chequeo por búsqueda de texto, no exhaustivo.

@@ -68,7 +68,7 @@ Por lectura de esta base, la cuenta bancaria es una entidad con estos datos: ban
 - avisar cuando una cuenta no recibe extracto hace días, que suele ser una cuenta olvidada;
 - comparar las comisiones del extracto contra las pactadas con el banco.
 
-El registro de movimientos y la integración con los bancos como diseño técnico van al tema Software de gestión, todavía no escrito.
+El registro de movimientos y la integración con los bancos como diseño técnico están en Software de gestión: [registro de movimientos y dimensiones](../../Software-de-gestion/Columnas-tecnicas/registro-de-movimientos-y-dimensiones.md) e [integración y migración](../../Software-de-gestion/Columnas-tecnicas/integracion-y-migracion.md).
 
 ## Cómo falla
 

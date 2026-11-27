@@ -60,7 +60,7 @@ Las reglas de inscripción también cambian por resolución de la IGJ. En 2026 l
 - **Elegir la sociedad antes de validar.** Una forma más compleja suma costo fijo y acorta la pista mientras el modelo todavía cambia (inferencia de la base, sin fuente sobre costos).
 
 > [!NOTE]
-> Sin fuente todavía: Ingresos Brutos fuera del monotributo (alícuotas, convenio multilateral), inscripción en ARCA y clave fiscal, contabilidad según los consejos profesionales de ciencias económicas, y costos de constitución con fuente oficial.
+> Ingresos Brutos fuera del monotributo (alícuotas, Convenio Multilateral) está en [Ingresos Brutos](../../Impuestos/Impuestos-al-consumo/ingresos-brutos.md); la clave fiscal y el domicilio fiscal electrónico, en [impuestos en Argentina](../../Impuestos/impuestos-en-argentina.md#arca-el-fisco-nacional); la contabilidad obligatoria y las normas de los consejos profesionales, en [libros contables en Argentina](../../Contabilidad/Registro/libros-contables-en-argentina.md) y [normas contables en Argentina](../../Contabilidad/Estados-contables/normas-contables-en-argentina.md). Sin fuente todavía: el trámite de inscripción en ARCA y los costos de constitución con fuente oficial.
 
 ## Los contratos de un servicio
 
@@ -79,12 +79,12 @@ Además de los contratos de un servicio, esta parte tiene cuatro fichas: la [nor
 
 - Qué forma elegir: el árbol de decisión por responsabilidad, costo, socios e inversión.
 - Persona humana: monotributo y régimen general, y cuándo el primero se queda chico.
-- Monotributo: categorías, recategorización y exclusión, con la tabla de ARCA.
+- Monotributo: categorías, recategorización y exclusión, con la tabla de ARCA. Lo recurrente (la cuota, la recategorización, la exclusión y el paso al régimen general) ya está en [monotributo en marcha](../../Impuestos/Obligacion-tributaria/monotributo-en-marcha.md), en Impuestos; acá quedaría la entrada.
 - SAS: qué es, cómo se constituye y qué cambió en la IGJ en 2026.
 - SRL y SA: cuándo conviene cada una.
-- Inscripción en ARCA y clave fiscal.
-- Facturación electrónica: puntos de venta y comprobantes.
-- Ingresos Brutos: por provincia, convenio multilateral y monotributo unificado.
-- Seguridad social y empleados: autónomos, SIPA y la primera contratación.
+- Inscripción en ARCA y clave fiscal. La clave fiscal está en [impuestos en Argentina](../../Impuestos/impuestos-en-argentina.md#arca-el-fisco-nacional); falta el trámite de inscripción.
+- Facturación electrónica: puntos de venta y comprobantes. Ya está en [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md), y el comprobante en general, en [comprobante fiscal](../../Impuestos/Cumplimiento/comprobante-fiscal.md).
+- Ingresos Brutos: por provincia, convenio multilateral y monotributo unificado. Ya está en [Ingresos Brutos](../../Impuestos/Impuestos-al-consumo/ingresos-brutos.md), en Impuestos.
+- Seguridad social y empleados: autónomos, SIPA y la primera contratación. La primera contratación ya está en [relación laboral en Argentina](../../Administracion-de-personal-y-nomina/Legajo/relacion-laboral-en-argentina.md#la-primera-contratación-en-la-argentina) y en [ingreso y egreso](../../Administracion-de-personal-y-nomina/Legajo/ingreso-y-egreso.md#hacerse-empleador-la-primera-contratación), y las cargas sobre cada sueldo, en [cargas sociales en Argentina](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/cargas-sociales-en-argentina.md); faltan los autónomos.
 - Propiedad intelectual y contratos básicos: marca, cesión de derechos y acuerdo entre socios. Los contratos con clientes de un servicio ya están en [contrato de servicio](contrato-de-servicio.md); falta la cesión de derechos sobre lo que se programa por encargo.
 - Cómo recibir inversión desde Argentina: la SAS ante un SAFE o una nota convertible.

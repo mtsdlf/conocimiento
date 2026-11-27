@@ -75,7 +75,7 @@ Un documento de trabajo del FMI sobre devoluciones de IVA dice que en varios pa�
 
 El caso más extendido es la retención del impuesto a la renta sobre sueldos. El empleador es agente: calcula el impuesto de cada empleado según lo que gana, se lo descuenta del recibo y lo deposita. El manual del FMI lo llama PAYE.
 
-Acá entra solo el empleador como agente. El cálculo de la retención en el recibo, junto con los aportes y las contribuciones, va al tema Administración de personal y nómina (todavía no escrito).
+Acá entra solo el empleador como agente. El cálculo de la retención en el recibo, junto con los aportes y las contribuciones, está en Administración de personal y nómina: [retención de impuestos sobre sueldos](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md) y [aportes y contribuciones](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/aportes-y-contribuciones.md).
 
 ## Notas de este tema
 
