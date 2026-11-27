@@ -27,7 +27,7 @@ Dentro de [Psicología](../psicologia.md), esta parte se conecta con [Juicio y d
 
 > [!NOTE] Sin fuente todavía: cómo se relaciona la cognición social con el juicio, la decisión y la motivación.
 
-El tema explica el mecanismo. Cómo se convence a alguien (retórica, persuasión, los principios de Cialdini) es del tema Comunicación, y cómo se dirige un equipo que decide junto, de Liderazgo y dirección; ninguno de los dos está escrito todavía. La aplicación a vender ya existe en la [economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md).
+El tema explica el mecanismo. Cómo se convence a alguien (retórica, persuasión, los principios de Cialdini) es del tema Comunicación, todavía sin escribir, y cómo se dirige un equipo que decide junto, de [decidir en grupo](../../Liderazgo-y-direccion/Decidir/decidir-en-grupo.md), en Liderazgo y dirección. La aplicación a vender ya existe en la [economía del comportamiento en marketing](../../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md).
 
 ## Tres preguntas sobre los demás
 

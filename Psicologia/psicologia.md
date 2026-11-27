@@ -21,7 +21,7 @@ La psicología es el estudio científico de la mente y la conducta. En esta base
 
 El APA Dictionary la define hoy como «the scientific study of the mind and behavior», y el texto abierto OpenStax usa casi las mismas palabras. La palabra viene del griego *psyche* (alma o mente) y *-logia* (estudio). Lo que la separa de la psicología popular es el método: una afirmación vale lo que vale el estudio que la sostiene, y desde 2015 se sabe que muchos estudios famosos sostenían menos de lo que decían.
 
-Psicología es la base de otros tres temas del área «Personas», que todavía no están escritos. Desarrollo personal dice cómo se practica un hábito o se maneja el estrés; Liderazgo y dirección, cómo se motiva a un equipo o se decide en grupo; Comunicación, cómo se convence. Los tres van a enlazar acá el mecanismo en lugar de explicarlo de nuevo. Ya lo aplican a su terreno [Percepción y decisión](../UX/Percepcion-y-decision/percepcion-y-decision.md) en UX y la [economía del comportamiento en marketing](../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md), a una pantalla y a una venta.
+Psicología es la base de otros tres temas del área «Personas». Desarrollo personal dice cómo se practica un hábito o se maneja el estrés; [Liderazgo y dirección](../Liderazgo-y-direccion/liderazgo-y-direccion.md), cómo se motiva a un equipo o se decide en grupo; Comunicación, cómo se convence. Desarrollo personal y Comunicación todavía no están escritos. Los tres enlazan acá el mecanismo en lugar de explicarlo de nuevo. Ya lo aplican a su terreno [Percepción y decisión](../UX/Percepcion-y-decision/percepcion-y-decision.md) en UX y la [economía del comportamiento en marketing](../Marketing/Comunicacion/economia-del-comportamiento-en-marketing.md), a una pantalla y a una venta.
 
 El tema termina donde empieza la clínica. Los trastornos, el diagnóstico y la psicoterapia quedan afuera, salvo como límite: cuando una nota toca la salud mental, dice cuándo hace falta un profesional, y ninguna nota lo reemplaza.
 
@@ -50,7 +50,7 @@ flowchart LR
 - [Estrés y resiliencia](Estres-y-resiliencia/estres-y-resiliencia.md): qué le pasa a una persona bajo presión, cómo se recupera y qué es el burnout.
 - [Cognición social](Cognicion-social/cognicion-social.md): cómo pensamos sobre los demás y cuánto nos influyen.
 
-Quedan afuera la biopsicología, la conciencia y el desarrollo a lo largo de la vida, que aparecen solo como mención dentro de cada mecanismo. La sensación y la percepción aplicadas a pantallas viven en [UX](../UX/ux.md), y la psicología del trabajo se reparte entre Liderazgo y dirección y esta base.
+Quedan afuera la biopsicología, la conciencia y el desarrollo a lo largo de la vida, que aparecen solo como mención dentro de cada mecanismo. La sensación y la percepción aplicadas a pantallas viven en [UX](../UX/ux.md), y la psicología del trabajo se reparte entre [Liderazgo y dirección](../Liderazgo-y-direccion/liderazgo-y-direccion.md) y esta base.
 
 ## Por qué cada nota dice qué se sostuvo
 

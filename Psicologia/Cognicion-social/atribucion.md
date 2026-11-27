@@ -50,4 +50,4 @@ Conviene no confundir los dos fenómenos. Malle evaluó la asimetría actor-obse
 
 ## Dónde se nota en un equipo
 
-Juzgar a alguien por un resultado sin mirar las condiciones en que trabajó es el caso cotidiano del sesgo, y es inferencia de esta base, no un hallazgo citado. Cómo se evalúa el desempeño de otros con menos sesgo es asunto del tema Liderazgo y dirección, que todavía no está escrito. Que el observador subestime la presión de la situación enlaza con la [influencia social](influencia-social.md); esa conexión es inferencia de esta base.
+Juzgar a alguien por un resultado sin mirar las condiciones en que trabajó es el caso cotidiano del sesgo, y es inferencia de esta base, no un hallazgo citado. Cómo se evalúa el desempeño de otros con menos sesgo está en [evaluación del desempeño](../../Liderazgo-y-direccion/Gestion-de-personas/evaluacion-del-desempeno.md), en Liderazgo y dirección. Que el observador subestime la presión de la situación enlaza con la [influencia social](influencia-social.md); esa conexión es inferencia de esta base.

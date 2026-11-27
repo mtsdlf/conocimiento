@@ -54,7 +54,7 @@ Los emprendedores y fundadores aparecen en la nota de [burnout](burnout.md) como
 
 ## Dónde termina esta parte
 
-La vertical describe el estrés y el desgaste; la clínica queda afuera. La depresión, el trastorno de estrés postraumático y los trastornos de ansiedad aparecen solo como límite: cuándo lo que se describe acá deja de ser una reacción esperable y pasa a pedir un profesional. Cómo se practica manejar el estrés día a día va en Desarrollo personal, y cómo se organiza un equipo para que no se queme, en Liderazgo y dirección; los dos temas todavía no existen.
+La vertical describe el estrés y el desgaste; la clínica queda afuera. La depresión, el trastorno de estrés postraumático y los trastornos de ansiedad aparecen solo como límite: cuándo lo que se describe acá deja de ser una reacción esperable y pasa a pedir un profesional. Cómo se practica manejar el estrés día a día va en Desarrollo personal, que todavía no existe, y cómo se dirige un equipo, en [Liderazgo y dirección](../../Liderazgo-y-direccion/liderazgo-y-direccion.md).
 
 ## Las cuatro piezas
 

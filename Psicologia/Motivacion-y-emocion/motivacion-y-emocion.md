@@ -22,7 +22,7 @@ revisado: 2026-11-27
 
 Motivación y emoción es la parte de la psicología que explica por qué una persona hace lo que hace y qué siente al hacerlo. Reúne las teorías de qué mueve la conducta, qué son las emociones, cómo se regulan y qué predice el bienestar.
 
-Dentro de [Psicología](../psicologia.md) es la parte que pone la energía y la dirección. [Autorregulación](../Autorregulacion/autorregulacion.md) recibe de acá la meta y se ocupa de sostenerla contra el impulso del momento; [Aprendizaje y memoria](../Aprendizaje-y-memoria/aprendizaje-y-memoria.md) explica cómo el refuerzo y el hábito automatizan lo que acá se quiere; [Estrés y resiliencia](../Estres-y-resiliencia/estres-y-resiliencia.md) trata lo que pasa cuando las emociones negativas se sostienen bajo presión. La práctica (cómo motivar a un equipo, cómo armar metas personales) va a vivir en los temas Liderazgo y dirección y Desarrollo personal, que todavía no existen.
+Dentro de [Psicología](../psicologia.md) es la parte que pone la energía y la dirección. [Autorregulación](../Autorregulacion/autorregulacion.md) recibe de acá la meta y se ocupa de sostenerla contra el impulso del momento; [Aprendizaje y memoria](../Aprendizaje-y-memoria/aprendizaje-y-memoria.md) explica cómo el refuerzo y el hábito automatizan lo que acá se quiere; [Estrés y resiliencia](../Estres-y-resiliencia/estres-y-resiliencia.md) trata lo que pasa cuando las emociones negativas se sostienen bajo presión. La práctica vive en otros temas: cómo motivar a un equipo, en [motivar a un equipo](../../Liderazgo-y-direccion/Liderar-personas/motivar-a-un-equipo.md), y cómo armar metas personales, en Desarrollo personal, que todavía no existe.
 
 ## Las dos mitades: lo que mueve y lo que se siente
 
