@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El entrenamiento puede cambiar cuánto músculo y cuánta grasa hay, pero no la forma de los músculos ni dónde se va la grasa; la respuesta varía muchísimo de una persona a otra, y buscar un cuerpo a cualquier costo trae riesgos reales, como los anabólicos y la dismorfia muscular.
+  El entrenamiento puede cambiar cuánto músculo y cuánta grasa hay, pero no se elige de dónde se va la grasa, y no hay estudios que digan si cambia la forma de los músculos; la respuesta varía muchísimo de una persona a otra, y buscar un cuerpo a cualquier costo trae riesgos reales, como los anabólicos y la dismorfia muscular.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -17,17 +17,17 @@ revisado:
 
 # Estética y entrenamiento
 
-El entrenamiento puede cambiar cuánto músculo y cuánta grasa hay, pero no la forma de los músculos ni dónde se va la grasa; la respuesta varía muchísimo de una persona a otra, y buscar un cuerpo a cualquier costo trae riesgos reales, como los anabólicos y la dismorfia muscular.
+El entrenamiento puede cambiar cuánto músculo y cuánta grasa hay, pero no se elige de dónde se va la grasa, y no hay estudios que digan si cambia la forma de los músculos; la respuesta varía muchísimo de una persona a otra, y buscar un cuerpo a cualquier costo trae riesgos reales, como los anabólicos y la dismorfia muscular.
 
 ## Qué esperar si entrenás por cómo te ves
 
-Entrená fuerza de forma progresiva y ajustá la comida: eso cambia cuánto músculo y cuánta grasa tenés. No vas a elegir de qué zona sale la grasa ni la forma de tus músculos. Compará tu progreso con vos mismo, no con otra persona, porque con el mismo plan unos cambian mucho y otros poco. Si notás que el cuerpo te ocupa la cabeza todo el día, o te ofrecen sustancias para acelerar, frená y hablalo con un profesional.
+Entrená fuerza de forma progresiva y ajustá la comida: eso cambia cuánto músculo y cuánta grasa tenés. No vas a elegir de qué zona sale la grasa, y de la forma de tus músculos no hay estudios que prometan nada. Compará tu progreso con vos mismo, no con otra persona, porque con el mismo plan unos cambian mucho y otros poco. Si notás que el cuerpo te ocupa la cabeza todo el día, o te ofrecen sustancias para acelerar, frená y hablalo con un profesional.
 
 ## Lo que el entrenamiento cambia y lo que no
 
 Lo que se puede cambiar es la cantidad de músculo y la de grasa. El músculo lo construye la fuerza ([principios básicos](principios-basicos.md)) y la grasa baja sobre todo con la comida ([bajar grasa y ganar músculo](bajar-grasa-y-ganar-musculo.md)). La parte de la comida para este objetivo está en [estética](../Nutricion/Objetivos-del-adulto/estetica.md).
 
-Lo que no se elige es de dónde sale la grasa: hacer abdominales no baja la grasa de la panza, como cuenta [mitos del entrenamiento](mitos-del-entrenamiento.md). La forma de cada músculo, dónde se inserta y las proporciones del cuerpo dependen en buena parte de cada persona.
+Lo que no se elige es de dónde sale la grasa: hacer abdominales no baja la grasa de la panza, como cuenta [mitos del entrenamiento](mitos-del-entrenamiento.md). Sobre la forma de cada músculo, dónde se inserta y las proporciones del cuerpo no encontramos estudios: no se puede prometer cambiarlas.
 
 > [!NOTE]
 > Sin fuente todavía: evidencia sobre cuánto puede cambiarse la forma o la proporción de un músculo con el entrenamiento, y sobre ritmos de cambio a 3, 6 y 12 meses.
@@ -40,7 +40,7 @@ La consecuencia práctica es que la foto de otra persona no sirve de meta. Sirve
 
 ## Los anabólicos tienen riesgos graves
 
-Quienes más usan anabólicos y otras sustancias para mejorar el físico no son atletas. La Endocrine Society (la sociedad de endocrinólogos más grande del mundo) dice que «la gran mayoría de los usuarios no son atletas sino levantadores de pesas no atletas» (en el original: "the vast majority of PED users are not athletes but rather nonathlete weightlifters"). Asocia el uso con más riesgo de muerte y con trastornos cardiovasculares, psiquiátricos, metabólicos, hormonales, hepáticos, renales y musculares ([Pope y otros, 2014](https://doi.org/10.1210/er.2013-1058)).
+La mayoría de quienes usan anabólicos y otras sustancias para mejorar el físico no son atletas. La Endocrine Society (sociedad estadounidense de endocrinología) dice que «la gran mayoría de los usuarios [de anabólicos y otras sustancias para rendir] no son atletas sino levantadores de pesas no atletas» (en el original: "the vast majority of PED users are not athletes but rather nonathlete weightlifters"). Asocia el uso con más riesgo de muerte y con trastornos cardiovasculares, psiquiátricos, metabólicos, hormonales, hepáticos, renales y musculares ([Pope y otros, 2014](https://doi.org/10.1210/er.2013-1058)).
 
 Una segunda revisión, independiente, describe muerte cardíaca súbita, problemas neuropsiquiátricos e infertilidad, y estima que «15 a 25 % de los varones que van al gimnasio» los usan en algún momento (en el original: "15 to 25% of male gym attendees") ([revisión de 2021](https://doi.org/10.1155/2021/7497346)). Las dos fuentes concuerdan. No hay ensayos sobre los riesgos, por razones éticas: todo es observacional (gente seguida sin intervenir) y de revisiones. Los suplementos legales y lo que sirve de ellos están en [suplementos](../Nutricion/Objetivos-del-adulto/suplementos.md).
 

@@ -25,13 +25,13 @@ Para bajar grasa y ganar o conservar músculo, el entrenamiento que importa es l
 
 ## Qué hacer con 3 o 4 días por semana
 
-Hacé fuerza en todos o casi todos esos días, trabajando el cuerpo entero dos veces por semana y subiendo el peso de a poco. Sumá cardio si te gusta o si te sobra tiempo, y caminá más en el día. La grasa la baja el déficit de comida: el entrenamiento hace que lo que se pierda sea grasa y no músculo. Si recién empezás o tenés bastante grasa, podés ganar músculo y perder grasa a la vez; si ya entrenás hace años, eso cuesta más.
+Hacé fuerza con cada grupo grande al menos dos veces por semana y subí el peso de a poco; repartirlo en tus 3 o 4 días es una forma de aplicarlo, no un plan estudiado. Sumá cardio si te gusta o si te sobra tiempo, y caminá más en el día. La grasa la baja el déficit de comida: el entrenamiento de fuerza ayuda a que se pierda menos músculo. Si recién empezás o tenés bastante grasa, podés ganar músculo y perder grasa a la vez; si ya entrenás hace años, eso cuesta más.
 
 ## La fuerza es la que protege el músculo en un déficit
 
 Cuando se baja de peso solo con dieta, una parte de lo perdido es músculo. Una revisión concluye que el ejercicio aeróbico y el de fuerza ayudan a preservarlo, y que la fuerza además mejora la fuerza muscular ([Cava y otros, 2017](https://doi.org/10.3945/an.116.014506)).
 
-El ensayo más claro es de Villareal y otros (2017), con 160 personas mayores de 65 años con obesidad, a dieta durante 6 meses. Todos los grupos con ejercicio bajaron 9 % de peso. La masa magra (músculo, hueso y agua) bajó 5 % con solo aeróbico, 3 % con aeróbico más fuerza y 2 % con solo fuerza; la fuerza subió 18 a 19 % en los grupos con pesas y 4 % en el de aeróbico ([Villareal y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5552187/)). Es un ensayo aleatorizado, pero en mayores: en un adulto joven la dirección probablemente sea la misma y los números no se trasladan.
+El ensayo más claro es de Villareal y otros (2017), con 160 personas mayores de 65 años con obesidad, a dieta durante 6 meses. Todos los grupos con ejercicio bajaron 9 % de peso. La masa magra (lo que no es grasa, en buena parte músculo) bajó 5 % con solo aeróbico, 3 % con aeróbico más fuerza y 2 % con solo fuerza; la fuerza subió 18 a 19 % en los grupos con pesas y 4 % en el de aeróbico ([Villareal y otros, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5552187/)). Es un ensayo aleatorizado, pero en mayores: en un adulto joven la dirección probablemente sea la misma (es inferencia), pero los números no se trasladan.
 
 Un déficit largo frena el músculo nuevo pero no la fuerza. En un metaanálisis (un estudio que junta y recalcula varios), quienes entrenaban fuerza en déficit ganaron menos masa magra que quienes comían lo suficiente, con un tamaño del efecto (cuánto difieren los grupos, en unidades comparables) de -0,57; la ganancia de fuerza fue comparable ([Murphy y Koehler, 2022](https://doi.org/10.1111/sms.14075)). Cuánto déficit conviene está en [pérdida de grasa](../Nutricion/Objetivos-del-adulto/perdida-de-grasa.md).
 
@@ -52,10 +52,10 @@ Los pasos diarios se asocian con menos mortalidad: frente al cuarto que menos ca
 
 Sin cambiar la comida, el ejercicio suele mover poco la balanza. Según una revisión, salvo con volúmenes muy altos de aeróbico, es poco probable una pérdida de peso relevante: unos 0 a 2 kg con aeróbico solo, frente a 9 a 13 kg combinado con dieta ([Swift y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24438736/)). El ejercicio sí ayuda a no recuperar lo bajado.
 
-Una explicación es que el cuerpo compensa: en 332 adultos de cinco poblaciones, el gasto diario subió con la actividad y se aplanó en el rango alto ([Pontzer y otros, 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4803033)). Una revisión de los mismos autores dice que en ensayos de aeróbico el gasto total subió solo una fracción de lo esperado, menos con fuerza y más si se combina con dieta (Pontzer y Trexler, 2026, *Current Biology*).
+Una hipótesis es que el cuerpo compensa: en 332 adultos de cinco poblaciones, el gasto diario subió con la actividad y se aplanó en el rango alto ([Pontzer y otros, 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4803033)). Una revisión de los mismos autores dice que en ensayos de aeróbico el gasto total subió solo alrededor del 30 % de lo esperado; la compensación fue menor con fuerza y mayor si se combina con dieta (Pontzer y Trexler, 2026, *Current Biology*, según su resumen).
 
 > [!IMPORTANT]
-> El tamaño de la compensación está discutido. La cifra de que el gasto sube «alrededor del 30 %» de lo previsto (Pontzer y Trexler, 2026) está por verificar en el texto, y es de los autores del modelo; una revisión de 2023, no leída, le marca límites de método y pide ensayos mejores. Lo que no se discute es que el ejercicio solo suele bajar poco.
+> El tamaño de la compensación está discutido. La cifra del 30 % figura en el resumen de la revisión (Pontzer y Trexler, 2026) y no se contrastó con el texto completo; además, es de los autores del modelo; una revisión de 2023, no leída, le marca límites de método y pide ensayos mejores. Lo que no se discute es que el ejercicio solo suele bajar poco.
 
 ## Qué esperar y en cuánto tiempo
 

@@ -30,11 +30,14 @@ Entrenar fuerza lesiona poco comparado con otros deportes; antes de empezar alca
 
 ## Cuándo seguir, parar o consultar
 
-Antes de empezar, si tenés una enfermedad del corazón, metabólica o renal, o síntomas como dolor de pecho o mareos, consultá a un médico; si no, respondé un cuestionario de aptitud y arrancá suave. El dolor sordo y difuso uno o dos días después de entrenar es normal: bajá la intensidad y seguí. Pará y consultá si el dolor es súbito y puntual, si hay hinchazón o deformidad, o si dura una semana. Dolor en el pecho, falta de aire que no se va al parar, o orina oscura después de un esfuerzo raro: atención médica ya. Esta nota no reemplaza a un médico ni a un kinesiólogo.
+Antes de empezar, si tenés una enfermedad del corazón, metabólica o renal, o síntomas como dolor de pecho o mareos, consultá a un médico; si no, respondé un cuestionario de aptitud y arrancá con calma (esto último es prudencia nuestra). El dolor sordo y difuso uno o dos días después de entrenar es normal: bajá la intensidad y seguí. Pará y consultá si el dolor es súbito y puntual, si hay hinchazón o deformidad, o si dura una semana. Dolor en el pecho o falta de aire que no se va al parar: atención médica de inmediato. Orina oscura, calambres o dolor muscular muy intenso después de un esfuerzo fuerte: que te evalúe un médico pronto. Esta nota no reemplaza a un médico ni a un kinesiólogo.
 
 ## Antes de empezar: un cuestionario, no un chequeo para todos
 
-El PAR-Q+ (cuestionario de aptitud para la actividad física) decide quién necesita consulta médica antes de entrenar; la versión vigente es de 2023 ([Warburton y otros, 2023](https://hfjc.library.ubc.ca/index.php/HFJC/article/view/839)). El Colegio Estadounidense de Medicina del Deporte (ACSM) cambió en 2015 su criterio: decide según tres cosas, si la persona ya hace ejercicio, si tiene síntomas o enfermedad cardiovascular, metabólica o renal conocida, y qué intensidad quiere hacer ([Riebe y otros, 2015](https://digitalcommons.uri.edu/kinesiology_facpubs/180)). Lo cambió porque mandar al médico a quien no lo necesitaba desalentaba empezar.
+El PAR-Q+ es un cuestionario de aptitud para la actividad física; la versión vigente es de 2023 ([Warburton y otros, 2023](https://hfjc.library.ubc.ca/index.php/HFJC/article/view/839)). El Colegio Estadounidense de Medicina del Deporte (ACSM) cambió en 2015 su criterio: decide según tres cosas, si la persona ya hace ejercicio, si tiene síntomas o enfermedad cardiovascular, metabólica o renal conocida, y qué intensidad quiere hacer ([Riebe y otros, 2015](https://digitalcommons.uri.edu/kinesiology_facpubs/180)). Lo cambió porque mandar al médico a quien no lo necesitaba desalentaba empezar.
+
+> [!NOTE]
+> Sin fuente todavía: el algoritmo completo del PAR-Q+ y del ACSM (quién necesita autorización médica en cada combinación de síntomas e intensidad). Solo se leyeron los resúmenes.
 
 ## El apto físico en la Ciudad de Buenos Aires
 
@@ -60,12 +63,12 @@ En tendinopatías, los kinesiólogos usan un modelo en el que se sigue entrenand
 
 Poco, comparado con deportes de equipo. En deportes de pesas, las zonas más lesionadas son hombro, zona lumbar, rodilla, codo y muñeca, con distensiones, tendinitis y esguinces (Keogh y Winwood, 2017, *Sports Medicine*). Solo 5 de los 20 estudios de esa revisión tenían bajo riesgo de sesgo. En CrossFit, una revisión dio de 0,2 a 18,9 lesiones por 1000 horas, un rango que muestra cuánto varía la forma de medir ([Rodríguez y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/33322981/)).
 
-La fuerza, además, protege. En 25 ensayos con 26.610 participantes, el entrenamiento de fuerza bajó las lesiones deportivas a menos de un tercio, con un RR (riesgo relativo: 0,315 es 68 % menos riesgo) de 0,315; estirar no tuvo efecto ([Lauersen y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24100287/)). Lo de estirar está en [mitos del entrenamiento](mitos-del-entrenamiento.md).
+Hay una sola fuente de que la fuerza, además, protege. En 25 ensayos con 26.610 participantes, el entrenamiento de fuerza bajó las lesiones deportivas a menos de un tercio, con un RR (riesgo relativo: 0,315 es 68 % menos riesgo) de 0,315; estirar no tuvo efecto ([Lauersen y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24100287/)). Lo de estirar está en [mitos del entrenamiento](mitos-del-entrenamiento.md).
 
-## Rabdomiólisis: rara, grave y evitable
+## Rabdomiólisis: rara, grave y ligada a esfuerzos inusuales
 
 La rabdomiólisis es la ruptura masiva de músculo, que puede dañar los riñones. Una revisión la describe como rara y potencialmente mortal, ligada a ejercicio inhabitual, calor extremo, infecciones o medicamentos ([Rawson, Clarkson y Tarnopolsky, 2017](https://pubmed.ncbi.nlm.nih.gov/28332112/)). En 772 casos, 54 % siguió a correr y 15 % a levantar pesas; los autores la creen subestimada y piden evaluar a quien tiene dolor muscular intenso, calambres u orina oscura tras un esfuerzo fuerte ([Bäcker y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36877581/)).
 
 ## Qué tan firme es lo que dice esta nota
 
-Silbernagel 2020 se leyó en parte; el resto, según su resumen, y lo de los hospitales, desde el buscador. Lo de riesgo (rabdomiólisis, fuerza contra lesiones) tiene dos fuentes independientes cada uno; las señales de alarma, solo divulgación.
+Silbernagel 2020 se leyó en parte; el resto, según su resumen, y lo de los hospitales, desde el buscador. Lo de la rabdomiólisis tiene dos fuentes independientes; que la fuerza proteja de lesiones, una sola (Lauersen); las señales de alarma, solo divulgación.

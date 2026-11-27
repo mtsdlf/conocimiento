@@ -59,14 +59,14 @@ Estar sentado muchas horas pesa, pero la actividad lo compensa. En un millón de
 
 ## Algo es mejor que nada: ráfagas cortas y pasos
 
-En 25.241 personas que no hacían ejercicio, tres ráfagas diarias de 1 a 2 minutos de actividad intensa en la vida diaria (subir escaleras rápido, cargar bolsas) se asociaron con 38 a 40 % menos mortalidad ([Stamatakis y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/36482104/)). Con los pasos diarios pasa algo parecido: frente al cuarto que menos caminaba (mediana de 3553 pasos), el que más caminaba (mediana de 10.901) tuvo HR 0,47 ([Paluch y otros, 2022](https://doi.org/10.1016/s2468-2667(21)00302-9)).
+En 25.241 personas que no hacían ejercicio, tres ráfagas diarias de 1 a 2 minutos de actividad intensa en la vida diaria (de la vida diaria, no de una sesión de ejercicio) se asociaron con 38 a 40 % menos mortalidad ([Stamatakis y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/36482104/)). Con los pasos diarios pasa algo parecido: frente al cuarto que menos caminaba (mediana de 3553 pasos), el que más caminaba (mediana de 10.901) tuvo HR 0,47 ([Paluch y otros, 2022](https://doi.org/10.1016/s2468-2667(21)00302-9)).
 
 Quien empieza de cero empieza con lo que puede y sube de a poco ([principios básicos](principios-basicos.md)); si vuelve tras mucho tiempo, antes lee [dolor y lesiones](dolor-y-lesiones.md).
 
 ## Lo que estos números no prueban
 
-Casi todo lo de arriba es observacional: muestra que la gente activa vive más, no que el ejercicio sea la única causa. Quien se mueve más suele también comer mejor y fumar menos. La dirección del efecto es muy consistente; el tamaño exacto de cada cifra es lo menos firme.
+Casi todo lo de arriba es observacional: muestra que la gente activa vive más, no que el ejercicio sea la única causa. Es razonable pensar (inferencia, no un dato de estos estudios) que quien se mueve más también cuida otros hábitos, como la comida o el cigarrillo. La dirección del efecto es muy consistente; el tamaño exacto de cada cifra es lo menos firme.
 
 ## Qué tan firme es lo que dice esta nota
 
-Las directrices de la OMS y los estudios citados se leyeron según su resumen, no en texto completo; la página del Ministerio se leyó entera. Las cifras de HR son de estudios observacionales. La nota no reemplaza la consulta médica antes de empezar si hay enfermedad o síntomas.
+Las directrices de la OMS y los estudios citados se leyeron según su resumen, no en texto completo; la página del Ministerio se leyó entera. Las cifras de pasos de Paluch vienen de un informe de investigación, también según su resumen. Las cifras de HR son de estudios observacionales. La nota no reemplaza la consulta médica antes de empezar si hay enfermedad o síntomas.

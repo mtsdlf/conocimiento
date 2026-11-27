@@ -44,13 +44,13 @@ Lo único que se resiente es la fuerza explosiva (saltar, arrancar rápido): -0,
 
 El HIIT (entrenamiento por intervalos de alta intensidad) alterna tramos cortos muy exigentes con pausas. En 13 ensayos con adultos de 18 a 45 años con sobrepeso, los intervalos y el cardio continuo moderado bajaron la grasa y la cintura por igual, pero los intervalos pidieron «~40 % menos tiempo de entrenamiento» (en el original: "HIIT required ~40% less training time commitment") ([Wewege y otros, 2017](https://pubmed.ncbi.nlm.nih.gov/28401638/)). Otro metaanálisis, de 29 ensayos, dio una ventaja a los intervalos en cintura, grasa y capacidad aeróbica, aunque con una relevancia clínica «limitada» (en el original: "limited") ([Guo y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36981649/)).
 
-Las dos revisiones coinciden en lo práctico: el resultado es parecido y los intervalos ahorran tiempo. Cuál elegir depende de cuánto tiempo hay y de cuál se sostiene semana a semana, que es lo que pesa según [principios básicos](principios-basicos.md). Para la grasa, la comida pesa más que el tipo de cardio ([pérdida de grasa](../Nutricion/Objetivos-del-adulto/perdida-de-grasa.md)).
+Las dos revisiones coinciden en lo práctico: el resultado es parecido y los intervalos ahorran tiempo. Cuál elegir depende de cuánto tiempo hay y de cuál se sostiene semana a semana, que es lo que pesa según [principios básicos](principios-basicos.md). Para la grasa, el ejercicio solo baja poco peso, como cuenta [bajar grasa y ganar músculo](bajar-grasa-y-ganar-musculo.md); la comida está en [pérdida de grasa](../Nutricion/Objetivos-del-adulto/perdida-de-grasa.md).
 
 ## La zona 2 está de moda y la evidencia es floja
 
-La "zona 2" es cardio suave y largo, justo por debajo del punto en que la respiración se acelera. Un grupo de 14 expertos no se puso de acuerdo en cómo definirla y dijo que sus efectos «podrían no ser exclusivos de la zona 2» (en el original: "might not be unique to zone 2") ([Sitko y otros, 2025](https://pubmed.ncbi.nlm.nih.gov/40010355/)). Una revisión crítica concluyó que la evidencia no la sostiene como la intensidad óptima, y sugiere priorizar intensidades más altas cuando hay poco tiempo ([Storoschuk y otros, 2025](https://pubmed.ncbi.nlm.nih.gov/40560504/)).
+La "zona 2" es cardio a una intensidad justo por debajo del primer umbral de lactato o ventilatorio, el punto en que la respiración empieza a acelerarse. Un grupo de 14 expertos no se puso de acuerdo en cómo definirla y dijo que sus efectos «podrían no ser exclusivos de la zona 2» (en el original: "might not be unique to zone 2") ([Sitko y otros, 2025](https://pubmed.ncbi.nlm.nih.gov/40010355/)). Una revisión crítica concluyó que la evidencia no la sostiene como la intensidad óptima para mejorar la capacidad mitocondrial ni la de oxidar grasas, y sugiere priorizar intensidades más altas cuando hay poco tiempo ([Storoschuk y otros, 2025](https://pubmed.ncbi.nlm.nih.gov/40560504/)).
 
-Es cardio moderado y sirve como tal. Lo que no está probado es que sea mejor que otras intensidades para un adulto común.
+Lo que estas fuentes no muestran es que sea mejor que otras intensidades para un adulto común.
 
 > [!NOTE]
 > Sin fuente todavía: un ensayo o metaanálisis de zona 2 en población general, a favor o en contra.
@@ -59,4 +59,4 @@ Cómo armar la semana en detalle (qué días, qué orden, cuántos intervalos) e
 
 ## Qué tan firme es lo que dice esta nota
 
-Todas las fuentes se leyeron según su resumen. Lo de fuerza más cardio y de intervalos sale de metaanálisis de ensayos, lo más firme del campo, aunque los ensayos suelen ser chicos. Lo de salud a largo plazo es observacional. Lo de zona 2 es opinión de expertos y una revisión narrativa.
+Todas las fuentes se leyeron según su resumen. Lo de fuerza más cardio y de intervalos sale de metaanálisis de ensayos. Lo de salud a largo plazo es observacional. Lo de zona 2 es opinión de expertos y una revisión narrativa.
