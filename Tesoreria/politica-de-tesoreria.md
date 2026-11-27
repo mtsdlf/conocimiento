@@ -7,9 +7,13 @@ fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 9.2.1, 9.7.1 a 9.7.6, pp. 23-26 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "AFP, 2026 Payments Fraud and Control Survey Report: Key Highlights (leído el resumen; solo EE. UU.): https://www.truist.com/content/dam/truist-bank/us/en/documents/info/cci/2026-afp-payments-fraud-control-survey-report-key-highlights.pdf"
   - "Wikipedia, Two-person rule (según su resumen; fuente terciaria): https://en.wikipedia.org/wiki/Four-eyes_principle"
+  - "AFP, Create a Treasury Policy in 5 Steps (15/10/2024) (leído): https://afponline.org/training-resources/resources/articles/Details/create-a-treasury-policy-in-5-steps"
+  - "AFP, 10 Treasury Policies Every Company Should Have (14/4/2025) (leído): https://www.financialprofessionals.org/training-resources/resources/articles/Details/10-treasury-policies-every-company-should-have"
+  - "ACT, Risk Framework Treasury Policy (hub.treasurers.org) (leído): https://hub.treasurers.org/treasury-resources/risk-framework-treasury-policy/"
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, sección 1 (2026-11-27)"
   - "Tesoreria/.investigacion/financiamiento-y-riesgos.md, secciones 0 y 2 (2026-11-27)"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, sección 5 (2026-11-27)"
+  - "Tesoreria/.investigacion/pagos-y-politica-verificacion.md (2026-11-27)"
 aliases: [política de tesorería, treasury policy, política financiera, política de inversiones, investment policy, manual de tesorería, treasury procedures, procedimientos de tesorería]
 creado: 2026-11-27
 revisado:
@@ -40,7 +44,7 @@ Otros procesos de APQC remiten a una política escrita. La cobertura de tasa y d
 
 ## Qué capítulos tiene una política
 
-Las guías profesionales sobre el contenido de una política de tesorería, como las de la ACT o el libro de AFP *Essentials of Treasury Management*, no se pudieron leer. La lista que sigue es una lectura de esta base: toma cada proceso de la categoría 9.7 de APQC y le asigna el capítulo de la política que lo gobierna.
+La lista que sigue es una lectura de esta base, contrastada abajo con guías de AFP y de la ACT: toma cada proceso de la categoría 9.7 de APQC y le asigna el capítulo de la política que lo gobierna.
 
 | Capítulo | Qué fija | Proceso de APQC | Nota que lo aplica |
 |---|---|---|---|
@@ -54,7 +58,7 @@ Las guías profesionales sobre el contenido de una política de tesorería, como
 | Crédito a clientes | Quién fija el límite de crédito y qué se hace con las excepciones | 9.7.5.4 y 9.2.1.1 | [crédito a clientes](Credito-y-cobranzas/credito-a-clientes.md) |
 | Fraude y seguridad | Cómo se verifican los cambios de datos bancarios y qué se hace ante un fraude | 9.7.1.8 y 9.7.6 | [seguridad de los pagos](Pagos-a-proveedores/seguridad-de-los-pagos.md) |
 
-> [!NOTE] Sin fuente todavía: una guía profesional (ACT, AFP) sobre el contenido de una política de tesorería, para contrastar la tabla. La lista que circula como práctica, sin leer, coincide en lo grueso: objetivos y alcance, roles y autorizaciones, bancos y contrapartes con límites, instrumentos de inversión permitidos, límites de endeudamiento, cobertura, reportes y excepciones, y revisión periódica.
+Dos artículos de AFP coinciden en lo grueso con la tabla. El de 2025 enumera diez políticas: gestión de caja, gestión de cuentas bancarias, pagos, fraude, inversión de corto plazo, financiamiento de largo plazo, riesgo financiero, crédito y cobranzas, cumplimiento regulatorio y sistemas de tesorería. Cada una de las primeras ocho tiene su capítulo en la tabla. Las dos últimas, cumplimiento y sistemas, no tienen capítulo propio; los sistemas se asoman en 9.7.1.8. El de 2024 dice que una política lleva objetivos, alcance, principios, roles y responsabilidades, límites, medición del desempeño, controles de cumplimiento, manejo de excepciones y un ciclo de revisión con registro de cambios. La tabla no nombra la medición del desempeño ni las excepciones. La ACT pide además que la política fije el apetito de riesgo de cada riesgo, por ejemplo el depósito máximo o el plazo por contraparte, y que diga cómo se informa. Son guías de asociaciones de Estados Unidos y del Reino Unido; ninguna cubre Argentina.
 
 ## Las reglas de los pagos con datos
 

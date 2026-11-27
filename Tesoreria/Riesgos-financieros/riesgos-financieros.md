@@ -6,13 +6,17 @@ estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), categorías 9.7.3, 9.7.4 y 9.7.5 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Wikipedia, Liquidity risk, como fuente terciaria, orientada a bancos y aseguradoras (según su resumen): https://en.wikipedia.org/wiki/Liquidity_risk"
+  - "Comisión Europea, anexo con las enmiendas Supplier Finance Arrangements a la NIC 7 y la NIIF 7 (16/01/2024), párrafo B11F de la NIIF 7 (leído): https://data.consilium.europa.eu/doc/document/ST-5621-2024-ADD-1/en/pdf"
   - "Wikipedia, Interest rate risk, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Interest_rate_risk"
+  - "OpenStax, Principles of Finance, 20.4 Interest Rate Risk (leído): https://openstax.org/books/principles-finance/pages/20-4-interest-rate-risk"
+  - "OpenStax, Principles of Finance, 20.3 Exchange Rates and Risk (leído): https://openstax.org/books/principles-finance/pages/20-3-exchange-rates-and-risk"
   - "Wikipedia, Forward contract, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Forward_contract"
   - "Wikipedia, Greensill Capital, como fuente terciaria (leído): https://en.wikipedia.org/wiki/Greensill_Capital"
   - "Jin y Jorion (2006), Firm Value and Hedging: Evidence from U.S. Oil and Gas Producers, Journal of Finance 61(2):893-919 (según su abstract): https://ideas.repec.org/a/bla/jfinan/v61y2006i2p893-919.html"
   - "Tesoreria/.investigacion/financiamiento-y-riesgos.md, secciones 0 y 2 (2026-11-27)"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, sección 4 (2026-11-27)"
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, sección 4.5 (2026-11-27)"
+  - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [riesgos financieros, financial risk, financial risk management, gestión de riesgos financieros, riesgo de liquidez, liquidity risk, funding liquidity risk, riesgo de tasa, riesgo de tasa de interés, interest rate risk, riesgo de contraparte, counterparty risk, cobertura, hedging]
 creado: 2026-11-27
 revisado:
@@ -34,7 +38,7 @@ Dos cosas del marco importan para la pyme. La cobertura de tasa y la de cambio s
 
 El riesgo de liquidez es no poder pagar lo que vence. Wikipedia (fuente terciaria, escrita para bancos y aseguradoras) distingue dos formas. El riesgo de fondeo es que los pasivos no se puedan pagar a su vencimiento, o solo a un precio antieconómico. El riesgo de liquidez de mercado es que un activo no se pueda vender porque el mercado no lo compra.
 
-Las mitigaciones que lista la misma fuente son líneas de crédito siempre disponibles, reservas explícitas de liquidez, un plan de contingencia de fondeo y probar el flujo de caja día a día con el escenario de que una contraparte clave no pague. En una empresa no financiera cada una tiene su lugar en el tema (lectura de esta base):
+Las mitigaciones que lista la misma fuente son líneas de crédito siempre disponibles, reservas explícitas de liquidez, un plan de contingencia de fondeo y probar el flujo de caja día a día con el escenario de que una contraparte clave no pague. La NIIF 7 (párrafo B11F, leído en el anexo europeo) lista factores parecidos para cualquier empresa: líneas de crédito comprometidas, fuentes de fondeo diversas, concentraciones de riesgo de liquidez, procesos de control interno y planes de contingencia. En una empresa no financiera cada una tiene su lugar en el tema (lectura de esta base):
 
 - La reserva y dónde se pone, en [colocación de excedentes](../Caja-y-liquidez/colocacion-de-excedentes.md). Una colocación que no se puede rescatar a tiempo es riesgo de liquidez de mercado.
 - El escenario de prueba, en la [proyección de caja](../Caja-y-liquidez/proyeccion-de-caja.md).
@@ -44,7 +48,7 @@ Las mitigaciones que lista la misma fuente son líneas de crédito siempre dispo
 
 Wikipedia define el riesgo de tasa como la posibilidad de perder plata por los movimientos de las tasas de interés, pero trata bonos y bancos y no el caso de una empresa que debe.
 
-> [!NOTE] Sin fuente todavía: el riesgo de tasa para quien toma deuda. La lectura de esta base, sin fuente leída: con deuda a tasa variable la empresa pierde si la tasa sube, porque suben las cuotas; con tasa fija pierde si la tasa baja, porque paga más que el mercado. En una pyme se resuelve sobre todo al elegir el préstamo: tasa fija o variable, y a qué plazo. La empresa grande además cubre con instrumentos (un canje de tasa, un tope), que APQC pone en 9.7.5.2. Falta una guía profesional de la ACT o de la AFP.
+> [!NOTE] Sin fuente completa: el riesgo de tasa para quien toma deuda. OpenStax (20.4) muestra con un canje de tasas que quien paga tasa variable (LIBOR menos 0,5% en su ejemplo) enfrenta «fluctuating interest rates», y que fijarla da «predictability», que la fuente llama un beneficio para la empresa. No dice que las cuotas suben si la tasa sube ni que la tasa fija puede quedar por encima del mercado. La lectura de esta base, sin fuente leída: con deuda a tasa variable la empresa pierde si la tasa sube, porque suben las cuotas; con tasa fija pierde si la tasa baja, porque paga más que el mercado. En una pyme se resuelve sobre todo al elegir el préstamo: tasa fija o variable, y a qué plazo. La empresa grande además cubre con instrumentos (un canje de tasa, un tope), que APQC pone en 9.7.5.2. Falta una guía profesional de la ACT o de la AFP.
 
 Para el sistema, el riesgo de tasa se ve si cada [préstamo](../Financiamiento/prestamos.md) guarda si su tasa es fija o variable y contra qué referencia se ajusta: así la proyección puede mostrar las cuotas con una tasa más alta.
 
@@ -55,7 +59,7 @@ El riesgo de contraparte es que quien le debe algo a la empresa no cumpla. En un
 - Los clientes, que pueden no pagar lo que compraron a plazo: es el [crédito a clientes](../Credito-y-cobranzas/credito-a-clientes.md).
 - Los bancos y los emisores donde está la caja o la colocación: se acota repartiendo entre varios y fijando un límite por contraparte, en [cuentas bancarias](../Caja-y-liquidez/cuentas-bancarias.md) y [colocación de excedentes](../Caja-y-liquidez/colocacion-de-excedentes.md).
 - El financiador del que depende un cobro anticipado: en Greensill, según Wikipedia (fuente terciaria), las aseguradoras dejaron la cobertura y el financiador cayó; está en [financiamiento de la cadena](../Financiamiento/financiamiento-de-la-cadena.md).
-- La contraparte de una cobertura: según Wikipedia, los contratos forward tienen un riesgo de contraparte significativo (la fuente no da el motivo). Está en [riesgo de tipo de cambio](riesgo-de-tipo-de-cambio.md).
+- La contraparte de una cobertura: según Wikipedia, los contratos forward tienen un riesgo de contraparte significativo (la fuente no da el motivo); OpenStax (20.3) lo explica porque el forward es un contrato individualizado y «only as good as the promise of the counterparty». Está en [riesgo de tipo de cambio](riesgo-de-tipo-de-cambio.md).
 
 ## Cómo se decide qué cubrir
 

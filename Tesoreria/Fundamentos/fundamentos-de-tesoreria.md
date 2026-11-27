@@ -5,7 +5,8 @@ estado: borrador
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework Cross Industry 7.4 (2024), categorías 9.2, 9.6 y 9.7, pp. 23-26 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
-  - "AFP, especificaciones del examen CTP (leído el dominio 1; los demás, con la descripción truncada): http://ctpcert.financialprofessionals.org/overview/ctp-test-specifications"
+  - "AFP, especificaciones del examen CTP (leído, los cinco dominios completos): http://ctpcert.financialprofessionals.org/overview/ctp-test-specifications"
+  - "AFP, Key Dates in AFP History, en la página About AFP (leído): https://www.financialprofessionals.org/about/who-we-are/about-afp"
   - "ACT, marco de competencias (leído): https://www.treasurers.org/cpd-and-training/competency-framework/"
   - "OpenStax, Principles of Finance (2022), cap. 19, secciones 19.1 y 19.3 (leído) y títulos del cap. 20: https://openstax.org/books/principles-finance/pages/19-why-it-matters"
   - "Wikipedia, Association for Financial Professionals (resumen secundario): https://en.wikipedia.org/wiki/Association_for_Financial_Professionals"
@@ -19,6 +20,7 @@ fuentes:
   - "Bates, T., Kahle, K. y Stulz, R. (2009), Journal of Finance 64(5): 1985-2021, y NBER WP 12534 (abstract): https://www.nber.org/papers/w12534"
   - "Jensen, M. (1986), Agency Costs of Free Cash Flow, Corporate Finance, and Takeovers, American Economic Review 76(2): 323-329 (solo la cita): https://ideas.repec.org/a/aea/aecrev/v76y1986i2p323-29.html"
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md (2026-11-27)"
+  - "Tesoreria/.investigacion/argentina-y-fundamentos-verificacion.md (2026-11-27)"
   - "Tesoreria/.investigacion/caja-y-liquidez.md, secciones 0, 4 y 5 (2026-11-27)"
 aliases: [fundamentos de tesorería, historia de la tesorería, mitos de la caja, treasury fundamentals, cash myths, 82 % de las quiebras]
 creado: 2026-11-27
@@ -53,12 +55,12 @@ El crédito, la cobranza y la aplicación de cobros no están en 9.7: APQC los p
 | Dominio | Preguntas | Qué cubre |
 |---|---|---|
 | 1 | 55 a 60 | La liquidez: «Maintain corporate liquidity required to meet current and future obligations in a timely and cost-effective manner» |
-| 2 | 33 a 37 | La estructura de capital y el costo del capital de largo plazo |
+| 2 | 33 a 37 | La estructura de capital, el costo del capital de largo plazo y la cobertura de moneda, tasa y materias primas |
 | 3 | 12 a 17 | Las relaciones internas y externas |
-| 4 | 23 a 27 | La exposición a riesgos financieros, regulatorios y operativos |
+| 4 | 23 a 27 | La exposición a riesgos financieros, regulatorios y operativos, con el fraude, la contraparte y la continuidad del negocio |
 | 5 | 23 a 27 | La tecnología de la tesorería |
 
-Las descripciones de los dominios 2 y 4 se leyeron truncadas. Un tercio del examen es liquidez, lo que respalda que Caja y liquidez sea la vertical más grande del tema. La estructura de capital del dominio 2 queda fuera de esta base.
+Los dominios 2 y 4 se leyeron completos en la página de la AFP: el 2 enumera, entre otras tareas, los acuerdos sindicados, la emisión de deuda y capital, y «Hedge FX, interest rate and commodities exposure»; el 4 incluye detectar y mitigar fraude de pagos, evaluar el riesgo de contraparte y probar planes de continuidad. Un tercio del examen es liquidez, lo que respalda que Caja y liquidez sea la vertical más grande del tema. La estructura de capital y la deuda de largo plazo del dominio 2 quedan fuera de esta base.
 
 La ACT, la asociación de tesoreros del Reino Unido, separa en su marco de competencias dos cosas que esta base junta en Caja y liquidez: la gestión de caja, «the process of managing the flow of cash around the organisation», y la de liquidez, que «focuses on the organisation's short-term need to meet payments as they fall due». En los libros de texto el tema aparece como finanzas de corto plazo: OpenStax le dedica el capítulo 19 al capital de trabajo, el crédito comercial, la caja y las cuentas a cobrar, y el 20 al riesgo.
 
@@ -85,9 +87,9 @@ Según Wikipedia, «cash management» es además una etiqueta comercial de los b
 
 ## Lo que se sabe de la historia
 
-Poco tiene fuente. Según Wikipedia, la AFP otorgaba antes el Certified Cash Manager (CCM), que desde 2003 se fue absorbiendo en el CTP para reflejar el papel creciente de la tesorería dentro de las finanzas de la empresa; el examen suele cambiar cuando sale una edición nueva de su libro, *Essentials of Treasury Management*. Las fechas son las del resumen y no se confirmaron en la AFP.
+Lo que tiene fuente es la historia de la asociación. La AFP cuenta en su página que nació en 1979 como la National Corporate Cash Management Association, centrada en la liquidez de corto plazo; en 1986 creó la certificación CTP, en 1991 pasó a llamarse Treasury Management Association, y en 1999 tomó el nombre actual, «reflecting the full scope of functions within the office of the CFO». En 2003 la certificación Certified Cash Manager (CCM) se fundió en el CTP. Según Wikipedia, el examen suele cambiar cuando sale una edición nueva de su libro, *Essentials of Treasury Management*, que no se pudo leer.
 
-> [!NOTE] Sin fuente todavía: el origen del tesorero de empresa como función propia, la fundación de la asociación que hoy es la AFP, la aparición de los centros de servicios compartidos y de la tesorería centralizada, y la llegada de la banca electrónica y los archivos de pago. Ninguna fuente histórica se leyó.
+> [!NOTE] Sin fuente todavía: el origen del tesorero de empresa como función propia, la aparición de los centros de servicios compartidos y de la tesorería centralizada, y la llegada de la banca electrónica y los archivos de pago. Ninguna fuente de esos temas se leyó.
 
 ## Tres creencias sobre la caja y su evidencia
 

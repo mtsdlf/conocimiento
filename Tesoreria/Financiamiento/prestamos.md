@@ -4,7 +4,9 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "Wikipedia, Fixed-rate mortgage, como fuente terciaria (leído; la fórmula es matemática estándar): https://en.wikipedia.org/wiki/Fixed-rate_mortgage"
+  - "OpenStax, Principles of Finance, 8.3 Loan Amortization (leído): https://openstax.org/books/principles-finance/pages/8-3-loan-amortization"
+  - "OCC (Estados Unidos), Comptroller's Handbook, Asset-Based Lending, versión 1.1 (2017), secciones de línea rotativa, covenants y glosario (leído en esas secciones): https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/asset-based-lending/pub-ch-asset-based-lending.pdf"
+  - "IASB, página de la NIIF 16 Arrendamientos (leída; sin el texto de la norma): https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/"
   - "Wikipedia, Amortization calculator, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Amortization_calculator"
   - "Wikipedia, Amortization schedule, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Amortization_schedule"
   - "Wikipedia, Loan covenant, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Loan_covenant"
@@ -12,6 +14,7 @@ fuentes:
   - "Wikipedia, Finance lease, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Finance_lease"
   - "Tesoreria/.investigacion/financiamiento-y-riesgos.md, sección 1.2 (2026-11-27)"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, sección 2 (2026-11-27)"
+  - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [préstamo, préstamos, préstamo a plazo, term loan, sistema francés, sistema alemán, amortización, amortization schedule, cuadro de amortización, cuota constante, annuity loan, amortización constante, covenant, covenants, loan covenant, garantía, collateral, leasing, arrendamiento financiero, finance lease]
 creado: 2026-11-27
 revisado:
@@ -30,9 +33,9 @@ Toda cuota tiene dos partes: el interés sobre el saldo que se debe y la amortiz
 - Sistema francés. La cuota total es constante. Al principio casi toda es interés y al final casi toda es capital.
 - Sistema alemán. La amortización es constante: cada cuota devuelve la misma parte del capital, y como el saldo baja, el interés baja y la cuota también.
 
-La fórmula de la cuota francesa, según Wikipedia (fuente terciaria, y matemática estándar que se puede derivar), es c = P · r / (1 − (1 + r)^(−N)), con P el capital, r la tasa por período y N la cantidad de cuotas; si la tasa es cero, la cuota es P/N. El ejemplo de la fuente es una hipoteca de USD 200.000 al 6,5% anual a 30 años: r = 0,065/12, N = 360 y la cuota es USD 1.264,14, que esta base verificó.
+Según OpenStax (8.3), la cuota fija sale del valor presente de una anualidad: PMT = PV ÷ ([1 − 1/(1 + r)^n] / r). Es lo mismo que c = P · r / (1 − (1 + r)^(−N)), con P el capital, r la tasa por período y N la cantidad de cuotas; si la tasa es cero, la cuota es P/N (derivación de esta base). Cada cuota paga primero el interés y lo que sobra amortiza capital. El ejemplo de la fuente es un préstamo de USD 32.000 al 6% anual a 3 años (r = 0,5%, n = 36): la cuota es USD 973,50, con 160,00 de interés y 813,50 de capital el primer mes, y unos 3.046 de interés en total (la fuente da 3.046,08; el recálculo de esta base da 3.046,07 por redondeo).
 
-Las fuentes leídas no usan los nombres «francés» ni «alemán». La de cuadros de amortización nombra el método lineal (*straight line*) entre los usuales, que esta base lee como el de capital constante. Las fórmulas del alemán son derivación de esta base: la amortización es P/N, el interés de la cuota k es r · P · (1 − (k − 1)/N) y el interés total es r · P · (N + 1)/2.
+OpenStax solo trata el préstamo de cuota fija. Las fuentes leídas no usan los nombres «francés» ni «alemán». La de cuadros de amortización nombra el método lineal (*straight line*) entre los usuales, que esta base lee como el de capital constante. Las fórmulas del alemán son derivación de esta base: la amortización es P/N, el interés de la cuota k es r · P · (1 − (k − 1)/N) y el interés total es r · P · (N + 1)/2.
 
 ## El mismo préstamo en los dos sistemas
 
@@ -63,15 +66,17 @@ Un covenant es un compromiso que el deudor asume como parte del contrato de pré
 
 Romper un covenant puede darle al prestamista el derecho de exigir el pago anticipado o de cobrar más interés, según la misma fuente. La clasificación en tres clases es del resumen, no literal de los artículos.
 
-> [!NOTE] Sin fuente todavía: los ratios usuales en préstamos a empresas (deuda neta sobre EBITDA, cobertura de intereses, cobertura del servicio de la deuda) y sus umbrales típicos. Falta una fuente de libro o un contrato modelo.
+El manual del OCC, el regulador bancario de Estados Unidos, escrito para préstamos con garantía de activos, coincide en lo central. Según él, los covenants financieros exigen mantener ciertos ratios «as an ongoing condition of credit» y dan al banco «default triggers» que fuerzan una reestructuración u otras medidas. Su glosario distingue dos tipos. El covenant de mantenimiento se mide cada período, por lo general cada trimestre: si la deuda sube o las ganancias caen por debajo del límite, se incumple. El de incurrencia solo se prueba cuando la empresa hace algo, como pagar un dividendo, comprar otra empresa o tomar más deuda; si el ratio empeora solo por una caída de ganancias, no se rompe.
+
+> [!NOTE] Sin fuente todavía: los umbrales usuales de los ratios en préstamos a empresas (deuda neta sobre EBITDA, cobertura de intereses, cobertura del servicio de la deuda). El OCC dice que en los préstamos con garantía de activos el covenant financiero típico es una cobertura mínima de cargos fijos, y su glosario ilustra con un límite de deuda de 5 veces el flujo de caja, que es un ejemplo y no un valor usual. Falta una fuente de libro o un contrato modelo.
 
 Para un sistema, un covenant financiero es un cálculo con fecha: qué ratio, con qué datos contables, qué umbral, cada cuánto se mide y a quién se informa. La tesorería necesita verlo antes del cierre, con la proyección, para no enterarse por el banco (lectura de esta base).
 
 ## Leasing
 
-En el leasing financiero, según Wikipedia (fuente terciaria, según su resumen), la financiera suele ser la dueña legal del bien durante el contrato, y quien lo toma tiene el control operativo y comparte sus riesgos y beneficios. Bajo las NIIF, un arrendamiento es financiero si transfiere «substantially all the risks and rewards» de la propiedad; la cita viene del resumen y no se cotejó con la norma. La NIIF 16 eliminó esa clasificación para el tomador: registra un activo por derecho de uso y un pasivo por el arrendamiento, salvo los de corto plazo y bajo valor. El arrendador sigue clasificando.
+En el leasing financiero, según Wikipedia (fuente terciaria, según su resumen), la financiera suele ser la dueña legal del bien durante el contrato, y quien lo toma tiene el control operativo y comparte sus riesgos y beneficios. Bajo las NIIF, un arrendamiento es financiero si transfiere «substantially all the risks and rewards» de la propiedad; la cita viene del resumen y no se cotejó con la norma. La NIIF 16, según la página del IASB (leída), exige al tomador reconocer un activo por derecho de uso y un pasivo por el arrendamiento en todos los arrendamientos de más de 12 meses, salvo que el bien sea de bajo valor. Rige para ejercicios que empiecen el 1 de enero de 2019 o después y reemplazó a la NIC 17. Con eso el tomador deja de clasificar entre financiero y operativo. Que el arrendador sigue clasificando no está en la página y no se cotejó.
 
-> [!NOTE] Sin fuente todavía: la definición del leasing operativo y el texto de la NIIF 16.
+> [!NOTE] Sin fuente todavía: el texto de la NIIF 16 (la clasificación del arrendador, la definición del leasing operativo y la cita sobre «substantially all the risks and rewards»). Solo se leyó la página de resumen del IASB; el texto de la norma exige suscripción.
 
 Para la tesorería, la cuota del leasing es una salida de caja fija y contratada, igual que la de un préstamo, y entra a la proyección del mismo modo. Cómo se registra es de [Contabilidad](../../Contabilidad/contabilidad.md).
 

@@ -12,6 +12,10 @@ fuentes:
   - "Tesoreria/.investigacion/caja-y-liquidez.md, sección 3 (2026-11-27)"
   - "Tesoreria/.investigacion/caja-y-cobranzas-segunda-ronda.md, sección 1 (2026-11-27)"
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, sección 4.2 (2026-11-27)"
+  - "Tesoreria/.investigacion/caja-y-liquidez-verificacion.md (2026-11-27)"
+  - "Pinter, A. (Ankura), The only covenant that counts: the 13-week cash flow forecast, publicado en CFO el 3 de abril de 2026 (leído): https://ankura.com/insights/the-only-covenant-that-counts"
+  - "Masotta, A. (Stout), Projecting Cash Flow When There Is None, 1 de septiembre de 2016 (leído): https://www.stout.com/en/insights/article/projecting-cash-flow-when-there-none"
+  - "Huron, 4 Factors That Can Make or Break Your 13-Week Cash Flow, 1 de junio de 2018 (leído): https://huronconsultinggroup.com/insights/factors-make-break-cash-flow"
 aliases: [proyección de caja, pronóstico de caja, flujo de fondos proyectado, presupuesto de caja, cash flow forecast, cash forecast, cash budget, 13-week cash flow forecast, pronóstico de 13 semanas, rolling forecast, proyección móvil]
 creado: 2026-11-27
 revisado:
@@ -48,7 +52,9 @@ Los métodos indirectos parten de un estado de resultados y un balance proyectad
 
 La proyección de 13 semanas es la forma de la proyección de corto plazo que describen dos proveedores de software, igual los dos, que cuentan como una sola línea de práctica comercial. Según sus resúmenes, trece semanas son un trimestre: es un plazo en el que la mayoría de los datos ya se conocen (facturas emitidas, sueldos programados) y que a la vez deja tiempo para conseguir financiamiento o recortar gastos antes del pozo.
 
-> [!NOTE] Una sola fuente, y comercial: que el formato de 13 semanas nació en las reestructuraciones de empresas en crisis, donde prestamistas y tribunales pedían ver la liquidez semana por semana. Falta una fuente primaria sobre su origen.
+Su origen no tiene autor ni fecha. Una firma de reestructuraciones escribe que el pronóstico de 13 semanas «has no official inventor» y que su auge acompaña la ola de quiebras de los años ochenta y noventa, cuando, al crecer los concursos de acreedores en Estados Unidos, «lenders and bankruptcy courts needed a common language» (Ankura, 2026). Otra firma de reestructuraciones lo presenta como herramienta de manejo de caja y de comunicación con los prestamistas (Stout, 2016). Son dos fuentes de práctica, independientes de los proveedores de software.
+
+> [!NOTE] Sin fuente primaria: el origen exacto del formato de 13 semanas en las reestructuraciones. No se encontró una norma, una resolución judicial ni un trabajo académico que lo fije; lo que hay son textos de asesores que lo describen como práctica establecida.
 
 La forma, según esas fuentes: una columna por semana y filas de caja inicial, cobros por origen (cuentas a cobrar abiertas, facturación futura, otros), sueldos, proveedores, obligaciones fijas, partidas únicas, flujo neto y caja final, comparada con un mínimo o con lo que exige un préstamo. Es siempre de método directo, sin ajustes de devengado.
 
@@ -75,7 +81,9 @@ Según el resumen del artículo de referencia, es raro que los cobros coincidan 
 
 Además del tamaño del error importa su sentido. Si una fila yerra siempre para el mismo lado, el supuesto está mal y no es mala suerte. Una de las fuentes propone revisar cada semana las diez mayores desviaciones de cobros, cada una con su causa (pago tardío, disputa, promesa de pago incumplida, error de facturación, cobro sin aplicar) y su responsable.
 
-> [!NOTE] Sin fuente todavía: cuánto yerran las proyecciones de las empresas reales y qué margen de error se acepta. La propia fuente comercial dice que no hay una referencia independiente aceptada para una empresa mediana y que cada empresa fija la suya; la base no da un número.
+Dos firmas de reestructuraciones coinciden en el método sin dar un número. Stout dice que las variaciones por encima de un umbral porcentual fijado de antemano se explican como de «timing» (el pago llegó antes o después) o permanentes (un gasto omitido, comisiones extra, un ahorro que no llegó). Huron pide un informe semanal de variaciones que compare lo real con la proyección original. Ankura describe «weekly variance analysis» y no da umbrales.
+
+> [!NOTE] Sin fuente todavía: cuánto yerran las proyecciones de las empresas reales y qué margen de error se acepta. Las tres firmas de asesoría leídas y la fuente comercial dicen que el umbral lo fija cada empresa; ninguna da un número ni una referencia independiente, y la base no da un número.
 
 ## Cómo se diseña en un sistema
 

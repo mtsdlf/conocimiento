@@ -7,6 +7,9 @@ fuentes:
   - "CFO.com, Carillion collapse exposes flaws in trade finance disclosure (14/03/2018), que reproduce a Moody's (leído): https://www.cfo.com/news/carillion-collapse-exposes-flaws-in-trade-finance-disclosure/659262/"
   - "IASB, página del proyecto Supplier Finance Arrangements (leída; sin el texto de la enmienda): https://www.ifrs.org/projects/completed-projects/2023/supplier-finance-arrangements/"
   - "IASB, página de la NIC 7 (leída; sin el texto de la enmienda): https://www.ifrs.org/issued-standards/list-of-standards/ias-7-statement-of-cash-flows/"
+  - "Comisión Europea, anexo con el texto de las enmiendas Supplier Finance Arrangements a la NIC 7 y la NIIF 7 (16/01/2024), reproduce el texto del IASB (leído completo, 4 páginas): https://data.consilium.europa.eu/doc/document/ST-5621-2024-ADD-1/en/pdf"
+  - "EY, IASB amendments to IAS 7 and IFRS 7 for supplier finance arrangements (leído; solo la fecha de vigencia y el objetivo): https://www.ey.com/en_gl/technical/ifrs-technical-resources/iasb-amendments-to-ias-7-and-ifrs-7-for-supplier-finance-arrangements"
+  - "Comités de Trabajo y Pensiones y de Empresa, Energía y Estrategia Industrial, Cámara de los Comunes, Carillion, HC 769 (16/05/2018), copia alojada por el McGuinness Institute (leído el resumen, páginas 3 y 4; no el cuerpo del informe): https://mcguinnessinstitute.org/wp-content/uploads/2020/04/Business-Energy-and-Industrial-Strategy-and-Work-and-Pensions-Committees-2018.pdf"
   - "Wikipedia, Reverse factoring, como fuente terciaria, con avisos de citas faltantes (leído): https://en.wikipedia.org/wiki/Reverse_factoring"
   - "Wikipedia, Carillion, como fuente terciaria (leídos los primeros 100.000 caracteres): https://en.wikipedia.org/wiki/Carillion"
   - "Wikipedia, Greensill Capital, como fuente terciaria (leído; remite a Reuters, WSJ, FT, Bloomberg y NYT, no leídos): https://en.wikipedia.org/wiki/Greensill_Capital"
@@ -15,6 +18,7 @@ fuentes:
   - "Tesoreria/.investigacion/financiamiento-y-riesgos.md, sección 1 (2026-11-27)"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, sección 1 (2026-11-27)"
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, sección 4.3 (2026-11-27)"
+  - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [financiamiento de la cadena, financiamiento de la cadena de suministro, supply chain finance, SCF, reverse factoring, factoring inverso, confirming, supplier finance, supplier finance arrangements, acuerdos de financiación de proveedores]
 creado: 2026-11-27
 revisado:
@@ -24,7 +28,7 @@ revisado:
 
 El financiamiento de la cadena, o reverse factoring, es un acuerdo que inicia un comprador grande para que sus proveedores cobren antes a través de un financiador, a una tasa basada en el crédito del comprador, mientras el comprador paga más tarde; como la deuda sigue figurando como cuenta a pagar, puede no verse como deuda financiera.
 
-Se parece al [factoring](financiamiento-de-corto-plazo.md) pero lo arma el que debe y no el que cobra. Tiene nota propia por dos razones: su riesgo apareció en quiebras grandes, y desde 2023 las normas contables internacionales piden revelarlo. Cómo encaja entre los demás instrumentos está en [financiamiento](financiamiento.md).
+Se parece al [factoring](financiamiento-de-corto-plazo.md) pero lo arma el que debe y no el que cobra. Tiene nota propia por dos razones: su riesgo apareció en quiebras grandes, y las normas contables internacionales piden revelarlo desde los ejercicios que empiezan en 2024. Cómo encaja entre los demás instrumentos está en [financiamiento](financiamiento.md).
 
 ## Cómo funciona el acuerdo
 
@@ -55,13 +59,13 @@ Carillion, un grupo británico, entró en liquidación obligatoria el 15 de ener
 - Su deuda total rondaba los £1.500 millones, incluido un déficit de pensiones de £590 millones.
 - El pasivo con los bancos «was not evident from the balance sheet».
 
-Wikipedia (fuente terciaria) agrega que un analista de un banco de inversión había señalado en marzo de 2015 los plazos extendidos y el uso de reverse factoring, y que según lo reportado hasta 30.000 pequeñas empresas quedaron con deudas impagas y pagos retenidos hasta 120 días. Según la misma fuente, el Official Receiver estimó los pasivos de las 27 sociedades británicas liquidadas en £6.900 millones, más de tres veces la cifra de las cuentas de fines de 2016. Según el mismo artículo, el informe de los comités parlamentarios del 16 de mayo de 2018 concluyó: «The mystery is not that it collapsed, but that it lasted so long».
+Según el informe conjunto de los comités parlamentarios (HC 769, 16 de mayo de 2018), Carillion entró en liquidación en enero de 2018 con pasivos de casi £7.000 millones y £29 millones en caja, y debía unos £2.000 millones a sus 30.000 proveedores, subcontratistas y otros acreedores de corto plazo, de los que era «a notorious late payer». El resumen del informe concluye: «The mystery is not that it collapsed, but that it lasted so long». Wikipedia (fuente terciaria) agrega que un analista de un banco de inversión había señalado en marzo de 2015 los plazos extendidos y el uso de reverse factoring, y que los pagos a pequeñas empresas se retuvieron hasta 120 días; según la misma fuente, el Official Receiver estimó los pasivos de las 27 sociedades británicas liquidadas en £6.900 millones, más de tres veces la cifra de las cuentas de fines de 2016.
 
-> [!NOTE] Sin fuente todavía: el informe parlamentario original sobre Carillion (mayo de 2018) no se leyó; las cifras de arriba vienen de una nota de prensa que cita a Moody's y de Wikipedia.
+> [!NOTE] Sin fuente todavía: del informe parlamentario se leyó el resumen, pero no el capítulo sobre las cuentas, donde estaría el reverse factoring. Los £498 millones, los £148 millones del balance y el paso de 30 días a 4 meses vienen de Moody's citado por CFO.com. El sitio del Parlamento devolvió error 403 al intentar abrir el informe completo.
 
 ## Greensill: cuando el que se cae es el financiador
 
-Greensill Capital, un financiador de la cadena, se declaró insolvente el 8 de marzo de 2021, tras no poder pagar un préstamo de USD 140 millones a Credit Suisse. Todos los datos de esta sección tienen una sola fuente, Wikipedia, que remite a la prensa financiera de marzo de 2021 sin que se la haya leído.
+Greensill Capital, un financiador de la cadena, se declaró insolvente el 8 de marzo de 2021, tras no poder pagar un préstamo de USD 140 millones a Credit Suisse. Todos los datos de esta sección tienen una sola fuente, Wikipedia, que remite a la prensa financiera de marzo de 2021 sin que se la haya leído. En la segunda pasada se intentó abrir Reuters, Bloomberg, The Guardian, The New York Times, The Wall Street Journal y el informe del Comité del Tesoro del Parlamento británico, y ninguno dejó leer el texto.
 
 Greensill tenía tres negocios: el financiamiento de la cadena, el factoring y el financiamiento de cuentas a cobrar futuras, que prestaba contra ventas que todavía no se habían hecho. Se fondeaba con fondos de inversión de Credit Suisse que compraban sus títulos. En julio de 2020, aseguradoras, lideradas por una aseguradora japonesa, que cubrían USD 4.600 millones de capital de trabajo, avisaron que dejaban la cobertura. El 1 de marzo de 2021 Credit Suisse congeló USD 10.000 millones, y al 25 de marzo estimaba pérdidas de inversores de hasta USD 3.000 millones.
 
@@ -69,12 +73,23 @@ La lectura de esta base sobre el caso: el riesgo estaba más en lo financiado (v
 
 ## La enmienda del IASB de 2023
 
-En mayo de 2023 el IASB emitió *Supplier Finance Arrangements*, que modificó la NIC 7 (estado de flujos de efectivo) y la NIIF 7 (revelaciones de instrumentos financieros). Según la página de la NIC 7, la enmienda exige «additional disclosures about its supplier finance arrangements».
+En mayo de 2023 el IASB emitió *Supplier Finance Arrangements*, que modificó la NIC 7 (estado de flujos de efectivo) y la NIIF 7 (revelaciones de instrumentos financieros). El texto, leído en el anexo de la Comisión Europea, define el acuerdo en el párrafo 44G de la NIC 7: uno o más financiadores ofrecen pagar lo que la empresa debe a sus proveedores, y la empresa paga al financiador en la misma fecha o más tarde. El párrafo agrega que se lo llama también *supply chain finance*, *payables finance* o *reverse factoring*, y que no son acuerdos de este tipo las garantías ni las tarjetas de crédito.
 
-> [!NOTE] Sin fuente todavía: el texto de la enmienda no se pudo leer. Según el informe de investigación, sin verificar, pide revelar los términos del acuerdo, el importe de los pasivos incluidos y cuánto ya pagó el financiador, el rango de vencimientos frente a las cuentas a pagar comparables y los cambios que no mueven caja, para ejercicios desde el 1 de enero de 2024; y pide revelar, no reclasificar como deuda. Falta la NIC 7, párrafos 44F a 44H, y la NIIF 7. Existe una norma equivalente del FASB (ASU 2022-04), tampoco leída.
+Según el párrafo 44H, la empresa revela en forma agregada:
+
+- Los términos y condiciones, por ejemplo los plazos extendidos y las garantías; los acuerdos con términos distintos se revelan por separado.
+- Al inicio y al cierre del ejercicio, el valor en libros de los pasivos financieros incluidos en el acuerdo y el de los que los proveedores ya cobraron del financiador.
+- El rango de fechas de vencimiento de esos pasivos y el de cuentas a pagar comparables que no forman parte del acuerdo (el ejemplo del texto es «30–40 days after the invoice date»).
+- El tipo y el efecto de los cambios que no mueven caja en esos pasivos, como combinaciones de negocios o diferencias de cambio.
+
+La NIIF 7 (párrafo B11F) agrega tener acceso a estos acuerdos entre los factores que se consideran al revelar el riesgo de liquidez. La enmienda pide revelar y no cambia la clasificación de la deuda: los párrafos agregados son solo de revelación.
+
+Rige para ejercicios anuales que empiecen el 1 de enero de 2024 o después, con aplicación anticipada permitida (párrafo 62; EY da la misma fecha). El primer año no exige información comparativa, ni las cifras de pagos ya hechos y de rangos de vencimiento al inicio del ejercicio, ni la información de los períodos intermedios (párrafo 63).
+
+> [!NOTE] Sin fuente todavía: la norma equivalente del FASB (ASU 2022-04) no se leyó. El anexo europeo reproduce el texto del IASB; no se pudo abrir la publicación original del IASB, que exige suscripción.
 
 > [!IMPORTANT]
-> Si el financiamiento de la cadena es deuda escondida está en disputa. De un lado, Moody's (vía CFO.com) señaló que en Carillion el pasivo bancario no era evidente en el balance y había criticado lo mismo en Abengoa; el IASB emitió después una enmienda de revelación (las fuentes leídas no dicen que sea una respuesta a esos casos). Del otro, según el resumen de un buscador, S&P Global dijo en 2021 que la caída de Greensill tuvo poco impacto en la disponibilidad de este financiamiento, y Prem Sikka sostuvo que el caso Carillion no produjo cambios en las normas contables (también según un resumen). Lo que esta base puede afirmar: es financiamiento de proveedores que no siempre se ve como deuda, las NIIF piden revelarlo desde 2023 y estuvo presente en quiebras grandes. Las posiciones de las agencias de calificación no se leyeron en su fuente.
+> Si el financiamiento de la cadena es deuda escondida está en disputa. De un lado, Moody's (vía CFO.com) señaló que en Carillion el pasivo bancario no era evidente en el balance y había criticado lo mismo en Abengoa; el IASB emitió después una enmienda de revelación (las fuentes leídas no dicen que sea una respuesta a esos casos). Del otro, según el resumen de un buscador, S&P Global dijo en 2021 que la caída de Greensill tuvo poco impacto en la disponibilidad de este financiamiento, y Prem Sikka sostuvo que el caso Carillion no produjo cambios en las normas contables (también según un resumen). Lo que esta base puede afirmar: es financiamiento de proveedores que no siempre se ve como deuda, las NIIF piden revelarlo desde los ejercicios de 2024 y estuvo presente en quiebras grandes. Las posiciones de las agencias de calificación no se leyeron en su fuente: en la segunda pasada la página de S&P devolvió error 403 y la nota de la universidad, error 404.
 
 ## Qué tiene que registrar un sistema
 

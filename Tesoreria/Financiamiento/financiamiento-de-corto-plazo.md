@@ -9,7 +9,9 @@ fuentes:
   - "Wikipedia, Factoring (finance), como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Factoring_(finance)"
   - "Wikipedia, Invoice discounting, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Invoice_discounting"
   - "Wikipedia, Liquidity risk, como fuente terciaria, orientada a bancos y aseguradoras (según su resumen): https://en.wikipedia.org/wiki/Liquidity_risk"
+  - "OCC (Estados Unidos), Comptroller's Handbook, Asset-Based Lending, versión 1.1 (2017), secciones de línea rotativa, covenants y glosario (leído en esas secciones): https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/asset-based-lending/pub-ch-asset-based-lending.pdf"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, sección 1 (2026-11-27)"
+  - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [financiamiento de corto plazo, short-term financing, descubierto, overdraft, giro en descubierto, línea de crédito, revolving credit, línea rotativa, factoring, factoraje, descuento de documentos, descuento de cheques, invoice discounting, descuento de facturas]
 creado: 2026-11-27
 revisado:
@@ -21,7 +23,7 @@ El financiamiento de corto plazo cubre los baches de caja de semanas o meses con
 
 Los dos primeros se apoyan en el crédito de la empresa con su banco. Los dos últimos se apoyan en lo que le deben sus clientes: convierten en plata hoy una cuenta a cobrar que vence mañana. Qué instrumento conviene depende de su costo, que se compara con la cuenta de [costo del financiamiento](costo-del-financiamiento.md), y del pozo que muestre la [proyección de caja](../Caja-y-liquidez/proyeccion-de-caja.md). La entrada de la vertical, [financiamiento](financiamiento.md), los pone al lado del préstamo y del financiamiento de la cadena.
 
-Todas las fuentes de esta nota son artículos de Wikipedia, leídos a través de un resumen: cada afirmación tiene una sola fuente terciaria. Lo que se dice de Argentina (el acuerdo en cuenta corriente, el descuento de cheques en el mercado de capitales, la factura de crédito electrónica) está en [tesorería en Argentina](../tesoreria-en-argentina.md), y las tasas de una fecha en [tasas de referencia en Argentina](../tasas-de-referencia-en-argentina.md).
+Casi todas las fuentes de esta nota son artículos de Wikipedia, leídos a través de un resumen: cada afirmación tiene una sola fuente terciaria. La excepción es la línea rotativa, que tiene además el manual del OCC. Lo que se dice de Argentina (el acuerdo en cuenta corriente, el descuento de cheques en el mercado de capitales, la factura de crédito electrónica) está en [tesorería en Argentina](../tesoreria-en-argentina.md), y las tasas de una fecha en [tasas de referencia en Argentina](../tasas-de-referencia-en-argentina.md).
 
 ## El descubierto: pactado o no pactado
 
@@ -31,11 +33,11 @@ La consecuencia práctica es que el descubierto se negocia antes de necesitarlo 
 
 ## La línea de crédito rotativa y su comisión por no uso
 
-Una línea rotativa es un tope de crédito disponible durante un plazo: la empresa retira, devuelve y vuelve a retirar dentro del tope. Según Wikipedia, cada retiro suele tomarse por uno, tres o seis meses, y algunos prestamistas cobran una comisión sobre lo que no se usa.
+Una línea rotativa es un tope de crédito disponible durante un plazo: la empresa retira, devuelve y vuelve a retirar dentro del tope. Según Wikipedia, cada retiro suele tomarse por uno, tres o seis meses, y algunos prestamistas cobran una comisión sobre lo que no se usa. El OCC describe lo mismo con otras palabras: la empresa retira, devuelve y vuelve a retirar durante la vida del préstamo, hasta el menor de dos valores, la base de garantía disponible o el monto comprometido de la línea. Según el manual, el plazo es típicamente corto, para que el banco pueda reevaluar el riesgo, y en un número creciente de casos llegó a cinco años. El manual trata la línea garantizada con cuentas a cobrar e inventario; la cifra de uno, tres o seis meses no figura en él.
 
 El ejemplo de la fuente: una comisión del 40% de un margen de 2,0% da 0,8% anual sobre lo no usado, y sobre USD 600.000 sin usar son USD 4.800 por año. Esa comisión es parte del costo de la línea aunque no se retire nada, y entra al [costo del financiamiento](costo-del-financiamiento.md).
 
-> [!NOTE] Sin fuente todavía: la diferencia entre línea comprometida (el banco se obliga a prestar hasta el tope mientras no haya incumplimiento, y por eso cobra la comisión por no uso) y no comprometida (el banco puede negarse a desembolsar). La fuente no la trata; falta una guía profesional de la ACT o de la AFP.
+> [!NOTE] Sin fuente todavía: la diferencia entre línea comprometida (el banco se obliga a prestar hasta el tope mientras no haya incumplimiento, y por eso cobra la comisión por no uso) y no comprometida (el banco puede negarse a desembolsar). La fuente no la trata. En la segunda pasada tampoco la trataron OpenStax (19.1 y 19.2, que no hablan de comisión por no uso ni de línea comprometida) ni el manual del OCC; las páginas de la ACT y de FCI que se probaron dieron error 404. Falta una guía profesional.
 
 El artículo de Wikipedia sobre riesgo de liquidez, pensado para aseguradoras, recomienda tener líneas siempre disponibles con prestamistas de buena calificación y repartirlas entre varios. Por qué una línea que el banco puede cortar es un riesgo está en [riesgos financieros](../Riesgos-financieros/riesgos-financieros.md).
 

@@ -4,15 +4,17 @@ resumen: >-
 estado: borrador
 estabilidad: semi
 fuentes:
-  - "AFP, 2026 Payments Fraud and Control Survey Report: Key Highlights (abril de 2026; 465 profesionales; datos de 2025), pp. 5 y 11 (leído el resumen público): https://www.truist.com/content/dam/truist-bank/us/en/documents/info/cci/2026-afp-payments-fraud-control-survey-report-key-highlights.pdf"
+  - "AFP, 2026 Payments Fraud and Control Survey Report: Key Highlights (abril de 2026; 465 profesionales; datos de 2025), pp. 4, 5, 11 y 12 (leído el informe de resumen completo, en la copia que aloja su patrocinador): https://www.truist.com/content/dam/truist-bank/us/en/documents/info/cci/2026-afp-payments-fraud-control-survey-report-key-highlights.pdf"
   - "FBI IC3, 2025 Internet Crime Report, proceso de congelamiento de fondos (leído en las partes citadas): https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf"
   - "APQC, Process Classification Framework 7.4 (2024), 9.6.3 y 9.7.2.3 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
-  - "Wikipedia, Positive pay (según su resumen; artículo con aviso propio): https://en.wikipedia.org/wiki/Positive_pay"
+  - "Citi, What is Check Positive Pay? (leído; página comercial de un banco de Estados Unidos): https://www.citi.com/banking/small-business-guide/business-services/positive-pay"
+  - "Commerce Bank, Positive Pay (leído; página comercial de un banco de Estados Unidos): https://www.commercebank.com/corporate/payments-treasury/fraud-prevention/positive-pay"
   - "Wikipedia, Float (money supply) (según su resumen): https://en.wikipedia.org/wiki/Float_(money_supply)"
   - "Odoo 18, documentación de pagos por lotes (como evidencia de práctica): https://www.odoo.com/documentation/18.0/applications/finance/accounting/payments/batch.html"
   - "BCRA, texto ordenado Transferencias – Normas complementarias, al 08/09/2026, sección 3.4 (leído), solo para la definición de transferencia pull: https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-snp-tr-nc.pdf"
   - "Tesoreria/.investigacion/pagos-a-proveedores.md, secciones 2 y 3 (2026-11-27)"
   - "Tesoreria/.investigacion/argentina.md, secciones 1 y 2, solo lo general (2026-11-27)"
+  - "Tesoreria/.investigacion/caja-y-liquidez-verificacion.md (2026-11-27)"
 aliases: [medios de cobro, medios de pago, medios de cobro y pago, payment methods, payment instruments, payment rails, transferencia, cheque, débito directo, direct debit, positive pay]
 creado: 2026-11-27
 revisado:
@@ -49,7 +51,7 @@ La tabla resume las respuestas. Es lectura de esta base sobre las fuentes de cad
 
 El cheque es el medio con más fraude según la encuesta y, por lectura de esta base, el de más flotación, y no desaparece. En la encuesta de la AFP de 2026 a 465 profesionales de Estados Unidos, «87% of organizations report using checks in 2025», y «68% of companies use checks for vendor payments because vendors require payment via checks». El 72 % planea seguir usándolos, pero entre quienes los usan, el 72 % dice que son el 25 % o menos de sus pagos.
 
-El fraude se concentra ahí: el 58 % de las organizaciones que sufrieron fraude de pagos lo sufrió con cheques, y la encuesta dice que «Mail-theft-enabled check fraud is a large persistent problem». El control habitual es el positive pay: según el resumen de un artículo de referencia, la empresa le pasa al banco la lista de cheques emitidos y el banco paga solo los que coinciden en número, monto y beneficiario.
+El fraude se concentra ahí: el cheque es el medio más señalado por fraude, en el 58 % de las organizaciones (el 76 % sufrió algún fraude, real o intentado), y la encuesta dice que «Mail-theft-enabled check fraud is a large persistent problem». El control habitual es el positive pay: según dos bancos de Estados Unidos, la empresa le pasa al banco la lista de cheques emitidos y el banco compara cada cheque que se presenta; en la versión estándar compara número e importe, y en la versión con beneficiario suma el nombre. Lo que no coincide queda como excepción, y la empresa decide si se paga o se rechaza antes de que el banco procese el cheque. Ninguna guía de un regulador lo describe, y no se leyó cómo funciona en la Argentina.
 
 Para la caja, el cheque tiene dos tiempos: cuando se emite o se recibe, y cuando se compensa. Entre los dos está la flotación, que se explica en [posición de caja](posicion-de-caja.md). En la Argentina el cheque es además crédito y se puede descontar, y existe el cheque electrónico; está en [tesorería en Argentina](../tesoreria-en-argentina.md).
 
@@ -88,4 +90,4 @@ La ficha del cliente puede guardar el medio habitual entre sus [condiciones come
 
 ## Cómo falla
 
-La encuesta de la AFP mide qué medios sufrieron fraude en 2025, como porcentaje de las organizaciones que tuvieron fraude y no como tasa por operación: cheques 58 %, débitos ACH (la cámara de pagos electrónicos de Estados Unidos) 30 %, transferencias 25 %, tarjetas corporativas 21 %, créditos ACH 18 %, billeteras móviles 2 %, pagos rápidos 1 % y criptomonedas 1 %. Las otras fallas son de caja, por lectura de esta base: contar un cheque depositado como plata antes de que se compense, proyectar un cobro con tarjeta en la fecha de la venta y no en la del plazo pactado, y no registrar el costo del medio hasta que aparece en el extracto.
+La encuesta de la AFP mide qué medios sufrieron fraude en 2025, como porcentaje de las organizaciones, según rotula el informe sus gráficos, y no como tasa por operación; la base de ese porcentaje es el conjunto de organizaciones y no solo las que tuvieron fraude, a diferencia de otros gráficos del mismo informe que dicen «Experiencing Payments Fraud»: cheques 58 %, débitos ACH (la cámara de pagos electrónicos de Estados Unidos) 30 %, transferencias 25 %, tarjetas corporativas 21 %, créditos ACH 18 %, billeteras móviles 2 %, pagos rápidos 1 % y criptomonedas 1 %. Las otras fallas son de caja, por lectura de esta base: contar un cheque depositado como plata antes de que se compense, proyectar un cobro con tarjeta en la fecha de la venta y no en la del plazo pactado, y no registrar el costo del medio hasta que aparece en el extracto.

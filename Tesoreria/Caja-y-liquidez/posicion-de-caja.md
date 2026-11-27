@@ -7,10 +7,12 @@ fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 9.7.2.1 Manage and reconcile cash positions, p. 24 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "AFP, especificaciones del examen CTP, subtemas de posición y revisión de saldos (leído): http://ctpcert.financialprofessionals.org/overview/ctp-test-specifications"
   - "OpenStax, Principles of Finance (2022), 19.3 Cash Management (leído): https://openstax.org/books/principles-finance/pages/19-3-cash-management"
-  - "Wikipedia, Float (money supply), que cita a Federal Reserve Bank of New York, Fedpoints: Float (2007) (según su resumen): https://en.wikipedia.org/wiki/Float_(money_supply)"
+  - "Wikipedia, Float (money supply), que cita a Federal Reserve Bank of New York, Fedpoints: Float (2007) (según su resumen; es la única fuente de la definición de flotación, porque la página original del Banco de la Reserva Federal de Nueva York ya no está disponible): https://en.wikipedia.org/wiki/Float_(money_supply)"
+  - "Reserva Federal de Estados Unidos, Regulation CC (12 CFR parte 229), página de presentación y sección 229.10 (leído, solo lo citado): https://www.federalreserve.gov/paymentsystems/regcc-about.htm"
   - "Wikipedia, Cash management (según su resumen; artículo con aviso de mantenimiento): https://en.wikipedia.org/wiki/Cash_management"
   - "Tesoreria/.investigacion/caja-y-liquidez.md, secciones 1 y 2 (2026-11-27)"
   - "Tesoreria/.investigacion/caja-y-cobranzas-segunda-ronda.md, sección 2 (2026-11-27)"
+  - "Tesoreria/.investigacion/caja-y-liquidez-verificacion.md (2026-11-27)"
 aliases: [posición de caja, posición diaria, posición de tesorería, cash position, daily cash position, saldo disponible, available balance, saldo contable, ledger balance, flotación, float]
 creado: 2026-11-27
 revisado:
@@ -40,7 +42,9 @@ La posición del día, en esta lectura, es el saldo disponible más lo que se ac
 
 ## La flotación: la misma plata contada dos veces
 
-La diferencia entre el saldo contable y el disponible tiene nombre: flotación (float). Según el resumen de un artículo que cita al Banco de la Reserva Federal de Nueva York, la flotación es plata que el sistema bancario cuenta dos veces durante un rato, por la demora en procesar los cheques. Hasta que el cheque se compensa, el banco lo acredita en forma provisoria.
+La diferencia entre el saldo contable y el disponible tiene nombre: flotación (float). Según el resumen de un artículo que cita al Banco de la Reserva Federal de Nueva York, la flotación es plata que el sistema bancario cuenta dos veces durante un rato, por la demora en procesar los cheques. Hasta que el cheque se compensa, el banco lo acredita en forma provisoria. Es una sola fuente, terciaria, y la página oficial que cita no se pudo leer.
+
+En Estados Unidos la ley acota esa demora. La Ley de Disponibilidad Expedita de Fondos fija plazos máximos de retención de los depósitos, y la Regulation CC la desarrolla: por ejemplo, el banco debe poner a disposición no más tarde del día hábil siguiente al depósito los fondos de ciertos cheques (del Tesoro, giros postales, cheques de caja y certificados, entre otros). El plazo para el resto de los cheques no se leyó. Para la Argentina, los plazos de cada medio están en [tesorería en Argentina](../tesoreria-en-argentina.md).
 
 El mismo artículo separa dos plazos. La flotación del banco va desde el depósito hasta que el banco del depositante recibe los fondos; la del cliente, desde el depósito hasta que el depositante los puede usar. Cuenta además una práctica de los años setenta y ochenta en Estados Unidos: girar cheques contra bancos lejanos para demorar la compensación y usar la plata unos días más.
 

@@ -11,6 +11,7 @@ fuentes:
   - "ERPNext, Payment Reconciliation (como evidencia de práctica): https://docs.frappe.io/erpnext/user/manual/en/payment-reconciliation"
   - "Tesoreria/.investigacion/credito-y-cobranzas.md, sección 3 (2026-11-27)"
   - "Tesoreria/.investigacion/caja-y-cobranzas-segunda-ronda.md, sección 7 (2026-11-27)"
+  - "Tesoreria/.investigacion/credito-y-cobranzas-verificacion.md (2026-11-27)"
 aliases: [aplicación de cobros, cash application, aplicar cobros, imputación de cobros, apply cash remittances, aviso de pago, remittance advice, remesa, detalle de pago, cobro sin identificar, unapplied cash, unidentified receipts, pago parcial, partial payment, anticipo de cliente, customer advance, pago corto, short payment]
 creado: 2026-11-27
 revisado:
@@ -71,7 +72,7 @@ Lo que sigue es lectura de esta base, sin fuente:
 - Lo que no se empareja va a una cuenta transitoria de cobros sin identificar, a nombre de nadie, y se revisa con una frecuencia fija. Dejarlo a cuenta de un cliente «probable» ensucia su saldo.
 - La conciliación bancaria lo encuentra si nadie lo registró, pero no dice de quién es: eso lo resuelve tesorería, consultando al cliente.
 
-> [!NOTE] Sin fuente todavía: una fuente profesional (AFP, ACT o un libro de texto) sobre emparejamiento de cobros, tratamiento de los no identificados y plazos de resolución.
+> [!NOTE] Sin fuente todavía: una fuente profesional (AFP, ACT o un libro de texto) sobre emparejamiento de cobros, tratamiento de los no identificados y plazos de resolución. Una segunda pasada no encontró ninguna: ni OpenStax ni las guías de la CRF y la Comisión Europea tratan el tema, y la AFP y la ACT quedaron sin consultar.
 
 ## Los cheques y el momento de aplicar
 

@@ -6,9 +6,12 @@ estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), categoría 9.7.4 Manage debt and investment (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "CFO.com, Carillion collapse exposes flaws in trade finance disclosure (14/03/2018) (leído): https://www.cfo.com/news/carillion-collapse-exposes-flaws-in-trade-finance-disclosure/659262/"
+  - "OpenStax, Principles of Finance, 19.1 What Is Working Capital? (leído): https://openstax.org/books/principles-finance/pages/19-1-what-is-working-capital"
+  - "OCC (Estados Unidos), Comptroller's Handbook, Asset-Based Lending, versión 1.1 (2017), secciones de línea rotativa, covenants y glosario (leído en esas secciones): https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-handbook/files/asset-based-lending/pub-ch-asset-based-lending.pdf"
   - "Wikipedia, Factoring (finance), Overdraft, Revolving credit, Loan covenant, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Factoring_(finance)"
   - "Tesoreria/.investigacion/financiamiento-y-riesgos.md (2026-11-27)"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md (2026-11-27)"
+  - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [financiamiento, financiación, financing, debt financing, deuda de la empresa, endeudamiento, financiamiento de la empresa en marcha]
 creado: 2026-11-27
 revisado:
@@ -41,7 +44,7 @@ Los instrumentos se distinguen por dos cosas: qué los respalda y en qué plazo 
 
 Los plazos de la línea rotativa salen de Wikipedia (fuente terciaria); los demás son lectura de esta base sobre las definiciones de cada componente.
 
-> [!NOTE] Sin fuente todavía: la regla de calzar plazos (financiar lo que dura semanas con deuda de semanas y lo que dura años con deuda de años) es la lectura habitual de los libros de finanzas de corto plazo, pero ninguno se leyó. Falta OpenStax *Principles of Finance* o la guía de financiamiento de capital de trabajo de la ACT.
+> [!NOTE] Sin fuente completa: la regla de calzar plazos (financiar lo que dura semanas con deuda de semanas y lo que dura años con deuda de años). OpenStax (19.1) la apoya solo en parte: dice que la base permanente de capital de trabajo «may need to be financed with longer-term sources of capital». Las secciones leídas (19.1, 19.2 y 19.4) no enuncian la regla de calce de plazos. Falta una guía profesional de la ACT o de la AFP.
 
 El crédito de los proveedores también financia: pagar a 30 días es usar 30 días la plata del proveedor. Su costo aparece cuando se renuncia a un descuento por pronto pago, y esa cuenta está en la [programación de pagos](../Pagos-a-proveedores/programacion-de-pagos.md).
 
@@ -67,11 +70,11 @@ El registro contable del préstamo y de sus intereses es de [Contabilidad](../..
 - Financiar lo largo con lo corto. Una máquina pagada con descubierto obliga a renovarlo cada mes durante años, y el banco puede no renovarlo (lectura de esta base).
 - Comparar tasas que no se comparan. Una tasa nominal mensual contra una efectiva anual, o una comisión por documento contra un interés anual, esconden el costo; la cuenta está en [costo del financiamiento](costo-del-financiamiento.md).
 - Deuda que no se ve como deuda. En Carillion, según Moody's citado por CFO.com, la deuda con bancos por el financiamiento de la cadena «was not evident from the balance sheet»; el caso está en [financiamiento de la cadena](financiamiento-de-la-cadena.md).
-- Incumplir un covenant sin saberlo. Romper una condición del préstamo puede darle al prestamista el derecho a exigir el pago anticipado, según Wikipedia (fuente terciaria); se ve en [préstamos](prestamos.md).
+- Incumplir un covenant sin saberlo. Romper una condición del préstamo puede darle al prestamista el derecho a exigir el pago anticipado, según Wikipedia (fuente terciaria); el OCC lo describe como un «default trigger». Se ve en [préstamos](prestamos.md).
 
 ## Los instrumentos del financiamiento
 
 - [Financiamiento de corto plazo](financiamiento-de-corto-plazo.md): el descubierto, la línea de crédito rotativa, el descuento de documentos y el factoring con y sin recurso; leelo cuando el pozo es de semanas.
-- [Financiamiento de la cadena](financiamiento-de-la-cadena.md): el reverse factoring, por qué no siempre se ve como deuda, Carillion y Greensill, y lo que pide revelar el IASB desde 2023.
+- [Financiamiento de la cadena](financiamiento-de-la-cadena.md): el reverse factoring, por qué no siempre se ve como deuda, Carillion y Greensill, y lo que pide revelar la enmienda del IASB de 2023, vigente desde los ejercicios de 2024.
 - [Préstamos](prestamos.md): el préstamo a plazo, los sistemas francés y alemán con un ejemplo, las garantías, los covenants y el leasing.
 - [Costo del financiamiento](costo-del-financiamiento.md): tasa nominal y efectiva, costo financiero total, tasa real con inflación y cómo se comparan alternativas.

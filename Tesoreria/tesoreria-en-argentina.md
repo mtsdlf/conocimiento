@@ -15,7 +15,16 @@ fuentes:
   - "MAV, portada con Datos de Mercado, 26/11/2026 (las tablas leídas; el rótulo de cada pestaña, según su resumen): https://www.mav-sa.com.ar/"
   - "Criteria en iProfesional, El descuento de cheques de pago diferido es ideal para las pymes (24/01/2023), según su resumen: https://www.iprofesional.com/tecnologia/376420-el-descuento-de-cheques-de-pago-diferido-es-ideal-para-las-pymes"
   - "Banco de la Nación Argentina, Crédito: cheques y ECHEQs para pymes, sin fecha, según su resumen: https://bna.com.ar/Empresas/Pymes/CreditoChequesyEcheqs"
+  - "Ley 24.452 (cheques), arts. 25 y 54 a 58, texto del portal de normativa nacional (leído en esos artículos): https://www.argentina.gob.ar/normativa/nacional/ley-24452-14733/texto"
+  - "BCRA, Comunicación A 7841 del 14/09/2023 (leída): https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A7841.pdf"
+  - "Ley 24.467 (PyME), arts. 33, 34, 37 y 68 a 71, en la Biblioteca electrónica de ARCA (leído en esos artículos): https://biblioteca.afip.gob.ar/dcp/LEY_C_024467_1995_03_15"
+  - "Ley 27.440 (Financiamiento Productivo), arts. 197 a 199, sobre el pagaré bursátil, en la Biblioteca electrónica de ARCA (leído en esos artículos): https://biblioteca.afip.gob.ar/dcp/LEY_C_027440_2018_05_09"
+  - "BCRA, texto ordenado Protección de los usuarios de servicios financieros, al 06/05/2026 (A 8433), puntos 1.1.1 y 2.3.3 (leído en esas partes): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-pusf.pdf"
+  - "Ley 25.413, arts. 1 y 4, en la Biblioteca electrónica de ARCA (leído): https://biblioteca.afip.gob.ar/dcp/LEY_C_025413_2001_03_24"
+  - "Secretaría de Hacienda, Impuesto sobre los créditos y débitos, evolución de las alícuotas, enero de 2022 (leído, parte I): https://www.argentina.gob.ar/sites/default/files/impuesto_sobre_los_creditos_y_debitos_-_ene_2022.pdf"
+  - "CAFCI, glosario (leída solo la definición de tipos de fondos): https://www.cafci.org.ar/glosario.html"
   - "Tesoreria/.investigacion/argentina.md (2026-11-27)"
+  - "Tesoreria/.investigacion/argentina-y-fundamentos-verificacion.md (2026-11-27)"
 aliases: [tesorería en Argentina, cheque de pago diferido, CPD, ECHEQ, cheque electrónico, transferencia inmediata, transferencia push, transferencia pull, DEBIN, descuento de cheques, SGR, aval SGR, caución bursátil, plazo fijo, cepo cambiario, acceso al mercado de cambios, treasury in Argentina]
 creado: 2026-11-27
 revisado:
@@ -29,7 +38,7 @@ Toca las cinco verticales de la [tesorería](tesoreria.md): el cheque y la trans
 
 ## El cheque a fecha es cobro, crédito y garantía a la vez
 
-El BCRA reconoce cuatro tipos de cheque: común, de pago diferido, cancelatorio y ECHEQ. El de pago diferido «se emite en una fecha, pero puede cobrarse en una fecha posterior (hasta 360 días)», y se presenta dentro de los 30 días «contados desde la fecha de vencimiento fijada por quien lo emitió». Derecho Fácil, del Ministerio de Justicia, da los mismos plazos: el pago puede ser «entre 1 y 360 días» después de hecho el cheque. Son dos fuentes oficiales; el texto de la ley de cheques no se leyó, así que la nota no cita artículo.
+El BCRA reconoce cuatro tipos de cheque: común, de pago diferido, cancelatorio y ECHEQ. El de pago diferido «se emite en una fecha, pero puede cobrarse en una fecha posterior (hasta 360 días)», y se presenta dentro de los 30 días «contados desde la fecha de vencimiento fijada por quien lo emitió». Derecho Fácil, del Ministerio de Justicia, da los mismos plazos: el pago puede ser «entre 1 y 360 días» después de hecho el cheque. La ley lo dice distinto: el artículo 54, inciso 4, de la Ley 24.452 fija un plazo «no menor de treinta (30) días y no mayor de trescientos sesenta (360) días» contado desde la presentación del cheque a registro, y el artículo 55 lleva a 30 o a 360 días el que se pase de esos límites. Para el cheque común, el artículo 25 da 30 días de presentación desde su creación. El piso de 30 días de la ley no coincide con el «entre 1 y 360 días» de Derecho Fácil; el tope de 360 coincide en las tres fuentes.
 
 Para el tesorero, un cheque a fecha recibido es tres cosas: un cobro que todavía no es plata, un crédito que la empresa le da al cliente y un activo que se puede descontar para cobrar antes. El texto ordenado del BCRA parte su ciclo en dos: la registración, sin movimiento de dinero, y el pago, que empieza al vencimiento y se rige como un cheque común (punto 2.3.2). Lectura de esta base: por eso la [posición de caja](Caja-y-liquidez/posicion-de-caja.md) no lo cuenta hasta que se acredita, y la [proyección de caja](Caja-y-liquidez/proyeccion-de-caja.md) lo pone en la semana de su vencimiento.
 
@@ -62,17 +71,19 @@ Los límites son un piso: «No se podrán establecer límites inferiores a los a
 | Push en dólares o euros | 12.500 dólares o euros | |
 | Pull en pesos | 2.500 UVA | $ 5.145.000 |
 
-El BCRA publica las equivalencias en pesos en marzo, julio y noviembre. Con la UVA del 27/11/2026, $ 2.216,40, el push mínimo da unos $ 33,2 millones (cuenta de la base). Para pagar más en un día, el titular pide una transferencia inmediata por monto superior, remota o presencial, y el banco no puede exigirle más de un día hábil de antelación. La fuente de todo esto es una sola, el texto ordenado del BCRA. Las reglas generales son del texto de agosto de 2025 (A 8295) y los mínimos y sus equivalencias, del de septiembre de 2026 (A 8477). No se leyó otra fuente que los confirme ni comunicaciones posteriores. Las transferencias minoristas tienen un tramo gratuito de 7.500 UVA por mes, por moneda y por proveedor de cuenta, y su precio no puede ser un porcentaje del monto.
+El BCRA publica las equivalencias en pesos en marzo, julio y noviembre. Con la UVA del 27/11/2026, $ 2.216,40, el push mínimo da unos $ 33,2 millones (cuenta de la base). Para pagar más en un día, el titular pide una transferencia inmediata por monto superior, remota o presencial, y el banco no puede exigirle más de un día hábil de antelación. Las reglas generales son del texto de agosto de 2025 (A 8295) y los mínimos y sus equivalencias, del de septiembre de 2026 (A 8477); las dos son del BCRA. La comunicación A 7841 (14/09/2023) confirma el mínimo de la transferencia pull: «2.500 UVA para operaciones en pesos por día y por cuenta», con equivalencia inicial al valor de la UVA del 31/07/2023. El mínimo de la push tiene solo el texto ordenado, y no se leyeron comunicaciones posteriores a A 8477. Las transferencias minoristas tienen un tramo gratuito de 7.500 UVA por mes, por moneda y por proveedor de cuenta, y su precio no puede ser un porcentaje del monto.
 
 Los pagos en lote, como sueldos o proveedores, van por otro carril: se compensan en 24 horas en pesos y en 48 en moneda extranjera (punto 1.2.3). En una [corrida de pagos](Pagos-a-proveedores/corrida-de-pagos.md) grande, el límite diario y el carril elegido deciden, en lectura de esta base, si los pagos salen el mismo día.
 
-> [!NOTE] Sin fuente todavía: la norma del débito inmediato (citada como A 7841, sin leer), la del débito directo, y las de CBU, CVU y alias. Tampoco se leyó qué pueden hacer las empresas con una cuenta en dólares más allá de transferir entre cuentas de la misma moneda.
+La A 7841 también mandó discontinuar, antes del 1/12/2023, el uso del DEBIN recurrente para fondear cuentas propias desde otros proveedores, y pasar esa operatoria a la transferencia pull. Desde esa fecha el DEBIN recurrente exige la autorización expresa del cliente solo en el primer débito de cada ente ordenante. Las normas complementarias piden que los servicios de consulta de cuentas devuelvan CBU, CVU y alias (punto 2.4.2) y que toda interfaz que muestre una CBU o CVU muestre también su alias (2.8).
+
+> [!NOTE] Sin fuente todavía: el texto ordenado de «Débito inmediato» y el del débito directo, la definición normativa de CBU, CVU y alias, y qué pueden hacer las empresas con una cuenta en dólares más allá de transferir entre cuentas de la misma moneda.
 
 ## Cómo se financia una pyme con sus cheques y sus facturas
 
 La pyme que vende a plazo convierte lo que le deben en plata de tres formas: descuenta el cheque en un banco, lo vende en el mercado de capitales o negocia la factura de crédito electrónica. La comparación con el descubierto y el factoring está en [financiamiento de corto plazo](Financiamiento/financiamiento-de-corto-plazo.md).
 
-**En el banco.** El Banco de la Nación publica una línea para descontar cheques y ECHEQ de pymes con tasa adelantada fija en pesos, plazo de hasta 360 días y sin comisiones, que pide calificación crediticia o aval de una SGR (según su resumen; la tasa no figura en la página). Con una tasa adelantada el interés se descuenta del valor nominal al entregar la plata: al 10 % adelantado por un año, la empresa recibe 90 y devuelve 100, que equivale a 11,1 % vencido (cuenta de la base). Cómo se llevan dos tasas a la misma base para compararlas está en [costo del financiamiento](Financiamiento/costo-del-financiamiento.md).
+**En el banco.** El Banco de la Nación publica una línea para descontar cheques y ECHEQ de pymes con tasa adelantada fija en pesos, plazo de hasta 360 días y sin comisiones, que pide calificación crediticia o aval de una SGR (según su resumen; la tasa no figura en la página). La SGR (sociedad de garantía recíproca) es una sociedad cuyo objeto principal es dar garantías a sus socios partícipes, que solo pueden ser pymes; el contrato de garantía recíproca la obliga de forma accesoria ante el acreedor, es irrevocable y es título ejecutivo hasta el importe garantizado, y la SGR debe pedir contragarantías al socio (Ley 24.467, arts. 33, 37, 68, 70 y 71). Ninguna SGR puede asignar a un socio más del 5 % de su fondo de riesgo ni más del 25 % a un mismo acreedor, salvo las garantías de créditos bancarios (art. 34). Con una tasa adelantada el interés se descuenta del valor nominal al entregar la plata: al 10 % adelantado por un año, la empresa recibe 90 y devuelve 100, que equivale a 11,1 % vencido (cuenta de la base). Cómo se llevan dos tasas a la misma base para compararlas está en [costo del financiamiento](Financiamiento/costo-del-financiamiento.md).
 
 **En el mercado de capitales.** El Mercado Argentino de Valores (MAV) negocia ECHEQ, pagarés y facturas de crédito, por segmento y por plazo. Según una nota de 2023 de un agente del mercado, leída solo por su resumen, hace falta abrir una cuenta comitente con un agente autorizado por la CNV. El segmento «avalado» lleva el aval de una SGR, que se califica una vez por año, y el de «cadena de valor» usa cheques de empresas grandes. Los fondos llegan a una cuenta bancaria del mismo titular en hasta 24 horas. Es una fuente de 2023: describe el mecanismo, no la práctica de hoy.
 
@@ -80,7 +91,11 @@ La pyme que vende a plazo convierte lo que le deben en plata de tres formas: des
 
 El precio de cada camino cambia por semana y por segmento: en el MAV un cheque avalado se descuenta a una tasa y uno no garantizado a otra, con un rango ancho. Las tasas de una fecha están en la [ficha de tasas](tasas-de-referencia-en-argentina.md).
 
-> [!NOTE] Sin fuente todavía: el régimen legal de las SGR y el costo del aval, las reglas de la CNV para el pagaré bursátil, la financiación con tarjeta corporativa, y la norma del BCRA que obliga a informar el costo financiero total.
+El pagaré también se negocia en el mercado: la Ley 27.440 (arts. 197 a 199) lo llama pagaré bursátil, exige que lleve la cláusula «para su negociación en Mercados registrados en la Comisión Nacional de Valores» y «sin protesto», le da oferta pública y pone a la CNV como autoridad de aplicación. Un agente de custodia lo guarda y no responde por su pago.
+
+El costo financiero total (CFT) debe figurar en los documentos de financiación; si falta, el banco solo puede cobrar como máximo CFT la tasa promedio de los plazos fijos de 30 a 59 días (BCRA, Protección de los usuarios, punto 2.3.3). Esa norma define al usuario como quien no usa el servicio para incorporarlo a su actividad comercial (punto 1.1.1), así que una empresa que toma crédito para operar puede quedar fuera; la nota no lo verificó caso por caso.
+
+> [!NOTE] Sin fuente todavía: el costo de una garantía de SGR, el reglamento de la CNV para el pagaré bursátil (se leyó la ley, no las normas de la CNV) y la financiación con tarjeta corporativa.
 
 ## Dónde se pone la plata que sobra cuando hay inflación
 
@@ -90,9 +105,9 @@ Hay tres lugares habituales para la plata de pocos días o semanas:
 
 - **Plazo fijo**: la serie del BCRA es un promedio; la tasa que obtiene una empresa depende del monto y del banco.
 - **Caución bursátil**: una colocación en el mercado de capitales a plazos de un día en adelante; el MAV publica su tasa en pesos y en dólares por plazo.
-- **Fondos comunes de inversión de liquidez inmediata (money market)**: no se leyeron datos de rendimiento.
+- **Fondos comunes de inversión de liquidez inmediata (money market)**: el glosario de la cámara de fondos (CAFCI) dice que los fondos de mercado de dinero «invierten en activos de muy corto plazo»; no se leyeron datos de rendimiento.
 
-> [!NOTE] Sin fuente todavía: el rendimiento y las reglas de los fondos money market (se rescatan en el día) y de liquidez T+1 (se rescatan al día hábil siguiente) (la cámara de fondos, CAFCI, publica una planilla diaria que no se pudo abrir), y una fuente que explique la caución bursátil desde el mercado o la CNV.
+> [!NOTE] Sin fuente todavía: el rendimiento y el plazo de rescate de los fondos money market y de liquidez T+1 (la planilla diaria de la CAFCI no se pudo abrir y su glosario no da plazos), y una fuente que explique la caución bursátil desde el mercado o la CNV.
 
 ## Comprar dólares y pagar importaciones
 
@@ -107,9 +122,9 @@ El seguimiento de esos pagos se hace en el sistema SEPAIMPO. Es una sola fuente,
 
 ## El impuesto a los créditos y débitos como salida de caja
 
-El impuesto a los créditos y débitos bancarios grava los movimientos de las cuentas, así que la proyección de caja lo resta como una salida más, junto a los cobros y los pagos que lo generan. Qué se paga, con qué alícuota y qué parte se computa contra otro impuesto es del tema Impuestos, todavía no escrito.
+El impuesto a los créditos y débitos bancarios grava los movimientos de las cuentas, así que la proyección de caja lo resta como una salida más, junto a los cobros y los pagos que lo generan. La Ley 25.413 (art. 1) lo creó sobre «los créditos y débitos en cuenta corriente bancaria», con una alícuota que fija el Poder Ejecutivo hasta un máximo del 6 ‰. La alícuota general quedó en 6 ‰ (0,6 %) desde el 01/08/2001 según el cuadro de evolución de alícuotas de la Secretaría de Hacienda, de enero de 2022. El artículo 4 solo faculta al Poder Ejecutivo a computar el impuesto como pago a cuenta de otros tributos: la ley no fija el porcentaje, y el texto vigente del artículo lo refiere a las contribuciones sobre la nómina salarial. Qué parte se computa hoy es del tema Impuestos, todavía no escrito.
 
-> [!NOTE] Sin fuente todavía: que el impuesto grave los movimientos de las cuentas y su alícuota vigente; no se pudo leer la ley ni una fuente de ARCA.
+> [!NOTE] Sin fuente todavía: la alícuota y el porcentaje computable vigentes a fines de 2026 y su reglamentación actual (la fuente leída es de enero de 2022 y la página de ARCA no los trae); un proyecto de ley de 2025 propone derogar el impuesto y no se verificó su suerte.
 
 ## Qué tiene que modelar un sistema de gestión
 

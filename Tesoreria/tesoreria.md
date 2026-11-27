@@ -5,9 +5,10 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), categorías 9.2, 9.6 y 9.7, pp. 23-26 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
-  - "AFP, especificaciones del examen CTP (según su resumen; descripciones truncadas): http://ctpcert.financialprofessionals.org/overview/ctp-test-specifications"
+  - "AFP, especificaciones del examen CTP (leído, con los cinco dominios completos): http://ctpcert.financialprofessionals.org/overview/ctp-test-specifications"
   - "OpenStax, Principles of Finance (2022), cap. 19, secciones 19.1 a 19.6 (leído): https://openstax.org/books/principles-finance/pages/19-why-it-matters"
   - "Tesoreria/.investigacion/ (ocho informes, 2026-11-27)"
+  - "Tesoreria/.investigacion/argentina-y-fundamentos-verificacion.md (2026-11-27)"
 aliases: [tesorería, treasury, treasury management, gestión de tesorería, finanzas de la empresa en marcha, finanzas de corto plazo, gestión de caja, cash management, administración financiera de corto plazo]
 creado: 2026-11-27
 revisado:

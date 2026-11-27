@@ -7,9 +7,11 @@ fuentes:
   - "OpenStax, Principles of Finance (2022), 19.2 What Is Trade Credit? (leído): https://openstax.org/books/principles-finance/pages/19-2-what-is-trade-credit"
   - "OpenStax, Principles of Finance 2e (2026), 19.2 What Is Trade Credit? (leído, solo para las definiciones de Net 30 y 2/10 n/30): https://openstax.org/books/principles-of-finance-2e/pages/19-2-what-is-trade-credit"
   - "APQC, Process Classification Framework 7.4 (2024), 9.6.1 y 9.7.2 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "IRS, Employment taxes and the Trust Fund Recovery Penalty (leído): https://www.irs.gov/TFRP"
   - "Petersen y Rajan, Trade Credit: Theories and Evidence, Review of Financial Studies (1997) (abstract): https://ideas.repec.org/a/oup/rfinst/v10y1997i3p661-91.html"
   - "Deloof, Does Working Capital Management Affect Profitability of Belgian Firms?, Journal of Business Finance & Accounting (2003) (abstract): https://ideas.repec.org/a/bla/jbfnac/v30y2003i3-4p573-588.html"
   - "Tesoreria/.investigacion/pagos-a-proveedores.md, sección 1 (2026-11-27)"
+  - "Tesoreria/.investigacion/pagos-y-politica-verificacion.md (2026-11-27)"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, secciones 3 y 6 (2026-11-27)"
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, secciones 4.1 y 5 (2026-11-27)"
 aliases: [programación de pagos, payment scheduling, calendario de pagos, descuento por pronto pago, early-payment discount, cash discount, costo de no tomar el descuento, cost of forgoing a discount, crédito comercial, trade credit, prioridades de pago]
@@ -68,7 +70,9 @@ La evidencia sobre quién estira es de abstracts, leídos solo en su resumen. Pe
 
 Cuando la proyección muestra que la plata de la semana no cubre todo lo que vence, alguien decide qué se paga primero y qué se renegocia. Esa decisión, y quién la toma, la fija la [política de tesorería](../politica-de-tesoreria.md). Los sueldos y los impuestos entran acá como salidas de caja con fecha fija; qué se paga y cuándo vence es de los temas Administración de personal y nómina e Impuestos, todavía no escritos.
 
-> [!NOTE] Sin fuente todavía: un orden de prioridades de pago con método. El criterio de práctica que circula, sin respaldo leído, pone primero lo que tiene consecuencia legal o frena la operación (sueldos y cargas sociales, impuestos, servicios básicos), después los proveedores críticos o sin reemplazo y los que dan un descuento mayor que el costo de la plata, y al final el resto, con un plan de pagos acordado por escrito con quien se estira. La prelación legal en un concurso de acreedores es materia de abogados y de cada país.
+Una regla de este orden tiene fuente. En Estados Unidos, el IRS llama impuestos «trust fund» a los que la empresa retiene a sus empleados, porque «you actually hold the employee's money in trust». Dice que usar fondos disponibles para pagar a otros acreedores cuando el negocio no puede pagar esos impuestos indica intención, y la sanción puede cobrarse a la persona responsable. Es una sola fuente y de otro país.
+
+> [!NOTE] Sin fuente todavía: la norma argentina equivalente y un orden de prioridades de pago con método para el resto. El criterio de práctica que circula, sin respaldo leído, pone después de sueldos, cargas sociales, impuestos y servicios básicos a los proveedores críticos o sin reemplazo y a los que dan un descuento mayor que el costo de la plata, y al final el resto, con un plan de pagos acordado por escrito con quien se estira. La prelación legal en un concurso de acreedores es materia de abogados y de cada país.
 
 ## Dónde la pone APQC
 

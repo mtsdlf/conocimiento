@@ -10,9 +10,13 @@ fuentes:
   - "Nacha, nota sobre BEC (mayo de 2026), que resume la misma encuesta de AFP (leído): https://www.nacha.org/news/business-email-compromise-attempts-rose-sharply-2025-report-finds"
   - "APQC, Process Classification Framework 7.4 (2024), 9.7.6 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Documentación de pagos por lotes de un sistema de gestión abierto, versión 18 (leído; como evidencia de práctica): https://www.odoo.com/documentation/18.0/applications/finance/accounting/payments/batch.html"
-  - "Wikipedia, Positive pay (según su resumen; fuente terciaria): https://en.wikipedia.org/wiki/Positive_pay"
+  - "Citi, What is Check Positive Pay? (leído): https://www.citi.com/banking/small-business-guide/business-services/positive-pay"
+  - "Commerce Bank, Positive Pay (leído): https://www.commercebank.com/corporate/payments-treasury/fraud-prevention/positive-pay"
+  - "Oracle, Understanding Positive Pay, JD Edwards 9.2 (leído; como evidencia de práctica): https://docs.oracle.com/en/applications/jd-edwards/financials/9.2/eoaap/understanding-positive-pay.html"
+  - "Tesoreria/.investigacion/caja-y-liquidez-verificacion.md (2026-11-27)"
   - "Tesoreria/.investigacion/pagos-a-proveedores.md, secciones 3 y 4 (2026-11-27)"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, sección 6 (2026-11-27)"
+  - "Tesoreria/.investigacion/pagos-y-politica-verificacion.md (2026-11-27)"
 aliases: [seguridad de los pagos, fraude de pagos, payments fraud, compromiso del correo empresarial, business email compromise, BEC, fraude del cambio de cuenta, vendor impersonation, fraude del CEO, pago duplicado, duplicate payment, positive pay, devolución de llamada, callback verification]
 creado: 2026-11-27
 revisado:
@@ -59,9 +63,9 @@ La pérdida cambia con el tamaño. Entre las organizaciones de menos de mil mill
 
 ## El cheque, el medio más atacado
 
-En la misma encuesta, el 87 % de las organizaciones usó cheques en 2025, y el cheque fue el medio con más organizaciones afectadas por fraude: 58 %, contra 30 % del débito ACH y 25 % de la transferencia. Es el porcentaje de organizaciones que sufrieron fraude por ese medio, no una tasa por operación. AFP lo atribuye al robo de correspondencia: «Mail-theft-enabled check fraud is a large persistent problem»; el cheque se intercepta, se altera y se deposita en una cuenta del delincuente. Qué medio conviene para cada pago, y quién lo puede revertir, está en [medios de cobro y pago](../Caja-y-liquidez/medios-de-cobro-y-pago.md); el cheque y el cheque electrónico en Argentina, en [tesorería en Argentina](../tesoreria-en-argentina.md).
+En la misma encuesta, el 87 % de las organizaciones usó cheques en 2025, y el cheque fue el medio con más organizaciones afectadas por fraude: 58 %, contra 30 % del débito ACH y 25 % de la transferencia. Es el porcentaje de organizaciones, tal como rotula el informe sus gráficos (el 76 % sufrió algún fraude, real o intentado), no una tasa por operación; otros gráficos del informe dicen en cambio «Experiencing Payments Fraud» y este no. AFP lo atribuye al robo de correspondencia: «Mail-theft-enabled check fraud is a large persistent problem»; el cheque se intercepta, se altera y se deposita en una cuenta del delincuente. Qué medio conviene para cada pago, y quién lo puede revertir, está en [medios de cobro y pago](../Caja-y-liquidez/medios-de-cobro-y-pago.md); el cheque y el cheque electrónico en Argentina, en [tesorería en Argentina](../tesoreria-en-argentina.md).
 
-El control específico del cheque es el *positive pay*. Según el resumen de Wikipedia, la empresa le comparte al banco el registro de los cheques que emitió, y el banco paga solo los que figuran, con el mismo importe, beneficiario y número. En la variante inversa, el banco le manda a la empresa lo que se presentó y ella dice qué se paga. Falta una fuente primaria para este control.
+El control específico del cheque es el *positive pay*. La empresa le manda al banco un archivo con los cheques que emitió, con número e importe. El banco compara con él cada cheque que se presenta y retiene los que difieren, y la empresa aprueba o rechaza esa excepción antes de que el banco pague. La versión *payee positive pay* agrega el nombre del beneficiario, que sirve contra el cheque alterado. En la variante inversa, el banco le manda a la empresa los cheques presentados y ella confirma cuáles se pagan. Lo describen dos bancos de Estados Unidos y la documentación de un sistema de gestión; no se encontró una guía de un regulador, y no se leyó cómo funciona en Argentina.
 
 ## Los controles y cuánto sirven según quien los usa
 

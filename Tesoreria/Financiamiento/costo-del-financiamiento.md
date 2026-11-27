@@ -4,11 +4,14 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "Wikipedia, Effective interest rate, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Effective_interest_rate"
+  - "OpenStax, Principles of Finance, 8.4 Stated versus Effective Rates (leído): https://openstax.org/books/principles-finance/pages/8-4-stated-versus-effective-rates"
+  - "BCRA, texto ordenado Tasas de interés en las operaciones de crédito, al 01/07/2024, puntos 3.2 y 3.4 (leído en esas secciones): https://www.bcra.gob.ar/Pdfs/Texord/t-tasint.pdf"
+  - "BCRA, texto ordenado Protección de los usuarios de servicios financieros, al 06/05/2026, punto 2.3.3 (leído en esa sección): https://www.bcra.gob.ar/Pdfs/Texord/t-pusf.pdf"
   - "Wikipedia, Fisher equation, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Fisher_equation"
   - "Wikipedia, Revolving credit, como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Revolving_credit"
   - "Wikipedia, Factoring (finance), como fuente terciaria (según su resumen): https://en.wikipedia.org/wiki/Factoring_(finance)"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, sección 3 (2026-11-27)"
+  - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [costo del financiamiento, cost of financing, cost of debt, costo de la deuda, tasa efectiva, tasa efectiva anual, TEA, effective annual rate, EAR, tasa nominal, TNA, nominal rate, APR, tasa real, real interest rate, ecuación de Fisher, Fisher equation, costo financiero total, CFT]
 creado: 2026-11-27
 revisado:
@@ -18,15 +21,15 @@ revisado:
 
 El costo del financiamiento es lo que de verdad cuesta una plata prestada, medido como tasa efectiva anual con todos los cargos incluidos y, con inflación, como tasa real; es la medida que permite comparar un descubierto, un factoring, un préstamo y un descuento por pronto pago que no se toma.
 
-Cada instrumento del [financiamiento](financiamiento.md) se cotiza distinto: una tasa nominal anual, una comisión por documento, un porcentaje por lo que no se usa. Hace falta una cuenta común que los ponga en la misma unidad. Las fórmulas tienen una sola fuente, terciaria (Wikipedia, leída a través de un resumen), pero son matemática estándar, y los ejemplos los verificó esta base.
+Cada instrumento del [financiamiento](financiamiento.md) se cotiza distinto: una tasa nominal anual, una comisión por documento, un porcentaje por lo que no se usa. Hace falta una cuenta común que los ponga en la misma unidad. La fórmula de la tasa efectiva sale de un libro de texto abierto (OpenStax). La de Fisher tiene una sola fuente, terciaria (Wikipedia, leída a través de un resumen), pero es matemática estándar. Los ejemplos propios los verificó esta base.
 
 ## De la tasa nominal a la efectiva
 
-La tasa nominal anual es la tasa del período multiplicada por la cantidad de períodos del año, sin capitalizar. La efectiva anual cuenta que el interés de cada período también genera interés. Según Wikipedia, con i la nominal anual y m los períodos de capitalización por año:
+La tasa nominal anual es la tasa del período multiplicada por la cantidad de períodos del año, sin capitalizar. La efectiva anual cuenta que el interés de cada período también genera interés. Según OpenStax, con i la tasa de cada período y n los períodos de capitalización por año:
 
-TEA = (1 + i/m)^m − 1
+TEA = (1 + i)^n − 1
 
-El ejemplo de la fuente: 6% nominal con capitalización mensual es 0,5% por mes, y (1,005)^12 − 1 da 6,17% efectivo anual. Con tasas más altas la brecha crece: el 1% mensual del ejemplo de [préstamos](prestamos.md) es 12% nominal y 12,68% efectivo (cálculo de esta base).
+El ejemplo de la fuente: una tarjeta que cobra 1,5% por mes sobre el saldo impago durante un año rinde (1,015)^12 − 1 = 19,56% efectivo anual, contra el 18% que sugiere multiplicar 1,5% por 12. Con el 1% mensual del ejemplo de [préstamos](prestamos.md), el nominal es 12% y el efectivo 12,68% (cálculo de esta base).
 
 ## Todos los cargos, no solo el interés
 
@@ -39,9 +42,15 @@ Renunciar a un descuento por pronto pago también es financiarse con el proveedo
 
 ## El costo financiero total
 
-El costo financiero total es el nombre que recibe, en Argentina, la medida completa: una tasa efectiva anual que suma al interés las comisiones, los seguros y los gastos. Es un término de las normas del BCRA; lo argentino va en [tesorería en Argentina](../tesoreria-en-argentina.md).
+El costo financiero total (CFT) es, en Argentina, la medida completa que fija el BCRA. Según su texto ordenado de tasas de interés en las operaciones de crédito (punto 3.4.1), «se expresará en forma de tasa efectiva anual» y se determina «agregando a la tasa de interés el efecto de las comisiones y cargos asociados a la operación, cualquiera sea su concepto». Lo argentino va en [tesorería en Argentina](../tesoreria-en-argentina.md).
 
-> [!NOTE] Sin fuente todavía: la definición del costo financiero total en las normas del BCRA de protección de los usuarios de servicios financieros. Lo que dice el párrafo de arriba sobre qué incluye sale de la memoria del informe de investigación, sin verificar; tampoco se verificó si se informa con y sin impuestos. Las dos URLs del BCRA probadas dieron error.
+Lo que entra y lo que no, según el punto 3.4 de esa norma:
+
+- Computan, entre otros: las primas de seguros que se exigen como condición del crédito, los gastos de apertura y mantenimiento de cuentas asociadas, los cargos de tasación y los de envío postal de avisos. El IVA sobre los intereses computa solo si el prestatario es consumidor final.
+- No computan, entre otros: los impuestos que gravan préstamos prendarios y personales, las tasas de reparticiones públicas, los honorarios de escribanía dentro del valor de plaza y el impuesto sobre los intereses y el costo financiero del endeudamiento empresario.
+- Tampoco computan las comisiones por acuerdos de utilización de fondos como adelantos en cuenta corriente, mientras respondan estrictamente a la asignación y no dependan del capital efectivamente utilizado. En otras palabras, la comisión por tener el adelanto acordado y no usarlo queda afuera del CFT, aunque sea un costo real para la empresa.
+
+La norma pide que en todos los documentos de la operación figuren la tasa nominal anual pactada, la efectiva anual, si la tasa es fija o variable y el CFT (punto 3.2). Según las normas de protección de los usuarios (punto 2.3.3), si el documento omite la tasa o el CFT, la entidad puede cobrar como máximo la tasa promedio de los plazos fijos de 30 a 59 días. Los dos textos son del BCRA, así que son dos documentos de una misma fuente. El de tasas de interés es el texto ordenado al 01/07/2024 y puede haber cambiado después.
 
 ## La tasa real con inflación
 

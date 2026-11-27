@@ -10,7 +10,9 @@ fuentes:
   - "Wikipedia, Days sales outstanding, que cita a Houston y Brigham (2009), Fundamentals of Financial Management, p. 90 (según su resumen): https://en.wikipedia.org/wiki/Days_sales_outstanding"
   - "Wikipedia, Dunning (process) (según su resumen): https://en.wikipedia.org/wiki/Dunning_letter"
   - "ERPNext, Dunning (como evidencia de práctica): https://docs.frappe.io/erpnext/user/manual/en/dunning"
+  - "Código Civil y Comercial, Ley 26994, InfoLEG (leído, artículos 768, 886, 887 y 2560): https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm"
   - "Tesoreria/.investigacion/credito-y-cobranzas.md, sección 2 (2026-11-27)"
+  - "Tesoreria/.investigacion/credito-y-cobranzas-verificacion.md (2026-11-27)"
   - "Tesoreria/.investigacion/caja-y-cobranzas-segunda-ronda.md, sección 6 (2026-11-27)"
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, sección 4.2 (2026-11-27)"
 aliases: [gestión de la cobranza, cobranza, collections, collections management, gestión de mora, recordatorios de pago, dunning, secuencia de cobranza, disputas, deducciones, deductions management, DSO, days sales outstanding, días de cobro, best possible DSO, DSO mejor posible, CEI, collection effectiveness index, índice de eficacia de cobranza, average days delinquent, días de atraso promedio]
@@ -50,7 +52,9 @@ Un sistema abierto la modela así, como evidencia de práctica:
 
 La documentación de ese sistema no menciona período de gracia. El interés que se le cobra al moroso puede tener piso legal: en la Unión Europea, la tasa del Banco Central Europeo más ocho puntos y un monto fijo por factura, contados en [crédito a clientes](credito-a-clientes.md#lo-que-dice-la-ley-europea-sobre-plazos-y-mora).
 
-> [!NOTE] Sin fuente todavía: los plazos de la secuencia (cuántos días antes del vencimiento se avisa, cuándo va el segundo reclamo, cuándo el aviso final) y el criterio para pasar a legales o castigar una deuda (monto, días). APQC nombra los pasos 9.2.4.5 a 9.2.4.7 pero no dice cuándo se dan.
+En Argentina, la ley fija el marco en que se mueve esa secuencia. Según el Código Civil y Comercial, la mora del deudor se produce «por el solo transcurso del tiempo fijado para el cumplimiento de la obligación» (art. 886), salvo en las obligaciones de plazo tácito o indeterminado (art. 887). Desde la mora el deudor debe intereses, a la tasa que acuerden las partes, la de una ley especial o, en su defecto, la que fije el Banco Central (art. 768). El plazo general de prescripción es de cinco años, salvo que una norma local fije otro (art. 2560), y una deuda que pasa a legales tarde puede perder la acción (lectura de esta base). Los plazos especiales de pagarés y cheques no se leyeron.
+
+> [!NOTE] Sin fuente todavía: los plazos de la secuencia (cuántos días antes del vencimiento se avisa, cuándo va el segundo reclamo, cuándo el aviso final) y el criterio para pasar a legales o castigar una deuda (monto, días). APQC nombra los pasos 9.2.4.5 a 9.2.4.7 pero no dice cuándo se dan. No se encontró en OpenStax, en la guía de la Comisión Europea ni en las fuentes de la CRF leídas; falta consultar a la AFP o a la ACT.
 
 Para quien construye el sistema, una lectura de esta base: cada etapa tiene que saber si el cliente ya pagó, aunque el cobro no esté aplicado todavía. Reclamarle a quien pagó ayer es el error de cobranza más visible para el cliente, y nace casi siempre en un cobro sin [aplicar](aplicacion-de-cobros.md#el-cobro-sin-identificar).
 

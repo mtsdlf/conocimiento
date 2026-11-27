@@ -9,6 +9,7 @@ fuentes:
   - "OpenStax, Principles of Finance (2022), cap. 19, secciones 19.1 a 19.4 (leído), para los términos del capital de trabajo: https://openstax.org/books/principles-finance/pages/19-why-it-matters"
   - "Credit Research Foundation, Performance Measures (2016, leído), para las medidas de cobranza: https://www.crfonline.org/wp-content/uploads/2017/12/PerformanceMeasures.pdf"
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, sección 3 (glosario), 2026-11-27"
+  - "Tesoreria/.investigacion/financiamiento-y-riesgos-verificacion.md (2026-11-27)"
 aliases: [glosario de tesorería, términos de tesorería, vocabulario de tesorería, treasury glossary, treasury terms, cash management glossary]
 creado: 2026-11-27
 revisado:
@@ -107,7 +108,7 @@ Las cifras, las fórmulas completas y las discrepancias entre fuentes viven en l
 | Regla de las dos personas (doble firma) | Que dos personas autorizadas intervengan para que un pago salga. | Two-person rule, four-eyes principle | [Corrida de pagos](../Pagos-a-proveedores/corrida-de-pagos.md) |
 | Compromiso del correo empresarial | El engaño que compromete o imita un correo para desviar una transferencia, típicamente cambiando la cuenta de un proveedor real. | Business email compromise (BEC) | [Seguridad de los pagos](../Pagos-a-proveedores/seguridad-de-los-pagos.md) |
 | Devolución de llamada | Confirmar un pedido de pago o de cambio de cuenta llamando a un número que la empresa ya tenía, no al que vino en el correo. | Callback verification | [Seguridad de los pagos](../Pagos-a-proveedores/seguridad-de-los-pagos.md) |
-| Positive pay | La empresa pasa al banco la lista de cheques emitidos y el banco paga solo los que coinciden en número, importe y beneficiario. | Positive pay | [Seguridad de los pagos](../Pagos-a-proveedores/seguridad-de-los-pagos.md) |
+| Positive pay | La empresa pasa al banco la lista de cheques emitidos y el banco retiene los que no coinciden en número e importe, y en la versión con beneficiario también en el nombre. | Positive pay | [Seguridad de los pagos](../Pagos-a-proveedores/seguridad-de-los-pagos.md) |
 | Pago duplicado | La misma deuda pagada dos veces. | Duplicate payment | [Seguridad de los pagos](../Pagos-a-proveedores/seguridad-de-los-pagos.md) |
 
 ## Financiamiento
@@ -130,7 +131,7 @@ Las cifras, las fórmulas completas y las discrepancias entre fuentes viven en l
 | Tasa nominal anual (TNA) | La tasa del período por la cantidad de períodos del año, sin capitalizar. | Nominal annual rate, APR | [Costo del financiamiento](../Financiamiento/costo-del-financiamiento.md) |
 | Tasa efectiva anual (TEA) | La tasa anual que cuenta que el interés de cada período también genera interés. | Effective annual rate (EAR) | [Costo del financiamiento](../Financiamiento/costo-del-financiamiento.md) |
 | Tasa real | La tasa que descuenta la inflación: (1 + nominal) / (1 + inflación) − 1, por la ecuación de Fisher. | Real interest rate | [Costo del financiamiento](../Financiamiento/costo-del-financiamiento.md) |
-| Costo financiero total (CFT) | En Argentina, la tasa efectiva anual que suma al interés las comisiones, los seguros y los gastos (definición normativa sin leer). | All-in cost | [Costo del financiamiento](../Financiamiento/costo-del-financiamiento.md) |
+| Costo financiero total (CFT) | En Argentina, la tasa efectiva anual que suma al interés las comisiones, los seguros y los gastos (BCRA, texto ordenado de tasas de interés en las operaciones de crédito, punto 3.4, leído). | All-in cost | [Costo del financiamiento](../Financiamiento/costo-del-financiamiento.md) |
 
 ## Riesgos financieros
 

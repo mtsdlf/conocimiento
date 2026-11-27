@@ -8,9 +8,11 @@ fuentes:
   - "Documentación de pagos por lotes de un sistema de gestión abierto, versión 18 (leído; como evidencia de práctica): https://www.odoo.com/documentation/18.0/applications/finance/accounting/payments/batch.html"
   - "Documentación del registro de pagos de otro sistema de gestión abierto (leído; como evidencia de práctica): https://docs.frappe.io/erpnext/user/manual/en/payment-entry"
   - "Wikipedia, Two-person rule (según su resumen; fuente terciaria): https://en.wikipedia.org/wiki/Four-eyes_principle"
-  - "Wikipedia, ISO 20022 (según su resumen; fuente terciaria): https://en.wikipedia.org/wiki/ISO_20022"
+  - "EPC, SEPA Credit Transfer Scheme Customer-to-PSP Implementation Guidelines, EPC132-08, versión 1.0 (emitida el 28/11/2024, vigente desde el 5/10/2025) (leído en la introducción y el índice): https://www.europeanpaymentscouncil.eu/sites/default/files/kb/file/2025-10/EPC132-08%20SCT%20C2PSP%20IG%202025%20V1.0.pdf"
+  - "BCRA, Texto ordenado Reglamentación de la cuenta corriente bancaria (al 4/6/2026), 12.2 (leído): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-ctacte.pdf"
   - "Tesoreria/.investigacion/pagos-a-proveedores.md, secciones 2 y 5 (2026-11-27)"
   - "Tesoreria/.investigacion/financiamiento-y-pagos-segunda-ronda.md, sección 6 (2026-11-27)"
+  - "Tesoreria/.investigacion/pagos-y-politica-verificacion.md (2026-11-27)"
 aliases: [corrida de pagos, payment run, pago por lotes, batch payment, lote de pagos, propuesta de pagos, payment proposal, archivo de pagos, payment file, orden de pago, firma conjunta, doble firma, two-person rule, four-eyes principle]
 creado: 2026-11-27
 revisado:
@@ -46,7 +48,7 @@ La documentación de los dos sistemas abiertos muestra reglas que se repiten. Si
 - Deducciones con su cuenta. Las retenciones, las comisiones bancarias y las diferencias de cambio que se descuentan del pago van en un campo aparte, cada una a su cuenta.
 - Anticipos sin factura. Un pago adelantado al proveedor se registra antes de la factura y queda sin aplicar hasta que llega.
 
-El formato del archivo depende de la región: según la documentación de uno de los sistemas, SEPA en Europa, NACHA en Estados Unidos e ISO 20022 como estándar mundial. ISO 20022 es, según Wikipedia, un estándar de mensajes electrónicos entre instituciones financieras que cubre pagos, valores y tarjetas, con XML como primera sintaxis. Qué medio conviene para cada pago, cuándo se acredita y cuánto cuesta, está en [medios de cobro y pago](../Caja-y-liquidez/medios-de-cobro-y-pago.md); los de Argentina, en [tesorería en Argentina](../tesoreria-en-argentina.md).
+El formato del archivo depende de la región: según la documentación de uno de los sistemas, SEPA en Europa, NACHA en Estados Unidos e ISO 20022 como estándar mundial. ISO 20022 es un estándar de mensajes en XML. En las transferencias SEPA, la orden de pago que la empresa le manda a su banco es el mensaje *Customer Credit Transfer Initiation* (pain.001.001.09 en la guía del EPC de 2025). Qué medio conviene para cada pago, cuándo se acredita y cuánto cuesta, está en [medios de cobro y pago](../Caja-y-liquidez/medios-de-cobro-y-pago.md); los de Argentina, en [tesorería en Argentina](../tesoreria-en-argentina.md).
 
 ## Quién aprueba y quién firma
 
@@ -54,7 +56,9 @@ La aprobación de la corrida aplica la matriz de [autorizaciones](../../Contabil
 
 El doble control tiene nombre propio: la regla de las dos personas, que exige que dos personas autorizadas intervengan en una acción. Según el resumen de Wikipedia, algunos sistemas exigen que dos usuarios aprueben una transferencia antes de procesarla, y algunas empresas exigen dos firmas en los cheques. En la encuesta de AFP de 2026, la firma de la gerencia por encima de un umbral es uno de los controles más usados contra el fraude de pagos ([seguridad de los pagos](seguridad-de-los-pagos.md)). El umbral y los firmantes los fija la [política de tesorería](../politica-de-tesoreria.md); las firmas registradas en cada banco, la nota de [cuentas bancarias](../Caja-y-liquidez/cuentas-bancarias.md).
 
-> [!NOTE] Sin fuente todavía: las firmas conjuntas como práctica bancaria (esquemas de firma indistinta y conjunta, montos), la orden de pago como documento interno que respalda cada pago, y la aprobación por niveles dentro de una misma corrida.
+En Argentina, el texto ordenado del BCRA distingue dos regímenes para las cuentas corrientes especiales con varios titulares. En las cuentas a orden recíproca o indistinta, el banco acepta los cheques librados por cualquiera de los titulares (12.2.1). En las de orden conjunta o colectiva, solo acepta cheques firmados por todos (12.2.2). Es una sola fuente, y regula a los titulares de la cuenta; para una sociedad, el texto pide identificar a sus autoridades y autorizados (1.3.1) pero no fija montos ni esquemas de firma.
+
+> [!NOTE] Sin fuente todavía: los montos y esquemas de firma de una empresa en la práctica bancaria, la orden de pago como documento interno que respalda cada pago, y la aprobación por niveles dentro de una misma corrida.
 
 ## Lo que el banco devuelve
 

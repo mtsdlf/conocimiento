@@ -10,9 +10,9 @@ fuentes:
   - "García-Teruel, P. J. y Martínez-Solano, P. (2007), Effects of working capital management on SME profitability, International Journal of Managerial Finance 3(2), 164-177 (según su resumen): https://www.emerald.com/insight/content/doi/10.1108/17439130710738718/full/html"
   - "Baños-Caballero, S., García-Teruel, P. J. y Martínez-Solano, P. (2014), Working capital management, corporate performance, and financial constraints, Journal of Business Research 67(3), 332-338 (abstract): https://ideas.repec.org/a/eee/jbrese/v67y2014i3p332-338.html"
   - "Petersen, M. y Rajan, R. (1997), Trade Credit: Theories and Evidence, Review of Financial Studies 10(3), 661-691 (abstract): https://ideas.repec.org/a/oup/rfinst/v10y1997i3p661-91.html"
-  - "Wikipedia, Cash conversion cycle (según su resumen): https://en.wikipedia.org/wiki/Cash_conversion_cycle"
   - "Tesoreria/.investigacion/caja-y-liquidez.md, sección 4 (2026-11-27)"
   - "Tesoreria/.investigacion/fundamentos-y-contraria.md, sección 4.1 (2026-11-27)"
+  - "Tesoreria/.investigacion/caja-y-liquidez-verificacion.md (2026-11-27)"
 aliases: [capital de trabajo, capital de trabajo neto, working capital, net working capital, NWC, ciclo de conversión del efectivo, ciclo de caja, cash conversion cycle, CCC, cash cycle, días de inventario, days inventory outstanding, DIO, inventory conversion period, días de cobro, receivables collection period, días de pago, days payables outstanding, DPO, payables deferral period]
 creado: 2026-11-27
 revisado:
@@ -73,7 +73,7 @@ Cada término de la fórmula es una palanca, y cada una tiene su costo; las cita
 - Pagar más tarde: estirar los días de pago. Es la palanca más barata en apariencia y la que se discute abajo; el cálculo de qué cuesta dejar pasar un descuento por pronto pago está en [programación de pagos](../Pagos-a-proveedores/programacion-de-pagos.md#el-costo-de-no-tomar-un-descuento-por-pronto-pago).
 - Financiar el ciclo en lugar de acortarlo: descontar facturas o cheques, que adelanta el cobro a cambio de una tasa; está en [financiamiento de corto plazo](../Financiamiento/financiamiento-de-corto-plazo.md).
 
-Según el resumen de Wikipedia, acortar el ciclo tiene riesgos propios, porque una política de cobrar estricto y pagar laxo no siempre se sostiene.
+Por lectura de esta base, acortar el ciclo tiene riesgos propios, porque una política de cobrar estricto y pagar laxo no siempre se sostiene: el cliente reclama plazo y el proveedor reclama pago.
 
 ## El crédito de proveedores no es gratis
 
@@ -90,7 +90,7 @@ Petersen y Rajan (1997) estudiaron por qué las empresas usan crédito comercial
 >
 > Lo que la base puede afirmar: un ciclo más corto libera caja; que además mejore la rentabilidad depende de cómo se acorta, y existe un punto a partir del cual acortar más cuesta ventas o proveedores. Ninguna de las muestras es argentina.
 
-> [!NOTE] Sin fuente todavía: Baños-Caballero et al. (2012), en *Small Business Economics* 39(2), estudia pymes españolas y se cita como evidencia de un óptimo en pymes, pero su abstract no se leyó.
+> [!NOTE] Sin fuente todavía: Baños-Caballero, García-Teruel y Martínez-Solano (2012), «How does working capital management affect the profitability of Spanish SMEs?», *Small Business Economics* 39(2), 517-529, DOI 10.1007/s11187-011-9317-8, estudia pymes españolas y se cita como evidencia de un óptimo en pymes. Se confirmó la referencia en un repositorio institucional y en RePEc, que no trae resumen; el texto en la editorial está bloqueado. Un resumen del buscador, que no se toma como lectura, dice que halla una relación cóncava entre el capital de trabajo y la rentabilidad, es decir, un nivel óptimo.
 
 ## Cómo lo calcula un sistema de gestión
 
@@ -101,7 +101,7 @@ Un sistema tiene todos los datos para calcular el ciclo: el costo de ventas, las
 - El período y el divisor a la vista: OpenStax usa 365 días y rotaciones anuales; si el sistema calcula por mes, dice con qué divisor.
 - Por cliente, por proveedor y por línea: el ciclo de la empresa es un promedio, y la plata trabada suele estar en pocos clientes o pocos productos. La antigüedad de saldos de las cuentas corrientes lo muestra.
 
-Según el resumen de Wikipedia, el ciclo se deriva del balance porque no se observa en los flujos de caja: describe, por lectura de esta base, el período pasado, y la [proyección de caja](proyeccion-de-caja.md) dice qué semana va a faltar la plata.
+El ciclo se deriva de las ventas, el costo de ventas y los saldos promedio de stock, cuentas a cobrar y cuentas a pagar, como en la fórmula de OpenStax, y no se observa en los flujos de caja: describe, por lectura de esta base, el período pasado, y la [proyección de caja](proyeccion-de-caja.md) dice qué semana va a faltar la plata.
 
 ## Cómo falla
 
