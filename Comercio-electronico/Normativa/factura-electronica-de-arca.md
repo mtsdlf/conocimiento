@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La factura electrónica de ARCA es el comprobante fiscal que en Argentina respalda cada venta: casi todo el que vende tiene que emitirla o usar un controlador fiscal, con una letra (A, B, C, E) que depende de quién vende y a quién, y un código de autorización (CAE) que ARCA da en el momento. Un sistema la emite conectándose a los web services de ARCA con un certificado digital.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - "RG ARCA 5893/2026, Boletín Oficial, 31/08/2026: https://www.boletinoficial.gob.ar/pdf/aviso/primera/346598/20260831 (leída)"
@@ -17,12 +17,14 @@ fuentes:
   - "ARCA, puntos de venta: https://www.arca.gob.ar/facturacion/documentos/puntos-de-venta.pdf (leído el 2026-11-22)"
   - "ARCA, web services de factura electrónica: https://www.arca.gob.ar/ws/documentacion/ws-factura-electronica.asp y manual WSFEv1 v4.7: https://www.arca.gob.ar/ws/documentacion/manuales/manual-desarrollador-ARCA-COMPG.pdf (leídos el 2026-11-22)"
   - "ARCA, manual WSFEv1 v4.8 en homologación externa: https://www.arca.gob.ar/fe/ayuda/documentos/wsfev1-RG-4291.pdf (leído el 2026-11-22)"
+  - "ARCA, Manual del desarrollador WSAA, publicación 20.2.19, §3 y §10.6 (leído en Software-de-gestion/.investigacion/normativa-argentina.md): https://www.arca.gob.ar/ws/WSAA/WSAAmanualDev.pdf"
+  - "RG AFIP 3561/2013, texto actualizado, arts. 1, 2 y 15 (leídos en Software-de-gestion/.investigacion/normativa-argentina.md): https://www.argentina.gob.ar/normativa/nacional/norma-223930/texto"
   - "iProfesional, Nuevo requisito de ARCA puede trabar la emisión de facturas, 09/09/2026: https://www.iprofesional.com/impuestos/464104-nuevo-requisito-arca-puede-trabar-emision-facturas (por resumen)"
   - "CPCE Córdoba, sobre la RG 5893, 31/08/2026: https://web.cpcecba.org.ar/?p=69028 (por resumen)"
   - "Comercio-electronico/.investigacion/factura-electronica-arca.md"
 aliases: [factura electrónica, factura electrónica AFIP, comprobante electrónico, CAE, CAEA, WSFEv1, web service de ARCA, controlador fiscal, factura A, factura B, factura C, transparencia fiscal, RG 4291, RG 5893]
 creado: 2026-11-22
-revisado: 2026-11-24
+revisado:
 ---
 
 # Factura electrónica de ARCA
@@ -47,7 +49,7 @@ La página de ARCA «Factura electrónica vs. Controlador fiscal» todavía exce
 
 ## Factura electrónica o controlador fiscal
 
-El comercio puede elegir una de las dos modalidades o las dos, «sin necesidad de informar previamente» a ARCA. Un controlador fiscal es un equipo homologado por ARCA que imprime tiques y facturas; su régimen es la RG AFIP 3561/2013, cuyo texto no se leyó.
+El comercio puede elegir una de las dos modalidades o las dos, «sin necesidad de informar previamente» a ARCA. Un controlador fiscal es un equipo homologado por ARCA que imprime tiques y facturas; su régimen es la RG AFIP 3561/2013. Según su texto actualizado, la obligación «se cumplirá únicamente por medio de algún equipamiento electrónico que haya sido homologado por este Organismo», provisto solo por las empresas que ARCA autoriza (art. 2), y la norma separa los equipos de «nueva tecnología» de los de vieja (art. 15). Lo que regula es el equipo, su proveedor y sus reportes; cómo se conecta un sistema de gestión con el equipo no lo regula ninguna norma leída.
 
 Para un local que vende a consumidor final, **la obligación de facturar no obliga a comprar un controlador fiscal**: alcanza con la factura electrónica. Es una confusión frecuente. Hay tres casos en que no se puede elegir y la factura tiene que ser electrónica:
 
@@ -96,19 +98,19 @@ El web service de mercado interno es el WSFEv1. Su manual describe el circuito:
 ```mermaid
 flowchart LR
   C[Certificado digital] -->|se asocia por clave fiscal a| W[Servicio de facturación]
-  S[Sistema del comercio] -->|pide un ticket de acceso de 12 horas a| A[WSAA]
+  S[Sistema del comercio] -->|pide un ticket de acceso de unas 12 horas a| A[WSAA]
   S -->|pide el CAE de cada comprobante a| F[WSFEv1]
   F -->|devuelve el CAE o el rechazo a| S
 ```
 
 1. El comercio genera un certificado digital con su clave fiscal y lo asocia al servicio de facturación electrónica.
-2. El sistema pide al servicio de autenticación (WSAA) un ticket de acceso, que dura 12 horas.
+2. El sistema pide al servicio de autenticación (WSAA) un ticket de acceso, que dura «alrededor de 12 horas» según el manual del WSAA; el vencimiento exacto viene en el ticket. El manual pide reusarlo hasta que venza, porque pedir otro para el mismo servicio antes de tiempo falla.
 3. Por cada venta, el sistema manda el comprobante y recibe el CAE. Sin CAE, el comprobante no produce efectos frente a terceros (art. 12 de la RG 4291).
 
 Un proveedor puede facturar por cuenta del comercio si el comercio le delega el servicio en el Administrador de Relaciones de Clave Fiscal; es así como funcionan los sistemas de gestión y las apps de facturación. ARCA ofrece un ambiente de prueba (homologación) para desarrollar.
 
 El CAEA, un código que se pedía por adelantado para facturar sin consultar a ARCA venta por venta, quedó desde el 1 de junio de 2026 como procedimiento excepcional para contingencias (RG 5782/2025). Otros web services cubren casos aparte: con detalle de productos (WSMTXCA), exportación (WSFEXv1) y turistas (WSCT).
 
-> [!NOTE] Sin fuente todavía: el texto de la RG 5866/2026, que según los considerandos de la RG 5893 «limitó los sujetos exceptuados» en etapas; los textos actualizados de las RG 4290, 4291 y 3561; el monto mínimo vigente de la Factura de Crédito Electrónica MiPyME; el costo de un controlador fiscal; y cuántos contribuyentes emiten factura electrónica o cuántos comprobantes se emiten por año (el anuario de ARCA de 2025 no lo trae).
+> [!NOTE] Sin fuente todavía: el texto de la RG 5866/2026, que según los considerandos de la RG 5893 «limitó los sujetos exceptuados» en etapas; los textos actualizados de las RG 4290 y 4291, y el de la RG 3561 entero (se leyeron sus arts. 1, 2 y 15); el monto mínimo vigente de la Factura de Crédito Electrónica MiPyME; el costo de un controlador fiscal; y cuántos contribuyentes emiten factura electrónica o cuántos comprobantes se emiten por año (el anuario de ARCA de 2025 no lo trae).
 
 El recurso canónico es el texto de la RG 5893/2026 en el Boletín Oficial, arts. 2 y 5, para quién está obligado; para un desarrollador, el manual del WSFEv1 en la página de web services de ARCA, fijándose en el campo de la condición frente al IVA del receptor y en la sección de homologación.
