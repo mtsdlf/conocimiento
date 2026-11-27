@@ -3,7 +3,7 @@ resumen: >-
   Ficha con los nombres de archivos, mecanismos y comandos con que dos herramientas de agentes de
   código y un formato abierto resuelven el contexto del repositorio, la verificación y el trabajo
   en paralelo, copiados de su documentación el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Anthropic, Best practices for Claude Code (leída 2026-11-27): https://code.claude.com/docs/en/best-practices"
@@ -11,7 +11,7 @@ fuentes:
   - "OpenAI, Codex: AGENTS.md: https://learn.chatgpt.com/docs/agent-configuration/agents-md"
   - https://agents.md
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramientas de agentes de código

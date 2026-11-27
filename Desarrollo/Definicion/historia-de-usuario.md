@@ -3,7 +3,7 @@ resumen: >-
   Una historia de usuario describe una funcionalidad desde quien la usa ("Como… quiero… para…")
   y se cierra con criterios de aceptación verificables; una épica agrupa historias de un mismo
   objetivo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Agile Alliance, User Stories: https://www.agilealliance.org/glossary/user-stories/"
@@ -16,7 +16,7 @@ fuentes:
   - "Archivo/Desarrollo/epicas-historias-usuario-ecommerce.md (original)"
 aliases: [User story, HU, Historia, Épica, Epic]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia de usuario

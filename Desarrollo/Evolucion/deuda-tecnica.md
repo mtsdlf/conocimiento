@@ -3,7 +3,7 @@ resumen: >-
   La deuda técnica es el costo futuro de un atajo o de un diseño que ya no calza: cada cambio en esa
   zona paga intereses en tiempo y defectos. Se paga cuando los intereses pesan más que el costo de
   arreglarla, y no siempre conviene pagarla.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://queue.acm.org/detail.cfm?id=2168798
@@ -16,7 +16,7 @@ fuentes:
   - https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2026/04/tr_technology_radar_vol_34_en.pdf
 aliases: [technical debt, deuda de código, tech debt, cuadrante de deuda técnica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Deuda técnica

@@ -3,7 +3,7 @@ resumen: >-
   La revisión de código es leer un cambio antes de integrarlo para encontrar problemas y entenderlo.
   Con agentes se reparte en tres: una herramienta controla lo mecánico, otro agente con contexto
   limpio contrasta contra la especificación y una persona revisa intención, diseño y riesgo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://researchr.org/publication/BacchelliB13
@@ -16,7 +16,7 @@ fuentes:
   - https://www.thoughtworks.com/radar
 aliases: [code review, revisión de pull request, revisión de PR, peer review, revisión por pares]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Revisión de código

@@ -3,7 +3,7 @@ resumen: >-
   TDD (desarrollo guiado por pruebas) es escribir primero una prueba que falla, después el código
   que la hace pasar y por último ordenar el código. Con agentes vale sobre todo como señal de
   retroalimentación y contrato de terminado; su efecto sobre la calidad no está probado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://arxiv.org/abs/1611.05994
@@ -15,7 +15,7 @@ fuentes:
   - https://www.thoughtworks.com/radar/techniques/complacency-with-ai-generated-code
 aliases: [test-driven development, desarrollo guiado por pruebas, test first, prueba primero, rojo-verde-refactor, red-green-refactor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # TDD

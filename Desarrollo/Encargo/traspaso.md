@@ -4,7 +4,7 @@ resumen: >-
   código, las cuentas y los accesos, la documentación y la forma de operarlo, y se acuerda qué
   pasa después con la garantía y el soporte. Se apoya casi solo en guías de agencias; no hay norma
   ni estudio.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Arbogast, Larman y Vodde (2012), Agile Contracts Primer v5, Deliverables, Warranty y el caso de la fase de soporte: http://www.agilecontracts.org/agile_contracts_primer.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "Desarrollo/.investigacion/encargo.md"
 aliases: [traspaso, handover, handoff, entrega final, cierre del proyecto, project closure, transferencia de conocimiento, garantía, soporte posterior]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Traspaso

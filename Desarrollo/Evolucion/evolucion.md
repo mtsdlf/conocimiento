@@ -3,7 +3,7 @@ resumen: >-
   Evolución es lo que le pasa al software después de la primera entrega: se le pagan o no las deudas,
   se lo reordena sin cambiar lo que hace, alguien que no lo escribió lo toma y se lo mantiene al día
   con sus dependencias y plataformas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
@@ -14,7 +14,7 @@ fuentes:
   - "Desarrollo/.investigacion/verificacion-y-evolucion.md (2026-11-27)"
 aliases: [mantenimiento de software, evolución del software, software maintenance, mantenimiento evolutivo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evolución

@@ -3,7 +3,7 @@ resumen: >-
   Descomponer es partir un trabajo en tareas que entregan cada una un cambio de comportamiento
   observable y se verifican por separado; con agentes de código, una tarea es lo que un agente puede
   hacer y comprobar con un chequeo de pasa o falla dentro de una sesión.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
@@ -17,7 +17,7 @@ fuentes:
   - "User stories and vertical slicing, dev.to (según resumen): https://dev.to/jan/user-stories-and-vertical-slicing-1dpo"
 aliases: [descomponer, partir historias, splitting user stories, rebanada vertical, vertical slice, slicing, tarea, desglose de tareas, tamaño de tarea]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Descomposición en tareas

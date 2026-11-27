@@ -3,7 +3,7 @@ resumen: >-
   La bibliografía de desarrollo ordena los libros y las fuentes vivas del tema por lo que se
   necesita hacer (entender el proceso, especificar, probar, mantener código heredado, trabajar con
   agentes y tratar con el cliente) y dice qué parte leer de cada uno y en qué fijarse.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dave Farley, Modern Software Engineering (Addison-Wesley, 2021; copyright 2022), índice: https://www.informit.com/store/modern-software-engineering-doing-what-works-to-build-9780137314911"
@@ -33,7 +33,7 @@ fuentes:
   - https://ieeexplore.ieee.org/document/5232804
 aliases: [libros de desarrollo de software, qué leer sobre el proceso de desarrollo, bibliografía de ingeniería de software]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de desarrollo

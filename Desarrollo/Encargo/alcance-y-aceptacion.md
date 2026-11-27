@@ -3,7 +3,7 @@ resumen: >-
   El alcance es lo que el encargo se compromete a entregar, con lo que queda afuera escrito; la
   aceptación es el momento en que el cliente dice que un incremento o el proyecto están
   terminados, y conviene que dependa de criterios verificables acordados antes de construir.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Arbogast, Larman y Vodde (2012), Agile Contracts Primer v5, secciones Acceptance, Warranty y Deliverables, leídas: http://www.agilecontracts.org/agile_contracts_primer.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo/.investigacion/encargo.md"
 aliases: [alcance, scope, aceptación, acceptance, definición de terminado, definition of done, DoD, UAT, pruebas de aceptación, línea base de alcance, scope baseline]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alcance y aceptación

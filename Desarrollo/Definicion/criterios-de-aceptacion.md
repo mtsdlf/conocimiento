@@ -3,7 +3,7 @@ resumen: >-
   Los criterios de aceptación son los ejemplos concretos y verificables que dicen cuándo un cambio
   está terminado; escritos como contexto, acción y resultado observable, se convierten en pruebas, y
   con agentes de código son el contrato de terminado que da pasa o falla.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.manning.com/books/specification-by-example
@@ -15,7 +15,7 @@ fuentes:
   - https://www.mountaingoatsoftware.com/agile/user-stories
 aliases: [acceptance criteria, criterio de aceptación, dado cuando entonces, given when then, Gherkin, BDD, especificación por ejemplos, specification by example, example mapping]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Criterios de aceptación

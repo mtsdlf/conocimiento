@@ -3,7 +3,7 @@ resumen: >-
   Definición es la parte del desarrollo que convierte una intención acordada en algo que se puede
   construir sin adivinar: qué cambia, con qué palabras del negocio, en qué tareas se parte y con qué
   ejemplos se comprueba que está terminado, sea una persona o un agente quien lo construya.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
@@ -17,7 +17,7 @@ fuentes:
   - "Desarrollo/.investigacion/definicion.md y posicion-contraria.md (2026-11-27)"
 aliases: [requisitos, ingeniería de requisitos, requirements, especificación y prueba, definir el trabajo]
 creado: 2026-11-19
-revisado:
+revisado: 2026-11-27
 ---
 
 # Definición

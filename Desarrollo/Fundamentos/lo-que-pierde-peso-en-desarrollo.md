@@ -2,7 +2,7 @@
 resumen: >-
   Lo que pierde peso en desarrollo son las prácticas del proceso que este tema dejó fuera o puso en
   segundo plano, cada una con quién lo dice, la evidencia en contra y un veredicto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
@@ -30,7 +30,7 @@ fuentes:
   - https://link.springer.com/content/pdf/10.1007/978-3-642-02032-2_24.pdf
 aliases: [posición contraria en desarrollo, lo que ya no conviene aprender primero del proceso, prácticas en desuso]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lo que pierde peso en desarrollo

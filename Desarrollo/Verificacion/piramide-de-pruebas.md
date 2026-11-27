@@ -4,7 +4,7 @@ resumen: >-
   aisladas abajo, menos de integración en el medio y pocas de extremo a extremo arriba. Sus
   alternativas (el trofeo, el panal) discuten la forma; esta base toma como criterio propio que lo común es
   probar en la frontera con pocas pruebas lentas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://martinfowler.com/articles/practical-test-pyramid.html
@@ -15,7 +15,7 @@ fuentes:
   - https://code.claude.com/docs/en/best-practices
 aliases: [test pyramid, pirámide de tests, testing trophy, trofeo de pruebas, testing honeycomb, panal de pruebas, pruebas de contrato, contract testing, consumer-driven contracts]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pirámide de pruebas

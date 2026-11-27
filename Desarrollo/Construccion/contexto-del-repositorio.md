@@ -4,7 +4,7 @@ resumen: >-
   trabajar bien en él: un archivo corto de instrucciones con lo que no se deduce del código, el
   material de consulta que se carga solo cuando hace falta y las reglas que se imponen con
   mecanismos deterministas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Anthropic, Best practices for Claude Code (leída 2026-11-27): https://code.claude.com/docs/en/best-practices"
@@ -15,7 +15,7 @@ fuentes:
   - https://agents.md
 aliases: [archivo de instrucciones para agentes, context engineering, ingeniería de contexto, AGENTS.md, CLAUDE.md, instrucciones del repositorio]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Contexto del repositorio

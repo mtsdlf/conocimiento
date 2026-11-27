@@ -3,7 +3,7 @@ resumen: >-
   Un agente de código es un modelo de lenguaje que trabaja sobre un repositorio en un bucle: lee el
   código, edita archivos, corre comandos, mira el resultado y sigue hasta terminar la tarea o
   quedarse sin forma de avanzar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Anthropic, Best practices for Claude Code (leída 2026-11-27): https://code.claude.com/docs/en/best-practices"
@@ -25,7 +25,7 @@ fuentes:
   - "Thoughtworks Technology Radar: https://www.thoughtworks.com/en-cl/radar"
 aliases: [coding agent, agente de programación, asistente de código, programación con IA, augmented coding, vibe coding]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Agente de código

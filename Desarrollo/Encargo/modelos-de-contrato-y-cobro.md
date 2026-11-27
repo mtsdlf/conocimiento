@@ -5,7 +5,7 @@ resumen: >-
   usados son precio cerrado, tiempo y materiales, sus híbridos con tope, alcance variable con precio
   fijo y abono; el cobro por resultado es minoritario, y qué cambia cuando programa un agente
   todavía es teoría.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Arbogast, Larman y Vodde (2012), Agile Contracts Primer v5, Part 3 y secciones de pago y soporte, leídas: http://www.agilecontracts.org/agile_contracts_primer.pdf"
@@ -25,7 +25,7 @@ fuentes:
   - "Desarrollo/.investigacion/posicion-contraria.md"
 aliases: [tipos de contrato, modelo de contrato, precio fijo, precio cerrado, tiempo y materiales, time and materials, T&M, alcance variable, cobro por resultado, outcome-based pricing, retainer, abono, contrato ágil, agile contract]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelos de contrato y cobro

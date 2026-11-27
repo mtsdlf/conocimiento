@@ -4,7 +4,7 @@ resumen: >-
   regla fijada antes del primer pedido: cotizarlo por escrito, cambiarlo por algo del mismo tamaño
   o recortar para que entre en el tiempo fijo; la regla depende del modelo de contrato, y las
   fuentes discrepan sobre cuánta formalidad hace falta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Arbogast, Larman y Vodde (2012), Agile Contracts Primer v5, sección Change Management y Part 3, leídas: http://www.agilecontracts.org/agile_contracts_primer.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Desarrollo/.investigacion/posicion-contraria.md"
 aliases: [cambio de alcance, change request, solicitud de cambio, change order, orden de cambio, control de cambios, scope creep, gold-plating, presupuesto de cambios]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cambios de alcance

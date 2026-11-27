@@ -3,7 +3,7 @@ resumen: >-
   Los fundamentos de desarrollo son lo que cruza todo el tema sin ser una etapa del proceso: cómo
   se divide el campo, de dónde viene la forma actual de trabajar, las escuelas que compiten, lo que
   pierde peso, la bibliografía y el glosario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge
@@ -23,7 +23,7 @@ fuentes:
   - https://standards.ieee.org/standard/12207-2017
 aliases: [fundamentos de desarrollo de software, historia del desarrollo de software, fundamentos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de desarrollo

@@ -4,7 +4,7 @@ resumen: >-
   puede mantener, con dos ciclos uno adentro del otro: con el cliente se acuerda, se entrega por
   partes, se acepta y se traspasa; adentro, cada parte se define, se construye, se verifica y se
   integra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dave Farley, Modern Software Engineering (Addison-Wesley, 2021; copyright 2022), índice: https://www.informit.com/store/modern-software-engineering-doing-what-works-to-build-9780137314911"
@@ -15,7 +15,7 @@ fuentes:
   - "Desarrollo/.investigacion/ (seis informes, 2026-11-27)"
 aliases: [desarrollo de software, ingeniería de software, software engineering, software development, ciclo de vida del software]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desarrollo

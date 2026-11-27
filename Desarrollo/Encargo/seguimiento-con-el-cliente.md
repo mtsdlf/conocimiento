@@ -4,7 +4,7 @@ resumen: >-
   software andando que el cliente inspecciona para decidir qué sigue, aceptaciones por incremento
   y un pronóstico basado en lo terminado. Es la parte del encargo con menos fuentes; casi todo lo
   que se dice de cadencia y formato es práctica de la escuela.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Schwaber y Sutherland, The Scrum Guide (2020), Sprint Review y Product Goal: https://scrumguides.org/scrum-guide.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Desarrollo/.investigacion/encargo.md"
 aliases: [seguimiento del proyecto, reporte de avance, informe de estado, status report, demo, revisión con el cliente, sprint review, gestión de expectativas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Seguimiento con el cliente

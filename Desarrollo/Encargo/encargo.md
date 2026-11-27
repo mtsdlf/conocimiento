@@ -4,7 +4,7 @@ resumen: >-
   resuelve y cómo se sabe que está resuelto, se estima y se elige cómo se cobra, se entregan
   incrementos que el cliente usa y acepta, se manejan los cambios y al final se le traspasa el
   sistema para que sea suyo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Arbogast, Larman y Vodde (2012), Agile Contracts Primer v5 (secciones Acceptance, Warranty, Deliverables, Change Management y Part 3): http://www.agilecontracts.org/agile_contracts_primer.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "Desarrollo/.investigacion/posicion-contraria.md"
 aliases: [ciclo con el cliente, gestión del proyecto con el cliente, proyecto a medida, desarrollo a medida, custom software project, client engagement]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Encargo

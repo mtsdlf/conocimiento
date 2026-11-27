@@ -4,7 +4,7 @@ resumen: >-
   desde subir una librería hasta cambiar el mismo patrón en miles de archivos. Con modelos de lenguaje,
   las migraciones grandes siguen un patrón: el modelo propone, una verificación determinista decide y
   las personas revisan.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://research.google/blog/accelerating-code-migrations-with-ai/
@@ -16,7 +16,7 @@ fuentes:
   - https://code.claude.com/docs/en/best-practices
 aliases: [migración de código, actualización de dependencias, dependency updates, code migration, migraciones masivas, large-scale changes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Migraciones y actualizaciones

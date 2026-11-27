@@ -3,7 +3,7 @@ resumen: >-
   El modelo de dominio es la representación compartida de los conceptos y las reglas del negocio
   para el que se construye, con un vocabulario que se usa igual en la conversación con el cliente,
   en las especificaciones y en el código.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://martinfowler.com/bliki/UbiquitousLanguage.html
@@ -20,7 +20,7 @@ fuentes:
   - https://learn.chatgpt.com/guides/best-practices
 aliases: [domain model, lenguaje ubicuo, ubiquitous language, contexto delimitado, bounded context, contexto acotado, Event Storming, glosario del dominio, DDD]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelo de dominio

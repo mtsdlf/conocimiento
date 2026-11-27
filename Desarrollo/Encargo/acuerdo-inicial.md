@@ -4,7 +4,7 @@ resumen: >-
   desarrolla fijan qué problema se resuelve, qué resultado se busca, quién decide, qué
   restricciones hay y qué queda afuera de la primera versión. Termina en un acuerdo entre
   personas; la especificación que lee un agente empieza después.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Caroli, Lean Inception (martinfowler.com), leído: https://www.martinfowler.com/articles/lean-inception"
@@ -15,7 +15,7 @@ fuentes:
   - "Desarrollo/.investigacion/encargo.md"
 aliases: [kickoff, reunión de arranque, inception, lean inception, project charter, acta de constitución, discovery inicial]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Acuerdo inicial

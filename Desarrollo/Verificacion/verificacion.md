@@ -3,7 +3,7 @@ resumen: >-
   Verificar es comprobar con evidencia que lo construido hace lo que se definió: pruebas automáticas,
   revisión de código y controles sobre lo que entrega un agente. Validar es otra cosa: si era lo
   que el cliente necesitaba, y eso se cierra en la aceptación con el cliente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://martinfowler.com/articles/practical-test-pyramid.html
@@ -16,7 +16,7 @@ fuentes:
   - "Desarrollo/.investigacion/verificacion-y-evolucion.md y posicion-contraria.md (2026-11-27)"
 aliases: [verificación de software, verification, pruebas de software, testing, aseguramiento de calidad]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Verificación

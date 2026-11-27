@@ -3,7 +3,7 @@ resumen: >-
   Construcción es la parte del ciclo técnico en que una tarea definida se convierte en código que
   compila y pasa sus pruebas, escrito cada vez más por agentes que leen el repositorio y corren sus
   comandos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://code.claude.com/docs/en/best-practices
@@ -18,7 +18,7 @@ fuentes:
   - "Desarrollo/.investigacion/construccion.md (2026-11-27)"
 aliases: [construcción de software, implementación, codificación, software construction, coding]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Construcción

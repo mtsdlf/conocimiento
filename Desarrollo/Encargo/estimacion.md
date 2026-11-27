@@ -4,7 +4,7 @@ resumen: >-
   que el cliente y el proveedor puedan decidir. Se estima con rangos, comparando con proyectos
   parecidos, fijando un apetito en lugar de un número o pronosticando a partir del ritmo medido;
   que construya un agente no elimina el sesgo de optimismo y todavía no hay datos de cuánto cambia.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Fowler, The Purpose of Estimation, leído: https://martinfowler.com/bliki/PurposeOfEstimation.html"
@@ -25,7 +25,7 @@ fuentes:
   - "Desarrollo/.investigacion/posicion-contraria.md"
 aliases: [estimar, estimate, estimación de software, software estimation, previsión, forecasting, pronóstico, apetito, appetite, NoEstimates, reference class forecasting, previsión por clase de referencia, Monte Carlo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estimación

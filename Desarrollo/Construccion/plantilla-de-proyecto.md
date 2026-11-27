@@ -3,7 +3,7 @@ resumen: >-
   Una plantilla de proyecto es un repositorio base versionado del que sale todo proyecto nuevo, con
   la estructura, las dependencias, la configuración y, desde que trabajan agentes, lo que el agente
   lee desde el primer commit.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Copier, documentación: https://copier.readthedocs.io/en/stable/"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo/.investigacion/construccion.md (2026-11-27)"
 aliases: [generación de proyectos, project template, scaffolding, plantilla de servicio, starter, esqueleto de proyecto]
 creado: 2026-11-19
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plantilla de proyecto

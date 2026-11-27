@@ -3,7 +3,7 @@ resumen: >-
   Refactorizar es cambiar la estructura interna del código sin cambiar su comportamiento observable,
   en pasos chicos y con pruebas que lo confirmen. Con pruebas que fijen el comportamiento, es el
   trabajo mejor acotado que se le puede dar a un agente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://martinfowler.com/books/refactoring.html
@@ -14,7 +14,7 @@ fuentes:
   - https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html
 aliases: [refactoring, refactorización, refactor, reestructurar código]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Refactorizar

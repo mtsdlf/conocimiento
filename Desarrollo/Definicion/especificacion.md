@@ -3,7 +3,7 @@ resumen: >-
   Una especificación es el texto que fija, antes de construir un cambio, qué tiene que hacer, con
   qué restricciones, qué queda abierto y cómo se sabe que está terminado; con agentes de código es el
   insumo principal que el agente lee.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
@@ -22,7 +22,7 @@ fuentes:
   - https://kiro.dev/docs/specs/
 aliases: [spec, especificación, spec-driven development, SDD, desarrollo guiado por especificaciones, requisito, SPEC.md]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Especificación

@@ -3,7 +3,7 @@ resumen: >-
   Verificar lo que hizo un agente es aceptar su trabajo por la evidencia y no por su resumen:
   buscar las señales de trabajo incompleto o inventado (pruebas debilitadas, salidas fijadas a mano,
   paquetes que no existen) y medir con pruebas de mutación si sus pruebas detectan fallas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://metr.org/blog/2025-06-05-recent-reward-hacking
@@ -19,7 +19,7 @@ fuentes:
   - https://www.thoughtworks.com/radar/techniques/complacency-with-ai-generated-code
 aliases: [verificar el trabajo de un agente, reward hacking, pruebas de mutación, mutation testing, slopsquatting]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Verificar lo que hizo un agente

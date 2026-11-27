@@ -2,7 +2,7 @@
 resumen: >-
   El plan de entregas corta el alcance acordado en incrementos que el cliente puede ver y usar, y
   decide en qué orden llegan. Cada incremento es una o más rebanadas verticales desplegadas, de modo que se pueda aceptar, cobrar y corregir el rumbo antes de seguir.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Schwaber y Sutherland, The Scrum Guide (2020), Increment: https://scrumguides.org/scrum-guide.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo/.investigacion/encargo.md"
 aliases: [plan de entregas, release planning, planificación de entregas, incremento, increment, walking skeleton, esqueleto andante]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plan de entregas

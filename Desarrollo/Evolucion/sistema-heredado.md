@@ -3,7 +3,7 @@ resumen: >-
   Un sistema heredado es código que hay que cambiar sin haberlo escrito y, sobre todo, sin pruebas que
   digan si un cambio lo rompe. Se entra fijando con pruebas lo que hace hoy, buscando costuras donde
   cambiar su comportamiento y recién después modificándolo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.spinellis.gr/pubs/Breview/2005-CR-Legacy/html/review.html
@@ -14,7 +14,7 @@ fuentes:
   - https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html
 aliases: [código heredado, legacy code, sistema legado, código legado, legacy system]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sistema heredado

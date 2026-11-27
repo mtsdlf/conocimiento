@@ -4,7 +4,7 @@ resumen: >-
   hoy: la ágil y sus marcos (XP, Scrum, Kanban, Lean), Shape Up, la ingeniería de software moderna
   con DORA como evidencia, la planificación predictiva, el desarrollo guiado por especificaciones y
   las posturas sobre cómo programar con IA.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://agilemanifesto.org/
@@ -27,7 +27,7 @@ fuentes:
   - https://unpaywall.org/10.1007%2F978-3-031-78386-9_21
 aliases: [escuelas de desarrollo de software, metodologías de desarrollo, corrientes del proceso de desarrollo, ágil vs cascada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuelas de desarrollo
