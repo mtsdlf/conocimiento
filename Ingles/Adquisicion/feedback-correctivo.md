@@ -36,7 +36,8 @@ discute qué tipo rinde más.
 Dentro de [Adquisición](adquisicion.md) es la pieza más accionable para un adulto: decide qué
 pedirle a un tutor, a un compañero de tándem o a una IA. Completa al
 [output y la interacción](output-e-interaccion.md), que solo hacen notar los errores que traban la
-comunicación.
+comunicación. La retroalimentación al enseñar cualquier materia está en
+[retroalimentación](../../Didactica/Retroalimentacion/retroalimentacion.md), de Didáctica.
 
 ## Seis maneras de corregir el mismo error
 

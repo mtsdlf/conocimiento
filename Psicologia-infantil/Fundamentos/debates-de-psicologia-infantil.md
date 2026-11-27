@@ -4,6 +4,7 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - https://pubmed.ncbi.nlm.nih.gov/33482692/
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC6322209
   - https://sciencedaily.com/releases/2016/03/160310082552.htm
   - https://link.springer.com/doi/10.1007/s00787-018-1229-6
@@ -77,7 +78,7 @@ El ABA (análisis aplicado de la conducta) es un enfoque de intervención conduc
 La crítica de fondo viene de personas autistas y del movimiento de la neurodiversidad, que en su uso corriente ve el autismo como una forma distinta de funcionar más que como algo a corregir (el informe no tiene una fuente que lo defina). Una encuesta encontró que 46 % de quienes habían pasado por intervenciones basadas en ABA superaba el umbral de estrés postraumático (Kupferstein 2018); Leaf y colegas respondieron que el diseño, con sesgo de selección, no permite sacar esa conclusión. Bottema-Beutel y Pavlopoulou señalaron, a su vez, que esa defensa la firmaban autores ligados a servicios de ABA y que no avanza en registrar los efectos adversos. Todo esto se leyó por resúmenes.
 
 > [!IMPORTANT]
-> Las posiciones van de la reforma al rechazo. Una revisión de 2024 en Behavior Analysis in Practice propone integrar la neurodiversidad dentro del ABA; una postura "abolicionista" rechaza reformarlo. Sobre eficacia hay una sola revisión sistemática, la Cochrane. La guía británica NICE sobre autismo anunció en 2025 que actualizará sus recomendaciones sobre intervenciones psicosociales, y el texto vigente no se leyó. Una lectura del informe, no una cita: "ABA" nombra técnicas muy distintas, de los métodos rígidos de décadas atrás a programas actuales, y conviene preguntar por la técnica y no por la sigla. Los tratamientos del autismo están en [enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md) y [qué funciona para qué](../Intervencion/que-funciona-para-que.md).
+> Las posiciones van de la reforma al rechazo. Una revisión de 2024 en Behavior Analysis in Practice propone integrar la neurodiversidad dentro del ABA; una postura "abolicionista" rechaza reformarlo. Sobre eficacia están la revisión Cochrane, el metaanálisis de datos individuales de Rodgers y otros (2021, según su resumen) y el Project AIM (Sandbank y otros 2020 y 2023), que señalan problemas de calidad en los estudios ([mitos](mitos-de-psicologia-infantil.md)). La guía británica NICE sobre autismo (CG170) no nombra al ABA; en julio de 2024 anunció que actualizará sus recomendaciones sobre intervenciones psicosociales, y a noviembre de 2026 sigue vigente el texto de 2013 con los cambios de 2021 ([fuentes](fuentes-de-psicologia-infantil.md)). Una lectura del informe, no una cita: "ABA" nombra técnicas muy distintas, de los métodos rígidos de décadas atrás a programas actuales, y conviene preguntar por la técnica y no por la sigla. Los tratamientos del autismo están en [enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md) y [qué funciona para qué](../Intervencion/que-funciona-para-que.md).
 
 ## Hallazgos famosos que se achicaron al repetirlos
 

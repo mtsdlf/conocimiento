@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Ideas sobre los trastornos y la evaluación de los chicos que circulan mucho y que la evidencia no sostiene o sostiene a medias: la epidemia de autismo, el TDAH como moda, el cuestionario que diagnostica, el perfil del test de inteligencia, el diagnóstico para siempre o que se pasa solo, y el malvavisco como destino.
+  Ideas sobre los trastornos y la evaluación de los chicos que circulan mucho y que la evidencia no sostiene o sostiene a medias: la epidemia de autismo, el TDAH como moda, el cuestionario que diagnostica, el perfil del test de inteligencia, el diagnóstico para siempre o que se pasa solo, el malvavisco como destino, y cuatro creencias clínicas sobre la concentración en el TDAH, la mirada en el autismo, la medicación y el ABA.
 estado: vigente
 estabilidad: estable
 fuentes:
@@ -18,6 +18,21 @@ fuentes:
   - https://doi.org/10.1001/archpsyc.60.8.837
   - https://www.psychologicalscience.org/publications/observer/obsonline/a-new-approach-to-the-marshmallow-test-yields-complex-findings.html
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7197218
+  - https://pubmed.ncbi.nlm.nih.gov/30267329/
+  - https://childmind.org/es/guia/guia-rapida-sobre-el-trastorno-por-deficit-de-atencion-con-hiperactividad-tdah/
+  - https://argentina.gob.ar/normativa/330297_res2641_pdf/archivo
+  - https://pubmed.ncbi.nlm.nih.gov/24196715/
+  - https://pubmed.ncbi.nlm.nih.gov/28647006/
+  - https://pubmed.ncbi.nlm.nih.gov/23754458/
+  - https://pubmed.ncbi.nlm.nih.gov/25158998/
+  - https://pubmed.ncbi.nlm.nih.gov/40803836/
+  - https://pubmed.ncbi.nlm.nih.gov/25575768/
+  - https://pubmed.ncbi.nlm.nih.gov/33482692/
+  - https://pubmed.ncbi.nlm.nih.gov/31763860/
+  - https://pubmed.ncbi.nlm.nih.gov/37963634/
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC11301951
+  - https://pubmed.ncbi.nlm.nih.gov/41956104/
+  - https://www.nice.org.uk/guidance/cg170/chapter/recommendations
 aliases: [mitos sobre el TDAH, mitos sobre el autismo, mitos de la psicología infantil]
 dueno: familia
 creado: 2026-11-27
@@ -26,7 +41,7 @@ revisado: 2026-11-27
 
 # Mitos de psicología infantil
 
-Ideas sobre los trastornos y la evaluación de los chicos que circulan mucho y que la evidencia no sostiene o sostiene a medias: la epidemia de autismo, el TDAH como moda, el cuestionario que diagnostica, el perfil del test de inteligencia, el diagnóstico para siempre o que se pasa solo, y el malvavisco como destino.
+Ideas sobre los trastornos y la evaluación de los chicos que circulan mucho y que la evidencia no sostiene o sostiene a medias: la epidemia de autismo, el TDAH como moda, el cuestionario que diagnostica, el perfil del test de inteligencia, el diagnóstico para siempre o que se pasa solo, el malvavisco como destino, y cuatro creencias clínicas sobre la concentración en el TDAH, la mirada en el autismo, la medicación y el ABA.
 
 Los mitos de la crianza de todos los días (el efecto Mozart, los videos para bebés, el azúcar que acelera, las vacunas que causan autismo, el CI de un chico chico como destino) están en [mitos de crianza](../../Crianza/Fundamentos/mitos-de-crianza.md) y no se repiten. Varios de los de acá tienen una parte cierta, y por eso conviene ver cuál. Casi todas las fuentes se leyeron por su resumen; lo de salud no reemplaza la consulta con un profesional.
 
@@ -40,6 +55,10 @@ Los mitos de la crianza de todos los días (el efecto Mozart, los videos para be
 | El perfil del test de inteligencia muestra sus fuertes y sus débiles | Los perfiles de subtests no son estables para uso clínico | Reseñas independientes | [Tests psicológicos](../Evaluacion/tests-psicologicos.md) |
 | Un diagnóstico en la infancia es para siempre, o se pasa solo | Algunos bajan con la edad y otros aparecen; tener uno sube el riesgo de otro | Una cohorte comunitaria | [Psicopatología del desarrollo](../Psicopatologia/psicopatologia-del-desarrollo.md) |
 | El que espera el malvavisco a los 4 años llega lejos | La asociación es mucho menor de lo que se dijo, y dos análisis discrepan en cuánto | Réplica y reanálisis | [Debates](debates-de-psicologia-infantil.md) |
+| Un chico con TDAH no se puede concentrar nunca | Puede haber hiperfoco, atención muy sostenida en lo que le interesa | Baja: un estudio, en adultos | [Creencias clínicas](#cuatro-creencias-clínicas-sobre-el-tdah-y-el-autismo) |
+| El autismo se ve en si mira a los ojos | La diferencia en la mirada es de grupo y se evalúa con otros signos | Media: consenso y metaanálisis | [Creencias clínicas](#cuatro-creencias-clínicas-sobre-el-tdah-y-el-autismo) |
+| La medicación para el TDAH vuelve adicto | No aumenta el riesgo de abuso de sustancias; el desvío a otros es otro tema | Alta: tres fuentes independientes, sin guía clínica leída | [Creencias clínicas](#cuatro-creencias-clínicas-sobre-el-tdah-y-el-autismo) |
+| El ABA daña, o es lo único que funciona | Ningún extremo tiene respaldo: la eficacia tiene evidencia de calidad baja y la seguridad casi no se mide | Baja en los dos sentidos | [Creencias clínicas](#cuatro-creencias-clínicas-sobre-el-tdah-y-el-autismo) |
 
 ## El aumento del autismo es en buena parte de diagnóstico
 
@@ -69,5 +88,17 @@ Una cohorte de 1.420 chicos seguidos de los 9 a los 16 años encontró que, aunq
 
 El test del malvavisco medía cuánto esperaba un chico de 4 años frente a una golosina, y se volvió famoso como predictor del éxito. Una réplica con más de 900 chicos halló asociaciones "much smaller and rarely statistically significant" una vez descontado el entorno (Watts y otros 2018, según un resumen); un reanálisis de los mismos datos con un plan registrado de antemano halló que esperar más se asociaba con menos problemas de conducta (β = −0,18), que explica mejor por el apoyo social que por el autocontrol (Michaelson y Munakata 2020). El detalle está en [debates](debates-de-psicologia-infantil.md).
 
+## Cuatro creencias clínicas sobre el TDAH y el autismo
+
+Las fuentes corrigen estas cuatro en grados distintos. Todas se leyeron por su resumen, salvo el consenso argentino y la guía británica NICE, leídos en las secciones que importan. Lo que sigue no reemplaza la consulta: la decisión sobre medicación o terapia es de la familia con el equipo tratante.
+
+**Concentración en el TDAH.** Adultos con TDAH cuentan a menudo episodios largos de atención muy enfocada, más cuantos más síntomas tienen (Hupfeld y otros 2019, 251 personas y una réplica con 372). El Child Mind Institute, en divulgación leída con un resumidor, dice que los chicos pueden concentrarse de más en lo que disfrutan y que la falta de atención se nota en lo aburrido. No se encontró un estudio con chicos. Está en [TDAH](../Psicopatologia/Neurodesarrollo/tdah.md).
+
+**La mirada en el autismo.** El consenso argentino del Ministerio de Salud (2019) lista el "uso social reducido o ausente del contacto visual" como un signo entre varios, no como criterio único. En bebés que después recibieron el diagnóstico, la fijación en los ojos era igual a los 2 meses y bajó entre los 2 y los 6 (Jones y Klin 2013): un declive, no una ausencia. Un metaanálisis de 122 estudios halló diferencias pequeñas a medianas entre grupos (Frazier y otros 2017). Que un chico que mira a los ojos pueda ser autista se deduce de esto; ninguna guía leída lo dice así. Está en [autismo](../Psicopatologia/Neurodesarrollo/autismo.md).
+
+**Medicación y adicción.** Un metaanálisis de 15 estudios longitudinales con 2.565 participantes concluyó que los estimulantes "ni protegen ni aumentan el riesgo" de un trastorno por consumo de sustancias (Humphreys y otros 2013). Dos estudios con registros suecos hallaron menos riesgo entre los medicados, un 31 % y un 15 % menos (Chang y otros 2014; Zhang y otros 2025), pero son observacionales. Las tres fuentes coinciden en que no hay aumento. Otra cosa es el desvío: una revisión estimó que el 17 % de los universitarios usó mal estos medicamentos, casi siempre de un compañero y para estudiar (Benson y otros 2015). Está en [medicación](../Intervencion/medicacion.md).
+
+**El ABA.** El ABA (análisis aplicado de la conducta) es la base de las intervenciones conductuales intensivas tempranas para el autismo. El consenso argentino dice que "podrían ser efectivas", con una confianza "baja", y que "no existe evidencia sobre su seguridad". Los ensayos aleatorizados reunidos por el Project AIM pierden el efecto al quitar las mediciones con riesgo de sesgo, mientras que las intervenciones del desarrollo y las naturalistas lo mantienen en comunicación social (Sandbank y otros 2020 y 2023); el mismo grupo dice que los efectos adversos "se monitorearon mal, pero posiblemente son comunes". Otros trabajos señalan reporte selectivo y conflictos de interés no declarados (Sandbank y otros 2024; Bottema-Beutel y otros 2026, autores críticos del campo), y la guía NICE CG170 no nombra al ABA. El daño no está demostrado ni descartado: no se mide bien. La crítica de personas autistas está en [debates](debates-de-psicologia-infantil.md) y las opciones en [enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md).
+
 > [!NOTE]
-> Sin fuente todavía: mitos clínicos frecuentes como "un chico con TDAH no se puede concentrar nunca", "el autismo se ve en si mira a los ojos", "la medicación vuelve adicto al chico" o "el ABA daña". No se investigaron.
+> Sin fuente todavía: un estudio de hiperfoco o atención variable en chicos con TDAH; un estudio controlado de lo que reportan los adultos autistas que describen daño por ABA, más allá de la encuesta que discute [debates](debates-de-psicologia-infantil.md); y una guía clínica sobre medicación del TDAH (AAP, NICE NG87 o la guía española) que complete lo de las adicciones.

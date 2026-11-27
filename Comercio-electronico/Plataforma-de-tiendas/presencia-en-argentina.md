@@ -5,6 +5,7 @@ estado: vigente
 estabilidad: volatil
 fuentes:
   - "StoreLeads, informes por plataforma y país (Argentina): https://storeleads.app/reports/ (leído; páginas actualizadas 2026-11-13; rastreador comercial, estimación)"
+  - "Comercio-electronico/.investigacion/vidrieras-tamano.md (sección 2): las cifras releídas el 2026-11-22"
   - "WMTips, Argentina: https://www.wmtips.com/technologies/e-commerce/country/ar/ (según resumen del buscador; 403 al abrirla)"
   - "AfterShip, Argentina: https://www.aftership.com/ecommerce/statistics/regions/ar (según resumen del buscador; 403 al abrirla)"
   - "BuiltWith, temas de Shopify en Argentina, julio de 2025 (según resumen del buscador)"
@@ -31,13 +32,13 @@ Copiado de las páginas de StoreLeads por plataforma, actualizadas el 2026-11-13
 |---|---|---|
 | [Tiendanube](https://storeleads.app/reports/tiendanube/AR/top-stores) | 59.214 (28,3% de sus tiendas globales) | [Tiendanube](tiendanube.md) |
 | [WooCommerce](https://storeleads.app/reports/woocommerce/AR/top-stores) | 24.711 | [WooCommerce](woocommerce.md) |
-| [Shopify](https://storeleads.app/reports/shopify/AR/top-stores) | 9.059 (total global mostrado: 3.298.869) | [Shopify](shopify.md) |
+| [Shopify](https://storeleads.app/reports/shopify/AR/top-stores) | 9.059 al 2026-11-13; 9.034 el 2026-11-22 (total global mostrado: 3.298.869) | [Shopify](shopify.md) |
 | [Empretienda](https://storeleads.app/reports/empretienda) | 5.802 (86,9% de sus 6.675) | [Empretienda](empretienda.md) |
 | [Wix](https://storeleads.app/reports/wix/AR/top-stores) | 2.803 | [Wix](wix.md) |
 | [PrestaShop](https://storeleads.app/reports/prestashop/AR/top-stores) | 658 (707 en el tercer trimestre) | sin ficha |
-| [VTEX](https://storeleads.app/reports/vtex/AR/top-stores) | 438 | [VTEX](vtex.md) |
+| [VTEX](https://storeleads.app/reports/vtex/AR/top-stores) | 438 en la tabla; 442 vivas el 2026-11-22 | [VTEX](vtex.md) |
 | [Ecwid](https://storeleads.app/reports/ecwid/AR/top-stores) | 363 | sin ficha |
-| [Magento](https://storeleads.app/reports/magento/AR/top-stores) | 332 (pico de 568 en el tercer trimestre de 2023) | [Adobe Commerce](adobe-commerce.md) |
+| [Magento](https://storeleads.app/reports/magento/AR/top-stores) | 332 en la tabla; 322 el 2026-11-22 (pico de 568 en el tercer trimestre de 2023) | [Adobe Commerce](adobe-commerce.md) |
 | [Jumpseller](https://storeleads.app/reports/jumpseller) | 64 (0,8% de sus 8.248 globales, cálculo del informe) | sin ficha |
 | [BigCommerce](https://storeleads.app/reports/bigcommerce/AR/top-stores) | 13 | sin ficha |
 | [Squarespace](https://storeleads.app/reports/squarespace/AR/top-stores) | 12 | sin ficha |

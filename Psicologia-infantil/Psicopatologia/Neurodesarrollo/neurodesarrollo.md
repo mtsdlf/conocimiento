@@ -12,6 +12,13 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/35238171
   - https://www.boletinoficial.gob.ar/detalleAviso/primera/153296/20161104
   - https://www.argentina.gob.ar/normativa/nacional/47677/texto
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282
+  - https://www.nice.org.uk/guidance/ng87/chapter/Recommendations
+  - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089900
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC5638113
+  - https://pubmed.ncbi.nlm.nih.gov/12918003
+  - https://psychiatry.org/patients-families/intellectual-disability/what-is-intellectual-disability
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC9923626
 aliases: [trastornos del neurodesarrollo, neurodivergencia, condiciones del neurodesarrollo]
 dueno: familia
 creado: 2026-11-27
@@ -31,7 +38,7 @@ Las cinco notas de esta carpeta comparten cuatro rasgos:
 - **Empiezan temprano.** Las diferencias están desde el desarrollo, aunque se noten tarde: el TDAH pide síntomas antes de los 12 años, y el autismo puede verse antes del año o recién en la escuela. Por eso los hitos y las [señales de alarma](../../../Crianza/Desarrollo/senales-de-alarma.md) de 0 a 6, que viven en Crianza, son la puerta de entrada.
 - **No tienen una causa única.** En el autismo y el TDAH pesan la genética y factores del embarazo y del nacimiento, según la APA, y la APA dice que no se mostró que las vacunas aumenten la probabilidad de autismo (más en [mitos de crianza](../../../Crianza/Fundamentos/mitos-de-crianza.md)).
 - **Vienen juntos.** Según el CDC, casi 8 de cada 10 chicos con TDAH tienen otra condición; según el Consenso argentino de autismo, cerca de 3 de cada 4 personas con autismo también. Un diagnóstico de esta carpeta pide preguntar por los demás.
-- **Duran.** Se los suele pensar como formas de desarrollo más que como episodios, y el objetivo del tratamiento como un mejor funcionamiento con apoyos. Es la lectura habitual del campo, no una conclusión de las fuentes de estas notas, que no tratan el curso a largo plazo.
+- **Duran.** Se los suele pensar como formas de desarrollo más que como episodios, y el objetivo del tratamiento como un mejor funcionamiento con apoyos. Para la discapacidad intelectual lo dice la APA ("lifelong condition", que la intervención temprana puede mejorar), y para el lenguaje, el consenso CATALISE: lo que sigue a los 5 años tiende a persistir. Para los demás es la lectura habitual del campo; las fuentes de estas notas no tratan su curso a largo plazo.
 
 ## Cada uno, su camino
 
@@ -40,10 +47,10 @@ Lo que los separa, y por eso cada uno tiene su nota, es que cada trastorno tiene
 | Trastorno | Quién diagnostica, según las fuentes | Norma argentina | Tratamiento con más respaldo |
 |---|---|---|---|
 | [Autismo](autismo.md) | Equipo de al menos dos profesionales, uno médico (Consenso 2019) | Consenso del Ministerio de Salud 2019, no obligatorio | Intervención temprana con los padres; evidencia débil para la conductual intensiva |
-| [TDAH](tdah.md) | No quedó registrado; no se halló guía argentina | Ninguna específica hallada | Medicación de 5 a 18 años; programa para padres en menores de 5 (NICE, por resumen) |
-| [Trastornos del aprendizaje](trastornos-del-aprendizaje.md) | Procedimientos a cargo del Consejo Federal de Salud | Ley 27.306 (2016) | No quedó registrado |
-| [Trastornos del lenguaje](trastornos-del-lenguaje.md) | No quedó registrado | Ninguna específica hallada | No quedó registrado |
-| [Discapacidad intelectual](discapacidad-intelectual.md) | No quedó registrado | Ley 24.901 de prestaciones | No quedó registrado |
+| [TDAH](tdah.md) | Las guías de afuera discrepan: el pediatra para la AAP (2019), un especialista para NICE (2018); no se halló guía argentina | Ninguna específica hallada | Programa para padres en menores de 5; medicación solo después de cambiar el entorno, de 5 a 18 (NICE), o junto con entrenamiento a padres o apoyos en el aula, de 6 a 11 (AAP) |
+| [Trastornos del aprendizaje](trastornos-del-aprendizaje.md) | Procedimientos a cargo del Consejo Federal de Salud; el profesional no quedó registrado | Ley 27.306 (2016), con cobertura en el PMO | Instrucción fónica para la dislexia (Galuschka 2014); no los ejercicios visuales ni los lentes de color |
+| [Trastornos del lenguaje](trastornos-del-lenguaje.md) | No quedó registrado | Ninguna específica hallada | Terapia del lenguaje, sobre todo para pronunciación y vocabulario (Cochrane 2003) |
+| [Discapacidad intelectual](discapacidad-intelectual.md) | No quedó registrado; la búsqueda de la causa, el pediatra y el genetista (AAP) | Ley 24.901 de prestaciones | Condición de por vida; la intervención temprana puede mejorar el funcionamiento (APA), y estudio genético cuando la causa no está clara (AAP) |
 
 Qué hace cada profesional está en [quién evalúa](../../Evaluacion/quien-evalua.md); qué miden las pruebas, en [tests psicológicos](../../Evaluacion/tests-psicologicos.md); el certificado de discapacidad y la cobertura, en [CUD y prestaciones](../../Evaluacion/cud-y-prestaciones.md), y los tratamientos y apoyos, en [qué funciona para qué](../../Intervencion/que-funciona-para-que.md) y [apoyos en la escuela](../../Intervencion/apoyos-en-la-escuela.md).
 
@@ -59,6 +66,6 @@ Un chico con altas capacidades puede tener a la vez TDAH, autismo o un trastorno
 
 - [Autismo](autismo.md) — qué es hoy un diagnóstico de TEA, qué quieren decir "espectro" y "nivel 1", quién lo diagnostica en Argentina y qué se sabe del aumento de casos.
 - [TDAH](tdah.md) — criterios, cifras, edad relativa en el grado, quién lo evalúa y qué ayuda según la edad.
-- [Trastornos del aprendizaje](trastornos-del-aprendizaje.md) — dislexia y las demás dificultades específicas, y la Ley 27.306.
-- [Trastornos del lenguaje](trastornos-del-lenguaje.md) — retraso o trastorno, cuántos chicos lo tienen al empezar la escuela, y el cruce con el bilingüismo.
-- [Discapacidad intelectual](discapacidad-intelectual.md) — qué es, los grados de la CIE-11, qué mide el CI y las normas de apoyo en Argentina.
+- [Trastornos del aprendizaje](trastornos-del-aprendizaje.md) — dislexia, discalculia y las demás dificultades específicas, qué intervenciones de lectura tienen evidencia y la Ley 27.306.
+- [Trastornos del lenguaje](trastornos-del-lenguaje.md) — retraso o trastorno, el nombre trastorno del desarrollo del lenguaje, cuántos chicos lo tienen al empezar la escuela y qué ayuda.
+- [Discapacidad intelectual](discapacidad-intelectual.md) — qué es, los grados de la CIE-11, cuántos chicos, sus causas y la búsqueda genética, y las normas de apoyo en Argentina.

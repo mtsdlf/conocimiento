@@ -4,7 +4,7 @@ resumen: >-
   sobre todo pasar de saber el idioma a usarlo rápido y con precisión: afinar el sonido, la
   gramática, el vocabulario y el discurso donde el castellano interfiere, con práctica que tenga
   evidencia.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Consejo de Europa, MCER Companion Volume (2020): https://rm.coe.int/16809ea0d4"
@@ -16,7 +16,7 @@ aliases:
   - Aprender inglés
   - Inglés avanzado
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inglés
@@ -34,8 +34,8 @@ como mapa.
 
 ## De qué está hecho pasar al avanzado
 
-Seis partes. Una explica cómo aprende un adulto; cuatro son los sistemas del idioma que hay que
-afinar, ordenados del sonido al texto, y la última es cómo se entrena. El
+Seis partes, más una vertical aplicada. Una explica cómo aprende un adulto; cuatro son los sistemas del idioma que hay que
+afinar, ordenados del sonido al texto, la sexta es cómo se entrena, y la vertical aplicada lleva todo al trabajo en software. El
 [MCER](Fundamentos/niveles-mcer.md) separa las mismas piezas: control fonológico, competencia
 gramatical, competencia léxica y competencia discursiva y pragmática.
 
@@ -53,6 +53,8 @@ flowchart LR
   PA -->|entrena| GR
   PA -->|entrena| LE
   PA -->|entrena| DI
+  DI -->|se aplica en| PF[Profesional]
+  LE -->|da la jerga a| PF
 ```
 
 - [Adquisición](Adquisicion/adquisicion.md): cómo aprende un idioma un adulto: input, output,
@@ -70,6 +72,9 @@ flowchart LR
 - [Práctica](Practica/practica.md): cómo se entrena, con las cuatro ramas de Nation como esqueleto
   de una rutina, cada técnica con su evidencia y fichas fechadas de exámenes, herramientas y
   tutores.
+- [Inglés profesional en software](Profesional/profesional.md): el inglés de trabajo de los
+  equipos de software: entrevista técnica, reuniones, trabajo asincrónico, escritura técnica, code
+  review, incidentes y clientes. Aplica las cuatro partes del idioma a los géneros del oficio.
 - [Fundamentos](Fundamentos/fundamentos-de-ingles.md): los niveles del MCER, el alfabeto fonético,
   la bibliografía y una ruta paso a paso.
 
@@ -119,10 +124,20 @@ ningún estudio se hizo con adultos B2 que estudian solos: eso queda dicho donde
 - Si tenés una entrevista de trabajo en inglés en pocas semanas: [Fluidez](Practica/fluidez.md)
   (repetir la misma respuesta hasta que salga fluida), [Estructura del argumento](Discurso/estructura-del-argumento.md),
   [Interacción](Discurso/interaccion.md) (ganar tiempo y reparar) y [Grabarse y medirse](Practica/grabarse-y-medirse.md).
-- Si tenés reuniones en inglés y te cuesta meterte o sonás brusco: [Interacción](Discurso/interaccion.md)
-  y [Registro y cortesía](Discurso/registro-y-cortesia.md).
+  Si es de software, sumá [Entrevista técnica](Profesional/entrevista-tecnica.md).
+- Si tenés reuniones en inglés y te cuesta meterte o sonás brusco: [Interacción](Discurso/interaccion.md),
+  [Registro y cortesía](Discurso/registro-y-cortesia.md) y, en un equipo de software,
+  [Reuniones de equipo](Profesional/reuniones-de-equipo.md).
 - Si tenés que escribir mails o documentos de trabajo: [Escritura](Discurso/escritura.md),
   [Conectores y cohesión](Discurso/conectores-y-cohesion.md) y [Colocaciones y chunks](Lexico/colocaciones-y-chunks.md).
+- Si escribís pull requests, commits, bug reports o design docs: [Escritura técnica](Profesional/escritura-tecnica.md);
+  para comentar el código de otros, [Code review](Profesional/code-review.md).
+- Si trabajás remoto con un equipo de afuera, por mensajes y en otra zona horaria:
+  [Trabajo remoto y asincrónico](Profesional/trabajo-remoto-asincronico.md).
+- Si estás de guardia o tenés que comunicar una caída: [Incidentes](Profesional/incidentes.md).
+- Si le tenés que explicar algo técnico a un cliente, o por qué un modelo se equivoca:
+  [Hablar con clientes](Profesional/hablar-con-clientes.md).
+- Si no sabés cómo se pronuncia un término técnico: [Vocabulario técnico](Profesional/vocabulario-tecnico.md).
 - Si te entienden con esfuerzo o no sabés qué sonidos corregir primero: el orden está en
   [Percibir antes de producir](Pronunciacion/pronunciacion.md#percibir-antes-de-producir); después,
   las [vocales](Pronunciacion/vocales.md) y el [entrenamiento perceptivo](Practica/entrenamiento-perceptivo.md).

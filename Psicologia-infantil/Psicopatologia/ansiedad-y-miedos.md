@@ -14,6 +14,14 @@ fuentes:
   - https://doi.org/10.1001/archpsyc.60.8.837
   - https://zendy.io/title/10.1111/jcpp.12381
   - https://effectivechildtherapy.org/concerns-symptoms-disorders/disorders/
+  - https://pubmed.ncbi.nlm.nih.gov/25649325/
+  - https://www.cismef.org/page/detail/en/ICD11_CA_830200631
+  - https://www.cismef.org/page/detail/en/ICD11_CA_239513569
+  - https://www.nice.org.uk/guidance/cg159/chapter/Recommendations
+  - https://pubmed.ncbi.nlm.nih.gov/24342383/
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC4147961
+  - https://pmc.ncbi.nlm.nih.gov/articles/PMC6533738
+  - https://pubmed.ncbi.nlm.nih.gov/30550722/
 aliases: [trastornos de ansiedad en la infancia, ansiedad infantil, ansiedad de separación, fobias, mutismo selectivo, TOC infantil]
 dueno: familia
 creado: 2026-11-27
@@ -34,22 +42,27 @@ Llorar al separarse en el jardín es el ejemplo más común de lo normal: es la 
 
 ## Cuándo un miedo deja de ser normal
 
-La regla de divulgación que circula es que un miedo pide atención si es excesivo, irrazonable, persistente o si aparece a una edad en que ya no es esperable (Harvard Health, según resumen secundario). Es un criterio orientador, no la regla de los manuales: los umbrales de duración y deterioro del DSM-5-TR para cada trastorno de ansiedad no se leyeron.
+La regla de divulgación que circula es que un miedo pide atención si es excesivo, irrazonable, persistente o si aparece a una edad en que ya no es esperable (Harvard Health, según resumen secundario). Es un criterio orientador, no la regla de los manuales.
 
 Como lectura propia, lo que separa en la práctica es el deterioro funcional: un chico que no puede ir a la escuela, dormir fuera de casa, hablar en clase o jugar con otros por miedo, durante un tiempo largo, y que no mejora con el apoyo habitual. El seguimiento de Costello y colegas (2003, según su resumen) muestra que la ansiedad de separación disminuye con la edad, mientras que la fobia social y el pánico aumentan en el período que siguieron, de los 9 a los 16 años.
 
 ## Los trastornos de ansiedad en chicos
 
-Según el listado secundario del metaanálisis de Polanczyk (2015), cerca del 6,5 % de chicos y adolescentes tiene algún trastorno de ansiedad en un momento dado; es la cifra más alta de los cuatro grupos de ese listado. Estos son los que el campo suele distinguir:
+Según el resumen del metaanálisis de Polanczyk y otros (2015), cerca del 6,5 % de chicos y adolescentes tiene algún trastorno de ansiedad en un momento dado (intervalo de confianza del 95 %: 4,7 a 9,1 %); es la cifra más alta de los cuatro grupos que da. Estos son los que el campo suele distinguir:
 
-- **Ansiedad de separación**: miedo intenso y persistente a separarse de los padres o a que les pase algo.
-- **Fobia específica**: miedo intenso a algo concreto (un animal, la oscuridad, las agujas) que lleva a evitarlo.
+- **Ansiedad de separación** y **fobia específica**, que se describen abajo.
 - **Ansiedad social**: miedo a ser mirado, juzgado o a hacer el ridículo delante de otros.
 - **Ansiedad generalizada**: preocupación constante por muchas cosas a la vez.
 - **Mutismo selectivo**: el chico habla en casa pero no logra hablar en otros lugares, como la escuela.
 
-> [!NOTE]
-> Sin fuente todavía: los criterios, el curso y los tratamientos específicos de la ansiedad de separación y de las fobias no se leyeron en una fuente propia. Las descripciones de arriba son las definiciones habituales y no detallan los criterios.
+## Ansiedad de separación y fobia específica según la CIE-11
+
+La CIE-11, la clasificación de la OMS, describe las dos así (leídas en un espejo del texto de la OMS, no en su sitio):
+
+- **Ansiedad de separación**: miedo o ansiedad marcados y excesivos por separarse de las personas a las que el chico está apegado (en chicos, los padres u otros familiares), más allá de lo esperable para su edad. Se ve en pensamientos de que les pase algo malo, rechazo a ir a la escuela, angustia excesiva al separarse, resistencia a dormir lejos de ellos y pesadillas sobre separaciones. Dura al menos varios meses y causa malestar o deterioro importante.
+- **Fobia específica**: miedo marcado y excesivo, desproporcionado al peligro real, ante un objeto o situación concretos (un animal, las alturas, los espacios cerrados, la sangre o las heridas), que se evita o se aguanta con mucha angustia. También dura al menos varios meses y causa malestar o deterioro.
+
+Los criterios del DSM-5-TR siguen sin leerse. Que la ansiedad de separación baja con la edad lo muestran Costello (arriba) y Copeland. Según el resumen de Copeland y otros (2014), la curva de los trastornos de ansiedad a lo largo de la vida tiene forma de U porque es alta la ansiedad de separación en la niñez y altos el pánico y la ansiedad generalizada en la adultez. Entre los chicos que consultan por ansiedad en un servicio clínico, la de separación es más probable de 6 a 12 que en la adolescencia (según su resumen). Las fobias específicas empiezan temprano: en encuestas de la OMS a adultos de 25 países, el 5,9 % recordaba una fobia que había empezado antes de los 13 (según su resumen). Como es un dato de memoria de adultos, se toma con cautela.
 
 ## Mutismo selectivo
 
@@ -65,15 +78,17 @@ El ensayo POTS (March y otros 2004) comparó tratamientos en 112 chicos de 7 a 1
 
 La terapia cognitivo-conductual (TCC) trabaja sobre los pensamientos y las conductas que mantienen el problema; en la ansiedad, eso incluye enfrentar de a poco lo que se evita (es la descripción general del enfoque, no una cita de la revisión). El mecanismo de la evitación y del refuerzo está en [condicionamiento y refuerzo](../../Psicologia/Aprendizaje-y-memoria/condicionamiento-y-refuerzo.md).
 
-La revisión Cochrane de James y colegas (2020), con 87 ensayos y 5.964 chicos y jóvenes, es la mejor síntesis (leída por su resumen):
+La revisión Cochrane de James y colegas (2020), con 87 ensayos y 5.964 chicos y jóvenes, es la mejor síntesis (leída en el resumen y el abstract de Cochrane, no en el texto completo):
 
 | Comparación | Resultado | Certeza |
 |---|---|---|
 | TCC frente a lista de espera o nada | 49,4 % sin el diagnóstico principal al terminar, frente a 17,8 % | moderada |
-| TCC frente a la atención habitual | sin diferencia clara | baja |
+| TCC frente a la atención habitual | sin diferencia clara en el diagnóstico principal; posible beneficio para que se vayan todos los diagnósticos de ansiedad | baja |
 | TCC frente a otros tratamientos | poca o ninguna diferencia | baja |
 
 La conclusión de la revisión es que la TCC "is probably more effective in the short-term than waiting lists/no treatment". No se informaron efectos adversos, pero casi ningún estudio los buscó de forma sistemática. Lo que esto quiere decir para una familia: a corto plazo, la TCC probablemente funciona mejor que esperar, y su ventaja frente a otras terapias no está demostrada.
+
+Para la ansiedad social, la guía NICE CG159 (2013) describe la TCC para chicos: individual (8 a 12 sesiones de 45 minutos) o en grupo (8 a 12 sesiones de 90 minutos), con explicación del problema, exposición a las situaciones sociales que el chico teme o evita, entrenamiento en habilidades sociales y práctica, y con los padres incluidos, sobre todo si el chico es chico. La guía pide no ofrecer medicación de rutina para la ansiedad social en chicos y jóvenes. Para la ansiedad de separación y la fobia específica no se encontró una guía NICE ni una revisión Cochrane propia; una revisión de 2019 (Davis y otros) describe como bien establecido un tratamiento de exposición en una sola sesión de unas 3 horas para las fobias, según un resumen secundario.
 
 Qué ofrecer según el problema está en [qué funciona para qué](../Intervencion/que-funciona-para-que.md); los enfoques de terapia y su evidencia, en [enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md), y lo que hay que saber de los medicamentos, sin dosis, en [medicación](../Intervencion/medicacion.md).
 
