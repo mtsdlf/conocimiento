@@ -101,6 +101,15 @@ En lectura de esta base, el campo no tiene una norma de terminología propia, y 
 | Personalizar | Customize, tailor | Adaptar el producto a la empresa; según la fuente, incluye configurar o se reserva para el código | [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md) |
 | Reporte operativo, reporte legal | Operational report, statutory report | Lo que el sistema entrega de su propia base: el listado del día y el libro que pide la norma | [reportes operativos y legales](../Columnas-tecnicas/reportes-operativos-y-legales.md) |
 | Punto de extensión | User exit | Un lugar que el producto prevé para enganchar código propio sin modificar el suyo | [configurar o personalizar](../Columnas-tecnicas/configurar-o-personalizar.md) |
+| Motor de impuestos | Tax engine | La pieza que decide el impuesto de cada renglón con la categoría fiscal del artículo, la condición de la parte, el lugar y la fecha | [motor de impuestos](../Columnas-tecnicas/motor-de-impuestos.md) |
+| Categoría fiscal | Tax category, tax code | El código que dice cómo trata el impuesto a un renglón (general, tasa cero, exento, inversión, fuera del impuesto); sale de cruzar artículo, parte y lugar | [motor de impuestos](../Columnas-tecnicas/motor-de-impuestos.md) |
+| Desglose por alícuota | VAT breakdown | El resumen del comprobante con la base y el impuesto de cada combinación de categoría y alícuota | [motor de impuestos](../Columnas-tecnicas/motor-de-impuestos.md) |
+| Redondeo por renglón, redondeo por total | Line-level rounding, invoice-level rounding | Redondear el impuesto de cada renglón y sumar, o sumar las bases y redondear una vez; cada norma pide o deja elegir | [motor de impuestos](../Columnas-tecnicas/motor-de-impuestos.md) |
+| Partida (partida abierta) | Open item | Lo que deja un comprobante por cada vencimiento, con su saldo pendiente; está abierta hasta que su saldo llega a cero | [cuenta corriente y aplicación](../Columnas-tecnicas/cuenta-corriente-y-aplicacion.md) |
+| Saldo corriente | Balance forward | El método que no asocia el cobro a facturas: baja el saldo y cancela primero lo más viejo | [cuenta corriente y aplicación](../Columnas-tecnicas/cuenta-corriente-y-aplicacion.md) |
+| Aplicación (imputación) | Application, allocation | El registro que une una partida deudora con una acreedora por un importe y en una fecha; se anula para desaplicar | [cuenta corriente y aplicación](../Columnas-tecnicas/cuenta-corriente-y-aplicacion.md), [aplicación de cobros](../../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md) |
+| Remesa estructurada | Structured remittance information | El detalle de qué cancela un pago, en campos que el sistema puede leer: documento, importe, descuento, nota de crédito | [cuenta corriente y aplicación](../Columnas-tecnicas/cuenta-corriente-y-aplicacion.md) |
+| Referencia del acreedor | Creditor reference (RF, ISO 11649) | La referencia que quien factura genera y quien paga devuelve en la transferencia, con dígito verificador | [cuenta corriente y aplicación](../Columnas-tecnicas/cuenta-corriente-y-aplicacion.md) |
 
 ## Implementación
 
