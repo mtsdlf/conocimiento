@@ -6,7 +6,11 @@ estabilidad: estable
 fuentes:
   - "What Works Clearinghouse, Procedures and Standards Handbook v5.0: https://ies.ed.gov/ncee/wwc/Docs/referenceresources/Final_WWC-HandbookVer5.0-0-508.pdf"
   - "EEF, Teaching and Learning Toolkit (no leído): https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit"
+  - "EEF (2019), Classification of the security of findings from EEF evaluations, versión 2.0 (texto completo de las secciones A a C y del apéndice 1): https://d2tic4wvo1iusb.cloudfront.net/production/documents/evaluation/peer-review-process/Classifying_the_security_of_EEF_findings_2019.pdf"
+  - "EEF (2023), Teaching and Learning / Early Years Toolkit guide (texto completo, sección Evidence strength): https://d2tic4wvo1iusb.cloudfront.net/production/documents/toolkit/toolkit_guide_2025_v3.0.0.pdf"
+  - "EEF, Evaluation design (página de guías para evaluadores): https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/evaluation-guidance-and-resources/evaluation-design"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-evaluar-un-programa-2026-11.md"
 aliases: [diseño experimental, grupo de control, ensayo aleatorizado, cuasiexperimento, What Works Clearinghouse, WWC, evaluación de impacto]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -33,6 +37,27 @@ Para los cuasiexperimentos y los aleatorizados comprometidos, el manual exige eq
 
 La lógica de fondo: si los grupos empezaron distintos, la diferencia del final puede venir de ahí y no del programa.
 
+## Los candados de la EEF
+
+La Education Endowment Foundation (EEF), de Inglaterra, califica la solidez de la evidencia con candados (*padlocks*), de 0 a 5. Usa dos escalas distintas: una para cada evaluación que financia y otra para cada tema de su Toolkit.
+
+**En una evaluación.** El documento de 2019 (versión 2.0) califica solo el resultado principal y mira sobre todo la validez interna. Cinco candados es «the most robust evidence that could be expected from a single study»; cero, un estudio que «adds little to the evidence base». La nota no dice si el programa funcionó: el efecto se informa al lado. Dos revisores califican con tres criterios, cada uno de 0 a 5, y la nota provisoria es la más baja de las tres:
+
+| Candados | Diseño | Efecto mínimo detectable (MDES) | Desgaste |
+|---|---|---|---|
+| 5 | Aleatorizado | hasta 0,2 | 0-10 % |
+| 4 | Considera algo de lo no observable (discontinuidad de regresión, diferencias en diferencias) | 0,21-0,29 | 11-20 % |
+| 3 | Considera todos los factores observables relevantes (*matching*, regresión) | 0,30-0,39 | 21-30 % |
+| 2 | Considera solo algunos factores relevantes | 0,40-0,49 | 31-40 % |
+| 1 | No considera ningún factor relevante | 0,50-0,59 | 41-50 % |
+| 0 | Sin grupo de comparación | 0,6 o más | más de 50 % |
+
+El efecto mínimo detectable depende sobre todo del tamaño de la muestra («MDES is highly dependent upon the sample size»). Después, las amenazas a la validez interna (por ejemplo, otras intervenciones al mismo tiempo o datos faltantes) pueden bajar hasta dos candados. A diferencia del WWC, la EEF mide el desgaste total y no la diferencia entre grupos.
+
+**En el Toolkit.** Cada tema arranca con candados según cuántos estudios cumplen los criterios de inclusión: de 11 a 39 es «Very limited evidence», y 120 o más es «Very Extensive evidence». Con menos de 11 estudios el tema recibe cero candados y no informa meses de progreso. Después pierde candados si pocos estudios son recientes, si muchos no son ensayos aleatorizados, si se hicieron en condiciones distintas de la escuela común, si no los evaluó alguien independiente o si los resultados varían sin explicación. Todos los estudios del Toolkit tienen grupo de comparación.
+
+La EEF también publica guías para quien evalúa: análisis estadístico (2022), evaluación de implementación (2022), costos (2023) y pilotos (2023), entre otras. Solo se leyó su lista.
+
 ## Con un curso chico
 
 Con pocas personas, un ensayo aleatorizado formal no es viable. Las opciones realistas, como inferencia del informe de esta base (ninguna fuente las valida):
@@ -44,4 +69,4 @@ Con pocas personas, un ensayo aleatorizado formal no es viable. Las opciones rea
 
 Ninguna de estas comparaciones llega al estándar del WWC; sirven para no confundir el efecto del curso con lo que la gente ya traía.
 
-> [!NOTE] Sin fuente todavía: cómo califica la EEF la solidez de la evidencia (sus «candados») y su guía de evaluación; las páginas devolvieron error.
+> [!NOTE] Sin fuente todavía: el contenido de las guías de evaluación de la EEF (solo se leyó su lista).

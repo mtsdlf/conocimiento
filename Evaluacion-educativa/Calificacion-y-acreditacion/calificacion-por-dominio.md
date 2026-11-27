@@ -7,7 +7,11 @@ fuentes:
   - "Kulik, Kulik y Bangert-Drowns (1990), Effectiveness of mastery learning programs: a meta-analysis, Review of Educational Research (abstract): https://doi.org/10.3102/00346543060002265"
   - "Wikipedia, Mastery learning: https://en.wikipedia.org/wiki/Mastery_learning"
   - "Brookhart et al. (2016), A century of grading research, Review of Educational Research (abstract): https://doi.org/10.3102/0034654316672069"
+  - "Kramer, Posner, Browman, Lawrence, Roem y Krier (2025), The Impacts of a Standards-Based Grading System Emphasizing Formative Assessment, Feedback, and Re-Assessment: A Mixed Methods, Cluster Randomized Control Trial in Ninth Grade Mathematics Classrooms, Journal of Research on Educational Effectiveness 18(1):56-87 (abstract y ficha del What Works Clearinghouse): https://eric.ed.gov/?id=EJ1492695"
+  - "What Works Clearinghouse, ficha del estudio de Kramer et al. (2025): https://ies.ed.gov/ncee/WWC/Study/94417"
+  - "Cook, Brydges, Zendejas, Hamstra y Hatala (2013), Mastery learning for health professionals using technology-enhanced simulation: a systematic review and meta-analysis, Academic Medicine 88(8):1178-1186 (abstract): https://pubmed.ncbi.nlm.nih.gov/23807104/"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-calificacion-2026-11.md"
 aliases: [mastery learning, aprendizaje para el dominio, aprendizaje de dominio, mastery grading, calificación por estándares, standards-based grading, calificación por competencias]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -41,7 +45,11 @@ El último punto importa para cursos a ritmo propio: en los programas de ese tip
 
 ## Calificar por estándares
 
-La calificación por estándares informa, en lugar de una nota única, el nivel alcanzado en cada objetivo del curso. Se parece a la calificación por dominio, pero las fuentes leídas no las relacionan (inferencia de esta base). Brookhart et al. (2016) la incluyen como uno de los cinco tipos de estudio de su revisión, pero esta base no encontró evidencia de que mejore el aprendizaje. Su argumento a favor es de [validez](../Validez-confiabilidad-y-equidad/validez.md): una nota única mezcla aprendizaje con esfuerzo y conducta, según la misma revisión, y separar por objetivo dice qué se sabe.
+La calificación por estándares informa, en lugar de una nota única, el nivel alcanzado en cada objetivo del curso. Se parece a la calificación por dominio, pero las fuentes leídas no las relacionan (inferencia de esta base). Brookhart et al. (2016) la incluyen como uno de los cinco tipos de estudio de su revisión.
+
+La evidencia encontrada de que mejore el aprendizaje es un solo ensayo. Kramer et al. (2025) asignaron al azar 29 escuelas a un sistema de calificación por estándares (PARLO) o a la calificación habitual, con 2.736 alumnos de noveno grado en matemática. Según su resumen, la nota final cuenta los objetivos en los que el alumno es competente, hay retroalimentación formativa y se puede volver a rendir por el puntaje completo. Los exámenes de fin de curso de álgebra y geometría mejoraron 0,33 desviaciones estándar. El valor de la matemática para los alumnos y sus expectativas de éxito no cambiaron. Dos límites: los exámenes los hicieron los investigadores, y el What Works Clearinghouse le da «Meets WWC standards with reservations» por el desgaste alto de escuelas. El sistema mezcla calificar por estándares con volver a evaluar, que es la lógica del dominio, así que el ensayo no separa cuál de las dos cosas produjo el efecto (inferencia de esta base).
+
+Su argumento a favor es de [validez](../Validez-confiabilidad-y-equidad/validez.md): una nota única mezcla aprendizaje con esfuerzo y conducta, según la misma revisión, y separar por objetivo dice qué se sabe.
 
 ## Cómo se aplica y cómo falla
 
@@ -51,4 +59,14 @@ La lógica del dominio coincide con la del [seguimiento del conocimiento](../Eva
 - No hay tiempo para la segunda vuelta. Sin la corrección entre intentos, es solo recuperatorio.
 - Se pierde a los lentos. El costo en terminación que encontró Kulik.
 
-> [!NOTE] Sin fuente todavía: evidencia de la calificación por estándares sobre el aprendizaje, y cualquier estudio de dominio con adultos o en capacitación técnica.
+## Con adultos
+
+La evidencia con adultos viene de la formación de profesionales de la salud. Cook et al. (2013) metaanalizaron 82 estudios de aprendizaje para el dominio con simulación, en médicos, enfermeros y otros profesionales en formación o en ejercicio. Según su resumen:
+
+- Frente a no recibir formación, el dominio mostró efectos grandes en habilidades (41 estudios; tamaño de efecto 1,29) y moderados en resultados de pacientes (11 estudios; 0,73).
+- Frente a simulación sin dominio, el beneficio en habilidades fue grande (tamaño de efecto 1,17), pero salió de 3 estudios y llevó más tiempo.
+- La conclusión de los autores: «Limited evidence suggests that mastery learning SBME is superior to nonmastery instruction but takes more time».
+
+Coincide con Kulik en el signo y en el costo en tiempo. La comparación que importa, dominio frente a la misma enseñanza sin umbral, se apoya en 3 estudios.
+
+> [!NOTE] Sin fuente todavía: un segundo estudio de calificación por estándares, con pruebas externas, y estudios de dominio en capacitación técnica fuera de salud.

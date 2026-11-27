@@ -11,6 +11,8 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
   - "Didactica/.investigacion/fundamentos-del-area.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-evaluar-un-programa-2026-11.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-adaptativa-2026-11.md"
 aliases: [historia de la evaluación educativa, mitos de la evaluación]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -31,7 +33,7 @@ No es una parte del sujeto: es lo que hace falta para leer las verticales de [ev
 | 1967 | Scriven | «Formativa» y «sumativa», para evaluar currículos | [Propósitos](../Propositos/propositos.md) |
 | 1968 | Bloom | El aprendizaje para el dominio; según una nota, la extensión de formativa y sumativa a los alumnos | [Calificación por dominio](../Calificacion-y-acreditacion/calificacion-por-dominio.md) |
 | 1985 | Doignon y Falmagne | Los espacios de conocimiento | [Espacios de conocimiento](../Evaluacion-adaptativa/espacios-de-conocimiento.md) |
-| 1994 | Corbett y Anderson | El seguimiento del conocimiento | [Seguimiento del conocimiento](../Evaluacion-adaptativa/seguimiento-del-conocimiento.md) |
+| 1995 | Corbett y Anderson | El seguimiento del conocimiento | [Seguimiento del conocimiento](../Evaluacion-adaptativa/seguimiento-del-conocimiento.md) |
 | 1995 | Messick | La validez como juicio unificado, con consecuencias | [Validez](../Validez-confiabilidad-y-equidad/validez.md) |
 | 1998 | Black y Wiliam | La evaluación formativa como intervención con efecto | [Evaluación formativa](../Propositos/evaluacion-formativa.md) |
 | 2013 | Kane | La validez como argumento | [Validez](../Validez-confiabilidad-y-equidad/validez.md) |
@@ -51,7 +53,7 @@ Los Standards dicen que esperar que un docente siga sus estándares formales ser
 |---|---|---|---|
 | La evaluación formativa tiene un efecto de 0,4 a 0,7 | Revisiones más estrictas dan alrededor de 0,20 | Se achicó y está en disputa | [Evaluación formativa](../Propositos/evaluacion-formativa.md) |
 | Si el curso gustó, sirvió | La reacción afectiva predice poco el aprendizaje y la conducta | Cayó | [Niveles de Kirkpatrick](../Evaluar-un-programa/niveles-de-kirkpatrick.md) |
-| Solo el 10 % de una capacitación se transfiere | No se encontró fuente primaria | Sin respaldo | [Transferencia de la capacitación](../Evaluar-un-programa/transferencia-de-la-capacitacion.md) |
+| Solo el 10 % de una capacitación se transfiere | Es una estimación que Baldwin y Ford (1988) atribuyen a Georgenson (1982); no se encontró ninguna medición | Sin respaldo | [Transferencia de la capacitación](../Evaluar-un-programa/transferencia-de-la-capacitacion.md) |
 | Una nota con comentarios es lo mejor de los dos mundos | La nota anula la ventaja de los comentarios (Butler, 1988) | Cayó, en escolares | [Notas y comentarios](../Calificacion-y-acreditacion/notas-y-comentarios.md) |
 | Una prueba es válida o no lo es | Se valida un uso, no una prueba | Corregido por los Standards | [Validez](../Validez-confiabilidad-y-equidad/validez.md) |
 | Preguntarle a alguien cuánto sabe alcanza para ubicarlo | La autoevaluación correlaciona poco con el desempeño | Cayó | [Evaluación diagnóstica](../Propositos/evaluacion-diagnostica.md) |

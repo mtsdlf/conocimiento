@@ -7,8 +7,10 @@ fuentes:
   - "Butler (1987), Task-involving and ego-involving properties of evaluation, Journal of Educational Psychology 79(4), 474-482 (texto completo)"
   - "Butler (1988), Enhancing and undermining intrinsic motivation, British Journal of Educational Psychology 58, 1-14 (abstract): https://doi.org/10.1111/j.2044-8279.1988.tb00874.x"
   - "Koenka, Linnenbrink-Garcia, Moshontz, Atkinson, Sanchez y Cooper (2019/2021), A meta-analysis on the impact of grades and comments, Educational Psychology 41(7), 922-947 (abstract): https://doi.org/10.1080/01443410.2019.1659939"
+  - "Pulfrey, Buchs y Butera (2011), Why Grades Engender Performance-Avoidance Goals: The Mediating Role of Autonomous Motivation, Journal of Educational Psychology 103(3):683-700 (abstract): https://archive-ouverte.unige.ch/unige:17365"
   - "Wisniewski, Zierer y Hattie (2020), The power of feedback revisited, Frontiers in Psychology (resumen de herramienta): https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-calificacion-2026-11.md"
 aliases: [notas y motivación, grades vs comments, comentarios sin nota, comment-only marking, efecto de las notas, Butler]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -37,7 +39,11 @@ Koenka et al. juntaron cuatro metaanálisis (publicado en línea en 2019; el nú
 | Notas frente a ninguna retroalimentación | Mejor con notas | Peor con notas |
 | Notas frente a comentarios | Peor con notas | Menos óptima con notas |
 
-Los efectos variaron según el tipo de motivación, el contexto, la edad y el momento (anticipar una nota no es lo mismo que recibirla). Los tamaños de efecto no se leyeron. Son estudios con escolares de primaria y secundaria: trasladarlos a adultos es una extrapolación.
+Los efectos variaron según el tipo de motivación, el contexto, la edad y el momento (anticipar una nota no es lo mismo que recibirla). Los tamaños de efecto no se leyeron: el artículo es de acceso cerrado. Son estudios con escolares de primaria y secundaria: trasladarlos a adultos es una extrapolación.
+
+## En escuelas profesionales
+
+Pulfrey, Buchs y Butera (2011) hicieron tres experimentos en escuelas profesionales; el resumen no dice la edad de los participantes, así que no se sabe si eran adultos. Según el resumen, esperar una nota por una tarea, frente a no esperarla, aumentó las metas de evitar el mal desempeño: evitar quedar peor que los demás. No cambió las metas de superar a los demás. En los experimentos 2 y 3 el efecto se mantuvo aunque la nota viniera con un comentario formativo, como en Butler (1988). En el experimento 3, la baja en la motivación autónoma después de hacer la tarea por una nota explicó ese efecto. El estudio mide metas y motivación, no logro.
 
 ## Cuánto pesa la información de la retroalimentación
 
@@ -51,4 +57,4 @@ Inferencias de esta base a partir de lo anterior:
 2. Si hace falta una nota, dala en un momento separado de los comentarios.
 3. En los comentarios, decí qué falta y cómo cerrarlo, no solo si está bien.
 
-> [!NOTE] Sin fuente todavía: los tamaños de efecto de Koenka et al., y cualquier estudio de notas y comentarios con adultos.
+> [!NOTE] Sin fuente todavía: los tamaños de efecto de Koenka et al., y un estudio de notas y comentarios con adultos que mida el logro.

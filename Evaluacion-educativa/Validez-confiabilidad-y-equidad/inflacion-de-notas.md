@@ -8,9 +8,10 @@ fuentes:
   - "Koretz (2008), Measuring Up, Harvard University Press, según una nota de prensa: https://www.edweek.org/policy-politics/nclb-testing-said-to-give-illusions-of-progress/2008/09"
   - "Denning, Eide, Mumford, Patterson y Warnick (2021), Why have college completion rates increased?, NBER w28710 (abstract): https://doi.org/10.3386/w28710"
   - "Wikipedia, Grade inflation (Rojstaczer 2003; Princeton): https://en.wikipedia.org/wiki/Grade_inflation"
-  - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, cap. 1 y estándar 13.7: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
+  - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, pasajes citados del cap. 1 y estándares 12.7, 13.7 y 13.8 (texto): https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-validez-2026-11.md"
 aliases: [grade inflation, score inflation, inflación de puntajes, enseñar para la prueba, teaching to the test, ley de Campbell, Campbell's law]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -32,7 +33,9 @@ Las dos citas vienen de Wikipedia, y un editor advirtió que la primera no está
 
 Una prueba muestrea una parte del dominio: es la subrepresentación del constructo que describen los Standards. Si hay consecuencias, se enseña la parte muestreada y el puntaje sube. El ejemplo de Koretz (2008), según una nota de prensa sobre su libro: en el sistema KIRIS de Kentucky, la lectura de 4.º grado subió en la prueba del estado entre 1992 y 1994 mientras bajaba levemente en NAEP, la prueba nacional. Koretz sostiene que las pruebas alineadas con el currículo tampoco están a salvo. El libro no se leyó.
 
-La señal de inflación es esa: el puntaje en la prueba que se usa para decidir sube y otra medida de lo mismo no. En un curso, la otra medida puede ser una tarea nueva que la prueba no anticipaba.
+Los Standards tratan el mismo mecanismo. El comentario del estándar 12.7 dice que enseñar en exceso ítems equivalentes a los de la prueba afecta la validez. El del 13.8 nombra «teaching test items in advance» entre las consecuencias que llevan a «spuriously high scores».
+
+La señal de inflación es esa: el puntaje en la prueba que se usa para decidir sube y otra medida de lo mismo no. El comentario del 13.8 propone esa comparación: «administering an audit measure (i.e., another measure of the tested construct) may detect possible corruption of scores». En un curso, la otra medida puede ser una tarea nueva que la prueba no anticipaba.
 
 ## Calificar más alto por lo mismo
 

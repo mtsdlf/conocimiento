@@ -4,6 +4,8 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
+  - "Kirkpatrick (1979), Techniques for evaluating training programs, Training and Development Journal, junio de 1979, págs. 78-92, reimpresión de la serie de 1959-1960 (texto completo): https://assets.td.org/m/4a306d561507658e/original/TECHNIQUES-FOR-EVALUATING-TRAINING-PROGRAMS.pdf"
+  - "Kirkpatrick (1960), Techniques for evaluating training programs, Part 3: Behavior, Journal of the American Society of Training Directors, enero de 1960 (texto completo): https://assets.td.org/m/486fb05fce23e065/original/Techniques-For-Evaluating-Training-Programs-January-1960.pdf"
   - "Colquitt, LePine y Noe (2000), Toward an integrative theory of training motivation, Journal of Applied Psychology: https://www.gwern.net/doc/iq/2000-colquitt.pdf"
   - "Alliger, Tannenbaum, Bennett, Traver y Shotland (1997), A meta-analysis of the relations among training criteria, Personnel Psychology 50, 341-358 (abstract): https://doi.org/10.1111/j.1744-6570.1997.tb00911.x"
   - "Arthur, Bennett, Edens y Bell (2003), Effectiveness of training in organizations, Journal of Applied Psychology 88(2), 234-245: https://www.psychologie.uni-mannheim.de/cip/tut/seminare_wittmann/meta_fribourg/Arthur_etal_2003_MA_Trainings_in_organisations.pdf"
@@ -12,6 +14,8 @@ fuentes:
   - "Bell, Tannenbaum, Ford, Noe y Kraiger (2017), 100 years of training and development research, Journal of Applied Psychology: https://doi.org/10.1037/apl0000142"
   - "Kraiger, Ford y Salas (1993), Journal of Applied Psychology 78, 311-328 (registro): https://doi.org/10.1037/0021-9010.78.2.311"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Kirkpatrick Partners, Kirkpatrick Then and Now (extracto: índice y primera página de la parte 1, fechada en noviembre de 1959): https://www.kirkpatrickpartners.com/wp-content/uploads/2021/09/Kirkpatrick-Then-and-Now-peek-inside-10-09.pdf"
+  - "Evaluacion-educativa/.investigacion/fuentes-evaluar-un-programa-2026-11.md"
 aliases: [Kirkpatrick, cuatro niveles, four levels, modelo de Kirkpatrick, reacción aprendizaje conducta resultados, encuesta de satisfacción, happy sheet]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -25,7 +29,7 @@ Es el marco de la tradición organizacional de [evaluar un programa](evaluar-un-
 
 ## Los cuatro niveles
 
-Kirkpatrick lo propuso entre 1959 y 1960; el original no se leyó.
+Kirkpatrick lo propuso en una serie de cuatro artículos, uno por nivel, en una revista de directores de capacitación («Training Directors», dice el pie de página), entre 1959 y 1960. Lo que sigue sale de la reimpresión de la serie en 1979 y de la tercera parte original, de enero de 1960. Kirkpatrick define la reacción como «how well the trainees liked a particular training program», y aclara que «it does not include a measurement of any learning».
 
 | Nivel | Qué mide | Cómo se suele medir (descripción de esta base) |
 |---|---|---|
@@ -39,6 +43,8 @@ Cuanto más arriba, más cuesta medirlo (inferencia de esta base). Bell et al. (
 ## La cadena que no está
 
 Según Colquitt, LePine y Noe (2000), el marco «posits that reactions to training, learning, behavior change, and results are linked in a positive, causal manner». Alliger y colegas cuestionaron esa suposición.
+
+El texto de Kirkpatrick es más prudente que esa lectura. Sostiene que una reacción favorable hace más probable que se preste atención y se aprenda. Pero agrega que, aun midiendo bien la reacción, «there is still no assurance that any learning has taken place», ni indicio de que la conducta vaya a cambiar. Para el aprendizaje recomienda medir antes y después y, donde se pueda, usar un grupo de control. Para los resultados cita el problema de «the separation of variables»: cuánto de la mejora se debe a la capacitación y cuánto a otros factores.
 
 Alliger et al. (1997) metaanalizaron 34 estudios con 115 correlaciones entre niveles. Separaron dos tipos de reacción: la afectiva («me gustó») y la de utilidad («me va a servir»). Según el abstract, «Utility-type reaction measures were more strongly related to learning or on-the-job performance (transfer) than affective-type reaction measures», y fueron mejores predictores de la transferencia que el aprendizaje medido al terminar. Los coeficientes no se pudieron leer, así que esta base no da un número.
 
@@ -59,4 +65,4 @@ Inferencias de esta base a partir de lo anterior:
 3. Medí la conducta semanas después y con otra fuente que no sea quien hizo el curso.
 4. No sumes los niveles en un puntaje: cada uno contesta otra pregunta.
 
-> [!NOTE] Sin fuente todavía: los coeficientes de Alliger et al. (1997) leídos en el original y el texto de Kirkpatrick.
+> [!NOTE] Sin fuente todavía: los coeficientes de Alliger et al. (1997) leídos en el original.
