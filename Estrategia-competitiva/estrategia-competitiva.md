@@ -86,6 +86,7 @@ Si tenés que hacer el análisis completo, seguí los pasos de arriba con el [re
 - Si tenés que comparar tu producto con el de un rival: [desarme de producto](Analisis-de-competidores/desarme-de-producto.md); la usabilidad se compara con la [evaluación competitiva](../UX/Evaluacion/evaluacion-competitiva.md) de UX.
 - Si tenés que anticipar cómo responde un rival a una jugada tuya, como bajar el precio: [acción y respuesta](Dinamica-competitiva/accion-y-respuesta.md) y [precios de la competencia](../Producto/Monetizacion/precios-de-la-competencia.md).
 - Si sos socio de una plataforma que también te puede competir, o tenés que decidir si cooperar con un competidor: [coopetición](Dinamica-competitiva/coopeticion.md) y [competencia con la plataforma](../Producto/Plataformas/competencia-con-la-plataforma.md).
+- Si tenés que entender el mercado de servicios de software o de desarrollo con IA: [servicios de software y la IA](Analisis-de-industria/servicios-de-software-y-la-ia.md) para la industria y [quién vende desarrollo con IA](Analisis-de-competidores/quien-vende-desarrollo-con-ia.md) para los rivales; el cliente, en [qué le compra una empresa a una consultora de software](../Marketing/Mercado-y-cliente/que-compra-una-empresa-a-una-consultora-de-software.md).
 - Si tenés que decidir si entrar a un mercado o cómo pelear contra uno grande: [cinco fuerzas](Analisis-de-industria/cinco-fuerzas.md) y [elegir el terreno](Dinamica-competitiva/elegir-el-terreno.md).
 
 ## Orden de lectura

@@ -87,6 +87,7 @@ Zajac y Bazerman (1991), según su abstract, sostienen que los puntos ciegos al 
 ## Qué hay adentro del análisis de competidores
 
 - [Identificación de competidores](identificacion-de-competidores.md): directos, indirectos, sustitutos, potenciales y el no consumo, y por qué los gerentes ven pocos rivales. Se lee primero.
+  - [Quién vende desarrollo con IA (2026-11)](quien-vende-desarrollo-con-ia.md): ficha fechada con las clases aplicadas a un mercado: agencias de IA, consultoras, nearshore, freelancers, abonos y herramientas, con forma de cobro, precio y tarifas.
 - [Perfil del competidor](perfil-del-competidor.md): los cuatro componentes de Porter, el perfil de respuesta y las señales de mercado.
 - [Análisis propio](analisis-propio.md): la misma vara aplicada a uno mismo, la matriz de Grant y la evidencia de sobreconfianza.
 - [FODA](foda.md): la matriz TOWS, sus críticas y cómo usarlo para decidir.
