@@ -66,6 +66,10 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 - [Golf](Golf/golf.md) — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
 
+## Música
+
+- [DJ](DJ/dj.md) — la técnica fundamental de pinchar, independiente del equipo: tiempo, forma, espectro, armonía y energía al unir dos temas, y el criterio para elegirlos, con ejemplos del techno del sello ARTS y lo que se sostiene y lo que no de cada regla.
+
 ## Negocio
 
 - [Marketing](Marketing/marketing.md) — mercado y cliente, propuesta, marca, canales, comunicación y medición, con las escuelas y la evidencia de cada idea.
