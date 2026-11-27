@@ -19,8 +19,15 @@ fuentes:
   - "ARCA, declaración jurada determinativa de personas humanas (presentación, determinación, saldos, vencimientos y anticipos): https://www.arca.gob.ar/gananciasYBienes/ganancias/personas-humanas-sucesiones-indivisas/declaracion-jurada/determinativa/determinacion.asp"
   - "ARCA, declaración jurada simplificada (requisitos, adhesión, uso de fondos): https://www.arca.gob.ar/gananciasYBienes/ganancias/personas-humanas-sucesiones-indivisas/declaracion-jurada/simplificada/declaracion-jurada.asp"
   - "ARCA, novedad «Prórroga excepcional» (22/05/2026): https://servicioscf.afip.gob.ar/publico/sitio/contenido/novedad/ver.aspx?id=5738"
-  - "El Economista, 21/09/2026, sobre la prórroga de la presentación (según un resumen): https://eleconomista.com.ar/economia/arca-volvio-cambiar-ganancias-nueva-fecha-limite-presentar-declaracion-jurada-n98303/amp"
+  - "RG ARCA 5851/2026, BO 22/05/2026: https://www.boletinoficial.gob.ar/pdf/aviso/primera/342284/20260522"
+  - "RG ARCA 5876/2026, BO 20/07/2026: https://www.boletinoficial.gob.ar/pdf/aviso/primera/344534/20260720"
+  - "RG ARCA 5890/2026, BO 25/08/2026: https://www.boletinoficial.gob.ar/pdf/aviso/primera/346339/20260825"
+  - "RG ARCA 5898/2026, BO 21/09/2026: https://www.boletinoficial.gob.ar/pdf/aviso/primera/347746/20260921"
+  - "RG ARCA 5911/2026, BO 08/10/2026, biblioteca de ARCA: https://biblioteca.afip.gob.ar/search/query/norma.aspx?p=t:RAG|n:5911|o:9|a:2026"
+  - "RG ARCA 5918/2026, BO 30/10/2026, biblioteca de ARCA: https://biblioteca.afip.gob.ar/search/query/norma.aspx?p=t:RAG|n:5918|o:9|a:2026"
+  - "CPCECABA, noticia del 25/08/2026 sobre la RG 5890: https://www.consejo.org.ar/noticias/se-postergo-la-presentacion-de-las-ddjj-ganancias-personas-humanas-2025"
   - "Impuestos/.investigacion/ganancias-de-personas-humanas.md (2026-11-27)"
+  - "Impuestos/.investigacion/ganancias-y-leyenda-ronda-2.md (2026-11-27)"
 aliases: [Ganancias de personas humanas, Ganancias personas humanas, Ganancias de autónomos, Ganancias de profesionales, impuesto a las ganancias personas humanas, categorías de Ganancias, primera categoría, segunda categoría, tercera categoría, cuarta categoría, impuesto cedular, artículo 94, escala del artículo 94, artículo 30, deducción especial, nuevos profesionales, ganancia no imponible, F. 711, Portal Integrado, anticipos de personas humanas, RG 5211, declaración jurada simplificada, Ganancias simplificada, Ley 27.799, RG 5820]
 creado: 2026-11-27
 revisado:
@@ -31,7 +38,7 @@ revisado:
 En Argentina, la persona humana inscripta en Ganancias suma sus rentas de primera a cuarta categoría, resta la ganancia no imponible, las cargas de familia y, si trabaja por su cuenta con los aportes de autónomo pagos, una deducción especial, y paga con la escala de nueve tramos del artículo 94 (del 5 % al 35 %); las rentas financieras, los dividendos y la venta de inmuebles van aparte, en el impuesto cedular, y todo se declara una vez por año, con cinco anticipos del 20 %.
 
 > [!WARNING]
-> Ley y dinero: la nota no reemplaza a un contador. Es una copia del 2026-11-27 sobre el texto actualizado de la ley en la biblioteca de ARCA y sobre PDF y páginas de ARCA. Los montos y las escalas tienen una sola fuente, la oficial, y se actualizan dos veces por año: antes de liquidar, bajá el PDF del período en el sitio de ARCA. Las fechas de presentación del período 2025 no coinciden entre fuentes (ver más abajo).
+> Ley y dinero: la nota no reemplaza a un contador. Es una copia del 2026-11-27 sobre el texto actualizado de la ley en la biblioteca de ARCA y sobre PDF y páginas de ARCA. Los montos y las escalas tienen una sola fuente, la oficial, y se actualizan dos veces por año: antes de liquidar, bajá el PDF del período en el sitio de ARCA. Los vencimientos se prorrogan seguido: el del período 2025 cambió seis veces.
 
 Implementa para la Argentina lo que explica [impuesto a la renta de personas](impuesto-a-la-renta-de-personas.md). El impuesto de las sociedades está en [Ganancias en Argentina](ganancias-en-argentina.md), y la retención al empleado, en [Ganancias sobre sueldos en la Argentina](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/ganancias-sobre-sueldos-en-argentina.md). Lo que se decide al empezar es de Emprender: cómo se elige entre el monotributo y el régimen general y cómo se aporta como independiente, en [encuadre fiscal y previsional](../../Emprender/Legal-e-impuestos/encuadre-fiscal-y-previsional.md); los aportes de autónomo al SIPA, en [autónomos y SIPA en Argentina](../../Emprender/Legal-e-impuestos/autonomos-y-sipa-en-argentina.md); y el alta en ARCA, en [inscripción en ARCA al arrancar](../../Emprender/Legal-e-impuestos/inscripcion-en-arca-al-arrancar.md).
 
@@ -116,8 +123,18 @@ Un ejemplo, armado por esta base con los dos cuadros de 2026 y sin otras deducci
 
 La declaración se hace «exclusivamente a través del servicio "Ganancias Personas Humanas - Portal Integrado"», en el formulario F. 711, y la presenta todo inscripto aunque no le dé impuesto (ARCA). Al impuesto que resulta se le restan «los anticipos y pagos a cuenta ingresados, las percepciones y retenciones sufridas durante el período» y lo pagado en el exterior, con un tope. El saldo se paga con un volante electrónico de pago (código 11-019-019) o en un plan de facilidades, y el saldo a favor se pide en devolución (ARCA).
 
-> [!IMPORTANT]
-> Fechas del período 2025 en conflicto. Las fuentes coinciden en que el saldo se pagaba hasta el 27 de julio de 2026 (novedad de ARCA del 22 de mayo de 2026). Para presentar, la misma novedad dice el 27 de julio, la página de vencimientos de ARCA leída el 2026-11-27 dice el 16 de noviembre de 2026, y la prensa habla de prórrogas al 27 de agosto, al 13 de octubre (RG 5898, según El Economista) y al 30 de octubre, con números de resolución que no coinciden. No se leyó ninguna de esas resoluciones. Para un período nuevo, mirá la agenda de ARCA.
+Para el período 2025, ARCA corrió seis veces la fecha de presentación y nunca la de pago, que quedó en el 27 de julio de 2026:
+
+| RG | Boletín Oficial | Presentación | Pago del saldo |
+|---|---|---|---|
+| 5851/2026 | 22/05/2026 | 27/07/2026 | 27/07/2026 |
+| 5876/2026 | 20/07/2026 | 27/08/2026 | 27/07/2026 |
+| 5890/2026 | 25/08/2026 | 22/09/2026 | 27/07/2026 |
+| 5898/2026 | 21/09/2026 | 13/10/2026 | 27/07/2026 |
+| 5911/2026 | 08/10/2026 | 30/10/2026 | 27/07/2026 |
+| 5918/2026 | 30/10/2026 | 16/11/2026 | 27/07/2026 |
+
+La última vigente es la RG 5918: presentación hasta el 16 de noviembre de 2026, la misma fecha que muestra la página de vencimientos de ARCA. Las RG 5911 y 5918 explican la demora: la Ley 27.826, el Decreto 1.253/2026 y la RG 5916 «impactan en la liquidación» del período 2025. Las cuatro primeras se leyeron en el Boletín Oficial y las dos últimas en la biblioteca de ARCA; el consejo profesional de la Ciudad de Buenos Aires da las mismas fechas para la RG 5890. La RG 5890 fijó además el primer anticipo de 2026 hasta el 24 de septiembre de 2026. Para un período nuevo, mirá la agenda de ARCA.
 
 Desde el período 2025 existe una declaración jurada simplificada (Ley 27.799, arts. 38 a 40; Decreto 93/2026; RG 5820/2026, vigente desde el 10 de febrero de 2026). Es optativa y llega precargada por ARCA, que la arma con lo que informan terceros; la persona la confirma o la corrige. Usa la misma escala y las mismas deducciones que la general; lo distinto es el efecto. Si ARCA no detecta una «discrepancia significativa», la declaración libera del impuesto del período y se presumen exactas las de Ganancias e IVA de los períodos no prescriptos (arts. 39 y 40). Pide operar por el sistema financiero formal (RG 5820, art. 10). El art. 38 original fijaba topes de $ 1.000 millones de ingresos y $ 10.000 millones de patrimonio; la Ley 27.826 lo reescribió en octubre de 2026 y el texto consolidado ya no los muestra (una sola fuente, la biblioteca de ARCA; la Ley 27.826 no se abrió).
 
@@ -133,4 +150,4 @@ La RG 5685/2025 pasó a nueve anticipos del 11,11 %, pero solo para las sociedad
 ## Lo que no se verificó
 
 > [!NOTE]
-> Sin fuente todavía: la norma que fijó la última fecha de presentación del período 2025 y la fecha del primer anticipo de 2026 (una RG 5890/2026 aparece solo en un buscador); cómo se pasa de los montos del semestre a los anuales; una segunda fuente independiente de los montos y las escalas anuales; el texto de la Ley 27.826, del Decreto 1253/2026 y del anexo del Decreto 93/2026; las páginas de ARCA sobre categorías; la exención del art. 26, inc. u (acciones que cotizan); y cambios posteriores a 2019 en los arts. 98 y 99 del Decreto 862/2019.
+> Sin fuente todavía: cómo se pasa de los montos del semestre a los anuales; si la Ley 27.826, el Decreto 1.253/2026 y la RG 5916, que según las RG 5911 y 5918 cambian la liquidación del período 2025, tocan algún monto del art. 30 o la escala (la RG 5916 trata de la declaración simplificada; la ley no se leyó entera); una segunda fuente independiente de los montos y las escalas anuales (se buscó en el consejo profesional de la Ciudad de Buenos Aires, el de la provincia de Buenos Aires y una editorial de normas contables, sin encontrar las cifras); las RG 5925 y 5926, que la biblioteca de ARCA no devolvió; el texto de la Ley 27.826, del Decreto 1253/2026 y del anexo del Decreto 93/2026; las páginas de ARCA sobre categorías; la exención del art. 26, inc. u (acciones que cotizan); y cambios posteriores a 2019 en los arts. 98 y 99 del Decreto 862/2019.
