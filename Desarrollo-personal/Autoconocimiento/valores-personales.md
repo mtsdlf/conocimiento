@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los valores personales son las direcciones que uno elige para su vida, el tipo de persona que quiere ser en el trabajo, los vínculos o la salud, y aclararlos sirve para decidir y para actuar cuando las ganas no alcanzan. El trabajo de valores tiene evidencia solo como parte de la terapia de aceptación y compromiso (ACT): no hay metaanálisis que lo aísle.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Gloster, Walder, Levin, Twohig y Karekla (2020), The empirical status of acceptance and commitment therapy: A review of meta-analyses, J Contextual Behavioral Science 18:181-192: https://contextualscience.org/publications/empirical_status_acceptance_commitment_therapy_review_metaanalyses (resumen del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/autoconocimiento-y-emociones.md"
 aliases: [valores, personal values, clarificación de valores, values clarification, acción comprometida]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Valores personales

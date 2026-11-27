@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las etapas del cambio (el modelo transteórico) proponen que quien cambia una conducta pasa por etapas, de no pensarlo a sostenerlo, y que cada etapa pide estrategias distintas. Es un modelo muy difundido, pero las revisiones en tabaco y actividad física no encuentran ventaja en ajustar la intervención a la etapa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Prochaska y DiClemente (1983), Stages and processes of self-change of smoking, Journal of Consulting and Clinical Psychology 51(3):390-395: https://doi.org/10.1037/0022-006X.51.3.390 (abstract)"
@@ -11,7 +11,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [modelo transteórico, transtheoretical model, TTM, stages of change, etapas de cambio, Prochaska]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Etapas del cambio

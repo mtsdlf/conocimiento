@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La salud mental del founder es lo que los estudios dicen sobre el malestar y el bienestar de quienes fundan o dirigen una empresa. Los emprendedores informan más síntomas en algunas encuestas y más bienestar en otras, según qué se mida y dónde; lo que ayuda en la práctica tiene poca evidencia propia, casi toda observacional.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Freeman, Staudenmaier, Zisser y Andresen (2019), The prevalence and co-occurrence of psychiatric conditions among entrepreneurs and their families, Small Business Economics 53(2):323-342, DOI 10.1007/s11187-018-0059-8 (abstract): https://ideas.repec.org/a/kap/sbusec/v53y2019i2d10.1007_s11187-018-0059-8.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/founder-por-dentro.md"
 aliases: [salud mental del emprendedor, founder mental health, entrepreneur mental health, bienestar del founder, entrepreneurial well-being]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Salud mental del founder

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Manejar el estrés es lo que se hace para bajar la tensión en el momento (respirar lento, reinterpretar, distraerse) y para que pese menos a lo largo del tiempo (moverse, meditar, cambiar lo que lo causa). Las técnicas del momento tienen efectos chicos a moderados en metaanálisis con riesgo de sesgo, y cada una se apoya en una sola fuente metaanalítica.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Fincham, Strauss, Montero-Marin y Cavanagh (2023), Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials, Scientific Reports 13:432: https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/ (resumen del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/autoconocimiento-y-emociones.md"
 aliases: [manejo del estrés, stress management, bajar el estrés, técnicas de relajación, respiración, breathwork, gestión del estrés]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Manejar el estrés

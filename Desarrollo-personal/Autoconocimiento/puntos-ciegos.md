@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un punto ciego es algo de uno que los demás ven y uno no. Como la autoevaluación falla de forma sistemática y los otros juzgan mejor los rasgos que se ven desde afuera, pedir información sobre uno completa lo que la introspección no alcanza; el feedback 360 mejora poco con el tiempo y la ventana de Johari no tiene evidencia de efecto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dunning, Heath y Suls (2004), Flawed self-assessment: Implications for health, education, and the workplace, Psychological Science in the Public Interest 5(3): https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2004.00018.x/ (resumen del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/autoconocimiento-y-emociones.md"
 aliases: [punto ciego, blind spots, feedback 360, evaluación 360, ventana de Johari, Johari window, autoevaluación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Puntos ciegos

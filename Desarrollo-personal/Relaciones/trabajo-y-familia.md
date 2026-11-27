@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El conflicto entre trabajo y familia va en las dos direcciones y se asocia de forma consistente con resultados del trabajo, de la casa y no específicos de un dominio. Cómo se separa o se mezcla el trabajo con la casa (los límites) y la expectativa de estar disponible fuera de horario son parte del mismo problema, con más teoría que ensayos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Amstad, Meier, Fasel, Elfering y Semmer (2011), metaanálisis del conflicto trabajo-familia y sus resultados, Journal of Occupational Health Psychology 16, 151-169: https://worlddatabaseofhappiness.eur.nl/publications/a-meta-analysis-of-work-family-conflict-and-various-outcomes-with-a-special-emphasis-on-cross-domain-versus-matching-domain-relations-10224/ (resumen del buscador)"
@@ -18,7 +18,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/relaciones.md"
 aliases: [trabajo y familia, conflicto trabajo-familia, work-family conflict, interfaz trabajo-familia, límites entre trabajo y casa, work-life balance, equilibrio trabajo-vida, segmentación, integración, derecho a desconexión, disponibilidad fuera de horario]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trabajo y familia

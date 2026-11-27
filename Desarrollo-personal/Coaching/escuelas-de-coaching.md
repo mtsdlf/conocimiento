@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las escuelas de coaching son las tradiciones de donde sale la forma de trabajar de un coach: la cognitivo-conductual, la orientada a soluciones, la psicología positiva, la ontológica y los modelos de conversación como GROW. El metaanálisis que comparó enfoques no halló que una supere a otra, y la investigación agrupa por resultado y casi nunca por escuela.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wang, Lai, Xu y McDowall (2022), A meta-analysis of contemporary psychologically informed coaching approaches, Journal of Work-Applied Management 14(1):77-101: https://www.emerald.com/insight/content/doi/10.1108/JWAM-04-2021-0030/full/html (abstract)"
@@ -15,7 +15,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/vistazo.md"
 aliases: [enfoques de coaching, modelos de coaching, coaching cognitivo-conductual, coaching orientado a soluciones, psicología del coaching, coaching psychology, modelo GROW, GROW]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuelas de coaching

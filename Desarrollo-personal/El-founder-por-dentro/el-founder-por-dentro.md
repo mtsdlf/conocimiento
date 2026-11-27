@@ -1,14 +1,14 @@
 ---
 resumen: >-
   El founder por dentro es lo que le pasa psicológicamente a quien funda o dirige una empresa: su salud mental, cuánto de sí pone en la empresa, la soledad del rol, la sensación de ser un impostor y el duelo cuando la empresa cae. Casi todo lo que se sabe sale de encuestas y correlaciones, y las prácticas probadas en founders son pocas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Stephan (2018), Entrepreneurs' mental health and well-being: a review and research agenda, Academy of Management Perspectives 32(3):290-322, manuscrito aceptado (texto completo, por partes): https://publications.aston.ac.uk/id/eprint/31987/1/amp.2017.0001.full.pdf"
   - "Desarrollo-personal/.investigacion/founder-por-dentro.md"
 aliases: [founder por dentro, psicología del founder, psicología del emprendedor, bienestar del emprendedor, founder mental health, entrepreneur well-being]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # El founder por dentro

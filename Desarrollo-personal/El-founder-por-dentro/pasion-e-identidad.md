@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La pasión es una inclinación fuerte hacia una actividad que gusta, importa y se lleva tiempo y energía; la investigación distingue la armoniosa, que se elige, de la obsesiva, que se impone. En quien funda, la pasión va de la mano de cuánto ocupa la empresa en la propia identidad; por inferencia de esta base, la obsesiva se acerca al workaholismo, que se asocia con peor salud.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Vallerand et al. (2003), Les passions de l'âme: On obsessive and harmonious passion, Journal of Personality and Social Psychology 85(4):756-767 (resumen del buscador; el título no se verificó contra el PDF): https://www.intranet.fse.ulaval.ca/fichiers/public/prof/pub_1618__Vallerandetal_2003.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/founder-por-dentro.md"
 aliases: [pasión emprendedora, pasión armoniosa, pasión obsesiva, entrepreneurial passion, harmonious passion, obsessive passion, identidad emprendedora, workaholismo, workaholism, adicción al trabajo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pasión e identidad

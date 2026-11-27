@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trabajo profundo es concentrarse sin cortes en una tarea que exige pensar. El nombre es de un practicante, Newport, pero se apoya en hallazgos con evidencia: pasar de una tarea a otra deja la atención pegada a la anterior, las interrupciones se pagan con estrés y las notificaciones distraen aunque no se mire el celular; que el celular a la vista reste capacidad no se replicó en las réplicas encontradas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Leroy (2009), Why is it so hard to do my work? The challenge of attention residue when switching between work tasks, Organizational Behavior and Human Decision Processes 109(2):168-181: https://doi.org/10.1016/j.obhdp.2009.04.002 (resumen del buscador, vía https://econpapers.repec.org/RePEc:eee:jobhdp:v:109:y:2009:i:2:p:168-181 y https://bps.org.uk/research-digest/surprising-benefits-time-pressure-work)"
@@ -15,7 +15,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [trabajo profundo, deep work, foco, concentración, interrupciones, notificaciones, residuo de atención, attention residue]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trabajo profundo

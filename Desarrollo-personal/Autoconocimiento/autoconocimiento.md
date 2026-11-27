@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El autoconocimiento es saber cómo es uno: qué valora, en qué es bueno, qué le da sentido y cómo lo ven los demás. Se trabaja con ejercicios de valores, la identificación de fortalezas, la información que dan otros y la escritura, y casi ninguna de esas prácticas tiene evidencia propia fuerte.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Dunning, Heath y Suls (2004), Flawed self-assessment, Psychological Science in the Public Interest 5(3): https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2004.00018.x/ (resumen del buscador)"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/autoconocimiento-y-emociones.md"
 aliases: [autoconocimiento, self-knowledge, self-awareness, conocerse a uno mismo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autoconocimiento

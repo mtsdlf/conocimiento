@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cortar un hábito es impedir que una señal ya aprendida siga disparando la conducta: vigilarla cuando aparece, cambiar el contexto para que no aparezca y poner otra conducta en su lugar. Cuesta más que formar uno, y un cambio de vida como una mudanza abre una ventana de unos tres meses en que una intervención rinde más.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Quinn, Pascoe, Wood y Neal (2010), Can't control yourself? Monitor those bad habits, Personality and Social Psychology Bulletin 36(4):499-511: https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/quinn.pascoe.wood_.neal_.2010_Cant_control_yourself.pdf (primera página con el abstract); número de participantes por https://www.spring.org.uk/?p=10507 (resumen secundario)"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [romper un hábito, dejar un hábito, sacarse un hábito, breaking habits, quit a habit, mal hábito, ventana de discontinuidad, habit discontinuity]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cortar un hábito

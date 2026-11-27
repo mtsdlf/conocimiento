@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Energía y salud es la parte del desarrollo personal que cuida el cuerpo que sostiene todo lo demás: dormir lo suficiente, moverse, cortar con el trabajo para recuperarse y manejar la cafeína y el alcohol. Sus cantidades salen de guías de organismos de salud, y su intervención mejor probada es la terapia cognitivo-conductual para el insomnio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Watson et al. (2015), consenso de la AASM y la SRS sobre la duración del sueño en adultos: https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/ (texto completo)"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/vistazo.md"
 aliases: [energía y salud, salud física, cuidar la energía, hábitos de salud, sueño y ejercicio]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Energía y salud

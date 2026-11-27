@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Hacer un amigo de adulto lleva tiempo compartido, y las cifras que circulan (unas 50 horas para un amigo casual, unas 90 para un amigo y más de 200 para uno cercano) vienen de un solo estudio leído solo por prensa. El número de Dunbar no se sostiene como límite derivado de la neocorteza, y los lazos moderadamente débiles dieron más movilidad laboral que los muy fuertes.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hall, How many hours does it take to make a friend?, Journal of Social and Personal Relationships, publicado en línea el 15/3/2018, DOI 10.1177/0265407518761225: https://journals.sagepub.com/doi/10.1177/0265407518761225 (no leído; cifras por prensa)"
@@ -11,7 +11,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/relaciones.md"
 aliases: [amistad, amigos, friendship, hacer amigos, número de Dunbar, Dunbar's number, lazos débiles, weak ties]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Amistad

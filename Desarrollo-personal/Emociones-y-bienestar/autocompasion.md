@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La autocompasión es tratarse en los momentos difíciles con la amabilidad con que se trataría a un amigo. Según el metaanálisis de Ferrari y colegas (2019), las intervenciones que la entrenan tienen efectos moderados sobre el estrés, la depresión, la ansiedad y la autocrítica, con posible sesgo de publicación. No hay evidencia de que baje la exigencia, y dos experimentos de laboratorio con estudiantes apuntan a que no.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ferrari et al. (2019), Self-compassion interventions and psychosocial outcomes: a meta-analysis of RCTs, Mindfulness 10(8):1455-1473, DOI 10.1007/s12671-019-01134-6: https://link.springer.com/10.1007/s12671-019-01134-6 (resumen del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [autocompasión, self-compassion, compasión hacia uno mismo, amabilidad con uno mismo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autocompasión

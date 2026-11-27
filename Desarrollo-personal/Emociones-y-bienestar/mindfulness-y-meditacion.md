@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El mindfulness (atención plena) es entrenar la atención en lo que pasa en el momento presente, y la meditación es la práctica con que se entrena. Los programas de meditación bajan el estrés, la ansiedad y la depresión de poco a moderadamente y la terapia basada en mindfulness reduce las recaídas de depresión, pero el campo arrastra definiciones flojas, ensayos débiles, ensayos de apps con conflicto de interés y efectos adversos poco medidos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Goyal et al. (2014), Meditation programs for psychological stress and well-being, JAMA Internal Medicine 174(3):357-368, PMID 24395196: https://pubmed.ncbi.nlm.nih.gov/24395196/ (resumen del buscador); resumen periodístico en https://www.npr.org/blogs/health/2014/01/07/260470831/mindfulness-meditation-can-help-relieve-anxiety-and-depression"
@@ -16,7 +16,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/fundamentos-y-contraria.md (tamaños de efecto de Goyal en ansiedad)"
 aliases: [mindfulness, atención plena, meditación, MBSR, MBCT, reducción del estrés basada en mindfulness, terapia cognitiva basada en mindfulness, apps de meditación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mindfulness y meditación

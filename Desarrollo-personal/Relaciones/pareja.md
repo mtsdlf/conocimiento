@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que mejor predice que una pareja esté bien es lo que cada uno percibe de la relación: el compromiso del otro, el aprecio, la satisfacción sexual y el conflicto, según 43 estudios longitudinales. Las cifras de predicción de divorcio de Gottman fueron criticadas en 2001 por falta de validación cruzada, y la educación y la terapia de pareja tienen efectos positivos medidos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Joel et al. (2020), predictores de la calidad de la relación en 43 estudios longitudinales de parejas, PNAS: https://pmc.ncbi.nlm.nih.gov/articles/PMC7431040 (texto completo, leído en parte)"
@@ -14,7 +14,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/relaciones.md"
 aliases: [pareja, relación de pareja, matrimonio, couples, romantic relationships, Gottman, cuatro jinetes, proporción 5 a 1, terapia de pareja, educación de pareja]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pareja

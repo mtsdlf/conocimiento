@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La efectividad personal es la parte del desarrollo personal que ordena el trabajo propio: cómo se capturan y se revisan las tareas, cómo se reparte el tiempo entre prioridades, cómo se protege el foco y cómo se aprende por cuenta propia. Sus métodos más conocidos son de practicantes sin ensayos; la evidencia está en algunos mecanismos y en la gestión del tiempo como conjunto, casi toda correlacional.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Aeon, Faber y Panaccio (2021), Does time management work? A meta-analysis, PLOS ONE 16(1):e0245066: https://pmc.ncbi.nlm.nih.gov/articles/PMC7799745 (texto completo, salvo el tramo final)"
@@ -10,7 +10,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [efectividad personal, productividad personal, personal productivity, personal effectiveness, organización personal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Efectividad personal

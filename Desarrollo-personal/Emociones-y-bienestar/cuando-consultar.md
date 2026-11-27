@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Hace falta consultar a un profesional de salud mental cuando lo que uno siente impide hacer la vida cotidiana, cambia el sueño, el apetito o el peso, o aparecen pensamientos de muerte o de hacerse daño. Para la depresión hay terapias con evidencia, como la activación conductual y la terapia cognitivo-conductual, y en Argentina la línea nacional 0800-999-0091 atiende las 24 horas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Argentina, Línea Nacional de Orientación y Apoyo en la Urgencia de Salud Mental (0800-999-0091): https://www.argentina.gob.ar/dispositivo-0800 (texto completo)"
@@ -11,7 +11,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/autoconocimiento-y-emociones.md"
 aliases: [cuándo ir al psicólogo, buscar ayuda profesional, señales de alarma en salud mental, línea de salud mental, 0800-999-0091, cuándo hacer terapia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuándo consultar

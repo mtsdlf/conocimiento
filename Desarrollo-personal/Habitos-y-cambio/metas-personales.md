@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una meta personal es un resultado que uno elige para sí y que ordena la conducta durante un tiempo. Dos técnicas tienen metaanálisis: el contraste mental con planes si-entonces (lo que se difunde como WOOP), con un efecto pequeño a mediano que puede estar inflado, y registrar el progreso, que ayuda más si se registra de forma física y se hace público.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wang, Wang y Gai (2021), A meta-analysis of the effects of mental contrasting with implementation intentions on goal attainment, Frontiers in Psychology 12:565202: https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892 (texto completo)"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [metas personales, objetivos personales, personal goals, WOOP, contraste mental, mental contrasting, MCII, seguimiento de metas, goal monitoring]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Metas personales

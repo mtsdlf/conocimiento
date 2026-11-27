@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tener vínculos fuertes se asocia con vivir más: en el metaanálisis de Holt-Lunstad (2010), con un odds ratio de supervivencia de 1,50, y el aislamiento, la soledad y vivir solo, con un 26% a 32% más de probabilidad de morir. La evidencia es observacional, viene casi toda de una sola línea de investigación y no dice qué práctica baja el riesgo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Holt-Lunstad, Smith y Layton (2010), metaanálisis de relaciones sociales y mortalidad, PLoS Medicine: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316 (texto completo, leído en parte)"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/relaciones.md"
 aliases: [apoyo social, social support, soledad, loneliness, aislamiento social, social isolation, conexión social, social connection, relaciones y mortalidad]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Vínculos y salud

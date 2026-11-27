@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos del desarrollo personal son afirmaciones que circulan como hechos y no lo son. Se dividen en dos clases: los que cayeron cuando se los midió, se revisó la cuenta o apareció un contraejemplo (el agotamiento del ego, las poses de poder, la proporción de positividad, la ley de atracción, las 10.000 horas) y los de origen, cuya fuente no existe o no dice eso (los 21 días, la pirámide de Maslow, el estudio de metas de 1953, el diagrama del ikigai).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lally, van Jaarsveld, Potts y Wardle (2010), How are habits formed: modelling habit formation in the real world, European Journal of Social Psychology, DOI 10.1002/ejsp.674: https://doi.org/10.1002/ejsp.674 (abstract)"
@@ -23,7 +23,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md (Harkin et al. 2016, citado vía metas personales)"
 aliases: [mitos de autoayuda, mitos de la superación personal, self-help myths, 21 días, regla de las 10.000 horas, ley de atracción, poses de poder, estudio de metas de Harvard, estudio de metas de Yale]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos del desarrollo personal

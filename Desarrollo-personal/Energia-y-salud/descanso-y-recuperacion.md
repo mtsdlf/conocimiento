@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Descanso y recuperación es lo que se hace para reponerse del desgaste del trabajo: desconectarse mentalmente fuera de horario, cortar con pausas durante el día y tomarse vacaciones. Desconectarse se asocia con menos fatiga y mejor sueño, las micropausas suben el vigor sin un efecto claro en el rendimiento, y el efecto de las vacaciones se desvanece al volver.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Wendsche y Lohmann-Haislah (2017), metaanálisis de la desconexión psicológica del trabajo, Frontiers in Psychology, DOI 10.3389/fpsyg.2016.02072: https://frontiersin.org/articles/10.3389/fpsyg.2016.02072/full (texto completo, lectura parcial)"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/energia-y-salud.md"
 aliases: [descanso, recuperación, recovery, desconexión psicológica, psychological detachment, desconectarse del trabajo, pausas, micropausas, microbreaks, vacaciones, horas largas, long working hours]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Descanso y recuperación

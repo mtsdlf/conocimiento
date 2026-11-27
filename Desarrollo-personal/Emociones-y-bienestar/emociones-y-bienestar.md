@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Emociones y bienestar es la práctica de sentirse mejor y de manejar lo que pesa: bajar el estrés, meditar, tratarse con menos dureza, probar las prácticas de psicología positiva y saber cuándo hace falta un profesional. Las técnicas tienen efectos de chicos a moderados, con estudios de calidad desigual, y el límite con la clínica es parte de la vertical.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Fincham, Strauss, Montero-Marin y Cavanagh (2023), metaanálisis de breathwork, Scientific Reports 13:432: https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383/ (resumen del buscador)"
@@ -14,7 +14,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/autoconocimiento-y-emociones.md"
 aliases: [emociones y bienestar, bienestar emocional, salud emocional, manejo emocional, bienestar psicológico]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Emociones y bienestar

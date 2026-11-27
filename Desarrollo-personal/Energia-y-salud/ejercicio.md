@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La guía de la OMS de 2020 recomienda a los adultos entre 150 y 300 minutos semanales de actividad física moderada, o entre 75 y 150 de vigorosa, más actividad de fuerza regular, y dice que algo es mejor que nada. Para el ánimo, una revisión paraguas y un metaanálisis en red encuentran que el ejercicio baja los síntomas de depresión, y la revisión también los de ansiedad, con estudios de certeza baja.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bull et al. (2020), guías de la OMS 2020 sobre actividad física y conducta sedentaria, British Journal of Sports Medicine, DOI 10.1136/bjsports-2020-102955: https://pubmed.ncbi.nlm.nih.gov/33239350/ (abstract)"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/vistazo.md"
 aliases: [ejercicio, actividad física, physical activity, exercise, entrenar, moverse, sedentarismo, conducta sedentaria, ejercicio y depresión, fuerza, entrenamiento de fuerza]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ejercicio

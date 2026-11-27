@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Hábitos y cambio es la parte del desarrollo personal que convierte una decisión en conducta diaria: cómo se arma un hábito nuevo, cómo se corta uno viejo, cómo se escriben y se siguen las metas propias y qué se hace al recaer. Su evidencia viene sobre todo de conductas de salud simples, y varios métodos populares son de practicantes sin ensayos propios.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gardner, Lally y Wardle (2012), Making health habitual: the psychology of 'habit-formation' and general practice, British Journal of General Practice 62(605):664-666: https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/ (texto completo)"
@@ -10,7 +10,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [hábitos y cambio, cambio de conducta, cambio de hábitos, behavior change, habit change]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hábitos y cambio

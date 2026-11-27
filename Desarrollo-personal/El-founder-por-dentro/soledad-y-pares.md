@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La soledad del founder es la falta de con quién compartir lo que pasa en el trabajo, y en dueños de pymes se asocia con más burnout. Los grupos de pares son una práctica con un ensayo grande: mejoraron a la empresa, pero no se encontró un estudio que mida si mejoran al dueño.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Fernet, Torrès, Austin y St-Pierre (2016), Burnout Research 3(2) (abstract): https://depot-e.uqtr.ca/id/eprint/9801/"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/founder-por-dentro.md"
 aliases: [soledad del founder, soledad del CEO, CEO loneliness, founder loneliness, grupos de pares, peer groups, grupo de pares de dueños, mastermind]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Soledad y pares

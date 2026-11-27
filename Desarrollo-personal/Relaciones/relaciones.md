@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Relaciones es la parte del desarrollo personal que cuida los vínculos que sostienen la vida: la red de apoyo, la pareja, las amistades y el límite entre el trabajo y la casa. Su base es una asociación observacional fuerte entre tener vínculos y vivir más, con poca evidencia sobre qué práctica concreta la mejora.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Holt-Lunstad, Smith y Layton (2010), metaanálisis de relaciones sociales y mortalidad, PLoS Medicine: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316 (texto completo, leído en parte)"
@@ -10,7 +10,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/relaciones.md"
 aliases: [relaciones, vínculos, relaciones personales, relationships, vida social]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Relaciones

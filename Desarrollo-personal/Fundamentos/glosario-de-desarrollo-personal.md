@@ -1,12 +1,12 @@
 ---
 resumen: >-
   Los términos de práctica que usan las notas de Desarrollo personal, cada uno con una definición corta y la nota que lo desarrolla, más las marcas con que se dice de dónde viene un consejo y cuánto se leyó de cada fuente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes: ["Desarrollo-personal/.investigacion/"]
 aliases: [glosario de desarrollo personal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de desarrollo personal

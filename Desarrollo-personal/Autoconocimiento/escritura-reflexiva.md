@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La escritura reflexiva es escribir sobre lo que uno vive para entenderlo: el diario, la revisión de lo hecho y la escritura expresiva, que es escribir sobre una experiencia difícil durante unas pocas sesiones. Solo la escritura expresiva tiene ensayos, y su efecto promedio es chico y no dura en la depresión.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Frattaroli (2006), Experimental disclosure and its moderators: a meta-analysis, Psychological Bulletin 132(6):823-865, PMID 17073523: https://pubmed.ncbi.nlm.nih.gov/17073523/ y https://www.proquest.com/docview/614470721 (resumen del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/autoconocimiento-y-emociones.md"
 aliases: [escritura expresiva, expressive writing, diario, journaling, diario personal, escribir un diario, revisión semanal personal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escritura reflexiva

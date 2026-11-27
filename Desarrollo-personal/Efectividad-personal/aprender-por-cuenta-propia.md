@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprender por cuenta propia es estudiar sin un curso que marque el ritmo: elegir el material, organizarse y comprobar qué se aprendió. Las técnicas con más evidencia, testearse y espaciar el estudio, vienen de estudiantes con textos; llevarlas a un adulto que aprende solo es una extrapolación razonable, y en la capacitación laboral pesan más la meta, la persistencia y la autoeficacia que planificar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dunlosky, Rawson, Marsh, Nathan y Willingham (2013), Improving students' learning with effective learning techniques, Psychological Science in the Public Interest 14(1):4-58: https://doi.org/10.1177/1529100612453266 (abstract; valoraciones por https://www.readingrockets.org/resources/resource-library/improving-students-learning-effective-learning-techniques-promising, resumen secundario)"
@@ -13,7 +13,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [aprender por cuenta propia, autoaprendizaje, aprendizaje autodirigido, aprendizaje autorregulado, self-directed learning, self-regulated learning, aprender solo, estudiar solo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprender por cuenta propia

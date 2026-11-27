@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dormir lo suficiente es, para un adulto, dormir 7 horas o más por noche de forma regular, según el consenso de dos sociedades de medicina del sueño. Dormir menos de forma crónica deteriora el rendimiento, y para el insomnio crónico el tratamiento recomendado en primer lugar es la terapia cognitivo-conductual, no los consejos de higiene del sueño.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Watson et al. (2015), consenso de la AASM y la SRS sobre la duración del sueño en adultos: https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/ (texto completo); también https://pubmed.ncbi.nlm.nih.gov/25979105/ (resumen del buscador)"
@@ -16,7 +16,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/vistazo.md"
 aliases: [sueño, dormir, sleep, horas de sueño, insomnio, insomnia, higiene del sueño, sleep hygiene, TCC-I, CBT-I, terapia cognitivo-conductual para el insomnio, privación de sueño, falta de sueño]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sueño

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Desarrollo personal sin ser una de sus partes: de qué escuelas salen sus prácticas, qué críticas recibe el campo, qué afirmaciones populares son mitos, qué leer según la necesidad y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Desarrollo-personal/.investigacion/fundamentos-y-contraria.md"
@@ -13,7 +13,7 @@ fuentes:
   - "Yale University Library, Goals study of the Class of 1953: https://ask.library.yale.edu/faq/175224 (texto completo)"
 aliases: [fundamentos de desarrollo personal, fundamentos, desarrollo personal transversal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de desarrollo personal

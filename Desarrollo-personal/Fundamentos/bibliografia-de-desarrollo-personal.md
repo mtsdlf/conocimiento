@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de desarrollo personal ordenadas por necesidad (mirar el campo con criterio, dormir y moverse, sostener un hábito, sentirse mejor, cuidar los vínculos, ordenar el trabajo, elegir un coach, aguantar el rol de founder): la obra, qué parte leer, en qué fijarse, si es evidencia, guía o practicante, y cuánto se leyó para armar la base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Desarrollo-personal/.investigacion/fundamentos-y-contraria.md (recursos canónicos por componente y bibliografía propuesta)"
@@ -40,7 +40,7 @@ fuentes:
   - "Gompers, Kovner, Lerner y Scharfstein (2010), Journal of Financial Economics: https://gwern.net/doc/economics/2010-gompers.pdf"
 aliases: [lecturas de desarrollo personal, libros de autoayuda, qué leer de desarrollo personal, reading list self-improvement, bibliografía de autoayuda]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de desarrollo personal

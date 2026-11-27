@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El sentido de vida es la sensación de que la propia vida es coherente, tiene una dirección y vale la pena; el propósito es su parte de dirección. Tener más propósito se asocia con menos mortalidad y el trabajo con sentido con más satisfacción, pero son asociaciones, no se buscó evidencia de prácticas que lo aumenten y, según una fuente secundaria de baja autoridad, el diagrama del ikigai que circula no es el concepto japonés.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martela y Steger (2016), The three meanings of meaning in life: Distinguishing coherence, purpose, and significance, Journal of Positive Psychology 11(5):531-545: https://research.aalto.fi/en/publications/the-three-meanings-of-meaning-in-life-distinguishing-coherence-pu/ (resumen del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/autoconocimiento-y-emociones.md"
 aliases: [propósito, sentido de vida, meaning in life, purpose in life, trabajo con sentido, meaningful work, ikigai]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Propósito y sentido

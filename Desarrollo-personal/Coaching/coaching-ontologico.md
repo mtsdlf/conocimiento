@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El coaching ontológico es una escuela de coaching que se apoya en una filosofía del lenguaje: sostiene que las personas son seres lingüísticos y que cambiar cómo hablan cambia cómo actúan. Según Rosell (2022) se expande en la región, y las búsquedas de esta base (tres en castellano y una en inglés, sobre bases académicas y el buscador general) no hallaron ninguna evaluación empírica de su efecto con grupo control.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Gonnet (2013), El discurso contemporáneo del management. El caso del coaching ontológico, Estudios Gerenciales 29(126):86-91: https://www.redalyc.org/pdf/212/21228397010.pdf (primera página, con el resumen)"
@@ -18,7 +18,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/vistazo.md"
 aliases: [coaching ontológico, ontological coaching, ontología del lenguaje, coach ontológico]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Coaching ontológico

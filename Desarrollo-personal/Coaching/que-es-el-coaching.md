@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El coaching es una relación de trabajo entre un coach y un cliente, en sesiones, para que el cliente avance hacia metas personales o profesionales. Según una fuente que la ICF publica en su sitio, se distingue de la terapia porque mira al futuro y no al porqué, y en Argentina no se confirmó una matrícula estatal.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ICF, About (definición de coaching): https://coachingfederation.org/about (resumen de la página; solo la parte inicial de la definición, textual)"
@@ -16,7 +16,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/coaching.md"
 aliases: [coaching, definición de coaching, coaching de vida, life coaching, coaching ejecutivo, executive coaching]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Qué es el coaching

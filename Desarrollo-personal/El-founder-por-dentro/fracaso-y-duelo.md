@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El fracaso de una empresa puede dejar a quien la fundó en duelo, y esa emoción, según la teoría, estorba aprender de lo que pasó. Los datos de startups con capital de riesgo no muestran que haber fracasado mejore las chances en la próxima empresa: lo que se repite es el éxito.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Shepherd (2003), Academy of Management Review 28(2):318-328, DOI 10.2307/30040715 (resumen del buscador): https://academicnewsletter.sufe.edu.cn/info/367651"
@@ -11,7 +11,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/founder-por-dentro.md"
 aliases: [fracaso emprendedor, duelo por fracaso, cerrar una empresa, entrepreneurial failure, grief from business failure, emprendedor serial, serial entrepreneur]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fracaso y duelo

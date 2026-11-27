@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las escuelas del desarrollo personal son las tradiciones de donde salen sus prácticas: la autoayuda, el estoicismo llevado a la terapia cognitivo-conductual, la psicología positiva, el mindfulness secular, los sistemas de productividad y el coaching. Se entienden mejor por lo que trabajan (el pensamiento, los hábitos, la emoción, la atención) que por su doctrina, y su evidencia va de efectos chicos medidos a ninguna medición.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Seligman y Csikszentmihalyi (2000), Positive psychology: An introduction, American Psychologist 55(1):5-14, DOI 10.1037/0003-066x.55.1.5: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1037/0003-066x.55.1.5&format=json&resultType=core (abstract)"
@@ -25,7 +25,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/vistazo.md"
 aliases: [escuelas del desarrollo personal, corrientes de autoayuda, tradiciones del desarrollo personal, schools of self-improvement, autoayuda, psicología positiva, estoicismo moderno]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuelas del desarrollo personal

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tiempo y prioridades es cómo se decide qué entra en el día y cuánto tiempo se le da: planificar, priorizar y reservar bloques en el calendario. La gestión del tiempo se asocia moderadamente con el desempeño y más con la satisfacción con la vida, pero casi toda esa evidencia es correlacional, y la matriz de Eisenhower y los bloques de tiempo no tienen estudios propios.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Aeon, Faber y Panaccio (2021), Does time management work? A meta-analysis, PLOS ONE 16(1):e0245066: https://pmc.ncbi.nlm.nih.gov/articles/PMC7799745 (texto completo, salvo el tramo final); cantidad de estudios y participantes por https://www.eurekalert.org/news-releases/878307 (resumen secundario)"
@@ -10,7 +10,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [gestión del tiempo, time management, prioridades, priorizar, matriz de Eisenhower, Eisenhower matrix, time blocking, bloques de tiempo, planificación del día]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tiempo y prioridades

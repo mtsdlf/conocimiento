@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evidencia del coaching viene de metaanálisis de coaching en el lugar de trabajo, que dan un efecto moderado (de 0,42 a 0,59 en los que solo juntan ensayos aleatorizados, informados con índices distintos) y más chico al corregir el sesgo de publicación. Muchos estudios se miden solo por autoinforme, que da efectos mayores, y no se encontró un metaanálisis de coaching de vida en población general.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Theeboom, Beersma y van Vianen (2014), Does coaching work? A meta-analysis on the effects of coaching on individual level outcomes in an organizational context, Journal of Positive Psychology 9(1):1-18: https://research.vu.nl/en/publications/does-coaching-work-a-meta-analysis-on-the-effects-of-coaching-on-/ (abstract)"
@@ -22,7 +22,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/vistazo.md"
 aliases: [eficacia del coaching, efectividad del coaching, coaching effectiveness, metaanálisis de coaching]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evidencia del coaching

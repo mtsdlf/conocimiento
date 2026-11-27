@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Elegir un coach es decidir a quién contratar en una profesión sin regulación estatal, donde cualquiera puede llamarse coach. Lo que más se apoya en evidencia es probar la relación antes de comprometerse; las credenciales dicen cuánta formación y práctica tiene alguien, no si va a dar mejores resultados.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ICF, Hiring tips: https://coachingfederation.org/find-a-coach/hiring-tips (resumen de la página)"
@@ -18,7 +18,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/coaching.md"
 aliases: [contratar un coach, cómo elegir un coach, credenciales de coaching, ICF ACC PCC MCC]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir un coach

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una recaída es volver a la conducta que se quería dejar o abandonar la que se quería sostener, y el nombre cubre dos cosas distintas: saltear un día de un hábito, que no lo arruina, y la recaída clínica en una adicción. Según el modelo de Marlatt, lo que decide si un desliz se vuelve recaída es cómo se reacciona a él; para los hábitos cotidianos, esa lectura es de esta base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Larimer, Palmer y Marlatt (1999), Relapse prevention: an overview of Marlatt's cognitive-behavioral model, Alcohol Research & Health 23(2):151-160: https://pubmed.ncbi.nlm.nih.gov/10890810/ (resumen del buscador)"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [recaída, relapse, desliz, lapse, prevención de recaídas, relapse prevention, efecto de violación de la abstinencia, abstinence violation effect, romper la racha]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recaídas

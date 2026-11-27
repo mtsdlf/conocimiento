@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Diseñar un hábito es elegir una conducta chica, atarla a una señal que ocurre todos los días y repetirla en el mismo contexto hasta que el contexto la dispare sola. Lleva meses, saltear un día no lo arruina, y acomodar el entorno para que la conducta sea fácil ayuda, aunque esa evidencia viene casi toda de la comida.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Gardner, Lally y Wardle (2012), Making health habitual: the psychology of 'habit-formation' and general practice, British Journal of General Practice 62(605):664-666: https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/ (texto completo)"
@@ -14,7 +14,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [formar un hábito, crear un hábito, armar un hábito, habit formation, building habits, tiny habits, apilar hábitos, habit stacking]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Diseñar un hábito

@@ -1,14 +1,14 @@
 ---
 resumen: >-
   El desarrollo personal es la práctica de mejorar a propósito cómo se vive: el cuerpo que sostiene el trabajo, los hábitos, las emociones, los vínculos, la forma de ordenar el día y la manera de aguantar un rol exigente. En esta base reúne qué se hace en cada área, cuánto ayuda según la evidencia y cuándo hace falta un profesional.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Desarrollo-personal/.investigacion/"
   - "Psicologia/psicologia.md"
 aliases: [desarrollo personal, crecimiento personal, personal development, self-improvement, superación personal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desarrollo personal

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las intervenciones de psicología positiva son ejercicios breves para aumentar el bienestar, como anotar cosas por las que se está agradecido, hacer actos de amabilidad, usar las propias fortalezas o escribir sobre el mejor yo posible. Los primeros metaanálisis les dieron efectos de chicos a moderados; al corregir el sesgo de los estudios chicos, el efecto sobre el bienestar quedó chico (cerca de r = 0,10) y el de la depresión, en general no significativo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Sin y Lyubomirsky (2009), Enhancing well-being and alleviating depressive symptoms with positive psychology interventions: a practice-friendly meta-analysis, Journal of Clinical Psychology 65(5):467-487, PMID 19301241: https://pubmed.ncbi.nlm.nih.gov/19301241/ (resumen del buscador)"
@@ -16,7 +16,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/fundamentos-y-contraria.md (cifras de Bolier por el texto completo y de White por conjunto de datos)"
 aliases: [psicología positiva, positive psychology interventions, PPI, gratitud, diario de gratitud, actos de amabilidad, mejor yo posible, best possible self]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Intervenciones de psicología positiva

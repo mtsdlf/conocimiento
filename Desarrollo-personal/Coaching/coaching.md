@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El coaching es un acompañamiento de sesiones con un profesional para alcanzar metas personales o laborales, orientado al futuro; para problemas clínicos, la ICF contempla pasar a la terapia. Tiene evidencia moderada en el lugar de trabajo, el metaanálisis que comparó enfoques no halló que una escuela supere a otra y no se confirmó regulación estatal de la profesión.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "de Haan y Nilsson (2023), What can we know about the effectiveness of coaching? A meta-analysis based only on randomized controlled trials, Academy of Management Learning & Education 22(4): https://research.vu.nl/en/publications/what-can-we-know-about-the-effectiveness-of-coaching-a-meta-analy/ (abstract)"
@@ -16,7 +16,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/vistazo.md"
 aliases: [coaching, coach, acompañamiento de coaching]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Coaching

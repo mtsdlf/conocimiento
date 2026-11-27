@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El síndrome del impostor es la experiencia de sentirse un fraude intelectual pese a los logros propios. No es un trastorno reconocido, sus cifras de frecuencia van del 9 al 82 % según cómo se mida, y hasta 2018 ningún estudio publicado había evaluado un tratamiento.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bravata et al. (2020), revisión sistemática de prevalencia y tratamiento del síndrome del impostor, Journal of General Internal Medicine 35(4):1252-1275 (texto completo): https://pmc.ncbi.nlm.nih.gov/articles/PMC7174434"
@@ -10,7 +10,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/founder-por-dentro.md"
 aliases: [impostor syndrome, imposter syndrome, fenómeno del impostor, impostor phenomenon, síndrome del impostor, sentirse un fraude]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Síndrome del impostor

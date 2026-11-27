@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una fortaleza es un rasgo positivo que a uno le sale con naturalidad, y las intervenciones de fortalezas piden identificar las propias y usarlas más. El metaanálisis de Schutte y Malouff (2019) encontró efecto en felicidad, depresión y satisfacción con la vida con solo 14 estudios, y no se encontró evidencia de que mejore el desempeño en el trabajo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Schutte y Malouff (2019), The Impact of Signature Character Strengths Interventions: A Meta-analysis, Journal of Happiness Studies 20(4):1179-1196, DOI 10.1007/s10902-018-9990-2: https://link.springer.com/doi/10.1007/s10902-018-9990-2 (resumen del buscador; conteos de estudios vía https://psychologytoday.com/au/blog/what-matters-most/201810/new-way-boost-happiness-and-lower-depression)"
@@ -10,7 +10,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/autoconocimiento-y-emociones.md"
 aliases: [fortalezas de carácter, fortalezas distintivas, signature strengths, character strengths, intervenciones de fortalezas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fortalezas

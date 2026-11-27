@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La cafeína y el alcohol son dos sustancias de uso diario que afectan el sueño y la energía. La cafeína altera el sueño aun tomada seis horas antes de acostarse, y la FDA cita 400 mg por día como cantidad sin efectos negativos para la mayoría de los adultos; el alcohol ayuda a dormirse pero fragmenta la segunda mitad de la noche, y no hay una dosis para recomendar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Drake et al. (2013), ensayo de cafeína a 0, 3 y 6 horas antes de acostarse, J Clin Sleep Med, DOI 10.5664/jcsm.3170: https://pubmed.ncbi.nlm.nih.gov/24235903/ (abstract)"
@@ -14,7 +14,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/energia-y-salud.md"
 aliases: [cafeína, caffeine, café, alcohol, alcohol y sueño, cafeína y sueño, cuánta cafeína, tomar alcohol, beber]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cafeína y alcohol

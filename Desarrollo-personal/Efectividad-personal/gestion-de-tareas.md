@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La gestión de tareas es la forma de sacar de la cabeza lo pendiente, ordenarlo en listas y revisarlo para decidir qué hacer. Getting Things Done, el sistema más conocido, no tiene ensayos controlados; lo que sí tiene apoyo de laboratorio es que escribir un plan concreto para una tarea pendiente deja de ocupar la mente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Masicampo y Baumeister (2011), Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals, Journal of Personality and Social Psychology 101(4):667-683: https://doi.org/10.1037/a0024192 (abstract)"
@@ -12,7 +12,7 @@ fuentes:
   - "Desarrollo-personal/.investigacion/habitos-y-efectividad.md"
 aliases: [gestión de tareas, task management, GTD, Getting Things Done, listas de tareas, to-do list, sistema de tareas, captura, revisión semanal, efecto Zeigarnik]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gestión de tareas
