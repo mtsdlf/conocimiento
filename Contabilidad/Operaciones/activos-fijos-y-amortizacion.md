@@ -34,6 +34,8 @@ El costo es el precio de contado a la fecha de la compra, neto de descuentos, m�
 | Máquinas | 5.000 | |
 | Caja | | 5.000 |
 
+Si la empresa construye el activo en lugar de comprarlo, el costo se arma sumando materiales, horas propias e intereses en una obra en curso: está en [activo construido por la propia empresa](activo-construido.md). Con la NIIF 16, un bien que se usa por un contrato de arrendamiento también entra al balance, como derecho de uso ([arrendamientos](arrendamientos.md)); con la RT 54 argentina, solo si el arrendamiento es financiero ([arrendamientos en Argentina](arrendamientos-en-argentina.md)).
+
 Cada parte significativa de un activo con vida distinta se amortiza por separado. El terreno no se amortiza, porque su vida es ilimitada (salvo canteras y casos parecidos); el edificio que está encima, sí.
 
 ## Vida útil, valor residual y los tres métodos

@@ -7,7 +7,7 @@ fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), caps. 1 a 5: https://openstax.org/details/books/principles-financial-accounting"
   - "OpenStax, Principles of Managerial Accounting (2019), cap. 1: https://openstax.org/details/books/principles-managerial-accounting"
   - "APQC, Process Classification Framework 7.2.1, categoría 9.0 Manage Financial Resources (copia de terceros; ver Contabilidad/ALCANCE.md)"
-  - "Contabilidad/.investigacion/ (seis informes, 2026-11-27)"
+  - "Contabilidad/.investigacion/ (seis informes, 2026-11-27, y tres de la ampliación de arrendamientos, impuesto diferido y activo construido)"
 aliases: [contabilidad, accounting, contabilidad general, contabilidad financiera, teneduría de libros, bookkeeping, general ledger]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -59,6 +59,9 @@ El límite con cada vecino sigue una regla: cada dominio es dueño de un objeto 
 - Si tenés que decidir qué controles tiene que traer un sistema (permisos, cambios, registro de quién hizo qué): [controles sobre los sistemas](Control-interno/controles-sobre-sistemas.md) y [separación de funciones](Control-interno/separacion-de-funciones.md).
 - Si tenés que valuar el stock o calcular el costo de lo vendido: [costo de lo vendido](Operaciones/costo-de-lo-vendido.md).
 - Si tenés que llevar las máquinas, vehículos o equipos de una empresa: [activos fijos y amortización](Operaciones/activos-fijos-y-amortizacion.md).
+- Si tenés que registrar una obra que hace la propia empresa (un galpón, una instalación): [activo construido por la propia empresa](Operaciones/activo-construido.md) y [activo construido en Argentina](Operaciones/activo-construido-en-argentina.md).
+- Si tenés que registrar alquileres, leasings o contratos de uso de bienes ajenos: [arrendamientos](Operaciones/arrendamientos.md) y [arrendamientos en Argentina](Operaciones/arrendamientos-en-argentina.md).
+- Si tenés que calcular el gasto por impuesto a las ganancias del cierre: [impuesto diferido](Estados-contables/impuesto-diferido.md) e [impuesto diferido en Argentina](Estados-contables/impuesto-diferido-en-argentina.md); qué se paga es del tema [Impuestos](../Impuestos/impuestos.md).
 - Si tenés que resolver los gastos de empleados y la caja chica: [gastos y rendiciones](Operaciones/gastos-y-rendiciones.md).
 - Si tenés que entender o emitir un balance: [estados contables](Estados-contables/estados-contables.md), [balance](Estados-contables/balance.md), [estado de resultados](Estados-contables/estado-de-resultados.md) y [estado de flujo de efectivo](Estados-contables/estado-de-flujo-de-efectivo.md).
 - Si tenés que preparar un cierre de mes: [ajustes de cierre](Estados-contables/ajustes-de-cierre.md) y [conciliaciones](Control-interno/conciliaciones.md); el recorrido entre áreas no tiene nota todavía (va a estar en Procesos de negocio).

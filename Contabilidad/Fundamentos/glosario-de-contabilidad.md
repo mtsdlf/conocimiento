@@ -56,6 +56,15 @@ Las cifras, los ejemplos con asientos y las discrepancias entre fuentes viven en
 | Amortización (depreciación) | El reparto del costo de un activo fijo a lo largo de su vida útil. | Depreciation | [Activos fijos y amortización](../Operaciones/activos-fijos-y-amortizacion.md) |
 | Valor en libros | Costo de un activo menos su amortización acumulada. | Carrying amount, book value | [Activos fijos y amortización](../Operaciones/activos-fijos-y-amortizacion.md) |
 | Moneda funcional | La moneda del entorno económico principal en que opera la empresa. | Functional currency | [Moneda extranjera](../Operaciones/moneda-extranjera.md) |
+| Obra en curso | La cuenta de activo donde se acumulan los costos de un bien que la empresa construye, sin amortizarse hasta que queda en condiciones de usarse. | Construction in progress | [Activo construido](../Operaciones/activo-construido.md) |
+| Activo apto | Un bien que necesita un tiempo largo de preparación, cuyos intereses de financiación se suman a su costo. | Qualifying asset | [Activo construido](../Operaciones/activo-construido.md) |
+| Activación de costos financieros | Sumar al costo de un activo apto los intereses de la deuda que lo financia; obligatoria con la NIC 23, opcional con la RT 54. | Capitalisation of borrowing costs | [Activo construido](../Operaciones/activo-construido.md) |
+| Arrendamiento | Contrato que da el derecho a controlar el uso de un bien ajeno durante un plazo a cambio de pagos. | Lease | [Arrendamientos](../Operaciones/arrendamientos.md) |
+| Arrendatario y arrendador | Quien toma el bien y paga por usarlo, y quien lo da. | Lessee, lessor | [Arrendamientos](../Operaciones/arrendamientos.md) |
+| Tasa incremental | La tasa que el arrendatario pagaría por pedir prestado lo necesario para un bien parecido; descuenta los pagos si no se conoce la del contrato. | Incremental borrowing rate | [Arrendamientos](../Operaciones/arrendamientos.md) |
+| Activo por derecho de uso | El activo que registra el arrendatario con la NIIF 16 por el derecho a usar el bien. | Right-of-use asset | [Arrendamientos](../Operaciones/arrendamientos.md) |
+| Pasivo por arrendamiento | El valor presente de los pagos que faltan de un arrendamiento. | Lease liability | [Arrendamientos](../Operaciones/arrendamientos.md) |
+| Arrendamiento financiero y operativo | El que transfiere casi todos los riesgos y beneficios de la propiedad y el que no; con la NIIF 16 solo clasifica el arrendador, con la RT 54 las dos partes. | Finance lease, operating lease | [Arrendamientos en Argentina](../Operaciones/arrendamientos-en-argentina.md) |
 
 ## Los estados contables
 
@@ -67,6 +76,11 @@ Las cifras, los ejemplos con asientos y las discrepancias entre fuentes viven en
 | Estado de flujo de efectivo | De dónde vino y a dónde fue la caja del período, por actividades. | Statement of cash flows | [Estado de flujo de efectivo](../Estados-contables/estado-de-flujo-de-efectivo.md) |
 | Asiento de ajuste | Asiento de fin de período que lleva al resultado lo devengado y no registrado; no toca la caja. | Adjusting entry | [Ajustes de cierre](../Estados-contables/ajustes-de-cierre.md) |
 | Asiento de cierre | Asiento que deja en cero las cuentas de resultado y pasa su saldo al patrimonio. | Closing entry | [Ajustes de cierre](../Estados-contables/ajustes-de-cierre.md) |
+| Impuesto corriente | El impuesto a las ganancias que sale de la declaración jurada del período. | Current tax | [Impuesto diferido](../Estados-contables/impuesto-diferido.md) |
+| Impuesto diferido | El impuesto que las diferencias temporarias van a hacer pagar o ahorrar más adelante, registrado hoy como pasivo o activo. | Deferred tax | [Impuesto diferido](../Estados-contables/impuesto-diferido.md) |
+| Base fiscal | El importe que la ley del impuesto le reconoce a un activo o a un pasivo. | Tax base | [Impuesto diferido](../Estados-contables/impuesto-diferido.md) |
+| Diferencia temporaria | La diferencia entre el valor contable de un activo o pasivo y su base fiscal; imponible si hará pagar más impuesto, deducible si hará pagar menos. | Temporary difference | [Impuesto diferido](../Estados-contables/impuesto-diferido.md) |
+| Quebranto | Pérdida impositiva que la ley deja descontar de ganancias de años siguientes; puede generar un activo diferido. | Tax loss carryforward | [Impuesto diferido](../Estados-contables/impuesto-diferido.md) |
 | NIIF | Las normas contables internacionales que emite el IASB. | IFRS | [Normas contables](../Estados-contables/normas-contables.md) |
 | Ajuste por inflación | Reexpresar los estados en moneda de poder adquisitivo de cierre cuando la inflación es alta. | Inflation adjustment, hyperinflationary reporting | [Normas contables en Argentina](../Estados-contables/normas-contables-en-argentina.md) |
 

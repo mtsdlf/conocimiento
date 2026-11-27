@@ -51,6 +51,10 @@ Contabilidad/
     gastos-y-rendiciones            gastos de empleados, anticipos, rendiciones y fondo fijo
     costo-de-lo-vendido             inventario permanente o periódico, métodos de valuación, valor neto de realización
     activos-fijos-y-amortizacion    capitalizar o gastar, vida útil, métodos de amortización, baja y resultado de venta
+    activo-construido               la obra en curso: qué costos entran, la gente propia, los intereses (NIC 16 y NIC 23) y la puesta en marcha
+    activo-construido-en-argentina  costeo completo, ventas durante las pruebas y activación opcional de costos financieros en la RT 54
+    arrendamientos                  el derecho de uso y el pasivo por arrendamiento (NIIF 16), las exenciones y el arrendador
+    arrendamientos-en-argentina     financiero u operativo para las dos partes en la RT 54
     moneda-extranjera               moneda funcional, conversión y diferencia de cambio
   Estados-contables/              cómo el registro se resume en información para afuera
     estados-contables               entrada: el juego completo (con cambios en el patrimonio y notas), para quién y cómo se conectan
@@ -58,6 +62,8 @@ Contabilidad/
     estado-de-resultados            ingresos, costos y gastos de un período, por naturaleza o por función
     estado-de-flujo-de-efectivo     de dónde vino y a dónde fue la caja; método directo e indirecto
     ajustes-de-cierre               devengamientos, diferimientos, previsiones y el cierre de las cuentas de resultado
+    impuesto-diferido               impuesto corriente y diferido, base fiscal y diferencias temporarias (NIC 12)
+    impuesto-diferido-en-argentina  quién puede registrar solo el corriente y el descuento opcional en la RT 54
     normas-contables                marco conceptual, NIIF, NIIF para las PYMES, normas locales, consolidación
     normas-contables-en-argentina   FACPCE y sus resoluciones técnicas, NIIF para cotizantes, ajuste por inflación
   Contabilidad-de-gestion/        la contabilidad para decidir adentro
@@ -107,5 +113,6 @@ Regla del mapa (#98): cada dominio es dueño de un objeto y un verbo; un saber v
 - **Cambios después de investigar** (2026-11-27): costos y costeo se partió en clasificación y sistemas de costeo, porque la nota quedaba sobrecargada; los desvíos del costo estándar y los del presupuesto son el mismo mecanismo y su dueña es `presupuesto`; Control interno suma `controles-sobre-sistemas`, que COSO trata como principio propio y es lo primero que necesita quien construye software. El estado de cambios en el patrimonio y las notas van en la entrada de Estados contables, sin nota propia. La NIIF 18 reemplaza a la NIC 1 desde el 1 de enero de 2027 y se dice en las notas que la citan.
 - **Huecos que quedan afuera de esta pasada**: las decisiones con costos relevantes (pedido especial, hacer o comprar) y la medición del desempeño, que el campo pone en contabilidad de gestión; se suman con `ampliar`.
 - **Consolidación de varias empresas** va como sección de `normas-contables` y no como nota propia.
+- **Ampliación del 2026-11-27 (issue #171)**: arrendamientos y el activo construido por la propia empresa entran en Operaciones, porque son hechos que generan asientos como una compra; el impuesto diferido entra en Estados contables, porque no sale de un documento sino de un cálculo de cierre sobre el balance. Cada uno tiene su nota argentina aparte. La decisión de invertir en una obra y el seguimiento del proyecto quedan afuera (issue #176).
 - **Sueldos** no tiene nota: su asiento va como sección de `operaciones`, porque el detalle es de Administración de personal y nómina.
 - **Pendientes para otra sesión**: cuando existan Tesorería, Impuestos, Inventario y Procesos de negocio, sus enlaces se suman a las notas de acá; `Emprender/Finanzas` pasa a enlazar `devengado` y `punto-de-equilibrio` en la sesión 16 (#101).

@@ -86,5 +86,7 @@ Para llegar a los estados, la empresa cierra el período: concilia, ajusta, revi
 - [Estado de resultados](estado-de-resultados.md): ingresos, costos y gastos de un período, los resultados intermedios y lo que cambia con la NIIF 18.
 - [Estado de flujo de efectivo](estado-de-flujo-de-efectivo.md): la caja por actividades de operación, inversión y financiación; método directo e indirecto.
 - [Ajustes de cierre](ajustes-de-cierre.md): devengamientos, diferimientos, previsiones, amortización del período y el cierre de las cuentas de resultado.
+- [Impuesto diferido](impuesto-diferido.md): el impuesto a las ganancias corriente y el diferido, la base fiscal, las diferencias temporarias y un ejemplo de tres años con sus asientos (NIC 12).
 - [Normas contables](normas-contables.md): el Marco Conceptual, las NIIF, la NIIF para las PYMES, las normas locales, la consolidación y la disputa entre valor razonable y costo histórico.
 - [Normas contables en Argentina](normas-contables-en-argentina.md): la FACPCE y la RT 54, las NIIF para cotizantes y el ajuste por inflación.
+- [Impuesto diferido en Argentina](impuesto-diferido-en-argentina.md): quién puede registrar solo el impuesto corriente según la RT 54 y en qué se aparta de la NIC 12.
