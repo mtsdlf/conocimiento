@@ -4,6 +4,7 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
+  - https://pubmed.ncbi.nlm.nih.gov/25649325/
   - https://www.nice.org.uk/guidance/QS39/chapter/quality-statement-4-parent-training-programmes
   - https://www.nice.org.uk/guidance/CG158/chapter/recommendations-for-research
   - https://pubmed.ncbi.nlm.nih.gov/22336837/
@@ -47,7 +48,7 @@ El DMDD se explica acá aunque el DSM lo ponga con la depresión, porque se pare
 
 ## Cuántos y con qué viene
 
-Según el listado secundario del metaanálisis de Polanczyk (2015), cerca del 5,7 % de chicos y adolescentes tiene algún trastorno disruptivo; las cifras del TOD y del trastorno de conducta por separado no quedaron registradas. Con el TDAH se cruzan mucho: según el CDC, casi la mitad de los chicos con [TDAH](Neurodesarrollo/tdah.md) en Estados Unidos tiene además un problema de conducta (encuesta a padres, según su resumen).
+Según el resumen del metaanálisis de Polanczyk y otros (2015), cerca del 5,7 % de chicos y adolescentes tiene algún trastorno disruptivo (intervalo de confianza del 95 %: 4,0 a 8,1 %); las cifras del TOD y del trastorno de conducta por separado no quedaron registradas. Con el TDAH se cruzan mucho: según el CDC, casi la mitad de los chicos con [TDAH](Neurodesarrollo/tdah.md) en Estados Unidos tiene además un problema de conducta (encuesta a padres, según su resumen).
 
 Qué pesa del entorno, como el conflicto entre los padres o la adversidad, está en [familia](../Contextos/familia.md) y [adversidad y trauma](../Contextos/adversidad-y-trauma.md).
 

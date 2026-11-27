@@ -16,6 +16,12 @@ preguntas:
   - "¿Cómo conecto ideas al hablar para que no suene traducido del castellano?"
   - "Tengo una entrevista de trabajo en inglés en dos semanas: ¿qué practico?"
   - "¿Cómo armo una rutina semanal de práctica que respalde la evidencia?"
+  - "Tengo una entrevista técnica para una empresa de EE.UU.: ¿cómo cuento un proyecto y cómo pienso en voz alta en el system design?"
+  - "¿Cómo se pronuncian cache, SQL, GUI o nginx sin quedar mal?"
+  - "¿Cómo dejo un comentario de code review que no suene brusco?"
+  - "En la daily, ¿cómo digo corto que estoy bloqueado o que no llego?"
+  - "Se cayó producción: ¿cómo escribo el aviso y después el postmortem?"
+  - "Tengo que explicarle a un cliente no técnico por qué el modelo se equivoca: ¿cómo lo digo?"
 aprobado: 2026-11-27
 ---
 
@@ -75,6 +81,16 @@ Ingles/
     examenes-de-ingles          ficha fechada
     herramientas-de-ingles      ficha fechada
     plataformas-de-tutores      ficha fechada
+  Profesional/                  el inglés de trabajo en la industria del software (sumada el 2026-11-27)
+    vocabulario-tecnico         jerga que no se traduce y términos que se pronuncian mal
+    entrevista-tecnica          behavioral, pensar en voz alta en system design y live coding
+    reuniones-de-equipo         daily, planning, retro: updates, bloqueos, estimar, discrepar
+    escritura-tecnica           PRs, issues, design docs y RFC, documentación
+    code-review                 comentar sin sonar brusco y recibir comentarios
+    trabajo-remoto-asincronico  mensajería, hilos, status updates, zonas horarias, equipos no nativos
+    incidentes                  avisar en vivo, on-call, postmortem sin culpables
+    hablar-con-clientes         demos, relevar necesidades, explicar lo técnico a no técnicos
+    recursos-de-ingles-tecnico  ficha fechada: guías de estilo, glosarios, cursos
   Fundamentos/
     niveles-mcer                qué sabe hacer alguien en B2, C1 y C2
     alfabeto-fonetico           leer la pronunciación del diccionario
@@ -85,7 +101,7 @@ Ingles/
 ## Supuestos
 
 - Pronunciación con General American como modelo y las diferencias con el británico marcadas.
-- Inglés general, sin vertical de inglés profesional: las tareas de trabajo (entrevista, reunión, mail) van en la entrada del tema y en Discurso.
+- ~~Inglés general, sin vertical de inglés profesional~~. Cambió el 2026-11-27: se suma la vertical `Profesional/`, el inglés de trabajo en la industria del software (inglés para fines específicos), para roles técnicos y de cara al cliente (desarrollo, IA, plataforma, consultoría, forward-deployed). Queda afuera el inglés de ventas y marketing. Lo general de la escritura, los turnos y la cortesía sigue en Discurso y la vertical lo enlaza.
 - La escritura va dentro de Discurso.
 - Exámenes, herramientas y plataformas de tutores van como fichas fechadas en Práctica.
 - Ajustes después de investigar: feedback correctivo y edad salen como componentes propios; ritmo y habla conectada se juntan; registro y falsos amigos se juntan en cognados; Gramática suma estructura de la oración; Práctica parte el entrenamiento perceptivo y la conversación con IA, y la fluidez pasa a ser componente.

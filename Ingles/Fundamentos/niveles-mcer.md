@@ -3,7 +3,7 @@ resumen: >-
   El MCER (Marco Común Europeo de Referencia) describe seis niveles de dominio de un idioma con
   descriptores de lo que alguien puede hacer; de B2 a C1 se pasa a expresarse sin restricciones y
   casi sin errores, y de C1 a C2, a la precisión y el matiz aun bajo carga.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Consejo de Europa, MCER Companion Volume (2020): https://rm.coe.int/16809ea0d4 (no se pudo abrir)"
@@ -23,7 +23,7 @@ aliases:
   - Marco Común Europeo de Referencia
   - Niveles de inglés
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Niveles del MCER

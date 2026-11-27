@@ -10,6 +10,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282
   - https://www.nice.org.uk/guidance/ng87/chapter/rationale-and-impact
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC8110733
+  - https://chaamplab.sdsu.edu/_resources/files/weisz-2017.pdf
   - https://www.argentina.gob.ar/sites/default/files/2023/06/res._cfe_311-16_anexos.pdf
 aliases: [tratamiento psicológico infantil, tratamientos en la infancia, qué ayuda]
 creado: 2026-11-27
@@ -37,7 +38,7 @@ En psicología clínica infantil se usa una escala para el respaldo de cada trat
 
 Las guías clínicas, como las de la Academia Americana de Pediatría (AAP) y del instituto británico NICE, no recomiendan "una terapia" en general: recomiendan qué hacer con el TDAH, con la ansiedad o con el autismo, y por edad. Por eso la pregunta útil no es qué escuela es mejor sino qué tiene respaldo para el problema de este chico. Las escuelas y su evidencia general están en [enfoques terapéuticos](enfoques-terapeuticos.md), y lo que tiene respaldo para cada problema, en [qué funciona para qué](que-funciona-para-que.md).
 
-La evidencia no está repartida parejo. Según el metaanálisis de Weisz y otros (2017), las terapias conductuales y cognitivo-conductuales tienen cientos de ensayos con chicos, y la psicodinámica tiene pocos, más concentrados en problemas emocionales, según una revisión encargada por su propia asociación (Midgley 2021). La terapia sistémica y la de juego no tienen una revisión registrada en el informe de esta base. Eso no dice que las segundas no sirvan; dice que se sabe menos de ellas.
+La evidencia no está repartida parejo. En el metaanálisis de Weisz y otros (2017), 239 de 447 estudios eran de terapias conductuales y cognitivo-conductuales centradas en el chico, y solo 29 de terapias no conductuales (centrada en el cliente, psicodinámica, gestalt). La psicodinámica tiene pocos ensayos, más concentrados en problemas emocionales, según una revisión encargada por su propia asociación (Midgley 2021). La terapia de juego y la sistémica tienen revisiones, pero hechas desde su propio campo ([enfoques terapéuticos](enfoques-terapeuticos.md#sistémica-y-de-juego-evidencia-de-su-propio-campo)). Que se sepa menos de un enfoque no dice que no sirva.
 
 ## Con los padres y con la escuela
 
