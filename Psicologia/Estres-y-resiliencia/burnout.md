@@ -78,7 +78,7 @@ Las intervenciones contra el burnout tienen efectos pequeños y evidencia de cal
 
 Las tres coinciden en que lo individual rinde poco o de forma incierta. Discrepan en lo organizacional: Panagioti encuentra que cambiar el trabajo rinde más que entrenar a la persona; West dice que las dos ayudan. West incluye estudios de antes y después sin grupo de control, y su abstract informa I² = 82 % en agotamiento emocional continuo. Del Cochrane no se leyeron los resultados organizacionales.
 
-La lectura que permiten es acotada: efectos chicos, evidencia de un solo sector y desacuerdo sobre cuánto más rinde lo organizacional. Cómo se organiza un equipo para eso va en el tema Liderazgo y dirección, que todavía no existe.
+La lectura que permiten es acotada: efectos chicos, evidencia de un solo sector y desacuerdo sobre cuánto más rinde lo organizacional. Cómo se dirige un equipo va en [Liderazgo y dirección](../../Liderazgo-y-direccion/liderazgo-y-direccion.md); el daño que hace un jefe está en [liderazgo destructivo](../../Liderazgo-y-direccion/Liderar-personas/liderazgo-destructivo.md).
 
 > [!NOTE] Sin fuente todavía: evidencia de intervenciones contra el burnout fuera del personal de salud.
 

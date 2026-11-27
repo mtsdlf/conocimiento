@@ -55,7 +55,7 @@ Las técnicas proyectivas, donde la persona interpreta una mancha o una imagen, 
 
 Para contratar, lo que dice la evidencia reunida acá es poco y conviene decirlo como inferencia. La responsabilidad, con ρ = 0,19 según Zell y Lesick (2022), es el rasgo con validez más general para el desempeño entre los Cinco Grandes, y es una validez modesta, del nivel de una entrevista no estructurada. Para el MBTI, el eneagrama y el DISC no se encontró evidencia de validez para predecir el desempeño laboral. Sackett y otros (2022) ubican la entrevista estructurada como el mejor método de selección; la tabla completa está en [qué predice la selección](../../Presentacion-profesional/Seleccion/que-predice-la-seleccion.md).
 
-Esto es una inferencia de esta base a partir de esas fuentes, no una recomendación publicada. Cómo se arma un proceso de contratación es asunto del tema Liderazgo y dirección, que todavía no está escrito.
+Esto es una inferencia de esta base a partir de esas fuentes, no una recomendación publicada. Cómo se arma un proceso de contratación está en [contratar](../../Liderazgo-y-direccion/Gestion-de-personas/contratar.md), en Liderazgo y dirección.
 
 > [!NOTE] Sin fuente todavía: una guía formal sobre qué tests usar en selección (estándares de la APA o de la SIOP), y la evidencia sobre cuánto se puede falsear un test de personalidad cuando hay un puesto en juego.
 

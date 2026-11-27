@@ -22,7 +22,7 @@ revisado: 2026-11-27
 
 Los sesgos de grupo son las formas predecibles en que pertenecer a un grupo, o estar con otros, cambia el juicio y la conducta: favorecer a los propios, radicalizar la opinión común, decidir en bloque y ayudar menos cuando hay más testigos. Los fenómenos se sostienen mejor que los modelos que los explican.
 
-Es la [influencia social](influencia-social.md) cuando actúa dentro de un grupo y no de una persona sobre otra. Cómo se diseña una reunión o un proceso de decisión para corregir estos sesgos es asunto del tema Liderazgo y dirección, que todavía no está escrito.
+Es la [influencia social](influencia-social.md) cuando actúa dentro de un grupo y no de una persona sobre otra. Cómo se diseña una reunión o un proceso de decisión para corregir estos sesgos está en [decidir en grupo](../../Liderazgo-y-direccion/Decidir/decidir-en-grupo.md), en Liderazgo y dirección.
 
 | Sesgo | Estado del fenómeno | Estado de la explicación |
 |---|---|---|
