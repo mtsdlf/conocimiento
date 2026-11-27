@@ -91,6 +91,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Impuestos](Impuestos/impuestos.md) — lo que una empresa que ya opera le debe al fisco y cómo cumple cada mes: la obligación tributaria, los impuestos al consumo y a la renta, las retenciones y percepciones, y el ciclo de facturar, declarar y pagar, con lo de Argentina (monotributo, IVA, Ingresos Brutos, Ganancias, comercio exterior) aparte.
 - [Tesorería y finanzas de la empresa en marcha](Tesoreria/tesoreria.md) — la plata real de una empresa que ya opera: posición y proyección de caja, capital de trabajo, crédito y cobranzas, pagos a proveedores, financiamiento y riesgos financieros, con lo de Argentina aparte.
 - [Activos y mantenimiento](Activos-y-mantenimiento/activos-y-mantenimiento.md) — lo que una empresa registra y decide sobre los equipos que tienen que seguir andando: el registro y el historial de cada equipo, la estrategia de mantenimiento, la orden de trabajo, el servicio técnico en casa del cliente y los indicadores, con lo de Argentina aparte.
+- [Servicios profesionales y proyectos](Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md) — lo que registra y gestiona una firma que vende trabajo de personas por proyecto, en cualquier rubro: el proyecto con el cliente y su presupuesto, la asignación de personas, las horas, la facturación por hora, por hito o por abono, y el margen, la utilización y la realización, con lo de Argentina aparte.
 
 ## Personas
 
