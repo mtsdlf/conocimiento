@@ -50,7 +50,7 @@ Lo que se sabía al 2026-11-27 de la industria de servicios de software: cómo s
 
 Es el [análisis de industria](analisis-de-industria.md) aplicado a quienes hacen software para otros. La teoría de por qué gana plata una firma así (margen, utilización y apalancamiento) está en [economía de una firma de servicios](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md); los márgenes de las empresas listadas, en [márgenes por modelo de negocio](../../Emprender/Modelo-de-negocio/margenes-por-modelo-de-negocio.md#servicios-de-software-2025-y-2026); quién vende qué y a qué precio, en [quién vende desarrollo con IA](../Analisis-de-competidores/quien-vende-desarrollo-con-ia.md).
 
-Cada cifra lleva una etiqueta de firmeza: **medida** (estadística oficial, presentación ante un regulador o experimento controlado), **encuesta** (con muestra declarada), **dicho de la gerencia** (en una llamada de resultados), **marketing** (un proveedor, un analista sin método publicado o un fondo que invierte en lo que describe) e **inferencia** (un cálculo o una lectura de esta base). Consultado entre el 2026-11-26 y el 2026-11-27.
+Cada cifra lleva una etiqueta de firmeza: **medida** (estadística oficial, presentación ante un regulador o experimento controlado), **encuesta** (con muestra declarada), **dicho de la gerencia** (en una llamada de resultados), **marketing** (un proveedor, un analista sin método publicado o un fondo que invierte en lo que describe) e **inferencia** (un cálculo o una lectura de esta base). «3T 2026» es el tercer trimestre de 2026, y el «ejercicio» es el año fiscal de cada empresa, que en Accenture y Endava no coincide con el calendario. Consultado entre el 2026-11-26 y el 2026-11-27.
 
 ## Se cobra por hora y la IA ataca esa cuenta
 
@@ -60,19 +60,19 @@ En las empresas listadas que publican su mezcla, la mayoría de los ingresos es 
 |---|---|
 | Horas (tiempo y materiales o alquiler de gente) | EPAM 80,0 % de 2025 (medida); Endava cerca de 71 % (dicho de la gerencia); Globant 66,7 % según una cifra secundaria sin verificar |
 | Precio fijo | Globant 18,3 % en 2023, 25,1 % en 2024 y 28,0 % en 2025 (medida); EPAM 19,5 % (medida); Accenture 65 % de lo contratado, resultados incluidos (dicho de la gerencia) |
-| Suscripción a capacidad | Los AI Pods de Globant, con tope de consumo: USD 20,6 millones anualizados a fines de 2025 y USD 106,6 millones en el 3T 2026 (dicho de la gerencia); cerca de 4 % de sus ingresos (inferencia) |
-| Por resultado | 5 % de los contratos principales en servicios de atención al cliente; 72 % a 76 % de los compradores dice estar abierto (HFS, julio de 2026, sin muestra declarada; marketing) |
-| Servicio productizado | Sin dato |
+| Suscripción a capacidad | Los AI Pods de Globant, con tope de consumo: USD 20,6 millones anualizados a fines de 2025 y USD 106,6 millones anualizados en el 3T 2026 (dicho de la gerencia); cerca de 4 % de sus ingresos (inferencia) |
+| Por resultado | Solo hay un dato, y es de servicios de atención al cliente, no de software: 5 % de los contratos principales; 72 % a 76 % de los compradores dice estar abierto (HFS, julio de 2026, sin muestra declarada; marketing) |
+| [Servicio productizado](../../Emprender/Modelo-de-negocio/servicio-productizado.md) | Sin dato |
 
-La cuenta que se rompe es simple. Si el trabajo lleva 20 % a 25 % menos esfuerzo y se cobra por hora, la factura baja en la misma proporción (Oliver Wyman, noviembre de 2026; marketing). Con precio fijo, el ahorro queda en el proveedor si estima bien. Esa es la razón por la que las grandes empujan hacia el precio fijo y la suscripción (inferencia, apoyada en lo que dicen Globant y Accenture).
+Si el trabajo lleva 20 % a 25 % menos esfuerzo y se cobra por hora, la factura baja en la misma proporción (Oliver Wyman, noviembre de 2026; marketing). Con precio fijo, el ahorro queda en el proveedor si estima bien. Por eso las grandes empujan hacia el precio fijo y la suscripción (inferencia, apoyada en lo que dicen Globant y Accenture).
 
-La teoría de contratos no da una forma ganadora. Gopal y Sivaramakrishnan (2008) estudiaron 93 proyectos de un proveedor indio: el proveedor prefiere precio fijo en los proyectos grandes y largos, y horas cuando teme perder gente a mitad de camino (medida, de un solo proveedor).
+La teoría de contratos no da una forma ganadora. Gopal y Sivaramakrishnan (2008) estudiaron 93 proyectos de un proveedor indio: el proveedor prefiere precio fijo en los proyectos grandes y largos, y horas cuando teme que se le vaya gente del equipo a mitad de camino (medida, de un solo proveedor). Cómo se pone el precio en sí está en [pricing y empaquetado](../../Producto/Monetizacion/pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia).
 
 ## De dónde sale el margen
 
 Ninguna fuente medida descompone el margen de una firma de servicios de software. Con lo que hay, salen cuatro palancas, que son las de Maister en [economía de una firma de servicios](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md):
 
-1. **Utilización.** EPAM facturó 76,8 % de las horas en 2025 (medida). El promedio de las firmas de servicios profesionales es 66,4 %, el más bajo en 19 años (SPI Research, benchmark 2026, 509 firmas; encuesta). Endava dice que formar a su gente en IA le bajó la utilización (dicho de la gerencia).
+1. **Utilización.** EPAM facturó 76,8 % de las horas en 2025 (medida). El promedio de las firmas de servicios profesionales es 66,4 %, el más bajo en 19 años (SPI Research, benchmark 2026, 509 firmas; encuesta). Endava dice que formar a su gente en IA le bajó la utilización (dicho de la gerencia; sus cifras del ejercicio 2026 están en revisión, ver «Huecos»).
 2. **La pirámide.** Muchos juniors facturados con margen debajo de pocos seniors. Las mayores ganancias de productividad medidas son de los juniors (Cui y otros, 2025, en [agente de código](../../Desarrollo/Construccion/agente-de-codigo.md#cuánto-acelera-según-quién-mida)); que eso achique la pirámide es inferencia.
 3. **La tarifa que se cobra de verdad** frente a la de lista. Sin dato público.
 4. **La prima por riesgo del precio fijo**, que crece si la IA baja el esfuerzo y el proveedor estima bien (inferencia).
@@ -88,11 +88,11 @@ Ninguna empresa listada publica el tamaño promedio de sus contratos. Clutch da 
 | Alcance | Cifra | Fuente y firmeza |
 |---|---|---|
 | Mundo, gasto en servicios de TI | Unos USD 1,87 billones en 2026, 9 % más que en 2025 | Gartner, abril de 2026; marketing. Una reproducción de su tabla de octubre da USD 1,56 billones para «Services»; la diferencia parece de definición y no se confirmó |
-| Mundo, servicios de TI | USD 1,2 billones en 2025 y 1,6 billones en 2030; el alquiler de gente pasaría de 28 % a cerca de 20 %, y los servicios de agentes serían unos USD 400 mil millones | Oliver Wyman, noviembre de 2026, 30 entrevistas y modelo propio; marketing |
+| Mundo, servicios de TI (tecnología de la información) | USD 1,2 billones en 2025 y 1,6 billones en 2030; el alquiler de gente pasaría de 28 % a cerca de 20 %, y los servicios de agentes serían unos USD 400 mil millones | Oliver Wyman, noviembre de 2026, 30 entrevistas y modelo propio; marketing |
 | Estados Unidos, diseño de sistemas y servicios relacionados (NAICS 5415) | USD 495,8 mil millones en 2019 y 648,8 mil millones en 2022; USD 194,9 mil millones en el 2T 2026, unos 780 mil millones anualizados | Census vía FRED; medida (la anualización es inferencia) |
 | España, sector TIC completo | EUR 143.288 millones en 2024, 82.323 empresas y 688.727 ocupados | INE, julio de 2026; medida. Es todo TIC, no solo desarrollo |
 
-El último dato oficial de Estados Unidos sobre programación a medida (NAICS 541511) es de 2002: 48.920 establecimientos (medida, vieja).
+Las tres cifras mundiales no coinciden y la cifra de Estados Unidos, con otra definición (NAICS es la clasificación de industrias de EE. UU.), no es comparable con ellas: sirven como orden de magnitud y no se pueden sumar ni restar. El último dato oficial de Estados Unidos sobre programación a medida (NAICS 541511) es de 2002: 48.920 establecimientos (medida, vieja).
 
 ## Argentina: exporta y le cuesta vender adentro
 
@@ -119,10 +119,10 @@ Sobre los precios hay más dichos que medidas:
 
 - **Independientes.** Después de ChatGPT bajaron 2,1 % los trabajos mensuales y 5,2 % los ingresos en las ocupaciones expuestas de Upwork (Hui, Reshef y Zhou, 2024; medida), y la demanda se corrió de las tareas que la IA reemplaza (Demirci, Hannane y Zhu, 2025; medida). Es el único efecto medido sobre precios.
 - **Tarifas.** Las de los proveedores latinoamericanos bajaron 7,1 % en 2025 (Accelerance, 60 socios; marketing).
-- **Accenture**: «in Q4, we saw lower pricing in many areas of our business», compensado con eficiencias de IA (dicho de la gerencia).
-- **Endava**: «Clients are harvesting a little bit more of that benefit than we would prefer», y «pressure in the traditional T&M space» (dicho de la gerencia). En Endava, lo ligado a IA pasó de 5 % a 15 % de los ingresos (dicho de la gerencia).
-- **EPAM**, en febrero de 2026: «we are not seeing a pressure on our pricing due to AI» (dicho de la gerencia, transcripción de terceros).
-- **Globant** bajó su previsión de 2026 a entre 0,7 % y 1,1 % menos de ingresos, cuando en febrero esperaba crecer, y su plantilla pasó de 31.280 a 26.164 en 21 meses (medida). Su director financiero: «The AI Pod model by definition requires less people». Su presidente: «I am not in a position to prevent cannibalization» (dicho de la gerencia).
+- **Accenture**: «in Q4, we saw lower pricing in many areas of our business» (precios más bajos en muchas áreas en el 4T), compensado con eficiencias de IA (dicho de la gerencia).
+- **Endava**: «Clients are harvesting a little bit more of that benefit than we would prefer» (los clientes se quedan con más del ahorro de lo que querría), y «pressure in the traditional T&M space», presión en el trabajo por horas (dicho de la gerencia, en una llamada cuyas cifras están en revisión). En Endava, lo ligado a IA pasó de 5 % a 15 % de los ingresos (dicho de la gerencia).
+- **EPAM**, en febrero de 2026: «we are not seeing a pressure on our pricing due to AI», no ve presión de la IA sobre sus precios (dicho de la gerencia, transcripción de terceros).
+- **Globant** espera para 2026 ingresos entre 0,7 % y 1,1 % menores que los de 2025, cuando en febrero esperaba crecer (previsión de la gerencia), y su plantilla pasó de 31.280 a 26.164 en 21 meses (medida). Su director financiero: «The AI Pod model by definition requires less people» (el modelo pide menos gente). Su presidente: «I am not in a position to prevent cannibalization», que no puede evitar que lo nuevo le coma ventas a lo viejo (dicho de la gerencia).
 - **Contratos.** En servicios gestionados, el valor anual contratado subió 2,1 % en el 3T 2026 y la cantidad de contratos bajó 8 % (ISG, según un medio del sector; marketing).
 
 Lo que se achica es el alquiler de gente y la hora de trabajo automatizable. Lo que crece es la construcción de agentes (40 % de las firmas de servicios profesionales ya la vende, y 27 % de sus proyectos usa IA generativa, según SPI 2026; encuesta) y la modernización de sistemas viejos que la IA necesita (Oliver Wyman; marketing). La tesis del servicio que vende el trabajo hecho, y su lectura crítica, están en [servicios habilitados por tecnología](../../Emprender/Modelo-de-negocio/servicios-habilitados-por-tecnologia.md).

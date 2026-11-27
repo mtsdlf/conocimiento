@@ -57,7 +57,7 @@ Crece con gente: cada cliente nuevo pide horas, salvo la parte que el software a
 > Que la IA convierta el servicio en un negocio de software está en discusión.
 > - **A favor**: la tesis de Foundation Capital y de Sequoia, y proyecciones de practicantes que esperan márgenes brutos de 30 % el primer año, 45 % el segundo y más de 60 % el tercero (un ensayo de blog, sin datos).
 > - **En contra**: Fortune (2025) recoge a inversores que dicen que la diferencia de múltiplos entre servicios y software existe «for a reason». TechCrunch (2025) advierte que las mejoras de margen pueden no llegar si hace falta gente para corregir lo que produce la IA.
-> - **Lo que falta**: márgenes auditados de empresas de servicios con IA. No se encontró ninguno. El único número público es un dicho de la gerencia de Globant: sus AI Pods, una suscripción a capacidad de agentes, dejarían entre 45 % y 60 % de margen bruto contra 38 % de su negocio de siempre, sin auditar por línea ([márgenes por modelo de negocio](margenes-por-modelo-de-negocio.md#servicios-de-software-2025-y-2026)).
+> - **Lo que falta**: márgenes auditados de empresas de servicios con IA. No se encontró ninguno. El único número público es un dicho de la gerencia de Globant: sus AI Pods, una suscripción por tokens a agentes que supervisan sus expertos, dejarían entre 45 % y 60 % de margen bruto contra 38 % de su margen bruto promedio, sin auditar por línea ([márgenes por modelo de negocio](margenes-por-modelo-de-negocio.md#servicios-de-software-2025-y-2026)).
 
 ## Cuándo conviene
 

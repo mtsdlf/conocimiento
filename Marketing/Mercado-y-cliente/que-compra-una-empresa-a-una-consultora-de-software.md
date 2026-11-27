@@ -30,9 +30,9 @@ revisado:
 
 Lo que se sabía al 2026-11-27 de qué le compra una empresa a una consultora de software, qué usaba antes, de qué se queja y cómo adopta la IA la pyme, con 93 reseñas codificadas y las encuestas de adopción, y cinco trabajos del cliente escritos como hipótesis.
 
-Las empresas compran, sobre todo, capacidad que no tienen adentro: gente que construya algo nuevo, sume manos a un equipo corto o termine lo que otro dejó a medias. La IA entra cada vez más, pero en la pyme todavía es experimento sin medida. Lo que queda sin resolver no es la herramienta, que ya se compra hecha, sino saber qué conviene hacer, integrarlo con lo que hay y saber si rinde. La queja que más se repite es la estimación y el alcance.
+Las empresas compran, sobre todo, capacidad que no tienen adentro: gente que construya algo nuevo, sume manos a un equipo corto o termine lo que otro dejó a medias. La IA entra cada vez más, pero en la pyme todavía es experimento sin medida. La herramienta ya se compra hecha; lo que queda sin resolver es saber qué conviene hacer, integrarlo con lo que hay y medir si rinde. La queja que más se repite es la estimación y el alcance.
 
-Firmeza: lo de la pyme argentina sale de una encuesta probabilística (**medida**); lo de las quejas, de reseñas con fuerte sesgo positivo (**encuesta/reseña**); los trabajos son hipótesis (**inferencia**). Dónde vende cada rival está en [quién vende desarrollo con IA](../../Estrategia-competitiva/Analisis-de-competidores/quien-vende-desarrollo-con-ia.md).
+Firmeza: lo de la pyme argentina sale de nadIA, una encuesta probabilística de Fundar y el CEPE de la Universidad Di Tella (**medida**); lo de las quejas, de reseñas con fuerte sesgo positivo (**encuesta/reseña**); los trabajos son hipótesis (**inferencia**). Dónde vende cada rival está en [quién vende desarrollo con IA](../../Estrategia-competitiva/Analisis-de-competidores/quien-vende-desarrollo-con-ia.md).
 
 ## Cinco trabajos, como hipótesis
 
@@ -49,13 +49,13 @@ Escritos con la forma de [Jobs to be done](jobs-to-be-done.md). Ninguno se prob�
 Las cuatro fuerzas del trabajo 5, el más nuevo, leídas de las mismas fuentes (inferencia):
 
 - **Empuje**: la sensación de quedarse atrás y la presión de costos; casi siete de cada diez pymes argentinas estaban en modo «recortar, ajustar o sobrevivir» a mediados de 2025 (Observatorio PyME, citado por nadIA).
-- **Atracción**: hacer más con la misma gente; el 77 % de las pymes argentinas que usan IA espera mejoras de productividad en cinco años.
-- **Ansiedad**: no saber si rinde (27 % duda de la rentabilidad) y que no encaje con lo que ya hay (26,1 %).
-- **Hábito**: «la IA no es útil para mi actividad», el obstáculo del 66,2 % de las que no la usan ni piensan usarla.
+- **Atracción**: hacer más con la misma gente; el 77 % de las pymes argentinas que usan IA espera mejoras de productividad en cinco años (nadIA).
+- **Ansiedad**: no saber si rinde (27 % duda de la rentabilidad) y que no encaje con lo que ya hay (26,1 %), según nadIA.
+- **Hábito**: seguir trabajando como siempre porque «la IA no es útil para mi actividad», el obstáculo del 66,2 % de las que no la usan ni piensan usarla (nadIA).
 
 ## Qué compran, según 93 reseñas
 
-Se leyeron las reseñas visibles en la primera página de Clutch de nueve consultoras el 2026-11-27: cinco argentinas (10Pines, Patagonian, Azumo, Serfe, SpaceDev), una de EE. UU. (thoughtbot), una polaca (Netguru), una colombiana (Leanware) y una de IA de América del Norte (Markovate). Son 93 reseñas, casi todas de 2021 a 2026, de clientes en su mayoría de 1 a 50 personas y de EE. UU. Se codificó por tema lo que el cliente decía que quería resolver, como manda el [análisis de reseñas](../../UX/Investigacion/analisis-de-resenas.md#en-directorios-de-servicios-entre-empresas).
+Se leyeron las reseñas visibles en la primera página de Clutch de nueve consultoras el 2026-11-27: cinco argentinas (10Pines, Patagonian, Azumo, Serfe, SpaceDev), una de EE. UU. (thoughtbot), una polaca (Netguru), una colombiana (Leanware) y una de IA de América del Norte (Markovate). Son 93 reseñas, casi todas de 2021 a 2026, de clientes en su mayoría de 1 a 50 personas y de EE. UU. Clutch es un directorio de proveedores donde los clientes reseñan. Se codificó por tema lo que el cliente decía que quería resolver, un tema principal por reseña, como manda el [análisis de reseñas](../../UX/Investigacion/analisis-de-resenas.md#en-directorios-de-servicios-entre-empresas).
 
 | Qué quería resolver el cliente | Reseñas |
 |---|---|
@@ -87,7 +87,7 @@ De las 93 reseñas, 84 tienen cinco estrellas, nueve tienen 4 o 4,5 y ninguna ti
 | Falta de iniciativa o guía | 2 | empujar la adopción de IA |
 | Velocidad; decisiones técnicas que agregan complejidad | 1 cada una | |
 
-El conteo ordena temas; no mide cuántos clientes sufren cada uno, porque los que se fueron enojados casi no reseñan. Los relatos de foros completan el otro lado: la app quedó sin terminar, el proveedor se volvió menos atento, el código estaba en cuentas del proveedor y hubo que pagar dos veces (anecdótico). La primera queja es la que trata [estimación](../../Desarrollo/Encargo/estimacion.md) y [cambios de alcance](../../Desarrollo/Encargo/cambios-de-alcance.md); la de quedarse con algo propio, el [traspaso](../../Desarrollo/Encargo/traspaso.md).
+El conteo ordena temas; no mide cuántos clientes sufren cada uno, porque los que se fueron enojados casi no reseñan. Los relatos de foros completan el otro lado: la app quedó sin terminar, el proveedor se volvió menos atento, el código estaba en cuentas del proveedor y hubo que pagar dos veces (anecdótico). La primera queja es la que trata [estimación](../../Desarrollo/Encargo/estimacion.md) y [cambios de alcance](../../Desarrollo/Encargo/cambios-de-alcance.md); la de lo que queda después, el [traspaso](../../Desarrollo/Encargo/traspaso.md).
 
 Al elegir proveedor, según la encuesta de Clutch de 2025 (de quien vende las reseñas), pesan la comunicación clara (81 %), el conocimiento de la industria (78 %), un buen retorno (77 %) y el encaje cultural (75 %).
 
@@ -95,8 +95,8 @@ Al elegir proveedor, según la encuesta de Clutch de 2025 (de quien vende las re
 
 | Estudio | Método | Lo principal | Firmeza |
 |---|---|---|---|
-| nadIA, abril de 2026 | Probabilística, 402 empresas argentinas de 10 a 249 ocupados, industria y software; campo en noviembre y diciembre de 2025. No incluye comercio ni servicios | 41,6 % usa alguna IA (36,4 % sin software; 85,4 % en software); el 56 % de las que la usan es «experimental»; 7,5 % tiene presupuesto específico y 3,3 % política escrita; 57 % no mide el impacto. Obstáculos: falta de experiencia 46,2 %, de personal calificado 42,2 %, desconocimiento 39,2 %, costos 29,2 %, incompatibilidad con los sistemas 26,1 %. Políticas pedidas: asistencia técnica 52,5 %, acceso a proveedores de IA 40,1 %. Cómo la consiguen: compran software comercial 42,7 %, desarrollo propio 35,6 %, proveedor externo especializado 20,4 % | Medida, leída completa |
-| Census Bureau, BTOS, mayo de 2026 | Encuesta quincenal representativa de EE. UU. | 17 % a 20 % de las empresas usa IA entre diciembre de 2025 y mayo de 2026; 37 % en las de 250 o más empleados; las de menos de 20 no crecieron | Medida |
+| nadIA, abril de 2026 | Probabilística, 402 empresas argentinas de 10 a 249 ocupados, industria y software; campo en noviembre y diciembre de 2025. No incluye comercio ni servicios | 41,6 % usa alguna IA (36,4 % fuera del sector software; 85,4 % en software); el 56 % de las que la usan es «experimental»; 7,5 % tiene presupuesto específico y 3,3 % política escrita; 57 % no mide el impacto. Obstáculos: falta de experiencia 46,2 %, de personal calificado 42,2 %, desconocimiento 39,2 %, costos 29,2 %, incompatibilidad con los sistemas 26,1 %. Políticas pedidas: asistencia técnica 52,5 %, acceso a proveedores de IA 40,1 %. Cómo la consiguen: compran software comercial 42,7 %, desarrollo propio 35,6 %, proveedor externo especializado 20,4 % | Medida, leída completa |
+| Census Bureau, Business Trends and Outlook Survey (BTOS), mayo de 2026 | Encuesta quincenal representativa de EE. UU. | 17 % a 20 % de las empresas usa IA entre diciembre de 2025 y mayo de 2026; 37 % en las de 250 o más empleados; las de menos de 20 no crecieron | Medida |
 | Eurostat, diciembre de 2025 | Encuesta oficial, empresas de 10 o más | 20 % usa IA en 2025 (13,5 % en 2024): 17 % de las pequeñas, 55 % de las grandes | Medida, según resumen |
 | OCDE, 2025 | Más de 5.000 pymes de siete países | 31 % usa IA generativa; de las que no, 57 % dice que no sirve para su trabajo | Encuesta, según resumen |
 | McKinsey, agosto de 2026 | 1.719 participantes | 37 % le atribuye a la IA algún efecto en el resultado operativo, igual que en 2025 | Encuesta, según la prensa |
@@ -113,6 +113,8 @@ Lo que dicen juntas (inferencia): el uso ya es común, pero la pyme se queda en 
 3. **Integrar con lo que ya hay.** La incompatibilidad con los sistemas frena al 26,1 % (medida); que la pyme tenga sistemas sueltos que nadie conecta sale de encuestas flojas, como la de Getnet y Somos Pymes (54 % con terminales de cobro sin integrar a la gestión, sin método publicado).
 4. **Estimar y no sorprender**, la queja más repetida en reseñas de cinco estrellas.
 5. **Quedarse con algo propio al terminar**: documentación, traspaso, cuentas y código a nombre del cliente.
+
+Cómo se arma una propuesta que responda a esto está en [estructura de la propuesta](../../Ventas/La-propuesta/estructura-de-la-propuesta.md) y [prueba y confianza](../../Ventas/La-propuesta/prueba-y-confianza.md).
 
 > [!NOTE]
 > Sin fuente todavía: entrevistas de cambio que prueben los trabajos; una medida de adopción de IA en la pyme argentina de comercio, servicios o salud (nadIA cubre solo industria y software); quejas de clientes que se fueron (G2 y GoodFirms no se pudieron leer, Reddit tampoco); una encuesta sobre la alternativa que el cliente usaba antes. Eurostat, OCDE, McKinsey 2026, MIT, Deloitte e Intuit se leyeron por resumen de la prensa o del buscador.

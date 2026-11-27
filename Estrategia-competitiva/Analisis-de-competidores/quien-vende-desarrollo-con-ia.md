@@ -49,7 +49,7 @@ revisado:
 
 Quién vendía desarrollo de software y agentes con IA al 2026-11-27, por clase de competidor (agencias nativas de IA, consultoras grandes, nearshore, freelancers, abonos y herramientas que el cliente usa solo), con su forma de cobro, el precio que publica y las tarifas de referencia.
 
-Las clases siguen la [identificación de competidores](identificacion-de-competidores.md): directos, indirectos, sustitutos y no consumo. Son de cinco a siete jugadores por clase, elegidos para representar la clase y no para perfilarlos; el perfil a fondo se hace con el [perfil del competidor](perfil-del-competidor.md). Solo información pública, pesada como dice [fuentes públicas](fuentes-publicas.md): **publicado** es lo que se leyó en la página del jugador; **reseña**, lo que viene de un tercero (Clutch, prensa, directorios) o de un texto del jugador fuera de su sitio; **inferencia**, una lectura de esta base. Los rangos de Clutch los carga cada empresa y no están auditados. La industria en la que compiten está en [servicios de software y la IA](../Analisis-de-industria/servicios-de-software-y-la-ia.md).
+Las clases siguen la [identificación de competidores](identificacion-de-competidores.md): directos, indirectos, sustitutos y no consumo; los potenciales no se relevaron. Son de cinco a siete jugadores por clase, elegidos para representar la clase y no para perfilarlos; el perfil a fondo se hace con el [perfil del competidor](perfil-del-competidor.md). Solo información pública, con una escala más simple que la de [fuentes públicas](fuentes-publicas.md). La columna «Firmeza» dice de dónde sale cada dato: **publicado** es lo que se leyó en la página del jugador; **reseña**, lo que viene de un tercero (Clutch, prensa, directorios) o de un texto del jugador fuera de su sitio; **inferencia**, una lectura de esta base. Los rangos de Clutch los carga cada empresa y no están auditados. La industria en la que compiten está en [servicios de software y la IA](../Analisis-de-industria/servicios-de-software-y-la-ia.md).
 
 ## Casi todos venden capacidad, casi nadie un resultado con precio
 
@@ -62,8 +62,8 @@ Hoy casi todos venden capacidad: horas, personas, tokens, pedidos o conversacion
 | Fractional AI (EE. UU.) | IA generativa a medida para grandes empresas y fondos; todo lleva a una consulta | No | publicado |
 | Distyl AI (EE. UU. y Europa) | Plataforma de operaciones más servicios, para Fortune 500 reguladas | No | publicado |
 | LevelFive (Reino Unido) | Estudio de producto; presupuesto fijo por un resultado acordado, sin tarifa por día: si la IA acelera, el margen es de ellos, y el sobrecosto también | No | reseña (prensa, 2026-06-18) |
-| Ailoitte (India y EE. UU., inferencia) | «AI Velocity Pods», precio fijo, «Ship in 38 days»; «we profit when you ship faster» | No | reseña (texto propio en Product Hunt, sin verificar) |
-| Hackceleration (Francia, inferencia) | Agentes para pymes; auditoría gratis de 60 minutos, proyecto y mantenimiento mensual | Desde 2.000 € | publicado |
+| Ailoitte (India y EE. UU., país inferido) | «AI Velocity Pods», precio fijo, «Ship in 38 days»; «we profit when you ship faster» | No | reseña (texto propio en Product Hunt, sin verificar) |
+| Hackceleration (Francia, país inferido) | Agentes para pymes; auditoría gratis de 60 minutos, proyecto y mantenimiento mensual | Desde 2.000 € | publicado |
 | Duotach (Argentina) | Automatización con n8n y bots de WhatsApp para pymes de EE. UU. y LatAm; implementación y abono por 2 a 4 flujos nuevos por mes; «40–60% lower cost than US agencies» | Desde USD 1.500 según un ranking escrito por la propia empresa | publicado (oferta); reseña (piso) |
 | Deepyze (Argentina) | Agentes y automatizaciones; precio fijo en USD | Mínimo USD 1.000; USD 25–49/h | reseña (Clutch) |
 
@@ -74,7 +74,7 @@ Las chicas usan el mismo molde: un piso «desde», una auditoría gratis y despu
 | Jugador | Oferta y forma de cobro | Precio publicado | Firmeza |
 |---|---|---|---|
 | Accenture | Deja las horas por pago por resultado, por activos y por consumo; HFS estima cerca de 60 % de su trabajo a precio fijo | No | publicado (forma); reseña (60 %) |
-| Globant | AI Pods: suscripción mensual con capacidad medida en tokens desde junio de 2025; en 2026, «per million token or per output»; 45 clientes | No; Clutch: USD 25–49/h, mínimo USD 5.000 | reseña (su sitio dio 403) |
+| Globant | AI Pods: suscripción mensual con capacidad medida en tokens desde junio de 2025; en 2026, «per million token or per output» (por millón de tokens o por entregable); 45 clientes con AI Pods | No; Clutch: USD 25–49/h, mínimo USD 5.000 | reseña (su sitio dio 403) |
 | Thoughtworks | AI/works para modernizar sistemas viejos; en AWS Marketplace, talleres por fases a precio cerrado; método 3 días, 3 semanas, 3 meses | No | publicado |
 | EPAM | Servicios de IA; sigue por horas y, según analistas, migra a precio fijo | No; Clutch: USD 150–199/h, mínimo USD 100.000 | reseña |
 | Sngular (España) | Desarrollo, datos e IA; no menciona agentes | No | publicado |
@@ -85,7 +85,7 @@ Todas dicen dejar las horas y ninguna publica una cifra. Los rangos de Clutch ch
 
 ## Nearshore latinoamericano (indirectos)
 
-Alquilan personas a empresas de EE. UU. y Europa, y la IA aparece como adjetivo de la persona («AI-augmented», «AI-native engineers»), no como un resultado. BairesDev cobra por hora o por equipo (Clutch: USD 50–99/h, mínimo USD 50.000). Howdy cobra un fee dentro del costo mensual y su calculadora compara USD 120.000 al año contra USD 233.000 en EE. UU. Nortal, que compró Nearsure en julio de 2025, vende «AI Pods» con «flexible models». Distillery cobra por hora (Clutch: USD 50–99/h, mínimo USD 25.000), y Jalasoft vende staff augmentation de largo plazo. Azumo suma paquetes de prueba de concepto de IA desde USD 500 (Clutch: USD 25–49/h, mínimo USD 10.000). Lemon.io vende horas prepagas, un mes adelantado, con mínimo de 160 horas, y acepta contrataciones desde Claude Code o ChatGPT. BairesDev, Howdy, Nortal y Lemon.io son publicado en la oferta (las tarifas de BairesDev, reseña de Clutch); Distillery, Jalasoft y Azumo son reseña entera.
+Alquilan personas a empresas de EE. UU. y Europa, y la IA aparece como adjetivo de la persona («AI-augmented», «AI-native engineers»), no como un resultado. BairesDev cobra por hora o por equipo (Clutch: USD 50–99/h, mínimo USD 50.000). Howdy cobra un fee dentro del costo mensual y su comparación de costos da USD 120.000 al año por un ingeniero latinoamericano contra USD 233.000 en EE. UU. (costo para la empresa, no el salario base de la tabla de tarifas). Nortal, que compró Nearsure en julio de 2025, vende «AI Pods» con «flexible models». Distillery cobra por hora (Clutch: USD 50–99/h, mínimo USD 25.000), y Jalasoft vende staff augmentation de largo plazo. Azumo suma paquetes de prueba de concepto de IA desde USD 500 (Clutch: USD 25–49/h, mínimo USD 10.000). Lemon.io vende horas prepagas, un mes adelantado, con mínimo de 160 horas, y deja contratar desde Claude Code o ChatGPT. BairesDev, Howdy, Nortal y Lemon.io son publicado en la oferta (las tarifas de BairesDev, reseña de Clutch); Distillery, Jalasoft y Azumo son reseña entera.
 
 ## Freelancers y sus plataformas (sustitutos)
 
@@ -98,7 +98,7 @@ Alquilan personas a empresas de EE. UU. y Europa, y la IA aparece como adjetivo 
 | Malt | Freelancer 10 % la primera misión y 5 % después de seis meses con el mismo cliente; cliente de 10 a 20 % | reseña |
 | Contra | 0 % de comisión; vive de su suscripción | publicado |
 
-Sumando las dos puntas, Fiverr se queda con 25 % a 35 % y Upwork con 10 % a 20 %; Workana y Malt bajan la comisión cuando la relación se alarga, para que no se la lleven por fuera. Un trabajo puntual de automatización con n8n, Make o Zapier va de unos USD 150 a pocos miles, o de USD 60 a 200 por hora (inferencia sobre gigs y blogs).
+Sumando las dos puntas, Fiverr se queda con más de 25 % (20 % del vendedor y 5,5 % del comprador, más el fee de órdenes chicas) y Upwork, con la comisión típica del freelancer, con 13 % a 18 %; Workana y Malt bajan la comisión cuando la relación se alarga, para que no se la lleven por fuera. Un trabajo puntual de automatización con n8n, Make o Zapier va de unos USD 150 a pocos miles, o de USD 60 a 200 por hora (inferencia sobre gigs y blogs).
 
 ## Abonos y servicios empaquetados (directos en la forma)
 
@@ -126,8 +126,8 @@ Todas las publica alguien que vende; no se encontró un reporte independiente.
 
 | Lugar | Cifra | Qué es | Fuente |
 |---|---|---|---|
-| Argentina | Semi-senior USD 26/h, senior USD 41, senior fuerte USD 50 | Lo que cobra el desarrollador, no el precio al cliente | Lemon.io, calculadora de Argentina, 584 contratos, 3T 2026; otra lectura de la misma fuente no encontró cifras para Argentina, a verificar |
-| LatAm y EE. UU. | Senior: mediana USD 40/h en LatAm contra USD 68/h en EE. UU. | Lo mismo | Lemon.io, 3T 2026 |
+| Argentina | Medianas: semi-senior USD 26/h, senior USD 41/h, senior fuerte USD 50/h; la mitad central de los seniors, USD 34–45/h | Lo que cobra el desarrollador en un contrato activo, no el precio al cliente | Lemon.io, calculadora de Argentina, 584 contratos activos, 3T 2026 (leída el 2026-11-27) |
+| LatAm y EE. UU. | Senior: mediana USD 40/h en LatAm contra USD 68/h en EE. UU.; en Argentina, 9 % debajo de la mediana senior de toda la red (USD 45/h) | Lo mismo | Lemon.io, 3T 2026 |
 | LatAm | Junior USD 33–45/h, senior USD 60–75/h; bajaron 7,1 % en 2025 | Tarifa de empresa al cliente | Accelerance, noviembre de 2025 |
 | Europa | Senior USD 64–76/h | Tarifa de empresa al cliente | Accelerance |
 | Mercado general | La mayoría de las firmas listadas cobra USD 24–49/h | Tarifa de empresa al cliente | Clutch, junio de 2026 |
@@ -135,6 +135,8 @@ Todas las publica alguien que vende; no se encontró un reporte independiente.
 | LatAm | Senior USD 57.000–75.000 al año contra unos USD 165.000 en EE. UU.; perfiles de IA, 10 % a 20 % más | Salario base, proyección | Howdy, 2026 |
 
 ## Seis formas de cobro, de la más común a la más rara
+
+Quién carga el riesgo en cada forma está en [modelos de contrato y cobro](../../Desarrollo/Encargo/modelos-de-contrato-y-cobro.md), y cómo usar el precio de un rival sin copiarlo, en [precios de la competencia](../../Producto/Monetizacion/precios-de-la-competencia.md).
 
 1. Por hora o por persona por mes: el nearshore, las grandes y los freelancers.
 2. Proyecto con piso o con rango, después de una auditoría gratis: las agencias chicas y los MVP.
@@ -151,7 +153,7 @@ Es inferencia sobre lo relevado, no un dato de mercado:
 
 - **Un resultado medido con precio a la vista.** Muchos dicen «outcome-based» y nadie publica cuánto cuesta un resultado ni cómo se mide.
 - **El riesgo del alcance.** Los de precio fijo no cuentan qué pasa cuando el alcance cambia, y los de consumo le dejan al cliente un costo que no puede prever.
-- **Una oferta en castellano para la pyme**, entre la herramienta de USD 25 por mes, que exige criterio propio, y la consultora con mínimos de USD 50.000 a 100.000. Las que hay son nichos: un chatbot de WhatsApp o un piso de agencia.
+- **Una oferta en castellano para la pyme**, entre la herramienta de USD 25 por mes, que exige criterio propio, y la consultora o el nearshore, con mínimos de proyecto declarados en Clutch de USD 5.000 a 100.000. Las que hay son nichos: un chatbot de WhatsApp o un piso de agencia.
 - **Medir el impacto.** Ningún jugador relevado vende la medición como parte de la oferta.
 
 > [!NOTE]

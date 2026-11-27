@@ -83,11 +83,11 @@ Copia del 2026-11-27, de las presentaciones ante la SEC de cada empresa. Los ing
 | Empresa | Margen bruto | Margen operativo | Ingreso por persona |
 |---|---|---|---|
 | Globant, 2025 | 35,0 % (37,9 % ajustado) | 7,0 % (15,2 % ajustado) | Cerca de USD 85 mil |
-| EPAM, 2025 | Cerca de 28,8 % (calculado) | 9,5 % (15,2 % ajustado) | Cerca de USD 87 mil |
+| EPAM, 2025 | Cerca de 28,8 % (calculado, antes de depreciación) | 9,5 % (15,2 % ajustado) | Cerca de USD 87 mil |
 | Accenture, ejercicio 2026 | 32,0 % | 15,4 % | Cerca de USD 91 mil |
-| Endava, 3T del ejercicio 2026 | Cerca de 18,6 % (calculado) | 1,8 % antes de impuestos, ajustado | Cerca de GBP 64 mil |
+| Endava, 3T del ejercicio 2026 | Cerca de 18,6 % (calculado) | 1,8 % antes de impuestos, ajustado | Cerca de GBP 64 mil (el trimestre, anualizado) |
 
-Endava avisó en octubre de 2026 que sus cifras del ejercicio 2026 «should no longer be relied upon», por una investigación de su comité de auditoría. Globant dice que sus AI Pods dejan entre 45 % y 60 % de margen bruto, contra 38 % de su negocio de siempre; es un dicho de la gerencia, no una cifra auditada por línea.
+Endava avisó en octubre de 2026 que sus estados de los trimestres del 1T al 3T del ejercicio 2026, el de esta tabla incluido, «should no longer be relied upon», por una investigación de su comité de auditoría. Globant dice que sus AI Pods dejan entre 45 % y 60 % de margen bruto, contra 38 % de su margen bruto promedio (llamada del 4T 2025); es un dicho de la gerencia, no una cifra auditada por línea.
 
 ## Margen y valuación por industria, Damodaran, enero de 2026
 

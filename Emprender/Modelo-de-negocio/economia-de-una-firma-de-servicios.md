@@ -17,7 +17,7 @@ fuentes:
   - "Certinia, Analyzing the 2026 SPI Research Professional Services Maturity Benchmark: https://www.certinia.com/blog/analyzing-the-2026-spi-research-professional-services-maturity-benchmark-report/"
   - "Ron Baker, Tomorrow's firm and the role of value pricing, entrevista en IFAC (2013-02-28), según resumen: https://www.ifac.org/news-events/2013-02/tomorrow-s-firm-and-role-value-pricing"
   - "SPI Research, Professional Services Maturity Benchmark 2026 (comunicado, 2026-02-24): https://www.einpresswire.com/article/894826291/"
-  - "EPAM, 8-K con resultados de 2025: https://www.sec.gov/Archives/edgar/data/1352010/000135201026000010/exhibit99_q4x2025.htm"
+  - "EPAM, ficha del 4T 2025 (utilización del año 2025): https://s202.q4cdn.com/436759741/files/doc_financials/2025/q4/EPAM-Fact-Sheet-Q4-2025.pdf"
   - "Endava, transcripción de la llamada del 3T del ejercicio 2026: https://www.fool.com/earnings/call-transcripts/2026/05/21/endava-dava-q3-2026-earnings-transcript/"
   - "Dell'Acqua y otros (2023), Navigating the Jagged Technological Frontier, HBS Working Paper 24-013: https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf"
   - "Brynjolfsson, Chandar y Chen, Canaries in the Coal Mine, Stanford Digital Economy Lab (revisión del 2026-08-12), según su página: https://digitaleconomy.stanford.edu/publications/canaries-in-the-coal-mine"
