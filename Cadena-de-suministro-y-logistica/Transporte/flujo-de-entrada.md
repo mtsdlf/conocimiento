@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El flujo de entrada (inbound) es la parte de la logística que lleva lo comprado desde que sale del proveedor hasta que llega al muelle del comprador: planificar qué va a llegar y cuándo, decidir quién contrata el flete, seguir el viaje, darle turno al camión y medir si las entregas llegan como se pactó. Termina donde empieza la recepción del depósito.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, Cross Industry, versión 7.4 (© 2024), 4.4.2 «Plan and manage inbound material flow» (ID 20936) y sus actividades 4.4.2.1 a 4.4.2.5, 4.4.3.2, 4.4.4 y 4.2.3.5 a 4.2.3.7 (leído en esas partes): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/flujo-de-entrada.md y flujo-de-entrada-2.md (2026-11-27)"
 aliases: [flujo de entrada, logística de entrada, inbound logistics, inbound material flow, flujo de materiales de entrada, transporte de entrada, inbound transportation, flete de entrada, inbound freight, arribo esperado, llegada esperada, expected receipt, turno de muelle, turno de descarga, dock appointment, dock appointment scheduling, ventana de descarga, time slot, aviso de despacho, despatch advice, DESADV, ASN, advance ship notice, detención, detention, tiempo de permanencia, dwell time, costo de llegada, landed cost, costo puesto en depósito, desempeño de las entregas entrantes, inbound delivery performance]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Flujo de entrada

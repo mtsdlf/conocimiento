@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La cobranza documentaria es el medio de pago en que el exportador le entrega los documentos de embarque a su banco para que, a través de un banco en el país del importador, se los suelte al importador solo contra el pago (D/P) o contra la aceptación de una letra a plazo (D/A). Los bancos manejan los papeles pero no se comprometen a pagar: es más barata que la carta de crédito y más riesgosa para el exportador.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ICC Digital Library, Uniform Rules for Collections, 1995 Revision, ICC Publication No. 522 (URC 522), arts. 1 a 26 (según el extracto; no se leyó entero): https://library.iccwbo.org/content/tfb/RULES/tfb-urc522-rules.htm"
@@ -10,7 +10,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/carta-de-credito.md, componente 2 (2026-11-27)"
 aliases: [cobranza documentaria, cobranza documentada, documentary collection, D/C, URC 522, Uniform Rules for Collections, reglas uniformes para las cobranzas, documentos contra pago, documents against payment, D/P, cash against documents, CAD, documentos contra aceptación, documents against acceptance, D/A, letra de cambio, bill of exchange, draft, giro, banco remitente, remitting bank, banco cobrador, collecting bank, banco presentador, presenting bank, girado, drawee, cobranza simple, clean collection, eURC]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cobranza documentaria

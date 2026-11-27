@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los medios de pago del comercio exterior son las formas de cancelar una compraventa internacional, y se ordenan por quién corre el riesgo de quedarse sin la plata o sin la mercadería: del pago anticipado, que lo carga el importador, a la cuenta abierta y la consignación, que lo carga el exportador, con la carta de crédito y la cobranza documentaria en el medio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "International Trade Administration (EE. UU.), Trade Finance Guide: A Quick Reference for U.S. Exporters, marzo de 2021, caps. 2 a 6 (leídos; el gráfico de riesgo es una imagen y no se pudo leer): https://www.trade.gov/sites/default/files/2021-03/Trade%20Finance%20Guide%20Updated%20030421%20FINAL.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/carta-de-credito.md, componente 2 (2026-11-27)"
 aliases: [medios de pago del comercio exterior, medios de pago internacionales, formas de pago internacionales, methods of payment, international payment methods, pago anticipado, cash in advance, prepayment, cuenta abierta, open account, consignación, consignment, condiciones de pago internacionales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Medios de pago del comercio exterior

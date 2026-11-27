@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la Argentina, pagar una importación o cobrar una exportación pasa por el mercado de cambios y por las reglas del texto ordenado «Exterior y cambios» del BCRA: el banco da acceso para pagar bienes con registro aduanero desde ese registro y contra la factura y el documento de transporte, los anticipos quedan en seguimiento hasta que entra la mercadería, y los cobros de exportación se ingresan y liquidan en plazos fijos. La carta de crédito aparece solo como obligación del banco que la emitió.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "BCRA, texto ordenado Exterior y cambios, al 26/11/2026 (última comunicación incorporada: A 8512), leído en los puntos 3.1, 3.15, 4.4, 7.1 a 7.10, 8.1 a 8.3, 9.1 a 9.8, 10.1 a 10.11, 11.1, 11.2 y 13.5, y barrido por palabra clave: https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-excbio.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/pagos-del-comercio-exterior-en-argentina.md, -2.md y -3.md (2026-11-27)"
 aliases: [pagos del comercio exterior en Argentina, pago de importaciones en Argentina, cobro de exportaciones en Argentina, acceso al mercado de cambios, MLC, mercado libre de cambios, Exterior y cambios, texto ordenado Exterior y cambios, SEPAIMPO, seguimiento de pagos de importaciones, SECOEXPO, seguimiento de cobros de exportaciones, entidad de seguimiento, oficialización de importación, registro de ingreso aduanero, pago anticipado de importaciones, liquidación de divisas, ingreso y liquidación de cobros de exportación, BOPREAL, carta de crédito en Argentina, art. 1802 CCyC, garantía a primera demanda, art. 1810 CCyC]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pagos del comercio exterior en la Argentina

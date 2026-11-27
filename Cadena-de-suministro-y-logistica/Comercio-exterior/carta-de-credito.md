@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La carta de crédito (crédito documentario) es el compromiso irrevocable de un banco, pedido por el importador, de pagarle al exportador si este presenta los documentos que el crédito exige y en los plazos que fija. El banco mira solo los papeles, no la mercadería, y las reglas que el crédito adopta cuando lo dice son las UCP 600 de la Cámara de Comercio Internacional.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ICC, Uniform Customs and Practice for Documentary Credits, 2007 Revision, ICC Publication no. 600 (UCP 600), copia pública de la Facultad de Derecho de la Universidad de Atenas (leídos el prólogo y los arts. 1 a 8, 14 a 18, 20, 28 y 38; el resto no): https://eclass-b.uoa.gr/modules/document/file.php/LAW1023/UCP%20600.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "Cadena-de-suministro-y-logistica/.investigacion/carta-de-credito.md, componente 1 (2026-11-27)"
 aliases: [carta de crédito, crédito documentario, documentary credit, letter of credit, LC, L/C, UCP 600, Uniform Customs and Practice for Documentary Credits, reglas y usos uniformes, ISBP, ISBP 821, International Standard Banking Practice, eUCP, presentación conforme, complying presentation, discrepancia, discrepancy, banco emisor, issuing bank, banco confirmador, confirming bank, banco avisador, advising bank, banco nominado, nominated bank, ordenante, applicant, beneficiario, beneficiary, carta de crédito confirmada, confirmed letter of credit, carta de crédito transferible, transferable credit, carta de crédito stand-by, standby letter of credit, SBLC, ISP98, carta de crédito rotativa, revolving letter of credit, pago diferido, deferred payment, aceptación, acceptance, negociación, negotiation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Carta de crédito
