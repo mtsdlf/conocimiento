@@ -4,7 +4,7 @@ resumen: >-
   tiempo para pensar sin perder la palabra, cómo se sale de un hueco de vocabulario y cómo se
   repara un malentendido. La estudian dos campos distintos: el análisis de la conversación y la
   investigación sobre estrategias de comunicación.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Sacks, Schegloff y Jefferson (1974), A simplest systematics for the organization of turn-taking for conversation, Language 50(4), 696-735: https://muse.jhu.edu/article/452679/summary"
@@ -19,7 +19,7 @@ aliases:
   - Communication strategies
   - Repair
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Interacción

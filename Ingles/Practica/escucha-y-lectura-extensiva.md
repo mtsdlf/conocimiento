@@ -3,7 +3,7 @@ resumen: >-
   La escucha y la lectura extensivas son consumir mucho material en inglés que se entiende casi
   entero, elegido por interés y para entender, no para estudiar; tienen metaanálisis con efecto
   medio sobre la comprensión, menor de lo que se creía cuando se corrige el sesgo de selección.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Jeon y Day (2016), Reading in a Foreign Language 28(2), 246-265: https://nflrc.hawaii.edu/rfl/item/354"
@@ -18,7 +18,7 @@ aliases:
   - Lectura extensiva
   - Escucha extensiva
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escucha y lectura extensiva

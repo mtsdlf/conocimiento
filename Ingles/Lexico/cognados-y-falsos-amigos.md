@@ -5,7 +5,7 @@ resumen: >-
   significan otra cosa (actually no es actualmente). Los cognados dan al hispanohablante miles de
   palabras regaladas, con dos costos: los falsos amigos y un registro más formal que el de su
   equivalente germánico.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Lubliner y Hiebert (2011), cognados en listas de vocabulario general y académico, Bilingual Research Journal 34, 76-93: https://textproject.org/wp-content/uploads/2022/07/Lubliner-Hiebert.pdf"
@@ -22,7 +22,7 @@ aliases:
   - Falsos cognados
   - Registro latino y germánico
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cognados y falsos amigos

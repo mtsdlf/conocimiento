@@ -3,7 +3,7 @@ resumen: >-
   El léxico es lo que se sabe de las palabras y de las combinaciones de palabras del inglés: cómo
   suenan y se escriben, qué significan, con qué otras palabras van y en qué registro se usan. De B2
   a C1 crece la cantidad de palabras, pero sobre todo lo que se sabe de cada una.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Nation, Learning Vocabulary in Another Language (3.ª ed., 2022), cap. Knowing a word (no leído; vía ficha del capítulo): https://resolve.cambridge.org/core/books/abs/learning-vocabulary-in-another-language/knowing-a-word/CF9A438E46A7C529DD640066FCC06714"
@@ -17,7 +17,7 @@ aliases:
   - Vocabulary
   - Lexis
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Léxico

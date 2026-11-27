@@ -3,7 +3,7 @@ resumen: >-
   La meseta intermedia es el estancamiento de quien ya se hace entender en inglés y deja de mejorar;
   es un diagnóstico de la práctica docente, no un hallazgo, y no hay evidencia directa de qué la
   destraba.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Richards, Moving Beyond the Plateau (2008), folleto completo: https://professorjackrichards.com/wp-content/uploads/moving-beyond-the-plateau.pdf"
@@ -22,7 +22,7 @@ aliases:
   - Fosilización
   - Estabilización
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Meseta intermedia

@@ -3,7 +3,7 @@ resumen: >-
   El entrenamiento perceptivo enseña a oír diferencias de sonido que el castellano no distingue,
   escuchando muchas voces, eligiendo qué se oyó y recibiendo la respuesta correcta; es la técnica
   con más evidencia de la práctica, más fuerte para percibir que para pronunciar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Uchihara, Karas y Thomson (2025), HVPT y percepción L2 (79 estudios), SSLA 47, 794-827: https://www.cambridge.org/core/product/6ABB8C1F32D88D53EA8D05A4565E76F6/core-reader"
@@ -19,7 +19,7 @@ aliases:
   - Pares mínimos
   - Minimal pairs
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Entrenamiento perceptivo

@@ -4,7 +4,7 @@ resumen: >-
   se suaviza lo que puede incomodar al otro: un pedido, una crítica, un desacuerdo. El inglés
   espera pedidos más indirectos y más matizados que el castellano rioplatense, y la traducción
   literal suena brusca aunque la gramática esté bien.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Blum-Kulka, House y Kasper (1989), Cross-Cultural Pragmatics: Requests and Apologies (CCSARP), vía resumen de CARLA: https://archive.carla.umn.edu/speechacts/requests/spanish.html"
@@ -26,7 +26,7 @@ aliases:
   - Hedging
   - Atenuación
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registro y cortesía

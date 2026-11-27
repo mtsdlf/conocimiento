@@ -3,7 +3,7 @@ resumen: >-
   El shadowing es repetir en voz alta un audio en inglés casi al mismo tiempo que se lo escucha;
   hay indicios de que mejora la comprensibilidad, la fluidez y la prosodia, pero la evidencia es
   débil y los resultados sobre el acento y los sonidos sueltos son mixtos o inconclusos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Foote y McDonough (2017), Using shadowing with mobile technology to improve L2 pronunciation, Journal of Second Language Pronunciation 3(1), 34-56: https://www.jbe-platform.com/content/journals/10.1075/jslp.3.1.02foo"
@@ -15,7 +15,7 @@ fuentes:
 aliases:
   - Sombra
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Shadowing

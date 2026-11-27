@@ -4,7 +4,7 @@ resumen: >-
   con significado propio, a menudo imposible de adivinar por las partes: give up, find out, put
   off. Unos pocos cubren la mitad del uso, pero cada uno tiene varios sentidos, y esa polisemia es
   la dificultad real.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gardner y Davies (2007), Pointing out frequent phrasal verbs: a corpus-based analysis, TESOL Quarterly 41(2), 339-359: https://www.mark-davies.org/articles/davies_31.pdf"
@@ -17,7 +17,7 @@ aliases:
   - Verbos frasales
   - Verbos con partícula
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Phrasal verbs

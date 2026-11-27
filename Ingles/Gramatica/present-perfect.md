@@ -3,7 +3,7 @@ resumen: >-
   El present perfect (have + participio) presenta algo pasado desde el ahora: una experiencia, un
   resultado que sigue, algo que empezó antes y continúa, o algo dentro de un período abierto; el
   pasado simple, en cambio, lo ubica en un momento terminado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Araújo (2019), el pretérito perfecto en Buenos Aires, Revista Linguística 15(2): https://revistas.ufrj.br/index.php/rl/article/download/21330/18977/88850"
@@ -16,7 +16,7 @@ aliases:
   - Pretérito perfecto compuesto
   - Present perfect simple
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Present perfect

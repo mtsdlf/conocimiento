@@ -3,7 +3,7 @@ resumen: >-
   La gramática de B2 a C1/C2 es sobre todo más control y precisión sobre formas que ya se
   conocen: elegir bien el tiempo, el aspecto y el modal, el artículo y el orden de la oración en
   tiempo real, y sumar unas pocas construcciones para dar énfasis y registro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Consejo de Europa, MCER Companion Volume, escala Grammatical accuracy (extracto 2018, págs. 131-134): https://cefr.schools.ac.cy/downloads/CEFR-Companion%20Volume%20with%20new%20descriptors%20-%202018-56-162.pdf"
@@ -19,7 +19,7 @@ aliases:
   - Gramática inglesa
   - English grammar
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gramática

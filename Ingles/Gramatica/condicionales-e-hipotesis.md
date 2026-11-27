@@ -3,7 +3,7 @@ resumen: >-
   El inglés expresa lo hipotético y lo irreal corriendo los verbos un paso hacia el pasado (if I
   had, if I had had) y poniendo would en la consecuencia; la misma marca aparece en wish, if only,
   it's time y would rather, donde el castellano usa subjuntivo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Swan, Practical English Usage (4.ª ed., OUP 2016): https://eltpreprod.oup.com/catalogue/items/global/grammar_vocabulary/practical_english_usage_4th_edition"
@@ -17,7 +17,7 @@ aliases:
   - Condicionales
   - Unreal past
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Condicionales e hipótesis

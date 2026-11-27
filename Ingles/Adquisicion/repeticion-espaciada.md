@@ -3,7 +3,7 @@ resumen: >-
   La repetición espaciada es repasar lo estudiado en sesiones separadas por intervalos, recuperándolo
   de memoria en vez de releerlo; retiene mejor que concentrar el estudio, y la evidencia en idiomas
   es casi toda de vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kim y Webb (2022), metaanálisis de práctica espaciada en L2, Language Learning 72(1): https://doi.org/10.1111/lang.12479 (abstract)"
@@ -22,7 +22,7 @@ aliases:
   - Retrieval practice
   - Práctica de recuperación
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Repetición espaciada

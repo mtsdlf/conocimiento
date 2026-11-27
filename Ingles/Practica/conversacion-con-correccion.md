@@ -3,7 +3,7 @@ resumen: >-
   La conversación con corrección es hablar inglés con un tutor o un compañero de tándem que señala
   los errores; la corrección oral tiene efecto duradero, y la que pide reformular rinde más que la
   que solo repite la forma correcta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lyster y Saito (2010), Oral feedback in classroom SLA, SSLA 32, 265-302: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/oral-feedback-in-classroom-sla/4999EE1C8379B2BF026B148EAF373CA1"
@@ -16,7 +16,7 @@ aliases:
   - Language exchange
   - Intercambio de idiomas
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conversación con corrección

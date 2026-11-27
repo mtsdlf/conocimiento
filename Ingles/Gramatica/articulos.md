@@ -4,7 +4,7 @@ resumen: >-
   para lo general en plural o incontable; el hispanohablante transfiere bien lo definido y lo
   indefinido, y falla sobre todo en los genéricos, donde el castellano pone el/la y el inglés no
   pone artículo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ionin, Montrul y Crivos (2013), interpretación de plurales en inglés y español, Applied Psycholinguistics 34(3): https://cambridge.org/core/journals/applied-psycholinguistics/article/bidirectional-study-on-the-acquisition-of-plural-noun-phrase-interpretation-in-english-and-spanish/19F32790A129950D989EF3CA0366A49E"
@@ -18,7 +18,7 @@ aliases:
   - Artículos en inglés
   - Generic reference
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Artículos

@@ -4,7 +4,7 @@ resumen: >-
   sentido: cómo se conectan las ideas, en qué orden se presentan, qué tono se elige según con quién
   se habla y cómo se reparten los turnos. Es lo que hace que alguien con buena gramática suene
   claro o suene traducido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Consejo de Europa, MCER Companion Volume (2020), escalas de competencia pragmática, pp. 138-140 (vía resumen; el PDF dio 403): https://rm.coe.int/16809ea0d4"
@@ -22,7 +22,7 @@ aliases:
   - Pragmática
   - Conectar ideas
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Discurso

@@ -4,7 +4,7 @@ resumen: >-
   remiten a algo ya dicho, palabras que se omiten porque se sobreentienden y conectores que dicen
   la relación entre ideas. En inglés, el habla usa marcadores cortos (well, so, I mean) y la
   escritura conectores más formales (however, therefore), y confundirlos suena raro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Halliday y Hasan (1976), Cohesion in English, Longman (vía resumen): https://en.wikipedia.org/wiki/Cohesion_(linguistics)"
@@ -21,7 +21,7 @@ aliases:
   - Discourse markers
   - Marcadores del discurso
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conectores y cohesión

@@ -3,7 +3,7 @@ resumen: >-
   La automatización es el paso de saber una regla del inglés a usarla rápido y sin pensar, a fuerza
   de práctica; según la teoría de adquisición de habilidades de DeKeyser, va de lo declarativo a lo
   procedimental y se automatiza solo lo que se practica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "DeKeyser (1997), Beyond explicit rule learning, SSLA: https://doi.org/10.1017/s0272263197002040 (abstract)"
@@ -19,7 +19,7 @@ aliases:
   - Skill acquisition theory
   - Teoría de adquisición de habilidades
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Automatización

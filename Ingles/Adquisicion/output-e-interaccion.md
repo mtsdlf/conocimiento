@@ -3,7 +3,7 @@ resumen: >-
   Producir inglés y negociar el significado con otro hace notar lo que todavía no se sabe decir;
   es lo que propusieron Swain (output), Long (interacción) y Schmidt (noticing) para completar lo
   que el input solo no da.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Richards, Moving Beyond the Plateau (2008), secciones sobre noticing y output: https://professorjackrichards.com/wp-content/uploads/moving-beyond-the-plateau.pdf"
@@ -20,7 +20,7 @@ aliases:
   - Pushed output
   - Negociación del significado
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Output e interacción

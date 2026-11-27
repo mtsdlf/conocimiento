@@ -4,7 +4,7 @@ resumen: >-
   utilidad se mide por la cobertura, el porcentaje de palabras de un texto que el lector conoce.
   Para entender un texto sin ayuda hacen falta entre 95 y 98% de cobertura, y cuántas familias da
   eso es lo que los estudios discuten.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Nation (2006), How large a vocabulary is needed for reading and listening?, Canadian Modern Language Review 63(1), 59-82 (vía resumen; el PDF dio 403): https://www.wgtn.ac.nz/__data/assets/pdf_file/0018/1626120/2006-How-large-a-vocab.pdf"
@@ -21,7 +21,7 @@ aliases:
   - Cobertura léxica
   - Lexical coverage
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Amplitud de vocabulario

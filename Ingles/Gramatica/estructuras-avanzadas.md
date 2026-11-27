@@ -3,7 +3,7 @@ resumen: >-
   La inversión, las cleft sentences y los relativos son las construcciones con que el inglés
   avanzado da énfasis, ordena la información y sube el registro, donde el castellano movería las
   palabras o usaría lo que.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "British Council LearnEnglish, Emphasis: cleft sentences, inversion and auxiliaries (C1): https://learnenglish.britishcouncil.org/free-resources/grammar/c1/emphasis-cleft-sentences-inversion-auxiliaries"
@@ -18,7 +18,7 @@ aliases:
   - Cleft sentences
   - Relative clauses
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estructuras avanzadas

@@ -3,7 +3,7 @@ resumen: >-
   La edad de inicio, la aptitud y la motivación explican por qué dos adultos con el mismo esfuerzo
   llegan a lugares distintos; empezar de adulto pone un techo al parecido con un nativo, pero no
   impide llegar a C1 o C2.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hartshorne, Tenenbaum y Pinker (2018), Cognition 177, 263-277, nota del MIT: https://news.mit.edu/2018/cognitive-scientists-define-critical-period-learning-language-0501"
@@ -24,7 +24,7 @@ aliases:
   - Aptitud
   - Age of onset
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Edad y diferencias individuales

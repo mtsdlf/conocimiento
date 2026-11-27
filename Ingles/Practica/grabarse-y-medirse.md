@@ -3,7 +3,7 @@ resumen: >-
   Grabarse y medirse es registrar el propio inglés hablado con una tarea fija y compararlo en el
   tiempo según complejidad, exactitud y fluidez; es la técnica con menos evidencia de la práctica
   como forma de mejorar, pero sirve como forma simple de ver si algo avanza.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Tavakoli y Skehan (2005), en Ellis (ed.), Planning and Task Performance in a Second Language, 239-277, vía resumen: https://eprints.whiterose.ac.uk/105129/1/Wright%20%26%20Tavakoli%20IRAL%20Intro%20author-final.pdf"
@@ -18,7 +18,7 @@ aliases:
   - Self-recording
   - Autoevaluación
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Grabarse y medirse
