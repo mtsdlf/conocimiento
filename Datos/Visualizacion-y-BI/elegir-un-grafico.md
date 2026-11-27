@@ -28,7 +28,9 @@ marca visual que el ojo compara con más precisión, sin deformar las proporcion
 Es la primera decisión de forma en [Visualización y BI](visualizacion-y-bi.md), y vale igual para un
 [tablero](tablero.md) que para una presentación de [contar con datos](contar-con-datos.md). El
 gráfico viene después de la pregunta: si no se sabe qué comparación tiene que hacer quien mira, no
-hay gráfico correcto. Cómo se formula esa pregunta está en [pregunta de análisis](../Analisis/pregunta-de-analisis.md).
+hay gráfico correcto. Cómo se formula esa pregunta está en [pregunta de análisis](../Analisis/pregunta-de-analisis.md), y
+cómo se arma cada gráfico dentro de Excel o Google Sheets, en
+[gráficos en la planilla](../../Planillas-de-calculo/Analisis/graficos-en-la-planilla.md).
 
 ## Primero la relación, después el gráfico
 

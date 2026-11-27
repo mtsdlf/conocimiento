@@ -21,7 +21,11 @@ Lo propuso Edgar F. Codd en 1970, y casi toda base de una aplicación lo sigue (
 registro original del que parte el análisis, y la que se consulta con
 [SQL](../Analisis/sql-para-analisis.md). Dentro de
 [modelado y almacenamiento](modelado-y-almacenamiento.md) es la segunda decisión, antes del
-[modelado dimensional](modelado-dimensional.md), que reordena estas tablas para analizar.
+[modelado dimensional](modelado-dimensional.md), que reordena estas tablas para analizar. Del lado
+de quien construye el sistema, la [base relacional](../../Bases-de-datos/Modelos-de-datos/base-relacional.md)
+del tema Bases de datos cuenta cómo la base hace cumplir estas reglas y cuándo conviene otro modelo,
+y [definir tablas](../../Bases-de-datos/SQL/definir-tablas.md) cómo se crean las tablas con sus
+claves y restricciones.
 
 ## De la planilla a las tablas
 

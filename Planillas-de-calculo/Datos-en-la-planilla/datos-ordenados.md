@@ -24,17 +24,22 @@ para que las fórmulas, los filtros y las tablas dinámicas funcionen sin prepar
 ## Las dos versiones de la regla: Wickham y Broman y Woo
 
 La regla tiene dos formulaciones que se complementan. Wickham (2014) define un modelo de datos para
-analizar: "Each variable is a column, each observation is a row, and each type of observational unit
-is a table." La *table* de Wickham es una tabla en sentido de datos (un conjunto de filas y
-columnas), no la [tabla estructurada](tabla-estructurada.md) de Excel. Broman y Woo (2018) dan reglas de práctica para quien carga en la planilla. La primera
-dice qué forma tienen que tener los datos; la segunda, cómo no estropearlos al escribirlos.
+analizar, con tres reglas: cada variable es una columna, cada observación una fila y cada tipo de
+unidad observada una tabla. Su enunciado literal y los cinco problemas que más la rompen están en
+[limpieza de datos](../../Datos/Analisis/limpieza-de-datos.md#datos-ordenados-una-variable-una-columna),
+del tema Datos, junto con el resto de la limpieza (faltantes, duplicados, atípicos). La *table* de
+Wickham es una tabla en sentido de datos (un conjunto de filas y columnas), no la
+[tabla estructurada](tabla-estructurada.md) de Excel. Broman y Woo (2018) dan reglas de práctica
+para quien carga en la planilla. La primera dice qué forma tienen que tener los datos; la segunda,
+cómo no estropearlos al escribirlos.
 
 Las prácticas de Broman y Woo que más pesan en un negocio chico:
 
 - **Una cosa por celda.** "The cells in your spreadsheet should each contain one piece of data.
   Don't put more than one thing in a cell." "500 g" son dos datos: el número va en la celda y la
   unidad, según Broman y Woo, no va en el nombre de la columna (que queda, en su ejemplo,
-  `body_weight`) sino en un diccionario de datos aparte: una hoja que dice, para cada columna, qué
+  `body_weight`) sino en un [diccionario de datos](../../Datos/Gobierno-y-calidad/metadatos-y-linaje.md)
+  aparte: una hoja que dice, para cada columna, qué
   guarda y en qué unidad.
 - **Un solo rectángulo.** "The best layout for your data within a spreadsheet is as a single big
   rectangle." Nada de un bloque de ventas de enero y otro de febrero separados por filas vacías.
@@ -56,7 +61,8 @@ con una [función de búsqueda](../Formulas/funciones-de-busqueda.md).
 
 ## Un caso: las ventas por mes como columnas
 
-La forma más común de romper la regla es la planilla "ancha", hecha para leer y no para calcular:
+La forma más común de romper la regla es la planilla "ancha", hecha para leer y no para calcular. Es
+el primero de los problemas de Wickham, encabezados que son valores y no nombres de variables:
 
 | Producto | Ene | Feb | Mar |
 |---|---|---|---|

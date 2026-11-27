@@ -89,7 +89,8 @@ Karwin dedica un capítulo de *SQL Antipatterns* a este tema, "Fear of the Unkno
 antipatrón "Treat NULL as an ordinary value, or the reverse" y la solución "Use NULL as a unique
 value". Lo práctico que sale de ahí (inferencia propia, porque del libro solo se leyó la tabla de
 capítulos): no usar valores de relleno como `0` o `''` para decir "no sé", y no usar NULL para algo
-que sí se sabe.
+que sí se sabe. Qué hace un analista con los faltantes de una tabla, y por qué depende de por qué
+faltan, está en [limpieza de datos](../../Datos/Analisis/limpieza-de-datos.md#por-qué-falta-un-dato-importa-más-que-cuántos-faltan).
 
 ## El dinero va en numeric
 

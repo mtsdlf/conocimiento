@@ -28,7 +28,11 @@ herramienta con la que casi todo negocio empieza. Esa misma libertad es su riesg
 acepta cualquier cosa, y nada avisa si una fórmula apunta a la fila equivocada. El tema se ocupa de
 las dos caras. Cuando la planilla deja de alcanzar, la salida está en
 [cuándo pasar a una base](cuando-pasar-a-una-base.md) y en el tema [Bases de datos](../Bases-de-datos/bases-de-datos.md).
-El análisis de datos en general (estadística, visualización, tableros) está en [Datos](../Datos/datos.md).
+El análisis de datos en general está en [Datos](../Datos/datos.md): limpiar una tabla en
+[limpieza de datos](../Datos/Analisis/limpieza-de-datos.md), qué gráfico elegir en
+[elegir un gráfico](../Datos/Visualizacion-y-BI/elegir-un-grafico.md), los tableros en
+[tablero](../Datos/Visualizacion-y-BI/tablero.md) y lo que se puede concluir de un número en
+[Estadística](../Datos/Estadistica/estadistica.md).
 
 ## De qué está hecha una planilla que funciona
 

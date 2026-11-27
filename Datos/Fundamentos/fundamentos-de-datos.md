@@ -128,7 +128,11 @@ infografías de DAMA; el libro es pago.
 ## Qué falta en Fundamentos
 
 No hay glosario ni nota de escuelas: las disputas de modelado (Kimball, Inmon, Data Vault) viven en
-su vertical. La cronología se apoya en una sola secundaria. La lista de áreas de DAMA no se cotejó
+su vertical. Los términos de la base y de SQL (tabla, fila, clave, NULL, join) se definen en el
+[glosario de bases de datos](../../Bases-de-datos/Fundamentos/glosario-de-bases-de-datos.md), y los
+de la planilla, en el [glosario de planillas](../../Planillas-de-calculo/Fundamentos/glosario-de-planillas.md);
+el grano, que no está en ninguno de los dos, en
+[SQL para análisis](../Analisis/sql-para-analisis.md#el-grano-qué-es-una-fila). La cronología se apoya en una sola secundaria. La lista de áreas de DAMA no se cotejó
 con el libro, y el capítulo 2 de Reis y Housley no se pudo abrir: sus etapas están confirmadas por el
 autor, no por el texto. Falta también qué se pide en los avisos de trabajo en Argentina (ver
 [roles de datos](roles-de-datos.md#el-hueco-del-mercado-argentino)).

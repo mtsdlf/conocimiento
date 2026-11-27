@@ -59,6 +59,10 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Datos](Datos/datos.md) — el recorrido del dato hasta una decisión: modelado y almacenamiento, ingesta, gobierno y calidad
   (con privacidad en Argentina), análisis, estadística, analítica de producto y visualización; con rutas para aprender Data Analytics.
 
+## Idiomas
+
+- [Inglés](Ingles/ingles.md) — pasar del intermedio-alto al avanzado siendo hispanohablante: cómo aprende un adulto, pronunciación, gramática, léxico, discurso y práctica, con la evidencia de cada técnica; con Ruta.
+
 ## Deporte
 
 - [Golf](Golf/golf.md) — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
@@ -70,6 +74,10 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Estrategia competitiva](Estrategia-competitiva/estrategia-competitiva.md) — por qué una industria rinde lo que rinde, de dónde sale una ventaja que dura, cómo se mueven los rivales y cómo se analiza a los competidores antes de diseñar un producto, con su evidencia.
 - [Ventas](Ventas/ventas.md) — del problema del cliente al acuerdo: descubrimiento y calificación, la propuesta y el precio, objeciones y negociación, formas de vender y medición comercial, con la poca evidencia independiente que tienen los métodos dicha en cada nota.
 - [Planillas de cálculo](Planillas-de-calculo/planillas-de-calculo.md) — Excel y Google Sheets para trabajar en un negocio: fórmulas, datos ordenados, tablas dinámicas, diseño que no se rompe, cuánto fallan las planillas y cuándo pasar a una base.
+
+## Personas
+
+- [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
 
 ## Carrera
 
