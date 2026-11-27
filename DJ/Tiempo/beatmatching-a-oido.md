@@ -3,7 +3,7 @@ resumen: >-
   El beatmatching a oído es igualar el tempo y la fase de dos temas escuchándolos, sin que la
   máquina lo haga. Se aprende con una rutina de escucha y corrección, y sirve sobre todo para
   cuando el sync falla o no está.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Chris Cartledge, How To Earn Your DJ Stripes, Part 3: Learn To Beatmatch, Digital DJ Tips (2018): https://www.digitaldjtips.com/learn-to-beatmatch/"
@@ -14,7 +14,7 @@ fuentes:
   - "DJ/.investigacion/posicion-contraria.md"
 aliases: [Beatmatching, Mezclar a oído, Beatmatch]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Beatmatching a oído

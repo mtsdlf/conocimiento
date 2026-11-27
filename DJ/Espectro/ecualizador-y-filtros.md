@@ -3,7 +3,7 @@ resumen: >-
   El ecualizador del mixer sube o baja bandas de frecuencia de cada canal, y en la mezcla sirve
   para repartir el espacio entre dos temas. El kill y el isolator apagan una banda entera; los
   filtros sacan todo lo que está por arriba o por debajo de un punto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Native Instruments, Traktor Pro 2 EQ and filter models: https://support.native-instruments.com/support/solutions/articles/69000879507-traktor-pro-2-eq-and-filter-models"
@@ -13,7 +13,7 @@ fuentes:
   - "MusicRadar, harmonic mixing (resumen del buscador): https://musicradar.com/news/harmonic-mixing"
 aliases: [EQ, Ecualizador, Kill, Isolator, Filtro, HPF, LPF]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ecualizador y filtros

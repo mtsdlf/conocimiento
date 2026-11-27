@@ -3,7 +3,7 @@ resumen: >-
   El tempo es la velocidad de un tema en pulsos por minuto (BPM) y la fase es si sus pulsos caen
   en el mismo instante que los de otro tema. Sincronizar es igualar las dos cosas y sostenerlas
   contra la deriva; al corregir, primero se alinea la fase y después el tempo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mixxx, manual 2.4, DJing With Mixxx: https://manual.mixxx.org/2.4/chapters/djing_with_mixxx"
@@ -15,7 +15,7 @@ fuentes:
   - "DJ/.investigacion/tiempo-y-forma.md"
 aliases: [Tempo, BPM, Fase, Deriva, Pitch, Pulso, Beat]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tempo y fase

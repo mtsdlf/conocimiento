@@ -3,7 +3,7 @@ resumen: >-
   La forma es cómo se agrupan los pulsos de un tema en compases, frases y secciones. En la
   transición decide dónde puede entrar y salir cada tema, y la regla práctica es que los dos
   estén en el mismo lugar de su frase.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mark J. Butler, Turning the Beat Around, Music Theory Online 7.6 (2001): https://mtosmt.org/issues/mto.01.7.6/mto.01.7.6.butler.php"
@@ -15,7 +15,7 @@ fuentes:
   - "DJ/.investigacion/posicion-contraria.md"
 aliases: [Estructura, Phrasing, Fraseo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Forma

@@ -3,7 +3,7 @@ resumen: >-
   El arco del set es el recorrido de la energía a lo largo de una sesión entera, que la práctica
   describe como apertura, pico y cierre. Es una convención de oficio sin datos publicados que la
   midan: sirve como plan inicial que se corrige mirando la pista.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Marchiano y Tanco, El baile en la música del DJ, El Oído Pensante 9(2), 2021: https://www.redalyc.org/journal/5529/552969184005/552969184005.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Kell y Tzanetakis, Empirical Analysis of Track Selection and Ordering in Electronic Dance Music using Audio Feature Extraction, ISMIR 2013: https://archives.ismir.net/ismir2013/paper/000210.pdf"
 aliases: [Curva de energía, Arco de energía, Warm-up, Set]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Arco del set

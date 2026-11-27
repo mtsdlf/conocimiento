@@ -4,7 +4,7 @@ resumen: >-
   suelta: en la música de baile con drop, el break abre, la subida carga y el regreso del bombo
   descarga. Los estudios de respuesta corporal que lo miden son de música electrónica con drop, no
   de techno.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Solberg y Jensenius, Empirical Musicology Review 11(3-4), 301-318, 2017: https://duo.uio.no/handle/10852/55312"
@@ -14,7 +14,7 @@ fuentes:
   - "Butler, Unlocking the Groove, Indiana University Press, 2006: https://search.worldcat.org/title/61162077"
 aliases: [Build-up, Breakdown, Drop, Tensión y liberación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tensión y descarga

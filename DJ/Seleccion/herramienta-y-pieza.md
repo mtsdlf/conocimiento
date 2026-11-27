@@ -4,7 +4,7 @@ resumen: >-
   (DJ tool) es un tema funcional, hecho sobre todo de ritmo, que sirve para unir y sostener; la pieza
   es un tema con identidad propia, que el público reconoce y recuerda. Es vocabulario de práctica,
   sin definición académica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Jeff Mills, lectura en Red Bull Music Academy, 5 de abril de 1998: https://www.redbullmusicacademy.com/lectures/jeff-mills-lecture"
@@ -13,7 +13,7 @@ fuentes:
   - "Surgeon (Anthony Child), entrevista en el blog de Ableton, 12 de agosto de 2014: https://ableton.com/en/blog/surgeon-plugging-moment"
 aliases: [DJ tool, Tool, Tema funcional, Herramienta, Pieza]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramienta y pieza

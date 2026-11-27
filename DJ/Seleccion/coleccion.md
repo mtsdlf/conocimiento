@@ -4,7 +4,7 @@ resumen: >-
   no está en ella no se puede decir en una sesión. Se arma buscando música, se prepara escuchándola
   y marcándola, y se ordena con etiquetas de función y energía para encontrar rápido lo que hace
   falta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Phil Morse, Beyond Genre: 5 Tagging Tricks For Better DJ Sets, Digital DJ Tips, actualizada el 27 de marzo de 2018: https://www.digitaldjtips.com/2016/02/beyond-genre-5-tagging-tricks-better-dj-sets/"
@@ -15,7 +15,7 @@ fuentes:
   - "Surgeon (Anthony Child), entrevista en el blog de Ableton, 12 de agosto de 2014: https://ableton.com/en/blog/surgeon-plugging-moment"
 aliases: [Biblioteca, Caja, Crate, Digging]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Colección

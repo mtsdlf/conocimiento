@@ -3,7 +3,7 @@ resumen: >-
   La armonía es la convivencia de las notas de dos temas que suenan a la vez. Importa solo donde
   hay material tonal (un bajo con notas, una melodía, un acorde) en lo que se superpone; con
   percusión sola no hay nada que pueda chocar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Phil Morse, How Important Is It For DJs To Mix In Key?, Digital DJ Tips (act. 2024-02-21): https://www.digitaldjtips.com/how-important-is-it-to-mix-in-key/"
@@ -16,7 +16,7 @@ fuentes:
   - "Bonedo, Harmonic Mixing Basics (resumen del buscador): https://www.bonedo.de/artikel/harmonic-mixing/2"
 aliases: [Mezcla armónica, Harmonic mixing, Mezclar en tono, Mixing in key]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Armonía

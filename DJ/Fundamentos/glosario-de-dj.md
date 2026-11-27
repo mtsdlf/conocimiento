@@ -2,7 +2,7 @@
 resumen: >-
   Los términos del oficio que usa el tema DJ, cada uno en una línea, con su fuente y la nota donde
   se trata. Donde no se halló una definición citable, dice "convención del oficio".
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mixxx, manual 2.5, glosario: https://manual.mixxx.org/2.5/en/glossary"
@@ -18,7 +18,7 @@ fuentes:
   - "rekordbox 7.1.4, manual: https://cdn.rekordbox.com/files/20250718115648/rekordbox7.1.4_manual_EN.pdf"
 aliases: [glosario, vocabulario de DJ, términos de DJ]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de DJ

@@ -3,7 +3,7 @@ resumen: >-
   Selección es la parte del oficio que decide qué tema suena y en qué orden: el criterio para elegir,
   la función que cumple cada tema en la sesión y la colección de la que salen. Es uno de los dos
   actos del DJ, junto con unir, y el que la mayoría de los practicantes pone primero.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kell y Tzanetakis, Empirical Analysis of Track Selection and Ordering in Electronic Dance Music using Audio Feature Extraction, ISMIR 2013: https://archives.ismir.net/ismir2013/paper/000210.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "Brewster y Broughton, How to DJ Right, 2003 (no leído): https://openroadmedia.com/ebook/how-to-dj-right/9780802199744"
 aliases: [Selection, Elegir temas, Track selection]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Selección

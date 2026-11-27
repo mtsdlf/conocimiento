@@ -2,7 +2,7 @@
 resumen: >-
   Cómo resuelven la grilla, el sync, el quantize y el key lock dos programas concretos, Mixxx 2.4
   y rekordbox 7.1.4, según sus manuales, con la fecha de la copia.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Mixxx, manual 2.4, DJing With Mixxx: https://manual.mixxx.org/2.4/chapters/djing_with_mixxx"
@@ -10,7 +10,7 @@ fuentes:
   - "DJ/.investigacion/tiempo-y-forma.md"
 aliases: [Sync en Mixxx, Sync en rekordbox, Master Tempo, Sync Lock]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sync en reproductores

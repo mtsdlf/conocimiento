@@ -3,7 +3,7 @@ resumen: >-
   Los niveles que midió un estudio brasileño en discotecas superan el límite de ruido ocupacional de
   NIOSH, y los estudios en DJs encuentran daño temporal y señales tempranas de disfunción auditiva. Cuidarlo es parte del
   oficio: bajar el nivel donde se pueda, cortar la exposición y usar protección.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "CDC/NIOSH, Understand Noise Exposure (act. 2026-10-28): https://www.cdc.gov/niosh/noise/prevent/understand.html"
@@ -15,7 +15,7 @@ fuentes:
   - "da Costa et al., Audiological profile of professional disc jockeys, Rev CEFAC 21(5), 2019 (abstract): https://scielo.br/j/rcefac/a/PSqTrB8sVnmPPmMvQrd4jJt/abstract/?lang=en"
 aliases: [Salud auditiva, Protección auditiva, Tinnitus]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuidado del oído

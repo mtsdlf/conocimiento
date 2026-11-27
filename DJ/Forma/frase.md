@@ -3,7 +3,7 @@ resumen: >-
   La frase es el grupo de 8 compases (32 pulsos) en que se organiza la música de baile; al
   empezar cada frase suele cambiar algo. Contar frases es lo que permite saber dónde está un tema
   y cuándo puede entrar otro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mark J. Butler, Turning the Beat Around, Music Theory Online 7.6 (2001): https://mtosmt.org/issues/mto.01.7.6/mto.01.7.6.butler.php"
@@ -16,7 +16,7 @@ fuentes:
   - "DJ/.investigacion/posicion-contraria.md"
 aliases: [Phrase, Compás, Bar, Downbeat, Pulso fuerte, Frase de 32]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Frase

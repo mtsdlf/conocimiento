@@ -3,7 +3,7 @@ resumen: >-
   No hay escuelas de mezcla formuladas como tales: lo que hay son cinco tensiones del oficio
   (mezcla larga o corte, dos decks o tres, oído o sync, vinilo o digital, armonía estricta o libre)
   en las que cada DJ se ubica según la música y el momento.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lección de Jeff Mills, Red Bull Music Academy: https://www.redbullmusicacademy.com/lectures/jeff-mills-lecture"
@@ -18,7 +18,7 @@ fuentes:
   - "MusicRadar, harmonic mixing (según su resumen): https://musicradar.com/news/harmonic-mixing"
 aliases: [estilos de mezcla, escuelas de DJ]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuelas de mezcla

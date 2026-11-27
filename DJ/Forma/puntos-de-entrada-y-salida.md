@@ -3,7 +3,7 @@ resumen: >-
   Los puntos de entrada y salida son los momentos de un tema en que empieza y termina su
   transición con otro. La práctica habitual los pone en comienzos de frase, de modo que las
   frases de los dos temas queden alineadas, aunque la regla se rompe a propósito.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kim, Choi, Sacks, Yang y Nam, A Computational Analysis of Real-World DJ Mixes using Mix-To-Track Subsequence Alignment, ISMIR 2020: https://program.ismir2020.net/static/final_papers/352.pdf"
@@ -17,7 +17,7 @@ fuentes:
   - "DJ/.investigacion/posicion-contraria.md"
 aliases: [Cue in, Cue out, Phrase mixing, Mezcla por frases, Alinear frases, Punto de mezcla]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Puntos de entrada y salida

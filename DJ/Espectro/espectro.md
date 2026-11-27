@@ -3,7 +3,7 @@ resumen: >-
   El espectro es el reparto de frecuencias (graves, medios y agudos) entre los dos temas que suenan
   a la vez en una transición. Resolverlo es decidir qué tema es dueño de cada banda en cada momento,
   sobre todo de los graves, y mantener el volumen bajo control.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mike Senior, Mixing Bass, Sound On Sound, sept. 2012: https://www.soundonsound.com/techniques/mixing-bass"
@@ -14,7 +14,7 @@ fuentes:
   - "OMS, estándar global de escucha segura en locales y eventos, 2022-03-02: https://www.who.int/news/item/02-03-2022-who-releases-new-standard-to-tackle-rising-threat-of-hearing-loss"
 aliases: [Frecuencias, EQ en la mezcla]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Espectro

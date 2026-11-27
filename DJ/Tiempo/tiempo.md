@@ -3,7 +3,7 @@ resumen: >-
   El tiempo es la dimensión en que dos temas se ponen a la misma velocidad y con los pulsos
   cayendo juntos. Se resuelve en dos pasos, tempo y fase, a oído o con la máquina, y hay que
   mantenerlo mientras dura la transición porque los pulsos derivan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mixxx, manual 2.4, DJing With Mixxx: https://manual.mixxx.org/2.4/chapters/djing_with_mixxx"
@@ -13,7 +13,7 @@ fuentes:
   - "DJ/.investigacion/posicion-contraria.md"
 aliases: [Sincronía, Beatmatching, Tempo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tiempo

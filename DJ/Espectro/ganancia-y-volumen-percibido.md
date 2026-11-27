@@ -3,7 +3,7 @@ resumen: >-
   La ganancia fija el nivel con que cada tema entra al mixer, y el volumen percibido es cuán fuerte
   lo oye la gente, que no depende solo de ese nivel. Igualar la ganancia antes de mezclar evita que
   una transición suene mejor o peor solo por sonar más fuerte, y deja margen antes de recortar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mixxx, manual 2.5, DJing With Mixxx (ganancia y medidores): https://manual.mixxx.org/2.5/en/chapters/djing_with_mixxx"
@@ -16,7 +16,7 @@ fuentes:
   - "Serato, Auto gain: what's all that about? (resumen del buscador): https://serato.com/latest/blog/15577/auto-gain-whats-all-that-about"
 aliases: [Gain, Gain staging, Headroom, Clipping, Sonoridad, Loudness, Auto gain]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ganancia y volumen percibido

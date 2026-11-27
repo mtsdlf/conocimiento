@@ -4,7 +4,7 @@ resumen: >-
   referencia para los ejemplos. Su base es disputada (Italia, Rotterdam o Berlín según la fuente).
   La prensa describe el disco de Emmanuel como techno rave y contundente y una de sus ramas,
   Stealth, como techno roto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Resident Advisor, ficha del sello ARTS: https://ra.co/labels/11223"
@@ -15,7 +15,7 @@ fuentes:
   - "Resident Advisor, ficha de Prophet Recordings (control comparativo): https://ra.co/labels/14249"
 aliases: [ARTS, Arts Recordings, Emmanuel]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sello ARTS

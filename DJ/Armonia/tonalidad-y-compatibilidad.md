@@ -4,7 +4,7 @@ resumen: >-
   dos tonalidades son compatibles cuando sus notas conviven sin chocar. La rueda de compatibilidad
   numera las tonalidades para que las vecinas se encuentren contando, y mover el pitch sin key lock
   cambia la tonalidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mixed In Key, Harmonic Mixing Guide (fabricante): https://mixedinkey.com/harmonic-mixing-guide/"
@@ -18,7 +18,7 @@ fuentes:
   - "Gebhardt, Davies y Seeber, Harmonic mixing based on roughness and pitch commonality, DAFx-15 (abstract): https://dafx.de/paper-archive/details/VVCYuTXWkEB3l4VKeUZ0-A"
 aliases: [Tonalidad, Key, Tono, Rueda Camelot, Camelot, Open Key, Círculo de quintas, Key lock, Key shift]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tonalidad y compatibilidad

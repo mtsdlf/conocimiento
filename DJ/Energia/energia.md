@@ -4,7 +4,7 @@ resumen: >-
   cómo cambia a lo largo de una sesión: la tensión y la descarga dentro de un tema, la repetición,
   el arco del set y la lectura del público. No tiene una medida aceptada: es una categoría que los
   DJs usan para describir a la vez la música y el baile.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Marchiano y Tanco, El baile en la música del DJ, El Oído Pensante 9(2), 2021: https://www.redalyc.org/journal/5529/552969184005/552969184005.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Documentación de una API de streaming, audio features: https://developer.spotify.com/documentation/web-api/reference/get-audio-features"
 aliases: [Energy, Nivel de energía]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Energía

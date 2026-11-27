@@ -3,7 +3,7 @@ resumen: >-
   La técnica de pinchar se armó en varias décadas, de la radio y la discoteca de Nueva York al sync
   de las máquinas de hoy. Cada etapa sumó un gesto que sigue vigente: igualar dos discos, alargar
   un tema, cortar rápido, mezclar en tres fuentes y delegar el tempo a la máquina.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Entrevista a Francis Grasso (feb. 1999), RBMA Daily, 15-nov-2016: https://daily.redbullmusicacademy.com/2016/11/francis-grasso-interview"
@@ -16,7 +16,7 @@ fuentes:
   - "Brewster y Broughton, Last Night a DJ Saved My Life (1999), no leído"
 aliases: [historia del DJ, historia de la mezcla]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia del DJ

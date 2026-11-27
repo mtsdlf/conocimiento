@@ -3,7 +3,7 @@ resumen: >-
   Cuánto aciertan los detectores automáticos de tonalidad en música electrónica de baile: las
   cifras académicas medidas en el conjunto GiantSteps, cómo se cuentan los aciertos parciales y lo
   que afirman los fabricantes, que no está contrastado.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Korzeniowski y Widmer, End-to-End Musical Key Estimation Using a CNN, EUSIPCO 2017, Tabla I: https://arxiv.org/pdf/1706.02921"
@@ -16,7 +16,7 @@ fuentes:
   - "Mixed In Key, Harmonic Mixing Guide (fabricante): https://mixedinkey.com/harmonic-mixing-guide/"
   - "Ryan Keeling, How do DJs approach harmonic mixing?, Pioneer DJ Blog: https://blog.pioneerdj.com/?p=711"
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ficha de detección de tonalidad

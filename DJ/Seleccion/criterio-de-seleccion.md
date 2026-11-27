@@ -3,7 +3,7 @@ resumen: >-
   El criterio de selección es lo que hace que un tema merezca entrar en una sesión y que, puesto
   después de otro, la secuencia funcione. Se juega en dos planos: el tema solo (si rinde en una
   pista) y el tema en relación con el anterior (cuánto se le parece y cuánto lo contrasta).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kell y Tzanetakis, Empirical Analysis of Track Selection and Ordering in Electronic Dance Music using Audio Feature Extraction, ISMIR 2013: https://archives.ismir.net/ismir2013/paper/000210.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "The Quietus, reseña de Rave Culture de Emmanuel, Noel Gardner, 4 de octubre de 2017: https://thequietus.com/quietus-reviews/emmanuel-rave-culture-album-review/"
 aliases: [Elegir un tema, Coherencia y contraste]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Criterio de selección

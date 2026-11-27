@@ -3,7 +3,7 @@ resumen: >-
   Leer la pista es observar al público mientras se pincha y usar lo que se ve para decidir el
   próximo tema y cuánta energía darle. Los DJs miran a la pista como una unidad que está "arriba" o
   "abajo", y lo hacen a la vez que seleccionan y mezclan.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Marchiano y Tanco, El baile en la música del DJ, El Oído Pensante 9(2), 2021: https://www.redalyc.org/journal/5529/552969184005/552969184005.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Phil Morse con Laidback Luke, Digital DJ Tips, actualizada el 5 de agosto de 2025: https://www.digitaldjtips.com/real-skills-vs-tech-what-matters/"
 aliases: [Leer al público, Read the crowd, Lectura de pista]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Leer la pista

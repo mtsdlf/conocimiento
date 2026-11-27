@@ -3,7 +3,7 @@ resumen: >-
   Las secciones son los tramos de un tema hechos de una o varias frases: intro, cuerpo, break,
   subida y salida. Quien pincha las usa como mapa: la intro y la salida son donde se mezcla, y el
   break y la subida son donde cambia la energía.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ryan Keeling, técnicas de mezcla por género, Pioneer DJ blog: https://blog.pioneerdj.com/?p=6295"
@@ -15,7 +15,7 @@ fuentes:
   - "DJ/.investigacion/tiempo-y-forma.md"
 aliases: [Estructura de un tema, Intro, Outro, Break, Breakdown, Subida, Build]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Secciones de un tema

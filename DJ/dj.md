@@ -3,7 +3,7 @@ resumen: >-
   Pinchar es elegir música y unirla en una secuencia continua para una pista de baile. Elegir y
   unir son los dos actos del oficio, y cada unión se resuelve en cinco dimensiones: tiempo, forma,
   espectro, armonía y energía.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kim, Won et al., A Computational Analysis of Real-World DJ Mixes using Mix-To-Track Subsequence Alignment, ISMIR 2020: https://program.ismir2020.net/static/final_papers/352.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Kell y Tzanetakis, Empirical Analysis of Track Selection and Ordering in Electronic Dance Music using Audio Feature Extraction, ISMIR 2013: https://archives.ismir.net/ismir2013/paper/000210.pdf"
 aliases: [DJ, Disc jockey, Pinchar, Mezclar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # DJ

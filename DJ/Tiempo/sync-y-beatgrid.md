@@ -4,7 +4,7 @@ resumen: >-
   usa esa grilla para igualar tempos (y, con quantize, la fase). Funciona tan bien como el
   análisis, no resuelve las frases, y su lugar en el oficio se discute más por valores que por
   datos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Mixxx, manual 2.4, DJing With Mixxx: https://manual.mixxx.org/2.4/chapters/djing_with_mixxx"
@@ -18,7 +18,7 @@ fuentes:
   - "DJ/.investigacion/posicion-contraria.md"
 aliases: [Sync, Beatgrid, Beat grid, Quantize, Key lock, Master tempo, Grilla de pulsos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sync y beatgrid

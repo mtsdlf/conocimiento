@@ -3,7 +3,7 @@ resumen: >-
   El enmascaramiento es el efecto por el que un sonido hace más difícil oír otro cuando los dos
   caen en la misma zona de frecuencias. Explica por qué dos graves a la vez se confunden y por qué
   en la mezcla se reparten bandas en lugar de sumarlas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Critical band (cita a Fletcher 1933/1940, Glasberg y Moore 1990, Moore 1998): https://en.wikipedia.org/wiki/Critical_band"
@@ -11,7 +11,7 @@ fuentes:
   - "Zwicker y Fastl, Psychoacoustics: Facts and Models, Springer (no leído; recurso recomendado)"
 aliases: [Masking, Enmascaramiento auditivo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Enmascaramiento

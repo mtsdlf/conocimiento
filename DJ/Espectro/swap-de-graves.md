@@ -3,7 +3,7 @@ resumen: >-
   El swap de graves es pasar el bajo de un tema al otro con el EQ, de modo que en la transición
   suene un solo grave por vez. Es la regla de espectro que repiten las guías de práctica, y según
   ellas se hace en un límite de frase.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Mike Senior, Mixing Bass, Sound On Sound, sept. 2012: https://www.soundonsound.com/techniques/mixing-bass"
@@ -14,7 +14,7 @@ fuentes:
   - "Kim et al., A Computational Analysis of Real-World DJ Mixes, ISMIR 2020: https://program.ismir2020.net/static/final_papers/352.pdf"
 aliases: [Bass swap, Cambio de graves, Un solo bajo por vez]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Swap de graves

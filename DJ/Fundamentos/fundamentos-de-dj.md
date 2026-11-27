@@ -3,7 +3,7 @@ resumen: >-
   Lo transversal del tema DJ: la historia de la técnica, las tensiones entre maneras de mezclar, el
   sello que da los ejemplos, el glosario y las fuentes de referencia, con qué es cada una y para qué
   sirve.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Brewster y Broughton, Last Night a DJ Saved My Life (1999), no leído"
@@ -17,7 +17,7 @@ fuentes:
   - "Kim et al., A Computational Analysis of Real-World DJ Mixes, ISMIR 2020: https://program.ismir2020.net/static/final_papers/352.pdf"
 aliases: [bibliografía de DJ, fuentes de DJ, libros de DJ]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de DJ

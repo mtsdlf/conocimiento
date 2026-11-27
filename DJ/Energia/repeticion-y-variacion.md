@@ -3,7 +3,7 @@ resumen: >-
   Repetición y variación es la manera en que el techno junta tensión sin break ni drop: un loop que
   corre sin cambios acumula expectativa, y un cambio mínimo puede soltarla. Que la repetición carga
   lo cuentan practicantes como Jeff Mills y Surgeon; ningún estudio lo mide.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Jeff Mills, lectura en Red Bull Music Academy, 5 de abril de 1998: https://www.redbullmusicacademy.com/lectures/jeff-mills-lecture"
@@ -13,7 +13,7 @@ fuentes:
   - "Brejcha en el blog de Pioneer DJ: https://blog.pioneerdj.com/?p=4768"
 aliases: [Loop, Repetición]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Repetición y variación
