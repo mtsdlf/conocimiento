@@ -11,6 +11,7 @@ fuentes:
   - "ASCM, CPIM LS 2020 Excerpt (historia de MRP abierto, cerrado y MRP II): https://learningsystem.ascm.org/wp-content/uploads/2019/11/CPIM_LS_2020_Excerpt.pdf"
   - "IBM, COPICS, Volume III, cap. 4 «Master Production Schedule Planning» (marzo de 1972), form G320-1976-0: https://mirrorservice.org/sites/www.bitsavers.org/pdf/ibm/370/COPICS/G320-1976-0_COPICS_Volume_3_197203.pdf"
   - "Documentación de un sistema comercial, «Time Fence Control» (barrera de liberación): https://docs.oracle.com/cd/E18727_01/doc.121/e15188/T478564T479135.htm"
+  - "Solucionario de preguntas de discusión sobre MRP, curso IE 314, KSU: https://faculty.ksu.edu.sa/sites/default/files/mrp.pdf"
   - "APQC, Process Classification Framework 7.4 (2024), 4.1.3 y 4.1.4: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Produccion/.investigacion/planificacion.md y planificacion-2.md (2026-11-27); Cadena-de-suministro-y-logistica/.investigacion/planificacion-3.md (H1)"
 aliases: [planificación de la producción, production planning, planificación y control de la producción, manufacturing planning and control, MPC, cascada de planes, jerarquía de planes de producción, planificador de la producción, production planner, master scheduler, programador maestro]
@@ -64,10 +65,10 @@ Que el lazo vuelva hacia arriba es lo que distingue al MRP de lazo cerrado del o
 
 Cuánto mira hacia adelante cada plan depende de la empresa; las fuentes dan órdenes de magnitud, no normas.
 
-- **Plan agregado**: «six months to five years», recalculado de «1/month to 1/year» y con detalle de «part family», según el MIT. El detalle está en la nota de [planificación](../../Cadena-de-suministro-y-logistica/Planificacion/planificacion.md) de Cadena.
-- **Plan maestro**: tiene que cubrir al menos el plazo acumulado de fabricación y compra, para que el MRP alcance a lanzar a tiempo los componentes más lejanos (inferencia de la base). El manual de un sistema de 1972 pone de ejemplo un plan de 18 meses con una parte firme de 6, que es el plazo total de fabricación de su caso. El horizonte se mide en semanas o en días: el tiempo se divide en «time buckets — days, weeks, or whatever is convenient» (MIT).
-- **MRP y capacidad detallada**: el mismo horizonte que el plan maestro, recalculado cada vez que cambia algo; la crítica de la capacidad detallada es que solo sirve en el horizonte muy cercano (Tesalia).
-- **Programa de planta**: días u horas, en [Ejecución en planta](../Ejecucion-en-planta/ejecucion-en-planta.md).
+- Plan agregado: «six months to five years», recalculado de «1/month to 1/year» y con detalle de «part family», según el MIT. El detalle está en la nota de [planificación](../../Cadena-de-suministro-y-logistica/Planificacion/planificacion.md) de Cadena.
+- Plan maestro: tiene que cubrir al menos el plazo acumulado de fabricación y compra, para que el MRP alcance a lanzar a tiempo los componentes más lejanos (inferencia de la base). El manual de un sistema de 1972 pone de ejemplo un plan de 18 meses con una parte firme de 6, y discute el costo de un cambio suponiendo un plazo total de fabricación de seis meses. El horizonte se mide en semanas o en días: el tiempo se divide en «time buckets — days, weeks, or whatever is convenient» (MIT).
+- MRP y capacidad detallada: el mismo horizonte que el plan maestro, recalculado cada vez que cambia algo (inferencia de la base); la crítica de la capacidad detallada es que solo sirve en el horizonte muy cercano (Tesalia).
+- Programa de planta: días u horas (criterio de la base), en [Ejecución en planta](../Ejecucion-en-planta/ejecucion-en-planta.md).
 
 > [!NOTE] Sin fuente todavía: horizontes típicos del plan maestro y del MRP en un libro de texto (Vollmann y otros, *Manufacturing Planning and Control*) o en el diccionario de ASCM.
 
@@ -88,10 +89,10 @@ Desde ahí, la [orden de producción](../Ejecucion-en-planta/orden-de-produccion
 
 ## Cómo falla la planificación
 
-- **El plan supone capacidad infinita.** El MIT dice que el MRP resuelve un problema formulado sobre un modelo «deterministic» e «infinite capacity», y que por eso «it requires constant manual intervention to compensate for poor schedules». Ver [planificación de capacidad](planificacion-de-capacidad.md).
-- **Los datos de entrada están mal.** Un solucionario de un curso lista los requisitos: «A good schedule of what is to be made / An accurate BOM / Accurate inventory records / Accurate purchases data / Lead times that will be met». Un error en la lista de materiales se multiplica en cada orden.
-- **El plan cambia todo el tiempo.** Cada corrida mueve órdenes ya lanzadas: es el nerviosismo, explicado en [MRP](mrp.md), y la razón de las barreras de tiempo del [plan maestro](plan-maestro-de-produccion.md).
-- **Se planifica igual lo que se vende de stock y lo que se hace por pedido.** El plan maestro cambia de objeto según la estrategia: ver [fabricar para stock o contra pedido](fabricar-para-stock-o-contra-pedido.md).
+- El plan supone capacidad infinita. El MIT dice que el MRP resuelve un problema formulado sobre un modelo «deterministic» e «infinite capacity», y que por eso «it requires constant manual intervention to compensate for poor schedules». Ver [planificación de capacidad](planificacion-de-capacidad.md).
+- Los datos de entrada están mal. Un solucionario de un curso lista los requisitos: «A good schedule of what is to be made / An accurate BOM / Accurate inventory records / Accurate purchases data / Lead times that will be met». Un error en la lista de materiales se repite en cada orden que la usa (criterio de la base).
+- El plan cambia todo el tiempo. Cada corrida mueve órdenes ya lanzadas: es el nerviosismo, explicado en [MRP](mrp.md), y la razón de las barreras de tiempo del [plan maestro](plan-maestro-de-produccion.md).
+- Se planifica igual lo que se vende de stock y lo que se hace por pedido. El plan maestro cambia de objeto según la estrategia: ver [fabricar para stock o contra pedido](fabricar-para-stock-o-contra-pedido.md).
 
 Las escuelas que discuten esta forma de planificar (tirar con kanban, la teoría de las restricciones, DDMRP) están en [fundamentos de producción](../Fundamentos/fundamentos-de-produccion.md).
 

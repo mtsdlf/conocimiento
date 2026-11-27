@@ -24,7 +24,7 @@ Dentro de [Calidad](calidad.md), es lo que pasa después de que una inspección 
 
 ## La definición que sirve para un sistema
 
-La norma abierta más clara es la MIL-STD-1520C, de 1986, una norma militar de los Estados Unidos para el material no conforme de los contratistas. **Está cancelada**, y la base la usa por sus definiciones; según el buscador, se retiró en 1995 y remite a SAE AS7106/2B. Se leyó en un PDF escaneado con OCR: las citas en inglés conviene recotejarlas.
+La norma abierta más clara es la MIL-STD-1520C, de 1986, una norma militar de los Estados Unidos para el material no conforme de los contratistas. Está cancelada, y la base la usa por sus definiciones; según el buscador, se retiró en 1995 y remite a SAE AS7106/2B. Se leyó en un PDF escaneado con OCR: las citas en inglés conviene recotejarlas.
 
 La norma define la no conformidad (3.6) como «The failure of a characteristic to conform to the requirements specified in the contract, drawings, specifications, or other approved product description». El material no conforme (3.7) es cualquier ítem o producto «containing one or more nonconformances».
 
@@ -52,7 +52,7 @@ La disposición es la decisión sobre el material no conforme. Las definiciones 
 
 La diferencia entre reprocesar y reparar es la que más pesa: después de reprocesar la pieza cumple; después de reparar, no del todo. Por eso la reparación pide una autoridad que acepte el desvío, y el reproceso no. La 1520C prevé además un procedimiento estándar de reparación (3.15), una técnica documentada para un tipo de no conformidad, con fecha de vencimiento o un tope de aplicaciones.
 
-Reclasificar, es decir, aceptar la pieza como un producto de menor grado o con otro destino, se usa en la práctica pero no aparece en las fuentes leídas.
+Reclasificar, es decir, aceptar la pieza como un producto de menor grado o con otro destino, no aparece en las fuentes leídas.
 
 > [!NOTE] Sin fuente todavía: la reclasificación como disposición, y una lista de disposiciones de una norma vigente.
 
@@ -84,12 +84,12 @@ El reclamo del cliente entra por [Servicio al cliente](../../Servicio-al-cliente
 
 ## Qué guarda una no conformidad
 
-- **Qué**: artículo, lote, orden de producción u operación, cantidad afectada, característica que falla y valor encontrado.
-- **Dónde y quién**: punto de detección (recepción, en proceso, final, cliente), quién la detectó y cuándo.
-- **Clasificación**: menor, mayor o crítica.
-- **Contención**: qué se apartó, en qué estado quedó el stock y qué otros lotes se revisaron.
-- **Disposición**: cuál, por cantidad (puede haber 80 reprocesadas y 20 desechadas), si la decidió la revisión preliminar o el comité, quién la autorizó y si hizo falta la aprobación del cliente.
-- **Concesión o desviación**, con su alcance y vencimiento.
-- **Costo** del reproceso, la reparación o el desecho.
-- **Estado**: abierta, retenida, en disposición, cerrada.
-- **Vínculo** con la [acción correctiva](accion-correctiva.md), si se abrió.
+- Qué: artículo, lote, orden de producción u operación, cantidad afectada, característica que falla y valor encontrado.
+- Dónde y quién: punto de detección (recepción, en proceso, final, cliente), quién la detectó y cuándo.
+- Clasificación: menor, mayor o crítica.
+- Contención: qué se apartó, en qué estado quedó el stock y qué otros lotes se revisaron.
+- Disposición: cuál, por cantidad (puede haber 80 reprocesadas y 20 desechadas), si la decidió la revisión preliminar o el comité, quién la autorizó y si hizo falta la aprobación del cliente.
+- Concesión o desviación, con su alcance y vencimiento.
+- Costo del reproceso, la reparación o el desecho.
+- Estado: abierta, retenida, en disposición, cerrada.
+- Vínculo con la [acción correctiva](accion-correctiva.md), si se abrió.

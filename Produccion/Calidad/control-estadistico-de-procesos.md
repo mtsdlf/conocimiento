@@ -79,7 +79,7 @@ La capacidad compara el ancho natural del proceso con el ancho que permite la es
 
 USL y LSL son los límites superior e inferior de la especificación, μ la media del proceso y σ su desvío.
 
-**El ejemplo de NIST.** La especificación va de 8 a 20, el desvío es 2 y la media 16. Entonces Cp = 12/12 = 1,0: el proceso entra justo en la tolerancia. Pero la media está corrida hacia arriba: Cpu = (20 − 16)/6 = 0,6667 y Cpl = (16 − 8)/6 = 1,3333, así que Cpk = 0,6667. NIST concluye: «We would like to have Ĉpk at least 1.0, so this is not a good process». La página escribe la media como «≥ 16», que parece una errata; las cuentas cierran con 16 (verificado por la base).
+El ejemplo de NIST. La especificación va de 8 a 20, el desvío es 2 y la media 16. Entonces Cp = 12/12 = 1,0: el proceso entra justo en la tolerancia. Pero la media está corrida hacia arriba: Cpu = (20 − 16)/6 = 0,6667 y Cpl = (16 − 8)/6 = 1,3333, así que Cpk = 0,6667. NIST concluye: «We would like to have Ĉpk at least 1.0, so this is not a good process». La página escribe la media como «≥ 16», que parece una errata; las cuentas cierran con 16 (verificado por la base).
 
 La diferencia entre Cp y Cpk dice qué hacer. Un Cp bueno con Cpk malo pide centrar el proceso, que suele ser un ajuste; un Cp malo pide reducir la variación, que suele ser un cambio de máquina, método o material, y puede terminar en un [cambio de ingeniería](../Producto-y-proceso/cambios-de-ingenieria.md) (lectura de la base).
 

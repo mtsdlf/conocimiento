@@ -63,7 +63,7 @@ El ejemplo más completo que se encontró es de la documentación de un sistema 
 
 Las cuentas cierran (verificadas por la base): 1,50 + 2,00 + 2,00 + 4,00 = 9,50; 3,00 + 4,00 + 3,00 + 4,00 = 14,00; 9,50 + 14,00 + 10,00 = 33,50 en la operación 10, y 33,50 + 4,00 + 0,10 = 37,60.
 
-La carga fabril del ejemplo es un porcentaje del material y no una tasa por hora: «Plant overhead: 1% of total material cost. Materials are RS-A (1.00) + RS-B (2.00) + RS-C (3.00) + RS-D (4.00) = 10.00, so 1% = 0.10.» La página tiene una inconsistencia menor: RS-A figura con 1,50 en el subconjunto, incluidos 0,50 de carga, y con 1,00 en la cuenta de la carga de planta. Los totales no cambian.
+La carga fabril del ejemplo es un porcentaje del material y no una tasa por hora: «Plant overhead: 1% of total material cost. Materials are RS-A (1.00) + RS-B (2.00) + RS-C (3.00) + RS-D (4.00) = 10.00, so 1% = 0.10.» La página tiene una inconsistencia menor: RS-A figura con 1,50 en el subconjunto, incluidos 0,50 de carga, y con 1,00 en la cuenta de la carga de planta. Se citan los totales.
 
 Un segundo ejemplo, de un paquete de investigación operativa, es solo de material y tiene tres niveles. Una lámpara LA01 lleva una base B100, una pantalla S100 (4,10) y un conjunto de zócalo A100. Con los costos de los comprados de la fuente, la base calcula B100 = 1,30 + 9,25 + 5,00 + 4 × 0,20 = 16,35 (el primer sumando son 26 piezas de 0,05) y A100 = 0,40 + 3,50 + 4,70 = 8,60, así que LA01 = 16,35 + 4,10 + 8,60 = 29,05. Según el buscador, la salida de la fuente da lo mismo. El tornillo de 0,20 aparece en la base y en el zócalo, y eso obliga a costear por niveles y no rama por rama.
 

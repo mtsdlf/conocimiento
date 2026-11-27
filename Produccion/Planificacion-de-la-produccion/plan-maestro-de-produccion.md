@@ -11,6 +11,8 @@ fuentes:
   - "Documentación de un sistema comercial, «Time Fence Control»: https://docs.oracle.com/cd/E18727_01/doc.121/e15188/T478564T479135.htm"
   - "Documentación de otro sistema comercial, «Time Fences and the Time Series» (según el resumen): https://docs.oracle.com/en/applications/jd-edwards/supply-chain-manufacturing/9.2/eoarp/time-fences-and-the-time-series.html"
   - "Documentación de un sistema comercial, «Forecast Consumption» (según el resumen): https://docs.oracle.com/cd/E16582_01/doc.91/e15139/forecast_consumption.htm"
+  - "Lymperopoulos, G., Σχεδιασμός και Προγραμματισμός Παραγωγής: MRP (diapositivas, Univ. de Tesalia, 25/11/2015, sobre Hopp y Spearman, Factory Physics, cap. 3; traducción de la base): https://opencourses.uth.gr/modules/document/file.php/MHXB125/MRP.pdf"
+  - "Diapositivas «Master Production Schedule» en SlideShare, sin autor ni curso visibles (secundaria débil, según el resumen): https://www.slideshare.net/slideshow/master-production-schedule-mpspptx/261096678"
   - "ERP Information, «Frozen Zone in Supply Chain (Slushy, Liquid & Time Fences)» (blog comercial, secundaria débil, según el resumen): https://www.erp-information.com/frozen-zone.html"
   - "Open-exam-prep, «6.3 Using and Maintaining the Master Schedule» (guía comercial de estudio, secundaria débil, según el resumen): https://open-exam-prep.com/study-guides/cpim/master-scheduling/using-maintaining-mps"
   - "Wikipedia, Final assembly schedule (secundaria, según el resumen): https://en.wikipedia.org/wiki/Final_assembly_schedule"
@@ -44,9 +46,9 @@ La demanda indirecta es la de un artículo que también es componente de otro: �
 
 Cambiar el plan cerca de la fecha cuesta más que cambiarlo lejos, porque ya se compró material y se cargó capacidad. Las barreras de tiempo dividen el horizonte en tramos con reglas distintas para cambiar.
 
-**El origen: congelado y firme.** Un manual de 1972 ya usaba la palabra entre comillas: el plan «can be defined as "frozen" over a given time span beyond the current date - say, for the next month», y en ese tramo «Changes to the schedule cannot normally be made». Distinguía una parte firme y una tentativa. Su ejemplo es un plan de 18 meses en el que los primeros 6 son firmes, con productos «in various stages of commitment and correspondingly difficult to change»; la parte tentativa es «merely a plan for the execution of which money has not yet been expended». El criterio que da vale hoy: «The consequences (cost) of a previous decision constitute the practical limits of changing that decision».
+El origen: congelado y firme. Un manual de 1972 ya usaba la palabra entre comillas: el plan «can be defined as "frozen" over a given time span beyond the current date - say, for the next month», y en ese tramo «Changes to the schedule cannot normally be made». Distinguía una parte firme y una tentativa. Su ejemplo es un plan de 18 meses en el que los primeros 6 son firmes, con productos «in various stages of commitment and correspondingly difficult to change»; la parte tentativa es «merely a plan for the execution of which money has not yet been expended». El criterio que da vale hoy: «The consequences (cost) of a previous decision constitute the practical limits of changing that decision».
 
-**Las barreras en un sistema.** La documentación de un sistema comercial define tres, cada una como una cantidad de días desde hoy:
+Las barreras en un sistema. La documentación de un sistema comercial define tres, cada una como una cantidad de días desde hoy:
 
 | Barrera | Qué hace adentro |
 |---|---|
@@ -54,9 +56,9 @@ Cambiar el plan cerca de la fecha cuesta más que cambiarlo lejos, porque ya se 
 | De planificación | el sistema no adelanta órdenes ni crea órdenes nuevas; sí puede postergar o cancelar las que sobran |
 | De liberación | el sistema libera solo las órdenes planificadas a la planta o a compras |
 
-Una orden firme crea una barrera implícita, porque es «frozen in quantity and time (unavailable for rescheduling)». Otro sistema comercial usa otros nombres: una barrera de congelamiento («Freeze Fence») dentro de la cual no crea ni replanifica órdenes, y una de planificación que decide cómo se usa la demanda. Los nombres no coinciden entre sistemas.
+Una orden firme crea una barrera implícita, porque es «frozen in quantity and time (unavailable for rescheduling)». Otro sistema comercial, según el resumen de su documentación, usa otros nombres: una barrera de congelamiento («Freeze Fence») dentro de la cual no crea ni replanifica órdenes, y una de planificación que decide cómo se usa la demanda. Los nombres no coinciden entre sistemas.
 
-**Las zonas y quién autoriza.** El único texto primario leído que nombra una zona es el material de ASCM: un pedido que no entra en lo disponible pide una entrada nueva en el plan y queda sujeto a «master scheduler approval, since it is in the slushy zone and changing the schedule could impact production efficiency». El esquema completo de tres zonas aparece en material de estudio y en un blog comercial, sin fuente primaria:
+Las zonas y quién autoriza. El único texto primario leído que nombra una zona es el material de ASCM: un pedido que no entra en lo disponible pide una entrada nueva en el plan y queda sujeto a «master scheduler approval, since it is in the slushy zone and changing the schedule could impact production efficiency». El esquema completo de tres zonas aparece en material de estudio y en un blog comercial, sin fuente primaria:
 
 | Zona | Dónde | Quién autoriza un cambio, según esas fuentes |
 |---|---|---|
@@ -70,11 +72,11 @@ En lean, ASCM aclara que lo que se tira con señales de demanda «will not use t
 
 ## El pedido consume el pronóstico
 
-El plan maestro parte de un pronóstico, y los pedidos que llegan no se suman a él: lo consumen. Un sistema comercial lo define así: el consumo del pronóstico supone que los pedidos «reduce, or consume, the forecasted quantities», para que no se traten «as additional demand to the forecast during a planning period»; lo que queda es el pronóstico sin consumir. El mismo sistema procesa los pedidos contra el pronóstico de cada período en orden de llegada, y puede consumir por cliente.
+El plan maestro parte de un pronóstico, y los pedidos que llegan no se suman a él: lo consumen. Según el resumen de la documentación de un sistema comercial, el consumo del pronóstico supone que los pedidos «reduce, or consume, the forecasted quantities», para que no se traten «as additional demand to the forecast during a planning period»; lo que queda es el pronóstico sin consumir. El mismo sistema procesa los pedidos contra el pronóstico de cada período en orden de llegada, y puede consumir por cliente.
 
 La idea es anterior a la palabra. El manual de 1972 dice que cada pedido «is then allocated against the master production schedule. Provided the demand is covered by the schedule, no further action is necessary». Si no entra, hay que decidir entre cambiar el plan o postergar la entrega, y aumentar el plan solo es posible si hay material y capacidad.
 
-Dentro de la barrera de demanda solo cuentan los pedidos. Afuera, una diapositiva sin autor usa como demanda el máximo entre pronóstico y pedidos; no se encontró la regla en una fuente con nombre.
+Dentro de la barrera de demanda solo cuentan los pedidos. Afuera, unas diapositivas sin autor, que solo se vieron por su resumen, usan como demanda el máximo entre pronóstico y pedidos; no se encontró la regla en una fuente con nombre.
 
 > [!NOTE] Sin fuente todavía: el consumo hacia adelante y hacia atrás (qué período consume un pedido que cae donde el pronóstico ya se agotó) en una fuente académica.
 
@@ -114,4 +116,4 @@ El manual de 1972 dice cuándo son el mismo programa y cuándo no. Coinciden con
 - Por artículo: stock de seguridad objetivo, mínimo a reponer, cómo se dispara la reposición y el plazo acumulado.
 - Por artículo o por plan: las barreras de tiempo en días. En los sistemas abiertos leídos no se encontró un campo de barrera; en los comerciales sí.
 - Por orden: si es planificada o firme.
-- Por plan: el vínculo con el pronóstico y con los pedidos de venta que lo alimentan, y la versión. El nerviosismo se mide comparando versiones (ver [MRP](mrp.md#por-qué-el-mrp-es-nervioso)).
+- Por plan: el vínculo con el pronóstico y con los pedidos de venta que lo alimentan, y la versión. El nerviosismo se mediría comparando versiones (criterio de la base; ver [MRP](mrp.md#por-qué-el-mrp-es-nervioso)).

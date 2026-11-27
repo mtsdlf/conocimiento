@@ -30,9 +30,9 @@ Es la primera decisión de [Planificación de la producción](planificacion-de-l
 
 ## El punto de desacople, según Sharman
 
-El concepto tiene un origen citado por todos: un artículo de Sharman en la *Harvard Business Review* de 1984. Una revisión abierta de 2025 (Petropoulos y otros) lo cita así: «the point at which product becomes earmarked for a particular customer. Downstream of this order penetration (OP) point, customer orders drive the systems that control materials flow; upstream, forecast and plans do the driving» (Sharman, 1984, p. 75). La cita es de segunda mano: el artículo original no se leyó.
+El concepto se atribuye a un artículo de Sharman en la *Harvard Business Review* de 1984. Una revisión abierta de 2025 (Petropoulos y otros) lo cita así: «the point at which product becomes earmarked for a particular customer. Downstream of this order penetration (OP) point, customer orders drive the systems that control materials flow; upstream, forecast and plans do the driving» (Sharman, 1984, p. 75). La cita es de segunda mano: el artículo original no se leyó.
 
-Una tesis de Lund de 2024 lo resume en una oración: el punto de desacople del pedido (CODP) separa el flujo en «an upstream part which is driven by forecasts and a downstream part which is driven by actual customer orders». Según la paráfrasis de la misma tesis, Sharman lo veía como variable clave porque suele ser donde se congela la especificación del producto, el último punto con stock y el límite entre lo que se hace por pronóstico y lo que se hace por pedido. Olhager (2003) lo llama punto de penetración del pedido; su artículo da factores de mercado, producto y producción para ubicarlo, pero solo se vieron sus metadatos.
+Una tesis de Lund de 2024 lo resume en una oración: el punto de desacople del pedido (CODP) separa el flujo en «an upstream part which is driven by forecasts and a downstream part which is driven by actual customer orders». Según la paráfrasis de la misma tesis, Sharman lo veía como variable clave porque suele ser donde se congela la especificación del producto, el último punto con stock y el límite entre lo que se hace por pronóstico y lo que se hace por pedido. Olhager (2003) lo llama punto de penetración del pedido; su artículo da factores de mercado, producto y producción para ubicarlo, pero solo se vio su resumen, en un catálogo.
 
 ## Las cinco posiciones
 
@@ -52,7 +52,7 @@ Las definiciones de la última columna son de la entrada «Order fulfillment» d
 
 ## Qué cambia al mover el punto
 
-Mover el punto hacia el cliente acorta la entrega y obliga a pronosticar más; alejarlo achica el riesgo de stock y alarga la entrega. La revisión de 2025 lo dice así: entre las posiciones hay «a huge difference in delivery leadtime, but also in product specificity and the number of activities performed after ordering». La tesis de Lund compara los dos lados del punto:
+Mover el punto hacia el cliente acorta la entrega y obliga a pronosticar más; alejarlo achica el riesgo de stock y alarga la entrega (inferencia de la base). La revisión de 2025 lo dice así: entre las posiciones hay «a huge difference in delivery leadtime, but also in product specificity and the number of activities performed after ordering». La tesis de Lund compara los dos lados del punto:
 
 | | Antes del punto | Después del punto |
 |---|---|---|
@@ -66,18 +66,18 @@ Una empresa no tiene una sola posición: cada familia de productos puede tener l
 
 ## Qué planifica el plan maestro en cada caso
 
-El plan maestro se arma en el nivel donde está el punto, que es el nivel con menos artículos distintos (inferencia de la base). Un solucionario de un curso lo resume: el plan maestro se expresa en «(1) End items in a continuous (make-to-stock) company; (2) Customer orders in a job shop (make-to-order) company; and (3) Modules in a repetitive (assemble-to-stock) company». Es un solucionario, no el libro.
+El plan maestro se arma en el nivel donde está el punto, que es el nivel con menos artículos distintos (inferencia de la base). Un solucionario de un curso lo resume: el plan maestro se expresa en «(1) End items in a continuous (make-to-stock) company; (2) Customer orders in a job shop (make-to-order) company; and (3) Modules in a repetitive (assemble-to-stock) company». Es un solucionario, no el libro, y llama «assemble-to-stock» a lo que las demás fuentes llaman ensamblar contra pedido.
 
-- **Para stock**: el plan maestro es de productos terminados, con pronóstico, y el pedido se atiende del depósito.
-- **Ensamblar contra pedido**: el plan maestro es de módulos o subconjuntos, y el producto terminado aparece recién en el programa de ensamble final. Un manual de 1972 lo explica: cuando el plazo de fabricación supera el que acepta el cliente, el programa de ensamble final «is created - usually on receipt of actual orders - later in time than the master production schedule». Los componentes que dejó listos el plan maestro funcionan como restricción: «It is impossible, on short notice, to build more, or different, products than the quantities of available components allow». El programa de ensamble final está en [plan maestro de producción](plan-maestro-de-produccion.md#el-programa-de-ensamble-final).
-- **Fabricar contra pedido**: el plan maestro es de pedidos de clientes, y lo que se planifica con pronóstico son las materias primas. En un sistema abierto, la fecha de la orden se calcula hacia atrás: «the expected delivery date subtracted by the manufacturing lead time». En otro, el plan de producción se arma trayendo los artículos de los pedidos de venta.
-- **Diseñar contra pedido**: el producto no existe al recibir el pedido, y el trabajo se parece más a un proyecto (inferencia de la base; ver [Servicios profesionales y proyectos](../../Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md) para la gestión por proyectos).
+- Para stock: el plan maestro es de productos terminados, con pronóstico, y el pedido se atiende del depósito.
+- Ensamblar contra pedido: el plan maestro es de módulos o subconjuntos, y el producto terminado aparece recién en el programa de ensamble final. Un manual de 1972 lo explica: cuando el plazo de fabricación supera el que acepta el cliente, el programa de ensamble final «is created - usually on receipt of actual orders - later in time than the master production schedule». Los componentes que dejó listos el plan maestro funcionan como restricción: «It is impossible, on short notice, to build more, or different, products than the quantities of available components allow». El programa de ensamble final está en [plan maestro de producción](plan-maestro-de-produccion.md#el-programa-de-ensamble-final).
+- Fabricar contra pedido: el plan maestro es de pedidos de clientes, y lo que se planifica con pronóstico son las materias primas (inferencia de la base). En un sistema abierto, la fecha de la orden se calcula hacia atrás: «the expected delivery date subtracted by the manufacturing lead time». En otro, el plan de producción se arma trayendo los artículos de los pedidos de venta.
+- Diseñar contra pedido: el producto no existe al recibir el pedido, y el trabajo se parece más a un proyecto (inferencia de la base; ver [Servicios profesionales y proyectos](../../Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md) para la gestión por proyectos).
 
 ## La lista de planificación para las opciones
 
 En ensamble contra pedido, el MRP no puede explotar un producto que todavía no se configuró. La salida es planificar con porcentajes por opción, y la [lista de materiales](../Producto-y-proceso/lista-de-materiales.md) que los guarda es la lista de planificación.
 
-El manual de 1972 lo muestra con números: si históricamente la opción A se usa «40% of the time and B 60%» y el plan pide 100 unidades, hacen falta 40 de A y 60 de B. Para cubrirse, «one could add "10% for protection" and cover 44 of option A and 66 of option B». La documentación de un sistema comercial describe lo mismo con otro nombre: listas de modelo y de planificación para familias y productos con opciones, con porcentajes que representan «estimates of anticipated product and option mixes». Programar solo los subconjuntos clave y armar la configuración con el pedido es lo que esa documentación llama plan maestro en dos niveles.
+El manual de 1972 lo muestra con números: si históricamente la opción A se usa «40% of the time and B 60%» y el plan pide 100 unidades, hacen falta 40 de A y 60 de B. Para cubrirse, «one could add "10% for protection" and cover 44 of option A and 66 of option B». Según el resumen de su documentación, un sistema comercial describe lo mismo con otro nombre: listas de modelo y de planificación para familias y productos con opciones, con porcentajes que representan «estimates of anticipated product and option mixes». Programar solo los subconjuntos clave y armar la configuración con el pedido es lo que esa documentación llama plan maestro en dos niveles.
 
 El colchón del 10 % sobre las dos opciones suma 110 componentes para 100 productos; es el costo de no saber la mezcla (cuenta de la base).
 

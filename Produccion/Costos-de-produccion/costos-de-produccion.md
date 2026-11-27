@@ -4,7 +4,7 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "Resolución Técnica 17 FACPCE, texto ordenado de junio de 2003 (Consejo Profesional de CABA), sección 4.2.6 «Bienes producidos» (leída entera): https://www.consejo.org.ar/storage/attachments/RT_FACPCE17_TO2003.pdf-bGCewZIHs8.pdf"
+  - "Resolución Técnica 17 FACPCE, texto ordenado de junio de 2003 (Consejo Profesional de CABA), sección 4.2.6 «Bienes producidos» (leída en el texto): https://www.consejo.org.ar/storage/attachments/RT_FACPCE17_TO2003.pdf-bGCewZIHs8.pdf"
   - "IFRS Foundation, NIC 2 Inventarios, párrafos 12 a 14 y 21 (según el extractor, con citas acortadas): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ias2.html"
   - "Dummies, Cost Accounting: Job Costs for Spoilage, Reworked Products, and Scrap (secundaria, según el resumen): https://www.dummies.com/article/business-careers-money/business/accounting/general-accounting/cost-accounting-job-costs-for-spoilage-reworked-products-and-scrap-164765"
   - "Iowa State (ISUDP), curso de contabilidad de gestión (según el resumen del buscador; la página no abrió): https://iastate.pressbooks.pub/isudp-2025-202/?p=23"
@@ -56,13 +56,13 @@ El centro de trabajo no es el centro de costo. El primero es un lugar de la plan
 
 ## Mermas, rechazos y reproceso: normal frente a anormal
 
-Toda fabricación pierde algo: material que se corta, piezas que salen mal, unidades que hay que rehacer. Las normas contestan igual si esa pérdida es costo del producto: lo normal va al producto y lo anormal, a resultados del período. Merma, rechazo, desecho y reproceso se usan acá con el sentido que les da [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md#la-declaración-de-producción).
+Toda fabricación pierde algo: material que se corta, piezas que salen mal, unidades que hay que rehacer. La RT 17 separa lo normal de lo anormal: lo anormal va a resultados del período. La NIC 2 no se leyó en ese punto. Merma, rechazo, desecho y reproceso se usan acá con el sentido que les da [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md#la-declaración-de-producción).
 
 La Resolución Técnica 17 de la FACPCE, norma contable argentina, lo dice literal. Su sección 4.2.6 suma al costo de un bien producido los materiales, los costos de conversión «tanto variables como fijos» y los financieros asignables, y lo recorta:
 
 > «El costo de los bienes producidos no debe incluir la porción de los costos ocasionados por: a) improductividades físicas o ineficiencias en el uso de los factores en general; b) la ociosidad producida por la falta de aprovechamiento de los factores fijos originada en la no-utilización de la capacidad de planta a su "nivel de actividad normal".»
 
-Para los desperdicios agrega: «Los importes correspondientes a cantidades anormales de materiales, mano de obra u otros costos de conversión desperdiciados, razonablemente determinables y que distorsionen el costo de los bienes producidos, no participarán en su determinación y deben ser reconocidos como resultados del período.» El nivel normal es «la producción que se espera alcanzar como promedio de varios períodos», por debajo de la capacidad total, «un indicador realista y no como un objetivo ideal». Separa tres cosas que el campo suele mezclar (la ineficiencia, la ociosidad bajo el nivel normal y el desperdicio anormal) y manda las tres a resultados. [Producción en la Argentina](../produccion-en-argentina.md) enlaza acá para esta norma.
+Para los desperdicios agrega: «Los importes correspondientes a cantidades anormales de materiales, mano de obra u otros costos de conversión desperdiciados, razonablemente determinables y que distorsionen el costo de los bienes producidos, no participarán en su determinación y deben ser reconocidos como resultados del período.» El nivel normal es «la producción que se espera alcanzar como promedio de varios períodos», por debajo de la capacidad total, «un indicador realista y no como un objetivo ideal». La norma separa tres cosas (la ineficiencia, la ociosidad bajo el nivel normal y el desperdicio anormal) y manda las tres a resultados. [Producción en la Argentina](../produccion-en-argentina.md) enlaza acá para esta norma.
 
 > [!NOTE] Sin fuente todavía: el texto vigente. La RT 17 se leyó en el texto ordenado de 2003; la RT 54 unificó las normas contables para la mayoría de las empresas y se consulta en texto ordenado (ver [normas contables en Argentina](../../Contabilidad/Estados-contables/normas-contables-en-argentina.md)). Falta confirmar en el texto vigente de la FACPCE que la exclusión de lo anormal y de la ociosidad sigue igual, y una segunda fuente argentina independiente (el informe 14 del CENCyA es la candidata).
 
@@ -74,7 +74,7 @@ Con una tasa normal fijada de antemano; la RT 17 no da un porcentaje. En los sis
 
 Una fuente de divulgación (según el resumen) dice que el rechazo normal «is included in cost of manufacturing, and it's part of job costing», y que el anormal se saca de la producción en proceso: sus costos «are posted to a loss account». La merma normal se le carga a la orden que la causó, neta de lo que se recupere vendiendo el desecho, o se reparte entre todas por la carga fabril, según sea propia de la orden o del proceso.
 
-| Caso | Dónde va, según las fuentes secundarias |
+| Caso | Dónde va, según las fuentes secundarias (resúmenes) |
 |---|---|
 | Merma o rechazo normal, propio de la orden | a la orden |
 | Merma o rechazo normal, propio del proceso | a la carga fabril, y de ahí a todas las órdenes |

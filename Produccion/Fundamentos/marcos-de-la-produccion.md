@@ -37,7 +37,7 @@ En la versión 7.4, la producción no es una categoría propia: vive en 4.0 «Ma
 | 4.3.3 Perform quality testing | 4.3.3.1 Calibrate test equipment; .2 Perform testing using the standard testing procedure; .3 Manage quality samples; .4 Record test results; .5 Track and analyze non-conformance trends; .6 Perform root cause analysis | [Plan de inspección](../Calidad/plan-de-inspeccion.md) (.1 a .4); [no conformidad](../Calidad/no-conformidad.md) (.5); [acción correctiva](../Calidad/accion-correctiva.md) (.6) |
 | 4.3.4 Maintain production records and manage lot traceability | 4.3.4.1 Determine lot numbering system; .2 Determine lot use | [Trazabilidad de lotes](../Calidad/trazabilidad-de-lotes.md); el lote como atributo del stock, en [lote y serie](../../Inventario-y-depositos/Existencias/lote-y-serie.md) |
 
-Tres diferencias con el árbol de la base. El PCF no nombra la lista de materiales ni los cambios de ingeniería: una búsqueda de «bill of material» y de «engineering change» en su texto no dio resultados, y el diseño del producto va en 2.0, que no se revisó. El costo del producto es 9.1.2.4 «Perform product costing», dentro de la contabilidad de costos (acá, [Costos de producción](../Costos-de-produccion/costos-de-produccion.md)), y el mantenimiento real es 10.3 «Plan asset maintenance» (4.3 solo lo pide). Y la capacidad no tiene un proceso de ejecución propio: aparece como estrategia (4.1.1.5) y como plan con restricciones (4.1.3.5).
+Tres diferencias con el árbol de la base. El PCF no nombra la lista de materiales ni los cambios de ingeniería: una búsqueda de «bill of material» y de «engineering change» en su texto no dio resultados, y el diseño del producto va en 2.0, que no se revisó. El costo del producto es 9.1.2.4 «Perform product costing», dentro de la contabilidad de costos (acá, [Costos de producción](../Costos-de-produccion/costos-de-produccion.md)), y el mantenimiento real es 10.3 «Maintain assets», con 10.3.1 «Plan asset maintenance» (4.3 solo lo pide). Y la capacidad no tiene un proceso de ejecución propio: aparece como estrategia (4.1.1.5) y como plan con restricciones (4.1.3.5).
 
 ## ISA-95: cinco niveles y la frontera entre ERP y MES
 
@@ -86,8 +86,8 @@ De SCOR, la base leyó solo la introducción de la v13 (2020), que organiza la c
 
 Los marcos describen procesos, no datos. Lo que se deduce de ellos es inferencia de la base; lo que piden las escuelas y la evidencia está en [fundamentos de producción](fundamentos-de-produccion.md#lo-que-las-escuelas-le-piden-a-un-sistema).
 
-- **Dos versiones del plan de materiales**: la que no mira restricciones y la que sí (4.1.3.1 y 4.1.3.5).
-- **La orden con su lote**: el PCF crea el lote al programar y al liberar la orden (4.3.1.4 y 4.3.1.7), y pide una regla de numeración de lotes y el registro de su uso (4.3.4).
-- **Los resultados de los ensayos** con la muestra y el equipo calibrado (4.3.3), guardados de forma que se puedan ver tendencias de no conformidades (4.3.3.5).
-- **Separar la orden de la receta**: ISA-95 distingue la Job Order, lo que se ejecuta, del Work Master, cómo se hace. En un sistema, la orden apunta a la versión de la ruta y la lista que usó, y no las copia sin rastro.
-- **Un intercambio definido entre el ERP y el MES**: qué baja al nivel 3 (la orden y el programa) y qué sube al 4 (lo producido, lo consumido, las horas). Sin MES, el ERP recibe esas mismas declaraciones directamente.
+- Dos versiones del plan de materiales: la que no mira restricciones y la que sí (4.1.3.1 y 4.1.3.5).
+- La orden con su lote: el PCF crea el lote al programar y al liberar la orden (4.3.1.4 y 4.3.1.7), y pide una regla de numeración de lotes y el registro de su uso (4.3.4).
+- Los resultados de los ensayos con la muestra y el equipo calibrado (4.3.3), guardados de forma que se puedan ver tendencias de no conformidades (4.3.3.5).
+- Separar la orden de la receta: ISA-95 distingue la Job Order, lo que se ejecuta, del Work Master, cómo se hace. En un sistema, la orden apunta a la versión de la ruta y la lista que usó, y no las copia sin rastro.
+- Un intercambio definido entre el ERP y el MES: qué baja al nivel 3 (la orden y el programa) y qué sube al 4 (lo producido, lo consumido, las horas). Sin MES, el ERP recibe esas mismas declaraciones directamente.

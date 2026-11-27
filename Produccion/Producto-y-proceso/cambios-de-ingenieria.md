@@ -22,7 +22,7 @@ revisado:
 
 Un cambio de ingeniería es la modificación controlada de la lista de materiales o la ruta de un producto: alguien la pide, se evalúa, se aprueba y entra en vigencia en una fecha o un número de serie, con una decisión sobre el stock y la producción en proceso que quedan con la versión anterior.
 
-Es la tercera pieza de [Producto y proceso](producto-y-proceso.md): la [lista de materiales](lista-de-materiales.md) y la [ruta de fabricación](ruta-de-fabricacion.md) dicen cómo es el producto hoy, y el cambio de ingeniería dice cómo y desde cuándo pasa a ser otro. Muchas veces nace en Calidad: una [no conformidad](../Calidad/no-conformidad.md) que se repite lleva a una [acción correctiva](../Calidad/accion-correctiva.md), y si la causa está en el diseño, la acción termina en un cambio de ingeniería.
+Es la tercera pieza de [Producto y proceso](producto-y-proceso.md): la [lista de materiales](lista-de-materiales.md) y la [ruta de fabricación](ruta-de-fabricacion.md) dicen cómo es el producto hoy, y el cambio de ingeniería dice cómo y desde cuándo pasa a ser otro. Puede nacer en Calidad: una [no conformidad](../Calidad/no-conformidad.md) que se repite lleva a una [acción correctiva](../Calidad/accion-correctiva.md), y si la causa está en el diseño, la acción termina en un cambio de ingeniería.
 
 ## De dónde viene: la gestión de la configuración
 
@@ -34,7 +34,7 @@ El índice de la norma muestra los pasos del control de cambios (cláusula 5.4):
 
 ## Solicitud y orden de cambio
 
-En el uso corriente se habla de la solicitud de cambio (ECR), antes de que se decida, y de la orden de cambio (ECO), que lo autoriza. Wikipedia trata el aviso de cambio (ECN) como sinónimo de la orden. Wikipedia define la orden como un «document approved by the design activity that describes and authorizes the implementation of an engineering change», con este contenido mínimo: la pieza, los motivos, cómo era y cómo queda, los documentos y áreas afectados, la aprobación y las instrucciones de oportunidad: por ejemplo, tirar ya el stock actual o esperar a la próxima corrida.
+Se suele distinguir entre la solicitud de cambio (ECR), antes de que se decida, y la orden de cambio (ECO), que lo autoriza (distinción sin fuente primaria; ver la nota de abajo). Wikipedia trata el aviso de cambio (ECN) como sinónimo de la orden. Wikipedia define la orden como un «document approved by the design activity that describes and authorizes the implementation of an engineering change», con este contenido mínimo: la pieza, los motivos, cómo era y cómo queda, los documentos y áreas afectados, la aprobación y las instrucciones de oportunidad: por ejemplo, tirar ya el stock actual o esperar a la próxima corrida.
 
 Los sistemas leídos no tienen la solicitud como objeto aparte. Uno abierto maneja una sola orden que avanza por etapas; uno comercial, una orden con un estado y un estado de aprobación. Una orden agrupa artículos revisados «logically related to each other, such as a new product introduction».
 
@@ -46,7 +46,7 @@ Un cambio no edita la lista vigente: crea una versión nueva. En un sistema abie
 
 Tiene que haber una sola versión activa por período. Un sistema comercial lo controla al activar: «You receive an error message if the version that you're trying to activate conflicts with a version that is already active». El mismo sistema acota cada versión por período, cantidad, planta y otros criterios, y permite activar juntas todas las listas de un cambio «for one activation date».
 
-La [orden de producción](../Ejecucion-en-planta/orden-de-produccion.md) guarda la versión de la lista y la ruta que usó. Por eso, cuando un lote falla, se puede saber con qué versión se fabricó y la [trazabilidad de lotes](../Calidad/trazabilidad-de-lotes.md) puede separar lo fabricado antes y después del cambio.
+Lo que se espera es que la [orden de producción](../Ejecucion-en-planta/orden-de-produccion.md) guarde la versión de la lista y la ruta que usó. Por eso, cuando un lote falla, se podría saber con qué versión se fabricó y la [trazabilidad de lotes](../Calidad/trazabilidad-de-lotes.md) podría separar lo fabricado antes y después del cambio (inferencia de la base).
 
 ## Vigencia: por fecha, por número de serie o al agotar
 
@@ -80,7 +80,7 @@ El costo estándar del producto no se actualiza solo con el cambio. En un sistem
 
 ## Quién aprueba y en qué estados pasa la orden
 
-Ningún cambio llega a la planta sin aprobación. En un sistema abierto, las etapas de verificación son «stages that require approval before the revised changes can be applied to the production BoM», y el cambio no se aplica hasta que aceptan los aprobadores. En uno comercial, la aprobación tiene sus propios estados (sin enviar, pedida, aprobada, rechazada), y el sistema no deja implementar ni programar un cambio que no esté aprobado.
+En los sistemas leídos, ningún cambio llega a la planta sin aprobación. En uno abierto, las etapas de verificación son «stages that require approval before the revised changes can be applied to the production BoM», y el cambio no se aplica hasta que aceptan los aprobadores. En uno comercial, la aprobación tiene sus propios estados (sin enviar, pedida, aprobada, rechazada), y el sistema no deja implementar ni programar un cambio que no esté aprobado.
 
 Los estados de la orden en el sistema comercial leído:
 
@@ -99,9 +99,9 @@ Ninguna fuente leída exige una junta de control de cambios.
 
 Inferencia de la base sobre el mecanismo descrito arriba:
 
-- **Cambios sin vigencia.** Se corrige la lista vigente en lugar de crear una versión. Las órdenes abiertas, el MRP y el costo quedan con datos que nadie puede fechar, y no se sabe con qué versión se fabricó cada lote.
-- **Listas en paralelo.** Ingeniería cambia su lista y la de fabricación no se actualiza, o la planta corrige la suya sin avisar. Cada área cree que la suya es la buena; está en [lista de ingeniería y lista de fabricación](lista-de-materiales.md#lista-de-ingeniería-y-lista-de-fabricación).
-- **Sin decisión sobre el stock.** El cambio entra en vigencia y nadie decidió qué hacer con lo que ya había: queda material obsoleto en el depósito o se consume el viejo en un producto que ya debía llevar el nuevo.
+- Cambios sin vigencia: se corrige la lista vigente en lugar de crear una versión. Las órdenes abiertas, el MRP y el costo quedan con datos que nadie puede fechar, y no se sabe con qué versión se fabricó cada lote.
+- Listas en paralelo: ingeniería cambia su lista y la de fabricación no se actualiza, o la planta corrige la suya sin avisar. Cada área cree que la suya es la buena; está en [lista de ingeniería y lista de fabricación](lista-de-materiales.md#lista-de-ingeniería-y-lista-de-fabricación).
+- Sin decisión sobre el stock: el cambio entra en vigencia y nadie decidió qué hacer con lo que ya había: queda material obsoleto en el depósito o se consume el viejo en un producto que ya debía llevar el nuevo.
 
 ## Qué guarda una orden de cambio
 

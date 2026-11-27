@@ -25,11 +25,11 @@ revisado:
 
 Una acción correctiva elimina la causa de una no conformidad para que no se repita, a diferencia de la corrección, que arregla lo que ya salió mal. Se abre con un problema, busca la causa raíz, cambia algo en el producto, el proceso o el sistema, y se cierra solo cuando se verificó que funcionó.
 
-Es la pieza de mejora de [Calidad](calidad.md), la que según la trilogía de Juran baja el nivel crónico en lugar de apagar un pico. La alimentan la [no conformidad](no-conformidad.md) que se repite, las señales del [control estadístico de procesos](control-estadistico-de-procesos.md) y el [reclamo](../../Servicio-al-cliente/Caso/reclamo.md) que llega por [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md). APQC 7.4 la nombra en 4.3.3.6 «Perform root cause analysis».
+Es la pieza de mejora de [Calidad](calidad.md), la que, leída con la trilogía de Juran, baja el nivel crónico en lugar de apagar un pico (lectura de la base). La alimentan la [no conformidad](no-conformidad.md) que se repite, las señales del [control estadístico de procesos](control-estadistico-de-procesos.md) y el [reclamo](../../Servicio-al-cliente/Caso/reclamo.md) que llega por [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md). APQC 7.4 la nombra en 4.3.3.6 «Perform root cause analysis».
 
 ## Corrección, acción correctiva y acción preventiva
 
-Un sistema tiene que separar las tres:
+Un sistema tiene que separar las tres. La distinción es criterio de la base; las definiciones de ISO 9000 no se leyeron.
 
 | | Sobre qué actúa | Ejemplo de la base |
 |---|---|---|
@@ -37,7 +37,7 @@ Un sistema tiene que separar las tres:
 | Acción correctiva | la causa de un problema que ya pasó | cambiar el sujetador que deja mover la pieza y agregar un control en primera pieza |
 | Acción preventiva | la causa de un problema que todavía no pasó | revisar las otras máquinas con el mismo sujetador |
 
-**ISO 9001:2015 no tiene una cláusula de acción preventiva.** La presentación de NSAI lo dice así sobre la 10.2: «Does not include a clause on Preventive action as an emphasis on risk-based thinking throughout the standard supersedes a single clause on preventive action». Según la misma fuente, la 10.2 pide «taking action to control and correct nonconformity and address the consequences, determining if similar nonconformities exist or could happen, making changes to QMS if necessary».
+ISO 9001:2015 no tiene una cláusula de acción preventiva. La presentación de NSAI lo dice así sobre la 10.2: «Does not include a clause on Preventive action as an emphasis on risk-based thinking throughout the standard supersedes a single clause on preventive action». Según la misma fuente, la 10.2 pide «taking action to control and correct nonconformity and address the consequences, determining if similar nonconformities exist or could happen, making changes to QMS if necessary».
 
 Las fuentes secundarias lo leen de dos maneras. Para algunas (BSI, Advisera, Quality Magazine), la acción preventiva fue reemplazada por las acciones para abordar riesgos y oportunidades. Para un documento del comité ISO/TC 176, quedó absorbida: está incorporada cuando el sistema se basa en riesgos. El anexo A.3 de la norma, que lo explica, no se leyó.
 
@@ -57,7 +57,7 @@ CAPA (corrective and preventive action) es el nombre que la regulación de dispo
 
 El apartado (b) pide documentar todas las actividades y sus resultados.
 
-**Desde el 2 de febrero de 2026 rige otra regla.** El Federal Register de 2024 dice: «This rule is effective February 2, 2026». La nueva regulación (QMSR) incorpora ISO 13485:2016 por referencia. Según la FDA, los puntos 6 y 7 de 820.100 no figuran en ISO 13485, pero su sustancia está cubierta por las cláusulas 8.2.2, 8.5.2 y 8.3.1.
+Desde el 2 de febrero de 2026 rige otra regla. El Federal Register de 2024 dice: «This rule is effective February 2, 2026». La nueva regulación (QMSR) incorpora ISO 13485:2016 por referencia. Según la FDA, los puntos 6 y 7 de 820.100 no figuran en ISO 13485, pero su sustancia está cubierta por las cláusulas 8.2.2, 8.5.2 y 8.3.1.
 
 > [!NOTE] Sin fuente todavía: si la sección 820.100 fue derogada o reemplazada en el CFR después del 2 de febrero de 2026. El texto leído no traía aviso de reemplazo. La lista de siete puntos sigue sirviendo como patrón abierto de un proceso de CAPA, aunque haya dejado de ser la norma.
 
@@ -85,13 +85,13 @@ Las dos fuentes nombran distinto D5 y D6. El punto de escape es lo que el 8D agr
 
 La técnica pregunta «por qué» en cadena hasta llegar a una causa sobre la que se puede actuar. Wikipedia cita a Ohno: el método es «the basis of Toyota's scientific approach by repeating why five times», y así «the nature of the problem as well as its solution becomes clear». La frase del libro (*Toyota Production System*, 1988) no se verificó.
 
-La crítica más citada es de Card, en *BMJ Quality & Safety* (2017), desde la seguridad del paciente. Según Wikipedia: «The arbitrary depth of the fifth why is unlikely to correlate with the root cause». Según un fragmento del resumen, la técnica «probably owes its place in the curriculum and practice of RCA to a combination of pedigree, simplicity and pedagogy». Según otro resumen, Card concede su valor para enseñar pero la desaconseja para investigaciones reales: una cadena de porqués da una sola vía causal, y otro equipo puede armar otras cinco igual de válidas. El artículo no se leyó entero, y llevarlo a la fábrica es inferencia de la base.
+La crítica más citada es de Card, en *BMJ Quality & Safety* (2017), desde la seguridad del paciente. Según Wikipedia: «The arbitrary depth of the fifth why is unlikely to correlate with the root cause». Según un fragmento parcial del resumen, tomado de un índice bibliográfico, la técnica «probably owes its place in the curriculum and practice of RCA to a combination of pedigree, simplicity and pedagogy». Según otro resumen, Card concede su valor para enseñar pero la desaconseja para investigaciones reales: una cadena de porqués da una sola vía causal, y otro equipo puede armar otras cinco igual de válidas. El artículo no se leyó entero, y llevarlo a la fábrica es inferencia de la base.
 
 Wikipedia suma otras: se queda en los síntomas, depende de quien pregunta y no da lo mismo con dos investigadores.
 
 ## El diagrama de Ishikawa
 
-El diagrama de causa y efecto, o de espina de pescado, ordena las causas posibles de un efecto por categorías. Según ASQ (por el buscador), se llama así «because Kaoru Ishikawa developed it» e «illustrates the main causes and subcauses leading to an effect». La versión de Ishikawa usaba seis categorías, las 6M: materiales, máquinas, métodos, medición, mano de obra y medio ambiente. Es la alternativa que propone Card para no quedarse con una sola cadena.
+El diagrama de causa y efecto, o de espina de pescado, ordena las causas posibles de un efecto por categorías. Según ASQ (por el buscador), se llama así «because Kaoru Ishikawa developed it» e «illustrates the main causes and subcauses leading to an effect». La versión de Ishikawa usaba seis categorías, las 6M: materiales, máquinas, métodos, medición, mano de obra y medio ambiente. Card propone el diagrama de espina de pescado, entre otras alternativas, para no quedarse con una sola cadena.
 
 > [!NOTE] Sin fuente todavía: el año y el libro de origen del diagrama de Ishikawa.
 
@@ -99,18 +99,18 @@ El diagrama de causa y efecto, o de espina de pescado, ordena las causas posible
 
 La salida de una acción correctiva es un cambio que queda. Según dónde esté la causa:
 
-- **En el diseño del producto o en la ruta**: un [cambio de ingeniería](../Producto-y-proceso/cambios-de-ingenieria.md) de la lista de materiales o la ruta de fabricación, con su vigencia.
-- **En el control**: una línea nueva o una frecuencia distinta en el [plan de inspección](plan-de-inspeccion.md).
-- **En el proveedor**: un reclamo y un dato para su [evaluación](../../Compras-y-abastecimiento/Proveedores/evaluacion-de-proveedores.md), en Compras.
-- **En la máquina**: un pedido a [Activos y mantenimiento](../../Activos-y-mantenimiento/activos-y-mantenimiento.md).
-- **En el sistema**: un procedimiento o una instrucción que cambia, que es lo que la 10.2 llama «making changes to QMS».
+- En el diseño del producto o en la ruta: un [cambio de ingeniería](../Producto-y-proceso/cambios-de-ingenieria.md) de la lista de materiales o la ruta de fabricación, con su vigencia.
+- En el control: una línea nueva o una frecuencia distinta en el [plan de inspección](plan-de-inspeccion.md).
+- En el proveedor: un reclamo y un dato para su [evaluación](../../Compras-y-abastecimiento/Proveedores/evaluacion-de-proveedores.md), en Compras.
+- En la máquina: un pedido a [Activos y mantenimiento](../../Activos-y-mantenimiento/activos-y-mantenimiento.md).
+- En el sistema: un procedimiento o una instrucción que cambia, que es lo que la 10.2 llama «making changes to QMS», según NSAI.
 
 ## Cómo falla una acción correctiva
 
-- **Se cierra sin verificar la eficacia.** Se implementa el cambio y se da por cerrada. La verificación es un requisito explícito del punto 4 de 820.100; sin ella, el mismo defecto reaparece meses después con otro número de caso (lo segundo es criterio de la base).
-- **Se confunde la corrección con la acción.** Se reprocesó el lote y se anota como acción correctiva. La causa sigue ahí.
-- **Se salta la contención.** Se busca la causa mientras el stock afectado sigue saliendo. El 8D la pone en D3, antes de la causa; la [trazabilidad de lotes](trazabilidad-de-lotes.md) dice qué apartar.
-- **La causa raíz es «error humano».** Es el final típico de una cadena de porqués corta; no dice qué cambiar en el proceso para que el error no sea posible (criterio de la base).
+- Se cierra sin verificar la eficacia. Se implementa el cambio y se da por cerrada. La verificación es un requisito explícito del punto 4 de 820.100; sin ella, el mismo defecto reaparece meses después con otro número de caso (lo segundo es criterio de la base).
+- Se confunde la corrección con la acción. Se reprocesó el lote y se anota como acción correctiva. La causa sigue ahí.
+- Se salta la contención. Se busca la causa mientras el stock afectado sigue saliendo. El 8D la pone en D3, antes de la causa; la [trazabilidad de lotes](trazabilidad-de-lotes.md) dice qué apartar.
+- La causa raíz es «error humano». Es el final típico de una cadena de porqués corta; no dice qué cambiar en el proceso para que el error no sea posible (criterio de la base).
 
 ## Qué guarda una acción correctiva
 

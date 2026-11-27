@@ -58,7 +58,7 @@ El costo de la calidad mide cuánto gasta una empresa en que el producto salga b
 | Fallas internas | defectos que se detectan antes de entregar |
 | Fallas externas | defectos que encuentra el cliente |
 
-Según la biografía de ASQ, Feigenbaum fue el primero en caracterizar los costos de la calidad como de prevención, evaluación y fallas internas y externas. El mismo resultado de búsqueda recoge un debate: la teoría tradicional supone un nivel óptimo de esfuerzo que minimiza el costo total, y los defensores de la calidad total sostienen que la prevención y la evaluación cuestan menos, y las fallas más, de lo que supone ese modelo.
+Según la biografía de ASQ, el texto de Feigenbaum fue el primero en caracterizar los costos de la calidad como costos de prevención, de evaluación y de fallas internas y externas. El mismo resultado de búsqueda recoge un debate: la teoría tradicional supone un nivel óptimo de esfuerzo que minimiza el costo total, y los defensores de la calidad total sostienen que la prevención y la evaluación cuestan menos, y las fallas más, de lo que supone ese modelo.
 
 Los datos salen de otras partes del tema. Las fallas internas son las piezas rechazadas, reprocesadas o desechadas que registra la [no conformidad](no-conformidad.md); su costo sale de los registros de la orden ([costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md)), y adónde va lo dice [Costos de producción](../Costos-de-produccion/costos-de-produccion.md#mermas-rechazos-y-reproceso-normal-frente-a-anormal). Las fallas externas llegan como reclamo por [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md) (inferencia de la base).
 
@@ -66,9 +66,9 @@ Los datos salen de otras partes del tema. Las fallas internas son las piezas rec
 
 ## ISO 9001 como sistema de gestión
 
-ISO 9001 es la norma de requisitos para un sistema de gestión de la calidad: no dice cómo fabricar, sino qué tiene que estar definido, controlado y registrado.
+ISO 9001 es la norma de requisitos para un sistema de gestión de la calidad (su título es «Quality management systems – Requirements»). Pide que esté definido, controlado y registrado lo que afecta al producto, y deja a la empresa el cómo fabricar (lectura de la base).
 
-**La edición vigente es la de 2026.** ISO anunció el 16 de septiembre de 2026 «the launch of ISO 9001:2026, Quality management systems – Requirements». Según el comité ISO/TC 176, en una entrada leída por el lector y no verificada en el HTML, la transición es así:
+La edición vigente es la de 2026. ISO anunció el 16 de septiembre de 2026 «the launch of ISO 9001:2026, Quality management systems – Requirements». Según el comité ISO/TC 176, en una entrada leída por el lector y no verificada en el HTML, la transición es así:
 
 | Fecha | Qué pasa |
 |---|---|
@@ -78,7 +78,7 @@ ISO 9001 es la norma de requisitos para un sistema de gestión de la calidad: no
 
 Según el comunicado de ISO, la edición nueva pone «greater emphasis on leadership, a culture of quality and ethical behaviour», aclara cómo considerar riesgos y oportunidades, suma una sección que explica la intención de los requisitos y adopta la estructura armonizada de las normas de sistemas de gestión.
 
-**Las cláusulas que tocan la producción se conocen solo de segunda mano.** El texto de ISO 9001 es de pago y no se pudo leer ni en la edición 2015 ni en la 2026. Lo que sigue sale de una presentación de NSAI, el organismo de normalización de Irlanda, sobre la edición 2015:
+Las cláusulas que tocan la producción se conocen solo de segunda mano. El texto de ISO 9001 es de pago y no se pudo leer ni en la edición 2015 ni en la 2026. Lo que sigue sale de una presentación de NSAI, el organismo de normalización de Irlanda, sobre la edición 2015:
 
 | Cláusula (2015) | Qué dice NSAI | Dónde se trata |
 |---|---|---|
@@ -102,16 +102,16 @@ El marco de procesos de APQC (versión 7.4) reparte la calidad de la fabricació
 | 4.3.3 (sigue) | seguir y analizar las tendencias de no conformidad; analizar la causa raíz | [no conformidad](no-conformidad.md), [acción correctiva](accion-correctiva.md) |
 | 4.3.4 «Maintain production records and manage lot traceability» | definir el sistema de numeración de lotes; definir el uso del lote | [trazabilidad de lotes](trazabilidad-de-lotes.md) |
 
-APQC no tiene un proceso de control estadístico; la base lo trata aparte porque controla el proceso y no el producto.
+En los procesos de 4.1 y 4.3 que se leyeron no aparece el control estadístico. La base lo trata aparte porque vigila el proceso y no el producto (inferencia de la base).
 
 ## Cómo falla la calidad en una fábrica
 
 Como criterio de la base, a partir de lo que las fuentes de cada nota marcan:
 
-- **Se inspecciona y no se registra.** El resultado queda en la cabeza del inspector; no hay historia para el gráfico de control ni para la tendencia de no conformidades.
-- **Lo rechazado no se aparta.** La pieza mala vuelve a la línea o al depósito y se usa por error, que es justo lo que la cláusula 8.7 quiere evitar.
-- **Se corrige y no se busca la causa.** Se reprocesa el lote y el defecto vuelve en el siguiente. La [acción correctiva](accion-correctiva.md) se cierra sin verificar que funcionó.
-- **El consumo no dice qué lote usó.** El día de un retiro no se sabe qué lotes fabricados llevan el componente malo: la [trazabilidad de lotes](trazabilidad-de-lotes.md) quedó rota en la [declaración de consumo](../Ejecucion-en-planta/consumo-y-declaracion.md).
+- Se inspecciona y no se registra. El resultado queda en la cabeza del inspector; no hay historia para el gráfico de control ni para la tendencia de no conformidades.
+- Lo rechazado no se aparta. La pieza mala vuelve a la línea o al depósito y se usa por error, que es lo que la cláusula 8.7 busca evitar, según fuentes secundarias.
+- Se corrige y no se busca la causa. Se reprocesa el lote y el defecto vuelve en el siguiente. La [acción correctiva](accion-correctiva.md) se cierra sin verificar que funcionó.
+- El consumo no dice qué lote usó. El día de un retiro no se sabe qué lotes fabricados llevan el componente malo: la [trazabilidad de lotes](trazabilidad-de-lotes.md) quedó rota en la [declaración de consumo](../Ejecucion-en-planta/consumo-y-declaracion.md).
 
 ## Qué hay en Calidad
 

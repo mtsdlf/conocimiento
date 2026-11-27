@@ -5,7 +5,7 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "Documentación de Work Order de un sistema abierto (entrega a producción en proceso, consumo automático, devolución, desecho): https://docs.frappe.io/erpnext/user/manual/en/work-order"
-  - "Documentación de Job Card del mismo sistema (pérdida de proceso, según el resumen): https://docs.frappe.io/erpnext/user/manual/en/job-card"
+  - "Documentación de Job Card del mismo sistema (pérdida de proceso): https://docs.frappe.io/erpnext/user/manual/en/job-card"
   - "Glosario de un sistema comercial que cita el APICS Dictionary, 8.ª ed., entrada backflush (según el resumen): https://erp.smcusa.com/SyteLine/Language/en-US/mergedProjects/sl_main/other/glossary/def_backflush.htm"
   - "IISE, Z94.14 Operations & Inventory Planning & Control, entradas back flush y by-product (según el resumen): https://www.iise.org/Details.aspx?id=2402"
   - "NIC 2 Existencias, párrafo 14, en el Reglamento (CE) 1126/2008, Diario Oficial de la UE L 320, 29.11.2008: https://www.boe.es/doue/2008/320/L00001-00481.pdf"
@@ -20,7 +20,7 @@ revisado:
 
 El consumo registra qué material, de qué lote, usó una orden de producción, y la declaración de producción registra qué salió de ella: cuánto bueno, cuánto rechazado, cuánta merma y qué subproductos. Son los dos hechos que convierten el trabajo de la planta en movimientos de stock y en costo.
 
-Pertenecen a la [orden de producción](orden-de-produccion.md), dentro de [Ejecución en planta](ejecucion-en-planta.md). Cada uno termina en un movimiento de stock, que es de Inventario: el material sale de un lugar y el terminado entra en otro, como filas del [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md). Los sistemas modelan la producción como una [ubicación](../../Inventario-y-depositos/Operacion-del-deposito/ubicaciones.md) virtual, así que consumir es mover del estante a la producción. Acá se decide qué orden pide el movimiento y qué cantidad le corresponde.
+Pertenecen a la [orden de producción](orden-de-produccion.md), dentro de [Ejecución en planta](ejecucion-en-planta.md). Cada uno termina en un movimiento de stock, que es de Inventario: el material sale de un lugar y el terminado entra en otro, como filas del [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md). El sistema abierto leído modela la producción en proceso como un depósito propio, una [ubicación](../../Inventario-y-depositos/Operacion-del-deposito/ubicaciones.md) más, así que consumir es mover del estante a la producción. Acá se decide qué orden pide el movimiento y qué cantidad le corresponde.
 
 ## Entregar el material a la orden
 
@@ -32,7 +32,7 @@ Entregar primero tiene una ventaja: la orden abierta muestra su costo mientras a
 
 ## El consumo automático
 
-El consumo automático (backflush) descuenta los componentes después, a partir de lo producido. La definición del APICS Dictionary, 8.ª edición, citada en el glosario de un sistema comercial, es «The deduction from inventory records of the component parts used in an assembly or subassembly» «by exploding the bill of materials by the production count of assemblies produced». El glosario Z94.14 del IISE dice lo mismo. Las dos son de la misma tradición y cuentan como una sola fuente.
+El consumo automático (backflush) descuenta los componentes después, a partir de lo producido. La definición del APICS Dictionary, 8.ª edición, citada en el glosario de un sistema comercial, es «The deduction from inventory records of the component parts used in an assembly or subassembly» «by exploding the bill of materials by the production count of assemblies produced». El glosario Z94.14 del IISE, según su resumen, empieza igual, pero la frase quedó cortada. Las dos son de la misma tradición y cuentan como una sola fuente.
 
 En el sistema abierto se activa con una opción: «Backflush Raw Materials From Work-in-Progress Warehouse». Con ella, la declaración crea un movimiento de tipo fabricación que consume desde el depósito de origen e ingresa el terminado. Otra opción saltea la entrega: «the raw material is considered to be consumed hence the Stock Entry is skipped».
 
@@ -55,7 +55,7 @@ Lo que sale de una orden se reparte en cuatro destinos:
 | Merma | material o producto que se pierde en el proceso y no sale como pieza | se registra como pérdida de la orden; el desecho con valor, a un depósito de desecho |
 | Subproducto o coproducto | otra salida del mismo proceso | su propio depósito, con su cantidad |
 
-Para el desecho, el sistema abierto pide un lugar: «If the BOM results in Scrap material, the Scrap Warehouse needs to be selected». Para la merma de una operación tiene una regla propia, según el resumen: la pérdida de proceso «will be calculated only when the Pending Qty is zero»; con 10 a fabricar y 6 terminadas, al cerrar la operación «the remaining 4 become process loss». Es una decisión de ese sistema, no un estándar.
+Para el desecho, el sistema abierto pide un lugar: «If the BOM results in Scrap material, the Scrap Warehouse needs to be selected». Para la merma de una operación tiene una regla propia: la pérdida de proceso «will be calculated only when the Pending Qty is zero»; con 10 a fabricar y 6 terminadas, mientras queden 4 pendientes no la calcula, y con cero pendientes las 4 restantes «will be treated as Process Loss Qty». Es una decisión de ese sistema, no un estándar.
 
 Merma, rechazo, desecho y reproceso tienen un sentido cada uno en todo el tema (criterio de la base). Merma es la cantidad que se pierde en el proceso. Rechazo es la pieza que salió y no cumple. Desecho es lo que se da de baja físicamente: el sobrante de la merma, como un recorte, o las piezas que la no conformidad dispuso desechar; puede tener valor de recupero. Reproceso es el trabajo que deja conforme una pieza rechazada. Desechar y reprocesar son dos de las disposiciones que define [no conformidad](../Calidad/no-conformidad.md#las-disposiciones-posibles).
 
@@ -63,12 +63,14 @@ La lista ya trae una merma normal por componente y un rendimiento esperado, como
 
 ## Subproducto y coproducto: la norma contable y un glosario no coinciden
 
-Algunos procesos dan más de una salida. La NIC 2, en su párrafo 14, lo describe así: «El proceso de producción puede dar lugar a la fabricación simultánea de más de un producto. Es el caso, por ejemplo, de la producción conjunta o de la producción de productos principales junto a subproductos». Si el costo de cada uno no se puede identificar por separado, se reparte «utilizando bases uniformes y racionales», por ejemplo por el valor de mercado. Y agrega: «La mayoría de los subproductos, por su propia naturaleza, no poseen un valor significativo», y entonces se miden «por su valor realizable neto, deduciendo esa cantidad del coste del producto principal».
+Algunos procesos dan más de una salida. La NIC 2, en su párrafo 14, lo describe así: «El proceso de producción puede dar lugar a la fabricación simultánea de más de un producto. Es el caso, por ejemplo, de la producción conjunta o de la producción de productos principales junto a subproductos». Si el costo de cada uno no se puede identificar por separado, se reparte «utilizando bases uniformes y racionales», por ejemplo por el valor de mercado. Y agrega: «La mayoría de los subproductos, por su propia naturaleza, no poseen un valor significativo», y entonces se miden con frecuencia «por su valor realizable neto, deduciendo esa cantidad del coste del producto principal».
 
 > [!IMPORTANT]
-> **Qué es un coproducto.** La NIC 2 distingue productos conjuntos, que se reparten el costo, de un producto principal con subproductos de poco valor. El glosario Z94.14 del IISE define el subproducto como «A material of value produced as residual of or incidental to the production process» y da «co-product» como sinónimo. En las fuentes, «coproducto» no tiene un sentido único.
+> Qué es un coproducto. La NIC 2 distingue productos conjuntos, que se reparten el costo, de un producto principal con subproductos de poco valor. El glosario Z94.14 del IISE define el subproducto como «A material of value produced as residual of or incidental to the production process» y da «co-product» como sinónimo. En las fuentes, «coproducto» no tiene un sentido único.
 
-En el tema, la base sigue a la NIC 2 (criterio de la base): coproducto es una salida de valor comparable a la principal, que se lleva una parte del costo; subproducto es una salida secundaria de poco valor, que se mide por lo que se obtiene al venderla. El texto leído es el de la Unión Europea; la Argentina adopta las NIIF por la Resolución Técnica 26 de la FACPCE, que no se leyó. En la lista, cada salida extra es un renglón del lado de lo que sale, como cuenta [lista de materiales](../Producto-y-proceso/lista-de-materiales.md#subproducto-y-coproducto-como-datos-de-la-lista).
+En el tema, la base sigue a la NIC 2 (criterio de la base): coproducto es una salida de valor comparable a la principal, que se lleva una parte del costo; subproducto es una salida secundaria de poco valor, que se mide por lo que se obtiene al venderla. El texto leído es el de la Unión Europea, no el de la norma argentina.
+
+> [!NOTE] Sin fuente todavía: la norma contable argentina sobre existencias, que no se leyó. En la lista, cada salida extra es un renglón del lado de lo que sale, como cuenta [lista de materiales](../Producto-y-proceso/lista-de-materiales.md#subproducto-y-coproducto-como-datos-de-la-lista).
 
 ## El lote consumido es la base de la trazabilidad
 

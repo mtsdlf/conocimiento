@@ -56,16 +56,16 @@ En papel, el plan es una planilla por producto con estas columnas, y cada inspec
 
 Los dos sistemas leídos separan el plan de su resultado.
 
-- **El punto de control como configuración.** Un sistema abierto define puntos de control que disparan un chequeo: «In the Type field, specify the type of quality check that should be performed». Los tipos son instrucciones, foto, registrar producción, pasa o no pasa, medición y planilla. Se dispara por operación (fabricación, recepción), por producto o por categoría, y la frecuencia puede ser siempre, un porcentaje al azar o cada cierto período. Un mensaje para el caso de falla guía qué hacer, y puede pedir una alerta de calidad. El punto no guarda resultados.
-- **La inspección como registro.** Otro sistema abierto guarda cada inspección con su tipo (entrante, saliente o en proceso), el documento de referencia (el recibo o la tarjeta de trabajo), el artículo, el tamaño de la muestra y una plantilla tomada de la ficha del artículo. Hay una fila de lectura por chequeo; si el chequeo es numérico y queda fuera de rango, la fila se marca rechazada sola al guardar.
+- El punto de control como configuración. Un sistema abierto define puntos de control que disparan un chequeo: «In the Type field, specify the type of quality check that should be performed». Los tipos son instrucciones, foto, registrar producción, pasa o no pasa, medición y planilla. Se dispara por operación (fabricación, recepción), por producto o por categoría, y la frecuencia puede ser siempre, un porcentaje al azar o cada cierto período. Un mensaje para el caso de falla guía qué hacer, y puede pedir una alerta de calidad. El punto no guarda resultados.
+- La inspección como registro. Otro sistema abierto guarda cada inspección con su tipo (entrante, saliente o en proceso), el documento de referencia (el recibo o la tarjeta de trabajo), el artículo, el tamaño de la muestra y una plantilla tomada de la ficha del artículo. Hay una fila de lectura por chequeo; si el chequeo es numérico y queda fuera de rango, la fila se marca rechazada sola al guardar.
 
 ## El muestreo de aceptación por atributos
 
 El muestreo de aceptación decide sobre un lote entero a partir de una muestra. NIST lo define así: «This process is called Lot Acceptance Sampling or just Acceptance Sampling», y «In general, the decision is either to accept or reject the lot» (según el resumen del lector).
 
-La tabla que todos usan es pública en una sola versión: la MIL-STD-105E, una norma militar de los Estados Unidos de 1989. **Está cancelada.** Según el buscador, un aviso de 1995 manda a referir las compras futuras a una norma no gubernamental, la ANSI/ASQC Z1.4-1993. La base la usa porque es el texto abierto del que descienden ANSI/ASQ Z1.4 e ISO 2859-1. Esa descendencia no está escrita en un texto leído, salvo el aviso de 1995. La norma vigente es la ISO 2859-1:2026, tercera edición, publicada en enero de 2026, que según el buscador suma por primera vez procedimientos de salteo de lotes (skip-lot). Es de pago y no se leyó.
+La única versión pública de la tabla es la MIL-STD-105E, una norma militar de los Estados Unidos de 1989. Está cancelada. Según el buscador, un aviso de 1995 manda a referir las compras futuras a una norma no gubernamental, la ANSI/ASQC Z1.4-1993. La base la usa por ser el texto abierto; que ANSI/ASQ Z1.4 e ISO 2859-1 desciendan de ella no está escrito en ningún texto leído, salvo el aviso de 1995. La norma vigente es la ISO 2859-1:2026. Según la ficha de ISO que mostró el buscador, es la tercera edición, se publicó en enero de 2026 y suma por primera vez procedimientos de salteo de lotes (skip-lot). Es de pago y no se leyó.
 
-**Aviso sobre las citas.** La 105E se leyó en un PDF escaneado con OCR. Las citas en inglés están limpiadas solo de espacios y letras evidentes, y los números de las tablas se leyeron en la imagen de la página. Conviene recotejarlas con el PDF.
+Aviso sobre las citas. La 105E se leyó en un PDF escaneado con OCR. Las citas en inglés están limpiadas solo de espacios y letras evidentes, y los números de las tablas se leyeron en la imagen de la página. Conviene recotejarlas con el PDF.
 
 ### El AQL no es un permiso para entregar defectos
 
@@ -83,9 +83,9 @@ El tamaño del lote y el nivel dan una letra código, y la letra con el AQL ubic
 
 Un lote de 2000 unidades, nivel general II y AQL 1,0 %:
 
-1. Tabla I de la 105E: el lote cae en la fila «1201 to 3200»; con nivel II, la letra es **K** (con nivel I sería H; con nivel III, L).
-2. Tabla II-A, muestreo simple con inspección normal: la letra K da una muestra de **125** unidades.
-3. En la columna de AQL 1,0, la tabla da **Ac 3, Re 4**.
+1. Tabla I de la 105E: el lote cae en la fila «1201 to 3200»; con nivel II, la letra es K (con nivel I sería H; con nivel III, L).
+2. Tabla II-A, muestreo simple con inspección normal: la letra K da una muestra de 125 unidades.
+3. En la columna de AQL 1,0, la tabla da Ac 3, Re 4.
 4. Se sacan 125 unidades al azar. Con 3 defectuosas o menos, el lote se acepta; con 4 o más, se rechaza. La regla es la 4.10.1.1: «If the number of defectives is equal to or greater than the rejection number, the lot or batch shall be rejected».
 
 En la misma fila, AQL 0,65 da 2 y 3; AQL 1,5 da 5 y 6; AQL 2,5 da 7 y 8. Cuando la celda tiene una flecha, la tabla manda a usar el primer plan debajo o encima de ella, y si la muestra iguala o supera el lote, se inspecciona el 100 %.
@@ -108,9 +108,9 @@ La Tabla VIII, con los números límite para pasar a reducida, no se leyó. Para
 
 ## Qué guarda un plan de inspección
 
-- **El plan**, por producto y punto: característica, tipo (variable o atributo), especificación con límites y objetivo, método o instrumento, frecuencia o porcentaje, y qué hacer si falla.
-- **El plan de muestreo**, si lo hay: nivel de inspección, AQL por clase de defecto, tipo de plan (simple, doble, múltiple) y el estado vigente (normal, rigurosa, reducida), con la historia de los últimos lotes para poder aplicar las reglas de cambio.
-- **Cada inspección**: punto, referencia (orden de producción, operación o recibo), lote, tamaño del lote, letra código, tamaño de muestra, lecturas por característica, defectuosos encontrados, números de aceptación y rechazo, decisión, inspector y fecha.
-- **El equipo de medición**, con su calibración vigente, porque APQC la pone como primer paso del ensayo. Su mantenimiento es de [Activos y mantenimiento](../../Activos-y-mantenimiento/activos-y-mantenimiento.md).
+- El plan, por producto y punto: característica, tipo (variable o atributo), especificación con límites y objetivo, método o instrumento, frecuencia o porcentaje, y qué hacer si falla.
+- El plan de muestreo, si lo hay: nivel de inspección, AQL por clase de defecto, tipo de plan (simple, doble, múltiple) y el estado vigente (normal, rigurosa, reducida), con la historia de los últimos lotes para poder aplicar las reglas de cambio.
+- Cada inspección: punto, referencia (orden de producción, operación o recibo), lote, tamaño del lote, letra código, tamaño de muestra, lecturas por característica, defectuosos encontrados, números de aceptación y rechazo, decisión, inspector y fecha.
+- El equipo de medición, con su calibración vigente, porque APQC la pone como primer paso del ensayo. Su mantenimiento es de [Activos y mantenimiento](../../Activos-y-mantenimiento/activos-y-mantenimiento.md).
 
 Un rechazo no se resuelve en la inspección: abre una [no conformidad](no-conformidad.md).

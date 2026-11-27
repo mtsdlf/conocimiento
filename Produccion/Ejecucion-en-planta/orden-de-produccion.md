@@ -53,11 +53,11 @@ Con eso, la base usa estos estados en el tema (criterio de la base): planificada
 
 Liberar es comprometer material y capacidad. Los controles que muestran los sistemas leídos:
 
-- **Material.** Al emitir la orden, el primer sistema hace que «Raw materials are reserved in the source warehouses». El segundo, al confirmarla, dispara las reglas de stock y la reposición de los componentes, y marca si el material está «Ready» o «Waiting». La reserva como operación es de Inventario: ver [reserva](../../Inventario-y-depositos/Operacion-del-deposito/reserva.md).
-- **Capacidad.** El primer sistema programa las operaciones «serially after the planned start date based on the Workstation availability». La regla está en [programación de planta](programacion-de-planta.md).
-- **Lugares.** En el primer sistema, «Warehouses are mandatory for submitting a Work Order»: el de origen del material, el de producción en proceso, el de destino del terminado y el de desecho.
-- **Lote.** El PCF de APQC crea el lote al programar y al liberar: 4.3.1.4 «Schedule production orders and create lots» y 4.3.1.7 «Release production orders and create lots».
-- **Versión.** La orden toma la versión vigente de la lista y la ruta y la guarda, para que la [trazabilidad de lotes](../Calidad/trazabilidad-de-lotes.md) pueda separar lo fabricado antes y después de un [cambio de ingeniería](../Producto-y-proceso/cambios-de-ingenieria.md).
+- Material. Al emitir la orden, el primer sistema reserva el material en los depósitos cargados en ella («the raw materials will be reserved in these warehouses for production usage»). El segundo, al confirmarla, dispara las reglas de stock y la reposición de los componentes, y marca si el material está «Ready» o «Waiting». La reserva como operación es de Inventario: ver [reserva](../../Inventario-y-depositos/Operacion-del-deposito/reserva.md).
+- Capacidad. El primer sistema programa las operaciones «serially after the planned start date based on the Workstation availability». La regla está en [programación de planta](programacion-de-planta.md).
+- Lugares. En el primer sistema, «Warehouses are mandatory for submitting a Work Order»: el de origen del material, el de producción en proceso, el de destino del terminado y el de desecho.
+- Lote. El PCF de APQC crea el lote al programar y al liberar: 4.3.1.4 «Schedule production orders and create lots» y 4.3.1.7 «Release production orders and create lots».
+- Versión. La orden toma la versión vigente de la lista y la ruta y la guarda, para que la [trazabilidad de lotes](../Calidad/trazabilidad-de-lotes.md) pueda separar lo fabricado antes y después de un [cambio de ingeniería](../Producto-y-proceso/cambios-de-ingenieria.md).
 
 Que la orden no se libere sin estos controles es criterio de la base. Lo que se libera sin material espera en la planta y sube la producción en proceso, como muestra la ley de Little en [Ejecución en planta](ejecucion-en-planta.md#la-ley-de-little-ordena-la-planta).
 
@@ -65,7 +65,7 @@ Que la orden no se libere sin estos controles es criterio de la base. Lo que se 
 
 ## La hoja de cada operación
 
-La orden copia la [ruta de fabricación](../Producto-y-proceso/ruta-de-fabricacion.md) y registra, operación por operación, lo que pasó. El primer sistema lo hace con una tarjeta de trabajo que «stores actual production information about a particular Operation performed on a particular Workstation», con este recorrido: «Move Materials > Start Job > Complete Job > Submit». Guarda tiempos, cantidad terminada y quién la hizo. Si una operación se hace afuera, la orden espera lo que vuelve del tercero: ver [subcontratación](subcontratacion.md).
+La orden copia la [ruta de fabricación](../Producto-y-proceso/ruta-de-fabricacion.md) y registra, operación por operación, lo que pasó. El primer sistema lo hace con una tarjeta de trabajo que «stores actual production information about a particular Operation performed on a particular Workstation», con este recorrido: «Move Materials › Start Job › Complete Job › Submit». Guarda tiempos, cantidad terminada y quién la hizo. Si una operación se hace afuera, la orden espera lo que vuelve del tercero: ver [subcontratación](subcontratacion.md).
 
 En papel es la hoja de ruta que viaja con el trabajo: cada puesto anota la hora de inicio y fin, las piezas buenas y las malas, y firma (criterio de la base). Esa hoja alimenta el [costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md) y la [eficiencia global del equipo](eficiencia-global-del-equipo.md).
 

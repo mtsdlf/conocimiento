@@ -28,7 +28,7 @@ Es el control que acompaña a cada plan de [Planificación de la producción](pl
 
 | Control | Contra qué plan | Qué mira | Con qué |
 |---|---|---|---|
-| Planificación de recursos | plan agregado | personal, turnos, equipos, por familia y mes | horas o personas por familia |
+| Planificación de recursos | plan agregado | personal y horas extra, por familia y mes | horas o personas por familia |
 | Capacidad gruesa (RCCP) | [plan maestro](plan-maestro-de-produccion.md) | unos pocos recursos críticos, por semana | la lista de recursos de cada producto final |
 | Requerimientos de capacidad (CRP) | órdenes del [MRP](mrp.md) | cada centro de trabajo, por día | la ruta de cada orden |
 
@@ -50,7 +50,7 @@ El ejemplo de la fuente tiene dos productos y un centro de trabajo, el 21. El pr
 | Disponibles | 65 | 65 | 65 | 65 | 65 | 65 | 65 | 65 |
 | Sobra o falta | 30 | −10 | 30 | −15 | −5 | −35 | −15 | 30 |
 
-La tabla es la de la fuente. Las cuentas verifican salvo en la semana 8: con 10 unidades de B a 2 horas, las horas de B son 20 y no 10, el total es 45 y sobran 20, no 30 (cuenta de la base). La conclusión no cambia: faltan horas en cinco semanas de ocho y sobran en las otras.
+La tabla es la de la fuente. Las cuentas verifican salvo en la semana 8: con 10 unidades de B a 2 horas, las horas de B son 20 y no 10, el total es 45 y sobran 20, no 30 (cuenta de la base). La fuente no aclara si el error está en las unidades o en las horas; con 5 unidades de B la tabla cerraría. La conclusión no cambia: faltan horas en cinco semanas de ocho y sobran en las otras.
 
 La fuente da dos salidas: cambiar las fechas del plan maestro, o cambiar la capacidad con horas extra o subcontratación. Un solucionario de otro curso agrega partir una orden hacia antes o hacia después y usar un proceso alternativo; si la falta es crónica, «a capital investment to increase capacity, add a shift, or develop an outside source». En el ejemplo, mover producción de la semana 6 a la 1 o la 3, que tienen 30 horas libres cada una, cubre buena parte del faltante (lectura de la base). El precio de adelantar es stock antes de tiempo, y mover dentro de la zona congelada del plan maestro no se puede sin autorización (ver [barreras](plan-maestro-de-produccion.md#barreras-y-zonas-de-tiempo)).
 
@@ -60,7 +60,7 @@ En una planilla, la capacidad gruesa son dos tablas que se multiplican: el plan 
 
 El CRP baja al detalle de las órdenes que propuso el MRP. Tesalia lo define así: «provides a more detailed check of the MRP-generated schedules than RCCP». Hace una carga hacia adelante con capacidad infinita: «CRP predicts completion times for each work center using fixed lead times and then calculates a forecast workload over time. The loads are compared with available capacity, but no correction is made for overload situations».
 
-El ejemplo de la fuente: un centro con plazo de 3 días y capacidad de 400 piezas por día. Al empezar el día hay 400 piezas recién llegadas, 500 con un día en el centro y 300 con dos. Los lanzamientos planificados de los días 1 a 5 son 300, 350, 400, 350 y 300. Si alguna vez se prevén más de 400 por día, el centro está sobrecargado. La fuente muestra el resultado en un gráfico; leído como salidas por día con el plazo de 3 días, el perfil de carga es:
+El ejemplo de la fuente: un centro con plazo de 3 días y capacidad de 400 piezas por día. Al empezar el día hay 400 piezas recién lanzadas, 500 con un día en el centro y 300 con dos. Los lanzamientos planificados de los días 1 a 5 son 300, 350, 400, 350 y 300. Si alguna vez se prevén más de 400 por día, el centro está sobrecargado. La fuente muestra el resultado en un gráfico (Figura 4); leído como salidas por día con el plazo de 3 días, el perfil de carga es:
 
 | Día | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |---|---|---|---|---|---|---|---|---|

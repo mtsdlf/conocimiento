@@ -9,13 +9,14 @@ fuentes:
   - "ANMAT, CAA Capítulo I, actualización 2025, art. 2 (efecto del Decreto 35/2025): https://www.argentina.gob.ar/sites/default/files/capitulo_i_disp_gralesactualiz_2025-01_1_1.pdf"
   - "ANMAT, índice del CAA con fechas de actualización: https://www.argentina.gob.ar/anmat/codigoalimentario"
   - "ANMAT, Alimentos autorizados y establecimientos habilitados (definiciones de RNE y RNPA): https://www.argentina.gob.ar/anmat/regulados/alimentos/alimentos-autorizados-establecimientos-habilitados"
-  - "Disposición ANMAT 1675/2014, art. 17 (texto original; vigencia actual no verificada): https://www.argentina.gob.ar/normativa/nacional/norma-227820/texto"
-  - "Disposición ANMAT 537/2025 (procedimiento de RNE y RNPA): https://www.argentina.gob.ar/normativa/nacional/norma-408900/texto"
+  - "Disposición ANMAT 1675/2014, art. 17 (leído; no se pudo consultar la lista de normas que la modifican): https://www.argentina.gob.ar/normativa/nacional/norma-227820/texto"
+  - "Disposición ANMAT 537/2025, arts. 4 y 5 (procedimiento de RNE y RNPA): https://www.argentina.gob.ar/normativa/nacional/norma-408900/texto"
   - "Ley 16.463, art. 2 (la página dio error; solo el resumen del buscador): https://www.argentina.gob.ar/normativa/nacional/ley-16463-20414/texto"
+  - "InfoLEG, Ley 16.463, art. 2 (según el resumen de la herramienta; cita literal solo parcial): https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20414/norma.htm"
   - "Disposición ANMAT 4159/2023 (BPF de medicamentos), arts. 1 a 3; anexo no leído: https://www.argentina.gob.ar/normativa/nacional/norma-385329/texto"
   - "Resolución MS 435/2011 (trazabilidad de medicamentos): https://www.argentina.gob.ar/normativa/nacional/norma-180934/texto"
   - "Disposición ANMAT 3683/2011, arts. 3 y 8: https://www.argentina.gob.ar/normativa/nacional/norma-182665/texto"
-  - "Disposición ANMAT 6223/2025, B.O. 3/9/2025: https://www.boletinoficial.gob.ar/detalleAviso/primera/330768/20250903"
+  - "Disposición ANMAT 6223/2025, arts. 7, 8 y 10, B.O. 3/9/2025: https://www.boletinoficial.gob.ar/detalleAviso/primera/330768/20250903"
   - "ANMAT en OPS, presentación sobre trazabilidad (secundaria, según el resumen): https://paho.org/sites/default/files/Panel-D-1.pdf"
   - "Disposición ANMAT 3266/2013 (BPF de productos médicos), art. 1: https://www.argentina.gob.ar/normativa/nacional/norma-216083/texto"
   - "Disposición ANMAT 8799/2025 (habilitación por declaración jurada de productos médicos): https://www.argentina.gob.ar/normativa/nacional/norma-420715/texto"
@@ -34,12 +35,13 @@ fuentes:
   - "Presidencia de la Nación, comunicado sobre la Res. 16/2025 (según el resumen): https://www.argentina.gob.ar/node/457899"
   - "Ley 27.444, art. 41: https://www.argentina.gob.ar/normativa/nacional/311587/texto"
   - "Ficha de la Ley 21.608 (según el resumen): https://www.argentina.gob.ar/normativa/nacional/norma-28196"
-  - "Decreto 1077/2024, arts. 1 y 2 (según el resumen del buscador): https://www.argentina.gob.ar/normativa/nacional/decreto-1077-2024-406886"
+  - "DNU 70/2023, art. 158 (publicado el 21/12/2023): https://www.argentina.gob.ar/normativa/nacional/decreto-70-2023-395521/texto"
+  - "Decreto 1077/2024, arts. 1 y 2 y considerandos: https://www.argentina.gob.ar/normativa/nacional/decreto-1077-2024-406886/texto"
   - "Ley 27.742, Título VII (RIGI), arts. 164 a 168: https://www.argentina.gob.ar/normativa/nacional/ley-27742-2024-401266/texto"
   - "Decreto 105/2026 (prórroga del RIGI): https://www.argentina.gob.ar/normativa/nacional/norma-423212/texto"
   - "Ley 27.264 (según el resumen de la herramienta): https://www.boletinoficial.gob.ar/detalleAviso/primera/148853/20160801"
-  - "Biblioteca de ARCA, Ley 27.264 (según el resumen): https://biblioteca.afip.gob.ar/dcp/LEY_C_027264_2016_07_13"
-  - "Biblioteca de ARCA, Decreto 379/2001, texto vigente, arts. 1 y 2 (resumidos): https://biblioteca.afip.gob.ar/dcp/DEC_C_000379_2001_03_29"
+  - "Biblioteca de ARCA, Ley 27.264 (según el resumen de la herramienta, que no informa derogaciones): https://biblioteca.afip.gob.ar/dcp/LEY_C_027264_2016_07_13"
+  - "Biblioteca de ARCA, Decreto 379/2001, texto vigente, arts. 1 a 4 (resumidos): https://biblioteca.afip.gob.ar/dcp/DEC_C_000379_2001_03_29"
   - "RT 17 FACPCE, texto ordenado de junio de 2003, sección 4.2.6: https://www.consejo.org.ar/storage/attachments/RT_FACPCE17_TO2003.pdf-bGCewZIHs8.pdf"
   - "Produccion/.investigacion/argentina.md (2026-11-27)"
 aliases: [producción en Argentina, fabricar en Argentina, habilitación de planta, habilitación sanitaria, Código Alimentario Argentino, CAA, Ley 18.284, RNE, RNPA, registro nacional de establecimiento, registro nacional de producto alimenticio, BPM, buenas prácticas de manufactura, Res. GMC 80/96, HACCP, ANMAT, BPF, buenas prácticas de fabricación, Disposición 4159/2023, Disposición 3266/2013, Disposición 8799/2025, Disposición 7939/2025, trazabilidad de medicamentos, Disposición 3683/2011, trazabilidad de productos médicos, Disposición 2303/2014, GTIN, INTI, IRAM, Resolución 16/2025, declaración jurada de conformidad, registro industrial, Ley 19.971, RIGI, Ley 27.742, parques industriales, Ley 27.264, régimen de bienes de capital, Decreto 379/2001]
@@ -71,31 +73,31 @@ El cambio va del permiso previo a la declaración jurada con control posterior, 
 
 La Ley 18.284 (B.O. 28/7/1969) pone el Código Alimentario Argentino (CAA) en manos de «las autoridades sanitarias nacionales, provinciales o de la Municipalidad de la Ciudad de Buenos Aires, en su respectiva jurisdicción» (art. 2), y lo autorizado en origen circula en todo el país (art. 3). El CAA lo baja a la planta: las fábricas «serán autorizados por la autoridad sanitaria correspondiente al lugar donde se produzcan, elaboren, fraccionen, depositen, conserven o expendan» (Cap. II, art. 13), y está prohibido elaborar «fuera de los establecimientos habilitados» (art. 15).
 
-La habilitación da el RNE, el certificado de la empresa elaboradora; cada producto lleva después su RNPA, que pide el RNE previo. Las dos definiciones son de la ANMAT y tienen una sola fuente. Según la Disp. ANMAT 1675/2014, el RNE tiene «una vigencia máxima de CINCO (5) años, pudiendo ser renovadas» (art. 17), pero se leyó el texto original y no se verificaron cambios. El trámite pasa por el sistema SIFeGA (Disp. ANMAT 537/2025). El Decreto 35/2025 tocó la importación y la exportación, no la habilitación local.
+La habilitación da el RNE, el certificado de la empresa elaboradora; cada producto lleva después su RNPA, que pide el RNE previo. Las dos definiciones son de la ANMAT y tienen una sola fuente. Según la Disp. ANMAT 1675/2014, el RNE tiene «una vigencia máxima de CINCO (5) años, pudiendo ser renovadas» (art. 17), y si hay un contrato de locación u otro título sobre el inmueble, dura lo que diga el contrato, sin pasar de cinco años. Se leyó el texto original: la Disp. 537/2025 no menciona la vigencia ni deroga la 1675/2014 (su art. 5 no la incluye), pero no se pudo consultar la lista de normas que la modifican y no se confirmó que el plazo siga igual. El trámite pasa por el sistema SIFeGA (Disp. ANMAT 537/2025). El Decreto 35/2025 tocó la importación y la exportación, no la habilitación local.
 
 Tres obligaciones del Cap. II del CAA tocan el registro de la planta:
 
-- **BPM**: el capítulo incorpora la «RESOLUCIÓN GMC N° 080/96 Incorporada por Res MSyAS N° 587 del 1.09.97», el reglamento Mercosur de buenas prácticas de elaboración. El art. 20 bis extiende las BPM a quien fabrica envases y utensilios.
-- **HACCP**: el art. 18 bis es la directriz del sistema HACCP, no las BPM. Es obligatorio solo para los productos en que el CAA lo exige; para los demás «será facultativo».
-- **Trazabilidad y retiro**: el art. 18 tris obliga a quien elabora a tener procedimientos «planificados y documentados» para seguir el rastro del producto y «de sus materias primas y aditivos», y el 18 tris 1 pide un «plan de gestión de retiro, secuenciado y documentado».
+- BPM: el capítulo incorpora la «RESOLUCIÓN GMC N° 080/96 Incorporada por Res MSyAS N° 587 del 1.09.97», el reglamento Mercosur de buenas prácticas de elaboración. El art. 20 bis extiende las BPM a quien fabrica envases y utensilios.
+- HACCP: el art. 18 bis es la directriz del sistema HACCP, no las BPM. Es obligatorio solo para los productos en que el CAA lo exige; para los demás «será facultativo».
+- Trazabilidad y retiro: el art. 18 tris obliga a quien elabora a tener procedimientos «planificados y documentados» para seguir el rastro del producto y «de sus materias primas y aditivos», y el 18 tris 1 pide un «plan de gestión de retiro, secuenciado y documentado».
 
 La dirección técnica tiene entre sus funciones la «Implementación del sistema de trazabilidad de los productos» (art. 17, texto de 2025). El CAA se actualiza por capítulo, y la nota entre paréntesis de cada artículo dice qué resolución lo modificó.
 
 ### Medicamentos
 
-La Ley 16.463 exige que la fabricación se haga «en establecimientos habilitados» por el ministerio y «bajo la dirección técnica del profesional universitario correspondiente» (art. 2); la cita sale del resumen del buscador, porque la página oficial dio error. Las buenas prácticas de fabricación (BPF) son las de la Disp. ANMAT 4159/2023 (B.O. 16/6/2023), que derogó las Disp. 2819/04, 3602/18, 3827/18 y 1281/19. Su anexo, con los registros de lote, no se leyó; no se halló una derogación.
+La Ley 16.463 exige que la fabricación se haga «en establecimientos habilitados» por el ministerio y «bajo la dirección técnica del profesional universitario correspondiente» (art. 2); la página oficial dio error y la cita sale del resumen del buscador. Un segundo resumen, de InfoLEG, confirma la autorización previa del ministerio, los establecimientos habilitados y la dirección técnica de un profesional universitario, pero no transcribe el artículo entero. InfoLEG anota 221 normas que la modifican o complementan; no se revisó si alguna toca el art. 2. Las buenas prácticas de fabricación (BPF) son las de la Disp. ANMAT 4159/2023 (B.O. 16/6/2023), que derogó las Disp. 2819/04, 3602/18, 3827/18 y 1281/19. Su anexo, con los registros de lote, no se leyó; no se halló una derogación.
 
 ### Productos médicos
 
-Las BPF son el reglamento Mercosur GMC 20/11, que la Disp. ANMAT 3266/2013 incorporó. La Disp. ANMAT 8799/2025 (B.O. 28/11/2025) cambió la habilitación de los productos de riesgo I y II y los de diagnóstico in vitro A y B: se presenta una «Declaración Jurada», que habilita las plantas declaradas y «no tendrá plazo de vigencia» (arts. 1, 3 y 4). Quien la presenta tiene que «contar con la documentación que avale el cumplimiento» de las BPF y queda sujeto a inspección (art. 5). Las clases III y IV y los de diagnóstico C y D siguen con el trámite anterior (art. 10). Rige a los 60 días hábiles administrativos de publicada; el plazo no se contó contra el calendario.
+Las BPF son el reglamento Mercosur GMC 20/11, que la Disp. ANMAT 3266/2013 incorporó. La Disp. ANMAT 8799/2025 (B.O. 28/11/2025) cambió la habilitación de los productos de riesgo I y II y los de diagnóstico in vitro A y B: se presenta una «Declaración Jurada», que habilita las plantas declaradas y «no tendrá plazo de vigencia» (arts. 1, 3 y 4). Quien la presenta tiene que «contar con la documentación que avale el cumplimiento» de las BPF y queda sujeto a inspección (art. 5). Las clases III y IV y los de diagnóstico C y D siguen con el trámite anterior (art. 10). Rige a los 60 días hábiles administrativos de publicada (art. 11); a la fecha de la nota pasó casi un año, así que ya rige.
 
 ### Cosméticos y domisanitarios
 
-La Disp. ANMAT 7939/2025 (B.O. 27/10/2025) alcanza a quien elabora, envasa, fracciona o acondiciona cosméticos, productos de higiene personal y perfumes, higiénicos descartables y domisanitarios, entre otros. Pide una «Declaración Jurada» por plataforma digital, que habilita las plantas declaradas y «no tendrá plazo de vigencia» (arts. 1 a 3). Derogó la Disp. 1109/99 (art. 14) y dio 180 días hábiles a las firmas ya habilitadas para empadronarse sin arancel (art. 9).
+La Disp. ANMAT 7939/2025 (B.O. 27/10/2025) alcanza a quien elabora, envasa, fracciona o acondiciona cosméticos, productos de higiene personal y perfumes, higiénicos descartables y domisanitarios, entre otros. Pide una «Declaración Jurada» por plataforma digital, que habilita las plantas declaradas y «no tendrá plazo de vigencia» (arts. 1 a 3). Derogó la Disp. 1109/99 (art. 14) y dio 180 días hábiles, contados desde que la disposición rige (60 días hábiles después de publicada, art. 15), a las firmas ya habilitadas para empadronarse sin arancel (art. 9); el vencimiento no se calculó contra el calendario.
 
 ## Trazabilidad obligatoria de medicamentos y productos médicos
 
-En estos dos rubros la trazabilidad es por unidad y se informa a la ANMAT. La Res. MS 435/2011 pide «identificación individual y unívoca de cada unidad» (art. 2). La Disp. ANMAT 3683/2011 fija el código: «Código comercial del producto (Global Trade Item Number - GTIN)» y «Número de serie» (art. 3). Los laboratorios titulares y las droguerías «deberán informar a la ANMAT, en tiempo real, los códigos unívocos asignados a productos y sus movimientos logísticos» (art. 8). La Disp. 6223/2025 dejó de pedir los movimientos de los medicamentos que no tienen GTIN y serie (art. 7).
+En estos dos rubros la trazabilidad es por unidad y se informa a la ANMAT. La Res. MS 435/2011 pide «identificación individual y unívoca de cada unidad» (art. 2). La Disp. ANMAT 3683/2011 fija el código: «Código comercial del producto (Global Trade Item Number - GTIN)» y «Número de serie» (art. 3). Los laboratorios titulares y las droguerías «deberán informar a la ANMAT, en tiempo real, los códigos unívocos asignados a productos y sus movimientos logísticos» (art. 8). La Disp. 6223/2025 dejó de pedir los movimientos de los medicamentos sin GTIN ni serie asignados por el titular (art. 7); rige desde el 4/9/2025 (art. 10).
 
 Para productos médicos implantables (marcapasos, stents coronarios, prótesis de cadera, entre otros), la Disp. ANMAT 2303/2014 pide un código GS1 con GTIN, serie de hasta 20 caracteres alfanuméricos, lote y vencimiento (art. 3). El titular del registro, «sea como elaborador o como importador», informa los movimientos en tiempo real (art. 5). No se verificaron modificaciones posteriores.
 
@@ -103,13 +105,13 @@ Para el registro del fabricante, inferencia de la base: cada unidad producida ti
 
 ## El INTI y el IRAM no habilitan
 
-El INTI investiga y asiste a la industria. Entre las funciones del art. 2 del Decreto-Ley 17.138/57 (investigar «para mejorar las técnicas de elaboración», estimular a los industriales) no figura habilitar; que no es habilitante es lectura de la base por esa ausencia. El Decreto 462/2025 lo había transformado en una unidad de la Secretaría de Industria y Comercio, y el Decreto 627/2025 restituyó «la plena vigencia» de lo que ese decreto derogó o modificó; el INTI no se nombra en sus artículos, solo en los considerandos. La Res. INTI 213/2025 dispuso «la cesación de la prestación» de servicios regulados y certificaciones entre enero y junio de 2026; los anexos que dicen cuáles no se leyeron.
+El INTI investiga y asiste a la industria. Entre las funciones del art. 2 del Decreto-Ley 17.138/57 (investigar «con el fin de mejorar las técnicas de elaboración y proceso de las materias primas», estimular a los industriales) no figura habilitar; que no es habilitante es lectura de la base por esa ausencia. El Decreto 462/2025 lo había transformado en una unidad de la Secretaría de Industria y Comercio, y el Decreto 627/2025 restituyó «la plena vigencia» de lo que ese decreto derogó o modificó; el INTI no se nombra en sus artículos, solo en los considerandos. La Res. INTI 213/2025 dispuso «la cesación de la prestación» de servicios regulados y certificaciones entre enero y junio de 2026; los anexos que dicen cuáles no se leyeron.
 
 El IRAM es una asociación privada sin fines de lucro. El Decreto 1474/94 crea el sistema nacional de normas y certificación y dice que sus normas «serán de cumplimiento voluntario» (art. 1). Una certificación ISO 9001 por el IRAM es, entonces, voluntaria. La gestión de la calidad está en [Calidad](Calidad/calidad.md).
 
 ## La certificación de productos eléctricos es una declaración jurada
 
-La Res. 16/2025 de la Secretaría de Industria y Comercio (B.O. 25/2/2025) aprobó el reglamento técnico de seguridad de equipos eléctricos y derogó la Res. 169/2018 (art. 8). Fabricantes e importadores cumplen «mediante una Declaración Jurada de Conformidad» (arts. 3 y 4), y quien vende tiene que tener «una copia simple» en papel o digital. Los certificados anteriores valieron hasta un año (art. 9). Qué productos alcanza está en el Anexo I, que no se leyó; un comunicado oficial lo resume como electrodomésticos, fuentes y cargadores, iluminación y audio y video.
+La Res. 16/2025 de la Secretaría de Industria y Comercio (B.O. 25/2/2025) aprobó el reglamento técnico de seguridad de equipos eléctricos y derogó la Res. 169/2018 (art. 8). Fabricantes e importadores cumplen «mediante una Declaración Jurada de Conformidad» (arts. 3 y 4), y quien vende tiene que tener «una copia simple» en papel o digital. Los certificados anteriores valieron hasta un año (art. 9). Qué productos alcanza está en el Anexo II (art. 2), que no se leyó porque los anexos solo salen en la edición web; un comunicado oficial lo resume como electrodomésticos, fuentes y cargadores, iluminación y audio y video.
 
 ## No hay registro industrial nacional
 
@@ -119,15 +121,15 @@ La Ley 27.444 (B.O. 18/6/2018) dice en su art. 41: «Deróganse la ley 19.971 de
 
 | Régimen | Estado al 27/11/2026 | Fuente |
 |---|---|---|
-| Promoción industrial, Ley 21.608 | Derogada por el art. 158 del DNU 70/2023 | Ficha oficial, según el resumen |
-| Parques industriales, Decretos 915/2010 y 716/2020 | Derogados por el Decreto 1077/2024, que también suprimió el RENPI | Según el resumen del buscador |
+| Promoción industrial, Ley 21.608 | Derogada por el art. 158 del DNU 70/2023 | Texto del DNU leído (art. 158) |
+| Parques industriales, Decretos 915/2010 y 716/2020 | Derogados por el Decreto 1077/2024, que también suprimió el RENPI | Texto leído (arts. 1 y 2 y considerandos) |
 | RIGI, Ley 27.742 | Abierto a la adhesión hasta el 8/7/2027 | Texto leído; la fecha es cuenta de la base |
-| Pymes, Ley 27.264 | Figura vigente; no se sabe qué beneficios rigen | Según el resumen |
-| Bienes de capital, Decreto 379/2001 | Figura vigente; no se sabe si emite bonos | Biblioteca de ARCA |
+| Pymes, Ley 27.264 | Figura vigente, sin derogaciones informadas; no se sabe qué beneficios rigen | Según el resumen |
+| Bienes de capital, Decreto 379/2001 | Figura vigente; su art. 4 la extiende hasta el 31/12/2027 | Biblioteca de ARCA, según el resumen |
 
 El RIGI da incentivos a «vehículos titulares de un único proyecto» (art. 164) de «forestoindustria, turismo, infraestructura, minería, tecnología, siderurgia, energía, petróleo y gas» (art. 167): no es un régimen industrial general (lectura del informe). La adhesión duraba «dos (2) años» (art. 168), y el Decreto 105/2026 la prorrogó «por el período de UN (1) año a contar desde el 8 de julio de 2026»; la fecha final es cuenta de la base. No se verificó la situación parlamentaria ni judicial del DNU 70/2023.
 
-El Decreto 379/2001 incentiva a las personas jurídicas «fabricantes de los bienes comprendidos en el Anexo», con un registro de beneficiarios que se revalida cada dos años (arts. 1 y 2); la última modificación leída es de 2022.
+El Decreto 379/2001 incentiva a las personas jurídicas «fabricantes de los bienes comprendidos en el Anexo», con un registro de beneficiarios que se revalida cada dos años (arts. 1 y 2); la última modificación leída es de 2022. Según el resumen de la biblioteca de ARCA, el art. 3 regula bonos de crédito fiscal aplicables a impuestos nacionales y el art. 4, en el texto del Decreto 209/2022, fija la vigencia hasta el 31 de diciembre de 2027; no se verificó si se emitieron bonos en 2026.
 
 ## El costo de producción en la norma contable
 
@@ -142,4 +144,4 @@ Sobre lo que tiene fuente, y como criterio de la base:
 3. Por lote fabricado: los lotes de materia prima y aditivo que entraron y el destino; en medicamentos e implantables, la serie de cada unidad.
 4. Los vencimientos como datos y no como reglas en el código: varias habilitaciones dejaron de vencer en 2025.
 
-> [!NOTE] Sin fuente todavía: el texto oficial de la Ley 16.463 y el anexo de la Disp. 4159/2023; si sigue la vigencia de 5 años del RNE; las BPF de cosméticos y domisanitarios; el estado del INTI tras el Decreto 627/2025 y los anexos de la Res. INTI 213/2025; el Anexo I de la Res. 16/2025 y otros reglamentos técnicos (juguetes); los montos del RIGI, los beneficios vigentes de la Ley 27.264 y si el Decreto 379/2001 emite bonos; los parques industriales provinciales y las habilitaciones municipales; y el registro por producto de medicamentos, productos médicos y cosméticos.
+> [!NOTE] Sin fuente todavía: el texto oficial completo de la Ley 16.463 y el anexo de la Disp. 4159/2023; si sigue la vigencia de 5 años del RNE; las BPF de cosméticos y domisanitarios; el estado del INTI tras el Decreto 627/2025 y los anexos de la Res. INTI 213/2025; el Anexo II de la Res. 16/2025 y otros reglamentos técnicos (juguetes); los montos del RIGI, los beneficios vigentes de la Ley 27.264 y el texto literal de los arts. 3 y 4 del Decreto 379/2001; los parques industriales provinciales y las habilitaciones municipales; y el registro por producto de medicamentos, productos médicos y cosméticos.

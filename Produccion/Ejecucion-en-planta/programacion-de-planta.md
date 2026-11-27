@@ -44,10 +44,10 @@ Una regla de despacho ordena la cola de un centro de trabajo. Las definiciones s
 
 Los mismos apuntes definen la holgura como «time remaining before due date - remaining processing time»: la menor va primero.
 
-Dos de las reglas tienen un resultado demostrado para una sola máquina. Con todos los trabajos disponibles al inicio, «The SPT rule gives an optimal schedule» para la suma de los tiempos de terminación, y por eso minimiza el tiempo medio de flujo. EDD «is optimal for 1||Lmax»: minimiza el atraso máximo. Si los trabajos llegan en momentos distintos, EDD sigue siendo óptima solo si se permite interrumpir un trabajo; sin interrupción, el problema es «strongly NP complete». La razón crítica no tiene un resultado de optimalidad en ninguna fuente leída.
+Dos de las reglas tienen un resultado demostrado para una sola máquina. Con todos los trabajos disponibles al inicio, «The SPT rule gives an optimal schedule» para la suma de los tiempos de terminación, y por eso minimiza el tiempo medio de flujo. EDD «is optimal for 1||Lmax»: minimiza el atraso máximo. Si los trabajos llegan en momentos distintos, EDD sigue siendo óptima si se permite interrumpir un trabajo; sin interrupción, el problema es «strongly NP complete». La razón crítica no tiene un resultado de optimalidad en ninguna fuente leída.
 
 > [!IMPORTANT]
-> **De quién es la regla EDD.** La tradición la atribuye a Jackson (1955). Baker y Trietsch, en las notas de su libro, dicen que «the EDD result is often attributed to Jackson (1955), which is an unpublished working paper», pero que según Smith, Jackson la generalizó al caso con llegadas, «which suggests that the basic EDD is still due to Smith» (1956). Agregan que el nombre EDD lo acuñó Emmons en 1969. No se leyó a Smith ni a Jackson.
+> De quién es la regla EDD. La tradición la atribuye a Jackson (1955). Baker y Trietsch, en las notas de su libro, dicen que «the EDD result is often attributed to Jackson (1955), which is an unpublished working paper», pero que según Smith, Jackson la generalizó al caso con llegadas, «which suggests that the basic EDD is still due to Smith» (1956). Agregan que el nombre EDD lo acuñó Emmons en 1969. No se leyó a Smith ni a Jackson.
 
 ### Las cuatro reglas en una máquina
 
@@ -69,7 +69,7 @@ Resultados (cuentas de la base; la razón crítica se recalcula cada vez que se 
 | EDD | B, A, D, C | 10 | 1 (C) | 1 |
 | Razón crítica | A, B, C, D | 12,25 | 4 (D) | 2 |
 
-SPT da el menor flujo medio y EDD el menor atraso máximo, como dicen los teoremas. Acá la razón crítica coincide con FCFS: en el día 6, B tiene razón cero y pasa adelante de C. Con varias máquinas, llegadas escalonadas y preparaciones, las reglas son heurísticas y ninguna gana siempre.
+SPT da el menor flujo medio y EDD el menor atraso máximo, como dicen los teoremas. Acá la razón crítica coincide con FCFS: en el día 6, B tiene razón 0 y va primero. Con varias máquinas, llegadas escalonadas y preparaciones, las reglas son heurísticas y ninguna gana siempre.
 
 ## Hacia adelante o hacia atrás
 

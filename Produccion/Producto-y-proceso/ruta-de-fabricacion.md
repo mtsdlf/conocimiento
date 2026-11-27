@@ -39,7 +39,7 @@ En papel, la ruta es la hoja de operaciones que acompaña al trabajo: paso, pues
 
 El tiempo que una orden pasa en un centro de trabajo no es solo el de la máquina. La documentación de un sistema comercial, según lo que devolvió el buscador, separa cuatro tiempos:
 
-| Tiempo | Definición, según la fuente | Depende de la cantidad |
+| Tiempo | Definición, según la fuente | Depende de la cantidad (lectura de la base, salvo la preparación) |
 |---|---|---|
 | Cola | «The number of hours that a job waits at a work center before setup or work is performed on it» | no, depende de cuánto trabajo haya delante |
 | Preparación | «The number of hours required to prepare machinery to run a specific item, regardless of quantity» | no |
@@ -48,7 +48,7 @@ El tiempo que una orden pasa en un centro de trabajo no es solo el de la máquin
 
 El mismo sistema comercial suma esas horas («Routing labor, setup, queue, move, and machine run hours») para calcular el plazo de fabricación, que define como «The total number of workdays required to complete a product, from its lowest-level components to the final item, assuming that all purchased items are in-house». Otro sistema comercial agrega un tiempo de espera, sin definirlo. Un sistema abierto guarda en el centro de trabajo la preparación y la limpieza posterior («breakdown or cleanup time required after a work order is finished»).
 
-Los dos sistemas abiertos leídos no tienen campos de cola ni de movimiento: solo preparación y ejecución. Eso significa que el plazo que calculan con la ruta es el tiempo de máquina, no el que tarda la orden en cruzar la planta (inferencia de la base). La consecuencia para la [planificación de capacidad](../Planificacion-de-la-produccion/planificacion-de-capacidad.md) y para el [MRP](../Planificacion-de-la-produccion/mrp.md), que usa un plazo fijo, se discute en esas notas.
+Los dos sistemas abiertos leídos no tienen campos de cola ni de movimiento: solo preparación y ejecución (y la limpieza, en el centro de trabajo). Eso significa que el plazo que calculan con la ruta es el tiempo de máquina, no el que tarda la orden en cruzar la planta (inferencia de la base). La consecuencia para la [planificación de capacidad](../Planificacion-de-la-produccion/planificacion-de-capacidad.md) y para el [MRP](../Planificacion-de-la-produccion/mrp.md), que usa un plazo fijo, se discute en esas notas.
 
 > [!NOTE] Sin fuente todavía: la afirmación clásica de que la cola es la mayor parte del tiempo de ciclo (Hopp y Spearman, *Factory Physics*, no leído) y las definiciones de cola, preparación y movimiento del diccionario de APICS.
 
@@ -98,7 +98,7 @@ La norma distingue tres recetas, según los mismos resúmenes:
 | Maestra | adaptada a las capacidades de un equipo |
 | De control | la copia que se usa para un lote, con la identificación del lote y del material |
 
-Un sistema comercial trata la fórmula como «a subtype of BOM that is typically used for process manufacturing», con rendimiento, coproductos y subproductos por versión. Como inferencia de la base, la fórmula se parece a la lista más los parámetros, y el procedimiento a la ruta, pero jerárquico y atado al equipo. Los requisitos de equipo no tienen equivalente en una ruta discreta. La receta de control, ligada a un lote, es lo que después permite la [trazabilidad de lotes](../Calidad/trazabilidad-de-lotes.md).
+Un sistema comercial trata la fórmula como «a subtype of BOM that is typically used for process manufacturing», con rendimiento, coproductos y subproductos por versión. Como inferencia de la base, la fórmula se parece a la lista más los parámetros, y el procedimiento a la ruta, pero jerárquico y atado al equipo. Los requisitos de equipo no tienen equivalente en una ruta discreta. La receta de control, ligada a un lote, es lo que después permitiría la [trazabilidad de lotes](../Calidad/trazabilidad-de-lotes.md) (inferencia de la base).
 
 > [!NOTE] Sin fuente todavía: el texto de ISA-88 (IEC 61512), de pago; todo lo de la receta viene de resúmenes secundarios.
 

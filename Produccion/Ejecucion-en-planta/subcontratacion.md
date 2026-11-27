@@ -4,7 +4,7 @@ resumen: >-
 estado: borrador
 estabilidad: semi
 fuentes:
-  - "Documentación de Subcontracting de un sistema abierto (según el resumen): https://docs.frappe.io/erpnext/user/manual/en/subcontracting"
+  - "Documentación de Subcontracting de un sistema abierto: https://docs.frappe.io/erpnext/user/manual/en/subcontracting"
   - "APQC, Process Classification Framework 7.4 (2024), 4.1.1.3 «Define outsourcing policies»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Produccion/.investigacion/ejecucion-en-planta.md (sección 4), 2026-11-27"
 aliases: [subcontratación, subcontracting, fasón, trabajo a fasón, façon, maquila, operación externa, outside operation, outside processing, tercerización de una operación, orden de subcontratación, subcontracting order, material en poder de terceros, stock en poder de terceros]
@@ -22,13 +22,13 @@ Se diferencia de comprar el componente terminado en que el material es propio: e
 
 ## El recorrido en un sistema abierto
 
-La única fuente leída es la documentación de un sistema abierto, vista a través de un resumen. Su recorrido tiene cinco pasos:
+La única fuente leída es la documentación de un sistema abierto. Su recorrido tiene cinco pasos:
 
-1. **Orden de compra de subcontratación.** Se pide el producto transformado al proveedor; en el renglón, «The Rate on the Items row is the agreed service cost».
-2. **Orden de subcontratación.** Se calculan desde la [lista de materiales](../Producto-y-proceso/lista-de-materiales.md) las materias primas que hay que mandar.
-3. **Envío del material.** Un movimiento lleva el material «from your warehouse to the Supplier's warehouse».
-4. **Recepción de subcontratación.** Al recibir, se consume el material que estaba en el depósito del proveedor (el resumen lo llama «a backflush»), entra el producto al depósito de aceptados y, si hay, se registra el desecho.
-5. **Recepción de compra sin movimiento de stock.** La recepción del paso 4 ya actualizó el stock y la contabilidad.
+1. Orden de compra de subcontratación. Se pide el producto transformado al proveedor; la tarifa del renglón es el costo acordado del servicio.
+2. Orden de subcontratación. Se calculan desde la [lista de materiales](../Producto-y-proceso/lista-de-materiales.md) las materias primas que hay que mandar.
+3. Envío del material. Un movimiento de tipo «Send to Subcontractor» lleva el material de un depósito propio al del proveedor.
+4. Recepción de subcontratación. Al recibir, se consume el material que estaba en el depósito del proveedor (la documentación lo compara con «a backflush for subcontracting»), entra el producto al depósito de aceptados y, si hay, se registra el desecho.
+5. Recepción de compra sin movimiento de stock. La recepción del paso 4 ya actualizó el stock y la contabilidad.
 
 En ese sistema, la base del consumo puede ser la lista de materiales o lo que efectivamente se mandó. Es la misma decisión que el [consumo automático](consumo-y-declaracion.md#el-consumo-automático) dentro de la planta, con una diferencia: el sobrante queda en el depósito del tercero y no en el propio (inferencia de la base).
 

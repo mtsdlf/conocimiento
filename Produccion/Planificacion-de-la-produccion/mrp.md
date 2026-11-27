@@ -4,7 +4,7 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "Gershwin, S. B., Material Requirements Planning, diapositivas de MIT 2.853/2.854 (© 2002-2006; MIT OCW, otoño de 2016), diapositivas 3, 19, 23, 25 a 27, 31 a 34: https://ocw.mit.edu/courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52d64f4ea1bed6d9905bc00_MIT2_854F16_MatrialRequire.pdf"
+  - "Gershwin, S. B., Material Requirements Planning, diapositivas de MIT 2.853/2.854 (© 2002-2006; MIT OCW, otoño de 2016), diapositivas 3, 14, 19, 23, 25 a 27, 31 a 34: https://ocw.mit.edu/courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52d64f4ea1bed6d9905bc00_MIT2_854F16_MatrialRequire.pdf"
   - "Lymperopoulos, G., Σχεδιασμός και Προγραμματισμός Παραγωγής: MRP (diapositivas, Univ. de Tesalia, 25/11/2015, sobre Hopp y Spearman, Factory Physics, cap. 3; traducción de la base): https://opencourses.uth.gr/modules/document/file.php/MHXB125/MRP.pdf"
   - "Diapositivas «Material Requirements Planning (MRP) for Dependent Demand Systems», SMU, curso 5362 (2004): https://s2.smu.edu/~barr/5362/2004/04p20MRP.pdf"
   - "Apuntes «Chapter 4 Material Requirements Planning», Univ. de Houston, Bauer (hojas MRP1 y POQ): https://www.bauer.uh.edu/egardner/3301H%20Operations%20Management/OM%20Text/4MRP-1.pdf"
@@ -64,9 +64,9 @@ Las diapositivas de SMU encadenan tres niveles. Un subconjunto con lote de 15, p
 
 La necesidad neta casi nunca es lo que conviene fabricar o comprar. El MIT da tres reglas:
 
-- **Lote por lote**: «produce in a period the net requirements for that period. Maximum setups.» Según Tesalia, es simple, coherente con el justo a tiempo y «probably the best policy when setup costs are minimal».
-- **Cantidad fija**: «always produce the same quantity, whenever anything is produced. EOQ formula can be used to determine lot size.» Tesalia la justifica cuando los medios de transporte internos tienen un tamaño fijo. Hay empresas que la usan como mínimo: «Some companies treat the lot size as a minimum and do not round up to the nearest even multiple» (Houston).
-- **Período fijo**: «produce in a period the net requirements for P periods.»
+- Lote por lote: «produce in a period the net requirements for that period. Maximum setups.» Según Tesalia, es simple, coherente con el justo a tiempo y «probably the best policy when setup costs are minimal».
+- Cantidad fija: «always produce the same quantity, whenever anything is produced. EOQ formula can be used to determine lot size.» Tesalia la justifica cuando los medios de transporte internos tienen un tamaño fijo. Hay empresas que la usan como mínimo: «Some companies treat the lot size as a minimum and do not round up to the nearest even multiple» (Houston).
+- Período fijo: «produce in a period the net requirements for P periods.»
 
 El [lote económico](../../Inventario-y-depositos/Reposicion/lote-economico.md), de Inventario, supone demanda constante, y en el MRP no lo es. Los apuntes de Houston lo explican: la demanda de componentes es «"lumpy," that is, discontinuous and nonuniform», y con un EOQ quedan restos que se guardan sin necesidad. La cantidad por período (POQ) pide solo períodos enteros: se calcula el EOQ, se ve cuántos períodos promedio cubre y se redondea. En su ejemplo, 194 / 103,1 = 1,9, que da 2 semanas.
 
@@ -94,7 +94,7 @@ El plazo de seguridad adelanta la orden. Un sistema abierto lo define como el qu
 
 La orden planificada es una propuesta que el MRP recalcula en cada corrida; la orden planificada firme no la toca. Tesalia las define como órdenes «held fixed and scheduled to start whatever the changes in the system», que «stabilize the production schedule and serve to reduce system nervousness». Una vez liberada, la orden de fabricación pasa a [orden de producción](../Ejecucion-en-planta/orden-de-produccion.md), y la de compra, a [solicitud de compra](../../Compras-y-abastecimiento/Orden-de-compra/solicitud-de-compra.md).
 
-Sobre las órdenes que ya existen, el MRP no cambia nada: sugiere. La documentación de un sistema comercial lo llama mensaje de acción, que «suggests performing a certain planning action», en tres categorías:
+Sobre las órdenes que ya existen, el MRP no cambia nada: sugiere. Según el resumen de la documentación de un sistema comercial, se llama mensaje de acción, que «suggests performing a certain planning action», en tres categorías:
 
 | Categoría | Ejemplos de ese sistema |
 |---|---|
@@ -108,7 +108,7 @@ Las barreras del [plan maestro](plan-maestro-de-produccion.md#barreras-y-zonas-d
 
 ## Rastreo de la demanda
 
-El rastreo («pegging»), según Tesalia, «allows the planner to see the demand from which a planned order release arises, by providing a link from the gross requirements of an item to all its sources of demand». Sirve para replanificar desde abajo: si falta un componente, el planificador ve qué pedido de cliente se atrasa. Cuando se [fabrica contra pedido](fabricar-para-stock-o-contra-pedido.md), el vínculo llega al pedido de venta.
+El rastreo («pegging»), según Tesalia, «allows the planner to see the demand from which a planned order release arises, by providing a link from the gross requirements of an item to all its sources of demand». Sirve para replanificar desde abajo: si falta un componente, el planificador ve qué pedido de cliente se atrasa. Cuando se [fabrica contra pedido](fabricar-para-stock-o-contra-pedido.md), el vínculo llega al pedido de venta (inferencia de la base).
 
 ## Regenerativo o de cambio neto
 
@@ -130,3 +130,5 @@ El texto fundacional es Joseph Orlicky, *Material Requirements Planning: The New
 - Por artículo y período: necesidades brutas, recepciones programadas, stock proyectado, necesidades netas, recepciones y lanzamientos planificados.
 - Por orden: estado (planificada, firme, liberada), fechas, cantidad y el rastreo hacia su demanda.
 - Por corrida: los mensajes de acción, con código y orden, y la versión del plan, para medir cuánto cambió.
+
+La lista sale de los ejemplos leídos y de lo que pide el cálculo; no se confrontó con el modelo de datos de un sistema abierto (criterio de la base).

@@ -103,7 +103,7 @@ La OEE no mira el tiempo que no se planificó usar el equipo. La TEEP sí: segú
 La cifra circula como la OEE de una planta de clase mundial. El sitio de divulgación la atribuye a Nakajima, que habría definido los componentes «90% Availability, 95% Performance, and 99% Quality» como mínimos, y advierte que esos números «have roots in a particular place (Japan), at a particular time (1970s), and in a particular industry (automotive)». El producto da 0,90 × 0,95 × 0,99 = 84,6 %, que redondea a 85 % (cuenta de la base).
 
 > [!IMPORTANT]
-> **De quién es el 85 %.** Bengtsson, Andersson y Ekström (2022), según el resumen, dicen que Nakajima presenta condiciones ideales («availability is greater than 90%, performance is greater than 95% and quality is greater than 99%») y atribuyen la lectura del 85 % como «world-class level» a Jonsson y Lesshammar (1999). Otro proveedor, visto solo en el buscador, da 99,9 % de calidad, que con los otros dos factores da 85,4 % (cuenta de la base). La fuente académica coincide con 99 %.
+> De quién es el 85 %. Bengtsson, Andersson y Ekström (2022), según el resumen, dicen que Nakajima presenta condiciones ideales («availability is greater than 90%, performance is greater than 95% and quality is greater than 99%») y atribuyen la lectura del 85 % como «world-class level» a Jonsson y Lesshammar (1999). Otro proveedor, visto solo en el buscador, da 99,9 % de calidad, que con los otros dos factores da 85,4 % (cuenta de la base). La fuente académica coincide con 99 %.
 
 El año del libro también varía según la fuente. Wikipedia dice, según el resumen leído para Activos, que el término aparece por primera vez en *TPM Tenkai*, de Nakajima, en 1982. El sitio de divulgación fecha en 1984 el libro *Introduction to TPM*, traducido al inglés y publicado en 1988. El artículo académico cita la edición de 1988. Ninguna de las tres fechas se verificó en el libro.
 
@@ -115,10 +115,10 @@ Los estudios con datos encuentran niveles reales mucho más bajos que el 85 %, y
 
 Por construcción, el número sube sin que la planta mejore (lectura de la base sobre las fórmulas):
 
-- **Un tiempo ideal de ciclo flojo.** Si se toma el tiempo habitual en lugar del más rápido posible, el rendimiento sube.
-- **Paradas pasadas a planificadas.** Lo que sale del tiempo planificado ya no resta disponibilidad: en el ejemplo, la pausa de 60 minutos no cuenta.
-- **Preparaciones fuera del tiempo planificado.** Con la definición de ISO, el tiempo de preparación puede quedar afuera según cómo se cargue.
-- **Rechazos recuperados.** Si lo reprocesado vuelve como bueno, la calidad no muestra el reproceso.
+- Un tiempo ideal de ciclo flojo. Si se toma el tiempo habitual en lugar del más rápido posible, el rendimiento sube.
+- Paradas pasadas a planificadas. Lo que sale del tiempo planificado ya no resta disponibilidad: en el ejemplo, la pausa de 60 minutos no cuenta.
+- Preparaciones fuera del tiempo planificado. Con la definición de ISO, el tiempo de preparación puede quedar afuera según cómo se cargue.
+- Rechazos recuperados. Si lo reprocesado vuelve como bueno, la calidad no muestra el reproceso.
 
 La defensa es guardar la definición junto al número: qué entra en el tiempo planificado, de dónde sale el tiempo ideal de ciclo y cómo se cuentan los reprocesos (criterio de la base, en línea con [fundamentos de producción](../Fundamentos/fundamentos-de-produccion.md#lo-que-las-escuelas-le-piden-a-un-sistema)).
 

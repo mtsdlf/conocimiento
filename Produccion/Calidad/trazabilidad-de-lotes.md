@@ -41,14 +41,14 @@ La genealogía es más fina cuanto más chicos son los lotes. Si toda la producc
 
 Las dos preguntas que contesta la genealogía, con el ejemplo de arriba:
 
-- **Hacia atrás**: un cliente reclama por el lote MERM-2611-B. ¿Qué entró? Los lotes de frutilla FR-1033 y FR-1041, y los del azúcar y el frasco de esa orden, con sus proveedores y sus recepciones.
-- **Hacia adelante**: el proveedor X avisa que el lote FR-1033 tiene un problema. ¿Dónde está? En los lotes MERM-2611-A y MERM-2611-B, y de ahí, en todos los clientes que recibieron alguno de los dos. El FR-1041 no está comprometido, pero comparte el lote MERM-2611-B con el FR-1033, y por eso ese lote entero queda alcanzado.
+- Hacia atrás: un cliente reclama por el lote MERM-2611-B. ¿Qué entró? Los lotes de frutilla FR-1033 y FR-1041 y los demás componentes de esa orden, con sus proveedores y sus recepciones.
+- Hacia adelante: el proveedor X avisa que el lote FR-1033 tiene un problema. ¿Dónde está? En los lotes MERM-2611-A y MERM-2611-B, y de ahí, en todos los clientes que recibieron alguno de los dos. El FR-1041 no tiene problema, pero el lote MERM-2611-B lleva también FR-1033, así que ese lote entero queda alcanzado.
 
 El rastreo hacia adelante desde el lote fabricado hasta el cliente usa los despachos, que son de Inventario. El de acá termina en el lote fabricado; el de allá sigue hasta el cliente.
 
 ## Lo que pide la ley y lo que no
 
-La referencia más citada es el Reglamento (CE) 178/2002 de la Unión Europea, para alimentos y piensos. Define la trazabilidad (art. 3.15) como «la posibilidad de encontrar y seguir el rastro, a través de todas las etapas de producción, transformación y distribución, de un alimento, un pienso, un animal destinado a la producción de alimentos o una sustancia destinada a ser incorporada en un alimento o un pienso».
+Una referencia abierta es el Reglamento (CE) 178/2002 de la Unión Europea, para alimentos y piensos. Define la trazabilidad (art. 3.15) como «la posibilidad de encontrar y seguir el rastro, a través de todas las etapas de producción, transformación y distribución, de un alimento, un pienso, un animal destinado a la producción de alimentos o una sustancia destinada a ser incorporada en un alimento o un pienso».
 
 El artículo 18 dice qué hay que poder hacer, y es menos de lo que parece:
 
@@ -58,11 +58,11 @@ El artículo 18 dice qué hay que poder hacer, y es menos de lo que parece:
 | 18.3 | «deberán poner en práctica sistemas y procedimientos para identificar a las empresas a las que hayan suministrado sus productos» |
 | 18.4 | los productos «deberán estar adecuadamente etiquetados o identificados para facilitar su trazabilidad mediante documentación o información pertinentes» |
 
-El reglamento pide conocer el proveedor inmediato y el cliente inmediato. **No pide la genealogía interna**: qué lote de ingrediente entró en qué lote de producto. La expresión «un paso atrás, un paso adelante» no está en el artículo; la usa la AESAN, la agencia española de seguridad alimentaria, que lo explica así: los explotadores «contarán con un sistema que les permita identificar a sus proveedores inmediatos y a sus clientes inmediatos», salvo cuando el cliente es el consumidor final.
+El reglamento pide conocer el proveedor inmediato y el cliente inmediato. No pide la genealogía interna: qué lote de ingrediente entró en qué lote de producto. La expresión «un paso atrás, un paso adelante» no está en el artículo; la usa la AESAN, la agencia española de seguridad alimentaria, que lo explica así: los explotadores «contarán con un sistema que les permita identificar a sus proveedores inmediatos y a sus clientes inmediatos», salvo cuando el cliente es el consumidor final.
 
 Sin la genealogía interna, la ley se cumple, pero un retiro alcanza todo lo fabricado mientras hubo stock del ingrediente malo (inferencia de la base). La norma que trata el diseño de un sistema de trazabilidad en la cadena alimentaria es la ISO 22005:2007; según el buscador, fija principios y requisitos mínimos y se confirmó en 2022. No se leyó.
 
-En la Argentina, el Código Alimentario va más lejos que el reglamento europeo en la letra: pide procedimientos que permitan seguir el rastro de un producto «como así también de sus materias primas y aditivos», y un plan de retiro documentado. Lo que pide cada rubro (alimentos, medicamentos, productos médicos) está en [Producción en la Argentina](../produccion-en-argentina.md).
+En la Argentina, el Código Alimentario (art. 18 tris) pide procedimientos que permitan seguir el rastro de un producto «como así también de sus materias primas y aditivos», y el art. 18 tris 1, un plan de retiro documentado. Nombrar las materias primas acerca el texto a la genealogía interna que el reglamento europeo no pide (lectura de la base). Lo que pide cada rubro (alimentos, medicamentos, productos médicos) está en [Producción en la Argentina](../produccion-en-argentina.md).
 
 Para la gestión de la calidad en general, ISO 9001:2015 trata la identificación y la trazabilidad en la cláusula 8.5.2. Según NSAI, la edición 2015 no le agregó requisitos nuevos; el texto no se leyó.
 
@@ -82,10 +82,10 @@ Los pasos de un retiro, como criterio de la base:
 
 La genealogía no se carga aparte: sale de los movimientos de la orden. Cada entrega de material y cada [declaración de consumo](../Ejecucion-en-planta/consumo-y-declaracion.md) tiene que decir qué lote se usó, y cada declaración de producción, qué lote salió. Con eso, la genealogía es una consulta (criterio de la base).
 
-- **Por lote fabricado**: número de lote, artículo, orden de producción, fecha, cantidad, versión de la lista y la ruta, y vencimiento si corresponde.
-- **Por consumo**: orden, componente, lote de componente, cantidad y, por el lote, su proveedor y su recepción.
-- **Por despacho**: lote, cliente, cantidad y fecha; esto es de Inventario.
-- **La regla de numeración** de los lotes propios y si el lote del proveedor se conserva o se reemplaza por uno interno, que es la actividad 4.3.4.1 de APQC.
+- Por lote fabricado: número de lote, artículo, orden de producción, fecha, cantidad, versión de la lista y la ruta, y vencimiento si corresponde.
+- Por consumo: orden, componente, lote de componente, cantidad y, por el lote, su proveedor y su recepción.
+- Por despacho: lote, cliente, cantidad y fecha; esto es de Inventario.
+- La regla de numeración de los lotes propios y si el lote del proveedor se conserva o se reemplaza por uno interno, que es la actividad 4.3.4.1 de APQC.
 
 El punto débil es el consumo automático. Si el sistema descuenta los componentes según la lista de materiales al declarar lo producido, sin que nadie diga qué lote se tomó, tiene que elegirlo por una regla (el más viejo, el que vence antes). Si la planta usó otro, la genealogía registrada no es la real. En los artículos que se siguen por lote, el consumo tiene que confirmar el lote, o la regla tiene que coincidir con lo que se hace en la línea (criterio de la base).
 

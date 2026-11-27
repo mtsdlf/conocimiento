@@ -6,7 +6,6 @@ estabilidad: estable
 fuentes:
   - "Documentación de un sistema comercial, «Bill of materials (BOM)» y fórmulas (página del 2025-07-10): https://learn.microsoft.com/en-us/dynamics365/supply-chain/production-control/bill-of-material-bom"
   - "Diapositivas «Material Requirements Planning (MRP) for Dependent Demand Systems», SMU, curso 5362 (2004): https://s2.smu.edu/~barr/5362/2004/04p20MRP.pdf"
-  - "Solucionario de preguntas de discusión sobre MRP, curso IE 314, KSU: https://faculty.ksu.edu.sa/sites/default/files/mrp.pdf"
   - "Manual de Work Order de un sistema abierto: https://docs.frappe.io/erpnext/user/manual/en/work-order"
   - "Manual de Bill of Materials de un sistema abierto: https://docs.frappe.io/erpnext/user/manual/en/bill-of-materials"
   - "ISA-88 en Wikipedia (resumen secundario): https://en.wikipedia.org/wiki/ISA-88"
@@ -44,7 +43,7 @@ Las otras cuatro verticales usan los mismos dos datos para cosas distintas. Por 
 | [Costos de producción](../Costos-de-produccion/costos-de-produccion.md) | cantidades, mermas, tiempos y costo por hora del centro | el [costo estándar del producto](../Costos-de-produccion/costo-estandar-del-producto.md) se acumula nivel por nivel |
 | [Calidad](../Calidad/calidad.md) | la versión con que se fabricó cada lote | la [acción correctiva](../Calidad/accion-correctiva.md) que corrige una causa en el diseño termina en un cambio de ingeniería |
 
-Las diapositivas de un curso de MRP listan sus entradas como «Master schedule, Bill of materials, Inventory records». Un solucionario de otro curso pone entre sus requisitos «An accurate BOM». En un sistema abierto, la orden de producción guarda la lista y la ruta que usó, y el costo de la lista sale «from the Valuation Rate of the raw materials/sub-assemblies involved and the Operation costs».
+Las diapositivas de un curso de MRP listan sus entradas como «Master schedule, Bill of materials, Inventory records». Las mismas diapositivas ponen entre los requisitos del MRP «An accurate BOM». En un sistema abierto, el costo de la lista sale «from the Valuation Rate of the raw materials/sub-assemblies involved and the Operation costs». Que la orden de producción guarde la lista y la ruta que usó es inferencia de la base: las fuentes leídas no lo dicen.
 
 ## Discreta o por procesos: lista y ruta, o fórmula
 
@@ -71,15 +70,15 @@ Lo que la planilla no hace sola es explotar varios niveles ni encontrar todos lo
 
 ## Cómo fallan los datos maestros
 
-- **La lista no refleja lo que se hace en la planta.** El consumo automático descuenta lo que dice la lista, así que una lista equivocada deja el stock equivocado sin que nadie cargue un error (inferencia de la base). Ver [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md).
-- **Los tiempos de la ruta son viejos o de catálogo.** La capacidad y el costo estándar se calculan con ellos, así que un tiempo inflado esconde ineficiencia y uno corto genera variaciones en cada orden (inferencia de la base).
-- **Cambios sin control.** Alguien corrige la lista directamente, sin versión ni vigencia, y las órdenes abiertas quedan con una mezcla. Cómo se evita está en [cambios de ingeniería](cambios-de-ingenieria.md).
-- **Dos listas que se separan.** Ingeniería mantiene una y la planta otra, y ninguna es la verdadera; está en [lista de ingeniería y lista de fabricación](lista-de-materiales.md#lista-de-ingeniería-y-lista-de-fabricación).
+- La lista no refleja lo que se hace en la planta: el consumo automático descuenta lo que dice la lista, así que una lista equivocada deja el stock equivocado sin que nadie cargue un error (inferencia de la base). Ver [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md).
+- Los tiempos de la ruta son viejos o de catálogo: la capacidad y el costo estándar se calculan con ellos, así que un tiempo inflado esconde ineficiencia y uno corto genera variaciones en cada orden (inferencia de la base).
+- Cambios sin control: alguien corrige la lista directamente, sin versión ni vigencia, y las órdenes abiertas quedan con una mezcla. Cómo se evita está en [cambios de ingeniería](cambios-de-ingenieria.md).
+- Dos listas que se separan: ingeniería mantiene una y la planta otra, y ninguna es la verdadera; está en [lista de ingeniería y lista de fabricación](lista-de-materiales.md#lista-de-ingeniería-y-lista-de-fabricación).
 
 ## Lo que hay adentro de producto y proceso
 
-- [Lista de materiales](lista-de-materiales.md) — qué lleva un producto: niveles, cantidad por unidad, merma, lista fantasma, de planificación, variantes, lista de ingeniería frente a la de fabricación, código de nivel más bajo y las salidas extra. Leerla primero.
-- [Ruta de fabricación](ruta-de-fabricacion.md) — cómo se hace: operaciones en secuencia, centro de trabajo con su capacidad y eficiencia, los cuatro tiempos de una operación y la fórmula o receta en procesos.
-- [Cambios de ingeniería](cambios-de-ingenieria.md) — cómo cambian la lista y la ruta sin romper lo que está en curso: solicitud y orden de cambio, versión, vigencia, qué pasa con el stock y quién aprueba.
+- [Lista de materiales](lista-de-materiales.md): qué lleva un producto, con niveles, cantidad por unidad, merma, lista fantasma, de planificación, variantes, lista de ingeniería frente a la de fabricación, código de nivel más bajo y las salidas extra. Leerla primero.
+- [Ruta de fabricación](ruta-de-fabricacion.md): cómo se hace, con operaciones en secuencia, centro de trabajo con su capacidad y eficiencia, los cuatro tiempos de una operación y la fórmula o receta en procesos.
+- [Cambios de ingeniería](cambios-de-ingenieria.md): cómo cambian la lista y la ruta sin romper lo que está en curso, con solicitud y orden de cambio, versión, vigencia, qué pasa con el stock y quién aprueba.
 
 La lista de repuestos de una máquina es otra cosa: dice qué piezas lleva el equipo para mantenerlo, no qué lleva un producto. Está en [jerarquía de activos](../../Activos-y-mantenimiento/Registro-de-activos/jerarquia-de-activos.md#componentes-y-lista-de-repuestos-del-equipo), de Activos y mantenimiento.
