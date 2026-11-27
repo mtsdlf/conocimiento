@@ -25,9 +25,9 @@ Entrená fuerza de forma progresiva y ajustá la comida: eso cambia cuánto mús
 
 ## Lo que el entrenamiento cambia y lo que no
 
-Lo que se puede cambiar es la cantidad de músculo y la de grasa. El músculo lo construye la fuerza ([principios básicos](principios-basicos.md)) y la grasa baja sobre todo con la comida ([bajar grasa y ganar músculo](bajar-grasa-y-ganar-musculo.md)). La parte de la comida para este objetivo está en [estética](../Nutricion/Objetivos-del-adulto/estetica.md).
+Lo que se puede cambiar es la cantidad de músculo y la de grasa. El músculo lo construye la fuerza ([principios básicos](Carga/principios-basicos.md)) y la grasa baja sobre todo con la comida ([bajar grasa y ganar músculo](bajar-grasa-y-ganar-musculo.md)). La parte de la comida para este objetivo está en [estética](../Nutricion/Objetivos-del-adulto/estetica.md).
 
-Lo que no se elige es de dónde sale la grasa: hacer abdominales no baja la grasa de la panza, como cuenta [mitos del entrenamiento](mitos-del-entrenamiento.md). Sobre la forma de cada músculo, dónde se inserta y las proporciones del cuerpo no encontramos estudios: no se puede prometer cambiarlas.
+Lo que no se elige es de dónde sale la grasa: hacer abdominales no baja la grasa de la panza, como cuenta [mitos del entrenamiento](Fundamentos/mitos-del-entrenamiento.md). Sobre la forma de cada músculo, dónde se inserta y las proporciones del cuerpo no encontramos estudios: no se puede prometer cambiarlas.
 
 > [!NOTE]
 > Sin fuente todavía: evidencia sobre cuánto puede cambiarse la forma o la proporción de un músculo con el entrenamiento, y sobre ritmos de cambio a 3, 6 y 12 meses.
