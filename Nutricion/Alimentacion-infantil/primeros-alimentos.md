@@ -24,24 +24,24 @@ Esta base se concentra en los 2 a 6 años, así que la etapa del bebé entra com
 
 ## Cuándo empezar y cuántas comidas
 
-La OMS recomienda introducir alimentos complementarios en torno a los 6 meses y advierte: "Si se introducen antes o se retrasan, el crecimiento puede verse afectado". Aconseja "continuar con la lactancia materna frecuente hasta los 2 años o más". Para la frecuencia, propone "2–3 comidas al día para lactantes de 6 a 8 meses y 3–4 comidas diarias para lactantes de 9 a 23 meses, con 1–2 tentempiés adicionales según sea necesario". Es una recomendación de organismo, no el resultado de un ensayo.
+La Organización Mundial de la Salud (OMS) recomienda introducir alimentos complementarios en torno a los 6 meses y advierte: "Si se introducen antes o se retrasan, el crecimiento puede verse afectado". Aconseja "continuar con la lactancia materna frecuente hasta los 2 años o más". Para la frecuencia, propone "2–3 comidas al día para lactantes de 6 a 8 meses y 3–4 comidas diarias para lactantes de 9 a 23 meses, con 1–2 tentempiés adicionales según sea necesario". Es una recomendación de organismo, no el resultado de un ensayo.
 
 > [!IMPORTANT]
 > La OMS y la Asociación Española de Pediatría (AEP) no ponen el mismo límite de inicio. La OMS habla de "en torno a los 6 meses"; la AEP, según su resumen del documento de 2024, admite empezar desde los 4 meses (17 semanas) según el desarrollo del bebé, y considera "deseable" la lactancia exclusiva o predominante "durante aproximadamente 6 meses". La decisión para un bebé concreto se toma con el pediatra.
 
 ## Qué mostró el ensayo BLISS sobre el BLW
 
-El BLW (*baby-led weaning*) es dejar que el bebé se alimente solo con trozos de comida en vez de papillas. El ensayo aleatorizado BLISS, de Nueva Zelanda, probó una versión modificada: con consejos para asegurar hierro y para evitar los alimentos de riesgo. Según el resumen de sus dos publicaciones:
+El BLW (*baby-led weaning*) es dejar que el bebé se alimente solo con trozos de comida en vez de papillas. El ensayo BLISS, de Nueva Zelanda, asignó por sorteo a las familias (ensayo aleatorizado) y probó una versión modificada, con consejos para asegurar hierro y para evitar los alimentos de riesgo. Según el resumen de sus dos publicaciones (los datos de LEAP y de BLISS se leyeron en resúmenes, no en los artículos originales):
 
-- A los 12 y 24 meses el índice de masa corporal y el sobrepeso no difirieron entre grupos (Taylor y colegas, *JAMA Pediatrics* 2017).
-- No hubo diferencias significativas en atragantamientos; las arcadas fueron más frecuentes en el grupo BLISS a los 6 meses y menos a los 8 (Fangupo y colegas, *Pediatrics* 2016).
+- A los 12 y 24 meses el índice de masa corporal (la relación entre peso y talla) y el sobrepeso no difirieron entre grupos (Taylor y colegas, *JAMA Pediatrics* 2017).
+- No hubo diferencias estadísticamente claras en atragantamientos (más que lo esperable por azar); las arcadas fueron más frecuentes en el grupo BLISS a los 6 meses y menos a los 8 (Fangupo y colegas, *Pediatrics* 2016).
 - Los autores señalaron que a muchos bebés de los dos grupos se les ofrecían alimentos de riesgo, que son los de [atragantamiento](atragantamiento.md).
 
 El resultado vale para el BLW con esos consejos, no para el BLW sin guía. Los datos de hierro del ensayo no se revisaron.
 
 ## Los alérgenos, temprano y no tarde
 
-El ensayo LEAP mostró, según su resumen en revisiones, una reducción relativa del 81 % de la alergia al maní a los 5 años en lactantes de alto riesgo que lo comieron temprano y con regularidad. La guía del NIAID de Estados Unidos (2017) sugiere introducir maní entre los 4 y los 6 meses en lactantes con eccema grave o alergia al huevo, previa evaluación médica. Los dos datos salen de resúmenes en revisiones, no del original. Entero o en cucharadas espesas de pasta, el maní es además un alimento de riesgo de [atragantamiento](atragantamiento.md) para la SAP y la AAP. Lo que sigue después está en [alergias alimentarias](alergias-alimentarias.md).
+El ensayo LEAP (también aleatorizado) mostró, según revisiones que lo resumen, una reducción relativa del 81 % de la alergia al maní a los 5 años en lactantes de alto riesgo que lo comieron temprano y con regularidad. La guía del NIAID (Instituto Nacional de Alergias y Enfermedades Infecciosas de Estados Unidos, 2017) sugiere introducir maní entre los 4 y los 6 meses en lactantes con eccema grave (una enfermedad de la piel) o alergia al huevo, previa evaluación médica. Entero o en cucharadas espesas de pasta, el maní es además un alimento de riesgo de [atragantamiento](atragantamiento.md) para la Sociedad Argentina de Pediatría (SAP) y la Academia Estadounidense de Pediatría (AAP). Lo que sigue después está en [alergias alimentarias](alergias-alimentarias.md).
 
 > [!NOTE]
 > Sin fuente todavía: la guía de alimentación complementaria de la SAP y su posición sobre el BLW y la introducción de alérgenos.

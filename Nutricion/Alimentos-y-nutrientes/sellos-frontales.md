@@ -23,6 +23,10 @@ Los sellos frontales son los octógonos negros que la Ley 27.642 obliga a poner 
 
 Es la capa operativa de la mirada por nutrientes de [alimentos y nutrientes](alimentos-y-nutrientes.md). Los sellos y los [ultraprocesados](ultraprocesados.md) son clasificaciones distintas: los sellos miden nutrientes con el perfil de la OPS, NOVA mide procesamiento, y un producto puede estar en una sin estar en la otra.
 
+## Cómo leer un sello en el envase
+
+Un octógono negro en la cara principal del envase avisa que el producto tiene exceso de azúcares, sodio, grasas saturadas, grasas totales o calorías, según el perfil de nutrientes de la OPS (Organización Panamericana de la Salud). Hay un sello por cada exceso, de modo que un producto puede llevar varios. Las leyendas de edulcorantes y cafeína avisan que no se recomiendan para chicos. Que un producto no tenga sello no quiere decir que sea sano: los sellos miden nutrientes y no cuánto se procesó el alimento. La ley sigue vigente al 2026-11-27, con un proyecto de derogación en el Senado.
+
 Fuente viva: el texto de la [Ley 27.642](https://www.argentina.gob.ar/normativa/nacional/ley-27642-356607/texto) y del [Decreto 151/2022](https://www.argentina.gob.ar/normativa/nacional/362577/texto) en argentina.gob.ar. Copiado el 2026-11-27.
 
 ## Estado de la ley al 2026-11-27
@@ -32,8 +36,8 @@ Fuente viva: el texto de la [Ley 27.642](https://www.argentina.gob.ar/normativa/
 
 - A fines de mayo de 2026 el Poder Ejecutivo, con las firmas de Milei, Adorni y Lugones, envió al Senado un proyecto para derogar por completo la Ley 27.642, con vigencia desde su publicación en el Boletín Oficial ([Infobae, 26/05/2026](https://www.infobae.com/politica/2026/05/26/senado-el-gobierno-intentara-derogar-la-ley-de-etiquetado-frontal-y-hay-cautela-en-el-sector-dialoguista/)).
 - Según el Gobierno, seguiría obligatorio declarar el valor energético, los azúcares, las grasas y el sodio. Sus argumentos: el esquema es "binario", alimentos distintos llevan el mismo rótulo, restringe el comercio y cuesta caro a las pymes (misma nota).
-- El proyecto es el expediente 186/26. A fines de mayo no tenía giro a comisiones y los bloques dialoguistas pedían estudios técnicos y decían que no había urgencia (misma nota y resumen del buscador). Más de 300 organizaciones pidieron rechazarlo (resumen del buscador).
-- La nota de El Ancasti del 24 de mayo de 2026 dice que el proyecto ingresó al Senado el 23 de mayo y que el Gobierno pidió su "pronto tratamiento y sanción", sin dato de comisión ni fecha de debate ([El Ancasti](https://www.elancasti.com.ar/informacion-general/el-gobierno-impulsa-la-derogacion-la-ley-etiquetado-frontal-n613300)). Una nota de MisionesOnline del 19 de julio de 2026 decía que el debate "comenzará" en el Senado (resumen del buscador; no se pudo abrir).
+- El proyecto es el expediente 186/26. A fines de mayo no tenía giro a comisiones y los bloques dialoguistas pedían estudios técnicos y decían que no había urgencia (misma nota y resumen del buscador, marca que vale para las demás citas de esta sección). Más de 300 organizaciones pidieron rechazarlo.
+- La nota de El Ancasti del 24 de mayo de 2026 dice que el proyecto ingresó al Senado el 23 de mayo y que el Gobierno pidió su "pronto tratamiento y sanción", sin dato de comisión ni fecha de debate ([El Ancasti](https://www.elancasti.com.ar/informacion-general/el-gobierno-impulsa-la-derogacion-la-ley-etiquetado-frontal-n613300)). Una nota de MisionesOnline del 19 de julio de 2026 decía que el debate "comenzará" en el Senado (no se pudo abrir).
 - Para confirmar el estado: la ficha del expediente 186/26 en el sitio del Senado y el Boletín Oficial.
 
 El Decreto 577/2024 rechazó un reclamo de la Federación Olivícola Argentina contra el Decreto 151/2022 por las aceitunas de mesa ([Boletín Oficial](https://www.boletinoficial.gob.ar/pdf/aviso/primera/310054/20250516)); muestra que hubo reclamos administrativos, pero no modificó la ley.
@@ -73,3 +77,7 @@ Los límites siguen el modelo de perfil de nutrientes de la OPS de 2016 (Decreto
 ## Qué se sabe de su efecto
 
 La evidencia sobre si los sellos cambian lo que se compra es de encuestas, no de ensayos. Según Chequeado: un estudio de FIC y UNICEF de junio de 2024, con encuestas en línea antes y después, encontró una "disminución significativa en la intención de compra"; una encuesta del Ministerio de Salud de 2023 dio 90 % de acuerdo con los sellos; y una de la UBA, que 97 % notó los sellos. Un informe de la OPS de marzo de 2026 dice que Argentina cumple 10 de los 11 criterios de mejores prácticas (citado por Chequeado; el informe no se leyó).
+
+## Qué tan firme es lo que dice esta nota
+
+El texto de la Ley 27.642 y del Decreto 151/2022 se copió de argentina.gob.ar el 2026-11-27, salvo la tabla de puntos de corte, que es una imagen y no se leyó. Las noticias sobre el proyecto de derogación vienen de notas de prensa, algunas leídas solo como resumen del buscador, y el estado de noviembre de 2026 no se pudo confirmar. La evidencia sobre el efecto de los sellos viene de encuestas citadas por Chequeado, no de los estudios originales.

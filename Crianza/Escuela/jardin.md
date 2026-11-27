@@ -21,6 +21,10 @@ revisado: 2026-11-27
 
 El jardín es el nivel inicial del sistema educativo, de los 45 días a los 5 años; en Argentina es obligatorio desde la sala de 4, y la evidencia sobre lo que aporta depende sobre todo de su calidad, con estudios que discrepan y sin una edad óptima de ingreso establecida.
 
+## A qué edad empezar
+
+Ninguna de las fuentes leídas fija una edad óptima de ingreso al jardín maternal o a la sala de 3 para un chico que en casa tiene un ambiente rico. La decisión depende entonces de cosas como el trabajo de los padres, quién cuida en casa ([cuidadores](../Vinculo/cuidadores.md)), cuántas horas serían y cómo es el jardín disponible. Lo que sí se sabe es que la calidad pesa más que la edad, y que el estudio del NICHD asoció más horas de cuidado con más conducta de riesgo e impulsividad a los 15 años.
+
 ## Qué dice la ley argentina
 
 La Ley 27.045, publicada en el Boletín Oficial el 7 de enero de 2015, modificó la Ley de Educación Nacional ([texto](https://www.argentina.gob.ar/normativa/nacional/ley-27045-2014-240450/texto)). Sus artículos dicen, textuales:
@@ -35,7 +39,7 @@ La obligatoriedad es una norma, no la conclusión de un estudio sobre la mejor e
 
 ## Cuántos chicos van
 
-UNICEF Argentina revisó los diez años de la ley ([UNICEF 2024](https://www.unicef.org/argentina/media/23771/file/UNICEF_10%20a%C3%B1os%20de%20la%20obligatoriedad%20de%20la%20sala%20de%204%20en%20Argentina)):
+UNICEF (el fondo de la ONU para la infancia) Argentina revisó los diez años de la ley ([UNICEF 2024](https://www.unicef.org/argentina/media/23771/file/UNICEF_10%20a%C3%B1os%20de%20la%20obligatoriedad%20de%20la%20sala%20de%204%20en%20Argentina)):
 
 | Sala | Asistencia | Hogares de bajos ingresos | Hogares de altos ingresos |
 |---|---|---|---|
@@ -50,15 +54,16 @@ Las cifras de sala de 3 cuentan solo ofertas educativas, no otras instituciones 
 Que el jardín ayude o no depende de cómo es. La evidencia viene casi toda de Estados Unidos, de programas distintos del nivel inicial argentino.
 
 > [!IMPORTANT]
-> Los estudios discrepan. Un consenso de investigadores (Yoshikawa y otros, 2013) concluye que los programas públicos a gran escala pueden tener efectos positivos sustanciales en el aprendizaje temprano, también en chicos de clase media, y que la calidad depende del apoyo a los docentes ([Investing in Our Future](https://fpg.unc.edu/publications/investing-our-future-evidence-base-preschool-education), según su resumen). En cambio, el ensayo aleatorizado del programa estatal de Tennessee (Durkin y otros, 2022) halló que los chicos asignados al pre-K tenían puntajes más bajos en las pruebas de tercero a sexto grado, más infracciones disciplinarias y más uso de educación especial ([Developmental Psychology](https://pubmed.ncbi.nlm.nih.gov/35007113/), según su resumen). Tennessee es un programa estatal de calidad variable, y el ensayo es aleatorizado.
+> Los estudios discrepan. Un consenso de investigadores (Yoshikawa y otros, 2013) concluye que los programas públicos a gran escala pueden tener efectos positivos sustanciales en el aprendizaje temprano, también en chicos de clase media, y que la calidad depende del apoyo a los docentes ([Investing in Our Future](https://fpg.unc.edu/publications/investing-our-future-evidence-base-preschool-education), leído por su resumen, como las otras fuentes marcadas al final). En cambio, el ensayo aleatorizado (los chicos se asignaron al azar) del programa estatal de Tennessee (Durkin y otros, 2022) halló que los chicos asignados al pre-K (programa previo a la escuela, para chicos de 4 años, en Estados Unidos) tenían puntajes más bajos en las pruebas de tercero a sexto grado, más infracciones disciplinarias y más uso de educación especial ([Developmental Psychology](https://pubmed.ncbi.nlm.nih.gov/35007113/)). Tennessee es un programa estatal de calidad variable, y el ensayo es aleatorizado, el diseño que más peso da a una conclusión.
 
-El estudio del NICHD siguió a 958 familias hasta los 15 años (Vandell y otros, 2010). Una mayor calidad del cuidado temprano predijo mejor desempeño académico y menos problemas de conducta a los 15; más horas en cuidado se asociaron con más conductas de riesgo e impulsividad ([Child Development](https://pmc.ncbi.nlm.nih.gov/articles/PMC2938040), según su resumen). Es observacional: las familias que eligen más o menos horas son distintas entre sí.
+El estudio del NICHD (Instituto Nacional de Salud Infantil y Desarrollo Humano, de Estados Unidos) siguió a 958 familias hasta los 15 años (Vandell y otros, 2010). Una mayor calidad del cuidado temprano predijo mejor desempeño académico y menos problemas de conducta a los 15; más horas en cuidado se asociaron con más conductas de riesgo e impulsividad ([Child Development](https://pmc.ncbi.nlm.nih.gov/articles/PMC2938040)). Es observacional (mide lo que las familias ya hacen, sin asignarlo): las familias que eligen más o menos horas son distintas entre sí.
 
 Los efectos académicos de los programas tempranos, además, tienden a desvanecerse con los años ([estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md)). Eso habla de no esperar del jardín un adelanto escolar duradero; no es una razón para no ir. Qué mirar para juzgar la calidad está en [elegir escuela](elegir-escuela.md).
 
-## A qué edad empezar
 
-Ninguna de las fuentes leídas fija una edad óptima de ingreso al jardín maternal o a la sala de 3 para un chico que en casa tiene un ambiente rico. La decisión depende entonces de cosas como el trabajo de los padres, quién cuida en casa ([cuidadores](../Vinculo/cuidadores.md)), cuántas horas serían y cómo es el jardín disponible. Lo que sí se sabe es que la calidad pesa más que la edad, y que el estudio del NICHD asoció más horas de cuidado con más conducta de riesgo e impulsividad a los 15 años.
+## Qué fuentes se leyeron completas y cuáles por resumen
+
+Yoshikawa y otros (2013), Durkin y otros (2022) y Vandell y otros (2010) se leyeron por su resumen, no completos. La ley se citó de su texto. Los términos técnicos están en el [glosario de crianza](../Fundamentos/glosario-de-crianza.md).
 
 > [!NOTE]
 > Sin fuente todavía: evidencia argentina sobre el impacto del nivel inicial y sobre la edad de ingreso, y el informe del Ministerio de Educación y UNICEF sobre calidad del nivel inicial.

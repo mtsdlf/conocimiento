@@ -22,26 +22,26 @@ El sueño comparte el día con el movimiento y el tiempo quieto. La OMS los trat
 
 ## Cuántas horas por edad
 
-Dos paneles distintos llegaron a los mismos rangos. La Academia Estadounidense de Medicina del Sueño (AASM) publicó en 2016 un consenso de 13 expertos que revisó 864 artículos; la OMS publicó su guía para menores de 5 años en 2019. Las horas son por 24 horas y cuentan las siestas.
+A cada edad le corresponden las horas de la tabla, siestas incluidas, con horarios regulares para acostarse y levantarse. Dos paneles distintos llegaron a los mismos rangos. La Academia Estadounidense de Medicina del Sueño (AASM) publicó en 2016 un consenso de 13 expertos que revisó 864 artículos; la OMS publicó su guía para menores de 5 años en 2019. Las horas son por 24 horas y cuentan las siestas.
 
 | Edad | AASM 2016 | OMS 2019 |
 |---|---|---|
 | 4 a 12 meses | 12 a 16 horas | — |
-| 1 a 2 años | 11 a 14 horas | "11–14 hours of good quality sleep, including naps" |
-| 3 a 5 años (OMS: 3 a 4) | 10 a 13 horas | "10–13 hours of good quality sleep, which may include a nap" |
+| 1 a 2 años | 11 a 14 horas | «11 a 14 horas de sueño de buena calidad, incluidas las siestas» (en el original: "11–14 hours of good quality sleep, including naps") |
+| 3 a 5 años (OMS: 3 a 4) | 10 a 13 horas | «10 a 13 horas de sueño de buena calidad, que pueden incluir una siesta» (en el original: "10–13 hours of good quality sleep, which may include a nap") |
 | 6 a 12 años | 9 a 12 horas | — |
 
-La AASM dice que esas horas valen "on a regular basis to promote optimal health". La OMS agrega horarios regulares para acostarse y levantarse. La Sociedad Argentina de Pediatría (SAP), en su hoja de 2022 del Comité de Medicina del Deporte, reproduce las cifras de la OMS: no suma como tercera fuente independiente.
+La AASM dice que esas horas valen «de forma habitual para promover una salud óptima» (traducción; en el original: "on a regular basis to promote optimal health"). La OMS agrega horarios regulares para acostarse y levantarse. La Sociedad Argentina de Pediatría (SAP), en su hoja de 2022 del Comité de Medicina del Deporte, reproduce las cifras de la OMS: no suma como tercera fuente independiente.
 
 ## Cuánto pesan esos números
 
-Los rangos son consenso, no umbrales probados. La OMS califica sus recomendaciones como fuertes con evidencia de calidad muy baja ("Strong recommendations, very low quality evidence"). La AASM usó opinión de expertos estructurada (método RAND modificado) sobre estudios mayormente observacionales.
+Los rangos son consenso, no umbrales probados. La OMS califica sus recomendaciones como fuertes con evidencia de calidad muy baja («recomendaciones fuertes, evidencia de muy baja calidad»; en el original: "Strong recommendations, very low quality evidence"), es decir que hay pocos estudios o son débiles. La AASM usó opinión de expertos estructurada (método RAND modificado, una forma de votar en rondas) sobre estudios mayormente observacionales (que miden lo que ya pasa, sin asignarlo).
 
-La AASM habla de dormir esas horas "on a regular basis", es decir de forma habitual. Una noche corta suelta queda fuera de lo que midieron los paneles; que no preocupe es inferencia nuestra, y si el sueño preocupa se consulta al pediatra.
+La AASM habla de dormir esas horas de forma habitual, así que una noche corta suelta queda fuera de lo que midieron los paneles; que no preocupe es inferencia nuestra, y si el sueño preocupa se consulta al pediatra.
 
 ## Pesadillas y terrores nocturnos
 
-Se parecen de afuera y se atienden distinto. Lo que sigue sale de la página de la Academia Estadounidense de Pediatría (AAP) en castellano, una guía de organismo basada en opinión de expertos.
+Se parecen de afuera y se atienden distinto. Lo que sigue sale de la página en castellano de la Academia Estadounidense de Pediatría (AAP), una guía de organismo basada en opinión de expertos.
 
 | | Pesadilla | Terror nocturno |
 |---|---|---|

@@ -20,6 +20,12 @@ revisado:
 
 La regulación emocional es la capacidad de entender, expresar y modular lo que se siente; en los chicos chicos empieza como corregulación, un adulto cálido que lo calma y le enseña, y de a poco pasa a ser propia.
 
+## Qué hacer cuando el chico se desborda
+
+Una lectura propia: en pleno desborde el chico aprende poco. Lo que el adulto da en ese momento es corregulación: presencia, calma, seguridad. Las habilidades (nombrar emociones, respirar, pedir ayuda) se enseñan y se practican cuando el chico está tranquilo, y se recuerdan después del desborde. Esto es una lectura de las tres cosas que hace el adulto, que se explican más abajo; qué hacer paso a paso en un berrinche está en [berrinches](berrinches.md).
+
+El estado del adulto cuenta (inferencia propia: un adulto desbordado corregula peor). Por eso el cansancio, el estrés y la salud mental de los padres son parte de la regulación del chico, como explica [bienestar de los padres](../Vinculo/bienestar-de-los-padres.md).
+
 ## Primero con otro: la corregulación
 
 > [!NOTE]
@@ -27,11 +33,11 @@ La regulación emocional es la capacidad de entender, expresar y modular lo que 
 
 En los primeros meses el bebé depende de un adulto para calmarse: cuando llora, alguien lo alza, le habla y lo mece (descripción general, sin fuente verificada). Eso es la corregulación, y sería el punto de partida de la regulación posterior.
 
-El informe del gobierno de Estados Unidos sobre autorregulación y estrés tóxico (Murray, Rosanbalm y otros 2015) la define como las interacciones cálidas y receptivas que le dan al chico el apoyo, la guía y el modelo que necesita para "understand, express, and modulate their thoughts, feelings, and behaviors" (según la cita de NAEYC). Los chicos chicos dependen mucho de los adultos para corregularse porque su capacidad propia es limitada al principio, y la corregulación sigue siendo un recurso hasta la adultez joven. La base es la misma que la del [apego](../Vinculo/apego.md): un adulto disponible al que el chico acude cuando se desborda.
+El informe del gobierno de Estados Unidos sobre autorregulación y estrés tóxico (Murray, Rosanbalm y otros 2015) la define como las interacciones cálidas y receptivas que le dan al chico el apoyo, la guía y el modelo que necesita para «entender, expresar y modular sus pensamientos, sentimientos y conductas» (traducción; en el original: "understand, express, and modulate their thoughts, feelings, and behaviors"; según la cita de NAEYC, la Asociación Nacional para la Educación de los Niños Pequeños de Estados Unidos). Los chicos chicos dependen mucho de los adultos para corregularse porque su capacidad propia es limitada al principio, y la corregulación sigue siendo un recurso hasta la adultez joven. La base es la misma que la del [apego](../Vinculo/apego.md): un adulto disponible al que el chico acude cuando se desborda.
 
 ## Las tres cosas que hace el adulto
 
-Según la guía práctica de Rosanbalm y Murray sobre corregulación (según su resumen), el adulto apoya la regulación del chico de tres maneras:
+Según la guía práctica de Rosanbalm y Murray sobre corregulación, el adulto apoya la regulación del chico de tres maneras:
 
 | Qué hace el adulto | Qué significa a los 2 a 6 años |
 |---|---|
@@ -48,14 +54,12 @@ La señal más visible es la caída de los berrinches: según el Manual MSD, son
 > [!NOTE]
 > Sin fuente todavía: una descripción verificada de cómo madura la autorregulación año por año entre los 2 y los 6, y la evidencia de intervenciones para mejorarla a esa edad.
 
-## Regulación y desborde: cuándo enseñar
-
-Una lectura propia: en pleno desborde el chico aprende poco. Lo que el adulto da en ese momento es corregulación: presencia, calma, seguridad. Las habilidades (nombrar emociones, respirar, pedir ayuda) se enseñan y se practican cuando el chico está tranquilo, y se recuerdan después del desborde. Esto es una lectura de las tres categorías de la guía; qué hacer paso a paso en un berrinche está en [berrinches](berrinches.md).
-
-El estado del adulto cuenta (inferencia propia: un adulto desbordado corregula peor). Por eso el cansancio, el estrés y la salud mental de los padres son parte de la regulación del chico, como explica [bienestar de los padres](../Vinculo/bienestar-de-los-padres.md).
-
 ## Cuando la regulación va atrás del intelecto
 
 Un chico con un desarrollo cognitivo adelantado puede entender perfectamente por qué no puede tener algo y aun así desbordarse como cualquier chico de su edad. Entender no es lo mismo que regularse (lectura propia, sin fuente). Está en [desarrollo asincrónico](../Altas-capacidades/desarrollo-asincronico.md).
 
-Para leer más: la guía [Co-Regulation From Birth Through Young Adulthood](https://fpg.unc.edu/sites/fpg.unc.edu/files/resource-files/Co-RegulationFromBirthThroughYoungAdulthood.pdf) (Rosanbalm y Murray, OPRE), la parte sobre la primera infancia; está en inglés y fijarse en los ejemplos de qué hace el adulto en cada una de las tres categorías.
+## Qué tan firme es lo que dice esta nota
+
+El informe de Murray y otros, y los textos de OPRE y NAEYC, no se pudieron cotejar con las fuentes originales. La guía de Rosanbalm y Murray se conoce por su resumen. Cómo se aplica a un desborde es lectura propia de esas tres categorías.
+
+Para leer más: la guía «Corregulación desde el nacimiento hasta la adultez joven» (traducción; en el original: [Co-Regulation From Birth Through Young Adulthood](https://fpg.unc.edu/sites/fpg.unc.edu/files/resource-files/Co-RegulationFromBirthThroughYoungAdulthood.pdf)) de Rosanbalm y Murray, de la Oficina de Investigación, Planificación y Evaluación (OPRE) de Estados Unidos, la parte sobre la primera infancia; está en inglés, y conviene fijarse en los ejemplos de qué hace el adulto en cada una de las tres categorías.

@@ -24,7 +24,7 @@ Es la materia con la que trabaja el resto de la [nutrición](../nutricion.md). L
 
 Un alimento se puede describir por su grupo, por sus nutrientes o por su procesamiento, y cada mirada sirve para una decisión distinta. Las Guías Alimentarias argentinas (GAPA) agrupan los alimentos en un gráfico: frutas y verduras, legumbres y cereales, lácteos, carnes y huevos, aceites y frutas secas, y un grupo opcional de dulces y grasas. Esa mirada sirve para armar un plato. La mirada por nutrientes (proteína, grasas, carbohidratos, hierro, calcio) sirve para revisar si a alguien le falta algo, y es la que usan los objetivos del adulto. La mirada por procesamiento, con la clasificación NOVA, separa la comida casera de los productos industriales hechos con ingredientes que no se usan en una cocina.
 
-El envase agrega una cuarta mirada: los sellos frontales de la Ley 27.642 marcan el exceso de azúcares, sodio, grasas o calorías según un perfil de nutrientes de la OPS. NOVA y el perfil de la OPS no coinciden: un producto puede ser ultraprocesado y no llevar sello, o llevar sello sin ser ultraprocesado. La diferencia está explicada en [ultraprocesados](ultraprocesados.md) y en [sellos frontales](sellos-frontales.md).
+El envase agrega una cuarta mirada: los sellos frontales de la Ley 27.642 marcan el exceso de azúcares, sodio, grasas o calorías según un perfil de nutrientes de la OPS (Organización Panamericana de la Salud). NOVA y el perfil de la OPS no coinciden: un producto puede ser ultraprocesado y no llevar sello, o llevar sello sin ser ultraprocesado. La diferencia está explicada en [ultraprocesados](ultraprocesados.md) y en [sellos frontales](sellos-frontales.md).
 
 ## Dónde falla la mesa argentina
 
@@ -35,7 +35,7 @@ Los datos de la Segunda Encuesta Nacional de Nutrición y Salud (ENNyS 2, 2018-2
 
 ## Qué tan firme es lo que se sabe de cada nutriente
 
-Las cantidades de referencia (cuánta proteína, cuánto calcio) salen de comités de expertos como las National Academies de Estados Unidos y la OMS, que leen la evidencia y fijan rangos. Los efectos de un alimento sobre la salud a largo plazo salen casi siempre de estudios observacionales, y ahí hay debates abiertos: la carne roja, las grasas saturadas y los ultraprocesados. La carne roja y las grasas saturadas están, con las dos posiciones, en [debates de nutrición](../Fundamentos/debates-de-nutricion.md), y los ultraprocesados, en [su nota](ultraprocesados.md). El porqué de esa dificultad está en [evidencia en nutrición](../Fundamentos/evidencia-en-nutricion.md).
+Las cantidades de referencia (cuánta proteína, cuánto calcio) salen de comités de expertos como las National Academies de Estados Unidos y la OMS (Organización Mundial de la Salud), que leen la evidencia y fijan rangos. Los efectos de un alimento sobre la salud a largo plazo salen casi siempre de estudios observacionales (que miden qué come la gente sin asignarle una dieta; ver el [glosario](../Fundamentos/glosario-de-nutricion.md)), y ahí hay debates abiertos: la carne roja, las grasas saturadas y los ultraprocesados. La carne roja y las grasas saturadas están, con las dos posiciones, en [debates de nutrición](../Fundamentos/debates-de-nutricion.md), y los ultraprocesados, en [su nota](ultraprocesados.md). El porqué de esa dificultad está en [evidencia en nutrición](../Fundamentos/evidencia-en-nutricion.md).
 
 Nada de esta parte reemplaza al médico o al licenciado en nutrición, sobre todo si se sospecha una carencia.
 

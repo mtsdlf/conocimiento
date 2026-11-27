@@ -23,6 +23,17 @@ El bienestar de los padres es parte de la crianza: la depresión del adulto se a
 
 Cómo se coordinan los adultos que cuidan está en [cuidadores](cuidadores.md). Nada de lo que sigue reemplaza la consulta: un adulto que se siente triste, sin energía o desbordado durante semanas tiene que hablarlo con un médico o un profesional de salud mental.
 
+## Qué hacer cuando el adulto está cansado o desbordado
+
+Lo que sigue es inferencia desde las fuentes de abajo, no una guía:
+
+1. Dormí, comé y pedí relevos (consejo general, sin fuente propia). El sueño del chico, que suele ser el del adulto, está en [sueño](../Salud-y-rutinas/sueno.md).
+2. Repartí la carga con el otro adulto o con la red que haya, y acordá entre ustedes cómo ([cuidadores](cuidadores.md)).
+3. Si perdiste la paciencia, repará: volvé, nombrá lo que pasó y retomá el vínculo. Volver después de un desencuentro es la reparación que describen esos estudios.
+4. Si la tristeza o la ansiedad duran semanas, consultá a un profesional; la depresión tiene tratamiento.
+
+Lo que tiene evidencia para cuidarse como adulto, más allá de la crianza, está en Desarrollo personal: el [sueño](../../Desarrollo-personal/Energia-y-salud/sueno.md), [manejar el estrés](../../Desarrollo-personal/Emociones-y-bienestar/manejar-el-estres.md), el choque entre el [trabajo y la familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md) y [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md).
+
 ## Por qué el estado del adulto llega al chico
 
 Los estudios miden la asociación; ninguna fuente leída explica el camino. Una hipótesis razonable, que es inferencia propia, es la respuesta: un adulto deprimido o agotado notaría menos las señales del chico, lo que afectaría la [ida y vuelta](ida-y-vuelta.md) y la sensibilidad que predice el [apego](apego.md) seguro. Y un adulto al límite tendría menos margen para sostener un límite sin gritar, que es lo que pide un [berrinche](../Emociones-y-caracter/berrinches.md).
@@ -33,14 +44,14 @@ Dos revisiones independientes coinciden en la dirección del efecto.
 
 | Revisión | Qué abarcó | Qué encontró |
 |---|---|---|
-| Goodman y otros 2011, metaanálisis (según su resumen) | 193 estudios sobre depresión materna | Más problemas internalizantes, externalizantes y generales en los hijos, y más afecto negativo y menos positivo; todas las asociaciones son "small in magnitude" y varían según moderadores |
-| Sweeney y MacBeth 2016, revisión sistemática (según su resumen) | 21 estudios sobre depresión paterna | Un efecto negativo en el desarrollo de los hijos, que depende de la hostilidad, la expresividad negativa, la implicación del padre y el conflicto de pareja |
+| Goodman y otros 2011, [metaanálisis](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) | 193 estudios sobre depresión materna | Más problemas internalizantes, externalizantes y generales en los hijos, y más afecto negativo y menos positivo; todas las asociaciones son «pequeñas en magnitud» (traducción; en el original: "small in magnitude") y varían según moderadores |
+| Sweeney y MacBeth 2016, revisión sistemática (una búsqueda ordenada de todos los estudios sobre el tema) | 21 estudios sobre depresión paterna | Un efecto negativo en el desarrollo de los hijos, que depende de la hostilidad, la expresividad negativa, la implicación del padre y el conflicto de pareja |
 
-Son estudios observacionales: muestran asociación, no causa, y no separan lo genético de lo aprendido. Un padre deprimido y su hijo comparten genes además de casa. Aun así, las asociaciones son pequeñas, y una lectura posible (propia) es doble: cuidar al adulto importa, y un período de depresión no condena al chico.
+Son estudios [observacionales](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) (miden lo que ya pasa, sin asignarlo al azar): muestran asociación, no causa, y no separan lo genético de lo aprendido. Un padre deprimido y su hijo comparten genes además de casa. Aun así, las asociaciones son pequeñas, y una lectura posible (propia) es doble: cuidar al adulto importa, y un período de depresión no condena al chico.
 
 ## La reparación: lo que enseña el experimento de la cara inmóvil
 
-Edward Tronick diseñó el experimento de la cara inmóvil (Still Face). Según los resúmenes de su trabajo, la reparación se mide en el período de reunión, cuando el adulto vuelve a interactuar. La descripción detallada del procedimiento no se verificó en el original.
+Edward Tronick diseñó el experimento de la cara inmóvil (Still Face), en el que un adulto deja de responder un rato a su bebé. Según los resúmenes de su trabajo, la reparación se mide en el período de reunión, cuando el adulto vuelve a interactuar. La descripción detallada del procedimiento no se verificó en el original.
 
 Las díadas que reparan bien vuelven a una interacción coordinada, y un estudio de 2018 encontró que los bebés participan activamente en restaurarla desde los tres meses. Una lectura habitual es que las interacciones se desacoplan seguido en la vida real y que lo que cuenta es volver a encontrarse; no se verificó en una fuente primaria.
 
@@ -53,18 +64,11 @@ El pediatra y psicoanalista inglés Donald Winnicott habló de la madre "suficie
 
 Es una idea clínica, no un resultado de investigación. No se verificó la cita textual ni la página, y el informe de fuentes no encontró una fuente verificable para ella. Es compatible con la reparación de Tronick (lectura propia).
 
-## Cuidar al adulto como parte de cuidar al chico
-
-Lo que sigue es inferencia desde las fuentes de arriba, no una guía:
-
-1. Dormí, comé y pedí relevos (consejo general, sin fuente propia). El sueño del chico, que suele ser el del adulto, está en [sueño](../Salud-y-rutinas/sueno.md).
-2. Repartí la carga con el otro adulto o con la red que haya, y acordá entre ustedes cómo ([cuidadores](cuidadores.md)).
-3. Si perdiste la paciencia, repará: volvé, nombrá lo que pasó y retomá el vínculo. Volver después de un desencuentro es la reparación que describen esos estudios.
-4. Si la tristeza o la ansiedad duran semanas, consultá a un profesional; la depresión tiene tratamiento.
-
-Lo que tiene evidencia para cuidarse como adulto, más allá de la crianza, está en Desarrollo personal: el [sueño](../../Desarrollo-personal/Energia-y-salud/sueno.md), [manejar el estrés](../../Desarrollo-personal/Emociones-y-bienestar/manejar-el-estres.md), el choque entre el [trabajo y la familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md) y [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md).
-
 > [!NOTE]
 > Sin fuente todavía: estrés parental no depresivo (sueño, carga, agotamiento); depresión posparto y su efecto sobre el vínculo; eficacia de las intervenciones para padres con depresión.
 
 En una separación, según la AAP, cómo se adapta emocionalmente el adulto influye en cómo se adaptan los hijos; está en [cambios difíciles](../Emociones-y-caracter/cambios-dificiles.md).
+
+## Qué tan firme es lo que dice esta nota
+
+Las revisiones de Goodman y de Sweeney y MacBeth se conocen por su resumen, no por el texto completo. Sobre Tronick solo se leyeron resúmenes de su trabajo, y la cita de Winnicott viene de una entrada de referencia. Los pasos de la sección sobre qué hacer son inferencia, no una guía con fuente.

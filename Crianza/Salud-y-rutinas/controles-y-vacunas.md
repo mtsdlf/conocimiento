@@ -40,15 +40,15 @@ Un resumen de prensa menciona otra resolución (1567/2026) que incorporaría una
 
 ## La vista y los dientes
 
-La SAP, en un documento de su comité de pediatría ambulatoria de febrero de 2023, pide un examen oftalmológico completo antes de empezar la escuela: agudeza visual, alineación de los ojos y fondo de ojo. Se repite a los 6 meses del primero, "luego cada 2 años hasta los 5 años y a partir de esa edad cada 1 o 2 años". Donde no hay oftalmólogo, un equipo de salud capacitado hace una evaluación preliminar con tabla de Snellen.
+La SAP (Sociedad Argentina de Pediatría), en un documento de su comité de pediatría ambulatoria de febrero de 2023, pide un examen oftalmológico completo antes de empezar la escuela: agudeza visual, alineación de los ojos y fondo de ojo (la revisión de la parte de atrás del ojo). Se repite a los 6 meses del primero, "luego cada 2 años hasta los 5 años y a partir de esa edad cada 1 o 2 años". Donde no hay oftalmólogo, un equipo de salud capacitado hace una evaluación preliminar con tabla de Snellen (la tabla de letras de tamaño decreciente).
 
 > [!IMPORTANT]
-> Las fuentes no coinciden en el cronograma de la vista. La SAP (2023, leída) propone el esquema de arriba. Según resúmenes de buscador, sin leer el original, la Sociedad Argentina de Oftalmología Infantil recomienda control con fondo de ojo al nacer, a los 6 meses, al año, a los 3, a los 5 y después cada 2 años; y la AAP, agudeza visual a los 4 y 5 años y a los 3 si el chico coopera. El pediatra define cuál sigue.
+> Las fuentes no coinciden en el cronograma de la vista. La SAP (2023, leída) propone el esquema de arriba. Según resúmenes de buscador, sin leer el original, la Sociedad Argentina de Oftalmología Infantil recomienda control con fondo de ojo al nacer, a los 6 meses, al año, a los 3, a los 5 y después cada 2 años; y la AAP (Academia Estadounidense de Pediatría), agudeza visual a los 4 y 5 años y a los 3 si el chico coopera. El pediatra define cuál sigue.
 
 Para los dientes, el Ministerio de Salud indica pasta con flúor y dos minutos de cepillado, y que "La higiene debe ser realizada por una persona adulta utilizando un cepillo de cabezal pequeño de cerdas suaves y planas". La página no dice cuándo es la primera consulta al odontólogo.
 
 > [!IMPORTANT]
-> Para la primera consulta dental hay solo fuentes secundarias y no coinciden. Según resúmenes de la AAP publicados por la AAFP, la evaluación dental va a los 12 meses y de 18 meses a 6 años, con barniz de flúor desde los 6 meses hasta los 5 años; otro resumen de 2018 lo ubica desde que sale el primer diente. No se leyó una fuente argentina.
+> Para la primera consulta dental hay solo fuentes secundarias y no coinciden. Según resúmenes de la AAP publicados por la AAFP (Academia Estadounidense de Médicos de Familia), la evaluación dental va a los 12 meses y de 18 meses a 6 años, con barniz de flúor desde los 6 meses hasta los 5 años; otro resumen de 2018 lo ubica desde que sale el primer diente. No se leyó una fuente argentina.
 
 Qué y cuánto azúcar come un chico, que pesa en los dientes, está en [Nutrición](../../Nutricion/Alimentacion-infantil/alimentacion-infantil.md).
 

@@ -28,7 +28,7 @@ revisado: 2026-11-27
 
 Dónde se produce el conocimiento sobre nutrición, cuánto pesa cada tipo de fuente y qué leer para empezar en casa; lo más confiable son las revisiones sistemáticas con GRADE y las guías oficiales, y lo menos, la prensa y los vendedores.
 
-Estado al 2026-11-27. PubMed, los sitios del NIH y varias páginas del Ministerio de Salud bloquearon la lectura automática durante la investigación, así que buena parte de los estudios citados en la base se leyeron por su resumen, y cada nota lo dice. Nada de esto reemplaza a un médico ni a un licenciado en nutrición.
+GRADE es un método que califica qué tan segura es la evidencia. GRADE es un método que califica qué tan segura es la evidencia. Estado al 2026-11-27. PubMed, los sitios del NIH y varias páginas del Ministerio de Salud bloquearon la lectura automática durante la investigación, así que buena parte de los estudios citados en la base se leyeron por su resumen, y cada nota lo dice. Nada de esto reemplaza a un médico ni a un licenciado en nutrición.
 
 ## Cuánto pesa cada tipo de fuente
 
@@ -38,9 +38,9 @@ De más a menos peso para una afirmación sobre qué hace bien o mal:
 |---|---|---|---|
 | Revisiones sistemáticas con GRADE | Cochrane; NutriRECS | Saber qué tan cierta es la evidencia junta | Pueden concluir "certeza baja", que es "no se sabe", no "no hace daño" |
 | Ensayos aleatorizados | DIETFITS, PREDIMED, Hall 2019 | Probar causa | Cortos, chicos o con marcadores; PREDIMED fue retractado y republicado |
-| Guías oficiales | GAPA (Ministerio de Salud), OMS, DRI de las National Academies | Qué recomendar a la población sana | Mezclan evidencia de distinta fuerza y no siempre la declaran |
-| Posiciones de sociedades profesionales | SAP (pediatría), Academy of Nutrition and Dietetics, ISSN y ACSM (deporte) | Lo que recomienda la profesión en un tema | Son consenso de expertos, no evidencia nueva |
-| Organismos de control | ANMAT | Inocuidad, etiquetas, suplementos registrados | Regulan, no producen estudios |
+| Guías oficiales | GAPA (Guías Alimentarias para la Población Argentina, del Ministerio de Salud), OMS (Organización Mundial de la Salud), DRI (ingestas de referencia) de las National Academies de Estados Unidos | Qué recomendar a la población sana | Mezclan evidencia de distinta fuerza y no siempre la declaran |
+| Posiciones de sociedades profesionales | SAP (Sociedad Argentina de Pediatría), Academy of Nutrition and Dietetics, ISSN (Sociedad Internacional de Nutrición Deportiva) y ACSM (Colegio Americano de Medicina del Deporte) | Lo que recomienda la profesión en un tema | Son consenso de expertos, no evidencia nueva |
+| Organismos de control | ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica) | Inocuidad, etiquetas, suplementos registrados | Regulan, no producen estudios |
 | Cohortes y metaanálisis de observacionales | NutriNet-Santé, cohortes de Harvard | Generar hipótesis, ver asociaciones | No prueban causa ([evidencia en nutrición](evidencia-en-nutricion.md)) |
 | Divulgación universitaria | Harvard T.H. Chan Nutrition Source | Explicaciones claras de estudios | Resume, no reemplaza el estudio |
 | Autores de un método | Ellyn Satter Institute | La definición del método | Tienen interés en que funcione |

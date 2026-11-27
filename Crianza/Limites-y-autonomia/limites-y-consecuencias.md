@@ -26,7 +26,7 @@ La Sociedad Argentina de Pediatría (SAP) lo define así: "Limitar significa ord
 
 ## Cómo se pone un límite sin gritar y sin ceder
 
-Los pasos juntan la guía de la SAP, las de la Academia Estadounidense de Pediatría (AAP) y de los CDC, y las técnicas que comparten los programas con ensayos. Las guías son opinión de expertos y no citan estudios; el respaldo experimental es el de los programas, que se resume más abajo.
+Los pasos juntan la guía de la SAP, las de la Academia Estadounidense de Pediatría (AAP) y de los CDC (Centros para el Control y la Prevención de Enfermedades de Estados Unidos), y las técnicas que comparten los programas con ensayos. Las guías son opinión de expertos y no citan estudios; el respaldo experimental es el de los programas, que se resume más abajo.
 
 1. **Decidí antes, con el otro adulto, qué reglas hay y cuáles no se negocian.** La SAP pide límites "Pensados y consensuados por ambos padres o cuidadores, sin desautorizarse" y dice que "Algunos límites son innegociables, como los que ponen en riesgo la salud propia o de otras personas". Pocas reglas, a la medida de la edad: la AAP aconseja reservar el "no" para lo más importante, como la seguridad. Cómo se ponen de acuerdo varios adultos está en [cuidadores](../Vinculo/cuidadores.md).
 2. **Decí la regla clara y corta, antes de que haga falta.** La AAP recomienda "reglas que sean claras y coherentes que sus niños puedan seguir". Ejemplo: "La pelota se usa en el patio".
@@ -41,7 +41,7 @@ El paso que más cuesta es el 5. Ceder después de anunciar una consecuencia ens
 
 ## Qué enseñan los programas con ensayos
 
-Los programas de entrenamiento a padres tienen ensayos aleatorizados. Según el metaanálisis de Leijten y otros (2019), pesan el refuerzo positivo, el elogio en particular, y las consecuencias naturales o lógicas. Una consecuencia lógica la pone el adulto y está atada a la falta: tiró la comida, la comida se termina (ejemplo propio). El efecto es mayor en chicos con problemas de conducta que en familias sin ellos. Las cifras, las revisiones Cochrane y la disputa sobre Triple P están en [programas para padres](programas-para-padres.md).
+Los programas de entrenamiento a padres tienen [ensayos aleatorizados](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) (reparten a los participantes al azar). Según el [metaanálisis](../Fundamentos/glosario-de-crianza.md#evidencia-y-genética) de Leijten y otros (2019), pesan el refuerzo positivo, el elogio en particular, y las consecuencias naturales o lógicas. Una consecuencia lógica la pone el adulto y está atada a la falta: tiró la comida, la comida se termina (ejemplo propio). El efecto es mayor en chicos con problemas de conducta que en familias sin ellos. Las cifras, las revisiones Cochrane y la disputa sobre Triple P están en [programas para padres](programas-para-padres.md).
 
 ## El tiempo fuera y su controversia
 
@@ -49,24 +49,28 @@ El tiempo fuera saca al chico unos minutos de la actividad y de la atención del
 
 Cómo lo describen los CDC, en una guía práctica que no cita estudios:
 
-1. **Usalo para lo peligroso, lo dañino o una regla rota después de una advertencia.** No para un chico angustiado: "Time-out may not always be the best way to handle misbehavior, especially if your child is upset".
+1. **Usalo para lo peligroso, lo dañino o una regla rota después de una advertencia.** No para un chico angustiado: «el tiempo fuera no siempre es la mejor manera de manejar una mala conducta, sobre todo si el chico está alterado» (traducción; en el original: "Time-out may not always be the best way to handle misbehavior, especially if your child is upset").
 2. **Avisá con calma y explicá el motivo una vez.** La AAP: con "pocas palabras, y poca emoción".
-3. **Calculá un minuto por año de edad.** "A good rule is to give one minute of time-out for every year of the child's age"; la AAP da la misma regla.
+3. **Calculá un minuto por año de edad.** «una buena regla es dar un minuto de tiempo fuera por cada año de edad del chico» (traducción; en el original: "A good rule is to give one minute of time-out for every year of the child's age"); la AAP da la misma regla.
 4. **Mantenelo en el lugar y terminá tras 5 segundos de silencio.** Después, elogiá la próxima conducta buena.
-5. **Evitá lo que lo vuelve dañino.** "Do not threaten your child with a time-out", "never use a closet", no apagar la luz y no dejar a un chico chico solo por mucho tiempo.
+5. **Evitá lo que lo vuelve dañino.** «no amenaces al chico con un tiempo fuera» (en el original: "Do not threaten your child with a time-out") y «nunca uses un armario» (en el original: "never use a closet"); tampoco apagar la luz y no dejar a un chico chico solo por mucho tiempo.
 
-El tiempo dentro es lo contrario: quedarse con el chico, "a method focused on connection and communication", para cuando está desbordado. Los CDC proponen tiempo dentro para la angustia y tiempo fuera para pegar o morder.
+El tiempo dentro es lo contrario: quedarse con el chico, «un método centrado en la conexión y la comunicación» (traducción; en el original: "a method focused on connection and communication"), para cuando está desbordado. Los CDC proponen tiempo dentro para la angustia y tiempo fuera para pegar o morder.
 
 > [!IMPORTANT]
-> El tiempo fuera está en disputa. Los críticos, desde la teoría del [apego](../Vinculo/apego.md), sostienen que apartar al chico rompe la seguridad del vínculo y que, según el resumen del buscador de un artículo, puede dañar su bienestar "regardless of implementation". Se dice que enfoques como la crianza respetuosa lo rechazan, pero eso viene de una sola fuente, un comentario sin confirmar ([enfoques de crianza](../Fundamentos/enfoques-de-crianza.md)). Los defensores, Dadds y Tully (2019), escriben que es "one of the most common and well-researched discipline procedures across the world, with overwhelming evidence to support its efficacy", y que bien aplicado "generally enhances child well-being"; el daño vendría de la mala aplicación. Son proponentes del método y su artículo es una revisión argumentativa, no un ensayo. Un estudio transversal del mismo grupo asocia el tiempo fuera bien aplicado con mejor apego y el mal aplicado con peores resultados, según el resumen del buscador; un diseño transversal no prueba causa.
+> El tiempo fuera está en disputa. Los críticos, desde la teoría del [apego](../Vinculo/apego.md), sostienen que apartar al chico rompe la seguridad del vínculo y que, según el resumen del buscador de un artículo, puede dañar su bienestar «sin importar cómo se aplique» (traducción; en el original: "regardless of implementation"). Se dice que enfoques como la crianza respetuosa lo rechazan, pero eso viene de una sola fuente, un comentario sin confirmar ([enfoques de crianza](../Fundamentos/enfoques-de-crianza.md)). Los defensores, Dadds y Tully (2019), escriben que es «uno de los procedimientos de disciplina más comunes y más estudiados del mundo, con evidencia abrumadora que respalda su eficacia» (traducción; en el original: "one of the most common and well-researched discipline procedures across the world, with overwhelming evidence to support its efficacy"), y que bien aplicado «en general mejora el bienestar del chico» (traducción; en el original: "generally enhances child well-being"); el daño vendría de la mala aplicación. Son proponentes del método y su artículo es una revisión argumentativa, no un ensayo. Un estudio transversal (que mide una sola vez, en un momento) del mismo grupo asocia el tiempo fuera bien aplicado con mejor apego y el mal aplicado con peores resultados, según el resumen del buscador; un diseño transversal no prueba causa.
 >
 > No se encontró un ensayo que compare usar tiempo fuera contra no usarlo en chicos de 2 a 6 años de población general.
 
 Una lectura prudente: el tiempo fuera corto, anunciado y sin encierro ni amenaza es lo que defienden los que lo estudian, y con un chico desbordado las propias guías que lo recomiendan proponen otra cosa (inferencia a partir de las dos posiciones).
 
+## Qué tan firme es lo que dice esta nota
+
+Las guías de la SAP, la AAP y los CDC son opinión de expertos y no citan estudios. Leijten se conoce por su resumen, y los artículos sobre el tiempo fuera, por el resumen del buscador; que otros enfoques lo rechacen viene de un solo comentario sin confirmar. Ningún ensayo compara usar tiempo fuera contra no usarlo en chicos de 2 a 6 años.
+
 ## Las guías de los CDC y de la SAP, para practicar
 
-Los CDC tienen la serie "Essentials for Parenting Toddlers and Preschoolers", con versión en castellano que no se verificó, con páginas de tiempo fuera, tiempo dentro y recompensas: fijarse en cuándo sí y cuándo no. El folleto "Límites" de la SAP es breve y sirve de punto de partida en castellano.
+Los CDC tienen la serie «Lo esencial para criar a chicos de 1 a 5 años» (traducción; en el original: "Essentials for Parenting Toddlers and Preschoolers"), con versión en castellano que no se verificó, con páginas de tiempo fuera, tiempo dentro y recompensas: fijarse en cuándo sí y cuándo no. El folleto "Límites" de la SAP es breve y sirve de punto de partida en castellano.
 
 > [!NOTE]
 > Sin fuente todavía: una guía argentina más profunda que el folleto de la SAP (que no tiene fecha ni cita estudios) y un ensayo que compare el tiempo fuera con no usarlo.

@@ -22,9 +22,15 @@ revisado: 2026-11-27
 
 Las funciones ejecutivas son tres habilidades mentales que permiten controlar lo que se hace y se piensa: el control inhibitorio, la memoria de trabajo y la flexibilidad cognitiva; mejoran con práctica que se vuelve de a poco más difícil.
 
+## Qué las desarrolla
+
+Según la revisión de Diamond y Lee de 2011 en Science, las funciones ejecutivas mejoraron en chicos de 4 a 12 años con programas muy distintos: juegos por computadora y sin computadora, ejercicio aeróbico, artes marciales, yoga, mindfulness y algunos currículos escolares. Lo común a todos los que funcionaron es la práctica repetida con una dificultad que aumenta de a poco. Los chicos con funciones ejecutivas más débiles fueron los que más se beneficiaron. El entrenamiento de memoria de trabajo por computadora dio resultados mixtos y no se trasladó a habilidades que no se practicaron.
+
+Para un chico de 2 a 6 años en casa, esto sugiere actividades que ya existen: juegos con reglas (la mancha, "Simón dice", juegos de mesa simples), [juego libre](../Juego-y-aprendizaje/juego-libre.md) con otros chicos, música, rutinas que el chico aprende a seguir. Esa traducción es una inferencia: no se encontró una fuente que evalúe estas prácticas familiares en chicos en edad de jardín. No hace falta comprar programas; qué estimulación sirve está en [estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md).
+
 ## Las tres habilidades
 
-La división en tres viene de Miyake (2000) y la usa la revisión de Adele Diamond de 2013 (según su resumen).
+La división en tres viene de Miyake (2000) y la usa la revisión de Adele Diamond de 2013.
 
 | Habilidad | Qué es | Cómo se ve a los 3 o 4 años |
 |---|---|---|
@@ -34,22 +40,16 @@ La división en tres viene de Miyake (2000) y la usa la revisión de Adele Diamo
 
 Los ejemplos de la tercera columna son ilustraciones propias. Las tres habilidades se apoyan entre sí, y el control inhibitorio se cruza con la [regulación emocional](regulacion-emocional.md) (lectura propia): frenar un golpe cuando uno está enojado es las dos cosas a la vez.
 
-## Qué las desarrolla
-
-Según la revisión de Diamond y Lee de 2011 en Science (según su resumen), las funciones ejecutivas mejoraron en chicos de 4 a 12 años con programas muy distintos: juegos por computadora y sin computadora, ejercicio aeróbico, artes marciales, yoga, mindfulness y algunos currículos escolares. Lo común a todos los que funcionaron es la práctica repetida con una dificultad que aumenta de a poco. Los chicos con funciones ejecutivas más débiles fueron los que más se beneficiaron. El entrenamiento de memoria de trabajo por computadora dio resultados mixtos y no se trasladó a habilidades que no se practicaron.
-
-Para un chico de 2 a 6 años en casa, esto sugiere actividades que ya existen: juegos con reglas (la mancha, "Simón dice", juegos de mesa simples), [juego libre](../Juego-y-aprendizaje/juego-libre.md) con otros chicos, música, rutinas que el chico aprende a seguir. Esa traducción es una inferencia: no se encontró una fuente que evalúe estas prácticas familiares en chicos en edad de jardín. No hace falta comprar programas; qué estimulación sirve está en [estimulación temprana](../Juego-y-aprendizaje/estimulacion-temprana.md).
-
 ## La prueba del malvavisco y lo que quedó de ella
 
 En los estudios de Walter Mischel, a chicos de unos 4 años se les ofrecía un premio chico ya o uno más grande si esperaban solos, y los que esperaban más tuvieron después mejores resultados; la prueba se volvió el símbolo de que el autocontrol temprano "predice el éxito". Es la descripción habitual, no verificada en el original, que el informe de fuentes no leyó.
 
-Una réplica de 2018 con más de 900 chicos de la cohorte NICHD, más representativa que la original, encontró una asociación de más o menos la mitad de la original, que cayó cerca de dos tercios al controlar el entorno familiar, la capacidad cognitiva temprana y el hogar. Entre los hijos de madres sin estudios universitarios, cada minuto extra de espera a los 4 años se asoció con aproximadamente una décima de desvío estándar de logro a los 15 años. Las asociaciones con la conducta a los 15 fueron mucho menores y rara vez significativas (Watts, Duncan y Quan 2018, según su resumen).
+Una réplica de 2018 con más de 900 chicos de la cohorte NICHD (un grupo seguido en el tiempo por el instituto de salud infantil de Estados Unidos), más representativa que la original, encontró una asociación de más o menos la mitad de la original, que cayó cerca de dos tercios al controlar el entorno familiar, la capacidad cognitiva temprana y el hogar. Entre los hijos de madres sin estudios universitarios, cada minuto extra de espera a los 4 años se asoció con aproximadamente una décima de desvío estándar de logro a los 15 años (el desvío estándar mide cuánto se alejan los chicos del promedio; una décima es una diferencia chica). Las asociaciones con la conducta a los 15 fueron mucho menores y rara vez significativas, es decir, distinguibles del azar (Watts, Duncan y Quan 2018).
 
 > [!IMPORTANT]
-> La réplica no cerró la discusión. Falk, Kosse y Pinger (2020) argumentan, según su preprint, que las correlaciones de Watts están sesgadas hacia cero por cómo se cortaron los tiempos de espera y que no refutan el original; un reanálisis con otras decisiones encontró asociaciones significativas en 3 de 5 resultados, y un comentario de Doebel, Michaelson y Munakata lo leyó como una réplica parcial exitosa (todo según sus resúmenes). La lectura prudente es que no hay consenso: la prueba del malvavisco ni "predice el éxito" ni "fue refutada".
+> La réplica no cerró la discusión. Falk, Kosse y Pinger (2020) argumentan, según su preprint (un texto todavía no revisado por otros especialistas), que las correlaciones de Watts están sesgadas hacia cero por cómo se cortaron los tiempos de espera y que no refutan el original; un reanálisis con otras decisiones encontró asociaciones significativas en 3 de 5 resultados, y un comentario de Doebel, Michaelson y Munakata lo leyó como una réplica parcial exitosa (todo según sus resúmenes). La lectura prudente es que no hay consenso: la prueba del malvavisco ni "predice el éxito" ni "fue refutada".
 
-Un experimento de 2013 agrega un matiz útil para padres. Los chicos que habían visto a un adulto cumplir lo que prometía esperaron bastante más que los que lo vieron incumplir (Kidd, Palmeri y Aslin, según su resumen; muestra chica). Esperar es razonable solo si uno cree que el premio va a llegar, así que la espera mide también la confianza en los adultos, no solo el autocontrol. Cumplir lo que se le promete a un chico sería parte de cómo aprende a esperar (inferencia propia), lo que conecta con [límites y consecuencias](../Limites-y-autonomia/limites-y-consecuencias.md).
+Un experimento de 2013 agrega un matiz útil para padres. Los chicos que habían visto a un adulto cumplir lo que prometía esperaron bastante más que los que lo vieron incumplir (Kidd, Palmeri y Aslin; muestra chica). Esperar es razonable solo si uno cree que el premio va a llegar, así que la espera mide también la confianza en los adultos, no solo el autocontrol. Cumplir lo que se le promete a un chico sería parte de cómo aprende a esperar (inferencia propia), lo que conecta con [límites y consecuencias](../Limites-y-autonomia/limites-y-consecuencias.md).
 
 ## Funciones ejecutivas y chicos adelantados
 
@@ -58,4 +58,8 @@ Un chico puede tener un vocabulario o una memoria muy por encima de su edad y fu
 > [!NOTE]
 > Sin fuente todavía: evidencia de qué prácticas familiares (juego simbólico, rutinas, juegos con reglas) desarrollan las funciones ejecutivas entre los 2 y los 6 años; un metaanálisis sobre el malvavisco posterior a 2020.
 
-Para leer más: el documento del Centro para el Niño en Desarrollo de Harvard [How Early Experiences Shape the Development of Executive Function](https://developingchild.harvard.edu/wp-content/uploads/2024/10/How-Early-Experiences-Shape-the-Development-of-Executive-Function.pdf), pensado para no especialistas (no se leyó para esta nota).
+## Qué tan firme es lo que dice esta nota
+
+Las revisiones de Diamond, la réplica de Watts y colegas, la discusión posterior y el experimento de Kidd se conocen por sus resúmenes o preprints. La descripción habitual de la prueba del malvavisco no se verificó en el original. Los ejemplos de la tabla y la traducción a la vida familiar son inferencias propias.
+
+Para leer más: el documento del Centro para el Niño en Desarrollo de Harvard «Cómo las experiencias tempranas moldean el desarrollo de la función ejecutiva» (traducción; en el original: [How Early Experiences Shape the Development of Executive Function](https://developingchild.harvard.edu/wp-content/uploads/2024/10/How-Early-Experiences-Shape-the-Development-of-Executive-Function.pdf)), pensado para no especialistas (no se leyó para esta nota).

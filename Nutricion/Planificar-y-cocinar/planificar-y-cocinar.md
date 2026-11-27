@@ -36,9 +36,9 @@ El menú se arma con las Guías Alimentarias para la Población Argentina (GAPA)
 
 ## Lo que se sabe y lo que no
 
-Que planificar las comidas mejore la dieta no está probado. El único estudio grande encontrado, sobre 40.554 adultos franceses, halló que quienes planificaban seguían algo más la guía de su país y comían más variado, pero es un estudio transversal y sus autores aclaran que no se puede inferir causalidad (Ducrot 2017, según su resumen). Se planifica por razones prácticas, no porque haya un ensayo que lo respalde.
+Que planificar las comidas mejore la dieta no está probado. El único estudio grande encontrado, sobre 40.554 adultos franceses, halló que quienes planificaban seguían algo más la guía de su país y comían más variado, pero es un estudio transversal (mira a un grupo en un solo momento) y sus autores aclaran que no se puede inferir causalidad (Ducrot 2017, según su resumen). Se planifica por razones prácticas, no porque haya un ensayo que lo respalde.
 
-La parte de higiene, en cambio, tiene respaldo oficial. Las reglas de la OMS y del Ministerio de Salud coinciden: separar crudo de cocido, cocinar completo, no dejar lo cocido más de dos horas a temperatura ambiente y enfriar rápido. En una casa con un chico chico pesa más, porque el síndrome urémico hemolítico tiene su tasa más alta en los chicos de un año ([higiene y conservación](higiene-y-conservacion.md)).
+La parte de higiene, en cambio, tiene respaldo oficial. Las reglas de la OMS (Organización Mundial de la Salud) y del Ministerio de Salud coinciden: separar crudo de cocido, cocinar completo, no dejar lo cocido más de dos horas a temperatura ambiente y enfriar rápido. En una casa con un chico chico pesa más, porque el síndrome urémico hemolítico tiene su tasa más alta en los chicos de un año ([higiene y conservación](higiene-y-conservacion.md)).
 
 ## Cómo falla la semana
 

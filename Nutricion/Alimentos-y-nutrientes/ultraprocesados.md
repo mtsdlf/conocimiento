@@ -24,9 +24,13 @@ revisado: 2026-11-27
 
 Un ultraprocesado es, en la clasificación NOVA, un producto industrial hecho en buena parte con sustancias que no se usan en una cocina (emulsionantes, edulcorantes, espesantes); NOVA ordena la comida por su procesamiento y no por sus nutrientes, y su relación con la salud tiene un ensayo chico y mucha evidencia observacional.
 
+## Qué hacer en la compra
+
+Para reconocer un ultraprocesado, leé la lista de ingredientes: si aparece un emulsionante, un edulcorante o un espesante, es de este grupo. Las Guías Alimentarias para la Población Argentina (GAPA) piden preferir comidas caseras, y dicen que los ultraprocesados con exceso de azúcar, grasa o sal no deben formar parte de la alimentación diaria. El sello frontal es una pregunta distinta: avisa si hay exceso de algún nutriente, no cuánto se procesó el producto. Cómo se lleva esto a la despensa está en [compras y despensa](../Planificar-y-cocinar/compras-y-despensa.md).
+
 ## Los cuatro grupos de NOVA
 
-NOVA, propuesta por Carlos Monteiro y su equipo, reparte toda la comida en cuatro grupos según cuánto y cómo se procesó ([Monteiro 2019](https://pmc.ncbi.nlm.nih.gov/articles/10260459), según su resumen):
+NOVA, propuesta por Carlos Monteiro y su equipo, reparte toda la comida en cuatro grupos según cuánto y cómo se procesó ([Monteiro 2019](https://pmc.ncbi.nlm.nih.gov/articles/10260459)):
 
 1. Sin procesar o mínimamente procesados.
 2. Ingredientes culinarios procesados.
@@ -46,21 +50,25 @@ Las GAPA usan la segunda lógica: su grupo opcional "rojo" son los "ultraprocesa
 
 ## El ensayo de Hall: 508 kilocalorías más por día
 
-El ensayo de alimentación controlada que se leyó es el de Kevin Hall en el NIH, publicado en 2019 en Cell Metabolism. Veinte adultos de peso estable vivieron internados y comieron dos semanas una dieta ultraprocesada y dos semanas una no procesada, en orden al azar, pudiendo comer lo que quisieran. Las comidas ofrecidas tenían calorías, macronutrientes, azúcar, sodio y fibra parecidos. Con la ultraprocesada comieron 508 ± 106 kcal por día más, subieron alrededor de 0,9 kg y los bajaron con la otra ([Hall 2019](https://pubmed.ncbi.nlm.nih.gov/31105044/), según su resumen).
+El ensayo de alimentación controlada que se leyó es el de Kevin Hall en el NIH, publicado en 2019 en Cell Metabolism. Veinte adultos de peso estable vivieron internados y comieron dos semanas una dieta ultraprocesada y dos semanas una no procesada, en orden al azar, pudiendo comer lo que quisieran. Las comidas ofrecidas tenían calorías, macronutrientes, azúcar, sodio y fibra parecidos. Con la ultraprocesada comieron 508 kcal por día más (± 106, el margen de variación entre los participantes), subieron alrededor de 0,9 kg y los bajaron con la otra ([Hall 2019](https://pubmed.ncbi.nlm.nih.gov/31105044/)).
 
 Una fe de erratas de 2020 corrigió las diferencias por comida (desayuno +144, almuerzo +248, cena +108 kcal por día) sin cambiar el resultado principal ([fe de erratas](https://pmc.ncbi.nlm.nih.gov/articles/PMC7959109)). La fuerza del ensayo es su diseño; su debilidad, que tiene 20 personas y duró cuatro semanas. Los críticos agregan que los dos menús diferían en los alimentos y no solo en el procesamiento, lo que complica atribuir la causa.
 
 ## Lo que muestran los estudios observacionales
 
-La revisión paraguas de Lane y colegas en el BMJ (2024) juntó 45 metaanálisis con cerca de 9,89 millones de participantes. Encontró asociación directa entre más ultraprocesados y 32 parámetros de salud, pero calificó la evidencia de "convincente" solo para la mortalidad cardiovascular ([Lane 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10899807), según su resumen). Los autores aclaran que son estudios observacionales y que no prueban causa. La serie de The Lancet de noviembre de 2025, de Monteiro y colegas, sostiene que el reemplazo de los patrones tradicionales por ultraprocesados impulsa la enfermedad crónica, y reconoce que falta evidencia sobre los mecanismos (según su resumen).
+La revisión paraguas de Lane y colegas en el BMJ (2024) juntó 45 metaanálisis (estudios que combinan los resultados de muchos otros, ver el [glosario](../Fundamentos/glosario-de-nutricion.md)) con cerca de 9,89 millones de participantes. Encontró una asociación directa (más de una cosa va con más de la otra, sin probar causa) entre más ultraprocesados y 32 parámetros de salud, pero calificó la evidencia de "convincente" solo para la mortalidad cardiovascular ([Lane 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10899807)). Los autores aclaran que son estudios observacionales y que no prueban causa. La serie de The Lancet de noviembre de 2025, de Monteiro y colegas, sostiene que el reemplazo de los patrones tradicionales por ultraprocesados impulsa la enfermedad crónica, y reconoce que falta evidencia sobre los mecanismos.
 
 ## Si la categoría sirve
 
 > [!IMPORTANT]
 > **A favor.** Quienes defienden NOVA tienen un ensayo que muestra que se come más con ultraprocesados y una asociación consistente en millones de personas. Monteiro responde a las críticas diciendo que los criterios no se entendieron.
 >
-> **En contra.** Los críticos dicen que "procesamiento" no tiene parámetros medibles; que la categoría es tan amplia que incluye alimentos que muchos consideran sanos; que un mismo alimento cambia de grupo según el envase (garbanzos secos, enlatados con sal o con EDTA); y que ignora los nutrientes (Visioli, el Institute of Food Technologists en 2025, la revisión de Medin de 2025 y Astrup y Gibney en el American Journal of Clinical Nutrition, todo leído como resumen). Un editorial de PLoS Medicine de 2024 resume el problema: la evidencia es "convincing" pero en su mayoría de baja calidad, hasta los especialistas aplican NOVA de forma inconsistente y es difícil separar el procesamiento de la mala calidad nutricional ([PLoS Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11478821/)).
+> **En contra.** Los críticos dicen que "procesamiento" no tiene parámetros medibles; que la categoría es tan amplia que incluye alimentos que muchos consideran sanos; que un mismo alimento cambia de grupo según el envase (garbanzos secos, enlatados con sal o con EDTA); y que ignora los nutrientes (Visioli, el Institute of Food Technologists en 2025, la revisión de Medin de 2025 y Astrup y Gibney en el American Journal of Clinical Nutrition). Un editorial de PLoS Medicine de 2024 resume el problema: la evidencia es «convincente» (traducción; en el original: "convincing") pero en su mayoría de baja calidad, hasta los especialistas aplican NOVA de forma inconsistente y es difícil separar el procesamiento de la mala calidad nutricional ([PLoS Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC11478821/)).
 
 ## Para la compra de todos los días
 
-En la práctica, las dos miradas se suman. La lista de ingredientes dice si un producto es ultraprocesado; el sello, si tiene exceso de algún nutriente. Lo que las GAPA piden es más simple: preferir comidas caseras y que los ultraprocesados con exceso de azúcar, grasa o sal "no deben formar parte de la alimentación diaria". Cómo se lleva eso a la despensa está en [compras y despensa](../Planificar-y-cocinar/compras-y-despensa.md); el caso de las golosinas en los chicos, en [azúcar y golosinas](../Alimentacion-infantil/azucar-y-golosinas.md). Por qué es tan difícil probar causa con estudios observacionales está en [evidencia en nutrición](../Fundamentos/evidencia-en-nutricion.md).
+Las dos miradas se suman. La lista de ingredientes dice si un producto es ultraprocesado; el sello, si tiene exceso de algún nutriente. Lo que las GAPA piden es más simple: preferir comidas caseras y que los ultraprocesados con exceso de azúcar, grasa o sal "no deben formar parte de la alimentación diaria". El caso de las golosinas en los chicos, en [azúcar y golosinas](../Alimentacion-infantil/azucar-y-golosinas.md). Por qué es tan difícil probar causa con estudios observacionales está en [evidencia en nutrición](../Fundamentos/evidencia-en-nutricion.md).
+
+## Qué tan firme es lo que dice esta nota
+
+Se leyeron solo por su resumen los artículos de Monteiro (2019), Hall (2019), Lane (2024), la serie de The Lancet de 2025 y las críticas de Visioli, del Institute of Food Technologists, de Medin y de Astrup y Gibney. La fe de erratas del ensayo de Hall y el editorial de PLoS Medicine se citan por su enlace. Casi toda la evidencia sobre salud es observacional, es decir, de estudios que miden qué come la gente sin asignarle una dieta, y por eso no prueba causa.

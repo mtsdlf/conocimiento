@@ -23,15 +23,15 @@ revisado: 2026-11-27
 
 Las pantallas son la televisión, los videos, las tabletas, los celulares y los juegos digitales que usa un chico; las sociedades de pediatría desaconsejan su uso antes de los 18 meses o los 2 años, limitan a una hora diaria o menos entre los 2 y los 5 años o, desde 2026 en la AAP, piden mirar calidad, contexto y compañía más que horas.
 
-La respuesta corta a "¿cuánta, de qué tipo y sirven las apps educativas?" es esta. Antes de los 18 meses a 2 años, ninguna salvo la videollamada. Entre los 2 y los 5 años, una hora diaria o menos (la OMS pone ese tope de 2 a 4 años y la CPS pide menos de una hora de 2 a 5), mejor acompañada y con contenido pensado para chicos. Las apps "educativas" no tienen evidencia de que adelanten nada en un chico que ya conversa, juega y lee con sus adultos. Es una decisión de salud y de rutina: si algo del desarrollo preocupa, se consulta con el pediatra.
+La respuesta corta a "¿cuánta, de qué tipo y sirven las apps educativas?" es esta. Antes de los 18 meses a 2 años, ninguna salvo la videollamada. Entre los 2 y los 5 años, una hora diaria o menos (la Organización Mundial de la Salud, OMS, pone ese tope de 2 a 4 años y la Sociedad Canadiense de Pediatría, CPS, pide menos de una hora de 2 a 5), mejor acompañada y con contenido pensado para chicos. Las apps "educativas" no tienen evidencia de que adelanten nada en un chico que ya conversa, juega y lee con sus adultos. Es una decisión de salud y de rutina: si algo del desarrollo preocupa, se consulta con el pediatra.
 
 ## Qué recomienda cada organismo
 
-Los topes de arriba son los de la OMS y la CPS; la AAP pasó en 2026 de dar horas a mirar calidad, contexto y compañía. La Sociedad Argentina de Pediatría aparece con corte a los 18 meses en su revista y a los 2 años en la prensa. La tabla con la fecha de cada recomendación, el cambio de la AAP y esa discrepancia están en la ficha [recomendaciones de pantallas](recomendaciones-de-pantallas.md).
+Los topes de arriba son los de la OMS y la CPS; la AAP (Academia Estadounidense de Pediatría) pasó en 2026 de dar horas a mirar calidad, contexto y compañía. La Sociedad Argentina de Pediatría aparece con corte a los 18 meses en su revista y a los 2 años en la prensa. La tabla con la fecha de cada recomendación, el cambio de la AAP y esa discrepancia están en la ficha [recomendaciones de pantallas](recomendaciones-de-pantallas.md).
 
 ## Qué dice la evidencia sobre el daño
 
-Casi todo es observacional y los efectos son chicos. El metaanálisis de Madigan y otros (2020) juntó 42 estudios con 18.905 chicos y halló estas correlaciones con el lenguaje ([JAMA Pediatrics](https://pubmed.ncbi.nlm.nih.gov/32202633/), según su resumen):
+Casi todo es observacional (mide lo que las familias ya hacen, sin asignarlo) y los efectos son chicos. El metaanálisis de Madigan y otros (2020), que junta los resultados de muchos estudios, reunió 42 estudios con 18.905 chicos y halló estas correlaciones (r) con el lenguaje ([JAMA Pediatrics](https://pubmed.ncbi.nlm.nih.gov/32202633/), leído por su resumen, como las demás fuentes marcadas al final). La r va de -1 a 1: cerca de 0 es una asociación débil, y los valores de la tabla son todos débiles. Los signos negativos indican peor lenguaje:
 
 | Qué se midió | Correlación con el lenguaje | Estudios |
 |---|---|---|
@@ -41,21 +41,21 @@ Casi todo es observacional y los efectos son chicos. El metaanálisis de Madigan
 | Mirar acompañado (co-visionado) | r = 0,16 | 12 |
 | Empezar más tarde | r = 0,17 | 4 |
 
-La cohorte de Calgary (Madigan 2019, 2.441 chicos) asoció más pantalla a los 24 y 36 meses con peores puntajes en un cuestionario de hitos a los 36 y 60 meses, sin que la relación inversa se sostuviera ([JAMA Pediatrics](https://doi.org/10.1001/jamapediatrics.2018.5056), según su resumen). La CPS reconoce que para el lenguaje no está probada la causalidad. Una nota del CONICET recoge que parte de los investigadores ve la base de evidencia como limitada y que las posiciones se están flexibilizando ([CONICET](https://www.conicet.gov.ar/dos-especialistas-del-conicet-analizan-pros-y-contras-de-la-exposicion-de-las-infancias-a-las-pantallas/)).
+La cohorte de Calgary (Madigan 2019, 2.441 chicos) asoció más pantalla a los 24 y 36 meses con peores puntajes en un cuestionario de hitos a los 36 y 60 meses, sin que la relación inversa se sostuviera ([JAMA Pediatrics](https://doi.org/10.1001/jamapediatrics.2018.5056)). Una cohorte es un grupo de chicos al que se sigue en el tiempo. La CPS reconoce que para el lenguaje no está probada la causalidad. Una nota del CONICET recoge que parte de los investigadores ve la base de evidencia como limitada y que las posiciones se están flexibilizando ([CONICET](https://www.conicet.gov.ar/dos-especialistas-del-conicet-analizan-pros-y-contras-de-la-exposicion-de-las-infancias-a-las-pantallas/)).
 
 La lectura prudente: el problema más documentado es lo que la pantalla desplaza (conversación, juego, sueño, movimiento) y la televisión prendida de fondo. El tipo de contenido y la compañía cambian el signo de la correlación.
 
 ## Por qué la videollamada es la excepción
 
-En un experimento con 36 chicos de 24 a 30 meses, los chicos aprendieron verbos nuevos con una persona en vivo y con una videollamada en la que el adulto respondía a lo que hacían, pero no con un video grabado ([Roseberry y otros](https://pmc.ncbi.nlm.nih.gov/articles/PMC3962808), según su resumen). La diferencia con el video grabado es que el adulto responde a lo que hace el chico, la misma [ida y vuelta](../Vinculo/ida-y-vuelta.md) de la conversación cara a cara (lectura nuestra del diseño). Es un solo experimento chico, y encaja con la excepción de la AAP 2016 y la CPS; las fuentes leídas no dicen que esa sea su base.
+En un experimento con 36 chicos de 24 a 30 meses, los chicos aprendieron verbos nuevos con una persona en vivo y con una videollamada en la que el adulto respondía a lo que hacían, pero no con un video grabado ([Roseberry y otros](https://pmc.ncbi.nlm.nih.gov/articles/PMC3962808)). La diferencia con el video grabado es que el adulto responde a lo que hace el chico, la misma [ida y vuelta](../Vinculo/ida-y-vuelta.md) de la conversación cara a cara (lectura nuestra del diseño). Es un solo experimento chico, y encaja con la excepción de la AAP 2016 y la CPS; las fuentes leídas no dicen que esa sea su base.
 
 ## Si sirven las apps y los videos "educativos"
 
 No hay evidencia de que adelanten el aprendizaje de un chico chico, y la hay de que los videos para bebés no enseñan lo que prometen.
 
-- La CPS lo dice directo: "there is no evidence to support introducing technology at an early age". Cita que a los bebés y chicos pequeños les cuesta transferir lo que ven en 2D al mundo en 3D, y que los sonidos y animaciones de los libros electrónicos pueden interferir con la comprensión ([CPS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5823000)).
-- Un ensayo aleatorizado con 117 bebés de 9 a 18 meses usó durante siete meses un producto comercial para "enseñar a leer" (DVD, tarjetas y libros). Los autores concluyeron que los bebés "did not learn printed words from the baby media product", aunque los padres creían que sí ([Neuman y otros 2014](https://www.readingrockets.org/resources/resource-library/can-babies-learn-read-randomized-trial-baby-media), según un resumen). Más sobre este mito en [estimulación temprana](estimulacion-temprana.md).
-- Hirsh-Pasek y otros (2015) describen las apps "educativas" como "largely unregulated and untested" y proponen juzgarlas por si el chico aprende de forma activa, comprometida, significativa y en interacción social, con una meta de aprendizaje clara ([Psychological Science in the Public Interest](https://doi.org/10.1177/1529100615569721), según su resumen).
+- La CPS lo dice directo: «no hay evidencia que respalde introducir tecnología a una edad temprana» (traducción; en el original: "there is no evidence to support introducing technology at an early age"). Cita que a los bebés y chicos pequeños les cuesta transferir lo que ven en 2D al mundo en 3D, y que los sonidos y animaciones de los libros electrónicos pueden interferir con la comprensión ([CPS](https://pmc.ncbi.nlm.nih.gov/articles/PMC5823000)).
+- Un ensayo aleatorizado (los bebés se reparten al azar entre usar el producto o no) con 117 bebés de 9 a 18 meses usó durante siete meses un producto comercial para "enseñar a leer" (DVD, tarjetas y libros). Los autores concluyeron que los bebés «no aprendieron palabras impresas con el producto» (traducción; en el original: "did not learn printed words from the baby media product"), aunque los padres creían que sí ([Neuman y otros 2014](https://www.readingrockets.org/resources/resource-library/can-babies-learn-read-randomized-trial-baby-media)). Más sobre este mito en [estimulación temprana](estimulacion-temprana.md).
+- Hirsh-Pasek y otros (2015) describen las apps "educativas" como «en gran parte sin regulación y sin probar» (traducción; en el original: "largely unregulated and untested") y proponen juzgarlas por si el chico aprende de forma activa, comprometida, significativa y en interacción social, con una meta de aprendizaje clara ([Psychological Science in the Public Interest](https://doi.org/10.1177/1529100615569721)).
 
 De 2 a 5 años, los programas educativos se asocian a un poco más de lenguaje (r = 0,13) y la AAP 2026 considera beneficiosas las historias que modelan habilidades sociales, ayudan con lectura o matemática o invitan al juego libre. Eso habla de elegir bien qué ve, no de que la pantalla reemplace a un adulto. Los juguetes electrónicos tienen un problema parecido: con ellos los padres hablan menos ([juguetes y materiales](juguetes-y-materiales.md)).
 
@@ -69,5 +69,9 @@ Lo que coincide entre las fuentes, en pasos:
 4. Apagá la televisión de fondo.
 5. Sacá las pantallas de las comidas, del dormitorio y de la hora previa a dormir (CPS y AAP 2026). El sueño está en [sueño](../Salud-y-rutinas/sueno.md).
 6. Mirá también tu propio uso: la AAP 2026 pone en la cuenta cómo los adultos usan las pantallas para calmar o entretener al chico.
+
+## Qué fuentes se leyeron completas y cuáles por resumen
+
+Se leyeron por su resumen, no completos: Madigan y otros (2020), Madigan 2019, Roseberry y otros, Neuman y otros 2014 y Hirsh-Pasek y otros (2015). Lo que se cita de ellos es lo que dicen esos resúmenes. Los términos técnicos están en el [glosario de crianza](../Fundamentos/glosario-de-crianza.md).
 
 Ver también: [actividad física](../Salud-y-rutinas/actividad-fisica.md), donde vive la parte de la guía de la OMS sobre moverse, y [mitos de crianza](../Fundamentos/mitos-de-crianza.md).

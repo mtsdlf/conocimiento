@@ -17,6 +17,10 @@ revisado: 2026-11-27
 
 Un menú para todos es una sola comida base, armada con el plato de las Guías Alimentarias, que cada miembro de la familia ajusta en porción y agregados: el chico con cortes seguros, el adulto que baja grasa con menos energía y el que gana músculo con más proteína.
 
+## Cómo cocinar una sola comida para todos
+
+Cociná la proteína, la verdura y el cereal o la legumbre por separado, así cada uno se sirve su proporción. Dejá el aceite y las salsas para la mesa. Serví primero al chico y cortá su plato antes de llevarlo, con algo que ya acepta. Tené a mano una proteína extra (huevo duro, legumbres, queso) para quien necesita más. Cada paso está explicado más abajo.
+
 > [!NOTE]
 > Sin fuente todavía: estudios o guías con método sobre cómo adaptar una misma comida a un chico y a adultos con objetivos distintos. Lo que sigue se arma con piezas que sí tienen fuente (el plato de la guía argentina, el modelo de Satter, los cortes de la SAP y las notas de objetivos del adulto), y lo que las une es inferencia propia.
 

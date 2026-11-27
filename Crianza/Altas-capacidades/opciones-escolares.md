@@ -35,20 +35,11 @@ Conviene separar tres cosas que se mezclan: lo que dice la investigación intern
 | Agrupamiento | Juntar por un rato a chicos de nivel parecido | Un grupo de lectura con chicos que ya leen, aunque sean de otra sala |
 | Aceleración | Avanzar más rápido que la edad, por grado o por materia | Ingreso anticipado a una sala o a primer grado |
 
-A Nation Deceived (2004), una síntesis sobre aceleración, identifica 18 formas distintas, unas por grado completo y otras por materia.
-
-## Qué dice la evidencia sobre acelerar
-
-La evidencia más amplia es una síntesis de 2016 de 13 metaanálisis sobre agrupamiento (172 estudios) y 6 sobre aceleración (al menos 125 estudios), casi 300 estudios de un siglo (Steenbergen-Hu, Makel y Olszewski-Kubilius). Según la nota de prensa de Duke, la aceleración se asoció con mayor rendimiento que el de los pares de la misma edad no acelerados, y los acelerados rindieron igual que los compañeros mayores con quienes compartían grado. La nota no da tamaños de efecto, y los autores trabajan en centros de educación para chicos con altas capacidades. Es un metaanálisis de segundo orden, sobre estudios mayormente observacionales.
-
-A Nation Deceived es más enfático: "Acceleration is the most effective curriculum intervention for gifted children". Sobre entrar antes dice que "Entering school early is an excellent option for some gifted students both academically and socially" y que los que entran antes a kindergarten y a primer grado "perform as well as or better than their older classmates in all areas". Es una síntesis de estudios observacionales y de casos, con una posición a favor declarada.
-
-> [!IMPORTANT]
-> La evidencia viene de EE. UU. y casi toda de chicos de primaria en adelante. Para el ingreso anticipado al nivel inicial hay poca evidencia propia: lo que A Nation Deceived dice de "early entrance" se refiere al kindergarten y al primer grado de EE. UU., que corresponden a la sala de 5 y al primer grado de acá. La misma síntesis admite que "no one has the answer" a cuántos chicos deberían acelerarse.
+A Nation Deceived (2004), una síntesis estadounidense sobre aceleración, identifica 18 formas distintas, unas por grado completo y otras por materia.
 
 ## Qué mirar antes de adelantar a un chico
 
-A Nation Deceived pone dos condiciones que valen para cualquier edad. Para saltear un grado los chicos "need emotional maturity as well as academic ability", y "the attitude of the adults involved" es decisiva. El [desarrollo asincrónico](desarrollo-asincronico.md) haría pesar más la primera antes de los 6 años, por deducción nuestra, y la medición poco estable de esa edad ([señales y evaluación](senales-y-evaluacion.md)) hace que la decisión se apoye en un dato que todavía se mueve.
+A Nation Deceived pone dos condiciones que valen para cualquier edad. Para saltear un grado los chicos necesitan madurez emocional además de capacidad académica (en el original: "need emotional maturity as well as academic ability"), y la actitud de los adultos involucrados es decisiva (en el original: "the attitude of the adults involved"). El [desarrollo asincrónico](desarrollo-asincronico.md) haría pesar más la primera antes de los 6 años, por deducción nuestra, y la medición poco estable de esa edad ([señales y evaluación](senales-y-evaluacion.md)) hace que la decisión se apoye en un dato que todavía se mueve.
 
 Antes de pedir un ingreso anticipado conviene preguntarse:
 
@@ -56,6 +47,15 @@ Antes de pedir un ingreso anticipado conviene preguntarse:
 2. ¿Cómo se lleva con chicos un año más grandes, en juego, en espera y en frustración?
 3. ¿Qué pasa en los años siguientes? Un ingreso anticipado a sala adelanta toda la escolaridad, incluida la entrada a primaria y a secundaria.
 4. ¿Los adultos de la escuela están a favor? A Nation Deceived llama decisiva a esa actitud.
+
+## Qué dice la evidencia sobre acelerar
+
+La evidencia más amplia es una síntesis de 2016 de 13 metaanálisis sobre agrupamiento (172 estudios) y 6 sobre aceleración (al menos 125 estudios), casi 300 estudios de un siglo (Steenbergen-Hu, Makel y Olszewski-Kubilius). Según la nota de prensa de la Universidad de Duke, la aceleración se asoció con mayor rendimiento que el de los pares de la misma edad no acelerados, y los acelerados rindieron igual que los compañeros mayores con quienes compartían grado. La nota no da tamaños de efecto (medidas de cuánto cambia algo), y los autores trabajan en centros de educación para chicos con altas capacidades. Es un metaanálisis de segundo orden (junta los resultados de metaanálisis, que a su vez juntan estudios), sobre estudios mayormente observacionales (miden lo que ya pasa, sin asignarlo).
+
+A Nation Deceived es más enfático: la aceleración es la intervención curricular más eficaz para los chicos con altas capacidades (en el original: "Acceleration is the most effective curriculum intervention for gifted children"). Sobre entrar antes dice que es una excelente opción para algunos chicos, tanto en lo académico como en lo social (en el original: "Entering school early is an excellent option for some gifted students both academically and socially"), y que los que entran antes a kindergarten y a primer grado rinden tan bien o mejor que sus compañeros mayores en todas las áreas (en el original: "perform as well as or better than their older classmates in all areas"). Es una síntesis de estudios observacionales y de casos, con una posición a favor declarada.
+
+> [!IMPORTANT]
+> La evidencia viene de EE. UU. y casi toda de chicos de primaria en adelante. Para el ingreso anticipado al nivel inicial hay poca evidencia propia: lo que A Nation Deceived dice del ingreso anticipado ("early entrance") se refiere al kindergarten y al primer grado de EE. UU., que corresponden a la sala de 5 y al primer grado de acá. La misma síntesis admite que nadie tiene la respuesta a cuántos chicos deberían acelerarse (en el original: "no one has the answer").
 
 ## La norma argentina, a noviembre de 2026
 
@@ -78,4 +78,8 @@ Como el nivel inicial es obligatorio desde los 4 años, un ingreso anticipado a 
 
 ## Lo que pasa en la práctica
 
-Un artículo académico de 2019 sostiene que la Argentina carece de una política de Estado que garantice la identificación (Pirovano, Universidad de Belgrano, según su resumen). Que exista la norma no garantiza que cada escuela la conozca o la aplique. Hay asociaciones de familias y servicios universitarios que asesoran, conocidos solo por prensa en esta base. Para una familia, la pregunta útil en una entrevista es qué hace el jardín con un chico que ya sabe lo que se está enseñando ([elegir escuela](../Escuela/elegir-escuela.md), [jardín](../Escuela/jardin.md)).
+Un artículo académico de 2019 sostiene que la Argentina carece de una política de Estado que garantice la identificación (Pirovano, Universidad de Belgrano). Que exista la norma no garantiza que cada escuela la conozca o la aplique. Hay asociaciones de familias y servicios universitarios que asesoran, conocidos solo por prensa en esta base. Para una familia, la pregunta útil en una entrevista es qué hace el jardín con un chico que ya sabe lo que se está enseñando ([elegir escuela](../Escuela/elegir-escuela.md), [jardín](../Escuela/jardin.md)).
+
+## Qué tan firme es lo que dice esta nota
+
+La síntesis de 2016 se conoce por la nota de prensa de Duke y el artículo de Pirovano por su resumen. A Nation Deceived y los metaanálisis que resume reúnen estudios observacionales y casos, y sus autores defienden la aceleración. Que un ingreso anticipado a sala caiga sobre todo en las salas de 3 y 4 años es una deducción de esta nota.
