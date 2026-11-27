@@ -21,7 +21,7 @@ revisado: 2026-11-27
 
 El ingreso y el egreso son el alta y la baja administrativas de una persona: abrir su legajo, darla de alta ante la seguridad social y prepararla para cobrar, y al final darla de baja, liquidar lo que se le debe y entregarle sus constancias. La primera vez que una empresa contrata, el alta incluye además hacerse empleador.
 
-Son los dos extremos del [legajo](legajo.md). Antes del ingreso está la [búsqueda](busquedas-y-postulantes.md); después, el período en que la persona aprende su rol y entra al grupo, que es la [incorporación](../../Liderazgo-y-direccion/Gestion-de-personas/incorporacion.md) y es de Liderazgo. Antes del egreso está la decisión de que alguien se vaya, que trata [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md). El recorrido entero, de la contratación a la baja, va al tema Procesos de negocio, todavía no escrito.
+Son los dos extremos del [legajo](legajo.md). Antes del ingreso está la [búsqueda](busquedas-y-postulantes.md); después, el período en que la persona aprende su rol y entra al grupo, que es la [incorporación](../../Liderazgo-y-direccion/Gestion-de-personas/incorporacion.md) y es de Liderazgo. Antes del egreso está la decisión de que alguien se vaya, que trata [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md). El recorrido entero está en [de la contratación a la baja](../../Procesos-de-negocio/de-la-contratacion-a-la-baja.md), en Procesos de negocio.
 
 ## Lo que deja hecho el alta
 

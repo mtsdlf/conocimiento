@@ -5,16 +5,16 @@ nivel: entiende de software y de negocio en general; no se da por sabido el voca
 escuela: neutral; el mantenimiento centrado en la confiabilidad (RCM), el mantenimiento productivo total (TPM) y la gestión de activos de la ISO 55000 se presentan como enfoques que conviven, cada uno con lo que sostiene
 fuera:
   - el alta contable del activo, la amortización, capitalizar o gastar y la baja con su resultado — Contabilidad/Operaciones/activos-fijos-y-amortizacion.md; se enlaza
-  - la compra del activo y de los repuestos (pedido, recepción, proveedor) — tema Compras y abastecimiento (todavía no armado)
+  - la compra del activo y de los repuestos (pedido, recepción, proveedor) — tema Compras y abastecimiento (Compras-y-abastecimiento/)
   - el stock de repuestos en el depósito (contar, ubicar, valuar) — tema Inventario y depósitos (Inventario-y-depositos/); acá, qué repuesto necesita una orden y cuál es crítico
   - la atención al cliente, el reclamo y el escalamiento — tema Servicio al cliente (Servicio-al-cliente/, que deriva desde Escalamiento/derivacion-al-tecnico.md); acá empieza cuando el caso deriva a un técnico
   - el presupuesto y la venta de un contrato de servicio — Relación con clientes; acá, qué cubre el contrato y qué promete
-  - la programación de la planta, la calidad y la eficiencia de la línea (OEE como medida de producción) — tema Producción (todavía no armado)
-  - el legajo, las horas para liquidar y la capacitación de los técnicos — tema Administración de personal y nómina (todavía no armado)
-  - los proyectos de inversión para construir un activo (una planta, un edificio) — tema Servicios profesionales y proyectos (todavía no armado) y fuera de esta pasada
-  - el transporte de mercadería y la flota de reparto como logística — tema Cadena de suministro y logística (todavía no armado); acá solo el ruteo de técnicos
-  - el recorrido de la compra a la baja del activo (acquire-to-retire) — tema Procesos de negocio (todavía no armado)
-  - las categorías de producto (EAM, CMMS, gestión de servicio de campo) y las piezas comunes de todo software de gestión — tema Software de gestión (todavía no armado)
+  - la programación de la planta, la calidad y la eficiencia de la línea (OEE como medida de producción) — tema Producción (Produccion/; la OEE en Produccion/Ejecucion-en-planta/eficiencia-global-del-equipo.md)
+  - el legajo, las horas para liquidar y la capacitación de los técnicos — tema Administración de personal y nómina (Administracion-de-personal-y-nomina/); la capacitación, Liderazgo-y-direccion/Gestion-de-personas/desarrollo-de-personas.md
+  - los proyectos de inversión para construir un activo (una planta, un edificio) — fuera de esta pasada y sin tema propio; Servicios-profesionales-y-proyectos/ trata el proyecto vendido a un cliente, no la obra propia, y el activo construido por la empresa se nombra en Procesos-de-negocio/de-la-compra-a-la-baja-del-activo.md
+  - el transporte de mercadería y la flota de reparto como logística — tema Cadena de suministro y logística (Cadena-de-suministro-y-logistica/, el ruteo de camiones en Transporte/consolidacion-y-ruteo.md); acá solo el ruteo de técnicos
+  - el recorrido de la compra a la baja del activo (acquire-to-retire) — Procesos-de-negocio/de-la-compra-a-la-baja-del-activo.md
+  - las categorías de producto (EAM, CMMS, gestión de servicio de campo) y las piezas comunes de todo software de gestión — tema Software de gestión (Software-de-gestion/Categorias-de-producto/eam-y-cmms.md, servicio-de-campo-y-mesa-de-ayuda.md y Columnas-tecnicas/)
   - el análisis de datos de sensores y los modelos de predicción de fallas como técnica — Datos e IA; se enlazan
   - la gestión de activos de TI y de software, y la gestión de flota como negocio propio
   - productos de mantenimiento o servicio de campo, comparativas y precios — fuera de la base
@@ -42,17 +42,17 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 | Vecino | Es dueño de | La frontera con este tema |
 |---|---|---|
 | [Contabilidad](../Contabilidad/contabilidad.md) | el activo fijo como valor: alta, amortización, capitalizar o gastar, baja | El mismo equipo tiene dos registros: el operativo (acá) y el contable (allá). La orden de trabajo junta el costo de una reparación; si alarga la vida útil y se capitaliza lo decide la regla de [activos fijos y amortización](../Contabilidad/Operaciones/activos-fijos-y-amortizacion.md) |
-| Compras y abastecimiento (no armado) | comprar el activo y los repuestos | La orden pide un repuesto que no hay; la compra, allá |
+| [Compras y abastecimiento](../Compras-y-abastecimiento/compras-y-abastecimiento.md) | comprar el activo y los repuestos | La orden pide un repuesto que no hay; la compra, allá |
 | [Inventario y depósitos](../Inventario-y-depositos/inventario-y-depositos.md) | el stock de repuestos: contar, ubicar, valuar | Acá, qué repuestos lleva un equipo, cuál es crítico y la reserva contra la orden; allá, cuántos hay y dónde |
 | [Servicio al cliente](../Servicio-al-cliente/servicio-al-cliente.md) | la atención, el reclamo y el escalamiento | El caso nace allá; cuando hace falta un técnico, [deriva](../Servicio-al-cliente/Escalamiento/derivacion-al-tecnico.md) una orden de servicio que es de acá. Revisar y autorizar un reclamo de garantía es del caso; qué promete el contrato, de acá. El cierre de la orden vuelve al caso |
 | [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) | el cliente como registro, el presupuesto y el pedido de venta | Un contrato de servicio se vende con un presupuesto y un pedido de allá; qué cubre y qué tiempo de respuesta promete, acá |
-| Producción (no armado) | transformar: programar la planta, calidad, eficiencia de la línea | Producción dice cuándo se puede parar la máquina; mantenimiento, qué hacerle. La OEE mide la línea y se explica allá |
-| Administración de personal y nómina (no armado) | el legajo, la asistencia y la liquidación del técnico | Las horas cargadas en una orden son costo del trabajo acá; para liquidar el sueldo, allá |
-| Cadena de suministro y logística (no armado) | mover mercadería entre lugares | Rutear técnicos a visitas es de acá; rutear camiones con carga, allá |
-| Procesos de negocio (no armado) | el recorrido de la compra a la baja del activo | La orden de mantenimiento es un paso del recorrido; su detalle vive acá |
-| Software de gestión (no armado) | las categorías EAM, CMMS y gestión de servicio de campo, y las columnas técnicas (documento y estados, datos maestros) | Acá, el saber que existe sin software; allá, cómo lo empaqueta un producto |
+| [Producción](../Produccion/produccion.md) | transformar: programar la planta, calidad, eficiencia de la línea | Producción dice cuándo se puede parar la máquina; mantenimiento, qué hacerle. La OEE mide la línea y se explica en [eficiencia global del equipo](../Produccion/Ejecucion-en-planta/eficiencia-global-del-equipo.md) |
+| [Administración de personal y nómina](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md) | el legajo, la asistencia y la liquidación del técnico | Las horas cargadas en una orden son costo del trabajo acá; para liquidar el sueldo, allá |
+| [Cadena de suministro y logística](../Cadena-de-suministro-y-logistica/cadena-de-suministro-y-logistica.md) | mover mercadería entre lugares | Rutear técnicos a visitas es de acá; rutear camiones con carga, en [consolidación y ruteo](../Cadena-de-suministro-y-logistica/Transporte/consolidacion-y-ruteo.md) |
+| [Procesos de negocio](../Procesos-de-negocio/procesos-de-negocio.md) | el recorrido de la compra a la baja del activo | La orden de mantenimiento es un paso de [de la compra a la baja del activo](../Procesos-de-negocio/de-la-compra-a-la-baja-del-activo.md); su detalle vive acá |
+| [Software de gestión](../Software-de-gestion/software-de-gestion.md) | las categorías [EAM y CMMS](../Software-de-gestion/Categorias-de-producto/eam-y-cmms.md) y [gestión de servicio de campo](../Software-de-gestion/Categorias-de-producto/servicio-de-campo-y-mesa-de-ayuda.md), y las columnas técnicas ([documento y estados](../Software-de-gestion/Columnas-tecnicas/documento-y-estados.md), [datos maestros](../Software-de-gestion/Columnas-tecnicas/datos-maestros-y-partes.md)) | Acá, el saber que existe sin software; allá, cómo lo empaqueta un producto |
 
-Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
+Cuando se escribió, los temas que todavía no existían se nombraban sin enlace; se enlazaron en la sesión 16 del mapa (#123).
 
 ## Árbol
 
@@ -96,7 +96,7 @@ Activos-y-mantenimiento/
 - El árbol general y los límites vienen aprobados del mapa (#94, #98, #101, #104). El árbol del tema lo propone esta sesión sin esperar respuesta; la persona lo revisa en el PR.
 - Cinco verticales. Las cuatro primeras siguen el corte del campo: qué se mantiene (el registro), qué se decide hacer (la estrategia), cómo se hace el trabajo (la orden) y cómo se mide (el desempeño); es la división de APQC 10.0 y del cuerpo de saber de SMRP, según la investigación de cada vertical. Servicio de campo es la quinta porque lo pidió el mapa (#104): es el mismo ciclo de orden de trabajo sobre un equipo que no es de la empresa.
 - La orden de trabajo es una sola para el mantenimiento interno y el servicio de campo. Servicio de campo enlaza a [Orden de trabajo](Orden-de-trabajo/orden-de-trabajo.md) y explica solo lo que cambia (el cliente, el contrato, el viaje, la conformidad).
-- La OEE nace en el TPM pero mide la línea: se nombra acá y se explica en Producción.
+- La OEE nace en el TPM pero mide la línea: se nombra acá y se explica en Producción, en [eficiencia global del equipo](../Produccion/Ejecucion-en-planta/eficiencia-global-del-equipo.md).
 - El mantenimiento predictivo con sensores y modelos se trata como estrategia (cuándo conviene); la técnica de análisis queda en Datos e IA.
 - Lo de la Argentina va en una sola nota del tema, con las inspecciones y servicios que la norma vuelve obligatorios.
 - **Investigación corta** (2026-11-27): el buscador web se agotó al empezar, y las normas (EN 13306, ISO 14224, ISO 55000, SAE JA1011), SMRP, Palmer y el informe de Nowlan y Heap no se pudieron leer. Lo que sale de ellos va atribuido a resúmenes secundarios, y cada nota declara sus huecos con un `[!NOTE]`. APQC 7.4 sí se leyó entero (`.investigacion/apqc-10.md`) y el servicio técnico en campo resultó estar en 6.3 «Service products after sales», no en 5.0. Conviene una pasada de `mantener` cuando haya acceso a esas fuentes.

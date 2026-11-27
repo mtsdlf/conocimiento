@@ -29,7 +29,7 @@ Recibe sus números del [modelo de negocio](../Modelo-de-negocio/modelo-de-negoc
 La caja es la plata que hay en la cuenta; el resultado es la diferencia entre ingresos y gastos de un período. Una empresa puede dar ganancia en el papel y quedarse sin caja, si cobra a 60 días y paga a 30, o si invierte en stock antes de vender. En una empresa que empieza, la pregunta que decide si sigue viva es la de caja.
 
 > [!NOTE]
-> Sin fuente todavía: las definiciones de caja y resultado, consumo mensual, pista y punto de equilibrio de esta nota son contabilidad estándar y no se contrastaron con un texto de referencia. Falta un manual de contabilidad o la biblioteca de Y Combinator.
+> La diferencia entre caja y resultado, con su fuente, está en [devengado](../../Contabilidad/Registro/devengado.md#por-qué-una-empresa-con-ganancia-se-queda-sin-plata), y el punto de equilibrio, con la misma fórmula que usa esta nota, en [punto de equilibrio](../../Contabilidad/Contabilidad-de-gestion/punto-de-equilibrio.md), los dos en Contabilidad. Sin fuente todavía: las definiciones de consumo mensual y pista, que no se contrastaron con un texto de referencia; falta la biblioteca de Y Combinator.
 
 ## Consumo mensual y pista
 
@@ -83,9 +83,9 @@ Los instrumentos con que entra la plata temprana se mencionan acá y tendrán su
 
 Cuando se escriban, los componentes que faltan van a ser estos, tomados de la investigación:
 
-- Caja y resultado: por qué una empresa rentable se queda sin plata.
+- Caja y resultado: por qué una empresa rentable se queda sin plata. Lo general ya está en [devengado](../../Contabilidad/Registro/devengado.md), en Contabilidad, y la proyección de caja de la empresa en marcha, en [proyección de caja](../../Tesoreria/Caja-y-liquidez/proyeccion-de-caja.md), en Tesorería; acá quedaría solo la mirada de la empresa que empieza.
 - Consumo mensual, pista y default alive: cuánto dura la plata y cómo se calcula.
-- Punto de equilibrio: cuánto hay que vender para no perder.
+- Punto de equilibrio: cuánto hay que vender para no perder. No va a tener componente acá: vive en [punto de equilibrio](../../Contabilidad/Contabilidad-de-gestion/punto-de-equilibrio.md), en Contabilidad.
 - Fuentes de financiamiento: lo que cuesta cada una en dilución, control y retorno esperado.
 - Financiarse con clientes y bootstrapping: adelantos, suscripciones y pagos por anticipado.
 - Capital de riesgo y la concentración de sus retornos: cuándo tiene sentido y cuándo no.

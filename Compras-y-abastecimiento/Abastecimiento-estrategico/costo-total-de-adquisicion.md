@@ -13,7 +13,7 @@ fuentes:
   - "Roland Berger, From identified to realized: Turning indirect spend savings into P&L impact: https://www.rolandberger.com/en/Insights/Publications/From-identified-to-realized-Turning-indirect-spend-savings-into-P-L-impact.html"
   - "Compras-y-abastecimiento/.investigacion/abastecimiento-estrategico.md (2026-11-27), secciones 0 y 7"
   - "Compras-y-abastecimiento/.investigacion/fundamentos-y-contraria.md (2026-11-27), sección 2.2"
-aliases: [costo total de adquisición, costo total de propiedad, costo total de posesión, total cost of ownership, TCO, costo de ciclo de vida, costo de vida completa, whole life cost, life cycle cost, costo total, precio contra costo]
+aliases: [costo total de adquisición, costo total de propiedad, costo total de posesión, total cost of ownership, TCO, costo total, precio contra costo]
 creado: 2026-11-27
 revisado: 2026-11-27
 ---
@@ -30,7 +30,7 @@ La definición de trabajo viene de compras: el TCO es «a purchasing tool and ph
 
 El ejemplo que dan Hurkens y otros: si lo que llega de un proveedor viene a veces fuera de estándar, al precio se le suma lo que cuesta rehacer ese trabajo. Dos proveedores con el mismo precio pueden tener costos totales distintos porque uno entrega a tiempo y el otro obliga a tener más stock de seguridad, o porque uno factura bien y el otro genera horas de reclamos en cuentas a pagar. Los ejemplos de stock y de facturas son de la base.
 
-La guía de compras del gobierno británico lo pone como regla para evaluar ofertas: «the key factor is whole life cost, not lowest purchase price», y «Paying more for higher quality may be justified if the whole life cost is advantageous».
+La guía de compras del gobierno británico lo pone como regla para evaluar ofertas: «the key factor is whole life cost, not lowest purchase price», y «Paying more for higher quality may be justified if the whole life cost is advantageous». El costo del ciclo de vida de un equipo (whole-life cost, LCC), que suma todo lo que cuesta tenerlo hasta la baja y sirve para decidir cuándo reemplazarlo, se trata en [reparar o reemplazar](../../Activos-y-mantenimiento/Desempeno-de-los-activos/reparar-o-reemplazar.md), de Activos y mantenimiento; acá, el costo de comprarle a un proveedor.
 
 ## Antes, durante y después de la compra
 
@@ -50,7 +50,7 @@ Para quien diseña un sistema, la consecuencia es que el costo total se calcula 
 
 ## Otro TCO: el de tecnología
 
-En tecnología, el mismo nombre tiene otra tradición. Wikipedia lo define como «a financial estimate intended to help buyers and owners determine the direct and indirect costs of a product or service» y dice que el Gartner Group popularizó el análisis en 1987, sin citar a Ellram. Un ejemplo de la base: comparar un servidor propio con un servicio en la nube. La idea es la misma (mirar más allá del precio) y la literatura es otra.
+En tecnología, el mismo nombre tiene otra tradición. Wikipedia lo define como «a financial estimate intended to help buyers and owners determine the direct and indirect costs of a product or service» y dice que el Gartner Group popularizó el análisis en 1987, sin citar a Ellram. Un ejemplo de la base: comparar un servidor propio con un servicio en la nube. La idea es la misma (mirar más allá del precio) y la literatura es otra. El caso de comprar un software de gestión (licencia, implantación, personalización, soporte y tiempo propio) está en [costo total para quien compra](../../Software-de-gestion/Mercado-y-economia/costo-total-para-quien-compra.md).
 
 ## El ahorro informado no es el ahorro realizado
 

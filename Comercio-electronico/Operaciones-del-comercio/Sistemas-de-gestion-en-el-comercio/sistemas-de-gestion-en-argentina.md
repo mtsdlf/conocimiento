@@ -32,7 +32,7 @@ revisado: 2026-11-24
 
 Los sistemas de gestión que usan los comercios argentinos, al 2026-11-22: Tango, Dux, Contabilium, Xubio, Colppy, Alegra y otros, con sus precios por mes, sus límites, qué tiendas y marketplaces conectan, si traen punto de venta, cuántos clientes declaran y lo que dicen de ellos 252 reseñas de comercios leídas una por una.
 
-Implementa [sistemas de gestión](sistemas-de-gestion.md) y [integración con tiendas y marketplaces](integracion-con-tiendas-y-marketplaces.md). Copiado de las fuentes del frontmatter el 2026-11-22. Cada dato lleva la calificación de la fuente (A, confiable, a F, sin poder juzgar) y del dato (1, confirmado por otra fuente, a 6, sin poder juzgar). Varios precios tenían promociones de fin de año que vencían el 30 de noviembre.
+Implementa [sistemas de gestión](sistemas-de-gestion-en-el-comercio.md) y [integración con tiendas y marketplaces](integracion-con-tiendas-y-marketplaces.md). Copiado de las fuentes del frontmatter el 2026-11-22. Cada dato lleva la calificación de la fuente (A, confiable, a F, sin poder juzgar) y del dato (1, confirmado por otra fuente, a 6, sin poder juzgar). Varios precios tenían promociones de fin de año que vencían el 30 de noviembre.
 
 ## Precios por mes
 

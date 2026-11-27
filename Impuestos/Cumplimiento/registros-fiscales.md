@@ -90,6 +90,6 @@ Un sistema de gestión tiene que poder producir para el cumplimiento (inferencia
 5. Una exportación de la contabilidad en el formato estándar del país, si lo hay.
 6. El rastro de cada cambio: quién emitió, anuló o corrigió cada comprobante y cuándo (ver [controles sobre sistemas](../../Contabilidad/Control-interno/controles-sobre-sistemas.md)).
 
-Cómo se modela eso en un sistema es del tema Software de gestión (todavía no escrito). El caso argentino está en [IVA en Argentina](../Impuestos-al-consumo/iva-en-argentina.md).
+Cómo sale eso de la base de un sistema, con corte a una fecha, está en [reportes operativos y legales](../../Software-de-gestion/Columnas-tecnicas/reportes-operativos-y-legales.md), y los libros y regímenes que pide ARCA, en [software de gestión en la Argentina](../../Software-de-gestion/software-de-gestion-en-argentina.md#libros-y-regímenes-de-información-como-reportes). El caso argentino está en [IVA en Argentina](../Impuestos-al-consumo/iva-en-argentina.md).
 
 Para leer más: la guía de la OCDE «Guidance on the Standard Audit File – Tax, Version 2.0» (2010), por la lista de datos que el fisco espera de un sistema contable; y la página SAF-T Financial de la administración noruega, como caso de implementación.

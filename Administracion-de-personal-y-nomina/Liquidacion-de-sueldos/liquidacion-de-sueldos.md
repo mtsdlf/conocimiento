@@ -54,7 +54,7 @@ Hay pagos que no esperan al período, como la [liquidación final](liquidacion-f
 
 ## El pago de sueldos
 
-La liquidación dice cuánto se le paga a cada uno. La transferencia, la posición de caja y la conciliación del banco son del tema Tesorería y finanzas de la empresa en marcha, todavía no escrito. Acá quedan las reglas que limitan cómo y cuánto se paga; la ejecución del pago (la cuenta, el fondeo, la acreditación y el calendario) está en [pago de sueldos](../../Tesoreria/Pago-de-sueldos/pago-de-sueldos.md).
+La liquidación dice cuánto se le paga a cada uno. La transferencia, la [posición de caja](../../Tesoreria/Caja-y-liquidez/posicion-de-caja.md) y la [conciliación del banco](../../Contabilidad/Control-interno/conciliaciones.md) son de Tesorería y Contabilidad. Acá quedan las reglas que limitan cómo y cuánto se paga; la ejecución del pago (la cuenta, el fondeo, la acreditación y el calendario) está en [pago de sueldos](../../Tesoreria/Pago-de-sueldos/pago-de-sueldos.md).
 
 Sobre el medio de pago, el Convenio 95 de la OIT pide pagar en moneda de curso legal, prohíbe los vales y los cupones, y dice que la autoridad puede permitir el cheque o el giro donde sea costumbre o necesario (art. 3). El pago va directo al trabajador, salvo lo que diga la ley o lo que él acepte (art. 5), y el pago en efectivo se hace en día laborable y en el lugar de trabajo o cerca (art. 13). La OIT no menciona la transferencia; en la Argentina, la ley obliga a pagar por acreditación en una cuenta sueldo ([liquidación en la Argentina](liquidacion-en-argentina.md#cuenta-sueldo-y-plazo-de-pago)).
 

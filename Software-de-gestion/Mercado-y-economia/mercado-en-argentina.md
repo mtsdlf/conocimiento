@@ -22,7 +22,7 @@ revisado: 2026-11-27
 
 El mercado argentino de software de gestión tiene tres rasgos propios: la localización fiscal es requisito para vender, los sistemas instalados se venden por licencia a través de distribuidores o centros de servicio y los de nube cobran por mes según comprobantes, usuarios y canales. No hay dato público del tamaño de este mercado; las cifras que circulan son de todo el sector de software.
 
-Es el caso local de lo que cuenta [Mercado y economía](mercado-y-economia.md). Los sistemas concretos, con sus precios, sus límites por plan, cuántos clientes declaran y lo que dicen sus reseñas, están en la ficha de [sistemas de gestión en Argentina](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion-en-argentina.md), escrita desde el comercio.
+Es el caso local de lo que cuenta [Mercado y economía](mercado-y-economia.md). Los sistemas concretos, con sus precios, sus límites por plan, cuántos clientes declaran y lo que dicen sus reseñas, están en la ficha de [sistemas de gestión en Argentina](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-argentina.md), escrita desde el comercio.
 
 > [!WARNING]
 > Todo lo de esta nota se leyó por el resumen de un buscador o por la prensa; ninguna fuente se abrió entera. Las cifras son candidatas hasta que alguien lea el informe original.
@@ -45,7 +45,7 @@ La única cifra de escala es lo que declara un proveedor local de larga trayecto
 
 ## Instalado o en la nube
 
-Conviven dos modelos de cobro. Los sistemas instalados en la computadora o el servidor del cliente se venden por licencia, por módulos y por puestos. Los de nube se pagan por mes y escalan el precio por tres cosas: comprobantes por mes, usuarios y cuentas de canal conectadas, como tiendas y marketplaces ([instalado o en la nube](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md#instalado-o-en-la-nube)). La diferencia general entre los dos modelos está en [licencia y suscripción](licencia-y-suscripcion.md) y en [SaaS](../../Emprender/Modelo-de-negocio/saas.md).
+Conviven dos modelos de cobro. Los sistemas instalados en la computadora o el servidor del cliente se venden por licencia, por módulos y por puestos. Los de nube se pagan por mes y escalan el precio por tres cosas: comprobantes por mes, usuarios y cuentas de canal conectadas, como tiendas y marketplaces ([instalado o en la nube](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md#instalado-o-en-la-nube)). La diferencia general entre los dos modelos está en [licencia y suscripción](licencia-y-suscripcion.md) y en [SaaS](../../Emprender/Modelo-de-negocio/saas.md).
 
 El precio por comprobante es lo que distingue al mercado local, en lectura de esta base: ata lo que paga el cliente a cuánto factura, y el comprobante es la pieza que la norma obliga a emitir por sistema. Los planes de la ficha ponen el corte en cantidades como 250, 1.500 o 5.000 comprobantes por mes.
 

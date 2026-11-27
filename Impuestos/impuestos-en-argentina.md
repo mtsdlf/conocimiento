@@ -37,6 +37,7 @@ La Ley 23.548 de coparticipación ordena el reparto. Según el artículo 9 incis
 |---|---|---|---|
 | Nación | IVA | el valor agregado en cada venta | [IVA en Argentina](Impuestos-al-consumo/iva-en-argentina.md) |
 | Nación | Ganancias | la ganancia de la empresa | [Ganancias en Argentina](Impuestos-a-la-renta/ganancias-en-argentina.md) |
+| Nación | Ganancias de personas humanas | la ganancia de quien factura a su nombre o tiene rentas, con escala y cedular | [Ganancias de personas humanas en Argentina](Impuestos-a-la-renta/ganancias-de-personas-humanas-en-argentina.md) |
 | Nación | Débitos y créditos bancarios | cada movimiento en una cuenta bancaria | esta nota |
 | Nación | Internos | el consumo de ciertos bienes (impuestos selectivos) | esta nota |
 | Nación | Monotributo | una cuota que reemplaza IVA, Ganancias y aportes del pequeño contribuyente | [monotributo en marcha](Obligacion-tributaria/monotributo-en-marcha.md) |

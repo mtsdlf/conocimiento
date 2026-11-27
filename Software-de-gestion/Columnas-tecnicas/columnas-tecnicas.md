@@ -69,6 +69,15 @@ Algunas piezas parecen columnas y son de otra capa o atributos de una columna:
 - Las [transacciones](../../Bases-de-datos/Transacciones/transacciones.md) de la base de datos son de Bases de datos.
 - La parte con roles, la numeración, las aprobaciones, las dimensiones y la carga inicial son atributos de otras columnas (datos maestros, documento, movimientos e integración) y viven adentro de ellas.
 
+## Dos piezas que combinan columnas
+
+Dos piezas aparecen en casi todo sistema que factura y no son columnas: no están en todos los dominios, pero cada una se arma con varias columnas a la vez.
+
+- El [motor de impuestos](motor-de-impuestos.md) decide el impuesto de cada renglón. Lee los maestros, busca alícuotas con vigencia, redondea importes y deja el resultado congelado en el documento.
+- La [cuenta corriente y la aplicación](cuenta-corriente-y-aplicacion.md) llevan la deuda con clientes y proveedores como partidas con vencimiento, unidas por aplicaciones. Las partidas son movimientos con fecha y moneda, y el saldo es su suma.
+
+Lo que la norma argentina les pide a las dos está en [impuestos y cuenta corriente en la Argentina](impuestos-y-cuenta-corriente-en-argentina.md).
+
 ## Cómo falla una columna
 
 Una columna mal resuelta falla en todos los dominios a la vez: un sistema que edita movimientos lo hace con el stock, la cuenta corriente y el asiento.
@@ -90,3 +99,9 @@ Para construir un sistema, el orden de lectura es el de la venta de arriba: prim
 - [Integración y migración](integracion-y-migracion.md) — qué sistema manda en cada dato, los cuatro estilos de Hohpe y Woolf y la carga inicial.
 - [Configurar o personalizar](configurar-o-personalizar.md) — el nivel de conocimiento de Fowler, configurar, extender o modificar, y lo que cuesta cada uno al actualizar.
 - [Reportes operativos y legales](reportes-operativos-y-legales.md) — los listados del día y los libros con corte a una fecha; el análisis va a Datos.
+
+Y las dos piezas que combinan columnas:
+
+- [Motor de impuestos](motor-de-impuestos.md) — la categoría fiscal, las alícuotas con vigencia, el resumen por alícuota y el redondeo por renglón o por total.
+- [Cuenta corriente y aplicación](cuenta-corriente-y-aplicacion.md) — partidas abiertas o saldo corriente, vencimientos, la aplicación como registro propio y la diferencia de cambio al cancelar.
+- [Impuestos y cuenta corriente en la Argentina](impuestos-y-cuenta-corriente-en-argentina.md) — las alícuotas y los tributos en el web service de ARCA, su tolerancia al redondeo, los padrones de percepción y las retenciones en recibos y órdenes de pago.

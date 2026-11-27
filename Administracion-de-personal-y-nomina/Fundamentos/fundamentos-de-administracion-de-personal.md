@@ -11,6 +11,7 @@ fuentes:
   - "Wikipedia, Automatic Data Processing (terciaria, cita a The New York Times, 1996 y 2011): https://en.wikipedia.org/wiki/Automatic_Data_Processing"
   - "Wikipedia, Human resource management system (terciaria, cita a Kavanagh et al., 1990): https://en.wikipedia.org/wiki/Human_resource_management_system"
   - "APQC, Process Classification Framework 7.2.1, categorías 7.0 y 9.5 (copia de terceros): https://www.slideshare.net/AsgharAghiliDehkordi/cross-industry-v721-final"
+  - "APQC, Process Classification Framework 7.4 (agosto de 2024), Cross-Industry, copia de la IFRC, categorías 7.0 y 9.5, leída el 2026-11-27 (también en Procesos-de-negocio/.investigacion/de-la-contratacion-a-la-baja.md): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "APQC, PCF Business Rules: https://www.apqc.org/sites/default/files/files/PCF%20Collateral/PCF%20Business%20Rules.pdf"
   - "APQC, Why are end-to-end processes important: https://www.apqc.org/blog/why-are-end-end-processes-important"
   - "SHRM, BASK, página de presentación: https://www.shrm.org/credentials/certification/exam-preparation/bask"
@@ -59,12 +60,12 @@ Ningún marco externo corta el dominio como este tema, y la nómina cambia de lu
 
 | Quién | Cómo lo divide | Dónde queda la nómina |
 |---|---|---|
-| APQC, PCF 7.2.1 | 7.0 Develop and Manage Human Capital, de 7.1 a 7.9 | Dos veces: 7.5.4 Administer payroll, en personas, y 9.5 Process payroll, en finanzas |
+| APQC, PCF 7.4 | 7.0 Develop and Manage Human Capital, de 7.1 a 7.8 (la 7.2.1 llegaba a 7.9) | Dos veces: 7.5.4 Administer payroll (10497), en personas, y 9.5 Process payroll (10732), en finanzas |
 | SHRM, BASK 2026 | Ocho competencias de comportamiento y una técnica, «HR Expertise», dividida en tres dominios (People, Organization y Workplace) y 14 áreas funcionales | Sin área propia: aparece como conocimiento contable «for managing payroll» en Total Rewards (People) y como función que se terceriza en Structure of the HR Function (Organization) |
 | Un ERP abierto | Personas en una aplicación aparte: selección, turnos y asistencia, licencias, gastos, desempeño, nómina, impuestos y beneficios | Junto con los impuestos sobre sueldos |
 | Otro ERP abierto | Una familia de RR. HH. que suma la flota de vehículos, el almuerzo y la recepción de visitas | Dentro de esa familia |
 
-APQC publica aparte el recorrido de la contratación a la baja (hire-to-retire); en esta base va a Procesos de negocio, tema todavía sin escribir. La numeración sale de una copia de terceros de la 7.2.1; la 7.4 y la 8.0 no se pudieron leer. Del BASK se leyó la edición 2026, que define Total Rewards como «the design and implementation of compensation systems and benefits packages». Su página de presentación todavía habla de nueve competencias de comportamiento, las de la edición de 2021; la de 2026 juntó dos en una («Inclusive Mindset»).
+APQC publica aparte el recorrido de la contratación a la baja (hire-to-retire); en esta base está en [de la contratación a la baja](../../Procesos-de-negocio/de-la-contratacion-a-la-baja.md), en Procesos de negocio. La numeración sale de la 7.4 (agosto de 2024), leída en una copia de la IFRC; el tema la tomó primero de una copia de terceros de la 7.2.1, que ponía la nómina en los mismos dos lugares. La 8.0 (2026) no se pudo leer. Del BASK se leyó la edición 2026, que define Total Rewards como «the design and implementation of compensation systems and benefits packages». Su página de presentación todavía habla de nueve competencias de comportamiento, las de la edición de 2021; la de 2026 juntó dos en una («Inclusive Mindset»).
 
 ## Administrar y decidir, en dos temas
 

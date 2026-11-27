@@ -61,6 +61,6 @@ Como lectura de esta base, sin fuente que lo documente:
 
 - **El caso se cierra al derivar.** La mesa de ayuda da el caso por resuelto y la visita queda en otro sistema; si la visita no resuelve, el cliente vuelve y entra como caso nuevo.
 - **La visita no trae lo que se sabía.** El técnico llega sin la descripción ni lo que ya se probó, y el cliente lo explica otra vez.
-- **Nadie mira las visitas que se repiten.** El mismo producto pide visitas una y otra vez, y eso es un problema de fondo que va a [problema y causa raíz](problema-y-causa-raiz.md) y, si es un defecto de fabricación, a la calidad del tema Producción, todavía no armado.
+- **Nadie mira las visitas que se repiten.** El mismo producto pide visitas una y otra vez, y eso es un problema de fondo que va a [problema y causa raíz](problema-y-causa-raiz.md) y, si es un defecto de fabricación, a la [calidad](../../Produccion/Calidad/calidad.md) del tema Producción, donde se abre una [no conformidad](../../Produccion/Calidad/no-conformidad.md).
 
 > [!NOTE] Sin fuente todavía: evidencia (norma, libro o estudio) sobre los datos que debe llevar una derivación al servicio de campo y sobre cómo falla el pase entre la mesa de ayuda y el técnico.

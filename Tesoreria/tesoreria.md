@@ -56,7 +56,7 @@ El límite con cada vecino sigue una regla: cada dominio es dueño de un objeto 
 - **Con el cliente.** El límite de crédito y la condición de pago se guardan en la [ficha del cliente](../Relacion-con-clientes/Registro-del-cliente/condiciones-comerciales.md); quién los fija y cómo se cobra es de acá.
 - **Con los pagos online.** Cuánto cuesta cobrar con tarjeta, con QR o con una billetera, y cómo funcionan los contracargos, está en [Pagos](../Comercio-electronico/Pagos/pagos.md), dentro de Comercio electrónico.
 - **Con la nómina.** Cuánto cobra cada empleado, su recibo y las cargas que se declaran son de [Administración de personal y nómina](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md); acá, que la plata esté en su cuenta el día que corresponde ([pago de sueldos](Pago-de-sueldos/pago-de-sueldos.md)).
-- **Con las compras y los impuestos.** Compras aprueba que la factura se deba; Impuestos dice qué se paga y cuándo vence. Los dos temas todavía no están escritos; acá llegan como pagos para programar.
+- **Con las compras y los impuestos.** [Compras](../Compras-y-abastecimiento/compras-y-abastecimiento.md) pide y recibe; la factura queda aprobada para pago en Contabilidad, en [cuentas a pagar](../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md), después del cruce de tres vías. [Impuestos](../Impuestos/impuestos.md) dice qué se paga y cuándo vence. Acá las dos cosas llegan como pagos para programar, y el recorrido entero está en [de la compra al pago](../Procesos-de-negocio/de-la-compra-al-pago.md).
 
 ## Qué leer según lo que estés haciendo
 
@@ -72,7 +72,7 @@ El límite con cada vecino sigue una regla: cada dominio es dueño de un objeto 
 - Si tenés que escribir las reglas de quién mueve la plata y dónde se coloca: [política de tesorería](politica-de-tesoreria.md) y [colocación de excedentes](Caja-y-liquidez/colocacion-de-excedentes.md).
 - Si la empresa opera en Argentina: [tesorería en Argentina](tesoreria-en-argentina.md), con los medios locales, el financiamiento pyme y dónde se pone la plata con inflación, y las [tasas de referencia](tasas-de-referencia-en-argentina.md) de una fecha.
 - Si tenés que pagar los sueldos (la cuenta, el archivo, cuándo tiene que estar la plata, el cambio de cuenta de un empleado): [pago de sueldos](Pago-de-sueldos/pago-de-sueldos.md), [cuentas y acreditación](Pago-de-sueldos/cuentas-y-acreditacion.md) y [fondeo y calendario](Pago-de-sueldos/fondeo-y-calendario.md); en Argentina, [pago de sueldos en Argentina](Pago-de-sueldos/pago-de-sueldos-en-argentina.md). Cuánto cobra cada uno es de la [liquidación de sueldos](../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md), y el recorrido entero, de [de la contratación a la baja](../Procesos-de-negocio/de-la-contratacion-a-la-baja.md).
-- Si tenés que pagar impuestos: qué se paga y cuándo vence es del tema [Impuestos](../Impuestos/impuestos.md); acá entran como salidas en la [proyección de caja](Caja-y-liquidez/proyeccion-de-caja.md) y la [programación de pagos](Pagos-a-proveedores/programacion-de-pagos.md).
+- Si tenés que pagar impuestos: cómo se declara y se paga está en [declaración y pago](../Impuestos/Cumplimiento/declaracion-y-pago.md), en Impuestos; acá entran como salidas en la [proyección de caja](Caja-y-liquidez/proyeccion-de-caja.md) y la [programación de pagos](Pagos-a-proveedores/programacion-de-pagos.md).
 
 ## Orden de lectura
 

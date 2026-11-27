@@ -6,13 +6,14 @@ escuela: neutral; el núcleo sigue la división de los manuales de administraci�
 fuera:
   - las decisiones de una vez al empezar una empresa (qué forma legal, inscribirse, elegir el monotributo), que se quedan en Emprender/Legal-e-impuestos; acá va lo recurrente (recategorizar, liquidar, declarar)
   - cómo se registra un impuesto en la contabilidad (las cuentas de IVA débito y crédito, la provisión de Ganancias, el impuesto diferido), que es del tema Contabilidad
-  - la liquidación de sueldos, los aportes y las contribuciones a la seguridad social, que van al tema Administración de personal y nómina (todavía no armado); acá solo el empleador como agente de retención
-  - la aduana como trámite y la logística del comercio exterior, que van al tema Cadena de suministro y logística (todavía no armado); acá solo lo que el comercio exterior paga y cómo se factura
-  - pagar los impuestos y manejar la caja que piden, que es del tema Tesorería y finanzas de la empresa en marcha (todavía no armado); acá cuánto y cuándo
-  - el recorrido de cierre entre áreas, que es del tema Procesos de negocio (todavía no armado), en «del registro al balance»
+  - la liquidación de sueldos, los aportes y las contribuciones a la seguridad social, que van al tema Administración de personal y nómina; acá solo el empleador como agente de retención
+  - la aduana como trámite y la logística del comercio exterior, que van al tema Cadena de suministro y logística; acá solo lo que el comercio exterior paga y cómo se factura
+  - pagar los impuestos y manejar la caja que piden, que es del tema Tesorería y finanzas de la empresa en marcha; acá cuánto y cuándo
+  - el recorrido de cierre entre áreas, que es del tema Procesos de negocio, en «del registro al balance»
   - cómo lo resuelve un software (la alícuota como dato con vigencia, el motor de impuestos, la conexión con el fisco), que va al tema Software de gestión; la factura electrónica de ARCA como implementación ya está en Comercio-electronico/Normativa
   - la planificación fiscal agresiva, la fiscalidad internacional de grupos (precios de transferencia, BEPS) y el derecho tributario procesal como profesión
-  - los impuestos de las personas que no son una empresa (Bienes Personales, Ganancias de un empleado), salvo como mención
+  - Bienes Personales y la retención de Ganancias al empleado (esta va en Administración de personal y nómina); el impuesto a la renta de personas sí entra desde la ampliación de #172, para quien factura a su nombre o tiene rentas
+  - la inscripción en ARCA, los aportes de autónomo y el SIPA al arrancar, que son de Emprender
 fuentes: []
 preguntas:
   - "Estoy diseñando la factura de un sistema: ¿qué impuestos lleva cada renglón, de qué depende la alícuota y qué pasa con un descuento o una nota de crédito?"
@@ -21,6 +22,8 @@ preguntas:
   - "¿Qué tiene que hacer una empresa todos los meses para estar al día con el fisco, y qué pasa si se atrasa?"
   - "Tengo un monotributo y facturé más: ¿cuándo tengo que recategorizarme y qué pasa si me paso del tope?"
   - "Vendo a clientes de varias provincias: ¿cómo se reparte Ingresos Brutos y qué son SIRCREB y SIRTAC?"
+  - "Soy profesional, facturo a mi nombre en el régimen general: ¿en qué categoría de Ganancias estoy, qué puedo deducir, qué escala pago y cuándo declaro y adelanto?"
+  - "Me llegó una factura A con la leyenda «OPERACIÓN SUJETA A RETENCIÓN»: ¿cuánto retengo, cuándo, cómo lo deposito y qué pasa si no lo hago? ¿Y si ARCA me marcó a mí?"
 aprobado: 2026-11-27
 ---
 
@@ -48,17 +51,20 @@ Impuestos/
     iva                             débito y crédito fiscal, exento frente a tasa cero, prorrata, saldo a favor
     impuesto-a-las-ventas           el impuesto a la venta final y el que se cobra en cada etapa (en cascada)
     lugar-de-la-operacion           origen o destino: importaciones, exportaciones y servicios digitales
-    iva-en-argentina                alícuotas, crédito fiscal y prorrata, saldos, IVA Simple (que reemplazó al libro IVA digital)
+    iva-en-argentina                alícuotas, crédito fiscal y prorrata, saldos, IVA Simple de los inscriptos y el Libro de IVA Digital de los exentos
     ingresos-brutos                 el impuesto provincial sobre lo facturado, el convenio multilateral y el monotributo unificado
   Impuestos-a-la-renta/           los que gravan la ganancia
     impuestos-a-la-renta            entrada: sociedades y personas, residencia y renta de fuente, anticipos
     resultado-impositivo            del resultado contable al impositivo: ajustes, diferencias permanentes y temporarias, quebrantos
+    impuesto-a-la-renta-de-personas el de cada individuo: global, cedular o mixto, unidad, mínimo, deducciones, escala, quién declara (#172)
     ganancias-en-argentina          Ganancias de sociedades: alícuotas, anticipos, ajuste por inflación impositivo
+    ganancias-de-personas-humanas-en-argentina  categorías, cedular, art. 30, escala del art. 94, declaración, simplificada y anticipos (#172)
   Recaudacion-en-la-fuente/       cuando un tercero cobra el impuesto por adelantado
     recaudacion-en-la-fuente        entrada: retención y percepción, por qué existen
     agente-de-recaudacion           lo que hace quien retiene o percibe: padrones, cálculo, certificado, depósito
     pagos-a-cuenta                  lo que hace quien sufre la retención: computarla, acumular saldo a favor, pedir la exclusión
     retenciones-y-percepciones-en-argentina  regímenes de IVA, Ganancias e Ingresos Brutos, SIRCREB, SIRTAC y certificados
+    factura-a-con-leyenda-en-argentina       la retención de la A con «OPERACIÓN SUJETA A RETENCIÓN» (RG 5762, con las RG 830 y 2226) (#172)
   Cumplimiento/                   lo que la empresa hace cada período para estar al día
     cumplimiento                    entrada: el ciclo de facturar, registrar, liquidar, declarar y pagar
     comprobante-fiscal              qué lleva una factura, numeración, nota de crédito y los modelos de factura electrónica
@@ -79,15 +85,15 @@ Regla del mapa (#98): cada dominio es dueño de un objeto y un verbo; un saber v
 
 | Vecino | Impuestos es dueño de | El vecino es dueño de | Ejemplo de frontera |
 |---|---|---|---|
-| `Emprender/Legal-e-impuestos` | lo recurrente: recategorizar, liquidar, declarar, retener | las decisiones de una vez: forma legal, inscripción, elegir el monotributo | elegir el monotributo es de Emprender; recategorizarse en febrero, de acá |
-| Contabilidad | qué se paga, sobre qué base, cuándo y cómo se declara | el asiento del impuesto (IVA débito y crédito, provisión de Ganancias, impuesto diferido) | la alícuota del IVA es de acá; la cuenta «IVA crédito fiscal», de Contabilidad |
-| Tesorería y finanzas de la empresa en marcha | cuánto se debe y cuándo vence | el pago, la caja para pagarlo y el plan de pagos como financiamiento | el vencimiento del IVA es de acá; tener la plata ese día, de Tesorería |
-| Administración de personal y nómina | el empleador como agente de retención del impuesto a la renta del empleado | la liquidación de sueldos, aportes y contribuciones | la retención de Ganancias sobre el sueldo se explica acá como régimen; su cálculo en el recibo, allá |
-| Relación con clientes | qué impuesto lleva cada renglón y qué condición fiscal del cliente lo decide | el presupuesto y el pedido, con el dato fiscal en la ficha del cliente | la condición frente al IVA se guarda en la ficha (allá); qué cambia en la factura, acá |
-| Cadena de suministro y logística | el impuesto que paga una importación o una exportación | el trámite de aduana, el despacho y el transporte | el derecho de exportación es de acá; la destinación aduanera, de Cadena |
-| Comercio electrónico | el impuesto y el régimen en general | cómo los aplica una tienda online (factura electrónica de ARCA, SIRTAC sobre los cobros, percepciones en la venta B2B) | SIRTAC se explica acá como régimen; su efecto en el cobro de una tienda, allá |
-| Procesos de negocio | cómo se determina y se declara cada impuesto | el recorrido entero (del pedido al cobro, de la compra al pago, del registro al balance) | el calendario del cierre es del proceso; la declaración jurada, de acá |
-| Software de gestión | el saber tributario, que existe sin software | la alícuota como dato con vigencia, el motor de impuestos y la conexión con el fisco como columnas técnicas | la diferencia entre retención y percepción se explica acá; cómo se modela en una base, allá |
+| [Emprender/Legal-e-impuestos](../Emprender/Legal-e-impuestos/legal-e-impuestos.md) | lo recurrente: recategorizar, liquidar, declarar, retener | las decisiones de una vez: forma legal, inscripción, elegir el monotributo | elegir el monotributo es de Emprender; recategorizarse en febrero, de acá |
+| [Contabilidad](../Contabilidad/contabilidad.md) | qué se paga, sobre qué base, cuándo y cómo se declara | el asiento del impuesto (IVA débito y crédito, provisión de Ganancias, impuesto diferido) | la alícuota del IVA es de acá; la cuenta «IVA crédito fiscal», de Contabilidad |
+| [Tesorería y finanzas de la empresa en marcha](../Tesoreria/tesoreria.md) | cuánto se debe y cuándo vence | el pago, la caja para pagarlo y el plan de pagos como financiamiento | el vencimiento del IVA es de acá; tener la plata ese día, de Tesorería |
+| [Administración de personal y nómina](../Administracion-de-personal-y-nomina/administracion-de-personal-y-nomina.md) | el empleador como agente de retención del impuesto a la renta del empleado | la liquidación de sueldos, aportes y contribuciones | la retención de Ganancias sobre el sueldo se explica acá como régimen; su cálculo en el recibo, allá |
+| [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) | qué impuesto lleva cada renglón y qué condición fiscal del cliente lo decide | el presupuesto y el pedido, con el dato fiscal en la ficha del cliente | la condición frente al IVA se guarda en la ficha (allá); qué cambia en la factura, acá |
+| [Cadena de suministro y logística](../Cadena-de-suministro-y-logistica/cadena-de-suministro-y-logistica.md) | el impuesto que paga una importación o una exportación | el trámite de aduana, el despacho y el transporte | el derecho de exportación es de acá; la destinación aduanera, de Cadena |
+| [Comercio electrónico](../Comercio-electronico/comercio-electronico.md) | el impuesto y el régimen en general | cómo los aplica una tienda online (factura electrónica de ARCA, SIRTAC sobre los cobros, percepciones en la venta B2B) | SIRTAC se explica acá como régimen; su efecto en el cobro de una tienda, allá |
+| [Procesos de negocio](../Procesos-de-negocio/procesos-de-negocio.md) | cómo se determina y se declara cada impuesto | el recorrido entero (del pedido al cobro, de la compra al pago, del registro al balance) | el calendario del cierre es del proceso; la declaración jurada, de acá |
+| [Software de gestión](../Software-de-gestion/software-de-gestion.md) | el saber tributario, que existe sin software | la alícuota como dato con vigencia, el motor de impuestos y la conexión con el fisco como columnas técnicas | la diferencia entre retención y percepción se explica acá; cómo se modela en una base, allá |
 
 ## Supuestos
 
@@ -96,5 +102,6 @@ Regla del mapa (#98): cada dominio es dueño de un objeto y un verbo; un saber v
 - **Ingresos Brutos va en Impuestos al consumo**, porque grava lo facturado sin crédito por lo comprado, que es la definición de impuesto en cascada (Keen, FMI WP/13/57); que sea un impuesto en cascada es lectura de la base, sin un informe de organismo que lo diga de Ingresos Brutos en particular.
 - **El régimen simplificado va en Obligación tributaria** y no en Impuestos a la renta: reemplaza a varios impuestos a la vez (en Argentina, IVA, Ganancias y aportes), así que es una forma de la obligación y no un impuesto más.
 - **Comercio exterior** tiene una sola nota, la de Argentina; lo agnóstico (cómo tributa una importación o una exportación) va en `lugar-de-la-operacion`, y la aduana como trámite, a Cadena de suministro.
-- **Lo de Argentina, en siete notas**: el mapa (`impuestos-en-argentina`), `comercio-exterior-en-argentina`, `monotributo-en-marcha`, `iva-en-argentina`, `ingresos-brutos`, `ganancias-en-argentina` y `retenciones-y-percepciones-en-argentina`. Son dinero y ley: no reemplazan a un contador.
-- **Pendientes para otra sesión**: cuando existan Tesorería, Administración de personal y nómina, Cadena de suministro y Procesos de negocio, sus enlaces se suman a las notas de acá (hoy quedan como texto plano); `Emprender/Legal-e-impuestos` pasa a enlazar `monotributo-en-marcha` e `ingresos-brutos` en la sesión 16 (#101), y `Contabilidad/contabilidad.md` puede enlazar este tema en lugar de decir «todavía no escrito».
+- **Lo de Argentina, en nueve notas**: el mapa (`impuestos-en-argentina`), `comercio-exterior-en-argentina`, `monotributo-en-marcha`, `iva-en-argentina`, `ingresos-brutos`, `ganancias-en-argentina`, `ganancias-de-personas-humanas-en-argentina`, `retenciones-y-percepciones-en-argentina` y `factura-a-con-leyenda-en-argentina`. Son dinero y ley: no reemplazan a un contador.
+- **Pendientes para otra sesión**: cuando existan Tesorería, Administración de personal y nómina, Cadena de suministro y Procesos de negocio, sus enlaces se suman a las notas de acá (hoy quedan como texto plano); `Emprender/Legal-e-impuestos` pasa a enlazar `monotributo-en-marcha` e `ingresos-brutos` en la sesión 16 (#101), y `Contabilidad/contabilidad.md` puede enlazar este tema en lugar de decir «todavía no escrito». Lo de este tema se resolvió en la sesión 16 (#123): las notas enlazan a Tesorería, Administración de personal y nómina, Cadena de suministro y logística, Procesos de negocio y Software de gestión. Ninguna nota de Software de gestión trata el motor que calcula el impuesto de cada renglón, y eso queda dicho como hueco.
+- **Ampliación de #172 (para revisar en su PR)**: el impuesto a la renta de personas entra como componente de Impuestos a la renta, con su nota argentina, porque la persona que factura en el régimen general es contribuyente del tema y no un empleado. La retención sobre la factura A con leyenda va en Recaudación en la fuente, y su idea general (retener por la calificación del emisor) como sección de la entrada de esa vertical, comparada con la inversión del sujeto pasivo y el pago fraccionado de la UE. La inscripción, los autónomos y el SIPA quedan en Emprender.

@@ -17,7 +17,7 @@ revisado: 2026-11-27
 
 La preparación de pedidos (picking) es sacar de sus ubicaciones las unidades que pide cada pedido, juntarlas, embalarlas y controlarlas hasta dejarlas listas en la puerta de salida. Es la tarea más cara del depósito y casi todo su tiempo es caminar, por eso se organiza por pedido, por lote, por zona o por ola según cuánto se ahorra de caminata.
 
-Es el último paso de [Operación del depósito](operacion-del-deposito.md). Empieza con un pedido que ya tiene su [reserva](reserva.md) y termina cuando el bulto está registrado como listo para salir. Desde ahí, el despacho y el transporte son de Cadena de suministro y logística, todavía no armado. APQC 7.4 junta las tres cosas en 4.4.3.4 «Pick, pack, and ship product for delivery»; la base corta en la puerta.
+Es el último paso de [Operación del depósito](operacion-del-deposito.md). Empieza con un pedido que ya tiene su [reserva](reserva.md) y termina cuando el bulto está registrado como listo para salir. Desde ahí, el despacho y el transporte son de Cadena de suministro y logística, en [despacho](../../Cadena-de-suministro-y-logistica/Despacho-y-entrega/despacho.md) y [Transporte](../../Cadena-de-suministro-y-logistica/Transporte/transporte.md). APQC 7.4 junta las tres cosas en 4.4.3.4 «Pick, pack, and ship product for delivery»; la base corta en la puerta.
 
 ## El picking es la mayor parte del costo
 

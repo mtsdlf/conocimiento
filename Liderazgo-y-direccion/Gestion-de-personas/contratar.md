@@ -75,4 +75,6 @@ Del lado de los practicantes, una referencia habitual es el libro de Horowitz (2
 
 Se sostuvo el orden general: los métodos estructurados y basados en el contenido del puesto siguen arriba, y la experiencia y los rasgos de personalidad sueltos siguen abajo. Según el abstract, la mayoría de las cifras se achicaron entre .10 y .20 puntos; el biodata subió de .35 a .38. Cayeron dos ideas: que la capacidad cognitiva es el mejor predictor y que una entrevista libre vale casi como una estructurada. Sigue en disputa cuánto corregir y qué lugar le queda a la capacidad cognitiva.
 
+La búsqueda y los postulantes como registro, y el alta de quien entra, son de Administración de personal y nómina: [búsquedas y postulantes](../../Administracion-de-personal-y-nomina/Legajo/busquedas-y-postulantes.md) e [ingreso y egreso](../../Administracion-de-personal-y-nomina/Legajo/ingreso-y-egreso.md).
+
 Para leer la fuente: la tabla 3 de Sackett y colegas (2022). Conviene fijarse en tres columnas: la validez (ρ), el intervalo de credibilidad, que muestra la dispersión, y la diferencia entre grupos.

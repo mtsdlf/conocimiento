@@ -41,7 +41,7 @@ De la tabla, la documentación de código abierto respalda los saldos contables,
 
 La documentación citada usa una cuenta transitoria de apertura: cada saldo entra contra ella, y al terminar la carga tiene que quedar en cero. Si no da cero, algo entró de más o de menos. Pide además los saldos de clientes y proveedores como facturas abiertas «where future settlement and ageing matter».
 
-Dejar la historia afuera tiene un costo para quien consulta. En el comercio argentino, el fabricante de un sistema de gestión avisa que al migrar no se cargan datos históricos como ventas o cuentas corrientes, solo maestros y stock ([sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md#cómo-se-elige-y-cómo-falla)). Un análisis de varios años que cruce el antes y el después del corte tiene que juntar dos fuentes, y eso es trabajo de [Visualización y BI](../../Datos/Visualizacion-y-BI/visualizacion-y-bi.md).
+Dejar la historia afuera tiene un costo para quien consulta. En el comercio argentino, el fabricante de un sistema de gestión avisa que al migrar no se cargan datos históricos como ventas o cuentas corrientes, solo maestros y stock ([sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md#cómo-se-elige-y-cómo-falla)). Un análisis de varios años que cruce el antes y el después del corte tiene que juntar dos fuentes, y eso es trabajo de [Visualización y BI](../../Datos/Visualizacion-y-BI/visualizacion-y-bi.md).
 
 ## Limpiar antes de cargar
 

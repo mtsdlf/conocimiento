@@ -60,7 +60,7 @@ Para la empresa que vende, cualquier impuesto al consumo sigue el mismo recorrid
 3. Lo registra en los [registros fiscales](../Cumplimiento/registros-fiscales.md), con el de sus compras si el impuesto da crédito.
 4. Liquida el período, resta lo que ya le cobraron por adelantado ([pagos a cuenta](../Recaudacion-en-la-fuente/pagos-a-cuenta.md)) y [declara y paga](../Cumplimiento/declaracion-y-pago.md).
 
-Cómo se registra en la contabilidad (las cuentas de impuesto a pagar y a recuperar) es del tema [Contabilidad](../../Contabilidad/contabilidad.md). Cómo lo calcula un sistema, renglón por renglón y con la alícuota vigente a la fecha, es del tema Software de gestión, todavía no escrito.
+Cómo se registra en la contabilidad (las cuentas de impuesto a pagar y a recuperar) es del tema [Contabilidad](../../Contabilidad/contabilidad.md). Que un sistema tome la alícuota vigente a la fecha del hecho y no la de hoy está en [fechas, vigencias y cierre](../../Software-de-gestion/Columnas-tecnicas/fechas-vigencias-y-cierre.md#vigencias-datos-que-valen-desde-y-hasta); el cálculo renglón por renglón no tiene nota en Software de gestión.
 
 ## Fallas frecuentes
 

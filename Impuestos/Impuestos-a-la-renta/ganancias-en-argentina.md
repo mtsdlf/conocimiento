@@ -37,7 +37,7 @@ Implementa para la Argentina lo que explican [impuestos a la renta](impuestos-a-
 
 Según el artículo 73 y la página de ARCA, entran las sociedades anónimas (incluidas las unipersonales), las sociedades por acciones simplificadas (SAS), las SRL, las comanditas, las asociaciones, fundaciones, cooperativas, entidades civiles y mutualistas, los fideicomisos constituidos en el país (con excepciones) y algunos fondos comunes de inversión. Otras sociedades y fideicomisos pueden optar por tributar como persona jurídica si llevan registraciones contables que permitan armar balances comerciales; la opción se mantiene por 5 períodos fiscales (página de ARCA).
 
-La persona humana paga en su propio impuesto, con otra escala, o en el monotributo ([monotributo en marcha](../Obligacion-tributaria/monotributo-en-marcha.md)), y queda fuera de esta nota. La Ley 27.799, publicada el 2 de enero de 2026, permite a ARCA implementar una declaración jurada simplificada para personas humanas (art. 38).
+La persona humana paga en su propio impuesto, con otra escala ([Ganancias de personas humanas en Argentina](ganancias-de-personas-humanas-en-argentina.md)), o en el monotributo ([monotributo en marcha](../Obligacion-tributaria/monotributo-en-marcha.md)), y queda fuera de esta nota. La Ley 27.799, publicada el 2 de enero de 2026, permite a ARCA implementar una declaración jurada simplificada para personas humanas (art. 38).
 
 Las sociedades residentes pagan por su renta mundial. El artículo 1 dice que tributan «sobre la totalidad de sus ganancias obtenidas en el país o en el exterior», y pueden computar lo pagado afuera por impuestos análogos, con un tope.
 
