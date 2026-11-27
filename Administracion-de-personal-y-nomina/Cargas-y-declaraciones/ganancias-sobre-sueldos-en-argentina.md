@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la Argentina, el empleador retiene cada mes el impuesto a las ganancias de cuarta categoría de sus empleados, con las deducciones que cada uno le informa en el formulario 572 web por el sistema SiRADIG, y al cerrar el año practica una liquidación anual por persona y la presenta en el formulario 1359. Los montos de las deducciones se actualizan por inflación en enero y julio, y ARCA los publica por semestre.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-laboral.md (estado judicial de la Ley 27.802, 2026-11-27)"
@@ -20,7 +20,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-cargas.md, punto 6 (2026-11-27)"
 aliases: [Ganancias sobre sueldos, impuesto a las ganancias cuarta categoría, cuarta categoría, Impuesto a los Ingresos Personales, retención de Ganancias, RG 4003, F.572, formulario 572 web, SiRADIG, F.1359, formulario 1359, F.1357, liquidación anual de Ganancias, deducciones personales, art. 30, ganancia no imponible, deducción especial]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ganancias sobre sueldos en la Argentina

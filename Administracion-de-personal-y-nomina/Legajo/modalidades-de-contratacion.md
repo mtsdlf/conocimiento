@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La modalidad de contratación es la forma del vínculo con quien trabaja: por tiempo indeterminado, a plazo fijo, eventual o a tiempo parcial, con o sin período de prueba, y antes de todo eso, si es un empleado o un trabajador independiente. Se registra en el legajo con su vigencia porque define qué se liquida, qué se declara y qué se debe al terminar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OIT, Recomendación sobre la relación de trabajo, 2006 (núm. 198), párr. 13, citado en el servicio de ayuda de la OIT: https://www.ilo.org/ilo-helpdesk-questions-and-answers-business-and-employment-security"
@@ -14,7 +14,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md, componente 1"
 aliases: [tipo de contrato, modalidad contractual, contrato por tiempo indeterminado, contrato a plazo fijo, contrato eventual, tiempo parcial, período de prueba, empleado o independiente, relación de dependencia, clasificación del trabajador, employment contract type, fixed-term contract, part-time, probation period, worker classification, misclassification, independent contractor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modalidades de contratación

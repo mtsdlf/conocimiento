@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tiempo y asistencia registra cuánto trabajó y cuánto faltó cada empleado en el período de liquidación: el turno que tenía que cumplir, lo que marcó, las horas extra y las licencias. De acá salen novedades, que la liquidación convierte en conceptos del recibo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Odoo 18.0, Attendances (documentación de producto, como evidencia de práctica): https://www.odoo.com/documentation/18.0/applications/hr/attendances.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/legajo-y-tiempo.md (2026-11-27)"
 aliases: [tiempo y asistencia, control de asistencia, control horario, gestión del tiempo, time and attendance, T&A, workforce management, ausentismo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tiempo y asistencia

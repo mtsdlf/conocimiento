@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El recibo de sueldo es el comprobante que el empleador le entrega al empleado en cada pago, con el detalle de lo que liquidó en el período: cada concepto con su base y su monto, el bruto, las deducciones y el neto. Con él, el empleado controla su sueldo y el empleador prueba qué pagó.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), arts. 14 y 15 (copia de la Universidad de Minnesota): https://hrlibrary.umn.edu/instree/ilo95.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-huecos.md (2026-11-27)"
 aliases: [recibo de haberes, recibo de sueldo, boleta de pago, colilla de pago, nómina (documento), payslip, pay stub, pay slip, recibo digital]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recibo de sueldo

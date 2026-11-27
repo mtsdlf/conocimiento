@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cargas y declaraciones es lo que el empleador les debe a terceros por cada nómina y cómo lo informa: los aportes que retiene al empleado, las contribuciones que paga por su cuenta, la retención del impuesto sobre el sueldo y el seguro de accidentes, más la declaración periódica que le dice al fisco y a la seguridad social qué se pagó a quién.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "GOV.UK, Running payroll (ejemplo de país, según un extracto): https://www.gov.uk/running-payroll"
@@ -12,7 +12,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-cargas-y-fundamentos.md (2026-11-27)"
 aliases: [cargas sociales, cargas y declaraciones, obligaciones del empleador, payroll taxes, employment taxes, payroll reporting, declaración de nómina, cargas patronales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cargas y declaraciones

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La retención de impuestos sobre sueldos es el descuento que hace el empleador, en cada pago, del impuesto sobre la renta que le corresponde al empleado, para depositarlo al fisco a nombre de él. El empleador actúa como agente de retención y cobra por cuenta del fisco un impuesto que no es suyo, con los datos que le declara el empleado y un ajuste al cerrar el año.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IRS, Publication 15 (Circular E), Employer's Tax Guide, 2026, PDF completo, sección 7 y calendario (ejemplo de país; una sola fuente para las alícuotas): https://www.irs.gov/pub/irs-pdf/p15.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-cargas.md (2026-11-27)"
 aliases: [retención, retención de ganancias, retención en la fuente, agente de retención, income tax withholding, withholding tax, PAYE, pay as you earn, impuesto sobre el sueldo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Retención de impuestos sobre sueldos

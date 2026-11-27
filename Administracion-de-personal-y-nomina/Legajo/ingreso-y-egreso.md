@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El ingreso y el egreso son el alta y la baja administrativas de una persona: abrir su legajo, darla de alta ante la seguridad social y prepararla para cobrar, y al final darla de baja, liquidar lo que se le debe y entregarle sus constancias. La primera vez que una empresa contrata, el alta incluye además hacerse empleador.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "GOV.UK, Right to work checks: an employer's guide, página de presentación: https://www.gov.uk/government/publications/right-to-work-checks-employers-guide"
@@ -14,7 +14,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md, componente 1 y «La primera contratación»"
 aliases: [alta del empleado, baja del empleado, ingreso de personal, egreso de personal, alta temprana, hacerse empleador, primera contratación, primer empleado, onboarding administrativo, offboarding, new hire setup, termination processing, becoming an employer]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ingreso y egreso

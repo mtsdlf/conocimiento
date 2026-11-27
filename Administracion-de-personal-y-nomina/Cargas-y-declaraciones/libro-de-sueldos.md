@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El libro de sueldos es el registro obligatorio de lo que el empleador pagó a cada empleado en cada período de liquidación: quién cobró, cuánto, por qué conceptos y qué se le retuvo. Como criterio de esta base, sirve de prueba ante el empleado, el fisco y la inspección del trabajo y se guarda durante años. Como inferencia sobre los ejemplos leídos, en varios países la declaración periódica al fisco pasó a cumplir esa función.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), art. 15 (copia de la Universidad de Minnesota): https://hrlibrary.umn.edu/instree/ilo95.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md (2026-11-27)"
 aliases: [libro de sueldos, libro de sueldos y jornales, libro especial, registro de nómina, payroll register, payroll records, employment records, conservación de registros de nómina]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Libro de sueldos

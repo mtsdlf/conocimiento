@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un concepto de liquidación es cada línea del cálculo del sueldo: un haber que suma (el básico, una hora extra, un adicional) o una deducción que resta (un aporte, una retención, un embargo), con su regla de cálculo, su base y su lugar en el orden. El sueldo de cada empleado es la suma de sus conceptos, del bruto al neto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), arts. 1, 8 y 10 (copia de la Universidad de Minnesota): https://hrlibrary.umn.edu/instree/ilo95.html"
@@ -20,7 +20,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-huecos.md (2026-11-27)"
 aliases: [concepto de liquidación, conceptos de nómina, haberes, deducciones, componente salarial, salary component, earnings and deductions, pay element, bruto a neto, gross to net, neto a bruto, grossing up, gross-up, remunerativo, no remunerativo, proporcional por días, embargo, garnishment]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conceptos de liquidación

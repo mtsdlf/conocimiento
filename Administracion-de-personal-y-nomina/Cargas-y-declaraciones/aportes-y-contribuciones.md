@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los aportes son lo que se le retiene al empleado de su sueldo para la seguridad social, y las contribuciones son lo que el empleador paga por su cuenta sobre ese mismo sueldo. Los dos se calculan como un porcentaje de una base, que la ley puede limitar con un tope, y conviven con otras cargas del empleador como el seguro de accidentes de trabajo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IRS, Publication 15 (Circular E), Employer's Tax Guide, 2026 (ejemplo de país; una sola fuente para las cifras): https://www.irs.gov/publications/p15"
@@ -14,7 +14,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-huecos.md (2026-11-27)"
 aliases: [aportes, contribuciones, aportes personales, contribuciones patronales, cargas patronales, cotizaciones, employee contributions, employer contributions, social security contributions, payroll taxes, FICA, base imponible, tope de aportes, wage base limit]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aportes y contribuciones

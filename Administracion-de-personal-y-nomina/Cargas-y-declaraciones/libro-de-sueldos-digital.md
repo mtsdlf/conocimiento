@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El Libro de Sueldos Digital es el sistema de ARCA donde el empleador carga cada liquidación, con sus conceptos asociados a una grilla común, y de donde salen a la vez el libro de sueldos del art. 52 de la LCT y la declaración mensual de cargas (formulario 931). Lo hicieron obligatorio las RG 5249/2022 y 5250/2022, en forma progresiva. En 2026 la Ley 27.802 reemplazó el art. 52 por la registración ante ARCA y el Decreto 407/2026 dejó de exigir libros laborales, pero al 27 de noviembre ARCA no cambió las resoluciones del sistema, que sigue siendo el camino del formulario 931.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-laboral.md (estado judicial de la Ley 27.802, 2026-11-27)"
@@ -32,7 +32,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md, componente 1 (2026-11-27)"
 aliases: [Libro de Sueldos Digital, LSD, libro especial del art. 52, art. 52 LCT, libro de sueldos y jornales, rúbrica del libro, hojas móviles, RG 5249, RG 5250, RG 3781, Digesto Resumen, F.8351, grilla universal de conceptos, Concepto ARCA]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Libro de sueldos digital

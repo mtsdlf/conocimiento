@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos del tema Administración de personal y nómina, cada uno con su nombre en inglés, una definición de una línea y la nota que lo explica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -13,7 +13,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/ (cuatro informes, 2026-11-27)"
 aliases: [glosario de nómina, glosario de RR. HH., términos de liquidación de sueldos, payroll glossary, HR glossary]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de administración de personal

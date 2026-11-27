@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La jornada es el tiempo que un empleado está a disposición del empleador, con un límite que fija cada país. El turno reparte esa jornada en días y horarios concretos. Lo que excede el límite son horas extra, que se pagan con un recargo o se compensan con tiempo libre en un banco de horas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "GOV.UK, Maximum weekly working hours: https://www.gov.uk/maximum-weekly-working-hours"
@@ -11,7 +11,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/legajo-y-tiempo.md (2026-11-27)"
 aliases: [jornada de trabajo, jornada laboral, horario, turno, turnos rotativos, horas extra, horas extraordinarias, recargo, banco de horas, compensación de horas, francos compensatorios, working time, shift, overtime, time bank, time off in lieu, TOIL]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Jornada y turnos

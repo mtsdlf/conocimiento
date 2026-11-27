@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La Ley de Contrato de Trabajo argentina fija sobre el tiempo de trabajo la jornada y su descanso, el recargo de las horas extra, el banco de horas que agregó la Ley 27.802, las vacaciones por antigüedad y cuándo se otorgan, las licencias especiales, la enfermedad inculpable, la maternidad y los feriados.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley de Contrato de Trabajo 20.744, texto actualizado con la Ley 27.802, InfoLEG (arts. 92 ter, 150 a 170, 177, 196 a 210): https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/texact.htm"
@@ -15,7 +15,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md (2026-11-27)"
 aliases: [jornada legal argentina, Ley 11.544, horas extra en Argentina, recargo del 50 y del 100, banco de horas Ley 27.802, art. 197 bis, vacaciones por antigüedad, art. 150 LCT, art. 154 LCT, fraccionamiento de vacaciones, licencias especiales, art. 158 LCT, enfermedad inculpable, art. 208 LCT, licencia por maternidad, art. 177 LCT, feriados nacionales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Jornada y licencias en la Argentina

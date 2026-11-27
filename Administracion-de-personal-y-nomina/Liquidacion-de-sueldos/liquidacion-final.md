@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La liquidación final es la que se hace cuando termina la relación laboral. Paga lo trabajado y no cobrado hasta el último día, la parte proporcional de los conceptos que se devengan por período, las vacaciones no gozadas y, según el motivo de la salida, el preaviso y la indemnización. También descuenta lo que el empleado deba.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), art. 12 (copia de la Universidad de Minnesota): https://hrlibrary.umn.edu/instree/ilo95.html"
@@ -16,7 +16,7 @@ fuentes:
   - "Estado judicial de la Ley 27.802: Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-laboral.md (prensa y estudios jurídicos, 27/11/2026)"
 aliases: [liquidación final, liquidación por baja, liquidación por egreso, finiquito, final pay, final settlement, termination pay, vacaciones no gozadas, indemnización por despido, severance pay]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Liquidación final

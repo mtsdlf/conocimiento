@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una licencia es una ausencia autorizada, con o sin goce de sueldo, que el empleado pide y alguien aprueba. Las vacaciones son la licencia que se gana con el tiempo trabajado. Cada tipo de licencia tiene sus reglas, un saldo que se asigna por período y se descuenta al aprobar, y un efecto en la liquidación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ERPNext, Leave Application (documentación de producto, como evidencia de práctica): https://docs.frappe.io/erpnext/user/manual/en/leave-application"
@@ -12,7 +12,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/legajo-y-tiempo.md (2026-11-27)"
 aliases: [licencia, licencias, ausencias, vacaciones, licencia paga, licencia sin goce, saldo de vacaciones, devengamiento de vacaciones, leave, time off, absence management, paid time off, PTO, annual leave, leave balance, leave accrual, vacaciones ilimitadas, unlimited PTO]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Licencias y ausencias

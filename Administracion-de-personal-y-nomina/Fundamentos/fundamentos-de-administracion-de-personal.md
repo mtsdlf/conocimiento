@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal de la administración de personal y nómina: el origen de la nómina, una de las primeras tareas automatizadas; cómo dividen el dominio marcos y productos; por qué este tema separa administrar de decidir; dos fracasos públicos de sistemas de nómina, y las posiciones contrarias, cada punto con su nota.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, LEO (computer) (terciaria, cita a Bird, 1994): https://en.wikipedia.org/wiki/LEO_(computer)"
@@ -30,7 +30,7 @@ fuentes:
   - "Investigación de taxonomías del mapa, issue #96, rama research/taxonomias-externas (2026-11-27)"
 aliases: [fundamentos de administración de personal, fundamentos de nómina, historia de la nómina, history of payroll, HRIS, HRMS, HCM, fracasos de nómina, payroll failures, mitos de la nómina]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de administración de personal

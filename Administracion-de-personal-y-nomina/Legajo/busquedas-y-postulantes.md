@@ -1,14 +1,14 @@
 ---
 resumen: >-
   La búsqueda es el registro de un puesto que se quiere cubrir, y el postulante es el registro de cada persona que se presenta a ella, con su estado en el proceso. Los dos existen antes del legajo: cuando la empresa contrata a alguien, su registro de postulante da origen al legajo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/legajo-y-tiempo.md, componente A5 (sin fuentes leídas)"
   - "Datos/Gobierno-y-calidad/privacidad-de-datos-personales.md (arts. 4, 5 y 6 de la Ley 25.326)"
 aliases: [búsqueda, vacante, pedido de personal, postulante, candidato, postulación, reclutamiento como registro, job requisition, requisition, job opening, applicant, candidate, applicant tracking]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Búsquedas y postulantes

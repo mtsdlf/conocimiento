@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un retroactivo es un pago que corresponde a un período de liquidación ya cerrado, como un aumento firmado hoy que vale desde hace tres meses. La reliquidación lo resuelve: compara lo que correspondía con lo que se pagó y liquida la diferencia en un período abierto, sin editar lo ya pagado y declarado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Temporal Patterns, Time Narrative (según un extracto): https://martinfowler.com/eaaDev/timeNarrative.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-huecos.md (2026-11-27)"
 aliases: [retroactivo, retroactivos, reliquidación, diferencias de sueldo, ajuste retroactivo, aumento retroactivo, back pay, retroactive pay, arrears, payroll recalculation, retro pay]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Retroactivos y reliquidaciones

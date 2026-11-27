@@ -1,14 +1,14 @@
 ---
 resumen: >-
   La administración de personal y nómina es lo que una empresa registra y calcula sobre la gente que trabaja en ella: quién es cada empleado y en qué condiciones trabaja, cuánto tiempo trabajó y cuánto faltó, cuánto se le paga y cuánto se les debe a la seguridad social y al fisco por eso. Es lo que lleva el módulo de personal y nómina de un software de gestión, pero existe antes del software: un legajo en carpeta, una planilla de asistencia y un recibo hecho a mano hacen lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.2.1, categorías 7.0 Develop and Manage Human Capital y 9.5 Process payroll (copia de terceros; ver la investigación de taxonomías del mapa, issue #96)"
   - "Administracion-de-personal-y-nomina/.investigacion/ (seis informes, 2026-11-27)"
 aliases: [administración de personal, nómina, liquidación de sueldos, payroll, HCM, human capital management, HRIS, core HR, personal administration, gestión de nómina, sueldos y jornales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Administración de personal y nómina

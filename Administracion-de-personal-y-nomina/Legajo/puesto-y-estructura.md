@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El puesto es el lugar que una persona ocupa en la empresa, y la estructura es cómo se ordenan los puestos: en qué sector está cada uno, de quién depende, a qué categoría corresponde y a qué centro de costo se carga. Esta parte del legajo decide quién aprueba lo de cada empleado, con qué escala se le paga y dónde cae su sueldo en la contabilidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ERPNext, Leave Application (aprobador tomado del empleado o, si falta, del departamento; como evidencia de práctica): https://docs.frappe.io/erpnext/user/manual/en/leave-application"
@@ -11,7 +11,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md, componentes 1 y 3"
 aliases: [puesto, posición, cargo, categoría, sector, departamento, organigrama, jefe directo, línea de reporte, position, job, designation, department, org chart, reporting line, position management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Puesto y estructura

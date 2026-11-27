@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que la ley argentina fija sobre la liquidación de sueldos: el aguinaldo, el contenido del recibo, el plazo de pago y la cuenta sueldo, qué es no remunerativo, el tope de adelantos y los embargos, y lo que se paga al terminar la relación (indemnización, preaviso, integración del mes y vacaciones no gozadas), con el Fondo de Asistencia Laboral que creó la Ley 27.802.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley de Contrato de Trabajo 20.744, texto actualizado con la Ley 27.802, InfoLEG (arts. 103 bis, 120 a 128, 132 a 147, 156, 231 a 233, 245): https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/texact.htm"
@@ -27,7 +27,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md (2026-11-27)"
 aliases: [liquidación de sueldos en Argentina, SAC, aguinaldo, sueldo anual complementario, recibo de sueldo LCT, art. 140 LCT, art. 128 LCT, cuenta sueldo, art. 124 LCT, art. 103 bis, beneficios sociales, no remunerativo, art. 133 LCT, embargo de sueldo, art. 147 LCT, indemnización por antigüedad, art. 245 LCT, preaviso, art. 231 LCT, integración del mes de despido, vacaciones no gozadas, art. 156 LCT, Fondo de Asistencia Laboral, FAL]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Liquidación en la Argentina

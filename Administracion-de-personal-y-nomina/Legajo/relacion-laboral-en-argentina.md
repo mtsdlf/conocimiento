@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la Argentina, la relación laboral se rige por la Ley de Contrato de Trabajo (20.744), los convenios colectivos de cada actividad y la registración ante ARCA. Cambió dos veces en poco tiempo: con la Ley 27.742 en 2024 y con la Ley 27.802 de Modernización Laboral en 2026. Al legajo le importan quién está alcanzado, cómo se registra, el período de prueba, las modalidades, el convenio que fija la categoría, el certificado de trabajo y qué hace falta para contratar a la primera persona.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 27.802, texto del Boletín Oficial del 6/3/2026: https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306"
@@ -32,7 +32,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md, componente 1"
 aliases: [LCT, Ley de Contrato de Trabajo, Ley 20.744, Ley 27.802, Modernización Laboral, reforma laboral 2026, Ley Bases, Ley 27.742, registración laboral, alta en ARCA, Simplificación Registral, período de prueba, art. 92 bis, convenio colectivo, CCT, encuadre sindical, fuera de convenio, certificado de trabajo, art. 80, primer empleado en Argentina, monotributista o empleado]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Relación laboral en la Argentina

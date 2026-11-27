@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El legajo es el registro de cada persona que trabaja en la empresa: quién es, en qué puesto y con qué contrato trabaja, cuánto gana, qué documentos lo respaldan y cómo cambió cada dato con el tiempo. Es el dato maestro del tema: el tiempo trabajado, la liquidación y las cargas leen de él.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Temporal Patterns: Time Narrative (Effectivity, Temporal Property, tiempo actual y tiempo de registro): https://martinfowler.com/eaaDev/timeNarrative.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md"
 aliases: [legajo del empleado, legajo personal, ficha del empleado, maestro de empleados, employee record, personnel file, employee master data, core HR]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Legajo

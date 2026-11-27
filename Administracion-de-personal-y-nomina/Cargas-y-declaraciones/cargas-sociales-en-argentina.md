@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la Argentina, por cada sueldo el empleador retiene al empleado los aportes a la jubilación, al PAMI y a la obra social, paga sus propias contribuciones con una alícuota única de 18 % o 20,40 % menos una detracción fija, contrata una ART y declara todo cada mes en el formulario 931. La Ley 27.802 de 2026 suma un Fondo de Asistencia Laboral que se descuenta de esas contribuciones desde diciembre de 2026, un régimen de contribuciones reducidas para empleos nuevos y una contribución a la obra social del 6 % desde 2027.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-laboral.md (estado judicial de la Ley 27.802, 2026-11-27)"
@@ -50,7 +50,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md (2026-11-27)"
 aliases: [cargas sociales, aportes y contribuciones en Argentina, SIPA, INSSJP, PAMI, obra social, contribuciones patronales, Ley 27.541, detracción, mínimo no imponible, F.931, formulario 931, SICOSS, Declaración en línea, ART, Fondo de Asistencia Laboral, FAL, RIFL, Régimen de Incentivo a la Formalización Laboral, Ley 27.802]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cargas sociales en la Argentina

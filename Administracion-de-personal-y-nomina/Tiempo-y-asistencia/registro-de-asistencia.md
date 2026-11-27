@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El registro de asistencia es la lista de marcaciones de entrada y salida de cada empleado, corregida y conciliada con su turno, de la que salen las horas trabajadas, las horas extra, las ausencias y las tardanzas del período. Registra presencia y horas, no rendimiento.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Odoo 18.0, Attendances (documentación de producto, como evidencia de práctica): https://www.odoo.com/documentation/18.0/applications/hr/attendances.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/legajo-y-tiempo.md (2026-11-27)"
 aliases: [marcación, fichaje, fichada, control horario, reloj de control, reloj biométrico, planilla de asistencia, ausentismo, tardanza, attendance, clock in, clock out, time clock, punch, timesheet]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registro de asistencia

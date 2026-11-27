@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La liquidación de sueldos es el cálculo, para cada período de liquidación, de cuánto se le paga a cada empleado y cuánto se le descuenta. Junta los datos del legajo y las novedades del período, los pasa por los conceptos de liquidación y deja un recibo por persona, la base de las cargas y el documento que va a la contabilidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), arts. 3, 5, 8, 10, 11, 12 y 13 (copia de la Universidad de Minnesota): https://hrlibrary.umn.edu/instree/ilo95.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-huecos.md (2026-11-27)"
 aliases: [liquidación de sueldos, liquidación de haberes, nómina, payroll, payroll processing, ciclo de nómina, payroll cycle, pago de sueldos, embargo de sueldo, wage garnishment, adelanto de sueldo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Liquidación de sueldos
