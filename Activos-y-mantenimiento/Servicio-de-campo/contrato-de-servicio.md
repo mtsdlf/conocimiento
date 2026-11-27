@@ -74,7 +74,7 @@ El riesgo propio del contrato es cobrar dos veces. Un acuerdo puede emitir su fa
 
 ## El tiempo de respuesta prometido
 
-Un contrato puede prometer tiempos, y esa promesa tiene nombre: el acuerdo de nivel de servicio (SLA). Según una enciclopedia, es «an agreement, typically a binding contract, between a service provider and a customer», que fija el tiempo de respuesta («the period by which the service provider will start the investigation of the issue»), el plazo de resolución, la disponibilidad y a veces el MTTR y el MTBF. Si se incumple, el cliente puede pedir compensación o terminar; en tercerización, con «financial penalties».
+Un contrato puede prometer tiempos, y esa promesa tiene nombre: el acuerdo de nivel de servicio (SLA). Según una enciclopedia, es «an agreement, typically a binding contract, between a service provider and a customer», que fija el tiempo de respuesta («the period by which the service provider will start the investigation of the issue»), el plazo de resolución, la disponibilidad y a veces el MTTR y el MTBF, que se definen en [indicadores de mantenimiento](../Desempeno-de-los-activos/indicadores-de-mantenimiento.md). Si se incumple, el cliente puede pedir compensación o terminar; en tercerización, con «financial penalties».
 
 En el sistema de referencia leído, el SLA como objeto vive en la atención, sobre el caso y no sobre la orden de campo: mide la primera respuesta o la resolución, con horario hábil opcional, pausa mientras el caso espera y estados como «Nearing noncompliance» o «Noncompliant». Del lado del dueño del equipo, APQC tiene 10.3.2.7 «Monitor maintenance performance against targets/contracts».
 

@@ -99,3 +99,4 @@ Activos-y-mantenimiento/
 - La OEE nace en el TPM pero mide la línea: se nombra acá y se explica en Producción.
 - El mantenimiento predictivo con sensores y modelos se trata como estrategia (cuándo conviene); la técnica de análisis queda en Datos e IA.
 - Lo de la Argentina va en una sola nota del tema, con las inspecciones y servicios que la norma vuelve obligatorios.
+- **Investigación corta** (2026-11-27): el buscador web se agotó al empezar, y las normas (EN 13306, ISO 14224, ISO 55000, SAE JA1011), SMRP, Palmer y el informe de Nowlan y Heap no se pudieron leer. Lo que sale de ellos va atribuido a resúmenes secundarios, y cada nota declara sus huecos con un `[!NOTE]`. APQC 7.4 sí se leyó entero (`.investigacion/apqc-10.md`) y el servicio técnico en campo resultó estar en 6.3 «Service products after sales», no en 5.0. Conviene una pasada de `mantener` cuando haya acceso a esas fuentes.

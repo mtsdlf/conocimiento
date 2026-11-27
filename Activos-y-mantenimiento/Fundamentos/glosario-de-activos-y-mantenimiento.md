@@ -34,7 +34,7 @@ El campo tiene una norma de terminología, la EN 13306, que esta base no leyó; 
 |---|---|---|---|
 | Registro de activos | Asset register, equipment master | Lo que se guarda de cada equipo: qué es, dónde está, de qué está hecho, cuánto importa y qué le pasó | [registro de activos](../Registro-de-activos/registro-de-activos.md) |
 | Equipo | Equipment | El objeto físico mantenible, con su número de serie, que puede cambiar de lugar | [jerarquía de activos](../Registro-de-activos/jerarquia-de-activos.md) |
-| Ubicación técnica | Functional location | El lugar donde se instala un equipo, que conserva su historia aunque el equipo cambie | [jerarquía de activos](../Registro-de-activos/jerarquia-de-activos.md) |
+| Ubicación técnica | Functional location | El lugar donde se instala un equipo, que sigue existiendo aunque el equipo se cambie; si la historia queda con el lugar o con el equipo, las fuentes no coinciden | [jerarquía de activos](../Registro-de-activos/jerarquia-de-activos.md) |
 | Jerarquía de activos | Asset hierarchy | El árbol de niveles (planta, sistema, equipo, componente); la ISO 14224 propone nueve | [jerarquía de activos](../Registro-de-activos/jerarquia-de-activos.md) |
 | Componente mantenible | Maintainable item | La parte de un equipo que se repara o se cambia como unidad | [jerarquía de activos](../Registro-de-activos/jerarquia-de-activos.md) |
 | Lista de repuestos del equipo | Maintenance BOM, equipment BOM | Los repuestos que lleva un equipo, para pedirlos sin buscarlos en cada orden | [jerarquía de activos](../Registro-de-activos/jerarquia-de-activos.md) |
@@ -91,7 +91,7 @@ El campo tiene una norma de terminología, la EN 13306, que esta base no leyó; 
 | Repuesto crítico | Critical spare | El repuesto que se tiene en stock aunque rote poco, porque su falta deja parado un equipo importante | [repuestos y materiales](../Orden-de-trabajo/repuestos-y-materiales.md) |
 | Reserva | Material reservation | Apartar el stock para una orden antes de usarlo | [repuestos y materiales](../Orden-de-trabajo/repuestos-y-materiales.md) |
 | Esperando materiales | Waiting for materials | El estado de la orden que no puede empezar porque falta un repuesto | [repuestos y materiales](../Orden-de-trabajo/repuestos-y-materiales.md) |
-| Cierre técnico, cierre administrativo | Technical completion, close | El trabajo terminado, primero; la orden cerrada con sus costos, después | [cierre de la orden](../Orden-de-trabajo/cierre-de-la-orden.md) |
+| Cierre técnico, cierre administrativo | Technical completion, close | Nombres de la base, que las fuentes no usan, para dos pasos: el trabajo terminado, primero; la orden cerrada con sus costos, después | [cierre de la orden](../Orden-de-trabajo/cierre-de-la-orden.md) |
 | Código de falla | Failure code | El valor de una lista cerrada que se carga al cerrar la orden | [cierre de la orden](../Orden-de-trabajo/cierre-de-la-orden.md) |
 | Bloqueo y etiquetado | Lockout/tagout (LOTO) | Aislar las energías de un equipo antes de trabajar sobre él | [orden de trabajo](../Orden-de-trabajo/orden-de-trabajo.md) |
 
@@ -116,6 +116,8 @@ El campo tiene una norma de terminología, la EN 13306, que esta base no leyó; 
 
 | Término | Inglés | Qué es | Dónde |
 |---|---|---|---|
+| Tiempo medio entre mantenimientos | Mean time between maintenance (MTBM) | Como el MTBF, pero cuenta también las paradas por preventivo; aparece en una de las fórmulas de la disponibilidad operacional | [indicadores de mantenimiento](../Desempeno-de-los-activos/indicadores-de-mantenimiento.md#inherente-lograda-y-operacional-tres-disponibilidades) |
+| Tiempo medio de parada | Mean downtime (MDT) | El tiempo medio que el equipo está parado, con la logística, la espera y lo administrativo incluidos | [indicadores de mantenimiento](../Desempeno-de-los-activos/indicadores-de-mantenimiento.md#inherente-lograda-y-operacional-tres-disponibilidades) |
 | Tiempo medio entre fallas | Mean time between failures (MTBF) | Cuánto anda en promedio un equipo reparable entre una falla y la siguiente | [indicadores de mantenimiento](../Desempeno-de-los-activos/indicadores-de-mantenimiento.md) |
 | Tiempo medio hasta la falla | Mean time to failure (MTTF) | El equivalente para lo que no se repara | [indicadores de mantenimiento](../Desempeno-de-los-activos/indicadores-de-mantenimiento.md) |
 | Tiempo medio de reparación | Mean time to repair (MTTR) | Cuánto tarda en promedio un equipo en volver a funcionar | [indicadores de mantenimiento](../Desempeno-de-los-activos/indicadores-de-mantenimiento.md) |
