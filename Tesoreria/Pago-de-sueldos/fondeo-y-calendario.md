@@ -33,7 +33,7 @@ Es la mitad del [pago de sueldos](pago-de-sueldos.md) que mira el reloj; la mita
 
 ## Cuándo tiene que estar la plata
 
-Hay tres relojes, uno dentro del otro. El de la red fija cuándo los bancos tienen que mandar los archivos. El del banco de la empresa es más temprano, porque revisa los archivos antes de mandarlos. El de la empresa, en lectura de esta base, es todavía anterior, porque tiene que cerrar el lote, fondear y liberar.
+Cuentan tres horarios, cada uno anterior al otro. El de la red fija cuándo los bancos tienen que mandar los archivos. El del banco de la empresa es más temprano, porque revisa los archivos antes de mandarlos. El de la empresa, en lectura de esta base, es todavía anterior, porque tiene que cerrar el lote, fondear y liberar.
 
 En Estados Unidos, la Reserva Federal, que opera la red, recibe archivos con fecha futura en seis ventanas, la última a las 2:15 de la madrugada (la de las 8 de la noche no existe los viernes), todas con liquidación a las 8:30 del día hábil futuro que lleva el archivo; para pagos del mismo día tiene tres, la primera hasta las 10:30 con liquidación a la 1 de la tarde (hora del Este, horario vigente desde septiembre de 2022). Nacha avisa que esos horarios son para los bancos: «FIs require time to review and process transactions before sending them to the Operator and will establish their own processing deadlines for their Originators». El plazo que le importa a la tesorería es el de su banco, y no se encontró una fuente general sobre cuántos días antes lo piden.
 
@@ -78,7 +78,7 @@ Fuera de la quiebra no hay una norma general leída que ordene qué se paga prim
 - **Privilegio.** Los créditos laborales se pagan con los bienes del empleador antes que los acreedores comunes (art. 5), cubren como mínimo «wages relating to a prescribed period, which shall not be less than three months», vacaciones, otras ausencias pagas e indemnización (art. 6), y van por encima de casi todos los demás privilegios (art. 8).
 - **Fondo de garantía.** Una institución paga los créditos cuando el empleador no puede (art. 9), como mínimo «not be less than eight weeks» de sueldo, más vacaciones e indemnización (art. 12).
 
-En lectura de esta base, para la tesorería eso dice que el sueldo es la deuda que primero se reclama y la última que conviene atrasar: no se negocia como la de un proveedor y, si la empresa cae, se cobra antes.
+En lectura de esta base, eso hace del sueldo la última deuda que conviene atrasar: si la empresa cae, se cobra antes que la de los acreedores comunes.
 
 ## El pago a demanda
 

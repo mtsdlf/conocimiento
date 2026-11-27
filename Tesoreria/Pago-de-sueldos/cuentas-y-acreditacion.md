@@ -70,7 +70,7 @@ El banco del empleado devuelve lo que no puede acreditar, con un código. Los qu
 
 Un crédito rechazado vuelve a la cuenta de la empresa y el empleado no cobró: en lectura de esta base, hay que pagarle de nuevo por otro carril antes de que venza el plazo. Si el dato es viejo pero el banco pudo acreditar, devuelve un aviso de cambio, y la empresa tiene que corregir la cuenta «within six banking days or prior to initiating another Entry, whichever is later». En SEPA, el banco del beneficiario devuelve a más tardar tres días hábiles después de la liquidación.
 
-Un pago de sueldo mandado por error se puede reversar solo en cuatro casos, según la regla de Nacha de 2021: pago duplicado, cuenta distinta de la que se quería, monto equivocado, o un crédito procesado más tarde de lo previsto. La página de la regla suma ciertos créditos por desvinculación; el resumen oficial no los lista, y no se leyó el texto de la regla. La reversa tiene que llegar «within 5 banking days following the Settlement Date». Tres límites importan:
+Un pago de sueldo mandado por error se puede reversar solo en cuatro casos, según la regla de Nacha de 2021: pago duplicado, cuenta distinta de la que se quería, monto equivocado, o un crédito procesado más tarde de lo previsto. La página de la regla suma ciertos créditos por desvinculación; el resumen oficial no los lista, y no se leyó el texto de la regla. La reversa tiene que llegar «within 5 banking days following the Settlement Date». Tiene tres límites:
 
 - La falta de fondos no se arregla con una reversa: «Failure to fund is not an error».
 - El banco del empleado puede devolver la reversa por fondos insuficientes. En lectura de esta base, eso pasa si el empleado ya sacó la plata, y entonces el recupero pasa a la liquidación como un descuento acordado o un reclamo.
@@ -82,7 +82,7 @@ El desvío de sueldos es el fraude en que alguien cambia la cuenta de un emplead
 
 Lo que recomienda el FBI: credenciales de nómina distintas de las de otros sistemas, «heightened scrutiny» sobre los cambios de cuenta que piden los empleados, vigilar los ingresos fuera de horario y doble factor en los sistemas sensibles. Desde 2026 las reglas de Nacha nombran la «payroll impersonation» entre los fraudes que los bancos receptores tienen que intentar detectar.
 
-El control de fondo es el mismo que el del cambio de cuenta de un proveedor en [seguridad de los pagos](../Pagos-a-proveedores/seguridad-de-los-pagos.md): confirmar el cambio por un canal distinto del que trajo el pedido. Aplicarlo al empleado es inferencia de esta base, que ya hace el recorrido [de la contratación a la baja](../../Procesos-de-negocio/de-la-contratacion-a-la-baja.md#lo-que-pasa-de-un-dominio-a-otro). Un sistema de gestión abierto bloquea el pago a una cuenta de empleado que no está marcada como confiable.
+El control principal es el mismo que para el cambio de cuenta de un proveedor en [seguridad de los pagos](../Pagos-a-proveedores/seguridad-de-los-pagos.md): confirmar el cambio por un canal distinto del que trajo el pedido. Aplicarlo al empleado es inferencia de esta base, que ya hace el recorrido [de la contratación a la baja](../../Procesos-de-negocio/de-la-contratacion-a-la-baja.md#lo-que-pasa-de-un-dominio-a-otro). Un sistema de gestión abierto bloquea el pago a una cuenta de empleado que no está marcada como confiable.
 
 ## Los empleados fantasma
 

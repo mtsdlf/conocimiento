@@ -19,6 +19,14 @@ fuentes:
   - "RG AFIP 4186, Boletín Oficial del 8/01/2018 (leída): https://www.argentina.gob.ar/normativa/nacional/norma-305593/texto"
   - "RG AFIP 4354, Boletín Oficial del 10/12/2018, punto 13 (leída): https://www.argentina.gob.ar/normativa/nacional/norma-317309/texto"
   - "ARCA, Vencimientos, en argentina.gob.ar (empleadores de noviembre de 2026, leído): https://www.argentina.gob.ar/node/437875"
+  - "Ley 24.642, cuotas sindicales, InfoLEG, arts. 2 y 3 (leídos): https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37182/norma.htm"
+  - "RG AFIP 2233 (SICORE), art. 2, biblioteca de ARCA (leída): https://biblioteca.afip.gob.ar/dcp/REAG01002233_2007_03_27"
+  - "Decreto DNU 1103/2026, feriados de noviembre de 2026, Boletín Oficial del 28/09/2026, arts. 2 a 4 (leído): https://www.argentina.gob.ar/normativa/nacional/norma-430580/texto"
+  - "BCRA, Comunicación A 8487 del 1/10/2026, feriado bancario del 10/11/2026 (leída): https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A8487.pdf"
+  - "BCRA, Comunicación A 8465 del 10/08/2026, régimen informativo (leída): https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A8465.pdf"
+  - "Feriados nacionales 2026, archivo oficial de argentina.gob.ar (leído): https://www.argentina.gob.ar/sites/default/files/holidays-2026-es.json"
+  - "Jefatura de Gabinete, Resolución 164/2025, días no laborables con fines turísticos de 2026 (leída): https://www.argentina.gob.ar/normativa/nacional/421799/texto"
+  - "Resolución MEcon 3/2024, texto actualizado con la Resolución MEcon 823/2025, intereses resarcitorios y punitorios, InfoLEG (leída): https://servicios.infoleg.gob.ar/infolegInternet/anexos/395000-399999/396159/texact.htm"
   - "Ley 23.551 de Asociaciones Sindicales, texto actualizado de InfoLEG, art. 38 (leído): https://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20993/texact.htm"
   - "Ley 27.742, InfoLEG, arts. 99 y 100 (leídos): https://servicios.infoleg.gob.ar/infolegInternet/anexos/400000-404999/401266/norma.htm"
   - "Forbes Argentina, Pago de sueldos: el Gobierno le abre las puertas a las fintech pero deja un vacío clave (11/12/2025), según su resumen: https://www.forbesargentina.com/negocios/pago-sueldos-gobierno-le-abre-puertas-fintech-pero-deja-vacio-clave-n83201"
@@ -56,7 +64,7 @@ Lo que regula el BCRA (Banco Central de la República Argentina), en su texto or
 
 La portabilidad (que el trabajador cobre en otro banco sin cambiar de empleador) viene de la Comunicación A 6042 del 12 de agosto de 2016. Ni esa comunicación ni el texto ordenado fijan en cuántos días el empleador tiene que empezar a acreditar en la cuenta nueva. Para la tesorería eso es un cambio de cuenta del empleado, con el control que pide [cuentas y acreditación](cuentas-y-acreditacion.md).
 
-El texto ordenado no dice que la cuenta sueldo «se convierta en caja de ahorro común» al terminar la relación, como se repite a veces: dice que se cierra a los 180 días. La única transformación que prevé es la inversa, de caja de ahorros a cuenta sueldo.
+Al terminar la relación, la cuenta sueldo se cierra a los 180 días. El texto ordenado no dice que se convierta en caja de ahorro común; la única transformación que prevé es la inversa, de caja de ahorros a cuenta sueldo.
 
 ## El lote de sueldos: se manda el día D y se cobra el D+1
 
@@ -74,7 +82,7 @@ La constancia del banco prueba el pago: «La documentación obrante en el banco 
 
 ## Lo que el banco le puede cobrar al empleador
 
-Al trabajador, nada por la cuenta. Al empleador, según quién sea:
+Al trabajador el banco no le puede cobrar nada por la cuenta. Al empleador, depende de quién sea:
 
 - Una microempresa no paga sus transferencias en lote hasta 7.500 UVA por mes en pesos (6.000 dólares o euros), por moneda y por proveedor de cuenta (puntos 5.1.2.1 y 6.1.1 de las normas complementarias).
 - Al resto el banco le puede cobrar, pero «los precios no podrán ser definidos como porcentajes de los montos transferidos» (6.1.2).
@@ -93,24 +101,30 @@ Las fechas que la tesorería tiene que tener cubiertas:
 | Vacaciones | Se pagan «a la iniciación» de las vacaciones; desde la 27.802 se pueden partir en tramos de al menos siete días, y en lectura de esta base cada tramo es una salida | arts. 154 y 155 |
 | Liquidación final | En los plazos del art. 128, contados desde la extinción | art. 255 bis |
 | Aportes y contribuciones (F.931, la declaración mensual de cargas sociales ante ARCA, el fisco nacional) | Presentación y pago el mes siguiente: CUIT terminado en 0 a 3, día 9; 4 a 6, día 10; 7 a 9, día 11 | RG 4172 modificada por la RG 4186 |
-| Retenciones (SICORE, el régimen por el que el agente informa e ingresa lo que retuvo) | Las practicadas del 1 al 15 se ingresan los días 21, 22 y 23 (20, 21 y 22 en febrero y diciembre); la declaración y el pago del mes, los días 9, 10 y 11 del mes siguiente | RG 4172, apartado C, y RG 4354 |
-| Cuota sindical retenida | Si no se deposita «en tiempo propio», el empleador pasa a ser deudor directo y la mora es automática | art. 38 de la Ley 23.551 |
+| Retenciones (SICORE, el régimen por el que el agente informa e ingresa lo que retuvo), incluida la de Ganancias sobre sueldos | Las practicadas del 1 al 15 se ingresan ese mismo mes, los días 21, 22 y 23 (20, 21 y 22 en febrero y diciembre); el resto va con la declaración y el pago del mes, los días 9, 10 y 11 del mes siguiente | RG 4003 (art. 24, que remite al SICORE), RG 2233 (art. 2), RG 4172, apartado C, y RG 4354 |
+| Cuota sindical retenida | Se deposita a la orden del sindicato «en la misma fecha que los aportes y contribuciones al Sistema de Seguridad Social», con mora automática; si no se deposita, el empleador pasa a ser deudor directo | arts. 2 y 3 de la Ley 24.642 y art. 38 de la Ley 23.551 |
 
-Un vencimiento de ARCA que cae en feriado o día inhábil se corre, con los siguientes, a los días hábiles inmediatos (art. 2 de la RG 4172). Qué entra en el F.931 y quién lo declara está en [cargas sociales en la Argentina](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/cargas-sociales-en-argentina.md); acá pesa solo como fecha de salida.
+Un vencimiento de ARCA que cae en feriado o día inhábil se corre, con los siguientes, a los días hábiles inmediatos (art. 2 de la RG 4172). Así pasó en noviembre de 2026: el lunes 9 fue feriado nacional (Decreto 1103/2026, art. 2) y el martes 10, feriado bancario en todo el país (Comunicación A 8487 del BCRA), y el calendario de ARCA puso el F.931 los días 11, 12 y 13. No hubo una resolución de ARCA; que el corrimiento salga de esa regla es lectura de esta base, porque la página de ARCA no cita la norma. Los feriados del año están en el archivo oficial de argentina.gob.ar, y los días no laborables con fines turísticos de 2026 (lunes 23 de marzo, viernes 10 de julio y lunes 7 de diciembre) los fijó la Resolución 164/2025 de la Jefatura de Gabinete. Qué entra en el F.931 y quién lo declara está en [cargas sociales en la Argentina](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/cargas-sociales-en-argentina.md); acá pesa solo como fecha de salida.
 
-Con el lote en D+1, en lectura de esta base, el archivo y la plata tienen que estar en el banco a más tardar el día hábil anterior al cuarto día hábil, antes de la hora de corte del convenio. En diciembre se juntan tres salidas en diez días: con las reglas de arriba, en 2026 el F.931 de noviembre vence el 9, 10 y 11 (salvo un corrimiento como el de noviembre, abajo), el aguinaldo el viernes 18 y el SICORE de la primera quincena el 21 para los CUIT terminados en 0 a 3 (cuenta de esta base).
+Con el lote en D+1, en lectura de esta base, el archivo y la plata tienen que estar en el banco a más tardar el día hábil anterior al cuarto día hábil, antes de la hora de corte del convenio. En diciembre se juntan tres salidas en diez días: con las reglas de arriba, en 2026 el F.931 de noviembre vence el 9, 10 y 11 (salvo un corrimiento por feriados, como el de noviembre), el aguinaldo el viernes 18 y el SICORE de la primera quincena el 21 para los CUIT terminados en 0 a 3 (cuenta de esta base).
 
 > [!NOTE]
-> Sin fuente todavía: por qué el calendario de ARCA de noviembre de 2026 pone el F.931 los días 11, 12 y 13 y no 9, 10 y 11 (no se encontró la norma del corrimiento); el anexo consolidado de la RG 4172 con sus cambios posteriores a 2018; qué tramo del SICORE usa la retención de Ganancias sobre sueldos; el plazo de depósito de la cuota sindical; si al aguinaldo del 18 de diciembre se le aplican los cuatro días hábiles del art. 128, y el calendario de feriados de 2026.
+> Sin fuente todavía: el anexo consolidado de la RG 4172 con sus cambios posteriores a 2018, y si al aguinaldo del 18 de diciembre se le aplican los cuatro días hábiles del art. 128.
 
 ## Si el sueldo sale tarde
 
-La mora es automática: se produce «por el solo vencimiento de los plazos señalados en el artículo 128», y también cuando el empleador descuenta o retiene contra lo que permite la ley (art. 137, no cambiado). Desde la 27.802, los créditos laborales se actualizan por el índice de precios al consumidor del INDEC «con más una tasa de interés del tres por ciento (3%) anual», desde que cada suma se debe hasta que se paga (art. 276). Una sentencia se puede pagar en hasta seis cuotas mensuales, o doce si el empleador es una mipyme (art. 277).
+Del lado de ARCA, pagar tarde el F.931 o el SICORE cuesta intereses resarcitorios del 2,75 % mensual (3,50 % los punitorios), según la Resolución 3/2024 del Ministerio de Economía con el texto de la Resolución 823/2025, vigente desde el 1 de julio de 2025; la tasa diaria es la mensual dividida por 30. Es una sola fuente, y no se cruzó con la página de tasas de ARCA.
+
+Con el trabajador, la mora es automática: se produce «por el solo vencimiento de los plazos señalados en el artículo 128», y también cuando el empleador descuenta o retiene contra lo que permite la ley (art. 137, no cambiado). Desde la 27.802, los créditos laborales se actualizan por el índice de precios al consumidor del INDEC «con más una tasa de interés del tres por ciento (3%) anual», desde que cada suma se debe hasta que se paga (art. 276). Una sentencia se puede pagar en hasta seis cuotas mensuales, o doce si el empleador es una mipyme (art. 277).
 
 El recargo del 50 % de la Ley 25.323 ya no existe: la Ley 27.742 la derogó (art. 100). La sanción del art. 132 bis de la LCT (aportes retenidos y no depositados) sigue en el texto de InfoLEG, pero la norma que la incorporó, el art. 43 de la Ley 25.345, fue derogada por el DNU 70/2023 y por la Ley 27.742 (art. 99); su vigencia es dudosa y no conviene usarla sin verificar.
 
 > [!NOTE]
-> Sin fuente todavía: la resolución del Ministerio de Trabajo a la que remite el BCRA sobre qué empleadores están obligados a acreditar; el contenido típico de un convenio de pago de haberes (hora de corte, fecha valor, cargo por archivo); cómo se acredita por lote un sueldo en dólares; los códigos de rechazo del lote de sueldos y si existe una reversa como la de otras redes; la tasa de intereses resarcitorios de ARCA de noviembre de 2026, y cómo traba un banco un embargo sobre el saldo de una cuenta sueldo.
+> Sin fuente todavía: la resolución del Ministerio de Trabajo a la que remite el BCRA sobre qué empleadores están obligados a acreditar; el contenido típico de un convenio de pago de haberes (hora de corte, fecha valor, cargo por archivo); los códigos de rechazo del lote de sueldos y si existe una reversa como la de otras redes, y cómo traba un banco un embargo sobre el saldo de una cuenta sueldo.
+>
+> Cómo se acredita por lote un sueldo en dólares: se revisaron todas las comunicaciones A de la 8461 a la 8514 y ninguna cambia el texto ordenado de transferencias, que sigue al 7/08/2025; la A 8465 solo agrega al régimen informativo el tipo de acreditación «Pago de remuneraciones en dólares estadounidenses».
+>
+> En cuántos días el empleador tiene que empezar a acreditar en la cuenta que abrió el trabajador en otro banco: no está en la A 6042, en el texto ordenado ni en el art. 124 de la LCT, y en el Boletín Oficial no apareció ninguna resolución del Ministerio de Trabajo sobre la portabilidad; falta leer entera la Ley 27.802.
 
 ## Qué tiene que modelar un sistema
 

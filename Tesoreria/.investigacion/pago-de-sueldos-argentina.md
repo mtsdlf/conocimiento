@@ -188,3 +188,88 @@ Cuota sindical y obra social
 - Vigencia del art. 132 bis LCT después del DNU 70/2023 y de la Ley 27.742.
 - Embargo sobre el saldo de la cuenta sueldo: cómo lo traba el banco y si hay norma del BCRA.
 - No leí el texto del DNU 70/2023 art. 72 (la versión anterior del art. 124 con los PSP); lo que digo de él sale de Forbes [M].
+
+## Segunda ronda (2026-11-27)
+
+Método: el buscador web se agotó en la primera consulta de esta ronda (solo dio la pista de la Resolución JGM 164/2025); todo lo demás salió de URL directas con curl, del buscador avanzado del Boletín Oficial (`/busquedaAvanzada/realizarBusqueda`, que al final devolvió «Demasiadas solicitudes») y de los vínculos de InfoLEG. Descargas en el scratchpad de la sesión (`descargas-ar2/`), no en el repo.
+
+### 1. Por qué el F. 931 de noviembre de 2026 vence el 11, 12 y 13
+
+Cerrado: no hubo prórroga. Fue el traslado por días inhábiles del art. 2 de la RG 4172.
+- **Decreto DNU 1103/2026** (25/09/2026, BO 28/09/2026, n.º 36001, p. 5), visita del Papa León XIV. Art. 2: «Establécese como feriado nacional el día lunes 9 de noviembre de 2026 en todo el territorio de la REPÚBLICA ARGENTINA». Art. 3: «Establécese como feriado el día martes 10 de noviembre de 2026, exclusivamente en el ámbito de la Provincia de CÓRDOBA y la CIUDAD AUTÓNOMA DE BUENOS AIRES». Art. 4: feriado el miércoles 11/11/2026 solo en la Provincia de Buenos Aires. [L] https://www.argentina.gob.ar/normativa/nacional/norma-430580/texto
+- **BCRA, Comunicación «A» 8487** (01/10/2026, BO 05/10/2026), RUNOR 1-1975: «Establecer como feriado bancario el 10/11/26 en todo el territorio de la República Argentina». [L] https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A8487.pdf
+- Con el 9 feriado nacional y el 10 feriado bancario en todo el país (y feriado en CABA), la regla de la RG 4172, art. 2 (los vencimientos que caen en feriado o día inhábil «así como las posteriores, se trasladarán correlativamente»; F13 [L]) corre el 9, el 10 y el 11 al 11, el 12 y el 13, que es lo que publica ARCA (F17). Que ARCA aplicó esta regla y no otra norma es deducción mía: la página de vencimientos no cita ninguna norma.
+- Busqué una RG de ARCA sobre el corrimiento en el Boletín Oficial, primera sección, entre el 01/09 y el 27/11/2026, con «feriado», «inhábil» y «Santidad»: no hay ninguna. Aparecen otros organismos que adecuaron sus plazos al decreto (Comisión Arbitral RG 10 y 11/2026 y Disposición 11/2026; CNV RG 1175/2026). [M] La única RG de ARCA del período que salió en la búsqueda es la 5903/2026 (precios de transferencia), que no trata el tema.
+- 11/11/2026: feriado solo en la Provincia de Buenos Aires (art. 4). No movió el vencimiento del día 11 en el calendario nacional de ARCA.
+
+### 2. BCRA después de la «A» 8460: sueldos en dólares por lote
+
+Cerrado en lo que se puede cerrar: no hay ninguna comunicación que modifique el TO de Transferencias para los sueldos en moneda extranjera.
+- Bajé y leí el encabezado y la referencia de todas las «A» de la 8461 (27/07/2026) a la 8514 (27/11/2026); la 8515 todavía no existe (devuelve HTML). Busqué «sueldo» y «haberes» en el texto completo de cada una. [L] https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A{n}.pdf
+- El **TO «Sistema Nacional de Pagos – Transferencias»** sigue «al 07/08/2025», con la «A» 8295 como «Última comunicación incorporada». [L] https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-snp-tr.pdf En moneda extranjera solo prevé «Transferencias Pago a proveedores y entre clientes o clientes y terceros, nominadas en moneda extranjera, en un plazo de 48 horas»; el lote de sueldos es solo en pesos (24 horas). El control de la CEC sobre el CUIT alcanza la «Presentación de transferencias pago a proveedores en pesos y en dólares estadounidenses», no a los sueldos. [L]
+- **«A» 8465** (10/08/2026), CONAU 1-1732, dictada «en el marco de lo dispuesto por la Comunicación "A" 8460»: crea la partida contable «315726 – Cuenta Sueldo» para los depósitos en dólares y agrega al Régimen Informativo de Pago de Remuneraciones el «tipo de acreditación 3 "Pago de remuneraciones en dólares estadounidenses"», vigente desde el 31/07/2026. Es un régimen informativo y no dice cómo se cursa el pago. [L] https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A8465.pdf
+- **«A» 8493** (19/10/2026), SINAP 1-257, hojas del TO del MEP: la operatoria **DL3 «Transferencias por acreditación de haberes»** («TRANS. POR PAGO DE SUELDOS»), «Para transferencias por pago de haberes con acreditación en la cuenta del beneficiario», figura con «Moneda: Multimoneda», horario de 8 a 20. [L] https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A8493.pdf Es la vía MEP (alto valor, entre entidades), no el lote de la CEC. La comunicación dice que incorpora las «A» 8474 y las «B» 13105 y 13164, que no tratan los sueldos, así que lo de «Multimoneda» parece anterior; no lo comparé con una versión vieja del TO.
+- «A» 8498 (29/10/2026) toca la sección 3 (Fondo de Cese Laboral de la construcción), no la cuenta sueldo. «A» 8508 (05/11/2026) trata la interoperabilidad de transferencias inmediatas y la base de CVU. «A» 8505 (TO PSP, punto 4.1.3) pide a los PSPCP pagar sus «propios» sueldos desde una cuenta operativa. Ninguna trata el pago de sueldos en dólares. [L]
+- Lectura de esta base: hoy, en dólares, el banco puede acreditar en sus propias cuentas sueldo (intra-banco) o por MEP (DL3); el lote interbancario de la CEC para sueldos en dólares no está normado.
+
+### 3. Plazo para acreditar en la cuenta sueldo que eligió el trabajador (portabilidad)
+
+No cerrado. No encontré ninguna norma que fije un plazo.
+- TO «Depósitos de ahorro, cuenta sueldo y especiales», 2.1 (versión «A» 8479, vigencia 12/09/2026): cuando el trabajador abre la cuenta por su cuenta, «una vez asignada la clave bancaria uniforme por la entidad financiera, será responsabilidad del trabajador proveer de dicha información al empleador a los fines de recibir las acreditaciones». No da un plazo para el empleador. [L] https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-depaho.pdf (busqué además «portab», «plazo», «días hábiles» y «otra entidad» en todo el TO).
+- LCT art. 124 (según la Ley 27.802): no habla de elegir el banco ni de plazos. [L] F10.
+- Boletín Oficial, «cuenta sueldo», 01/01 a 27/11/2026: salen la Ley 27.802, las «A» 8444, 8460, 8465, 8479 y 8498 y las RG de ARCA 5814, 5850 y 5912 (casas particulares y procedimiento, no leídas), pero ninguna resolución del Ministerio de Trabajo ni de Capital Humano sobre portabilidad. «cuenta sueldo portabilidad», 2016 a 2025: solo la «A» 6042. [M]
+- Falta: la resolución del MTEySS que reglamentó el art. 124 en su versión anterior y la Ley 27.802 completa (el Boletín Oficial cortó la descarga con «Demasiadas solicitudes»). El buscador mostró un fragmento que dice «constancia de pago de las remuneraciones, la información de una (1) cuenta a nombre del trabajador donde recibe su remunera…», pero no lo leí entero. [M]
+
+### 4. Plazo de depósito de la cuota sindical retenida
+
+Cerrado, pero la norma no es el Decreto 467/88 sino la **Ley 24.642**.
+- Decreto 467/88, art. 24 (reglamenta el art. 38 de la Ley 23.551): «Para que la obligación de retener sea exigible la asociación sindical debe comunicar la resolución del Ministerio de Trabajo y Seguridad Social que la dispone, con una antelación no menor a diez (10) días al primer pago al que resulte aplicable». No fija plazo de depósito. InfoLEG anota que el Decreto 758/2001 lo sustituyó y que el Decreto 922/2001 derogó esa sustitución, «volviendo al texto original». [L] https://servicios.infoleg.gob.ar/infolegInternet/anexos/45000-49999/46044/texact.htm
+- **Ley 24.642** (sancionada el 08/05/1996, promulgada el 28/05/1996), art. 2: «Los empleadores deberán depositar a la orden de la asociación sindical respectiva las cuotas a cargo de los afiliados, en la misma fecha que los aportes y contribuciones al Sistema de Seguridad Social, siendo responsables directos del importe de las retenciones que no hubieran sido efectuadas». Art. 3: la falta de pago en término «hará incurrir en mora a los responsables sin necesidad de interpelación alguna». Art. 5: cobro por apremio, con el certificado de deuda del sindicato como título ejecutivo; prescribe a los cinco años. Art. 6: el empleador comunica cada mes al sindicato la nómina de afiliados, sus remuneraciones, las altas y bajas y las cuotas. [L] https://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/37182/norma.htm
+- InfoLEG no registra normas que modifiquen la Ley 24.642. [L] https://servicios.infoleg.gob.ar/infolegInternet/verVinculos.do?modo=2&id=37182 No pude confirmar en el texto de la Ley 27.802 que no la toque (descarga cortada; ver punto 3).
+- Consecuencia para el calendario: la cuota sindical se deposita en las mismas fechas que el F. 931 (en noviembre de 2026, el 11, 12 o 13 según el CUIT). Es lectura de esta base. Los aportes convencionales que no son cuota de afiliado siguen lo que diga cada convenio (no leído).
+
+### 5. Ganancias de cuarta categoría: cuándo se ingresa la retención (RG 4003 y RG 2233)
+
+Cerrado.
+- RG AFIP 4003 (texto de la biblioteca de ARCA), art. 24: «Los agentes de retención deberán cumplir las formas, plazos y demás condiciones que para el ingreso e información de las retenciones practicadas, establece la Resolución General Nº 2.233, sus modificatorias y complementarias (Sistema de Control de Retenciones - SICORE)». El art. 23 manda informar en la DDJJ SICORE del período mayo a los beneficiarios a los que no se pudo retener el total («Recibo de Sueldo», «Imposibilidad de Retención»). [L] https://biblioteca.afip.gob.ar/dcp/REAG01004003_2017_03_02
+- RG AFIP 2233 (2007), art. 2: los agentes «deberán: a) Ingresar el importe total de las retenciones practicadas desde el día 1 al 15, ambos inclusive, de cada mes […] hasta el día del mismo mes que, de acuerdo con la terminación de la […] C.U.I.T., fije el cronograma de vencimientos […]. b) Informar nominativamente las retenciones y/o percepciones practicadas en el curso de cada mes calendario, e ingresar el saldo resultante de la declaración jurada, hasta el día del mes inmediato siguiente que fije el cronograma». También: «Cuando alguna de las fechas de vencimiento […] coincida con día feriado o inhábil, la misma, así como las posteriores, se trasladarán correlativamente». [L] https://biblioteca.afip.gob.ar/dcp/REAG01002233_2007_03_27
+- El código 217 «Impuesto a las Ganancias» del Anexo II, que es el de las retenciones sobre sueldos, entra en el régimen general. El art. 2 no exceptúa a las retenciones sobre sueldos. [L]
+- La única salida del ingreso quincenal es la del Título II, art. 10: si en un mes no se retuvo nada o se retuvo «por un importe total determinado inferior o igual a DOS MIL PESOS ($ 2.000.-)», se puede optar por la declaración jurada semestral («agente esporádico»). Pero el art. 11 a) mantiene el ingreso de lo retenido del 1 al 15, y el b) manda ingresar lo retenido del 16 a fin de mes en la fecha del inc. b) del art. 2. El tope de $2.000 es el del texto que leí; no vi que se haya actualizado. [L]
+- Resumen para tesorería: la retención de Ganancias de un sueldo pagado entre el 1 y el 15 del mes (el caso habitual del sueldo mensual, pagado dentro de los cuatro días hábiles) se ingresa ese mismo mes, el 21, 22 o 23 según el CUIT (RG 4354, F16), y lo retenido después del 15 se ingresa con la DDJJ del mes siguiente. Las fechas exactas de 2026 vienen de las RG de cronograma (F14 a F16); no leí si alguna RG de 2026 cambió el cronograma de SICORE.
+
+### 6. Feriados nacionales de 2026
+
+Cerrado.
+- Fuente: el calendario oficial de la Jefatura de Gabinete (JSON publicado por la página, «dateModified» 2026-10-02, editor «Ministerio del Interior»). [L] https://www.argentina.gob.ar/sites/default/files/holidays-2026-es.json (página: https://www.argentina.gob.ar/jefatura/feriados-nacionales-2026)
+- Base legal: la Ley 27.399, art. 6 (los feriados trasladables que caen martes o miércoles pasan al lunes anterior y los que caen jueves o viernes, al lunes siguiente), y el Decreto 614/2025, art. 1 (los que caen sábado o domingo pueden pasar al lunes o al viernes, según disponga la autoridad de aplicación, que es la Jefatura de Gabinete). [L] Cita del mismo JSON; el texto de la Ley 27.399 en InfoLEG no se pudo abrir («No se pudo acceder al archivo»).
+- Días no laborables con fines turísticos (los «puente»): **Resolución JGM 164/2025** (23/12/2025, BO 26/12/2025, n.º 35818, p. 19). No es un decreto. Art. 1: «AÑO 2026: Lunes 23 de marzo, Viernes 10 de julio y Lunes 7 de diciembre». [L] https://www.argentina.gob.ar/normativa/nacional/421799/texto
+- Feriados nacionales (inamovibles y trasladados) de 2026, según el JSON [L]:
+  - jueves 1/1, Año Nuevo;
+  - lunes 16/2 y martes 17/2, Carnaval;
+  - martes 24/3, Día de la Memoria;
+  - jueves 2/4, Malvinas;
+  - viernes 3/4, Viernes Santo;
+  - viernes 1/5, Día del Trabajador;
+  - lunes 25/5, Revolución de Mayo;
+  - lunes 15/6, Güemes (trasladado del 17/6);
+  - sábado 20/6, Belgrano;
+  - jueves 9/7, Independencia;
+  - lunes 17/8, San Martín;
+  - lunes 12/10, Diversidad Cultural;
+  - **lunes 9/11, visita del Papa (Decreto 1103/2026)**;
+  - lunes 23/11, Soberanía Nacional (trasladado del 20/11);
+  - martes 8/12, Inmaculada Concepción;
+  - viernes 25/12, Navidad.
+- Días no laborables con fines turísticos: lunes 23/3, viernes 10/7 y lunes 7/12.
+- Feriados con alcance territorial limitado: martes 10/11 en Córdoba y CABA, miércoles 11/11 en la Provincia de Buenos Aires (Decreto 1103/2026). El 10/11 fue además feriado bancario en todo el país («A» 8487).
+- Días no laborables (optativos para el sector privado): jueves 2/4 (Jueves Santo), los religiosos judíos e islámicos y el 24/4. [L]
+- Lo que queda para el calendario de diciembre de 2026: el lunes 7 es un día no laborable turístico. Para el sector privado no es obligatorio, pero la página dice que en el sector público rige como no laborable; si los bancos abren ese día no lo verifiqué (no vi una «A» del BCRA sobre el 7/12). El martes 8 es feriado. El F. 931 de noviembre, del 9, 10 y 11 de diciembre (miércoles a viernes), no se movería; es cuenta mía.
+
+### 7. Tasa de intereses resarcitorios de ARCA en noviembre de 2026
+
+Cerrado: **2,75 % mensual**.
+- Ley 11.683 (t.o. 1998), art. 37: la falta de pago de «gravámenes, retenciones, percepciones, anticipos y demás pagos a cuenta» devenga, «desde los respectivos vencimientos, sin necesidad de interpelación alguna, un interés resarcitorio». La tasa no puede exceder «del doble de la mayor tasa vigente que perciba en sus operaciones el Banco de la Nación Argentina». [L] https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18771/texact.htm
+- La fija el Ministerio de Economía (art. 64 de la Ley 27.591). La norma vigente es la **Resolución MEcon 3/2024** (19/01/2024, BO 22/01/2024), con el art. 1 sustituido por la **Resolución MEcon 823/2025** (23/06/2025, BO 25/06/2025): «Establécese la tasa de interés resarcitorio prevista en el artículo 37 de la Ley N° 11.683 […] en el dos coma setenta y cinco por ciento (2,75%) mensual», con efectos «desde el 1° de julio de 2025, inclusive». El interés punitorio (art. 52) es del 3,50 % mensual. La tasa diaria es la mensual dividida por 30 (art. 7). Para obligaciones en dólares, el art. 3 original fija 0,83 % resarcitorio y 1 % punitorio; no verifiqué si la 823/2025 lo cambió. [L] Texto actualizado: https://servicios.infoleg.gob.ar/infolegInternet/anexos/395000-399999/396159/texact.htm ; Res. 823/2025: https://servicios.infoleg.gob.ar/infolegInternet/anexos/410000-414999/414413/norma.htm
+- En el medio, la Resolución MEcon 199/2025 (BO 28/02/2025) también modificó la 3/2024 (no la leí). El esquema original de 2024 (1,3 veces la tasa de descubierto del BNA, por bimestre) quedó reemplazado por una tasa fija.
+- Vigencia en noviembre de 2026: InfoLEG no registra normas posteriores a la 823/2025 que modifiquen la 3/2024. [L] https://servicios.infoleg.gob.ar/infolegInternet/verVinculos.do?modo=2&id=396159 No pude cruzarlo con el Boletín Oficial de 2025 y 2026 (la búsqueda «interés resarcitorio» devolvió 429) ni con la tabla de tasas de la página de ARCA (no la ubiqué por URL). La Ley 27.826 (BO 09/10/2026) tocó la Ley 11.683 (multas formales, régimen penal), pero InfoLEG no le pone nota al art. 37.
+- Que la misma tasa alcance al F. 931 (recursos de la seguridad social) es lectura de esta base: el art. 37 habla de «gravámenes, retenciones», y la remisión de la seguridad social a la Ley 11.683 no la leí acá.

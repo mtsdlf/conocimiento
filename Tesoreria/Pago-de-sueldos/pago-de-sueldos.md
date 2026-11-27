@@ -20,11 +20,11 @@ El pago de sueldos es la parte de la tesorería que hace llegar el neto de cada 
 
 Empieza donde termina la [liquidación de sueldos](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md): un lote cerrado que dice cuánto cobra cada uno. La liquidación es dueña del cálculo, del [recibo](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/recibo-de-sueldo.md) y de las reglas sobre el medio de pago que fija la ley; acá se ejecuta el pago. Es el paso 6 del recorrido [de la contratación a la baja](../../Procesos-de-negocio/de-la-contratacion-a-la-baja.md), entre el lote cerrado y la conciliación del extracto, que hace [Contabilidad](../../Contabilidad/Control-interno/conciliaciones.md).
 
-APQC hace el mismo corte. Pone «Process and distribute payments» en la nómina (9.5.2.5) y el movimiento de fondos, la proyección y la relación con los bancos en la tesorería (9.7.2.3, 9.7.2.4 y 9.7.2.7). La nómina procesa y reparte; la tesorería mueve la plata y la prevé.
+APQC hace el mismo corte. Pone «Process and distribute payments» en la nómina (9.5.2.5) y el movimiento de fondos, la proyección y la relación con los bancos en la tesorería (9.7.2.3, 9.7.2.4 y 9.7.2.7).
 
 ## En qué se diferencia de pagar a un proveedor
 
-El sueldo sale por los mismos rieles que el pago a un proveedor (la transferencia en lote de [medios de cobro y pago](../Caja-y-liquidez/medios-de-cobro-y-pago.md#transferencias-y-archivos-al-banco)), pero la tesorería decide mucho menos:
+El sueldo sale por los mismos rieles que el pago a un proveedor, la transferencia en lote de [medios de cobro y pago](../Caja-y-liquidez/medios-de-cobro-y-pago.md#transferencias-y-archivos-al-banco). Lo que cambia es cuánto decide la tesorería:
 
 | | Pago a proveedores | Pago de sueldos |
 |---|---|---|
@@ -34,17 +34,17 @@ El sueldo sale por los mismos rieles que el pago a un proveedor (la transferenci
 | El medio | Lo acuerdan las partes | Lo limita la ley ([el pago de sueldos](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md#el-pago-de-sueldos), según el Convenio 95 de la OIT) |
 | La cuenta destino | La de la ficha del proveedor | La del legajo del empleado, que la elige él |
 
-Una salida de sueldos son en realidad dos salidas con fechas distintas, en lectura de esta base sobre OpenStax (12.5) y las reglas de depósito de cargas: el neto, el día de pago, y lo retenido más las contribuciones, en el vencimiento de cada organismo. La segunda es plata de terceros que la empresa tiene en su cuenta hasta esa fecha.
+Cada pago de sueldos son dos salidas con fechas distintas, en lectura de esta base sobre OpenStax (12.5) y las reglas de depósito de cargas: el neto, el día de pago, y lo retenido más las contribuciones, en el vencimiento de cada organismo. La segunda es plata de terceros que la empresa tiene en su cuenta hasta esa fecha.
 
 ## El ciclo de cada pago
 
-1. **Lote cerrado.** La liquidación entrega el total de netos y, por cada empleado, su cuenta y su importe.
-2. **Fondeo.** La tesorería deja la plata en la cuenta de la que sale el pago, antes de la hora de corte del banco ([fondeo y calendario](fondeo-y-calendario.md)).
-3. **Archivo y control.** Se genera el archivo del banco y se compara su suma con el total de netos, y cada cuenta con la del legajo ([cuentas y acreditación](cuentas-y-acreditacion.md)).
-4. **Liberación.** Alguien distinto de quien liquidó libera el lote en el banco (lectura de esta base), con las firmas que pida la [política de tesorería](../politica-de-tesoreria.md).
-5. **Acreditación.** El banco reparte el lote; las cuentas que no existen o están cerradas vuelven como rechazos.
-6. **Verificación.** Se compara lo debitado con lo enviado, se paga de nuevo lo rechazado y el extracto pasa a la conciliación.
-7. **Cargas.** Las retenciones y contribuciones del período salen en su propio vencimiento.
+1. Lote cerrado. La liquidación entrega el total de netos y, por cada empleado, su cuenta y su importe.
+2. Fondeo. La tesorería deja la plata en la cuenta de la que sale el pago, antes de la hora de corte del banco ([fondeo y calendario](fondeo-y-calendario.md)).
+3. Archivo y control. Se genera el archivo del banco y se compara su suma con el total de netos, y cada cuenta con la del legajo ([cuentas y acreditación](cuentas-y-acreditacion.md)).
+4. Liberación. Alguien distinto de quien liquidó libera el lote en el banco (lectura de esta base), con las firmas que pida la [política de tesorería](../politica-de-tesoreria.md).
+5. Acreditación. El banco reparte el lote; las cuentas que no existen o están cerradas vuelven como rechazos.
+6. Verificación. Se compara lo debitado con lo enviado, se paga de nuevo lo rechazado y el extracto pasa a la conciliación.
+7. Cargas. Las retenciones y contribuciones del período salen en su propio vencimiento.
 
 Los pasos 3 y 4 vienen del traspaso «lote a Tesorería» del recorrido, donde la suma del archivo tiene que coincidir con el total de netos y cada cuenta con la del legajo. La separación entre quien liquida y quien libera no tiene fuente con método leída: APQC separa los dos actos, pero no dice que tengan que hacerlos personas distintas.
 
@@ -52,7 +52,7 @@ Los pasos 3 y 4 vienen del traspaso «lote a Tesorería» del recorrido, donde l
 
 El Convenio 95 de la OIT pide que el salario se pague «regularly», a intervalos que fijen la ley, el convenio o el laudo (art. 12). La frecuencia (semanal, quincenal, mensual) la decide cada país y cada convenio, y su lado legal está en [frecuencias y período de liquidación](../../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md#frecuencias-y-período-de-liquidación).
 
-Para la caja, la frecuencia es una decisión con costo. La CFPB, el regulador financiero de consumidores de Estados Unidos, recuerda que el pago periódico responde a la eficiencia de procesar la nómina y al «employers' cash management», y que pagar más seguido choca con «additional costs in both time and money to run payroll more frequently, cash flow limitations, and inertia» (opinión de diciembre de 2025, nota 3). En lectura de esta base, el empleador que paga una vez por mes usa el trabajo del mes antes de pagarlo, y el pago a demanda que se describe en [fondeo y calendario](fondeo-y-calendario.md#el-pago-a-demanda) es la respuesta del mercado a ese desfase.
+La frecuencia también le cuesta a la caja. La CFPB, el regulador financiero de consumidores de Estados Unidos, recuerda que el pago periódico responde a la eficiencia de procesar la nómina y al «employers' cash management», y que pagar más seguido choca con «additional costs in both time and money to run payroll more frequently, cash flow limitations, and inertia» (opinión de diciembre de 2025, nota 3). En lectura de esta base, el empleador que paga una vez por mes usa el trabajo del mes antes de pagarlo, y el pago a demanda que se describe en [fondeo y calendario](fondeo-y-calendario.md#el-pago-a-demanda) es la respuesta del mercado a ese desfase.
 
 ## Cómo falla el pago de sueldos
 
