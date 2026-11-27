@@ -5,8 +5,10 @@ estado: borrador
 estabilidad: estable
 fuentes:
   - "IBM, Maximo Manage, Work order statuses (estados y transiciones): https://www.ibm.com/docs/en/maximo-manage/continuous-delivery?topic=orders-work-order-statuses"
-  - "SAP Help, orden técnicamente concluida (TECO) y cerrada (CLSD), según el buscador: https://help.sap.com/doc/saphelp_sfin100/1.9/en-US/88/16295411158c24e10000000a4450e5/content.htm"
-  - "SAP Help 4.6C, aviso pendiente y liberación de la orden, según el buscador: https://help.sap.com/saphelp_46c/helpdata/en/de/957177415611d1893d0000e8323c4f/content.htm"
+  - "SAP Help, System Status for Orders (estados de la orden y sus efectos) [M]: https://help.sap.com/doc/saphelp_sfin100/1.9/en-US/29/cab65334e6b54ce10000000a174cb4/content.htm"
+  - "SAP Help, Changing the System Status in the Order (técnicamente concluida, cerrada, avisos asignados) [M]: https://help.sap.com/doc/saphelp_sfin100/1.9/en-US/88/16295411158c24e10000000a4450e5/content.htm"
+  - "SAP Help, Notifications and Task Lists in Maintenance Orders (avisos asignados a la orden) [M]: https://help.sap.com/doc/saphelp_sfin100/1.9/en-US/91/d92354f6f28c24e10000000a4450e5/content.htm"
+  - "Activos-y-mantenimiento/.investigacion/verificacion-orden-de-trabajo.md"
   - "Odoo 17, Maintenance requests: https://www.odoo.com/documentation/17.0/applications/inventory_and_mrp/maintenance/maintenance_requests.html"
   - "ERPNext, Asset Maintenance: https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance"
   - "OSHA, 29 CFR 1910.147, The control of hazardous energy (lockout/tagout): https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
@@ -39,23 +41,23 @@ Un sistema de mantenimiento de referencia tiene esta tabla de estados. Lo que m�
 | Esperando aprobación | «waiting for approval» | aprobada, en curso, esperando materiales, esperando condición, terminada, cerrada, cancelada |
 | Aprobada | «approved and the work can begin» | esperando aprobación, en curso, esperando materiales, esperando condición, terminada, cerrada, cancelada |
 | Esperando programación | «waiting to be scheduled» | las mismas que aprobada |
-| Esperando materiales | «Materials must arrive before the work can be performed» | el resumen leído no lo dice |
-| Esperando condición de planta | «can be performed only when the condition of the plant is suitable» | el resumen leído no lo dice |
+| Esperando materiales | «Materials must arrive before the work can be performed» | en curso, terminada, esperando condición, esperando aprobación, cerrada, cancelada |
+| Esperando condición de planta | «The work can be performed only when the condition of the plant is suitable» | en curso, terminada, esperando aprobación, cerrada, cancelada |
 | En curso | «The work is in progress» | esperando materiales, terminada, esperando aprobación, cerrada |
 | Terminada | «The physical work is completed» | solo cerrada |
 | Cerrada | «The work order is closed» | solo editada en historia |
 | Cancelada | «The work order is canceled» | ninguno |
 
-Una orden cerrada solo se corrige pasando por un estado especial de edición en el historial. La fuente no usa las palabras «cierre técnico» y «cierre administrativo»; leer la separación así es inferencia de la base.
+Una orden cerrada solo se corrige pasando por un estado especial de edición en el historial. Esta fuente no usa las palabras «cierre técnico» y «cierre administrativo»; la del ERP de más abajo sí distingue completar «técnicamente» y completar «para el negocio».
 
-Un ERP de gran empresa hace el mismo corte con otros nombres, según el buscador: la orden se libera (REL) cuando tiene la información necesaria; queda técnicamente concluida (TECO) cuando el trabajo terminó, y en ese estado todavía admite la liquidación de costos; y pasa a cerrada (CLSD), estado final que la bloquea. Esa documentación no se leyó entera.
+Un ERP de gran empresa hace el mismo corte con otros nombres. La orden se crea y, «after all the required information has been entered», se libera; al liberarla el sistema revisa la disponibilidad de materiales y herramientas y los permisos pendientes, y recién entonces se pueden retirar las reservas y cargar las horas. Después puede quedar parcialmente confirmada y finalmente confirmada. Técnicamente concluida es «complete for Plant Maintenance»: se borran las reservas y las capacidades pendientes, pero todavía se pueden imputar costos (por ejemplo, facturas de materiales entregados y usados) y liquidar. Concluida para el negocio es el estado final: ya no recibe ninguna imputación y queda bloqueada, y solo se puede liquidar si no se completó antes para el negocio. Además tiene estados de bloqueo y de «no ejecutada», que deja a la vista que el trabajo planificado no se hizo.
 
 ## Un documento o varios
 
 Hay dos formas de modelar el pedido y el trabajo, y las dos se usan:
 
 - Un solo documento que va del pedido al cierre. El sistema para pymes tiene una «solicitud de mantenimiento» con tres etapas: nueva, reparada y desechada (para lo irreparable). No tiene estados de aprobación, planificación ni cierre administrativo. Alcanza cuando quien pide y quien hace son casi la misma gente.
-- Aviso y orden separados. El ERP de gran empresa crea primero un aviso, con estado «aviso pendiente», y después una orden que lo atiende; los avisos asignados a la orden pueden seguir su estado. Sirve cuando muchos piden, pocos aprueban y no todo aviso merece una orden. El aviso está en [solicitud de trabajo](solicitud-de-trabajo.md).
+- Aviso y orden separados. El ERP de gran empresa crea primero un aviso, que tiene sus propios estados, y después una orden que lo atiende; los avisos asignados a la orden pueden seguir su estado: al concluir la orden, el sistema ofrece completar también los avisos asignados. Sirve cuando muchos piden, pocos aprueban y no todo aviso merece una orden. El aviso está en [solicitud de trabajo](solicitud-de-trabajo.md).
 
 Un ERP abierto muestra una tercera división, por origen del trabajo: el preventivo es un plan con tareas y periodicidad que genera un registro por ocurrencia, que se completa o se cancela; lo no planificado va por otro documento, la reparación, que registra la falla, la parada, el costo y si el costo se capitaliza. Elegir entre las tres formas depende de cuántas personas intervienen y de si hace falta aprobar; es criterio de la base.
 

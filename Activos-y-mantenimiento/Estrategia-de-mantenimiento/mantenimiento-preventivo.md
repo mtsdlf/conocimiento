@@ -5,6 +5,7 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "DOE/FEMP, O&M Best Practices Guide, Release 3.0, cap. 5, sec. 5.3 «Preventive Maintenance» y 5.4: https://www1.eere.energy.gov/femp/pdfs/OM_5.pdf"
+  - "Nowlan y Heap, Reliability-Centered Maintenance, 1978, DTIC ADA066579 (copia de la Wayback Machine del PDF de DTIC; la URL original da 403): https://web.archive.org/web/2020/https://apps.dtic.mil/sti/pdfs/ADA066579.pdf"
   - "NASA, Reliability Centered Maintenance Guide for Facilities and Collateral Equipment, copia de febrero de 2000, fig. 1-1 y sec. 2.4.5: https://everyspec.com/NASA/NASA-General/download.php?spec=NASA_RCM_GUIDE_2000.030306.pdf"
   - "Wikipedia, Preventive maintenance (según su resumen): https://en.wikipedia.org/wiki/Preventive_maintenance"
   - "ERPNext, Asset Maintenance (plan, tareas con periodicidad, registros por ocurrencia): https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance"
@@ -13,6 +14,7 @@ fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 10.3.1.4, 10.3.1.7 y 10.3.3.1: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Activos-y-mantenimiento/.investigacion/estrategia-y-fundamentos.md (componentes A y B, 2026-11-27)"
   - "Activos-y-mantenimiento/.investigacion/orden-de-trabajo.md (preventivo por calendario o por uso, 2026-11-27)"
+  - "Activos-y-mantenimiento/.investigacion/verificacion-estrategia.md (2026-11-27)"
 aliases: [mantenimiento preventivo, preventive maintenance, PM, mantenimiento planificado, planned maintenance, mantenimiento programado, scheduled maintenance, mantenimiento predeterminado, predetermined maintenance, plan de mantenimiento, maintenance plan, preventivo por calendario, time-based maintenance, preventivo por uso, usage-based maintenance, meter-based maintenance]
 creado: 2026-11-27
 revisado:
@@ -61,7 +63,7 @@ La orden que sale del plan sigue el mismo ciclo que cualquier otra, del alta al 
 
 El preventivo por intervalo funciona cuando la falla depende de la edad. La NASA lo reserva para lo sujeto a desgaste, los consumibles y lo que tiene un patrón de falla conocido. Agrega que los elementos simples, de una sola pieza, muestran con frecuencia una relación directa entre confiabilidad y edad, y que para ellos un límite de edad por tiempo de marcha o por ciclos de esfuerzo puede ser efectivo.
 
-Para los equipos complejos, según la NASA, la mayoría no falla por edad, y cambiarlos a una edad fija no los hace más confiables; la NASA lo toma de Nowlan y Heap, como cuenta [mantenimiento centrado en la confiabilidad](mantenimiento-centrado-en-confiabilidad.md).
+Para los equipos complejos, según la NASA, la mayoría no falla por edad, y cambiarlos a una edad fija no los hace más confiables; la NASA lo toma de Nowlan y Heap (1978), que lo dicen así en el original: «unless there is a dominant failure mode, an age limit does little or nothing to improve the overall reliability of a complex item». Está en [mantenimiento centrado en la confiabilidad](mantenimiento-centrado-en-confiabilidad.md).
 
 Sobremantener tiene costo y tiene riesgo. El DOE pone entre las desventajas del preventivo que «Includes performance of unneeded maintenance» y el «Potential for incidental damage to components in conducting unneeded maintenance». La NASA va más lejos: «In many cases scheduled overhaul increases the overall failure rate by introducing a high infant mortality rate into an otherwise stable system». Un tornillo flojo o una junta mal puesta al reabrir un equipo que andaba bien serían ejemplos de ese daño incidental (ejemplo de la base).
 

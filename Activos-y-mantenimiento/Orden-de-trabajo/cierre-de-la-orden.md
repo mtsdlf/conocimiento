@@ -5,14 +5,15 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "IBM, Maximo Manage, Work order statuses (terminada, cerrada, edición en historia): https://www.ibm.com/docs/en/maximo-manage/continuous-delivery?topic=orders-work-order-statuses"
-  - "SAP Help, orden técnicamente concluida (TECO) y cerrada (CLSD), según el buscador: https://help.sap.com/doc/saphelp_sfin100/1.9/en-US/88/16295411158c24e10000000a4450e5/content.htm"
+  - "SAP Help, System Status for Orders [M]: https://help.sap.com/doc/saphelp_sfin100/1.9/en-US/29/cab65334e6b54ce10000000a174cb4/content.htm"
+  - "SAP Help, Changing the System Status in the Order [M]: https://help.sap.com/doc/saphelp_sfin100/1.9/en-US/88/16295411158c24e10000000a4450e5/content.htm"
   - "ERPNext, Asset Repair: https://docs.frappe.io/erpnext/user/manual/en/asset-repair"
   - "ERPNext, Asset Maintenance: https://docs.frappe.io/erpnext/user/manual/en/asset-maintenance"
   - "Odoo 17, Maintenance setup (MTBF y próxima falla estimada): https://www.odoo.com/documentation/17.0/applications/inventory_and_mrp/maintenance/maintenance_setup.html"
   - "Microsoft Learn, Dynamics 365 Field Service, Work order lifecycle and system statuses (2026-08-10): https://learn.microsoft.com/en-us/dynamics365/field-service/work-order-status-booking-status"
   - "Microsoft Learn, Overview of Dynamics 365 Field Service (2026-11-23): https://learn.microsoft.com/en-us/dynamics365/field-service/overview"
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 10.3.2.3 y 10.3.2.4: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
-  - "Activos-y-mantenimiento/.investigacion/orden-de-trabajo.md, registro-y-desempeno.md, servicio-de-campo.md, tercera-ronda.md y apqc-10.md"
+  - "Activos-y-mantenimiento/.investigacion/verificacion-orden-de-trabajo.md, orden-de-trabajo.md, registro-y-desempeno.md, servicio-de-campo.md, tercera-ronda.md y apqc-10.md"
 aliases: [cierre de la orden, cierre de orden de trabajo, work order close, work order completion, cierre técnico, cierre administrativo, technical completion, códigos de falla, failure codes, notificación de tiempos]
 creado: 2026-11-27
 revisado:
@@ -46,9 +47,9 @@ Una falla en texto libre se lee, pero no se cuenta. Para saber cuántas veces fa
 
 ## Terminada y cerrada
 
-El trabajo físico termina antes que la orden. Un sistema de mantenimiento de referencia tiene dos estados: terminada, «The physical work is completed», y cerrada, que viene después y desde la que solo se puede pasar a una edición controlada del historial. Un ERP de gran empresa hace el mismo corte, según el buscador: técnicamente concluida, que todavía admite liquidar costos, y cerrada, final y bloqueada. Un sistema de servicio de campo lo hace con terminada y contabilizada: la segunda la pone administración después de revisar, y dispara la factura.
+El trabajo físico termina antes que la orden. Un sistema de mantenimiento de referencia tiene dos estados: terminada, «The physical work is completed», y cerrada, que viene después y desde la que solo se puede pasar a una edición controlada del historial. Un ERP de gran empresa hace el mismo corte: técnicamente concluida, que «can still» recibir costos (por ejemplo, facturas de materiales entregados y usados), y concluida para el negocio, que ya no recibe ninguna imputación y queda bloqueada. Un sistema de servicio de campo lo hace con terminada y contabilizada: la segunda la pone administración después de revisar, y dispara la factura.
 
-Para la base, el intervalo entre los dos estados existe porque hay cosas que llegan tarde: la factura de un taller externo, la devolución al depósito de un repuesto que no se usó, la revisión del supervisor de los códigos que cargó el técnico. Llamar a esto cierre técnico y cierre administrativo es lectura de la base; las fuentes no usan esos términos. Cerrar la orden en el mismo momento en que termina el trabajo deja el costo incompleto para siempre. Esta explicación es inferencia de la base.
+Para la base, el intervalo entre los dos estados existe porque hay cosas que llegan tarde: la factura de un taller externo, la devolución al depósito de un repuesto que no se usó, la revisión del supervisor de los códigos que cargó el técnico. Llamar a esto cierre técnico y cierre administrativo es lectura de la base; el sistema de mantenimiento de referencia no usa esos términos, y el ERP habla de completar «técnicamente» y «para el negocio». Cerrar la orden en el mismo momento en que termina el trabajo deja el costo incompleto para siempre. Esta explicación es inferencia de la base.
 
 En el servicio de campo hay una variante: el técnico puede marcar la orden como terminada o como que necesita seguimiento, y un cierre parcial la devuelve a sin programar. Está en [visita técnica](../Servicio-de-campo/visita-tecnica.md).
 
@@ -58,7 +59,7 @@ El que cierra la orden es el técnico, al final del turno y con la próxima urge
 
 El daño es concreto. Un sistema de gestión para pymes calcula el [tiempo medio entre fallas](../Desempeno-de-los-activos/indicadores-de-mantenimiento.md) sobre las órdenes correctivas terminadas, y estima la próxima falla así: «Latest Failure Date + MTBF». Si un correctivo se cargó como preventivo, o no se cerró, ese cálculo cuenta mal y la fecha estimada miente. Lo mismo pasa con cualquier análisis de [mantenimiento centrado en la confiabilidad](../Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md), que exige identificar los modos de falla dominantes y sus causas.
 
-Lo que ayuda, como criterio de la base: pocas opciones de código, elegidas según la clase del equipo; campos obligatorios solo donde el dato se usa; y una revisión del supervisor entre terminada y cerrada. Palmer, según los resúmenes de sus principios, pide la retroalimentación de los técnicos para que el planificador mejore el próximo paquete de trabajo (ver [planificación y programación](planificacion-y-programacion.md)).
+Lo que ayuda, como criterio de la base: pocas opciones de código, elegidas según la clase del equipo; campos obligatorios solo donde el dato se usa; y una revisión del supervisor entre terminada y cerrada. Palmer, en su columna sobre los principios, pide guardar la retroalimentación de los técnicos para que el planificador mejore el plan «for the next time» (ver [planificación y programación](planificacion-y-programacion.md)).
 
 ## El costo pasa a Contabilidad
 

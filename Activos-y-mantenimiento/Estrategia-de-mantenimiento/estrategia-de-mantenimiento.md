@@ -6,11 +6,13 @@ estabilidad: estable
 fuentes:
   - "DOE/FEMP, O&M Best Practices Guide, Release 3.0, cap. 5 «Types of Maintenance Programs»: https://www1.eere.energy.gov/femp/pdfs/OM_5.pdf"
   - "NASA, Reliability Centered Maintenance Guide for Facilities and Collateral Equipment, copia de febrero de 2000, fig. 1-1 y sec. 1.2: https://everyspec.com/NASA/NASA-General/download.php?spec=NASA_RCM_GUIDE_2000.030306.pdf"
+  - "Nowlan y Heap, Reliability-Centered Maintenance, 1978, DTIC ADA066579 (copia de la Wayback Machine del PDF de DTIC; la URL original da 403): https://web.archive.org/web/2020/https://apps.dtic.mil/sti/pdfs/ADA066579.pdf"
   - "Wikipedia, Corrective maintenance (cita NF EN 13306; según su resumen): https://en.wikipedia.org/wiki/Corrective_maintenance"
   - "Wikipedia, Preventive maintenance (según su resumen): https://en.wikipedia.org/wiki/Preventive_maintenance"
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 10.3.1 «Plan asset maintenance» y 10.3.3 «Perform asset maintenance»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Activos-y-mantenimiento/.investigacion/estrategia-y-fundamentos.md (componente A, mitos y segunda ronda, 2026-11-27)"
   - "Activos-y-mantenimiento/.investigacion/apqc-10.md (2026-11-27)"
+  - "Activos-y-mantenimiento/.investigacion/verificacion-estrategia.md (2026-11-27)"
 aliases: [estrategia de mantenimiento, maintenance strategy, tipos de mantenimiento, types of maintenance, política de mantenimiento, maintenance policy, programa de mantenimiento, maintenance program]
 creado: 2026-11-27
 revisado:
@@ -24,7 +26,7 @@ Es la segunda vertical de [Activos y mantenimiento](../activos-y-mantenimiento.m
 
 ## Los tipos de mantenimiento, por qué dispara la intervención
 
-El campo usa dos taxonomías que se solapan. La norteamericana (la guía del DOE y la de la NASA) habla de reactivo, preventivo, predictivo y proactivo. La europea, la norma EN 13306, distingue entre otras cosas el correctivo inmediato y el diferido; esta base no la leyó y toma esas dos definiciones de un resumen de Wikipedia, sin poder verificar el resto de la norma. Las dos taxonomías ordenan lo mismo: qué hace que alguien intervenga el equipo (lectura de la base).
+El campo usa dos taxonomías que se solapan. La norteamericana (la guía del DOE y la de la NASA) habla de reactivo, preventivo, predictivo y proactivo. La europea, la norma EN 13306, distingue entre otras cosas el correctivo inmediato y el diferido; esta base no la leyó y toma esas dos definiciones de la página de Wikipedia que cita la edición francesa de la norma, sin poder verificar el resto de la norma. Las dos taxonomías ordenan lo mismo: qué hace que alguien intervenga el equipo (lectura de la base).
 
 - **Correctivo inmediato.** Se repara después de detectar la falla y se empieza enseguida. Según el resumen de Wikipedia, EN 13306 define el correctivo como «maintenance which is carried out after failure detection», y el inmediato como el que «starts immediately after a failure».
 - **Correctivo diferido.** La falla ya ocurrió, pero la reparación se demora según reglas fijadas de antemano («delayed in conformance to a given set of maintenance rules»). El caso típico es un equipo que sigue andando a medias o tiene respaldo, y la orden entra al pendiente (ejemplo de la base).
@@ -35,7 +37,9 @@ El campo usa dos taxonomías que se solapan. La norteamericana (la guía del DOE
 
 La guía del DOE titula su sección «Predictive Maintenance (Condition-Based Maintenance)» y trata los dos nombres como uno. Wikipedia, en cambio, presenta el predictivo como una forma del mantenimiento por condición que usa sensores y tendencias. Esta base usa **mantenimiento por condición** y deja predictivo como sinónimo; el detalle está en [mantenimiento por condición](mantenimiento-por-condicion.md).
 
-> [!NOTE] Sin fuente todavía: la búsqueda de fallas ocultas (probar periódicamente una protección que solo actúa cuando otra cosa falla, como una alarma o una válvula de alivio) es una tarea que propone el RCM, no un tipo normativo. Falta una fuente leída que la defina; Nowlan y Heap y Moubray no se abrieron. Tampoco se confirmaron «mejorativo» ni «detectivo» como tipos de ninguna norma.
+La búsqueda de fallas ocultas (probar periódicamente una protección que solo actúa cuando otra cosa falla, como una alarma o una válvula de alivio) es una tarea que propone el RCM, no un tipo normativo. Nowlan y Heap, en 1978, la definen como una «scheduled inspection of a hidden-function item to find any functional failures» y la reservan para los elementos cuya falla no es evidente para quien opera en sus tareas normales: no previenen la falla, la buscan, para reducir la exposición a una falla múltiple. Moubray no se abrió.
+
+> [!NOTE] Sin fuente todavía: «mejorativo» y «detectivo» como tipos de alguna norma, y las definiciones literales de EN 13306. Se intentó la ficha comercial del organismo checo, que da solo el alcance, y la página de Wikipedia, que da la definición del correctivo pero no las de inmediato y diferido; las fichas de venta de las normas no muestran el texto.
 
 ## Qué tipo conviene a qué equipo
 

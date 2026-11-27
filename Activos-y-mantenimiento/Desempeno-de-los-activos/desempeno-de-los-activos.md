@@ -5,9 +5,10 @@ estado: borrador
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 10.3.2 y 10.4.1, pp. 27-28: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
-  - "Reliable Media (Reliamag), Maintenance and Reliability KPI Reference (resumen): https://reliamag.com/topics/guides/maintenance-reliability-kpi-reference"
+  - "Reliable Media (Reliamag), Maintenance and Reliability KPI Reference (página leída, sin fecha de publicación): https://reliamag.com/topics/guides/maintenance-reliability-kpi-reference"
   - "Activos-y-mantenimiento/.investigacion/registro-y-desempeno.md (2026-11-27)"
   - "Activos-y-mantenimiento/.investigacion/apqc-10.md (2026-11-27)"
+  - "Activos-y-mantenimiento/.investigacion/verificacion-registro-y-desempeno.md (2026-11-27)"
 aliases: [desempeño del mantenimiento, maintenance performance, asset performance, gestión del desempeño de activos, asset performance management, APM, indicadores de mantenimiento, KPI de mantenimiento]
 creado: 2026-11-27
 revisado:
@@ -40,9 +41,9 @@ Los primeros tres miden al equipo; los tres del medio, al trabajo; los dos últi
 
 ## Por qué los números de referencia no se trasladan
 
-Los objetivos de clase mundial circulan mucho y se rastrean poco. Una guía de indicadores lo advierte: los objetivos «frequently circulate without a traceable primary source», y una métrica con el mismo nombre en un tablero de un proveedor y en la norma europea EN 15341 «may be calculated slightly differently». Como criterio de la base, un indicador se compara primero contra sí mismo en el tiempo y después, con su fórmula a la vista, contra otra planta.
+Los objetivos de clase mundial circulan mucho y se rastrean poco. Una guía de indicadores lo advierte: muchos objetivos de clase mundial «circulate widely without a traceable primary source», y «a metric labeled the same way in a vendor dashboard and in EN 15341 may be calculated slightly differently». Como criterio de la base, un indicador se compara primero contra sí mismo en el tiempo y después, con su fórmula a la vista, contra otra planta.
 
-> [!NOTE] Sin fuente todavía: valores de referencia trazables para cualquier indicador de esta vertical (las definiciones de SMRP están detrás de una membresía y no se leyeron).
+> [!NOTE] Sin fuente todavía: valores de referencia trazables para cualquier indicador de esta vertical (la página pública de SMRP no trae las definiciones, que están en un compendio para miembros, y no se leyeron).
 
 ## Lo que esta vertical no mide
 

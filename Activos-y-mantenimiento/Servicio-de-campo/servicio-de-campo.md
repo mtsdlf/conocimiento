@@ -9,7 +9,8 @@ fuentes:
   - "Microsoft Learn, Work order lifecycle and system statuses, 2026-08-10: https://learn.microsoft.com/en-us/dynamics365/field-service/work-order-status-booking-status"
   - "Microsoft Learn, Set up customer agreements to generate work orders, 2026-03-02: https://learn.microsoft.com/en-us/dynamics365/field-service/set-up-agreements-work-orders"
   - "Wikipedia, Field service management (secundaria, con «citation needed»): https://en.wikipedia.org/wiki/Field_service_management"
-  - "Cohen, Agrawal y Agrawal, «Winning in the Aftermarket», Harvard Business Review, mayo de 2006 (solo el resumen público): https://hbr.org/2006/05/winning-in-the-aftermarket"
+  - "Baines, Lightfoot, Benedettini y Kay, The servitization of manufacturing: a review of literature and reflection on future challenges, Journal of Manufacturing Technology Management 20(5), 2009, 547-567 (solo el resumen): https://doi.org/10.1108/17410380910960984"
+  - "Cohen, Agrawal y Agrawal, «Winning in the Aftermarket», Harvard Business Review, mayo de 2006 (solo la página de apertura del artículo): https://hbr.org/2006/05/winning-in-the-aftermarket"
   - "Activos-y-mantenimiento/.investigacion/servicio-de-campo.md (rondas 1 y 2)"
   - "Activos-y-mantenimiento/.investigacion/apqc-10.md"
 aliases: [servicio de campo, field service, field service management, FSM, gestión del servicio de campo, servicio técnico, servicio técnico a domicilio, servicio posventa, after-sales service, service products after sales]
@@ -68,9 +69,11 @@ Un sistema de referencia distingue cuatro maneras de que nazca el trabajo de cam
 - Predictivo, por datos de sensores (IoT): la estrategia está en [mantenimiento por condición](../Estrategia-de-mantenimiento/mantenimiento-por-condicion.md).
 - Por proyecto: una instalación o un trabajo con principio y fin.
 
-Por qué importa el negocio de posventa lo plantean Cohen, Agrawal y Agrawal en Harvard Business Review (2006). Según su resumen público, los ejecutivos temen que la mayoría de las empresas «either don't know how or don't care to provide after-sales services effectively», y la alta gerencia lo trata como «a mere afterthought». El cuerpo del artículo no se leyó.
+Por qué importa el negocio de posventa lo plantean Cohen, Agrawal y Agrawal en Harvard Business Review (2006). Según el texto de apertura de la página del artículo, los ejecutivos temen que la mayoría de las empresas «either don't know how or don't care to provide after-sales services effectively», y la alta gerencia lo trata como «a mere afterthought». El cuerpo del artículo no se leyó.
 
-> [!NOTE] Sin fuente todavía: cómo separan el mercado los analistas (gestión de servicio de campo frente a centro de atención al cliente) y la servitización como concepto.
+La servitización es, según Baines y otros (2009), la innovación de las capacidades y los procesos de una organización para pasar de vender productos a vender productos y servicios integrados.
+
+> [!NOTE] Sin fuente todavía: cómo separan el mercado los analistas (gestión de servicio de campo frente a centro de atención al cliente).
 
 ## Qué hay en Servicio de campo
 

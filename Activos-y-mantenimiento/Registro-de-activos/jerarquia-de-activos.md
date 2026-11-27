@@ -5,7 +5,10 @@ estado: borrador
 estabilidad: estable
 fuentes:
   - "Reliable Media (Reliamag), How to build an asset hierarchy in a CMMS, cita la figura 3 de ISO 14224:2016 vía un paper de OTC (resumen): https://reliamag.com/topics/guides/how-to-build-asset-hierarchy-cmms"
-  - "Wikipedia, ISO 14224 (resumen): https://en.wikipedia.org/wiki/ISO_14224"
+  - "Wikipedia, ISO 14224 (resumen; solo remite a la página de ISO): https://en.wikipedia.org/wiki/ISO_14224"
+  - "Leveraging FMMEA for Digital Twin Development: A Case Study on Intelligent Completion in Oil and Gas, Sensors 25(18), 2025, 5846 (artículo revisado, de acceso abierto, que aplica la ISO 14224:2016): https://doi.org/10.3390/s25185846"
+  - "CPCON, ISO 14224 Explained: Equipment Taxonomy & Reliability Data (guía comercial, leída): https://cpcongroup.com/insights/article/iso-14224-equipment-taxonomy/"
+  - "CASRAI, ISO 14224 Standard: Petroleum & Reliability Data (guía, leída; numera distinto los niveles 6 y 7): https://casrai.org/guides/iso-14224"
   - "SAP Help 4.6C, Equipment at Functional Locations (como evidencia de práctica, resumen): https://help.sap.com/saphelp_46c/helpdata/en/01/d546244ab311d189740000e8322d00/content.htm"
   - "SAP Help 4.6C, Installing/Dismantling Equipment from the Functional Location Master Record (resumen): https://help.sap.com/saphelp_46c/helpdata/en/01/d546314ab311d189740000e8322d00/content.htm"
   - "SAP Help 4.6C, Installing/Dismantling from the Equipment Master Record (resumen): https://help.sap.com/saphelp_46c/helpdata/en/01/d546654ab311d189740000e8322d00/content.htm"
@@ -13,6 +16,7 @@ fuentes:
   - "SAP KBA 3582809 (solo extracto del buscador, no leído): https://userapps.support.sap.com/sap/support/knowledge/en/3582809"
   - "ERPNext, Asset Movement (como evidencia de práctica, resumen): https://docs.frappe.io/erpnext/user/manual/en/asset-movement"
   - "Activos-y-mantenimiento/.investigacion/registro-y-desempeno.md (2026-11-27), primera y segunda ronda"
+  - "Activos-y-mantenimiento/.investigacion/verificacion-registro-y-desempeno.md (2026-11-27)"
 aliases: [jerarquía de equipos, asset hierarchy, ubicación técnica, functional location, ubicación funcional, taxonomía de equipos, equipment taxonomy, ISO 14224, lista de repuestos del equipo, lista de materiales de mantenimiento, maintenance BOM, equipment BOM, componente mantenible, maintainable item]
 creado: 2026-11-27
 revisado:
@@ -26,7 +30,7 @@ Es la forma del [registro de activos](registro-de-activos.md). Sobre ella se cal
 
 ## Los nueve niveles de la ISO 14224
 
-La ISO 14224:2016 propone una taxonomía de nueve niveles. Según una guía secundaria que cita la figura 3 de la norma (la norma no se leyó):
+La ISO 14224:2016 propone una taxonomía de nueve niveles. Según una guía secundaria que cita la figura 3 de la norma (la norma, de pago, no se leyó):
 
 | Nivel | Nombre en la norma | Qué es |
 |---|---|---|
@@ -40,9 +44,9 @@ La ISO 14224:2016 propone una taxonomía de nueve niveles. Según una guía secu
 | 8 | Component/Maintainable item | el componente mantenible |
 | 9 | Part | la pieza |
 
-Los niveles 1 a 5 describen el uso y la ubicación; los 6 a 9 subdividen el equipo. El nivel 6 es, en la cita de la misma guía, «the common reporting level for merging and assessment», y «a failure of a component is also counted as a failure of its parent equipment». Es decir: la falla de un rodamiento (nivel 8) cuenta también como falla de la bomba (nivel 6), y los indicadores se comparan a nivel de equipo.
+Un artículo revisado por pares que aplica la ISO 14224:2016 confirma los niveles 6, 7 y 8: el 6 es «a single unit of equipment or system», el 7 son «subunits or subsystems» y el 8, «maintainable components or items». Los niveles 1 a 5 y el 9 solo constan en guías secundarias, y una de ellas (CASRAI) pone el subsistema en el nivel 6 y la unidad de equipo en el 7, contra las otras dos fuentes: se toma la numeración de la guía de Reliamag, que coincide con el artículo. Los niveles 1 a 5 describen el uso y la ubicación; los 6 a 9 subdividen el equipo. El nivel 6 es, en la cita de la misma guía, «the common reporting level for merging and assessment», y «a failure of a component is also counted as a failure of its parent equipment». Es decir: la falla de un rodamiento (nivel 8) cuenta también como falla de la bomba (nivel 6), y los indicadores se comparan a nivel de equipo.
 
-Según un resultado del buscador, la norma es del petróleo, el gas natural y la petroquímica; para otras industrias es un modelo de referencia y no un requisito. Según la misma guía, la última edición cubre «108 equipment classes, with 46 in focus», cifra de un paper que no se verificó contra la norma. La guía aconseja no usar los nueve niveles el primer día. Como criterio de la base, una planta chica puede arrancar con planta, sistema, equipo y componente.
+El título de la norma es «Petroleum, petrochemical and natural gas industries — Collection and exchange of reliability and maintenance data for equipment». Según una guía comercial, ese «remains its formal scope», y otros sectores la adoptan como marco de buenas prácticas por su estructura genérica; para ellos es un modelo de referencia y no un requisito. Según la misma guía, la última edición cubre «108 equipment classes, with 46 in focus», cifra de un paper que no se verificó contra la norma. La guía aconseja no usar los nueve niveles el primer día. Como criterio de la base, una planta chica puede arrancar con planta, sistema, equipo y componente.
 
 ## Ubicación técnica y equipo
 
@@ -74,4 +78,4 @@ Debajo del equipo están los subconjuntos, los componentes mantenibles y las pie
 
 La lista de repuestos del equipo dice qué piezas lleva cada equipo y en qué cantidad, para que la orden sepa qué pedir sin que el planificador lo busque cada vez. Qué repuestos reserva una orden y cuáles son críticos está en [repuestos y materiales](../Orden-de-trabajo/repuestos-y-materiales.md); cuántos hay en el depósito es del tema [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md).
 
-> [!NOTE] Sin fuente todavía: cómo se arma la lista de repuestos del equipo (maintenance BOM), si es propia de cada equipo o de su clase, y cómo se relaciona con la lista de materiales de producción. La guía de jerarquía leída dice explícitamente que no trata repuestos, y no se alcanzó ninguna página de un sistema sobre el tema.
+> [!NOTE] Sin fuente todavía: cómo se arma la lista de repuestos del equipo (maintenance BOM), si es propia de cada equipo o de su clase, y cómo se relaciona con la lista de materiales de producción. La guía de jerarquía leída dice explícitamente que no trata repuestos, y no se alcanzó ninguna página de un sistema sobre el tema (la documentación de IBM es de carga dinámica y la de Odoo 17 no menciona listas de repuestos del equipo).

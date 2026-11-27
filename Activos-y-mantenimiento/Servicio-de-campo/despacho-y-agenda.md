@@ -11,6 +11,8 @@ fuentes:
   - "Microsoft Learn, Resource Scheduling Optimization overview, 2026-10-29: https://learn.microsoft.com/en-us/dynamics365/field-service/rso-overview"
   - "Microsoft Learn, Schedule assistant overview: https://learn.microsoft.com/en-us/dynamics365/field-service/schedule-assistant"
   - "Microsoft Learn, Manually schedule from the schedule board: https://learn.microsoft.com/en-us/dynamics365/field-service/schedule-board-manual-scheduling"
+  - "Paraskevopoulos, Laporte, Repoussis y Tarantilis, Resource constrained routing and scheduling: Review and research prospects, European Journal of Operational Research 263(3), 2017, 737-754 (manuscrito aceptado, leído en parte: resumen, introducción y sección 2): https://openaccess.city.ac.uk/id/eprint/19845"
+  - "Castillo-Salazar, Landa-Silva y Qu, Workforce scheduling and routing problems: literature survey and computational study, Annals of Operations Research, 2014 (solo ficha bibliográfica): https://doi.org/10.1007/s10479-014-1687-2"
   - "Wikipedia, Vehicle routing problem: https://en.wikipedia.org/wiki/Vehicle_routing_problem"
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 6.3.4.2 y 6.3.4.3.1: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Activos-y-mantenimiento/.investigacion/servicio-de-campo.md (rondas 1 y 2)"
@@ -77,9 +79,9 @@ El mismo sistema admite dos maneras de programar las órdenes no planificadas: �
 
 Armar la agenda de varios técnicos que salen de un punto, visitan clientes y vuelven es, por inferencia de la base, una forma del problema de ruteo de vehículos. Una de sus variantes incluye ventanas horarias: «The delivery locations have time windows within which the deliveries (or visits) must be made». El motor de optimización del sistema de referencia dice atacar una variante del problema del viajante.
 
-El ruteo de técnicos agrega algo que el problema clásico no tiene: no cualquier técnico sirve para cualquier visita. La enciclopedia leída no menciona técnicos ni habilidades; tratar las habilidades como una restricción más del ruteo es inferencia de la base. El ruteo de camiones con mercadería es del tema Cadena de suministro y logística, todavía no armado; acá solo el de técnicos.
+El ruteo de técnicos agrega algo que el problema clásico no tiene: no cualquier técnico sirve para cualquier visita. La enciclopedia leída no menciona técnicos ni habilidades, pero un survey de la investigación operativa sí: en el problema de ruteo de vehículos con habilidades, cada cliente requiere un conjunto de habilidades y los técnicos tienen las suyas, y el objetivo es minimizar el costo de ruteo sin violar esas restricciones (Paraskevopoulos y otros, 2017). El ruteo de camiones con mercadería es del tema Cadena de suministro y logística, todavía no armado; acá solo el de técnicos.
 
-> [!NOTE] Sin fuente todavía: un survey académico sobre programación y ruteo de técnicos, leído al menos en su resumen, que diga cómo se formula el problema y qué métodos se usan.
+Ese survey (revisión de la literatura) lo llama problema de ruteo y programación de recursos con restricciones y lo describe así: asignar recursos escasos, como técnicos calificados, que deben visitar distintos clientes; lo clasifica por calificaciones del recurso, requisitos del servicio y objetivos, e identifica los algoritmos exactos y heurísticos más eficaces. Las ventanas horarias son frecuentes, duras o blandas. Otro survey anterior sobre programación y ruteo de personal (Castillo-Salazar, Landa-Silva y Qu, Annals of Operations Research) solo se conoce por la cita del primero y por su ficha bibliográfica; su resumen no se leyó.
 
 ## Las visitas del contrato no miran la agenda
 

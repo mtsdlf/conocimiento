@@ -10,7 +10,7 @@ fuentes:
   - "Odoo 17.0, Field Service: Product management: https://www.odoo.com/documentation/17.0/applications/services/field_service/product_management.html"
   - "Odoo 17.0, Field Service: Worksheets: https://www.odoo.com/documentation/17.0/applications/services/field_service/worksheets.html"
   - "Wikipedia, Field service management (secundaria, con «citation needed»): https://en.wikipedia.org/wiki/Field_service_management"
-  - "IBM, What is first-time fix rate? (según el resumen del buscador): https://ibm.com/think/topics/first-time-fix-rate"
+  - "IBM, What is first-time fix rate? (página del proveedor, leída): https://ibm.com/think/topics/first-time-fix-rate"
   - "PTC, What is first-time fix rate? (blog de proveedor; cifras atribuidas a Aberdeen, según el buscador): https://www.ptc.com/en/blogs/service/what-is-first-time-fix-rate"
   - "AEX, How to increase first-time fix rates (blog de proveedor; cifra atribuida a Aberdeen, según el buscador): https://aexinc.com/blog/how-to-increase-first-time-fix-rates"
   - "CustomerThink, sobre el informe de Aquant de 2026 (según el buscador): https://customerthink.com/?p=1080461"
@@ -71,9 +71,9 @@ Qué cubre el contrato y qué se cobra está en [contrato de servicio](contrato-
 
 ## Resolver en la primera visita
 
-Resolver en la primera visita («first-time fix») es terminar el trabajo en la primera cita, sin visita de seguimiento, sin repuestos adicionales y sin ayuda externa, y se mide, según un resumen del buscador de una página de IBM, como los trabajos resueltos en la primera visita sobre los trabajos completados. El sistema de referencia lo pone como objetivo («Improve first-time fix rate») y una enciclopedia lo cita como beneficio, los dos sin cifra.
+Resolver en la primera visita («first-time fix») es terminar el trabajo en la primera cita, sin visita de seguimiento, sin repuestos adicionales y sin ayuda externa, y se mide, según una página de IBM, como el porcentaje de trabajos completados en la primera visita sin visitas de seguimiento: los resueltos en la primera visita sobre el total de trabajos completados, por cien. El sistema de referencia lo pone como objetivo («Improve first-time fix rate») y una enciclopedia lo cita como beneficio, los dos sin cifra.
 
-Las cifras que circulan se atribuyen a Aberdeen Group, pero llegan por blogs de proveedores que no coinciden entre sí. Uno da 88 % para los mejores, 80 % para el promedio y 63 % para los rezagados; otro, un promedio de cerca de 75 %. El informe original de Aberdeen no se encontró. Un informe de otro proveedor, de 2026 y con unos 30 millones de eventos de servicio, da 77 % según un tercero que lo comenta. Ninguna se leyó en la fuente original: no sirven para compararse.
+Las cifras que circulan se atribuyen a Aberdeen Group, pero llegan por blogs de proveedores que no coinciden entre sí. Uno da 88 % para los mejores, 80 % para el promedio y 63 % para los rezagados; otro, un promedio de cerca de 75 %. El informe original de Aberdeen no se encontró. Un informe de otro proveedor, de 2026 y con unos 30 millones de eventos de servicio, da 77 % según un tercero que lo comenta. Ninguna se leyó en la fuente original: no sirven para compararse. La página de IBM también cita un estudio de Aberdeen Group (por debajo de 70 % perjudicaría la retención, la satisfacción y el cumplimiento de los SLA) y no describe su método. No se encontró una fuente con método publicado: lo que hay son páginas de proveedores y su definición sale de ellas, no de un estudio.
 
 > [!NOTE] Sin fuente todavía: por qué falla la primera visita (falta el repuesto en la camioneta, el técnico no tiene la habilidad, el diagnóstico del caso fue malo) y en qué proporción. Las tres causas son el saber del sector, y cada una apunta a otra pieza: la [camioneta](#el-stock-de-la-camioneta), el [despacho](despacho-y-agenda.md#con-qué-criterios-se-elige-al-técnico) y la atención al cliente.
 

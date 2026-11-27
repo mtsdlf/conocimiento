@@ -5,6 +5,7 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "DOE/FEMP, O&M Best Practices Guide, Release 3.0, cap. 5, sec. 5.4 «Predictive Maintenance (Condition-Based Maintenance)» y comparación de programas: https://www1.eere.energy.gov/femp/pdfs/OM_5.pdf"
+  - "Nowlan y Heap, Reliability-Centered Maintenance, 1978, DTIC ADA066579 (copia de la Wayback Machine del PDF de DTIC; la URL original da 403): https://web.archive.org/web/2020/https://apps.dtic.mil/sti/pdfs/ADA066579.pdf"
   - "NASA, Reliability Centered Maintenance Guide for Facilities and Collateral Equipment, copia de febrero de 2000, glosario y fig. 1-1: https://everyspec.com/NASA/NASA-General/download.php?spec=NASA_RCM_GUIDE_2000.030306.pdf"
   - "Kevin Clark, «Improving maintenance by adopting a P-F curve methodology», InTech (ISA), marzo/abril de 2019: https://www.isa.org/intech-home/2019/march-april/features/improving-maintenance-by-adopting-a-p-f-curve-meth"
   - "Tractian, glosario, P-F curve (regla de la mitad del intervalo; vía buscador, no leído): https://tractian.com/en/glossary/p-f-curve-potential-failure-curve"
@@ -12,6 +13,7 @@ fuentes:
   - "Moubray, Reliability-centred Maintenance (RCM II), 1997 (no leído): https://books.google.com/books?id=bNCVF0B7vpIC"
   - "Activos-y-mantenimiento/.investigacion/estrategia-y-fundamentos.md (componente C y mitos, 2026-11-27)"
   - "Activos-y-mantenimiento/.investigacion/tercera-ronda.md (curva P-F, 2026-11-27)"
+  - "Activos-y-mantenimiento/.investigacion/verificacion-estrategia.md (2026-11-27)"
 aliases: [mantenimiento por condición, mantenimiento predictivo, predictive maintenance, PdM, mantenimiento basado en la condición, condition-based maintenance, CBM, monitoreo de condición, condition monitoring, curva P-F, P-F curve, intervalo P-F, P-F interval, falla potencial, potential failure, falla funcional, functional failure, tarea a condición, on-condition task]
 creado: 2026-11-27
 revisado:
@@ -39,8 +41,8 @@ Para quien construye el software, la diferencia importa en el dato, según la ba
 
 La curva P-F dibuja cómo un equipo pasa de estar bien a fallar, y dónde en ese camino se puede ver que viene la falla. Tiene dos puntos:
 
-- **P, la falla potencial.** La NASA la define como «An identifiable condition that indicates a failure is imminent». Clark, en la revista de la ISA, la describe como «a detectable state of failure, or the point at which degradation begins».
-- **F, la falla funcional.** Según Clark, es cuando el equipo «has reached a failed state or no longer performs satisfactorily»: dejó de cumplir su función.
+- **P, la falla potencial.** Nowlan y Heap (1978) la definen como «an identifiable physical condition which indicates a functional failure is imminent»; la NASA, como «An identifiable condition that indicates a failure is imminent». Clark, en la revista de la ISA, la describe como «a detectable state of failure, or the point at which degradation begins».
+- **F, la falla funcional.** Nowlan y Heap la definen como «the inability of an item (or the equipment containing it) to meet a specified performance standard», que incluye no rendir al nivel especificado además de la pérdida total de la función. Según Clark, es cuando el equipo «has reached a failed state or no longer performs satisfactorily»: dejó de cumplir su función.
 
 El **intervalo P-F** es el tiempo entre que la falla potencial se detecta y la falla funcional ocurre. Es el margen para actuar: pedir el repuesto, programar la parada y cambiar la pieza (lectura de la base). Clark aclara que «The method and frequency of detection essentially determine the length of the P-F interval».
 
@@ -50,15 +52,15 @@ flowchart LR
   P -->|intervalo P-F: margen para actuar| F[F: el equipo deja de cumplir su función]
 ```
 
-Clark cita a John Bernet: «The P-F curve is a conceptual representation only and does not have any units or scale». Sirve para razonar, no para leer números. Varias fuentes secundarias atribuyen el término a John Moubray, según el buscador; el libro de Moubray no se abrió.
+Clark cita a John Bernet: «The P-F curve is a conceptual representation only and does not have any units or scale». Sirve para razonar, no para leer números. Nowlan y Heap fundan los conceptos de falla potencial y funcional, pero en su informe no aparece la sigla «P-F»; varias fuentes secundarias atribuyen el término a John Moubray, según el buscador, y el libro de Moubray no se abrió.
 
-De la curva sale, por lógica de la base, la regla para fijar la frecuencia de inspección: hay que mirar más seguido que el intervalo P-F, o la falla puede pasar entre dos inspecciones sin que nadie la vea. Un glosario de un proveedor da como regla práctica inspeccionar a la mitad del intervalo P-F, según el buscador; no es una regla que se pueda atribuir a Moubray ni a una norma.
+De la curva sale la regla para fijar la frecuencia de inspección. Nowlan y Heap piden como condición que haya un intervalo de edad razonablemente consistente entre la falla potencial y la funcional, y fijan el intervalo de inspección para que dé «ample opportunity to detect a potential failure before a functional failure can occur». Dicho de otro modo (lectura de la base), hay que mirar más seguido que el intervalo P-F, o la falla puede pasar entre dos inspecciones sin que nadie la vea. Un glosario de un proveedor da como regla práctica inspeccionar a la mitad del intervalo P-F, según el buscador; no es una regla que se pueda atribuir a Moubray ni a una norma.
 
-> [!NOTE] Sin fuente todavía: la relación entre la frecuencia de inspección y el intervalo P-F en una fuente primaria (Moubray, RCM II, capítulo de tareas a condición), y valores de intervalo P-F por técnica y tipo de falla.
+> [!NOTE] Sin fuente todavía: la regla de inspeccionar a la mitad del intervalo P-F (Moubray, RCM II, capítulo de tareas a condición, no abierto; Nowlan y Heap no la dan), y valores de intervalo P-F por técnica y tipo de falla.
 
 ## Cuándo vale la pena vigilar en lugar de cambiar
 
-El mantenimiento por condición tiene condiciones técnicas y económicas. Las técnicas salen de la curva, como criterio de la base: tiene que existir una falla potencial que se pueda detectar, el intervalo P-F tiene que ser lo bastante largo para actuar, y tiene que ser lo bastante estable para fijar una frecuencia de inspección. Si la falla no avisa, o avisa con horas cuando la reparación lleva semanas, vigilarla no sirve.
+El mantenimiento por condición tiene condiciones técnicas y económicas. Las condiciones técnicas coinciden con los tres criterios de aplicabilidad de Nowlan y Heap para una tarea a condición: poder detectar la pérdida de resistencia a la falla en un modo de falla específico, poder definir una condición de falla potencial detectable con una tarea explícita, y un intervalo razonablemente consistente entre esa condición y la falla funcional. Dicho en la curva (lectura de la base), el intervalo P-F tiene que ser lo bastante largo para actuar y lo bastante estable para fijar una frecuencia de inspección. Si la falla no avisa, o avisa con horas cuando la reparación lleva semanas, vigilarla no sirve.
 
 La NASA lo recomienda para las fallas aleatorias, las que no dependen de la edad, y para las que induce el propio preventivo al abrir el equipo. Según la NASA, la mayoría de los equipos no falla por edad, como cuenta [mantenimiento centrado en la confiabilidad](mantenimiento-centrado-en-confiabilidad.md); que sean fallas aleatorias es lectura de la base.
 

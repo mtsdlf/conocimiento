@@ -6,21 +6,25 @@ estabilidad: estable
 fuentes:
   - "NASA, Reliability Centered Maintenance Guide for Facilities and Collateral Equipment, copia de febrero de 2000, sec. 1.2, fig. 1-1 y sec. 2.4: https://everyspec.com/NASA/NASA-General/download.php?spec=NASA_RCM_GUIDE_2000.030306.pdf"
   - "DOE/FEMP, O&M Best Practices Guide, Release 3.0, cap. 5 «Types of Maintenance Programs»: https://www1.eere.energy.gov/femp/pdfs/OM_5.pdf"
-  - "Nowlan y Heap, Reliability-Centered Maintenance, United Airlines para el Departamento de Defensa de EE.UU., 1978, DTIC ADA066579 (no leído): https://apps.dtic.mil/sti/pdfs/ADA066579.pdf"
-  - "Moubray, Reliability-centred Maintenance (RCM II), 1997 (no abierto): https://books.google.com/books?id=bNCVF0B7vpIC"
-  - "Moubray, «The Case Against Streamlined RCM», Reliabilityweb (según un extracto): https://reliabilityweb.com/articles/entry/the_case_against_streamlined_reliability_centered_maintanance"
+  - "Nowlan y Heap, Reliability-Centered Maintenance, United Airlines para el Departamento de Defensa de EE.UU., 1978, DTIC ADA066579 (copia de la Wayback Machine del PDF de DTIC; la URL original, apps.dtic.mil/sti/pdfs/ADA066579.pdf, da 403): https://web.archive.org/web/2020/https://apps.dtic.mil/sti/pdfs/ADA066579.pdf"
+  - "Moubray, Reliability-centred Maintenance (RCM II), 1997 (el libro no se abrió; su capítulo 1 se leyó como extracto en Plant Maintenance Resource Center, vía herramienta de resumen): http://www.plant-maintenance.com/RCM-intro.shtml"
+  - "Moubray, «The Case Against Streamlined RCM», Reliabilityweb (leído vía herramienta de resumen): https://reliabilityweb.com/articles/entry/the_case_against_streamlined_reliability_centered_maintanance"
   - "Troyer, «Rethinking Maintenance: Why the 89% Rule Doesn't Fit All Assets», Reliable Magazine: https://reliamag.com/topics/articles/rethinking-maintenance-why-the-89-rule-doesnt-fit-all-assets"
   - "Wikipedia, Total productive maintenance (según su resumen): https://en.wikipedia.org/wiki/Total_productive_maintenance"
   - "Wikipedia, Overall equipment effectiveness (según su resumen): https://en.wikipedia.org/wiki/Overall_equipment_effectiveness"
   - "Ireland y Dale, «A study of total productive maintenance implementation», Journal of Quality in Maintenance Engineering 7(3), 183-192, 2001 (abstract): http://www.emerald.com/jqme/article/7/3/183-192/253384"
   - "Wikipedia, Asset management (según su resumen): https://en.wikipedia.org/wiki/Asset_management"
-  - "ISO 55000:2014 (no leída): https://www.iso.org/standard/55088.html"
+  - "Wikipedia, PAS 55 (según su resumen): https://en.wikipedia.org/wiki/PAS_55"
+  - "Activos-y-mantenimiento/.investigacion/verificacion-estrategia.md (2026-11-27)"
+  - "ISO 55000:2014, ficha oficial (retirada, reemplazada por ISO 55000:2024; copia de la Wayback Machine, porque iso.org da 403): https://web.archive.org/web/2024/https://www.iso.org/standard/55088.html"
+  - "ISO 55000:2024, Asset management, Vocabulary, overview and principles, ficha oficial (copia de la Wayback Machine): https://web.archive.org/web/2025/https://www.iso.org/standard/83053.html"
+  - "IAM, What is asset management?, que cita las definiciones de la ISO 55000:2014, 3.2.1 y 3.3.1: https://theiam.org/what-is-asset-management/"
   - "Moodley, editorial «Is ISO 55000:2014 the new dawn in asset management?», Infrastructure Asset Management 1(2), 21-22, 2014 (extracto): https://www.emerald.com/jinam/article/1/2/21/436617/Editorial-Is-ISO-55000-2014-the-new-dawn-in-asset"
   - "Thomas y Weiss, Economics of Manufacturing Machinery Maintenance, NIST AMS 100-34, junio de 2020 (resumen ejecutivo y método): https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.100-34.pdf"
   - "Reliable Magazine, «Predictive Maintenance ROI Benchmarks: What the Studies Show»: https://reliamag.com/topics/guides/predictive-maintenance-roi-benchmarks-what-the-studies-show"
   - "Reliable Magazine, «Do 80% of CMMS Implementations Fail? Tracing the Number»: https://reliamag.com/topics/articles/cmms-implementation-failure-rate"
   - "SMRP, sitio y biblioteca de métricas (según su resumen): https://www.smrp.org/learning-resources/smrp-library/best-practices-metrics-guidelines/"
-  - "IAM, Knowledge (según su resumen): https://theiam.org/knowledge/"
+  - "IAM, Knowledge (leído vía herramienta de resumen): https://theiam.org/knowledge/"
   - "GFMAM (según su resumen): https://gfmam.org/"
   - "Activos-y-mantenimiento/.investigacion/estrategia-y-fundamentos.md (componente E y segunda ronda, 2026-11-27)"
   - "Activos-y-mantenimiento/.investigacion/posicion-contraria.md (2026-11-27)"
@@ -37,13 +41,15 @@ Es el contexto de [Activos y mantenimiento](../activos-y-mantenimiento.md); los 
 
 ## De reparar lo roto a gestionar el activo
 
-La historia tiene tres hitos con fuente. El primero es la aviación: según la NASA, los estudios de las aerolíneas de fines de los sesenta mostraron que «the basic premise of time based maintenance was false for the majority of equipment». De ahí salió el mantenimiento centrado en la confiabilidad, con el informe de Nowlan y Heap de 1978; su historia y sus cifras están en [mantenimiento centrado en la confiabilidad](../Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md).
+La historia tiene tres hitos con fuente. El primero es la aviación: según la NASA, los estudios de las aerolíneas de fines de los sesenta mostraron que «the basic premise of time based maintenance was false for the majority of equipment». De ahí salió el mantenimiento centrado en la confiabilidad, con el informe de Nowlan y Heap de 1978 (leído en el original); su historia y sus cifras están en [mantenimiento centrado en la confiabilidad](../Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md).
 
 El segundo es Japón. Según el resumen de Wikipedia, Seiichi Nakajima desarrolló el mantenimiento productivo total (TPM) entre 1950 y 1970, se aplicó por primera vez en 1971 y Nippondenso, proveedora de Toyota, fue la primera ganadora del premio PM. El JIPM (Japan Institute of Plant Maintenance) lo amplió después a una versión de toda la empresa.
 
-El tercero es la gestión de activos como sistema de gestión. Según Wikipedia, la ISO «published its management system standard for asset management in 2014»: la 55001 especifica los requisitos y la 55002 da los lineamientos. Define activo como «item, thing or entity that has potential or actual value to an organization».
+El tercero es la gestión de activos como sistema de gestión. Según la ficha de la ISO, la ISO 55000 salió en enero de 2014 («Overview, principles and terminology») y fue retirada y reemplazada por la ISO 55000:2024, «Vocabulary, overview and principles», segunda edición de julio de 2024; las definiciones de la edición 2024 no se leyeron. Según Wikipedia, la 55001 especifica los requisitos y la 55002 da los lineamientos. El IAM cita la edición 2014, apartados 3.2.1 y 3.3.1: el activo es «an item, thing or entity that has potential or actual value to an organisation», y la gestión de activos, «the coordinated activity of an organisation to realize value from assets».
 
-> [!NOTE] Sin fuente todavía: las «generaciones» del mantenimiento de Moubray, el paso del correctivo al preventivo de posguerra y la PAS 55 de la BSI, antecesora de la ISO 55000. Circulan con fechas que esta base no verificó.
+Moubray, en el capítulo 1 de RCM II, ordena la evolución del mantenimiento en tres generaciones. La primera llega hasta la Segunda Guerra Mundial: la industria estaba poco mecanizada y «downtime did not matter much». La segunda, desde la guerra hasta los sesenta, con máquinas más numerosas y complejas, consistía sobre todo en «equipment overhauls done at fixed intervals». La tercera empieza a mediados de los setenta, con nuevas expectativas, nueva investigación y nuevas técnicas.
+
+> [!NOTE] Sin fuente primaria todavía: la PAS 55 de la BSI, antecesora de la ISO 55000. Según Wikipedia, la BSI la publicó en 2004 y la revisó en 2008 (PAS 55:2008, diciembre de 2008); la página de la BSI no se pudo abrir.
 
 ## Tres enfoques en tres planos distintos
 
@@ -59,7 +65,7 @@ Lo que modela el software es sobre todo el plano de la primera fila: equipos, pl
 
 **El TPM** tiene ocho pilares, según el resumen de Wikipedia: mantenimiento autónomo, mejora enfocada, mantenimiento planificado, mantenimiento de la calidad, gestión temprana del equipo, educación y entrenamiento, TPM administrativo, y seguridad, salud y ambiente. Su medida es la eficiencia global del equipo, «Performance × Availability × Quality = OEE»; según Wikipedia, el término aparece por primera vez en *TPM Tenkai*, de Nakajima (1982); mide la línea y se explica en el tema Producción, todavía no armado.
 
-**La gestión de activos**, según el resumen del sitio del IAM (Institute of Asset Management), se agrupa en 39 materias bajo seis grupos.
+**La gestión de activos**, según el sitio del IAM (Institute of Asset Management), se organiza en 39 materias agrupadas en seis grupos.
 
 > [!IMPORTANT]
 > Cada enfoque tiene una disputa abierta, y en las tres falta un estudio independiente.
@@ -79,7 +85,7 @@ La regla que sale de las cinco es criterio de la base: una cifra de mantenimient
 
 ## Dónde se produce el saber del campo
 
-- **Normas.** EN 13306 (terminología y tipos de mantenimiento), SAE JA1011 (qué puede llamarse RCM), ISO 14224 (taxonomía de equipos y datos de falla), la serie ISO 55000 (gestión de activos) y EN 15341 (indicadores). Son pagas, ninguna se leyó y su alcance sale de fuentes secundarias.
+- **Normas.** EN 13306 (terminología y tipos de mantenimiento), SAE JA1011 (qué puede llamarse RCM), ISO 14224 (taxonomía de equipos y datos de falla), la serie ISO 55000 (gestión de activos) y EN 15341 (indicadores). Son pagas y ninguna se leyó completa; de la ISO 55000 y de JA1011 se leyó la ficha oficial, y de la ISO 55000 las definiciones que cita el IAM. El resto sale de fuentes secundarias.
 - **Sociedades profesionales.** SMRP es una sociedad sin fines de lucro «formed by practitioners» con una biblioteca de «70+ metrics and guidelines» cuyas definiciones están en un libro gratis solo para miembros. GFMAM agrupa sociedades de varios países, entre ellas IAM, JIPM, EFNMS y Abraman; SMRP no figura en su lista visible.
 - **Organismos públicos.** La guía del DOE, la guía RCM de la NASA y los informes de NIST: gratis y con datos, aunque el DOE repite cifras sin fuente.
 - **Revistas académicas.** *IEEE Transactions on Reliability*, *Journal of Quality in Maintenance Engineering* e *Infrastructure Asset Management*: de ahí salen un estudio sobre TPM y un editorial sobre la ISO 55000.
@@ -92,7 +98,7 @@ La regla que sale de las cinco es criterio de la base: una cifra de mantenimient
 |---|---|---|
 | NASA, *RCM Guide for Facilities and Collateral Equipment* (pública) | Caps. 1 a 3, fig. 1-1 y sec. 2.4 | Qué tipo conviene a qué equipo; la diferencia entre elementos simples y complejos |
 | DOE/FEMP, *O&M Best Practices Guide*, cap. 5 (pública, diez páginas) | Las tablas de ventajas y desventajas y la comparación de cuatro programas | Qué cifras traen fuente y cuáles no |
-| Nowlan y Heap, *Reliability-Centered Maintenance* (1978) | Los patrones de falla y la lógica de decisión | Que los datos son de aviones; esta base no lo pudo abrir |
+| Nowlan y Heap, *Reliability-Centered Maintenance* (1978) | La sec. 2.8 (patrones de falla, Exhibit 2.13), la sec. 2.2 (consecuencias) y el cap. 3 (las cuatro tareas) | Que los datos son de aviones; el PDF de DTIC es un escaneo de 515 páginas |
 | Moubray, *RCM II* (1997) | El cap. 1 sobre la historia; el de tareas a condición | La curva P-F; esta base no lo abrió |
 | NIST AMS 100-34 (2020) | El resumen ejecutivo y el método | El tamaño de la muestra y que mide asociaciones |
 | ISO 55000, más «Asset Management – An Anatomy» del IAM (título tomado de un informe, sin abrir) | El panorama y las 39 materias | Dónde queda el mantenimiento dentro de la gestión de activos |

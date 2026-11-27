@@ -5,6 +5,7 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), categoría 10.0 «Acquire, Construct, and Manage Assets» y 6.3 «Service products after sales»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "Nowlan y Heap, Reliability-Centered Maintenance, United Airlines, 29 de diciembre de 1978, DTIC ADA066579, Exhibit 2.13 (copia de la Wayback Machine): https://web.archive.org/web/2020/https://apps.dtic.mil/sti/pdfs/ADA066579.pdf"
   - "Activos-y-mantenimiento/.investigacion/ (informes del 2026-11-27)"
 aliases: [mantenimiento, gestión del mantenimiento, maintenance management, gestión de activos, asset management, EAM, enterprise asset management, CMMS, computerized maintenance management system, mantenimiento de planta, plant maintenance, servicio técnico]
 creado: 2026-11-27
@@ -57,7 +58,7 @@ Cada dominio es dueño de un objeto y un verbo, y los demás lo enlazan; la tabl
 ## Ideas que cruzan todo el tema
 
 - La orden de trabajo es el centro. El plan preventivo la genera, el aviso la pide, el técnico la ejecuta, el cierre escribe el historial y del historial salen los indicadores. Es lectura de la base.
-- No todo falla por edad. Según un resumen secundario del estudio de Nowlan y Heap (1978), el 89 % de los componentes de aviones de una aerolínea no mostraba zona de desgaste; la base concluye que cambiarlos a una edad fija no los hacía más confiables. La NASA agrega que la premisa del mantenimiento por tiempo resultó falsa para la mayoría de los equipos, con la salvedad de los elementos simples con desgaste. Los porcentajes son de aviones y no se trasladan sin análisis a otra flota; el detalle y las críticas están en [mantenimiento centrado en la confiabilidad](Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md).
+- No todo falla por edad. En el estudio de Nowlan y Heap (1978) sobre componentes de aviones de una aerolínea, el 89 % no mostraba zona de desgaste, y un límite de edad no podía mejorar su confiabilidad. La NASA agrega que la premisa del mantenimiento por tiempo resultó falsa para la mayoría de los equipos, con la salvedad de los elementos simples con desgaste. Los porcentajes son de aviones y no se trasladan sin análisis a otra flota; el detalle y las críticas están en [mantenimiento centrado en la confiabilidad](Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md).
 - El dato de falla es caro de cargar y fácil de arruinar. Quien cierra la orden es el técnico, y quien aprovecha el código de falla es quien analiza meses después. Para la base, esa asimetría explica la mayoría de los historiales inútiles; está en [cierre de la orden](Orden-de-trabajo/cierre-de-la-orden.md) y en [historial del equipo](Registro-de-activos/historial-del-equipo.md).
 - El equipo del cliente es un activo que no se posee. En el servicio de campo, la empresa lleva el registro, el historial y el plan de un equipo que no está en su balance. Por eso la [base instalada](Servicio-de-campo/base-instalada.md) es un registro operativo sin contraparte contable.
 

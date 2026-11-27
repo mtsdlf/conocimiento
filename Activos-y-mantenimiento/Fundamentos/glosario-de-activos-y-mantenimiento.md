@@ -65,14 +65,14 @@ El campo tiene una norma de terminología, la EN 13306, que esta base no leyó; 
 | Ruta | Route | Tareas cortas de muchos equipos agrupadas en un solo recorrido; definición de la base, sin fuente leída | [mantenimiento preventivo](../Estrategia-de-mantenimiento/mantenimiento-preventivo.md) |
 | Mantenimiento por condición | Condition-based maintenance (CBM), predictive maintenance (PdM) | Medir el estado del equipo e intervenir cuando muestra que va a fallar; en esta base, predictivo es sinónimo | [mantenimiento por condición](../Estrategia-de-mantenimiento/mantenimiento-por-condicion.md) |
 | Monitoreo de condición | Condition monitoring | Medir la condición de forma continua o casi continua, con sensores fijos que avisan cuando una lectura pasa un umbral | [mantenimiento por condición](../Estrategia-de-mantenimiento/mantenimiento-por-condicion.md) |
-| Falla potencial (P) | Potential failure | Según la NASA, «An identifiable condition that indicates a failure is imminent» | [mantenimiento por condición](../Estrategia-de-mantenimiento/mantenimiento-por-condicion.md) |
+| Falla potencial (P) | Potential failure | Según Nowlan y Heap, «an identifiable physical condition which indicates a functional failure is imminent» | [mantenimiento por condición](../Estrategia-de-mantenimiento/mantenimiento-por-condicion.md) |
 | Falla funcional (F) | Functional failure | El equipo dejó de cumplir su función | [mantenimiento por condición](../Estrategia-de-mantenimiento/mantenimiento-por-condicion.md) |
 | Intervalo P-F | P-F interval | El tiempo entre detectar la falla potencial y la falla funcional | [mantenimiento por condición](../Estrategia-de-mantenimiento/mantenimiento-por-condicion.md) |
 | Mantenimiento centrado en la confiabilidad | Reliability-centered maintenance (RCM) | El método que elige la tarea para cada modo de falla a partir de la función | [mantenimiento centrado en la confiabilidad](../Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md) |
 | Patrones de falla | Failure patterns | Las seis curvas de probabilidad de falla según la edad, de Nowlan y Heap | [mantenimiento centrado en la confiabilidad](../Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md) |
 | Curva de la bañera | Bathtub curve | El patrón con mortalidad infantil, tramo plano y desgaste; uno de los seis | [mantenimiento centrado en la confiabilidad](../Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md) |
 | Análisis de modos y efectos de falla | FMEA (AMEF); con criticidad, FMECA | La tabla de funciones, modos de falla, causas, efectos y consecuencias | [mantenimiento centrado en la confiabilidad](../Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md) |
-| Búsqueda de fallas ocultas | Failure-finding task | Probar una protección que solo actúa cuando otra cosa falla; tarea del RCM, sin fuente leída todavía | [estrategia de mantenimiento](../Estrategia-de-mantenimiento/estrategia-de-mantenimiento.md) |
+| Búsqueda de fallas ocultas | Failure-finding task | Probar una protección que solo actúa cuando otra cosa falla; tarea del RCM que define Nowlan y Heap (1978) | [estrategia de mantenimiento](../Estrategia-de-mantenimiento/estrategia-de-mantenimiento.md) |
 
 ## Orden de trabajo
 
@@ -138,7 +138,7 @@ El campo tiene una norma de terminología, la EN 13306, que esta base no leyó; 
 | FSM | *Field service management*: el sistema de servicio de campo |
 | RCM | *Reliability-centered maintenance*: [mantenimiento centrado en la confiabilidad](../Estrategia-de-mantenimiento/mantenimiento-centrado-en-confiabilidad.md) |
 | TPM | *Total productive maintenance*: el mantenimiento productivo total, la escuela japonesa (ver [fundamentos](fundamentos-de-activos-y-mantenimiento.md)) |
-| ISO 55000 | La serie de normas de gestión de activos, de 2014 (ver [fundamentos](fundamentos-de-activos-y-mantenimiento.md)) |
+| ISO 55000 | La serie de normas de gestión de activos; la edición de 2014 de la ISO 55000 fue reemplazada por la de 2024 (ver [fundamentos](fundamentos-de-activos-y-mantenimiento.md)) |
 | ISO 14224 | La norma de taxonomía de equipos y datos de falla (ver [jerarquía de activos](../Registro-de-activos/jerarquia-de-activos.md)) |
 | EN 13306 | La norma europea de terminología de mantenimiento, no leída |
 | SAE JA1011 | La norma que fija qué puede llamarse RCM |

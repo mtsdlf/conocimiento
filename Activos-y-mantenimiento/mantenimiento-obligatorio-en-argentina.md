@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  En la Argentina, la Ley 19.587 de Higiene y Seguridad en el Trabajo obliga al empleador a mantener sus máquinas, instalaciones eléctricas y equipos contra incendios, pero la norma nacional fija pocas frecuencias: calderas al menos una vez al año, aparatos para izar a diario y cada tres meses, y la medición de puesta a tierra con validez de 12 meses. Para las instalaciones eléctricas, el Decreto 351/79 pide un programa propio de la empresa; lo demás depende de normas técnicas, provinciales y municipales que no se pudieron verificar.
+  En la Argentina, la Ley 19.587 de Higiene y Seguridad en el Trabajo obliga al empleador a mantener sus máquinas, instalaciones eléctricas y equipos contra incendios, pero la norma nacional fija pocas frecuencias: calderas al menos una vez al año, aparatos para izar a diario y cada tres meses, y la medición de puesta a tierra con validez de 12 meses. Ascensores, matafuegos y aparatos a presión dependen de la jurisdicción: en la Ciudad de Buenos Aires hay un conservador inscripto que informa al menos una vez al mes y la recarga de matafuegos vale un año; en la Provincia de Buenos Aires, los aparatos a presión se ensayan con ingenieros inscriptos.
 estado: borrador
 estabilidad: volatil
 fuentes:
@@ -12,7 +12,14 @@ fuentes:
   - "SRT, Guía práctica de la Resolución 900/15 (no vinculante): https://argentina.gob.ar/sites/default/files/res_srt_900_15-guia-practica_0.pdf"
   - "SRT, Anexo de la Resolución 900/15, instructivo del protocolo: https://www.argentina.gob.ar/sites/default/files/res_srt_900_15-anexo.pdf"
   - "Consejo Profesional de Ingeniería Química, Resolución 2/2017, Boletín Oficial del 08/09/2017 (considerandos): https://www.boletinoficial.gob.ar/detalleAviso/primera/170298/20170908"
+  - "Código de Edificación de la Ciudad de Buenos Aires (Ley 6100), art. 5.1.5, citado en la Resolución 412/AGC/2019, Boletín Oficial de la Ciudad del 24/09/2019: https://boletinoficial.buenosaires.gob.ar/normativaba/norma/487696"
+  - "Ciudad de Buenos Aires, Reglamento Técnico RT-050105-020601-05, Conservación de los medios mecánicos de elevación, versión 2 (noviembre de 2021): https://buenosaires.gob.ar/sites/default/files/2026-10/Reglamento%20tecnico.pdf"
+  - "Ciudad de Buenos Aires, trámite Ascensores registrados: https://buenosaires.gob.ar/tramites/ascensores-registrados-identificacion-de-elevadores"
+  - "Ley 6116 de la Ciudad de Buenos Aires (2018), art. 14, que modifica el art. 4 de la Ordenanza 40.473 (hoy no vigente como ley aparte, incorporada al texto consolidado): https://boletinoficial.buenosaires.gob.ar/normativaba/norma/448273"
+  - "Provincia de Buenos Aires, Decreto 4992/90, registros de recargadores y centros de prueba hidráulica de matafuegos: https://normas.gba.gob.ar/documentos/VrAdPQUO.html"
+  - "Provincia de Buenos Aires, Secretaría de Política Ambiental, Resolución 1126/2007, que modifica la Resolución 231/96 (aparatos sometidos a presión): https://normas.gba.gob.ar/documentos/0879oATZ.html"
   - "Activos-y-mantenimiento/.investigacion/argentina.md (2026-11-27)"
+  - "Activos-y-mantenimiento/.investigacion/verificacion-argentina.md (2026-11-27)"
 aliases: [mantenimiento obligatorio, mantenimiento legal, mantenimiento reglamentario, inspecciones obligatorias, statutory maintenance, regulatory inspections, Ley 19.587, Decreto 351/79, Resolución SRT 900/2015, medición de puesta a tierra, protocolo de puesta a tierra, inspección de calderas, aparatos para izar, control de matafuegos]
 creado: 2026-11-27
 revisado:
@@ -20,9 +27,9 @@ revisado:
 
 # Mantenimiento obligatorio en la Argentina
 
-En la Argentina, la Ley 19.587 de Higiene y Seguridad en el Trabajo obliga al empleador a mantener sus máquinas, instalaciones eléctricas y equipos contra incendios, pero la norma nacional fija pocas frecuencias: calderas al menos una vez al año, aparatos para izar a diario y cada tres meses, y la medición de puesta a tierra con validez de 12 meses. Para las instalaciones eléctricas, el Decreto 351/79 pide un programa propio de la empresa; lo demás depende de normas técnicas, provinciales y municipales que no se pudieron verificar.
+En la Argentina, la Ley 19.587 de Higiene y Seguridad en el Trabajo obliga al empleador a mantener sus máquinas, instalaciones eléctricas y equipos contra incendios, pero la norma nacional fija pocas frecuencias: calderas al menos una vez al año, aparatos para izar a diario y cada tres meses, y la medición de puesta a tierra con validez de 12 meses. Ascensores, matafuegos y aparatos a presión dependen de la jurisdicción: en la Ciudad de Buenos Aires hay un conservador inscripto que informa al menos una vez al mes y la recarga de matafuegos vale un año; en la Provincia de Buenos Aires, los aparatos a presión se ensayan con ingenieros inscriptos.
 
-Es ley y cambia: la nota es una copia al 27 de noviembre de 2026 de normas nacionales leídas por partes en su texto oficial. Casi todo descansa en una sola fuente, el texto oficial de la norma. Solo la validez de 12 meses de la Resolución SRT 900/2015 tiene una segunda lectura, la guía de la propia SRT, que repite la resolución y cuenta como una fuente. No reemplaza el asesoramiento de un profesional de higiene y seguridad, que es quien conoce la norma provincial y municipal de cada establecimiento. Es el caso argentino del [mantenimiento preventivo](Estrategia-de-mantenimiento/mantenimiento-preventivo.md) por calendario, dentro de [Activos y mantenimiento](activos-y-mantenimiento.md).
+Es ley y cambia: la nota es una copia al 27 de noviembre de 2026 de normas leídas en su texto oficial. Lo nacional descansa en una sola fuente, el texto oficial de la norma; solo la validez de 12 meses de la Resolución SRT 900/2015 tiene una segunda lectura, la guía de la propia SRT, que repite la resolución y cuenta como una fuente. Lo de la Ciudad de Buenos Aires para ascensores tiene dos fuentes oficiales (el reglamento técnico y el trámite de la Ciudad); lo demás de la Ciudad y de la Provincia de Buenos Aires tiene una. No reemplaza el asesoramiento de un profesional de higiene y seguridad, que es quien conoce la norma provincial y municipal de cada establecimiento. Es el caso argentino del [mantenimiento preventivo](Estrategia-de-mantenimiento/mantenimiento-preventivo.md) por calendario, dentro de [Activos y mantenimiento](activos-y-mantenimiento.md).
 
 ## La obligación general de la Ley 19.587
 
@@ -56,16 +63,44 @@ La Resolución 900/2015 no dice en sus artículos quién puede medir. La guía d
 
 Si la medición no cumple con la reglamentación de la Asociación Electrotécnica Argentina (AEA), el art. 3 obliga a hacer «un plan de acción para lograr adecuar el ambiente de trabajo». Por criterio de la base, ese plan se modela como una o varias [órdenes de trabajo](Orden-de-trabajo/orden-de-trabajo.md) correctivas que nacen de la inspección.
 
-## Lo que depende de la provincia, del municipio o de una norma técnica
+## Lo que depende de la jurisdicción o de una norma técnica
 
-La norma nacional deja afuera, o deja abiertos, varios de los controles más conocidos. Ninguno de estos se pudo verificar en un texto oficial:
+La norma nacional deja afuera, o deja abiertos, varios de los controles más conocidos. Lo que sigue se leyó en el texto oficial de la Ciudad y de la Provincia de Buenos Aires; es un ejemplo de cómo se ve la norma local, no una regla general, y lo provincial y lo municipal cambia según la jurisdicción.
 
-- **Ascensores.** Según el informe de investigación, cada municipio y cada provincia legisla los suyos. No se leyó ninguna norma: ni la de la Ciudad de Buenos Aires ni la de otra jurisdicción, y por eso no se sabe el registro de conservadores, la frecuencia del servicio ni quién firma.
-- **Recarga y prueba hidráulica de matafuegos.** El Decreto 351/79 no da la periodicidad; la norma técnica IRAM 3517-2, que el informe de investigación menciona, es de pago y no se leyó. Falta además la norma local de bomberos o defensa civil. El Anexo VII deja a la «autoridad competente» exigir más matafuegos, y el art. 185 le deja fijar las condiciones del registro de terceros.
-- **Recipientes a presión y compresores.** Solo se verificó el art. 140 para calderas. Las normas provinciales de aparatos sometidos a presión no se leyeron.
-- **Verificación periódica según la reglamentación de la AEA.** La guía de la SRT cita el Decreto 617/97, que exige cumplir «con la reglamentación de la Asociación Electrotécnica Argentina», y el Decreto 911/96 (construcción). No se leyeron esos decretos ni la cláusula de la AEA.
+### Ascensores, en la Ciudad de Buenos Aires
 
-> [!NOTE] Sin fuente todavía: frecuencias y ejecutores para ascensores, matafuegos (recarga y prueba hidráulica), recipientes a presión y compresores en cada jurisdicción; el contenido de la Resolución SRT 299/11; y el marco argentino de bloqueo y etiquetado y de permisos de trabajo. Ninguna de estas cosas debe cargarse en un sistema como regla general sin la norma del lugar.
+La ley que regula el servicio es municipal. La Ley 6116 de 2018 no es la norma de ascensores (trata fachadas y matafuegos) y hoy no está vigente como ley aparte. La obligación está en el Código de Edificación (Ley 6100), art. 5.1.5, que la Resolución 412/AGC/2019 transcribe: todo edificio con ascensores, montacargas, escaleras mecánicas, caminos rodantes, rampas móviles o guarda mecanizada de vehículos «debe disponer obligatoriamente de un servicio de mantenimiento y asistencia técnica para su atención por parte de un conservador, que debe estar inscripto en el Registro que corresponda a efectos de conservación y mantenimiento. El propietario es responsable de que se mantengan en perfecto estado de conservación y mantenimiento, así como de impedir su utilización cuando no ofrezcan las debidas garantías de seguridad para las personas y/o los bienes».
+
+El reglamento técnico RT-050105-020601-05 (versión 2, noviembre de 2021) baja eso a obligaciones:
+
+- el sujeto obligado declara cada elevador en el Registro de Conservación de Elevadores y designa «una empresa conservadora por cada elevador existente»;
+- la oblea con código QR de cada elevador «vencerá el 31 de diciembre de cada año», con renovación «hasta el 31 de marzo del año siguiente como fecha límite»;
+- la empresa conservadora tiene un permiso «de vigencia anual», un teléfono de contacto las 24 horas y un representante técnico matriculado;
+- el representante técnico «deberá informar, al menos una vez al mes, en el libro digital, el estado del elevador»;
+- las tareas mínimas se listan por frecuencia: «Una vez por mes, como mínimo», «Una vez por trimestre» y «Una vez por semestre», según el tipo de elevador;
+- el sujeto obligado tiene que tener una póliza de seguro de responsabilidad civil.
+
+El decreto que antes regulaba esto, el 578/2001, figura como no vigente en el Boletín Oficial de la Ciudad. El trámite de la Ciudad confirma la declaración obligatoria, el conservador con permiso vigente y la oblea anual. No se leyó la norma de otro municipio ni de la Provincia de Buenos Aires, ni una frecuencia de inspección oficial distinta de la renovación anual de la oblea.
+
+### Matafuegos
+
+El Decreto 351/79 no da la periodicidad de la recarga: solo habla del registro de inspecciones, de las tarjetas por equipo y de un «control periódico de recargas». En el texto del Anexo VII no aparecen la recarga ni la prueba hidráulica con una frecuencia.
+
+- En la Ciudad de Buenos Aires, la Ley 6116 (art. 14) fijó el art. 4 de la Ordenanza 40.473: «La vigencia de la recarga de los extintores (matafuegos) es de un (1) año». Los extintores tienen que ser fabricados, reparados, recargados e instalados por personas inscriptas en el «Registro de Fabricantes, Reparadores y Recargadores de Extintores (matafuegos) y equipos contra incendios», con certificado de inscripción de vigencia anual. Es una sola fuente; no se leyó el texto consolidado de la ordenanza.
+- En la Provincia de Buenos Aires, el Decreto 4992/90 crea el Registro Provincial de Fabricantes y/o Recargadores de Equipos contra Incendios y el Registro Provincial de Centros para Ensayos de Prueba Hidráulica de Matafuegos. Los recargadores pueden derivar la prueba hidráulica «establecida en la norma IRAM correspondiente» a un centro registrado (art. 32). El decreto remite a la norma IRAM y no da la frecuencia.
+- La norma técnica IRAM 3517 parte 2, que un pliego público de 2023 cita como la de «control, mantenimiento y recarga de extintores», es de pago y no se leyó; de ahí que la frecuencia de la prueba hidráulica quede sin fuente.
+
+### Recipientes a presión, calderas y compresores, en la Provincia de Buenos Aires
+
+La Resolución 231/96 de la Secretaría de Política Ambiental regula los aparatos sometidos a presión; se leyó la Resolución 1126/2007, que modifica muchos de sus artículos, y no el texto original. Dice que los recipientes alcanzados son sometidos a ensayos no destructivos y controles de los elementos de seguridad «en los plazos y condiciones que se pautan en el Apéndice 1» y que esos ensayos los hacen «profesionales de la Ingeniería habilitados» e inscriptos en un registro. Los generadores de vapor son atendidos por foguistas habilitados y llevan un libro de seguimiento foliado y rubricado. Para los equipos con amoníaco, el art. 88 pide, «luego cada 8 años», retirar la aislación y hacer un estudio por ultrasonido, y una verificación anual de espesores. Los compresores aparecen como tanques de aire comprimido dentro de los recipientes sin fuego (art. 33).
+
+La tabla de frecuencias del Apéndice 1 está publicada como imagen de baja resolución en la copia de la Provincia; en esa imagen, la fila de generadores de vapor se lee como anual para la prueba hidráulica y la medición de espesores, y semestral para el control de los elementos de seguridad, pero la imagen no permite dar el resto con certeza. La resolución cita el Decreto 1741/96, que hoy figura derogado por el Decreto 531/19, y no se verificó si el Apéndice se modificó después de 2007.
+
+### Verificación periódica según la reglamentación de la AEA
+
+La guía de la SRT cita el Decreto 617/97, que exige cumplir «con la reglamentación de la Asociación Electrotécnica Argentina», y el Decreto 911/96 (construcción). No se leyeron esos decretos ni la cláusula de la AEA.
+
+> [!NOTE] Sin fuente todavía: la frecuencia de prueba hidráulica de matafuegos (IRAM 3517 parte 2); el Apéndice 1 de la Resolución 231/96 de la Provincia de Buenos Aires legible y actualizado; la norma de ascensores de otro municipio o provincia; y el marco argentino de bloqueo y etiquetado y de permisos de trabajo. Ninguna de estas cosas debe cargarse en un sistema como regla general sin la norma del lugar.
 
 ## Cómo se arma como plan preventivo con vencimientos
 
