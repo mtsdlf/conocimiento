@@ -4,7 +4,7 @@ resumen: >-
   gestión: ventas, pedidos, compras, stock, cuentas corrientes, mayor y horas. Cada proceso da una
   tabla de transacciones, una foto periódica de saldos o una fila que sigue un recorrido, y cada
   dominio define los indicadores que se calculan encima.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kimball Group, Transaction Fact Tables, Periodic Snapshot Fact Tables y Accumulating Snapshot Fact Tables: https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-modelado.md (2026-11-27)"
 aliases: [hechos de gestión, tablas de hechos del ERP, hecho de ventas, hecho de stock, foto periódica, periodic snapshot, accumulating snapshot, transaction fact table, hecho semiaditivo, semi-additive fact]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hechos de gestión

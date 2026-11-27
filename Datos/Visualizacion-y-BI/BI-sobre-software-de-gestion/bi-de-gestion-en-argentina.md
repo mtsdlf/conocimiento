@@ -4,7 +4,7 @@ resumen: >-
   vale lo que un peso de hoy, los estados contables se reexpresan por inflación desde 2018, y
   muchas empresas miran también sus números en dólares. El BI necesita el índice por mes, la fecha
   de origen de cada partida y una regla escrita de qué tipo de cambio usa cada vista.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "CPCECABA, Resolución Técnica 6, texto ordenado (con la JG 539/18): https://consejo.org.ar/storage/attachments/01_RT%206.pdf-R1cZ0V8jtI.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md (2026-11-27)"
 aliases: [BI con inflación, ajuste por inflación en el BI, reexpresión en el BI, moneda homogénea en el BI, pesos constantes, BI en dólares, moneda dual, tipo de cambio de referencia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # BI de gestión en la Argentina

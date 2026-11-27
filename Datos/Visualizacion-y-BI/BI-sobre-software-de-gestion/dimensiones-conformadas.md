@@ -4,7 +4,7 @@ resumen: >-
   los mismos nombres y los mismos valores (el cliente, el artículo, el proveedor, el centro de
   costo, la empresa y el calendario con sus períodos fiscales), para que ventas, stock, compras y
   mayor se puedan poner lado a lado en un mismo reporte.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kimball Group, Conformed Dimensions: https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/conformed-dimension/"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-modelado.md (2026-11-27)"
 aliases: [dimensiones conformadas, conformed dimensions, matriz de bus, bus matrix, arquitectura en bus, drill across, dimensión de fecha, calendario fiscal, período fiscal, dimensión de cliente, dimensión de artículo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dimensiones conformadas

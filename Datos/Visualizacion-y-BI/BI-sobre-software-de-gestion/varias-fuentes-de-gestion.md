@@ -4,7 +4,7 @@ resumen: >-
   tienda online y las planillas, que cuentan el mismo cliente, el mismo pedido y la misma venta con
   claves, granos y definiciones distintos. Se resuelve con dimensiones conformadas, una regla de
   qué fuente manda en cada dato y controles sobre las planillas como sobre cualquier otra fuente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kimball Group, Conformed Dimensions, Conformed Facts y Drilling Across: https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/conformed-fact/"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md y bi-gestion-modelado.md (2026-11-27)"
 aliases: [varias fuentes, integrar fuentes, ERP y CRM, ERP y tienda online, planillas como fuente, combinar sistemas, multi-source BI]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Varias fuentes de gestión

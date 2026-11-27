@@ -4,7 +4,7 @@ resumen: >-
   cargar la base que factura: por exportación completa, por fecha de modificación, leyendo el
   registro de cambios de la base o por la API del producto. Lo difícil es traer bien lo que cambió
   después: las anulaciones, los movimientos con fecha pasada y los períodos reabiertos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Reporting Database (2004, revisado 2014): https://martinfowler.com/bliki/ReportingDatabase.html"
@@ -23,7 +23,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-extraccion.md (2026-11-27)"
 aliases: [extracción del ERP, extraer datos del ERP, ERP extraction, sacar datos del sistema de gestión, réplica de lectura, read replica, extracción incremental, marca de agua, watermark]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Extraer de un sistema de gestión

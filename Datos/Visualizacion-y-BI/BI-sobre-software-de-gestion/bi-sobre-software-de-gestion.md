@@ -5,7 +5,7 @@ resumen: >-
   en hechos y dimensiones, con su historia y conciliados contra el sistema y el balance. Empieza
   donde el sistema ya no alcanza: cuando hace falta juntar fuentes, mirar años o cortar de otra
   forma que la del sistema.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "W. H. Inmon, What Is a Data Warehouse?, Prism Tech Topic 1(1), 1995 (copia en archive.org): https://web.archive.org/web/20010424175209/http://www.cait.wustl.edu:80/cait/papers/prism/vol1_no1/"
@@ -17,7 +17,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-modelado.md, bi-gestion-extraccion.md y bi-gestion-conciliacion-moneda.md (2026-11-27)"
 aliases: [BI sobre el ERP, BI de gestión, inteligencia de negocio sobre el sistema de gestión, analítica sobre el ERP, ERP analytics, data warehouse del ERP, almacén de datos de gestión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # BI sobre el software de gestión

@@ -3,7 +3,7 @@ resumen: >-
   Conciliar el BI es comprobar, antes de mostrar un número, que lo que llegó al BI coincide con lo
   que salió del sistema de gestión, con los reportes que el sistema emite y con el balance de sumas
   y saldos del período. Si no coincide, manda el sistema y el BI tiene que explicar la diferencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Joy Mundy, Design Tip #134, Data Warehouse Testing Recommendations (Kimball Group, 2011): https://www.kimballgroup.com/2011/05/design-tip-134-data-warehouse-testing-recommendations/"
@@ -14,7 +14,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md y bi-gestion-modelado.md (2026-11-27)"
 aliases: [conciliar el BI, cuadrar el BI, conciliación del data warehouse, reconciliation, tie-out, cuadre contra el mayor, totales de control, control totals, dimensión de auditoría]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conciliar el BI

@@ -4,7 +4,7 @@ resumen: >-
   distintas sin inventar un número: cada importe se guarda en su moneda de origen y en una moneda
   común convertida con una regla escrita, las operaciones entre empresas del grupo se eliminan al
   consolidar, y los planes de cuentas y calendarios de cada empresa se llevan a uno común.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kimball Group, Multiple Currency Facts: https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/multiple-currencies/"
@@ -13,7 +13,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md (2026-11-27)"
 aliases: [multiempresa en el BI, varias empresas, consolidación en el BI, multimoneda en el BI, multiple currency facts, moneda de presentación, presentation currency, eliminación entre empresas, intercompany]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Multiempresa y moneda en el BI

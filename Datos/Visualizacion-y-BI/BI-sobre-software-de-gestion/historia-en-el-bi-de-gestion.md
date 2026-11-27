@@ -4,7 +4,7 @@ resumen: >-
   qué vendedor, zona o centro de costo tenía cada cosa en su momento, los saldos de cada cierre,
   lo que ya se informó de un período y los años que quedaron en el sistema anterior. Con eso un
   reporte puede mostrar el dato como era o como es hoy, y decir cuál de los dos muestra.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kimball Group, Type 0 a Type 7 (dimensiones lentamente cambiantes): https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/type-2/"
@@ -16,7 +16,7 @@ fuentes:
   - "Datos/.investigacion/bi-gestion-modelado.md y bi-gestion-extraccion.md (2026-11-27)"
 aliases: [historia en el BI, as-was y as-is, como era y como es, SCD en gestión, dimensión lentamente cambiante en el ERP, hecho tardío, late arriving fact, reorganización de centros de costo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia en el BI de gestión
