@@ -4,7 +4,7 @@ resumen: >-
   devolución, un ajuste) como una fila que no se edita, y calcula el saldo sumando esas filas. Es la
   manera de llevar el stock, una cuenta corriente o cualquier saldo sin perder de dónde salió cada
   número.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Event Sourcing (2005): https://martinfowler.com/eaaDev/EventSourcing.html"
@@ -18,7 +18,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/llevar-el-stock.md (2026-11-27)"
 aliases: [movimientos de stock, libro de movimientos, ledger, stock ledger, kardex, inventario permanente, saldo calculado]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registro de movimientos

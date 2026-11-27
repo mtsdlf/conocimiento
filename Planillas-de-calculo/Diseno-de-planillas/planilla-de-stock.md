@@ -3,7 +3,7 @@ resumen: >-
   Una planilla de stock que no se rompe guarda cada entrada y cada salida como una fila nueva en una
   hoja de movimientos, y calcula el stock de cada producto sumando esas filas, en lugar de pisar a
   mano un número por producto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Jan Karel Pieterse, Creating A Simple Inventory System in Excel: https://jkp-ads.com/articles/excelsimpleinventory.asp"
@@ -15,7 +15,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/llevar-el-stock.md (2026-11-27)"
 aliases: [planilla de inventario, control de stock en Excel, inventario en Google Sheets, stock en planilla]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planilla de stock
