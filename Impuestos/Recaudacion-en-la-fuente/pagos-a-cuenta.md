@@ -67,7 +67,7 @@ La Ley 11.683 (texto de InfoLEG, leído el 2026-11-27) tiene un capítulo de act
 
 > [!NOTE] Sin fuente todavía: si hoy se actualizan en la práctica los saldos a favor por retenciones y percepciones (esos artículos pueden no estar en uso; no se leyó su reglamentación ni la jurisprudencia), y una medición del saldo a favor acumulado por retenciones y percepciones en empresas de algún país.
 
-Para la caja, entonces, las retenciones y percepciones son un costo financiero. Planificar ese costo y el momento de recuperarlo es del tema Tesorería y finanzas de la empresa en marcha (todavía no escrito). El registro del saldo como un crédito con el fisco es de [Contabilidad](../../Contabilidad/contabilidad.md).
+Para la caja, entonces, las retenciones y percepciones son un costo financiero. Planificar ese costo y el momento de recuperarlo es de [Tesorería](../../Tesoreria/tesoreria.md), en la [proyección de caja](../../Tesoreria/Caja-y-liquidez/proyeccion-de-caja.md); cómo se aplica al cobrar una factura con retención, en [aplicación de cobros](../../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md#las-retenciones-sufridas). El registro del saldo como un crédito con el fisco es de [Contabilidad](../../Contabilidad/contabilidad.md).
 
 ## Cómo falla
 

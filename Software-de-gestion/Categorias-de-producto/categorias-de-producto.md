@@ -73,7 +73,7 @@ En la lectura de esta base, el debate es sobre dónde poner la frontera de integ
 Tres cosas quedan fuera de las categorías de este tema:
 
 - La inteligencia de negocio, que junta datos de varias fuentes para decidir. Es de [Visualización y BI](../../Datos/Visualizacion-y-BI/visualizacion-y-bi.md), en Datos, y en particular de su parte [BI sobre el software de gestión](../../Datos/Visualizacion-y-BI/BI-sobre-software-de-gestion/bi-sobre-software-de-gestion.md). Lo que el sistema entrega de su propia base (los libros, los listados del día) es una columna técnica, la de reportes operativos y legales.
-- El comercio electrónico y el punto de venta. Son del tema Comercio electrónico, que tiene su propia nota de [sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion/sistemas-de-gestion.md).
+- El comercio electrónico y el punto de venta. Son del tema Comercio electrónico, que tiene su propia nota de [sistemas de gestión en el comercio](../../Comercio-electronico/Operaciones-del-comercio/Sistemas-de-gestion-en-el-comercio/sistemas-de-gestion-en-el-comercio.md).
 - La gestión de servicios de TI, la gestión documental y las plataformas de integración. No llevan un dominio de negocio de esta base. La primera aparece como vecina de la [mesa de ayuda](servicio-de-campo-y-mesa-de-ayuda.md).
 
 ## Lo que hay adentro de Categorías de producto

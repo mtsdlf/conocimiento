@@ -39,7 +39,7 @@ Los países que dejan el sistema clásico (el que deja las dos capas) lo alivian
 
 Para el manual, los tres primeros grupos son sistemas de alivio del dividendo y la integración es «more ambitious»: reduce la tasa combinada sobre todas las ganancias. Un mismo país suele combinar varios; el capítulo (de 1998) cita a Estados Unidos con sistema clásico para el accionista persona humana, a Canadá con imputación para la persona humana y deducción plena del dividendo recibido para las empresas, y a Australia con imputación para la persona humana. Las leyes cambian: sirve de tipología, no de estado actual de esos países.
 
-Quien no es sociedad (una persona que factura a su nombre, una empresa unipersonal) paga en el impuesto de personas, con su escala propia, o en un [régimen simplificado](../Obligacion-tributaria/regimen-simplificado.md) que reemplaza varios impuestos con una cuota. Este tema menciona a la persona humana sin desarrollarla: el impuesto de un empleado va con el empleador como [agente de recaudación](../Recaudacion-en-la-fuente/agente-de-recaudacion.md).
+Quien no es sociedad (una persona que factura a su nombre, una empresa unipersonal) paga en el [impuesto a la renta de personas](impuesto-a-la-renta-de-personas.md), con su escala propia y sus deducciones personales, o en un [régimen simplificado](../Obligacion-tributaria/regimen-simplificado.md) que reemplaza varios impuestos con una cuota. El impuesto de un empleado lo retiene el empleador como [agente de recaudación](../Recaudacion-en-la-fuente/agente-de-recaudacion.md).
 
 ## Tasa proporcional o escalonada
 
@@ -69,9 +69,11 @@ Calcular sobre el año anterior falla en los dos sentidos (razonamiento de esta 
 
 - Recibe de la [recaudación en la fuente](../Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md) las retenciones y percepciones que se computan contra el impuesto.
 - Se declara y se paga en el ciclo de [cumplimiento](../Cumplimiento/cumplimiento.md), una vez por año más los anticipos.
-- Su registro contable (la provisión del impuesto y el impuesto diferido) es del tema [Contabilidad](../../Contabilidad/contabilidad.md); pagarlo y tener la caja, del tema Tesorería y finanzas de la empresa en marcha (todavía no escrito).
+- Su registro contable (la provisión del impuesto y el impuesto diferido) es del tema [Contabilidad](../../Contabilidad/contabilidad.md); pagarlo y tener la caja, de [Tesorería](../../Tesoreria/tesoreria.md).
 
 ## Notas de esta vertical
 
 - [Resultado impositivo](resultado-impositivo.md): cómo se pasa del resultado contable a la ganancia sobre la que se paga, con gastos no deducibles, ingresos exentos, diferencias permanentes y temporarias, y quebrantos. Leelo antes de calcular el impuesto del ejercicio.
+- [Impuesto a la renta de personas](impuesto-a-la-renta-de-personas.md): el impuesto de cada individuo, global, cedular o mixto, con mínimo no imponible, deducciones personales y escala progresiva, y quién declara y quién solo sufre la retención.
 - [Ganancias en Argentina](ganancias-en-argentina.md): el impuesto argentino de sociedades, con la escala vigente, dividendos, anticipos, ajuste por inflación impositivo y la declaración anual.
+- [Ganancias de personas humanas en Argentina](ganancias-de-personas-humanas-en-argentina.md): las cuatro categorías, el cedular, las deducciones del art. 30 y la escala del art. 94 con sus montos, la declaración anual, la simplificada y los cinco anticipos.

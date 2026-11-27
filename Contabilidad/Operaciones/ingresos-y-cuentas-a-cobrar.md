@@ -21,7 +21,7 @@ revisado: 2026-11-27
 
 Un ingreso se reconoce cuando la empresa le transfiere al cliente el bien o el servicio prometido, y desde ahí nace una cuenta a cobrar que se cancela con el cobro, se reduce con una nota de crédito o se da de baja si el cliente no paga.
 
-Es el ciclo de la venta al cobro visto desde el registro. El presupuesto y el pedido de venta son del tema Relación con clientes, todavía no escrito, y no generan asiento. Cobrar la plata es de Tesorería; registrar el cobro es de acá. Cada cliente tiene su saldo en las [cuentas corrientes](../Registro/cuentas-corrientes.md), cuyo total coincide con la cuenta Cuentas a cobrar del mayor.
+Es el ciclo de la venta al cobro visto desde el registro. El [presupuesto](../../Relacion-con-clientes/Presupuesto/presupuesto.md) y el [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md) son del tema Relación con clientes y no generan asiento. Cobrar la plata es de Tesorería ([crédito y cobranzas](../../Tesoreria/Credito-y-cobranzas/credito-y-cobranzas.md)); registrar el cobro es de acá. Cada cliente tiene su saldo en las [cuentas corrientes](../Registro/cuentas-corrientes.md), cuyo total coincide con la cuenta Cuentas a cobrar del mayor.
 
 ## Cuándo hay un ingreso: los cinco pasos de la NIIF 15
 

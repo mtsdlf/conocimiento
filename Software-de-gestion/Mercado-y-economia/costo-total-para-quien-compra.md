@@ -11,7 +11,7 @@ fuentes:
   - "Kinnunen y Kinnunen (ICSIM 2025), Subscription vs. Perpetual (según su resumen): https://jyx.jyu.fi/jyx/Record/jyx_123456789_104922"
   - "Nucleus Research, guía patrocinada por un proveedor de ERP (según resumen): https://nucleusresearch.com/?p=25665"
   - "Software-de-gestion/.investigacion/mercado-y-economia.md (2026-11-27), secciones 1 y 5; Software-de-gestion/.investigacion/contraria.md, secciones 1, 2 y 7"
-aliases: [TCO de un ERP, ERP TCO, costo total de propiedad de un ERP, costo total de un software de gestión, total cost of ownership, costo de implantación, implementation cost, costos ocultos del ERP]
+aliases: [TCO de un ERP, ERP TCO, costo total de propiedad de un ERP, costo total de un software de gestión, total cost of ownership of an ERP, costo de implantación, implementation cost, costos ocultos del ERP]
 creado: 2026-11-27
 revisado: 2026-11-27
 ---

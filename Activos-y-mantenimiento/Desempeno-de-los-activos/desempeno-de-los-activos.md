@@ -47,7 +47,7 @@ Los objetivos de clase mundial circulan mucho y se rastrean poco. Una guía de i
 
 ## Lo que esta vertical no mide
 
-La eficiencia global del equipo (OEE) nació en el mantenimiento productivo total, pero mide la línea (disponibilidad por rendimiento por calidad) y se explica en el tema Producción, todavía no armado. Lo que interesa acá es su primer factor, la disponibilidad, que está en [indicadores de mantenimiento](indicadores-de-mantenimiento.md). El tiempo de herramienta de los técnicos mide la planificación y vive en [planificación y programación](../Orden-de-trabajo/planificacion-y-programacion.md).
+La eficiencia global del equipo (OEE) nació en el mantenimiento productivo total, pero mide la línea (disponibilidad por rendimiento por calidad) y se explica en [eficiencia global del equipo](../../Produccion/Ejecucion-en-planta/eficiencia-global-del-equipo.md), del tema Producción. Lo que interesa acá es su primer factor, la disponibilidad, que está en [indicadores de mantenimiento](indicadores-de-mantenimiento.md). El tiempo de herramienta de los técnicos mide la planificación y vive en [planificación y programación](../Orden-de-trabajo/planificacion-y-programacion.md).
 
 ## Qué hay en el desempeño de los activos
 

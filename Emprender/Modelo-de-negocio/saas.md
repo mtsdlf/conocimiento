@@ -47,7 +47,7 @@ Los SaaS públicos tienen márgenes brutos de 68 % a 80 % en 2025, y el promedio
 
 Lo que no escala se ve separando las líneas. En el ejercicio 2025 de Salesforce, la suscripción y el soporte dejaron 82,6 % de margen bruto y los servicios profesionales y otros, −10,3 % (cálculo de esta base sobre las cifras publicadas). La lectura de esta base es que esos servicios se venden a pérdida para vender la suscripción. Coincide con el hallazgo de Suarez, Cusumano y Kahl (2013): en empresas de producto de software, sumar servicios baja la rentabilidad hasta que los servicios son la mayoría de las ventas ([detalle](modelos-de-negocio-de-software.md#los-híbridos-software-con-servicios-y-software-con-pagos)).
 
-El mercado lo valúa por múltiplos de ingreso: 11,4 veces las ventas en el promedio de software de sistemas y aplicaciones de Damodaran, una categoría que no aísla el SaaS,, contra 1,5 en servicios de TI. La explicación habitual, la de ingreso recurrente con margen alto y costo marginal bajo, es de practicantes; no se encontró una fuente con método que la pruebe.
+El mercado lo valúa por múltiplos de ingreso: 11,4 veces las ventas en el promedio de software de sistemas y aplicaciones de Damodaran, una categoría que no aísla el SaaS, contra 1,5 en servicios de TI. La explicación habitual, la de ingreso recurrente con margen alto y costo marginal bajo, es de practicantes; no se encontró una fuente con método que la pruebe.
 
 ## Cómo falla
 

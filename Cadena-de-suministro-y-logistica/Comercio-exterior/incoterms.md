@@ -65,7 +65,7 @@ La ICC no publica gratis el detalle de cada regla. Lo que sigue combina lo poco 
 | CFR | al cargarla a bordo en origen | | Wikipedia |
 | CIF | | las Institute Cargo Clauses (C) «remains the default level of coverage»; las partes pueden pactar más | sin fuente leída |
 
-En DDP el vendedor paga además los derechos de la importación; cuánto y cómo se liquidan es de Impuestos, todavía no armado.
+En DDP el vendedor paga además los derechos de la importación; cuánto y cómo se liquidan es de Impuestos; lo de la Argentina está en [comercio exterior en Argentina](../../Impuestos/comercio-exterior-en-argentina.md#tributos-de-la-aduana).
 
 > [!IMPORTANT] El seguro en CIF: la ICC dice que la cobertura por defecto son las cláusulas (C), la mínima. El resumen de Wikipedia que se leyó decía (A) también para CIF. La base sigue a la ICC, que escribe las reglas.
 
@@ -81,7 +81,7 @@ Para la carga marítima, la ICC revisó FCA en 2020 «to cater to a situation wh
 
 La ITA lista lo que las reglas dejan afuera. No tratan «all the conditions of a sale». No identifican la mercadería ni el precio, ni fijan cómo ni cuándo se paga. No determinan «when title, or ownership of the goods, passes». No dicen qué documentos aporta el vendedor para el despacho aduanero en destino. Y no abordan la responsabilidad por entregar mercadería que no cumple el contrato.
 
-La propiedad es la que más se confunde. Que el riesgo pase en el puerto de origen no hace al comprador dueño de la carga en ese momento: eso lo dice el contrato o la ley que lo rige (lectura de la base sobre la exclusión de la ITA). El pago, por ejemplo con carta de crédito, es de Tesorería y finanzas de la empresa en marcha, todavía no armado.
+La propiedad es la que más se confunde. Que el riesgo pase en el puerto de origen no hace al comprador dueño de la carga en ese momento: eso lo dice el contrato o la ley que lo rige (lectura de la base sobre la exclusión de la ITA). El pago es de Tesorería: cómo se paga una importación en la Argentina está en [tesorería en Argentina](../../Tesoreria/tesoreria-en-argentina.md#comprar-dólares-y-pagar-importaciones); la carta de crédito no tiene nota en la base.
 
 ## El Incoterm como dato de la operación
 

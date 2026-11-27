@@ -12,16 +12,18 @@ fuentes:
   - "Comercio-electronico/.investigacion/sistemas-de-gestion.md"
   - "Comercio-electronico/.investigacion/resenas-de-sistemas-de-gestion.md"
   - "Comercio-electronico/.investigacion/contraria-gestion-y-local.md"
-aliases: [ERP, sistema de gestión, software de gestión, sistema de gestión comercial, software de facturación y stock, enterprise resource planning, back office]
+aliases: [sistemas de gestión en el comercio, sistema de gestión del comercio, sistemas de gestión, sistema de gestión comercial, software de facturación y stock, back office]
 creado: 2026-11-22
 revisado:
 ---
 
-# Sistemas de gestión
+# Sistemas de gestión en el comercio
 
 Un sistema de gestión (ERP, en su versión grande) es el software que lleva el negocio detrás de la tienda: factura, stock, compras, cobranzas, caja y, en los más completos, la contabilidad, todo sobre un mismo registro. En una pyme argentina conviven con la plataforma de tiendas y el marketplace, y la decisión de fondo es cuál de todos manda en cada dato.
 
 Es la pieza de [Operaciones del comercio](../operaciones-del-comercio.md) que guarda el [catálogo y el stock](../catalogo-y-stock.md) cuando el comercio vende por más de un canal. Se conecta con la [plataforma de tiendas](../../Plataforma-de-tiendas/plataforma-de-tiendas.md) y con los marketplaces como explica [integración con tiendas y marketplaces](integracion-con-tiendas-y-marketplaces.md), y emite el comprobante que pide la [factura electrónica de ARCA](../../Normativa/factura-electronica-de-arca.md).
+
+Esta nota es el caso del comercio. El software de gestión en general (qué es un ERP, sus categorías, las piezas técnicas que comparte todo producto, cómo se implanta y cómo se vende) es el tema [Software de gestión](../../../Software-de-gestion/software-de-gestion.md), y el ERP como categoría está en [ERP](../../../Software-de-gestion/Categorias-de-producto/erp.md).
 
 ## De qué está hecho
 
@@ -63,9 +65,11 @@ La única fuente leída sobre fallas de implementación es de un autor que vende
 
 Las reseñas de los usuarios agregan dónde duele después de elegir; están codificadas en [sistemas de gestión en Argentina](sistemas-de-gestion-en-argentina.md#lo-que-dicen-las-reseñas).
 
-> [!NOTE] Sin fuente todavía: una definición canónica de ERP y estudios independientes sobre cómo fallan las implementaciones en pymes. El candidato es el capítulo de sistemas empresariales de Laudon y Laudon, *Management Information Systems*, que no se leyó: fijarse en el proceso de punta a punta y en los costos de cambio.
+Lo general está en el tema Software de gestión: cómo se elige un sistema en [elegir un sistema](../../../Software-de-gestion/Implementacion/elegir-un-sistema.md), las fases de una implantación y lo que se sabe de cuánto fallan en [implementación](../../../Software-de-gestion/Implementacion/implementacion.md), y de dónde sale la cifra del 70 % en [mitos del software de gestión](../../../Software-de-gestion/Fundamentos/mitos-del-software-de-gestion.md).
 
-## Lo que hay adentro de Sistemas de gestión
+> [!NOTE] Sin fuente todavía: estudios independientes sobre cómo fallan las implementaciones en pymes del comercio; el tema Software de gestión tampoco encontró una tasa medida para pymes ni para Latinoamérica.
+
+## Lo que hay adentro de Sistemas de gestión en el comercio
 
 - [Integración con tiendas y marketplaces](integracion-con-tiendas-y-marketplaces.md): cómo se conecta con la tienda y con el marketplace, quién manda en el stock y por qué se rompe.
 - [Sistemas de gestión en Argentina](sistemas-de-gestion-en-argentina.md): los que operan en el país, con precios, integraciones, clientes declarados y reseñas, al 2026-11-22.

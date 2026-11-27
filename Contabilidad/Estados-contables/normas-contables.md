@@ -7,6 +7,8 @@ fuentes:
   - "IFRS Foundation, Conceptual Framework for Financial Reporting (página, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/"
   - "IFRS Foundation, NIIF para las PYMES (página, según su resumen): https://www.ifrs.org/issued-standards/ifrs-for-smes/"
   - "IFRS Foundation, NIIF 10 Consolidated Financial Statements (página, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/ifrs-10-consolidated-financial-statements/"
+  - "IFRS Foundation, NIIF 10 Consolidated Financial Statements, texto oficial (edición HTML 2026), párr. 7 y B86: https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ifrs10.html"
+  - "Datos/.investigacion/bi-gestion-conciliacion-moneda.md, sección 4 (2026-11-27)"
   - "IFRS Foundation, NIC 29 Financial Reporting in Hyperinflationary Economies (página, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/ias-29-financial-reporting-in-hyperinflationary-economies/"
   - "IFRS Foundation, NIIF 18 Presentation and Disclosure in Financial Statements (página, según su resumen): https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/"
   - "Laux y Leuz (2009), Did Fair-Value Accounting Contribute to the Financial Crisis?, NBER WP 15515 (abstract): https://www.nber.org/papers/w15515"
@@ -67,10 +69,12 @@ Una norma que cruza las dos capas es la NIC 29, sobre economías hiperinflaciona
 
 ## Los estados consolidados
 
-Cuando una empresa controla a otras, presenta estados consolidados: los del grupo entero como si fuera una sola entidad. La NIIF 10 fija los principios para prepararlos y toma el control como la base de la consolidación, según el resumen de su página. Al consolidar, lo que una empresa del grupo le vende a otra desaparece, porque el grupo no le vendió a nadie de afuera (inferencia a partir de la idea de una sola entidad, sin fuente leída).
+Cuando una empresa controla a otras, presenta estados consolidados: los del grupo entero como si fuera una sola entidad. La NIIF 10 fija los principios para prepararlos y toma el control como la base de la consolidación. Según su párrafo 7, un inversor controla a otra entidad «if and only if» tiene a la vez poder sobre ella, exposición o derechos a sus rendimientos variables, y la capacidad de usar ese poder para afectar esos rendimientos.
+
+Al consolidar, lo que una empresa del grupo le vende a otra desaparece, porque el grupo no le vendió a nadie de afuera. La NIIF 10 lo pide en el párrafo B86: los estados consolidados suman partida por partida los de la controladora y sus controladas, eliminan la inversión de la controladora contra su parte del patrimonio de cada controlada, y «eliminate in full intragroup assets and liabilities, equity, income, expenses and cash flows relating to transactions between entities of the group». Si una venta dentro del grupo dejó una ganancia o una pérdida metida en un activo que sigue en el grupo, como un inventario o un bien de uso, también se elimina entera. Antes de eliminar, los dos lados se concilian, como se explica en [conciliaciones](../Control-interno/conciliaciones.md#entre-empresas-del-mismo-grupo).
 
 > [!NOTE]
-> Sin fuente todavía: la definición de control de la NIIF 10 y un ejemplo de consolidación con cifras. Quien tenga que operar varias empresas en un mismo registro necesita los dos.
+> Sin fuente todavía: un ejemplo de consolidación con cifras. Quien tenga que operar varias empresas en un mismo registro lo necesita.
 
 ## Valor razonable o costo histórico
 

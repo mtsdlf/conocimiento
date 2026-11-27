@@ -58,7 +58,7 @@ Esa diferencia, con sus nombres según la norma, está en [trabajo en curso](tra
 
 ## Lo que sigue a la factura
 
-La factura emitida pasa a otros dominios. La factura electrónica, el impuesto que lleva y las retenciones que sufre la firma son del tema Impuestos; el cobro y el crédito al cliente, de Tesorería y finanzas de la empresa en marcha; ninguno de los dos está escrito todavía. Lo propio de facturar servicios en la Argentina está en [servicios profesionales en la Argentina](../servicios-profesionales-en-argentina.md).
+La factura emitida pasa a otros dominios. La factura electrónica, el impuesto que lleva y las retenciones que sufre la firma son de [Impuestos](../../Impuestos/impuestos.md) (el comprobante en sí, en [comprobante fiscal](../../Impuestos/Cumplimiento/comprobante-fiscal.md)); el cobro y el crédito al cliente, de [crédito y cobranzas](../../Tesoreria/Credito-y-cobranzas/credito-y-cobranzas.md), en Tesorería. Lo propio de facturar servicios en la Argentina está en [servicios profesionales en la Argentina](../servicios-profesionales-en-argentina.md).
 
 ## Qué hay adentro de la facturación del proyecto
 
