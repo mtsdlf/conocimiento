@@ -24,7 +24,7 @@ Es el último de los cuatro objetos de [Relación con clientes](../relacion-con-
 
 ## Qué compromete un pedido
 
-Un pedido tiene la misma forma que un presupuesto (cabecera y renglones con producto, cantidad, precio, descuento e impuesto) y agrega lo que hace falta para cumplirlo: la fecha prometida, la dirección de entrega, el depósito desde donde sale y, si lo hay, el número de la orden de compra del cliente. En un sistema abierto, la fecha de entrega de la cabecera es la fecha prometida por defecto, y cada renglón puede tener la suya para entregas escalonadas.
+Un pedido tiene la misma forma que un presupuesto (cabecera y renglones con producto, cantidad, precio, descuento e impuesto) y agrega lo que hace falta para cumplirlo: la [fecha prometida](fecha-prometida.md) y, si lo hay, el número de la orden de compra del cliente; la dirección de entrega y el depósito desde donde sale son criterio de la base. En un sistema abierto, la fecha de entrega de la cabecera es la fecha prometida por defecto, y cada renglón puede tener la suya para entregas escalonadas.
 
 La diferencia con el presupuesto es el compromiso. El presupuesto ofrece; el pedido obliga a la empresa a entregar y, en la mayoría de los casos, al cliente a pagar. Un sistema abierto lo dice así: el pedido registra el pedido confirmado del cliente y, al presentarlo, confirma el compromiso y lo deja disponible para los pasos siguientes.
 
@@ -41,7 +41,7 @@ APQC 7.4 tiene un proceso propio, 3.5.4 «Manage sales orders», con seis pasos:
 | 3.5.4.5 | «Process back orders and updates» |
 | 3.5.4.6 | «Handle sales order inquiries including post-order fulfillment transactions» |
 
-SCOR 6.0 lo pone dentro del proceso de entrega. Para producto en stock: D1.2 «Receive, Enter, & Validate Order» y D1.3 «Reserve Inventory and Determine Delivery Date»; para producto hecho contra pedido, D2.2 «Receive, Configure, Enter and Validate Order» y D2.3 «Reserve Resources and Determine Delivery Date». Los dos marcos ponen juntos recibir el pedido y averiguar si se puede cumplir. Este tema se queda con la promesa al cliente y deja el cálculo y la reserva a Inventario; el reparto está en [fecha prometida](fecha-prometida.md).
+SCOR 6.0 lo pone dentro del proceso de entrega. Para producto en stock: D1.2 «Receive, Enter, & Validate Order» y D1.3 «Reserve Inventory and Determine Delivery Date»; para producto hecho contra pedido, D2.2 «Receive, Configure, Enter and Validate Order» y D2.3 «Reserve Resources and Determine Delivery Date». SCOR pone en un mismo paso (D1.3) reservar el stock y fijar la fecha de entrega. Este tema se queda con la promesa al cliente y deja el cálculo y la reserva a Inventario; el reparto está en [fecha prometida](fecha-prometida.md).
 
 ## Los estados: dos ejes cruzados
 
@@ -51,8 +51,8 @@ Los estados de un pedido no forman una línea. Los seis primeros de la tabla son
 |---|---|
 | Borrador | Guardado, sin confirmar |
 | A entregar y facturar | Confirmado; falta entregar y falta facturar |
-| A entregar | Ya se facturó (por ejemplo, se cobró por adelantado) y falta entregar |
-| A facturar | Ya se entregó y falta facturar |
+| A entregar | Falta entregar (lectura de la base: ya se facturó, por ejemplo por adelantado) |
+| A facturar | Falta facturar (lectura de la base: ya se entregó) |
 | En espera | Se pausó el cumplimiento |
 | Cerrado | Se decidió no entregar lo que faltaba |
 | Completado | Todo entregado y facturado |
@@ -69,7 +69,7 @@ Confirmar el pedido pone en marcha a los vecinos:
 - **Contabilidad e Impuestos** emiten la factura y registran la deuda del cliente; en la Argentina, con [la factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md) y, entre empresas, con lo de [factura entre empresas](../../Comercio-electronico/Comercio-B2B/factura-entre-empresas.md).
 - **Tesorería** cobra; si el cliente compra a plazo, la deuda va a su [cuenta corriente](../../Comercio-electronico/Comercio-B2B/cuenta-corriente-y-credito.md).
 
-Cada uno de esos pasos produce su propio documento (entrega, factura, cobro) que apunta al pedido. Esa cadena de documentos es lo que permite contestar la pregunta de APQC 3.5.4.6: dónde está mi pedido. El pedido en sí no mueve stock ni plata; los movimientos los registran los documentos de cada dominio, con el patrón de [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md).
+Cada uno de esos pasos produce su propio documento (entrega, factura, cobro) que apunta al pedido. Esa cadena de documentos es la que permite responder a consultas del tipo «dónde está mi pedido», que APQC pone en 3.5.4.6. Que el pedido en sí no mueva stock ni plata, y que los movimientos los registren los documentos de cada dominio con el patrón de [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md), es criterio de la base.
 
 Cómo llega un pedido (un vendedor que visita, el teléfono, el chat, un portal, la tienda) no cambia el objeto: todos tienen que terminar en el mismo registro. En la venta entre empresas, ese problema está en [pedido B2B](../../Comercio-electronico/Comercio-B2B/pedido-b2b.md) y en [preventa y autoventa](../../Comercio-electronico/Comercio-B2B/preventa-y-autoventa.md).
 

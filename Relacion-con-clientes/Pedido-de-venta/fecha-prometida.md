@@ -20,13 +20,13 @@ revisado:
 
 La fecha prometida es la fecha de entrega que la empresa le compromete al cliente en el pedido. Se decide consultando cuánto hay sin comprometer en el stock y en lo que se va a recibir o fabricar (available-to-promise) o, si hay que producir, cuánta capacidad queda (capable-to-promise); el cálculo es de Inventario y de la planificación, y la promesa, de este tema.
 
-Es un campo del [pedido de venta](pedido-de-venta.md): en un sistema abierto, la fecha de entrega de la cabecera es la fecha prometida por defecto y cada renglón puede tener otra. Es también la promesa que más pesa en lo que el cliente espera: si se incumple, el problema llega a la [gestión de las promesas](../../Marketing/Servicio-y-relacion/gestion-de-las-promesas.md).
+Es un campo del [pedido de venta](pedido-de-venta.md): en un sistema abierto, la fecha de entrega de la cabecera es la fecha prometida por defecto y cada renglón puede tener otra. Si se incumple, el problema llega a la [gestión de las promesas](../../Marketing/Servicio-y-relacion/gestion-de-las-promesas.md).
 
 ## Quién calcula y quién promete
 
-Los marcos de procesos ponen juntos la reserva y la fecha. SCOR 6.0 tiene un solo paso, D1.3 «Reserve Inventory and Determine Delivery Date», y para lo hecho contra pedido, D2.3 «Reserve Resources and Determine Delivery Date». APQC 7.4 lo llama «Determine availability» (3.5.4.3), dentro de la gestión de pedidos.
+SCOR 6.0 pone juntas la reserva y la fecha en un solo paso, D1.3 «Reserve Inventory and Determine Delivery Date», y para lo hecho contra pedido, D2.3 «Reserve Resources and Determine Delivery Date». APQC 7.4 tiene, dentro de la gestión de pedidos, un paso titulado «Determine availability» (3.5.4.3); de él solo se leyó el título.
 
-La base los separa, y el reparto es este:
+La base las separa, y el reparto (criterio de la base) es este:
 
 | Qué | De quién |
 |---|---|
@@ -35,7 +35,7 @@ La base los separa, y el reparto es este:
 | Cuánto tarda el transporte hasta el cliente | Cadena de suministro y logística |
 | Qué fecha se le dice al cliente y queda escrita en el pedido | Relación con clientes |
 
-ASCM sostiene el mismo reparto: el disponible para prometer vive en el plan maestro de producción y lo mantienen los planificadores, y el excerpt del CPIM dice que «sales professionals will be able to view available-to-promise information in the organization's master schedule». El vendedor consulta; no calcula. El pedido consume y compromete la cifra.
+ASCM define el disponible para prometer sobre el plan maestro de producción, y el excerpt del CPIM dice que «sales professionals will be able to view available-to-promise information in the organization's master schedule». De ahí la base infiere el reparto: el vendedor consulta, no calcula, y el pedido consume y compromete la cifra.
 
 ## Available-to-promise: lo que no está comprometido
 
@@ -50,7 +50,7 @@ Es decir: si hay 70 en stock y 48 ya prometidas antes de la próxima entrada, se
 
 ## Capable-to-promise: cuando hay que producir
 
-Si lo que se vende se fabrica o se arma contra pedido, el stock no alcanza para prometer. El APICS Dictionary define el CTP como «The process of committing orders against available capacity as well as inventory», que puede abarcar varias plantas o centros de distribución, que usa un modelo de programación finita de la producción para saber cuándo se puede entregar, y cuyo objetivo es «to reduce the time spent by production planners in expediting orders and adjusting plans because of inaccurate delivery-date promises». Es el caso de los [productos configurables](../Presupuesto/productos-configurables.md).
+Si lo que se vende se fabrica o se arma contra pedido, el stock no alcanza para prometer. El APICS Dictionary define el CTP como «The process of committing orders against available capacity as well as inventory», que puede abarcar varias plantas o centros de distribución, que usa un modelo de programación finita de la producción para saber cuándo se puede entregar, y cuyo objetivo es «to reduce the time spent by production planners in expediting orders and adjusting plans because of inaccurate delivery-date promises». Que sea el caso de los [productos configurables](../Presupuesto/productos-configurables.md) es inferencia de la base.
 
 ## Cinco maneras de prometer en un sistema
 

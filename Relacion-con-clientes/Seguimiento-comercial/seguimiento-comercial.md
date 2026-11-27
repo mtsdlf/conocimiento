@@ -18,7 +18,7 @@ revisado:
 
 El seguimiento comercial es el registro de las ventas posibles antes de que haya un pedido: quién se interesó, qué venta podría salir con cada uno, por cuánto, en qué etapa está y qué se habló. Lo forman tres objetos: el interesado, la oportunidad y la actividad.
 
-Dentro de [Relación con clientes](../relacion-con-clientes.md) es la vertical que solo existe cuando alguien sale a vender o responde consultas. Un comercio que vende en el mostrador puede no tenerla; una empresa con vendedores la usa todos los días. Alimenta al [registro del cliente](../Registro-del-cliente/registro-del-cliente.md), porque un interesado que se convierte crea una cuenta y un contacto, y al [presupuesto](../Presupuesto/presupuesto.md), porque una oportunidad se concreta en uno o varios presupuestos.
+Dentro de [Relación con clientes](../relacion-con-clientes.md) es la vertical que solo existe cuando alguien sale a vender o responde consultas. Como inferencia de la base, un comercio que vende en el mostrador puede no tenerla; una empresa con vendedores la usa todos los días. Alimenta al [registro del cliente](../Registro-del-cliente/registro-del-cliente.md), porque un interesado que se convierte crea una cuenta y un contacto, y al [presupuesto](../Presupuesto/presupuesto.md), porque una oportunidad se concreta en uno o varios presupuestos.
 
 ## Registro, no método
 
@@ -45,7 +45,7 @@ Una oportunidad tiene dos ejes que conviene no mezclar: la **etapa** (cuánto av
 
 ## Dónde falla
 
-Falla cuando los datos no se cargan. El vendedor carga las oportunidades y las actividades; quien lee el embudo y la previsión es su jefe. Las cifras que circulan sobre cuánto no se carga vienen de encuestas de proveedores de software, sin el estudio original a la vista, y están en [actividad](actividad.md) y en [mitos del CRM](../Fundamentos/mitos-del-crm.md). Falla también con interesados duplicados, que llegan por varios canales y nadie fusiona.
+Falla cuando los datos no se cargan. El vendedor carga las oportunidades y las actividades; como inferencia de la base, quien lee el embudo y la previsión suele ser su jefe. Las cifras que circulan sobre cuánto no se carga son de terceros que citan los proveedores de software, sin el estudio original a la vista, y están en [actividad](actividad.md) y en [mitos del CRM](../Fundamentos/mitos-del-crm.md). Falla también con interesados duplicados, que llegan por varios canales y nadie fusiona.
 
 Contactar a un interesado tiene límites legales en la Argentina, que están en [Relación con clientes en la Argentina](../relacion-con-clientes-en-argentina.md) y, desde el lado del método, en [primer contacto](../../Ventas/Prospeccion/primer-contacto.md).
 

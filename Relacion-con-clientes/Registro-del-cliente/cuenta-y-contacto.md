@@ -29,39 +29,43 @@ Es el componente central del [registro del cliente](registro-del-cliente.md). La
 
 Fowler llama parte (party) a la abstracción de las personas y las unidades de una organización, con la persona y la organización como subtipos. Su ejemplo es una empresa de servicios cuyos clientes pueden ser individuos o empresas: lo que se hace igual con los dos se trata en la parte, y lo que difiere, en el subtipo. El problema que resuelve se ve en una libreta de direcciones con personas y empresas por separado, cada una con su domicilio y su teléfono: la duplicación molesta. Fowler dice que el nombre varía entre modelos (persona u organización, entidad legal) y que «parte» se volvió el más común.
 
-Cliente, en este modelo, no es una clase sino un rol. Fowler pone ejemplos de una misma parte con dos roles a la vez, como un agente que también es cliente, y por eso descarta resolverlo con herencia simple. Propone cinco formas de modelar roles, de la más simple a la más flexible; la más usada en sistemas de gestión pone lo común en un objeto anfitrión y un objeto aparte por cada rol. El listado de figuras del libro de Silverston va en la misma dirección: trae «parte», «roles de la parte» y «relaciones entre partes», y ninguna figura se llama «cliente» (es inferencia desde el índice; el libro no se leyó).
+Cliente, en este modelo, no es una clase sino un rol. Fowler pone ejemplos de una misma parte con dos roles a la vez, como un agente que también es cliente, y por eso descarta resolverlo con herencia simple. Propone cinco formas de modelar roles; una de ellas pone lo común en un objeto anfitrión y un objeto aparte por cada rol. El listado de figuras del libro de Silverston va en la misma dirección: trae figuras de Party, Party roles y Party relationships, y ninguna se llama Customer (es inferencia desde el índice; el libro no se leyó).
 
-La consecuencia práctica: una empresa que es a la vez cliente y proveedor se registra una vez, con dos roles, y no dos veces con dos códigos.
+La consecuencia práctica, como criterio de la base: una empresa que es a la vez cliente y proveedor se registra una vez, con dos roles, y no dos veces con dos códigos.
+
+En esta base, **cliente** es una cuenta con el rol de cliente. Cuándo nace ese rol depende del sistema y las fuentes difieren: en unos, al convertir un [interesado](../Seguimiento-comercial/interesado.md) calificado; en otros, con el primer pedido (un sistema abierto marca al interesado como convertido recién cuando hay un pedido de venta).
 
 ## Cuenta y contacto, en una tabla o en dos
 
 Los sistemas resuelven la relación entre la empresa y sus personas de dos maneras:
 
-| Diseño | Cómo se ve | Cuándo conviene |
+| Diseño | Cómo se ve | Cuándo conviene (criterio de la base) |
 |---|---|---|
 | Dos tablas | La cuenta es la empresa a la que se le factura; el contacto es una persona que pertenece a una cuenta principal y puede vincularse a otras con un rol | Venta entre empresas, donde se habla con varias personas de cada cliente |
 | Una tabla | Un mismo registro de contacto puede ser persona o empresa, y las personas se vinculan a una empresa | Venta a personas o mezcla de los dos, con un modelo más chico |
 
-El primero es el de un CRM de un proveedor grande y su contraparte de otro proveedor; el segundo, el de un sistema abierto que es la idea de la parte hecha producto. Otro sistema abierto distingue el tipo de cliente (empresa, individuo, sociedad) y deja las direcciones y los contactos como registros independientes vinculados al cliente. Para el cliente persona, el diseño de dos tablas suele agregar una variante de cuenta personal; esto se conoce solo por resúmenes y no se verificó.
+El primero es el de un CRM de un proveedor grande y su contraparte de otro proveedor; el segundo, el de un sistema abierto que es la idea de la parte hecha producto. Otro sistema abierto distingue el tipo de cliente (empresa, individuo, sociedad) y deja las direcciones y los contactos como registros independientes vinculados al cliente. Para el cliente persona, un CRM de un proveedor grande tiene, según un resumen, una variante de cuenta personal; no se verificó en su documentación.
 
-Los roles del contacto dentro de la compra (quién decide, quién usa, quién paga) son un campo de la relación entre contacto y cuenta. Cómo se averiguan es método de ventas y está en [grupo de compra](../../Ventas/Descubrimiento-y-calificacion/grupo-de-compra.md).
+Los roles del contacto dentro de la compra son un campo de la relación entre contacto y cuenta. Cómo se averiguan es método de ventas y está en [grupo de compra](../../Ventas/Descubrimiento-y-calificacion/grupo-de-compra.md).
 
 ## Jerarquías: la casa matriz y sus sucursales
 
-Una cuenta puede tener una cuenta madre: la casa matriz de una cadena y cada local, o un grupo y sus empresas. La jerarquía sirve para ver la venta total del grupo y, en algunos sistemas, para dibujar el árbol de la cuenta. Fowler aconseja modelarla solo cuando la estructura de la empresa afecta lo que hace el software: si no tenerla no duele, mantener los vínculos no vale lo que cuesta. Una regla que no puede faltar es que no haya ciclos.
+Una cuenta puede tener una cuenta madre: la casa matriz de una cadena y cada local, o un grupo y sus empresas. La jerarquía sirve para ver la matriz y sus hijas en los reportes y, en algunos sistemas, para dibujar el árbol de la cuenta. Fowler aconseja modelarla solo cuando la estructura de la empresa afecta lo que hace el software: si no tenerla no duele, mantener los vínculos no vale lo que cuesta. Una regla que no puede faltar es que no haya ciclos.
 
 Los sistemas leídos permiten una sola cuenta madre por cuenta. Fowler admite varias jerarquías a la vez, o vínculos con tipo, y para eso propone su patrón de responsabilidades (accountability), que él mismo describe como la forma más potente y más compleja de modelar organizaciones.
 
 ## Comprador, pagador y destinatario
 
-En una venta a una empresa grande, cuatro papeles pueden recaer en registros distintos. Los popularizó SAP con sus nombres en inglés: sold-to (el comprador, quien hace el pedido), ship-to (el destinatario, a dónde se entrega), bill-to (a quién se emite la factura) y payer (el pagador, quien paga). Su documentación los trata como roles que un interlocutor cumple en el proceso; las cuatro funciones son obligatorias en la venta y, en el caso simple, el mismo cliente cumple las cuatro. La definición de cada una sale de foros y resúmenes, no de la página oficial leída.
+En una venta a una empresa grande, cuatro papeles pueden recaer en registros distintos. Son las funciones estándar de SAP, con sus nombres en inglés: sold-to (el comprador, quien hace el pedido), ship-to (el destinatario, a dónde se entrega), bill-to (a quién se emite la factura) y payer (el pagador, quien paga). Su documentación los trata como roles que un interlocutor cumple en el proceso; las cuatro funciones son obligatorias por defecto y, en el caso simple, el mismo cliente cumple las cuatro. La definición de cada una, como está arriba, sale de foros y de un resumen del buscador, no de la página oficial leída.
 
-Hay dos niveles de detalle. El completo hace de cada rol un vínculo a otro registro, lo que permite, por ejemplo, un pagador central para todos los locales de una cadena. El chico guarda direcciones de factura y de entrega dentro de la misma cuenta, sin pagador propio. El chico alcanza mientras el que paga sea el que compra; cuando no, las [condiciones comerciales](condiciones-comerciales.md) y el límite de crédito tienen que leerse del pagador y no del comprador.
+Hay dos niveles de detalle. El completo hace de cada rol un vínculo a otro registro; según foros y resúmenes, el caso común es un pagador central distinto del que compra. El chico guarda direcciones de factura y de entrega dentro de la misma cuenta, sin pagador propio.
+
+El depósito donde el cliente recibe se registra distinto en cada uno: en el modelo chico es una dirección de entrega de la misma cuenta; en el de cuatro roles es un destinatario con registro propio, vinculado al comprador. El chico alcanza mientras el que paga sea el que compra; cuando no, las [condiciones comerciales](condiciones-comerciales.md) y el límite de crédito tienen que leerse del pagador y no del comprador.
 
 ## Duplicados y fusión
 
-APQC tiene pasos propios para juntar la información del cliente, interna y de terceros, y para sacar los duplicados (3.5.2.5.1 y 3.5.2.5.2). Taber, en una columna de práctica, enumera de dónde salen: nadie busca antes de crear, las importaciones no detectan duplicados, los formularios y portales insertan sin chequear, y los errores de administración o del propio software. Según él, pasado un 5 % de duplicados los usuarios empiezan a quejarse, y con un 25 % el problema puede costar puestos de trabajo. Son umbrales de un practicante, no una medición.
+APQC tiene pasos propios para juntar la información del cliente, interna y de terceros, y para sacar los duplicados (3.5.2.5.1 y 3.5.2.5.2). Taber, en una columna de práctica, enumera de dónde salen: nadie busca antes de crear, las importaciones no detectan duplicados, los formularios y portales insertan sin chequear, y los errores de administración o del propio software. Según él, pasado un 5 % de duplicados los usuarios empiezan a quejarse, y con un 25 % el problema puede poner en riesgo carreras. Son umbrales de un practicante, no una medición.
 
-Fusionar dos cuentas no es borrar una: los presupuestos, pedidos y actividades de las dos tienen que quedar colgando de la que sobrevive. Cómo se decide cuál es el registro bueno entre sistemas está en [datos maestros](../../Datos/Gobierno-y-calidad/datos-maestros.md).
+Como criterio de la base, fusionar dos cuentas no es borrar una: los presupuestos, pedidos y actividades de las dos tienen que quedar colgando de la que sobrevive. Cómo se decide cuál es el [registro de oro](../../Datos/Gobierno-y-calidad/datos-maestros.md) entre sistemas está en [datos maestros](../../Datos/Gobierno-y-calidad/datos-maestros.md).
 
 > [!NOTE] Sin fuente todavía: una regla general para elegir qué datos se conservan al fusionar dos cuentas.

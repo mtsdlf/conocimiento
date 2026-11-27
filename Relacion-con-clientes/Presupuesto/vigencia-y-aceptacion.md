@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Un presupuesto vale hasta una fecha que dice él mismo; antes de esa fecha se puede revisar con una versión nueva, y el cliente lo acepta firmándolo, mandando su orden de compra o pagando una seña. Con la aceptación se convierte en pedido de venta, y hay que decidir qué precio rige si cambió en el medio.
+  Un presupuesto vale hasta una fecha que dice él mismo; antes de esa fecha se puede revisar (llevar un historial de versiones solo se encontró documentado para los acuerdos de un ERP grande), y el cliente lo acepta firmándolo, mandando su orden de compra o pagando una seña. Con la aceptación se convierte en pedido de venta, y hay que decidir qué precio rige si cambió en el medio.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -21,17 +21,17 @@ revisado:
 
 # Vigencia y aceptación
 
-Un presupuesto vale hasta una fecha que dice él mismo; antes de esa fecha se puede revisar con una versión nueva, y el cliente lo acepta firmándolo, mandando su orden de compra o pagando una seña. Con la aceptación se convierte en pedido de venta, y hay que decidir qué precio rige si cambió en el medio.
+Un presupuesto vale hasta una fecha que dice él mismo; antes de esa fecha se puede revisar (llevar un historial de versiones solo se encontró documentado para los acuerdos de un ERP grande), y el cliente lo acepta firmándolo, mandando su orden de compra o pagando una seña. Con la aceptación se convierte en pedido de venta, y hay que decidir qué precio rige si cambió en el medio.
 
-Es el final de la vida del [presupuesto](presupuesto.md) y el comienzo del [pedido de venta](../Pedido-de-venta/pedido-de-venta.md). Todo lo de esta nota existe también en papel: «presupuesto válido por 15 días», «presupuesto revisado», «firma en conformidad».
+Es el final de la vida del [presupuesto](presupuesto.md) y el comienzo del [pedido de venta](../Pedido-de-venta/pedido-de-venta.md).
 
 ## Hasta cuándo vale un presupuesto
 
-La fecha de validez es un campo de la cabecera: el último día en que la oferta vale. Pasada esa fecha sin respuesta, el presupuesto pasa a vencido. Un sistema abierto lo hace automáticamente; otro toma la validez de una configuración general, o de la plantilla de presupuesto que se usó, y deja cambiarla antes de enviar. Ese mismo sistema muestra la fecha de vencimiento en la vista que recibe el cliente: la validez es parte de la oferta, no un dato interno.
+La fecha de validez es un campo de la cabecera: el último día en que la oferta vale. Pasada esa fecha sin respuesta, el presupuesto pasa a vencido, como en un sistema abierto. Otro toma la validez de una configuración general, o de la plantilla de presupuesto que se usó, y deja cambiarla antes de enviar. Ese mismo sistema muestra la fecha de vencimiento en la vista que recibe el cliente: la validez es parte de la oferta, no un dato interno.
 
 La validez protege a quien vende de dos cosas: que cambien sus costos y que el cliente acepte meses después una oferta que ya no puede cumplir. Por eso el plazo suele ser más corto donde los precios se mueven rápido, como en una economía con inflación alta. Esto último es criterio de la base.
 
-En la Argentina, la oferta obliga a quien la hace dentro de su plazo de vigencia, y para ciertos servicios al consumidor la ley exige que el presupuesto diga el plazo para aceptarlo; el detalle está en [Relación con clientes en la Argentina](../relacion-con-clientes-en-argentina.md).
+En la Argentina, el art. 974 del Código Civil y Comercial dice que «La oferta obliga al proponente, a no ser que lo contrario resulte de sus términos, de la naturaleza del negocio o de las circunstancias del caso», y para ciertos servicios al consumidor la ley exige que el presupuesto diga el plazo para aceptarlo; el detalle está en [Relación con clientes en la Argentina](../relacion-con-clientes-en-argentina.md).
 
 ## Revisar un presupuesto: versiones
 
@@ -55,13 +55,13 @@ Para el presupuesto, conviene la segunda en cuanto el documento se envió: lo qu
 
 La columna de cuándo es habitual cada forma es criterio de la base.
 
-Un sistema abierto deja aceptar en línea: el cliente abre el presupuesto en un portal, firma y, si corresponde, paga; al firmar, el vendedor recibe el aviso de que el pedido quedó confirmado. Otro sistema guarda en el pedido la referencia y la fecha de la orden de compra del cliente, que es lo que el cliente va a citar cuando reciba la factura. Un tercero deja registrar un prepago en el pedido.
+Un sistema abierto deja aceptar en línea: el cliente abre el presupuesto en un portal, firma y, si corresponde, paga; al firmar, el vendedor recibe el aviso de que el pedido quedó confirmado. Otro sistema guarda en el pedido la referencia y la fecha de la orden de compra del cliente; que sea lo que el cliente va a citar cuando reciba la factura es inferencia de la base. Un tercero deja registrar un prepago en el pedido marco (ver [tipos de pedido](../Pedido-de-venta/tipos-de-pedido.md)).
 
-Cobrar antes de entregar también se decide por política. Un sistema abierto tiene dos: facturar lo pedido (se puede facturar apenas se confirma) o facturar lo entregado (primero hay que validar la entrega). La seña es un caso del primero. Qué es la seña en la ley argentina está en la nota de la Argentina; cómo se registra el cobro es de Tesorería y Contabilidad.
+Cobrar antes de entregar también se decide por política. Un sistema abierto tiene dos: facturar lo pedido (se puede facturar apenas se confirma) o facturar lo entregado (primero hay que validar la entrega). Que la seña sea un caso del primero es criterio de la base. Qué es la seña en la ley argentina está en [Relación con clientes en la Argentina](../relacion-con-clientes-en-argentina.md); cómo se registra el cobro es de Tesorería y Contabilidad.
 
 ## Del presupuesto aceptado al pedido
 
-Aceptar es convertir. En un diseño, el presupuesto confirmado pasa a ser el pedido; en el otro, se crea un pedido que copia los renglones y guarda la referencia (los dos diseños están en [presupuesto](presupuesto.md)). Si el presupuesto tenía renglones alternativos, el sistema pregunta cuál eligió el cliente.
+Aceptar es convertir. En un diseño, el presupuesto confirmado pasa a ser el pedido; en el otro, se crea un pedido que copia los renglones y guarda la referencia (los dos diseños están en [presupuesto](presupuesto.md)). Si el presupuesto tenía renglones alternativos, un sistema abierto puede preguntar cuál eligió el cliente. La fecha de entrega que decía el presupuesto pasa al pedido como fecha prometida, salvo que la disponibilidad diga otra cosa al confirmar (criterio de la base; ver [fecha prometida](../Pedido-de-venta/fecha-prometida.md)).
 
 Después de convertir, conviene que lo confirmado no se pueda editar sin un procedimiento: un sistema abierto tiene una opción para bloquear los pedidos confirmados. Cómo se cambia un pedido después está en [cambios y cancelaciones](../Pedido-de-venta/cambios-y-cancelaciones.md).
 

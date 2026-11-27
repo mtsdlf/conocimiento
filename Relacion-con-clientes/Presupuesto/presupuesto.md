@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El presupuesto es la oferta formal que una empresa le hace a un cliente: qué le vende, en qué cantidades, a qué precio, con qué descuentos e impuestos, en qué condiciones y hasta qué fecha vale. Es un documento con estados (borrador, enviado, aceptado, rechazado, vencido) y, si el cliente lo acepta, se convierte en pedido de venta.
+  El presupuesto es la oferta formal que una empresa le hace a un cliente: qué le vende, en qué cantidades, a qué precio, con qué descuentos e impuestos, en qué condiciones y hasta qué fecha vale. Es un documento con estados (borrador, enviado, aceptado, rechazado, vencido, anulado) y, si el cliente lo acepta, se convierte en pedido de venta.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -17,15 +17,15 @@ revisado:
 
 # Presupuesto
 
-El presupuesto es la oferta formal que una empresa le hace a un cliente: qué le vende, en qué cantidades, a qué precio, con qué descuentos e impuestos, en qué condiciones y hasta qué fecha vale. Es un documento con estados (borrador, enviado, aceptado, rechazado, vencido) y, si el cliente lo acepta, se convierte en pedido de venta.
+El presupuesto es la oferta formal que una empresa le hace a un cliente: qué le vende, en qué cantidades, a qué precio, con qué descuentos e impuestos, en qué condiciones y hasta qué fecha vale. Es un documento con estados (borrador, enviado, aceptado, rechazado, vencido, anulado) y, si el cliente lo acepta, se convierte en pedido de venta.
 
 Es el tercero de los cuatro objetos de [Relación con clientes](../relacion-con-clientes.md). Recibe del [registro del cliente](../Registro-del-cliente/registro-del-cliente.md) a quién se le ofrece y con qué [condiciones comerciales](../Registro-del-cliente/condiciones-comerciales.md) (lista de precios, condición de pago, moneda). Suele colgar de una [oportunidad](../Seguimiento-comercial/oportunidad.md): la oportunidad dice que hay una venta posible y cuánto podría valer; el presupuesto dice exactamente qué se ofrece y por cuánto, y una oportunidad puede tener varios. Si lo aceptan, termina en un [pedido de venta](../Pedido-de-venta/pedido-de-venta.md).
 
 ## De qué está hecho un presupuesto
 
-Un presupuesto tiene una cabecera y renglones. La cabecera lleva el cliente, la fecha, la moneda, la condición de pago, la fecha hasta la que vale y un número propio. Cada renglón lleva un producto o servicio, la cantidad, la unidad, el precio unitario, el descuento y el impuesto que le corresponde; el total sale de sumar los renglones. Así lo modelan los sistemas abiertos y los de los proveedores grandes, y así se arma también en papel.
+Un presupuesto tiene una cabecera y renglones. La cabecera lleva el cliente, la fecha, la moneda, la condición de pago, la fecha hasta la que vale y un número propio. Cada renglón lleva un producto o servicio, la cantidad, la unidad, el precio unitario, el descuento y el impuesto que le corresponde; el total sale de sumar los renglones. Esta estructura es criterio de la base; los sistemas leídos traen esos datos (renglones, precios, impuestos, descuentos y fecha de validez).
 
-En el recorrido de una venta, el presupuesto llega después de una consulta. SCOR 6.0 los junta en un solo paso del proceso de entrega de producto en stock: D1.1 «Process Inquiry & Quote». APQC 7.4 le dedica el proceso 3.5.3 «Develop and manage sales proposals, bids, and quotes», con pasos como «Develop pricing and scheduling estimates» (3.5.3.9), «Conduct profitability analysis» (3.5.3.10), «Manage internal approvals» (3.5.3.12), «Submit/present bid/proposal/quote to customer» (3.5.3.13) y «Revise bid/proposal/quote» (3.5.3.14). Un ERP de un proveedor grande los agrupa como documentos de preventa, junto con la consulta.
+En el recorrido de una venta, el presupuesto llega después de una consulta. SCOR 6.0 los junta en un solo paso del proceso de entrega de producto en stock: D1.1 «Process Inquiry & Quote». APQC 7.4 le dedica el proceso 3.5.3 «Develop and manage sales proposals, bids, and quotes», con pasos como «Develop pricing and scheduling estimates» (3.5.3.9), «Conduct profitability analysis» (3.5.3.10), «Manage internal approvals» (3.5.3.12), «Submit/present bid/proposal/quote to customer» (3.5.3.13) y «Revise bid/proposal/quote» (3.5.3.14). Un ERP de un proveedor grande clasifica la consulta y el presupuesto como documentos de preventa.
 
 ## Los estados del presupuesto
 
@@ -38,11 +38,9 @@ En el recorrido de una venta, el presupuesto llega después de una consulta. SCO
 | Vencido | Pasó la fecha hasta la que valía sin respuesta |
 | Anulado | Se retiró la oferta por un error o un cambio propio |
 
-Un sistema abierto usa estos mismos estados, con «perdido» en lugar de «rechazado» y «pedido» en lugar de «aceptado», y pide anotar por qué se perdió. El motivo de pérdida del presupuesto y el de la oportunidad suelen ser el mismo dato: si la oportunidad tiene un solo presupuesto, se registra una vez.
+Un sistema abierto usa estados equivalentes, con «perdido» en lugar de «rechazado» y «pedido» en lugar de «aceptado», y pide anotar por qué se perdió. Que el motivo de pérdida del presupuesto y el de la oportunidad sean el mismo dato (si la oportunidad tiene un solo presupuesto, se registra una vez) es criterio de la base.
 
-El número del presupuesto identifica la oferta ante el cliente y permite que el pedido diga de dónde salió.
-
-> [!NOTE] Sin fuente todavía: cómo numeran los sistemas los presupuestos y sus revisiones (series, prefijos, sufijo de versión).
+> [!NOTE] Sin fuente todavía: que el número del presupuesto identifique la oferta ante el cliente y permita que el pedido diga de dónde salió es criterio de la base; tampoco se encontró cómo numeran los sistemas los presupuestos y sus revisiones (series, prefijos, sufijo de versión).
 
 ## Dónde termina la propuesta y empieza el presupuesto
 
@@ -54,10 +52,10 @@ Ningún estándar traza esta frontera así. APQC 3.5.3 mezcla pasos de propuesta
 
 Cuando el cliente acepta, hay dos maneras de modelarlo, y quien construye software elige una:
 
-1. **El mismo registro cambia de estado.** Al confirmarse, el presupuesto pasa a ser pedido de venta: mismo número, mismos renglones. Lo hace un sistema abierto. Es simple, pero se pierde la foto de lo que se ofreció si después se cambia el pedido, salvo que se guarde aparte.
-2. **Se crea un documento nuevo que apunta al presupuesto.** El pedido copia los renglones y guarda la referencia; el presupuesto queda en estado «aceptado» o «pedido» y no se toca. Lo hacen otro sistema abierto y un ERP de un proveedor grande, que muestra la cadena de documentos (consulta, presupuesto, pedido, entrega, factura). Cuesta un documento más, pero cada uno conserva lo que dijo.
+1. **El mismo registro cambia de estado.** Al confirmarse, el presupuesto pasa a ser pedido de venta. Lo hace un sistema abierto.
+2. **Se crea un documento nuevo que apunta al presupuesto.** El pedido se crea desde el presupuesto, que queda en estado «pedido». Lo hacen otro sistema abierto y un ERP de un proveedor grande, que trata presupuesto y pedido como documentos distintos con referencia entre sí.
 
-El segundo diseño es el que conviene cuando un presupuesto se acepta en partes, cuando se aceptan varias versiones o cuando hay que mostrarle al cliente lo que se le ofreció. Esto es criterio de la base; las fuentes muestran los dos diseños sin elegir.
+Lo que sigue es criterio de la base, porque las fuentes muestran los dos diseños sin elegir. El primero es más simple, pero pierde la foto de lo que se ofreció si después se cambia el pedido, salvo que se guarde aparte. El segundo cuesta un documento más, pero cada uno conserva lo que dijo, y conviene cuando un presupuesto se acepta en partes, cuando hay varias versiones o cuando hay que mostrarle al cliente lo que se le ofreció.
 
 En la Argentina el presupuesto tiene reglas propias: lo que debe contener en ciertos servicios, la oferta que obliga y la leyenda que lo distingue de una factura; están en [Relación con clientes en la Argentina](../relacion-con-clientes-en-argentina.md).
 

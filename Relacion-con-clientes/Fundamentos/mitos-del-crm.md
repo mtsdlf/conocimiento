@@ -14,6 +14,7 @@ fuentes:
   - "HubSpot, Why your sales reps hate CRM software (blog de un proveedor, según resumen): https://blog.hubspot.com/sales/why-your-sales-reps-hate-crm-software"
   - "Real Story Group, The myth of the single customer view (según resumen): https://www.realstorygroup.com/Blog/myth-single-customer-view"
   - "Retail Banker International, Single customer view: chasing the myth or harnessing the reality (según resumen): https://www.retailbankerinternational.com/comment/single-customer-view-chasing-the-myth-or-harnessing-the-reality/"
+  - "David Taber, How to solve CRM data deduplication dilemmas, CIO, 1 de octubre de 2013: https://www.cio.com/article/2382113/how-to-solve-crm-data-deduplication-dilemmas.html"
   - "Relacion-con-clientes/.investigacion/fundamentos-y-contraria.md (sección 6) y registro-y-seguimiento.md (componente 6)"
 aliases: [fracaso de los CRM, 70% de los CRM fracasan, adopción del CRM, CRM adoption, single customer view, vista única del cliente]
 creado: 2026-11-27
@@ -46,7 +47,7 @@ Lo que sí sostiene el artículo de HBR, según la página de Bain, es que el er
 
 ## Qué se sabe de si el CRM mejora los resultados
 
-Pocos estudios lo miden, y muestran asociaciones moderadas en contextos acotados. Reinartz, Krafft y Hoyer (2004) encontraron, según su abstract, una asociación positiva y moderada entre los procesos de CRM y el desempeño. Mithas, Krishnan y Fornell (2005) asociaron el uso de aplicaciones de CRM con un mejor conocimiento del cliente y, por esa vía, con más satisfacción; el resultado es satisfacción, no ganancia. Krasnikov, Jayachandran y Kumar (2009) estudiaron solo la banca comercial de Estados Unidos, y su conclusión no se pudo leer. Ninguno prueba que el CRM cause la mejora, y no hay estudios de empresas chicas ni de la Argentina.
+Pocos estudios lo miden, y muestran asociaciones moderadas en contextos acotados. Reinartz, Krafft y Hoyer (2004) encontraron, según fragmentos de su trabajo citados por otros, una asociación positiva y moderada entre los procesos de CRM y el desempeño. Mithas, Krishnan y Fornell (2005) asociaron el uso de aplicaciones de CRM con un mejor conocimiento del cliente y, por esa vía, con más satisfacción; el resultado es satisfacción, no ganancia. Krasnikov, Jayachandran y Kumar (2009) estudiaron solo la banca comercial de Estados Unidos, y su conclusión no se pudo leer. Ninguno prueba que el CRM cause la mejora, y no se encontraron estudios de otros sectores ni países.
 
 ## «El vendedor no carga los datos»
 

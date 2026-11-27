@@ -17,13 +17,14 @@ revisado:
 
 Los términos del tema Relación con clientes, cada uno con su nombre en inglés, una definición corta y la nota donde vive.
 
-No hay un glosario canónico y neutral del campo: los sistemas usan nombres distintos para lo mismo, y el corte entre interesado y oportunidad cambia de uno a otro. Estas son las palabras que usa esta base, en un sentido cada una. Los términos del método de vender (calificación, grupo de compra, tasa de cierre) están en el [glosario de ventas](../../Ventas/Fundamentos/glosario-de-ventas.md).
+No hay un glosario canónico y neutral del campo: los sistemas usan nombres distintos para lo mismo, y el corte entre interesado y oportunidad cambia de uno a otro. Estas son las palabras que usa esta base, en un sentido cada una; los nombres en inglés de cartera y territorio son convención de la base. Los términos del método de vender (calificación, grupo de compra, tasa de cierre) están en el [glosario de ventas](../../Ventas/Fundamentos/glosario-de-ventas.md).
 
 ## Los objetos
 
 | Término | Inglés | Qué es | Dónde |
 |---|---|---|---|
 | Cuenta | Account | El cliente como organización (o persona) a la que se le vende y se le factura | [cuenta y contacto](../Registro-del-cliente/cuenta-y-contacto.md) |
+| Cliente | Customer | Una cuenta con el rol de cliente: nace al convertir un interesado o con el primer pedido, según el sistema | [cuenta y contacto](../Registro-del-cliente/cuenta-y-contacto.md) |
 | Contacto | Contact | Una persona vinculada a una cuenta, con su rol en la compra | [cuenta y contacto](../Registro-del-cliente/cuenta-y-contacto.md) |
 | Parte | Party | La persona u organización registrada una sola vez, que puede cumplir varios roles (cliente, proveedor); término de Fowler | [cuenta y contacto](../Registro-del-cliente/cuenta-y-contacto.md) |
 | Comprador, pagador, destinatario | Sold-to, payer (o bill-to), ship-to | Los roles que pueden tener distintas cuentas en una misma venta: quién pide, quién paga y a dónde se entrega | [cuenta y contacto](../Registro-del-cliente/cuenta-y-contacto.md) |

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El interesado (lead) es el registro de alguien que mostró interés en comprar pero todavía no fue calificado: un nombre, una empresa, un medio de contacto y de dónde vino. Se guarda aparte del cliente para no ensuciar la cartera con datos inciertos, y cuando se califica se convierte en cuenta, contacto y oportunidad.
+  El interesado (lead) es el registro de alguien que mostró interés en comprar pero todavía no fue calificado: un nombre, una empresa, un medio de contacto y de dónde vino. Se guarda aparte del cliente (la razón que da esta base es no ensuciar la cartera con datos inciertos) y, cuando se califica, se convierte en cuenta, contacto y oportunidad.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -18,7 +18,7 @@ revisado:
 
 # Interesado
 
-El interesado (lead) es el registro de alguien que mostró interés en comprar pero todavía no fue calificado: un nombre, una empresa, un medio de contacto y de dónde vino. Se guarda aparte del cliente para no ensuciar la cartera con datos inciertos, y cuando se califica se convierte en cuenta, contacto y oportunidad.
+El interesado (lead) es el registro de alguien que mostró interés en comprar pero todavía no fue calificado: un nombre, una empresa, un medio de contacto y de dónde vino. Se guarda aparte del cliente (la razón que da esta base es no ensuciar la cartera con datos inciertos) y, cuando se califica, se convierte en cuenta, contacto y oportunidad.
 
 Es el primer objeto del [seguimiento comercial](seguimiento-comercial.md) y el único que cruza a la otra vertical: al convertirse, crea registros en el [registro del cliente](../Registro-del-cliente/registro-del-cliente.md). Llega por formularios, ferias, llamadas en frío o campañas; cómo se lo consigue es [prospección](../../Ventas/Prospeccion/prospeccion.md) y cómo se lo responde, [responder lo que entra](../../Ventas/Prospeccion/responder-lo-que-entra.md).
 
@@ -36,9 +36,9 @@ La separación tiene costo: dos tablas, una conversión y la posibilidad de que 
 
 ## Origen y estados
 
-El origen dice cómo llegó: sitio web, feria, boca a boca, llamada en frío, campaña. Un CRM abierto lo registra para medir qué canal trae interesados; un sistema de gestión abierto lo guarda en el interesado y también en la oportunidad, para no perderlo al convertir.
+El origen dice cómo llegó: sitio web, feria, boca a boca, llamada en frío, campaña. Un CRM abierto lo registra para medir qué canal trae interesados; un sistema de gestión abierto lo guarda en el interesado y también en la oportunidad.
 
-Los estados varían entre sistemas:
+Los estados varían entre sistemas; abierto, calificado o descartado, como dice la entrada de la vertical, es el vocabulario de esta base para lo que cada uno llama distinto:
 
 | Diseño | Estados | Qué pasa con un descartado |
 |---|---|---|
@@ -46,16 +46,16 @@ Los estados varían entre sistemas:
 | Un CRM abierto | Nuevo, asignado, en proceso, convertido, reciclado, muerto | Puede volver a la cola como reciclado |
 | Un sistema de gestión abierto | Mezcla el estado del interesado con la suerte del presupuesto: calificado al crear la oportunidad, convertido cuando hay un pedido, presupuesto perdido si se pierde | Sigue la suerte del presupuesto |
 
-Los dos primeros separan el interesado de la venta; el tercero los ata, y eso hace que un mismo campo diga dos cosas. Para quien diseña, conviene que el estado del interesado termine en la conversión y que lo demás lo lleve la oportunidad.
+Los dos primeros separan el interesado de la venta; el tercero los ata, y eso hace que un mismo campo diga dos cosas. Como criterio de la base, conviene que el estado del interesado termine en la conversión y que lo demás lo lleve la oportunidad.
 
 ## La conversión
 
 Convertir es partir el interesado en tres registros: el contacto (quién es), la cuenta (dónde trabaja) y la oportunidad (qué podría comprar). Así lo describe un CRM abierto, que además avisa si ya hay registros parecidos. En otro, el nombre de la empresa del interesado pasa a ser el nombre de la cuenta. En un tercero, al convertir se elige el vendedor y el equipo, y se crea un cliente nuevo, se vincula uno existente o no se vincula ninguno.
 
-El interesado no se borra al convertirse: queda con el rastro de en qué se convirtió. Un CRM grande guarda la oportunidad en la que se calificó; un sistema abierto deja al cliente vinculado a la actividad comercial anterior. Ese rastro es lo que permite medir cuántos interesados de cada origen terminan en venta.
+El interesado no se borra al convertirse: queda con el rastro de en qué se convirtió. Un CRM grande guarda la oportunidad en la que se calificó; un sistema abierto deja al cliente vinculado a la actividad comercial anterior. Como inferencia de la base, ese rastro es lo que permite medir cuántos interesados de cada origen terminan en venta.
 
 ## Duplicados
 
-Un interesado llega muchas veces por varios canales. Un sistema abierto muestra los interesados parecidos y, al fusionar, conserva el más antiguo y le suma los datos del otro; si se fusiona un interesado con una oportunidad, queda la oportunidad. APQC pone la deduplicación dentro de la gestión de datos del cliente (ver [cuenta y contacto](../Registro-del-cliente/cuenta-y-contacto.md)).
+Como inferencia de la base, un mismo interesado puede llegar por varios canales. Un sistema abierto muestra los interesados parecidos y, al fusionar, conserva el más antiguo y le suma los datos del otro; si se fusiona un interesado con una oportunidad, queda la oportunidad. APQC pone la deduplicación dentro de la gestión de datos del cliente (ver [cuenta y contacto](../Registro-del-cliente/cuenta-y-contacto.md)).
 
 Guardar datos de personas que no son clientes tiene reglas: lo general está en [privacidad de datos personales](../../Datos/Gobierno-y-calidad/privacidad-de-datos-personales.md) y lo argentino, en [Relación con clientes en la Argentina](../relacion-con-clientes-en-argentina.md).

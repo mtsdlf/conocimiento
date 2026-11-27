@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El registro del cliente es lo que una empresa guarda de cada uno de sus clientes: quién es (una empresa o una persona, con sus contactos), quién compra, quién paga y a dónde se entrega, y en qué condiciones se le vende. Es el dato maestro del dominio: se carga una vez y lo leen el presupuesto, el pedido, la factura y la cobranza.
+  El registro del cliente es lo que una empresa guarda de cada uno de sus clientes: quién es (una empresa o una persona, con sus contactos), quién compra, quién paga y a dónde se entrega, y en qué condiciones se le vende. Es el [dato maestro](../../Datos/Gobierno-y-calidad/datos-maestros.md) del dominio: se carga una vez y lo leen el presupuesto, el pedido, la factura y la cobranza.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -16,13 +16,13 @@ revisado:
 
 # Registro del cliente
 
-El registro del cliente es lo que una empresa guarda de cada uno de sus clientes: quién es (una empresa o una persona, con sus contactos), quién compra, quién paga y a dónde se entrega, y en qué condiciones se le vende. Es el dato maestro del dominio: se carga una vez y lo leen el presupuesto, el pedido, la factura y la cobranza.
+El registro del cliente es lo que una empresa guarda de cada uno de sus clientes: quién es (una empresa o una persona, con sus contactos), quién compra, quién paga y a dónde se entrega, y en qué condiciones se le vende. Es el [dato maestro](../../Datos/Gobierno-y-calidad/datos-maestros.md) del dominio: se carga una vez y lo leen el presupuesto, el pedido, la factura y la cobranza.
 
-Dentro de [Relación con clientes](../relacion-con-clientes.md) es la vertical que no cambia con cada venta. Recibe del [Seguimiento comercial](../Seguimiento-comercial/seguimiento-comercial.md) los clientes nuevos, cuando un [interesado](../Seguimiento-comercial/interesado.md) se convierte o una oportunidad se gana. Le da al [Presupuesto](../Presupuesto/presupuesto.md) y al [Pedido de venta](../Pedido-de-venta/pedido-de-venta.md) la lista de precios, la condición de pago, el límite de crédito y las direcciones. Sin software, es la libreta o la planilla de clientes del mostrador; con software, es la tabla que todos los módulos leen.
+Dentro de [Relación con clientes](../relacion-con-clientes.md) es la vertical que no cambia con cada venta. Recibe del [Seguimiento comercial](../Seguimiento-comercial/seguimiento-comercial.md) los clientes nuevos, cuando un [interesado](../Seguimiento-comercial/interesado.md) se convierte (un sistema abierto lo marca como convertido recién cuando hay un pedido). Le da al [Presupuesto](../Presupuesto/presupuesto.md) y al [Pedido de venta](../Pedido-de-venta/pedido-de-venta.md) la lista de precios, la condición de pago, el límite de crédito y las direcciones. Sin software, es la libreta o la planilla de clientes del mostrador; con software, es la tabla que todos los módulos leen.
 
 ## Por qué el cliente es un dato maestro
 
-El cliente aparece en casi todos los documentos de la venta y de lo que sigue: el presupuesto, el pedido, el remito, la factura, el recibo. Si cada uno guardara su propia copia del nombre, la dirección y la condición de pago, un cambio de domicilio obligaría a corregir todo. Por eso el cliente se registra una vez y los documentos lo referencian. APQC lo pone dentro del proceso de vender, en 3.5.2 «Manage customers and accounts», con pasos propios para juntar la información del cliente y para sacar los duplicados.
+El cliente aparece en casi todos los documentos de la venta y de lo que sigue: el presupuesto, el pedido, el remito, la factura, el recibo. Si cada uno guardara su propia copia del nombre, la dirección y la condición de pago, un cambio de domicilio obligaría a corregir todo. Por eso el cliente se registra una vez y los documentos lo referencian. Según una copia del marco de APQC de versión no declarada, lo pone dentro del proceso de vender, en 3.5.2 «Manage customers and accounts», con pasos propios para juntar la información del cliente y para sacar los duplicados.
 
 Lograr un solo registro cuando hay varios sistemas (la tienda, el punto de venta, el sistema de gestión) es el problema del [registro de oro](../../Datos/Gobierno-y-calidad/datos-maestros.md). Esta vertical se ocupa de lo de adentro: qué datos lleva el registro, cómo se arma la relación entre empresa y persona, y qué condiciones se guardan.
 
@@ -36,9 +36,9 @@ Quien modela el registro del cliente decide tres cosas, y cada una tiene más de
 
 ## Dónde falla
 
-Falla por duplicados: el mismo cliente cargado dos veces, con dos saldos y dos historias. Aparecen cuando nadie busca antes de crear, cuando una importación no compara contra lo que ya hay o cuando un formulario web inserta sin chequear. Falla también cuando un dato que debería ser del cliente se carga a mano en cada pedido, y cada vendedor lo escribe distinto. Lo general de la calidad de un dato está en [calidad de datos](../../Datos/Gobierno-y-calidad/calidad-de-datos.md).
+Falla por duplicados: el mismo cliente cargado dos veces, con dos saldos y dos historias. Aparecen cuando nadie busca antes de crear, cuando una importación no compara contra lo que ya hay o cuando un formulario web inserta sin chequear. Como criterio de la base, falla también cuando un dato que debería ser del cliente se carga a mano en cada pedido, y cada vendedor lo escribe distinto. Lo general de la calidad de un dato está en [calidad de datos](../../Datos/Gobierno-y-calidad/calidad-de-datos.md).
 
-Que exista una vista única y completa del cliente se discute: comentaristas de la industria la tratan como un objetivo que rara vez se alcanza entero. Se presenta como objetivo de diseño con límites en [mitos del CRM](../Fundamentos/mitos-del-crm.md).
+Que exista una vista única y completa del cliente se discute: según resúmenes de comentarios de la industria, no de investigación, suele ser un objetivo difícil de alcanzar entero. Se presenta como objetivo de diseño con límites en [mitos del CRM](../Fundamentos/mitos-del-crm.md).
 
 Lo que el registro tiene que guardar en la Argentina (la clave fiscal, la condición frente al IVA, el consentimiento para los datos personales) está en [Relación con clientes en la Argentina](../relacion-con-clientes-en-argentina.md).
 
