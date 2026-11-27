@@ -68,7 +68,7 @@ Casi toda esta literatura es sobre la crianza de bebés y chicos chicos. Como in
 La única evaluación encontrada es un informe de la Universidad del Sur de California (USC, diciembre de 2024), leído a través del comentario de Daminger y del resumen del buscador:
 
 - dos cohortes, más de 500 participantes, casi todas madres embarazadas al empezar;
-- de 337 invitados, el 56 % empezó y el 27 % terminó;
+- de 337 invitados, el 56 % empezó y el 27 % terminó (las fuentes leídas no dicen si los 337 son una de las cohortes, así que las dos cifras no se pueden cruzar);
 - mostró más igualdad, con cambios modestos, mayores en lo cognitivo que en lo físico;
 - no fue aleatorizado, informó solo un miembro de cada pareja, no tuvo revisión por pares y se hizo en coordinación con el Fair Play Policy Institute y una empresa de salud.
 
