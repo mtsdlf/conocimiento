@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Negociar el sueldo es discutir el pago y las condiciones propias, al recibir una oferta de trabajo o al pedir un aumento. En los estudios encontrados, quien negocia la oferta de entrada gana más, y la diferencia entre varones y mujeres en iniciar una negociación es chica, y la de resultados depende del contexto: se achica cuando se conoce el rango.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Marks y Harold (2011), Who asks and who receives in salary negotiation, Journal of Organizational Behavior 32, 371-394 (según un resumen de su abstract): https://doi.org/10.1002/job.671"
@@ -15,7 +15,7 @@ fuentes:
   - "Comunicacion/.investigacion/negociacion.md"
 aliases: [negociar el sueldo, negociación salarial, salary negotiation, negociar el salario, pedir un aumento, negociar una oferta de trabajo, job offer negotiation, brecha de género en la negociación, gender gap in negotiation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Negociar el sueldo

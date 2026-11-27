@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Disculparse es reconocerle a otro que uno le hizo daño y hacerse cargo. En experimentos con escenarios, las disculpas con más componentes se juzgaron más eficaces, sobre todo las que reconocen la responsabilidad; en un metaanálisis de 175 estudios, la disculpa estuvo entre los predictores más fuertes de que el otro perdone.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lewicki, Polin y Lount (2016), componentes de una disculpa eficaz, Negotiation and Conflict Management Research 9(2):177-196 (según su abstract): https://doi.org/10.1111/ncmr.12073 (abstract en https://ncmr.lps.library.cmu.edu/article/id/264/)"
@@ -10,7 +10,7 @@ fuentes:
   - "Comunicacion/.investigacion/conversaciones-dificiles.md"
 aliases: [disculpa, pedir disculpas, pedir perdón, apology, apologizing, perdón, forgiveness, reparación, componentes de una disculpa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Disculparse

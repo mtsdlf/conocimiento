@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mensajes escritos de trabajo son los mails y los mensajes de chat con que se pide, se avisa o se contesta algo. Quien escribe cree que su tono se entiende mejor de lo que se entiende, los emojis suben la calidez y bajan la competencia percibida entre desconocidos, y esperar respuesta inmediata interrumpe a quien lee; cómo escribir para lectores ocupados no tiene estudios que esta base haya leído.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kruger, Epley, Parker y Ng (2005), Egocentrism over e-mail: Can we communicate as well as we think?, Journal of Personality and Social Psychology (según su abstract): https://doi.org/10.1037/0022-3514.89.6.925"
@@ -14,7 +14,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [mensajes escritos, mail de trabajo, correo electrónico, email, e-mail, chat de trabajo, mensajería, emojis, smileys, escribir para lectores ocupados, writing for busy readers]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mensajes escritos

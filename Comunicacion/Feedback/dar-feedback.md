@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dar feedback es decirle a otra persona cómo está haciendo su trabajo para que lo corrija o lo sostenga. La evidencia dice que rinde más cuando habla de la tarea y no de la persona, y que el elogio y la amenaza a la autoestima le restan efecto; el sándwich, la razón de tres a uno y los modelos de practicantes más conocidos no tienen estudios con adultos en el trabajo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kluger y DeNisi (1996), The effects of feedback interventions on performance, Psychological Bulletin 119(2), 254-284 (leído entero, en una copia de terceros): https://doi.org/10.1037/0033-2909.119.2.254"
@@ -23,7 +23,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [dar feedback, giving feedback, feedback negativo, feedback positivo, feedback sándwich, sandwich feedback, método sándwich, SBI, situación conducta impacto, Radical Candor, franqueza radical, feedback 360, multisource feedback, elogio, reconocimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dar feedback

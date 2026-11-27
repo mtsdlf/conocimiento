@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El miedo a hablar en público es la ansiedad que da presentar frente a un grupo, y en una encuesta canadiense un tercio de la gente la sentía como excesiva. Los tratamientos psicológicos la bajan, con g = 0,74 en un metaanálisis; decirse «estoy entusiasmado» cambia lo que uno siente pero no, en su única réplica, cómo lo ven, y las posturas de poder cayeron.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Stein, Walker y Forde (1996), Public-speaking fears in a community sample, Archives of General Psychiatry (según su abstract): https://europepmc.org/article/MED/8629892"
@@ -23,7 +23,7 @@ fuentes:
   - "Comunicacion/.investigacion/organizacion-y-fundamentos.md, mito 6 (posturas de poder)"
 aliases: [miedo escénico, ansiedad al hablar en público, glosofobia, nervios antes de presentar, public speaking anxiety, fear of public speaking, stage fright, posturas de poder, power posing, power pose]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Miedo a hablar en público

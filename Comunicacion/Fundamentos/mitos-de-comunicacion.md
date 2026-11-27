@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de comunicación son afirmaciones sobre cómo habla y escucha la gente que circulan en cursos, charlas y libros y que la evidencia no sostiene como se cuentan: unas cayeron, otras se citan mal y otras nunca tuvieron fuente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Mehrabian y Wiener (1967), Decoding of inconsistent communications, JPSP (solo el registro): https://doi.org/10.1037/h0024532"
@@ -33,7 +33,7 @@ fuentes:
   - "Comunicacion/.investigacion/feedback.md, persuasion.md, escucha-y-conversacion.md y hablar-en-publico-y-escritura.md"
 aliases: [mitos de la comunicación, communication myths, 7-38-55, regla de Mehrabian, 93 % no verbal, sándwich de feedback, posturas de poder, power posing, PNL, programación neurolingüística, efecto rebote, backfire effect, razón de Losada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos de comunicación

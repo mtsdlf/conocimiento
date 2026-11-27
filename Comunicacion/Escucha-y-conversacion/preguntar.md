@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Preguntar, en una conversación, es pedirle al otro que siga o que cuente más; las preguntas de seguimiento, las que retoman lo que el otro acaba de decir, son las que se asocian con caerle mejor. Quien pregunta no anticipa ese efecto, y el análisis que lo sostiene en citas rápidas está discutido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Huang, Yeomans, Brooks, Minson y Gino (2017), It doesn't hurt to ask: Question-asking increases liking, Journal of Personality and Social Psychology (según un resumen): https://dash.harvard.edu/handle/1/35647952"
@@ -12,7 +12,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [preguntas, hacer preguntas, question-asking, preguntas de seguimiento, follow-up questions, preguntas abiertas, preguntas cerradas, open questions, closed questions, responsividad, responsiveness]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Preguntar

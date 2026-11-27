@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las diapositivas son el apoyo visual de una presentación, y casi todo lo que se sabe de ellas viene de estudios de aprendizaje con material multimedia, no de reuniones. Hay un experimento a favor del diseño aserción-evidencia, que compara un paquete de principios contra el formato por defecto, y un metaanálisis que da a la señalización d = 0,38.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Garner y Alley (2013), How the design of presentation slides affects audience comprehension: a case for the assertion-evidence approach, International Journal of Engineering Education (según un resumen que reproduce su abstract; sin URL verificada del artículo)"
@@ -14,7 +14,7 @@ fuentes:
   - "Comunicacion/.investigacion/hablar-en-publico-y-escritura.md, sección 2"
 aliases: [slides, diapositiva, presentación, deck, diseño de diapositivas, slide design, aserción-evidencia, assertion-evidence, señalización, signaling, detalles seductores, seductive details]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Diapositivas

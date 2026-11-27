@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dar una mala noticia es comunicarle a alguien algo que empeora su situación: un diagnóstico, un despido, un recorte. Medicina tiene un protocolo (SPIKES) y una revisión Cochrane que muestra que entrenar cambia lo que hace el profesional pero no la satisfacción del paciente; en el trabajo, la justicia organizacional muestra que pesan por separado la decisión, el proceso, el trato y la explicación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Baile, Buckman, Lenzi, Glober, Beale y Kudelka (2000), SPIKES, protocolo de seis pasos para dar malas noticias, The Oncologist 5(4):302-311 (según su abstract): https://doi.org/10.1634/theoncologist.5-4-302"
@@ -15,7 +15,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [malas noticias, dar una mala noticia, breaking bad news, delivering bad news, SPIKES, protocolo SPIKES, comunicar un despido, justicia organizacional, organizational justice, justicia interaccional, interactional justice, justicia informacional, justicia interpersonal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dar malas noticias

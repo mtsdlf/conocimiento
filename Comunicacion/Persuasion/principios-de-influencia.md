@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los principios de influencia son la lista con que Robert Cialdini divulgó por qué la gente acepta un pedido: reciprocidad, compromiso y coherencia, prueba social, autoridad, simpatía, escasez y unidad. Son un marco de divulgación, no una teoría del campo, y las técnicas que los ilustran tienen evidencia muy desigual: efectos chicos, algunos que caen al mirar solo los estudios buenos y otros sin réplica.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Cialdini, Influence (libro de divulgación; no se leyó)"
@@ -18,7 +18,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md, sección 3"
 aliases: [principios de Cialdini, Cialdini, Influence, armas de la influencia, principles of persuasion, principles of influence, técnicas de cumplimiento, compliance techniques, pie en la puerta, foot-in-the-door, puerta en la cara, door-in-the-face, but you are free, pero sos libre, efecto because, placebo information]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Principios de influencia

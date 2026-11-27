@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Resistencia y cambio de opinión es lo que se sabe de por qué la gente rechaza un intento de convencerla y de qué la mueve igual. La reactancia y la inoculación explican la resistencia; el efecto rebote, que corregir un error lo refuerce, no se replicó; y los cambios durables medidos vienen de conversaciones cara a cara con una persona entrenada y de reformular según los valores del otro, con efectos chicos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rains (2013), The nature of psychological reactance revisited, Human Communication Research 39(1), 47-73 (según su abstract): https://academic.oup.com/hcr/article-abstract/39/1/47/4093682"
@@ -17,7 +17,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md, sección 3"
 aliases: [reactancia, reactancia psicológica, psychological reactance, inoculación, inoculation theory, prebunking, efecto rebote, backfire effect, efecto contraproducente, corregir desinformación, conversación en profundidad, deep canvassing, reencuadre moral, moral reframing, cambiar de opinión, resistencia a la persuasión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Resistencia y cambio de opinión

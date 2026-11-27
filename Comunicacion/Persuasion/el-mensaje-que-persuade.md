@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El mensaje que persuade es lo que la investigación sabe de cómo armar lo que se dice para que convenza: mencionar la objeción y refutarla rinde más que callarla, el miedo funciona si viene con una salida, una fuente creíble suele ayudar, y elegir entre hablar de ganancias o de pérdidas casi no cambia nada.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Allen (1991), metaanálisis de mensajes de uno y dos lados, Western Journal of Speech Communication (según su abstract): https://informahealthcare.com/doi/abs/10.1080/10570319109374395"
@@ -15,7 +15,7 @@ fuentes:
   - "Comunicacion/.investigacion/persuasion.md, sección 3"
 aliases: [mensaje persuasivo, persuasive message, mensaje de dos lados, two-sided message, refutación, refutational message, apelación al miedo, fear appeal, credibilidad de la fuente, source credibility, encuadre de ganancia o pérdida, gain-loss framing, gain-framed, loss-framed]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # El mensaje que persuade

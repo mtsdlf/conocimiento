@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Elegir el canal es decidir si algo se dice por escrito o en vivo, y si se espera respuesta en el momento o cuando el otro pueda. La teoría más citada, la riqueza de los medios, tiene resultados inconsistentes; la de la sincronicidad propone que transmitir información rinde más sin respuesta inmediata y ponerse de acuerdo, en tiempo real.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Daft y Lengel (1986), origen de la teoría de la riqueza de los medios (texto no verificado), citado en Comunicacion/.investigacion/organizacion-y-fundamentos.md"
@@ -18,7 +18,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [elegir canal, canal de comunicación, elección de medio, media choice, riqueza de los medios, media richness theory, sincronicidad de los medios, media synchronicity theory, comunicación sincrónica, comunicación asincrónica, sincrónico o asincrónico, sync vs async]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir el canal

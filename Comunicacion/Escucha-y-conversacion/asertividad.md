@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La asertividad es decir lo que uno quiere o necesita, pedir algo y decir que no, defendiendo lo propio sin pasar por encima del otro. Rinde en un punto medio: quien se queda corto no consigue lo que busca y quien se pasa daña la relación, y la gente suele pedir menos de lo que le convendría porque subestima cuánto le van a decir que sí.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ames y Flynn (2007), What breaks a leader: The curvilinear relation between assertiveness and leadership, Journal of Personality and Social Psychology 92(2), 307-324 (según un resumen): https://pubmed.ncbi.nlm.nih.gov/17279851/"
@@ -15,7 +15,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [asertivo, assertiveness, interpersonal assertiveness, pedir ayuda, asking for help, decir que no, saying no, poner límites, entrenamiento en asertividad, assertiveness training]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Asertividad

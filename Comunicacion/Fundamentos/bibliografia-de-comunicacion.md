@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lecturas de comunicación ordenadas por necesidad (tener el mapa del campo, leer su evidencia, escuchar, dar feedback, sostener una conversación difícil, convencer, negociar, presentar, escribir y comunicar en la empresa): la obra, qué parte leer, en qué fijarse y cuánto se leyó para armar la base.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Comunicacion/.investigacion/organizacion-y-fundamentos.md (recursos canónicos y sección 5)"
@@ -14,7 +14,7 @@ fuentes:
   - "Dennis, Fuller y Valacich (2008), MIS Quarterly 32(3) (según su abstract): https://doi.org/10.2307/25148857"
 aliases: [lecturas de comunicación, libros de comunicación, bibliografía de comunicación interpersonal, reading list communication, por dónde empezar en comunicación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de comunicación

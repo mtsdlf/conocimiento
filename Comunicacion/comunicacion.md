@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Comunicación, en esta base, es lo que una persona hace al hablar o escribirle a otra en el trabajo para que entienda, cambie de idea o acuerde algo: escuchar, dar feedback, sostener una conversación difícil, convencer, negociar, presentar y escribir. El tema reúne la evidencia de cada habilidad y marca lo que solo dicen los practicantes.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kluger, Lehmann, Aguinis, Itzchakov, Gordoni, Zyberaj y Bakaç (2024), A meta-analytic systematic review and theory of the effects of perceived listening on work outcomes, Journal of Business and Psychology 39(2) (según su abstract): https://link.springer.com/article/10.1007/s10869-023-09897-5"
@@ -12,7 +12,7 @@ fuentes:
   - "Comunicacion/.investigacion/"
 aliases: [comunicación, comunicación interpersonal, comunicación en el trabajo, habilidades de comunicación, communication, interpersonal communication, workplace communication, soft skills, habilidades blandas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Comunicación

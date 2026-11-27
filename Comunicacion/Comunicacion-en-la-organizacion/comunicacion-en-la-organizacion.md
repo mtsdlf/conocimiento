@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Comunicación en la organización es cómo circula lo que se dice en una empresa: por qué canal, a quién llega y qué sube desde abajo. Trata dos decisiones, qué canal usar para cada mensaje y cómo se le explica algo a todo el equipo, y un problema, que lo que la gente sabe no siempre llega a quien decide.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Dennis, Fuller y Valacich (2008), Media, Tasks, and Communication Processes: A Theory of Media Synchronicity, MIS Quarterly 32(3) (según su abstract): https://doi.org/10.2307/25148857"
@@ -18,7 +18,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [comunicación organizacional, comunicación interna, comunicación en la empresa, organizational communication, internal communication, employee communication]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Comunicación en la organización

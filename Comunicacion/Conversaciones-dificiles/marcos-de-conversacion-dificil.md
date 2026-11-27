@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los marcos de conversación difícil son los métodos de practicantes para conducir una conversación con mucho en juego: Difficult Conversations de Stone, Patton y Heen, Crucial Conversations de Patterson y colegas, y la Comunicación No Violenta de Rosenberg. No se encontró para ninguno una evaluación independiente con efecto medido; la de Crucial Conversations es del proveedor del curso y la de la Comunicación No Violenta es de certeza baja y casi toda autoinformada.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Stone, Patton y Heen (1999), Difficult Conversations (práctica; no leído)"
@@ -16,7 +16,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [Difficult Conversations, Crucial Conversations, Comunicación No Violenta, CNV, Nonviolent Communication, NVC, las tres conversaciones, Stone Patton Heen, Rosenberg]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Marcos de conversación difícil

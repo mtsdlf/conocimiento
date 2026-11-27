@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Feedback es la información que una persona recibe sobre cómo está haciendo algo, de otra persona o del propio resultado, para que pueda corregir o seguir. Entre adultos mejora el desempeño en promedio, pero más de un tercio de las veces lo empeora, y lo que más decide es si la atención de quien lo recibe queda en la tarea o se va a sí mismo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kluger y DeNisi (1996), The effects of feedback interventions on performance, Psychological Bulletin 119(2), 254-284 (leído entero, en una copia de terceros): https://doi.org/10.1037/0033-2909.119.2.254 ; copia: https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [feedback, dar feedback, recibir feedback, intervención de feedback, feedback intervention, devolución, retroalimentación en el trabajo, performance feedback]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Feedback

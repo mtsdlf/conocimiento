@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los estilos de conflicto son las formas habituales de manejar un desacuerdo con otro: resolver el problema juntos, forzar, ceder, evitar o transigir. El modelo de doble preocupación que los ordena tiene escalas validadas, pero no se encontró un metaanálisis que pruebe que resolver el problema rinda más que los otros estilos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "De Dreu, Evers, Beersma, Kluwer y Nauta (2001), A theory-based measure of conflict management strategies in the workplace, Journal of Organizational Behavior 22(6):645-668 (según un resumen): https://dare.uva.nl/id/87091e90-9cfd-48d7-a7fc-83abff4a861f"
@@ -14,7 +14,7 @@ fuentes:
   - "Comunicacion/.investigacion/conversaciones-dificiles.md"
 aliases: [estilos de manejo del conflicto, conflict styles, conflict management styles, modelo de doble preocupación, dual concern model, TKI, Thomas-Kilmann, resolver problemas, problem solving, integrar, forzar, ceder, evitar, transigir, cuatro jinetes, Gottman]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estilos de conflicto

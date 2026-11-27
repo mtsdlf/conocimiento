@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina el lenguaje claro es obligatorio por ley para el sector público de la Ciudad de Buenos Aires (Ley 6.367, 2020) y de la Provincia de Buenos Aires (Ley 15.184, 2020), que en la Provincia alcanza también a las concesionarias privadas de servicios públicos. A nivel nacional hay una red de organismos desde 2018 y proyectos de ley, pero no una ley; a una empresa privada común ninguna de estas normas la obliga.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ley 6.367 de la Ciudad Autónoma de Buenos Aires (2020), PDF publicado en el sitio de lenguaje claro del Poder Judicial de la Ciudad (leído con un extractor, que normalizó caracteres mal codificados): https://lenguajeclaro.jusbaires.gob.ar/app/uploads/2022/09/LEY-6367-CABA-LC.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Comunicacion/.investigacion/argentina-lenguaje-claro.md"
 aliases: [lenguaje claro en Argentina, Ley 6.367, Ley 15.184, Manual de Lenguaje Claro, ley de lenguaje claro, Red Argentina de Lenguaje Claro, RALC, plain language in Argentina]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lenguaje claro en Argentina

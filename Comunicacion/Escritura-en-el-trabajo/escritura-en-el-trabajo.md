@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La escritura en el trabajo es escribir un mail, un mensaje o un documento para que otra persona lo entienda y haga algo con él sin poder preguntarle a quien lo escribió. La evidencia que hay es poca y de laboratorio: quien escribe sobreestima cuánto se entiende su tono, y escribir difícil baja la inteligencia que le atribuyen; casi todo lo demás es guía de estilo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kruger, Epley, Parker y Ng (2005), Egocentrism over e-mail: Can we communicate as well as we think?, Journal of Personality and Social Psychology (según su abstract): https://doi.org/10.1037/0022-3514.89.6.925"
@@ -14,7 +14,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [escritura en el trabajo, escribir en el trabajo, escritura profesional, escritura de negocios, redacción, workplace writing, business writing, professional writing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escritura en el trabajo

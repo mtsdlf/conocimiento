@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Escucha y conversación es la parte de la comunicación que trata lo que pasa en cualquier charla entre dos: escuchar, preguntar, lo que se transmite sin palabras y decir lo que uno quiere. Su hallazgo de fondo es que cada lado juzga mal al otro: cuánto lo escucharon, cuánto le cae bien una pregunta, cuándo quiere terminar la charla y cuánto le cuesta decir que no.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mastroianni, Gilbert, Cooney y Wilson (2021), Do conversations end when people want them to?, PNAS (según su abstract): https://pmc.ncbi.nlm.nih.gov/articles/PMC7958231"
@@ -15,7 +15,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [conversación, conversar, conversation, conversational behavior, conducta conversacional, terminar una conversación, ending conversations, habilidades conversacionales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escucha y conversación

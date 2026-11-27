@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Los términos que usan las notas de Comunicación, cada uno con una definición corta y la nota que lo desarrolla, agrupados por la parte del tema donde se tratan.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
   - "Comunicacion/.investigacion/ (los informes de cada vertical)"
 aliases: [glosario de comunicación, términos de comunicación, vocabulario de comunicación, glossary of communication]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de Comunicación

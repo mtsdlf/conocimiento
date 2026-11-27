@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Pedir y recibir feedback es buscar información sobre cómo uno está trabajando y poder usarla aunque duela. La gente lo pide menos de lo que le conviene, los demás avisan menos de lo que el otro querría, y pedir «consejo» en lugar de «feedback» consigue comentarios más concretos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Anseel, Beatty, Shen, Lievens y Sackett (2015), How are we doing after 30 years? A meta-analytic review of the antecedents and outcomes of feedback-seeking behavior, Journal of Management 41(1), 318-348 (según su abstract): https://doi.org/10.1177/0149206313484521"
@@ -16,7 +16,7 @@ fuentes:
   - "Comunicacion/.investigacion/feedback.md"
 aliases: [pedir feedback, recibir feedback, búsqueda de feedback, feedback-seeking, feedback-seeking behavior, FSB, receiving feedback, pedir consejo, advice seeking, Thanks for the Feedback, gatillos del feedback]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pedir y recibir feedback

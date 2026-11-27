@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Escuchar bien es atender a quien habla de modo que esa persona se sienta escuchada; la investigación lo mide casi siempre así, como escucha percibida. Se asocia con mejores relaciones y mejor desempeño en el trabajo, con una asociación que se achica cuando se sacan los autoinformes, y la escucha activa de manual empató con dar consejo en satisfacción en el único experimento que los comparó, aunque ganó en sentirse comprendido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kluger, Lehmann, Aguinis, Itzchakov, Gordoni, Zyberaj y Bakaç (2024), A meta-analytic systematic review and theory of the effects of perceived listening on work outcomes, Journal of Business and Psychology 39(2) (según su abstract): https://cris.huji.ac.il/en/publications/a-meta-analytic-systematic-review-and-theory-of-the-effects-of-pe/"
@@ -18,7 +18,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [escuchar, escucha activa, active listening, listening, escucha percibida, perceived listening, escucha de calidad, high-quality listening, parafrasear, paraphrasing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escucha

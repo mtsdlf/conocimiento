@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La comunicación no verbal es lo que se transmite sin palabras: la cara, el cuerpo, la mirada y la voz. Lo que más circula sobre ella está mal: la regla 7-38-55 vale solo para sentimientos y actitudes, la gente detecta mentiras apenas por encima del azar y la cara no alcanza para saber qué siente otro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bond y DePaulo (2006), Accuracy of deception judgments, Personality and Social Psychology Review 10, 214-234 (según un resumen): https://pubmed.ncbi.nlm.nih.gov/16859438/"
@@ -11,7 +11,7 @@ fuentes:
   - "Comunicacion/.investigacion/escucha-y-conversacion.md"
 aliases: [lenguaje no verbal, lenguaje corporal, body language, nonverbal communication, comunicación no verbal, 7-38-55, regla de Mehrabian, Mehrabian, detectar mentiras, deception detection, expresión facial, facial expression]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Comunicación no verbal

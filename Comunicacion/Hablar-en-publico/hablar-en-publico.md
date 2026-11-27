@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Hablar en público es presentar frente a un grupo: una charla, una propuesta en una reunión, un avance ante un cliente. Lo que tiene evidencia es el miedo a hacerlo, que se trata con buen resultado, y algo de cómo armar las diapositivas; cómo se ordena lo que se dice es de Storytelling.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Stein, Walker y Forde (1996), Public-speaking fears in a community sample, Archives of General Psychiatry (según su abstract): https://europepmc.org/article/MED/8629892"
@@ -13,7 +13,7 @@ fuentes:
   - "Comunicacion/.investigacion/hablar-en-publico-y-escritura.md, secciones 1, 2, 5 y 6"
 aliases: [hablar en público, oratoria, presentar, presentaciones, dar una charla, exponer, public speaking, presentation skills, presenting]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hablar en público

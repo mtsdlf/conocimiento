@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Persuadir es cambiar lo que otra persona piensa o hace con lo que se le dice, sin obligarla. La investigación del campo mide efectos chicos, que se achican más al mirar los estudios mejor hechos y la conducta real en vez de lo que la gente declara.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Dillard, Hunter y Burgoon (1984), metaanálisis de pie en la puerta y puerta en la cara (según un resumen): https://pure.psu.edu/en/publications/sequentialrequest-persuasive-strategies-metaanalysis-of-footinthe/"
@@ -16,7 +16,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md, sección 3"
 aliases: [persuasión, persuadir, convencer, persuasion, influencia interpersonal, interpersonal influence, cambio de actitud, attitude change]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Persuasión

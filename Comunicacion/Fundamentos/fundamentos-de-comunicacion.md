@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Comunicación sin ser una de sus partes: cómo se divide el campo que la estudia, sus modelos clásicos, cuánto creerle a un estudio de comunicación, si los entrenamientos funcionan, qué circula sin sostén, el vocabulario y qué leer según la necesidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Craig (1999), Communication Theory as a Field, Communication Theory 9(2) (según su abstract): https://doi.org/10.1111/j.1468-2885.1999.tb00355.x"
@@ -19,7 +19,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [fundamentos de comunicación, ciencia de la comunicación, communication studies, communication theory, teoría de la comunicación, modelos de comunicación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de Comunicación

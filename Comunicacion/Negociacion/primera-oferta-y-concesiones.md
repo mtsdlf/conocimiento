@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La primera oferta es el primer número que se pone sobre la mesa, y las concesiones, lo que cada parte cede después. Quien ofrece primero suele quedarse con más, porque el número ancla el acuerdo, salvo que al ofrecer revele prioridades a alguien que solo mira lo suyo; cómo conviene ceder no tiene fuente en esta base.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Galinsky y Mussweiler (2001), First offers as anchors, JPSP 81(4), 657-669 (según su abstract): https://doi.org/10.1037/0022-3514.81.4.657"
@@ -24,7 +24,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [primera oferta, first offer, anclaje en la negociación, anchoring in negotiation, oferta precisa, precise offer, desventaja del primero, first-mover disadvantage, concesiones, concessions, enojo estratégico, strategic anger, emociones en la negociación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Primera oferta y concesiones

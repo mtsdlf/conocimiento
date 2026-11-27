@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La negociación integrativa es la parte de negociar que busca acuerdos mejores para los dos, aprovechando que cada uno valora distinto los temas en juego. Muchos negociadores no la ven porque suponen que el otro quiere lo opuesto (el sesgo del pastel fijo), y la buscan más quienes quieren que al otro también le vaya bien, siempre que no cedan fácil.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Thompson y Hastie (1990), Social perception in negotiation, Organizational Behavior and Human Decision Processes, pp. 98-123 (según su abstract, vía un extractor): https://www.kellogg.northwestern.edu/academics-research/research/detail/1990/social-perception-in-negotiation/"
@@ -13,7 +13,7 @@ fuentes:
   - "Comunicacion/.investigacion/negociacion.md"
 aliases: [negociación integrativa, integrative negotiation, integrative bargaining, ganar-ganar, win-win, intereses y posiciones, interests and positions, logrolling, intercambio entre temas, sesgo del pastel fijo, fixed-pie bias, mythical fixed pie, acuerdos lose-lose, motivos sociales, social motives, crear valor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Negociación integrativa

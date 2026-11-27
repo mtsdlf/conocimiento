@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Negociar es acordar términos con alguien que quiere otra cosa, cuando a los dos les conviene más un acuerdo que seguir sin él. Toda negociación tiene una parte distributiva, repartir lo que hay, y casi siempre una integrativa, agrandar lo que se reparte; la vara para juzgar cualquier acuerdo es la propia MAAN.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Sebenius (2017), BATNAs in Negotiation: Common Errors and Three Kinds of «No», Negotiation Journal 33(2):89-99 (leído entero, en la versión de trabajo HBS WP 17-055): https://dash.harvard.edu/bitstream/handle/1/30011594/sebenius_BATNAs-in-negotiation.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [negociación, negociar, negotiation, bargaining, MAAN, BATNA, mejor alternativa a un acuerdo negociado, zona de acuerdo posible, ZOPA, zone of possible agreement, precio de reserva, reservation price, negociación distributiva, negociación integrativa, distributive bargaining, integrative bargaining, crear valor, reclamar valor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Negociación

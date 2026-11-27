@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una conversación difícil es la que se tiene con alguien cuando hay mucho en juego, las emociones son fuertes y las opiniones se oponen: un despido, una mala noticia, una disculpa, una pelea con un socio. Los marcos para conducirlas son de practicantes; la evidencia sale de medicina, de la justicia organizacional y de los estudios de disculpa, perdón y estilos de conflicto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Baile, Buckman, Lenzi, Glober, Beale y Kudelka (2000), SPIKES, The Oncologist 5(4):302-311 (según su abstract): https://doi.org/10.1634/theoncologist.5-4-302"
@@ -17,7 +17,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [conversación difícil, conversaciones difíciles, difficult conversations, crucial conversations, conversación incómoda, hard conversations]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conversaciones difíciles

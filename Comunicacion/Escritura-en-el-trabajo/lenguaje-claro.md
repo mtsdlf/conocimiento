@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lenguaje claro es escribir pensando en un lector concreto para que el texto se entienda sin esfuerzo. Hay guías institucionales y una norma ISO de 2023; la evidencia más citada, la de Oppenheimer, muestra que escribir difícil sin necesidad baja la inteligencia que se le atribuye al autor, no que el texto claro se entienda mejor.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "digital.gov, Plain language guide (leído en lo que devolvió el lector): https://digital.gov/guides/plain-language"
@@ -14,7 +14,7 @@ fuentes:
   - "Comunicacion/.investigacion/posicion-contraria.md"
 aliases: [lenguaje claro, lenguaje llano, escritura clara, plain language, plain English, plain writing, legibilidad, readability]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lenguaje claro

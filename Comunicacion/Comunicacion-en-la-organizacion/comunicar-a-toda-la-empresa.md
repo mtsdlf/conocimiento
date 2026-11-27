@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Comunicar a toda la empresa es decirle lo mismo a todo el equipo a la vez: un cambio, un recorte, una decisión que afecta a todos, y también escuchar lo que vuelve. La evidencia más firme es un metaanálisis sobre explicaciones después de un resultado desfavorable; sobre rumores, silencio y canales internos hay estudios de una sola organización y encuestas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Shaw, Wild y Colquitt (2003), To justify or excuse?: A meta-analytic review of the effects of explanations, Journal of Applied Psychology 88(3) (según su abstract): https://doi.org/10.1037/0021-9010.88.3.444"
@@ -17,7 +17,7 @@ fuentes:
   - "Comunicacion/.investigacion/organizacion-y-fundamentos.md"
 aliases: [comunicación interna, comunicar un cambio, comunicar un recorte, anunciar un recorte, comunicado a todos, all-hands, internal communication, change communication, rumores, rumor, voz del empleado, employee voice, silencio organizacional, employee silence, excusa y justificación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Comunicar a toda la empresa

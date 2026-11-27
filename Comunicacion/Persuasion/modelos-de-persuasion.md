@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los modelos de persuasión explican cuándo un mensaje cambia una actitud por la calidad de sus argumentos y cuándo por señales simples, como quién lo dice. El más citado es el modelo de probabilidad de elaboración (ELM), con dos rutas; su rival, el unimodelo, sostiene que hay un solo proceso, y el debate sigue abierto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Petty y Cacioppo (1986), capítulo 1 del monográfico sobre el modelo de probabilidad de elaboración (solo se vio el registro; no se leyó): https://edisciplinas.usp.br/pluginfile.php/5388042/mod_resource/content/1/ELM%20Cap%C3%ADtulo%20original.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Comunicacion/.investigacion/persuasion.md, sección 1"
 aliases: [modelo de probabilidad de elaboración, ELM, elaboration likelihood model, ruta central, ruta periférica, central route, peripheral route, modelo heurístico-sistemático, heuristic-systematic model, HSM, unimodelo, unimodel, teorías de la persuasión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelos de persuasión
