@@ -3,16 +3,18 @@ resumen: >-
   La ingesta es traer el dato crudo desde los sistemas donde nace hasta el almacén donde se
   analiza, por lotes cada cierto tiempo, en flujo a medida que ocurre o copiando los cambios de una
   base.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - "Joe Reis y Matt Housley, Fundamentals of Data Engineering, cap. 7 Ingestion (O'Reilly, 2022); no leído, estructura vía buscador: https://oreilly.com/library/view/fundamentals-of-data/9781098108298"
   - "Debezium, sitio oficial: https://debezium.io/"
+  - "Debezium, Features (leída entera en Datos/.investigacion/bi-gestion-extraccion.md): https://debezium.io/documentation/reference/stable/features.html"
+  - "PostgreSQL, Logical Decoding Concepts (leída entera en Datos/.investigacion/bi-gestion-extraccion.md): https://www.postgresql.org/docs/current/logicaldecoding-explanation.html"
   - "Apache Flink, Concepts overview: https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/overview/"
   - "Datos/.investigacion/modelado-e-ingesta.md (sección 7)"
 aliases: [ingesta de datos, data ingestion, carga de datos, CDC, change data capture, streaming, batch]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Ingesta
@@ -52,9 +54,16 @@ la forma de que otras aplicaciones respondan a esos cambios sin modificar las qu
 base; cada evento registra el tipo de operación, el estado de la fila antes y después, y de dónde
 vino.
 
+Los cambios salen del registro de transacciones de la base, no de consultar las tablas. En
+PostgreSQL, la decodificación lógica en que se apoya la copia de cambios «is implemented by
+decoding the contents of the write-ahead log», el registro que la base escribe antes de cada
+cambio, y lo devuelve como una secuencia de filas o de sentencias. Por eso, según la misma
+plataforma de CDC, capta los borrados y no obliga a cambiar el modelo de datos. Tiene un costo en el
+origen: mientras un lector lo necesite, la base no puede borrar ese registro, y un lector abandonado
+lo hace crecer; PostgreSQL pide dar de baja el que ya no se usa.
+
 > [!NOTE]
-> Sin fuente todavía: una definición literal de lote contra flujo en la bibliografía canónica, y la
-> confirmación de que el CDC se apoya en el registro de transacciones de la base.
+> Sin fuente todavía: una definición literal de lote contra flujo en la bibliografía canónica.
 
 ## La latencia que hace falta decide
 

@@ -3,7 +3,7 @@ resumen: >-
   El modelado dimensional ordena los datos para analizar en tablas de hechos, que guardan las
   medidas de un proceso del negocio con un grano declarado, y tablas de dimensiones, que guardan el
   contexto (quién, qué, dónde, cuándo) por el que se filtra y se agrupa.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - "Kimball Group, Grain: http://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/grain/"
@@ -11,6 +11,9 @@ fuentes:
   - "Kimball Group, Star schemas and OLAP cubes: http://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/star-schema-olap-cube/"
   - "Kimball Group, Type 2: Add new row: http://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/type-2"
   - "Kimball Group, Differences of Opinion (2004): https://www.kimballgroup.com/2004/03/differences-of-opinion/"
+  - "Kimball Group, Type 0 a Type 7 (páginas type-0, type-1, type-3, type-4-mini-dimension, type-5, type-6 y type-7, leídas enteras en Datos/.investigacion/bi-gestion-modelado.md): https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/"
+  - "W. H. Inmon, Building the Data Warehouse, 4.ª ed., Wiley, 2005, cap. 1 (extracto oficial, leído entero en Datos/.investigacion/bi-gestion-modelado.md): https://media.wiley.com/product_data/excerpt/45/07645994/0764599445-18.pdf"
+  - "Datos/.investigacion/bi-gestion-modelado.md (secciones 3 y 7)"
   - "Ralph Kimball y Margy Ross, The Data Warehouse Toolkit, 3ª ed., caps. 1-2 (no leído; citado por el sitio de Kimball Group)"
   - "Databricks, glosario, Data Vault: https://www.databricks.com/glossary/data-vault"
   - "dbt, Dimensional modeling (vía buscador): https://docs.getdbt.com/terms/dimensional-modeling"
@@ -20,7 +23,7 @@ fuentes:
   - "Datos/.investigacion/posicion-contraria.md (sección 5)"
 aliases: [esquema en estrella, star schema, hechos y dimensiones, Kimball, dimensional modeling, dimensión lentamente cambiante, SCD]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Modelado dimensional
@@ -64,10 +67,14 @@ cuenta.
 ## Cuando el contexto cambia en el tiempo
 
 Un cliente se muda, un producto cambia de categoría. Las **dimensiones lentamente cambiantes**
-deciden qué pasa con la historia. Kimball nombra cuatro tipos: 0 «Retain original», 1 «Overwrite»,
+deciden qué pasa con la historia. Kimball nombra cuatro tipos básicos: 0 «Retain original», 1 «Overwrite»,
 2 «Add new row» y 3 «Add new attribute». El tipo 2 agrega una fila nueva con los valores cambiados y
 una clave nueva, que los hechos usan «from the moment of the update». Así una venta de marzo queda
 con la categoría que el producto tenía en marzo.
+
+Los otros tres básicos, en palabras de Kimball. En el tipo 0 «the dimension attribute value never changes, so facts are always grouped by this original value», y vale para casi todos los atributos de una dimensión de fechas. En el tipo 1 el valor viejo se pisa con el nuevo, «and therefore this technique destroys history». El tipo 3 agrega un atributo para guardar el valor anterior mientras el nuevo pisa al principal, y Kimball dice que a veces se lo llama «alternate reality».
+
+Kimball suma además cuatro tipos híbridos. El 4 separa en una minidimensión el grupo de atributos que cambia rápido (la «rapidly changing monster dimension»). El 5 suma al 4 una referencia de tipo 1 a esa minidimensión desde la dimensión base. El 6 guarda en la fila de tipo 2 también el valor actual, para agrupar por el valor de su momento o por el de hoy. El 7 pone en la tabla de hechos la clave durable y la clave sustituta, para ver los dos, «as-was and as-is». Cuándo conviene cada uno en el registro de un sistema de gestión está en [historia en el BI de gestión](../Visualizacion-y-BI/BI-sobre-software-de-gestion/historia-en-el-bi-de-gestion.md#como-era-o-como-es-hoy).
 
 Importa cuando el costo o el precio de un producto cambia y se quiere saber cuánto dejó cada venta
 con los valores de su momento, como pide la [economía
@@ -79,8 +86,12 @@ unitaria](../../Marketing/Medicion/economia-unitaria.md) (lectura de la base).
 > dimensions» (las mismas dimensiones compartidas por todos los procesos) como columna vertebral.
 > La escuela de Inmon, la fábrica de información corporativa, carga primero «a third normal form
 > (3NF) relational database containing atomic data» y arma los modelos dimensionales después. Esa
-> descripción es de un artículo de Kimball de 2004 sobre su rival; no se leyó un texto de Inmon que
-> se describa a sí mismo. Data Vault, de Dan Linstedt, reparte el almacén en *hubs* (los
+> descripción es de un artículo de Kimball de 2004 sobre su rival. En su propio libro, Inmon separa
+> cuatro niveles de datos (operativo, atómico o almacén, departamental o data mart, e individual) que
+> forman la fábrica de información corporativa, y dice que el nivel del almacén «holds integrated,
+> historical primitive data that cannot be updated»; los datos derivados van en otro nivel, porque
+> los primitivos y los derivados «do not reside in the same database or even the same environment».
+> El fragmento leído no habla de la tercera forma normal. Data Vault, de Dan Linstedt, reparte el almacén en *hubs* (los
 > conceptos del negocio), *links* (las relaciones entre hubs) y *satellites* (los atributos y su
 > historia), según el glosario de un proveedor, que lo presenta como un patrón para analítica a escala de
 > empresa; que los satélites guarden la historia y que sirva a empresas con muchas fuentes que
@@ -110,5 +121,5 @@ de técnicas del sitio de Kimball Group, empezando por la de grano. Conviene lee
 página de modelado dimensional de dbt como contrapeso.
 
 > [!NOTE]
-> Sin fuente todavía: la definición literal de tabla de dimensiones según Kimball y el detalle de los
-> tipos 0, 1 y 3; un texto primario de Inmon y de Linstedt.
+> Sin fuente todavía: la definición literal de tabla de dimensiones según Kimball, y un texto primario
+> de Linstedt.
