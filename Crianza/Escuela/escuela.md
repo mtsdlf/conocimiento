@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La escuela, de 0 a 6 años, es el jardín: el primer lugar donde un chico pasa horas con adultos que no son su familia y con otros chicos; esta parte cubre qué aporta y cuándo empezar, cómo se elige, qué esperar de una escuela bilingüe y cómo se acompaña la adaptación.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.argentina.gob.ar/normativa/nacional/ley-27045-2014-240450/texto
@@ -11,7 +11,7 @@ fuentes:
   - https://www.psych.mcgill.ca/perpg/fac/genesee/21.pdf
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escuela

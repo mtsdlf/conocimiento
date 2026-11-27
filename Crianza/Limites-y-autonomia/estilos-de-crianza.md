@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los estilos de crianza son cuatro maneras de criar que salen de cruzar dos dimensiones, cuánta calidez da el adulto y cuánto exige: autoritativo (mucha de las dos), autoritario (exige sin calidez), permisivo (calidez sin exigencia) y negligente (ninguna).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://doi.org/10.1037/dev0000295
@@ -12,7 +12,7 @@ fuentes:
 aliases: [estilos parentales, parenting styles, crianza autoritativa, crianza democrática]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estilos de crianza

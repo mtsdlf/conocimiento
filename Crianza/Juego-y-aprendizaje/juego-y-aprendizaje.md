@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Juego y aprendizaje es la parte de la crianza que se ocupa de cómo aprende un chico de 0 a 6 años: el juego, los objetos y los libros que lo rodean, la estimulación que se le da a propósito, las pantallas y las actividades que se suman a su día.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://publications.aap.org/pediatrics/article/142/3/e20182058/38649/The-Power-of-Play-A-Pediatric-Role-in-Enhancing
@@ -10,7 +10,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5823000
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Juego y aprendizaje

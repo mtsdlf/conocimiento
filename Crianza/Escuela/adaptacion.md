@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La adaptación es el período en que un chico empieza el jardín y se acostumbra a separarse de sus adultos; llorar los primeros días es frecuente, no hay una duración fija y los consejos que circulan vienen de la divulgación y la opinión de expertos, no de la investigación.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://childmind.org/es/articulo/como-separarse-de-los-ninos-apegados/
@@ -11,7 +11,7 @@ fuentes:
 aliases: [período de adaptación, empezar el jardín, primer día de jardín, ansiedad de separación]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Adaptación

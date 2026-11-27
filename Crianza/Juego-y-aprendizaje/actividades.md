@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las actividades son lo que se suma al día de un chico de 2 a 6 años con horario y un adulto a cargo, como música, deporte o un idioma extra; valen por sí mismas y por el disfrute, pero no hay evidencia de que a esta edad mejoren otras capacidades.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC3859544
@@ -12,7 +12,7 @@ fuentes:
 aliases: [actividades extraescolares, clases de música, deporte infantil, clases de idioma, extracurriculares]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Actividades

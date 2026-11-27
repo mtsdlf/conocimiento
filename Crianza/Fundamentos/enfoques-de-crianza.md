@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los enfoques de crianza con nombre propio (autoritativa, respetuosa, RIE y Pikler, Montessori, crianza con apego, disciplina positiva, Faber y Mazlish, Siegel y Bryson) proponen cómo tratar a un chico; casi ninguno tiene ensayos propios, y la evidencia fuerte está en dimensiones de la crianza y en programas de entrenamiento a padres, dentro de una discusión abierta sobre cuánto pesa lo que hacen los padres, que tiene su propia nota.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/28459276/
@@ -25,7 +25,7 @@ fuentes:
 aliases: [escuelas de crianza, crianza respetuosa, gentle parenting, crianza con apego, disciplina positiva]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Enfoques de crianza

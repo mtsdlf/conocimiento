@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un premio es algo que el chico recibe por una conducta, desde un elogio hasta un sticker o un juguete; el refuerzo positivo es una de las técnicas que más pesan en los programas con ensayos, pero los premios materiales por algo que el chico ya hacía con gusto pueden bajar sus ganas de hacerlo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://doi.org/10.1016/j.jaac.2018.07.900
@@ -14,7 +14,7 @@ fuentes:
 aliases: [recompensas, refuerzo positivo, tabla de stickers, tabla de recompensas, motivación intrínseca, sobrejustificación]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Premios

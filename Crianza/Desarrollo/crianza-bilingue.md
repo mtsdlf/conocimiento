@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La crianza bilingüe es criar a un chico expuesto a dos idiomas desde chico, en casa o en la escuela; aprender dos idiomas no lo confunde ni le causa retraso, mezclarlos es normal, y lo que más pesa es cuánto y cómo usa cada idioma.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.healthychildren.org/Spanish/ages-stages/gradeschool/school/Paginas/7-Myths-Facts-Bilingual-Children-Learning-Language.aspx
@@ -17,7 +17,7 @@ fuentes:
 aliases: [bilingüismo infantil, bilingüismo temprano, bilingual parenting, una persona una lengua, OPOL]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Crianza bilingüe

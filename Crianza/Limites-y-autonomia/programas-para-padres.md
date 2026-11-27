@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los programas de entrenamiento a padres (Triple P, Incredible Years, PCIT y otros) enseñan técnicas de disciplina con ensayos aleatorizados; los metaanálisis encuentran que reducen la conducta difícil, más en chicos con problemas que en familias sin ellos, y que pesan el refuerzo positivo y las consecuencias sin violencia.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://doi.org/10.1016/j.jaac.2018.07.900
@@ -15,7 +15,7 @@ fuentes:
 aliases: [programas para padres, entrenamiento a padres, parent training, Triple P, Incredible Years, PCIT]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Programas para padres

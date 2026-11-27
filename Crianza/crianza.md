@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Criar es acompañar el desarrollo de un chico desde el nacimiento: darle un vínculo seguro, ayudarlo con sus emociones y sus límites, cuidar su cuerpo y darle juego y escuela; esta base lo explica para madres y padres de chicos de 0 a 6 años, con la evidencia de cada idea.
-estado: borrador
+estado: vigente
 estabilidad: semi
 dueno: familia
 fuentes:
@@ -10,7 +10,7 @@ fuentes:
   - https://www.healthychildren.org/
   - https://www.nature.com/articles/ng.3285.pdf
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Crianza

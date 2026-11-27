@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Acompañar en casa a un chico adelantado es darle lo mismo que a cualquier chico, con más ritmo y profundidad: seguir sus intereses, conversar y leer, juego libre y amigos, elogiar lo que hace y no lo que es, y no comprar promesas de hacerlo más inteligente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://assets.noviams.com/novi-file-uploads/nagc/Position_Statements/early_childhood_position_sta.pdf
@@ -15,7 +15,7 @@ aliases:
   - crianza de un chico con altas capacidades
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Acompañar en casa

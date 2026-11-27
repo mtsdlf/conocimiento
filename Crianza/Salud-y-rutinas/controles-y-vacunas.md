@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los controles de salud periódicos y las vacunas del calendario nacional son el seguimiento médico de rutina de un chico sano; en Argentina los fija el Ministerio de Salud, y la vista y los dientes tienen sus propios controles.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/sites/default/files/07-2025-cronograma_de_controles_en_salud_para_ninos_2025.pdf
@@ -13,7 +13,7 @@ fuentes:
 aliases: [Control de niño sano, Calendario de vacunación, Vacunas]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Controles y vacunas

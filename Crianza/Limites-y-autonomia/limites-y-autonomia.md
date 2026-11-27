@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Límites y autonomía es la disciplina: cómo los adultos marcan lo que el chico no puede hacer, responden cuando no cumple y amplían lo que puede hacer solo; la evidencia apoya combinar calidez con exigencia, reforzar lo que sale bien y usar consecuencias sin violencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://doi.org/10.1037/dev0000295
@@ -13,7 +13,7 @@ fuentes:
 aliases: [disciplina, límites, poner límites]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Límites y autonomía

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Salud y rutinas es el cuidado del cuerpo de un chico de 0 a 6 años en el día a día: cuánto duerme y se mueve, cómo deja los pañales, sus controles y vacunas, cómo se lo protege de accidentes y cómo aprende a cuidar su cuerpo y su intimidad.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://iris.who.int/server/api/core/bitstreams/60a1cbaa-2bef-4251-9557-e52ce22112b3/content
@@ -11,7 +11,7 @@ fuentes:
   - https://www.argentina.gob.ar/sites/default/files/2023/06/res._cfe_45-08_anexo.pdf
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Salud y rutinas

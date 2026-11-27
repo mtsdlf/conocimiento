@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Para un chico adelantado la escuela puede enriquecer lo que aprende, agruparlo con otros de su nivel o acelerarlo (adelantarlo de grado o hacerlo entrar antes); la aceleración tiene buena evidencia en primaria, poca en el jardín, y en la Argentina solo la Ciudad de Buenos Aires la regula en detalle.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://today.duke.edu/2016/12/new-analysis-finds-two-measures-boost-k-12-academic-achievement
@@ -18,7 +18,7 @@ aliases:
   - enriquecimiento curricular
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Opciones escolares

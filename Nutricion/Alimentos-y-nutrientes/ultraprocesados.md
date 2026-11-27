@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un ultraprocesado es, en la clasificación NOVA, un producto industrial hecho en buena parte con sustancias que no se usan en una cocina (emulsionantes, edulcorantes, espesantes); NOVA ordena la comida por su procesamiento y no por sus nutrientes, y su relación con la salud tiene un ensayo chico y mucha evidencia observacional.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/10260459
@@ -17,7 +17,7 @@ fuentes:
 aliases: [UPF, ultra-processed food, NOVA]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ultraprocesado

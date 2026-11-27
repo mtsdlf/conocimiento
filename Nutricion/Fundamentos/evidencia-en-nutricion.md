@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Saber qué comida es sana es difícil porque casi toda la evidencia sobre salud a largo plazo es observacional, mide la dieta con cuestionarios imprecisos y encuentra asociaciones chicas, mientras que los ensayos que podrían probar causa son cortos o miden marcadores; por eso los debates sobre carne roja, grasas saturadas y calorías siguen abiertos ([debates de nutrición](debates-de-nutricion.md)).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://doi.org/10.1001/jama.2018.11025
@@ -15,7 +15,7 @@ fuentes:
 aliases: [epidemiología nutricional, por qué cambian las recomendaciones]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evidencia en nutrición

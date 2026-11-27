@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La lectura compartida es leerle un libro a un chico y conversar sobre él mientras se lee; la forma dialógica, en la que el adulto pregunta y deja que el chico cuente, tiene un metaanálisis con un efecto moderado sobre el vocabulario, más chico a los 4 y 5 años.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://scholarlypublications.universiteitleiden.nl/access/item:2899524/view
@@ -13,7 +13,7 @@ fuentes:
 aliases: [leer cuentos, lectura dialógica, dialogic reading, shared reading, leerle al chico]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lectura compartida

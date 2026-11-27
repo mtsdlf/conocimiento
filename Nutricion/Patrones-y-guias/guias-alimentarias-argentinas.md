@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las Guías Alimentarias para la Población Argentina (GAPA, 2016) son la recomendación oficial del Ministerio de Salud para comer sano: diez mensajes y un gráfico con los grupos de alimentos, pensados para personas sanas mayores de 2 años.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.argentina.gob.ar/node/92458
@@ -11,7 +11,7 @@ fuentes:
 aliases: [GAPA, Guías Alimentarias para la Población Argentina, guías alimentarias]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Guías Alimentarias argentinas

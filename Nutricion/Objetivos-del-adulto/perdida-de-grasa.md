@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La pérdida de grasa es bajar la grasa del cuerpo comiendo menos energía de la que se gasta durante semanas o meses; funciona con casi cualquier dieta que se pueda sostener, y lo difícil es el ritmo, el hambre y mantener lo bajado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/
@@ -16,7 +16,7 @@ fuentes:
 aliases: [bajar de peso, déficit calórico, adelgazar, definición]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pérdida de grasa

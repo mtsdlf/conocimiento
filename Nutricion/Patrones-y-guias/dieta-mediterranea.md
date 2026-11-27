@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La dieta mediterránea es un patrón de alimentación basado en la cocina tradicional del Mediterráneo, con mucho aceite de oliva y frutos secos; es un patrón estudiado en ensayos de resultado cardiovascular, encabezados por PREDIMED, que fue retractado y republicado en 2018.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://nutritionsource.hsph.harvard.edu/2018/06/22/predimed-retraction-republication
@@ -12,7 +12,7 @@ fuentes:
 aliases: [mediterránea, PREDIMED]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dieta mediterránea

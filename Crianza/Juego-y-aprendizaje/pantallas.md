@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las pantallas son la televisión, los videos, las tabletas, los celulares y los juegos digitales que usa un chico; las sociedades de pediatría desaconsejan su uso antes de los 18 meses o los 2 años, limitan a una hora diaria o menos entre los 2 y los 5 años o, desde 2026 en la AAP, piden mirar calidad, contexto y compañía más que horas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more
@@ -16,7 +16,7 @@ fuentes:
 aliases: [tiempo de pantalla, screen time, apps educativas, tablet, celular]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pantallas

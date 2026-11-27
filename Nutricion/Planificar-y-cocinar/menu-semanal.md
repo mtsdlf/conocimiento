@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El menú semanal es la lista de lo que la familia va a comer cada día de la semana, armada de antemano con las frecuencias de las Guías Alimentarias argentinas para que una sola cocina sirva a adultos y chicos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://argentina.gob.ar/salud/alimentacion-saludable/grafico
@@ -12,7 +12,7 @@ fuentes:
 aliases: [planificar comidas, menú de la semana, meal planning]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Menú semanal

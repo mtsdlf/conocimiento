@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Alimentos y nutrientes es la parte de la nutrición que dice de qué está hecha la comida: los grupos de alimentos, los nutrientes que aportan, cuánto procesamiento tienen y cómo lo informa el envase.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.argentina.gob.ar/salud/alimentacion-saludable/grafico
@@ -11,7 +11,7 @@ fuentes:
   - https://www.argentina.gob.ar/salud/alimentacion-saludable/obesidad
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alimentos y nutrientes

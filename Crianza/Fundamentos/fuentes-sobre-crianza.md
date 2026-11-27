@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dónde se produce el conocimiento sobre crianza de 0 a 6 años, cuánto pesa cada tipo de fuente y qué leer como madre o padre, con la parte que conviene; las guías de pediatría y las revisiones pesan más que los libros de divulgación, y hay poco material de peso en castellano rioplatense.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2017/v115n3a27s.pdf
@@ -32,7 +32,7 @@ fuentes:
 aliases: [bibliografía de crianza, dónde leer sobre crianza, libros de crianza]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes sobre crianza

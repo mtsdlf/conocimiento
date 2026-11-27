@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El atragantamiento es la obstrucción de la vía aérea por un trozo de comida; en los menores de 4 años se previene evitando o cortando los alimentos redondos, duros o pegajosos y haciendo que el chico coma sentado y acompañado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2017/v115n5a29.pdf
@@ -13,7 +13,7 @@ fuentes:
 aliases: [ahogo con comida, aspiración de cuerpo extraño, alimentos de riesgo, cómo cortar las uvas]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Atragantamiento

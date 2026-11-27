@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los cambios difíciles, la llegada de un hermano, una mudanza, la separación de los padres o una muerte, suelen traer un tiempo de retroceso en el chico; la mayoría se recupera, y lo que más lo protege es un adulto estable que le explica con palabras claras.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/1832495/
@@ -15,7 +15,7 @@ fuentes:
 aliases: [hermanito, celos, divorcio, separación de los padres, duelo infantil, mudanza]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cambios difíciles

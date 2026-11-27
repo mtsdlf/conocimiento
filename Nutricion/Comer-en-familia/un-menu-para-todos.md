@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un menú para todos es una sola comida base, armada con el plato de las Guías Alimentarias, que cada miembro de la familia ajusta en porción y agregados: el chico con cortes seguros, el adulto que baja grasa con menos energía y el que gana músculo con más proteína.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/salud/alimentacion-saludable/grafico
@@ -10,7 +10,7 @@ fuentes:
 aliases: [una comida para toda la familia, no cocinar dos menús, menú familiar]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Un menú para todos

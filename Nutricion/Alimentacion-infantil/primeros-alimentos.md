@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los primeros alimentos, o alimentación complementaria, son los sólidos y líquidos que se suman a la leche materna desde alrededor de los 6 meses hasta los 2 años, y sientan la base de lo que el chico come después.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.who.int/es/news-room/fact-sheets/detail/infant-and-young-child-feeding
@@ -13,7 +13,7 @@ fuentes:
 aliases: [alimentación complementaria, BLW, baby-led weaning, destete]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Primeros alimentos

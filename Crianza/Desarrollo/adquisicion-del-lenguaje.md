@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un chico aprende a hablar comprendiendo antes de decir, usando gestos antes que palabras y conversando con adultos que le responden; lo que mejor acompaña ese aprendizaje es el habla dirigida a él y la conversación por turnos, más que la cantidad de palabras que oye.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2017/v115n3a27s.pdf
@@ -13,7 +13,7 @@ fuentes:
 aliases: [desarrollo del lenguaje, aprender a hablar, adquisición lingüística]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Adquisición del lenguaje

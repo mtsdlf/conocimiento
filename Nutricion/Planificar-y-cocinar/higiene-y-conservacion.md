@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Higiene y conservación son las reglas para preparar y guardar la comida sin que transmita enfermedades: las cinco claves de la OMS, las temperaturas de cocción y de frío, los plazos de heladera y freezer, y la prevención del síndrome urémico hemolítico en los chicos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.who.int/publications/i/item/9789241594639
@@ -11,7 +11,7 @@ fuentes:
 aliases: [inocuidad alimentaria, seguridad alimentaria en casa, ETA, SUH]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Higiene y conservación

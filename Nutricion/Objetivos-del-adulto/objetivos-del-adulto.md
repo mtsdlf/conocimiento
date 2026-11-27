@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los objetivos del adulto son los usos de la comida para cambiar algo concreto: bajar grasa, ganar músculo, rendir, cuidar la salud a largo plazo o cambiar el aspecto; cada uno ajusta la energía y la proteína de un patrón sano, y se sigue con medidas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/
@@ -12,7 +12,7 @@ fuentes:
 aliases: [objetivos, composición corporal, nutrición deportiva]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Objetivos del adulto

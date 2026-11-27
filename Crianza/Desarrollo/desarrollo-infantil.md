@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El desarrollo infantil es lo que un chico aprende a hacer a medida que crece, en el movimiento, el lenguaje, el pensamiento y la relación con los demás; entre los 0 y los 6 años avanza rápido, en un orden bastante previsible y a ritmos que varían de un chico a otro y de un área a otra.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2017/v115n3a27s.pdf
@@ -13,7 +13,7 @@ fuentes:
 aliases: [desarrollo del niño, neurodesarrollo, desarrollo infantil temprano]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Desarrollo infantil

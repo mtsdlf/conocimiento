@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza toda la crianza sin ser una parte de ella: los enfoques con nombre propio, la discusión sobre cuánto pesa lo que hacen los padres, los mitos, las fuentes y el glosario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.nature.com/articles/ng.3285.pdf
@@ -9,7 +9,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/28459276/
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los sellos frontales son los octógonos negros que la Ley 27.642 obliga a poner en los envases con exceso de azúcares, sodio, grasas o calorías; esta ficha copia qué dicen la ley y su decreto y el estado del proyecto de derogación de 2026, al 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://www.argentina.gob.ar/normativa/nacional/ley-27642-356607/texto
@@ -14,7 +14,7 @@ fuentes:
 aliases: [etiquetado frontal, octógonos, Ley 27.642, ley de alimentación saludable]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sellos frontales

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La división de responsabilidades es el modelo de Ellyn Satter para alimentar a un chico: el adulto decide qué, cuándo y dónde se come, y el chico decide cuánto y si come; su evidencia es correlacional y casi toda del propio grupo de Satter.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.ellynsatterinstitute.org/wp-content/uploads/2025/06/Satter-Division-of-Responsibility-in-Feeding-2025-1.pdf
@@ -12,7 +12,7 @@ fuentes:
 aliases: [división de responsabilidades en la alimentación, sDOR, Satter, division of responsibility]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # División de responsabilidades

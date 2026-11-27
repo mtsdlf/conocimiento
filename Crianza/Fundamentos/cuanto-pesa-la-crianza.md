@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cuánto pesa lo que hacen los padres frente a la genética es una discusión abierta: los estudios de gemelos dan una heredabilidad promedio del 49 % y poco efecto del entorno compartido, y quienes estudian crianza responden que eso no mide la privación ni las intervenciones; la base toma la lectura prudente de que los padres no fabrican un chico a medida pero sí cambian cómo está hoy.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.nature.com/articles/ng.3285.pdf
@@ -20,7 +20,7 @@ fuentes:
 aliases: [genes y crianza, heredabilidad, entorno compartido, crisis de replicación, naturaleza y crianza]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuánto pesa la crianza

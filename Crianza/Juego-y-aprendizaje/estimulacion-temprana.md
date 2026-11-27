@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estimulación temprana es lo que los adultos hacen a propósito para empujar el desarrollo de un chico de 0 a 6 años; en un hogar que ya conversa, juega y lee, lo que sirve es esa misma interacción cotidiana, y los productos, videos y clases para acelerar el aprendizaje no muestran ventajas que duren.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.readingrockets.org/resources/resource-library/can-babies-learn-read-randomized-trial-baby-media
@@ -18,7 +18,7 @@ fuentes:
 aliases: [estimulación, estimular al bebé, early stimulation, enseñar a leer al bebé]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estimulación temprana

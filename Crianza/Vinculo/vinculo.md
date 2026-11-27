@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El vínculo es la relación de un chico con los adultos que lo cuidan: de ella sale la seguridad para explorar, las interacciones que construyen el cerebro y el sostén para las emociones y los límites.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://discovery.ucl.ac.uk/id/eprint/10173021/1/Fearon_BUL-2022-0782R2_MS.pdf
@@ -11,7 +11,7 @@ fuentes:
 aliases: [relación con los adultos, apego y crianza]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Vínculo

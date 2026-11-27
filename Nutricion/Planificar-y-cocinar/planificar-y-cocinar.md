@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Planificar y cocinar es la parte de la nutrición familiar que lleva la comida de las guías a la mesa durante la semana: qué se come cada día, qué se compra, qué se cocina de una vez y cómo se guarda sin que nadie se enferme.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://argentina.gob.ar/salud/alimentacion-saludable/grafico
@@ -11,7 +11,7 @@ fuentes:
   - https://www.who.int/publications/i/item/9789241594639
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificar y cocinar

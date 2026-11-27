@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Cuánto se tiene que mover un chico de 1 a 6 años y cuánto tiempo quieto es demasiado: la OMS pide al menos 180 minutos de actividad por día, a cualquier intensidad, con evidencia de calidad muy baja.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://iris.who.int/server/api/core/bitstreams/60a1cbaa-2bef-4251-9557-e52ce22112b3/content
@@ -10,7 +10,7 @@ fuentes:
 aliases: [Movimiento, Sedentarismo, Actividad física infantil]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Actividad física

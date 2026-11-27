@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Medir el progreso es seguir con números si un objetivo avanza: el peso, la cintura y la composición corporal; cada medida tiene su error, y sirven más para ver la tendencia de una misma persona que para dar un valor exacto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/
@@ -12,7 +12,7 @@ fuentes:
 aliases: [composición corporal, circunferencia de cintura, bioimpedancia, pliegues]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Medir el progreso

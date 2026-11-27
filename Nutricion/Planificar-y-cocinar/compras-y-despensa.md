@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Compras y despensa es el paso que convierte el menú semanal en lo que hay en la casa: la lista que sale del menú, los alimentos que conviene tener siempre guardados y cómo se lee un envase antes de comprarlo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://argentina.gob.ar/salud/alimentacion-saludable/grafico
@@ -11,7 +11,7 @@ fuentes:
 aliases: [lista de compras, alacena, despensa]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Compras y despensa

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las colaciones son las comidas chicas entre las principales, y la vianda es la comida que el chico lleva al jardín; se arman con los mismos grupos que el resto del día, con agua como bebida, cadena de frío y los cortes seguros para su edad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://argentina.gob.ar/sites/default/files/2023/05/alimentacion_viandas_2022.pdf
@@ -14,7 +14,7 @@ fuentes:
 aliases: [colación, merienda del jardín, vianda escolar, lonchera, tentempié]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Colaciones y vianda

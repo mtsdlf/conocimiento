@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El apego es el lazo que un chico forma con sus cuidadores para buscar protección cuando lo necesita; es seguro cuando el chico confía en que el adulto va a estar, y eso le permite usarlo como base para explorar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://discovery.ucl.ac.uk/id/eprint/10173021/1/Fearon_BUL-2022-0782R2_MS.pdf
@@ -14,7 +14,7 @@ fuentes:
 aliases: [attachment, apego seguro, teoría del apego, base segura]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Apego

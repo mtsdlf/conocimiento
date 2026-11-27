@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, el ahogamiento y el tránsito son las dos primeras causas de muerte accidental en chicos de 1 a 4 años; se previenen con vigilancia y con barreras como el cerco de pileta y la silla del auto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.argentina.gob.ar/sites/default/files/2020/12/boletin-172.pdf
@@ -12,7 +12,7 @@ fuentes:
 aliases: [Accidentes domésticos, Lesiones no intencionales, Seguridad infantil]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Prevención de accidentes

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los juguetes y materiales son los objetos con que juega un chico; dos experimentos chicos sugieren que con juguetes electrónicos los padres hablan menos que con juguetes tradicionales o libros, y que con menos juguetes a mano el chico juega más tiempo y de más maneras con cada uno.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://doi.org/10.1001/jamapediatrics.2015.3753
@@ -10,7 +10,7 @@ fuentes:
 aliases: [juguetes, juguetes electrónicos, cantidad de juguetes, materiales de juego]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Juguetes y materiales

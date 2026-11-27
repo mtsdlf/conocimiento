@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La alimentación infantil es cómo come un chico de 0 a 6 años: cuándo empieza con sólidos, qué y cuánto necesita, cómo se maneja el rechazo y qué riesgos propios tiene a esa edad, como el atragantamiento y las alergias.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://www.who.int/es/news-room/fact-sheets/detail/infant-and-young-child-feeding
@@ -14,7 +14,7 @@ fuentes:
 aliases: [alimentación del niño, nutrición infantil]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alimentación infantil

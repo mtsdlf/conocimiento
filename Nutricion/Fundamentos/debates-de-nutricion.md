@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tres debates abiertos de nutrición, con las cifras de cada lado: carne roja y la guía NutriRECS, grasas saturadas y la revisión Cochrane, y si solo importan las calorías (Hall contra Ludwig). Esta base no declara ganador en ninguno.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://doi.org/10.7326/M19-1621
@@ -15,7 +15,7 @@ fuentes:
 aliases: [NutriRECS, carne roja, grasas saturadas, modelo carbohidratos-insulina, Hall contra Ludwig]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Debates de nutrición

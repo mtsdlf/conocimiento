@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las necesidades de 2 a 6 años son cuánto y qué come un chico de jardín: cuántas comidas, qué porciones de cada grupo, cuánta leche y qué nutrientes le suelen faltar, como el hierro.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113218/norma.htm
@@ -16,7 +16,7 @@ fuentes:
 aliases: [porciones para chicos, cuánto come un chico, necesidades nutricionales del preescolar]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Necesidades de 2 a 6

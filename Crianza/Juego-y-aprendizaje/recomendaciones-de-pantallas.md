@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tabla de lo que recomiendan la OMS, la Sociedad Canadiense de Pediatría, la AAP (2016 y 2026) y la Sociedad Argentina de Pediatría sobre pantallas para chicos de 0 a 5 años, con la fecha de cada una y la discrepancia de la SAP entre 18 meses y 2 años.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more
@@ -16,7 +16,7 @@ fuentes:
   - https://tiempoar.com.ar/wp-content/uploads/2024/09/files_guia-uso-pantallas-con-cuadro-10-23_1696355617.pdf
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recomendaciones de pantallas por organismo

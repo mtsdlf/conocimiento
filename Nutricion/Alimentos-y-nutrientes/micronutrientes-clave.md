@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los micronutrientes clave son las vitaminas y minerales que con más frecuencia faltan o que dependen de qué grupos se comen: hierro, calcio, vitamina D, vitamina B12, zinc y yodo; se necesitan en miligramos o microgramos y su carencia se nota en grupos concretos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/
@@ -18,7 +18,7 @@ fuentes:
 aliases: [vitaminas y minerales, micronutrientes]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Micronutrientes clave

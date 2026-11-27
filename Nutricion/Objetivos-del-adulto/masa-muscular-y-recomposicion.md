@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ganar masa muscular es sumar músculo con entrenamiento de fuerza, más proteína y en general un superávit de energía; la recomposición es ganar músculo y perder grasa a la vez, algo más probable en principiantes o en quienes tienen más grasa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/28698222/
@@ -11,7 +11,7 @@ fuentes:
 aliases: [hipertrofia, ganar músculo, proteína, recomposición corporal, volumen]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Masa muscular y recomposición

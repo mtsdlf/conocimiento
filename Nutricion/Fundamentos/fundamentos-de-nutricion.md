@@ -1,12 +1,12 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza toda la nutrición sin ser una parte de ella: los marcos que compiten para decidir qué es comer bien, por qué la evidencia en nutrición es difícil, las fuentes y el glosario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes: []
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de nutrición

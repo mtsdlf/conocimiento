@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El azúcar agregado y las golosinas son la parte de la dieta del chico que las guías piden limitar: la AHA pone un techo de seis cucharaditas por día desde los 2 años y ninguna antes, y la idea de que el azúcar vuelve hiperactivos a los chicos no se sostuvo en los ensayos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.ncbi.nlm.nih.gov/books/NBK285538/
@@ -16,7 +16,7 @@ fuentes:
 aliases: [azúcar agregado, azúcares libres, dulces, golosinas, azúcar e hiperactividad]
 dueno: familia
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Azúcar y golosinas
