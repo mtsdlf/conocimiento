@@ -111,6 +111,23 @@ Las cifras, las fórmulas completas y las discrepancias entre fuentes viven en l
 | Positive pay | La empresa pasa al banco la lista de cheques emitidos y el banco retiene los que no coinciden en número e importe, y en la versión con beneficiario también en el nombre. | Positive pay | [Seguridad de los pagos](../Pagos-a-proveedores/seguridad-de-los-pagos.md) |
 | Pago duplicado | La misma deuda pagada dos veces. | Duplicate payment | [Seguridad de los pagos](../Pagos-a-proveedores/seguridad-de-los-pagos.md) |
 
+## Pago de sueldos
+
+| Término | Qué es | En inglés | Dónde se explica |
+|---|---|---|---|
+| Pago de sueldos | Hacer llegar el neto de cada liquidación a la cuenta de cada empleado el día que corresponde, y prever en la caja las cargas que vencen después. | Payroll payment, payroll disbursement | [Pago de sueldos](../Pago-de-sueldos/pago-de-sueldos.md) |
+| Cuenta de sueldos | Una cuenta de la empresa de la que salen solo los sueldos; se le transfiere el neto exacto del lote y vuelve a cero. | Payroll account | [Cuentas y acreditación](../Pago-de-sueldos/cuentas-y-acreditacion.md) |
+| Prefondeo | Que el banco no deje mandar un archivo de pagos mayor que el saldo disponible. | Prefunding | [Cuentas y acreditación](../Pago-de-sueldos/cuentas-y-acreditacion.md) |
+| Prenotificación | Un registro de importe cero que prueba que la cuenta de un empleado existe antes del primer pago. | Prenote | [Cuentas y acreditación](../Pago-de-sueldos/cuentas-y-acreditacion.md) |
+| Rechazo de un pago | El crédito que el banco del empleado devuelve porque no lo puede acreditar, con un código del motivo. | ACH return | [Cuentas y acreditación](../Pago-de-sueldos/cuentas-y-acreditacion.md) |
+| Reversa | Deshacer un pago mandado por error, solo en los casos y el plazo que fija la red; la falta de fondos no es uno de ellos. | Reversal | [Cuentas y acreditación](../Pago-de-sueldos/cuentas-y-acreditacion.md) |
+| Desvío de sueldos | El fraude en que alguien cambia la cuenta de un empleado para cobrar su sueldo. | Payroll diversion | [Cuentas y acreditación](../Pago-de-sueldos/cuentas-y-acreditacion.md) |
+| Empleado fantasma | Una persona que figura en la nómina y cobra sin trabajar, cargada por alguien de adentro. | Ghost employee | [Cuentas y acreditación](../Pago-de-sueldos/cuentas-y-acreditacion.md) |
+| Fondeo de la nómina | Dejar la plata en la cuenta de la que sale el sueldo antes de la hora de corte del banco. | Payroll funding | [Fondeo y calendario](../Pago-de-sueldos/fondeo-y-calendario.md) |
+| Hora de corte | El último momento del día en que el banco acepta un archivo para procesarlo ese día. | Cut-off time | [Fondeo y calendario](../Pago-de-sueldos/fondeo-y-calendario.md) |
+| Calendario de sueldos | Las fechas del año en que salen el neto, los pagos extraordinarios, las liquidaciones finales y las cargas. | Payroll calendar | [Fondeo y calendario](../Pago-de-sueldos/fondeo-y-calendario.md) |
+| Pago a demanda | Que un tercero le adelante al empleado lo ya trabajado y lo cobre del próximo sueldo. | Earned wage access (EWA) | [Fondeo y calendario](../Pago-de-sueldos/fondeo-y-calendario.md) |
+
 ## Financiamiento
 
 | Término | Qué es | En inglés | Dónde se explica |
@@ -162,4 +179,5 @@ Las cifras, las fórmulas completas y las discrepancias entre fuentes viven en l
 | Formación de activos externos | Comprar dólares para atesorar; una empresa necesita la conformidad previa del BCRA. | Foreign asset formation | [Tesorería en Argentina](../tesoreria-en-argentina.md) |
 | Adelanto en cuenta corriente | El nombre bancario del descubierto: girar por encima del saldo hasta un límite acordado. | Overdraft | [Tasas de referencia en Argentina](../tasas-de-referencia-en-argentina.md) |
 | UVA | La unidad de valor adquisitivo, que el BCRA publica cada día ajustada por inflación; en ella están los límites de las transferencias. | Inflation-indexed unit (UVA) | [Tesorería en Argentina](../tesoreria-en-argentina.md) |
+| Cuenta sueldo | La cuenta de banco, gratuita para el trabajador, donde se tiene que acreditar el sueldo; la elige el trabajador y puede ser en pesos o en dólares. | Salary account (employee side) | [Pago de sueldos en Argentina](../Pago-de-sueldos/pago-de-sueldos-en-argentina.md) |
 | REM | El Relevamiento de Expectativas de Mercado del BCRA, de donde sale la inflación esperada a 12 meses. | Market expectations survey | [Tasas de referencia en Argentina](../tasas-de-referencia-en-argentina.md) |

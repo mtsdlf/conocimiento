@@ -31,7 +31,7 @@ revisado: 2026-11-27
 
 Lo transversal de la tesorería: cómo dividen el campo APQC y el examen de los tesoreros, dónde termina frente a la contabilidad, qué cambia de la pyme a la empresa grande, qué se sabe de su historia y qué dice la evidencia sobre tres creencias de la caja.
 
-Rodea a las cinco verticales de la [tesorería](../tesoreria.md) sin ser una de ellas. Al lado están el [glosario de tesorería](glosario-de-tesoreria.md), con cada término en castellano y en inglés, y las [fuentes de tesorería](fuentes-de-tesoreria.md), con quién produce el saber y qué leer para cada parte.
+Rodea a las seis verticales de la [tesorería](../tesoreria.md) sin ser una de ellas. Al lado están el [glosario de tesorería](glosario-de-tesoreria.md), con cada término en castellano y en inglés, y las [fuentes de tesorería](fuentes-de-tesoreria.md), con quién produce el saber y qué leer para cada parte.
 
 ## Cómo se divide el campo
 
