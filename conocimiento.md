@@ -121,6 +121,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 - [Crianza](Crianza/crianza.md) — criar a un chico de 0 a 6 años: desarrollo y bilingüismo, altas capacidades, vínculo, emociones, límites, juego y pantallas, salud y rutinas, y escuela, con la evidencia de cada idea.
 - [Psicología infantil](Psicologia-infantil/psicologia-infantil.md) — la mente de un chico de 0 a 12 como la estudia la disciplina: desarrollo y niñez media, contextos (familia, amigos, acoso, trauma), trastornos (autismo, TDAH, ansiedad y otros), cómo se evalúa y qué tratamientos tienen evidencia.
+- [Hogar](Hogar/hogar.md) — la casa como unidad que produce, reparte y se administra: el trabajo del hogar y la carga mental, por qué se reparte como se reparte, cómo se organiza, qué le hace a la convivencia y los recursos que la limitan, con lo que dice cada disciplina.
 - [Nutrición](Nutricion/nutricion.md) — comer bien en familia: alimentos y guías, alimentación infantil, la mesa compartida, objetivos del adulto (bajar grasa, ganar músculo, rendir, salud) y planificar la semana.
 
 ## Animales
