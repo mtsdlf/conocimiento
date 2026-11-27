@@ -9,7 +9,7 @@ fuentes:
   - "Kim y Webb (2022), metaanálisis de práctica espaciada en L2, Language Learning 72(1): https://doi.org/10.1111/lang.12479 (abstract)"
   - "Cepeda, Pashler, Vul, Wixted y Rohrer (2006), Psychological Bulletin 132(3): https://pubmed.ncbi.nlm.nih.gov/16719566/ (según resumen)"
   - "Karpicke y Roediger (2008), Science: https://doi.org/10.1126/science.1152408 (abstract)"
-  - "Rowland (2014), Psychological Bulletin 140(6): https://pubmed.ncbi.nlm.nih.gov/25150680/ (según resumen)"
+  - "Rowland (2014), The effect of testing versus restudy on retention: A meta-analytic review of the testing effect, Psychological Bulletin 140(6):1432-1463: https://pubmed.ncbi.nlm.nih.gov/25150680/ (texto completo, versión Online First del autor: https://courseware.epfl.ch/assets/courseware/v1/fdde2f0aa590bf3b1324077a6bf1540c/asset-v1%3AEPFL%2BDEMO%2B2020%2Btype%40asset%2Bblock/Rowland2014-meta-analysis.pdf)"
   - "Adesope, Trevisan y Sundararajan (2017), Rethinking the use of tests: a meta-analysis of practice testing, Review of Educational Research 87(3):659-701: https://doi.org/10.3102/0034654316689306 (texto completo, Tablas 1 y 2; copia de Washington State University en el Internet Archive: http://web.archive.org/web/20240423015150/https://education.wsu.edu/documents/2018/01/rethinking-use-tests.pdf/)"
   - "Nakata y Suzuki (2018), SSLA: https://doi.org/10.1017/s0272263118000219 (abstract)"
   - "Murre y Dros (2015), PLOS ONE: https://doi.org/10.1371/journal.pone.0120644 (según resumen)"
@@ -52,7 +52,8 @@ Karpicke y Roediger (2008) lo probaron con vocabulario de lengua extranjera: seg
 palabra ya recordada no tuvo efecto en el recuerdo posterior, y seguir evaluándola tuvo «a large
 positive effect». Los estudiantes no se daban cuenta: sus predicciones de cuánto iban a recordar no
 correlacionaron con lo que recordaron. Para el efecto de la prueba frente a releer, Rowland (2014)
-da g = 0.50 según una reseña posterior (no verificado en el original). Adesope et al. (2017), leído
+da g = 0.50 (IC 95 % de 0.42 a 0.58; 159 efectos de 61 estudios), más alto con retroalimentación
+(0.73) que sin ella (0.39). Adesope et al. (2017), leído
 entero, dan g = 0.51 frente a re-estudiar y 0.93 frente a no hacer nada; los autores llaman al 0.51
 «arguably the most accurate indicator» para el estudio de todos los días. El 0.70 que circula es su
 efecto global con todas las comparaciones juntas, calculado con efectos aleatorios.
