@@ -22,7 +22,7 @@ Un activo construido por la propia empresa (un galpón, una línea de producció
 
 Es un caso de [activos fijos y amortización](activos-fijos-y-amortizacion.md), que explica qué se capitaliza en general, la vida útil, los métodos y la baja. La NIC 16 lo resuelve en una línea: «The cost of a self-constructed asset is determined using the same principles as for an acquired asset» (párr. 22). La diferencia con una compra es que no hay una factura que diga el costo: la empresa lo arma sumando materiales, horas de su gente, honorarios e intereses, y tiene que saber cuáles entran y hasta cuándo. En Argentina, la RT 54 sigue la misma idea con diferencias que importan (los intereses son optativos, el costeo es completo y lo vendido en las pruebas se resta): [activo construido en Argentina](activo-construido-en-argentina.md).
 
-Decidir si se hace la obra y seguir el proyecto mientras avanza no son de esta nota. Tampoco el pedido a los proveedores de la obra, que sigue el recorrido de [compras y cuentas a pagar](compras-y-cuentas-a-pagar.md).
+Decidir si se hace la obra es la [evaluación de la inversión](../../Proyectos-de-inversion/Evaluacion/evaluacion-de-la-inversion.md); seguirla mientras avanza, el [seguimiento de la inversión](../../Proyectos-de-inversion/Ejecucion/seguimiento-de-la-inversion.md) y la [obra propia](../../Proyectos-de-inversion/Ejecucion/obra-propia.md); y el paso de la obra terminada a activo como etapa del proyecto, la [activación de la obra](../../Proyectos-de-inversion/Cierre/activacion-de-la-obra.md). Acá queda cómo se registra. Tampoco es de esta nota el pedido a los proveedores de la obra, que sigue el recorrido de [compras y cuentas a pagar](compras-y-cuentas-a-pagar.md).
 
 ## Qué entra en el costo
 
