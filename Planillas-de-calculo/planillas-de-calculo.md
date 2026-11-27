@@ -102,14 +102,9 @@ lo abre alguien con una versión vieja. La [ficha de equivalencias](Formulas/equ
 - Si tenés que elegir entre Excel y Google Sheets: la [ficha de aplicaciones](aplicaciones-de-planillas.md),
   la [ficha de equivalencias de funciones](Formulas/equivalencias-de-funciones.md) y
   [compartir y colaborar](Automatizar-y-compartir/compartir-y-colaborar.md).
-- Si tenés que armar una planilla de stock que usan varias personas a la vez: no hay nota de diseño de
-  stock todavía; lo más cercano es [cuándo pasar a una base](cuando-pasar-a-una-base.md) (la señal de
-  dos personas descontando el mismo producto),
-  [compartir y colaborar](Automatizar-y-compartir/compartir-y-colaborar.md),
-  [entradas, cálculo y salidas](Diseno-de-planillas/entradas-calculo-salidas.md) y
-  [datos ordenados](Datos-en-la-planilla/datos-ordenados.md); y
-  [concurrencia](../Bases-de-datos/Transacciones/concurrencia.md) para entender por qué dos descuentos
-  simultáneos se pisan.
+- Si tenés que armar una planilla de stock: [planilla de stock](Diseno-de-planillas/planilla-de-stock.md); si la usan
+  varias personas a la vez, también [compartir y colaborar](Automatizar-y-compartir/compartir-y-colaborar.md) y
+  [cuándo pasar a una base](cuando-pasar-a-una-base.md) (la señal de dos personas descontando el mismo producto).
 - Si la planilla se volvió lenta, la editan muchos o se pierden datos: [cuándo pasar a una base](cuando-pasar-a-una-base.md).
 
 ## Orden de lectura
