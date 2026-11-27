@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El valor actual neto (VAN) de una inversión es la suma de todos sus flujos de fondos, cada uno traído a hoy con la tasa de corte: si da positivo, la inversión deja más de lo que cuesta la plata que usa y se acepta; si da negativo, se rechaza. Es el criterio que recomiendan los libros, porque mide en plata el valor que agrega.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance (2022), 16.2 Net Present Value (NPV) Method (leído por extractor): https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method"
@@ -11,7 +11,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/evaluacion.md (2026-11-27), componente 2"
 aliases: [VAN, valor actual neto, valor presente neto, VPN, net present value, NPV, perfil del VAN, NPV profile, índice de rentabilidad, profitability index, PI, anualidad equivalente, equivalent annuity, cadena de reemplazo, replacement chain]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Valor actual neto

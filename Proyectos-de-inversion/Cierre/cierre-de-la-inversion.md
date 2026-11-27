@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El cierre es la etapa final de un proyecto de inversión: se declara que la obra quedó lista para usarse, se pasa su costo a un activo que empieza a amortizarse, se cierra el proyecto para que no junte más costos y, meses después, se compara lo logrado con lo que prometía la propuesta para aprender de la diferencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 9.4.2.4 y 9.4.2.5 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/cierre.md (2026-11-27)"
 aliases: [cierre de la inversión, cierre del proyecto de capital, capital project closeout, cierre y capitalización, close and capitalize]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cierre

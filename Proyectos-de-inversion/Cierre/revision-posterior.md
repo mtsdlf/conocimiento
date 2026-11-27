@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La revisión posterior a la inversión compara, cuando el activo ya funcionó un tiempo, lo que prometía la propuesta (costo, plazo, ahorros, ventas) con lo que pasó, y deja escrito qué cambiar en las próximas evaluaciones. Sirve sobre todo para aprender y para que las propuestas futuras lleguen con números más honestos; para corregir la inversión que se revisa suele llegar tarde.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Huikku (2009), Post-Completion Auditing of Capital Investments and Organizational Learning, tesis doctoral, Helsinki School of Economics, que resume la literatura previa (leído en introducción y resumen; los tres artículos que la componen, no): https://epub.lib.aalto.fi/pdf/diss/a347.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/cierre.md (2026-11-27), componente 3"
 aliases: [revisión posterior, revisión posterior a la inversión, auditoría posterior, post-audit, post-completion audit, PCA, post-completion review, post-investment review, revisión ex post, evaluación ex post de la inversión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Revisión posterior

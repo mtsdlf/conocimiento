@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Evaluar una inversión es estimar la plata que entra y sale por hacerla, año por año, compararla con lo que rendiría esa plata en otro uso de riesgo parecido y decidir con un criterio que tenga en cuenta cuándo llega cada peso; el criterio de referencia es el valor actual neto, y la tasa interna de retorno y el repago se usan a su lado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance (2022), secciones 16.1 a 16.5 (leído por extractor): https://openstax.org/books/principles-finance/pages/16-why-it-matters"
@@ -11,7 +11,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/evaluacion.md (2026-11-27)"
 aliases: [evaluación de inversiones, evaluación de proyectos, evaluación de proyectos de inversión, investment appraisal, project appraisal, capital budgeting techniques, criterios de inversión, decisión de inversión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación

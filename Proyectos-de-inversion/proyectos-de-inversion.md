@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un proyecto de inversión es la decisión de una empresa en marcha de poner plata hoy en un activo propio (una máquina, una línea, una obra, un sistema) para recibir beneficios durante años, y el ciclo que sigue esa decisión: se evalúa, se aprueba dentro del presupuesto de capital, se sigue mientras se ejecuta y se cierra con el paso a activo y la revisión de lo logrado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Finance (2022), cap. 16, secciones 16.1 a 16.5 (leído por extractor): https://openstax.org/books/principles-finance/pages/16-why-it-matters"
@@ -11,7 +11,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/ (cinco informes, 2026-11-27)"
 aliases: [proyectos de inversión, proyecto de inversión, inversión de capital, capital investment, capital project, presupuesto de capital, capital budgeting, gasto de capital, capex, capital expenditure, decisión de inversión, investment decision]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Proyectos de inversión

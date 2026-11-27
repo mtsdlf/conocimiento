@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Seguir una inversión es comparar, cada período, cuatro montos del mismo proyecto (lo aprobado, lo comprometido, lo incurrido y lo pagado), mirar el avance de la obra al lado del avance de la plata y pronosticar cuánto va a costar al terminar. Cuando ese pronóstico pasa el monto aprobado por más de lo que permite la política, hay que volver a pedir autorización antes de seguir gastando.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "GAO, Executive Guide: Leading Practices in Capital Decision-Making, GAO/AIMD-99-32 (diciembre de 1998), principio IV, práctica 9 y figura IV.1 (leído): https://www.gao.gov/assets/aimd-99-32.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/aprobacion-y-ejecucion.md (2026-11-27), componentes 5 y 6"
 aliases: [seguimiento de la inversión, seguimiento de obra, control de obra, capital project tracking, comprometido, committed cost, incurrido, actual cost, avance físico, avance financiero, estimación al terminar, estimate at completion, EAC, contingencia, contingency, reserva de gestión, management reserve, sobrecosto, cost overrun, ampliación de la autorización, autorización suplementaria, supplemental appropriation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Seguimiento de la inversión

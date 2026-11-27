@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El flujo de fondos del proyecto es la plata que entra y sale de la empresa, año por año, por hacer la inversión en lugar de no hacerla: la inversión inicial, el capital de trabajo que se inmoviliza y vuelve, los ingresos o ahorros, los costos, los impuestos y el valor residual al final. Es incremental, se mide en caja y no en ganancia, y deja afuera lo que ya se gastó.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Damodaran, Applied Corporate Finance, 4.ª ed., presentaciones del cap. 5 «Measuring Returns on Investments» (leído): https://pages.stern.nyu.edu/~adamodar/pdfiles/acf4E/presentations/invretA.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/evaluacion.md (2026-11-27), componente 1"
 aliases: [flujo de fondos, flujo de caja del proyecto, project cash flow, flujos incrementales, incremental cash flows, flujo de fondos incremental, costo hundido, sunk cost, costo de oportunidad, opportunity cost, escudo fiscal de la amortización, depreciation tax shield, valor residual, salvage value, valor terminal, terminal value, capital de trabajo del proyecto, canibalización]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Flujo de fondos del proyecto

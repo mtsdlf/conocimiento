@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La aprobación es la etapa en que la empresa decide qué inversiones hace con la plata que tiene: junta las propuestas, las clasifica, las compara con la misma vara, arma el presupuesto de capital y autoriza cada una por un monto, con un nivel de firma que crece con el tamaño. Es también donde los números de las propuestas tienden a llegar inflados.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "GAO, Executive Guide: Leading Practices in Capital Decision-Making, GAO/AIMD-99-32 (diciembre de 1998), prácticas 4, 5, 9, 11 y 12 (leído en esas partes): https://www.gao.gov/assets/aimd-99-32.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/aprobacion-y-ejecucion.md y posicion-contraria-y-fundamentos.md (2026-11-27)"
 aliases: [aprobación de inversiones, aprobación de proyectos de capital, capital budgeting process, proceso de presupuesto de capital, capital approval, asignación de capital, capital allocation, mercado interno de capital, internal capital market]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprobación

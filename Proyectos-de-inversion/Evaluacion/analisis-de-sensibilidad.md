@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis de sensibilidad prueba cuánto cambia el valor actual neto de una inversión cuando cambia un supuesto (el precio, el volumen, el costo, la tasa, la vida), y cuánto tiene que fallar cada uno para que la decisión se dé vuelta. Lo acompañan los escenarios, el punto de equilibrio, la simulación y la mirada sobre lo que el VAN no cuenta: la posibilidad de esperar, ampliar o abandonar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Damodaran, Applied Corporate Finance, 4.ª ed., presentaciones del cap. 5 «Measuring Returns on Investments», sensibilidad y simulación (leído): https://pages.stern.nyu.edu/~adamodar/pdfiles/acf4E/presentations/invretA.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/evaluacion.md (2026-11-27), componente 6"
 aliases: [análisis de sensibilidad, sensitivity analysis, análisis de escenarios, scenario analysis, punto de equilibrio del VAN, break-even, simulación de Monte Carlo, Monte Carlo simulation, perfil del VAN, opciones reales, real options, opción de esperar, opción de abandonar, riesgo del proyecto, project risk]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis de sensibilidad

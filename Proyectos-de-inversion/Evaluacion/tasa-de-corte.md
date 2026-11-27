@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La tasa de corte es el rendimiento mínimo que una empresa le pide a una inversión para aceptarla, y la que usa para descontar su flujo de fondos. En teoría es el costo de oportunidad del capital, lo que rendiría esa plata en otro uso de riesgo parecido; en la práctica, las empresas usan tasas varios puntos más altas que su costo de capital, y por qué lo hacen está en discusión.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Finance (2022), 16.2 y 16.3 (leído por extractor): https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method"
@@ -13,7 +13,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/evaluacion.md y posicion-contraria-y-fundamentos.md (2026-11-27)"
 aliases: [tasa de corte, hurdle rate, tasa de descuento, discount rate, tasa mínima atractiva de rendimiento, TREMA, MARR, minimum acceptable rate of return, rendimiento requerido, required rate of return, costo de capital, cost of capital, WACC, costo promedio ponderado del capital, costo de oportunidad del capital, opportunity cost of capital, prima por riesgo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tasa de corte

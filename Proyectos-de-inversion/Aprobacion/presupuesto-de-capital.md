@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El presupuesto de capital es el plan de inversiones de la empresa para un período, normalmente un año: qué proyectos entran, por cuánto y en qué orden, con el total que la empresa está dispuesta a poner. Cuando las propuestas buenas piden más plata que la disponible, se ordenan por lo que dejan por cada peso invertido y no por su valor actual neto solo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance (2022), 16.4 y 16.5, índice de rentabilidad y racionamiento de capital (leído por extractor): https://openstax.org/books/principles-finance/pages/16-5-choosing-between-projects"
@@ -14,7 +14,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/aprobacion-y-ejecucion.md (2026-11-27), componente 2"
 aliases: [presupuesto de capital, capital budget, plan de inversiones, plan anual de inversiones, capex plan, presupuesto de inversiones, racionamiento de capital, capital rationing, índice de rentabilidad, profitability index]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Presupuesto de capital

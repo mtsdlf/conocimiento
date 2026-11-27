@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, evaluar una inversión pide resolver primero en qué moneda y en qué unidad se cuenta, porque la inflación hace que un flujo nominal descontado con una tasa real (o al revés) dé cualquier cosa; después pesan cómo se amortiza el bien para Ganancias, el ajuste por inflación impositivo y dos regímenes de promoción vigentes a fines de 2026, el RIGI para inversiones muy grandes y el RIMI para las de micro, pequeñas y medianas empresas.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Damodaran, Applied Corporate Finance, 4.ª ed., presentaciones del cap. 5, sobre la consistencia entre flujo y tasa (leído): https://pages.stern.nyu.edu/~adamodar/pdfiles/acf4E/presentations/invretA.pdf"
@@ -23,7 +23,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/argentina.md y argentina-segunda-ronda.md (2026-11-27)"
 aliases: [proyectos de inversión en Argentina, evaluación de proyectos en Argentina, inflación en la evaluación de proyectos, RIGI, Régimen de Incentivo para Grandes Inversiones, RIMI, Régimen de Incentivo para Medianas Inversiones, amortización acelerada, amortización impositiva, bienes de uso en Ganancias, Ley 27.742, Ley 27.802, Decreto 242/2026, investment appraisal in Argentina]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Proyectos de inversión en Argentina

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una obra propia es una inversión que la empresa construye o arma ella misma, con su gente, sus compras y sus contratistas, en lugar de comprar el activo terminado. Como no hay una factura que diga cuánto costó, el proyecto tiene que juntar cada costo que le corresponde (y solo esos) desde que empieza hasta que la obra queda en condiciones de funcionar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 9.4.2 y 10.2 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/aprobacion-y-ejecucion.md y cierre.md (2026-11-27)"
 aliases: [obra propia, obra en curso, construcción en curso, construction in progress, CIP, assets under construction, activo construido por la empresa, self-constructed asset, orden de inversión, proyecto de inversión como colector de costos, trabajos para el propio inmovilizado]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Obra propia

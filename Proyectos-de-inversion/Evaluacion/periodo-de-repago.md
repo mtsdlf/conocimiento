@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El periodo de repago es el tiempo que tarda una inversión en devolver, con sus flujos, la plata que se puso; el repago descontado hace la misma cuenta con los flujos traídos a hoy. No mide cuánto valor agrega y no mira lo que llega después, pero es el criterio que más usan las empresas chicas, y hay razones para eso.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance (2022), 16.1 Payback Period Method (leído por extractor): https://openstax.org/books/principles-finance/pages/16-1-payback-period-method"
@@ -12,7 +12,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/evaluacion.md y posicion-contraria-y-fundamentos.md (2026-11-27)"
 aliases: [repago, periodo de repago, período de recupero, plazo de recuperación, payback, payback period, repago descontado, discounted payback, recupero de la inversión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Periodo de repago

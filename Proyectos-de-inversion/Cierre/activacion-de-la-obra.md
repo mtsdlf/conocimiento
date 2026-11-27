@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Activar una obra es declarar que quedó en condiciones de funcionar como se pretendía, dejar de sumarle costos y pasar lo acumulado a uno o varios activos que desde ese día se amortizan. La fecha la sabe quien lleva la obra, no la contabilidad; si la obra se puede usar por partes, se activa por partes, y si se abandona, lo acumulado deja de ser un activo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, NIC 16 Propiedades, planta y equipo, texto oficial (edición HTML 2026), párrafos 20, 20A, 43, 55, 67 y 68 (leído en esos párrafos): https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ias16.html"
@@ -10,7 +10,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/cierre.md (2026-11-27), componentes 1 y 2"
 aliases: [activación, activación de la obra, capitalización de la obra, puesta en marcha, disponible para usar, available for use, ready for intended use, alta del activo, paso a activo, liquidación de la orden de inversión, settlement, cierre de la obra en curso, activación por partes, obra abandonada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Activación de la obra

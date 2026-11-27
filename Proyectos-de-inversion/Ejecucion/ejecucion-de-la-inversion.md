@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La ejecución es la etapa que va de la inversión autorizada al activo terminado: se compra o se construye, se acumulan los costos en el proyecto, se compara cada mes lo gastado y lo comprometido con lo aprobado, se pronostica cuánto va a costar al final y se pide una ampliación cuando el desvío pasa el límite que fija la política.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 9.4.2 y 10.2 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/aprobacion-y-ejecucion.md (2026-11-27), componentes 5 a 7"
 aliases: [ejecución de la inversión, ejecución del proyecto de capital, capital project execution, control del gasto de capital, capital expenditure control, seguimiento de obras]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ejecución

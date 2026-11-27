@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que cruza todo el tema de proyectos de inversión: cómo se divide el campo, las tradiciones que lo estudian (las finanzas corporativas, la contabilidad de gestión y la ingeniería económica), dónde la práctica de las empresas se aparta del libro, los errores más comunes y qué leer para cada parte.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance (2022), cap. 16, esquema del capítulo (leído): https://openstax.org/books/principles-finance/pages/16-why-it-matters"
@@ -15,7 +15,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/posicion-contraria-y-fundamentos.md (2026-11-27)"
 aliases: [fundamentos de proyectos de inversión, fundamentos del presupuesto de capital, capital budgeting foundations, escuelas de evaluación de proyectos, mitos de la evaluación de proyectos, bibliografía de proyectos de inversión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de proyectos de inversión

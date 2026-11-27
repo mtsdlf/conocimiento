@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La tasa interna de retorno (TIR) es la tasa de descuento con la que el valor actual neto de una inversión da cero; si es mayor que la tasa de corte, la inversión se acepta. Da un porcentaje fácil de comparar, pero puede tener más de una solución, ignora el tamaño del proyecto y puede elegir mal entre alternativas excluyentes.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OpenStax, Principles of Finance (2022), 16.3 Internal Rate of Return (IRR) Method (leído por extractor): https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method"
@@ -11,7 +11,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/evaluacion.md (2026-11-27), componente 3"
 aliases: [TIR, tasa interna de retorno, tasa interna de rendimiento, internal rate of return, IRR, TIR modificada, TIRM, modified internal rate of return, MIRR, TIR múltiples, multiple IRR]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tasa interna de retorno

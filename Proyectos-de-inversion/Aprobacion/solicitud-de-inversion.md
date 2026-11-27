@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La solicitud de inversión es el documento con que un área pide autorización para gastar en un activo: describe qué se quiere hacer y por qué, trae el caso en números y el monto total, y recorre una escala de firmas que crece con ese monto. Una vez firmada, el monto autorizado es el tope y la línea base contra la que se sigue el proyecto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Temple University, Policy 04.32.01 Approval of Capital Expenditures (enero de 2026), como ejemplo de práctica (leído): https://secretary.temple.edu/sites/secretary/files/policies/04.32.01.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Proyectos-de-inversion/.investigacion/aprobacion-y-ejecucion.md (2026-11-27), componente 3"
 aliases: [solicitud de inversión, pedido de inversión, autorización de inversión, solicitud de gasto de capital, capital expenditure request, CER, appropriation request, authorization for expenditure, AFE, niveles de autorización, approval thresholds, política de capitalización, capitalization policy]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Solicitud de inversión
