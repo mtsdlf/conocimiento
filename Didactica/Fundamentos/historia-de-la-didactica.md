@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La didáctica nació como el arte de enseñar todo a todos con Comenio en el siglo XVII y se partió en dos tradiciones: la europea y latinoamericana de la didáctica, que pregunta qué contenido forma, y la anglosajona del currículum y el diseño instruccional, que pregunta qué método funciona. Desde los años 90 las cruzan las ciencias del aprendizaje y el movimiento de la evidencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Didactica Magna: https://en.wikipedia.org/wiki/Didactica_Magna (terciaria)"
@@ -23,7 +23,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [historia de la didáctica, historia de la pedagogía, Comenio, Didáctica Magna, Didaktik, Bildung, Klafki, didáctica latinoamericana, Camilloni, Litwin, Davini, learning sciences, educación basada en evidencia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia de la didáctica

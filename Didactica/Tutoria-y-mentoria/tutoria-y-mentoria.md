@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Tutoría y mentoría es la parte de la didáctica que trata la enseñanza a una persona o a un grupo chico. Son dos literaturas casi sin contacto: la tutoría enseña una habilidad y tiene efectos medibles en lo aprendido; la mentoría acompaña una trayectoria y sus efectos, más chicos, caen sobre actitudes y carrera.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "VanLehn (2011), Educational Psychologist 46(4): https://eric.ed.gov/?id=EJ946764 (abstract)"
@@ -11,7 +11,7 @@ fuentes:
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
 aliases: [enseñanza uno a uno, tutoring and mentoring, enseñar a una persona, acompañamiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tutoría y mentoría

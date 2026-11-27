@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El andamiaje es la ayuda que permite a alguien hacer una tarea que solo no podría, ajustada a lo que hace, que se retira de a poco hasta que la responsabilidad pasa a quien aprende. Ayuda que no se ajusta ni se retira no es andamiaje.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "van de Pol, Volman y Beishuizen (2010), Scaffolding in Teacher-Student Interaction: A Decade of Research, Educational Psychology Review 22(3):271-297: https://research.vu.nl/ws/files/2755348/252440.pdf (lectura parcial)"
@@ -15,7 +15,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area.md"
 aliases: [scaffolding, andamio, liberación gradual de la responsabilidad, gradual release of responsibility, yo hago, hacemos, hacés, I do we do you do, fading, retiro de la guía, desvanecimiento, backward fading]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Andamiaje

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La mentoría es la relación sostenida en la que alguien con más experiencia acompaña la trayectoria de otro: su carrera, sus decisiones y su ánimo. Sus efectos son reales pero chicos y caen sobre actitudes y carrera más que sobre lo aprendido; para enseñar una habilidad, la evidencia está en la tutoría.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Eby, Allen, Evans, Ng y DuBois (2008), Does mentoring matter? A multidisciplinary meta-analysis, Journal of Vocational Behavior 72(2), 254-267: https://doi.org/10.1016/j.jvb.2007.04.005 (abstract)"
@@ -10,7 +10,7 @@ fuentes:
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
 aliases: [mentoring, mentor, mentorear, mentoreo, mentoría laboral, mentoría académica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mentoría

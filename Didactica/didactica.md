@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La didáctica estudia la enseñanza: qué hace quien enseña para que otro aprenda algo concreto, desde explicar y mostrar hasta hacer practicar, preguntar y devolver. Es el lado de quien enseña en la pedagogía.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Rosenshine (2012), Principles of Instruction, American Educator: https://www.aft.org/sites/default/files/Rosenshine.pdf (lectura completa)"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/"
 aliases: [didáctica, enseñanza, pedagogía de aula, instrucción, teaching, instruction]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Didáctica

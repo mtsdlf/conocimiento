@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis previo es la primera parte del diseño instruccional: decide si el problema se arregla enseñando, qué hace de verdad quien domina la tarea y desde dónde arranca quien va a aprender. Lo que sale de acá alimenta los objetivos, la secuencia y el formato.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Dick y Carey, The Systematic Design of Instruction (componentes del modelo): https://edutechwiki.unige.ch/en/Dick_and_Carey_model (página parcial)"
@@ -10,7 +10,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [análisis, front-end analysis, fase de análisis, análisis de ADDIE, análisis de la formación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis previo

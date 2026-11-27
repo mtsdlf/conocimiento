@@ -40,13 +40,13 @@ El volumen es lo más fácil de contar y, en la práctica, lo primero que se sub
 
 ## La intensidad y por qué se mide de dos formas
 
-La intensidad se expresa contra un máximo (un porcentaje del peso que se levanta una sola vez, llamado 1RM, o de la frecuencia cardíaca máxima) o contra lo que se siente ([RPE](carga-interna-y-externa.md)). Las dos formas tienen error. Un metaanálisis sobre cuántas repeticiones salen a cada porcentaje del 1RM advierte que la estimación "is based on few studies and has not incorporated uncertainty into estimations" ([Nuzzo y otros, 2024](https://pubmed.ncbi.nlm.nih.gov/37792272/), según su resumen). Las tablas que traducen un porcentaje en repeticiones tienen, entonces, más margen de error del que muestran. En la carrera, la crítica a fijar zonas por porcentaje de un máximo está en [zonas de intensidad](../Resistencia/zonas-de-intensidad.md).
+La intensidad se expresa contra un máximo (un porcentaje del peso que se levanta una sola vez, llamado 1RM, o de la frecuencia cardíaca máxima) o contra lo que se siente ([RPE](carga-interna-y-externa.md)). Las dos formas tienen error. Un metaanálisis sobre cuántas repeticiones salen a cada porcentaje del 1RM advierte que la tabla clásica "is based on few studies and has not incorporated uncertainty into estimations" ([Nuzzo y otros, 2024](https://pubmed.ncbi.nlm.nih.gov/37792272/), texto completo). Con 269 estudios y 7289 personas, armó una tabla nueva que difiere de la clásica en las cargas livianas: al 70 % del 1RM salieron unas 15 repeticiones, no 11, y en la prensa de piernas salen más que en el press de banca. La tabla nueva da además cuánto varía entre personas. Las tablas viejas que traducen un porcentaje en repeticiones tienen, entonces, más margen de error del que muestran. En la carrera, la crítica a fijar zonas por porcentaje de un máximo está en [zonas de intensidad](../Resistencia/zonas-de-intensidad.md).
 
 ## Densidad y frecuencia: cómo se reparte el trabajo
 
 La densidad aprieta o afloja la misma sesión: con las mismas series, menos descanso entre ellas sube la exigencia (razonamiento de esta base, sin fuente). La ACSM 2009 da descansos distintos según el objetivo; los valores están en [principios básicos](principios-basicos.md).
 
-La frecuencia reparte el volumen en la semana. En la fuerza, las fuentes consultadas discrepan en el énfasis: Schoenfeld 2016 halló mayor efecto con más frecuencia a volumen igualado, e Iversen 2021 dice que el volumen semanal pesa más que la frecuencia (ambos según su resumen); el detalle está en [variables de la rutina](../Musculacion/variables-de-la-rutina.md).
+La frecuencia reparte el volumen en la semana. En la fuerza, las fuentes consultadas discrepan en el énfasis: Schoenfeld 2016 halló mayor efecto con más frecuencia a volumen igualado, e Iversen 2021 dice que "Weekly training volume is more important than training frequency" (Schoenfeld según su resumen; Iversen, en texto completo); el detalle está en [variables de la rutina](../Musculacion/variables-de-la-rutina.md).
 
 ## Cómo se combinan
 

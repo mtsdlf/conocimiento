@@ -1,14 +1,14 @@
 ---
 resumen: >-
   El glosario de tecnología educativa define en una línea los términos del tema (de MOOC y LMS a trazado de conocimiento, escalera de pistas y descarga cognitiva) y enlaza la nota que desarrolla cada uno.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [glosario de edtech, términos de tecnología educativa, vocabulario de tecnología educativa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de tecnología educativa

@@ -62,6 +62,7 @@ Casi todo lo que se sabe en esta parte sale de marcas grandes, de consumo masivo
 ## JTBD, segmentos y compradores, en detalle
 
 - [Jobs to be done](jobs-to-be-done.md) — para qué «contrata» la gente un producto, las cuatro fuerzas y cómo se averigua el trabajo. Leerla primero.
+  - [Qué le compra una empresa a una consultora de software (2026-11)](que-compra-una-empresa-a-una-consultora-de-software.md) — ficha fechada: cinco trabajos como hipótesis, 93 reseñas codificadas, las quejas y la adopción de IA en la pyme.
 - [Dos lecturas de Jobs to be done](dos-lecturas-de-jtbd.md) — ODI contra progreso, cuándo sirve cada una y por qué el 86% de Strategyn no se puede verificar. Para decidir cómo investigar al cliente.
 - [Compradores fuera del mercado](compradores-fuera-del-mercado.md) — la regla 95-5, de dónde sale la cuenta y cuánto la discute Forrester. Antes de planear publicidad.
 - [Definición de mercado](definicion-de-mercado.md) — por qué el mercado se define por la necesidad y no por el producto, con Levitt y la sustitución en uso. Antes de segmentar.

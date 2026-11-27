@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación adaptativa elige cada pregunta según las respuestas anteriores, para estimar lo que sabe una persona con menos preguntas. La reúnen tres comunidades que casi no se citan: la psicometría (teoría de respuesta al ítem y tests adaptativos), los tutores inteligentes (seguimiento del conocimiento) y la psicología matemática (espacios de conocimiento).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Computerized adaptive testing: https://en.wikipedia.org/wiki/Computerized_adaptive_testing"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [adaptive assessment, evaluación adaptativa, modelado del estudiante, student modeling, diagnóstico adaptativo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación adaptativa

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El debate de los medios es la discusión entre Richard Clark y Robert Kozma sobre si un medio de enseñanza influye en lo que se aprende o si todo el efecto viene del método que transporta. Sirve para leer cualquier estudio que compara una tecnología con su ausencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Clark, R. E. (1994), Media will never influence learning, Educational Technology Research and Development 42(2):21-29, DOI 10.1007/BF02299088: https://link.springer.com/article/10.1007/BF02299088 (resumen del buscador; texto no leído)"
@@ -11,7 +11,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [media debate, Clark-Kozma debate, debate Clark Kozma, media will never influence learning, no significant difference, sin diferencia significativa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Debate de los medios

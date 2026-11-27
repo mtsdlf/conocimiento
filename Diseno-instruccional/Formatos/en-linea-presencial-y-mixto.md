@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En promedio, un curso totalmente en línea enseña lo mismo que uno presencial, y uno mixto enseña algo más (g+ = +0,35 en el metaanálisis de Means et al. 2013). La ventaja del mixto está confundida: esos estudios tendían a incluir también más tiempo, más recursos y más interacción.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Means, Toyama, Murphy y Bakia (2013), The Effectiveness of Online and Blended Learning: A Meta-Analysis of the Empirical Literature, Teachers College Record 115(3), 47 pp., doi 10.1177/016146811311500307: https://draft.epsy5221.education.uconn.edu/wp-content/uploads/sites/2358/2018/08/Means-2013-meta-analysius.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [online vs presencial, educación a distancia, distance education, blended learning, aprendizaje mixto, híbrido, b-learning, sincrónico, asincrónico, Means 2013]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # En línea, presencial y mixto

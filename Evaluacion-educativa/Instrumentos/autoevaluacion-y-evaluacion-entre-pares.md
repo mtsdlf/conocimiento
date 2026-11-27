@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la autoevaluación cada uno juzga su propio trabajo; en la evaluación entre pares lo juzgan los compañeros. Las notas de pares se correlacionan bastante con las de quien enseña (r de 0,63 a 0,69 en tres metaanálisis); la autoevaluación del propio saber, poco.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Falchikov y Goldfinch (2000), Li et al. (2016) y Sánchez et al. (2017), según una revisión de 2019 (resumen): https://link.springer.com/article/10.1007/s10648-019-09510-3"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [autoevaluación, evaluación entre pares, coevaluación, peer assessment, self-assessment, revisión entre pares]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autoevaluación y evaluación entre pares

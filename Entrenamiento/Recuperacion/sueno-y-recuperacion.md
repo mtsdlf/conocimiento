@@ -35,21 +35,22 @@ Priorizá dormir antes que sumar sesiones: si la semana viene corta de sueño, b
 
 ## Masaje, compresión y frío
 
-Un metaanálisis de 2018 comparó los métodos de recuperación posteriores al ejercicio. Según su resumen, "Massage seems to be the most effective method for reducing DOMS and perceived fatigue", y "Perceived fatigue can be effectively managed using compression techniques". La inmersión en agua, la crioterapia y el contraste de frío y calor redujeron el dolor muscular tardío (DOMS) de forma pequeña a grande. El masaje y el frío fueron los que más bajaron los marcadores de inflamación ([Dupuy y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/29755363/)).
+Un metaanálisis de 2018 comparó los métodos de recuperación posteriores al ejercicio en 99 estudios, con atletas y con personas sedentarias. Según el texto completo, "Massage seems to be the most effective method for reducing DOMS and perceived fatigue", y "Perceived fatigue can be effectively managed using compression techniques". La inmersión en agua, la crioterapia, el contraste de frío y calor y la recuperación activa (moverse suave) redujeron el dolor muscular tardío (DOMS) de forma pequeña a grande; estirar no lo cambió. El masaje y el frío fueron los que más bajaron los marcadores de inflamación. El alivio de la crioterapia de cuerpo entero se vio en las primeras 6 horas después del ejercicio y ya no a las 24 horas o más ([Dupuy y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/29755363/)).
 
 | Método | Lo que mostró el metaanálisis |
 |---|---|
 | Masaje | El más eficaz para el dolor muscular y la fatiga percibida; baja la inflamación |
 | Compresión | Ayuda con la fatiga percibida |
 | Inmersión, crioterapia, contraste | Bajan el dolor muscular de forma pequeña a grande; el frío baja la inflamación |
+| Recuperación activa | Baja el dolor muscular |
 
-Según el resumen, lo que midieron los estudios es el dolor muscular, la fatiga percibida y marcadores de inflamación. Que un método haga sentir mejor no prueba que mejore el entrenamiento siguiente ni la adaptación de largo plazo.
+Lo que midió el metaanálisis es el dolor muscular, la fatiga percibida y marcadores de daño muscular e inflamación; el rendimiento no fue una de sus medidas. Que un método haga sentir mejor no prueba que mejore el entrenamiento siguiente ni la adaptación de largo plazo.
 
 > [!NOTE]
-> Sin fuente todavía: el efecto de cada método sobre el rendimiento siguiente y sobre la adaptación (por ejemplo, si el frío después de las pesas cambia cuánto crece el músculo). El resumen de Dupuy no lo separa y el texto completo no se leyó.
+> Sin fuente todavía: el efecto de cada método sobre el rendimiento siguiente y sobre la adaptación (por ejemplo, si el frío después de las pesas cambia cuánto crece el músculo). Dupuy no lo midió.
 
 El dolor muscular tardío en sí es normal, y cuándo un dolor ya no lo es está en [dolor y lesiones](dolor-y-lesiones.md). Que estirar no lo reduce está en [mitos del entrenamiento](../Fundamentos/mitos-del-entrenamiento.md).
 
 ## Qué tan firme es lo que dice esta nota
 
-Dos fuentes, las dos leídas según su resumen: un consenso de expertos sobre sueño y un metaanálisis sobre métodos de recuperación. El consenso de sueño trata de atletas y recomienda un enfoque individual; no se leyó a qué población corresponde el metaanálisis. Esta nota no reemplaza la consulta médica ante un problema de sueño.
+Dos fuentes: un consenso de expertos sobre sueño, leído según su resumen, y un metaanálisis sobre métodos de recuperación, leído en texto completo. El consenso de sueño trata de atletas y recomienda un enfoque individual; el metaanálisis junta estudios con atletas y con personas sedentarias. Esta nota no reemplaza la consulta médica ante un problema de sueño.

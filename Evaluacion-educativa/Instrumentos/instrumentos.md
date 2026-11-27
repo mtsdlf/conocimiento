@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un instrumento de evaluación es la forma concreta de obtener evidencia de lo aprendido: una prueba de opción múltiple, una tarea de desempeño, un proyecto, una rúbrica para corregirlos o el juicio de la propia persona y de sus pares. Cada uno cambia precisión por realismo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, cap. 2: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [instrumentos de evaluación, assessment instruments, formatos de evaluación, pruebas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Instrumentos de evaluación

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación formativa es la que se hace mientras se enseña para decidir qué hacer después: qué reenseñar, qué practicar, qué sigue. Black y Wiliam (1998) le atribuyeron efectos de 0,4 a 0,7; revisiones más estrictas dan alrededor de 0,20.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Black y Wiliam (1998), Inside the Black Box, Phi Delta Kappan 80(2), 139-148; versión corta leída: https://ditc.ccny.cuny.edu/docs/blackBox.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [formative assessment, evaluación para el aprendizaje, assessment for learning, AfL, evaluación continua]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación formativa

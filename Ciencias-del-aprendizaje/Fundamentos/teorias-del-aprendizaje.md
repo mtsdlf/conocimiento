@@ -1,12 +1,15 @@
 ---
 resumen: >-
   Las teorías del aprendizaje son las grandes explicaciones de qué es aprender: un cambio de conducta por sus consecuencias (conductismo), una reorganización de estructuras mentales con límites (cognitivismo), una construcción de quien aprende (constructivismo) o algo que pasa primero entre personas (sociocultural). El conectivismo se presenta como la quinta, pero el campo no lo acepta como teoría.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ertmer y Newby (1993), Behaviorism, Cognitivism, Constructivism: Comparing Critical Features from an Instructional Design Perspective, Performance Improvement Quarterly 6(4); reimpreso en 26(2):43-71, 2013 (resumen del buscador): https://ocw.metu.edu.tr/pluginfile.php/3298/course/section/1174/peggy_2013_comparing_critical_features.pdf"
   - "Wikipedia, Law of effect (extracto): https://en.wikipedia.org/wiki/Law_of_effect"
+  - "Thorndike (1898), Animal Intelligence: An Experimental Study of the Associative Processes in Animals, Psychological Review, Monograph Supplement 8; reimpreso como cap. 2 de Animal Intelligence (1911) (capítulo 2): https://psychclassics.yorku.ca/Thorndike/Animal/chap2.htm"
+  - "Thorndike (1911), Animal Intelligence: Experimental Studies, cap. 5, Laws and hypotheses for behavior (capítulo 5): https://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm"
   - "Skinner (1954), The science of learning and the art of teaching, Harvard Educational Review (según resumen): https://pressbooks.pub/lidtfoundations/chapter/programmed-instruction"
+  - "Kulik et al. (1982), Programmed Instruction in Secondary Education: A Meta-Analysis of Evaluation Findings, Journal of Educational Research 75(3):133-138 (abstract): https://eric.ed.gov/?id=EJ258748"
   - "Wikipedia, Cognitive revolution (extracto): https://en.wikipedia.org/wiki/Cognitive_revolution"
   - "Sweller (1988), Cognitive Load During Problem Solving: Effects on Learning, Cognitive Science 12:257-285 (vía resumen): https://en.wikipedia.org/wiki/Cognitive_load"
   - "Kirschner, Sweller y Clark (2006), Why minimal guidance during instruction does not work, Educational Psychologist 41(2):75-86 (abstract parcial): https://caseresources.hsph.harvard.edu/resource/why-minimal-guidance-during-instruction-does-not-work"
@@ -17,13 +20,15 @@ fuentes:
   - "Mayer (2004), Should there be a three-strikes rule against pure discovery learning?, American Psychologist 59(1):14-19 (citado por Wikipedia): https://en.wikipedia.org/wiki/Discovery_learning"
   - "Wikipedia, Zone of proximal development (extracto): https://en.wikipedia.org/wiki/Zone_of_proximal_development"
   - "Wood, Bruner y Ross (1976), The role of tutoring in problem solving, Journal of Child Psychology and Psychiatry 17:89-100: https://pubmed.ncbi.nlm.nih.gov/932126/"
-  - "Siemens (2005), Connectivism: A Learning Theory for the Digital Age (según resumen): https://pressbooks.pub/lidtfoundations/chapter/connectivism-a-learning-theory-for-the-digital-age/"
-  - "Kop y Hill (2008), Connectivism: Learning theory of the future or vestige of the past?, IRRODL 9(3) (según resumen): https://doi.org/10.19173/irrodl.v9i3.523"
+  - "Siemens (2005), Connectivism: A Learning Theory for the Digital Age, International Journal of Instructional Technology and Distance Learning, enero de 2005 (texto completo): http://www.itdl.org/Journal/Jan_05/article01.htm"
+  - "Verhagen (2006), Connectivism: a new learning theory?, Surf e-learning themasite, 11/11/2006 (texto completo, copia del Internet Archive): http://web.archive.org/web/20071012165117/http://elearning.surf.nl/e-learning/english/3793"
+  - "Kop y Hill (2008), Connectivism: Learning theory of the future or vestige of the past?, IRRODL 9(3) (texto completo): https://doi.org/10.19173/irrodl.v9i3.523"
   - "Didactica/.investigacion/fundamentos-del-area.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-fundamentos-2026-11.md"
 aliases: [teorías del aprendizaje, learning theories, conductismo, behaviorism, cognitivismo, cognitivism, constructivismo, constructivism, constructivismo radical, constructivismo social, teoría sociocultural, Vygotsky, Piaget, zona de desarrollo próximo, ZDP, zone of proximal development, conectivismo, connectivism]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Teorías del aprendizaje
@@ -45,12 +50,14 @@ Las teorías no se suceden como versiones corregidas: describen el mismo fenóme
 
 ## Conductismo: la conducta que cambia por sus consecuencias
 
-La ley del efecto de Thorndike dice que las respuestas que producen un efecto satisfactorio en una situación se vuelven más probables en esa situación. Con el condicionamiento operante de Skinner, «satisfactorio» pasó a llamarse refuerzo. La fecha de la ley está en discusión: la Wikipedia da 1898 y también 1905. El mecanismo, con refuerzo y castigo positivo y negativo, está en [condicionamiento y refuerzo](../../Psicologia/Aprendizaje-y-memoria/condicionamiento-y-refuerzo.md).
+La ley del efecto de Thorndike dice que las respuestas que producen un efecto satisfactorio en una situación se vuelven más probables en esa situación. Con el condicionamiento operante de Skinner, «satisfactorio» pasó a llamarse refuerzo. La Wikipedia la fecha en 1898 y en 1905; los experimentos son de 1898 y el enunciado más citado, del libro de 1911.
 
-Llevado a la enseñanza, el conductismo dio la instrucción programada. Skinner presentó «The science of learning and the art of teaching» en 1954, con una máquina de enseñar experimental; Sidney Pressey había hecho máquinas en 1927 sobre las leyes de Thorndike. La mente que dejó afuera la recuperó el cognitivismo.
+Thorndike midió cuánto tardaban gatos en escapar de cajas: el gato 12 tardó 160 segundos el primer intento y 7 el vigésimo cuarto, con idas y vueltas. Lo leyó como un impulso exitoso «stamped in by the resulting pleasure». El mecanismo, con refuerzo y castigo positivo y negativo, está en [condicionamiento y refuerzo](../../Psicologia/Aprendizaje-y-memoria/condicionamiento-y-refuerzo.md).
+
+Llevado a la enseñanza, el conductismo dio la instrucción programada. Skinner presentó «The science of learning and the art of teaching» en 1954, con una máquina de enseñar experimental; Sidney Pressey había hecho máquinas en 1927 sobre las leyes de Thorndike. En la secundaria rindió como la enseñanza convencional, según el resumen del metaanálisis de Kulik et al. (1982). La mente que dejó afuera la recuperó el cognitivismo.
 
 > [!NOTE]
-> Sin fuente todavía: resultados medidos de las máquinas de enseñar de Skinner y los datos originales de Thorndike.
+> Sin fuente todavía: resultados medidos de las máquinas de enseñar de Skinner, y las cifras de Kulik, Cohen y Ebeling (1980) para la universidad.
 
 ## Cognitivismo: una mente con límites
 
@@ -83,12 +90,9 @@ Dos lecturas erróneas comunes, según la misma página: que quien ayuda tenga q
 
 ## Conectivismo: por qué no se considera una teoría
 
-George Siemens publicó «Connectivism: A Learning Theory for the Digital Age», citado como de 2005 y en circulación desde 2004. Propone que aprender es formar conexiones en redes y que el conocimiento puede residir en dispositivos no humanos. Fue la base de los primeros cursos masivos en línea llamados conectivistas, dato que el informe no verificó.
+George Siemens publicó «Connectivism: A Learning Theory for the Digital Age», citado como de 2005 y en circulación desde 2004. Propone ocho principios, entre ellos que aprender es «a process of connecting specialized nodes or information sources» y que «Learning may reside in non-human appliances». Fue la base de los primeros cursos masivos en línea llamados conectivistas, dato que el informe no verificó.
 
-Verhagen (2006) le hizo tres objeciones: si es una teoría o una pedagogía, si sus principios no están ya en otras teorías y si el aprendizaje puede residir en aparatos. Para Verhagen, una teoría del aprendizaje explica cómo se aprende, y el conectivismo habla de qué se aprende y por qué. Siemens respondió que sí es teoría. Kop y Hill (2008) examinaron si aporta algo nuevo; según el resumen disponible, que sea una teoría nueva «no está ampliamente aceptado». No se encontró evidencia empírica a favor.
-
-> [!NOTE]
-> Sin fuente todavía: la cita completa de Verhagen (2006), el texto de Kop y Hill y los principios de Siemens.
+Verhagen (2006) objetó que es una pedagogía, que sus principios «are not at all new» y que el aprendizaje no reside en aparatos. Para Verhagen, las teorías del aprendizaje explican «how learning takes place»; el conectivismo habla del currículo, que «is concerned with what is learned and why». Siemens respondió que sí hace falta una teoría nueva. Kop y Hill (2008) concluyeron que sus aportes no justifican «it being treated as a separate learning theory in and of its own right». No se encontró evidencia empírica a favor.
 
 La [andragogía](andragogia.md) tiene un estatus parecido: su propio autor la llamó un conjunto de supuestos, no una teoría.
 

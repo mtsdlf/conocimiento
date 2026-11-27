@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ficha con las categorías de plataformas educativas (sistemas de gestión del aprendizaje, autoría de contenido interactivo, práctica de programación con mentoría) y ejemplos verificados en sus páginas oficiales al 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Instructure, Canvas: https://www.instructure.com/canvas (leída 2026-11-27)"
@@ -11,7 +11,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [LMS, learning management system, sistema de gestión del aprendizaje, aula virtual, plataformas educativas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plataformas de aprendizaje

@@ -29,9 +29,9 @@ Esta historia explica por qué el tema tiene dos vocabularios. El del profesorad
 
 ## Matveyev y el modelo clásico
 
-Matveyev presentó su investigación hacia 1962 y la publicó como libro en 1964. Según Issurin, ese libro resumió el conocimiento de la época y propuso un enfoque general de planificación que se volvió el modelo "clásico" ([Issurin](https://hrcak.srce.hr/file/188747), según su resumen). Se tradujo a casi todas las lenguas del bloque soviético; la primera edición completa en inglés es de 1981 ([Bourne](https://repositories.lib.utexas.edu/bitstream/handle/2152/17760/bournen.pdf), según su resumen).
+Matveyev presentó su investigación hacia 1962 y la publicó como libro en 1964. Según Issurin, ese libro resumió el conocimiento de la época sobre la periodización y propuso un enfoque general de planificación que se volvió el modelo "clásico" ([Issurin](https://hrcak.srce.hr/file/188747), texto completo). Otra revisión fecha en 1965 el texto de Matveyev sobre el plan anual ([Hornsby y otros, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7739353), texto completo). Se tradujo a casi todas las lenguas del bloque soviético; la primera edición completa en inglés es de 1981 ([Bourne](https://repositories.lib.utexas.edu/bitstream/handle/2152/17760/bournen.pdf), según su resumen).
 
-El título de "padre de la periodización" se discute. Una revisión sostiene que Matveyev formalizó un paradigma que ya existía: autores antiguos, el finlandés Pihkala y antecedentes rusos anteriores a 1917 ([revisión PMC7739353](https://pmc.ncbi.nlm.nih.gov/articles/PMC7739353), según su resumen).
+El título de "padre de la periodización" se discute. Hornsby y otros sostienen que Matveyev formalizó un paradigma que ya existía, con antecedentes en autores antiguos (Filóstrato, Galeno), el finlandés Pihkala, el húngaro Nadori y el soviético Ozolin; llaman a lo de "padre" una simplificación (en el original: "a common oversimplification") ([Hornsby y otros, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7739353), texto completo). Issurin suma un antecedente ruso anterior a la revolución: el libro *Deporte olímpico* de Boris Kotov (1916), que ya dividía la preparación en tres etapas, general, más específica y de competencia ([Issurin](https://hrcak.srce.hr/file/188747), texto completo).
 
 El modelo se apoya en dos ideas que el tema desarrolla en otras notas. Una es la [supercompensación](../Adaptacion/supercompensacion.md): después de una carga el cuerpo rebota por encima de donde estaba. La otra es la periodización clásica, que según la descripción habitual (sin fuente leída) pasa de mucho volumen a mucha intensidad a lo largo del año, explicada en [modelos de periodización](../Planificacion/modelos-de-periodizacion.md). Kiely ubica la periodización sobre la teoría del estrés de Selye; que la supercompensación comparta ese origen es lectura de esta base.
 
@@ -39,10 +39,10 @@ El modelo se apoya en dos ideas que el tema desarrolla en otras notas. Una es la
 
 La tradición se amplió con autores que aparecen en la bibliografía de los dos programas leídos:
 
-- **Bompa** adaptó el modelo de Matveyev para Occidente. Su libro *Periodization* va por la 6.ª edición, de 2019, con Buzzichelli. La clasificación de las capacidades biomotoras (fuerza, resistencia, velocidad, coordinación, flexibilidad) viene de su tradición ([apunte de Bompa](https://users.metu.edu.tr/settar/tto8.htm), según su resumen).
-- **Platonov** reeditó y amplió el modelo; según una reseña, la periodización en dos ciclos por año es "el modelo más popular" ([reseña de Platonov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4327377/), según su resumen).
+- **Bompa** adaptó el modelo de Matveyev para Occidente. Su libro *Periodization* va por la 6.ª edición, de 2019, con Buzzichelli. La clasificación de las capacidades biomotoras (fuerza, resistencia, velocidad, coordinación, flexibilidad) viene de su tradición, según los informes. Un apunte universitario que se leyó completo usa esa lista de cinco, pero no nombra a Bompa ([apunte de un curso](https://users.metu.edu.tr/settar/tto8.htm)).
+- **Platonov** reeditó y amplió el modelo en una monografía de 2013, con libros publicados en 10 idiomas, Argentina incluida. Según una reseña, defiende que Matveyev nunca limitó el año a uno, dos o tres ciclos y muestra modelos de 4 a 7 ciclos para calendarios con muchas competencias ([reseña de Platonov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4327377/), texto completo).
 - **Weineck**, médico y profesor de medicina del deporte en Erlangen-Núremberg, es uno de los autores de la escuela alemana que divide las capacidades en condicionales y coordinativas (sus libros no se abrieron).
-- **Verkhoshansky** es el antecedente de la periodización en bloques, con su carga "concentrada" en una sola dirección, según Issurin.
+- **Verkhoshansky** es el antecedente de la periodización en bloques: según Issurin, propuso en 1985 y 1988 un modelo de carga "concentrada" en una sola dirección, a partir de sus observaciones, sobre todo en saltos.
 
 Cada uno se describe, con qué leer, en [bibliografía de entrenamiento](bibliografia-de-entrenamiento.md). La división en condicionales y coordinativas es de la tradición alemana; no se encontró una crítica revisada por pares ni una validación empírica, y los informes la leen como un esquema pedagógico de base débil; cómo se usa en esta base está en [capacidades](../Capacidades/capacidades.md).
 
@@ -57,7 +57,7 @@ En 2010, Issurin sostuvo que la periodización tradicional "has fallen behind hi
 
 > [!IMPORTANT]
 > Que la teoría clásica tenga una base débil es una posición, no un consenso.
-> - **La crítica**: Kiely sostiene que la periodización y la supercompensación son modelos heredados, no mecanismos medidos. Su argumento es conceptual: no hay un ensayo que refute el modelo.
+> - **La crítica**: Kiely sostiene que la periodización es un modelo heredado, apoyado en una ciencia del estrés vieja, no en mecanismos medidos; extenderlo a la supercompensación es lectura de esta base. Su argumento es conceptual: no hay un ensayo que refute el modelo.
 > - **Lo que la sostiene en parte**: los metaanálisis dan a la periodización una ventaja chica en fuerza máxima (detalle en [modelos de periodización](../Planificacion/modelos-de-periodizacion.md)), y los profesorados y las certificaciones la siguen enseñando.
 >
 > Kiely no pide abandonar la planificación, sino planificar de forma sensible al contexto de cada uno (Kiely, 2012).
@@ -84,4 +84,4 @@ Para quien elige un profesor, la consecuencia práctica es que conviene pregunta
 
 ## Qué tan firme es lo que dice esta nota
 
-El programa de la UNLP se leyó en el documento, con la extracción desordenada; el del ISEF de Catamarca, por un resumen de WebFetch. La historia sale de revisiones y reseñas leídas según su resumen; Kiely 2018 es de acceso abierto. Falta una historia de la disciplina escrita por un historiador.
+El programa de la UNLP se leyó en el documento, con la extracción desordenada; el del ISEF de Catamarca, por un resumen de WebFetch. La historia sale de revisiones y reseñas: Issurin, Hornsby, la reseña de Platonov y Kiely 2018 se leyeron en el texto completo; Bourne, Issurin 2010 y Kiely 2012, según su resumen. Falta una historia de la disciplina escrita por un historiador.

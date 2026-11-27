@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Varias ideas muy repetidas sobre entrenar no se sostienen: no se baja grasa de una zona entrenándola, estirar no previene lesiones, el cardio no come músculo, no hay una ventana para la proteína, en un estudio chico el cardio en ayunas no bajó más grasa; otras, como "sin dolor no hay ganancia", no tienen estudios ni a favor ni en contra.
+  Varias ideas muy repetidas sobre entrenar no se sostienen: no se baja grasa de una zona entrenándola, estirar no previene lesiones, el cardio no come músculo, no hay una ventana corta para la proteína, en un estudio chico el cardio en ayunas no bajó más grasa; otras, como "sin dolor no hay ganancia", no tienen estudios ni a favor ni en contra.
 estado: vigente
 estabilidad: semi
 fuentes:
@@ -23,7 +23,7 @@ revisado: 2026-11-27
 
 # Mitos del entrenamiento
 
-Varias ideas muy repetidas sobre entrenar no se sostienen: no se baja grasa de una zona entrenándola, estirar no previene lesiones, el cardio no come músculo, no hay una ventana para la proteína, en un estudio chico el cardio en ayunas no bajó más grasa; otras, como "sin dolor no hay ganancia", no tienen estudios ni a favor ni en contra.
+Varias ideas muy repetidas sobre entrenar no se sostienen: no se baja grasa de una zona entrenándola, estirar no previene lesiones, el cardio no come músculo, no hay una ventana corta para la proteína, en un estudio chico el cardio en ayunas no bajó más grasa; otras, como "sin dolor no hay ganancia", no tienen estudios ni a favor ni en contra.
 
 ## Qué ignorar y qué hacer en cambio
 
@@ -47,18 +47,18 @@ Sumar cardio a la fuerza no le resta músculo ni fuerza máxima a un adulto com�
 
 ## No hay una ventana para la proteína
 
-En 23 estudios de crecimiento muscular, el momento de la proteína no hizo diferencia una vez que se consideró cuánta se comía: la cantidad total del día fue «el predictor más fuerte» (en el original: "total protein intake was the strongest predictor of ES magnitude") ([Schoenfeld, Aragon y Krieger, 2013](https://pubmed.ncbi.nlm.nih.gov/24299050/)). Una revisión de los mismos autores cuestiona que la ventana exista ([Aragon y Schoenfeld, 2013](https://pubmed.ncbi.nlm.nih.gov/23360586/)), así que no son fuentes independientes. Cuánta proteína conviene está en [masa muscular y recomposición](../../Nutricion/Objetivos-del-adulto/masa-muscular-y-recomposicion.md), y qué suplementos sirven, en [suplementos](../../Nutricion/Objetivos-del-adulto/suplementos.md).
+En 23 estudios de crecimiento muscular, con 525 participantes, el momento de la proteína no hizo diferencia una vez que se consideró cuánta se comía: la cantidad total del día fue «el predictor más fuerte» (en el original: "total protein intake was the strongest predictor of ES magnitude") ([Schoenfeld, Aragon y Krieger, 2013](https://pubmed.ncbi.nlm.nih.gov/24299050/), texto completo). Una revisión de los mismos autores cuestiona la importancia y hasta la existencia de la ventana corta, pero propone una amplia: no separar la comida con proteína de antes y la de después de entrenar más de 3 a 4 horas ([Aragon y Schoenfeld, 2013](https://pubmed.ncbi.nlm.nih.gov/23360586/), texto completo). Son los mismos autores, así que no son fuentes independientes. Cuánta proteína conviene está en [masa muscular y recomposición](../../Nutricion/Objetivos-del-adulto/masa-muscular-y-recomposicion.md), y qué suplementos sirven, en [suplementos](../../Nutricion/Objetivos-del-adulto/suplementos.md).
 
 ## El cardio en ayunas no bajó más grasa en un estudio
 
-En 20 mujeres jóvenes a dieta que hicieron cardio tres veces por semana durante 4 semanas, en ayunas o después de comer, las dos formas bajaron peso y grasa sin diferencias ([Schoenfeld y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/25429252/)). Es un solo estudio, chico y corto.
+En 20 mujeres jóvenes a dieta que hicieron cardio tres veces por semana durante 4 semanas, en ayunas o después de comer, las dos formas bajaron peso y grasa sin diferencias ([Schoenfeld y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/25429252/), texto completo). Cada sesión era una hora de cardio a ritmo parejo. Es un solo estudio, chico y corto.
 
 ## Lo que no tiene estudios: el dolor y las mujeres "voluminosas"
 
 > [!NOTE]
 > Sin fuente todavía: estudios sobre si el dolor muscular tardío indica que el entrenamiento funciona ("sin dolor no hay ganancia"), y sobre si las pesas ponen "voluminosas" a las mujeres.
 
-Lo más cercano: llegar al fallo (hasta no poder hacer otra repetición), que da más malestar durante la serie (un bloque de repeticiones seguidas), no mostró una ventaja clara en músculo frente a quedarse cerca ([Refalo y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36334240/); detalle en [principios básicos](../Carga/principios-basicos.md)). Es una pista, no una prueba sobre el dolor del día siguiente.
+Lo más cercano: llegar al fallo (hasta no poder hacer otra repetición), que da más malestar durante la serie (un bloque de repeticiones seguidas), no mostró una ventaja clara en músculo frente a quedarse cerca: en 15 estudios, el efecto fue trivial (0,19) y desapareció con la definición estricta de fallo (0,12, intervalo que incluye el cero) ([Refalo y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36334240/), texto completo; detalle en [principios básicos](../Carga/principios-basicos.md)). Es una pista, no una prueba sobre el dolor del día siguiente.
 
 ## Por qué en este campo abundan los mitos
 
@@ -66,4 +66,4 @@ Los estudios de ciencias del deporte suelen ser chicos. Según el resumen de un 
 
 ## Qué tan firme es lo que dice esta nota
 
-Todas las fuentes se leyeron según su resumen; lo de Abt, de segunda mano. Lo de estirar tiene dos metaanálisis concordantes en lesiones y una Cochrane en dolor; lo de grasa localizada, la ventana de proteína y el cardio en ayunas se apoya en estudios chicos o de un mismo grupo.
+Lo de proteína, cardio en ayunas y fallo se leyó en el texto completo; lo de grasa localizada y estirar, según su resumen; lo de Abt, de segunda mano. Lo de estirar tiene dos metaanálisis concordantes en lesiones y una Cochrane en dolor; lo de grasa localizada, la ventana de proteína y el cardio en ayunas se apoya en estudios chicos o de un mismo grupo.

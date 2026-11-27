@@ -1,7 +1,7 @@
 ---
 resumen: >-
   IA en la educación es la parte de la tecnología educativa que estudia qué pasa con el aprendizaje cuando entra un modelo de lenguaje. La evidencia se ordena por el rol que cumple la IA (tutor, ayuda de quien enseña o atajo que hace la tarea), porque el mismo modelo da resultados opuestos según el rol.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bastani et al. (2025), PNAS 122(26): https://ideas.repec.org/a/nas/journl/v122y2025pe2422633122.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [AI in education, AIED, IA generativa en educación, ChatGPT en educación, tutores de IA, LLM en educación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # IA en la educación

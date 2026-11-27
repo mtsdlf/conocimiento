@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ficha con las herramientas de práctica adaptativa verificadas al 2026-11-27: Anki y sus algoritmos SM-2 y FSRS, con sus valores por defecto y el benchmark público, Math Academy y Khan Academy.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Anki: https://apps.ankiweb.net/ (leída 2026-11-27)"
@@ -14,7 +14,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [Anki, FSRS, SM-2, SuperMemo, Math Academy, Khan Academy, herramientas de repaso espaciado]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramientas de práctica adaptativa

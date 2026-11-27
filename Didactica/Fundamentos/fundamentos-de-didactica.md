@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los fundamentos de la didáctica son lo que cruza todo el tema sin ser una parte de la enseñanza: de dónde viene la disciplina, cómo se lee la evidencia educativa, qué mitos circulan y qué significan sus términos. Tres de estas notas sirven a toda el área Pedagogía.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Rosenshine (2012), Principles of Instruction, American Educator: https://www.aft.org/sites/default/files/Rosenshine.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/"
 aliases: [fundamentos de didáctica, bibliografía de didáctica, fuentes de didáctica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de didáctica

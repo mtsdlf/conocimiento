@@ -1,17 +1,26 @@
 ---
 resumen: >-
   La motivación para aprender es por qué alguien empieza, sigue o abandona un aprendizaje, mirada como resultado de cómo se enseña: cuánto valor le ve a la tarea, cuánta autonomía tiene y qué cree sobre su propia capacidad. Es la parte de las ciencias del aprendizaje que pregunta qué del entorno cambia las ganas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Ryan y Deci (2020), Intrinsic and extrinsic motivation from a self-determination theory perspective, Contemporary Educational Psychology 61:101860: https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf"
   - "Howard, Bureau, Guay, Chong y Ryan (2021), Student motivation and associated outcomes, Perspectives on Psychological Science (abstract): https://pubmed.ncbi.nlm.nih.gov/33593153/"
   - "Eccles y Wigfield (2020), From expectancy-value theory to situated expectancy-value theory, Contemporary Educational Psychology 61:101859 (resumen): https://acuresearchbank.acu.edu.au/item/8w507/from-expectancy-value-theory-to-situated-expectancy-value-theory-a-developmental-social-cognitive-and-sociocultural-perspective-on-motivation"
   - "Sisk, Burgoyne, Sun, Butler y Macnamara (2018), Psychological Science 29(4):549-571: https://pubmed.ncbi.nlm.nih.gov/29505339/"
+  - "Bandura (1977), Self-efficacy: Toward a unifying theory of behavioral change, Psychological Review 84(2):191-215 (abstract): https://doi.org/10.1037/0033-295X.84.2.191"
+  - "Multon, Brown y Lent (1991), Relation of self-efficacy beliefs to academic outcomes: A meta-analytic investigation, Journal of Counseling Psychology 38(1):30-38 (resumen de ERIC): https://eric.ed.gov/?id=EJ426706"
+  - "Richardson, Abraham y Bond (2012), Psychological correlates of university students' academic performance: A systematic review and meta-analysis, Psychological Bulletin 138(2):353-387 (abstract): https://doi.org/10.1037/a0026838"
+  - "Hulleman, Schrager, Bodmann y Harackiewicz (2010), A meta-analytic review of achievement goal measures, Psychological Bulletin 136(3):422-449 (abstract): https://doi.org/10.1037/a0018947"
+  - "Hidi y Renninger (2006), The four-phase model of interest development, Educational Psychologist 41(2) (abstract): https://doi.org/10.1207/s15326985ep4102_4"
+  - "Lazowski y Hulleman (2016), Motivation interventions in education: A meta-analytic review, Review of Educational Research 86(2):602-640 (abstract): https://doi.org/10.3102/0034654315617832"
+  - "Tinto (1975), Dropout from higher education: A theoretical synthesis of recent research, Review of Educational Research (resumen de ERIC): https://eric.ed.gov/?id=EJ120200"
+  - "Park y Choi (2009), Factors influencing adult learners' decision to drop out or persist in online learning, Educational Technology & Society (resumen de ERIC): https://eric.ed.gov/?id=EJ860445"
   - "Ciencias-del-aprendizaje/.investigacion/motivacion-quien-aprende-con-otros.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-conocimiento-previo-y-motivacion-2026-11.md"
 aliases: [motivación en el aula, motivación del estudiante, student motivation, motivation to learn, motivación académica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Motivación para aprender
@@ -46,11 +55,20 @@ La motivación decide si alguien llega a practicar lo suficiente para que operen
 
 ## Lo que la vertical todavía no cubre
 
-> [!NOTE]
-> Sin fuente todavía: autoeficacia (Bandura; Multon, Brown y Lent 1991; Richardson et al. 2012), metas de logro e interés (Hidi y Renninger 2006). La síntesis de intervenciones motivacionales de Lazowski y Hulleman (2016) figura como recurso propuesto, sin verificar.
+Cinco líneas no tienen nota propia. De cada una se leyó el abstract o el resumen de ERIC, no el artículo.
+
+**Autoeficacia.** Bandura (1977) propuso que las expectativas de eficacia personal deciden si se empieza algo, «how much effort will be expended, and how long it will be sustained in the face of obstacles». Salen de cuatro fuentes: los logros propios, la experiencia vicaria, la persuasión verbal y los estados fisiológicos. El artículo la propone para explicar los «psychological changes achieved by different modes of treatment». En lo académico, Multon, Brown y Lent (1991) hallaron relaciones positivas y significativas de la autoeficacia con el rendimiento y la persistencia, distintas entre estudios. En universitarios, Richardson, Abraham y Bond (2012) compararon 50 correlatos del promedio de notas en 241 conjuntos de datos, y la autoeficacia de rendimiento fue el más fuerte, por encima de las notas de la secundaria. Son correlaciones.
+
+**Metas de logro.** Hulleman, Schrager, Bodmann y Harackiewicz (2010) revisaron 243 estudios correlacionales con 91.087 participantes y concluyeron que los investigadores «are using the same label for conceptually different constructs». Según cómo se redacte la escala, las metas de desempeño se correlacionan con el rendimiento r = 0,14 o r = -0,14. Antes de usar un resultado de esta línea hay que mirar qué escala midió la meta.
+
+**Interés.** Hidi y Renninger (2006) propusieron cuatro fases: interés situacional desencadenado, interés situacional sostenido, interés individual emergente e interés individual bien desarrollado. Es un modelo; el abstract no trae datos.
+
+**Intervenciones motivacionales en general.** Lazowski y Hulleman (2016) reunieron 74 trabajos con 92 tamaños de efecto y 38.377 participantes, y hallaron d = 0,49 [IC 95 % 0,43; 0,56]. Los diseños aleatorizados dieron efectos más chicos que los cuasiexperimentales, y fue la única diferencia significativa entre moderadores.
+
+**Abandono.** Tinto (1975) explicó el abandono de la educación superior como un proceso de interacción entre la persona y la institución. Con adultos, Park y Choi (2009) compararon a 147 personas que abandonaron o terminaron cursos en línea de una universidad: el apoyo de su organización y la relevancia del curso fueron lo que más predijo persistir. Coincide con el dato de Howard et al. sobre la regulación identificada. Lo más cercano en la base es la [finalización de los MOOC](../../Tecnologia-educativa/Aprendizaje-en-linea/finalizacion-de-mooc.md), en Tecnología educativa.
 
 > [!NOTE]
-> Sin fuente todavía: el abandono (Tinto, deserción en cursos para adultos). Lo más cercano en la base es la [finalización de los MOOC](../../Tecnologia-educativa/Aprendizaje-en-linea/finalizacion-de-mooc.md), en Tecnología educativa, y el dato de Howard et al. de que la regulación identificada es lo que más se asocia con persistir.
+> Sin fuente todavía: los textos completos de estas cinco líneas, y una síntesis de abandono en capacitación de adultos (Park y Choi es un solo estudio).
 
 ## Qué hay adentro
 

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una pregunta de opción múltiple pide elegir la respuesta correcta entre varias. Bien redactada, cubre mucho contenido con poca corrección y sirve también como práctica; mal redactada, mide algo ajeno al contenido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Haladyna, Downing y Rodriguez (2002), A review of multiple-choice item-writing guidelines for classroom assessment, Applied Measurement in Education 15(3), 309-333, doi 10.1207/s15324818ame1503_5 (resumen): https://experts.umn.edu/en/publications/a-review-of-multiple-choice-item-writing-guidelines-for-classroom/"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [multiple choice, multiple-choice item, pregunta cerrada, ítem de opción múltiple, choice]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Opción múltiple

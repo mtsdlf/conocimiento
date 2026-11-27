@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de la enseñanza son creencias muy difundidas sobre cómo enseñar que la evidencia no sostiene o sostiene mucho menos de lo que se dice: la pirámide del aprendizaje, enseñar por estilos o por inteligencias múltiples, dejar descubrir sin guía, la regla 70-20-10 o las dos sigmas de la tutoría. Los creen también los docentes de oficio.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dekker, Lee, Howard-Jones y Jolles (2012), Neuromyths in education, Frontiers in Psychology 3:429: https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349 (lectura completa)"
@@ -21,7 +21,7 @@ fuentes:
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
 aliases: [mitos educativos, neuromitos, neuromyths, leyendas urbanas en educación, pirámide del aprendizaje, cono de Dale, learning pyramid, estilos de aprendizaje, inteligencias múltiples, regla 70-20-10, nativos digitales]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos de la enseñanza

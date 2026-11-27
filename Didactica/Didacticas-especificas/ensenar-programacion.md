@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Enseñar programación tiene una didáctica propia, la investigación en educación en computación, que propone leer y trazar código antes de escribirlo, nombrar los subobjetivos de cada procedimiento y hacer explícito cómo ejecuta la máquina. Casi toda su evidencia es de cursos introductorios universitarios y escolares.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Fincher y Robins (eds.) (2019), The Cambridge Handbook of Computing Education Research, caps. 12 y 15: https://www.cambridge.org/core/product/F8CFAF7B81A8F6BF5C663412BA0A943D (según resumen)"
@@ -14,12 +14,12 @@ fuentes:
   - "Ericson et al. (2022), Parsons Problems and Beyond, ITiCSE Working Group Reports, DOI 10.1145/3571785.3574127 (solo metadatos)"
   - "Sorva (2013), Notional Machines and Introductory Programming Education, ACM TOCE 13(2), DOI 10.1145/2483710.2483713 (abstract)"
   - "Selvaraj, Zhang, Porter y Soosai Raj (2021), Live Coding: A Review of the Literature, ITiCSE: https://par.nsf.gov/biblio/10313400-live-coding-review-literature (abstract)"
-  - "Porter, Bailey Lee y Simon (2013), Halving fail rates using peer instruction, SIGCSE, DOI 10.1145/2445196.2445250 (solo metadatos)"
+  - "Porter, Bailey Lee y Simon (2013), Halving fail rates using peer instruction: a study of four computer science courses, SIGCSE '13:177-182, DOI 10.1145/2445196.2445250: https://files.software-carpentry.org/training-course/2012/08/porter-halving-fail-peer-instruction-2013.pdf (texto completo, preimpresión)"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [didáctica de la programación, enseñanza de la programación, computing education, educación en computación, CS education, teaching programming]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Enseñar programación
@@ -54,7 +54,7 @@ Sorva (2013) llama máquina nocional a la versión simplificada de la computador
 ## Programar en vivo y aprender entre pares
 
 - **Programar en vivo** (*live coding*): escribir código frente al grupo, con los errores y las correcciones a la vista. Selvaraj et al. (2021) revisaron la literatura y concluyen que «there is a lack of empirical evidence to support claims about the effectiveness of live coding on student learning», aunque se recomienda como una de las mejores prácticas. Lo que sí tiene respaldo general es el [modelado](../Explicar-y-modelar/modelado-y-ejemplos-resueltos.md) y el pensar en voz alta; programar en vivo es una forma de hacerlo.
-- **[Instrucción entre pares](../../Ciencias-del-aprendizaje/Aprender-con-otros/instruccion-entre-pares.md)** (*peer instruction*): en su forma habitual, una pregunta conceptual, votación individual, discusión con un compañero y nueva votación (descripción ilustrativa de esta base, sin fuente leída). El título de Porter, Bailey Lee y Simon (2013) habla de reducir a la mitad las tasas de reprobación; la cifra exacta no se verificó. La evidencia general del aprendizaje activo está en [aprendizaje activo](../Aprendizaje-activo-e-indagacion/aprendizaje-activo.md).
+- **[Instrucción entre pares](../../Ciencias-del-aprendizaje/Aprender-con-otros/instruccion-entre-pares.md)** (*peer instruction*): en su forma habitual, una pregunta conceptual, votación individual, discusión con un compañero y nueva votación (descripción ilustrativa de esta base, sin fuente leída). Porter, Bailey Lee y Simon (2013) compararon la instrucción entre pares con la clase expositiva en cuatro materias de computación universitaria, a lo largo de diez años: la reprobación (abandonar o terminar con D o F) bajó en promedio un 61 % por curso, de 20 % a 7 %, y un 67 % (de 23 % a 8 %) con el mismo docente dando la misma materia. Es un estudio en el aula, no un ensayo aleatorizado; el detalle está en la nota de instrucción entre pares. La evidencia general del aprendizaje activo está en [aprendizaje activo](../Aprendizaje-activo-e-indagacion/aprendizaje-activo.md).
 
 ## Lo que la evidencia no cubre
 

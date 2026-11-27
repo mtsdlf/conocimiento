@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La IA como atajo es usar un modelo de lenguaje para que haga la tarea o el razonamiento en lugar de quien aprende. Sube el rendimiento mientras se la usa y baja lo aprendido: en el experimento de Bastani et al., con prueba posterior sin IA, el grupo con chat abierto rindió 17 % menos que quien nunca la usó.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bastani et al. (2025), PNAS 122(26): https://ideas.repec.org/a/nas/journl/v122y2025pe2422633122.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [cognitive offloading, descarga cognitiva, deuda cognitiva, cognitive debt, IA como muleta, dependencia de la IA, Your Brain on ChatGPT]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # La IA como atajo

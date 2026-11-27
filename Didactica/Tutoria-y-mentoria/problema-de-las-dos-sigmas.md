@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El problema de las dos sigmas es la afirmación de Bloom (1984) de que un alumno con tutoría individual y aprendizaje para el dominio rinde dos desviaciones estándar por encima de la clase común. El dato salió de dos tesis chicas, mezclaba tutoría con dominio y nunca se replicó: los ensayos posteriores dan una fracción de ese efecto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bloom (1984), The 2 Sigma Problem, Educational Researcher 13(6), 4-16: https://doi.org/10.3102/0013189X013006004 (metadatos)"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [2 sigma problem, dos sigmas, two-sigma, efecto de dos sigmas, Bloom 1984]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Problema de las dos sigmas

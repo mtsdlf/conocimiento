@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evidencia en educación llega casi siempre como tamaños de efecto resumidos por sitios como la EEF o el What Works Clearinghouse o por síntesis como la de Hattie. Leerla bien es saber que los efectos de laboratorio se achican en el aula, que en ensayos grandes un efecto de 0,05 desviaciones ya no es chico y que promediar estudios distintos esconde más de lo que muestra.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "EEF, Teaching and Learning Toolkit guide (2025): https://d2tic4wvo1iusb.cloudfront.net/production/documents/toolkit/toolkit_guide_2025_v3.0.0.pdf (según resumen)"
@@ -23,7 +23,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [evidencia educativa, educación basada en evidencia, evidence-based education, EEF, Education Endowment Foundation, Teaching and Learning Toolkit, meses de progreso, candados, What Works Clearinghouse, WWC, Best Evidence Encyclopedia, Hattie, Visible Learning, tamaño de efecto, effect size, benchmarks de Kraft]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evidencia en educación

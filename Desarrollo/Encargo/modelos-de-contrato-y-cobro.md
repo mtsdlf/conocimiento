@@ -50,6 +50,8 @@ Lo que no se fija es lo que se mueve cuando la estimación falla. La columna de 
 | Por resultado | Un resultado medible | El proveedor | Brynjolfsson y Petropoulos; Gartner e IDC por resumen |
 | Abono | Un pago periódico por disponibilidad o mantenimiento | El proveedor si el trabajo crece; el cliente si no lo usa | *Primer*, fase de soporte; [abono de cuidado](../../Emprender/Modelo-de-negocio/abono-de-cuidado.md) |
 
+En la industria, la hora todavía domina y el precio fijo crece: en las empresas listadas que publican su mezcla, el tiempo y materiales es 80 % de los ingresos de EPAM (medida) y cerca de 71 % de los de Endava (dicho de la gerencia), y en una de ellas el precio fijo pasó de 18 % a 28 % entre 2023 y 2025. Las cifras, con su fuente, están en [servicios de software y la IA](../../Estrategia-competitiva/Analisis-de-industria/servicios-de-software-y-la-ia.md#se-cobra-por-hora-y-la-ia-ataca-esa-cuenta), y qué cobra cada tipo de proveedor, en [quién vende desarrollo con IA](../../Estrategia-competitiva/Analisis-de-competidores/quien-vende-desarrollo-con-ia.md#seis-formas-de-cobro-de-la-más-común-a-la-más-rara).
+
 La regla más trasladable, según [pricing y empaquetado](../../Producto/Monetizacion/pricing-y-empaquetado.md#cómo-cobra-una-consultora-o-una-agencia), viene de la teoría de agencia: cuanto más incierto el alcance, más conviene que el precio siga al tiempo. En Argentina, la diferencia entre prometer un resultado entregable y prometer una actividad cambia lo que se debe, como cuenta [contrato de servicio](../../Emprender/Legal-e-impuestos/contrato-de-servicio.md#obra-para-armar-servicio-para-cuidar).
 
 ## Por qué fijar el alcance suele salir mal

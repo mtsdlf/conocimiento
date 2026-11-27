@@ -4,7 +4,7 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1249/MSS.0000000000003897
   - Mazzetti y otros 2000, Med Sci Sports Exerc 32(6):1175-1184
   - Lacroix y otros 2017, Sports Med 47(11):2341-2361
   - https://pubmed.ncbi.nlm.nih.gov/33322981/
@@ -29,9 +29,9 @@ Mirá que el plan suba la exigencia de a poco, que trabaje cada grupo grande de 
 
 ## Lo que tiene un programa serio
 
-La pregunta útil no es qué rutina es la mejor, porque la posición de la ACSM sugiere que casi cualquiera funciona si cumple lo básico. La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM), que revisó 137 revisiones sistemáticas, encontró que la mayoría de las variables de una rutina tuvo poco efecto en los resultados. Entrenar al fallo (hasta no poder hacer otra repetición), el tipo de equipo, la complejidad de los ejercicios y la periodización (organizar el entrenamiento en etapas con cargas que cambian) no tuvieron un efecto consistente ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/)).
+La pregunta útil no es qué rutina es la mejor, porque la posición de la ACSM sugiere que casi cualquiera funciona si cumple lo básico. La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM), que revisó 137 revisiones sistemáticas, encontró que la mayoría de las variables de una rutina tuvo poco efecto en los resultados. Entrenar al fallo (hasta no poder hacer otra repetición), el tipo de equipo, la complejidad de los ejercicios y la periodización (organizar el entrenamiento en etapas con cargas que cambian) no tuvieron un efecto consistente ([Currier y otros, 2026](https://doi.org/10.1249/MSS.0000000000003897)).
 
-Lo que sí pesó: cargas altas, 2 a 3 series por ejercicio (una serie es un bloque de repeticiones seguidas) y al menos 2 sesiones por semana para la fuerza; al menos 10 series por semana para el músculo. La conclusión es que los adultos sanos deben hacer fuerza progresiva con prescripciones variadas. Según el comunicado de la ACSM, bandas, peso corporal y rutinas en casa también dan beneficios notables.
+Lo que sí pesó: cargas altas, 2 a 3 series por ejercicio (una serie es un bloque de repeticiones seguidas) y al menos 2 sesiones por semana para la fuerza; al menos 10 series por semana para el músculo. La conclusión es que los adultos sanos deben hacer fuerza progresiva con prescripciones variadas, aunque progresar hace falta para seguir avanzando, no para obtener beneficios. Frente a no entrenar, las bandas elásticas mejoraron la fuerza, el músculo y la función física, y el entrenamiento en casa, la fuerza, la resistencia muscular y el equilibrio; el peso del cuerpo no se estudió por separado.
 
 Un plan serio, entonces, cumple con [principios básicos](../Carga/principios-basicos.md) y entra en tu semana. Uno que pide seis días si tenés tres, o que cambia todo cada semana sin progresar, falla por ahí.
 
@@ -61,4 +61,4 @@ Las certificaciones de Estados Unidos tienen requisitos de entrada simples. La d
 
 ## Qué tan firme es lo que dice esta nota
 
-La posición de la ACSM, los estudios de supervisión y la Ley 139 se leyeron según su resumen; los requisitos de certificaciones y la duración del profesorado, de segunda mano desde un buscador. Lo de supervisión se apoya en estudios chicos.
+La posición de la ACSM se leyó en texto completo; los estudios de supervisión y la Ley 139, según su resumen; los requisitos de certificaciones y la duración del profesorado, de segunda mano desde un buscador. Lo de supervisión se apoya en estudios chicos.

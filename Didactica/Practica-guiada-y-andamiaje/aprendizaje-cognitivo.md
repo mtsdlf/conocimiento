@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El aprendizaje cognitivo (cognitive apprenticeship) es un modelo de enseñanza de Collins, Brown y Newman (1989) que lleva al aula la lógica del aprendiz de un oficio: quien sabe hace visible su razonamiento, acompaña mientras el otro practica y retira la ayuda. Tiene seis métodos y es un marco de diseño sin estudios de efecto propios.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Collins, Brown y Newman (1989), Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics, en Resnick (ed.), Knowing, Learning, and Instruction (según reseña del buscador)"
@@ -10,7 +10,7 @@ fuentes:
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
 aliases: [cognitive apprenticeship, aprendizaje cognitivo, aprendizaje de oficio cognitivo, Collins Brown y Newman, coaching]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje cognitivo

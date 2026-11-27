@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La taxonomía de Bloom clasifica los objetivos de aprendizaje por el proceso cognitivo que piden, de recordar a crear; la revisión de 2001 le sumó una segunda dimensión, el tipo de conocimiento. Sirve para clasificar y para detectar un curso que quedó todo en «recordar», no como orden de enseñanza.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Krathwohl (2002), A Revision of Bloom's Taxonomy: An Overview, Theory Into Practice 41(4), 212-218: https://ocw.metu.edu.tr/mod/resource/view.php?id=4265"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [Bloom's taxonomy, taxonomía de Bloom revisada, Anderson y Krathwohl, niveles de Bloom, dominio cognitivo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Taxonomía de Bloom

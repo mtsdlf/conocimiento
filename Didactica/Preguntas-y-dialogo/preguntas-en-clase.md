@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Preguntar en clase es hacer que quien aprende produzca una respuesta para pensar y para mostrar qué entendió. Lo que más respaldo tiene son las preguntas de profundidad y que respondan todos; la pregunta «¿hay preguntas?» es, según Rosenshine, la marca del docente poco eficaz.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Rosenshine (2012), Principles of Instruction, American Educator, primavera 2012, pp. 12-19, principios 3 y 6: https://www.aft.org/sites/default/files/Rosenshine.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [preguntas, questioning, preguntas de proceso, preguntas de profundidad, deep-level questions, comprobar la comprensión, checking for understanding, tiempo de espera, wait time, enseñanza dialógica, dialogic teaching]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Preguntas en clase

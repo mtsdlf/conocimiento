@@ -57,5 +57,6 @@ El orden es de esta base, a partir de las fuentes de cada paso.
 
 - [Cinco fuerzas](cinco-fuerzas.md): entrantes, proveedores, compradores, sustitutos y rivalidad; las barreras de entrada, los errores comunes que lista Porter y cómo se aplica a software.
 - [Grupos estratégicos](grupos-estrategicos.md): los rivales que compiten parecido dentro de una industria, las barreras de movilidad entre grupos y la evidencia discutida sobre si existen.
+  - [Servicios de software y la IA (2026-11)](servicios-de-software-y-la-ia.md): ficha fechada de una industria concreta: cómo se cobra, de dónde sale el margen, cuánto mide en el mundo y en Argentina, y qué le hace la IA a los precios.
 
 La [cadena de valor](../Fuentes-de-ventaja/cadena-de-valor.md) a veces se presenta junto al análisis de industria, pero según los resúmenes de Porter (1985) es análisis interno de la empresa, y por eso vive en Fuentes de ventaja.

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La secuencia de contenidos ordena los conceptos de un dominio de dos maneras clásicas: de lo general a lo detallado, como en la teoría de la elaboración de Reigeluth, o en vueltas que vuelven a cada tema con más profundidad, como en el currículo en espiral de Bruner. Ninguna de las dos tiene evaluación controlada encontrada.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Elaboration theory (EduTechWiki, borrador de 2006): https://edutechwiki.unige.ch/en/Elaboration_theory"
@@ -11,7 +11,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [teoría de la elaboración, elaboration theory, Reigeluth, epítome, currículo en espiral, spiral curriculum, Bruner, secuencia temática]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Secuencia de contenidos

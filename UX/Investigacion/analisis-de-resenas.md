@@ -11,6 +11,7 @@ fuentes:
   - "Braun y Clarke (2006), Using thematic analysis in psychology, Qualitative Research in Psychology 3(2):77-101, doi 10.1191/1478088706qp063oa (solo abstract)"
   - "Maria Rosala, NN/g (17-ago-2022), Analyze Qualitative Data: Thematic Analysis: https://www.nngroup.com/articles/thematic-analysis/ (leída a través del resumen de una herramienta)"
   - "UX/.investigacion/evaluacion-competitiva-y-cambio.md"
+  - "Lectura de 93 reseñas de Clutch de nueve consultoras de software (experiencia propia, noviembre de 2026, consultora de software)"
 aliases: [review mining, análisis de opiniones, minería de reseñas, análisis de reviews, reseñas de usuarios, user reviews, app store reviews, J-shaped distribution, distribución en J]
 creado: 2026-11-22
 revisado: 2026-11-22
@@ -73,6 +74,14 @@ Aplicado a reseñas propias y de rivales, los pasos son los de NN/g, con una ada
 
 Contar reseñas por tema ordena, pero no mide la frecuencia del problema entre usuarios, por los sesgos de arriba. En una plataforma de tiendas online, si las reseñas de un rival se quejan de la configuración del envío y las propias no, eso es una hipótesis para probar en un [test competitivo](../Evaluacion/evaluacion-competitiva.md), no un resultado (ejemplo de esta base).
 
+## En directorios de servicios entre empresas
+
+En un directorio de proveedores de servicios, como Clutch para consultoras de software, la J se lleva al extremo, porque el proveedor le pide la reseña a sus clientes. En una lectura de 93 reseñas de nueve consultoras, 84 tenían cinco estrellas, nueve tenían 4 o 4,5 y ninguna tenía menos (experiencia propia, noviembre de 2026, consultora de software). En una de las nueve, 9 de las 10 reseñas visibles llegaron entre el 27 de enero y el 6 de febrero de 2025, el tipo de pico del que conviene desconfiar.
+
+Con esa distribución, las estrellas no dicen nada y lo útil es el texto. Clutch hace a cada cliente la misma pregunta sobre qué podría haber mejorado el proveedor, y codificar esa respuesta da temas aunque la nota sea perfecta: en esa lectura, 35 de las 93 respuestas traían alguna crítica, y la más repetida era la estimación y el alcance. Los temas y el conteo están en [qué le compra una empresa a una consultora de software](../../Marketing/Mercado-y-cliente/que-compra-una-empresa-a-una-consultora-de-software.md#de-qué-se-quejan).
+
+Dos límites propios de estos directorios. Reseñan los clientes que siguieron con el proveedor y aceptaron hacerlo, así que los que se fueron enojados casi no están; ese lado aparece en foros. Y el directorio vive de los proveedores que lista, de modo que sus encuestas y guías de precios cuentan como fuente interesada.
+
 ## Los datos son de personas
 
 Una reseña es pública, pero la escribió una persona identificable o casi. En Argentina, armar una base con nombres de quienes reseñan cae en la Ley 25.326 de datos personales aunque los datos sean públicos, según la lectura de [ley argentina y competidores](../../Estrategia-competitiva/Analisis-de-competidores/ley-argentina-y-competidores.md), donde está el texto de la ley; las reglas para recolectar están en [ética y legalidad](../../Estrategia-competitiva/Analisis-de-competidores/etica-y-legalidad.md). Lo seguro es guardar el texto y el código, sin el nombre del autor, y leer los términos de cada sitio antes de automatizar la descarga.
@@ -81,4 +90,4 @@ Una reseña es pública, pero la escribió una persona identificable o casi. En 
 
 Hu, Pavlou y Zhang, "Overcoming the J-shaped distribution of product reviews" (CACM, 2009), son cuatro páginas: fijarse en la figura de la J y en los dos sesgos. Para el procedimiento, Rosala, [Analyze Qualitative Data: Thematic Analysis](https://www.nngroup.com/articles/thematic-analysis/), de NN/g: fijarse en la diferencia entre códigos descriptivos e interpretativos.
 
-> [!NOTE] Sin fuente todavía: las seis fases de Braun y Clarke (el paper no se pudo abrir), estudios sobre sesgos y reseñas incentivadas en directorios de software B2B, y sobre cuántas reseñas hacen falta para que un tema sea estable. Las citas de NN/g salen de un resumen que una herramienta hizo de la página.
+> [!NOTE] Sin fuente todavía: las seis fases de Braun y Clarke (el paper no se pudo abrir), estudios sobre sesgos y reseñas incentivadas en directorios de software B2B (lo de arriba es una lectura propia, no un estudio), y sobre cuántas reseñas hacen falta para que un tema sea estable. Las citas de NN/g salen de un resumen que una herramienta hizo de la página.

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El conocimiento pedagógico del contenido (PCK) es el saber propio de quien enseña una materia: qué representaciones, ejemplos y analogías hacen comprensible cada tema, y qué ideas previas traen los alumnos que lo vuelven fácil o difícil. Lo propuso Shulman en 1986.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Shulman (1986), Those Who Understand: Knowledge Growth in Teaching, Educational Researcher 15(2), 4-14, DOI 10.3102/0013189X015002004: https://home.miracosta.edu/rfrench/documents/Shulman_1986.pdf (lectura parcial: el pasaje sobre PCK)"
@@ -13,7 +13,7 @@ fuentes:
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
 aliases: [PCK, pedagogical content knowledge, conocimiento didáctico del contenido, saber pedagógico del contenido]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conocimiento pedagógico del contenido

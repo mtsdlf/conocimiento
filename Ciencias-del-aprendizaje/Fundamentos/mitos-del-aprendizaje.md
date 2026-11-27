@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos del aprendizaje son creencias difundidas sobre cómo funcionan el cerebro y la memoria al aprender que la evidencia no sostiene: personas de hemisferio izquierdo o derecho, el 10 % del cerebro, los ejercicios que «integran» los hemisferios, una curva del olvido universal, el entrenamiento cerebral que vuelve más inteligente. Muchos son distorsiones de un hallazgo real.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dekker, Lee, Howard-Jones y Jolles (2012), Neuromyths in education, Frontiers in Psychology 3:429 (leído): https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349"
@@ -9,13 +9,17 @@ fuentes:
   - "Howard-Jones (2014), Neuroscience and education: myths and messages, Nature Reviews Neuroscience 15(12):817-824 (según resumen): https://pubmed.ncbi.nlm.nih.gov/25315391/"
   - "Nielsen, Zielinski, Ferguson, Lainhart y Anderson (2013), An evaluation of the left-brain vs. right-brain hypothesis, PLOS ONE 8(8):e71275 (según resumen): https://pubmed.ncbi.nlm.nih.gov/23967180/"
   - "Spaulding, Mostert y Beam (2010), Is Brain Gym an effective educational intervention?, Exceptionality (según resumen): https://core.ac.uk/download/58825343.pdf"
+  - "Nature Neuroscience (2003), Brain myths, editorial, Nature Neuroscience 6:99 (texto completo): https://www.nature.com/articles/nn0203-99"
+  - "Beyerstein (2004), Do we really use only 10 percent of our brains?, Scientific American, 8 de marzo de 2004 (texto completo): https://www.scientificamerican.com/article/do-we-really-use-only-10/"
+  - "Bahrick (1984), Semantic memory content in permastore: fifty years of memory for Spanish learned in school, Journal of Experimental Psychology: General 113(1):1-29 (abstract): https://pubmed.ncbi.nlm.nih.gov/6242406/"
   - "Murre y Dros (2015), Replication and analysis of Ebbinghaus' forgetting curve, PLOS ONE 10(7):e0120644 (según resumen): https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644"
   - "Uncapher y Wagner (2018), Minds and brains of media multitaskers, PNAS (según resumen): https://pmc.ncbi.nlm.nih.gov/articles/PMC6176627"
   - "Rogowsky, Calhoun y Tallal (2015), Matching learning style to instructional method, Journal of Educational Psychology 107:64-78 (según resumen): https://zenodo.org/record/977853"
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
+  - "Ciencias-del-aprendizaje/.investigacion/fuentes-fundamentos-2026-11.md"
 aliases: [neuromitos, neuromyths, mitos del cerebro, cerebro izquierdo y derecho, hemisferios, 10 % del cerebro, Brain Gym, curva del olvido, entrenamiento cerebral, brain training]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos del aprendizaje
@@ -29,7 +33,7 @@ Esta nota es de toda el área Pedagogía y reúne los mitos sobre cómo se apren
 | Mito | Qué se dice | Estado | Dónde está el detalle |
 |---|---|---|---|
 | Hemisferio dominante | Hay personas «de cerebro izquierdo» (lógicas) y «de cerebro derecho» (creativas) | Cayó | Abajo |
-| El 10 % del cerebro | Usamos una fracción del cerebro y el resto se puede activar | Cayó, sin fuente de refutación propia en esta base | Abajo |
+| El 10 % del cerebro | Usamos una fracción del cerebro y el resto se puede activar | Cayó: no hay zonas del cerebro sin función | Abajo |
 | Brain Gym | Ejercicios físicos que «integran» los hemisferios mejoran el aprendizaje | Cayó | Abajo |
 | La curva del olvido como ley | Se olvida siguiendo una curva fija y universal, con porcentajes por día | Se achicó: la curva se replicó para sílabas sin sentido | Abajo |
 | Estilos de aprendizaje | Cada uno aprende mejor si se le enseña en su estilo | Cayó como guía para enseñar; la preferencia existe | [Práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md); prevalencia y Rogowsky et al. (2015), en [mitos de la enseñanza](../../Didactica/Fundamentos/mitos-de-la-ensenanza.md) |
@@ -59,17 +63,20 @@ Brain Gym vende ejercicios físicos que supuestamente reorganizan y «integran»
 
 En Dekker et al. lo creía cerca de la mitad de los docentes de los dos países (48 % y 46 %).
 
-> [!NOTE]
-> Sin fuente todavía: una refutación del mito del 10 % del cerebro. El informe solo trae su prevalencia, no un estudio que lo desmienta.
+Beyerstein, del Brain Behavior Laboratory de la Universidad Simon Fraser, que publicó sobre el mito, lo refuta con cuatro tipos de evidencia. El tejido cerebral es caro de mantener: «Brain tissue is metabolically expensive both to grow and to run». Perder mucho menos del 90 % del cerebro por un accidente o una enfermedad «has catastrophic consequences». La estimulación eléctrica durante cirugías «has failed so far to uncover any dormant areas». Y en las imágenes de EEG, PET y resonancia funcional «no quiet areas awaiting new assignments have emerged».
+
+De dónde salió no se sabe. Un editorial de *Nature Neuroscience* (2003) dice que su origen «remains uncertain, despite considerable research». Se lo atribuye a William James, que en 1906 dijo que usamos «only a small part of our physical and mental resources», pero el 10 % no aparece en sus escritos. Otras pistas del editorial: interneuronas tomadas por neuronas sin desarrollar, y la «silent cortex» de los primeros neurofisiólogos, leída como corteza sin uso. Desde hace al menos un siglo es un recurso de la autoayuda y una justificación de las creencias paranormales.
 
 ## La curva del olvido no es una ley con números fijos
 
 La curva del olvido es real y se replicó. Murre y Dros (2015) repitieron el experimento de Ebbinghaus con un sujeto durante 70 horas, con listas de sílabas sin sentido e intervalos de 20 minutos a 31 días: «the Ebbinghaus forgetting curve has indeed been replicated». Encontraron que la curva no es del todo suave y que probablemente sube un poco desde las 24 horas. No hay otra replicación independiente registrada. La curva con su contexto está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md).
 
-El mito es leerla como una ley universal con porcentajes fijos de olvido por día, válida para cualquier material. Los datos son de una persona y de sílabas sin sentido; que con material con sentido la tasa sea otra es la lectura del informe de esta base.
+El mito es leerla como una ley universal con porcentajes fijos de olvido por día, válida para cualquier material. Los datos son de una persona y de sílabas sin sentido.
+
+Con material con sentido, el olvido tiene otra forma. Bahrick (1984) midió cuánto castellano recordaban 733 personas que lo habían estudiado en la escuela, hasta 50 años después. Según su resumen, el recuerdo cae de forma exponencial durante los primeros 3 a 6 años, después «remains unchanged for periods of up to 30 years» y recién al final vuelve a bajar. Una parte grande queda accesible más de 50 años sin usarse ni repasarse, en un estado que Bahrick llamó «permastore». Cuánto queda depende del nivel del entrenamiento original y de las notas; la mayoría casi no repasó, y los datos no muestran efecto del repaso.
 
 > [!NOTE]
-> Sin fuente todavía: un estudio sobre cómo se olvida material con sentido (textos, conceptos, habilidades) que muestre en qué se aparta de la curva de Ebbinghaus.
+> Sin fuente todavía: estudios sobre cómo se olvidan habilidades y conceptos de un curso (no idiomas) frente a la curva de Ebbinghaus. Bahrick (1984) se leyó solo por su resumen.
 
 ## Cómo reconocer uno nuevo
 

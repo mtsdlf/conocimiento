@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La falla productiva es enseñar al revés del orden habitual: quien aprende intenta primero un problema que todavía no sabe resolver y recién después recibe la explicación. Un metaanálisis de 2021 le da un efecto moderado frente a explicar primero, que depende de cómo se diseñe el problema y se invierte en chicos de primaria.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kapur (2008), Productive Failure, Cognition and Instruction 26(3): https://doi.org/10.1080/07370000802212669 (metadatos)"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [productive failure, problema primero, problem solving before instruction, PS-I, fracaso productivo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Falla productiva

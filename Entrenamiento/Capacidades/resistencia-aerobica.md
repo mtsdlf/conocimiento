@@ -57,4 +57,4 @@ Combinada con la fuerza, no le quita músculo ni fuerza máxima a un adulto com�
 
 ## Qué tan firme es lo que dice esta nota
 
-Joyner y Coyle se leyeron casi completos, pero son de 2008 y sobre atletas de élite: el modelo vale para cualquiera, las cifras no. El resto se leyó según su resumen; lo de salud es observacional con dos fuentes concordantes. La nota no reemplaza a un médico: quien tiene enfermedad del corazón o síntomas consulta antes de subir la intensidad ([dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)).
+Joyner y Coyle se leyeron casi completos, pero son de 2008 y sobre atletas de élite: el modelo vale para cualquiera, las cifras no. Mandsager y Guo se leyeron en texto completo; Kodama, Wewege y Mujika y Padilla, solo según su resumen. Lo de salud es observacional con dos fuentes concordantes. La nota no reemplaza a un médico: quien tiene enfermedad del corazón o síntomas consulta antes de subir la intensidad ([dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)).

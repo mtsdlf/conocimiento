@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación diagnóstica averigua qué sabe alguien antes de enseñarle, para decidir por dónde empezar. Las técnicas con más respaldo son inferir por prerrequisitos y preguntar por el primer paso de la solución; preguntarle a la persona cuánto sabe orienta, pero no alcanza.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kalyuga y Sweller (2004), Measuring knowledge to optimize cognitive load factors during instruction, Journal of Educational Psychology 96, 558-568 (abstract): https://doi.org/10.1037/0022-0663.96.3.558"
@@ -13,7 +13,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [evaluación de entrada, evaluación de ubicación, prueba de nivel, placement test, diagnostic assessment, diagnóstico de entrada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación diagnóstica

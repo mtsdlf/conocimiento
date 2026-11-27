@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La inflación de notas es la suba de los puntajes o las calificaciones sin una suba equivalente de lo aprendido. Pasa cuando el resultado se vuelve la meta: se enseña lo que la prueba muestrea o se califica más alto por el mismo trabajo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Campbell (1979), Assessing the impact of planned social change, Evaluation and Program Planning 2(1), 67-90, citado en Wikipedia: https://en.wikipedia.org/wiki/Campbell%27s_law"
@@ -13,7 +13,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [grade inflation, score inflation, inflación de puntajes, enseñar para la prueba, teaching to the test, ley de Campbell, Campbell's law]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inflación de notas

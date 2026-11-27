@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dar acceso a la tecnología (computadoras, conexión, licencias, un tutor de IA) no mejora por sí solo los resultados; lo que se mide en los estudios depende de cuánto y cómo se la usa. Es la versión a escala de sistema del debate de los medios.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OECD (2015), Students, Computers and Learning: Making the Connection, PISA, DOI 10.1787/9789264239555-en (texto no abierto); cobertura de EdWeek: https://www.edweek.org/leadership/more-technology-doesnt-mean-more-learning-international-study-finds/2015/09"
@@ -12,7 +12,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
 aliases: [acceso a la tecnología, uso de la tecnología, computadoras en el aula, oversold and underused, brecha de uso]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Acceso y uso de la tecnología

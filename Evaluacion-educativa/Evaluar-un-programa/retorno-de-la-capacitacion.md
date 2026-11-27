@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El retorno de la capacitación (ROI, nivel 5 de Phillips) compara en dinero lo que dejó un programa con lo que costó. Su punto débil es aislar el efecto del curso: sin grupo de comparación depende de lo que estiman los propios participantes, y el número final hereda esa incertidumbre.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Training Industry, Phillips ROI Methodology: https://trainingindustry.com/wiki/measurement-and-analytics/phillips-roi-methodology/"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
 aliases: [ROI de la capacitación, retorno de la inversión en capacitación, metodología ROI de Phillips, Phillips ROI, nivel 5]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Retorno de la capacitación

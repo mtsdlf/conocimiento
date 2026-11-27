@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Aprendizaje en línea es la parte de la tecnología educativa que estudia los cursos que se dan por internet, a ritmo propio o en vivo, abiertos y masivos o con cupo. La evidencia trata aparte dos preguntas: si enseña tanto como el presencial y por qué tan pocos terminan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Means, Toyama, Murphy, Bakia y Jones (2010), Evaluation of Evidence-Based Practices in Online Learning, U.S. Department of Education: https://internet.psych.wisc.edu/wp-content/uploads/532-Master/532-UnitPages/Unit-03/DOE_OnlineLearningMetaAnalysis_2010.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
 aliases: [online learning, e-learning, educación a distancia, cursos en línea, aprendizaje virtual]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aprendizaje en línea

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una rúbrica es una tabla de criterios con la descripción de cada nivel de calidad, que se usa para juzgar un trabajo abierto. Puede subir el acuerdo entre correctores y hace visible qué se espera; su efecto sobre el aprendizaje cuando se usa de forma formativa es menos claro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Jönsson y Svingby (2007), The use of scoring rubrics: reliability, validity and educational consequences, Educational Research Review 2(2), 130-144 (citado por terceros): https://openpublishing.library.umass.edu/pare/article/1452/galley/1403/view"
@@ -10,7 +10,7 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
 aliases: [rúbricas, scoring rubric, rubric, matriz de evaluación, criterios de evaluación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rúbrica

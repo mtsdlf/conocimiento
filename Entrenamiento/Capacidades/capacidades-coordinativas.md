@@ -26,7 +26,7 @@ En la división alemana son el grupo opuesto a las condicionales (fuerza, resist
 
 ## Cinco o siete, según el modelo
 
-Los modelos teóricos «distinguen en general cinco o siete capacidades coordinativas» (en el original: "In theoretischen Modellen werden meist fünf oder sieben koordinative Fähigkeiten differenziert") ([Universidad de Regensburg](https://epub.uni-regensburg.de/53368/1/41%20Diagnostik%20motorischer%20F%C3%A4higkeiten%2C%20Fertigkeiten%20und%20Basiskompetenzen%20im%20schulischen%20Kontext.pdf), según un resumen secundario, citando a Blume, 1978, y Hirtz, 1985).
+Los modelos teóricos «distinguen en general cinco o siete capacidades coordinativas» (en el original: "In theoretischen Modellen werden meist fünf oder sieben koordinative Fähigkeiten differenziert") ([Universidad de Regensburg](https://epub.uni-regensburg.de/53368/1/41%20Diagnostik%20motorischer%20F%C3%A4higkeiten%2C%20Fertigkeiten%20und%20Basiskompetenzen%20im%20schulischen%20Kontext.pdf), leído en el original, citando a Blume, 1978, y Hirtz, 1985). El mismo texto aclara que, por lo complejo de los movimientos, en la práctica estas capacidades no se pueden medir del todo por separado.
 
 | Capacidad | Qué es |
 |---|---|
@@ -38,14 +38,14 @@ Los modelos teóricos «distinguen en general cinco o siete capacidades coordina
 | Acoplamiento | coordinar partes del cuerpo entre sí (solo en el modelo de siete) |
 | Cambio o adaptación | ajustar el movimiento cuando cambia la situación (solo en el modelo de siete) |
 
-Las cinco primeras son el modelo de Hirtz; las siete, el que otra página atribuye a Meinel y Schnabel, y que la misma página llama «un tema controvertido» (en el original: "ein umstrittenes Thema") ([dr-gumpert.de](https://www.dr-gumpert.de/html/koordinative_faehigkeiten.html), según un resumen secundario). Las descripciones de la columna derecha son la lectura corriente de cada nombre; el capítulo original de Hirtz no se abrió.
+Las cinco primeras son el modelo de Hirtz; las siete, el que el texto de Regensburg atribuye a Blume y otra página, a Meinel y Schnabel. Esa página llama a la clasificación «un tema controvertido» (en el original: "ein umstrittenes Thema") ([dr-gumpert.de](https://www.dr-gumpert.de/html/koordinative_faehigkeiten.html)). Las descripciones de la columna derecha son la lectura corriente de cada nombre; el capítulo original de Hirtz no se abrió.
 
 ## Una clasificación discutida
 
 > [!IMPORTANT]
 > **La tradición** alemana trata a cada capacidad coordinativa como un rasgo general: quien mejora su equilibrio lo mejora para cualquier tarea, y por eso se entrena aparte. Así se enseña en el profesorado, según las fuentes consultadas.
 >
-> **La crítica**: un capítulo de manual describe el estudio científico de estas capacidades como marcado por la controversia y los vacíos de investigación, sin alternativas verificadas con datos ([manual de Springer](https://rd.springer.com/content/pdf/10.1007%2F978-3-662-53386-4_51-1.pdf), según un resumen secundario). Y según una revisión que lo cita, el trabajo de Henry encontró que la coordinación y la agilidad eran específicas de cada tarea, no capacidades generales ([revisión sobre capacidades psicomotoras](https://core.ac.uk/works/8486311), según un resumen secundario).
+> **La crítica**: un capítulo de manual describe el estudio científico de estas capacidades como marcado por la controversia y los vacíos de investigación, sin alternativas verificadas con datos ([manual de Springer](https://rd.springer.com/content/pdf/10.1007%2F978-3-662-53386-4_51-1.pdf), según el resumen del propio capítulo). Y según una revisión que lo cita, el trabajo de Henry encontró que la coordinación y la agilidad eran específicas de cada tarea, no capacidades generales ([revisión sobre capacidades psicomotoras](https://core.ac.uk/works/8486311), según un resumen secundario).
 >
 > **Lo que queda**: la lista sirve para no olvidar ningún aspecto del control del movimiento, pero en lo consultado no se encontró evidencia de que entrenar «el equilibrio» en general mejore el equilibrio en todas las tareas. Es otro caso de [especificidad](../Adaptacion/especificidad.md).
 
@@ -53,7 +53,7 @@ Las cinco primeras son el modelo de Hirtz; las siete, el que otra página atribu
 
 El ACSM recomienda ejercicio neuromotor de equilibrio, agilidad y coordinación 2 a 3 días por semana; la cita completa está en [rendir y coordinar](../rendir-y-coordinar.md), que también cuenta lo que sigue con más detalle. En mayores, el ejercicio baja las caídas un 23 % con certeza alta ([Sherrington y otros, 2019](https://doi.org/10.1002/14651858.cd012424.pub2)); para adultos de 25 a 55 años no se encontró evidencia propia.
 
-Para aprender una habilidad, mezclar variantes en la misma sesión se retiene y se transfiere mejor que repetir una sola en bloque, según dos metaanálisis que comparten literatura ([Frontiers in Psychology, 2024](https://doi.org/10.3389/fpsyg.2024.1377122); [Scientific Reports, 2024](https://doi.org/10.1038/s41598-024-65753-3)). Es la pista más concreta de cómo se entrena la coordinación: practicando la tarea que se quiere dominar, con variaciones.
+Para aprender una habilidad, mezclar variantes en la misma sesión se retiene y se transfiere mejor que repetir una sola en bloque, según dos metaanálisis que comparten literatura ([Frontiers in Psychology, 2024](https://doi.org/10.3389/fpsyg.2024.1377122); [Scientific Reports, 2024](https://doi.org/10.1038/s41598-024-65753-3)). La ventaja es clara en el laboratorio y chica, sin llegar a ser significativa, en clases y juegos. Es la pista más concreta de cómo se entrena la coordinación: practicando la tarea que se quiere dominar, con variaciones.
 
 > [!NOTE]
 > Sin fuente todavía: métodos de entrenamiento de cada capacidad coordinativa, y si existen como rasgos generales o son propias de cada tarea. Tampoco hay fuente sobre equilibrio y agilidad en adultos que no son mayores.
@@ -66,4 +66,4 @@ La coordinación también entra en las otras capacidades: correr rápido depende
 
 ## Qué tan firme es lo que dice esta nota
 
-La clasificación de cinco y siete y sus críticas se conocen por resúmenes secundarios; los textos de Hirtz y de Meinel y Schnabel no se abrieron. Lo de caídas y aprendizaje motor tiene metaanálisis, contados en [rendir y coordinar](../rendir-y-coordinar.md). La nota no reemplaza a un profesional si hay caídas frecuentes o mareos.
+La clasificación de cinco y siete se leyó en un texto universitario alemán y en una página de divulgación; de las críticas, el capítulo de Springer solo por su resumen y el trabajo de Henry por una revisión que lo cita. Los textos de Hirtz y de Meinel y Schnabel no se abrieron. Lo de caídas y aprendizaje motor tiene metaanálisis, contados en [rendir y coordinar](../rendir-y-coordinar.md). La nota no reemplaza a un profesional si hay caídas frecuentes o mareos.

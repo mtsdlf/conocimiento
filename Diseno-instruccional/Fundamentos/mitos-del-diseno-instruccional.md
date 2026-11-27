@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos del diseño instruccional son afirmaciones que circulan en la formación de adultos y en las empresas sin la evidencia que se les supone: la regla 70-20-10, que los adultos necesitan otra pedagogía, que quien aprende sabe qué le conviene, que ADDIE es un modelo probado y que Bloom es un orden de enseñanza.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Clardy (2018), 70-20-10 and the Dominance of Informal Learning: A Fact in Search of Evidence: https://journals.sagepub.com/doi/abs/10.1177/1534484318759399 (resumen del buscador)"
@@ -13,7 +13,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/modelos-materiales-formatos.md"
 aliases: [mitos de la formación, mitos de capacitación, leyendas urbanas en educación, urban legends in education, mitos del e-learning]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos del diseño instruccional

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los objetivos de aprendizaje dicen qué tiene que poder hacer alguien al terminar un curso, y son el eje que ata lo que se enseña con lo que se evalúa. Le sirven más a quien diseña que a quien aprende: su efecto mostrado al alumno es chico y focalizado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Biggs (2014), Constructive alignment in university teaching, HERDSA Review of Higher Education 1: https://www.tru.ca/__shared/assets/herdsa33493.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [learning objectives, objetivos instruccionales, resultados de aprendizaje, learning outcomes, intended learning outcomes, ILO]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Objetivos de aprendizaje

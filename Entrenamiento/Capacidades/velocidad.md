@@ -11,7 +11,7 @@ fuentes:
   - https://link.springer.com/article/10.1007/s40279-021-01627-2
   - https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/sport/fitness-training/das-hassliche-entlein-der-motorischen-fahigkeiten-19502
   - https://pubmed.ncbi.nlm.nih.gov/34757594/
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1249/MSS.0000000000003897
 aliases: [speed, rapidez, sprint, velocidad de reacción, aceleración]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -25,13 +25,13 @@ Casi todo lo que se encontró para esta nota viene de velocistas de élite, y lo
 
 ## Mucho de genética, poco margen de cambio
 
-Una revisión sobre el entrenamiento de velocistas de élite encontró que el rendimiento en sprint depende mucho de rasgos genéticos, y que lo que cambia un atleta de un año a otro es menos que la variación habitual entre mediciones ([Haugen y otros, 2019](https://sportsmedicine-open.springeropen.com/track/pdf/10.1186/s40798-019-0221-0), según un resumen secundario). Otro estudio, con 235 mujeres y 431 hombres de 23 deportes, concluyó que el perfil mecánico del sprint depende más de cada persona que del deporte que practica ([Haugen, Breitschädel y Seiler, 2019](https://pubmed.ncbi.nlm.nih.gov/31339890/), según un resumen secundario).
+Una revisión sobre el entrenamiento de velocistas de élite encontró que el rendimiento en sprint depende mucho de rasgos genéticos, y que lo que cambia un atleta de un año a otro es menos que la variación habitual entre mediciones ([Haugen y otros, 2019](https://sportsmedicine-open.springeropen.com/track/pdf/10.1186/s40798-019-0221-0), leída completa). La misma revisión aclara que lo que sostiene la velocidad, como la potencia, la técnica y la resistencia propia del sprint, sí se entrena. Otro estudio, con 235 mujeres y 431 hombres de 23 deportes, concluyó que el perfil mecánico del sprint depende más de cada persona que del deporte que practica ([Haugen, Breitschädel y Seiler, 2019](https://pubmed.ncbi.nlm.nih.gov/31339890/), leído completo).
 
 Son datos de atletas. Qué tanto mejora la velocidad un adulto común que la entrena no tiene fuente en esta base.
 
 ## La fuerza no vuelve lento
 
-La idea de que las pesas hacen lento es un mito. Un metaanálisis de 2014 encontró que la fuerza ganada en sentadilla se transfiere a la velocidad de sprint, con una mejora de alrededor del 3,11 % que los autores llaman «prácticamente relevante» ([Seitz y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/25059334/), según un resumen secundario). Otro metaanálisis, de 2021, halló que el levantamiento olímpico y la pliometría (saltos repetidos) dan mejoras parecidas en velocidad, potencia y fuerza ([metaanálisis de 2021](https://link.springer.com/article/10.1007/s40279-021-01627-2), según un resumen secundario). Son dos fuentes independientes que coinciden.
+La idea de que las pesas hacen lento es un mito. Un metaanálisis de 2014 encontró que la fuerza ganada en sentadilla se transfiere a la velocidad de sprint, con una mejora de alrededor del 3,11 % que los autores llaman «prácticamente relevante» ([Seitz y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/25059334/), según su resumen). Otro metaanálisis, de 2021, halló que el levantamiento olímpico y la pliometría (saltos repetidos) dan mejoras parecidas en velocidad, potencia y fuerza ([metaanálisis de 2021](https://link.springer.com/article/10.1007/s40279-021-01627-2), leído completo). Son dos fuentes independientes que coinciden.
 
 La potencia, que es fuerza aplicada rápido, es el puente entre las dos capacidades. Es una descripción de esta base, no un hallazgo citado; lo de la transferencia desde la fuerza está arriba. Lo que sí la resiente es el cardio pegado a la fuerza: la fuerza explosiva bajó algo al combinarlos, sobre todo en la misma sesión ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/); [fuerza y cardio](../Planificacion/fuerza-y-cardio.md)).
 
@@ -51,4 +51,4 @@ Para un adulto, lo que tiene fuente es indirecto: la fuerza ganada en sentadilla
 
 ## Qué tan firme es lo que dice esta nota
 
-Todo lo de velocidad viene de resúmenes secundarios y de atletas; la clasificación y los métodos no tienen fuente leída. Lo único firme para adultos es la transferencia desde la fuerza, con dos metaanálisis. Es prudencia nuestra, sin fuente, que quien empieza o vuelve de un parate llegue de a poco a los esfuerzos máximos ([dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)).
+Lo de velocidad viene de atletas: los dos trabajos de Haugen y el metaanálisis de 2021 se leyeron completos, Seitz solo por su resumen y la crítica alemana por un resumen secundario; la clasificación y los métodos no tienen fuente leída. Lo único firme para adultos es la transferencia desde la fuerza, con dos metaanálisis. Es prudencia nuestra, sin fuente, que quien empieza o vuelve de un parate llegue de a poco a los esfuerzos máximos ([dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)).

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La evaluación como aprendizaje usa la prueba como intervención y no como medición: hacer preguntas de práctica en clase mejora lo que se retiene. Un metaanálisis de 222 estudios en aulas da g = 0,499 a favor de testear.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Roediger y Karpicke (2006), Test-enhanced learning, Psychological Science 17(3), 249-255 (resumen): https://pubmed.ncbi.nlm.nih.gov/16507066/"
@@ -12,7 +12,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [assessment as learning, testeo en el aula, quizzing, prueba de práctica, practice testing, test-enhanced learning]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evaluación como aprendizaje

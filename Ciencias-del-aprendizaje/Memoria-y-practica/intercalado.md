@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El intercalado es practicar mezclando tipos de problema o categorías en la misma sesión, en lugar de hacer todos los de un tipo seguidos (práctica en bloque). Tiene un efecto moderado en promedio que depende mucho del material, y en un estudio la mayoría de quienes lo probaron creyó que les fue peor.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Brunmair y Richter (2019), Similarity matters: a meta-analysis of interleaved learning and its moderators, Psychological Bulletin 145(11):1029-1052 (abstract): https://pubmed.ncbi.nlm.nih.gov/31556629/"
@@ -11,7 +11,7 @@ fuentes:
   - "Ciencias-del-aprendizaje/.investigacion/comprension-memoria-transferencia-metacognicion.md"
 aliases: [interleaving, práctica intercalada, interleaved practice, práctica en bloque, blocked practice, práctica mezclada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Intercalado

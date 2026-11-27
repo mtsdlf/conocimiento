@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La inversión de la experticia es el hallazgo de que los métodos que ayudan a quien recién empieza, como los ejemplos resueltos y la guía fuerte, pierden valor y hasta perjudican a quien ya sabe. Obliga a averiguar cuánto sabe quien aprende antes de decidir cuánto guiar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kalyuga (2007), Expertise Reversal Effect and Its Implications for Learner-Tailored Instruction, Educational Psychology Review 19:509-539: https://www.uky.edu/~gmswan3/EDC608/Kalyuga2007_Article_ExpertiseReversalEffectAndItsI.pdf (lectura parcial)"
@@ -11,7 +11,7 @@ fuentes:
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
 aliases: [expertise reversal effect, efecto de inversión de la experticia, efecto de inversión por pericia, inversión por pericia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inversión de la experticia

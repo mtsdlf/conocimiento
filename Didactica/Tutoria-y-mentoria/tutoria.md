@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La tutoría es enseñar una habilidad a una persona o a un grupo de dos a cinco, con atención a lo que cada uno hace. En escuelas, los ensayos aleatorizados le dan un efecto de entre 0,29 y 0,37 desviaciones estándar, y en un estudio clave los alumnos aprendieron igual cuando el tutor solo podía preguntar, sin explicar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "VanLehn (2011), The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems, Educational Psychologist 46(4): https://eric.ed.gov/?id=EJ946764 (abstract)"
@@ -10,11 +10,12 @@ fuentes:
   - "Chi, Siler, Jeong, Yamauchi y Hausmann (2001), Learning from human tutoring, Cognitive Science 25(4): https://doi.org/10.1207/s15516709cog2504_1 (abstract)"
   - "Lepper y Woolverton (2002), The wisdom of practice, en Aronson (ed.), Improving Academic Achievement (según un resumen secundario)"
   - "EEF Teaching and Learning Toolkit, Small group tuition, vía Evidence for Learning: https://evidenceforlearning.org.au/education-evidence/teaching-learning-toolkit/small-group-tuition/"
+  - "EEF Teaching and Learning Toolkit, Peer tutoring, revisión de mayo de 2025: https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/peer-tutoring (texto completo, leído el 2026-11-27)"
   - "Didactica/.investigacion/indagacion-tutoria-especificas.md"
   - "Didactica/.investigacion/explicita-practica-preguntas-feedback.md"
 aliases: [tutoring, tutoría uno a uno, tutoría individual, clases particulares, tutoría en grupos chicos, small group tuition, tutoría de alta dosis, high-dosage tutoring]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tutoría
@@ -47,6 +48,8 @@ El Toolkit de la [EEF](../Fundamentos/evidencia-en-educacion.md#los-resúmenes-d
 
 Para grupos chicos, la EEF advierte "a noticeable reduction in effectiveness" cuando pasan de seis o siete, y que el impacto sube si se apunta a necesidades específicas y se entrena a quien tutorea. Las evaluaciones hechas por los propios proveedores tienden a dar efectos mayores. Cómo se leen los meses y los candados está en [evidencia en educación](../Fundamentos/evidencia-en-educacion.md).
 
+La tutoría entre pares, en la que un estudiante le enseña a otro, tiene su propia ficha en el Toolkit: +6 meses sobre 145 estudios, con solidez «high» según la página vigente (revisada en mayo de 2025). El detalle está en [instrucción entre pares](../../Ciencias-del-aprendizaje/Aprender-con-otros/instruccion-entre-pares.md#tutoría-entre-pares-lo-que-da-la-eef).
+
 ## Qué hacen los buenos tutores
 
 Chi, Siler, Jeong, Yamauchi y Hausmann (2001) pusieron a prueba tres explicaciones de por qué funciona la tutoría: lo que hace el tutor, lo que hace el alumno, o la interacción. En su segundo estudio les prohibieron a los tutores explicar y dar retroalimentación; solo podían hacer preguntas guía. El resultado, según el abstract: "students learned just as effectively even when tutors were suppressed from giving explanations and feedback". Lo atribuyen a que el alumno construye más y a que hubo más episodios de [andamiaje](../Practica-guiada-y-andamiaje/andamiaje.md).
@@ -59,4 +62,4 @@ De las dos fuentes sale una pauta práctica: en una sesión uno a uno, quien tut
 
 No hay en los informes un metaanálisis de tutoría con adultos que aprenden habilidades técnicas. Toda la evidencia de esta nota es escolar o universitaria.
 
-> [!NOTE] Sin fuente todavía: evidencia de tutoría con adultos en habilidades técnicas, y la página de tutoría entre pares del Toolkit de la EEF.
+> [!NOTE] Sin fuente todavía: evidencia de tutoría con adultos en habilidades técnicas.

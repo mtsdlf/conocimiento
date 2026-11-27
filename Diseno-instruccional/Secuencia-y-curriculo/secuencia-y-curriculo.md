@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La secuencia es el orden en que un curso presenta lo que hay que aprender, y el currículo es el recorrido completo que resulta. Contesta dos preguntas distintas que la literatura suele mezclar: en qué orden van los contenidos (qué va antes y cómo se recorre un dominio) y en qué orden van las tareas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gagné, The Conditions of Learning (3.ª ed. 1977; no leído): https://en.wikipedia.org/wiki/Conditions_of_Learning (resumen del buscador)"
@@ -11,7 +11,7 @@ fuentes:
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
 aliases: [secuencia, secuenciación, sequencing, currículo, currículum, curriculum, temario, scope and sequence, orden de un curso]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Secuencia y currículo
