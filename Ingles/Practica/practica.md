@@ -3,7 +3,7 @@ resumen: >-
   La práctica es cómo se entrena el inglés para que lo que se sabe salga solo: una rutina que
   reparte el tiempo entre entender mucho, producir, estudiar la forma y ganar velocidad, con
   técnicas elegidas según la evidencia que tiene cada una.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Nation (2007), The four strands, Innovation in Language Learning and Teaching 1(1), 2-13: https://core.ac.uk/download/357330216.pdf"
@@ -18,7 +18,7 @@ aliases:
   - Las cuatro ramas
   - Four strands
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Práctica

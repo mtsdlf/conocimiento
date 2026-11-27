@@ -4,7 +4,7 @@ resumen: >-
   pedido o la respuesta al principio y el tono cortés sin rodeos. Según Reppen y Grabe, quienes
   escriben en español hacen oraciones largas por coordinación (and, so), y los mails de aprendices que
   piden sin suavizar se juzgan bruscos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "GOV.UK, A to Z style guide: https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/"
@@ -19,7 +19,7 @@ aliases:
   - Business email
   - Plain English
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escritura

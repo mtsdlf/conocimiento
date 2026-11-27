@@ -3,7 +3,7 @@ resumen: >-
   Las consonantes del inglés le cuestan al hispanohablante por tres razones distintas: sonidos que
   el castellano no tiene (/θ ð v z/), sonidos que tiene con otro reparto (/ʃ tʃ dʒ j/) y
   combinaciones que el castellano no permite (/s/ inicial, grupos finales, -ed y -s).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "MIT ESOL Tips: Spanish: https://wikis.mit.edu/confluence/download/attachments/139960949/ESOL_Tips_Spanish.pdf?api=v2"
@@ -18,7 +18,7 @@ aliases:
   - Consonants
   - Consonantes del inglés
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Consonantes

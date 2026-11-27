@@ -3,7 +3,7 @@ resumen: >-
   La fluidez es usar rápido y sin pausas lo que ya se sabe, y se entrena repitiendo la misma tarea
   con menos tiempo, como en el 4/3/2: contar algo en cuatro minutos, después en tres y después en
   dos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Nation (2007), The four strands: https://core.ac.uk/download/357330216.pdf"
@@ -18,7 +18,7 @@ aliases:
   - Task repetition
   - Repetición de tareas
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fluidez

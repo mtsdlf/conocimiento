@@ -4,7 +4,7 @@ resumen: >-
   metaanálisis le da un efecto medio sobre el habla, pero casi todos sus estudios son de sistemas
   anteriores a los modelos de lenguaje actuales, y lo que hay de estos son estudios chicos y
   preprints.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hou y Min (2026, en línea 2025-07-14), metaanálisis de CALL dialógico y habla L2, ReCALL 38(1), 40-56: https://www.cambridge.org/core/product/31847710516602398819C5E594038E7B/core-reader"
@@ -20,7 +20,7 @@ aliases:
   - Chatbot
   - Práctica con chatbot
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conversación con IA

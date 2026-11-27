@@ -4,7 +4,7 @@ resumen: >-
   aunque sea un it o un there vacío; el castellano, con orden libre y sujeto omitible, deja
   errores típicos en el sujeto, en el lugar de adjetivos y adverbios y en las preguntas
   indirectas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Revisión sobre sujeto nulo en aprendices de inglés (White 1985, 1986; Phinney 1987; Davies 1996): https://eprints.whiterose.ac.uk/97341/1/paper2991.pdf"
@@ -18,7 +18,7 @@ aliases:
   - Word order
   - Orden de palabras
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estructura de la oración

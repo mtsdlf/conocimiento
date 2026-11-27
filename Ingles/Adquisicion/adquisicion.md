@@ -3,7 +3,7 @@ resumen: >-
   La adquisición es el proceso por el que un adulto pasa de conocer el inglés a usarlo: entender
   mucho, producir, recibir corrección, estudiar la forma y practicarla hasta que salga sola, con la
   memoria y la edad como condiciones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Krashen, Principles and Practice in Second Language Acquisition (1982, versión del autor): https://www.sdkrashen.com/content/books/principles_and_practice.pdf"
@@ -22,7 +22,7 @@ aliases:
   - SLA
   - Adquisición de segundas lenguas
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Adquisición

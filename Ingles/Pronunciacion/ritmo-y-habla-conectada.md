@@ -3,7 +3,7 @@ resumen: >-
   El inglés hablado alarga las sílabas acentuadas y comprime las demás, y en el flujo las palabras
   se reducen, se unen y cambian de sonido (formas débiles, linking, elisión, asimilación, flap);
   no reconocer esas formas es una de las causas de no entender a nativos rápidos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Grabe y Low (2002), Papers in Laboratory Phonology 7: https://pmc.ncbi.nlm.nih.gov/articles/PMC2790788"
@@ -20,7 +20,7 @@ aliases:
   - Formas débiles
   - Weak forms
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ritmo y habla conectada

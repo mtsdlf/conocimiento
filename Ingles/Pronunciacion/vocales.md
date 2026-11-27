@@ -3,7 +3,7 @@ resumen: >-
   Las vocales del inglés son muchas más que las cinco del castellano, y el hispanohablante tiende
   a meter dos o tres vocales inglesas en una sola castellana, y eso incluye /i/-/ɪ/, un contraste
   de carga funcional alta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "MIT ESOL Tips: Spanish: https://wikis.mit.edu/confluence/download/attachments/139960949/ESOL_Tips_Spanish.pdf?api=v2"
@@ -16,7 +16,7 @@ aliases:
   - Vowels
   - Vocales del inglés
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Vocales

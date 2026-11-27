@@ -3,7 +3,7 @@ resumen: >-
   El acento de palabra es la sílaba que se pronuncia más fuerte en cada palabra inglesa; no lo
   marca la ortografía, lo mueven los sufijos y casi siempre arrastra la calidad de las vocales,
   por eso ponerlo mal puede volver irreconocible una palabra conocida.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Univ. de Michigan ELI 538, reglas de sufijos: https://www.lrc.lsa.umich.edu/eli-538/pg-014.html"
@@ -18,7 +18,7 @@ aliases:
   - Word stress
   - Acento léxico
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Acento de palabra

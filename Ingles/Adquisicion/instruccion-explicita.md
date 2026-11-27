@@ -3,7 +3,7 @@ resumen: >-
   La instrucción explícita es estudiar una forma del inglés con su regla en vez de esperar a
   absorberla del uso; tres metaanálisis muestran que suma, y el campo discute cómo ese saber
   consciente pasa a usarse sin pensar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Norris y Ortega (2000), Language Learning 50(3): https://doi.org/10.1111/0023-8333.00136 (abstract; cifras d del informe vistazo.md: https://core.ac.uk/download/201198976.pdf)"
@@ -24,7 +24,7 @@ aliases:
   - Interface debate
   - Debate de la interfaz
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Instrucción explícita

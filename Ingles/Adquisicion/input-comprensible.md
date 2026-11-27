@@ -2,7 +2,7 @@
 resumen: >-
   El input comprensible es el inglés que se entiende atendiendo al significado; Krashen lo propuso
   como el motor de la adquisición, y la evidencia lo sostiene como necesario pero no como suficiente.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Krashen, Principles and Practice in Second Language Acquisition (1982, versión del autor con nota de 2009), caps. II y V: https://www.sdkrashen.com/content/books/principles_and_practice.pdf"
@@ -18,7 +18,7 @@ aliases:
   - Hipótesis del input
   - i+1
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Input comprensible

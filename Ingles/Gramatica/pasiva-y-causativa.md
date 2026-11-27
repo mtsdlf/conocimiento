@@ -3,7 +3,7 @@ resumen: >-
   La pasiva (be + participio) pone en el sujeto lo que recibe la acción y deja afuera o al final
   a quien la hace; la causativa (have/get something done) dice que otro hizo algo por encargo de
   uno. El castellano cubre las dos cosas con el se y con la tercera persona del plural.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Biber, Johansson, Leech, Conrad y Finegan (1999), Longman Grammar of Spoken and Written English (reseña): https://www.anglistik.uni-muenchen.de/personen/professoren/schmid/schmid_publ/review_biber_et_al.pdf"
@@ -15,7 +15,7 @@ aliases:
   - Voz pasiva
   - Causative
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pasiva y causativa

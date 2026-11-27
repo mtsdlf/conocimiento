@@ -3,7 +3,7 @@ resumen: >-
   La estructura del argumento es el orden en que se presenta la información, desde la oración
   hasta el texto entero: lo conocido antes que lo nuevo, lo largo al final, la idea del párrafo
   primero y, cuando el que escucha ya tiene el contexto, la respuesta antes que las razones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Army Regulation 25-50, Preparing and Managing Correspondence (10 de octubre de 2020), origen de BLUF: https://www.maine.gov/dvem/policies/documents/AR%2025-50%20(10%20October%202020).pdf"
@@ -18,7 +18,7 @@ aliases:
   - Signposting
   - BLUF
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estructura del argumento

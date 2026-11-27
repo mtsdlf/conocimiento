@@ -3,7 +3,7 @@ resumen: >-
   El verbo inglés combina dos tiempos (presente y pasado) con dos aspectos (progresivo y
   perfecto), y cada forma tiene un significado básico; entender ese significado, y no una lista de
   usos, es lo que deja elegir la forma rápido al hablar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Leech, Meaning and the English Verb (3.ª ed.): https://www.routledge.com/Meaning-and-the-English-Verb/Leech/p/book/9780582784574"
@@ -17,7 +17,7 @@ aliases:
   - Tiempos verbales
   - Verb tenses
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tiempo y aspecto

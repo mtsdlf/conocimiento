@@ -4,7 +4,7 @@ resumen: >-
   mistake, heavy rain), y un chunk es una secuencia que se guarda y se usa entera (as far as I
   know). Delatan al aprendiz avanzado porque cada palabra suelta está bien y la combinación no,
   según Pawley y Syder (1983, citados por Wray 2012).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Metaanálisis de instrucción de colocaciones, IRAL (autores sin confirmar; vía resumen): https://www.degruyterbrill.com/document/doi/10.1515/iral-2021-0218/html"
@@ -24,7 +24,7 @@ aliases:
   - Preposiciones regidas
   - Dependent prepositions
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Colocaciones y chunks

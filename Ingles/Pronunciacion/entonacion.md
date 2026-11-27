@@ -3,7 +3,7 @@ resumen: >-
   La entonación es la melodía de la frase: cómo se divide en unidades, en qué palabra cae la
   prominencia principal (el foco) y hacia dónde se mueve el tono; en inglés el foco se desplaza
   para marcar lo nuevo o lo contrastado, y el castellano lo deja casi siempre al final.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wells (2006), English Intonation: An Introduction (ficha): https://www.langcen.cam.ac.uk/resources/lange/data/en_791.html"
@@ -18,7 +18,7 @@ aliases:
   - Foco
   - Acento nuclear
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Entonación

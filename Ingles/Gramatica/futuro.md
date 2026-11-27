@@ -3,7 +3,7 @@ resumen: >-
   El inglés no tiene un tiempo futuro en el verbo: habla del futuro con will, be going to, el
   presente continuo, el presente simple y otras formas, y elige entre ellas según si se decide en
   el momento, ya está planeado, se predice con evidencia o está en un horario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Swan, Practical English Usage (4.ª ed., OUP 2016): https://eltpreprod.oup.com/catalogue/items/global/grammar_vocabulary/practical_english_usage_4th_edition"
@@ -17,7 +17,7 @@ aliases:
   - Futuro en inglés
   - Will y going to
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Futuro

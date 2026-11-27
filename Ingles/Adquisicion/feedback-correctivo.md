@@ -3,7 +3,7 @@ resumen: >-
   El feedback correctivo es la respuesta que marca un error del que aprende, sea reformulando lo que
   dijo (recast) o empujándolo a corregirse solo (prompt); tiene efecto comprobado, y el campo
   discute qué tipo rinde más.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Lyster y Ranta (1997), SSLA: https://doi.org/10.1017/s0272263197001034 (abstract)"
@@ -24,7 +24,7 @@ aliases:
   - Recast
   - Prompt
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Feedback correctivo

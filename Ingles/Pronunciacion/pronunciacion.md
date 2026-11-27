@@ -3,7 +3,7 @@ resumen: >-
   La pronunciación es el sistema de sonidos del inglés (vocales, consonantes, acento de palabra,
   ritmo, habla conectada y entonación); para un hispanohablante B2 la meta es que lo entiendan
   sin esfuerzo, no sonar nativo, con General American como modelo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Munro y Derwing (1995), inteligibilidad, comprensibilidad y acento: https://www.benjamins.com/catalog/bct.121.02mun"
@@ -21,7 +21,7 @@ aliases:
   - Pronunciation
   - Pronunciación del inglés
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pronunciación

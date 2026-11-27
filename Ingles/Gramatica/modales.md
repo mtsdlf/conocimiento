@@ -3,7 +3,7 @@ resumen: >-
   Los modales (can, could, may, might, must, should, will, would) y los semimodales (have to, need
   to, be able to) agregan al verbo la actitud del hablante: qué tan probable cree algo o qué tan
   obligatorio o permitido es; con have + participio juzgan el pasado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Leech, Meaning and the English Verb (3.ª ed.), capítulos de modales y modalidad: https://www.routledge.com/Meaning-and-the-English-Verb/Leech/p/book/9780582784574"
@@ -16,7 +16,7 @@ aliases:
   - Verbos modales
   - Modals
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modales
