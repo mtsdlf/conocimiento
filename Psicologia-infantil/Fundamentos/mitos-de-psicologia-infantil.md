@@ -34,20 +34,20 @@ Los mitos de la crianza de todos los días (el efecto Mozart, los videos para be
 
 | Mito | Qué dice la evidencia | Fuerza | Dónde se sigue |
 |---|---|---|---|
-| Hay una epidemia de autismo | Buena parte del aumento es de diagnóstico; no se descarta algo de aumento real | Cohortes de registro de tres países | [Debates](debates-de-psicologia-infantil.md) |
-| El TDAH es un invento o una moda | La prevalencia medida es estable hace décadas; el sobrediagnóstico existe en subgrupos | Metaanálisis y cohorte | [TDAH](../Psicopatologia/Neurodesarrollo/tdah.md) |
+| Hay una epidemia de autismo | Buena parte del aumento es de diagnóstico; no se descarta algo de aumento real | Registros y vigilancia de tres países | [Debates](debates-de-psicologia-infantil.md) |
+| El TDAH es un invento o una moda | La prevalencia medida es estable hace décadas según una revisión; el sobrediagnóstico existe en subgrupos | Metaanálisis y cohorte | [TDAH](../Psicopatologia/Neurodesarrollo/tdah.md) |
 | Si el cuestionario dio positivo, tiene el trastorno | Un cribado selecciona a quién evaluar; no diagnostica | Metaanálisis y estudio en atención primaria | [Tests psicológicos](../Evaluacion/tests-psicologicos.md) |
 | El perfil del test de inteligencia muestra sus fuertes y sus débiles | Los perfiles de subtests no son estables para uso clínico | Reseñas independientes | [Tests psicológicos](../Evaluacion/tests-psicologicos.md) |
 | Un diagnóstico en la infancia es para siempre, o se pasa solo | Algunos bajan con la edad y otros aparecen; tener uno sube el riesgo de otro | Una cohorte comunitaria | [Psicopatología del desarrollo](../Psicopatologia/psicopatologia-del-desarrollo.md) |
 | El que espera el malvavisco a los 4 años llega lejos | La asociación es mucho menor de lo que se dijo, y dos análisis discrepan en cuánto | Réplica y reanálisis | [Debates](debates-de-psicologia-infantil.md) |
 
-## La epidemia de autismo es sobre todo una epidemia de diagnósticos
+## El aumento del autismo es en buena parte de diagnóstico
 
 La CDC encontró autismo en 32,2 de cada 1.000 chicos de 8 años en 2022 y dice que no puede probar por qué la cifra sube. En Suecia, los síntomas medidos en la población no cambiaron mientras los diagnósticos registrados crecían (Lundström y otros 2015); en Dinamarca, los cambios en cómo se registraba explicaron alrededor del 60 % del aumento y dejaron cerca de 40 % sin explicar (Hansen y otros 2015, según su resumen). La palabra "epidemia" no se sostiene; la idea opuesta, que no hay ningún aumento real, tampoco está probada. El detalle está en [debates](debates-de-psicologia-infantil.md).
 
 ## El TDAH no es una moda, y la edad pesa en quién lo recibe
 
-Un metaanálisis de 175 estudios estimó la prevalencia del TDAH en 7,2 % (IC 95 % 6,7 a 7,8), sin diferencias significativas entre ediciones del DSM, y menor en Europa que en Norteamérica (Thomas y otros 2015, según su resumen). Una revisión de 2017 atribuye a diferencias de método el rango de 2,2 % a 7,2 % que dan distintos estudios (Sayal y otros, según su resumen). Que el número no se dispare con cada edición del manual es lo contrario de lo que se esperaría de una moda.
+Un metaanálisis de 175 estudios estimó la prevalencia del TDAH en 7,2 % (IC 95 % 6,7 a 7,8), sin diferencias significativas entre ediciones del DSM, y menor en Europa que en Norteamérica (Thomas y otros 2015, según su resumen). Una revisión de 2017 atribuye a diferencias de método el rango de 2,2 % a 7,2 % que dan distintos estudios (Sayal y otros, según su resumen). Que el número no se dispare con cada edición del manual es, en lectura del informe, lo contrario de lo que se esperaría de una moda.
 
 La parte cierta del mito es que el diagnóstico no llega a todos por igual. En Estados Unidos, los más chicos del grado lo recibieron más seguido que los más grandes (Layton y otros 2018), y las fuentes discrepan sobre si eso es error diagnóstico ([debates](debates-de-psicologia-infantil.md)).
 
@@ -67,7 +67,7 @@ Una cohorte de 1.420 chicos seguidos de los 9 a los 16 años encontró que, aunq
 
 ## El malvavisco no es un destino
 
-El test del malvavisco medía cuánto esperaba un chico de 4 años frente a una golosina, y se volvió famoso como predictor del éxito. Una réplica con más de 900 chicos halló asociaciones "much smaller and rarely statistically significant" una vez descontado el entorno (Watts y otros 2018, según un resumen); un reanálisis de los mismos datos con un plan registrado de antemano halló una relación modesta con menos problemas de conducta, que explica mejor por el apoyo social que por el autocontrol (Michaelson y Munakata 2020). El detalle está en [debates](debates-de-psicologia-infantil.md).
+El test del malvavisco medía cuánto esperaba un chico de 4 años frente a una golosina, y se volvió famoso como predictor del éxito. Una réplica con más de 900 chicos halló asociaciones "much smaller and rarely statistically significant" una vez descontado el entorno (Watts y otros 2018, según un resumen); un reanálisis de los mismos datos con un plan registrado de antemano halló que esperar más se asociaba con menos problemas de conducta (β = −0,18), que explica mejor por el apoyo social que por el autocontrol (Michaelson y Munakata 2020). El detalle está en [debates](debates-de-psicologia-infantil.md).
 
 > [!NOTE]
 > Sin fuente todavía: mitos clínicos frecuentes como "un chico con TDAH no se puede concentrar nunca", "el autismo se ve en si mira a los ojos", "la medicación vuelve adicto al chico" o "el ABA daña". No se investigaron.

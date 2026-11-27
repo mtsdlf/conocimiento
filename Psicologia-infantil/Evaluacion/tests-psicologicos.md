@@ -45,7 +45,7 @@ Una prueba puede tener muy buena especificidad y aun así un VPP bajo, porque si
 
 ## Inteligencia: qué dice un informe de CI y qué no
 
-La Escala Wechsler de Inteligencia para Niños, quinta edición (WISC-V), es un test de inteligencia para la edad escolar. Según la ficha de su editorial, se aplica de los 6 años a los 16 años y 11 meses, estima cinco índices (comprensión verbal, espacial visual, razonamiento fluido, memoria de trabajo y velocidad de procesamiento) con 10 subtests, y arma el cociente intelectual (CI) total con siete de ellos. Para los más chicos hay una versión preescolar, que se trata en Crianza.
+La Escala Wechsler de Inteligencia para Niños, quinta edición (WISC-V), es un test de inteligencia para la edad escolar. Según la ficha de su editorial, se aplica de los 6 años a los 16 años y 11 meses, estima cinco índices (comprensión verbal, espacial visual, razonamiento fluido, memoria de trabajo y velocidad de procesamiento) con 10 subtests, y arma el cociente intelectual (CI) total con siete de ellos. Para los más chicos existen versiones preescolares de la familia Wechsler (la WPPSI-IV), que se mencionan en Crianza.
 
 Una reseña independiente (Canivez y Watkins 2016) encontró que solo el índice verbal, el espacial visual y el CI total eran suficientemente estables, y que ninguna lectura del perfil del chico (cuál índice está más alto o más bajo que los otros) era lo bastante confiable para uso clínico (según su resumen). Un estudio de 2023 sobre los perfiles de fortalezas y debilidades del WISC-V llega a una conclusión parecida (de Jong 2023, según su resumen).
 
@@ -64,11 +64,11 @@ El M-CHAT-R/F es un cuestionario de cribado de autismo que completan los padres 
 
 | Dónde se midió | Sensibilidad | Especificidad | VPP |
 |---|---|---|---|
-| Muestra con la que se publicó | 0,83 a 0,85 | 0,95 a 0,99 | 0,465 |
+| Muestra de normas | 0,83 a 0,85 | 0,95 a 0,99 | 0,465 |
 | Metaanálisis de 50 estudios | 0,83 | 0,94 | no registrado |
 | Atención primaria, casi 26.000 chicos de 16 a 30 meses | 38,8 % | 94,9 % | 14,6 % |
 
-En el estudio de atención primaria, de cada 100 chicos que dieron positivo, unos 15 tenían autismo, y el cuestionario detectó a menos de 4 de cada 10 de los que después recibieron el diagnóstico. Un positivo pide una evaluación, no confirma nada; y con esa sensibilidad, un negativo no descarta el autismo si la preocupación sigue.
+En el estudio de atención primaria, de cada 100 chicos que dieron positivo, unos 15 tenían autismo, y el cuestionario detectó a menos de 4 de cada 10 de los que después recibieron el diagnóstico. Un positivo pide una evaluación, no confirma nada; y con esa sensibilidad, según ese estudio, un negativo no descarta el autismo si la preocupación sigue.
 
 La ADOS-2 es una observación estructurada: el profesional propone actividades y juegos fijos y registra cómo el chico se comunica y se relaciona. Tiene módulos según la edad y el nivel de lenguaje. Según un estudio del Kennedy Krieger Institute, con el punto de corte del manual detecta al 95 % o más de los chicos con autismo, pero descarta bien a entre el 63 y el 73 % de los que no lo tienen (módulos 1 a 3); con un corte más alto, la especificidad sube a 76-86 % y la sensibilidad baja a 81-94 % (según su resumen). El mismo estudio sugiere combinarla con cuestionarios para padres, como el SCQ o el SRS. Cómo se diagnostica el autismo está en [autismo](../Psicopatologia/Neurodesarrollo/autismo.md).
 

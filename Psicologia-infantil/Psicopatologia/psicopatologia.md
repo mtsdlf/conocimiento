@@ -40,13 +40,13 @@ Las [señales de alarma](../../Crianza/Desarrollo/senales-de-alarma.md) de Crian
 
 ## Cuántos y cómo se combinan
 
-Según el metaanálisis de Polanczyk (2015), cerca del 13,4 % de los chicos y adolescentes del mundo tiene algún trastorno en un momento dado; en un seguimiento de Estados Unidos, el 36,7 % tuvo alguno en algún momento entre los 9 y los 16 años (Costello 2003). Las dos cifras miden cosas distintas y se explican en [psicopatología del desarrollo](psicopatologia-del-desarrollo.md). Los trastornos infantiles suelen venir juntos: según el CDC, casi 8 de cada 10 chicos con TDAH tienen otra condición. Y cambian con la edad: de 0 a 12 pesan el neurodesarrollo, la ansiedad y la conducta, y la depresión crece hacia la adolescencia.
+Según el metaanálisis de Polanczyk (2015), cerca del 13,4 % de los chicos y adolescentes del mundo tiene algún trastorno en un momento dado; en un seguimiento de Estados Unidos, el 36,7 % tuvo alguno en algún momento entre los 9 y los 16 años (Costello 2003). Las dos cifras miden cosas distintas y se explican en [psicopatología del desarrollo](psicopatologia-del-desarrollo.md). Los trastornos infantiles suelen venir juntos: según el CDC, casi 8 de cada 10 chicos con TDAH tienen otra condición. Y cambian con la edad: en el seguimiento de Costello, la ansiedad de separación y el TDAH bajaban y la depresión subía entre los 9 y los 16 años. Por eso esta vertical se detiene más en el neurodesarrollo, la ansiedad y la conducta que en la depresión.
 
 ## Quién diagnostica y qué se hace
 
-Cada nota dice en breve quién diagnostica ese trastorno y con qué criterios, y en breve qué tratamiento tiene respaldo. El cómo se evalúa está en [quién evalúa](../Evaluacion/quien-evalua.md) y [tests psicológicos](../Evaluacion/tests-psicologicos.md); el detalle de los tratamientos, en [qué funciona para qué](../Intervencion/que-funciona-para-que.md) y [medicación](../Intervencion/medicacion.md). Los criterios vienen de dos manuales, el DSM-5-TR y la CIE-11, que en Argentina conviven, y ninguno de los dos se leyó en su texto oficial para estas notas: cada nota dice de dónde sacó lo que dice.
+Cada nota dice quién diagnostica ese trastorno, con qué criterios y qué tratamiento tiene respaldo, y deja a la vista lo que ninguna fuente leída dice. El cómo se evalúa está en [quién evalúa](../Evaluacion/quien-evalua.md) y [tests psicológicos](../Evaluacion/tests-psicologicos.md); el detalle de los tratamientos, en [qué funciona para qué](../Intervencion/que-funciona-para-que.md) y [medicación](../Intervencion/medicacion.md). Los criterios vienen de dos manuales, el DSM-5-TR y la CIE-11, que en Argentina conviven, y ninguno de los dos se leyó en su texto oficial para estas notas: cada nota dice de dónde sacó lo que dice.
 
-Las críticas a los manuales y la pregunta de si se diagnostica de más se discuten en [Fundamentos](../Fundamentos/fundamentos-de-psicologia-infantil.md); las notas de autismo y TDAH dan la parte que les toca.
+Las críticas a los manuales y la pregunta de si se diagnostica de más se discuten en [debates de psicología infantil](../Fundamentos/debates-de-psicologia-infantil.md); las notas de autismo y TDAH dan la parte que les toca.
 
 ## Qué hay en Psicopatología
 

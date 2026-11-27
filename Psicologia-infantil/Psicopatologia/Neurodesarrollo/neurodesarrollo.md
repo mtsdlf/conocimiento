@@ -29,9 +29,9 @@ Es la parte más pesada de [Psicopatología](../psicopatologia.md), porque de 6 
 Las cinco notas de esta carpeta comparten cuatro rasgos:
 
 - **Empiezan temprano.** Las diferencias están desde el desarrollo, aunque se noten tarde: el TDAH pide síntomas antes de los 12 años, y el autismo puede verse antes del año o recién en la escuela. Por eso los hitos y las [señales de alarma](../../../Crianza/Desarrollo/senales-de-alarma.md) de 0 a 6, que viven en Crianza, son la puerta de entrada.
-- **No tienen una causa única.** En el autismo y el TDAH pesan la genética y factores del embarazo y del nacimiento, según la APA, y las vacunas no causan autismo ([mitos de crianza](../../../Crianza/Fundamentos/mitos-de-crianza.md)).
+- **No tienen una causa única.** En el autismo y el TDAH pesan la genética y factores del embarazo y del nacimiento, según la APA, y la APA dice que no se mostró que las vacunas aumenten la probabilidad de autismo (más en [mitos de crianza](../../../Crianza/Fundamentos/mitos-de-crianza.md)).
 - **Vienen juntos.** Según el CDC, casi 8 de cada 10 chicos con TDAH tienen otra condición; según el Consenso argentino de autismo, cerca de 3 de cada 4 personas con autismo también. Un diagnóstico de esta carpeta pide preguntar por los demás.
-- **Duran.** Son formas de desarrollo más que episodios: el objetivo del tratamiento es que el chico funcione mejor con apoyos, no "curarlo". Es la lectura habitual del campo; las fuentes de estas notas no tratan el curso a largo plazo.
+- **Duran.** Se los suele pensar como formas de desarrollo más que como episodios, y el objetivo del tratamiento como un mejor funcionamiento con apoyos. Es la lectura habitual del campo, no una conclusión de las fuentes de estas notas, que no tratan el curso a largo plazo.
 
 ## Cada uno, su camino
 
@@ -40,7 +40,7 @@ Lo que los separa, y por eso cada uno tiene su nota, es que cada trastorno tiene
 | Trastorno | Quién diagnostica, según las fuentes | Norma argentina | Tratamiento con más respaldo |
 |---|---|---|---|
 | [Autismo](autismo.md) | Equipo de al menos dos profesionales, uno médico (Consenso 2019) | Consenso del Ministerio de Salud 2019, no obligatorio | Intervención temprana con los padres; evidencia débil para la conductual intensiva |
-| [TDAH](tdah.md) | No quedó registrado; no se halló guía argentina | Ninguna específica hallada | Medicación de 5 años en adelante; programa para padres en menores de 5 (NICE, por resumen) |
+| [TDAH](tdah.md) | No quedó registrado; no se halló guía argentina | Ninguna específica hallada | Medicación de 5 a 18 años; programa para padres en menores de 5 (NICE, por resumen) |
 | [Trastornos del aprendizaje](trastornos-del-aprendizaje.md) | Procedimientos a cargo del Consejo Federal de Salud | Ley 27.306 (2016) | No quedó registrado |
 | [Trastornos del lenguaje](trastornos-del-lenguaje.md) | No quedó registrado | Ninguna específica hallada | No quedó registrado |
 | [Discapacidad intelectual](discapacidad-intelectual.md) | No quedó registrado | Ley 24.901 de prestaciones | No quedó registrado |
@@ -49,7 +49,7 @@ Qué hace cada profesional está en [quién evalúa](../../Evaluacion/quien-eval
 
 ## Más diagnósticos, y por qué
 
-Los diagnósticos de autismo y de TDAH crecieron, y la investigación separa cuánto es más problema y cuánto es más detección. En autismo, la vigilancia del CDC encontró 32,2 de cada 1.000 chicos de 8 años en 2022 y dice que no puede probar por qué sube, y un estudio sueco encontró síntomas estables y diagnósticos en aumento (Lundström 2015). En TDAH, los más chicos del grado lo reciben más seguido (85,1 contra 63,6 cada 10.000 en Layton 2018). Los detalles están en cada nota y la discusión entera en [Fundamentos](../../Fundamentos/fundamentos-de-psicologia-infantil.md).
+Los diagnósticos de autismo crecieron, y la investigación separa cuánto es más problema y cuánto es más detección; en TDAH, la edad dentro del grado influye en quién llega al diagnóstico. En autismo, la vigilancia del CDC encontró 32,2 de cada 1.000 chicos de 8 años en 2022 y dice que no puede probar por qué sube, y un estudio sueco encontró síntomas estables y diagnósticos en aumento (Lundström 2015). En TDAH, en estados de Estados Unidos con corte de ingreso en septiembre, los nacidos en agosto lo reciben más seguido que los de septiembre (85,1 contra 63,6 cada 10.000 en Layton 2018). Los detalles están en cada nota y la discusión entera en [debates de psicología infantil](../../Fundamentos/debates-de-psicologia-infantil.md).
 
 ## Cuando la capacidad tapa la dificultad
 

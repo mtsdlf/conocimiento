@@ -22,7 +22,7 @@ El desarrollo moral es cómo se forma el juicio de un chico sobre lo que está b
 El desarrollo moral tiene una parte de sentimiento y una de razonamiento. La primera, la [empatía](../../Crianza/Emociones-y-caracter/empatia-y-valores.md), aparece antes de los 2 años y está en Crianza, con las prácticas de los padres que se asocian con más conducta de ayuda. Esta nota trata la segunda: el juicio moral, es decir, cómo el chico razona y decide qué está bien, y cómo lo estudiaron las teorías.
 
 > [!NOTE]
-> Esta nota se apoya sobre todo en dos enciclopedias de filosofía revisadas por especialistas (la Stanford Encyclopedia of Philosophy, leída en sus primeras tres cuartas partes, y la Internet Encyclopedia of Philosophy) y en una revisión de Killen y Rizzo (2014), las tres leídas. Falta una fuente primaria que relacione el juicio moral con lo que los chicos de 6 a 12 hacen de verdad.
+> Esta nota se apoya sobre todo en dos enciclopedias de filosofía (la Stanford Encyclopedia of Philosophy, revisada por pares y leída en sus primeras tres cuartas partes, y la Internet Encyclopedia of Philosophy) y en una revisión de Killen y Rizzo (2014), las tres leídas. Falta una fuente primaria que relacione el juicio moral con lo que los chicos de 6 a 12 hacen de verdad.
 
 ## Kohlberg: seis estadios en tres niveles
 
@@ -42,7 +42,7 @@ Según la IEP, las réplicas de otros investigadores (Rest, Edelstein y Keller) 
 
 La misma IEP enumera los límites:
 
-- El sexto estadio quedó con "muy pocos datos fiables": casi nadie llega a él.
+- El sexto estadio quedó con "muy pocos datos fiables": la fuente no dice por qué.
 - Muchas personas puntúan entre dos estadios vecinos, no en uno.
 - La muestra original fue solo de varones.
 - Hay una brecha entre el juicio y la acción. En palabras de la IEP, "un razonador del estadio más alto puede ser un hipócrita de alto nivel": razonar bien sobre un dilema no garantiza portarse bien.
@@ -65,7 +65,7 @@ Esto cambia lo que se espera de un chico de 6 a 12: no está pasando de no tener
 ## Las críticas a Turiel
 
 > [!IMPORTANT]
-> La distinción de Turiel está discutida en sus bordes, no en su núcleo. Según la SEP:
+> La distinción de Turiel está discutida. Según la SEP:
 > - Con faltas que cometen adultos (azotes, esclavitud, violación), Kelly y otros (2007) y Fessler y otros (2015) encontraron "salidas bastante dramáticas" del patrón que Turiel predice, aunque sus métodos también se discuten.
 > - Shweder y Haidt sostienen que definir lo moral por el daño "no viaja bien" a otras culturas: en India, muchos actos que no dañan a nadie se juzgan morales. El equipo de Turiel responde que esas personas creían que sí había daño. Según la SEP, "el jurado sigue deliberando".
 > - Nichols propone que lo que separa las normas morales no es el daño sino que vienen cargadas de emoción.
@@ -76,4 +76,4 @@ Saber razonar sobre lo que está bien no alcanza para hacerlo, como mostró la b
 
 ## Qué leer de la SEP y de la IEP
 
-El informe recomienda la entrada "The Moral/Conventional Distinction" de la SEP, secciones 3 (lo que mostró Turiel), 5, 7 y 9 (dónde se discute), y la entrada "Moral Development" de la IEP para Kohlberg y Gilligan. Conviene fijarse en que el eje del campo pasó de los estadios a los dominios. No se encontraron fuentes sobre el desarrollo moral en chicos argentinos.
+Para seguir leyendo sirve la entrada "The Moral/Conventional Distinction" de la SEP, secciones 3 (lo que mostró Turiel), 5, 7 y 9 (dónde se discute), y la entrada "Moral Development" de la IEP para Kohlberg y Gilligan. Conviene tener presente que, según esa lectura, el eje del campo pasó de los estadios a los dominios. No se encontraron fuentes sobre el desarrollo moral en chicos argentinos.

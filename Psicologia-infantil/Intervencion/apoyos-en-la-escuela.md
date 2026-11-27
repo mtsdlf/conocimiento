@@ -47,13 +47,13 @@ Para la familia, lo que deja en claro la norma es que el PPI se acuerda con ella
 
 ## Maestro de apoyo y "maestra integradora"
 
-Lo que en la calle se llama maestra integradora, la Resolución 311/16 lo llama "Maestro de apoyo a la inclusión": un docente de educación especial que trabaja con la escuela común para que el chico pueda aprender ahí. El término "maestra integradora" no aparece en el texto de la resolución, ni tampoco en la ley 24.901 de prestaciones para personas con discapacidad, y los nombres cambian por provincia. Conviene preguntar en la escuela y en la obra social cómo se llama la figura en esa jurisdicción.
+Lo que en la calle se llama maestra integradora, la Resolución 311/16 lo llama "Maestro de apoyo a la inclusión": un docente que trabaja con la escuela común para que el chico pueda aprender ahí (la resolución lo vincula con la modalidad de educación especial). El término "maestra integradora" no aparece en el texto de la resolución, ni tampoco en la ley 24.901 de prestaciones para personas con discapacidad, y los nombres cambian por provincia. Conviene preguntar en la escuela y en la obra social cómo se llama la figura en esa jurisdicción.
 
 ## El acompañante terapéutico es de salud, no de la escuela
 
 El acompañante terapéutico (AT) es una persona que acompaña al chico durante la jornada para ayudarlo a regularse y a participar. A diferencia del maestro de apoyo, es una prestación de salud: la paga la obra social o la prepaga, no el sistema educativo. Las obras sociales no lo tratan igual. IOMA, la obra social de la provincia de Buenos Aires, lo contempla en la escuela común con un tope de horas por prestador; IPROSS, la de Río Negro, dice no tener convenio con acompañantes y solo financiar la prestación. Hay fallos judiciales que ordenaron cubrirlo. El criterio es de cada obra social, y conviene pedirlo por escrito.
 
-Su entrada a la escuela se acuerda con la institución: Santa Fe, por ejemplo, tiene un modelo de acta acuerdo institucional para incorporar acompañantes terapéuticos. Que el AT ayude a aprender no se ha medido: el informe de esta base no encontró evidencia sobre el acompañante terapéutico en sí.
+Su entrada a la escuela se acuerda con la institución: Santa Fe, por ejemplo, tiene un modelo de acta acuerdo institucional para incorporar acompañantes terapéuticos. Si el AT ayuda a aprender no quedó registrado: el informe de esta base no encontró evidencia sobre el acompañante terapéutico en sí.
 
 ## Cada provincia lo aplica a su manera
 

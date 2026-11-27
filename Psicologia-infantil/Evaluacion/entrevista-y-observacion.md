@@ -17,7 +17,7 @@ revisado:
 
 La entrevista y la observación son la base de una evaluación infantil: el profesional pregunta a los padres, a los docentes y al propio chico, y lo mira jugar, hablar y resolver cosas; como cada informante ve una parte, el diagnóstico se apoya en varios y no en uno.
 
-Dentro de la [evaluación](evaluacion-psicologica.md), es la pieza que da el contexto a todo lo demás. Los [tests](tests-psicologicos.md) dicen dónde está un chico respecto de otros de su edad; la entrevista dice qué le pasa en su vida, desde cuándo y dónde. Según una revisión sistemática de 2024 sobre TDAH, la entrevista del clínico y la información de varios informantes sostienen el diagnóstico, y las escalas lo apoyan (según su resumen).
+Dentro de la [evaluación](evaluacion-psicologica.md), es la pieza que da el contexto a todo lo demás. Los [tests](tests-psicologicos.md) dicen dónde está un chico respecto de otros de su edad; la entrevista dice qué le pasa en su vida, desde cuándo y dónde. Según una revisión sistemática de 2024 sobre TDAH, un diagnóstico válido pide el juicio de un clínico con experiencia, escalas estandarizadas e información de varios informantes (según su resumen). La entrevista es donde ese clínico reúne esa información.
 
 ## Lo que se pregunta en la entrevista
 
@@ -50,4 +50,4 @@ Mirar en vivo suma información real. Según un metaanálisis de 2020, lo que lo
 
 ## Lo que no se puede hacer en una sola consulta
 
-Las dos ideas anteriores llevan a una consecuencia práctica: una evaluación seria lleva más de un encuentro y más de una fuente. Según una revisión de alcance de 2021 sobre herramientas de TDAH, ninguna herramienta sola mostró precisión diagnóstica suficiente, y se recomienda combinar métodos (según su resumen). Un diagnóstico que sale de una única entrevista, sin datos de la escuela ni observación, va contra lo que recomiendan esas revisiones. Las revisiones citadas son sobre TDAH; para otros cuadros, cada nota de [psicopatología](../Psicopatologia/psicopatologia.md) dice qué piden sus criterios.
+Las dos ideas anteriores llevan a una consecuencia práctica: una evaluación seria lleva más de un encuentro y más de una fuente. Según una revisión de alcance de 2021 sobre herramientas de TDAH, ninguna herramienta sola mostró precisión diagnóstica suficiente, y se recomienda combinar métodos (según su resumen). Un diagnóstico que sale de una única entrevista, sin datos de la escuela ni observación, no sigue lo que recomiendan esas revisiones. Las revisiones citadas son sobre TDAH; para otros cuadros, cada nota de [psicopatología](../Psicopatologia/psicopatologia.md) dice qué piden sus criterios.

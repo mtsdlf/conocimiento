@@ -72,7 +72,7 @@ La ley no define bullying ni obliga a usar un programa en particular. Las modifi
 
 ## Qué hacer si le pasa
 
-La evidencia de esta nota es sobre programas de escuela, no sobre qué hace una familia. Como criterio propio, no de una fuente: ante un acoso, conviene hablar con la escuela, que por ley tiene que intervenir, y consultar con un profesional si el chico muestra tristeza, miedo o ansiedad que duran. Lo que se separa de lo esperable está en [ansiedad y miedos](../Psicopatologia/ansiedad-y-miedos.md) y [depresión infantil](../Psicopatologia/depresion-infantil.md). Si el chico es el que agrede, lo que pesa del lado de la conducta está en [trastornos de conducta](../Psicopatologia/trastornos-de-conducta.md).
+La evidencia de esta nota es sobre programas de escuela, no sobre qué hace una familia. Como criterio propio, no de una fuente: ante un acoso, conviene hablar con la escuela y consultar con un profesional si el chico muestra tristeza, miedo o ansiedad que duran. Lo que se separa de lo esperable está en [ansiedad y miedos](../Psicopatologia/ansiedad-y-miedos.md) y [depresión infantil](../Psicopatologia/depresion-infantil.md). Si el chico es el que agrede, lo que pesa del lado de la conducta está en [trastornos de conducta](../Psicopatologia/trastornos-de-conducta.md).
 
 > [!NOTE]
 > Sin fuente todavía: datos oficiales argentinos de acoso en sentido estricto, prevalencia de ciberacoso a los 10 a 12 años, evaluaciones de programas en Argentina y una revisión Cochrane sobre programas contra el acoso.

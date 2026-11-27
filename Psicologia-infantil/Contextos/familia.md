@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La investigación sobre la familia encuentra que los hijos de padres divorciados están algo peor en promedio que los de familias que siguen juntas, con efectos chicos, y que lo que más pesa es el conflicto entre los padres, vivan juntos o no; entre hermanos, también pesa más el conflicto que la falta de calidez.
+  La investigación sobre la familia encuentra que los hijos de padres divorciados están algo peor en promedio que los de familias que siguen juntas, con una brecha que parece chica (las cifras no se verificaron), y que los resultados empeoran con el conflicto entre los padres, vivan juntos o no; entre hermanos, el conflicto pesa más que la falta de calidez.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -18,15 +18,15 @@ revisado:
 
 # Familia
 
-La investigación sobre la familia encuentra que los hijos de padres divorciados están algo peor en promedio que los de familias que siguen juntas, con efectos chicos, y que lo que más pesa es el conflicto entre los padres, vivan juntos o no; entre hermanos, también pesa más el conflicto que la falta de calidez.
+La investigación sobre la familia encuentra que los hijos de padres divorciados están algo peor en promedio que los de familias que siguen juntas, con una brecha que parece chica (las cifras no se verificaron), y que los resultados empeoran con el conflicto entre los padres, vivan juntos o no; entre hermanos, el conflicto pesa más que la falta de calidez.
 
 Esta nota dice qué efecto tiene cada cosa según los estudios. Cómo acompañar a un chico en una separación o un duelo está en [cambios difíciles](../../Crianza/Emociones-y-caracter/cambios-dificiles.md), y cómo siguen criando juntos los adultos después de separarse, en [cuidadores](../../Crianza/Vinculo/cuidadores.md).
 
 ## Lo que se mide cuando se habla de divorcio
 
-El estudio de referencia es un metaanálisis, que junta los resultados de muchos estudios para sacar un efecto promedio. Amato y Keith lo hicieron en 1991 con 92 estudios, y Amato lo actualizó en 2001 con 67 estudios publicados en los años noventa. Según el resumen de la actualización, los hijos de padres divorciados seguían puntuando por debajo de los hijos de padres casados en rendimiento escolar, conducta, ajuste psicológico, autoconcepto y relaciones sociales. La brecha se achicó en los ochenta y volvió a crecer en los noventa.
+El estudio de referencia es un metaanálisis, que junta los resultados de muchos estudios para sacar un efecto promedio. Amato y Keith lo hicieron en 1991 con 92 estudios, y Amato lo actualizó en 2001 con 67 estudios publicados en los años noventa. Según el resumen de la actualización, los hijos de padres divorciados seguían puntuando por debajo de los hijos de padres casados en rendimiento escolar, conducta, ajuste psicológico, autoconcepto y relaciones sociales. Para el rendimiento, el bienestar psicológico, el autoconcepto y las relaciones sociales, la brecha se achicó en los ochenta y volvió a crecer en los noventa.
 
-La distancia entre los dos grupos es chica. Según un resumen del buscador, el metaanálisis de 1991 dio una mediana de 0,14 desvíos estándar, con los efectos más grandes en la conducta y en la relación con el padre, y la actualización dio 0,19. Esas cifras no se verificaron en el texto de los artículos; son las mismas que trae [cambios difíciles](../../Crianza/Emociones-y-caracter/cambios-dificiles.md). Un efecto de ese tamaño quiere decir que los dos grupos se superponen casi por completo.
+La distancia entre los dos grupos es chica. Según un resumen del buscador, el metaanálisis de 1991 dio una mediana de 0,14 desvíos estándar, con los efectos más grandes en la conducta y en la relación con el padre, y la actualización dio 0,19. Esas cifras no se verificaron en el texto de los artículos; [cambios difíciles](../../Crianza/Emociones-y-caracter/cambios-dificiles.md) trae las mismas con la misma salvedad. Como lectura propia, un efecto de ese tamaño quiere decir que los dos grupos se superponen casi por completo.
 
 Una lectura propia, que no figura en los resúmenes leídos: con efectos así de chicos, es probable que la mayoría de los hijos de padres divorciados no desarrolle problemas clínicos. Para afirmarlo con fuente falta leer el cuerpo de la revisión de Lansford (2009).
 
@@ -41,11 +41,11 @@ El divorcio no actúa solo: llega con cambios que pesan por su cuenta. La revisi
 
 Dos de esos mediadores tienen nota en Crianza: cómo crían los adultos, en [estilos de crianza](../../Crianza/Limites-y-autonomia/estilos-de-crianza.md), y cómo están ellos, en [bienestar de los padres](../../Crianza/Vinculo/bienestar-de-los-padres.md). Según el resumen del buscador, de las teorías que Amato y Keith pusieron a prueba en 1991, la del conflicto familiar fue la más consistente.
 
-## El conflicto entre los padres pesa más que el estado civil
+## El conflicto entre los padres pesa, estén o no juntos
 
-La revisión de Harold y Sellers (2018) es la que mejor ordena el tema. Según su resumen, a los chicos los afecta cómo expresan y manejan los padres sus conflictos, en un continuo que va del silencio a la violencia. Sus resultados emocionales, de conducta, sociales y escolares empeoran con el conflicto entre los padres, estén casados o separados.
+La revisión de Harold y Sellers (2018) trata el conflicto entre los padres y la salud mental de los chicos. Según su resumen, a los chicos los afecta cómo expresan y manejan los padres sus conflictos, en un continuo que va del silencio a la violencia. Sus resultados emocionales, de conducta, sociales y escolares empeoran con el conflicto entre los padres, estén casados o separados.
 
-Para explicar por qué, Davies y Cummings (1994) propusieron la hipótesis de la seguridad emocional: el chico necesita sentir que la familia es un lugar seguro, y el conflicto entre sus padres amenaza esa seguridad. Esa preocupación cambia cómo se activa emocionalmente y cómo reacciona ante cada pelea. La idea se apoya en la teoría del [apego](../../Crianza/Vinculo/apego.md). Es una teoría con apoyo, no un resultado cerrado.
+Para explicar por qué, Davies y Cummings (1994) propusieron la hipótesis de la seguridad emocional: el conflicto entre los padres afecta al chico a través de su seguridad emocional. Según el resumen, las preocupaciones por esa seguridad intervienen en cómo regula su activación emocional y en cómo responde al conflicto. La idea se apoya en la teoría del [apego](../../Crianza/Vinculo/apego.md). Es una propuesta teórica, no un resultado probado.
 
 La consecuencia práctica, como lectura propia: separarse o no separarse importa menos para el chico que cuánto y cómo se pelean los adultos delante de él, antes y después.
 
@@ -53,11 +53,11 @@ La consecuencia práctica, como lectura propia: separarse o no separarse importa
 
 Un metaanálisis de Buist, Dekovic y Prinzie (2013), con 34 estudios y 12.257 chicos, encontró que una relación entre hermanos con más calidez, menos conflicto y menos trato diferencial de los padres se asocia con menos problemas internalizantes (los que van hacia adentro, como la ansiedad y la tristeza) y externalizantes (los que van hacia afuera, como la agresión y la desobediencia). El conflicto pesó más que la calidez. Los efectos fueron mayores cuando los hermanos se llevaban menos años y en la niñez que en la adolescencia.
 
-Es un resultado correlacional: muestra que las dos cosas van juntas, no que la relación entre hermanos cause los problemas. Puede pasar al revés, que un chico con más problemas pelee más con sus hermanos. La llegada de un hermanito en sí, con los celos y retrocesos de los primeros meses, está en [cambios difíciles](../../Crianza/Emociones-y-caracter/cambios-dificiles.md).
+Es un resultado correlacional: muestra que las dos cosas van juntas, no que la relación entre hermanos cause los problemas. Como lectura propia, puede pasar al revés: que un chico con más problemas pelee más con sus hermanos. La llegada de un hermanito en sí, con los celos y retrocesos de los primeros meses, está en [cambios difíciles](../../Crianza/Emociones-y-caracter/cambios-dificiles.md).
 
 ## Por qué estos estudios no prueban causa
 
-Nadie asigna al azar un divorcio, así que las familias que se separan y las que no difieren en muchas cosas antes de la separación: el conflicto previo, el ingreso, la salud de los padres. Por eso Lansford mira cómo estaba el chico antes. A eso se suma que padres e hijos comparten genes, lo que se discute en [cuánto pesa la crianza](../../Crianza/Fundamentos/cuanto-pesa-la-crianza.md). Cómo leer un estudio observacional está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
+Nadie asigna al azar un divorcio, así que las familias que se separan y las que no difieren en muchas cosas antes de la separación: el conflicto previo, el ingreso, la salud de los padres. Lansford incluye cómo estaba el chico antes del divorcio entre los moderadores que revisa; ninguna fuente leída dice por qué. A eso se suma que padres e hijos comparten genes, lo que se discute en [cuánto pesa la crianza](../../Crianza/Fundamentos/cuanto-pesa-la-crianza.md). Cómo leer un estudio observacional está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
 
 > [!NOTE]
 > Sin fuente todavía: estudios sobre las distintas estructuras de familia (monoparental, ensamblada, de padres del mismo sexo), sobre la tenencia compartida, que es un tema discutido, y datos de Argentina. Tampoco se verificaron en el texto los tamaños del efecto de Amato.

@@ -48,7 +48,7 @@ La Ley 27.306 se sancionó el 19 de octubre de 2016, se publicó en el Boletín 
 
 ## Quién lo diagnostica
 
-La Ley 27.306 deja al Consejo Federal de Salud los procedimientos de detección y diagnóstico, y pone a la escuela en la detección temprana: por eso el camino junta al sistema de educación y al de salud. Las fuentes de esta nota no dicen qué profesional hace el diagnóstico; en general intervienen el psicopedagogo, el fonoaudiólogo y el psicólogo, y a veces el neurólogo infantil, con los criterios del DSM-5-TR o de la CIE-11. Qué hace cada uno está en [quién evalúa](../../Evaluacion/quien-evalua.md), y qué miden las pruebas de lectura, de cálculo y de inteligencia, en [tests psicológicos](../../Evaluacion/tests-psicologicos.md).
+La Ley 27.306 deja al Consejo Federal de Salud los procedimientos de detección y diagnóstico, y pone a la escuela en la detección temprana: por eso el camino junta al sistema de educación y al de salud. Las fuentes de esta nota no dicen qué profesional hace el diagnóstico. Como lectura habitual, sin fuente leída, intervienen el psicopedagogo, el fonoaudiólogo y el psicólogo, y a veces el neurólogo infantil, con los criterios del DSM-5-TR o de la CIE-11. Qué hace cada uno está en [quién evalúa](../../Evaluacion/quien-evalua.md), y qué miden las pruebas de lectura, de cálculo y de inteligencia, en [tests psicológicos](../../Evaluacion/tests-psicologicos.md).
 
 ## Qué ayuda
 

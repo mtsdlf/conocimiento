@@ -35,7 +35,7 @@ La diferencia pesa en los números. El metaanálisis de Polanczyk y colegas (201
 
 ## Normal o no según la edad
 
-Casi ninguna conducta es un problema por sí sola en un chico. Llorar al separarse es esperable a los 2 años y raro a los 10; los [berrinches](../../Crianza/Emociones-y-caracter/berrinches.md) son normales a los 3 y llaman la atención si siguen frecuentes después de los 5. Por eso los manuales piden que los síntomas sean más intensos o duraderos que "lo esperable para la edad o el nivel de desarrollo", como dice la APA al describir el TDAH (según su resumen).
+Casi ninguna conducta es un problema por sí sola en un chico. Llorar al separarse es esperable en los más chicos, y en el seguimiento de Costello la ansiedad de separación bajaba con la edad; los [berrinches](../../Crianza/Emociones-y-caracter/berrinches.md) son normales entre el año y los 4 años y, según Crianza, llaman la atención si siguen frecuentes después de los 5. Por eso los manuales piden que los síntomas sean más intensos o duraderos que "lo esperable para la edad o el nivel de desarrollo", como dice la APA al describir el TDAH (según su resumen).
 
 Lo que ayuda a separar lo normal de lo que no es mirar tres cosas: la intensidad comparada con chicos de la misma edad, cuánto dura y cuánto le impide hacer su vida. Las [señales de alarma](../../Crianza/Desarrollo/senales-de-alarma.md) de Crianza cubren el desarrollo de 0 a 6 (lenguaje, motricidad, relación con otros); las emocionales y de conducta se tratan en la nota de cada trastorno. El [temperamento](../../Crianza/Emociones-y-caracter/temperamento.md) y la [regulación emocional](../../Crianza/Emociones-y-caracter/regulacion-emocional.md) explican buena parte de las diferencias normales entre chicos.
 
@@ -51,7 +51,7 @@ En Argentina conviven los dos. El Consenso del Ministerio de Salud sobre autismo
 > [!WARNING]
 > Ningún criterio de esta vertical se leyó en el texto oficial del DSM-5-TR (es de pago) ni de la CIE-11 (la página de la OMS no se pudo abrir). Lo que las notas dicen de los criterios sale de páginas públicas de la APA y del CDC, del Consenso argentino de autismo o de resúmenes de terceros, y cada nota dice cuál.
 
-Qué tan confiables son estos diagnósticos y las críticas al DSM se discuten en [Fundamentos](../Fundamentos/fundamentos-de-psicologia-infantil.md).
+Qué tan confiables son estos diagnósticos y las críticas al DSM se discuten en [debates de psicología infantil](../Fundamentos/debates-de-psicologia-infantil.md#que-tan-confiable-es-el-dsm-con-chicos).
 
 ## Cuántos chicos tienen un trastorno
 
@@ -69,7 +69,7 @@ Polanczyk encontró que las cifras de cada estudio variaban por cómo se armó l
 
 ## Los trastornos vienen juntos
 
-Comorbilidad es que un mismo chico tenga dos o más trastornos a la vez. En la infancia es frecuente. Una revisión clásica (Angold, Costello y Erkanli 1999, según su ficha) encontró comorbilidad alta entre ansiedad, depresión, TDAH y trastorno oposicionista aun después de descontar errores de método.
+Comorbilidad es que un mismo chico tenga dos o más trastornos a la vez, y en la infancia es frecuente. Una revisión clásica (Angold, Costello y Erkanli 1999, según su ficha) encontró comorbilidad alta entre ansiedad, depresión, TDAH y trastorno oposicionista aun después de descontar errores de método.
 
 Dos ejemplos con cifra. Según el CDC, en una encuesta a padres de Estados Unidos, "nearly 78%" de los chicos con TDAH tenía al menos otra condición, casi la mitad un problema de conducta y unos 4 de cada 10 ansiedad. Según el Consenso argentino de autismo, que cita a la OMS (2017), "alrededor del 75%" de las personas con autismo tiene además otra condición psiquiátrica. La consecuencia práctica es que un diagnóstico no cierra la pregunta: conviene preguntar al profesional qué más miró.
 
@@ -82,7 +82,7 @@ En el seguimiento de Costello (según su resumen), un diagnóstico previo multip
 Algunos trastornos que el campo trata aparte no tienen nota propia acá:
 
 - El trastorno de estrés postraumático y las reacciones al abuso o a otras experiencias graves están en [adversidad y trauma](../Contextos/adversidad-y-trauma.md), porque se entienden junto a lo que los causa.
-- El trastorno bipolar, las autolesiones y la conducta suicida, y los trastornos de la conducta alimentaria clásicos (anorexia, bulimia) aparecen sobre todo en la adolescencia, que queda fuera de este tema. La lista de la Sociedad de Psicología Clínica Infantil de la APA los incluye entre los trastornos de chicos y adolescentes (según su índice).
+- El trastorno bipolar, las autolesiones y la conducta suicida, y los trastornos de la conducta alimentaria clásicos (anorexia, bulimia) quedan en su mayoría fuera de los 0 a 12, y la adolescencia no entra en este tema. La lista de la Sociedad de Psicología Clínica Infantil de la APA los incluye entre los trastornos de chicos y adolescentes (según su índice).
 - El trastorno de evitación o restricción de la ingesta de alimentos (ARFID), que sí aparece en la infancia, está en [otros trastornos](otros-trastornos.md).
 
 Ante cualquiera de ellos en un chico de menos de 12, la consulta es con un profesional de salud mental infantil, y [quién evalúa](../Evaluacion/quien-evalua.md) dice con quién.

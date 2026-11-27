@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Los pares son los otros chicos de la misma edad; entre los 6 y los 12 la amistad, las antipatías y la victimización se asocian con la soledad y la tristeza de un chico, con efectos chicos y una dirección que va para los dos lados, y lo que más pesa es la calidad de la amistad más que el número de amigos.
+  Los pares son los otros chicos de la misma edad; en la niñez y la adolescencia la amistad, las antipatías y la victimización se asocian con la soledad y la tristeza de un chico, con efectos chicos y una dirección causal que no está resuelta, y la calidad negativa de la amistad pesa más que el número de amigos.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -16,11 +16,11 @@ revisado:
 
 # Pares y amistad
 
-Los pares son los otros chicos de la misma edad; entre los 6 y los 12 la amistad, las antipatías y la victimización se asocian con la soledad y la tristeza de un chico, con efectos chicos y una dirección que va para los dos lados, y lo que más pesa es la calidad de la amistad más que el número de amigos.
+Los pares son los otros chicos de la misma edad; en la niñez y la adolescencia la amistad, las antipatías y la victimización se asocian con la soledad y la tristeza de un chico, con efectos chicos y una dirección causal que no está resuelta, y la calidad negativa de la amistad pesa más que el número de amigos.
 
-Las primeras amistades, en el jardín y en el juego, están en Crianza: [escuela](../../Crianza/Escuela/escuela.md) y [juego libre](../../Crianza/Juego-y-aprendizaje/juego-libre.md). Esta nota suma lo que mide la investigación de 6 a 12. El acoso, que para la disciplina es una forma de relación entre pares, tiene nota propia en [acoso escolar](acoso-escolar.md), porque tiene programas con evidencia.
+Las primeras amistades, en el jardín y en el juego, están en Crianza: [escuela](../../Crianza/Escuela/escuela.md) y [juego libre](../../Crianza/Juego-y-aprendizaje/juego-libre.md). Esta nota suma lo que mide la investigación con chicos en edad escolar; algunos estudios incluyen adolescentes, y de los metaanálisis no quedó registrado qué edades cubren. El acoso, que para la disciplina es una forma de relación entre pares, tiene nota propia en [acoso escolar](acoso-escolar.md), porque tiene programas con evidencia.
 
-## La calidad de la amistad pesa más que la cantidad de amigos
+## La calidad negativa de la amistad pesa más que la cantidad de amigos
 
 El trabajo más amplio es de Schwartz-Mette y colegas (2020): reúne 16 metaanálisis, con 589 efectos de 233 estudios, sobre la amistad y dos resultados, los síntomas depresivos y la soledad. Según su resumen, la amistad se mide de tres maneras: cuántos amigos tiene el chico, la calidad positiva de esas amistades y su calidad negativa.
 
@@ -41,13 +41,13 @@ En los adolescentes, el contagio depresivo pasó por la co-rumiación, que es re
 
 ## Las antipatías también cuentan
 
-Una antipatía mutua es una relación en la que dos chicos se caen mal el uno al otro. Un metaanálisis de Card (2010), con 26 estudios, encontró que el 35 % de los chicos tiene al menos una. Se asocian con problemas internalizantes (los que van hacia adentro, como la ansiedad y la tristeza) y externalizantes (los que van hacia afuera, como la agresión), con menor rendimiento escolar, con ser víctima de otros y con el rechazo. Las diferencias entre varones y niñas fueron triviales.
+Una antipatía mutua es una relación en la que dos chicos se caen mal el uno al otro. Un metaanálisis de Card (2010), con 26 estudios, encontró que el 35 % de los chicos tiene una. Se asocian con problemas internalizantes (los que van hacia adentro, como la ansiedad y la tristeza) y externalizantes (los que van hacia afuera, como la agresión), con menor rendimiento escolar, con ser víctima de otros y con el rechazo. Las diferencias entre varones y niñas fueron triviales.
 
-Que un tercio de los chicos tenga una antipatía mutua sugiere, como lectura propia, que tener a alguien que le cae mal es común y no es por sí solo una señal de problema.
+Como lectura propia, que más de un tercio de los chicos tenga una antipatía mutua indica que es común, aunque se asocia con más problemas; el estudio no permite decir cuándo una antipatía suelta preocupa.
 
 ## Ser víctima y estar mal se alimentan entre sí
 
-La victimización por pares es ser blanco de agresiones de otros chicos, de cualquier tipo. Un metaanálisis de Reijntjes y colegas (2010), con 18 estudios que siguieron a 13.978 chicos a lo largo del tiempo, encontró que los problemas internalizantes son a la vez antecedente y consecuencia de la victimización. Un chico ansioso o triste es más fácil de victimizar, y la victimización lo pone más ansioso o triste. Ese círculo es lo que justifica intervenir temprano, y lo que hace la escuela al respecto está en [acoso escolar](acoso-escolar.md).
+La victimización por pares es ser blanco de agresiones de otros chicos, de cualquier tipo. Un metaanálisis de Reijntjes y colegas (2010), con 18 estudios que siguieron a 13.978 chicos a lo largo del tiempo, encontró que los problemas internalizantes son a la vez antecedente y consecuencia de la victimización. Un chico ansioso o triste es más fácil de victimizar, y la victimización lo pone más ansioso o triste. Como inferencia propia, ese círculo sería una razón para intervenir temprano; lo que hace la escuela al respecto está en [acoso escolar](acoso-escolar.md).
 
 ## Por qué el grupo pesa tanto
 

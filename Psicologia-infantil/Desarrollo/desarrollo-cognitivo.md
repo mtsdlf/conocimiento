@@ -35,7 +35,7 @@ La prueba clásica es la de falsa creencia. El chico ve que un personaje guarda 
 
 Un metaanálisis de 178 estudios (Wellman, Cross y Watson 2001, según su resumen) encontró que, en todos los países y en todas las variantes de la prueba, los chicos pasan durante los años de preescolar de responder peor que el azar a responder mejor. Un modelo con la edad, el país y cuatro rasgos de la tarea explicó el 55 % de las diferencias en el rendimiento. Los autores lo leen como un cambio real en cómo el chico entiende la mente, no como un efecto de cómo se arma la prueba.
 
-Un metaanálisis posterior, de 2020, discute un detalle: a los 3 años los chicos aciertan más cuando se les pregunta por su propio cambio de idea que por el de otro, y los más grandes al revés (según su resumen). No cambia la conclusión general.
+Un metaanálisis posterior, de 2020, discute un detalle: a los 3 años los chicos aciertan más cuando se les pregunta por su propio cambio de idea que por el de otro, y los más grandes al revés (según su resumen).
 
 ## De los 6 a los 12: lo que uno cree que el otro cree
 
@@ -49,20 +49,20 @@ Esto importa en la vida diaria de un chico de esa edad: entender una mentira pia
 
 La memoria de trabajo es la capacidad de mantener información en la cabeza mientras se la usa, como recordar los números de una cuenta mientras se la resuelve. Es una de las [funciones ejecutivas](../../Crianza/Emociones-y-caracter/funciones-ejecutivas.md), y cómo funciona en adultos está en [memoria](../../Psicologia/Aprendizaje-y-memoria/memoria.md).
 
-Gathercole y otros (2004) midieron a 736 chicos de 4 a 15 años. Según su resumen, la capacidad de guardar información verbal y visual-espacial y la de manipular información verbal aumentaron de forma lineal con la edad, y el modelo de memoria de trabajo de tres componentes que se usa en adultos ya describía bien a los chicos desde los 6 años. Una revisión dice que el aumento sigue hasta los 12 y se estabiliza hacia los 15, sin cifras que se hayan podido verificar.
+Gathercole y otros (2004) midieron a 736 chicos de 4 a 15 años. Según su resumen, la capacidad de guardar información verbal y visual-espacial y la de manipular información verbal aumentaron de forma lineal con la edad, y el modelo de memoria de trabajo de tres componentes ya describía bien a los chicos desde los 6 años. Una revisión dice que el aumento sigue hasta los 12 y se estabiliza hacia los 15, sin cifras que se hayan podido verificar.
 
 ## Las estrategias para recordar aparecen hacia los 6 o 7
 
 Una estrategia de memoria es algo que uno hace a propósito para recordar: repetir, agrupar lo que va junto o relacionarlo con algo que ya sabe. Según la revisión de Schneider, leída por su resumen, estas estrategias rara vez aparecen antes de los 6 o 7 años. Durante un tiempo se explicó con un "déficit de producción": el chico chico podría usarlas pero no lo hace por su cuenta. Con más estudios, el desarrollo de las estrategias resultó más gradual de lo que se suponía, y pesan mucho lo que el chico ya sabe del tema y lo que sabe sobre su propia memoria.
 
-Esto encaja con las olas superpuestas de Siegler, que están en [teorías del desarrollo](teorias-del-desarrollo.md): un chico de 8 años no "tiene" o "no tiene" una estrategia, sino que alterna entre varias y de a poco usa más la mejor. Las estrategias que funcionan para estudiar, ya en adultos, están en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md).
+Esto se parece a las olas superpuestas de Siegler, que están en [teorías del desarrollo](teorias-del-desarrollo.md) (lectura propia): un chico de 8 años no "tiene" o "no tiene" una estrategia, sino que alterna entre varias y de a poco usa más la mejor. Las estrategias que funcionan para estudiar, ya en adultos, están en [práctica espaciada y recuperación](../../Psicologia/Aprendizaje-y-memoria/practica-espaciada-y-recuperacion.md).
 
 ## Pensar sobre el propio pensar
 
-La metacognición es el conocimiento y el control del propio pensamiento: darse cuenta de que uno no entendió, planificar cómo encarar una tarea, revisar si está saliendo. El término viene de Flavell (1979), cuyo trabajo sobre el monitoreo del pensamiento no se leyó entero.
+La metacognición es el conocimiento y el control del propio pensamiento: darse cuenta de que uno no entendió, planificar cómo encarar una tarea, revisar si está saliendo. El trabajo de referencia sobre el monitoreo del pensamiento es el de Flavell (1979), que no se leyó.
 
-Según Eccles (1999), hacia los 6 años los chicos empiezan a razonar en el sentido cotidiano y aprenden que estudiar y practicar mejora lo que hacen. Empiezan a planificar, a evaluar su avance y a ajustar, y "es durante la niñez media que estas habilidades se vuelven salientes y conscientes". Es lo que la escuela primaria empieza a pedir, y lo que se cruza con el rendimiento escolar en [escuela y aprendizaje](../Contextos/escuela-y-aprendizaje.md). La misma conciencia de sí que permite ajustar una estrategia es la que permite compararse con otros, que está en [autoconcepto y autoestima](autoconcepto-y-autoestima.md).
+Según Eccles (1999), hacia los 6 años los chicos empiezan a razonar en el sentido cotidiano y aprenden que estudiar y practicar mejora lo que hacen. Empiezan a planificar, a evaluar su avance y a ajustar, y "es durante la niñez media que estas habilidades se vuelven salientes y conscientes". Es lo que la escuela primaria empieza a pedir (inferencia propia), y se cruza con el rendimiento escolar en [escuela y aprendizaje](../Contextos/escuela-y-aprendizaje.md). Esa conciencia de sí podría ser también la que permite compararse con otros (inferencia propia); eso está en [autoconcepto y autoestima](autoconcepto-y-autoestima.md).
 
 ## Qué leer de Wellman y de Gathercole
 
-El informe recomienda el resumen y el gráfico por edad de Wellman, Cross y Watson (2001) para la teoría de la mente, fijándose en que "teoría de la mente" es un conjunto de pruebas distintas y que la edad en que se resuelven cambia con el formato. Para la memoria, Gathercole y otros (2004).
+Para la teoría de la mente conviene leer el resumen y el gráfico por edad de Wellman, Cross y Watson (2001), teniendo en cuenta que "teoría de la mente" es un conjunto de pruebas distintas y que la edad en que se resuelven cambia con el formato. Para la memoria, Gathercole y otros (2004).

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La escuela es el contexto donde un chico de 6 a 12 aprende y se mide con otros; sobre su motivación y su rendimiento hay menos evidencia de la que se cree: la mentalidad de crecimiento pesa poco salvo en algunos chicos, la ayuda de los padres con la tarea sirve cuando apoya la autonomía, y en Argentina una ley protege a los chicos con dificultades específicas del aprendizaje.
+  La escuela es el contexto donde un chico de 6 a 12 aprende y se mide con otros; sobre su motivación y su rendimiento hay menos evidencia de la que se cree: la mentalidad de crecimiento pesa poco salvo en algunos chicos, de la ayuda de los padres con la tarea solo el apoyo a la autonomía se asocia con mejor rendimiento, y en Argentina una ley protege a los chicos con dificultades específicas del aprendizaje.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -18,7 +18,7 @@ revisado:
 
 # Escuela y aprendizaje
 
-La escuela es el contexto donde un chico de 6 a 12 aprende y se mide con otros; sobre su motivación y su rendimiento hay menos evidencia de la que se cree: la mentalidad de crecimiento pesa poco salvo en algunos chicos, la ayuda de los padres con la tarea sirve cuando apoya la autonomía, y en Argentina una ley protege a los chicos con dificultades específicas del aprendizaje.
+La escuela es el contexto donde un chico de 6 a 12 aprende y se mide con otros; sobre su motivación y su rendimiento hay menos evidencia de la que se cree: la mentalidad de crecimiento pesa poco salvo en algunos chicos, de la ayuda de los padres con la tarea solo el apoyo a la autonomía se asocia con mejor rendimiento, y en Argentina una ley protege a los chicos con dificultades específicas del aprendizaje.
 
 Esta nota trata lo que la escuela le hace al chico: su motivación, su rendimiento, la relación con lo que se le pide. El jardín y la adaptación están en Crianza, en [escuela](../../Crianza/Escuela/escuela.md) y [adaptación](../../Crianza/Escuela/adaptacion.md). Lo clínico vive en otras notas de este tema: las dificultades del aprendizaje como trastorno en [trastornos del aprendizaje](../Psicopatologia/Neurodesarrollo/trastornos-del-aprendizaje.md), y las adaptaciones, la integración y el acompañante en [apoyos en la escuela](../Intervencion/apoyos-en-la-escuela.md). Qué cambia en el pensamiento entre los 6 y los 12 está en [desarrollo cognitivo](../Desarrollo/desarrollo-cognitivo.md) y [niñez media](../Desarrollo/ninez-media.md).
 
@@ -30,13 +30,13 @@ Sisk y colegas (2018) hicieron dos metaanálisis. El primero, con 273 estudios y
 
 Yeager y colegas (2019) probaron una intervención en línea de menos de una hora con una muestra nacional representativa de estudiantes secundarios de Estados Unidos. Mejoró las notas de los que rendían menos y la inscripción a matemática avanzada, y el efecto se sostuvo donde las normas de los compañeros acompañaban el mensaje. Es un estudio de secundaria, no de 6 a 12.
 
-Las dos fuentes no se contradicen: el efecto promedio es débil, y se concentra en algunos chicos y en escuelas donde el entorno lo acompaña. Para Argentina no se encontró evidencia propia.
+Como lectura propia, las dos fuentes no se contradicen: el efecto promedio es débil, y el efecto parece depender de qué chicos y de qué escuela. Para Argentina no se encontró evidencia propia.
 
-## La ayuda con la tarea: más no es mejor
+## La ayuda con la tarea y el rendimiento
 
 Un metaanálisis de Xu y colegas (2024), con 28 estudios, 252 efectos y 378.222 participantes, encontró una relación global débil y negativa entre la participación de los padres en la tarea y el rendimiento (r = -0,064). La r es una correlación, que va de -1 a 1; una de -0,064 es muy débil. Solo una forma de participar se asoció con mejor rendimiento: el apoyo a la autonomía, que es acompañar para que el chico haga la tarea por su cuenta.
 
-Que la relación sea negativa no quiere decir que ayudar empeore las notas. Los datos son correlacionales, y lo más probable es que los padres ayuden más a los chicos que van peor. Como lectura propia, el resultado sugiere que sentarse a hacer la tarea con el chico no es lo mismo que darle herramientas para hacerla solo. La autonomía en general, y por qué importa, está en [autodeterminación](../../Psicologia/Motivacion-y-emocion/autodeterminacion.md) de Psicología.
+Que la relación sea negativa no quiere decir que ayudar empeore las notas. Los datos son correlacionales, y una explicación posible, que el estudio no prueba, es que los padres ayudan más a los chicos que van peor. Como lectura propia, el resultado sugiere que sentarse a hacer la tarea con el chico no es lo mismo que darle herramientas para hacerla solo. La autonomía en general, y por qué importa, está en [autodeterminación](../../Psicologia/Motivacion-y-emocion/autodeterminacion.md) de Psicología.
 
 ## La motivación y el aprendizaje en general
 
@@ -44,7 +44,7 @@ Cómo funciona la motivación, qué la sostiene y qué la apaga, son mecanismos 
 
 ## La ley de dificultades específicas del aprendizaje
 
-En Argentina, la Ley 27.306, de 2016, tiene como objetivo garantizar el derecho a la educación de quienes tienen Dificultades Específicas del Aprendizaje (DEA). Las define como alteraciones de base neurobiológica que afectan los procesos cognitivos relacionados con el lenguaje, la lectura, la escritura o el cálculo matemático (art. 3). Una dificultad específica con la lectura, como la dislexia, entra en esa definición.
+En Argentina, la Ley 27.306, de 2016, tiene como objetivo garantizar el derecho a la educación de quienes tienen Dificultades Específicas del Aprendizaje (DEA). Las define como alteraciones de base neurobiológica que afectan los procesos cognitivos relacionados con el lenguaje, la lectura, la escritura o el cálculo matemático (art. 3). Como lectura propia, una dificultad específica con la lectura, como la dislexia, entra en esa definición.
 
 La ley pide adaptar la forma de enseñar y evaluar (art. 6):
 

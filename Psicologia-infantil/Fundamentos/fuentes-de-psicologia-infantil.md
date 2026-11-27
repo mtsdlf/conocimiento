@@ -35,7 +35,7 @@ Lo de la crianza de 0 a 6 (las guías de la Sociedad Argentina de Pediatría, lo
 
 La investigación sobre chicos se publica en revistas especializadas de psicología del desarrollo y de psiquiatría infantil, como Child Development, el Journal of Child Psychology and Psychiatry (JCPP) y el Journal of the American Academy of Child and Adolescent Psychiatry (JAACAP); el informe de esta base las nombra sin haber abierto ninguna. Lo que llega a la consulta pasa por otros filtros: los manuales de clasificación (el DSM de la Asociación Estadounidense de Psiquiatría y la CIE de la Organización Mundial de la Salud), las revisiones Cochrane, las guías clínicas de organismos como el NICE británico o la Academia Estadounidense de Pediatría, y los sistemas de vigilancia que cuentan casos, como el de autismo de la CDC.
 
-En la Argentina el conocimiento clínico circula sobre todo por la Sociedad Argentina de Pediatría, que publica Archivos Argentinos de Pediatría en acceso abierto, por los consensos del Ministerio de Salud y por las leyes. No se encontró una producción local de estudios epidemiológicos: no hay, por ejemplo, un estudio argentino de prevalencia de autismo ni uno sobre la edad relativa y el TDAH.
+En la Argentina el conocimiento clínico circula sobre todo por la Sociedad Argentina de Pediatría, que publica Archivos Argentinos de Pediatría en acceso abierto, por los consensos del Ministerio de Salud y por las leyes. En las búsquedas de esta base no apareció un estudio argentino sobre la edad relativa y el TDAH.
 
 ## Cuánto pesa cada tipo de fuente
 
@@ -58,7 +58,7 @@ Las leyes no dicen qué tratamiento funciona, pero definen derechos y vocabulari
 
 - **Ley 26.657 de salud mental**: en su artículo 8 pide que la atención esté a cargo de un "equipo interdisciplinario", y en el 3 define la salud mental como un proceso determinado por factores "históricos, socioeconómicos, culturales, biológicos y psicológicos".
 - **Ley 27.306 de dificultades específicas del aprendizaje** y su Decreto 289/2018: en el artículo 3 las define como "alteraciones de base neurobiológica" que afectan el lenguaje, la lectura, la escritura o el cálculo (según el resumen del buscador). Un proyecto de 2023 para sumar el déficit de atención no figura como ley vigente.
-- **Consenso sobre diagnóstico y tratamiento del TEA** (Resolución 2641/2019 del Ministerio de Salud), avalado por el Comité de Crecimiento y Desarrollo de la SAP: recomienda vigilar el desarrollo en los controles de todos los chicos.
+- **Consenso sobre diagnóstico y tratamiento del TEA** (Ministerio de Salud, 2019; el enlace oficial es la resolución 2641), avalado por el Comité de Crecimiento y Desarrollo de la SAP: recomienda vigilar el desarrollo en los controles de todos los chicos.
 
 El certificado de discapacidad y las prestaciones cambian seguido y tienen su ficha fechada en [CUD y prestaciones](../Evaluacion/cud-y-prestaciones.md).
 

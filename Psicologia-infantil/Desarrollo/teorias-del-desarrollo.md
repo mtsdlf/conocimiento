@@ -36,7 +36,7 @@ Cada teoría mira una parte distinta: Piaget y Vygotsky, el pensamiento; Erikson
 | Piaget | Cómo el pensamiento pasa por estadios, del bebé que conoce el mundo con el cuerpo al chico que razona | La idea de que el chico construye su comprensión activamente, explorando | Las edades: los chicos muestran muchas competencias antes de lo que él decía |
 | Vygotsky | Cómo el pensamiento se forma en la interacción con otros | El peso del contacto social en el aprendizaje | Es poco específico sobre qué cambia a cada edad |
 | Erikson | La personalidad como una serie de crisis o tareas por etapa | Un marco descriptivo útil; para 7 a 11 años, la tarea de sentirse competente | La secuencia por edades tiene poco apoyo experimental directo |
-| Bronfenbrenner | El chico dentro de su entorno, y cómo los dos cambian con el tiempo | Es el marco con que se piensan los contextos | Casi nadie la prueba entera como él la formuló |
+| Bronfenbrenner | El chico dentro de su entorno, y cómo los dos cambian con el tiempo | Es el marco con que se piensan los contextos | Según una revisión de 2016, pocos trabajos la prueban entera como él la formuló |
 
 ## Piaget: el chico que construye, con un calendario corregido
 
@@ -44,7 +44,7 @@ Jean Piaget describió el desarrollo del pensamiento como una secuencia de estad
 
 El campo lo lee de dos maneras, y las dos conviven. Como descripción de qué se vuelve posible a qué edad, Piaget está muy criticado: según el resumen de manuales de curso, los bebés manifiestan la permanencia del objeto (saber que algo sigue ahí aunque no se vea) antes de lo que él sostenía, y con esperas más cortas en la prueba la resuelven todavía más temprano. Como marco general, el campo conserva su idea constructivista: el chico no recibe el conocimiento hecho, lo arma explorando. Los llamados neopiagetianos mezclaron sus conceptos con la idea de la mente como procesador de información.
 
-La crítica más fuerte vino de la teoría del conocimiento central (core knowledge). Según el resumen de Spelke y Kinzler (2007), "la cognición humana se funda, en parte, en cuatro sistemas para representar objetos, acciones, número y espacio", y quizá un quinto para los compañeros sociales. Es decir, el bebé no arranca de cero, como suponía Piaget: trae algunas bases que el desarrollo amplía.
+Otra crítica vino de la teoría del conocimiento central (core knowledge). Según el resumen de Spelke y Kinzler (2007), "la cognición humana se funda, en parte, en cuatro sistemas para representar objetos, acciones, número y espacio", y quizá un quinto para los compañeros sociales. Leída así (lectura propia, no de los autores), el bebé no arranca de cero: trae algunas bases que el desarrollo amplía.
 
 ## Vygotsky: el pensamiento que viene de los otros
 
@@ -63,11 +63,11 @@ Robert Siegler propuso otra forma de ver el cambio. Estudiando a los chicos mien
 
 Erik Erikson describió la vida como una serie de etapas, cada una con una tensión que resolver. La de los 7 a los 11 años, según Eccles (1999), es "industria frente a inferioridad": el chico construye la sensación de que puede hacer bien las cosas, o la de que no puede. Es la idea de fondo de [autoconcepto y autoestima](autoconcepto-y-autoestima.md).
 
-La evidencia de Erikson es la más floja de las cuatro. Según una sola página de revisión, de autoridad baja, la secuencia por edades tiene poco apoyo experimental directo, y lo más sólido son estudios longitudinales sobre la identidad en la adultez temprana. Conviene leerlo como un marco descriptivo, no como un calendario.
+De las cuatro, para Erikson es para la que menos respaldo se encontró. Según una sola página de revisión, de autoridad baja, la secuencia por edades tiene poco apoyo experimental directo, y lo más sólido son estudios longitudinales sobre la identidad en la adultez temprana. Conviene leerlo como un marco descriptivo, no como un calendario.
 
 ## Bronfenbrenner: el chico dentro de su entorno
 
-Urie Bronfenbrenner estudió el desarrollo como algo que pasa entre el chico y su entorno. En su versión final, el modelo bioecológico tiene, según el resumen de Bronfenbrenner y Morris (2006), cuatro elementos: el proceso, la persona, el contexto y el tiempo. El motor son los procesos proximales: las interacciones que se repiten con regularidad y que se vuelven más complejas de a poco, como las conversaciones de todos los días con un adulto.
+Urie Bronfenbrenner estudió el desarrollo como algo que pasa entre el chico y su entorno. En su versión final, el modelo bioecológico tiene, según el resumen de Bronfenbrenner y Morris (2006), cuatro elementos: el proceso, la persona, el contexto y el tiempo. El motor son los procesos proximales: las interacciones que se repiten con regularidad y que se vuelven más complejas de a poco, como las conversaciones de todos los días con un adulto (ejemplo propio).
 
 Es el marco con que esta base ordena los [contextos](../Contextos/contextos.md). Pero se usa más de lo que se prueba: una revisión de 25 trabajos posteriores a 2001 que decían basarse en Bronfenbrenner encontró que la mayoría usaba versiones desactualizadas de su teoría (Tudge 2009), y una de 2016 halló que solo dos describían, probaban y evaluaban los cuatro elementos. Las dos revisiones se conocen solo por su resumen.
 
@@ -75,4 +75,4 @@ Es el marco con que esta base ordena los [contextos](../Contextos/contextos.md).
 
 Lo que estas teorías dicen del pensamiento se desarrolla en [desarrollo cognitivo](desarrollo-cognitivo.md), lo de la imagen de uno mismo en [autoconcepto y autoestima](autoconcepto-y-autoestima.md) y el juicio moral en [desarrollo moral](desarrollo-moral.md). Los hitos de 0 a 6 que estas teorías intentan explicar están en [dominios e hitos](../../Crianza/Desarrollo/dominios-e-hitos.md).
 
-Para leer más, el informe recomienda, a falta de los manuales, Lourenço (2012) para comparar Piaget y Vygotsky, fijándose en la diferencia entre autonomía y heteronomía, y Spelke y Kinzler (2007) para lo que el bebé trae al nacer.
+Para leer más, a falta de los manuales, sirven Lourenço (2012) para comparar Piaget y Vygotsky, fijándose en la diferencia entre autonomía y heteronomía, y Spelke y Kinzler (2007) para lo que el bebé trae al nacer.

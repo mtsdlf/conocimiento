@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La adversidad en la niñez, el maltrato, la violencia en casa, la pérdida o la negligencia, aumenta el riesgo de problemas de salud y de salud mental hasta la adultez, pero la mayoría de los chicos que la atraviesan sigue funcionando bien; cuando deja un trastorno por estrés postraumático, la terapia cognitivo-conductual centrada en el trauma es lo que recomiendan las guías.
+  La adversidad en la niñez, el maltrato, la violencia en casa, la pérdida o la negligencia, se asocia con más riesgo de problemas de salud y de salud mental hasta la adultez, pero la resiliencia es común; cuando deja un trastorno por estrés postraumático, la terapia cognitivo-conductual centrada en el trauma es lo que recomienda la guía NICE, y una revisión Cochrane coincide con una evidencia de calidad baja.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -24,7 +24,7 @@ revisado:
 
 # Adversidad y trauma
 
-La adversidad en la niñez, el maltrato, la violencia en casa, la pérdida o la negligencia, aumenta el riesgo de problemas de salud y de salud mental hasta la adultez, pero la mayoría de los chicos que la atraviesan sigue funcionando bien; cuando deja un trastorno por estrés postraumático, la terapia cognitivo-conductual centrada en el trauma es lo que recomiendan las guías.
+La adversidad en la niñez, el maltrato, la violencia en casa, la pérdida o la negligencia, se asocia con más riesgo de problemas de salud y de salud mental hasta la adultez, pero la resiliencia es común; cuando deja un trastorno por estrés postraumático, la terapia cognitivo-conductual centrada en el trauma es lo que recomienda la guía NICE, y una revisión Cochrane coincide con una evidencia de calidad baja.
 
 > [!IMPORTANT]
 > Esto sirve para entender, no para evaluar a un chico. Si sospechás maltrato o abuso, o si después de algo grave no vuelve a estar bien, consultá con el pediatra o un profesional de salud mental infantil.
@@ -33,7 +33,7 @@ Qué le hace la adversidad sostenida al cerebro en formación, el estrés tóxic
 
 ## Qué son las experiencias adversas
 
-Las experiencias adversas en la infancia (ACE, por su sigla en inglés) son, según la CDC, eventos potencialmente traumáticos que pasan entre los 0 y los 17 años. La lista incluye sufrir violencia, abuso o negligencia; presenciar violencia; el suicidio de un familiar; el consumo de sustancias o los problemas de salud mental en el hogar; la separación de los padres y la cárcel de alguien de la casa. La CDC aclara que la lista es incompleta. Según una encuesta de 2023, 3 de cada 4 estudiantes secundarios de Estados Unidos tuvo al menos una y 1 de cada 5 tuvo cuatro o más.
+Las experiencias adversas en la infancia (ACE, por su sigla en inglés) son, según la CDC, eventos potencialmente traumáticos que pasan entre los 0 y los 17 años. La lista incluye sufrir violencia, abuso o negligencia; presenciar violencia; el suicidio de un familiar; el consumo de sustancias o los problemas de salud mental en el hogar; la separación de los padres y la cárcel de alguien de la casa. La CDC aclara que la lista es incompleta. Según un resumen de la página de la CDC sobre una encuesta de 2023, 3 de cada 4 estudiantes secundarios de Estados Unidos tuvo al menos una y 1 de cada 5 tuvo cuatro o más.
 
 ## Cuánto pesan, según los estudios con adultos
 
@@ -70,10 +70,10 @@ El trastorno por estrés postraumático (TEPT) es un cuadro que puede aparecer d
 
 ## Qué ayuda en el estrés postraumático
 
-Hay dos fuentes que coinciden, aunque parten en parte de los mismos ensayos:
+Hay dos fuentes que coinciden, aunque parten en parte de los mismos ensayos. NICE es una guía británica, y falta una segunda guía independiente:
 
 - **La guía NICE NG116** (Reino Unido, 2018) recomienda, para chicos de 7 a 17 años con TEPT que consultan después de 3 meses, una terapia cognitivo-conductual centrada en el trauma, individual, de 6 a 12 sesiones en general, con los padres o cuidadores involucrados según corresponda. La terapia cognitivo-conductual (TCC) trabaja sobre lo que el chico piensa y hace; la centrada en el trauma lo ayuda a procesar el recuerdo. La EMDR, una terapia que usa movimientos oculares mientras se recuerda, queda solo si la TCC no funciona o el chico no se engancha. La guía dice expresamente que no se ofrezcan medicamentos para prevenir ni tratar el TEPT en menores de 18 años.
-- **La revisión Cochrane de Gillies y colegas (2016)** encontró que la terapia psicológica redujo el diagnóstico de TEPT hasta un mes después del tratamiento y bajó los síntomas, pero con evidencia de calidad muy baja a baja, y esos efectos no se vieron a largo plazo. La TCC fue algo mejor que la EMDR, la terapia de juego y la de apoyo en los síntomas a corto plazo, y no se diferenció en el diagnóstico.
+- **La revisión Cochrane de Gillies y colegas (2016)** encontró que la terapia psicológica redujo el diagnóstico de TEPT hasta un mes después del tratamiento y bajó los síntomas, pero con evidencia de calidad muy baja a baja, y esos efectos no se vieron a largo plazo. La TCC fue algo mejor que la EMDR, la terapia de juego y la de apoyo en los síntomas a corto plazo, y no se diferenció de la EMDR ni de la terapia de apoyo en el diagnóstico.
 
 Los enfoques están en [enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md), lo que tiene respaldo para cada problema en [qué funciona para qué](../Intervencion/que-funciona-para-que.md) y lo general de los medicamentos en [medicación](../Intervencion/medicacion.md).
 

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La depresión infantil es una tristeza o un desgano que dura, que el chico no puede sacarse de encima y que le impide hacer su vida; es menos frecuente antes de los 12 que en la adolescencia, se trata primero con terapia psicológica y, si se usa un antidepresivo, la mejor evidencia está en la fluoxetina.
+  La depresión infantil es una tristeza o un desgano que dura, que el chico no puede sacarse de encima y que le impide hacer su vida; es menos frecuente antes de los 12 que en la adolescencia, la guía NICE pone primero la terapia psicológica y, si se usa un antidepresivo, la mejor evidencia está en la fluoxetina.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -18,9 +18,9 @@ revisado:
 
 # Depresión infantil
 
-La depresión infantil es una tristeza o un desgano que dura, que el chico no puede sacarse de encima y que le impide hacer su vida; es menos frecuente antes de los 12 que en la adolescencia, se trata primero con terapia psicológica y, si se usa un antidepresivo, la mejor evidencia está en la fluoxetina.
+La depresión infantil es una tristeza o un desgano que dura, que el chico no puede sacarse de encima y que le impide hacer su vida; es menos frecuente antes de los 12 que en la adolescencia, la guía NICE pone primero la terapia psicológica y, si se usa un antidepresivo, la mejor evidencia está en la fluoxetina.
 
-Esta nota es más corta que las de ansiedad o conducta por una razón de fondo: casi toda la investigación junta a chicos y adolescentes, y la depresión pesa más después de los 12. Lo que vale para 6 a 12 se dice como tal cuando las fuentes lo separan, y cuando no, se avisa.
+Esta es más corta que las notas de ansiedad o conducta porque las fuentes leídas juntan a chicos y adolescentes, y la depresión aumenta con la edad. Lo que vale para 6 a 12 se dice como tal cuando las fuentes lo separan, y cuando no, se avisa.
 
 ## La tristeza normal y la que no
 
@@ -39,13 +39,13 @@ Qué del entorno pesa (la depresión de los padres, el conflicto en la familia, 
 
 ## La irritabilidad que no es depresión ni berrinche
 
-Un chico de 6 a 12 que vive enojado y tiene explosiones muy seguidas puede recibir el diagnóstico de trastorno de desregulación disruptiva del estado de ánimo (DMDD, por su sigla en inglés). El DSM lo ubica entre los trastornos depresivos, pero se parece más a los de conducta por la irritabilidad y porque, según resúmenes secundarios, muy a menudo viene junto al trastorno oposicionista; por eso se explica en [trastornos de conducta](trastornos-de-conducta.md).
+Un chico que vive enojado y tiene explosiones muy seguidas puede recibir el diagnóstico de trastorno de desregulación disruptiva del estado de ánimo (DMDD, por su sigla en inglés). El DSM lo ubica entre los trastornos depresivos, pero se parece más a los de conducta por la irritabilidad y porque, según resúmenes secundarios, muy a menudo viene junto al trastorno oposicionista; por eso se explica en [trastornos de conducta](trastornos-de-conducta.md).
 
 ## Qué ayuda: primero la terapia
 
 La guía NICE NG134, para chicos y jóvenes de 5 a 18 años, se centra en las terapias psicológicas para la depresión leve y la moderada a grave (contenido conocido por el buscador, porque la guía no se pudo abrir). Por la misma vía se sabe que reserva la fluoxetina para la depresión moderada a grave y siempre junto con terapia; no se verificó en el texto. Qué dice NICE para menores de 12 en particular no quedó registrado.
 
-Sobre qué terapia: las cognitivo-conductuales tienen más ensayos. Una revisión encargada por la asociación británica de psicoterapeutas infantiles (Midgley y otros 2021) cita un ensayo en depresión (IMPACT) donde una terapia psicoanalítica breve rindió parecido a la cognitivo-conductual; la revisión tiene un conflicto de intereses declarado. Los enfoques y su evidencia están en [enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md), y qué conviene según la gravedad, en [qué funciona para qué](../Intervencion/que-funciona-para-que.md).
+Sobre qué terapia: las cognitivo-conductuales tienen más ensayos. Una revisión encargada por la asociación británica de psicoterapeutas infantiles (Midgley y otros 2021) cita un ensayo en adolescentes con depresión (IMPACT) donde una terapia psicoanalítica breve rindió parecido a la cognitivo-conductual; la revisión tiene un conflicto de intereses declarado. Los enfoques y su evidencia están en [enfoques terapéuticos](../Intervencion/enfoques-terapeuticos.md), y qué conviene según la gravedad, en [qué funciona para qué](../Intervencion/que-funciona-para-que.md).
 
 ## Antidepresivos: lo que dice la evidencia
 
@@ -55,14 +55,14 @@ La fluoxetina es un ISRS (inhibidor selectivo de la recaptación de serotonina),
 - La venlafaxina tuvo más abandonos por efectos adversos que el placebo.
 - Los autores concluyen que solo la fluoxetina tiene un balance favorable entre beneficio y riesgo.
 
-Las fuentes que apoyan la fluoxetina son casi dos: Cipriani y la guía NICE, y la de NICE no se leyó. La proporción de menores de 12 en esos ensayos es baja y no se pudo contar. NICE lista como pregunta de investigación todavía abierta comparar fluoxetina, terapia y la combinación en la depresión moderada a grave.
+Las fuentes que apoyan la fluoxetina son casi dos: Cipriani y la guía NICE, y la de NICE no se leyó. No se pudo contar cuántos de esos chicos tenían menos de 12 años, y es probable que fueran pocos. NICE lista como pregunta de investigación todavía abierta comparar fluoxetina, terapia y la combinación en la depresión moderada a grave.
 
 > [!WARNING]
 > Lo que dicen estos trabajos sobre pensamientos suicidas con antidepresivos no se leyó, y esta nota no afirma nada al respecto. Es una de las preguntas que hay que hacerle al médico que indique la medicación. Lo general sobre medicación, sin dosis, está en [medicación](../Intervencion/medicacion.md).
 
 ## Quién la diagnostica
 
-Las fuentes de esta nota no dicen quién diagnostica la depresión infantil en Argentina. En general es un profesional de salud mental infantil (psicólogo o psiquiatra) con los criterios del DSM-5-TR o de la CIE-11, y la medicación la indica un médico, en general un psiquiatra infantil; [quién evalúa](../Evaluacion/quien-evalua.md) dice qué hace cada uno y [tests psicológicos](../Evaluacion/tests-psicologicos.md), qué miden los cuestionarios de ánimo.
+Las fuentes de esta nota no dicen quién diagnostica la depresión infantil en Argentina. Como lectura habitual, sin fuente leída, es un profesional de salud mental infantil (psicólogo o psiquiatra) con los criterios del DSM-5-TR o de la CIE-11, y la medicación la indica un médico, en general un psiquiatra infantil; [quién evalúa](../Evaluacion/quien-evalua.md) dice qué hace cada uno y [tests psicológicos](../Evaluacion/tests-psicologicos.md), qué miden los cuestionarios de ánimo.
 
 > [!IMPORTANT]
 > Si un chico habla de morirse, de no querer vivir o de hacerse daño, se consulta ese mismo día con el pediatra, una guardia o un profesional de salud mental. Esta nota no reemplaza esa consulta.

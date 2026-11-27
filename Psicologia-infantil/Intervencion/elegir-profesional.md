@@ -36,7 +36,7 @@ Las preguntas salen de lo que las guías y las revisiones de esta vertical piden
 1. **Cómo trabaja y qué hace en las sesiones.** El nombre del enfoque dice poco por sí solo; lo útil es saber qué va a pasar ([enfoques terapéuticos](enfoques-terapeuticos.md)).
 2. **Qué se sabe de la eficacia de eso para este problema.** Para la ansiedad, por ejemplo, la terapia cognitivo-conductual tiene una revisión Cochrane detrás; para la psicodinámica la evidencia es menor ([qué funciona para qué](que-funciona-para-que.md)). Un profesional puede trabajar de otra forma, pero debería poder explicar por qué.
 3. **Cómo va a evaluar.** Una buena evaluación usa varias fuentes (los padres, la escuela, el chico, la observación) y no un solo test ([entrevista y observación](../Evaluacion/entrevista-y-observacion.md), [tests psicológicos](../Evaluacion/tests-psicologicos.md)).
-4. **Qué lugar tienen los padres y la escuela.** Para los problemas de conducta y el TDAH, las guías ponen el trabajo con los padres en el centro, y la AAP suma el aula.
+4. **Qué lugar tienen los padres y la escuela.** Para los problemas de conducta y el TDAH en preescolares, las guías ponen el trabajo con los padres en el centro; en el TDAH de 6 a 12, la AAP suma el aula y NICE discrepa ([qué funciona para qué](que-funciona-para-que.md#tdah-depende-de-la-edad)).
 5. **Cómo se va a saber si funciona y cuándo se revisa.** Qué cambio se espera ver, y en cuánto tiempo.
 6. **Si hay medicación, quién la sigue.** La indica y la controla un médico ([medicación](medicacion.md)).
 
@@ -46,7 +46,7 @@ Estas señales son una lectura propia de las mismas fuentes, no una lista public
 
 - No puede o no quiere explicar qué hace ni por qué lo eligió para este chico.
 - Da un diagnóstico después de un solo test o de una sola entrevista, sin hablar con la escuela ni observar al chico.
-- Deja afuera a los padres en un problema de conducta o de TDAH, donde las guías los ponen primero.
+- Deja afuera a los padres en un problema de conducta o en un TDAH de preescolar, donde las guías los ponen primero.
 - Promete resultados seguros o rápidos, o descarta de entrada cualquier otro tratamiento.
 - Propone seguir sin plazo y sin revisar si hay cambios.
 - No tiene matrícula o no la muestra.

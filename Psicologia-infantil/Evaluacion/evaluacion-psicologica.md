@@ -26,7 +26,7 @@ Es el puente entre las dos verticales vecinas. La [psicopatología](../Psicopato
 
 ## Vigilar, pesquisar y diagnosticar son pasos distintos
 
-Antes de una evaluación suele haber dos pasos más livianos. La vigilancia es mirar en cada control cómo va el chico; la pesquisa (o cribado) es una prueba breve y validada que separa a los chicos que conviene evaluar en serio. El diagnóstico es lo que hace esta vertical: la evaluación completa que confirma qué pasa. La diferencia entre los tres, y la pesquisa del desarrollo de 0 a 6 en Argentina, están en [señales de alarma](../../Crianza/Desarrollo/senales-de-alarma.md) de Crianza. Un cribado positivo no es un diagnóstico: con el cuestionario de autismo más usado en chicos chicos, en atención primaria, la mayoría de los positivos no terminaron en diagnóstico de autismo (los números están en [tests psicológicos](tests-psicologicos.md)).
+Antes de una evaluación suele haber dos pasos más livianos. La vigilancia es mirar en cada control cómo va el chico; la pesquisa (o cribado) es una prueba breve y validada que separa a los chicos que conviene evaluar en serio. El diagnóstico es lo que hace esta vertical: la evaluación completa que confirma qué pasa. La diferencia entre los tres, y la pesquisa del desarrollo de 0 a 6 en Argentina, están en [señales de alarma](../../Crianza/Desarrollo/senales-de-alarma.md) de Crianza. Un cribado positivo no es un diagnóstico: con un cuestionario de cribado de autismo para chicos chicos (el M-CHAT-R/F), en un estudio de atención primaria, la mayoría de los positivos no terminaron en diagnóstico de autismo (los números están en [tests psicológicos](tests-psicologicos.md)).
 
 ## Por qué hacen falta varias fuentes
 
@@ -48,7 +48,7 @@ El certificado de discapacidad es otra cosa. El Certificado Único de Discapacid
 
 ## Dónde una evaluación suele fallar
 
-Una evaluación falla cuando se apoya en una sola pieza: un cuestionario de la escuela, un test de inteligencia, una consulta de media hora. También falla cuando no tiene en cuenta la edad, porque casi ninguna conducta es un problema por sí sola en un chico y lo que se mide es la distancia con lo esperable ([psicopatología del desarrollo](../Psicopatologia/psicopatologia-del-desarrollo.md)). Y puede fallar por el contexto: en Estados Unidos, los chicos más chicos del grado reciben más diagnósticos de TDAH, como cuenta la [entrada del tema](../psicologia-infantil.md#más-diagnósticos-no-siempre-es-más-trastorno).
+Una evaluación falla cuando se apoya en una sola pieza: un cuestionario de la escuela, un test de inteligencia, una consulta de media hora. También falla cuando no tiene en cuenta la edad, porque casi ninguna conducta es un problema por sí sola en un chico y lo que se mide es la distancia con lo esperable ([psicopatología del desarrollo](../Psicopatologia/psicopatologia-del-desarrollo.md)). Y puede fallar por el contexto: en algunos estados de Estados Unidos, los chicos más chicos del grado reciben más diagnósticos de TDAH, como cuenta la [entrada del tema](../psicologia-infantil.md#más-diagnósticos-no-siempre-es-más-trastorno).
 
 Las altas capacidades se evalúan aparte, y esa evaluación vive en Crianza: [señales y evaluación](../../Crianza/Altas-capacidades/senales-y-evaluacion.md).
 

@@ -39,7 +39,7 @@ Los números de algunos diagnósticos crecieron mucho, y la investigación separ
 - **ABA y neurodiversidad.** La revisión Cochrane de 2018 encontró "weak evidence" de que la intervención conductual temprana e intensiva ayude a algunos chicos con autismo; personas autistas critican el enfoque, y la discusión sobre posibles daños se apoya en una encuesta discutida.
 - **Las réplicas que fallaron.** El test del malvavisco predijo mucho menos de lo que se dijo al repetirlo con más chicos, y dos análisis de los mismos datos discrepan en cuánto (Watts y otros 2018; Michaelson y Munakata 2020).
 
-La lectura prudente es doble: los trastornos existen y tratarlos ayuda, y la edad del chico, la escuela, el acceso a servicios y la forma de medir influyen en quién llega a un diagnóstico. Para una familia, eso se traduce en preguntas concretas a quien evalúa: con qué criterios, con qué informantes y comparado con chicos de qué edad.
+La lectura prudente es doble: hay chicos con un trastorno real, y la edad del chico, la escuela, el acceso a servicios y la forma de medir influyen en quién llega a un diagnóstico. Para una familia, eso se traduce en preguntas concretas a quien evalúa: con qué criterios, con qué informantes y comparado con chicos de qué edad.
 
 ## Qué hay en los fundamentos
 

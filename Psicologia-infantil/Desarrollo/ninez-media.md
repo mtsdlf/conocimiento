@@ -40,7 +40,7 @@ Las edades son aproximadas y vienen de estudios distintos, cada uno con su forma
 |---|---|---|---|
 | 6 | La mayoría todavía espera resolver un rompecabezas que acaba de fallar | Eccles 1999 | [Autoconcepto y autoestima](autoconcepto-y-autoestima.md) |
 | 6 | Empieza a razonar en el sentido cotidiano, a planificar y a evaluar su avance | Eccles 1999 | [Desarrollo cognitivo](desarrollo-cognitivo.md) |
-| 6 | El modelo adulto de memoria de trabajo ya lo describe bien | Gathercole y otros 2004, según su resumen | [Desarrollo cognitivo](desarrollo-cognitivo.md) |
+| 6 | El modelo de memoria de trabajo de tres componentes ya lo describe bien | Gathercole y otros 2004, según su resumen | [Desarrollo cognitivo](desarrollo-cognitivo.md) |
 | 6 a 7 | Aparecen las estrategias para recordar (repetir, agrupar) | Schneider, según su resumen | [Desarrollo cognitivo](desarrollo-cognitivo.md) |
 | 5 a 7 | Entiende lo que una persona cree que otra cree; a los 5 con preguntas simplificadas, a los 6 o 7 con la prueba clásica | Perner y Wimmer 1985, y otros, según su resumen | [Desarrollo cognitivo](desarrollo-cognitivo.md) |
 | 7 a 11 | La tarea de sentirse competente, o la sensación de no poder ("industria frente a inferioridad") | Erikson, vía Eccles 1999 | [Teorías del desarrollo](teorias-del-desarrollo.md) |
@@ -54,11 +54,11 @@ Según Eccles (1999), en esta etapa los chicos pasan más tiempo con otros chico
 
 ## El juicio moral se afina
 
-Desde los 4 años un chico ya distingue una regla que protege del daño de una convención del grupo. Entre los 6 y los 12, como lectura propia, lo que cambia es cómo la aplica en situaciones más enredadas; según Killen y Rizzo (2014) los chicos en edad escolar prestan más atención que los más chicos a las faltas contra las convenciones, sin dejar de atender al daño. Está en [desarrollo moral](desarrollo-moral.md).
+Desde los 4 años un chico ya distingue una regla que protege del daño de una convención del grupo. Entre los 6 y los 12, como lectura propia, lo que cambia es cómo la aplica en situaciones más enredadas; según Killen y Rizzo (2014) los chicos en edad escolar responden más a las faltas contra las convenciones, sin dejar de atender al daño. Está en [desarrollo moral](desarrollo-moral.md).
 
 ## Lo que no cambia de golpe
 
-Lo que en Crianza se ve de 0 a 6 sigue madurando: el control de los impulsos y la memoria de trabajo de las [funciones ejecutivas](../../Crianza/Emociones-y-caracter/funciones-ejecutivas.md), cuyos programas de entrenamiento se probaron en chicos de 4 a 12; la [regulación emocional](../../Crianza/Emociones-y-caracter/regulacion-emocional.md); y el [temperamento](../../Crianza/Emociones-y-caracter/temperamento.md), que sigue marcando cómo reacciona cada chico. Según Siegler, el cambio cognitivo es gradual, más parecido a olas que a escalones ([teorías del desarrollo](teorias-del-desarrollo.md)): un chico de 8 puede razonar como uno de 10 en un tema y como uno de 6 en otro (ejemplo propio).
+Lo que en Crianza se ve de 0 a 6 sigue madurando: el control de los impulsos y la memoria de trabajo de las [funciones ejecutivas](../../Crianza/Emociones-y-caracter/funciones-ejecutivas.md), cuyos programas de entrenamiento se probaron en chicos de 4 a 12; la [regulación emocional](../../Crianza/Emociones-y-caracter/regulacion-emocional.md); y el [temperamento](../../Crianza/Emociones-y-caracter/temperamento.md). Según Siegler, el cambio cognitivo es gradual, más parecido a olas que a escalones ([teorías del desarrollo](teorias-del-desarrollo.md)): un chico de 8 puede razonar como uno de 10 en un tema y como uno de 6 en otro (ejemplo propio).
 
 ## Cuándo algo se sale de lo esperable
 

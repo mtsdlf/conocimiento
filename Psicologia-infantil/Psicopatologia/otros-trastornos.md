@@ -22,7 +22,7 @@ revisado:
 
 Además de la ansiedad, la depresión, la conducta y el neurodesarrollo, en la infancia aparecen los tics y el síndrome de Tourette, la enuresis y la encopresis, el trastorno de evitación o restricción de la ingesta (ARFID) y los problemas de sueño; cada uno tiene su lado normal en Crianza, y la evidencia sobre ellos es despareja.
 
-Se juntan en una nota porque son más chicos en cantidad de investigación leída, no porque se parezcan entre sí. Cada sección empieza por lo normal y dice qué se sabe del trastorno; lo que no se encontró queda a la vista.
+Se juntan en una nota porque cada uno tiene poca investigación leída, no porque se parezcan entre sí. Cada sección empieza por lo normal y dice qué se sabe del trastorno; lo que no se encontró queda a la vista.
 
 ## Tics y síndrome de Tourette
 
@@ -48,7 +48,7 @@ Para la enuresis nocturna, el tratamiento con más estudios es la alarma, un apa
 
 ## ARFID: comer poco o casi nada
 
-El trastorno de evitación o restricción de la ingesta de alimentos (ARFID, por su sigla en inglés) entró en el DSM-5. No es la selectividad común de los chicos chicos, que está en [el chico que no come](../../Nutricion/Alimentacion-infantil/chico-que-no-come.md) de Nutrición. Según la revisión de Thomas y colegas (2017, por resumen secundario), en el ARFID el chico come tan poco o tan restringido que baja de peso, tiene déficits nutricionales, depende de suplementos o se le complica la vida social. Las razones pueden ser sensoriales (texturas, olores), falta de interés por comer o miedo a algo malo al comer, como atragantarse o vomitar. La anorexia y la bulimia son sobre todo de la adolescencia y no están en este tema.
+El trastorno de evitación o restricción de la ingesta de alimentos (ARFID, por su sigla en inglés) entró en el DSM-5. No es la selectividad común de los chicos chicos, que está en [el chico que no come](../../Nutricion/Alimentacion-infantil/chico-que-no-come.md) de Nutrición. Según la revisión de Thomas y colegas (2017, por resumen secundario), en el ARFID el chico come tan poco o tan restringido que baja de peso, tiene déficits nutricionales, depende de suplementos o se le complica la vida social. Las razones pueden ser sensoriales, falta de interés por comer o miedo a las consecuencias desagradables de comer. La anorexia y la bulimia quedan en su mayoría fuera de los 0 a 12 y no están en este tema.
 
 Las cifras discrepan según dónde se mide, y se dan las dos (por resumen secundario): 3,2 % en un estudio escolar suizo de chicos de 8 a 13 años que respondieron ellos mismos, y entre 5 % y 22,5 % en servicios de trastornos alimentarios y entre 32 % y 64 % en clínicas de alimentación. La revisión de 2017 dice que no se incluyó en los grandes estudios de población. Qué tratamientos tienen evidencia no quedó registrado.
 

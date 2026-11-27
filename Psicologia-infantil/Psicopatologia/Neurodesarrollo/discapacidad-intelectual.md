@@ -41,7 +41,7 @@ Lo que sí hay son cifras dentro de otros trastornos. En el autismo, la revisió
 
 ## Quién la diagnostica
 
-Las fuentes de esta nota no dicen quién diagnostica la discapacidad intelectual en Argentina. En general intervienen el psicólogo, que toma las pruebas de inteligencia y de conducta adaptativa, y el médico (pediatra, neurólogo infantil o genetista) que busca la causa; los criterios son los del DSM-5-TR o la CIE-11. Qué hace cada uno está en [quién evalúa](../../Evaluacion/quien-evalua.md). Antes de los 6 años, la puerta de entrada son las [señales de alarma](../../../Crianza/Desarrollo/senales-de-alarma.md) del desarrollo y la pesquisa que hace el pediatra.
+Las fuentes de esta nota no dicen quién diagnostica la discapacidad intelectual en Argentina. Como lectura habitual, sin fuente leída, intervienen el psicólogo, que toma las pruebas de inteligencia y de conducta adaptativa, y el médico (pediatra, neurólogo infantil o genetista) que busca la causa; los criterios serían los del DSM-5-TR o la CIE-11. Qué hace cada uno está en [quién evalúa](../../Evaluacion/quien-evalua.md). Antes de los 6 años, la puerta de entrada son las [señales de alarma](../../../Crianza/Desarrollo/senales-de-alarma.md) del desarrollo y la pesquisa que hace el pediatra.
 
 ## Apoyos y cobertura en Argentina
 

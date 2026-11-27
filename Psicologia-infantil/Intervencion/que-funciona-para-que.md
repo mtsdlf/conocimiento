@@ -30,13 +30,13 @@ Los enfoques (qué es cada terapia y su evidencia general) están en [enfoques t
 | Problema | Lo que tiene más respaldo | Fuente |
 |---|---|---|
 | Conducta (oposicionismo, trastorno de conducta) | Programas de entrenamiento a padres | Revisiones en Crianza |
-| TDAH, menores de 6 | Entrenamiento a padres primero; medicación solo si no alcanza y el problema es serio | AAP y NICE |
-| TDAH, 6 a 12 | Medicación; el lugar de lo conductual depende de la guía | AAP y NICE, que discrepan |
+| TDAH, preescolares (menos de 5 o de 4 a 6 años, según la guía) | Entrenamiento a padres primero; medicación solo si no alcanza y el problema es serio | AAP y NICE |
+| TDAH, 6 a 12 | Medicación; lo conductual va junto (AAP) o aparte (NICE) | AAP y NICE, que discrepan |
 | Ansiedad | Terapia cognitivo-conductual | Cochrane (James 2020) |
 | Autismo | Intervenciones conductuales tempranas y naturalistas, con evidencia baja | Cochrane (Reichow 2018), proyecto AIM |
 | Depresión, trauma, tics, enuresis, alimentación, sueño | No se registró en esta base | — |
 
-Un tratamiento "bien establecido", en la escala de la Society of Clinical Child and Adolescent Psychology (SCCAP), es el que tiene al menos dos ensayos aleatorizados de grupos independientes con manual; uno "probablemente eficaz" está un escalón abajo. La clasificación vigente de esa sociedad para cada problema no se pudo leer: su sitio no se dejó bajar.
+Un tratamiento "bien establecido", en la escala de la Society of Clinical Child and Adolescent Psychology (SCCAP), es el que tiene al menos dos ensayos aleatorizados de grupos independientes con manual (según un resumen del NIMH); uno "probablemente eficaz" está un escalón abajo. La clasificación vigente de esa sociedad para cada problema no se pudo leer: su sitio no se dejó bajar.
 
 ## Conducta: el tratamiento son los padres
 
@@ -44,10 +44,10 @@ Para el trastorno oposicionista desafiante y el trastorno de conducta, lo que fu
 
 ## TDAH: depende de la edad
 
-En los menores de 6 las dos guías principales coinciden. La AAP, según el resumen de la CDC, pone primero el entrenamiento a padres y deja el metilfenidato (un estimulante) para cuando las intervenciones conductuales no dieron mejora y los problemas son serios. NICE recomienda un grupo de entrenamiento a padres en menores de 5, por la evidencia limitada de la medicación a esa edad y porque sus efectos a largo plazo sobre el crecimiento y el desarrollo son inciertos. Son dos fuentes independientes que dicen lo mismo.
+En los preescolares las dos guías principales coinciden, aunque cortan la edad en lugares distintos: NICE habla de menores de 5 y la AAP de 4 a 6 años. La AAP, según el resumen de la CDC, pone primero el entrenamiento a padres y deja el metilfenidato (un estimulante) para cuando las intervenciones conductuales no dieron mejora y los problemas son serios. NICE recomienda un grupo de entrenamiento a padres en menores de 5, por la evidencia limitada de la medicación a esa edad y porque sus efectos a largo plazo sobre el crecimiento y el desarrollo son inciertos. Son dos fuentes independientes que dicen lo mismo.
 
 > [!IMPORTANT]
-> **De 6 a 12, la AAP y NICE discrepan en el lugar de lo conductual.** La AAP (2019) recomienda medicación junto con entrenamiento a padres, manejo conductual en el aula o ambos. NICE (NG87) recomienda medicación cuando los síntomas persisten y afectan la vida del chico, no recomienda sumar un programa completo de padres para todos los que toman medicación, y dice que no encontró evidencia clara de que los programas formales de padres mejoren los síntomas de TDAH entre los 5 y los 18 años. Las dos ponen la medicación primero; la diferencia es si lo conductual va junto (AAP) o aparte, según el caso (NICE). Las dos se leyeron por resumen.
+> De 6 a 12, la AAP y NICE discrepan en el lugar de lo conductual. La AAP (2019) recomienda medicación junto con entrenamiento a padres, manejo conductual en el aula o ambos. NICE (NG87) recomienda medicación cuando los síntomas persisten y afectan la vida del chico, no recomienda sumar un programa completo de padres para todos los que toman medicación, y dice que no encontró evidencia clara de que los programas formales de padres mejoren los síntomas de TDAH entre los 5 y los 18 años. En las dos aparece la medicación; la diferencia es si lo conductual va junto (AAP) o aparte, según el caso (NICE). Las dos se leyeron por resumen.
 
 Sobre las intervenciones en la escuela hay una fuente más. Según un resumen de la Sociedad Canadiense de Pediatría, el manejo conductual en el aula (reglas claras, refuerzo y consecuencias aplicados por la maestra) se considera "bien establecido" desde hace más de una década, y el entrenamiento en habilidades de organización también lo es, con dos ensayos de investigadores distintos. El entrenamiento en habilidades sociales, en cambio, no mostró una mejora clara en la conducta en el aula ni con los compañeros; para esta última afirmación es la única fuente. Una revisión sistemática de 2024 en *Pediatrics* encontró que la medicación tiene la base de evidencia más fuerte, con efectos adversos, y que hay poca comparación directa entre los otros tratamientos; el enlace exacto de esa revisión quedó por verificar.
 
@@ -59,7 +59,7 @@ La terapia cognitivo-conductual es el tratamiento con más respaldo para la ansi
 
 ## Autismo: intervención temprana, con evidencia débil
 
-Para el autismo, lo más estudiado son las intervenciones tempranas. La revisión Cochrane sobre la intervención conductual intensiva temprana (Reichow 2018) habla de "evidencia débil" de eficacia para algunos chicos, con mejoras en cociente intelectual y lenguaje y sin mejora en la gravedad de los síntomas. Las intervenciones naturalistas, que enseñan dentro del juego, acumulan evidencia según el proyecto AIM, aunque se achica al quedarse con los estudios más cuidados. El detalle y la discusión sobre el ABA están en [enfoques terapéuticos](enfoques-terapeuticos.md#aba-y-los-modelos-naturalistas-en-autismo).
+Para el autismo, lo más estudiado son las intervenciones tempranas. La revisión Cochrane sobre la intervención conductual intensiva temprana (Reichow 2018) habla de "evidencia débil" de eficacia para algunos chicos, con mejoras en cociente intelectual y lenguaje (calidad baja) y sin mejora en la gravedad de los síntomas. Las intervenciones naturalistas, que enseñan dentro del juego, acumulan evidencia según el proyecto AIM, aunque se achica al quedarse con los estudios más cuidados. El detalle y la discusión sobre el ABA están en [enfoques terapéuticos](enfoques-terapeuticos.md#aba-y-los-modelos-naturalistas-en-autismo).
 
 La guía británica NICE CG170 tiene una sección de intervenciones para los rasgos centrales del autismo y otra de intervenciones que no deben usarse, pero su texto no se pudo leer; NICE anunció en 2025 que actualizará las recomendaciones psicosociales. Qué recomienda el consenso argentino de 2019 sobre autismo tampoco quedó registrado. El trastorno está en [autismo](../Psicopatologia/Neurodesarrollo/autismo.md).
 
