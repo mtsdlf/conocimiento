@@ -27,7 +27,7 @@ La arquitectura explica por qué una plataforma alojada puede cobrar poco por ti
 
 ## Una instalación para muchas tiendas: los pods de Shopify
 
-Servir a muchos clientes desde una misma instancia, con los datos de cada uno aislados, es [multi-tenancy](../../Arquitectura/multi-tenancy.md). Esa nota explica cuánto se comparte entre clientes y los modelos de aislamiento. El caso de una plataforma de tiendas lo documenta Shopify en su blog de ingeniería.
+Servir a muchos clientes desde una misma instancia, con los datos de cada uno aislados, es [multi-tenancy](../../Arquitectura/Sistemas-distribuidos/multi-tenancy.md). Esa nota explica cuánto se comparte entre clientes y los modelos de aislamiento. El caso de una plataforma de tiendas lo documenta Shopify en su blog de ingeniería.
 
 Shopify reparte las tiendas en pods. Su definición: "A pod is an isolated instance of Shopify consisting of an individual MySQL database shard". Y agrega: "Every pod houses a unique subset of shops on the platform." Según un resumen de la misma página, cada pod es un stack completo, con su shard de MySQL más Redis y Memcached.
 

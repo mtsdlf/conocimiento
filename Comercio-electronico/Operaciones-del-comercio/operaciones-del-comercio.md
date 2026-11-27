@@ -39,7 +39,7 @@ flowchart LR
   A -->|acompaña a| D
 ```
 
-Cuando el pedido cruza sistemas separados (pagos, stock, transportista), coordinar sus pasos y deshacerlos si uno falla es el problema que resuelve una [saga](../../Arquitectura/saga.md).
+Cuando el pedido cruza sistemas separados (pagos, stock, transportista), coordinar sus pasos y deshacerlos si uno falla es el problema que resuelve una [saga](../../Arquitectura/Sistemas-distribuidos/saga.md).
 
 ## El catálogo y el stock
 

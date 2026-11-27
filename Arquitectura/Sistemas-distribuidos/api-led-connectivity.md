@@ -50,9 +50,9 @@ Inventario). El backoffice usa otra Experience sobre las mismas System.
 ## Lo que no hace un API gateway
 
 El gateway enruta, autentica y limita tráfico, pero no orquesta datos de varios
-servicios; puede estar delante de cualquiera de las tres capas.
+servicios; puede estar delante de cualquiera de las tres capas. Qué hace y qué no hace está en [API gateway y BFF](api-gateway-y-bff.md).
 
 ## Ver también
 
 - [Multi-tenancy](multi-tenancy.md): el tenant se resuelve en la capa Experience y viaja a las de abajo.
-- [Plataforma API-first](../Platform-Engineering/Plataforma-interna/plataforma-api-first.md), en Platform-Engineering: API-first dice cómo se expone una capacidad; API-led, en qué capa va.
+- [Plataforma API-first](../../Platform-Engineering/Plataforma-interna/plataforma-api-first.md), en Platform-Engineering: API-first dice cómo se expone una capacidad; API-led, en qué capa va.

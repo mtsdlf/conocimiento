@@ -61,3 +61,5 @@ compensación es una operación de negocio nueva sobre cambios que ya se confirm
 
 - [Circuit breaker](circuit-breaker.md): una dependencia con el breaker abierto es una de las fallas que disparan compensaciones.
 - [Degradación controlada](degradacion-controlada.md): decide si un paso fallido aborta la saga o queda pendiente.
+- [Outbox](outbox.md): cada paso confirma su transacción local y publica su resultado; el outbox evita perder o inventar ese evento.
+- [Event-driven](../Estilos/event-driven.md): coreografía y orquestación corresponden a las topologías broker y mediator.

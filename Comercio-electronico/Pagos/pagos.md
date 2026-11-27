@@ -49,7 +49,7 @@ Lo argentino es lo más inestable de la vertical. Los topes a los aranceles, los
 
 ## Pagos como sistema distribuido
 
-Un cobro es una conversación entre sistemas de varias empresas, y cualquiera puede no contestar. Dos patrones de [Arquitectura](../../Arquitectura/arquitectura.md) resuelven los problemas que eso trae a una tienda: la [clave de idempotencia](../../Arquitectura/clave-de-idempotencia.md) evita cobrar dos veces cuando se reintenta, y la [saga](../../Arquitectura/saga.md) deshace los pasos de un checkout cuando el pago falla a mitad de camino.
+Un cobro es una conversación entre sistemas de varias empresas, y cualquiera puede no contestar. Dos patrones de [Arquitectura](../../Arquitectura/arquitectura.md) resuelven los problemas que eso trae a una tienda: la [clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md) evita cobrar dos veces cuando se reintenta, y la [saga](../../Arquitectura/Sistemas-distribuidos/saga.md) deshace los pasos de un checkout cuando el pago falla a mitad de camino.
 
 ## Cómo se mira Pagos en una plataforma de tiendas
 

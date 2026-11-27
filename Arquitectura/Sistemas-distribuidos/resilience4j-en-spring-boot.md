@@ -104,4 +104,4 @@ responden enseguida con el fallback. `GET /actuator/circuitbreakers` muestra la 
 
 ## Ver también
 
-- [Sintaxis de YAML](../Desarrollo/Configuracion/sintaxis-de-yaml.md), en Desarrollo: la sintaxis del `application.yml`.
+- [Sintaxis de YAML](../../Desarrollo/Configuracion/sintaxis-de-yaml.md), en Desarrollo: la sintaxis del `application.yml`.

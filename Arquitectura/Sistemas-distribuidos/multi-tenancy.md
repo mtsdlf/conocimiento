@@ -63,4 +63,4 @@ de su comercio); los tenants no comparten nada entre sí.
 
 ## Ver también
 
-- [Diseñar casos de prueba de una API](../Desarrollo/Especificacion-y-prueba/disenar-casos-de-prueba-de-api.md), en Desarrollo: el aislamiento entre tenants es una categoría de casos.
+- [Diseñar casos de prueba de una API](../../Desarrollo/Especificacion-y-prueba/disenar-casos-de-prueba-de-api.md), en Desarrollo: el aislamiento entre tenants es una categoría de casos.

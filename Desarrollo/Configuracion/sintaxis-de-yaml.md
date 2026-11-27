@@ -90,4 +90,4 @@ bloques que de verdad se repiten.
 
 ## Ver también
 
-- [Proteger un cliente HTTP con Resilience4j en Spring Boot](../../Arquitectura/resilience4j-en-spring-boot.md) (Arquitectura) — un `application.yml` real.
+- [Proteger un cliente HTTP con Resilience4j en Spring Boot](../../Arquitectura/Sistemas-distribuidos/resilience4j-en-spring-boot.md) (Arquitectura) — un `application.yml` real.
