@@ -31,7 +31,7 @@ El marco es de Impellizzeri, Marcora y Coutts, que lo revisaron en 2019 en un tr
 
 La carga externa se cuenta con los componentes clásicos: el volumen, la intensidad expresada como ritmo o peso, la densidad y la frecuencia. Es lo mismo para cualquiera que haga la sesión.
 
-La carga interna depende de quien la hace. Una revisión de Halson enumera cómo se mide: "perception of effort, heart rate, blood lactate, and training impulse" ([Halson, 2014](https://pubmed.ncbi.nlm.nih.gov/25200666/), según su resumen). El lactato pide un pinchazo y el impulso de entrenamiento (TRIMP, de Banister) pide frecuencia cardíaca registrada en toda la sesión; fuera del deporte de competencia, lo práctico es el esfuerzo percibido y la frecuencia cardíaca.
+La carga interna depende de quien la hace. Una revisión de Halson enumera cómo se mide: "perception of effort, heart rate, blood lactate, and training impulse" ([Halson, 2014](https://pubmed.ncbi.nlm.nih.gov/25200666/), según su resumen). El lactato pide un pinchazo y el impulso de entrenamiento (TRIMP, de Banister) pide frecuencia cardíaca registrada en toda la sesión; fuera del deporte de competencia, lo práctico sería el esfuerzo percibido y la frecuencia cardíaca (lectura de esta base).
 
 > [!NOTE]
 > Sin fuente todavía: la fórmula del TRIMP de Banister y una fuente primaria sobre la frecuencia cardíaca como medida de carga interna.
@@ -54,7 +54,7 @@ La carga de la sesión, o sRPE (*session RPE*), lleva el RPE a un número de car
 
 ## Cuando las dos cargas se separan
 
-La información está en la diferencia. Halson lo dice así: "Dissociation between external and internal load units may reveal the state of fatigue of an athlete" ([Halson, 2014](https://pubmed.ncbi.nlm.nih.gov/25200666/), según su resumen). Si el mismo trote a la misma velocidad se siente mucho más duro que hace dos semanas, algo cambió: cansancio acumulado, mal sueño o una enfermedad que empieza. Si se siente más fácil, la persona mejoró y la carga externa puede subir. Cómo anotarlo para verlo está en [registro y monitoreo](../Evaluacion/registro-y-monitoreo.md), y qué hacer cuando la fatiga no baja, en [sobreentrenamiento](../Recuperacion/sobreentrenamiento.md).
+La información está en la diferencia. Halson lo dice así: "Dissociation between external and internal load units may reveal the state of fatigue of an athlete" ([Halson, 2014](https://pubmed.ncbi.nlm.nih.gov/25200666/), según su resumen). Si el mismo trote a la misma velocidad se siente mucho más duro que hace dos semanas, algo cambió; esta base lo lee como cansancio acumulado, mal sueño o una enfermedad que empieza, y si se siente más fácil, como mejora que deja subir la carga externa (inferencia a partir de Halson, sin fuente propia). Cómo anotarlo para verlo está en [registro y monitoreo](../Evaluacion/registro-y-monitoreo.md), y qué hacer cuando la fatiga no baja, en [sobreentrenamiento](../Recuperacion/sobreentrenamiento.md).
 
 ## La ratio aguda:crónica
 

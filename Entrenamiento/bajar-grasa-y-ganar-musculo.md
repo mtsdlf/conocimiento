@@ -64,6 +64,8 @@ Una hipótesis es que el cuerpo compensa: en 332 adultos de cinco poblaciones, e
 
 La respuesta varía mucho de una persona a otra, como cuenta [estética y entrenamiento](estetica-y-entrenamiento.md). Para ver el progreso sin depender de la balanza, ver [medir el progreso](../Nutricion/Objetivos-del-adulto/medir-el-progreso.md).
 
+Para bajar esto a una semana concreta: cuántos minutos de cardio pide la salud está en [cuánto ejercicio](Carga/cuanto-ejercicio.md), y cómo repartir la fuerza en 3 o 4 días, en [tipos de rutina](Musculacion/tipos-de-rutina.md).
+
 ## Qué tan firme es lo que dice esta nota
 
 El ensayo de Villareal se leyó en texto completo; las otras fuentes, según su resumen, y las de Swift y Pontzer 2016 solo de segunda mano. Lo de preservar músculo tiene ensayos; lo de recomposición, una sola revisión narrativa. La nota no reemplaza a un médico ni a un licenciado en nutrición si hay obesidad o enfermedad.

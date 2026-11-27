@@ -18,9 +18,9 @@ revisado:
 
 Entrenar es aplicarle al cuerpo una carga planificada para que se adapte y pueda más; esta base lo explica primero al nivel de las decisiones y después baja a cómo funciona en cualquier disciplina y a dos disciplinas concretas, la resistencia (correr) y la musculación en el gimnasio.
 
-Una sesión no mejora a nadie en el momento: cansa. La mejora llega después, mientras el cuerpo se recupera y se ajusta a lo que se le pidió. De ahí sale la idea que ordena el tema: el entrenamiento es una dosis. Tiene un tipo (qué capacidad se estimula), una cantidad (la carga), un orden en el tiempo (la planificación) y una respuesta que se mide (la evaluación), y solo sirve si se recupera. Correr y levantar pesas se ven distintos, pero obedecen esas mismas reglas.
+Según el modelo clásico, que hoy se trata como metáfora útil y no como mecanismo medido ([supercompensación](Adaptacion/supercompensacion.md)), una sesión no mejora a nadie en el momento: cansa. La mejora llega después, mientras el cuerpo se recupera y se ajusta a lo que se le pidió. De ahí sale la idea que ordena el tema: el entrenamiento es una dosis. Tiene un tipo (qué capacidad se estimula), una cantidad (la carga), un orden en el tiempo (la planificación) y una respuesta que se mide (la evaluación), y solo sirve si se recupera. Correr y levantar pesas se ven distintos, pero obedecen esas mismas reglas.
 
-La mayor parte del resultado sale de pocas cosas: entrenar fuerza y algo de cardio, subir de a poco la exigencia y sostenerlo en el tiempo. Los detalles finos de una rutina, como el orden de los ejercicios o el esquema de series, pesan bastante menos, según la posición 2026 del ACSM. Por eso la base tiene dos alturas: arriba, las decisiones que alcanzan para entrenar bien; abajo, la teoría y las disciplinas, para quien quiera entender por qué o armar su propio plan.
+La mayor parte del resultado sale de pocas cosas: entrenar fuerza y algo de cardio, subir de a poco la exigencia y sostenerlo en el tiempo (lectura de esta base a partir de las guías de [principios básicos](Carga/principios-basicos.md) y [cuánto ejercicio](Carga/cuanto-ejercicio.md)). Los detalles finos de una rutina pesan bastante menos: según el resumen de la posición 2026 del ACSM, pocas variables de la prescripción afectaron las adaptaciones principales. Por eso la base tiene dos alturas: arriba, las decisiones que alcanzan para entrenar bien; abajo, la teoría y las disciplinas, para quien quiera entender por qué o armar su propio plan.
 
 Lo que se come para cada objetivo está en [Nutrición](../Nutricion/nutricion.md), sobre todo en [objetivos del adulto](../Nutricion/Objetivos-del-adulto/objetivos-del-adulto.md). La actividad física de los chicos está en [Crianza](../Crianza/Salud-y-rutinas/actividad-fisica.md). Quedan afuera la enseñanza escolar de la educación física, la técnica paso a paso de cada ejercicio, el alto rendimiento y la rehabilitación de lesiones ([alcance](ALCANCE.md)).
 
@@ -29,7 +29,7 @@ Lo que se come para cada objetivo está en [Nutrición](../Nutricion/nutricion.m
 
 ## De qué está hecho el entrenamiento
 
-La parte general vale para cualquier disciplina y tiene seis piezas. Sigue la división de la materia "Teoría y metodología del entrenamiento" de los profesorados de educación física y de los manuales de certificación como el de la NSCA. Debajo, cada disciplina toma esas seis piezas y las vuelve concretas: qué capacidades pide, en qué unidades se mide la carga, cómo se arma la semana y cómo se lastima quien la practica.
+La parte general vale para cualquier disciplina y tiene seis piezas. Sigue la división de la materia "Teoría y metodología del entrenamiento" de los programas de profesorado de educación física consultados; los manuales de certificación como el de la NSCA no se abrieron. Debajo, cada disciplina toma esas seis piezas y las vuelve concretas: qué capacidades pide, en qué unidades se mide la carga, cómo se arma la semana y cómo se lastima quien la practica.
 
 ```mermaid
 flowchart LR
@@ -70,7 +70,7 @@ Quien empieza casi nunca pregunta por la supercompensación: quiere bajar grasa,
 
 Las dos disciplinas parecen opuestas: una busca durar y la otra, hacer fuerza. Pero las preguntas de quien entrena son las mismas: cuánto, qué tan fuerte, cada cuánto, cuándo descansar y cómo saber si funciona. La parte general responde esas preguntas una sola vez, y cada disciplina pone solo sus unidades: el ritmo por kilómetro y las zonas en la resistencia, las series y las repeticiones en reserva en la musculación.
 
-Combinar las dos también es una pregunta general. Correr y levantar pesas en la misma semana compiten por la misma recuperación, y esa interacción está en [fuerza y cardio](Planificacion/fuerza-y-cardio.md).
+Combinar las dos también es una pregunta general. Correr y levantar pesas en la misma semana pueden restarse algo, sobre todo en la fuerza explosiva (Schumann 2022, según su resumen), y esa interacción está en [fuerza y cardio](Planificacion/fuerza-y-cardio.md).
 
 ## Qué leer según tu objetivo
 
@@ -79,9 +79,10 @@ Combinar las dos también es una pregunta general. Correr y levantar pesas en la
 - Si buscás un cambio estético: [estética y entrenamiento](estetica-y-entrenamiento.md) y, en Nutrición, [estética](../Nutricion/Objetivos-del-adulto/estetica.md).
 - Si estás por empezar o volver después de mucho tiempo: [dolor y lesiones](Recuperacion/dolor-y-lesiones.md), [cuánto ejercicio](Carga/cuanto-ejercicio.md) y [elegir un plan o un entrenador](Fundamentos/elegir-plan-o-entrenador.md).
 - Si querés entender por qué mejorás o por qué te estancaste: [supercompensación](Adaptacion/supercompensacion.md), [especificidad](Adaptacion/especificidad.md) y [progresión en el gimnasio](Musculacion/progresion-en-el-gimnasio.md).
-- Si tenés que medir qué tan fuerte fue una sesión: [carga interna y externa](Carga/carga-interna-y-externa.md) y [zonas de intensidad](Resistencia/zonas-de-intensidad.md).
-- Si querés correr una distancia en una fecha: [plan de carrera](Resistencia/plan-de-carrera.md), [zonas de intensidad](Resistencia/zonas-de-intensidad.md) y [distribución de la intensidad](Resistencia/distribucion-de-intensidad.md).
-- Si vas al gimnasio y tenés que armar la rutina: [variables de la rutina](Musculacion/variables-de-la-rutina.md), [tipos de rutina](Musculacion/tipos-de-rutina.md) y [ejercicios básicos](Musculacion/ejercicios-basicos.md).
+- Si tenés que medir qué tan fuerte fue una sesión: [carga interna y externa](Carga/carga-interna-y-externa.md), [zonas de intensidad](Resistencia/zonas-de-intensidad.md) si corrés, [repeticiones en reserva](Musculacion/variables-de-la-rutina.md#repeticiones-en-reserva-qué-tan-cerca-del-límite) si hacés pesas, y [registro y monitoreo](Evaluacion/registro-y-monitoreo.md) para ver la tendencia.
+- Si querés correr una distancia en una fecha: [plan de carrera](Resistencia/plan-de-carrera.md), [zonas de intensidad](Resistencia/zonas-de-intensidad.md), [distribución de la intensidad](Resistencia/distribucion-de-intensidad.md) y [métodos de resistencia](Resistencia/metodos-de-resistencia.md).
+- Si vas al gimnasio y tenés que armar la rutina: [variables de la rutina](Musculacion/variables-de-la-rutina.md), [tipos de rutina](Musculacion/tipos-de-rutina.md), [ejercicios básicos](Musculacion/ejercicios-basicos.md) y [técnica y seguridad](Musculacion/tecnica-y-seguridad.md).
+- Si alguien arranca de cero y quiere correr y hacer pesas: [dolor y lesiones](Recuperacion/dolor-y-lesiones.md) (antes de empezar), [cuánto ejercicio](Carga/cuanto-ejercicio.md), [principios básicos](Carga/principios-basicos.md), el tramo de 0 a 5 km de [plan de carrera](Resistencia/plan-de-carrera.md), una rutina de cuerpo completo de [tipos de rutina](Musculacion/tipos-de-rutina.md) y [fuerza y cardio](Planificacion/fuerza-y-cardio.md) para juntarlas. Cuántos días en total son prudentes para quien parte de cero no tiene fuente todavía.
 - Si querés correr y hacer pesas a la vez: [fuerza y cardio](Planificacion/fuerza-y-cardio.md) y [ciclos](Planificacion/ciclos.md).
 - Si tenés poco tiempo: [fuerza y cardio](Planificacion/fuerza-y-cardio.md) (intervalos) y [principios básicos](Carga/principios-basicos.md) (cuánto volumen alcanza).
 - Si sospechás que te estás pasando o algo te duele: [sobreentrenamiento](Recuperacion/sobreentrenamiento.md) y [dolor y lesiones](Recuperacion/dolor-y-lesiones.md).

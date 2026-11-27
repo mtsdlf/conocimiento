@@ -51,21 +51,21 @@ El rango de movimiento es el recorrido de la articulación en cada repetición: 
 |---|---|
 | [Pallarés y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/34170576/), 16 estudios | El rango completo ganó al parcial en fuerza (tamaño del efecto 0,56) y en hipertrofia de piernas (0,88) |
 | [Wolf y otros, 2023](https://doaj.org/article/99e86b317bec40f5abc2f0008358737e) | Ventaja trivial del completo (0,12, con un intervalo de -0,02 a 0,26 que incluye el cero), y un posible beneficio de los parciales hechos con el músculo estirado |
-| [Kassiano y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36662126/) | El rango completo y el parcial en la parte inicial, con el músculo estirado, dieron más hipertrofia en varios músculos que el parcial en la parte final |
+| [Kassiano y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36662126/) | El rango completo y el parcial en la parte inicial dieron más hipertrofia en varios sitios que el parcial en la parte final |
 
-La lectura práctica es usar el rango completo que la persona controla. Las repeticiones parciales de la mitad corta del recorrido son las que menos rinden; un dolor que aparece solo en una parte del recorrido es para consultar ([dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)), no para acortar el rango por cuenta propia.
+La lectura práctica es usar el rango completo que la persona controla. Según Kassiano, el parcial en la parte final del recorrido fue el que menos rindió; un dolor que aparece solo en una parte del recorrido es para consultar ([dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)), no para acortar el rango por cuenta propia.
 
 ## Las rodillas pueden pasar la punta de los pies
 
 La regla de no pasar las rodillas por delante de los pies en la sentadilla no tiene buen respaldo. En un estudio con 7 hombres, restringir las rodillas bajó la carga en la rodilla de 150,1 a 117,3 N·m, pero subió la de la cadera de 28,2 a 302,7 N·m; los autores concluyen que una carga articular adecuada puede requerir que las rodillas pasen algo los pies ([Fry y otros, 2003](https://pubmed.ncbi.nlm.nih.gov/14636100/), según su resumen). Una crítica posterior duda del tamaño de ese aumento en la cadera ([crítica al estudio de Fry](https://ojs.ub.uni-konstanz.de/cpa/article/view/3248/3050)), y una revisión señala que, por las proporciones del cuerpo ([revisión en MDPI](https://www.mdpi.com/2077-0383/12/8/2955/html)), la mayoría tiene que adelantar las rodillas para hacer una sentadilla profunda.
 
-Es un estudio chico más dos fuentes de apoyo. Lo más firme es que la regla rígida traslada la carga a la cadera y la espalda baja, no que la elimine.
+Es un estudio chico más dos fuentes de apoyo, y la crítica duda del tamaño del traslado a la cadera: la cuestión es plausible, no cerrada.
 
 ## La respiración con cargas pesadas
 
 Contener el aire y empujar contra la glotis cerrada (la maniobra de Valsalva) sube la presión dentro del abdomen y la presión arterial. Una revisión dice que los riesgos para la salud "siguen sin confirmarse" (en el original: "health risks ... remain unconfirmed") ([Hackett y Chow, 2013](https://pubmed.ncbi.nlm.nih.gov/23222073/)). En 5 culturistas, el ejercicio pesado dio subas extremas de la presión arterial, en parte por la maniobra ([MacDougall y otros, 1985](https://pubmed.ncbi.nlm.nih.gov/3980383/)). Con la misma carga al máximo, exhalar despacio dio una presión de 198/175 frente a 311/284 con la maniobra ([Lentini y otros, 1995](https://pubmed.ncbi.nlm.nih.gov/7741618/)).
 
-Los dos estudios de presión son muestras minúsculas y con esfuerzos máximos. Quien tiene presión alta o una enfermedad del corazón consulta antes de entrenar con cargas cerca del máximo; las condiciones que piden consulta previa están en [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md#antes-de-empezar-un-cuestionario-no-un-chequeo-para-todos).
+Los dos estudios de presión son muestras minúsculas y con esfuerzos máximos. Quien tiene presión alta o una enfermedad del corazón consulta antes de entrenar con cargas cerca del máximo (prudencia, sin una guía que lo fije); las condiciones que piden consulta previa están en [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md#antes-de-empezar-un-cuestionario-no-un-chequeo-para-todos).
 
 > [!NOTE]
 > Sin fuente todavía: una guía que diga para quién está contraindicada la maniobra de Valsalva. La lista de condiciones de arriba es prudencia, no una recomendación con fuente.

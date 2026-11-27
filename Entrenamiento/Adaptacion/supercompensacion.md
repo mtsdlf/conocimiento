@@ -26,7 +26,7 @@ La supercompensación es el modelo clásico de cómo mejora el cuerpo: una carga
 
 El dibujo es una curva con cuatro tramos. La carga baja el rendimiento por debajo del nivel de partida (la fatiga). Con descanso, el cuerpo vuelve a ese nivel (la recuperación) y lo supera por un tiempo (la supercompensación). Si no llega otra carga, el rendimiento vuelve a bajar hasta el punto de partida.
 
-De la curva salen tres reglas que la tradición repite. Si la carga siguiente llega demasiado pronto, cae sobre fatiga y el rendimiento baja sesión a sesión, que es el camino al [sobreentrenamiento](../Recuperacion/sobreentrenamiento.md). Si llega demasiado tarde, el rebote ya se perdió y no hay acumulación, como en el [desentrenamiento](desentrenamiento.md). Si llega en el rebote, cada sesión parte de un piso un poco más alto. La tradición del profesorado (Matveyev, Platonov, Bompa, Weineck) la enseña como principio central de la teoría del entrenamiento; su historia está en [historia y escuelas](../Fundamentos/historia-y-escuelas.md).
+De la curva salen tres reglas (lectura de esta base, sin un texto de la tradición leído). Si la carga siguiente llega demasiado pronto, cae sobre fatiga y el rendimiento baja sesión a sesión, que es el camino al [sobreentrenamiento](../Recuperacion/sobreentrenamiento.md). Si llega demasiado tarde, el rebote ya se perdió y no hay acumulación, como en el [desentrenamiento](desentrenamiento.md). Si llega en el rebote, cada sesión parte de un piso un poco más alto. La tradición del profesorado (Matveyev, Platonov, Bompa, Weineck) la enseña como principio central de la teoría del entrenamiento; su historia está en [historia y escuelas](../Fundamentos/historia-y-escuelas.md).
 
 > [!NOTE]
 > Sin fuente todavía: un estudio que mida la curva completa tras una sesión (por ejemplo, el rendimiento hora a hora o día a día) y muestre el rebote por encima de la línea de base. No se encontró ninguno que la pruebe ni que la refute.
@@ -41,12 +41,12 @@ Una revisión de modelos de rendimiento lo describe como ecuaciones diferenciale
 - Los valores que se ajustan dependen de los valores iniciales, de la técnica de cálculo y de cómo se midió la carga. Vermeire y otros desaconsejan usar constantes generales porque ignoran las diferencias entre personas, y piden que el modelo informe las decisiones y no las dirija ([Vermeire y otros, 2022](https://www.pubmed.gov/35320776/), según su resumen).
 
 > [!NOTE]
-> Sin fuente todavía: los trabajos originales de Banister (1975 y 1991) y la revisión de Hellard (2006) sobre sus límites, citada por terceros y no leída.
+> Sin fuente todavía: los trabajos originales de Banister (1975 y 1991) y la revisión de Hellard (2006) sobre sus límites, citada por terceros y no leída. La descripción de los dos efectos del primer párrafo de esta sección es la corriente, sin un texto leído que la formule.
 
 ## Lo que discute Kiely
 
 > [!IMPORTANT]
-> **La tradición**: la supercompensación es el principio biológico de la adaptación, y la planificación se arma para que cada carga caiga en el rebote de la anterior. Es como se enseña en los profesorados y en los manuales de Bompa y Weineck.
+> **La tradición**: la supercompensación es el principio biológico de la adaptación, y la planificación se arma para que cada carga caiga en el rebote de la anterior. Es como la cuenta la tradición del profesorado (Matveyev, Platonov, Bompa, Weineck), según las fuentes consultadas; los manuales no se abrieron.
 >
 > **La crítica**: Kiely sostiene que la teoría de la periodización se apoyó en la ciencia del estrés de Selye, que «la ciencia del estrés evolucionó mucho desde sus raíces históricas» (en el original: "the science of stress has evolved extensively from its historical roots"), y que la creencia de que el estrés mecánico determina directamente la adaptación persistió pese a la evidencia en contra ([Kiely, 2018](https://link.springer.com/article/10.1007/s40279-017-0823-y), según su resumen). Antes había escrito que algunos supuestos fundacionales de la periodización ya no están justificados y que la variabilidad entre personas desafía los planes genéricos ([Kiely, 2012](https://pure.ul.ie/en/publications/periodization-paradigms-in-the-21st-century-evidence-led-or-tradi/), según su resumen).
 >

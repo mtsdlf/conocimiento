@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La recuperación es lo que pasa entre una sesión y la siguiente, cuando el cuerpo repara la fatiga y se adapta; sin ella la carga no se convierte en mejora sino en cansancio acumulado, enfermedad o lesión, y depende sobre todo del sueño, de comer lo suficiente y de cómo se dosifica la carga.
+  La recuperación es lo que pasa entre una sesión y la siguiente, cuando el cuerpo repara la fatiga y se adapta; sin ella la carga no se convierte en mejora sino en cansancio acumulado, enfermedad o lesión, y en ella pesan el sueño, comer lo suficiente y cómo se dosifica la carga.
 estado: borrador
 estabilidad: estable
 dueno: familia
@@ -18,15 +18,15 @@ revisado:
 
 # Recuperación
 
-La recuperación es lo que pasa entre una sesión y la siguiente, cuando el cuerpo repara la fatiga y se adapta; sin ella la carga no se convierte en mejora sino en cansancio acumulado, enfermedad o lesión, y depende sobre todo del sueño, de comer lo suficiente y de cómo se dosifica la carga.
+La recuperación es lo que pasa entre una sesión y la siguiente, cuando el cuerpo repara la fatiga y se adapta; sin ella la carga no se convierte en mejora sino en cansancio acumulado, enfermedad o lesión, y en ella pesan el sueño, comer lo suficiente y cómo se dosifica la carga.
 
-Es la otra cara de la [carga](../Carga/carga.md). Una sesión cansa, y la mejora llega después, mientras el cuerpo se recupera: ese ciclo de estímulo, fatiga y rebote es la [supercompensación](../Adaptacion/supercompensacion.md). La [planificación](../Planificacion/planificacion.md) reserva lugar para recuperar, con días suaves y semanas de [descarga](../Planificacion/descarga-y-taper.md), y la [evaluación](../Evaluacion/registro-y-monitoreo.md) avisa cuando no alcanza.
+Es la otra cara de la [carga](../Carga/carga.md). Una sesión cansa, y la mejora llega después, mientras el cuerpo se recupera: ese ciclo de estímulo, fatiga y rebote es la [supercompensación](../Adaptacion/supercompensacion.md), un modelo de la tradición y no un mecanismo medido. La [planificación](../Planificacion/planificacion.md) reserva lugar para recuperar, con días suaves y semanas de [descarga](../Planificacion/descarga-y-taper.md), y la [evaluación](../Evaluacion/registro-y-monitoreo.md) avisa cuando no alcanza.
 
 ## La recuperación depende de la carga
 
-Lo que más decide si alguien se recupera es cuánto y cómo se cargó. El consenso de 2016 del Comité Olímpico Internacional (COI) sobre carga lo trata en dos partes: la primera dice que "poor load management is a major risk factor for injury" ([Soligard y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/27535989/), según su resumen) y la segunda, que "inappropriate load management is a significant risk factor for acute illness" ([Schwellnus y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/27535991/), según su resumen). Cargar de más, o subir de golpe, se paga con lesiones y con resfríos.
+Cuánto y cómo se carga pesa en la recuperación (lectura de esta base a partir de los consensos que siguen). El consenso de 2016 del Comité Olímpico Internacional (COI) sobre carga lo trata en dos partes: la primera dice que "poor load management is a major risk factor for injury" ([Soligard y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/27535989/), según su resumen) y la segunda, que "inappropriate load management is a significant risk factor for acute illness" ([Schwellnus y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/27535991/), según su resumen). Según esos dos consensos, manejar mal la carga se asocia con lesiones y con enfermedades agudas.
 
-Por eso los medios de recuperación (masaje, frío, compresión) son lo último de la lista. Ninguno compensa una carga mal puesta, un sueño corto o comer de menos.
+Por eso los medios de recuperación (masaje, frío, compresión) son lo último de la lista. Ninguno compensa una carga mal puesta, un sueño corto o comer de menos. Es inferencia de esta base: ninguna fuente leída compara el peso de cada medio.
 
 ## Las tres cosas que recuperan
 
@@ -34,7 +34,7 @@ Por eso los medios de recuperación (masaje, frío, compresión) son lo último 
 
 **Comer lo suficiente.** Entrenar con poca energía disponible deteriora la salud y el rendimiento; el consenso del COI de 2023 lo llama REDs ([Mountjoy y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/37752011/), según su resumen). Está en [sobreentrenamiento](sobreentrenamiento.md), y qué comer para rendir, en [rendimiento](../../Nutricion/Objetivos-del-adulto/rendimiento.md), en Nutrición.
 
-**Días suaves y descansos.** La recuperación no es solo no entrenar: un día suave o una semana con menos volumen también recuperan. Cómo se ubican en el calendario está en [descarga y taper](../Planificacion/descarga-y-taper.md) y en [ciclos](../Planificacion/ciclos.md).
+**Días suaves y descansos.** La recuperación no es solo no entrenar: un día suave o una semana con menos volumen también recuperan (razonamiento de esta base, sin fuente). Cómo se ubican en el calendario está en [descarga y taper](../Planificacion/descarga-y-taper.md) y en [ciclos](../Planificacion/ciclos.md).
 
 ## Cuándo el cansancio deja de ser útil
 
@@ -44,7 +44,7 @@ El dolor es la otra señal. El dolor muscular de los días siguientes es normal;
 
 ## Masaje, frío y compresión
 
-Los medios de recuperación tienen evidencia, pero sobre todo para las sensaciones. Un metaanálisis encontró que "Massage seems to be the most effective method for reducing DOMS and perceived fatigue" y que la compresión ayuda con la fatiga percibida ([Dupuy y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/29755363/), según su resumen). Qué hace cada medio, y lo que no se sabe sobre su efecto en el rendimiento siguiente, está en [sueño y recuperación](sueno-y-recuperacion.md). Estirar no reduce el dolor del día después: está en [mitos del entrenamiento](../Fundamentos/mitos-del-entrenamiento.md).
+Los medios de recuperación tienen evidencia sobre todo para el dolor y la fatiga percibida, y para marcadores de inflamación. Un metaanálisis encontró que "Massage seems to be the most effective method for reducing DOMS and perceived fatigue" y que la compresión ayuda con la fatiga percibida ([Dupuy y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/29755363/), según su resumen). Qué hace cada medio, y lo que no se sabe sobre su efecto en el rendimiento siguiente, está en [sueño y recuperación](sueno-y-recuperacion.md). Estirar no reduce el dolor del día después: está en [mitos del entrenamiento](../Fundamentos/mitos-del-entrenamiento.md).
 
 > [!IMPORTANT]
 > Esta vertical toca salud. No reemplaza a un médico ni a un kinesiólogo: un cansancio que no se va con descanso o un dolor que empeora se consultan.

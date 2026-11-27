@@ -41,7 +41,7 @@ Cómo se traducen los umbrales en zonas de trabajo está en [zonas de intensidad
 
 ## Por qué importa para la salud
 
-La capacidad aeróbica es uno de los mejores predictores de cuánto se vive. En 122.007 pacientes, los de capacidad baja tuvieron unas cinco veces más riesgo de morir en el período que los de capacidad de élite ([Mandsager y otros, 2018](https://doi.org/10.1001/jamanetworkopen.2018.3605)), y en un metaanálisis cada MET más de capacidad se asoció con 13 % menos mortalidad ([Kodama y otros, 2009](https://doi.org/10.1001/jama.2009.681)). Las dos son observacionales y están contadas en [rendir y coordinar](../rendir-y-coordinar.md). Cuántos minutos por semana pide la OMS está en [cuánto ejercicio](../Carga/cuanto-ejercicio.md).
+La capacidad aeróbica se asocia con cuánto se vive, según estudios observacionales. En 122.007 pacientes, los de capacidad baja tuvieron unas cinco veces más riesgo de morir en el período que los de capacidad de élite ([Mandsager y otros, 2018](https://doi.org/10.1001/jamanetworkopen.2018.3605)), y en un metaanálisis cada MET más de capacidad se asoció con 13 % menos mortalidad ([Kodama y otros, 2009](https://doi.org/10.1001/jama.2009.681)). Las dos son observacionales y están contadas en [rendir y coordinar](../rendir-y-coordinar.md). Cuántos minutos por semana pide la OMS está en [cuánto ejercicio](../Carga/cuanto-ejercicio.md).
 
 ## Cómo se entrena
 
@@ -51,7 +51,7 @@ Los métodos en detalle (fartlek, cuestas, tirada larga), cómo repartir las int
 
 ## Cómo se pierde y cómo convive con la fuerza
 
-Es la capacidad que se pierde más rápido. En atletas muy entrenados, el consumo máximo de oxígeno y el volumen de sangre caen pronto cuando se deja de entrenar ([Mujika y Padilla, 2000](https://pubmed.ncbi.nlm.nih.gov/10966148/); detalle en [desentrenamiento](../Adaptacion/desentrenamiento.md)).
+En atletas muy entrenados se pierde más rápido que la fuerza: el consumo máximo de oxígeno y el volumen de sangre caen pronto cuando se deja de entrenar ([Mujika y Padilla, 2000](https://pubmed.ncbi.nlm.nih.gov/10966148/); detalle en [desentrenamiento](../Adaptacion/desentrenamiento.md)).
 
 Combinada con la fuerza, no le quita músculo ni fuerza máxima a un adulto común ([fuerza y cardio](../Planificacion/fuerza-y-cardio.md)). Con la misma dosis, unos mejoran mucho y otros poco, como cuenta [rendir y coordinar](../rendir-y-coordinar.md); por eso conviene medirse con [tests de capacidad](../Evaluacion/tests-de-capacidad.md) y no compararse con el promedio.
 

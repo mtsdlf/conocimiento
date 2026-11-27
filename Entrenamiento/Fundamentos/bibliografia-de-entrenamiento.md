@@ -42,9 +42,9 @@ El orden es una recomendación de esta base, no un hallazgo. Va de lo que sirve 
 
 | Obra | Qué aporta | Qué leer y en qué fijarse | Leído |
 |---|---|---|---|
-| Haff y Triplett (eds.), *Essentials of Strength Training and Conditioning*, NSCA, 4.ª ed. | El manual de la certificación CSCS: adaptaciones aeróbicas y anaeróbicas, selección de tests, calentamiento, pliometría, velocidad y agilidad, diseño de programas de resistencia aeróbica y periodización ([ficha](https://www.schweitzer-online.de/en/buch/Haff/Essentials-Strength-Training-Conditioning/9781718210868/A60068798/)) | Los capítulos de diseño de programas y de periodización | Resumen (ficha) |
+| Haff y Triplett (eds.), *Essentials of Strength Training and Conditioning*, NSCA, 4.ª ed. | El manual de la NSCA: adaptaciones aeróbicas y anaeróbicas, selección de tests, calentamiento, pliometría, velocidad y agilidad, diseño de programas de resistencia aeróbica y periodización ([ficha](https://www.schweitzer-online.de/en/buch/Haff/Essentials-Strength-Training-Conditioning/9781718210868/A60068798/)) | Los capítulos de diseño de programas y de periodización | Resumen (ficha) |
 | Liguori (ed.), *ACSM's Guidelines for Exercise Testing and Prescription*, 11.ª ed. | La referencia para prescribir ejercicio a adultos y a personas con condiciones de salud; integra las guías de actividad física de Estados Unidos de 2018 e incluye intervalos de alta intensidad en casi todas las condiciones ([ACSM](https://www.acsm.org/blog-detail/acsm-blog/2021/01/12/acsm-guidelines-for-exercise-testing-and-prescription-11th-edition-qa-senior-editor-gary-liguori)) | Las cajas FITT (frecuencia, intensidad, tiempo, tipo) de cada población | Resumen (blog del ACSM) |
-| Zatsiorsky, Kraemer y Fry, *Science and Practice of Strength Training*, 3.ª ed. | La ciencia de la fuerza: manifestaciones, factores neurales y musculares, cómo se dosifica ([ficha](https://us.humankinetics.com/products/science-and-practice-of-strength-training-3rd-edition)) | El porqué detrás de las variables de una rutina | Resumen (ficha) |
+| Zatsiorsky, Kraemer y Fry, *Science and Practice of Strength Training*, 3.ª ed. | La ciencia de la fuerza, en una edición actualizada con ciencia reciente ([ficha](https://us.humankinetics.com/products/science-and-practice-of-strength-training-3rd-edition)) | El porqué detrás de las variables de una rutina | Resumen (ficha) |
 
 Las fechas no coinciden entre fichas. El manual de la NSCA figura con 2016 en una y con el 21 de junio de 2021 en otra, y podría existir una 5.ª edición. Las guías del ACSM son de 2021 según la mayoría de las fuentes, 2022 según un catálogo. Zatsiorsky figura como 2020 o con copyright 2021.
 
@@ -58,10 +58,10 @@ Son los que aparecen en los programas de la UNLP (2016) y del ISEF de Catamarca 
 | Obra | Qué aporta | Leído |
 |---|---|---|
 | Matveyev, la obra de 1964 sobre la periodización; en el ISEF de Catamarca figura una edición de 2001 | El modelo clásico de periodización | Nada |
-| Bompa y Buzzichelli, *Periodization*, 6.ª ed. (2019); en castellano, *Periodización*. Bompa tiene además *Entrenamiento de equipos deportivos* | La versión occidental del modelo clásico; los capítulos de terminología y plan anual definen macro, meso y microciclo ([ficha](https://us.humankinetics.com/products/Periodization-6th-Edition)) | Resumen (ficha) |
+| Bompa y Buzzichelli, *Periodization*, 6.ª ed. (2019); en castellano, *Periodización*. Bompa tiene además *Entrenamiento de equipos deportivos* | La versión de Bompa del modelo clásico; los informes proponen sus capítulos de terminología y plan anual para la definición de macro, meso y microciclo ([ficha](https://us.humankinetics.com/products/Periodization-6th-Edition)) | Resumen (ficha) |
 | Platonov, *La adaptación en el deporte* (1988) y *El entrenamiento deportivo, teoría y metodología* (1988) | La adaptación y la periodización en dos ciclos por año; su manual *Teoría general de preparación de los deportistas en el deporte olímpico* se publicó en España en 2001 ([reseña](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4327377/)) | Resumen (reseña) |
 | Weineck, *Entrenamiento total* y *Entrenamiento óptimo* (1994) | La escuela alemana: capacidades condicionales y coordinativas, con base de medicina del deporte | Nada |
-| Verkhoshansky, *Teoría y metodología del entrenamiento deportivo* (Paidotribo), y con Siff, *Superentrenamiento* | El antecedente de la periodización en bloques y del entrenamiento de fuerza especial | Nada |
+| Verkhoshansky, *Teoría y metodología del entrenamiento deportivo* (Paidotribo), y con Siff, *Superentrenamiento* | El antecedente de la periodización en bloques | Nada |
 | Issurin, *Periodización en bloques* | El modelo de bloques contado por quien lo sistematizó | Nada |
 | García Manso, Navarro Valdivielso y Ruiz Caballero, *Planificación del entrenamiento deportivo* (Gymnos); García Manso, *La resistencia desde la óptica de las ciencias aplicadas al entrenamiento deportivo* (Grada Sport Books, 2006) | La planificación y la resistencia en la escuela española ([lista de libros](https://efdeportes.com/libros/en.htm)) | Nada |
 | Martin, Carl y Lehnertz (2001) | La definición de entrenamiento que usa la UNLP | Solo la cita del programa |
@@ -103,6 +103,6 @@ Los estudios que cita esta base salen sobre todo de un puñado de revistas. Ning
 ## Divulgación seria
 
 > [!NOTE]
-> Sin fuente todavía: una selección verificada de divulgación en castellano o inglés (libros, sitios, podcasts). Los informes nombran a autores de práctica en fuerza, como Helms, Nuckols e Israetel, y a Jeukendrup en nutrición deportiva, pero no se consultó su material y no se recomiendan desde acá.
+> Sin fuente todavía: una selección verificada de divulgación en castellano o inglés (libros, sitios, podcasts). Ningún informe la cubre y no se recomienda ninguna desde acá.
 
 Mientras tanto, la guía para leer divulgación es la de [mitos del entrenamiento](mitos-del-entrenamiento.md): creerle a lo que repiten varios estudios o un metaanálisis, no al estudio de la semana.

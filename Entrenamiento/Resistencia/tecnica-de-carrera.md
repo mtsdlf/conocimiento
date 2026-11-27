@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La técnica de carrera que más se discute es la cadencia, los pasos por minuto, y la pisada, qué parte del pie toca primero el suelo; subir un poco la cadencia baja la carga en rodilla y cadera, pero que eso prevenga lesiones no está probado, y cambiar la pisada en un corredor sano no se recomienda; para la zapatilla, el mejor criterio disponible es la comodidad.
+  La técnica de carrera que más se discute es la cadencia, los pasos por minuto, y la pisada, qué parte del pie toca primero el suelo; subir un poco la cadencia baja la carga en rodilla y cadera, pero que eso prevenga lesiones no está probado, y un metaanálisis desaconseja cambiar la pisada en un corredor sano; para la zapatilla, una revisión propone como criterio la comodidad.
 estado: borrador
 estabilidad: semi
 dueno: familia
@@ -23,7 +23,7 @@ revisado:
 
 # Técnica de carrera
 
-La técnica de carrera que más se discute es la cadencia, los pasos por minuto, y la pisada, qué parte del pie toca primero el suelo; subir un poco la cadencia baja la carga en rodilla y cadera, pero que eso prevenga lesiones no está probado, y cambiar la pisada en un corredor sano no se recomienda; para la zapatilla, el mejor criterio disponible es la comodidad.
+La técnica de carrera que más se discute es la cadencia, los pasos por minuto, y la pisada, qué parte del pie toca primero el suelo; subir un poco la cadencia baja la carga en rodilla y cadera, pero que eso prevenga lesiones no está probado, y un metaanálisis desaconseja cambiar la pisada en un corredor sano; para la zapatilla, una revisión propone como criterio la comodidad.
 
 La técnica importa por las lesiones y por la economía, uno de los factores del rendimiento que describe [resistencia aeróbica](../Capacidades/resistencia-aerobica.md). Esta nota no enseña a correr paso a paso: eso es trabajo de un profesor, como dice el [alcance](../ALCANCE.md).
 
@@ -38,15 +38,15 @@ Son medidas de un momento en gente sana, no estudios de lesiones.
 >
 > **Una revisión de 2025 es más favorable**: el reentrenamiento de la cadencia «parece» una estrategia accesible y eficaz, con indicios de prevención en el dolor de rodilla patelofemoral y en las fracturas por estrés de tibia, aunque pide estudios prospectivos ([revisión de 2025](https://pubmed.ncbi.nlm.nih.gov/40964543/), según su resumen).
 >
-> El razonamiento mecánico es sólido (menos carga en cada paso); el beneficio en lesiones, no.
+> El razonamiento mecánico (menos carga en cada paso) es lectura propia a partir de las medidas de carga; el beneficio en lesiones no está probado.
 
-Si querés probar, subí la cadencia un poco y no de golpe: Heiderscheit trabajó con cambios de 5 y 10 %. Tiene sentido sobre todo si tenés molestias de rodilla, y ahí lo decide un kinesiólogo ([dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)).
+Si querés probar, subí la cadencia un poco y no de golpe: Heiderscheit trabajó con cambios de 5 y 10 %. La revisión de 2025 apunta al dolor de rodilla patelofemoral; si tenés molestias de rodilla, lo decide un kinesiólogo ([dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)).
 
 ## Talón o antepié: no cambies la pisada si no te duele nada
 
 Entre 52 corredores universitarios, el 69 % apoyaba primero el talón y el 31 % el antepié; los de talón tuvieron cerca del doble de lesiones por estrés repetido y una cantidad parecida de lesiones traumáticas. Los propios autores dicen que eso no prueba causa ([Daoud y otros, 2012](https://pubmed.ncbi.nlm.nih.gov/22217561/), según su resumen). Una revisión posterior encontró que 3 de 6 estudios con la pisada clasificada hallaron más lesiones pasadas en quienes apoyan el talón, con calidad muy baja y sin estudios que sigan a los corredores hacia adelante ([Burke y otros, 2021](https://doras.dcu.ie/28875/1/burke-et-al-2021-risk-factors-for-injuries-in-runners-a-systematic-review-of-foot-strike-technique-and-its.pdf), según su resumen).
 
-Un metaanálisis de 2020, con 53 estudios, desaconseja cambiar la pisada en corredores sanos: no mejora la economía y pasa carga al tobillo ([metaanálisis de 2020](https://pubmed.ncbi.nlm.nih.gov/31823338/), según su resumen). Cambiar de pisada mueve el problema de lugar, no lo elimina.
+Un metaanálisis de 2020, con 53 estudios, desaconseja cambiar la pisada en corredores sanos: no mejora la economía y pasa carga al tobillo ([metaanálisis de 2020](https://pubmed.ncbi.nlm.nih.gov/31823338/), según su resumen). Que cambiar de pisada "mueve el problema de lugar" es lectura propia de ese traslado de carga al tobillo.
 
 ## La zapatilla y la lesión: el filtro de la comodidad
 

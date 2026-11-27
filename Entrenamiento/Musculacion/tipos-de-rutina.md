@@ -27,7 +27,7 @@ El tipo de rutina es la [frecuencia](variables-de-la-rutina.md#frecuencia-cuánt
 Un metaanálisis de 2024 concluyó que dividir el cuerpo o entrenarlo completo "no cambia de forma significativa" la fuerza ni la hipertrofia cuando el volumen está igualado (en el original: "do not significantly impact either strength gains or muscle hypertrophy when volume is equated"), y que se puede elegir por preferencia ([Ramos-Campo y otros, 2024](https://pubmed.ncbi.nlm.nih.gov/38595233/), según su resumen). Un ensayo en mujeres no entrenadas tampoco encontró ventaja de la rutina dividida ([ensayo de 2022](https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-022-00481-7)).
 
 > [!IMPORTANT]
-> En entrenados, un ensayo chico dio un resultado mixto: algo a favor de la rutina dividida para el músculo y del cuerpo completo para la fuerza máxima ([Bartolomei y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/32168178/), con el enlace sin confirmar). Es un solo estudio contra un metaanálisis; para un principiante o intermedio no cambia la elección.
+> En entrenados, un ensayo chico dio un resultado mixto: algo a favor de la rutina dividida para el músculo y del cuerpo completo para la fuerza máxima ([Bartolomei y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/32168178/), con el enlace sin confirmar). Es un solo estudio contra un metaanálisis; que para un principiante o intermedio no cambie la elección es lectura propia.
 
 Los nombres (torso-pierna, empuje-tracción-pierna) son de la práctica: la literatura no los estudia como categorías, sino como formas de repartir volumen y frecuencia.
 
@@ -56,11 +56,11 @@ La elección sale de cruzar dos datos con fuente: entrenar cada grupo grande al 
 
 Un grupo por día deja cada músculo una sola vez por semana. Funciona si junta el mismo volumen, según Ramos-Campo, pero juntar todas las series de un músculo en un día hace que las últimas salgan más cansadas; esto es inferencia.
 
-Con poco tiempo, menos días largos o más días cortos dan lo mismo mientras el volumen semanal sea igual. Lo que decide es cuál de las dos se sostiene: un plan de cinco días que se cumple tres veces rinde menos que uno de tres que se cumple siempre ([elegir un plan o un entrenador](../Fundamentos/elegir-plan-o-entrenador.md)).
+Con poco tiempo, menos días largos o más días cortos darían lo mismo mientras el volumen semanal sea igual (inferencia a partir de Ramos-Campo). Lo que decide es cuál de las dos se sostiene: un plan de cinco días que se cumple tres veces rinde menos que uno de tres que se cumple siempre (inferencia, sin fuente; [elegir un plan o un entrenador](../Fundamentos/elegir-plan-o-entrenador.md)).
 
 ## Combinada con correr u otro deporte
 
-Si la semana tiene también carrera o un deporte, los días de pierna compiten con ellos por la recuperación. Cómo se reparten y por qué el cardio no le quita músculo a la fuerza está en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md).
+Si la semana tiene también carrera o un deporte, los días de pierna compiten con ellos por la recuperación. Cómo se reparten, y qué dicen los metaanálisis sobre si el cardio le quita músculo a la fuerza (Schumann no vio pérdida; Wilson sí al correr), está en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md).
 
 ## Qué tan firme es lo que dice esta nota
 

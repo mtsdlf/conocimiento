@@ -32,7 +32,7 @@ Son la versión de gimnasio de los [componentes de la carga](../Carga/componente
 
 La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM) revisó 137 revisiones sistemáticas y encontró que pocas variables de la prescripción cambiaron los resultados principales ("few RT prescription variables affected primary adaptations", según el resumen del buscador). Entrenar al fallo, el tipo de equipo, la estructura de las series, el tiempo bajo tensión y la periodización no mejoraron los resultados de forma consistente ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/)). La lista de lo que no importa salió de resúmenes secundarios, no del artículo.
 
-En la práctica, eso ordena las perillas por peso: hacer suficientes series por semana, que terminen cerca del límite y que la carga suba con el tiempo ([progresión en el gimnasio](progresion-en-el-gimnasio.md)). El resto se elige por gusto, por tiempo o por lo que haya en el gimnasio.
+En la práctica, y como lectura propia, eso ordena las perillas por peso: hacer suficientes series por semana, que terminen cerca del límite y que la carga suba con el tiempo ([progresión en el gimnasio](progresion-en-el-gimnasio.md)). El resto se elige por gusto, por tiempo o por lo que haya en el gimnasio.
 
 ## Repeticiones en reserva: qué tan cerca del límite
 
@@ -42,11 +42,11 @@ La escala de esfuerzo percibido (RPE) basada en RIR las traduce a un puntaje del
 
 Estimar las RIR no es exacto. Según un resumen del buscador sin autor identificado, aun con un año de experiencia la precisión en series lejos del límite puede seguir siendo baja. Una forma de calibrarse, que es práctica y no un hallazgo, es llevar de vez en cuando una serie del último ejercicio al fallo y comparar con lo que se había estimado.
 
-Cuánto dejar en reserva lo explica [principios básicos](../Carga/principios-basicos.md): llegar al fallo no mostró ventaja clara para el músculo ([Refalo y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36334240/)), los ensayos que lo compararon usaron una o dos repeticiones en reserva y llegar al fallo dio más malestar que dejar 1 a 2 ([Refalo y otros, 2025](https://pubmed.ncbi.nlm.nih.gov/39960821/)). Ninguna guía fija un número de RIR.
+Cuánto dejar en reserva lo explica [principios básicos](../Carga/principios-basicos.md): llegar al fallo no mostró ventaja clara para el músculo ([Refalo y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/36334240/)), y en un ensayo chico (18 personas entrenadas) llegar al fallo dio más malestar y menos sensaciones positivas que dejar 1 a 2 ([Refalo y otros, 2025](https://pubmed.ncbi.nlm.nih.gov/39960821/)). Las fuentes consultadas no fijan un número de RIR.
 
 ## Series por semana y por sesión
 
-El volumen de una rutina se cuenta en series por grupo muscular y por semana, contando solo las que terminan cerca del límite (las de entrada en calor no suman). [Principios básicos](../Carga/principios-basicos.md) da los dos números de referencia de la base: 4 series semanales como mínimo para quien tiene poco tiempo (opinión de los autores de una revisión, [Iversen y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/34125411/)) y 10 series semanales para hacer crecer el músculo, según el comunicado de la ACSM 2026. Por ejercicio, la misma ACSM habla de 2 a 3 series para la fuerza máxima.
+El volumen de una rutina se cuenta en series por grupo muscular y por semana, contando solo las que terminan cerca del límite (las de entrada en calor no suman: criterio de práctica, sin fuente acá). [Principios básicos](../Carga/principios-basicos.md) da los dos números de referencia de la base: 4 series semanales como mínimo para quien tiene poco tiempo (opinión de los autores de una revisión, [Iversen y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/34125411/)) y 10 series semanales para hacer crecer el músculo, según el comunicado de la ACSM 2026. Por ejercicio, la misma ACSM habla de 2 a 3 series para la fuerza máxima.
 
 Cómo cuenta una serie que trabaja dos músculos (un press de banca trabaja pecho y tríceps) no tiene una regla con fuente. Más series semanales dan algo más de músculo, con una curva que se aplana ([hipertrofia](hipertrofia.md)).
 
@@ -68,14 +68,14 @@ Lopez y otros clasificaron como carga baja más de 15 RM, moderada 9 a 15 RM y a
 
 Descansar más de un minuto ayuda algo al músculo. En un ensayo con 21 hombres entrenados, descansar 3 minutos dio más fuerza en sentadilla y banca y más grosor del muslo que descansar 1 ([Schoenfeld y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/26605807/)). Un metaanálisis de 9 estudios encontró un beneficio pequeño con descansos de más de 60 segundos ("small hypertrophic benefit to employing inter-set rest interval durations >60 s") y ninguna diferencia apreciable por encima de 90 ([Singer y otros, 2024](https://pubmed.ncbi.nlm.nih.gov/39205815/)). Las dos fuentes coinciden, con muestras chicas.
 
-La ACSM 2009 da 1 a 2 minutos para el músculo y 3 a 5 para la fuerza máxima con cargas pesadas. Una explicación posible, que es inferencia y no se leyó en las fuentes, es que con poco descanso las series siguientes salen con menos repeticiones y la sesión junta menos trabajo.
+La ACSM 2009 da 1 a 2 minutos para el músculo y 3 a 5 para la fuerza máxima en avanzados. Una explicación posible, que es inferencia y no se leyó en las fuentes, es que con poco descanso las series siguientes salen con menos repeticiones y la sesión junta menos trabajo.
 
 ## Frecuencia: cuántas veces por semana cada músculo
 
 La frecuencia sirve sobre todo para repartir el volumen. Un metaanálisis de 10 estudios concluyó que los grandes grupos musculares deberían entrenarse "al menos dos veces por semana" para maximizar el crecimiento, y dejó abierto si tres superan a dos ([Schoenfeld, Ogborn y Krieger, 2016](https://pubmed.ncbi.nlm.nih.gov/27102172/)).
 
 > [!IMPORTANT]
-> Las fuentes discrepan sobre si la frecuencia suma algo propio. Schoenfeld 2016 vio más efecto con dos sesiones que con una, aunque advirtió que con volumen igualado la muestra no alcanzaba para estimarlo bien. Un metaanálisis de 2018 que igualó el volumen no encontró efecto de la frecuencia sobre la hipertrofia (según un resumen del buscador, sin la cita verificada), y Grgic y otros, 2018, tampoco sobre la fuerza ([Grgic y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/29470825), identificación no confirmada). La lectura que concilia las dos es que dos sesiones por músculo facilitan juntar el volumen con series de calidad, más que agregar un efecto aparte.
+> Las fuentes discrepan sobre si la frecuencia suma algo propio. Schoenfeld 2016 vio más efecto con mayor frecuencia (0,49 contra 0,30, al comparar 1 a 3 días por semana por músculo), aunque los informes no coinciden en si eso fue con el volumen igualado, y uno dice que con volumen igualado la muestra no alcanzaba para estimarlo bien. Un metaanálisis de 2018 que igualó el volumen no encontró efecto de la frecuencia sobre la hipertrofia (según un resumen del buscador, sin la cita verificada), y Grgic y otros, 2018, tampoco sobre la fuerza ([Grgic y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/29470825), identificación no confirmada). La lectura provisional que concilia las dos es que dos sesiones por músculo facilitan juntar el volumen con series de calidad, más que agregar un efecto aparte.
 
 La frecuencia por músculo es la que decide qué [tipo de rutina](tipos-de-rutina.md) entra en los días disponibles. Las sesiones por semana según el nivel, en la ACSM 2009, son 2 a 3 para principiantes, 3 a 4 para intermedios y 4 a 5 para avanzados.
 

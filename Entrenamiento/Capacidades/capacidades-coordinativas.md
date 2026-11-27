@@ -43,11 +43,11 @@ Las cinco primeras son el modelo de Hirtz; las siete, el que otra página atribu
 ## Una clasificación discutida
 
 > [!IMPORTANT]
-> **La tradición** alemana trata a cada capacidad coordinativa como un rasgo general: quien mejora su equilibrio lo mejora para cualquier tarea, y por eso se entrena aparte. Así se enseña en el profesorado.
+> **La tradición** alemana trata a cada capacidad coordinativa como un rasgo general: quien mejora su equilibrio lo mejora para cualquier tarea, y por eso se entrena aparte. Así se enseña en el profesorado, según las fuentes consultadas.
 >
 > **La crítica**: un capítulo de manual describe el estudio científico de estas capacidades como marcado por la controversia y los vacíos de investigación, sin alternativas verificadas con datos ([manual de Springer](https://rd.springer.com/content/pdf/10.1007%2F978-3-662-53386-4_51-1.pdf), según un resumen secundario). Y según una revisión que lo cita, el trabajo de Henry encontró que la coordinación y la agilidad eran específicas de cada tarea, no capacidades generales ([revisión sobre capacidades psicomotoras](https://core.ac.uk/works/8486311), según un resumen secundario).
 >
-> **Lo que queda**: la lista sirve para no olvidar ningún aspecto del control del movimiento, pero no hay pruebas de que entrenar «el equilibrio» en general mejore el equilibrio en todas las tareas. Es otro caso de [especificidad](../Adaptacion/especificidad.md).
+> **Lo que queda**: la lista sirve para no olvidar ningún aspecto del control del movimiento, pero en lo consultado no se encontró evidencia de que entrenar «el equilibrio» en general mejore el equilibrio en todas las tareas. Es otro caso de [especificidad](../Adaptacion/especificidad.md).
 
 ## Lo que pide la guía y lo que tiene evidencia
 
@@ -62,7 +62,7 @@ Para aprender una habilidad, mezclar variantes en la misma sesión se retiene y 
 
 Un deporte de habilidad, el baile o los ejercicios en un pie y con cambios de dirección cubren el trabajo neuromotor, como propone [rendir y coordinar](../rendir-y-coordinar.md); que una clase o un deporte cumplan la guía es una inferencia de esa nota. En el gimnasio, los [ejercicios básicos](../Musculacion/ejercicios-basicos.md) libres piden equilibrio y control del gesto, aunque cuánto aportan a la coordinación general no tiene fuente. La técnica de un deporte o de cada ejercicio la enseña un profesor ([elegir un plan o un entrenador](../Fundamentos/elegir-plan-o-entrenador.md)).
 
-La coordinación también entra en las otras capacidades: correr rápido depende en buena parte de ordenar bien el movimiento ([velocidad](velocidad.md)), y la economía de carrera, uno de los factores de la [resistencia aeróbica](resistencia-aerobica.md), tiene causas que siguen sin entenderse bien.
+La coordinación también entra en las otras capacidades: correr rápido depende, según la crítica alemana a su clasificación, de ordenar bien el movimiento ([velocidad](velocidad.md)), y la economía de carrera, uno de los factores de la [resistencia aeróbica](resistencia-aerobica.md), tiene causas que siguen sin entenderse bien.
 
 ## Qué tan firme es lo que dice esta nota
 

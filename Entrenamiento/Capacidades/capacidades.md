@@ -30,13 +30,13 @@ No hay una sola lista. Hay tres tradiciones, y esta base toma de las tres.
 
 | Escuela | Cómo las divide | Para qué sirve |
 |---|---|---|
-| Alemana (Grosser, Weineck, Meinel y Schnabel) | **Condicionales**, que dependen sobre todo de la energía (fuerza, resistencia, velocidad), y **coordinativas**, que dependen del control del sistema nervioso; la flexibilidad queda a veces entre las condicionales y a veces aparte | Es la que se enseña en los profesorados de educación física |
+| Alemana (Grosser, Weineck, Meinel y Schnabel) | **Condicionales**, que dependen sobre todo de la energía (fuerza, resistencia, velocidad), y **coordinativas**, que dependen del control del sistema nervioso; la flexibilidad queda a veces entre las condicionales y a veces aparte | Es la tradición de los profesorados de educación física, según las fuentes consultadas |
 | Manuales de entrenamiento en inglés (Bompa) | Cinco «capacidades biomotoras» sin dividir: resistencia, fuerza, velocidad, flexibilidad y coordinación | Ordenar la planificación deportiva |
 | Salud pública (Caspersen y otros, 1985) | Componentes de la aptitud física **relacionados con la salud** (composición corporal, aptitud cardiovascular, flexibilidad, resistencia muscular y fuerza) y **relacionados con la habilidad** (agilidad, coordinación, equilibrio, potencia, tiempo de reacción y velocidad) | Decidir qué conviene a un adulto que entrena por salud |
 
 La división en condicionales y coordinativas es propia de la escuela alemana; según un material de Bös, las condicionales pertenecen al ámbito energético y las coordinativas al informacional, y solo la resistencia es puramente energética ([Friedrich Verlag](https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/sport/fitness-training/das-hassliche-entlein-der-motorischen-fahigkeiten-19502), según un resumen secundario). La lista de cinco de Bompa es «resistencia, fuerza, velocidad, flexibilidad y coordinación» (en el original: "endurance, strength, speed, flexibility, and coordination") ([Bompa y Buzzichelli](https://us.humankinetics.com/blogs/excerpt/understand-the-objectives-of-training), según un resumen secundario). La de salud pública viene de Caspersen, Powell y Christenson ([1985](https://pubmed.ncbi.nlm.nih.gov/3920711/)), con la lista de habilidad tomada de un resumen del ACSM 2013 ([manual abierto](https://open.lib.umn.edu/physicalactivity/chapter/1-7-components-of-physical-fitness/)); las dos, según resúmenes secundarios.
 
-Las notas de esta carpeta siguen la lista de cinco, que comparten la escuela alemana y Bompa. La división de salud pública sirve para decidir prioridades: a un adulto que entrena por salud le importan primero la resistencia aeróbica, la fuerza y la flexibilidad, y las de habilidad ganan peso con la edad, por el equilibrio, o con un deporte.
+Las notas de esta carpeta siguen la lista de cinco, que comparten la escuela alemana y Bompa. La división de salud pública sirve para decidir prioridades: a un adulto que entrena por salud le importan primero la resistencia aeróbica, la fuerza y la flexibilidad, y las de habilidad ganan peso con la edad, por el equilibrio, o con un deporte (inferencia de esta base).
 
 ## Una clasificación útil, no una ley natural
 
@@ -54,7 +54,7 @@ La lectura de esta base: la lista ordena qué se puede entrenar y ayuda a no olv
 - **Fuerza**: ejercer fuerza contra una resistencia. Incluye la fuerza máxima, la potencia y la resistencia muscular. Es la base de la musculación y, según un metaanálisis, la fuerza de piernas se transfiere al sprint.
 - **Resistencia aeróbica**: sostener un esfuerzo largo. Depende del consumo máximo de oxígeno, del umbral de lactato y de la economía, y se asocia fuertemente con vivir más.
 - **Velocidad**: moverse o reaccionar lo más rápido posible. Pesa mucho la genética y, para adultos que no compiten, tiene poca evidencia propia.
-- **Movilidad y flexibilidad**: el rango de movimiento de las articulaciones. Estirar lo aumenta, pero no previene lesiones.
+- **Movilidad y flexibilidad**: el rango de movimiento de las articulaciones. Estirar lo aumenta; sobre las lesiones, no hay efecto claro.
 - **Capacidades coordinativas**: controlar el movimiento (equilibrio, ritmo, orientación, reacción). Se mejoran practicando tareas variadas; en mayores, el ejercicio baja las caídas.
 
 ## Cómo se entrena cada una

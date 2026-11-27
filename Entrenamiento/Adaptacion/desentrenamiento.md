@@ -19,7 +19,7 @@ revisado:
 
 El desentrenamiento es la pérdida parcial o completa de lo ganado al entrenar cuando se deja o se reduce mucho la carga; la capacidad aeróbica cae antes que la fuerza, y mantener lo ganado pide bastante menos trabajo que conseguirlo.
 
-Es el último tramo de la [supercompensación](supercompensacion.md): si no llega otra carga, lo ganado se va. La tradición lo llama principio de reversibilidad.
+Es el último tramo de la [supercompensación](supercompensacion.md): si no llega otra carga, lo ganado se va. Se lo suele llamar principio de reversibilidad; no se verificó en un manual.
 
 ## Qué se pierde primero
 
@@ -59,7 +59,7 @@ El desentrenamiento se confunde con la descarga y el taper, que también bajan l
 
 ## Cómo se vuelve después de un parate
 
-Volver cuesta menos que la primera vez, pero el cuerpo no está donde estaba. Lo prudente es arrancar con menos carga y subir de a poco, como dice [principios básicos](../Carga/principios-basicos.md); el dolor muscular de los primeros días es esperable, y cómo distinguirlo de una lesión está en [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md). Si el parate fue por una lesión o una enfermedad, la vuelta la guía un profesional. En la musculación, cómo retomar la progresión está en [progresión en el gimnasio](../Musculacion/progresion-en-el-gimnasio.md); en la carrera, en [plan de carrera](../Resistencia/plan-de-carrera.md).
+Después de un parate el cuerpo no está donde estaba. Lo prudente es arrancar con menos carga y subir de a poco, como dice [principios básicos](../Carga/principios-basicos.md); el dolor muscular de los primeros días es esperable, y cómo distinguirlo de una lesión está en [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md). Si el parate fue por una lesión o una enfermedad, la vuelta la guía un profesional. En la musculación, cómo retomar la progresión está en [progresión en el gimnasio](../Musculacion/progresion-en-el-gimnasio.md); en la carrera, en [plan de carrera](../Resistencia/plan-de-carrera.md).
 
 ## Qué tan firme es lo que dice esta nota
 

@@ -25,7 +25,7 @@ Es una de las dos disciplinas de la base, junto con la [resistencia](../Resisten
 
 La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM), que revisó 137 revisiones sistemáticas, encontró que pocas variables de la rutina cambiaron los resultados. Entrenar al fallo, el tipo de equipo, la estructura de las series y la periodización no los mejoraron de forma consistente; lo que más pesa es empezar y entrenar los grupos grandes al menos dos veces por semana ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/), según resúmenes). Con el volumen igualado, dividir el cuerpo o entrenarlo completo da lo mismo ([Ramos-Campo y otros, 2024](https://pubmed.ncbi.nlm.nih.gov/38595233/)), y para el músculo la carga elegida importa poco si las series llegan cerca del límite ([Lopez y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/33433148/)).
 
-Eso ordena la disciplina en dos niveles:
+Eso ordena la disciplina en dos niveles (el ordenamiento es lectura propia a partir de las fuentes de la carpeta):
 
 | Pesa mucho | Pesa poco |
 |---|---|
@@ -63,7 +63,7 @@ Un profesor o un plan probado resuelven estas cinco decisiones de una vez; cómo
 La disciplina falla menos por la rutina que por la constancia y por la progresión. Las formas comunes son cambiar de rutina cada pocas semanas sin dejar que ninguna progrese, entrenar lejos del límite durante meses, o al revés, llevar todo al fallo y no poder sostenerlo; esta lista es inferencia a partir de lo que pesa, no un estudio de por qué la gente abandona. El riesgo de lesión es bajo comparado con los deportes de equipo, aunque la evidencia es sobre atletas de pesas ([Keogh y Winwood, 2017](https://research.usc.edu.au/esploro/outputs/journalArticle/The-Epidemiology-of-Injuries-Across-the/99451096702621); detalle en [técnica y seguridad](tecnica-y-seguridad.md)).
 
 > [!IMPORTANT]
-> La evidencia de la disciplina tiene límites que conviene tener presentes. La ACSM 2026, el ancla de casi todo, se leyó en resúmenes y en su comunicado, no en el artículo. La posición anterior, de 2009, fue criticada por cómo citaba la evidencia, y los estudios del campo suelen ser chicos y cortos, con hombres jóvenes. Las cifras de esta carpeta llevan cada una su fuente para que se puedan revisar.
+> La evidencia de la disciplina tiene límites que conviene tener presentes. La ACSM 2026, el ancla de casi todo, se leyó en resúmenes y en su comunicado, no en el artículo. La posición anterior, de 2009, fue criticada por cómo citaba la evidencia, y los ensayos individuales del campo suelen ser chicos. Las cifras de esta carpeta llevan cada una su fuente para que se puedan revisar.
 
 ## Qué hay en la musculación
 

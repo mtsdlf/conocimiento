@@ -35,28 +35,26 @@ De ahí salen las tres manifestaciones que se entrenan:
 - **Potencia o fuerza explosiva**: aplicar fuerza rápido, como en un salto o un sprint. Es la que conecta con la [velocidad](velocidad.md).
 - **Resistencia muscular**: repetir un esfuerzo de fuerza muchas veces o sostenerlo. Es la que mejora, por ejemplo, con muchas repeticiones de abdominales.
 
-La posición 2026 del ACSM cuenta las tres entre lo que mejora el entrenamiento de fuerza frente a no entrenar, junto con la hipertrofia y varias medidas de función física ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/), según su resumen).
-
 > [!NOTE]
-> Sin fuente todavía: la clasificación de la fuerza (máxima, explosiva, resistencia) en un texto de la escuela alemana o de Zatsiorsky y Kraemer. La lista de arriba se arma con Suchomel y la ACSM.
+> Sin fuente todavía: qué manifestaciones de la fuerza mejora el entrenamiento según la posición 2026 del ACSM (el resumen consultado no lo detalla), y la clasificación de la fuerza (máxima, explosiva, resistencia) en un texto de la escuela alemana o de Zatsiorsky y Kraemer. La lista de arriba se arma con Suchomel y la ACSM.
 
 ## Músculo más grande y sistema nervioso mejor
 
-Los manuales explican que la fuerza crece por dos caminos: el músculo se agranda (la [hipertrofia](../Musculacion/hipertrofia.md)) y el sistema nervioso aprende a usar mejor el músculo que hay. Lo que sí muestran los estudios es que tamaño y fuerza van juntos pero no son lo mismo. Con cargas livianas o pesadas, llevadas al fallo, el músculo crece lo mismo, pero la fuerza máxima crece más con cargas pesadas ([Schoenfeld y otros, 2017](https://pubmed.ncbi.nlm.nih.gov/28834797/)); el tamaño solo no explica la fuerza.
+Se suele explicar que la fuerza crece por dos caminos: el músculo se agranda (la [hipertrofia](../Musculacion/hipertrofia.md)) y el sistema nervioso aprende a usar mejor el músculo que hay; esa explicación no tiene fuente verificada en esta base (ver la nota de abajo). Lo que muestra un estudio es esto: con cargas livianas o pesadas, llevadas al fallo, el músculo crece lo mismo, pero la fuerza máxima crece más con cargas pesadas ([Schoenfeld y otros, 2017](https://pubmed.ncbi.nlm.nih.gov/28834797/)); de ahí se infiere (lectura de esta base) que el tamaño solo no explica la fuerza.
 
 > [!NOTE]
 > Sin fuente todavía: los factores nerviosos (cuántas unidades motoras se activan, a qué frecuencia, cómo se coordinan los músculos entre sí) y los musculares (sección del músculo, tipo de fibra, arquitectura). No hay fuente verificada en esta base.
 
 ## Qué la hace mejorar
 
-La regla es la misma que en todo el entrenamiento: cargar, recuperar y subir la carga de a poco ([supercompensación](../Adaptacion/supercompensacion.md)). Para la fuerza máxima, la ACSM 2026 encontró más beneficio con cargas del 80 % del máximo o más, 2 a 3 series por ejercicio y al menos 2 sesiones por semana; la mayoría de las demás variables de una rutina tuvo poco efecto. Esos valores y su contexto están en [principios básicos](../Carga/principios-basicos.md), y cómo se arma una rutina con ellos, en [variables de la rutina](../Musculacion/variables-de-la-rutina.md) y [progresión en el gimnasio](../Musculacion/progresion-en-el-gimnasio.md).
+La regla es la misma que en todo el entrenamiento: cargar, recuperar y subir la carga de a poco ([supercompensación](../Adaptacion/supercompensacion.md)). Según su resumen, la posición 2026 del ACSM (137 revisiones) encontró que pocas variables de la rutina afectaron las adaptaciones principales, y su resumen de prensa dice que lo que más pesa es empezar y entrenar al menos dos veces por semana los grandes grupos ([ACSM](https://acsm.org/resistance-training-guidelines-update-2026/)). Las cifras de carga y de series que circulan en la prensa no se verificaron contra la posición. Las dosis están en [principios básicos](../Carga/principios-basicos.md), y cómo se arma una rutina con ellos, en [variables de la rutina](../Musculacion/variables-de-la-rutina.md) y [progresión en el gimnasio](../Musculacion/progresion-en-el-gimnasio.md).
 
-Que la fuerza máxima pida cargas pesadas y la potencia pida rapidez es un caso de [especificidad](../Adaptacion/especificidad.md). No hace falta un gimnasio: según el comunicado de la ACSM, bandas elásticas, peso corporal y rutinas en casa también dan beneficios notables.
+Que la fuerza máxima pida cargas pesadas y la potencia pida rapidez es un caso de [especificidad](../Adaptacion/especificidad.md).
 
 ## Para qué sirve fuera del gimnasio
 
 - **Salud.** En 16 cohortes, hacer fuerza se asoció con 10 a 17 % menos riesgo de muerte, con la mayor baja alrededor de 30 a 60 minutos por semana ([Momma y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35228201/); detalle en [cuánto ejercicio](../Carga/cuanto-ejercicio.md)).
-- **Lesiones.** En 25 ensayos, el entrenamiento de fuerza bajó las lesiones deportivas a menos de un tercio ([Lauersen y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24100287/)). Es una sola fuente, como aclara [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md).
+- **Lesiones.** En 25 ensayos, el entrenamiento de fuerza bajó las lesiones deportivas a menos de un tercio ([Lauersen y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24100287/), según su resumen). Es una sola fuente, como aclara [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md).
 - **Velocidad.** Según un metaanálisis, la fuerza ganada en sentadilla se transfiere al sprint ([Seitz y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/25059334/), según un resumen secundario). La idea de que la fuerza vuelve lento no se sostiene; está en [velocidad](velocidad.md).
 - **Rendimiento deportivo.** Suchomel y otros concluyen que más fuerza se asocia a mejores características de fuerza en el tiempo y que podría bajar el riesgo de lesión.
 
@@ -68,4 +66,4 @@ Se mide con tests de una repetición máxima o de repeticiones hasta no poder m�
 
 ## Qué tan firme es lo que dice esta nota
 
-Suchomel y Seitz se conocen por resúmenes secundarios; la ACSM 2026, Schoenfeld, Momma, Lauersen y Schumann, según su resumen. Los mecanismos nerviosos y musculares no tienen fuente todavía. La nota no reemplaza a un profesional del ejercicio.
+Suchomel y Seitz se conocen por resúmenes secundarios; la ACSM 2026 (solo su resumen de prensa), Schoenfeld, Momma, Lauersen y Schumann, según su resumen. Los mecanismos nerviosos y musculares no tienen fuente todavía. La nota no reemplaza a un profesional del ejercicio.

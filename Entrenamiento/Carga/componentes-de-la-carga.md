@@ -18,7 +18,7 @@ revisado:
 
 Los componentes de la carga son las magnitudes con que la teoría clásica del entrenamiento describe una dosis: el volumen (cuánto), la intensidad (qué tan fuerte), la densidad (cuánto descanso entre esfuerzos) y la frecuencia (cada cuánto); cambiar uno cambia la carga aunque los otros queden igual.
 
-Es el marco que se enseña en los profesorados de educación física, heredado de la escuela soviética y de Europa del Este (Matveyev, Platonov, Bompa). Sirve para escribir un plan y para saber qué perilla se movió cuando algo cambió. Convive con otro marco, el de [carga interna y externa](carga-interna-y-externa.md), que no describe la dosis sino lo que le cuesta a cada persona; el puente entre los dos está al final.
+Es el marco que figura en los programas de profesorado consultados (el de ISEF Catamarca 2021 lo lista como «intensidad, volumen, frecuencia, densidad y pausa»), con Matveyev, Platonov y Bompa en su bibliografía. Sirve para escribir un plan y para saber qué perilla se movió cuando algo cambió. Convive con otro marco, el de [carga interna y externa](carga-interna-y-externa.md), que no describe la dosis sino lo que le cuesta a cada persona; el puente entre los dos está al final.
 
 > [!NOTE]
 > Sin fuente todavía: las definiciones textuales de los manuales clásicos (Matveyev, Bompa, Platonov, Zatsiorsky) y de la NSCA. Las definiciones de abajo son las de uso corriente en el campo, sin un libro leído que las respalde.
@@ -32,11 +32,11 @@ Es el marco que se enseña en los profesorados de educación física, heredado d
 | Densidad | La relación entre esfuerzo y pausa | Descanso entre series | Pausa entre intervalos |
 | Frecuencia | Cuántas sesiones por semana | Días por grupo muscular | Salidas por semana |
 
-Algunos autores suman la **duración** (cuánto dura la sesión o el bloque) y el **tipo** de ejercicio. El esquema que usa la literatura en inglés, conocido como FITT por frecuencia, intensidad, tiempo y tipo, junta casi lo mismo con otros nombres. La ACSM 2011 escribe así su dosis aeróbica: minutos por día, días por semana e intensidad moderada o vigorosa ([Garber y otros, 2011](https://pubmed.ncbi.nlm.nih.gov/21694556/), según su resumen). Cuánto pide esa dosis para la salud está en [cuánto ejercicio](cuanto-ejercicio.md).
+Según el uso corriente, sin fuente leída, se suman la **duración** (cuánto dura la sesión o el bloque) y el **tipo** de ejercicio. El esquema que usa la literatura en inglés, conocido como FITT por frecuencia, intensidad, tiempo y tipo, junta casi lo mismo con otros nombres. La ACSM 2011 escribe así su dosis aeróbica: minutos por día, días por semana e intensidad moderada o vigorosa ([Garber y otros, 2011](https://pubmed.ncbi.nlm.nih.gov/21694556/), según su resumen). Cuánto pide esa dosis para la salud está en [cuánto ejercicio](cuanto-ejercicio.md).
 
 ## El volumen, la perilla que más se mueve
 
-El volumen es lo más fácil de contar y lo primero que se sube. En la fuerza se cuenta en series semanales por grupo muscular; los números de referencia y su evidencia están en [principios básicos](principios-basicos.md), y cómo se arma con ellos una rutina, en [variables de la rutina](../Musculacion/variables-de-la-rutina.md). En la resistencia se cuenta en kilómetros o minutos semanales, y su reparto entre suave y fuerte es la [distribución de la intensidad](../Resistencia/distribucion-de-intensidad.md).
+El volumen es lo más fácil de contar y, en la práctica, lo primero que se sube (lectura de esta base). En la fuerza se cuenta en series semanales por grupo muscular; los números de referencia y su evidencia están en [principios básicos](principios-basicos.md), y cómo se arma con ellos una rutina, en [variables de la rutina](../Musculacion/variables-de-la-rutina.md). En la resistencia se cuenta en kilómetros o minutos semanales, y su reparto entre suave y fuerte es la [distribución de la intensidad](../Resistencia/distribucion-de-intensidad.md).
 
 ## La intensidad y por qué se mide de dos formas
 
@@ -44,9 +44,9 @@ La intensidad se expresa contra un máximo (un porcentaje del peso que se levant
 
 ## Densidad y frecuencia: cómo se reparte el trabajo
 
-La densidad aprieta o afloja la misma sesión: con las mismas series, menos descanso entre ellas sube la exigencia. La ACSM 2009 da descansos distintos según el objetivo; los valores están en [principios básicos](principios-basicos.md).
+La densidad aprieta o afloja la misma sesión: con las mismas series, menos descanso entre ellas sube la exigencia (razonamiento de esta base, sin fuente). La ACSM 2009 da descansos distintos según el objetivo; los valores están en [principios básicos](principios-basicos.md).
 
-La frecuencia reparte el volumen en la semana. Con el mismo trabajo total, más sesiones más cortas cansan distinto que pocas largas. En la fuerza, la evidencia sugiere que la frecuencia sirve sobre todo para repartir el volumen; el detalle está en [variables de la rutina](../Musculacion/variables-de-la-rutina.md).
+La frecuencia reparte el volumen en la semana. En la fuerza, las fuentes consultadas discrepan en el énfasis: Schoenfeld 2016 halló mayor efecto con más frecuencia a volumen igualado, e Iversen 2021 dice que el volumen semanal pesa más que la frecuencia (ambos según su resumen); el detalle está en [variables de la rutina](../Musculacion/variables-de-la-rutina.md).
 
 ## Cómo se combinan
 
@@ -55,7 +55,7 @@ Los componentes se mueven juntos. La tradición enseña que volumen e intensidad
 > [!NOTE]
 > Sin fuente todavía: la relación inversa entre volumen e intensidad tal como la formulan los manuales clásicos, y cualquier estudio que la mida.
 
-Progresar es mover una perilla por vez. La ACSM 2009 propone subir la carga entre 2 y 10 % cuando la persona ya puede con la actual ([ACSM, 2009](https://pubmed.ncbi.nlm.nih.gov/19204579/), según su resumen). Si en la misma semana suben el volumen, la intensidad y la frecuencia, ya no se sabe cuál causó la mejora o el cansancio. Cómo se ordenan esos cambios en semanas y bloques está en [ciclos](../Planificacion/ciclos.md).
+Progresar es mover una perilla por vez (razonamiento de esta base). La ACSM 2009 propone subir la carga entre 2 y 10 % cuando la persona ya puede con la actual ([ACSM, 2009](https://pubmed.ncbi.nlm.nih.gov/19204579/), según su resumen). Si en la misma semana suben el volumen, la intensidad y la frecuencia, ya no se sabe cuál causó la mejora o el cansancio. Cómo se ordenan esos cambios en semanas y bloques está en [ciclos](../Planificacion/ciclos.md).
 
 ## Del plan escrito a lo que cuesta
 

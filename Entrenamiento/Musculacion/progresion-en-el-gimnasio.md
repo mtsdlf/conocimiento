@@ -12,6 +12,7 @@ fuentes:
   - https://openrepository.aut.ac.nz/items/efef3b25-6701-4fb5-bb82-55fcd2a26027/full
   - https://pubmed.ncbi.nlm.nih.gov/33433148/
   - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://pubmed.ncbi.nlm.nih.gov/21131862/
 aliases: [sobrecarga progresiva, progressive overload, doble progresión, double progression, autorregulación, autoregulation, meseta, estancamiento]
 creado: 2026-11-27
 revisado:
@@ -64,7 +65,7 @@ Una meseta es una racha de semanas sin subir carga ni repeticiones en un ejercic
 4. Si el volumen del músculo es bajo, sumá series de a poco; si ya es alto, más no suele dar más ([hipertrofia](hipertrofia.md)).
 5. Recién después, cambiá el rango de repeticiones o la variante del ejercicio.
 
-Si el rendimiento cae en varios ejercicios a la vez y no vuelve con unos días de descanso, el problema puede ser otro: cuándo es exceso de carga está en [sobreentrenamiento](../Recuperacion/sobreentrenamiento.md). Una pausa de semanas no borra lo ganado de golpe; cuánto se pierde está en [desentrenamiento](../Adaptacion/desentrenamiento.md).
+Si el rendimiento cae en varios ejercicios a la vez y no vuelve con unos días de descanso, el problema puede ser otro: cuándo es exceso de carga está en [sobreentrenamiento](../Recuperacion/sobreentrenamiento.md). En un ensayo con 70 adultos, la fuerza ganada se conservó en gran parte tras 32 semanas sin entrenar o con volumen reducido ([Bickel y otros, 2011](https://pubmed.ncbi.nlm.nih.gov/21131862/), según un resumen del buscador); cuánto se pierde en general está en [desentrenamiento](../Adaptacion/desentrenamiento.md).
 
 > [!NOTE]
 > Sin fuente todavía: estudios sobre mesetas en adultos recreativos y sobre qué conviene hacer primero ante una.

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Los ejercicios básicos de una rutina se ordenan por patrones de movimiento (sentadilla, bisagra de cadera, empuje, tracción, zancada y acarreo), y cada patrón se puede entrenar con poco equipo en casa o con barras y máquinas en el gimnasio; lo que más pesa es cubrir los patrones con ejercicios de varias articulaciones, no qué equipo se usa.
+  Los ejercicios básicos de una rutina se ordenan por patrones de movimiento (sentadilla, bisagra de cadera, empuje, tracción, zancada y acarreo), y cada patrón se puede entrenar con poco equipo en casa o con barras y máquinas en el gimnasio; según la ACSM 2026 el equipo pesa poco, y para quien tiene poco tiempo una revisión propone priorizar los ejercicios de varias articulaciones.
 estado: borrador
 estabilidad: semi
 dueno: familia
@@ -15,7 +15,7 @@ revisado:
 
 # Ejercicios básicos
 
-Los ejercicios básicos de una rutina se ordenan por patrones de movimiento (sentadilla, bisagra de cadera, empuje, tracción, zancada y acarreo), y cada patrón se puede entrenar con poco equipo en casa o con barras y máquinas en el gimnasio; lo que más pesa es cubrir los patrones con ejercicios de varias articulaciones, no qué equipo se usa.
+Los ejercicios básicos de una rutina se ordenan por patrones de movimiento (sentadilla, bisagra de cadera, empuje, tracción, zancada y acarreo), y cada patrón se puede entrenar con poco equipo en casa o con barras y máquinas en el gimnasio; según la ACSM 2026 el equipo pesa poco, y para quien tiene poco tiempo una revisión propone priorizar los ejercicios de varias articulaciones.
 
 Un patrón agrupa ejercicios que mueven las mismas articulaciones de la misma forma: la sentadilla con barra y la sentadilla con una mochila cargada son el mismo patrón con distinta carga. Pensar por patrones permite cambiar un ejercicio por otro sin desarmar la rutina. Los patrones se reparten en la semana según el [tipo de rutina](tipos-de-rutina.md) y se cargan según las [variables de la rutina](variables-de-la-rutina.md).
 
@@ -24,7 +24,7 @@ Un patrón agrupa ejercicios que mueven las mismas articulaciones de la misma fo
 
 ## Primero los de varias articulaciones
 
-Los ejercicios multiarticulares (los que mueven varias articulaciones a la vez, como una sentadilla o un remo) trabajan varios músculos por serie, y por eso rinden más con poco tiempo. Una revisión para quien tiene poco tiempo propone priorizar ejercicios multiarticulares y con las dos piernas o los dos brazos a la vez: uno de piernas (prensa o sentadilla), uno de tracción y uno de empuje ([Iversen y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/34125411/), opinión de los autores).
+Los ejercicios multiarticulares (los que mueven varias articulaciones a la vez, como una sentadilla o un remo) trabajan varios músculos por serie, y por eso rendirían más con poco tiempo (razonamiento propio). Una revisión para quien tiene poco tiempo propone priorizar ejercicios multiarticulares y con las dos piernas o los dos brazos a la vez: uno de piernas (prensa o sentadilla), uno de tracción y uno de empuje ([Iversen y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/34125411/), opinión de los autores).
 
 Los monoarticulares (los que mueven una sola articulación, como el curl de bíceps o la extensión de rodilla en máquina) completan, no reemplazan. Según un resumen secundario de un metaanálisis, dieron una ligera ventaja de hipertrofia en el músculo que aíslan, pero la evidencia se limita casi a bíceps y cuádriceps y es mixta ([Rosa y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/32077380/), con la identificación del artículo sin confirmar). Es una sola fuente, de baja confianza.
 
@@ -47,7 +47,7 @@ En casa el límite es la carga: cuando un ejercicio con el propio peso necesita 
 | Zancada o una pierna | Piernas de a una y equilibrio | Estocadas, subidas a un escalón o una silla firme | Estocadas con mancuernas, sentadilla búlgara con carga |
 | Acarreo | Agarre, tronco y postura | Caminar con dos bolsas o bidones pesados | Paseo del granjero con mancuernas o kettlebells |
 
-Los ejercicios de tronco (plancha, plancha lateral) y los monoarticulares de brazos, hombros y pantorrillas se suman cuando sobra tiempo. Un músculo grande que la tabla deja sin trabajo directo es una señal para revisar la rutina; un músculo chico, no necesariamente, porque los multiarticulares ya lo usan.
+Los ejercicios de tronco (plancha, plancha lateral) y los monoarticulares de brazos, hombros y pantorrillas se suman cuando sobra tiempo. Que un músculo grande sin trabajo directo sea una señal para revisar la rutina, y un músculo chico no, es criterio propio, sin fuente.
 
 ## Cómo armar una sesión con los patrones
 

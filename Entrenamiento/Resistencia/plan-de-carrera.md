@@ -35,9 +35,9 @@ Es la [planificación](../Planificacion/planificacion.md) general aplicada a una
 | Pieza | Qué decide | Qué tan firme |
 |---|---|---|
 | Frecuencia | Cuántos días se corre por semana | Piso de salud de las guías; lo demás, práctica |
-| Tirada larga | La sesión más larga, suave, una vez por semana | Práctica de entrenadores |
-| Sesiones de calidad | Umbral o intervalos, una o dos por semana | Práctica; el reparto se discute |
-| Rodajes suaves | El resto, en zona 1 | Práctica, apoyada en lo que hace la élite |
+| [Tirada larga](metodos-de-resistencia.md) | La sesión más larga, suave, una vez por semana | Práctica de entrenadores |
+| Sesiones de calidad | [Umbral o intervalos](metodos-de-resistencia.md), una o dos por semana | Práctica; el reparto se discute |
+| Rodajes suaves | El resto, en [zona 1](zonas-de-intensidad.md) | Práctica, apoyada en lo que hace la élite |
 | Progresión | Cuánto sube el volumen de una semana a otra | Ensayos: ninguna regla fija probada |
 | Puesta a punto | Cuánto se baja antes de la carrera | Metaanálisis en atletas competitivos |
 
@@ -45,11 +45,11 @@ Como piso, el ACSM pide actividad vigorosa «≥20 min·d en ≥3 d·sem» (en e
 
 ## Cómo progresar sin la regla del 10 %
 
-La regla del 10 % dice que el volumen semanal no debe subir más de un 10 % de una semana a otra. El único ensayo aleatorizado que la probó, GRONORUN, comparó en 532 corredores novatos un programa gradual de 13 semanas basado en esa regla con uno estándar de 8 semanas: se lesionaron el 20,8 % y el 20,3 %, sin diferencia ([Buist y otros, 2008](https://research.rug.nl/en/publications/no-effect-of-a-graded-training-program-on-the-number-of-running-r/), según su resumen). El ensayo compara dos programas, no la regla sola. Una revisión de errores de entrenamiento concluyó que «no fue posible identificar» cuáles se relacionaban con las lesiones (en el original: "not possible to identify which training errors were related to running related injuries") ([Nielsen y otros, 2012](https://pubmed.ncbi.nlm.nih.gov/22389869/), según su resumen).
+La regla del 10 % dice que el volumen semanal no debe subir más de un 10 % de una semana a otra. El único ensayo aleatorizado que se encontró, GRONORUN, comparó en 532 corredores novatos un programa gradual de 13 semanas basado en esa regla con uno estándar de 8 semanas: se lesionaron el 20,8 % y el 20,3 %, sin diferencia ([Buist y otros, 2008](https://research.rug.nl/en/publications/no-effect-of-a-graded-training-program-on-the-number-of-running-r/), según su resumen). El ensayo compara dos programas, no la regla sola. Una revisión de errores de entrenamiento concluyó que «no fue posible identificar» cuáles se relacionaban con las lesiones (en el original: "not possible to identify which training errors were related to running related injuries") ([Nielsen y otros, 2012](https://pubmed.ncbi.nlm.nih.gov/22389869/), según su resumen).
 
 Lo que sí aparece es que el volumen importa. En la cohorte de Nielsen, una progresión de volumen más rápida aumentó las lesiones ligadas a la distancia, pero no el total, y una revisión vio evidencia moderada de que el volumen se asocia con lesión ([Nielsen y otros](https://vbn.aau.dk/ws/files/284775170/e000333.full.pdf), según su resumen; diseño por confirmar). En el ensayo Run Clever, progresar en volumen o en intensidad dio el mismo riesgo en corredores recreativos ([Ramskov y otros, 2018](https://doaj.org/article/1457af541b38409483fe65c601d800c7), según su resumen).
 
-Subí el volumen de a poco y mirá cómo responde el cuerpo, sin creer que un número fijo te protege. Las tres fuentes son independientes y apuntan a lo mismo: ninguna regla de porcentaje está probada, y los saltos grandes de volumen se asocian con más lesión. Por qué un índice como la ratio aguda:crónica tampoco sirve de regla está en [carga interna y externa](../Carga/carga-interna-y-externa.md). Qué hacer con un dolor, en [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md).
+Subí el volumen de a poco y mirá cómo responde el cuerpo, sin creer que un número fijo te protege. Ninguna de las tres fuentes muestra que una regla de porcentaje esté probada, y el volumen se asocia con lesión con evidencia moderada; es una conclusión provisional, porque no se verificó que las fuentes sean independientes ni se leyeron enteras. Por qué un índice como la ratio aguda:crónica tampoco sirve de regla está en [carga interna y externa](../Carga/carga-interna-y-externa.md). Qué hacer con un dolor, en [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md).
 
 ## De 0 a 5 km: caminar y correr
 
@@ -59,7 +59,7 @@ No están probados. En un estudio británico con 110 personas, solo el 27,3 % co
 
 Para armarlo:
 
-1. Si tenés síntomas o una enfermedad del corazón, metabólica o renal, consultá antes ([dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)).
+1. Si tenés síntomas o una enfermedad del corazón, metabólica o renal, consultá antes (es el criterio de cribado de ACSM 2015, que no se leyó entero; [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md)).
 2. Corré al menos tres días por semana, con un día entre medio, para llegar al piso del ACSM. Lo del día entre medio es práctica, no un dato.
 3. Alterná caminar y trotar suave, en zona 1: tenés que poder hablar ([zonas de intensidad](zonas-de-intensidad.md)).
 4. Cada semana, alargá los tramos de trote o acortá los de caminata, de a uno por vez. Si una semana costó, repetila.
@@ -73,7 +73,7 @@ Pfitzinger muestra cómo se ve en un plan de media maratón: 11 semanas, la tira
 
 Para armarlo:
 
-1. Llegá con una base: poder correr suave varias veces por semana sin dolor. *Faster Road Racing*, de Pfitzinger y Douglas, parte de un volumen base previo; cuánto, no se verificó.
+1. Llegá con una base: poder correr suave varias veces por semana sin dolor. *Faster Road Racing*, de Pfitzinger y Douglas, es el libro de referencia para armar estos planes; qué volumen base pide antes de empezar no se verificó.
 2. Contá las semanas hacia atrás desde la carrera.
 3. Poné la tirada larga un día fijo y suave, y que sea la sesión que más crece a lo largo del plan.
 4. Sumá una sesión de calidad por semana; una segunda, solo si la primera ya se absorbe bien.
@@ -86,4 +86,6 @@ Para armarlo:
 
 ## Qué tan firme es lo que dice esta nota
 
-Todo se leyó según su resumen, y los libros de Daniels y Pfitzinger no se consultaron directamente. Que la regla del 10 % no protege tiene dos fuentes independientes (Buist, Nielsen 2012) y una tercera concordante (Run Clever); que el volumen se asocia con lesión es evidencia moderada. La estructura de la semana es práctica de entrenadores, y el taper se estudió en atletas competitivos.
+Todo se leyó según su resumen, y los libros de Daniels y Pfitzinger no se consultaron directamente. Que la regla del 10 % no protege se apoya en un ensayo (Buist), una revisión (Nielsen 2012) y otro ensayo concordante (Run Clever), todos según su resumen y sin verificar su independencia; que el volumen se asocia con lesión es evidencia moderada. La estructura de la semana es práctica de entrenadores, y el taper se estudió en atletas competitivos.
+
+Ver también: [tests de capacidad](../Evaluacion/tests-de-capacidad.md), para sacar los ritmos de una prueba reciente en lugar de adivinarlos, y [fuerza y cardio](../Planificacion/fuerza-y-cardio.md), si el plan convive con el gimnasio.

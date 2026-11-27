@@ -55,7 +55,7 @@ Lo que estas fuentes no muestran es que sea mejor que otras intensidades para un
 > [!NOTE]
 > Sin fuente todavía: un ensayo o metaanálisis de zona 2 en población general, a favor o en contra.
 
-Cómo armar la semana en detalle (qué días, qué orden, cuántos intervalos) es programación fina y queda para un profesor o un plan probado: ver [elegir un plan o un entrenador](../Fundamentos/elegir-plan-o-entrenador.md).
+Cómo armar la semana en detalle (qué días, qué orden, cuántos intervalos) es programación fina: lo que se sabe está en [ciclos](ciclos.md), [tipos de rutina](../Musculacion/tipos-de-rutina.md) y [plan de carrera](../Resistencia/plan-de-carrera.md), y para el resto conviene un profesor o un plan probado ([elegir un plan o un entrenador](../Fundamentos/elegir-plan-o-entrenador.md)). Ojo con "zona 2": quiere decir cosas distintas según el modelo de zonas, como explica [zonas de intensidad](../Resistencia/zonas-de-intensidad.md).
 
 ## Qué tan firme es lo que dice esta nota
 

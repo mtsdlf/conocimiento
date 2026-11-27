@@ -11,6 +11,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/21311346/
   - https://pubmed.ncbi.nlm.nih.gov/21774751/
   - https://pubmed.ncbi.nlm.nih.gov/20861519/
+  - https://pubmed.ncbi.nlm.nih.gov/40010355/
   - https://vdoto2.com/LearnMore/TrainingDefinitions
   - Daniels, Daniels' Running Formula, Human Kinetics, cap. 4 (no consultado directamente)
 aliases: [Training zones, Zonas de entrenamiento, Zonas de frecuencia cardíaca, Umbral de lactato, Umbral ventilatorio, VT1, VT2, Dominios de intensidad]
@@ -39,7 +40,7 @@ De ahí sale el modelo de tres zonas que usa la investigación sobre distribuci�
 La descripción de la zona 1 es de [Seiler (2010)](https://pubmed.ncbi.nlm.nih.gov/20861519/), según su resumen.
 
 > [!WARNING]
-> "Zona 2" quiere decir cosas distintas según el modelo. En el de tres zonas es la franja entre los dos umbrales. En el de cinco zonas, el que se popularizó con los relojes y del que habla [fuerza y cardio](../Planificacion/fuerza-y-cardio.md), es la franja justo por debajo del primer umbral, que en el de tres zonas cae dentro de la zona 1. Antes de seguir una indicación de "zona 2", conviene saber de qué modelo viene.
+> "Zona 2" quiere decir cosas distintas según el modelo. En el de tres zonas es la franja entre los dos umbrales. En el uso que se discute de la "zona 2" (del que habla [fuerza y cardio](../Planificacion/fuerza-y-cardio.md)), un consenso de 14 expertos coincidió en intensidades "immediately below the first lactate or ventilatory threshold" ([Sitko y otros, 2025](https://pubmed.ncbi.nlm.nih.gov/40010355/), según su resumen), franja que en el modelo de tres zonas cae dentro de la zona 1 (inferencia). Antes de seguir una indicación de "zona 2", conviene saber de qué modelo viene.
 
 > [!NOTE]
 > Sin fuente todavía: los límites del modelo de cinco zonas de Seiler y su equivalencia exacta con el de tres.
@@ -54,7 +55,7 @@ Para quien entrena por su cuenta, la consecuencia práctica es anclar las zonas 
 
 Hay tres caminos, y se pueden combinar.
 
-1. **La respiración y el habla.** La prueba del habla (si se puede hablar de corrido o no) y la escala de esfuerzo percibido aparecen como válidas para estimar el umbral ventilatorio y el de compensación respiratoria; la escala de agrado es más débil (revisión de [2022 en Sports Medicine](https://link.springer.com/article/10.1007/s40279-022-01690-3), según su resumen). En pruebas incrementales, la prueba del habla, la frecuencia cardíaca y el esfuerzo percibido se correlacionaron entre sí (r de 0,71, 0,84 y 0,81) ([estudio de 2011](https://pubmed.ncbi.nlm.nih.gov/21311346/), según su resumen). Otro estudio la encontró más ligada al umbral de lactato que al ventilatorio ([estudio de 2011](https://pubmed.ncbi.nlm.nih.gov/21774751/)). Son muestras chicas, de gente entrenada o de pacientes.
+1. **La respiración y el habla.** La prueba del habla (si se puede hablar de corrido o no) y la escala de esfuerzo percibido aparecen como válidas para estimar el umbral ventilatorio y el de compensación respiratoria; la escala de agrado es más débil (revisión de [2022 en Sports Medicine](https://link.springer.com/article/10.1007/s40279-022-01690-3), según su resumen). En pruebas incrementales, la prueba del habla, la frecuencia cardíaca y el esfuerzo percibido correlacionaron (r de 0,71, 0,84 y 0,81; el resumen no dice con qué) ([otro estudio](https://pubmed.ncbi.nlm.nih.gov/21311346/), según su resumen). Otro estudio la encontró más ligada al umbral de lactato que al ventilatorio ([estudio de 2011](https://pubmed.ncbi.nlm.nih.gov/21774751/)). Son muestras chicas, de gente entrenada o de pacientes.
 2. **El esfuerzo percibido.** La escala de Borg y cómo se usa como medida de [carga interna](../Carga/carga-interna-y-externa.md) están en la capa general.
 3. **Un resultado de carrera.** Daniels deriva cinco ritmos de entrenamiento de un resultado reciente y exigido, a través de un índice que llama VDOT: fácil (E), maratón (M), umbral (T), intervalo (I) y repetición (R) ([VDOT O2](https://vdoto2.com/LearnMore/TrainingDefinitions), según su resumen). Es un sistema de práctica, de un entrenador, no un hallazgo de ensayos.
 

@@ -20,7 +20,7 @@ revisado:
 
 Qué se sabía en noviembre de 2026 sobre el equipo de quien corre: cuánto ahorran las zapatillas con placa de carbono, qué tan exacta es la frecuencia cardíaca medida en la muñeca y qué tan cerca anda el VO2max que estima el reloj.
 
-Implementa dos componentes: la elección de zapatilla de [técnica de carrera](tecnica-de-carrera.md) y la medición de la intensidad de [zonas de intensidad](zonas-de-intensidad.md). Copiado del informe de investigación del tema el 2026-11-27, que leyó las fuentes según su resumen. Se re-verifica cada 3 meses: los modelos y los algoritmos cambian más rápido que los estudios.
+Implementa dos componentes: la elección de zapatilla de [técnica de carrera](tecnica-de-carrera.md) y la medición de la intensidad de [zonas de intensidad](zonas-de-intensidad.md). Copiado del informe de investigación del tema el 2026-11-27, que leyó las fuentes según su resumen. El informe sugiere revisarla cada 6 a 12 meses: los modelos y los algoritmos cambian más rápido que los estudios.
 
 ## Zapatillas con placa de carbono
 
@@ -51,7 +51,7 @@ La mayoría de las validaciones son en cinta y a ritmo estable, lo que favorece 
 | Garmin Forerunner 265, seis personas | Cerca de 18 % | Citado sin URL propia |
 | Garmin Venu SQ | Tendería a subestimar en gente muy en forma | Citado sin URL propia |
 
-Garmin dice que la estimación pide correr al aire libre con GPS o con potenciómetro, a intensidad moderada ([manual de Garmin](https://www8.garmin.com/manuals/webhelp/GUID-9D99A9D4-467A-4F1A-A0EA-023184FEA3DD/EN-US/GUID-3E971364-A756-4057-B22D-C41250B2A82B.html)). Las muestras son chicas: sirve para ver una tendencia propia, no como medición.
+Garmin dice que la estimación pide correr al aire libre con GPS o con potenciómetro, a intensidad moderada ([manual de Garmin](https://www8.garmin.com/manuals/webhelp/GUID-9D99A9D4-467A-4F1A-A0EA-023184FEA3DD/EN-US/GUID-3E971364-A756-4057-B22D-C41250B2A82B.html)). Las muestras son chicas: que sirva para ver una tendencia propia y no como medición es lectura propia, sin fuente.
 
 > [!NOTE]
 > Sin fuente todavía: validación del "tiempo de recuperación" y de las otras métricas propias de cada marca.

@@ -24,7 +24,7 @@ Cierra el circuito del entrenamiento. La [carga](../Carga/carga.md) es la dosis,
 
 La misma dosis no da lo mismo a todos. Una revisión atribuye las diferencias de respuesta a la genética, al programa, al estilo de vida, a la dieta y al error de medida ([Mann, Lamberts y Lambert, 2014](https://pubmed.ncbi.nlm.nih.gov/24807838/), según un buscador). Otra advierte que parte de lo que parece "no responder" es variación de la propia persona de un día a otro, y que separarla pide medir más de una vez ([Hecksteden y otros, 2015](https://researchportal.lih.lu/en/publications/individual-response-to-exercise-training-a-statistical-perspectiv/), según un buscador). Lo que se sabe de las diferencias en la capacidad aeróbica está en [rendir y coordinar](../rendir-y-coordinar.md).
 
-De ahí salen dos consecuencias. La primera: un plan genérico es un punto de partida que se ajusta mirando la respuesta propia. La segunda: una sola medición engaña; lo que informa es la tendencia de varias.
+De ahí salen dos consecuencias, que son lectura de esta base y no una recomendación de las fuentes. La primera: un plan genérico es un punto de partida que se ajusta mirando la respuesta propia. La segunda: una sola medición engaña; lo que informa es la tendencia de varias.
 
 ## Dos herramientas: el test y el registro
 
@@ -38,7 +38,7 @@ Los dos se complementan. Un test máximo cansa y no se repite seguido; el regist
 
 Una medida sirve si da lo mismo cuando nada cambió. Eso se llama fiabilidad, y es lo primero que se mira de un test. El test del peso máximo en una repetición (1RM), por ejemplo, tiene fiabilidad "good to excellent" según una revisión sistemática ([Grgic y otros, 2020](https://pubmed.ncbi.nlm.nih.gov/32681399/), según su resumen). Para la composición del cuerpo (peso, cintura, grasa), que también cambia con el entrenamiento, los errores de cada método están en [medir el progreso](../../Nutricion/Objetivos-del-adulto/medir-el-progreso.md), en Nutrición.
 
-Casi todo lo que se sabe sobre evaluar viene de atletas de competencia. Llevarlo a un adulto que entrena por su cuenta es razonable, pero es una extrapolación.
+Las fuentes leídas sobre registro y monitoreo (Saw, Plews, Halson) son de atletas. Llevarlas a un adulto que entrena por su cuenta es razonable, pero es una extrapolación de esta base.
 
 ## Qué hay en la evaluación
 

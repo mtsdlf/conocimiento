@@ -30,7 +30,7 @@ Usa el modelo de tres zonas de [zonas de intensidad](zonas-de-intensidad.md): zo
 | Piramidal | Casi todo en zona 1, menos en zona 2 y todavía menos en zona 3 |
 | De umbral | Mucho tiempo en zona 2 |
 
-La diferencia entre polarizado y piramidal está en la zona 2. Stöggl y Sperlich llaman piramidal al reparto 80:20 que se describe en atletas de élite, y reservan polarizado para cuando la zona 2 casi no aparece ([Stöggl y Sperlich, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4621419/), según su resumen). Un índice de polarización permite distinguirlos con números ([índice de polarización](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6582670/), según su resumen). Por eso "80/20" no alcanza para decir qué reparto es: falta saber qué hay en el 20.
+La diferencia entre polarizado y piramidal está en la zona 2. Stöggl y Sperlich llaman piramidal al reparto 80:20 que se describe en atletas de élite, y reservan polarizado para cuando la zona 2 casi no aparece ([Stöggl y Sperlich, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4621419/), según su resumen). Un índice de polarización permite distinguirlos con números ([índice de polarización](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6582670/), según su resumen). La tabla es una descripción propia a partir de esa distinción; el reparto de umbral no tiene definición en las fuentes consultadas. Por eso "80/20" no alcanza para decir qué reparto es: falta saber qué hay en el 20.
 
 ## De dónde sale el 80/20
 
@@ -45,7 +45,7 @@ Es una descripción de lo que hace la élite, no un ensayo que pruebe que ese re
 >
 > **Con más matices.** Un metaanálisis más grande, de 17 estudios y 437 participantes, encontró el polarizado superior solo para el VO2pico, y «ninguna evidencia» de superioridad en el resto de las medidas de rendimiento (en el original: "no evidence of polarized training superiority for any of the remaining endurance performance surrogates"). La ventaja apareció sobre todo en intervenciones de menos de 12 semanas y en atletas muy entrenados ([Oliveira y otros, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11329428), según su resumen).
 >
-> El segundo es más grande y más reciente, y restringe al primero: el polarizado mejora una medida de laboratorio, no está claro que mejore la carrera.
+> El segundo es más grande y más reciente, y restringe al primero (lectura propia): el polarizado mejora el VO2pico, y en las demás medidas no se vio ventaja.
 
 En corredores recreativos hay poco. Un ensayo con 30 corredores de 10 km sugirió que el polarizado produce más efecto que el de umbral ([ensayo de 2014 en IJSPP](https://pubmed.ncbi.nlm.nih.gov/23752040/), según su resumen; la autoría no se verificó). Un análisis de red, citado de segunda mano y sin autor confirmado, sugiere que los atletas competitivos se benefician del polarizado y los recreativos del piramidal.
 
@@ -54,7 +54,7 @@ En corredores recreativos hay poco. Un ensayo con 30 corredores de 10 km sugiri�
 
 ## Qué hacer con esto en la semana
 
-Hacé la mayor parte de tu tiempo en zona 1, y sumá algo de trabajo más intenso. Los tres repartos coinciden en eso; donde difieren es en si lo intenso va en zona 2 o en zona 3, y para un recreativo esa elección no está resuelta. Elegí el que puedas sostener: quien tiene poco tiempo y disfruta las sesiones de umbral no tiene una razón firme para cambiarlas. Es una lectura de las fuentes de arriba, no una recomendación de una guía.
+Hacé la mayor parte de tu tiempo en zona 1, y sumá algo de trabajo más intenso. Polarizado y piramidal coinciden en eso; donde difieren es en si lo intenso va en zona 2 o en zona 3, y para un recreativo esa elección no está resuelta. Elegí el que puedas sostener: quien tiene poco tiempo y disfruta las sesiones de umbral no tiene una razón firme para cambiarlas. Es una lectura de las fuentes de arriba, no una recomendación de una guía.
 
 Hay otro riesgo, que ninguna fuente de esta nota mide (es inferencia): que las sesiones suaves se vuelvan medias por ir siempre "un poco fuerte". Las zonas, medidas con la respiración o el esfuerzo percibido, sirven para cuidar eso. Cómo se traduce el reparto a sesiones concretas está en [métodos de resistencia](metodos-de-resistencia.md) y en [plan de carrera](plan-de-carrera.md).
 

@@ -20,7 +20,7 @@ revisado:
 
 Los ciclos son las unidades de tiempo en que se ordena el entrenamiento: la sesión, el microciclo (por lo general una semana), el mesociclo (un bloque de varias semanas con un objetivo) y el macrociclo (la temporada o el año).
 
-Es el vocabulario con que se enseña la [planificación](planificacion.md) en el profesorado: el programa de la UNLP de 2016 ubica la estructura del entrenamiento en "sesiones, microciclos, mesociclos, macrociclos" ([programa UNLP](https://www.memoria.fahce.unlp.edu.ar/programas/pp.13165/pp.13165.pdf)). La definición canónica está en los capítulos de terminología y de plan anual de *Periodization*, de Bompa y Buzzichelli (6.ª ed., 2019), que presenta la versión tradicional del modelo; Issurin y Kiely la discuten, como cuenta [modelos de periodización](modelos-de-periodizacion.md).
+Es el vocabulario con que se enseña la [planificación](planificacion.md) en el profesorado: el programa de la UNLP de 2016 ubica la estructura del entrenamiento en "sesiones, microciclos, mesociclos, macrociclos" ([programa UNLP](https://www.memoria.fahce.unlp.edu.ar/programas/pp.13165/pp.13165.pdf)). Los informes proponen como definición canónica los capítulos de terminología y de plan anual de *Periodization*, de Bompa y Buzzichelli (6.ª ed., 2019), que sería la versión tradicional del modelo (solo se leyó la ficha editorial); Issurin y Kiely la discuten, como cuenta [modelos de periodización](modelos-de-periodizacion.md).
 
 ## Las cuatro unidades, de la más chica a la más grande
 
@@ -38,7 +38,7 @@ La tabla, y que el microciclo sea casi siempre una semana, son una formulación 
 
 ## La sesión: entrada en calor, parte principal y vuelta a la calma
 
-La sesión se enseña en tres partes: entrada en calor, parte principal y vuelta a la calma. Es la estructura de los profesorados, pero no se encontró una fuente primaria que la defina; en el manual de la NSCA aparece como capítulo de calentamiento, no como tema propio.
+La sesión suele describirse en tres partes: entrada en calor, parte principal y vuelta a la calma. Ningún programa leído la define así y no se encontró una fuente primaria que la defina; en el índice del manual de la NSCA aparece como capítulo de calentamiento, no como tema propio.
 
 > [!NOTE]
 > Sin fuente todavía: una fuente primaria sobre la estructura de la sesión y sobre la vuelta a la calma.
@@ -47,19 +47,19 @@ Lo que sí se estudió es si la entrada en calor previene lesiones, y la evidenc
 
 ## El microciclo: la semana como unidad práctica
 
-Para un adulto que entrena 3 o 4 días, la semana es la unidad que más se usa. Ahí se decide qué día va la fuerza y cuál la resistencia, y si hay dos sesiones exigentes seguidas. Si combinás correr y pesas, la fuerza explosiva se resiente más cuando van en la misma sesión que cuando se separan unas horas, como explica [fuerza y cardio](fuerza-y-cardio.md).
+Lectura de esta base: para un adulto que entrena 3 o 4 días, la semana es la unidad que más se usa. Ahí se decide qué día va la fuerza y cuál la resistencia, y si hay dos sesiones exigentes seguidas. Si combinás correr y pesas, la fuerza explosiva se resiente más cuando van en la misma sesión que cuando se separan unas horas, según el metaanálisis de Schumann (2022), como explica [fuerza y cardio](fuerza-y-cardio.md).
 
 Las disciplinas arman su semana con sus propias piezas: el reparto de días fáciles y duros en [distribución de la intensidad](../Resistencia/distribucion-de-intensidad.md) y el reparto de grupos musculares en [tipos de rutina](../Musculacion/tipos-de-rutina.md).
 
 ## El mesociclo: un bloque con un objetivo
 
-El mesociclo junta varias semanas que persiguen lo mismo y progresan, y suele cerrar con una semana más liviana. En una encuesta a 246 atletas de fuerza y de físico, la descarga se hacía en promedio unos 6,4 días cada unas 5,6 semanas ([Rogerson y otros, 2024](https://link.springer.com/article/10.1186/s40798-024-00691-y), según su resumen). Eso describe lo que hacen, no prueba que funcione: la evidencia está en [descarga y taper](descarga-y-taper.md).
+El mesociclo junta varias semanas que persiguen lo mismo y progresan, y, según la práctica que describe la encuesta de abajo, suele cerrar con una semana más liviana. En una encuesta a 246 atletas de fuerza y de físico, la descarga se hacía en promedio unos 6,4 días cada unas 5,6 semanas ([Rogerson y otros, 2024](https://link.springer.com/article/10.1186/s40798-024-00691-y), según su resumen). Eso describe lo que hacen, no prueba que funcione: la evidencia está en [descarga y taper](descarga-y-taper.md).
 
-Cómo se encadenan los mesociclos depende del modelo. En el clásico, la carga pasa de mucho volumen a mucha intensidad a lo largo del año; en el de bloques, cada mesociclo concentra pocas capacidades ([Issurin, 2010](https://pubmed.ncbi.nlm.nih.gov/20199119/), según su resumen). Las diferencias y su evidencia están en [modelos de periodización](modelos-de-periodizacion.md).
+Cómo se encadenan los mesociclos depende del modelo. En el clásico, según la descripción habitual (sin fuente leída), la carga pasa de mucho volumen a mucha intensidad a lo largo del año; en el de bloques, cada mesociclo concentra pocas capacidades ([Issurin, 2010](https://pubmed.ncbi.nlm.nih.gov/20199119/), según su resumen). Las diferencias y su evidencia están en [modelos de periodización](modelos-de-periodizacion.md).
 
 ## El macrociclo: tiene sentido cuando hay una fecha
 
-El macrociclo organiza el camino hacia una competencia: una base general, una etapa específica y la puesta a punto. Para quien prepara una carrera, eso es el [plan de carrera](../Resistencia/plan-de-carrera.md), que termina con un [taper](descarga-y-taper.md). Para quien entrena para la salud o el físico, sin fecha, el macrociclo se reduce a encadenar bloques y revisar cada tanto, con el [registro](../Evaluacion/registro-y-monitoreo.md), si se sigue progresando. Esto último es inferencia de esta base, no una recomendación de una guía.
+El macrociclo organiza el camino hacia una competencia: una base general, una etapa específica y la puesta a punto. Esa secuencia es descripción general de esta base, sin fuente leída. Para quien prepara una carrera, eso es el [plan de carrera](../Resistencia/plan-de-carrera.md), que termina con un [taper](descarga-y-taper.md). Para quien entrena para la salud o el físico, sin fecha, el macrociclo se reduce a encadenar bloques y revisar cada tanto, con el [registro](../Evaluacion/registro-y-monitoreo.md), si se sigue progresando. Esto último es inferencia de esta base, no una recomendación de una guía.
 
 ## Qué tan firme es lo que dice esta nota
 

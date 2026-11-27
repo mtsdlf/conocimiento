@@ -34,7 +34,7 @@ Una revisión de 2010 propuso tres estímulos: la tensión mecánica (la fuerza 
 > [!IMPORTANT]
 > El peso de cada estímulo se discute. Una revisión reciente, de autor no identificado y leída solo por el buscador, llama a la tensión mecánica el motor "primario y esencial" (en el original: "primary and essential driver") y dice que el aporte del estrés metabólico no está respaldado ([revisión en PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12927080)). Otras fuentes son más prudentes: evidencia mixta para el estrés metabólico y un daño leve a moderado como estímulo parcial. La postura fuerte tiene una sola fuente.
 
-Lo práctico no cambia con el debate: la tensión aparece en las últimas repeticiones de una serie exigente, con cualquier carga, y por eso importa terminar cerca del límite.
+Lo práctico no cambia con el debate, según una lectura propia sin fuente: que la tensión aparezca en las últimas repeticiones de una serie exigente, con cualquier carga, es un razonamiento y no un dato de las fuentes citadas.
 
 ## El dolor del día después no mide el crecimiento
 
@@ -44,7 +44,7 @@ El dolor muscular tardío indica que hubo algo de daño, pero no sirve como medi
 
 El volumen semanal tiene una relación graduada con el crecimiento: cada serie semanal extra por músculo se asoció con 0,37 % más de ganancia de tamaño ([Schoenfeld, Ogborn y Krieger, 2017](https://pubmed.ncbi.nlm.nih.gov/27433992/)). Ese metaanálisis casi no tenía datos por encima de unas 10 series semanales y sus participantes eran sobre todo no entrenados.
 
-Más arriba la curva se aplana. Una revisión que comparó 12 a 20 series semanales con más de 20 no encontró diferencia en cuádriceps ni en bíceps, en hombres jóvenes entrenados ([Baz-Valle y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35291645/), según su resumen). Un análisis de dosis y respuesta todavía en preprint, sin revisión de pares, propone que la curva de la fuerza se aplana antes que la del músculo ([Pelland y otros, 2024](https://sportrxiv.org/index.php/server/preprint/view/460)); sus números no se leyeron y no se usan como dosis.
+Más arriba la curva se aplana. Una revisión que comparó 12 a 20 series semanales con más de 20 no encontró diferencia significativa en cuádriceps ni en bíceps ([Baz-Valle y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35291645/), según su resumen). Un análisis de dosis y respuesta todavía en preprint, sin revisión de pares, propone que la curva de la fuerza se aplana antes que la del músculo ([Pelland y otros, 2024](https://sportrxiv.org/index.php/server/preprint/view/460)); sus números no se leyeron y no se usan como dosis.
 
 Las cifras de series que usa la base (4 como mínimo con poco tiempo, 10 para el músculo) están en [principios básicos](../Carga/principios-basicos.md), y cómo se cuentan dentro de una rutina, en [variables de la rutina](variables-de-la-rutina.md).
 
@@ -56,7 +56,7 @@ Terminar la serie cerca del límite importa más para el músculo que para la fu
 
 Con series que llegan al fallo, la hipertrofia "parece independiente de la carga": en 28 estudios con 747 adultos sanos, cargas de más de 15 RM, de 9 a 15 RM y de 8 RM o menos dieron un crecimiento parecido, mientras que la fuerza fue mayor con las cargas altas y moderadas ([Lopez y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/33433148/)). Los no entrenados mostraron efectos mayores. La ACSM 2026 llegó a una conclusión general en la misma línea: pocas variables de la prescripción cambiaron los resultados ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/), según resúmenes).
 
-Por eso una rutina para el músculo puede usar mancuernas livianas en casa o barras pesadas en el gimnasio, siempre que las series terminen cerca del límite ([ejercicios básicos](ejercicios-basicos.md)).
+Por eso, como inferencia, una rutina para el músculo puede usar mancuernas livianas en casa o barras pesadas en el gimnasio; Lopez comparó solo series llevadas al fallo ([ejercicios básicos](ejercicios-basicos.md)).
 
 ## Cuánto y qué tan rápido crece
 

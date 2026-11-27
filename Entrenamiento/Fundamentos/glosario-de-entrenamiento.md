@@ -32,7 +32,7 @@ Cada término tiene un solo nombre en todo el tema; los sinónimos van entre par
 | [Adaptación](../Adaptacion/adaptacion.md) | Adaptation | El cambio del cuerpo en respuesta a una carga repetida, que lo deja mejor preparado para esa carga. |
 | [Sistemas energéticos](../Adaptacion/sistemas-energeticos.md) | Energy systems | Las vías por las que el músculo obtiene energía; cuál predomina depende de la duración y la intensidad del esfuerzo. |
 | [Supercompensación](../Adaptacion/supercompensacion.md) | Supercompensation | El modelo de la tradición según el cual, después de una carga y su recuperación, el rendimiento rebota por encima del punto de partida. Es un modelo, no un mecanismo medido. |
-| [Modelo fitness-fatiga](../Adaptacion/supercompensacion.md) | Fitness-fatigue model (Banister model) | El modelo que trata cada sesión como la suma de un efecto positivo que dura y uno negativo, la fatiga, que se va más rápido. |
+| [Modelo fitness-fatiga](../Adaptacion/supercompensacion.md) | Fitness-fatigue model (Banister model) | El modelo que trata cada sesión como la suma de un efecto positivo y uno negativo, la fatiga. |
 | [Especificidad](../Adaptacion/especificidad.md) | Specificity (SAID principle) | El principio de que el cuerpo se adapta a lo que hace: la mejora es mayor cuanto más se parece el entrenamiento a la tarea. |
 | [Desentrenamiento](../Adaptacion/desentrenamiento.md) | Detraining | "The partial or complete loss of training-induced adaptations", según Mujika y Padilla: lo que se pierde al dejar de entrenar. |
 
@@ -62,8 +62,8 @@ Cada término tiene un solo nombre en todo el tema; los sinónimos van entre par
 | [Carga externa](../Carga/carga-interna-y-externa.md) | External load | Lo que se hizo: kilómetros, ritmo, kilos, series. |
 | [Carga interna](../Carga/carga-interna-y-externa.md) | Internal load | Lo que costó: el esfuerzo percibido, la frecuencia cardíaca, el lactato. |
 | [RPE](../Carga/carga-interna-y-externa.md) (esfuerzo percibido) | Rating of perceived exertion | Una escala para puntuar qué tan duro se siente un esfuerzo. |
-| [sRPE](../Carga/carga-interna-y-externa.md) (RPE de la sesión) | Session RPE | El RPE de toda la sesión multiplicado por sus minutos; según Foster, un método válido para cuantificar el entrenamiento en cualquier modalidad. |
-| [ACWR](../Carga/carga-interna-y-externa.md) (ratio aguda:crónica) | Acute:chronic workload ratio | La carga de la última semana dividida por la de las últimas semanas; propuesta para predecir lesiones y bajo crítica estadística fuerte. |
+| [sRPE](../Carga/carga-interna-y-externa.md) (RPE de la sesión) | Session RPE | El RPE de toda la sesión; según Foster, un método válido para cuantificar el entrenamiento, independiente de la modalidad y de la intensidad (la fórmula no se leyó). |
+| [ACWR](../Carga/carga-interna-y-externa.md) (ratio aguda:crónica) | Acute:chronic workload ratio | La carga reciente (aguda) dividida por la de un período más largo (crónica); propuesta para predecir lesiones y bajo crítica. |
 
 ## Planificación: cómo se ordena en el tiempo
 
@@ -76,7 +76,7 @@ Cada término tiene un solo nombre en todo el tema; los sinónimos van entre par
 | [Periodización en bloques](../Planificacion/modelos-de-periodizacion.md) | Block periodization | Cada bloque concentra pocas capacidades, en secuencia. |
 | [Sesión, microciclo, mesociclo, macrociclo](../Planificacion/ciclos.md) | Session, microcycle, mesocycle, macrocycle | Las unidades de tiempo del plan: un entrenamiento, una semana, un bloque de semanas, una temporada. |
 | [Entrenamiento concurrente](../Planificacion/fuerza-y-cardio.md) | Concurrent training | Entrenar fuerza y resistencia en el mismo período. |
-| [Efecto de interferencia](../Planificacion/fuerza-y-cardio.md) | Interference effect | La pérdida de adaptación a la fuerza por sumar resistencia; en un adulto común se limita a la fuerza explosiva. |
+| [Efecto de interferencia](../Planificacion/fuerza-y-cardio.md) | Interference effect | La pérdida de adaptación a la fuerza por sumar resistencia; según Schumann (2022), se limitó a la fuerza explosiva. |
 | [HIIT](../Planificacion/fuerza-y-cardio.md) (intervalos de alta intensidad) | High-intensity interval training | Tramos cortos muy exigentes alternados con pausas. |
 | [Taper](../Planificacion/descarga-y-taper.md) (puesta a punto) | Taper | La baja planificada del volumen antes de una competencia, manteniendo la intensidad. |
 | [Descarga](../Planificacion/descarga-y-taper.md) | Deload | Un período corto de menos carga para disipar la fatiga y preparar el bloque siguiente. |
@@ -96,7 +96,7 @@ Cada término tiene un solo nombre en todo el tema; los sinónimos van entre par
 |---|---|---|
 | [Recuperación](../Recuperacion/recuperacion.md) | Recovery | El tiempo y las condiciones en que la fatiga se va y aparece la adaptación. |
 | [Dolor muscular tardío](../Recuperacion/dolor-y-lesiones.md) (agujetas) | Delayed-onset muscle soreness (DOMS) | El dolor difuso que aparece horas después de un esfuerzo nuevo o al volver de un parate; no es una lesión. |
-| [Sobrecarga funcional y no funcional](../Recuperacion/sobreentrenamiento.md) (overreaching) | Functional / non-functional overreaching | Una caída breve del rendimiento por acumular carga: la funcional se recupera con descanso; la no funcional tarda más. |
+| [Sobrecarga funcional y no funcional](../Recuperacion/sobreentrenamiento.md) (overreaching) | Functional / non-functional overreaching | Una caída breve del rendimiento por acumular carga: la funcional se recupera, según Meeusen y otros (2013); el consenso distingue de ella la no funcional y el síndrome de sobreentrenamiento. |
 | [Sobreentrenamiento](../Recuperacion/sobreentrenamiento.md) | Overtraining syndrome (OTS) | Una desadaptación prolongada, según el consenso de Meeusen y otros (2013); distinguirlo del overreaching no funcional es muy difícil y lo hace un profesional. |
 | [REDs](../Recuperacion/sobreentrenamiento.md) | Relative energy deficiency in sport | "A syndrome of deleterious health and performance outcomes" por comer poco para lo que se entrena, según el consenso del COI de 2023; antes se escribía RED-S. |
 
@@ -106,7 +106,7 @@ Cada término tiene un solo nombre en todo el tema; los sinónimos van entre par
 |---|---|---|
 | [Zonas de intensidad](../Resistencia/zonas-de-intensidad.md) | Intensity zones; training zones | Rangos de esfuerzo definidos por ritmo, frecuencia cardíaca o RPE. |
 | [Primer y segundo umbral](../Resistencia/zonas-de-intensidad.md) | First / second threshold (VT1, LT1; VT2, LT2, RCP) | Los puntos donde el esfuerzo empieza a desafiar al cuerpo (el primero) y donde las alteraciones se aceleran (el segundo). |
-| [Zona 2](../Resistencia/zonas-de-intensidad.md) | Zone 2 | Depende del modelo: en el de tres zonas, la franja entre los dos umbrales; en el de cinco, el que popularizaron los relojes, cardio justo por debajo del primer umbral. Su ventaja para la salud se discute en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md). |
+| [Zona 2](../Resistencia/zonas-de-intensidad.md) | Zone 2 | Depende del modelo: en el de tres zonas, la franja entre los dos umbrales; en el de cinco, cardio justo por debajo del primer umbral. Su ventaja para la salud se discute en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md). |
 | [Distribución de la intensidad](../Resistencia/distribucion-de-intensidad.md) | Training intensity distribution (TID) | Cómo se reparte el tiempo de entrenamiento entre zonas: polarizada (polarized), piramidal (pyramidal) o de umbral (threshold). |
 | [Métodos de resistencia](../Resistencia/metodos-de-resistencia.md) | Endurance training methods | Continuo, intervalos, fartlek, cuestas y tirada larga (long run). |
 | [Cadencia](../Resistencia/tecnica-de-carrera.md) | Cadence; step rate | Los pasos por minuto al correr. |
