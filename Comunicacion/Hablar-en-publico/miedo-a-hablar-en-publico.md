@@ -92,7 +92,7 @@ El efecto sobre las hormonas y la conducta no se sostiene. Una revisión de 2020
 >
 > **Ese efecto es frágil.** El mismo metaanálisis lo baja a «moderate» entre quienes no conocían la hipótesis. Una lectura de esta base: puede que parte del efecto sea decir lo que se espera. Una réplica de 2024 con 92 personas, según su abstract, no repitió ni la testosterona ni el sentirse poderoso, y sí en parte el cortisol y el riesgo.
 
-> [!NOTE] Sin fuente todavía: cuánta gente le teme a hablar en público en Argentina o en la muestra nacional de Estados Unidos; los resultados por técnica del metaanálisis de Allen, Hunter y Donohue (1989), visto solo por su título; otras réplicas de Brooks (2014).
+> [!NOTE] Sin fuente todavía: cuánta gente le teme a hablar en público en Argentina o en la muestra nacional de Estados Unidos; los resultados por técnica del metaanálisis de Allen, Hunter y Donohue (1989), visto solo por su título; otras réplicas de Brooks (2014). Qué se buscó: prevalencia en estudios y metaanálisis internacionales (de ahí salen Stein 1996 y Ebrahimi 2019); no se hizo una búsqueda específica de encuestas argentinas.
 
 ## Qué hacer si te da miedo presentar
 

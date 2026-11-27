@@ -60,6 +60,6 @@ Acá queda lo que vale en castellano y para cualquier lector: escribir claro, y 
 
 - [Lenguaje claro](lenguaje-claro.md): qué es según las guías y la norma ISO, el experimento de Oppenheimer sobre escribir difícil y qué miden (y qué no) las fórmulas de legibilidad. Leelo primero.
 - [Mensajes escritos](mensajes-escritos.md): mails y chat de trabajo, el tono que se lee mal, los emojis, el costo de esperar respuesta rápida y lo que falta saber sobre lectores ocupados.
-- [Lenguaje claro en Argentina](lenguaje-claro-en-argentina.md): la Ley 6.367 de la Ciudad de Buenos Aires y la red nacional de lenguaje claro.
+- [Lenguaje claro en Argentina](lenguaje-claro-en-argentina.md): la Ley 6.367 de la Ciudad de Buenos Aires y su manual de diez pasos, la Ley 15.184 de la Provincia, la red nacional y los proyectos de ley.
 
 Los mitos de la vertical, como el de que escribir complicado suena más profesional, están en [mitos de comunicación](../Fundamentos/mitos-de-comunicacion.md#escribir-difícil-hace-parecer-menos-inteligente).

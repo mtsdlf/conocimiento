@@ -139,6 +139,7 @@ Las definiciones son formulaciones de esta base a partir de cada nota, que tiene
 | [Fórmula de legibilidad](../Escritura-en-el-trabajo/lenguaje-claro.md) | Estima la facilidad de un texto por el largo de oraciones y palabras, sin mirar al lector. |
 | [Egocentrismo al escribir](../Escritura-en-el-trabajo/mensajes-escritos.md) | Quien escribe lee su mensaje con la intención que tuvo y sobreestima cuánto se entiende su tono. |
 | [Ley 6.367](../Escritura-en-el-trabajo/lenguaje-claro-en-argentina.md) | La ley de lenguaje claro del sector público de la Ciudad de Buenos Aires (2020). |
+| [Ley 15.184](../Escritura-en-el-trabajo/lenguaje-claro-en-argentina.md) | La ley de lenguaje claro de la Provincia de Buenos Aires (2020), que alcanza también a las concesionarias privadas de servicios públicos. |
 
 ## Comunicación en la organización
 

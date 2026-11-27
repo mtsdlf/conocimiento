@@ -71,7 +71,7 @@ Recalde y Vesterlund (2020) revisaron qué reduce la diferencia. Según su abstr
 
 ## En Argentina
 
-> [!NOTE] Sin fuente todavía: cómo se fija el sueldo en Argentina y qué parte se negocia de forma individual. Falta investigar las paritarias, los convenios colectivos por actividad y la diferencia entre puestos dentro y fuera de convenio; toda la evidencia de esta nota es de Estados Unidos o de metaanálisis internacionales.
+> [!NOTE] Sin fuente todavía: cómo se fija el sueldo en Argentina y qué parte se negocia de forma individual. Falta investigar las paritarias, los convenios colectivos por actividad y la diferencia entre puestos dentro y fuera de convenio; toda la evidencia de esta nota es de Estados Unidos o de metaanálisis internacionales. Qué se buscó: la investigación de la vertical buscó estudios de negociar el sueldo y de diferencias de género en bases internacionales; no se hizo una búsqueda de fuentes laborales argentinas sobre paritarias o convenios.
 
 ## Cómo negociar una oferta o un aumento
 
