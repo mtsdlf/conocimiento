@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina el sueldo se paga solo por acreditación en una cuenta sueldo de banco, gratuita para el trabajador y en el banco que él elija; el lote que manda el empleador un día está disponible al inicio del siguiente, y el calendario del mes junta el plazo de pago de la LCT, el aguinaldo, las vacaciones y los vencimientos de las cargas ante ARCA.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "BCRA, texto ordenado Depósitos de ahorro, cuenta sueldo y especiales, al 29/10/2026 (última comunicación A 8498), sección 2 completa y puntos 1.8, 4.10 y 4.11 (leído en esas partes): https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-depaho.pdf"
@@ -33,7 +33,7 @@ fuentes:
   - "Tesoreria/.investigacion/pago-de-sueldos-argentina.md (2026-11-27)"
 aliases: [pago de sueldos en Argentina, cuenta sueldo, cuenta sueldo BCRA, portabilidad de cuenta sueldo, Comunicación A 6042, cuenta sueldo en dólares, A 8460, pago de haberes, acreditación de haberes, plazo de pago de sueldos, art. 128 LCT, art. 137 LCT, mora salarial, vencimiento F.931, vencimiento SICORE, aguinaldo 30 de junio, aguinaldo 18 de diciembre]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pago de sueldos en Argentina

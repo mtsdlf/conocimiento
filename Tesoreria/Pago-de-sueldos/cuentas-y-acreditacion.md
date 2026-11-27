@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El sueldo sale de una cuenta de la empresa y llega a una cuenta que elige el empleado, en un lote que el banco reparte; la tesorería cuida que la plata salga de la cuenta correcta, que cada destino sea de verdad del empleado, que el empleado la tenga el día de pago y que lo rechazado o pagado por error se corrija.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Nacha, RMAG Originator Essentials (2024), guía para quien origina pagos (leída completa): https://www.nacha.org/sites/default/files/2024-10/RMAG_Originator_Essentials.pdf"
@@ -24,7 +24,7 @@ fuentes:
   - "Tesoreria/.investigacion/pago-de-sueldos.md, secciones 1, 2, 5 y 6 (2026-11-27)"
 aliases: [cuenta de sueldos, payroll account, cuenta pagadora de sueldos, cuenta de saldo cero, zero balance account, depósito directo, direct deposit, acreditación de sueldos, prenotificación, prenote, rechazo de un pago, ACH return, reversa, reversal, desvío de sueldos, payroll diversion, empleado fantasma, ghost employee, tarjeta de nómina, payroll card, SALA]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuentas y acreditación

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El pago de sueldos es la parte de la tesorería que hace llegar el neto de cada liquidación a la cuenta de cada empleado el día que corresponde: tener la plata en la cuenta de la empresa a tiempo, mandar el lote al banco, verificar que se acreditó y prever en la caja las cargas que vencen después.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 7.5.4, 9.5.2.5, 9.5.3.3 y 9.7.2 (leído): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Tesoreria/.investigacion/pago-de-sueldos.md (2026-11-27)"
 aliases: [pago de sueldos, pago de la nómina, pago de haberes, payroll payment, payroll disbursement, paying payroll, pago de salarios, acreditación de sueldos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pago de sueldos

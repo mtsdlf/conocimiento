@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fondear la nómina es dejar la plata en la cuenta de la que sale el sueldo antes de la hora de corte del banco, y el calendario de sueldos es la lista de fechas del año en que salen el neto, los pagos extraordinarios y las cargas; los dos alimentan la proyección de caja y deciden qué pasa cuando la plata no alcanza.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Federal Reserve Financial Services, FedACH Processing Schedule (vigente desde el 12/09/2022) (leído): https://www.frbservices.org/resources/resource-centers/same-day-ach/fedach-processing-schedule.html"
@@ -22,7 +22,7 @@ fuentes:
   - "Tesoreria/.investigacion/pago-de-sueldos.md, secciones 3, 4 y 6 (2026-11-27)"
 aliases: [fondeo de la nómina, payroll funding, prefondeo, prefunding, calendario de sueldos, calendario de pagos de nómina, payroll calendar, día de pago, payday, hora de corte, cut-off, Same Day ACH, depósito de retenciones, pago a demanda, earned wage access, EWA, adelanto de sueldo a demanda, Convenio 173 OIT, fondo de garantía salarial]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fondeo y calendario
