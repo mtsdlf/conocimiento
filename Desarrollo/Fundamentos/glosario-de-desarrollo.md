@@ -33,6 +33,9 @@ Las definiciones son generales; las citas, las cifras y los desacuerdos viven en
 | Acuerdo inicial | Lo que se entiende con el cliente antes de construir: el problema, el resultado buscado y quién decide | [Acuerdo inicial](../Encargo/acuerdo-inicial.md) |
 | Lean Inception | Taller de una semana que termina en un MVP entendido por todos | [Acuerdo inicial](../Encargo/acuerdo-inicial.md) |
 | Alcance | Qué entra en el encargo y qué no | [Alcance y aceptación](../Encargo/alcance-y-aceptacion.md) |
+| Línea base | El alcance escrito y lo ya aceptado, contra lo que se reconoce un cambio | [Cambios de alcance](../Encargo/cambios-de-alcance.md) |
+| Scope hammering | Recortar el trabajo para que entre en el apetito, en lugar de extender el plazo (Shape Up) | [Estimación](../Encargo/estimacion.md#cuatro-formas-de-estimar) |
+| Agile Contracts Primer | Guía de Arbogast, Larman y Vodde (2012) sobre contratos para proyectos ágiles; las notas la llaman "el *Primer*" | [Modelos de contrato y cobro](../Encargo/modelos-de-contrato-y-cobro.md) |
 | Validación | Comprobar que lo construido es lo que el cliente necesitaba | [Verificación](../Verificacion/verificacion.md#verificar-contra-lo-definido-validar-contra-lo-que-se-necesitaba) |
 | Definición de terminado | Lo que todo incremento cumple para darse por hecho (probado, revisado, desplegado); distinta de los criterios de aceptación, que son de cada incremento | [Alcance y aceptación](../Encargo/alcance-y-aceptacion.md#qué-quiere-decir-terminado) |
 | Apetito | El tiempo que se quiere gastar en un trabajo, fijado antes de diseñarlo y no como estimación (Shape Up) | [Estimación](../Encargo/estimacion.md) |
@@ -50,11 +53,17 @@ Las definiciones son generales; las citas, las cifras y los desacuerdos viven en
 | Desarrollo guiado por especificaciones | Escribir la especificación antes del código y dársela al agente como fuente de verdad | [Escuelas de desarrollo](escuelas-de-desarrollo.md) |
 | Spec-first, spec-anchored, spec-as-source | Los tres niveles de Böckeler: la especificación se usa y se descarta, se mantiene, o es lo único que se edita | [Especificación](../Definicion/especificacion.md#los-tres-niveles-del-desarrollo-guiado-por-especificaciones) |
 | Historia de usuario | Descripción breve de una necesidad desde quien la tiene | [Historia de usuario](../Definicion/historia-de-usuario.md) |
+| INVEST | Chequeo de Bill Wake (2003): una buena historia es independiente, negociable, valiosa, estimable, pequeña y testeable | [Historia de usuario](../Definicion/historia-de-usuario.md#el-chequeo-invest) |
 | Criterio de aceptación | Condición verificable con la que se decide que algo está terminado | [Criterios de aceptación](../Definicion/criterios-de-aceptacion.md) |
 | Contrato de terminado | La prueba o el chequeo de pasa o falla que dice cuándo una tarea está hecha; con agentes, lo que el agente corre para saber si terminó | [Criterios de aceptación](../Definicion/criterios-de-aceptacion.md#el-criterio-que-un-agente-ejecuta) |
 | Dado, cuando, entonces | Forma de escribir un ejemplo: estado inicial, acción y resultado observable (Gherkin) | [Criterios de aceptación](../Definicion/criterios-de-aceptacion.md) |
 | Descomposición en tareas | Partir el trabajo en tareas que se hacen y se verifican solas | [Descomposición en tareas](../Definicion/descomposicion-en-tareas.md) |
+| Rebanada vertical | Una tarea que atraviesa todas las capas y entrega algo que se puede probar, en lugar de una capa entera | [Descomposición en tareas](../Definicion/descomposicion-en-tareas.md#rebanadas-verticales-y-no-capas) |
+| Spike | Una investigación corta cuando no se sabe por dónde empezar; uno de los patrones para partir | [Descomposición en tareas](../Definicion/descomposicion-en-tareas.md#los-patrones-para-partir) |
+| Example Mapping | Conversación corta de Matt Wynne con tarjetas de cuatro colores (historia, reglas, ejemplos, preguntas) para sacar los criterios antes de construir | [Criterios de aceptación](../Definicion/criterios-de-aceptacion.md#encontrar-los-ejemplos-con-example-mapping) |
+| Arnés | El entorno que envuelve al agente en un trabajo largo: la lista de tareas, las herramientas y los chequeos que corre | [Criterios de aceptación](../Definicion/criterios-de-aceptacion.md#el-criterio-que-un-agente-ejecuta) |
 | Lenguaje ubicuo | El vocabulario del negocio, igual en la conversación, las notas y el código | [Modelo de dominio](../Definicion/modelo-de-dominio.md) |
+| Event Storming | Taller de Alberto Brandolini para explorar en grupo un dominio de negocio complejo | [Modelo de dominio](../Definicion/modelo-de-dominio.md#descubrir-el-dominio-con-event-storming) |
 | Dar forma (shaping) | Acotar un trabajo (límites, riesgos, solución a grandes rasgos) antes de dárselo al equipo | [Dar forma a una solución](../../Producto/Descubrimiento/dar-forma-a-una-solucion.md) |
 
 ## Construir con agentes
