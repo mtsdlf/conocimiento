@@ -7,7 +7,10 @@ fuentes:
   - "Reich, J. y Ruipérez-Valiente, J. A. (2019), The MOOC pivot, Science 363(6423):130-131, DOI 10.1126/science.aav7958, postprint: https://webs.um.es/jruiperez/papers/journals/2019_Science_MOOCPivot_postprint.pdf"
   - "Jordan, K. (2014), Initial trends in enrolment and completion of massive open online courses, IRRODL 15(1): https://www.irrodl.org/index.php/irrodl/article/view/1651 (resumen)"
   - "Harvard Magazine (2019), sobre las críticas a Reich y Ruipérez-Valiente: https://www.harvardmagazine.com/2019/01/mooc (resumen del buscador)"
+  - "Kizilcec, R. F., Piech, C. y Schneider, E. (2013), Deconstructing Disengagement: Analyzing Learner Subpopulations in Massive Open Online Courses, LAK 2013:170-179, DOI 10.1145/2460296.2460330: https://web.stanford.edu/~cpiech/bio/papers/deconstructingDisengagement.pdf (texto completo)"
+  - "Reich, J. (8 de diciembre de 2014), MOOC Completion and Retention in the Context of Student Intent, EDUCAUSE Review: https://er.educause.edu/articles/2014/12/mooc-completion-and-retention-in-the-context-of-student-intent (texto completo, leído en la copia de Internet Archive: https://web.archive.org/web/2015/http://www.educause.edu/ero/article/mooc-completion-and-retention-context-student-intent)"
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-aprendizaje-en-linea-2026-11.md"
 aliases: [MOOC, MOOC completion, tasa de finalización, abandono en cursos en línea, deserción, MOOC pivot, cursos abiertos masivos]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -36,8 +39,20 @@ Dividir los que terminan por los que se anotan supone que todos se anotaron para
 
 La vía paga muestra el otro extremo: con certificado pago, terminó cerca de la mitad. No se puede atribuir esa diferencia al pago. Quien paga ya llega decidido: hay autoselección.
 
-> [!NOTE]
-> Sin fuente todavía: la tipología de participantes de Kizilcec, Piech y Schneider (2013: quienes completan, auditan, se desenganchan o muestrean) y el trabajo de Reich (2014) sobre intención y retención. Los dos se citan seguido y no se leyeron.
+Kizilcec, Piech y Schneider (2013) mostraron que el abandono no es una sola cosa. En tres MOOC de computación, de nivel secundario, de grado y de posgrado, con entre 21.108 y 46.096 participantes activos cada uno, clasificaron a cada persona según cómo usaba videos y evaluaciones. En los tres cursos salieron las mismas cuatro trayectorias:
+
+| Trayectoria | Qué hace | Secundario | Grado | Posgrado |
+|---|---|---|---|---|
+| Completa | Hace la mayoría de las evaluaciones | 27 % | 8 % | 5 % |
+| Audita | Mira los videos casi todo el curso y casi no rinde | 6 % | 6 % | 9 % |
+| Se desengancha | Rinde al principio y después desaparece, en general en el primer tercio | 28 % | 12 % | 6 % |
+| Muestrea | Mira videos de uno o dos tramos del curso | 39 % | 74 % | 80 % |
+
+Los autores destacan a quienes auditan: siguen el curso durante la mayor parte de su duración sin rendir, y ninguno obtuvo el certificado. Por eso piden mirar por grupo y no solo la tasa de finalización.
+
+Reich (2014) puso la cifra de intención en nueve cursos de HarvardX de 2013 y 2014, con 290.606 inscriptos y 79.525 respuestas a la encuesta inicial. En promedio por curso, el 22 % de quienes dijeron querer terminar obtuvo el certificado. Lo obtuvo el 6 % de quienes solo querían curiosear y el 7,5 % de quienes querían mirar sin rendir. Quienes querían terminar duraron, en mediana, el 35 % del curso, contra el 10 % de los que curioseaban. Cerca del 10 % de quienes querían terminar se fue en los primeros días.
+
+El artículo de Reich da dos cifras para lo mismo: 63 % con intención de terminar y 24 % de logro en un pasaje, y 56 % y 22 % en otro. El 22 % es un promedio por curso; el 24 % parece calculado sobre el total, aunque el texto no lo aclara.
 
 ## Lo que mostraban los primeros MOOC
 
@@ -49,4 +64,4 @@ La tesis de Reich y Ruipérez-Valiente es que el campo se encamina a maestrías 
 
 ## Qué cambia para quien arma un curso abierto
 
-Como inferencia de esta base: medir la finalización sobre todos los inscriptos castiga al curso por los curiosos. Conviene medirla también sobre quienes dijeron querer terminar o sobre quienes entraron a la primera unidad, y comparar esa cifra con el 11 a 18 % de HarvardX y MITx. Qué hacer para subirla no tiene evidencia verificada todavía (ver [Aprendizaje en línea](aprendizaje-en-linea.md)).
+Como inferencia de esta base: medir la finalización sobre todos los inscriptos castiga al curso por los curiosos. Conviene medirla también sobre quienes dijeron querer terminar o sobre quienes entraron a la primera unidad, y comparar esa cifra con el 11 a 18 % de HarvardX y MITx o con el 22 % de Reich (2014). Qué hacer para subirla tiene poca evidencia: las intervenciones breves probadas en cientos de cursos movieron poco la finalización (ver [Aprendizaje en línea](aprendizaje-en-linea.md)).
