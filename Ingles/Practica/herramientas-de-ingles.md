@@ -3,7 +3,7 @@ resumen: >-
   Las herramientas gratuitas o conocidas para entrenar pronunciación, vocabulario y escucha en
   inglés (diccionarios de aprendices, buscadores de pronunciación, tarjetas espaciadas, corpus,
   tests de vocabulario), con qué se verificó de cada una al 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "YouGlish: https://youglish.com/"
@@ -27,7 +27,7 @@ aliases:
   - English learning tools
   - Apps de inglés
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramientas de inglés

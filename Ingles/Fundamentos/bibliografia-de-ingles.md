@@ -3,7 +3,7 @@ resumen: >-
   Las obras canónicas para pasar de B2 a C1 siendo hispanohablante: libros de consulta para corregir
   errores puntuales, textos para entender cómo se aprende un idioma y los artículos abiertos que
   sostienen la base, con qué aporta cada uno y qué parte leer.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Swan, Practical English Usage, 4.ª ed. (OUP, 2016): https://www.oxfordlearnersdictionaries.com/about/practical-english-usage ; https://blackwells.co.uk/bookshop/product/Practical-English-Usage-by-Michael-Swan/9780194202411"
@@ -26,7 +26,7 @@ aliases:
   - Reading list
   - Lecturas de inglés
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bibliografía de inglés
