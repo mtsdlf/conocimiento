@@ -2,7 +2,7 @@
 resumen: >-
   Una clave de idempotencia es un identificador que el cliente manda con una operación para que,
   si la reintenta, el servidor devuelva el mismo resultado sin repetir el efecto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IETF HTTPAPI, The Idempotency-Key HTTP Header Field, draft 07 (2025, vencido): https://datatracker.ietf.org/doc/draft-ietf-httpapi-idempotency-key-header/"
@@ -12,7 +12,7 @@ fuentes:
   - "Archivo/Desarrollo/epicas-historias-usuario-ecommerce.md (original)"
 aliases: [Idempotency-Key, Idempotency key, Clave idempotente]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Clave de idempotencia
@@ -62,4 +62,5 @@ intento funcionó.
 ## Ver también
 
 - [Saga](saga.md): los pasos y compensaciones de una saga se reintentan y necesitan ser idempotentes.
-- [Diseñar casos de prueba de una API](../Desarrollo/Especificacion-y-prueba/disenar-casos-de-prueba-de-api.md), en Desarrollo: cada operación que acepta la clave lleva un caso de reintento.
+- [Outbox](outbox.md): publica cada evento al menos una vez, así que el consumidor deduplica con la misma idea.
+- [Diseñar casos de prueba de una API](../../Desarrollo/Especificacion-y-prueba/disenar-casos-de-prueba-de-api.md), en Desarrollo: cada operación que acepta la clave lleva un caso de reintento.

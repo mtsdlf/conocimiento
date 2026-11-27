@@ -2,7 +2,7 @@
 resumen: >-
   Un circuit breaker corta las llamadas a una dependencia que viene fallando: tras superar un
   umbral de errores en una ventana, pasa a abierto y responde enseguida, sin esperar el timeout.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, CircuitBreaker (2014): https://martinfowler.com/bliki/CircuitBreaker.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
 aliases: [Cortacircuito, Circuit breaking, Disyuntor]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Circuit breaker

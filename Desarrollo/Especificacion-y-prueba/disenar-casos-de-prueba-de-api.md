@@ -22,8 +22,8 @@ categorías que hay que cubrir, del camino feliz a la concurrencia.
 
 - Tener el contrato de la API (OpenAPI o equivalente) y los criterios de aceptación de cada
   [Historia de usuario](historia-de-usuario.md).
-- Si la API es multi-tenant o acepta reintentos, entender [Multi-tenancy](../../Arquitectura/multi-tenancy.md) y
-  [Clave de idempotencia](../../Arquitectura/clave-de-idempotencia.md): generan categorías propias.
+- Si la API es multi-tenant o acepta reintentos, entender [Multi-tenancy](../../Arquitectura/Sistemas-distribuidos/multi-tenancy.md) y
+  [Clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md): generan categorías propias.
 
 ## Formato, categorías, ambigüedades y efectos
 

@@ -1,0 +1,12 @@
+# Vistazo: arquitectura de software vista desde Chip Huyen (2026-11-27)
+
+Informe del subagente de vistazo, resumido por quien escribe el tema.
+
+- Índice de AI Engineering (O'Reilly 2025), literal desde https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md [L]: 1 Introduction to Building AI Applications with Foundation Models; 2 Understanding Foundation Models; 3 Evaluation Methodology; 4 Evaluate AI Systems; 5 Prompt Engineering; 6 RAG and Agents; 7 Finetuning; 8 Dataset Engineering; 9 Inference Optimization; 10 AI Engineering Architecture and User Feedback.
+- README de aie-book [M]: "Tools become outdated quickly, but fundamentals should last longer."
+- Arquitectura de referencia, https://huyenchip.com/2024/07/25/genai-platform.html [L encabezados]: Step 1 Enhance Context; Step 2 Put in Guardrails; Step 3 Add Model Router and Gateway; Step 4 Reduce Latency with Cache (prompt, exact, semantic); Step 5 Add Complex Logic and Write Actions; Observability (metrics, logs, traces); AI Pipeline Orchestration. "A component can be skipped if your system works well without it."
+- https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html [M citas]: "Use an agentic framework when direct API calls work"; "Insist on finetuning when prompting works" (como errores); "the issue wasn't with AI, but with product"; 0 a 60 fácil, 60 a 100 difícil.
+- https://huyenchip.com/2025/01/07/agents.html [M citas]: "To evaluate an agent, identify its failure modes and measure how often each of these failure modes happens."; fallas de planificación, de herramientas y de eficiencia.
+- Índice de Fundamentals of Software Architecture 2ª ed. (Richards y Ford, 2025), https://nealford.com/books/SAF2e.html [L]: Foundations (Architectural Thinking, Modularity, Architectural Characteristics…, Component-Based Thinking); Styles (Layered, Modular Monolith, Pipeline, Microkernel, Service-Based, Event-Driven, Space-Based, Orchestration-Driven SOA, Microservices, Choosing, Architectural Patterns); Techniques (Architectural Decisions, Analyzing Architecture Risk, Diagramming, Making Teams Effective, Negotiation and Leadership, Architectural Intersections, Laws revisited).
+- Señales secundarias sin leer [S]: ensayo de Huyen de 2026 "Harness Engineering for Self-Improvement" citado por Latent Space; podcast SuperDataScience #999 (junio 2026).
+- Huecos: títulos de los capítulos 3 a 8 de Designing ML Systems; ningún texto primario de Huyen de 2026; ninguna fuente cruza las dos taxonomías (el cruce es propio).

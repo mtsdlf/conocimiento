@@ -84,7 +84,7 @@ La A 6885 ordena además inscribirse en un registro de PSP que ofrecen cuentas d
 
 ## Lo que falla entre actores
 
-Cada salto entre actores es una llamada por red que puede no contestar. Si la tienda reintenta un cobro sin protección, puede cobrar dos veces; eso lo evita una [clave de idempotencia](../../Arquitectura/clave-de-idempotencia.md). Si el pago queda pendiente mientras el pedido ya se creó, el checkout tiene que poder deshacer pasos, como muestra el ejemplo de checkout de la [saga](../../Arquitectura/saga.md).
+Cada salto entre actores es una llamada por red que puede no contestar. Si la tienda reintenta un cobro sin protección, puede cobrar dos veces; eso lo evita una [clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md). Si el pago queda pendiente mientras el pedido ya se creó, el checkout tiene que poder deshacer pasos, como muestra el ejemplo de checkout de la [saga](../../Arquitectura/Sistemas-distribuidos/saga.md).
 
 ## Cómo se usa al analizar una plataforma de tiendas
 

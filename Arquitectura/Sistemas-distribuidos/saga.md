@@ -2,7 +2,7 @@
 resumen: >-
   Una saga reemplaza una transacción distribuida por una secuencia de transacciones locales, cada
   una con una acción que la compensa si un paso posterior falla.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hector Garcia-Molina y Kenneth Salem, Sagas, SIGMOD 1987: https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
 aliases: [Patrón saga, Saga pattern, Transacción compensable]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Saga
@@ -61,3 +61,5 @@ compensación es una operación de negocio nueva sobre cambios que ya se confirm
 
 - [Circuit breaker](circuit-breaker.md): una dependencia con el breaker abierto es una de las fallas que disparan compensaciones.
 - [Degradación controlada](degradacion-controlada.md): decide si un paso fallido aborta la saga o queda pendiente.
+- [Outbox](outbox.md): cada paso confirma su transacción local y publica su resultado; el outbox evita perder o inventar ese evento.
+- [Event-driven](../Estilos/event-driven.md): coreografía y orquestación corresponden a las topologías broker y mediator.

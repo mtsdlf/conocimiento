@@ -2,7 +2,7 @@
 resumen: >-
   Cómo proteger un cliente HTTP de Spring Boot con `@CircuitBreaker` y `@Retry` de Resilience4j,
   con su fallback y su configuración en `application.yml`.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Resilience4j, Getting Started (Spring Boot 3): https://resilience4j.readme.io/docs/getting-started-3"
@@ -11,7 +11,7 @@ fuentes:
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
 aliases: [Resilience4j, Circuit breaker en Spring Boot]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Proteger un cliente HTTP con Resilience4j en Spring Boot
@@ -104,4 +104,4 @@ responden enseguida con el fallback. `GET /actuator/circuitbreakers` muestra la 
 
 ## Ver también
 
-- [Sintaxis de YAML](../Desarrollo/Configuracion/sintaxis-de-yaml.md), en Desarrollo: la sintaxis del `application.yml`.
+- [Sintaxis de YAML](../../Desarrollo/Configuracion/sintaxis-de-yaml.md), en Desarrollo: la sintaxis del `application.yml`.

@@ -2,14 +2,14 @@
 resumen: >-
   Degradación controlada es decidir qué devuelve un servicio cuando falla una dependencia: datos
   parciales en lecturas, error explícito o estado "pendiente" en comandos críticos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
   - "Resilience4j, Getting Started (Spring Boot 3), fallback methods: https://resilience4j.readme.io/docs/getting-started-3"
 aliases: [Graceful degradation, Fallback, Degradación elegante]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # Degradación controlada
@@ -33,7 +33,7 @@ La pregunta que ordena la decisión es si una respuesta incompleta puede causar 
 | **Lectura** (listado, detalle) | datos parciales, valor en cache o marcador visible | sin promociones; precio guardado con la marca `estimated` |
 | **Comando dudoso** (agregar al carrito) | aceptar y marcar para verificar después, o rechazar con 503 | ítem `unverified` que se valida en el checkout |
 | **Comando crítico** (cobrar, reservar stock) | fallar rápido, sin inventar un resultado | 503 y reintento del cliente |
-| **Integración externa asíncrona** (pago, email) | registrar como pendiente y reintentar en segundo plano | intento de pago `PENDING`; email en una tabla outbox |
+| **Integración externa asíncrona** (pago, email) | registrar como pendiente y reintentar en segundo plano | intento de pago `PENDING`; email en una tabla [outbox](outbox.md) |
 
 En escritura, lo que no se puede degradar se aborta entero: un cambio a medias es peor que un
 error. Si ya hubo efectos en otros servicios, se deshacen con las compensaciones de una [Saga](saga.md).

@@ -2,7 +2,7 @@
 resumen: >-
   API-led connectivity organiza las APIs en tres capas: System (expone un sistema o dominio),
   Process (orquesta varias System) y Experience (adapta los datos a un frontend).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "MuleSoft Documentation, API-led connectivity overview: https://docs.mulesoft.com/general/api-led-overview"
@@ -10,7 +10,7 @@ fuentes:
   - "Archivo/Arquitectura/circuit-breaking-resilience4j.md (original)"
 aliases: [API-led, Arquitectura API-led, System Process Experience APIs]
 creado: 2026-10-03
-revisado:
+revisado: 2026-11-27
 ---
 
 # API-led connectivity
@@ -50,9 +50,9 @@ Inventario). El backoffice usa otra Experience sobre las mismas System.
 ## Lo que no hace un API gateway
 
 El gateway enruta, autentica y limita tráfico, pero no orquesta datos de varios
-servicios; puede estar delante de cualquiera de las tres capas.
+servicios; puede estar delante de cualquiera de las tres capas. Qué hace y qué no hace está en [API gateway y BFF](api-gateway-y-bff.md).
 
 ## Ver también
 
 - [Multi-tenancy](multi-tenancy.md): el tenant se resuelve en la capa Experience y viaja a las de abajo.
-- [Plataforma API-first](../Platform-Engineering/Plataforma-interna/plataforma-api-first.md), en Platform-Engineering: API-first dice cómo se expone una capacidad; API-led, en qué capa va.
+- [Plataforma API-first](../../Platform-Engineering/Plataforma-interna/plataforma-api-first.md), en Platform-Engineering: API-first dice cómo se expone una capacidad; API-led, en qué capa va.

@@ -16,8 +16,8 @@ cuándo está terminado, y lo convierte en casos de prueba verificables.
 
 Dentro de [Desarrollo](../desarrollo.md), es lo primero: lo que se especifica acá es lo que después se
 genera, se configura y se versiona. Algunas categorías de prueba vienen de patrones del tema
-Arquitectura, como la [clave de idempotencia](../../Arquitectura/clave-de-idempotencia.md) y el
-[multi-tenancy](../../Arquitectura/multi-tenancy.md).
+Arquitectura, como la [clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md) y el
+[multi-tenancy](../../Arquitectura/Sistemas-distribuidos/multi-tenancy.md).
 
 ## De la historia al caso de prueba
 
