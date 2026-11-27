@@ -34,7 +34,7 @@ La guía de compras del gobierno británico lo pone como regla para evaluar ofer
 
 ## Antes, durante y después de la compra
 
-Hurkens y otros dan dos maneras de ordenar los costos. La primera los parte en «pre-transition [sic], transaction, and post-transaction elements»: lo que se gasta antes de comprar (buscar, homologar y [dar de alta al proveedor](../Proveedores/alta-de-proveedor.md)), al comprar (la orden, la recepción, el transporte, el pago) y después (rechazos, garantías, mantenimiento, el stock que obliga a tener). La segunda usa seis categorías de Ellram y Siferd (1998): management, quality, price, communications, service y delivery.
+Hurkens y otros dan dos maneras de ordenar los costos. La primera los parte en «pre-transition [sic], transaction, and post-transaction elements»: lo que se gasta antes de comprar (buscar, homologar y [dar de alta al proveedor](../Proveedores/alta-de-proveedor.md)), al comprar (la orden, la recepción, el transporte, el pago) y después (rechazos, garantías, mantenimiento, el stock que obliga a tener); los ejemplos de cada tramo son de la base. La segunda usa seis categorías de Ellram y Siferd (1998): management, quality, price, communications, service y delivery.
 
 La partición en antes, durante y después se suele atribuir a Ellram (1993), pero esa atribución no se confirmó; la base la presenta como el esquema clásico. Ellram (1993) propone, según su abstract, «an eight stage framework for total cost of ownership implementation», armado con casos de siete empresas.
 
@@ -50,10 +50,8 @@ Para quien diseña un sistema, la consecuencia es que el costo total se calcula 
 
 ## Otro TCO: el de tecnología
 
-En tecnología, el mismo nombre tiene otra tradición. Wikipedia lo define como «a financial estimate intended to help buyers and owners determine the direct and indirect costs of a product or service» y dice que el Gartner Group popularizó el análisis en 1987, sin citar a Ellram. Es el TCO que se usa para comparar, por ejemplo, un servidor propio con un servicio en la nube. La idea es la misma (mirar más allá del precio) y la literatura es otra.
+En tecnología, el mismo nombre tiene otra tradición. Wikipedia lo define como «a financial estimate intended to help buyers and owners determine the direct and indirect costs of a product or service» y dice que el Gartner Group popularizó el análisis en 1987, sin citar a Ellram. Un ejemplo de la base: comparar un servidor propio con un servicio en la nube. La idea es la misma (mirar más allá del precio) y la literatura es otra.
 
 ## El ahorro informado no es el ahorro realizado
 
-El precio que se negocia tampoco es, sin más, plata que se ahorra. Bain afirma que «Companies often realize only 60% of their identified savings», sin publicar estudio ni método. Roland Berger, con un solo caso industrial, lo dice así: «securing a saving is not the same as realizing it». Las dos explican el mecanismo igual: Compras calcula el ahorro contra un precio de referencia, pero quien tiene el presupuesto gasta el margen liberado en otra cosa.
-
-Para un sistema, eso significa que el ahorro depende de la referencia que se elija (el precio anterior, el presupuesto, la mejor oferta) y que no hay una definición única. Es lectura de la base. La discusión completa y las otras cifras que circulan están en [Fundamentos](../Fundamentos/fundamentos-de-compras-y-abastecimiento.md).
+El precio que se negocia no es, sin más, plata que se ahorra. Bain afirma que «Companies often realize only 60% of their identified savings», sin publicar estudio ni método, y Roland Berger, con un solo caso industrial, dice que «securing a saving is not the same as realizing it». Las cifras y la discusión completa están en [Fundamentos](../Fundamentos/fundamentos-de-compras-y-abastecimiento.md).

@@ -34,64 +34,62 @@ Lo transversal del tema Compras y abastecimiento: cómo pasó de oficina de pedi
 
 ## De la oficina de pedidos a la gestión del abastecimiento
 
-El texto que marca el cambio es «Purchasing must become supply management», de Peter Kraljic, director de McKinsey en Düsseldorf, en la *Harvard Business Review* de 1983. Su apertura dice que compras ya no puede contar con un entorno estable, por la escasez de recursos, la intervención de gobiernos, la competencia y el cambio tecnológico. El motivo original es el riesgo de abastecimiento, no el ahorro. De ahí sale la [matriz de Kraljic](../Abastecimiento-estrategico/matriz-de-kraljic.md); el cuerpo del artículo es de pago y no se leyó.
+El texto que marca el cambio es «Purchasing must become supply management», de Peter Kraljic, director de McKinsey en Düsseldorf, en la *Harvard Business Review* de 1983. Según su resumen, la apertura dice que «The stable way of business life many corporate purchasing departments enjoy has been increasingly imperiled» por la escasez de recursos, la intervención de gobiernos, la competencia y el cambio tecnológico. Por eso, en lectura de esta base, el motivo original es el riesgo de abastecimiento y no el ahorro. De ahí sale la [matriz de Kraljic](../Abastecimiento-estrategico/matriz-de-kraljic.md); el cuerpo del artículo es de pago y no se leyó.
 
-Según Dubois y Pedersen, Kraljic presentó a compras como un área «with a huge impact on profit». Citan que lo comprado «accounts for 50-80 percent of the total cost of goods sold» en muchas empresas: una cifra de segunda mano y de manufactura, que no vale para servicios ni comercio sin verificarla. Cox (1997), citado por Gelderman y van Weele, dice que el enfoque de Kraljic se volvió el dominante en la profesión.
+Según Dubois y Pedersen, Kraljic presentó a compras como un área «with a huge impact on profit». Citan que lo comprado «accounts for 50-80 percent of the total cost of goods sold» en muchas empresas: una cifra de segunda mano y de manufactura, sin valor para servicios ni comercio sin verificarla. Cox (1997), citado por Gelderman y van Weele, dice que el enfoque de Kraljic se volvió el dominante en lo que la profesión considera profesionalismo operativo.
 
-Una fuente secundaria usa *procurement* para el proceso amplio, *purchasing* para ordenar y pagar, y *sourcing* para lo estratégico; el uso no se pudo contrastar con CIPS.
+Una fuente secundaria usa *procurement* para el proceso amplio, *purchasing* para ordenar y pagar y *sourcing* para lo estratégico.
 
 ## Cómo dividen el dominio CIPS, APQC y esta base
 
-Los dos marcos abiertos cortan la cadena en lugares distintos.
-
 | Marco | Cómo corta | Lo que deja afuera de compras |
 |---|---|---|
-| CIPS, el cuerpo profesional británico: un ciclo de 13 pasos | Del 1 al 8, definir la necesidad, analizar el mercado y licitar; el 9, «Contract award and implementation»; del 10 al 13, recepción, desempeño del contrato, relación con el proveedor y gestión de activos | No tiene paso de orden de compra, de seguimiento ni de cruce con la factura |
+| CIPS, cuerpo profesional: un ciclo de 13 pasos | Del 1 al 8, definir la necesidad, analizar el mercado y licitar; el 9, «Contract award and implementation»; del 10 al 13, recepción, desempeño del contrato, relación con el proveedor y gestión de activos | No tiene paso de orden de compra, de seguimiento ni de cruce con la factura |
 | APQC, Process Classification Framework 7.4, categoría 4.2 | Gobernar el abastecimiento y gestionar categorías (4.2.1), seleccionar proveedores y contratos (4.2.2), ordenar (4.2.3) y gestionar proveedores (4.2.4) | La recepción física va a 4.4 (logística y depósitos); las cuentas a pagar, a 9.6 |
 
-Las verticales del tema siguen a APQC casi una a una: [Abastecimiento estratégico](../Abastecimiento-estrategico/abastecimiento-estrategico.md) toma 4.2.1 y los contratos de 4.2.2, y [Proveedores](../Proveedores/proveedores.md) toma 4.2.4 y la homologación de 4.2.2. **La división entre [Orden de compra](../Orden-de-compra/orden-de-compra.md) y [Seguimiento de la orden](../Seguimiento-de-la-orden/seguimiento-de-la-orden.md) es de la base.** CIPS no la hace, porque no tiene pasos transaccionales, y APQC pone las dos en 4.2.3, de «Process/Review requisitions» a «Research/Resolve order exceptions». La base las separa porque los documentos y los estados cambian después de emitir la orden.
+Las verticales siguen a APQC casi una a una. [Abastecimiento estratégico](../Abastecimiento-estrategico/abastecimiento-estrategico.md) toma 4.2.1 y los contratos de 4.2.2, y [Proveedores](../Proveedores/proveedores.md) toma 4.2.4 y la homologación (4.2.2.2). La división entre [Orden de compra](../Orden-de-compra/orden-de-compra.md) y [Seguimiento de la orden](../Seguimiento-de-la-orden/seguimiento-de-la-orden.md) es de la base: CIPS no tiene pasos transaccionales y APQC pone las dos en 4.2.3. La base las separa por criterio propio, porque los documentos y los estados cambian después de emitir la orden.
 
-Tres fronteras cambian según el marco. El pedido de cotización está en APQC dentro de ordenar (4.2.3.3) y en CIPS dentro de la licitación (pasos 5 a 8); la base lo pone en [cotización y licitación](../Abastecimiento-estrategico/cotizacion-y-licitacion.md). [Hacer o comprar](../Abastecimiento-estrategico/hacer-o-comprar.md) está en APQC en planificación (4.1.1.3) y en CIPS en el paso 2. La recepción es de depósito en los dos, y por eso en la base es de [Inventario y depósitos](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md).
+Tres fronteras cambian. El pedido de cotización está en APQC dentro de ordenar (4.2.3.3) y en CIPS dentro de la licitación (pasos 4 a 8); la base lo pone en [cotización y licitación](../Abastecimiento-estrategico/cotizacion-y-licitacion.md). [Hacer o comprar](../Abastecimiento-estrategico/hacer-o-comprar.md) está en APQC en planificación (4.1.1.3) y en CIPS en el paso 2. La recepción es de depósito en los dos, y en la base es de [Inventario y depósitos](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md).
 
-> [!NOTE] Sin fuente todavía: cómo dividen el dominio los libros de texto de van Weele y de Monczka y otros. No se leyeron ni sus índices; no se afirman sus etapas.
+> [!NOTE] Sin fuente todavía: cómo dividen el dominio los libros de van Weele y de Monczka; no se leyeron ni sus índices.
 
 ## Dos ejes de discusión: estratégico o transaccional, adversarial o colaborativo
 
-El primero opone compras como trámite de pedido y pago a compras como gestión de categorías y proveedores, que es adonde empujó Kraljic. El segundo opone minimizar la dependencia y maximizar el poder de negociación a sostener relaciones largas con confianza.
+El primero opone compras como trámite de pedido y pago a compras como gestión de categorías y proveedores, adonde apunta el título de Kraljic en la lectura corriente. El segundo opone minimizar la dependencia y maximizar el poder de negociación a sostener relaciones largas con confianza.
 
-Helper y Sako encuestaron en 1993 a más de 600 proveedores automotrices de EE.UU. y casi 500 de Japón: las relaciones de alto desempeño eran más frecuentes en Japón (según un resumen secundario). En 344 relaciones estudiadas por Dyer y Chu, la automotriz menos confiable tenía costos de compra «about five times higher» (según su resumen). Los dos son de autopartes: no se sabe si valen para servicios.
+Helper y Sako encuestaron en 1993 a más de 600 proveedores automotrices de EE.UU. y casi 500 de Japón: las relaciones de alto desempeño eran más frecuentes en Japón (según un resumen secundario). En 344 relaciones estudiadas por Dyer y Chu en EE.UU., Japón y Corea, la automotriz menos confiable tenía costos de compra «about five times higher» (según su resumen; no está confirmado si son costos de transacción o precio). Los dos son del sector automotriz.
 
-La crítica de fondo viene del IMP Group, que estudia las compras industriales como redes. Kraljic recomienda bajar el riesgo de una sola fuente buscando alternativas o integrándose hacia atrás. Dubois y Pedersen responden que, cuando la relación exige ajustes específicos, la dependencia mutua es inevitable y cambiar de proveedor es costoso. La discusión práctica sigue en [relación con proveedores](../Proveedores/relacion-con-proveedores.md).
+La crítica de fondo viene del IMP Group, que estudia las compras industriales como redes. Kraljic recomienda bajar el riesgo de una sola fuente buscando alternativas o integrándose hacia atrás. Dubois y Pedersen responden que, cuando la relación exige ajustes específicos, la dependencia mutua es inevitable y cambiar de proveedor es costoso. La discusión práctica está en [relación con proveedores](../Proveedores/relacion-con-proveedores.md).
 
-> [!NOTE] Sin fuente todavía: evidencia sobre centralizar o descentralizar las compras, y sobre proveedor único frente a varios más allá de fuentes secundarias.
+> [!NOTE] Sin fuente todavía: evidencia sobre centralizar o descentralizar las compras, y sobre proveedor único frente a varios, más allá de lo que dicen Kraljic y Dubois y Pedersen.
 
 ## Lo que la evidencia discute de lo que más se repite
 
 | Lo que se repite | Qué dice la evidencia leída | Fuente |
 |---|---|---|
-| «La matriz de Kraljic dice qué hacer con cada categoría» | La medición es su «talón de Aquiles»: qué es impacto, qué es riesgo y dónde está el corte. Gelderman y van Weele dicen que «there is no simple, standardized blue print»; ninguna fuente leída muestra que usarla mejore resultados | Gelderman y van Weele (2003) |
+| «La [matriz de Kraljic](../Abastecimiento-estrategico/matriz-de-kraljic.md) dice qué hacer con cada categoría» | La medición es su «talón de Aquiles»: qué es impacto, qué es riesgo y dónde está el corte. Gelderman y van Weele dicen que «there is no simple, standardized blue print»; ninguna fuente leída muestra que usarla mejore resultados | Gelderman y van Weele (2003) |
 | «A lo estratégico, un socio estratégico» | Kraljic da tres posiciones para ese cuadrante (equilibrar, explotar, diversificar); el socio para todo lo estratégico es de quienes lo simplificaron | Gelderman y van Weele (2003) |
 | «Compras ahorró tanto» | Bain afirma que se realiza «only 60%» de lo identificado, sin publicar método. Roland Berger cuenta un caso con más de USD 150 millones validados y unos USD 30-40 millones en el resultado | Bain; Roland Berger |
 | «Cada orden de compra cuesta tanto» | APQC divide el costo de todo el proceso de ordenar, no solo de emitir el documento, por las órdenes: de unos USD 14 a USD 54,50 entre los percentiles 25 y 75, sin página ni año leídos. Es un rango, no una constante; los «USD 90 por orden» que circulan no tienen origen encontrado | APQC, según el resumen del buscador |
-| «Comprar por fuera del circuito es más rápido» | Quienes más lo hacen tardan, en la mediana, «16 hours more to issue a purchase order» y gastan USD 2,58 más por cada USD 1.000 | APQC, según su resumen |
-| «La subasta inversa baja el costo» | Mide precio contra el costo histórico, no costo total. En 6 subastas de un comprador de autopartes (1999-2000), los proveedores de las abiertas desconfiaron más de él; el 18-20 % de baja que circula lo informan quienes venden la tecnología | Jap, según el resumen de Sloan |
+| «Comprar por fuera del circuito es más rápido» | Quienes más lo hacen, según APQC, tardan «16 hours more to issue a purchase order» en la mediana y gastan USD 2,58 más por cada USD 1.000; son medianas entre grupos, no prueba de causa | APQC, según su resumen |
+| «La subasta inversa baja el costo» | Mide precio contra el costo histórico, no costo total. Jap analizó 6 subastas de un fabricante de componentes automotrices (1999-2000), 3 cerradas y 3 abiertas, con ahorros potenciales parecidos. En las abiertas los proveedores desconfiaron más del comprador; también hubo efectos positivos, como más disposición a invertir. El 18-20 % de baja que circula lo informan los proveedores de subastas (sin verificar) | Jap, según el resumen de Sloan |
 
-**El ahorro que no llega al resultado** es lo mejor documentado en contra. Bain y Roland Berger coinciden en el mecanismo, no en las cifras: compras calcula el ahorro contra un precio de referencia, pero los dueños de presupuesto gastan contra su presupuesto y vuelven a gastar lo liberado. El 60 % de Bain es indicativo y el caso de Roland Berger es uno solo. Lo que se sostiene es que el ahorro depende de la referencia (precio anterior, presupuesto o mejor oferta), así que un sistema tiene que guardar cuál se usó.
+**El ahorro que no llega al resultado** es lo mejor documentado en contra. Bain y Roland Berger coinciden en el mecanismo, no en las cifras: compras calcula el ahorro contra un precio de referencia, pero los dueños de presupuesto gastan contra su presupuesto y vuelven a gastar lo liberado. Lo que se sostiene es que el ahorro depende de la referencia (precio anterior, presupuesto o mejor oferta) y que no hay una definición única; por criterio de la base, un sistema tiene que guardar cuál se usó.
 
-> [!NOTE] Sin fuente todavía: si las compras electrónicas (e-procurement) cumplen lo que prometen, y cuánto ahorran por transacción las tarjetas de compra. Sobre tarjetas solo se leyó un informe de la GAO de 2008 sobre sus controles, sin cifras de ahorro.
+> [!NOTE] Sin fuente todavía: si las compras electrónicas cumplen lo que prometen, y cuánto ahorran las tarjetas de compra. De las tarjetas solo se leyó un informe de la GAO de 2008 sobre sus controles, sin cifras de ahorro.
 
 ## Dónde se produce el saber del campo
 
-El saber sale de cuerpos profesionales (CIPS; ISM e IFPSM, nombrados sin verificar), del marco de procesos de APQC, de revistas (*Journal of Purchasing and Supply Management*, *Journal of Supply Chain Management*) y de los libros de van Weele y de Monczka, que no se leyeron. Las consultoras rara vez publican su método. Para leer, en este orden:
+El saber sale de cuerpos profesionales (CIPS; ISM e IFPSM, nombrados sin verificar), del marco de APQC, de revistas (*Journal of Purchasing and Supply Management*, *Journal of Supply Chain Management*) y de los libros de van Weele y de Monczka, que no se leyeron. Bain y Roland Berger no publican su método. Para leer, en orden:
 
-1. **APQC PCF 7.4, categoría 4.2**: qué es de compras y qué no.
-2. **CIPS, los 13 pasos**: la misma cadena con otro corte; fijarse en que salta del contrato a la recepción.
-3. **Gelderman y van Weele (2003)**: las secciones 1 y 2 resumen la crítica a Kraljic; la conclusión, cómo usarla.
-4. **Dubois y Pedersen (2001)**: la crítica de fondo.
-5. **Tadelis y Williamson (2012)**, secciones 3.1 a 3.3: cuándo conviene hacer adentro.
-6. **Hurkens, van der Valk y Wynstra (2006)**: un modelo real de costo total.
-7. **Bain y Roland Berger**: el mecanismo del ahorro que no llega, no la cifra.
+1. APQC PCF 7.4, categoría 4.2: qué es de compras y qué no.
+2. CIPS, los 13 pasos: la misma cadena con otro corte.
+3. Gelderman y van Weele (2003): las secciones 1 y 2 resumen la crítica a Kraljic.
+4. Dubois y Pedersen (2001): la crítica de fondo.
+5. Tadelis y Williamson (2012), secciones 3.1 a 3.3: cuándo conviene hacer adentro.
+6. Hurkens, van der Valk y Wynstra (2006): un modelo de costo total.
+7. Bain y Roland Berger: el mecanismo del ahorro que no llega, no la cifra.
 
 ## Lo que hay en Fundamentos
 
-- [Glosario de compras y abastecimiento](glosario-de-compras-y-abastecimiento.md): los términos del tema con su nombre en inglés y la nota donde viven.
+- [Glosario de compras y abastecimiento](glosario-de-compras-y-abastecimiento.md): los términos del tema, con su nombre en inglés.

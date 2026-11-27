@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La matriz de Kraljic ubica cada categoría de compra según dos ejes, su impacto en el resultado y su riesgo de abastecimiento, y la asigna a uno de cuatro cuadrantes (no crítico, apalancable, cuello de botella y estratégico), cada uno con su estrategia de compra. Es la herramienta más difundida del campo y una heurística para discutir, no un método de decisión validado.
+  La matriz de Kraljic ubica cada categoría de compra según dos ejes, su impacto en el resultado y su riesgo de abastecimiento, y la asigna a uno de cuatro cuadrantes (no crítico, apalancable, cuello de botella y estratégico), cada uno con su estrategia de compra. Es una herramienta de discusión muy difundida y una heurística, no un método de decisión validado.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -19,13 +19,13 @@ revisado:
 
 # Matriz de Kraljic
 
-La matriz de Kraljic ubica cada categoría de compra según dos ejes, su impacto en el resultado y su riesgo de abastecimiento, y la asigna a uno de cuatro cuadrantes (no crítico, apalancable, cuello de botella y estratégico), cada uno con su estrategia de compra. Es la herramienta más difundida del campo y una heurística para discutir, no un método de decisión validado.
+La matriz de Kraljic ubica cada categoría de compra según dos ejes, su impacto en el resultado y su riesgo de abastecimiento, y la asigna a uno de cuatro cuadrantes (no crítico, apalancable, cuello de botella y estratégico), cada uno con su estrategia de compra. Es una herramienta de discusión muy difundida y una heurística, no un método de decisión validado.
 
 Toma las categorías que arma el [análisis del gasto](analisis-del-gasto.md) y decide cuánto esfuerzo y qué tipo de relación merece cada una dentro de [Abastecimiento estratégico](abastecimiento-estrategico.md). De su cuadrante dependen si conviene [licitar](cotizacion-y-licitacion.md), firmar un [contrato marco](contrato-marco.md), buscar proveedores alternativos o pensar en [hacer en vez de comprar](hacer-o-comprar.md).
 
 ## Kraljic escribió sobre riesgo, no sobre ahorro
 
-Peter Kraljic, entonces director de McKinsey en Düsseldorf, publicó «Purchasing must become supply management» en la Harvard Business Review en septiembre de 1983. La apertura dice que la vida estable de muchos departamentos de compras «has been increasingly imperiled» por la escasez de recursos, la inestabilidad política, la competencia en los mercados de abastecimiento y el cambio tecnológico. El motivo original de la matriz es asegurar el abastecimiento en un mercado inestable, no bajar precios.
+Peter Kraljic, entonces director de McKinsey en Düsseldorf, publicó «Purchasing must become supply management» en la Harvard Business Review en septiembre de 1983. Según el resumen del artículo, «The stable way of business life many corporate purchasing departments enjoy has been increasingly imperiled» por la escasez de recursos, la turbulencia política, la competencia en los mercados de abastecimiento y el cambio tecnológico. De esa apertura se lee que el motivo original de la matriz es asegurar el abastecimiento en un mercado inestable, no bajar precios (lectura de esta base).
 
 Según Dubois y Pedersen, la tesis del artículo es que compras es «an important managerial area with a huge impact on profit». Cox (1997), citado por Gelderman y van Weele, dice que el enfoque de Kraljic «became the dominant approach to what the profession regards as operational professionalism». El artículo completo es de pago y no se leyó.
 
@@ -40,7 +40,7 @@ Los ejes son el impacto en el resultado (profit impact) y el riesgo de abastecim
 | Cuello de botella (bottleneck) | bajo | alto | Asegurar el abastecimiento: seguro de volumen, control del proveedor, stock de reserva, planes de respaldo, proveedores alternativos | aromas naturales, vitaminas, pigmentos |
 | Estratégico (CIPS: Critical) | alto | alto | Un análisis más fino de la posición de poder | ensambles, motores, óptica |
 
-Las estrategias combinan CIPS y la descripción que hacen Gelderman y van Weele (2003) del modelo original. En el no crítico, el costo de tramitar cada compra pesa más que lo que se puede ganar en precio, así que conviene (criterio de la base) que la compra pase por un [contrato marco](contrato-marco.md) y una [orden contra contrato](../Orden-de-compra/tipos-de-orden.md) sin negociar cada vez. En el cuello de botella, Kraljic recomienda reducir el riesgo de depender de una sola fuente «by searching for alternative suppliers or materials or even backward integration» (p. 114, citado por Dubois y Pedersen); el riesgo del proveedor único está en [relación con proveedores](../Proveedores/relacion-con-proveedores.md).
+Las estrategias combinan CIPS, Wikipedia (catálogos, delegar) y la descripción que hacen Gelderman y van Weele (2003) del modelo original. En el no crítico, el costo de tramitar cada compra pesa más que lo que se puede ganar en precio, así que conviene (criterio de la base) que la compra pase por un [contrato marco](contrato-marco.md) y una [orden contra contrato](../Orden-de-compra/tipos-de-orden.md) sin negociar cada vez. En el cuello de botella, Kraljic recomienda reducir el riesgo de depender de una sola fuente «by searching for alternative suppliers or materials or even backward integration» (p. 114, citado por Dubois y Pedersen); el riesgo del proveedor único está en [relación con proveedores](../Proveedores/relacion-con-proveedores.md).
 
 ## El cuadrante estratégico no es «socio para todo»
 
@@ -57,7 +57,7 @@ CIPS describe el cuadrante como «balancing power between purchases and supplier
 >
 > La réplica: con tres casos en empresas holandesas (28 entrevistas, muestra no aleatoria), Gelderman y van Weele (2003) concluyen que la crítica «has been disputed and refuted to a large extent», pero que «there is no simple, standardized blue print for the application of the portfolio analysis». En 2005, según la ficha del artículo, encuentran que el uso de modelos de portafolio se asocia con una mejor posición de Compras en la organización: es una asociación, no prueba de que el modelo mejore resultados.
 
-La lectura de la base, con lo leído: sirve para ordenar la conversación y repartir el esfuerzo entre categorías, y ninguna fuente muestra que usarla mejore el resultado. Dos usos la estropean. Uno es ubicar proveedores en vez de categorías: el modelo se diseñó para lo que se compra, y un mismo proveedor puede vender cosas de varios cuadrantes (Wikipedia, apoyada en Gelderman y van Weele 2003). El otro es reemplazar el impacto en el resultado por el monto gastado, que deja afuera el componente barato que para la producción. La crítica completa y la historia del campo están en [Fundamentos](../Fundamentos/fundamentos-de-compras-y-abastecimiento.md).
+La lectura de la base, con lo leído: sirve para ordenar la conversación y repartir el esfuerzo entre categorías, y ninguna fuente muestra que usarla mejore el resultado. Wikipedia señala dos usos que la estropean. Uno es ubicar proveedores en vez de categorías: el modelo se diseñó para lo que se compra, y un mismo proveedor puede vender cosas de varios cuadrantes (apoyada en Gelderman y van Weele 2003). El otro, sin cita propia en esa página, es reemplazar el impacto en el resultado por el monto gastado, que deja afuera, por ejemplo, el componente barato que para la producción. La historia del campo está en [Fundamentos](../Fundamentos/fundamentos-de-compras-y-abastecimiento.md).
 
 ## Cómo se arma en la práctica
 

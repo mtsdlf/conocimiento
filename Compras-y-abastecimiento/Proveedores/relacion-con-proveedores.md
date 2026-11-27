@@ -12,7 +12,7 @@ fuentes:
   - "MIT Sloan Management Review, Second Thoughts on Second Sourcing (según su resumen): https://sloanreview.mit.edu/article/second-thoughts-on-second-sourcing"
   - "NI Business Info, Choosing suppliers for your business (según su resumen): https://nibusinessinfo.co.uk/content/choose-between-single-or-multiple-supplier-strategy"
   - "arXiv 2210.11479, sobre proveedor único y múltiple (según su resumen): https://arxiv.org/abs/2210.11479"
-  - "Michael E. Porter (2008), The Five Competitive Forces That Shape Strategy, HBR (citado en Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md): https://public.dhe.ibm.com/software/data/sw-library/cognos/pdfs/articles/art_the_five_competitive_forces_that_shape_strategy.pdf"
+  - "Michael E. Porter (2008), The Five Competitive Forces That Shape Strategy, HBR, tal como lo cita Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md"
   - "Compras-y-abastecimiento/.investigacion/proveedores.md (2026-11-27), sección 5"
   - "Compras-y-abastecimiento/.investigacion/abastecimiento-estrategico.md (2026-11-27), sección 3"
 aliases: [relación con proveedores, gestión de la relación con proveedores, supplier relationship management, SRM, segmentación de proveedores, supplier segmentation, desarrollo de proveedores, supplier development, proveedor único, single sourcing, sole sourcing, múltiples proveedores, multiple sourcing, segundo proveedor, dual sourcing, second sourcing, dependencia de proveedores, riesgo de proveedor, supplier risk]
@@ -40,28 +40,28 @@ La última columna es lectura de la base sobre la guía, que pide que la frecuen
 
 ## Desarrollar al proveedor
 
-Desarrollar a un proveedor es invertir en él (capacitarlo, compartirle información, ayudarlo a mejorar su proceso) para que rinda más. La referencia más citada en la investigación leída es Krause, Handfield y Tyler (2007), que relaciona el desarrollo de proveedores con el compromiso, el capital social y la mejora de desempeño; solo se leyó la cita, sin abstract. Un trabajo anterior de Krause (1999), según una reseña secundaria, vincula la disposición del comprador a desarrollar a un proveedor con tres cosas: que el proveedor se sienta obligado, que se espere una relación larga y que haya comunicación operativa.
+Desarrollar a un proveedor es invertir en él (capacitarlo, compartirle información, ayudarlo a mejorar su proceso) para que rinda más. Una referencia es Krause, Handfield y Tyler (2007), cuyo título vincula el desarrollo de proveedores con el compromiso, el capital social y la mejora de desempeño; solo se leyó la cita, sin abstract. Un trabajo anterior de Krause (1999), según una reseña secundaria, vincula la disposición del comprador a desarrollar a un proveedor con tres cosas: que el proveedor se sienta obligado, que se espere una relación larga y que haya comunicación operativa.
 
 Como criterio de la base, desarrollar tiene sentido en los niveles 1 y 2: con un proveedor de nivel 3 es más barato cambiarlo que mejorarlo.
 
 ## Proveedor único o varios, proveedor por proveedor
 
-Comprarle un artículo a un solo proveedor baja el costo y sube el riesgo. Según el resumen de un trabajo académico, el proveedor único se asume de menor costo unitario y tener varios reduce el riesgo de que se corte el abastecimiento. Una guía pública para pequeñas empresas, según su resumen, suma del lado del único la integración y la relación más estrecha, y del otro lado la vulnerabilidad y una dependencia asimétrica: el proveedor importa más para el comprador que el comprador para el proveedor.
+Se asume que comprarle un artículo a un solo proveedor baja el costo y sube el riesgo. Según el resumen de un trabajo académico, el proveedor único se asume de menor costo unitario y tener varios reduce el riesgo de que se corte el abastecimiento. Una guía pública para pequeñas empresas, según su resumen, suma del lado del único la integración y la relación más estrecha, y del otro lado la vulnerabilidad y una dependencia asimétrica (lectura de esta base: el proveedor pesa más para el comprador que el comprador para el proveedor).
 
 El caso que cita una universidad, según su resumen, es Ford en 1998: una parada de tres días por un problema de un proveedor. La MIT Sloan Management Review, según su resumen, advierte en contra de la respuesta automática: un segundo proveedor cuesta y puede sumar algunos riesgos, y dos proveedores de la misma región no reparten el riesgo, como mostraron las inundaciones de Tailandia de 2011.
 
-El criterio que repiten las fuentes para decidir pesa tres cosas:
+El criterio que repiten las fuentes leídas para decidir pesa tres cosas:
 
 1. **Criticidad del artículo**: qué se para si no llega.
 2. **Sustituibilidad**: cuánto cuesta y cuánto tarda conseguir otro proveedor que cumpla la especificación.
 3. **Costo de una interrupción**: cuánto se pierde por cada día sin el artículo.
 
-Como criterio de la base, conviene distinguir el proveedor único por elección, que se puede revisar, del que lo es porque no hay otro en el mercado, donde la única defensa es el stock, el contrato o el desarrollo de una alternativa. Para esos casos, la [matriz de Kraljic](../Abastecimiento-estrategico/matriz-de-kraljic.md) llama cuello de botella al cuadrante de alto riesgo y bajo impacto, y CIPS dice que ahí «securing long- and short-term supply and seeking alternative suppliers is a priority». Un proveedor único tampoco se bloquea como cualquier otro: la excepción está en [alta de proveedor](alta-de-proveedor.md#el-bloqueo-de-un-proveedor).
+Como criterio de la base, conviene distinguir el proveedor único por elección, que se puede revisar, del que lo es porque no hay otro en el mercado, donde la única defensa es el stock, el contrato o el desarrollo de una alternativa. Para el caso de bajo impacto, la [matriz de Kraljic](../Abastecimiento-estrategico/matriz-de-kraljic.md) llama cuello de botella al cuadrante de alto riesgo y bajo impacto, y CIPS dice que ahí «securing long- and short-term supply and seeking alternative suppliers is a priority». Un proveedor único tampoco se bloquea como cualquier otro: la excepción está en [alta de proveedor](alta-de-proveedor.md#el-bloqueo-de-un-proveedor).
 
 > [!NOTE] Sin fuente todavía: los casos clásicos de proveedor único que cita la literatura (el incendio de Aisin en 1997 y la red de Toyota; el incendio de la planta de Philips en 2000 y las respuestas de Nokia y Ericsson) no se leyeron ni se confirmó ninguna cifra.
 
 ## Depender: el costo de cambiar de proveedor
 
-Cuanto más cuesta cambiar de proveedor, menos poder tiene el comprador frente a él. Porter (2008), citado en [costos de cambio](../../Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md), lo define así: «Switching costs are fixed costs that buyers face when they change suppliers», y señala que una industria con costos de cambio altos frente a sus proveedores no puede ponerlos a competir entre sí. La misma nota explica el encierro (lock-in) desde el lado del proveedor que lo aprovecha.
+Cuanto más cuesta cambiar de proveedor, menos poder tiene el comprador frente a él. Porter (2008), citado en [costos de cambio](../../Estrategia-competitiva/Fuentes-de-ventaja/costos-de-cambio.md), lo define así: «Switching costs are fixed costs that buyers face when they change suppliers», y señala que, cuando la industria enfrenta costos de cambio con sus proveedores, le cuesta ponerlos a competir entre sí. La misma nota explica el encierro (lock-in) desde el lado del proveedor que lo aprovecha.
 
 Ese poder, mirado para toda una industria, es una de las [cinco fuerzas](../../Estrategia-competitiva/Analisis-de-industria/cinco-fuerzas.md); acá importa para un proveedor concreto. Negociar con un proveedor del que se depende es distinto de negociar con uno reemplazable, y está en [negociación de compras](../Abastecimiento-estrategico/negociacion-de-compras.md).

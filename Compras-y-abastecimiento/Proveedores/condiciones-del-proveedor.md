@@ -20,40 +20,40 @@ revisado:
 
 Las condiciones del proveedor son los términos con que vende: precio, plazo de entrega, cantidad mínima y condición de pago, casi siempre distintos para cada artículo. Se guardan en el registro artículo-proveedor, que dice qué artículo se le compra a quién, con qué código y en qué condiciones, y que la orden de compra trae sola.
 
-Son la parte del registro de [Proveedores](proveedores.md) que más se usa. Las fija una negociación o un acuerdo de [Abastecimiento estratégico](../Abastecimiento-estrategico/abastecimiento-estrategico.md), y las lee cada [orden de compra](../Orden-de-compra/orden-de-compra.md) para no volver a escribirlas. Es el espejo de las [condiciones comerciales](../../Relacion-con-clientes/Registro-del-cliente/condiciones-comerciales.md) del cliente.
+Son la parte del registro de [Proveedores](proveedores.md) que lee cada compra. Las fija una negociación o un acuerdo de [Abastecimiento estratégico](../Abastecimiento-estrategico/abastecimiento-estrategico.md), y las lee cada [orden de compra](../Orden-de-compra/orden-de-compra.md) para no volver a escribirlas. Es el espejo de las [condiciones comerciales](../../Relacion-con-clientes/Registro-del-cliente/condiciones-comerciales.md) del cliente.
 
 ## El registro artículo-proveedor
 
-Un mismo artículo se le puede comprar a varios proveedores, y cada uno lo vende a su precio, con su código y en su plazo. Por eso las condiciones no caben ni en la ficha del artículo ni en la del proveedor: van en un registro que cruza los dos. Como evidencia de práctica, la documentación de un sistema abierto permite fijar el proveedor y su precio en la ficha del artículo, para que se rellenen solos en cada pedido de cotización, y cargar listas de precios enteras de una vez.
+Un mismo artículo se le puede comprar a varios proveedores, y cada uno lo vende a su precio, con su código y en su plazo. Por eso, como lectura de esta base, las condiciones no caben ni en la ficha del artículo ni en la del proveedor: van en un registro que cruza los dos. Como evidencia de práctica, la documentación de un sistema abierto permite fijar el proveedor y su precio en la ficha del artículo, para que se rellenen solos en cada pedido de cotización, y cargar listas de precios enteras de una vez.
 
-Las columnas que ese sistema trae por defecto en un renglón de pedido de cotización dicen qué hay en el registro: cantidad, precio unitario y plazo de entrega. Se pueden sumar el código que el proveedor le da al artículo y el descuento. En la documentación de un ERP grande, según su resumen, las [tolerancias](../Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md) de recepción se fijan en el maestro del artículo, en el registro artículo-proveedor o en el renglón de la orden, y el maestro vale por defecto.
+Las columnas que ese sistema trae por defecto en un renglón de pedido de cotización dicen qué hay en el registro: cantidad, precio unitario y plazo de entrega. Se pueden sumar el código que el proveedor le da al artículo y el descuento. Las tolerancias de recepción también pueden fijarse en este registro; de dónde manda cada una está en [recepción contra lo pedido](../Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md).
 
 | Condición | Qué dice | Quién la usa |
 |---|---|---|
 | Precio | Cuánto cuesta cada unidad, a veces por tramo de cantidad o con descuento | La orden de compra y el cruce de la factura |
 | Código del proveedor | Cómo llama el proveedor al artículo | La orden que se le manda, para que la entienda |
-| Plazo de entrega | Cuántos días pasan entre la orden y la entrega | La fecha esperada y el [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md) |
+| Plazo de entrega | Cuántos días pasan entre la orden y la entrega | La [fecha esperada](../Seguimiento-de-la-orden/confirmacion-y-seguimiento.md) y el [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md) |
 | Cantidad mínima | Lo mínimo que acepta vender | La cantidad de la orden |
 | Tolerancia | Cuánto de más o de menos se acepta al recibir | La [recepción contra lo pedido](../Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md) |
 | Condición de pago | Cuándo se le paga | La cuenta a pagar |
 
 ## Plazo de entrega: de él sale la fecha esperada
 
-El plazo de entrega es la condición que más pesa fuera de Compras. En el sistema abierto citado, la fecha esperada de una orden es la fecha en que se confirma más el plazo del proveedor. Esa fecha es la que después se compara con la entrega real en la [confirmación y el seguimiento](../Seguimiento-de-la-orden/confirmacion-y-seguimiento.md) y en la [evaluación](evaluacion-de-proveedores.md).
+Como criterio de la base, el plazo de entrega es la condición que más se usa fuera de Compras. En el sistema abierto citado, la fecha esperada de una orden es la fecha en que se confirma más el plazo del proveedor. Es una de las tres fechas de la orden, junto con la fecha requerida (la que pide quien compra) y la fecha confirmada (la que promete el proveedor); las define la [confirmación y el seguimiento](../Seguimiento-de-la-orden/confirmacion-y-seguimiento.md), y contra ellas se mide al proveedor en la [evaluación](evaluacion-de-proveedores.md).
 
 Inventario usa el mismo número para otra cosa: el [punto de pedido](../../Inventario-y-depositos/Reposicion/punto-de-pedido.md) es la demanda esperada durante el plazo de entrega más un stock de seguridad. Como criterio de la base, si el plazo cargado es más corto que el real, el punto de pedido queda bajo y la empresa se queda sin stock aunque la política esté bien calculada.
 
 ## Cantidad mínima, unidad de compra y precio por cantidad
 
-El proveedor suele vender con un mínimo, en un múltiplo o en una unidad distinta de la que usa el depósito. Un hilo de un foro de usuarios de un sistema abierto, sin fuente oficial, dice que la lista de precios se elige según si la cantidad pedida alcanza el mínimo y si la lista sigue vigente. La documentación de órdenes de ese sistema, según su resumen, permite que la orden supere a la solicitud de compra por embalaje o por mínimos del proveedor, y advierte que ese margen no debe usarse para esconder un aumento no aprobado.
+El proveedor suele vender con un mínimo, en un múltiplo o en una unidad distinta de la que usa el depósito. Un hilo de un foro de usuarios de un sistema abierto, sin fuente oficial, dice que la lista de precios se elige según si la cantidad pedida alcanza el mínimo y si la lista sigue vigente. El sobrepedido, que deja a la orden superar a la solicitud por embalaje o por mínimos del proveedor, está en [solicitud de compra](../Orden-de-compra/solicitud-de-compra.md).
 
-La unidad importa al recibir: la misma documentación, según su resumen, aconseja revisar la unidad de compra y su conversión antes de tocar la tolerancia cuando lo recibido supera lo pedido.
+La unidad de compra se define acá y importa al recibir: la documentación de recepciones de ese sistema, según su resumen, aconseja revisar la unidad de compra y su conversión antes de tocar la tolerancia cuando lo recibido supera lo pedido.
 
 > [!NOTE] Sin fuente todavía: cómo se modelan la unidad de compra y su conversión, el múltiplo de compra y el descuento por pronto pago; la única fuente sobre el mínimo es un foro de usuarios.
 
 ## Condición de pago: se negocia acá y se paga en Tesorería
 
-La condición de pago dice cuántos días después de la factura, o en qué cuotas, se le paga al proveedor. En el sistema abierto citado es una plantilla que se asigna al proveedor, y sigue la misma prioridad que el resto del registro: la del proveedor gana sobre la de su grupo, y la del grupo sobre la de la empresa. Se negocia en Compras, la deuda nace en [compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md) y el pago es de Tesorería, todavía no armado.
+La condición de pago dice cuántos días después de la factura, o en qué cuotas, se le paga al proveedor. En el sistema abierto citado es una plantilla que se asigna al proveedor, y sigue la misma prioridad que el resto del registro: la del proveedor gana sobre la de su grupo, y la del grupo sobre la de la empresa. Se negocia en Compras; la deuda la registra Contabilidad: al recibir, como recibido sin facturar, y se confirma con la factura ([compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md)). El pago es de Tesorería, todavía no armado.
 
 En la Argentina, la factura de crédito electrónica le pone un plazo legal a la aceptación de la factura; está en [Compras y abastecimiento en la Argentina](../compras-y-abastecimiento-en-argentina.md).
 
@@ -63,4 +63,4 @@ Cuando la compra viaja, el registro guarda también la regla de entrega. Según 
 
 ## Dónde vive cada condición
 
-Una misma condición puede estar en varios lugares, y hace falta una regla de cuál gana. El sistema abierto citado usa proveedor, grupo y empresa para la condición de pago, y el ERP grande usa renglón, artículo-proveedor y artículo para la tolerancia. Como criterio de la base, la regla general es que lo más particular gana: la orden sobre el [contrato marco](../Abastecimiento-estrategico/contrato-marco.md), el contrato sobre el registro artículo-proveedor, y este sobre el proveedor y su grupo. Lo que se trae al documento es un valor inicial que el comprador puede cambiar, y el cambio queda en la orden, no en el registro.
+Una misma condición puede estar en varios lugares, y hace falta una regla de cuál gana. El sistema abierto citado usa proveedor, grupo y empresa para la condición de pago, y la tolerancia tiene su propia regla en [recepción contra lo pedido](../Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md). Como criterio de la base, la regla general es que lo más particular gana: la orden sobre el [contrato marco](../Abastecimiento-estrategico/contrato-marco.md), el contrato sobre el registro artículo-proveedor, y este sobre el proveedor y su grupo. También como criterio de la base, lo que se trae al documento es un valor inicial que el comprador puede cambiar, y el cambio queda en la orden, no en el registro.

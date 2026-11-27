@@ -97,5 +97,10 @@ Compras-y-abastecimiento/
 - Cuatro verticales: a quién se le compra (Proveedores), cómo se decide a quién y en qué términos (Abastecimiento estratégico), el pedido y el compromiso (Orden de compra) y lo que pasa hasta que llega lo pedido (Seguimiento de la orden). Sigue la división clásica entre la parte estratégica de la función (sourcing) y la transaccional (procure-to-pay) que hacen CIPS y los libros de texto, con el proveedor aparte porque es el dato maestro que usan las dos.
 - Abastecimiento estratégico va como vertical aunque buena parte se haga sin software: la base mide los temas por el saber, no por el módulo (#95).
 - El contrato marco vive en Abastecimiento estratégico, porque es un acuerdo; la orden abierta y la orden contra contrato, que son su uso, en Orden de compra.
+- Contrato marco y orden abierta se separan: el contrato es el acuerdo (precio y condiciones por un período, con o sin compromiso), y la orden abierta, una orden por un total con entregas sucesivas. Los sistemas leídos separan el acuerdo de las órdenes, pero algunos llaman «blanket order» al acuerdo; el nombre en castellano de cada uno es criterio de la base.
+- El saldo pendiente de una orden es lo pedido menos lo recibido; lo rechazado se resuelve aparte. «Backorder» no se usa del lado del comprador, porque Inventario lo usa para lo que se le debe a un cliente.
+- La deuda con el proveedor no se fecha en este tema: la registra Contabilidad (al recibir, como recibido sin facturar, y se confirma con la factura).
+- La nota de la Argentina nombra la retención que obliga la factura A con leyenda porque cambia qué comprobante se recibe; el régimen de retenciones queda para Impuestos.
+- La división entre Orden de compra y Seguimiento de la orden es de la base: CIPS no la hace y APQC pone las dos en 4.2.3.
 - La recepción contra lo pedido es de acá y la recepción física es de Inventario: el corte lo fijó #98 y el tema de Inventario ya lo usa.
 - Lo de la Argentina va en una sola nota del tema, porque toca el alta del proveedor y la recepción de su factura, y es corto.

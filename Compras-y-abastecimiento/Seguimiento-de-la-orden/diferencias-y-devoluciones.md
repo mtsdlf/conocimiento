@@ -20,15 +20,15 @@ revisado:
 
 Una diferencia es lo que separa lo recibido de lo pedido: un faltante, un sobrante o algo que llegó y no sirve. Compras decide qué se le pide al proveedor por cada una (esperar el resto, reponer, cambiar o acreditar), y la devolución al proveedor es el documento con que lo rechazado vuelve a él.
 
-Es el último paso de [Seguimiento de la orden](seguimiento-de-la-orden.md): empieza donde la [recepción contra lo pedido](recepcion-contra-lo-pedido.md) encuentra algo que la tolerancia no absorbe. APQC 7.4 lo llama 4.2.3.7 «Research/Resolve order exceptions», y pone el flujo de lo devuelto en 4.4.2.4 «Manage flow of returned products».
+Es el último paso de [Seguimiento de la orden](seguimiento-de-la-orden.md): empieza donde la [recepción contra lo pedido](recepcion-contra-lo-pedido.md) encuentra algo que la tolerancia no absorbe. El paso de APQC 7.4 que más se le parece es 4.2.3.7 «Research/Resolve order exceptions» (lectura de esta base); el flujo de lo devuelto está en 4.4.2.4 «Manage flow of returned products».
 
 ## Tres diferencias, tres decisiones
 
 | Diferencia | Qué deja en la orden | Qué decide Compras |
 |---|---|---|
-| Faltante | Un saldo pendiente en el renglón | Esperar el resto o cerrar el renglón con saldo |
+| Faltante | Un saldo pendiente en el renglón | Esperar el resto o cerrar el renglón |
 | Sobrante | Nada, si entra en la tolerancia; si no, se rechaza al recibir | Aceptar el exceso (y ampliar la orden) o devolverlo |
-| Rechazo por daño, error o calidad | Unidades recibidas que no cuentan como aceptadas | Pedir reposición, cambio o crédito |
+| Rechazo por daño, error o calidad | Unidades recibidas que no cuentan como aceptadas; no bajan el saldo, y si se pide reposición el saldo sube | Pedir reposición, cambio o crédito |
 
 El faltante y el sobrante los resuelven el saldo y la tolerancia, que están en [recepción contra lo pedido](recepcion-contra-lo-pedido.md). Ampliar la orden por un sobrante es un cambio de la orden y pasa por [cambios y cancelaciones](../Orden-de-compra/cambios-y-cancelaciones-de-la-orden.md). La tabla junta las fuentes de esas dos notas; el reparto en tres es criterio de la base.
 
@@ -46,15 +46,15 @@ Una devolución al proveedor (return to vendor, RTV) saca del stock lo que se le
 2. Un renglón con cantidad negativa en una orden.
 3. Copiar los renglones de la factura original, lo que impide devolver más de lo recibido y usa el precio original.
 
-La autorización de devolución (RMA, return material authorization) la da el proveedor antes de recibir la mercadería de vuelta. Según la misma fuente, «most vendors require you to include their Return Material Authorization (RMA) number». Si el artículo se controla por [lote o serie](../../Inventario-y-depositos/Existencias/lote-y-serie.md), hay que decir cuáles unidades se devuelven.
+La autorización de devolución (RMA, return material authorization) es una preautorización que da el proveedor. Según la misma fuente, «most vendors require you to include their Return Material Authorization (RMA) number». Si el artículo se controla por [lote o serie](../../Inventario-y-depositos/Existencias/lote-y-serie.md), hay que decir cuáles unidades se devuelven.
 
 ## Qué se le pide a cambio
 
 Según resultados de búsqueda sobre otro sistema grande, la devolución puede ser por crédito, por cambio o por reposición. La devolución por crédito puede generar sola la nota de débito, y en esa nota entran los costos de reposición que cobre el proveedor (restocking fees). Si el proveedor manda un reemplazo en lugar de un crédito, el reemplazo se recibe y su nota se registra contra la orden de devolución.
 
-Los nombres de las notas se cruzan según quién emite. El comprador emite la nota de débito, que baja su deuda con el proveedor; el proveedor responde con una nota de crédito. El asiento es de Contabilidad: en el ejemplo de OpenStax, devolver 15 impresoras dañadas de $100 es Cuentas a pagar 1.500 contra Inventario 1.500, en [compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md).
+Los nombres de las notas se cruzan según quién emite. El comprador emite la nota de débito, que baja su deuda con el proveedor; el proveedor responde con una nota de crédito. El asiento es de Contabilidad y está en [compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md).
 
-> [!NOTE] Sin fuente todavía: los plazos de un reclamo al proveedor y quién paga el flete de vuelta. Tampoco hay fuente para las notas de débito y de crédito en la Argentina, que irían en [Compras y abastecimiento en la Argentina](../compras-y-abastecimiento-en-argentina.md).
+> [!NOTE] Sin fuente todavía: los plazos de un reclamo al proveedor y quién paga el flete de vuelta. Tampoco hay fuente todavía para las notas de débito y de crédito en la Argentina.
 
 ## Cada diferencia es un dato del proveedor
 

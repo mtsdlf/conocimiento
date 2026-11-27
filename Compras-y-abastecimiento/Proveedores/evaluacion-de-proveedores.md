@@ -24,7 +24,7 @@ Dentro de [Proveedores](proveedores.md), cierra el círculo que abre el [alta de
 
 ## Los datos salen de la recepción contra lo pedido
 
-Cada indicador se calcula con algo que registró otra parte del circuito. La fecha y la cantidad de cada entrega vienen de la [recepción contra lo pedido](../Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md); lo rechazado, de [diferencias y devoluciones](../Seguimiento-de-la-orden/diferencias-y-devoluciones.md); la fecha comprometida, de la [confirmación y el seguimiento](../Seguimiento-de-la-orden/confirmacion-y-seguimiento.md). Como inferencia de la base, sin recepción registrada contra la orden no hay dato que evaluar, y una empresa que recibe sin mirar la orden no puede medir a sus proveedores.
+Cada indicador se calcula con algo que registró otra parte del circuito. La fecha y la cantidad de cada entrega las registra la [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md) (Inventario) y las compara la [recepción contra lo pedido](../Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md); lo rechazado viene de [diferencias y devoluciones](../Seguimiento-de-la-orden/diferencias-y-devoluciones.md); la fecha confirmada, de la [confirmación y el seguimiento](../Seguimiento-de-la-orden/confirmacion-y-seguimiento.md). Como inferencia de la base, sin recepción registrada contra la orden no hay dato que evaluar, y una empresa que recibe sin mirar la orden no puede medir a sus proveedores.
 
 El tablero de evaluación de un sistema abierto usa cuatro criterios, como evidencia de práctica:
 
@@ -37,14 +37,14 @@ El tablero de evaluación de un sistema abierto usa cuatro criterios, como evide
 
 El precio no figura entre esos criterios. Cuánto cuesta de verdad un proveedor, sumando rechazos, demoras y stock, lo trata [costo total de adquisición](../Abastecimiento-estrategico/costo-total-de-adquisicion.md).
 
-> [!NOTE] Sin fuente todavía: el precio como indicador de desempeño (contra lista, contra mercado) y la calidad medida en partes por millón (PPM).
+> [!NOTE] Sin fuente todavía: el precio como indicador de desempeño (contra lista, contra mercado), la calidad medida en partes por millón (PPM) y el texto literal de ISO 9001:2015 8.4.
 
 ## A tiempo y completo depende de qué se cuente
 
-El indicador más citado junta los dos primeros: entregas a tiempo y completas, OTIF por su sigla en inglés. El glosario de un operador logístico da el ejemplo: de 1.000 entregas, 950 llegaron a tiempo y completas, así que el OTIF es 95 %. El número cambia mucho según la unidad que se cuente. Un estudio presentado en una red de investigación en logística, según su resumen, midió a un proveedor y obtuvo 43 % contando por renglón, con una tolerancia de un día.
+Un indicador que junta la entrega a tiempo y la entrega completa es el OTIF, por su sigla en inglés. El glosario de un operador logístico da el ejemplo: de 1.000 entregas, 950 llegaron a tiempo y completas, así que el OTIF es 95 %. El número depende de la unidad que se cuente. Un estudio presentado en una red de investigación en logística, según su resumen, midió a un proveedor y obtuvo 43 % contando por renglón, con una tolerancia de un día.
 
 > [!IMPORTANT]
-> Las fuentes no coinciden en qué fecha define «a tiempo». Puede ser la fecha que pidió el comprador o la que prometió el proveedor al confirmar, y el mismo estudio de logística marca la diferencia como fuente de error. Contra la fecha pedida, el indicador mide también si el comprador pidió con plazo suficiente; contra la prometida, mide solo si el proveedor cumplió su palabra (lectura de la base). Quien arme el tablero tiene que fijar cuál usa, la unidad (pedido, renglón o unidad) y la tolerancia, y decirlo junto al número.
+> El estudio de logística, según su resumen, deja abierto qué fecha define «a tiempo»: la fecha requerida, que pidió el comprador, o la fecha confirmada, que prometió el proveedor. Contra la fecha requerida, el indicador mide también si el comprador pidió con plazo suficiente; contra la confirmada, mide solo si el proveedor cumplió su palabra (lectura de la base). Quien arme el tablero tiene que fijar cuál usa, la unidad (pedido, renglón o unidad) y la tolerancia, y decirlo junto al número.
 
 ## Del puntaje al estado del proveedor
 
@@ -52,10 +52,10 @@ El sistema abierto citado combina los criterios en un puntaje con pesos: «The w
 
 | Estado | Puntaje | Qué pasa |
 |---|---|---|
-| Preferido (Preferred) | 85 a 100 | Ni aviso ni bloqueo |
-| Aprobado (Approved) | 70 a 84 | Ni aviso ni bloqueo |
-| En observación (Watch) | 50 a 69 | Se puede configurar un aviso al comprador |
-| Bloqueado (Blocked) | menos de 50 | Se pueden bloquear nuevos pedidos de cotización y órdenes |
+| Preferido (Preferred) | 85 a 100 | Ninguna acción citada |
+| Aprobado (Approved) | 70 a 84 | Ninguna acción citada |
+| En observación (Watch) | 50 a 69 | Puede advertir al comprador |
+| Bloqueado (Blocked) | menos de 50 | Puede bloquear nuevos pedidos de cotización y órdenes |
 
 Cada estado puede solo advertir, y el comprador sigue adelante, o bloquear. Qué es el bloqueo, qué impide y por qué no es lo mismo que inactivar está en [alta de proveedor](alta-de-proveedor.md#el-bloqueo-de-un-proveedor).
 

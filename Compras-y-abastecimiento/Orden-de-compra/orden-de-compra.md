@@ -26,11 +26,11 @@ Es la tercera de las cuatro partes de [Compras y abastecimiento](../compras-y-ab
 
 Los campos que aparecen en las fuentes leídas son el proveedor, los renglones con cantidad, unidad y precio, el depósito de destino, la fecha requerida, las condiciones de pago y de entrega, los impuestos y la referencia a la solicitud o la cotización de origen. Un sistema abierto da un ejemplo: 200 adaptadores a USD 18, USD 3.600 en total, con el precio tomado de la cotización aceptada.
 
-Emitir la orden no forma un contrato por sí solo: sin un contrato previo, lo forma la aceptación del proveedor (según el resumen del artículo de Wikipedia). En los Estados Unidos, la sección 2-207 del Código Uniforme de Comercio hace valer como aceptación un acuse que agrega términos propios; lo de la Argentina va en [Compras y abastecimiento en la Argentina](../compras-y-abastecimiento-en-argentina.md).
+Emitir la orden no forma un contrato por sí solo: sin un contrato previo, lo forma la aceptación del proveedor (según el resumen del artículo de Wikipedia). Qué pasa cuando el acuse agrega términos propios, según la ley de los Estados Unidos, está en [confirmación y seguimiento](../Seguimiento-de-la-orden/confirmacion-y-seguimiento.md). Sin fuente todavía para la Argentina.
 
 ## Los estados: tres ejes cruzados
 
-Los estados de una orden no forman una línea. Las fuentes mezclan tres preguntas distintas: si la empresa ya aprobó lo que pide, cuánto llegó y cuánto facturó el proveedor. Un ERP grande lleva el primer eje con seis estados, cuando el control de cambios está activo:
+Los estados de una orden no forman una línea. Las fuentes mezclan tres preguntas distintas: si la empresa ya aprobó lo que pide, cuánto llegó y cuánto facturó el proveedor. Un ERP grande lleva el primer eje con siete estados cuando el control de cambios está activo (el de revisión externa sale de su sección sobre la confirmación):
 
 | Estado de aprobación | Qué significa |
 |---|---|
@@ -38,18 +38,19 @@ Los estados de una orden no forman una línea. Las fuentes mezclan tres pregunta
 | En revisión | Espera la aprobación interna |
 | Rechazada | Quien aprueba no la aceptó |
 | Aprobada | Aprobada adentro; recién ahí genera movimientos de stock esperado |
+| En revisión externa | Consulta al proveedor sobre precios, descuentos o fechas de recepción; si tiene portal, ahí aprueba o rechaza |
 | Confirmada | Registrada como comprometida; no se llega sin pasar por aprobada |
-| Finalizada | Cerrada financieramente; no admite cambios |
+| Finalizada | Cerrada financieramente; no admite cambios. No es lo mismo que cerrar el saldo, que se explica en [recepción contra lo pedido](../Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md) |
 
-Un sistema abierto, en cambio, lleva el avance con estos estados: a recibir y facturar, a recibir, a facturar, completada, en espera, cerrada y cancelada. Son el cruce de los otros dos ejes, cuánto se recibió (nada, una parte, todo) y cuánto se facturó, más tres salidas: pausar, dejar de procesar el saldo o anular. Es el mismo problema que el [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md), con un eje más.
+Un sistema abierto, en cambio, lleva el avance con estos estados: a recibir y facturar, a recibir, a facturar, completada, en espera, cerrada y cancelada. Son el cruce de los otros dos ejes, cuánto se recibió (nada, una parte, todo) y cuánto se facturó, más tres salidas: pausar, dejar de procesar el saldo o anular (lectura de esta base). El mismo problema, del lado de la venta, está en el [pedido de venta](../../Relacion-con-clientes/Pedido-de-venta/pedido-de-venta.md).
 
 Modelar el estado como una sola lista de valores hace que la orden mienta: dice «recibida» cuando faltan renglones, o «aprobada» cuando ya se facturó. Por eso cada renglón lleva lo suyo y la cabecera resume; es criterio de la base. «Enviada al proveedor» no aparece como estado de la orden en ninguna fuente leída.
 
 ## Qué dispara aprobar y confirmar
 
-La orden compromete la compra, pero no mueve stock ni asienta deuda: los recibos y las facturas se controlan contra ella. En el ERP grande, la orden genera movimientos de stock esperado solo al llegar a aprobada, y ese stock en camino no se puede reservar antes. Al confirmarla, el sistema guarda una copia exacta de lo confirmado y, si están activas, genera las distribuciones contables y verifica el presupuesto.
+Según el resumen de la documentación de un sistema abierto, someter la orden compromete la compra pero no mueve stock ni asienta en el mayor: los recibos y las facturas se controlan contra ella. En el ERP grande, la orden genera movimientos de stock esperado, el que está en camino, solo al llegar a aprobada, y ese stock no se puede reservar antes. Al confirmarla, el sistema guarda una copia exacta de lo confirmado (las versiones están en [cambios y cancelaciones](cambios-y-cancelaciones-de-la-orden.md)) y, si están activas, genera las distribuciones contables y verifica el presupuesto.
 
-La deuda con el proveedor nace después, con la factura, en [compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md). Quién aprueba según el monto lo dice la matriz de [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md), que tiene una fila para la orden de compra; acá importa que aprobar sea un paso registrado, con quién, cuándo y sobre qué versión.
+La deuda con el proveedor la registra Contabilidad: al recibir, como recibido sin facturar, y se confirma con la factura ([compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md)). Quién aprueba según el monto lo dice la matriz de [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md), que tiene una fila para la orden de compra; acá importa que aprobar sea un paso registrado, con quién, cuándo y sobre qué versión (criterio de la base).
 
 ## Dónde está en los marcos de procesos
 

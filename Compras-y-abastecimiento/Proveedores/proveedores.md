@@ -18,9 +18,9 @@ revisado:
 
 Proveedores es la parte de Compras y abastecimiento que trata a quién se le compra y en qué condiciones: el proveedor como registro, su alta, sus precios y plazos, si cumple y cuánto depende la empresa de él. El registro del proveedor es el dato maestro del dominio: se carga una vez y lo leen la solicitud, la orden de compra, la recepción y la cuenta a pagar.
 
-Dentro de [Compras y abastecimiento](../compras-y-abastecimiento.md) es la vertical que no cambia con cada compra. Recibe de [Abastecimiento estratégico](../Abastecimiento-estrategico/abastecimiento-estrategico.md) el proveedor elegido y los términos acordados con él. Le da a la [Orden de compra](../Orden-de-compra/orden-de-compra.md) los datos, los precios y los plazos que cada orden trae solos. Y recibe del [Seguimiento de la orden](../Seguimiento-de-la-orden/seguimiento-de-la-orden.md) las entregas y los rechazos con que se lo evalúa. Sin software, es la carpeta de proveedores con sus listas de precios; con software, es la tabla que leen todos los módulos.
+Dentro de [Compras y abastecimiento](../compras-y-abastecimiento.md) es la vertical que no cambia con cada compra. Recibe de [Abastecimiento estratégico](../Abastecimiento-estrategico/abastecimiento-estrategico.md) el proveedor elegido y los términos acordados con él. Le da a la [Orden de compra](../Orden-de-compra/orden-de-compra.md) los datos, los precios y los plazos que cada orden trae solos. Y recibe del [Seguimiento de la orden](../Seguimiento-de-la-orden/seguimiento-de-la-orden.md) las entregas y los rechazos con que se lo evalúa. Sin software, es la carpeta de proveedores con sus listas de precios; con software, es la tabla que leen los demás módulos (lectura de esta base).
 
-APQC 7.4 reparte esta vertical en dos lugares: validar al proveedor antes de comprarle (4.2.2.2 «Certify and validate suppliers») y gestionarlo después (4.2.4 «Manage suppliers»). Este último grupo incluye mantener su información (4.2.4.1), analizar su desempeño (4.2.4.2) y controlar la calidad de lo que entrega (4.2.4.4).
+APQC 7.4 reparte esta vertical en dos lugares: la homologación del proveedor (4.2.2.2 «Certify and validate suppliers») y su gestión (4.2.4 «Manage suppliers»). Este último grupo incluye mantener su información (4.2.4.1), analizar su desempeño (4.2.4.2) y controlar la calidad de lo que entrega (4.2.4.4).
 
 ## Qué guarda el registro del proveedor
 
@@ -32,7 +32,7 @@ Es el espejo del [registro del cliente](../../Relacion-con-clientes/Registro-del
 
 ## Por qué cada proveedor tiene un solo registro
 
-Un proveedor cargado dos veces tiene dos saldos, dos historias y dos cuentas bancarias que controlar. Como inferencia de la base, eso abre la puerta a pagar dos veces la misma factura y esconde cuánto se le compra en total, que es el dato del que parte el [análisis del gasto](../Abastecimiento-estrategico/analisis-del-gasto.md). El auditor del estado de Washington pide revisar el registro de proveedores al menos una vez al año, para sacar duplicados e inactivar a los que no se usan.
+Un proveedor cargado dos veces tiene dos saldos, dos historias y dos cuentas bancarias que controlar. Como inferencia de la base, que ninguna fuente dice, eso abre la puerta a pagar dos veces la misma factura y esconde cuánto se le compra en total, que es el dato del que parte el [análisis del gasto](../Abastecimiento-estrategico/analisis-del-gasto.md). El auditor del estado de Washington pide revisar el registro de proveedores al menos una vez al año, para sacar duplicados e inactivar a los que no se usan.
 
 Lograr un solo registro cuando el proveedor aparece en varios sistemas es el problema del registro de oro, que está en [datos maestros](../../Datos/Gobierno-y-calidad/datos-maestros.md). Esta vertical se ocupa de lo de adentro: qué datos lleva y quién puede cambiarlos.
 
@@ -40,7 +40,7 @@ Lograr un solo registro cuando el proveedor aparece en varios sistemas es el pro
 
 ## Dónde el registro se cruza con el fraude
 
-El registro del proveedor es el blanco de los dos fraudes clásicos de compras: dar de alta un proveedor inventado y cambiarle la cuenta bancaria a uno verdadero. Las cifras de la ACFE y la regla de que quien carga un proveedor no aprueba sus facturas ni las paga están en [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md#la-aprobación-de-pagos-y-el-alta-de-proveedores) y en [separación de funciones](../../Contabilidad/Control-interno/separacion-de-funciones.md). Acá importa dónde se aplican: en el alta y en cada cambio de datos, que es lo que desarrolla [alta de proveedor](alta-de-proveedor.md).
+El registro del proveedor es el blanco de dos fraudes de compras que repiten las fuentes leídas: dar de alta un proveedor inventado y cambiarle la cuenta bancaria a uno verdadero. Las cifras de la ACFE y la regla de que quien carga un proveedor no aprueba sus facturas ni las paga están en [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md#la-aprobación-de-pagos-y-el-alta-de-proveedores) y en [separación de funciones](../../Contabilidad/Control-interno/separacion-de-funciones.md). Acá importa dónde se aplican: en el alta y en cada cambio de datos, que es lo que desarrolla [alta de proveedor](alta-de-proveedor.md).
 
 ## Qué hay en Proveedores
 

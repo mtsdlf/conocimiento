@@ -32,15 +32,15 @@ Es ley y dinero, y cambia seguido: la nota es una copia al 27 de noviembre de 20
 
 ## Qué se verifica del proveedor al darlo de alta
 
-El [alta de proveedor](Proveedores/alta-de-proveedor.md) en la Argentina suma tres consultas públicas de ARCA, todas por CUIT.
+El [alta de proveedor](Proveedores/alta-de-proveedor.md) en la Argentina suma tres cosas para mirar en ARCA: la constancia de inscripción, el estado de la CUIT y la base de facturas apócrifas.
 
-- **Constancia de inscripción.** ARCA tiene una consulta pública («Sistema Registral - Internet») que da la condición del contribuyente. Qué datos devuelve no se pudo leer. La condición frente al IVA del proveedor es la que decide qué factura tiene que mandar (ver abajo).
+- **Constancia de inscripción.** ARCA tiene una consulta pública («Sistema Registral - Internet»), pero la página leída solo muestra el título y no se pudo ver qué datos devuelve. La condición frente al IVA del proveedor es la que decide qué factura tiene que mandar (ver abajo).
 - **Estado de la CUIT.** La RG 5762 usa como condición tener la CUIT «con estado administrativo activo sin limitaciones, en los términos de la Resolución General N° 3.832» (art. 2). Eso muestra que una CUIT puede estar limitada; la RG 3832 no se pudo abrir, así que qué limita y dónde se consulta queda sin fuente.
-- **Base de facturas apócrifas.** La consulta de ARCA pide la CUIT y devuelve, si el contribuyente está incluido, la fecha de publicación, la fecha de su condición de apócrifo y una descripción. La página dice que los datos «son meramente informativos» y «cumplen una función preventiva», y no cita norma. Es una sola fuente primaria.
+- **Base de facturas apócrifas.** La consulta de ARCA pide la CUIT y devuelve la CUIT, la fecha de publicación, la fecha de la condición de apócrifo y una descripción, con el nombre, el domicilio y la agencia. La página dice que los datos «son meramente informativos» y «cumplen una función preventiva», y no cita norma. Es una sola fuente primaria.
 
-Qué pasa si se le compra a alguien de esa base sale de una sola nota de un abogado: ARCA «no reconoce los créditos fiscales de las operaciones con el contribuyente incluido». Dos fallos leídos por prensa matizan la consecuencia. En Padic S.A. (Tribunal Fiscal, Sala C), la inclusión del proveedor fue posterior a las facturas y no se aplicó hacia atrás. En CHS de Argentina SA (Cámara Contencioso Administrativo Federal, Sala II), el tribunal dijo que «El Fisco no puede trasladar su responsabilidad de control a un tercero».
+Qué pasa si se le compra a alguien de esa base sale de una sola nota de un abogado: ARCA «no reconoce los créditos fiscales de las operaciones con el contribuyente incluido». Dos fallos, leídos solo por notas de prensa, matizan la consecuencia. En Padic S.A. (Tribunal Fiscal, Sala C), la inclusión del proveedor fue posterior a las facturas y no se aplicó hacia atrás. En CHS de Argentina SA (Cámara Contencioso Administrativo Federal, Sala II), el tribunal dijo que «El Fisco no puede trasladar su responsabilidad de control a un tercero».
 
-En los dos casos el tribunal valoró lo que la empresa podía probar: que verificó los comprobantes en la web de ARCA, consultó la base de apócrifas, registró la operación, practicó las retenciones y pagó por medios bancarios. De ahí sale un criterio de la base: consultar la base al dar de alta y antes de cada compra relevante, y guardar la constancia con su fecha, porque la diligencia se prueba con registros.
+En los dos casos el tribunal valoró lo que la empresa podía probar: que verificó los comprobantes en la web de ARCA, consultó la base de apócrifas, registró la operación, practicó las retenciones y pagó por medios bancarios. De ahí sale un criterio de la base: consultar la base al dar de alta y al comprar, y guardar la constancia con su fecha, porque la diligencia se prueba con registros.
 
 ## Qué factura tiene que mandar el proveedor
 
@@ -48,35 +48,35 @@ La letra del comprobante depende de la condición de quien vende y de quien comp
 
 La factura M ya no existe. Desde el 1 de diciembre de 2025 (art. 32 de la RG 5762) la reemplaza la clase A con la leyenda «OPERACIÓN SUJETA A RETENCIÓN», y toda referencia a la M en otras normas se entiende hecha a ella (art. 31). Las M impresas «podrán utilizarse hasta los plazos de validez otorgados» (art. 27). Para el comprador, esta A no es una A común:
 
-- El inscripto en IVA que la recibe «deberá actuar como agente de retención de los impuestos al valor agregado y a las ganancias» (art. 12).
-- Retiene «el CIEN POR CIENTO (100%) de la alícuota que corresponda» de IVA y el 6% de Ganancias, sobre el importe que fija la ley del impuesto (art. 13), «en el momento en que se efectúe el pago», señas y anticipos incluidos (art. 14). Si el régimen general de la RG 830 da más, se aplica el mayor (art. 12).
-- El proveedor no puede oponer certificados de exclusión de Ganancias ni de IVA (art. 19).
-- Si no retiene, el comprador es responsable personal y solidario por el impuesto que omitió retener, más sanciones (art. 29).
+- El inscripto en IVA que la recibe «deberá actuar como agente de retención de los impuestos al valor agregado y a las ganancias» (art. 12), y si no retiene responde personal y solidariamente por el impuesto omitido, más sanciones (art. 29).
+- La RG fija el 100 % de la alícuota de IVA y el 6 % de Ganancias, retenidos al pagar (arts. 13 y 14), y no deja oponer certificados de exclusión (art. 19).
 
-La condición no es fija. ARCA evalúa a cada emisor en febrero, junio y octubre con la información del cuatrimestre vencido y publica las novedades en una consulta del micrositio «Facturación» (arts. 23 a 25). Un proveedor que hoy factura A común puede pasar a A con leyenda en cuatro meses. Esa consulta no se encontró por su nombre.
+Cómo se retiene y se ingresa es del tema Impuestos, todavía no armado. Todo esto sale del texto de la RG 5762; las RG 830 y 2226 que cita no se leyeron.
 
-La misma RG regula otra leyenda, «PAGO EN CBU INFORMADA». Si el proveedor la usa, el comprador inscripto tiene que pagar lo facturado menos las retenciones por transferencia o depósito a la CBU que el vendedor informó a ARCA, consultable en el micrositio «Facturación» (art. 22). Es la única consulta de CBU con base normativa que apareció, y vale solo para quien optó por esa leyenda.
+La condición no es fija. ARCA evalúa a cada emisor en febrero, junio y octubre con la información del cuatrimestre vencido y publica las novedades en una consulta del micrositio «Facturación» (arts. 23 a 25). Un proveedor que hoy factura A común puede pasar a A con leyenda en cualquiera de esas evaluaciones. Esa consulta no se encontró por su nombre.
+
+La misma RG regula otra leyenda, «PAGO EN CBU INFORMADA»: si el proveedor la usa, el pago va a la CBU que informó a ARCA, consultable en el micrositio «Facturación» (art. 22). Cómo se paga es de Tesorería, todavía no armado. Es la única consulta de CBU con base normativa que apareció, y vale solo para quien optó por esa leyenda.
 
 ## Qué se controla cuando llega la factura
 
 La factura electrónica sin CAE no produce efectos frente a terceros (art. 12 de la RG 4291, citada en la nota de factura electrónica). ARCA tiene una consulta pública de constatación que pide la CUIT del emisor, el CAE de 14 dígitos, la fecha, el tipo de comprobante (código 1 para la A, 6 para la B), el punto de venta y el número, el importe total y el documento del receptor (código 80 para CUIT). Que el QR de la factura lleve a esa constatación lo dice una sola fuente secundaria.
 
-Después de la constatación viene el cruce con la orden y la recepción. La cantidad recibida se compara con la orden en [recepción contra lo pedido](Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md); el cruce de la factura con las dos, y la deuda que nace, en [compras y cuentas a pagar](../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md). El remito del proveedor no es la factura y no reemplaza ninguno de esos pasos.
+Después de la constatación viene el cruce con la orden y la recepción. La cantidad recibida se compara con la orden en [recepción contra lo pedido](Seguimiento-de-la-orden/recepcion-contra-lo-pedido.md); el cruce de la factura con las dos, y el registro de la deuda, en [compras y cuentas a pagar](../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md). El remito del proveedor no es la factura y no reemplaza ninguno de esos pasos.
 
 ## La factura de crédito electrónica MiPyME, del lado del que compra
 
-Con la Ley 27.440, una pyme le emite factura de crédito electrónica a una empresa grande o a otra pyme adherida, y esa factura puede convertirse en título ejecutivo. Según la página oficial, la obligación rige cuando el total es «igual o superior a» $ 5.549.862, desde el 14 de abril de 2026. Es una sola fuente oficial, y una nota de prensa de 2026 daba otro monto que parece viejo. El texto de la ley no se leyó: todo llega por las resoluciones y las páginas oficiales.
+Con la Ley 27.440, una pyme le emite factura de crédito electrónica a una empresa grande o a otra pyme adherida, y esa factura puede convertirse en título ejecutivo. Según la página oficial, la obligación rige cuando el total es «igual o superior a» $ 5.549.862, desde el 14 de abril de 2026. Es una sola fuente oficial, y una nota de prensa de 2026 daba otro monto que no se pudo confirmar y parece viejo; la discrepancia sigue abierta. El texto de la ley no se leyó: todo llega por las resoluciones y las páginas oficiales.
 
-El reloj corre desde que la factura llega al domicilio fiscal electrónico de la empresa, no desde que alguien la ve. Según las preguntas frecuentes de ARCA, el comprador tiene que, dentro de ese plazo, aceptarla o informar que la canceló, en el Registro de Facturas de Crédito Electrónicas MiPyME con clave fiscal o por web service. Al aceptar informa «un banco pagador y su respectiva cuenta de origen (CBU)». Si no hace nada, la factura queda «aceptada tácitamente».
+Según las preguntas frecuentes de ARCA, el comprador tiene que, dentro de los 21 días corridos desde la recepción, aceptarla o informar que la canceló, en el Registro de Facturas de Crédito Electrónicas MiPyME con clave fiscal o por web service. Al aceptar informa «un banco pagador y su respectiva cuenta de origen (CBU)». Si no hace nada, la factura queda «aceptada tácitamente».
 
 | Período | Plazo para aceptar, cancelar o rechazar | Fuente |
 |---|---|---|
 | 1/11/2025 al 31/10/2026 | «VEINTIÚN (21) días corridos» | Res. 219/2025, leída |
-| 1/11/2026 al 31/10/2027 | 21 días corridos, prorrogados | Res. 424/2026 SICyP, no leída: página oficial y dos notas de prensa |
+| 1/11/2026 al 31/10/2027 | 21 días corridos, prorrogados | Res. 424/2026 SICyP, no leída: página oficial y notas de prensa |
 
-La ley fija 30 días corridos; las resoluciones los acortaron. Según un estudio jurídico, que cita la RG 4367/2018 sin que se haya leído, la factura se considera recibida a las 24 horas del día siguiente a quedar en el domicilio fiscal electrónico.
+La Res. 219/2025 fijó esos 21 días para los plazos de los arts. 4, 5, 6 y 8 de la ley. Un plazo de 30 días corridos aparece en una guía de ARCA de 2020 que no se leyó, y el texto de la ley tampoco. Según un estudio jurídico, que cita el art. 14 de la RG 4367/2018 sin que se haya leído, la factura se considera recibida a las 24 horas del día siguiente a quedar en el domicilio fiscal electrónico, y esa fecha cuenta para la aceptación tácita: es una sola fuente.
 
-Rechazar solo se puede dentro del plazo y por una causal del art. 8 de la ley. Según el mismo estudio, son daños en la mercadería, defectos o diferencias comprobados, divergencias de plazo o precio, falta de correspondencia con lo contratado, vicios formales y falta de entrega o prestación. Para rechazar por diferencias o falta de entrega, la empresa necesita el registro de lo que recibió, y lo necesita antes de que venza el plazo. Es inferencia de la base: en una empresa grande, el domicilio fiscal electrónico tiene que tener un responsable, y el cruce con la recepción tiene que caber en 21 días.
+Rechazar solo se puede dentro del plazo y por una causal del art. 8 de la ley. Según el mismo estudio, son daños en la mercadería, defectos o diferencias comprobados, divergencias de plazo o precio, falta de correspondencia con lo contratado, vicios formales y falta de entrega o prestación. Lectura de esta base: para rechazar por diferencias o falta de entrega, la empresa necesita el registro de lo recibido antes de que venza el plazo; el domicilio fiscal electrónico necesita un responsable, y el cruce con la recepción tiene que caber en 21 días.
 
 ## Qué datos fiscales guarda la ficha del proveedor
 
@@ -88,6 +88,6 @@ Lo que el comprador hace con ellos (retener, computar el crédito, pagar) es de 
 - Si optó por «PAGO EN CBU INFORMADA» y cuál es la CBU.
 - La fecha y el resultado de la última consulta a la base de apócrifas.
 
-Por eso la condición fiscal es un dato que se revisa, no un papel del alta: puede cambiar tres veces por año.
+Por eso la condición fiscal es un dato que se revisa, no un papel del alta: puede cambiar hasta tres veces por año.
 
-> [!NOTE] Sin fuente todavía: qué devuelve la constancia de inscripción y si muestra las limitaciones de la CUIT; el texto de la RG 3832; el nombre y la dirección de la consulta de proveedores con A con leyenda; el web service de constatación de comprobantes; el texto de la Ley 27.440 y de la Res. 424/2026; el criterio para ser «empresa grande» a efectos de la factura de crédito; las sentencias de Padic y CHS leídas enteras; los regímenes de retención de Ganancias (RG 830) e IVA, y los de Ingresos Brutos de cada provincia.
+> [!NOTE] Sin fuente todavía: qué devuelve la constancia de inscripción y si muestra las limitaciones de la CUIT; el texto de la RG 3832; el nombre y la dirección de la consulta de proveedores con A con leyenda; el web service de constatación de comprobantes; el texto de la Ley 27.440 y de la Res. 424/2026; el criterio para ser «empresa grande» a efectos de la factura de crédito; las sentencias de Padic y CHS leídas enteras; los regímenes de retención de Ganancias (RG 830) e IVA, y los de Ingresos Brutos de cada provincia; el derecho argentino sobre la formación del contrato de compra (orden y acuse), el costo de cancelar una orden y las notas de débito y crédito.
