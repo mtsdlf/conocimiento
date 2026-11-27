@@ -40,7 +40,7 @@ Los argumentos, en orden:
 Casi toda la evidencia sobre escuelas en otro idioma viene de la inmersión en francés en Canadá, con chicos que hablan inglés en casa y en la calle. Genesee llama a esto un entorno bilingüe "aditivo": el segundo idioma se suma sin desplazar al primero. Según Genesee y Lindholm-Leary, el idioma de la casa llega al mismo nivel que en una escuela de un solo idioma, con un atraso pasajero en lectura y escritura durante la inmersión total, y el segundo idioma llega a un buen uso funcional sin gramática de nativo. Las citas, los límites de esa evidencia para una escuela argentina y qué preguntarle a la escuela están en [escuela bilingüe](../Escuela/escuela-bilingue.md).
 
 > [!NOTE]
-> Sin fuente todavía: estudios de escuelas bilingües con castellano como idioma de la casa y de la sociedad, en Argentina o en América Latina, y sobre aprender a leer en dos idiomas a la vez.
+> Sin fuente todavía: estudios de escuelas bilingües de nivel inicial con castellano como idioma de la casa y de la sociedad, en Argentina o en América Latina, y sobre aprender a leer en dos idiomas a la vez. Lo poco que se encontró (un estudio en primaria de Madrid y una descripción de escuelas argentinas) está en [escuela bilingüe](../Escuela/escuela-bilingue.md).
 
 ## Cuánto idioma hace falta
 

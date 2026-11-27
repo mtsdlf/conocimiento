@@ -46,5 +46,7 @@ Si la angustia es muy intensa, aparece con cada separación o interfiere en la v
 
 Al elegir jardín conviene preguntar cómo es su adaptación y si los padres pueden quedarse los primeros días ([elegir escuela](elegir-escuela.md)).
 
+Cuando la angustia al separarse es mucho mayor que la de otros chicos y no cede con las semanas, puede ser ansiedad de separación: está en [ansiedad y miedos](../../Psicologia-infantil/Psicopatologia/ansiedad-y-miedos.md).
+
 > [!NOTE]
 > Sin fuente todavía: una guía oficial argentina (Ministerio de Educación, Sociedad Argentina de Pediatría o UNICEF) sobre el período de adaptación, e investigación primaria sobre la ansiedad de separación al empezar el jardín.

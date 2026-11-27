@@ -4,6 +4,9 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - https://www.healthychildren.org/English/healthy-living/nutrition/Pages/Recommended-Drinks-for-Young-Children-Ages-0-5.aspx
+  - https://www.aafp.org/pubs/afp/issues/2018/0815/p227.html
+  - https://ceren.cic.gba.gob.ar/wp-content/uploads/2017/10/Cuadernillo-Alim.-Jard%C3%ADn-2017-FINAL.pdf
   - https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113218/norma.htm
   - https://bnm.educacion.gob.ar/digital/normas/11605.pdf
   - https://argentina.gob.ar/salud/alimentacion-saludable/grafico
@@ -25,12 +28,17 @@ Las necesidades de 2 a 6 años son cuánto y qué come un chico de jardín: cuá
 
 ## Qué darle y cuánto
 
-Un chico de jardín hace 4 comidas al día (desayuno, almuerzo, merienda y cena) y, si hace falta, una o dos colaciones. Come lo mismo que la familia, en porciones más chicas, con leche, yogur o queso todos los días y agua como bebida. Las frituras, las golosinas y las gaseosas quedan para pocas ocasiones. Que coma poco un día y mucho otro es normal: dejá que decida cuánto come de lo que servís. Ninguna fuente leída da gramos ni vasos para esta edad, así que las cantidades exactas se piden al pediatra.
+Un chico de jardín hace 4 comidas al día (desayuno, almuerzo, merienda y cena) y, si hace falta, una o dos colaciones. Come lo mismo que la familia, en porciones más chicas, con leche, yogur o queso todos los días y agua como bebida. Las frituras, las golosinas y las gaseosas quedan para pocas ocasiones. Que coma poco un día y mucho otro es normal: dejá que decida cuánto come de lo que servís. Las porciones son las de los adultos y los chicos las comen en versión chica; la leche es de 2 a 3 tazas por día según la AAP, y las cantidades finas se piden al pediatra (detalle abajo).
 
 La guía oficial para el chico son las Guías Alimentarias para la Población Infantil del Ministerio de Salud y Ambiente, aprobadas por la Resolución 12/2006 ([texto en Infoleg](https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/113218/norma.htm), [PDF](https://bnm.educacion.gob.ar/digital/normas/11605.pdf)). Se leyó el texto de la resolución, que reproduce el cuadernillo para padres y cuidadores y el documento para equipos de salud. Es una guía de 2006.
 
-> [!NOTE]
-> Sin fuente todavía: porciones por grupo de alimentos, energía en kcal y vasos de leche para chicos de 2 a 6 años. La guía de 2006 no los trae para esa edad: sus ejemplos de porciones son para bebés de 6 a 12 meses. Las únicas cantidades de esta nota son las que la guía dice textuales, abajo. Una tabla de porciones por edad habría que buscarla en una guía más reciente o pedírsela al pediatra.
+## Porciones y energía
+
+Ninguna fuente leída da porciones argentinas escalonadas por edad para 2 a 6 años. Hay tres datos con fuente:
+
+- **Ejemplos de una porción diaria.** El cuadernillo de alimentación para docentes de Educación Inicial del CEREN (Centro de Estudios en Nutrición y Desarrollo Infantil, Comisión de Investigaciones Científicas de la provincia de Buenos Aires, 2017, adaptado del CESNI 2016) da ejemplos de "una porción diaria": en frutas y verduras, "1 unidad mediana" de fruta, "1/2 taza de vegetales cocidos" o "una taza de verduras de hoja crudas"; en cereales y legumbres, "un mignón de pan", "3 galletitas de agua" o "1/2 taza en cocido de: fideos, polenta, arroz"; en lácteos, "1 vaso de leche", "1 pote de yogur" o "2 fetas de queso máquina"; en carnes, "1 porción tamaño hamburguesa" o "1 huevo (no más de 3 veces por semana)"; en aceites, "1 cda. sopera de aceite vegetal crudo". El cuadernillo no dice que sean cantidades para preescolares ni las ajusta por edad. Se leyeron las secciones de porciones, desayuno y mensajes de las GAPA, no las actividades para alumnos.
+- **Carne y verduras.** El mismo cuadernillo repite los mensajes de las GAPA: "La porción diaria de carne se representa por el tamaño de la palma de la mano" y "Consumir al menos medio plato de verduras en el almuerzo, medio plato en la cena y 2 o 3 frutas por día".
+- **Energía.** Una revisión de la Academia Estadounidense de Médicos de Familia (AAFP, 2018) trae en su Tabla 1 una referencia de 1.000 kcal por día para chicos de 2 años y 1.400 para chicos de 4 años (en el original: "Calories 1,000 / 1,400"). Se leyó por un extracto de la página, no el artículo completo, y es una sola fuente y de otro país. Ninguna fuente argentina leída da kcal por edad. No reemplaza al pediatra.
 
 ## Lo que dice la guía oficial
 
@@ -48,10 +56,11 @@ Desde los 2 años la referencia argentina general son las [Guías Alimentarias p
 
 ## Leche, yogur y queso: lo que se sabe y lo que no
 
-La gráfica de las GAPA pide 3 porciones diarias de leche, yogur o queso, preferentemente descremados. Esa recomendación está escrita para la población general, y la página no la ajusta por edad. La guía infantil de 2006 pide leche, yogur o queso todos los días, sin cantidad. Si un chico de 2 a 5 años debe tomar leche entera o descremada, y cuánta, no está verificado en ninguna fuente leída.
+La gráfica de las GAPA pide 3 porciones diarias de leche, yogur o queso, preferentemente descremados. Esa recomendación está escrita para la población general, y la página no la ajusta por edad. La guía infantil de 2006 pide leche, yogur o queso todos los días, sin cantidad. Para el tipo y la cantidad de leche a esta edad hay que ir a una fuente pediátrica, que está a continuación.
 
-> [!NOTE]
-> Sin fuente todavía: cuánta leche necesita un chico de 2 a 6 años y si debe ser entera o descremada. Una ficha del Ministerio de Agricultura menciona 320 ml para chicos de 4 a 8 años, pero no se pudo confirmar si es una porción recomendada o una tabla de calcio, así que no se usa.
+La Academia Estadounidense de Pediatría (AAP) en HealthyChildren.org (actualizada el 10/3/2023, leída la tabla de bebidas de la página) da para la leche de vaca: "16-24 oz/day" (en el original) para 2 a 5 años, es decir de 2 a 3 tazas por día. Y sobre el tipo: «los chicos de 12 a 24 meses deben tomar leche entera, y los de 2 años o más, leche descremada o baja en grasa (1 %)» (en el original: "Children ages 12-24 months are advised to drink whole milk, and children 2 and older nonfat (skim) or low-fat (1%) milk"). La revisión de la AAFP (2018) trae el mismo corte por edad: a los 1 a 2 años, leche entera. Va en el mismo sentido que las GAPA ("preferentemente descremados", en el mensaje sobre lácteos) y que el cuadernillo del CEREN, que recomienda "lácteos parcialmente descremados" en el desayuno. La edad de los 2 años la da solo la AAP (con la AAFP como segunda lectura de lo de la leche entera hasta esa edad); las fuentes argentinas no la precisan.
+
+Hay dos precisiones. Primero, las tazas son de la AAP y no están convertidas a mililitros: la guía argentina cuenta "1 vaso de leche" como una porción sin dar los ml. Segundo, la cuenta argentina es de 3 porciones por día entre leche, yogur y queso, mientras que las 2 a 3 tazas de la AAP son solo de leche. Como la AAP es una fuente de otro país y la argentina no ajusta por edad, la cantidad para un chico en particular se confirma con el pediatra, y más si no toma lácteos o tiene alergia.
 
 ## Cuántas comidas por día
 
@@ -71,4 +80,4 @@ Las dos fuentes no coinciden en el grupo de 6 a 23 meses (35,3 % y 34,1 %), prob
 
 ## Cómo se lee el apetito de un chico
 
-Sin porciones verificadas para esta edad, la guía práctica es el propio chico y su curva de crecimiento. El modelo de [división de responsabilidades](../Comer-en-familia/division-de-responsabilidades.md) deja al chico decidir cuánto come de lo que el adulto sirve, y el pediatra controla en cada visita si el crecimiento va bien ([controles y vacunas](../../Crianza/Salud-y-rutinas/controles-y-vacunas.md)). Un chico que no gana peso como se espera o pierde peso es motivo de consulta, como se detalla en [el chico que no come](chico-que-no-come.md).
+Sin porciones argentinas por edad, la guía práctica es el propio chico y su curva de crecimiento. El modelo de [división de responsabilidades](../Comer-en-familia/division-de-responsabilidades.md) deja al chico decidir cuánto come de lo que el adulto sirve, y el pediatra controla en cada visita si el crecimiento va bien ([controles y vacunas](../../Crianza/Salud-y-rutinas/controles-y-vacunas.md)). Un chico que no gana peso como se espera o pierde peso es motivo de consulta, como se detalla en [el chico que no come](chico-que-no-come.md).

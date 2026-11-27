@@ -95,6 +95,7 @@ Los componentes, en orden de lectura:
 - [Socios de una plataforma](socios-de-una-plataforma.md): agencias, freelancers y afiliados; qué les paga la plataforma, sus niveles, cómo les llegan clientes, qué prohíbe y el riesgo de depender de una.
 - [Mudar una tienda](mudar-una-tienda.md): qué datos pasan y cuáles no, las redirecciones, el dominio, el orden de los pasos, cuánto tráfico se pierde y qué suele salir mal.
 - [SEO de una tienda](seo-de-una-tienda.md): cómo llega Google a un producto, qué resuelve la plataforma y qué el comercio, filtros, variantes y agotados, cuánto pesa la búsqueda orgánica y qué se revisa cada mes.
+- [Vitrina a medida](vitrina-a-medida.md): el modo headless en la práctica; qué sigue haciendo el motor, cuánto cuesta construir y mantener, de qué se quejan quienes la hacen y cuántas marcas la tienen en Argentina.
 
 Las fichas fechadas, consultadas el 2026-11-22. Plataformas:
 
@@ -114,6 +115,7 @@ Socios y mudanzas, consultadas el 2026-11-24:
 - [Programa de socios de WooCommerce](programa-de-socios-de-woocommerce.md): de WooExperts a Woo Partner, Automattic for Agencies y un directorio de 174 agencias.
 - [Herramientas para mudar una tienda](herramientas-para-mudar-una-tienda.md): los importadores de cada plataforma y los servicios de terceros, con lo que migran y su precio de entrada.
 - [SEO por plataforma](seo-por-plataforma.md): lo que Tiendanube, Shopify y WooCommerce fijan y dejan cambiar para los buscadores (consultada el 2026-11-24).
+- [Motores para vitrinas a medida](motores-para-vitrinas-a-medida.md): Medusa, Saleor, Vendure, commercetools, Hydrogen, FastStore, WooCommerce, Magento y la API de vitrina de Tiendanube, con precio, checkout y lo local (consultada el 2026-11-22).
 
 Marketplace:
 

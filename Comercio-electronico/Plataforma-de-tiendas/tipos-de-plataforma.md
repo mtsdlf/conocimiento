@@ -48,7 +48,7 @@ El marketplace no le da al comercio una tienda propia. El comercio publica dentr
 
 Headless separa la vitrina, lo que ve el comprador, del motor de comercio, que guarda catálogo, carrito y pedidos; las dos partes se hablan por API. Composable va más lejos: la tienda se arma con servicios independientes, elegidos uno por uno (catálogo, búsqueda, pagos, contenido), en lugar de una plataforma que los trae juntos. Las dos definiciones son síntesis del campo, sin fuente que las fije.
 
-Se cruzan con los tipos, no los reemplazan. Una plataforma alojada puede ofrecer el modo headless: Shopify lanzó Hydrogen, su stack para vitrinas a medida, en 2021, según Wikipedia. Eso muestra que la oferta existe, no que rinda.
+Se cruzan con los tipos, no los reemplazan. Una plataforma alojada puede ofrecer el modo headless: Shopify lanzó Hydrogen, su stack para vitrinas a medida, en 2021, según Wikipedia. Eso muestra que la oferta existe, no que rinda. Qué se programa en la práctica, cuánto cuesta y quién la tiene en Argentina está en [vitrina a medida](vitrina-a-medida.md), y los motores, en [motores para vitrinas a medida](motores-para-vitrinas-a-medida.md).
 
 La sigla que acompaña al composable es MACH: microservices, API-first, cloud-native y headless. La promueve la MACH Alliance, una organización sin fines de lucro lanzada en junio de 2020, según un resumen de Wikipedia. Su propia nota de prensa nombra como fundadores a commercetools, Contentstack, EPAM Systems y Valtech. Quienes la impulsan venden componentes de ese tipo.
 

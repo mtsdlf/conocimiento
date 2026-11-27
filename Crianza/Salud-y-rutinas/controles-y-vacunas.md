@@ -10,6 +10,8 @@ fuentes:
   - https://sap.org.ar/docs/comites/PediatriaGeneralAmbulatoria/documentos_control-oftalmologico-previo-al-inicio-escolar-326.pdf
   - https://www.argentina.gob.ar/node/249754
   - https://www.aafp.org/afp/2016/0815/p324
+  - https://downloads.aap.org/aap/pdf/periodicity_schedule.pdf
+  - https://www.argentina.gob.ar/salud/glosario/hipoacusia-sordera
 aliases: [Control de niño sano, Calendario de vacunación, Vacunas]
 dueno: familia
 creado: 2026-11-27
@@ -52,5 +54,11 @@ Para los dientes, el Ministerio de Salud indica pasta con flúor y dos minutos d
 
 Qué y cuánto azúcar come un chico, que pesa en los dientes, está en [Nutrición](../../Nutricion/Alimentacion-infantil/alimentacion-infantil.md).
 
+## La audición entre los 2 y los 6 años
+
+En Argentina la pesquisa auditiva se hace al nacer. Para después, el Ministerio de Salud no da en su página sobre hipoacusia un calendario de controles de la audición. Pide llevar a los chicos al control periódico de salud, aunque estén sanos, y dice que «en los niños, la otitis media crónica -presencia de líquido en el oído- es una causa frecuente» de hipoacusia (leída según un extracto, sin fecha). No se encontró una norma nacional ni una guía de la SAP sobre audiometría en preescolares.
+
+La guía de referencia que sí fija edades es la de la AAP con Bright Futures, en su cronograma de salud preventiva actualizado en febrero de 2025 (la tabla se leyó entera). Marca una evaluación de riesgo, con acción si da positiva, a los 24 meses, a los 30 meses y a los 3 años. Marca un examen de audición a los 4, 5 y 6 años, y después a los 8 y 10. Es un consenso de la AAP y de Bright Futures, no una norma argentina, y es la única fuente con edades. En lo que se alcanzó a leer, no se probó cada edad con estudios. Si el chico no responde a su nombre, pide que le repitan o habla de forma poco clara, se consulta al pediatra sin esperar al control (inferencia nuestra).
+
 > [!NOTE]
-> Sin fuente todavía: pesquisa auditiva entre los 2 y los 6 años (no se encontró fuente argentina ni de la AAP), las notas al pie del calendario 2026 y el libro de la SAP "Actualización en Vacunas 2025".
+> Sin fuente todavía: las notas al pie del calendario 2026 y el libro de la SAP "Actualización en Vacunas 2025".

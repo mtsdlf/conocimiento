@@ -8,6 +8,7 @@ fuentes:
   - https://stacks.cdc.gov/view/cdc/122643/cdc_122643_DS1.pdf
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2017/v115n3a27s.pdf
   - https://www.sap.org.ar/docs/publicaciones/archivosarg/2023/v121n1a04.pdf
+  - https://www.argentina.gob.ar/normativa/nacional/resolución-699-2016-262473/texto
   - https://www.healthychildren.org/Spanish/ages-stages/gradeschool/school/Paginas/7-Myths-Facts-Bilingual-Children-Learning-Language.aspx
 aliases: [signos de alarma, pautas de alarma, cuándo consultar, vigilancia del desarrollo, pesquisa del desarrollo, PRUNAPE]
 dueno: familia
@@ -67,10 +68,12 @@ La SAP sugiere hacerla "a los 18 y a los 36 meses en niños de bajo riesgo", una
 El IODI (Instrumento de Observación del Desarrollo Infantil) es una herramienta de vigilancia que "no requiere especialización para su aplicación". En un estudio con 91 chicos de un mes a 4 años en un hospital de la Ciudad de Buenos Aires, comparado con la PRUNAPE, tuvo una sensibilidad de 87,5 % y una especificidad de 79,1 %; los autores lo consideran de "desempeño aceptable" (Manjarín y otros, 2023). Es un solo estudio chico.
 
 > [!NOTE]
-> Sin fuente todavía: el documento del Ministerio de Salud con las pautas del IODI y de la Libreta de salud, y una guía de la SAP posterior a 2017. La guía usada tiene nueve años.
+> Sin fuente todavía: la Libreta de salud del Ministerio y una guía de la SAP posterior a 2017. La guía usada tiene nueve años. Las pautas del IODI por edad están en [dominios e hitos](dominios-e-hitos.md).
 
 ## Qué tan firme es lo que dice esta nota
 
 Las cifras de la guía de la SAP (el 80 % de probabilidad ante la preocupación de los padres, el 30 % y el 70 %-90 % de detección) vienen de esa sola guía, que cita otros estudios. La indicación del CDC se conoce por su resumen. El estudio del IODI es chico y de un solo hospital. Que la regresión, la falta de atención conjunta y la preocupación de los padres pesen más que un hito aislado es una inferencia de esta nota.
 
 Si el chico va adelantado en algo, la pregunta es otra y está en [altas capacidades](../Altas-capacidades/altas-capacidades.md).
+
+Estas señales son del desarrollo (movimiento, lenguaje, relación). Las emocionales y de conducta, y cómo se separa lo normal para la edad de un trastorno, están en [psicopatología del desarrollo](../../Psicologia-infantil/Psicopatologia/psicopatologia-del-desarrollo.md); quién evalúa a un chico y cómo, en [evaluación](../../Psicologia-infantil/Evaluacion/evaluacion-psicologica.md).

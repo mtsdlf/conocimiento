@@ -19,7 +19,7 @@ por área.
 
 Cómo se escribe y se mantiene cada nota: [Convenciones de esta base](CONVENCIONES.md) y la skill `documentar`.
 
-Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Arquitectura, IA y Gestión de proyectos tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
+Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un checkout, un proyecto para un cliente), abrí la entrada del tema: Marketing, Producto, Desarrollo, Emprender, UX, Estrategia competitiva, Ventas, Comercio electrónico, Contabilidad, Arquitectura, IA y Gestión de proyectos tienen una sección «Qué leer según…» que dice qué notas leer y en qué orden.
 
 ## Plataforma y entrega
 
@@ -80,6 +80,11 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Gestión de proyectos](Gestion-de-proyectos/gestion-de-proyectos.md) — llevar cualquier trabajo con incertidumbre hasta un resultado cuando parte lo ejecutan agentes: encuadre, enfoque según la incertidumbre, planificación y pronóstico, el reparto entre personas y agentes, seguimiento, riesgo y gobierno, con la evidencia de cada práctica y lo que pierde peso.
 - [Planillas de cálculo](Planillas-de-calculo/planillas-de-calculo.md) — Excel y Google Sheets para trabajar en un negocio: fórmulas, datos ordenados, tablas dinámicas, diseño que no se rompe, cuánto fallan las planillas y cuándo pasar a una base.
 
+## Gestión de la empresa
+
+- [Contabilidad](Contabilidad/contabilidad.md) — registrar cada hecho económico de una empresa que ya opera: partida doble, plan de cuentas y devengado, cómo se registra cada operación, los estados contables, la contabilidad de gestión y el control interno, con lo de Argentina aparte.
+- [Relación con clientes](Relacion-con-clientes/relacion-con-clientes.md) — lo que registra una empresa sobre sus clientes y sus ventas en curso: el cliente y sus condiciones, el interesado, la oportunidad, el presupuesto y el pedido de venta, sin nombrar productos y con lo de Argentina aparte.
+
 ## Personas
 
 - [Psicología](Psicologia/psicologia.md) — la base científica de por qué la gente hace lo que hace: motivación y emoción, aprendizaje y hábitos, juicio y decisión, autorregulación, personalidad, estrés y resiliencia y cognición social, con lo que se sostuvo, se achicó o cayó en las réplicas.
@@ -97,6 +102,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 ## Familia
 
 - [Crianza](Crianza/crianza.md) — criar a un chico de 0 a 6 años: desarrollo y bilingüismo, altas capacidades, vínculo, emociones, límites, juego y pantallas, salud y rutinas, y escuela, con la evidencia de cada idea.
+- [Psicología infantil](Psicologia-infantil/psicologia-infantil.md) — la mente de un chico de 0 a 12 como la estudia la disciplina: desarrollo y niñez media, contextos (familia, amigos, acoso, trauma), trastornos (autismo, TDAH, ansiedad y otros), cómo se evalúa y qué tratamientos tienen evidencia.
 - [Nutrición](Nutricion/nutricion.md) — comer bien en familia: alimentos y guías, alimentación infantil, la mesa compartida, objetivos del adulto (bajar grasa, ganar músculo, rendir, salud) y planificar la semana.
 
 ## Animales

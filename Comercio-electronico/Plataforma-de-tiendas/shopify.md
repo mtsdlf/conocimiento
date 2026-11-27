@@ -11,6 +11,10 @@ fuentes:
   - "Shopify Engineering, shard balancing: https://shopify.engineering/mysql-database-shard-balancing-terabyte-scale (leído vía herramienta de resumen)"
   - "Wikipedia, Shopify: https://en.wikipedia.org/wiki/Shopify (según resumen del buscador)"
   - "StoreLeads, Shopify en Argentina: https://storeleads.app/reports/shopify/AR/top-stores (leído; página actualizada 2026-11-13)"
+  - "Shopify, Shopify Payments supported countries: https://help.shopify.com/en/manual/payments/shopify-payments/supported-countries (leído, 2026-11-22)"
+  - "Shopify, Hydrogen fundamentals: https://shopify.dev/docs/storefronts/headless/hydrogen/fundamentals (leído, 2026-11-22)"
+  - "Comercio-electronico/.investigacion/vidrieras-motores-y-precios.md (secciones 1, 2 y 3)"
+  - "Comercio-electronico/.investigacion/vidrieras-tamano.md (sección 2)"
   - "Comercio-electronico/.investigacion/plataforma-de-tiendas.md (secciones 2, 3, 4, 5 y 7)"
   - "Comercio-electronico/.investigacion/huecos-plataformas.md (sección 3)"
   - "Comercio-electronico/.investigacion/fundamentos-y-contraria.md (A3)"
@@ -66,7 +70,9 @@ Las definiciones son literales del 10-K. "GMV is the total dollar value of order
 
 En lo leído del 10-K, Shopify no publica un take rate con ese nombre. El informe lo calculó sobre estas cifras: merchant solutions sobre GMV da 2,33% en 2025 y 2,23% en 2024; los ingresos totales sobre GMV, 3,05%. El numerador incluye préstamos y etiquetas, así que no es lo que paga un comercio. Cómo se lee esa razón está en [negocio de una plataforma](negocio-de-una-plataforma.md).
 
-> [!NOTE] Sin fuente todavía: el monto originado por Shopify Capital ("loans and merchant cash advances", según los riesgos del 10-K) y si Shopify Payments opera en Argentina.
+Shopify Payments no está disponible en Argentina: la lista oficial de países incluye solo a México en América Latina (leída el 2026-11-22). Una tienda argentina cobra con otra pasarela, como Mercado Pago. Que pague la tarifa por proveedor externo de su plan es inferencia por la regla general: no se leyó un caso.
+
+> [!NOTE] Sin fuente todavía: el monto originado por Shopify Capital ("loans and merchant cash advances", según los riesgos del 10-K) 
 
 ## API, temas y tienda de apps
 
@@ -76,11 +82,13 @@ En lo leído del 10-K, Shopify no publica un take rate con ese nombre. El inform
 - **Tienda de apps**: [apps.shopify.com](https://apps.shopify.com). El informe vio que existe y no la midió; el reparto con los desarrolladores está en [apps para comerciantes](apps-para-comerciantes.md).
 - **Socios**: lo que paga y prohíbe a las agencias que arman tiendas está en [programa de socios de Shopify](programa-de-socios-de-shopify.md).
 
-> [!NOTE] Sin fuente leída: la Admin API GraphQL, la Storefront API, Hydrogen, Functions y los webhooks figuran solo en un resumen del buscador; falta leer [shopify.dev/docs/api](https://shopify.dev/docs/api).
+- **Hydrogen y Oxygen**: el stack para una [vitrina a medida](vitrina-a-medida.md). Hydrogen es de código abierto (MIT) y Oxygen, el alojamiento, está "available at no extra charge on paid Shopify plans". La compra no sale de Shopify: "The response includes a URL that redirects customers through Shopify's web checkout", y la personalización completa del checkout es solo de Plus. El detalle está en [motores para vitrinas a medida](motores-para-vitrinas-a-medida.md).
+
+> [!NOTE] Sin fuente leída: la Admin API GraphQL, Functions y los webhooks figuran solo en un resumen del buscador; falta leer [shopify.dev/docs/api](https://shopify.dev/docs/api).
 
 ## Presencia en Argentina
 
-StoreLeads cuenta 9.059 tiendas vivas en Argentina, en su página actualizada el 2026-11-13, sobre un total global mostrado de 3.298.869. Es un rastreador que detecta sitios, no un dato de la empresa. Las otras mediciones y sus métodos están en [presencia en Argentina](presencia-en-argentina.md).
+StoreLeads cuenta 9.059 tiendas vivas en Argentina, en su página actualizada el 2026-11-13; leída de nuevo el 2026-11-22, mostraba 9.034, 114 de ellas Plus, sobre un total global mostrado de 3.298.869. Es un rastreador que detecta sitios, no un dato de la empresa. Las otras mediciones y sus métodos están en [presencia en Argentina](presencia-en-argentina.md).
 
 ## Posicionamiento en buscadores
 

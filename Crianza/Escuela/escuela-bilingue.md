@@ -4,6 +4,8 @@ resumen: >-
 estado: vigente
 estabilidad: semi
 fuentes:
+  - https://e-archivo.uc3m.es/bitstream/handle/10016/14380/we1214.pdf
+  - https://ascd.org/el/articles/bilingual-schools-in-argentina
   - https://www.psych.mcgill.ca/perpg/fac/genesee/21.pdf
   - https://www.psych.mcgill.ca/perpg/fac/genesee/Dual%20Language%20Development%20in%20Preschool%20Children%202008.pdf
   - https://www.montrealites.ca/pdfs/JARL/Jarl-Vol2Art2-Genesse_EN.pdf
@@ -55,7 +57,13 @@ Cuánto inglés llega a tener depende de cuánto lo escucha. En los estudios con
 Al principio, un chico de jardín bilingüe puede saber menos palabras en cada idioma que un monolingüe en el suyo. Genesee advierte que juzgar un solo idioma hace parecer retraso lo que es típico del aprendizaje bilingüe; contando los dos, el vocabulario cae dentro del rango de los monolingües ([Genesee 2008](https://www.psych.mcgill.ca/perpg/fac/genesee/Dual%20Language%20Development%20in%20Preschool%20Children%202008.pdf)). Es de suponer que los hitos y las señales de cuándo consultar sean los mismos que para cualquier chico (inferencia nuestra) ([señales de alarma](../Desarrollo/senales-de-alarma.md)). Ante una duda real sobre el lenguaje, se consulta al pediatra.
 
 
+## Lo que se sabe de escuelas con castellano como lengua mayoritaria
+
+Hay poco, y no es de Argentina ni de nivel inicial. El único estudio que se encontró evalúa un programa de escuelas primarias públicas de la Comunidad de Madrid (España), donde desde 2004 materias como Ciencias, Historia y Geografía se dan en inglés y Lengua y Matemática, solo en castellano (Anghel, Cabrales y Carro, documento de trabajo de la Universidad Carlos III, 2012; leído según su resumen). Con la prueba estandarizada de 6.º grado, halló «un efecto negativo claro» en el aprendizaje de la materia dada en inglés en chicos de padres con menos que secundaria completa, y «ningún efecto claro para nadie» en matemática y lectura, que se enseñaron en castellano (en el original: "a clear negative effect on learning the subject taught in English for children whose parents have less than upper secondary education, and no clear effect for anyone on mathematical and reading skills, which were taught in Spanish"). Los propios autores dicen que las escuelas y las familias se autoseleccionan y que lo controlaron con varias vías: es un estudio observacional.
+
+Sobre las escuelas bilingües argentinas hay una descripción, no una medición: una página de ASCD (sin autor) resume un trabajo de Banfi y Day de 2004, que cuenta que nacieron en el siglo XIX como escuelas para comunidades inmigrantes y que hoy son «muy diversas», aunque se perciba al sistema como homogéneo (según un extracto; sin datos de resultados ni de horas en inglés). Que una escuela argentina da los resultados de uno u otro modelo no está medido en lo que se leyó.
+
 > [!NOTE]
-> Sin fuente todavía: estudios de programas bilingües con castellano como lengua mayoritaria, y una fuente primaria leída sobre aprender a leer en dos idiomas (hay un estudio de 2026 con chicos de inmersión inglés-castellano que no se leyó, [doi 10.1037/edu0001100](https://doi.org/10.1037/edu0001100)).
+> Sin fuente todavía: estudios de programas bilingües de nivel inicial con castellano como lengua mayoritaria, en Argentina o en América Latina, y una fuente primaria leída sobre aprender a leer en dos idiomas (hay un estudio de 2026 en programas de inmersión de Estados Unidos, [doi 10.1037/edu0001100](https://doi.org/10.1037/edu0001100), cuyo texto no se pudo abrir).
 
 Elegir la escuela en sí está en [elegir escuela](elegir-escuela.md).
