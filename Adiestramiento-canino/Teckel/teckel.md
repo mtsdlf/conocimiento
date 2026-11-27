@@ -29,7 +29,7 @@ Dentro del [adiestramiento canino](../adiestramiento-canino.md), el teckel no ca
 
 El estándar de la FCI (N° 148) lo clasifica como "Hunting dog, above and below ground", con Alemania como país de origen. Su resumen histórico dice: "The Dachshund, also called Dackel or Teckel, has been known since the Middle Ages. From the Bracken, dogs especially suitable for hunting below ground were consistently bred." El club más antiguo es el Deutsche Teckelklub, fundado en 1888.
 
-El estándar no nombra al tejón. Lo hace Britannica, según el resumen del buscador: la raza se habría desarrollado en Alemania para seguir tejones hasta su madriguera, y su nombre significaría "badger dog". La fecha de origen discrepa entre fuentes de divulgación y no hay una canónica.
+El estándar no nombra al tejón. Lo hace Britannica, según el resumen del buscador: la raza se habría desarrollado en Alemania para seguir tejones hasta su madriguera, y su nombre significaría "badger dog". La fecha de origen discrepa entre fuentes de divulgación y no hay una canónica. Cómo se entrena hoy a un teckel para ese trabajo, y cómo se le da salida al instinto en casa, está en [caza y trabajo](../Caza-y-trabajo/caza-y-trabajo.md).
 
 ## Tres tamaños, tres pelos, nueve variedades
 
