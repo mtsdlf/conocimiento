@@ -54,7 +54,7 @@ Para quien tiene que dar una mala noticia, eso dice que la conversación es una 
 
 ## Lo que no está probado
 
-Hay tres ideas que circulan sin respaldo encontrado. Que resolver el problema juntos sea siempre el mejor estilo de conflicto no tiene un metaanálisis que lo pruebe, y lo cuenta [estilos de conflicto](estilos-de-conflicto.md). Que los cursos de *Crucial Conversations* suban los resultados de un equipo lo dice el proveedor del curso con sus propias encuestas. Y las cifras de predicción de Gottman, que vienen de parejas y no de trabajo, fallaron cuando se las probó en muestras nuevas, según la crítica de Heyman y Slep (2001) que está en [pareja](../../Desarrollo-personal/Relaciones/pareja.md#qué-queda-de-gottman).
+Hay tres ideas que circulan sin respaldo encontrado. Que resolver el problema juntos sea siempre el mejor estilo de conflicto no tiene un metaanálisis que lo pruebe, y lo cuenta [estilos de conflicto](estilos-de-conflicto.md). Que los cursos de *Crucial Conversations* suban los resultados de un equipo lo dice el proveedor del curso con sus propias encuestas. Y las cifras de predicción de Gottman, que vienen de parejas y no de trabajo, hay que leerlas con cautela porque no se validaron de forma cruzada, según la crítica de Heyman y Slep (2001) que está en [pareja](../../Desarrollo-personal/Relaciones/pareja.md#qué-queda-de-gottman).
 
 > [!NOTE] Sin fuente todavía: estudios de conversaciones difíciles entre socios o en empresas de pocas personas, y una evaluación independiente de cualquiera de los tres marcos de practicantes.
 

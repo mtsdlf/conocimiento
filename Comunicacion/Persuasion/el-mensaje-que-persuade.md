@@ -24,11 +24,11 @@ El mensaje que persuade es lo que la investigación sabe de cómo armar lo que s
 
 Es la parte práctica de [Persuasión](persuasion.md). Los [modelos de persuasión](modelos-de-persuasion.md) explican por qué estas variables pesan más o menos según cuánto piense el otro; las técnicas de pedido están en [principios de influencia](principios-de-influencia.md). Si convencer con un caso narrado o con datos está en [historia o argumento](../../Storytelling/Por-que-convence/historia-o-argumento.md), en Storytelling, y no se repite acá.
 
-Casi toda la evidencia viene de mensajes escritos o grabados, muchos de salud pública, y no de una conversación entre dos. Las cifras se leen como explica [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
+Buena parte de la evidencia que cita esta nota es de mensajes y de salud pública, no de una conversación entre dos (lectura de esta base). Las cifras se leen como explica [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
 
 ## Dos lados o uno: refutar la objeción
 
-Un mensaje de dos lados menciona los argumentos en contra; uno de un lado los calla. Allen (1991) metaanalizó la comparación y, según su abstract, halló un orden claro. El mensaje de dos lados con refutación supera al de un lado, y el de un lado supera al de dos lados sin refutación. Allen lo lee como coherente con la hipótesis del descuento y no con el [ELM](modelos-de-persuasion.md).
+Un mensaje de dos lados menciona los argumentos en contra; uno de un lado los calla. Allen (1991) metaanalizó la comparación y, según su abstract, halló un orden claro. El mensaje de dos lados con refutación supera al de un lado, y el de un lado supera al de dos lados sin refutación. Allen lo lee como coherente con la hipótesis del descuento (el oyente le resta peso a un mensaje que parece esconder algo) y no con el [ELM](modelos-de-persuasion.md); la glosa entre paréntesis es de esta base.
 
 O'Keefe (1999) volvió sobre la pregunta. Según un resumen secundario, reunió unos 107 estudios y 20.111 participantes, una cifra de un tercero que esta base no verificó. Su conclusión, según ese resumen, es que lo que importa es refutar, y que en publicidad casi no importa si el mensaje tiene uno o dos lados.
 
@@ -44,7 +44,7 @@ Mencionar la objeción y dejarla en pie es peor que no mencionarla. Esta es la r
 
 Una apelación al miedo muestra el daño de no hacer algo. Tannenbaum y colegas (2015) metaanalizaron 127 artículos con 248 muestras independientes y un N total de 27.372, según su abstract tal como lo devolvió el buscador. El efecto promedio sobre un índice de actitudes, intenciones y conducta fue «random-effects d = 0.29». Fue mayor cuanto más miedo daba el mensaje, cuando incluía afirmaciones de eficacia (que la acción recomendada sirve y la persona puede hacerla) y cuando la susceptibilidad y la gravedad eran altas.
 
-> [!WARNING] Los conteos de Tannenbaum et al. (2015) no coinciden entre fuentes: una versión dice 127 artículos y 248 muestras, otra 132 artículos y 278 muestras. Esta base no lo resolvió y usa la primera, que es la del abstract.
+> [!WARNING] Los conteos de Tannenbaum et al. (2015) no coinciden entre fuentes: una versión dice 127 artículos y 248 muestras, otra 132 artículos y 278 muestras. Esta base no lo resolvió y usa la primera, que es la que devolvió el buscador.
 
 Witte y Allen (2000), según un resumen, encontraron que los miedos fuertes elevan la gravedad y la susceptibilidad percibidas y persuaden más que los débiles. Las revisiones posteriores que se citan junto a ese trabajo dan efectos nulos (de Hoog y colegas, 2007) o negativos (Peters y colegas, 2012); esta base no las leyó.
 

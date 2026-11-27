@@ -25,7 +25,7 @@ Preguntar es la cara visible de la [escucha](escucha.md): una pregunta de seguim
 
 La investigación de referencia es de Huang, Yeomans, Brooks, Minson y Gino (2017). Según un resumen, en tres estudios de conversaciones en vivo, quienes hacían más preguntas le caían mejor a su interlocutor. El efecto venía de las preguntas de seguimiento, las que muestran que se atendió a lo dicho, y no de cualquier pregunta.
 
-Lo que explica el efecto es la responsividad (responsiveness): que el otro perciba que quien pregunta entendió, valoró y le importa lo que dijo. Es lo mismo que Kluger e Itzchakov llaman escucha de calidad, según el informe de esta base, y por eso las dos notas se leen juntas. En datos de citas rápidas, quienes hicieron más preguntas de seguimiento consiguieron más acuerdos para una segunda cita.
+Lo que explica el efecto es la responsividad (responsiveness): que el otro perciba que se atendió a lo que dijo. Es lo mismo que Kluger e Itzchakov llaman escucha de calidad, según el informe de esta base, y por eso las dos notas se leen juntas. En datos de citas rápidas, quienes hicieron más preguntas de seguimiento consiguieron más acuerdos para una segunda cita.
 
 Un ejemplo de esta base, porque el paper no se leyó: si alguien cuenta que un cliente se enojó, «¿y qué te dijo cuando le explicaste la demora?» es de seguimiento; «¿y cómo viene el resto de la semana?» cambia de tema.
 

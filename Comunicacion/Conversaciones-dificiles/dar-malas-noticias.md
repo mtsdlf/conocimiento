@@ -22,7 +22,7 @@ revisado:
 
 Dar una mala noticia es comunicarle a alguien algo que empeora su situación: un diagnóstico, un despido, un recorte. Medicina tiene un protocolo (SPIKES) y una revisión Cochrane que muestra que entrenar cambia lo que hace el profesional pero no la satisfacción del paciente; en el trabajo, la justicia organizacional muestra que pesan por separado la decisión, el proceso, el trato y la explicación.
 
-Las dos líneas no se citan entre sí y usan vocabularios distintos: medicina habla de protocolos y habilidades, el trabajo habla de justicia percibida. Esta nota las pone juntas porque quien despide a alguien tiene los dos problemas, cómo decirlo y si la decisión se ve justa. Es una de las situaciones de [Conversaciones difíciles](conversaciones-dificiles.md); cuándo y por qué se despide es de [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md), y cómo se comunica un recorte a toda la empresa, de [comunicar a toda la empresa](../Comunicacion-en-la-organizacion/comunicar-a-toda-la-empresa.md).
+Las dos líneas usan vocabularios distintos: medicina habla de protocolos y habilidades, el trabajo habla de justicia percibida. Esta nota las pone juntas porque quien despide a alguien tiene los dos problemas, cómo decirlo y si la decisión se ve justa. Es una de las situaciones de [Conversaciones difíciles](conversaciones-dificiles.md); cuándo y por qué se despide es de [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md), y cómo se comunica un recorte a toda la empresa, de [comunicar a toda la empresa](../Comunicacion-en-la-organizacion/comunicar-a-toda-la-empresa.md).
 
 ## SPIKES: el protocolo de medicina
 
@@ -64,9 +64,9 @@ La tercera columna es lectura de esta base sobre las dimensiones. Lo que dice es
 
 Greenberg (1990) midió el robo de empleados en plantas de manufactura donde se recortó el sueldo un 15 % de forma temporal. Según un resumen, el robo fue mayor durante el recorte que antes, después o en las plantas sin recorte. Donde la gerencia explicó las razones con cuidado y sensibilidad, el robo bajó junto con la sensación de injusticia.
 
-Es un solo estudio de campo con pocas plantas, y la investigación no buscó réplicas. Las tasas de robo no se obtuvieron. Aun así, es el ejemplo más citado de lo que cuesta no explicar una mala noticia.
+Es un solo estudio de campo con pocas plantas, y la investigación no buscó réplicas. Las tasas de robo no se obtuvieron. Aun así, es un ejemplo de lo que puede costar no explicar una mala noticia.
 
-Lo que no tiene base es envolver la mala noticia entre dos elogios, el sándwich. La búsqueda de evidencia en contra solo encontró un ensayo de 2024 con 30 estudiantes, cuyo resultado no se leyó. Qué se sabe del sándwich al dar feedback está en [dar feedback](../Feedback/dar-feedback.md).
+Envolver la mala noticia entre dos elogios, el sándwich, no tiene estudios en malas noticias: la búsqueda solo encontró un ensayo de 2024 con 30 estudiantes, cuyo resultado no se leyó, y al dar feedback hay un solo experimento con estudiantes y resultados que sus autores llaman parciales. Qué se sabe del sándwich al dar feedback está en [dar feedback](../Feedback/dar-feedback.md).
 
 ## Despidos: la justicia del proceso pesa para los que se van y los que se quedan
 

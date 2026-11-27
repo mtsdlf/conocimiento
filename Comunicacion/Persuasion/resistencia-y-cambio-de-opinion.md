@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Resistencia y cambio de opinión es lo que se sabe de por qué la gente rechaza un intento de convencerla y de qué la mueve igual. La reactancia y la inoculación explican la resistencia; el efecto rebote, que corregir un error lo refuerce, no se replicó; y los cambios durables medidos vienen de conversaciones largas y de reformular según los valores del otro, con efectos chicos.
+  Resistencia y cambio de opinión es lo que se sabe de por qué la gente rechaza un intento de convencerla y de qué la mueve igual. La reactancia y la inoculación explican la resistencia; el efecto rebote, que corregir un error lo refuerce, no se replicó; y los cambios durables medidos vienen de conversaciones cara a cara con una persona entrenada y de reformular según los valores del otro, con efectos chicos.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -22,7 +22,7 @@ revisado:
 
 # Resistencia y cambio de opinión
 
-Resistencia y cambio de opinión es lo que se sabe de por qué la gente rechaza un intento de convencerla y de qué la mueve igual. La reactancia y la inoculación explican la resistencia; el efecto rebote, que corregir un error lo refuerce, no se replicó; y los cambios durables medidos vienen de conversaciones largas y de reformular según los valores del otro, con efectos chicos.
+Resistencia y cambio de opinión es lo que se sabe de por qué la gente rechaza un intento de convencerla y de qué la mueve igual. La reactancia y la inoculación explican la resistencia; el efecto rebote, que corregir un error lo refuerce, no se replicó; y los cambios durables medidos vienen de conversaciones cara a cara con una persona entrenada y de reformular según los valores del otro, con efectos chicos.
 
 Son tres líneas de investigación separadas, no una teoría de la resistencia. Completan la vertical [Persuasión](persuasion.md): lo que se dice está en [el mensaje que persuade](el-mensaje-que-persuade.md), y las técnicas de pedido, en [principios de influencia](principios-de-influencia.md). Cuando la resistencia viene con enojo y mucho en juego, la conversación se vuelve una de las [conversaciones difíciles](../Conversaciones-dificiles/conversaciones-dificiles.md).
 
@@ -60,7 +60,7 @@ La conversación en profundidad (deep canvassing) es una charla de unos minutos,
 
 Kalla y Broockman (2020) hicieron tres experimentos de campo preregistrados, con 230 entrevistadores y 6.869 votantes en 7 lugares. Según su abstract, los argumentos solos no tuvieron efecto detectable. Con intercambio de relatos, el efecto duró al menos cuatro meses: d = 0.08 en el primer experimento, y 0.08 y 0.04 en los dos sobre transfobia.
 
-Esos efectos son chicos, y para lograrlos hace falta una persona entrenada y una conversación entera. El contraste es el metaanálisis de los mismos autores sobre campañas en elecciones generales, que la nota de entrada cuenta en [Persuasión](persuasion.md#casi-todo-mueve-poco-y-lo-publicado-exagera): ahí el contacto de campaña dio un efecto promedio de cero.
+Esos efectos son chicos, y para lograrlos hace falta una persona entrenada y una conversación de unos minutos. El contraste es el metaanálisis de los mismos autores sobre campañas en elecciones generales, que la nota de entrada cuenta en [Persuasión](persuasion.md#casi-todo-mueve-poco-y-lo-publicado-exagera): ahí el contacto de campaña dio un efecto promedio de cero.
 
 > [!NOTE] Sin fuente todavía: una réplica independiente de Broockman y Kalla (2016), y la entrevista motivacional (Miller y Rollnick), la práctica clínica más cercana a esta forma de conversar, que no se buscó.
 

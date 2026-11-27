@@ -28,7 +28,7 @@ Es la parte de [Escucha y conversación](escucha-y-conversacion.md) en la que un
 
 La asertividad tiene una relación en forma de U invertida con cómo se evalúa a un líder. Ames y Flynn (2007) hicieron tres estudios y, según un resumen, los líderes vistos como muy poco o como muy asertivos fueron evaluados como menos eficaces que los del medio. Quien se pasa daña las relaciones; quien se queda corto no logra sus metas.
 
-En uno de los estudios reunieron casi mil comentarios de colegas sobre gerentes. La asertividad fue la debilidad más mencionada, y el 48 % de esos comentarios decía «demasiado» y el resto, «poco». Los dos errores aparecen casi igual de seguido.
+En uno de los estudios reunieron casi mil comentarios de colegas. La asertividad fue la debilidad más mencionada, y el 48 % de esos comentarios decía «demasiado» y el resto, «poco». Los dos errores aparecen casi igual de seguido.
 
 Los propios autores advierten que de esto no sale «ser moderado siempre». Una lectura de esta base sobre por qué: el punto justo depende de lo que está en juego y de con quién, y el estudio mide cómo se juzga a alguien en promedio, no qué conviene en una conversación concreta.
 
@@ -40,7 +40,7 @@ Ames, Lee y Wazlawek (2017) ordenaron, según un resumen, por qué la gente empu
 
 La gente subestima cuánto le van a aceptar un pedido directo. Flynn y Lake (2008), según una nota de Stanford, encontraron en estudios en un campus que la gente sobreestimaba en «about 50%» cuántas personas tenía que abordar para conseguir ayuda. Con voluntarios que recaudaban fondos para una fundación contra la leucemia, predijeron que necesitarían alrededor de 50 % más gente de la que hizo falta y subestimaron la donación promedio en 17 dólares. La nota no informa tamaños de muestra.
 
-Parte del error viene de no ponerse en el lugar del otro. Quien puede ayudar siente que decir que no es más difícil de lo que cree quien pide, según el mismo trabajo. Bohns y Flynn (2010), en cuatro estudios y según un resumen, encontraron el error inverso: quienes pueden ayudar subestiman cuánta vergüenza le da al otro pedir. Cada lado juzga mal la situación del otro.
+Quien puede ayudar siente que decir que no es más difícil de lo que cree quien pide, según el mismo trabajo. Bohns y Flynn (2010), en cuatro estudios y según un resumen, encontraron que quienes pueden ayudar subestiman el papel de la vergüenza en la decisión de pedir ayuda. Una lectura de esta base: parte del error es no ponerse en el lugar del otro, y cada lado juzga mal la situación del otro.
 
 Es el mismo error que cruza todo el tema: [quien habla se equivoca sobre cómo lo reciben](../comunicacion.md#quien-habla-se-equivoca-sobre-cómo-lo-reciben). En [preguntar](preguntar.md) aparece igual: quien pregunta no anticipa que cae mejor.
 

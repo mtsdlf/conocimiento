@@ -41,7 +41,7 @@ Kluger y DeNisi también predicen que quien tiene baja autoestima y mucha ansied
 
 ## Pedir consejo en lugar de feedback
 
-Pedir «consejo» en lugar de «feedback» consigue comentarios más concretos, según un experimento de campo y dos de laboratorio. La investigación circula citada como «Yoon, Blunden, Kristal y Whillans (2019)», pero ese es un artículo de divulgación de los mismos autores en Harvard Business Review. El trabajo arbitrado es de Blunden, Kristal, Whillans, Yoon y otros en Management Science, con fecha sin resolver entre 2025 y 2026, y antes fue un documento de trabajo de Harvard Business School (2019). No existe un artículo con ese título en otra revista.
+Pedir «consejo» en lugar de «feedback» consigue comentarios más concretos, según un experimento de campo y dos de laboratorio. La investigación circula citada como «Yoon, Blunden, Kristal y Whillans (2019)», pero ese es un artículo de divulgación de los mismos autores en Harvard Business Review. El trabajo arbitrado es de Blunden, Kristal, Whillans, Yoon y otros en Management Science, con fecha sin resolver entre 2025 y 2026, y antes fue un documento de trabajo de Harvard Business School (2019). El informe no encontró un artículo con ese título en OBHDP, la revista a la que se lo atribuía.
 
 Según el abstract del artículo arbitrado, en un experimento de campo preregistrado con 27.432 comentarios y dos de laboratorio con 806 personas, quienes recibieron el pedido de «advice» dieron un input «more concrete and actionable» que quienes recibieron el de «feedback». El efecto pasó por que quien opinaba miraba hacia adelante, y jueces independientes calificaron esos comentarios como más útiles.
 
@@ -53,7 +53,7 @@ Lo que se midió es qué tan concreto y útil es el comentario, no si quien pidi
 
 La gente subestima cuánto quiere el otro que le avisen. Abi-Esber, Abel, Schroeder y Gino (2022), según su abstract, partieron de un estudio piloto de campo: solo el 2,6 % de las personas le avisó a una encuestadora que tenía comida o lápiz labial en la cara. En cinco experimentos (N = 1.984), quienes podían avisar subestimaron sobre todo cuánto valoraba el aviso quien lo recibía.
 
-Ponerse en el lugar del receptor fue la intervención que más aumentó los avisos. En un concurso de oratoria con incentivo, «giving less constructive feedback resulted in less improvement» en quienes lo recibían. Del lado de quien da, la consecuencia es la misma que en [dar feedback](dar-feedback.md): callar no protege al otro.
+En uno de los experimentos (el cuarto), ponerse en el lugar del receptor fue la intervención más efectiva. En un concurso de oratoria con incentivo, «giving less constructive feedback resulted in less improvement» en quienes lo recibían. Del lado de quien da, la consecuencia es la misma que en [dar feedback](dar-feedback.md): callar no protege al otro.
 
 > [!WARNING]
 > Francesca Gino es coautora de este trabajo, y datos de otros trabajos suyos fueron cuestionados. Las otras autoras publicaron una auditoría en 2023 que dice que Gino «was not involved in collecting or analyzing the data», que se encontraron los datos de todos los estudios y que no surgió nada que cambie la interpretación. La auditoría es de las propias autoras, no independiente, y su tabla de procedencia tiene celdas sin dato. No se halló una réplica independiente: el resultado se toma como no replicado.
@@ -62,7 +62,7 @@ Esta base no leyó qué tipo de muestra tuvo cada experimento.
 
 ## Los tres gatillos de Stone y Heen
 
-*Thanks for the Feedback*, de Douglas Stone y Sheila Heen (2014), es el libro de practicantes más citado sobre recibir feedback. Viene de la tradición del Harvard Negotiation Project y no tiene estudio propio; esta base leyó una reseña, no el libro. Según la reseña, tres gatillos bloquean el feedback:
+*Thanks for the Feedback*, de Douglas Stone y Sheila Heen (2014), es un libro de practicantes sobre recibir feedback. Viene de la tradición del Harvard Negotiation Project y no tiene estudio propio; esta base leyó una reseña, no el libro. Según la reseña, tres gatillos bloquean el feedback:
 
 | Gatillo | Qué lo dispara | Lo que piensa quien recibe |
 |---|---|---|
@@ -70,7 +70,7 @@ Esta base no leyó qué tipo de muestra tuvo cada experimento.
 | De relación | Quién lo dice | Que el otro no tiene autoridad o no es justo |
 | De identidad | Lo que el mensaje dice de uno | Que es un veredicto sobre su valor |
 
-El de identidad se parece a la amenaza al yo de Kluger y DeNisi, pero «gatillo» es la etiqueta del libro y no un concepto de la investigación. La reseña cita cifras sobre evaluaciones injustas y gerentes sin coraje sin decir de dónde salen, así que no se usan acá.
+Las frases de la última columna son de esta base, salvo «Yo no hago eso». El de identidad se parece a la amenaza al yo de Kluger y DeNisi, pero «gatillo» es la etiqueta del libro y no un concepto de la investigación. La reseña cita cifras sobre evaluaciones injustas y gerentes sin coraje sin decir de dónde salen, así que no se usan acá.
 
 ## Cómo pedir y recibir feedback
 

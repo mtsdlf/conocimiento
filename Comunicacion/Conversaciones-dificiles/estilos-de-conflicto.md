@@ -41,12 +41,12 @@ La medida con fuente es la de De Dreu, Evers, Beersma, Kluwer y Nauta (2001). Se
 
 ## Lo que no se confirmó: que resolver el problema rinda más
 
-La recomendación más repetida del campo y de los practicantes es que resolver el problema juntos es el mejor estilo. La investigación para esta base buscó un metaanálisis de estilos de conflicto contra desempeño o satisfacción y no lo encontró. La afirmación queda como práctica, o como resultado de fuentes que no se abrieron.
+La recomendación habitual de los practicantes es que resolver el problema juntos es el mejor estilo. La investigación para esta base buscó un metaanálisis de estilos de conflicto contra desempeño o satisfacción y no lo encontró. La afirmación queda como práctica, o como resultado de fuentes que no se abrieron.
 
 Lo que sí apareció es un metaanálisis de estilos y personalidad, de Tehrani y Yamini (2020), con 20 estudios y 5.337 personas. Según un resumen, el neuroticismo y la amabilidad se asociaron con evitar; la amabilidad, la extraversión, la apertura y la responsabilidad, con transigir e integrar; y el neuroticismo, de forma negativa, con integrar. Dice quién tiende a cada estilo, no cuál funciona.
 
 > [!IMPORTANT]
-> **Resolver el problema es el mejor estilo (la recomendación habitual).** La sostienen los practicantes y buena parte de los manuales del campo; esta base no leyó a esos autores.
+> **Resolver el problema es el mejor estilo (la recomendación habitual).** La sostienen los practicantes; esta base no leyó a esos autores.
 >
 > **No hay evidencia de que lo sea en general (lo que encontró esta base).** No apareció un metaanálisis con tamaños de efecto de estilo contra resultado. Lo que hay mide quién usa cada estilo y cómo se mide el estilo.
 >
@@ -64,11 +64,11 @@ La ficha técnica es del propio proveedor del inventario. La investigación no e
 
 Las ideas de John Gottman sobre el conflicto, como los «cuatro jinetes» (criticar, despreciar, ponerse a la defensiva y encerrarse en el silencio), circulan también fuera de la pareja. Vienen de estudios con parejas casadas, no de relaciones de trabajo. La lista de los cuatro jinetes la investigación la leyó solo en un resumen secundario, no en el artículo de 1998.
 
-El proveedor de Gottman da un 93,6 % de acierto al predecir divorcios, cifra que su propio sitio reconoce confusa y que se obtuvo en parte con análisis hechos después de ver los datos. Heyman y Slep (2001) sostienen que sin validación cruzada esos resultados se interpretan con «extrema cautela». Lo que queda de Gottman en su contexto, y cómo cayó la predicción en una muestra nueva, está en [pareja](../../Desarrollo-personal/Relaciones/pareja.md#qué-queda-de-gottman). Usarlo para un socio o un compañero es extrapolar de otro tipo de relación.
+El proveedor de Gottman da un 93,6 % de acierto al predecir divorcios, cifra que su propio sitio reconoce confusa y que se obtuvo en parte con análisis hechos después de ver los datos. Heyman y Slep (2001) sostienen que sin validación cruzada esos resultados se interpretan con «extrema cautela». Lo que queda de Gottman en su contexto, y qué se dice de la validación cruzada, está en [pareja](../../Desarrollo-personal/Relaciones/pareja.md#qué-queda-de-gottman). Usarlo para un socio o un compañero es extrapolar de otro tipo de relación.
 
 ## Bajar la emoción antes de hablar
 
-Un conflicto se maneja peor con la emoción alta, y lo que se sabe de bajarla viene de laboratorio. El metaanálisis de Webb, Miles y Sheeran (2012), con 306 comparaciones experimentales, encontró que la toma de perspectiva (mirar la situación desde otro lugar) tuvo d+ = 0,45, la más alta de las estrategias. Reevaluar la propia respuesta tuvo 0,23 y la concentración, −0,26. La tabla completa y su lectura están en [regulación emocional](../../Psicologia/Motivacion-y-emocion/regulacion-emocional.md#qué-estrategias-funcionan-según-el-metaanálisis-experimental).
+Un conflicto se maneja peor con la emoción alta, y lo que se sabe de bajarla viene de laboratorio. El metaanálisis de Webb, Miles y Sheeran (2012), con 306 comparaciones experimentales, encontró que la toma de perspectiva (mirar la situación desde otro lugar) tuvo d+ = 0,45, la más alta de las cinco estrategias que esta base tiene del abstract. Reevaluar la propia respuesta tuvo 0,23 y la concentración, −0,26. La tabla completa y su lectura están en [regulación emocional](../../Psicologia/Motivacion-y-emocion/regulacion-emocional.md#qué-estrategias-funcionan-según-el-metaanálisis-experimental).
 
 Son efectos sobre la emoción medida en laboratorio, no sobre una discusión real con alguien. Que mirar el asunto desde el lugar del otro antes de una conversación difícil ayude a conducirla es inferencia de esta base. Juzgar la conducta del otro por cómo es y no por su situación es el sesgo que estudia la [atribución](../../Psicologia/Cognicion-social/atribucion.md), y la toma de perspectiva va en sentido contrario.
 
@@ -77,5 +77,5 @@ Son efectos sobre la emoción medida en laboratorio, no sobre una discusión rea
 1. **Mirá qué estilo usás por costumbre, no cuál es el mejor.** El modelo sirve para notar la costumbre; que un estilo rinda más no está probado (De Dreu y colegas, 2001; la búsqueda sin metaanálisis de resultados).
 2. **Elegí el estilo según lo que está en juego para cada uno.** Es práctica y lectura de esta base sobre el modelo de doble preocupación.
 3. **No tomes un puntaje de inventario como diagnóstico.** La validación del TKI es del proveedor y sus puntajes son relativos.
-4. **Antes de una conversación tensa, pensala desde el lugar del otro.** La toma de perspectiva tuvo el efecto más alto en el metaanálisis de laboratorio de Webb y colegas (2012); el traslado a una conversación es inferencia.
-5. **Si un socio te cita los cuatro jinetes, tomalos como descripción, no como predicción.** Las cifras de predicción no resistieron la validación cruzada (Heyman y Slep, 2001), y son de parejas.
+4. **Antes de una conversación tensa, pensala desde el lugar del otro.** La toma de perspectiva tuvo el efecto más alto de las cinco que esta base tiene en el metaanálisis de laboratorio de Webb y colegas (2012); el traslado a una conversación es inferencia.
+5. **Si un socio te cita los cuatro jinetes, tomalos como descripción, no como predicción.** Las cifras de predicción hay que leerlas con cautela porque no se validaron de forma cruzada (Heyman y Slep, 2001), y son de parejas.

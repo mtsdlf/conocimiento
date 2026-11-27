@@ -25,13 +25,13 @@ Es la parte de [Escritura en el trabajo](escritura-en-el-trabajo.md) que se escr
 
 ## Quien escribe oye su propio tono
 
-El problema central de un mail es que el tono no viaja con el texto. Kruger, Epley, Parker y Ng (2005), según su abstract, hicieron cinco experimentos y concluyen que «people tend to believe that they can communicate over e-mail more effectively than they actually can». Los estudios 4 y 5 indican que «this overconfidence is born of egocentrism»: quien escribe «oye» el mensaje con la intención que tuvo, sea sarcasmo, humor o enojo, y le cuesta ver que el lector no la tiene.
+El problema central de un mail es que el tono no viaja con el texto. Kruger, Epley, Parker y Ng (2005), según su abstract, hicieron cinco experimentos y concluyen que «people tend to believe that they can communicate over e-mail more effectively than they actually can». Los estudios 4 y 5 indican que «this overconfidence is born of egocentrism»: quien escribe «oye» el mensaje con la intención que tuvo, sea sarcasmo o humor, y le cuesta ver que el lector no la tiene.
 
 Un ejemplo de esta base: «Genial, otra vez cambiaron el alcance» puede ser una broma para quien lo escribe y un reproche para quien lo lee. Las cifras del estudio no están en el abstract y no se citan.
 
 Es un caso del error que cruza el tema: [quien habla se equivoca sobre cómo lo reciben](../comunicacion.md#quien-habla-se-equivoca-sobre-cómo-lo-reciben). Del lado de quien lee, un tono que suena hostil puede terminar atribuido a cómo es quien escribe y no a un mensaje apurado; es la tendencia que explica [atribución](../../Psicologia/Cognicion-social/atribucion.md#el-sesgo-de-correspondencia-y-sus-cuatro-causas). Unir los dos fenómenos es inferencia de esta base: ningún estudio leído midió la atribución en mails.
 
-## Los emojis suben la calidez y bajan la competencia
+## Los emojis bajan la competencia percibida; la calidez está en disputa
 
 Glikson, Cheshin y van Kleef (2018), según su abstract, hicieron tres experimentos de primeras impresiones en mensajes de trabajo. Encontraron que «smileys do not increase perceptions of warmth and actually decrease perceptions of competence», y que esa baja de competencia hizo que la gente compartiera menos información con quien escribía. Según los autores, el efecto dependía de qué tan formal era el contexto.
 
@@ -48,7 +48,7 @@ Los dos estudios son de primeras impresiones con desconocidos. Lectura de esta b
 
 ## Esperar respuesta rápida interrumpe a quien lee
 
-Un mensaje que espera respuesta en el momento corta lo que el otro estaba haciendo. Mark, Gudith y Klocke (2008) interrumpieron por teléfono o por mensajería instantánea a 48 personas, el 81 % estudiantes universitarios alemanes, mientras hacían una tarea. Según el texto completo, «people completed interrupted tasks in less time with no difference in quality», pero compensaban trabajando más rápido, y eso tenía un precio: «more stress, higher frustration, time pressure and effort». El tipo de interrupción no cambió el resultado, y la apertura a la experiencia y la necesidad de estructura personal predecían cuánto costaba.
+Un mensaje que espera respuesta en el momento corta lo que el otro estaba haciendo. Mark, Gudith y Klocke (2008) interrumpieron por teléfono o por mensajería instantánea a 48 personas, el 81 % estudiantes universitarios alemanes, mientras hacían una tarea. Según el texto completo, «people completed interrupted tasks in less time with no difference in quality», pero compensaban trabajando más rápido, y eso tenía un precio: «more stress, higher frustration, time pressure and effort». El contexto de la interrupción no cambió el resultado, y la apertura a la experiencia y la necesidad de estructura personal predecían cuánto costaba.
 
 Lo que cuesta interrumpirse del lado de quien recibe está en [trabajo profundo](../../Desarrollo-personal/Efectividad-personal/trabajo-profundo.md#las-interrupciones-se-pagan-con-estrés), y lo que eso cambia al elegir un canal, en [elegir el canal](../Comunicacion-en-la-organizacion/elegir-el-canal.md#lo-que-cuesta-un-canal-que-interrumpe). La cifra que circula de unos 23 minutos para volver a la tarea no está en este artículo: el informe de esta base la buscó en el texto y no aparece.
 

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Negociar el sueldo es discutir el pago y las condiciones propias, al recibir una oferta de trabajo o al pedir un aumento. En los estudios encontrados, quien negocia la oferta de entrada gana más, y la diferencia entre varones y mujeres en negociar es chica y depende del contexto: se achica cuando se conoce el rango.
+  Negociar el sueldo es discutir el pago y las condiciones propias, al recibir una oferta de trabajo o al pedir un aumento. En los estudios encontrados, quien negocia la oferta de entrada gana más, y la diferencia entre varones y mujeres en iniciar una negociación es chica, y la de resultados depende del contexto: se achica cuando se conoce el rango.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -20,7 +20,7 @@ revisado:
 
 # Negociar el sueldo
 
-Negociar el sueldo es discutir el pago y las condiciones propias, al recibir una oferta de trabajo o al pedir un aumento. En los estudios encontrados, quien negocia la oferta de entrada gana más, y la diferencia entre varones y mujeres en negociar es chica y depende del contexto: se achica cuando se conoce el rango.
+Negociar el sueldo es discutir el pago y las condiciones propias, al recibir una oferta de trabajo o al pedir un aumento. En los estudios encontrados, quien negocia la oferta de entrada gana más, y la diferencia entre varones y mujeres en iniciar una negociación es chica, y la de resultados depende del contexto: se achica cuando se conoce el rango.
 
 Es la [negociación](negociacion.md) más común en la vida de una persona, y la que tiene la MAAN más concreta: la otra oferta, o quedarse donde está. Lo que se muestra antes de llegar a esta conversación (el CV, el portfolio) es de [presentación profesional](../../Presentacion-profesional/presentacion-profesional.md), que deja afuera la negociación de la oferta. El lado de quien paga, con los incentivos y la transparencia, está en [compensación e incentivos](../../Liderazgo-y-direccion/Gestion-de-personas/compensacion-e-incentivos.md).
 
@@ -28,9 +28,9 @@ Es la [negociación](negociacion.md) más común en la vida de una persona, y la
 
 Marks y Harold (2011) siguieron a 149 recién contratados. Según un resumen de su abstract, quienes negociaron ganaron «about $5,000» más en promedio. Les fue mejor a quienes usaron estrategias colaborativas o competitivas y hablaron abiertamente de posiciones e intereses que a quienes buscaron un punto medio o se acomodaron. La aversión al riesgo y las actitudes integrativas predijeron si alguien negociaba y cómo.
 
-Gerhart y Rynes (1991) estudiaron a 205 egresados de un MBA. Según un resumen de su abstract, las mujeres no negociaron menos que los varones, pero sacaron menos de negociar: «a 4.3% increment for men versus 2.7% for women». La cifra viene de un resumen y no está cotejada con el artículo.
+Gerhart y Rynes (1991) estudiaron a 205 egresados de un MBA. Según un resumen de su abstract, las mujeres no negociaron menos que los varones, pero sacaron menos de negociar: un aumento de 4,3 % para los varones frente a 2,7 % para las mujeres. La cifra viene de un resumen y no está cotejada con el artículo.
 
-Los dos son estudios de una sola muestra, de Estados Unidos y con correlaciones: quien negocia puede ser distinto de quien no, en algo que también le sube el sueldo. Que negociar cause el aumento es la lectura más simple, no una prueba (lectura de esta base).
+El informe no trae el diseño de estos dos estudios. Si fueran observacionales, quien negocia puede ser distinto de quien no, en algo que también le sube el sueldo, y que negociar cause el aumento sería la lectura más simple, no una prueba (lectura de esta base).
 
 ## Cuánta gente pide más
 
@@ -65,7 +65,7 @@ La misma reacción adversa aparece con otra variable. Según la divulgación de 
 
 ## La transparencia salarial achica la brecha mejor que entrenar a las mujeres
 
-Recalde y Vesterlund (2020) revisaron qué reduce la diferencia. Según su abstract, las políticas de «fix-the-women» (enseñarles a negociar) enfrentan «serious challenges», y funcionan mejor las institucionales. La evidencia más fuerte es para las que aumentan la transparencia, y las prohibiciones de preguntar el sueldo anterior no tuvieron los daños que se temían. Coincide con Mazei y colegas: conocer el rango achica la brecha.
+Recalde y Vesterlund (2020) revisaron qué reduce la diferencia. Según su abstract, las políticas de «fix-the-women» (las que apuntan a cambiar a las mujeres) enfrentan «serious challenges», y funcionan mejor las institucionales. La evidencia más fuerte es para las que aumentan la transparencia, y las prohibiciones de preguntar el sueldo anterior no tuvieron los daños que se temían. Coincide con Mazei y colegas: conocer el rango achica la brecha.
 
 [Compensación e incentivos](../../Liderazgo-y-direccion/Gestion-de-personas/compensacion-e-incentivos.md#transparencia-entre-colegas-comprime-entre-niveles-motiva) agrega un matiz desde quien paga. Según Cullen (2024), la transparencia entre colegas del mismo puesto achicó las brechas pero llevó a los empleadores a negociar más duro y bajó los sueldos promedio. Una lectura de esta base que junta las dos: conocer el rango ayuda a quien negocia, pero publicar todos los sueldos no garantiza que suban.
 
@@ -82,6 +82,6 @@ Cada paso dice de dónde sale. Ningún estudio de los leídos probó cómo justi
 3. Negociá la oferta de entrada; quienes lo hicieron ganaron más en Marks y Harold (2011) y dos de cada tres que pidieron obtuvieron algo en Pew (2023).
 4. Hablá abiertamente de lo que pedís y de por qué, y no busques el punto medio de entrada: es lo que hicieron mejor en Marks y Harold (2011).
 5. Negociá más que el monto (fecha de revisión, horas, trabajo remoto, título); es la lógica del intercambio entre temas de [negociación integrativa](negociacion-integrativa.md) (práctica).
-6. Si el número lo dice la empresa primero, no contestes sin pensar en tu meta y en tu alternativa; es la defensa contra el ancla de [primera oferta y concesiones](primera-oferta-y-concesiones.md).
+6. Si te preguntan cuánto pretendés y conocés el rango, podés decir vos el primer número; lo que dice la evidencia sobre ofrecer primero está en [primera oferta y concesiones](primera-oferta-y-concesiones.md), y ningún estudio de esta base lo midió en sueldos. Si el número lo dice la empresa primero, no contestes sin pensar en tu meta y en tu alternativa; es la defensa contra el ancla de [primera oferta y concesiones](primera-oferta-y-concesiones.md).
 7. Si te incomoda pedir para vos, pensá que negociás también para quien depende de tu ingreso; negociar en nombre de otro achicó la diferencia en Mazei y colegas (2015), y aplicarlo a uno mismo es una inferencia de esta base. Cómo pedir sin pelear está en [asertividad](../Escucha-y-conversacion/asertividad.md).
 8. Justificá el pedido con lo que aportás y con el rango del mercado, no con lo que necesitás (práctica; no hay estudio en esta base).

@@ -42,7 +42,7 @@ La vertical tiene pocos experimentos, casi todos conocidos por su abstract, y un
 | El pedido va en la primera oración y el asunto dice qué se pide | Guías de estilo y la pirámide de Minto, sin experimento que lo mida | [Pirámide y SCQA](../../Storytelling/Estructuras/piramide-y-scqa.md#qué-dice-la-evidencia-sobre-la-respuesta-primero) |
 | Hay que escribir para lectores ocupados con unos pocos principios | Un libro de dos científicos del comportamiento que esta base no leyó | [Mensajes escritos](mensajes-escritos.md) |
 
-El efecto de campo más grande que encontró la investigación es el de las notificaciones de ausentismo: 0,07 días menos de faltas, que los autores estiman en una mejora del 40 %. Cómo leer una cifra así, y por qué un documento de trabajo sin revisión pesa menos, está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md). Ese experimento no aísla el lenguaje simple, porque cambió también el tono y el contenido.
+Uno de los pocos experimentos de campo que encontró la investigación es el de las notificaciones de ausentismo: 0,07 días menos de faltas, que los autores estiman en una mejora del 40 %. Cómo leer una cifra así, y por qué un documento de trabajo sin revisión pesa menos, está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md). Ese experimento no aísla el lenguaje simple, porque cambió también el tono y el contenido.
 
 Nada de lo leído se estudió en empresas chicas. Los experimentos de Kruger y de Oppenheimer son de laboratorio, con participantes que los abstracts no describen en detalle, los de emojis son de primeras impresiones entre desconocidos, y el de campo es de avisos de ausentismo escolar enviados a familias.
 

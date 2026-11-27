@@ -117,7 +117,7 @@ Lo usa [Escritura en el trabajo](../Escritura-en-el-trabajo/escritura-en-el-trab
 
 | Obra | Qué leer y en qué fijarse | Leído |
 |---|---|---|
-| Guía de lenguaje claro de digital.gov | Qué es y cómo se hace, por temas; gratis | Entero, por un extractor |
+| Guía de lenguaje claro de digital.gov | Qué es y cómo se hace, por temas; gratis | Lo que devolvió el lector, resumido |
 | ISO 24495-1:2023, *Plain language* | La norma de lenguaje claro; hay que comprarla | No |
 | Oppenheimer, *Applied Cognitive Psychology*, 2006 | Los cinco experimentos; habla de cómo se juzga al autor, no de cuánto se entiende | Abstract |
 | Kruger, Epley, Parker y Ng, *JPSP*, 2005 | Por qué quien escribe cree que su tono se entiende | Abstract |

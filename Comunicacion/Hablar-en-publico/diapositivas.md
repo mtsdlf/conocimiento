@@ -33,11 +33,11 @@ Esos estudios son de lecciones de minutos con una prueba de lo aprendido. Quien 
 
 Resaltar lo esencial (con una flecha, un color, un título que dice qué mirar) mejora el aprendizaje. Según un resumen del metaanálisis de Alpizar, Adesope y Wong (2020), el efecto global fue «d = .38», con 44 tamaños de efecto de 29 estudios y 2.726 participantes. Es un efecto chico a moderado, en material de aprendizaje.
 
-La mediana que da Mayer para la señalización, en los tests de su grupo, es 0,70, según [principios multimedia](../../Diseno-instruccional/Materiales-y-carga-cognitiva/principios-multimedia.md#los-nueve-principios-y-su-evidencia). El metaanálisis da casi la mitad. Una lectura de esta base: como pasa con el efecto global de los principios, la cifra de otros equipos es más chica que la del grupo que los propuso.
+La mediana que da Mayer para la señalización, en los tests de su grupo, es 0,70, según [principios multimedia](../../Diseno-instruccional/Materiales-y-carga-cognitiva/principios-multimedia.md#los-nueve-principios-y-su-evidencia). El metaanálisis da algo más de la mitad. Una lectura de esta base: como pasa con el efecto global de los principios, la cifra de otros equipos es más chica que la del grupo que los propuso.
 
 ## Lo que distrae y lo que se repite
 
-Las imágenes o datos interesantes pero ajenos al punto (los detalles seductores) suelen restar. Existe un metaanálisis del efecto (Rey, 2012), del que esta base vio solo el título. Dos experimentos chicos, según sus abstracts, apuntan en la misma dirección y marcan un límite:
+Las imágenes o datos interesantes pero ajenos al punto (los detalles seductores) pueden restar. Existe un metaanálisis del efecto (Rey, 2012), del que esta base vio solo el título. Dos experimentos chicos, según sus abstracts, apuntan en la misma dirección y marcan un límite:
 
 - En una escuela de China, 78 alumnos que estudiaron sin detalles seductores recordaron más ideas principales (Wang y Adesope, 2014).
 - En clases de matemática por videoconferencia, con 156 y 163 alumnos, los gráficos seductores perjudicaron a los principiantes, y esa desventaja «disappeared in advanced students» (Zambrano et al., 2024).
@@ -65,5 +65,5 @@ Los estudios de diapositivas miden comprensión, recuerdo y carga cognitiva perc
 1. Escribí el título de cada diapositiva como una oración que afirma algo, y poné abajo lo que lo prueba (Garner y Alley 2013, que prueba el paquete entero, no esta pieza sola).
 2. Sacá las imágenes y los datos que son lindos pero no sostienen el punto, sobre todo si el público no conoce el tema (detalles seductores: Wang y Adesope 2014; Zambrano et al. 2024).
 3. Marcá qué mirar en cada gráfico o tabla, con una flecha, un color o el título (señalización: Alpizar et al. 2020).
-4. Evitá poner en pantalla, palabra por palabra, lo que vas a decir. Pesa menos que los pasos anteriores: el principio de redundancia tiene la mediana más chica de los de Mayer, 0,10 ([principios multimedia](../../Diseno-instruccional/Materiales-y-carga-cognitiva/principios-multimedia.md#los-nueve-principios-y-su-evidencia)).
+4. Evitá poner en pantalla, palabra por palabra, lo que vas a decir. Según esta base, pesa menos que los pasos anteriores: el principio de redundancia tiene la mediana más chica de los de Mayer, 0,10 ([principios multimedia](../../Diseno-instruccional/Materiales-y-carga-cognitiva/principios-multimedia.md#los-nueve-principios-y-su-evidencia)).
 5. Si la presentación es para decidir algo, considerá mandar un memo corto antes en vez de diapositivas (práctica, sin comparación controlada: [presentar ideas](../../Storytelling/Usos/presentar-ideas.md#un-memo-corto-antes-de-la-reunión)).

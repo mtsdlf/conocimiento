@@ -43,7 +43,7 @@ El efecto desapareció cuando quien recibía la oferta pensaba en la alternativa
 
 Orr y Guthrie (2005) hicieron un metaanálisis del anclaje en negociación en una revista de derecho; según el abstract, «anchoring has a significant impact on the deals that negotiators reach», y exploraron si la experiencia y la información disponible lo atenúan. El texto no se pudo bajar, y esta base no tiene sus k, r ni d. Ventas le atribuye, según su abstract, 19 efectos y un efecto de medio a grande; el abstract que encontró esta vertical no trae esos datos.
 
-La cifra más reciente es de un metaanálisis preregistrado de 2025 de Petrowsky, Loschelder y otros, que está con su fuente en [presentar el precio](../../Ventas/La-propuesta/presentar-el-precio.md#el-primer-número-que-ve-el-cliente): la ventaja de ofrecer primero es g = 0,42, y las ofertas ambiciosas traen más impasses y peor valoración de quien las recibe. El anclaje en general, fuera de la negociación, da efectos más grandes, pero no se trasladan a una mesa.
+La cifra más reciente es de un metaanálisis preregistrado de 2025 de Petrowsky, Loschelder y otros, que está con su fuente en [presentar el precio](../../Ventas/La-propuesta/presentar-el-precio.md#el-primer-número-que-ve-el-cliente): la ventaja de ofrecer primero es g = 0,42, y las ofertas ambiciosas traen más impasses y peor valoración de quien las recibe. Un preprint de 2022 sobre anclaje en general, fuera de la negociación, da g = 0,689 (k = 393), según un extractor; el informe avisa que no es cifra de negociación, y que no se traslade a una mesa es lectura de esta base.
 
 La revisión de Loschelder y Mason (2014) lo da por estable y replicado entre culturas y con negociadores de distinto poder y experiencia, según su abstract. Otra de 119 artículos (Lipp, Smolinski y Kesting 2022) dice que varios aspectos siguen sin estudio sistemático. No se encontró una réplica multisitio específica del anclaje por primera oferta.
 
@@ -51,9 +51,9 @@ La revisión de Loschelder y Mason (2014) lo da por estable y replicado entre cu
 
 Un número preciso (37.250) ancla más que uno redondo (37.000): lo dicen los títulos de Mason, Lee, Wiley y Ames (2013), «Precise offers are potent anchors», y de Loschelder y colegas (2014), «Precision Boosts the Anchoring Potency of First Offers», que esta base no leyó. Loschelder, Friese, Schaerer y Galinsky (2016) le pusieron un límite. Según su abstract, en «five experiments with 1,320 experts and amateurs», la precisión tuvo «positive linear effects for amateurs but inverted-U-shaped effects for experts». Con expertos, una oferta demasiado precisa empeora: el PON, que divulga el estudio, dice que ofertas con centavos «lowered their willingness to pay and counteroffers» en una muestra de «223 real estate agents averaging about 17 years of experience».
 
-El efecto negativo desapareció cuando quien ofrecía daba razones del número, y el PON recomienda, con expertos, «round up your offer unless you have a strong explanation for why it is precise».
+El efecto negativo desapareció cuando quien ofrecía daba razones del número, y el PON (Program on Negotiation, el centro de negociación de Harvard) recomienda, con expertos, «round up your offer unless you have a strong explanation for why it is precise».
 
-El efecto de precisión resistió las réplicas encontradas. Un estudio preregistrado de 2019 con 400 agentes inmobiliarios dice haberlo replicado, y que opera porque el que recibe le atribuye más competencia a quien ofrece, según su abstract. Una réplica de Chandler (2023) de un estudio de Janiszewski y Uy (2008) figura como exitosa en un atlas de réplicas, según un resumen.
+El efecto de precisión no mostró una réplica fallida en lo encontrado. Un estudio preregistrado de 2019 con 400 agentes inmobiliarios dice haberlo replicado, y que opera porque el que recibe le atribuye más competencia a quien ofrece, según su abstract. Una réplica de Chandler (2023) de un estudio de Janiszewski y Uy (2008) figura como exitosa en un atlas de réplicas, según un resumen, aunque una tabla informal habla de un efecto más débil.
 
 ## Cuándo ofrecer primero es una desventaja
 
@@ -67,7 +67,7 @@ La otra condición es cuánto sabe cada uno. Según el PON, que es divulgación 
 
 Cómo ceder, cuánto y en qué orden quedó pendiente en Ventas, y acá tampoco se resuelve. El informe buscó los estudios de patrón de concesiones que suelen citarse, Kwon y Weingart (2004) y Hilty y Carnevale (1993), y no encontró ni sus abstracts.
 
-En Van Kleef y colegas (2004) el efecto del enojo desaparecía cuando el oponente hacía grandes concesiones; en el metaanálisis de 2025 que cita Ventas, las ofertas ambiciosas daban más impasses. Ventas sugiere, como criterio propio, cambiar el alcance antes que bajar el precio, en [«Es caro»](../../Ventas/Objeciones-y-negociacion/objeciones-y-negociacion.md#es-caro).
+En Van Kleef y colegas (2004) el efecto del enojo desaparecía cuando el oponente hacía grandes concesiones; en el metaanálisis de 2025 que cita Ventas, las ofertas ambiciosas daban más impasses (negociaciones que terminan sin acuerdo). Ventas sugiere, como criterio propio, cambiar el alcance antes que bajar el precio, en [«Es caro»](../../Ventas/Objeciones-y-negociacion/objeciones-y-negociacion.md#es-caro).
 
 > [!NOTE] Sin fuente todavía: el tamaño, el orden y el ritmo de las concesiones (Kwon y Weingart 2004; Hilty y Carnevale 1993), si conviene ceder en pasos que se achican, y si ceder pidiendo algo a cambio rinde más que ceder solo.
 
@@ -75,7 +75,7 @@ En Van Kleef y colegas (2004) el efecto del enojo desaparecía cuando el oponent
 
 Mostrarse enojado hace ceder al otro, pero no siempre y con un costo. En los tres experimentos por computadora de Van Kleef, De Dreu y Manstead (2004), según su abstract, «participants conceded more to an angry opponent than to a happy one». El efecto desaparecía si el oponente hacía grandes concesiones, y en el tercer experimento el enojo provocaba miedo.
 
-Un segundo trabajo del mismo equipo, del mismo año, puso las condiciones: se cedía más ante el enojo solo con baja necesidad de cierre cognitivo, baja presión de tiempo y bajo poder propio, según su abstract. Una tesis de 2008, que esta base conoce por su ficha, lo resume así: «Anger gives negotiators an advantage because opponents concede to avoid impasse, but it backfires when opponents don't care about that outcome».
+Un segundo trabajo del mismo equipo, del mismo año, puso las condiciones: se cedía más ante el enojo solo con baja necesidad de cierre cognitivo (las ganas de terminar rápido con la incertidumbre), baja presión de tiempo y bajo poder propio, según su abstract. Una tesis de 2008, que esta base conoce por su ficha, lo resume así: «Anger gives negotiators an advantage because opponents concede to avoid impasse, but it backfires when opponents don't care about that outcome».
 
 El costo es la relación. Un estudio de 2022 (Zhang y colegas) halló que el enojo mostrado por voz o video, no por texto, producía más concesiones pero «lower satisfaction and lower desire for future interaction», según su abstract. Los dos informes de esta base no coinciden en su muestra (1.470 o 470 participantes), y por eso no va el número. No se encontró una réplica fallida del enojo estratégico; lo que hay son condiciones de contorno.
 
@@ -83,8 +83,8 @@ Como lectura de esta base, el enojo actuado sirve, si sirve, con alguien con qui
 
 ## Qué hacer con el primer número
 
-1. Antes de negociar, tené escritas tu MAAN, tu precio de reserva y tu meta; cómo se arma la MAAN está en [negociación](negociacion.md#cómo-preparar-la-maan-antes-de-negociar). Es lo que neutraliza el ancla del otro (Galinsky y Mussweiler).
-2. Si se negocia un solo número y sabés dónde está la zona de acuerdo, ofrecé primero (Galinsky y Mussweiler; el metaanálisis de 2025 citado en Ventas).
+1. Antes de negociar, tené escritas tu MAAN, tu precio de reserva y tu meta; cómo se arma la MAAN está en [negociación](negociacion.md#cómo-preparar-la-maan-antes-de-negociar). En Galinsky y Mussweiler pensar en el precio de reserva del otro, en su alternativa o en la meta propia anuló el ancla; que tener escrita la MAAN propia haga lo mismo es inferencia de esta base.
+2. Si se negocia un solo número y sabés dónde está la zona de acuerdo, ofrecé primero (Galinsky y Mussweiler; el metaanálisis de 2025 citado en Ventas; saber dónde está la zona, PON).
 3. Si el otro sabe mucho más que vos, juntá información antes de ofrecer (PON, divulgación).
 4. Si hay varios temas y no sabés si el otro solo mira lo suyo, no reveles tus prioridades en la primera oferta (Loschelder y colegas, 2014 y 2016).
 5. Si te dan un número primero, antes de contestar pensá en tu alternativa, en el precio de reserva del otro y en tu meta (Galinsky y Mussweiler).

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El miedo a hablar en público es la ansiedad que da presentar frente a un grupo, y en una encuesta canadiense un tercio de la gente la sentía como excesiva. Los tratamientos psicológicos la bajan con un efecto grande; decirse «estoy entusiasmado» cambia lo que uno siente pero no, en su única réplica, cómo lo ven, y las posturas de poder cayeron.
+  El miedo a hablar en público es la ansiedad que da presentar frente a un grupo, y en una encuesta canadiense un tercio de la gente la sentía como excesiva. Los tratamientos psicológicos la bajan, con g = 0,74 en un metaanálisis; decirse «estoy entusiasmado» cambia lo que uno siente pero no, en su única réplica, cómo lo ven, y las posturas de poder cayeron.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -15,8 +15,9 @@ fuentes:
   - "Poynter y Pasqualini (2025), Getting Excited About Public Speaking: A Replication, Psychology Learning & Teaching (según su abstract): https://doi.org/10.58734/plc-2025-0011"
   - "Carney, Cuddy y Yap (2010), Power posing, Psychological Science (según su abstract): https://doi.org/10.1177/0956797610383437"
   - "Ranehill et al. (2015), Assessing the robustness of power posing, Psychological Science (leído): https://www.zne.uzh.ch/dam/jcr:e5fc4c3c-d50e-4aa9-96ab-4389e426d20d/Psychological%20Science-2015-Ranehill-0956797614553946.pdf"
-  - "Carney (2016), My position on «Power Poses» (leído): https://faculty.haas.berkeley.edu:443/dana_carney/pdf_my%20position%20on%20power%20poses.pdf"
+  - "Carney (2016), My position on «Power Poses» (leído en parte): https://faculty.haas.berkeley.edu:443/dana_carney/pdf_my%20position%20on%20power%20poses.pdf"
   - "Gronau et al. (2017), metaanálisis bayesiano de seis estudios preregistrados sobre sentirse poderoso (según su abstract): https://doi.org/10.1080/23743603.2017.1326760"
+  - "Réplica de 2024 de las posturas de poder, N = 92 (según su abstract): https://doi.org/10.1186/s40359-024-02194-7"
   - "Revisión de 2020 sobre posturas corporales, Social and Personality Psychology Compass (según su abstract): https://doi.org/10.1111/spc3.12559"
   - "Comunicacion/.investigacion/hablar-en-publico-y-escritura.md, sección 1"
   - "Comunicacion/.investigacion/organizacion-y-fundamentos.md, mito 6 (posturas de poder)"
@@ -27,7 +28,7 @@ revisado:
 
 # Miedo a hablar en público
 
-El miedo a hablar en público es la ansiedad que da presentar frente a un grupo, y en una encuesta canadiense un tercio de la gente la sentía como excesiva. Los tratamientos psicológicos la bajan con un efecto grande; decirse «estoy entusiasmado» cambia lo que uno siente pero no, en su única réplica, cómo lo ven, y las posturas de poder cayeron.
+El miedo a hablar en público es la ansiedad que da presentar frente a un grupo, y en una encuesta canadiense un tercio de la gente la sentía como excesiva. Los tratamientos psicológicos la bajan, con g = 0,74 en un metaanálisis; decirse «estoy entusiasmado» cambia lo que uno siente pero no, en su única réplica, cómo lo ven, y las posturas de poder cayeron.
 
 Es uno de los componentes de [Hablar en público](hablar-en-publico.md); el otro es [diapositivas](diapositivas.md). El mecanismo del cuerpo (la adrenalina, el cortisol, el pulso) está en [respuesta de estrés](../../Psicologia/Estres-y-resiliencia/respuesta-de-estres.md), y las estrategias para bajar una emoción, en [regulación emocional](../../Psicologia/Motivacion-y-emocion/regulacion-emocional.md).
 
@@ -64,7 +65,7 @@ Las intervenciones con tecnología fueron «equally effective» que las presenci
 
 La exposición con realidad virtual tiene su propio metaanálisis. Carl y colegas (2019), según su abstract, juntaron 30 estudios con 1.057 participantes, de los cuales 8 eran de ansiedad social o de actuación. Contra una lista de espera dio «g = 0.90», contra un placebo psicológico «g = 0.78», y contra la exposición en vivo «g = -0.07», sin diferencia significativa. Los estudios más grandes dieron efectos más chicos.
 
-La lectura de esta base: exponerse a un público, en vivo o simulado, es lo que tiene más respaldo, y el formato pesa menos que hacerlo.
+Ebrahimi no halló diferencia entre marcos teóricos. La lectura de esta base: la exposición gradual y la terapia cognitivo-conductual tienen respaldo, y el formato (presencial, virtual, por internet) pesa menos que hacerlo.
 
 Estos tratamientos los dan terapeutas o programas armados por ellos. Si el miedo impide trabajar o viene con otros miedos sociales, las señales y las terapias con evidencia están en [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md). Esta nota describe lo que se estudió y no reemplaza a un profesional.
 
@@ -95,8 +96,8 @@ El efecto sobre las hormonas y la conducta no se sostiene. Una revisión de 2020
 
 ## Qué hacer si te da miedo presentar
 
-1. Si el miedo te hace evitar presentaciones o te afecta el trabajo, consultá a un profesional: las terapias tienen un efecto grande y sostenido (Ebrahimi et al. 2019; [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md)).
-2. Practicá frente a gente varias veces, empezando por un público chico: la exposición, en vivo o simulada, es lo que más respaldo tiene (Ebrahimi et al. 2019; Carl et al. 2019); empezar por lo chico es lectura de esta base.
+1. Si el miedo te hace evitar presentaciones o te afecta el trabajo, consultá a un profesional: las terapias bajaron el miedo (g = 0,74, y g = 1,11 en el seguimiento, casi todo por autorreporte; Ebrahimi et al. 2019; [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md)).
+2. Practicá frente a gente varias veces, empezando por un público chico: la exposición, en vivo o simulada, tiene respaldo (Carl et al. 2019; Ebrahimi et al. 2019 no distingue entre marcos teóricos); que sea lo que más respaldo tiene y empezar por lo chico es lectura de esta base.
 3. Si te sirve, decite «estoy entusiasmado» antes de empezar: puede cambiar cómo te sentís, aunque no está probado que el público lo note (Brooks 2014; Poynter y Pasqualini 2025).
 4. No le dediques tiempo a las posturas de poder: no cambian las hormonas ni la conducta (Ranehill et al. 2015; Carney 2016).
-5. Después de presentar, preguntale a alguien del público cómo salió en vez de confiar en tu impresión, que suele ser peor de lo que vio el otro (Gallego et al. 2021).
+5. Después de presentar, preguntale a alguien del público cómo salió en vez de confiar en tu impresión: en 95 estudiantes socialmente ansiosos, ellos se evaluaron peor que sus observadores (Gallego et al. 2021; extenderlo a cualquiera es lectura de esta base).

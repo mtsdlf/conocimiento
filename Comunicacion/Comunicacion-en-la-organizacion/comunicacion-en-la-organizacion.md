@@ -52,7 +52,7 @@ Cuando Microsoft pasó entera a remoto en 2020, la comunicación sincrónica baj
 
 Cuando una decisión perjudica a la gente, explicarla cambia cómo se la recibe. El metaanálisis de Shaw, Wild y Colquitt (2003), con 54 muestras, encontró según su abstract efectos fuertes de las explicaciones sobre la justicia percibida y sobre la cooperación, la represalia y el retiro. Las que funcionaron mejor fueron las excusas antes que las justificaciones, y las que llegaron después de un resultado desfavorable. El abstract no define los dos términos; en la lectura habitual, que esta base no verificó en el texto, la excusa dice que la causa estuvo fuera del control de quien decide y la justificación defiende que la decisión era buena. El abstract no trae el tamaño de efecto; qué es eso y por qué importa está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md#cuánto-es-grande-el-tamaño-de-efecto).
 
-Lo que no se explica lo llenan los rumores. En un hospital en proceso de cambio, Bordia y colegas (2006) encontraron más rumores negativos que positivos, y quienes los contaban reportaban más estrés. Los autores proponen leerlos como expresión de lo que preocupa a los empleados.
+Los rumores son un indicio de lo que preocupa. En un hospital en proceso de cambio, Bordia y colegas (2006) encontraron más rumores negativos que positivos, y quienes los contaban reportaban más estrés. Los autores proponen leerlos como expresión de lo que preocupa a los empleados.
 
 ## Lo que la gente sabe no siempre sube
 

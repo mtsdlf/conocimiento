@@ -42,7 +42,7 @@ Esa es la mecánica de cualquier acuerdo integrativo. El informe de esta base no
 
 El sesgo del pastel fijo es suponer, al empezar, que los intereses del otro son opuestos a los propios. Thompson y Hastie (1990), según su abstract, encontraron que muchos negociadores arrancan así y aprenden durante la negociación que hay ganancia conjunta posible, sobre todo «within the first few minutes of interaction». Quienes lo aprendían antes ganaban más.
 
-El mismo trabajo separa dos errores que no parecían relacionados entre sí. El «Fixed Sum Error» es creer que lo que gana uno lo pierde el otro. El «Incompatibility Error» es no ver que en algún tema los dos quieren exactamente lo mismo: según el abstract, una parte no reconocía cuando los intereses eran totalmente compatibles. Los N y los tamaños de efecto no se obtuvieron.
+El mismo trabajo separa dos errores que no parecían relacionados entre sí, el «Fixed Sum Error» y el «Incompatibility Error». El abstract los nombra sin definirlos; asignarle a cada uno su sentido es lectura de esta base: el primero sería creer que lo que gana uno lo pierde el otro, y el segundo, no ver que en algún tema los dos quieren lo mismo (según el abstract, una parte no reconocía cuando los intereses eran totalmente compatibles). Los N y los tamaños de efecto no se obtuvieron.
 
 ### Los acuerdos en que pierden los dos
 
@@ -72,7 +72,7 @@ Los pasos combinan los estudios de arriba con práctica, y cada uno dice de dón
 
 1. Antes de negociar, anotá todos los temas en juego, no solo el precio o el monto: plazos, alcance, riesgo, forma de pago, reconocimiento. Es práctica, y es lo que hace posible el intercambio.
 2. En los primeros minutos, preguntá qué le importa al otro y cuánto, en vez de defender tu número. Thompson y Hastie encontraron que quienes descubren pronto la ganancia conjunta ganan más.
-3. Buscá temas en los que quieran lo mismo; no supongas que todo es opuesto. Es el «Incompatibility Error» de Thompson y Hastie.
+3. Buscá temas en los que quieran lo mismo; no supongas que todo es opuesto. Es, por lectura de esta base, el «Incompatibility Error» de Thompson y Hastie.
 4. Proponé paquetes de varios temas a la vez y no cedas tema por tema; es la mecánica del *logrolling* (práctica, sin cifras en esta base).
 5. Buscá un buen resultado para los dos, pero no bajes tus metas: el beneficio de ser prosocial aparece solo con resistencia a ceder (De Dreu, Weingart y Kwon).
 6. Revelá tus prioridades de a poco y mirá si el otro también revela las suyas; si solo toma, cortá (inferencia de esta base desde Loschelder y colegas). Hacer buenas preguntas de seguimiento está en [preguntar](../Escucha-y-conversacion/preguntar.md).

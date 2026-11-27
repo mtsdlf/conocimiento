@@ -44,9 +44,9 @@ Kitchen, Kerr y colegas (2014), en una revisión publicada en una revista de mar
 >
 > **Hay un solo proceso (Kruglanski y Thompson 1999, unimodelo).** Según su abstract, la persuasión es siempre inferir una conclusión desde evidencia, y lo que cambia es si esa evidencia es fácil o difícil de procesar. Una clave periférica es evidencia como cualquier otra: «the cue is the message», dice el título de su réplica.
 >
-> **La diferencia es menor de lo que parece (Manstead y van der Pligt 1999).** En el mismo número de la revista, comentan que el propio ELM ya hace una distinción a la vez cualitativa y cuantitativa, según su abstract.
+> **El propio ELM ya mezcla las dos distinciones (Manstead y van der Pligt 1999).** En el mismo número de la revista, comentan que el propio ELM ya hace una distinción a la vez cualitativa y cuantitativa, según su abstract.
 >
-> Las tres posiciones se leyeron por abstract. El debate se publicó entero en un número de *Psychological Inquiry* de 1999, con el artículo del unimodelo y sus comentarios.
+> Las posiciones de Kruglanski y Thompson y de Manstead y van der Pligt se leyeron por abstract; la del ELM, por el registro del capítulo y un resumen de divulgación. El unimodelo y sus comentarios se publicaron en un mismo número de *Psychological Inquiry* de 1999.
 
 Una lectura de esta base: la discusión se parece a la de los [dos sistemas](../../Psicologia/Juicio-y-decision/dos-sistemas.md#la-disputa), donde los críticos tampoco encuentran dos procesos separables. En los dos casos, la división en dos sirve para hablar del juicio y no está establecida como mecanismo.
 
@@ -60,7 +60,7 @@ Las heurísticas que ese modelo supone están en [heurísticas y sesgos](../../P
 
 ## La retórica clásica como origen
 
-El estudio de la persuasión empieza en la retórica antigua. La tradición le atribuye a Aristóteles la división en tres medios de convencer: el carácter de quien habla (ethos), la emoción de quien escucha (pathos) y el argumento (logos). La investigación moderna estudia los tres por separado: la credibilidad de la fuente, las apelaciones emocionales como el miedo y la calidad de los argumentos, que están en [el mensaje que persuade](el-mensaje-que-persuade.md). Esa correspondencia es una lectura de esta base.
+El estudio de la persuasión empieza en la retórica antigua. La tradición le atribuye a Aristóteles (de memoria, sin fuente leída) la división en tres medios de convencer: el carácter de quien habla (ethos), la emoción de quien escucha (pathos) y el argumento (logos). La investigación moderna estudia los tres por separado: la credibilidad de la fuente, las apelaciones emocionales como el miedo y la calidad de los argumentos, que están en [el mensaje que persuade](el-mensaje-que-persuade.md). Esa correspondencia es una lectura de esta base.
 
 > [!NOTE] Sin fuente todavía: la *Retórica* de Aristóteles y una historia del paso de la retórica a la ciencia de la persuasión.
 
@@ -68,6 +68,6 @@ El estudio de la persuasión empieza en la retórica antigua. La tradición le a
 
 Lo que el ELM predice, y la base no vio probado fuera del laboratorio, es que con alguien a quien el tema le importa y que tiene tiempo pesan los argumentos. Con alguien apurado o desinteresado pesan las señales: quién lo dice, cuántos ya lo aceptaron. Para convencer a un socio de un cambio grande, que suele estar en el primer caso, la predicción apunta a cuidar los argumentos y la respuesta a sus objeciones (inferencia de esta base, sin estudio en empresas chicas).
 
-Hoy el ELM se usa más como marco para ordenar resultados que como teoría que se pone a prueba (lectura de esta base sobre las críticas). Casi todos sus estudios se hicieron con mensajes escritos a estudiantes, no con conversaciones entre dos personas que se conocen.
+Hoy el ELM se usa más como marco para ordenar resultados que como teoría que se pone a prueba (lectura de esta base sobre las críticas). Es probable que sus estudios sean de mensajes y no de conversaciones entre dos personas que se conocen (inferencia de esta base, sin fuente).
 
 Para leer más: O'Keefe, *Persuasion: Theory and Research*, los capítulos de teorías del procesamiento; y el número de *Psychological Inquiry* de 1999 con Kruglanski y Thompson y sus comentarios, fijándose en qué predice cada modelo que el otro no.

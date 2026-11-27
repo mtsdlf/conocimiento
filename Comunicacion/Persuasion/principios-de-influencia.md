@@ -31,7 +31,7 @@ Dentro de [Persuasión](persuasion.md), esta nota trata los pedidos: lograr que 
 
 ## El campo estudia técnicas, no principios
 
-La investigación no prueba «la reciprocidad» o «el compromiso» como tales: estudia técnicas una por una, cada una con su metaanálisis. Un principio de Cialdini es una etiqueta que agrupa varias técnicas y varios mecanismos. Por eso esta nota va técnica por técnica, y para los principios sin técnica estudiada en las fuentes dice que no hay dato. Las cifras se leen como explica [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
+La investigación no prueba «la reciprocidad» o «el compromiso» como tales: estudia técnicas una por una, algunas con metaanálisis. Un principio de Cialdini es una etiqueta que agrupa varias técnicas y varios mecanismos. Por eso esta nota va técnica por técnica, y para los principios sin técnica estudiada en las fuentes dice que no hay dato. Las cifras se leen como explica [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).
 
 | Técnica | Qué se hace | Evidencia | Estado |
 |---|---|---|---|
@@ -44,13 +44,13 @@ La investigación no prueba «la reciprocidad» o «el compromiso» como tales: 
 
 El pie en la puerta consiste en pedir algo chico, que casi todos aceptan, y después lo que de verdad se quiere. Dillard, Hunter y Burgoon (1984) metaanalizaron esta técnica y la puerta en la cara. Según un resumen, los dos efectos fueron pequeños, «r = .17, .15» respectivamente, aun en condiciones óptimas. El pie en la puerta no dependía de cuánto tiempo pasaba entre los dos pedidos, pero sí de si el primero traía un incentivo.
 
-Burger (1999) no es un metaanálisis sino una revisión narrativa, aunque se lo cita seguido como si lo fuera. Según su abstract, atribuye el efecto a varios procesos a la vez: autopercepción, reactancia, conformidad, coherencia, atribuciones y compromiso. Esos procesos explican tanto cuándo la técnica funciona como cuándo falla.
+Burger (1999) no es un metaanálisis sino una revisión narrativa. Según su abstract, atribuye el efecto a varios procesos a la vez: autopercepción, reactancia, conformidad, coherencia, atribuciones y compromiso. Esos procesos explican tanto cuándo la técnica funciona como cuándo falla.
 
 ## Puerta en la cara: el sí que no se cumple
 
 La puerta en la cara es la inversa: pedir algo grande que el otro va a rechazar y después el pedido real, que parece una concesión. Feeley, Anker y Aloe (2012) metaanalizaron 35 años de estudios. Según su abstract, el efecto fue significativo sobre el acuerdo verbal, con 78 estudios y r = .126. Sobre la conducta real, con 39 estudios, fue r = .052 y no significativo.
 
-El efecto fue mayor para conseguir voluntarios o participantes de una investigación que para conseguir donaciones de dinero. Los autores lo resumieron en la prensa, según un resumen: la técnica sirve para que la gente acepte, mucho menos para que entregue el dinero. Es el ejemplo más claro de la vertical de que decir que sí no es hacer.
+El efecto fue mayor para conseguir voluntarios o participantes de una investigación que para conseguir donaciones de dinero. Los autores lo resumieron en la prensa, según un resumen: la técnica sirve para que la gente acepte, mucho menos para que entregue el dinero. Es, a juicio de esta base, el ejemplo más claro de la vertical de que decir que sí no es hacer.
 
 Lo único posterior que aparece es un estudio ruso de 2026 con 120 estudiantes que replicó conceptualmente la puerta en la cara, según su abstract; es chico y no alcanza para concluir. El metaanálisis de O'Keefe y Hale (1998) sobre la misma técnica no se encontró.
 
@@ -78,7 +78,7 @@ Tampoco se verificó cuánto sesgo de publicación tienen los metaanálisis de e
 
 ## Cómo usar la lista sin creer de más
 
-Cialdini sirve como mapa de hipótesis, marcado como práctica, y no como prueba de que una técnica funciona. Los efectos con evidencia son chicos: r = .17 es una diferencia que se nota en miles de pedidos y poco en uno solo. Casi todo se midió en pedidos a desconocidos (encuestas, donaciones, voluntariado), no en pedidos a un socio o a un cliente con quien hay relación.
+Cialdini sirve como mapa de hipótesis, marcado como práctica, y no como prueba de que una técnica funciona. Los efectos con evidencia son chicos: r = .17 es una diferencia que se nota en miles de pedidos y poco en uno solo (lectura de esta base). Los estudios de esta nota son de pedidos de voluntariado, donaciones o experimentos, no de pedidos a un socio o a un cliente con quien hay relación.
 
 1. Si vas a pedir algo, decí por qué, aunque el motivo parezca obvio. Sale de Langer y colegas (1978), sin réplica encontrada; cuesta poco.
 2. Recordale al otro que puede decir que no. Sale de «pero sos libre», con un efecto chico o nulo en los estudios buenos; esta base lo recomienda porque no cuesta nada y respeta la relación (inferencia).

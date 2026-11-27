@@ -43,11 +43,11 @@ La lectura de esta base es que la mala noticia por mail, para no ver la cara del
 
 ## Transmitir y converger: la sincronicidad de los medios
 
-Dennis, Fuller y Valacich (2008) cambiaron la pregunta: no qué tan rico es el medio, sino qué proceso de comunicación hay que hacer. Según su abstract, todo intercambio combina dos procesos. La transmisión («conveyance») es pasar información para que el otro la entienda; la convergencia («convergence») es llegar a un entendimiento compartido, como decidir o alinear.
+Dennis, Fuller y Valacich (2008) cambiaron la pregunta: no qué tan rico es el medio, sino qué proceso de comunicación hay que hacer. Según su abstract, todo intercambio combina dos procesos. La transmisión («conveyance») es pasar información para que el otro la entienda; la convergencia («convergence») es llegar a un entendimiento compartido. Que eso equivalga a decidir o alinear es una glosa de esta base, a verificar con el texto completo.
 
 > «For conveyance processes, use of media supporting lower synchronicity should result in better communication performance. For convergence processes, use of media supporting higher synchronicity should result in better communication performance.»
 
-La teoría describe los medios por cinco capacidades: «symbol sets, parallelism, transmission velocity, rehearsability, and reprocessability». Las dos últimas son poder preparar el mensaje antes de mandarlo y poder releerlo después, lo que tiene un escrito y no tiene una llamada. Otra proposición es que el desempeño mejora «when individuals use a variety of media to perform a task, rather than just one medium».
+La teoría describe los medios por cinco capacidades: «symbol sets, parallelism, transmission velocity, rehearsability, and reprocessability». Esta base lee las dos últimas como poder preparar el mensaje antes de mandarlo y poder releerlo después, lo que tiene un escrito y no tiene una llamada (glosa de esta base, que no leyó la definición en el texto). Otra proposición es que el desempeño mejora «when individuals use a variety of media to perform a task, rather than just one medium».
 
 Una prueba de laboratorio temprana, de 1998, dio según su abstract «preliminary support». A diferencia de la riqueza de los medios, la unidad es el proceso y no la tarea: una decisión tiene una parte de transmitir (los datos) y otra de converger (el acuerdo).
 
@@ -56,7 +56,7 @@ Una prueba de laboratorio temprana, de 1998, dio según su abstract «preliminar
 >
 > **El canal se elige por el proceso: transmitir o converger (sincronicidad de los medios, Dennis, Fuller y Valacich 2008).** Tiene apoyo preliminar de laboratorio (1998).
 >
-> Ninguna de las dos tiene un metaanálisis. Esta base usa la segunda para los pasos porque distingue partes de una misma tarea, no porque tenga más evidencia.
+> No se encontró un metaanálisis de ninguna de las dos. Esta base usa la segunda para los pasos porque distingue partes de una misma tarea, no porque tenga más evidencia.
 
 ## Qué pasó en Microsoft al pasar todos a remoto
 

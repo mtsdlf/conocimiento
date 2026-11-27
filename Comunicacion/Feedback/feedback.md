@@ -29,7 +29,7 @@ Las otras estimaciones del efecto del feedback, que vienen de la enseñanza (Hat
 
 ## Qué hace que el feedback ayude o dañe
 
-El texto completo de Kluger y DeNisi muestra qué cambia el efecto. Lo que más pesa es adónde va la atención de quien recibe: «The lower in the hierarchy the FI-induced locus of attention is, the stronger the benefit of an FI for performance». Abajo está la tarea; arriba, la persona y su autoestima.
+El texto completo de Kluger y DeNisi muestra qué cambia el efecto. Lo que más pesa es adónde va la atención de quien recibe: «The lower in the hierarchy the FI-induced locus of attention is, the stronger the benefit of an FI for performance» (FI es *feedback intervention*, una intervención de feedback). Abajo está la tarea; arriba, la persona y su autoestima.
 
 | Qué tiene el feedback | Efecto sobre el desempeño, según Kluger y DeNisi |
 |---|---|
@@ -47,7 +47,7 @@ La tarea también importa. Según el mismo trabajo, en tareas nuevas y de corta 
 
 ## Dar y recibir son el mismo proceso
 
-El campo no estudia dar y recibir feedback como dos temas aparte. La revisión de Ilgen, Fisher y Taylor (1979), según su abstract, lo trata como un proceso con tres etapas del lado de quien recibe: lo percibe, lo acepta o no, y está dispuesto o no a actuar. Por eso un mismo mensaje puede estar bien dado y no servir: se cae en la aceptación.
+El campo no estudia dar y recibir feedback como dos temas aparte. La revisión de Ilgen, Fisher y Taylor (1979), según su abstract, lo trata como un proceso con tres etapas del lado de quien recibe: lo percibe, lo acepta o no, y está dispuesto o no a actuar. Una lectura de esta base: un mismo mensaje puede estar bien dado y no servir si se cae en la aceptación.
 
 La investigación siguió dos líneas paralelas. Una estudia las intervenciones de feedback y mira a quien lo da, como Kluger y DeNisi. La otra estudia la búsqueda de feedback y mira a quien lo pide, como el metaanálisis de Anseel y colegas (2015). Las dos llegan al mismo punto: el efecto depende de si quien recibe atiende a la tarea o a su imagen. Esta entrada es el puente; las dos notas de abajo toman cada lado y se enlazan entre sí.
 
@@ -64,7 +64,7 @@ Lo que queda acá es cómo se arma y se dice el mensaje, y cómo se pide y se re
 
 ## La evidencia viene de laboratorios y de corporaciones
 
-Casi ningún estudio de esta vertical es de una empresa chica ni de una conversación real entre jefe y empleado. Kluger y DeNisi juntan sobre todo tareas de laboratorio; el metaanálisis del feedback 360 (Smither, London y Reilly, 2005) es de programas de empresas grandes; el sándwich se probó con estudiantes. Los modelos más conocidos entre practicantes, SBI y Radical Candor, no tienen estudios que los prueben. Cada nota dice de dónde sale su evidencia.
+Casi ningún estudio de esta vertical es de una empresa chica ni de una conversación real entre jefe y empleado. Kluger y DeNisi juntan sobre todo tareas de laboratorio; el metaanálisis del feedback 360 (Smither, London y Reilly, 2005) es de estudios longitudinales de feedback multifuente; el sándwich se probó con estudiantes. Los modelos más conocidos entre practicantes, SBI y Radical Candor, no tienen estudios que los prueben. Cada nota dice de dónde sale su evidencia.
 
 ## Qué hay adentro de Feedback
 

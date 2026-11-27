@@ -48,9 +48,9 @@ El miedo a presentar es común: en una encuesta al azar de Winnipeg, según su a
 | Señalar lo esencial en una diapositiva | Moderada: d = 0,38 en un metaanálisis, según un resumen | [Diapositivas](diapositivas.md#la-señalización-da-d--038-en-un-metaanálisis) |
 | Diseño aserción-evidencia | Un experimento con estudiantes, que compara un paquete | [Diapositivas](diapositivas.md#aserción-evidencia-un-experimento-que-compara-un-paquete) |
 
-Cómo leer esas cifras (g, d) está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md#cuánto-es-grande-el-tamaño-de-efecto). La g del tratamiento es grande, y la d de la señalización, chica a moderada.
+Cómo leer esas cifras (g, d) está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md#cuánto-es-grande-el-tamaño-de-efecto). La g del tratamiento (0,74) es casi el doble de la d de la señalización (0,38), que el informe llama chica a moderada.
 
-Las dos técnicas de divulgación más conocidas para los nervios siguen un mismo patrón. Tanto decirse «estoy entusiasmado» como posar con los brazos abiertos mueven lo que la persona dice sentir, y no lo que se mide desde afuera (lo que ven los jueces, las hormonas, la conducta). Es una lectura de esta base, que junta la réplica de Poynter y Pasqualini (2025) con la de Ranehill y colegas (2015). Lo que sí cambia el miedo es exponerse a presentar, en vivo o simulado, sola o con un terapeuta. Cuándo el miedo pide un profesional está en [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md).
+Las dos técnicas de divulgación más conocidas para los nervios siguen un mismo patrón. Tanto decirse «estoy entusiasmado» como posar con los brazos abiertos mueven lo que la persona dice sentir, y no lo que se mide desde afuera (lo que ven los jueces, las hormonas, la conducta). Es una lectura de esta base, que junta la réplica de Poynter y Pasqualini (2025) con la de Ranehill y colegas (2015). Lo que tiene respaldo para bajar el miedo son los tratamientos psicológicos, con exposición gradual y terapia cognitivo-conductual, presenciales o por internet; el informe no encontró cuántas sesiones hacen falta. Cuándo el miedo pide un profesional está en [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md).
 
 ## Ensayar: lo que los practicantes recomiendan sin estudio en esta base
 
@@ -60,7 +60,7 @@ Ensayar la presentación es el consejo más repetido de los practicantes, y esta
 
 ## Dónde falla la evidencia para una empresa chica
 
-Casi nada de esta vertical se estudió en reuniones de trabajo. Los estudios de tratamiento son de personas con miedo, muchas veces estudiantes; los de diapositivas, de lecciones con una prueba de lo aprendido; la prevalencia, de una ciudad canadiense en los noventa. Ningún estudio encontrado mide lo que le importa a quien presenta en una empresa: si el público decidió, compró o aprobó. El memo de Amazon tiene la misma falta, como dice [presentar ideas](../../Storytelling/Usos/presentar-ideas.md).
+Casi nada de esta vertical se estudió en reuniones de trabajo. Los estudios de tratamiento son de personas con miedo, y varios de los experimentos sueltos que se vieron son de estudiantes; los de diapositivas, de lecciones con una prueba de lo aprendido; la prevalencia, de una ciudad canadiense en los noventa. Ningún estudio encontrado mide lo que le importa a quien presenta en una empresa: si el público decidió, compró o aprobó. El memo de Amazon tiene la misma falta, como dice [presentar ideas](../../Storytelling/Usos/presentar-ideas.md).
 
 ## Qué hay adentro de Hablar en público
 

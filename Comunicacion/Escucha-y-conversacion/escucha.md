@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Escuchar bien es atender a quien habla de modo que esa persona se sienta escuchada; la investigación lo mide casi siempre así, como escucha percibida. Se asocia con mejores relaciones y mejor desempeño en el trabajo, con una asociación que se achica cuando se sacan los autoinformes, y la escucha activa de manual no superó a dar consejo en el único experimento que los comparó.
+  Escuchar bien es atender a quien habla de modo que esa persona se sienta escuchada; la investigación lo mide casi siempre así, como escucha percibida. Se asocia con mejores relaciones y mejor desempeño en el trabajo, con una asociación que se achica cuando se sacan los autoinformes, y la escucha activa de manual empató con dar consejo en satisfacción en el único experimento que los comparó, aunque ganó en sentirse comprendido.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -23,7 +23,7 @@ revisado:
 
 # Escucha
 
-Escuchar bien es atender a quien habla de modo que esa persona se sienta escuchada; la investigación lo mide casi siempre así, como escucha percibida. Se asocia con mejores relaciones y mejor desempeño en el trabajo, con una asociación que se achica cuando se sacan los autoinformes, y la escucha activa de manual no superó a dar consejo en el único experimento que los comparó.
+Escuchar bien es atender a quien habla de modo que esa persona se sienta escuchada; la investigación lo mide casi siempre así, como escucha percibida. Se asocia con mejores relaciones y mejor desempeño en el trabajo, con una asociación que se achica cuando se sacan los autoinformes, y la escucha activa de manual empató con dar consejo en satisfacción en el único experimento que los comparó, aunque ganó en sentirse comprendido.
 
 Es la habilidad de base de [Escucha y conversación](escucha-y-conversacion.md). Su hermana [preguntar](preguntar.md) estudia lo mismo desde otro lado: una pregunta de seguimiento es la prueba visible de que alguien escuchó. Donde más se usa al dirigir es en las [reuniones uno a uno](../../Liderazgo-y-direccion/Gestion-de-personas/reuniones-uno-a-uno.md), y en una venta, en las [preguntas de descubrimiento](../../Ventas/Descubrimiento-y-calificacion/preguntas-de-descubrimiento.md).
 
@@ -46,9 +46,9 @@ El metaanálisis de Kluger y colegas (2024) es la cifra de referencia del tema. 
 | Desempeño laboral | r̄ = .36 |
 | Desempeño, sin los datos autoinformados | r̄ = .21, IC 95 % [.13, .29], ρ̄ = .23 |
 
-El 75 % de la literatura que reunieron depende de autoinformes. Cuando la misma persona dice cuánto la escucharon y cuánto rinde, las dos respuestas se inflan juntas, y por eso la cifra baja de .36 a .21 al sacarlos. Los autores proponen que la escucha mejora el desempeño sobre todo a través de la calidad de la relación.
+El 75 % de la literatura que reunieron depende de autoinformes. La cifra baja de .36 a .21 al sacarlos; una lectura de esta base es que, cuando la misma persona dice cuánto la escucharon y cuánto rinde, las dos respuestas se inflan juntas. Los autores proponen que la escucha mejora el desempeño sobre todo a través de la calidad de la relación.
 
-Casi todo el material es correlacional: no prueba que escuchar cause mejor desempeño, porque también puede ser que a quien rinde se lo escuche más. Los experimentos que hay son sobre lo que cambia en quien habla.
+Casi todo el material es correlacional: no prueba que escuchar cause mejor desempeño, y puede ser, como lectura de esta base, que a quien rinde se lo escuche más. Los experimentos que reunió el informe son sobre lo que cambia en quien habla.
 
 ## Qué cambia en quien se siente escuchado
 
@@ -69,13 +69,13 @@ El estudio anterior del mismo grupo dio menos todavía a la paráfrasis. Weger, 
 >
 > **Parafrasear no alcanza (Weger et al. 2010 y 2014).** En 2010 la paráfrasis no mejoró ni la satisfacción ni la sensación de ser comprendido frente a asentir; en 2014 ganó en sentirse comprendido y empató con el consejo en satisfacción. Kriz, Kluger y Lyddy (2021), en 41 entrevistas a empleados de un banco, encontraron según su abstract que «conversational behaviors alone are often insufficient to distinguish between stories of feeling heard vs. feeling unheard»: la gente se siente escuchada cuando el que escucha cumple lo que ella necesitaba y esperaba. Es evidencia cualitativa.
 >
-> Ningún metaanálisis compara técnicas de escucha entre sí, y los dos experimentos son del mismo equipo, con resultados distintos según con qué se comparó.
+> El informe no encontró ningún metaanálisis que compare técnicas de escucha entre sí, y los dos experimentos son del mismo equipo, con resultados distintos según con qué se comparó.
 
 ## Si se puede entrenar
 
 Entrenar la escucha casi no se estudió, según dicen los propios autores del único estudio del informe. Ese estudio longitudinal de Itzchakov (2022) con docentes, según un resumen, encontró mejoras lineales en calidad de escucha, clima de relación, autonomía y seguridad psicológica.
 
-El marco general del entrenamiento sí tiene metaanálisis. Arthur, Bennett, Edens y Bell (2003), leído entero, hallaron para habilidades interpersonales d = 0,68 en aprendizaje (k = 65) y d = 0,54 en conducta (k = 56), con intervalos de credibilidad anchos (de −0,27 a 1,36 en conducta): hay programas que no sirven. Entre lo aprendido y lo hecho después hay «a substantial decrease in effect sizes», que los autores atribuyen al entorno de trabajo. Según el abstract de Blume, Ford, Baldwin y Huang (2010), la transferencia sale «consistently inflated» cuando la mide el propio entrenado.
+El marco general del entrenamiento sí tiene metaanálisis. Arthur, Bennett, Edens y Bell (2003), leído entero, hallaron para habilidades interpersonales d = 0,68 en aprendizaje (k = 65) y d = 0,54 en conducta (k = 56), con intervalos de credibilidad anchos (de −0,27 a 1,36 en conducta): hay programas que no sirven. Entre lo aprendido y lo hecho después hay «a substantial decrease in effect sizes», que los autores atribuyen al entorno de trabajo. Según el abstract de Blume, Ford, Baldwin y Huang (2010), la transferencia sale «consistently inflated» cuando la mide la misma fuente en el mismo contexto.
 
 Escuchar también cuesta: la revisión de Yip y Fisher (2022), según su abstract, describe una «listening paradox», porque lo que beneficia a quien habla puede agotar a quien escucha.
 
@@ -84,10 +84,10 @@ Escuchar también cuesta: la revisión de Yip y Fisher (2022), según su abstrac
 ## Cómo escuchar mejor en una conversación de trabajo
 
 1. Medí la escucha por lo que siente el otro: al final, preguntá si quedó algo sin decir. Sale de que el campo mide escucha percibida (Kluger e Itzchakov 2022); la pregunta es práctica.
-2. Hacé preguntas de seguimiento sobre lo que el otro acaba de decir, que es la conducta con mejor evidencia de que alguien escuchó (Huang et al. 2017, en [preguntar](preguntar.md)).
+2. Hacé preguntas de seguimiento sobre lo que el otro acaba de decir, que según Huang et al. (2017) es lo que explica que el otro se sienta atendido (ver [preguntar](preguntar.md)).
 3. No te prohíbas dar un consejo si te lo piden o si sirve: en el experimento de Weger et al. (2014) no bajó la satisfacción frente a parafrasear, y en el de 2010 parafrasear no mejoró nada frente a asentir.
 4. Si vas a decir algo difícil, escuchá primero lo que el otro trae: la escucha de calidad baja la defensa de quien habla (Itzchakov, Kluger y Castro 2017).
 5. Escuchá cuando tengas atención para hacerlo y, si no, mové la charla: la atención disponible es uno de los factores de calidad que nombran Kluger e Itzchakov (2022), y escuchar cansa (Yip y Fisher 2022). Cómo se reparte la atención está en [atención](../../Psicologia/Autorregulacion/atencion.md).
-6. Si mandás a alguien a un curso de escucha, acordá antes dónde lo va a practicar y pedile a otro que diga si notó el cambio: la transferencia depende del entorno y el autoinforme la infla (Arthur et al. 2003; Blume et al. 2010).
+6. Si mandás a alguien a un curso de escucha, acordá antes dónde lo va a practicar y pedile a otro que diga si notó el cambio: la transferencia depende del entorno y el autoinforme la infla, según Blume et al. (Arthur et al. 2003; Blume et al. 2010).
 
 Para leer: Kluger e Itzchakov (2022), para qué se mide y cómo; después Kluger et al. (2024), fijándose en la caída de .36 a .21 al quitar los autoinformes.

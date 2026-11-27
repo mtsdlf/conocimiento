@@ -6,7 +6,7 @@ estabilidad: estable
 fuentes:
   - "Sebenius (2017), BATNAs in Negotiation: Common Errors and Three Kinds of «No», Negotiation Journal 33(2):89-99 (leído entero, en la versión de trabajo HBS WP 17-055): https://dash.harvard.edu/bitstream/handle/1/30011594/sebenius_BATNAs-in-negotiation.pdf"
   - "Fisher, Ury y Patton (1991), Getting to Yes, p. 104 (citado a través de Sebenius 2017; el libro no se leyó)"
-  - "Walton y McKersie (1965), A Behavioral Theory of Labor Negotiations (libro no leído; citado como origen de la distinción)"
+  - "Walton y McKersie (1965), A Behavioral Theory of Labor Negotiations (libro no leído; no se verificó que sea el origen de la distinción)"
   - "Program on Negotiation, Harvard, When to make the first offer in negotiation (divulgación; leído vía extractor): https://www.pon.harvard.edu/daily/negotiation-skills-daily/when-to-make-the-first-offer-in-negotiation"
   - "With Feeling: How Emotions Shape Negotiation (2014), Negotiation Journal (solo metadatos): https://doi.org/10.1111/nejo.12071"
   - "Comunicacion/.investigacion/negociacion.md"
@@ -26,7 +26,7 @@ Esta es la negociación como habilidad general: con un socio, con alguien del eq
 
 ## Repartir y agrandar: las dos caras de una negociación
 
-El campo distingue dos tipos de negociación desde Walton y McKersie (1965), libro que esta base no leyó. La distributiva reparte una cantidad fija: lo que uno gana, el otro lo pierde, como el precio de un auto usado. La integrativa busca acuerdos en los que los dos quedan mejor, porque hay más de un tema y cada parte los valora distinto. Los manuales (Thompson; Lewicki, Barry y Saunders) siguen esa división, según el informe de esta base.
+El campo distingue dos tipos de negociación; la distinción se asocia a Walton y McKersie (1965), libro que esta base no leyó y del que el informe no verifica que sea el origen. La distributiva reparte una cantidad fija: lo que uno gana, el otro lo pierde, como el precio de un auto usado. La integrativa busca acuerdos en los que los dos quedan mejor, porque hay más de un tema y cada parte los valora distinto. Los manuales (Thompson; Lewicki, Barry y Saunders) siguen esa división, según el informe de esta base.
 
 Casi ninguna negociación real es de un solo tipo. Esta base llama valor creado a lo que un acuerdo agrega frente a no acordar, y valor reclamado a la parte que se lleva cada uno. Las dos pasan en la misma mesa: un buen acuerdo se puede repartir mal, y un reparto ganado puede dejar sin crear valor disponible. Lo integrativo tiene su nota, [negociación integrativa](negociacion-integrativa.md); lo distributivo, el anclaje y las concesiones, está en [primera oferta y concesiones](primera-oferta-y-concesiones.md).
 
@@ -71,7 +71,7 @@ El hallazgo más citado es que mostrarse enojado saca concesiones, pero solo en 
 
 ## De dónde viene la evidencia
 
-Casi toda la evidencia de esta vertical sale de experimentos con estudiantes que negocian casos inventados, con excepciones (agentes inmobiliarios, recién contratados) que cada nota dice. Si lo del laboratorio vale entre profesionales no tiene fuente específica; Many Labs 1, que según un resumen replicó el anclaje en 36 muestras, da algo de contexto, y está en [heurísticas y sesgos](../../Psicologia/Juicio-y-decision/heuristicas-y-sesgos.md#anclaje-el-sesgo-mejor-sostenido). Casi todas las cifras salen de abstracts. Cómo leer un tamaño de efecto está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md#cuánto-es-grande-el-tamaño-de-efecto).
+Buena parte de la evidencia de esta vertical sale de experimentos de laboratorio, y de varios el informe no trae la muestra; hay excepciones (agentes inmobiliarios, recién contratados) que cada nota dice. Si lo del laboratorio vale entre profesionales no tiene fuente específica; Many Labs 1, que según resúmenes replicó el anclaje en 36 muestras (el informe no lo verificó efecto por efecto), da algo de contexto, y está en [heurísticas y sesgos](../../Psicologia/Juicio-y-decision/heuristicas-y-sesgos.md#anclaje-el-sesgo-mejor-sostenido). Casi todas las cifras salen de abstracts. Cómo leer un tamaño de efecto está en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md#cuánto-es-grande-el-tamaño-de-efecto).
 
 > [!NOTE] Sin fuente todavía: estudios de negociación en empresas chicas, entre socios o entre fundadores; y evaluaciones independientes de *Getting to Yes* como método completo.
 

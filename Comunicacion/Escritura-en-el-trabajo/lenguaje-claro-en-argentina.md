@@ -25,7 +25,7 @@ Qué es el lenguaje claro y qué evidencia tiene está en [lenguaje claro](lengu
 
 La Legislatura porteña la sancionó el 3 de diciembre de 2020, y rige desde su publicación en el Boletín Oficial, el 18 de diciembre de 2020. Su objeto es promover el lenguaje claro en los actos y documentos del sector público de la Ciudad, para garantizar la transparencia, el derecho a comprender y el acceso a la información pública.
 
-El artículo 2 define el lenguaje claro como «el estilo de redacción clara y directa que facilita la comprensión del contenido que se transmite». Lo caracteriza por expresiones sencillas, párrafos breves, ningún tecnicismo innecesario y un diseño amigable, en cualquier soporte. La prueba que da la ley es la del lector: un documento cumple si quien lo recibe encuentra lo que necesita, lo entiende rápido y puede usarlo para decidir. Los términos técnicos quedan permitidos cuando hacen falta.
+El artículo 2 define el lenguaje claro como «el estilo de redacción clara y directa que facilita la comprensión del contenido que se transmite». Lo caracteriza por expresiones sencillas, párrafos breves, ningún tecnicismo innecesario y un diseño amigable. La prueba que da la ley es la del lector: un documento cumple si quien lo recibe encuentra lo que necesita, lo entiende rápido y puede usarlo para decidir. Los términos técnicos quedan permitidos cuando hacen falta.
 
 El artículo 4 dice a quién alcanza: los tres poderes de la Ciudad, las comunas, los organismos descentralizados y autárquicos, y las empresas y sociedades en que el Estado porteño tiene la mayoría. El artículo 5 lo hace obligatorio en su comunicación, sus publicaciones y su información pública. Cada poder designa su autoridad de aplicación y escribe una guía (artículos 6 y 7).
 

@@ -42,7 +42,7 @@ Una lectura de esta base: el consejo de practicante de Horowitz que cita esa not
 
 ## Los rumores dicen qué le preocupa a la gente
 
-Cuando falta información, la gente la completa con rumores. Bordia y colegas (2006) los recogieron en un hospital público grande durante un cambio, y según su abstract encontraron cinco tipos: sobre «changes to job and working conditions, nature of organizational change, poor change management, consequences of the change for organizational performance, and gossip».
+Se dice que cuando falta información la gente la completa con rumores; esta base no encontró evidencia de ese efecto de la incertidumbre. Bordia y colegas (2006) los recogieron en un hospital público grande durante un cambio, y según su abstract encontraron cinco tipos: sobre «changes to job and working conditions, nature of organizational change, poor change management, consequences of the change for organizational performance, and gossip».
 
 Dos resultados importan para quien comunica. «Negative rumors were more prevalent than positive rumors», y quienes contaban rumores negativos reportaban más estrés por el cambio que quienes contaban positivos o ninguno. Los autores proponen leer los rumores como «verbal symbols and expressions of employee concerns during organizational change». Es una sola organización y el diseño es correlacional: no dice si el rumor causa el estrés o al revés ([correlación o experimento](../../Psicologia/Fundamentos/como-leer-un-estudio.md#correlación-o-experimento)).
 
@@ -72,9 +72,11 @@ El estudio tiene límites. Es una sola muestra, transversal y por autoinforme, y
 
 ## Cómo comunicar un cambio o un recorte a todos
 
+Si el recorte incluye salidas, el orden importa y ningún estudio de esta base lo midió. La práctica que se conoce es la de Horowitz, un solo caso sin medición que cuenta [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md): cada jefe habla primero con su propia gente, una por una, como dice [dar malas noticias](../Conversaciones-dificiles/dar-malas-noticias.md), y después quien dirige le habla a todos, porque el mensaje es para los que se quedan. Los pasos que siguen son para esa segunda conversación.
+
 1. Explicá por qué, aunque la decisión ya esté tomada y no cambie. Sale de Shaw, Wild y Colquitt (2003): las explicaciones rindieron más después de resultados desfavorables.
 2. Si la causa estuvo fuera de tu control, decilo así, en lugar de solo defender que la decisión era buena. Sale del mismo metaanálisis (excusas antes que justificaciones), con la definición de los términos sin verificar. Usarla solo si es cierta es inferencia de esta base: el abstract no dice qué pasa cuando la excusa se descubre falsa.
-3. Decilo a todos en vivo y mandá después lo mismo por escrito. Es inferencia de esta base a partir de Men (2014), donde el cara a cara se asoció con satisfacción y el mail fue el canal preferido para recibir información.
+3. Decilo a todos en vivo y mandá después lo mismo por escrito. Choca en apariencia con [elegir el canal](elegir-el-canal.md), que manda a escribir lo que solo informa: un recorte que toca a la gente trae preguntas y emociones, y eso ya es convergencia, no transmisión (lectura de esta base). Es inferencia de esta base a partir de Men (2014), donde el cara a cara se asoció con satisfacción y el mail fue el canal preferido para recibir información.
 4. Tomá los rumores como una lista de lo que preocupa y contestá cada tema. Que expresan preocupaciones es la propuesta de Bordia y colegas (2006); contestarlos es inferencia de esta base, sin estudio de tácticas.
 5. Pedí preguntas y objeciones, y mostrá qué hiciste con las que llegaron. Sale de Detert y Burris (2007), donde la apertura del jefe se asoció con más voz; el estudio es correlacional.
 6. Si nadie pregunta, no lo tomes como acuerdo. Sale de Milliken, Morrison y Hewlin (2003): la razón más citada para callar fue el miedo a quedar mal.

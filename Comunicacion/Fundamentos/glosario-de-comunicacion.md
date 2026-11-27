@@ -22,7 +22,7 @@ Las definiciones son formulaciones de esta base a partir de cada nota, que tiene
 | Término | Qué es |
 |---|---|
 | [Siete tradiciones de Craig](fundamentos-de-comunicacion.md) | La división de la teoría de la comunicación en retórica, semiótica, fenomenológica, cibernética, sociopsicológica, sociocultural y crítica (Craig, 1999). |
-| [Modelo transaccional](fundamentos-de-comunicacion.md) | El que trata a los dos interlocutores como emisores y receptores a la vez. |
+| [Modelo transaccional](fundamentos-de-comunicacion.md) | El de Barnlund (1970), que sigue a los modelos lineal y circular; esta base no pudo verificarlo con fuente y no lo desarrolla. |
 | [Transferencia del entrenamiento](fundamentos-de-comunicacion.md) | Cuánto de lo aprendido en un curso se usa en el trabajo. |
 | [Habilidad abierta y cerrada](fundamentos-de-comunicacion.md) | Las abiertas, como comunicar, dependen más del entorno para transferirse que las cerradas, como usar un programa. |
 | [Intervalo de credibilidad](fundamentos-de-comunicacion.md) | El rango donde caen los efectos de distintos programas en un metaanálisis; si cruza el cero, hay programas sin efecto. |

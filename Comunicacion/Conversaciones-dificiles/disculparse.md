@@ -2,7 +2,7 @@
 resumen: >-
   Disculparse es reconocerle a otro que uno le hizo daño y hacerse cargo. En experimentos con escenarios, las disculpas con más componentes se juzgaron más eficaces, sobre todo las que reconocen la responsabilidad; en un metaanálisis de 175 estudios, la disculpa estuvo entre los predictores más fuertes de que el otro perdone.
 estado: borrador
-estabilidad: estable
+estabilidad: semi
 fuentes:
   - "Lewicki, Polin y Lount (2016), componentes de una disculpa eficaz, Negotiation and Conflict Management Research 9(2):177-196 (según su abstract): https://doi.org/10.1111/ncmr.12073 (abstract en https://ncmr.lps.library.cmu.edu/article/id/264/)"
   - "Ohio State University, nota de prensa sobre Lewicki, Polin y Lount (según un resumen): https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/"
@@ -17,7 +17,7 @@ revisado:
 
 Disculparse es reconocerle a otro que uno le hizo daño y hacerse cargo. En experimentos con escenarios, las disculpas con más componentes se juzgaron más eficaces, sobre todo las que reconocen la responsabilidad; en un metaanálisis de 175 estudios, la disculpa estuvo entre los predictores más fuertes de que el otro perdone.
 
-Es una de las situaciones de [Conversaciones difíciles](conversaciones-dificiles.md), y la que mejor evidencia tiene después de la justicia organizacional de [dar malas noticias](dar-malas-noticias.md). La disculpa de un jefe para recuperar la confianza de su equipo, y cuándo conviene disculparse o negar según la falta, está en [confianza en el líder](../../Liderazgo-y-direccion/Liderar-personas/confianza-en-el-lider.md#disculpa-o-negación-una-regla-con-un-solo-artículo-detrás); esta nota trata la disculpa entre dos personas cualquiera.
+Es una de las situaciones de [Conversaciones difíciles](conversaciones-dificiles.md), y, a juicio de esta base, la que mejor evidencia tiene después de la justicia organizacional de [dar malas noticias](dar-malas-noticias.md). La disculpa de un jefe para recuperar la confianza de su equipo, y cuándo conviene disculparse o negar según la falta, está en [confianza en el líder](../../Liderazgo-y-direccion/Liderar-personas/confianza-en-el-lider.md#disculpa-o-negación-una-regla-con-un-solo-artículo-detrás); esta nota trata la disculpa entre dos personas cualquiera.
 
 ## Los seis componentes de una disculpa
 
@@ -40,7 +40,7 @@ El límite está en el método. Las personas juzgaron disculpas escritas en un e
 
 ## Pesa qué tipo de falta fue
 
-En el mismo estudio, según su abstract, las disculpas después de una falta de competencia se vieron más eficaces que después de una falta de integridad. Una falta de competencia es no saber hacer algo; una de integridad, hacer algo mal a sabiendas.
+En el mismo estudio, según su abstract, las disculpas después de una falta de competencia se vieron más eficaces que después de una falta de integridad. Esta base entiende una falta de competencia como no saber hacer algo y una de integridad como hacer algo mal a sabiendas (definición de esta base, no del abstract).
 
 El resultado coincide con el de Kim, Ferrin, Cooper y Dirks (2004), que está en [confianza en el líder](../../Liderazgo-y-direccion/Liderar-personas/confianza-en-el-lider.md): allí la disculpa reparó mejor la confianza tras una falta de competencia, y la negación tras una de integridad. Que dos grupos de autores lleguen a lo mismo por caminos distintos es lo más cerca de una réplica que encontró esta base. Las dos líneas son escenarios o laboratorio.
 
@@ -48,7 +48,7 @@ Una lectura de esta base: cuando la falta fue de integridad, la disculpa sola ri
 
 ## Qué predice que el otro perdone
 
-Fehr, Gelfand y Nag (2010) metaanalizaron 175 estudios con 26.006 participantes sobre el perdón entre una víctima y quien la ofendió. Ordenaron los predictores en tres bloques: lo que la víctima piensa, lo que siente y las restricciones de la relación. Según su abstract, la intención, la empatía, la disculpa y el enojo del momento mostraron los efectos más fuertes. Esta base lee «intención» como la que la víctima le ve al ofensor: si cree que lo hizo a propósito.
+Fehr, Gelfand y Nag (2010) metaanalizaron 175 estudios con 26.006 participantes sobre el perdón entre una víctima y quien la ofendió. Ordenaron los predictores en tres bloques: lo que la víctima piensa, lo que siente y las restricciones. Según su abstract, la intención, la empatía, la disculpa y el enojo del momento mostraron los efectos más fuertes. Esta base lee «intención» como la que la víctima le ve al ofensor: si cree que lo hizo a propósito.
 
 Tres resultados más del abstract importan para quien se disculpa:
 
