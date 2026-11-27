@@ -3,7 +3,7 @@ resumen: >-
   Elegir entre mejorar el prompt, sumar RAG o hacer finetuning es decidir cómo adaptar un modelo a
   una tarea: se empieza por el prompt, se suma contexto cuando al modelo le falta información y se
   entrena solo cuando lo que falla es su comportamiento y hay datos para corregirlo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
@@ -15,7 +15,7 @@ fuentes:
   - https://developers.openai.com/api/docs/guides/distillation
 aliases: [escalera de adaptación, prompt vs RAG vs finetuning]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Prompt, RAG o finetuning

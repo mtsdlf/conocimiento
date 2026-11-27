@@ -2,7 +2,7 @@
 resumen: >-
   Clasificadores, frameworks y APIs de moderación para implementar guardrails, con lo que dice cada
   fuente y las cifras de latencia publicadas, copiados el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://arxiv.org/abs/2312.06674
@@ -17,7 +17,7 @@ fuentes:
   - https://developer.nvidia.com/blog/measuring-the-effectiveness-and-performance-of-ai-guardrails-in-generative-ai-applications/
 aliases: [guardrail tools, Llama Guard, NeMo Guardrails, Guardrails AI, moderation API]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Herramientas de guardrails

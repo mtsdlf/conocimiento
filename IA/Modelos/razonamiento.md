@@ -3,7 +3,7 @@ resumen: >-
   Un modelo de razonamiento genera pasos intermedios antes de responder y gasta más cómputo en la
   inferencia para acertar en tareas de varios pasos; esa conducta se entrena con aprendizaje por
   refuerzo sobre tareas verificables y se regula con cuántos tokens se lo deja pensar.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://magazine.sebastianraschka.com/p/understanding-reasoning-llms
@@ -21,7 +21,7 @@ fuentes:
   - https://arxiv.org/abs/2506.07142
 aliases: [reasoning, modelos de razonamiento, reasoning models, LRM, test-time compute, cómputo en inferencia, cadena de pensamiento, chain of thought, CoT, thinking, pensamiento extendido, RLVR, GRPO]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Razonamiento

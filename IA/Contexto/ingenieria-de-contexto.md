@@ -3,7 +3,7 @@ resumen: >-
   La ingeniería de contexto es decidir, en cada paso de una tarea, qué entra en la ventana del modelo
   y qué queda afuera, porque la ventana es finita y el modelo rinde peor a medida que se llena.
   Abarca el prompt, la recuperación, la memoria, la compactación y el reparto entre agentes.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
@@ -17,7 +17,7 @@ fuentes:
   - https://platform.claude.com/docs/en/build-with-claude/compaction
 aliases: [context engineering, ingeniería del contexto, context rot, lost in the middle, compactación, compaction]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ingeniería de contexto

@@ -3,7 +3,7 @@ resumen: >-
   La observabilidad de un sistema con un modelo es registrar cada consulta con su entrada, su
   salida y sus pasos intermedios, más las métricas del modelo y del sistema, para poder seguir qué
   le pasó a cada consulta y de dónde vino una falla.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -13,7 +13,7 @@ fuentes:
   - https://hamel.dev/blog/posts/evals/
 aliases: [observability, monitoreo, monitoring, trazas de LLM]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Observabilidad

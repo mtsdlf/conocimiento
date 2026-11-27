@@ -3,7 +3,7 @@ resumen: >-
   Los datos para ajustar son los ejemplos de entrada y respuesta con los que se entrena un modelo;
   se juzgan por calidad, cobertura y cantidad, y pocos ejemplos buenos, revisados a mano, sin
   duplicados y separados de los casos de evaluación rinden más que muchos con ruido.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
@@ -16,7 +16,7 @@ fuentes:
   - https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
 aliases: [datos de entrenamiento, dataset de ajuste, training data, finetuning data, curación de datos, data curation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Datos para ajustar

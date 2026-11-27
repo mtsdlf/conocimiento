@@ -4,7 +4,7 @@ resumen: >-
   throughput y utilización del hardware, y se optimiza cambiando el modelo (cuantización,
   decodificación especulativa) o el servicio que lo atiende (batching, memoria de la KV cache,
   separar prefill y decode).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -23,7 +23,7 @@ fuentes:
   - https://platform.claude.com/docs/en/build-with-claude/extended-thinking
 aliases: [inference, inference optimization, optimización de inferencia, serving, servicio de inferencia, LLM serving]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inferencia

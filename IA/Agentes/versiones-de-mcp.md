@@ -2,7 +2,7 @@
 resumen: >-
   Las versiones de la especificación de MCP desde 2024, con lo que cambió en cada una, quién
   gobierna el protocolo y las cifras de adopción publicadas, copiado el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://modelcontextprotocol.io/specification/latest
@@ -14,7 +14,7 @@ fuentes:
   - https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
 aliases: [historia de MCP, MCP specification versions, versiones de la especificación de MCP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Versiones de MCP

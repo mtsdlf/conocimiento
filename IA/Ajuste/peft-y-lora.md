@@ -3,7 +3,7 @@ resumen: >-
   PEFT es la familia de técnicas que ajustan un modelo entrenando una fracción chica de parámetros
   con el resto congelado; LoRA, la más usada, aprende la actualización como dos matrices chicas, y
   QLoRA suma guardar el modelo congelado en 4 bits para ajustar modelos grandes en una sola GPU.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://huggingface.co/docs/peft/index
@@ -22,7 +22,7 @@ fuentes:
   - https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
 aliases: [PEFT, parameter-efficient finetuning, ajuste eficiente en parámetros, LoRA, low-rank adaptation, QLoRA, adapters, adaptadores, prompt tuning, soft prompts, fusión de modelos, model merging]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # PEFT y LoRA

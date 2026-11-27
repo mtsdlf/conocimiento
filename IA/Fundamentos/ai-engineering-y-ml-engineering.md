@@ -4,7 +4,7 @@ resumen: >-
   lugar de entrenar uno propio, y por eso pone el peso en la evaluación y en el producto antes que
   en el modelado; la pila se divide en tres capas (aplicación, desarrollo de modelos e
   infraestructura).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack
@@ -20,7 +20,7 @@ fuentes:
   - https://metr.org/blog/2026-02-24-uplift-update/
 aliases: [AI engineering vs ML engineering, AI engineer, ML engineer, ingeniería de ML, AI engineering stack, pila de AI engineering]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # AI engineering y ML engineering

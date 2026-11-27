@@ -3,7 +3,7 @@ resumen: >-
   Un token es la unidad en que el modelo parte el texto para leerlo y escribirlo (una palabra, un
   pedazo de palabra o un byte), y un embedding es el vector de números con que el modelo representa
   cada token por dentro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://arxiv.org/abs/1508.07909
@@ -14,7 +14,7 @@ fuentes:
   - http://cs336.stanford.edu/spring2025/
 aliases: [token, tokens, tokenización, tokenizer, tokenizador, embedding, embeddings, BPE, byte pair encoding, vocabulario]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Token y embedding

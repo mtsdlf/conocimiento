@@ -3,7 +3,7 @@ resumen: >-
   Los evals de un sistema con un modelo son un conjunto de casos que imita el uso real y mide qué
   proporción de las salidas cumple los criterios del producto; reemplazan a la prueba de resultado
   exacto cuando la misma entrada puede dar salidas distintas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -18,7 +18,7 @@ fuentes:
   - https://arxiv.org/abs/2502.14318
 aliases: [evals, eval, conjunto de evaluación, eval suite]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Evals

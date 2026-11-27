@@ -3,7 +3,7 @@ resumen: >-
   Las métricas de evaluación son las fórmulas que califican una salida sin una persona: si el código
   generado pasa pruebas (corrección funcional), cuánto se parece a una respuesta de referencia
   (similitud) o qué tan probable le resulta un texto al modelo (perplejidad).
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -18,7 +18,7 @@ fuentes:
   - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/
 aliases: [evaluation metrics, métricas de LLM, exact evaluation, evaluación exacta, pass@k, BLEU, ROUGE, BERTScore, perplejidad, perplexity]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Métricas de evaluación

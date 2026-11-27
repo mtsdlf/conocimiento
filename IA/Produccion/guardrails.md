@@ -3,7 +3,7 @@ resumen: >-
   Los guardrails son los controles que se ponen sobre lo que entra al modelo, lo que sale de él y
   las acciones que dispara, cada uno para un tipo de falla que los otros no atrapan; bajan el
   riesgo sin eliminarlo, y cada capa se paga en latencia y en pedidos legítimos bloqueados.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -23,7 +23,7 @@ fuentes:
   - https://blog.premai.io/production-llm-guardrails-nemo-guardrails-ai-llama-guard-compared
 aliases: [guardrails de LLM, guardrail, barandas, LLM guardrails, guardrail stack, pila de guardrails, moderación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Guardrails

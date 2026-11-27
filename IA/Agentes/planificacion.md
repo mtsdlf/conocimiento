@@ -4,7 +4,7 @@ resumen: >-
   cuando un paso sale mal; Huyen recomienda validar el plan antes de ejecutarlo, y Kambhampati et
   al. sostienen, en una tesis disputada, que un modelo de lenguaje no planifica de forma confiable
   sin un verificador externo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://huyenchip.com/2025/01/07/agents.html
@@ -17,7 +17,7 @@ fuentes:
   - https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
 aliases: [planning, planificación de agentes, agent planning, reflexión, reflection, Reflexion, LLM-Modulo, horizonte de tiempo, time horizon]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planificación

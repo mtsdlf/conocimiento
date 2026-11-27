@@ -3,7 +3,7 @@ resumen: >-
   El post-entrenamiento es la etapa que convierte un modelo preentrenado, que solo continúa texto,
   en uno que sigue instrucciones y conversa: primero con ajuste supervisado sobre ejemplos y después
   con ajuste por preferencias (RLHF, DPO o IA constitucional).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
@@ -18,7 +18,7 @@ fuentes:
   - https://web.stanford.edu/~jurafsky/slp3/
 aliases: [post-training, posentrenamiento, alineación, alignment, SFT, supervised finetuning, ajuste supervisado, ajuste por preferencias, preference finetuning, RLHF, DPO, RLAIF, constitutional AI, IA constitucional, modelo de recompensa, reward model]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Post-entrenamiento

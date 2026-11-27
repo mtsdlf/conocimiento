@@ -4,7 +4,7 @@ resumen: >-
   de modo que haga una tarea casi tan bien a menor costo y latencia; según la lectura habitual del
   paper original, el alumno aprende de las probabilidades del maestro, y en el uso actual con modelos
   de lenguaje, de sus textos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://arxiv.org/abs/1503.02531
@@ -17,7 +17,7 @@ fuentes:
   - https://github.com/deepseek-ai/DeepSeek-R1
 aliases: [distillation, knowledge distillation, destilación de conocimiento, maestro y alumno, teacher-student]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Destilación

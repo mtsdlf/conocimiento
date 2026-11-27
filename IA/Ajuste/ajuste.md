@@ -3,7 +3,7 @@ resumen: >-
   El ajuste es la parte de un sistema con un modelo adentro que cambia los pesos del modelo
   entrenándolo con ejemplos propios, en lugar de cambiar lo que entra en su ventana; es la forma
   más cara de adaptar un modelo, y lo caro está en los datos más que en el entrenamiento.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -14,7 +14,7 @@ fuentes:
   - https://arxiv.org/abs/2312.05934
 aliases: [ajuste del modelo, adaptación de pesos, model adaptation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ajuste

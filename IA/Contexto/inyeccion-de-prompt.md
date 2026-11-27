@@ -4,7 +4,7 @@ resumen: >-
   por el usuario o escondido en un documento, una página o un resultado de herramienta) le da
   instrucciones que la aplicación no quería. No hay defensa completa: se diseña el sistema para que
   un modelo engañado no pueda hacer daño.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/GenAI-Security-Project/GenAI-LLM-Top10/main/README.md
@@ -27,7 +27,7 @@ fuentes:
   - "Huyen, AI Engineering (O'Reilly, 2025), cap. 5, de «Defensive Prompt Engineering» p. 235 a «Defenses Against Prompt Attacks» p. 248 (solo índice)"
 aliases: [prompt injection, inyección indirecta, indirect prompt injection, lethal trifecta, extracción de prompt, system prompt leakage, hidden context exposure]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Inyección de prompt

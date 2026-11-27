@@ -3,7 +3,7 @@ resumen: >-
   Producción es operar un sistema con un modelo adentro: las capas que se suman alrededor del
   modelo (guardrails, router y gateway, cache), el servicio de inferencia que lo corre y la
   observabilidad que registra qué le pasó a cada consulta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack
@@ -13,7 +13,7 @@ fuentes:
   - https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices
 aliases: [producción, operar un sistema con modelos, LLMOps, AI engineering in production, infraestructura de IA]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Producción

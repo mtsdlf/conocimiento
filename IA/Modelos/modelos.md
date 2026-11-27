@@ -3,7 +3,7 @@ resumen: >-
   Modelos es la parte del tema que explica qué es un modelo base, cómo se entrena y cómo genera
   texto token a token; de ese mecanismo salen los límites (lo probable no es lo verdadero, la
   ventana es finita, la salida varía, el saber tiene fecha) que el resto del sistema compensa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -17,7 +17,7 @@ fuentes:
   - https://arxiv.org/abs/2312.05934
   - https://lilianweng.github.io/posts/2024-07-07-hallucination/
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelos

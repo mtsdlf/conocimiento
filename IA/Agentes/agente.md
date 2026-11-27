@@ -3,7 +3,7 @@ resumen: >-
   Un agente es un sistema en el que el modelo decide sus propios pasos: planifica, llama
   herramientas, mira el resultado y sigue hasta terminar la tarea, en lugar de recorrer un camino
   fijado en el código.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2025/01/07/agents.html
@@ -21,7 +21,7 @@ fuentes:
   - https://www.latent.space/p/ainews-is-harness-engineering-real
 aliases: [agent, agente de IA, AI agent, agentic system, sistema agéntico, harness, harness engineering]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Agente

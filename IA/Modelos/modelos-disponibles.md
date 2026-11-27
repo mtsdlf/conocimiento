@@ -3,7 +3,7 @@ resumen: >-
   Los modelos que ofrecían los principales proveedores al 2026-11-27, con su identificador, ventana
   de contexto, salida máxima, corte de conocimiento y, donde la fuente lo da, precio y fecha de
   retiro; solo lo verificado en la página viva de cada proveedor.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - https://platform.claude.com/docs/en/models/overview
@@ -12,7 +12,7 @@ fuentes:
   - https://aistudio.google.com/docs/models
   - https://api-docs.deepseek.com/news/news260424
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelos disponibles

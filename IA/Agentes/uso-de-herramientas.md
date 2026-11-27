@@ -4,7 +4,7 @@ resumen: >-
   función que la aplicación declaró: el modelo emite la llamada con sus argumentos y la aplicación
   la ejecuta y le devuelve el resultado. MCP es el protocolo abierto que estandariza cómo se
   ofrecen esas herramientas.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview
@@ -19,7 +19,7 @@ fuentes:
   - https://genai.owasp.org/llmrisk/llm062025-excessive-agency/
 aliases: [tool use, function calling, llamada a funciones, llamadas a herramientas, tool calling, MCP, Model Context Protocol]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Uso de herramientas

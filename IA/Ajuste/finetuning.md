@@ -3,7 +3,7 @@ resumen: >-
   El finetuning es seguir entrenando un modelo ya entrenado con ejemplos de una tarea, para que
   cambie su comportamiento de forma estable; sirve para formato, estilo y criterio más que para
   meter hechos nuevos, pide mucha más memoria que inferir y puede hacerle olvidar lo que ya sabía.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -19,7 +19,7 @@ fuentes:
   - https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
 aliases: [fine-tuning, ajuste fino, full finetuning, finetuning completo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Finetuning

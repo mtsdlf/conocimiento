@@ -3,7 +3,7 @@ resumen: >-
   Una alucinación es una afirmación falsa que el modelo emite con la forma y la seguridad de una
   verdadera; las fuentes la atribuyen a los datos, al post-entrenamiento, a la generación token a
   token y a la manera en que se evalúa al modelo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://arxiv.org/abs/2509.04664
@@ -15,7 +15,7 @@ fuentes:
   - https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations
 aliases: [hallucination, alucinaciones, confabulación, confabulation, calibración, calibration]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Alucinación

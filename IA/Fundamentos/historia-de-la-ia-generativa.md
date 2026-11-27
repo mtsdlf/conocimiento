@@ -4,7 +4,7 @@ resumen: >-
   redes recurrentes al Transformer de 2017, y de ahí al escalado (GPT-3, 2020), al ajuste por
   preferencias humanas (ChatGPT, 2022), a los modelos base que manejan varios tipos de dato y a
   los modelos de razonamiento (2024-2025).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - https://web.stanford.edu/~jurafsky/slp3/
@@ -27,7 +27,7 @@ fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
 aliases: [historia de los LLM, historia de la IA generativa, history of generative AI, de los modelos de lenguaje a los modelos base]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia de la IA generativa

@@ -4,7 +4,7 @@ resumen: >-
   por terminadas sin terminar, pasos de más) y se evalúa midiendo cada modo de falla por separado,
   la trayectoria y no solo el resultado, y la fiabilidad en varios intentos; como actúa sobre el
   mundo, sus acciones se limitan con mínimo privilegio y aprobación humana.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2025/01/07/agents.html
@@ -20,7 +20,7 @@ fuentes:
   - https://modelcontextprotocol.io/specification/latest
 aliases: [agent failure modes, modos de falla de agentes, evaluación de agentes, agent evaluation, excessive agency, agencia excesiva, pass^k, MAST]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fallas de agentes
