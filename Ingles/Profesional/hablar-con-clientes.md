@@ -3,7 +3,7 @@ resumen: >-
   Hablar con clientes en inglés, para un rol técnico, es relevar necesidades preguntando por hechos
   pasados, mostrar el producto en una demo que abre con el resultado y explicarle a alguien no
   técnico qué hace un sistema, cuándo se equivoca y cuánta incertidumbre hay.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "van der Bles et al. (2019), Communicating uncertainty about facts, numbers and science, Royal Society Open Science 6(5), 181870: https://pmc.ncbi.nlm.nih.gov/articles/PMC6549952"
@@ -23,7 +23,7 @@ aliases:
   - FDE
   - Explicar incertidumbre
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hablar con clientes

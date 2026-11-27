@@ -4,7 +4,7 @@ resumen: >-
   una forma esperada: un update en titulares, los bloqueos dichos temprano y el desacuerdo planteado
   sin frenar al equipo. En inglés y con colegas de otros países, lo que más cuesta es entrar a
   tiempo y decir algo incómodo sin sonar brusco.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Schwaber y Sutherland, The Scrum Guide (noviembre de 2020): https://scrumguides.org/scrum-guide.html"
@@ -25,7 +25,7 @@ aliases:
   - Sprint planning
   - Disagree and commit
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reuniones de equipo

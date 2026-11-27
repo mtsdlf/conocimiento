@@ -3,7 +3,7 @@ resumen: >-
   La comunicación en un incidente de producción tiene tres momentos con géneros distintos: la llamada
   en vivo, con roles y frases cortas que no dejan lugar a dudas; los avisos a clientes, con una
   cadencia fija; y el postmortem escrito, que busca causas sin culpar a nadie.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Google, Site Reliability Engineering, cap. 14 Managing Incidents: https://sre.google/sre-book/managing-incidents/"
@@ -20,7 +20,7 @@ aliases:
   - Status page
   - On-call
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Incidentes

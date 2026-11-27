@@ -4,7 +4,7 @@ resumen: >-
   (commit messages, descripciones de pull request, bug reports, design docs y RFC, documentación).
   Cada uno tiene convenciones publicadas, y todos se escriben para un lector global que muchas veces
   tampoco es nativo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Google developer documentation style guide, Write for a global audience: https://developers.google.com/style/translation"
@@ -27,7 +27,7 @@ aliases:
   - Design doc
   - RFC
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escritura técnica

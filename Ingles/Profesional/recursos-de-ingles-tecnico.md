@@ -2,7 +2,7 @@
 resumen: >-
   Las guías de estilo, los handbooks públicos de empresas y las guías oficiales que sostienen las
   notas de inglés profesional en software, con qué leer de cada una, al 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ingles/.investigacion/profesional-escrito.md"
@@ -12,7 +12,7 @@ aliases:
   - Recursos de inglés para IT
   - Guías de estilo técnico
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recursos de inglés técnico

@@ -4,7 +4,7 @@ resumen: >-
   esperar respuesta inmediata: mensajes que se entienden solos, con todo el contexto y la pregunta
   explícita. Para quien trabaja en su segunda lengua es una ventaja, porque escribir da tiempo, y una
   exigencia, porque lo escrito queda.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "37signals, The 37signals guide to internal communication: https://basecamp.com/guides/how-we-communicate"
@@ -23,7 +23,7 @@ aliases:
   - Status update
   - No hello
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trabajo remoto y asincrónico
