@@ -11,7 +11,7 @@ fuentes:
   - "Hu y Yucel, 30 países, justificación y satisfacción — https://eprints.lancs.ac.uk/id/eprint/89080/1/Hu_Yucel_ESR_What_Fairness.pdf (resumen del buscador)"
   - "Carriero y Todesco, viñetas sobre equidad e ideología de género — https://iris.unito.it/bitstream/2318/1633308/1/The%20Interplay%20of%20Equity%20and%20Gender%20Ideology%20in%20Perceived%20Housework%20Fairness.doc (resumen secundario)"
   - "Mikula, Riederer y Bodi 2011, Personal Relationships — https://bps.org.uk/research-digest/when-wives-believe-they-do-unfair-share-housework-everyone-loses-0 (resumen de divulgación)"
-  - "Estudio en PLoS ONE, PMC6426245 (identificado como Gillespie, Peterson y Lever 2019 en un informe y como un estudio japonés en otro) — https://pmc.ncbi.nlm.nih.gov/articles/PMC6426245 (resumen secundario)"
+  - "Gillespie, Peterson y Lever 2019, PLoS ONE 14(3):e0214204 — https://pmc.ncbi.nlm.nih.gov/articles/PMC6426245 (abstract y texto, verificado en la fuente)"
   - "Ruppanner, Brandén y Turunen 2018, Sociology 52(1):75-94 — https://journals.sagepub.com/doi/10.1177/0038038516674664 (resumen secundario)"
   - "Kornrich, Brines y Leupp 2013, American Sociological Review 78(1):26-50 — https://www.asanet.org/wp-content/uploads/savvy/documents/press/pdfs/ASR_February_2013_Kornrich_News_Release.pdf (nota de prensa)"
   - "Carlson, Miller, Sassler y Hanson 2016, Journal of Marriage and Family 78:975-995 — https://daily.jstor.org/housework-gender-roles-sex/ (resumen de divulgación)"
@@ -35,7 +35,7 @@ No es una teoría de por qué se reparte como se reparte, como las [teorías del
 
 Lennon y Rosenfield (1994) parten de un enigma: las esposas con empleo hacen «aproximadamente el doble» de tarea doméstica que sus maridos, y aun así la mayoría lo ve justo. Su explicación es de opciones: quienes tienen más alternativas fuera del matrimonio y más recursos propios ven el mismo reparto como injusto. Ver el reparto como injusto, a su vez, se asocia con peor bienestar psicológico (según su abstract).
 
-La consecuencia para leer cualquier estudio es fuerte: **percibido como justo no quiere decir parejo, ni siquiera justo**. La equidad percibida puede reflejar el poder y las opciones de cada uno.
+La consecuencia para leer cualquier estudio (una inferencia de la base a partir de ese resultado) es fuerte: **percibido como justo no quiere decir parejo, ni siquiera justo**. La equidad percibida puede reflejar el poder y las opciones de cada uno.
 
 ## De qué depende el juicio de justicia
 
@@ -45,11 +45,11 @@ Las justificaciones cambian el efecto de las horas. Según un resumen de un estu
 
 ## Qué pesa más en la pareja: el juicio o las horas
 
-Varios estudios encuentran que el juicio de justicia se asocia con la relación más que las horas:
+Varios estudios asocian el juicio de justicia con la relación, y al menos uno (Mikula y colegas) lo ve pesar más que las horas:
 
 - Frisco y Williams (2003): la inequidad percibida se asocia con menos felicidad conyugal en los dos, pero solo en las esposas sube la probabilidad de divorcio (según su abstract).
 - Mikula, Riederer y Bodi (2011), con 389 parejas: para ellas, el juicio de justicia pesa más que la proporción de horas en el conflicto y la satisfacción; ellos parecen bastante ajenos al tema (según un resumen de divulgación).
-- Un estudio publicado en PLoS ONE encuentra que sentir que uno mismo recibe un trato injusto predice la calidad de la relación más que sentir que lo recibe la pareja, y que la justicia en los gastos compartidos pesa más que la de la tarea (según un resumen). Los dos informes de esta base lo identifican distinto: uno como Gillespie, Peterson y Lever (2019) con 10.236 personas, el otro como un estudio japonés donde la equidad importa para las esposas y no para los maridos; hay que confirmarlo en la fuente.
+- Gillespie, Peterson y Lever (2019), con 10.236 personas en parejas de distinto sexo que conviven, de Estados Unidos (encuesta de 2008): sentir que uno mismo recibe un trato injusto predice la calidad de la relación más que sentir que lo recibe la pareja, y la justicia en los gastos compartidos predice más que la de la tarea (según su abstract). Los autores encuentran poco apoyo general a sus hipótesis de género. No es un estudio japonés, como lo describía uno de los informes de esta base.
 
 Dos matices frenan la conclusión. No hay un metaanálisis que compare el peso de la equidad percibida con el de las horas: la idea descansa en estudios sueltos. Y las horas también cuentan: en 1.057 parejas suecas seguidas entre 2009 y 2014, las mujeres que decían hacer más estaban menos satisfechas, pensaban más en separarse, y esas uniones se disolvían más (Ruppanner, Brandén y Turunen 2018, según un resumen).
 

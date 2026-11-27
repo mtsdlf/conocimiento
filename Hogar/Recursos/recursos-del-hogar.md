@@ -33,7 +33,7 @@ Que un hogar tenga un recurso no dice quién lo usa. Tres ejemplos de las notas 
 
 - Según el abstract de Mattingly y Bianchi (2003), con diarios de Estados Unidos, los varones tienen más tiempo libre que las mujeres, y el de ellas está más mezclado con otras actividades o con los hijos.
 - Según un resumen de Vogler y Pahl (1994), con datos británicos, aun cuando una pareja dice poner toda la plata en común, en la práctica uno de los dos suele controlar ese fondo.
-- Según Solari y Mare (2012), vivir hacinado se asocia con peor bienestar de los chicos, aun descontando el nivel socioeconómico; el espacio pesa distinto sobre cada miembro de la casa.
+- Según Solari y Mare (2012), vivir hacinado se asocia con peor bienestar de los chicos, aun descontando el nivel socioeconómico.
 
 Por eso las notas de esta vertical miran menos cuánto hay y más cómo se reparte y quién decide. Lo que pasa cuando el tiempo de trabajo pago choca con el de la casa está en [trabajo y familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md), y cómo una persona organiza su propio día, en [tiempo y prioridades](../../Desarrollo-personal/Efectividad-personal/tiempo-y-prioridades.md).
 

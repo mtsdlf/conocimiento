@@ -1,13 +1,13 @@
 ---
 resumen: >-
-  El trabajo del hogar se mide sobre todo con encuestas de uso del tiempo, que piden un diario de un día o preguntan cuántas horas por semana. El diario es más fiable, las preguntas directas inflan las horas en los dos sexos, y ninguna de las dos capta bien la carga mental.
+  El trabajo del hogar se mide sobre todo con encuestas de uso del tiempo, que piden un diario de un día o preguntan cuántas horas por semana. Las preguntas directas inflan las horas en varios estudios y en los dos sexos, el diario también tiene sesgos, y ninguna de las dos capta bien la carga mental.
 estado: borrador
 estabilidad: estable
 fuentes:
   - "Kan 2008, Social Indicators Research — https://link.springer.com/doi/10.1007/s11205-007-9184-5 ; versión ISER 2006-11: https://www.iser.essex.ac.uk/wp-content/uploads/files/working-papers/iser/2006-11.pdf (abstract)"
   - "Kan y Pudney, ISER 2007-03 — https://www.iser.essex.ac.uk/wp-content/uploads/files/working-papers/iser/2007-03.pdf (resumen del buscador)"
   - "Press y Townsley 1998, citado en un documento del PSID — https://Psidonline.isr.umich.edu/Publications/Papers/achenproxyreports04.pdf (resumen secundario)"
-  - "Lee y Waite 2005, Journal of Marriage and Family 67(2) — https://pure.uos.ac.kr/en/publications/husbands-and-wives-time-spent-on-housework-a-comparison-of-measur/ (abstract)"
+  - "Lee y Waite 2005, Journal of Marriage and Family 67(2) — https://pure.uos.ac.kr/en/publications/husbands-and-wives-time-spent-on-housework-a-comparison-of-measur/ (resumen secundario)"
   - "Tao 2013, Social Indicators Research 111(3):713-724 — https://ideas.repec.org/a/spr/soinre/v111y2013i3p713-724.html (resumen del buscador)"
   - "Yavorsky, Kamp Dush y Schoppe-Sullivan 2015, Journal of Marriage and Family 77(3):662-679 — https://pmc.ncbi.nlm.nih.gov/articles/PMC4584401 (texto completo)"
   - "BLS, ATUS, capítulo de conceptos — https://www.bls.gov/opub/hom/atus/concepts.htm (texto completo)"
@@ -27,7 +27,7 @@ revisado:
 
 # Cómo se mide el trabajo del hogar
 
-El trabajo del hogar se mide sobre todo con encuestas de uso del tiempo, que piden un diario de un día o preguntan cuántas horas por semana. El diario es más fiable, las preguntas directas inflan las horas en los dos sexos, y ninguna de las dos capta bien la carga mental.
+El trabajo del hogar se mide sobre todo con encuestas de uso del tiempo, que piden un diario de un día o preguntan cuántas horas por semana. Las preguntas directas inflan las horas en varios estudios y en los dos sexos, el diario también tiene sesgos, y ninguna de las dos capta bien la carga mental.
 
 Casi toda cifra de la base sobre cuánto trabajo hay y quién lo hace sale de uno de estos métodos, así que conviene saber qué ve cada uno antes de creerle a un número. Las cifras argentinas están en la [ficha de la ENUT 2021](enut-2021.md).
 
@@ -44,7 +44,7 @@ Las preguntas directas dan más horas que los diarios, y no solo en los varones.
 > [!IMPORTANT]
 > Las fuentes no coinciden en quién sobrerreporta más.
 >
-> - **Los varones, en proporción.** Según un resumen secundario, Press y Townsley estimaron que los varones sobrerreportaban un 148 % y las mujeres un 68 %: ellos declaraban 7,7 horas semanales contra unas 4,2 en los diarios, y ellas 31,8 contra unas 18,4. Cifras no verificadas en el original. Lee y Waite (2005, según su abstract) hallaron que las esposas estimaban bien el tiempo de sus maridos y que los maridos sobrestimaban el propio.
+> - **Los varones, en proporción.** Según un resumen secundario, Press y Townsley estimaron que los varones sobrerreportaban un 148 % y las mujeres un 68 %: ellos declaraban 7,7 horas semanales contra unas 4,2 en los diarios, y ellas 31,8 contra unas 18,4. Cifras no verificadas en el original. Lee y Waite (2005, según una cita secundaria) hallaron que las esposas estimaban bien el tiempo de sus maridos y que los maridos sobrestimaban el propio.
 > - **Las mujeres, en horas.** Estudios anteriores, citados en el documento de trabajo de Kan, encontraron la diferencia entre pregunta y diario sustancialmente mayor en las mujeres.
 > - **Depende.** Kan (2008, según el abstract) comparó las dos medidas en los mismos 632 varones y 666 mujeres británicos (1999-2001): los varones con actitudes tradicionales declaran más en la pregunta que en el diario, pero la tendencia se invierte cuando hacen muchas horas, y tener hijos agranda la diferencia en los dos sexos.
 >

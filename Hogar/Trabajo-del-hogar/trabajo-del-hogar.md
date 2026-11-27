@@ -4,7 +4,7 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "BEA, FAQ 1294, criterio de la tercera persona de Reid (1934): https://www.bea.gov/help/faq/1294 (resumen del buscador)"
+  - "BEA, FAQ 1294, criterio de la tercera persona (la página no nombra a Reid; la atribución viene de un resumen del buscador y de bibliografía secundaria): https://www.bea.gov/help/faq/1294 (texto completo de la página)"
   - "Wood (1997), Feminist Economics 3(3), 47-68: https://econpapers.repec.org/RePEc:taf:femeco:v:3:y:1997:i:3:p:47-68 (resumen del buscador)"
   - "BLS, ATUS, capítulo de conceptos: https://www.bls.gov/opub/hom/atus/concepts.htm (texto completo)"
   - "INDEC, ENUT 2021, resultados definitivos, glosario y cuadro 14: https://www.estadisticasantafe.gob.ar/wp-content/uploads/sites/24/2022/10/enut_2021_resultados_definitivos.pdf (texto completo)"
@@ -25,7 +25,7 @@ Dentro del [hogar](../hogar.md) es la materia prima de todo lo demás. El [repar
 
 ## Qué hace que algo cuente como trabajo
 
-La economía de la producción del hogar nació con el libro de Reid de 1934. Según un resumen de la oficina de cuentas nacionales de Estados Unidos (BEA), que lo sigue usando, Reid propuso el criterio de la tercera persona: una actividad es producción del hogar si otra persona podría hacerla por uno. Cocinar, limpiar o llevar a un chico a la escuela pasan la prueba; dormir o comer, no. Según un resumen de su artículo, Wood critica que ese criterio mide el trabajo de la casa con la vara del mercado y deja afuera lo que no tiene equivalente pago.
+El libro de Reid de 1934 es el antecedente de la economía de la producción del hogar. Según un resumen de la oficina de cuentas nacionales de Estados Unidos (BEA), que lo sigue usando, el criterio de la tercera persona, que se atribuye a Reid, dice que una actividad es producción del hogar si otra persona podría hacerla por uno. Cocinar, limpiar o cuidar a un chico pasan la prueba; mirar televisión, no. Según un resumen de su artículo, Wood critica que ese criterio mide el trabajo de la casa con la vara del mercado y deja afuera lo que no tiene equivalente pago.
 
 Las encuestas de uso del tiempo (encuestas en las que la gente anota en un diario qué hizo en cada momento de un día) bajan esa idea a categorías. La Encuesta Nacional de Uso del Tiempo 2021 del INDEC (ENUT) separa el trabajo no remunerado en tres: trabajo doméstico, trabajo de cuidado de miembros del hogar y apoyo a otros hogares, a la comunidad y voluntario. La encuesta de Estados Unidos (ATUS, de la oficina de estadísticas laborales) separa igual las actividades del hogar del cuidado de sus miembros. Cómo se arman esas encuestas y qué se les escapa está en [cómo se mide](../Fundamentos/como-se-mide.md); el vocabulario, en el [glosario del hogar](../Fundamentos/glosario-del-hogar.md).
 
@@ -50,7 +50,7 @@ En Estados Unidos la brecha se achicó sin cerrarse. Según Bianchi y colegas (2
 
 ## Lo que las horas no ven
 
-Las horas miden lo que se hace, no lo que se piensa. La carga mental casi no aparece en los diarios de uso del tiempo, y por eso los estudios la miden con entrevistas y escalas propias, que dan resultados distintos; la disputa está en [carga mental](carga-mental.md). Las horas que la gente declara sobre su propio trabajo doméstico, cuando se le pregunta directamente en vez de pedirle un diario, también fallan, y en los dos sexos, como cuenta [cómo se mide](../Fundamentos/como-se-mide.md).
+Las horas miden lo que se hace, no lo que se piensa. Según Aviv y colegas, los diarios de uso del tiempo pueden pasar por alto la carga mental, y por eso los estudios la miden con entrevistas y escalas propias, que dan resultados distintos; la disputa está en [carga mental](carga-mental.md). Las horas que la gente declara sobre su propio trabajo doméstico, cuando se le pregunta directamente en vez de pedirle un diario, también fallan, y en los dos sexos, como cuenta [cómo se mide](../Fundamentos/como-se-mide.md).
 
 > [!NOTE] Sin fuente todavía: casi toda la evidencia es de Estados Unidos y Europa. Para Argentina solo están las categorías y los totales de la ENUT; no hay cifras por separado de compras, mantenimiento, trámites ni carga mental.
 

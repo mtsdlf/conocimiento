@@ -26,7 +26,7 @@ revisado:
 
 Ser dueño de una tarea es hacerse cargo de ella de punta a punta (darse cuenta de que hace falta, pensar cómo, decidir, hacerla y controlar que quedó), a diferencia de ayudar, que es ejecutar lo que otra persona pensó y pidió.
 
-La diferencia importa porque la parte que no se ve de una tarea suele quedar en una sola persona aunque la ejecución se reparta. Quien «ayuda» puede hacer la mitad de las tareas y aun así dejar a la otra persona todo el trabajo de anticiparlas y controlarlas. Es la versión doméstica de la etapa de planificar y evaluar del [ciclo de gestión](ciclo-de-gestion.md).
+La diferencia importa porque la parte que no se ve de una tarea suele quedar en una sola persona aunque la ejecución se reparta. Quien «ayuda» puede hacer la mitad de las tareas y aun así dejar a la otra persona todo el trabajo de anticiparlas y controlarlas. Como inferencia de la base, es la versión doméstica de la etapa de planificar y evaluar del [ciclo de gestión](ciclo-de-gestion.md).
 
 ## Lo que la academia llama trabajo cognitivo
 
@@ -34,7 +34,7 @@ El par «dueño contra ayudante» circula en la divulgación, pero no se encontr
 
 Daminger (2019) entrevistó a 35 parejas (70 entrevistas) y separó el trabajo cognitivo en cuatro pasos: anticipar necesidades, identificar opciones, decidir y monitorear. Según su abstract, las mujeres de su estudio hacen más trabajo cognitivo en total, y en particular más anticipación y monitoreo, pero la participación de varones y mujeres en la decisión es «aproximadamente igual». También lo describe como una frecuente fuente de conflicto.
 
-Esa distinción es la que importa para hacerse cargo. Decidir juntos no alcanza: si una persona es la que se da cuenta de que falta algo y la que revisa que se haya hecho, la tarea sigue siendo suya. Ser dueño implica tomar también el primer y el último paso.
+Como inferencia de la base, esa distinción es la que importa para hacerse cargo. Decidir juntos no alcanza: si una persona es la que se da cuenta de que falta algo y la que revisa que se haya hecho, la tarea sigue siendo suya. Ser dueño implica tomar también el primer y el último paso.
 
 Los límites del estudio son grandes. Es cualitativo, con una muestra chica de clase media y media alta, según un resumen; no permite estimar cuántas parejas viven así. Una revisión sistemática de 31 artículos (Reich-Stiebert y otros, 2023) concluye, según su abstract, que «predominantemente» las mujeres cargan con la mayor parte del trabajo mental, sobre todo en las decisiones de crianza, con más estrés y menos satisfacción; sus muestras son sobre todo de clase media de Estados Unidos y Europa.
 
@@ -65,7 +65,7 @@ Casi toda esta literatura es sobre la crianza de bebés y chicos chicos. Como in
 
 ## Fair Play, un método de practicantes
 
-*Fair Play* es un método de divulgación de Eve Rodsky (libro de 2019, con un mazo de cartas). Reparte 100 tareas de la casa en cartas y pide que quien toma una carta se haga cargo de su concepción, su planificación y su ejecución, cumpliendo un «estándar mínimo de cuidado» acordado. Es la versión práctica más conocida de la idea de dueño de la tarea. Lo que sigue es lo que dicen sus autores y quienes lo evaluaron, no evidencia revisada por pares.
+*Fair Play* es un método de divulgación de Eve Rodsky (libro de 2019, con un mazo de cartas). Reparte 100 tareas de la casa en cartas y pide que quien toma una carta se haga cargo de su concepción, su planificación y su ejecución, cumpliendo un «estándar mínimo de cuidado» acordado. Como inferencia de la base, es una versión práctica de la idea de dueño de la tarea. Lo que sigue es lo que dicen sus autores y quienes lo evaluaron, no evidencia revisada por pares.
 
 La única evaluación encontrada es un informe de la Universidad del Sur de California (USC, diciembre de 2024), leído a través del comentario de Daminger y del resumen del buscador:
 

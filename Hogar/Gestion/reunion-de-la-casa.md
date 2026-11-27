@@ -22,7 +22,7 @@ revisado:
 
 La reunión de la casa es un encuentro a intervalos fijos en que quienes conviven revisan cómo va la organización y acuerdan cambios. Viene del consejo familiar de la psicología adleriana y no tiene estudios de resultados que muestren que funcione.
 
-En el [ciclo de gestión](ciclo-de-gestion.md), la reunión es la etapa de evaluación convertida en una cita: el momento en que se mira lo que pasó y se ajusta el plan. Es también donde se renegocia quién es [dueño de cada tarea](dueno-de-la-tarea.md) cuando algo cambia.
+Como inferencia de la base, en el [ciclo de gestión](ciclo-de-gestion.md) la reunión es la etapa de evaluación convertida en una cita: el momento en que se mira lo que pasó y se ajusta el plan. Es también donde se renegocia quién es [dueño de cada tarea](dueno-de-la-tarea.md) cuando algo cambia.
 
 ## El consejo familiar de Dreikurs
 

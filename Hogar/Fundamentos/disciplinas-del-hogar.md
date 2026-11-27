@@ -85,7 +85,7 @@ La misma dirección publicó después la serie:
 | Año | Aporte al PBI | Horas de |
 |---|---|---|
 | 2019 | 15,9 % | Encuesta sobre Trabajo No Remunerado y Uso del Tiempo de 2013 |
-| 2020 | 15,3 % | No se verificó qué encuesta usa |
+| 2020 | 15,3 % | Encuesta de 2013 |
 | 2021 | 17,7 % | [ENUT 2021](enut-2021.md) |
 | 2022 | 16,8 % | ENUT 2021 |
 
@@ -94,7 +94,7 @@ Fuentes: DNEIyG, *Los cuidados, un sector económico estratégico* (2020, pp. 7-
 > [!WARNING]
 > El 15,9 % que repite la prensa es de 2019 y toma las horas de la encuesta de 2013 (tercer trimestre, personas de 18 años y más, tres preguntas sobre «ayer»), con ingresos de la EPH del cuarto trimestre de 2019. No sale de la ENUT 2021. El porcentaje cambió casi 2,4 puntos entre años: según la DNEIyG, por las horas medidas y por el peso de los otros sectores. No es una constante.
 
-El número depende también del método. El mismo informe compara: España 10,3 %, Francia 14,8 %, Alemania 15,0 % y Nueva Zelanda 20,0 %; Colombia, con otro método (el especialista), da 20,4 %. Cómo se miden las horas de las que parte el cálculo está en [cómo se mide](como-se-mide.md).
+El número depende también del método. El informe de 2020 compara: España 10,3 %, Francia 14,8 %, Alemania 15,0 % y Nueva Zelanda 20,0 %; Colombia, con otro método (el especialista), da 20,4 %. Cómo se miden las horas de las que parte el cálculo está en [cómo se mide](como-se-mide.md).
 
 ## La psicología de la familia: cómo se vive
 

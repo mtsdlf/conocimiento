@@ -13,7 +13,7 @@ revisado:
 
 # Hogar
 
-Un hogar es una unidad que produce lo que la vida diaria necesita (comida, orden, cuidado, papeles), reparte ese trabajo entre quienes conviven y lo administra con tiempo, plata y espacio limitados. Esta base explica cómo funciona esa dinámica con lo que estudian la sociología, la economía, la administración de recursos familiares y la psicología.
+Un hogar es una unidad que produce lo que la vida diaria necesita (comida, orden, cuidado, papeles), reparte ese trabajo entre quienes conviven y lo administra con tiempo, plata y espacio limitados; esta base explica cómo funciona esa dinámica con lo que estudian la sociología, la economía, la administración de recursos familiares y la psicología.
 
 Mirar la casa así sirve para separar tres preguntas que en la vida diaria vienen mezcladas: cuánto trabajo hay, quién lo hace y por qué, y cómo se siente cada uno con eso. Cada una tiene su literatura y sus respuestas, y a veces se contradicen. La base describe las opciones y su evidencia; no dice cómo tiene que organizarse una casa en particular.
 

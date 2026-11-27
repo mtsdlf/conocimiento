@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Las tareas domésticas son el trabajo visible y repetitivo que mantiene la casa en marcha: cocinar, limpiar, lavar la ropa y hacer las compras; es la parte del trabajo del hogar que más tiempo lleva y la que más despacio cambió de manos.
+  Las tareas domésticas son el trabajo visible y repetitivo que mantiene la casa en marcha: cocinar, limpiar, lavar la ropa y hacer las compras; es la parte del trabajo del hogar que más gente hace cada día, y su reparto cambió de forma lenta e incompleta.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -20,7 +20,7 @@ revisado:
 
 # Tareas domésticas
 
-Las tareas domésticas son el trabajo visible y repetitivo que mantiene la casa en marcha: cocinar, limpiar, lavar la ropa y hacer las compras; es la parte del trabajo del hogar que más tiempo lleva y la que más despacio cambió de manos.
+Las tareas domésticas son el trabajo visible y repetitivo que mantiene la casa en marcha: cocinar, limpiar, lavar la ropa y hacer las compras; es la parte del trabajo del hogar que más gente hace cada día, y su reparto cambió de forma lenta e incompleta.
 
 Son la parte del [trabajo del hogar](trabajo-del-hogar.md) que se ve: una cocina limpia o una heladera llena se notan, y su falta también. Se distinguen del [trabajo de cuidado](trabajo-de-cuidado.md) porque van dirigidas a la casa y no a una persona que necesita atención, y de la [carga mental](carga-mental.md) porque son la ejecución, mientras que la carga mental es pensar qué hay que hacer y cuándo.
 
@@ -55,6 +55,6 @@ En Argentina no hay una serie comparable. La ENUT 2021 da una foto: el 90,0 % de
 
 ## Por qué las horas declaradas engañan
 
-Cuando se le pregunta a alguien cuántas horas por semana dedica a las tareas, en vez de pedirle un diario del día, la respuesta sale inflada. Según un resumen secundario, Press y Townsley estimaron que los varones sobrerreportaban un 148 % y las mujeres un 68 %: ellos declaraban 7,7 horas semanales contra unas 4,2 en los diarios, y ellas 31,8 contra unas 18,4. Las cifras no se verificaron en el original, pero muestran que el sesgo no es de un solo sexo. Los métodos y sus discrepancias están en [cómo se mide](../Fundamentos/como-se-mide.md).
+Cuando se le pregunta a alguien cuántas horas por semana dedica a las tareas, en vez de pedirle un diario del día, la respuesta sale inflada. Según un resumen secundario, Press y Townsley hallaron sobrerreporte en los dos sexos, mayor en porcentaje en los varones. Las cifras de ese resumen (7,7 horas semanales contra unas 4,2 en los diarios para ellos, 31,8 contra unas 18,4 para ellas) no se verificaron en el original ni coinciden con los porcentajes que daba el mismo resumen, así que no se citan como firmes; muestran, en todo caso, que el sesgo no es de un solo sexo. Los métodos y sus discrepancias están en [cómo se mide](../Fundamentos/como-se-mide.md).
 
 Ver también: [estándares distintos](../Convivencia/estandares-distintos.md), sobre quién define cuándo una tarea está bien hecha; y [rutinas y sistemas](../Gestion/rutinas-y-sistemas.md), sobre cómo se organizan.

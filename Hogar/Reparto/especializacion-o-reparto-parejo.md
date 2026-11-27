@@ -52,11 +52,11 @@ Iversen, Rosenbluth y Soskice (2005) sostienen que un modelo de negociación med
 
 **El efecto depende del país y de la época.** Según un resumen de Cooke (2006), en la ex Alemania Occidental las parejas que se alejaban de los roles separados, porque ella ganaba más o él hacía más en la casa, tenían más riesgo de divorcio; en Estados Unidos, el patrón era el inverso. Con datos de fines de los 2000, Bellani y colegas sostienen que alejarse del modelo tradicional ya no perjudica la estabilidad (según un resumen). No hay datos argentinos.
 
-**Quien se especializa en la casa pierde capacidad de ganar.** Es el riesgo que más se menciona, pero en lo que se leyó es una discusión teórica, sin fuente primaria que lo mida.
+**Quien se especializa en la casa pierde capacidad de ganar.** Es un riesgo que se discute, pero en lo que se leyó es una discusión teórica, sin fuente primaria que lo mida.
 
 > [!NOTE]
 > Sin fuente todavía: la pérdida de experiencia y de ingresos futuros (capital humano) de quien se especializa en la casa, y qué le pasa si la pareja se separa.
 
 ## Cómo se ve la decisión
 
-Las dos opciones no son puras: la mayoría de las parejas se especializa en parte, y el grado suele cambiar en las [transiciones](transiciones.md), sobre todo con el primer hijo. A favor de especializarse está un argumento teórico que depende de supuestos fuertes; en contra, que la evidencia empírica reciente no lo apoya y que, si se lleva la lógica de la negociación a este caso (una inferencia, no un hallazgo), quien se especializa en la casa sin ingreso propio negocia con menos poder. Cómo se vive cada arreglo depende menos de las horas que de si se lo juzga justo, que es la [equidad percibida](equidad-percibida.md). Cómo se reparte en la práctica está en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md) y la plata de cada uno en [plata en la pareja](../Recursos/plata-en-la-pareja.md).
+Las dos opciones no son puras: probablemente la mayoría de las parejas se especializa en parte (inferencia de la base, sin fuente), y el grado cambia en las [transiciones](transiciones.md), sobre todo con el primer hijo. A favor de especializarse está un argumento teórico que depende de supuestos fuertes; en contra, que la evidencia empírica reciente no lo apoya y que, si se lleva la lógica de la negociación a este caso (una inferencia, no un hallazgo), quien se especializa en la casa sin ingreso propio negocia con menos poder. Cómo se vive cada arreglo depende menos de las horas que de si se lo juzga justo, que es la [equidad percibida](equidad-percibida.md). Cómo se reparte en la práctica está en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md) y la plata de cada uno en [plata en la pareja](../Recursos/plata-en-la-pareja.md).

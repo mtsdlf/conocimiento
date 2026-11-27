@@ -23,13 +23,13 @@ revisado:
 
 El tiempo del hogar es cómo se reparten las horas de quienes conviven entre el trabajo pago, el trabajo de la casa y el tiempo libre. La literatura lo estudia con tres ideas: la pobreza de tiempo, la segunda jornada que queda al volver del empleo y un ocio que, además de ser menos, puede estar fragmentado o mezclado con cuidar.
 
-Dentro de los [recursos del hogar](recursos-del-hogar.md), el tiempo es el que más se disputa, porque cada hora que alguien pone en la casa sale de su empleo o de su descanso. Cuántas horas pone cada uno y por qué es tema del [reparto](../Reparto/reparto.md); acá está qué le queda a cada uno y cómo lo vive. El choque entre el horario del empleo y la vida familiar tiene su nota en [trabajo y familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md), y cómo una persona ordena su día, en [tiempo y prioridades](../../Desarrollo-personal/Efectividad-personal/tiempo-y-prioridades.md).
+Dentro de los [recursos del hogar](recursos-del-hogar.md), el tiempo es el que más se disputa, porque cada hora que alguien pone en la casa sale de su empleo o de su descanso (inferencia de esta base). Cuántas horas pone cada uno y por qué es tema del [reparto](../Reparto/reparto.md); acá está qué le queda a cada uno y cómo lo vive. El choque entre el horario del empleo y la vida familiar tiene su nota en [trabajo y familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md), y cómo una persona ordena su día, en [tiempo y prioridades](../../Desarrollo-personal/Efectividad-personal/tiempo-y-prioridades.md).
 
 ## La pobreza de tiempo
 
 La **pobreza de tiempo** (*time poverty*) es la sensación de tener demasiadas cosas por hacer y poco tiempo para hacerlas. Giurge, Whillans y West (2020) la definen así en una revisión, y según su abstract se asocia con menor bienestar, peor salud física y menor productividad. Los autores sostienen que puede importar tanto como la pobreza material.
 
-Es una sensación, no una cuenta de horas: dos personas con la misma agenda pueden vivirla distinto. Por eso no se lee directo de una encuesta de uso del tiempo, que mide horas con un diario de actividades ([cómo se mide](../Fundamentos/como-se-mide.md)).
+Es una sensación, no una cuenta de horas: dos personas con la misma agenda pueden vivirla distinto. Por eso no se lee directo de una encuesta de uso del tiempo, que mide horas con un diario de actividades ([cómo se mide](../Fundamentos/como-se-mide.md)); esa conclusión es inferencia de esta base.
 
 ## La segunda jornada
 

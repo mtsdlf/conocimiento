@@ -25,7 +25,7 @@ El régimen del servicio doméstico en Argentina es la Ley 26.844, que regula el
 
 Es el marco legal de una de las opciones de [hacer o tercerizar](hacer-o-tercerizar.md).
 
-Copiado del texto de la ley (InfoLEG y argentina.gob.ar) y de las páginas oficiales el 2026-11-27. La ley se publicó en el Boletín Oficial el 12 de abril de 2013.
+Copiado del texto de la ley (InfoLEG y argentina.gob.ar) y de las páginas oficiales el 2026-11-27. Según el enlace al Boletín Oficial (que no se abrió), la ley se publicó el 12 de abril de 2013; el texto de InfoLEG trae sanción del 13 de marzo y promulgación del 3 de abril de 2013.
 
 > [!WARNING]
 > Esta ficha no es asesoramiento legal. Se apoya en **una sola fuente primaria**, el texto de la ley, cotejado en dos copias oficiales; no se leyó comentario de especialistas ni jurisprudencia, y no se verificaron reformas posteriores al texto leído. Para una decisión concreta, el texto vigente está en [InfoLEG / argentina.gob.ar](https://www.argentina.gob.ar/normativa/nacional/ley-26844-210489/texto) y conviene consultar a un profesional.
@@ -36,14 +36,14 @@ Copiado del texto de la ley (InfoLEG y argentina.gob.ar) y de las páginas ofici
 |---|---|---|
 | Alcance | Las relaciones laborales por el trabajo en casas particulares o en el ámbito de la vida familiar que no le den al empleador lucro o beneficio económico directo, «cualquiera fuere la cantidad de horas diarias o de jornadas semanales». Rige en todo el país. | 1 |
 | Modalidades | Sin retiro; con retiro para un solo empleador; con retiro para varios empleadores. | 1 |
-| Exclusiones | Quienes contrata una persona jurídica (una empresa, por ejemplo) y los parientes del dueño de casa (padres, hijos, hermanos, nietos) o quienes conviven con él sin relación laboral. Según la copia de argentina.gob.ar, también quienes se contratan solo para manejar los autos de la familia; no se cotejó en la otra copia. | 3 |
+| Exclusiones | Quienes contrata una persona jurídica (una empresa, por ejemplo) y los parientes del dueño de casa (padres, hijos, hermanos, nietos) o quienes conviven con él sin relación laboral. También quienes se contratan únicamente para conducir vehículos particulares de la familia o de la casa. | 3 |
 | Categorías | Las fija la autoridad de aplicación hasta que las establezca la Comisión Nacional de Trabajo en Casas Particulares o un convenio colectivo. Los nombres y la cantidad de categorías no se verificaron: están en los anexos de las resoluciones de la Comisión. | 8 |
 | Edad mínima | Prohibido contratar a menores de 16 años. Con 16 y 17 años, máximo 6 horas diarias y 36 semanales, y nunca sin retiro. | 9, 11, 13 |
 | Jornada | Máximo 8 horas diarias o 48 semanales. Sin retiro, un descanso nocturno de 9 horas. | 14, 15 |
 
 Lo que importa para un hogar: el régimen se aplica **aunque sean pocas horas** (art. 1).
 
-Según la copia de argentina.gob.ar, leída con un extractor y no cotejada en la otra copia, la ley también fija vacaciones de 14 a 35 días según la antigüedad (art. 29), un aguinaldo del 50 % de la mayor remuneración mensual de cada semestre (arts. 26 y 27) y licencia paga por enfermedad de hasta 3 meses al año con menos de 5 años de antigüedad y de 6 con más (art. 34).
+La ley también fija vacaciones de 14 a 35 días según la antigüedad (art. 29), un aguinaldo del 50 % de la mayor remuneración mensual de cada semestre (arts. 26 y 27) y licencia paga por enfermedad de hasta 3 meses al año con menos de 5 años de antigüedad y de 6 con más (art. 34).
 
 ## La registración
 

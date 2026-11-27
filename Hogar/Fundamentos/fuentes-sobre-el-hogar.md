@@ -87,6 +87,6 @@ El *Journal of Marriage and Family*, el *Journal of Family Theory & Review*, la 
 - **Psicología de la familia**: no se encontró una revisión del campo aplicada al trabajo doméstico, ni evidencia empírica sobre los subsistemas de Minuchin.
 - **Manuales**: de Goldsmith, Moore y Asay y Deacon y Firebaugh solo se leyeron índices y descripciones.
 - **Evaluaciones**: el informe de USC sobre *Fair Play* no abrió (el enlace dio 404); no se halló evaluación independiente de ningún marco de gestión del hogar.
-- **ENUT**: no se abrió la planilla oficial ni se verificó el tamaño de la muestra. La presentación de la CEPAL sobre Argentina tampoco se leyó.
+- **ENUT**: no se abrió la planilla oficial. La presentación de la CEPAL sobre Argentina tampoco se leyó.
 - **ICATUS y MTUS**: solo por resúmenes del buscador; no se verificó si sus cifras se pueden comparar con las de la ENUT.
 - **América Latina**: no se encontraron estudios argentinos o latinoamericanos sobre el mecanismo del reparto, la carga mental, el manejo del dinero en pareja ni el espacio de la vivienda.

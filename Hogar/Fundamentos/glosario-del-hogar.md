@@ -70,7 +70,7 @@ Las definiciones son propias, salvo las de la ENUT, que siguen al INDEC; cada t�
 | Consejo familiar | Una reunión periódica de la familia para acordar y resolver problemas, de origen adleriano (Dreikurs); sin evaluación independiente. | [Reunión de la casa](../Gestion/reunion-de-la-casa.md) |
 | Tercerización | Pagarle a alguien o a un servicio por una tarea de la casa. | [Hacer o tercerizar](../Gestion/hacer-o-tercerizar.md) |
 | Sistema familiar | Ver la familia como un conjunto de partes que se influyen (subsistemas, límites, roles, reglas implícitas); viene de la terapia familiar (Bowen, Minuchin). | [La casa como sistema](../Convivencia/la-casa-como-sistema.md) |
-| Demanda-retirada | El patrón de conflicto en que uno pide un cambio y el otro se aleja o calla; el más común en el matrimonio según el metaanálisis de Schrodt y colegas (2014). | [Conflicto por la casa](../Convivencia/conflicto-por-la-casa.md) |
+| Demanda-retirada | El patrón de conflicto en que uno pide un cambio y el otro se aleja o calla; según Schrodt, autor de un metaanálisis de 2014, es el patrón de conflicto más común en el matrimonio (cita de una nota de prensa sobre el estudio). | [Conflicto por la casa](../Convivencia/conflicto-por-la-casa.md) |
 | Umbral de tolerancia | El nivel de desorden a partir del cual una persona siente que hay que hacer algo; quien lo tiene más bajo suele terminar haciendo más. | [Estándares distintos](../Convivencia/estandares-distintos.md) |
 
 ## Los recursos
@@ -94,7 +94,7 @@ Las definiciones son propias, salvo las de la ENUT, que siguen al INDEC; cada t�
 | Tiempo por participante | En la ENUT, el promedio de horas de quienes hicieron la actividad. | [ENUT 2021](enut-2021.md) |
 | Tiempo social | En la ENUT, el promedio de horas sobre toda la población, la haya hecho o no. | [ENUT 2021](enut-2021.md) |
 | Simultaneidad | Contar el tiempo de actividades hechas a la vez, como cocinar mientras se cuida. | [ENUT 2021](enut-2021.md) |
-| Economía doméstica (*home economics*) | El campo fundado en Lake Placid en 1899 para enseñar a administrar el hogar; hoy *family and consumer sciences*. | [Disciplinas del hogar](disciplinas-del-hogar.md) |
+| Economía doméstica (*home economics*) | El campo que adoptó ese nombre en Lake Placid en 1899 para enseñar a administrar el hogar; hoy *family and consumer sciences*. | [Disciplinas del hogar](disciplinas-del-hogar.md) |
 | Nueva economía del hogar | La rama de la economía que trata la casa como unidad que produce y asigna tiempo (Reid 1934, Becker 1965). | [Disciplinas del hogar](disciplinas-del-hogar.md) |
 | Economía del cuidado | La corriente de la economía feminista que estudia quién sostiene la vida cotidiana y cuánto vale ese trabajo. | [Disciplinas del hogar](disciplinas-del-hogar.md) |
 | Valoración del trabajo no remunerado | Ponerle precio a las horas de trabajo no pago para compararlas con el PBI; en Argentina, entre el 15,3 % y el 17,7 % según el año. | [Disciplinas del hogar](disciplinas-del-hogar.md) |

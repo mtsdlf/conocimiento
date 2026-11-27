@@ -11,7 +11,9 @@ fuentes:
   - "FACES IV and the Circumplex Model: validation study: https://experts.umn.edu/en/publications/faces-iv-and-the-circumplex-model-validation-study/ (resumen del buscador)"
   - "Beyond the Circumplex Model: I. A Moratorium on Curvilinearity, Family Process (1994): https://scilit.com/publications/4a3b74123dfcf605cac115fbb432b434 (solo título y resumen del buscador)"
   - "Estudio de 2.440 familias con FACES III, Family Process (1991): https://cir.nii.ac.jp/crid/1362544421267508736?lang=en (solo título y resumen del buscador)"
-  - "Wikipedia, Structural family therapy: https://en.wikipedia.org/wiki/Structural_family_therapy (resumen del buscador)"
+  - "Wikipedia, Structural family therapy: https://en.wikipedia.org/wiki/Structural_family_therapy (texto leído para subsistemas, límites y jerarquía)"
+  - "Bowen Center, Differentiation of self: https://thebowencenter.org/differentiation-of-self (texto leído)"
+  - "Bowen Center, Triangles: https://thebowencenter.org/triangles (texto leído)"
   - "Hogar/.investigacion/convivencia.md"
   - "Hogar/.investigacion/vistazo.md"
 aliases: [la casa como sistema, teoría de sistemas familiares, family systems theory, terapia familiar estructural, structural family therapy, Minuchin, Bowen, diferenciación, triangulación, modelo circumplejo, circumplex model, Olson, FACES, roles familiares, reglas implícitas]
@@ -33,7 +35,7 @@ Lo que los tres marcos comparten es una premisa: lo que hace una persona en la f
 
 ## Minuchin: subsistemas y límites, sin evidencia encontrada
 
-Salvador Minuchin fundó la terapia familiar estructural. En su vocabulario, la familia se divide en subsistemas (por ejemplo, la pareja y los hijos), separados por límites que pueden ser demasiado rígidos o demasiado difusos, y ordenados por una jerarquía. Lo único leído de esta escuela es un resumen de Wikipedia, y la definición es la versión corriente del campo.
+Salvador Minuchin fundó la terapia familiar estructural. En su vocabulario, la familia se divide en subsistemas (por ejemplo, la pareja y los hijos), separados por límites que pueden ser demasiado rígidos o demasiado difusos, y ordenados por una jerarquía. Lo único leído de esta escuela es el artículo de Wikipedia, que describe los límites a lo largo de un continuo entre la fusión y la rigidez, y a la jerarquía con el subsistema de los padres «arriba»; es una fuente de enciclopedia abierta, no un texto de la escuela.
 
 La investigación de esta base no encontró ninguna revisión sistemática ni metaanálisis que ponga a prueba los subsistemas y los límites. Lo que apareció es doctrina clínica y un instrumento, el Family System Test (FAST) de Gehring, visto solo por Wikipedia. Es un hueco de la búsqueda y no una ausencia probada: puede haber estudios en bases que no se revisaron.
 
@@ -41,7 +43,7 @@ La investigación de esta base no encontró ninguna revisión sistemática ni me
 
 ## Bowen: la diferenciación tiene apoyo, la triangulación no
 
-El concepto central de Murray Bowen es la diferenciación: la capacidad de una persona de seguir pensando por sí misma y sostener su posición sin cortar el vínculo cuando la familia está tensa. Otro concepto es la triangulación: cuando dos personas en tensión meten a una tercera (un hijo, un pariente) para bajar la presión entre ellas. Las dos definiciones son la versión corriente del campo y no salen de un texto leído; el glosario del hogar puede precisarlas.
+El concepto central de Murray Bowen es la diferenciación: la capacidad de una persona de seguir pensando por sí misma y sostener su posición sin cortar el vínculo cuando la familia está tensa. Otro concepto es la triangulación: cuando dos personas en tensión meten a una tercera (un hijo, un pariente) para bajar la presión entre ellas. Según el Bowen Center, el «self» menos desarrollado deja a la persona más a merced de lo que hacen los demás, y un triángulo es un sistema de tres personas: cuando una relación de dos no aguanta la tensión, suma a una tercera. La formulación en términos de «seguir pensando por sí misma» y «bajar la presión» es una paráfrasis de esta base, no una cita; el glosario del hogar puede precisarlas.
 
 Bowen es el único de los tres marcos que tiene una revisión que lo evalúa contra sus propios supuestos. Miller, Anderson y Keala (2004) hallaron, según su abstract, «empirical support for the relationship between differentiation and chronic anxiety», y también relación de la diferenciación con la satisfacción marital y con el malestar psicológico.
 

@@ -27,7 +27,7 @@ revisado:
 
 Las rutinas y los sistemas de una casa son las formas fijas de hacer el trabajo (horarios, listas, turnos, reglas de cuándo algo está hecho) que evitan decidir todo de nuevo cada vez. La evidencia que hay es sobre rutinas familiares y caos del hogar, casi toda con niños y correlacional.
 
-Dentro de la [gestión del hogar](gestion-del-hogar.md), las rutinas son la etapa de ejecución del [ciclo de gestión](ciclo-de-gestion.md) puesta en piloto automático. Lo que la investigación estudió, sin embargo, no son las listas ni los turnos, sino algo más amplio: qué tan predecible y ordenada es la vida de una familia.
+Dentro de la [gestión del hogar](gestion-del-hogar.md), las rutinas serían, como inferencia de la base, la etapa de ejecución del [ciclo de gestión](ciclo-de-gestion.md) puesta en piloto automático. Lo que la investigación estudió, sin embargo, no son las listas ni los turnos, sino algo más amplio: qué tan predecible y ordenada es la vida de una familia.
 
 ## Rutinas y rituales, dos cosas distintas
 

@@ -44,7 +44,7 @@ El experimento separa dos cosas que suelen confundirse. Que los varones «no ven
 Fijar el estándar es una forma de quedarse con la tarea. Allen y Hawkins (1999) incluyeron los estándares rígidos como una de las dimensiones del *gatekeeping*, el control que una persona ejerce sobre cómo y si el otro participa. El concepto, su evidencia y sus críticas están en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md), y el término, en el [glosario del hogar](../Fundamentos/glosario-del-hogar.md).
 
 > [!IMPORTANT]
-> **Explicar el reparto por los estándares tiene una lectura en contra.** Una reseña crítica de *Fair Play* sostiene que el libro trata la desigualdad como un descuido y se apoya mucho en el gatekeeping materno y en los «estándares altos» de las mujeres, lo que corre la responsabilidad hacia quien hace más. Es una opinión en un blog, no un estudio. Del otro lado, los umbrales y el gatekeeping hacen plausible que la vara explique una parte del reparto. Ninguna de las dos posiciones tiene datos de horas.
+> **Explicar el reparto por los estándares tiene una lectura en contra.** Una reseña crítica de *Fair Play* sostiene que el libro trata la desigualdad como un descuido en que las parejas caen, y sugiere que pone el peso en la mujer que tiene que pedir bien; que el libro se apoya mucho en el gatekeeping materno y en los «estándares altos» de las mujeres lo dice un comentario de lector de esa página, no la reseña. Es una opinión en un blog, no un estudio. Del otro lado, los umbrales y el gatekeeping hacen plausible que la vara explique una parte del reparto. Ninguna de las dos posiciones tiene datos de horas.
 
 ## Lo que se sabe del desorden y el estrés
 

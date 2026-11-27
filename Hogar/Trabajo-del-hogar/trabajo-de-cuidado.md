@@ -43,7 +43,7 @@ La distinción entre cuidado directo, indirecto y supervisión no tiene, en lo l
 
 En Argentina, según la ENUT 2021, participó en el cuidado de miembros del hogar el 31,4 % de las mujeres y el 20,3 % de los varones de 14 años y más. Quienes cuidaron ese día le dedicaron 06:07 horas ellas y 03:30 horas ellos. Esas horas cuentan el tiempo de actividades hechas a la vez (la encuesta mide «con simultaneidad») y son de quien cuidó, no un promedio de toda la población; el detalle está en la [ficha de la ENUT 2021](../Fundamentos/enut-2021.md).
 
-En Estados Unidos, el tiempo de cuidado de los hijos subió para los dos a la vez que bajaban las tareas. Según Bianchi y colegas (2012), las madres casadas pasaron de 7,3 horas semanales en 1975 a 13,7 en 2009/10, y los padres casados, de 2,4 a 7,2. Cómo cambia el reparto cuando llega un hijo está en [transiciones](../Reparto/transiciones.md), y el choque con el empleo, en [trabajo y familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md).
+En Estados Unidos, el tiempo de cuidado de los hijos subió para los dos. Según Bianchi y colegas (2012), las madres casadas pasaron de 7,3 horas semanales en 1975 a 13,7 en 2009/10, y los padres casados, de 2,4 a 7,2. Cómo cambia el reparto cuando llega un hijo está en [transiciones](../Reparto/transiciones.md), y el choque con el empleo, en [trabajo y familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md).
 
 ## El cuidado de mayores y enfermos
 

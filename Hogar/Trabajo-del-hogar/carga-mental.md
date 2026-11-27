@@ -44,13 +44,13 @@ Daminger insiste en que no es una categoría más de tareas. Según el abstract 
 
 La base es chica y cualitativa: 70 entrevistas a los miembros de 35 parejas de clase media y media alta, y la comparación por género usa las 32 parejas heterosexuales. Según el abstract, «women in this study do more cognitive labor overall and more of the anticipation and monitoring work in particular», mientras que la participación en decidir es «roughly equal». Con ese tamaño se describe cómo funciona el trabajo cognitivo, no cuántas parejas lo reparten así.
 
-Según la nota de divulgación de JSTOR Daily sobre el artículo, las mujeres hicieron más trabajo cognitivo en 26 de las 32 parejas. En promedio lideraban 4,6 de las 9 áreas, los varones 1,6 y 2,2 eran compartidas; los varones lideraban sobre todo el mantenimiento y las finanzas. La misma nota cita a Daminger: los varones participan de un modo que les permite «maximize the ratio of power exerted to labor completed», porque se concentran en decidir, y la anticipación es un trabajo «that cannot be confined to a to-do list». Estas cifras no se cotejaron con el artículo.
+Según la nota de divulgación de JSTOR Daily sobre el artículo, las mujeres hicieron más trabajo cognitivo en 26 de las 32 parejas. En promedio lideraban 4,6 de las 9 áreas, los varones 1,6 y 2,2 eran compartidas; los varones lideraban sobre todo el mantenimiento y las finanzas. La misma nota cita a Daminger: los varones participan de un modo que les permite «maximize the ratio of power exerted to labor completed», y se concentran en decidir, mientras que la anticipación es un trabajo «that cannot be confined to a to-do list». Estas cifras no se cotejaron con el artículo.
 
 Según un resumen de su tesis, Daminger también encontró unas pocas parejas no tradicionales que repartían el trabajo cognitivo de forma pareja, lo que muestra que es posible.
 
 ## Trabajo cognitivo, trabajo emocional y carga mental
 
-Los términos no son sinónimos, aunque se usen como tales. El trabajo emocional (*emotion work*) viene de Hochschild, que lo introdujo en 1979 y lo amplió en 1983. Según una enciclopedia, Hochschild lo separa del *emotional labor*, que es el manejo de las emociones que se vende por un salario: «the management of feeling to create a publicly observable facial and bodily display [that is] sold for a wage». Lo estudió en azafatas y cobradores de deudas. El *emotion work* es el mismo esfuerzo en la vida privada y sin pago, como sostener el ánimo de la familia o anticipar un conflicto.
+Los términos no son sinónimos, aunque se usen como tales. El trabajo emocional (*emotion work*) viene de Hochschild, que lo introdujo en 1979 y lo amplió en 1983. Según una enciclopedia, Hochschild lo separa del *emotional labor*, que es el manejo de las emociones que se vende por un salario: «the management of feeling to create a publicly observable facial and bodily display [that is] sold for a wage». Lo estudió en azafatas y cobradores de deudas. El *emotion work* es el mismo esfuerzo en la vida privada y sin pago.
 
 Las definiciones de la carga mental no coinciden entre autores:
 
@@ -65,7 +65,7 @@ Según un resumen de una revisión sistemática (Reich-Stiebert y colegas, 2023)
 
 ## Cómo se mide después de 2019
 
-Desde el artículo de Daminger aparecieron varias escalas. Todas son de autorreporte y de países del norte, y casi todas preguntan solo a madres.
+Desde el artículo de Daminger aparecieron varias escalas. Todas son de autorreporte y de países del norte, y varias preguntan solo a madres.
 
 - **Wayne y colegas (2023).** Según un resumen, una escala de nueve ítems, tres por dimensión (gerencial, cognitiva y emocional), con frecuencias de 1 (nunca) a 7 (siempre) en el último mes. Las mujeres reportan más en las tres. La carga emocional se asocia con conflicto, peor sueño y agotamiento; la gerencial y la cognitiva, con algunas asociaciones positivas con la familia y el trabajo. Los ítems y su confiabilidad no se verificaron.
 - **Aviv y colegas (2024).** 322 madres de chicos de unos 36 meses califican, en 30 categorías de tareas, quién planifica y quién ejecuta, de 1 («todo mi pareja») a 7 («todo yo»). Las madres reportan el 73 % de la carga cognitiva y el 64 % de la física, y más responsabilidad cognitiva en 29 de las 30 tareas. La carga cognitiva se asocia con síntomas depresivos, estrés y *burnout*, pero explica poco (R² de 0,02 a 0,09). Los autores dicen que la medida no está validada, que el diseño es transversal y la muestra de conveniencia (81 % blancas). Las categorías salen del mazo de *Fair Play*, un método de divulgación, y su autora, Eve Rodsky, firma el artículo.
