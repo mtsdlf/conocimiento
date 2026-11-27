@@ -33,7 +33,7 @@ El volumen es el trabajo por semana: las series que hacés por semana para cada 
 > [!NOTE]
 > Sin fuente todavía: una guía (ACSM o NSCA, la Asociación Nacional de Fuerza y Acondicionamiento de Estados Unidos) sobre constancia, sueño, días libres y semanas de descarga.
 
-Armar un plan con esto (qué ejercicios, en qué orden, cómo progresar cada semana) es trabajo de un profesor o de un programa probado ([elegir un plan o un entrenador](elegir-plan-o-entrenador.md)). Cómo se aplican estos principios a un objetivo está en [bajar grasa y ganar músculo](bajar-grasa-y-ganar-musculo.md). Si volvés después de un parate largo, arrancá con poco y subí de a poco; el dolor de esos primeros días está en [dolor y lesiones](dolor-y-lesiones.md).
+Armar un plan con esto (qué ejercicios, en qué orden, cómo progresar cada semana) es trabajo de un profesor o de un programa probado ([elegir un plan o un entrenador](../Fundamentos/elegir-plan-o-entrenador.md)). Cómo se aplican estos principios a un objetivo está en [bajar grasa y ganar músculo](../bajar-grasa-y-ganar-musculo.md). Si volvés después de un parate largo, arrancá con poco y subí de a poco; el dolor de esos primeros días está en [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md).
 
 ## Lo que miden los estudios, para quien quiera el detalle
 

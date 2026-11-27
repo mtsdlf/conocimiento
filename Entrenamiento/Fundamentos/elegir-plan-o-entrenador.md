@@ -33,7 +33,7 @@ La pregunta útil no es qué rutina es la mejor, porque la posición de la ACSM 
 
 Lo que sí pesó: cargas altas, 2 a 3 series por ejercicio (una serie es un bloque de repeticiones seguidas) y al menos 2 sesiones por semana para la fuerza; al menos 10 series por semana para el músculo. La conclusión es que los adultos sanos deben hacer fuerza progresiva con prescripciones variadas. Según el comunicado de la ACSM, bandas, peso corporal y rutinas en casa también dan beneficios notables.
 
-Un plan serio, entonces, cumple con [principios básicos](principios-basicos.md) y entra en tu semana. Uno que pide seis días si tenés tres, o que cambia todo cada semana sin progresar, falla por ahí.
+Un plan serio, entonces, cumple con [principios básicos](../Carga/principios-basicos.md) y entra en tu semana. Uno que pide seis días si tenés tres, o que cambia todo cada semana sin progresar, falla por ahí.
 
 > [!NOTE]
 > Sin fuente todavía: evidencia sobre la efectividad de las aplicaciones de entrenamiento y sobre señales de alerta en programas de redes sociales. Los criterios de desconfianza de arriba, y lo de que un buen entrenador mira, corrige y ajusta cargas, son inferencia a partir de la ACSM, no un hallazgo.
