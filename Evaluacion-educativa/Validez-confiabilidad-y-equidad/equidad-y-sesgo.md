@@ -4,10 +4,11 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
-  - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, cap. 3 Fairness, estándares 3.20 y 13.7: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
+  - "AERA, APA y NCME (2014), Standards for Educational and Psychological Testing, cap. 3 Fairness (págs. 49-72, texto completo), estándares 3.0, 3.19, 3.20 y 12.8: https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
   - "APA Monitor (2014), sobre la nueva edición de los Standards (resumen): https://www.apa.org/monitor/2014/12/testing-standards"
   - "Artículo de Psicothema sobre DIF y los Standards (resumen): https://www.psicothema.com/pdf/4457.pdf"
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-validez-2026-11.md"
 aliases: [equidad, fairness, sesgo de la prueba, test bias, DIF, funcionamiento diferencial del ítem, differential item functioning, oportunidad de aprender, opportunity to learn]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -21,23 +22,34 @@ Es la tercera pregunta de [validez, confiabilidad y equidad](validez-confiabilid
 
 ## Lo ajeno a lo evaluado
 
-La amenaza central es la varianza irrelevante al constructo que afecta más a un grupo. El capítulo 3 de los Standards y el estándar 3.20 tratan esa varianza y las diferencias de puntaje entre subgrupos (texto leído en parte). Ejemplos ilustrativos, de esta base, de lo que puede meterse en el puntaje sin ser lo evaluado:
+La amenaza central es la varianza irrelevante al constructo que afecta más a un grupo. El capítulo 3 de los Standards la llama «a prime threat to fair and valid interpretation of test scores». El estándar 3.0 pide que todo el proceso, del diseño a la corrección, busque «to minimize construct-irrelevant variance». El capítulo la trata en cuatro secciones: el contenido, el contexto de la prueba, la forma de responder y la oportunidad de aprender.
 
-- El idioma de la consigna, cuando se evalúa otra cosa: un enunciado en inglés técnico para evaluar lógica.
-- El tiempo, cuando la velocidad no es parte de la habilidad.
-- La familiaridad con el formato o con la herramienta de la prueba.
-- Referencias culturales en los ejemplos.
+Lo que puede meterse en el puntaje sin ser lo evaluado, con los ejemplos de los Standards:
+
+- El idioma de la consigna, cuando se evalúa otra cosa. Los Standards piden reducir «the linguistic load» de los ítems que miden otra cosa que el idioma; un caso de esta base es un enunciado en inglés técnico para evaluar lógica.
+- El tiempo, cuando la velocidad no es parte de la habilidad: dar más tiempo «when speed is not relevant to the construct being measured».
+- La familiaridad con el formato o con la herramienta. Cuando la prueba usa tecnología, importa que todos hayan tenido «similar prior exposure to the technology».
+- Referencias culturales en los ejemplos: evitar contextos que resulten poco familiares «because of their cultural background».
+- La rúbrica. Una rúbrica que reserva la nota más alta para quien escribe más de lo pedido castiga a quien sigue la consigna o prefiere ser breve.
 
 La pregunta práctica es la de la validez aplicada por grupo: ¿alguien que sabe lo evaluado podría fallar por otra cosa? Si la respuesta es sí para un grupo identificable, el resultado no significa lo mismo para todos.
 
 ## Que dos grupos difieran no prueba sesgo
 
-Una diferencia de promedio entre dos grupos puede venir de la prueba o de una diferencia real en lo aprendido. El funcionamiento diferencial del ítem (DIF) es la herramienta estadística para separarlas: compara personas de igual nivel en lo evaluado y mira si un ítem les resulta más difícil a unas que a otras.
+Una diferencia de promedio entre dos grupos puede venir de la prueba o de una diferencia real en lo aprendido. Los Standards lo dicen así: «group differences in outcomes do not in themselves indicate that a testing application is biased or unfair». Agregan que una diferencia sí debe llevar a buscar fuentes de sesgo.
 
-Según un artículo de *Psicothema* (leído por resumen), los Standards tratan el DIF a la vez como evidencia de estructura interna y como clave para la equidad, y el DIF «is not always a flaw»: un ítem puede funcionar distinto por razones que sí son parte de lo evaluado. Con un curso chico, la comparación estadística no es viable (inferencia de esta base) y queda la revisión de los ítems con la pregunta de arriba.
+El funcionamiento diferencial del ítem (DIF) es la herramienta estadística para separar las dos causas. Según los Standards, ocurre cuando «equally able test takers differ in their probabilities of answering a test item correctly as a function of group membership». Detectarlo no prueba sesgo: «there needs to be a suitable, substantial explanation for the DIF». Un artículo de *Psicothema* (leído por resumen) dice lo mismo: el DIF «is not always a flaw».
+
+Los Standards reconocen que el número de personas de un grupo puede impedir los análisis empíricos. Para ese caso proponen pruebas en pequeña escala con «cognitive labs and/or interviews or focus groups». Inferencia de esta base: en un curso chico la comparación estadística no es viable, y la versión de aula es revisar los ítems con la pregunta de arriba y pedirle a alguien de cada grupo que resuelva en voz alta.
+
+El estándar 3.20 cubre un caso particular. Si dos pruebas miden lo mismo con igual validez, quien elige debe considerar cuánto difieren los grupos en cada una. Si además cuestan parecido, la ley puede obligar a elegir la que menos diferencia produce.
 
 ## La oportunidad de aprender
 
-El estándar 13.7 y su comentario advierten que los resultados de una prueba de logro con consecuencias altas pueden no ser válidos si quien la rinde no tuvo oportunidad de aprender el contenido. En un curso, eso pasa cuando la evaluación pide algo que no se enseñó o que solo se enseñó a una parte del grupo. Evaluarlo mide el punto de partida, no el curso; es lo que hace una [evaluación diagnóstica](../Propositos/evaluacion-diagnostica.md), no una sumativa.
+> [!WARNING] Obsoleto desde 2026-11: esta sección atribuía la oportunidad de aprender al estándar 13.7. El 13.7 pide describir los usos y consecuencias de una prueba de rendición de cuentas y no la menciona. Lo vigente son los estándares 3.19 y 12.8, citados abajo.
 
-> [!NOTE] Sin fuente todavía: el capítulo 3 de los Standards leído completo, y evidencia sobre sesgo en evaluaciones de cursos técnicos o con adultos.
+Los Standards definen la oportunidad de aprender como «the extent to which individuals have had exposure to instruction or knowledge that affords them the opportunity to learn the content and skills targeted by the test». El estándar 3.19 pide que, cuando la misma autoridad da el currículo y toma decisiones graves con la prueba, nadie sufra «permanent negative consequences» si no tuvo oportunidad de aprender lo evaluado. El 12.8 pide evidencia de esa oportunidad cuando la prueba decide una promoción o un título.
+
+Los Standards hacen una distinción: el puntaje bajo puede reflejar bien lo que la persona sabe, y aun así puede considerarse injusto penalizarla con dureza («severely») por lo que no se le enseñó. En un curso, la oportunidad falta cuando la evaluación pide algo que no se enseñó o que solo se enseñó a una parte del grupo. Evaluarlo mide el punto de partida, no el curso; es lo que hace una [evaluación diagnóstica](../Propositos/evaluacion-diagnostica.md), no una sumativa.
+
+> [!NOTE] Sin fuente todavía: evidencia sobre sesgo en evaluaciones de cursos técnicos o con adultos. El capítulo 3 de los Standards ya se leyó entero y no la trae.

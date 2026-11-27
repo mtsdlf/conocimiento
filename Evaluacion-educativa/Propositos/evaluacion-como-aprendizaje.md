@@ -5,11 +5,12 @@ estado: vigente
 estabilidad: semi
 fuentes:
   - "Roediger y Karpicke (2006), Test-enhanced learning, Psychological Science 17(3), 249-255 (resumen): https://pubmed.ncbi.nlm.nih.gov/16507066/"
-  - "Adesope, Trevisan y Sundararajan (2017), Rethinking the use of tests, Review of Educational Research 87(3), 659-701 (resumen): https://education.wsu.edu/documents/2018/01/rethinking-use-tests.pdf/"
+  - "Adesope, Trevisan y Sundararajan (2017), Rethinking the use of tests, Review of Educational Research 87(3), 659-701 (abstract): https://doi.org/10.3102/0034654316689306"
   - "Yang, Luo, Vadillo, Yu y Shanks (2021), Testing (quizzing) boosts classroom learning, Psychological Bulletin 147(4), 399-435 (resumen): https://scholars.hkbu.edu.hk/en/publications/testing-quizzing-boosts-classroom-learning-a-systematic-and-meta-/"
-  - "Pan y Rickard (2018), Transfer of test-enhanced learning, Psychological Bulletin 144(7), 710-756 (resumen): https://sc-pan.github.io/pdf/PR_2018.pdf"
+  - "Pan y Rickard (2018), Transfer of test-enhanced learning, Psychological Bulletin 144(7), 710-756 (texto completo): https://sc-pan.github.io/pdf/PR_2018.pdf"
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
   - "Didactica/.investigacion/posicion-contraria-y-mitos.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-propositos-instrumentos-2026-11.md"
 aliases: [assessment as learning, testeo en el aula, quizzing, prueba de práctica, practice testing, test-enhanced learning]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -25,15 +26,17 @@ El mecanismo es el [efecto de testeo](../../Psicologia/Aprendizaje-y-memoria/pra
 
 El experimento de origen es de laboratorio. Según un resumen, Roediger y Karpicke (2006) compararon reestudiar un texto con rendir una prueba sobre él: a los 5 minutos ganó reestudiar; a los 2 días y a la semana ganó la prueba.
 
-La pregunta para quien enseña es si eso sobrevive en un curso real. Tres síntesis dicen que sí, todas leídas por resumen:
+La pregunta para quien enseña es si eso sobrevive en un curso real. Tres síntesis dicen que sí. Pan y Rickard se leyó entero; las otras dos, por resumen:
 
 | Síntesis | Qué juntó | Qué encontró |
 |---|---|---|
 | Adesope, Trevisan y Sundararajan (2017) | 118 artículos, 272 tamaños de efecto, 15.472 participantes (cifras de un resumen de terceros) | Las pruebas de práctica superan al reestudio y a «all other comparison conditions»; la evidencia sobre dar retroalimentación después es mixta |
-| Pan y Rickard (2018) | 122 experimentos, 192 tamaños de efecto, N = 10.382 | Lo aprendido testeándose transfiere a otras situaciones y tipos de prueba |
+| Pan y Rickard (2018) | 122 experimentos, 192 tamaños de efecto, N = 10.382 | Lo aprendido testeándose transfiere a otras situaciones y tipos de prueba: d = 0,40 (IC 95 % de 0,31 a 0,50) frente a volver a ver el material sin prueba |
 | Yang et al. (2021) | 222 estudios independientes, 48.478 estudiantes | [g](../../Didactica/Fundamentos/glosario-de-didactica.md#leer-la-evidencia) = 0,499 a favor del testeo en el aula (tamaño de efecto en desviaciones estándar) |
 
-El tamaño de efecto agrupado de Adesope et al. no se obtuvo. Una fuente secundaria da d = 0,4 para la transferencia de Pan y Rickard, sin confirmar.
+La transferencia de Pan y Rickard es mayor entre formatos de prueba y hacia preguntas de aplicación e inferencia. Es menor hacia material que se vio al estudiar pero no se practicó. Los autores advierten que, sin sus moderadores (respuesta congruente, práctica elaborada, buen desempeño en la primera prueba) las predicciones de transferencia se achican y muchas veces no queda transferencia positiva: «often indicating no positive transfer when none of the aforementioned moderators are present».
+
+El tamaño de efecto agrupado de Adesope et al. no se obtuvo: su abstract no lo da y el texto completo no se consiguió.
 
 ## Por qué la prueba de práctica no lleva nota
 
@@ -46,4 +49,4 @@ Según un resumen secundario de Adesope et al., la opción múltiple fue el form
 - Casi todos los estudios son con escolares y universitarios. Que el efecto se mantenga con adultos en capacitación técnica es una inferencia razonable, no un resultado medido.
 - Cómo combinar el testeo con el espaciado en un curso real tiene menos evidencia que cada técnica por separado: para el espaciado en el aula no se obtuvo un metaanálisis equivalente.
 
-> [!NOTE] Sin fuente todavía: el tamaño de efecto agrupado de Adesope et al. (2017) y la confirmación del d = 0,4 de transferencia de Pan y Rickard (2018).
+> [!NOTE] Sin fuente todavía: el tamaño de efecto agrupado de Adesope et al. (2017) y su resultado por formato de prueba, leídos en el original.

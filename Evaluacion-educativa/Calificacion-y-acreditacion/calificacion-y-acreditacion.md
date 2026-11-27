@@ -8,6 +8,7 @@ fuentes:
   - "Glaser (1963), Instructional technology and the measurement of learning outcomes, American Psychologist (registro): https://doi.org/10.1037/h0049294"
   - "Deming, Yuchtman, Abulafi, Goldin y Katz (2016), The value of postsecondary credentials in the labor market, American Economic Review (abstract): https://doi.org/10.1257/aer.20141757"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-calificacion-2026-11.md"
 aliases: [calificación, grading, acreditación, certificación, notas, credenciales]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -37,7 +38,7 @@ Una nota no solo informa: cambia la motivación. Según un metaanálisis de Koen
 
 ## Qué señala un certificado
 
-En el mercado, un certificado vale por la confianza en quien lo emite. El experimento de Deming et al. (2016) lo muestra con títulos universitarios, y el único estudio encontrado sobre microcredenciales encuentra que las digitales no mejoran la probabilidad de contratación. La evidencia sobre certificados de cursos de informática no se encontró; ver [certificados y microcredenciales](certificados-y-microcredenciales.md).
+En el mercado, un certificado vale por la confianza en quien lo emite. El experimento de Deming et al. (2016) lo muestra con títulos universitarios. Sobre certificados más chicos la evidencia está dividida: en Alemania, para puestos que piden educación superior, las microcredenciales digitales no mejoraron la contratación (Ehlert y Schimke); entre trabajadores sin título de países en desarrollo, facilitar que compartieran un certificado en línea aumentó el empleo nuevo (Athey y Palikot, preprint). La evidencia sobre certificados de cursos de informática no se encontró; ver [certificados y microcredenciales](certificados-y-microcredenciales.md).
 
 ## Qué hay adentro
 

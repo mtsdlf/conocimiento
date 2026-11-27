@@ -4,13 +4,14 @@ resumen: >-
 estado: vigente
 estabilidad: estable
 fuentes:
-  - "Baldwin y Ford (1988), Transfer of training: A review and directions for future research, Personnel Psychology 41(1), 63-105 (vía Wikipedia): https://doi.org/10.1111/j.1744-6570.1988.tb00632.x"
+  - "Baldwin y Ford (1988), Transfer of training: A review and directions for future research, Personnel Psychology 41(1), 63-105 (texto completo, copia escaneada con OCR): https://gwern.net/doc/psychology/1988-baldwin.pdf (DOI: https://doi.org/10.1111/j.1744-6570.1988.tb00632.x)"
   - "Wikipedia, Transfer of training: https://en.wikipedia.org/wiki/Transfer_of_training"
   - "Blume, Ford, Baldwin y Huang (2010), Transfer of training: a meta-analytic review, Journal of Management 36(4), 1065-1105 (abstract): https://doi.org/10.1177/0149206309352880"
   - "Grossman y Salas (2011), The transfer of training: what really matters, International Journal of Training and Development (abstract): https://doi.org/10.1111/j.1468-2419.2011.00373.x"
   - "Burke y Hutchins (2007), Training transfer: an integrative literature review, Human Resource Development Review (abstract): https://doi.org/10.1177/1534484307303035"
   - "Bell, Tannenbaum, Ford, Noe y Kraiger (2017), 100 years of training and development research, Journal of Applied Psychology: https://doi.org/10.1037/apl0000142"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-evaluar-un-programa-2026-11.md"
 aliases: [transfer of training, transferencia al puesto, training transfer, Baldwin y Ford, aplicación en el trabajo]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -26,19 +27,21 @@ Es el tercer nivel de [Kirkpatrick](niveles-de-kirkpatrick.md) visto como proble
 
 ## El modelo de Baldwin y Ford
 
-Según Wikipedia, es «the most commonly cited model of transfer» y define la transferencia como «the generalization and maintenance of material learned in training to the work environment». El texto original no se pudo leer (es una imagen escaneada).
+Según Wikipedia, es «the most commonly cited model of transfer». Baldwin y Ford definen las condiciones de transferencia como la «generalization of material learned in training to the job context» y la «maintenance of the learned material over a period of time on the job».
 
-El modelo tiene dos fases. Primero, tres insumos producen aprendizaje y retención: las características de quien aprende, el diseño de la capacitación y el ambiente de trabajo. Después vienen las condiciones de transferencia: generalizar a situaciones nuevas y mantenerlo en el tiempo.
+El modelo tiene tres partes. Los insumos son las características de quien aprende (capacidad, motivación, personalidad), el diseño de la capacitación y el ambiente de trabajo (apoyo de jefes y pares, restricciones y oportunidades de usar lo aprendido). Los resultados del curso son el aprendizaje y la retención. Las condiciones de transferencia son generalizar y mantener.
+
+Los autores unen las partes con seis vínculos. El diseño, quien aprende y el ambiente afectan el aprendizaje y la retención (vínculos 1, 2 y 3). El aprendizaje y la retención afectan la transferencia (vínculo 6). Quien aprende y el ambiente de trabajo, además, afectan la transferencia en forma directa (vínculos 4 y 5): según el artículo, algo bien aprendido puede no mantenerse por falta de motivación o de apoyo del jefe. El diseño del curso solo llega a la transferencia a través de lo que se aprendió.
 
 ```mermaid
 flowchart LR
-  A[Quien aprende] -->|produce| L[Aprendizaje y retención]
-  D[Diseño del curso] -->|produce| L
-  W[Ambiente de trabajo] -->|produce| L
-  L -->|condiciona| T[Generalización y mantenimiento]
+  D[Diseño del curso] -->|1| L[Aprendizaje y retención]
+  A[Quien aprende] -->|2| L
+  W[Ambiente de trabajo] -->|3| L
+  A -->|4| T[Generalización y mantenimiento]
+  W -->|5| T
+  L -->|6| T
 ```
-
-El resumen leído no detalla qué efecto directo tiene cada insumo sobre la transferencia.
 
 ## Qué predice que se use
 
@@ -56,10 +59,10 @@ Según Bell et al. (2017), los factores tuvieron efectos distintos según se mid
 
 ## El mito del 10 %
 
-Circula que «solo el 10 % de lo que se enseña en una capacitación se transfiere». No se encontró una fuente primaria que lo sostenga; Saks (2002) la discute, pero solo se halló el registro. Esta base no la usa.
+Circula que «solo el 10 % de lo que se enseña en una capacitación se transfiere». Baldwin y Ford (1988) ya la presentan como estimación: «It is estimated that while American industries annually spend up to $100 billion on training and development, not more than 10% of these expenditures actually result in transfer to the job», y citan a Georgenson (1982), un artículo de *Training and Development Journal* que no se leyó. No se encontró un estudio que haya medido esa cifra; Saks (2002) la discute, pero solo se halló el registro. Esta base no la usa.
 
 ## Lo que queda para quien enseña
 
 Inferencia de esta base: tres cosas del cuadro dependen de quien arma el curso, la utilidad percibida, el diseño realista y el seguimiento. La oportunidad de practicar en el trabajo no depende del curso, y Grossman y Salas la cuentan entre los factores más fuertes. Que un curso corto de una herramienta (habilidad cerrada) dependa menos del ambiente que uno de liderazgo es lo que encontró Blume; trasladarlo a un curso concreto es inferencia.
 
-> [!NOTE] Sin fuente todavía: los tamaños de efecto de Blume et al. (2010) y el texto de Baldwin y Ford (1988).
+> [!NOTE] Sin fuente todavía: los tamaños de efecto de Blume et al. (2010) y el artículo de Georgenson (1982).

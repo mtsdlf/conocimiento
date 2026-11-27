@@ -7,6 +7,8 @@ fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
   - "Didactica/.investigacion/fundamentos-del-area.md"
+  - "Koo y Li (2016), A guideline of selecting and reporting intraclass correlation coefficients for reliability research, Journal of Chiropractic Medicine 15(2):155-163 (texto completo): https://pmc.ncbi.nlm.nih.gov/articles/PMC4913118/"
+  - "Evaluacion-educativa/.investigacion/fuentes-propositos-instrumentos-2026-11.md"
 aliases: [glosario de evaluación, términos de evaluación educativa]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -20,7 +22,7 @@ Las definiciones resumen las notas enlazadas, que tienen las fuentes. Los térmi
 
 | Término | Definición |
 |---|---|
-| [Acuerdo absoluto](../Instrumentos/autoevaluacion-y-evaluacion-entre-pares.md) | Que dos correctores pongan la misma nota, no solo que ordenen igual los trabajos. |
+| [Acuerdo absoluto](../Instrumentos/autoevaluacion-y-evaluacion-entre-pares.md) | Que dos correctores pongan la misma nota al mismo trabajo, no solo que sus notas se correlacionen (que ordenen parecido los trabajos). En el coeficiente de correlación intraclase, lo segundo se llama definición de «consistencia» (Koo y Li, 2016). |
 | [Acuerdo entre correctores](../Validez-confiabilidad-y-equidad/confiabilidad.md) | Cuánto coinciden dos personas que corrigen el mismo trabajo. |
 | [Aprendizaje para el dominio](../Calificacion-y-acreditacion/calificacion-por-dominio.md) (*mastery learning*) | No avanzar hasta superar un umbral en la unidad, con corrección y nuevas oportunidades. |
 | [Autoevaluación](../Instrumentos/autoevaluacion-y-evaluacion-entre-pares.md) | Juicio de quien aprende sobre su propio trabajo o su propio saber. |

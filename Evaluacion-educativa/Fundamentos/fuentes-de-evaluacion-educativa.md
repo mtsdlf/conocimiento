@@ -6,6 +6,7 @@ estabilidad: estable
 fuentes:
   - "Evaluacion-educativa/.investigacion/propositos-instrumentos-validez.md"
   - "Evaluacion-educativa/.investigacion/adaptativa-calificacion-programa.md"
+  - "Evaluacion-educativa/.investigacion/fuentes-validez-2026-11.md"
   - "Página de acceso abierto de los Standards: https://www.testingstandards.net/open-access-files.html"
 aliases: [bibliografía de evaluación educativa, lecturas de evaluación]
 creado: 2026-11-27
@@ -20,7 +21,7 @@ Complementan los [fundamentos](fundamentos-de-evaluacion-educativa.md). La colum
 
 ## Para todo el tema
 
-**AERA, APA y NCME (2014), *Standards for Educational and Psychological Testing*.** El marco común del campo, de acceso abierto en [testingstandards.net](https://www.testingstandards.net/open-access-files.html). Para quien enseña, leé la introducción (dice qué esperar de una evaluación de aula) y el capítulo 1 sobre validez; fijate en la definición de validez como interpretación para un uso. Leído: texto (introducción, caps. 1 y 2, estándares 6.9 y 13.7).
+**AERA, APA y NCME (2014), *Standards for Educational and Psychological Testing*.** El marco común del campo, de acceso abierto en [testingstandards.net](https://www.testingstandards.net/open-access-files.html). Para quien enseña, leé la introducción (dice qué esperar de una evaluación de aula) y el capítulo 1 sobre validez; fijate en la definición de validez como interpretación para un uso. Leído: el capítulo 3 entero; de la introducción, los caps. 1 y 2 y los estándares 6.9, 12.7, 12.8, 13.7 y 13.8, los pasajes citados. La oportunidad de aprender está en el capítulo 3 y el estándar 12.8, no en el 13.7.
 
 ## Por vertical
 
