@@ -21,7 +21,7 @@ revisado: 2026-11-27
 
 Un activo fijo es un bien que la empresa usa durante varios años (una máquina, un vehículo, un edificio); se registra por su costo y ese costo se reparte como gasto a lo largo de su vida útil mediante la amortización.
 
-La norma que lo ordena es la NIC 16 (qué son las NIIF y quién las emite está en [normas contables](../Estados-contables/normas-contables.md)), que los llama propiedades, planta y equipo; en Argentina se dicen también bienes de uso. Los libros de Estados Unidos dicen depreciación donde acá se dice amortización. El plan de mantenimiento y las órdenes de trabajo de cada activo son del tema Activos y mantenimiento, todavía no escrito; de acá son el alta, la amortización y la baja.
+La norma que lo ordena es la NIC 16 (qué son las NIIF y quién las emite está en [normas contables](../Estados-contables/normas-contables.md)), que los llama propiedades, planta y equipo; en Argentina se dicen también bienes de uso. Los libros de Estados Unidos dicen depreciación donde acá se dice amortización. El plan de mantenimiento y las órdenes de trabajo de cada activo son del tema [Activos y mantenimiento](../../Activos-y-mantenimiento/activos-y-mantenimiento.md); de acá son el alta, la amortización y la baja.
 
 ## Capitalizar o gastar
 

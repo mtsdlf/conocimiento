@@ -21,7 +21,7 @@ revisado: 2026-11-27
 
 Escalar es pasar un caso que quien lo atiende no puede resolver a alguien que sabe más (escalamiento funcional) o a alguien que puede decidir más (escalamiento jerárquico). La vertical reúne cómo se organiza ese pase en niveles, cuándo el caso pide mandar un técnico y cómo los casos que se repiten se convierten en un problema para atacar su causa.
 
-Dentro del [Servicio al cliente](../servicio-al-cliente.md), recibe del [Caso](../Caso/caso.md) lo que no se resolvió donde entró y le devuelve la solución, o el aviso de que hay un problema de fondo. Los [Niveles de servicio](../Niveles-de-servicio/niveles-de-servicio.md) le ponen el reloj: el tiempo que corre es una de las razones para escalar. Cuando hace falta una visita, el caso se deriva al servicio de campo, que es del tema Activos y mantenimiento, todavía no armado.
+Dentro del [Servicio al cliente](../servicio-al-cliente.md), recibe del [Caso](../Caso/caso.md) lo que no se resolvió donde entró y le devuelve la solución, o el aviso de que hay un problema de fondo. Los [Niveles de servicio](../Niveles-de-servicio/niveles-de-servicio.md) le ponen el reloj: el tiempo que corre es una de las razones para escalar. Cuando hace falta una visita, el caso se deriva al servicio de campo, que es del tema [Activos y mantenimiento](../../Activos-y-mantenimiento/Servicio-de-campo/servicio-de-campo.md).
 
 ## El campo no trata el escalamiento como categoría propia
 
