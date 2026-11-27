@@ -2,7 +2,7 @@
 resumen: >-
   El contexto es todo lo que entra en la ventana del modelo en una llamada: las instrucciones, los
   ejemplos, el historial, la información recuperada, los resultados de herramientas y la memoria. Es
-  la forma de adaptar un modelo sin cambiar sus pesos, y la primera que se prueba.
+  la forma de adaptar un modelo sin cambiar sus pesos.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -20,7 +20,7 @@ revisado:
 
 El contexto es todo lo que entra en la ventana del modelo en una llamada: las instrucciones, los
 ejemplos, el historial, la información recuperada, los resultados de herramientas y la memoria. Es
-la forma de adaptar un modelo sin cambiar sus pesos, y la primera que se prueba.
+la forma de adaptar un modelo sin cambiar sus pesos.
 
 Un modelo sabe lo que vio al entrenarse y nada más. Lo que necesita para una tarea concreta (qué
 se le pide, los documentos de una empresa, lo que dijo el usuario hace tres turnos) tiene que
@@ -28,7 +28,8 @@ llegarle como texto dentro de su [ventana de contexto](../Modelos/transformer.md
 propiedad del modelo y tiene un tamaño fijo. Esta vertical trata lo que se pone en esa ventana; los
 límites de la ventana misma se explican en [Modelos](../Modelos/modelos.md).
 
-Dentro del tema, Contexto es la vía más barata de las tres formas de adaptar un modelo. Las
+Dentro del tema, Contexto es la vía más barata de las tres formas de adaptar un modelo y la que
+conviene probar primero (lectura de esta base). Las
 [herramientas de un agente](../Agentes/agentes.md) le traen información nueva a mitad de la tarea,
 y lo que devuelven también entra como contexto. El [ajuste](../Ajuste/ajuste.md) cambia los pesos y
 se reserva para cuando el contexto no alcanza: la decisión está en
@@ -48,7 +49,7 @@ Cada pieza del contexto tiene un origen distinto y se decide en un lugar distint
 | Historial y notas que sobreviven entre pasos y sesiones | la aplicación, a veces el propio modelo | [Memoria](memoria.md) |
 | Resultados de herramientas | el mundo exterior: una API, una web, un archivo | [Uso de herramientas](../Agentes/uso-de-herramientas.md) |
 
-Las dos últimas filas traen texto que nadie del equipo escribió. Ahí está el riesgo de la vertical:
+Las tres últimas filas pueden traer texto que nadie del equipo escribió. Ahí está el riesgo de la vertical:
 el modelo no distingue entre instrucciones y datos dentro de su ventana, así que un documento o una
 página pueden darle órdenes. Eso es la [inyección de prompt](inyeccion-de-prompt.md).
 
@@ -67,7 +68,7 @@ abierta, con estudios que dan respuestas distintas según el modelo y la fecha. 
 
 ## Del prompt a la ingeniería de contexto
 
-Hasta 2024 se hablaba de *prompt engineering*: escribir bien la consulta. Con los agentes, que
+Hasta 2025 se hablaba de *prompt engineering*: escribir bien la consulta. Con los agentes, que
 encadenan decenas de llamadas, el problema pasó a ser administrar la ventana durante toda la tarea:
 qué se guarda afuera, qué se trae, qué se resume y qué se deja a otro agente. LangChain parte ese
 trabajo en cuatro estrategias (escribir, seleccionar, comprimir y aislar) y cada una cae en una nota
@@ -101,5 +102,7 @@ Leé en este orden: el prompt primero, porque todo lo demás se suma a él.
 - [Recuperación](recuperacion.md) — búsqueda léxica, por embeddings e híbrida, reranking, partición en
   fragmentos, métricas y búsqueda agentiva.
 - [Memoria](memoria.md) — lo que persiste entre pasos, turnos y sesiones, y cómo vuelve a la ventana.
+- [Herramientas de memoria](herramientas-de-memoria.md) — ficha fechada: cómo la implementan una API,
+  un producto de memoria y dos asistentes de chat (2026-11-27).
 - [Inyección de prompt](inyeccion-de-prompt.md) — el contexto como superficie de ataque y las defensas
   de diseño.

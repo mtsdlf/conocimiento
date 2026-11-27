@@ -1,8 +1,9 @@
 ---
 resumen: >-
   La destilación es entrenar un modelo chico (el alumno) para que imite a uno grande (el maestro),
-  de modo que haga una tarea casi tan bien a menor costo y latencia; en su origen el alumno aprende
-  de las probabilidades del maestro, y en el uso actual con modelos de lenguaje, de sus textos.
+  de modo que haga una tarea casi tan bien a menor costo y latencia; según la lectura habitual del
+  paper original, el alumno aprende de las probabilidades del maestro, y en el uso actual con modelos
+  de lenguaje, de sus textos.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -22,12 +23,12 @@ revisado:
 # Destilación
 
 La destilación es entrenar un modelo chico (el alumno) para que imite a uno grande (el maestro),
-de modo que haga una tarea casi tan bien a menor costo y latencia; en su origen el alumno aprende
-de las probabilidades del maestro, y en el uso actual con modelos de lenguaje, de sus textos.
+de modo que haga una tarea casi tan bien a menor costo y latencia; según la lectura habitual del
+paper original, el alumno aprende de las probabilidades del maestro, y en el uso actual con modelos
+de lenguaje, de sus textos.
 
-A diferencia del resto del ajuste, la destilación no busca más calidad sino la misma calidad más
-barata: baja el [costo y la latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md) de
-servir el modelo. Es uno de los casos en que el ajuste vale la pena según
+A diferencia del resto del ajuste, la destilación apunta menos a subir la calidad que a bajar el [costo y la latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md) de
+servir el modelo (lectura de esta base). Es uno de los casos en que el ajuste vale la pena según
 [Prompt, RAG o finetuning](../prompt-rag-o-finetuning.md). Huyen la vuelve a nombrar entre las
 técnicas de optimización del cap. 9 (según el resumen del libro); el resto de lo que abarata servir
 un modelo está en [Inferencia](../Produccion/inferencia.md).
@@ -38,12 +39,14 @@ La palabra nombra dos cosas que conviene no confundir, porque el alumno aprende 
 
 | | Qué recibe el alumno | De dónde viene |
 |---|---|---|
-| Destilación de probabilidades | la distribución completa del maestro sobre las salidas posibles | Hinton, Vinyals y Dean (2015) |
+| Destilación de probabilidades | la distribución completa del maestro sobre las salidas posibles | Hinton, Vinyals y Dean (2015), según la lectura habitual; el abstract no lo dice |
 | Destilación por datos | solo los textos que el maestro generó, como ejemplos de un [finetuning](finetuning.md) supervisado | el uso corriente con modelos de lenguaje |
 
-Hinton, Vinyals y Dean partían de un problema de despliegue: un conjunto de modelos es incómodo de
-servir, y su conocimiento se puede comprimir en un solo modelo; según su abstract, destilar un
-conjunto mejoró un modelo acústico comercial. El mecanismo que da nombre al paper (entrenar al alumno
+El abstract de Hinton, Vinyals y Dean abre con "A very simple way to improve the performance of
+almost any machine learning algorithm is to train many different models" y parte de un problema de
+despliegue: un conjunto de modelos es caro de servir, y su conocimiento se puede comprimir en un solo
+modelo. Según el abstract, lo probaron en MNIST y en un modelo acústico comercial de reconocimiento
+de voz, que mejoró. El mecanismo que da nombre al paper (entrenar al alumno
 con las probabilidades "suaves" del maestro, con una temperatura) no figura en el abstract, y su
 texto no se leyó.
 
@@ -59,13 +62,14 @@ el índice del libro). Por eso la destilación por datos es también un caso de
 
 ## Cómo se destila un modelo para una tarea
 
-El flujo que documenta un gran proveedor, generalizado:
+El flujo que documenta un gran proveedor tiene los primeros cuatro pasos; el quinto lo agrega esta
+base:
 
 1. Ajustá el prompt en un modelo grande hasta que pase tus [evals](../Evaluacion/evals.md).
 2. Corré ese modelo sobre entradas reales o representativas y guardá sus respuestas.
 3. Filtrá las respuestas que pasan los evals; las que no, se descartan.
 4. Ajustá un modelo chico con los pares de entrada y respuesta filtrados.
-5. Medí el modelo chico con los mismos evals, contra el grande.
+5. Medí el modelo chico con los mismos evals, contra el grande (agregado de esta base).
 
 El paso 3 es el que hace la diferencia: sin filtrar, el alumno aprende también los errores del
 maestro (lectura de esta base). La plataforma de ese proveedor está en retirada; el estado de los
@@ -77,21 +81,21 @@ servicios de ajuste está en la ficha [Plataformas de IA](../Produccion/platafor
 52.000 demostraciones generadas por un modelo de OpenAI a partir de 175 pares escritos a mano.
 Según la página del proyecto, generar los datos costó menos de 500 dólares y el ajuste, unas 3 horas
 en 8 GPU (menos de 100 dólares). El mismo caso muestra el límite: "Alpaca is intended only for
-academic research" y "any commercial use is prohibited", por la licencia del modelo base, por los
+academic research" y "any commercial use is prohibited", por la licencia del modelo de partida, por los
 términos del proveedor del maestro y por falta de medidas de seguridad.
 
 **DeepSeek-R1** (enero de 2025; publicado en *Nature* 645): según su abstract, los patrones de
 razonamiento de un modelo grande se pueden transferir a modelos chicos. El repositorio publica seis
-modelos destilados sobre bases de otras familias, "finetuned with 800k samples curated with
+modelos destilados sobre modelos de partida de otras familias, "finetuned with 800k samples curated with
 DeepSeek-R1": es destilación por datos, no por probabilidades. Cada modelo destilado conserva la
-licencia de su base, aunque el código y los pesos propios sean MIT. Los
+licencia de su modelo de partida, aunque el código y los pesos propios sean MIT. Los
 [modelos de razonamiento](../Modelos/razonamiento.md) explican qué es lo que se transfiere.
 
 ## Lo que limita usar las salidas de otro modelo
 
 Destilar con salidas de un modelo cerrado choca con los términos de uso del proveedor. Los de
 OpenAI prohíben, literalmente: "Use Output to develop models that compete with OpenAI." Destilar
-sobre un modelo abierto choca con la licencia de la base, que el alumno hereda, como muestran Alpaca
+sobre un modelo abierto choca con la licencia del modelo de partida, que el alumno hereda, como muestran Alpaca
 y DeepSeek-R1. Antes de destilar hay que leer los términos vigentes del maestro y la licencia de la
 base; esta base no da consejo legal.
 

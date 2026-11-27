@@ -8,12 +8,9 @@ estabilidad: semi
 fuentes:
   - https://arxiv.org/abs/2005.11401
   - https://arxiv.org/abs/2310.08560
-  - https://arxiv.org/abs/2504.19413
   - https://platform.claude.com/docs/en/agents-and-tools/tool-use/memory-tool
   - https://platform.claude.com/docs/en/build-with-claude/compaction
   - https://www.langchain.com/blog/context-engineering-for-agents
-  - https://help.openai.com/en/articles/8590148-memory-faq
-  - https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-conversations
   - "Huyen, AI Engineering (O'Reilly, 2025), cap. 6, «Agents», sección «Memory», p. 300 (solo índice)"
 aliases: [memory, memoria de agentes, agent memory, memoria a largo plazo, long-term memory, memoria persistente]
 creado: 2026-11-27
@@ -26,8 +23,9 @@ La memoria de un sistema con modelos es lo que se guarda fuera de la ventana de 
 entrar cuando hace falta: entre los pasos de un agente, entre turnos y entre sesiones. El modelo no
 recuerda nada entre llamadas; la memoria es un archivo o una base que controla la aplicación.
 
-Lewis et al. (2020), al proponer el RAG, distinguieron la memoria paramétrica (lo que el modelo
-aprendió en sus pesos) de la no paramétrica (un índice externo). La memoria de esta nota es de la
+Lewis et al. (2020), al proponer el RAG, distinguieron dos memorias; en su abstract, "the parametric
+memory is a pre-trained seq2seq model and the non-parametric memory is a dense vector index of
+Wikipedia". La memoria de esta nota es de la
 segunda clase, pero escrita durante el uso: no son documentos que alguien cargó, sino lo que el
 sistema fue aprendiendo de la tarea o del usuario. En la taxonomía de LangChain es la estrategia de
 "escribir" de la [ingeniería de contexto](ingenieria-de-contexto.md); traerla de vuelta es
@@ -59,17 +57,16 @@ summarization". Recomienda usar las dos en agentes que trabajan mucho tiempo.
 MemGPT (Packer et al., 2023) tomó la idea de la memoria jerárquica de los sistemas operativos: según
 su abstract, el sistema mueve datos entre una memoria rápida y chica (la ventana) y una lenta y
 grande (afuera), y lo llama "virtual context management". Lo evaluaron en análisis de documentos que
-no caben en la ventana y en chat de varias sesiones. Es el antecedente de casi todo lo que vino
-después.
+no caben en la ventana y en chat de varias sesiones.
 
-## La memoria como herramienta de archivos
+## La memoria como archivos que el agente lee y escribe
 
-La forma más concreta que se encontró es la herramienta de memoria de Anthropic. Corre del lado de la
-aplicación: el modelo pide operaciones de archivo (ver, crear, reemplazar texto, insertar, borrar,
-renombrar) sobre un directorio de memorias, y la aplicación las ejecuta con su propio almacenamiento.
-La documentación lo explica así: "Rather than loading all relevant information up front, an agent
-records what it learns in memory files and reads them back on demand". El sistema le agrega al
-modelo la instrucción "ASSUME INTERRUPTION: Your context window might be reset at any moment".
+La forma más concreta que se encontró es dar la memoria como una herramienta: el modelo pide leer y
+escribir archivos en un directorio de memorias, y la aplicación ejecuta esas operaciones con su
+propio almacenamiento. La documentación de Anthropic lo explica así: "Rather than loading all
+relevant information up front, an agent records what it learns in memory files and reads them back
+on demand". Las operaciones concretas y cómo se configura están en la ficha
+[Herramientas de memoria](herramientas-de-memoria.md).
 
 Para trabajos que cruzan varias sesiones, la misma documentación propone un patrón:
 
@@ -84,26 +81,18 @@ de progreso que sostiene el trabajo entre sesiones.
 ## Resumir y recuperar en lugar de mandar todo
 
 Otra familia de sistemas extrae hechos de la conversación, los resume y los recupera por similitud.
-Los autores de Mem0 reportan sobre el benchmark LOCOMO "26% relative improvements in the
-LLM-as-a-Judge metric over OpenAI", 91% menos de latencia en el percentil 95 y más de 90% de ahorro de
-tokens frente a pasar todo el contexto. Son los autores del producto, el preprint no pasó revisión
-por pares y la métrica es un [juez](../Evaluacion/ia-como-juez.md): sirve como señal de que resumir
-puede rendir, no como comparación neutral.
+Los únicos números encontrados son de los autores de un producto, en un preprint sin revisión por
+pares y medidos con un [juez](../Evaluacion/ia-como-juez.md): sirven como señal de que resumir puede
+rendir, no como comparación neutral. Las cifras están en la ficha
+[Herramientas de memoria](herramientas-de-memoria.md).
 
-## La memoria en los asistentes de chat
-
-Los asistentes comerciales ya tienen memoria entre sesiones, con diseños distintos. Uno separa las
-memorias guardadas (detalles que el usuario pide guardar o que el sistema decide guardar) de la
-referencia al historial de chats; los chats temporales "do not create or update memories". Otro
-guarda temas a medida que se conversa, separa la memoria por proyecto y no guarda temas sensibles
-por defecto. Los dos coinciden en un punto que sorprende: borrar una conversación no borra las
-memorias que salieron de ella. No hay una taxonomía común ni un estudio que los compare. Los
-detalles cambian seguido; las fuentes son las páginas de ayuda, leídas el 2026-11-27.
+Los asistentes de chat comerciales ya tienen memoria entre sesiones, con diseños distintos y sin una
+taxonomía común ni un estudio que los compare; cómo funciona cada uno, también en la ficha.
 
 ## Qué decidir: qué se escribe, quién lo borra, cuándo vence
 
 La memoria es estado que el sistema escribe solo, y eso trae decisiones que no tiene un prompt. La
-documentación de la herramienta de memoria nombra cuatro riesgos:
+documentación de la herramienta de memoria de Anthropic nombra cuatro riesgos:
 
 - **Rutas**: validar que el modelo no salga del directorio de memorias, por ejemplo con
   `/memories/../../secrets.env`.

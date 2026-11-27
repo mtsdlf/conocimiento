@@ -3,7 +3,7 @@ resumen: >-
   Un sistema con modelos es una aplicación que tiene un modelo de IA como una pieza más, y su
   arquitectura son las capas que se le suman alrededor (contexto, guardrails, router y gateway,
   cache, lógica y acciones, observabilidad, orquestación), de a una y solo cuando la medición la pide.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -13,7 +13,7 @@ fuentes:
   - "Huyen, AI Engineering (O'Reilly, 2025), cap. 10 «AI Engineering Architecture and User Feedback», sección de arquitectura, pp. 449-473"
 aliases: [AI engineering architecture, arquitectura de AI engineering, sistemas con LLM, plataforma de IA generativa]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Sistemas con modelos
@@ -27,7 +27,7 @@ La versión más simple es una consulta que va al modelo y una respuesta que vue
 suma una capa por vez, cada una para un problema que la anterior deja: el modelo no sabe lo que
 necesita, puede decir algo dañino, cuesta caro, tarda, tiene que actuar sobre el mundo. Su regla
 para todas es la misma: "a component can be skipped if your system works well without it". Lo que
-decide si una capa entra es la [evaluación](../Evaluacion/evals.md), y el
+decide si una capa entra son los [evals](../Evaluacion/evals.md), y el
 criterio general está en [Empezar simple](../../Arquitectura/Decisiones/empezar-simple.md).
 
 Cómo funciona el modelo por dentro está en [Modelo base](../Modelos/modelo-base.md). Esta nota trata lo que lo
@@ -70,7 +70,8 @@ flowchart LR
 
 Los guardrails se tratan como capa pero no se duplican acá: tienen su nota,
 [Guardrails](guardrails.md), y para ubicar la capa alcanza con saber que van en
-dos puntos, antes del modelo (lo que entra, incluida información privada) y después (lo que sale).
+tres puntos: antes del modelo (lo que entra, incluida información privada), después (lo que sale) y
+sobre las acciones que dispara.
 La observabilidad tiene la suya, [Observabilidad](observabilidad-de-modelos.md), y alimenta el mismo
 bucle que la [evaluación](../Evaluacion/evaluacion.md), junto
 con el [feedback de usuario](../Evaluacion/feedback-de-usuario.md), que Huyen pone
@@ -117,10 +118,11 @@ Esta lectura cruzada es de esta base: Huyen no la hace.
   escalera de recuperación, contexto largo frente a RAG y context engineering.
 - [Router y gateway de modelos](router-y-gateway-de-modelos.md): qué modelo atiende cada consulta
   y cómo se centraliza el acceso, el costo y el fallback.
-- [Cache de modelos](cache-de-modelos.md): las tres caches (del prompt, exacta y semántica) y por
+- [Cache de modelos](cache-de-modelos.md): el prompt cache, la cache exacta y la cache semántica, y por
   qué la semántica puede devolver una respuesta equivocada.
-- [Agente](../Agentes/agente.md): el modelo que planifica y usa herramientas: sus fallas, workflows frente a
-  agentes, MCP y harness engineering.
+- [Agente](../Agentes/agente.md): qué es un agente y cuándo alcanza un workflow; los patrones, las
+  herramientas y las fallas siguen en [Patrones de flujo](../Agentes/patrones-de-flujo.md),
+  [Uso de herramientas](../Agentes/uso-de-herramientas.md) y [Fallas de agentes](../Agentes/fallas-de-agentes.md).
 - [Guardrails](guardrails.md): los controles sobre la entrada, la salida y las acciones.
 - [Observabilidad](observabilidad-de-modelos.md): métricas, logs y trazas de cada consulta.
 - [Prompt, RAG o finetuning](../prompt-rag-o-finetuning.md): la decisión de cómo adaptar el modelo,

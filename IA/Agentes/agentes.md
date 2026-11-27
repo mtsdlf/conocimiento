@@ -14,6 +14,8 @@ fuentes:
   - https://metr.org/blog/2026-02-24-uplift-update/
   - https://papers.ssrn.com/abstract=4945566
   - https://arxiv.org/abs/2412.14161
+  - https://arxiv.org/abs/2402.01817
+  - https://cognition.com/blog/dont-build-multi-agents
 aliases: [agentes de IA, AI agents, agentic AI, IA agéntica]
 creado: 2026-11-27
 revisado:
@@ -50,9 +52,8 @@ Un sistema con un modelo puede ubicarse en una escala, según quién decide el p
 El mecanismo es el mismo en todos los escalones: el modelo no ejecuta nada, emite una llamada
 estructurada a una herramienta que la aplicación declaró, la aplicación la ejecuta y le devuelve
 el resultado. Un agente es ese circuito repetido hasta que el modelo deja de pedir herramientas.
-Cada escalón suma capacidad y también latencia, costo y formas de fallar, por eso la regla que
-comparten Huyen y Anthropic es subir solo cuando la evaluación muestra que el escalón de abajo no
-alcanza: "the simplest solution possible, and only increasing complexity when needed".
+Cada escalón suma capacidad y también latencia, costo y formas de fallar. Anthropic aconseja
+buscar "the simplest solution possible, and only increasing complexity when needed".
 
 ## Lo que se decide al construir un agente
 
@@ -60,14 +61,16 @@ Cuatro decisiones arman un agente, y cada una tiene su nota:
 
 - **Qué herramientas tiene y cómo están escritas.** Pocas, de alto impacto, con descripciones
   pensadas como un prompt; las de escritura cambian el riesgo del sistema.
-- **Cuánto decide el modelo.** Un workflow con un patrón conocido (cadena, ruteo, paralelo,
-  orquestador, evaluador) es más predecible que un agente libre; un sistema multiagente solo
-  conviene cuando las partes no comparten decisiones.
-- **Cómo planifica y se corrige.** El modelo no planifica de forma confiable solo: el plan se
-  valida antes de ejecutarlo, y cada paso que se puede verificar afuera del modelo se verifica.
+- **Cuánto decide el modelo.** Un workflow con un patrón conocido (encadenamiento, ruteo,
+  paralelización, orquestador-trabajadores, evaluador-optimizador) es más predecible que un agente
+  libre; un sistema multiagente conviene cuando las partes no comparten decisiones (lectura de esta
+  base, a partir de la disputa entre Anthropic y Cognition).
+- **Cómo planifica y se corrige.** Kambhampati et al. sostienen que un modelo no planifica de
+  forma confiable por sí solo, una tesis disputada; Huyen recomienda separar el plan de la
+  ejecución y validarlo antes de ejecutarlo.
 - **Qué puede romper y cómo se mide.** Cada acción de escritura lleva mínimo privilegio y, si es de
   alto impacto, aprobación humana; la evaluación mide cada modo de falla y la fiabilidad en varios
-  intentos.
+  intentos (pass^k, explicada en [Fallas de agentes](fallas-de-agentes.md#cómo-se-evalúa-un-agente)).
 
 El sistema alrededor del modelo que sostiene todo eso (el bucle, las herramientas, el manejo del
 contexto, los artefactos entre sesiones) se llama harness, y se explica en
@@ -123,18 +126,18 @@ Las herramientas concretas para programar con agentes están fuera de este tema,
 
 En orden de lectura:
 
-- [Agente](agente.md) — qué es, las tres clases de herramientas, las tres fallas de Huyen,
-  frameworks y harness engineering; la nota de partida.
+- [Agente](agente.md) — qué es, las tres clases de herramientas de Huyen, frameworks y harness
+  engineering, con enlaces a las notas que desarrollan workflows, MCP y fallas; la nota de partida.
 - [Uso de herramientas](uso-de-herramientas.md) — cómo el modelo pide ejecutar una función, cómo
   se diseña una herramienta y qué es MCP.
 - [Versiones de MCP](versiones-de-mcp.md) — ficha con la historia de la especificación, su
   gobierno y la adopción, copiada el 2026-11-27.
 - [Patrones de flujo](patrones-de-flujo.md) — workflow o agente, los cinco patrones, el bucle
-  ReAct y la disputa sobre multiagente.
+  ReAct (razonar, actuar y observar, intercalados) y la disputa sobre multiagente.
 - [Planificación](planificacion.md) — cómo el agente arma un plan, por qué el error se acumula,
   si un modelo puede planificar y el horizonte de tiempo de las tareas largas.
 - [Fallas de agentes](fallas-de-agentes.md) — modos de falla, cómo se evalúa un agente (resultado,
-  trayectoria y pass^k) y cómo se limitan sus acciones.
+  trayectoria y pass^k, que pide que salgan bien todos los intentos) y cómo se limitan sus acciones.
 - [Benchmarks de agentes](benchmarks-de-agentes.md) — ficha con qué mide cada benchmark público de
   agentes y sus resultados fechados.
 

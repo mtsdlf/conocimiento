@@ -25,10 +25,8 @@ Los datos para ajustar son los ejemplos de entrada y respuesta con los que se en
 se juzgan por calidad, cobertura y cantidad, y pocos ejemplos buenos, revisados a mano, sin
 duplicados y separados de los casos de evaluación rinden más que muchos con ruido.
 
-Son la parte cara del [finetuning](finetuning.md): según el resumen del libro de Huyen,
-"finetuning is easy, but getting data for finetuning is hard", y Husain estima que "99% of the
-labor involved with fine-tuning is assembling high-quality data that covers your AI product's
-surface area". Cuando los ejemplos reales no alcanzan se generan con modelos, que es lo que trata
+Son la parte cara del [finetuning](finetuning.md), por lo que explica
+[Ajuste](ajuste.md#por-qué-el-ajuste-mueve-el-problema-al-dato). Cuando los ejemplos reales no alcanzan se generan con modelos, que es lo que trata
 [Datos sintéticos](datos-sinteticos.md); lo de esta nota vale para los dos.
 
 ## Calidad, cobertura y cantidad
@@ -42,7 +40,7 @@ datos que hay a mano.
 - **Cobertura**: los ejemplos abarcan los casos que el producto va a ver, incluidos los raros. Los
   casos los da el [análisis de errores](../Evaluacion/analisis-de-errores.md), que es donde aparecen
   las fallas que el ajuste tiene que corregir.
-- **Cantidad**: la que alcance con calidad y cobertura, que suele ser menos de lo que se cree.
+- **Cantidad**: la que alcance con calidad y cobertura; LIMA, abajo, muestra un caso en que alcanzó con mil.
 
 ## Cuántos ejemplos hacen falta
 
@@ -76,7 +74,8 @@ limpiar y filtrar, y dar formato (según el índice del libro, cap. 8, pp. 396-4
 
 ## Duplicados y contaminación con los casos de evaluación
 
-Los duplicados hacen que el modelo memorice en vez de generalizar. Lee et al. (2021) lo midieron en
+Los duplicados aumentan la memorización: que el modelo reproduzca textos del entrenamiento. Lee et
+al. (2021) la midieron en
 conjuntos de preentrenamiento; según su abstract, más del 1 % de lo que generaban los modelos
 entrenados con ellos sin guía era copia del entrenamiento, una misma oración aparecía más de 60.000
 veces en un conjunto popular, y deduplicar redujo la memorización y pidió menos pasos de
@@ -97,7 +96,7 @@ Pasos para no contaminar, armados por esta base a partir de esas fuentes:
 2. Deduplicá los datos de ajuste, también los casi iguales.
 3. Buscá solapamiento entre los datos de ajuste y los evals, y sacá de los datos lo que coincida.
 4. Si usás un [benchmark público](../Evaluacion/benchmarks-y-eleccion-de-modelo.md) para comparar,
-   asumí que el modelo base pudo haberlo visto.
+   asumí que el modelo de partida pudo haberlo visto.
 
 > [!NOTE]
 > Sin fuente todavía: los formatos de datos (instrucción y respuesta, conversación, pares de

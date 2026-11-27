@@ -27,16 +27,17 @@ y qué queda afuera, porque la ventana es finita y el modelo rinde peor a medida
 Abarca el prompt, la recuperación, la memoria, la compactación y el reparto entre agentes.
 
 El [prompt](prompt.md) es una pieza; la ingeniería de contexto es la vista de conjunto sobre todo lo
-que comparte la [ventana de contexto](../Modelos/transformer.md). Importa poco en una consulta suelta
-y mucho en un [agente](../Agentes/agente.md), que en una tarea larga junta instrucciones,
+que comparte la [ventana de contexto](../Modelos/transformer.md). En lectura de esta base, importa
+poco en una consulta suelta y mucho en un [agente](../Agentes/agente.md), que en una tarea larga junta instrucciones,
 resultados de herramientas, historial y notas, y tiene que decidir qué sigue mereciendo lugar.
 
 ## De dónde sale el término
 
-El término se impuso a mediados de 2025. Según reportes secundarios (el post original no se pudo
-abrir), Andrej Karpathy respondió el 25 de junio de 2025 a un post de Tobi Lütke con "+1 for
-'context engineering' over 'prompt engineering'", y se le atribuye la definición "delicate art and
-science of filling the context window with just the right information for the next step". Simon
+El término se impuso a mediados de 2025. Según reportes secundarios, Andrej Karpathy respondió el
+25 de junio de 2025 a un post de Tobi Lütke apoyando "context engineering" frente a "prompt
+engineering", y se le atribuye una definición como el arte y la ciencia de llenar la ventana con la
+información justa para el paso siguiente. El post original no se pudo abrir y los reportes difieren
+en la redacción, así que el texto exacto no está verificado. Simon
 Willison lo defendió como "a better alternative to prompt engineering", porque el sentido que la
 gente infería de *prompt engineering* era el de "typing things into a chatbot".
 
@@ -89,7 +90,7 @@ notas fuera de la ventana y subagentes. Su consejo final es "do the simplest thi
 
 Compactar es reemplazar los turnos viejos por un resumen. Un proveedor ya lo ofrece como función de
 la API, "because response quality degrades as a conversation grows": el resumen se escribe del lado
-del servidor, a pedido o cuando se pasa un umbral de tokens (en beta en las páginas leídas). Hay una
+del servidor, a pedido o cuando se pasa un umbral de tokens. Hay una
 variante más simple, editar el contexto por regla, que borra resultados de herramientas viejos o
 bloques de pensamiento.
 

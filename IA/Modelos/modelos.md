@@ -13,6 +13,9 @@ fuentes:
   - https://arxiv.org/abs/2203.02155
   - https://arxiv.org/abs/2509.04664
   - https://web.stanford.edu/~jurafsky/slp3/
+  - https://arxiv.org/abs/2405.05904
+  - https://arxiv.org/abs/2312.05934
+  - https://lilianweng.github.io/posts/2024-07-07-hallucination/
 creado: 2026-11-27
 revisado:
 ---
@@ -35,13 +38,14 @@ estos modelos está en [Historia de la IA generativa](../Fundamentos/historia-de
 
 Un modelo base se hace en dos etapas y se usa en un bucle:
 
-1. **Preentrenamiento.** Un [transformer](transformer.md) aprende a predecir el próximo
+1. **Preentrenamiento.** Un [Transformer](transformer.md) aprende a predecir el próximo
    [token](token-y-embedding.md) sobre un corpus enorme sin etiquetas. Ahí adquiere casi todo lo que
-   sabe y ahí se gasta la mayor parte del cómputo ([Preentrenamiento](preentrenamiento.md)).
+   sabe ([Preentrenamiento](preentrenamiento.md)).
 2. **Post-entrenamiento.** Con ejemplos escritos por personas y con comparaciones entre respuestas, el
    modelo preentrenado aprende a seguir instrucciones y a conversar
-   ([Post-entrenamiento](post-entrenamiento.md)). InstructGPT mostró en 2022 que un modelo de 1.300
-   millones de parámetros así ajustado era preferido a GPT-3, de 175 mil millones.
+   ([Post-entrenamiento](post-entrenamiento.md)). InstructGPT mostró en 2022 que, sobre los prompts de sus
+   autores, las personas preferían un modelo de 1.300 millones de parámetros así ajustado a GPT-3, de
+   175.000 millones.
 3. **Generación.** En cada paso, el modelo calcula una probabilidad para cada token posible y el
    [muestreo](muestreo.md) elige uno, que se agrega a la entrada para el paso siguiente. Los modelos de
    [razonamiento](razonamiento.md) generan además pasos intermedios antes de responder.
@@ -68,7 +72,7 @@ límite con la nota que lo explica y la vertical que lo compensa; la corresponde
 | Límite | De dónde viene | Qué lo compensa |
 |---|---|---|
 | Emite falso con forma de verdadero | Optimiza lo probable; los datos, el post-entrenamiento y la evaluación premian responder antes que admitir que no sabe ([Alucinación](alucinacion.md)) | Darle los hechos ([Contexto y RAG](../Contexto/contexto-y-rag.md)), verificar la salida ([Guardrails](../Produccion/guardrails.md)) y medirla ([Evaluación](../Evaluacion/evaluacion.md)) |
-| Lo que sabe tiene fecha y huecos | Solo sabe lo que vio en el [preentrenamiento](preentrenamiento.md), hasta su corte | [Contexto](../Contexto/contexto.md) y [recuperación](../Contexto/recuperacion.md); no el finetuning, que enseña mal hechos nuevos |
+| Lo que sabe tiene fecha y huecos | Solo sabe lo que vio en el [preentrenamiento](preentrenamiento.md), hasta su corte | [Contexto](../Contexto/contexto.md) y [recuperación](../Contexto/recuperacion.md); no el finetuning, que aprende despacio los hechos nuevos (Gekhman et al.) y pierde contra RAG para inyectarlos (Ovadia et al., según un resumen secundario) |
 | Solo ve lo que entra en la ventana, y la paga | La [ventana de contexto](transformer.md#la-ventana-de-contexto) es finita y se cobra por [token](token-y-embedding.md) | [Ingeniería de contexto](../Contexto/ingenieria-de-contexto.md), [memoria](../Contexto/memoria.md), [cache](../Produccion/cache-de-modelos.md) |
 | La misma entrada da salidas distintas | El [muestreo](muestreo.md) elige por probabilidad | [Evals](../Evaluacion/evals.md) que miden proporciones, salidas estructuradas, [aislar lo no determinista](../../Arquitectura/Modularidad/aislar-lo-no-determinista.md) |
 | Solo emite texto, no actúa | Su única salida es el próximo token | [Uso de herramientas](../Agentes/uso-de-herramientas.md) y [agentes](../Agentes/agente.md) |
@@ -76,7 +80,7 @@ límite con la nota que lo explica y la vertical que lo compensa; la corresponde
 | Pensar más cuesta y tarda | El [razonamiento](razonamiento.md) gasta tokens en la inferencia | [Inferencia](../Produccion/inferencia.md), [router](../Produccion/router-y-gateway-de-modelos.md) |
 | Sus defectos pasan a todo lo que se construye encima | Muchas aplicaciones comparten el mismo [modelo base](modelo-base.md) | Medir en la tarea propia ([Benchmarks y elección de modelo](../Evaluacion/benchmarks-y-eleccion-de-modelo.md)) |
 
-El último límite es la homogeneización de Bommasani y otros (2021): como muchos productos se
+El último límite es la homogeneización de Bommasani et al. (2021): como muchos productos se
 construyen sobre el mismo modelo, sus defectos llegan a todos.
 
 ## Lo que la vertical no tiene resuelto
@@ -88,7 +92,7 @@ Tres discusiones atraviesan estas notas y se presentan con cada posición:
   del colapso persiste ([Razonamiento](razonamiento.md#si-los-modelos-razonan-o-colapsan)).
 - **Cuánto modelo y cuántos datos.** Las leyes de escala de Kaplan (2020) y de Chinchilla (2022) dan
   recetas distintas para el mismo presupuesto ([Preentrenamiento](preentrenamiento.md#leyes-de-escala-cuánto-modelo-y-cuántos-datos)).
-- **Por qué alucina.** Incentivos de la evaluación, calibración dañada por el ajuste y bola de nieve
+- **Por qué alucina.** Incentivos de la evaluación, calibración dañada por el ajuste (según Weng) y bola de nieve
   autorregresiva son explicaciones distintas que no se excluyen ([Alucinación](alucinacion.md#si-el-modelo-sabe-lo-que-no-sabe)).
 
 ## Qué hay adentro de Modelos
@@ -106,5 +110,5 @@ En orden de lectura:
 - [Modelos disponibles](modelos-disponibles.md) — ficha con los modelos, ventanas, cortes y precios al 2026-11-27.
 
 Para el panorama de libro de texto, Jurafsky y Martin, [*Speech and Language Processing*](https://web.stanford.edu/~jurafsky/slp3/)
-(3.ª ed., borrador de 2026), parte la materia casi igual: tokens (cap. 2), embeddings (cap. 5),
-transformers y preentrenamiento (cap. 7) y post-entrenamiento (cap. 8); se leyó solo su índice.
+parte la materia casi igual: tokens (cap. 2), embeddings (cap. 5),
+Transformers y preentrenamiento (cap. 7) y post-entrenamiento (cap. 8); se leyó solo su índice.

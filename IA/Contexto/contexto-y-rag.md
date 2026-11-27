@@ -1,8 +1,8 @@
 ---
 resumen: >-
-  El contexto es la información que se le pone al modelo junto con la consulta para que pueda
-  responder lo que no sabe; RAG (generación aumentada por recuperación) es la forma de armarlo
-  buscando en una base de documentos solo los fragmentos relevantes para cada consulta.
+  RAG (generación aumentada por recuperación) es armar el contexto del modelo buscando, en una base de
+  documentos, solo los fragmentos relevantes para cada consulta, para que pueda responder lo que no
+  sabe.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -24,34 +24,37 @@ revisado:
 
 # Contexto y RAG
 
-El contexto es la información que se le pone al modelo junto con la consulta para que pueda
-responder lo que no sabe; RAG (generación aumentada por recuperación) es la forma de armarlo
-buscando en una base de documentos solo los fragmentos relevantes para cada consulta.
+RAG (generación aumentada por recuperación) es armar el contexto del modelo buscando, en una base de
+documentos, solo los fragmentos relevantes para cada consulta, para que pueda responder lo que no
+sabe.
 
 Es la primera capa que Huyen suma a un sistema con modelos ("Step 1. Enhance Context"), y la
 llama *context construction*. Un modelo sabe lo que vio al entrenarse: no conoce los documentos de
 una empresa, el pedido de un cliente ni lo que pasó ayer. RAG no cambia el modelo, cambia lo que
 recibe; según el resumen del libro, RAG y agentes "are prompt-based". La idea viene de Lewis et
-al. (2020), que según su resumen combinaron la memoria paramétrica de un modelo con un índice de
-documentos como memoria no paramétrica.
+al. (2020); en su abstract, "the parametric memory is a pre-trained seq2seq model and the
+non-parametric memory is a dense vector index of Wikipedia". Qué es el contexto en general, y qué
+otras piezas entran en la ventana, está en [Contexto](contexto.md).
 
 ## De qué está hecho un RAG
 
-Un RAG tiene dos tiempos. Al indexar, los documentos se parten en fragmentos ("RAG typically
-requires documents to be split into manageable chunks", según Huyen) y cada fragmento se guarda en
+Un RAG tiene dos tiempos. Al indexar, los documentos pasan por la partición en fragmentos ("RAG
+typically requires documents to be split into manageable chunks", según el post de plataforma de
+Huyen) y cada fragmento se guarda en
 un índice. Al consultar, un [recuperador](recuperacion.md) busca los fragmentos más parecidos a la
 consulta y se los pone al modelo en el [prompt](prompt.md). Dónde se guardan los vectores (un *vector store*) es una pieza
 operativa; hay ejemplos en [Plataformas de IA](../Produccion/plataformas-de-ia.md).
 
 ## La escalera de recuperación
 
-Huyen presenta estas técnicas en este orden, con la de términos como opción atractiva para empezar.
+Huyen presenta estas técnicas en este orden en su post de plataforma (de ahí salen las citas de
+esta sección, no del libro), con la léxica como opción atractiva para empezar.
 Ordenarlas como escalera de la más barata a la más precisa, y subir un escalón solo si la evaluación
 de la recuperación lo pide, es lectura de esta base.
 
-1. **Por términos** (como BM25): busca palabras. "Term-based retrieval is much faster and cheaper
+1. **Léxica (por términos)**, como BM25: busca palabras. "Term-based retrieval is much faster and cheaper
    than embedding-based retrieval", y según el resumen del cap. 6 da líneas de base fuertes.
-2. **Por embeddings**: busca por significado, con vectores (qué es un embedding está en
+2. **Por embeddings (densa)**: busca por significado, con vectores (qué es un embedding está en
    [Token y embedding](../Modelos/token-y-embedding.md)). Cuesta más cómputo y "can be
    significantly improved over time".
 3. **Híbrida**: "Combining term-based retrieval and embedding-based retrieval is called hybrid
@@ -83,12 +86,12 @@ ventana y con el costo de mandarla en cada consulta (que el
 > al. (NVIDIA, ICLR 2024) encontraron, según cifras del buscador, que un modelo de 4.000 tokens con
 > recuperación rendía casi igual que uno extendido a 16.000, con mucho menos cómputo. En 2024, Li et
 > al. (Google, EMNLP 2024) escriben en su abstract que con recursos suficientes el contexto largo
-> "consistently outperforms RAG in terms of average performance", aunque RAG sigue siendo "much
-> cheaper"; según el buscador, en 63% de las consultas los dos dan la misma respuesta. Su método
+> "consistently outperforms RAG in terms of average performance", aunque el costo mucho menor de RAG
+> sigue siendo una ventaja clara. Su método
 > Self-Route manda cada consulta primero a RAG y, si el modelo dice que no puede responder, al
 > contexto largo, y baja el costo con rendimiento comparable. Una revisión de enero de 2025, sin
-> revisión por pares y según su resumen, advierte que los estudios usan pocos datasets de unas 200
-> preguntas. Del lado del contexto largo pesan además los estudios de degradación ("lost in the
+> revisión por pares, encuentra según su abstract que el contexto largo suele rendir más en preguntas
+> sobre Wikipedia y RAG en diálogos y consultas generales. Del lado del contexto largo pesan además los estudios de degradación ("lost in the
 > middle", context rot), que se explican en [Ingeniería de contexto](ingenieria-de-contexto.md):
 > aunque la base quepa, el modelo rinde peor con mucho texto alrededor. Cada lado tiene su interés:
 > Google vende modelos de contexto largo y Chroma, autora de context rot, vende una base vectorial.
@@ -125,11 +128,11 @@ Cuándo la falla no es de contexto sino de comportamiento, y conviene otra cosa 
 
 > [!NOTE]
 > Sin fuente todavía: una definición primaria de las métricas de recuperación (precision y recall en
-> los primeros k) y fragmentación y embeddings para textos en castellano. Lo que hay sobre cómo medir
+> los primeros k) y partición en fragmentos y embeddings para textos en castellano. Lo que hay sobre cómo medir
 > la recuperación está en [Recuperación](recuperacion.md).
 
 El recurso canónico es el cap. 6 de *AI Engineering*, sección "RAG" (pp. 253-275), con "Retrieval
-Optimization" (p. 268) para fragmentación, reranking y reescritura; la versión libre es la sección
+Optimization" (p. 268) para partición en fragmentos, reranking y reescritura; la versión libre es la sección
 de contexto del [post de plataforma](https://huyenchip.com/2024/07/25/genai-platform.html). Conviene
 fijarse en la escalera como escalera de costo. Para el tramo que el libro no cubre, Anthropic,
 ["Effective context engineering for AI agents"](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents),

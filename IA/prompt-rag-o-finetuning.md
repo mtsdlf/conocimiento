@@ -3,7 +3,7 @@ resumen: >-
   Elegir entre mejorar el prompt, sumar RAG o hacer finetuning es decidir cómo adaptar un modelo a
   una tarea: se empieza por el prompt, se suma contexto cuando al modelo le falta información y se
   entrena solo cuando lo que falla es su comportamiento y hay datos para corregirlo.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
@@ -13,9 +13,9 @@ fuentes:
   - https://developers.openai.com/api/docs/guides/optimizing-llm-accuracy
   - https://developers.openai.com/api/docs/guides/model-optimization
   - https://developers.openai.com/api/docs/guides/distillation
-aliases: [fine-tuning, finetuning, ajuste fino, escalera de adaptación, prompt vs RAG vs fine-tuning, destilación, distillation]
+aliases: [escalera de adaptación, prompt vs RAG vs finetuning]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Prompt, RAG o finetuning
@@ -45,7 +45,7 @@ costo es inferencia de esta base, ordenada como la ordenan las dos fuentes.
 ## El diagnóstico: falta conocimiento o falla el comportamiento
 
 La guía de OpenAI "Optimizing LLM accuracy" da la pregunta que decide el escalón: qué tipo de falla
-se ve en la [evaluación](Evaluacion/evals.md).
+se ve en los [evals](Evaluacion/evals.md).
 
 - **Le falta conocimiento**: el modelo no sabe algo (datos de la empresa, información reciente).
   Es un problema de contexto y se resuelve con RAG.
@@ -56,7 +56,7 @@ se ve en la [evaluación](Evaluacion/evals.md).
 El diagnóstico sale de mirar las fallas una por una, que es el
 [análisis de errores](Evaluacion/analisis-de-errores.md). Combinar no siempre
 suma: la misma guía cuenta un caso de corrección de textos en islandés donde agregar RAG a un
-modelo ya afinado bajó la métrica BLEU de 87 a 83.
+modelo ya ajustado bajó la métrica [BLEU](Evaluacion/metricas-de-evaluacion.md) de 87 a 83.
 
 ## Cuándo el finetuning vale la pena
 
@@ -66,26 +66,23 @@ model to excel at a particular task". La guía pide empezar con 50 ejemplos o m�
 "Quality of training data is more important than quantity".
 
 Ese último caso tiene nombre, destilación: se ajusta el prompt en un modelo grande hasta que pasa
-las evaluaciones, se guardan sus salidas como datos y se afina un modelo chico con ellas. Huyen la
-trata en el cap. 8 (p. 395). En este caso el finetuning no sube la calidad sino que baja el
+las evaluaciones, se guardan sus salidas como datos y se ajusta un modelo chico con ellas
+([Destilación](Ajuste/destilacion.md)). Huyen la trata en el cap. 8 (p. 395). En este caso el finetuning no sube la calidad sino que baja el
 [costo y la latencia](../Arquitectura/Caracteristicas/costo-y-latencia.md) (inferencia de esta base).
 
 ## El finetuning mueve el problema al dato
 
-Según el resumen oficial del libro, lo difícil del cap. 7 no es la mecánica de entrenar sino saber
-si hacerlo, y Huyen lo resume con una frase que escucha de practicantes: "finetuning is easy, but
-getting data for finetuning is hard". Las técnicas de ajuste eficiente (como LoRA) bajaron el costo
-de entrenar; no bajaron el de juntar, limpiar y etiquetar ejemplos buenos, que es el tema de su
-cap. 8 (lectura de esta base). Por inferencia de esta base, un modelo afinado es además un modelo propio que hay que
-versionar, evaluar y volver a afinar cuando sale uno base mejor: una decisión que conviene dejar
-en un [ADR](../Arquitectura/Decisiones/adr.md).
+Las técnicas de ajuste eficiente como [LoRA](Ajuste/peft-y-lora.md) bajaron el costo de entrenar,
+pero no el de juntar, limpiar y etiquetar ejemplos buenos. Por qué lo caro del finetuning son los
+datos, y qué pasa con el modelo ajustado después, está en
+[Ajuste](Ajuste/ajuste.md#por-qué-el-ajuste-mueve-el-problema-al-dato).
 
 Las plataformas de finetuning de los proveedores también cambian: al menos una de las grandes
 está cerrando la suya; el estado por proveedor está en [Plataformas de IA](Produccion/plataformas-de-ia.md).
 
 > [!NOTE]
 > Sin fuente todavía: el texto de "When to Finetune" del libro (solo se leyeron el índice y el
-> resumen) y una guía vigente de otros proveedores sobre cuándo afinar.
+> resumen) y una guía vigente de otros proveedores sobre cuándo ajustar.
 
 El recurso canónico es el cap. 7 de *AI Engineering*, "When to Finetune" (pp. 311-318), con
 "Reasons Not to Finetune" (p. 312) y "Finetuning and RAG" (p. 316) para la decisión, y el cap. 8

@@ -18,6 +18,7 @@ fuentes:
   - https://arxiv.org/abs/2506.06941
   - https://arxiv.org/abs/2506.09250
   - https://arxiv.org/abs/2507.01231
+  - https://arxiv.org/abs/2506.07142
 aliases: [reasoning, modelos de razonamiento, reasoning models, LRM, test-time compute, cómputo en inferencia, cadena de pensamiento, chain of thought, CoT, thinking, pensamiento extendido, RLVR, GRPO]
 creado: 2026-11-27
 revisado:
@@ -30,9 +31,9 @@ inferencia para acertar en tareas de varios pasos; esa conducta se entrena con a
 refuerzo sobre tareas verificables y se regula con cuántos tokens se lo deja pensar.
 
 Sebastian Raschka define razonar, en este sentido, como "the process of answering questions that
-require complex, multi-step generation with intermediate steps". Es lo que más cambió después de
-2024 y lo que más se discute: si los modelos "razonan" o buscan con fuerza bruta entre patrones está
-abierto (ver [más abajo](#si-los-modelos-razonan-o-colapsan)).
+require complex, multi-step generation with intermediate steps". Si eso es razonar o, como lo
+describe una réplica, el trabajo de "stochastic, RL-tuned searchers", está abierto (ver
+[más abajo](#si-los-modelos-razonan-o-colapsan)).
 
 ## Dos ejes: entrenar para pensar y dejar pensar más
 
@@ -60,13 +61,15 @@ lugares distintos.
 
 ## De pedir los pasos a entrenarlos
 
-**Pedirlos en el prompt.** Wei y otros (2022) mostraron que dar unos pocos ejemplos con los pasos
+**Pedirlos en el prompt.** Wei et al. (2022) mostraron que dar unos pocos ejemplos con los pasos
 intermedios escritos (*chain-of-thought prompting*) mejora el razonamiento: un modelo de 540 mil
 millones de parámetros con ocho ejemplos alcanzó el mejor resultado de la época en GSM8K, problemas
-de matemática escolar, por encima de un GPT-3 ajustado con verificador. Funcionaba solo en modelos
-suficientemente grandes. Es una técnica de [prompt](../Contexto/prompt.md).
+de matemática escolar, por encima de un GPT-3 ajustado con verificador. Funciona en modelos
+suficientemente grandes. Es una técnica de [prompt](../Contexto/prompt.md), y en modelos ya entrenados
+para razonar suma poco: Meincke et al. (2025) encontraron ganancias marginales, si las hay, a cambio
+de más tokens y tiempo ([Prompt](../Contexto/prompt.md) trae la evidencia).
 
-**Gastar el cómputo con criterio.** Snell y otros (2024, preprint) encontraron que repartir el
+**Gastar el cómputo con criterio.** Snell et al. (2024, preprint) encontraron que repartir el
 cómputo de inferencia según la dificultad de cada pregunta es "over 4x more efficient than a best-of-N
 baseline" (según su abstract), y que, a igual cómputo total, un modelo más chico con más cómputo en
 inferencia superó a uno 14 veces mayor en problemas donde el chico ya acertaba a veces. El resultado
@@ -75,11 +78,12 @@ depende de la dificultad: no reemplaza a un modelo mejor en lo que el chico no s
 **Entrenarlos con refuerzo.** OpenAI presentó o1 en septiembre de 2024 diciendo que un algoritmo de
 refuerzo a gran escala "teaches the model how to think productively using its chain of thought", y
 que los resultados mejoran tanto con más entrenamiento como con más tiempo de pensamiento. DeepSeek-R1
-(enero de 2025, publicado después en *Nature*) fue el primer caso abierto y documentado: su variante
-R1-Zero mostró que el razonamiento puede incentivarse con refuerzo puro, sin ejemplos humanos, y que
-aparecen conductas como la autorreflexión, la verificación y el cambio de estrategia. Usa GRPO, una
-variante de PPO que gasta menos memoria, con la que DeepSeekMath 7B había llegado a 51,7 % en el
-benchmark MATH sin herramientas.
+(enero de 2025, publicado después en *Nature*) documentó el paradigma con un modelo abierto: su
+variante R1-Zero mostró que el razonamiento puede incentivarse con refuerzo puro, sin ejemplos
+humanos, y que aparecen conductas como la autorreflexión, la verificación y el cambio de estrategia
+(según su abstract). El mismo equipo había presentado antes GRPO, una variante de PPO que gasta menos
+memoria, con la que DeepSeekMath 7B llegó a 51,7 % en el benchmark MATH sin herramientas; que R1 lo use
+no se verificó en su abstract.
 
 ## Solo se entrena lo que se puede verificar
 
@@ -101,8 +105,8 @@ estado actual está en la ficha de [Modelos disponibles](modelos-disponibles.md)
 un [router](../Produccion/router-y-gateway-de-modelos.md) puede mandar las preguntas fáciles a un
 modelo, o a un nivel de esfuerzo, que piense menos.
 
-Lo que se ve del pensamiento no es necesariamente lo que el modelo calculó: la documentación de
-Anthropic habla de bloques de pensamiento resumidos.
+La documentación de Anthropic habla de bloques de pensamiento resumidos: lo que se muestra puede ser
+un resumen del pensamiento y no el texto completo.
 
 > [!NOTE]
 > Sin fuente todavía: si la cadena de pensamiento que el modelo escribe es fiel a cómo llegó a la
@@ -111,7 +115,7 @@ Anthropic habla de bloques de pensamiento resumidos.
 ## Si los modelos razonan o colapsan
 
 > [!IMPORTANT]
-> **Colapso.** Shojaee y otros (Apple, "The Illusion of Thinking", NeurIPS 2025) probaron modelos
+> **Colapso.** Shojaee et al. (Apple, "The Illusion of Thinking", NeurIPS 2025) probaron modelos
 > de razonamiento con puzzles de complejidad controlable (Torre de Hanoi, cruzar el río) y
 > encontraron un "complete accuracy collapse beyond certain complexities". Distinguen tres regímenes:
 > en baja complejidad los modelos comunes superan a los de razonamiento, en media ganan los de
@@ -125,7 +129,7 @@ Anthropic habla de bloques de pensamiento resumidos.
 > Pidiendo una función que genere la solución en vez de la lista de movimientos, la precisión en Hanoi
 > fue alta. Sus experimentos son preliminares.
 >
-> **Parte y parte.** Dellibarda Varela y otros (julio de 2025) confirman algo de cada lado: en Hanoi
+> **Parte y parte.** Dellibarda Varela et al. (julio de 2025) confirman algo de cada lado: en Hanoi
 > los modelos "stumble when complexity rises moderately (around 8 disks)", así que no todo era límite
 > de salida; en cruzar el río, con solo casos resolubles, resuelven "instances with over 100 agent
 > pairs". Los describen como "stochastic, RL-tuned searchers in a discrete state space we barely
@@ -139,8 +143,8 @@ Anthropic habla de bloques de pensamiento resumidos.
 ## Qué leer sobre razonamiento
 
 [DeepSeek-R1](https://arxiv.org/abs/2501.12948), la parte de R1-Zero y las secciones sobre la
-recompensa y las conductas que aparecen: es el caso abierto mejor documentado. El artículo de
+recompensa y las conductas que aparecen. El artículo de
 [Raschka](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms), para el mapa de las
-cuatro vías. Para la discusión, [Shojaee y otros](https://arxiv.org/abs/2506.06941),
-[Lawsen](https://arxiv.org/abs/2506.09250) y [Dellibarda Varela y otros](https://arxiv.org/abs/2507.01231)
+cuatro vías. Para la discusión, [Shojaee et al.](https://arxiv.org/abs/2506.06941),
+[Lawsen](https://arxiv.org/abs/2506.09250) y [Dellibarda Varela et al.](https://arxiv.org/abs/2507.01231)
 juntos: fijarse en qué instancias eran irresolubles y qué sigue fallando cerca de los 8 discos.

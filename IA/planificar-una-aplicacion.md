@@ -2,11 +2,11 @@
 resumen: >-
   Planificar una aplicación con un modelo adentro es decidir, antes de construir, si el caso de uso
   necesita un modelo, cuánto error tolera, qué tiene que lograr el primer hito y cómo se va a
-  mantener cuando el modelo cambie; casi siempre lo que falla es el producto o el problema, no el
-  modelo.
+  mantener cuando el modelo cambie.
 estado: borrador
 estabilidad: semi
 fuentes:
+  - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
   - https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
   - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/
@@ -26,13 +26,14 @@ revisado:
 
 Planificar una aplicación con un modelo adentro es decidir, antes de construir, si el caso de uso
 necesita un modelo, cuánto error tolera, qué tiene que lograr el primer hito y cómo se va a mantener
-cuando el modelo cambie; casi siempre lo que falla es el producto o el problema, no el modelo.
+cuando el modelo cambie.
 
 Cruza todo el tema. Usa la [evaluación](Evaluacion/evaluacion.md) para definir qué es "anda", elige
 entre [prompt, RAG o finetuning](prompt-rag-o-finetuning.md) para el primer hito y prepara las capas
 de [sistemas con modelos](Produccion/sistemas-con-modelos.md) que se van a sumar después. Según el
-resumen de capítulos del libro, Huyen no tiene una sección de planificación: lo más cercano es la
-pregunta de si conviene construirlo, en el capítulo 1. Lo que sigue sale sobre todo de practicantes
+índice del libro, Huyen le dedica la sección "Planning AI Applications" del capítulo 1, con cuatro
+partes: "Use Case Evaluation", "Setting Expectations", "Milestone Planning" y "Maintenance"; la nota
+sigue ese orden, pero el texto de la sección no se leyó. Lo que sigue sale sobre todo de practicantes
 (Huyen en sus posts, Yan et al., Husain) y de dos estudios con método limitado.
 
 ## Si el caso de uso necesita un modelo
@@ -59,8 +60,8 @@ without adding much value". La tolerancia decide cuánta evaluación hace falta 
 Yan et al. recomiendan diseñar la experiencia con una persona en el bucle: "By allowing users to
 provide feedback and corrections easily, we can improve the immediate output", y esas correcciones
 vuelven como [feedback de usuario](Evaluacion/feedback-de-usuario.md). Según un resumen de la parte
-III, la forma que más funciona es "a human-computer centaur": la persona y el modelo trabajando
-juntos, no el modelo solo.
+III, la forma que más funciona es el centauro humano-computadora (*human-computer centaur*): la persona y el modelo
+trabajando juntos, no el modelo solo.
 
 > [!NOTE]
 > Sin fuente todavía: el marco de automatizar por etapas (primero el modelo sugiere, después actúa con
@@ -70,12 +71,12 @@ juntos, no el modelo solo.
 ## Lo que se puede esperar del primer hito
 
 Una demo sale rápido; un producto, no. Huyen lo dice como "It's easy to build a demo, but hard to
-build a product" y da dos números del mismo post, los dos de un caso de LinkedIn: llevó "1 month to
-achieve 80% of the experience they wanted, and an additional 4 months to surpass 95%", y "getting from
-0 to 80% took as long as from 80% to 90%". Yan et al. llaman a pasar de la demo al producto "a
+build a product" y da dos casos en el mismo post: a LinkedIn le llevó "1 month to achieve 80% of the
+experience they wanted, and an additional 4 months to surpass 95%", y una startup de asistentes de
+ventas le contó que "getting from 0 to 80% took as long as from 80% to 90%". Yan et al. llaman a pasar de la demo al producto "a
 deceptively difficult endeavor".
 
-De ahí sale cómo se arma el primer hito:
+Los pasos son de esta base; el 2 y el 3 tienen fuente, el 1 y el 4 son lectura propia:
 
 1. Definí qué es "anda" con unos pocos casos reales y un criterio por caso, antes de escribir el
    prompt (ver [evals](Evaluacion/evals.md)).
@@ -86,7 +87,7 @@ De ahí sale cómo se arma el primer hito:
 4. Planificá el tramo final como el más caro, no como el último 10 %.
 
 Husain ordena la evaluación en tres niveles de costo creciente y deja el A/B testing para "more mature
-products"; el primer hito usa los dos primeros. Tampoco se apunta al 100 %: "If you're passing 100% of
+products"; por lectura de esta base, el primer hito usa los dos primeros. Tampoco se apunta al 100 %: "If you're passing 100% of
 your evals, you're likely not challenging your system enough."
 
 ## Cuando el modelo cambia debajo del producto
@@ -99,19 +100,18 @@ endpoint", y no suponer que el mismo prompt da lo mismo: "Don't assume that plug
 prompt will lead to similar or better results." Lo que permite migrar sin adivinar son
 [evals](Evaluacion/evals.md) automatizados que se corren antes y después.
 
-Según un resumen de su parte III, Yan et al. llaman al modelo "the least durable component in the
-system", y ponen lo duradero en los evals, los guardrails, el
-[cache](Produccion/cache-de-modelos.md) y el ciclo de datos. Por inferencia de esta base, el
+Según un resumen de su parte III, Yan et al. describen al modelo como el componente menos
+durable del sistema, y ponen lo duradero en los evals, los guardrails, el
+[prompt cache](Produccion/cache-de-modelos.md) y el ciclo de datos. Por inferencia de esta base, el
 presupuesto de una aplicación con modelos tiene que incluir una nueva
 [elección de modelo](Evaluacion/benchmarks-y-eleccion-de-modelo.md) cada tanto, no solo la primera.
 
 > [!NOTE]
-> Sin fuente todavía: cada cuánto los proveedores retiran modelos; la fuente serían las páginas
-> oficiales de deprecación de cada uno.
+> Sin fuente todavía: cada cuánto los proveedores retiran modelos.
 
 ## Qué dicen los estudios sobre por qué fracasan
 
-Hay dos estudios con método, los dos limitados, y ninguno mide lo que circula de ellos.
+Hay dos estudios con método, los dos limitados.
 
 **RAND (Ryseff et al., 2024).** 65 entrevistas semiestructuradas, entre agosto y diciembre de 2023, a
 científicos de datos e ingenieros con cinco años o más de experiencia (50 de la industria, 15 de la
@@ -120,7 +120,7 @@ qué métrica (la más frecuente), datos, equipos que empiezan por la tecnologí
 solución adecuada, poca inversión en infraestructura y tecnología inmadura: "AI is not a magic wand
 that can make any challenging problem disappear." Es sobre proyectos de IA y ML en general, anterior
 a la ola de aplicaciones con modelos de lenguaje, y con una muestra de no gerentes. El "más del 80 %
-fracasa" que aparece en el informe lo toma de una nota de prensa de 2022, no de su muestra.
+fracasa" que aparece en el informe lo toma de un artículo de Fortune de 2022 ("By some estimates"), no de su muestra.
 
 **MIT NANDA, "The GenAI Divide" (Challapally et al., 2025).** Un informe de "Preliminary Findings",
 sin revisión por pares, sobre enero a junio de 2025: una revisión de más de 300 iniciativas públicas,
@@ -142,9 +142,9 @@ seis meses pueden ser poco, "potentially understating success rates".
 > de agentes que el informe recomienda, sin declararlo. No se encontró una respuesta de los autores.
 >
 > **Las causas tampoco coinciden.** RAND pone la causa principal en el liderazgo y en cómo se define
-> el problema; NANDA, en una brecha de aprendizaje de las herramientas; Huyen, en productos mal
-> diseñados y casos de uso mal elegidos. Lo que comparten, como lectura de esta base, es que casi
-> nunca señalan al modelo. No son la misma evidencia: unas son entrevistas y otras, experiencia de
+> el problema; NANDA, según la prensa (resumen secundario), en una "learning gap"; Huyen, en productos mal
+> diseñados y casos de uso mal elegidos. Como lectura de esta base, ponen al modelo en un segundo plano
+> frente al problema y al producto, aunque RAND cuenta la tecnología inmadura entre sus cinco causas. No son la misma evidencia: unas son entrevistas y otras, experiencia de
 > practicantes.
 
 ## Qué leer antes de empezar

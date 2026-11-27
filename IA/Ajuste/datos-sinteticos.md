@@ -47,26 +47,26 @@ según ese resumen, cuando los modelos pudieron generar datos realistas y comple
 
 | Método | Qué hace | Resultado que reporta |
 |---|---|---|
-| Self-Instruct (Wang et al., 2022) | el modelo genera instrucciones, entradas y salidas a partir de unas pocas semillas; se filtran las inválidas o repetidas y se ajusta con el resto | con GPT-3 base, "a 33% absolute improvement" en un benchmark de instrucciones, y "a 5% absolute gap" por detrás de un modelo ajustado con datos humanos en evaluación con personas |
+| Self-Instruct (Wang et al., 2022) | el modelo genera sus propias instrucciones, entradas y salidas; se filtran las inválidas o repetidas y se ajusta con el resto | con GPT-3 base, "a 33% absolute improvement" en un benchmark de instrucciones, y "a 5% absolute gap" por detrás de InstructGPT-001 en evaluación con personas |
 | Evol-Instruct (Xu et al., 2023) | un modelo reescribe instrucciones semilla "step by step into more complex instructions" | según su abstract, las personas prefirieron las instrucciones evolucionadas a las escritas a mano |
-| Constitutional AI (Bai et al., 2022) | el modelo critica y revisa sus propias respuestas según principios escritos, y genera las preferencias para el refuerzo | según su abstract, un asistente inofensivo pero "non-evasive" con muchas menos etiquetas humanas |
-| Libros de texto sintéticos, phi-1 (Gunasekar et al., 2023) | un modelo grande escribe explicaciones y ejercicios para entrenar a uno chico | según su abstract, un modelo de 1.300 millones de parámetros con unos 1.000 millones de tokens sintéticos llegó a 50,6 % en HumanEval |
+| IA constitucional (Constitutional AI; Bai et al., 2022) | el modelo critica y revisa sus propias respuestas según principios escritos, y genera las preferencias para el refuerzo | según su abstract, "a harmless but non-evasive AI assistant", con muchas menos etiquetas humanas |
+| Libros de texto sintéticos, phi-1 (Gunasekar et al., 2023) | un modelo grande escribe explicaciones y ejercicios para entrenar a uno chico | según su abstract, un modelo de 1.300 millones de parámetros entrenado con unos 6.000 millones de tokens de web filtrada por su calidad de libro de texto y unos 1.000 millones de tokens sintéticos llegó a 50,6 % en HumanEval |
 
-Los dos primeros generan datos para enseñar a seguir instrucciones; Constitutional AI, para alinear
+Los dos primeros generan datos para enseñar a seguir instrucciones; la IA constitucional, para alinear
 el comportamiento, y es una pieza del [post-entrenamiento](../Modelos/post-entrenamiento.md); phi-1,
 para enseñar una capacidad. Todas las cifras son de sus autores, leídas en los abstracts.
 
 ## Cómo se verifica un ejemplo generado
 
 Ninguno de los papers leídos trata la verificación como un componente aparte, aunque Self-Instruct
-filtra de forma explícita entre generación y entrenamiento. Lo que la hace posible es tener un
-verificador más barato que el generador:
+filtra de forma explícita entre generación y entrenamiento. Lo que la hace posible, en lectura de
+esta base, es tener un verificador más barato que el generador:
 
 - **Un resultado comprobable**: en matemática y código se puede chequear la respuesta o correr los
-  tests. DeepSeek-R1, según su abstract, rinde fuerte justamente en "verifiable tasks in
-  mathematics, coding competitions, and STEM fields".
-- **Los evals del propio sistema**: Husain reutiliza los tests y las aserciones de la
-  [evaluación](../Evaluacion/evals.md) para descartar ejemplos sintéticos que fallan.
+  tests. Que DeepSeek-R1 sirva de ejemplo es lectura de esta base: según su abstract, rinde fuerte
+  en "verifiable tasks in mathematics, coding competitions, and STEM fields".
+- **Los evals del propio sistema**: Husain reutiliza los tests y las aserciones de los
+  [evals](../Evaluacion/evals.md) para descartar ejemplos sintéticos que fallan.
 - **Un modelo que califica**: un [juez](../Evaluacion/ia-como-juez.md) filtra lo que no se puede
   comprobar a mano, con sus propios sesgos.
 
@@ -84,9 +84,9 @@ de los evals que los reales (ver [Datos para ajustar](datos-para-ajustar.md#dupl
 > describen un proceso degenerativo: los modelos entrenados con contenido generado por modelos
 > "forget the true underlying data distribution". Se pierden primero las colas raras de la
 > distribución y después las salidas convergen a una varianza muy chica; lo observan en modelos
-> simples y en modelos de lenguaje. La página de *Nature* no cargó: la cita sale del texto
-> recuperado por buscador y de la versión en arXiv ("The Curse of Recursion", 2023), y el artículo
-> tiene una corrección de los autores que no se leyó.
+> simples y en modelos de lenguaje. La página de *Nature* no cargó: la cita sale del texto del
+> artículo de *Nature* recuperado por buscador. La versión previa en arXiv se tituló "The Curse of
+> Recursion" (2023), y el artículo tiene una corrección de los autores que no se leyó.
 >
 > Gerstgrasser et al. (2024) acotan el resultado. Según su abstract, reemplazar los datos reales por
 > los sintéticos de cada generación lleva al colapso, pero acumular los sintéticos junto a los
@@ -100,8 +100,8 @@ de los evals que los reales (ver [Datos para ajustar](datos-para-ajustar.md#dupl
 Para un equipo que ajusta un modelo una vez, la lectura práctica es mezclar los sintéticos con datos
 reales en vez de reemplazarlos y medir con evals hechos con casos reales, no generados (lectura de
 esta base). El colapso que describe Shumailov es sobre generaciones sucesivas de modelos entrenados
-con salidas de los anteriores, que es más el problema de los laboratorios que el de un ajuste
-puntual.
+con salidas de los anteriores; que eso sea más el problema de los laboratorios que el de un ajuste
+puntual también es lectura de esta base.
 
 ## Qué leer sobre datos sintéticos
 

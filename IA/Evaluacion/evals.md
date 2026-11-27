@@ -3,7 +3,7 @@ resumen: >-
   Los evals de un sistema con un modelo son un conjunto de casos que imita el uso real y mide qué
   proporción de las salidas cumple los criterios del producto; reemplazan a la prueba de resultado
   exacto cuando la misma entrada puede dar salidas distintas.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -14,12 +14,11 @@ fuentes:
   - https://hamel.dev/blog/posts/evals/
   - https://hamel.dev/blog/posts/field-guide/
   - https://platform.claude.com/docs/en/test-and-evaluate/develop-tests
-  - https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
   - https://arxiv.org/abs/2407.01502
   - https://arxiv.org/abs/2502.14318
-aliases: [evals, eval, evaluation, evaluación de LLM]
+aliases: [evals, eval, conjunto de evaluación, eval suite]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Evals
@@ -43,10 +42,8 @@ veces no es una cadena exacta sino un juicio: si la respuesta es fiel al documen
 si resolvió lo que el usuario pedía. Husain agrega que esa corrección es subjetiva y hay que alinearla
 con el criterio de una persona.
 
-Parte del no determinismo se puede evitar. He (Thinking Machines, 2025) mostró que la causa principal
-no es la concurrencia sino que los kernels de inferencia no son invariantes al tamaño del batch: con
-1.000 completions de Qwen3-235B a temperatura 0 obtuvo 80 salidas distintas, y con kernels
-invariantes, las 1.000 iguales. El costo, en una prueba con Qwen3-8B, fue de 42 s frente a 26 s de vLLM por defecto. Aun con salidas
+Por qué ni siquiera la temperatura 0 da siempre la misma salida, y cómo se evita, está en
+[muestreo](../Modelos/muestreo.md#por-qué-temperatura-0-no-da-siempre-lo-mismo). Aun con salidas
 reproducibles, un cambio chico de prompt o de modelo cambia el comportamiento, así que la evaluación
 sobre muchos casos sigue haciendo falta. Cómo se aísla esa pieza incierta en el diseño está en
 [aislar lo no determinista](../../Arquitectura/Modularidad/aislar-lo-no-determinista.md).
@@ -68,7 +65,7 @@ looking at data—no free lunch exists."
 ## Criterios antes de construir y en cada componente
 
 Según el resumen del buscador del capítulo 4, Huyen propone *evaluation-driven development*: fijar
-los criterios de evaluación antes de construir, como en TDD. La cita literal no se verificó. El índice
+los criterios de evaluación antes de construir, como en TDD (*test-driven development*, donde la prueba se escribe antes que el código). La cita literal no se verificó. El índice
 del capítulo sí muestra los tres pasos del pipeline: evaluar todos los componentes del sistema, no solo
 la salida final; escribir una guía de evaluación con rúbrica; y elegir métodos y datos. Evaluar cada
 componente es, por inferencia de esta base, lo que permite saber si una falla viene de la recuperación de
@@ -98,7 +95,7 @@ in edge cases!") y que el juez sea un modelo distinto del que genera.
 
 Las críticas más fuertes apuntan a los benchmarks públicos, no a los evals de una aplicación. Fodor
 (2025, según el resumen del buscador) sostiene que los benchmarks se volvieron objetivo y no medida,
-un caso de la ley de Goodhart. Kapoor et al. (2024) muestran que los benchmarks de agentes, con
+un caso de la [ley de Goodhart](../../Producto/Estrategia/resultados-y-entregables.md#goodhart-cuando-el-resultado-se-vuelve-meta): una medida que se vuelve meta deja de medir lo que medía. Kapoor et al. (2024) muestran que los benchmarks de agentes, con
 holdouts débiles, producen agentes que "take shortcuts and overfit" y diseños "needlessly complex and
 expensive". El mismo riesgo vale para un conjunto propio que nunca se renueva: si el sistema se ajusta
 a esos casos, deja de medir el uso real. La fórmula de Huyen para agentes es medir fallas, no

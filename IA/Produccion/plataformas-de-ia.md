@@ -82,11 +82,11 @@ sobre el precio de entrada normal. Copiado de las tres documentaciones el 2026-1
 
 | Proveedor | Estado al 2026-11-27 | Fuente |
 |---|---|---|
-| OpenAI | "OpenAI is winding down the fine-tuning platform": cerrada a usuarios nuevos; los clientes existentes elegibles pueden crear jobs hasta el 2026-12-15, salvo que el modelo base se apague antes (la página de distillation da la fecha; la de model optimization dice solo que se podrán crear jobs por los próximos meses). Los modelos afinados siguen disponibles hasta que se apaga su base. Fechas de apagado de modelos afinables: `gpt-4.1-nano-2025-04-14` el 2026-10-23 (ya pasada); `gpt-4.1` y `gpt-4.1-mini` el 2027-01-14. Métodos que documentaba: SFT, DPO y visión | [distillation](https://developers.openai.com/api/docs/guides/distillation), [model optimization](https://developers.openai.com/api/docs/guides/model-optimization) |
-| Anthropic | Fine-tuning de Claude 3 Haiku en Amazon Bedrock, disponible desde el 2024-11-01 en us-west-2; según el buscador, ese modelo llegó a fin de vida el 2026-09-10. No se encontró una página oficial vigente | [anuncio](https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga) **[buscador]** |
+| OpenAI | "OpenAI is winding down the fine-tuning platform": cerrada a usuarios nuevos; los clientes existentes elegibles pueden crear jobs hasta el 2026-12-15, salvo que el modelo base se apague antes (la página de distillation da la fecha; la de model optimization dice solo que se podrán crear jobs por los próximos meses). Los modelos ajustados siguen disponibles hasta que se apaga su base. Fechas de apagado de modelos que se pueden ajustar: `gpt-4.1-nano-2025-04-14` el 2026-10-23 (ya pasada); `gpt-4.1` y `gpt-4.1-mini` el 2027-01-14. Métodos que documentaba: SFT, DPO y visión | [distillation](https://developers.openai.com/api/docs/guides/distillation), [model optimization](https://developers.openai.com/api/docs/guides/model-optimization) |
+| Anthropic | Finetuning de Claude 3 Haiku en Amazon Bedrock, disponible desde el 2024-11-01 en us-west-2; según el buscador, ese modelo llegó a fin de vida el 2026-09-10. No se encontró una página oficial vigente | [anuncio](https://www.anthropic.com/news/fine-tune-claude-3-haiku-ga) **[buscador]** |
 | Google | Sin dato: no se buscó una página oficial | — |
 
 > [!NOTE]
-> Sin fuente todavía: las alternativas de fine-tuning que quedan con la plataforma de OpenAI en
-> retirada (pesos abiertos con LoRA, otros proveedores), y el TTL y el descuento del cache de Google
+> Sin fuente todavía: las alternativas de finetuning que quedan con la plataforma de OpenAI en
+> retirada (pesos abiertos con LoRA, otros proveedores), y el TTL y el descuento del prompt cache de Google
 > en su página viva. La documentación de Anthropic se leyó hasta el carácter 100.000 de unos 155.000.

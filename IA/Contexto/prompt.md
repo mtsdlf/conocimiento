@@ -1,8 +1,8 @@
 ---
 resumen: >-
   El prompt es el texto con que se le pide algo al modelo: instrucciones, ejemplos y la consulta,
-  repartidos en mensajes con roles. Es la forma más barata de adaptar un modelo a una tarea, porque
-  no toca sus pesos, y se versiona y se prueba como código.
+  repartidos en mensajes con roles. Adapta el modelo a una tarea sin tocar sus pesos, y se versiona y
+  se prueba como código.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -24,8 +24,8 @@ revisado:
 # Prompt
 
 El prompt es el texto con que se le pide algo al modelo: instrucciones, ejemplos y la consulta,
-repartidos en mensajes con roles. Es la forma más barata de adaptar un modelo a una tarea, porque
-no toca sus pesos, y se versiona y se prueba como código.
+repartidos en mensajes con roles. Adapta el modelo a una tarea sin tocar sus pesos, y se versiona y
+se prueba como código.
 
 Es la primera pieza del [contexto](contexto.md) y la base sobre la que se suman las demás: los
 fragmentos de un [RAG](contexto-y-rag.md), la [memoria](memoria.md) y los resultados de
@@ -42,43 +42,46 @@ improves task-agnostic, few-shot performance". Dar ejemplos se llama *few-shot*;
 *zero-shot*.
 
 El campo acumuló muchas técnicas desde entonces. The Prompt Report, según su abstract, ordena 58
-técnicas para modelos de texto y 40 para otras modalidades. La mayoría son variantes de unas pocas
-ideas que siguen en las guías de los proveedores.
+técnicas para modelos de texto y 40 para otras modalidades.
 
 ## El prompt de sistema y el del usuario
 
 Las APIs reparten el prompt en mensajes con roles. El de sistema (o de desarrollador) lo escribe
 quien construye el producto y fija el comportamiento; el de usuario trae la consulta de cada vez.
 OpenAI propone pensarlos "like a function and its arguments in a programming language", y los
-mensajes de desarrollador tienen prioridad sobre los del usuario. Huyen abre su capítulo con esa
-distinción (cap. 5, p. 215, según el índice).
+mensajes de desarrollador tienen prioridad sobre los del usuario. Huyen trata esa distinción en su
+capítulo sobre prompts (cap. 5, según el índice).
 
-Esa prioridad la aprende el modelo; no la garantiza nada. Un texto en el mensaje de usuario o en un
+En lectura de esta base, esa prioridad la aprende el modelo y nada la garantiza. Un texto en el mensaje de usuario o en un
 documento recuperado puede pasar por encima del prompt de sistema, y por eso el prompt de sistema no
 sirve como control de seguridad: se explica en [Inyección de prompt](inyeccion-de-prompt.md).
 
 ## Lo que sigue funcionando
 
-Las guías actuales de Anthropic y OpenAI coinciden en un núcleo que el índice de Huyen también
-ordena como prácticas (cap. 5, pp. 220-229):
+Cada práctica, con la fuente que la recomienda:
 
-- **Instrucciones claras y explícitas**, con el contexto que la tarea necesita: para qué es la
-  salida, quién la lee, qué formato lleva.
+- **Instrucciones claras y explícitas, con el contexto suficiente.** Son dos secciones del índice de
+  Huyen ("Write Clear and Explicit Instructions", p. 220, y "Provide Sufficient Context", p. 223) y
+  siguen en la guía actual de Anthropic.
 - **Ejemplos variados.** OpenAI: "try to show a diverse range of possible inputs with the desired
   outputs". Anthropic recomienda "3–5 examples for best results", envueltos en etiquetas.
-- **Estructura con etiquetas** para separar instrucciones, documentos y ejemplos.
+- **Estructura con etiquetas** para separar instrucciones, documentos y ejemplos, según la guía de
+  Anthropic.
 - **Documentos largos arriba y la consulta al final.** Según Anthropic, "Queries at the end can
   improve response quality by up to 30 percent in tests"; la cifra es de pruebas del propio
   laboratorio.
-- **Partir una tarea compleja en pasos** encadenados, que es el patrón de cadena de
-  [Patrones de flujo](../Agentes/patrones-de-flujo.md).
+- **Partir una tarea compleja en pasos** encadenados: "Break Complex Tasks into Simpler Subtasks"
+  en el índice de Huyen (p. 224) y encadenar tareas en la guía de Anthropic. Es el patrón de
+  encadenamiento de [Patrones de flujo](../Agentes/patrones-de-flujo.md).
 
-Si la salida tiene que tener una forma fija (un JSON con ciertos campos), pedirla en el prompt no
-alcanza para garantizarla; las salidas estructuradas se explican en [Muestreo](../Modelos/muestreo.md).
+En lectura de esta base, si la salida tiene que tener una forma fija (un JSON con ciertos campos),
+pedirla en el prompt no alcanza para garantizarla; las salidas estructuradas se explican en
+[Muestreo](../Modelos/muestreo.md).
 
 ## Lo que perdió peso con modelos más capaces
 
-Varias técnicas de 2022 y 2023 compensaban limitaciones que los modelos fueron perdiendo:
+En lectura de esta base, varias técnicas de 2022 y 2023 compensaban limitaciones que los modelos
+fueron perdiendo:
 
 - **Pedir que piense paso a paso.** Wei et al. (2022) mostraron, según su abstract, que con ocho
   ejemplos con pasos intermedios un modelo de 540.000 millones de parámetros alcanzaba el estado del
@@ -90,8 +93,9 @@ Varias técnicas de 2022 y 2023 compensaban limitaciones que los modelos fueron 
 - **El énfasis agresivo.** Anthropic dice que sus modelos recientes responden más al prompt de
   sistema, y que donde antes se escribía "CRITICAL: You MUST use this tool when..." ahora alcanza con
   "Use this tool when...".
-- **Rellenar el comienzo de la respuesta** (*prefill*) para forzar un formato: Anthropic dejó de
-  aceptarlo en sus modelos recientes y dice que "most use cases of prefill no longer require it".
+- **Rellenar el comienzo de la respuesta** (*prefill*) para forzar un formato: al menos un proveedor
+  dejó de aceptarlo en sus modelos más nuevos (a noviembre de 2026) y dice que "most use cases of
+  prefill no longer require it".
 
 > [!IMPORTANT]
 > Los proveedores no coinciden en si el estilo depende del tipo de modelo. OpenAI separa: a un modelo
@@ -102,21 +106,23 @@ Varias técnicas de 2022 y 2023 compensaban limitaciones que los modelos fueron 
 
 ## Versionar el prompt como código
 
-Un prompt de producción es código: cambia el comportamiento del sistema y se rompe como cualquier
-cambio. OpenAI recomienda fijar la aplicación a una instantánea concreta del modelo, guardar los
+En lectura de esta base, un prompt de producción es código: cambia el comportamiento del sistema y
+se rompe como cualquier cambio. OpenAI recomienda fijar la aplicación a una instantánea concreta del modelo, guardar los
 prompts en el código de la aplicación con revisión y despliegue normales, y agregar casos de prueba
 y evaluaciones antes de cambiarlos. Huyen cierra la parte de prácticas con "Organize and Version
 Prompts" (p. 233, según el índice).
 
-El riesgo de no hacerlo es el prompt que crece por acumulación. Husain cuenta un caso, un asistente
-inmobiliario, en el que el prompt engineering se estancó y los prompts se volvieron largos y
+El riesgo de no hacerlo es el prompt que crece por acumulación. Husain cuenta un caso, el asistente de
+una empresa inmobiliaria (Rechat), en el que el prompt engineering se estancó y los prompts se volvieron largos y
 difíciles de manejar a medida que se sumaban casos borde. Es un solo caso, de un practicante que
-vende consultoría en evaluación, pero ilustra por qué cada cambio de prompt pasa por un
-[eval](../Evaluacion/evals.md): sin él, arreglar un caso rompe otro sin que nadie lo vea.
+vende consultoría en evaluación, y Husain lo usa para defender que cada cambio de prompt pase por los
+[evals](../Evaluacion/evals.md). Que sin ellos arreglar un caso rompe otro sin que nadie lo vea es
+lectura de esta base.
 
 Anthropic agrega un límite antes de empezar: "Not every success criterion or failing eval is best
-solved by prompt engineering". A veces cambiar de modelo resuelve latencia o costo más fácil, y a
-veces el problema es de conocimiento y lo resuelve el [RAG](contexto-y-rag.md).
+solved by prompt engineering". Según la misma página, a veces cambiar de modelo resuelve latencia o costo más
+fácil; y, en lectura de esta base, a veces el problema es de conocimiento y lo resuelve el
+[RAG](contexto-y-rag.md).
 
 ## Qué leer sobre prompts
 

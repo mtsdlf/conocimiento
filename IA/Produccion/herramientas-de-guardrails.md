@@ -13,6 +13,7 @@ fuentes:
   - https://developers.openai.com/api/docs/guides/moderation
   - https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks
   - https://arxiv.org/abs/2504.00441
+  - https://arxiv.org/abs/2610.09906
   - https://developer.nvidia.com/blog/measuring-the-effectiveness-and-performance-of-ai-guardrails-in-generative-ai-applications/
 aliases: [guardrail tools, Llama Guard, NeMo Guardrails, Guardrails AI, moderation API]
 creado: 2026-11-27
@@ -44,7 +45,7 @@ Todas dependen de la configuración y ninguna es un valor general.
 |---|---|---|---|
 | Llama Guard, NeMo Guardrails y un clasificador tipo BERT, en la prueba de "No Free Lunch" | 1,5 s, 1,0 s y 0,08 s de promedio | [Kumar et al.](https://arxiv.org/abs/2504.00441) (los autores compiten con un guardrail propio) | **[buscador]**, no verificado en el paper |
 | Sumar la primera capa de NeMo Guardrails | unos 0,5 s más de latencia promedio; la detección de violaciones sube de 75 % a 83 % | [blog de NVIDIA](https://developer.nvidia.com/blog/measuring-the-effectiveness-and-performance-of-ai-guardrails-in-generative-ai-applications/) (el fabricante) | **[buscador]** |
-| Rails que hacen varias llamadas al modelo | de décimas de segundo a 10 o 15 s | arXiv 2610.09906 | **[buscador]** |
+| Rails que hacen varias llamadas al modelo | de décimas de segundo a 10 o 15 s | [arXiv 2610.09906](https://arxiv.org/abs/2610.09906) | **[buscador]**, no se abrió el paper |
 
 Kumar et al. compararon también Azure Content Safety, Bedrock Guardrails, la moderación de OpenAI,
 Guardrails AI y Enkrypt AI, según su abstract.

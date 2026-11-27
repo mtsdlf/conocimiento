@@ -29,7 +29,9 @@ versión anterior tiene el suyo en `specification/<versión>/changelog`.
 
 ## Las versiones de la especificación
 
-La especificación se versiona por fecha. Copiado de los registros de cambios el 2026-11-27:
+La especificación se versiona por fecha. Copiado de los registros de cambios el 2026-11-27: la
+tabla se cotejó ese día contra los cuatro changelogs (2025-03-26, 2025-06-18, 2025-11-25 y
+2026-07-28) y la de gobierno, contra el anuncio de Anthropic del 2025-12-09.
 
 | Versión | Qué cambió (los cambios mayores, resumidos) |
 |---|---|

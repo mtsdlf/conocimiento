@@ -26,11 +26,13 @@ con eso qué cambio se queda y qué modelo se usa.
 
 Dentro del tema es la vertical que decide. [Contexto](../Contexto/contexto.md),
 [Agentes](../Agentes/agentes.md) y [Ajuste](../Ajuste/ajuste.md) son formas de cambiar lo que emite
-el [modelo](../Modelos/modelos.md); la evaluación dice cuál hace falta y si funcionó, que es la
-pregunta de [Prompt, RAG o finetuning](../prompt-rag-o-finetuning.md). Cada capa que se suma en
+el [modelo](../Modelos/modelos.md); la evaluación dice cuál hace falta y si funcionó. La elección
+entre dar contexto y ajustar los pesos está en [Prompt, RAG o finetuning](../prompt-rag-o-finetuning.md);
+cuándo un workflow no alcanza y hace falta un agente, en [Agentes](../Agentes/agentes.md). Cada capa que se suma en
 [Producción](../Produccion/produccion.md) entra cuando una medición la pide, que es la regla de
-[empezar simple](../../Arquitectura/Decisiones/empezar-simple.md). Según Huyen, "Evaluation is
-necessary at every step of the development process".
+[empezar simple](../../Arquitectura/Decisiones/empezar-simple.md). Según Huyen en su post sobre la
+arquitectura de una plataforma de IA generativa, "Evaluation is necessary at every step of the
+development process".
 
 ## Por qué medir cambia cuando hay un modelo adentro
 
@@ -40,12 +42,15 @@ Con un modelo, la misma entrada puede dar salidas distintas, y "correcto" muchas
 [evals](evals.md). Huyen resume el cambio de oficio así: cuando se adapta un modelo ajeno en lugar de
 entrenar uno propio, la evaluación se vuelve "a much bigger problem" (*AI Engineering*, cap. 1).
 
-La evaluación tampoco termina en el modelo. Huyen relata equipos que midieron la calidad del
-resumen cuando a sus usuarios no les importaba el resumen: "the issue wasn't with AI, but with
-product". Lo que se mide son las [características](../../Arquitectura/Caracteristicas/caracteristicas.md)
+La evaluación tampoco termina en el modelo. Huyen cuenta el caso de una amiga cuyo equipo
+discutía el largo de los resúmenes de reuniones, cuando a sus usuarios "didn't care about the actual
+summary": solo querían las tareas que les tocaban. En otro pasaje, sobre dos equipos que habían
+descartado la IA porque sus usuarios odiaban el producto, concluye que "the issue wasn't with AI, but
+with product". Lo que se mide son las [características](../../Arquitectura/Caracteristicas/caracteristicas.md)
 que el producto necesita, con la calidad de la salida, el
-[costo y la latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md) al frente; las
-métricas de velocidad del modelo están en [inferencia](../Produccion/inferencia.md).
+[costo y la latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md) al frente. Las
+métricas de velocidad están definidas en [costo y latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md);
+del lado del servidor, en [inferencia](../Produccion/inferencia.md).
 
 ## El bucle que va de la traza a la mejora
 

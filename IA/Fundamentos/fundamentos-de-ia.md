@@ -32,15 +32,15 @@ que sirve para leerlas a todas con criterio.
 
 **El orden del trabajo se invirtió.** En ML tradicional se empezaba por juntar datos y entrenar un
 modelo; con los modelos base se puede empezar por el producto. Huyen lo dice así en el capítulo 1
-de *AI Engineering*: "it's possible to start with building the product first". De ahí sale que la
-evaluación pese más que el entrenamiento, y que el tema ponga [Evaluación](../Evaluacion/evaluacion.md)
-como la vertical que decide. La historia de cómo se llegó a ese punto está en
+de *AI Engineering*: "it's possible to start with building the product first". Por eso la evaluación es "a much
+bigger problem", y este tema, como decisión propia, pone a [Evaluación](../Evaluacion/evaluacion.md)
+como la vertical que decide qué adaptar. La historia de cómo se llegó a ese punto está en
 [historia de la IA generativa](historia-de-la-ia-generativa.md), y la diferencia entre los dos
 oficios, en [AI engineering y ML engineering](ai-engineering-y-ml-engineering.md).
 
-**Las voces del campo son una sola comunidad.** Huyen, Hamel Husain, Eugene Yan y los coautores de
-*What We've Learned From A Year of Building with LLMs* se citan entre sí, y la lista de recursos
-del libro de Huyen los recomienda a ellos. Cuando coinciden, cuentan como una corriente de opinión,
+**Las voces del campo son una sola comunidad.** La lista de recursos del libro de Huyen recomienda
+a Eugene Yan, a Hamel Husain y a *What We've Learned From A Year of Building with LLMs*, y Husain y
+Yan son coautores de ese ensayo. Cuando coinciden, cuentan como una corriente de opinión,
 no como confirmaciones independientes. El tema hereda ese sesgo (pro-evaluación y pro-producto) y
 lo declara; cómo se lee el campo con eso en mente está en
 [AI engineering y ML engineering](ai-engineering-y-ml-engineering.md#el-sesgo-de-comunidad-de-las-voces-del-campo).

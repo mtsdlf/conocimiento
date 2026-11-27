@@ -9,6 +9,7 @@ fuentes:
   - https://arxiv.org/abs/2108.07258
   - https://arxiv.org/abs/2005.14165
   - https://arxiv.org/abs/1810.04805
+  - https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
   - https://arxiv.org/abs/2407.21783
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -41,11 +42,11 @@ otros tipos de dato.
    [token](token-y-embedding.md) posible como continuación. Genera encadenando esas predicciones:
    elige un token, lo agrega al texto y vuelve a predecir. Por eso se dice autorregresivo, y por eso
    la forma de elegir cada token ([muestreo](muestreo.md)) cambia lo que sale.
-2. **LLM.** El mismo objetivo, con una red mucho más grande (un [transformer](transformer.md)) y
+2. **LLM.** El mismo objetivo, con una red mucho más grande (un [Transformer](transformer.md)) y
    entrenada sobre un corpus enorme sin etiquetas: la etiqueta de cada posición es el token que
-   sigue en el propio texto. Eso es la autosupervisión, y es lo que permite usar casi todo el texto
-   disponible ([preentrenamiento](preentrenamiento.md)).
-3. **Modelo base.** Bommasani y otros (Stanford, 2021) acuñaron *foundation model* para los modelos
+   sigue en el propio texto. Eso es la autosupervisión; lectura de esta base: como no hace falta
+   etiquetar, sirve casi cualquier texto disponible ([preentrenamiento](preentrenamiento.md)).
+3. **Modelo base.** Bommasani et al. (Stanford, 2021) acuñaron *foundation model* para los modelos
    "trained on broad data at scale" que se adaptan a muchas tareas, con BERT, DALL-E y GPT-3 como
    ejemplos (según su abstract). El nombre dice el rol: es la base sobre la que se construyen muchas
    aplicaciones.
@@ -53,47 +54,46 @@ otros tipos de dato.
 ## Una pieza general que se programa con texto
 
 Lo que cambió la forma de trabajar fue que la tarea se describe en el texto de entrada. GPT-3 (Brown
-y otros, 2020), con 175 mil millones de parámetros, se evaluó en tareas nuevas "with no gradient
+et al., 2020), con 175.000 millones de parámetros, se evaluó en tareas nuevas "with no gradient
 updates or fine-tuning", dándole solo instrucciones y algunos ejemplos en el prompt. Su abstract lo
 resume así: "scaling up language models greatly improves task-agnostic, few-shot performance". De
 ahí sale todo lo que vive en [Contexto](../Contexto/contexto.md): el [prompt](../Contexto/prompt.md)
 es la forma de programar un modelo base.
 
-Un modelo base recién preentrenado continúa texto, pero no sigue instrucciones ni conversa. Eso lo
-agrega el [post-entrenamiento](post-entrenamiento.md). En este tema, el modelo antes de esa etapa se
-llama **modelo preentrenado**, y "modelo base" queda para el sentido de *foundation model*. En inglés,
-*base model* se usa también para el modelo preentrenado; conviene fijarse cuál de los dos sentidos usa
-cada fuente.
+Según el resumen del capítulo 2 de Huyen, el preentrenamiento sobre datos imperfectos da salidas que
+no coinciden con lo que espera el usuario, y el [post-entrenamiento](post-entrenamiento.md) lo corrige
+para que el modelo siga instrucciones y converse. En este tema, el modelo antes de esa etapa se llama
+**modelo preentrenado**, y "modelo base" queda para el sentido de *foundation model* (convención de
+esta base).
 
 ## Codificadores y decodificadores
 
-No todo modelo base genera texto. BERT (Devlin y otros, 2018) aprende representaciones de un texto
+No todo modelo base genera texto. BERT (Devlin et al., 2018) aprende representaciones de un texto
 leyéndolo en las dos direcciones y se adapta a una tarea agregando "a single output layer": sirve para
-clasificar o para representar, no para escribir. Los modelos generativos, los que se usan para
-conversar, redactar o llamar herramientas, predicen de izquierda a derecha. Las dos ramas salen del
-mismo [transformer](transformer.md). Lectura de esta base: lo que hace BERT, convertir un texto en
+clasificar o para representar, no para escribir. La rama generativa empezó con GPT (Radford et al.,
+2018), que según su paper usa "a multi-layer Transformer decoder" como modelo de lenguaje: predice de
+izquierda a derecha. Las dos ramas salen del mismo [Transformer](transformer.md). Lectura de esta base: lo que hace BERT, convertir un texto en
 una representación, es lo que piden los [embeddings](token-y-embedding.md) que usa la
 [recuperación](../Contexto/recuperacion.md).
 
 > [!NOTE]
-> Sin fuente todavía: una fuente primaria que muestre que los modelos generativos actuales usan solo
-> la parte decodificadora del transformer.
+> Sin fuente todavía: una fuente primaria que muestre que los modelos generativos actuales siguen
+> usando solo la parte decodificadora, como GPT en 2018.
 
 ## Modelos multimodales
 
 Un modelo multimodal recibe o produce más de un tipo de dato. El informe de Llama 3 (Meta, 2024)
 describe su modelo mayor como "a dense Transformer with 405B parameters and a context window of up to
-128K tokens", y agrega imagen, video y voz con un enfoque composicional: piezas que traducen cada tipo
-de dato a la representación del modelo de texto. Qué modelos aceptan qué tipos de dato hoy está en la
-ficha de [Modelos disponibles](modelos-disponibles.md).
+128K tokens", y agrega imagen, video y voz con un enfoque composicional (según su abstract).
 
 > [!NOTE]
 > Sin fuente todavía: cómo se pasó a modelos nativamente multimodales, entrenados con varios tipos de
-> dato desde el principio.
+> dato desde el principio, y qué tipos de dato acepta cada modelo actual (la ficha de
+> [Modelos disponibles](modelos-disponibles.md) no lo trae).
 
 ## Los defectos del modelo base se heredan
 
-Bommasani y otros señalan la homogeneización: como muchas aplicaciones se construyen sobre el mismo
+Bommasani et al. señalan la homogeneización: como muchas aplicaciones se construyen sobre el mismo
 modelo, sus defectos pasan a todas. La [alucinación](alucinacion.md), los sesgos de los datos y el
 corte de conocimiento llegan a cada producto que lo usa. Por eso la [evaluación](../Evaluacion/evaluacion.md)
 mide el sistema en la tarea propia y no confía en lo que el modelo hace en general.
@@ -106,9 +106,9 @@ nada en el modelo garantiza que sea el de la factura.
 
 ## Qué leer sobre modelos base
 
-Bommasani y otros, [*On the Opportunities and Risks of Foundation Models*](https://arxiv.org/abs/2108.07258),
+Bommasani et al., [*On the Opportunities and Risks of Foundation Models*](https://arxiv.org/abs/2108.07258),
 secciones 1 y 2: fijarse en la diferencia entre el modelo (un artefacto que se adapta) y la aplicación
 que se construye encima. Junto con el abstract de [GPT-3](https://arxiv.org/abs/2005.14165), para el
 salto a "se programa con texto". Para el panorama técnico, Jurafsky y Martin,
-[*Speech and Language Processing*](https://web.stanford.edu/~jurafsky/slp3/) (3.ª ed., borrador de
-agosto de 2026, PDF gratuito), capítulos 1, 2 y 7; de ese libro se leyó solo el índice.
+[*Speech and Language Processing*](https://web.stanford.edu/~jurafsky/slp3/) (3.ª ed., PDF
+gratuito), capítulos 1, 2 y 7; de ese libro se leyó solo el índice.

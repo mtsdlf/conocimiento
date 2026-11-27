@@ -34,9 +34,9 @@ sirve para descartar los que no alcanzan, pero el modelo de una aplicación se e
 evaluación propia, que también decide si conviene una API o un modelo alojado.
 
 Es la primera decisión de la [evaluación](evaluacion.md): antes de escribir un prompt hay que elegir
-qué [modelo base](../Modelos/modelo-base.md) recibe ese prompt. Según su índice, Huyen la trata en
-el capítulo 4 ("Model Selection": el flujo, construir o comprar, los benchmarks públicos), y la
-comparación por pares en el capítulo 3. Los rankings de hoy, con sus cifras y sus nombres de modelos,
+qué [modelo base](../Modelos/modelo-base.md) recibe ese prompt. Según el índice y el resumen de capítulos
+del libro (no se leyó el texto), Huyen la trata en el capítulo 4 ("Model Selection": el flujo,
+construir o comprar, los benchmarks públicos), y la comparación por pares en el capítulo 3. Los rankings de hoy, con sus cifras y sus nombres de modelos,
 están en la ficha [benchmarks vigentes](benchmarks-vigentes.md); qué familias de modelos hay, en
 [modelos disponibles](../Modelos/modelos-disponibles.md).
 
@@ -48,8 +48,8 @@ resuelven. Tres ejemplos muestran el ciclo:
 | Benchmark | Qué es | Al nacer | Después |
 |---|---|---|---|
 | MMLU (Hendrycks et al., 2020) | 57 materias de opción múltiple, de matemática elemental a derecho | Los modelos estaban cerca del azar | Según el abstract de Humanity's Last Exam, los modelos sacan "over 90%" |
-| GPQA (Rein et al., 2023) | 448 preguntas de biología, física y química difíciles de buscar | Expertos 65 %, no expertos con 30 minutos de web 34 %, el mejor modelo 39 % | Superado; se usa su subconjunto Diamond |
-| SWE-bench (Jimenez et al., 2023) | 2.294 issues reales de 12 repositorios Python | El mejor modelo resolvía "a mere 1.96%" | Se reemplazó por una versión revisada (ver abajo) |
+| GPQA (Rein et al., 2023) | 448 preguntas de biología, física y química difíciles de buscar | Expertos 65 %, no expertos con más de 30 minutos de web 34 %, el mejor modelo 39 % | Sigue en uso su subconjunto Diamond; puntajes actuales en la [ficha](benchmarks-vigentes.md) |
+| SWE-bench (Jimenez et al., 2023; ICLR 2024) | 2.294 issues reales de 12 repositorios Python | El mejor modelo resolvía "a mere 1.96%" | Se publicó una versión revisada, que después también se dejó de reportar (ver [benchmarks de agentes](../Agentes/benchmarks-de-agentes.md)) |
 
 Cuando un benchmark se satura deja de separar, y aparece otro más difícil: Humanity's Last Exam
 (Phan et al., 2025) son 2.500 preguntas de expertos que "cannot be quickly answered via internet
@@ -65,7 +65,8 @@ Un benchmark puede fallar como medida de cuatro formas, todas documentadas:
 - **Tareas mal planteadas.** Para armar SWE-bench Verified, 93 desarrolladores revisaron 1.699 ítems y
   se descartó 68,3 %: enunciados subespecificados o pruebas que rechazaban soluciones válidas. Lo
   publicó el mismo proveedor que reporta puntajes en ese benchmark, y dice que el filtro es
-  probablemente demasiado estricto.
+  probablemente demasiado estricto. Esa versión revisada después también se dejó de reportar (ver
+  [benchmarks de agentes](../Agentes/benchmarks-de-agentes.md)).
 - **Contaminación.** Los modelos pueden "inadvertently incorporate evaluation benchmark information
   from their training data" (Xu et al., survey). En GSM1k, un conjunto nuevo del mismo estilo que uno
   conocido de matemática escolar, la precisión cayó "up to 8%", con "evidence of systematic
@@ -81,12 +82,12 @@ casos del producto, que tiene sus propios riesgos (ver [evals](evals.md)).
 
 ## Rankings por pares y la disputa sobre Arena
 
-La otra forma de comparar es pedir a personas que elijan entre dos respuestas sin saber de qué
-modelo son. Chatbot Arena (Chiang et al., 2024) juntó así más de 240.000 votos y reporta que "are in
+La otra forma de comparar es pedir a personas que elijan la mejor de dos respuestas. Chatbot Arena (Chiang et al., 2024) juntó así más de 240.000 votos y reporta que "are in
 good agreement with those of expert raters". Según su página de metodología, el puntaje sale de un
 modelo de Bradley-Terry, "a paired-comparison model similar to Elo", con un ancla arbitraria, y un
-control de estilo que "adds response length and formatting to the statistical model", para no
-premiar la respuesta más larga (el mismo sesgo de verbosidad que tiene un [juez](ia-como-juez.md)).
+control de estilo que "adds response length and formatting to the statistical model". Que ese
+control apunte al mismo sesgo de verbosidad que tiene un [juez](ia-como-juez.md) es lectura de esta
+base.
 
 > [!IMPORTANT]
 > **Que el ranking es justo.** Chiang et al. muestran acuerdo con expertos. **Que está sesgado por
@@ -105,10 +106,11 @@ escenarios y 7 métricas, y agregadores vivos de institutos y empresas, listados
 
 ## Cómo se elige un modelo para una aplicación
 
-Según los resúmenes de capítulo del libro, Huyen propone criterios (capacidad en el dominio, calidad
-de generación: fluidez, coherencia, fidelidad, consistencia factual, seguridad; seguir instrucciones;
-[costo y latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md)) y llama a la elección
-"creating a private leaderboard": un ranking propio, ponderado por lo que necesita la aplicación. Los
+Según el resumen de capítulos del libro, Huyen evalúa capacidades del dominio y de generación
+(fluidez, coherencia, fidelidad, consistencia factual y seguridad), y compara la elección con
+"creating a private leaderboard to rank models based on your needs". El índice del capítulo suma
+secciones sobre seguir instrucciones y sobre
+[costo y latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md) como criterios. Los
 pasos que siguen los arma esta base a partir de eso; el flujo exacto del capítulo 4 no se leyó.
 
 1. Descartá por restricciones duras: dónde pueden ir los datos, si hace falta un modelo abierto, el
@@ -142,7 +144,8 @@ desarrollarla:
 - "Don't build LLM features you can buy."
 
 Yan et al. agregan, en 2024, que el costo de una capacidad fija tiene un "halving time of just six
-months": lo que hoy justifica alojar un modelo puede no justificarlo en un año.
+months". Como lectura de esta base, lo que hoy justifica alojar un modelo puede dejar de
+justificarlo pronto.
 
 > [!NOTE]
 > Sin fuente todavía: una comparación cuantitativa del costo de una API contra un modelo alojado, y el

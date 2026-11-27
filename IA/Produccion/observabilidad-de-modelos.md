@@ -3,7 +3,7 @@ resumen: >-
   La observabilidad de un sistema con un modelo es registrar cada consulta con su entrada, su
   salida y sus pasos intermedios, más las métricas del modelo y del sistema, para poder seguir qué
   le pasó a cada consulta y de dónde vino una falla.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - https://huyenchip.com/2024/07/25/genai-platform.html
@@ -13,7 +13,7 @@ fuentes:
   - https://hamel.dev/blog/posts/evals/
 aliases: [observability, monitoreo, monitoring, trazas de LLM]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Observabilidad
@@ -23,15 +23,16 @@ sus pasos intermedios, más las métricas del modelo y del sistema, para poder s
 cada consulta y de dónde vino una falla.
 
 Es el comienzo del [bucle](../Evaluacion/evaluacion.md): sin trazas no hay
-[análisis de errores](../Evaluacion/analisis-de-errores.md), y sin análisis de errores la
-[evaluación](../Evaluacion/evals.md) mide a ciegas. En Huyen es una sección del capítulo 10, "Monitoring and
+[análisis de errores](../Evaluacion/analisis-de-errores.md), y sin análisis de errores los
+[evals](../Evaluacion/evals.md) miden a ciegas. En Huyen es una sección del capítulo 10, "Monitoring and
 Observability", junto a la arquitectura del sistema. Según ella, importa en proyectos de cualquier
 tamaño, y más cuanto más complejo es el sistema.
 
 ## Log everything: métricas, logs y trazas
 
 Huyen nombra tres pilares: logs, trazas y métricas. Las métricas resumen: del modelo ("accuracy, toxicity, and hallucination
-rate") y del sistema ([throughput](inferencia.md), memoria, uso de hardware y disponibilidad; el costo y la latencia se ven en
+rate"; Husain discute su utilidad como medida de calidad: ver
+[Métricas de evaluación](../Evaluacion/metricas-de-evaluacion.md)) y del sistema ([throughput](inferencia.md), memoria, uso de hardware y disponibilidad; el costo y la latencia se ven en
 [costo y latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md)). Los logs guardan cada evento. Las
 trazas unen los eventos de una misma consulta.
 

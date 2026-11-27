@@ -36,9 +36,9 @@ acá va el mecanismo, el diseño y el protocolo.
 
 ## El modelo emite la llamada, la aplicación la ejecuta
 
-El modelo no ejecuta nada. La documentación de Anthropic lo define así: "Tool use (also called
-function calling) lets Claude call functions that you define or that Anthropic provides", y la de
-OpenAI describe el mismo circuito con otros nombres de campo. El viaje de ida y vuelta tiene cuatro
+El modelo no ejecuta nada. La documentación de Anthropic lo presenta como el mecanismo por el que
+el modelo llama funciones que define la aplicación o que ofrece el proveedor ("Tool use (also
+called function calling)"), y la de OpenAI describe el mismo circuito con otros nombres de campo. El viaje de ida y vuelta tiene cuatro
 pasos:
 
 1. La aplicación manda el pedido con la lista de herramientas: cada una con nombre, descripción y
@@ -55,16 +55,15 @@ Que la ejecución quede del lado de la aplicación es lo que permite poner contr
 validar los argumentos, pedir aprobación humana o negar la acción (ver
 [Fallas de agentes](fallas-de-agentes.md#qué-puede-romper-un-agente-que-actúa)).
 
-Las dos documentaciones ofrecen además cómo forzar el comportamiento: que el modelo elija solo,
-que tenga que usar alguna herramienta, que use una en particular o que no use ninguna (en OpenAI,
-el parámetro `tool_choice`).
+Las dos documentaciones ofrecen además un parámetro para forzar el comportamiento: que el modelo
+elija solo, que tenga que usar alguna herramienta, que use una en particular o que no use ninguna.
 
 ## Esquema estricto y argumentos inventados
 
 La llamada es texto generado, así que puede salir mal formada. Los dos proveedores ofrecen un modo
-estricto que garantiza que los argumentos respeten el esquema: Anthropic pide agregar
-`strict: true` "to ensure Claude's tool calls always match your schema exactly", y OpenAI exige
-además que el esquema no admita propiedades extra y que todas las propiedades sean obligatorias. Es
+estricto, que se activa con una opción en la definición de la herramienta y garantiza que los
+argumentos respeten el esquema exactamente. OpenAI exige además que el esquema no admita
+propiedades extra y que todas las propiedades sean obligatorias. Es
 la misma técnica que las [salidas estructuradas](../Modelos/muestreo.md): restringir lo que el
 modelo puede emitir.
 
@@ -77,7 +76,9 @@ los argumentos va en la aplicación, no en el esquema (lectura de esta base).
 ## Una herramienta también es un prompt
 
 El nombre, la descripción y el esquema de cada herramienta entran en la
-[ventana de contexto](../Contexto/ingenieria-de-contexto.md) en cada llamada: se cobran como tokens
+[ventana de contexto](../Modelos/transformer.md#la-ventana-de-contexto) en cada llamada, y compiten
+por lugar con todo lo demás que administra la
+[ingeniería de contexto](../Contexto/ingenieria-de-contexto.md): se cobran como tokens
 de entrada y el modelo los lee para decidir. Anthropic suma además un prompt de sistema propio para
 el uso de herramientas, de cientos de tokens según el modelo. Por eso Anthropic pide para las
 definiciones de herramientas tanta ingeniería como para el [prompt](../Contexto/prompt.md):
@@ -92,23 +93,23 @@ De ese texto y de "Building effective agents" (2024-12) salen estas reglas de di
 |---|---|
 | Pocas herramientas de alto impacto | "More tools don't always lead to better outcomes"; evitar "tools that merely wrap existing software functionality or API endpoints" |
 | Nombres agrupados | "Namespacing (grouping related tools under common prefixes) can help delineate boundaries between lots of tools" |
-| Respuestas cortas y legibles | paginar, filtrar y truncar; el agente de código de Anthropic limita las respuestas de herramientas a 25.000 tokens por defecto |
+| Respuestas cortas y legibles | paginar, filtrar y truncar, con un tope de tokens por respuesta de herramienta |
 | Errores que dicen qué corregir | que "clearly communicate specific and actionable improvements, rather than opaque error codes or tracebacks" |
 | Parámetros que no se pueden malinterpretar | "instead of a parameter named `user`, try a parameter named `user_id`" |
 | Diseño a prueba de errores (*poka-yoke*) | en SWE-bench, cambiar la herramienta para que "always require absolute filepaths" eliminó los errores con rutas relativas |
 
-Cuántas herramientas son demasiadas no tiene un número firme. La guía de OpenAI sugiere, como
-orientación, "fewer than 20 functions available at the start of a turn", y los dos proveedores
-ofrecen una búsqueda de herramientas para cargar solo las que la tarea pide.
+Cuántas herramientas son demasiadas no tiene un número firme. Las guías de los proveedores dan
+cifras orientativas que cambian con los modelos, y los dos ofrecen una búsqueda de herramientas
+para cargar solo las que la tarea pide.
 
 ## MCP: escribir la herramienta una vez
 
 MCP (Model Context Protocol) estandariza cómo una aplicación descubre y llama herramientas que
 escribió otro. Anthropic lo anunció en noviembre de 2024 con el problema que ataca: "Every new data
 source requires its own custom implementation". Sin un protocolo, cada aplicación reimplementa cada
-integración; con él, un servidor MCP sirve a cualquier aplicación que hable el protocolo. Se
-inspira en el Language Server Protocol, que hizo lo mismo con los lenguajes de programación en los
-editores.
+integración; con él, un servidor MCP sirve a cualquier aplicación que hable el protocolo. La
+especificación dice que "takes some inspiration from the Language Server Protocol", que hizo lo
+mismo con los lenguajes de programación en las herramientas de desarrollo.
 
 La especificación define tres roles, con mensajes en JSON-RPC 2.0:
 
@@ -121,9 +122,8 @@ El cliente, a su vez, puede ofrecerle al servidor *elicitation*: que el servidor
 al usuario en medio de una operación. Una herramienta MCP es, para el modelo, una herramienta más:
 termina en el mismo circuito de cuatro pasos. Lo que MCP cambia es quién la escribe y dónde corre.
 
-El protocolo cambió mucho en dos años. La versión vigente al 2026-11-27 es la 2026-07-28, que lo
-volvió sin estado: cada pedido lleva su versión de protocolo y las capacidades del cliente, en lugar
-de negociarlas una vez al abrir la sesión. La historia de versiones, el traspaso a una fundación y
+El protocolo cambia seguido: la especificación se versiona por fecha y tuvo varias revisiones
+grandes desde 2024. La versión vigente, la historia de versiones, el traspaso a una fundación y
 las cifras de adopción están en la ficha [Versiones de MCP](versiones-de-mcp.md).
 
 ## Lo que conectar una herramienta le abre al sistema
@@ -138,8 +138,9 @@ Dos riesgos salen del mecanismo mismo:
 
 - **El resultado de una herramienta entra al contexto.** Una página, un mail o un documento que
   trae una herramienta puede contener instrucciones hostiles; es la
-  [inyección de prompt](../Contexto/inyeccion-de-prompt.md). Willison (2025-06-16) llama "trifecta
-  letal" a juntar en un agente acceso a datos privados, contenido no confiable y una salida al
+  [inyección de prompt](../Contexto/inyeccion-de-prompt.md). Willison (2025-06-16) llama
+  [trifecta letal (*lethal trifecta*)](../Contexto/inyeccion-de-prompt.md#la-trifecta-letal) a
+  juntar en un agente acceso a datos privados, contenido no confiable y una salida al
   exterior, y advierte que MCP "encourages users to mix and match tools from different sources".
 - **Cada herramienta suma poder.** OWASP (*Excessive Agency*, LLM06 en la edición 2025 y LLM03 en la de 2026) pone la causa en la
   funcionalidad, los permisos y la autonomía excesivos. Las defensas (mínimo privilegio, aprobación

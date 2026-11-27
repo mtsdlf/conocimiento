@@ -79,12 +79,12 @@ entre sí. Pasos armados por esta base a partir de esas fuentes:
 
 1. Etiquetá a mano un conjunto de salidas con el criterio del producto.
 2. Corré el juez sobre el mismo conjunto y compará.
-3. Medí con Cohen's kappa, o con precisión y recall por separado, no con el porcentaje de acuerdo
+3. Medí con Cohen's kappa (según Yan, mide el acuerdo entre dos calificadores descontando el que se daría por azar), o con precisión y recall por separado, no con el porcentaje de acuerdo
    crudo: según Husain, "using raw agreement is generally not recommended and can be misleading when
    classes are imbalanced".
 4. Versioná el prompt y el modelo del juez; si cambia cualquiera, repetí la validación.
 
-Shankar et al. describen el *criteria drift*; de ahí se deduce, como inferencia de esta base, que el conjunto
+Shankar et al. describen el [*criteria drift*](analisis-de-errores.md#criteria-drift-los-criterios-cambian-al-mirar), que los criterios cambian al calificar salidas; de ahí se deduce, como inferencia de esta base, que el conjunto
 etiquetado envejece y que el juez se revalida cuando cambian los criterios. Registrar qué modelo y qué umbral se eligió para el juez es
 una decisión que va a un [ADR](../../Arquitectura/Decisiones/adr.md).
 

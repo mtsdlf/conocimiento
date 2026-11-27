@@ -93,8 +93,8 @@ La evidencia sobre ese riesgo es poca y floja, pero apunta al mismo lado:
   respuesta después, combinar clave exacta y semántica, y recuerda que la similitud no envejece: una
   entrada vieja sigue pareciendo igual de cercana.
 
-Por inferencia de esta base: la cache semántica tiene que pasar por la misma
-[evaluación](../Evaluacion/evals.md) que el modelo, con casos de consultas
+Por inferencia de esta base: la cache semántica tiene que pasar por los mismos
+[evals](../Evaluacion/evals.md) que el modelo, con casos de consultas
 parecidas que piden respuestas distintas, y no conviene en dominios donde una respuesta equivocada
 cuesta caro.
 

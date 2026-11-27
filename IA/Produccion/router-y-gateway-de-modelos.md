@@ -28,15 +28,16 @@ un solo modelo, y el router solo cuando hay más de uno (inferencia de esta base
 
 Un router mira la consulta y elige a dónde va. Huyen lo describe con un clasificador de intención
 y da la razón económica: "Instead of routing all queries to an expensive model, you can route
-simpler queries to cheaper models."
+simpler queries to cheaper models." También se puede rutear a un nivel de esfuerzo menor del mismo
+[modelo de razonamiento](../Modelos/razonamiento.md) (lectura de esta base).
 
 El router mueve la característica que con un modelo pasa al frente, el
 [costo y la latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md). RouteLLM (Ong et al., preprint de
 2024) entrena routers con datos de preferencia y, según su resumen, reporta bajar el costo "more
 than 2x in some cases" sin perder calidad. Es la afirmación de los autores, sin revisión por pares
 ni datos de producción de terceros. Un router también se equivoca (lectura de esta base): si manda una consulta difícil al
-modelo barato, la respuesta empeora sin que nadie lo note, y eso solo lo ve la
-[evaluación](../Evaluacion/evals.md) separada por ruta.
+modelo barato, la respuesta empeora sin que nadie lo note, y eso solo lo ven los
+[evals](../Evaluacion/evals.md) separados por ruta.
 
 Elegir un modelo para cada ruta es el mismo problema que elegir el modelo de toda la aplicación
 ([Benchmarks y elección de modelo](../Evaluacion/benchmarks-y-eleccion-de-modelo.md)), que

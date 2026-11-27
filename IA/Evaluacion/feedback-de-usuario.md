@@ -3,7 +3,7 @@ resumen: >-
   El feedback de usuario es la señal que deja el uso real sobre si una salida sirvió, sea pedida
   (un pulgar, una calificación) o inferida de lo que la persona hace (corregir, regenerar,
   abandonar); vuelve al sistema como traza y como etiqueta para la evaluación.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
@@ -14,7 +14,7 @@ fuentes:
   - https://www.thoughtworks.com/en-us/radar/techniques/summary/
 aliases: [user feedback, retroalimentación de usuario, feedback explícito, feedback implícito]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Feedback de usuario
@@ -52,8 +52,9 @@ retroalimentación, en los que el sistema aprende de datos que él mismo moldeó
 ## Medir lo que le importa al usuario
 
 El feedback corrige un error que la evaluación sola no ve: medir la calidad equivocada. Huyen cuenta
-equipos que optimizaron resúmenes y descubrieron que "their users didn't care about the actual
-summary"; su conclusión es "the issue wasn't with AI, but with product". Un criterio de evaluación
+el caso de una amiga cuyo equipo cuidaba el largo de los resúmenes de reuniones y descubrió que "their
+users didn't care about the actual summary": querían las tareas que les tocaban. En otro pasaje, sobre
+dos equipos que habían descartado la IA, concluye que "the issue wasn't with AI, but with product". Un criterio de evaluación
 que ningún usuario valora mejora un número y no el producto.
 
 ## Del feedback al bucle de mejora

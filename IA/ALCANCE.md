@@ -59,11 +59,12 @@ IA/
     contexto-y-rag               ← traer información externa al prompt
     recuperacion                 búsqueda léxica, por embeddings e híbrida; reranking y partición
     memoria                      lo que persiste entre turnos y sesiones
+    herramientas-de-memoria      ficha fechada: herramientas de memoria de proveedores
     inyeccion-de-prompt          el contexto como superficie de ataque y sus defensas
   Agentes/                       el modelo que actúa con herramientas
-    agente                       ← qué es y cuándo alcanza un flujo fijo
+    agente                       ← qué es un agente y en qué se diferencia de un workflow
     uso-de-herramientas          llamadas a funciones y MCP
-    patrones-de-flujo            cadena, ruteo, paralelo, orquestador y evaluador
+    patrones-de-flujo            workflow o agente: encadenamiento, ruteo, paralelización, orquestador-trabajadores, evaluador-optimizador
     planificacion                cómo un agente descompone una tarea y se corrige
     fallas-de-agentes            cómo falla un agente y cómo se evalúa
     versiones-de-mcp             ficha fechada: versiones de la especificación de MCP
@@ -72,7 +73,7 @@ IA/
     finetuning                   cuándo sí, cuándo no y qué cuesta
     peft-y-lora                  ajustar pocos parámetros
     destilacion                  un modelo chico que imita a uno grande
-    datos-para-ajustar           calidad, cobertura, cantidad, anotación y limpieza
+    datos-para-ajustar           calidad, cobertura, cantidad, deduplicación y contaminación
     datos-sinteticos             datos generados con modelos y sus riesgos
   Evaluacion/                    medir si el sistema hace lo que tiene que hacer
     evaluacion                   ← el bucle que va de la traza a la mejora
@@ -85,7 +86,7 @@ IA/
     feedback-de-usuario          ← las señales del uso como dato
   Produccion/                    operar el sistema
     sistemas-con-modelos         ← las capas que se suman alrededor del modelo
-    guardrails                   controles sobre lo que entra y lo que sale
+    guardrails                   controles sobre lo que entra, lo que sale y las acciones
     herramientas-de-guardrails   ficha fechada: clasificadores y bibliotecas de guardrails
     router-y-gateway-de-modelos  ←
     cache-de-modelos             ←

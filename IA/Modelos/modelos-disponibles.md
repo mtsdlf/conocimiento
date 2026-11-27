@@ -33,8 +33,8 @@ fuentes enlazadas en cada tabla el 2026-11-27; antes de decidir, mirá la págin
   [razonamientos](razonamiento.md) largos.
 - **Corte de conocimiento.** Lo posterior no lo sabe ([Preentrenamiento](preentrenamiento.md)); hay
   que dárselo en el contexto.
-- **Fecha de retiro.** Dice cuánto va a durar el identificador antes de tener que migrar y volver a
-  correr las [evals](../Evaluacion/evals.md).
+- **Fecha de retiro.** Anthropic la da como "Not sooner than": el identificador no se retira antes de
+  esa fecha, y al migrar hay que volver a correr los [evals](../Evaluacion/evals.md).
 - **Si piensa por defecto.** Cambia el costo y la latencia de cada llamada.
 
 ## Cerrados
@@ -61,12 +61,15 @@ that use it, returning a 400 error". El presupuesto fijo (`thinking: {type: "ena
 N}`) se reemplaza por `thinking: {type: "adaptive"}` con `output_config: {effort: ...}`. Los tokens de
 pensamiento se facturan como salida y se reportan en `usage.output_tokens_details.thinking_tokens`.
 
-OpenAI, desde su [página de modelos](https://developers.openai.com/api/docs/models): GPT-6.2 Astra
+OpenAI, desde su [página de modelos](https://developers.openai.com/api/docs/models), leída a través del
+resumen que devolvió la herramienta de lectura y no del texto crudo: GPT-6.2 Astra
 (`gpt-6.2-astra`), GPT-6.2 Sol (`gpt-6.2-sol`), GPT-6.1 Terra (`gpt-6.1-terra`) y GPT-6 Luna
-(`gpt-6-luna`). Ventana de 1,05 M de tokens, salida de hasta 128 K y cortes de conocimiento del 18
-de mayo o el 1 de junio de 2026 según el modelo. Lo recuperado de la página no trae precios.
+(`gpt-6-luna`). Ventana de 1,05 M de tokens y salida de hasta 128 K. La página da cortes de
+conocimiento del 18 de mayo y del 1 de junio de 2026, sin que lo recuperado diga cuál corresponde a
+cada modelo. Lo recuperado de la página no trae precios.
 
-Google, desde su [página de modelos de Gemini](https://aistudio.google.com/docs/models): Gemini 4 en
+Google, desde su [página de modelos de Gemini](https://aistudio.google.com/docs/models), también por el
+resumen de la herramienta de lectura: Gemini 4 en
 cuatro variantes (Carbon, Neon, Hydrogen y Argon; IDs del tipo `gemini-4-carbon`), con 1 M de tokens
 de entrada y estado no indicado. De la línea 3.x, Gemini 3.8 Flash y 3.6 Flash están estables y 3.1
 Pro en preview. Sin precios en lo recuperado.
@@ -74,7 +77,7 @@ Pro en preview. Sin precios en lo recuperado.
 ## Abiertos
 
 DeepSeek, desde el [anuncio de V4](https://api-docs.deepseek.com/news/news260424) del 24 de abril de
-2026, titulado "Preview Release":
+2026, titulado "Preview Release" (leído por el resumen de la herramienta de lectura):
 
 | Modelo | ID en la API | Parámetros totales | Activos por token | Ventana |
 |---|---|---|---|---|

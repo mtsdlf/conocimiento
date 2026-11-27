@@ -29,14 +29,8 @@ fuentes:
   - https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices
   - https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack
   - https://www.latent.space/p/ai-engineer
-  - https://arxiv.org/abs/1706.03762
-  - https://arxiv.org/abs/2005.14165
-  - https://arxiv.org/abs/2108.07258
-  - https://arxiv.org/abs/2203.02155
-  - https://arxiv.org/abs/2203.15556
-  - https://arxiv.org/abs/2501.12948
-  - https://arxiv.org/abs/2509.04664
   - https://arxiv.org/abs/2507.09089
+  - https://metr.org/blog/2026-02-24-uplift-update/
   - https://arxiv.org/abs/2604.16304
   - https://arxiv.org/abs/2504.20879
   - https://arxiv.org/abs/2511.04703
@@ -77,7 +71,7 @@ should last longer".
 | 7 y 8, finetuning y datos | Cuándo no ajustar, memoria, curación y síntesis de datos | [Ajuste](../Ajuste/ajuste.md) |
 | 9 y 10, inferencia y arquitectura | Optimizar la inferencia y las capas alrededor del modelo | [Producción](../Produccion/produccion.md) |
 
-Si se lee en orden de utilidad para quien programa: capítulo 1, después 3 y 4, después 10. El
+Los recorridos por perfil están al final de la nota. El
 [repositorio](https://github.com/chiphuyen/aie-book) trae además una
 [lista de recursos](https://raw.githubusercontent.com/chiphuyen/aie-book/main/resources.md) para
 ampliar cada capítulo.
@@ -86,65 +80,58 @@ ampliar cada capítulo.
 
 | Recurso | Qué parte | En qué fijarse | Cómo lo leyó esta base |
 |---|---|---|---|
-| Jurafsky y Martin, [*Speech and Language Processing*](https://web.stanford.edu/~jurafsky/slp3/), 3ª ed. (PDF gratuito) | Caps. 2 (tokens), 3 (n-gramas), 5 (embeddings), 7 (Transformer y preentrenamiento), 8 (post-entrenamiento) y 14 (redes recurrentes) | Que la tokenización y los embeddings son decisiones previas al entrenamiento | Solo el índice |
-| Karpathy, ["Neural Networks: Zero to Hero"](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | Para un modelo mental del interior; el video del tokenizador, para ver BPE funcionando | Construir un modelo chico a mano hace visible por qué emite lo que emite | No se vio; lo recomienda la lista de recursos de Huyen |
+| Jurafsky y Martin, [*Speech and Language Processing*](https://web.stanford.edu/~jurafsky/slp3/), borrador de la 3ª ed. del 19 de agosto de 2026 (PDF gratuito) | Caps. 2 (tokens), 3 (n-gramas), 5 (embeddings), 7 (Transformer y preentrenamiento), 8 (post-entrenamiento) y 14 (redes recurrentes) | Que el vocabulario de tokens se fija antes de entrenar, y que los embeddings se aprenden durante el entrenamiento | Solo el índice |
+| Karpathy, ["Neural Networks: Zero to Hero"](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | El modelo por dentro; el video del tokenizador, para ver BPE | Cómo se construye un modelo chico paso a paso | No se vio; lo recomienda la lista de recursos de Huyen |
 | Hugging Face, [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) | Capítulos 1 a 4 | Gratuito, pide Python, de 6 a 8 horas por capítulo | Solo la portada |
-| Stanford CS336, [Language Modeling from Scratch](http://cs336.stanford.edu/spring2025/) | Clases 9 y 11 (escala) y 13 y 14 (datos) | Para quien quiere ir más allá de lo que pide el oficio | Solo la página del curso; no declara si las clases son públicas |
+| Stanford CS336, [Language Modeling from Scratch](http://cs336.stanford.edu/spring2025/) | Clases 9 y 11 (escala) y 13 y 14 (datos) | Para ir más allá de lo que pide el oficio | Solo la página del curso; no declara si las clases son públicas |
 
 ## Ensayos de práctica
 
-| Recurso | Qué parte | En qué fijarse |
-|---|---|---|
-| Huyen y Orosz, ["The AI Engineering Stack"](https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack) (2025) | Completo | Qué se deja de hacer (entrenar) y qué se hace más (evaluar) |
-| Swyx, ["The Rise of the AI Engineer"](https://www.latent.space/p/ai-engineer) (2023) | Completo | El origen del rol y su propio matiz contra el entusiasmo |
-| Huyen, ["Common pitfalls when building generative AI applications"](https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html) (2025) | Completo, es corto | Los errores de planificación; base de [planificar una aplicación](../planificar-una-aplicacion.md) |
-| Yan, Bischof, Frye, Husain, Liu y Shankar, ["What We've Learned From A Year of Building with LLMs"](https://applied-llms.org/) (2024) | Las partes táctica, operativa y estratégica | Construir o comprar, y el modelo como el componente menos durable |
-| Husain, ["Your AI Product Needs Evals"](https://hamel.dev/blog/posts/evals/) (2024) y su [Evals FAQ](https://hamel.dev/blog/posts/evals-faq/) | Los tres niveles de evaluación; las preguntas sobre métricas listas para usar | Que no trae datos de comparación; base de [Evals](../Evaluacion/evals.md) |
-| Yan, ["Evaluating the Effectiveness of LLM-Evaluators"](https://eugeneyan.com/writing/llm-evaluators/) (2024) | Completo | Kappa y cuándo comparar por pares; base de [IA como juez](../Evaluacion/ia-como-juez.md) |
-| Anthropic, ["Building effective agents"](https://www.anthropic.com/engineering/building-effective-agents) | Flujo fijo contra agente y los cinco patrones | El criterio de empezar simple; base de [patrones de flujo](../Agentes/patrones-de-flujo.md) |
-| Huyen, ["Agents"](https://huyenchip.com/2025/01/07/agents.html) (2025) | Planificación, reflexión y modos de falla | Que plan y ejecución se separan y se verifican; base de [fallas de agentes](../Agentes/fallas-de-agentes.md) |
-| Anthropic, ["Effective context engineering for AI agents"](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) | Completo | Compactación, notas fuera de la ventana y subagentes; base de [ingeniería de contexto](../Contexto/ingenieria-de-contexto.md) |
-| Willison, ["The lethal trifecta"](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) (2025) y NCSC, ["Prompt injection is not SQL injection"](https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection) | Completos | Por qué la defensa es limitar lo que el modelo puede hacer; base de [inyección de prompt](../Contexto/inyeccion-de-prompt.md) |
-| Alammar, ["The Illustrated Transformer"](https://jalammar.github.io/illustrated-transformer/) (2018) | Completo, junto al paper de Vaswani | El dibujo de consulta, clave y valor; base de [Transformer](../Modelos/transformer.md) |
-| Weng, ["Extrinsic Hallucinations in LLMs"](https://lilianweng.github.io/posts/2024-07-07-hallucination/) (2024) | Detección y mitigación | El panorama; base de [alucinación](../Modelos/alucinacion.md) |
-| Databricks, ["LLM Inference Performance Engineering: Best Practices"](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices) (2023) | Métricas y throughput contra tamaño de lote | La diferencia entre tiempo al primer token y tiempo por token; base de [inferencia](../Produccion/inferencia.md) |
+Cada ensayo es la fuente de práctica de una nota del tema; la nota dice qué toma de él.
+
+| Recurso | Qué parte | Nota que lo usa | Cómo lo leyó esta base |
+|---|---|---|---|
+| Huyen y Orosz, ["The AI Engineering Stack"](https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack) (2025) | Completo | [AI engineering y ML engineering](ai-engineering-y-ml-engineering.md) | Por extractor |
+| Swyx, ["The Rise of the AI Engineer"](https://www.latent.space/p/ai-engineer) (2023) | Completo | [AI engineering y ML engineering](ai-engineering-y-ml-engineering.md) | Por extractor, solo citas |
+| Huyen, ["Common pitfalls when building generative AI applications"](https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html) (2025) | Completo, es corto | [Planificar una aplicación](../planificar-una-aplicacion.md) | Solo los titulares |
+| Yan, Bischof, Frye, Husain, Liu y Shankar, ["What We've Learned From A Year of Building with LLMs"](https://applied-llms.org/) (2024) | Partes táctica, operativa y estratégica | [Planificar una aplicación](../planificar-una-aplicacion.md) | Parcial (unos 100.000 de 106.000 caracteres) |
+| Husain, ["Your AI Product Needs Evals"](https://hamel.dev/blog/posts/evals/) (2024) y [Evals FAQ](https://hamel.dev/blog/posts/evals-faq/) | Los tres niveles de evaluación; las preguntas sobre métricas | [Evals](../Evaluacion/evals.md) | El post, por resumen del extractor; el FAQ, leído |
+| Yan, ["Evaluating the Effectiveness of LLM-Evaluators"](https://eugeneyan.com/writing/llm-evaluators/) (2024) | Kappa y comparación por pares | [IA como juez](../Evaluacion/ia-como-juez.md) | No releído en esta investigación |
+| Anthropic, ["Building effective agents"](https://www.anthropic.com/engineering/building-effective-agents) | Workflow contra agente y los cinco patrones | [Patrones de flujo](../Agentes/patrones-de-flujo.md) | Por resumen secundario; no releído |
+| Huyen, ["Agents"](https://huyenchip.com/2025/01/07/agents.html) (2025) | Planificación, reflexión y modos de falla | [Fallas de agentes](../Agentes/fallas-de-agentes.md) | Leído |
+| Anthropic, ["Effective context engineering for AI agents"](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) (2025) | Completo | [Ingeniería de contexto](../Contexto/ingenieria-de-contexto.md) | Leído |
+| Willison, ["The lethal trifecta"](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) (2025) y NCSC, ["Prompt injection is not SQL injection"](https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection) | Completos | [Inyección de prompt](../Contexto/inyeccion-de-prompt.md) | Leídos |
+| Alammar, ["The Illustrated Transformer"](https://jalammar.github.io/illustrated-transformer/) (2018) | Junto al paper de Vaswani | [Transformer](../Modelos/transformer.md) | Por metadatos |
+| Weng, ["Extrinsic Hallucinations in LLMs"](https://lilianweng.github.io/posts/2024-07-07-hallucination/) (2024) | Detección y mitigación | [Alucinación](../Modelos/alucinacion.md) | Por resumen secundario |
+| Databricks, ["LLM Inference Performance Engineering: Best Practices"](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices) (2023) | Métricas y throughput contra tamaño de lote | [Inferencia](../Produccion/inferencia.md) | Por extractor |
 
 Las guías de Anthropic y de Databricks son de empresas que venden lo que describen: sirven como
 documentación de práctica, no como evidencia independiente.
 
 ## Papers que conviene abrir
 
-Leídos por esta base solo por su abstract. La [historia de la IA generativa](historia-de-la-ia-generativa.md)
-los ordena en el tiempo.
-
-| Paper | Qué parte | En qué fijarse |
-|---|---|---|
-| Vaswani y otros, ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) (2017) | Secciones 3.1 a 3.3 | La atención y las varias cabezas |
-| Brown y otros, ["Language Models are Few-Shot Learners"](https://arxiv.org/abs/2005.14165) (2020) | Abstract e introducción | El salto a pedir la tarea con texto |
-| Bommasani y otros, ["On the Opportunities and Risks of Foundation Models"](https://arxiv.org/abs/2108.07258) (2021) | Secciones 1 y 2 | La homogeneización: los defectos del modelo base pasan a la aplicación |
-| Ouyang y otros, ["Training language models to follow instructions with human feedback"](https://arxiv.org/abs/2203.02155) (2022) | Método y resultados | Que el modelo de recompensa se entrena con rankings humanos, no con la verdad |
-| Hoffmann y otros, ["Training Compute-Optimal Large Language Models"](https://arxiv.org/abs/2203.15556) (2022) | Abstract y gráfico de asignación óptima, leído junto a Kaplan | Que "óptimo" es para entrenar con un presupuesto, no para servir barato |
-| DeepSeek-AI, ["DeepSeek-R1"](https://arxiv.org/abs/2501.12948) (2025) | R1-Zero, recompensas y conductas emergentes | Que la recompensa funciona donde la respuesta se puede verificar |
-| Kalai y otros, ["Why Language Models Hallucinate"](https://arxiv.org/abs/2509.04664) (2025) | Introducción y la parte de post-entrenamiento y evaluación | Qué parte es causa estadística y qué parte es incentivo de la evaluación |
+Los papers que ordenan el campo, de Vaswani et al. (2017) a DeepSeek-R1 (2025), están con su fecha
+en la tabla de la [historia de la IA generativa](historia-de-la-ia-generativa.md), y cada nota de
+[Modelos](../Modelos/modelos.md) dice qué sección abrir. Esta base los leyó solo por su abstract.
 
 ## Lo que se lee al lado, en contra
 
 | Recurso | Qué discute | En qué fijarse |
 |---|---|---|
-| Becker y otros (METR), [ensayo controlado con 16 desarrolladores experimentados](https://arxiv.org/abs/2507.09089) (2025) | Que la IA para programar acelera | La brecha entre lo que se esperaba, lo que se creyó y lo que se midió |
-| van der Maden y otros, ["Results-Actionability Gap"](https://arxiv.org/abs/2604.16304) (2026) | Que la evaluación formal va primero | Las diez prácticas; que es una muestra de 19 |
-| Singh y otros, ["The Leaderboard Illusion"](https://arxiv.org/abs/2504.20879) (2025) | Que los rankings públicos miden igual a todos | Las pruebas privadas y la asimetría de datos entre proveedores |
-| Bean y otros, ["Measuring what Matters"](https://arxiv.org/abs/2511.04703) (2025) | Que los benchmarks miden lo que dicen | Las ocho recomendaciones y su checklist |
-| Ryseff y otros (RAND), [informe RR-A2680-1, 65 entrevistas](https://www.rand.org/pubs/research_reports/RRA2680-1.html) (2024) | Por qué fracasan los proyectos | Que son entrevistas, no medición |
+| Becker et al. (METR), [ensayo controlado con 16 desarrolladores](https://arxiv.org/abs/2507.09089) (2025), con la [actualización del 24 de febrero de 2026](https://metr.org/blog/2026-02-24-uplift-update/) | Que la IA para programar acelera | La brecha entre lo que se creyó y lo que se midió; que la repetición dio intervalos que incluyen cero y METR la llama "very weak" |
+| van der Maden et al., ["Results-Actionability Gap"](https://arxiv.org/abs/2604.16304) (2026) | Que la evaluación formal va primero | Las diez prácticas; que es una muestra de 19 |
+| Singh et al., ["The Leaderboard Illusion"](https://arxiv.org/abs/2504.20879) (2025) | Que los rankings públicos miden igual a todos | Las pruebas privadas y la asimetría de datos entre proveedores |
+| Bean et al., ["Measuring what Matters"](https://arxiv.org/abs/2511.04703) (2025) | Que los benchmarks miden lo que dicen | Las ocho recomendaciones y su checklist |
+| Ryseff et al. (RAND), [informe RR-A2680-1, 65 entrevistas](https://www.rand.org/pubs/research_reports/RRA2680-1.html) (2024) | Por qué fracasan los proyectos | Que son entrevistas, no medición |
 
 ## Por dónde empezar según quién lee
 
-Recorridos armados por esta base, no por las fuentes:
+Recorridos armados a partir de la investigación del tema, no por las fuentes:
 
-- **Si programás y sabés de APIs**: "The AI Engineering Stack", después *Applied LLMs* y el post de
-  evals de Husain, y después el capítulo 10 de Huyen.
+- **Si programás y sabés de APIs**: el capítulo 1 de Huyen (o su extracto, "The AI Engineering
+  Stack"), después *Applied LLMs* y el post de evals de Husain, y después el capítulo 10.
 - **Si te preparás para un puesto de AI engineer**: lo anterior, más los capítulos 3 y 4 de Huyen,
-  la tabla de lo que se lee en contra y el curso de Karpathy para entender el modelo por dentro. El
-  mercado laboral está en [Presentación profesional](../../Presentacion-profesional/Posicionamiento/caso-roles-de-ai-engineering.md).
+  la tabla de lo que se lee en contra y el curso de Karpathy para el modelo por dentro. El mercado
+  laboral está en [Presentación profesional](../../Presentacion-profesional/Posicionamiento/caso-roles-de-ai-engineering.md).
 - **Si querés entender el modelo antes que el oficio**: Jurafsky y Martin (capítulos 2, 3, 5 y 7),
   Alammar y el curso de Hugging Face, y después [Modelos](../Modelos/modelos.md).

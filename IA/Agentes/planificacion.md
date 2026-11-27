@@ -1,8 +1,9 @@
 ---
 resumen: >-
   La planificación de un agente es cómo descompone una tarea en pasos, elige el orden y se corrige
-  cuando un paso sale mal; como un modelo de lenguaje no planifica de forma confiable por sí solo,
-  el plan se valida antes de ejecutarlo y se revisa con verificadores externos.
+  cuando un paso sale mal; Huyen recomienda validar el plan antes de ejecutarlo, y Kambhampati et
+  al. sostienen, en una tesis disputada, que un modelo de lenguaje no planifica de forma confiable
+  sin un verificador externo.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -22,8 +23,9 @@ revisado:
 # Planificación
 
 La planificación de un agente es cómo descompone una tarea en pasos, elige el orden y se corrige
-cuando un paso sale mal; como un modelo de lenguaje no planifica de forma confiable por sí solo,
-el plan se valida antes de ejecutarlo y se revisa con verificadores externos.
+cuando un paso sale mal; Huyen recomienda validar el plan antes de ejecutarlo, y Kambhampati et
+al. sostienen, en una tesis disputada, que un modelo de lenguaje no planifica de forma confiable
+sin un verificador externo.
 
 Es lo que distingue a un [agente](agente.md) de un [workflow](patrones-de-flujo.md): en el
 workflow el plan lo escribió una persona en el código; en el agente lo genera el modelo en cada
@@ -55,10 +57,11 @@ agente queda partido en tres pasos:
 3. **Ejecutarlo**: recién entonces se llaman las [herramientas](uso-de-herramientas.md).
 
 Validar antes de ejecutar es barato: un plan rechazado cuesta unos tokens, mientras que un plan
-malo ejecutado puede costar acciones de escritura que no se deshacen. Los
-[guardrails](../Produccion/guardrails.md) son otro lugar donde poner esa validación (lectura de
-esta base). Si el plan pasa por varios sistemas, cada acción que se puede repetir necesita su
-[clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md).
+malo ejecutado puede costar acciones de escritura que no se deshacen (lectura de esta base). Los
+[guardrails](../Produccion/guardrails.md) son otro lugar donde poner esa validación, y si el plan
+pasa por varios sistemas, cada acción que se puede repetir necesita su
+[clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md)
+(lectura de esta base).
 
 ## Por qué los planes largos fallan: el error se acumula
 
@@ -77,25 +80,25 @@ por separado y poner un control después de cada paso que cambia algo. Es la raz
 > **No por sí solo (Kambhampati et al., ICML 2024).** "We argue that auto-regressive LLMs cannot,
 > by themselves, do planning or self-verification." Proponen los marcos LLM-Modulo, que "combine
 > the strengths of LLMs with external model-based verifiers": el modelo genera candidatos y un
-> verificador externo (un simulador, un compilador, un validador de restricciones) los critica en
-> un ciclo. Critican por igual a quienes dicen que los modelos ya planifican ("over-optimistic
-> claims") y a quienes los reducen a traductores hacia un planificador simbólico: "both these
-> extremes are misguided". Huyen cita a LeCun en la misma línea: "autoregressive LLMs can't plan".
+> verificador externo, basado en un modelo del dominio, los critica en un ciclo. Critican por
+> igual a quienes dicen que los modelos ya planifican ("over-optimistic claims") y a quienes los
+> subestiman ("perhaps over-pessimistic claims"): "both these extremes are misguided". Del paper
+> se leyó solo el abstract. Huyen cita a LeCun en la misma línea: "autoregressive LLMs can't plan".
 >
 > **Pregunta abierta (Huyen, 2025).** Huyen deja sin cerrar si el límite es del modelo o de cómo se
 > lo usa, y muestra que el modelo puede corregir el rumbo dentro del bucle.
 >
 > **Lo que cambió después.** El paper es de 2024, anterior a los modelos de razonamiento; no se
 > encontró una actualización de la tesis. La disputa sobre si esos modelos razonan (el estudio de
-> Apple sobre puzzles y sus réplicas) está en [Razonamiento](../Modelos/razonamiento.md). Lo que las
-> dos posiciones comparten es la práctica: un verificador externo mejora el plan, lo pueda o no
-> hacer el modelo solo.
+> Apple sobre puzzles y sus réplicas) está en [Razonamiento](../Modelos/razonamiento.md). Lectura
+> de esta base: las dos posiciones llevan a la misma práctica, poner un verificador externo donde
+> se pueda, lo pueda o no hacer el modelo solo.
 
 ## Reflexión: el agente revisa lo que hizo
 
 La reflexión es pedirle al agente que evalúe un paso o un resultado y, si salió mal, explique por
 qué antes de reintentar. Puede hacerla el mismo modelo o un componente aparte que evalúa, como en
-el patrón [evaluador y optimizador](patrones-de-flujo.md#los-cinco-patrones-de-workflow). Huyen
+el patrón [evaluador-optimizador](patrones-de-flujo.md#los-cinco-patrones-de-workflow). Huyen
 la recomienda con su precio: "reflection is relatively easy to implement and can bring surprisingly
 good performance improvement", pero "The downside of this approach is latency and cost".
 

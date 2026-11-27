@@ -13,10 +13,11 @@ fuentes:
   - https://arxiv.org/abs/1910.02054
   - https://arxiv.org/abs/2405.09673
   - https://arxiv.org/abs/2312.05934
+  - https://arxiv.org/abs/2405.05904
   - https://developers.openai.com/api/docs/deprecations
   - https://huyenchip.com/2025/01/16/ai-engineering-pitfalls.html
   - https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms
-aliases: [fine-tuning, ajuste fino, afinar un modelo, SFT, supervised finetuning, ajuste supervisado, full finetuning]
+aliases: [fine-tuning, ajuste fino, full finetuning, finetuning completo]
 creado: 2026-11-27
 revisado:
 ---
@@ -29,7 +30,7 @@ meter hechos nuevos, pide mucha más memoria que inferir y puede hacerle olvidar
 
 La forma más común es el ajuste supervisado: pares de entrada y respuesta esperada, y el modelo
 aprende a producir esa respuesta. Los laboratorios usan la misma familia de técnicas, más el ajuste
-por preferencias, para convertir un modelo base en un asistente; eso está en
+por preferencias, para convertir un modelo preentrenado en un asistente; eso está en
 [Post-entrenamiento](../Modelos/post-entrenamiento.md). Acá se trata el finetuning que hace quien
 construye un producto sobre un modelo ya entrenado.
 
@@ -39,7 +40,11 @@ Husain lo resume: "Fine-tuning is best for learning syntax, style, and rules". P
 evidencia va en contra: según un resumen secundario de Ovadia et al. (EMNLP 2024), RAG "consistently
 outperforms" al finetuning no supervisado tanto en conocimiento ya visto como en nuevo, y los
 modelos "struggle to learn new factual information" por esa vía salvo que vean muchas variaciones
-del mismo hecho. Lo que le falta saber al modelo se le da con [Contexto y RAG](../Contexto/contexto-y-rag.md).
+del mismo hecho. Gekhman et al. (EMNLP 2024; leído solo en su abstract) agregan el costo: los
+ejemplos con hechos nuevos se aprenden "much more slowly" que los que el modelo ya conoce, y una vez
+aprendidos aumentan su tendencia a [alucinar](../Modelos/alucinacion.md). Los autores concluyen que el
+modelo adquiere los hechos sobre todo en el preentrenamiento y que el finetuning mejora cómo los usa.
+Lo que le falta saber al modelo se le da con [Contexto y RAG](../Contexto/contexto-y-rag.md).
 
 Cuándo conviene ajustar y cuándo quedarse en el prompt o en RAG se decide con la falla que muestra
 la evaluación, y está en [Prompt, RAG o finetuning](../prompt-rag-o-finetuning.md). El libro de
@@ -48,15 +53,16 @@ Finetune" y "Finetuning and RAG" (según el índice del libro; su texto no se le
 
 ## Las razones para no ajustar
 
-El resumen del cap. 7 dice que "The process of finetuning itself isn't hard" y cierra con
-"finetuning is easy, but getting data for finetuning is hard". Lo caro está en los
-[datos para ajustar](datos-para-ajustar.md), no en el entrenamiento. Huyen cuenta entre los errores
+El resumen del cap. 7 dice que "The process of finetuning itself isn't hard": lo caro está en los
+[datos para ajustar](datos-para-ajustar.md), como se explica en
+[Ajuste](ajuste.md#por-qué-el-ajuste-mueve-el-problema-al-dato). Huyen cuenta entre los errores
 de empezar demasiado complejo "insist on finetuning when prompting works".
 
-Un modelo ajustado sobre un modelo cerrado depende además de que el proveedor no retire la base. La
+Un modelo ajustado sobre un modelo cerrado depende además de que el proveedor no retire el modelo de
+partida. La
 página de deprecaciones de un gran proveedor dice que los modelos ajustados "follow the same
-shutdown schedule as their underlying base models": cuando se apaga la base, el ajuste se pierde y
-hay que rehacerlo sobre otra. Es la razón práctica más fuerte para no ajustar un modelo cerrado
+shutdown schedule as their underlying base models": cuando se apaga el modelo de partida, el
+ajuste se pierde y hay que rehacerlo sobre otro. Es la razón práctica más fuerte para no ajustar un modelo cerrado
 (lectura de esta base). Qué proveedores ofrecen ajuste hoy, y cuáles lo están cerrando, está en la
 ficha [Plataformas de IA](../Produccion/plataformas-de-ia.md).
 
@@ -65,7 +71,7 @@ ficha [Plataformas de IA](../Produccion/plataformas-de-ia.md).
 > RAG alcanzan; Huyen critica insistir en ajustar "when prompting works". La evidencia acota esa
 > posición en vez de confirmarla: para conocimiento nuevo gana RAG (Ovadia et al., según un resumen
 > secundario), y para comportamiento y dominio el finetuning sigue aprendiendo cosas, el completo
-> más que LoRA (Biderman et al., según su abstract). Los dos estudios usan modelos de 2023 y 2024.
+> más que LoRA (Biderman et al., según un resumen secundario). Son estudios de 2023 y 2024.
 > No se encontró un estudio reciente que compare ajustar contra un modelo de punta con buen prompt
 > en una tarea de dominio, con costos: la pregunta sigue abierta.
 
@@ -95,8 +101,8 @@ parámetro.
 > gradientes y 12 del optimizador con la copia en 32 bits), y se atribuyen al paper ZeRO de
 > Rajbhandari et al. Con esa cifra, el mismo modelo de 7.000 millones pediría unos 112 GB. La de 18
 > bytes sale de la documentación de Transformers, leída; la de 16 no se pudo verificar en el paper,
-> del que solo se leyó el abstract. La diferencia está en si los gradientes se guardan en 16 o en 32
-> bits. Las dos son estimaciones de orden: la memoria real depende de las activaciones, del tamaño
+> del que solo se leyó el abstract. Que la diferencia esté en si los gradientes se guardan en 16 o
+> en 32 bits es lectura de esta base. Las dos son estimaciones de orden: la memoria real depende de las activaciones, del tamaño
 > de lote y de la implementación.
 
 Lo que la cuenta enseña es que los pesos son la parte chica: el grueso son gradientes y optimizador,
@@ -112,22 +118,17 @@ uno por cada parámetro entrenable. Por eso entrenar menos parámetros, que es l
 
 ## Olvido catastrófico: lo que el modelo pierde al ajustarse
 
-Ajustar un modelo en una tarea puede empeorar lo que hacía bien fuera de ella. Biderman et al.
-(TMLR 2024) lo midieron comparando LoRA con el finetuning completo en programación y matemática.
-Según su abstract, con configuraciones estándar LoRA "substantially underperforms full finetuning",
-pero "forgets less": conserva mejor lo que el modelo hacía fuera del dominio y da salidas más
-diversas. El finetuning completo aprende cambios de un rango de 10 a 100 veces mayor que los de una
-LoRA típica.
-
-La lectura práctica es que aprender y olvidar vienen juntos: la técnica que más cambia el modelo es
-la que más aprende y la que más olvida (lectura de esta base). Por eso el modelo ajustado se mide
-con los [evals](../Evaluacion/evals.md) de la tarea y también con casos generales que antes
-resolvía.
+El olvido catastrófico es que ajustar un modelo en una tarea empeore lo que hacía bien fuera de
+ella. Aprender y olvidar vienen juntos: la técnica que más cambia el modelo es la que más aprende y
+la que más olvida (lectura de esta base). La medición que compara el finetuning completo con LoRA en
+ese eje está en [PEFT y LoRA](peft-y-lora.md#lora-aprende-menos-y-olvida-menos). Por eso el modelo
+ajustado se mide con los [evals](../Evaluacion/evals.md) de la tarea y también con casos generales
+que antes resolvía.
 
 > [!NOTE]
 > Sin fuente todavía: la definición clásica del olvido catastrófico (McCloskey y Cohen, 1989;
 > Kirkpatrick et al., 2017) y fuentes sobre cómo mitigarlo (mezclar datos generales, tasa de
-> aprendizaje baja). La única fuente leída es Biderman et al., y solo su abstract.
+> aprendizaje baja). La única fuente de esta base es Biderman et al., leída en un resumen secundario.
 
 ## Lo que el finetuning hace con los datos repetidos
 

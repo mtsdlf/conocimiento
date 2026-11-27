@@ -1,11 +1,12 @@
 ---
 resumen: >-
   La recuperación es el paso de un RAG que busca los fragmentos que van a entrar en el contexto. Se
-  hace por términos, por embeddings o combinando las dos, se afina con reranking y con cómo se parten
-  los documentos, y se mide antes de tocar el modelo que genera.
+  hace de forma léxica (por términos), por embeddings (densa) o combinando las dos, se afina con
+  reranking y con la partición en fragmentos, y se mide antes de tocar el modelo que genera.
 estado: borrador
 estabilidad: semi
 fuentes:
+  - https://huyenchip.com/2024/07/25/genai-platform.html
   - https://arxiv.org/abs/2004.04906
   - https://arxiv.org/abs/2104.08663
   - https://arxiv.org/abs/1901.04085
@@ -27,8 +28,8 @@ revisado:
 # Recuperación
 
 La recuperación es el paso de un RAG que busca los fragmentos que van a entrar en el contexto. Se
-hace por términos, por embeddings o combinando las dos, se afina con reranking y con cómo se parten
-los documentos, y se mide antes de tocar el modelo que genera.
+hace de forma léxica (por términos), por embeddings (densa) o combinando las dos, se afina con
+reranking y con la partición en fragmentos, y se mide antes de tocar el modelo que genera.
 
 [Contexto y RAG](contexto-y-rag.md) da la visión de conjunto y la escalera de técnicas, de la más
 barata a la más precisa. Esta nota entra en cada escalón: qué dice la evidencia, cómo se combinan los
@@ -37,7 +38,8 @@ representación se explica en [Token y embedding](../Modelos/token-y-embedding.m
 
 ## Léxica o densa: depende de si hay datos del dominio
 
-La búsqueda léxica (como BM25) compara palabras; la densa compara embeddings, que capturan
+La búsqueda léxica (por términos, como BM25) compara palabras; la búsqueda por embeddings (densa)
+compara vectores, que capturan
 significado. Dos estudios parecen contradecirse:
 
 - **DPR** (Karpukhin et al., EMNLP 2020): un recuperador denso entrenado para la tarea supera a BM25
@@ -47,9 +49,10 @@ significado. Dos estudios parecen contradecirse:
   entrenaron, BM25 resiste como línea de base, y los recuperadores densos "often underperform" (según su
   abstract).
 
-Leídos juntos dicen lo mismo: un recuperador denso entrenado en el dominio le gana a BM25; uno que se
-usa en un dominio que no vio, no necesariamente. Por eso BM25 es la línea de base que se mide primero
-y lo que el resumen del cap. 6 de Huyen llama una línea de base fuerte.
+En lectura de esta base, leídos juntos dicen lo mismo: un recuperador denso entrenado en el dominio le
+gana a BM25; uno que se usa en un dominio que no vio, no necesariamente. Por eso, también en lectura
+de esta base, BM25 es la línea de base que conviene medir primero; el resumen del cap. 6 de Huyen
+dice que da líneas de base fuertes.
 
 > [!NOTE]
 > Sin fuente todavía: una fuente primaria sobre BM25 (Robertson y Zaragoza) y sobre recuperación y
@@ -59,7 +62,8 @@ y lo que el resumen del cap. 6 de Huyen llama una línea de base fuerte.
 
 La búsqueda híbrida corre las dos búsquedas y junta los resultados. El problema es que el puntaje de
 BM25 y la similitud entre vectores no están en la misma escala. La fusión por posición recíproca
-(*reciprocal rank fusion*, RRF, de Cormack et al., SIGIR 2009) lo esquiva: a cada documento le suma
+(*reciprocal rank fusion*, RRF) lo esquiva; el método se atribuye a Cormack et al. (SIGIR 2009),
+según la ficha del paper vista solo por buscador. A cada documento le suma
 1/(k + posición) por cada lista en la que aparece. Usa solo posiciones, así que no hay que
 normalizar nada, y según la documentación de Elastic "requires no tuning"; ahí k vale 60 por
 defecto. Anthropic combina BM25 y embeddings con "rank fusion techniques", sin decir cuál.
@@ -72,16 +76,17 @@ costo crece con cada candidato. Por eso, según la documentación de Sentence-Tr
 a unos 100 candidatos y no a todo el índice. El método viene de Nogueira y Cho (2019), que superaron
 al mejor anterior "by 27% (relative) in MRR@10" en MS MARCO.
 
-En la medición de Anthropic sobre sus propios datos, sumar reranking fue el escalón que más bajó la
-tasa de fallas; las cifras están en [Contexto y RAG](contexto-y-rag.md).
+En la medición de Anthropic sobre sus propios datos, sumar reranking bajó la tasa de fallas de 2,9%
+a 1,9%; el salto mayor fue el primero, los embeddings contextuales (de 5,7% a 3,7%). Las cifras
+completas están en [Contexto y RAG](contexto-y-rag.md).
 
-## Cómo se parten los documentos
+## Partición en fragmentos
 
-Partir en fragmentos (*chunking*) decide qué unidad puede recuperarse. Anthropic dice que el tamaño,
+La partición en fragmentos (*chunking*) decide qué unidad puede recuperarse. Anthropic dice que el tamaño,
 el borde y el solapamiento "can affect retrieval performance", y que en su prueba, con fragmentos de
 "no more than a few hundred tokens", traer 20 rindió mejor que traer 5 o 10.
 
-El único estudio con números entre estrategias es de Chroma (2024), con 472 consultas sobre cinco
+El estudio con números entre estrategias que se encontró es de Chroma (2024), con 472 consultas sobre cinco
 corpus. Unas estrategias superaron a otras "by up to 9% in recall"; partir de forma recursiva en
 fragmentos de 200 tokens sin solapamiento dio 88,1 de recall con buen desempeño parejo, y la
 configuración por defecto de una API conocida (800 tokens con 400 de solapamiento) fue la peor en
@@ -95,7 +100,8 @@ La recuperación se mide aparte de la respuesta: si el fragmento correcto no lle
 arregla. Las fuentes leídas usan dos medidas:
 
 - **Tasa de fallas o recall en los primeros k**: si el fragmento que hacía falta estaba entre los k
-  que se trajeron. Es lo que reportan Anthropic (en los 20 primeros) y Chroma.
+  que se trajeron (definición en lectura de esta base, a falta de una fuente primaria). Anthropic
+  reporta la tasa de fallas en los 20 primeros, y Chroma, recall.
 - **nDCG**: suma la relevancia de cada resultado dividida por el logaritmo de su posición, y la
   normaliza contra el orden ideal para que quede entre 0 y 1. Premia que lo relevante aparezca
   arriba. Según Wikipedia, "Normalized DCG does not penalize missing documents in the result" si no se
@@ -122,14 +128,15 @@ stored queries, web links, etc.)" y carga el contenido cuando lo necesita, con h
 > resultados "mostly vibes" más algunos benchmarks internos, y porque indexar suma un paso y el
 > índice se desactualiza; el costo es más latencia y más tokens. En contra, un ingeniero de una
 > empresa de búsqueda vectorial sostiene que eso no prueba que la recuperación semántica no sirva para
-> todo agente de código (también secundario). Las dos posiciones hablan de código, donde los nombres
-> exactos importan; no se generalizan a documentos de una empresa.
+> todo agente de código (también secundario). Las dos posiciones hablan de código y no se generalizan a documentos de
+> una empresa; que en código pesen más los nombres exactos es lectura de esta base.
 
 ## Qué leer sobre recuperación
 
 Para entender, Huyen, cap. 6, "Retrieval Algorithms" (p. 257) y "Retrieval Optimization" (p. 268),
-leído solo por su índice; el resumen de capítulos del repo del libro dice que la partición y la
-búsqueda híbrida no se tratan en ese capítulo, y no se pudo comprobar contra el texto. Para hacerlo,
+leído solo por su índice; el resumen de capítulos del repo del libro no nombra la partición ni la
+búsqueda híbrida, pero el [post de plataforma](https://huyenchip.com/2024/07/25/genai-platform.html)
+de Huyen sí las trata. Para hacerlo,
 ["Introducing Contextual Retrieval"](https://www.anthropic.com/news/contextual-retrieval), el mejor
 ejemplo de medir cada escalón por separado, y la página
 ["Retrieve & Re-Rank"](https://www.sbert.net/examples/applications/retrieve_rerank/README.html). Para

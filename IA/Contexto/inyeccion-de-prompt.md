@@ -39,8 +39,7 @@ un modelo engañado no pueda hacer daño.
 
 Es el riesgo propio de la vertical [Contexto](contexto.md): todo lo que se pone en la ventana para
 ayudar al modelo (un [RAG](contexto-y-rag.md), la [memoria](memoria.md), lo que devuelve una
-herramienta) es también un canal por el que un tercero le habla. Esta nota explica el ataque y las
-defensas de diseño. Los filtros que corren en producción sobre lo que entra y lo que sale están en
+herramienta) es también un canal por el que un tercero le habla. Los filtros que corren en producción sobre lo que entra y lo que sale están en
 [Guardrails](../Produccion/guardrails.md).
 
 ## Directa o indirecta
@@ -56,10 +55,12 @@ casos se arma una orden concatenando texto no confiable. Hay dos formas:
   instrucciones en datos que el modelo probablemente recupere, y lo demostraron contra un buscador
   comercial con chat.
 
-La indirecta es la que importa en un producto: el atacante no necesita ser usuario.
+En lectura de esta base, la indirecta es la que más importa en un producto: el atacante no necesita
+ser usuario.
 
-OWASP pone la inyección de prompt primera en su Top 10 para aplicaciones con LLM. La edición vigente
-es la de 2026, publicada en agosto de ese año; según Help Net Security, la inyección sigue primera y
+OWASP pone la inyección de prompt primera en su Top 10. La versión vigente es el OWASP Top 10 for
+LLM Applications, edición 2026, fechada en agosto de 2026 en su repositorio (el detalle, en
+[Guardrails](../Produccion/guardrails.md)); según Help Net Security, la inyección sigue primera y
 ahora incluye ataques que llegan en imágenes o audio. La página de detalle leída es la de la edición
 2025.
 
@@ -71,8 +72,7 @@ Cinco fuentes independientes lo sostienen:
    ni RAG ni finetuning lo resuelven del todo.
 2. **NCSC** (Reino Unido, diciembre de 2025): los modelos actuales "simply do not enforce a security
    boundary between instructions and data inside a prompt", y "there's a good chance prompt injection
-   will never be properly mitigated". Si un sistema no tolera ese riesgo residual, quizá un modelo de
-   lenguaje no sea la herramienta.
+   will never be properly mitigated".
 3. **Willison** (2025): "we still don't know how to 100% reliably prevent this from happening", y
    detectar el 95% de los ataques es "very much a failing grade".
 4. **Nasr et al.** (preprint de 2025, según su abstract): con atacantes que se adaptan a la defensa,
@@ -80,12 +80,13 @@ Cinco fuentes independientes lo sostienen:
    reportado casi cero.
 5. **Anthropic** (noviembre de 2025), sobre su agente de navegador: después de sus mejoras, su
    propio atacante, con 100 intentos por entorno, tuvo éxito entre 1,4% y 2,4% según el modelo, y
-   8,0% sin las salvaguardas. Lo llama "far from a solved problem" y dice que 1% "still represents
+   8,0% en uno de ellos sin las salvaguardas. Lo llama "far from a solved problem" y dice que 1% "still represents
    meaningful risk". Son cifras del laboratorio contra su propio atacante.
 
-La razón de fondo la da el NCSC: contra la inyección SQL hay una solución completa, separar la
-consulta de los datos; dentro de un prompt esa separación no existe, y el modelo es un "inherently
-confusable deputy". Huyen coincide en el resumen de su cap. 5: "no defense is foolproof".
+La razón de fondo la da el NCSC: la inyección SQL se puede mitigar bien con consultas
+parametrizadas, que separan la consulta de los datos; dentro de un prompt esa separación no existe,
+y el modelo es un "inherently confusable deputy". Huyen coincide: según el resumen de su cap. 5,
+ninguna medida de seguridad es infalible.
 
 ## Las defensas de diseño: limitar lo que puede hacer un modelo engañado
 
@@ -106,20 +107,22 @@ Anthropic, para la inyección indirecta, pide poner el contenido no confiable so
 de herramientas y limitar el acceso a datos y acciones. Cómo se limitan las herramientas de un agente se ve en
 [Uso de herramientas](../Agentes/uso-de-herramientas.md).
 
-### La lethal trifecta
+### La trifecta letal
 
-Willison resumió en 2025 cuándo un agente puede robar datos: cuando junta "Access to your private
+La trifecta letal (*lethal trifecta*) es como Willison resumió en 2025 cuándo un agente puede robar
+datos: cuando junta "Access to your private
 data", "Exposure to untrusted content" y "The ability to externally communicate". Su regla: "The only
 way to stay safe there is to avoid that lethal trifecta combination entirely". Es el marco de un solo
 autor, no un estándar; sirve para revisar un diseño: si el agente tiene las tres, se le saca una.
 
 ### Patrones que restringen al agente después de leer
 
-Un paper de 14 autores de junio de 2025 propone seis patrones (selector de acciones, planificar y
+Según la reseña de Willison (fuente secundaria: el paper no se abrió), un paper de 14 autores de
+junio de 2025 propone seis patrones (selector de acciones, planificar y
 después ejecutar, map-reduce con modelos, doble modelo, código y después ejecución, y minimizar el
 contexto) con una idea común, citada vía Willison: "once an LLM agent has ingested untrusted input,
 it must be constrained so that it is impossible for that input to trigger any consequential
-actions". El abstract del paper no se abrió: es una fuente, la reseña de Willison.
+actions". Es una sola fuente.
 
 El patrón de **doble modelo** es de Willison (2023): un modelo con herramientas solo ve entrada
 confiable, y otro, sin herramientas, procesa el contenido no confiable. El propio autor admite que no es confiable al 100%.
@@ -149,7 +152,8 @@ capabilities". Es una sola fuente, del laboratorio: baja la probabilidad, no ree
 ## El prompt de sistema no es un secreto
 
 Un atacante puede hacer que el modelo repita su prompt de sistema. OWASP lo trataba en la edición
-2025 como "System Prompt Leakage", y en la de 2026 lo renombró "Hidden Context Exposure". La página
+2025 como "System Prompt Leakage"; según Help Net Security, en la de 2026 pasó a llamarse "Hidden
+Context Exposure". La página
 leída, la de 2025, dice que el prompt de sistema "should not be treated as a secret or as a security
 control": no lleva credenciales ni datos de conexión, y los permisos se controlan fuera del modelo.
 Es una sola fuente con esa recomendación. Huyen trata el tema en el cap. 5 (p. 236) y junta

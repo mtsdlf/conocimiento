@@ -17,9 +17,8 @@ fuentes:
   - https://hamel.dev/blog/posts/evals/
   - https://arxiv.org/abs/2604.16304
   - https://arxiv.org/abs/2507.09089
-  - https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf
-  - https://80000hours.org/podcast/episodes/ai-workplace-mit-study/
-aliases: [AI engineering vs ML engineering, AI engineer, ML engineer, ingeniería de IA, ingeniería de ML, AI engineering stack, pila de AI engineering]
+  - https://metr.org/blog/2026-02-24-uplift-update/
+aliases: [AI engineering vs ML engineering, AI engineer, ML engineer, ingeniería de ML, AI engineering stack, pila de AI engineering]
 creado: 2026-11-27
 revisado:
 ---
@@ -53,7 +52,7 @@ through the application development process". Según el resumen de su capítulo 
 is moving closer to product".
 
 Lo que no cambia, según los resúmenes del libro, es buena parte del oficio de base: "many principles
-from ML engineering are still applicable to AI engineering". Y la pregunta que más se saltea es
+from ML engineering are still applicable to AI engineering". Y la pregunta que se pasa por alto es
 previa a la técnica: "whether you should build it", que en este tema trata
 [planificar una aplicación](../planificar-una-aplicacion.md). La tabla es una síntesis de esta base
 a partir de esas citas.
@@ -74,18 +73,18 @@ mayor parte del tiempo en la primera capa, toca la segunda cuando la evaluación
 que el contexto no resuelve (la decisión está en [prompt, RAG o finetuning](../prompt-rag-o-finetuning.md))
 y la tercera cuando el costo o la latencia lo piden.
 
-Cómo se reparten esas capas entre los puestos que publican las empresas no lo dice el libro, que
-describe capas y tareas, no roles. Ese cruce, con los avisos leídos, está en
+Cómo se reparten esas capas entre los puestos que publican las empresas no aparece en el extracto
+leído, que describe capas y tareas, no roles. Ese cruce, con los avisos leídos, está en
 [el caso de los roles de AI engineering](../../Presentacion-profesional/Posicionamiento/caso-roles-de-ai-engineering.md),
 dentro del tema Presentación profesional, que es donde vive el mercado laboral del oficio.
 
 ## De dónde sale el rol
 
-El nombre "AI engineer" se popularizó con un ensayo de Swyx y Latent Space, "The Rise of the AI
-Engineer" (junio de 2023). Define el oficio como "productionizing AI APIs and OSS models" y da una
+El ensayo que esta base toma como origen del rol es "The Rise of the AI Engineer", de Swyx y
+Latent Space (junio de 2023). Define el oficio como "productionizing AI APIs and OSS models" y da una
 razón de oferta: "There are ~5000 LLM researchers in the world, but ~50m software engineers". Si
-el modelo ya viene hecho, quien lo lleva a un producto no tiene que ser investigador: alcanza con
-saber construir software y aprender a evaluar.
+el modelo ya viene hecho, quien lo lleva a un producto no tiene que ser investigador (lectura de
+esta base).
 
 El mismo ensayo matiza el entusiasmo. Dice que el prompt engineering "was both overhyped and here
 to stay", y que el rol puede sentirse "inferior to people with good Data Science/ML backgrounds".
@@ -100,44 +99,31 @@ prototipo de un producto.
 
 ## El sesgo de comunidad de las voces del campo
 
-Las voces de referencia del oficio son pocas y se conocen entre sí. Huyen, Hamel Husain y Eugene
-Yan escriben los textos que todo el mundo cita; Yan y Husain son coautores, con Bryan Bischof,
-Charles Frye, Jason Liu y Shreya Shankar, de *What We've Learned From A Year of Building with LLMs*
-(2024); y la lista de recursos del libro de Huyen recomienda a Yan, a Husain y a ese ensayo. Este
-tema se construyó leyéndolos, y hereda su mirada: pro-evaluación y pro-producto.
+La lista de recursos del libro de Huyen recomienda a Eugene Yan, a Hamel Husain y a *What We've
+Learned From A Year of Building with LLMs* (2024), y Yan y Husain son coautores de ese ensayo, con
+Bryan Bischof, Charles Frye, Jason Liu y Shreya Shankar. Este tema se construyó leyéndolos, y
+hereda su mirada: pro-evaluación y pro-producto.
 
 Por eso una coincidencia entre ellos parece más firme de lo que es: que se empiece por el producto
 lo dicen Huyen, Swyx y los resúmenes del libro, y cuentan como una opinión, no como tres
-confirmaciones. Que Husain defienda la
-evaluación en su propio blog y también como coautor de *Applied LLMs* no suma una segunda fuente
-independiente sobre esa tesis.
+confirmaciones. Que Husain defienda la evaluación en su blog y como coautor de *Applied LLMs* no
+suma una segunda fuente independiente. La tesis central, que la evaluación va primero, es criterio
+razonado y no hecho medido: la evidencia de cada lado está en
+[evaluación](../Evaluacion/evaluacion.md#si-la-evaluación-va-primero).
 
-> [!IMPORTANT]
-> **Que la evaluación va primero es criterio, no hecho medido.** Husain escribe que los productos
-> que fallan "almost always share a common root cause: a failure to create robust evaluation
-> systems". Es una afirmación retrospectiva, sin denominador (cuántos productos que fallaron sí
-> evaluaban) y sin grupo de comparación. La única investigación con método que se encontró son 19
-> entrevistas a practicantes (van der Maden y otros, preprint de 2026): hallaron prácticas que van
-> "from informal 'vibe checks' to organizational meta-work" y concluyen que las informales "appear
-> to be reasonable adaptations to LLM characteristics, not simply methodological failures". El
-> argumento a favor sigue en pie: sin una medida no se sabe si un cambio mejoró. La propia Huyen
-> advierte también en la otra dirección, contra "Start too complex".
+Otros tres sesgos documentados tocan a quien lee el campo:
 
-Hay otros tres sesgos documentados que tocan a quien lee el campo:
-
-- **La percepción de quien usa la IA.** En el ensayo controlado de METR (2025), los desarrolladores
-  creyeron haber ahorrado 20 % de tiempo y se midió que tardaron 19 % más; economistas y expertos
-  en ML habían predicho reducciones de 39 % y 38 %, según el abstract. El detalle está en
-  [Agentes](../Agentes/agentes.md).
-- **La cifra que circula sin método.** El informe preliminar del proyecto NANDA del MIT (2025), no
-  revisado por pares, dice que "95% of organizations are getting zero return". Sale de 52
-  entrevistas y 153 encuestados, mide el éxito como un impacto "marked and sustained" a seis meses
-  del piloto y cuenta como fracaso a quien no llegó a producción. Circuló como "el 95 % de los
-  proyectos de IA fracasa" cuando el PDF todavía pedía un formulario, según el análisis de 80,000
-  Hours.
-- **El proveedor como fuente.** Muchas de las guías más leídas (sobre agentes, contexto o
-  recuperación) las publican laboratorios y empresas sobre sus propios sistemas. Son primarias para
-  su producto e interesadas en todo lo demás.
+- **La percepción de quien usa la IA.** En el ensayo controlado de METR (2025, 16 desarrolladores),
+  creyeron haber ahorrado 20 % de tiempo y se midió que tardaron 19 % más. La repetición del 24 de
+  febrero de 2026 dio -18 % y -4 % de tiempo, con intervalos que incluyen cero, y METR llama a esa
+  evidencia "very weak". Lo firme es la brecha entre lo que la gente cree y lo que se mide; el
+  detalle está en [Agentes](../Agentes/agentes.md).
+- **La cifra que circula sin método.** El "95 %" de fracaso de proyectos de IA se cita sin su
+  definición ni su muestra; cómo se lee está en
+  [planificar una aplicación](../planificar-una-aplicacion.md#qué-dicen-los-estudios-sobre-por-qué-fracasan).
+- **El proveedor como fuente.** Varias guías de práctica que usa este tema (sobre agentes, contexto
+  o recuperación) las publican laboratorios y empresas sobre sus propios sistemas. Son primarias
+  para su producto e interesadas en todo lo demás.
 
 ## Cómo leer una afirmación del campo
 
@@ -155,7 +141,7 @@ Huyen y Orosz, ["The AI Engineering Stack"](https://newsletter.pragmaticengineer
 para la definición y las tres capas, y Swyx, ["The Rise of the AI Engineer"](https://www.latent.space/p/ai-engineer),
 para el origen del rol. Fijarse en cómo cada uno define qué se deja de hacer (entrenar) y qué se
 hace más (evaluar y construir producto). Del libro, el capítulo 1 completo (esta base solo leyó el
-extracto). Para el contrapeso, van der Maden y otros,
+extracto). Para el contrapeso, van der Maden et al.,
 ["Results-Actionability Gap"](https://arxiv.org/abs/2604.16304): fijarse en las diez prácticas y en
-que es una muestra de 19 sin medir resultados. El resto está en la [bibliografía de IA](bibliografia-de-ia.md),
+que es la mejor evidencia encontrada y es cualitativa: 19 entrevistas, sin medir resultados. El resto está en la [bibliografía de IA](bibliografia-de-ia.md),
 y la historia que explica el cambio de oficio, en [historia de la IA generativa](historia-de-la-ia-generativa.md).

@@ -13,6 +13,8 @@ fuentes:
   - https://aclanthology.org/P02-1040/
   - https://aclanthology.org/W04-1013/
   - https://arxiv.org/abs/1904.09675
+  - https://aclanthology.org/E06-1032/
+  - https://web.stanford.edu/~jurafsky/slp3/3.pdf
   - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/
 aliases: [evaluation metrics, métricas de LLM, exact evaluation, evaluación exacta, pass@k, BLEU, ROUGE, BERTScore, perplejidad, perplexity]
 creado: 2026-11-27
@@ -26,11 +28,12 @@ generado pasa pruebas (corrección funcional), cuánto se parece a una respuesta
 (similitud) o qué tan probable le resulta un texto al modelo (perplejidad).
 
 Son una de las formas de calificar los [evals](evals.md), junto a las aserciones propias, el
-[juez](ia-como-juez.md) y las personas. Según su índice, Huyen las reúne en el capítulo 3 del libro:
+[juez](ia-como-juez.md) y las personas. Según el índice del libro, Huyen las reúne en el capítulo 3:
 "Understanding Language Modeling Metrics" y "Exact Evaluation", que se divide en corrección funcional
 y similitud contra datos de referencia. Las métricas de velocidad (tiempo al primer token, tiempo por
-token) son de otra clase y están en [inferencia](../Produccion/inferencia.md) y en
-[costo y latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md).
+token) son de otra clase: están definidas en
+[costo y latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md); del lado del servidor,
+en [inferencia](../Produccion/inferencia.md).
 
 ## Por qué una métrica genérica engaña
 
@@ -43,9 +46,10 @@ para esas fallas, y las métricas genéricas, como mucho, para encontrar trazas 
 Husain agrega una advertencia sobre la meta: "If you're passing 100% of your evals, you're likely not
 challenging your system enough." Un puntaje perfecto dice más del conjunto de casos que del sistema.
 
-## Corrección funcional: la única exacta que aguanta
+## Corrección funcional: correr la salida
 
-Cuando la salida se puede ejecutar o verificar, la medida más fuerte es correrla. Chen et al. (2021,
+Cuando la salida se puede ejecutar o verificar, se la corre contra pruebas; que sea la medida
+más fuerte de las exactas es lectura de esta base. Chen et al. (2021,
 leído en su abstract) presentan HumanEval, un conjunto para medir corrección funcional al generar
 programas a partir de docstrings: el modelo de entonces resolvía 28,8 % de los problemas con una
 muestra y 70,2 % con 100 muestras por problema. De ahí sale pass@k, la proporción de problemas en los
@@ -61,36 +65,53 @@ que se pueda, porque es barata, rápida y no tiene sesgos de juez.
 ## Similitud con una referencia
 
 Las métricas de similitud comparan la salida con una respuesta escrita de antemano. BLEU (Papineni et
-al., 2002) nació para traducción y ROUGE (Lin, 2004) para resúmenes; las dos cuentan solapamiento de
-palabras. BERTScore (Zhang et al., 2020) compara con embeddings contextuales en lugar de palabras;
+al., 2002) nació para traducción: compara los n-gramas de la salida con los de una o varias
+traducciones de referencia, y sus autores parten de que "there are many 'perfect' translations of a
+given source sentence", que varían "in word choice or in word order". ROUGE (Lin, 2004) nació para
+resúmenes y cuenta "the number of overlapping units such as n-gram, word sequences, and word pairs"
+entre el resumen generado y resúmenes escritos por personas. BERTScore (Zhang et al., 2020) compara con embeddings contextuales en lugar de palabras;
 según el abstract, se probó con 363 sistemas de traducción y de subtitulado de imágenes y
 correlaciona mejor con juicios humanos que las métricas previas. Es una afirmación de sus autores,
 sobre esas tareas y no sobre aplicaciones con modelos de lenguaje.
 
-El límite es de fondo: una respuesta correcta puede decirse con otras palabras, y una incorrecta
-puede parecerse mucho a la referencia. Husain sostiene que las métricas de similitud como BERTScore o
+El límite se midió en la tarea para la que nació BLEU. Callison-Burch et al. (2006) muestran que
+"an improved Bleu score is neither necessary nor sufficient for achieving an actual improvement in
+translation quality": para una traducción típica hay "millions of possible variants that would each
+receive a similar Bleu score", no todas igual de aceptables, y dan dos casos en que BLEU subestimó
+mucho la calidad que veían las personas. Husain sostiene que las métricas de similitud como BERTScore o
 ROUGE "are not useful for evaluating LLM outputs in most AI applications", con una excepción: en
 búsqueda y [recuperación](../Contexto/recuperacion.md), donde lo que se quiere medir es justamente
 cercanía semántica.
 
 > [!NOTE]
 > Sin fuente todavía: un estudio que mida la correlación de BLEU y ROUGE con juicio humano en
-> generación abierta. Las páginas de los dos papers no traían abstract.
+> generación abierta con modelos de lenguaje; la crítica de Callison-Burch et al. es sobre traducción
+> automática.
 
 ## Perplejidad y entropía cruzada
 
-La perplejidad y la entropía cruzada miden qué tan probable le resulta un texto a un modelo: cuanto
-más bajas, mejor predice ese texto. Según el resumen de capítulo del libro, Huyen las presenta como
-métricas "often confusing" y explica cómo usarlas "in evaluation and data processing". La lectura de
+Según Jurafsky y Martin (*Speech and Language Processing*, borrador de 2026, cap. 3), la
+perplejidad de un modelo sobre un conjunto de prueba es "the inverse probability of the test set
+(one over the probability of the test set), normalized by the number of words (or tokens)", y "a
+lower perplexity tells us that a language model is a better predictor of the test set". Se define
+como 2 elevado a la entropía cruzada del modelo sobre esa secuencia, así que las dos miden lo mismo
+en escalas distintas. El mismo capítulo pone dos condiciones: el modelo tiene que construirse "without
+any knowledge of the test set, or else the perplexity will be artificially low", y dos modelos solo
+se comparan si usan el mismo vocabulario. Por inferencia de esta base, la primera condición es la que
+rompe la contaminación de un benchmark (ver [benchmarks](benchmarks-y-eleccion-de-modelo.md)), y la
+segunda impide comparar perplejidades entre modelos con tokenizadores distintos (ver
+[token y embedding](../Modelos/token-y-embedding.md)).
+
+Huyen, según el resumen de capítulos de su libro, cuenta que "Many people I've talked to find these
+metrics confusing", y explica cómo leerlas y usarlas "in evaluation and data processing". La lectura de
 esta base es que sirven sobre todo a quien compara o entrena modelos y a quien prepara
 [datos para ajustar](../Ajuste/datos-para-ajustar.md), no para saber si una respuesta sirve: un texto
 probable no es un texto verdadero, que es el origen de la
 [alucinación](../Modelos/alucinacion.md).
 
 > [!NOTE]
-> Sin fuente todavía: la definición formal de perplejidad y entropía cruzada y su uso para detectar
-> contaminación o duplicados. El capítulo de Huyen no se pudo leer y el libro de texto de Jurafsky y
-> Martin (SLP3, cap. 3) llegó sin texto.
+> Sin fuente todavía: el uso de la perplejidad para detectar contaminación o duplicados en la
+> práctica; el capítulo de Huyen no se pudo leer.
 
 ## Cuánto pesan frente al juez y a las personas
 

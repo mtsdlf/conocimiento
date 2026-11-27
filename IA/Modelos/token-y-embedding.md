@@ -35,36 +35,38 @@ El modelo no ve letras. El camino de una consulta es este:
 
 1. El **tokenizador** parte el texto en tokens y reemplaza cada uno por su número en un vocabulario
    fijo.
-2. Cada número se convierte en un **embedding**, un vector que el modelo aprendió durante el
-   [preentrenamiento](preentrenamiento.md).
-3. El [transformer](transformer.md) procesa esos vectores y, al final, da una probabilidad para cada
+2. Cada número se convierte en un **embedding**, un vector de números (lectura de esta base: esos
+   vectores son parámetros del modelo y se ajustan durante el [preentrenamiento](preentrenamiento.md)).
+3. El [Transformer](transformer.md) procesa esos vectores y, al final, da una probabilidad para cada
    token del vocabulario como próximo token.
 4. El [muestreo](muestreo.md) elige uno, que se vuelve texto y se agrega a la entrada para predecir
    el siguiente.
 
-El vocabulario es una decisión de diseño que se toma antes de entrenar y no cambia después. Cambiar de
-tokenizador es cambiar de modelo.
+Lectura de esta base: el vocabulario se fija antes de entrenar, porque cada embedding corresponde a un
+token de ese vocabulario.
 
 ## Por qué se parte en pedazos de palabra
 
 Un vocabulario de palabras enteras deja afuera las palabras raras, los nombres propios y las
 palabras mal escritas. Sennrich, Haddow y Birch (2015) propusieron codificar las palabras raras o
-desconocidas "as sequences of smaller subword units" con *byte pair encoding* (BPE): se arranca de
-caracteres sueltos y se fusionan los pares más frecuentes hasta llegar al tamaño de vocabulario
-buscado. El paper era de traducción automática: mejoró 1,1 BLEU en inglés-alemán y 1,3 en
+desconocidas "as sequences of smaller subword units" con *byte pair encoding* (BPE). El procedimiento,
+según la sección 3.2 del paper: se arranca con un vocabulario de caracteres, se representa cada
+palabra como una secuencia de caracteres, y se cuentan todos los pares de símbolos y se reemplaza
+el par más frecuente por un símbolo nuevo, una y otra vez. El tamaño final del vocabulario es el
+inicial más el número de fusiones, "the only hyperparameter of the algorithm". El paper era de traducción automática: mejoró 1,1 BLEU en inglés-alemán y 1,3 en
 inglés-ruso sobre el respaldo por diccionario.
 
 El repositorio [`minbpe`](https://github.com/karpathy/minbpe) de Andrej Karpathy muestra que la idea
-sigue en los LLM: implementa BPE en tres versiones, una de ellas un tokenizador que reproduce el de
-GPT-4. La versión con expresión regular impide que una fusión cruce categorías (letras, números,
-puntuación), así que "hola," nunca queda en un solo token con la coma.
+sigue en los LLM: implementa BPE en tres versiones, una de ellas (`GPT4Tokenizer`) que reproduce el
+tokenizador de la biblioteca tiktoken. La versión con expresión regular impide que una fusión cruce
+categorías como letras, números y puntuación.
 
 > [!NOTE]
 > Sin fuente todavía: por qué partir los números en tokens daña la aritmética del modelo.
 
 ## El mismo texto cuesta distinto según el idioma
 
-Petrov y otros (NeurIPS 2023) midieron que el mismo texto traducido a distintos idiomas puede dar
+Petrov et al. (NeurIPS 2023) midieron que el mismo texto traducido a distintos idiomas puede dar
 hasta 15 veces más tokens según el idioma, y que los modelos a nivel de carácter o de byte muestran
 diferencias de más de 4 veces entre algunos pares. Quien escribe en esos idiomas paga más por la
 misma consulta, espera más la respuesta y le entra menos texto en la ventana. La cifra para
@@ -78,21 +80,21 @@ la misma cantidad de tokens, y con eso el costo de un mismo prompt. La ficha de
 ## Qué representa un embedding
 
 Dentro del modelo, cada token es un vector de muchas dimensiones, y la atención del
-[transformer](transformer.md) opera sobre esos vectores: según Alammar, cada token genera a partir de
+[Transformer](transformer.md) opera sobre esos vectores: según Alammar, cada token genera a partir de
 su vector una consulta, una clave y un valor. Fuera del modelo, "embedding" nombra también el vector
 que representa un texto entero, que es lo que se guarda en un índice para la
 [recuperación](../Contexto/recuperacion.md).
 
 > [!NOTE]
 > Sin fuente todavía: una fuente primaria sobre los embeddings como representación del significado
-> (Bengio y otros, 2003; word2vec). El capítulo 5 de Jurafsky y Martin los trata, pero solo se leyó su
+> (Bengio et al., 2003; word2vec). El capítulo 5 de Jurafsky y Martin los trata, pero solo se leyó su
 > índice.
 
 ## Qué leer sobre tokens
 
 El README de [`minbpe`](https://github.com/karpathy/minbpe), y el video "Let's build the GPT
 Tokenizer" que enlaza (no se pudo ver para esta nota), para ver BPE funcionando paso a paso. El
-abstract de [Petrov y otros](https://arxiv.org/abs/2305.15425), para el costo por idioma. Para
+abstract de [Petrov et al.](https://arxiv.org/abs/2305.15425), para el costo por idioma. Para
 embeddings, Jurafsky y Martin, [*Speech and Language Processing*](https://web.stanford.edu/~jurafsky/slp3/),
 capítulos 2 ("Words and Tokens") y 5 ("Embeddings"); la clase 1 de
 [CS336](http://cs336.stanford.edu/spring2025/) (Stanford) también empieza por la tokenización.

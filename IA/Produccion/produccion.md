@@ -7,11 +7,9 @@ estado: borrador
 estabilidad: estable
 fuentes:
   - https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack
-  - https://www.helpnetsecurity.com/2026/08/06/owasp-2026-llm-top-10-released/
   - https://huyenchip.com/2024/07/25/genai-platform.html
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/ToC.md
   - https://raw.githubusercontent.com/chiphuyen/aie-book/main/chapter-summaries.md
-  - https://raw.githubusercontent.com/GenAI-Security-Project/GenAI-LLM-Top10/main/README.md
   - https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices
 aliases: [producción, operar un sistema con modelos, LLMOps, AI engineering in production, infraestructura de IA]
 creado: 2026-11-27
@@ -41,13 +39,14 @@ orquestación como piezas transversales. Su regla: "a component can be skipped i
 well without it". La tabla de capas, el orden y un flujo posible están en
 [Sistemas con modelos](sistemas-con-modelos.md).
 
-El resumen del capítulo agrega el precio: "Each added component can improve capability, safety, or
-speed, but it also adds complexity and new failure modes". Cada capa de esta vertical tiene una
+El resumen del capítulo agrega el precio: "Each additional component can potentially make your
+system more capable, safer, or faster, but will also increase the system's complexity, exposing it
+to new failure modes". Cada capa de esta vertical tiene una
 falla propia que la anterior no tenía:
 
 | Capa | Qué resuelve | Cómo falla |
 |---|---|---|
-| [Guardrails](guardrails.md) | Entradas y salidas dañinas o incorrectas, acciones peligrosas | Bloquea pedidos legítimos y suma latencia; contra la inyección de prompt ningún filtro alcanza |
+| [Guardrails](guardrails.md) | Entradas y salidas dañinas o incorrectas, acciones peligrosas | Bloquea pedidos legítimos y suma latencia; contra la inyección de prompt no se conoce una defensa completa |
 | [Router](router-y-gateway-de-modelos.md) | Mandar cada consulta al modelo más barato que la resuelve | Manda una consulta difícil al modelo barato y nadie lo nota |
 | [Gateway](router-y-gateway-de-modelos.md) | Acceso, claves, presupuesto y fallback en un solo lugar | Es un punto único por el que pasa todo |
 | [Cache semántica](cache-de-modelos.md) | Consultas parecidas que se repiten | Devuelve con seguridad la respuesta de otra pregunta |
@@ -71,12 +70,12 @@ los proveedores con las APIs de batch, menos precio a cambio de esperar.
 
 ## Diseñar para cuando el modelo se equivoca
 
-La premisa del tema, que un modelo genera texto probable y no verdadero, en producción se vuelve
-una regla de diseño: el sistema tiene que aguantar que el modelo se equivoque o sea engañado. OWASP
-lo dice para la seguridad en su lista de 2026 ("Build the system around it, so that when the model
-is fooled, and it will be, nothing important breaks", según la recoge Help Net Security), y la
-misma lógica vale para la cache semántica o el router: cada capa que decide sola necesita una
-[eval](../Evaluacion/evals.md) que la mida y una traza que muestre cuándo falló (lectura de esta
+La idea que ordena el tema, que un modelo genera texto probable y no verdadero (lectura de esta
+base, como en [IA](../ia.md)), en producción se vuelve una regla de diseño: el sistema tiene que
+aguantar que el modelo se equivoque o sea engañado. Para la seguridad, la evidencia de que no hay
+una defensa completa contra la inyección está en
+[Inyección de prompt](../Contexto/inyeccion-de-prompt.md), y la misma lógica vale para la cache semántica o el router: cada capa que decide sola necesita
+[evals](../Evaluacion/evals.md) que la midan y una traza que muestre cuándo falló (lectura de esta
 base). Por eso la observabilidad no es una capa más sino la que cierra el bucle con Evaluación.
 
 ## Qué hay adentro de Producción
@@ -94,7 +93,7 @@ base). Por eso la observabilidad no es una capa más sino la que cierra el bucle
 - [Observabilidad](observabilidad-de-modelos.md) — métricas, logs y trazas de cada consulta, y el
   vocabulario común de OpenTelemetry.
 - [Plataformas de IA](plataformas-de-ia.md) — ficha fechada: gateways, vector stores, orquestación
-  y observabilidad, el prompt cache y el fine-tuning por proveedor.
+  y observabilidad, el prompt cache y el finetuning por proveedor.
 - [Herramientas de guardrails](herramientas-de-guardrails.md) — ficha fechada: clasificadores,
   frameworks y APIs de moderación, con cifras de latencia.
 - [APIs de batch y motores de inferencia](apis-de-batch-y-motores-de-inferencia.md) — ficha fechada:

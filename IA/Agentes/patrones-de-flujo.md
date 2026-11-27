@@ -51,14 +51,14 @@ control, y se elige por la forma de la tarea:
 |---|---|---|
 | Encadenamiento (*prompt chaining*) | cada llamada trabaja sobre la salida de la anterior, con controles entre pasos | la tarea se parte limpio en pasos fijos y conocidos |
 | Ruteo (*routing*) | clasifica la entrada y la manda a un camino especializado | hay categorías distintas que conviene tratar aparte; incluye mandar lo simple a un modelo más barato, como hace un [router](../Produccion/router-y-gateway-de-modelos.md) |
-| Paralelización | corre partes independientes a la vez (*sectioning*) o la misma tarea varias veces y vota (*voting*) | las partes no dependen entre sí, o hace falta más confianza en una respuesta |
-| Orquestador y trabajadores (*orchestrator-workers*) | un modelo reparte subtareas a otros y junta los resultados | "complex tasks where you can't predict the subtasks needed", como un cambio de código cuyo número de archivos depende de la tarea |
-| Evaluador y optimizador (*evaluator-optimizer*) | un modelo genera y otro evalúa, en un bucle | "when we have clear evaluation criteria, and when iterative refinement provides measurable value" |
+| Paralelización (*parallelization*) | corre partes independientes a la vez (*sectioning*) o la misma tarea varias veces y vota (*voting*) | las partes no dependen entre sí, o hace falta más confianza en una respuesta |
+| Orquestador-trabajadores (*orchestrator-workers*) | un modelo reparte subtareas a otros y junta los resultados | "complex tasks where you can't predict the subtasks needed", como un cambio de código cuyo número de archivos depende de la tarea |
+| Evaluador-optimizador (*evaluator-optimizer*) | un modelo genera y otro evalúa, en un bucle | "when we have clear evaluation criteria, and when iterative refinement provides measurable value" |
 
 El evaluador del último patrón es un uso de [IA como juez](../Evaluacion/ia-como-juez.md) dentro del
 sistema, no solo en la evaluación, y hereda sus sesgos (lectura de esta base). La diferencia entre
 el orquestador y un agente es de grado: el orquestador decide qué subtareas hay, pero el resto del
-camino sigue escrito en el código.
+camino sigue escrito en el código (lectura de esta base).
 
 Los cinco patrones son la taxonomía de un laboratorio, no un estándar del campo. Huyen no los usa:
 organiza el tema por herramientas, planificación y fallas, y los patrones aparecen en su libro
@@ -77,14 +77,16 @@ become a common pattern for agents".
 
 Cómo el agente arma y corrige el plan dentro de ese bucle está en
 [Planificación](planificacion.md); cómo se sostiene una tarea que dura más que una
-[ventana de contexto](../Contexto/ingenieria-de-contexto.md), en
+[ventana de contexto](../Modelos/transformer.md#la-ventana-de-contexto), en
+[Ingeniería de contexto](../Contexto/ingenieria-de-contexto.md), en
 [Memoria](../Contexto/memoria.md) y en la sección de harness de [Agente](agente.md).
 
 ## Multiagente: varios agentes que se reparten la tarea
 
 Un sistema multiagente reparte una tarea entre varios agentes, cada uno con su propia ventana de
-contexto, coordinados por un agente principal o entre sí. Es el patrón de orquestador y
-trabajadores llevado al extremo: los trabajadores también deciden sus pasos. Si conviene es la
+contexto, coordinados por un agente principal o entre sí. Puede leerse como el patrón
+orquestador-trabajadores llevado al extremo, en el que los trabajadores también deciden sus pasos
+(lectura de esta base). Si conviene es la
 disputa más visible de la vertical, y las dos posiciones vienen de empresas que venden agentes.
 
 > [!IMPORTANT]
