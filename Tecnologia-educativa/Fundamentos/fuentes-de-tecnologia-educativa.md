@@ -8,6 +8,10 @@ fuentes:
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
   - "Ma et al. (2014), Journal of Educational Psychology 106(4): https://www.cs.uky.edu/~sgware/reading/papers/ma2014intelligent.pdf"
   - "Guo, Kim y Rubin (2014): https://www.cs.rochester.edu/hci/pubs/pdfs/edX-MOOC-video-production-and-engagement_LAS-2014.pdf"
+  - "Tecnologia-educativa/.investigacion/fuentes-aprendizaje-en-linea-2026-11.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-fundamentos-y-medios-2026-11.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-ia-y-practica-adaptativa-2026-11.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-tutores-y-plataformas-2026-11.md"
 aliases: [bibliografía de tecnología educativa, evidencia en edtech, cómo leer un estudio de tecnología educativa, fuentes de edtech]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -42,14 +46,16 @@ Casi toda la evidencia del tema es escolar o universitaria. Ningún estudio leí
 
 ## Los recursos canónicos por parte del tema
 
-- Medios: Clark (1994) y Kozma (1994), juntos, en *Educational Technology Research and Development* 42(2). No se leyeron enteros.
+- Medios: Clark (1994) y Kozma (1994), juntos, en *Educational Technology Research and Development* 42(2). Kozma se leyó entero; de Clark, solo el resumen de ERIC.
 - Aprendizaje en línea: Means et al. (2010) para la eficacia; Reich y Ruipérez-Valiente (2019, *Science*) para la finalización. Ambos leídos.
-- Tutores inteligentes: Ma et al. (2014), leído entero; VanLehn (2011), solo el resumen; Pane et al. (2014), vía RAND y el WWC.
+- Tutores inteligentes: Ma et al. (2014), leído entero; VanLehn (2011), el resumen y diapositivas del autor; Pane et al. (2014), vía RAND, el WWC y el documento de trabajo de RAND de 2014.
 - IA: Bastani et al. (2025, *PNAS*) para el contraste entre atajo y tutor; Oreopoulos y Low (2026, NBER) para el ensayo más largo.
 - Práctica adaptativa: Martinengo et al. (2024) para el espaciado digital; el manual de Anki para el uso.
-- Encuadre general: Escueta, Nickow, Oreopoulos y Quan (2020, *Journal of Economic Literature*), del que se leyó solo el resumen.
+- Encuadre general: Escueta, Nickow, Oreopoulos y Quan (2020, *Journal of Economic Literature*), del que se leyó el resumen de la revista y el que publicó J-PAL en 2019.
 
 ## Lo que falta leer
 
+Los informes de la segunda ronda (2026-11) están en `.investigacion/fuentes-*-2026-11.md`. Lo que quedó leído a medias está en cada nota.
+
 > [!NOTE]
-> Sin fuente todavía, y lo más útil para una segunda ronda: el texto de Clark (1994) y Kozma (1994); Cuban (*Teachers and Machines*, 1986, y *Oversold and Underused*, 2001); Reich, *Failure to Disrupt* (2020); el informe de la OCDE de 2015 y el de la UNESCO de 2023; evidencia experimental sobre qué reduce el abandono en cursos en línea; la pérdida de aprendizaje en la pandemia; Mayer, *Multimedia Learning*; Wenger (1987) o Nkambou et al. (2010) para la arquitectura de los tutores; las conclusiones por categoría de Escueta et al. (2020); un metaanálisis del uso de ChatGPT en el aprendizaje; y cualquier estudio con adultos que aprenden IT.
+> Sin fuente todavía: el texto de Clark (1994); Cuban (*Teachers and Machines*, 1986, conocido por una selección de citas, y *Oversold and Underused*, 2001, por una reseña); Reich, *Failure to Disrupt* (2020, por dos reseñas); el informe de la OCDE de 2015 (se leyeron las ediciones posteriores) y el de la UNESCO de 2023 entero (se leyó el resumen); el texto completo de Escueta et al. (2020); evidencia experimental sobre cohortes, plazos fijos y contacto con un docente en cursos en línea; los datos de la UNESCO sobre cierre de escuelas en la pandemia; Mayer, *Multimedia Learning*; Wenger (1987) o Nkambou et al. (2010) para la arquitectura de los tutores; y cualquier estudio con adultos que aprenden IT.

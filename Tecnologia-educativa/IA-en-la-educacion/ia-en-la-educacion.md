@@ -8,7 +8,11 @@ fuentes:
   - "Kestin et al. (2025), Scientific Reports: https://pmc.ncbi.nlm.nih.gov/articles/PMC12179260/"
   - "Oreopoulos y Low (2026), NBER w35620: https://www.nber.org/papers/w35620"
   - "Wang et al., Tutor CoPilot, arXiv 2410.03017: https://arxiv.org/abs/2410.03017"
+  - "Deng, R., Jiang, M., Yu, X., Lu, Y. y Liu, S. (2025), Does ChatGPT enhance student learning? A systematic review and meta-analysis of experimental studies, Computers & Education 227:105224: https://doi.org/10.1016/j.compedu.2024.105224 (abstract)"
+  - "Wang, J. y Fan, W. (2025), The effect of ChatGPT on students' learning performance, learning perception, and higher-order thinking: insights from a meta-analysis, Humanities and Social Sciences Communications 12:621: https://doi.org/10.1057/s41599-025-04787-y (abstract; retractado)"
+  - "Retraction Note (2026-04-22), Humanities and Social Sciences Communications 13:528: https://www.nature.com/articles/s41599-026-07310-z (texto completo)"
   - "Tecnologia-educativa/.investigacion/ia-practica-adaptativa-plataformas.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-ia-y-practica-adaptativa-2026-11.md"
 aliases: [AI in education, AIED, IA generativa en educación, ChatGPT en educación, tutores de IA, LLM en educación]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -40,8 +44,10 @@ Tres advertencias valen para todas las notas de la vertical:
 2. Mucho no tiene revisión por pares. Varios estudios son preprints de arXiv o documentos de trabajo del NBER o del Banco Mundial, y algunos tienen al proveedor del modelo como coautor. Cada nota lo marca.
 3. Las herramientas envejecen rápido. Un estudio con un modelo de 2023 dice poco del modelo de hoy. Como hipótesis de esta base, la diferencia entre guiar y resolver se mantiene entre versiones; ningún estudio leído lo probó con modelos nuevos.
 
-> [!NOTE]
-> Sin fuente todavía: un metaanálisis general del uso de ChatGPT en el aprendizaje (se buscaba Wang y Fan, 2025). No se cita ninguno.
+El metaanálisis general que se lee acá es el de Deng et al. (2025, *Computers & Education*), con 69 artículos experimentales publicados entre 2022 y 2024. Según su resumen, ChatGPT mejoró el rendimiento académico, los estados afectivos y motivacionales y la disposición al pensamiento de orden superior, redujo el esfuerzo mental y no cambió la autoeficacia. Los propios autores piden cautela: los estudios no calcularon la potencia estadística y las pruebas posteriores pueden medir la calidad de lo que produjo ChatGPT más que lo aprendido. Como lectura de esta base, esa segunda advertencia es el problema del rol de [atajo](ia-como-atajo.md).
+
+> [!IMPORTANT]
+> El metaanálisis de Wang y Fan (2025, *Humanities and Social Sciences Communications*) fue retractado y no se usa como evidencia. Con 51 estudios publicados entre noviembre de 2022 y febrero de 2025, informaba, según su resumen, un efecto grande sobre el rendimiento (g = 0,867) y moderado sobre la percepción del aprendizaje y el pensamiento de orden superior. La revista lo retractó el 22 de abril de 2026 «due to concerns relating to discrepancies in the meta‑analysis», planteadas por Magnus Ingebrigtsen y Marko Lukic. Según la nota de retractación, los autores no respondieron.
 
 ## Qué hay adentro de la IA en la educación
 

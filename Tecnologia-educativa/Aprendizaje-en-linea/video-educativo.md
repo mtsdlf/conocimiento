@@ -5,7 +5,10 @@ estado: vigente
 estabilidad: estable
 fuentes:
   - "Guo, P. J., Kim, J. y Rubin, R. (2014), How Video Production Affects Student Engagement: An Empirical Study of MOOC Videos, Learning at Scale 2014 (ACM), DOI 10.1145/2556325.2566239: https://www.cs.rochester.edu/hci/pubs/pdfs/edX-MOOC-video-production-and-engagement_LAS-2014.pdf"
+  - "Szpunar, K. K., Khan, N. Y. y Schacter, D. L. (2013), Interpolated memory tests reduce mind wandering and improve learning of online lectures, PNAS 110(16):6313-6317: https://pubmed.ncbi.nlm.nih.gov/23576743/ (abstract)"
+  - "Noetel, M. et al. (2021), Video Improves Learning in Higher Education: A Systematic Review, Review of Educational Research: https://eric.ed.gov/?id=EJ1290063 (abstract)"
   - "Tecnologia-educativa/.investigacion/medios-en-linea-tutores.md"
+  - "Tecnologia-educativa/.investigacion/fuentes-aprendizaje-en-linea-2026-11.md"
 aliases: [educational video, video en cursos en línea, videos de seis minutos, Guo 2014, video engagement]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -31,8 +34,18 @@ El número es una recomendación de producción a partir de cuándo la gente dej
 
 La recomendación es razonable como práctica de producción. Lo que no hace es probar que un video corto enseña más que uno largo con el mismo contenido.
 
+## Lo que muestran los experimentos
+
+Los ensayos aleatorizados sí miden aprendizaje, y el video sale bien parado. La revisión de Noetel et al. (2021) reunió, según su resumen, 105 ensayos con 7.776 estudiantes universitarios:
+
+- Reemplazar un método de enseñanza existente por video mejoró poco el aprendizaje (g = 0,28).
+- Sumar video a la enseñanza existente lo mejoró mucho (g = 0,80).
+- Los autores advierten posibles sesgos de los experimentos y de publicación, y concluyen que es poco probable que el video perjudique.
+
+Intercalar preguntas en una clase grabada es una forma de sumar práctica al video. Szpunar, Khan y Schacter (2013) lo probaron en dos experimentos con clases en línea. Según su resumen, las pruebas de memoria intercaladas redujeron la distracción, aumentaron la toma de notas y mejoraron el aprendizaje. También se asociaron con menos ansiedad ante el examen final.
+
 > [!NOTE]
-> Sin fuente todavía: evidencia experimental sobre aprendizaje con video, como las preguntas incrustadas en el video. No se buscó en esta ronda. Los principios de Mayer para combinar palabras e imágenes están en [principios multimedia](../../Diseno-instruccional/Materiales-y-carga-cognitiva/principios-multimedia.md), de Diseño instruccional, y la carga de la memoria de trabajo frente a una pantalla, en [carga cognitiva](../../UX/Percepcion-y-decision/carga-cognitiva.md), del tema UX.
+> Sin fuente todavía: el texto completo de Szpunar et al. y de Noetel et al., con el tamaño de las muestras y de los efectos por tipo de video. Los principios de Mayer para combinar palabras e imágenes están en [principios multimedia](../../Diseno-instruccional/Materiales-y-carga-cognitiva/principios-multimedia.md), de Diseño instruccional, y la carga de la memoria de trabajo frente a una pantalla, en [carga cognitiva](../../UX/Percepcion-y-decision/carga-cognitiva.md), del tema UX.
 
 ## Dónde encaja en un curso
 
