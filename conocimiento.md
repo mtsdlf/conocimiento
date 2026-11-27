@@ -59,6 +59,10 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 - [Datos](Datos/datos.md) — el recorrido del dato hasta una decisión: modelado y almacenamiento, ingesta, gobierno y calidad
   (con privacidad en Argentina), análisis, estadística, analítica de producto y visualización; con rutas para aprender Data Analytics.
 
+## Idiomas
+
+- [Inglés](Ingles/ingles.md) — pasar del intermedio-alto al avanzado siendo hispanohablante: cómo aprende un adulto, pronunciación, gramática, léxico, discurso y práctica, con la evidencia de cada técnica; con Ruta.
+
 ## Deporte
 
 - [Golf](Golf/golf.md) — el juego, el equipo y la técnica básica para quien empieza; con Recorrido.
