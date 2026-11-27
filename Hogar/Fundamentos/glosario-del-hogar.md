@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos que usan las notas sobre el hogar, cada uno con una definición corta y la nota que lo desarrolla.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "INDEC, ENUT 2021, resultados definitivos, glosario y pp. 15 y 62 — https://www.estadisticasantafe.gob.ar/wp-content/uploads/sites/24/2022/10/enut_2021_resultados_definitivos.pdf (texto completo)"
@@ -20,7 +20,7 @@ fuentes:
   - "Hogar/.investigacion/ (todos los informes)"
 aliases: [términos del hogar, vocabulario del trabajo doméstico]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario del hogar

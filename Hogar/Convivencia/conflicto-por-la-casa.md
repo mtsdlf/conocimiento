@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El conflicto por la casa son las discusiones que nacen del trabajo de la casa: las tareas figuran entre lo que la gente cree que más importa en un matrimonio, el reclamo suele tomar la forma de demanda-retirada y no hay intervenciones probadas pensadas para este conflicto en particular.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Pew Research Center (2007), Modern Marriage: https://www.pewresearch.org/social-trends/2007/07/18/modern-marriage/ (texto completo del pasaje sobre tareas)"
@@ -22,7 +22,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [conflicto por la casa, peleas por las tareas, discusiones por la casa, conflicto por el trabajo doméstico, demanda-retirada, demand-withdraw, household conflict, chores conflict]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Conflicto por la casa

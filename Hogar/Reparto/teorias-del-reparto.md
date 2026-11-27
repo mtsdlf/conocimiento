@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las teorías del reparto son las explicaciones de por qué en una pareja una persona hace más tareas domésticas que la otra: los recursos relativos, la disponibilidad de tiempo, la ideología de género y el doing gender, cada una con una predicción distinta que la evidencia apoya solo en parte.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gough y Killewald 2011, Journal of Marriage and Family 73(5):1085-1100 — https://pmc.ncbi.nlm.nih.gov/articles/PMC3207314 (texto completo)"
@@ -19,7 +19,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [teorías de la división del trabajo doméstico, recursos relativos, disponibilidad de tiempo, ideología de género, doing gender, hacer género, neutralización de la desviación, deviance neutralization]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Teorías del reparto

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Mirar la casa como sistema es tratar a quienes conviven como partes que se afectan entre sí, con roles, límites y reglas que nadie escribió; la idea viene de la terapia familiar (Minuchin, Bowen y Olson), cuyos marcos tienen evidencia muy dispar y casi nunca estudiaron las tareas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Miller, Anderson y Keala (2004), Is Bowen theory valid? A review of basic research, Journal of Marital and Family Therapy 30: https://scholarsarchive.byu.edu/facpub/2454 (abstract; la ficha del repositorio dice 2007, la cita original 2004)"
@@ -18,7 +18,7 @@ fuentes:
   - "Hogar/.investigacion/vistazo.md"
 aliases: [la casa como sistema, teoría de sistemas familiares, family systems theory, terapia familiar estructural, structural family therapy, Minuchin, Bowen, diferenciación, triangulación, modelo circumplejo, circumplex model, Olson, FACES, roles familiares, reglas implícitas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # La casa como sistema

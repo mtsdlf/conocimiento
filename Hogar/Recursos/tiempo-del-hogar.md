@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El tiempo del hogar es cómo se reparten las horas de quienes conviven entre el trabajo pago, el trabajo de la casa y el tiempo libre. La literatura lo estudia con tres ideas: la pobreza de tiempo, la segunda jornada que queda al volver del empleo y un ocio que, además de ser menos, puede estar fragmentado o mezclado con cuidar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hochschild con Machung, The Second Shift (1989), ficha de la editorial — https://www.penguinrandomhouse.com/books/310593/the-second-shift-by-arlie-hochschild-with-anne-machung (resumen del buscador)"
@@ -16,7 +16,7 @@ fuentes:
   - "Hogar/.investigacion/recursos-y-fundamentos.md (sección A1)"
 aliases: [tiempo del hogar, uso del tiempo, pobreza de tiempo, time poverty, segunda jornada, doble jornada, second shift, ocio, tiempo libre, ocio contaminado, ocio fragmentado, multitarea]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tiempo del hogar

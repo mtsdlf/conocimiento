@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La convivencia es lo que el trabajo de la casa le hace al vínculo entre quienes viven juntos: los roles y las reglas que se arman sin decirlo, las discusiones que nacen de las tareas y quién define cuándo algo está limpio u ordenado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hogar/.investigacion/convivencia.md (informe de investigación, sección «Sobre la división del árbol» y huecos)"
@@ -12,7 +12,7 @@ fuentes:
   - "Newkirk, Perry-Jenkins y Sayer (2016), Sex Roles 76(5): https://pmc.ncbi.nlm.nih.gov/articles/PMC5365149 (texto completo, leído en parte)"
 aliases: [convivencia, vida en común, conflicto doméstico, dinámica de la casa, household dynamics]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Convivencia

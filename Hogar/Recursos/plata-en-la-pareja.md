@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La plata en la pareja es cómo dos personas que conviven juntan o separan sus ingresos, quién maneja el dinero y quién decide en qué se gasta. Juntar la plata no es lo mismo que decidir juntos: uno de los dos puede controlar el fondo común.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Olson, Rick, Small y Finkel 2023, «Common Cents: Bank Account Structure and Couples' Relationship Dynamics», Journal of Consumer Research 50(4):704-721, DOI 10.1093/jcr/ucad020 — https://ideas.repec.org/a/oup/jconrs/v50y2023i4p704-721..html (abstract)"
@@ -15,7 +15,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md (sección 3)"
 aliases: [plata en la pareja, dinero en la pareja, manejo del dinero en la pareja, cuentas conjuntas, cuenta conjunta, cuentas separadas, fondo común, pooling, money management in couples, sistemas de manejo del dinero]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Plata en la pareja

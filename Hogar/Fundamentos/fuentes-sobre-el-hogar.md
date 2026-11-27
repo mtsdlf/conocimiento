@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Dónde se produce el conocimiento sobre el hogar, cuánto pesa cada tipo de fuente y qué leer para empezar, con la parte que conviene y en qué fijarse. Buena parte de los estudios citados en la base se leyeron solo por su resumen, y cada nota lo dice.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Goldsmith, Foundations of Family Resource Management, 6.ª ed. (Routledge, 2023) — https://routledge.com/Foundations-of-Family-Resource-Management/Goldsmith/p/book/9780367763848 (página del editor)"
@@ -33,7 +33,7 @@ fuentes:
   - "Hogar/.investigacion/ (todos los informes, sección de huecos)"
 aliases: [bibliografía del hogar, dónde leer sobre el hogar, bibliografía del trabajo doméstico]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes sobre el hogar

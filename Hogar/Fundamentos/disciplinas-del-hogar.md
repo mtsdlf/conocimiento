@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El hogar lo estudian cinco campos con preguntas distintas: la economía doméstica y la administración de recursos familiares, la nueva economía del hogar, la sociología del trabajo doméstico, la economía feminista y del cuidado y la psicología de la familia. Cada uno nació en otro momento, mide otra cosa y llega a conclusiones que a veces chocan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Britannica, Ellen Swallow Richards — https://www.britannica.com/biography/Ellen-Swallow-Richards (resumen del buscador)"
@@ -28,7 +28,7 @@ fuentes:
   - "Hogar/.investigacion/vistazo.md"
 aliases: [campos que estudian el hogar, home economics, economía doméstica, family and consumer sciences, nueva economía del hogar, economía del cuidado, economía feminista]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Disciplinas del hogar

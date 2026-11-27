@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Hacer o tercerizar es la decisión de qué trabajo de la casa se hace con tiempo propio y cuál se paga para que lo haga otra persona, un servicio o una máquina. La evidencia separa dos preguntas: si comprar tiempo mejora el bienestar y si tercerizar cambia el reparto en la pareja.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Whillans, Dunn, Smeets, Bekkers y Norton (2017), Buying time promotes happiness, PNAS 114(32):8523-8527, abstract vía Europe PMC: https://doi.org/10.1073/pnas.1706541114"
@@ -25,7 +25,7 @@ fuentes:
   - "Hogar/.investigacion/gestion.md (sección 5) y posicion-contraria.md (sección 5)"
 aliases: [tercerizar, tercerización, externalizar, delegar tareas, comprar tiempo, outsourcing doméstico, buying time, servicio doméstico, paradoja de Cowan]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hacer o tercerizar

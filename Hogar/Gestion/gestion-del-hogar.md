@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La gestión del hogar es cómo se organiza y se decide el trabajo de una casa: quién se hace cargo de cada cosa, con qué rutinas, cuándo se revisa lo acordado y qué se paga para que lo haga otro.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Goldsmith, Foundations of Family Resource Management, 6.ª ed. (Routledge, 2023), página del editor con índice y descripción (no el libro): https://routledge.com/Foundations-of-Family-Resource-Management/Goldsmith/p/book/9780367763848"
@@ -10,7 +10,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md (sección 7, marcos de gestión)"
 aliases: [gestión, gestión de la casa, administración del hogar, organización de la casa, home management]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gestión del hogar

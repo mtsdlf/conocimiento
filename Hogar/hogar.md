@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Un hogar es una unidad que produce lo que la vida diaria necesita (comida, orden, cuidado, papeles), reparte ese trabajo entre quienes conviven y lo administra con tiempo, plata y espacio limitados; esta base explica cómo funciona esa dinámica con lo que estudian la sociología, la economía, la administración de recursos familiares y la psicología.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Goldsmith, Foundations of Family Resource Management (Routledge), índice: https://routledge.com/Foundations-of-Family-Resource-Management/Goldsmith/p/book/9780367763848"
   - "Hogar/.investigacion/vistazo.md"
 aliases: [hogar, casa, organización del hogar, dinámica del hogar, household]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hogar

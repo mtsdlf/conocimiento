@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las transiciones son los cambios de vida que reacomodan el reparto del trabajo de la casa, como el primer hijo, la pérdida del empleo o la jubilación; en cada una el trabajo total cambia y el reparto se mueve, casi siempre más para las mujeres que para los varones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Yavorsky, Kamp Dush y Schoppe-Sullivan 2015, Journal of Marriage and Family 77(3):662-679 — https://pmc.ncbi.nlm.nih.gov/articles/PMC4584401 (texto completo)"
@@ -13,7 +13,7 @@ fuentes:
   - "Hogar/.investigacion/reparto.md"
 aliases: [transiciones de vida, primer hijo, llegada de un hijo, transición a la parentalidad, desempleo, jubilación, life course transitions]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Transiciones

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las tareas domésticas son el trabajo visible y repetitivo que mantiene la casa en marcha: cocinar, limpiar, lavar la ropa y hacer las compras; es la parte del trabajo del hogar que más gente hace cada día, y su reparto cambió de forma lenta e incompleta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bianchi, Sayer, Milkie y Robinson (2012), Housework: Who Did, Does or Will Do It, and How Much Does It Matter?, Social Forces 91(1), 55-63: https://pmc.ncbi.nlm.nih.gov/articles/PMC4242525 (texto completo; tabla 1 y párrafo sobre core y other housework)"
@@ -15,7 +15,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [tareas domésticas, tareas del hogar, trabajo doméstico, quehaceres, housework, household chores, tareas rutinarias, tareas no rutinarias]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tareas domésticas

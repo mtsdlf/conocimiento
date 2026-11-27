@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El mantenimiento y los trámites son el trabajo sobre la casa como objeto y como organización: los arreglos y refacciones, que son ocasionales, y la administración de papeles, pagos, servicios y planes; el campo los estudia por separado, y la segunda parte está más cerca de la carga mental que de los arreglos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "BLS, ATUS, capítulo de conceptos (household activities y household management): https://www.bls.gov/opub/hom/atus/concepts.htm (texto completo)"
@@ -15,7 +15,7 @@ fuentes:
   - "Hogar/.investigacion/trabajo-del-hogar.md"
 aliases: [mantenimiento y trámites, mantenimiento del hogar, arreglos, reparaciones, refacciones, trámites, papeles, household management, home maintenance]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mantenimiento y trámites

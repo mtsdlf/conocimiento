@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trabajo de cuidado es atender a una persona del hogar que lo necesita (un chico, un mayor, alguien enfermo o con discapacidad): darle de comer, bañarla, acompañarla, enseñarle o vigilarla; se distingue de las tareas domésticas por su destinatario y se mide aparte en las encuestas de uso del tiempo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "INDEC, ENUT 2021, resultados definitivos, glosario y cuadro 14: https://www.estadisticasantafe.gob.ar/wp-content/uploads/sites/24/2022/10/enut_2021_resultados_definitivos.pdf (texto completo)"
@@ -12,7 +12,7 @@ fuentes:
   - "Hogar/.investigacion/recursos-y-fundamentos.md"
 aliases: [trabajo de cuidado, cuidado, cuidados, care work, childcare, cuidado de hijos, cuidado secundario, supervisión, cuidado directo, cuidado indirecto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trabajo de cuidado

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La reunión de la casa es un encuentro a intervalos fijos en que quienes conviven revisan cómo va la organización y acuerdan cambios. Viene del consejo familiar de la psicología adleriana y no tiene estudios de resultados que muestren que funcione.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dreikurs, Gould y Corsini, Family Council (1974), ficha bibliográfica, sin texto: https://ci.nii.ac.jp/ncid/BA72782469?l=en"
@@ -15,7 +15,7 @@ fuentes:
   - "Hogar/.investigacion/gestion.md (sección 4)"
 aliases: [reunión familiar, consejo familiar, family meeting, family council, check-in de pareja, reunión semanal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reunión de la casa

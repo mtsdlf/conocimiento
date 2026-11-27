@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El reparto es quién hace qué parte del trabajo de la casa y por qué: cómo se divide entre quienes conviven, qué lo explica, cómo se vive y cómo cambia en los momentos de la vida.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gough y Killewald 2011, Journal of Marriage and Family 73(5):1085-1100 — https://pmc.ncbi.nlm.nih.gov/articles/PMC3207314 (texto completo)"
@@ -20,7 +20,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [reparto del trabajo doméstico, división del trabajo doméstico, división de tareas, quién hace qué, household division of labor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reparto

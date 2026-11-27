@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los recursos del hogar son lo que una casa administra y lo que la limita: el tiempo de quienes conviven, la plata y el espacio de la vivienda. Ninguno se reparte solo; quién los tiene y quién los controla pesa en cómo se divide el trabajo de la casa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Goldsmith, Foundations of Family Resource Management (Routledge), índice en la página del editor: https://routledge.com/Foundations-of-Family-Resource-Management/Goldsmith/p/book/9780367763848 (índice completo; el libro no se leyó)"
@@ -12,7 +12,7 @@ fuentes:
   - "Hogar/.investigacion/vistazo.md (sección 1)"
 aliases: [recursos, recursos del hogar, recursos familiares, household resources, family resources]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recursos del hogar

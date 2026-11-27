@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trabajo del hogar es todo lo que hay que hacer, sin cobrar, para que una casa y quienes viven en ella funcionen: las tareas domésticas, el cuidado de personas, la carga mental de pensar y organizar, y el mantenimiento y los trámites.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "BEA, FAQ 1294, criterio de la tercera persona (la página no nombra a Reid; la atribución viene de un resumen del buscador y de bibliografía secundaria): https://www.bea.gov/help/faq/1294 (texto completo de la página)"
@@ -14,7 +14,7 @@ fuentes:
   - "Hogar/.investigacion/recursos-y-fundamentos.md"
 aliases: [trabajo del hogar, trabajo doméstico no remunerado, trabajo no remunerado, household labor, unpaid work, producción del hogar, household production]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Trabajo del hogar

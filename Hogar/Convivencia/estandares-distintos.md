@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los estándares distintos son la diferencia entre lo que cada conviviente considera limpio u ordenado: quien nota el desorden antes tiende a hacer más, a las mujeres se les exige más la casa limpia, y ningún estudio midió todavía cuánto de la diferencia en horas del reparto explica esa diferencia de vara.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Arizona State University, nota sobre los umbrales de tolerancia de Alberts: https://news.asu.edu/content/division-household-chores-may-depend-ones-mess-tolerance (texto completo)"
@@ -16,7 +16,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [estándares distintos, estándares de limpieza, vara de limpio, umbral de tolerancia al desorden, mess tolerance, housekeeping standards, desorden y estrés, desorden y cortisol]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estándares distintos

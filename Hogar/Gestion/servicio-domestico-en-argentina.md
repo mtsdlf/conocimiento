@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El régimen del servicio doméstico en Argentina es la Ley 26.844, que regula el trabajo en casas particulares: qué relaciones cubre, la obligación de registrar a quien trabaja y dónde se publican los salarios mínimos vigentes.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 26.844, texto en InfoLEG (copia de la OIT), texto completo: https://webapps.ilo.org/static/spanish/buenos-aires/trabajo-infantil/resource/docs/sabermas/normativa/Ley26844.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Hogar/.investigacion/recursos-y-fundamentos.md (sección D)"
 aliases: [Ley 26.844, casas particulares, empleada doméstica, personal de casas particulares, régimen de casas particulares]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Servicio doméstico en Argentina

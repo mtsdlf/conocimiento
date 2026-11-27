@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El espacio de la vivienda es cuánto lugar tiene una casa y cómo se reparte entre quienes viven en ella. Lo mejor estudiado es el hacinamiento, que se asocia con peor bienestar de los chicos; sobre metros por persona, la cocina o la vivienda argentina casi no hay evidencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Solari y Mare 2012, Social Science Research 41(2):464-476 — https://pmc.ncbi.nlm.nih.gov/articles/PMC3805127 (texto completo, leído con un extractor que resume)"
@@ -12,7 +12,7 @@ fuentes:
   - "Hogar/.investigacion/recursos-y-fundamentos.md (sección A3)"
 aliases: [espacio, espacio de la vivienda, vivienda, hacinamiento, crowding, metros por persona, espacio para trabajar en casa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Espacio de la vivienda

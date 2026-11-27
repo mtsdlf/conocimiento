@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El ciclo de gestión es el modelo con que la administración de recursos familiares describe cómo se maneja una casa: fijar metas, ver qué recursos hay, decidir, planificar, ejecutar y evaluar, y volver a empezar con lo aprendido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Goldsmith, Foundations of Family Resource Management, 6.ª ed. (Routledge, 2023), página del editor con índice y descripción, no el libro: https://routledge.com/Foundations-of-Family-Resource-Management/Goldsmith/p/book/9780367763848"
@@ -17,7 +17,7 @@ fuentes:
   - "Hogar/.investigacion/gestion.md (sección 1) y posicion-contraria.md (sección 7)"
 aliases: [modelo de gestión, proceso de gestión, family resource management, administración de recursos familiares, management cycle]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ciclo de gestión

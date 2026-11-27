@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La carga mental es el trabajo de pensar la casa: anticipar lo que va a hacer falta, buscar opciones, decidir y monitorear que se haga; es una dimensión que atraviesa la cocina, el cuidado y los arreglos, y la evidencia de cuánto se reparte depende de cómo se mida.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Daminger (2019), The Cognitive Dimension of Household Labor, American Sociological Review 84(4), 609-633, doi 10.1177/0003122419859007: https://inequality.hks.harvard.edu/publications/cognitive-dimension-household-labor (abstract)"
@@ -20,7 +20,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [carga mental, mental load, trabajo cognitivo, cognitive labor, trabajo invisible, carga invisible, invisible family load, trabajo emocional, emotion work]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Carga mental

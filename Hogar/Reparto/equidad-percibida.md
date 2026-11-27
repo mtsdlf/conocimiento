@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La equidad percibida es si cada miembro de la pareja juzga justo el reparto del trabajo de la casa, más allá de cuántas horas hace cada uno; muchas personas ven justo un reparto desigual, y ese juicio se asocia con la satisfacción y el conflicto en la pareja.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Lennon y Rosenfield 1994, American Journal of Sociology 100(2):506-531 — https://www.journals.uchicago.edu/doi/10.1086/230545 (abstract y extractos)"
@@ -22,7 +22,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [justicia percibida, equidad del reparto, percepción de justicia, perceived fairness, fairness]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Equidad percibida

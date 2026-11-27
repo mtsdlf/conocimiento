@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El trabajo del hogar se mide sobre todo con encuestas de uso del tiempo, que piden un diario de un día o preguntan cuántas horas por semana. Las preguntas directas inflan las horas en varios estudios y en los dos sexos, el diario también tiene sesgos, y ninguna de las dos capta bien la carga mental.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Kan 2008, Social Indicators Research — https://link.springer.com/doi/10.1007/s11205-007-9184-5 ; versión ISER 2006-11: https://www.iser.essex.ac.uk/wp-content/uploads/files/working-papers/iser/2006-11.pdf (abstract)"
@@ -22,7 +22,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [encuestas de uso del tiempo, medir el trabajo doméstico, time use survey, diario de actividad, pregunta estilizada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cómo se mide el trabajo del hogar

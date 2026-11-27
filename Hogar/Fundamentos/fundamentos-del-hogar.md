@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema del hogar sin ser una parte de él: qué disciplinas lo estudian, cómo se mide el trabajo de la casa, los mitos más repetidos, las cifras argentinas de la ENUT 2021, las fuentes y el glosario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "INDEC, ENUT 2021, resultados definitivos — https://www.estadisticasantafe.gob.ar/wp-content/uploads/sites/24/2022/10/enut_2021_resultados_definitivos.pdf (texto completo)"
@@ -11,7 +11,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [fundamentos del hogar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos del hogar

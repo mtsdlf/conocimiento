@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las rutinas y los sistemas de una casa son las formas fijas de hacer el trabajo (horarios, listas, turnos, reglas de cuándo algo está hecho) que evitan decidir todo de nuevo cada vez. La evidencia que hay es sobre rutinas familiares y caos del hogar, casi toda con niños y correlacional.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Fiese et al. (2002), Journal of Family Psychology 16(4):381-390, abstract vía Europe PMC: https://pubmed.ncbi.nlm.nih.gov/12561283/"
@@ -20,7 +20,7 @@ fuentes:
   - "Hogar/.investigacion/gestion.md (sección 3) y posicion-contraria.md (sección 6)"
 aliases: [rutinas familiares, rituales familiares, sistemas de la casa, caos del hogar, household chaos, CHAOS, listas y turnos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Rutinas y sistemas

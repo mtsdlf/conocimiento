@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las afirmaciones sobre el trabajo de la casa que se repiten sin evidencia o con evidencia distinta de la que se cree, cada una con lo que dicen los estudios: que los varones ya hacen la mitad, que la tecnología ahorra trabajo, que las mujeres son mejores en la multitarea, que Fair Play funciona, el «mes extra» de Hochschild, que cuando ella gana más se reparte parejo y que solo ellos exageran lo que hacen.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bianchi, Sayer, Milkie y Robinson 2012, Social Forces 91(1):55-63 — https://pmc.ncbi.nlm.nih.gov/articles/PMC4242525 (texto completo)"
@@ -30,7 +30,7 @@ fuentes:
   - "Hogar/.investigacion/gestion.md"
 aliases: [mitos sobre el trabajo doméstico, creencias sobre el reparto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos del hogar

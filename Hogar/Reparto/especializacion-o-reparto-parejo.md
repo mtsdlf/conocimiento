@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Especializarse es que cada miembro de la pareja se concentre en un tipo de trabajo, uno en el pago y otro en la casa; repartir parejo es que los dos hagan de todo. La economía justificó la especialización por la ventaja comparativa, pero la evidencia reciente le da poco apoyo y no muestra que sea más eficiente ni más satisfactoria.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Pollak 2003, Gary Becker's contributions to family and household economics, Review of Economics of the Household 1(1):111-141 — https://nber.org/papers/w9232 (abstract y caracterización en un artículo; Becker no se leyó en el original)"
@@ -16,7 +16,7 @@ fuentes:
   - "Hogar/.investigacion/posicion-contraria.md"
 aliases: [especialización, ventaja comparativa, modelo de Becker, negociación en la pareja, bargaining, reparto igualitario, especialización de roles]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Especialización o reparto parejo

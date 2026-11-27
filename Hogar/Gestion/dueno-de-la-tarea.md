@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ser dueño de una tarea es hacerse cargo de ella de punta a punta (darse cuenta de que hace falta, pensar cómo, decidir, hacerla y controlar que quedó), a diferencia de ayudar, que es ejecutar lo que otra persona pensó y pidió.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Daminger (2019), The Cognitive Dimension of Household Labor, American Sociological Review 84(4), abstract: https://doi.org/10.1177/0003122419859007"
@@ -19,7 +19,7 @@ fuentes:
   - "Hogar/.investigacion/gestion.md (sección 2) y posicion-contraria.md (secciones 1 y 7)"
 aliases: [hacerse cargo, responsable de la tarea, ayudar en la casa, manager y helper, ownership, gatekeeping, maternal gatekeeping, gatekeeping materno, cuidar la puerta, Fair Play]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dueño de la tarea
