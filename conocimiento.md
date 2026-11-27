@@ -86,6 +86,11 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 - [Comercio electrónico](Comercio-electronico/comercio-electronico.md) — el dominio de vender online: plataformas de tiendas y sus apps, pagos y cuotas, checkout y conversión, operaciones, venta en varios canales y normativa argentina, con fichas fechadas por plataforma.
 
+## Familia
+
+- [Crianza](Crianza/crianza.md) — criar a un chico de 0 a 6 años: desarrollo y bilingüismo, altas capacidades, vínculo, emociones, límites, juego y pantallas, salud y rutinas, y escuela, con la evidencia de cada idea.
+- [Nutrición](Nutricion/nutricion.md) — comer bien en familia: alimentos y guías, alimentación infantil, la mesa compartida, objetivos del adulto (bajar grasa, ganar músculo, rendir, salud) y planificar la semana.
+
 ## Animales
 
 - [Adiestramiento canino](Adiestramiento-canino/adiestramiento-canino.md) — educar al perro de la casa, con foco en el teckel: cómo aprende, las técnicas y herramientas (ahorque incluido), las habilidades de todos los días, los problemas de conducta y la columna de la raza, con la evidencia de cada idea.
