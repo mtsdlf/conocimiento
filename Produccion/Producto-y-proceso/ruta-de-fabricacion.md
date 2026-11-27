@@ -82,6 +82,8 @@ La segunda acepción viene con dos fórmulas más. La utilización es «hours ac
 
 Las dos acepciones apuntan en el mismo sentido (más eficiencia, más trabajo por hora), pero se cargan distinto: una es un parámetro que se fija en el centro; la otra, un resultado que se mide después. Un sistema que guarda la primera y un tablero que informa la segunda pueden mostrar «eficiencia» con dos números que no se pueden comparar (inferencia de la base).
 
+Las dos palabras aparecen otra vez en el tema con otros sentidos. La [eficiencia global del equipo](../Ejecucion-en-planta/eficiencia-global-del-equipo.md) (OEE) es otra medida, con sus tres factores, y la utilización de su variante TEEP divide el tiempo planificado por todo el calendario. La variación de eficiencia del [costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md#las-variaciones-de-la-orden-y-las-del-período) es la segunda acepción valorizada: horas reales menos horas estándar, por la tarifa.
+
 > [!NOTE] Sin fuente todavía: las definiciones de capacidad nominal, utilización y eficiencia del diccionario de APICS, leídas en el texto. Hasta entonces, la fórmula de la capacidad nominal tiene una sola fuente de baja confianza.
 
 ## Fórmula o receta en la fabricación por procesos

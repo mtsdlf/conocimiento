@@ -60,7 +60,7 @@ El costo de la calidad mide cuánto gasta una empresa en que el producto salga b
 
 Según la biografía de ASQ, Feigenbaum fue el primero en caracterizar los costos de la calidad como de prevención, evaluación y fallas internas y externas. El mismo resultado de búsqueda recoge un debate: la teoría tradicional supone un nivel óptimo de esfuerzo que minimiza el costo total, y los defensores de la calidad total sostienen que la prevención y la evaluación cuestan menos, y las fallas más, de lo que supone ese modelo.
 
-Los datos salen de otras partes del tema. Las fallas internas son las piezas rechazadas, reprocesadas o desechadas que registra la [no conformidad](no-conformidad.md); su costo se carga en el [costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md). Las fallas externas llegan como reclamo por [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md) (inferencia de la base).
+Los datos salen de otras partes del tema. Las fallas internas son las piezas rechazadas, reprocesadas o desechadas que registra la [no conformidad](no-conformidad.md); su costo sale de los registros de la orden ([costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md)), y adónde va lo dice [Costos de producción](../Costos-de-produccion/costos-de-produccion.md#mermas-rechazos-y-reproceso-normal-frente-a-anormal). Las fallas externas llegan como reclamo por [Servicio al cliente](../../Servicio-al-cliente/servicio-al-cliente.md) (inferencia de la base).
 
 > [!NOTE] Sin fuente todavía: la definición literal de las cuatro categorías (ASQ) y el texto de Feigenbaum (Total Quality Control, 1951).
 
@@ -117,6 +117,6 @@ Como criterio de la base, a partir de lo que las fuentes de cada nota marcan:
 
 - [Plan de inspección](plan-de-inspeccion.md): qué se controla, dónde, contra qué y cada cuánto, y el muestreo de aceptación por atributos con su tabla.
 - [Control estadístico de procesos](control-estadistico-de-procesos.md): gráficos de control, causas por azar y asignables, reglas para leer el gráfico y capacidad del proceso (Cp y Cpk).
-- [No conformidad](no-conformidad.md): registrar y apartar lo que no cumple, y decidir qué hacer con eso (reprocesar, reparar, usar como está, desechar, devolver).
+- [No conformidad](no-conformidad.md): registrar y apartar lo que no cumple, y decidir qué hacer con eso (reprocesar, reparar, usar como está con concesión, desechar, devolver al proveedor).
 - [Acción correctiva](accion-correctiva.md): corrección, acción correctiva y preventiva, CAPA, 8D, 5 porqués, Ishikawa y la verificación de la eficacia.
 - [Trazabilidad de lotes](trazabilidad-de-lotes.md): la genealogía del lote fabricado, el rastreo hacia atrás y hacia adelante y el retiro.

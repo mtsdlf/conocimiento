@@ -51,11 +51,13 @@ Lo que sale de una orden se reparte en cuatro destinos:
 | Salida | Qué es (criterio de la base) | Adónde va |
 |---|---|---|
 | Producto bueno | lo que cumple | depósito de terminados |
-| Rechazo | una pieza que salió y no cumple | se aparta y se abre una [no conformidad](../Calidad/no-conformidad.md), que decide si se desecha, se reprocesa o se acepta |
+| Rechazo | una pieza que salió y no cumple | se aparta y se abre una [no conformidad](../Calidad/no-conformidad.md), que decide la disposición: reprocesar, reparar, usar como está con concesión, desechar o devolver al proveedor |
 | Merma | material o producto que se pierde en el proceso y no sale como pieza | se registra como pérdida de la orden; el desecho con valor, a un depósito de desecho |
 | Subproducto o coproducto | otra salida del mismo proceso | su propio depósito, con su cantidad |
 
 Para el desecho, el sistema abierto pide un lugar: «If the BOM results in Scrap material, the Scrap Warehouse needs to be selected». Para la merma de una operación tiene una regla propia, según el resumen: la pérdida de proceso «will be calculated only when the Pending Qty is zero»; con 10 a fabricar y 6 terminadas, al cerrar la operación «the remaining 4 become process loss». Es una decisión de ese sistema, no un estándar.
+
+Merma, rechazo, desecho y reproceso tienen un sentido cada uno en todo el tema (criterio de la base). Merma es la cantidad que se pierde en el proceso. Rechazo es la pieza que salió y no cumple. Desecho es lo que se da de baja físicamente: el sobrante de la merma, como un recorte, o las piezas que la no conformidad dispuso desechar; puede tener valor de recupero. Reproceso es el trabajo que deja conforme una pieza rechazada. Desechar y reprocesar son dos de las disposiciones que define [no conformidad](../Calidad/no-conformidad.md#las-disposiciones-posibles).
 
 La lista ya trae una merma normal por componente y un rendimiento esperado, como explica [lista de materiales](../Producto-y-proceso/lista-de-materiales.md#merma-del-componente-y-rendimiento-de-la-salida). Lo que se declara es la merma real; la diferencia entre las dos es la variación de uso de material. Dónde va el costo de la merma normal, la anormal y el reproceso lo decide [Costos de producción](../Costos-de-produccion/costos-de-produccion.md). La merma que aparece en el depósito al contar es otra cosa y es de Inventario: ver [ajustes y mermas](../../Inventario-y-depositos/Control-del-stock/ajustes-y-mermas.md).
 
@@ -72,7 +74,7 @@ En el tema, la base sigue a la NIC 2 (criterio de la base): coproducto es una sa
 
 La genealogía de un lote fabricado no se carga aparte: sale de estos registros. Cada entrega o consumo tiene que decir qué lote de componente se usó, y cada declaración, qué lote salió. Con eso, saber qué lotes de terminado llevan un componente malo es una consulta, como explica [trazabilidad de lotes](../Calidad/trazabilidad-de-lotes.md). El lote como atributo del stock es de Inventario, en [lote y serie](../../Inventario-y-depositos/Existencias/lote-y-serie.md).
 
-El consumo automático complica esto: si el sistema descuenta por la lista, tiene que elegir de qué lote descontar, y la regla que elija (el más viejo, el que vence antes) puede no ser el lote que de verdad se usó (inferencia de la base). Para un producto con trazabilidad obligatoria, el lote se declara a mano o se lee del envase.
+El consumo automático complica esto: si el sistema descuenta por la lista, tiene que elegir de qué lote descontar, y la regla que elija (el más viejo, el que vence antes) puede no ser el lote que de verdad se usó (inferencia de la base). En los artículos que se siguen por lote, el consumo tiene que confirmar el lote, a mano o leyéndolo del envase, o la regla tiene que coincidir con lo que se hace en la línea. Es el mismo criterio de [trazabilidad de lotes](../Calidad/trazabilidad-de-lotes.md#qué-tiene-que-registrar-un-sistema).
 
 ## Qué guarda un sistema del consumo y la declaración
 

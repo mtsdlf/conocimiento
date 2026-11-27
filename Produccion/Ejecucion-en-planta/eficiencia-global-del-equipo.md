@@ -36,7 +36,7 @@ Las fórmulas más difundidas son las de un sitio de divulgación de un proveedo
 | Rendimiento | «(Ideal Cycle Time × Total Count) / Run Time» | la velocidad: produce menos de lo que podría mientras anda |
 | Calidad | «Good Count / Total Count» | las piezas que no salen buenas |
 
-El tiempo ideal de ciclo es «the fastest cycle time that your process can achieve in optimal circumstances». Multiplicados, los tres factores se simplifican: la OEE es igual a piezas buenas por tiempo ideal de ciclo, sobre el tiempo planificado (cuenta de la base sobre las fórmulas). Es el tiempo que habría hecho falta para las piezas buenas, sobre el que había.
+El tiempo ideal de ciclo es «the fastest cycle time that your process can achieve in optimal circumstances». Es un tiempo por pieza en el equipo; el tiempo de ciclo de la [ley de Little](ejecucion-en-planta.md#la-ley-de-little-ordena-la-planta) es otra medida: lo que tarda una orden desde que se libera hasta que termina su ruta. Multiplicados, los tres factores se simplifican: la OEE es igual a piezas buenas por tiempo ideal de ciclo, sobre el tiempo planificado (cuenta de la base sobre las fórmulas). Es el tiempo que habría hecho falta para las piezas buenas, sobre el que había.
 
 En este tema, rendimiento es el segundo factor de la OEE. No es el rendimiento de la [lista de materiales](../Producto-y-proceso/lista-de-materiales.md#merma-del-componente-y-rendimiento-de-la-salida), que mide cuánto producto sale de lo que entra.
 
@@ -96,7 +96,7 @@ Según el resumen de un buscador, la norma calcula la disponibilidad como APT so
 
 ## TEEP: la OEE sobre todo el calendario
 
-La OEE no mira el tiempo que no se planificó usar el equipo. La TEEP sí: según el mismo sitio, «TEEP = OEE × Utilization», con «Utilization = Planned Production Time / All Time». Su ejemplo: un equipo con 65 % de OEE, programado 80 de las 168 horas de la semana, tiene 47,62 % de utilización y 30,95 % de TEEP (la base rehízo la cuenta). Wikipedia llama a la utilización «Loading». Como inferencia de la base, la OEE dice si se aprovecha el tiempo planificado y la TEEP, si hay capacidad ociosa para sumar turnos antes de comprar otra máquina.
+La OEE no mira el tiempo que no se planificó usar el equipo. La TEEP sí: según el mismo sitio, «TEEP = OEE × Utilization», con «Utilization = Planned Production Time / All Time». Su ejemplo: un equipo con 65 % de OEE, programado 80 de las 168 horas de la semana, tiene 47,62 % de utilización y 30,95 % de TEEP (la base rehízo la cuenta). Wikipedia llama a la utilización «Loading». No es la utilización de la [ruta de fabricación](../Producto-y-proceso/ruta-de-fabricacion.md#eficiencia-y-utilización-dos-acepciones-de-eficiencia), que divide las horas trabajadas por las disponibles: esta divide el tiempo planificado por todo el calendario. Como inferencia de la base, la OEE dice si se aprovecha el tiempo planificado y la TEEP, si hay capacidad ociosa para sumar turnos antes de comprar otra máquina.
 
 ## El 85 % de clase mundial
 
@@ -129,4 +129,4 @@ La defensa es guardar la definición junto al número: qué entra en el tiempo p
 - Por turno: piezas producidas, buenas y rechazadas, que salen de la [declaración de producción](consumo-y-declaracion.md#la-declaración-de-producción).
 - La definición usada, para que dos números se puedan comparar.
 
-Los sistemas abiertos leídos no calculan la OEE: la hoja de cada operación guarda tiempos y cantidades, y uno guarda la meta de OEE del centro. En papel alcanza una planilla por turno con las paradas al minuto y el conteo de piezas.
+Los sistemas abiertos leídos no calculan la OEE: la [hoja de cada operación](orden-de-produccion.md#la-hoja-de-cada-operación) guarda tiempos y cantidades, y uno guarda la meta de OEE del centro. En papel alcanza una planilla por turno con las paradas al minuto y el conteo de piezas.

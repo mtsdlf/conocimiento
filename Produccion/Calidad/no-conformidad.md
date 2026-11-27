@@ -34,7 +34,7 @@ Las clasifica en dos grupos. La menor no afecta la salud o la seguridad, el dese
 
 El primer paso es que lo malo no siga camino. ISO 9001:2015, en la cláusula 8.7.1, pide según una consultora que las salidas que no cumplen «are identified and controlled to prevent their unintended use or delivery». El texto de la norma no se leyó: es de pago.
 
-Apartar tiene dos lados. En la línea, se separan las piezas o se frena la [orden de producción](../Ejecucion-en-planta/orden-de-produccion.md); los rechazos se declaran como cantidad rechazada en [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md). En el depósito, lo que ya entró pasa a un estado que no se puede usar. Ese estado (cuarentena o bloqueado) es de Inventario y está en [estados del stock](../../Inventario-y-depositos/Existencias/estados-del-stock.md); acá se decide cuándo se levanta.
+Apartar tiene dos lados. En la línea, se separan las piezas o se detiene la [orden de producción](../Ejecucion-en-planta/orden-de-produccion.md); los rechazos se declaran como cantidad rechazada en [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md). En el depósito, lo que ya entró pasa a un estado que no se puede usar. Ese estado (cuarentena o bloqueado) es de Inventario y está en [estados del stock](../../Inventario-y-depositos/Existencias/estados-del-stock.md); acá se decide cuándo se levanta.
 
 Si el problema puede estar en otros lotes, la [trazabilidad de lotes](trazabilidad-de-lotes.md) dice cuáles llevan el mismo componente o salieron de la misma orden, y también se apartan (criterio de la base).
 
@@ -56,7 +56,7 @@ Reclasificar, es decir, aceptar la pieza como un producto de menor grado o con o
 
 > [!NOTE] Sin fuente todavía: la reclasificación como disposición, y una lista de disposiciones de una norma vigente.
 
-La devolución al proveedor sigue en Compras, en [diferencias y devoluciones](../../Compras-y-abastecimiento/Seguimiento-de-la-orden/diferencias-y-devoluciones.md), y cuenta en su [evaluación](../../Compras-y-abastecimiento/Proveedores/evaluacion-de-proveedores.md). El desecho y el reproceso se cargan al [costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md); dónde va ese costo lo decide [Costos de producción](../Costos-de-produccion/costos-de-produccion.md).
+La devolución al proveedor sigue en Compras, en [diferencias y devoluciones](../../Compras-y-abastecimiento/Seguimiento-de-la-orden/diferencias-y-devoluciones.md), y cuenta en su [evaluación](../../Compras-y-abastecimiento/Proveedores/evaluacion-de-proveedores.md). El material y las horas del desecho y del reproceso quedan registrados en la orden, de donde sale el [costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md). Si ese costo queda en la orden, va a la carga fabril o es pérdida del período lo decide [Costos de producción](../Costos-de-produccion/costos-de-produccion.md#mermas-rechazos-y-reproceso-normal-frente-a-anormal).
 
 ## Quién decide: revisión preliminar y comité
 

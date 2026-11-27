@@ -68,7 +68,7 @@ Cuando un componente cambia, queda material de la versión vieja en el depósito
 |---|---|
 | Sin cambio | es lo que propone por defecto («No change required») |
 | Desechar | se tira al implementar; en el depósito, en proceso o en los dos |
-| Retrabajar | se adapta a la versión nueva; en el depósito, en proceso o en los dos |
+| Reprocesar | se adapta a la versión nueva; en el depósito, en proceso o en los dos |
 | Usar hasta agotar | se sigue usando la versión vieja hasta que se acabe, en el depósito y en proceso o solo en proceso |
 | Usar hasta un número de serie | se sigue usando hasta una unidad determinada |
 

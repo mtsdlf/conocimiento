@@ -56,6 +56,8 @@ Las cuentas verifican (20 − 15 = 5; 5 − 20 + 20 = 5; 5 − 50 + 100 = 55; ha
 
 Cada orden se corre hacia atrás por su plazo: con «Lead times are 1 week», el lanzamiento «must occur one week before delivery is required» (MIT). Los lanzamientos del padre son las necesidades del hijo: «The planned order releases for Level 0 are the gross requirements for Level 1», y así en cada nivel. El MRP procesa por [código de nivel más bajo](../Producto-y-proceso/lista-de-materiales.md#código-de-nivel-más-bajo), para netear una sola vez un componente que aparece en varias ramas. Los apuntes de Houston agregan el rendimiento: el lanzamiento se ajusta «by the yield percentage», y 300 unidades con 98 % piden 306.
 
+El plazo es un dato fijo de cada artículo: el cálculo no lo alarga cuando la planta está cargada, ni mira si las horas alcanzan. El MIT lo formula como un modelo «deterministic» y de «infinite capacity». Qué pasa cuando el plan no entra está en [planificación de capacidad](planificacion-de-capacidad.md#carga-infinita-y-carga-finita), y lo que la evidencia dice de planificar con plazos fijos, en [fundamentos de producción](../Fundamentos/fundamentos-de-produccion.md#lo-que-la-evidencia-discute-de-las-ideas-más-repetidas).
+
 Las diapositivas de SMU encadenan tres niveles. Un subconjunto con lote de 15, plazo de 3 semanas y 10 en stock necesita 3 en el período 2, 8 en el 7 y 10 en el 10. El saldo baja a 7 y en el 7 daría −1: hace falta recibir 15 en el período 7, que se lanzan en el 4, y el saldo queda en 14 y después en 4. Ese lanzamiento es una necesidad de 15 del componente de abajo, con su propio plazo de 3 semanas, que lanza en el período 1. En el tercer nivel, una pieza con 11 en stock pasa por −4 antes de que una recepción programada de 25 la lleve a 21. Las cuentas son de la base sobre las filas de la fuente, que salen desalineadas. Un saldo negativo con una recepción ya en camino no pide una orden nueva: pide adelantar la que existe, que es un mensaje de acción (lectura de la base).
 
 ## Lotificación: cuánto pedir de una vez
@@ -106,7 +108,7 @@ Las barreras del [plan maestro](plan-maestro-de-produccion.md#barreras-y-zonas-d
 
 ## Rastreo de la demanda
 
-El rastreo («pegging»), según Tesalia, «allows the planner to see the demand from which a planned order release arises, by providing a link from the gross requirements of an item to all its sources of demand». Sirve para replanificar desde abajo: si falta un componente, el planificador ve qué pedido de cliente se atrasa. Contra pedido, el vínculo llega al pedido de venta.
+El rastreo («pegging»), según Tesalia, «allows the planner to see the demand from which a planned order release arises, by providing a link from the gross requirements of an item to all its sources of demand». Sirve para replanificar desde abajo: si falta un componente, el planificador ve qué pedido de cliente se atrasa. Cuando se [fabrica contra pedido](fabricar-para-stock-o-contra-pedido.md), el vínculo llega al pedido de venta.
 
 ## Regenerativo o de cambio neto
 

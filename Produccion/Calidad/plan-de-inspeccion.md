@@ -102,7 +102,7 @@ Las reglas de cambio son lo que presiona al proveedor o a la línea: si los lote
 | Rigurosa | Normal | 5 lotes consecutivos aceptados en la inspección original (4.7.2) |
 | Normal | Reducida | se cumplen todas: los 10 lotes anteriores aceptados en normal; defectuosos totales dentro del límite de la Tabla VIII; producción a ritmo estable; y la reducida «is considered desirable» (4.7.3) |
 | Reducida | Normal | basta una: un lote rechazado; un lote entre aceptación y rechazo; «Production becomes irregular or delayed»; u otra condición que lo justifique (4.7.4) |
-| Rigurosa | Suspensión | cinco lotes no aceptados acumulados en la secuencia rigurosa; no se reanuda sin acción correctiva (4.8, parcialmente ilegible) |
+| Rigurosa | Suspensión | cinco lotes no aceptados acumulados en la secuencia rigurosa; no se reanuda sin [acción correctiva](accion-correctiva.md) (4.8, parcialmente ilegible) |
 
 La Tabla VIII, con los números límite para pasar a reducida, no se leyó. Para la teoría (la curva característica, los planes secuenciales) sirve el capítulo 6.2 de NIST, que no trae la tabla y nombra la «MIL Standard 105D», la edición anterior.
 

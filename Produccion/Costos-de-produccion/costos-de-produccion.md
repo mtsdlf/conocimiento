@@ -50,11 +50,13 @@ Producción guarda cantidades y las cuenta por orden; Contabilidad decide cómo 
 | Las variaciones de cada orden y su causa en la planta | El análisis de desvíos en general, en [presupuesto](../../Contabilidad/Contabilidad-de-gestion/presupuesto.md) |
 | La tasa por hora de cada centro de trabajo, como dato de la ruta | Qué es fijo, variable, directo o indirecto, en [clasificación de costos](../../Contabilidad/Contabilidad-de-gestion/clasificacion-de-costos.md), y cómo se reparte la carga fabril entre [centros de costo](../../Contabilidad/Contabilidad-de-gestion/centros-de-costo.md) |
 
+Este tema llama variación a lo que Contabilidad llama desvío: la diferencia entre lo real y el estándar. Es un solo concepto con dos nombres; las fórmulas de la planta están en [costo real de la orden](costo-real-de-la-orden.md#las-variaciones-de-la-orden-y-las-del-período).
+
 El centro de trabajo no es el centro de costo. El primero es un lugar de la planta donde se hace una operación, con su capacidad y su tasa; el segundo, un área cuyo responsable responde por un gasto. Que cada centro de trabajo cuelgue de un centro de costo y saque su tasa de ese reparto es inferencia de la base. Si la empresa costea por procesos, la producción en proceso se mide en unidades equivalentes, que están en sistemas de costeo; este tema trabaja con órdenes.
 
 ## Mermas, rechazos y reproceso: normal frente a anormal
 
-Toda fabricación pierde algo: material que se corta, piezas que salen mal, unidades que hay que rehacer. Las normas contestan igual si esa pérdida es costo del producto: lo normal va al producto y lo anormal, a resultados del período.
+Toda fabricación pierde algo: material que se corta, piezas que salen mal, unidades que hay que rehacer. Las normas contestan igual si esa pérdida es costo del producto: lo normal va al producto y lo anormal, a resultados del período. Merma, rechazo, desecho y reproceso se usan acá con el sentido que les da [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md#la-declaración-de-producción).
 
 La Resolución Técnica 17 de la FACPCE, norma contable argentina, lo dice literal. Su sección 4.2.6 suma al costo de un bien producido los materiales, los costos de conversión «tanto variables como fijos» y los financieros asignables, y lo recorta:
 
@@ -85,7 +87,7 @@ Una fuente de divulgación (según el resumen) dice que el rechazo normal «is i
 
 ### Qué decide la planta y qué decide el costo
 
-La decisión sobre la pieza rechazada (desechar, reprocesar, aceptar con concesión) es de Calidad y se registra como [no conformidad](../Calidad/no-conformidad.md). La declaración de la merma, del desecho que se vende y del subproducto es de [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md). Acá se decide solo dónde va su costo. La merma que aparece en el depósito al contar (rotura, robo, vencimiento) es otra cosa y es de Inventario, en [ajustes y mermas](../../Inventario-y-depositos/Control-del-stock/ajustes-y-mermas.md).
+La decisión sobre la pieza rechazada (reprocesar, reparar, usar como está con concesión, desechar o devolver al proveedor) es de Calidad y se registra como [no conformidad](../Calidad/no-conformidad.md). La declaración de la merma, del desecho que se vende y del subproducto es de [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md). Acá se decide solo dónde va su costo. La merma que aparece en el depósito al contar (rotura, robo, vencimiento) es otra cosa y es de Inventario, en [ajustes y mermas](../../Inventario-y-depositos/Control-del-stock/ajustes-y-mermas.md).
 
 ## Qué guarda un sistema para costear la producción
 

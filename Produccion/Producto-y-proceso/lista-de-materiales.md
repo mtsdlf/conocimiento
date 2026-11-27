@@ -43,11 +43,12 @@ Un ejemplo publicado con una lámpara muestra el árbol. La lámpara LA01 lleva 
 Los niveles son cuenta de la base sobre los datos de la fuente. Una lámpara lleva 6 tornillos 1400: 4 en la base y 2 en el zócalo. Esa suma de todas las ramas es la lista explotada, la que ve el depósito al preparar el material.
 
 Las cantidades se refieren a una cantidad base del producto, que va en la cabecera: un sistema abierto pide la «quantity of the Item that will be manufactured from this Bill of Materials». Una lista de pintura puede estar hecha para 100 litros y una de muebles para una unidad; la orden escala desde esa base.
+
 ## Merma del componente y rendimiento de la salida
 
 Son dos conceptos que los sistemas guardan por separado. La merma del componente dice que se consume más de lo que queda en el producto, como el recorte de una chapa. Se guarda como porcentaje por renglón. Un sistema comercial calcula la cantidad a costear como «Qty. Required * (1 + Scrap Factor)»: con 2 kg por unidad y 5 % de merma, se consumen 2,1 kg (cuenta de la base).
 
-El rendimiento mira la salida: de lo que entra, sale menos producto que lo teórico. Un sistema comercial pone en cada versión de fórmula el «yield», junto con los coproductos y subproductos. Un sistema abierto llama pérdida de proceso a la parte del mismo producto que se pierde, y la resta de lo producido.
+El rendimiento (yield) mira la salida: de lo que entra, sale menos producto que lo teórico. En este tema la palabra tiene ese sentido en la lista, en la fórmula y en el MRP. El rendimiento de la [eficiencia global del equipo](../Ejecucion-en-planta/eficiencia-global-del-equipo.md#los-tres-factores) es otra cosa: la velocidad a la que anda un equipo frente a la ideal. Un sistema comercial pone en cada versión de fórmula el «yield», junto con los coproductos y subproductos. Un sistema abierto llama pérdida de proceso a la parte del mismo producto que se pierde, y la resta de lo producido.
 
 > [!NOTE] Sin fuente todavía: las definiciones de «yield» y «scrap factor» del diccionario de APICS (ASCM), y si el campo considera la merma del componente y el rendimiento como dos conceptos o como uno.
 
@@ -85,9 +86,9 @@ En la lámpara, el tornillo 1400 aparece en el nivel 2 y en el 3: su código es 
 
 Algunas listas tienen más de una salida. Un sistema abierto define el subproducto como «a residual product that is created during production in addition to the main product», con producto, cantidad, unidad y, opcionalmente, la operación donde aparece. Su ejemplo es el residuo («Mush») que sale de moler la uva al hacer vino tinto. Un sistema comercial dice que la fórmula «describes co-products and by-products».
 
-En la lista, entonces, una salida extra es un renglón más, del lado de lo que sale. Cómo se registra en la planta lo que efectivamente salió está en [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md); qué pasa con su valor en el costo, en [costo estándar del producto](../Costos-de-produccion/costo-estandar-del-producto.md).
+En la lista, entonces, una salida extra es un renglón más, del lado de lo que sale. Los sistemas leídos usan los dos términos sin definir la diferencia. La base sigue a la NIC 2, párrafo 14 (criterio de la base): coproducto es una salida de valor comparable a la principal, que se lleva una parte del costo; subproducto es una salida secundaria de poco valor, que se mide por lo que se obtiene al venderla y se resta del costo del producto principal. El residuo de la uva del ejemplo es, en ese sentido, un subproducto. Las citas de la norma, el glosario que da los dos términos como sinónimos y cómo se registra en la planta lo que efectivamente salió están en [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md#subproducto-y-coproducto-la-norma-contable-y-un-glosario-no-coinciden).
 
-> [!NOTE] Sin fuente todavía: la distinción del campo entre coproducto y subproducto, y sus consecuencias en el costeo. Los sistemas leídos usan los dos términos sin definir la diferencia.
+> [!NOTE] Sin fuente todavía: las definiciones de coproducto y subproducto del diccionario de ASCM, y cómo entra cada uno en la acumulación del costo estándar, que [costo estándar del producto](../Costos-de-produccion/costo-estandar-del-producto.md) todavía no cubre.
 
 ## Qué guarda una lista de materiales
 

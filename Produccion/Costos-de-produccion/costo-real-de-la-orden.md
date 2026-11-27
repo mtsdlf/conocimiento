@@ -52,7 +52,7 @@ El trabajo se vendió a $2000; las sumas las verificó la base. La hoja impresa 
 
 ## La producción en proceso es la suma de las órdenes abiertas
 
-Mientras una orden está abierta, su costo acumulado es producción en proceso. Según un resultado del buscador sobre OpenStax 4.5, «the total of all the work in process job cost sheets equals the work in process inventory». No hacen falta unidades equivalentes: esas son del costeo por procesos, en [sistemas de costeo](../../Contabilidad/Contabilidad-de-gestion/sistemas-de-costeo.md).
+Mientras una orden está abierta (liberada, en curso o terminada sin cerrar, en los [estados](../Ejecucion-en-planta/orden-de-produccion.md#los-estados-en-dos-sistemas-abiertos) que usa el tema), su costo acumulado es producción en proceso (WIP). Según un resultado del buscador sobre OpenStax 4.5, «the total of all the work in process job cost sheets equals the work in process inventory». No hacen falta unidades equivalentes: esas son del costeo por procesos, en [sistemas de costeo](../../Contabilidad/Contabilidad-de-gestion/sistemas-de-costeo.md).
 
 Un sistema abierto transfiere el material a un depósito de producción en proceso al empezar, o saltea ese paso y lo da por consumido al terminar (según el resumen). La segunda es el consumo automático de [consumo y declaración](../Ejecucion-en-planta/consumo-y-declaracion.md): más simple, pero la orden abierta no muestra su costo hasta el final (inferencia de la base).
 
@@ -76,7 +76,7 @@ El costo de lo terminado en el período es producción en proceso inicial más l
 
 ## La producción en proceso al cierre del período
 
-Al cierre de un mes, el inventario en proceso es la suma de las hojas de las órdenes abiertas. Eso pide que cada una tenga cargados sus consumos, horas y carga aplicada hasta la fecha de cierre (inferencia de la base).
+Al cierre de un mes, la producción en proceso es la suma de las hojas de las órdenes abiertas. Eso pide que cada una tenga cargados sus consumos, horas y carga aplicada hasta la fecha de cierre (inferencia de la base).
 
 El costo acumulado no es necesariamente el valor del balance. La RT 17, norma contable argentina, en el texto de 2003 valúa lo que está en producción a costo de reposición con el mismo grado de avance o, si no se puede, a «su costo de reproducción», calculado con su sección 4.2.6; el valor neto de realización según el avance queda para procesos prolongados con cuatro condiciones. El costo de las órdenes es, entonces, la base del valor y no el valor (lectura del informe).
 
@@ -109,7 +109,7 @@ Los ejemplos de las fuentes:
 - **Carga variable**, Connie's Candy (OpenStax 8.4): tasa estándar $4.000 ÷ 2.000 horas = $2,00; real $7.000 ÷ 2.500 horas = $2,80. Tasa: $2.000 desfavorable. Eficiencia: (2.500 − 2.000) × $2,00 = $1.000 desfavorable. Total: $3.000 desfavorable.
 - **Volumen de la carga fija** (Jonick 8.04): carga fija presupuestada $70.000 sobre 10.000 horas de capacidad normal, $7 por hora; se producen 8.000 unidades de una hora. «Fixed factory overhead volume variance = (10,000 – 8,000) x $7 per direct labor hour = $14,000», desfavorable: «the fixed overhead was underutilized». Con 11.000 unidades da $7.000 favorable.
 
-La variación de volumen es la ociosidad que la RT 17 deja fuera del costo ([costos de producción](costos-de-produccion.md)), y no es de ninguna orden: depende de cuánto se produjo en total frente a la capacidad normal (inferencia de la base; la capacidad, en [planificación de capacidad](../Planificacion-de-la-produccion/planificacion-de-capacidad.md)). La de uso de material es donde aparece la merma por encima de la normal.
+La variación de volumen es la ociosidad que la RT 17 deja fuera del costo ([costos de producción](costos-de-produccion.md)), y no es de ninguna orden: depende de cuánto se produjo en total frente a la capacidad normal (inferencia de la base; la capacidad, en [planificación de capacidad](../Planificacion-de-la-produccion/planificacion-de-capacidad.md)). La de uso de material es donde aparece la merma por encima de la normal. La de eficiencia valoriza una de las acepciones de eficiencia de la [ruta de fabricación](../Producto-y-proceso/ruta-de-fabricacion.md#eficiencia-y-utilización-dos-acepciones-de-eficiencia): horas estándar frente a horas trabajadas (lectura de la base).
 
 > [!NOTE] Sin fuente todavía: la variación de gasto de la carga fija (real menos presupuestada) con fórmula y números. OpenStax 8.4 menciona dos variaciones de la carga fija sin nombrarlas ni calcularlas.
 

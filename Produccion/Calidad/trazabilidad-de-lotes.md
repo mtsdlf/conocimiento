@@ -74,7 +74,7 @@ Los pasos de un retiro, como criterio de la base:
 
 1. Rastrear hacia adelante desde el lote o el componente con problema.
 2. Bloquear el stock alcanzado en todos los depósitos; el estado es de Inventario, en [estados del stock](../../Inventario-y-depositos/Existencias/estados-del-stock.md).
-3. Frenar las órdenes abiertas que estén consumiendo ese lote de componente.
+3. Detener las órdenes en curso que estén consumiendo ese lote de componente.
 4. Avisar a los clientes que recibieron los lotes alcanzados y recuperar lo que se pueda.
 5. Abrir la [no conformidad](no-conformidad.md) por lo recuperado y la [acción correctiva](accion-correctiva.md) por la causa.
 

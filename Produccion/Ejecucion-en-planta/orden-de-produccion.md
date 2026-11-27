@@ -25,7 +25,7 @@ Es el centro del registro de [Ejecución en planta](ejecucion-en-planta.md). Vie
 
 ## Planificada, firme y liberada: vocabulario sin fuente leída
 
-La tradición de planificación distingue la orden planificada (una sugerencia del MRP que la próxima corrida puede cambiar), la firme (que el planificador congela para que el cálculo no la mueva) y la liberada (que ya está en la planta). La distinción entre planificada y firme es del MRP y se explica en [MRP](../Planificacion-de-la-produccion/mrp.md). La base la usa como criterio, pero no la leyó en una fuente primaria.
+La tradición de planificación distingue la orden planificada (una sugerencia del MRP que la próxima corrida puede cambiar), la firme (que el planificador congela para que el cálculo no la mueva) y la liberada (que ya está en la planta). La distinción entre planificada y firme es del MRP y se explica en [MRP](../Planificacion-de-la-produccion/mrp.md#órdenes-planificadas-firmes-y-mensajes-de-acción), con la definición de unas diapositivas de curso. La base la usa como criterio, pero no la leyó en una fuente primaria.
 
 > [!NOTE] Sin fuente todavía: las entradas de orden planificada, orden firme y orden liberada del diccionario de ASCM (ex APICS).
 
@@ -41,7 +41,7 @@ Los dos sistemas abiertos leídos tienen listas de estados distintas, leídas en
 | Se trabaja | «In Process» | «In Progress: The production has started (on the MO or on the WO).» |
 | Se termina de producir | «Completed» | «To Close: The production is done, the MO has to be closed.» |
 | Se cierra | «Closed» | «Done: The MO is closed, the stock moves are posted.» |
-| Se frena o se anula | «Stopped», «Cancelled» | «Cancelled: The MO has been cancelled, can't be confirmed anymore.» |
+| Se detiene o se anula | «Stopped», «Cancelled» | «Cancelled: The MO has been cancelled, can't be confirmed anymore.» |
 
 Los dos separan terminar de cerrar. Terminar es que la producción acabó; cerrar es congelar la orden para que su stock y su costo queden firmes. En el primer sistema, una orden detenida se puede reabrir: «You can also re-open the stopped Work Order». El primero guarda la reserva como estado; el segundo, como un campo independiente del avance. No es un estándar: son dos decisiones de diseño que coinciden (lectura de la base).
 
@@ -65,7 +65,7 @@ Que la orden no se libere sin estos controles es criterio de la base. Lo que se 
 
 ## La hoja de cada operación
 
-La orden copia la [ruta de fabricación](../Producto-y-proceso/ruta-de-fabricacion.md) y registra, operación por operación, lo que pasó. El primer sistema lo hace con una tarjeta de trabajo que «stores actual production information about a particular Operation performed on a particular Workstation», con este recorrido: «Move Materials > Start Job > Complete Job > Submit». Guarda tiempos, cantidad terminada y quién la hizo.
+La orden copia la [ruta de fabricación](../Producto-y-proceso/ruta-de-fabricacion.md) y registra, operación por operación, lo que pasó. El primer sistema lo hace con una tarjeta de trabajo que «stores actual production information about a particular Operation performed on a particular Workstation», con este recorrido: «Move Materials > Start Job > Complete Job > Submit». Guarda tiempos, cantidad terminada y quién la hizo. Si una operación se hace afuera, la orden espera lo que vuelve del tercero: ver [subcontratación](subcontratacion.md).
 
 En papel es la hoja de ruta que viaja con el trabajo: cada puesto anota la hora de inicio y fin, las piezas buenas y las malas, y firma (criterio de la base). Esa hoja alimenta el [costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md) y la [eficiencia global del equipo](eficiencia-global-del-equipo.md).
 
