@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El comprobante fiscal es el documento que respalda cada operación frente al fisco (la factura, la nota de crédito, la nota de débito): lleva los datos que permiten calcular el impuesto y saber quién lo debe, se numera en forma correlativa y no se borra, y en cada vez más países se emite en formato electrónico, a veces con la validación previa del fisco.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Directiva 2006/112/CE del Consejo, arts. 219, 220 y 226, texto de 2006 (copia del BOE): https://www.boe.es/doue/2006/347/L00001-00118.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
 aliases: [comprobante fiscal, factura, invoice, VAT invoice, nota de crédito, credit note, nota de débito, debit note, factura rectificativa, numeración correlativa, factura electrónica, e-invoicing, e-invoice, clearance, modelo de despeje, continuous transaction controls, CTC, reporte en tiempo real, real-time reporting, autofactura, self-billing, liquidación de compra, ViDA]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Comprobante fiscal

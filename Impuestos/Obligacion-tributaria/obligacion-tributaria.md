@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La obligación tributaria es el vínculo que la ley crea entre un fisco y quien tiene que pagarle cuando pasa un hecho previsto: la venta, la ganancia o la importación hacen nacer una deuda en dinero, con una base, una alícuota, un período y un sujeto obligado, sin que nadie tenga que firmar nada.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "CIAT, Modelo de Código Tributario (1999), arts. 9 a 21, 31, 49 y 50, con comentarios: https://www.ciat.org/Biblioteca/DocumentosTecnicos/Espanol/1999_modelo_codigo_tributario_ciat.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Impuestos/.investigacion/obligacion-tributaria.md (2026-11-27)"
 aliases: [obligación tributaria, relación jurídica tributaria, tax liability, tax obligation, tributo, tributos, impuesto, tasa, contribución especial, contribución de mejora, deuda tributaria, deber formal, obligación material]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Obligación tributaria

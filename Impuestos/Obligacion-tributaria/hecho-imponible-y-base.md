@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El hecho imponible es lo que tiene que pasar para que se deba un impuesto; la base es el monto sobre el que se calcula, la alícuota lo que se aplica sobre ella y el período el lapso que se junta en una declaración. Por eso el impuesto de un renglón depende del producto, de las partes, del lugar y de la fecha.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "CIAT, Modelo de Código Tributario (1999), art. 14 y comentario: https://www.ciat.org/Biblioteca/DocumentosTecnicos/Espanol/1999_modelo_codigo_tributario_ciat.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Impuestos/.investigacion/obligacion-tributaria.md (2026-11-27)"
 aliases: [hecho imponible, hecho generador, taxable event, chargeable event, devengo, devengo del impuesto, exigibilidad, nacimiento de la obligación, base imponible, tax base, alícuota, tipo impositivo, tasa del impuesto, tax rate, alícuota proporcional, alícuota progresiva, impuesto específico, ad valorem, período fiscal, período impositivo, exención, exento, no sujeción, no alcanzado, no gravado]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Hecho imponible y base

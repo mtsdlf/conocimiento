@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los impuestos, como dominio de negocio, son lo que una empresa que ya opera le debe al Estado por lo que vende, por lo que gana y por lo que cobra o paga a otros: cómo nace cada obligación, cómo se calcula, quién la cobra y qué tiene que hacer la empresa cada período para cumplir.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "FMI, Tax Law Design and Drafting (Thuronyi, ed., 1996-1998): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/"
@@ -9,7 +9,7 @@ fuentes:
   - "Impuestos/.investigacion/ (informes de 2026-11-27)"
 aliases: [impuestos, tributos, tax, taxes, fiscalidad, gestión impositiva, tax management, tax compliance, cumplimiento tributario]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Impuestos

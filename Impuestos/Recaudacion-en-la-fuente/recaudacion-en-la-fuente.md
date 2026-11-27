@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La recaudación en la fuente es el mecanismo por el que un tercero que interviene en una operación cobra un impuesto por cuenta del fisco antes de que el contribuyente lo declare: quien paga le descuenta una parte al que cobra (retención) o quien cobra le suma un recargo al que paga (percepción), y el contribuyente después lo computa a cuenta de su impuesto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IMF, Tax Law Design and Drafting, vol. 2, cap. 14 «Individual Income Tax» (Burns y Krever, 1998), secciones sobre terminología y PAYE: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch14.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Impuestos/.investigacion/recaudacion-en-la-fuente.md (2026-11-27)"
 aliases: [recaudación en la fuente, retención en la fuente, retenciones y percepciones, withholding, withholding tax, tax withholding, collection at source, regímenes de recaudación, PAYE]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Recaudación en la fuente

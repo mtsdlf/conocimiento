@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina una empresa paga impuestos a tres niveles de gobierno: la Nación (IVA, Ganancias, el impuesto a los débitos y créditos bancarios, internos), las provincias (Ingresos Brutos, sellos, inmobiliario) y los municipios (tasas como la de seguridad e higiene). Los nacionales los cobra ARCA, con quien se opera por clave fiscal, domicilio fiscal electrónico y vencimientos según la terminación de la CUIT.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Decreto 953/2024 (BO 25/10/2024), biblioteca de ARCA: https://biblioteca.afip.gob.ar/dcp/DEC_C_000953_2024_10_24"
@@ -17,7 +17,7 @@ fuentes:
   - "Impuestos/.investigacion/argentina-mapa-y-comercio-exterior.md (2026-11-27)"
 aliases: [impuestos en Argentina, sistema tributario argentino, mapa de impuestos argentinos, ARCA, AFIP, Agencia de Recaudación y Control Aduanero, Decreto 953/2024, clave fiscal, domicilio fiscal electrónico, DFE, vencimientos ARCA, calendario de vencimientos, terminación de CUIT, impuesto al cheque, impuesto a los débitos y créditos, Ley 25.413, impuestos internos, coparticipación, Ley 23.548, sellos, inmobiliario, tasa de seguridad e higiene]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Impuestos en Argentina

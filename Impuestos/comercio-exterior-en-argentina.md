@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, vender o comprar afuera paga tributos propios: derechos de exportación que fija el Poder Ejecutivo por decreto, derechos de importación y una tasa de estadística del 3%, IVA y percepciones de IVA y Ganancias al importar, y reintegros al exportar. La exportación no lleva IVA y se factura con la factura E; la de servicios no paga derechos desde 2022.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 22.415, Código Aduanero, arts. 10, 635, 724, 755, 762, 763, 825 y 827, biblioteca de ARCA: https://biblioteca.afip.gob.ar/dcp/LEY_C_022415_1981_03_02"
@@ -17,7 +17,7 @@ fuentes:
   - "Impuestos/.investigacion/argentina-mapa-y-comercio-exterior.md (2026-11-27)"
 aliases: [comercio exterior en Argentina, derechos de exportación, retenciones al agro, derecho de importación, arancel, tasa de estadística, reintegros, reintegros de exportación, percepción de IVA en la importación, RG 2937, percepción de Ganancias en la importación, RG 2281, factura E, factura de exportación, exportación de servicios, Decreto 423/2026, Código Aduanero]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Comercio exterior en Argentina

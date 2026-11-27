@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El impuesto a las ventas es un impuesto al consumo que no deja descontar lo pagado en las compras. Tiene dos formas: el que grava solo la venta al consumidor final, como el sales tax de los estados de EE. UU., y el que grava cada venta de la cadena sobre los ingresos brutos, que acumula impuesto sobre impuesto (en cascada).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Keen, M., Targeting, Cascading, and Indirect Tax Design, IMF Working Paper WP/13/57, 2013, sec. III: https://www.imf.org/external/pubs/ft/wp/2013/wp1357.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Impuestos/.investigacion/posicion-contraria.md (2026-11-27)"
 aliases: [impuesto a las ventas, impuesto a la venta minorista, impuesto a las ventas minoristas, sales tax, retail sales tax, RST, use tax, impuesto de uso, certificado de reventa, resale certificate, nexus, impuesto en cascada, efecto cascada, cascading, tax pyramiding, piramidación, impuesto sobre los ingresos brutos, turnover tax, impuesto plurifásico acumulativo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Impuesto a las ventas

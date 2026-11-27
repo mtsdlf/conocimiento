@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El cumplimiento tributario es lo que una empresa hace cada período para estar al día con el fisco: emitir y recibir comprobantes, registrarlos, liquidar cada impuesto, presentar la declaración, pagar el saldo y conservar todo hasta que el fisco ya no pueda revisarlo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "World Bank Group y PwC, Paying Taxes 2020, fact sheet de América del Sur (datos de 2018, leído el 2026-11-27): https://archive.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/SouthAmerica_PT2020_FS.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
 aliases: [cumplimiento, cumplimiento tributario, cumplimiento fiscal, tax compliance, obligaciones formales, calendario fiscal, ciclo fiscal, costo de cumplimiento, compliance cost, Paying Taxes]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cumplimiento

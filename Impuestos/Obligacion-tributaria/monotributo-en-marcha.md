@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo recurrente del monotributo argentino una vez que se está adentro: pagar la cuota cada mes, recategorizarse en febrero y agosto según los últimos doce meses, saber qué causa la exclusión y qué pasa después, y cómo se pasa al régimen general o se da de baja.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 24.977, Anexo (Régimen Simplificado para Pequeños Contribuyentes), texto actualizado, arts. 1, 2, 6, 7, 9, 15, 19 a 21 y los dos artículos sin número que siguen, 26 y 52 (consulta del 2026-11-27): https://www.argentina.gob.ar/normativa/nacional/ley-24977-51609/actualizacion"
@@ -20,7 +20,7 @@ fuentes:
   - "Impuestos/.investigacion/obligacion-tributaria.md (2026-11-27)"
 aliases: [monotributo, monotributista, recategorización, recategorizarse, recategorización de oficio, exclusión del monotributo, exclusión de pleno derecho, baja del monotributo, baja de oficio, renuncia al monotributo, pasaje al régimen general, régimen de transición, Ley 27.618, Ley 24.977, Ley 27.743, impuesto integrado, categoría K]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Monotributo en marcha

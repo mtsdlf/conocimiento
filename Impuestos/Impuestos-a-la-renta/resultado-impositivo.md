@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El resultado impositivo es la ganancia sobre la que se paga el impuesto a la renta: se parte del resultado contable del ejercicio y se lo ajusta por lo que la ley trata distinto (gastos no deducibles, ingresos exentos, amortizaciones con otro ritmo, quebrantos de años anteriores).
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IFRS Foundation, IAS 12 Income Taxes, resumen de la norma (sección About): https://www.ifrs.org/issued-standards/list-of-standards/ias-12-income-taxes/"
@@ -11,7 +11,7 @@ fuentes:
   - "Impuestos/.investigacion/impuestos-a-la-renta.md (2026-11-27)"
 aliases: [resultado impositivo, ganancia neta imponible, renta imponible, base imponible del impuesto a la renta, taxable income, taxable profit, balance impositivo, conciliación fiscal, ajustes impositivos, diferencias permanentes, diferencias temporarias, temporary differences, permanent differences, gastos no deducibles, non-deductible expenses, ingresos exentos, quebranto, quebrantos impositivos, pérdida fiscal, tax loss carryforward, amortización impositiva, tax depreciation]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Resultado impositivo

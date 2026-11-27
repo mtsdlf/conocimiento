@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La fiscalización es cómo el fisco comprueba que lo declarado es cierto (cruces de información, selección por riesgo, requerimientos e inspecciones), y las sanciones son lo que cuesta no cumplir: intereses por el tiempo, multas por omitir o por defraudar, hasta que la deuda prescribe o se cancela, a veces con un plan de pagos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "FMI, Tax Law Design and Drafting, vol. 1 (1996), cap. 4, secciones II.E (Audits and Investigations), II.H (Collection, Installment Payment Arrangements), II.J (Interest), II.K.10 (Limitations) y III (Taxpayer Compliance and Sanctions): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch4.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
 aliases: [fiscalización, inspección, auditoría fiscal, tax audit, verificación, requerimiento, cruce de información, matching, gestión de riesgo de cumplimiento, compliance risk management, determinación de oficio, intereses resarcitorios, intereses moratorios, late payment interest, multa, sanción, penalty, omisión, defraudación, evasión, tax evasion, prescripción, statute of limitations, plan de pagos, plan de facilidades, installment agreement, moratoria, amnistía fiscal, tax amnesty, apropiación indebida de tributos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fiscalización y sanciones

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un agente de recaudación es la persona o empresa que la ley o el fisco designan para retener o percibir un impuesto de terceros en cada pago o cobro, depositarlo e informarlo; si no lo hace, responde por ese impuesto con su propio patrimonio.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "IMF, Tax Law Design and Drafting, vol. 2, cap. 14 «Individual Income Tax» (Burns y Krever, 1998), sección de terminología: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch14.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Impuestos/.investigacion/recaudacion-en-la-fuente.md (2026-11-27)"
 aliases: [agente de retención, agente de percepción, agente de recaudación, withholding agent, collection agent, responsable sustituto, designación como agente]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Agente de recaudación

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, una pyme convive con retenciones y percepciones de tres impuestos: IVA (retenciones de la RG 2854 y percepciones de la RG 2408), Ganancias (retenciones de la RG 830) e Ingresos Brutos (regímenes de cada provincia, SIRCREB sobre las acreditaciones bancarias y SIRTAC sobre los cobros electrónicos); los agentes informan en SICORE o SIRE, y quien las sufre las computa en su declaración o pide un certificado de exclusión.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 11.683 de Procedimiento Tributario (t.o. 1998), arts. 6, 8, 27, 28, 29, 48 y 81, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18771/texact.htm"
@@ -27,7 +27,7 @@ fuentes:
   - "Impuestos/.investigacion/recaudacion-en-la-fuente.md (2026-11-27)"
 aliases: [retenciones y percepciones en Argentina, RG 2854, RG 2408, RG 830, RG 2226, RG 2233, SICORE, SIRE, SIRCREB, SIRTAC, retención de IVA, percepción de IVA, retención de Ganancias, retenciones de Ingresos Brutos, percepciones de Ingresos Brutos, certificado de exclusión, agente de retención ARCA]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Retenciones y percepciones en Argentina

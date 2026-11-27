@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Ingresos Brutos es el impuesto que cada provincia argentina y la Ciudad de Buenos Aires cobran sobre lo que factura quien ejerce una actividad habitual y a título oneroso en su territorio, con alícuotas que fija cada una por actividad. Quien opera en varias jurisdicciones reparte su base con el Convenio Multilateral, y como grava cada etapa sin crédito, es un impuesto en cascada.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Código Fiscal de la Provincia de Buenos Aires, Ley 10.397 (t.o. 2011), texto actualizado, arts. 182, 186, 187, 188 y 223 (leído el 2026-11-27): https://normas.gba.gob.ar/ar-b/ley/1986/10397/6417"
@@ -16,7 +16,7 @@ fuentes:
   - "Impuestos/.investigacion/impuestos-al-consumo.md (2026-11-27)"
 aliases: [Ingresos Brutos, IIBB, impuesto sobre los ingresos brutos, ISIB, impuesto provincial, Convenio Multilateral, CM, contribuyente local, coeficiente unificado, coeficientes de ingresos y gastos, régimen general del artículo 2, regímenes especiales, SIFERE, Padrón Federal, Padrón Web, Comisión Arbitral, COMARB, Ley Impositiva, NAIIB-18, turnover tax, gross receipts tax]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ingresos Brutos

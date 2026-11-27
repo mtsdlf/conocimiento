@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Declarar y pagar es el paso en que la empresa calcula lo que debe de cada impuesto en el período, lo informa al fisco en una declaración jurada antes del vencimiento y paga el saldo, descontando lo que ya adelantó; si adelantó de más, le queda un saldo a favor que se arrastra, se compensa o se pide en devolución.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "FMI, Tax Law Design and Drafting, vol. 1 (1996), cap. 4, secciones II.D (Returns), II.H (Installment Payment Arrangements) y II.J (Interest): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch4.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
 aliases: [declaración jurada, DDJJ, declaración de impuestos, tax return, VAT return, autoliquidación, self-assessment, liquidación administrativa, administrative assessment, vencimiento, período fiscal, anticipo, saldo a favor, excedente, compensación, offset, devolución, refund, declaración rectificativa, rectificativa, amended return, pago fuera de término, liquidar impuestos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Declaración y pago

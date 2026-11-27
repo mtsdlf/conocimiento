@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal de los impuestos: de dónde viene el IVA, qué hace bueno a un impuesto según los cánones de Adam Smith y la teoría actual, por qué quien paga por ley no es siempre quien soporta el impuesto, qué se discute con evidencia y qué cree del tema quien no es contador, con la nota que explica cada punto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Smith, A. (1776), La riqueza de las naciones, libro V, cap. II, parte II, en Econlib: https://www.econlib.org/library/Smith/smWN.html?chapter_num=36"
@@ -19,7 +19,7 @@ fuentes:
   - "Impuestos/.investigacion/fundamentos.md y posicion-contraria.md (2026-11-27)"
 aliases: [fundamentos de impuestos, historia del IVA, history of VAT, principios de la tributación, principles of taxation, cánones de Adam Smith, canons of taxation, incidencia tributaria, tax incidence, mitos tributarios, tax misconceptions]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de impuestos

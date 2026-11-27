@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los sujetos del impuesto son el fisco que cobra (sujeto activo) y quienes tienen que cumplir (sujetos pasivos): el contribuyente, que debe por un hecho propio, y los que deben por cuenta ajena, como el responsable y el agente de retención o percepción. Inscripción, domicilio y residencia deciden ante qué fisco y por qué ingresos responde cada uno.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "CIAT, Modelo de Código Tributario (1999), arts. 17 a 30 y 50, con comentarios: https://www.ciat.org/Biblioteca/DocumentosTecnicos/Espanol/1999_modelo_codigo_tributario_ciat.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Impuestos/.investigacion/obligacion-tributaria.md (2026-11-27)"
 aliases: [sujetos del impuesto, sujeto activo, sujeto pasivo, contribuyente, taxpayer, responsable, responsable por deuda ajena, responsable por deuda propia, responsable solidario, tercero responsable, sustituto, contribuyente sustituto, agente de retención, agente de percepción, withholding agent, inscripción, alta impositiva, domicilio fiscal, residencia fiscal, tax residence, establecimiento permanente, permanent establishment, doble imposición, double taxation, convenio para evitar la doble imposición, tax treaty]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sujetos del impuesto

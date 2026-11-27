@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un régimen simplificado es la forma en que un país cobra a los pequeños contribuyentes sin pedirles contabilidad: en lugar de medir la ganancia o el IVA de cada operación, supone el impuesto a partir de indicadores (facturación, superficie, consumo eléctrico) y lo cobra en una cuota por categoría que reemplaza a varios impuestos, hasta un tope.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Thuronyi, Presumptive Taxation, FMI, Tax Law Design and Drafting, vol. 1, cap. 12 (1996), secciones I, II y III.C.1: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch12.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Impuestos/.investigacion/obligacion-tributaria.md (2026-11-27)"
 aliases: [régimen simplificado, régimen simplificado para pequeños contribuyentes, pequeño contribuyente, tributación presunta, presumptive taxation, presunción, cuota fija, monotributo, Simples Nacional, forfait, micro-entrepreneur, régimen de estimación objetiva, franquicia de IVA, umbral de IVA, VAT threshold, small business scheme, enanismo fiscal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Régimen simplificado

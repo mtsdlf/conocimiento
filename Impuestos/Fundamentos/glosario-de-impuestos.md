@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos que usan las notas de impuestos, cada uno con una definición de una línea, su nombre en inglés y la nota que lo explica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -15,7 +15,7 @@ fuentes:
   - "Impuestos/.investigacion/posicion-contraria.md"
 aliases: [glosario de impuestos, términos tributarios, vocabulario tributario, glosario tributario, tax glossary, tax terms]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de impuestos

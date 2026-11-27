@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En Argentina, el impuesto a la renta de las sociedades es el impuesto a las ganancias (Ley 20.628, texto ordenado en 2019): una escala de 25%, 30% y 35% sobre la ganancia neta imponible, con montos que ARCA actualiza cada año, 7% sobre los dividendos que cobran las personas humanas, nueve anticipos, ajuste por inflación impositivo y una declaración jurada anual.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley de Impuesto a las Ganancias, t.o. 2019 (Decreto 824/2019), texto actualizado, biblioteca de ARCA, arts. 1, 25, 73, 97, 105, 106 y 194: https://biblioteca.afip.gob.ar/dcp/LEY_C_020628_2019_12_05"
@@ -21,7 +21,7 @@ fuentes:
   - "Impuestos/.investigacion/impuestos-a-la-renta.md (2026-11-27)"
 aliases: [Ganancias, impuesto a las ganancias, Ganancias sociedades, Ganancias personas jurídicas, Ley 20.628, Ley 27.630, artículo 73, alícuota de Ganancias, escala de Ganancias, dividendos 7%, anticipos de Ganancias, ajuste por inflación impositivo, F. 713, tercera categoría]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ganancias en Argentina

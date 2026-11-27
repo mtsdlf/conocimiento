@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El saber tributario se produce en cinco lugares de distinto peso: las normas y los fiscos de cada país, los organismos internacionales, los informes de expertos y los libros de finanzas públicas, los organismos entre jurisdicciones y la profesión contable; para cada vertical del tema hay un recurso que conviene leer primero.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "FMI, Tax Law Design and Drafting (Thuronyi, ed., 1996-1998): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/index.htm"
@@ -22,7 +22,7 @@ fuentes:
   - "Impuestos/.investigacion/fundamentos.md y posicion-contraria.md (2026-11-27)"
 aliases: [fuentes tributarias, bibliografía de impuestos, qué leer de impuestos, tax sources, tax literature]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de impuestos

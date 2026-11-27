@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El IVA (impuesto al valor agregado) es un impuesto al consumo que se cobra en cada etapa de la cadena: cada empresa suma el impuesto a sus ventas (débito fiscal), resta el que le facturaron en sus compras (crédito fiscal) y entrega la diferencia, de modo que el total equivale al impuesto sobre el precio final.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Directiva 2006/112/CE del Consejo, texto original (DO L 347, 11/12/2006), arts. 1, 90, 93, 97 a 99, 168, 169, 173, 174, 183 y 285, copia del BOE: https://www.boe.es/doue/2006/347/L00001-00118.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Impuestos/.investigacion/impuestos-al-consumo.md (2026-11-27)"
 aliases: [IVA, impuesto al valor agregado, impuesto al valor añadido, VAT, value-added tax, GST, goods and services tax, débito fiscal, crédito fiscal, output tax, input tax, tasa cero, zero rate, zero-rating, exento, exención, prorrata, pro rata, saldo a favor de IVA, devolución de IVA, alícuota reducida, umbral de inscripción, método de crédito por factura, credit-invoice method]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # IVA

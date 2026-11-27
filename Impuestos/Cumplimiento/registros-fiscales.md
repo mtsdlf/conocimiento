@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los registros fiscales son los libros y archivos que una empresa lleva para que el fisco pueda reconstruir sus impuestos: el libro de IVA ventas y el de IVA compras, comprobante por comprobante, conservados mientras el fisco pueda revisarlos y entregados en el formato que pida, cada período o en una inspección.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "FMI, Tax Law Design and Drafting, vol. 1 (1996), cap. 4, secciones II.D.4 (Record Keeping) y II.E (Audits, acceso a registros de terceros): https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch4.pdf"
@@ -12,7 +12,7 @@ fuentes:
   - "Impuestos/.investigacion/cumplimiento.md (2026-11-27)"
 aliases: [registros fiscales, libros fiscales, libro IVA, libro de IVA ventas, libro de IVA compras, subdiario de IVA, registro de facturas, VAT ledger, sales ledger, purchase ledger, conservación de comprobantes, record keeping, SAF-T, Standard Audit File for Tax, libro digital, información de terceros, third-party information]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registros fiscales

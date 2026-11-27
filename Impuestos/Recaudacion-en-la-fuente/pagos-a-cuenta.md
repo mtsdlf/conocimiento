@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un pago a cuenta es una parte del impuesto que el contribuyente adelanta antes de declararlo, por una retención o una percepción que le hizo un tercero o por un anticipo; se resta del impuesto del período, y lo que sobra queda como saldo a favor que se arrastra, se compensa o se pide devolver.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Harrison y Krelove, «VAT Refunds: A Review of Country Experience», IMF Working Paper WP/05/218 (2005), sección sobre categorías de reintegros: https://www.imf.org/external/pubs/ft/wp/2005/wp05218.pdf"
@@ -9,7 +9,7 @@ fuentes:
   - "Impuestos/.investigacion/recaudacion-en-la-fuente.md (2026-11-27)"
 aliases: [pago a cuenta, pagos a cuenta, retención sufrida, percepción sufrida, certificado de retención, saldo a favor, certificado de exclusión, certificado de no retención, tax credit for withholding, prepayment, excess credit]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pagos a cuenta

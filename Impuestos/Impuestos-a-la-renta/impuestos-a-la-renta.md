@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los impuestos a la renta gravan la ganancia: el de sociedades cae sobre el resultado anual de la empresa, y el de personas, sobre lo que gana cada individuo, incluido el dividendo que la empresa le reparte. Se calculan al cierre del ejercicio y se adelantan durante el año con anticipos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Vann, «International Aspects of Income Tax», FMI, Tax Law Design and Drafting, vol. 2, cap. 18 (1998), sec. I.C: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch18.pdf (citado según Impuestos/.investigacion/obligacion-tributaria.md)"
@@ -14,7 +14,7 @@ fuentes:
   - "Impuestos/.investigacion/impuestos-a-la-renta.md (2026-11-27)"
 aliases: [impuesto a la renta, impuestos a la renta, impuesto sobre la renta, impuesto a las ganancias, income tax, corporate income tax, CIT, impuesto de sociedades, impuesto a la renta de sociedades, personal income tax, renta mundial, worldwide income, renta de fuente, territorial, dividendos, doble imposición económica, anticipos de renta]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Impuestos a la renta

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los impuestos al consumo gravan lo que una empresa vende y no lo que gana: el IVA, el impuesto a la venta minorista, los impuestos en cascada sobre los ingresos brutos y los específicos. La ley se los cobra a quien vende, pero el que los soporta, en principio, es quien consume.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Directiva 2006/112/CE del Consejo, texto original (DO L 347, 11/12/2006), art. 1, copia del BOE: https://www.boe.es/doue/2006/347/L00001-00118.pdf"
@@ -14,7 +14,7 @@ fuentes:
   - "Impuestos/.investigacion/posicion-contraria.md (2026-11-27)"
 aliases: [impuestos al consumo, impuestos indirectos, impuestos sobre bienes y servicios, consumption taxes, indirect taxes, taxes on goods and services, impuestos a las ventas, impuestos sobre las ventas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Impuestos al consumo

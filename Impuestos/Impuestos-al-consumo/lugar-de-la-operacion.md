@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El lugar de la operación es la regla que decide qué país (o qué provincia) cobra el impuesto al consumo de una venta que cruza una frontera. Casi todos siguen el principio de destino: la exportación sale sin impuesto, la importación paga en la aduana y el servicio del exterior lo paga el cliente local o un proveedor extranjero inscripto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Williams, D., «Value-Added Tax», cap. 6 de Thuronyi (ed.), Tax Law Design and Drafting, vol. 1, FMI, 1996, sec. II (ámbito territorial), sec. VII.D y nota 89: https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch6.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Impuestos/.investigacion/impuestos-al-consumo.md (2026-11-27)"
 aliases: [lugar de la operación, lugar de realización, place of supply, principio de destino, principio de origen, destination principle, origin principle, exportación a tasa cero, IVA de importación, inversión del sujeto pasivo, reverse charge, autoliquidación, servicios digitales, proveedor extranjero, registro simplificado, OSS, ventanilla única, plataformas, deemed supplier, proveedor presunto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Lugar de la operación
