@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El incumplimiento del acuerdo es lo que pasa cuando un caso supera el tiempo prometido: el aviso antes del vencimiento, el registro del vencimiento y, en algunos contratos, una compensación al cliente. Su contracara es el efecto «watermelon»: el acuerdo se cumple en el tablero mientras el cliente está disconforme.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Barclay Rae, «Watertight not watermelon service level agreements», HDI SupportWorld, 2020: https://www.thinkhdi.com/library/supportworld/2020/watertight-not-watermelon-service-level-agreements (leído en parte)"
@@ -14,7 +14,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, sección 4, mito 5"
 aliases: [incumplimiento del SLA, SLA breach, vencimiento del SLA, violación del SLA, alerta de vencimiento, créditos de servicio, service credits, penalidades, efecto watermelon, watermelon SLA, SLA sandía, acuerdo de experiencia, XLA, experience level agreement]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Incumplimiento del acuerdo

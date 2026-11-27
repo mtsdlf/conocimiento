@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El autoservicio es la parte de la atención que el cliente resuelve sin una persona: la base de conocimiento, las preguntas frecuentes, el portal, la respuesta de voz automática y los bots. Se mide por cuántas veces el cliente encuentra lo que necesita, y el desvío (el contacto que no llegó a una persona) se cuenta mal con facilidad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Consortium for Service Innovation, KCS v6 Practices Guide, «The Solve Loop»: https://library.serviceinnovation.org/KCS/KCS_v6/KCS_v6_Practices_Guide/030/030 (leída la página, no la guía completa)"
@@ -18,7 +18,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, sección 4, mito 4"
 aliases: [self-service, autoservicio, base de conocimiento, knowledge base, preguntas frecuentes, FAQ, portal de clientes, bot, chatbot, IVR, respuesta de voz interactiva, desvío, deflection, KCS, Knowledge-Centered Service]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Autoservicio

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos del tema Servicio al cliente, cada uno con su nombre en inglés, una definición corta y la nota donde vive, y las palabras que el campo usa con más de un sentido.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ISO 10002:2018, vista previa del editor (definiciones 3.2 y 3.4), leída: https://cdn.standards.iteh.ai/samples/71580/6db527fdda0a42ac8f597ffd406e3509/ISO-10002-2018.pdf"
@@ -15,7 +15,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/ (fundamentos-y-contraria.md sección 5, caso-y-escalamiento.md, canales-y-niveles-de-servicio.md, calidad-del-servicio.md)"
 aliases: [glosario de atención al cliente, customer service glossary, términos de servicio al cliente, vocabulario de mesa de ayuda]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de servicio al cliente

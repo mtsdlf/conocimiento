@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una encuesta de satisfacción, en la atención, es la pregunta corta que se le manda al cliente después de un caso para saber cómo le fue: si quedó satisfecho (CSAT), cuánto esfuerzo le costó (esfuerzo del cliente) o si recomendaría a la empresa (NPS transaccional). Mide lo que el cliente dice, no lo que después hace, y solo entre quienes contestan.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dixon, Freeman y Toman (2010), «Stop Trying to Delight Your Customers», Harvard Business Review, julio-agosto, 116-122, copia del artículo: https://beyondphilosophy.com/wp-content/uploads/2013/07/Stop-Trying-to-delight.pdf (leído entero) ; página de HBR: https://hbr.org/2010/07/stop-trying-to-delight-your-customers"
@@ -19,7 +19,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 3 y 4"
 aliases: [encuesta de satisfacción, encuesta posterior al caso, encuesta transaccional, transactional survey, CSAT, customer satisfaction score, esfuerzo del cliente, customer effort score, CES, NPS transaccional, transactional NPS, tasa de respuesta, response rate]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Encuestas de satisfacción

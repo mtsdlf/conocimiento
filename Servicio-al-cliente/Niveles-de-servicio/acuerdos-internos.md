@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los acuerdos internos son los que sostienen el acuerdo de nivel de servicio que se le da al cliente: el acuerdo de nivel operativo (OLA), entre equipos de la misma organización, y el contrato de respaldo (UC), con un proveedor externo. El vocabulario viene de ITIL v3, y ITIL 4 lo cambió.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Advisera, «SLAs, OLAs and UCs in ITIL and ISO 20000»: https://advisera.com/20000academy/knowledgebase/slas-olas-ucs-itil-iso-20000 (según su resumen)"
@@ -14,7 +14,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 4 (mito 7) y 5"
 aliases: [acuerdo de nivel operativo, OLA, operational level agreement, contrato de respaldo, contrato de soporte, UC, underpinning contract, acuerdo entre equipos, acuerdo con proveedores]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Acuerdos internos

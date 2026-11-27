@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El acuerdo de nivel de servicio es la promesa documentada de una empresa a su cliente sobre qué servicio le da y con qué nivel; en la atención, en cuánto tiempo se responde y se resuelve cada caso según su prioridad. La vertical cubre qué se promete, cómo corre el reloj, qué pasa cuando se vence y qué acuerdos internos lo sostienen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ITIL 4, definición de service level agreement, citada por BMC: https://www.bmc.com/blogs/ola/ (según resumen; el glosario oficial es pago y no se leyó)"
@@ -15,7 +15,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 1 y 5"
 aliases: [acuerdo de nivel de servicio, SLA, service level agreement, niveles de servicio, gestión de niveles de servicio, service level management, SLM, política de nivel de servicio]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Niveles de servicio

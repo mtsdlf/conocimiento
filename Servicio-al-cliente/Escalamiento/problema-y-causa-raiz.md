@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un problema es la causa, conocida o sospechada, de uno o más casos: cuando los casos se repiten, se los junta en un problema para buscar su causa raíz y arreglarla, en vez de resolver cada caso por separado. El campo tiene dos tradiciones para ese paso: la gestión de problemas de ITIL, con el error conocido y la solución provisoria, y el análisis de reclamos de la ISO 10002.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Atlassian, «Problem management process»: https://www.atlassian.com/itsm/problem-management/process (según resúmenes del buscador; comercial)"
@@ -17,7 +17,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/calidad-del-servicio.md, sobre la cláusula 8 de ISO 10002"
 aliases: [problema, gestión de problemas, problem management, causa raíz, root cause, análisis de causa raíz, root cause analysis, error conocido, known error, solución provisoria, workaround, base de errores conocidos, KEDB, casos repetidos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Problema y causa raíz

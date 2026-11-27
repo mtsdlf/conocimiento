@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La calidad del servicio, mirada desde la operación, es saber si la atención es buena y corregir lo que no lo es, de tres formas: medir la operación con sus propios registros, preguntarle al cliente después de cada caso y escuchar las conversaciones y los reclamos. Ninguna de las tres alcanza sola, porque cada una se puede ver bien mientras el cliente está mal.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ISO 18295-1:2017, índice: https://www.din.de/de/mitwirken/normenausschuesse/nadl/veroeffentlichungen/wdc-beuth:din21:276760944/toc-2704082/download (solo índice) ; ficha: https://www.iso.org/standard/64739.html (según resúmenes)"
@@ -15,7 +15,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 1, 3 y 4"
 aliases: [calidad de la atención, calidad del servicio al cliente, customer service quality, service quality, medición de la atención, gestión de la calidad de la atención]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Calidad del servicio

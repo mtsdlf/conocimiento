@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo que la Argentina le exige a la atención después de la venta: trato digno y un horario mínimo, la garantía legal y la constancia de cada reparación, la baja y el arrepentimiento con un código de trámite en 24 horas, los plazos de respuesta de bancos, telecomunicaciones y servicios públicos, y adónde va el cliente si la empresa no contesta.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Ley 24.240 de Defensa del Consumidor, texto actualizado en InfoLEG (leído entero, arts. 8 bis a 52 bis): https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/638/texact.htm"
@@ -19,7 +19,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/argentina.md"
 aliases: [atención al cliente en Argentina, defensa del consumidor, Ley 24.240, garantía legal, botón de baja, botón de arrepentimiento, Disposición 954/2025, trato digno, Ventanilla Federal Única, libro de quejas, COPREC, consumer protection Argentina]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Servicio al cliente en la Argentina

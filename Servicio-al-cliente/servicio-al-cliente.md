@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El servicio al cliente, como dominio de negocio, es cómo una empresa atiende a quienes ya le compraron: por dónde entra cada consulta, pedido o reclamo, cómo se registra como caso, a quién se escala cuando quien atiende no puede resolver, qué tiempos se prometen y cómo se mide si la atención es buena. Es lo que lleva una mesa de ayuda o la parte de atención de un CRM, pero existe antes del software: un cuaderno de reclamos en el mostrador hace lo mismo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework, categoría «Manage Customer Service» (6.0), copia de un tercero sin versión declarada: https://capechamber.co.za/enterprise/improve-your-business-processes/6-manage-customer-service"
@@ -12,7 +12,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/ (cinco informes, 2026-11-27)"
 aliases: [atención al cliente, customer service, customer support, soporte al cliente, mesa de ayuda, help desk, service desk, posventa, gestión de reclamos, customer care]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Servicio al cliente

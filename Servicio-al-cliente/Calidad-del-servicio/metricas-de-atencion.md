@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las métricas de atención son los números que la operación saca de sus propios registros, sin preguntarle nada al cliente: la resolución al primer contacto, el tiempo medio de atención, las reaperturas, los casos pendientes y el abandono. Cada una depende de una definición (qué se cuenta, sobre qué total y en qué ventana), y casi todas se pueden mejorar en el tablero empeorando la atención.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Dixon, Freeman y Toman (2010), «Stop Trying to Delight Your Customers», Harvard Business Review, julio-agosto, 116-122, copia del artículo: https://beyondphilosophy.com/wp-content/uploads/2013/07/Stop-Trying-to-delight.pdf (leído entero)"
@@ -17,7 +17,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 4 (mito 3) y 5"
 aliases: [métricas de la atención, indicadores de atención, KPI de servicio al cliente, resolución al primer contacto, first contact resolution, first call resolution, FCR, tiempo medio de atención, average handle time, AHT, reapertura, reopen rate, pendientes, backlog, abandono, abandonment rate, velocidad media de respuesta, ASA]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Métricas de atención

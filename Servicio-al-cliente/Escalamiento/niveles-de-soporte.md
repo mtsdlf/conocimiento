@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los niveles de soporte ordenan quién atiende un caso según cuánto sabe: el nivel cero es el autoservicio, el primer nivel recibe y resuelve lo conocido, el segundo toma lo que requiere especialistas y el tercero llega a quien hace el producto. El enjambre (swarming) es la alternativa que reemplaza el pase de nivel en nivel por pedir ayuda a quien sabe, con evidencia que publica sobre todo quien la promueve.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Consortium for Service Innovation, «Intelligent Swarming 101»: https://www.serviceinnovation.org/intelligent-swarming-101/ (de quien promueve el modelo)"
@@ -15,7 +15,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, mito 6 y glosario"
 aliases: [niveles de soporte, nivel de soporte, primer nivel, segundo nivel, tercer nivel, nivel cero, tier, support tiers, L1, L2, L3, tiered support, modelo por niveles, enjambre, swarming, intelligent swarming]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Niveles de soporte

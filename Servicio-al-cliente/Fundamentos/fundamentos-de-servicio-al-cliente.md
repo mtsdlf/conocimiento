@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Servicio al cliente: las escuelas que explican la atención de formas distintas, cómo dividen el campo las normas y los marcos (APQC, ISO 10002, ISO 18295-1, ITIL), qué cortes son de esta base y dónde se produce el saber del campo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, categoría «Manage Customer Service» (6.0), copia de un tercero sin versión declarada, leída entera: https://capechamber.co.za/enterprise/improve-your-business-processes/6-manage-customer-service"
@@ -16,7 +16,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md (secciones 1, 3 y 7)"
 aliases: [fundamentos de servicio al cliente, escuelas de servicio al cliente, customer service fundamentals, taxonomía de la atención]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de servicio al cliente

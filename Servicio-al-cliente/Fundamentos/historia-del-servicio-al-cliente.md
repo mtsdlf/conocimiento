@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La atención después de la venta pasó del mostrador y el libro de quejas al centro de llamadas, que se apoyó en el distribuidor automático de llamadas desde los años cincuenta o setenta según la fuente; la mesa de ayuda de sistemas se ordenó con ITIL desde fines de los ochenta, y el autoservicio y los bots crecieron después. Casi todas las fechas salen de fuentes secundarias que discrepan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, «Automatic call distributor», sección Background, leída: https://en.wikipedia.org/wiki/Automatic_call_distributor"
@@ -15,7 +15,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md (secciones 2 y 3) y canales-y-niveles-de-servicio.md (sección 1)"
 aliases: [historia del servicio al cliente, historia del centro de llamadas, history of customer service, history of the call center, automatic call distributor, ACD]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia del servicio al cliente

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El monitoreo de calidad es escuchar o leer una muestra de las conversaciones de la atención y evaluarlas con una grilla, para saber si se atendió bien y qué tiene que mejorar cada persona. Se completa con la voz del cliente: juntar los reclamos, las encuestas y las conversaciones para encontrar lo que se repite y devolverlo a quien puede arreglar la causa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework, categoría «Manage Customer Service» (6.2.1.4 y 6.2.3), copia de un tercero sin versión declarada: https://capechamber.co.za/enterprise/improve-your-business-processes/6-manage-customer-service"
@@ -16,7 +16,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 1 y 3"
 aliases: [monitoreo de calidad, aseguramiento de calidad, quality assurance, QA, quality monitoring, evaluación de conversaciones, grilla de evaluación, scorecard, calibración, calibration, evaluación automática, voz del cliente, voice of the customer, VoC, análisis de reclamos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Monitoreo de calidad

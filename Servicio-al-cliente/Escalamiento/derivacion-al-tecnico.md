@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Derivar al técnico es decidir, desde un caso, que el problema necesita que alguien vaya a ver el producto, y pasarle al servicio de campo lo que hace falta para la visita. El caso decide y deriva; la visita, su orden de trabajo, el técnico y los repuestos son del servicio de campo, y el caso queda abierto hasta que vuelve el resultado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ERPNext, Warranty Claim: https://docs.frappe.io/erpnext/user/manual/en/warranty-claim (como evidencia de práctica)"
@@ -13,7 +13,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, sección 2"
 aliases: [derivar al técnico, derivación al servicio técnico, visita técnica, field service dispatch, despacho de técnico, visita de mantenimiento, maintenance visit, orden de servicio, service order]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Derivación al técnico

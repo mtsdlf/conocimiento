@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El acuerdo de nivel de servicio fija, para cada prioridad, dos tiempos: el de primera respuesta y el de resolución. El reloj que los mide corre solo dentro del horario de atención, se detiene los feriados y se pausa mientras el caso espera algo del cliente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ERPNext, Service Level Agreement: https://docs.frappe.io/erpnext/user/manual/en/service-level-agreement (como evidencia de práctica; leída en un resumen del lector)"
@@ -9,7 +9,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/canales-y-niveles-de-servicio.md, sección 5"
 aliases: [tiempo de primera respuesta, first response time, FRT, tiempo de resolución, resolution time, reloj del SLA, SLA clock, horario de atención, business hours, horario hábil, pausa del SLA, SLA pause, vencimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tiempos de respuesta y resolución

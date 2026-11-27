@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un reclamo es un caso en el que el cliente expresa insatisfacción con un producto, un servicio o la propia atención y espera una respuesta. La norma ISO 10002 lo trata como un proceso con nueve pasos, de la comunicación y la recepción al cierre, y pide analizar los reclamos para eliminar sus causas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ISO 10002:2018, vista previa del editor (introducción, alcance, definiciones y principios 4.1 a 4.15): https://cdn.standards.iteh.ai/samples/71580/6db527fdda0a42ac8f597ffd406e3509/ISO-10002-2018.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 1 y 5"
 aliases: [reclamo, queja, complaint, tratamiento de reclamos, gestión de reclamos, complaints handling, ISO 10002, libro de quejas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reclamo

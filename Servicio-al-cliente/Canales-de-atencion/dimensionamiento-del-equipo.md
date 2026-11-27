@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El dimensionamiento del equipo calcula cuántas personas tienen que estar atendiendo en cada franja para cumplir un objetivo de espera, a partir del volumen de contactos y del tiempo medio de atención. En los canales sincrónicos se resuelve con modelos de colas (Erlang C y Erlang A); en el correo el objetivo es de horas y la cuenta cambia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gans, Koole y Mandelbaum (2003), «Telephone call centers: tutorial, review, and research prospects», M&SOM 5(2), 79-141: https://aviman.technion.ac.il/files/References/Gans-Koole-Mandelbaum-CCReview.pdf (leído en parte: secciones 1, 2.3, 2.5, 3, 4.1 y 4.2)"
@@ -13,7 +13,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 2, 4 (mito 3) y 5"
 aliases: [dimensionamiento, dotación, staffing, workforce management, WFM, planificación de personal, nivel de servicio del centro de contacto, service level, telephone service factor, TSF, 80/20, Erlang C, Erlang A, ocupación, occupancy, utilización, utilization, ASA, average speed of answer, velocidad media de respuesta, abandono, abandonment, regla de la raíz cuadrada, square-root staffing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dimensionamiento del equipo

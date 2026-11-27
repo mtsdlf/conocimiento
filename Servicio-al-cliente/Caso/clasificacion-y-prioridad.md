@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Clasificar un caso es decir qué es (su tipo y su categoría) y priorizarlo es decir cuánto apura, cruzando el impacto con la urgencia. De las dos decisiones salen a quién se asigna, qué tiempo promete el acuerdo de nivel de servicio y cuándo se escala.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework, categoría «Manage Customer Service», 6.2.2 y 6.2.3, copia de un tercero sin versión declarada: https://capechamber.co.za/enterprise/improve-your-business-processes/6-manage-customer-service"
@@ -13,7 +13,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 1 y 5"
 aliases: [clasificación del caso, tipo de caso, categoría, prioridad, impacto, urgencia, matriz de prioridad, triage, triaje, case classification, priority matrix, impact and urgency]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Clasificación y prioridad

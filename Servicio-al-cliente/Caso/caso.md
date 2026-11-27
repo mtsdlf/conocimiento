@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El caso es el registro de lo que un cliente pidió después de la venta (una consulta, un pedido, un incidente o un reclamo), con sus datos, sus estados y un dueño, desde que entra hasta que se cierra. Junta todos los contactos sobre un mismo asunto, aunque lleguen por canales distintos, y es lo que las demás partes de la atención escalan, cronometran y miden.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "APQC, Process Classification Framework, categoría «Manage Customer Service», 6.2.2 y 6.2.3, copia de un tercero sin versión declarada: https://capechamber.co.za/enterprise/improve-your-business-processes/6-manage-customer-service"
@@ -13,7 +13,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 1 y 5"
 aliases: [caso, ticket, case, issue, incidencia, caso de soporte, support case, ciclo de vida del caso, estados del caso, fusión de casos, merge tickets]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Caso

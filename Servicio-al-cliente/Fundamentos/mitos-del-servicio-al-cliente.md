@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Seis ideas que circulan sobre la atención y no se sostienen como se citan: que conseguir un cliente cuesta cinco veces más que retenerlo, que bajar el tiempo de atención mejora la eficiencia, que el autoservicio y los bots desvían la demanda, que el acuerdo cumplido significa cliente conforme, que los niveles de soporte son la única forma de organizarse y que tercerizar empeora la atención. Para cada una, de dónde sale y qué dice la evidencia.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Keiningham, Vavra, Aksoy y Wallard, Loyalty Myths (Ipsos Loyalty), extracto del mito 8, leído entero: https://www.ipsos.com/sites/default/files/publication/2003-08/Ipsos_Loyalty_Myth_8_Excerpt.pdf"
@@ -19,7 +19,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md (sección 4), caso-y-escalamiento.md (sección 6), canales-y-niveles-de-servicio.md (secciones 2 y 6) y calidad-del-servicio.md (sección 1)"
 aliases: [mitos de la atención al cliente, customer service myths, efecto sandía, watermelon effect, desvío, deflection]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos del servicio al cliente

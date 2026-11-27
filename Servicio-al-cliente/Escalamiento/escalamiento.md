@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Escalar es pasar un caso que quien lo atiende no puede resolver a alguien que sabe más (escalamiento funcional) o a alguien que puede decidir más (escalamiento jerárquico). La vertical reúne cómo se organiza ese pase en niveles, cuándo el caso pide mandar un técnico y cómo los casos que se repiten se convierten en un problema para atacar su causa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gobierno de Ontario, GO-ITS 37, Enterprise Incident Management Process: https://www.ontario.ca/document/go-its-37-enterprise-incident-management-process (según citas del buscador; la página dio 403)"
@@ -14,7 +14,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, sección 2 y glosario"
 aliases: [escalamiento, escalar, escalation, escalamiento funcional, functional escalation, escalamiento jerárquico, hierarchical escalation, escalada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escalamiento

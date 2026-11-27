@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los canales de atención son las vías por las que el contacto del cliente llega a la empresa (mostrador, teléfono, correo, chat, mensajería, portal) y lo que lo atiende en cada una: una persona o el autoservicio. La vertical decide también cuántas personas hacen falta para atender a tiempo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gans, Koole y Mandelbaum (2003), «Telephone call centers: tutorial, review, and research prospects», M&SOM 5(2), 79-141: https://aviman.technion.ac.il/files/References/Gans-Koole-Mandelbaum-CCReview.pdf (leído en parte: secciones 1, 2, 4.1, 4.2 y partes de 5)"
@@ -14,7 +14,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md, secciones 1 y 4"
 aliases: [canales de atención, canales de contacto, customer service channels, contact channels, centro de contacto, contact center, call center, omnicanal, omnichannel, multicanal, multichannel]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Canales de atención
