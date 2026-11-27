@@ -18,14 +18,14 @@ revisado: 2026-11-22
 
 La activación es el momento en que un usuario nuevo llega por primera vez al valor del producto, y la métrica de activación es la acción o el umbral que lo marca. Se busca comparando qué hicieron al principio los usuarios que se quedaron y los que se fueron, y se confirma probando si provocar ese comportamiento retiene más.
 
-Es la segunda letra del embudo AARRR, entre la adquisición, que es de Marketing, y la retención (ver [Medición](medicion-de-producto.md#heart-y-aarrr-dos-mapas-para-elegir-métricas)). Dentro de la medición, la [North Star](north-star.md) dice si el producto entrega valor en conjunto; la activación dice si los que recién llegan alcanzan ese valor. Por eso la métrica de activación se elige y se valida contra la [retención](../../Datos/Retencion-y-churn/retencion.md).
+Es la segunda letra del embudo AARRR, entre la adquisición, que es de Marketing, y la retención (ver [Medición](medicion-de-producto.md#heart-y-aarrr-dos-mapas-para-elegir-métricas)). Dentro de la medición, la [North Star](north-star.md) dice si el producto entrega valor en conjunto; la activación dice si los que recién llegan alcanzan ese valor. Por eso la métrica de activación se elige y se valida contra la [retención](../../Datos/Analitica-de-producto/Retencion-y-churn/retencion.md).
 
 ## Cómo se encuentra una métrica de activación
 
 Andrew Chen describe el método en una respuesta abierta y breve. Son cuatro pasos:
 
 1. Definí la métrica de éxito (para la base, lo habitual es si el usuario sigue usando el producto tiempo después; Chen, en lo que se leyó, no lo precisa).
-2. Buscá qué comportamientos tempranos se correlacionan con ese éxito. Comparar grupos de usuarios por una acción que hicieron es una [cohorte de comportamiento](../../Datos/Cohortes/cohorte-de-comportamiento.md), que se arma con la técnica de Datos.
+2. Buscá qué comportamientos tempranos se correlacionan con ese éxito. Comparar grupos de usuarios por una acción que hicieron es una [cohorte de comportamiento](../../Datos/Analitica-de-producto/Cohortes/cohorte-de-comportamiento.md), que se arma con la técnica de Datos.
 3. Formulá una hipótesis: si más usuarios hacen esa acción al principio, más se van a quedar.
 4. Probala con un [experimento A/B](experimento-ab.md): empujá a una parte de los usuarios hacia esa acción y compará la retención con la del grupo de control.
 
@@ -44,7 +44,7 @@ No hay un documento primario de Facebook que lo sostenga. Los relatos difieren: 
 
 ## Dónde termina la activación
 
-La activación mide si el usuario llegó al valor; no diseña el camino. Que el onboarding se pueda usar sin trabas lo resuelve y lo evalúa [UX](../../UX/Evaluacion/evaluacion.md). Cómo se arman y leen las cohortes de retención es de [Datos](../../Datos/Retencion-y-churn/retencion-y-churn.md). Si el producto resuelve un problema por el que el mercado paga es el [encaje producto-mercado](../../Emprender/Crecimiento/encaje-producto-mercado.md), de Emprender: sin ese encaje, ninguna métrica de activación lo compensa.
+La activación mide si el usuario llegó al valor; no diseña el camino. Que el onboarding se pueda usar sin trabas lo resuelve y lo evalúa [UX](../../UX/Evaluacion/evaluacion.md). Cómo se arman y leen las cohortes de retención es de [Datos](../../Datos/Analitica-de-producto/Retencion-y-churn/retencion-y-churn.md). Si el producto resuelve un problema por el que el mercado paga es el [encaje producto-mercado](../../Emprender/Crecimiento/encaje-producto-mercado.md), de Emprender: sin ese encaje, ninguna métrica de activación lo compensa.
 
 En un producto con prueba gratuita o freemium, Wes Bush sostiene, según resúmenes de su blog, que importa sobre todo si el usuario llega al valor. Esa relación está en [freemium y prueba gratuita](../Monetizacion/freemium-y-prueba-gratuita.md).
 

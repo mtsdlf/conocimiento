@@ -49,7 +49,7 @@ Las métricas de vanidad son las que no cumplen la primera condición. En el mis
 
 ## La medida por cohortes
 
-Según el resumen del libro, en lugar de mirar totales se mira por separado cada grupo de clientes, la cohorte. La lectura de la base: si los cambios funcionan, cada cohorte nueva se comporta mejor que la anterior, y en un total esa mejora queda tapada por los clientes viejos. Cómo se arma y se lee una cohorte es técnica del tema Datos y está en [análisis de cohortes](../../Datos/Cohortes/analisis-de-cohortes.md).
+Según el resumen del libro, en lugar de mirar totales se mira por separado cada grupo de clientes, la cohorte. La lectura de la base: si los cambios funcionan, cada cohorte nueva se comporta mejor que la anterior, y en un total esa mejora queda tapada por los clientes viejos. Cómo se arma y se lee una cohorte es técnica del tema Datos y está en [análisis de cohortes](../../Datos/Analitica-de-producto/Cohortes/analisis-de-cohortes.md).
 
 Qué métrica seguir en cada momento lo propone Lean Analytics con [una métrica que importa por etapa](../../Marketing/Medicion/metrica-que-importa.md): según esa nota, un emprendimiento recién arrancando está en la etapa de empatía (si hay un problema real y gente que paga) o en la de ingresos. La contabilidad de la innovación da el método; esa nota, qué mirar.
 

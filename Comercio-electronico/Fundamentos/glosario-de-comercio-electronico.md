@@ -67,7 +67,7 @@ Los informes del tema marcan cuánto se leyó de cada fuente; las notas lo dicen
 | Take rate | take rate | Parte del GMV que se queda la plataforma; Shopify no la publica con ese nombre y se calcula dividiendo ingresos por GMV | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
 | MRR | monthly recurring revenue | Ingreso mensual recurrente. Shopify: "the aggregate value of all subscription plans, excluding variable platform fees" | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
 | Penetración de pagos | payments penetration rate | Parte del GMV que pasa por la pasarela propia de la plataforma; es proporción del GMV, no de comerciantes | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
-| Churn | churn | Parte de los comerciantes que se da de baja en un período; el concepto general está en [Churn](../../Datos/Retencion-y-churn/churn.md) | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
+| Churn | churn | Parte de los comerciantes que se da de baja en un período; el concepto general está en [Churn](../../Datos/Analitica-de-producto/Retencion-y-churn/churn.md) | [El negocio de una plataforma](../Plataforma-de-tiendas/negocio-de-una-plataforma.md) |
 | Segmento de comerciantes | merchant segment (SMB, mid-market, enterprise) | Emprendedor, pyme, mediana o grande; las plataformas no publican la clasificación, se deduce de sus planes | [Segmentos de comerciantes](../Plataforma-de-tiendas/segmentos-de-comerciantes.md) |
 
 ## Pagos

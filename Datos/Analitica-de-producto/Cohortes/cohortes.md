@@ -14,7 +14,7 @@ revisado:
 Cohortes es la parte del análisis que define a quién se sigue: grupos fijos de usuarios que
 comparten un evento de entrada en el mismo período, y por qué se los compara a la misma edad.
 
-Dentro de [Datos](../datos.md), la cohorte es la unidad de todo lo demás. Le da a
+Dentro de [Analítica de producto](../analitica-de-producto.md), parte de [Datos](../../datos.md), la cohorte es la unidad de todo lo demás. Le da a
 [Retención y churn](../Retencion-y-churn/retencion-y-churn.md) el denominador de cada métrica, y la
 [Lectura de cohortes](../Lectura-de-cohortes/lectura-de-cohortes.md) pone una cohorte en cada fila de la tabla.
 
