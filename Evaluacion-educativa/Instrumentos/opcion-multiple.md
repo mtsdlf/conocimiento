@@ -5,7 +5,7 @@ estado: vigente
 estabilidad: estable
 fuentes:
   - "Haladyna, Downing y Rodriguez (2002), A review of multiple-choice item-writing guidelines for classroom assessment, Applied Measurement in Education 15(3), 309-333, doi 10.1207/s15324818ame1503_5 (resumen): https://experts.umn.edu/en/publications/a-review-of-multiple-choice-item-writing-guidelines-for-classroom/"
-  - "Adesope, Trevisan y Sundararajan (2017), Rethinking the use of tests, Review of Educational Research 87(3) (resumen secundario): https://doi.org/10.3102/0034654316689306"
+  - "Adesope, Trevisan y Sundararajan (2017), Rethinking the use of tests: a meta-analysis of practice testing, Review of Educational Research 87(3):659-701: https://doi.org/10.3102/0034654316689306 (texto completo, Tablas 1 y 2; copia de Washington State University en el Internet Archive: http://web.archive.org/web/20240423015150/https://education.wsu.edu/documents/2018/01/rethinking-use-tests.pdf/)"
   - "Rodriguez (2003), Construct equivalence of multiple-choice and constructed-response items: a random effects synthesis of correlations, Journal of Educational Measurement 40(2):163-184 (abstract): https://doi.org/10.1111/j.1745-3984.2003.tb01102.x"
   - "Lukhele, Thissen y Wainer (1994), On the relative value of multiple-choice, constructed response, and examinee-selected items on two achievement tests, Journal of Educational Measurement 31(3):234-250 (abstract): https://doi.org/10.1111/j.1745-3984.1994.tb00445.x"
   - "Wikipedia, Item response theory (parámetro de azar): https://en.wikipedia.org/wiki/Item_response_theory"
@@ -47,7 +47,7 @@ Lukhele et al. usaron exámenes de contenido, no de habilidades prácticas; el a
 
 ## Para practicar y para acreditar
 
-Como práctica, la opción múltiple rinde: según un resumen secundario del metaanálisis de Adesope et al. (2017), fue el formato más eficaz como prueba de práctica (dato a verificar en el original). Ver [evaluación como aprendizaje](../Propositos/evaluacion-como-aprendizaje.md).
+Como práctica, la opción múltiple rinde: en el metaanálisis de Adesope et al. (2017) dio g = 0,70 como prueba de práctica, más que la respuesta corta (0,48); solo las pruebas que mezclan formatos rindieron más (0,80). Ver [evaluación como aprendizaje](../Propositos/evaluacion-como-aprendizaje.md).
 
 Para acreditar una habilidad práctica, la opción múltiple sola deja afuera la parte de producir y de usar: es lo que los Standards llaman subrepresentación del constructo, en [validez](../Validez-confiabilidad-y-equidad/validez.md). En una prueba de programación, elegir la línea correcta no es escribirla.
 
