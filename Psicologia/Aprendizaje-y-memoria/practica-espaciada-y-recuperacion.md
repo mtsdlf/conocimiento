@@ -46,7 +46,7 @@ Aplicado, esto da una regla simple. Cerrá el material y escribí o decí lo que
 
 La idea de que cada persona aprende mejor si se le enseña en su estilo preferido no tiene sustento en lo que esta base leyó. Pashler et al. (2008) definen qué haría falta para probarla, la hipótesis que llaman de ajuste (*meshing*): un experimento con asignación al azar donde cada estilo rinda más con su método y peor con el otro, medido con una prueba final común.
 
-La preferencia existe; lo que no tiene respaldo es el beneficio de adaptar la enseñanza a ella. El resumen de Lilienfeld et al. (2010) dice que los estudios desde los años setenta no mostraron mejoras en las notas al ajustar la enseñanza al estilo. La conclusión de Pashler et al. no se leyó: el abstract disponible se corta antes.
+La preferencia existe; lo que no tiene respaldo es el beneficio de adaptar la enseñanza a ella. El resumen de Lilienfeld et al. (2010) dice que los estudios desde los años setenta no mostraron mejoras en las notas al ajustar la enseñanza al estilo. La conclusión de Pashler et al. no se leyó: el abstract disponible se corta antes. Cuántos docentes lo creen y el experimento de Rogowsky et al. (2015) están en [mitos de la enseñanza](../../Didactica/Fundamentos/mitos-de-la-ensenanza.md#estilos-e-inteligencias-múltiples), del área Pedagogía.
 
 ## Cuánto se sostiene
 
