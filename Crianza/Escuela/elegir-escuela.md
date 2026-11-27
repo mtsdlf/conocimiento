@@ -9,6 +9,8 @@ fuentes:
   - https://naeyc.org/sites/default/files/globally-shared/staff-to-child-ratio-class-size-2025.pdf
   - https://fpg.unc.edu/publications/investing-our-future-evidence-base-preschool-education
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC2938040
+  - https://www.cippec.org/wp-content/uploads/2019/06/UNICEF-CIPPEC-La-regulación-del-nivel-inicial-en-Argentina-Panorama-Normativo_Series-Mapa-1.pdf
+  - https://www.educ.ar/recursos/116254/elegir-escuela-ese-momento-clave-en-la-familia
 aliases: [elegir jardín, elegir colegio, calidad del jardín, CLASS]
 dueno: familia
 creado: 2026-11-27
@@ -43,10 +45,12 @@ Yoshikawa y otros (2013) agregan que la calidad depende del apoyo a los docentes
 
 ## Lo estructural: cantidad de chicos y horas
 
-La cantidad de chicos por adulto y el tamaño del grupo son estándares que fijan las sociedades profesionales y las normas de habilitación. La NAEYC publica los suyos ([NAEYC 2025](https://naeyc.org/sites/default/files/globally-shared/staff-to-child-ratio-class-size-2025.pdf)), pero las cifras para 3 a 5 años no se pudieron confirmar en el documento original y son estadounidenses, así que no se dan acá.
+La cantidad de chicos por adulto y el tamaño del grupo son estándares que fijan las sociedades profesionales y las normas de habilitación. La NAEYC publica los suyos ([NAEYC 2025](https://naeyc.org/sites/default/files/globally-shared/staff-to-child-ratio-class-size-2025.pdf)), pero las cifras para 3 a 5 años no se pudieron confirmar en el documento original y son estadounidenses, así que no se dan acá. Lo que dicen las provincias argentinas está más abajo.
+
+**En Argentina no hay un número nacional.** El informe de UNICEF y CIPPEC «La regulación del nivel inicial en Argentina» (2019, con datos de 2017-2018; leída la sección de regulación y su tabla 13) cuenta que cada provincia fija los suyos y que no todas lo hacen: «La cantidad máxima de niños por sala o por adulto varía según la edad». Para la sala de 3 años, el máximo va de 15 a 28 alumnos por docente; para las de 4 y 5, de 19 a 30. Algunos ejemplos de la tabla (sala de 3 / 4 / 5 años): Buenos Aires 28 / 28 / 28; CABA 25 / 30 / 30; Córdoba 20 / 25 / 30; Entre Ríos 15 / 20 / 25; Santa Fe 18 / 25 / 25. Cinco provincias no tenían dato al cierre del informe y algunas cifras venían de las autoridades provinciales, sin norma que las respalde. Son datos de hace años: se preguntan en la dirección de nivel inicial de la provincia. Los máximos legales son techos, no una buena práctica: una sala de 28 es legal en Buenos Aires.
 
 > [!NOTE]
-> Sin fuente todavía: la normativa argentina de cantidad de chicos por docente y habilitación de jardines (varía por provincia) y las cifras verificadas de la NAEYC.
+> Sin fuente todavía: las cifras de la NAEYC (la página del documento de 2025 no se pudo abrir y no se confirmaron los números) y cualquier norma provincial posterior a 2018.
 
 Las horas también cuentan: en el estudio del NICHD (el Instituto Nacional de Salud Infantil y Desarrollo Humano de Estados Unidos), más horas en cuidado se asociaron con más impulsividad y conductas de riesgo a los 15 años, y más calidad con mejores resultados ([Vandell 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2938040)). Más contexto sobre esa evidencia está en [jardín](jardin.md).
 
@@ -60,7 +64,10 @@ Un chico con altas capacidades suma preguntas propias: si la escuela enriquece, 
 
 ## Qué fuentes se leyeron completas y cuáles por resumen
 
-Mashburn y otros (2008), Yoshikawa y otros (2013) y Vandell (2010) se leyeron por su resumen, no completos. El metaanálisis del CLASS se conoce solo por un resumen del buscador. Las cifras de la NAEYC no se confirmaron en el documento original.
+Mashburn y otros (2008), Yoshikawa y otros (2013) y Vandell (2010) se leyeron por su resumen, no completos. El metaanálisis del CLASS se conoce solo por un resumen del buscador. Las cifras de la NAEYC no se confirmaron en el documento original. El informe de UNICEF y CIPPEC se leyó en su sección de regulación; la guía de educ.ar, según un extracto.
 
-> [!NOTE]
-> Sin fuente todavía: una guía en castellano, argentina o de una sociedad profesional, sobre qué mirar al elegir jardín.
+## Una guía argentina de la que sale la lista
+
+El portal educ.ar, del Ministerio de Educación de la Nación, publica «Elegir escuela: ese momento clave en la familia» (Fabricio Espíndola, 2013; última modificación el 8 de julio de 2025; leída según un extracto). Es una nota con opiniones de especialistas, no una norma ni un estudio, y apunta a los niveles inicial, primario y secundario. Propone mirar el proyecto pedagógico («coincide con mi manera de entender la educación»), la cercanía, si «el edificio se encuentra en buenas condiciones», la coherencia entre los valores de la familia y los de la escuela, y si conviene jornada simple o completa (hay chicos que «se agotan» con la completa). Sugiere preguntar cómo se acompaña a los chicos con dificultades, cómo se conforma el equipo docente y qué se hace en los recreos. Y «visitar la escuela en horario de funcionamiento» para ver las entradas y las salidas y el comportamiento de chicos, docentes y familias.
+
+Coincide con la lista de arriba en visitar y observar, y agrega lo práctico (distancia, jornada). No habla de la calidad de la interacción docente-chico, que es lo que la investigación pesa más.
