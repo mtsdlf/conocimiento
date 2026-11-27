@@ -35,7 +35,7 @@ Casi toda cifra de la base sobre cuánto trabajo hay y quién lo hace sale de un
 
 Hay dos formas de preguntar. El **diario de actividad** reconstruye un día concreto, en general el anterior, momento por momento: a las 8 desayuné, de 8:30 a 9 lavé la ropa. La **pregunta estilizada** pide una estimación: «¿cuántas horas por semana dedica a las tareas de la casa?». La pregunta es barata y entra en cualquier encuesta; el diario cuesta más y da un día, pero ata la respuesta a lo que pasó.
 
-Un estudio de primeros padres muestra la diferencia. Yavorsky, Kamp Dush y Schoppe-Sullivan (2015) siguieron a 182 parejas de doble ingreso de Ohio con diarios y con encuesta. Con la encuesta, ambos declaraban unas 30 horas más de trabajo tras el parto, sin diferencia entre ellos. Con los diarios, ellas sumaban 15 horas semanales más de trabajo total y ellos 5. Los autores lo dicen así: con solo la encuesta, «gender work inequalities would not have been apparent». La muestra es chica, educada y no representativa.
+Un estudio de primeros padres muestra la diferencia. Yavorsky, Kamp Dush y Schoppe-Sullivan (2015) siguieron a 182 parejas de doble ingreso de Ohio con diarios y con encuesta. Con la encuesta, ambos declaraban unas 30 horas más de trabajo tras el parto, sin diferencia entre ellos. Con los diarios, el trabajo total de ellas subía unas 21 horas semanales y el de ellos unas 12,5, contando todo el cuidado (15 y 5 sin el tiempo de interacción con el bebé); el estudio está en [transiciones](../Reparto/transiciones.md). Los autores lo dicen así: con solo la encuesta, «gender work inequalities would not have been apparent». La muestra es chica, educada y no representativa.
 
 ## Quién infla sus horas
 
@@ -44,11 +44,11 @@ Las preguntas directas dan más horas que los diarios, y no solo en los varones.
 > [!IMPORTANT]
 > Las fuentes no coinciden en quién sobrerreporta más.
 >
-> - **Los varones, en proporción.** Según un resumen secundario, Press y Townsley estimaron que los varones sobrerreportaban un 148 % y las mujeres un 68 %: ellos declaraban 7,7 horas semanales contra unas 4,2 en los diarios, y ellas 31,8 contra unas 18,4. Cifras no verificadas en el original. Lee y Waite (2005, según una cita secundaria) hallaron que las esposas estimaban bien el tiempo de sus maridos y que los maridos sobrestimaban el propio.
+> - **Los varones, en proporción.** Según un resumen secundario, Press y Townsley estimaron que los varones sobrerreportaban un 148 % y las mujeres un 68 %: ellos declaraban 7,7 horas semanales contra unas 4,2 en los diarios, y ellas 31,8 contra unas 18,4. Cifras no verificadas en el original, y las horas no coinciden con los porcentajes del mismo resumen. Lee y Waite (2005, según una cita secundaria) hallaron que las esposas estimaban bien el tiempo de sus maridos y que los maridos sobrestimaban el propio.
 > - **Las mujeres, en horas.** Estudios anteriores, citados en el documento de trabajo de Kan, encontraron la diferencia entre pregunta y diario sustancialmente mayor en las mujeres.
 > - **Depende.** Kan (2008, según el abstract) comparó las dos medidas en los mismos 632 varones y 666 mujeres británicos (1999-2001): los varones con actitudes tradicionales declaran más en la pregunta que en el diario, pero la tendencia se invierte cuando hacen muchas horas, y tener hijos agranda la diferencia en los dos sexos.
 >
-> Lo firme es que las dos medidas fallan: Kan y Pudney (2007) encontraron sesgos sistemáticos en las preguntas estilizadas y errores aleatorios grandes en los dos tipos de dato. Tao (2013) halló que esposos y esposas inflan el trabajo doméstico pero no los ingresos, y lo atribuye a que una medida vaga atenúa la culpa.
+> Lo firme es que las dos medidas fallan: Kan y Pudney (2007) encontraron sesgos sistemáticos en las preguntas estilizadas y errores aleatorios grandes en los dos tipos de dato. Tao (2013) halló que esposos y esposas inflan sus tareas domésticas pero no los ingresos, y lo atribuye a que una medida vaga atenúa la culpa.
 
 ## Las encuestas de uso del tiempo
 
@@ -68,7 +68,7 @@ Los resultados cambian también según cómo se agrupan las tareas: un estudio c
 
 ## Lo que las horas no ven
 
-**La carga mental.** Anticipar, buscar opciones, decidir y controlar ocurren de fondo y a la vez que otra cosa, así que un diario casi no los registra. Las entrevistas encuentran que las mujeres hacen mucho más de ese trabajo; los estudios con medidas de tiempo encuentran brechas chicas. Aviv y colegas (2024) sostienen que los diarios lo pasan por alto. Las dos lecturas conviven: o el trabajo cognitivo es menos desigual de lo que dicen las entrevistas, o los diarios no lo captan. Esa disputa, y las escalas que se inventaron para medirlo, están en [carga mental](../Trabajo-del-hogar/carga-mental.md).
+**La carga mental.** Anticipar, buscar opciones, decidir y monitorear ocurren de fondo y a la vez que otra cosa, así que un diario casi no los registra. Las entrevistas encuentran que las mujeres hacen mucho más de ese trabajo; los estudios con medidas de tiempo encuentran brechas chicas. Aviv y colegas (2024) sostienen que los diarios lo pasan por alto. Las dos lecturas conviven: o el trabajo cognitivo es menos desigual de lo que dicen las entrevistas, o los diarios no lo captan. Esa disputa, y las escalas que se inventaron para medirlo, están en [carga mental](../Trabajo-del-hogar/carga-mental.md).
 
 **Quién se hace cargo.** Una encuesta registra quién hizo algo, no quién lo pensó o es responsable. En un estudio italiano (preprint de Barigozzi y colegas, 2025), solo cerca del 64 % de las parejas coincidía en quién organiza la casa. La diferencia entre hacer y hacerse cargo está en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md).
 
@@ -78,4 +78,4 @@ Los resultados cambian también según cómo se agrupan las tareas: un estudio c
 
 ## Lo que se mide con estas horas
 
-Las horas sirven para algo más que comparar: con ellas se calcula cuánto valdría el trabajo no pago si se pagara, que en Argentina se estimó entre el 15,3 % y el 17,7 % del PBI según el año. Cómo se hizo y por qué el número cambia está en [disciplinas del hogar](disciplinas-del-hogar.md).
+Las horas sirven para algo más que comparar: con ellas se calcula cuánto valdría el trabajo no remunerado si se pagara, que en Argentina se estimó entre el 15,3 % y el 17,7 % del PBI según el año. Cómo se hizo y por qué el número cambia está en [disciplinas del hogar](disciplinas-del-hogar.md).

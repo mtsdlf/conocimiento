@@ -6,7 +6,7 @@ estabilidad: semi
 fuentes:
   - "Goldsmith, Foundations of Family Resource Management (Routledge), índice: https://routledge.com/Foundations-of-Family-Resource-Management/Goldsmith/p/book/9780367763848"
   - "Hogar/.investigacion/vistazo.md"
-aliases: [hogar, casa, administración del hogar, organización del hogar, economía doméstica, trabajo doméstico, household, home management, household labor]
+aliases: [hogar, casa, organización del hogar, dinámica del hogar, household]
 creado: 2026-11-27
 revisado:
 ---
@@ -26,10 +26,13 @@ La base tiene cinco partes. El trabajo del hogar es lo que hay que hacer, inclui
 ```mermaid
 flowchart LR
   T[Trabajo del hogar] -->|se divide en| R[Reparto]
-  Rec[Recursos] -->|limitan y condicionan| R
+  T -->|consume| Rec[Recursos]
+  Rec -->|limitan y condicionan| R
   G[Gestión] -->|organiza| T
   G -->|asigna| R
+  G -->|decide cómo usar| Rec
   R -->|se vive como justo o injusto en| C[Convivencia]
+  C -->|con sus estándares inclina| R
   C -->|cambia lo que se acuerda en| G
 ```
 
@@ -39,7 +42,7 @@ flowchart LR
 - [Convivencia](Convivencia/convivencia.md) — la casa vista como sistema, el conflicto que nace de las tareas y los estándares distintos de orden y limpieza.
 - [Recursos](Recursos/recursos-del-hogar.md) — el tiempo, la plata en la pareja y el espacio de la vivienda.
 
-Aparte de las partes, [Fundamentos](Fundamentos/fundamentos-del-hogar.md) reúne lo que las cruza: qué disciplina estudia qué, cómo se mide el trabajo de la casa, los mitos más repetidos, las fuentes y el glosario.
+Aparte de las partes, [Fundamentos](Fundamentos/fundamentos-del-hogar.md) reúne lo que las cruza: qué disciplina estudia qué, cómo se mide el trabajo de la casa, las cifras argentinas de la ENUT 2021, los mitos más repetidos, las fuentes y el glosario.
 
 ## Qué tan firme es lo que se sabe
 
@@ -50,13 +53,20 @@ La mayoría de los estudios son de Estados Unidos y Europa. Para Argentina, la f
 ## Qué leer según lo que estés pensando
 
 - Si sentís que hay trabajo que nadie ve: [carga mental](Trabajo-del-hogar/carga-mental.md) y [trabajo del hogar](Trabajo-del-hogar/trabajo-del-hogar.md).
-- Si querés entender por qué el reparto quedó como quedó: [teorías del reparto](Reparto/teorias-del-reparto.md) y [especialización o reparto parejo](Reparto/especializacion-o-reparto-parejo.md).
+- Si querés saber qué cuenta como trabajo de la casa: [tareas domésticas](Trabajo-del-hogar/tareas-domesticas.md), [trabajo de cuidado](Trabajo-del-hogar/trabajo-de-cuidado.md) y [mantenimiento y trámites](Trabajo-del-hogar/mantenimiento-y-tramites.md).
+- Si querés entender por qué el reparto quedó como quedó: [teorías del reparto](Reparto/teorias-del-reparto.md) y [reparto](Reparto/reparto.md).
+- Si están pensando en que uno trabaje menos afuera y más en la casa: [especialización o reparto parejo](Reparto/especializacion-o-reparto-parejo.md).
 - Si el reparto genera discusiones: [equidad percibida](Reparto/equidad-percibida.md), [conflicto por la casa](Convivencia/conflicto-por-la-casa.md) y [estándares distintos](Convivencia/estandares-distintos.md).
-- Si está por llegar un hijo, o cambió el trabajo de alguien: [transiciones](Reparto/transiciones.md).
-- Si querés cambiar cómo se organiza la casa: [dueño de la tarea](Gestion/dueno-de-la-tarea.md), [rutinas y sistemas](Gestion/rutinas-y-sistemas.md) y [reunión de la casa](Gestion/reunion-de-la-casa.md).
+- Si los roles quedaron fijos sin que nadie los eligiera: [la casa como sistema](Convivencia/la-casa-como-sistema.md).
+- Si está por llegar un hijo, cambió el trabajo de alguien o alguien se jubila: [transiciones](Reparto/transiciones.md).
+- Si querés cambiar cómo se organiza la casa: [ciclo de gestión](Gestion/ciclo-de-gestion.md), [dueño de la tarea](Gestion/dueno-de-la-tarea.md), [rutinas y sistemas](Gestion/rutinas-y-sistemas.md) y [reunión de la casa](Gestion/reunion-de-la-casa.md).
 - Si estás pensando en contratar ayuda o pagar por un servicio: [hacer o tercerizar](Gestion/hacer-o-tercerizar.md) y la ficha del [servicio doméstico en Argentina](Gestion/servicio-domestico-en-argentina.md).
+- Si a alguien no le alcanza el tiempo: [tiempo del hogar](Recursos/tiempo-del-hogar.md).
 - Si la discusión es por la plata: [plata en la pareja](Recursos/plata-en-la-pareja.md).
-- Si un término no se entiende (carga cognitiva, gatekeeping, doing gender): [glosario del hogar](Fundamentos/glosario-del-hogar.md).
+- Si la casa queda chica o alguien trabaja desde ahí: [espacio de la vivienda](Recursos/espacio.md).
+- Si tenés que decidir cuánto creerle a una cifra o a una frase que se repite: [cómo se mide](Fundamentos/como-se-mide.md), la [ficha de la ENUT 2021](Fundamentos/enut-2021.md) y [mitos del hogar](Fundamentos/mitos-del-hogar.md).
+- Si querés saber de qué campo viene una afirmación o qué leer: [disciplinas del hogar](Fundamentos/disciplinas-del-hogar.md) y [fuentes sobre el hogar](Fundamentos/fuentes-sobre-el-hogar.md).
+- Si un término no se entiende (trabajo cognitivo, *gatekeeping*, *doing gender*): [glosario del hogar](Fundamentos/glosario-del-hogar.md).
 
 ## Por dónde empezar
 

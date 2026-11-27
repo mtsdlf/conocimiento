@@ -42,7 +42,7 @@ Casi todos tienen algo de cierto, y por eso duran. Lo que falla suele ser el tam
 | Lo que se dice | Lo que dice la evidencia |
 |---|---|
 | Los varones ya hacen la mitad | La brecha se achicó mucho y quedó a mitad de camino |
-| La tecnología ahorra trabajo doméstico | Discutido; varios estudios no ven que reduzca el tiempo de las mujeres |
+| La tecnología ahorra trabajo en la casa | Discutido; varios estudios no ven que reduzca el tiempo de las mujeres |
 | Las mujeres son mejores para la multitarea | Hacen más multitarea y la viven peor; sobre la capacidad no se encontró evidencia |
 | Fair Play funciona | No hay evaluación independiente ni revisada por pares |
 | Las mujeres trabajan un mes extra por año | La cifra de Hochschild se revisó a la baja |
@@ -51,48 +51,37 @@ Casi todos tienen algo de cierto, y por eso duran. Lo que falla suele ser el tam
 
 ## «Los varones ya hacen la mitad»
 
-Hubo un cambio grande, pero no llegó a la mitad. En Estados Unidos, las mujeres casadas de 25 a 64 años pasaron de 33,9 horas semanales de tareas domésticas en 1965 a 17,8 en 2009/10, y los varones casados, de 4,7 a 10,3 (Bianchi y colegas 2012). En 2009/10, las casadas todavía hacían 1,7 veces lo de los casados, y las madres casadas, 1,9 veces. Kan, Sullivan y Gershuny (2011) describen la convergencia como lenta e incompleta: los varones sumaron sobre todo tareas no rutinarias, y la limpieza, la cocina y el cuidado siguen siendo mayormente de ellas. England (2010) la llama una revolución «uneven and stalled».
+Hubo un cambio grande, pero no llegó a la mitad. En Estados Unidos, las mujeres casadas de 25 a 64 años pasaron de 33,9 horas semanales de tareas domésticas en 1965 a 17,8 en 2009/10, y los varones casados, de 4,7 a 10,3 (Bianchi y colegas 2012). En 2009/10, las casadas todavía hacían 1,7 veces lo de los casados, y las madres casadas, 1,9 veces. Kan, Sullivan y Gershuny (2011) describen la convergencia como lenta e incompleta: los varones sumaron sobre todo tareas no rutinarias, y la limpieza, la cocina y el cuidado siguen siendo mayormente de ellas. England (2010) la llama una revolución «uneven and stalled»; la serie de horas está en [tareas domésticas](../Trabajo-del-hogar/tareas-domesticas.md) y la revolución estancada, en [reparto](../Reparto/reparto.md).
 
 En Argentina, la [ENUT 2021](enut-2021.md) muestra que las mujeres participan más del trabajo doméstico y le dedican más horas que los varones. Según una encuesta de Pew de 2023 citada por el Harvard Gazette, las madres dicen hacer más y los padres dicen que se reparte parejo. Por qué persiste la brecha está en [teorías del reparto](../Reparto/teorias-del-reparto.md).
 
-## «La tecnología ahorra trabajo doméstico»
+## «La tecnología ahorra trabajo en la casa»
 
-> [!IMPORTANT]
-> La evidencia está dividida.
->
-> - **No ahorra.** Vanek (1974) argumentó, con diarios de amas de casa desde la década de 1920, que el tiempo de trabajo doméstico casi no cambió pese a los electrodomésticos. Cowan (1983) sostuvo que la tecnología pasó la carga de los varones y de los hijos a las madres y esposas. Bittman, Rice y Wajcman (2004), con la encuesta australiana de uso del tiempo de 1997, que trae horas e inventario de aparatos, encontraron que la tecnología rara vez reduce el tiempo de trabajo no pago de las mujeres y a veces lo aumenta.
-> - **Esa conclusión no está probada.** Gershuny respondió en el mismo número de la revista que el estudio australiano confunde diferencias entre personas con cambio histórico. Harms (UCL), según un resumen, cita a Ramey (2009) entre quienes dudan de la constancia y sugiere que podría reflejar que se estudiaron amas de casa de hogares más exigentes.
->
-> Bittman, Rice y Wajcman describen además la división por sexo como «notablemente resistente» a la innovación tecnológica. Cómo entra la tecnología en la decisión de comprar tiempo está en [hacer o tercerizar](../Gestion/hacer-o-tercerizar.md).
+La evidencia está dividida. Vanek (1974) y Cowan sostuvieron que los electrodomésticos casi no bajaron el tiempo de tareas domésticas y que la carga pasó a las madres y esposas. Bittman, Rice y Wajcman (2004) encontraron en Australia que la tecnología rara vez reduce el tiempo de trabajo no remunerado de las mujeres y a veces lo aumenta. Del otro lado, Gershuny respondió en el mismo número de la revista que ese estudio confunde diferencias entre personas con cambio histórico, y Harms duda de que el tiempo haya sido constante. Los estudios y la disputa están en [hacer o tercerizar](../Gestion/hacer-o-tercerizar.md).
 
 ## «Las mujeres son mejores para la multitarea»
 
-No se encontró evidencia de que lo sean, pero tampoco se buscaron estudios de rendimiento cognitivo, así que el mito no queda refutado sobre la capacidad. Lo que sí hay es una diferencia de carga. Offer y Schneider (2011), con 368 madres y 241 padres de parejas de doble ingreso, encontraron que las madres hacen unas 10 horas semanales más de multitarea (48,3 contra 38,9, según el comunicado de prensa), sobre todo en tareas domésticas y de cuidado. Solo ellas la vivían con emociones negativas en casa. El estudio mide cuánto multitarea cada uno y cómo se siente, no quién lo hace mejor.
+No se encontró evidencia de que lo sean, pero tampoco se buscaron estudios de rendimiento cognitivo, así que el mito no queda refutado sobre la capacidad. Lo que sí hay es una diferencia de carga: según Offer y Schneider (2011), las madres de parejas de doble ingreso hacen unas 10 horas semanales más de multitarea que los padres, y solo ellas la viven con emociones negativas en casa. El estudio mide cuánta multitarea hace cada uno y cómo se siente, no quién la hace mejor; está en [tiempo del hogar](../Recursos/tiempo-del-hogar.md).
 
 ## «Fair Play funciona»
 
-*Fair Play* es un libro de 2019 y un mazo de cartas de Eve Rodsky para repartir las tareas de la casa; es un método de practicantes. No se encontró una evaluación independiente ni revisada por pares. Lo más cercano es un informe de USC Public Exchange de diciembre de 2024, hecho en coordinación con el Fair Play Policy Institute, el instituto del propio método. Según la lectura de la socióloga Allison Daminger, el informe tuvo más de 500 participantes, casi todas madres, y encontró más igualdad con cambios modestos, mayores en el trabajo de pensar que en el de hacer. De 337 invitados, el 56 % empezó y el 27 % terminó; no fue aleatorizado y respondía un solo miembro de la pareja.
+*Fair Play* es un libro de 2019 y un mazo de cartas de Eve Rodsky para repartir las tareas de la casa; es un método de practicantes. No se encontró una evaluación independiente ni revisada por pares. Lo más cercano es un informe de USC Public Exchange de diciembre de 2024, hecho en coordinación con el Fair Play Policy Institute, el instituto del propio método: no fue aleatorizado y encontró más igualdad con cambios modestos. Sus cifras y la lectura de la socióloga Allison Daminger, que pide estudios más grandes y aleatorizados, están en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md).
 
-El instituto afirma que el 61 % de quienes usaron al menos parte del método vio más igualdad en casa, sin un grupo de comparación declarado. Un artículo del *Journal of the Association for Research on Mothering* lo lee como un posible refuerzo de la maternidad como institución. Daminger lo considera la mejor herramienta de bajo costo que vio y pide estudios más grandes y aleatorizados. El método y sus críticas están en [dueño de la tarea](../Gestion/dueno-de-la-tarea.md).
+El instituto afirma que el 61 % de quienes usaron al menos parte del método vio más igualdad en casa, sin un grupo de comparación declarado. Un artículo del *Journal of the Association for Research on Mothering* lo lee como un posible refuerzo de la maternidad como institución.
 
 ## «Las mujeres trabajan un mes extra por año»
 
-La cifra viene de *The Second Shift* (1989), donde Arlie Hochschild estimó que las madres con empleo trabajaban unas 15 horas semanales más que sus parejas, «un mes» por año. Se basó en entrevistas a unas 50 familias (50 o 52 parejas, según la fuente) y en diarios de uso del tiempo.
-
-> [!IMPORTANT]
-> Revisiones posteriores dan menos, y no coinciden entre sí. Milkie y colegas (2010) reportan que la carga total de las madres supera a la de los padres en «una semana y media» por año, no un mes. Una reaplicación del método con datos de la oficina de estadísticas laborales de Estados Unidos, contada por la revista Fast Company, dio 0,28 horas por día de diferencia, unas 102 horas al año. Las tres fuentes se leyeron por resumen.
-
-La idea de la segunda jornada sigue en pie; lo que se discute es el número. Ver [tiempo del hogar](../Recursos/tiempo-del-hogar.md).
+La cifra viene de *The Second Shift* (1989), donde Arlie Hochschild estimó que las madres con empleo trabajaban unas 15 horas semanales más que sus parejas, «un mes» por año. Las revisiones posteriores dan menos y no coinciden entre sí: «una semana y media» por año según Milkie y colegas (2010), y unas 102 horas al año según una reaplicación del método contada por la prensa. La idea de la segunda jornada sigue en pie; lo que se discute es el número. La disputa, con las fuentes de cada cifra, está en [tiempo del hogar](../Recursos/tiempo-del-hogar.md).
 
 ## «Cuando ella gana más, se reparte parejo»
 
-Ganar más no iguala el reparto. En Australia, la mayor ganancia de la mujer baja su trabajo doméstico solo mientras aporta menos de la mitad del ingreso; por encima, el patrón se revierte (Bittman y colegas 2003, según un resumen), y con horas e ingresos iguales ellas siguen haciendo más. En Estados Unidos, cuando la esposa pierde el empleo, su trabajo doméstico sube 6,39 horas semanales; cuando lo pierde el marido, 3,19 (Gough y Killewald 2011). En Argentina, las mujeres con empleo que hacen trabajo doméstico le dedican más tiempo que los varones sin empleo ([ENUT 2021](enut-2021.md), cuadro 21).
+Ganar más no iguala el reparto. En Australia, la mayor ganancia de la mujer baja sus tareas domésticas solo mientras aporta menos de la mitad del ingreso; por encima, el patrón se revierte (Bittman y colegas 2003, según un resumen), y con horas e ingresos iguales ellas siguen haciendo más. En Estados Unidos, cuando la esposa pierde el empleo, sus tareas domésticas suben 6,39 horas semanales; cuando lo pierde el marido, 3,19 (Gough y Killewald 2011). En Argentina, las mujeres con empleo que hacen trabajo doméstico le dedican más tiempo que los varones sin empleo ([ENUT 2021](enut-2021.md), cuadro 21).
 
 La explicación se discute. Bittman y colegas lo leen como una compensación de la norma de que el varón gane más; Killewald y Gough (2010) sostienen que esa lectura es un artefacto de no modelar bien el ingreso absoluto de ella. El debate está en [teorías del reparto](../Reparto/teorias-del-reparto.md).
 
 ## «Solo los varones exageran lo que hacen»
 
-Eve Rodsky dijo al Harvard Gazette que «men overreport what they do, and women underreport what they do», sin datos. Los estudios muestran que los dos sexos inflan sus horas cuando se les pregunta directamente: según un resumen secundario, Press y Townsley estimaron que los varones sobrerreportaban un 148 % y las mujeres un 68 %. Quién infla más depende del estudio y de la persona; la disputa está en [cómo se mide](como-se-mide.md).
+Eve Rodsky dijo al Harvard Gazette que «men overreport what they do, and women underreport what they do», sin datos. Los estudios muestran que los dos sexos inflan sus horas cuando se les pregunta directamente: según un resumen secundario de Press y Townsley, más en porcentaje los varones. Quién infla más depende del estudio y de la persona; las cifras y la disputa están en [cómo se mide](como-se-mide.md).
 
 > [!NOTE]
 > Sin fuente todavía: otras creencias populares, como que «ayudar» en la casa es lo mismo que compartirla o que el reparto es solo una cuestión de estándares de limpieza. Se buscaron y no se encontraron estudios que las midan como creencias.

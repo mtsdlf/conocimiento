@@ -13,7 +13,7 @@ fuentes:
   - "JSTOR Daily, nota de divulgación sobre Daminger (2019): https://daily.jstor.org/the-gendered-labor-of-noticing-and-anticipating (texto completo de la nota)"
   - "Estudio con la ATUS 2003-2019 en Sex Roles (2023): https://link.springer.com/article/10.1007/s11199-023-01382-w (resumen del buscador; autores no identificados)"
   - "Hogar/.investigacion/trabajo-del-hogar.md"
-aliases: [mantenimiento y trámites, mantenimiento del hogar, arreglos, reparaciones, refacciones, trámites, papeles, administración del hogar, household management, home maintenance]
+aliases: [mantenimiento y trámites, mantenimiento del hogar, arreglos, reparaciones, refacciones, trámites, papeles, household management, home maintenance]
 creado: 2026-11-27
 revisado:
 ---
@@ -42,6 +42,6 @@ Cuánto pesa el mantenimiento en una comparación depende de cómo se clasifique
 
 La administración del hogar consiste sobre todo en saber qué vence, juntar los papeles, elegir un servicio y armar el presupuesto. Por eso se parece más a la [carga mental](carga-mental.md) que a un arreglo; es una lectura de esta base al comparar las definiciones, no la conclusión de un estudio. En las nueve áreas del hogar que estudió Daminger, las finanzas y el mantenimiento son las que más suelen liderar los varones: según la nota de JSTOR Daily sobre su artículo, los varones lideraban en promedio 1,6 de 9 áreas, «most often maintenance or finances». La cifra no se cotejó con el artículo.
 
-La plata de la pareja como dinámica (cuentas juntas o separadas, quién decide) está en [plata en la pareja](../Recursos/plata-en-la-pareja.md); el presupuesto y el ahorro quedan para un tema de finanzas personales. Cómo se administra una casa como ciclo de metas, decisiones y control está en [ciclo de gestión](../Gestion/ciclo-de-gestion.md), y la opción de pagarle a alguien por un arreglo, en [hacer o tercerizar](../Gestion/hacer-o-tercerizar.md).
+La plata de la pareja como dinámica (cuentas juntas o separadas, quién decide) está en [plata en la pareja](../Recursos/plata-en-la-pareja.md); el presupuesto y el ahorro quedan para un tema de finanzas personales. Cómo se administra una casa como ciclo de metas, decisiones y evaluación está en [ciclo de gestión](../Gestion/ciclo-de-gestion.md), y la opción de pagarle a alguien por un arreglo, en [hacer o tercerizar](../Gestion/hacer-o-tercerizar.md).
 
 > [!NOTE] Sin fuente todavía: qué dice la administración de recursos familiares (el campo de los manuales como el de Goldsmith) sobre los trámites y la administración doméstica concreta, y cifras argentinas de mantenimiento y trámites por separado. La investigación de esta base no pudo leer ninguna de las dos.

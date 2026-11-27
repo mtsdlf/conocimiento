@@ -37,7 +37,7 @@ Craig (2006) separa tres cosas al medir el cuidado de los hijos: las actividades
 
 La distinción entre cuidado directo, indirecto y supervisión no tiene, en lo leído, una definición propia. Lo más cercano que está medido es el cuidado primario contra el secundario de la ATUS, donde el secundario equivale a vigilar mientras se hace otra cosa, y las tres medidas de Craig (actividad, simultaneidad y estar a cargo).
 
-> [!NOTE] Sin fuente todavía: definiciones explícitas de cuidado directo, indirecto y supervisión en una revisión del campo (por ejemplo, de la economía del cuidado). Solo están la distinción primaria y secundaria de la ATUS y la de Craig, esta última por resúmenes.
+> [!NOTE] Sin fuente todavía: definiciones explícitas de cuidado directo, indirecto y supervisión en una revisión del campo (por ejemplo, de la [economía del cuidado](../Fundamentos/disciplinas-del-hogar.md)). Solo están la distinción primaria y secundaria de la ATUS y la de Craig, esta última por resúmenes.
 
 ## Cuánto tiempo lleva
 

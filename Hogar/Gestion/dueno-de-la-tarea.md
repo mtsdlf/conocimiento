@@ -17,7 +17,7 @@ fuentes:
   - "Stone, Unfair Play, Substack, texto completo parcial: https://lymanstone.substack.com/p/unfair-play"
   - "Rodsky, Fair Play (libro, 2019), descrito por Daminger"
   - "Hogar/.investigacion/gestion.md (sección 2) y posicion-contraria.md (secciones 1 y 7)"
-aliases: [hacerse cargo, responsable de la tarea, ayudar en la casa, manager y helper, ownership, gatekeeping, Fair Play]
+aliases: [hacerse cargo, responsable de la tarea, ayudar en la casa, manager y helper, ownership, gatekeeping, maternal gatekeeping, gatekeeping materno, cuidar la puerta, Fair Play]
 creado: 2026-11-27
 revisado:
 ---
@@ -26,17 +26,15 @@ revisado:
 
 Ser dueño de una tarea es hacerse cargo de ella de punta a punta (darse cuenta de que hace falta, pensar cómo, decidir, hacerla y controlar que quedó), a diferencia de ayudar, que es ejecutar lo que otra persona pensó y pidió.
 
-La diferencia importa porque la parte que no se ve de una tarea suele quedar en una sola persona aunque la ejecución se reparta. Quien «ayuda» puede hacer la mitad de las tareas y aun así dejar a la otra persona todo el trabajo de anticiparlas y controlarlas. Como inferencia de la base, es la versión doméstica de la etapa de planificar y evaluar del [ciclo de gestión](ciclo-de-gestion.md).
+La diferencia importa porque la parte que no se ve de una tarea suele quedar en una sola persona aunque la ejecución se reparta. Quien «ayuda» puede hacer la mitad de las tareas y aun así dejar a la otra persona todo el trabajo de anticiparlas y monitorearlas. Como inferencia de la base, es la versión doméstica de la etapa de planificar y evaluar del [ciclo de gestión](ciclo-de-gestion.md).
 
 ## Lo que la academia llama trabajo cognitivo
 
-El par «dueño contra ayudante» circula en la divulgación, pero no se encontró un estudio que lo mida con ese nombre. El equivalente académico más sólido es el trabajo cognitivo de Allison Daminger, que se desarrolla en la nota de [carga mental](../Trabajo-del-hogar/carga-mental.md).
+El par «dueño contra ayudante» circula en la divulgación, pero no se encontró un estudio que lo mida con ese nombre. El equivalente académico más sólido es el trabajo cognitivo de Allison Daminger (2019), con sus cuatro etapas: anticipar, identificar opciones, decidir y monitorear. En las parejas que entrevistó, las mujeres hacían más trabajo cognitivo en total, y sobre todo más anticipación y monitoreo, mientras que la participación en la decisión era «aproximadamente igual»; también lo describe como una frecuente fuente de conflicto (según su abstract). El estudio, que es cualitativo y chico, y las escalas que vinieron después están en [carga mental](../Trabajo-del-hogar/carga-mental.md).
 
-Daminger (2019) entrevistó a 35 parejas (70 entrevistas) y separó el trabajo cognitivo en cuatro pasos: anticipar necesidades, identificar opciones, decidir y monitorear. Según su abstract, las mujeres de su estudio hacen más trabajo cognitivo en total, y en particular más anticipación y monitoreo, pero la participación de varones y mujeres en la decisión es «aproximadamente igual». También lo describe como una frecuente fuente de conflicto.
+Como inferencia de la base, esa distinción es la que importa para hacerse cargo. Decidir juntos no alcanza: si una persona es la que se da cuenta de que falta algo y la que revisa que se haya hecho, la tarea sigue siendo suya. Ser dueño implica tomar también la primera y la última etapa.
 
-Como inferencia de la base, esa distinción es la que importa para hacerse cargo. Decidir juntos no alcanza: si una persona es la que se da cuenta de que falta algo y la que revisa que se haya hecho, la tarea sigue siendo suya. Ser dueño implica tomar también el primer y el último paso.
-
-Los límites del estudio son grandes. Es cualitativo, con una muestra chica de clase media y media alta, según un resumen; no permite estimar cuántas parejas viven así. Una revisión sistemática de 31 artículos (Reich-Stiebert y otros, 2023) concluye, según su abstract, que «predominantemente» las mujeres cargan con la mayor parte del trabajo mental, sobre todo en las decisiones de crianza, con más estrés y menos satisfacción; sus muestras son sobre todo de clase media de Estados Unidos y Europa.
+Una revisión sistemática de 31 artículos (Reich-Stiebert y otros, 2023) concluye, según su abstract, que «predominantemente» las mujeres cargan con la mayor parte de la carga mental, sobre todo en las decisiones de crianza, con más estrés y menos satisfacción; sus muestras son sobre todo de clase media de Estados Unidos y Europa.
 
 > [!NOTE] Sin fuente todavía: una medida cuantitativa, en población general, de quién concibe y planifica las tareas de la casa (la «responsabilidad» como algo distinto de las horas).
 

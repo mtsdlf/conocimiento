@@ -22,7 +22,7 @@ Estas notas sirven para leer cualquier parte del [hogar](../hogar.md). Las disci
 
 ## Lo que se sabe sale de encuestas y entrevistas
 
-Casi todo lo que se sabe del hogar es observacional. Las encuestas de uso del tiempo miden horas con diarios de un día, y las entrevistas captan lo que las horas no ven, como la carga mental. Los dos métodos discrepan a menudo: con una encuesta, los primeros padres de un estudio de Ohio declaraban el mismo aumento de trabajo tras el parto, y con diarios ellas sumaban 15 horas semanales más de trabajo total y ellos 5 (Yavorsky y colegas 2015). Que algo se asocie con una pareja más satisfecha no prueba que la cause.
+Casi todo lo que se sabe del hogar es observacional. Las encuestas de uso del tiempo miden horas con diarios de un día, y las entrevistas captan lo que las horas no ven, como la carga mental. Los dos métodos discrepan a menudo: con una encuesta, los primeros padres de un estudio de Ohio declaraban el mismo aumento de trabajo tras el parto, y con diarios el trabajo total de ellas subía unas 21 horas semanales y el de ellos unas 12,5 (Yavorsky y colegas 2015, en [transiciones](../Reparto/transiciones.md)). Que algo se asocie con una pareja más satisfecha no prueba que la cause.
 
 Los estudios son sobre todo de Estados Unidos, Europa y Australia, y muchos se leyeron solo por su resumen; cada nota dice cuáles. Para Argentina, la fuente es la ENUT 2021 del INDEC, que da el nivel y la brecha por sexo pero no cómo reparte cada pareja. Los marcos de practicantes, como *Fair Play*, se citan como lo que dicen sus autores.
 

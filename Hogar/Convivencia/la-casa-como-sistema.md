@@ -25,11 +25,11 @@ revisado:
 
 Mirar la casa como sistema es tratar a quienes conviven como partes que se afectan entre sí, con roles, límites y reglas que nadie escribió; la idea viene de la terapia familiar (Minuchin, Bowen y Olson), cuyos marcos tienen evidencia muy dispar y casi nunca estudiaron las tareas.
 
-Es una de las tres piezas de la [convivencia](convivencia.md), y la más lejana del trabajo doméstico. Los tres marcos nacieron en la clínica, describen sobre todo familias con hijos y no predicen quién lava los platos. Lo que aportan es vocabulario para nombrar lo que pasa en una casa. Lo que sigue es descriptivo y no reemplaza la consulta con un profesional; [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md) ayuda a decidir.
+Es una de las tres piezas de la [convivencia](convivencia.md), y la más lejana de las tareas. Los tres marcos nacieron en la clínica, describen sobre todo familias con hijos y no predicen quién lava los platos. Lo que aportan es vocabulario para nombrar lo que pasa en una casa. Lo que sigue es descriptivo y no reemplaza la consulta con un profesional; [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md) ayuda a decidir.
 
 ## Por qué estos marcos casi no tocan las tareas
 
-La teoría de sistemas familiares viene de la terapia y del desarrollo familiar, y la usan sobre todo terapeutas que atienden familias. Según el informe de investigación de esta base, el campo no la usa para explicar el reparto del trabajo doméstico: esa pregunta la contestan la sociología y la economía, en las [teorías del reparto](../Reparto/teorias-del-reparto.md). La idea de leer «la casa» como sistema es entonces un préstamo, y esta nota la trata así.
+La teoría de sistemas familiares viene de la terapia y del desarrollo familiar, y la usan sobre todo terapeutas que atienden familias. Según el informe de investigación de esta base, el campo no la usa para explicar el reparto del trabajo de la casa: esa pregunta la contestan la sociología y la economía, en las [teorías del reparto](../Reparto/teorias-del-reparto.md). La idea de leer «la casa» como sistema es entonces un préstamo, y esta nota la trata así.
 
 Lo que los tres marcos comparten es una premisa: lo que hace una persona en la familia responde a lo que hacen las otras, y no solo a su carácter. Esa premisa se presenta acá como el punto de partida de la escuela, no como un hallazgo.
 
@@ -43,7 +43,7 @@ La investigación de esta base no encontró ninguna revisión sistemática ni me
 
 ## Bowen: la diferenciación tiene apoyo, la triangulación no
 
-El concepto central de Murray Bowen es la diferenciación: la capacidad de una persona de seguir pensando por sí misma y sostener su posición sin cortar el vínculo cuando la familia está tensa. Otro concepto es la triangulación: cuando dos personas en tensión meten a una tercera (un hijo, un pariente) para bajar la presión entre ellas. Según el Bowen Center, el «self» menos desarrollado deja a la persona más a merced de lo que hacen los demás, y un triángulo es un sistema de tres personas: cuando una relación de dos no aguanta la tensión, suma a una tercera. La formulación en términos de «seguir pensando por sí misma» y «bajar la presión» es una paráfrasis de esta base, no una cita; el glosario del hogar puede precisarlas.
+El concepto central de Murray Bowen es la diferenciación: la capacidad de una persona de seguir pensando por sí misma y sostener su posición sin cortar el vínculo cuando la familia está tensa. Otro concepto es la triangulación: cuando dos personas en tensión meten a una tercera (un hijo, un pariente) para bajar la presión entre ellas. Según el Bowen Center, el «self» menos desarrollado deja a la persona más a merced de lo que hacen los demás, y un triángulo es un sistema de tres personas: cuando una relación de dos no aguanta la tensión, suma a una tercera. La formulación en términos de «seguir pensando por sí misma» y «bajar la presión» es una paráfrasis de esta base, no una cita.
 
 Bowen es el único de los tres marcos que tiene una revisión que lo evalúa contra sus propios supuestos. Miller, Anderson y Keala (2004) hallaron, según su abstract, «empirical support for the relationship between differentiation and chronic anxiety», y también relación de la diferenciación con la satisfacción marital y con el malestar psicológico.
 

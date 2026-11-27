@@ -14,7 +14,7 @@ fuentes:
   - "Bellani, Esping-Andersen y Pessin, equidad y estabilidad marital, presentación en la PAA 2017 — https://paa.confex.com/paa/2017/mediafile/ExtendedAbstract/Paper16071/BellaniEspingPessin_Equity.pdf (resumen extendido, leído por resumen)"
   - "Hogar/.investigacion/reparto.md"
   - "Hogar/.investigacion/posicion-contraria.md"
-aliases: [especialización, ventaja comparativa, nueva economía del hogar, modelo de Becker, negociación en la pareja, bargaining, reparto igualitario, especialización de roles]
+aliases: [especialización, ventaja comparativa, modelo de Becker, negociación en la pareja, bargaining, reparto igualitario, especialización de roles]
 creado: 2026-11-27
 revisado:
 ---
@@ -48,7 +48,7 @@ Iversen, Rosenbluth y Soskice (2005) sostienen que un modelo de negociación med
 
 ## Los riesgos de que uno se especialice en la casa
 
-**La estabilidad del matrimonio ya no depende de que ella se quede en casa.** Killewald (2016) siguió a más de 6.300 parejas de distinto sexo en Estados Unidos entre 1968 y 2013. En los matrimonios de 1975 a 2011, lo que predice el divorcio es que el marido no trabaje a tiempo completo; en los anteriores pesaba la parte de la tarea que hacía la esposa. Los recursos de ella y su capacidad de mantenerse sola no predicen la duración (según un resumen).
+**La estabilidad del matrimonio ya no depende de que ella se quede en casa.** Killewald (2016) siguió a más de 6.300 parejas de distinto sexo en Estados Unidos entre 1968 y 2013. En los matrimonios de 1975 a 2011, lo que predice el divorcio es que el marido no trabaje a tiempo completo; en los anteriores pesaba la parte de las tareas domésticas que hacía la esposa. Los recursos de ella y su capacidad de mantenerse sola no predicen la duración (según un resumen).
 
 **El efecto depende del país y de la época.** Según un resumen de Cooke (2006), en la ex Alemania Occidental las parejas que se alejaban de los roles separados, porque ella ganaba más o él hacía más en la casa, tenían más riesgo de divorcio; en Estados Unidos, el patrón era el inverso. Con datos de fines de los 2000, Bellani y colegas sostienen que alejarse del modelo tradicional ya no perjudica la estabilidad (según un resumen). No hay datos argentinos.
 

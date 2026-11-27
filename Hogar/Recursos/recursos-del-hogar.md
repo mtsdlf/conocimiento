@@ -23,7 +23,7 @@ Dentro del [hogar](../hogar.md), los recursos son el límite con el que trabajan
 
 ## De dónde viene mirar la casa como recursos
 
-La idea de que una casa administra recursos viene de la administración de recursos familiares (*family resource management*, la heredera de la vieja economía doméstica). Sus manuales ordenan el campo por un proceso y por recursos: el proceso es el [ciclo de gestión](../Gestion/ciclo-de-gestion.md) (fijar metas, ver con qué se cuenta, decidir, planificar, ejecutar y controlar), y los recursos son a qué se aplica. El índice del manual de Goldsmith tiene capítulos de Tiempo, de Recursos ambientales y de Finanzas, que son las tres notas de esta vertical.
+La idea de que una casa administra recursos viene de la administración de recursos familiares (*family resource management*, la heredera de la vieja economía doméstica). Sus manuales ordenan el campo por un proceso y por recursos: el proceso es el [ciclo de gestión](../Gestion/ciclo-de-gestion.md) (fijar metas, ver con qué se cuenta, decidir, planificar, ejecutar y evaluar), y los recursos son a qué se aplica. El índice del manual de Goldsmith tiene capítulos de Tiempo, de Recursos ambientales y de Finanzas, que son las tres notas de esta vertical.
 
 Las otras disciplinas no miran igual. Según el informe de investigación de esta base, la sociología estudia el tiempo como horas de trabajo y de ocio de varones y mujeres, no como un recurso a administrar; y la plata en la pareja se estudia como poder y reparto, con preguntas como quién controla el fondo común. El espacio casi no tiene campo propio: lo que hay está disperso entre la psicología ambiental, que estudia el hacinamiento, y los estudios sobre trabajar desde casa.
 

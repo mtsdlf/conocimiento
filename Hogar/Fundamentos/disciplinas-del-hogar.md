@@ -62,13 +62,13 @@ Hoy el campo se llama administración de recursos familiares (*family resource m
 
 ## La nueva economía del hogar: la casa como fábrica
 
-La economía trata a la casa como una unidad que produce: comidas, ropa limpia, chicos cuidados. Margaret Reid publicó *Economics of Household Production* en 1934, el antecedente con casi todo lo esencial según Heckman. Según la oficina de estadísticas económicas de Estados Unidos (BEA), que lo usa hoy, Reid propuso el criterio de la tercera persona: una actividad es producción del hogar si otra persona podría hacerla por uno. El criterio no se verificó en el texto de Reid, y Wood lo criticó porque fija un estándar de mercado que deja afuera lo que no se puede comprar.
+La economía trata a la casa como una unidad que produce: comidas, ropa limpia, chicos cuidados. Margaret Reid publicó *Economics of Household Production* en 1934, el antecedente con casi todo lo esencial según Heckman. A Reid se le atribuye el criterio de la tercera persona, que la oficina de cuentas nacionales de Estados Unidos (BEA) sigue usando: una actividad es producción del hogar si otra persona podría hacerla por uno. El criterio, que no se verificó en el texto de Reid, y la crítica de Wood están en [trabajo del hogar](../Trabajo-del-hogar/trabajo-del-hogar.md).
 
 El artículo de Gary Becker en el *Economic Journal* de 1965 (75(299): 493-517) es el punto de partida moderno de los modelos de producción del hogar y de asignación del tiempo. Ese artículo modela sobre todo hogares de una persona; la especialización por género (que uno trabaje afuera y otro en casa, según su ventaja comparativa) es un argumento posterior de su *Treatise on the Family*, según Pollak. La evidencia reciente le da poco apoyo: Siminski y Yetsenga (2022) concluyen que la ventaja comparativa «plays little or no role» en el reparto dentro de las parejas. Ver [especialización o reparto parejo](../Reparto/especializacion-o-reparto-parejo.md).
 
 ## La sociología del trabajo doméstico: quién lo hace y por qué
 
-La sociología empezó por mostrar que el trabajo de la casa es trabajo. Ann Oakley, en *The Sociology of Housework* (1974), entrevistó a 40 amas de casa urbanas y describió su tarea como monótona y fragmentada, con una autonomía que ellas valoraban (según fuentes secundarias de baja autoridad). Arlie Hochschild acuñó en 1989 la «segunda jornada» (*second shift*), el trabajo de la casa que espera al terminar el empleo, con entrevistas a unas 50 familias con hijos chicos; su cifra más repetida se discute en [mitos del hogar](mitos-del-hogar.md).
+La sociología empezó por mostrar que el trabajo de la casa es trabajo. Ann Oakley, en *The Sociology of Housework* (1974), entrevistó a 40 amas de casa urbanas y describió su tarea como monótona y fragmentada, con una autonomía que ellas valoraban (según fuentes secundarias de baja autoridad). Arlie Hochschild acuñó en 1989 la «segunda jornada» (*second shift*), el trabajo de la casa que espera al terminar el empleo, con entrevistas a unas 50 familias con hijos chicos; el concepto y la discusión de su cifra más repetida están en [tiempo del hogar](../Recursos/tiempo-del-hogar.md).
 
 Desde ahí el campo pone a prueba explicaciones del reparto: los recursos relativos, la disponibilidad de tiempo, la ideología de género y el *doing gender* («hacer género»), que están en [teorías del reparto](../Reparto/teorias-del-reparto.md). Su resultado más citado es una convergencia lenta e incompleta en 40 años (Kan, Sullivan y Gershuny 2011, según el abstract).
 
@@ -100,10 +100,10 @@ El número depende también del método. El informe de 2020 compara: España 10,
 
 La psicología mira la experiencia: cómo se sienten la pareja y los hijos con el reparto, cómo discuten y qué les hace el desorden. Sus marcos más conocidos, los sistemas familiares de Bowen, Minuchin y Olson, vienen de la terapia con familias con hijos y no predicen quién hace qué tarea (inferencia propia); de Bowen, Miller, Anderson y Keala (2004) encontraron apoyo para algunas partes y no para otras. Ver [la casa como sistema](../Convivencia/la-casa-como-sistema.md).
 
-Su aporte más usado en el tema del hogar es la equidad percibida: Lennon y Rosenfield (1994) partieron de que las esposas con empleo hacen cerca del doble de trabajo doméstico y la mayoría lo ve justo. Eso está en [equidad percibida](../Reparto/equidad-percibida.md).
+Su aporte más usado en el tema del hogar es la equidad percibida: Lennon y Rosenfield (1994) partieron de que las esposas con empleo hacen cerca del doble de tareas domésticas y la mayoría lo ve justo. Eso está en [equidad percibida](../Reparto/equidad-percibida.md).
 
 > [!NOTE]
-> Sin fuente todavía: una revisión que presente la psicología de la familia como campo y su relación con el trabajo doméstico. Lo que hay son estudios sueltos de sistemas familiares, equidad, conflicto y rutinas.
+> Sin fuente todavía: una revisión que presente la psicología de la familia como campo y su relación con el trabajo de la casa. Lo que hay son estudios sueltos de sistemas familiares, equidad, conflicto y rutinas.
 
 ## Dónde se cruzan y dónde chocan
 

@@ -55,6 +55,6 @@ En Argentina no hay una serie comparable. La ENUT 2021 da una foto: el 90,0 % de
 
 ## Por qué las horas declaradas engañan
 
-Cuando se le pregunta a alguien cuántas horas por semana dedica a las tareas, en vez de pedirle un diario del día, la respuesta sale inflada. Según un resumen secundario, Press y Townsley hallaron sobrerreporte en los dos sexos, mayor en porcentaje en los varones. Las cifras de ese resumen (7,7 horas semanales contra unas 4,2 en los diarios para ellos, 31,8 contra unas 18,4 para ellas) no se verificaron en el original ni coinciden con los porcentajes que daba el mismo resumen, así que no se citan como firmes; muestran, en todo caso, que el sesgo no es de un solo sexo. Los métodos y sus discrepancias están en [cómo se mide](../Fundamentos/como-se-mide.md).
+Cuando se le pregunta a alguien cuántas horas por semana dedica a las tareas, en vez de pedirle un diario del día, la respuesta sale inflada. Según un resumen secundario, Press y Townsley hallaron sobrerreporte en los dos sexos, mayor en porcentaje en los varones: el sesgo no es de un solo sexo. Sus cifras, que no se verificaron, y los estudios que discrepan están en [cómo se mide](../Fundamentos/como-se-mide.md).
 
 Ver también: [estándares distintos](../Convivencia/estandares-distintos.md), sobre quién define cuándo una tarea está bien hecha; y [rutinas y sistemas](../Gestion/rutinas-y-sistemas.md), sobre cómo se organizan.

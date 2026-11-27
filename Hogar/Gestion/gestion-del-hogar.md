@@ -8,7 +8,7 @@ fuentes:
   - "Moore y Asay, Family Resource Management (SAGE, 5.ª ed.), índice parcial según el vistazo: https://uk.sagepub.com/en-gb/mst/family-resource-management/book283056"
   - "Hogar/.investigacion/gestion.md (sección 0, cómo divide el campo esta vertical)"
   - "Hogar/.investigacion/posicion-contraria.md (sección 7, marcos de gestión)"
-aliases: [gestión, administración del hogar, organización de la casa, home management, family resource management]
+aliases: [gestión, gestión de la casa, administración del hogar, organización de la casa, home management]
 creado: 2026-11-27
 revisado:
 ---
@@ -39,7 +39,7 @@ Los métodos de divulgación, como *Fair Play* de Eve Rodsky, se citan como prá
 
 ## Cómo falla la gestión de una casa
 
-Las fallas que describen las fuentes se repiten en los componentes. Una persona puede ejecutar tareas sin hacerse cargo de pensarlas, y entonces el trabajo de anticipar y controlar queda en la otra (ver [carga mental](../Trabajo-del-hogar/carga-mental.md)). Quien sostiene la responsabilidad puede, sin querer, cerrarle la puerta a la otra persona con estándares estrictos (lo que la literatura llama *gatekeeping*, en el [glosario](../Fundamentos/glosario-del-hogar.md)). Un acuerdo que nadie revisa envejece cuando cambian las circunstancias, por ejemplo con un hijo o un cambio de trabajo ([transiciones](../Reparto/transiciones.md)). Y pagar un servicio no garantiza que el resto se reparta distinto.
+Las fallas que describen las fuentes se repiten en los componentes. Una persona puede ejecutar tareas sin hacerse cargo de pensarlas, y entonces el trabajo de anticipar y monitorear queda en la otra (ver [carga mental](../Trabajo-del-hogar/carga-mental.md)). Quien sostiene la responsabilidad puede, sin querer, cerrarle la puerta a la otra persona con estándares estrictos (lo que la literatura llama *gatekeeping*, en [dueño de la tarea](dueno-de-la-tarea.md)). Un acuerdo que nadie revisa envejece cuando cambian las circunstancias, por ejemplo con un hijo o un cambio de trabajo ([transiciones](../Reparto/transiciones.md)). Y pagar un servicio no garantiza que el resto se reparta distinto.
 
 La gestión de una casa se parece a la [gestión de tareas](../../Desarrollo-personal/Efectividad-personal/gestion-de-tareas.md) de una persona, pero agrega lo que esa nota no trata: que el trabajo es compartido y que quién lo piensa importa tanto como quién lo hace.
 

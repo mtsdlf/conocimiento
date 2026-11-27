@@ -37,7 +37,7 @@ Las cuatro partes de esta vertical no son cuatro listas del mismo tipo. Dos son 
 |---|---|---|
 | Tareas domésticas | Cocinar, limpiar, lavar la ropa, hacer las compras | Categoría propia en la ENUT y la ATUS; se divide en rutinarias y no rutinarias |
 | Trabajo de cuidado | Atender a chicos, mayores, enfermos o personas con discapacidad del hogar | Categoría propia en las dos encuestas; la ATUS además mide la supervisión mientras se hace otra cosa |
-| Carga mental | Anticipar, buscar opciones, decidir y monitorear | No es una categoría de las encuestas; Daminger la define como una dimensión de todo el trabajo doméstico |
+| Carga mental | Anticipar, buscar opciones, decidir y monitorear | No es una categoría de las encuestas; Daminger la define como una dimensión de todo el trabajo de la casa |
 | Mantenimiento y trámites | Arreglos de la casa por un lado; papeles, pagos y planificación por el otro | La ENUT mete las dos cosas dentro del trabajo doméstico; la ATUS separa la administración del hogar (*household management*) |
 
 Lo que distingue al cuidado de las tareas es a quién va dirigido, no el gesto: según el glosario de la ENUT, cocinar es trabajo doméstico y darle de comer a un chico es cuidado. La carga mental existe en las cuatro partes: hay que anticipar qué falta en la heladera, cuándo toca el control del pediatra y cuándo vence un servicio. Daminger lo dice así en el abstract de su artículo de 2019: las tareas «are better understood as examples of a unique dimension of housework: cognitive labor».
@@ -50,7 +50,7 @@ En Estados Unidos la brecha se achicó sin cerrarse. Según Bianchi y colegas (2
 
 ## Lo que las horas no ven
 
-Las horas miden lo que se hace, no lo que se piensa. Según Aviv y colegas, los diarios de uso del tiempo pueden pasar por alto la carga mental, y por eso los estudios la miden con entrevistas y escalas propias, que dan resultados distintos; la disputa está en [carga mental](carga-mental.md). Las horas que la gente declara sobre su propio trabajo doméstico, cuando se le pregunta directamente en vez de pedirle un diario, también fallan, y en los dos sexos, como cuenta [cómo se mide](../Fundamentos/como-se-mide.md).
+Las horas miden lo que se hace, no lo que se piensa. Según Aviv y colegas, los diarios de uso del tiempo pueden pasar por alto la carga mental, y por eso los estudios la miden con entrevistas y escalas propias, que dan resultados distintos; la disputa está en [carga mental](carga-mental.md). Las horas que la gente declara sobre sus propias tareas domésticas, cuando se le pregunta directamente en vez de pedirle un diario, también fallan, y en los dos sexos, como cuenta [cómo se mide](../Fundamentos/como-se-mide.md).
 
 > [!NOTE] Sin fuente todavía: casi toda la evidencia es de Estados Unidos y Europa. Para Argentina solo están las categorías y los totales de la ENUT; no hay cifras por separado de compras, mantenimiento, trámites ni carga mental.
 

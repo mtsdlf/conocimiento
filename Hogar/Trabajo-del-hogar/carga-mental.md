@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La carga mental es el trabajo de pensar la casa: anticipar lo que va a hacer falta, buscar opciones, decidir y vigilar que se haga; no es una lista de tareas aparte sino una dimensión que atraviesa la cocina, el cuidado y los arreglos, y la evidencia de cuánto se reparte depende de cómo se mida.
+  La carga mental es el trabajo de pensar la casa: anticipar lo que va a hacer falta, buscar opciones, decidir y monitorear que se haga; no es una lista de tareas aparte sino una dimensión que atraviesa la cocina, el cuidado y los arreglos, y la evidencia de cuánto se reparte depende de cómo se mida.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -25,7 +25,7 @@ revisado:
 
 # Carga mental
 
-La carga mental es el trabajo de pensar la casa: anticipar lo que va a hacer falta, buscar opciones, decidir y vigilar que se haga; no es una lista de tareas aparte sino una dimensión que atraviesa la cocina, el cuidado y los arreglos, y la evidencia de cuánto se reparte depende de cómo se mida.
+La carga mental es el trabajo de pensar la casa: anticipar lo que va a hacer falta, buscar opciones, decidir y monitorear que se haga; no es una lista de tareas aparte sino una dimensión que atraviesa la cocina, el cuidado y los arreglos, y la evidencia de cuánto se reparte depende de cómo se mida.
 
 Dentro del [trabajo del hogar](trabajo-del-hogar.md) es la parte que no se ve. Las [tareas domésticas](tareas-domesticas.md), el [trabajo de cuidado](trabajo-de-cuidado.md) y el [mantenimiento y los trámites](mantenimiento-y-tramites.md) tienen cada uno su parte de pensar y su parte de hacer: alguien nota que falta leche, alguien elige qué marca y alguien la compra. Esta nota trata la parte de pensar.
 
@@ -73,7 +73,7 @@ Desde el artículo de Daminger aparecieron varias escalas. Todas son de autorrep
 - **Haupt y Gelbgiser (2024).** Según su abstract, con preguntas de una encuesta europea en 10 países, una mayor proporción de trabajo cognitivo aumenta el conflicto entre familia y trabajo de las mujeres y no el de los varones; ese conflicto está en [trabajo y familia](../../Desarrollo-personal/Relaciones/trabajo-y-familia.md).
 - **Petts y Carlson (2023).** Según un resumen, en 1.765 madres y padres durante la pandemia, las madres dedicaban más del doble de tiempo semanal al trabajo cognitivo (5 horas contra 2), y su estrés y sus síntomas depresivos eran menores cuando los padres asumían más.
 
-Todos estos estudios muestran asociaciones: que la carga cognitiva vaya junto con más estrés no prueba que lo cause.
+Todos estos estudios muestran asociaciones: que la carga mental vaya junto con más estrés no prueba que lo cause.
 
 ## Entrevistas contra diarios de tiempo
 

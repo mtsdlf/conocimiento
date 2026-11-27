@@ -31,7 +31,7 @@ La administración de recursos familiares (*family resource management*) es la d
 Los libros de texto del campo presentan la gestión como una secuencia que se repite. La versión que sigue sale de los capítulos del libro de Goldsmith:
 
 1. **Metas**: qué quiere lograr la casa, a partir de valores y actitudes de quienes viven en ella.
-2. **Recursos**: con qué se cuenta. No es solo plata: también tiempo, energía, habilidades y el espacio.
+2. **Recursos**: con qué se cuenta. No es solo plata: también tiempo, energía, habilidades y el espacio; los tres que tienen nota están en [recursos del hogar](../Recursos/recursos-del-hogar.md).
 3. **Decisión**: elegir entre opciones y resolver problemas.
 4. **Plan**: ordenar qué se hace, cuándo y quién.
 5. **Ejecución**: hacerlo.
@@ -46,10 +46,7 @@ El libro de Goldsmith (6.ª edición, 2023, 532 páginas) aplica ciencia del con
 
 ## De la economía doméstica a la familia como sistema
 
-El ciclo viene de la economía doméstica (*home economics*), la disciplina que nació en Estados Unidos para enseñar a llevar una casa. Según fuentes secundarias, las conferencias de Lake Placid la fundaron como disciplina a comienzos del siglo XX, y la asociación nacional se formó en 1908 con Ellen Swallow Richards como primera presidenta.
-
-> [!IMPORTANT]
-> Las fuentes discrepan en las fechas de las conferencias: una dice de 1899 a 1909 y otra de 1899 a 1908. Las dos son secundarias; no se leyó una fuente primaria.
+El ciclo viene de la economía doméstica (*home economics*), la disciplina que nació en Estados Unidos para enseñar a llevar una casa, con Ellen Swallow Richards como figura fundadora. Su historia, con las fechas de las conferencias de Lake Placid y de la asociación nacional, que las fuentes dan distinto, está en [disciplinas del hogar](../Fundamentos/disciplinas-del-hogar.md).
 
 Richards definió la *euthenics* como «la ciencia de vivir mejor», según el Science History Institute. Un artículo de historia de la ciencia sostiene que la *euthenics* pertenece más al debate eugenésico de la época que al nacimiento de la economía doméstica, según su resumen.
 

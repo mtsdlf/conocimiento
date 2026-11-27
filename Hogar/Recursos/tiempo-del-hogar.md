@@ -27,7 +27,7 @@ Dentro de los [recursos del hogar](recursos-del-hogar.md), el tiempo es el que m
 
 ## La pobreza de tiempo
 
-La **pobreza de tiempo** (*time poverty*) es la sensación de tener demasiadas cosas por hacer y poco tiempo para hacerlas. Giurge, Whillans y West (2020) la definen así en una revisión, y según su abstract se asocia con menor bienestar, peor salud física y menor productividad. Los autores sostienen que puede importar tanto como la pobreza material.
+La **pobreza de tiempo** (*time poverty*) es la sensación de tener demasiadas cosas por hacer y poco tiempo para hacerlas. Giurge, Whillans y West (2020) la definen así en una revisión, y según su abstract se asocia con menor bienestar, peor salud física y menor productividad. Los autores sostienen que puede importar tanto como la pobreza material. Pagar para ganar tiempo, y lo que se sabe de si mejora el bienestar, está en [hacer o tercerizar](../Gestion/hacer-o-tercerizar.md).
 
 Es una sensación, no una cuenta de horas: dos personas con la misma agenda pueden vivirla distinto. Por eso no se lee directo de una encuesta de uso del tiempo, que mide horas con un diario de actividades ([cómo se mide](../Fundamentos/como-se-mide.md)); esa conclusión es inferencia de esta base.
 
@@ -44,7 +44,7 @@ En Argentina, la [ENUT 2021](../Fundamentos/enut-2021.md) del INDEC muestra la m
 
 El tiempo libre no se mide solo en horas. Mattingly y Bianchi (2003), con diarios de uso del tiempo de Estados Unidos, encontraron según su abstract que los varones tienen más tiempo libre que las mujeres, y que el casamiento y los hijos agrandan esa brecha. Una nota de prensa sobre el estudio cifra la diferencia en «casi media hora más por día».
 
-El otro hallazgo es de calidad. El tiempo libre de las mujeres está más a menudo **contaminado**: mezclado con otras actividades o con los hijos al lado. También está más **fragmentado**, cortado en pedazos chicos. Según el mismo abstract, ese ocio alivia menos la sensación de estar apurado.
+El otro hallazgo es de calidad. El tiempo libre de las mujeres está más a menudo **contaminado**: mezclado con otras actividades o con los hijos al lado. También está más **fragmentado**, cortado en pedazos chicos. Según el mismo abstract, ese ocio alivia menos la sensación de estar apurado. Estar a cargo de los chicos mientras se hace otra cosa es lo que una encuesta de Estados Unidos mide como cuidado secundario ([trabajo de cuidado](../Trabajo-del-hogar/trabajo-de-cuidado.md)).
 
 La multitarea va en la misma dirección. Offer y Schneider (2011) estudiaron a 368 madres y 241 padres de parejas en que los dos tienen empleo. Según el comunicado de prensa del estudio, las madres hacen dos cosas a la vez unas 10 horas semanales más que los padres (48,3 contra 38,9), sobre todo tareas domésticas y de cuidado, y solo ellas lo viven con emociones negativas cuando están en casa. El estudio mide cuánto se superponen las tareas y cómo se siente; no mide si alguien las hace mejor. Que las mujeres sean mejores para la multitarea es uno de los [mitos del hogar](../Fundamentos/mitos-del-hogar.md).
 

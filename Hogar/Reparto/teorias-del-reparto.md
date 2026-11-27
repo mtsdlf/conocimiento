@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Las teorías del reparto son las explicaciones de por qué en una pareja una persona hace más trabajo doméstico que la otra: los recursos relativos, la disponibilidad de tiempo, la ideología de género y el doing gender, cada una con una predicción distinta que la evidencia apoya solo en parte.
+  Las teorías del reparto son las explicaciones de por qué en una pareja una persona hace más tareas domésticas que la otra: los recursos relativos, la disponibilidad de tiempo, la ideología de género y el doing gender, cada una con una predicción distinta que la evidencia apoya solo en parte.
 estado: borrador
 estabilidad: estable
 fuentes:
@@ -24,7 +24,7 @@ revisado:
 
 # Teorías del reparto
 
-Las teorías del reparto son las explicaciones de por qué en una pareja una persona hace más trabajo doméstico que la otra: los recursos relativos, la disponibilidad de tiempo, la ideología de género y el doing gender, cada una con una predicción distinta que la evidencia apoya solo en parte.
+Las teorías del reparto son las explicaciones de por qué en una pareja una persona hace más tareas domésticas que la otra: los recursos relativos, la disponibilidad de tiempo, la ideología de género y el doing gender, cada una con una predicción distinta que la evidencia apoya solo en parte.
 
 Las cuatro vienen de la sociología de la familia y se estudiaron sobre todo en parejas de distinto sexo. La economía tiene dos explicaciones propias, la especialización y la negociación, que se tratan en [especialización o reparto parejo](especializacion-o-reparto-parejo.md). Ninguna de estas teorías habla de cómo se vive el reparto; eso es la [equidad percibida](equidad-percibida.md).
 
@@ -48,15 +48,15 @@ La última predicción tiene nombre propio: **neutralización de la desviación*
 
 **Ese resto no es un hallazgo directo, es un residuo.** Lo que no explican el tiempo ni los recursos se atribuye al género, pero un residuo puede esconder variables que el estudio no midió. Es una crítica metodológica del informe de investigación de esta base, no de una fuente publicada. Las normas de género son la explicación a la que se recurre para ese resto, pero (inferencia de la base) son difíciles de aislar con datos de encuestas.
 
-**La neutralización de la desviación se replica poco.** El caso testigo es Gough y Killewald (2011), con datos de panel de Estados Unidos de 1979 a 2007 y más de 10.000 parejas. Si la teoría fuera cierta, un marido que pierde el empleo haría menos en la casa para compensar. Pasó lo contrario: su tarea doméstica sube 3,19 horas semanales, y la de una esposa desempleada, 6,39. Los autores concluyen que no hay evidencia de que los maridos desempleados compensen rechazando la tarea. El detalle está en [transiciones](transiciones.md).
+**La neutralización de la desviación se replica poco.** El caso testigo es Gough y Killewald (2011), con datos de panel de Estados Unidos de 1979 a 2007 y más de 10.000 parejas. Si la teoría fuera cierta, un marido que pierde el empleo haría menos en la casa para compensar. Pasó lo contrario: sus tareas domésticas suben 3,19 horas semanales, y las de una esposa desempleada, 6,39. Los autores concluyen que no hay evidencia de que los maridos desempleados compensen rechazando las tareas. El detalle está en [transiciones](transiciones.md).
 
-El mismo dato de Brines se leyó de dos maneras. Según un resumen de la réplica de Greenstein (2000), Brines encontró que la dependencia económica sigue una lógica de intercambio en las esposas y de exhibición de género en los maridos; Greenstein, con otra medida, encontró neutralización de la desviación. Bittman y colegas (2003) hallaron en Australia que la mayor ganancia de la mujer baja su tarea solo mientras aporta menos de la mitad del ingreso; por encima, el patrón se revierte, y lo leyeron como compensación (según un resumen).
+El mismo dato de Brines se leyó de dos maneras. Según un resumen de la réplica de Greenstein (2000), Brines encontró que la dependencia económica sigue una lógica de intercambio en las esposas y de exhibición de género en los maridos; Greenstein, con otra medida, encontró neutralización de la desviación. Bittman y colegas (2003) hallaron en Australia que la mayor ganancia de la mujer baja sus tareas domésticas solo mientras aporta menos de la mitad del ingreso; por encima, el patrón se revierte, y lo leyeron como compensación (según un resumen).
 
 > [!IMPORTANT]
 > **Disputa: ¿importa lo que ella gana o lo que gana comparado con él?**
-> - **Ingreso absoluto.** Gupta (2007) propone que importa cuánto gana la mujer en términos absolutos, por la autonomía que le da y porque puede pagar reemplazos, y no la comparación con el marido. Según una nota de prensa, por cada US$ 7.500 más de ingreso ella reduce su tarea una hora semanal.
+> - **Ingreso absoluto.** Gupta (2007) propone que importa cuánto gana la mujer en términos absolutos, por la autonomía que le da y porque puede pagar reemplazos, y no la comparación con el marido. Según una nota de prensa, por cada US$ 7.500 más de ingreso ella reduce sus tareas una hora semanal.
 > - **La compensación sería un artefacto.** Killewald y Gough (2010) sostienen que la aparente compensación de género de Brines aparece por no modelar bien la relación, que no es lineal, con el ingreso absoluto (según un resumen).
-> - **No es por comprar servicios.** Killewald (2011) encuentra que lo gastado en servicios que reemplazan la tarea explica «menos del 15 %» del vínculo entre el ingreso de la esposa y su tarea: ellas dejan de hacer sin comprar reemplazo (según un resumen).
+> - **No es por comprar servicios.** Killewald (2011) encuentra que lo gastado en servicios que reemplazan las tareas explica «menos del 15 %» del vínculo entre el ingreso de la esposa y sus tareas: ellas dejan de hacer sin comprar reemplazo (según un resumen).
 >
 > Las tres son de Estados Unidos y se leyeron por resúmenes. La relación entre ingreso y [tercerizar](../Gestion/hacer-o-tercerizar.md) se trata en Gestión.
 
@@ -66,4 +66,4 @@ El mismo dato de Brines se leyó de dos maneras. Según un resumen de la réplic
 
 ## Lo que no se puede concluir
 
-Ninguna teoría gana sola. El tiempo y los recursos explican parte; la ideología y las normas de género se usan para el resto; la neutralización de la desviación, la versión más fuerte de *doing gender*, tiene poco apoyo. Casi toda la evidencia es observacional, de Estados Unidos, Europa y Australia, y la mayoría de los papers clásicos se leyeron por abstract o resumen. Para Argentina, la ENUT da el nivel y la brecha, pero no permite probar ninguna de estas teorías.
+Ninguna teoría gana sola. El tiempo y los recursos explican parte; la ideología y las normas de género se usan para el resto; la neutralización de la desviación, la versión más fuerte de *doing gender*, tiene poco apoyo. Fuera de las cuatro queda una explicación que la literatura no puso a prueba con horas: que hace más quien nota antes el desorden ([estándares distintos](../Convivencia/estandares-distintos.md)). Casi toda la evidencia es observacional, de Estados Unidos, Europa y Australia, y la mayoría de los papers clásicos se leyeron por abstract o resumen. Para Argentina, la ENUT da el nivel y la brecha, pero no permite probar ninguna de estas teorías.

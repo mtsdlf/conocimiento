@@ -47,7 +47,7 @@ Estado al 2026-11-27. Durante la investigación, PubMed, PMC, Springer, SAGE y v
 | Tipo | Ejemplos | Sirve para | Advertencia |
 |---|---|---|---|
 | Encuestas oficiales de uso del tiempo | ENUT 2021 (INDEC), ATUS (Estados Unidos), MTUS (archivo armonizado) | Cuánto trabajo hay y quién lo hace, en una población | Miden horas, no la carga mental ni el reparto dentro de la pareja ([cómo se mide](como-se-mide.md)) |
-| Organismos que calculan o normalizan | DNEIyG (Argentina), CEPAL, ONU (ICATUS) | El valor económico del trabajo no pago y las clasificaciones | El resultado depende del método y de la encuesta de base |
+| Organismos que calculan o normalizan | DNEIyG (Argentina), CEPAL, ONU (ICATUS) | El valor económico del trabajo no remunerado y las clasificaciones | El resultado depende del método y de la encuesta de base |
 | Revisiones | Coltrane 2000, Lachance-Grzela y Bouchard 2010, Bianchi y colegas 2012, Reich-Stiebert y colegas 2023 | El mapa de lo que se sabe | Ninguna es un metaanálisis del reparto; no se encontró uno de equidad percibida contra horas |
 | Estudios de panel y con diarios | Gough y Killewald 2011, Yavorsky y colegas 2015 | Ver qué cambia cuando pasa algo (un hijo, un desempleo) | Muestras de Estados Unidos; observacionales |
 | Estudios cualitativos | Oakley 1974, Hochschild 1989, Daminger 2019 | Nombrar lo que las encuestas no ven | Muestras chicas; no estiman cuánto pasa en la población |
@@ -84,7 +84,7 @@ El *Journal of Marriage and Family*, el *Journal of Family Theory & Review*, la 
 ## Lo que no se pudo leer
 
 - **Clásicos sin texto completo**: Reid 1934, Becker 1965, Oakley 1974, *The Second Shift* de Hochschild, Brines 1994, Coltrane 2000, Bittman y colegas 2003, Lennon y Rosenfield 1994, Thompson 1991, Frisco y Williams 2003, Pahl 1989 y Vogler y Pahl 1994. Lo que dice la base de ellos sale de abstracts o de terceros.
-- **Psicología de la familia**: no se encontró una revisión del campo aplicada al trabajo doméstico, ni evidencia empírica sobre los subsistemas de Minuchin.
+- **Psicología de la familia**: no se encontró una revisión del campo aplicada al trabajo de la casa, ni evidencia empírica sobre los subsistemas de Minuchin.
 - **Manuales**: de Goldsmith, Moore y Asay y Deacon y Firebaugh solo se leyeron índices y descripciones.
 - **Evaluaciones**: el informe de USC sobre *Fair Play* no abrió (el enlace dio 404); no se halló evaluación independiente de ningún marco de gestión del hogar.
 - **ENUT**: no se abrió la planilla oficial. La presentación de la CEPAL sobre Argentina tampoco se leyó.

@@ -51,7 +51,7 @@ La reunión no tiene evidencia propia, pero hay evidencia indirecta de que la co
 
 Es una asociación, no prueba que hablar cambie el reparto. Cómo se siente cada uno con el reparto, más allá de las horas, se trata en [equidad percibida](../Reparto/equidad-percibida.md), y cómo se discute por la casa, en [conflicto por la casa](../Convivencia/conflicto-por-la-casa.md).
 
-Un estudio de parejas del mismo sexo en Nueva Zelanda y Australia, divulgado por sus autoras (Beban y Roberts), recomienda conversaciones regulares sobre cómo se siente cada uno con el reparto y renegociar cuando cambian las circunstancias. Es una recomendación de las autoras a partir de sus entrevistas; la nota de divulgación no da el tamaño de la muestra ni un efecto medido. Esas circunstancias que cambian son las de las [transiciones](../Reparto/transiciones.md): un hijo, un desempleo, una mudanza.
+Un estudio de parejas del mismo sexo en Nueva Zelanda y Australia, divulgado por sus autoras (Beban y Roberts), recomienda conversaciones regulares sobre cómo se siente cada uno con el reparto y renegociar cuando cambian las circunstancias. Es una recomendación de las autoras a partir de sus entrevistas; la nota de divulgación no da el tamaño de la muestra ni un efecto medido. Esas circunstancias que cambian son las de las [transiciones](../Reparto/transiciones.md): un hijo, un desempleo, una jubilación.
 
 > [!NOTE] Sin fuente todavía: las prácticas de pareja de Gottman y de otras escuelas no se buscaron en profundidad.
 

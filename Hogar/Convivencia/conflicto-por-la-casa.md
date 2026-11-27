@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  El conflicto por la casa son las discusiones que nacen del trabajo doméstico: las tareas figuran entre lo que la gente cree que más importa en un matrimonio, el reclamo suele tomar la forma de demanda-retirada y no hay intervenciones probadas pensadas para este conflicto en particular.
+  El conflicto por la casa son las discusiones que nacen del trabajo de la casa: las tareas figuran entre lo que la gente cree que más importa en un matrimonio, el reclamo suele tomar la forma de demanda-retirada y no hay intervenciones probadas pensadas para este conflicto en particular.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -12,6 +12,7 @@ fuentes:
   - "Carlson (2022), comunicado del Council on Contemporary Families sobre su artículo en Sex Roles: https://contemporaryfamilies.utah.edu/publications/posts/2022/april/egalitarian-relationships-press-release.php (texto completo del comunicado; el artículo no se abrió)"
   - "Mannino y Deutsch (2007), Sex Roles 56: 309-324: https://link.springer.com/doi/10.1007/s11199-006-9181-1 (resumen del buscador)"
   - "Kornrich, Brines y Leupp (2013), ASR 78(1): https://rex.libraries.wsu.edu/esploro/outputs/journalArticle/Egalitarianism-Housework-and-Sexual-Frequency-in/99900547395401842 (resumen del buscador)"
+  - "Carlson, Miller, Sassler y Hanson (2016), JMF 78(4): 975-995, DOI 10.1111/jomf.12313: https://api.crossref.org/works/10.1111/jomf.12313 (abstract)"
   - "Sassler (2016), resumen de Carlson et al. (2016, JMF 78) para el Council on Contemporary Families: https://contemporaryfamilies.utah.edu/publications/posts/2016/june/sex-equalmarriages.php (texto completo)"
   - "Cornell Chronicle sobre Carlson et al. (2016): https://news.cornell.edu/node/286266 (resumen del buscador)"
   - "Gager, Cooney y Call (1999), JMF 61(4): 982-994: https://digitalcommons.montclair.edu/familysci-facpubs/161 (abstract)"
@@ -26,7 +27,7 @@ revisado:
 
 # Conflicto por la casa
 
-El conflicto por la casa son las discusiones que nacen del trabajo doméstico: las tareas figuran entre lo que la gente cree que más importa en un matrimonio, el reclamo suele tomar la forma de demanda-retirada y no hay intervenciones probadas pensadas para este conflicto en particular.
+El conflicto por la casa son las discusiones que nacen del trabajo de la casa: las tareas figuran entre lo que la gente cree que más importa en un matrimonio, el reclamo suele tomar la forma de demanda-retirada y no hay intervenciones probadas pensadas para este conflicto en particular.
 
 Es la pieza de la [convivencia](convivencia.md) donde el reparto se discute en voz alta. Se alimenta de la [equidad percibida](../Reparto/equidad-percibida.md) y de los [estándares distintos](estandares-distintos.md), y lo que se resuelve vuelve a la [gestión](../Gestion/gestion-del-hogar.md). El conflicto de pareja en general y lo que predice que una pareja esté bien están en [pareja](../../Desarrollo-personal/Relaciones/pareja.md). Nada de esto reemplaza la consulta con un profesional; [cuándo consultar](../../Desarrollo-personal/Emociones-y-bienestar/cuando-consultar.md) ayuda a decidir.
 
@@ -48,14 +49,14 @@ Por qué suele demandar la mujer tiene una pista. Christensen y Heavey (1990) y 
 
 ## Lo injusto pesa, y no solo las horas
 
-Newkirk, Perry-Jenkins y Sayer (2016) siguieron a 108 parejas de bajos ingresos con su primer hijo, en cinco mediciones desde el tercer trimestre del embarazo hasta el primer año. Hubo más conflicto cuando cualquiera de los dos veía injusto el cambio en las tareas. Pero la justicia percibida «did not significantly mediate» el vínculo entre el cambio en el reparto y el conflicto posterior: no es el canal por el que el reparto lleva al conflicto. La muestra es chica, estadounidense y de parejas heterosexuales. Qué es la justicia percibida y por qué no equivale a un reparto parejo está en [equidad percibida](../Reparto/equidad-percibida.md); lo que cambia con un hijo, en [transiciones](../Reparto/transiciones.md).
+Newkirk, Perry-Jenkins y Sayer (2016) siguieron a 108 parejas de bajos ingresos con su primer hijo, en cinco mediciones desde el tercer trimestre del embarazo hasta el primer año. Hubo más conflicto cuando cualquiera de los dos veía injusto el cambio en las tareas. Pero la equidad percibida «did not significantly mediate» el vínculo entre el cambio en el reparto y el conflicto posterior: no es el canal por el que el reparto lleva al conflicto. La muestra es chica, estadounidense y de parejas heterosexuales. Qué es y por qué no equivale a un reparto parejo está en [equidad percibida](../Reparto/equidad-percibida.md); lo que cambia con un hijo, en [transiciones](../Reparto/transiciones.md).
 
 Cuántas tareas se comparten puede importar más que el porcentaje total. Según el comunicado de Carlson (2022), con dos muestras nacionales de parejas de varón y mujer, las mujeres que comparten por igual aunque sea una tarea reportan más satisfacción que las que hacen casi todo. Dividirse las tareas sin compartir ninguna no las satisface más que hacerlo todo solas. Los varones están igual de satisfechos si no hacen nada que si comparten casi todo. El comunicado no da tamaños de muestra ni de efecto.
 
 El reparto, además, se negocia todos los días y no una vez. Mannino y Deutsch (2007), leídos por resumen, estudian la asertividad de las esposas y las estrategias con que intentan cambiar la asignación. Cómo convertir esa negociación diaria en un acuerdo revisable está en [reunión de la casa](../Gestion/reunion-de-la-casa.md).
 
 > [!IMPORTANT]
-> **Repartir más parejo no siempre va con una relación mejor.** Kornrich, Brines y Leupp (2013), con datos de fines de los 80 y principios de los 90, hallaron más frecuencia sexual en parejas con reparto tradicional. Carlson et al. (2016), con una encuesta de 2006, hallaron según el resumen de Sassler que las parejas equitativas (el varón hace entre un tercio y el 65%) tenían sexo más a menudo que aquellas donde uno de los dos hace el 65% o más, con una satisfacción sexual parecida a la de las parejas más tradicionales; según resúmenes, las parejas donde el varón hace la mayor parte del trabajo doméstico tuvieron la peor frecuencia sexual. No es una réplica fallida: son dos encuestas distintas con más de veinte años de diferencia, y todo es observacional. La discusión completa está en [equidad percibida](../Reparto/equidad-percibida.md).
+> **Repartir más parejo no siempre va con una relación mejor.** Kornrich, Brines y Leupp (2013), con datos de 1992-1994, hallaron más frecuencia sexual en las parejas con reparto tradicional. Carlson y colegas (2016) compararon esos datos con una encuesta de 2006 y, según su abstract, la diferencia ya no aparece; según resúmenes, la peor frecuencia sexual fue la de las parejas donde el varón hace la mayor parte de las tareas domésticas. Todo es observacional. La disputa, con lo que dice cada resumen, está en [equidad percibida](../Reparto/equidad-percibida.md).
 
 ## Qué ayuda a resolverlo
 
