@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los motores sobre los que se arma una vitrina a medida, con su licencia, cómo cobran, su precio de lista y el declarado, si dejan armar el checkout y si tienen Mercado Pago, transportistas argentinos y factura de ARCA, consultados el 2026-11-22.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Medusa, precios: https://medusajs.com/pricing/ (leída, 2026-11-22); repositorio y ENTERPRISE-LICENSE.md: https://github.com/medusajs/medusa (leído por la API de GitHub); integraciones: https://medusajs.com/integrations/ (leída)"
@@ -24,7 +24,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vidrieras-contraria.md (ítems 16 a 20, 40 a 45 y 47), que corrige al anterior"
 aliases: [motores headless, motores de comercio headless, headless commerce engines, Medusa, Saleor, Vendure, commercetools, Hydrogen, Oxygen, FastStore, Storefront API de Tiendanube]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Motores para vitrinas a medida

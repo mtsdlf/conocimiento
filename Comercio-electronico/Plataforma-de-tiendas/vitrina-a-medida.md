@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una vitrina a medida es el frente de una tienda que el comercio o su agencia programa y que habla por API con un motor de comercio, que sigue guardando catálogo, precios y pedidos. Es el modo headless en la práctica: qué se programa, cuánto cuesta sostenerlo, de qué se quejan quienes lo hacen y cuántas marcas lo tienen en Argentina.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Shopify, Headless: https://shopify.dev/docs/storefronts/headless (leída, consultada el 2026-11-22)"
@@ -25,7 +25,7 @@ fuentes:
   - "Comercio-electronico/.investigacion/vidrieras-contraria.md (tabla de veredictos, ítems 2 a 4, 7, 10, 13, 14, 23, 26, 33 a 37, 39, 45, 49 a 51), que manda sobre los otros cuatro"
 aliases: [vitrina a medida, vidriera a medida, headless en la práctica, vitrina headless, headless storefront, custom storefront, frente desacoplado]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Vitrina a medida
