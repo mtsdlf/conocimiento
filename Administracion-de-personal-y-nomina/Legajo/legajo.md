@@ -58,7 +58,7 @@ Un caso: el 10 de mayo se firma un aumento que vale desde el 1 de marzo. El lega
 - Qué sueldo correspondía en marzo: el nuevo, por la fecha del hecho. La [reliquidación](../Liquidacion-de-sueldos/retroactivos-y-reliquidaciones.md) lo usa para calcular la diferencia.
 - Con qué sueldo se liquidó marzo: el viejo, porque al cerrar marzo el aumento no estaba registrado. Eso explica el recibo de marzo ya pagado y declarado.
 
-Sin la fecha de registro, la segunda pregunta queda sin respuesta y la reliquidación no sabe cuánto se pagó de menos. Es inferencia de esta base sobre el patrón de Fowler. Cómo guarda una base de datos un cambio sin pisar el anterior está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md); cómo lo resuelve un software de gestión irá en el tema Software de gestión, todavía no escrito.
+Sin la fecha de registro, la segunda pregunta queda sin respuesta y la reliquidación no sabe cuánto se pagó de menos. Es inferencia de esta base sobre el patrón de Fowler. Cómo guarda una base de datos un cambio sin pisar el anterior está en [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md); cómo lo resuelve un software de gestión, en [fechas, vigencias y cierre](../../Software-de-gestion/Columnas-tecnicas/fechas-vigencias-y-cierre.md).
 
 La vigencia vale igual para todos los datos que cambian: el [puesto](puesto-y-estructura.md), la [modalidad del contrato](modalidades-de-contratacion.md) y la jornada. Este tema registra el cambio con su fecha; un aumento se decide en [compensación e incentivos](../../Liderazgo-y-direccion/Gestion-de-personas/compensacion-e-incentivos.md).
 

@@ -33,7 +33,7 @@ La teoría de inventarios arranca con una pregunta de fábrica. En 1913, Ford Wh
 
 Antes de las computadoras, la cantidad de cada artículo se llevaba en fichas, una por artículo, con las entradas, las salidas y el saldo: el kardex de la contabilidad latinoamericana (esta descripción es de la base, sin fuente leída). El nombre viene de una marca de fichas visibles de principios del siglo XX (según una fuente secundaria sobre la empresa); no se encontró una fuente que diga cuándo se empezó a usar para el stock. La lógica de la ficha es la misma que la del [registro de movimientos](../../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md).
 
-En los años sesenta llegó el MRP. Según una fuente secundaria, Joseph Orlicky lo desarrolló en 1964 y su libro es de 1975; antes de él, lo común eran los métodos de [punto de pedido](../Reposicion/punto-de-pedido.md). El MRP calcula los materiales a partir del plan de producción, y en esta base es del tema Producción (todavía no armado). Los sistemas de gestión de depósitos (WMS) vinieron después; no se encontró una fuente fechada de su origen.
+En los años sesenta llegó el MRP. Según una fuente secundaria, Joseph Orlicky lo desarrolló en 1964 y su libro es de 1975; antes de él, lo común eran los métodos de [punto de pedido](../Reposicion/punto-de-pedido.md). El MRP calcula los materiales a partir del plan de producción, y en esta base es de Producción, en [MRP](../../Produccion/Planificacion-de-la-produccion/mrp.md). Los sistemas de gestión de depósitos (WMS) vinieron después; no se encontró una fuente fechada de su origen.
 
 ## Tres escuelas sobre para qué tener stock
 

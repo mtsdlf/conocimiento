@@ -68,7 +68,7 @@ Un agente que procesa cientos de pagos no puede consultar a mano cada contrapart
 | La numeración de los certificados emitidos | suele exigirse correlativa |
 | El acumulado por contraparte y por período, si el régimen lo pide | algunos regímenes calculan el mínimo o la escala sobre lo pagado en el mes |
 
-El modelo de datos de un software es del tema Software de gestión (todavía no escrito). Lo retenido se registra como deuda con el fisco hasta depositarlo; el asiento es de [Contabilidad](../../Contabilidad/contabilidad.md).
+Cómo un sistema baja el padrón, guarda la alícuota de cada sujeto con su vigencia y la aplica al facturar o al pagar está en [software de gestión en la Argentina](../../Software-de-gestion/software-de-gestion-en-argentina.md#lo-que-se-integra-con-arca-y-con-las-provincias). Lo retenido se registra como deuda con el fisco hasta depositarlo; el asiento es de [Contabilidad](../../Contabilidad/contabilidad.md).
 
 ## Cómo falla
 

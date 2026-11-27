@@ -15,6 +15,7 @@ fuentes:
   - "Wikipedia, Overall equipment effectiveness: https://en.wikipedia.org/wiki/Overall_equipment_effectiveness"
   - "SMRP, Best Practices Metrics (la página pública no trae las definiciones; el compendio es para miembros): https://www.smrp.org/learning-resources/smrp-library/best-practices-metrics-guidelines/"
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), 10.3.2.6 y 10.3.2.7: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
+  - "APQC, Open Standards Benchmarking Measure List (16/11/2013), medida 103518, leída en Procesos-de-negocio/.investigacion/de-la-compra-a-la-baja-del-activo.md: https://www.apqc.org/sites/default/files/APQC%20Benchmarking%20Measures%20List.pdf"
   - "Activos-y-mantenimiento/.investigacion/registro-y-desempeno.md (2026-11-27), componente 2"
   - "Activos-y-mantenimiento/.investigacion/posicion-contraria.md (2026-11-27), sección 4"
   - "Activos-y-mantenimiento/.investigacion/orden-de-trabajo.md (2026-11-27), práctica de sistemas"
@@ -46,6 +47,8 @@ Las fórmulas que siguen son las de una guía de indicadores que las ofrece como
 
 El valor de reposición es, según la misma guía, «Cost to replace the asset base with equivalent new assets». El MTBF es para equipos que se reparan; para los que se tiran se usa el tiempo medio hasta la falla (MTTF). La guía advierte que usar uno donde corresponde el otro es «one of the most common errors in maintenance reporting».
 
+El costo sobre valor de reposición no es la medida de costo de APQC, aunque se parecen. La 103518 de APQC es «Total cost of repair and maintenance per $1,000 gross value of fixed assets», con la fórmula «[Cost to repair and maintain fixed assets] / ([Gross value of fixed assets] * 0.0010)»: divide por el valor bruto contable de los bienes de uso, lo que costaron, y no por lo que costaría reponerlos hoy. Con inflación o con equipos viejos el valor bruto queda por debajo del de reposición, y la medida de APQC da más alta para el mismo gasto (lectura de la base). Antes de comparar una cifra con otra empresa, hay que saber cuál de las dos es. El recorrido contable del equipo está en [de la compra a la baja del activo](../../Procesos-de-negocio/de-la-compra-a-la-baja-del-activo.md).
+
 El tiempo de herramienta, la parte de la jornada en que el técnico trabaja de verdad sobre el equipo, mide la planificación y está en [planificación y programación](../Orden-de-trabajo/planificacion-y-programacion.md), junto con el pendiente listo y el cumplimiento del programa semanal.
 
 ## Qué tiempo cuenta en el MTBF
@@ -68,7 +71,7 @@ La Ai es MTBF / (MTBF + MTTR) y, para equipos que no se reparan, MTTF / (MTTF + 
 
 Como criterio de la base, la inherente sirve para comparar diseños y la operacional para saber qué ve producción. Wikipedia trae un ejemplo de equipo informático: con un MTTF de 713.940 horas (81,5 años) y un MTTR de 1 hora, Ai = 713.940 / 713.941 = 99,999860 %. El número es real y a la vez engaña: un equipo que espera tres días el repuesto sigue mostrando la misma Ai, porque la espera no entra. Esa lectura es inferencia de la base sobre la definición.
 
-La disponibilidad es el primer factor de la eficiencia global del equipo (OEE), que la multiplica por el rendimiento y la calidad. La OEE mide la línea y se explica en el tema Producción, todavía no armado.
+La disponibilidad es el primer factor de la eficiencia global del equipo (OEE), que la multiplica por el rendimiento y la calidad. La OEE mide la línea y se explica en [eficiencia global del equipo](../../Produccion/Ejecucion-en-planta/eficiencia-global-del-equipo.md), del tema Producción.
 
 ## El MTBF no es la vida del equipo
 

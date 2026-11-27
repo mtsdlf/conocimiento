@@ -23,17 +23,17 @@ Es el lado de salida de la [caja](../Caja-y-liquidez/caja-y-liquidez.md), como [
 
 ## De la factura aprobada al pago
 
-La vertical empieza donde termina otra. Compras y abastecimiento, un tema todavía no escrito, pide la mercadería y la recibe; Contabilidad cruza la factura con el pedido y la recepción, y registra la deuda en [compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md). Desde ahí, la factura queda lista para pagar y empieza esta vertical, en tres pasos:
+La vertical empieza donde termina otra. [Compras y abastecimiento](../../Compras-y-abastecimiento/compras-y-abastecimiento.md) pide la mercadería y la recibe; Contabilidad cruza la factura con el pedido y la recepción, y registra la deuda en [compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md). Desde ahí, la factura queda aprobada para pagar y empieza esta vertical, en tres pasos:
 
 1. Programar. Se decide la fecha de pago de cada factura: el vencimiento que pactó el proveedor, antes si hay un descuento por pronto pago que conviene, o después si la caja no alcanza y se renegocia.
 2. Correr. Las facturas que se pagan en la fecha se juntan en una propuesta, alguien con facultad la aprueba, se arma un lote por banco y medio de pago, y el banco lo ejecuta.
 3. Cuidar. Antes y durante la corrida, se comprueba que cada pago va a la cuenta real del proveedor y que ninguna deuda se paga dos veces.
 
-Después, la contabilidad registra el pago y lo concilia con el extracto en [conciliaciones](../../Contabilidad/Control-interno/conciliaciones.md). El recorrido completo, de la compra al pago, es del tema Procesos de negocio, todavía no escrito.
+Después, la contabilidad registra el pago y lo concilia con el extracto en [conciliaciones](../../Contabilidad/Control-interno/conciliaciones.md). El recorrido completo está en [de la compra al pago](../../Procesos-de-negocio/de-la-compra-al-pago.md), en Procesos de negocio.
 
 ## Quién decide qué se paga
 
-Compras decide que la factura se debe; la tesorería decide cuándo y cómo se paga. APQC no lo corta igual: pone aprobar y procesar pagos en cuentas a pagar (9.6.1.4 y 9.6.1.8) y deja en la tesorería las transferencias electrónicas (9.7.2.3), los flujos de caja (9.7.2.5) y los casos de fraude (9.7.6). Esta base pone el pago en la tesorería porque el mapa del área le dio el verbo pagar, y deja el registro en Contabilidad. En una empresa grande la frontera depende de cómo esté organizada; en una chica, la misma persona programa, corre y paga (lectura de esta base, sin fuente con método).
+La factura queda aprobada para pago en Contabilidad, en cuentas a pagar, después del [cruce de tres vías](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md#el-cruce-de-tres-vías-visto-desde-el-registro); la tesorería decide cuándo y cómo se paga. APQC coincide en la aprobación y no en el resto: pone aprobar y procesar pagos en cuentas a pagar (9.6.1.4 y 9.6.1.8) y deja en la tesorería las transferencias electrónicas (9.7.2.3), los flujos de caja (9.7.2.5) y los casos de fraude (9.7.6). Esta base pone el pago en la tesorería porque el mapa del área le dio el verbo pagar, y deja el registro en Contabilidad. En una empresa grande la frontera depende de cómo esté organizada; en una chica, la misma persona programa, corre y paga (lectura de esta base, sin fuente con método).
 
 Que la misma persona haga todo es justo lo que la [separación de funciones](../../Contabilidad/Control-interno/separacion-de-funciones.md) quiere evitar, y las [autorizaciones](../../Contabilidad/Control-interno/autorizaciones.md) dicen quién aprueba hasta qué monto. Esas dos notas son las dueñas de esos controles; esta vertical los aplica a la corrida.
 

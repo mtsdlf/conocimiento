@@ -5,18 +5,18 @@ nivel: entiende de software y de negocio en general; no se da por sabido el voca
 escuela: neutral; la línea de compras como función estratégica (Kraljic, el ciclo de compras y abastecimiento de CIPS, los libros de texto de van Weele y de Monczka) es la base, y la crítica a esa línea (los límites de la matriz de Kraljic, el ahorro de precio contra el costo total) aparece donde discute con ella
 fuera:
   - contar, inspeccionar y ubicar lo que llega, y la política de cuándo y cuánto reponer por punto de pedido — Inventario-y-depositos (Operacion-del-deposito/recepcion.md y Reposicion/); acá, si llegó lo pedido
-  - el pronóstico de demanda, el plan agregado (S&OP), la reposición planificada de quien no fabrica (DRP), el transporte y el comercio exterior — tema Cadena de suministro y logística (sesión 8, se arma en paralelo, todavía no está en la base)
-  - el MRP, que calcula qué materiales pedir a partir del plan de producción, y la subcontratación como paso de la fabricación — tema Producción (sesión 9, todavía no armado); acá, la orden al proveedor que resulta
+  - el pronóstico de demanda, el plan agregado (S&OP), la reposición planificada de quien no fabrica (DRP), el transporte y el comercio exterior — Cadena-de-suministro-y-logistica (Planificacion/, Transporte/ y Comercio-exterior/)
+  - el MRP, que calcula qué materiales pedir a partir del plan de producción, y la subcontratación como paso de la fabricación — Produccion (Planificacion-de-la-produccion/mrp.md y Ejecucion-en-planta/subcontratacion.md); acá, la orden al proveedor que resulta
   - el cruce de tres vías como control, la matriz de autorizaciones y la separación de funciones — Contabilidad/Control-interno; acá, dónde se aplican en el circuito de compras
   - la cuenta a pagar, su asiento y lo recibido sin facturar — Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md
-  - el pago al proveedor y la decisión de cuándo pagar — tema Tesorería (sesión 3, todavía no armado)
-  - el crédito fiscal y las retenciones a proveedores — tema Impuestos (sesión 2, todavía no armado); acá, solo qué datos del proveedor hacen falta
-  - la compra de un activo fijo y su vida útil — tema Activos y mantenimiento (sesión 12, todavía no armado) y Contabilidad/Operaciones/activos-fijos-y-amortizacion.md; acá, la orden de compra que lo trae
+  - el pago al proveedor y la decisión de cuándo pagar — Tesoreria/Pagos-a-proveedores
+  - el crédito fiscal y las retenciones a proveedores — Impuestos (Impuestos-al-consumo/ y Recaudacion-en-la-fuente/); acá, solo qué datos del proveedor hacen falta
+  - la compra de un activo fijo y su vida útil — Activos-y-mantenimiento y Contabilidad/Operaciones/activos-fijos-y-amortizacion.md, con el recorrido en Procesos-de-negocio/de-la-compra-a-la-baja-del-activo.md; acá, la orden de compra que lo trae
   - la negociación como método general — Ventas/Objeciones-y-negociacion; acá, lo propio del lado del comprador
   - el poder de negociación de los proveedores como fuerza de la industria — Estrategia-competitiva/Analisis-de-industria/cinco-fuerzas.md
   - el registro de oro entre sistemas — Datos/Gobierno-y-calidad/datos-maestros.md; acá, qué tiene adentro el registro del proveedor
-  - las piezas de diseño comunes a todo software de gestión (datos maestros, documento y estados, permisos, auditoría) — tema Software de gestión (sesión 14, todavía no armado)
-  - el recorrido de punta a punta de la compra al pago — tema Procesos de negocio (sesión 13, todavía no armado)
+  - las piezas de diseño comunes a todo software de gestión (datos maestros, documento y estados, permisos, auditoría) — Software-de-gestion/Columnas-tecnicas
+  - el recorrido de punta a punta de la compra al pago — Procesos-de-negocio/de-la-compra-al-pago.md
   - las compras del Estado (contrataciones públicas, licitación pública como régimen legal), los productos de compras electrónicas (e-procurement), sus comparativas y precios
 fuentes: []
 preguntas:
@@ -42,18 +42,19 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 | Vecino | Es dueño de | La frontera con este tema |
 |---|---|---|
 | [Inventario y depósitos](../Inventario-y-depositos/inventario-y-depositos.md) | la cantidad de cada artículo, dónde está y en qué estado; recibir, ubicar, contar; cuándo y cuánto reponer por política | En la recepción, Inventario cuenta, inspecciona y ubica ([recepción](../Inventario-y-depositos/Operacion-del-deposito/recepcion.md)); Compras compara ese conteo con la orden y decide qué hacer con la diferencia. El [punto de pedido](../Inventario-y-depositos/Reposicion/punto-de-pedido.md) dice cuándo y cuánto; a quién se le pide y en qué condiciones, de acá |
-| Cadena de suministro y logística (en armado en paralelo) | el pronóstico, el plan agregado, la reposición planificada, el transporte y el comercio exterior | Cadena dice qué hace falta y cuándo, en un plan; Compras convierte esa necesidad en una orden a un proveedor y negocia con él. La importación (aduana, despachante, flete internacional) es de Cadena; la orden al proveedor del exterior, de acá |
-| Producción (no armado) | lo que transforma: lista de materiales, MRP, orden de producción | El MRP propone qué materiales comprar; la orden al proveedor sale de acá |
+| [Cadena de suministro y logística](../Cadena-de-suministro-y-logistica/cadena-de-suministro-y-logistica.md) | el pronóstico, el plan agregado, la reposición planificada, el transporte y el comercio exterior | Cadena dice qué hace falta y cuándo, en un plan; Compras convierte esa necesidad en una orden a un proveedor y negocia con él. La importación (aduana, despachante, flete internacional) es de Cadena, en [Comercio exterior](../Cadena-de-suministro-y-logistica/Comercio-exterior/comercio-exterior.md); la orden al proveedor del exterior, de acá |
+| [Producción](../Produccion/produccion.md) | lo que transforma: lista de materiales, MRP, orden de producción | El [MRP](../Produccion/Planificacion-de-la-produccion/mrp.md) propone qué materiales comprar; la orden al proveedor sale de acá. En la [subcontratación](../Produccion/Ejecucion-en-planta/subcontratacion.md), la operación y el material son de Producción y la orden al proveedor, de acá |
 | [Contabilidad](../Contabilidad/contabilidad.md) | la cuenta a pagar, el asiento y los controles | El cruce de tres vías, la matriz de autorizaciones y la separación de funciones están en [Control interno](../Contabilidad/Control-interno/control-interno.md); acá se dice en qué paso del circuito se aplican. La deuda con el proveedor nace en [compras y cuentas a pagar](../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md) |
-| Tesorería (no armado) | el pago y cuándo pagar | La condición de pago se negocia y se registra acá; el pago se ejecuta allá |
-| Impuestos (no armado) | el crédito fiscal y las retenciones | Acá, la condición fiscal del proveedor como dato; allá, qué se hace con ella |
-| Activos y mantenimiento (no armado) | la vida del activo | La orden que compra una máquina es de acá; su alta, su mantenimiento y su baja, de allá |
+| [Tesorería](../Tesoreria/tesoreria.md) | el pago y cuándo pagar | La condición de pago se negocia y se registra acá; el pago de la factura ya aprobada se ejecuta allá, en [pagos a proveedores](../Tesoreria/Pagos-a-proveedores/pagos-a-proveedores.md) |
+| [Impuestos](../Impuestos/impuestos.md) | el crédito fiscal y las retenciones | Acá, la condición fiscal del proveedor como dato; allá, qué se hace con ella |
+| [Activos y mantenimiento](../Activos-y-mantenimiento/activos-y-mantenimiento.md) | la vida del activo | La orden que compra una máquina es de acá; su alta, su mantenimiento y su baja, de allá |
 | [Ventas](../Ventas/ventas.md) | el método de vender, con la negociación vista del lado del vendedor | La negociación general está en [objeciones y negociación](../Ventas/Objeciones-y-negociacion/objeciones-y-negociacion.md); acá, lo que cambia cuando se negocia como comprador |
 | [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) | el pedido de venta | Es el espejo: la orden de compra de una empresa es el pedido de venta de su proveedor. Los objetos se parecen, pero cada empresa registra los suyos |
 | [Datos/Gobierno-y-calidad](../Datos/Gobierno-y-calidad/datos-maestros.md) | el registro de oro entre sistemas | Allá, cómo se logra un solo registro; acá, qué tiene adentro el registro del proveedor |
-| Software de gestión (no armado) | las columnas técnicas | Acá qué tiene que registrar el negocio; allá cómo lo resuelve cualquier sistema |
+| [Software de gestión](../Software-de-gestion/software-de-gestion.md) | las columnas técnicas | Acá qué tiene que registrar el negocio; allá cómo lo resuelve cualquier sistema, en [Columnas técnicas](../Software-de-gestion/Columnas-tecnicas/columnas-tecnicas.md) |
+| [Procesos de negocio](../Procesos-de-negocio/procesos-de-negocio.md) | los recorridos que cruzan dominios | El recorrido entero, de la solicitud al pago, está en [de la compra al pago](../Procesos-de-negocio/de-la-compra-al-pago.md); acá, el tramo hasta que lo recibido coincide con lo pedido |
 
-Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
+Cuando se armó el tema, los vecinos que todavía no existían se nombraron sin enlace; se enlazaron en la sesión 16 del mapa (#123).
 
 ## Árbol
 
@@ -104,3 +105,4 @@ Compras-y-abastecimiento/
 - La división entre Orden de compra y Seguimiento de la orden es de la base: CIPS no la hace y APQC pone las dos en 4.2.3.
 - La recepción contra lo pedido es de acá y la recepción física es de Inventario: el corte lo fijó #98 y el tema de Inventario ya lo usa.
 - Lo de la Argentina va en una sola nota del tema, porque toca el alta del proveedor y la recepción de su factura, y es corto.
+- Mantenido el 2026-11-27 (sesión 16 del mapa del software de gestión, #123): se enlazaron los vecinos que ya existen; [solicitud de compra](Orden-de-compra/solicitud-de-compra.md) y [tipos de orden](Orden-de-compra/tipos-de-orden.md) quedan de acuerdo en que la subcontratación termina en una orden al proveedor, como en [subcontratación](../Produccion/Ejecucion-en-planta/subcontratacion.md); la cifra de APQC sobre la compra fuera del circuito se separó en sus dos cortes (2,5 % para las de peor desempeño, 2 % contra 1 % para la comparación); y [costo total de adquisición](Abastecimiento-estrategico/costo-total-de-adquisicion.md) dejó los aliases del costo del ciclo de vida, que son de [reparar o reemplazar](../Activos-y-mantenimiento/Desempeno-de-los-activos/reparar-o-reemplazar.md).

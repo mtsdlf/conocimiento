@@ -92,6 +92,12 @@ Dentro de la academia se distinguen tres líneas: la que discute qué es un ERP 
 | Brehm, Heinzl y Markus (2001), «Tailoring ERP systems» | La tipología de adaptación | De la configuración a modificar el código; el orden de menos a más invasivo sale de resúmenes secundarios (Leyh 2012) | Resumen |
 | Soh, Sia y Tay-Yap (2000), «Cultural fits and misfits» | La tipología de desajustes | Que los de salida (los reportes) fueron los más frecuentes; es un solo hospital | Resumen |
 | Documentación de ERP de código abierto | Estados del documento, libro inmutable, fecha de bloqueo, multiempresa | Evidencia de que la práctica existe en un producto; no es recomendación | Sí, varias páginas |
+| OpenPeppol, BIS Billing 3.0 (implementación pública de EN 16931) | §8 a §10 y las reglas BR-CO | Que el renglón lleva categoría y alícuota pero no importe de impuesto, y que el impuesto se redondea una vez por categoría y alícuota | Sí, las secciones y parte de las reglas |
+| OASIS, UBL 2.1, esquema de componentes comunes | `TaxTotal`, `TaxSubtotal`, `TaxCategory`, `PaymentTerms` | El impuesto incluido, el orden de impuestos compuestos y los vencimientos por cuota | Sí, las definiciones del esquema |
+| Streamlined Sales and Use Tax Agreement | Secciones 202, 203, 305, 306, 324 y 329 | Alícuotas y límites como bases con vigencia; quién elige redondear por ítem o por factura; quién responde por el error | Sí, esas secciones |
+| HMRC, VAT Notice 700 | §17.5 y §17.6 | Redondeo por renglón o por factura, con consistencia | Sí |
+| ASC X9, IR 01-2022, ISO 20022 Remittance Content Market Guide | Información del documento referido y sus importes | Qué tiene que traer un pago para aplicarlo sin intervención | Sí |
+| ARCA, manual del WSFEv1 v4.8 | `AlicIva`, `Tributos` y los márgenes de error | Que el IVA se informa por alícuota y con qué tolerancia de redondeo | Sí, con pdftotext |
 
 ## Implementación
 

@@ -106,7 +106,7 @@ Son las palabras que usa esta base, una por concepto, ordenadas alfabéticamente
 | Compras electrónicas | E-procurement | Comprar por internet u otra red; incluye e-sourcing, licitaciones y subastas en línea | [fundamentos](fundamentos-de-compras-y-abastecimiento.md) |
 | Compras y abastecimiento | Procurement, purchasing, supply management | Lo que una empresa hace para conseguir de afuera lo que necesita | [compras y abastecimiento](../compras-y-abastecimiento.md) |
 | Costo por orden de compra | Cost per purchase order | El costo de todo el proceso de ordenar dividido por las órdenes emitidas | [fundamentos](fundamentos-de-compras-y-abastecimiento.md) |
-| De la compra al pago | Procure-to-pay, P2P | El recorrido de la solicitud al pago, que cruza Compras, Inventario, Contabilidad y Tesorería; es del tema Procesos de negocio, todavía no armado | — |
+| De la compra al pago | Procure-to-pay, P2P | El recorrido de la solicitud al pago, que cruza Compras, Inventario, Contabilidad y Tesorería; es del tema Procesos de negocio | [de la compra al pago](../../Procesos-de-negocio/de-la-compra-al-pago.md) |
 | Tarjeta de compra | Purchasing card, p-card | Una tarjeta corporativa para compras chicas | [fundamentos](fundamentos-de-compras-y-abastecimiento.md) |
 
 ## Lo propio de la Argentina

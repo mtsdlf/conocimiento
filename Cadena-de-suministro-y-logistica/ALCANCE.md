@@ -5,17 +5,17 @@ nivel: entiende de software y de negocio en general; no se da por sabido el voca
 escuela: neutral; la gestión de la cadena como la ordenan los cuerpos de certificación (ASCM, con SCOR, CSCP y CLTD) y los libros de texto de operaciones es la base; el pronóstico se cuenta desde la estadística (Hyndman y Athanasopoulos); la crítica de la planificación por pronóstico (DDMRP, «el pronóstico siempre está mal») y la discusión entre eficiencia y resiliencia aparecen donde discuten
 fuera:
   - lo que pasa adentro del depósito (recibir, ubicar, reservar, preparar el pedido, contar) y la reposición artículo por artículo con punto de pedido, lote económico, stock de seguridad y ABC — Inventario-y-depositos; acá se enlaza
-  - el proveedor, la orden de compra y el control de lo recibido contra lo pedido — tema Compras y abastecimiento (sesión 5, en armado en paralelo); acá, el viaje de lo comprado y el plan que dice cuánto comprar
-  - el plan maestro de producción, el MRP, la lista de materiales y la programación de planta — tema Producción (sesión 9, todavía no armado); acá, el plan agregado que lo alimenta
-  - lo fiscal del comercio exterior en la Argentina (derechos, tasas, IVA y percepciones en la importación, reintegros) — tema Impuestos (sesión 2, en armado en otra sesión); acá, cómo se mueve y se documenta la mercadería
+  - el proveedor, la orden de compra y el control de lo recibido contra lo pedido — Compras-y-abastecimiento; acá, el viaje de lo comprado y el plan que dice cuánto comprar
+  - el plan maestro de producción, el MRP, la lista de materiales y la programación de planta — Produccion; acá, el plan agregado que lo alimenta
+  - lo fiscal del comercio exterior en la Argentina (derechos, tasas, IVA y percepciones en la importación, reintegros) — Impuestos/comercio-exterior-en-argentina.md; acá, cómo se mueve y se documenta la mercadería
   - el pedido de venta y la fecha prometida al cliente — Relacion-con-clientes; acá, cuánto tarda el transporte
   - el envío de una tienda online (transportistas, agregadores, costo del envío, fulfillment, devoluciones) — Comercio-electronico/Operaciones-del-comercio/Envios-y-logistica; se enlaza como el caso del comercio
   - el remito y el código de operación de traslado en la Argentina — Inventario-y-depositos/inventario-y-depositos-en-argentina.md; se enlaza
   - la valuación del stock en tránsito y el costo del flete en el costo — Contabilidad; la diferencia de cambio, Contabilidad/Operaciones/moneda-extranjera.md
   - lo que la carta de crédito y el pago al exterior le piden a la caja y al crédito de la empresa (la línea en el banco, el costo, el riesgo de contraparte y de moneda) — Tesoreria; acá, la carta de crédito y la cobranza documentaria como medios de pago atados a los documentos de la carga (ampliación de #174)
   - el presupuesto anual de la empresa — Contabilidad/Contabilidad-de-gestion/presupuesto.md; el S&OP lo enlaza
-  - las piezas de diseño comunes a todo software de gestión (documento y estados, datos maestros, unidades y monedas) — tema Software de gestión (sesión 14, todavía no armado)
-  - el recorrido de punta a punta de la planificación a la producción y del pedido al cobro — tema Procesos de negocio (sesión 13, todavía no armado)
+  - las piezas de diseño comunes a todo software de gestión (documento y estados, datos maestros, unidades y monedas) — Software-de-gestion/Columnas-tecnicas
+  - el recorrido de punta a punta de la planificación a la producción y del pedido al cobro — Procesos-de-negocio (de-la-planificacion-a-la-produccion.md y del-pedido-al-cobro.md)
   - productos de planificación, de gestión de transporte (TMS) o de comercio exterior, comparativas y precios; la conducción de flotas, el mantenimiento de vehículos y la seguridad vial
 fuentes: []
 preguntas:
@@ -42,15 +42,15 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 | Vecino | Es dueño de | La frontera con este tema |
 |---|---|---|
 | [Inventario y depósitos](../Inventario-y-depositos/inventario-y-depositos.md) | la cantidad de cada artículo en cada lugar y estado; recibir, ubicar, reservar, preparar, contar; la reposición por punto de pedido | Preparar el pedido es de allá; desde que el bulto embalado sale por la puerta, de acá. La reposición artículo por artículo con [punto de pedido](../Inventario-y-depositos/Reposicion/punto-de-pedido.md) es de allá; la planificada por períodos para varios depósitos (DRP), de acá. Una transferencia entre depósitos sale y entra allá; el viaje es de acá |
-| Compras y abastecimiento (en armado) | el proveedor, la orden de compra, la negociación y el control de lo recibido contra lo pedido | El plan de acá dice cuánto hace falta y cuándo; a quién se le compra y a qué precio, Compras. El flete de lo comprado y el trámite de importación son de acá |
-| Producción (no armado) | el plan maestro, el MRP, la lista de materiales y la programación de planta | El plan agregado de acá, que sale del S&OP, fija cuánto producir por familia y por mes; el plan maestro y el MRP lo bajan a artículos y órdenes allá |
-| Impuestos (en armado) | lo fiscal: derechos, tasas, IVA y percepciones de la importación, reintegros de la exportación | Acá, qué documentos viajan, quién hace el trámite y cuánto tarda; allá, cuánto se paga y cómo se liquida |
+| [Compras y abastecimiento](../Compras-y-abastecimiento/compras-y-abastecimiento.md) | el proveedor, la orden de compra, la negociación y el control de lo recibido contra lo pedido | El plan de acá dice cuánto hace falta y cuándo; a quién se le compra y a qué precio, Compras. El flete de lo comprado y el trámite de importación son de acá |
+| [Producción](../Produccion/produccion.md) | el plan maestro, el MRP, la lista de materiales y la programación de planta | El plan agregado de acá, que sale del S&OP, fija cuánto producir por familia y por mes; el plan maestro y el MRP lo bajan a artículos y órdenes allá |
+| [Impuestos](../Impuestos/impuestos.md) | lo fiscal: derechos, tasas, IVA y percepciones de la importación, reintegros de la exportación | Acá, qué documentos viajan, quién hace el trámite y cuánto tarda; allá, cuánto se paga y cómo se liquida |
 | [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) | el pedido de venta y la [fecha prometida](../Relacion-con-clientes/Pedido-de-venta/fecha-prometida.md) | El pedido dice a dónde y para cuándo; cuánto tarda el viaje y cómo llega, acá |
 | [Contabilidad](../Contabilidad/contabilidad.md) | la valuación, el costo y el registro; el presupuesto | El S&OP usa el [presupuesto](../Contabilidad/Contabilidad-de-gestion/presupuesto.md) y lo revisa mes a mes; el costo del flete se registra allá |
 | [Envíos y logística, en Comercio electrónico](../Comercio-electronico/Operaciones-del-comercio/Envios-y-logistica/envios-y-logistica.md) | la aplicación a una tienda online: transportista, agregador, etiqueta, costo del envío, fulfillment | Allá, cómo se ve en una tienda; acá, el concepto general (modos, consolidación, despacho, prueba de entrega) |
-| Software de gestión (no armado) | las columnas técnicas: documento y estados, unidades, monedas | Acá qué tiene que registrar el negocio; allá cómo lo resuelve cualquier sistema |
+| [Software de gestión](../Software-de-gestion/Columnas-tecnicas/columnas-tecnicas.md) | las columnas técnicas: documento y estados, unidades, monedas | Acá qué tiene que registrar el negocio; allá cómo lo resuelve cualquier sistema |
 
-Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
+Cuando se escribió, Compras, Producción, Impuestos, Tesorería, Software de gestión y Procesos de negocio no existían y se nombraban sin enlace; la sesión 16 del mapa (#123) los enlazó.
 
 ## Árbol
 

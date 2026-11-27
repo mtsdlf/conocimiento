@@ -20,7 +20,7 @@ revisado: 2026-11-27
 
 El costo de lo vendido es lo que costaron las mercaderías que la empresa entregó en un período; se calcula con una fórmula de valuación del inventario (PEPS o promedio ponderado bajo NIIF) y nunca deja el stock por encima de lo que se puede recuperar vendiéndolo.
 
-El costo de lo vendido y el inventario son dos caras del mismo registro: lo que sale del stock pasa a resultados como costo, y lo que queda es el activo del balance. Contar, ubicar y mover el stock es del tema Inventario y depósitos, todavía no escrito; la diferencia que aparece al contar la mide el depósito y la registra la contabilidad. Cómo se reparten los costos de fábrica entre los productos, en una empresa que produce, es de [sistemas de costeo](../Contabilidad-de-gestion/sistemas-de-costeo.md).
+El costo de lo vendido y el inventario son dos caras del mismo registro: lo que sale del stock pasa a resultados como costo, y lo que queda es el activo del balance. Contar, ubicar y mover el stock es del tema [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md); la diferencia que aparece al contar la mide el depósito ([ajustes y mermas](../../Inventario-y-depositos/Control-del-stock/ajustes-y-mermas.md)) y la registra la contabilidad. Cómo se reparten los costos de fábrica entre los productos, en una empresa que produce, es de [sistemas de costeo](../Contabilidad-de-gestion/sistemas-de-costeo.md).
 
 ## Permanente o periódico
 

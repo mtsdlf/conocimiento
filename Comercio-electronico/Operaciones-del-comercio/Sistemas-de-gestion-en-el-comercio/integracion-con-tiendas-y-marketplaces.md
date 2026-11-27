@@ -25,7 +25,7 @@ revisado: 2026-11-24
 
 Integrar un sistema de gestión con una tienda online o un marketplace es copiar productos, precios, stock y pedidos de un lado al otro por sus APIs, con un sistema que manda en cada dato y el otro que lo refleja. Falla cuando el aviso de una venta se pierde o llega dos veces, cuando el permiso de acceso vence o cuando dos canales venden la misma unidad entre una copia y la siguiente.
 
-Es lo que une al [sistema de gestión](sistemas-de-gestion.md) con los canales de [Venta en varios canales](../../Venta-en-varios-canales/venta-en-varios-canales.md). Sin integración, cada canal descuenta su propio stock y aparece la sobreventa que describe [catálogo y stock](../catalogo-y-stock.md). La misma mecánica usan las [apps para vendedores de marketplace](../../Plataforma-de-tiendas/apps-para-vendedores-de-marketplace.md), que conectan una tienda con Mercado Libre sin pasar por un sistema de gestión.
+Es lo que une al [sistema de gestión](sistemas-de-gestion-en-el-comercio.md) con los canales de [Venta en varios canales](../../Venta-en-varios-canales/venta-en-varios-canales.md). Sin integración, cada canal descuenta su propio stock y aparece la sobreventa que describe [catálogo y stock](../catalogo-y-stock.md). La misma mecánica usan las [apps para vendedores de marketplace](../../Plataforma-de-tiendas/apps-para-vendedores-de-marketplace.md), que conectan una tienda con Mercado Libre sin pasar por un sistema de gestión.
 
 ## Qué viaja y en qué sentido
 
