@@ -1,9 +1,10 @@
 ---
 resumen: >-
-  El Libro de Sueldos Digital es el sistema de ARCA donde el empleador carga cada liquidación, con sus conceptos asociados a una grilla común, y de donde salen a la vez el libro de sueldos del art. 52 de la LCT y la declaración mensual de cargas (formulario 931). Lo hicieron obligatorio las RG 5249/2022 y 5250/2022, en forma progresiva. En 2026 la Ley 27.802 reemplazó el art. 52 por la registración ante ARCA, y no está claro todavía cómo queda el sistema.
+  El Libro de Sueldos Digital es el sistema de ARCA donde el empleador carga cada liquidación, con sus conceptos asociados a una grilla común, y de donde salen a la vez el libro de sueldos del art. 52 de la LCT y la declaración mensual de cargas (formulario 931). Lo hicieron obligatorio las RG 5249/2022 y 5250/2022, en forma progresiva. En 2026 la Ley 27.802 reemplazó el art. 52 por la registración ante ARCA y el Decreto 407/2026 dejó de exigir libros laborales, pero al 27 de noviembre ARCA no cambió las resoluciones del sistema, que sigue siendo el camino del formulario 931.
 estado: borrador
 estabilidad: volatil
 fuentes:
+  - "Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-laboral.md (estado judicial de la Ley 27.802, 2026-11-27)"
   - "RG Conjunta AFIP-MTEySS 5249/2022, B.O. 17/8/2022: https://biblioteca.afip.gob.ar/dcp/REAG01005249_2022_08_16"
   - "RG AFIP 5250/2022, B.O. 17/8/2022, texto actualizado: https://biblioteca.afip.gob.ar/dcp/REAG01005250_2022_08_16"
   - "RG AFIP 3781/2015, B.O. 30/6/2015 (abrogada): https://biblioteca.afip.gob.ar/dcp/REAG01003781_2015_06_26"
@@ -18,10 +19,14 @@ fuentes:
   - "ARCA, Libro de Sueldos Digital, Errores frecuentes: https://www.arca.gob.ar/LibrodeSueldosDigital/ayuda/errores-frecuentes.asp"
   - "Ley 27.802, arts. 20, 103, 104 y 155, Biblioteca Electrónica de ARCA: https://biblioteca.afip.gob.ar/dcp/LEY_C_027802_2026_02_27"
   - "Ley 27.802, texto del Boletín Oficial del 6/3/2026 (misma familia de fuentes): https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306"
-  - "Decreto 407/2026, Anexo I, art. 1, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/425000-429999/426270/norma.htm"
+  - "Decreto 407/2026, B.O. 1/6/2026, Anexo I, art. 1, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/425000-429999/426270/norma.htm"
   - "Decreto 847/2024, anexo, cap. I, art. 1, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/400000-404999/404509/norma.htm"
-  - "RG ARCA 5848/2026, certificado de trabajo digital, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/425000-429999/425871/norma.htm"
-  - "ARCA, cuadro legislativo de Recursos de la Seguridad Social, Empleador: https://biblioteca.afip.gob.ar/cuadroslegislativos/cuadroLegislativo.aspx?i=81"
+  - "RG ARCA 5848/2026, B.O. 18/5/2026, certificado de trabajo digital, art. 7, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/425000-429999/425871/norma.htm"
+  - "ARCA, cuadro legislativo de Recursos de la Seguridad Social, Empleador (leído el 27/11/2026): https://biblioteca.afip.gob.ar/cuadroslegislativos/cuadroLegislativo.aspx?i=81"
+  - "Contadores en Red, Fin de la rúbrica del libro de sueldos en CABA, 30/7/2026: https://contadoresenred.com/fin-de-la-rubrica-del-libro-de-sueldos-en-caba/"
+  - "Aconpy, la Ciudad de Buenos Aires elimina la rúbrica, 10/8/2026: https://blog.aconpy.com/2026/08/10/la-ciudad-de-buenos-aires-elimina-una-traba-burocratica-clave-y-reglamenta-tramites-laborales/"
+  - "Blog de Rankmi, Libro de Sueldos Digital en 2026, 21/10/2026, una sola fuente para la provincia de Buenos Aires: https://www.rankmi.com/blog/libro-de-sueldos-digital-en-2026-cambios-reforma-laboral"
+  - "Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-cargas.md, punto 1 (2026-11-27)"
   - "WS y Asociados, Reforma laboral 2026 (según un resumen): https://wsyasociados.com.ar/reforma-laboral-2026-ley-27802/"
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-cargas.md, componente 3 (2026-11-27)"
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md, componente 1 (2026-11-27)"
@@ -32,10 +37,10 @@ revisado:
 
 # Libro de sueldos digital
 
-El Libro de Sueldos Digital es el sistema de ARCA donde el empleador carga cada liquidación, con sus conceptos asociados a una grilla común, y de donde salen a la vez el libro de sueldos del art. 52 de la LCT y la declaración mensual de cargas (formulario 931). Lo hicieron obligatorio las RG 5249/2022 y 5250/2022, en forma progresiva. En 2026 la Ley 27.802 reemplazó el art. 52 por la registración ante ARCA, y no está claro todavía cómo queda el sistema.
+El Libro de Sueldos Digital es el sistema de ARCA donde el empleador carga cada liquidación, con sus conceptos asociados a una grilla común, y de donde salen a la vez el libro de sueldos del art. 52 de la LCT y la declaración mensual de cargas (formulario 931). Lo hicieron obligatorio las RG 5249/2022 y 5250/2022, en forma progresiva. En 2026 la Ley 27.802 reemplazó el art. 52 por la registración ante ARCA y el Decreto 407/2026 dejó de exigir libros laborales, pero al 27 de noviembre ARCA no cambió las resoluciones del sistema, que sigue siendo el camino del formulario 931.
 
 > [!WARNING]
-> Ley, al 27 de noviembre de 2026: esta nota no reemplaza a un contador ni a un abogado laboralista. La Ley 27.802 de Modernización Laboral (Boletín Oficial del 6 de marzo de 2026) sustituyó el art. 52 de la LCT, que es la base de este libro, y fue impugnada en la justicia (según un resumen de WS y Asociados, una sola fuente secundaria, una suspensión de unos 82 artículos dictada el 30 de marzo de 2026 se levantó en la Sala VIII el 23 de abril; no se leyó ninguna sentencia y queda un riesgo judicial residual). Todo lo de esta nota tiene una sola fuente, la oficial (normas y páginas de ARCA); no se leyó ninguna fuente profesional independiente.
+> Ley, al 27 de noviembre de 2026: esta nota no reemplaza a un contador ni a un abogado laboralista. La Ley 27.802 de Modernización Laboral (Boletín Oficial del 6 de marzo de 2026) sustituyó el art. 52 de la LCT, que es la base de este libro. Estado judicial al 27 de noviembre de 2026: la Ley 27.802 rige y ninguna medida judicial suspende hoy artículos suyos. El 30 de marzo de 2026 el Juzgado Nacional del Trabajo N.º 63, a pedido de la CGT, suspendió más de 80 artículos; el 23 de abril la Sala VIII de la Cámara Nacional de Apelaciones del Trabajo dio efecto suspensivo a la apelación del Estado y la ley volvió a regir; el 7 de mayo la Corte Suprema declaró inadmisible el per saltum del Gobierno. La causa de la CGT sigue en el fuero Contencioso Administrativo Federal y la constitucionalidad de la ley no está resuelta. Las fuentes son prensa y estudios jurídicos; no se leyó ninguna sentencia completa. Casi todo lo de esta nota tiene una sola fuente, la oficial (normas y páginas de ARCA). Lo de la rúbrica después de la Ley 27.802 tiene además fuentes profesionales, que se nombran donde se usan.
 
 El libro de sueldos como idea general (para qué sirve, qué contiene, cuánto se guarda) está en [libro de sueldos](libro-de-sueldos.md). La declaración mensual y las cargas que calcula están en [cargas sociales en la Argentina](cargas-sociales-en-argentina.md#la-declaración-mensual).
 
@@ -46,7 +51,7 @@ El libro de sueldos como idea general (para qué sirve, qué contiene, cuánto s
 | RG 3781/2015 | creó el sistema | abrogada por la RG 5250/2022 |
 | RG 4535/2019 | habilitó la adhesión voluntaria | abrogada |
 | RG Conjunta 5249/2022 (AFIP y Ministerio de Trabajo) | obliga a llevar el libro del art. 52 con el sistema | vigente según la Biblioteca de ARCA |
-| RG 5250/2022 | reglamenta cómo funciona | vigente, sin los arts. 8 a 11, que derogó la RG 5848/2026 |
+| RG 5250/2022 | reglamenta cómo funciona | vigente, sin los arts. 8 a 11 (el Título III, sobre el certificado de trabajo), que derogó la RG 5848/2026 |
 
 La RG Conjunta 5249/2022 dice que los empleadores que llevan el Libro Especial del art. 52 de la LCT «y aquellos que utilicen el registro de hojas móviles [...] deberán cumplir con dicha obligación mediante la utilización del sistema informático denominado "Libro de Sueldos Digital"» (art. 1), y que la obligación «se dispondrá en forma progresiva hasta alcanzar a la totalidad de los empleadores» (art. 3).
 
@@ -96,12 +101,20 @@ Los errores más comunes que lista ARCA son de forma («La línea xxx no posee 9
 
 ## Lo que cambió con la Ley 27.802
 
-El art. 52 de la LCT ahora dice: «Los empleadores deberán registrar a los trabajadores ante la Agencia de Recaudación y Control Aduanero (ARCA) [...] Esta registración será suficiente a todos los efectos, sin que puedan exigirse requisitos adicionales por parte de ninguna otra autoridad. El empleador deberá conservar los libros preexistentes durante un plazo de diez (10) años» (art. 20 de la Ley 27.802). El Decreto 407/2026 lo reglamentó: la obligación se cumple con el alta y la baja en los sistemas de ARCA, y «No será exigible a los empleadores llevar libros laborales en soporte físico ni digital» (Anexo I, art. 1). Ya en 2024, el Decreto 847/2024 decía que la registración en los sistemas de AFIP «dará por cumplidas las exigencias del libro especial previsto en el artículo 52».
+El art. 52 de la LCT ahora dice: «Los empleadores deberán registrar a los trabajadores ante la Agencia de Recaudación y Control Aduanero (ARCA) [...] Esta registración será suficiente a todos los efectos, sin que puedan exigirse requisitos adicionales por parte de ninguna otra autoridad. El empleador deberá conservar los libros preexistentes durante un plazo de diez (10) años» (art. 20 de la Ley 27.802). El Decreto 407/2026 (Boletín Oficial del 1 de junio de 2026) lo reglamentó: la obligación se cumple con el alta y la baja en los sistemas de ARCA, y «No será exigible a los empleadores llevar libros laborales en soporte físico ni digital» (Anexo I, art. 1). Ya en 2024, el Decreto 847/2024 decía que la registración en los sistemas de AFIP «dará por cumplidas las exigencias del libro especial previsto en el artículo 52».
 
 La misma ley dice que las PyMEs se registran solo ante ARCA, que dispone un «Registro Único de Personal» (arts. 103 y 104, que modifican los arts. 84 y 85 de la Ley 24.467), y unifica las registraciones, incluida la de la construcción (art. 155).
 
-> [!IMPORTANT]
-> Lo que no cierra: las RG 5249/2022 y 5250/2022 siguen figurando como vigentes en la Biblioteca de ARCA y obligan a llevar el libro con este sistema, pero el Decreto 407/2026 dice que no es exigible llevar libros laborales ni en soporte digital. No se encontró una norma ni un comunicado de ARCA que adecue el sistema a la Ley 27.802 ni que diga si la rúbrica provincial sigue siendo exigible. Los dos informes de esta base lo leen distinto: uno da la rúbrica por terminada, con el art. 52 y el Decreto 407 (así lo dice [relación laboral en la Argentina](../Legajo/relacion-laboral-en-argentina.md#la-primera-contratación-en-la-argentina)); el otro la deja como pregunta abierta porque las resoluciones de ARCA no cambiaron. Como lectura de esta base, el libro como obligación laboral parece terminado, pero el sistema sigue siendo el camino por el que el empleador obligado arma y presenta el formulario 931, así que una nómina tiene que seguir generando el archivo.
+## La tensión entre el decreto y las resoluciones de ARCA
+
+Las RG 5249/2022 y 5250/2022 obligan a llevar el libro con este sistema, y el Decreto 407/2026 dice que no es exigible llevar libros laborales ni en soporte digital. Al 27 de noviembre de 2026, ARCA no dictó una norma que adecue el sistema a la Ley 27.802:
+
+- El cuadro legislativo de ARCA de Recursos de la Seguridad Social no tiene ninguna norma de 2026 sobre el Libro de Sueldos Digital. La RG 5249 figura sin modificaciones y como «Vigente» en la Biblioteca de ARCA.
+- La única norma de 2026 que toca la RG 5250 es la RG 5848/2026 (Boletín Oficial del 18 de mayo), que deroga su Título III, el del certificado de trabajo del art. 80 de la LCT (art. 7), y no menciona el libro ni el art. 52.
+
+La rúbrica provincial empezó a caer por jurisdicción. La Ciudad de Buenos Aires dejó sin efecto su régimen de rúbrica con la Resolución 852/SECTE/2026: rige «a partir del 1° de junio de 2026» y «el período devengado mayo de 2026 será el último alcanzado por el régimen de rúbrica» (arts. 1 y 3, según Contadores en Red; otro blog profesional coincide en que se eliminó la rúbrica general y sigue para regímenes especiales). La provincia de Buenos Aires «suspendió la rúbrica del libro para los períodos devengados desde abril de 2026», según una sola fuente secundaria, el blog de una empresa de recursos humanos (octubre de 2026), que no cita la norma provincial. Las demás jurisdicciones no se revisaron.
+
+La misma fuente dice que «Algunos especialistas entienden» que la liquidación por el Libro de Sueldos Digital «sigue siendo obligatoria en la práctica, porque es el medio para generar el F.931». Coincide con la lectura de esta base: el libro como obligación laboral terminó con el art. 52 y el Decreto 407, pero el empleador que ARCA notificó sigue presentando el formulario 931 por el sistema, así que una nómina tiene que seguir generando el archivo. [Relación laboral en la Argentina](../Legajo/relacion-laboral-en-argentina.md#la-primera-contratación-en-la-argentina) da la rúbrica por terminada, y eso vale para la Ciudad de Buenos Aires; para cada provincia hay que mirar su norma.
 
 > [!NOTE]
-> Sin fuente todavía: una norma o comunicado de ARCA posterior a la Ley 27.802 sobre el Libro de Sueldos Digital; el diseño del registro 05 y del archivo de conceptos; y una fuente profesional independiente.
+> Sin fuente todavía: la norma de la provincia de Buenos Aires que suspendió la rúbrica (se buscó y no se encontró el texto), lo que hacen las demás provincias, una norma o comunicado de ARCA sobre el sistema posterior a la Ley 27.802 (no existe en el cuadro legislativo al 27/11/2026), y el diseño del registro 05 y del archivo de conceptos.

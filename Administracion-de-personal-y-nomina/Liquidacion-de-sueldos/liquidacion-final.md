@@ -12,6 +12,7 @@ fuentes:
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-cargas-y-fundamentos.md (2026-11-27)"
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-huecos.md (2026-11-27)"
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-laboral.md (2026-11-27)"
+  - "Estado judicial de la Ley 27.802: Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-laboral.md (prensa y estudios jurídicos, 27/11/2026)"
 aliases: [liquidación final, liquidación por baja, liquidación por egreso, finiquito, final pay, final settlement, termination pay, vacaciones no gozadas, indemnización por despido, severance pay]
 creado: 2026-11-27
 revisado:
@@ -24,7 +25,7 @@ La liquidación final es la que se hace cuando termina la relación laboral. Pag
 Es una [liquidación fuera de ciclo](liquidacion-de-sueldos.md#liquidaciones-fuera-de-ciclo): rara vez coincide con el fin del período y no puede esperar. La dispara la baja del [legajo](../Legajo/ingreso-y-egreso.md#lo-que-cierra-la-baja), que trae la fecha y el motivo del egreso. La decisión de una salida, su conducción y lo que le pasa al equipo que queda están en [rotación y salidas](../../Liderazgo-y-direccion/Gestion-de-personas/rotacion-y-salidas.md); acá se calcula lo que se paga.
 
 > [!WARNING]
-> Lo argentino de esta nota es ley y dinero, copia al 27 de noviembre de 2026, con una sola fuente por artículo (el Boletín Oficial e InfoLEG publican el mismo texto), y no reemplaza a un abogado laboralista ni a un liquidador de sueldos. El aviso completo sobre la Ley 27.802 y su impugnación judicial está en [liquidación en la Argentina](liquidacion-en-argentina.md).
+> Lo argentino de esta nota es ley y dinero, copia al 27 de noviembre de 2026, con una sola fuente por artículo (el Boletín Oficial e InfoLEG publican el mismo texto), y no reemplaza a un abogado laboralista ni a un liquidador de sueldos. Estado judicial al 27 de noviembre de 2026: la Ley 27.802 rige y ninguna medida judicial suspende hoy artículos suyos. El 30 de marzo de 2026 el Juzgado Nacional del Trabajo N.º 63, a pedido de la CGT, suspendió más de 80 artículos (las fuentes dicen 81, 82 u 83), sobre despidos, período de prueba, vacaciones, banco de horas y derecho colectivo, entre otros. El 23 de abril la Sala VIII de la Cámara Nacional de Apelaciones del Trabajo dio efecto suspensivo a la apelación del Estado y la ley volvió a regir. El 7 de mayo la Corte Suprema declaró inadmisible el per saltum del Gobierno. La causa de la CGT sigue en el fuero Contencioso Administrativo Federal, que rechazó su cautelar (lo confirmó la Sala IV de esa Cámara el 8 de julio); la constitucionalidad de la ley no está resuelta. El 5 de noviembre de 2026 la Corte ordenó aplicar el art. 55 de la ley (actualización de créditos en juicios en trámite) en «Cabana Opanasiuk c/ Unir SA». Fuentes: prensa y estudios jurídicos; no se leyó ninguna sentencia completa. El aviso completo está en [liquidación en la Argentina](liquidacion-en-argentina.md).
 
 ## El plazo para pagarla
 

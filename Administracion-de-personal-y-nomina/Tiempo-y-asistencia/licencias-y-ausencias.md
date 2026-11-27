@@ -6,9 +6,9 @@ estabilidad: semi
 fuentes:
   - "ERPNext, Leave Application (documentación de producto, como evidencia de práctica): https://docs.frappe.io/erpnext/user/manual/en/leave-application"
   - "GOV.UK, Holiday entitlement: https://www.gov.uk/holiday-entitlement-rights"
-  - "OIT, Convenio 132 sobre las vacaciones pagadas (revisado), 1970, copia pública (según resumen; no leído): https://lankalaw.net/wp-content/uploads/2024/12/C132-Holidays-with-Pay-Convention-Revised-1970.pdf"
-  - "SHRM, 4 lessons about unlimited vacation (según resumen): https://www.shrm.org/ResourcesAndTools/hr-topics/benefits/pages/4-lessons-about-unlimited-vacation.aspx"
-  - "Wharton, Unlimited vacation time sounds great (según resumen): https://knowledge.wharton.upenn.edu/article/unlimited-vacation-time-sounds-great-policies-deliver/"
+  - "OIT, Convenio 132 sobre las vacaciones pagadas (revisado), 1970, arts. 3, 8 y 9, copia de terceros de la ficha de NORMLEX: https://lankalaw.net/wp-content/uploads/2024/12/C132-Holidays-with-Pay-Convention-Revised-1970.pdf"
+  - "SHRM, 4 lessons about unlimited vacation, Joanne Sammer, 6 de enero de 2020: https://www.shrm.org/ResourcesAndTools/hr-topics/benefits/pages/4-lessons-about-unlimited-vacation.aspx"
+  - "Knowledge at Wharton, Unlimited vacation time sounds great, 7 de marzo de 2017: https://knowledge.wharton.upenn.edu/article/unlimited-vacation-time-sounds-great-policies-deliver/"
   - "Administracion-de-personal-y-nomina/.investigacion/legajo-y-tiempo.md (2026-11-27)"
 aliases: [licencia, licencias, ausencias, vacaciones, licencia paga, licencia sin goce, saldo de vacaciones, devengamiento de vacaciones, leave, time off, absence management, paid time off, PTO, annual leave, leave balance, leave accrual, vacaciones ilimitadas, unlimited PTO]
 creado: 2026-11-27
@@ -34,7 +34,7 @@ El saldo se muestra desagregado en total asignado, vencido, usado, pendiente de 
 
 ## Cómo se gana el derecho a vacaciones
 
-Las vacaciones se devengan: el derecho crece con el tiempo trabajado. Cada país fija cuánto, y los pisos difieren mucho. Según resúmenes del buscador, el Convenio 132 de la OIT pide un mínimo de «three working weeks» por un año de servicio; el texto no se leyó. En el Reino Unido casi todos los trabajadores tienen «5.6 weeks' paid holiday a year», con un tope de 28 días.
+Las vacaciones se devengan: el derecho crece con el tiempo trabajado. Cada país fija cuánto, y los pisos difieren mucho. El Convenio 132 de la OIT dice que las vacaciones no pueden ser «less than three working weeks for one year of service» (art. 3.3). En el Reino Unido casi todos los trabajadores tienen «5.6 weeks' paid holiday a year», con un tope de 28 días.
 
 El caso británico muestra también las tres formas de calcular el derecho que un sistema tiene que soportar:
 
@@ -46,7 +46,7 @@ El caso británico muestra también las tres formas de calcular el derecho que u
 
 Los feriados pueden contarse dentro de esas 5,6 semanas, y el empleador puede dar más. En la Argentina, la escala del art. 150 depende de la antigüedad y va de 14 a 35 días corridos; el detalle está en [jornada y licencias en la Argentina](jornada-y-licencias-en-argentina.md). La antigüedad y la jornada salen del [legajo](../Legajo/legajo.md) y de la [modalidad de contratación](../Legajo/modalidades-de-contratacion.md).
 
-> [!NOTE] Sin fuente todavía: el arrastre de días no gozados de un año al otro en una fuente agnóstica (la página británica no lo trata; la regla argentina está en la nota del país).
+Los días no gozados tienen un plazo para tomarse. El Convenio 132 permite dividir las vacaciones, pero una parte debe ser de «at least two uninterrupted working weeks» (art. 8.2). Esa parte se toma a más tardar un año después del año en que se ganó, y el resto, a más tardar a los dieciocho meses (art. 9.1). Lo que exceda un mínimo puede postergarse más allá, con acuerdo del empleado, hasta un límite que fija cada país (art. 9.2 y 9.3). Para un sistema, el saldo arrastrado necesita su fecha de vencimiento (inferencia de esta base). La regla argentina está en la nota del país.
 
 ## Quién pide y quién aprueba
 
@@ -63,6 +63,6 @@ Esta sección es criterio de esta base, porque no se leyó una fuente sobre el e
 ## Vacaciones ilimitadas
 
 > [!IMPORTANT]
-> **Las vacaciones ilimitadas como posición contraria.** Algunas empresas eliminan el saldo: el empleado toma los días que necesita, con aprobación. Según un resumen de SHRM, un estudio de Namely de 2018 encontró que quienes tenían ese plan tomaban dos días menos al año, y Kickstarter abandonó la política en 2015 porque la gente tomaba menos. El mismo resumen trae un contraejemplo de una empresa donde el tiempo libre se repartió mejor. La evidencia viene de encuestas y casos sin revisión por pares, y no se leyeron los originales.
+> **Las vacaciones ilimitadas como posición contraria.** Algunas empresas eliminan el saldo: el empleado toma los días que necesita, con aprobación. Según Knowledge at Wharton (2017), una encuesta de SHRM daba esa política en el 1 % a 2 % de las empresas. Un profesor de Wharton dice que ninguna de las que la adoptaron «have reported that vacation time exploded», y que «If anything, we see they take less vacation», por lo que algunas la abandonaron. Una empresa de software temía que se tomara menos y pagaba 1.000 dólares a quien se tomara una semana. Según SHRM (2020), una firma con ese plan exige a sus empleados un mínimo de 120 horas libres por año. El estudio de 2018 según el cual quienes tienen el plan toman menos días, y el abandono de la política por una empresa en 2015, aparecieron en resúmenes del buscador y no en las páginas leídas. La evidencia viene de encuestas y casos sin revisión por pares.
 
 Sin saldo, el sistema se ahorra el devengamiento y el monto pendiente de pagar, pero pierde la señal de que alguien no descansa (inferencia del informe de investigación). Donde la ley fija un mínimo, como en la Argentina, el saldo legal sigue existiendo aunque la política diga «ilimitadas» (inferencia de esta base). Adoptar o no una política así lo decide [Gestión de personas](../../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md).

@@ -4,7 +4,8 @@ resumen: >-
 estado: borrador
 estabilidad: estable
 fuentes:
-  - "IRS, Publication 15 (Circular E), Employer's Tax Guide, 2026 (ejemplo de país; una sola fuente para las cifras): https://www.irs.gov/publications/p15"
+  - "IRS, Publication 15 (Circular E), Employer's Tax Guide, 2026, PDF completo, sección 7 y calendario (ejemplo de país; una sola fuente para las alícuotas): https://www.irs.gov/pub/irs-pdf/p15.pdf"
+  - "26 CFR 31.3402(g)-1, supplemental wage payments, copia de Cornell LII (ejemplo de país): https://www.law.cornell.edu/cfr/text/26/31.3402(g)-1"
   - "IRS, Publication 15-A (ejemplo de país, leída en parte): https://www.irs.gov/publications/p15a"
   - "GOV.UK, Running payroll (ejemplo de país, según un extracto): https://www.gov.uk/running-payroll"
   - "GOV.UK, Running payroll: reporting to HMRC (ejemplo de país, según un extracto): https://www.gov.uk/running-payroll/reporting-to-hmrc"
@@ -44,7 +45,7 @@ El de la Argentina está en [Ganancias sobre sueldos en la Argentina](ganancias-
 
 ## Los pagos que no son el sueldo de todos los meses
 
-Un bono, una comisión o un pago retroactivo cambian el cálculo. Como criterio de esta base, la retención del mes los tomaría como si se repitieran todo el año. EE. UU. los llama «supplemental wages», e incluyen bonos, comisiones, licencias acumuladas que se pagan, indemnizaciones, «back pay» y «retroactive pay increases» (Pub. 15, una sola fuente). Da dos métodos:
+Un bono, una comisión o un pago retroactivo cambian el cálculo. Como criterio de esta base, la retención del mes los tomaría como si se repitieran todo el año. EE. UU. los llama «supplemental wages», e incluyen bonos, comisiones, licencias acumuladas que se pagan, indemnizaciones, «back pay» y «retroactive pay increases» (Pub. 15). El reglamento que la guía resume, 26 CFR 31.3402(g)-1, también cuenta el «back pay» entre esos pagos y fija la alícuota más alta sobre lo que pase de 1.000.000 de dólares en el año. Las alícuotas de 22 % y 37 % tienen una sola fuente, la Pub. 15. Da dos métodos:
 
 1. **Una alícuota fija**, si el pago va identificado aparte del sueldo: «a flat 22% (no other percentage allowed)», y 37 % sobre lo que pase de $1 millón en el año.
 2. **Sumarlo al sueldo del período**, calcular la retención del total y restar lo que ya se retuvo sobre el sueldo regular: «Withhold the remaining tax from the supplemental wages».
@@ -55,12 +56,12 @@ Un beneficio también puede tener un tratamiento distinto en cada régimen. En E
 
 ## El ajuste al cerrar el año
 
-Como el impuesto es anual y la retención es mensual o por pago, al final del año se recalcula todo con los datos definitivos y se ajusta. En el ejemplo de EE. UU., el empleador concilia los formularios trimestrales con el comprobante anual de cada empleado (Form W-2), le entrega una copia y presenta otra a la administración (Pub. 15). En la Argentina, el agente de retención practica una liquidación anual por cada empleado «hasta el último día hábil del mes de abril» del año siguiente, y una liquidación final cuando la relación termina (RG 4003/2017, art. 21).
+Como el impuesto es anual y la retención es mensual o por pago, al final del año se recalcula todo con los datos definitivos y se ajusta. En el ejemplo de EE. UU., el empleador concilia los formularios trimestrales con el comprobante anual de cada empleado (Form W-2), le entrega una copia y presenta otra a la administración (Pub. 15). El calendario de la Pub. 15 pone las dos cosas «By January 31» del año siguiente: entregar a cada empleado su W-2 y presentar las copias ante la seguridad social. En la Argentina, el agente de retención practica una liquidación anual por cada empleado «hasta el último día hábil del mes de abril» del año siguiente, y una liquidación final cuando la relación termina (RG 4003/2017, art. 21).
 
 La liquidación final es parte de la [liquidación final](../Liquidacion-de-sueldos/liquidacion-final.md) del empleado: al irse, se cierra su año fiscal con ese empleador, y el próximo empleador necesita el resultado (inferencia de esta base).
 
 > [!NOTE]
-> Sin fuente todavía: el ajuste anual del Reino Unido (la guía de retención de ese país no se leyó) y la fecha de entrega del W-2 en EE. UU. (la Pub. 15 se leyó truncada).
+> Sin fuente todavía: el ajuste anual del Reino Unido (la guía de retención de ese país no se leyó).
 
 ## Cómo se equivoca la retención
 

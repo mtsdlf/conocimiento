@@ -8,11 +8,11 @@ fuentes:
   - "IRS, Publication 15 (Circular E), Employer's Tax Guide, 2026, secciones de wages, accountable plan, supplemental wages y employee's portion (ejemplo de país): https://www.irs.gov/publications/p15"
   - "IRS, Publication 15-A, préstamos sin interés: https://www.irs.gov/publications/p15a"
   - "IRS, Publication 15-B, regla general de beneficios (leída en parte): https://www.irs.gov/publications/p15b"
-  - "GOV.UK, Special rules for student loans (según un resumen): https://www.gov.uk/guidance/special-rules-for-student-loans"
-  - "GOV.UK, Debt deductions from employee pay y subpáginas (según un resumen): https://www.gov.uk/debt-deductions-from-employee-pay"
+  - "GOV.UK, Special rules for student loans, sección de órdenes judiciales: https://www.gov.uk/guidance/special-rules-for-student-loans"
+  - "GOV.UK, Make debt deductions from an employee's pay, versión imprimible completa: https://www.gov.uk/debt-deductions-from-employee-pay/print"
   - "GOV.UK, Payslips: https://www.gov.uk/payslips"
-  - "15 U.S.C. 1672 y 1673, copia de Cornell LII (según un resumen): https://www.law.cornell.edu/uscode/text/15/1673"
-  - "29 CFR 870.11, copia de Cornell LII (según un resumen): https://www.law.cornell.edu/cfr/text/29/870.11"
+  - "15 U.S.C. 1672 y 1673, copia de Cornell LII: https://www.law.cornell.edu/uscode/text/15/1673"
+  - "29 CFR 870.11, copia de Cornell LII: https://www.law.cornell.edu/cfr/text/29/870.11"
   - "Frappe HR, Salary Structure, Salary Component y Salary Slip (documentación de producto, como evidencia de práctica): https://docs.frappe.io/hr/salary-component"
   - "Frappe HR, Salary Structure: https://docs.frappe.io/hr/salary-structure"
   - "Frappe HR, Salary Slip: https://docs.frappe.io/hr/salary-slip"
@@ -84,15 +84,15 @@ Como inferencia de esta base, «remunerativo» se define base por base: cada con
 
 Como criterio de esta base, un adelanto de sueldo se descuenta del neto de su período, y un préstamo del empleador, en cuotas. La OIT solo permite deducciones dentro de los límites de la ley, el convenio o el laudo, informando al trabajador (art. 8). En el Reino Unido, una deducción fija como un préstamo se explica en el recibo o en una declaración aparte.
 
-Un embargo es una retención por orden de un tercero, permitida solo dentro de los límites de la ley nacional y protegiendo lo necesario para el trabajador y su familia (OIT, art. 10). Los dos ejemplos de país leídos limitan distinto; las cifras salen de resúmenes de una sola fuente por país:
+Un embargo es una retención por orden de un tercero, permitida solo dentro de los límites de la ley nacional y protegiendo lo necesario para el trabajador y su familia (OIT, art. 10). Los dos ejemplos de país leídos limitan distinto; las cifras tienen una sola fuente por país, la ley en EE. UU. y la guía oficial en el Reino Unido:
 
 | | Estados Unidos | Reino Unido |
 |---|---|---|
-| Cómo se limita | Tope sobre el ingreso disponible: lo menor entre el 25 % semanal y lo que exceda 30 veces el salario mínimo federal por hora; 50 % a 65 % por manutención (15 U.S.C. 1673) | Piso: la orden trae un ingreso protegido («protected earnings rate») debajo del cual no se descuenta, y el faltante no se arrastra |
+| Cómo se limita | Tope sobre el ingreso disponible: lo menor entre el 25 % semanal y lo que exceda 30 veces el salario mínimo federal por hora; 50 % a 65 % por manutención (15 U.S.C. 1673) | Piso: la orden trae un ingreso protegido («protected earnings rate») debajo del cual no se descuenta. Lo que no se pudo descontar se arrastra al próximo pago en una orden prioritaria y no se arrastra en una no prioritaria |
 | Sobre qué base | Lo que queda después de las retenciones que manda la ley (15 U.S.C. 1672) | Una lista propia de lo que cuenta como sueldo para la orden |
-| Prioridad entre embargos | «the priority is determined by State law or other Federal laws» (29 CFR 870.11) | Las órdenes prioritarias son las de manutención impaga o multas |
+| Prioridad entre embargos | «the priority is determined by State law or other Federal laws» (29 CFR 870.11) | Las órdenes prioritarias (manutención impaga o multas) van primero, en el orden en que llegaron, y después las no prioritarias, también por orden de llegada |
 
 Con varios embargos, el tope es del conjunto: según el reglamento de EE. UU., si un embargo de impuestos ya toma 45 %, uno de manutención solo puede tomar la diferencia hasta su propio tope. Por eso van al final, en orden de prioridad. El tope argentino de adelantos y deducciones, y los límites de embargo que no se pudieron leer, están en [liquidación en la Argentina](liquidacion-en-argentina.md#adelantos-deducciones-y-embargos).
 
 > [!NOTE]
-> Sin fuente todavía: reglas agnósticas de cuánto se puede adelantar y cómo se recupera un adelanto o un préstamo, y la prioridad entre dos órdenes en el Reino Unido.
+> Sin fuente todavía: reglas agnósticas de cuánto se puede adelantar y cómo se recupera un adelanto o un préstamo.

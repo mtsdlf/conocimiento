@@ -7,7 +7,7 @@ fuentes:
   - "GOV.UK, Running payroll (ejemplo de país, según un extracto): https://www.gov.uk/running-payroll"
   - "GOV.UK, Running payroll: reporting to HMRC (ejemplo de país, según un extracto): https://www.gov.uk/running-payroll/reporting-to-hmrc"
   - "GOV.UK, Running payroll: pay your employees (ejemplo de país): https://www.gov.uk/running-payroll/pay-your-employees"
-  - "IRS, Publication 15 (Circular E), Employer's Tax Guide, 2026 (ejemplo de país, leída en parte): https://www.irs.gov/publications/p15"
+  - "IRS, Publication 15 (Circular E), Employer's Tax Guide, 2026, PDF completo, calendario (ejemplo de país): https://www.irs.gov/pub/irs-pdf/p15.pdf"
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), art. 15 (copia de la Universidad de Minnesota): https://hrlibrary.umn.edu/instree/ilo95.html"
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-cargas-y-fundamentos.md (2026-11-27)"
 aliases: [cargas sociales, cargas y declaraciones, obligaciones del empleador, payroll taxes, employment taxes, payroll reporting, declaración de nómina, cargas patronales]
@@ -39,7 +39,7 @@ La diferencia se ve en el recibo y en el asiento. Lo retenido baja el neto del e
 Cada período el empleador declara qué pagó a cada empleado y qué retuvo y contribuyó, y paga lo que declaró. La forma y la cadencia cambian por país, y las fuentes leídas muestran dos modelos:
 
 - **Por cada pago, en tiempo real.** En el Reino Unido, la declaración de pagos y retenciones de cada día de pago (Full Payment Submission) se envía «on or before» el día de pago, aunque el pago al fisco sea trimestral, según el informe de esta base. Si cambia un dato (un alta, una baja, un código impositivo), se manda una declaración corregida. Si en un mes no se le pagó a nadie, igual se envía un resumen del empleador (Employer Payment Summary).
-- **Periódica, con conciliación anual.** En EE. UU., el empleador deposita por vía electrónica con un calendario mensual o semisemanal, presenta el Form 941 trimestral (vencimientos 30 de abril, 31 de julio, 31 de octubre y 31 de enero) y al fin del año concilia ese formulario con el comprobante anual de cada empleado (Form W-2). Las cifras de EE. UU. tienen una sola fuente (IRS, Pub. 15).
+- **Periódica, con conciliación anual.** En EE. UU., el empleador deposita por vía electrónica con un calendario mensual o semisemanal, presenta el Form 941 trimestral (vencimientos 30 de abril, 31 de julio, 31 de octubre y 31 de enero) y al fin del año concilia ese formulario con el comprobante anual de cada empleado (Form W-2), que le entrega «By January 31». Las fechas de EE. UU. tienen una sola fuente (IRS, Pub. 15, calendario).
 
 En la Argentina la declaración es mensual y nominativa, una línea por empleado, y está en [cargas sociales en la Argentina](cargas-sociales-en-argentina.md). En los tres casos la declaración es nominativa, porque cada aporte se acredita en la cuenta previsional de una persona (inferencia de esta base a partir de los tres ejemplos).
 

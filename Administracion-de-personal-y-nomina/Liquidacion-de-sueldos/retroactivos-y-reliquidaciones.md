@@ -6,7 +6,8 @@ estabilidad: estable
 fuentes:
   - "Martin Fowler, Temporal Patterns, Time Narrative (según un extracto): https://martinfowler.com/eaaDev/timeNarrative.html"
   - "GOV.UK, Running payroll: reporting to HMRC (según un extracto; ejemplo de país): https://www.gov.uk/running-payroll/reporting-to-hmrc"
-  - "IRS, Publication 15 (Circular E), 2026, sección 7, supplemental wages (ejemplo de país): https://www.irs.gov/publications/p15"
+  - "IRS, Publication 15 (Circular E), 2026, sección 7, supplemental wages (ejemplo de país): https://www.irs.gov/pub/irs-pdf/p15.pdf"
+  - "26 CFR 31.3402(g)-1, supplemental wage payments, copia de Cornell LII (ejemplo de país): https://www.law.cornell.edu/cfr/text/26/31.3402(g)-1"
   - "Frappe HR, Additional Salary (documentación de producto, como evidencia de práctica; según un extracto): https://docs.frappe.io/hr/additional-salary"
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-cargas-y-fundamentos.md (2026-11-27)"
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-huecos.md (2026-11-27)"
@@ -54,7 +55,7 @@ Un aumento del básico cambia también todo [concepto](conceptos-de-liquidacion.
 
 Para explicar resultados pasados sin un modelo completo de dos fechas, Fowler sugiere guardar una traza detallada del cálculo. En la nómina (inferencia de esta base), eso es guardar con cada recibo los datos de entrada y la versión de cada fórmula, para reproducir marzo como se liquidó y como debió liquidarse.
 
-El impuesto trata al retroactivo como un pago aparte. En el ejemplo de EE. UU., según la guía del IRS (una sola fuente), los «supplemental wages» incluyen el «back pay» y los «retroactive pay increases», y se les retiene un 22 % fijo (37 % sobre lo que supere 1 millón de dólares en el año) o se suman al sueldo regular y se calcula como un solo pago. Cada país decide si el retroactivo cambia también las bases declaradas de meses anteriores; está en [cargas y declaraciones](../Cargas-y-declaraciones/cargas-y-declaraciones.md) y en [retención de impuestos sobre sueldos](../Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md).
+El impuesto trata al retroactivo como un pago aparte. En el ejemplo de EE. UU., según la guía del IRS, los «supplemental wages» incluyen el «back pay» y los «retroactive pay increases», y se les retiene un 22 % fijo (37 % sobre lo que supere 1 millón de dólares en el año) o se suman al sueldo regular y se calcula como un solo pago. El reglamento (26 CFR 31.3402(g)-1) también nombra el «back pay»; las alícuotas tienen una sola fuente, la guía. Cada país decide si el retroactivo cambia también las bases declaradas de meses anteriores; está en [cargas y declaraciones](../Cargas-y-declaraciones/cargas-y-declaraciones.md) y en [retención de impuestos sobre sueldos](../Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md).
 
 ## Cómo falla una reliquidación
 

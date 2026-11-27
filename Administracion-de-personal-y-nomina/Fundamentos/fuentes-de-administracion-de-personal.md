@@ -24,7 +24,10 @@ fuentes:
   - "Queensland Health Payroll System Commission of Inquiry, Report, 31 de julio de 2013: http://www.healthpayrollinquiry.qld.gov.au/__data/assets/pdf_file/0014/207203/Queensland-Health-Payroll-System-Commission-of-Inquiry-Report-31-July-2013.pdf"
   - "APQC, Process Classification Framework 7.2.1 (copia de terceros): https://www.slideshare.net/AsgharAghiliDehkordi/cross-industry-v721-final"
   - "APQC, página del PCF Cross-Industry (7.4 y 8.0, no leídos): https://www.apqc.org/pcf-pdf"
-  - "SHRM, BASK (según resumen): https://www.shrm.org/credentials/certification/exam-preparation/bask"
+  - "SHRM, 2026 SHRM Body of Applied Skills and Knowledge (PDF): https://www.shrm.org/content/dam/en/shrm/credentials/shrm-certification/bask/shrm-bask.pdf"
+  - "Oficina del Auditor General de Canadá, Fall 2017 Reports, Report 1, Phoenix Pay Problems: https://publications.gc.ca/collections/collection_2017/bvg-oag/FA1-23-2017-2-1-eng.pdf"
+  - "OIT, Convenio sobre las vacaciones pagadas (revisado), 1970 (núm. 132), copia de terceros de la ficha de NORMLEX: https://lankalaw.net/wp-content/uploads/2024/12/C132-Holidays-with-Pay-Convention-Revised-1970.pdf"
+  - "Ravid y otros, Personnel Psychology 76(1), 2023, resumen del artículo: https://doi.org/10.1111/peps.12514"
   - "CIPP, estudio (según resumen): https://www.cipp.org.uk/training-and-education/study.html"
   - "Payroll.org, credenciales CPP y FPC (no leídas; error 403): https://www.payroll.org/credentials/cpp"
   - "Ley de Contrato de Trabajo 20.744, texto actualizado en InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/texact.htm"
@@ -50,14 +53,14 @@ La columna «Peso» es criterio de esta base.
 
 | Quién | Ejemplos | Sirve para | Peso |
 |---|---|---|---|
-| Normas internacionales | OIT: Convenio 95 sobre la protección del salario, Recomendación 198 sobre la relación de trabajo, Convenio 132 sobre vacaciones pagadas (no leído; solo resúmenes) | Los principios que valen en cualquier país: pagar con regularidad, informar cada pago, limitar deducciones y embargos, distinguir empleado de independiente | Primaria. Obliga solo donde el país la ratificó; el sitio oficial (normlex) devolvió 403 y se leyeron copias de terceros |
+| Normas internacionales | OIT: Convenio 95 sobre la protección del salario, Recomendación 198 sobre la relación de trabajo, Convenio 132 sobre vacaciones pagadas | Los principios que valen en cualquier país: pagar con regularidad, informar cada pago, limitar deducciones y embargos, distinguir empleado de independiente, dar un mínimo de vacaciones | Primaria. Obliga solo donde el país la ratificó; el sitio oficial (normlex) devolvió 403 y se leyeron copias de terceros |
 | Leyes y guías oficiales de cada país | Reino Unido: las guías del empleador de GOV.UK. Estados Unidos: las Publicaciones 15, 15-A y 15-B del IRS, el Departamento de Trabajo y el 29 CFR 516. Argentina: la LCT en InfoLEG, el Boletín Oficial y las resoluciones de ARCA | Los valores, los plazos y los formularios; también, cómo se ordena el ciclo en la práctica | Primaria y obligatoria donde rige. Las guías oficiales explican con ejemplos; las leyes, no |
-| Cuerpos profesionales | APQC (Process Classification Framework), SHRM (BASK), Payroll.org (certificaciones CPP y FPC), CIPP (Reino Unido) | Cómo se divide el dominio y qué tiene que saber quien liquida | Primaria para su propio marco. En esta ronda casi todos quedaron detrás de un muro (ver abajo) |
+| Cuerpos profesionales | APQC (Process Classification Framework), SHRM (BASK), Payroll.org (certificaciones CPP y FPC), CIPP (Reino Unido) | Cómo se divide el dominio y qué tiene que saber quien liquida | Primaria para su propio marco. Del BASK se leyó la edición 2026; los demás quedaron detrás de un muro (ver abajo) |
 | Libros de texto de RR. HH. y de nómina | Dessler (gestión de RR. HH.), Bieg y Toland (nómina en Estados Unidos), Armstrong (gestión de RR. HH.) | Aprender el ciclo completo con ejemplos | Secundaria. Ninguno se leyó en esta ronda |
-| Informes de auditoría y comisiones públicas | Comisión de Investigación de Queensland (2013); informes del Auditor General de Canadá sobre Phoenix (2017 y 2018, no leídos) | Cómo falla un sistema de nómina, con causas y costos | Primaria para los hechos del caso; no generaliza a otros sistemas |
+| Informes de auditoría y comisiones públicas | Comisión de Investigación de Queensland (2013); informes del Auditor General de Canadá sobre Phoenix (el de 2017 leído; el de 2018, no) | Cómo falla un sistema de nómina, con causas y costos | Primaria para los hechos del caso; no generaliza a otros sistemas |
 | Patrones de diseño de software | Fowler, *Temporal Patterns* | Guardar datos que cambian con el tiempo y corregir el pasado sin editarlo | Secundaria; el único recurso leído sobre retroactivos que no depende de un país |
 | Documentación de software abierto | Las guías de dos ERP abiertos sobre componentes salariales, lotes de nómina, solicitudes de licencia y asistencia | Evidencia de cómo se modela en la práctica: tipo, asignación, solicitud y saldo de licencias; fórmulas que dependen de otros conceptos | Evidencia de práctica, no norma: muestra una forma de hacerlo. Las notas no nombran los productos; las URL van en `fuentes` |
-| Investigación académica y encuestas | El metaanálisis de Ravid, Behrend y otros (2023) sobre monitoreo y el estudio de Namely de 2018 sobre vacaciones ilimitadas, los dos no leídos y conocidos por resúmenes | Las posiciones contrarias de [Fundamentos](fundamentos-de-administracion-de-personal.md) | Alta para la evidencia revisada por pares; baja para encuestas de proveedores. En esta ronda, todo por resúmenes |
+| Investigación académica y encuestas | El metaanálisis de Ravid, Behrend y otros (2023) sobre monitoreo, leído en su resumen publicado; el estudio de Namely de 2018 sobre vacaciones ilimitadas, no leído | Las posiciones contrarias de [Fundamentos](fundamentos-de-administracion-de-personal.md) | Alta para la evidencia revisada por pares; baja para encuestas de proveedores. Del metaanálisis no se vieron tamaños de efecto |
 
 Cómo dividen el dominio APQC, SHRM y los productos está en [fundamentos](fundamentos-de-administracion-de-personal.md#cómo-dividen-el-dominio-los-marcos-y-los-productos).
 
@@ -84,10 +87,10 @@ Para la Argentina, el recurso primario es la LCT en InfoLEG, que ya incorpora lo
 ## Lo que no se pudo leer
 
 > [!NOTE]
-> Sin fuente todavía: los marcos profesionales en su versión vigente. El PCF de APQC 7.4 (2024) y 8.0 (2026) devolvió 403, y el tema usa la 7.2.1 por una copia de terceros. Las certificaciones CPP y FPC de Payroll.org devolvieron 403, así que no se sabe cómo divide el dominio el cuerpo profesional de nómina de Estados Unidos. Del BASK de SHRM y del CIPP solo hay resúmenes de sus portadas, sin temario.
+> Sin fuente todavía: los marcos profesionales en su versión vigente. El PCF de APQC 7.4 (2024) y 8.0 (2026) devolvió 403, y el tema usa la 7.2.1 por una copia de terceros. Las certificaciones CPP y FPC de Payroll.org devolvieron 403, así que no se sabe cómo divide el dominio el cuerpo profesional de nómina de Estados Unidos. Del CIPP solo hay un resumen de su portada, sin temario.
 
 > [!NOTE]
-> Sin fuente todavía: los informes del Auditor General de Canadá sobre Phoenix (otoño de 2017 y primavera de 2018). Sus páginas devuelven un error, y lo que la base dice del caso sale de Wikipedia y de resúmenes del buscador. Del informe de Queensland se leyeron la apertura, la Parte 4 y los pasajes de costos, no el documento entero.
+> Sin fuente todavía: el informe del Auditor General de Canadá de primavera de 2018 sobre Phoenix. Su página da error 404 y el sitio del auditor ya no lista informes de más de cinco años; la cita «incomprehensible failure» sale de Wikipedia. El de otoño de 2017 se leyó en el archivo de publicaciones del gobierno. Del informe de Queensland se leyeron la apertura, los párrafos 1.4 a 1.15 y 2.13 a 2.15, y los pasajes de costos, no el documento entero.
 
 > [!NOTE]
-> Sin fuente todavía: los libros de texto (Dessler, Bieg y Toland, Armstrong) y la guía del CIPD; los convenios de la OIT sobre horas de trabajo (C001, C030) y sobre seguridad social y accidentes (C102, C121); la guía de la ICO sobre monitoreo de trabajadores en PDF; la fecha de la primera nómina en LEO en una fuente primaria (Bird, 1994, o Ferry, 2003); y una descripción agnóstica del ciclo de liquidación con sus pasos de control y cierre.
+> Sin fuente todavía: los libros de texto (Dessler, Bieg y Toland, Armstrong) y la guía del CIPD; los convenios de la OIT sobre horas de trabajo (C001, C030) y sobre seguridad social y accidentes (C102, C121); la guía de la ICO sobre monitoreo de trabajadores (el sitio de la ICO devolvió 403); la fecha de la primera nómina en LEO en una fuente primaria (Bird, 1994, o Ferry, 2003); y una descripción agnóstica del ciclo de liquidación con sus pasos de control y cierre.

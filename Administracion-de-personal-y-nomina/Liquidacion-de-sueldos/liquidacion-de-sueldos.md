@@ -7,7 +7,8 @@ fuentes:
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), arts. 3, 5, 8, 10, 11, 12 y 13 (copia de la Universidad de Minnesota): https://hrlibrary.umn.edu/instree/ilo95.html"
   - "GOV.UK, Running payroll (ejemplo de país): https://www.gov.uk/running-payroll"
   - "GOV.UK, Running payroll: reporting to HMRC (según un extracto): https://www.gov.uk/running-payroll/reporting-to-hmrc"
-  - "Nacha, ACH Network (según un resumen): https://www.nacha.org/ach-network"
+  - "Nacha, ACH Network: https://www.nacha.org/ach-network"
+  - "Nacha, ACH Developer Guide, ACH File Overview: https://achdevguide.nacha.org/ach-file-overview"
   - "Frappe HR, Payroll Entry y Additional Salary (documentación de producto, como evidencia de práctica): https://docs.frappe.io/hr/payroll-entry"
   - "Frappe HR, Additional Salary: https://docs.frappe.io/hr/additional-salary"
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-cargas-y-fundamentos.md (2026-11-27)"
@@ -57,10 +58,12 @@ La liquidación dice cuánto se le paga a cada uno. La transferencia, la posici�
 
 Sobre el medio de pago, el Convenio 95 de la OIT pide pagar en moneda de curso legal, prohíbe los vales y los cupones, y dice que la autoridad puede permitir el cheque o el giro donde sea costumbre o necesario (art. 3). El pago va directo al trabajador, salvo lo que diga la ley o lo que él acepte (art. 5), y el pago en efectivo se hace en día laborable y en el lugar de trabajo o cerca (art. 13). La OIT no menciona la transferencia; en la Argentina, la ley obliga a pagar por acreditación en una cuenta sueldo ([liquidación en la Argentina](liquidacion-en-argentina.md#cuenta-sueldo-y-plazo-de-pago)).
 
-Con transferencia, la liquidación termina en un archivo con un registro por empleado (cuenta y neto) que el banco procesa. En el ejemplo de EE. UU., según un resumen de la página del operador de la red, el depósito de sueldos está en la cuenta del empleado «by 9 a.m.» del día de pago, y el día de pago que cae en fin de semana o feriado se paga el viernes anterior.
+Con transferencia, la liquidación termina en un archivo con un registro por empleado (cuenta y neto) que el banco procesa. En el ejemplo de EE. UU., la red de pagos entre bancos usa un archivo de texto con líneas de «exactly 94 characters». Cada línea es un registro de un tipo, marcado por su primer carácter: cabecera de archivo (1), cabecera de lote (5), detalle (6), información adicional (7), cierre de lote (8) y cierre de archivo (9). El detalle lleva la cuenta y el nombre de quien recibe, el importe, si es débito o crédito y un número de rastreo; el lote agrupa movimientos del mismo tipo.
+
+Según el operador de esa red, el día de pago que cae en fin de semana o feriado se paga el viernes anterior, como práctica de la industria. Si el día de pago es viernes, el sueldo está en la cuenta «by 9 a.m. on that day in virtually all cases».
 
 > [!NOTE]
-> Sin fuente todavía: el formato de los archivos de pago de sueldos (tipos de registro y campos) de alguna red bancaria.
+> Sin fuente todavía: el formato del archivo de pago de sueldos en otra red bancaria, o en la Argentina.
 
 Los adelantos, los préstamos y los embargos vuelven a la liquidación como deducciones del neto, con límites. La OIT solo permite deducciones en las condiciones y hasta el límite que fijen la ley, el convenio o el laudo (art. 8), y permite embargar el salario solo en la forma y los límites de la ley nacional, protegiendo lo necesario para mantener al trabajador y su familia (art. 10). Como criterio de esta base, un adelanto o un préstamo es un descuento que acepta el trabajador. Un embargo es una retención por orden de un tercero (un juez, el fisco, quien cobra una cuota alimentaria), con su propia prioridad. El cálculo de cada uno y su orden están en [conceptos de liquidación](conceptos-de-liquidacion.md#adelantos-préstamos-y-embargos); los anticipos para gastos que se rinden no son adelantos de sueldo y están en [gastos y rendiciones](../../Contabilidad/Operaciones/gastos-y-rendiciones.md).
 

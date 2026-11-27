@@ -6,6 +6,7 @@ estabilidad: estable
 fuentes:
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), art. 15 (copia de la Universidad de Minnesota): https://hrlibrary.umn.edu/instree/ilo95.html"
   - "IRS, Publication 15 (Circular E), Employer's Tax Guide, 2026 (ejemplo de país): https://www.irs.gov/publications/p15"
+  - "GOV.UK, PAYE and payroll for employers: Keeping records (ejemplo de país): https://www.gov.uk/paye-for-employers/keeping-records"
   - "Martin Fowler, Time Narrative (según un extracto): https://martinfowler.com/eaaDev/timeNarrative.html"
   - "Ley 27.802, texto del Boletín Oficial del 6/3/2026, arts. 20 y 40 (ejemplo de país): https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306"
   - "ARCA, Libro de Sueldos Digital, diseño de interfaz de liquidación (ejemplo de país): https://www.arca.gob.ar/LibrodeSueldosDigital/documentos/nuevos/LSDiseInterfazLiquidacion.pdf"
@@ -57,13 +58,16 @@ Cada país fija el plazo, y suele haber más de uno según para qué sirve el re
 | País (ejemplo) | Qué se guarda | Plazo |
 |---|---|---|
 | EE. UU. | los registros de las cargas sobre el empleo | «at least 4 years» (IRS, Pub. 15; una sola fuente) |
+| Reino Unido | los registros de nómina para el fisco | «3 years from the end of the tax year they relate to» (guía del fisco en GOV.UK; una sola fuente) |
 | Argentina | los libros laborales anteriores a la Ley 27.802 | «diez (10) años» (art. 52 de la LCT, texto del art. 20 de la Ley 27.802) |
 | Argentina | los recibos | según la prescripción de las obligaciones laborales (2 años) y previsionales (10 años), y pueden digitalizarse (art. 143 de la LCT, texto del art. 40 de la Ley 27.802) |
+
+La guía británica también lista qué se guarda: lo pagado y las deducciones, los informes y pagos al fisco, las licencias y ausencias por enfermedad, las notificaciones de código fiscal y los gastos o beneficios gravados. Si faltan registros, el fisco puede estimar lo que se debe y cobrar una multa «of up to £3,000».
 
 El plazo más largo manda: si un mismo registro sirve de prueba laboral y previsional, se guarda por el previsional (inferencia de esta base). Lo que se guarda tiene datos personales y, a veces, sensibles (obra social, embargos, cargas de familia); quién puede verlo está en [legajo](../Legajo/legajo.md#quién-ve-el-legajo) y el marco general en [privacidad de datos personales](../../Datos/Gobierno-y-calidad/privacidad-de-datos-personales.md).
 
 > [!NOTE]
-> Sin fuente todavía: el plazo de conservación del Reino Unido (la página probada no existía) y una lista agnóstica del contenido mínimo del registro.
+> Sin fuente todavía: una lista agnóstica del contenido mínimo del registro; la británica, de un solo país, está arriba.
 
 ## Del libro rubricado a la declaración al fisco
 

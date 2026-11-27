@@ -4,7 +4,8 @@ resumen: >-
 estado: borrador
 estabilidad: semi
 fuentes:
-  - "GOV.UK, Right to work checks: an employer's guide (solo la página de presentación): https://www.gov.uk/government/publications/right-to-work-checks-employers-guide"
+  - "GOV.UK, Right to work checks: an employer's guide, página de presentación: https://www.gov.uk/government/publications/right-to-work-checks-employers-guide"
+  - "Home Office, Employer's guide to right to work checks, 1 de octubre de 2026 (PDF; leídos los tipos de chequeo y las listas A y B): https://assets.publishing.service.gov.uk/media/6ad9dfe29ea4857e15ab3294/Employer_s_guide_to_right_to_work_checks.pdf"
   - "LCT 20.744, texto actualizado en InfoLEG (arts. 52, 80 y 92 bis): https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/texact.htm"
   - "Ley 27.802, texto del Boletín Oficial (arts. 20, 22, 25 y 49, que sustituyen los arts. 52, 55, 80 y 240 de la LCT): https://www.boletinoficial.gob.ar/detalleAviso/primera/339128/20260306"
   - "Decreto 407/2026, Anexo I art. 1: https://servicios.infoleg.gob.ar/infolegInternet/anexos/425000-429999/426270/norma.htm"
@@ -26,7 +27,7 @@ Son los dos extremos del [legajo](legajo.md). Antes del ingreso está la [búsqu
 Como criterio de esta base, el alta está completa cuando la persona puede cobrar su primer sueldo sin que nadie complete datos a mano ese día. Hacen falta cuatro cosas, en este orden:
 
 1. **El legajo abierto**, con identidad, [modalidad](modalidades-de-contratacion.md), [puesto, categoría, jefe y centro de costo](puesto-y-estructura.md), todo con fecha desde igual a la fecha de ingreso.
-2. **La comprobación de que puede trabajar.** Algunos países exigen comprobar al contratar que la persona tiene derecho a trabajar. El Reino Unido publica una guía para el empleador sobre «when to carry out initial checks»; no se leyó entera, así que el momento exacto queda sin verificar.
+2. **La comprobación de que puede trabajar.** Algunos países exigen comprobar al contratar que la persona tiene derecho a trabajar. En el Reino Unido, para quedar cubierto ante una multa («statutory excuse»), el empleador tiene que hacer el chequeo «before the worker commences employment», con documentos originales, el servicio en línea del gobierno o un proveedor de verificación digital. A quien tiene un permiso temporal se le hace después un chequeo de seguimiento («follow-up check»), así que el legajo tiene que guardar la fecha en que vence la cobertura.
 3. **El alta ante la seguridad social**, desde el primer día de trabajo. En la Argentina, la registración se cumple con el alta en los sistemas de ARCA (Decreto 407/2026, Anexo I art. 1) y sin ella se pierde el período de prueba (art. 92 bis LCT).
 4. **Los datos para pagar y retener**: la cuenta donde se acredita el sueldo, los datos fiscales para la [retención del impuesto](../Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md) y el turno y el saldo de licencias en [tiempo y asistencia](../Tiempo-y-asistencia/tiempo-y-asistencia.md).
 

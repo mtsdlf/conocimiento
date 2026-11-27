@@ -6,7 +6,7 @@ estabilidad: estable
 fuentes:
   - "OIT, Convenio sobre la protección del salario, 1949 (núm. 95), arts. 14 y 15 (copia de la Universidad de Minnesota): https://hrlibrary.umn.edu/instree/ilo95.html"
   - "GOV.UK, Payslips (ejemplo de país): https://www.gov.uk/payslips"
-  - "GOV.UK, Debt deductions from employee pay (según un resumen): https://www.gov.uk/debt-deductions-from-employee-pay"
+  - "GOV.UK, Make debt deductions from an employee's pay, sección Making payments: https://www.gov.uk/debt-deductions-from-employee-pay/print"
   - "Ley de Contrato de Trabajo 20.744, texto actualizado con la Ley 27.802, InfoLEG (arts. 138 y 139): https://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25552/texact.htm"
   - "Martin Fowler, Temporal Patterns, Time Narrative (según un extracto): https://martinfowler.com/eaaDev/timeNarrative.html"
   - "Administracion-de-personal-y-nomina/.investigacion/liquidacion-cargas-y-fundamentos.md (2026-11-27)"

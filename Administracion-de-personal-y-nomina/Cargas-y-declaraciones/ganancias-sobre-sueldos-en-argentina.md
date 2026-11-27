@@ -4,8 +4,9 @@ resumen: >-
 estado: borrador
 estabilidad: volatil
 fuentes:
+  - "Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-laboral.md (estado judicial de la Ley 27.802, 2026-11-27)"
   - "Ley 27.743 (2024), arts. 70 a 76, leída en parte, Biblioteca Electrónica de ARCA: https://biblioteca.afip.gob.ar/dcp/LEY_C_027743_2024_06_27"
-  - "RG AFIP 4003/2017, texto actualizado (leídos los arts. 1 y 21): https://biblioteca.arca.gob.ar/dcp/REAG01004003_2017_03_02"
+  - "RG AFIP 4003/2017, texto actualizado (leídos los arts. 1, 7, 8, 11 y 21; el Anexo II no aparece en la página): https://biblioteca.arca.gob.ar/dcp/REAG01004003_2017_03_02"
   - "ARCA, Manual del F.1359 versión 2.0 (versión del 5/11/2026): https://www.arca.gob.ar/572web/documentos/F1359-Version-00200.pdf"
   - "ARCA, SiRADIG, ¿Qué es?: https://www.arca.gob.ar/572web/siradig/que-es.asp"
   - "ARCA, F.572 web, normativa: https://www.arca.gob.ar/572web/ayuda/normativa.asp"
@@ -16,6 +17,7 @@ fuentes:
   - "iProfesional, 6/2/2026, estimación del primer semestre (según un resumen): https://www.iprofesional.com/impuestos/447660-arca-ganancias-2026-deducciones-escala-y-piso-salarial-para-el-primer-semestre"
   - "WS y Asociados, Reforma laboral 2026 (según un resumen): https://wsyasociados.com.ar/reforma-laboral-2026-ley-27802/"
   - "Administracion-de-personal-y-nomina/.investigacion/argentina-cargas.md, componente 2 (2026-11-27)"
+  - "Administracion-de-personal-y-nomina/.investigacion/verificacion-argentina-cargas.md, punto 6 (2026-11-27)"
 aliases: [Ganancias sobre sueldos, impuesto a las ganancias cuarta categoría, cuarta categoría, Impuesto a los Ingresos Personales, retención de Ganancias, RG 4003, F.572, formulario 572 web, SiRADIG, F.1359, formulario 1359, F.1357, liquidación anual de Ganancias, deducciones personales, art. 30, ganancia no imponible, deducción especial]
 creado: 2026-11-27
 revisado:
@@ -26,7 +28,7 @@ revisado:
 En la Argentina, el empleador retiene cada mes el impuesto a las ganancias de cuarta categoría de sus empleados, con las deducciones que cada uno le informa en el formulario 572 web por el sistema SiRADIG, y al cerrar el año practica una liquidación anual por persona y la presenta en el formulario 1359. Los montos de las deducciones se actualizan por inflación en enero y julio, y ARCA los publica por semestre.
 
 > [!WARNING]
-> Ley y dinero, al 27 de noviembre de 2026: esta nota no reemplaza a un contador. La Ley 27.802 de Modernización Laboral (Boletín Oficial del 6 de marzo de 2026) cambió la LCT, y fue impugnada en la justicia (según un resumen de WS y Asociados, una sola fuente secundaria, una suspensión de unos 82 artículos dictada el 30 de marzo de 2026 se levantó en la Sala VIII el 23 de abril; queda un riesgo judicial residual). Como inferencia de esta base, el régimen de esta nota viene de la Ley 27.743 y de resoluciones de ARCA y no de la 27.802, que no se revisó entera. Casi todo tiene una sola fuente, la oficial de ARCA; los montos de la segunda mitad de 2026 coinciden con un diario. Leé el PDF vigente de ARCA antes de liquidar.
+> Ley y dinero, al 27 de noviembre de 2026: esta nota no reemplaza a un contador. La Ley 27.802 de Modernización Laboral (Boletín Oficial del 6 de marzo de 2026) cambió la LCT. Estado judicial al 27 de noviembre de 2026: la Ley 27.802 rige y ninguna medida judicial suspende hoy artículos suyos. El 30 de marzo de 2026 el Juzgado Nacional del Trabajo N.º 63, a pedido de la CGT, suspendió más de 80 artículos; el 23 de abril la Sala VIII de la Cámara Nacional de Apelaciones del Trabajo dio efecto suspensivo a la apelación del Estado y la ley volvió a regir; el 7 de mayo la Corte Suprema declaró inadmisible el per saltum del Gobierno. La causa de la CGT sigue en el fuero Contencioso Administrativo Federal y la constitucionalidad de la ley no está resuelta. Las fuentes son prensa y estudios jurídicos; no se leyó ninguna sentencia completa. Como inferencia de esta base, el régimen de esta nota viene de la Ley 27.743 y de resoluciones de ARCA y no de la 27.802, que no se revisó entera. Casi todo tiene una sola fuente, la oficial de ARCA; los montos de la segunda mitad de 2026 coinciden con un diario. Leé el PDF vigente de ARCA antes de liquidar.
 
 El mecanismo general (por qué retiene el empleador, qué declara el empleado, el ajuste anual) está en [retención de impuestos sobre sueldos](retencion-de-impuestos-sobre-sueldos.md). El impuesto como tal, con sus categorías y la declaración de la persona, va al tema Impuestos, todavía no escrito.
 
@@ -40,10 +42,12 @@ La escala del art. 94 tiene nueve alícuotas: 5, 9, 12, 15, 19, 23, 27, 31 y 35 
 
 ## Cómo calcula la retención el empleador
 
-La retención es acumulativa: cada mes se mira el año acumulado hasta ese mes. Es inferencia de esta base, porque el texto de la RG 4003 que describe el cálculo no se leyó entero. La sostiene que ARCA publique las deducciones acumuladas mes por mes: en julio de 2026, la ganancia no imponible acumulada es de 3.077.540,53 (ARCA, PDF de julio a diciembre). Así, el empleador tomaría la ganancia del año hasta el mes, restaría las deducciones acumuladas, aplicaría la escala y retendría la diferencia con lo ya retenido.
+La retención es acumulativa: cada mes se mira el año acumulado hasta ese mes. La RG 4003 dice que las deducciones del art. 30 y la escala del art. 94 «se computarán mensualmente», acumulando desde enero con los montos del primer semestre y, desde julio, con los actualizados (art. 7). ARCA publica las deducciones acumuladas mes por mes: en julio de 2026, la ganancia no imponible acumulada es de 3.077.540,53 (ARCA, PDF de julio a diciembre). El empleador toma la ganancia del año hasta el mes, resta las deducciones acumuladas, aplica la escala y retiene la diferencia con lo ya retenido; ese paso a paso es lectura de esta base, porque el procedimiento detallado está en el Anexo II de la RG 4003, que no se leyó.
+
+El mismo art. 7 pone dos reglas para el sistema: la retención de un mes no puede superar la que resulta de aplicar la alícuota máxima sobre la remuneración bruta de ese pago, y la retención o la devolución se hace al pagar y consta en el recibo. Si el impuesto queda a cargo del empleador, hay que «practicarse el acrecentamiento» del art. 227 (art. 8).
 
 > [!NOTE]
-> Sin fuente todavía: el procedimiento de cálculo mensual de la RG 4003, la lista vigente de conceptos exentos del art. 26 de la ley del impuesto y el tratamiento del aguinaldo y de las horas extra.
+> Sin fuente todavía: el Anexo II de la RG 4003 (no aparece en la página de la Biblioteca de ARCA), la lista vigente de conceptos exentos del art. 26 de la ley del impuesto y el tratamiento del aguinaldo y de las horas extra. La RG 4003 solo nombra «las cuotas del Sueldo Anual Complementario» como dato a informar cuando hay otros empleadores (art. 11).
 
 ## Lo que informa el empleado: el F.572 web y el SiRADIG
 
@@ -51,8 +55,7 @@ La retención es acumulativa: cada mes se mira el año acumulado hasta ese mes. 
 
 En el legajo, cada presentación del F.572 es una novedad con fecha: cambia la retención desde el mes que informa y la liquidación anual la toma completa (inferencia de esta base).
 
-> [!NOTE]
-> Sin fuente todavía: el plazo del empleado para presentar el F.572 web (la prensa habla del 31 de marzo, sin que se haya abierto la fuente) y el art. 8 de la RG 4003.
+El empleado presenta el F.572 web al menos una vez por año: la presentación «deberá efectuarse anualmente, hasta el 31 de marzo inclusive del año inmediato siguiente al que se declara», aunque no tenga deducciones ni cargas de familia que informar (RG 4003, art. 11, texto según la RG 5683/2025). Es una sola fuente, la oficial.
 
 ## Los montos de las deducciones
 
