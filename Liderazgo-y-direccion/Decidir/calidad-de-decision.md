@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  La calidad de una decisión se juzga por cómo se tomó, con la información que había, y no por cómo salió: un buen resultado puede venir de una mala decisión con suerte. La práctica con más evidencia para aprender de lo decidido es la revisión posterior (after-action review o debrief), con dos metaanálisis a favor; la idea de que el proceso pesa más que el análisis viene de un estudio de consultora.
+  La calidad de una decisión se juzga por cómo se tomó, con la información que había, y no por cómo salió: un buen resultado puede venir de una mala decisión con suerte. La práctica con más evidencia para aprender de lo decidido es la revisión después de la acción (after-action review o debrief), con dos metaanálisis a favor; la idea de que el proceso pesa más que el análisis viene de un estudio de consultora.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -10,14 +10,14 @@ fuentes:
   - "Tannenbaum y Cerasoli (2013), Do Team and Individual Debriefs Enhance Performance? A Meta-Analysis, Human Factors 55(1), 231-245 (abstract): https://doi.org/10.1177/0018720812448394"
   - "Keiser y Arthur (2020 en línea), A meta-analysis of the effectiveness of the after-action review (or debrief), Journal of Applied Psychology (según un resumen): https://scite.ai/authors/nathanael-l-keiser-JazJ5D"
   - "Liderazgo-y-direccion/.investigacion/decidir-y-ejecucion.md"
-aliases: [calidad de las decisiones, decision quality, resulting, juzgar por el resultado, revisión posterior, after-action review, AAR, debrief, retrospectiva, registro de decisiones, decision log, decision record, estrategia conductual, behavioral strategy]
+aliases: [calidad de las decisiones, decision quality, resulting, juzgar por el resultado, revisión después de la acción, revisión posterior, after-action review, AAR, debrief, retrospectiva, registro de decisiones, decision log, decision record, estrategia conductual, behavioral strategy]
 creado: 2026-11-27
 revisado:
 ---
 
 # Calidad de decisión
 
-La calidad de una decisión se juzga por cómo se tomó, con la información que había, y no por cómo salió: un buen resultado puede venir de una mala decisión con suerte. La práctica con más evidencia para aprender de lo decidido es la revisión posterior (after-action review o debrief), con dos metaanálisis a favor; la idea de que el proceso pesa más que el análisis viene de un estudio de consultora.
+La calidad de una decisión se juzga por cómo se tomó, con la información que había, y no por cómo salió: un buen resultado puede venir de una mala decisión con suerte. La práctica con más evidencia para aprender de lo decidido es la revisión después de la acción (after-action review o debrief), con dos metaanálisis a favor; la idea de que el proceso pesa más que el análisis viene de un estudio de consultora.
 
 Es la pregunta que cierra [Decidir](decidir.md): si lo que se decidió estuvo bien. Los errores de juicio de cada persona (atajos, exceso de confianza, juicios que varían sin razón) se explican en Psicología: [heurísticas y sesgos](../../Psicologia/Juicio-y-decision/heuristicas-y-sesgos.md), [sobreconfianza](../../Psicologia/Juicio-y-decision/sobreconfianza.md) y [ruido](../../Psicologia/Juicio-y-decision/ruido.md). Los de un grupo, en [decidir en grupo](decidir-en-grupo.md). Esta nota trata cómo una organización evalúa y mejora sus decisiones.
 
@@ -45,7 +45,7 @@ Los mismos autores publicaron después en una revista académica, con Powell (Si
 
 ## Revisar después lo hecho
 
-La práctica con más evidencia es la revisión posterior: después de un proyecto, un lanzamiento o un incidente, el equipo repasa qué se esperaba, qué pasó y qué cambiar. Se la llama after-action review (AAR) o debrief. Dos metaanálisis la sostienen.
+La práctica con más evidencia es la revisión después de la acción: al terminar un proyecto, un lanzamiento o un incidente, el equipo repasa qué se esperaba, qué pasó y qué cambiar. Se la llama after-action review (AAR) o debrief. Dos metaanálisis la sostienen.
 
 **Tannenbaum y Cerasoli (2013).** Con 46 muestras y 2.136 participantes, según el abstract, «debriefs improve effectiveness over a control group by approximately 25% (d = .67)». El efecto fue parecido en equipos y en personas, en simulación y en entornos reales. La alineación y la facilitación y estructura de la revisión lo potencian. Su conclusión: «Organizations can improve individual and team performance by approximately 20% to 25% by using properly conducted debriefs».
 
@@ -61,7 +61,7 @@ Escribir cada decisión importante con su contexto, las opciones y lo que se esp
 
 Otra práctica de revisión, los cinco porqués, está en [Fundadores y equipo](../../Emprender/Fundadores-y-equipo/fundadores-y-equipo.md). El seguimiento de lo que se decidió en el ritmo de revisiones semanales y mensuales es asunto de [ritmo operativo](../Ejecucion/ritmo-operativo.md).
 
-## Cómo se hace una revisión posterior
+## Cómo se hace una revisión después de la acción
 
 Los moderadores de los dos metaanálisis dan la forma. La secuencia que sigue es una lectura de la base sobre ellos, no un protocolo probado:
 

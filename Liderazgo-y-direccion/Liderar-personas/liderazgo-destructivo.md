@@ -46,7 +46,7 @@ Mackey, Frieder, Brees y Martinko (2017) hicieron el metaanálisis, con correcci
 
 ## No dirigir también daña
 
-El laissez-faire es no dirigir. El metaanálisis de Judge y Piccolo (2004) lo incluyó entre las dimensiones que comparó con el transformacional, pero el texto que leyó esta base no confirma el signo de su relación con los resultados. Tres estudios lo miran de cerca:
+El laissez-faire es no dirigir. El metaanálisis de Judge y Piccolo (2004) lo incluyó entre las dimensiones que comparó con el transformacional; según el abstract, su relación global con los criterios fue de -.37, la segunda más fuerte después del transformacional y la recompensa contingente (lo cuenta [liderazgo transformacional](liderazgo-transformacional.md)). Tres estudios lo miran de cerca:
 
 - **Skogstad y colegas (2007)**, con 2.273 empleados noruegos: según el abstract, el laissez-faire se relacionó positivamente con conflicto y ambigüedad de rol y con conflictos entre compañeros, y esos estresores se ligaron al malestar psicológico, en buena parte por la exposición al acoso.
 - **Buch, Martinsen y Kuvaas (2015)**, con dos muestras de 199 y 197 empleados: el daño en compromiso afectivo, esfuerzo y ciudadanía estuvo mediado por el LMX económico, un vínculo con el jefe de tipo económico.

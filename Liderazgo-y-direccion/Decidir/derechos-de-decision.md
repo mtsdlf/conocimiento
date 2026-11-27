@@ -54,7 +54,7 @@ Leído junto, la lectura de la base es que el dueño suelta decisiones cuando ve
 
 ## El extremo: organizaciones sin jefes
 
-Llevada al límite, la descentralización es la autogestión. Lee y Edmondson (2017), según un resumen del abstract, definen las organizaciones autogestionadas como las que descentralizan la autoridad de forma formal y sistemática en toda la organización, y tratan el tema como agenda de investigación, no como hecho probado. El caso más citado, Zappos al pasar a holacracia, es un caso y no un estudio: según la prensa, 210 de 1.500 empleados se fueron con la oferta de indemnización.
+Llevada al límite, la descentralización es la autogestión. Lee y Edmondson (2017), según un resumen del abstract, definen las organizaciones autogestionadas como las que descentralizan la autoridad de forma formal y sistemática en toda la organización, y tratan el tema como agenda de investigación, no como hecho probado. El caso más citado, Zappos al pasar a holacracia, es un caso y no un estudio: según la prensa, 210 de 1.500 empleados se fueron tras una oferta de indemnización de tres meses.
 
 > [!NOTE] Sin fuente todavía: qué se pierde, en una empresa de 2 a 50 personas, si se quita el rol de jefe y se reparten todas las decisiones.
 

@@ -73,7 +73,7 @@ Primero cómo leer un estudio de liderazgo, después el mapa y recién entonces 
 | Benson, Li y Shue, *QJE*, 2019 | Por qué promover al mejor vendedor sale caro | Abstract |
 | Hill, *Becoming a Manager*, 2003 | La transición psicológica; estudio cualitativo con 19 personas | No |
 | Google re:Work, investigación sobre jefes (Oxígeno) | La lista de conductas; es una empresa grande y sus datos no se pueden auditar | Resumen |
-| Lacerenza et al., *Journal of Applied Psychology*, 2017 | Qué diseño de formación de líderes funciona: práctica, feedback, sesiones espaciadas | Abstract; resumen |
+| Lacerenza et al., *Journal of Applied Psychology*, 2017 | Qué diseño de entrenamiento de liderazgo funciona: práctica, feedback, sesiones espaciadas | Abstract; resumen |
 
 ## Para armar un equipo que rinda
 

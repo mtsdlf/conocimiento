@@ -44,7 +44,7 @@ El fenómeno **se sostuvo**. Por su diseño es de laboratorio, con tareas armada
 | Indagación dialéctica | Se arman un plan y su contraplan, y se discuten | Schwenk (1990) | Sin ventaja demostrada en tareas mal estructuradas |
 | Premortem | Se imagina que el proyecto ya fracasó y se buscan las razones | Un experimento de 1989 citado por Klein, practicante | Sin evidencia sólida |
 | Delphi | Expertos opinan en anonimato | Revisión de Rowe y Wright (1999) | Mixta |
-| Votar antes de discutir | Cada uno fija su posición en privado antes de oír a los demás | Ninguna fuente encontrada | Sin evaluar |
+| Votar antes de hablar | Cada uno fija su posición en privado antes de oír a los demás | Ninguna fuente encontrada | Sin evaluar |
 
 ### Abogado del diablo e indagación dialéctica
 
@@ -62,7 +62,7 @@ Klein (2007) propone el premortem en una nota breve de la Harvard Business Revie
 
 Rowe y Wright (1999), según un resumen, encontraron pocos estudios de validación, versiones de laboratorio distintas del método original y muchas pruebas con estudiantes en lugar de expertos. Su conclusión: «some studies show Delphi to be an effective forecasting tool, and some do not».
 
-### Votar antes de discutir
+### Votar antes de hablar
 
 No hay fuente que lo evalúe como técnica. Su lógica sale de las dos anteriores: los perfiles ocultos muestran que la discusión se inclina hacia lo compartido, y Delphi usa el anonimato para que la primera opinión no arrastre a las demás. Es una inferencia.
 

@@ -55,7 +55,7 @@ La composición de nivel profundo es la mezcla de rasgos que no se ven, como hab
 
 | Dónde | Qué se asoció con el desempeño del equipo |
 |---|---|
-| Laboratorio | El mínimo y el máximo de habilidad mental general, y la inteligencia emocional media |
+| Laboratorio | El mínimo y el máximo de capacidad mental general, y la inteligencia emocional media |
 | Campo | El mínimo de amabilidad y la media de responsabilidad, apertura, colectivismo y preferencia por el trabajo en equipo |
 
 Que en el campo cuente el mínimo de amabilidad sugiere que una sola persona poco amable pesa en todo el equipo. Es una lectura de esta base sobre el abstract, sin los coeficientes. Qué es cada rasgo y cómo se mide está en [cinco grandes](../../Psicologia/Personalidad/cinco-grandes.md) y [tests de personalidad](../../Psicologia/Personalidad/tests-de-personalidad.md). Armar equipos con el tipo MBTI no tiene respaldo encontrado: lo cuenta [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md).

@@ -33,7 +33,7 @@ Son dos preguntas con literaturas distintas. La primera es descriptiva: se obser
 
 ## La semana de un CEO es fragmentada y llena de reuniones
 
-Mintzberg (1971) observó con cronómetro a cinco directores ejecutivos, una semana intensiva cada uno, en una consultora, un hospital escuela, un sistema escolar, una empresa de alta tecnología y un fabricante de consumo masivo. Según un resumen, el patrón central fue el de muchos episodios breves con una gran variedad de personas. De ahí derivó diez roles en tres grupos: interpersonales (figura representativa, líder, enlace), informativos (monitor, difusor, vocero) y decisorios. El liderazgo queda como uno de los diez roles, no como una tarea aparte.
+Mintzberg (1971) observó con cronómetro a cinco directores ejecutivos, una semana intensiva cada uno, en una consultora, un hospital escuela, un sistema escolar, una empresa de alta tecnología y un fabricante de consumo masivo. Según un resumen, el patrón central fue el de muchos episodios breves con una gran variedad de personas. De ahí derivó diez roles en tres grupos: interpersonales (figura representativa, líder, enlace), de información (monitor, difusor, vocero) y de decisión. El liderazgo queda como uno de los diez roles, no como una tarea aparte.
 
 La estructura de diez roles no se confirmó. Según un resumen, un estudio de seguimiento con gerentes públicos encontró cuatro factores y no diez, y, según el mismo resumen, el propio Mintzberg dice que los roles fragmentan lo que en la práctica es un trabajo integrado. Lo que se sostuvo es el patrón: trabajo cortado en pedazos y hecho hablando con gente.
 
@@ -45,7 +45,7 @@ Bandiera, Prat, Hansen y Sadun (2020) midieron la agenda de 1.114 CEOs en seis p
 
 Según el abstract publicado, «Firms that hire leaders perform better, and it takes three years for a new CEO to make a difference». La brecha aparece después de la contratación y crece de a poco. La lectura correcta es la del propio modelo: según el mismo abstract, las estimaciones estructurales atribuyen las diferencias de productividad a desajustes entre tipo de CEO y empresa, y no a que el tipo «leader» sirva para todas. El abstract de la versión de trabajo estima que alrededor del 17 % de los CEOs de la muestra está mal emparejado con su empresa. El abstract publicado no repite esa cifra, así que queda atada a la versión de trabajo.
 
-Bertrand y Schoar (2003) siguieron a ejecutivos que pasan de una empresa a otra. Según el abstract, el efecto propio de cada gerente pesa en una amplia gama de decisiones corporativas, su «estilo» se relaciona con el desempeño, y los de mayor efecto cobran más y están en empresas mejor gobernadas.
+Bertrand y Schoar (2003) siguieron a ejecutivos que pasan de una empresa a otra. Según el abstract, el efecto propio de cada ejecutivo pesa en una amplia gama de decisiones corporativas, su «estilo» se relaciona con el desempeño, y los de mayor efecto cobran más y están en empresas mejor gobernadas.
 
 ## Cuánto del resultado se le puede atribuir al CEO
 
@@ -64,7 +64,7 @@ Para una empresa chica, el debate sirve como advertencia más que como número. 
 
 ## La fórmula de Grove, como práctica
 
-Andy Grove, que dirigió Intel, propuso en *High Output Management* (1983) medir a un gerente por lo que produce su organización: «A manager's output = the output of his organization + the output of the neighboring organizations under his influence». La cita sale de un resumen de a16z y no se cotejó con el libro. Es consejo de un practicante, no un resultado medido. Coincide con lo que muestran Mintzberg y Porter y Nohria: el trabajo del CEO pasa por otros y casi todo ocurre en reuniones.
+Andy Grove, que dirigió Intel, propuso en *High Output Management* (1983) medir a un jefe por lo que produce su organización: «A manager's output = the output of his organization + the output of the neighboring organizations under his influence». La cita sale de un resumen de a16z y no se cotejó con el libro. Es consejo de un practicante, no un resultado medido. Coincide con lo que muestran Mintzberg y Porter y Nohria: el trabajo del CEO pasa por otros y casi todo ocurre en reuniones.
 
 ## Dónde sigue esto
 

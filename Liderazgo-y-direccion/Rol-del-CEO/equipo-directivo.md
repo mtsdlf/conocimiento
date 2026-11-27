@@ -54,7 +54,7 @@ Un equipo directivo discute y decide en grupo, y por eso heredaría los sesgos d
 
 En empresas con capital de riesgo, el equipo directivo cambia mucho. Kaplan, Sensoy y Strömberg (2009) encontraron, según un resumen, que entre el plan de negocios y el informe anual solo siguen el 50 % de los CEOs y el 25 % de los otros cinco ejecutivos principales. Las líneas de negocio, en cambio, se mantienen. Eso describe lo que pasa, no cuándo conviene hacer el cambio.
 
-El caso que contó Brian Chesky, con casi todo su equipo ejecutivo yéndose al cambiar su estilo, está en [founder mode](founder-mode.md). Cómo se contrata a un ejecutivo es parte de [contratar](../Gestion-de-personas/contratar.md), y cómo se cierra una salida, de [rotación y salidas](../Gestion-de-personas/rotacion-y-salidas.md).
+El caso que contó Brian Chesky, con casi todo su equipo directivo yéndose al cambiar su estilo, está en [founder mode](founder-mode.md). Cómo se contrata a un ejecutivo es parte de [contratar](../Gestion-de-personas/contratar.md), y cómo se cierra una salida, de [rotación y salidas](../Gestion-de-personas/rotacion-y-salidas.md).
 
 > [!NOTE] Sin fuente todavía: evidencia sobre cuándo sumar el primer ejecutivo en una empresa chica, cuándo cambiarlo y un metaanálisis que se aplique a primeros equipos directivos.
 

@@ -33,7 +33,7 @@ El segundo problema es de nombres. Banks y colegas (2018), según un resumen, en
 
 El tercero es cuánto vale el líder. Fitza (2017) concluye que «the effect of CEO leadership is almost indistinguishable from the effect of chance»; Hambrick y Quigley (2014), según un resumen, estiman un efecto mucho mayor que los métodos clásicos; cifras más altas, como 38,5 %, circulan sin verificar. Las dos posiciones están publicadas en la misma revista; el debate está en [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md).
 
-No todo cae. Lo que mejor resiste son los experimentos de campo con prácticas de gestión, que cuenta [escuelas](escuelas-de-liderazgo-y-direccion.md), y la formación de líderes: el metaanálisis de Lacerenza y colegas (2017) encuentra que entrenar mejora algo, con la reserva, sin verificar, de si los resultados medidos son conducta observada o percepción de jefes y pares.
+No todo cae. Lo que mejor resiste son los experimentos de campo con prácticas de gestión, que cuenta [escuelas](escuelas-de-liderazgo-y-direccion.md), y el entrenamiento de liderazgo: el metaanálisis de Lacerenza y colegas (2017), que cuenta [desarrollo de personas](../Gestion-de-personas/desarrollo-de-personas.md), encuentra mejoras en aprendizaje, transferencia al trabajo y resultados, con la reserva, sin verificar, de si los resultados medidos son conducta observada o percepción de jefes y pares.
 
 Queda la distancia con el público de esta base. Casi ningún estudio de los informes trata empresas de 2 a 50 personas: la evidencia viene de corporaciones cotizantes, de laboratorios con estudiantes o de empresas con capital de riesgo. Una empresa chica puede usarla como dirección, no como cifra.
 
@@ -73,4 +73,4 @@ Los textos de liderazgo tienen capítulos que no son una parte de este tema. Que
 
 ## Qué falta en Fundamentos
 
-Las escuelas no tienen fuente leída de Taylor, Weber, McGregor ni de los practicantes clásicos (Grove, Drucker), y las definiciones de liderazgo de Yukl y Northouse no se verificaron. Los mitos esperan la metodología del estudio de Gallup, una publicación revisada del Proyecto Aristóteles y del estudio de Hay/McBer, y la lista de los cinco casos de Hughes. Falta, sobre todo, evidencia hecha en empresas de 2 a 50 personas, que es un hueco del campo y no solo de esta base.
+Las escuelas no tienen fuente leída de Taylor, Weber, McGregor ni de los practicantes clásicos (Grove, Drucker), y las definiciones de liderazgo de Yukl y Northouse no se verificaron. Los mitos esperan la metodología del estudio de Gallup, una publicación revisada del Proyecto Aristóteles y del estudio de Hay/McBer, y la lista de las cinco instancias de Hughes. Falta, sobre todo, evidencia hecha en empresas de 2 a 50 personas, que es un hueco del campo y no solo de esta base.

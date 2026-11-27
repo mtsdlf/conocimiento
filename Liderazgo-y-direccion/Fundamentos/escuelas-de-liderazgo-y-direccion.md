@@ -65,7 +65,7 @@ La teoría X e Y de McGregor viene de esta línea: dos supuestos opuestos del je
 
 ## Contingencia: la estructura depende de la tarea y del entorno
 
-Woodward (1965) estudió unas 100 manufactureras pequeñas y medianas del sudeste de Essex y halló, según una reseña secundaria, que la tecnología explicaba buena parte de las diferencias de estructura. Lawrence y Lorsch (1967) introdujeron diferenciación (cuánto se especializan las áreas) e integración (cuánto se coordinan); de ese artículo solo se leyeron los metadatos. Que no hay una forma mejor de organizar se sostiene porque los dos convergen, leídos de segunda mano. En liderazgo, la misma idea aparece en Fiedler, el modelo path-goal y el liderazgo situacional, que trata [teorías del liderazgo](../Liderar-personas/teorias-del-liderazgo.md).
+Woodward (1965) estudió unas 100 manufactureras pequeñas y medianas del sudeste de Essex y halló, según una reseña secundaria, que la tecnología explicaba buena parte de las diferencias de estructura. Lawrence y Lorsch (1967) introdujeron diferenciación (cuánto se especializan las áreas) e integración (cuánto se coordinan); de ese artículo solo se leyeron los metadatos. Que no hay una forma mejor de organizar se sostiene porque los dos convergen, leídos de segunda mano. En liderazgo, la misma idea aparece en Fiedler, el modelo camino-meta y el liderazgo situacional, que trata [teorías del liderazgo](../Liderar-personas/teorias-del-liderazgo.md).
 
 Cómo cambia la estructura al crecer está en [escalar la organización](../Rol-del-CEO/escalar-la-organizacion.md).
 
@@ -75,7 +75,7 @@ La separación entre las dos palabras la hicieron Zaleznik y Kotter en HBR, y Mi
 
 ## Practicantes: Drucker, Grove y el problema de mirar solo a los que ganaron
 
-Drucker acuñó «management by objectives» en *The Practice of Management* (1954), según una fuente secundaria que también cita la crítica de Deming: fijar metas de producción empuja a cumplirlas «through whatever means necessary». La misma página atribuye a Rodgers y Hunter (1991) ganancias de productividad de 56 % con CEOs muy comprometidos y de 6 % con poco compromiso; el estudio no se verificó. *High Output Management* de Grove (fecha sin verificar) es la otra referencia de practicante; su herencia está en [OKR](../Ejecucion/okr.md) y en [reuniones uno a uno](../Gestion-de-personas/reuniones-uno-a-uno.md).
+Drucker acuñó «management by objectives» en *The Practice of Management* (1954), según una fuente secundaria que también cita la crítica de Deming: fijar metas de producción empuja a cumplirlas «through whatever means necessary». El metaanálisis de Rodgers y Hunter (1991) sobre la dirección por objetivos está, con sus cifras, en [OKR](../Ejecucion/okr.md). *High Output Management* de Grove (1983) es la otra referencia de practicante; su herencia está en esa nota y en [reuniones uno a uno](../Gestion-de-personas/reuniones-uno-a-uno.md).
 
 Lo que dicen los practicantes tiene un sesgo de origen. Denrell (2003), según el abstract, muestra que las organizaciones que se observan son sobrevivientes, y que eso hace parecer beneficiosas prácticas riesgosas que en toda la población no se relacionan con el desempeño. No prueba que un consejo sea falso, pero obliga a preguntar qué muestra miró su autor. Pesa sobre [founder mode](../Rol-del-CEO/founder-mode.md), que es consejo de practicantes con casos elegidos desde el éxito.
 
@@ -102,7 +102,7 @@ Rousseau (2006) llamó «research-practice gap» a «the failure of organization
 
 ## Organizar con menos jerarquía: autogestión y holacracia
 
-Las escuelas que proponen quitar al jefe tienen poca evidencia sistemática: la revisión de Lee y Edmondson (2017) ordena lo estudiado y, en lectura de esta base, deja la autogestión como agenda de investigación y no como hecho probado. Lo demás son casos. Al pasar a holacracia, 210 de 1.500 empleados de Zappos se fueron tras una oferta de indemnización de tres meses, según la prensa. Qué pierde una empresa de 2 a 50 personas si quita el rol de jefe no está estudiado.
+Las escuelas que proponen quitar al jefe tienen poca evidencia sistemática: la revisión de Lee y Edmondson (2017) deja la autogestión como agenda de investigación y no como hecho probado, y lo demás son casos, como el de Zappos al pasar a holacracia. Los dos están en [derechos de decisión](../Decidir/derechos-de-decision.md).
 
 > [!NOTE]
 > Sin fuente todavía: el coaching ontológico y la «nueva gestión» de habla hispana, y la definición de CEBMa de la gestión basada en evidencia.

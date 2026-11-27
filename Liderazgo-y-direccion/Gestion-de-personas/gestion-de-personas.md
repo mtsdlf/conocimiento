@@ -69,3 +69,5 @@ Ningún estudio de estas notas separa los resultados por tamaño de empresa. Las
 - [Compensación e incentivos](compensacion-e-incentivos.md): qué hace el pago atado a resultados, cuándo un premio daña y qué cambia la transparencia salarial.
 - [Desarrollo de personas](desarrollo-de-personas.md): delegar para que alguien crezca, mentoría, coaching y entrenamiento, y por qué el 70-20-10 tiene poca base.
 - [Rotación y salidas](rotacion-y-salidas.md): por qué se va la gente, cómo se despide y el límite con el derecho laboral argentino.
+
+Los términos de esta parte están en el [glosario del tema](../Fundamentos/glosario-de-liderazgo-y-direccion.md), y cómo se lee una cifra de un estudio, en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).

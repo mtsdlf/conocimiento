@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Pasar a liderar es la transición de hacer el trabajo uno mismo a conseguir que lo hagan otros, como pasa cuando un fundador suma a su primera persona o alguien del equipo asciende a jefe. Su evidencia es escasa: un estudio cualitativo de 19 gerentes, datos de ascensos de vendedores y la práctica interna de Google.
+  Pasar a liderar es la transición de hacer el trabajo uno mismo a conseguir que lo hagan otros, como pasa cuando un fundador suma a su primera persona o alguien del equipo asciende a jefe. Su evidencia es escasa: un estudio cualitativo de 19 jefes nuevos, datos de ascensos de vendedores y la práctica interna de Google.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -21,26 +21,26 @@ revisado:
 
 # Pasar a liderar
 
-Pasar a liderar es la transición de hacer el trabajo uno mismo a conseguir que lo hagan otros, como pasa cuando un fundador suma a su primera persona o alguien del equipo asciende a jefe. Su evidencia es escasa: un estudio cualitativo de 19 gerentes, datos de ascensos de vendedores y la práctica interna de Google.
+Pasar a liderar es la transición de hacer el trabajo uno mismo a conseguir que lo hagan otros, como pasa cuando un fundador suma a su primera persona o alguien del equipo asciende a jefe. Su evidencia es escasa: un estudio cualitativo de 19 jefes nuevos, datos de ascensos de vendedores y la práctica interna de Google.
 
 Casi no existe como cuerpo de evidencia cuantitativa en psicología organizacional. Lo que hay viene de un libro sobre un estudio cualitativo (Hill), de la economía del personal (Benson, Li y Shue; Lazear) y de los datos internos de una empresa (Google). La transición toca las dos caras del tema: liderar, porque ahora hay que influir en personas, y dirigir, porque hay que organizar el trabajo de otros y hacer que se cumpla.
 
 ## Lo que cambia en el trabajo
 
-El trabajo de un jefe es otro trabajo. En el estudio de Mintzberg (1971) sobre cinco gerentes, según el abstract, aparecen diez roles en tres grupos: interpersonales, de información y de decisión. Liderar es solo uno de los interpersonales; los otros nueve incluyen representar, enlazar con el exterior, asignar recursos y resolver problemas que irrumpen.
+El trabajo de un jefe es otro trabajo. En el estudio de Mintzberg (1971) sobre cinco directores ejecutivos, según el abstract, aparecen diez roles en tres grupos: interpersonales, de información y de decisión. Liderar es solo uno de los interpersonales; los otros nueve incluyen representar, enlazar con el exterior, asignar recursos y resolver problemas que irrumpen.
 
-Hill siguió a 19 gerentes nuevos durante su primer año. Según el catálogo del libro, tiene dos temas: que pasar de contribuidor individual a gerente es una transformación psicológica profunda, y que llegar a ser gerente es sobre todo aprender de la experiencia. La segunda edición (2003) suma la política de la organización, los equipos diversos y el desarrollo a lo largo de la carrera. Esta base no leyó el libro: el resumen sale del catálogo y de un buscador.
+Hill siguió a 19 jefes nuevos durante su primer año. Según el catálogo del libro, tiene dos temas: que pasar de contribuidor individual a jefe es una transformación psicológica profunda, y que llegar a ser jefe es sobre todo aprender de la experiencia. La segunda edición (2003) suma la política de la organización, los equipos diversos y el desarrollo a lo largo de la carrera. Esta base no leyó el libro: el resumen sale del catálogo y de un buscador.
 
 > [!NOTE] Sin fuente todavía: el texto de Hill, y cualquier estudio de la transición en empresas de 2 a 50 personas, donde quien pasa a liderar suele ser el fundador al contratar a su primera persona.
 
 ## Por qué el mejor en su puesto no siempre es el mejor jefe
 
-Benson, Li y Shue (2019) estudiaron los ascensos de vendedores en 131 empresas. Según el abstract, las empresas pesan mucho el desempeño actual al promover y poco otros rasgos que predicen mejor el desempeño como gerente. Ascender a quien tiene menos capacidad para dirigir sale caro. Las empresas reducen el costo cuando el puesto de jefe tiene más responsabilidad y cuando los vendedores cobran fuerte por desempeño, porque entonces pesan menos las ventas al elegir.
+Benson, Li y Shue (2019) estudiaron los ascensos de vendedores en 131 empresas. Según el abstract, las empresas pesan mucho el desempeño actual al promover y poco otros rasgos que predicen mejor el desempeño como jefe. Ascender a quien tiene menos capacidad para dirigir sale caro. Las empresas reducen el costo cuando el puesto de jefe tiene más responsabilidad y cuando los vendedores cobran fuerte por desempeño, porque entonces pesan menos las ventas al elegir.
 
 La idea circula como «trampa del experto»; la investigación de esta base no encontró una fuente académica que use ese nombre, así que es una etiqueta de práctica. El hecho que la sostiene es el de Benson, Li y Shue, con una sola ocupación: vendedores.
 
 > [!IMPORTANT]
-> **El principio de Peter es un error de selección (Benson, Li y Shue 2019).** Las empresas pesan mucho el desempeño actual al promover, y poco otros rasgos que predicen mejor el desempeño como gerente.
+> **El principio de Peter es un error de selección (Benson, Li y Shue 2019).** Las empresas pesan mucho el desempeño actual al promover, y poco otros rasgos que predicen mejor el desempeño como jefe.
 >
 > **El principio de Peter es un efecto estadístico (Lazear 2004).** Según el abstract, la caída del desempeño después de un ascenso se explica en gran parte por regresión a la media: quien asciende por un buen período tiende a volver a su nivel habitual, con cualquier criterio de promoción. Las empresas pueden tenerlo en cuenta, pero no eliminarlo.
 >
@@ -48,7 +48,7 @@ La idea circula como «trampa del experto»; la investigación de esta base no e
 
 ## Las conductas de un buen jefe según Google
 
-Google estudió durante varios años a sus propios gerentes con evaluaciones de desempeño, encuestas de feedback y notas de entrevistas: «over 10,000 data points» y «hundreds of pages of notes», según la guía de re:Work. La lista final tiene diez conductas:
+En su Proyecto Oxígeno, Google estudió durante varios años a sus propios jefes con evaluaciones de desempeño, encuestas de feedback y notas de entrevistas: «over 10,000 data points» y «hundreds of pages of notes», según la guía de re:Work. La lista final tiene diez conductas:
 
 1. «Be a good coach»
 2. «Empower the team without micromanaging»
@@ -61,7 +61,7 @@ Google estudió durante varios años a sus propios gerentes con evaluaciones de 
 9. «Collaborate across Google»
 10. «Make strong decisions»
 
-La lista original tenía ocho; las dos últimas se sumaron después, según un resumen secundario. La guía dice que los equipos con gerentes muy efectivos tenían más probabilidad de mejores resultados, más felicidad y menos rotación, pero no da cuántos gerentes se estudiaron ni ninguna estadística. Es práctica de una sola empresa grande, sin método publicado completo, y sus resultados no se pueden auditar. Esta base no leyó la página entera: el contenido sale de un resumen de la herramienta de lectura.
+La lista original tenía ocho; las dos últimas se sumaron después, según un resumen secundario. La guía dice que los equipos con jefes muy efectivos tenían más probabilidad de mejores resultados, más felicidad y menos rotación, pero no da cuántos jefes se estudiaron ni ninguna estadística. Es práctica de una sola empresa grande, sin método publicado completo, y sus resultados no se pueden auditar. Esta base no leyó la página entera: el contenido sale de un resumen de la herramienta de lectura.
 
 Varias de las diez conductas coinciden con lo que tiene evidencia en otras notas: atender a la persona y organizar la tarea (las dos dimensiones de Ohio State en [teorías del liderazgo](teorias-del-liderazgo.md)) y dar autonomía sin controlar cada paso ([motivar a un equipo](motivar-a-un-equipo.md)). La coincidencia es lectura de esta base.
 
@@ -69,7 +69,7 @@ Varias de las diez conductas coinciden con lo que tiene evidencia en otras notas
 
 Un buen jefe cambia lo que produce un equipo. Lazear y colegas (2015), con datos de una empresa de servicios técnicos, encontraron según el abstract que «Replacing a boss who is in the lower 10% of boss quality with one who is in the upper 10% of boss quality increases a team's total output by more than adding one worker to a nine-member team would», y que «Workers assigned to better bosses are less likely to leave the firm».
 
-Que dirigir se pueda entrenar tiene a favor el metaanálisis de Lacerenza y colegas (2017) sobre programas de entrenamiento en liderazgo. Según un resumen secundario, que esta base no contrastó con el original, los programas mejoraron las reacciones, el aprendizaje, la transferencia al trabajo y los resultados, y rindieron más con análisis de necesidades, feedback, práctica y sesiones espaciadas. Esta base no tiene datos de ese metaanálisis para empresas de 2 a 50 personas.
+Que dirigir se pueda entrenar tiene a favor el metaanálisis de Lacerenza y colegas (2017) sobre el entrenamiento de liderazgo: los programas mejoraron las reacciones, el aprendizaje, la transferencia al trabajo y los resultados, y rindieron más con análisis de necesidades, feedback, práctica y sesiones espaciadas. Las cifras y la reserva sobre cómo se midieron los resultados están en [desarrollo de personas](../Gestion-de-personas/desarrollo-de-personas.md). Esta base no tiene datos de ese metaanálisis para empresas de 2 a 50 personas.
 
 ## Cómo se hace la transición
 

@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Escalar la organización es cambiar cómo se dirige una empresa a medida que suma gente: pasar de que el fundador decida todo a repartir decisiones y sumar jefes intermedios. No hay teoría con evidencia sólida sobre cuándo hacerlo; hay un modelo de etapas basado en casos, un estudio interno de Google sobre jefes y estudios de economía sobre cuánta autonomía conviene dar.
+  Escalar la organización es cambiar cómo se dirige una empresa a medida que suma gente: pasar de que el fundador decida todo a repartir decisiones y sumar mandos medios. No hay teoría con evidencia sólida sobre cuándo hacerlo; hay un modelo de etapas basado en casos, un estudio interno de Google sobre jefes y estudios de economía sobre cuánta autonomía conviene dar.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -14,14 +14,14 @@ fuentes:
   - "Ben Horowitz (2010), Why Startups Should Train Their People, a16z (según un resumen): https://a16z.com/2010/05/14/why-startups-should-train-their-people/"
   - "Liderazgo-y-direccion/.investigacion/rol-del-ceo.md"
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
-aliases: [escalar, scaling, crecer la organización, etapas de crecimiento, modelo de Greiner, Greiner growth model, mandos medios, middle managers, span of control, amplitud de control, Proyecto Oxígeno, Project Oxygen]
+aliases: [escalar, scaling, crecer la organización, etapas de crecimiento, modelo de Greiner, Greiner growth model, mandos medios, middle managers, span of control, alcance de control, amplitud de control, Proyecto Oxígeno, Project Oxygen]
 creado: 2026-11-27
 revisado:
 ---
 
 # Escalar la organización
 
-Escalar la organización es cambiar cómo se dirige una empresa a medida que suma gente: pasar de que el fundador decida todo a repartir decisiones y sumar jefes intermedios. No hay teoría con evidencia sólida sobre cuándo hacerlo; hay un modelo de etapas basado en casos, un estudio interno de Google sobre jefes y estudios de economía sobre cuánta autonomía conviene dar.
+Escalar la organización es cambiar cómo se dirige una empresa a medida que suma gente: pasar de que el fundador decida todo a repartir decisiones y sumar mandos medios. No hay teoría con evidencia sólida sobre cuándo hacerlo; hay un modelo de etapas basado en casos, un estudio interno de Google sobre jefes y estudios de economía sobre cuánta autonomía conviene dar.
 
 Las preguntas prácticas (cuándo sumar el primer mando medio, qué se rompe al pasar de diez a treinta personas) no tienen estudios. Lo que hay sirve para ordenar las tensiones y descartar dos números que circulan como reglas: el 150 de Dunbar y una cantidad ideal de personas por jefe.
 
@@ -37,22 +37,11 @@ El modelo es conceptual y se armó con casos. La investigación no encontró una
 
 ## Los jefes importan: lo que encontró Google
 
-Google empezó su Proyecto Oxígeno con la hipótesis «Managers don't actually matter». Según su guía re:Work, con más de 10.000 datos sobre gerentes concluyó lo contrario: «Teams with highly effective managers were more likely to achieve better results, be happier, and experience lower turnover». La lista actual tiene diez conductas de un buen jefe (la original tenía ocho):
-
-1. Ser buen coach.
-2. Empoderar al equipo sin microgestionar.
-3. Crear un ambiente que valore a todos.
-4. Enfocarse en la productividad y los resultados.
-5. Comunicar bien.
-6. Apoyar el desarrollo de carrera y hablar de desempeño.
-7. Tener una visión y una estrategia claras.
-8. Tener las habilidades técnicas clave.
-9. Colaborar con toda la empresa.
-10. Tomar decisiones firmes.
+Google empezó su Proyecto Oxígeno con la hipótesis «Managers don't actually matter». Según su guía re:Work, con más de 10.000 datos sobre jefes concluyó lo contrario: «Teams with highly effective managers were more likely to achieve better results, be happier, and experience lower turnover». La lista actual tiene diez conductas de un buen jefe (la original tenía ocho), y está en [pasar a liderar](../Liderar-personas/pasar-a-liderar.md#las-conductas-de-un-buen-jefe-según-google).
 
 Es un estudio interno de una sola empresa grande de ingeniería, con encuestas y evaluaciones; no es un experimento ni un metaanálisis. Lo que aporta a una empresa que crece es el argumento para sumar jefes y formarlos, más que la lista en sí. Qué conductas de un jefe tienen evidencia más allá de Google está en [teorías del liderazgo](../Liderar-personas/teorias-del-liderazgo.md).
 
-> [!NOTE] Sin fuente todavía: la historia de que Google eliminó a sus gerentes y después los repuso circula sin fuente primaria verificada. La guía re:Work no la cuenta, y el artículo de Garvin (2013) en HBR no se pudo leer. No se afirma acá.
+> [!NOTE] Sin fuente todavía: la historia de que Google eliminó a sus jefes y después los repuso circula sin fuente primaria verificada. La guía re:Work no la cuenta, y el artículo de Garvin (2013) en HBR no se pudo leer. No se afirma acá.
 
 ## Ascender a alguien es darle otro trabajo
 
@@ -73,13 +62,13 @@ La nota [número de Dunbar](../../Platform-Engineering/Organizacion-de-equipos/n
 
 ## No hay una cantidad ideal de personas por jefe
 
-La amplitud de control (span of control) es cuántas personas dependen de un mismo jefe. La investigación no encontró un número óptimo validado: cualquier cifra que circule es práctica.
+El alcance de control (span of control) es cuántas personas dependen de un mismo jefe. La investigación no encontró un número óptimo validado: cualquier cifra que circule es práctica.
 
 Lo que sí se estudió es de qué depende la autonomía. Bloom, Garicano, Sadun y Van Reenen (2014) encontraron, según un resumen, que las tecnologías que dan acceso a la información (sistemas de gestión integrados, diseño asistido) se asocian con más autonomía y más personas por jefe. Las tecnologías de comunicación, como las intranets, se asocian con menos autonomía. El mecanismo propuesto: con información barata, cada persona resuelve más problemas sola y necesita menos al jefe. Una revisión de Bloom, Sadun y Van Reenen advierte sesgo de selección, muestras chicas y pocos grupos de control creíbles en esta literatura.
 
 Para una empresa que crece, la lectura práctica es que la cantidad de personas por jefe depende de cuánto puede decidir cada una sin preguntar. Eso se trabaja en [derechos de decisión](../Decidir/derechos-de-decision.md) y [delegación](../Decidir/delegacion.md), no con un número fijo (inferencia de esta base).
 
-> [!NOTE] Sin fuente todavía: un estudio que relacione la amplitud de control con el desempeño de la empresa (Rajan y Wulf, Smeets y colegas, Garicano y Hubbard quedaron identificados sin leer), evidencia sobre cuándo sumar el primer mando medio, y *Blitzscaling* de Hoffman.
+> [!NOTE] Sin fuente todavía: un estudio que relacione el alcance de control con el desempeño de la empresa (Rajan y Wulf, Smeets y colegas, Garicano y Hubbard quedaron identificados sin leer), evidencia sobre cuándo sumar el primer mando medio, y *Blitzscaling* de Hoffman.
 
 ## Ver también
 

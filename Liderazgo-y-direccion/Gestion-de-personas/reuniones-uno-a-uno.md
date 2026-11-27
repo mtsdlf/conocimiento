@@ -47,4 +47,4 @@ En la [incorporación](incorporacion.md), el uno a uno puede ser donde el recié
 
 Nada de los uno a uno se sostuvo con metaanálisis o réplica. La asociación entre calidad de la reunión y compromiso descansa en un estudio de 2026 y la cifra de Gallup, sin método público. La frecuencia y la duración no tienen evidencia. Lo razonable, como inferencia, es cuidar la calidad (que hable la persona, que se trate el trabajo y la relación) antes que la cadencia.
 
-Para leer: el capítulo de Grove sobre las one-on-ones, en el libro y no en resúmenes, para el para qué. Para la evidencia, Gray y colegas (2026), con la salvedad de que es un solo estudio autorreportado.
+Para leer: el capítulo de Grove sobre los uno a uno, en el libro y no en resúmenes, para el para qué. Para la evidencia, Gray y colegas (2026), con la salvedad de que es un solo estudio autorreportado.

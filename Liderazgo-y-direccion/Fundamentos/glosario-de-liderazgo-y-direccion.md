@@ -21,7 +21,7 @@ revisado:
 
 Los términos que usan las notas de Liderazgo y dirección, cada uno con una definición corta y la nota que lo desarrolla, agrupados por la parte del tema donde se tratan.
 
-Lo que va entre comillas es literal; «formulación de esta base» marca lo que no sale de una fuente. Los términos de mecanismo (metas, motivación, sesgos) están en el [glosario de Psicología](../../Psicologia/Fundamentos/glosario-de-psicologia.md), y los de conversar, en el tema Comunicación, todavía sin escribir.
+Lo que va entre comillas es literal; «formulación de esta base» marca lo que no sale de una fuente. Los términos de mecanismo (metas, motivación, sesgos) están en el [glosario de Psicología](../../Psicologia/Fundamentos/glosario-de-psicologia.md).
 
 ## Liderar, dirigir y cómo se estudia
 
@@ -29,14 +29,14 @@ Lo que va entre comillas es literal; «formulación de esta base» marca lo que 
 |---|---|
 | [Liderar](../liderazgo-y-direccion.md) | Influir en otras personas hacia un trabajo compartido; para Kotter, «coping with change». |
 | [Dirigir](../liderazgo-y-direccion.md) | Fijar el rumbo, organizar el trabajo y hacer que se cumpla; para Kotter, «coping with complexity». |
-| [Jefe](../liderazgo-y-direccion.md) | Quien tiene gente a cargo (formulación de esta base). |
+| [Jefe](../liderazgo-y-direccion.md) | Quien tiene gente a cargo (formulación de esta base). «Gerente» nombra la muestra de un estudio. |
 | [Equipo directivo](../Rol-del-CEO/equipo-directivo.md) | Quienes dirigen la empresa con el CEO (*top management team*). |
 | [Gestión basada en evidencia](escuelas-de-liderazgo-y-direccion.md) | Decidir con la mejor evidencia disponible (Rousseau); disputada como modelo. |
 | [Contingencia](escuelas-de-liderazgo-y-direccion.md) | No hay una estructura mejor: depende de la tecnología y el entorno. |
 | [Dirección por objetivos (MBO)](escuelas-de-liderazgo-y-direccion.md) | Objetivos acordados entre jefe y subordinado que guían la evaluación (Drucker). |
 | [Efecto Hawthorne](mitos-de-liderazgo.md) | Cambio de conducta por saberse observado; la evidencia original no lo sostiene. |
 | [Romance del liderazgo](escuelas-de-liderazgo-y-direccion.md) | Atribuir los resultados al líder, más cuanto más extremos son (Meindl). |
-| [Sesgo de supervivencia](escuelas-de-liderazgo-y-direccion.md) | Mirar solo a las empresas sobrevivientes hace parecer buenas prácticas riesgosas (Denrell). |
+| [Sesgo de supervivencia](escuelas-de-liderazgo-y-direccion.md) | Mirar solo a los sobrevivientes hace parecer buenas prácticas riesgosas (Denrell). |
 | [Endogeneidad](fundamentos-de-liderazgo-y-direccion.md) | Que causa y efecto se influyan entre sí o dependan de algo omitido (formulación de esta base). |
 | [Sesgo de método común](fundamentos-de-liderazgo-y-direccion.md) | Correlación inflada porque la misma persona califica al jefe y al resultado. |
 | [Redundancia de constructos](../Liderar-personas/teorias-del-liderazgo.md) | Estilos con nombres distintos que miden casi lo mismo (Banks et al.). |
@@ -48,9 +48,10 @@ Lo que va entre comillas es literal; «formulación de esta base» marca lo que 
 | [Enfoque de rasgos](../Liderar-personas/teorias-del-liderazgo.md) | Qué características personales se asocian al liderazgo. |
 | [Emergencia y eficacia](../Liderar-personas/teorias-del-liderazgo.md) | Quién llega a líder y qué tan bien lidera: dos preguntas distintas. |
 | [Tarea y relación](../Liderar-personas/teorias-del-liderazgo.md) | Las dos familias de conducta del jefe: estructura inicial y consideración. |
-| [Liderazgo situacional](../Liderar-personas/teorias-del-liderazgo.md) | La eficacia depende de la situación (Fiedler, path-goal, Hersey-Blanchard). |
+| [Contingencia en liderazgo](../Liderar-personas/teorias-del-liderazgo.md) | El estilo eficaz depende de la situación (Fiedler, camino-meta, Hersey-Blanchard). |
 | [Liderazgo auténtico, ético y de servicio](../Liderar-personas/teorias-del-liderazgo.md) | Estilos basados en valores; se solapan con el transformacional. |
 | [LMX](../Liderar-personas/teorias-del-liderazgo.md) | Calidad de la relación entre el jefe y cada persona (intercambio líder-miembro). |
+| [Conducta de ciudadanía](../Liderar-personas/teorias-del-liderazgo.md) | Ayuda a la organización fuera del puesto (formulación de esta base). |
 | [Liderazgo transformacional](../Liderar-personas/liderazgo-transformacional.md) | Inspirar y movilizar más allá del interés inmediato; validez .44 (Judge y Piccolo). |
 | [Liderazgo transaccional](../Liderar-personas/liderazgo-transformacional.md) | Recompensas a cambio de desempeño; la recompensa contingente correlaciona .39. |
 | [Laissez-faire](../Liderar-personas/liderazgo-transformacional.md) | La ausencia de liderazgo; correlación -.37 con eficacia. |
@@ -67,7 +68,7 @@ Lo que va entre comillas es literal; «formulación de esta base» marca lo que 
 | [Condiciones de Hackman](../Equipos-y-cultura/equipos-efectivos.md) | Equipo real, dirección convincente, estructura habilitante, contexto de apoyo y coaching. |
 | [Inteligencia colectiva](../Equipos-y-cultura/equipos-efectivos.md) | Factor general de desempeño de un grupo en muchas tareas; en disputa. |
 | [Conflicto de tarea y de relación](../Equipos-y-cultura/conflicto-en-equipos.md) | Desacuerdo sobre el trabajo y choque personal; que el primero sea bueno no es regla. |
-| [Falacia de escalar equipos](../Equipos-y-cultura/tamano-y-composicion.md) | Cuanto más grande el equipo, más se subestiman las horas de un proyecto (Staats et al.). |
+| [Falacia de escalar equipos](../Equipos-y-cultura/tamano-y-composicion.md) | Cuanto más grande el equipo, más se subestiman las horas de un proyecto (Staats). |
 | [Cultura organizacional](../Equipos-y-cultura/cultura-organizacional.md) | Supuestos y normas compartidos en una organización; la definición de Schein no se verificó. |
 | [Valores en competencia](../Equipos-y-cultura/cultura-organizacional.md) | Tipos de cultura como clan, adhocracia y mercado; su estructura interna no se sostuvo. |
 
@@ -116,7 +117,7 @@ Lo que va entre comillas es literal; «formulación de esta base» marca lo que 
 |---|---|
 | [CEO «leader» y «manager»](../Rol-del-CEO/que-hace-un-ceo.md) | Dos usos del tiempo: reuniones amplias de alto nivel o individuales con cada función (Bandiera et al.). |
 | [Desajuste](../Rol-del-CEO/que-hace-un-ceo.md) | Pérdida de productividad porque el tipo de CEO no encaja con la empresa. |
-| [Efecto CEO](../Rol-del-CEO/que-hace-un-ceo.md) | Parte del desempeño atribuible al CEO; las estimaciones van de casi nada a una parte grande según el método. |
+| [Efecto CEO](../Rol-del-CEO/que-hace-un-ceo.md) | Parte del desempeño atribuible al CEO; en disputa según el método. |
 | [Roles gerenciales](../Rol-del-CEO/que-hace-un-ceo.md) | Los diez roles de Mintzberg: interpersonales, de información y de decisión. |
 | [Founder mode](../Rol-del-CEO/founder-mode.md) | Que el fundador siga en el detalle al crecer (Graham, Chesky); práctica sin estudio. |
 | [Escalones superiores](../Rol-del-CEO/equipo-directivo.md) | La organización refleja cómo ven las cosas sus altos directivos (Hambrick). |

@@ -37,7 +37,7 @@ Un path analysis metaanalítico del mismo trabajo apoyó que el efecto pasa por 
 
 ## Por qué la evidencia es más débil de lo que parece
 
-Casi todo el metaanálisis de Slemp es correlacional y con un solo informante: la misma persona dice cuánto la apoya su jefe y cuán motivada está. La causalidad la sostiene un modelo estadístico, no experimentos. Es el problema que Antonakis y colegas (2010) señalaron para todo el campo, contado en [liderazgo transformacional](liderazgo-transformacional.md).
+Casi todo el metaanálisis de Slemp es correlacional y con un solo informante: la misma persona dice cuánto la apoya su jefe y cuán motivada está. La causalidad la sostiene un modelo estadístico, no experimentos. Es el problema que Antonakis y colegas (2010) señalaron para todo el campo, contado en [Fundamentos](../Fundamentos/fundamentos-de-liderazgo-y-direccion.md).
 
 > [!NOTE] Sin fuente todavía: experimentos en equipos reales que prueben que entrenar a un jefe en apoyo a la autonomía cambia la motivación o el desempeño de su gente.
 

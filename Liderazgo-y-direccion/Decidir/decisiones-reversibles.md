@@ -10,7 +10,7 @@ fuentes:
   - "Denrell (2003), Vicarious Learning, Undersampling of Failure, and the Myths of Management, Organization Science 14(3) (abstract): https://doi.org/10.1287/orsc.14.2.227.15164"
   - "Liderazgo-y-direccion/.investigacion/decidir-y-ejecucion.md"
   - "Liderazgo-y-direccion/.investigacion/posicion-contraria.md"
-aliases: [decisión reversible, decisiones irreversibles, puerta de un sentido, puerta de ida y vuelta, one-way door, two-way door, decisiones de tipo 1 y tipo 2, Type 1 and Type 2 decisions, disagree and commit, regla del 70 %, decidir rápido, velocidad de decisión]
+aliases: [decisión reversible, decisiones irreversibles, puerta de una vía, puerta de dos vías, puerta de un sentido, puerta de ida y vuelta, one-way door, two-way door, decisiones de tipo 1 y tipo 2, Type 1 and Type 2 decisions, disagree and commit, regla del 70 %, decidir rápido, velocidad de decisión]
 creado: 2026-11-27
 revisado:
 ---
@@ -21,7 +21,7 @@ Las decisiones reversibles son las que se pueden deshacer a bajo costo, y la ide
 
 Es la tercera pregunta de [Decidir](decidir.md): qué tan rápido. Se cruza, en la lectura de la base, con las otras dos que vienen antes. Una decisión reversible se puede [delegar](delegacion.md) con menos riesgo, y una irreversible pide repartir bien quién opina y quién veta, que es el tema de [derechos de decisión](derechos-de-decision.md). Juzgar después si la decisión fue buena es asunto de [calidad de decisión](calidad-de-decision.md).
 
-## Puertas de un sentido y de ida y vuelta
+## Puertas de una vía y de dos vías
 
 La distinción está en la carta de Bezos a los accionistas de Amazon de 2015, publicada en 2016. Las citas salen de un extractor y no de la carta entera. Bezos separa dos tipos:
 
@@ -52,9 +52,9 @@ El estudio es inductivo: ocho empresas de una industria en los años 80, para ge
 
 El estado de la regla de Bezos es **sin evidencia directa**: no se la refutó, nadie la puso a prueba. Dos cosas piden cuidado al usarla.
 
-La primera es de dónde viene. Es el consejo de quien dirigió una empresa que sobrevivió. Denrell (2003) mostró con un modelo formal que mirar solo a los sobrevivientes hace parecer beneficiosas prácticas riesgosas que no se relacionan con el desempeño en toda la población. Eso no prueba que la regla sea falsa; obliga a tratarla como práctica.
+La primera es de dónde viene. Es el consejo de quien dirigió una empresa que sobrevivió. Denrell (2003) mostró con un modelo formal (el sesgo de supervivencia que cuenta [escuelas](../Fundamentos/escuelas-de-liderazgo-y-direccion.md)) que mirar solo a los sobrevivientes hace parecer beneficiosas prácticas riesgosas que no se relacionan con el desempeño en toda la población. Eso no prueba que la regla sea falsa; obliga a tratarla como práctica.
 
-La segunda es la escala. Las cartas hablan de una organización grande, donde el riesgo es el exceso de proceso. Según la lectura del informe de investigación, en una empresa chica el riesgo habitual es tratar todo como puerta de un sentido; no hay estudio que diga cuál de los dos errores es más común a ese tamaño.
+La segunda es la escala. Las cartas hablan de una organización grande, donde el riesgo es el exceso de proceso. Según la lectura del informe de investigación, en una empresa chica el riesgo habitual es tratar todo como puerta de una vía; no hay estudio que diga cuál de los dos errores es más común a ese tamaño.
 
 > [!NOTE] Sin fuente todavía: evidencia sobre qué error cometen más las empresas de 2 a 50 personas, decidir demasiado rápido lo irreversible o demasiado lento lo reversible.
 
@@ -66,4 +66,4 @@ La base arma esta práctica a partir de las cartas, y conviene preguntar antes d
 2. Si no tiene vuelta (una contratación clave, un socio, una inversión grande, un cambio de precio que no se puede revertir con los clientes), tomate el tiempo, consultá y escribí por qué decidiste.
 3. Si hay desacuerdo y la decisión es reversible, pedí «disagree and commit» y fijá cuándo se revisa.
 
-Los ejemplos del paso 2, escribir el porqué y fijar la revisión del paso 3 son de la base, no de Bezos. Escribir el porqué y revisar después enlaza con [calidad de decisión](calidad-de-decision.md), donde las revisiones posteriores sí tienen evidencia. Por qué la confianza en un juicio rápido no garantiza que sea bueno lo explica [intuición experta](../../Psicologia/Juicio-y-decision/intuicion-experta.md), en Psicología.
+Los ejemplos del paso 2, escribir el porqué y fijar la revisión del paso 3 son de la base, no de Bezos. Escribir el porqué y revisar después enlaza con [calidad de decisión](calidad-de-decision.md), donde las revisiones después de la acción sí tienen evidencia. Por qué la confianza en un juicio rápido no garantiza que sea bueno lo explica [intuición experta](../../Psicologia/Juicio-y-decision/intuicion-experta.md), en Psicología.

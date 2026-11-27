@@ -27,7 +27,7 @@ Bloom, Liang, Roberts y Ying (2015) hicieron un experimento en Ctrip, una empres
 
 El estudio es de un solo tipo de trabajo, con tareas fáciles de medir y con voluntarios. La cifra del 13 % no se puede llevar a otras tareas.
 
-Bloom, Han y Liang (2024) probaron el híbrido en un ensayo aleatorizado de seis meses con 1.612 empleados de una empresa tecnológica china, en 2021 y 2022. Según el abstract, el híbrido «improved job satisfaction and reduced quit rates by one-third». La baja de renuncias fue significativa en quienes no eran gerentes, en las mujeres y en quienes tenían traslados largos. El híbrido no cambió las calificaciones de desempeño de las dos revisiones siguientes, ni los ascensos, ni las líneas de código de los ingenieros.
+Bloom, Han y Liang (2024) probaron el híbrido en un ensayo aleatorizado de seis meses con 1.612 empleados de una empresa tecnológica china, en 2021 y 2022. Según el abstract, el híbrido «improved job satisfaction and reduced quit rates by one-third». La baja de renuncias fue significativa en quienes no eran jefes, en las mujeres y en quienes tenían traslados largos. El híbrido no cambió las calificaciones de desempeño de las dos revisiones siguientes, ni los ascensos, ni las líneas de código de los ingenieros.
 
 El metaanálisis de Gajendran y Harrison (2007), con 46 estudios y 12.883 empleados, va en la misma dirección. Según su abstract, el teletrabajo tuvo efectos pequeños y mayormente buenos en autonomía percibida, conflicto entre trabajo y familia, satisfacción, desempeño e intención de renunciar, sin un daño general a las relaciones laborales. Pero con más de 2,5 días por semana empeoraban las relaciones con los compañeros. Son datos previos a la pandemia, de teletrabajo mayormente voluntario.
 
@@ -40,7 +40,7 @@ Emanuel, Harrington y Pallais (2023) miraron a los ingenieros de software de una
 ## La disputa: ¿el remoto cuesta o no?
 
 > [!IMPORTANT]
-> **El remoto y el híbrido no cuestan desempeño medible y retienen gente (Bloom y colegas 2015 y 2024; Gajendran y Harrison 2007).** Dos experimentos aleatorizados y un metaanálisis encuentran más satisfacción y menos renuncias, con desempeño igual o mejor. En el ensayo de 2024, los 395 gerentes cambiaron de opinión: antes estimaban un efecto negativo en la productividad (−2,6 % en promedio) y después uno positivo (+1,0 %).
+> **El remoto y el híbrido no cuestan desempeño medible y retienen gente (Bloom y colegas 2015 y 2024; Gajendran y Harrison 2007).** Dos experimentos aleatorizados y un metaanálisis encuentran más satisfacción y menos renuncias, con desempeño igual o mejor. En el ensayo de 2024, los 395 jefes cambiaron de opinión: antes estimaban un efecto negativo en la productividad (−2,6 % en promedio) y después uno positivo (+1,0 %).
 >
 > **La distancia cuesta colaboración, feedback y mentoría (Yang y colegas 2022; Emanuel, Harrington y Pallais 2023).** Microsoft perdió vínculos entre grupos, y los ingenieros lejos de su equipo recibieron menos feedback, con un costo en su desarrollo a largo plazo. Ctrip ya mostraba menos ascensos a igual desempeño.
 >
@@ -50,7 +50,7 @@ Lo que cayó es la regla general de que el remoto baja la productividad. Lo meno
 
 ## Dirigir a distancia: casi sin evidencia
 
-Sobre qué hace distinto quien dirige a distancia hay muy poco verificado. Lo único es que los gerentes del experimento de 2024 cambiaron de opinión después de verlo, y que en Ctrip trabajar desde casa costó ascensos. No se encontró literatura sobre las prácticas de un jefe a distancia: cómo correr las reuniones, qué medir, cómo sostener la confianza.
+Sobre qué hace distinto quien dirige a distancia hay muy poco verificado. Lo único es que los jefes del experimento de 2024 cambiaron de opinión después de verlo, y que en Ctrip trabajar desde casa costó ascensos. No se encontró literatura sobre las prácticas de un jefe a distancia: cómo correr las reuniones, qué medir, cómo sostener la confianza.
 
 > [!NOTE] Sin fuente todavía: estudios sobre prácticas de dirección a distancia (reuniones, medición, confianza), y cualquier estudio de remoto o híbrido en empresas de 2 a 50 personas.
 

@@ -52,7 +52,7 @@ Dos preguntas siguen abiertas además de la causa. Una es el nivel: si es un ras
 
 ## De dónde salió la fama y qué tiene de mito
 
-La seguridad psicológica se volvió popular por el Proyecto Aristóteles de Google, que la puso primera entre cinco dinámicas de equipos efectivos: seguridad psicológica, confiabilidad, estructura y claridad, significado e impacto. El estudio es interno, sin método publicado, y su fuente es una guía de la empresa ([equipos efectivos](equipos-efectivos.md) lo cuenta). Según resúmenes secundarios, un analista de Google la llamó «far and away» lo más importante; la guía la lista primera, pero no se encontró una frase que diga que es lo único. La versión «es lo único que importa» está en [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md).
+La seguridad psicológica se volvió popular por el Proyecto Aristóteles de Google, que la puso primera entre cinco dinámicas de equipos efectivos. El estudio es interno, sin método publicado, y su fuente es una guía de la empresa ([equipos efectivos](equipos-efectivos.md) lo cuenta). Según resúmenes secundarios, un analista de Google la llamó «far and away» lo más importante; la guía la lista primera, pero no se encontró una frase que diga que es lo único. La versión «es lo único que importa» está en [mitos de liderazgo](../Fundamentos/mitos-de-liderazgo.md).
 
 Hoy Aristóteles es una ilustración. El respaldo de la seguridad psicológica viene del metaanálisis de Frazier y del trabajo de Edmondson.
 

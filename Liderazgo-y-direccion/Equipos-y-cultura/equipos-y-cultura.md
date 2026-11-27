@@ -70,3 +70,5 @@ En una empresa chica el equipo y la organización casi coinciden. El equipo dire
 - [Trabajo remoto e híbrido](trabajo-remoto-e-hibrido.md): los experimentos de Bloom contra los costos de colaboración y mentoría que miden otros estudios.
 
 La organización de equipos de software (tipos de equipo, límites, modos de interacción) está en [Organización de equipos](../../Platform-Engineering/Organizacion-de-equipos/organizacion-de-equipos.md), en Platform Engineering.
+
+Los términos de esta parte están en el [glosario del tema](../Fundamentos/glosario-de-liderazgo-y-direccion.md), y cómo se lee una cifra de un estudio, en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).

@@ -45,7 +45,7 @@ Varios comparten un origen: una cifra redonda de una consultora o un caso exitos
 | La gente no deja empresas, deja jefes | Se achicó; mal citado | [Rotación y salidas](../Gestion-de-personas/rotacion-y-salidas.md) |
 | Un buen jefe multiplica por diez | Se achicó | [Liderar personas](../Liderar-personas/liderar-personas.md) |
 | El mejor en su puesto será el mejor jefe | Cayó | [Pasar a liderar](../Liderar-personas/pasar-a-liderar.md) |
-| Los seis estilos de Goleman | Sin estudio publicado encontrado | [Teorías del liderazgo](../Liderar-personas/teorias-del-liderazgo.md) |
+| Los seis estilos de Goleman | Sin estudio publicado encontrado | [Más abajo](#los-seis-estilos-de-goleman); ninguna otra nota los usa |
 | El 70 % de los cambios fracasa | Cayó | [Gestión del cambio](../Ejecucion/gestion-del-cambio.md) |
 | Descongelar, cambiar, recongelar es de Lewin | Cayó la atribución | [Gestión del cambio](../Ejecucion/gestion-del-cambio.md) |
 | Aristóteles probó que solo importa la seguridad psicológica | Se achicó | [Seguridad psicológica](../Equipos-y-cultura/seguridad-psicologica.md) |
@@ -61,7 +61,7 @@ Lo heredable es llegar a ocupar un puesto de líder, no liderar bien. De Neve y 
 
 ## La gente no deja empresas, deja jefes
 
-La frase viene de Gallup y mezcla dos datos. Uno, según un resumen, es que «one in two» de 7.272 adultos de EE. UU. dejó alguna vez un trabajo para alejarse de su jefe: es de toda la carrera y autoinformado. El otro, que los jefes explican «at least 70%» de la varianza del engagement, es sobre engagement y no sobre renuncias, y el titular de la nota lo redondea a 70 %. No se encontró la metodología ni los datos de Gallup.
+La frase viene de Gallup y mezcla dos datos. Uno, según un resumen, es que «one in two» de 7.272 adultos de EE. UU. dejó alguna vez un trabajo para alejarse de su jefe: es de toda la carrera y autoinformado. El otro, que los jefes explican «at least 70%» de la varianza del compromiso (engagement), es sobre compromiso y no sobre renuncias; el titular de la nota lo redondea a 70 % y su resumen dice «up to». No se encontró la metodología ni los datos de Gallup.
 
 El jefe sí pesa. Lazear y colegas (2015) hallaron que «Workers assigned to better bosses are less likely to leave the firm». Una reseña de 39 trabajos (2026), según su nota de prensa, concluye que la rotación resulta «of both leadership and organisational conditions, not managers alone».
 
@@ -79,7 +79,7 @@ El artículo de HBR (2000) atribuye los seis estilos a una investigación de la 
 
 ## El 70 % de los cambios fracasa
 
-Hughes (2011) revisó cinco casos publicados que dan la cifra y concluyó «the absence of valid and reliable empirical evidence in support of the espoused 70 per cent failure rate». Cândido y Santos (2015) agregan que las estimaciones se basan en evidencia «outdated, fragmentary, fragile or just absent». Que cambiar cuesta sigue en pie, sin número.
+Hughes (2011) revisó cinco instancias publicadas de la cifra y concluyó «the absence of valid and reliable empirical evidence in support of the espoused 70 per cent failure rate». Cândido y Santos (2015) agregan que las estimaciones se basan en evidencia «outdated, fragmentary, fragile or just absent». Que cambiar cuesta sigue en pie, sin número.
 
 ## Descongelar, cambiar, recongelar es de Lewin
 

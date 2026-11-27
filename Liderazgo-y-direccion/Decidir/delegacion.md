@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Delegar es pasarle a otra persona la autoridad para decidir sobre un área, y no solo la tarea. La academia lo estudia como liderazgo empoderador: un metaanálisis de 105 muestras lo asocia con más desempeño, conducta cívica y creatividad, pero, según un metaanálisis posterior, el efecto varía por cultura, y delegar también puede cargar a quien recibe.
+  Delegar es pasarle a otra persona la autoridad para decidir sobre un área, y no solo la tarea. La academia lo estudia como liderazgo empoderador: un metaanálisis de 105 muestras lo asocia con más desempeño, conducta de ciudadanía y creatividad, pero, según un metaanálisis posterior, el efecto varía por cultura, y delegar también puede cargar a quien recibe.
 estado: borrador
 estabilidad: semi
 fuentes:
@@ -20,7 +20,7 @@ revisado:
 
 # Delegación
 
-Delegar es pasarle a otra persona la autoridad para decidir sobre un área, y no solo la tarea. La academia lo estudia como liderazgo empoderador: un metaanálisis de 105 muestras lo asocia con más desempeño, conducta cívica y creatividad, pero, según un metaanálisis posterior, el efecto varía por cultura, y delegar también puede cargar a quien recibe.
+Delegar es pasarle a otra persona la autoridad para decidir sobre un área, y no solo la tarea. La academia lo estudia como liderazgo empoderador: un metaanálisis de 105 muestras lo asocia con más desempeño, conducta de ciudadanía y creatividad, pero, según un metaanálisis posterior, el efecto varía por cultura, y delegar también puede cargar a quien recibe.
 
 Los [derechos de decisión](derechos-de-decision.md) dicen a quién le toca cada decisión; delegar es moverla hacia abajo, de quien dirige a alguien de su equipo. Delegar para que la persona aprenda y crezca es una parte de [desarrollo de personas](../Gestion-de-personas/desarrollo-de-personas.md). En equipos de producto, la misma idea aparece como el [equipo empoderado](../../Producto/Organizacion/equipo-empoderado.md) de la escuela de Cagan, que recibe un problema y elige cómo resolverlo.
 
@@ -41,7 +41,7 @@ La misma conducta del jefe puede ayudar y pesar a la vez. Cheong y colegas (2016
 Cheong y colegas (2019), del mismo grupo, hicieron una revisión narrativa (no un metaanálisis). Según un resumen, encuentran resultados incongruentes y mixtos, y proponen explicaciones: efectos no lineales, causalidad inversa, mecanismos contradictorios y condiciones de borde.
 
 > [!IMPORTANT]
-> **Delegar se asocia con mejor desempeño.** El metaanálisis de Lee, Willis y Tian (105 muestras) reporta asociaciones positivas con desempeño, conducta cívica y creatividad, en personas y en equipos, mediados por la confianza en el jefe.
+> **Delegar se asocia con mejor desempeño.** El metaanálisis de Lee, Willis y Tian (105 muestras) reporta asociaciones positivas con desempeño, conducta de ciudadanía y creatividad, en personas y en equipos, mediados por la confianza en el jefe.
 >
 > **El efecto es mixto y depende del contexto.** Un metaanálisis posterior en chino (Zhang y colegas, 2021), leído de segunda mano, dice que la correlación con el desempeño es más fuerte en muestras de Asia oriental y más débil en las occidentales, y que un sesgo de publicación podría inflar los resultados. Cheong y colegas (2016 y 2019) suman el costo de tensión y los resultados mixtos. La paradoja de las dos caras viene de un solo grupo de autores, sin réplica independiente encontrada.
 

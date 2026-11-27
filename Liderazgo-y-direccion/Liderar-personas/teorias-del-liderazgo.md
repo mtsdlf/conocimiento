@@ -60,7 +60,7 @@ Las teorías de contingencia dicen que el estilo eficaz depende de la situación
 
 - **Fiedler.** Según un resumen, Schriesheim, Tepper y Tetrault (1994) analizaron 1.282 grupos: las conclusiones que comparan unas situaciones con otras no se sostuvieron, pero sí las predicciones de cómo baja el desempeño en cada una. Una tesis doctoral (Crehan 2010), sin revisión de pares, concluyó que el modelo no puede confirmarse ni refutarse.
 - **Hersey-Blanchard (liderazgo situacional).** Su resultado no se pudo verificar. Thompson y Vecchio (2009) pusieron a prueba tres versiones, pero esta base no pudo leer su resultado. Un resumen de buscador, sin verificar en la fuente, dice que trabajos posteriores la citan como poco investigada y con problemas de medición.
-- **Camino-meta.** Wofford y Liska (1993) revisaron 120 estudios: según el abstract, de 16 pruebas de moderación solo 7 cumplieron los criterios, una fue en sentido opuesto al predicho, y buena parte de la investigación tenía fallas de método.
+- **Camino-meta (path-goal).** Wofford y Liska (1993) revisaron 120 estudios: según el abstract, de 16 pruebas de moderación solo 7 cumplieron los criterios, una fue en sentido opuesto al predicho, y buena parte de la investigación tenía fallas de método.
 
 > [!NOTE] Sin fuente todavía: el resultado de Thompson y Vecchio (2009), el texto original de Hersey y Blanchard y una síntesis con cifras de Fiedler revisada por pares.
 
@@ -83,7 +83,7 @@ En las últimas décadas aparecieron estilos que definen al buen líder por su �
 
 ## Por qué ninguna teoría da causas
 
-Antonakis y colegas (2010) revisaron 110 artículos de liderazgo y, según un resumen, los investigadores no atendían entre el 66 % y el 90 % de las condiciones de diseño que permiten afirmar una causa. La crítica dice que con esos diseños no se sabe el efecto real, que puede ser menor, igual o mayor. Una parte grande de lo que se afirma sobre estilos viene de cuestionarios que responde la misma persona que evalúa los resultados. Los estudios que leyó esta base son de organizaciones grandes o de laboratorio; ninguno es de empresas de 2 a 50 personas.
+Antonakis y colegas (2010) revisaron 110 artículos de liderazgo y, según un resumen, los investigadores no atendían al menos el 66 % y hasta el 90 % de las condiciones de diseño que permiten afirmar una causa. La crítica dice que con esos diseños no se sabe el efecto real, que puede ser menor, igual o mayor. Una parte grande de lo que se afirma sobre estilos viene de cuestionarios que responde la misma persona que evalúa los resultados. Los estudios que leyó esta base son de organizaciones grandes o de laboratorio; ninguno es de empresas de 2 a 50 personas.
 
 Lo que sí se puede llevar a una empresa chica es el resultado más estable: lo que el jefe hace con la tarea y con la persona explica más que cómo es, y las dos dimensiones de Ohio State son una lista corta para revisarse. Es una lectura de esta base sobre metaanálisis de organizaciones grandes.
 

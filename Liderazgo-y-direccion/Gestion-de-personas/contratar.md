@@ -36,7 +36,7 @@ Sackett, Zhang, Berry y Lievens (2022) rehicieron las cuentas. Según el abstrac
 | Pruebas de conocimiento del puesto | .48 | .40 |
 | Muestras de trabajo | .54 | .33 |
 | Pruebas de capacidad cognitiva | .51 | .31 |
-| Conscienciosidad (test de personalidad) | .31 | .19 |
+| Responsabilidad (test de personalidad) | .31 | .19 |
 | Entrevista no estructurada | .38 | .19 |
 | Años de experiencia | .18 | .07 |
 
@@ -59,7 +59,7 @@ La tabla también trae las diferencias entre grupos. La diferencia estándar ent
 
 ## Los tests de personalidad predicen poco
 
-Entre los rasgos de personalidad, la conscienciosidad es el que más predice, y predice poco. En la tabla 3, la conscienciosidad general da .19 (lo mismo que una entrevista libre) y medida en el contexto del trabajo, .25; es el único valor sin dispersión entre estudios (desvío de ρ de 0,00). Los demás rasgos quedan cerca de cero: extraversión .10, afabilidad .10, estabilidad emocional .09 y apertura .07. Por qué el MBTI y el eneagrama no sirven para esto está en [tests de personalidad](../../Psicologia/Personalidad/tests-de-personalidad.md).
+Entre los rasgos de personalidad, la responsabilidad (*conscientiousness*) es el que más predice, y predice poco. En la tabla 3, la responsabilidad general da .19 (lo mismo que una entrevista libre) y medida en el contexto del trabajo, .25; es el único valor sin dispersión entre estudios (desvío de ρ de 0,00). Los demás rasgos quedan cerca de cero: extraversión .10, amabilidad .10, estabilidad emocional .09 y apertura .07. Por qué el MBTI y el eneagrama no sirven para esto está en [tests de personalidad](../../Psicologia/Personalidad/tests-de-personalidad.md).
 
 ## Qué se puede hacer con pocas entrevistas
 

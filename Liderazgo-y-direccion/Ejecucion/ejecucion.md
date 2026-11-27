@@ -79,3 +79,5 @@ Casi todo viene de plantas manufactureras medianas y grandes, de laboratorio con
 - [Reuniones](reuniones.md): la ciencia de las reuniones, cuánto tiempo se llevan y las de pie.
 - [Rendición de cuentas](rendicion-de-cuentas.md): cuándo pedir cuentas corrige o amplifica los sesgos, y el responsable con nombre como práctica.
 - [Gestión del cambio](gestion-del-cambio.md): Kotter, Lewin y ADKAR, y por qué el 70 % de cambios que fracasan es un mito.
+
+Los términos de esta parte están en el [glosario del tema](../Fundamentos/glosario-de-liderazgo-y-direccion.md), y cómo se lee una cifra de un estudio, en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).

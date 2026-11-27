@@ -33,7 +33,7 @@ El metaanálisis de Judge y Piccolo compara el transformacional con las dimensio
 
 ## Lo que predice: .44, con la recompensa contingente cerca
 
-Judge y Piccolo (2004) reunieron 626 correlaciones de 87 fuentes. Según el abstract, la validez global del transformacional fue de .44, y se mantuvo en diseños longitudinales y con datos de más de una fuente. La recompensa contingente y el laissez-faire siguieron en fuerza, y la gestión por excepción (activa y pasiva) dio relaciones inconsistentes. El abstract implica que el laissez-faire se relaciona en sentido negativo, pero el texto que leyó esta base no lo dice con ese signo.
+Judge y Piccolo (2004) reunieron 626 correlaciones de 87 fuentes. Según el abstract, la validez global del transformacional fue de .44, y se mantuvo en diseños longitudinales y con datos de más de una fuente. Le siguieron la recompensa contingente (.39) y el laissez-faire (-.37), y la gestión por excepción (activa y pasiva) dio relaciones inconsistentes.
 
 Tres matices del mismo abstract cambian cómo se lee la cifra:
 
@@ -54,7 +54,7 @@ Para una empresa chica, la lectura práctica es que cumplir lo que se promete a 
 
 La crítica se apoya en dos problemas de método que atraviesan el campo. El primero es la redundancia: según un resumen de Banks y colegas (2018), las conductas inspiradoras, las de tarea, las relacionales y las pasivas se solapan, y muchas correlacionan alto con lo que deberían predecir (confianza, LMX, justicia). El auténtico y el transformacional dan ρ = .72 en 100 muestras (Banks y colegas 2016, según un resumen), y Hoch y colegas (2018) encontraron que el ético, el auténtico y el de servicio agregan poco sobre el transformacional; está en [teorías del liderazgo](teorias-del-liderazgo.md).
 
-El segundo es la causalidad. Antonakis y colegas (2010), según un resumen, revisaron 110 artículos de liderazgo y encontraron que los investigadores no atendían entre el 66 % y el 90 % de las condiciones de diseño que permiten afirmar una causa. Una de las fuentes de problema que enumeran es el sesgo de método común: si la misma persona califica al jefe y los resultados, la correlación puede venir de su opinión general del jefe.
+El segundo es la causalidad. Antonakis y colegas (2010), según un resumen, revisaron 110 artículos de liderazgo y encontraron que los investigadores no atendían al menos el 66 % y hasta el 90 % de las condiciones de diseño que permiten afirmar una causa; lo explica [Fundamentos](../Fundamentos/fundamentos-de-liderazgo-y-direccion.md). Una de las fuentes de problema que enumeran es el sesgo de método común: si la misma persona califica al jefe y los resultados, la correlación puede venir de su opinión general del jefe.
 
 > [!NOTE] Sin fuente todavía: cuánto de la correlación con el desempeño sobrevive a controles de endogeneidad, y una fuente verificada sobre las correlaciones entre los factores del MLQ.
 

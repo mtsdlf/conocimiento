@@ -28,7 +28,7 @@ Es el nivel más alto de los tres que recorre [Liderazgo y dirección](../lidera
 
 El trabajo del CEO pasa casi todo por otros. Los estudios que registraron su agenda, desde Mintzberg hasta Bandiera y colegas, encuentran semanas cortadas en reuniones breves con mucha gente. Bandiera y colegas, con 1.114 CEOs, separan dos maneras de usar el tiempo y muestran que rinde la que se ajusta a la empresa, no una mejor para todas.
 
-En una empresa que crece, el CEO toma tres decisiones que no tiene ningún otro jefe. La primera es si el fundador sigue dirigiendo o entra alguien de afuera. La segunda es cuándo dejar de decidir todo y sumar jefes intermedios. La tercera es con quién compartir la dirección y ante quién responder. Cada una tiene un componente propio abajo.
+En una empresa que crece, el CEO toma tres decisiones que no tiene ningún otro jefe. La primera es si el fundador sigue dirigiendo o entra alguien de afuera. La segunda es cuándo dejar de decidir todo y sumar mandos medios. La tercera es con quién compartir la dirección y ante quién responder. Cada una tiene un componente propio abajo.
 
 La tensión más discutida es entre seguir dirigiendo como al principio o delegar. Paul Graham defiende, como práctica, que el fundador siga metido en el detalle; la evidencia sobre fundadores responde que depende de la población y del contexto. Las dos cosas conviven con un dato incómodo: cuánto del resultado se debe al CEO está en disputa.
 
@@ -60,3 +60,5 @@ Lo de practicantes pesa mucho en esta parte: Grove, Horowitz, Graham, Chesky, Le
 - [Escalar la organización](escalar-la-organizacion.md): las etapas de Greiner, lo que encontró Google sobre los jefes y por qué el 150 de Dunbar y un número ideal de personas por jefe no son reglas.
 - [Equipo directivo](equipo-directivo.md): el primer equipo con el que se comparte la dirección, cómo se arma y lo poco que se sabe de cuándo cambiarlo.
 - [Directorio y gobierno](directorio-y-gobierno.md): directorio, consejo asesor y lo que piden la SAS y la SRL en Argentina, solo como límite.
+
+Los términos de esta parte están en el [glosario del tema](../Fundamentos/glosario-de-liderazgo-y-direccion.md), y cómo se lee una cifra de un estudio, en [cómo leer un estudio](../../Psicologia/Fundamentos/como-leer-un-estudio.md).

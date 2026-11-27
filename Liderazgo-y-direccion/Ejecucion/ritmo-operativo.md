@@ -25,11 +25,11 @@ Es la pieza que une las metas con el trabajo de la semana. Las prioridades salen
 
 La investigación de esta base no encontró estudios que comparen cadencias (semanal, mensual, trimestral) ni tipos de tablero. El campo académico no trata el ritmo operativo como tema.
 
-Lo más cercano es el World Management Survey de Bloom y Van Reenen. Según un resumen de NBER, su encuesta puntúa prácticas en tres dimensiones, y dos son el monitoreo del desempeño y la fijación de metas; la tercera son los incentivos y la gestión de personas. Esas prácticas se asocian con productividad en muestras grandes, y el experimento en plantas textiles de la India, según su abstract publicado, «raised average productivity by 11%» al adoptarlas. El detalle está en [de la estrategia al trabajo](de-la-estrategia-al-trabajo.md#la-gestión-importa-lo-que-miden-los-estudios-de-prácticas).
+Lo más cercano es la World Management Survey de Bloom y Van Reenen. Según un resumen de NBER, su encuesta puntúa prácticas en tres dimensiones, y dos son el monitoreo del desempeño y la fijación de metas; la tercera son los incentivos y la gestión de personas. Esas prácticas se asocian con productividad en muestras grandes, y el experimento en plantas textiles de la India, según su abstract publicado, «raised average productivity by 11%» al adoptarlas. El detalle está en [de la estrategia al trabajo](de-la-estrategia-al-trabajo.md#la-gestión-importa-lo-que-miden-los-estudios-de-prácticas).
 
 De ahí sale una lectura indirecta de la base: monitorear y revisar contra metas se asocia con más productividad. Cuál es la frecuencia correcta, cuánto dura cada revisión o qué va en el tablero no está estudiado.
 
-Dos datos más rozan el tema. Bandiera y colegas (2020) midieron la agenda de 1.114 CEOs: las empresas que contratan «líderes», que pasan el tiempo en reuniones amplias de alto nivel, rinden mejor, pero por ajuste con la empresa y no porque ese uso del tiempo sirva a todas (está en [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md)). Sull, Homkes y Sull (2015) recomiendan, según un resumen, «track performance commitments properly» y coordinar entre áreas.
+Dos datos más rozan el tema. Bandiera y colegas (2020) midieron la agenda de 1.114 CEOs: las empresas que contratan «leaders», que pasan el tiempo en reuniones amplias de alto nivel, rinden mejor, pero por ajuste con la empresa y no porque ese uso del tiempo sirva a todas (está en [qué hace un CEO](../Rol-del-CEO/que-hace-un-ceo.md)). Sull, Homkes y Sull (2015) recomiendan, según un resumen, «track performance commitments properly» y coordinar entre áreas.
 
 ## Lo que proponen los practicantes
 
