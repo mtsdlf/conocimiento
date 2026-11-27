@@ -22,7 +22,10 @@ fuentes:
   - "ARCA, Régimen general, personas humanas, Qué es y Procedimiento: https://www.arca.gob.ar/regimenGeneral/inscripcion/personas-humanas/procedimiento.asp"
   - "ARCA, Autónomos, Inscripción y desarrollo de la actividad: https://www.arca.gob.ar/autonomos/inscripcion/inscripcion.asp"
   - "Decreto 953/2024 (BO 25/10/2024), biblioteca de ARCA: https://biblioteca.afip.gob.ar/dcp/DEC_C_000953_2024_10_24"
+  - "RG ARCA 5893/2026 (BO 31/08/2026), arts. 2, 3 y 5: https://www.boletinoficial.gob.ar/detalleAviso/primera/346598/20260831"
+  - "RG ARCA 5803/2025, Anexos I a III, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/420000-424999/421823/norma.htm"
   - "Emprender/.investigacion/inscripcion-en-arca.md (2026-11-27)"
+  - "Emprender/.investigacion/argentina-puntos-abiertos.md (2026-11-27)"
 aliases: [inscripción en ARCA, inscribirse en ARCA, inscripción en AFIP, alta en ARCA, CUIT, CUIT digital, obtener la CUIT, Clave Única de Identificación Tributaria, clave fiscal, nivel de clave fiscal, RG 5803, RG 5048, Registro Único Tributario, RUT, Sistema Registral, alta de impuestos, F. 460/E, F. 420/T, CLAE, F. 883, punto de venta, adhesión al monotributo, Portal Monotributo, CDI, CUIL, administrador de relaciones]
 creado: 2026-11-27
 revisado:
@@ -114,7 +117,7 @@ Lo que pesa al elegir, cuando se puede, está en el [encuadre fiscal y prevision
 | Comprobante | Factura C (E si exporta) | Factura A o B según el cliente (E si exporta) |
 | Revisión de la categoría | Febrero y agosto | La de autónomos, en mayo (el IVA y Ganancias no tienen categoría) |
 
-La tabla junta las páginas de ARCA de monotributo, régimen general y autónomos; que el IVA se liquide por mes sale de la nota del IVA y la letra de la factura, de la nota de factura electrónica. El IVA mensual está en [IVA en Argentina](../../Impuestos/Impuestos-al-consumo/iva-en-argentina.md#liquidación-mensual-y-saldos) y Ganancias, con su período y sus anticipos, en [Ganancias en Argentina](../../Impuestos/Impuestos-a-la-renta/ganancias-en-argentina.md); qué letra lleva cada comprobante, en [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md#qué-letra-lleva-cada-comprobante).
+La tabla junta las páginas de ARCA de monotributo, régimen general y autónomos; que el IVA se liquide por mes sale de la nota del IVA y la letra de la factura, de la nota de factura electrónica. El IVA mensual está en [IVA en Argentina](../../Impuestos/Impuestos-al-consumo/iva-en-argentina.md#liquidación-mensual-y-saldos) y Ganancias, con su declaración anual y sus anticipos, en [Ganancias de personas humanas en Argentina](../../Impuestos/Impuestos-a-la-renta/ganancias-de-personas-humanas-en-argentina.md); qué letra lleva cada comprobante, en [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md#qué-letra-lleva-cada-comprobante).
 
 Quien además tiene un empleo en relación de dependencia y aporta por él tiene una razón más para el monotributo: ahí no paga el componente jubilatorio (Ley 24.977, Anexo, art. 40, inc. 4), mientras que como autónomo aporta por las dos actividades. El detalle está en [autónomos y SIPA en Argentina](autonomos-y-sipa-en-argentina.md#empleado-jubilado-y-autónomo-a-la-vez).
 
@@ -144,7 +147,7 @@ La adhesión hecha en el mes en que empieza la actividad rige desde ese día; en
 
 ## El punto de venta
 
-Para facturar hay que dar de alta un punto de venta, «un código de 4 o 5 dígitos que identifica el método de facturación», en el Registro Único Tributario, donde también se elige el sistema de facturación; cada método lleva su propio punto de venta (ARCA, Monotributo, Cómo facturo). Los monotributistas emiten comprobantes electrónicos tipo C, salvo en la exportación, que va con la E. Cómo funciona la factura electrónica y qué letra corresponde a cada caso está en [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md).
+Para facturar hay que dar de alta un punto de venta, «un código de 4 o 5 dígitos que identifica el método de facturación», en el Registro Único Tributario, donde también se elige el sistema de facturación; cada método lleva su propio punto de venta (ARCA, Monotributo, Cómo facturo). Los monotributistas emiten comprobantes electrónicos tipo C, salvo en la exportación, que va con la E. Desde el 1 de noviembre de 2026, todo monotributista, incluidos el social y los efectores, tiene que emitir comprobante electrónico o con controlador fiscal, y a quien no tiene punto de venta ARCA se lo habilita de oficio en «Comprobantes en línea», con la opción «Factura en línea - Monotributo» y el domicilio fiscal declarado (RG ARCA 5893/2026, arts. 2, 3 y 5, BO 31/08/2026); el talonario en papel queda solo para contingencias. Cómo funciona la factura electrónica y qué letra corresponde a cada caso está en [factura electrónica de ARCA](../../Comercio-electronico/Normativa/factura-electronica-de-arca.md). Quien se inscribe en IVA y pide por primera vez emitir la factura A pasa por unos requisitos que, si no los cumple, lo obligan a emitir la A con leyenda; cuáles son está en [factura A con leyenda en Argentina](../../Impuestos/Recaudacion-en-la-fuente/factura-a-con-leyenda-en-argentina.md#quién-queda-marcado-y-cómo-sale).
 
 ## Ingresos Brutos queda del lado de la provincia
 
@@ -156,4 +159,4 @@ Ingresos Brutos es un impuesto provincial y ARCA no lo administra, salvo en el m
 ## Pendiente de verificar
 
 > [!NOTE]
-> Sin fuente todavía: el nivel de clave fiscal que pide el alta en el régimen general; si el art. 6 de la RG 4309/2018 que se leyó es el texto actualizado; los Anexos de la RG 5803/2025; la norma que regula hoy el domicilio fiscal electrónico. La RG ARCA 5893/2026 sobre facturación electrónica, que cita la [normativa para empezar en Argentina](normativa-para-empezar-en-argentina.md#facturación-electrónica) a partir de una síntesis secundaria, no se encontró en el sitio de ARCA, que destaca como novedad la RG 5866/2026.
+> Sin fuente todavía: el nivel de clave fiscal que pide el alta en el régimen general; si el art. 6 de la RG 4309/2018 que se leyó es el texto actualizado; y la norma que regula hoy el domicilio fiscal electrónico. Los Anexos de la RG 5803/2025 se leyeron y tratan solo de personas jurídicas y de la CDI de entidades: nada cambia para la persona humana.

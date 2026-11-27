@@ -19,7 +19,13 @@ fuentes:
   - "ARCA, guía paso a paso, Trabajadores autónomos: cómo me categorizo y cómo efectúo la recategorización anual, PDF: https://www.arca.gob.ar/guias/paso-a-paso/Autonomos-como-me-categorizo-como-efectio-recategorizacion-anual.pdf"
   - "Resolución ANSES 304/2026, BO 28/10/2026: https://www.boletinoficial.gob.ar/detalleAviso/primera/349684/20261028"
   - "argentina.gob.ar, Vencimientos (noviembre de 2026): https://www.argentina.gob.ar/node/437875"
+  - "Ley 23.661, art. 5, texto actualizado, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/63/texact.htm"
+  - "Ley 26.682, art. 1, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/182180/texact.htm"
+  - "Superintendencia de Servicios de Salud, Afiliación y Voluntarios (leídas el 2026-11-27): https://www.argentina.gob.ar/sssalud/usuarios/afiliacion/voluntarios"
+  - "RG AFIP 4172/2017 (BO 26/12/2017), texto y Anexo, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/305000-309999/305148/texact.htm"
+  - "Ley 24.476, art. 13, InfoLEG: https://servicios.infoleg.gob.ar/infolegInternet/anexos/30000-34999/30341/texact.htm"
   - "Emprender/.investigacion/autonomos-y-sipa.md (2026-11-27)"
+  - "Emprender/.investigacion/argentina-puntos-abiertos.md (2026-11-27)"
 aliases: [autónomos, trabajador autónomo, régimen de autónomos, aportes de autónomos, SIPA, Sistema Integrado Previsional Argentino, Ley 24.241, categorías de autónomos, renta de referencia, recategorización de autónomos, Decreto 1866/2006, RG 2217, CRA, Código de Registro Autónomo, empadronamiento autónomos]
 creado: 2026-11-27
 revisado:
@@ -56,7 +62,7 @@ El aporte tiene dos partes, y las dos se calculan sobre la renta de referencia d
 
 Las cuotas que publica ARCA son exactamente el 32 % de la renta de referencia: en noviembre de 2026, la renta de la categoría I es $ 249.319,39 y la cuota, $ 79.782,20 (cálculo de esta base sobre el PDF de ARCA).
 
-El aporte no incluye obra social. La Ley 23.660 pone como beneficiarios obligatorios de las obras sociales a los empleados, a los jubilados y a quienes cobran prestaciones no contributivas (art. 8), no a los autónomos. Un autónomo que quiere cobertura de salud la paga aparte; si puede adherir a una obra social de forma voluntaria no se verificó. Según ARCA, el régimen da acceso a las mismas prestaciones de la seguridad social que el empleo en relación de dependencia, «excepto las asignaciones familiares».
+El aporte no incluye obra social. La Ley 23.660 pone como beneficiarios obligatorios de las obras sociales a los empleados, a los jubilados y a quienes cobran prestaciones no contributivas (art. 8), no a los autónomos. La Ley 23.661 incluye a los autónomos en el seguro de salud «con las condiciones, modalidades y aportes que fija la reglamentación» (art. 5, inc. b), pero no se encontró una reglamentación que les fije un aporte; solo hay un régimen transitorio de 1989 (Resolución INOS 40/1989). La Superintendencia de Servicios de Salud tiene cinco formas de afiliación (relación de dependencia, pasivos, monotributistas, monotributo social y voluntarios) y ninguna para el autónomo. Quien quiere cobertura la contrata como un plan de adhesión voluntaria, con una prepaga o con una obra social que venda esos planes (Ley 26.682, art. 1; Superintendencia, Voluntarios): es un contrato privado con su cuota, aparte del aporte. Según ARCA, el régimen da acceso a las mismas prestaciones de la seguridad social que el empleo en relación de dependencia, «excepto las asignaciones familiares».
 
 ## Las cinco categorías
 
@@ -91,7 +97,7 @@ Copiado del PDF de ARCA «Valores vigentes a partir de noviembre 2026» el 2026-
 | IV | $ 797.814,69 | $ 255.300,69 |
 | V | $ 1.096.990,87 | $ 351.037,07 |
 
-Las actividades penosas o riesgosas aportan un 3 % adicional de la renta de referencia, el 35 % en total (Decreto 433/94; RG 2217, art. 5); la RG 2217 (Anexo I B) nombra a los taxistas y a los transportistas de carga unipersonales, y el PDF trae sus categorías «prima». Quien está jubilado por la Ley 24.241 y sigue trabajando paga $ 67.316,23, en la categoría I.
+Las actividades penosas o riesgosas aportan un 3 % adicional de la renta de referencia, el 35 % en total (Decreto 433/94; RG 2217, art. 5); la RG 2217 (Anexo I B) nombra a los taxistas y a los transportistas de carga unipersonales, y el PDF trae sus categorías «prima». Quien está jubilado por la Ley 24.241 y sigue trabajando paga $ 67.316,23, en la categoría I: el 27 % de la renta, sin el 5 % del PAMI (cálculo de esta base sobre el PDF). Ninguna norma leída lo dice así; se explica porque la Ley 19.032 cobra ese 5 % al autónomo «en actividad» y el jubilado ya aporta al PAMI sobre su haber (art. 8, incs. b y c), y porque la Ley 24.476 (art. 13) le da a sus aportes el destino del art. 34 de la Ley 24.241 (lectura de esta base).
 
 Los montos cambian cada mes, y de dónde salen se lee así:
 
@@ -111,11 +117,11 @@ El calendario es otro que el del monotributo, que recategoriza en febrero y agos
 
 ## Pagar cada mes
 
-El aporte de un mes se paga el mes siguiente, el día que fija el cronograma según la terminación de la CUIT (RG 2217, art. 32). En noviembre de 2026, el pago mensual de autónomos vence el 5 para las CUIT que terminan en 0 a 3, el 11 para las de 4 a 6 y el 12 para las de 7 a 9 (argentina.gob.ar, Vencimientos). Se paga con un VEP (volante electrónico de pago), con débito en una tarjeta de crédito, con débito en cuenta por cajero automático o con débito directo en una cuenta bancaria (RG 2217, art. 29). Según ARCA, quien pagó todo el año en término por débito recibe un reintegro al año siguiente; cuánto le devuelven a un autónomo no se verificó.
+El aporte de un mes se paga el mes siguiente, el día que fija el cronograma según la terminación de la CUIT (RG 2217, art. 32). No hay un cronograma por año: la RG AFIP 4172/2017 fija los vencimientos generales «desde el año 2018 y siguientes» (art. 3), y su Anexo pone el pago mensual de autónomos el día 3 para las CUIT que terminan en 0 a 3, el 4 para las de 4 a 6 y el 5 para las de 7 a 9, corrido al hábil siguiente si cae en un día inhábil (art. 2). El calendario de ARCA para noviembre de 2026 da otras fechas: el 5, el 11 y el 12 (argentina.gob.ar, Vencimientos). La agenda viva manda. Se paga con un VEP (volante electrónico de pago), con débito en una tarjeta de crédito, con débito en cuenta por cajero automático o con débito directo en una cuenta bancaria (RG 2217, art. 29). Según ARCA, quien pagó todo el año en término por débito recibe un reintegro al año siguiente; cuánto le devuelven a un autónomo no se verificó.
 
 La deuda de aportes prescribe a los 10 años (Ley 14.236, art. 16, texto según la Ley 27.799, BO 2/1/2026). La ley baja el plazo a 5 años para quien presentó en término su declaración jurada y regularizó el saldo; si eso alcanza a los autónomos, que no presentan una declaración mensual del aporte, no quedó claro.
 
-El aporte también importa para Ganancias. La deducción especial de quien trabaja por su cuenta exige «el pago de los aportes que, como trabajadores autónomos, deban realizar obligatoriamente al Sistema Integrado Previsional Argentino (SIPA)» (Ley de Ganancias, art. 30, sustituido por el art. 71 de la Ley 27.743). Cómo se liquida Ganancias está en [Ganancias en Argentina](../../Impuestos/Impuestos-a-la-renta/ganancias-en-argentina.md).
+El aporte también importa para Ganancias. La deducción especial de quien trabaja por su cuenta exige «el pago de los aportes que, como trabajadores autónomos, deban realizar obligatoriamente al Sistema Integrado Previsional Argentino (SIPA)» (Ley de Ganancias, art. 30, sustituido por el art. 71 de la Ley 27.743). La deducción, sus otras condiciones y cómo se liquida Ganancias están en [Ganancias de personas humanas en Argentina](../../Impuestos/Impuestos-a-la-renta/ganancias-de-personas-humanas-en-argentina.md#las-deducciones-del-artículo-30).
 
 ## Autónomos o monotributo
 
@@ -139,4 +145,4 @@ El jubilado que sigue trabajando por su cuenta aporta, pero esos aportes «no da
 ## Pendiente de verificar
 
 > [!NOTE]
-> Sin fuente todavía: la resolución de ARCA con el cronograma de vencimientos de 2026; las tasas de interés vigentes para la deuda de aportes y si hay hoy un plan de pagos para autónomos; el paso a paso actual de la baja en autónomos (la RG 2217 todavía nombra el F. 929); si el jubilado que sigue trabajando no paga el 5 % del PAMI (se deduce de su cuota, que es el 27 % de la renta de la categoría I); y si la Ley 27.802 de 2026 toca algún artículo del régimen de autónomos (se buscó por palabras clave en su texto y no apareció, pero no se leyó entera).
+> Sin fuente todavía: por qué el calendario de noviembre de 2026 no coincide con el Anexo de la RG 4172 (se revisó la lista de modificatorias de InfoLEG, de la RG 4186 a la 5851, y ninguna toca el renglón de autónomos según sus títulos, pero no se leyeron todas); las tasas de interés vigentes para la deuda de aportes y si hay hoy un plan de pagos para autónomos; el paso a paso actual de la baja en autónomos (la RG 2217 todavía nombra el F. 929); el Decreto 576/93, reglamentario de la Ley 23.661, en su art. 5; y si la Ley 27.802 de 2026 toca algún artículo del régimen de autónomos (se buscó por palabras clave en su texto y no apareció, pero no se leyó entera).

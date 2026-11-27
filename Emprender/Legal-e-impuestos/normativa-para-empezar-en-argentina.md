@@ -12,7 +12,10 @@ fuentes:
   - "argentina.gob.ar, ARCA pone en marcha el monotributo unificado con CABA (29/12/2025): https://www.argentina.gob.ar/noticias/arca-pone-en-marcha-el-monotributo-unificado-con-caba"
   - "argentina.gob.ar, Emitir factura electrónica para monotributistas: https://www.argentina.gob.ar/emitir-factura-electronica-para-monotributistas"
   - "RG AFIP 4291 (02/08/2018): https://biblioteca.afip.gob.ar/dcp/REAG01004291_2018_08_02"
-  - "RG ARCA 5893/2026, según una síntesis secundaria: https://www.consejosalta.org.ar/wp-content/uploads/ARCA-5893.pdf"
+  - "RG ARCA 5893/2026 (BO 31/08/2026), Boletín Oficial (leída el 2026-11-27): https://www.boletinoficial.gob.ar/detalleAviso/primera/346598/20260831"
+  - "RG ARCA 5866/2026 (BO 29/06/2026), Boletín Oficial: https://www.boletinoficial.gob.ar/detalleAviso/primera/343656/20260629"
+  - "RG ARCA 5893/2026, síntesis secundaria: https://www.consejosalta.org.ar/wp-content/uploads/ARCA-5893.pdf"
+  - "Emprender/.investigacion/argentina-puntos-abiertos.md (2026-11-27)"
   - "Emprender/.investigacion/finanzas-equipo-legal.md"
 aliases: [Ley 27.349, RG IGJ 11/2026, Ley 24.977, monotributo unificado, factura electrónica]
 creado: 2026-11-22
@@ -80,4 +83,5 @@ Desde el 01/01/2026, los monotributistas con domicilio fiscal en la Ciudad de Bu
 |---|---|---|---|
 | [Comprobantes en línea](https://www.argentina.gob.ar/emitir-factura-electronica-para-monotributistas) | sin fecha | Los monotributistas emiten factura electrónica gratis con clave fiscal, después de habilitar un punto de venta | Una, leída solo a través de un resumen del buscador |
 | [RG AFIP 4291](https://biblioteca.afip.gob.ar/dcp/REAG01004291_2018_08_02) | 02/08/2018 | Regula la emisión y el almacenamiento electrónico de comprobantes originales | Una, leída solo a través de un resumen del buscador |
-| RG ARCA 5893/2026 | aplicación general 01/11/2026 | Amplía la obligación: entidades de seguro desde el 31/08/2026; sujetos no alcanzados por IVA desde el 01/03/2027; monotributistas sociales y promovidos desde el 01/11/2026. ARCA habilita el punto de venta de oficio y el talonario en papel queda para contingencias | Una, secundaria ([síntesis en consejosalta.org.ar](https://www.consejosalta.org.ar/wp-content/uploads/ARCA-5893.pdf) y prensa); el número y las fechas no se verificaron en el Boletín Oficial |
+| [RG ARCA 5893/2026](https://www.boletinoficial.gob.ar/detalleAviso/primera/346598/20260831) | BO 31/08/2026; rige desde el 01/11/2026 | Obliga a todo el monotributo, incluidos el social y los efectores, a factura electrónica o controlador fiscal desde el 01/11/2026, y a los no alcanzados por IVA desde el 01/03/2027. ARCA habilita de oficio el punto de venta del monotributista que no tiene, y el talonario en papel queda para contingencias. Para las aseguradoras que solo hacen operaciones no alcanzadas por IVA, corre la obligación de la RG 5866 al 01/03/2027 (vigente desde la publicación) | Una, primaria (el Boletín Oficial, leído el 2026-11-27); coincide con la síntesis de [consejosalta.org.ar](https://www.consejosalta.org.ar/wp-content/uploads/ARCA-5893.pdf) |
+| [RG ARCA 5866/2026](https://www.boletinoficial.gob.ar/detalleAviso/primera/343656/20260629) | BO 29/06/2026; desde el 01/07/2026, con escalones hasta el 01/03/2027 | Modifica las RG 1415 y 4291: reduce los sujetos exceptuados de facturar, crea la liquidación electrónica mensual y pide identificar con DNI al consumidor final desde $ 10.000.000 | Una, primaria (el Boletín Oficial); el Anexo I nuevo de la RG 1415, con las actividades que dejan de estar exceptuadas, no se leyó |
