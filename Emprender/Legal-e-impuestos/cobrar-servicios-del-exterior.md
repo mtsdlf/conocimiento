@@ -11,7 +11,7 @@ fuentes:
   - "Economía del Conocimiento, régimen y beneficiarios: https://www.argentina.gob.ar/node/246733"
   - "Ley 27.570 (2020), modificatoria de la Ley 27.506, artículos 2°, 4°, 6°, 7° y 18: https://www.argentina.gob.ar/normativa/nacional/norma-343520/texto"
   - "BCRA, Comunicación A 8417 (09/04/2026): https://www.bcra.gob.ar/archivos/Pdfs/comytexord/A8417.pdf"
-  - "BCRA, texto ordenado Exterior y Cambios al 14/09/2026 (última comunicación incorporada: A 8481): https://www.bcra.gob.ar/archivos/Pdfs/texord/t-excbio.pdf"
+  - "BCRA, texto ordenado Exterior y Cambios al 26/11/2026 (última comunicación incorporada: A 8512; los puntos 2.2.1, 2.2.2.1, 2.2.2.2 y 2.6 siguen con el texto de la A 8481, cotejados el 2026-11-27): https://www.bcra.gob.ar/archivos/Pdfs/texord/t-excbio.pdf"
   - "abogados.com.ar, BCRA flexibiliza controles de cambio (13/04/2026): https://abogados.com.ar/bcra-flexibiliza-controles-de-cambio/38887"
   - "Bloomberg Línea, nota sobre la A 8417 (09/04/2026): https://www.bloomberglinea.com/latinoamerica/argentina/bcra-flexibiliza-exigencias-para-ingreso-y-salida-de-dolares-pero-amplia-alcance-de-norma-clave/"
   - "iProfesional, sobre la A 8330 (18/09/2025): https://www.iprofesional.com/economia/437754-banco-central-argentina-elimina-limites-para-ingreso-dolares-por-exportaciones-servicios"
@@ -124,7 +124,7 @@ abstenciones). No se encontró evidencia de sanción del Senado: no se puede afi
 
 ## Una empresa sí liquida
 
-La excepción del punto 2.2.2.1 es solo para personas humanas. Una empresa que exporta servicios tiene que ingresar y liquidar los cobros en pesos dentro de 20 días hábiles (texto ordenado según la Comunicación A 8481, septiembre de 2026, punto 2.2.1). Para una empresa de software, la excepción a liquidar es la del Decreto 679/22, que el texto ordenado reglamenta en los puntos 2.2.2.2 y 2.6: una persona jurídica beneficiaria del régimen de economía del conocimiento puede no liquidar hasta el 30 % del *aumento* de sus cobros de exportación contra el mismo trimestre de 2021, en una cuenta especial y solo para pagar en dólares los sueldos del personal registrado (la otra excepción del punto 2.2.2 es de turismo, y los puntos 2.2.4 y 2.2.5 solo dejan aplicar los cobros a pagar deuda con el exterior). El texto del decreto no se leyó; la regla sale del texto ordenado del BCRA.
+La excepción del punto 2.2.2.1 es solo para personas humanas. Una empresa que exporta servicios tiene que ingresar y liquidar los cobros en pesos dentro de 20 días hábiles (texto ordenado al 26/11/2026, punto 2.2.1, con el texto que le dio la Comunicación A 8481). Para una empresa de software, la excepción a liquidar es la del Decreto 679/22, que el texto ordenado reglamenta en los puntos 2.2.2.2 y 2.6: una persona jurídica beneficiaria del régimen de economía del conocimiento puede no liquidar hasta el 30 % del *aumento* de sus cobros de exportación contra el mismo trimestre de 2021, en una cuenta especial y solo para pagar en dólares los sueldos del personal registrado (la otra excepción del punto 2.2.2 es de turismo, y los puntos 2.2.4 y 2.2.5 solo dejan aplicar los cobros a pagar deuda con el exterior). El texto del decreto no se leyó; la regla sale del texto ordenado del BCRA.
 
 Lo que la empresa gana a cambio es el régimen de la Ley 27.506, con los cambios de la Ley 27.570 (2020), según el texto de esa ley y la página oficial del régimen:
 
