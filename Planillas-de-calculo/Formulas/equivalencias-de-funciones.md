@@ -3,7 +3,7 @@ resumen: >-
   Tabla de las funciones de este tema con su nombre en castellano y en inglés, las versiones de
   Excel en que Microsoft dice que existen y su nombre y fecha de llegada en Google Sheets, copiada
   de las páginas de soporte el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Microsoft, páginas de soporte de cada función en es-es (lista «Se aplica a»): https://support.microsoft.com/es-es/excel/functions/<nombre-en-inglés>-function"
@@ -24,7 +24,7 @@ fuentes:
   - "Microsoft, XLOOKUP function (versiones viejas; según un resumen de buscador): https://support.microsoft.com/excel/functions/xlookup-function"
 aliases: [equivalencias de funciones, nombres de funciones en inglés, function names Spanish English, compatibilidad de funciones]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Equivalencias de funciones

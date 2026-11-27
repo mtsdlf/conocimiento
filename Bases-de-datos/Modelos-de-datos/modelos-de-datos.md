@@ -3,7 +3,7 @@ resumen: >-
   Un modelo de datos es la forma en que una base organiza lo que guarda: tablas que se cruzan,
   documentos anidados, pares de clave y valor, o estructuras especializadas como grafos y vectores.
   Se elige por las preguntas que se le van a hacer a los datos, no por cuántos hay.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Michael Stonebraker y Andrew Pavlo, What Goes Around Comes Around... And Around..., SIGMOD Record 53(2), junio de 2024, pp. 21-37: https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf (leídos el abstract, la sección de documentos y las conclusiones)"
@@ -14,7 +14,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/ (informes del 2026-11-27)"
 aliases: [modelo de datos, data model, modelos de bases de datos, NoSQL]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelos de datos

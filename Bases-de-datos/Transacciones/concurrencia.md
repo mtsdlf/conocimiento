@@ -4,7 +4,7 @@ resumen: >-
   como dos clientes que compran el último producto. Se resuelve haciendo que la base compruebe la
   condición al escribir: con una actualización condicional, con un bloqueo pesimista o con un
   bloqueo optimista por versión, y reintentando cuando la base aborta.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 13.2 Transaction Isolation (13.2.1 y 13.2.2): https://www.postgresql.org/docs/current/transaction-iso.html"
@@ -17,7 +17,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/modelos-transacciones-elegir.md, sección 2; Bases-de-datos/.investigacion/modelos-transacciones-elegir-huecos.md, secciones 2 y 3"
 aliases: [concurrencia, control de concurrencia, actualización perdida, lost update, condición de carrera, race condition, bloqueo pesimista, bloqueo optimista, SELECT FOR UPDATE, optimistic locking, pessimistic locking, deadlock, interbloqueo, sobreventa]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Concurrencia

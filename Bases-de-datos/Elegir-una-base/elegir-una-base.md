@@ -3,7 +3,7 @@ resumen: >-
   Elegir una base es juntar el modelo de datos, las garantías de las transacciones y lo que cuesta
   operarla en una decisión para un sistema concreto. No tiene un texto canónico propio: se arma con
   la documentación de cada motor, los análisis independientes y la experiencia de quien opera.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "SQLite, Appropriate Uses For SQLite: https://www.sqlite.org/whentouse.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/modelos-transacciones-elegir.md (informe del 2026-11-27)"
 aliases: [elegir una base de datos, choosing a database, selección de base de datos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir una base

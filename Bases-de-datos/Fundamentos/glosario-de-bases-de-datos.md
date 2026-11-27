@@ -2,7 +2,7 @@
 resumen: >-
   Los términos de bases de datos que más se confunden, cada uno con su nombre en inglés, una
   definición corta apoyada en la documentación de PostgreSQL y la nota del tema donde se trata.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "PostgreSQL Documentation, Appendix M. Glossary: https://www.postgresql.org/docs/current/glossary.html"
@@ -18,7 +18,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/posicion-contraria-y-fundamentos.md (glosario mínimo, sin fuente) y Bases-de-datos/.investigacion/sql.md"
 aliases: [glosario de bases de datos, términos de bases de datos, vocabulario de bases de datos, database glossary]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de bases de datos

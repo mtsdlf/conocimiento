@@ -3,7 +3,7 @@ resumen: >-
   Datos ordenados es la forma de guardar datos en una planilla donde cada fila es un registro y cada
   columna una sola variable, en un único rectángulo sin totales ni celdas combinadas. Es la condición
   para que las fórmulas, los filtros y las tablas dinámicas funcionen sin preparación.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Karl W. Broman y Kara H. Woo, Data Organization in Spreadsheets, The American Statistician 72(1), pp. 2-10, 2018, DOI 10.1080/00031305.2017.1375989: https://kbroman.org/Paper_DataOrg/manuscript.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Microsoft Learn, What is Power Query?: https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query"
 aliases: [tidy data, datos tidy, formato largo, una fila un registro, data organization in spreadsheets]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Datos ordenados

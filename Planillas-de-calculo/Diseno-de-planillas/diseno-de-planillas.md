@@ -4,7 +4,7 @@ resumen: >-
   los resultados entre hojas y celdas, para que otra persona pueda usarla y cambiarla sin romperla.
   Abarca la estructura, cómo y cuánto fallan las planillas, y cómo se revisan antes de confiar en
   ellas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ICAEW, Financial Modelling Code (2018, ed. 2024): https://www.icaew.com/-/media/corporate/files/technical/technology/excel-community/financial-modelling-code.ashx"
@@ -13,7 +13,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/diseno-automatizacion-y-limites.md"
 aliases: [spreadsheet design, diseño de modelos, modelado en planillas, buenas prácticas de planillas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Diseño de planillas

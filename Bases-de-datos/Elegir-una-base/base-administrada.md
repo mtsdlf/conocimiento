@@ -4,7 +4,7 @@ resumen: >-
   replica, y quien la usa solo se conecta. Conviene cuando no hay quien opere una propia, pero el
   respaldo, la restauración a un punto, la réplica y la alta disponibilidad no vienen solos: se
   piden y se pagan según el plan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Amazon RDS, Multi-AZ deployments: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html (según un resumen)"
@@ -16,7 +16,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/modelos-transacciones-elegir.md (informe del 2026-11-27)"
 aliases: [base de datos administrada, managed database, DBaaS, base como servicio, base propia, self-hosted]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Base administrada

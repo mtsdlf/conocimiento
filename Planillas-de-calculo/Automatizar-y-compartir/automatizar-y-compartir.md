@@ -3,7 +3,7 @@ resumen: >-
   Automatizar y compartir reúne lo que pasa cuando una planilla deja de ser de una persona y de una
   sola vez: los programas que repiten tareas dentro de ella (macros de Excel, Apps Script de Google
   Sheets) y las reglas para que varias personas trabajen sobre el mismo archivo sin pisarse.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, Macros from the internet are blocked by default in Office (actualizada 2026-07-17): https://learn.microsoft.com/en-us/microsoft-365-apps/security/internet-macros-blocked"
@@ -13,7 +13,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/diseno-automatizacion-y-limites.md"
 aliases: [automatización de planillas, spreadsheet automation, colaboración en planillas, macros y scripts]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Automatizar y compartir

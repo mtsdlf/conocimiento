@@ -3,7 +3,7 @@ resumen: >-
   Una macro es un programa guardado dentro de un libro de Excel que repite una serie de acciones.
   En el Excel de escritorio se escriben en VBA o se graban; en Excel para la web el equivalente son
   los Office Scripts, que se pueden encadenar con Power Automate.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft, Quick start: Create a macro: https://support.microsoft.com/en-us/office/quick-start-create-a-macro-741130ca-080d-49f5-9471-1e5fb3d581a8"
@@ -12,7 +12,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/diseno-automatizacion-y-limites.md"
 aliases: [macro, VBA, Visual Basic for Applications, grabadora de macros, macro recorder, Office Scripts, Power Automate, macros de Excel]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Macros

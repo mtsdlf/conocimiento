@@ -4,7 +4,7 @@ resumen: >-
   los supuestos de la planilla: Buscar objetivo encuentra la entrada que da un resultado buscado,
   Tabla de datos y el Administrador de escenarios comparan varias combinaciones, y Solver optimiza
   con restricciones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Introduction to What-If Analysis: https://support.microsoft.com/en-US/excel/introduction-to-what-if-analysis"
@@ -13,7 +13,7 @@ fuentes:
   - "Google Workspace Marketplace, SolveSheet: https://workspace.google.com/marketplace/app/solvesheet/678357015177"
 aliases: [what-if analysis, análisis de hipótesis, análisis Y si, qué pasaría si, Goal Seek, Buscar objetivo, Data Table, Tabla de datos, Scenario Manager, Administrador de escenarios, Solver]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis de escenarios

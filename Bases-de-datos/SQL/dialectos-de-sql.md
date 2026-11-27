@@ -3,7 +3,7 @@ resumen: >-
   Las diferencias concretas de sintaxis entre PostgreSQL, MySQL, SQLite y SQL Server en lo que más
   cambia (límite de filas, upsert, joins, booleanos, fechas y extensiones), con las ediciones del
   estándar, copiadas de cada documentación el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Markus Winand, modern-sql.com, The SQL Standard: https://modern-sql.com/standard"
@@ -21,7 +21,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [dialectos SQL, SQL dialects, diferencias entre motores, estándar SQL, ISO/IEC 9075]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dialectos de SQL

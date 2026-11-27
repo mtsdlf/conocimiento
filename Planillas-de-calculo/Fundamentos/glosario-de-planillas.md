@@ -3,7 +3,7 @@ resumen: >-
   Glosario de los términos del tema Planillas de cálculo, del libro y la celda a la matriz dinámica
   y Power Query, con el nombre en inglés y Excel y Google Sheets a la par, cada uno enlazado a la
   nota que lo trata.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Overview of formulas in Excel: https://support.microsoft.com/en-us/office/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173"
@@ -19,7 +19,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/posicion-contraria-y-fundamentos.md"
 aliases: [glosario de Excel, glosario de Google Sheets, spreadsheet glossary, vocabulario de planillas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de planillas

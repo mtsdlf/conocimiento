@@ -4,7 +4,7 @@ resumen: >-
   o una fórmula, fórmulas que apuntan a otras celdas por su dirección, y un motor que recalcula lo
   que depende de una celda cuando esa celda cambia. Casi todo error de una planilla se explica con
   esas tres piezas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, Excel Recalculation: https://learn.microsoft.com/en-us/office/client-developer/excel/excel-recalculation"
@@ -12,7 +12,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 1"
 aliases: [modelo de celdas, spreadsheet model, cómo funciona una planilla]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelo de la planilla

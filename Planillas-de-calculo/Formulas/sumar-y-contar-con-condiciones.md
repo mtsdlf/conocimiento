@@ -3,7 +3,7 @@ resumen: >-
   SUMAR.SI.CONJUNTO y CONTAR.SI.CONJUNTO suman o cuentan solo las filas que cumplen una o varias
   condiciones, como las ventas de un producto en un mes o los clientes de una zona. Son la forma
   de dejar en fórmulas un resumen que también podría dar una tabla dinámica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Función SUMAR.SI.CONJUNTO: https://support.microsoft.com/es-es/office/sumar-si-conjunto-función-sumar-si-conjunto-c9e748f5-7ea7-455d-9406-611cebce642b (según un resumen)"
@@ -11,7 +11,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 2.3"
 aliases: [SUMAR.SI.CONJUNTO, SUMIFS, CONTAR.SI.CONJUNTO, COUNTIFS, SUMAR.SI, SUMIF, CONTAR.SI, COUNTIF, suma condicional]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Sumar y contar con condiciones

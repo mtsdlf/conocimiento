@@ -3,7 +3,7 @@ resumen: >-
   El nivel de aislamiento decide qué ve una transacción de lo que escriben las otras al mismo
   tiempo. El estándar SQL define cuatro niveles según qué anomalías permiten, pero cada motor
   tiene otro nivel por defecto y el mismo nombre se comporta distinto según el motor.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 13.2 Transaction Isolation (tabla 13.1 y definiciones de las anomalías): https://www.postgresql.org/docs/current/transaction-iso.html"
@@ -17,7 +17,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/modelos-transacciones-elegir.md, sección 2; Bases-de-datos/.investigacion/modelos-transacciones-elegir-huecos.md, sección 3"
 aliases: [nivel de aislamiento, aislamiento, isolation level, transaction isolation, read committed, repeatable read, serializable, snapshot isolation, lectura sucia, lectura fantasma, write skew]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Nivel de aislamiento

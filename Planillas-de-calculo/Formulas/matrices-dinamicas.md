@@ -3,7 +3,7 @@ resumen: >-
   Una matriz dinámica es una fórmula que devuelve varios valores y los vuelca sola en las celdas
   vecinas: una lista filtrada, ordenada o sin repetidos que crece y se achica con los datos.
   FILTRAR, ORDENAR, UNICOS, LET y LAMBDA son las funciones que trabajan así.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Dynamic array formulas and spilled array behavior: https://support.microsoft.com/en-us/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531 (según un resumen)"
@@ -25,7 +25,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 2.5"
 aliases: [matriz dinámica, dynamic arrays, desbordamiento, spill, FILTRAR, FILTER, ORDENAR, SORT, UNICOS, UNIQUE, LET, LAMBDA, ARRAYFORMULA, QUERY]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Matrices dinámicas

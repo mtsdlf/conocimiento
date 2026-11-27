@@ -4,7 +4,7 @@ resumen: >-
   calcula con otras celdas, y se recalcula sola cuando algo cambia. Este tema explica cómo usarla
   para trabajar en un negocio (costos, stock, ventas, clientes) con Excel y Google Sheets a la par,
   sin que se rompa.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ICAEW, Financial Modelling Code (2018, ed. 2024): https://www.icaew.com/-/media/corporate/files/technical/technology/excel-community/financial-modelling-code.ashx"
@@ -13,7 +13,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/ (informes del 2026-11-27)"
 aliases: [planilla, hoja de cálculo, spreadsheet, Excel, Google Sheets, Hojas de cálculo de Google, LibreOffice Calc]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Planillas de cálculo

@@ -4,7 +4,7 @@ resumen: >-
   que las demás sesiones no vean los pasos intermedios. Esta vertical explica qué garantiza una
   transacción, qué ve de las otras según su nivel de aislamiento y cómo se evita que dos clientes
   compren el último producto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 3.4 Transactions: https://www.postgresql.org/docs/current/tutorial-transactions.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/modelos-transacciones-elegir.md, sección 2; Bases-de-datos/.investigacion/modelos-transacciones-elegir-huecos.md, secciones 2 y 3"
 aliases: [transacciones, control de concurrencia, transactions, concurrency control]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Transacciones

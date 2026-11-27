@@ -3,7 +3,7 @@ resumen: >-
   Una referencia es la dirección con la que una fórmula apunta a otra celda, como B4. Puede ser
   relativa (se corre al copiar la fórmula), absoluta ($B$4, queda fija) o mixta, y también puede
   ser un nombre, otra hoja u otro archivo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Cambiar entre referencias relativas, absolutas y mixtas: https://support.microsoft.com/es-es/office/cambiar-entre-referencias-relativas-absolutas-y-mixtas-dfec08cd-ae65-4f56-839e-5f0d8d0baca9"
@@ -17,7 +17,7 @@ fuentes:
   - "Páginas de Microsoft y Google leídas el 2026-11-27 a través de un resumidor"
 aliases: [referencia de celda, cell reference, referencia relativa, referencia absoluta, referencia mixta, rango con nombre, named range, nombre definido, defined name, referencia a otra hoja]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Celda y referencia

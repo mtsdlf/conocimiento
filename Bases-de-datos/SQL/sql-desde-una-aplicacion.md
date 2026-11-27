@@ -3,7 +3,7 @@ resumen: >-
   Una aplicación le manda SQL a la base por un driver o un ORM; los datos que vienen del usuario van
   siempre como parámetros, separados del texto de la consulta, para evitar la inyección SQL, y las
   consultas se agrupan para no caer en el problema N+1.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "OWASP, SQL Injection Prevention Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html"
@@ -16,7 +16,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md y posicion-contraria-y-fundamentos.md (informes del 2026-11-27)"
 aliases: [inyección SQL, SQL injection, consulta parametrizada, prepared statement, ORM, N+1, problema N+1]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # SQL desde una aplicación

@@ -3,7 +3,7 @@ resumen: >-
   Definir una tabla es declarar sus columnas, sus tipos y las reglas que la base hace cumplir
   (clave primaria, claves foráneas, NOT NULL, UNIQUE, CHECK); los cambios posteriores se aplican con
   migraciones versionadas, y una vista guarda una consulta con nombre.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 5.5 Constraints: https://www.postgresql.org/docs/current/ddl-constraints.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [CREATE TABLE, DDL, restricciones, constraints, migración, migrations, vista, view, vista materializada]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Definir tablas

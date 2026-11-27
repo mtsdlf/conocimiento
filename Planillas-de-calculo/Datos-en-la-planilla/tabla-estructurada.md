@@ -3,7 +3,7 @@ resumen: >-
   Una tabla estructurada es un rango de datos convertido en objeto con nombre, que crece solo cuando
   se agregan filas y se referencia por el nombre de sus columnas. Es la "tabla de Excel" y las
   "tablas" de Google Sheets; no es una tabla dinámica.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Overview of Excel tables: https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c"
@@ -13,7 +13,7 @@ fuentes:
   - "Microsoft, Create a PivotTable to analyze worksheet data: https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576"
 aliases: [tabla de Excel, Excel table, Format as Table, dar formato como tabla, tablas de Google Sheets, Tables in Google Sheets, convertir en tabla, referencia estructurada, structured reference]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tabla estructurada

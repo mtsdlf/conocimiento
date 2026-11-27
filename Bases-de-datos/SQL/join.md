@@ -3,7 +3,7 @@ resumen: >-
   Un join combina las filas de dos tablas según una condición, casi siempre que la clave foránea de
   una coincida con la clave primaria de la otra. El tipo de join decide qué pasa con las filas que
   no tienen pareja, y unir una fila con varias la repite.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 7.2.1 Joined Tables: https://www.postgresql.org/docs/current/queries-table-expressions.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [JOIN, unión de tablas, inner join, left join, outer join, fan-out]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Join

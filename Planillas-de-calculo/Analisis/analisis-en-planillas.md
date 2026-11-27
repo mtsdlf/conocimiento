@@ -3,7 +3,7 @@ resumen: >-
   El análisis en planillas es la parte que convierte una lista de datos en respuestas: resúmenes por
   categoría y período con tablas dinámicas, gráficos que muestran la forma de los números y
   escenarios que prueban qué pasaría si cambia un supuesto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Create a PivotTable to analyze worksheet data: https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576"
@@ -12,7 +12,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/datos-y-analisis.md (2026-11-27)"
 aliases: [análisis, análisis de datos en Excel, análisis en Google Sheets, spreadsheet analysis]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis en planillas

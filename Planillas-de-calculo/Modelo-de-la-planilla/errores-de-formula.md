@@ -4,7 +4,7 @@ resumen: >-
   valor no encontrado, una referencia rota, una división por cero. Cada error nombra una causa
   distinta y se propaga a todo lo que depende de esa celda; las referencias circulares y el
   recálculo explican los otros dos síntomas, la planilla lenta y el valor viejo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Corregir un error #N/A: https://support.microsoft.com/es-es/excel/how-to-correct-a-n-a-error"
@@ -26,7 +26,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 1.2; páginas leídas el 2026-11-27 a través de un resumidor"
 aliases: [error de fórmula, formula error, "#N/A", "#N/D", "#¡REF!", "#REF!", "#¡VALOR!", "#VALUE!", "#¡DIV/0!", "#¿NOMBRE?", "#NAME?", referencia circular, circular reference, recálculo, recalculation, función volátil, volatile function]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Errores de fórmula

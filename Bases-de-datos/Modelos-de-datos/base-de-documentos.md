@@ -3,7 +3,7 @@ resumen: >-
   Una base de documentos guarda cada registro como un documento tipo JSON, con campos anidados y
   listas, y no exige que todos los documentos de una colección tengan los mismos campos. Conviene
   cuando el dato es un árbol que se lee entero, como un pedido con sus ítems.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "MongoDB, Data Modeling: https://www.mongodb.com/docs/manual/data-modeling/"
@@ -13,7 +13,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/ (informes del 2026-11-27)"
 aliases: [base documental, document database, document store, base orientada a documentos, MongoDB]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Base de documentos

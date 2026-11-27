@@ -3,7 +3,7 @@ resumen: >-
   NULL es la marca de un dato que falta, y cualquier comparación con él da "desconocido" en vez de
   verdadero o falso; los tipos de columna deciden qué se puede guardar y cómo se calcula, y elegir
   mal el del dinero o el de las fechas da errores que no avisan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 9.2 Comparison Functions and Operators: https://www.postgresql.org/docs/current/functions-comparison.html"
@@ -15,7 +15,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [NULL, valor nulo, lógica de tres valores, three-valued logic, tipos de datos, data types]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # NULL y tipos

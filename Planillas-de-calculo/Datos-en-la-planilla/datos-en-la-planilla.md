@@ -3,7 +3,7 @@ resumen: >-
   Datos en la planilla es la parte que se ocupa de cómo se guardan los datos crudos (ventas, stock,
   clientes) para que las fórmulas y el análisis funcionen: una fila por registro, rangos con nombre
   que crecen solos, reglas que frenan lo mal cargado y una herramienta para importar y limpiar.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Karl W. Broman y Kara H. Woo, Data Organization in Spreadsheets, The American Statistician 72(1), 2018: https://kbroman.org/Paper_DataOrg/manuscript.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/datos-y-analisis.md (2026-11-27)"
 aliases: [datos en la planilla, data in spreadsheets, organizar datos en Excel, organizar datos en Sheets]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Datos en la planilla

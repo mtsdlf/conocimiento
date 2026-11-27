@@ -4,7 +4,7 @@ resumen: >-
   investigación sobre errores (Panko, EuSpRIG), los papers sobre datos en planillas (Broman y Woo,
   Wickham), la documentación de Microsoft y Google, un sitio de practicantes y el examen de Excel
   de Microsoft, con qué leer de cada uno y en qué fijarse.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ICAEW, Financial Modelling Code (2018, ed. 2024): https://www.icaew.com/-/media/corporate/files/technical/technology/excel-community/financial-modelling-code.ashx"
@@ -19,7 +19,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/ (informes del 2026-11-27)"
 aliases: [bibliografía de planillas, recursos de Excel, recursos de Google Sheets, spreadsheet references]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de planillas

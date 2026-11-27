@@ -3,7 +3,7 @@ resumen: >-
   Una base clave-valor guarda cada dato bajo una clave y solo lo encuentra por esa clave; suele
   vivir en memoria y se usa como caché, para sesiones y contadores. Redis es el caso típico, y lo
   que pierde si se cae depende de cómo se configure su persistencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Redis, Redis as an in-memory data store: https://redis.io/docs/latest/develop/get-started/data-store/"
@@ -13,7 +13,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/ (informes del 2026-11-27)"
 aliases: [key-value, key-value store, almacén clave-valor, caché, Redis]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Base clave-valor

@@ -3,7 +3,7 @@ resumen: >-
   Fundamentos reúne lo que cruza todo el tema Bases de datos sin ser una de sus partes: de dónde
   viene el modelo relacional, qué enfoques se disputan el campo, qué ideas repetidas no resisten la
   evidencia, qué leer y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "E. F. Codd, A Relational Model of Data for Large Shared Data Banks, Communications of the ACM 13(6), junio de 1970: https://courses.cs.washington.edu/courses/cse544/02sp/papers/codd70.pdf (metadatos y abstract; el cuerpo no se leyó)"
@@ -20,7 +20,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/posicion-contraria-y-fundamentos.md"
 aliases: [fundamentos de bases de datos, historia de las bases de datos, mitos de bases de datos, relacional contra NoSQL, ORM contra SQL]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de bases de datos

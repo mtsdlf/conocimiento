@@ -4,7 +4,7 @@ resumen: >-
   equivocado sin avisar. La investigación los mide de dos maneras distintas (cuántas planillas
   auditadas tienen al menos uno y qué proporción de celdas con fórmula está mal), y las dos dicen que
   en una planilla grande es muy probable que algún resultado final esté mal.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Raymond R. Panko, Spreadsheet Errors: What We Know. What We Think We Can Do, EuSpRIG 2000: https://arxiv.org/pdf/0802.3457"
@@ -24,7 +24,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/posicion-contraria-y-fundamentos.md"
 aliases: [spreadsheet errors, spreadsheet risk, errores de Excel, cell error rate, CER, tasa de error por celda, horror stories]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Errores en planillas

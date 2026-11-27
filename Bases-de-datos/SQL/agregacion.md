@@ -3,7 +3,7 @@ resumen: >-
   La agregación junta muchas filas en una con funciones como count, sum o avg; con GROUP BY lo hace
   por grupo (un total por cliente, por mes, por producto) y con HAVING filtra los grupos que
   resultan.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 4.2.7 Aggregate Expressions: https://www.postgresql.org/docs/current/sql-expressions.html"
@@ -14,7 +14,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [GROUP BY, HAVING, funciones de agregado, aggregate functions, agrupar]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Agregación

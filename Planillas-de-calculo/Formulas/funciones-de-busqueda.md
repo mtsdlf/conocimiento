@@ -4,7 +4,7 @@ resumen: >-
   producto por su código, el nombre de un cliente por su CUIT. Hay tres formas de hacerlo,
   BUSCARV, INDICE con COINCIDIR y BUSCARX, y difieren en hacia dónde buscan, qué hacen si no
   encuentran y en qué versiones existen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Función BUSCARV: https://support.microsoft.com/es-es/office/buscarv-función-buscarv-0bbc8083-26fe-4963-8ab8-93a18ad188a1 (según un resumen de la página)"
@@ -20,7 +20,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 2.2; Planillas-de-calculo/.investigacion/posicion-contraria-y-fundamentos.md, B2"
 aliases: [BUSCARV, VLOOKUP, BUSCARX, XLOOKUP, INDICE, INDEX, COINCIDIR, MATCH, buscar en otra tabla, lookup]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Funciones de búsqueda

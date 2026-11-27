@@ -3,7 +3,7 @@ resumen: >-
   SQL es el lenguaje con que se consulta, se modifica y se define una base relacional: se escribe
   qué filas se quieren y el motor decide cómo buscarlas. Casi todos los motores relacionales lo
   hablan, cada uno con su dialecto.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, cap. 7 Queries: https://www.postgresql.org/docs/current/queries-overview.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [Structured Query Language, lenguaje SQL]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # SQL

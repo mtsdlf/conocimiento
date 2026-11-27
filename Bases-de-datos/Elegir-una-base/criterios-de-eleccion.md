@@ -4,7 +4,7 @@ resumen: >-
   que hacen falta, cuántos escriben a la vez, la escala, quién la opera, el costo y lo que ya sabe el equipo. Para
   el sistema de un comercio suelen llevar a PostgreSQL, o a SQLite si escribe un solo programa en un
   solo equipo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "SQLite, Appropriate Uses For SQLite: https://www.sqlite.org/whentouse.html"
@@ -20,7 +20,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/ (informes del 2026-11-27)"
 aliases: [criterios para elegir una base de datos, database selection criteria, PostgreSQL por defecto, cuándo usar SQLite]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Criterios de elección

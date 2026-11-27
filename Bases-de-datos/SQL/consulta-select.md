@@ -3,7 +3,7 @@ resumen: >-
   Una consulta SELECT pide filas a la base: de qué tablas, con qué condición, qué columnas, en qué
   orden y cuántas. Sus cláusulas se escriben en un orden y se evalúan en otro, y casi todos los
   errores de quien empieza salen de esa diferencia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, SELECT (sección Description): https://www.postgresql.org/docs/current/sql-select.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [SELECT, consulta, query, orden lógico de ejecución, logical query processing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Consulta SELECT

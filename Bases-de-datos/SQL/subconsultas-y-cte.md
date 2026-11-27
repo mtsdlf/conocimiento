@@ -3,7 +3,7 @@ resumen: >-
   Una subconsulta es una consulta dentro de otra, que aporta un valor, una lista o una tabla; una
   CTE (WITH) le pone nombre a esa consulta para usarla como una tabla temporal y leer la consulta de
   arriba hacia abajo. La versión recursiva recorre jerarquías y genera series.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 9.25 Subquery Expressions: https://www.postgresql.org/docs/current/functions-subquery.html"
@@ -14,7 +14,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [subconsulta, subquery, CTE, common table expression, WITH, consulta recursiva, WITH RECURSIVE, EXISTS, LATERAL]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Subconsultas y CTE

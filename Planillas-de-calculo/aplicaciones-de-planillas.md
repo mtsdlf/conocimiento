@@ -4,7 +4,7 @@ resumen: >-
   para la web, Google Sheets y LibreOffice Calc), con sus versiones vigentes, sus límites de tamaño,
   lo que cambia entre ellas para automatizar y colaborar, y los límites de dos herramientas
   intermedias (Airtable y Access).
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Microsoft, Excel specifications and limits: https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3"
@@ -24,7 +24,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/diseno-automatizacion-y-limites.md"
 aliases: [Excel, Microsoft Excel, Google Sheets, Hojas de cálculo de Google, LibreOffice Calc, límites de Excel, límites de Google Sheets, Excel specifications and limits]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Aplicaciones de planillas

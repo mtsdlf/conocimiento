@@ -3,7 +3,7 @@ resumen: >-
   Compartir y colaborar es trabajar varias personas sobre la misma planilla: un solo archivo en la
   nube que todos editan a la vez, con permisos que dicen quién ve, comenta o edita, rangos protegidos
   para que nadie pise las fórmulas y un historial de versiones para volver atrás.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft, Collaborate on Excel workbooks at the same time with co-authoring (según resumen; la URL con ID dio 403): https://support.microsoft.com/en-us/excel/get-started/collaborate-on-excel-workbooks-at-the-same-time-with-co-authoring"
@@ -14,7 +14,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/diseno-automatizacion-y-limites.md"
 aliases: [coautoría, co-authoring, colaboración en tiempo real, compartir una planilla, proteger rangos, protected ranges, historial de versiones, version history, permisos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Compartir y colaborar

@@ -3,7 +3,7 @@ resumen: >-
   La validación de datos es una regla que se le pone a una celda o rango para que solo acepte ciertos
   valores (una lista desplegable, un número en un rango, una fecha), y que rechaza o advierte lo que
   no cumple. Frena los errores de carga antes de que lleguen a las fórmulas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Apply data validation to cells: https://support.microsoft.com/en-us/office/apply-data-validation-to-cells-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249"
@@ -11,7 +11,7 @@ fuentes:
   - "Karl W. Broman y Kara H. Woo, Data Organization in Spreadsheets, The American Statistician 72(1), 2018: https://kbroman.org/Paper_DataOrg/manuscript.html"
 aliases: [data validation, validación, lista desplegable, drop-down list, desplegable, dropdown]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Validación de datos

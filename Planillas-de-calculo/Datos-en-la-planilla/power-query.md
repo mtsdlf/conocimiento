@@ -3,7 +3,7 @@ resumen: >-
   Power Query es el motor de Excel para importar, limpiar y combinar datos con pasos que se graban y
   se repiten con un clic, sin fórmulas y sin tocar el archivo de origen. Google Sheets no lo tiene:
   IMPORTRANGE, QUERY y Connected Sheets cubren partes distintas de ese trabajo y no equivalen uno a uno.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft Learn, What is Power Query? (actualizada 2026-09-30): https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query"
@@ -18,7 +18,7 @@ fuentes:
   - "Ken Puls y Miguel Escobar, M is for (Data) Monkey, Holy Macro! Books, ISBN 9781615470341"
 aliases: [Power Query, Obtener y transformar, Get & Transform, Get Data, lenguaje M, M, ETL en Excel, IMPORTRANGE, QUERY, Connected Sheets, Hojas conectadas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Power Query

@@ -3,7 +3,7 @@ resumen: >-
   Una función de ventana calcula sobre un grupo de filas relacionadas con la fila actual (su
   partición) sin colapsarlas en una: cada fila conserva su detalle y suma el resultado, como el
   total del pedido al lado de cada ítem, un ranking o un acumulado.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 3.5 Window Functions (tutorial): https://www.postgresql.org/docs/current/tutorial-window.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [window functions, ventana, OVER, PARTITION BY, row_number, rank, función analítica]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Funciones de ventana

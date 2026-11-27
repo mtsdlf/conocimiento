@@ -3,7 +3,7 @@ resumen: >-
   INSERT agrega filas, UPDATE cambia las que cumplen una condición y DELETE las borra; el upsert
   inserta o actualiza según la fila ya exista, y RETURNING devuelve lo que se escribió sin otra
   consulta. Un UPDATE o un DELETE sin WHERE afecta a la tabla entera.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, INSERT (ON CONFLICT y Compatibility): https://www.postgresql.org/docs/current/sql-insert.html"
@@ -13,7 +13,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [INSERT, UPDATE, DELETE, upsert, RETURNING, MERGE, DML]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modificar datos

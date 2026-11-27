@@ -3,7 +3,7 @@ resumen: >-
   Cada celda guarda un valor de un tipo (número, texto, fecha, verdadero o falso) y lo muestra con
   un formato que puede ocultar el tipo real. Una fecha es un número de días con formato de fecha, y
   un número guardado como texto se ve igual pero no suma ni se encuentra al buscarlo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft Learn, Excel incorrectly assumes that the year 1900 is a leap year (actualizada 2026-04-15): https://learn.microsoft.com/en-us/office/troubleshoot/excel/wrongly-assumes-1900-is-leap-year"
@@ -16,7 +16,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, secciones 1.1 y 1.2"
 aliases: [tipo de dato, data type, número como texto, formato de celda, número de serie de fecha, date serial number, configuración regional, locale]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tipos de dato

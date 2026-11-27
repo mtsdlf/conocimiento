@@ -3,7 +3,7 @@ resumen: >-
   Una transacción es un grupo de operaciones que la base trata como una sola: o se aplican todas
   (COMMIT) o no se aplica ninguna (ROLLBACK), y las otras sesiones no ven los pasos intermedios.
   Las cuatro propiedades ACID dicen qué promete y cada una tiene un límite que conviene conocer.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 3.4 Transactions: https://www.postgresql.org/docs/current/tutorial-transactions.html"
@@ -14,7 +14,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/modelos-transacciones-elegir.md, sección 2"
 aliases: [transacción, transaction, ACID, commit, rollback, savepoint, punto de guardado, atomicidad, durabilidad]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Transacción

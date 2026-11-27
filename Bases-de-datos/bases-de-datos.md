@@ -4,7 +4,7 @@ resumen: >-
   motor), que lo deja consultar y modificar con un lenguaje (casi siempre SQL) y lo mantiene
   correcto aunque muchos lo usen a la vez o el equipo se caiga. Este tema explica sus modelos, SQL
   a fondo, las transacciones y cómo se elige una.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Martin Kleppmann, Designing Data-Intensive Applications (O'Reilly), capítulos de modelos de datos y de transacciones: https://dataintensive.net/ (no se leyó entero; los números de capítulo no se verificaron)"
@@ -13,7 +13,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/ (informes del 2026-11-27)"
 aliases: [base de datos, BD, database, DB, motor de base de datos, DBMS, SGBD]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Bases de datos

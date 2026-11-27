@@ -3,7 +3,7 @@ resumen: >-
   Un índice es una estructura aparte, ordenada por una o más columnas, que deja encontrar filas sin
   recorrer la tabla entera; acelera las lecturas que filtran u ordenan por esas columnas y encarece
   cada escritura. EXPLAIN muestra si el motor lo usa.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "PostgreSQL Documentation, 11.1 Index Types: https://www.postgresql.org/docs/current/indexes-types.html"
@@ -17,7 +17,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [index, índices, EXPLAIN, plan de ejecución, query plan, índice compuesto]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Índice

@@ -3,7 +3,7 @@ resumen: >-
   Las funciones de texto parten, unen y limpian lo que hay en una celda (un código, un nombre, una
   descripción), y las de fecha arman fechas, calculan plazos y sacan el mes o el año. Juntas
   preparan los datos para que las búsquedas y los resúmenes funcionen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Referencia de funciones de texto: https://support.microsoft.com/es-es/excel/text-functions-reference"
@@ -18,7 +18,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 2.4; páginas leídas el 2026-11-27"
 aliases: [funciones de texto, text functions, funciones de fecha, date functions, IZQUIERDA, LEFT, EXTRAE, MID, ESPACIOS, TRIM, CONCAT, UNIRCADENAS, TEXTJOIN, TEXTO, TEXT, DIVIDIRTEXTO, TEXTSPLIT, SPLIT, FECHA, DATE, HOY, TODAY, DIAS.LAB, NETWORKDAYS, FIN.MES, EOMONTH, SIFECHA, DATEDIF]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Texto y fechas

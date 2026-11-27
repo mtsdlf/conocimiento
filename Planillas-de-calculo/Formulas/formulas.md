@@ -4,7 +4,7 @@ resumen: >-
   referencias a otras celdas y funciones. Esta vertical reúne las familias de funciones que usa un
   negocio: lógicas, de búsqueda, de suma y conteo con condiciones, de texto y fecha, y las que
   devuelven listas enteras.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Información general sobre fórmulas en Excel: https://support.microsoft.com/es-ES/Excel/get-started/overview-of-formulas-in-excel"
@@ -13,7 +13,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 2"
 aliases: [fórmula, formula, función, function, funciones de Excel, funciones de Sheets]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fórmulas

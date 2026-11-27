@@ -3,7 +3,7 @@ resumen: >-
   Una tabla dinámica es un resumen interactivo que agrupa una lista de datos por categorías y
   períodos y calcula totales, conteos o promedios, sin escribir fórmulas: se arma arrastrando campos
   a filas, columnas y valores.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Create a PivotTable to analyze worksheet data: https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576"
@@ -13,7 +13,7 @@ fuentes:
   - "Exceljet, How to group a pivot table by date: https://exceljet.net/videos/how-to-group-a-pivot-table-by-date"
 aliases: [pivot table, PivotTable, tabla pivote, tabla dinámica de Google Sheets, segmentación de datos, slicer, timeline, escala de tiempo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Tabla dinámica

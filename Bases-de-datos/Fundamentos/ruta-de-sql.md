@@ -3,7 +3,7 @@ resumen: >-
   Ocho pasos para aprender SQL en orden, sobre las tablas de un comercio: en cada uno, la idea que
   hay que tener en la cabeza, una predicción, un ejemplo resuelto, un caso modificado y un
   ejercicio para hacer solo, con las respuestas escondidas y los recursos de práctica de afuera.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "SQLBolt: https://sqlbolt.com/"
@@ -12,7 +12,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/sql.md (informe del 2026-11-27)"
 aliases: [aprender SQL, ejercicios de SQL, curso de SQL]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ruta de SQL

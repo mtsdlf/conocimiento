@@ -3,7 +3,7 @@ resumen: >-
   La bibliografía del tema Bases de datos: qué leer para entender los conceptos, para escribir SQL,
   para que las consultas anden rápido, para escribir código seguro y para saber cómo fallan los
   motores, con qué parte leer de cada fuente, en qué fijarse y cuánto se verificó.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Martin Kleppmann, Designing Data-Intensive Applications (O'Reilly): https://dataintensive.net/ (solo la ficha del sitio)"
@@ -23,7 +23,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/ (informes del 2026-11-27)"
 aliases: [fuentes de bases de datos, bibliografía de bases de datos, qué leer de bases de datos, libros de SQL, database reading list]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de bases de datos

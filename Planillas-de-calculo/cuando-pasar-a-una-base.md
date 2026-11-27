@@ -4,7 +4,7 @@ resumen: >-
   hacen cuentas y pasó a ser el registro del negocio, que varias personas cargan a la vez y que tiene
   que hacer cumplir reglas. Antes de eso hay límites duros de tamaño, opciones intermedias y un
   riesgo real de mudarse demasiado pronto.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Microsoft, Excel specifications and limits: https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3"
@@ -18,7 +18,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/posicion-contraria-y-fundamentos.md"
 aliases: [de Excel a una base de datos, migrar de planilla a base de datos, spreadsheet to database, outgrowing spreadsheets, cuándo dejar Excel]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cuándo pasar a una base

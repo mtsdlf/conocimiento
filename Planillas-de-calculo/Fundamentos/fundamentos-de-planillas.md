@@ -3,7 +3,7 @@ resumen: >-
   Lo transversal del tema Planillas de cálculo: de dónde salen las planillas (de VisiCalc en 1979 a
   Google Sheets en 2006), los enfoques que compiten para armarlas y usarlas, las ideas que circulan y
   no se sostienen, la bibliografía y el glosario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Computer History Museum, Software Arts y VisiCalc (según resumen del buscador): https://www.computerhistory.org/collections/catalog/102738286"
@@ -22,7 +22,7 @@ fuentes:
   - "Microsoft, XLOOKUP function (versiones viejas; según un resumen de buscador): https://support.microsoft.com/excel/functions/xlookup-function"
 aliases: [historia de las planillas, spreadsheet history, VisiCalc, Lotus 1-2-3]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de planillas

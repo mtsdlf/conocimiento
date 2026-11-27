@@ -3,7 +3,7 @@ resumen: >-
   Los gráficos en la planilla son las tres formas de dibujar datos dentro de Excel o Google Sheets:
   el gráfico que se arma desde un rango, el gráfico dinámico que sigue a una tabla dinámica y el
   minigráfico que entra en una sola celda.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Use sparklines to show data trends: https://support.microsoft.com/en-us/office/use-sparklines-to-show-data-trends-1474e169-008c-4783-926b-5c60e620f5ca"
@@ -14,7 +14,7 @@ fuentes:
   - "Microsoft Learn, Exam MO-211: Microsoft Excel Expert: https://learn.microsoft.com/certifications/exams/mo-211"
 aliases: [gráficos, charts, gráfico dinámico, PivotChart, minigráfico, sparkline, SPARKLINE, gráficos en Excel, gráficos en Google Sheets]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Gráficos en la planilla

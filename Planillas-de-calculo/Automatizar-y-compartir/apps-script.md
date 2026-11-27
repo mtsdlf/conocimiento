@@ -4,7 +4,7 @@ resumen: >-
   se automatiza Google Sheets: se escriben funciones propias para usar en celdas y programas que
   corren solos cuando alguien abre o edita la planilla, o a una hora fija, dentro de cuotas de
   tiempo y de uso.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Google, Custom Functions in Google Sheets: https://developers.google.com/apps-script/guides/sheets/functions"
@@ -13,7 +13,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/diseno-automatizacion-y-limites.md"
 aliases: [Google Apps Script, GAS, scripts de Google Sheets, funciones personalizadas, custom functions, disparadores, triggers]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Apps Script

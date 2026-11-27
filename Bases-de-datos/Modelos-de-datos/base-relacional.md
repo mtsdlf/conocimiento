@@ -3,7 +3,7 @@ resumen: >-
   Una base relacional guarda los datos en tablas de filas y columnas, une las tablas con claves y
   se consulta con SQL; la base misma hace cumplir las reglas de integridad, como que todo pedido
   apunte a un cliente que existe.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "E. F. Codd, A Relational Model of Data for Large Shared Data Banks, Communications of the ACM 13(6), junio de 1970: https://courses.cs.washington.edu/courses/cse544/02sp/papers/codd70.pdf (solo metadatos y resumen; no se leyó el cuerpo)"
@@ -13,7 +13,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/ (informes del 2026-11-27)"
 aliases: [base de datos relacional, relational database, RDBMS, modelo relacional, base SQL]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Base relacional

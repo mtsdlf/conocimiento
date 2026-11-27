@@ -4,7 +4,7 @@ resumen: >-
   seguir de dónde sale cada número, poner controles que avisen cuando algo no cuadra, cambiar
   entradas para ver si las salidas se mueven como se espera y, sobre todo, que otra persona la lea
   celda por celda.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "ICAEW, Financial Modelling Code (2018, ed. 2024), principios #17 y #18: https://www.icaew.com/-/media/corporate/files/technical/technology/excel-community/financial-modelling-code.ashx"
@@ -17,7 +17,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/diseno-automatizacion-y-limites.md"
 aliases: [auditar una planilla, spreadsheet review, auditoría de fórmulas, formula auditing, rastrear precedentes, trace precedents, revisión por pares, Spreadsheet Inquire]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Revisar una planilla

@@ -2,7 +2,7 @@
 resumen: >-
   Versión vigente, licencia y fuente de PostgreSQL, MySQL, SQLite, MongoDB y Redis, y lo que trae
   el plan gratis de Neon y Supabase, copiado de las páginas oficiales el 2026-11-27.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "PostgreSQL, Versioning Policy: https://www.postgresql.org/support/versioning/"
@@ -16,7 +16,7 @@ fuentes:
   - "Supabase, Pricing: https://supabase.com/pricing (según un resumen)"
 aliases: [versiones de bases de datos, database engines, motores, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Neon, Supabase]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Motores de bases de datos

@@ -3,7 +3,7 @@ resumen: >-
   Entradas, cálculo y salidas es la estructura que separa en una planilla los supuestos que alguien
   carga, las fórmulas que calculan con ellos y los resultados que se leen, para que cada dato esté en
   un solo lugar y la lógica vaya siempre de las entradas a las salidas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ICAEW, Financial Modelling Code (2018, ed. 2024), principios #9, #12, #14 y #15: https://www.icaew.com/-/media/corporate/files/technical/technology/excel-community/financial-modelling-code.ashx"
@@ -12,7 +12,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/diseno-automatizacion-y-limites.md"
 aliases: [inputs calculations outputs, entradas cálculos salidas, separar supuestos, hoja de supuestos, Financial Modelling Code, FAST Standard]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Entradas, cálculo y salidas

@@ -4,7 +4,7 @@ resumen: >-
   cosas (grafos), mediciones a lo largo del tiempo (series de tiempo), texto por relevancia
   (búsqueda full-text) y parecido entre elementos (vectores). Muchas veces una base relacional con
   su búsqueda de texto o una extensión alcanza.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Neo4j, What is a graph database: https://neo4j.com/docs/getting-started/get-started-with-neo4j/graph-database/"
@@ -16,7 +16,7 @@ fuentes:
   - "Bases-de-datos/.investigacion/ (informes del 2026-11-27)"
 aliases: [base de grafos, graph database, series de tiempo, time series database, búsqueda full-text, full-text search, base vectorial, vector database]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Modelos especializados

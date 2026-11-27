@@ -3,7 +3,7 @@ resumen: >-
   Las funciones lógicas hacen que una fórmula elija entre resultados según una condición: SI para
   una condición, Y y O para combinar varias, SI.CONJUNTO para una escala de casos, y SI.ERROR y
   SI.ND para decidir qué mostrar cuando otra fórmula da error.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Microsoft, Función SI: https://support.microsoft.com/es-es/office/si-funci%C3%B3n-si-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2"
@@ -21,7 +21,7 @@ fuentes:
   - "Planillas-de-calculo/.investigacion/modelo-y-formulas.md, sección 2.1; páginas de Microsoft y Google leídas el 2026-11-27 a través de un resumidor"
 aliases: [SI, IF, Y, AND, O, OR, SI.CONJUNTO, IFS, SI.ERROR, IFERROR, SI.ND, IFNA, condicional, fórmula con condición]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Funciones lógicas
