@@ -6,15 +6,15 @@ escuela: neutral; el CRM se cuenta como registro del negocio, y la visión del C
 fuera:
   - el método de vender (prospección, calificación, embudo comercial como método, la propuesta persuasiva, negociación) — tema Ventas; se enlaza
   - el marketing de relaciones, la lealtad y la calidad de servicio — Marketing/Servicio-y-relacion; se enlaza
-  - el caso posterior a la venta (consulta, reclamo, escalamiento) — tema Servicio al cliente (sesión 7 del mapa, todavía no armado)
-  - la reserva y la preparación de la mercadería — tema Inventario y depósitos (todavía no armado)
-  - el despacho y el transporte — tema Cadena de suministro y logística (todavía no armado); el envío de una tienda, en Comercio-electronico
-  - la factura y el comprobante — temas Contabilidad e Impuestos (en armado); la factura electrónica de ARCA, en Comercio-electronico/Normativa
-  - la decisión de dar crédito y la cobranza — tema Tesorería (todavía no armado); la cuenta corriente entre empresas, en Comercio-electronico/Comercio-B2B
+  - el caso posterior a la venta (consulta, reclamo, escalamiento) — tema Servicio al cliente (Servicio-al-cliente/Caso/caso.md)
+  - la reserva y la preparación de la mercadería — tema Inventario y depósitos (Inventario-y-depositos/Operacion-del-deposito/reserva.md)
+  - el despacho y el transporte — tema Cadena de suministro y logística (Cadena-de-suministro-y-logistica/Despacho-y-entrega/despacho-y-entrega.md); el envío de una tienda, en Comercio-electronico
+  - la factura y el comprobante — temas Contabilidad (Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md) e Impuestos (Impuestos/Cumplimiento/comprobante-fiscal.md); la factura electrónica de ARCA, en Comercio-electronico/Normativa
+  - la decisión de dar crédito y la cobranza — tema Tesorería (Tesoreria/Credito-y-cobranzas/credito-y-cobranzas.md); la cuenta corriente entre empresas, en Comercio-electronico/Comercio-B2B
   - el análisis de clientes (valor de vida, RFM, retención, churn) — Datos y Marketing; se enlaza
   - el registro de oro y la gestión de datos maestros en general — Datos/Gobierno-y-calidad/datos-maestros; se enlaza
-  - las piezas de diseño comunes a todo software de gestión (documento y estados, datos maestros, permisos) — tema Software de gestión (sesión 14, todavía no armado)
-  - el recorrido de punta a punta del pedido al cobro — tema Procesos de negocio (sesión 13, todavía no armado)
+  - las piezas de diseño comunes a todo software de gestión (documento y estados, datos maestros, permisos) — tema Software de gestión (Software-de-gestion/Columnas-tecnicas/columnas-tecnicas.md); el CRM como categoría de producto, en Software-de-gestion/Categorias-de-producto/crm.md
+  - el recorrido de punta a punta del pedido al cobro — tema Procesos de negocio (Procesos-de-negocio/del-pedido-al-cobro.md)
   - productos de CRM o ERP, comparativas y precios — fuera de la base
 fuentes: []
 preguntas:
@@ -41,15 +41,17 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 |---|---|---|
 | [Ventas](../Ventas/ventas.md) | el método de vender: prospectar, calificar, proponer, negociar; define el embudo comercial | Ventas dice qué etapas tiene el embudo y cómo se pasa de una a otra; este tema, qué se registra en cada oportunidad. La propuesta persuasiva es de Ventas; el presupuesto como documento con renglones, precios y validez, de acá |
 | [Marketing/Servicio-y-relacion](../Marketing/Servicio-y-relacion/servicio-y-relacion.md) | la calidad del servicio, las expectativas y si conviene invertir en la lealtad | Marketing decide cuánto invertir en retener; este tema registra al cliente y su historia |
-| Servicio al cliente (no armado) | el caso posterior a la venta | Un reclamo abre un caso allá; el historial del cliente lo muestra desde acá |
-| Inventario y depósitos (no armado) | la reserva y la preparación | El pedido confirmado pide la reserva; la cantidad disponible la calcula Inventario, la fecha que se le promete al cliente es de acá |
-| Cadena de suministro y logística (no armado) | el despacho y el transporte | El pedido dice a dónde y para cuándo; cómo llega, allá |
-| Contabilidad e Impuestos (en armado) | la factura, la cuenta del cliente en el mayor y el impuesto | El pedido dice qué facturar; el comprobante y su impuesto, allá |
-| Tesorería (no armado) | la decisión de dar crédito y la cobranza | El límite de crédito es un dato del cliente; quién lo fija y cómo se cobra, allá |
+| [Servicio al cliente](../Servicio-al-cliente/servicio-al-cliente.md) | el caso posterior a la venta | Un reclamo abre un caso allá; el historial del cliente lo muestra desde acá |
+| [Inventario y depósitos](../Inventario-y-depositos/inventario-y-depositos.md) | la reserva y la preparación | El pedido confirmado pide la reserva; la cantidad disponible la calcula Inventario, la fecha que se le promete al cliente es de acá |
+| [Cadena de suministro y logística](../Cadena-de-suministro-y-logistica/cadena-de-suministro-y-logistica.md) | el despacho y el transporte | El pedido dice a dónde y para cuándo; cómo llega, allá |
+| [Contabilidad](../Contabilidad/contabilidad.md) e [Impuestos](../Impuestos/impuestos.md) | la factura, la cuenta del cliente en el mayor y el impuesto | El pedido dice qué facturar; el comprobante y su impuesto, allá |
+| [Tesorería](../Tesoreria/tesoreria.md) | la decisión de dar crédito y la cobranza | El límite de crédito es un dato del cliente; quién lo fija y cómo se cobra, allá |
 | [Comercio-electronico/Comercio-B2B](../Comercio-electronico/Comercio-B2B/comercio-b2b.md) | la aplicación a la venta mayorista: pedido B2B, precio por cliente, cuenta corriente | Allá, cómo se ve en un mayorista y en la Argentina; acá, el concepto general que lo sostiene |
 | [Datos/Gobierno-y-calidad](../Datos/Gobierno-y-calidad/datos-maestros.md) | el registro de oro entre sistemas | Allá, cómo se logra un solo registro entre sistemas; acá, qué tiene adentro el registro del cliente |
+| [Software de gestión](../Software-de-gestion/software-de-gestion.md) | el CRM como categoría de producto y las piezas comunes (documento y estados, datos maestros, permisos) | Allá, cómo se empaqueta y qué comparte todo producto; acá, el registro del dominio |
+| [Procesos de negocio](../Procesos-de-negocio/del-pedido-al-cobro.md) | el recorrido del pedido al cobro | El recorrido entero allá; cada paso, en su dominio |
 
-Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
+Cuando se armó el tema, varios vecinos no existían y se nombraban sin enlace; la sesión 16 del mapa (#123) los enlazó y sumó a la tabla Software de gestión y Procesos de negocio, que ya estaban en la lista de lo que queda fuera.
 
 ## Árbol
 

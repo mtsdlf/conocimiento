@@ -70,7 +70,7 @@ Un bloqueo detiene una parte del cumplimiento sin cambiar el pedido. Un ERP de u
 
 Lo que dispara un bloqueo suele ser una de tres causas (la lista es criterio de la base):
 
-1. **Crédito.** El cliente pasó su límite o tiene deuda vencida. El límite es un dato de sus [condiciones comerciales](../Registro-del-cliente/condiciones-comerciales.md); quién lo fija y cuándo se levanta el bloqueo es de Tesorería. Un sistema abierto lo vuelve una regla que bloquea las operaciones; un CRM de un proveedor grande lo trata como referencia (el detalle, en condiciones comerciales). Según su resumen, el ERP de los bloqueos también tiene bloqueo por crédito, y los pedidos pendientes pueden caer en él cuando vuelve el stock.
+1. **Crédito.** El cliente pasó su límite o tiene deuda vencida. El límite es un dato de sus [condiciones comerciales](../Registro-del-cliente/condiciones-comerciales.md); quién lo fija y cuándo se levanta el bloqueo es de Tesorería, en [crédito a clientes](../../Tesoreria/Credito-y-cobranzas/credito-a-clientes.md). Un sistema abierto lo vuelve una regla que bloquea las operaciones; un CRM de un proveedor grande lo trata como referencia (el detalle, en condiciones comerciales). Según su resumen, el ERP de los bloqueos también tiene bloqueo por crédito, y los pedidos pendientes pueden caer en él cuando vuelve el stock.
 2. **Aprobación.** El pedido pasa un umbral de monto o de descuento y espera que lo confirme alguien con más autoridad; en un sistema abierto, es una regla de autorización (ver [precio y descuentos](../Presupuesto/precio-y-descuentos.md)).
 3. **Precio.** El precio del renglón quedó por debajo de lo permitido.
 
