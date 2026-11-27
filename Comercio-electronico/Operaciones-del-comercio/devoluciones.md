@@ -20,7 +20,7 @@ revisado: 2026-11-22
 
 Una devolución desanda la cadena de la venta: el producto vuelve, se revisa y, si sirve, vuelve al stock. Cuesta una parte de las ventas que se estima en dos dígitos en EE. UU., y en Argentina la ley fija parte del costo: 10 días para arrepentirse y el envío de vuelta a cargo del vendedor.
 
-Es el último eslabón de la cadena de [Operaciones del comercio](operaciones-del-comercio.md) y repone el [stock](catalogo-y-stock.md) de la variante. Un comercio con local puede recibir en el mostrador lo que vendió online; ese circuito está en [retiro en el local y stock compartido](../Venta-en-varios-canales/Local-fisico-con-caja/retiro-en-el-local-y-stock-compartido.md).
+Es el último eslabón de la cadena de [Operaciones del comercio](operaciones-del-comercio.md) y repone el [stock](catalogo-y-stock.md) de la variante. Un comercio con local puede recibir en el mostrador lo que vendió online; ese circuito está en [retiro en el local y stock compartido](../Venta-en-varios-canales/Local-fisico-con-caja/retiro-en-el-local-y-stock-compartido.md). La devolución en cualquier empresa está en [logística inversa](../../Cadena-de-suministro-y-logistica/Despacho-y-entrega/logistica-inversa.md), y el reingreso al stock, en [recepción](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md).
 
 ## Lo que cuestan
 

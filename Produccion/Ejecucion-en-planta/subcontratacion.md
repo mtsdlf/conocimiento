@@ -53,7 +53,7 @@ Ese saldo es el que más se descuida. El proveedor recibe 1.000 kg de chapa, dev
 | Lo que vuelve y no cumple | Calidad | [no conformidad](../Calidad/no-conformidad.md) |
 | Cuánto costó | Costos | el servicio más el material, en el [costo real de la orden](../Costos-de-produccion/costo-real-de-la-orden.md) |
 
-Las notas de Compras discrepan en un punto: [tipos de orden](../../Compras-y-abastecimiento/Orden-de-compra/tipos-de-orden.md#los-bordes-subcontratación-y-compra-de-activos) dice que la subcontratación termina en una orden al proveedor, y [solicitud de compra](../../Compras-y-abastecimiento/Orden-de-compra/solicitud-de-compra.md) lee que, de los propósitos de la solicitud, solo el de comprar termina en una orden. La documentación de subcontratación del sistema abierto empieza por una orden de compra de subcontratación, que es lo que sostiene la primera lectura.
+Las notas de Compras coinciden en que la subcontratación termina en una orden al proveedor: [tipos de orden](../../Compras-y-abastecimiento/Orden-de-compra/tipos-de-orden.md#los-bordes-subcontratación-y-compra-de-activos) lo dice de la orden, y [solicitud de compra](../../Compras-y-abastecimiento/Orden-de-compra/solicitud-de-compra.md), de los propósitos de la solicitud (comprar y subcontratar). Lo sostiene la documentación de subcontratación del sistema abierto, que empieza por una orden de compra de subcontratación.
 
 ## Qué guarda una subcontratación
 

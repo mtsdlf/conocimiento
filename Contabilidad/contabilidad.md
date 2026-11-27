@@ -6,7 +6,7 @@ estabilidad: semi
 fuentes:
   - "OpenStax, Principles of Financial Accounting (2019), caps. 1 a 5: https://openstax.org/details/books/principles-financial-accounting"
   - "OpenStax, Principles of Managerial Accounting (2019), cap. 1: https://openstax.org/details/books/principles-managerial-accounting"
-  - "APQC, Process Classification Framework 7.2.1, categoría 9.0 Manage Financial Resources (copia de terceros; ver Contabilidad/ALCANCE.md)"
+  - "APQC, Process Classification Framework Cross-Industry 7.4 (agosto de 2024), categoría 9.0 Manage Financial Resources, pp. 23-26 (copia de la IFRC; ver Contabilidad/ALCANCE.md): https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Contabilidad/.investigacion/ (seis informes, 2026-11-27, y tres de la ampliación de arrendamientos, impuesto diferido y activo construido)"
 aliases: [contabilidad, accounting, contabilidad general, contabilidad financiera, teneduría de libros, bookkeeping, general ledger]
 creado: 2026-11-27
@@ -44,11 +44,11 @@ flowchart LR
 
 El límite con cada vecino sigue una regla: cada dominio es dueño de un objeto y un verbo, y los demás lo enlazan. La tabla completa está en el [alcance del tema](ALCANCE.md). Lo que más se confunde:
 
-- **Con la tesorería.** La contabilidad registra lo devengado y concilia el banco; la tesorería cobra, paga y cuida la posición de caja. El tema Tesorería y finanzas de la empresa en marcha todavía no está escrito.
+- **Con la tesorería.** La contabilidad registra lo devengado y concilia el banco; la tesorería cobra, paga y cuida la posición de caja, y eso está en [Tesorería](../Tesoreria/tesoreria.md).
 - **Con las finanzas de una empresa que empieza.** La pista, el consumo mensual y el capital inicial siguen en [Finanzas de Emprender](../Emprender/Finanzas/finanzas.md); caja frente a resultado y el punto de equilibrio son de acá ([devengado](Registro/devengado.md), [punto de equilibrio](Contabilidad-de-gestion/punto-de-equilibrio.md)).
-- **Con los impuestos.** Acá se registra el IVA o la provisión de Ganancias; qué se paga y cómo se declara va al tema Impuestos, todavía no escrito.
-- **Con el cierre de período.** El cierre como recorrido entre áreas es un proceso de punta a punta (del registro al balance) del tema Procesos de negocio; acá quedan los [ajustes de cierre](Estados-contables/ajustes-de-cierre.md).
-- **Con el software.** La partida doble tiene siglos (Pacioli la imprimió en 1494 y los primeros libros que la usan son anteriores) y nació en papel. Cómo la modela una base de datos está en [registro de movimientos](../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y va a estar en el tema Software de gestión.
+- **Con los impuestos.** Acá se registra el IVA o la provisión de Ganancias; qué se paga y cómo se declara está en [Impuestos](../Impuestos/impuestos.md).
+- **Con el cierre de período.** El cierre como recorrido entre áreas es un proceso de punta a punta, [del registro al balance](../Procesos-de-negocio/del-registro-al-balance.md), del tema Procesos de negocio; acá quedan los [ajustes de cierre](Estados-contables/ajustes-de-cierre.md).
+- **Con el software.** La partida doble tiene siglos (Pacioli la imprimió en 1494 y los primeros libros que la usan son anteriores) y nació en papel. Cómo la modela una base de datos está en [registro de movimientos](../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) y, del lado del producto, en [registro de movimientos y dimensiones](../Software-de-gestion/Columnas-tecnicas/registro-de-movimientos-y-dimensiones.md), del tema Software de gestión.
 
 ## Qué leer según lo que estés haciendo
 
@@ -64,12 +64,12 @@ El límite con cada vecino sigue una regla: cada dominio es dueño de un objeto 
 - Si tenés que calcular el gasto por impuesto a las ganancias del cierre: [impuesto diferido](Estados-contables/impuesto-diferido.md) e [impuesto diferido en Argentina](Estados-contables/impuesto-diferido-en-argentina.md); qué se paga es del tema [Impuestos](../Impuestos/impuestos.md).
 - Si tenés que resolver los gastos de empleados y la caja chica: [gastos y rendiciones](Operaciones/gastos-y-rendiciones.md).
 - Si tenés que entender o emitir un balance: [estados contables](Estados-contables/estados-contables.md), [balance](Estados-contables/balance.md), [estado de resultados](Estados-contables/estado-de-resultados.md) y [estado de flujo de efectivo](Estados-contables/estado-de-flujo-de-efectivo.md).
-- Si tenés que preparar un cierre de mes: [ajustes de cierre](Estados-contables/ajustes-de-cierre.md) y [conciliaciones](Control-interno/conciliaciones.md); el recorrido entre áreas no tiene nota todavía (va a estar en Procesos de negocio).
+- Si tenés que preparar un cierre de mes: [ajustes de cierre](Estados-contables/ajustes-de-cierre.md) y [conciliaciones](Control-interno/conciliaciones.md); el recorrido entre áreas (quién entrega qué y en qué día) está en [del registro al balance](../Procesos-de-negocio/del-registro-al-balance.md).
 - Si tenés que calcular cuánto vender para no perder o fijar un precio desde el costo: [punto de equilibrio](Contabilidad-de-gestion/punto-de-equilibrio.md), [clasificación de costos](Contabilidad-de-gestion/clasificacion-de-costos.md) y [sistemas de costeo](Contabilidad-de-gestion/sistemas-de-costeo.md).
 - Si tenés que armar un presupuesto y seguir sus desvíos: [presupuesto](Contabilidad-de-gestion/presupuesto.md).
 - Si tenés que operar con varias monedas: [moneda extranjera](Operaciones/moneda-extranjera.md); varias empresas, en la sección de consolidación de [normas contables](Estados-contables/normas-contables.md).
 - Si tenés que saber qué exige la ley argentina: [libros contables en Argentina](Registro/libros-contables-en-argentina.md) y [normas contables en Argentina](Estados-contables/normas-contables-en-argentina.md).
-- Si tenés que liquidar impuestos o sueldos: no hay nota acá; lo más cercano es la sección de sueldos de [operaciones](Operaciones/operaciones.md), y los temas Impuestos y Administración de personal y nómina, todavía no escritos.
+- Si tenés que liquidar impuestos o sueldos: no es de este tema, que solo trae el asiento de sueldos en [operaciones](Operaciones/operaciones.md#cómo-se-registran-los-sueldos). Los impuestos están en [Impuestos](../Impuestos/impuestos.md) y la liquidación, en [liquidación de sueldos](../Administracion-de-personal-y-nomina/Liquidacion-de-sueldos/liquidacion-de-sueldos.md), del tema Administración de personal y nómina.
 
 ## Orden de lectura
 

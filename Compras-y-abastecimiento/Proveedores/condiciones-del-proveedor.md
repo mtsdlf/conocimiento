@@ -54,13 +54,13 @@ La unidad de compra se define acá y importa al recibir: la documentación de re
 
 ## Condición de pago: se negocia acá y se paga en Tesorería
 
-La condición de pago dice cuántos días después de la factura, o en qué cuotas, se le paga al proveedor. En el sistema abierto citado es una plantilla que se asigna al proveedor, y sigue la misma prioridad que el resto del registro: la del proveedor gana sobre la de su grupo, y la del grupo sobre la de la empresa. Se negocia en Compras; la deuda la registra Contabilidad: al recibir, como recibido sin facturar, y se confirma con la factura ([compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md)). El pago es de Tesorería, todavía no armado.
+La condición de pago dice cuántos días después de la factura, o en qué cuotas, se le paga al proveedor. En el sistema abierto citado es una plantilla que se asigna al proveedor, y sigue la misma prioridad que el resto del registro: la del proveedor gana sobre la de su grupo, y la del grupo sobre la de la empresa. Se negocia en Compras; la deuda la registra Contabilidad: al recibir, como recibido sin facturar, y se confirma con la factura ([compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md)). El pago es de Tesorería, en [pagos a proveedores](../../Tesoreria/Pagos-a-proveedores/pagos-a-proveedores.md).
 
 En la Argentina, la factura de crédito electrónica le pone un plazo legal a la aceptación de la factura; está en [Compras y abastecimiento en la Argentina](../compras-y-abastecimiento-en-argentina.md).
 
 ## Incoterms: quién paga el flete y quién corre el riesgo
 
-Cuando la compra viaja, el registro guarda también la regla de entrega. Según una página del gobierno de Estados Unidos que describe el texto de la Cámara de Comercio Internacional, los Incoterms (11 reglas, edición 2020) definen las tareas, los costos y el traspaso del riesgo de pérdida o daño entre vendedor y comprador. No dicen el método ni el momento del pago, ni cuándo pasa la propiedad de la mercadería. Esas exclusiones salen de esa página; la de la ICC las deja sin decir. La importación como operación (aduana, despachante, flete internacional) es de Cadena de suministro y logística, todavía no armado.
+Cuando la compra viaja, el registro guarda también la regla de entrega. Según una página del gobierno de Estados Unidos que describe el texto de la Cámara de Comercio Internacional, los Incoterms (11 reglas, edición 2020) definen las tareas, los costos y el traspaso del riesgo de pérdida o daño entre vendedor y comprador. No dicen el método ni el momento del pago, ni cuándo pasa la propiedad de la mercadería. Esas exclusiones salen de esa página; la de la ICC las deja sin decir. Las reglas una por una están en [Incoterms](../../Cadena-de-suministro-y-logistica/Comercio-exterior/incoterms.md), y la importación como operación (aduana, despachante, flete internacional), en [Comercio exterior](../../Cadena-de-suministro-y-logistica/Comercio-exterior/comercio-exterior.md), de Cadena de suministro y logística.
 
 ## Dónde vive cada condición
 

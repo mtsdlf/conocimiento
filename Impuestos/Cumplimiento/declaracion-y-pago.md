@@ -21,7 +21,7 @@ Declarar y pagar es el paso en que la empresa calcula lo que debe de cada impues
 
 Este paso del [cumplimiento](cumplimiento.md) cierra el período. Recibe los datos de los [registros fiscales](registros-fiscales.md), que salen de cada [comprobante fiscal](comprobante-fiscal.md). Lo que se suma y se resta depende del impuesto: el [IVA](../Impuestos-al-consumo/iva.md) liquida débito menos crédito, el impuesto a la renta parte del [resultado impositivo](../Impuestos-a-la-renta/resultado-impositivo.md), y los dos descuentan los [pagos a cuenta](../Recaudacion-en-la-fuente/pagos-a-cuenta.md).
 
-Esta nota es dueña de cuánto se debe y cuándo vence. Pagar y tener la caja ese día es del tema Tesorería y finanzas de la empresa en marcha (todavía no escrito).
+Esta nota es dueña de cuánto se debe y cuándo vence. Pagar y tener la caja ese día es de [Tesorería](../../Tesoreria/tesoreria.md), que pone los impuestos como salidas en la [proyección de caja](../../Tesoreria/Caja-y-liquidez/proyeccion-de-caja.md).
 
 ## Quién calcula el impuesto: autoliquidación o liquidación del fisco
 
