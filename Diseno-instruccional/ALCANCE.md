@@ -54,7 +54,7 @@ Diseno-instruccional/
     carga-cognitiva-en-el-aprendizaje.md Sweller, inversión de la experticia, crítica de de Jong
     principios-multimedia.md             Mayer: tabla de efectos y condiciones de borde
   Formatos/                              tres ejes: medio, ritmo y estructura social, contexto
-    formatos.md                          con bootcamps y microaprendizaje como huecos
+    formatos.md                          con bootcamps y microaprendizaje (resúmenes, sin nota propia)
     en-linea-presencial-y-mixto.md       Means 2013, Bernard 2004
     cohorte-o-ritmo-propio.md            sin evidencia comparativa
     aprender-en-el-trabajo.md            70-20-10 como folklore
@@ -74,7 +74,7 @@ Diseno-instruccional/
 - **El grafo de competencias no tiene nota propia**: es una herramienta de representación de la jerarquía de prerrequisitos y va dentro de `jerarquia-de-aprendizaje.md`, con los espacios de conocimiento como su base formal.
 - **El currículo oculto va dentro de la alineación constructiva** (por el backwash), no como nota.
 - **Los modelos se dividieron en tres clases** (procesos de proyecto, orden de decisiones, qué lleva una buena instrucción) y 4C/ID como modelo que cubre las tres. Merrill y Gagné van juntos en una nota porque ninguno tiene evidencia propia suficiente para una nota por autor. Dick y Carey va dentro de `addie-y-sam.md` como modelo de proceso.
-- **Formatos se organizó por ejes** (medio, ritmo y estructura social, contexto) y no por formato. Bootcamps y microaprendizaje no tienen nota: no hay evidencia investigada y quedan como hueco declarado en `formatos.md`.
-- **Materiales tiene dos componentes**: la atención dividida y los ejemplos resueltos con subobjetivos quedan como hueco hasta investigarlos.
+- **Formatos se organizó por ejes** (medio, ritmo y estructura social, contexto) y no por formato. Bootcamps y microaprendizaje no tienen nota: al escribir no había evidencia investigada; desde 2026-11 `formatos.md` resume lo que se encontró.
+- **Materiales tiene dos componentes**: la atención dividida y los ejemplos resueltos con subobjetivos quedaron como hueco; desde 2026-11 tienen una fuente mínima en `materiales-y-carga-cognitiva.md` y siguen sin nota propia.
 - **Los manuales de referencia van en la entrada de Fundamentos**, sin nota de bibliografía aparte. Teorías del aprendizaje, historia general y cómo leer la evidencia educativa se nombran y se enlazan a los temas del área que las escriben.
 - La andragogía se trata como mito en este tema (la asignó así el informe de mitos del área); su crítica completa como teoría del adulto es de Ciencias del aprendizaje.

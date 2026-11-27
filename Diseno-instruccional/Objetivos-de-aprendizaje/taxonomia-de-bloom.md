@@ -7,9 +7,11 @@ fuentes:
   - "Krathwohl (2002), A Revision of Bloom's Taxonomy: An Overview, Theory Into Practice 41(4), 212-218: https://ocw.metu.edu.tr/mod/resource/view.php?id=4265"
   - "Anderson y Krathwohl (eds.) (2001), A Taxonomy for Learning, Teaching, and Assessing (no leído)"
   - "Bloom's taxonomy (Wikipedia): https://en.wikipedia.org/wiki/Bloom%27s_taxonomy (página parcial)"
-  - "Tabla de críticas en CBE-Life Sciences Education: https://pmc.ncbi.nlm.nih.gov/articles/PMC9727608/table/T1 (resumen del buscador)"
+  - "Larsen, Endo, Yee, Do y Lo (2022), Probing Internal Assumptions of the Revised Bloom's Taxonomy, CBE-Life Sciences Education, doi 10.1187/cbe.20-08-0170: https://pmc.ncbi.nlm.nih.gov/articles/PMC9727608 (texto completo)"
+  - "Agarwal (2019), Retrieval Practice & Bloom's Taxonomy: Do Students Need Fact Knowledge before Higher Order Learning?, Journal of Educational Psychology 111(2), 189-209, doi 10.1037/edu0000282: https://eric.ed.gov/?id=EJ1205208 (abstract)"
   - "Diseno-instruccional/.investigacion/analisis-objetivos-secuencia.md"
   - "Didactica/.investigacion/fundamentos-del-area-2.md"
+  - "Diseno-instruccional/.investigacion/fuentes-objetivos-y-secuencia-2026-11.md"
 aliases: [Bloom's taxonomy, taxonomía de Bloom revisada, Anderson y Krathwohl, niveles de Bloom, dominio cognitivo]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -43,10 +45,17 @@ El original suponía «a cumulative hierarchy»: dominar cada categoría simple 
 > [!IMPORTANT]
 > **Los procesos forman una jerarquía (Krathwohl 2002).** Con solapamientos; Krathwohl cree que probablemente tenga el mismo respaldo empírico que el original.
 >
-> **La estructura acumulativa tiene problemas en los datos.** Estudios psicométricos (Furst 1981; Kreitzer y Madaus 1994; Booker 2007, citados en una tabla de *CBE-Life Sciences Education*; los originales no se abrieron) encontraron inconsistencias en la jerarquía. Las críticas de que la taxonomía no dice nada sobre cómo se aprende aparecen en notas de opinión, no en una revisión sistemática.
+> **La estructura acumulativa tiene problemas en los datos.** Larsen y otros (2022) resumen los estudios psicométricos del original (Madaus et al. 1973; Hill y McGaw 1981, entre otros; los originales no se abrieron). Esos estudios hallaron, por ejemplo, que «an underlying factor predicts performance on assessment items in all six cognitive-process categories» y conexiones directas entre categorías no consecutivas. Su conclusión: «the cumulative hierarchy model of the original taxonomy did not have a strong basis in evidence». Para la revisión citan evidencia de «a relaxed hierarchy», con solapamiento entre niveles no adyacentes. Las críticas de que la taxonomía no dice nada sobre cómo se aprende aparecen en notas de opinión, no en una revisión sistemática.
+
+## Lo que muestran los datos sobre su uso
+
+Dos estudios ponen a prueba supuestos con los que se usa la taxonomía:
+
+- **Los verbos no alcanzan para clasificar.** Larsen y otros (2022) clasificaron 940 ítems de evaluación, la mayoría de cursos universitarios de biología. No encontraron «a clear relationship between question prompt words (including action verbs) and cognitive processes». Concluyen que los verbos «alone are not sufficient» para ubicar un ítem en la taxonomía. También hallaron que las dos dimensiones no son independientes: el conocimiento factual va con recordar, el procedimental con aplicar y el conceptual con el resto.
+- **Practicar hechos primero no fue lo que mejoró el orden superior.** Agarwal (2019) comparó práctica de recuperación con preguntas de hechos, de orden superior o mixtas, con estudiantes de escuela media (*middle school*) y universitarios. Según su resumen, «higher order and mixed quizzes improved higher order test performance, but fact quizzes did not».
 
 ## Para qué usarla y para qué no
 
-Sirve para dos cosas: clasificar los objetivos con un vocabulario común, y detectar que todos quedaron en recordar. No sirve para ordenar la enseñanza de abajo hacia arriba («primero que memoricen, después que apliquen»), porque la revisión misma dejó de afirmar que cada nivel sea prerrequisito del siguiente. El orden sale de los prerrequisitos de la tarea, en [jerarquía de aprendizaje](../Secuencia-y-curriculo/jerarquia-de-aprendizaje.md).
+Sirve para dos cosas: clasificar los objetivos con un vocabulario común, y detectar que todos quedaron en recordar. No sirve para ordenar la enseñanza de abajo hacia arriba («primero que memoricen, después que apliquen»): la revisión misma dejó de afirmar que cada nivel sea prerrequisito del siguiente, y el estudio de Agarwal (2019) encontró que practicar solo hechos no mejoró el desempeño de orden superior. Leer ese resultado contra el orden de abajo hacia arriba es una lectura de esta base: Agarwal compara tipos de práctica de recuperación y dice que la base de hechos «may be less potent». Tampoco alcanza con elegir el verbo de una lista para saber en qué celda cae un objetivo. El orden sale de los prerrequisitos de la tarea, en [jerarquía de aprendizaje](../Secuencia-y-curriculo/jerarquia-de-aprendizaje.md).
 
-> [!NOTE] Sin fuente todavía: una revisión sistemática reciente sobre la validez de la taxonomía.
+> [!NOTE] Sin fuente todavía: una revisión sistemática reciente sobre la validez de la taxonomía; en tres rondas no apareció ninguna.

@@ -46,13 +46,13 @@ Los libros no se leyeron enteros y se eligieron por sus fichas y por los informe
 | Decidir si hace falta formar | Mager y Pipe, *Analyzing Performance Problems* (3.ª ed., 1997) | El diagrama de preguntas |
 | Escribir objetivos | Mager, *Preparing Instructional Objectives* (3.ª ed., 1997) | Los tres componentes |
 | Clasificar objetivos | Krathwohl, «A Revision of Bloom's Taxonomy: An Overview» (2002) | Las dos dimensiones, en un artículo corto |
-| Panorama del campo | Reiser y Dempsey, *Trends and Issues in Instructional Design and Technology* (4.ª ed., 2018); *Handbook of Research in Educational Communications and Technology: Learning Design* (5.ª ed., 2020) | No se pudo abrir el índice de ninguno |
+| Panorama del campo | Reiser y Dempsey, *Trends and Issues in Instructional Design and Technology* (4.ª ed., 2018); *Handbook of Research in Educational Communications and Technology: Learning Design* (5.ª ed., 2020) | Del *Handbook* se vio la lista de capítulos: no trae uno sobre modelos (ver [modelos de diseño](../Modelos-de-diseno/modelos-de-diseno.md)); de Reiser y Dempsey, nada |
 | Contrapeso a la carga cognitiva | de Jong, «Cognitive load theory, educational research, and instructional design» (2010, abierto) | Las secciones sobre medición |
 
 Otros manuales que el informe del área propone sin verificar: Gagné, Wager, Golas y Keller, *Principles of Instructional Design*, y Clark y Mayer, *e-Learning and the Science of Instruction*.
 
 ## Qué hay en los fundamentos
 
-- [Historia del diseño instruccional](historia-del-diseno-instruccional.md): de la formación militar de posguerra y la instrucción programada a ADDIE, la carga cognitiva y 4C/ID.
+- [Historia del diseño instruccional](historia-del-diseno-instruccional.md): de la formación militar de la guerra y la posguerra y la instrucción programada a ADDIE, la carga cognitiva y 4C/ID.
 - [Mitos del diseño instruccional](mitos-del-diseno-instruccional.md): 70-20-10, la andragogía en versión fuerte, el aprendiz que sabe qué le conviene, ADDIE como modelo probado y Bloom como orden.
 - [Glosario de diseño instruccional](glosario-de-diseno-instruccional.md): los términos del tema en una línea, con la nota donde se explica cada uno.
