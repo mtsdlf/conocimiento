@@ -35,6 +35,7 @@ Bases-de-datos/
     base-de-documentos        documentos JSON anidados, esquema flexible
     base-clave-valor          una clave, un valor; caché y sesiones
     modelos-especializados    grafos, series de tiempo, búsqueda, vectores
+    registro-de-movimientos   stock y saldos como filas que no se editan (sumado el 2026-11-27)
   SQL/                        hondo: el lenguaje para consultar y modificar
     consulta-select           cláusulas y orden lógico de ejecución
     join                      inner, left, cross, autojoin; joins que multiplican

@@ -101,9 +101,9 @@ caso del stock se resuelve con una escritura condicional o un bloqueo explícito
   vender lo que no hay está en [modificar datos](SQL/modificar-datos.md#descontar-stock-sin-vender-lo-que-no-hay).
 - Si dudás entre un ORM y escribir el SQL a mano: [SQL desde una aplicación](SQL/sql-desde-una-aplicacion.md#orm-o-sql-a-mano).
 - Si tenés que diseñar las tablas: [definir tablas](SQL/definir-tablas.md) y [base relacional](Modelos-de-datos/base-relacional.md).
-- Si tenés que diseñar el sistema de stock y ventas completo: no hay nota todavía; lo más cercano es
-  [definir tablas](SQL/definir-tablas.md), [concurrencia](Transacciones/concurrencia.md) y
-  [cuándo pasar a una base](../Planillas-de-calculo/cuando-pasar-a-una-base.md).
+- Si tenés que llevar el stock (o cualquier saldo) en una base: [registro de movimientos](Modelos-de-datos/registro-de-movimientos.md),
+  después [definir tablas](SQL/definir-tablas.md) y [concurrencia](Transacciones/concurrencia.md). Qué es el stock de un
+  comercio está en [catálogo y stock](../Comercio-electronico/Operaciones-del-comercio/catalogo-y-stock.md).
 - Si una planilla ya no alcanza: [cuándo pasar a una base](../Planillas-de-calculo/cuando-pasar-a-una-base.md).
 
 ## Orden de lectura

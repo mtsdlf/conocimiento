@@ -51,3 +51,4 @@ Un error de diseño también puede ser que la herramienta ya no alcance. Cuando 
 - [Entradas, cálculo y salidas](entradas-calculo-salidas.md) — la estructura que separa supuestos de cálculos, con los principios del ICAEW aplicados a una planilla de costos.
 - [Errores en planillas](errores-en-planillas.md) — cuánto fallan de verdad, qué mide cada cifra que circula, los tipos de error y los casos públicos.
 - [Revisar una planilla](revisar-una-planilla.md) — rastrear precedentes, controles, pruebas y revisión por pares, en Excel y en Sheets.
+- [Planilla de stock](planilla-de-stock.md) — el caso armado: productos, movimientos y stock calculado, con el mínimo, el conteo físico y lo que pasa cuando cargan varios.

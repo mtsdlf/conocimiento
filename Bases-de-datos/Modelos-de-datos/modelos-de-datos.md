@@ -97,6 +97,8 @@ las de familia de columnas son "a niche market".
   lo que se pierde si se cae.
 - [Modelos especializados](modelos-especializados.md) — grafos, series de tiempo, búsqueda de
   texto y vectores; cuándo alcanza una base relacional con una extensión.
+- [Registro de movimientos](registro-de-movimientos.md) — guardar cada cambio de stock o de saldo como
+  una fila que no se edita y calcular el saldo sumando; cómo se combina con una columna de saldo.
 
 Los servicios de Azure que implementan cada familia están en
 [Almacenamiento y bases de datos en Azure](../../Cloud/Datos-operacionales/almacenamiento-y-bases-de-datos-en-azure.md).

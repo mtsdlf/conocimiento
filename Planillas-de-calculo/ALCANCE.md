@@ -56,6 +56,7 @@ Planillas-de-calculo/
     entradas-calculo-salidas  la estructura que separa supuestos de cálculos
     errores-en-planillas      cuánto fallan las planillas, con casos y estudios
     revisar-una-planilla      rastrear precedentes, auditar antes de confiar
+    planilla-de-stock         movimientos y stock calculado (sumado el 2026-11-27)
   Automatizar-y-compartir/    macros y scripts, y trabajar varios sobre el mismo archivo
     macros                    VBA y Office Scripts en Excel
     apps-script               automatizar Google Sheets
