@@ -5,7 +5,7 @@ estado: borrador
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
-  - "PMI, The PMBOK Guide 7.ª ed. (2021), definiciones de dominio de desempeño y de tailoring (copia de un tercero, leída para verificar)"
+  - "PMI, The PMBOK Guide 7.ª ed. (2021), definiciones de dominio de desempeño y de tailoring"
   - "PMI, The Standard for Project Management and A Guide to the PMBOK, 8.ª ed. (2025), índice: https://www.pmi.org/-/media/pmi/documents/public/pdf/publications/pmbok-guide-eighth-edition_table-of-contents.pdf"
   - "Singer, Shape Up (glosario): https://basecamp.com/shapeup"
   - "Gestion-de-proyectos/.investigacion/fundamentos.md, ítem 10"

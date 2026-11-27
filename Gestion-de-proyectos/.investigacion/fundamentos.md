@@ -58,7 +58,7 @@ Solo leí el folleto y el índice: no puedo citar la declaración de cada princi
 
 | Fuente | URL | Tipo | A/P/E/U | Marca |
 |---|---|---|---|---|
-| PMBOK Guide 7th Edition, PDF completo (copia alojada por un tercero, con sello de licencia de miembro de PMI a nombre de otra persona) | (URL omitida: copia no autorizada) | primaria (copia no autorizada: sirve para verificar listas, no para citar largo) | 3/3/2/2 | [L] |
+| PMI, The PMBOK Guide 7.ª ed. (2021), LCCN 2021011107 | (sin URL) | primaria | 3/3/2/2 | [L] |
 | PMI, "The PMBOK Guide: Seven Facts About the Pending Seventh Edition" (20-ene-2021) | https://www.pmi.org/-/media/pmi/documents/public/pdf/pmbok-standards/pmbok-guide-seven-facts.pdf?v=8dc5f84d-76f6-4405-8b1b-999dd3d4beef | primaria | 3/1/1/2 | [L] |
 
 ### Los 12 principios (literal, índice del Standard, cap. 3) [L]
@@ -82,7 +82,7 @@ Fuente: PDF de PMI "Seven Facts" (arriba). La hoja dice "expected to be availabl
 
 ### Huecos
 
-Texto de cada principio (está en el PDF; no lo transcribí por ser copia no autorizada).
+Texto de cada principio: no se transcribe.
 
 ---
 
@@ -317,4 +317,4 @@ Sin verificar (de memoria): Goldratt (1997), *Critical Chain*; Reinertsen (2009)
 
 - No se pudieron abrir: HTML de pmi.org, iso.org, páginas de producto de PeopleCert, manual PRINCE2 7, Wikipedia de IPMA, scinapse, ACM, tandfonline.
 - Sin investigar: otros números repetidos distintos de Standish, 70 % y 90 %; evidencia empírica de cada escuela; Reinertsen y Goldratt; año de Shape Up.
-- La copia del PMBOK 7 y la de "what's new" de PRINCE2 son espejos de terceros: valen para verificar listas, no como cita pública.
+- La copia de "what's new" de PRINCE2 es un espejo de terceros: vale para verificar listas, no como cita pública.

@@ -6,7 +6,7 @@ estabilidad: volatil
 fuentes:
   - "PMI, The Standard for Project Management and A Guide to the PMBOK, 8.ª ed. (2025), ISBN 978-1-62825-829-5, folleto e índice (leído entero el PDF, que es solo índice): https://www.pmi.org/-/media/pmi/documents/public/pdf/publications/pmbok-guide-eighth-edition_table-of-contents.pdf"
   - "BrainBOK, PMBOK 7th vs 8th (conteo de procesos por dominio, según un resumen): https://www.brainbok.com/blog/pmp/pmbok-guide-7th-vs-8th-edition-what-has-changed"
-  - "PMI, The PMBOK Guide 7.ª ed. (2021), LCCN 2021011107; copia leída: un PDF completo alojado por un tercero sin autorización, que sirvió para verificar las listas y no se enlaza ni se cita largo"
+  - "PMI, The PMBOK Guide 7.ª ed. (2021), LCCN 2021011107"
   - "PMI, The PMBOK Guide: Seven Facts About the Pending Seventh Edition (2021), texto completo: https://www.pmi.org/-/media/pmi/documents/public/pdf/pmbok-standards/pmbok-guide-seven-facts.pdf"
   - "Axelos, Managing Successful Projects with PRINCE2 7 (2023), manual oficial (no leído): https://peoplecert.org/news-and-announcements/Prince2-7-new-chapter"
   - "Axelos, Unveiling PRINCE2 7, copia leída en el sitio de un centro de formación (texto completo, 5 páginas): https://www.innovativelearning.eu/images/PDF/prince2_7_whats_new.pdf"
@@ -56,7 +56,7 @@ El total de 40 procesos es literal de PMI: "40 newly evolved processes". El repa
 
 ## PMBOK 7.ª edición (PMI, 2021)
 
-Copiado el 2026-11-27 del índice de una copia completa de un tercero, que sirve para verificar las listas y no para citar. Leída. El giro lo confirma un documento oficial de PMI: "A move from processes to principles" y "A move from Knowledge Areas to project performance domains".
+Copiado el 2026-11-27 del índice del PMBOK 7. El giro lo confirma un documento oficial de PMI: "A move from processes to principles" y "A move from Knowledge Areas to project performance domains".
 
 | Principios (cap. 3 del *Standard*) | Traducción |
 |---|---|

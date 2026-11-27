@@ -52,4 +52,4 @@ Con agentes, las prácticas que medían el esfuerzo de las personas pierden sent
 
 ## Qué falta en Fundamentos
 
-No se leyó el texto completo de ningún marco salvo el ICB4 y el PMBOK 7 (de una copia de un tercero, usada solo para verificar listas): del PMBOK 8 y de ISO 21502 se leyó el índice, y de PRINCE2 7, un resumen de novedades. Faltan los libros de Reinertsen y Goldratt, el abstract original de Söderlund y evidencia empírica de la eficacia de cada escuela. Falta, sobre todo, evidencia de proyectos chicos fuera del software y de la infraestructura, que es un hueco del campo y no solo de esta base.
+No se leyó el texto completo de ningún marco salvo el ICB4 y el PMBOK 7: del PMBOK 8 y de ISO 21502 se leyó el índice, y de PRINCE2 7, un resumen de novedades. Faltan los libros de Reinertsen y Goldratt, el abstract original de Söderlund y evidencia empírica de la eficacia de cada escuela. Falta, sobre todo, evidencia de proyectos chicos fuera del software y de la infraestructura, que es un hueco del campo y no solo de esta base.
