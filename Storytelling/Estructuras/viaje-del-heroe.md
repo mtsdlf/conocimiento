@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El viaje del héroe es el esquema en que un protagonista deja su mundo, enfrenta pruebas y vuelve cambiado, que Campbell propuso como patrón común de los mitos. Vogler lo convirtió en doce etapas para guionistas, y StoryBrand en siete partes para mensajes de marca, con el cliente como héroe; ninguno de los tres tiene evidencia experimental.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Campbell (1949), The Hero with a Thousand Faces (no se leyó; sin URL verificada)"
@@ -13,7 +13,7 @@ fuentes:
   - "Storytelling/.investigacion/historia-y-estructuras.md, sección 4"
 aliases: [viaje del héroe, hero's journey, monomito, monomyth, Campbell, Vogler, StoryBrand, SB7, el cliente es el héroe, la marca como guía]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Viaje del héroe

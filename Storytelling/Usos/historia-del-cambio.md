@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La historia del cambio es el relato que usa quien conduce un cambio en una organización para que la gente entienda por qué hay que cambiar y hacia dónde. Las prácticas más citadas (comunicar la visión de Kotter, el relato trampolín de Denning) no tienen prueba de que mejoren el resultado, y la teoría del sensemaking dice que el sentido lo arma la gente entre todos, no solo la dirección.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Kotter (1995), Leading Change: Why Transformation Efforts Fail, Harvard Business Review 73(2):59-67: https://psnet.ahrq.gov/issue/leading-change-why-transformation-efforts-fail (según resumen)"
@@ -13,7 +13,7 @@ fuentes:
   - "Storytelling/.investigacion/usos.md, sección 4"
 aliases: [storytelling organizacional, organizational storytelling, relato trampolín, springboard story, historia trampolín, comunicar la visión, sensemaking, antenarrativa, antenarrative, narrativa del cambio]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia del cambio

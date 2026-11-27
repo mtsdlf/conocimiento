@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos, siglas y nombres de métodos que usan las notas de storytelling, cada uno con su nombre en inglés, una definición corta y la nota donde vive.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Las notas del tema que enlaza cada término, con sus propias fuentes"
@@ -12,7 +12,7 @@ fuentes:
   - "Storytelling/.investigacion/fundamentos-y-contraria.md, secciones 1, 3 y 4; Storytelling/.investigacion/historia-y-estructuras.md; Storytelling/.investigacion/por-que-convence.md, sección 1; Storytelling/.investigacion/usos.md, secciones 1 y 4"
 aliases: [glosario de storytelling, términos de storytelling, vocabulario de storytelling, storytelling glossary, siglas de storytelling]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de storytelling

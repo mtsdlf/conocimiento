@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El arco narrativo es la forma que toma una historia en el tiempo: cómo sube y baja la suerte del protagonista desde el comienzo hasta el final. Bajo ese nombre circulan tres cosas distintas: la pirámide atribuida a Freytag, el arco en tres actos del guion y los seis arcos emocionales que Reagan y colegas midieron por computadora en novelas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Reagan, Mitchell, Kiley, Danforth y Dodds (2016), EPJ Data Science (preprint arXiv:1606.07772): https://arxiv.org/abs/1606.07772 y https://arxiv.org/pdf/1606.07772 (texto)"
@@ -13,7 +13,7 @@ fuentes:
   - "Storytelling/.investigacion/historia-y-estructuras.md, nota sobre la división del árbol y sección 3"
 aliases: [arco, arco narrativo, arco emocional, pirámide de Freytag, Freytag's pyramid, tres actos, three-act structure, narrative arc, emotional arc, seis arcos, man in a hole]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Arco narrativo

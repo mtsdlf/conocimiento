@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las estructuras cortas son plantillas para contar una historia en pocas frases: el ABT («y, pero, por lo tanto») de Olson y la columna de la historia (Story Spine) de Kenn Adams, que Pixar hizo conocida. Vienen del oficio de la improvisación y del guion, y no tienen experimentos que midan si convencen.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Entrevista de NPR a Kenn Adams (2026-06-23): https://www.npr.org/transcripts/nx-s1-5750619 (no abrió); réplica en NHPR: https://www.nhpr.org/2026-06-23/meet-the-creator-of-the-story-spine-an-8-sentence-tool-to-create-and-analyze-stories (según resumen)"
@@ -13,7 +13,7 @@ fuentes:
   - "Storytelling/.investigacion/historia-y-estructuras.md, sección 5"
 aliases: [ABT, And But Therefore, y pero por lo tanto, Story Spine, columna de la historia, columna de Pixar, Pixar pitch, había una vez, Narrative Index, YABT]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estructuras cortas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las estructuras son las formas de ordenar una historia en el tiempo: el arco, el viaje del héroe y StoryBrand, las plantillas cortas (ABT y la columna de Pixar) y, como alternativa de negocios, la pirámide de Minto con su introducción SCQA. Casi todas son recetas de practicantes sin experimentos detrás; se eligen por el largo y el uso, no por evidencia de que una convenza más.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Reagan y colegas (2016), arXiv:1606.07772: https://arxiv.org/pdf/1606.07772 (texto)"
@@ -11,7 +11,7 @@ fuentes:
   - "Storytelling/.investigacion/fundamentos-y-contraria.md, sección 3 («¿La respuesta primero le gana a la historia con ejecutivos?»)"
 aliases: [estructuras narrativas, estructura de una historia, story structure, frameworks de storytelling, plantillas de historia]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estructuras

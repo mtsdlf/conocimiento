@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Historia o argumento es la decisión entre convencer con un caso narrado o con datos y razones. La evidencia no da un ganador fijo: depende de si se quiere mover una creencia o una intención, de cuánto compromiso emocional tiene quien decide, y combinar las dos formas rinde más que cada una sola.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Zebregs, van den Putte, Neijens y de Graaf (2015), The differential impact of statistical and narrative evidence on beliefs, attitude, and intention, Health Communication 30(3), 282-289: https://pure.uva.nl/ws/files/2680645/167737_497142.pdf (texto)"
@@ -16,7 +16,7 @@ fuentes:
   - "Storytelling/.investigacion/fundamentos-y-contraria.md, sección 3"
 aliases: [historia o datos, narrativa vs estadística, anécdota vs estadística, evidencia narrativa, evidencia estadística, narrative vs statistical evidence, efecto víctima identificable, identifiable victim effect]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia o argumento

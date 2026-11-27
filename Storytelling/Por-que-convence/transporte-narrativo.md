@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El transporte narrativo es quedar absorbido en una historia: la atención, las imágenes y la emoción se van a lo que pasa en el relato. La teoría dice que, mientras dura, la persona contraargumenta menos; el efecto medido sobre creencias, actitudes e intenciones es chico y positivo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Green y Brock (2000), The role of transportation in the persuasiveness of public narratives, JPSP 79(5), 701-721: https://gwern.net/docs/www/pdfs.semanticscholar.org/39691cee32e52fbfc33f1a0316aa0d008cb699a4.pdf (según resumen; copia de las primeras páginas)"
@@ -16,7 +16,7 @@ fuentes:
   - "Storytelling/.investigacion/fundamentos-y-contraria.md, sección 3"
 aliases: [transporte narrativo, narrative transportation, transportation, absorción narrativa, inmersión en la historia, identificación con el personaje, E-ELM, EORM]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Transporte narrativo

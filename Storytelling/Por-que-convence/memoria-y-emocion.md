@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un texto narrativo se recuerda y se entiende mejor que uno expositivo: es lo que mejor sostiene la evidencia, aunque la ventaja en memoria tiene sesgo de publicación. Lo que se dice de la emoción (que una historia libera oxitocina y genera confianza, o que sincroniza los cerebros) no está probado como mecanismo.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Mar, Li, Nguyen y Ta (2021), Memory and comprehension of narrative versus expository texts: A meta-analysis, Psychonomic Bulletin & Review 28, 732-749: https://link.springer.com/article/10.3758/s13423-020-01853-1 (texto, desde la copia de autor https://www.yorku.ca/mar/Mar%20et%20al%202021_PB&R_Mem%20and%20Comp%20of%20N%20and%20E%20texts%20meta-analysis_Final.pdf)"
@@ -11,7 +11,7 @@ fuentes:
   - "Storytelling/.investigacion/por-que-convence.md, sección 2"
 aliases: [memoria narrativa, recuerdo de historias, narrativo vs expositivo, oxitocina y storytelling, acoplamiento neural, neural coupling, molécula moral]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Memoria y emoción

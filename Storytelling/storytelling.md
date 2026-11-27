@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El storytelling es contar una historia (alguien que quiere algo, un obstáculo y un cambio) para que otro entienda, recuerde o actúe. Convence menos de lo que promete la divulgación: el efecto medido es chico y depende de qué se busca mover, del público y de si va junto con datos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Green y Brock (2000), The role of transportation in the persuasiveness of public narratives, JPSP 79(5), 701-721: https://gwern.net/docs/www/pdfs.semanticscholar.org/39691cee32e52fbfc33f1a0316aa0d008cb699a4.pdf (texto parcial: las primeras páginas)"
@@ -10,7 +10,7 @@ fuentes:
   - "Storytelling/.investigacion/ (cuatro informes, 2026-11-27)"
 aliases: [storytelling, narrativa, contar historias, relato, narración, storytelling de negocios, business storytelling]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Storytelling

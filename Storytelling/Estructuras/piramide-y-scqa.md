@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La pirámide de Minto ordena un texto con la respuesta primero y los argumentos debajo, y la abre con una introducción SCQA: situación, complicación, pregunta y respuesta. Su introducción es una historia mínima, pero el resto va contra el orden narrativo; ninguna fuente midió cuál de las dos formas rinde más con quien decide.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Minto, The Pyramid Principle (1.ª ed. 1985 o 1987 según la fuente; no se leyó, sin URL verificada)"
@@ -13,7 +13,7 @@ fuentes:
   - "Storytelling/.investigacion/fundamentos-y-contraria.md, sección 3 («¿La respuesta primero le gana a la historia con ejecutivos?»)"
 aliases: [pirámide de Minto, principio de la pirámide, pyramid principle, Minto, SCQA, SCQ, situación complicación pregunta respuesta, respuesta primero, answer first, BLUF, bottom line up front]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Pirámide y SCQA

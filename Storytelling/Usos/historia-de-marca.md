@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La historia de marca es el relato con que una marca se presenta en avisos, en su web o en el "sobre nosotros": su origen, sus clientes o el problema que resuelve. Hay estudios que asocian los avisos narrativos con más conexión con la marca y un caso con más disposición a pagar, pero son pocos, y la escuela de Sharp desconfía de apoyar la marca en el significado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Escalas (2004), Journal of Consumer Psychology 14(1-2):168-180: https://benjamins.com/online/ebop/publications/40253 (según un resumen secundario; el abstract no se leyó)"
@@ -16,7 +16,7 @@ fuentes:
   - "Storytelling/.investigacion/usos.md, sección 2"
 aliases: [brand storytelling, storytelling de marca, relato de marca, historia de origen, origin story, sobre nosotros, publicidad narrativa, narrative advertising]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia de marca

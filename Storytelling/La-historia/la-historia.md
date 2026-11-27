@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Una historia es un relato en el que alguien con una intención actúa, algo se lo impide y hay un cambio, contado con escenas concretas que dejan verlo. Es la materia prima del tema: lo que se mide cuando se pregunta si una historia convence y lo que se ordena con una estructura.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Green y Brock (2000), JPSP 79(5), 701-721: https://gwern.net/docs/www/pdfs.semanticscholar.org/39691cee32e52fbfc33f1a0316aa0d008cb699a4.pdf (texto; abstract e introducción)"
   - "Storytelling/.investigacion/historia-y-estructuras.md, nota sobre la división del árbol y secciones 1 y 2"
 aliases: [qué es una historia, partes de una historia, elementos de una historia, story, relato]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # La historia

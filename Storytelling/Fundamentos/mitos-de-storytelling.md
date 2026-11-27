@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos de storytelling son frases que circulan como datos (una historia se recuerda 22 veces más, el 63% recuerda historias y el 5% cifras, el cerebro procesa imágenes 60.000 veces más rápido, el 7-38-55 de Mehrabian, las historias liberan oxitocina, el cliente siempre es el héroe, una historia siempre le gana a un dato) sin fuente rastreable o contra lo que miden los estudios. Cada uno, con su origen, la evidencia y su nota.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Patience-Davies (2021), Just where did the claim stories are 22 times more memorable come from?: https://www.linkedin.com/pulse/just-where-did-claim-stories-22-times-more-memorable-patience-davies-ud7le/ (según resumen; la página devolvió 403)"
@@ -25,7 +25,7 @@ fuentes:
   - "Storytelling/.investigacion/fundamentos-y-contraria.md, secciones 2 y 3; Storytelling/.investigacion/por-que-convence.md, secciones 2 y 3; Storytelling/.investigacion/historia-y-estructuras.md, sección 4; Storytelling/.investigacion/usos.md, secciones 1 y 2"
 aliases: [mitos del storytelling, storytelling myths, 22 veces más memorable, 22 times more memorable, 63% recuerda historias, 60.000 veces más rápido, regla 7-38-55, Mehrabian, oxitocina y storytelling, el cliente es el héroe]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos de storytelling

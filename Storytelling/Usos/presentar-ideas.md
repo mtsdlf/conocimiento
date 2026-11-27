@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Presentar ideas es llevar a una reunión un resultado, una propuesta interna o una decisión para que otros la entiendan y la discutan. Lo propio del storytelling acá es el formato: el memo narrativo que se lee en silencio frente a las diapositivas con viñetas, una práctica de Amazon y una crítica de Tufte que no tienen comparación controlada.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Bezos, carta a los accionistas 2017 (publicada el 18/4/2018): https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders (texto en parte; el párrafo completo, según resumen)"
@@ -10,7 +10,7 @@ fuentes:
   - "Storytelling/.investigacion/usos.md, sección 3"
 aliases: [presentación de resultados, presentar resultados, memo narrativo, narrative memo, memo de seis páginas, six-page memo, PowerPoint, diapositivas, slides, reunión con memo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Presentar ideas

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Personaje y conflicto son el núcleo de una historia: alguien con una intención que actúa, algo que se lo impide y un cambio que todavía no se resolvió. Sin esas tres piezas hay una descripción o una lista, no una historia.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Green y Brock (2000), The role of transportation in the persuasiveness of public narratives, JPSP 79(5), 701-721: https://gwern.net/docs/www/pdfs.semanticscholar.org/39691cee32e52fbfc33f1a0316aa0d008cb699a4.pdf (texto; se leyó el abstract y el comienzo de la introducción, donde está la definición)"
@@ -9,7 +9,7 @@ fuentes:
   - "Storytelling/.investigacion/historia-y-estructuras.md, nota sobre la división del árbol y sección 1"
 aliases: [personaje, conflicto, protagonista, intención, qué es una historia, definición de narrativa, character and conflict, narrative definition]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Personaje y conflicto

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Por qué convence una historia es el mecanismo por el que un relato cambia lo que alguien cree o hace, y cuánto lo sostiene la evidencia. Una historia absorbe y baja la contraargumentación, se entiende mejor que un texto expositivo y, frente a los datos, no tiene un ganador fijo; todos los efectos medidos son chicos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Green y Brock (2000), JPSP 79(5), 701-721: https://gwern.net/docs/www/pdfs.semanticscholar.org/39691cee32e52fbfc33f1a0316aa0d008cb699a4.pdf (según resumen)"
@@ -12,7 +12,7 @@ fuentes:
   - "Storytelling/.investigacion/fundamentos-y-contraria.md, sección 3"
 aliases: [persuasión narrativa, narrative persuasion, por qué funciona una historia, efecto de las historias, evidencia del storytelling]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Por qué convence

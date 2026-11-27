@@ -1,14 +1,14 @@
 ---
 resumen: >-
   Los usos del storytelling son los cuatro trabajos para los que se cuenta una historia en una organización: vender, construir una marca, presentar una idea y conducir un cambio. Cada uno pide otra historia y tiene otra evidencia; la venta es el único uso con estudios propios entre los encontrados, y aun así se midió poco.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Storytelling/.investigacion/usos.md (secciones 1 a 4)"
   - "Storytelling/.investigacion/por-que-convence.md, sección 3"
 aliases: [usos del storytelling, aplicaciones del storytelling, storytelling aplicado, storytelling en la empresa, storytelling de negocios]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Usos

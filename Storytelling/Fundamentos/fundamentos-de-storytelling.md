@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Fundamentos reúne lo que cruza todo el tema Storytelling sin ser una de sus partes: las escuelas que estudian o venden la historia y la evidencia de cada una, de dónde sale la palabra, qué leer según la necesidad, los mitos y el vocabulario.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Bruner (1986), Actual Minds, Possible Worlds, Harvard University Press, cap. 2 «Two Modes of Thought»: https://www.degruyterbrill.com/document/doi/10.4159/9780674029019/html (solo catálogo); reseña en The Marginalian: https://www.themarginalian.org/2016/01/20/jerome-bruner-actual-minds-possible-worlds-storytelling/ (según resumen)"
@@ -24,7 +24,7 @@ fuentes:
   - "Storytelling/.investigacion/fundamentos-y-contraria.md, secciones 1, 3 y 5; Storytelling/.investigacion/historia-y-estructuras.md; Storytelling/.investigacion/por-que-convence.md; Storytelling/.investigacion/usos.md (recursos canónicos y huecos de cada uno)"
 aliases: [fundamentos de storytelling, escuelas de storytelling, bibliografía de storytelling, historia del storytelling, críticas al storytelling, paradigma narrativo, narrative paradigm]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de storytelling

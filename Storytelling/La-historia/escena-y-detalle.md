@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La escena y el detalle son lo concreto de una historia: un momento con lugar, gente y acción, y los datos específicos que dejan verlo. Junta dos cosas que el campo estudia por separado, la escena narrativa y el lenguaje concreto, y la evidencia sobre lo concreto es mixta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Heath y Heath (2007), Made to Stick, vía Wikipedia: https://en.wikipedia.org/wiki/Made_to_Stick (según resumen; el libro no se leyó)"
@@ -11,7 +11,7 @@ fuentes:
   - "Storytelling/.investigacion/historia-y-estructuras.md, nota sobre la división del árbol y sección 2"
 aliases: [escena, detalle, concreción, lenguaje concreto, especificidad, mostrar no contar, show don't tell, concreteness, SUCCES]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escena y detalle

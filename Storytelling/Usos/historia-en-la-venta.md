@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La historia en la venta es el relato que usa quien vende, contado en la conversación o puesto en el deck y la propuesta, para que el cliente entienda su problema, crea en la solución y confíe en el proveedor. Se midió poco: un experimento con estudiantes dice qué tipo de historia mueve qué actitud, y las recetas de practicantes no tienen evidencia con método.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Gilliam y Flaherty (2015), Storytelling by the sales force and its effect on buyer-seller exchange, Industrial Marketing Management 46:132-142: https://econbiz.de/Record/storytelling-by-the-sales-force-and-its-effect-on-buyer-seller-exchange-gilliam-david/10011286969 (según el registro bibliográfico y fuentes secundarias; el abstract no se leyó)"
@@ -18,7 +18,7 @@ fuentes:
   - "Storytelling/.investigacion/por-que-convence.md, sección 3"
 aliases: [storytelling en ventas, sales storytelling, historias en la venta, caso de cliente, caso de éxito como historia, pitch, sales deck, historia estratégica, strategic narrative, storytelling en el pitch]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia en la venta
