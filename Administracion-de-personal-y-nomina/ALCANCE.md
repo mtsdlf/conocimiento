@@ -7,11 +7,11 @@ fuera:
   - decidir sobre las personas (cómo seleccionar, cuánto pagar o aumentar, cómo evaluar, por qué se va la gente y cómo se despide), que es Liderazgo-y-direccion/Gestion-de-personas; acá solo se registra y se liquida lo que allá se decide
   - el asiento contable de sueldos y cargas, que está en Contabilidad/Operaciones (sección «Cómo se registran los sueldos»); acá, el cálculo que lo alimenta
   - los gastos de empleados, anticipos y rendiciones, que están en Contabilidad/Operaciones/gastos-y-rendiciones
-  - el impuesto a las ganancias como impuesto (alícuotas, categorías, declaración de la empresa), que va al tema Impuestos; acá, el empleador como agente de retención sobre el sueldo
-  - la ejecución del pago y la posición de caja, que van al tema Tesorería y finanzas de la empresa en marcha; acá, qué se paga a quién y cuándo vence
-  - la carga de horas por proyecto y su facturación, que va al tema Servicios profesionales y proyectos; acá, la asistencia y la jornada
-  - el recorrido de punta a punta de la contratación a la baja (hire-to-retire), que va al tema Procesos de negocio
-  - cómo lo resuelve un software (datos maestros, documento y estados, fechas y vigencias, permisos, auditoría como columnas técnicas), que va al tema Software de gestión
+  - el impuesto a las ganancias como impuesto (alícuotas, categorías, declaración de la empresa), que va al tema Impuestos (Impuestos/Impuestos-a-la-renta/; el impuesto de las personas humanas en la Argentina no tiene nota); acá, el empleador como agente de retención sobre el sueldo
+  - la ejecución del pago y la posición de caja, que van al tema Tesorería (Tesoreria/; el pago de sueldos no tiene nota allá); acá, qué se paga a quién y cuándo vence
+  - la carga de horas por proyecto y su facturación, que va a Servicios-profesionales-y-proyectos/Registro-de-horas/; acá, la asistencia y la jornada
+  - el recorrido de punta a punta de la contratación a la baja (hire-to-retire), que está en Procesos-de-negocio/de-la-contratacion-a-la-baja.md
+  - cómo lo resuelve un software (datos maestros, documento y estados, fechas y vigencias, permisos, auditoría como columnas técnicas), que está en Software-de-gestion/Columnas-tecnicas/; la categoría de producto, en Software-de-gestion/Categorias-de-producto/hcm.md
   - capacitación, evaluación del desempeño, planes de carrera, clima y beneficios como política, salud y seguridad en el trabajo como disciplina, relaciones sindicales y negociación colectiva
   - productos de nómina o de RR. HH., comparativas y precios
 fuentes: []
@@ -39,15 +39,15 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 |---|---|---|
 | [Gestión de personas](../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md), en Liderazgo y dirección | decidir: seleccionar, evaluar, cuánto pagar, cómo despedir | Allá se decide un aumento; acá se registra con su fecha de vigencia y se liquida. Allá, cómo seleccionar; acá, la búsqueda y el postulante como registro. Allá, por qué se va la gente; acá, la baja y la liquidación final |
 | [Contabilidad](../Contabilidad/contabilidad.md) | el asiento de sueldos y cargas, los gastos de empleados y su rendición | La nómina liquidada es el documento que dispara el asiento; el asiento y su devengamiento son de allá ([operaciones](../Contabilidad/Operaciones/operaciones.md)). Los anticipos de gastos, en [gastos y rendiciones](../Contabilidad/Operaciones/gastos-y-rendiciones.md); los adelantos de sueldo, acá |
-| Impuestos (no armado) | los impuestos como tales y la declaración de la empresa | Acá, el empleador como agente de retención del impuesto sobre el sueldo y las cargas sociales; las alícuotas del impuesto y la declaración de la empresa, allá |
-| Tesorería y finanzas de la empresa en marcha (no armado) | pagar y cuidar la caja | Acá, cuánto se paga a cada uno y cuándo vence cada carga; la transferencia y la posición de caja, allá |
-| Servicios profesionales y proyectos (no armado) | la carga de horas por proyecto y su facturación | La asistencia dice que alguien trabajó ocho horas; en qué proyecto y a quién se le facturan, allá |
-| Procesos de negocio (no armado) | el recorrido de la contratación a la baja | Cada paso se explica acá; la cadena entera, allá |
-| Software de gestión (no armado) | las columnas técnicas | Acá, que un sueldo cambia desde una fecha; cómo se modela una vigencia o un registro que no se edita, allá y en [registro de movimientos](../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) |
+| [Impuestos](../Impuestos/impuestos.md) | los impuestos como tales y la declaración de la empresa | Acá, el empleador como agente de retención del impuesto sobre el sueldo y las cargas sociales; las alícuotas del impuesto y la declaración de la empresa, allá ([impuestos a la renta](../Impuestos/Impuestos-a-la-renta/impuestos-a-la-renta.md); el régimen, en [retención sobre sueldos](../Impuestos/Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md#retención-sobre-sueldos)) |
+| [Tesorería](../Tesoreria/tesoreria.md) | pagar y cuidar la caja | Acá, cuánto se paga a cada uno y cuándo vence cada carga; la transferencia y la [posición de caja](../Tesoreria/Caja-y-liquidez/posicion-de-caja.md), allá. El pago de sueldos no tiene nota propia en Tesorería |
+| [Servicios profesionales y proyectos](../Servicios-profesionales-y-proyectos/servicios-profesionales-y-proyectos.md) | la carga de horas por proyecto y su facturación | La asistencia dice que alguien trabajó ocho horas; en qué proyecto y a quién se le facturan, en [registro de horas](../Servicios-profesionales-y-proyectos/Registro-de-horas/registro-de-horas.md) |
+| [Procesos de negocio](../Procesos-de-negocio/procesos-de-negocio.md) | el recorrido de la contratación a la baja | Cada paso se explica acá; la cadena entera, en [de la contratación a la baja](../Procesos-de-negocio/de-la-contratacion-a-la-baja.md) |
+| [Software de gestión](../Software-de-gestion/software-de-gestion.md) | las columnas técnicas y la categoría [HCM](../Software-de-gestion/Categorias-de-producto/hcm.md) | Acá, que un sueldo cambia desde una fecha; cómo se modela una vigencia o un registro que no se edita, en [fechas, vigencias y cierre](../Software-de-gestion/Columnas-tecnicas/fechas-vigencias-y-cierre.md) y en [registro de movimientos](../Bases-de-datos/Modelos-de-datos/registro-de-movimientos.md) |
 | [Emprender](../Emprender/emprender.md) | las decisiones de una vez de una empresa que empieza | La primera contratación (hacerse empleador) se explica acá y Emprender la enlaza |
 | [Datos/Gobierno-y-calidad](../Datos/Gobierno-y-calidad/privacidad-de-datos-personales.md) | la privacidad de los datos personales en general | Acá, qué datos sensibles tiene un legajo y quién los ve; el marco general, allá |
 
-Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
+Cuando se escribió, los temas que todavía no existían se nombraban sin enlace; se enlazaron en la sesión 16 del mapa (#123).
 
 ## Árbol
 

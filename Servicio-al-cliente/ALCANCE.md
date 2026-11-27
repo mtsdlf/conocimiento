@@ -4,17 +4,17 @@ para: entender cómo atiende una empresa a sus clientes después de la venta (po
 nivel: entiende de software y de negocio en general; no se da por sabido el vocabulario de la atención (caso, primer nivel, acuerdo de nivel de servicio, resolución al primer contacto) ni cómo lo divide un sistema
 escuela: neutral; se cuenta la operación como la describen las normas de tratamiento de quejas y de centros de contacto y la práctica de gestión de servicios de TI, y la crítica desde el esfuerzo del cliente y desde «la mejor atención es no necesitarla» se cita donde discute
 fuera:
-  - el servicio de campo (el técnico en casa del cliente, la orden de trabajo, los repuestos, el mantenimiento del equipo) — tema Activos y mantenimiento (sesión 12 del mapa, todavía no armado); acá solo se deriva al técnico
+  - el servicio de campo (el técnico en casa del cliente, la orden de trabajo, los repuestos, el mantenimiento del equipo) — tema Activos y mantenimiento (Activos-y-mantenimiento/Servicio-de-campo/); acá solo se deriva al técnico
   - el registro del cliente, la oportunidad, el presupuesto y el pedido de venta — Relacion-con-clientes; se enlaza
   - la calidad del servicio como marketing (expectativas, brechas, SERVQUAL, recuperación del servicio y sus tres justicias, lealtad, NPS como predictor de crecimiento) — Marketing/Servicio-y-relacion y Marketing/Canales/boca-a-boca-y-referidos; se enlaza
   - la logística de la devolución en una tienda online y su costo — Comercio-electronico/Operaciones-del-comercio/devoluciones.md; se enlaza
-  - la mercadería devuelta que vuelve al stock — tema Inventario y depósitos (todavía no armado)
-  - la nota de crédito, el reintegro y su impuesto — temas Contabilidad, Impuestos y Tesorería (en armado)
-  - la entrega del servicio que se vende (proyectos, horas, hitos) — tema Servicios profesionales y proyectos (todavía no armado)
-  - la calidad del producto fabricado y los lotes retenidos — vertical de calidad del tema Producción (todavía no armado)
+  - la mercadería devuelta que vuelve al stock — tema Inventario y depósitos (Inventario-y-depositos/Operacion-del-deposito/recepcion.md)
+  - la nota de crédito, el reintegro y su impuesto — temas Contabilidad (Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md), Impuestos (Impuestos/Cumplimiento/comprobante-fiscal.md) y Tesorería (Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md)
+  - la entrega del servicio que se vende (proyectos, horas, hitos) — tema Servicios profesionales y proyectos (Servicios-profesionales-y-proyectos/)
+  - la calidad del producto fabricado y los lotes retenidos — vertical de calidad del tema Producción (Produccion/Calidad/)
   - el análisis de clientes (retención, churn, valor de vida) — Datos y Marketing; se enlaza
-  - las piezas comunes a todo software de gestión (documento y estados, permisos, auditoría) — tema Software de gestión (sesión 14, todavía no armado)
-  - el recorrido de punta a punta del reclamo a la resolución — tema Procesos de negocio (sesión 13, todavía no armado)
+  - las piezas comunes a todo software de gestión (documento y estados, permisos, auditoría) — tema Software de gestión (Software-de-gestion/Columnas-tecnicas/; la categoría de producto, en Software-de-gestion/Categorias-de-producto/servicio-de-campo-y-mesa-de-ayuda.md)
+  - el recorrido de punta a punta del reclamo a la resolución — Procesos-de-negocio/del-reclamo-a-la-resolucion.md
   - productos de mesa de ayuda o de centro de contacto, comparativas y precios — fuera de la base
 fuentes: []
 preguntas:
@@ -41,14 +41,14 @@ Cada dominio es dueño de un objeto y un verbo (decisión de #98). Este tema es 
 |---|---|---|
 | [Relación con clientes](../Relacion-con-clientes/relacion-con-clientes.md) | el registro del cliente, la oportunidad, el presupuesto y el pedido de venta | El caso apunta al cliente y, si viene de una compra, al pedido; no los copia. Un caso que termina en una venta nueva abre una oportunidad allá |
 | [Marketing/Servicio-y-relacion](../Marketing/Servicio-y-relacion/servicio-y-relacion.md) | por qué el cliente juzga la atención como la juzga, la recuperación del servicio y si conviene invertir en la lealtad | Allá, qué siente el cliente y qué conviene prometer; acá, cómo se registra, se escala, se cronometra y se mide la atención |
-| Activos y mantenimiento (no armado) | el servicio de campo: la orden de trabajo, el técnico, los repuestos y el historial del equipo | El caso decide que hace falta una visita y deriva; la visita y su orden de trabajo son de allá, y el caso queda abierto hasta que vuelve el resultado |
+| [Activos y mantenimiento](../Activos-y-mantenimiento/activos-y-mantenimiento.md) | el servicio de campo: la orden de trabajo, el técnico, los repuestos y el historial del equipo | El caso decide que hace falta una visita y deriva; la visita y su orden de trabajo son de [servicio de campo](../Activos-y-mantenimiento/Servicio-de-campo/servicio-de-campo.md), y el caso queda abierto hasta que vuelve el resultado |
 | [Comercio-electronico/devoluciones](../Comercio-electronico/Operaciones-del-comercio/devoluciones.md) | la logística de la devolución en una tienda online | El caso autoriza la devolución o el cambio; el paquete que vuelve, allá |
-| Inventario y depósitos (no armado) | la mercadería devuelta que entra al depósito | El caso dice qué vuelve y por qué; dónde queda y si vuelve a la venta, allá |
-| [Contabilidad](../Contabilidad/contabilidad.md); Impuestos y Tesorería (en armado) | la nota de crédito, el reintegro y su impuesto | El caso decide compensar; el comprobante y la plata, allá |
-| Producción (no armado) | la calidad del producto fabricado | Un reclamo repetido sobre un producto es un dato para su calidad; la no conformidad se abre allá |
-| Procesos de negocio (no armado) | el recorrido del reclamo a la resolución, que cruza este tema, Relación con clientes, Inventario y Contabilidad | Allá, el recorrido entero; acá, cada paso que es del caso |
+| [Inventario y depósitos](../Inventario-y-depositos/inventario-y-depositos.md) | la mercadería devuelta que entra al depósito | El caso dice qué vuelve y por qué; dónde queda y si vuelve a la venta, en [recepción](../Inventario-y-depositos/Operacion-del-deposito/recepcion.md) |
+| [Contabilidad](../Contabilidad/contabilidad.md), [Impuestos](../Impuestos/impuestos.md) y [Tesorería](../Tesoreria/tesoreria.md) | la nota de crédito, el reintegro y su impuesto | El caso decide compensar; el comprobante y la plata, allá ([la nota de crédito](../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md#la-factura-la-nota-de-crédito-y-el-cobro), [el comprobante fiscal](../Impuestos/Cumplimiento/comprobante-fiscal.md), [la aplicación de cobros](../Tesoreria/Credito-y-cobranzas/aplicacion-de-cobros.md)) |
+| [Producción](../Produccion/produccion.md) | la calidad del producto fabricado | Un reclamo repetido sobre un producto es un dato para su [calidad](../Produccion/Calidad/calidad.md); la [no conformidad](../Produccion/Calidad/no-conformidad.md) se abre allá |
+| [Procesos de negocio](../Procesos-de-negocio/procesos-de-negocio.md) | el recorrido del reclamo a la resolución, que cruza este tema, Relación con clientes, Inventario y Contabilidad | Allá, el recorrido entero ([del reclamo a la resolución](../Procesos-de-negocio/del-reclamo-a-la-resolucion.md)); acá, cada paso que es del caso |
 
-Los temas que todavía no existen se nombran sin enlace; la sesión 16 del mapa los enlaza.
+Cuando se escribió, los temas que todavía no existían se nombraban sin enlace; se enlazaron en la sesión 16 del mapa (#123).
 
 ## Árbol
 

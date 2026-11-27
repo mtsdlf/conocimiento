@@ -13,7 +13,7 @@ fuentes:
   - "Activos-y-mantenimiento/.investigacion/registro-y-desempeno.md (2026-11-27), componente 2 y segunda ronda, sección 5"
   - "Activos-y-mantenimiento/.investigacion/apqc-10.md (2026-11-27)"
   - "Activos-y-mantenimiento/.investigacion/verificacion-registro-y-desempeno.md (2026-11-27)"
-aliases: [reparar o reemplazar, repair or replace, decisión de reemplazo, replacement decision, costo del ciclo de vida, life cycle cost, LCC, costo total de propiedad, whole-life cost, total cost of ownership, TCO, costo anual equivalente, equivalent annual cost, EAC, vida económica, economic life, fin de vida del activo, asset end-of-life]
+aliases: [reparar o reemplazar, repair or replace, decisión de reemplazo, replacement decision, costo del ciclo de vida, life cycle cost, LCC, whole-life cost, costo anual equivalente, equivalent annual cost, EAC, vida económica, economic life, fin de vida del activo, asset end-of-life]
 creado: 2026-11-27
 revisado: 2026-11-27
 ---
@@ -27,6 +27,8 @@ Es la decisión más grande de la vertical [Desempeño de los activos](desempeno
 ## Lo que suma el costo del ciclo de vida
 
 El costo del ciclo de vida es el costo total de tener un activo durante toda su vida, no solo el precio de compra. Según el resumen de Wikipedia, es el «total cost of ownership over the life of an asset» y suma «planning, design, construction and acquisition, operations, maintenance», además de «renewal and rehabilitation, depreciation and cost of finance and replacement or disposal».
+
+El concepto vecino es el costo total de propiedad (TCO), que Compras usa para comparar ofertas de proveedores antes de comprar; está en [costo total de adquisición](../../Compras-y-abastecimiento/Abastecimiento-estrategico/costo-total-de-adquisicion.md). Acá el costo del ciclo de vida sirve para decidir sobre un equipo que ya se tiene.
 
 Esa lista mete la amortización y el costo financiero, y otras definiciones lo tratan distinto. La referencia pública del método es el Handbook 135 del NIST (1995), la guía de costo del ciclo de vida para proyectos de energía, agua y renovables en edificios federales de Estados Unidos. Su capítulo 1 define el costo del ciclo de vida de un sistema como «the total cost of owning, operating, maintaining, and (eventually) disposing of» él «over a given study period (usually related to the life of the project), with all costs adjusted (discounted) to reflect the time-value of money». No nombra la amortización contable: lo que entra es lo que cuesta tener el equipo, descontado en el tiempo. El manual agrega que ese número «has little value by itself» y sirve para comparar alternativas que cumplen la misma función, a las que llama «mutually exclusive». Su ejemplo central son alternativas de diseño de un edificio, que pueden tener «possibly different lives»; el manual aclara que no trae datos de costos ni «expected lives» de los sistemas. Del resto del manual no se leyó nada, y no consta si trata el reemplazo de un equipo en uso.
 

@@ -26,7 +26,7 @@ El campo tiene una norma de terminología, la EN 13306, que esta base no leyó; 
 | Mantener | Maintain | Conservar un equipo en la condición en que cumple su función, o devolverlo a ella cuando la pierde | [activos y mantenimiento](../activos-y-mantenimiento.md) |
 | Activo | Asset | Según la ISO 55000, algo con valor potencial o real para una organización; en este tema, el activo físico que se mantiene | [fundamentos](fundamentos-de-activos-y-mantenimiento.md) |
 | Gestión de activos | Asset management | Sistema de gestión de los activos a lo largo de su vida, del que el mantenimiento es una parte; lo norma la serie ISO 55000 | [fundamentos](fundamentos-de-activos-y-mantenimiento.md) |
-| Sistema de mantenimiento | CMMS, EAM | El software que lleva equipos, planes y órdenes; sus categorías (CMMS, EAM) son del tema Software de gestión, todavía no armado | [activos y mantenimiento](../activos-y-mantenimiento.md) |
+| Sistema de mantenimiento | CMMS, EAM | El software que lleva equipos, planes y órdenes; sus categorías están en [EAM y CMMS](../../Software-de-gestion/Categorias-de-producto/eam-y-cmms.md), del tema Software de gestión | [activos y mantenimiento](../activos-y-mantenimiento.md) |
 
 ## Registro de activos
 
@@ -127,7 +127,7 @@ El campo tiene una norma de terminología, la EN 13306, que esta base no leyó; 
 | Costo del ciclo de vida | Life cycle cost (LCC) | Todo lo que cuesta un equipo desde que se compra hasta que se da de baja | [reparar o reemplazar](../Desempeno-de-los-activos/reparar-o-reemplazar.md) |
 | Costo anual equivalente | Equivalent annual cost (EAC) | El costo del ciclo de vida repartido en cuotas anuales iguales, para comparar opciones | [reparar o reemplazar](../Desempeno-de-los-activos/reparar-o-reemplazar.md) |
 | Vida económica | Economic life | La edad en que el costo anual equivalente es mínimo y conviene reemplazar | [reparar o reemplazar](../Desempeno-de-los-activos/reparar-o-reemplazar.md) |
-| Eficiencia global del equipo | Overall equipment effectiveness (OEE) | Disponibilidad por rendimiento por calidad; mide la línea y es del tema Producción, todavía no armado | [desempeño de los activos](../Desempeno-de-los-activos/desempeno-de-los-activos.md) |
+| Eficiencia global del equipo | Overall equipment effectiveness (OEE) | Disponibilidad por rendimiento por calidad; mide la línea y se explica en [eficiencia global del equipo](../../Produccion/Ejecucion-en-planta/eficiencia-global-del-equipo.md), de Producción | [desempeño de los activos](../Desempeno-de-los-activos/desempeno-de-los-activos.md) |
 
 ## Las siglas
 

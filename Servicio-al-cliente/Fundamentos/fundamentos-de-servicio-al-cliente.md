@@ -1,9 +1,10 @@
 ---
 resumen: >-
   Lo transversal del tema Servicio al cliente: las escuelas que explican la atención de formas distintas, cómo dividen el campo las normas y los marcos (APQC, ISO 10002, ISO 18295-1, ITIL), qué cortes son de esta base y dónde se produce el saber del campo.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
+  - "APQC, Process Classification Framework 7.4 (agosto de 2024), Cross-Industry, categoría 6.0 «Manage Customer Service (20085)», copia de la IFRC, leída el 2026-11-27: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "APQC, Process Classification Framework, categoría «Manage Customer Service» (6.0), copia de un tercero sin versión declarada, leída entera: https://capechamber.co.za/enterprise/improve-your-business-processes/6-manage-customer-service"
   - "ISO 10002:2018, índice (copia del DIN), leído solo el índice: https://www.din.de/de/mitwirken/normenausschuesse/nqsz/veroeffentlichungen/wdc-beuth:din21:293819883/toc-2874880/download"
   - "ISO 18295-1:2017, índice (copia del DIN), leído solo el índice: https://www.din.de/de/mitwirken/normenausschuesse/nadl/veroeffentlichungen/wdc-beuth:din21:276760944/toc-2704082/download"
@@ -16,7 +17,7 @@ fuentes:
   - "Servicio-al-cliente/.investigacion/fundamentos-y-contraria.md (secciones 1, 3 y 7)"
 aliases: [fundamentos de servicio al cliente, escuelas de servicio al cliente, customer service fundamentals, taxonomía de la atención]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Fundamentos de servicio al cliente
@@ -45,7 +46,7 @@ Esta base escribe la operación desde las dos primeras escuelas, porque son las 
 
 Cinco divisiones pesan, y ninguna coincide del todo con otra.
 
-- **APQC**, en su Process Classification Framework, tiene una categoría «Manage Customer Service» con cinco partes: estrategia (6.1), gestión de los contactos (6.2), servicio de productos después de la venta (6.3), retiros de productos y auditorías de reguladores (6.4) y evaluación de la operación y la satisfacción (6.5). Dentro de 6.2 separa los problemas, pedidos y consultas (6.2.2) de los reclamos (6.2.3) y de las devoluciones (6.2.4). La copia leída es de un tercero y no dice la versión; según un resumen del buscador, en la versión 6.0.0 de julio de 2012 la misma categoría tenía el número 5.0, así que quien cite «6.0» tiene que decir de qué versión.
+- **APQC**, en su Process Classification Framework, tiene una categoría «Manage Customer Service» con cinco partes: estrategia (6.1), gestión de los contactos (6.2), servicio de productos después de la venta (6.3), retiros de productos y auditorías de reguladores (6.4) y evaluación de la operación y la satisfacción (6.5). Dentro de 6.2 separa los problemas, pedidos y consultas (6.2.2) de los reclamos (6.2.3) y de las devoluciones (6.2.4). Así está en la versión 7.4 (agosto de 2024), y coincide con la copia de un tercero sin versión que el tema leyó primero. Según un resumen del buscador, en la versión 6.0.0 de julio de 2012 la misma categoría tenía el número 5.0, así que quien cite «6.0» tiene que decir de qué versión.
 - **ISO 10002:2018**, según su índice, trata solo el reclamo: su cláusula 7 lo opera en pasos, de la recepción y el acuse al cierre, y su cláusula 8 lo convierte en mejora.
 - **ISO 18295-1:2017**, según su índice, trata el centro de contacto y lo parte en requisitos de la relación con el cliente, del liderazgo, del personal, de los procesos y de la infraestructura, más una relación aparte con quien contrata al centro cuando la atención está tercerizada.
 - **ITIL 4**, según resúmenes, reparte la gestión de servicios en 34 prácticas; tocan este tema la mesa de servicio y la gestión de incidentes, de pedidos de servicio y de niveles de servicio; la gestión de problemas no se vio en la lista, aunque otras definiciones la dan como práctica de ITIL 4.
@@ -69,7 +70,7 @@ El corte coincide en lo grueso con APQC 6.2 y 6.5 y con la separación de ITIL e
 2. **Problema y causa raíz va en Escalamiento**, y junta dos tradiciones: la gestión de problemas de ITIL y el análisis de reclamos de ISO 10002, que pide «identify trends and eliminate causes of complaints».
 3. **Garantía y devolución cuelgan del Caso.** Coincide con APQC (6.2.4 y 6.3); ISO e ITIL las dejan fuera.
 4. **El nivel de servicio del centro de contacto vive en el [dimensionamiento del equipo](../Canales-de-atencion/dimensionamiento-del-equipo.md)**, y Niveles de servicio trata solo el acuerdo con el cliente y los acuerdos internos. El campo usa la misma palabra para las dos cosas; el [glosario](glosario-de-servicio-al-cliente.md) las separa.
-5. **Los retiros de productos (APQC 6.4) y los avisos a reguladores (6.2.5) quedan fuera del tema.** Se acercan más a la calidad del producto (tema Producción) y al cumplimiento que a la atención de un cliente.
+5. **Los retiros de productos (APQC 6.4) y los avisos a reguladores (6.2.5) quedan fuera del tema.** Se acercan más a la [calidad del producto](../../Produccion/Calidad/calidad.md), del tema Producción, y al cumplimiento que a la atención de un cliente.
 
 ## Dónde se produce el saber del campo
 
@@ -80,7 +81,7 @@ El corte coincide en lo grueso con APQC 6.2 y 6.5 y con la separación de ITIL e
 - **Organismos públicos**: la CFPB de Estados Unidos estudió los bots en la banca (2023). Lo que exige la ley argentina está en [Servicio al cliente en la Argentina](../servicio-al-cliente-en-argentina.md).
 - **Consultoras y proveedores**: Gartner, HDI y los fabricantes de mesas de ayuda publican la mayoría de las cifras que circulan. Casi ninguna trae método a la vista, y quien la publica suele vender la solución (lectura de esta base). La documentación de los sistemas abiertos sirve para ver cómo se modela un caso o un reloj, como evidencia de práctica y no como norma.
 
-> [!NOTE] Sin fuente todavía: el texto de las normas ISO 10002 y 18295-1 (definiciones, pasos y anexo de métricas), la versión vigente del marco de APQC, las guías oficiales de ITIL 4 y el índice completo de Cleveland. Un sitio reporta una versión 5 de ITIL anunciada en enero de 2026; no se verificó.
+> [!NOTE] Sin fuente todavía: el texto de las normas ISO 10002 y 18295-1 (definiciones, pasos y anexo de métricas), la versión 8.0 del marco de APQC (2026; acá se usa la 7.4), las guías oficiales de ITIL 4 y el índice completo de Cleveland. Un sitio reporta una versión 5 de ITIL anunciada en enero de 2026; no se verificó.
 
 ## Lo que hay en Fundamentos
 

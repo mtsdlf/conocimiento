@@ -37,7 +37,7 @@ Algunos contratos traducen el incumplimiento en plata: un crédito sobre la pró
 
 > [!NOTE] Sin fuente todavía: cómo se calculan los créditos y las penalidades por incumplimiento, con qué topes y cómo se reclaman. No se dan valores hasta tener dos fuentes independientes.
 
-Si el acuerdo prevé una compensación, el caso decide que corresponde y el comprobante (una nota de crédito) es de los temas Contabilidad y Tesorería, todavía en armado.
+Si el acuerdo prevé una compensación, el caso decide que corresponde y el comprobante (una [nota de crédito](../../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md#la-factura-la-nota-de-crédito-y-el-cobro)) es de Contabilidad, y si se devuelve plata, de [Tesorería](../../Tesoreria/tesoreria.md).
 
 ## El efecto watermelon: verde por fuera, rojo por dentro
 
