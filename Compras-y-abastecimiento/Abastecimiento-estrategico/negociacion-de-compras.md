@@ -9,7 +9,7 @@ fuentes:
   - "UK Government, The Sourcing Playbook, sección 6: https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html"
   - "Dyer y Chu (2003), The role of trustworthiness in reducing transaction costs and improving performance, Organization Science 14(1), 57-68: https://ideas.repec.org/a/inm/ororsc/v14y2003i1p57-68.html (según su abstract)"
   - "Dubois y Pedersen (2001), Why partners do not fit into purchasing portfolio models, versión de congreso IMP: https://impgroup.org/wp-content/uploads/wpallimport/files/papers/170.pdf"
-  - "MIT Sloan Management Review, resumen del working paper de Sandy Jap (2001) sobre subastas inversas en línea: https://sloanreview.mit.edu/article/ebusiness-potential-pitfalls-of-eauctions"
+  - "MIT Sloan Management Review, resumen del working paper de Sandy Jap (julio de 2001) sobre subastas inversas en línea: https://sloanreview.mit.edu/article/ebusiness-potential-pitfalls-of-eauctions (artículo leído completo; el working paper no)"
   - "Compras-y-abastecimiento/.investigacion/abastecimiento-estrategico.md (2026-11-27), sección 6"
   - "Compras-y-abastecimiento/.investigacion/fundamentos-y-contraria.md (2026-11-27), secciones 1.4 y 2.7"
 aliases: [negociación de compras, negociación con proveedores, negociar con proveedores, supplier negotiation, procurement negotiation, purchasing negotiation, negociación del comprador]

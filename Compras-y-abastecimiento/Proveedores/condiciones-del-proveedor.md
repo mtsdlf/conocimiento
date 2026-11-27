@@ -8,7 +8,8 @@ fuentes:
   - "ERPNext, Supplier y Supplier Group (según su resumen; como evidencia de práctica): https://docs.frappe.io/erpnext/supplier ; https://docs.frappe.io/erpnext/supplier-group"
   - "SAP, Underdeliveries, Overdeliveries, and Final Deliveries (4.6C) y SAP Learning, Applying Tolerances (según su resumen; como evidencia de práctica): https://help.sap.com/saphelp_46c/helpdata/en/a5/63343943a211d189410000e829fbbd/content.htm ; https://learning.sap.com/courses/inventory-management-and-physical-inventory-in-sap-s-4hana/applying-tolerances-and-the-delivery-completed-indicator"
   - "ERPNext, Purchase Order y Purchase Receipt (según su resumen; como evidencia de práctica): https://docs.frappe.io/erpnext/user/manual/en/purchase-order ; https://docs.frappe.io/erpnext/user/manual/en/purchase-receipt"
-  - "International Trade Administration, Know your Incoterms (describe el texto de la ICC; según su resumen): https://trade.gov/know-your-incoterms"
+  - "International Trade Administration, Know your Incoterms (describe el texto de la ICC; leído): https://trade.gov/know-your-incoterms"
+  - "ICC, Incoterms 2020 (leído por extracto; no dice qué excluyen): https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/"
   - "Compras-y-abastecimiento/.investigacion/proveedores.md (2026-11-27), sección 3"
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (2026-11-27), sección 7"
 aliases: [condiciones de compra, lista de precios del proveedor, precio de compra, registro artículo-proveedor, artículo-proveedor, info record, purchasing info record, supplier price list, vendor price list, plazo de entrega, lead time, cantidad mínima, mínimo de compra, minimum order quantity, MOQ, condición de pago, payment terms, Incoterms]
@@ -59,7 +60,7 @@ En la Argentina, la factura de crédito electrónica le pone un plazo legal a la
 
 ## Incoterms: quién paga el flete y quién corre el riesgo
 
-Cuando la compra viaja, el registro guarda también la regla de entrega. Según una página del gobierno de Estados Unidos que describe el texto de la Cámara de Comercio Internacional, los Incoterms definen el traspaso del riesgo, la asignación de costos y otras obligaciones entre vendedor y comprador. No definen el método ni el momento del pago, ni cuándo pasa la propiedad. La importación como operación (aduana, despachante, flete internacional) es de Cadena de suministro y logística, todavía no armado.
+Cuando la compra viaja, el registro guarda también la regla de entrega. Según una página del gobierno de Estados Unidos que describe el texto de la Cámara de Comercio Internacional, los Incoterms (11 reglas, edición 2020) definen las tareas, los costos y el traspaso del riesgo de pérdida o daño entre vendedor y comprador. No dicen el método ni el momento del pago, ni cuándo pasa la propiedad de la mercadería. Esas exclusiones salen de esa página; la de la ICC las deja sin decir. La importación como operación (aduana, despachante, flete internacional) es de Cadena de suministro y logística, todavía no armado.
 
 ## Dónde vive cada condición
 

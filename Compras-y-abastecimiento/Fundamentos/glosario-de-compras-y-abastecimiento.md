@@ -11,9 +11,11 @@ fuentes:
   - "Gelderman y van Weele (2003), Handling measurement issues and strategic directions in Kraljic's purchasing portfolio model: https://www.arjanvanweele.com/wp-content/uploads/2023/11/GeldermanVanWeele.Handling-measurement-issues.pdf"
   - "Wikipedia, Spend analysis: https://en.wikipedia.org/wiki/Spend_analysis (secundaria)"
   - "Wikipedia, Procurement: https://en.wikipedia.org/wiki/Procurement (secundaria)"
-  - "Wikipedia, Advance ship notice: https://en.wikipedia.org/wiki/Advance_ship_notice (secundaria, según su resumen)"
-  - "Wikipedia, Expediting: https://en.wikipedia.org/wiki/Expediting (secundaria, según su resumen)"
+  - "Wikipedia, Advance ship notice: https://en.wikipedia.org/wiki/Advance_ship_notice (secundaria, leída por extracto)"
+  - "Wikipedia, Expediting: https://en.wikipedia.org/wiki/Expediting (secundaria, leída por extracto; la página pide más citas)"
   - "DHL, glosario, On time in full (OTIF): https://lot.dhl.com/glossary/on-time-in-full-otif/ (según su resumen)"
+  - "Cornell LII, UCC § 2-207 (texto leído): https://www.law.cornell.edu/ucc/2/2-207"
+  - "International Trade Administration, Know your Incoterms (leído): https://trade.gov/know-your-incoterms"
   - "Compras-y-abastecimiento/.investigacion/ (seis informes, 2026-11-27)"
 aliases: [glosario de compras, procurement glossary, purchasing glossary, términos de compras, vocabulario de abastecimiento]
 creado: 2026-11-27
@@ -26,7 +28,7 @@ Los términos del tema Compras y abastecimiento, cada uno con su nombre en ingl�
 
 Son las palabras que usa esta base, una por concepto, ordenadas alfabéticamente dentro de cada grupo. Casi todas las definiciones son de trabajo, porque los glosarios de CIPS, de ISM y de ASCM no se pudieron abrir; la definición firme está en la nota de cada término. Los sistemas usan nombres distintos para lo mismo, sobre todo en los tipos de orden y en el contrato marco.
 
-> [!NOTE] Sin fuente todavía: el contraste de estas definiciones con un glosario del campo (CIPS, ISM o el diccionario de ASCM).
+> [!NOTE] Sin fuente todavía: el contraste de estas definiciones con un glosario del campo (CIPS, ISM o el diccionario de ASCM). Se reintentó el 2026-11-27: el glosario de CIPS responde 403, las direcciones probadas del de ISM dan 404 o redirecciones sin fin, y la página de ASCM describe el diccionario (20.ª edición) sin listar sus entradas, que están detrás de un acceso aparte. Lo que sí se contrastó, con fuentes secundarias o legales y no con glosarios del campo, está en la nota de cada término: el aviso de despacho y el seguimiento de entregas coinciden con Wikipedia; la orden de compra como documento que no forma contrato por sí sola, con Wikipedia, y la confirmación del proveedor, con el texto de UCC § 2-207; los Incoterms, con la página del gobierno de Estados Unidos.
 
 ## El proveedor
 

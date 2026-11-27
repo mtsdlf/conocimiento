@@ -10,6 +10,9 @@ fuentes:
   - "DHL, glosario: On Time In Full (OTIF) (según su resumen): https://lot.dhl.com/glossary/on-time-in-full-otif/"
   - "Logistics Research Network 2021, paper de Cardiff sobre errores en el cálculo de OTIF (según su resumen): https://orca.cardiff.ac.uk/id/eprint/147303/1/LRN%202021%20Final%20Paper.pdf"
   - "ISMS.online, ISO 9001 cláusula 8.4 (según su resumen; no cita la norma literal): https://www.isms.online/iso-9001/clause-8-4-control-of-externally-provided-processes-products-services/"
+  - "Sitio de un sistema de calidad que copia la cláusula 8.4.1 de AS9100 Rev D, que repite la frase de ISO 9001:2015 (leído por extracto; no es la norma): https://sites.google.com/view/pspiqms-001/qp-3-0-production/as9100-production"
+  - "Hong Kong Society for Quality, Quality in Outsourcing, ISO 9001:2015 perspective, diapositivas que citan 8.4.2 y 8.4.3 (leído por extracto; no es la norma): https://hksq.org/wp-content/uploads/2016/12/Quality_in_Outsourcing_ISO9001_2015_perspective.pdf"
+  - "ISO Online Browsing Platform (ISO 9001:2015, 8.4): https://www.iso.org/obp/ui/en/#iso:std:iso:9001:ed-5:v1:en:sec:8.4 (no se pudo abrir, 403; el texto literal sigue sin leerse en la fuente)"
   - "Compras-y-abastecimiento/.investigacion/proveedores.md (2026-11-27), sección 4"
 aliases: [evaluación de proveedores, desempeño de proveedores, tablero de proveedores, supplier scorecard, vendor scorecard, supplier performance, supplier evaluation, vendor rating, reevaluación de proveedores, OTIF, on time in full, entrega a tiempo y completa]
 creado: 2026-11-27
@@ -20,7 +23,7 @@ revisado:
 
 La evaluación de proveedores mide si cada proveedor cumple, con indicadores que salen de sus entregas (a tiempo, completas, aceptadas por calidad) y de su respuesta comercial, y decide qué hacer con el que no cumple: seguir, vigilarlo o bloquearlo. Se repite cada cierto período y es la reevaluación de lo que se verificó en el alta.
 
-Dentro de [Proveedores](proveedores.md), cierra el círculo que abre el [alta de proveedor](alta-de-proveedor.md): el alta verifica que el proveedor puede cumplir y la evaluación mide si cumplió. APQC 7.4 la reparte en analizar el desempeño de compras y de proveedores (4.2.4.2) y controlar la calidad de lo entregado (4.2.4.4). ISO 9001:2015, en su cláusula 8.4, pide evaluar, seleccionar, seguir y reevaluar a los proveedores externos, según el resumen de una consultora que no cita el texto de la norma.
+Dentro de [Proveedores](proveedores.md), cierra el círculo que abre el [alta de proveedor](alta-de-proveedor.md): el alta verifica que el proveedor puede cumplir y la evaluación mide si cumplió. APQC 7.4 la reparte en analizar el desempeño de compras y de proveedores (4.2.4.2) y controlar la calidad de lo entregado (4.2.4.4). ISO 9001:2015, en su cláusula 8.4.1, pide «determinar y aplicar criterios» para la evaluación, la selección, el seguimiento del desempeño y la reevaluación de los proveedores externos, según su capacidad de dar procesos, productos y servicios conformes a los requisitos (en inglés, «determine and apply criteria for the evaluation, selection, monitoring of performance, and re-evaluation of external providers»; la frase está leída en una copia dentro de un sitio sobre AS9100, no en la norma). La cláusula 8.4.3 pide además comunicarle al proveedor externo lo que se necesita de él: los procesos, productos y servicios, su aprobación y liberación, la competencia de las personas, la interacción con la organización, el control y seguimiento de su desempeño y las verificaciones que se harán en sus instalaciones (según unas diapositivas que citan la norma, no su texto).
 
 ## Los datos salen de la recepción contra lo pedido
 
@@ -37,7 +40,7 @@ El tablero de evaluación de un sistema abierto usa cuatro criterios, como evide
 
 El precio no figura entre esos criterios. Cuánto cuesta de verdad un proveedor, sumando rechazos, demoras y stock, lo trata [costo total de adquisición](../Abastecimiento-estrategico/costo-total-de-adquisicion.md).
 
-> [!NOTE] Sin fuente todavía: el precio como indicador de desempeño (contra lista, contra mercado), la calidad medida en partes por millón (PPM) y el texto literal de ISO 9001:2015 8.4.
+> [!NOTE] Sin fuente todavía: el precio como indicador de desempeño (contra lista, contra mercado), la calidad medida en partes por millón (PPM) y el texto literal completo de ISO 9001:2015 8.4 (la norma es paga y la vista pública de ISO no se abre desde acá).
 
 ## A tiempo y completo depende de qué se cuente
 

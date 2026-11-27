@@ -6,7 +6,7 @@ estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework 7.4 (2024), 4.2.2.2 «Certify and validate suppliers» y 4.2.4.1 «Monitor/Manage supplier information»: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Washington State Auditor's Office, Protect your vendor master file from fraudsters (leído por extracto): https://sao.wa.gov/the-audit-connection-blog/protect-your-vendor-master-file-fraudsters"
-  - "Deloitte, caso didáctico de fraude con cambio de cuenta bancaria (según su resumen): https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/about/2025/us-dfdtn-22-7c-egf-apparel.pdf"
+  - "Deloitte, Case 22-7c «EGF Apparel» (2025), caso didáctico de auditoría con empresa y fechas ficticias, leído completo: https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/about/2025/us-dfdtn-22-7c-egf-apparel.pdf"
   - "Corpay, Vendor verification: banking validation (según su resumen; fuente comercial con interés): https://www.corpay.com/en-NZ/resources/blog/vendor-verification-banking-validation"
   - "Queensland Government, Procurement guide: prequalifying suppliers (según su resumen): https://www.forgov.qld.gov.au/__data/assets/pdf_file/0025/187504/procurement-guide-prequalifying.pdf"
   - "New Zealand Government Procurement Rules, Pre-qualified suppliers list (según su resumen): https://www.procurement.govt.nz/procurement/principles-and-rules/government-procurement-rules/types-of-supplier-lists/pre-qualified-suppliers-list/"
@@ -41,7 +41,7 @@ Verificar sirve contra el proveedor inventado, el primero de los dos fraudes cl�
 
 Cambiar la cuenta bancaria de un proveedor que ya existe es el segundo fraude clásico, y se controla como un alta nueva. El auditor de Washington pide confirmar el cambio «directly with your vendor… by phone, using contact information that is known, reliable and already on file», es decir, con el teléfono que ya estaba cargado y no con el que trae el pedido de cambio.
 
-La llamada no alcanza si alguien no la hace. En un caso didáctico de una consultora, según su resumen, la empresa tenía la política de llamar y aun así transfirió una suma millonaria a una cuenta equivocada después de un pedido de cambio por correo. Una empresa que vende validación bancaria propone verificar la titularidad de la cuenta en vez de depender de una llamada; tiene interés comercial, así que vale como dato de que la práctica existe. Las dos fuentes sobre el fraude son de Estados Unidos.
+La llamada no alcanza si alguien no la hace. En un caso didáctico de una consultora (la empresa y las fechas son ficticias), la política exigía llamar al proveedor con el teléfono de una factura ya pagada, y aun así se transfirieron unos 3 millones de dólares a una cuenta equivocada después de un pedido de cambio por correo. El pedido venía de un dominio casi igual al del proveedor, con un guion de más, y el fraude apareció recién cuando el proveedor preguntó por sus facturas impagas. El caso señala como falla el control de revisión, que no dice qué mirar. Una empresa que vende validación bancaria propone verificar la titularidad de la cuenta en vez de depender de una llamada; tiene interés comercial, así que vale como dato de que la práctica existe. Las dos fuentes sobre el fraude son de Estados Unidos.
 
 ## Homologación: probar que el proveedor puede antes de comprarle
 

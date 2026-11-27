@@ -8,6 +8,7 @@ fuentes:
   - "ERPNext, Material Request (según su resumen): https://docs.frappe.io/erpnext/user/manual/en/material-request"
   - "ERPNext, Purchase Order, porcentaje de sobrepedido (según su resumen): https://docs.frappe.io/erpnext/user/manual/en/purchase-order"
   - "Microsoft, Dynamics 365 Supply Chain Management, Purchase agreements: https://learn.microsoft.com/en-us/dynamics365/supply-chain/procurement/purchase-agreements"
+  - "GAO, Governmentwide Purchase Cards, GAO-08-333 (marzo de 2008; leído por extracto del texto): https://www.gao.gov/assets/gao-08-333.pdf"
   - "APQC, Maverick purchasing means slower, more costly purchases (según su resumen): https://www.apqc.org/blog/maverick-purchasing-means-slower-more-costly-purchases"
   - "APQC, Process Classification Framework 7.4 (2024), 4.2.3.1 y 4.2.3.2: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
   - "Wikipedia, Purchase order, sección Legal («no PO, no pay», según su resumen): https://en.wikipedia.org/wiki/Purchase_order"
@@ -64,6 +65,8 @@ APQC concluye que no hace la compra más rápida ni más barata, aunque se crea 
 
 Algunas organizaciones responden con una regla dura, «no PO, no pay»: devuelven las facturas sin número de orden. La única fuente leída es la sección legal del artículo de Wikipedia. Una consecuencia posible es la orden cargada después de la factura, para regularizar una compra ya hecha; ninguna fuente leída la define ni la mide.
 
-> [!NOTE] Sin fuente todavía: la orden cargada después de la factura (after-the-fact PO), las tarjetas de compra corporativas y los catálogos internos como salidas legítimas para la compra chica.
+La tarjeta de compra es una salida legítima para la compra chica, con sus propios controles. El informe GAO-08-333 (2008) sobre las tarjetas del gobierno federal de Estados Unidos dice que sirven para compras de «paper and pencils» a computadoras; que las compras menores al límite de 2.500 dólares fueron el 97 % de las transacciones y casi el 57 % de los dólares; que la agencia de compras del Estado atribuía a la tarjeta unos 1.800 millones de dólares de ahorro anual frente al proceso en papel; y que el mismo informe encontró debilidades de control que expusieron al gobierno a fraude y abuso. Es una sola fuente, del sector público de un país.
+
+> [!NOTE] Sin fuente todavía: la orden cargada después de la factura (after-the-fact PO) y los catálogos internos como salidas legítimas para la compra chica.
 
 El costo de que el circuito se saltee no es solo de precio. Lo que se compra por afuera no descuenta del [contrato marco](../Abastecimiento-estrategico/contrato-marco.md), aparece en el [análisis del gasto](../Abastecimiento-estrategico/analisis-del-gasto.md) como gasto sin acuerdo y no tiene una orden contra la cual cruzar la factura en [compras y cuentas a pagar](../../Contabilidad/Operaciones/compras-y-cuentas-a-pagar.md). Esta lectura es criterio de la base.

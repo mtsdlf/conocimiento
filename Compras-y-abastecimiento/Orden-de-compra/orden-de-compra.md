@@ -8,7 +8,7 @@ fuentes:
   - "Wikipedia, Purchase order (según su resumen): https://en.wikipedia.org/wiki/Purchase_order"
   - "Microsoft, Dynamics 365 Supply Chain Management, Approve and confirm purchase orders: https://learn.microsoft.com/en-us/dynamics365/supply-chain/procurement/purchase-order-approval-confirmation"
   - "ERPNext, Purchase Order (según su resumen): https://docs.frappe.io/erpnext/user/manual/en/purchase-order"
-  - "Cornell Law School LII, UCC § 2-207 (según su resumen): https://www.law.cornell.edu/ucc/2/2-207"
+  - "Cornell Law School LII, UCC § 2-207 (texto leído): https://www.law.cornell.edu/ucc/2/2-207"
   - "CIPS, The thirteen steps of the procurement process (según su resumen): https://1prd-dxp.cips.org/intelligence-hub/procurement/procurement-process"
   - "Compras-y-abastecimiento/.investigacion/orden-y-seguimiento.md (secciones 1 a 4) y apqc-4-2.md"
 aliases: [orden de compra, OC, purchase order, PO, nota de pedido al proveedor, pedido de compra, pedido al proveedor, estados de la orden de compra]

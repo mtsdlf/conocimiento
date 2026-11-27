@@ -6,7 +6,7 @@ estabilidad: semi
 fuentes:
   - "Microsoft Learn, Approve and confirm purchase orders (Dynamics 365 Supply Chain Management), secciones de revisión externa y confirmación: https://learn.microsoft.com/en-us/dynamics365/supply-chain/procurement/purchase-order-approval-confirmation"
   - "Odoo 18, Request for quotation (Order Deadline, Expected Arrival; según su resumen): https://www.odoo.com/documentation/18.0/applications/inventory_and_mrp/purchase/manage_deals/rfq.html"
-  - "Cornell LII, UCC § 2-207 (según su resumen): https://www.law.cornell.edu/ucc/2/2-207"
+  - "Cornell LII, UCC § 2-207 (texto leído): https://www.law.cornell.edu/ucc/2/2-207"
   - "Wikipedia, Purchase order (según su resumen): https://en.wikipedia.org/wiki/Purchase_order"
   - "ERPNext, Supplier Scorecard (según su resumen): https://docs.frappe.io/erpnext/user/manual/en/supplier-scorecard"
   - "Wikipedia, Advance ship notice (según su resumen): https://en.wikipedia.org/wiki/Advance_ship_notice"
@@ -38,7 +38,7 @@ El tema usa tres nombres para tres fechas. La fecha requerida es la que pide qui
 
 ## Un acuse con términos propios también obliga
 
-Según el resumen de Wikipedia, emitir una orden no forma por sí solo un contrato; sin contrato previo, lo forma la aceptación del vendedor. En el derecho de los Estados Unidos (UCC § 2-207, según su resumen), una confirmación escrita enviada en tiempo razonable vale como aceptación aunque traiga términos distintos, salvo que la aceptación se condicione expresamente a ellos. Entre comerciantes, los términos agregados entran al contrato salvo excepciones. Es una sola fuente y un solo régimen, el de los Estados Unidos; sin fuente todavía para la Argentina. Para un sistema, la consecuencia es guardar el acuse tal como llegó, no solo marcar la orden como confirmada (inferencia de la base).
+Según el resumen de Wikipedia, emitir una orden no forma por sí solo un contrato; sin contrato previo, lo forma la aceptación del vendedor. En el derecho de los Estados Unidos (UCC § 2-207(1), texto leído), una confirmación escrita enviada en tiempo razonable vale como aceptación aunque traiga términos adicionales o distintos, salvo que la aceptación se condicione expresamente a ellos. Esos términos se tratan como propuestas de agregado; entre comerciantes entran al contrato salvo que la oferta limite la aceptación a sus términos, que los altere de manera sustancial o que se los objete en un plazo razonable (§ 2-207(2)). Si las partes actúan como si hubiera contrato aunque los escritos no lo formen, el contrato existe y sus términos son los que coinciden en los escritos (§ 2-207(3)). Es una sola fuente y un solo régimen, el de los Estados Unidos; sin fuente todavía para la Argentina. Para un sistema, la consecuencia es guardar el acuse tal como llegó, no solo marcar la orden como confirmada (inferencia de la base).
 
 ## El aviso de despacho y el seguimiento de entregas
 

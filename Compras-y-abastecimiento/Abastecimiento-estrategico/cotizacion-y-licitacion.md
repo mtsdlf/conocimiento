@@ -10,7 +10,7 @@ fuentes:
   - "ERPNext, Request for Quotation (práctica de un sistema abierto): https://docs.frappe.io/erpnext/user/manual/en/request-for-quotation"
   - "Wikipedia, Request for quotation (consultada 2026-11-27): https://en.wikipedia.org/wiki/Request_for_quotation"
   - "Wikipedia, Reverse auction (consultada 2026-11-27): https://en.wikipedia.org/wiki/Reverse_auction"
-  - "MIT Sloan Management Review, resumen del working paper de Sandy Jap (2001) sobre subastas inversas en línea: https://sloanreview.mit.edu/article/ebusiness-potential-pitfalls-of-eauctions"
+  - "MIT Sloan Management Review, resumen del working paper de Sandy Jap (julio de 2001) sobre subastas inversas en línea: https://sloanreview.mit.edu/article/ebusiness-potential-pitfalls-of-eauctions (artículo leído completo; el working paper no)"
   - "Compras-y-abastecimiento/.investigacion/abastecimiento-estrategico.md (2026-11-27), secciones 0, 5 y 9"
   - "Compras-y-abastecimiento/.investigacion/fundamentos-y-contraria.md (2026-11-27), sección 2.4"
 aliases: [cotización, licitación, pedido de cotización, solicitud de cotización, request for quotation, RFQ, pedido de propuesta, request for proposal, RFP, pedido de información, request for information, RFI, llamado a ofertas, invitation to tender, ITT, tender, RFx, concurso de precios, cuadro comparativo, comparativo de ofertas, cotización del proveedor, supplier quotation, subasta inversa, reverse auction, e-auction]
