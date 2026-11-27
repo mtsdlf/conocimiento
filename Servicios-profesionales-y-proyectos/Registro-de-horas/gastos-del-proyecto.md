@@ -55,7 +55,7 @@ El contrato público estadounidense va al otro extremo con los materiales: segú
 > [!IMPORTANT]
 > Es plata y hay una sola fuente de cada lado: el recargo está documentado por un sistema de gestión y la prohibición del recargo por una norma de contratos públicos de los Estados Unidos (ahora leída entera, pero es una sola norma de un tipo de contrato). No se leyó ninguna fuente sobre cuánto recargan las firmas privadas ni sobre las reglas de los colegios profesionales: la opinión formal 93-379 de la asociación de abogados estadounidense sobre cargos de gastos al cliente devolvió acceso denegado (403) en dos rondas de búsqueda y no se pudo abrir ni por otra copia. Lo que se cobra lo fija el contrato con cada cliente.
 
-Qué factura y qué impuesto lleva un gasto refacturado en la Argentina está en [Servicios profesionales en la Argentina](../servicios-profesionales-en-argentina.md), y lo impositivo recurrente, en el tema Impuestos, que todavía no está escrito.
+Qué factura y qué impuesto lleva un gasto refacturado en la Argentina está en [Servicios profesionales en la Argentina](../servicios-profesionales-en-argentina.md), y lo impositivo recurrente, en [Impuestos](../../Impuestos/impuestos.md).
 
 ## Cuando el gasto no se cobra
 

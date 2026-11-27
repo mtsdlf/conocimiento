@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del tema Servicios profesionales y proyectos: de dónde vienen la hora facturable y el PSA, las escuelas que discuten cómo gana plata una firma, qué tan firme es lo que se sabe, qué leer y qué cifras desconfiar, y los términos con su nombre en inglés.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - "WilmerHale (2010), Slice of History: Reginald Heber Smith and the Birth of the Billable Hour (citas releídas en la página; el resto, incluido lo de Kuckes, a través de un lector automático que resume la página): https://www.wilmerhale.com/en/insights/publications/slice-of-history-reginald-heber-smith-and-the-birth-of-the-billable-hour-august-9-2010"
@@ -23,7 +23,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/ (cinco informes, 2026-11-27)"
 aliases: [fundamentos de servicios profesionales, historia de la hora facturable, billable hour, hora facturable, historia del PSA, escuelas de servicios profesionales, crítica de la hora facturable]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Fundamentos de servicios profesionales
@@ -48,9 +48,9 @@ Después de 1940 la hora se difundió despacio. WilmerHale cita a la profesora N
 
 ## El PSA como categoría de software
 
-El software de servicios profesionales tomó nombre a principios de los años 2000. La entrada de enciclopedia sobre el PSA (*professional services automation*) lo define como software para ayudar a abogados, auditores o consultores con la gestión de proyectos y de recursos de los proyectos de clientes, y cita como primeras referencias a Rudolf Melik (*Professional Services Automation*, Wiley, 2002) y a R. David Hofferberth (un artículo de 2001). En su forma mínima es una hoja de horas con gastos y proyectos; en la más completa suma oportunidades, recursos y conocimiento.
+Las referencias más viejas que se encontraron sobre el nombre son de 2001 y 2002. La entrada de enciclopedia sobre el PSA (*professional services automation*) lo define como software para ayudar a abogados, auditores o consultores con la gestión de proyectos y de recursos de los proyectos de clientes, y cita como primeras referencias a Rudolf Melik (*Professional Services Automation*, Wiley, 2002) y a R. David Hofferberth (un artículo de 2001). En su forma mínima es una hoja de horas con gastos y proyectos; en la más completa suma oportunidades, recursos y conocimiento.
 
-La entrada de enciclopedia no dice de dónde viene la categoría, y la ficha del catálogo del libro de Melik (Rudolf y Ludwig Melik, Wiley, 2002, 442 páginas) confirma que existe y su fecha, pero su texto no se pudo leer; el artículo de Hofferberth (ChannelWeb, 2 de abril de 2001) tampoco. No se encontró fecha de origen de la categoría ni quiénes la fundaron. El PSA como categoría de producto es del tema Software de gestión, que todavía no está escrito.
+La entrada de enciclopedia no dice de dónde viene la categoría, y la ficha del catálogo del libro de Melik (Rudolf y Ludwig Melik, Wiley, 2002, 442 páginas) confirma que existe y su fecha, pero su texto no se pudo leer; el artículo de Hofferberth (ChannelWeb, 2 de abril de 2001) tampoco. Esas dos referencias son las más viejas que cita, no una fecha de origen: no se encontró cuándo nació la categoría ni quiénes la fundaron. El PSA como categoría de producto (qué funciones trae, con qué se pisa y cómo lo clasifica Gartner) está en [PSA](../../Software-de-gestion/Categorias-de-producto/psa.md), en Software de gestión.
 
 ## Tres escuelas sobre cómo gana plata una firma
 

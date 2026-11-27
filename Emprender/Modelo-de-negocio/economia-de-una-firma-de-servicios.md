@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Una firma de servicios profesionales gana plata con tres palancas que se multiplican: el margen de cada peso cobrado, cuánto factura cada persona (tarifa por utilización) y cuánta gente trabaja por cada socio (apalancamiento). Cuánto apalancamiento admite depende del tipo de trabajo, y el trabajo se vuelve más rutinario y más barato con los años.
-estado: vigente
+estado: borrador
 estabilidad: estable
 fuentes:
   - "David Maister, The Anatomy of a Consulting Firm (artículo en su sitio, prosa leída, figuras no): https://davidmaister.com/articles/16/2/"
@@ -17,6 +17,7 @@ fuentes:
   - "Certinia, Analyzing the 2026 SPI Research Professional Services Maturity Benchmark: https://www.certinia.com/blog/analyzing-the-2026-spi-research-professional-services-maturity-benchmark-report/"
   - "Ron Baker, Tomorrow's firm and the role of value pricing, entrevista en IFAC (2013-02-28), según resumen: https://www.ifac.org/news-events/2013-02/tomorrow-s-firm-and-role-value-pricing"
   - "SPI Research, Professional Services Maturity Benchmark 2026 (comunicado, 2026-02-24): https://www.einpresswire.com/article/894826291/"
+  - "SPI Research, Professional Services Benchmarks (tabla del benchmark 2026: 67,6 % en 2025 y 68,9 % en 2024; leída el 2026-11-27): https://spiresearch.com/professional-services-benchmarks/"
   - "EPAM, ficha del 4T 2025 (utilización del año 2025): https://s202.q4cdn.com/436759741/files/doc_financials/2025/q4/EPAM-Fact-Sheet-Q4-2025.pdf"
   - "Endava, transcripción de la llamada del 3T del ejercicio 2026: https://www.fool.com/earnings/call-transcripts/2026/05/21/endava-dava-q3-2026-earnings-transcript/"
   - "Dell'Acqua y otros (2023), Navigating the Jagged Technological Frontier, HBS Working Paper 24-013: https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf"
@@ -26,7 +27,7 @@ fuentes:
   - "Emprender/.investigacion/plata-de-un-servicio-contraria.md"
 aliases: [professional service firm, firma de servicios profesionales, apalancamiento, leverage, utilización facturable, billable utilization, rentabilidad por socio, profit per partner, brains grey hair procedure, pirámide, Maister]
 creado: 2026-11-24
-revisado: 2026-11-24
+revisado:
 ---
 
 # Economía de una firma de servicios
@@ -107,7 +108,7 @@ La ecuación de Maister mide la productividad en horas, y hay quien sostiene que
 
 ## Cifras de utilización de referencia
 
-El benchmark de SPI Research, visto a través de dos empresas de software que lo patrocinan o lo difunden, da una utilización facturable promedio del 66,4 % en 2025, contra el 73,2 % de 2021, y una meta del 75 % para las firmas de mejor desempeño. Es una sola fuente, de firmas de servicios profesionales en general, y el informe completo es pago. El comunicado del benchmark de 2026, con 509 firmas, dice que es la utilización más baja en 19 años. Entre las empresas listadas de software, EPAM facturó 76,8 % de las horas en 2025, y Endava dijo en 2026 que formar a su gente en IA le bajó la utilización; cómo encaja eso con el resto de la industria está en [servicios de software y la IA](../../Estrategia-competitiva/Analisis-de-industria/servicios-de-software-y-la-ia.md#de-dónde-sale-el-margen). Maister, en su ejemplo, usa como objetivo el 75 % para seniors y mandos medios y el 90 % para juniors. Por qué no conviene acercarse al 100 % está en [capacidad de un equipo de servicio](capacidad-de-un-equipo-de-servicio.md#dos-utilizaciones-que-no-son-la-misma).
+El benchmark 2026 de SPI Research (509 firmas) da dos cifras para la utilización facturable promedio de 2025. Su comunicado del 24 de febrero de 2026, y las dos empresas de software que lo patrocinan o lo difunden, dicen 66,4 %, la más baja en los 19 años del benchmark; la tabla de la página de SPI dice 67,6 % (68,9 % en 2024). Las dos son de la misma edición y del mismo año, y ninguna fuente leída explica la diferencia (lo que se sabe, en [utilización](../../Servicios-profesionales-y-proyectos/Rentabilidad-de-la-firma/utilizacion.md#una-definición-con-encuesta-detrás)). Una de esas empresas da además 73,2 % para 2021, y la meta es del 75 % para las firmas de mejor desempeño. Es una sola fuente, de firmas de servicios profesionales en general, y el informe completo es pago. Entre las empresas listadas de software, EPAM facturó 76,8 % de las horas en 2025, y Endava dijo en 2026 que formar a su gente en IA le bajó la utilización; cómo encaja eso con el resto de la industria está en [servicios de software y la IA](../../Estrategia-competitiva/Analisis-de-industria/servicios-de-software-y-la-ia.md#de-dónde-sale-el-margen). Maister, en su ejemplo, usa como objetivo el 75 % para seniors y mandos medios y el 90 % para juniors. Por qué no conviene acercarse al 100 % está en [capacidad de un equipo de servicio](capacidad-de-un-equipo-de-servicio.md#dos-utilizaciones-que-no-son-la-misma).
 
 > [!NOTE]
 > Sin fuente todavía: el texto del libro de Maister (sobre todo los capítulos 1 a 4) y su artículo «Balancing the Professional Service Firm» (Sloan Management Review, 1982); Løwendahl, *Strategic Management of Professional Service Firms*; y un benchmark de firmas chicas de desarrollo web o comercio electrónico.

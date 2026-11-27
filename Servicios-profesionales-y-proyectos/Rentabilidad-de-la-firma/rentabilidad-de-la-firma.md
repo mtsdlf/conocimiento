@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La rentabilidad de la firma es si cada proyecto, cada cliente y la firma entera ganan plata, medida desde el registro de la firma en marcha. Se arma con cuatro datos: el costo de la hora, el margen del proyecto, la utilización y la realización.
-estado: vigente
+estado: borrador
 estabilidad: semi
 fuentes:
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), 9.5.1.5 «Analyze and report employee utilization»"
@@ -12,7 +12,7 @@ fuentes:
   - "Servicios-profesionales-y-proyectos/.investigacion/practica-de-sistemas.md"
 aliases: [rentabilidad de la firma, rentabilidad de un servicio profesional, firm profitability, métricas de servicios profesionales, professional services KPIs, indicadores de una consultora]
 creado: 2026-11-27
-revisado: 2026-11-27
+revisado:
 ---
 
 # Rentabilidad de la firma
@@ -62,7 +62,7 @@ La gente puede estar llena de horas facturables y la firma ganar poco. Cada esla
 
 Las cuatro medidas sirven para ver dónde se pierde plata, y se deforman cuando se convierten en metas personales. La utilización es la más expuesta, porque la carga la misma persona a la que se evalúa: la ley de Goodhart aplicada a la utilización está en [utilización](utilizacion.md#cuando-la-utilización-se-vuelve-meta), y la crítica de los estudios jurídicos a la hora facturable, en [Fundamentos](../Fundamentos/fundamentos-de-servicios-profesionales.md). Cómo se atan bonos e incentivos a estas medidas es de [compensación e incentivos](../../Liderazgo-y-direccion/Gestion-de-personas/compensacion-e-incentivos.md).
 
-> [!NOTE] Sin fuente todavía: cifras de referencia con método de lockup, de margen por proyecto con su fórmula y de ingreso por persona. Hay dos con fuente y límites: la realización de estudios jurídicos de Estados Unidos en el segundo trimestre de 2026, en [realización](realizacion.md#qué-dicen-las-fuentes-leídas), y la utilización facturable del benchmark 2026 de SPI Research (67,6 % en 2025), en [utilización](utilizacion.md#una-definición-con-encuesta-detrás). El mismo benchmark da un margen de proyecto promedio del 37,7 % en 2025 (509 firmas) sin decir cómo lo calcula, así que no sirve para comparar. Más cifras de utilización están en la [economía de una firma de servicios](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md#cifras-de-utilización-de-referencia).
+> [!NOTE] Sin fuente todavía: cifras de referencia con método de lockup, de margen por proyecto con su fórmula y de ingreso por persona. Hay dos con fuente y límites: la realización de estudios jurídicos de Estados Unidos en el segundo trimestre de 2026, en [realización](realizacion.md#qué-dicen-las-fuentes-leídas), y la utilización facturable del benchmark 2026 de SPI Research (67,6 % en 2025 según su página, 66,4 % según su comunicado, sin explicación de la diferencia), en [utilización](utilizacion.md#una-definición-con-encuesta-detrás). El mismo benchmark da un margen de proyecto promedio del 37,7 % en 2025 (509 firmas) sin decir cómo lo calcula, así que no sirve para comparar. Más cifras de utilización están en la [economía de una firma de servicios](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md#cifras-de-utilización-de-referencia).
 
 ## Qué hay en la rentabilidad de la firma
 
