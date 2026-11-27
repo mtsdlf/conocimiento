@@ -73,5 +73,7 @@ La AAP marca como señal de alerta una conducta que:
 
 Insertar objetos o pedirle a otros que participen en actos sexuales son, según la AAP, "raramente normales". Ante cualquiera de estas señales, lo razonable es consultar con el pediatra (inferencia nuestra). Es una guía de organismo basada en opinión de expertos, leída a través de una herramienta automática que resume la página, no completa. Los términos técnicos están en el [glosario de crianza](../Fundamentos/glosario-de-crianza.md).
 
+Qué le pasa a un chico que sufrió abuso y qué tratamientos ayudan está en [adversidad y trauma](../../Psicologia-infantil/Contextos/adversidad-y-trauma.md).
+
 > [!NOTE]
 > Sin fuente todavía: los Cuadernos de ESI para el nivel inicial, evidencia sobre la eficacia de los programas de prevención del abuso, y el cuidado frente a desconocidos en pantallas a esta edad.

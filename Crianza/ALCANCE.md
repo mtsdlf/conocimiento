@@ -3,7 +3,7 @@ tema: Crianza
 para: saber qué hacer y por qué al criar a un chico de 0 a 6 años, para que crezca sano, seguro, autónomo y buena persona; la leen madres y padres
 nivel: padres atentos, sin formación en psicología ni pediatría, que quieren el porqué y la evidencia de cada recomendación
 escuela: neutral; cada enfoque de crianza con su evidencia, y lo que la ciencia del desarrollo sostiene como base
-fuera: [chicos de 7 años en adelante (se amplía después), embarazo y parto, diagnóstico y tratamiento de trastornos del desarrollo (se deriva a profesionales), alimentación (vive en Nutricion/, que se enlaza), datos de un chico en particular (la base es pública)]
+fuera: [chicos de 7 años en adelante (se amplía después), embarazo y parto, diagnóstico y tratamiento de trastornos (vive en Psicologia-infantil/, que se enlaza), alimentación (vive en Nutricion/, que se enlaza), datos de un chico en particular (la base es pública)]
 fuentes: []
 preguntas:
   - Un chico de 2 años y medio habla como uno de 4 pero hace berrinches de uno de 2, ¿es normal y qué se hace?

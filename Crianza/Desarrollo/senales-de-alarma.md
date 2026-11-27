@@ -75,3 +75,5 @@ El IODI (Instrumento de Observación del Desarrollo Infantil) es una herramienta
 Las cifras de la guía de la SAP (el 80 % de probabilidad ante la preocupación de los padres, el 30 % y el 70 %-90 % de detección) vienen de esa sola guía, que cita otros estudios. La indicación del CDC se conoce por su resumen. El estudio del IODI es chico y de un solo hospital. Que la regresión, la falta de atención conjunta y la preocupación de los padres pesen más que un hito aislado es una inferencia de esta nota.
 
 Si el chico va adelantado en algo, la pregunta es otra y está en [altas capacidades](../Altas-capacidades/altas-capacidades.md).
+
+Estas señales son del desarrollo (movimiento, lenguaje, relación). Las emocionales y de conducta, y cómo se separa lo normal para la edad de un trastorno, están en [psicopatología del desarrollo](../../Psicologia-infantil/Psicopatologia/psicopatologia-del-desarrollo.md); quién evalúa a un chico y cómo, en [evaluación](../../Psicologia-infantil/Evaluacion/evaluacion-psicologica.md).

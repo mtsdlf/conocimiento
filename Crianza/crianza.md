@@ -19,7 +19,7 @@ Criar es acompañar el desarrollo de un chico desde el nacimiento: darle un vín
 
 El chico no es una hoja en blanco que los padres escriben. Llega con un temperamento y una genética que pesan, y crece en una relación: lo que hacen los adultos cambia cómo usa lo que trae. Por eso la base separa lo que un chico hace solo porque crece ([desarrollo](Desarrollo/desarrollo-infantil.md)) de lo que los adultos pueden darle (vínculo, límites, juego, rutinas, escuela). Cuando algo preocupa, conviene preguntarse primero si es esperable para la edad.
 
-El tema cubre de 0 a 6 años, con más profundidad entre los 2 y los 6. Quedan afuera los chicos más grandes, el embarazo, el diagnóstico de trastornos del desarrollo y la alimentación, que vive en [Nutrición](../Nutricion/nutricion.md) ([alcance](ALCANCE.md)).
+El tema cubre de 0 a 6 años, con más profundidad entre los 2 y los 6. Quedan afuera los chicos más grandes, el embarazo y la alimentación, que vive en [Nutrición](../Nutricion/nutricion.md). Los trastornos, cómo se evalúan y cómo se tratan viven en [Psicología infantil](../Psicologia-infantil/psicologia-infantil.md), que mira lo mismo desde la disciplina y hasta los 12 años ([alcance](ALCANCE.md)).
 
 > [!IMPORTANT]
 > Esta base resume guías de sociedades de pediatría, revisiones de estudios y libros de divulgación, y dice cuál es cuál. No reemplaza al pediatra: una duda sobre el desarrollo, la salud o una conducta que preocupa se consulta con él.
@@ -70,6 +70,7 @@ La misma prudencia vale para "estimular": los videos para bebés no mostraron qu
 - Si tenés que elegir escuela: [elegir escuela](Escuela/elegir-escuela.md) y [escuela bilingüe](Escuela/escuela-bilingue.md); si va adelantado, además [señales y evaluación](Altas-capacidades/senales-y-evaluacion.md) y [opciones escolares](Altas-capacidades/opciones-escolares.md).
 - Si escuchaste algo que suena a verdad de crianza (Mozart, videos para bebés, "los primeros tres años lo deciden todo"): [mitos de crianza](Fundamentos/mitos-de-crianza.md).
 - Si una nota usa un término que no conocés (apego, funciones ejecutivas, heredabilidad, metaanálisis): [glosario de crianza](Fundamentos/glosario-de-crianza.md).
+- Si te preocupa que algo sea más que una etapa (un miedo, la atención, la conducta, el habla), o te nombraron un diagnóstico: [Psicología infantil](../Psicologia-infantil/psicologia-infantil.md).
 - Si no quiere comer: [el chico que no come](../Nutricion/Alimentacion-infantil/chico-que-no-come.md), en Nutrición.
 
 ## Por dónde empezar

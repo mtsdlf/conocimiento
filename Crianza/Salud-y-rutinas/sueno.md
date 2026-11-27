@@ -78,3 +78,5 @@ Si el sueño preocupa, la AAP y KidsHealth mandan a consultar al pediatra.
 > Sin fuente todavía: una guía argentina (SAP) sobre siesta y rutinas, y evidencia o consenso sobre colecho entre los 2 y los 6 años. Tampoco se encontró un documento de la SAP sobre horas de sueño: las cifras "de la SAP" solo aparecen en notas de prensa.
 
 El tiempo de pantalla, que la OMS cuenta dentro de las mismas 24 horas, está en [pantallas](../Juego-y-aprendizaje/pantallas.md).
+
+Los problemas de sueño que pasan a ser un trastorno están en [otros trastornos](../../Psicologia-infantil/Psicopatologia/otros-trastornos.md).
