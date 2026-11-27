@@ -25,14 +25,14 @@ En la versión 7.4, la categoría 4.0 es «Manage Supply Chain for Physical Prod
 
 | Proceso del PCF 7.4 | Dónde va en la base |
 |---|---|
-| 4.1.1 Develop production and materials strategies | Producción (todavía no armado) |
+| 4.1.1 Develop production and materials strategies | [Producción](../../Produccion/produccion.md); el detalle, en [marcos de la producción](../../Produccion/Fundamentos/marcos-de-la-produccion.md) |
 | 4.1.2 Manage demand for products | [Pronóstico de demanda](../Planificacion/pronostico-de-demanda.md), [error de pronóstico](../Planificacion/error-de-pronostico.md) (4.1.2.7, «Measure demand forecast accuracy») y [plan de ventas y operaciones](../Planificacion/plan-de-ventas-y-operaciones.md); el 4.1.2.4, «Determine available to promise», es [disponible para prometer](../../Inventario-y-depositos/Existencias/disponible-para-prometer.md), de Inventario |
-| 4.1.3 Create materials plan | Producción |
-| 4.1.4 Create and manage master production schedule | Producción |
+| 4.1.3 Create materials plan | [MRP](../../Produccion/Planificacion-de-la-produccion/mrp.md), de Producción |
+| 4.1.4 Create and manage master production schedule | [Plan maestro de producción](../../Produccion/Planificacion-de-la-produccion/plan-maestro-de-produccion.md), de Producción |
 | 4.1.5 Plan distribution requirements | [Planificación de la distribución](../Planificacion/planificacion-de-la-distribucion.md) |
 | 4.1.6 Establish distribution planning constraints | [Planificación de la distribución](../Planificacion/planificacion-de-la-distribucion.md): restricciones de depósito, inventario, transporte y almacenaje |
 | 4.1.7 Review distribution planning policies | [Diseño de la red](../Red-de-distribucion/diseno-de-la-red.md) (4.1.7.1, «Review distribution network»); el 4.1.7.2, «Establish sourcing relationships», es de Compras y abastecimiento (todavía no armado); el 4.1.7.3, «Establish dynamic deployment policies», es dato de la [planificación de la distribución](../Planificacion/planificacion-de-la-distribucion.md) |
-| 4.1.8 Develop quality standards and procedures | Ningún tema armado |
+| 4.1.8 Develop quality standards and procedures | [Calidad](../../Produccion/Calidad/calidad.md), de Producción |
 | 4.4.1 Provide logistics governance | [Red de distribución](../Red-de-distribucion/red-de-distribucion.md) (diseño de la red, necesidades de tercerización), [Transporte](../Transporte/transporte.md) (horarios y costos), [nivel de servicio logístico](../Despacho-y-entrega/nivel-de-servicio-logistico.md) (política de entrega e indicadores) y [logística inversa](../Despacho-y-entrega/logistica-inversa.md) (4.4.1.7) |
 | 4.4.2 Plan and manage inbound material flow | La recepción es de [Inventario](../../Inventario-y-depositos/Operacion-del-deposito/recepcion.md); el flujo de devoluciones (4.4.2.4 y 4.4.2.5), de [logística inversa](../Despacho-y-entrega/logistica-inversa.md) |
 | 4.4.3 Operate warehousing | [Inventario y depósitos](../../Inventario-y-depositos/inventario-y-depositos.md) |
