@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El mercado argentino de software de gestión tiene tres rasgos propios: la localización fiscal es requisito para vender, los sistemas instalados se venden por licencia a través de distribuidores o centros de servicio y los de nube cobran por mes según comprobantes, usuarios y canales. No hay dato público del tamaño de este mercado; las cifras que circulan son de todo el sector de software.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Software-de-gestion/.investigacion/mercado-y-economia.md, sección 7 (2026-11-27; todo por resumen del buscador)"
@@ -15,7 +15,7 @@ fuentes:
   - "FACPCE, guía de aplicación del ajuste por inflación (RT 6 y NIC 29), primera parte (por resumen): https://www.facpce.org.ar/web2014/pdf/Guia de aplicación de las normas contables sobre ajuste por inflación (RT 6 y NIC 29) - Primera parte.pdf"
 aliases: [mercado argentino de software de gestión, mercado de ERP en Argentina, ERP argentino, localización argentina, centros de servicio, distribuidores de software de gestión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mercado en la Argentina

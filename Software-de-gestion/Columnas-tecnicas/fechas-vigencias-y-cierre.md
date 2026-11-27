@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En un software de gestión, todo hecho tiene dos fechas, cuándo pasó y cuándo se registró; muchos datos valen desde y hasta una fecha (un precio, una alícuota, un sueldo); y el cierre de período bloquea lo anterior para que los saldos ya informados no cambien.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Temporal Patterns (Time Narrative): https://martinfowler.com/eaaDev/timeNarrative.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md (2026-11-27)"
 aliases: [fecha del hecho, fecha de registro, fecha contable, posting date, record date, actual date, vigencia, effectivity, fecha de bloqueo, lock date, cierre de período, period close, período cerrado, bitemporal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fechas, vigencias y cierre

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Elegir un sistema de gestión es comparar productos contra las necesidades propias de la empresa, en este orden: necesidades, criterios, lista corta, demo guionada con casos propios, referencias y contrato. El orden es una propuesta de esta base sobre la práctica de consultoras, sin estudios que comparen un método con otro.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ratkevičius et al. (2012), ERP selection criteria: theoretical and practical views, Ekonomika (según resumen): https://epublications.vu.lt/object/elaba:4594534/index.html"
@@ -14,7 +14,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/implementacion.md"
 aliases: [elegir un ERP, selección de ERP, ERP selection, software selection, selección de software, evaluación de proveedores de software, demo guionada, scripted demo, prueba de concepto, proof of concept, lista corta, shortlist]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Elegir un sistema

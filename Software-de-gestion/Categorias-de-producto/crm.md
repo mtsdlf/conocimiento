@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El CRM es la categoría de software de gestión que lleva el registro del cliente y lo que pasa antes del pedido (el interesado, la oportunidad, las actividades del vendedor), y que a veces suma la atención y el marketing. Bajo esa sigla el mercado vende tres productos distintos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, «Customer relationship management» (leída en parte; los tres componentes vienen de la literatura académica que cita, como Buttle 2004): https://en.wikipedia.org/wiki/Customer_relationship_management"
@@ -13,7 +13,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y taxonomias-externas-96.md (2026-11-27)"
 aliases: [CRM, customer relationship management, gestión de la relación con el cliente, sistema de CRM, SFA, sales force automation, automatización de la fuerza de ventas, CRM operativo, CRM analítico, CRM colaborativo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # CRM

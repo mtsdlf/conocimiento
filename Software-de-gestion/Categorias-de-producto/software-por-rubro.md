@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El software por rubro (vertical) es el software de gestión hecho para una industria, con sus procesos y su normativa; el horizontal lleva funciones que sirven a cualquier empresa, como la contabilidad o el personal. Es una distinción del mercado que ninguna fuente leída define con criterios.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Gartner, Magic Quadrant for Cloud ERP for Product-Centric Enterprises y su par para empresas de servicios, octubre de 2025 (resumen): https://www.gartner.com/en/documents/7058198"
@@ -11,7 +11,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md (2026-11-27)"
 aliases: [software por rubro, software vertical, vertical software, ERP vertical, ERP sectorial, software de industria, industry-specific software, software horizontal, horizontal software, vertical frente a horizontal]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Software por rubro

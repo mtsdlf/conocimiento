@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los reportes operativos y legales son lo que un software de gestión saca de su propia base y tiene que entregar: los listados del día (qué despachar, quién debe, qué vence) y los libros y registros que pide la ley, con corte a una fecha. Lo que junta varias fuentes o mucha historia para decidir es inteligencia de negocio y vive en Datos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Reporting Database (2014): https://martinfowler.com/bliki/ReportingDatabase.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md y columnas-tecnicas-complemento.md (2026-11-27)"
 aliases: [reportes, informes, listados, reportes operativos, operational reporting, reportes legales, libros legales, statutory reports, salidas del sistema, output, desajuste de salida, output misfit]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Reportes operativos y legales

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los permisos de un software de gestión dicen qué puede hacer cada rol con cada tipo de documento, sobre qué registros, y qué combinaciones de tareas no puede tener una misma persona. Son la forma en que el sistema lleva a la práctica la separación de funciones del control interno.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "COSO, Internal Control — Integrated Framework, Executive Summary, mayo 2013: https://www.coso.org/_files/ugd/3059fc_1df7d5dd38074006bce8fdf621a942cf.pdf"
@@ -13,7 +13,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md y columnas-tecnicas-complemento.md (2026-11-27)"
 aliases: [permisos, roles, perfiles de acceso, control de acceso, access control, RBAC, permisos por rol, permisos por registro, record rules, row-level security, separación de funciones, segregation of duties, SoD, incompatibilidades]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Permisos y separación de funciones

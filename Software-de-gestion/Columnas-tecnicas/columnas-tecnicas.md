@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las columnas técnicas son las once piezas de diseño que comparte todo software de gestión, sea cual sea el dominio que lleve: datos maestros, documento con estados, registro de movimientos, fechas, cantidades y monedas, estructura de la organización, permisos, auditoría, integración, configuración y reportes. Resueltas una vez, sirven igual para ventas, compras, stock, producción o nómina.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Accounting Narrative: https://martinfowler.com/eaaDev/AccountingNarrative.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md y columnas-tecnicas-complemento.md (2026-11-27)"
 aliases: [columnas técnicas, columna técnica, piezas comunes del software de gestión, patrones de análisis, analysis patterns, esqueleto del ERP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Columnas técnicas

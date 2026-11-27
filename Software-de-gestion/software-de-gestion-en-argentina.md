@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En la Argentina la norma le pide a un sistema de gestión que autorice cada comprobante ante ARCA por web service, con contingencia por CAEA, que se integre con el controlador fiscal si lo hay, que entregue libros y regímenes de información en los formatos del fisco y que aplique las alícuotas de los padrones de cada provincia. No se encontró una norma que obligue a homologar el software: lo que se homologa es el controlador fiscal.
-estado: borrador
+estado: vigente
 estabilidad: volatil
 fuentes:
   - "Software-de-gestion/.investigacion/normativa-argentina.md (2026-11-27)"
@@ -28,7 +28,7 @@ fuentes:
   - "RG IGJ 15/2024, resolución y considerandos (sin el Anexo A): https://www.boletinoficial.gob.ar/pdf/aviso/primera/310531/20250613"
 aliases: [software de gestión en Argentina, ERP en Argentina, requisitos fiscales de un sistema, localización fiscal argentina, homologación de software, homologación de software de gestión, contingencia de factura electrónica, WSAA, FECompConsultar, QR de la factura electrónica, padrón de alícuotas]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Software de gestión en la Argentina

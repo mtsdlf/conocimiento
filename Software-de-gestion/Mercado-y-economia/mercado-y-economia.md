@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Mercado y economía es la parte del software de gestión que trata cómo se vende y quién gana qué: el proveedor cobra licencia, soporte o suscripción, los partners revenden e implantan, los terceros venden extensiones, y quien compra paga todo eso más su propio tiempo. Explica por qué el negocio del proveedor es la base instalada y por qué la licencia es la parte menor del costo para el cliente.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Informe anual 2024 (Form 20-F) de uno de los proveedores de ERP más grandes del mundo: https://www.sec.gov/Archives/edgar/data/1000184/000110465925017815/sap-20241224x20f.htm"
@@ -10,7 +10,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/contraria.md (2026-11-27)"
 aliases: [mercado del software de gestión, mercado de ERP, ERP market, economía del ERP, cómo se vende un ERP, go-to-market de ERP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mercado y economía

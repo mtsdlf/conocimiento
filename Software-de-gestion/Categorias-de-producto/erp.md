@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El ERP (planificación de recursos de la empresa) es la categoría de software de gestión que lleva sobre una base de datos común los dominios administrativos de una empresa y, en las que mueven productos, el stock, la producción y la distribución. No tiene una definición acordada ni una lista fija de módulos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Klaus, Rosemann y Gable (2000), «What is ERP?», Information Systems Frontiers 2(2):141-162 (solo el abstract): https://ideas.repec.org/a/spr/infosf/v2y2000i2d10.1023_a1026543906354.html"
@@ -16,7 +16,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y taxonomias-externas-96.md (2026-11-27)"
 aliases: [ERP, enterprise resource planning, planificación de recursos empresariales, planificación de recursos de la empresa, sistema integrado de gestión, ERP de producto, ERP de servicios, product-centric ERP, service-centric ERP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # ERP

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En un software de gestión, cada documento confirmado deja movimientos que no se editan (de stock, de cuenta corriente, contables) según reglas de contabilización, y el saldo de cualquier cosa es la suma de sus movimientos. Cada movimiento lleva dimensiones (centro de costo, proyecto, sucursal) para analizarlo sin multiplicar cuentas.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Accounting Narrative: https://martinfowler.com/eaaDev/AccountingNarrative.html"
@@ -16,7 +16,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md, columnas-tecnicas-complemento.md y contraria.md (2026-11-27)"
 aliases: [registro de movimientos, libro mayor, ledger, general ledger, reglas de contabilización, posting rules, contabilización automática, dimensiones, dimensiones analíticas, dimensiones financieras, accounting dimensions, financial dimensions, REA, resources events agents]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Registro de movimientos y dimensiones

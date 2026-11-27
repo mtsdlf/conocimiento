@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un proveedor de software de gestión vive de cuatro líneas: la licencia nueva, el soporte de lo ya vendido, la suscripción en la nube y los servicios. En los informes anuales de los proveedores más grandes, la licencia nueva es la línea chica y el negocio es la base instalada que paga todos los años.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Informe anual 2024 (Form 20-F) de uno de los proveedores de ERP más grandes del mundo, ejercicio al 2024-12-31: https://www.sec.gov/Archives/edgar/data/1000184/000110465925017815/sap-20241224x20f.htm (leídas las tablas de ingresos y costos y la sección de resultados)"
@@ -10,7 +10,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/mercado-y-economia.md (2026-11-27), sección 2"
 aliases: [economía del proveedor de ERP, ERP vendor economics, mezcla de ingresos, revenue mix, base instalada, installed base, ingreso más predecible, more predictable revenue, ingresos de soporte, support revenue]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Economía del proveedor

@@ -1,14 +1,14 @@
 ---
 resumen: >-
   El ecosistema de extensiones de un software de gestión son los módulos que hacen terceros para sumarle un rubro, una función o una localización, y que el proveedor publica en su tienda a cambio de una comisión. Funciona como cualquier ecosistema de plataforma, con una diferencia: la extensión escribe en los mismos registros que lleva la contabilidad.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Blog de un proveedor grande de software de empresa, Drive growth with the most partner-focused business platform (2021-07-14): https://azure.microsoft.com/blog/drive-growth-with-the-most-partnerfocused-business-platform/ (leído)"
   - "Software-de-gestion/.investigacion/mercado-y-economia.md (2026-11-27), sección 4"
 aliases: [extensiones, add-ons, agregados, apps de terceros, tienda de extensiones, marketplace de aplicaciones de empresa, ISV, desarrollador independiente de software, independent software vendor]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Ecosistema de extensiones

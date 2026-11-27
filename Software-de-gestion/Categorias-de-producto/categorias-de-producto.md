@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Las categorías de producto son los nombres con que el mercado corta el software de gestión según los dominios que lleva cada caja: ERP, CRM, HCM, cadena de suministro, MES, mesa de ayuda, servicio de campo, PSA y mantenimiento. Ninguna tiene una frontera fija; dos productos de la misma categoría agrupan módulos distintos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Klaus, Rosemann y Gable (2000), «What is ERP?», Information Systems Frontiers 2(2):141-162 (solo el abstract): https://ideas.repec.org/a/spr/infosf/v2y2000i2d10.1023_a1026543906354.html"
@@ -19,7 +19,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md, taxonomias-externas-96.md y contraria.md (2026-11-27)"
 aliases: [categorías de producto, categorías de software de gestión, enterprise application categories, suite, suite integrada, best of breed, best-of-breed, lo mejor de cada clase, ERP administrativo, ERP operativo, administrative ERP, operational ERP, postmodern ERP, ERP posmoderno, composable ERP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Categorías de producto

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El HCM (gestión del capital humano) es la categoría de software de gestión que lleva el registro del personal, el tiempo trabajado y la nómina y, en las suites grandes, el talento: buscar, incorporar, evaluar y desarrollar personas. HRIS, HRMS y HCM son nombres que se solapan para la misma caja.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, «Human capital management» (leída en parte; cita a Armstrong 2006): https://en.wikipedia.org/wiki/Human_capital_management"
@@ -13,7 +13,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y taxonomias-externas-96.md (2026-11-27)"
 aliases: [HCM, human capital management, gestión del capital humano, HRIS, human resources information system, HRMS, human resources management system, sistema de recursos humanos, software de RR. HH., core HR, sistema de nómina, payroll software, talent management, gestión del talento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # HCM

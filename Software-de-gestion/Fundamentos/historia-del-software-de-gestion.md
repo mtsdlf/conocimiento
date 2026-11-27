@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El software de gestión empezó en la fábrica con el MRP de los años sesenta, creció al MRP II en los ochenta y pasó a llamarse ERP en los noventa, cuando el término de Gartner lo extendió a toda la empresa; el año 2000 empujó el reemplazo de sistemas viejos, y después llegaron la nube y una serie de etiquetas de analista (ERP II, postmoderno, componible). Casi todo el tramo descansa en fuentes secundarias.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, Material requirements planning (secundaria; cita a Orlicky 1975, Karmarkar 1989 y Gray 1986): https://en.wikipedia.org/wiki/Material_requirements_planning"
@@ -19,7 +19,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md, sección 2.1 (2026-11-27)"
 aliases: [historia del ERP, ERP history, historia de MRP, MRP II, manufacturing resource planning, ERP II, postmodern ERP, ERP postmoderno, composable ERP, ERP componible, Y2K, problema del año 2000, cloud ERP, ERP en la nube]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Historia del software de gestión

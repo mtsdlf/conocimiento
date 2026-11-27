@@ -1,7 +1,7 @@
 ---
 resumen: >-
   SCM, WMS y TMS son tres categorías de software de gestión de la cadena de suministro: la planificación de la cadena (cuánto vender, producir y mover), el sistema de gestión de depósitos (lo que pasa adentro del depósito) y el sistema de gestión de transporte (el viaje de la carga). Las dos últimas el mercado las agrupa como ejecución de la cadena.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Gartner, glosario «Supply Chain Execution (SCE)» (resumen; no leído): https://gcom.pdo.aws.gartner.com/en/information-technology/glossary/supply-chain-execution-sce"
@@ -14,7 +14,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y taxonomias-externas-96.md (2026-11-27)"
 aliases: [SCM, supply chain management, gestión de la cadena de suministro, SCP, supply chain planning, planificación de la cadena de suministro, SCE, supply chain execution, ejecución de la cadena de suministro, WMS, warehouse management system, sistema de gestión de depósitos, sistema de gestión de almacenes, TMS, transportation management system, sistema de gestión de transporte]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # SCM, WMS y TMS

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La puesta en marcha es el momento en que la empresa deja de operar en el sistema viejo y empieza a operar en el nuevo. Se hace de una vez, por fases o con los dos sistemas en paralelo, pasa por un corte ensayado con un plan para volver atrás y sigue con unas semanas de hipercuidado; no hay estudios sólidos que digan cuál de las tres formas falla menos.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Guía de implementación de un proveedor grande, estrategia de corte, ms.date 2024-01-30 (leída): https://learn.microsoft.com/en-us/dynamics365/guidance/implementation-guide/prepare-go-live-cutover-strategy"
@@ -15,7 +15,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/implementacion.md"
 aliases: [puesta en marcha, go-live, arranque, corte, cutover, big bang, de una vez, por fases, phased rollout, en paralelo, parallel run, hipercuidado, hypercare, ensayo de corte, mock cutover, vuelta atrás, rollback, go/no-go]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Puesta en marcha

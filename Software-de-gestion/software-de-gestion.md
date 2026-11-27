@@ -1,13 +1,13 @@
 ---
 resumen: >-
   El software de gestión es el software que lleva los dominios de una empresa (la contabilidad, las ventas, las compras, el stock, la producción, la gente) sobre registros compartidos; ERP, CRM, HCM o MES son formas de empaquetarlo. Este tema explica cómo se clasifica, qué piezas de diseño comparte todo producto de la clase, cómo se elige y se implanta en una empresa y cómo se vende, sin nombrar productos; el saber de cada dominio vive en su propio tema.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Software-de-gestion/.investigacion/ (informes del 2026-11-27, más los de los issues #96 y #97)"
 aliases: [ERP, software de gestión, sistema de gestión, sistemas de gestión, enterprise software, enterprise applications, aplicaciones empresariales, software empresarial, business software, sistema administrativo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Software de gestión

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los términos del tema Software de gestión, cada uno con su nombre en inglés, una definición corta y la nota donde vive, agrupados por la vertical del tema a la que pertenecen.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Klaus, Rosemann y Gable (2000), What is ERP? (abstract): https://ideas.repec.org/a/spr/infosf/v2y2000i2d10.1023_a1026543906354.html"
@@ -20,7 +20,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/ (fundamentos-y-categorias.md, columnas-tecnicas-97.md, implementacion.md, mercado-y-economia.md y taxonomias-externas-96.md, 2026-11-27)"
 aliases: [glosario de ERP, ERP glossary, términos de software de gestión, vocabulario de ERP, siglas de software de gestión]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Glosario de software de gestión

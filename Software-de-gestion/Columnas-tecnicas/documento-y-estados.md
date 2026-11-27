@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El documento es la unidad de trabajo de un software de gestión (el pedido, la factura, el remito, la orden de trabajo): se arma en borrador, se confirma y desde ahí produce movimientos, y se corrige anulándolo con otro documento en lugar de editarlo. Lleva su numeración y, cuando hace falta, una cadena de aprobaciones.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Framework de un ERP de código abierto, DocStatus (según resumen): https://docs.frappe.io/framework/doctypes/docstatus"
@@ -15,7 +15,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md y columnas-tecnicas-complemento.md (2026-11-27)"
 aliases: [documento, comprobante, estados del documento, ciclo del documento, document lifecycle, docstatus, borrador, confirmado, anulado, enmienda, amendment, numeración, serie de numeración, naming series, workflow, flujo de aprobación]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Documento y estados

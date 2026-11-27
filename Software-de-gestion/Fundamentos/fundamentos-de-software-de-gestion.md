@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Lo transversal del software de gestión: un nombre sin definición acordada, una historia que va de la planificación de materiales a la empresa entera, cuatro posiciones en disputa (suite o lo mejor de cada clase, adoptar las prácticas del paquete o adaptarlo, partida doble o REA, si un ERP mejora el desempeño) y cómo leer la evidencia de un campo donde casi todas las cifras vienen de quien vende.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Klaus, Rosemann y Gable (2000), What is ERP?, Information Systems Frontiers 2(2): 141-162 (abstract): https://ideas.repec.org/a/spr/infosf/v2y2000i2d10.1023_a1026543906354.html"
@@ -21,7 +21,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y contraria.md (2026-11-27)"
 aliases: [fundamentos del software de gestión, fundamentos de ERP, qué es un ERP, definición de ERP, suite o best-of-breed, best of breed, mejores prácticas del ERP, best practices, REA y ERP, ERP y desempeño]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fundamentos de software de gestión

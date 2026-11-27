@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La mesa de ayuda y la gestión del servicio de campo son dos categorías de software de la posventa: la primera registra y sigue los casos que abren los clientes; la segunda programa, despacha y sigue a los técnicos que van a casa del cliente. El mercado las vende por separado, y se tocan cuando un caso necesita una visita.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, «Field service management» (leída; secundaria, con aviso de falta de citas): https://en.wikipedia.org/wiki/Field_service_management"
@@ -12,7 +12,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y taxonomias-externas-96.md (2026-11-27)"
 aliases: [mesa de ayuda, help desk, helpdesk, service desk, mesa de servicio, software de atención al cliente, customer service software, ticketing, sistema de tickets, FSM, field service management, gestión del servicio de campo, software de servicio de campo, ITSM, IT service management, gestión de servicios de TI]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Servicio de campo y mesa de ayuda

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un partner de implementación es la empresa que configura, migra y pone en marcha un software de gestión que no hizo; la implantación también la pueden hacer el proveedor del producto o la propia empresa. Quién implanta decide el contrato, quién carga el riesgo del desvío y cuánto conocimiento le queda a la empresa cuando el partner se va.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Ko, Kirsch y King (2005), Antecedents of knowledge transfer from consultants to clients in enterprise system implementations, MIS Quarterly 29(1):59-86 (abstract): https://aisel.aisnet.org/misq/vol29/iss1/5"
@@ -12,7 +12,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/implementacion.md"
 aliases: [partner de implementación, implementation partner, integrador, system integrator, SI, consultora de implementación, implementador, socio de implementación, consultor funcional, transferencia de conocimiento, knowledge transfer]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Partners de implementación

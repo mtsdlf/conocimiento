@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El análisis de brechas compara lo que trae un software de gestión con lo que la empresa necesita y, para cada diferencia, decide si cambia el proceso de la empresa o cambia el software. La literatura llama desajustes a esas diferencias, y la evidencia sobre cuál de los dos caminos conviene es mixta.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Soh, Sia y Tay-Yap (2000), Cultural fits and misfits: is ERP a universal solution?, CACM 43(4):47-51 (según resumen; la página dio 403): https://cacm.acm.org/research/enterprise-resource-planning-cultural-fits-and-misfits"
@@ -19,7 +19,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md"
 aliases: [análisis de brechas, fit-gap, fit-gap analysis, gap analysis, ajuste al estándar, fit-to-standard, desajuste, misfit, misfits, adaptar el proceso o el software, mejores prácticas, best practices, vainilla, vanilla]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Análisis de brechas

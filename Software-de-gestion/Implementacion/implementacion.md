@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La implementación es el proyecto que lleva un software de gestión a una empresa que ya trabaja de otra manera: se elige el producto, se decide qué se adapta, se migran los datos, se pone en marcha y se estabiliza. Las cifras de fracaso que circulan dependen de cómo se define fracaso y de quién las mide.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Markus y Tanis (2000), The enterprise system experience: from adoption to success, en Zmud (ed.), Framing the Domains of IT Research; fases nombradas según una fuente que cita el modelo (no se leyó el capítulo): https://www.cin.ufpe.br/~llfj/Emerald/Critical%20factors%20for%20successful%20implementation%20of%20enterprise%20systems.pdf"
@@ -22,7 +22,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/contraria.md"
 aliases: [implementación, implantación, implementación de ERP, ERP implementation, enterprise system implementation, proyecto de ERP, ciclo de implantación, enterprise system experience cycle, factores críticos de éxito, critical success factors, CSF]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Implementación

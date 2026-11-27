@@ -1,7 +1,7 @@
 ---
 resumen: >-
   En un software de gestión, un número de negocio viaja siempre con su unidad (kilos, cajas, horas) o con su moneda. Convertir unidades, redondear sin perder centavos, guardar la moneda de origen junto a la de la empresa y registrar la diferencia de cambio son decisiones de diseño que valen para todos los módulos.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Money (Patterns of Enterprise Application Architecture): https://martinfowler.com/eaaCatalog/money.html"
@@ -10,7 +10,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md (2026-11-27)"
 aliases: [cantidad, quantity, unidad de medida, unit of measure, UoM, conversión de unidades, conversion ratio, money, dinero, importe, multimoneda, multi-currency, moneda de la empresa, moneda de origen, redondeo, rounding, diferencia de cambio]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Cantidades, unidades y monedas

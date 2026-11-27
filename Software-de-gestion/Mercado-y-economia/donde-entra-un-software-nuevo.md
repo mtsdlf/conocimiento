@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un software de gestión nuevo entra a un mercado con proveedores establecidos por cuatro puertas: un escalón de tamaño que los grandes atienden de más, un rubro que nadie cubre bien, un módulo que se conecta al sistema que el cliente ya tiene, o la normativa de un país. Que alguna puerta funcione mejor que otra es lectura de esta base: no hay estudio que lo mida.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Clayton Christensen, Michael Raynor y Rory McDonald (2015), What is disruptive innovation?, HBR diciembre 2015: https://hbr.org/2015/12/what-is-disruptive-innovation (leído en la base para disrupcion.md)"
@@ -10,7 +10,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/mercado-y-economia.md (2026-11-27), sección 6"
 aliases: [entrar al mercado de ERP, entrada al mercado, market entry, por dónde entrar, nicho de entrada, punto de apoyo, foothold, SaaS vertical, vertical SaaS]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Dónde entra un software nuevo

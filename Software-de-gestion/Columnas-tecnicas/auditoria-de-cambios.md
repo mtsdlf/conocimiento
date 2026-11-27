@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La auditoría de cambios es la pista de quién cambió qué dato, cuándo y de qué valor a qué valor, sobre todo en lo que un software de gestión sí deja editar (los datos maestros, la configuración y los permisos), que no deja movimientos. Sirve para reconstruir lo que el sistema creía en una fecha y quién lo cambió.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Audit Log: https://martinfowler.com/eaaDev/AuditLog.html"
@@ -11,7 +11,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md (2026-11-27)"
 aliases: [auditoría, rastro de auditoría, pista de auditoría, audit trail, audit log, registro de cambios, historial de cambios, change log, seguimiento de cambios, track changes, field tracking]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Auditoría de cambios

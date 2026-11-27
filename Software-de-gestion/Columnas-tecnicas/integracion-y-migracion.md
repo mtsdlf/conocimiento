@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Integrar un software de gestión es decidir cómo entra y sale cada dato (hacia la tienda, el banco, el fisco, la planta o el sistema anterior) y, antes que eso, qué sistema manda en cada dato. La carga inicial de maestros y saldos al arrancar es el mismo mecanismo usado una sola vez.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Hohpe y Woolf, Enterprise Integration Patterns, cap. 2 Integration Styles: https://www.enterpriseintegrationpatterns.com/patterns/messaging/IntegrationStylesIntro.html"
@@ -12,7 +12,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md y columnas-tecnicas-complemento.md (2026-11-27)"
 aliases: [integración, integration, interfaces, sistema que manda, sistema de registro, system of record, SOR, fuente de verdad, source of truth, estilos de integración, integration styles, base de integración, integration database, carga inicial, carga de apertura, migración]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Integración y migración

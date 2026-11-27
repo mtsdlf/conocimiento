@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los datos maestros de un software de gestión son las entidades que todos los módulos comparten (la parte, el artículo, la cuenta), cada una con un solo registro que leen los documentos. La parte es una persona u organización que puede tener varios roles a la vez, como cliente, proveedor o empleado, sin duplicarse por rol.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Organization Structures, borrador del segundo volumen de Analysis Patterns (Party, Accountability): https://martinfowler.com/apsupp/accountability.pdf"
@@ -11,7 +11,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md y columnas-tecnicas-complemento.md (2026-11-27)"
 aliases: [datos maestros, maestros, master data, parte, party, parte con roles, party role, libreta de direcciones, address book, maestro frente a transacción]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Datos maestros y partes

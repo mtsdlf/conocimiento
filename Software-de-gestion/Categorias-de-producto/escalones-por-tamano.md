@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los escalones por tamaño son los niveles en que el mercado ordena el software de gestión según la empresa que lo usa: el facturador, el sistema de una pyme, el ERP de una empresa mediana y el de una grande. Ninguna fuente leída los define con criterios; lo que cambia de un escalón a otro es lectura de esta base sobre las etiquetas del mercado.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Computerworld (2010-03-17), sobre el estudio de 2010 de una consultora de implantación de ERP con 1.600 organizaciones (leído): https://www.computerworld.com/article/1516480/widespread-discontent-persists-with-erp-projects.html"
@@ -10,7 +10,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y contraria.md (2026-11-27)"
 aliases: [escalones por tamaño, segmentos por tamaño, tiers de ERP, ERP tier 1, ERP tier 2, ERP tier 3, ERP para pymes, ERP para empresas grandes, facturador, sistema de gestión para pymes, SMB ERP, mid-market ERP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Escalones por tamaño

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La estructura de la organización es qué empresas, sucursales, depósitos y unidades lleva un software de gestión, cómo se ordenan y qué datos comparten entre ellas y cuáles son propios de cada una. Es opcional (el sistema de un comercio chico lleva una sola empresa) y no es lo mismo que multi-tenancy.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Martin Fowler, Organization Structures, borrador del segundo volumen de Analysis Patterns (Organization Hierarchy, Accountability): https://martinfowler.com/apsupp/accountability.pdf"
@@ -10,7 +10,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md (2026-11-27)"
 aliases: [estructura organizativa, organization structure, organization hierarchy, multiempresa, multi-company, varias empresas, entidad legal, legal entity, sucursal, unidad de negocio, business unit, empresa del grupo]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Estructura de la organización

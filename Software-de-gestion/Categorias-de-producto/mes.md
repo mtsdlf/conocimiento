@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El MES (sistema de ejecución de manufactura) es la categoría de software de gestión que supervisa, sigue y sincroniza en la planta los pasos que convierten materiales en producto terminado: despacha las órdenes, registra lo consumido y lo producido y deja la trazabilidad de cada lote. Según ISA-95 vive en el nivel 3, debajo del ERP.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "ISA, página «ISA-95 Standard» (leída): https://www.isa.org/standards-and-publications/isa-standards/isa-95-standard"
@@ -15,7 +15,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y taxonomias-externas-96.md (2026-11-27)"
 aliases: [MES, manufacturing execution system, sistema de ejecución de manufactura, sistema de ejecución de la producción, MOM, manufacturing operations management, gestión de operaciones de manufactura, QMS, quality management system, sistema de gestión de la calidad, software de calidad, MESA]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # MES

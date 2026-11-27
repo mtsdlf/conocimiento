@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El costo total de un software de gestión para quien lo compra es la licencia o la suscripción más todo lo que cuesta ponerlo en marcha y sostenerlo: la implantación, la personalización y su costo en cada actualización, la infraestructura, el soporte y el tiempo del personal propio. Las pocas cifras que hay dicen que el software es la parte menor.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Lorin Hitt, D. J. Wu y Xiaoge Zhou (2002), Investment in Enterprise Resource Planning: Business Impact and Productivity Measures, Journal of Management Information Systems 19(1):71-98, nota al pie 3: https://www.scheller.gatech.edu/directory/research/information-technology-management/wu/pdf/hitt_wu_zhou_jmis_2002.pdf (leído)"
@@ -13,7 +13,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/mercado-y-economia.md (2026-11-27), secciones 1 y 5; Software-de-gestion/.investigacion/contraria.md, secciones 1, 2 y 7"
 aliases: [TCO de un ERP, ERP TCO, costo total de propiedad de un ERP, costo total de un software de gestión, total cost of ownership, costo de implantación, implementation cost, costos ocultos del ERP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Costo total para quien compra

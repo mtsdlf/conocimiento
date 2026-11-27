@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Los mitos del software de gestión son cifras y afirmaciones que circulan sin un estudio que las sostenga: que el 70 % de los ERP fracasan, que el informe CHAOS lo prueba, que un ERP trae las mejores prácticas, que la vainilla siempre conviene, que la nube siempre es más barata y que toda pyme necesita un ERP. Cada uno con su origen, lo que dice la evidencia y lo que no se sabe.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "The Register, ERP carnage continues as orgs jump in unprepared (2025-11-13): https://www.theregister.com/2025/11/13/erp_disaster_gartner/"
@@ -30,7 +30,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/contraria.md, fundamentos-y-categorias.md (sección 2.3) e implementacion.md (sección 9), 2026-11-27"
 aliases: [mitos del ERP, ERP myths, 70 % de los ERP fracasan, ERP failure rate, tasa de fracaso de ERP, mejores prácticas del ERP, vanilla ERP, ERP vainilla, nube más barata, pyme y ERP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Mitos del software de gestión

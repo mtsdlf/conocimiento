@@ -1,7 +1,7 @@
 ---
 resumen: >-
   La migración de datos es la parte de la implementación que pasa al sistema nuevo lo que la empresa necesita para seguir operando: los datos maestros, los saldos de apertura, los documentos abiertos y, si se decide, la historia. Se limpia antes, se ensaya varias veces y se da por buena solo cuando los saldos del sistema nuevo concilian con los del viejo.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Documentación de un ERP de código abierto, Opening balance (leída): https://docs.frappe.io/erpnext/user/manual/en/opening-balance"
@@ -11,7 +11,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/implementacion.md"
 aliases: [migración de datos, data migration, conversión de datos, data conversion, carga inicial, saldos de apertura, opening balances, ensayo de migración, mock migration, datos históricos]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Migración de datos

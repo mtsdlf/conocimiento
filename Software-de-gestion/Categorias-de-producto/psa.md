@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El PSA (automatización de servicios profesionales) es la categoría de software de gestión de las firmas que venden horas de gente por proyecto: lleva el proyecto del cliente, la asignación de personas, el registro de horas y gastos, la facturación del proyecto y su rentabilidad. Se pisa con el ERP para empresas de servicios.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "Wikipedia, «Professional services automation» (leída; cita a Melik y Melik 2002, Wiley, y a Hofferberth 2001, ChannelWeb): https://en.wikipedia.org/wiki/Professional_services_automation"
@@ -11,7 +11,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y taxonomias-externas-96.md (2026-11-27)"
 aliases: [PSA, professional services automation, automatización de servicios profesionales, software de servicios profesionales, software de gestión de proyectos de clientes, ERP de servicios, service-centric ERP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # PSA

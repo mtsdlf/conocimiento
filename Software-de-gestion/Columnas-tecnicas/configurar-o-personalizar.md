@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un software de gestión se adapta a una empresa de tres maneras: configurándolo con datos (tipos, reglas, parámetros), extendiéndolo con código por puntos que el producto prevé, o modificando su código. Cuanto más adentro del producto se toca, más cuesta cada actualización.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Martin Fowler, Organization Structures, borrador del segundo volumen de Analysis Patterns (Knowledge Level): https://martinfowler.com/apsupp/accountability.pdf"
@@ -18,7 +18,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/columnas-tecnicas-97.md, columnas-tecnicas-complemento.md y contraria.md (2026-11-27)"
 aliases: [configurar, configuración, configuration, personalizar, personalización, customization, customisation, tailoring, adaptación, extensión, extensibility, user exit, modificación del código, overlayering, nivel de conocimiento, knowledge level, costo de actualizar, upgrade]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Configurar o personalizar

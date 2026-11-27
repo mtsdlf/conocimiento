@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El CMMS (sistema computarizado de gestión del mantenimiento) y el EAM (gestión de activos de la empresa) son las categorías de software que llevan el registro de los equipos y su mantenimiento. El CMMS se centra en ejecutar el mantenimiento con órdenes de trabajo; el EAM, que nació de él, abarca toda la vida del activo, de la compra a la baja.
-estado: borrador
+estado: vigente
 estabilidad: estable
 fuentes:
   - "TechTarget, definición de enterprise asset management, que cita a Gartner (resumen): https://www.techtarget.com/searcherp/definition/enterprise-asset-management-EAM"
@@ -15,7 +15,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/fundamentos-y-categorias.md y taxonomias-externas-96.md (2026-11-27)"
 aliases: [EAM, enterprise asset management, gestión de activos de la empresa, CMMS, computerized maintenance management system, sistema de gestión de mantenimiento asistido por computadora, GMAO, sistema de mantenimiento, software de mantenimiento]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # EAM y CMMS

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Después de la puesta en marcha viene la estabilización, en la que según el estudio más grande leído el desempeño cae antes de mejorar, y después la operación con soporte, actualizaciones del producto y mejoras. Los beneficios tardan meses o años, y ese estudio no pudo medir si la caída se recupera.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Hitt, Wu y Zhou (2002), Investment in Enterprise Resource Planning: Business Impact and Productivity Measures, JMIS 19(1):71-98 (leído): https://www.scheller.gatech.edu/directory/research/information-technology-management/wu/pdf/hitt_wu_zhou_jmis_2002.pdf"
@@ -16,7 +16,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/contraria.md"
 aliases: [después de la puesta en marcha, post go-live, estabilización, shakedown, bache de desempeño, caída de productividad, soporte, soporte posterior, actualizaciones, upgrades, mejora continua, onward and upward]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Después de la puesta en marcha

@@ -1,7 +1,7 @@
 ---
 resumen: >-
   El canal de partners es la red de empresas independientes (revendedores, integradores, centros de servicio) por la que un proveedor de software de gestión vende e implanta su producto. El partner se queda con un descuento sobre la licencia o una parte de la suscripción, y cobra aparte los servicios.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Computerworld, NetSuite courts old-school VARs with new offer (2010-03-01): https://www.computerworld.com/article/1440455/netsuite-courts-old-school-vars-with-new-offer.html (leído)"
@@ -10,7 +10,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/mercado-y-economia.md (2026-11-27), sección 3"
 aliases: [partner, partners, canal, canal indirecto, channel, reseller, revendedor, VAR, value-added reseller, revendedor de valor agregado, integrador, system integrator, SI, centro de servicio, distribuidor, programa de partners, partner program]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Canal de partners

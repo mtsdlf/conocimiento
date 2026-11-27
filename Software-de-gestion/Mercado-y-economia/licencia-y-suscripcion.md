@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Un software de gestión se cobra de dos formas: una licencia perpetua más un mantenimiento anual, o una suscripción que paga el derecho de uso por período. Dentro de cada forma, el proveedor decide la unidad de cobro: el usuario, el tipo de usuario, el módulo, la empresa o el comprobante.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "CIO.com, SAP raises software maintenance fees for new customers (2008-04-10): https://www.cio.com/article/276860/enterprise-resource-planning-sap-raises-software-maintenance-fees-for-new-customers.html (leído)"
@@ -12,7 +12,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/mercado-y-economia.md (2026-11-27), sección 1"
 aliases: [licencia perpetua, perpetual license, mantenimiento, maintenance fee, soporte, support fee, suscripción, subscription, unidad de cobro, usuario nombrado, named user, usuario concurrente, concurrent user, usuario liviano, light user, licenciamiento de ERP, ERP licensing]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Licencia y suscripción

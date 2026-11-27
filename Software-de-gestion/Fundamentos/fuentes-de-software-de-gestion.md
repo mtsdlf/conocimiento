@@ -1,7 +1,7 @@
 ---
 resumen: >-
   Qué leer sobre software de gestión, vertical por vertical: qué obra, qué parte, en qué fijarse y si esta base la leyó. La mayoría de las fuentes canónicas están detrás de un muro, y la tabla lo dice en cada fila.
-estado: borrador
+estado: vigente
 estabilidad: semi
 fuentes:
   - "Klaus, Rosemann y Gable (2000), What is ERP?, Information Systems Frontiers 2(2): 141-162: https://doi.org/10.1023/A:1026543906354"
@@ -33,7 +33,7 @@ fuentes:
   - "Software-de-gestion/.investigacion/ (los seis informes del 2026-11-27)"
 aliases: [bibliografía de software de gestión, bibliografía de ERP, ERP reading list, qué leer sobre ERP, fuentes de ERP]
 creado: 2026-11-27
-revisado:
+revisado: 2026-11-27
 ---
 
 # Fuentes de software de gestión
