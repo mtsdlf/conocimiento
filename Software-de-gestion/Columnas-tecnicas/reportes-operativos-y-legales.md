@@ -18,7 +18,7 @@ revisado: 2026-11-27
 
 Los reportes operativos y legales son lo que un software de gestión saca de su propia base y tiene que entregar: los listados del día (qué despachar, quién debe, qué vence) y los libros y registros que pide la ley, con corte a una fecha. Lo que junta varias fuentes o mucha historia para decidir es inteligencia de negocio y vive en Datos.
 
-Es una columna angosta a propósito. Los tableros, el almacén de datos y la capa semántica son de [Visualización y BI](../../Datos/Visualizacion-y-BI/visualizacion-y-bi.md), que va a sumar una parte sobre BI sobre el software de gestión. Acá queda lo que el sistema no puede dejar de producir por sí mismo.
+Es una columna angosta a propósito. Los tableros, el almacén de datos y la capa semántica son de [Visualización y BI](../../Datos/Visualizacion-y-BI/visualizacion-y-bi.md), que tiene una parte sobre [BI sobre el software de gestión](../../Datos/Visualizacion-y-BI/BI-sobre-software-de-gestion/bi-sobre-software-de-gestion.md). Acá queda lo que el sistema no puede dejar de producir por sí mismo.
 
 ## Los dos tipos de salida
 

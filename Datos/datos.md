@@ -109,6 +109,7 @@ no aguanta (lectura de la base).
 - Si tenés que elegir entre la base de la aplicación, un data warehouse o un data lake: [OLTP y OLAP](Modelado-y-almacenamiento/oltp-y-olap.md) y [almacenes analíticos](Modelado-y-almacenamiento/almacenes-analiticos.md); antes, [cuánta infraestructura necesita un negocio chico](#cuánta-infraestructura-necesita-un-negocio-chico).
 - Si tenés que decidir qué eventos registrar en una tienda o una app: [tabla de eventos](Modelado-y-almacenamiento/tabla-de-eventos.md).
 - Si tenés que decidir qué datos personales de clientes guardar o mandar a una herramienta del exterior: [privacidad de datos personales](Gobierno-y-calidad/privacidad-de-datos-personales.md), que no reemplaza a un abogado.
+- Si tenés que armar tableros sobre un sistema de gestión: [BI sobre el software de gestión](Visualizacion-y-BI/BI-sobre-software-de-gestion/bi-sobre-software-de-gestion.md), y para cuadrarlos con el balance, [conciliar el BI](Visualizacion-y-BI/BI-sobre-software-de-gestion/conciliar-el-bi.md).
 - Si los números de dos reportes no coinciden: [calidad de datos](Gobierno-y-calidad/calidad-de-datos.md), [metadatos y linaje](Gobierno-y-calidad/metadatos-y-linaje.md) y [definición de métrica](Analitica-de-producto/definicion-de-metrica.md).
 - Si estás eligiendo qué rol de datos aprender: [roles de datos](Fundamentos/roles-de-datos.md) y [ruta de Data Analytics](Fundamentos/ruta-de-data-analytics.md).
 
