@@ -12,7 +12,8 @@ fuera:
   - el recorrido de cierre entre áreas, que es del tema Procesos de negocio (todavía no armado), en «del registro al balance»
   - cómo lo resuelve un software (la alícuota como dato con vigencia, el motor de impuestos, la conexión con el fisco), que va al tema Software de gestión; la factura electrónica de ARCA como implementación ya está en Comercio-electronico/Normativa
   - la planificación fiscal agresiva, la fiscalidad internacional de grupos (precios de transferencia, BEPS) y el derecho tributario procesal como profesión
-  - los impuestos de las personas que no son una empresa (Bienes Personales, Ganancias de un empleado), salvo como mención
+  - Bienes Personales y la retención de Ganancias al empleado (esta va en Administración de personal y nómina); el impuesto a la renta de personas sí entra desde la ampliación de #172, para quien factura a su nombre o tiene rentas
+  - la inscripción en ARCA, los aportes de autónomo y el SIPA al arrancar, que son de Emprender
 fuentes: []
 preguntas:
   - "Estoy diseñando la factura de un sistema: ¿qué impuestos lleva cada renglón, de qué depende la alícuota y qué pasa con un descuento o una nota de crédito?"
@@ -21,6 +22,8 @@ preguntas:
   - "¿Qué tiene que hacer una empresa todos los meses para estar al día con el fisco, y qué pasa si se atrasa?"
   - "Tengo un monotributo y facturé más: ¿cuándo tengo que recategorizarme y qué pasa si me paso del tope?"
   - "Vendo a clientes de varias provincias: ¿cómo se reparte Ingresos Brutos y qué son SIRCREB y SIRTAC?"
+  - "Soy profesional, facturo a mi nombre en el régimen general: ¿en qué categoría de Ganancias estoy, qué puedo deducir, qué escala pago y cuándo declaro y adelanto?"
+  - "Me llegó una factura A con la leyenda «OPERACIÓN SUJETA A RETENCIÓN»: ¿cuánto retengo, cuándo, cómo lo deposito y qué pasa si no lo hago? ¿Y si ARCA me marcó a mí?"
 aprobado: 2026-11-27
 ---
 
@@ -53,12 +56,15 @@ Impuestos/
   Impuestos-a-la-renta/           los que gravan la ganancia
     impuestos-a-la-renta            entrada: sociedades y personas, residencia y renta de fuente, anticipos
     resultado-impositivo            del resultado contable al impositivo: ajustes, diferencias permanentes y temporarias, quebrantos
+    impuesto-a-la-renta-de-personas el de cada individuo: global, cedular o mixto, unidad, mínimo, deducciones, escala, quién declara (#172)
     ganancias-en-argentina          Ganancias de sociedades: alícuotas, anticipos, ajuste por inflación impositivo
+    ganancias-de-personas-humanas-en-argentina  categorías, cedular, art. 30, escala del art. 94, declaración, simplificada y anticipos (#172)
   Recaudacion-en-la-fuente/       cuando un tercero cobra el impuesto por adelantado
     recaudacion-en-la-fuente        entrada: retención y percepción, por qué existen
     agente-de-recaudacion           lo que hace quien retiene o percibe: padrones, cálculo, certificado, depósito
     pagos-a-cuenta                  lo que hace quien sufre la retención: computarla, acumular saldo a favor, pedir la exclusión
     retenciones-y-percepciones-en-argentina  regímenes de IVA, Ganancias e Ingresos Brutos, SIRCREB, SIRTAC y certificados
+    factura-a-con-leyenda-en-argentina       la retención de la A con «OPERACIÓN SUJETA A RETENCIÓN» (RG 5762, con las RG 830 y 2226) (#172)
   Cumplimiento/                   lo que la empresa hace cada período para estar al día
     cumplimiento                    entrada: el ciclo de facturar, registrar, liquidar, declarar y pagar
     comprobante-fiscal              qué lleva una factura, numeración, nota de crédito y los modelos de factura electrónica
@@ -96,5 +102,6 @@ Regla del mapa (#98): cada dominio es dueño de un objeto y un verbo; un saber v
 - **Ingresos Brutos va en Impuestos al consumo**, porque grava lo facturado sin crédito por lo comprado, que es la definición de impuesto en cascada (Keen, FMI WP/13/57); que sea un impuesto en cascada es lectura de la base, sin un informe de organismo que lo diga de Ingresos Brutos en particular.
 - **El régimen simplificado va en Obligación tributaria** y no en Impuestos a la renta: reemplaza a varios impuestos a la vez (en Argentina, IVA, Ganancias y aportes), así que es una forma de la obligación y no un impuesto más.
 - **Comercio exterior** tiene una sola nota, la de Argentina; lo agnóstico (cómo tributa una importación o una exportación) va en `lugar-de-la-operacion`, y la aduana como trámite, a Cadena de suministro.
-- **Lo de Argentina, en siete notas**: el mapa (`impuestos-en-argentina`), `comercio-exterior-en-argentina`, `monotributo-en-marcha`, `iva-en-argentina`, `ingresos-brutos`, `ganancias-en-argentina` y `retenciones-y-percepciones-en-argentina`. Son dinero y ley: no reemplazan a un contador.
+- **Lo de Argentina, en nueve notas**: el mapa (`impuestos-en-argentina`), `comercio-exterior-en-argentina`, `monotributo-en-marcha`, `iva-en-argentina`, `ingresos-brutos`, `ganancias-en-argentina`, `ganancias-de-personas-humanas-en-argentina`, `retenciones-y-percepciones-en-argentina` y `factura-a-con-leyenda-en-argentina`. Son dinero y ley: no reemplazan a un contador.
 - **Pendientes para otra sesión**: cuando existan Tesorería, Administración de personal y nómina, Cadena de suministro y Procesos de negocio, sus enlaces se suman a las notas de acá (hoy quedan como texto plano); `Emprender/Legal-e-impuestos` pasa a enlazar `monotributo-en-marcha` e `ingresos-brutos` en la sesión 16 (#101), y `Contabilidad/contabilidad.md` puede enlazar este tema en lugar de decir «todavía no escrito».
+- **Ampliación de #172 (para revisar en su PR)**: el impuesto a la renta de personas entra como componente de Impuestos a la renta, con su nota argentina, porque la persona que factura en el régimen general es contribuyente del tema y no un empleado. La retención sobre la factura A con leyenda va en Recaudación en la fuente, y su idea general (retener por la calificación del emisor) como sección de la entrada de esa vertical, comparada con la inversión del sujeto pasivo y el pago fraccionado de la UE. La inscripción, los autónomos y el SIPA quedan en Emprender.

@@ -9,7 +9,11 @@ fuentes:
   - "IRS, Publication 5869, Tax Gap Projections for Tax Year 2022 (análisis de visibilidad TY 2014-2016): https://www.irs.gov/pub/irs-pdf/p5869.pdf"
   - "Kleven, Knudsen, Kreiner, Pedersen y Saez, «Unwilling or Unable to Cheat? Evidence from a Tax Audit Experiment in Denmark», NBER WP 15769 (2010), texto completo leído el 2026-11-27: https://www.nber.org/system/files/working_papers/w15769/w15769.pdf"
   - "Impuestos/.investigacion/recaudacion-en-la-fuente.md (2026-11-27)"
-aliases: [recaudación en la fuente, retención en la fuente, retenciones y percepciones, withholding, withholding tax, tax withholding, collection at source, regímenes de recaudación, PAYE]
+  - "Directiva 2006/112/CE del IVA, texto consolidado al 01/01/2024, arts. 199, 199 bis, 199 ter y 395, Oficina de Publicaciones de la UE: http://publications.europa.eu/resource/celex/02006L0112-20240101"
+  - "Decisión de Ejecución (UE) 2019/310 del Consejo (Polonia, pago fraccionado): http://publications.europa.eu/resource/celex/32019D0310"
+  - "Decisión de Ejecución (UE) 2025/373 del Consejo (prórroga a Polonia): http://publications.europa.eu/resource/celex/32025D0373"
+  - "Impuestos/.investigacion/factura-a-con-leyenda.md (2026-11-27)"
+aliases: [recaudación en la fuente, retención en la fuente, retenciones y percepciones, withholding, withholding tax, tax withholding, collection at source, regímenes de recaudación, PAYE, retención por riesgo del emisor, comprobante con leyenda, split payment, pago fraccionado, reverse charge doméstico]
 creado: 2026-11-27
 revisado: 2026-11-27
 ---
@@ -71,6 +75,27 @@ Una empresa carga con la recaudación en la fuente por los dos lados.
 
 Un documento de trabajo del FMI sobre devoluciones de IVA dice que en varios países, «particularly in Latin America and West Africa», empresas y organismos públicos tienen que retener IVA de los pagos a sus proveedores, y que estos esquemas tienen desventajas: «refund claims can proliferate under these arrangements, especially if withholding rates are set too high». Que con inflación ese saldo además pierda valor mientras espera es inferencia de esta base.
 
+## Cuando el comprobante avisa que hay que retener
+
+Algunos fiscos no designan al agente por quién es, sino por a quién le compra. El fisco califica a un vendedor como de riesgo (por facturar más de lo que su capacidad explica, por incumplir o por no acreditar bienes) y lo obliga a marcarlo en la factura. Quien recibe ese comprobante tiene que retener, al pagar, parte o todo el impuesto que el vendedor facturó, aunque nunca lo hayan designado agente. La definición es de esta base, armada sobre las normas que siguen.
+
+La idea es que el impuesto no pase por las manos de quien puede desaparecer antes de declararlo. Del IVA facturado por un vendedor así, el fisco cobra lo que retiene el comprador, que es una empresa inscripta, en lugar de esperar la declaración del vendedor. El vendedor no deja de ser el contribuyente: lo retenido se le computa a cuenta.
+
+Otros fiscos persiguen el mismo riesgo con otras herramientas:
+
+| Herramienta | Qué hace el comprador | Qué activa la regla | Ejemplo |
+|---|---|---|---|
+| Retención por calificación del emisor | retiene el impuesto al pagar y lo deposita a nombre del vendedor | la marca que el fisco le puso a ese vendedor, visible en la factura o en un padrón | Argentina, [factura A con leyenda](factura-a-con-leyenda-en-argentina.md) |
+| Inversión del sujeto pasivo (*reverse charge*) doméstica | pasa a ser el deudor del IVA de la compra | el sector de la operación, para todos los vendedores | Directiva 2006/112/CE de la UE, arts. 199 y 199 bis |
+| Mecanismo de reacción rápida | lo mismo, por un tiempo corto | un fraude «repentino y masivo» en un sector | Directiva 2006/112/CE, art. 199 ter, hasta «nueve meses» |
+| Pago fraccionado (*split payment*) | paga el IVA a una cuenta separada del vendedor, de uso restringido | el sector (acero, chatarra, electrónica, oro, combustibles, entre otros) | Polonia, Decisión de Ejecución (UE) 2019/310 |
+
+En la UE el art. 199 bis deja aplicar la inversión a teléfonos móviles, circuitos integrados, consolas, cereales, metales, gas, electricidad y derechos de emisión, entre otros, «Hasta el 31 de diciembre de 2026» (texto consolidado al 1 de enero de 2024; no se verificó si se prorrogó). Polonia justificó su pago fraccionado diciendo que así «it is better guaranteed that the tax authorities will receive the whole VAT amount» (Decisión 2019/310), y la Decisión 2025/373 lo prorrogó hasta el 29 de febrero de 2028.
+
+La diferencia que importa para un sistema: la inversión y el pago fraccionado miran el sector, y la retención por calificación mira al vendedor concreto, que puede cambiar de condición de un período a otro (lectura de esta base sobre las normas citadas). Por eso esa condición se consulta antes de cada pago, como dice [agente de recaudación](agente-de-recaudacion.md).
+
+El costo cae sobre el vendedor marcado, que adelanta casi todo su IVA y acumula saldo a favor, y sobre el comprador, que calcula, retiene, deposita e informa, y responde si no lo hace. El documento del FMI citado en la sección anterior lo dice de las retenciones de IVA en general: «refund claims can proliferate». No se encontró una medición de cuánto fraude evita este tipo de retención.
+
 ## Retención sobre sueldos
 
 El caso más extendido es la retención del impuesto a la renta sobre sueldos. El empleador es agente: calcula el impuesto de cada empleado según lo que gana, se lo descuenta del recibo y lo deposita. El manual del FMI lo llama PAYE.
@@ -82,3 +107,4 @@ Acá entra solo el empleador como agente. El cálculo de la retención en el rec
 - [Agente de recaudación](agente-de-recaudacion.md) — lo que hace la empresa designada para retener o percibir: designación, consulta de la contraparte, cálculo, certificado, depósito y su responsabilidad si falla.
 - [Pagos a cuenta](pagos-a-cuenta.md) — lo que hace quien sufre la retención o la percepción: guardar el certificado, computarlo, el saldo a favor, la devolución y la exclusión.
 - [Retenciones y percepciones en Argentina](retenciones-y-percepciones-en-argentina.md) — los regímenes de IVA, Ganancias e Ingresos Brutos, SICORE y SIRE, SIRCREB, SIRTAC y los certificados de exclusión, con su norma.
+- [Factura A con leyenda en Argentina](factura-a-con-leyenda-en-argentina.md) — la retención del 100 % del IVA y el 6 % de Ganancias que practica quien recibe la factura de un emisor marcado por ARCA (RG 5762, que reemplazó a la factura M).

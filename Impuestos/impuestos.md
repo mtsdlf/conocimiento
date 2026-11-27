@@ -37,7 +37,7 @@ flowchart LR
 
 - [Obligación tributaria](Obligacion-tributaria/obligacion-tributaria.md): el hecho que hace nacer un impuesto, la base, la alícuota y el período; quién es contribuyente, quién responsable y quién agente; qué fisco cobra; y el régimen simplificado para pequeños contribuyentes. Se lee primero: las demás suponen este vocabulario.
 - [Impuestos al consumo](Impuestos-al-consumo/impuestos-al-consumo.md): el IVA, el impuesto a la venta final, los impuestos en cascada y dónde se considera hecha una operación; define qué lleva cada renglón de una factura.
-- [Impuestos a la renta](Impuestos-a-la-renta/impuestos-a-la-renta.md): el impuesto sobre la ganancia y el paso del resultado contable al impositivo, con el cierre del ejercicio y los anticipos.
+- [Impuestos a la renta](Impuestos-a-la-renta/impuestos-a-la-renta.md): el impuesto sobre la ganancia, de sociedades y de personas, y el paso del resultado contable al impositivo, con el cierre del ejercicio y los anticipos.
 - [Recaudación en la fuente](Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md): retenciones y percepciones, vistas desde quien las practica y desde quien las sufre.
 - [Cumplimiento](Cumplimiento/cumplimiento.md): el comprobante fiscal, los registros, la declaración y el pago, y lo que pasa cuando el fisco controla. Define qué hace falta cada mes y qué tiene que emitir un sistema.
 
@@ -68,6 +68,8 @@ Cada dominio es dueño de un objeto y un verbo, y los demás lo enlazan. La tabl
 - Si armás el calendario fiscal de una empresa o querés saber qué se presenta cada mes: [cumplimiento](Cumplimiento/cumplimiento.md), [declaración y pago](Cumplimiento/declaracion-y-pago.md) e [impuestos en Argentina](impuestos-en-argentina.md).
 - Si preparás información para una inspección o respondés un requerimiento: [registros fiscales](Cumplimiento/registros-fiscales.md) y [fiscalización y sanciones](Cumplimiento/fiscalizacion-y-sanciones.md).
 - Si calculás el impuesto a la renta del ejercicio o sus anticipos: [resultado impositivo](Impuestos-a-la-renta/resultado-impositivo.md) y [Ganancias en Argentina](Impuestos-a-la-renta/ganancias-en-argentina.md).
+- Si facturás a tu nombre en el régimen general o tenés rentas como persona: [impuesto a la renta de personas](Impuestos-a-la-renta/impuesto-a-la-renta-de-personas.md) y [Ganancias de personas humanas en Argentina](Impuestos-a-la-renta/ganancias-de-personas-humanas-en-argentina.md); cómo se arranca (inscripción, monotributo o régimen general) está en [Legal e impuestos](../Emprender/Legal-e-impuestos/legal-e-impuestos.md) de Emprender.
+- Si te llega una factura A con la leyenda «OPERACIÓN SUJETA A RETENCIÓN», o ARCA te marcó para emitirla: [factura A con leyenda en Argentina](Recaudacion-en-la-fuente/factura-a-con-leyenda-en-argentina.md).
 - Si estás en el monotributo y cambió tu facturación: [régimen simplificado](Obligacion-tributaria/regimen-simplificado.md) y [monotributo en marcha](Obligacion-tributaria/monotributo-en-marcha.md).
 - Si vendés a clientes de varias provincias: [Ingresos Brutos](Impuestos-al-consumo/ingresos-brutos.md).
 - Si importás, exportás o vendés servicios al exterior: [lugar de la operación](Impuestos-al-consumo/lugar-de-la-operacion.md) y [comercio exterior en Argentina](comercio-exterior-en-argentina.md); para una persona que cobra servicios del exterior, [cobrar servicios del exterior](../Emprender/Legal-e-impuestos/cobrar-servicios-del-exterior.md).
