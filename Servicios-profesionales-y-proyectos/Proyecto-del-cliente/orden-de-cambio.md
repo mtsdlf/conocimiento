@@ -23,11 +23,11 @@ Cómo se decide un cambio (quién lo aprueba, si se cotiza, se intercambia por a
 
 La definición más precisa que se leyó es la de la NIIF 15, párrafo 18: «A contract modification is a change in the scope or price (or both) of a contract that is approved by the parties». Tiene tres partes, y cada una es un dato del registro:
 
-- **Qué cambia**: el alcance, el precio o los dos. Una rebaja sin cambio de trabajo también es una orden de cambio.
+- **Qué cambia**: el alcance, el precio o los dos. Lectura de esta base, a partir de «scope or price (or both)»: una rebaja sin cambio de trabajo también es una orden de cambio.
 - **Quién aprueba**: las dos partes. Un pedido del cliente que la firma todavía no aceptó, o un cambio que la firma propone y el cliente no firmó, no es una orden de cambio todavía.
 - **Sobre qué contrato**: la orden apunta al contrato o al pedido de origen, no flota suelta.
 
-El párrafo 19 agrega un caso que el registro tiene que admitir: puede haber modificación aunque las partes discutan el alcance o el precio. Si el precio no está resuelto, la firma lo estima con las reglas de la contraprestación variable, y el párrafo 56 solo deja contar como ingreso lo que sea muy probable que no haya que revertir. Para el registro eso quiere decir, en lectura de esta base, que una orden puede estar aprobada en alcance y abierta en precio, y que mientras tanto el ingreso que genera se calcula con cautela.
+El párrafo 19 agrega un caso que el registro tiene que admitir: puede haber modificación aunque las partes discutan el alcance o el precio. Si el precio no está resuelto, la firma lo estima con las reglas de la contraprestación variable (la parte del precio que depende de algo que todavía no se sabe, que la NIIF 15 manda estimar), y el párrafo 56 solo deja contar como ingreso lo que sea muy probable que no haya que revertir. Para el registro eso quiere decir, en lectura de esta base, que una orden puede estar aprobada en alcance y abierta en precio, y que mientras tanto el ingreso que genera se calcula con cautela.
 
 Dinero y norma: todo lo de este apartado sale de una sola fuente, la NIIF 15 de la IFRS Foundation. No se leyó el tratamiento del US GAAP ni una segunda fuente independiente.
 

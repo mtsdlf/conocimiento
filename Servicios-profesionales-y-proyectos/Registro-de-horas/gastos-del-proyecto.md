@@ -33,9 +33,9 @@ APQC solo tiene los reembolsos a empleados, en finanzas (9.6.2.3 «Approve reimb
 
 ## Qué gasto se traslada al cliente
 
-Un gasto entra a la factura solo si el contrato lo prevé. En un sistema de gestión de servicios, cada línea del contrato dice qué clases de transacción incluye (tiempo, gasto, material, honorario), y los gastos solo se facturan si la línea los incluye y si están marcados como cobrables.
+En ese sistema, un gasto entra a la factura solo si el contrato lo prevé. En un sistema de gestión de servicios, cada línea del contrato dice qué clases de transacción incluye (tiempo, gasto, material, honorario), y los gastos solo se facturan si la línea los incluye y si están marcados como cobrables.
 
-Para decidir si un gasto se puede trasladar, el caso más exigente documentado es el de los contratos públicos de los Estados Unidos. Según el resumen de la FAR 31.201-2, un costo es admisible solo si es razonable, imputable a ese contrato, conforme a los términos del contrato y a los límites de la norma, y el contratista tiene que guardar respaldo «adequate to demonstrate that costs claimed have been incurred»; si no, el funcionario puede rechazarlo. Es una norma de un tipo de contrato, no una regla para firmas privadas, pero sirve de lista de preguntas: ¿es razonable?, ¿es de este proyecto?, ¿lo permite el contrato?, ¿hay comprobante?
+Para decidir si un gasto se puede trasladar, el caso más exigente documentado es el de los contratos públicos de los Estados Unidos. Según el resumen de la FAR 31.201-2, un costo es admisible solo si es razonable, imputable a ese contrato, conforme a los términos del contrato, a los límites de la norma y a los estándares de costos aplicables (CAS) o, si no hay, a los principios contables generalmente aceptados, y el contratista tiene que guardar respaldo «adequate to demonstrate that costs claimed have been incurred»; si no, el funcionario puede rechazarlo. Es una norma de un tipo de contrato, no una regla para firmas privadas, pero sirve de lista de preguntas: ¿es razonable?, ¿es de este proyecto?, ¿lo permite el contrato?, ¿hay comprobante?
 
 ## A costo, con recargo o por tarifa
 
@@ -49,7 +49,7 @@ Un sistema documenta tres formas de poner el precio de venta de una categoría d
 
 En ese sistema, en la estimación los métodos a costo y con recargo dan cero por defecto, porque solo se aplican al gasto real; y si falta la línea de precio de una categoría, el precio de venta es cero.
 
-El contrato público estadounidense va al otro extremo con los materiales: según el resumen de la FAR 52.232-7, «the Government will not pay profit or fee to the prime Contractor on materials», salvo las excepciones de la FAR 31.205-26. Y según el resumen de esa sección, al costo de los materiales se le restan los descuentos, reintegros y bonificaciones que la firma obtuvo: se traslada el costo neto.
+El contrato público estadounidense va al otro extremo con los materiales: según el resumen de la FAR 52.232-7 (una sola fuente, leída por resumen), «the Government will not pay profit or fee to the prime Contractor on materials», salvo las excepciones de la FAR 31.205-26. Y según el resumen de esa sección, al costo de los materiales se le restan los descuentos, reintegros y bonificaciones que la firma obtuvo: se traslada el costo neto.
 
 > [!IMPORTANT]
 > Es plata y hay una sola fuente de cada lado: el recargo está documentado por un sistema de gestión y la prohibición del recargo por una norma de contratos públicos de los Estados Unidos. No se leyó ninguna fuente sobre cuánto recargan las firmas privadas ni sobre las reglas de los colegios profesionales; la opinión formal de la asociación de abogados estadounidense sobre cargos de gastos al cliente no se pudo abrir. Lo que se cobra lo fija el contrato con cada cliente.

@@ -26,7 +26,7 @@ APQC desglosa la demanda en ocho pasos (5.2.1), y leídos en orden forman un cic
 1. «Monitor pipeline»: mirar el embudo de ventas.
 2. «Develop baseline forecasts»: un pronóstico de base.
 3. «Collaborate with customers»: confirmarlo con los clientes.
-4. «Develop consensus forecast»: acordar un número entre ventas, entrega y dirección.
+4. «Develop consensus forecast»: acordar un número de consenso.
 5. «Determine availability of skills to deliver on current and forecast customer orders»: cruzar con las habilidades disponibles.
 6. «Monitor activity against forecast and revise forecast»: comparar con lo que pasó y corregir.
 7. «Evaluate and revise forecasting approach»: revisar el método.
@@ -50,13 +50,13 @@ Un pronóstico así es un número con mucha incertidumbre. Cómo se expresa como
 
 ## La capacidad de cada persona
 
-La capacidad es lo que cada persona puede trabajar en proyectos por semana: su jornada menos las ausencias conocidas y menos el tiempo que la firma reserva para otras cosas (vender, administrar, formarse). El plan de recursos de APQC la cruza con la demanda en 5.2.2.3 «Match resource demand with capacity, skills, and capabilities» y la vigila en 5.2.2.6 «Monitor and manage resource capacity and availability».
+La capacidad es lo que cada persona puede trabajar en proyectos por semana. Como criterio de esta base, se calcula como su jornada menos las ausencias conocidas y menos el tiempo que la firma reserva para otras cosas (vender, administrar, formarse). El plan de recursos de APQC la cruza con la demanda en 5.2.2.3 «Match resource demand with capacity, skills, and capabilities» y la vigila en 5.2.2.6 «Monitor and manage resource capacity and availability».
 
 Llenarla al 100 % es un error que la base ya explica dos veces: alarga los plazos y deja sin margen para lo que llega sin aviso. Qué parte de la capacidad se espera que se facture es la [utilización](../Rentabilidad-de-la-firma/utilizacion.md) objetivo, que se mide del otro lado, con las horas cargadas.
 
 ## Cuando no cierra: banco, contratar o subcontratar
 
-Si sobra gente, la firma tiene personas sin proyecto, lo que en inglés se llama el banco (*bench*). APQC no usa el término; 5.2.2.6 lo cubre sin nombrarlo. Si falta, hay tres salidas: contratar, que es de [contratar](../../Liderazgo-y-direccion/Gestion-de-personas/contratar.md); subcontratar a otra firma o a un independiente, que APQC prevé en 5.2.2.4 «Collaborate with suppliers and partners to supplement skills and capabilities»; o mover la fecha de un proyecto, que es una decisión de [portafolio](../../Gestion-de-proyectos/Gobierno-y-cierre/portafolio.md). APQC también pide identificar los recursos críticos y la capacidad de los proveedores (5.2.2.5).
+Si sobra gente, la firma tiene personas sin proyecto, lo que en inglés se llama el banco (*bench*). APQC no usa el término; 5.2.2.6 lo cubre sin nombrarlo. Si falta, hay tres salidas: contratar, que es de [contratar](../../Liderazgo-y-direccion/Gestion-de-personas/contratar.md); subcontratar a otra firma o a un independiente, que APQC prevé en 5.2.2.4 «Collaborate with suppliers and partners to supplement skills and capabilities»; o, como criterio de esta base, mover la fecha de un proyecto, que es una decisión de [portafolio](../../Gestion-de-proyectos/Gobierno-y-cierre/portafolio.md). APQC también pide identificar los recursos críticos y la capacidad de los proveedores (5.2.2.5).
 
 > [!NOTE]
 > Sin fuente todavía: cuándo conviene contratar y cuándo subcontratar, cuánto banco es sano, qué se hace con las personas sin proyecto, y con cuánta anticipación se mira la demanda. Los libros de práctica de firmas de servicios (Maister, Løwendahl) no se leyeron para esta nota.

@@ -34,7 +34,9 @@ Un hito puede no facturar nada (la aprobación de un borrador interno) y una fac
 
 ## Por qué el hito tiene que ser observable
 
-La NIIF 15 reconoce dos familias de métodos para medir cuánto se avanzó en una obligación que se cumple a lo largo del tiempo (B14): los de producto, que miden lo que el cliente recibió, y los de insumo, que miden lo que la firma puso. Según B15, los métodos de producto «recognise revenue on the basis of direct measurements of the value to the customer»; la lista del párrafo incluye las evaluaciones de resultados logrados y los hitos alcanzados. B17 dice su punto débil: «the outputs used to measure progress may not be directly observable».
+La NIIF 15 reconoce dos familias de métodos para medir cuánto se avanzó en una obligación que se cumple a lo largo del tiempo (B14): los de producto, que miden lo que el cliente recibió, y los de insumo, que miden lo que la firma puso. Según B15, los métodos de producto miden directamente el valor para el cliente, y entre sus ejemplos trae «surveys of performance completed to date» y «appraisals of results achieved». B17 dice su punto débil: «the outputs used to measure progress may not be directly observable».
+
+> [!NOTE] Sin fuente todavía: el texto completo del párrafo B15 de la NIIF 15 (el extracto leído está cortado), donde se espera que figuren los hitos alcanzados.
 
 De ahí sale una regla de registro, que es lectura de esta base: un hito que sirve para facturar o para medir el avance tiene que ser un hecho que alguien pueda verificar (un acta firmada, un correo de aceptación, una puesta en marcha con fecha), no una estimación de porcentaje. «Diseño al 60 %» no es un hito; «diseño aprobado por el cliente» sí.
 
@@ -57,7 +59,7 @@ Lectura de esta base sobre los dos diseños: separar «alcanzado» de «facturad
 
 En el sistema leído, un contrato a precio cerrado puede facturarse de dos formas: por hitos completos, que es el valor por defecto, o por avance, facturando un porcentaje del hito. Los hitos periódicos se generan dividiendo el monto por la cantidad de períodos, y la suma de los hitos tiene que dar el valor del contrato: si no da, el sistema marca error. La regla vale sin software: si el calendario de cobro no suma el precio, alguien va a facturar de más o de menos al final.
 
-Cómo se arma ese calendario, con anticipos y retenciones, está en [facturación por hito](../Facturacion-del-proyecto/facturacion-por-hito.md). Qué hitos de cobro usan las agencias (adelanto, diseño aprobado, entrega en prueba, lanzamiento) está en [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md#formas-de-repartir-el-riesgo).
+Cómo se arma ese calendario, con anticipos y retenciones de garantía, está en [facturación por hito](../Facturacion-del-proyecto/facturacion-por-hito.md). Qué hitos de cobro usan las agencias (adelanto, diseño aprobado, entrega en prueba, lanzamiento) está en [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md#formas-de-repartir-el-riesgo).
 
 ## Cómo falla
 

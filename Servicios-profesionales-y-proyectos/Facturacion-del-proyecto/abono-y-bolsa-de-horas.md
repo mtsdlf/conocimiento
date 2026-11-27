@@ -47,7 +47,7 @@ Las horas que vencen sin usarse son el punto delicado. Si el contrato dice que v
 
 > [!NOTE] Sin fuente todavía: cómo se reconoce el ingreso de las horas que vencen sin usarse, y si en la Argentina una cláusula de vencimiento de horas prepagas es válida frente a un consumidor.
 
-Los practicantes que escriben sobre abonos desaconsejan venderlos como horas incluidas, porque atan al cliente a la tarifa y le ponen techo al ingreso; está en [abono de cuidado](../../Emprender/Modelo-de-negocio/abono-de-cuidado.md#cómo-se-cobra). Es una discusión de modelo de negocio; el registro tiene que poder llevar las dos formas.
+Un practicante (Dunn, citado en [abono de cuidado](../../Emprender/Modelo-de-negocio/abono-de-cuidado.md#cómo-se-cobra)) desaconseja venderlos como horas incluidas, porque ata al cliente a la tarifa y le pone techo al ingreso. Es una discusión de modelo de negocio; el registro tiene que poder llevar las dos formas.
 
 ## El anticipo periódico que se concilia
 
@@ -62,4 +62,4 @@ El monto del anticipo no está disponible hasta que se factura, y el sistema lle
 
 ## Cómo se factura y cómo falla
 
-La factura del abono y la de la bolsa salen antes del trabajo, como un [pedido recurrente](../../Relacion-con-clientes/Pedido-de-venta/tipos-de-pedido.md#el-pedido-recurrente) en el caso del abono. Lectura de esta base sobre lo anterior: el registro falla cuando no se sabe cuál de los tres arreglos se vendió. Un abono tratado como bolsa le debe horas al cliente que nadie le prometió; una bolsa tratada como abono reconoce como ingreso un saldo que todavía se debe. La diferencia entre lo cobrado y lo ganado, en los tres casos, se ve en [trabajo en curso](trabajo-en-curso.md).
+La factura del abono y la de la bolsa salen antes del trabajo (en la Argentina, cobrar por adelantado obliga a facturar: [servicios profesionales en la Argentina](../servicios-profesionales-en-argentina.md#cuándo-nace-la-obligación-de-facturar)), como un [pedido recurrente](../../Relacion-con-clientes/Pedido-de-venta/tipos-de-pedido.md#el-pedido-recurrente) en el caso del abono. Lectura de esta base sobre lo anterior: el registro falla cuando no se sabe cuál de los tres arreglos se vendió. Un abono tratado como bolsa le debe horas al cliente que nadie le prometió; una bolsa tratada como abono reconoce como ingreso un saldo que todavía se debe. La diferencia entre lo cobrado y lo ganado, en los tres casos, se ve en [trabajo en curso](trabajo-en-curso.md).

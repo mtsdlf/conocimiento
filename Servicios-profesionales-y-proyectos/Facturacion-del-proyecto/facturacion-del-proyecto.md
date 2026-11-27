@@ -27,7 +27,7 @@ APQC no pone la facturación de un servicio dentro de la entrega (5.0) sino en f
 
 ## Qué dispara la factura en cada modelo
 
-El modelo de cobro decide qué registro importa. En un sistema de gestión de servicios, aprobar una hora de una línea por tiempo y materiales crea dos movimientos, el costo y la venta sin facturar; aprobar una hora de una línea a precio cerrado crea solo el costo. La hora a precio cerrado no genera venta: el ingreso llega por el hito o por el avance.
+El modelo de cobro decide qué registro importa. La línea del contrato, o línea de venta, es el renglón del contrato o del pedido que fija qué se vende, con qué método de facturación y sobre qué tareas. En un sistema de gestión de servicios, aprobar una hora de una línea por tiempo y materiales crea dos movimientos, el costo y la venta sin facturar; aprobar una hora de una línea a precio cerrado crea solo el costo. La hora a precio cerrado no genera venta: el ingreso llega por el hito o por el avance.
 
 | Modelo | Qué genera la hora aprobada | Qué dispara la factura | Nota |
 |---|---|---|---|
@@ -48,7 +48,7 @@ Lectura de esta base sobre los dos sistemas: el documento que se factura es la l
 
 ## Reconocer el ingreso no es facturar
 
-La factura sigue el calendario pactado con el cliente; el ingreso sigue el trabajo hecho. La NIIF 15 reconoce el ingreso de un servicio a lo largo del tiempo cuando, entre otros casos, el cliente «simultaneously receives and consumes the benefits» a medida que la firma trabaja (párrafo 35), que es lo normal en un servicio profesional. Por eso, al cierre de cada mes, casi todo proyecto tiene una diferencia entre lo trabajado y lo facturado:
+La factura sigue el calendario pactado con el cliente; el ingreso sigue el trabajo hecho. La NIIF 15 reconoce el ingreso de un servicio a lo largo del tiempo cuando, entre otros casos, el cliente «simultaneously receives and consumes the benefits» a medida que la firma trabaja (párrafo 35), que, en lectura de esta base, es lo normal en un servicio profesional. Por eso, al cierre de cada mes, casi todo proyecto tiene una diferencia entre lo trabajado y lo facturado:
 
 - Trabajado y no facturado: un activo del contrato o una cuenta a cobrar.
 - Facturado y no trabajado: un pasivo del contrato.
@@ -62,6 +62,6 @@ La factura emitida pasa a otros dominios. La factura electrónica, el impuesto q
 ## Qué hay adentro de la facturación del proyecto
 
 - [Facturación por hora](facturacion-por-hora.md) — tiempo y materiales: la tarifa, el tope, el borrador desde horas aprobadas, los ajustes y la corrección de una factura.
-- [Facturación por hito](facturacion-por-hito.md) — precio cerrado: el calendario de facturación, los anticipos, la retención y el costo financiero de cobrar tarde.
+- [Facturación por hito](facturacion-por-hito.md) — precio cerrado: el calendario de facturación, los anticipos, la retención de garantía y el costo financiero de cobrar tarde.
 - [Abono y bolsa de horas](abono-y-bolsa-de-horas.md) — el pago periódico por disponibilidad, las horas prepagas que se consumen y el anticipo periódico que se concilia contra las horas.
 - [Trabajo en curso](trabajo-en-curso.md) — lo trabajado sin facturar y lo facturado sin trabajar: activo del contrato, cuenta a cobrar y pasivo del contrato, y cómo se mide el avance.

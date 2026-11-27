@@ -79,7 +79,7 @@ Servicios-profesionales-y-proyectos/
   Facturacion-del-proyecto/                de la hora y el hito a la factura
     facturacion-del-proyecto                 (entrada) la regla de facturación según el modelo de cobro
     facturacion-por-hora                     tarifas, topes, borrador desde horas aprobadas, ajustes
-    facturacion-por-hito                     calendario de facturación, anticipos, retención
+    facturacion-por-hito                     calendario de facturación, anticipos, retención de garantía
     abono-y-bolsa-de-horas                   pago periódico y horas prepagas que se consumen
     trabajo-en-curso                         trabajado sin facturar, facturado sin devengar, ingreso por avance
   Rentabilidad-de-la-firma/                si el proyecto y la firma ganan plata

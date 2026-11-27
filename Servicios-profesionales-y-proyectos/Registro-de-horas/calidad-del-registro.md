@@ -23,7 +23,7 @@ La calidad del registro es cuánto se parecen las horas imputadas a las que de v
 Es el límite de todo lo que se calcula con la [hoja de horas](hoja-de-horas.md): la factura por hora, el costo y el margen del proyecto, la [utilización](../Rentabilidad-de-la-firma/utilizacion.md). Si la hora cargada no se parece a la trabajada, esos números heredan el error.
 
 > [!NOTE]
-> Sin fuente todavía: ningún estudio con método sobre cuántas horas se dejan de cargar, cuánto se infla la carga, qué cambia entre cargar a diario o por semana, ni si el registro automático mejora el dato. Circulan cifras de horas perdidas sin origen identificable; esta base no las repite. Lo que sigue es razonamiento de esta base sobre las pocas fuentes que hay.
+> Sin fuente todavía: ningún estudio con método sobre cuántas horas se dejan de cargar, cuánto se infla la carga, qué cambia entre cargar a diario o por semana, ni si el registro automático mejora el dato. No se encontró ninguna cifra con origen sobre horas que se pierden sin registrar; si aparece una, conviene rastrearla antes de repetirla. Lo que sigue es razonamiento de esta base sobre las pocas fuentes que hay.
 
 ## Para qué se inventó la hoja y para qué se usa
 
@@ -47,7 +47,7 @@ Que el incentivo financiero sube la cantidad de trabajo y no su calidad está en
 
 ## Cargar a diario o al final de la semana
 
-Ninguna fuente leída mide la diferencia. La única señal es una exigencia: en los contratos por tiempo y materiales del Estado de los Estados Unidos, la factura se respalda con «Individual daily job timekeeping records», según el resumen de la cláusula FAR 52.232-7. Un cliente que paga por hora y puede auditar pide el registro diario; es el extremo exigente, no la práctica general.
+Ninguna fuente leída mide la diferencia. La única señal es una exigencia: en los contratos por tiempo y materiales del Estado de los Estados Unidos, la factura se respalda con «Individual daily job timekeeping records», según el resumen de la cláusula FAR 52.232-7 (una sola fuente, leída por resumen). Un cliente público de EE. UU. que paga por hora pide el registro diario; es el extremo exigente, no la práctica general.
 
 Como criterio de esta base, lo que se carga una semana después se reconstruye con la agenda y la memoria, y lo que no dejó rastro (una llamada, una revisión corta) se pierde o se reparte a ojo. Los controles que traen los sistemas apuntan a eso: uno colorea los totales de cada día contra la jornada de la persona (verde si coincide, rojo si falta), lo que hace visible el día sin cargar pero no dice si las horas están en el proyecto correcto.
 

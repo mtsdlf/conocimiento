@@ -14,7 +14,7 @@ fuentes:
   - "FAR 52.232-7, Payments under Time-and-Materials and Labor-Hour Contracts: https://www.acquisition.gov/far/52.232-7"
   - "APQC, Process Classification Framework cross-industry (copia de 2024 en texto), categorías 5.0, 9.2.2 y 9.5.1.5"
   - "Servicios-profesionales-y-proyectos/.investigacion/metricas-fundamentos-y-contraria.md"
-  - "Servicios-profesionales-y-proyectos/.investigacion/ (los otros tres informes, 2026-11-27)"
+  - "Servicios-profesionales-y-proyectos/.investigacion/ (cinco informes, 2026-11-27)"
 aliases: [fundamentos de servicios profesionales, historia de la hora facturable, billable hour, hora facturable, historia del PSA, escuelas de servicios profesionales, crítica de la hora facturable]
 creado: 2026-11-27
 revisado:
@@ -66,7 +66,7 @@ La evidencia del tema es floja en tres sentidos, y conviene tenerlo presente al 
 
 - **El vocabulario viene de los estudios jurídicos y contables.** Las agencias y las firmas de software lo adaptan (las agencias dicen *chargeability*), y que valga igual en otro rubro es supuesto de esta base.
 - **La práctica sale de la documentación de productos.** Casi todo lo que se dice sobre reservas, hojas de horas, topes y facturación viene de la documentación de dos o tres sistemas de gestión de servicios, y uno solo cubre la mayor parte. Sirve como evidencia de que un patrón existe, no de que sea el más usado.
-- **La búsqueda de esta pasada fue corta.** El buscador se agotó antes de empezar, y solo se leyeron páginas abiertas por dirección directa. No se leyeron los libros de Maister ni de Baker, ni los informes de Thomson Reuters, Clio, la ABA o SPI Research. Muchas definiciones de la vertical [Rentabilidad de la firma](../Rentabilidad-de-la-firma/rentabilidad-de-la-firma.md) quedaron como criterio de esta base.
+- **La búsqueda de esta pasada fue corta.** El buscador se agotó antes de empezar, y solo se leyeron páginas abiertas por dirección directa. No se leyeron los libros de Maister ni de Baker, ni los informes de benchmark de estudios jurídicos, de la ABA o de SPI Research. Muchas definiciones de la vertical [Rentabilidad de la firma](../Rentabilidad-de-la-firma/rentabilidad-de-la-firma.md) quedaron como criterio de esta base.
 
 Lo contable y lo normativo sí tienen fuente primaria: la NIIF 15, el marco de APQC y la norma de compras del gobierno de Estados Unidos (FAR).
 
@@ -80,9 +80,9 @@ Circulan dos clases de cifras sin origen. Una es la **utilización ideal**: un p
 |---|---|---|
 | WilmerHale (2010), la historia de Reginald Heber Smith | Las citas de Smith y el paso de herramienta interna a unidad de precio | Leído por partes; leerlo entero |
 | David Maister, «The Anatomy of a Consulting Firm» | El ejemplo numérico de los cuatro socios con y sin apalancamiento | Comentado en [Emprender](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md) |
-| NIIF 15, párrafos 35 a 41 y 105 a 109 | Cuándo se reconoce el ingreso a lo largo del tiempo y qué son el activo y el pasivo del contrato | Comentado en [ingresos y cuentas a cobrar](../../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md) y [trabajo en curso](../Facturacion-del-proyecto/trabajo-en-curso.md) |
+| NIIF 15, párrafos 35, 39 a 41 y 105 a 109 | Cuándo se reconoce el ingreso a lo largo del tiempo y qué son el activo y el pasivo del contrato | Comentado en [ingresos y cuentas a cobrar](../../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md) y [trabajo en curso](../Facturacion-del-proyecto/trabajo-en-curso.md) |
 | FAR 52.232-7 | La composición de la tarifa, el aviso al 85 % del tope y el respaldo con registros diarios | Leído en partes |
-| ABA Commission on Billable Hours (2002); Thomson Reuters Institute, Law Firm Financial Index; Clio, Legal Trends Report | La crítica con datos y las definiciones de realización y lockup | Sin leer |
+| ABA Commission on Billable Hours (2002); Thomson Reuters Institute, índice financiero de estudios jurídicos; el informe anual de tendencias de un proveedor de software para estudios | La crítica con datos y las definiciones de realización y lockup | Sin leer |
 | Maister, *Managing the Professional Service Firm* (1993), parte 1; Løwendahl, *Strategic Management of Professional Service Firms* | El canon del campo | Sin leer |
 
 ## Lo que hay en Fundamentos

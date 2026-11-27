@@ -44,12 +44,12 @@ Un sistema también limita la duración por día (configurable, por defecto 24 h
 
 ## El período de la hoja
 
-Los sistemas leídos cargan en una grilla semanal, con vista por día o por mes. La semana es la unidad de carga, no necesariamente la de aprobación ni la de factura.
+Dos de los sistemas leídos cargan en una grilla semanal, con vista por día o por mes. Como criterio de esta base, la semana es la unidad de carga, no necesariamente la de aprobación ni la de factura.
 
 > [!NOTE]
 > Sin fuente todavía: el cierre del período (una fecha después de la cual no se cargan más horas de una semana o un mes) no aparece en ninguna de las fuentes leídas. Tampoco hay fuente sobre la jerarquía de proyecto, tarea y actividad como práctica recomendada.
 
-La frecuencia de carga sí tiene un caso extremo documentado. En los contratos por tiempo y materiales del Estado de los Estados Unidos, cada factura se respalda con «Individual daily job timekeeping records», según el resumen de la cláusula FAR 52.232-7. Es una exigencia de un cliente público estadounidense, no práctica general; muestra hasta dónde puede pedir un cliente que el registro sea diario.
+La frecuencia de carga sí tiene un caso extremo documentado. En los contratos por tiempo y materiales del Estado de los Estados Unidos, cada factura se respalda con «Individual daily job timekeeping records», según el resumen de la cláusula FAR 52.232-7 (una sola fuente, leída por resumen). Es una exigencia de un cliente público estadounidense, no práctica general; muestra hasta dónde puede pedir un cliente que el registro sea diario.
 
 ## Los estados y quién aprueba
 
@@ -62,7 +62,7 @@ Un sistema de gestión de servicios documenta cuatro estados:
 
 En ese sistema aprueban los miembros del equipo marcados como aprobadores del proyecto, y además se puede configurar el jefe de cada persona. Un sistema abierto bloquea la tarifa de venta y el costo al enviar la hoja («Billing Rate and Costing rate get locked») y factura desde la hoja enviada. Otro tiene la validación como permiso («validate all employees' timesheets»), sin un flujo de varios pasos documentado.
 
-Lo que tiene en común la práctica es que la aprobación es el punto en que la hora deja de ser de la persona y pasa a ser del proyecto: desde ahí cuenta como costo, como venta sin facturar si el contrato es por tiempo y materiales, y como base de la utilización. En un proyecto a precio cerrado, el mismo sistema crea solo el costo.
+Los sistemas difieren (uno bloquea la tarifa al enviar la hoja, otro factura desde la hoja enviada), pero como lectura de esta base la aprobación es el punto en que la hora deja de ser de la persona y pasa a ser del proyecto: desde ahí cuenta como costo, como venta sin facturar si el contrato es por tiempo y materiales, y como base de la utilización. En un proyecto a precio cerrado, el mismo sistema crea solo el costo.
 
 ## Corregir una hora aprobada o facturada
 

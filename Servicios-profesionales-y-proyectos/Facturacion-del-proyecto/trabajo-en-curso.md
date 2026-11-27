@@ -22,11 +22,11 @@ El trabajo en curso es la diferencia, en un momento dado, entre lo que una firma
 
 Es la idea que une las reglas de [facturación del proyecto](facturacion-del-proyecto.md): sea por hora, por hito o por abono, al cierre de cada mes lo trabajado y lo facturado no coinciden. La NIIF 15 en sus cinco pasos está en [ingresos y cuentas a cobrar](../../Contabilidad/Operaciones/ingresos-y-cuentas-a-cobrar.md#cuándo-hay-un-ingreso-los-cinco-pasos-de-la-niif-15), y la regla de fondo de registrar en el período en que pasa, en [devengado](../../Contabilidad/Registro/devengado.md). Esta nota se queda con lo propio de un servicio: cómo se mide el avance en horas y qué nombre lleva la diferencia.
 
-El nombre se presta a confusión. En una fábrica, el trabajo en curso es el inventario a medio hacer, medido a costo, como en [sistemas de costeo](../../Contabilidad/Contabilidad-de-gestion/sistemas-de-costeo.md#por-órdenes-o-por-procesos-qué-se-acumula). En una firma de servicios se usa para lo trabajado sin facturar, y los sistemas lo miden a precio de venta. Es lectura de esta base: el término inglés *work in progress* cubre los dos usos.
+El nombre se presta a confusión. En una fábrica, el trabajo en curso es el inventario a medio hacer, medido a costo, como en [sistemas de costeo](../../Contabilidad/Contabilidad-de-gestion/sistemas-de-costeo.md#por-órdenes-o-por-procesos-qué-se-acumula). En una firma de servicios se usa para lo trabajado sin facturar, y el sistema de gestión de servicios leído lo guarda a precio de venta. Es lectura de esta base: el término inglés *work in progress* cubre los dos usos.
 
 ## Por qué un servicio se reconoce a medida que se trabaja
 
-La NIIF 15 reconoce el ingreso a lo largo del tiempo si se cumple alguno de tres criterios (párrafo 35). El primero describe casi cualquier servicio profesional: el cliente «simultaneously receives and consumes the benefits provided by the entity's performance as the entity performs». Una consultoría, una auditoría o el soporte de un sistema se consumen mientras se prestan.
+La NIIF 15 reconoce el ingreso a lo largo del tiempo si se cumple alguno de tres criterios (párrafo 35). El primero, en lectura de esta base, describe casi cualquier servicio profesional: el cliente «simultaneously receives and consumes the benefits provided by the entity's performance as the entity performs». Una consultoría, una auditoría o el soporte de un sistema se consumen mientras se prestan.
 
 Si el ingreso se reconoce a lo largo del tiempo, la firma tiene que medir el avance (párrafo 39) y elegir un solo método por obligación (párrafo 40): «An entity shall apply a single method of measuring progress for each performance obligation satisfied over time.» Los métodos posibles son de producto o de insumo (párrafo 41).
 
@@ -34,7 +34,7 @@ Si el ingreso se reconoce a lo largo del tiempo, la firma tiene que medir el ava
 
 | Familia | Qué mide | Ejemplos de la norma | En un servicio |
 |---|---|---|---|
-| Producto (B15-B17) | El valor que recibió el cliente | Evaluaciones de resultados, hitos alcanzados | Entregables aceptados, [hitos](../Proyecto-del-cliente/hitos-y-entregables.md) |
+| Producto (B15-B17) | El valor que recibió el cliente | Encuestas del trabajo hecho, evaluaciones de resultados | Entregables aceptados, [hitos](../Proyecto-del-cliente/hitos-y-entregables.md) |
 | Insumo (B18-B19) | Lo que puso la firma | «resources consumed, labour hours expended, costs incurred, time elapsed or machine hours used» | Horas aprobadas sobre horas presupuestadas |
 
 En un servicio, el insumo natural son las horas: si el [presupuesto del proyecto](../Proyecto-del-cliente/presupuesto-del-proyecto.md) dice 400 horas y van 100 aprobadas, el avance es del 25 %. Este ejemplo es propio. El párrafo B19 pide un ajuste: si un costo no refleja avance (un error que hubo que rehacer, una compra que todavía no se usó), se saca de la medida.
@@ -49,8 +49,8 @@ En tiempo y materiales no hace falta medir nada: el párrafo B16 deja reconocer 
 
 Cuando alguna de las partes cumplió, la firma presenta el contrato como «a contract asset or a contract liability» (párrafo 105). La norma da tres nombres:
 
-- **Pasivo del contrato** (párrafo 106): el cliente pagó, o la firma tiene derecho incondicional a cobrar, antes de que la firma trabaje. Es lo facturado de más: un anticipo, una bolsa de horas sin consumir.
-- **Activo del contrato** (párrafo 107): la firma trabajó antes de que el cliente pague, y su derecho a cobrar depende de algo más que el paso del tiempo, como alcanzar el próximo hito.
+- **Pasivo del contrato** (párrafo 106): el cliente pagó, o la firma tiene derecho incondicional a cobrar, antes de que la firma trabaje. Es lo facturado de más: un anticipo, una bolsa de horas sin consumir. En la Argentina, cobrar por adelantado obliga a facturar, como dice [servicios profesionales en la Argentina](../servicios-profesionales-en-argentina.md#cuándo-nace-la-obligación-de-facturar).
+- **Activo del contrato** (párrafo 107): la firma trabajó antes de que el cliente pague, y su derecho a cobrar depende de algo más que el paso del tiempo. Lectura de esta base: esa condición suele ser alcanzar el próximo hito.
 - **Cuenta a cobrar** (párrafo 108): «A receivable is an entity's right to consideration that is unconditional.» Solo falta que llegue la fecha.
 
 La norma no obliga a usar esos nombres (párrafo 109): una firma puede seguir diciendo «trabajo en curso sin facturar» o «ingreso diferido». Lectura de esta base sobre los tres párrafos:

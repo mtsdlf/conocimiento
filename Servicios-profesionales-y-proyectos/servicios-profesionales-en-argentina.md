@@ -12,6 +12,7 @@ fuentes:
   - "Ley 27.423 de honorarios de abogados, procuradores y auxiliares de la Justicia, texto actualizado: https://www.argentina.gob.ar/normativa/nacional/norma-305057/actualizacion"
   - "Ley 23.928, arts. 7 y 10 (texto de la Ley 25.561), texto actualizado: https://www.argentina.gob.ar/normativa/nacional/norma-328/actualizacion"
   - "DNU 70/2023, arts. 250 a 257 (reforma del Código Civil y Comercial): https://www.boletinoficial.gob.ar/pdf/aviso/primera/301122/20231221"
+  - "Allende & Brea, Modificaciones al Código Civil y Comercial por el DNU 70/2023 (según resumen): https://allende.com/reforma-argentina/desregulacion-economica/modificaciones-al-codigo-civil-y-comercial-de-la-nacion-01-03-2024/"
   - "Servicios-profesionales-y-proyectos/.investigacion/argentina.md"
 aliases: [servicios profesionales en Argentina, factura de servicios ARCA, honorarios profesionales Argentina, UMA, indexación de contratos, ajuste por inflación en contratos de servicios]
 creado: 2026-11-27
@@ -38,7 +39,7 @@ En el servicio web de factura electrónica de ARCA, cada comprobante declara un 
 
 Si se informa una de las tres, hay que informar las otras (errores 10031, 10033 y 10035 del manual). Para quien construye el sistema, el proyecto tiene que poder dar el período que cubre cada factura: las horas de un mes en un proyecto por hora, o el tramo que cierra un hito.
 
-El manual llama «abono» al período. En un proyecto sin período natural, informar las fechas de la prestación que se factura es lectura de esta base, porque el manual no lo dice. Hay una sola fuente para este punto, el manual de ARCA; el artículo de la RG 4291 que crea esos datos no se leyó.
+El manual llama «abono» al período facturado, que no es el [abono](Facturacion-del-proyecto/abono-y-bolsa-de-horas.md) como forma de cobro. En un proyecto sin período natural, informar las fechas de la prestación que se factura es lectura de esta base, porque el manual no lo dice. Hay una sola fuente para este punto, el manual de ARCA; el artículo de la RG 4291 que crea esos datos no se leyó.
 
 ## Cuándo nace la obligación de facturar
 
@@ -54,7 +55,7 @@ Según la RG 4291, en las prestaciones de servicios los datos del comprobante pu
 
 ## Los honorarios son libres, con una excepción
 
-El Decreto 2284/1991 dejó sin efecto las declaraciones de orden público sobre aranceles de servicios profesionales «en cualquier clase de actividad» (art. 8), y prohibió que una entidad pública o privada impida «la libre contratación de honorarios» cuando las partes quieran apartarse de las escalas (art. 11). Es la regla general para contadores, arquitectos, ingenieros y el resto de las profesiones: el precio de un proyecto se pacta.
+El Decreto 2284/1991 dejó sin efecto las declaraciones de orden público sobre aranceles de servicios profesionales «en cualquier clase de actividad» (art. 8), y prohibió que una entidad pública o privada impida «la libre contratación de honorarios» cuando las partes quieran apartarse de las escalas (art. 11). Es la regla general para contadores, arquitectos, ingenieros y el resto de las profesiones, salvo normas posteriores o provinciales que esta pasada no leyó: el precio de un proyecto se pacta.
 
 La excepción leída son los abogados. La Ley 27.423 (2017) fija honorarios en UMA, una unidad que vale el 3 % de la remuneración básica de un juez federal de primera instancia y que la Corte Suprema publica cada mes (art. 19). Trae mínimos también para el trabajo fuera de un juicio: media UMA por una consulta verbal, dos como mínimo por redactar un contrato de locación, cinco por un estatuto de sociedad. Su art. 16 dice que esos mínimos «revisten carácter de orden público», y el art. 5 declara nulo el pacto que los reduzca, con excepciones. El art. 1 la aplica a los «asuntos cuya competencia correspondiere a la justicia nacional o federal».
 
@@ -65,7 +66,7 @@ La excepción leída son los abogados. La Ley 27.423 (2017) fija honorarios en U
 
 Con inflación, un proyecto de varios meses pactado en pesos pierde valor. La ley vigente limita cómo se ajusta. El art. 7 de la Ley 23.928, en el texto de la Ley 25.561, dice que «en ningún caso se admitirá actualización monetaria, indexación por precios, variación de costos o repotenciación de deudas, cualquiera fuere su causa», y declara inaplicables las cláusulas contractuales que lo contravengan. El art. 10 impide que una cláusula contractual se use como causa de ajuste de los precios «de los bienes, obras o servicios».
 
-El DNU 70/2023 no tocó esos dos artículos. La única mención que hace de la Ley 23.928 está en la locación de inmuebles: permite ajustar el alquiler por «cualquier índice» y dice que a esos contratos no se les aplica el art. 10. Que la excepción se escriba solo para la locación sugiere que fuera de ella el art. 10 sigue rigiendo; es lectura de esta base, sin análisis jurídico leído, y un estudio jurídico que comentó el DNU lo lee igual.
+El DNU 70/2023 no tocó esos dos artículos. La única mención que hace de la Ley 23.928 está en la locación de inmuebles: permite ajustar el alquiler por «cualquier índice» y dice que a esos contratos no se les aplica el art. 10. Que la excepción se escriba solo para la locación sugiere que fuera de ella el art. 10 sigue rigiendo; es lectura de esta base, y un estudio jurídico que comentó el DNU lo lee igual (según su resumen): el DNU cambió el contrato de locación y no los de obra y servicios.
 
 Lo que el DNU sí cambió sirve para un contrato de servicios. El nuevo art. 765 del Código Civil y Comercial permite deber dinero en una moneda «sea o no de curso legal en el país», y dice que el deudor solo se libera pagando en la moneda pactada. El art. 960 dice que los jueces no pueden modificar lo que las partes estipularon, salvo que una lo pida cuando la ley lo autoriza.
 
@@ -81,7 +82,7 @@ La imprevisión, que permite pedir que se revise un contrato cuando una circunst
 
 ## Las retenciones que sufre quien factura
 
-Un cliente que es agente de retención descuenta impuestos al pagar una factura de servicios. Los regímenes más comunes son el de Ganancias sobre honorarios y locaciones de obras y servicios (la RG 830) y los de Ingresos Brutos de cada provincia. Para el registro del proyecto importa una cosa: el cobro neto es menor que la factura, y la diferencia es un crédito de impuestos, no un descuento al cliente ni una pérdida de [realización](Rentabilidad-de-la-firma/realizacion.md). Esa última aclaración es criterio de esta base.
+Un cliente que es agente de retención descuenta impuestos al pagar una factura de servicios. Los regímenes más comunes son el de Ganancias sobre honorarios y locaciones de obras y servicios (la RG 830) y los de Ingresos Brutos de cada provincia. Para el registro del proyecto importa una cosa, que es criterio de esta base: el cobro neto es menor que la factura, y la diferencia es un impuesto pagado a cuenta, no un descuento al cliente ni una pérdida de [realización](Rentabilidad-de-la-firma/realizacion.md). No hay que confundirla con la [retención de garantía](Facturacion-del-proyecto/facturacion-por-hito.md), que es una parte del precio que el cliente guarda hasta el final del trabajo.
 
 La factura que recibe retención lleva en la clase A la leyenda «OPERACIÓN SUJETA A RETENCIÓN», que reemplazó a la clase M; está en [factura electrónica de ARCA](../Comercio-electronico/Normativa/factura-electronica-de-arca.md#qué-letra-lleva-cada-comprobante).
 

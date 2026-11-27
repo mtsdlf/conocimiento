@@ -66,7 +66,7 @@ No todo proyecto tiene un cliente que pague. La preventa, la capacitación, un d
 
 APQC separa el cierre financiero de la entrega: «Complete/finalize financial management activities» (5.3.3.2) y «Confirm delivery according to contract terms» (5.3.3.3), seguidos de liberar a las personas (5.3.3.4) y archivar los registros (5.3.3.7). El marco da los nombres pero no el contenido.
 
-> [!NOTE] Sin fuente todavía: qué incluye el cierre financiero de un proyecto. Lectura de esta base: aprobar las últimas horas, facturar el remanente, liberar las retenciones, devolver o dar por consumido el saldo prepago, dejar en cero el [trabajo en curso](../Facturacion-del-proyecto/trabajo-en-curso.md) y cerrar el proyecto a nuevos cargos.
+> [!NOTE] Sin fuente todavía: qué incluye el cierre financiero de un proyecto. Lectura de esta base: aprobar las últimas horas, facturar el remanente, liberar las retenciones de garantía, devolver o dar por consumido el saldo prepago, dejar en cero el [trabajo en curso](../Facturacion-del-proyecto/trabajo-en-curso.md) y cerrar el proyecto a nuevos cargos.
 
 La aceptación del cliente que habilita ese cierre está en [proyecto a precio cerrado](../../Producto/Planificacion-y-entrega/proyecto-a-precio-cerrado.md#aceptar-y-cerrar); el cierre como método, en [Gestión de proyectos](../../Gestion-de-proyectos/gestion-de-proyectos.md).
 

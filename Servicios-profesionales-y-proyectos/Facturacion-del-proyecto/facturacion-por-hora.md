@@ -34,7 +34,7 @@ Es el modelo en que el cliente paga el tiempo que lleve el trabajo; según una d
 
 La tarifa sale de una lista de precios. En un sistema de gestión de servicios, una lista es «a catalog of rates» con contexto de costo, de venta o de compra, una moneda y una vigencia con fecha de inicio y de fin. Las listas de venta se pueden pegar a un cliente, a una cotización o a un contrato; así un cliente puede tener tarifas propias sin tocar las generales. Las de costo dan el [costo de la hora](../Rentabilidad-de-la-firma/costo-y-margen-del-proyecto.md) con la misma mecánica.
 
-Para cada hora, el sistema busca la lista por fecha de la hora y por moneda, y dentro de ella la línea del rol y de la unidad que presta a la persona. Si no hay, toma la línea del rol sin unidad. La tarifa queda por rol, con excepción por unidad, y no por persona.
+Para cada hora, el sistema busca la lista por fecha de la hora y por moneda, y dentro de ella la línea del rol y de la unidad (la parte de la firma, como un área o una oficina, con su propia lista de precios) que presta a la persona. Si no hay, toma la línea del rol sin unidad. La tarifa queda por rol, con excepción por unidad, y no por persona.
 
 Otro sistema abierto precia por otro eje: el tipo de actividad (análisis, desarrollo, reunión) tiene costo y tarifa por defecto, y una tabla por empleado los pisa. Son dos diseños distintos y ninguna fuente leída dice cuál es más común en firmas reales. Lectura de esta base: el precio por rol es el que el cliente entiende y el que se pone en una cotización; el precio por persona aparece cuando alguien vale más que su rol. Los roles están en [roles y habilidades](../Asignacion-de-personas/roles-y-habilidades.md).
 

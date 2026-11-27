@@ -27,7 +27,7 @@ Es la pieza de [asignación de personas](asignacion-de-personas.md) que da el vo
 
 Al vender un proyecto todavía no se sabe quién lo va a hacer. Por eso se estima con un recurso genérico (*generic resource*), que es un rol en una unidad de la firma: por ejemplo, un desarrollador senior de una oficina. Un sistema de gestión de servicios lo dice así: «Staff your project with a team of generic or named resources». El presupuesto del proyecto y la cotización se arman con genéricos, y el costo y la tarifa salen del rol.
 
-Cuando el proyecto se confirma, cada genérico se cubre con una persona con nombre (*named resource*). Un mismo genérico puede cubrirse con varias personas: el ejemplo de ese sistema es un pedido de 120 horas de ingeniería en cinco días, que una sola persona no puede hacer. Si nadie lo cubre, el genérico queda en el equipo y el hueco se ve. El mismo sistema permite sustituir a una persona por otra del mismo rol.
+Cuando el proyecto se confirma, cada genérico se cubre con una persona con nombre (*named resource*). Un mismo genérico puede cubrirse con varias personas: el ejemplo de ese sistema es un pedido de 120 horas de ingeniería en cinco días, que una sola persona no puede hacer. Si nadie lo cubre, el genérico queda en el equipo y el hueco se ve. El mismo sistema permite sustituir a una persona por otra.
 
 Planificar por rol y bajar a persona después es práctica documentada de un sistema. No se encontró una fuente primaria que lo justifique como método; la razón que da esta base es que la venta y la asignación ocurren en momentos distintos y el rol es lo único que se sabe en los dos.
 

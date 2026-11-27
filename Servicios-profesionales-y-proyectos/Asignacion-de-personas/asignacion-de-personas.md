@@ -25,7 +25,7 @@ Dentro de [Servicios profesionales y proyectos](../servicios-profesionales-y-pro
 
 APQC no tiene la asignación como proceso propio: la reparte en dos momentos y un cierre. El plan de la firma vive en 5.2 «Manage service delivery resources», antes de que exista el proyecto, con tres ramas: la demanda (5.2.1), el plan de recursos (5.2.2) y la habilitación de las personas (5.2.3). La asignación a un proyecto concreto vive en otra parte, dentro de la entrega: 5.3.1.6 «Identify, select, and assign resources», con «Establish people objectives» y «Establish engagement rules». La liberación de las personas al terminar es 5.3.3.4 «Release resources».
 
-Esta vertical junta los tres, porque un sistema de gestión los guarda en los mismos registros: el pedido de un rol, la reserva de una persona y su liberación son estados de una misma fila. La capacitación (5.2.3) queda afuera; seleccionar, evaluar y hacer crecer a las personas es de [Gestión de personas](../../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md).
+Esta vertical junta los tres, porque, como criterio de esta base, conviene tratarlos como un solo registro: el pedido de un rol, la reserva de una persona y su liberación se leen como etapas de una misma fila. La capacitación (5.2.3) queda afuera; seleccionar, evaluar y hacer crecer a las personas es de [Gestión de personas](../../Liderazgo-y-direccion/Gestion-de-personas/gestion-de-personas.md).
 
 ## La capacidad de la firma y la del proyecto
 

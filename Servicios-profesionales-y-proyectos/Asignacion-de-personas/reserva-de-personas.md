@@ -21,7 +21,7 @@ revisado:
 
 La reserva de personas es el registro de que una persona va a trabajar en un proyecto unas horas en unas fechas. Nace de un pedido del proyecto, pasa por una propuesta de quien administra a las personas y queda tentativa, que no consume la capacidad de la persona, o firme, que sí.
 
-Es el registro central de la [asignación de personas](asignacion-de-personas.md). Se pide con un [rol](roles-y-habilidades.md), y la suma de las reservas de todos los proyectos es lo que se compara con la capacidad en [demanda y capacidad](demanda-y-capacidad.md). Todo lo que sigue sale de la documentación de un solo sistema de gestión de servicios; no hay una segunda fuente independiente, y un sistema abierto usa un esquema distinto (al final).
+Es el registro central de la [asignación de personas](asignacion-de-personas.md). Se pide con un [rol](roles-y-habilidades.md), y la suma de las reservas de todos los proyectos es lo que se compara con la capacidad en [demanda y capacidad](demanda-y-capacidad.md). Lo de reserva firme y tentativa sale de un solo sistema de gestión de servicios; no hay una segunda fuente independiente, y un sistema abierto usa un esquema distinto (al final).
 
 ## Del pedido a la reserva
 
@@ -44,7 +44,7 @@ El sistema documentado tiene cuatro estados de reserva, y lo que los distingue e
 | Propuesta (*proposed*) | Quien administra a las personas ofrece a alguien ante un pedido | No | No, hasta que se decide |
 | Cancelada (*canceled*) | Dejar sin efecto una reserva | Libera la que tenía | Sigue figurando en el equipo |
 
-Las transiciones dicen qué evento del proyecto mueve la reserva. De tentativa a firme se consume la capacidad, y el caso típico es un proyecto que esperaba la firma y se confirma. De firme a cancelada se libera, por ejemplo cuando se suspende una tarea. De propuesta a cancelada no cambia nada.
+Las transiciones dicen qué evento del proyecto mueve la reserva. De tentativa a firme se consume la capacidad, y el caso típico es un proyecto que esperaba empezar y se confirma. De firme a cancelada se libera, por ejemplo cuando se suspende una tarea. De propuesta a cancelada no cambia nada.
 
 La consecuencia más útil es que dos proyectos pueden tener reserva tentativa sobre la misma persona al mismo tiempo. La tentativa sirve para ver que viene trabajo; la firme, para saber quién está ocupado.
 
@@ -69,7 +69,7 @@ La reserva dice que una persona está en un proyecto; la asignación de tareas d
 
 ## Liberar al terminar
 
-APQC cierra el ciclo con 5.3.3.4 «Release resources», dentro del cierre del proyecto. En el registro, liberar es cancelar o acortar las reservas firmes que quedan, para que la capacidad vuelva a estar disponible. En el sistema documentado, una reserva cancelada libera capacidad pero deja a la persona en la lista del equipo, que conserva la historia de quién trabajó.
+APQC cierra el ciclo con 5.3.3.4 «Release resources», en la categoría 5.3.3 (completar la entrega). Como criterio de esta base, en el registro liberar es cancelar o acortar las reservas firmes que quedan, para que la capacidad vuelva a estar disponible. En el sistema documentado, una reserva cancelada libera capacidad pero deja a la persona en la lista del equipo.
 
 ## Turnos en vez de reservas
 

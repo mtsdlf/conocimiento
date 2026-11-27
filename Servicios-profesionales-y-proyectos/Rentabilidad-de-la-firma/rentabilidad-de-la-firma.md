@@ -31,7 +31,7 @@ flowchart LR
   I -->|menos el costo de las horas y los gastos| M[Margen]
 ```
 
-La cadena es criterio de esta base, armado con las definiciones de las notas de abajo. Es la misma cuenta que la ecuación de Maister abre a nivel de firma, con la tarifa, la utilización y la realización como factores; la diferencia es que acá se calcula por persona, por proyecto y por cliente, desde cada hora imputada.
+La cadena es criterio de esta base, armado con las definiciones de las notas de abajo. Es la misma cuenta que la ecuación de Maister abre a nivel de firma, con la tarifa y la utilización como factores (una versión vista en una nota de prensa suma además la realización); la diferencia es que acá se calcula por persona, por proyecto y por cliente, desde cada hora imputada.
 
 APQC no trata la rentabilidad como parte de la entrega del servicio: pone la utilización en finanzas, en 9.5.1.5 «Analyze and report employee utilization». Esta base la junta con las otras medidas porque las cuatro salen de la misma hora imputada.
 
@@ -54,7 +54,7 @@ La gente puede estar llena de horas facturables y la firma ganar poco. Cada esla
 - **El proyecto a precio cerrado se pasó.** Las horas cuentan como facturables para la utilización, pero el precio no se mueve: más horas son solo más costo.
 - **La tarifa no cubre el costo cargado.** Si la tarifa se fijó sin mirar el [costo de la hora](costo-y-margen-del-proyecto.md), o el costo subió y la tarifa no, cada hora facturable pierde plata.
 - **El denominador está inflado.** Si la utilización se calcula sobre las horas registradas y el trabajo interno no se carga, el número sube sin que se facture más.
-- **La mezcla de personas no es la del trabajo.** Si las horas facturables las hacen los más caros en tareas que podría hacer alguien con menos experiencia, la utilización es alta y el margen es chico. Es el problema del apalancamiento, explicado en [cómo envejece un servicio](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md#cómo-envejece-un-servicio).
+- **La mezcla de personas no es la del trabajo.** Si las horas facturables las hacen los más caros en tareas que podría hacer alguien con menos experiencia, la utilización es alta y el margen es chico. Es el problema del apalancamiento, explicado en [el tipo de trabajo decide cuánto se puede delegar](../../Emprender/Modelo-de-negocio/economia-de-una-firma-de-servicios.md#el-tipo-de-trabajo-decide-cuánto-se-puede-delegar).
 
 ## Las medidas como meta
 

@@ -27,7 +27,7 @@ No hay un glosario canónico del campo: el vocabulario viene de los estudios jur
 | Proyecto del cliente | Client project, engagement | El proyecto como registro económico frente a un cliente, desde la venta aceptada hasta el cierre financiero | [proyecto del cliente](../Proyecto-del-cliente/proyecto-del-cliente.md) |
 | Proyecto interno | Internal project, non-billable project | Un proyecto sin cliente que pague (preventa, capacitación, administración), que recibe horas igual | [proyecto del cliente](../Proyecto-del-cliente/proyecto-del-cliente.md) |
 | Presupuesto del proyecto | Project budget | Las horas, el costo y el precio previstos por fase, tarea o rol; una foto que no cambia cuando cambian los precios | [presupuesto del proyecto](../Proyecto-del-cliente/presupuesto-del-proyecto.md) |
-| Estimación al terminar | Estimate at completion (EAC) | Lo que va a costar el proyecto al final: lo real más lo que falta | [presupuesto del proyecto](../Proyecto-del-cliente/presupuesto-del-proyecto.md) |
+| Estimación al terminar | Estimate at completion (EAC) | Lo que va a costar el proyecto al final: lo real más lo que falta | [presupuesto del proyecto](../Proyecto-del-cliente/presupuesto-del-proyecto.md), [medir el avance](../../Gestion-de-proyectos/Seguimiento/medir-el-avance.md#el-valor-ganado-y-la-estabilidad-del-cpi) |
 | Entregable | Deliverable | Lo que el proyecto le entrega al cliente | [hitos y entregables](../Proyecto-del-cliente/hitos-y-entregables.md) |
 | Hito | Milestone | Un evento observable de aceptación, que puede disparar una factura | [hitos y entregables](../Proyecto-del-cliente/hitos-y-entregables.md) |
 | Orden de cambio | Change order, contract modification | Un cambio de alcance, de precio o de los dos, aprobado por las partes | [orden de cambio](../Proyecto-del-cliente/orden-de-cambio.md) |
@@ -67,7 +67,7 @@ No hay un glosario canónico del campo: el vocabulario viene de los estudios jur
 | Precio cerrado | Fixed price | Un precio fijado de antemano por un alcance; la hora es costo y el ingreso viene por hito o por avance | [facturación por hito](../Facturacion-del-proyecto/facturacion-por-hito.md) |
 | Calendario de facturación | Invoice schedule, billing schedule | Las fechas o los hitos en que se emite cada factura | [facturación por hito](../Facturacion-del-proyecto/facturacion-por-hito.md) |
 | Anticipo | Advance, down payment | Un pago antes del trabajo, que se descuenta de facturas posteriores | [facturación por hito](../Facturacion-del-proyecto/facturacion-por-hito.md) |
-| Retención | Retainage | Una parte del precio que el cliente retiene hasta que el trabajo termina | [facturación por hito](../Facturacion-del-proyecto/facturacion-por-hito.md) |
+| Retención de garantía | Retainage | Una parte del precio que el cliente retiene hasta que el trabajo termina; no es la retención de impuestos | [facturación por hito](../Facturacion-del-proyecto/facturacion-por-hito.md) |
 | Abono | Retainer | Una cuota periódica; según el contrato paga disponibilidad o es un anticipo que se concilia con las horas | [abono y bolsa de horas](../Facturacion-del-proyecto/abono-y-bolsa-de-horas.md) |
 | Bolsa de horas | Prepaid hours, block of hours | Un paquete de horas pagado por adelantado que se consume con el trabajo | [abono y bolsa de horas](../Facturacion-del-proyecto/abono-y-bolsa-de-horas.md) |
 | Trabajo en curso | Work in progress (WIP), unbilled revenue | Lo trabajado que todavía no se facturó | [trabajo en curso](../Facturacion-del-proyecto/trabajo-en-curso.md) |
@@ -78,12 +78,12 @@ No hay un glosario canónico del campo: el vocabulario viene de los estudios jur
 
 | Término | Inglés | Qué es | Dónde |
 |---|---|---|---|
-| Costo de la hora | Cost rate, loaded cost | Lo que le cuesta a la firma una hora de una persona o un rol, separado de la tarifa | [costo y margen del proyecto](../Rentabilidad-de-la-firma/costo-y-margen-del-proyecto.md) |
+| Costo de la hora | Cost rate (el costo cargado, *loaded cost*, es una de sus formas) | Lo que le cuesta a la firma una hora de una persona o un rol, separado de la tarifa; puede incluir solo sueldo y cargas o sumar también indirectos | [costo y margen del proyecto](../Rentabilidad-de-la-firma/costo-y-margen-del-proyecto.md) |
 | Margen del proyecto | Project margin | El ingreso del proyecto menos el costo de sus horas y gastos | [costo y margen del proyecto](../Rentabilidad-de-la-firma/costo-y-margen-del-proyecto.md) |
 | Utilización | Utilization, chargeability | Horas facturables sobre unas horas de referencia | [utilización](../Rentabilidad-de-la-firma/utilizacion.md) |
 | Tarifa de lista | Standard rate | La tarifa de la lista de precios, antes de descuentos y castigos | [realización](../Rentabilidad-de-la-firma/realizacion.md) |
 | Realización | Realization | La parte del valor de las horas a tarifa de lista que se factura y se cobra | [realización](../Rentabilidad-de-la-firma/realizacion.md) |
-| Castigo | Write-down, write-off | Bajar la cantidad o el precio de horas trabajadas, o pasarlas a no cobrables, antes o después de facturar | [realización](../Rentabilidad-de-la-firma/realizacion.md) |
+| Castigo | Write-down, write-off | Bajar la cantidad o el precio de horas trabajadas, o pasarlas a no cobrables, en el borrador de la factura; lo que se acredita después de facturar es una nota de crédito | [realización](../Rentabilidad-de-la-firma/realizacion.md) |
 | Tarifa efectiva | Effective rate | Lo cobrado dividido por las horas trabajadas | [realización](../Rentabilidad-de-la-firma/realizacion.md) |
 | Lockup | Lockup | Los días que tarda el trabajo en volverse plata: trabajo en curso más cuentas a cobrar | [realización](../Rentabilidad-de-la-firma/realizacion.md) |
 
