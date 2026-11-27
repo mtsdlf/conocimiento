@@ -24,8 +24,9 @@ hablan, cada uno con su dialecto.
 Es la vertical más honda de [Bases de datos](../bases-de-datos.md). Se apoya en el
 [modelo relacional](../Modelos-de-datos/base-relacional.md), que pone las tablas y las claves, y
 le pasa a [Transacciones](../Transacciones/transacciones.md) las escrituras que tienen que contar
-como una sola. El uso de SQL para análisis (cohortes, almacenes analíticos) está en
-[Datos](../../Datos/datos.md); acá se queda el lenguaje, del lado de quien construye un sistema.
+como una sola. Acá se queda el lenguaje, del lado de quien construye un sistema. Lo que el analista
+necesita además (el grano de cada tabla y para qué usa cada pieza al contestar una pregunta) está en
+[SQL para análisis](../../Datos/Analisis/sql-para-analisis.md), del tema Datos.
 
 ## Las cuatro tablas de todos los ejemplos
 

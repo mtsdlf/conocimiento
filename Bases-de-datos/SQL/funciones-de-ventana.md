@@ -136,7 +136,8 @@ FROM pedidos;
 ```
 
 El segundo pedido de Ana da 39 días; los primeros pedidos de cada cliente dan NULL. Es la base de
-medidas como la frecuencia de compra, cuyo análisis está en [Datos](../../Datos/datos.md).
+medidas como la frecuencia de compra; cómo la usa el analista (la primera compra de una cohorte, la
+recencia de RFM) está en [SQL para análisis](../../Datos/Analisis/sql-para-analisis.md#funciones-de-ventana-calcular-sin-agrupar).
 
 ## Dónde se pueden usar
 

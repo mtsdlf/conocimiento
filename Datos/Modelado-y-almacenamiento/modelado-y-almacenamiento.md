@@ -27,8 +27,10 @@ Es el primer tramo del recorrido del dato. Lo que se guarda acá lo mueve
 cuidan las reglas de [Gobierno y calidad](../Gobierno-y-calidad/gobierno-y-calidad.md) y lo
 consulta el [Análisis](../Analisis/analisis.md). Las bases donde corre la aplicación de un negocio
 en la nube, con su redundancia y su acceso privado, son de
-[datos operacionales](../../Cloud/Datos-operacionales/datos-operacionales.md) en Cloud; acá
-interesan por lo que se puede analizar de ellas.
+[datos operacionales](../../Cloud/Datos-operacionales/datos-operacionales.md) en Cloud, y cómo se
+elige y se usa la base de un sistema (modelos, transacciones, criterios) es el tema
+[Bases de datos](../../Bases-de-datos/bases-de-datos.md); acá interesan por lo que se puede
+analizar de ellas.
 
 ## Cuándo hace falta un almacén aparte y cuándo no
 

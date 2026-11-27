@@ -22,9 +22,11 @@ Una base relacional guarda los datos en tablas de filas y columnas, une las tabl
 se consulta con SQL; la base misma hace cumplir las reglas de integridad, como que todo pedido
 apunte a un cliente que existe.
 
-Es el modelo por defecto para el sistema de un comercio. Esta nota cuenta lo que hace falta para
-usarlo y elegirlo. La teoría del modelo (relaciones, normalización, diseño de esquemas para
-análisis) está en [Datos](../../Datos/datos.md).
+Es el modelo por defecto para el sistema de un comercio. Acá va lo que hace falta para usarlo y
+elegirlo. La teoría del modelo, con la definición de Codd de las claves y la normalización
+explicada desde la planilla, está en [modelo relacional](../../Datos/Modelado-y-almacenamiento/modelo-relacional.md),
+del tema Datos. Por qué la base de la aplicación no es la misma que la base para analizar está en
+[OLTP y OLAP](../../Datos/Modelado-y-almacenamiento/oltp-y-olap.md).
 
 ## Tablas, filas y claves en un comercio
 
@@ -32,7 +34,8 @@ Cada tipo de cosa es una tabla: `clientes`, `productos`, `pedidos` e `items_pedi
 un caso (un cliente, un pedido) y cada columna, un dato con un tipo fijo (un número, un texto, una
 fecha). Todas las filas de una tabla tienen las mismas columnas.
 
-Las claves conectan las tablas:
+Las claves conectan las tablas (qué es cada una según Codd, y cómo una clave mal elegida rompe el
+modelo, está en [modelo relacional](../../Datos/Modelado-y-almacenamiento/modelo-relacional.md#claves-cómo-una-fila-se-identifica-y-apunta-a-otra)):
 
 - La **clave primaria** identifica cada fila. En PostgreSQL, una clave primaria es única y no nula
   a la vez: no puede haber dos pedidos con el mismo número ni un pedido sin número.

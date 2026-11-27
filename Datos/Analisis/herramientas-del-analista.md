@@ -31,6 +31,8 @@ Implementan las fases de preparar, limpiar y analizar del [análisis](analisis.m
 [análisis exploratorio](analisis-exploratorio.md). Las herramientas para mostrar resultados, como
 Power BI, están en la ficha [herramientas de BI](../Visualizacion-y-BI/herramientas-de-bi.md); los motores
 donde viven las tablas grandes, en [motores analíticos](../Modelado-y-almacenamiento/motores-analiticos.md).
+La planilla como herramienta de trabajo es el tema [Planillas de cálculo](../../Planillas-de-calculo/planillas-de-calculo.md),
+y SQL como lenguaje, la vertical [SQL](../../Bases-de-datos/SQL/sql.md) de Bases de datos.
 
 Copiado de las páginas oficiales el 2026-11-27, salvo JupyterLab, que sale de un resumen.
 
@@ -38,8 +40,8 @@ Copiado de las páginas oficiales el 2026-11-27, salvo JupyterLab, que sale de u
 
 | Herramienta | Para qué la usa el analista | Versión al 2026-11-27 | Fuente |
 |---|---|---|---|
-| Planilla (Excel, Google Sheets) | Tablas chicas, cuentas rápidas, compartir con quien no programa | Sin verificar | — |
-| PostgreSQL | Practicar y consultar SQL sobre una base real | 19, lanzada el 2026-11-19 según el banner de su documentación | [postgresql.org](https://www.postgresql.org/docs/current/) |
+| Planilla (Excel, Google Sheets) | Tablas chicas, cuentas rápidas, compartir con quien no programa | Versiones y límites de tamaño en la ficha de Planillas | [aplicaciones de planillas](../../Planillas-de-calculo/aplicaciones-de-planillas.md) |
+| PostgreSQL | Practicar y consultar SQL sobre una base real | 19, lanzada el 2026-11-19 según el banner de su documentación; las series con soporte, en la ficha [motores de bases de datos](../../Bases-de-datos/Elegir-una-base/motores-de-bases-de-datos.md) | [postgresql.org](https://www.postgresql.org/docs/current/) |
 | Python | Lenguaje para limpiar y analizar con código repetible | 3.15.2 (2026-10-25); 3.15 salió el 2026-10-09 | [python.org](https://www.python.org/downloads/) |
 | pandas | Tablas en Python: leer, limpiar, agrupar, unir | 3.1.1 (2026-11-04); 3.1.0 del 2026-10-22 | [pandas, What's new](https://pandas.pydata.org/docs/whatsnew/index.html) |
 | JupyterLab | Cuadernos que mezclan código, tablas y gráficos | 4.5.6 (2026-03-11) es la más nueva encontrada; puede haber una posterior | [changelog](https://jupyterlab.readthedocs.io/en/4.6.x/getting_started/changelog.html), baja confianza |
@@ -84,7 +86,8 @@ pide Power Query para preparar datos y DAX para calcular.
 No hay una comparación con método publicada entre planilla, SQL y Python. El criterio que sigue
 es de esta base:
 
-- Planilla: cuando los datos entran en una hoja, el análisis se hace una vez y lo tiene que
+- Planilla: cuando los datos entran en una hoja (los límites de tamaño están en
+  [aplicaciones de planillas](../../Planillas-de-calculo/aplicaciones-de-planillas.md#límites-de-tamaño)), el análisis se hace una vez y lo tiene que
   revisar alguien que no programa.
 - SQL: cuando los datos ya están en una base, hay que unir tablas o el mismo análisis se repite
   cada semana.
@@ -92,5 +95,5 @@ es de esta base:
   estadística y gráficos que la planilla no da.
 
 > [!NOTE]
-> Sin fuente todavía: versiones y límites de filas de Excel y Google Sheets, la versión vigente de
-> DuckDB (su página no respondió) y una comparación con método entre planilla, SQL y Python.
+> Sin fuente todavía: la versión vigente de DuckDB (su página no respondió) y una comparación con
+> método entre planilla, SQL y Python.

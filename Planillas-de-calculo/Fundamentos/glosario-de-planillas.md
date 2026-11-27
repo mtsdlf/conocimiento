@@ -63,7 +63,7 @@ Las definiciones se apoyan en la documentación de Microsoft y de Google cuando 
 
 | Término | Inglés | Qué es | Dónde se trata |
 |---|---|---|---|
-| Datos ordenados | tidy data | Una fila por registro y una columna por variable, sin celdas combinadas | [Datos ordenados](../Datos-en-la-planilla/datos-ordenados.md) |
+| Datos ordenados | tidy data | Una fila por registro y una columna por variable, sin celdas combinadas | [Datos ordenados](../Datos-en-la-planilla/datos-ordenados.md); la regla general de Wickham, en [limpieza de datos](../../Datos/Analisis/limpieza-de-datos.md#datos-ordenados-una-variable-una-columna) |
 | Tabla estructurada | table, Excel table | En el tema no se dice "tabla" a secas, porque nombra tres cosas distintas ([datos en la planilla](../Datos-en-la-planilla/datos-en-la-planilla.md)). En Excel, un rango con nombre y encabezados que crece solo y admite columnas calculadas; en Sheets existen desde 2024 (Formato, Convertir en tabla). No es una tabla dinámica | [Tabla estructurada](../Datos-en-la-planilla/tabla-estructurada.md) |
 | Referencia estructurada | structured reference | La forma de nombrar una columna de una tabla en una fórmula, como `Ventas[Importe]` | [Tabla estructurada](../Datos-en-la-planilla/tabla-estructurada.md) |
 | Validación de datos | data validation | Reglas que limitan qué se puede cargar en una celda, como una lista desplegable | [Validación de datos](../Datos-en-la-planilla/validacion-de-datos.md) |

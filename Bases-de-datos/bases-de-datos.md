@@ -33,8 +33,11 @@ simultáneas. El paso de una a otra está en [cuándo pasar a una base](../Plani
 
 El tema se queda del lado de quien construye un sistema y tiene que elegir, consultar y modificar
 su base. Cómo está hecho el motor por dentro (páginas, árboles B, registro de escrituras) y la
-operación fina quedan afuera. El análisis de datos, los almacenes analíticos y SQL para análisis
-están en [Datos](../Datos/datos.md); los servicios de bases de Azure, en
+operación fina quedan afuera. El análisis de datos está en [Datos](../Datos/datos.md): el uso de
+SQL del analista, con el grano de cada tabla, en [SQL para análisis](../Datos/Analisis/sql-para-analisis.md);
+la teoría del modelo relacional, en [modelo relacional](../Datos/Modelado-y-almacenamiento/modelo-relacional.md);
+la base de la aplicación contra la base para analizar, en [OLTP y OLAP](../Datos/Modelado-y-almacenamiento/oltp-y-olap.md),
+y los almacenes analíticos, en [almacenes analíticos](../Datos/Modelado-y-almacenamiento/almacenes-analiticos.md). Los servicios de bases de Azure, en
 [Almacenamiento y bases de datos en Azure](../Cloud/Datos-operacionales/almacenamiento-y-bases-de-datos-en-azure.md);
 cómo varios clientes comparten una base, en [Multi-tenancy](../Arquitectura/Sistemas-distribuidos/multi-tenancy.md).
 
