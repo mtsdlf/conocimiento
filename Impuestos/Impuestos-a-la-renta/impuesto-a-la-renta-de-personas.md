@@ -30,14 +30,14 @@ La CEPAL describe el caso latinoamericano: el impuesto a la renta de las persona
 
 La unidad de imposición es sobre quién se calcula la base: la persona, el matrimonio o la familia. El FMI dice que muchos teóricos prefieren a la persona, pero que «there is no consensus on the issue», y que los sistemas que existen salen de la historia y la política. Da una razón práctica a favor del individuo: si no hay que sumar el ingreso del cónyuge, es mucho más fácil que la retención sobre el sueldo sea definitiva.
 
-En América Latina la declaración individual es la regla, según la CEPAL, y evita que el segundo ingreso de un hogar empiece a pagar en la tasa más alta del primero. La familia entra igual, pero como deducción: el contribuyente resta un monto por el cónyuge o por cada hijo a cargo.
+En América Latina la declaración individual es la regla, según la CEPAL, y evita el sesgo de género de la tributación conjunta. El FMI explica ese sesgo: si los ingresos se suman, el segundo ingreso del hogar empieza a pagar en la tasa marginal del primero. Con la persona como unidad, la familia puede entrar como deducción; en la Argentina, el contribuyente resta un monto por el cónyuge y por cada hijo a cargo.
 
 ## Mínimo no imponible, deducciones y escala
 
 El impuesto se calcula en tres pasos. Se suman las ganancias netas de la persona, se restan el mínimo no imponible y las deducciones personales, y a lo que queda se le aplica la escala.
 
 - **El mínimo no imponible** es lo que nadie paga: por debajo de ese monto el impuesto es cero.
-- **Las deducciones personales** reconocen la situación de cada uno: cargas de familia, aportes jubilatorios, a veces gastos de salud o vivienda, y en algunos países una deducción especial para quien trabaja por su cuenta.
+- **Las deducciones personales** reconocen la situación de cada uno: las cargas de familia y, en la Argentina, una deducción especial para quien trabaja por su cuenta. Qué otras deducciones admite cada país no se relevó.
 - **La escala progresiva** cobra más sobre cada tramo de ganancia. Para el FMI, un impuesto es progresivo si la parte del ingreso que se paga sube con el ingreso, y eso se logra con una escala de varias tasas o con una tasa única más un mínimo exento. El manual sugiere pocas tasas: fuera del tramo cero, «no more than three or four positive rates».
 
 La escala separa dos tasas que se confunden. La tasa marginal es la del último tramo alcanzado: lo que paga el próximo peso ganado. La tasa media es el impuesto total dividido la ganancia. Una persona que llega al tramo del 19 % puede pagar en promedio el 12 % de su ganancia sujeta a impuesto, porque los primeros tramos pagan menos (las definiciones son las de uso corriente; el ejemplo con números está en [Ganancias de personas humanas en Argentina](ganancias-de-personas-humanas-en-argentina.md#la-escala-del-artículo-94)).
@@ -48,7 +48,7 @@ Los tramos y las deducciones se fijan en moneda. Con inflación, si nadie los ac
 
 El empleado y el que trabaja por su cuenta llegan al impuesto por caminos distintos.
 
-- **El empleado.** «Almost all countries collect the income tax payable on employment income (PAYE) on a current basis by withholding at source by the employer», dice el FMI. Si la retención es definitiva, el empleado no presenta declaración. El FMI agrega que, cuanto más gastos se dejan deducir al empleado, más difícil es usar esa retención como impuesto final. En la base, el empleador como agente está en [recaudación en la fuente](../Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md#retención-sobre-sueldos) y el cálculo en el recibo, en [retención de impuestos sobre sueldos](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md).
+- **El empleado.** «Almost all countries collect the income tax payable on employment income (PAYE) on a current basis by withholding at source by the employer», dice el FMI. En los países donde la retención es definitiva, según el mismo manual, la mayoría de los empleados no presentan declaración; si cambia de empleador o el sueldo varía, puede hacer falta que la presenten. El FMI agrega que, cuanto más gastos se dejan deducir al empleado, más difícil es usar esa retención como impuesto final. En la base, el empleador como agente está en [recaudación en la fuente](../Recaudacion-en-la-fuente/recaudacion-en-la-fuente.md#retención-sobre-sueldos) y el cálculo en el recibo, en [retención de impuestos sobre sueldos](../../Administracion-de-personal-y-nomina/Cargas-y-declaraciones/retencion-de-impuestos-sobre-sueldos.md).
 - **El que trabaja por su cuenta.** Un profesional, un oficio o un comerciante que factura a su nombre resta los gastos de su actividad, y eso no lo puede calcular un tercero. Por eso declara una vez por año. Sus clientes pueden retenerle a cuenta al pagarle, y él resta esas retenciones en su declaración ([pagos a cuenta](../Recaudacion-en-la-fuente/pagos-a-cuenta.md)).
 - **El que tiene rentas del capital.** Los intereses y dividendos suelen pagar con una retención definitiva o con una tasa cedular, como dice el FMI de los sistemas globales que se volvieron en parte cedulares.
 

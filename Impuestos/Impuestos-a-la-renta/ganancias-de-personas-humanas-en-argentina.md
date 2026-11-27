@@ -68,11 +68,11 @@ El sistema es mixto. Las cuatro categorías se suman y pagan con la escala progr
 | Venta de acciones que no cotizan o no cumplen la exención | 15 % | 98, inc. c |
 | Venta de inmuebles | 15 %, sobre el precio menos el costo actualizado y los gastos | 99 |
 
-Para el dividendo, la retención es «pago único y definitivo» si quien cobra no está inscripto (art. 97); es la segunda capa que describe [Ganancias en Argentina](ganancias-en-argentina.md#dividendos). Las rentas de los arts. 95 y 98, incs. a y b, tienen una deducción especial igual a la ganancia no imponible, repartida entre ellas (art. 100). La Ley 27.743 no tocó estas alícuotas; derogó otro cedular, el de los altos sueldos (art. 75).
+Para el dividendo, la retención es «pago único y definitivo» si quien cobra no está inscripto (art. 97); es la segunda capa que describe [Ganancias en Argentina](ganancias-en-argentina.md#dividendos). Las rentas de los arts. 95 y 98, incs. a y b, tienen una deducción especial igual a la ganancia no imponible, repartida entre ellas (art. 100). En el texto consolidado de ARCA estas alícuotas no figuran modificadas por la Ley 27.743, que derogó otro cedular, el de los altos sueldos (art. 75).
 
 ## Las deducciones del artículo 30
 
-A las ganancias netas de la escala se les restan las deducciones personales. Los montos de la ley son de junio de 2024 y desde 2025 se actualizan por IPC en enero y julio (art. 30, según la Ley 27.743). Los importes para la declaración anual, como los publica ARCA:
+A las ganancias netas de la escala se les restan las deducciones personales. Los montos de la ley son de junio de 2024 y desde 2025 se actualizan por IPC en enero y julio (art. 30, según la Ley 27.743). Los importes de «liquidación anual» que publica ARCA (que sean los de la declaración anual de la persona es lectura de esta base: ARCA los titula como del régimen de retención y los enlaza desde la página de la declaración):
 
 | Deducción (art. 30) | Período 2025 | Período 2026 |
 |---|---|---|
@@ -85,15 +85,15 @@ A las ganancias netas de la escala se les restan las deducciones personales. Los
 
 Fuente: PDF de ARCA «Deducciones personales art. 30, liquidación anual» de cada período, leídos el 2026-11-27, con la leyenda «Actualización por IPC INDEC». Los importes de la retención mensual de cada semestre son otros, más bajos (por ejemplo, 5.585.736,93 de ganancia no imponible en el semestre de julio a diciembre de 2026), y cómo se pasa de uno a otro no quedó leído.
 
-La deducción especial es la que separa a quien trabaja por su cuenta. La ley la da a las ganancias de tercera categoría de quien trabaja personalmente en su empresa y a las de cuarta del art. 82 que no son sueldos, «hasta» la ganancia no imponible incrementada en 2,5 veces (3 veces para los nuevos). Los importes de ARCA dan exactamente 3,5 y 4 veces la ganancia no imponible (cuenta de esta base). Tiene tres condiciones:
+La deducción especial es la que separa a quien trabaja por su cuenta. La ley la da a las ganancias de tercera categoría de quien trabaja personalmente en su empresa y a las de cuarta del art. 82 que no son sueldos, «hasta» la ganancia no imponible incrementada en 2,5 veces (3 veces para los nuevos). Los importes de ARCA dan 3,5 y 4 veces la ganancia no imponible, con dos centavos de diferencia en 2026 por redondeo (cuenta de esta base). Tiene tres condiciones:
 
-- **Aportes de autónomo pagos.** Es «condición indispensable» pagar los aportes al SIPA como trabajador autónomo (art. 30, inc. c). El reglamento pide que los de enero a diciembre estén ingresados hasta el vencimiento general de la declaración, o en un plan de pagos, y que coincidan con la categoría declarada (Decreto 862/2019, art. 98). Qué son esos aportes es de Emprender.
+- **Aportes de autónomo pagos.** Es «condición indispensable» pagar los aportes al SIPA como trabajador autónomo (art. 30, inc. c). El reglamento pide que los de enero a diciembre estén ingresados hasta el vencimiento general de la declaración, o en un plan de pagos, y que coincidan con la categoría declarada (Decreto 862/2019, art. 98). Qué son esos aportes y cómo se empieza a pagarlos es de [Legal e impuestos](../../Emprender/Legal-e-impuestos/legal-e-impuestos.md), en Emprender.
 - **Nuevos profesionales y emprendedores.** Son los que tienen «hasta TRES (3) años de antigüedad en la matrícula» o desde su inscripción como independientes (Decreto 862/2019, art. 99).
 - **Cargas de familia.** Se deducen solo si el familiar no gana en el año más que la ganancia no imponible, y solo las toma «el pariente más cercano que tenga ganancias imponibles» (art. 30, inc. b). Se cuentan por mes entero (art. 31).
 
 ## La escala del artículo 94
 
-La escala tiene nueve tramos, del 5 % al 35 %, y se ajusta con el mismo IPC semestral que las deducciones (art. 94, según la Ley 27.743, art. 73). Para la declaración anual del período 2026, que se presenta en 2027, según el PDF de ARCA:
+La escala tiene nueve tramos, del 5 % al 35 %, y se ajusta con el mismo IPC semestral que las deducciones (art. 94, según la Ley 27.743, art. 73). Para el período 2026, según el PDF de ARCA de «liquidación anual y final» (con la misma salvedad que las deducciones):
 
 | Ganancia neta sujeta a impuesto, más de $ | a $ | Pagarán $ | Más el % | Sobre el excedente de $ |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ Desde el período 2025 existe una declaración jurada simplificada (Ley 27.799, 
 
 Durante el año, la persona va pagando a cuenta de dos maneras.
 
-- **Retenciones.** Cada cliente que es agente le retiene al pagarle. A un profesional o un oficio le corresponde el código 119 de la RG 830, con su escala propia, y a una locación de servicios, el 2 % si está inscripto ([Anexo VIII de la RG 830](../Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md#anexo-viii-de-la-rg-830)). Si ARCA lo marcó y factura A con leyenda, el cliente inscripto en IVA le retiene además el 6 % de Ganancias y todo el IVA ([factura A con leyenda en Argentina](../Recaudacion-en-la-fuente/factura-a-con-leyenda-en-argentina.md)). Todo se resta en la declaración del año, con los certificados que entregó cada agente ([pagos a cuenta](../Recaudacion-en-la-fuente/pagos-a-cuenta.md)).
+- **Retenciones.** Cada cliente que es agente le retiene al pagarle. Según el Anexo VIII de la RG 830, a un profesional o un oficio le corresponde el código 119, con su escala propia, y a una locación de servicios, el 2 % si está inscripto ([retenciones y percepciones en Argentina](../Recaudacion-en-la-fuente/retenciones-y-percepciones-en-argentina.md#anexo-viii-de-la-rg-830)). Si ARCA lo marcó y factura A con leyenda, el cliente inscripto en IVA le retiene, en lugar de eso, el 6 % de Ganancias (o lo de la RG 830, si da más) y todo el IVA ([factura A con leyenda en Argentina](../Recaudacion-en-la-fuente/factura-a-con-leyenda-en-argentina.md)). Todo se resta en la declaración del año, con los certificados que entregó cada agente ([pagos a cuenta](../Recaudacion-en-la-fuente/pagos-a-cuenta.md)).
 - **Anticipos.** Paga «CINCO (5) anticipos» del «VEINTE POR CIENTO (20%)» cada uno (RG 5211, arts. 2 y 3, según la RG 5685/2025), en agosto, octubre y diciembre del año siguiente al que se toma de base, y en febrero y abril del otro (ARCA). La base es el impuesto del año anterior, recalculado con la ganancia actualizada por el IPC de julio a diciembre y la escala del año, menos las retenciones y percepciones de ese año que no sean definitivas. No se paga un anticipo menor de $ 5.000 (ARCA). Quien solo tuvo ganancias con retención definitiva no paga anticipos (RG 5211, art. 2).
 
 La RG 5685/2025 pasó a nueve anticipos del 11,11 %, pero solo para las sociedades; las personas humanas siguen con cinco del 20 %. Un resumen de buscador lo había leído al revés.

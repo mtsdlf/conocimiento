@@ -86,15 +86,15 @@ Otros fiscos persiguen el mismo riesgo con otras herramientas:
 | Herramienta | Qué hace el comprador | Qué activa la regla | Ejemplo |
 |---|---|---|---|
 | Retención por calificación del emisor | retiene el impuesto al pagar y lo deposita a nombre del vendedor | la marca que el fisco le puso a ese vendedor, visible en la factura o en un padrón | Argentina, [factura A con leyenda](factura-a-con-leyenda-en-argentina.md) |
-| Inversión del sujeto pasivo (*reverse charge*) doméstica | pasa a ser el deudor del IVA de la compra | el sector de la operación, para todos los vendedores | Directiva 2006/112/CE de la UE, arts. 199 y 199 bis |
-| Mecanismo de reacción rápida | lo mismo, por un tiempo corto | un fraude «repentino y masivo» en un sector | Directiva 2006/112/CE, art. 199 ter, hasta «nueve meses» |
+| Inversión del sujeto pasivo (*reverse charge*) doméstica | pasa a ser el deudor del IVA de la compra | el tipo de operación o el sector, sin mirar al vendedor concreto | Directiva 2006/112/CE de la UE, arts. 199 y 199 bis |
+| Mecanismo de reacción rápida | lo mismo, por un tiempo corto | «modalidades de fraude repentino y masivo» | Directiva 2006/112/CE, art. 199 ter, hasta «nueve meses» |
 | Pago fraccionado (*split payment*) | paga el IVA a una cuenta separada del vendedor, de uso restringido | el sector (acero, chatarra, electrónica, oro, combustibles, entre otros) | Polonia, Decisión de Ejecución (UE) 2019/310 |
 
-En la UE el art. 199 bis deja aplicar la inversión a teléfonos móviles, circuitos integrados, consolas, cereales, metales, gas, electricidad y derechos de emisión, entre otros, «Hasta el 31 de diciembre de 2026» (texto consolidado al 1 de enero de 2024; no se verificó si se prorrogó). Polonia justificó su pago fraccionado diciendo que así «it is better guaranteed that the tax authorities will receive the whole VAT amount» (Decisión 2019/310), y la Decisión 2025/373 lo prorrogó hasta el 29 de febrero de 2028.
+En la UE el art. 199 bis deja aplicar la inversión a teléfonos móviles, circuitos integrados, consolas, cereales, metales, gas, electricidad y derechos de emisión, entre otros, «Hasta el 31 de diciembre de 2026» (texto consolidado al 1 de enero de 2024; al 27 de noviembre de 2026 ese plazo vence en un mes y no se verificó si se prorrogó). Polonia justificó su pago fraccionado diciendo que así «it is better guaranteed that the tax authorities will receive the whole VAT amount» (Decisión 2019/310), y la Decisión 2025/373 lo prorrogó hasta el 29 de febrero de 2028.
 
 La diferencia que importa para un sistema: la inversión y el pago fraccionado miran el sector, y la retención por calificación mira al vendedor concreto, que puede cambiar de condición de un período a otro (lectura de esta base sobre las normas citadas). Por eso esa condición se consulta antes de cada pago, como dice [agente de recaudación](agente-de-recaudacion.md).
 
-El costo cae sobre el vendedor marcado, que adelanta casi todo su IVA y acumula saldo a favor, y sobre el comprador, que calcula, retiene, deposita e informa, y responde si no lo hace. El documento del FMI citado en la sección anterior lo dice de las retenciones de IVA en general: «refund claims can proliferate». No se encontró una medición de cuánto fraude evita este tipo de retención.
+El costo cae sobre el vendedor marcado, que adelanta todo el IVA que factura y acumula saldo a favor, y sobre el comprador, que calcula, retiene, deposita e informa, y responde si no lo hace. El documento del FMI citado en la sección anterior lo dice de las retenciones de IVA en general: los pedidos de devolución «can proliferate», sobre todo «if withholding rates are set too high». No se encontró una medición de cuánto fraude evita este tipo de retención.
 
 ## Retención sobre sueldos
 

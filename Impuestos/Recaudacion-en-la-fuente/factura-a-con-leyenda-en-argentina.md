@@ -40,18 +40,18 @@ El nombre ya existía con otra tasa, y eso confunde al leer material viejo:
 
 | Período | Comprobante | Retención de IVA | Retención de Ganancias | Norma |
 |---|---|---|---|---|
-| 2003 a 2019 | M | 100 % de la alícuota | 3 % | RG 1575, arts. 12 y 13 (con un mínimo de $ 1.000 netos) |
+| desde 2003 (texto original) | M | 100 % de la alícuota | 3 % | RG 1575, arts. 12 y 13 (con un mínimo de $ 1.000 netos) |
 | noviembre de 2019 a noviembre de 2025 | M | 100 % | 6 % | RG 4627, art. 13 |
 | noviembre de 2019 a noviembre de 2025 | A con leyenda «OPERACIÓN SUJETA A RETENCIÓN» | 50 % | 3 % | RG 4627, art. 13 |
 | desde el 1 de diciembre de 2025 | A con leyenda «OPERACIÓN SUJETA A RETENCIÓN» | 100 % | 6 % | RG 5762, art. 13 |
 
-Las RG 5569 y 5716, que la RG 5762 también abrogó, no se leyeron: si cambiaron las tasas entre 2019 y 2025 no quedó verificado.
+Las RG 1672, 1681, 1934, 1941 y 2499 (que modificaron la RG 1575) y las RG 5569 y 5716, todas abrogadas por la RG 5762, no se leyeron: si cambiaron las tasas antes de 2019 o entre 2019 y 2025 no quedó verificado.
 
 ## Quién queda marcado y cómo sale
 
 Al pedir por primera vez la autorización para emitir A, el responsable inscripto tiene que cumplir tres requisitos (art. 3): no caer en las causales de la RG 4132, acreditar solvencia patrimonial (art. 4) y no haber pedido la baja de IVA en los 12 meses anteriores estando habilitado a emitir M o A con leyenda. Si cumple todo, emite A. Si falla alguno, emite A con leyenda (art. 5).
 
-- **Solvencia de una persona humana** (art. 4): haber presentado Bienes Personales de los dos últimos períodos, con bienes por encima del mínimo no imponible, o tener inmuebles o automotores por más del 6 % de ese mínimo. En las sociedades se mira a quienes forman la voluntad social (al menos el 33 %) o a la entidad.
+- **Solvencia de una persona humana** (art. 4): haber presentado el impuesto sobre los Bienes Personales ([impuestos en Argentina](../impuestos-en-argentina.md)) de los dos últimos períodos, dentro de los 30 días corridos del vencimiento, con bienes por encima del mínimo no imponible y bienes en el país (sin efectivo ni artículos del hogar) por más del 15 % de ese mínimo, o tener inmuebles o automotores por más del 6 % de ese mínimo. En las sociedades se mira a quienes forman la voluntad social (al menos el 33 %) o a la entidad.
 - **Causales de la RG 4132** (art. 2, según la RG 5764): «Inconsistencias en la relación entre los montos facturados y la capacidad técnico-económica» o «Irregularidades o incumplimientos vinculados a las obligaciones fiscales», con los parámetros de un anexo que no se leyó.
 - **Opción de CBU** (arts. 5 y 20): quien falla solo en la solvencia puede optar, al pedir la autorización y no después, por la A con leyenda «PAGO EN CBU INFORMADA». Sus compradores le pagan por transferencia o depósito a la cuenta que informó (art. 22), y este régimen no le retiene.
 
@@ -73,12 +73,12 @@ Un ejemplo con números redondos, como lectura de esta base sobre el art. 13 y n
 
 ## Lo que le pasa a quien la emite
 
-Para el vendedor marcado, la retención es un [pago a cuenta](pagos-a-cuenta.md), pero le adelanta casi todo el IVA de la venta.
+Para el vendedor marcado, la retención es un [pago a cuenta](pagos-a-cuenta.md), pero le adelanta todo el IVA que facturó.
 
-- **IVA.** Lo retenido «tendrá para los responsables el carácter de impuesto ingresado» y se computa en la declaración del período en que lo sufrió; si queda saldo a favor, es de «ingreso directo» (art. 17), el que la ley deja compensar o pedir en devolución.
+- **IVA.** Lo retenido «tendrá para los responsables el carácter de impuesto ingresado» y se computa en la declaración del período en que lo sufrió; si queda saldo a favor, es de «ingreso directo» y se usa como dice el art. 24, segundo párrafo, de la ley de IVA, al que remite el art. 17 (ese artículo de la ley no se leyó).
 - **Ganancias.** Se deduce como dice el último párrafo del art. 41 de la RG 830 (art. 18 de la RG 5762), que permite usarlo al determinar los anticipos del período siguiente. Cómo lo toma una persona humana en su declaración está en [Ganancias de personas humanas en Argentina](../Impuestos-a-la-renta/ganancias-de-personas-humanas-en-argentina.md#lo-que-le-retuvieron-y-lo-que-adelantó).
-- **Sin exclusión.** No puede oponer el certificado de exclusión de Ganancias del art. 38 de la RG 830 ni la exclusión de IVA de la RG 2226 (art. 19). Tampoco puede pedirlos: la RG 830 lo excluye en su Anexo VI, A, inciso e), y la RG 2226 en su art. 3, inciso f), los dos todavía con el nombre «clase M».
-- **Cómo la emite.** La leyenda va junto a la letra A, en la cabecera (art. 10), y no se puede emitir con controlador fiscal (art. 11); va por factura electrónica. La RG 5764 le asigna códigos de comprobante propios.
+- **Sin exclusión.** No puede oponer el certificado de exclusión de Ganancias del art. 38 de la RG 830 ni la exclusión de IVA de la RG 2226 (art. 19). Tampoco puede pedirlos: la RG 830 lo excluye en su Anexo VI, A, inciso e), que todavía dice «clase "M"», y la RG 2226 en su art. 3, inciso f), que dice «clase "M" o clase "A" con la leyenda "Obligación Sujeta a Retención"».
+- **Cómo la emite.** La leyenda va junto a la letra A, en la cabecera (art. 10), y no se puede emitir con controlador fiscal (art. 11); va por factura electrónica, salvo contingencias, para las que admite talonarios de hasta 100 comprobantes. La RG 5764 le asigna códigos de comprobante propios.
 
 Como el vendedor cobra el neto menos el 6 % y el comprador deposita todo su IVA, sus compras siguen generándole crédito fiscal que ya no tiene débito contra el cual usar: el saldo a favor crece cada mes (inferencia de esta base sobre los arts. 13 y 17). El costo general de ese saldo está en [pagos a cuenta](pagos-a-cuenta.md).
 
@@ -86,7 +86,7 @@ Como el vendedor cobra el neto menos el 6 % y el comprador deposita todo su IVA,
 
 La RG 830 no tiene un capítulo para la factura M ni para la A con leyenda. El régimen es propio de la RG 5762 y toca a la RG 830 en tres puntos: la regla de la retención mayor (art. 12 de la RG 5762 y art. 43 de la RG 830), el uso de lo retenido en los anticipos (art. 41) y la exclusión que no se puede pedir ni oponer (art. 38 y Anexo VI). La RG 2226 solo aparece por la exclusión de IVA.
 
-La retención de IVA de la RG 2854 tiene una idea parecida: el agente consulta un archivo de proveedores y, según la categoría que les puso ARCA, retiene el 100 % (art. 9). Una de esas categorías todavía se llama «Retención Sustitutiva 100 % RG 2.854 - RG 1575 - HABILITADO FACTURA M». Cómo se evita retener dos veces por los dos regímenes no quedó verificado.
+La retención de IVA de la RG 2854 tiene una idea parecida: el agente consulta un archivo de proveedores y, para ciertas categorías que les puso ARCA, retiene el 100 % (art. 9). La consulta muestra además una categoría «Retención Sustitutiva 100 % RG 2.854 - RG 1575 - HABILITADO FACTURA M», que no figura entre las que el art. 9 lleva al 100 %. Cómo conviven los dos regímenes y cómo se evita retener dos veces no quedó verificado.
 
 ## Lo que no se verificó
 
