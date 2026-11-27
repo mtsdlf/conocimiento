@@ -37,8 +37,8 @@ flowchart LR
 - [Registro](Registro/registro-contable.md): la partida doble, el plan de cuentas, el asiento y los libros, el devengado y las cuentas corrientes de clientes y proveedores. Entrá acá primero: todo lo demás supone este mecanismo.
 - [Operaciones](Operaciones/operaciones.md): cómo se registran las ventas, las compras, los gastos de empleados, el costo de lo vendido, los activos fijos y su amortización, y las operaciones en moneda extranjera. Entrá acá cuando tengas que saber qué asiento sale de un documento.
 - [Estados contables](Estados-contables/estados-contables.md): el balance, el estado de resultados, el de flujo de efectivo, los ajustes de cierre y las normas que dicen cómo se presentan. Entrá acá para leer un balance o para saber qué tiene que poder emitir un registro.
-- [Contabilidad de gestión](Contabilidad-de-gestion/contabilidad-de-gestion.md): costos y costeo, punto de equilibrio, presupuesto y centros de costo. Entrá acá cuando la pregunta sea para decidir adentro y no para informar afuera.
-- [Control interno](Control-interno/control-interno.md): separación de funciones, conciliaciones (la bancaria incluida), autorizaciones, auditoría y fraude. Entrá acá para saber qué tiene que impedir o detectar el registro.
+- [Contabilidad de gestión](Contabilidad-de-gestion/contabilidad-de-gestion.md): clasificación de costos, sistemas de costeo, punto de equilibrio, presupuesto y centros de costo. Entrá acá cuando la pregunta sea para decidir adentro y no para informar afuera.
+- [Control interno](Control-interno/control-interno.md): separación de funciones, conciliaciones (la bancaria incluida), autorizaciones, controles sobre los sistemas, auditoría y fraude. Entrá acá para saber qué tiene que impedir o detectar el registro.
 
 ## Dónde termina la contabilidad
 
@@ -55,12 +55,13 @@ El límite con cada vecino sigue una regla: cada dominio es dueño de un objeto 
 - Si tenés que diseñar cómo un sistema registra ventas y cobros: [partida doble](Registro/partida-doble.md), [devengado](Registro/devengado.md), [ingresos y cuentas a cobrar](Operaciones/ingresos-y-cuentas-a-cobrar.md) y [cuentas corrientes](Registro/cuentas-corrientes.md).
 - Si tenés que armar o revisar un plan de cuentas: [plan de cuentas](Registro/plan-de-cuentas.md) y [centros de costo](Contabilidad-de-gestion/centros-de-costo.md), que dice qué va en dimensiones en lugar de cuentas.
 - Si tenés que modelar compras, facturas de proveedores y pagos: [compras y cuentas a pagar](Operaciones/compras-y-cuentas-a-pagar.md), [separación de funciones](Control-interno/separacion-de-funciones.md) y [autorizaciones](Control-interno/autorizaciones.md).
+- Si tenés que decidir qué controles tiene que traer un sistema (permisos, cambios, registro de quién hizo qué): [controles sobre los sistemas](Control-interno/controles-sobre-sistemas.md) y [separación de funciones](Control-interno/separacion-de-funciones.md).
 - Si tenés que valuar el stock o calcular el costo de lo vendido: [costo de lo vendido](Operaciones/costo-de-lo-vendido.md).
 - Si tenés que llevar las máquinas, vehículos o equipos de una empresa: [activos fijos y amortización](Operaciones/activos-fijos-y-amortizacion.md).
 - Si tenés que resolver los gastos de empleados y la caja chica: [gastos y rendiciones](Operaciones/gastos-y-rendiciones.md).
 - Si tenés que entender o emitir un balance: [estados contables](Estados-contables/estados-contables.md), [balance](Estados-contables/balance.md), [estado de resultados](Estados-contables/estado-de-resultados.md) y [estado de flujo de efectivo](Estados-contables/estado-de-flujo-de-efectivo.md).
 - Si tenés que preparar un cierre de mes: [ajustes de cierre](Estados-contables/ajustes-de-cierre.md) y [conciliaciones](Control-interno/conciliaciones.md); el recorrido entre áreas no tiene nota todavía (va a estar en Procesos de negocio).
-- Si tenés que calcular cuánto vender para no perder o fijar un precio desde el costo: [punto de equilibrio](Contabilidad-de-gestion/punto-de-equilibrio.md) y [costos y costeo](Contabilidad-de-gestion/costos-y-costeo.md).
+- Si tenés que calcular cuánto vender para no perder o fijar un precio desde el costo: [punto de equilibrio](Contabilidad-de-gestion/punto-de-equilibrio.md), [clasificación de costos](Contabilidad-de-gestion/clasificacion-de-costos.md) y [sistemas de costeo](Contabilidad-de-gestion/sistemas-de-costeo.md).
 - Si tenés que armar un presupuesto y seguir sus desvíos: [presupuesto](Contabilidad-de-gestion/presupuesto.md).
 - Si tenés que operar con varias monedas: [moneda extranjera](Operaciones/moneda-extranjera.md); varias empresas, en la sección de consolidación de [normas contables](Estados-contables/normas-contables.md).
 - Si tenés que saber qué exige la ley argentina: [libros contables en Argentina](Registro/libros-contables-en-argentina.md) y [normas contables en Argentina](Estados-contables/normas-contables-en-argentina.md).

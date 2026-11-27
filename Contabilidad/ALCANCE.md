@@ -53,7 +53,7 @@ Contabilidad/
     activos-fijos-y-amortizacion    capitalizar o gastar, vida útil, métodos de amortización, baja y resultado de venta
     moneda-extranjera               moneda funcional, conversión y diferencia de cambio
   Estados-contables/              cómo el registro se resume en información para afuera
-    estados-contables               entrada: el juego completo, para quién y cómo se conectan
+    estados-contables               entrada: el juego completo (con cambios en el patrimonio y notas), para quién y cómo se conectan
     balance                         el estado de situación patrimonial: activo, pasivo y patrimonio
     estado-de-resultados            ingresos, costos y gastos de un período, por naturaleza o por función
     estado-de-flujo-de-efectivo     de dónde vino y a dónde fue la caja; método directo e indirecto
@@ -62,15 +62,17 @@ Contabilidad/
     normas-contables-en-argentina   FACPCE y sus resoluciones técnicas, NIIF para cotizantes, ajuste por inflación
   Contabilidad-de-gestion/        la contabilidad para decidir adentro
     contabilidad-de-gestion         entrada: en qué se diferencia de la financiera
-    costos-y-costeo                 clasificar costos; absorción, variable, por órdenes, por procesos, estándar y ABC
+    clasificacion-de-costos         fijo y variable, directo e indirecto, de producto y del período
+    sistemas-de-costeo              por órdenes y por procesos, absorción y variable, estándar y ABC
     punto-de-equilibrio             margen de contribución, punto de equilibrio y margen de seguridad (recibe de Emprender)
-    presupuesto                     presupuesto maestro y flexible, desvíos, y la crítica de Beyond Budgeting
+    presupuesto                     presupuesto maestro y flexible, desvíos (también los del costo estándar) y la crítica de Beyond Budgeting
     centros-de-costo                centros de responsabilidad, prorrateo de indirectos y por qué van en dimensiones
   Control-interno/                cómo se cuida que el registro diga la verdad
     control-interno                 entrada: COSO, controles preventivos y detectivos, la empresa chica
     separacion-de-funciones         autorizar, registrar, custodiar; combinaciones incompatibles y controles compensatorios
     conciliaciones                  la conciliación bancaria paso a paso y la del auxiliar con el mayor
     autorizaciones                  niveles de aprobación, matriz de autorizaciones, numeración correlativa
+    controles-sobre-sistemas        los controles generales de tecnología (COSO, principio 11): accesos, cambios, registro de quién hizo qué
     auditoria-y-fraude              auditoría interna y externa, el triángulo del fraude y cómo se detecta
   Fundamentos/
     fundamentos-de-contabilidad     entrada: historia, escuelas y posiciones contrarias, mitos
@@ -102,6 +104,8 @@ Regla del mapa (#98): cada dominio es dueño de un objeto y un verbo; un saber v
 - **El cierre no es vertical.** Queda como proceso en Procesos de negocio (#99); acá van los ajustes de cierre como componente de Estados contables.
 - **Contabilidad de gestión entra en el tema** aunque el mapa no la nombra, porque APQC 9.1 la pone en finanzas y el punto de equilibrio que recibe de Emprender es de ella. Si se prefiere un tema propio, se puede mover sin tocar las otras verticales.
 - **Lo de Argentina, en dos notas**: los libros obligatorios (en Registro) y las normas contables con el ajuste por inflación (en Estados contables). Lo impositivo de Argentina va al tema Impuestos.
+- **Cambios después de investigar** (2026-11-27): costos y costeo se partió en clasificación y sistemas de costeo, porque la nota quedaba sobrecargada; los desvíos del costo estándar y los del presupuesto son el mismo mecanismo y su dueña es `presupuesto`; Control interno suma `controles-sobre-sistemas`, que COSO trata como principio propio y es lo primero que necesita quien construye software. El estado de cambios en el patrimonio y las notas van en la entrada de Estados contables, sin nota propia. La NIIF 18 reemplaza a la NIC 1 desde el 1 de enero de 2027 y se dice en las notas que la citan.
+- **Huecos que quedan afuera de esta pasada**: las decisiones con costos relevantes (pedido especial, hacer o comprar) y la medición del desempeño, que el campo pone en contabilidad de gestión; se suman con `ampliar`.
 - **Consolidación de varias empresas** va como sección de `normas-contables` y no como nota propia.
 - **Sueldos** no tiene nota: su asiento va como sección de `operaciones`, porque el detalle es de Administración de personal y nómina.
 - **Pendientes para otra sesión**: cuando existan Tesorería, Impuestos, Inventario y Procesos de negocio, sus enlaces se suman a las notas de acá; `Emprender/Finanzas` pasa a enlazar `devengado` y `punto-de-equilibrio` en la sesión 16 (#101).
