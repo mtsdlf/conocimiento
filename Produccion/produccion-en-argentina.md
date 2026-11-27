@@ -62,6 +62,8 @@ El cambio va del permiso previo a la declaración jurada con control posterior, 
 
 ## Qué pide cada rubro para fabricar
 
+En alimentos, el RNE es el registro del establecimiento elaborador y el RNPA, el de cada producto; los dos se explican debajo de la tabla.
+
 | Rubro | Quién habilita la planta | Cómo | Registro por producto | Buenas prácticas |
 |---|---|---|---|---|
 | Alimentos | La autoridad sanitaria de la jurisdicción | Autorización previa; RNE | RNPA | BPM (Res. GMC 80/96); HACCP donde el CAA lo exige |
@@ -144,4 +146,4 @@ Sobre lo que tiene fuente, y como criterio de la base:
 3. Por lote fabricado: los lotes de materia prima y aditivo que entraron y el destino; en medicamentos e implantables, la serie de cada unidad.
 4. Los vencimientos como datos y no como reglas en el código: varias habilitaciones dejaron de vencer en 2025.
 
-> [!NOTE] Sin fuente todavía: el texto oficial completo de la Ley 16.463 y el anexo de la Disp. 4159/2023; si sigue la vigencia de 5 años del RNE; las BPF de cosméticos y domisanitarios; el estado del INTI tras el Decreto 627/2025 y los anexos de la Res. INTI 213/2025; el Anexo II de la Res. 16/2025 y otros reglamentos técnicos (juguetes); los montos del RIGI, los beneficios vigentes de la Ley 27.264 y el texto literal de los arts. 3 y 4 del Decreto 379/2001; los parques industriales provinciales y las habilitaciones municipales; y el registro por producto de medicamentos, productos médicos y cosméticos.
+> [!NOTE] Sin fuente todavía: el texto oficial completo de la Ley 16.463 y el anexo de la Disp. 4159/2023; si sigue la vigencia de 5 años del RNE; las BPF de cosméticos y domisanitarios; el estado del INTI tras el Decreto 627/2025 y los anexos de la Res. INTI 213/2025; el Anexo II de la Res. 16/2025 y otros reglamentos técnicos (juguetes); los montos del RIGI, los beneficios vigentes de la Ley 27.264 y el texto literal de los arts. 3 y 4 del Decreto 379/2001; los parques industriales provinciales y las habilitaciones municipales; el registro por producto de medicamentos, productos médicos y cosméticos; y lo propio de elaborar alimentos que esta nota no cubre (rotulado y vida útil, alérgenos, cadena de frío, qué productos exigen HACCP según el CAA).

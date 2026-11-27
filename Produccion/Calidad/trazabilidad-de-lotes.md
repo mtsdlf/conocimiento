@@ -68,7 +68,7 @@ Para la gestión de la calidad en general, ISO 9001:2015 trata la identificació
 
 ## El retiro
 
-El retiro es para lo que se lleva la genealogía. El artículo 19.1 del mismo reglamento dice, parafraseado, que si un explotador considera o tiene motivos para pensar que un alimento que importó, produjo, transformó, fabricó o distribuyó no cumple los requisitos de seguridad, inicia de inmediato el retiro del mercado e informa a las autoridades. Si el producto puede haber llegado al consumidor, también lo informa y recupera lo entregado. El PDF tenía partes ilegibles: es una paráfrasis que falta recotejar.
+El retiro es para lo que se lleva la genealogía. Suele empezar por un [reclamo](../../Servicio-al-cliente/Caso/reclamo.md) que se repite, que es de Servicio al cliente. El artículo 19.1 del mismo reglamento dice, parafraseado, que si un explotador considera o tiene motivos para pensar que un alimento que importó, produjo, transformó, fabricó o distribuyó no cumple los requisitos de seguridad, inicia de inmediato el retiro del mercado e informa a las autoridades. Si el producto puede haber llegado al consumidor, también lo informa y recupera lo entregado. El PDF tenía partes ilegibles: es una paráfrasis que falta recotejar.
 
 Los pasos de un retiro, como criterio de la base:
 
