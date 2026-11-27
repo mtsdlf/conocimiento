@@ -83,6 +83,7 @@ Para una tarea concreta (una propuesta, un precio, un canal, la competencia, un 
 
 - [Contabilidad](Contabilidad/contabilidad.md) — registrar cada hecho económico de una empresa que ya opera: partida doble, plan de cuentas y devengado, cómo se registra cada operación, los estados contables, la contabilidad de gestión y el control interno, con lo de Argentina aparte.
 - [Relación con clientes](Relacion-con-clientes/relacion-con-clientes.md) — lo que registra una empresa sobre sus clientes y sus ventas en curso: el cliente y sus condiciones, el interesado, la oportunidad, el presupuesto y el pedido de venta, sin nombrar productos y con lo de Argentina aparte.
+- [Tesorería y finanzas de la empresa en marcha](Tesoreria/tesoreria.md) — la plata real de una empresa que ya opera: posición y proyección de caja, capital de trabajo, crédito y cobranzas, pagos a proveedores, financiamiento y riesgos financieros, con lo de Argentina aparte.
 
 ## Personas
 
