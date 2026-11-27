@@ -1,6 +1,6 @@
 ---
 resumen: >-
-  Elegir entre mejorar el prompt, sumar RAG o hacer fine-tuning es decidir cómo adaptar un modelo a
+  Elegir entre mejorar el prompt, sumar RAG o hacer finetuning es decidir cómo adaptar un modelo a
   una tarea: se empieza por el prompt, se suma contexto cuando al modelo le falta información y se
   entrena solo cuando lo que falla es su comportamiento y hay datos para corregirlo.
 estado: vigente
@@ -18,16 +18,16 @@ creado: 2026-11-27
 revisado: 2026-11-27
 ---
 
-# Prompt, RAG o fine-tuning
+# Prompt, RAG o finetuning
 
-Elegir entre mejorar el prompt, sumar RAG o hacer fine-tuning es decidir cómo adaptar un modelo a
+Elegir entre mejorar el prompt, sumar RAG o hacer finetuning es decidir cómo adaptar un modelo a
 una tarea: se empieza por el prompt, se suma contexto cuando al modelo le falta información y se
 entrena solo cuando lo que falla es su comportamiento y hay datos para corregirlo.
 
 Es una decisión de desarrollo, no una capa del sistema en ejecución: se toma antes de servir y
 cambia qué prompt o qué modelo hay detrás del gateway, sin sumar un paso a las capas de
 [Sistemas con modelos](Produccion/sistemas-con-modelos.md). Los capítulos 5 a 8 de *AI Engineering* son, en
-orden, prompt, RAG y agentes, fine-tuning e ingeniería de datos; ese orden coincide con la escalera (lectura de esta base).
+orden, prompt, RAG y agentes, finetuning e ingeniería de datos; ese orden coincide con la escalera (lectura de esta base).
 
 ## La escalera: del más barato al más caro de cambiar
 
@@ -35,7 +35,7 @@ orden, prompt, RAG y agentes, fine-tuning e ingeniería de datos; ese orden coin
 |---|---|---|
 | Prompt | las instrucciones y los ejemplos que recibe el modelo | horas; se prueba con la evaluación existente |
 | RAG | la información que recibe en cada consulta | un índice, un recuperador y su mantenimiento ([Contexto y RAG](Contexto/contexto-y-rag.md)) |
-| Fine-tuning | los pesos del modelo | un conjunto de datos de entrenamiento, el entrenamiento y servir un modelo propio |
+| Finetuning | los pesos del modelo | un conjunto de datos de entrenamiento, el entrenamiento y servir un modelo propio |
 
 Los dos primeros no tocan el modelo; según el resumen del libro, RAG y agentes "are prompt-based".
 OpenAI arranca igual: "Prompt engineering is typically the best place to start". Huyen cuenta entre
@@ -50,7 +50,7 @@ se ve en la [evaluación](Evaluacion/evals.md).
 - **Le falta conocimiento**: el modelo no sabe algo (datos de la empresa, información reciente).
   Es un problema de contexto y se resuelve con RAG.
 - **Su comportamiento es inconsistente**: sabe lo necesario pero no sigue el formato, el tono o el
-  criterio de forma estable. Es un problema de aprendizaje y se resuelve con fine-tuning.
+  criterio de forma estable. Es un problema de aprendizaje y se resuelve con finetuning.
 - **Las dos cosas**: se combinan.
 
 El diagnóstico sale de mirar las fallas una por una, que es el
@@ -58,19 +58,19 @@ El diagnóstico sale de mirar las fallas una por una, que es el
 suma: la misma guía cuenta un caso de corrección de textos en islandés donde agregar RAG a un
 modelo ya afinado bajó la métrica BLEU de 87 a 83.
 
-## Cuándo el fine-tuning vale la pena
+## Cuándo el finetuning vale la pena
 
-Según OpenAI, el fine-tuning ayuda cuando hay más ejemplos de los que entran en el prompt, cuando se
+Según OpenAI, el finetuning ayuda cuando hay más ejemplos de los que entran en el prompt, cuando se
 quieren prompts más cortos (menos tokens y menos latencia) y para "train a smaller, cheaper, faster
 model to excel at a particular task". La guía pide empezar con 50 ejemplos o más de calidad, porque
 "Quality of training data is more important than quantity".
 
 Ese último caso tiene nombre, destilación: se ajusta el prompt en un modelo grande hasta que pasa
 las evaluaciones, se guardan sus salidas como datos y se afina un modelo chico con ellas. Huyen la
-trata en el cap. 8 (p. 395). En este caso el fine-tuning no sube la calidad sino que baja el
+trata en el cap. 8 (p. 395). En este caso el finetuning no sube la calidad sino que baja el
 [costo y la latencia](../Arquitectura/Caracteristicas/costo-y-latencia.md) (inferencia de esta base).
 
-## El fine-tuning mueve el problema al dato
+## El finetuning mueve el problema al dato
 
 Según el resumen oficial del libro, lo difícil del cap. 7 no es la mecánica de entrenar sino saber
 si hacerlo, y Huyen lo resume con una frase que escucha de practicantes: "finetuning is easy, but
@@ -80,7 +80,7 @@ cap. 8 (lectura de esta base). Por inferencia de esta base, un modelo afinado es
 versionar, evaluar y volver a afinar cuando sale uno base mejor: una decisión que conviene dejar
 en un [ADR](../Arquitectura/Decisiones/adr.md).
 
-Las plataformas de fine-tuning de los proveedores también cambian: al menos una de las grandes
+Las plataformas de finetuning de los proveedores también cambian: al menos una de las grandes
 está cerrando la suya; el estado por proveedor está en [Plataformas de IA](Produccion/plataformas-de-ia.md).
 
 > [!NOTE]

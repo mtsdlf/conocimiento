@@ -2,7 +2,7 @@
 resumen: >-
   Ejemplos de productos por categoría para armar un sistema con modelos (gateways, vector stores,
   orquestación, evals y observabilidad), los valores del prompt cache por proveedor y el estado del
-  fine-tuning por proveedor, copiados el 2026-11-27.
+  finetuning por proveedor, copiados el 2026-11-27.
 estado: vigente
 estabilidad: volatil
 fuentes:
@@ -26,7 +26,7 @@ revisado: 2026-11-27
 
 Ejemplos de productos por categoría para armar un sistema con modelos (gateways, vector stores,
 orquestación, evals y observabilidad), los valores del prompt cache por proveedor y el estado del
-fine-tuning por proveedor, copiados el 2026-11-27.
+finetuning por proveedor, copiados el 2026-11-27.
 
 Implementa las capas de [Sistemas con modelos](sistemas-con-modelos.md). Los productos son
 ejemplos, no un ranking: la fuente viva de cada uno es su documentación y su registro de paquetes.
@@ -78,7 +78,7 @@ sobre el precio de entrada normal. Copiado de las tres documentaciones el 2026-1
 | Mínimo cacheable | de 512 a 4.096 tokens según modelo | 1.024 tokens (GPT-5.6 y posteriores) | de 2.048 a 4.096 tokens según modelo |
 | Qué invalida | cualquier cambio en el prefijo (orden `tools`, `system`, `messages`); cambiar herramientas invalida todo; cambiar `tool_choice` invalida system y tools | contenido distinto al comienzo; guarda el estado KV, no el texto | — |
 
-## Estado del fine-tuning por proveedor
+## Estado del finetuning por proveedor
 
 | Proveedor | Estado al 2026-11-27 | Fuente |
 |---|---|---|

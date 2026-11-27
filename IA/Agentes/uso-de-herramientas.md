@@ -141,7 +141,7 @@ Dos riesgos salen del mecanismo mismo:
   [inyección de prompt](../Contexto/inyeccion-de-prompt.md). Willison (2025-06-16) llama "trifecta
   letal" a juntar en un agente acceso a datos privados, contenido no confiable y una salida al
   exterior, y advierte que MCP "encourages users to mix and match tools from different sources".
-- **Cada herramienta suma poder.** OWASP (LLM06:2025, *Excessive Agency*) pone la causa en la
+- **Cada herramienta suma poder.** OWASP (*Excessive Agency*, LLM06 en la edición 2025 y LLM03 en la de 2026) pone la causa en la
   funcionalidad, los permisos y la autonomía excesivos. Las defensas (mínimo privilegio, aprobación
   humana, autorización en el sistema de destino) están en
   [Fallas de agentes](fallas-de-agentes.md#qué-puede-romper-un-agente-que-actúa).

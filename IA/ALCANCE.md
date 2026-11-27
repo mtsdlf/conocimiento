@@ -66,6 +66,8 @@ IA/
     patrones-de-flujo            cadena, ruteo, paralelo, orquestador y evaluador
     planificacion                cómo un agente descompone una tarea y se corrige
     fallas-de-agentes            cómo falla un agente y cómo se evalúa
+    versiones-de-mcp             ficha fechada: versiones de la especificación de MCP
+    benchmarks-de-agentes        ficha fechada: SWE-bench, τ-bench, GAIA y otros
   Ajuste/                        cambiar los pesos del modelo
     finetuning                   cuándo sí, cuándo no y qué cuesta
     peft-y-lora                  ajustar pocos parámetros
@@ -79,13 +81,16 @@ IA/
     metricas-de-evaluacion       exactas, de similitud y de modelado de lenguaje
     ia-como-juez                 ← un modelo que califica a otro
     benchmarks-y-eleccion-de-modelo   qué dicen los rankings públicos y cómo se elige un modelo
+    benchmarks-vigentes          ficha fechada: rankings y benchmarks públicos
     feedback-de-usuario          ← las señales del uso como dato
   Produccion/                    operar el sistema
     sistemas-con-modelos         ← las capas que se suman alrededor del modelo
     guardrails                   controles sobre lo que entra y lo que sale
+    herramientas-de-guardrails   ficha fechada: clasificadores y bibliotecas de guardrails
     router-y-gateway-de-modelos  ←
     cache-de-modelos             ←
     inferencia                   métricas de inferencia y cómo se optimiza el modelo y el servicio
+    apis-de-batch-y-motores-de-inferencia   ficha fechada
     observabilidad-de-modelos    ←
     plataformas-de-ia            ← ficha fechada
   Fundamentos/
@@ -99,4 +104,5 @@ IA/
 - El tema sigue en la carpeta `IA/`; el título de la entrada es IA y "AI engineering" va en sus aliases.
 - Las notas que vienen de Arquitectura conservan `vigente` si solo cambian de lugar y de enlaces; las que se reescriben vuelven a `borrador`.
 - Las notas sobre RDFS, OWL y el patrón "el LLM emite, el reasoner verifica" quedan archivadas; pueden volver como parte de `guardrails`.
+- Al escribir se sumaron cinco fichas fechadas (versiones de MCP, benchmarks de agentes, benchmarks vigentes, herramientas de guardrails y APIs de batch y motores de inferencia), para que las notas de arriba no nombren productos.
 - Lo que cambió después del libro (modelos de razonamiento, ingeniería de contexto, MCP, agentes de código) se integra en cada nota, fechado y con su fuente.

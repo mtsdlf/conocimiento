@@ -98,7 +98,7 @@ con otra respuesta. Huyen lo compara con un pasante: "Just as you shouldn't give
 authority to delete your production database", no se le da a un sistema poco confiable una
 acción irreversible como una transferencia.
 
-OWASP (LLM06:2025, *Excessive Agency*) pone la causa en tres excesos: funcionalidad (herramientas
+OWASP (*Excessive Agency*, LLM06 en la edición 2025 y LLM03 en la de 2026) pone la causa en tres excesos: funcionalidad (herramientas
 que el agente no necesita), permisos (más acceso del que la tarea pide) y autonomía (acciones de
 alto impacto sin control). Sus mitigaciones son concretas:
 

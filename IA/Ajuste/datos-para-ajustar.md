@@ -55,7 +55,7 @@ during pretraining".
 El resultado habla de estilo y formato en un modelo grande ya preentrenado: no autoriza a esperar
 que mil ejemplos enseñen conocimiento nuevo, que es justo lo que el ajuste hace mal (ver
 [Finetuning](finetuning.md#lo-que-el-finetuning-enseña-y-lo-que-no)). El piso que pide un gran
-proveedor para empezar está en [Prompt, RAG o finetuning](../prompt-rag-o-finetuning.md#cuándo-el-fine-tuning-vale-la-pena),
+proveedor para empezar está en [Prompt, RAG o finetuning](../prompt-rag-o-finetuning.md#cuándo-el-finetuning-vale-la-pena),
 con su regla de que la calidad importa más que la cantidad.
 
 Repetir los datos tampoco ayuda: en el experimento de Raschka con LoRA, entrenar unas dos épocas
