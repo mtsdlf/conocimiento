@@ -29,7 +29,7 @@ Martin Fowler y Anthropic.
 
 ## Por qué un modelo pide su propio límite
 
-Un [modelo de lenguaje](../../IA/llm.md) rompe dos supuestos del resto del código. El primero es el
+Un [modelo de lenguaje](../../IA/Modelos/modelo-base.md) rompe dos supuestos del resto del código. El primero es el
 determinismo: "With LLM-based systems, we encounter a system that no longer behaves
 deterministically", y "Such a system will provide different outputs to the same inputs on repeated
 requests" (Subramaniam, en el sitio de Fowler). El segundo es la estabilidad: el proveedor puede cambiar el
@@ -44,7 +44,7 @@ is an intermediate layer that allows your organization to interface with differe
 ganancia que nombra es la de cualquier buen módulo: "If a model API changes, you only need to update
 the model gateway". Cuando un modelo se cae, el gateway "can route requests to alternative models".
 El detalle de esa pieza está en
-[router y gateway de modelos](../Sistemas-con-modelos/router-y-gateway-de-modelos.md).
+[router y gateway de modelos](../../IA/Produccion/router-y-gateway-de-modelos.md).
 
 Detrás de la misma interfaz quedan las piezas que tratan la salida incierta. Que vivan juntas ahí es
 lectura de esta base: las fuentes tratan cada una por separado.
@@ -52,10 +52,10 @@ lectura de esta base: las fuentes tratan cada una por separado.
 
 - **Los guardrails**, que filtran lo que entra al modelo y validan lo que emite antes de que llegue al resto. Según el mismo
   artículo, "Guardrails act to shield the LLM", y "guardrails don't come for free". Las capas están
-  en [guardrails de LLM](../../IA/guardrails.md).
+  en [guardrails de LLM](../../IA/Produccion/guardrails.md).
 - **La evaluación**, que necesita un punto único donde mirar entradas y salidas. El artículo
   propone tratar los evals "similarly to how we work with performance testing", con umbrales en
-  lugar de pasa o no pasa; ver [evaluación](../Evaluacion-y-observabilidad/evaluacion.md) y
+  lugar de pasa o no pasa; ver [evaluación](../../IA/Evaluacion/evals.md) y
   [fitness function](../Caracteristicas/fitness-function.md).
 - **El costo y la latencia**, que se miden y se controlan donde pasan todas las llamadas; ver
   [costo y latencia](../Caracteristicas/costo-y-latencia.md).
@@ -63,7 +63,7 @@ lectura de esta base: las fuentes tratan cada una por separado.
 Para los agentes, Anthropic pide cuidar la interfaz entre el modelo y sus herramientas como una
 interfaz más: "Carefully craft your agent-computer interface (ACI) through thorough tool
 documentation and testing", y "Tool definitions and specifications should be given just as much
-prompt engineering attention as your overall prompts". Ver [agente](../Sistemas-con-modelos/agente.md).
+prompt engineering attention as your overall prompts". Ver [agente](../../IA/Agentes/agente.md).
 
 ## Interfaz chica, no abstracción opaca
 

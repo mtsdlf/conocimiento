@@ -38,7 +38,7 @@ Un RAG tiene dos tiempos. Al indexar, los documentos se parten en fragmentos ("R
 requires documents to be split into manageable chunks", según Huyen) y cada fragmento se guarda en
 un índice. Al consultar, un recuperador busca los fragmentos más parecidos a la consulta y se los
 pone al modelo en el prompt. Dónde se guardan los vectores (un *vector store*) es una pieza
-operativa; hay ejemplos en [Plataformas de IA](plataformas-de-ia.md).
+operativa; hay ejemplos en [Plataformas de IA](../Produccion/plataformas-de-ia.md).
 
 ## La escalera de recuperación
 
@@ -71,7 +71,7 @@ Anthropic escribió en 2024 que si la base de conocimiento es "smaller than 200,
 pages of material)" se puede poner entera en el prompt, sin RAG. La cifra es de septiembre de 2024 y
 las ventanas cambiaron desde entonces; el criterio que queda es comparar el tamaño de la base con la
 ventana y con el costo de mandarla en cada consulta (que el
-[prompt cache](cache-de-modelos.md) abarata).
+[prompt cache](../Produccion/cache-de-modelos.md) abarata).
 
 > [!IMPORTANT]
 > La evidencia sobre contexto largo frente a RAG no coincide. Li et al. (EMNLP 2024) encontraron,
@@ -83,7 +83,7 @@ ventana y con el costo de mandarla en cada consulta (que el
 > 200 preguntas. Ninguno de los dos cierra la discusión: se decide midiendo con los datos propios.
 
 Huyen trata el largo de contexto en el cap. 5 ("Context Length and Context Efficiency", p. 218), y
-el resumen del cap. 6 agrega una forma de verlo que une esta capa con la de [agente](agente.md):
+el resumen del cap. 6 agrega una forma de verlo que une esta capa con la de [agente](../Agentes/agente.md):
 "The RAG pattern can be seen as a special case of agent where the retriever is a tool the model can
 use". Cuando el modelo decide qué buscar y cuándo, se habla de *agentic RAG*; la única fuente
 encontrada que lo sistematiza es un survey de arXiv sin revisión por pares.
@@ -101,15 +101,15 @@ ventana y subagentes con contexto propio.
 
 La diferencia con el RAG de Huyen es de momento (lectura de esta base): el RAG arma el contexto una vez, antes de llamar
 al modelo; el context engineering lo administra durante toda una tarea larga. Que pase a ser parte
-del harness de un agente es lo que se cuenta en [Agente](agente.md).
+del harness de un agente es lo que se cuenta en [Agente](../Agentes/agente.md).
 
 ## Cómo falla y cómo se mide
 
-Un RAG puede fallar en dos lugares distintos (lectura de esta base), y la [evaluación](../Evaluacion-y-observabilidad/evaluacion.md)
+Un RAG puede fallar en dos lugares distintos (lectura de esta base), y la [evaluación](../Evaluacion/evals.md)
 tiene que separarlos: el recuperador no trajo el fragmento correcto, o lo trajo y el modelo no lo
 usó bien. El primero se arregla subiendo la escalera; el segundo, con el prompt o con el modelo.
 Cuándo la falla no es de contexto sino de comportamiento, y conviene otra cosa que RAG, está en
-[Prompt, RAG o fine-tuning](prompt-rag-o-finetuning.md).
+[Prompt, RAG o fine-tuning](../prompt-rag-o-finetuning.md).
 
 > [!NOTE]
 > Sin fuente todavía: métricas de recuperación (precision y recall en los primeros k) y fragmentación

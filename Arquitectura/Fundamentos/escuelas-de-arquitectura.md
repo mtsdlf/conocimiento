@@ -70,7 +70,7 @@ Ford, Parsons y Kua (*Building Evolutionary Architectures*) ponen en el centro l
 podcast, un chequeo objetivo de una característica, "somewhat like a unit test for architecture",
 específico y automatizable ("ser mantenible" no sirve; "complejidad ciclomática menor a cinco", sí).
 La segunda edición pone el énfasis en el gobierno automatizado. Es el antecedente directo de los
-[evals](../Evaluacion-y-observabilidad/evaluacion.md) y de los chequeos que se le ponen a un agente.
+[evals](../../IA/Evaluacion/evals.md) y de los chequeos que se le ponen a un agente.
 
 ## DDD: el límite lo pone el dominio
 
@@ -99,8 +99,8 @@ biggest blockers to AI adoption", y en arquitectura, "Each added component can i
 safety, or speed, but also adds complexity and new failure modes". Husain la respalda desde la
 práctica: según él, los productos que fracasan casi siempre comparten la misma causa, no haber armado
 un sistema de evaluación sólido. Lo dice sin dato cuantitativo. Es la escuela de
-[Sistemas con modelos](../Sistemas-con-modelos/sistemas-con-modelos.md) y de
-[Evaluación y observabilidad](../Evaluacion-y-observabilidad/evaluacion-y-observabilidad.md).
+[Sistemas con modelos](../../IA/Produccion/sistemas-con-modelos.md) y de
+[Evaluación y observabilidad](../../IA/Evaluacion/evaluacion.md).
 
 ## Agentes y harness: diseñar el entorno del modelo
 
@@ -118,7 +118,7 @@ Anthropic también define *context engineering* como "the set of strategies for 
 maintaining the optimal set of tokens (information) during LLM inference", sucesor del prompt
 engineering; el Thoughtworks Radar lo tenía en Adopt en abril de 2026. Se cuenta como parte de esta
 escuela. Las cifras son de las propias empresas que venden el modelo, sin replicación independiente.
-El detalle técnico está en [agente](../Sistemas-con-modelos/agente.md).
+El detalle técnico está en [agente](../../IA/Agentes/agente.md).
 
 ## Dónde chocan
 

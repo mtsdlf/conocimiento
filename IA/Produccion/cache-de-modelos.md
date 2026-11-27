@@ -59,7 +59,7 @@ que tienen en común define cómo se escribe el prompt:
   de una sesión para no perder los aciertos.
 
 Esto afecta a otras capas: un [router](router-y-gateway-de-modelos.md) que cambia de modelo en cada
-turno pierde la cache, y un [agente](agente.md) con herramientas que cambian también. Cuánto se
+turno pierde la cache, y un [agente](../Agentes/agente.md) con herramientas que cambian también. Cuánto se
 descuenta, cuánto dura la cache y desde qué tamaño de prompt aplica cambia por proveedor y por
 modelo, y está en [Plataformas de IA](plataformas-de-ia.md).
 
@@ -93,7 +93,7 @@ La evidencia sobre ese riesgo es poca y floja, pero apunta al mismo lado:
   entrada vieja sigue pareciendo igual de cercana.
 
 Por inferencia de esta base: la cache semántica tiene que pasar por la misma
-[evaluación](../Evaluacion-y-observabilidad/evaluacion.md) que el modelo, con casos de consultas
+[evaluación](../Evaluacion/evals.md) que el modelo, con casos de consultas
 parecidas que piden respuestas distintas, y no conviene en dominios donde una respuesta equivocada
 cuesta caro.
 

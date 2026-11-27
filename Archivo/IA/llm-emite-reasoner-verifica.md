@@ -3,7 +3,7 @@ resumen: >-
   "El LLM emite, el reasoner verifica" es un patrón en el que un LLM produce afirmaciones y un
   verificador simbólico las chequea contra una ontología, con tres veredictos: marcar, rechazar
   o reparar.
-estado: borrador
+estado: obsoleto
 estabilidad: estable
 creado: 2026-10-03
 fuentes:

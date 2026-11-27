@@ -59,7 +59,7 @@ simplicidad. Y una característica sin número no se puede verificar: el paso si
 convertirla en una [fitness function](fitness-function.md). Con un modelo de IA adentro, dos
 características suben al frente, el [costo y la latencia](costo-y-latencia.md), y aparece la
 calidad de una salida que cambia, que se mide con
-[evaluación](../Evaluacion-y-observabilidad/evaluacion.md).
+[evaluación](../../IA/Evaluacion/evals.md).
 
 ## Qué leer del libro
 

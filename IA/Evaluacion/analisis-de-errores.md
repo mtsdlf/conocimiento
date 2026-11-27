@@ -23,8 +23,8 @@ El análisis de errores es leer a mano trazas reales de un sistema con un modelo
 en texto libre, agruparlas en categorías y contarlas, para saber qué evaluar antes de elegir
 métricas.
 
-Es el puente del [bucle](evaluacion-y-observabilidad.md) entre la
-[observabilidad](observabilidad-de-modelos.md), que guarda las trazas, y la [evaluación](evaluacion.md), que
+Es el puente del [bucle](evaluacion.md) entre la
+[observabilidad](../Produccion/observabilidad-de-modelos.md), que guarda las trazas, y la [evaluación](evals.md), que
 necesita saber qué medir. El índice de Huyen no lo separa como sección; el campo lo trata aparte
 por las notas de Husain y el trabajo de Shankar.
 
@@ -67,8 +67,8 @@ que el análisis de errores encuentra algo nuevo. Por eso el bucle vuelve siempr
 - **Categorías de antemano.** Partir de una lista de fallas "típicas" en lugar de leer; se encuentra
   lo que se buscaba.
 - **Mirar solo la salida final.** Sin los pasos intermedios, una respuesta mala no dice si falló la
-  recuperación de [contexto](../Sistemas-con-modelos/contexto-y-rag.md), la herramienta o el modelo.
-  En un [agente](../Sistemas-con-modelos/agente.md), Huyen distingue fallas de planificación, de
+  recuperación de [contexto](../Contexto/contexto-y-rag.md), la herramienta o el modelo.
+  En un [agente](../Agentes/agente.md), Huyen distingue fallas de planificación, de
   herramientas y de eficiencia.
 - **Delegarlo entero.** Un modelo puede agrupar anotaciones, pero las anotaciones las hace quien
   conoce el producto; Husain insiste en que la corrección se alinea con una persona.

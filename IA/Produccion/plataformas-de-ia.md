@@ -38,9 +38,9 @@ la documentación del producto: hay que verificarlas antes de decidir.
 | Categoría | Implementa | Ejemplos | Fuente viva | Cómo se obtuvo |
 |---|---|---|---|---|
 | Gateways de modelos | [Router y gateway](router-y-gateway-de-modelos.md) | LiteLLM (MIT, autoalojable), Cloudflare AI Gateway, OpenRouter | [LiteLLM](https://docs.litellm.ai/docs/simple_proxy), [Cloudflare](https://developers.cloudflare.com/ai-gateway/), [OpenRouter](https://openrouter.ai/docs/features/model-routing) | documentación oficial leída |
-| Vector stores | [Contexto y RAG](contexto-y-rag.md) | pgvector, Qdrant, Pinecone | docs de cada producto | **[buscador]** |
-| Orquestación y SDK de agentes | [Agente](agente.md) | LangGraph, OpenAI Agents SDK, Claude Agent SDK | docs de cada producto | **[buscador]** |
-| Evals y observabilidad | [Observabilidad](../Evaluacion-y-observabilidad/observabilidad-de-modelos.md) | Langfuse, LangSmith, Arize Phoenix | docs de cada producto | **[buscador]** |
+| Vector stores | [Contexto y RAG](../Contexto/contexto-y-rag.md) | pgvector, Qdrant, Pinecone | docs de cada producto | **[buscador]** |
+| Orquestación y SDK de agentes | [Agente](../Agentes/agente.md) | LangGraph, OpenAI Agents SDK, Claude Agent SDK | docs de cada producto | **[buscador]** |
+| Evals y observabilidad | [Observabilidad](observabilidad-de-modelos.md) | Langfuse, LangSmith, Arize Phoenix | docs de cada producto | **[buscador]** |
 
 Lo que dicen las fuentes de cada fila:
 

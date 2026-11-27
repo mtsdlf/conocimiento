@@ -22,9 +22,9 @@ La observabilidad de un sistema con un modelo es registrar cada consulta con su 
 sus pasos intermedios, más las métricas del modelo y del sistema, para poder seguir qué le pasó a
 cada consulta y de dónde vino una falla.
 
-Es el comienzo del [bucle](evaluacion-y-observabilidad.md): sin trazas no hay
-[análisis de errores](analisis-de-errores.md), y sin análisis de errores la
-[evaluación](evaluacion.md) mide a ciegas. En Huyen es una sección del capítulo 10, "Monitoring and
+Es el comienzo del [bucle](../Evaluacion/evaluacion.md): sin trazas no hay
+[análisis de errores](../Evaluacion/analisis-de-errores.md), y sin análisis de errores la
+[evaluación](../Evaluacion/evals.md) mide a ciegas. En Huyen es una sección del capítulo 10, "Monitoring and
 Observability", junto a la arquitectura del sistema. Según ella, importa en proyectos de cualquier
 tamaño, y más cuanto más complejo es el sistema.
 
@@ -32,15 +32,15 @@ tamaño, y más cuanto más complejo es el sistema.
 
 Huyen nombra tres pilares: logs, trazas y métricas. Las métricas resumen: del modelo ("accuracy, toxicity, and hallucination
 rate") y del sistema (throughput, memoria, uso de hardware y disponibilidad; el costo y la latencia se ven en
-[costo y latencia](../Caracteristicas/costo-y-latencia.md)). Los logs guardan cada evento. Las
+[costo y latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md)). Los logs guardan cada evento. Las
 trazas unen los eventos de una misma consulta.
 
 Su regla para los logs es amplia: "The philosophy for logging is simple: log everything." Y
 concreta: "Log the query, the output, and the intermediate outputs." Lo intermedio es lo que
 distingue a un sistema con modelos de un servicio web común: el contexto recuperado, el prompt
-armado, la elección del [router](../Sistemas-con-modelos/router-y-gateway-de-modelos.md), si
-respondió la [cache](../Sistemas-con-modelos/cache-de-modelos.md), cada llamada a herramienta de un
-[agente](../Sistemas-con-modelos/agente.md) y lo que bloqueó un [guardrail](../../IA/guardrails.md).
+armado, la elección del [router](router-y-gateway-de-modelos.md), si
+respondió la [cache](cache-de-modelos.md), cada llamada a herramienta de un
+[agente](../Agentes/agente.md) y lo que bloqueó un [guardrail](guardrails.md).
 
 ## Seguir una consulta paso a paso
 
@@ -48,7 +48,7 @@ La traza es la unidad que se lee. Huyen: "Ideally, you should be able to trace e
 transformation through the system step-by-step." Una respuesta mala se explica mirando su traza: si
 el contexto no traía el dato, la falla es de recuperación; si lo traía y el modelo lo ignoró, es del
 prompt o del modelo. Husain usa esas trazas como insumo de su nivel 2 de evaluación, donde personas o
-un [juez](ia-como-juez.md) las califican.
+un [juez](../Evaluacion/ia-como-juez.md) las califican.
 
 Registrar no alcanza: alguien tiene que leer. Huyen dice que es útil inspeccionar a mano datos de
 producción a diario.

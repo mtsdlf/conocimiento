@@ -22,12 +22,12 @@ adentro hace lo que tiene que hacer: registra lo que pasa en producción, lo lee
 fallas, las convierte en pruebas repetibles y devuelve el uso como dato.
 
 En el tema, esta vertical es la que decide. Cada pieza de
-[Sistemas con modelos](../Sistemas-con-modelos/sistemas-con-modelos.md) (contexto, router, cache,
+[Sistemas con modelos](../Produccion/sistemas-con-modelos.md) (contexto, router, cache,
 agente) entra cuando una medición muestra que hace falta, que es la regla de
-[Empezar simple](../Decisiones/empezar-simple.md). Lo que se mide son las
-[características](../Caracteristicas/caracteristicas.md) del sistema, con el
-[costo y la latencia](../Caracteristicas/costo-y-latencia.md) al frente, y los resultados son la
-evidencia que queda en un [ADR](../Decisiones/adr.md). Según Huyen, "Evaluation is necessary at
+[Empezar simple](../../Arquitectura/Decisiones/empezar-simple.md). Lo que se mide son las
+[características](../../Arquitectura/Caracteristicas/caracteristicas.md) del sistema, con el
+[costo y la latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md) al frente, y los resultados son la
+evidencia que queda en un [ADR](../../Arquitectura/Decisiones/adr.md). Según Huyen, "Evaluation is necessary at
 every step of the development process".
 
 ## El bucle que va de la traza a la mejora
@@ -73,22 +73,22 @@ concluye "the issue wasn't with AI, but with product". Por eso el bucle incluye 
 - **Se confía en el juez sin validarlo.** Un modelo que califica a otro tiene sesgos propios; ver
   [IA como juez](ia-como-juez.md).
 - **No se registra lo intermedio.** Sin la traza de cada paso, una falla del final no se puede
-  atribuir a la recuperación, al prompt o al modelo; ver [observabilidad](observabilidad-de-modelos.md).
+  atribuir a la recuperación, al prompt o al modelo; ver [observabilidad](../Produccion/observabilidad-de-modelos.md).
 - **Se pide feedback que nadie da.** Las señales explícitas son escasas y sesgadas; ver
   [feedback de usuario](feedback-de-usuario.md).
 
 Lo que la salida del modelo no puede emitir, por seguridad o por forma, no se evalúa después: se
-bloquea antes con [guardrails](../../IA/guardrails.md). Las dos cosas se complementan.
+bloquea antes con [guardrails](../Produccion/guardrails.md). Las dos cosas se complementan.
 
 ## Qué hay adentro de la evaluación y la observabilidad
 
-- [Evaluación](evaluacion.md) — cómo se prueba algo cuya salida cambia: niveles, conjuntos de casos y
+- [Evaluación](evals.md) — cómo se prueba algo cuya salida cambia: niveles, conjuntos de casos y
   por qué la prueba unitaria sola no alcanza.
 - [Análisis de errores](analisis-de-errores.md) — leer trazas a mano para saber qué medir; el paso que
   más se saltea.
 - [IA como juez](ia-como-juez.md) — usar un modelo para calificar salidas a escala, sus sesgos y cómo
   se valida.
-- [Observabilidad](observabilidad-de-modelos.md) — qué se registra en producción (métricas, logs y trazas) y
+- [Observabilidad](../Produccion/observabilidad-de-modelos.md) — qué se registra en producción (métricas, logs y trazas) y
   con qué vocabulario.
 - [Feedback de usuario](feedback-de-usuario.md) — las señales explícitas e implícitas del uso y sus
   límites como dato.

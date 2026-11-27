@@ -26,7 +26,7 @@ IA como juez es usar un modelo de lenguaje para calificar o comparar las salidas
 que la evaluación escale sin personas; es otro sistema con sesgos propios, que se valida contra
 juicio humano antes de confiar en él.
 
-Es un método de la [evaluación](evaluacion.md), no una alternativa a ella: Huyen lo trata como una
+Es un método de la [evaluación](evals.md), no una alternativa a ella: Huyen lo trata como una
 sección del capítulo de metodología de evaluación, junto a la comparación exacta y la evaluación
 comparativa. Los criterios que aplica el juez salen del [análisis de errores](analisis-de-errores.md).
 
@@ -85,7 +85,7 @@ entre sí. Pasos armados por esta base a partir de esas fuentes:
 
 Shankar et al. describen el *criteria drift*; de ahí se deduce, como inferencia de esta base, que el conjunto
 etiquetado envejece y que el juez se revalida cuando cambian los criterios. Registrar qué modelo y qué umbral se eligió para el juez es
-una decisión que va a un [ADR](../Decisiones/adr.md).
+una decisión que va a un [ADR](../../Arquitectura/Decisiones/adr.md).
 
 > [!NOTE]
 > Sin fuente todavía: cifras confiables de cuánto bajan los sesgos con mitigaciones (invertir el

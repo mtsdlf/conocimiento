@@ -2,7 +2,8 @@
 resumen: >-
   Mixture of experts (MoE) es una arquitectura en la que un router activa solo algunas subredes
   ("expertos") por token, para tener muchos parámetros con el costo de cómputo de pocos.
-estado: borrador
+estado: obsoleto
+reemplazado_por: IA/Modelos/transformer.md
 estabilidad: estable
 creado: 2026-10-03
 fuentes:

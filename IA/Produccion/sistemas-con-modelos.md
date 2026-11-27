@@ -27,12 +27,12 @@ La versión más simple es una consulta que va al modelo y una respuesta que vue
 suma una capa por vez, cada una para un problema que la anterior deja: el modelo no sabe lo que
 necesita, puede decir algo dañino, cuesta caro, tarda, tiene que actuar sobre el mundo. Su regla
 para todas es la misma: "a component can be skipped if your system works well without it". Lo que
-decide si una capa entra es la [evaluación](../Evaluacion-y-observabilidad/evaluacion.md), y el
-criterio general está en [Empezar simple](../Decisiones/empezar-simple.md).
+decide si una capa entra es la [evaluación](../Evaluacion/evals.md), y el
+criterio general está en [Empezar simple](../../Arquitectura/Decisiones/empezar-simple.md).
 
-Cómo funciona el modelo por dentro está en [LLM](../../IA/llm.md). Esta vertical trata lo que lo
+Cómo funciona el modelo por dentro está en [LLM](../Modelos/modelo-base.md). Esta vertical trata lo que lo
 rodea: el modelo queda detrás de una interfaz propia, como pide
-[aislar lo no determinista](../Modularidad/aislar-lo-no-determinista.md), y las capas se montan
+[aislar lo no determinista](../../Arquitectura/Modularidad/aislar-lo-no-determinista.md), y las capas se montan
 sobre esa interfaz.
 
 ## Las capas de runtime, en el orden en que se suman
@@ -42,12 +42,12 @@ según ella, un sistema típico las va necesitando, no el orden en que una consu
 
 | Paso | Capa | Qué problema resuelve | Dónde se explica |
 |---|---|---|---|
-| 1 | Contexto | El modelo no tiene la información para responder | [Contexto y RAG](contexto-y-rag.md) |
-| 2 | Guardrails | La entrada o la salida pueden ser dañinas o incorrectas | [Guardrails de LLM](../../IA/guardrails.md) |
+| 1 | Contexto | El modelo no tiene la información para responder | [Contexto y RAG](../Contexto/contexto-y-rag.md) |
+| 2 | Guardrails | La entrada o la salida pueden ser dañinas o incorrectas | [Guardrails de LLM](guardrails.md) |
 | 3 | Router y gateway | Cada consulta pide un modelo distinto; el acceso, las claves y el costo hay que centralizarlos | [Router y gateway de modelos](router-y-gateway-de-modelos.md) |
 | 4 | Cache | Consultas repetidas cuestan y tardan | [Cache de modelos](cache-de-modelos.md) |
-| 5 | Lógica compleja y acciones de escritura | La tarea pide varios pasos, herramientas o cambiar algo afuera | [Agente](agente.md) |
-| — | Observabilidad | Saber qué pasó en cada consulta: métricas, logs y trazas | [Observabilidad](../Evaluacion-y-observabilidad/observabilidad-de-modelos.md) |
+| 5 | Lógica compleja y acciones de escritura | La tarea pide varios pasos, herramientas o cambiar algo afuera | [Agente](../Agentes/agente.md) |
+| — | Observabilidad | Saber qué pasó en cada consulta: métricas, logs y trazas | [Observabilidad](observabilidad-de-modelos.md) |
 | — | Orquestación | Encadenar las capas en un flujo | en esta nota, abajo |
 
 El diagrama es un flujo posible que arma esta base con esas capas; no es la figura de Huyen.
@@ -68,12 +68,12 @@ flowchart LR
   OR[Orquestación] -.->|encadena| CX
 ```
 
-Los guardrails se tratan como capa pero no se duplican acá: viven en [IA](../../IA/guardrails.md)
+Los guardrails se tratan como capa pero no se duplican acá: viven en [IA](guardrails.md)
 porque dependen de cómo el modelo emite, y del lado de la arquitectura alcanza con saber que van en
 dos puntos, antes del modelo (lo que entra, incluida información privada) y después (lo que sale).
 La observabilidad se mide con el mismo bucle que la evaluación y vive en
-[Evaluación y observabilidad](../Evaluacion-y-observabilidad/evaluacion-y-observabilidad.md), junto
-con el [feedback de usuario](../Evaluacion-y-observabilidad/feedback-de-usuario.md), que Huyen pone
+[Evaluación y observabilidad](../Evaluacion/evaluacion.md), junto
+con el [feedback de usuario](../Evaluacion/feedback-de-usuario.md), que Huyen pone
 al final del mismo capítulo.
 
 ## La orquestación, la última pieza y la que menos falta hace al principio
@@ -88,40 +88,40 @@ tres capas se escribe en el lenguaje de la aplicación, con llamadas directas (l
 Cuando el flujo crece (varios modelos, pasos en paralelo, reintentos), un framework de orquestación
 puede ahorrar código (lectura de esta base); cuáles hay está en [Plataformas de IA](plataformas-de-ia.md). Que el campo
 desconfía de los frameworks pesados de agentes, y con qué evidencia, se cuenta en
-[Agente](agente.md) y en [Lo que pierde peso](../Fundamentos/lo-que-pierde-peso.md).
+[Agente](../Agentes/agente.md) y en [Lo que pierde peso](../../Arquitectura/Fundamentos/lo-que-pierde-peso.md).
 
 ## Lo que no es una capa: adaptar el modelo
 
 Elegir entre mejorar el prompt, sumar RAG o hacer fine-tuning es una decisión de desarrollo, no
 una capa de runtime: se toma antes de servir, cambia qué modelo o qué prompt hay detrás del
 gateway, y no agrega un paso al flujo de la consulta. Por eso tiene su propia nota,
-[Prompt, RAG o fine-tuning](prompt-rag-o-finetuning.md), que comparte RAG con
-[Contexto y RAG](contexto-y-rag.md): esa explica el mecanismo; la de la decisión, cuándo subir de
+[Prompt, RAG o fine-tuning](../prompt-rag-o-finetuning.md), que comparte RAG con
+[Contexto y RAG](../Contexto/contexto-y-rag.md): esa explica el mecanismo; la de la decisión, cuándo subir de
 escalón.
 
 ## Cómo se conecta con el resto de la arquitectura
 
 Las capas nuevas repiten patrones viejos con otro nombre, y conviene reconocerlos. El gateway de
-modelos es un [API gateway](../Sistemas-distribuidos/api-gateway-y-bff.md) delante de proveedores;
-su fallback entre modelos es [degradación controlada](../Sistemas-distribuidos/degradacion-controlada.md),
-y un proveedor que falla seguido pide un [circuit breaker](../Sistemas-distribuidos/circuit-breaker.md).
+modelos es un [API gateway](../../Arquitectura/Sistemas-distribuidos/api-gateway-y-bff.md) delante de proveedores;
+su fallback entre modelos es [degradación controlada](../../Arquitectura/Sistemas-distribuidos/degradacion-controlada.md),
+y un proveedor que falla seguido pide un [circuit breaker](../../Arquitectura/Sistemas-distribuidos/circuit-breaker.md).
 Una acción de escritura que un agente puede reintentar necesita una
-[clave de idempotencia](../Sistemas-distribuidos/clave-de-idempotencia.md). Lo que cambia es que
+[clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md). Lo que cambia es que
 cada capa mueve dos números que con un modelo pasan al frente, el
-[costo y la latencia](../Caracteristicas/costo-y-latencia.md), y que la calidad deja de ser binaria.
+[costo y la latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md), y que la calidad deja de ser binaria.
 Esta lectura cruzada es de esta base: Huyen no la hace.
 
 ## Qué hay adentro de esta vertical
 
-- [Contexto y RAG](contexto-y-rag.md): cómo se le da al modelo la información que no tiene: la
+- [Contexto y RAG](../Contexto/contexto-y-rag.md): cómo se le da al modelo la información que no tiene: la
   escalera de recuperación, contexto largo frente a RAG y context engineering.
 - [Router y gateway de modelos](router-y-gateway-de-modelos.md): qué modelo atiende cada consulta
   y cómo se centraliza el acceso, el costo y el fallback.
 - [Cache de modelos](cache-de-modelos.md): las tres caches (del prompt, exacta y semántica) y por
   qué la semántica puede devolver una respuesta equivocada.
-- [Agente](agente.md): el modelo que planifica y usa herramientas: sus fallas, workflows frente a
+- [Agente](../Agentes/agente.md): el modelo que planifica y usa herramientas: sus fallas, workflows frente a
   agentes, MCP y harness engineering.
-- [Prompt, RAG o fine-tuning](prompt-rag-o-finetuning.md): la decisión de cómo adaptar el modelo,
+- [Prompt, RAG o fine-tuning](../prompt-rag-o-finetuning.md): la decisión de cómo adaptar el modelo,
   y por qué el fine-tuning mueve el problema al dato.
 - [Plataformas de IA](plataformas-de-ia.md): ficha fechada con ejemplos de gateways, vector
   stores, orquestación y evals, el prompt cache por proveedor y el estado del fine-tuning.

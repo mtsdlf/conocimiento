@@ -2,7 +2,8 @@
 resumen: >-
   Un LLM (modelo de lenguaje grande) es una red neuronal entrenada para predecir el siguiente
   token de un texto sobre un corpus masivo; genera respuestas encadenando esas predicciones.
-estado: borrador
+estado: obsoleto
+reemplazado_por: IA/Modelos/modelo-base.md
 estabilidad: estable
 creado: 2026-10-03
 fuentes:

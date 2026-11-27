@@ -23,9 +23,9 @@ empezando siempre por lo más simple que funcione.
 
 Es la vertical que deja rastro de las demás. Elegir un [estilo](../Estilos/estilos.md), priorizar
 una [característica](../Caracteristicas/caracteristicas.md) sobre otra o sumar una pieza a un
-[sistema con modelos](../Sistemas-con-modelos/sistemas-con-modelos.md) son decisiones; esta
+[sistema con modelos](../../IA/Produccion/sistemas-con-modelos.md) son decisiones; esta
 vertical dice cómo se toman y cómo se guardan. La evidencia para tomarlas llega de la
-[evaluación y la observabilidad](../Evaluacion-y-observabilidad/evaluacion-y-observabilidad.md).
+[evaluación y la observabilidad](../../IA/Evaluacion/evaluacion.md).
 La definición de "cuestan caro cambiar" es de trabajo de esta base; ninguna fuente leída la formula así. Richards y Ford agrupan decisiones, análisis de riesgo y diagramas en la parte de técnicas de su
 libro, y esta vertical sigue esa división.
 

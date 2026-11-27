@@ -2,7 +2,8 @@
 resumen: >-
   Los guardrails de un LLM son capas que se apilan sobre su salida, y cada una atrapa errores que
   la anterior no puede: prompt, esquema, validación y ontología.
-estado: borrador
+estado: obsoleto
+reemplazado_por: IA/Produccion/guardrails.md
 estabilidad: estable
 creado: 2026-10-03
 fuentes:

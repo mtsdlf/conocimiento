@@ -26,7 +26,7 @@ entrena solo cuando lo que falla es su comportamiento y hay datos para corregirl
 
 Es una decisión de desarrollo, no una capa del sistema en ejecución: se toma antes de servir y
 cambia qué prompt o qué modelo hay detrás del gateway, sin sumar un paso a las capas de
-[Sistemas con modelos](sistemas-con-modelos.md). Los capítulos 5 a 8 de *AI Engineering* son, en
+[Sistemas con modelos](Produccion/sistemas-con-modelos.md). Los capítulos 5 a 8 de *AI Engineering* son, en
 orden, prompt, RAG y agentes, fine-tuning e ingeniería de datos; ese orden coincide con la escalera (lectura de esta base).
 
 ## La escalera: del más barato al más caro de cambiar
@@ -34,7 +34,7 @@ orden, prompt, RAG y agentes, fine-tuning e ingeniería de datos; ese orden coin
 | Escalón | Qué cambia | Qué cuesta |
 |---|---|---|
 | Prompt | las instrucciones y los ejemplos que recibe el modelo | horas; se prueba con la evaluación existente |
-| RAG | la información que recibe en cada consulta | un índice, un recuperador y su mantenimiento ([Contexto y RAG](contexto-y-rag.md)) |
+| RAG | la información que recibe en cada consulta | un índice, un recuperador y su mantenimiento ([Contexto y RAG](Contexto/contexto-y-rag.md)) |
 | Fine-tuning | los pesos del modelo | un conjunto de datos de entrenamiento, el entrenamiento y servir un modelo propio |
 
 Los dos primeros no tocan el modelo; según el resumen del libro, RAG y agentes "are prompt-based".
@@ -45,7 +45,7 @@ costo es inferencia de esta base, ordenada como la ordenan las dos fuentes.
 ## El diagnóstico: falta conocimiento o falla el comportamiento
 
 La guía de OpenAI "Optimizing LLM accuracy" da la pregunta que decide el escalón: qué tipo de falla
-se ve en la [evaluación](../Evaluacion-y-observabilidad/evaluacion.md).
+se ve en la [evaluación](Evaluacion/evals.md).
 
 - **Le falta conocimiento**: el modelo no sabe algo (datos de la empresa, información reciente).
   Es un problema de contexto y se resuelve con RAG.
@@ -54,7 +54,7 @@ se ve en la [evaluación](../Evaluacion-y-observabilidad/evaluacion.md).
 - **Las dos cosas**: se combinan.
 
 El diagnóstico sale de mirar las fallas una por una, que es el
-[análisis de errores](../Evaluacion-y-observabilidad/analisis-de-errores.md). Combinar no siempre
+[análisis de errores](Evaluacion/analisis-de-errores.md). Combinar no siempre
 suma: la misma guía cuenta un caso de corrección de textos en islandés donde agregar RAG a un
 modelo ya afinado bajó la métrica BLEU de 87 a 83.
 
@@ -68,7 +68,7 @@ model to excel at a particular task". La guía pide empezar con 50 ejemplos o m�
 Ese último caso tiene nombre, destilación: se ajusta el prompt en un modelo grande hasta que pasa
 las evaluaciones, se guardan sus salidas como datos y se afina un modelo chico con ellas. Huyen la
 trata en el cap. 8 (p. 395). En este caso el fine-tuning no sube la calidad sino que baja el
-[costo y la latencia](../Caracteristicas/costo-y-latencia.md) (inferencia de esta base).
+[costo y la latencia](../Arquitectura/Caracteristicas/costo-y-latencia.md) (inferencia de esta base).
 
 ## El fine-tuning mueve el problema al dato
 
@@ -78,10 +78,10 @@ getting data for finetuning is hard". Las técnicas de ajuste eficiente (como Lo
 de entrenar; no bajaron el de juntar, limpiar y etiquetar ejemplos buenos, que es el tema de su
 cap. 8 (lectura de esta base). Por inferencia de esta base, un modelo afinado es además un modelo propio que hay que
 versionar, evaluar y volver a afinar cuando sale uno base mejor: una decisión que conviene dejar
-en un [ADR](../Decisiones/adr.md).
+en un [ADR](../Arquitectura/Decisiones/adr.md).
 
 Las plataformas de fine-tuning de los proveedores también cambian: al menos una de las grandes
-está cerrando la suya; el estado por proveedor está en [Plataformas de IA](plataformas-de-ia.md).
+está cerrando la suya; el estado por proveedor está en [Plataformas de IA](Produccion/plataformas-de-ia.md).
 
 > [!NOTE]
 > Sin fuente todavía: el texto de "When to Finetune" del libro (solo se leyeron el índice y el

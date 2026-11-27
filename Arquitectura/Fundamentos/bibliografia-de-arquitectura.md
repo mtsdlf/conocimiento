@@ -49,8 +49,8 @@ Según Ford, la segunda edición de *Fundamentals* es "basically a rewrite" y pa
 600 páginas; el listado de la editorial que vio el buscador dice 546. Lo que cada libro aporta al tema
 se reparte en [Estilos](../Estilos/estilos.md),
 [Características](../Caracteristicas/caracteristicas.md),
-[Sistemas con modelos](../Sistemas-con-modelos/sistemas-con-modelos.md) y
-[Evaluación y observabilidad](../Evaluacion-y-observabilidad/evaluacion-y-observabilidad.md).
+[Sistemas con modelos](../../IA/Produccion/sistemas-con-modelos.md) y
+[Evaluación y observabilidad](../../IA/Evaluacion/evaluacion.md).
 
 > [!IMPORTANT]
 > La fecha de la 2ª edición de *Designing Data-Intensive Applications* discrepa entre fuentes: la
@@ -65,12 +65,12 @@ se reparte en [Estilos](../Estilos/estilos.md),
 |---|---|---|
 | Sculley et al., "Hidden Technical Debt in Machine Learning Systems" (NIPS 2015) | Todo, es corto | Las categorías de deuda propia de los sistemas con modelos |
 | Lewis y Fowler, "Microservices" | La sección "smart endpoints and dumb pipes" | Por qué la lógica no va en el bus |
-| Husain, ["Your AI Product Needs Evals"](https://hamel.dev/blog/posts/evals/) | Todo | Los tres niveles de [evaluación](../Evaluacion-y-observabilidad/evaluacion.md) |
+| Husain, ["Your AI Product Needs Evals"](https://hamel.dev/blog/posts/evals/) | Todo | Los tres niveles de [evaluación](../../IA/Evaluacion/evals.md) |
 | Anthropic, ["Building effective agents"](https://www.anthropic.com/engineering/building-effective-agents) | Todo | Workflow contra agente; sumar complejidad solo si mejora el resultado |
 
 Las fuentes de cada disputa (Tilkov contra Fowler, Grinsztajn contra TabPFN, Zheng contra Yan) se
 citan donde se discute cada una: en [lo que pierde peso](lo-que-pierde-peso.md) y en
-[IA como juez](../Evaluacion-y-observabilidad/ia-como-juez.md).
+[IA como juez](../../IA/Evaluacion/ia-como-juez.md).
 
 ## La fuente viva: el Technology Radar
 

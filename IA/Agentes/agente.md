@@ -42,15 +42,15 @@ Huyen separa las herramientas en tres clases, y la tercera cambia el riesgo del 
 
 | Clase | Ejemplos | Qué agrega |
 |---|---|---|
-| Aumento de conocimiento | recuperadores, consultas SQL, búsqueda web | lo que el modelo no sabe; un [RAG](contexto-y-rag.md) es un agente con una sola de estas |
+| Aumento de conocimiento | recuperadores, consultas SQL, búsqueda web | lo que el modelo no sabe; un [RAG](../Contexto/contexto-y-rag.md) es un agente con una sola de estas |
 | Extensión de capacidad | calculadora, intérprete de código | lo que el modelo hace mal solo |
 | Acciones de escritura | mandar un email, hacer una transferencia | efectos en el mundo, que no se deshacen con otra respuesta |
 
 "Planning, at its core, is a search problem", escribe Huyen, y recomienda validar el plan antes de
-ejecutarlo: Huyen propone validarlo con heurísticas o con un modelo juez, y admite que una persona intervenga en cualquier etapa; los [guardrails](../../IA/guardrails.md) también pueden validarlo (lectura de esta base). Una
+ejecutarlo: Huyen propone validarlo con heurísticas o con un modelo juez, y admite que una persona intervenga en cualquier etapa; los [guardrails](../Produccion/guardrails.md) también pueden validarlo (lectura de esta base). Una
 acción que el agente puede repetir necesita una
-[clave de idempotencia](../Sistemas-distribuidos/clave-de-idempotencia.md), y una que toca varios
-sistemas, una [saga](../Sistemas-distribuidos/saga.md) (lectura de esta base).
+[clave de idempotencia](../../Arquitectura/Sistemas-distribuidos/clave-de-idempotencia.md), y una que toca varios
+sistemas, una [saga](../../Arquitectura/Sistemas-distribuidos/saga.md) (lectura de esta base).
 
 ## Las tres fallas de un agente
 
@@ -62,9 +62,9 @@ and measure how often each of these failure modes happens." Los agrupa en tres:
 2. **De herramienta**: la herramienta devuelve algo erróneo, o el plan se traduce mal a la llamada.
 3. **De eficiencia**: llega, pero con pasos de más, más costo o más tiempo que una línea de base.
 
-Cada una se mide aparte en la [evaluación](../Evaluacion-y-observabilidad/evaluacion.md), y las
-trazas de la [observabilidad](../Evaluacion-y-observabilidad/observabilidad-de-modelos.md) son la materia
-prima del [análisis de errores](../Evaluacion-y-observabilidad/analisis-de-errores.md) que las
+Cada una se mide aparte en la [evaluación](../Evaluacion/evals.md), y las
+trazas de la [observabilidad](../Produccion/observabilidad-de-modelos.md) son la materia
+prima del [análisis de errores](../Evaluacion/analisis-de-errores.md) que las
 encuentra. Según su resumen, Kapoor et al. (2024) advierten sobre la tercera: medir solo
 precisión lleva a agentes "needlessly complex and expensive".
 
@@ -80,7 +80,7 @@ uno de cinco patrones de workflow:
 | Patrón | Qué hace |
 |---|---|
 | Prompt chaining | encadena llamadas, cada una sobre la salida de la anterior, con controles entre medio |
-| Routing | clasifica la entrada y la manda a un camino especializado (como el [router](router-y-gateway-de-modelos.md)) |
+| Routing | clasifica la entrada y la manda a un camino especializado (como el [router](../Produccion/router-y-gateway-de-modelos.md)) |
 | Parallelization | corre partes en paralelo (*sectioning*) o la misma tarea varias veces y vota (*voting*) |
 | Orchestrator-workers | un modelo reparte subtareas a otros y junta los resultados |
 | Evaluator-optimizer | un modelo genera y otro evalúa, en un bucle |
@@ -96,7 +96,7 @@ informes de proveedores, no estudios independientes.
 
 Huyen cuenta entre los errores comunes "use an agentic framework when direct API calls work", y
 Anthropic advierte que los frameworks pueden "create extra layers of abstraction that can obscure
-the underlying prompts". Se critica el framework opaco, no la orquestación ([Sistemas con modelos](sistemas-con-modelos.md)). No hay un estudio independiente que compare
+the underlying prompts". Se critica el framework opaco, no la orquestación ([Sistemas con modelos](../Produccion/sistemas-con-modelos.md)). No hay un estudio independiente que compare
 framework y llamada directa.
 
 ## MCP: un protocolo para conectar herramientas
@@ -141,8 +141,8 @@ Tres textos de 2025-2026 dicen qué cambia:
   objective". Sin un buen evaluador, el harness no tiene contra qué mejorar.
 
 Lo que esta base saca en limpio: el foco pasa del prompt al entorno, con el
-[contexto](contexto-y-rag.md) como pieza; el harness se poda cuando el modelo mejora; y
-la [evaluación](../Evaluacion-y-observabilidad/evaluacion.md) vuelve al centro, como lo que el
+[contexto](../Contexto/contexto-y-rag.md) como pieza; el harness se poda cuando el modelo mejora; y
+la [evaluación](../Evaluacion/evals.md) vuelve al centro, como lo que el
 harness optimiza.
 
 > [!IMPORTANT]

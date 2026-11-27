@@ -3,7 +3,8 @@ resumen: >-
   La IA de este tema es la de los modelos de lenguaje grandes: cómo una red que predice el
   siguiente token produce respuestas, y cómo se acota lo que emite para que un sistema pueda
   confiar en ella.
-estado: borrador
+estado: obsoleto
+reemplazado_por: IA/ia.md
 estabilidad: estable
 fuentes: []
 creado: 2026-10-03

@@ -23,7 +23,7 @@ parte en el tiempo hasta el primer token (TTFT) y el tiempo por token de salida 
 ## Por qué un modelo los sube al frente
 
 La explicación es de esta base. En un servicio sin modelos, el costo de una consulta más es casi cero y la latencia depende de la
-base de datos y la red. Un [modelo de lenguaje](../../IA/llm.md) genera la respuesta token por token
+base de datos y la red. Un [modelo de lenguaje](../../IA/Modelos/modelo-base.md) genera la respuesta token por token
 y se paga por los tokens que lee y escribe, así que cada consulta tiene un costo propio y una
 latencia que crece con el largo de la respuesta. Richards y Ford tratan el rendimiento como una
 [característica](caracteristicas-arquitectonicas.md) más; esta nota es la aplicación de Huyen, que
@@ -50,7 +50,7 @@ responder.
 Para el costo, Huyen mide "the number of queries and the volume of input and output tokens", y
 agrega que "Length-related metrics are also important for tracking latency and costs". El costo por
 consulta sale de esas tres cantidades y del precio de cada token del modelo elegido. Los precios
-cambian seguido y viven en la ficha de [plataformas de IA](../Sistemas-con-modelos/plataformas-de-ia.md),
+cambian seguido y viven en la ficha de [plataformas de IA](../../IA/Produccion/plataformas-de-ia.md),
 no acá.
 
 ## Las piezas que los controlan
@@ -59,15 +59,15 @@ Cada pieza de la arquitectura de Huyen mueve alguna de las dos. Las dos últimas
 
 | Pieza | Qué mueve |
 |---|---|
-| [Router y gateway](../Sistemas-con-modelos/router-y-gateway-de-modelos.md) | El router manda las consultas simples a modelos más baratos; el gateway concentra el control de costo ("A model gateway is access control and cost management") |
-| [Cache de modelos](../Sistemas-con-modelos/cache-de-modelos.md) | Huyen la agrega en el paso "Reduce Latency with Cache" (prompt, exacta y semántica) |
-| [Contexto y RAG](../Sistemas-con-modelos/contexto-y-rag.md) | Cada fragmento de contexto que se agrega suma tokens de entrada |
-| [Agente](../Sistemas-con-modelos/agente.md) | Cada paso es otra llamada al modelo: multiplica costo y latencia |
+| [Router y gateway](../../IA/Produccion/router-y-gateway-de-modelos.md) | El router manda las consultas simples a modelos más baratos; el gateway concentra el control de costo ("A model gateway is access control and cost management") |
+| [Cache de modelos](../../IA/Produccion/cache-de-modelos.md) | Huyen la agrega en el paso "Reduce Latency with Cache" (prompt, exacta y semántica) |
+| [Contexto y RAG](../../IA/Contexto/contexto-y-rag.md) | Cada fragmento de contexto que se agrega suma tokens de entrada |
+| [Agente](../../IA/Agentes/agente.md) | Cada paso es otra llamada al modelo: multiplica costo y latencia |
 
 Según el mismo resumen de la charla, al comparar servicios de inferencia se miran costo, latencia y
 calidad juntos. Bajar costo con un modelo más chico solo vale si la
-[evaluación](../Evaluacion-y-observabilidad/evaluacion.md) muestra que la calidad aguanta, y la
-[observabilidad](../Evaluacion-y-observabilidad/observabilidad-de-modelos.md) es la que registra los tres en
+[evaluación](../../IA/Evaluacion/evals.md) muestra que la calidad aguanta, y la
+[observabilidad](../../IA/Produccion/observabilidad-de-modelos.md) es la que registra los tres en
 producción.
 
 ## Qué leer

@@ -3,7 +3,7 @@ resumen: >-
   RDFS y OWL son lenguajes del W3C para describir un dominio (clases, propiedades, restricciones)
   de los que un reasoner deriva hechos implícitos y detecta inconsistencias; OWL asume mundo
   abierto.
-estado: borrador
+estado: obsoleto
 estabilidad: estable
 creado: 2026-10-03
 fuentes:

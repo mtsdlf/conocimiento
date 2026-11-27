@@ -29,9 +29,9 @@ qué proporción de las salidas cumple los criterios del producto; reemplaza a l
 exacto cuando la misma entrada puede dar salidas distintas.
 
 Cada caso de ese conjunto se llama, en la jerga, un *eval*. La evaluación es la pieza central del
-[bucle de evaluación y observabilidad](evaluacion-y-observabilidad.md): recibe del
+[bucle de evaluación y observabilidad](evaluacion.md): recibe del
 [análisis de errores](analisis-de-errores.md) qué medir, corre sobre las trazas que guarda la
-[observabilidad](observabilidad-de-modelos.md) y decide si una mejora se queda.
+[observabilidad](../Produccion/observabilidad-de-modelos.md) y decide si una mejora se queda.
 
 ## Por qué la prueba unitaria no alcanza
 
@@ -47,7 +47,7 @@ no es la concurrencia sino que los kernels de inferencia no son invariantes al t
 invariantes, las 1.000 iguales. El costo, en una prueba con Qwen3-8B, fue de 42 s frente a 26 s de vLLM por defecto. Aun con salidas
 reproducibles, un cambio chico de prompt o de modelo cambia el comportamiento, así que la evaluación
 sobre muchos casos sigue haciendo falta. Cómo se aísla esa pieza incierta en el diseño está en
-[aislar lo no determinista](../Modularidad/aislar-lo-no-determinista.md).
+[aislar lo no determinista](../../Arquitectura/Modularidad/aislar-lo-no-determinista.md).
 
 ## Los tres niveles de Husain
 
@@ -70,7 +70,7 @@ los criterios de evaluación antes de construir, como en TDD. La cita literal no
 del capítulo sí muestra los tres pasos del pipeline: evaluar todos los componentes del sistema, no solo
 la salida final; escribir una guía de evaluación con rúbrica; y elegir métodos y datos. Evaluar cada
 componente es, por inferencia de esta base, lo que permite saber si una falla viene de la recuperación de
-[contexto](../Sistemas-con-modelos/contexto-y-rag.md), del prompt o del modelo.
+[contexto](../Contexto/contexto-y-rag.md), del prompt o del modelo.
 
 Según los resúmenes de capítulo del repositorio del libro, Huyen sostiene que los benchmarks públicos
 sirven para descartar modelos malos pero no para elegir el mejor para una aplicación, y que para eso
@@ -112,6 +112,6 @@ aciertos: "identify its failure modes and measure how often each of these failur
 Huyen, *AI Engineering*, capítulo 4, sección "Design Your Evaluation Pipeline": fijarse en los tres
 pasos y en evaluar cada componente. Como complemento práctico, Husain,
 ["Your AI Product Needs Evals"](https://hamel.dev/blog/posts/evals/): fijarse en los tres niveles y
-en las etiquetas binarias. La [fitness function](../Caracteristicas/fitness-function.md) del canon
+en las etiquetas binarias. La [fitness function](../../Arquitectura/Caracteristicas/fitness-function.md) del canon
 es el antecedente directo: un chequeo automático de una característica, que acá pasa a ser una
 proporción.

@@ -31,12 +31,12 @@ y da la razón económica: "Instead of routing all queries to an expensive model
 simpler queries to cheaper models."
 
 El router mueve la característica que con un modelo pasa al frente, el
-[costo y la latencia](../Caracteristicas/costo-y-latencia.md). RouteLLM (Ong et al., preprint de
+[costo y la latencia](../../Arquitectura/Caracteristicas/costo-y-latencia.md). RouteLLM (Ong et al., preprint de
 2024) entrena routers con datos de preferencia y, según su resumen, reporta bajar el costo "more
 than 2x in some cases" sin perder calidad. Es la afirmación de los autores, sin revisión por pares
 ni datos de producción de terceros. Un router también se equivoca (lectura de esta base): si manda una consulta difícil al
 modelo barato, la respuesta empeora sin que nadie lo note, y eso solo lo ve la
-[evaluación](../Evaluacion-y-observabilidad/evaluacion.md) separada por ruta.
+[evaluación](../Evaluacion/evals.md) separada por ruta.
 
 Elegir un modelo para cada ruta es el mismo problema que elegir el modelo de toda la aplicación, que
 Huyen trata en el cap. 4 ("Model Selection", p. 179, con la decisión entre construir y comprar).
@@ -50,15 +50,15 @@ costo y el fallback; el resto sale de la documentación de LiteLLM y Cloudflare)
 - una interfaz única para varios proveedores, que permite cambiar de modelo sin tocar la aplicación;
 - claves y permisos por usuario, equipo o proyecto, con presupuestos y límites de gasto;
 - reintentos y "fallback policies to overcome rate limits or API failures";
-- el registro de cada llamada, que alimenta la [observabilidad](../Evaluacion-y-observabilidad/observabilidad-de-modelos.md);
-- a veces, la [cache](cache-de-modelos.md) y filtros de [guardrails](../../IA/guardrails.md) como datos personales.
+- el registro de cada llamada, que alimenta la [observabilidad](observabilidad-de-modelos.md);
+- a veces, la [cache](cache-de-modelos.md) y filtros de [guardrails](guardrails.md) como datos personales.
 
 Un gateway de código abierto como el de la ficha de [Plataformas de IA](plataformas-de-ia.md)
 reúne todo eso detrás de un endpoint compatible con la API de un proveedor, según su
-documentación. Es el mismo patrón que un [API gateway](../Sistemas-distribuidos/api-gateway-y-bff.md),
+documentación. Es el mismo patrón que un [API gateway](../../Arquitectura/Sistemas-distribuidos/api-gateway-y-bff.md),
 con proveedores de modelos del otro lado. El fallback a otro modelo es una forma de
-[degradación controlada](../Sistemas-distribuidos/degradacion-controlada.md), y cortar a tiempo un
-proveedor que falla seguido es un [circuit breaker](../Sistemas-distribuidos/circuit-breaker.md):
+[degradación controlada](../../Arquitectura/Sistemas-distribuidos/degradacion-controlada.md), y cortar a tiempo un
+proveedor que falla seguido es un [circuit breaker](../../Arquitectura/Sistemas-distribuidos/circuit-breaker.md):
 esa lectura es de esta base, no de Huyen.
 
 En una organización con varios equipos, el gateway suele ser una capacidad de la plataforma
@@ -73,7 +73,7 @@ es inferencia de esta base, sin una fuente que lo trate.
 > reasoning models", y según esa lectura los routers de modelos deberían desaparecer. Del otro lado,
 > los gateways del mercado ofrecen el ruteo automático como producto. Ningún
 > estudio independiente arbitra; cada bando tiene interés comercial. Es una tensión abierta, parte
-> de la disputa más amplia sobre modelo grande o harness grande que se cuenta en [Agente](agente.md).
+> de la disputa más amplia sobre modelo grande o harness grande que se cuenta en [Agente](../Agentes/agente.md).
 
 La parte del gateway no entra en esa disputa: el control de acceso, el presupuesto y el fallback
 hacen falta con cualquier modelo.
