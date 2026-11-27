@@ -11,7 +11,8 @@ fuentes:
   - https://www.frontiersin.org/articles/10.3389/fphys.2021.651112/full
   - https://openrepository.aut.ac.nz/items/efef3b25-6701-4fb5-bb82-55fcd2a26027/full
   - https://pubmed.ncbi.nlm.nih.gov/33433148/
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1249/MSS.0000000000003897
+  - https://doi.org/10.1249/MSS.0000000000003897
   - https://pubmed.ncbi.nlm.nih.gov/21131862/
 aliases: [sobrecarga progresiva, progressive overload, doble progresión, double progression, autorregulación, autoregulation, meseta, estancamiento]
 creado: 2026-11-27
@@ -26,7 +27,7 @@ Es la [sobrecarga progresiva](../Carga/principios-basicos.md) aplicada ejercicio
 
 ## Subir cuando sobran repeticiones
 
-La regla con fuente es la de la posición 2009 del Colegio Estadounidense de Medicina del Deporte (ACSM): los programas progresivos "son necesarios", y se propone subir la carga entre 2 y 10 % cuando se pueden hacer una o dos repeticiones más de las buscadas ("2-10% increase in load be applied when the individual can perform the current workload for one to two repetitions over the desired number") ([ACSM, 2009](https://pubmed.ncbi.nlm.nih.gov/19204579/), según su resumen). Una revisión de 2004, antecesora de esa posición, describe la progresión como "un proceso dinámico" que cambia con el estado de entrenamiento y los objetivos ([Kraemer y Ratamess, 2004](https://paulogentil.com/pdf/Fundamentals%20of%20Resistance%20Training%20Progression%20and%20Exercise%20Prescription.pdf)).
+La regla con fuente es la de la posición 2009 del Colegio Estadounidense de Medicina del Deporte (ACSM): los programas progresivos "son necesarios", y se propone subir la carga entre 2 y 10 % cuando se pueden hacer una o dos repeticiones más de las buscadas ("2-10% increase in load be applied when the individual can perform the current workload for one to two repetitions over the desired number") ([ACSM, 2009](https://pubmed.ncbi.nlm.nih.gov/19204579/), según su resumen). Una revisión de 2004, antecesora de esa posición, describe la progresión como "un proceso dinámico" (en el original: "a dynamic process") que cambia con el estado de entrenamiento y los objetivos ([Kraemer y Ratamess, 2004](https://paulogentil.com/pdf/Fundamentals%20of%20Resistance%20Training%20Progression%20and%20Exercise%20Prescription.pdf), texto completo).
 
 ## La doble progresión, paso a paso
 
@@ -47,13 +48,13 @@ Progresan las dos cosas, primero las repeticiones y después la carga; de ahí e
 
 La **autorregulación** ajusta la carga del día según cómo sale, en lugar de fijarla de antemano como un porcentaje del máximo. La herramienta más simple son las [repeticiones en reserva (RIR)](variables-de-la-rutina.md#repeticiones-en-reserva-qué-tan-cerca-del-límite): si una serie pensada para quedar a 2 de reserva sale con 4, se sube la carga; si sale al fallo, se baja.
 
-En un metaanálisis, ajustar por el esfuerzo percibido o por la velocidad de la barra dio una fuerza parecida a prescribir por porcentajes ([Hickmott y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35038063/)). Otro, en deportistas, favoreció a la autorregulación para la fuerza máxima ([Zhang y otros, 2021](https://www.frontiersin.org/articles/10.3389/fphys.2021.651112/full)). Discrepan en el matiz, parecido o mejor; ninguno la muestra peor. La escala que traduce RIR a puntaje es la de [Zourdos y otros, 2016](https://openrepository.aut.ac.nz/items/efef3b25-6701-4fb5-bb82-55fcd2a26027/full).
+En un metaanálisis, seis estudios que ajustaban la carga por el esfuerzo percibido o por la velocidad de la barra dieron una fuerza parecida a prescribir por porcentajes: unos 2 kilos más en el máximo, sin diferencia significativa ([Hickmott y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35038063/), texto completo). Otro, con 8 estudios y 166 deportistas, favoreció a la autorregulación para la fuerza máxima, y sus autores dicen que "podría" ser más efectiva ([Zhang y otros, 2021](https://www.frontiersin.org/articles/10.3389/fphys.2021.651112/full), texto completo). La ACSM 2026 no tuvo datos suficientes para decidir. Discrepan en el matiz, parecido o mejor; ninguno la muestra peor. La escala que traduce RIR a puntaje es la de [Zourdos y otros, 2016](https://openrepository.aut.ac.nz/items/efef3b25-6701-4fb5-bb82-55fcd2a26027/full).
 
 ## Principiante e intermedio no progresan igual
 
-Quien empieza progresa rápido: en el metaanálisis de Lopez, los no entrenados mostraron efectos mayores ("Untrained participants showed greater effects") ([Lopez y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/33433148/)). Con los meses, los saltos se achican y la progresión pasa de sesión a sesión a semana a semana o más; esto último es práctica de los entrenadores, sin una fuente leída que lo mida.
+Quien empieza progresa rápido: en el metaanálisis de Lopez, los no entrenados ganaron más músculo que quienes ya entrenaban ("Untrained participants exhibit greater muscle hypertrophy") ([Lopez y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/33433148/), texto completo). Con los meses, los saltos se achican y la progresión pasa de sesión a sesión a semana a semana o más; esto último es práctica de los entrenadores, sin una fuente leída que lo mida.
 
-La ACSM 2026 dice que lo que más pesa es empezar y entrenar los grandes grupos al menos dos veces por semana ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/), según el comunicado). Para un principiante, la progresión fina importa menos que sostener la rutina.
+La ACSM 2026 recomienda ante todo entrenar con esfuerzo alto al menos dos veces por semana todos los grupos grandes. También aclara que subir el estímulo no hace falta para obtener beneficios, sino para seguir progresando a largo plazo (en el original: "progression is not necessary to achieve beneficial outcomes, and overload [...] is likely a requirement only for those seeking continued longer term progress") ([Currier y otros, 2026](https://doi.org/10.1249/MSS.0000000000003897), texto completo). Para un principiante, la progresión fina importa menos que sostener la rutina.
 
 ## Cuando el progreso se frena
 
@@ -65,11 +66,11 @@ Una meseta es una racha de semanas sin subir carga ni repeticiones en un ejercic
 4. Si el volumen del músculo es bajo, sumá series de a poco; si ya es alto, más no suele dar más ([hipertrofia](hipertrofia.md)).
 5. Recién después, cambiá el rango de repeticiones o la variante del ejercicio.
 
-Si el rendimiento cae en varios ejercicios a la vez y no vuelve con unos días de descanso, el problema puede ser otro: cuándo es exceso de carga está en [sobreentrenamiento](../Recuperacion/sobreentrenamiento.md). En un ensayo con 70 adultos, la fuerza ganada se conservó en gran parte tras 32 semanas sin entrenar o con volumen reducido ([Bickel y otros, 2011](https://pubmed.ncbi.nlm.nih.gov/21131862/), según un resumen del buscador); cuánto se pierde en general está en [desentrenamiento](../Adaptacion/desentrenamiento.md).
+Si el rendimiento cae en varios ejercicios a la vez y no vuelve con unos días de descanso, el problema puede ser otro: cuándo es exceso de carga está en [sobreentrenamiento](../Recuperacion/sobreentrenamiento.md). En un ensayo con 70 adultos, la fuerza ganada se conservó en gran parte tras 32 semanas sin entrenar o con volumen reducido ([Bickel y otros, 2011](https://pubmed.ncbi.nlm.nih.gov/21131862/), según su resumen; el músculo, en cambio, se conservó con volumen reducido en los jóvenes y no en los mayores); cuánto se pierde en general está en [desentrenamiento](../Adaptacion/desentrenamiento.md).
 
 > [!NOTE]
 > Sin fuente todavía: estudios sobre mesetas en adultos recreativos y sobre qué conviene hacer primero ante una.
 
 ## Qué tan firme es lo que dice esta nota
 
-Las fuentes se leyeron según su resumen o desde el buscador. La regla de subir carga tiene una posición de sociedad (ACSM 2009); la autorregulación, dos metaanálisis que coinciden en que no es peor. La doble progresión y el manejo de mesetas son práctica de entrenadores sin fuente primaria leída.
+La ACSM 2026, Kraemer y Ratamess, Hickmott, Zhang y Lopez se leyeron en texto completo; la ACSM 2009 y Bickel, según su resumen. La regla de subir carga tiene una posición de sociedad (ACSM 2009), y la de 2026 la limita a quien quiere seguir progresando; la autorregulación, dos metaanálisis que coinciden en que no es peor. La doble progresión y el manejo de mesetas son práctica de entrenadores sin fuente primaria leída.

@@ -7,7 +7,7 @@ dueno: familia
 fuentes:
   - https://link.springer.com/10.1007/s40279-016-0486-0
   - https://dc.etsu.edu/etsu-works/4641
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1249/MSS.0000000000003897
   - https://pubmed.ncbi.nlm.nih.gov/28834797/
   - https://pubmed.ncbi.nlm.nih.gov/25059334/
   - https://pubmed.ncbi.nlm.nih.gov/24100287/
@@ -27,7 +27,7 @@ Esta nota trata la fuerza como capacidad, en cualquier contexto: levantar una bo
 
 ## Qué es y cómo se manifiesta
 
-Una revisión de Suchomel, Nimphius y Stone describe la fuerza muscular como la capacidad de ejercer fuerza contra un objeto externo o una resistencia, y la mide de dos maneras: sin movimiento (isométrica, contra algo que no se mueve) y con movimiento (dinámica) ([Suchomel y otros, 2016](https://link.springer.com/10.1007/s40279-016-0486-0), según un resumen secundario). La misma revisión destaca dos derivados: la tasa de desarrollo de fuerza, que es qué tan rápido se alcanza la fuerza, y la potencia, que combina fuerza y velocidad.
+Una revisión de Suchomel, Nimphius y Stone describe la fuerza muscular como la capacidad de ejercer fuerza contra un objeto externo o una resistencia (según un resumen secundario). Según su propio resumen, propone medirla con tests de tres tipos: sin movimiento (isométricos, contra algo que no se mueve), con movimiento (dinámicos) y reactivos (con un rebote, como un salto tras caer) ([Suchomel y otros, 2016](https://link.springer.com/10.1007/s40279-016-0486-0)). La misma revisión destaca dos derivados: la tasa de desarrollo de fuerza, que es qué tan rápido se alcanza la fuerza, y la potencia, que combina fuerza y velocidad.
 
 De ahí salen las tres manifestaciones que se entrenan:
 
@@ -36,7 +36,7 @@ De ahí salen las tres manifestaciones que se entrenan:
 - **Resistencia muscular**: repetir un esfuerzo de fuerza muchas veces o sostenerlo. Es la que mejora, por ejemplo, con muchas repeticiones de abdominales.
 
 > [!NOTE]
-> Sin fuente todavía: qué manifestaciones de la fuerza mejora el entrenamiento según la posición 2026 del ACSM (el resumen consultado no lo detalla), y la clasificación de la fuerza (máxima, explosiva, resistencia) en un texto de la escuela alemana o de Zatsiorsky y Kraemer. La lista de arriba se arma con Suchomel y la ACSM.
+> Según la posición 2026 del ACSM, leída completa, entrenar fuerza mejora frente a no entrenar la fuerza, la potencia, la resistencia muscular y la velocidad de contracción. Sin fuente todavía: la clasificación de la fuerza (máxima, explosiva, resistencia) en un texto de la escuela alemana o de Zatsiorsky y Kraemer. La lista de arriba se arma con Suchomel y la ACSM.
 
 ## Músculo más grande y sistema nervioso mejor
 
@@ -47,15 +47,15 @@ Se suele explicar que la fuerza crece por dos caminos: el músculo se agranda (l
 
 ## Qué la hace mejorar
 
-La regla es la misma que en todo el entrenamiento: cargar, recuperar y subir la carga de a poco ([supercompensación](../Adaptacion/supercompensacion.md)). Según su resumen, la posición 2026 del ACSM (137 revisiones) encontró que pocas variables de la rutina afectaron las adaptaciones principales, y su resumen de prensa dice que lo que más pesa es empezar y entrenar al menos dos veces por semana los grandes grupos ([ACSM](https://acsm.org/resistance-training-guidelines-update-2026/)). Las cifras de carga y de series que circulan en la prensa no se verificaron contra la posición. Las dosis están en [principios básicos](../Carga/principios-basicos.md), y cómo se arma una rutina con ellos, en [variables de la rutina](../Musculacion/variables-de-la-rutina.md) y [progresión en el gimnasio](../Musculacion/progresion-en-el-gimnasio.md).
+La regla es la misma que en todo el entrenamiento: cargar, recuperar y subir la carga de a poco ([supercompensación](../Adaptacion/supercompensacion.md)). Según la posición 2026 del ACSM (137 revisiones, leída completa), pocas variables de la rutina afectaron las adaptaciones principales, y su recomendación principal es entrenar con esfuerzo alto, al menos dos veces por semana, todos los grupos grandes ([Currier y otros, 2026](https://doi.org/10.1249/MSS.0000000000003897)). Para la fuerza rindió más el 80 % del máximo o más con 2 a 3 series; para el músculo, al menos 10 series semanales por grupo. Las dosis están en [principios básicos](../Carga/principios-basicos.md), y cómo se arma una rutina con ellos, en [variables de la rutina](../Musculacion/variables-de-la-rutina.md) y [progresión en el gimnasio](../Musculacion/progresion-en-el-gimnasio.md).
 
 Que la fuerza máxima pida cargas pesadas y la potencia pida rapidez es un caso de [especificidad](../Adaptacion/especificidad.md).
 
 ## Para qué sirve fuera del gimnasio
 
-- **Salud.** En 16 cohortes, hacer fuerza se asoció con 10 a 17 % menos riesgo de muerte, con la mayor baja alrededor de 30 a 60 minutos por semana ([Momma y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35228201/); detalle en [cuánto ejercicio](../Carga/cuanto-ejercicio.md)).
+- **Salud.** En 16 estudios de cohorte, hacer fuerza se asoció con 10 a 17 % menos riesgo de muerte, con la mayor baja alrededor de 30 a 60 minutos por semana ([Momma y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35228201/); detalle en [cuánto ejercicio](../Carga/cuanto-ejercicio.md)).
 - **Lesiones.** En 25 ensayos, el entrenamiento de fuerza bajó las lesiones deportivas a menos de un tercio ([Lauersen y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/24100287/), según su resumen). Es una sola fuente, como aclara [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md).
-- **Velocidad.** Según un metaanálisis, la fuerza ganada en sentadilla se transfiere al sprint ([Seitz y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/25059334/), según un resumen secundario). La idea de que la fuerza vuelve lento no se sostiene; está en [velocidad](velocidad.md).
+- **Velocidad.** Según un metaanálisis, la fuerza ganada en sentadilla se transfiere al sprint ([Seitz y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/25059334/), según su resumen). La idea de que la fuerza vuelve lento no se sostiene; está en [velocidad](velocidad.md).
 - **Rendimiento deportivo.** Suchomel y otros concluyen que más fuerza se asocia a mejores características de fuerza en el tiempo y que podría bajar el riesgo de lesión.
 
 ## Cómo convive con las otras capacidades
@@ -66,4 +66,4 @@ Se mide con tests de una repetición máxima o de repeticiones hasta no poder m�
 
 ## Qué tan firme es lo que dice esta nota
 
-Suchomel y Seitz se conocen por resúmenes secundarios; la ACSM 2026 (solo su resumen de prensa), Schoenfeld, Momma, Lauersen y Schumann, según su resumen. Los mecanismos nerviosos y musculares no tienen fuente todavía. La nota no reemplaza a un profesional del ejercicio.
+Momma y Schumann se leyeron en texto completo; Suchomel, Seitz, Schoenfeld y Lauersen, solo según su resumen; la ACSM 2026, en texto completo. Los mecanismos nerviosos y musculares no tienen fuente todavía. La nota no reemplaza a un profesional del ejercicio.

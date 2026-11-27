@@ -10,7 +10,7 @@ fuentes:
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5856877
   - https://pubmed.ncbi.nlm.nih.gov/17762369/
   - https://pubmed.ncbi.nlm.nih.gov/34757594/
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1249/MSS.0000000000003897
   - https://clok.uclan.ac.uk/5138
 aliases: [planificación del entrenamiento, periodización, programación, training planning, programming]
 creado: 2026-11-27
@@ -31,7 +31,7 @@ Lectura de esta base: planificar es, en ese marco, periodizar: dividir el año e
 
 ## Cuánto pesa organizar la carga para un adulto
 
-La evidencia le da a la periodización una ventaja chica y solo en un resultado. En el metaanálisis de Moesgaard y otros (2022), con 35 estudios y el volumen igualado entre grupos, entrenar periodizado mejoró algo más la fuerza máxima, pero no el crecimiento muscular ([Moesgaard y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35044672/), según su abstract). La posición 2026 del ACSM no encontró un efecto consistente de la periodización ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/), según su resumen). Los números y por qué difieren están en [modelos de periodización](modelos-de-periodizacion.md).
+La evidencia le da a la periodización una ventaja chica y solo en un resultado. En el metaanálisis de Moesgaard y otros (2022), con 35 estudios y el volumen igualado entre grupos, entrenar periodizado mejoró algo más la fuerza máxima, pero no el crecimiento muscular ([Moesgaard y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/35044672/), según su abstract). La posición 2026 del ACSM no encontró un efecto consistente de la periodización ([Currier y otros, 2026](https://doi.org/10.1249/MSS.0000000000003897), texto completo). Los números y por qué difieren están en [modelos de periodización](modelos-de-periodizacion.md).
 
 La crítica de fondo es de Kiely (2018): los modelos de periodización se apoyan en una ciencia del estrés vieja ([Kiely, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5856877)); en 2012 agregó que la variabilidad individual de respuesta desafía los métodos genéricos de planificación ([Kiely, 2012](https://clok.uclan.ac.uk/5138), según su resumen). Kiely no pide dejar de organizar la carga, sino hacerlo con una planificación adaptada al contexto de cada uno.
 
@@ -40,7 +40,7 @@ Lectura de esta base: para un adulto recreativo, lo que más pesa está en [prin
 ## Las tres decisiones que se toman acá
 
 1. **Cómo se reparte la semana y el año.** Las unidades (sesión, microciclo, mesociclo, macrociclo) y qué se decide en cada una están en [ciclos](ciclos.md).
-2. **Cómo se combinan fuerza y resistencia.** Se suele suponer que correr y levantar pesas en la misma semana compiten por la recuperación; ninguna fuente leída lo mide. Según el metaanálisis de Schumann, sumar aeróbico no comprometió la hipertrofia ni la fuerza máxima; solo se atenuó la fuerza explosiva, más si van en la misma sesión ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/), según su abstract). El detalle está en [fuerza y cardio](fuerza-y-cardio.md).
+2. **Cómo se combinan fuerza y resistencia.** Se suele suponer que correr y levantar pesas en la misma semana compiten por la recuperación; ninguna fuente leída lo mide. Según el metaanálisis de Schumann, sumar aeróbico no comprometió la hipertrofia ni la fuerza máxima; solo se atenuó la fuerza explosiva, más si van en la misma sesión ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/), texto completo). El detalle está en [fuerza y cardio](fuerza-y-cardio.md).
 3. **Cuándo se baja la carga.** El taper antes de una competencia tiene metaanálisis en atletas ([Bosquet y otros, 2007](https://pubmed.ncbi.nlm.nih.gov/17762369/)); la semana de descarga del gimnasio es práctica de entrenadores sin ensayo que la pruebe. Las dos están en [descarga y taper](descarga-y-taper.md).
 
 ## Cómo falla un plan

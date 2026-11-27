@@ -10,7 +10,8 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/32168178/
   - https://pubmed.ncbi.nlm.nih.gov/27102172/
   - https://pubmed.ncbi.nlm.nih.gov/19204579/
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1249/MSS.0000000000003897
+  - https://doi.org/10.1249/MSS.0000000000003897
 aliases: [split, full body, cuerpo completo, torso-pierna, upper-lower, push-pull-legs, PPL, empuje-tracción-pierna, rutina dividida, weider]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -24,10 +25,10 @@ El tipo de rutina es la [frecuencia](variables-de-la-rutina.md#frecuencia-cuánt
 
 ## La división pesa poco si el volumen es el mismo
 
-Un metaanálisis de 2024 concluyó que dividir el cuerpo o entrenarlo completo "no cambia de forma significativa" la fuerza ni la hipertrofia cuando el volumen está igualado (en el original: "do not significantly impact either strength gains or muscle hypertrophy when volume is equated"), y que se puede elegir por preferencia ([Ramos-Campo y otros, 2024](https://pubmed.ncbi.nlm.nih.gov/38595233/), según su resumen). Un ensayo en mujeres no entrenadas tampoco encontró ventaja de la rutina dividida ([ensayo de 2022](https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-022-00481-7)).
+Un metaanálisis de 2024 concluyó que dividir el cuerpo o entrenarlo completo "no cambia de forma significativa" la fuerza ni la hipertrofia cuando el volumen está igualado (en el original: "do not significantly impact either strength gains or muscle hypertrophy when volume is equated"), y que se puede elegir por preferencia ([Ramos-Campo y otros, 2024](https://pubmed.ncbi.nlm.nih.gov/38595233/), 14 estudios con 392 personas, según su resumen). Un ensayo con 50 mujeres jóvenes no entrenadas tampoco encontró ventaja de la rutina dividida: durante 12 semanas, cuerpo completo dos días o torso-pierna cuatro días, con cada músculo dos veces por semana, dieron la misma fuerza y el mismo músculo ([Pedersen y otros, 2022](https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-022-00481-7), texto completo).
 
 > [!IMPORTANT]
-> En entrenados, un ensayo chico dio un resultado mixto: algo a favor de la rutina dividida para el músculo y del cuerpo completo para la fuerza máxima ([Bartolomei y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/32168178/), con el enlace sin confirmar). Es un solo estudio contra un metaanálisis; que para un principiante o intermedio no cambie la elección es lectura propia.
+> En entrenados, un ensayo chico dio un resultado mixto: algo a favor de la rutina dividida en el grosor del muslo y del cuerpo completo en una sola prueba de fuerza (un press de banca isocinético lento); las demás pruebas de fuerza no difirieron ([Bartolomei y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/32168178/), 21 hombres, según su resumen). Es un solo estudio contra un metaanálisis; que para un principiante o intermedio no cambie la elección es lectura propia.
 
 Los nombres (torso-pierna, empuje-tracción-pierna) son de la práctica: la literatura no los estudia como categorías, sino como formas de repartir volumen y frecuencia.
 
@@ -44,7 +45,7 @@ La última columna es aritmética del calendario, no un dato de estudio. Los eje
 
 ## Qué rutina según los días que tenés
 
-La elección sale de cruzar dos datos con fuente: entrenar cada grupo grande al menos dos veces por semana ([Schoenfeld, Ogborn y Krieger, 2016](https://pubmed.ncbi.nlm.nih.gov/27102172/); la ACSM 2026 dice lo mismo en su comunicado) y que la división no pesa con el volumen igualado. La tabla es esa inferencia aplicada; ninguna fuente la propone con estas palabras. Los días por semana según el nivel son de la posición 2009 del Colegio Estadounidense de Medicina del Deporte ([ACSM, 2009](https://pubmed.ncbi.nlm.nih.gov/19204579/)).
+La elección sale de cruzar dos datos con fuente: entrenar cada grupo grande al menos dos veces por semana ([Schoenfeld, Ogborn y Krieger, 2016](https://pubmed.ncbi.nlm.nih.gov/27102172/); la ACSM 2026 lo pone como su recomendación principal, aunque con el volumen igualado no encontró efecto de la frecuencia sobre el músculo) y que la división no pesa con el volumen igualado. La tabla es esa inferencia aplicada; ninguna fuente la propone con estas palabras. Los días por semana según el nivel son de la posición 2009 del Colegio Estadounidense de Medicina del Deporte ([ACSM, 2009](https://pubmed.ncbi.nlm.nih.gov/19204579/)).
 
 | Días por semana | Rutina que cumple las dos veces | Qué tener en cuenta |
 |---|---|---|
@@ -64,4 +65,4 @@ Si la semana tiene también carrera o un deporte, los días de pierna compiten c
 
 ## Qué tan firme es lo que dice esta nota
 
-El metaanálisis de Ramos-Campo y los ensayos se leyeron según su resumen o desde el buscador. Que la división pese poco con volumen igualado tiene un metaanálisis y un ensayo que coinciden, y otro ensayo mixto. La tabla por días es inferencia a partir de las frecuencias con fuente.
+El ensayo de Pedersen y la ACSM 2026 se leyeron en texto completo; el metaanálisis de Ramos-Campo y el ensayo de Bartolomei, según su resumen. Que la división pese poco con volumen igualado tiene un metaanálisis y un ensayo que coinciden, y otro ensayo mixto. La tabla por días es inferencia a partir de las frecuencias con fuente.

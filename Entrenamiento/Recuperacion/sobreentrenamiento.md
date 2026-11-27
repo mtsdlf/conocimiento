@@ -44,7 +44,7 @@ Según el mismo resumen, distinguir el síndrome de la sobrecarga no funcional e
 
 Según el resumen del consenso, ningún marcador (hormonal, de rendimiento, psicológico, bioquímico o inmunológico) cumple todos los criterios para usarse de forma general. El diagnóstico se hace descartando otras causas: enfermedad, infecciones, restricción de calorías, poca ingesta de carbohidratos o de proteínas, y falta de hierro o de magnesio ([Meeusen y otros, 2013](https://pubmed.ncbi.nlm.nih.gov/23247672/), según un resumen automático).
 
-Lo más simple fue lo que mejor siguió la carga. Una revisión sistemática encontró que el bienestar que la persona anota "was typically impaired with an acute increase in training load" y siguió la carga mejor que las medidas objetivas ([Saw, Main y Gastin, 2016](https://pubmed.ncbi.nlm.nih.gov/26423706/), según su resumen); no probó que detecte el sobreentrenamiento. Cómo leer esas anotaciones está en [registro y monitoreo](../Evaluacion/registro-y-monitoreo.md).
+Lo más simple fue lo que mejor siguió la carga. Una revisión sistemática encontró que el bienestar que la persona anota "was typically impaired with an acute increase in training load" y siguió la carga mejor que las medidas objetivas ([Saw, Main y Gastin, 2016](https://pubmed.ncbi.nlm.nih.gov/26423706/), texto completo); no probó que detecte el sobreentrenamiento. Cómo leer esas anotaciones está en [registro y monitoreo](../Evaluacion/registro-y-monitoreo.md).
 
 > [!NOTE]
 > Sin fuente todavía: las frases literales del consenso de 2013 y su tabla de diagnóstico diferencial; los síntomas típicos con su frecuencia; y cuánto tarda en recuperarse cada nivel. El texto completo no se leyó.
@@ -60,7 +60,7 @@ En más de 200 atletas de élite evaluados con esa herramienta, "REDs prevalence
 Lectura de esta base: REDs se parece al sobreentrenamiento porque los dos afectan el rendimiento, y porque el consenso de 2013 ya pedía descartar la restricción de calorías antes de hablar de sobreentrenamiento. Se diferencian en la causa: uno es carga de más, el otro es energía de menos.
 
 > [!IMPORTANT]
-> El concepto está discutido. Una carta de 2025 titulada "Yes: REDs Does Exist!" sugiere que hay quien lo cuestiona ([PubMed 40307664](https://pubmed.ncbi.nlm.nih.gov/40307664/), sin resumen ni contenido leído). Los argumentos de los críticos no se leyeron.
+> El concepto está discutido. En 2024, Jeukendrup y colegas publicaron un artículo que pregunta si el síndrome existe. Los autores del consenso de 2023 les respondieron con una carta, "Yes: REDs Does Exist!" ([Mountjoy y otros, 2025](https://pubmed.ncbi.nlm.nih.gov/40307664/), texto completo). La carta cita la crítica central, "Very few studies can demonstrate causality between LEA and symptoms" (pocos estudios pueden mostrar que la baja disponibilidad energética cause los síntomas), y admite los problemas para medir la disponibilidad energética. Defiende que muchos datos que asocian dos cosas pueden, juntos, mostrar una causa. El artículo de los críticos no se leyó.
 
 Qué comer para que alcance la energía está en Nutrición: [rendimiento](../../Nutricion/Objetivos-del-adulto/rendimiento.md), que explica por qué entrenar en déficit resta energía, y [pérdida de grasa](../../Nutricion/Objetivos-del-adulto/perdida-de-grasa.md), para quien quiere bajar grasa y entrenar a la vez.
 
@@ -70,4 +70,4 @@ La prevención sale de las otras notas de la vertical. Subir la carga de a poco 
 
 ## Qué tan firme es lo que dice esta nota
 
-Todo es de atletas y todo se leyó según su resumen; el del consenso de 2013, a través de un resumen automático que no da frases literales. Para el sobreentrenamiento hay una sola fuente de consenso (Meeusen 2013); para REDs, dos consensos del mismo grupo (2018 y 2023), así que no son independientes. Esta nota no da criterios de diagnóstico ni reemplaza a un médico.
+Todo es de atletas. Saw y la carta de 2025 se leyeron en texto completo; el resto, según su resumen, y el consenso de 2013, a través de un resumen automático que no da frases literales. Para el sobreentrenamiento hay una sola fuente de consenso (Meeusen 2013); para REDs, dos consensos del mismo grupo (2018 y 2023), así que no son independientes. Esta nota no da criterios de diagnóstico ni reemplaza a un médico.

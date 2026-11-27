@@ -15,7 +15,7 @@ fuentes:
   - https://www.memoria.fahce.unlp.edu.ar/programas/pp.13165/pp.13165.pdf
   - https://ispef-cat.infd.edu.ar/sitio/wp-content/uploads/2021/06/ENTRENAMIENTO.doc
   - https://efdeportes.com/libros/en.htm
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1249/MSS.0000000000003897
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC5856877
 aliases: [libros de entrenamiento, bibliografía del profesorado, lecturas de entrenamiento, por dónde empezar a estudiar entrenamiento, training reading list]
 creado: 2026-11-27
@@ -32,7 +32,7 @@ Armada el 2026-11-27 con los recursos que proponen los informes de investigació
 
 El orden es una recomendación de esta base, no un hallazgo. Va de lo que sirve para entrenar a lo que sirve para entender de dónde viene.
 
-1. La posición 2026 del ACSM sobre entrenamiento de fuerza, en su abstract: qué variables importan y cuáles no. En la base, [principios básicos](../Carga/principios-basicos.md).
+1. La posición 2026 del ACSM sobre entrenamiento de fuerza, en texto completo (abierta en PMC12965823): qué variables importan y cuáles no. En la base, [principios básicos](../Carga/principios-basicos.md).
 2. Un manual de certificación, por los capítulos de diseño de programas: el de la NSCA para fuerza y acondicionamiento, o las guías del ACSM para la salud.
 3. Zatsiorsky, Kraemer y Fry, para entender por qué funciona el entrenamiento de fuerza.
 4. Kiely 2018, abierto, para ver qué discute la evidencia de la teoría clásica.
@@ -59,7 +59,7 @@ Son los que aparecen en los programas de la UNLP (2016) y del ISEF de Catamarca 
 |---|---|---|
 | Matveyev, la obra de 1964 sobre la periodización; en el ISEF de Catamarca figura una edición de 2001 | El modelo clásico de periodización | Nada |
 | Bompa y Buzzichelli, *Periodization*, 6.ª ed. (2019); en castellano, *Periodización*. Bompa tiene además *Entrenamiento de equipos deportivos* | La versión de Bompa del modelo clásico; los informes proponen sus capítulos de terminología y plan anual para la definición de macro, meso y microciclo ([ficha](https://us.humankinetics.com/products/Periodization-6th-Edition)) | Resumen (ficha) |
-| Platonov, *La adaptación en el deporte* (1988) y *El entrenamiento deportivo, teoría y metodología* (1988) | La adaptación y la periodización en dos ciclos por año; su manual *Teoría general de preparación de los deportistas en el deporte olímpico* se publicó en España en 2001 ([reseña](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4327377/)) | Resumen (reseña) |
+| Platonov, *La adaptación en el deporte* (1988) y *El entrenamiento deportivo, teoría y metodología* (1988) | La adaptación y la periodización con uno o varios ciclos por año, según el calendario; su manual *Teoría general de preparación de los deportistas en el deporte olímpico* se publicó en España en 2001 (dato de los informes, que la reseña no trae) ([reseña](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4327377/), de su monografía de 2013) | Resumen (reseña leída completa) |
 | Weineck, *Entrenamiento total* y *Entrenamiento óptimo* (1994) | La escuela alemana: capacidades condicionales y coordinativas, con base de medicina del deporte | Nada |
 | Verkhoshansky, *Teoría y metodología del entrenamiento deportivo* (Paidotribo), y con Siff, *Superentrenamiento* | El antecedente de la periodización en bloques | Nada |
 | Issurin, *Periodización en bloques* | El modelo de bloques contado por quien lo sistematizó | Nada |
@@ -70,14 +70,14 @@ Las fechas de Platonov no coinciden: una lista da 1984 para *Teoría y metodolog
 
 ## Los artículos que sostienen esta base
 
-Los de acceso abierto se pueden leer enteros; los demás, en su abstract. Cada uno tiene su nota.
+Los de acceso abierto se pueden leer enteros; los demás, en su abstract. Se leyeron completos Kiely (2018), Schumann (2022), Bell (2023) y, fuera de la tabla, Rogerson (2024) y Wang (2023); Moesgaard (2022) y Bosquet (2007), en el abstract. Cada uno tiene su nota.
 
 | Artículo | Qué aporta | Dónde está en la base |
 |---|---|---|
-| Currier y otros (2026), posición del ACSM sobre entrenamiento de fuerza ([comunicado](https://acsm.org/resistance-training-guidelines-update-2026/)) | 137 revisiones sistemáticas: qué variables de una rutina pesan y cuáles no | [Principios básicos](../Carga/principios-basicos.md) |
+| Currier y otros (2026), posición del ACSM sobre entrenamiento de fuerza, Med Sci Sports Exerc 58(4):851-872 ([DOI](https://doi.org/10.1249/MSS.0000000000003897)) | 137 revisiones sistemáticas: qué variables de una rutina pesan y cuáles no | [Principios básicos](../Carga/principios-basicos.md) |
 | Kiely (2018), *Periodization theory: confronting an inconvenient truth*, abierto ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5856877)) | La crítica a la base teórica de la periodización; las secciones sobre Selye y el estrés | [Modelos de periodización](../Planificacion/modelos-de-periodizacion.md) |
 | Moesgaard y otros (2022), periodizado contra no periodizado | La evidencia actual de la periodización, con el volumen igualado | [Modelos de periodización](../Planificacion/modelos-de-periodizacion.md) |
-| Schumann y otros (2022), entrenamiento concurrente | Abstract y figura de subgrupos: misma sesión contra sesiones separadas | [Fuerza y cardio](../Planificacion/fuerza-y-cardio.md) |
+| Schumann y otros (2022), entrenamiento concurrente, abierto | Los resultados y los subgrupos: misma sesión contra sesiones separadas, correr contra pedalear, edad y nivel | [Fuerza y cardio](../Planificacion/fuerza-y-cardio.md) |
 | Bosquet y otros (2007), metaanálisis del taper | Cuánto y cómo bajar antes de competir | [Descarga y taper](../Planificacion/descarga-y-taper.md) |
 | Bell y otros (2023), Delphi sobre la descarga, abierto en PMC | La definición y los principios de diseño, como opinión de expertos | [Descarga y taper](../Planificacion/descarga-y-taper.md) |
 | Seiler (2010), distribución de la intensidad en atletas de resistencia | Los datos descriptivos y sus limitaciones | [Distribución de la intensidad](../Resistencia/distribucion-de-intensidad.md) |

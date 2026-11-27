@@ -12,7 +12,7 @@ fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/22002517/
   - https://pubmed.ncbi.nlm.nih.gov/34757594/
   - https://pubmed.ncbi.nlm.nih.gov/28401638/
-  - https://pmc.ncbi.nlm.nih.gov/articles/PMC8273688
+  - https://pubmed.ncbi.nlm.nih.gov/32552580/
 aliases: [Endurance, Entrenamiento de resistencia, Running, Correr, Fondo]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -47,15 +47,15 @@ Con las zonas definidas, la pregunta siguiente es cuánto tiempo pasar en cada u
 
 ## Dónde se lastima quien corre
 
-Quien recién empieza a correr se lesiona más que quien ya corre. Un metaanálisis dio 17,8 lesiones cada 1000 horas en corredores novatos y 7,7 en recreativos ([Videbæk y otros, 2015](https://pubmed.ncbi.nlm.nih.gov/25951917/), según su resumen). Es una sola fuente, y el rango entre estudios fue de 2,5 a 33 lesiones cada 1000 horas. Por eso la progresión del volumen ocupa buena parte del plan, y la regla del 10 % que se repite para dosificarla no mostró beneficio en un ensayo: un programa graduado de 13 semanas basado en ella tuvo 20,8 % de lesiones contra 20,3 % del programa estándar (GRONORUN, según su resumen; está en [plan de carrera](plan-de-carrera.md)). El criterio para un dolor (seguir, parar o consultar) es el general de [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md); esta nota no reemplaza a un médico ni a un kinesiólogo.
+Quien recién empieza a correr se lesiona más que quien ya corre. Un metaanálisis dio 17,8 lesiones cada 1000 horas en corredores novatos y 7,7 en recreativos ([Videbæk y otros, 2015](https://pubmed.ncbi.nlm.nih.gov/25951917/), según el texto completo). Juntó 13 estudios, con definiciones de lesión y de tipo de corredor distintas, y el rango entre estudios fue de 2,5 a 33 lesiones cada 1000 horas. Por eso la progresión del volumen ocupa buena parte del plan, y la regla del 10 % que se repite para dosificarla no mostró beneficio en un ensayo: un programa graduado de 13 semanas basado en ella tuvo 20,8 % de lesiones contra 20,3 % del programa estándar (GRONORUN, según su resumen; una revisión leída completa lo reporta igual; está en [plan de carrera](plan-de-carrera.md)). El criterio para un dolor (seguir, parar o consultar) es el general de [dolor y lesiones](../Recuperacion/dolor-y-lesiones.md); esta nota no reemplaza a un médico ni a un kinesiólogo.
 
 ## Correr y hacer pesas, y las otras disciplinas de resistencia
 
-Según Schumann (2022), sumar entrenamiento aeróbico no comprometió la hipertrofia ni la fuerza máxima, aunque sí atenuó algo la fuerza explosiva; la interacción está en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md). Qué le hace la fuerza al corredor no tiene fuente en esta nota. Un detalle depende del deporte. El metaanálisis de Wilson (2012) vio pérdida de músculo y fuerza al combinar fuerza con correr y no con bicicleta ([Wilson y otros, 2012](https://pubmed.ncbi.nlm.nih.gov/22002517/)); el de Schumann (2022), más grande, no vio diferencia entre correr y pedalear ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/)).
+Según Schumann (2022), que juntó 43 estudios y se leyó completo, sumar entrenamiento aeróbico no comprometió la hipertrofia ni la fuerza máxima, aunque sí atenuó algo la fuerza explosiva, sobre todo con las dos cosas en la misma sesión; la interacción está en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md). Qué le hace la fuerza al corredor no tiene fuente en esta nota. Un detalle depende del deporte. El metaanálisis de Wilson (2012) vio pérdida de músculo y fuerza al combinar fuerza con correr y no con bicicleta ([Wilson y otros, 2012](https://pubmed.ncbi.nlm.nih.gov/22002517/)); el de Schumann (2022), más grande, no vio diferencia entre correr y pedalear ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/), según el texto completo).
 
 Bici y natación entrarían como subcarpetas de Resistencia con sus propias notas de técnica, equipo y plan, y usarían las mismas [zonas](zonas-de-intensidad.md), la misma [distribución](distribucion-de-intensidad.md) y los mismos [métodos](metodos-de-resistencia.md). Las diferencias que ya aparecen en las fuentes:
 
-- La frecuencia cardíaca de muñeca tuvo validez aceptable en la mayoría de las actividades, con más error en ciclismo (−4,55 lpm) y en pesas (−7,26 lpm) ([revisión sistemática](https://pmc.ncbi.nlm.nih.gov/articles/PMC8273688), según su resumen). Que en bici la intensidad se mida con potencia es práctica común, sin fuente acá.
+- La frecuencia cardíaca de muñeca tuvo validez aceptable en la mayoría de las actividades, con poco error corriendo en cinta (−0,51 lpm) y más en ciclismo (−4,55 lpm) y en pesas (−7,26 lpm) ([Zhang y otros, 2020](https://pubmed.ncbi.nlm.nih.gov/32552580/), según su resumen). Que en bici la intensidad se mida con potencia es práctica común, sin fuente acá.
 - Para bajar grasa, correr tuvo efectos grandes en la masa grasa y pedalear no, en el metaanálisis de Wewege ([Wewege y otros, 2017](https://pubmed.ncbi.nlm.nih.gov/28401638/)).
 
 > [!NOTE]
@@ -74,4 +74,4 @@ Para leer en orden, de las zonas al equipo:
 
 ## Qué tan firme es lo que dice esta nota
 
-Joyner y Coyle se leyó casi completo; lo demás, según su resumen. El modelo de los tres factores es de 2008 y se pensó para atletas de élite.
+Joyner y Coyle, Videbæk y Schumann se leyeron completos; Seiler, Jamnick, Wilson, Wewege, Zhang y GRONORUN, según su resumen. El modelo de los tres factores es de 2008 y se pensó para atletas de élite.

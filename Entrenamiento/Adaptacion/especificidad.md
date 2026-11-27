@@ -32,7 +32,7 @@ En inglés se la resume con la sigla SAID, «adaptaciones específicas a las dem
 Los estudios muestran la especificidad aunque no la nombren:
 
 - **Carga y fuerza máxima.** Con cargas livianas o pesadas, llevadas al fallo, el músculo crece igual; la fuerza máxima, en cambio, crece más con cargas pesadas ([Schoenfeld y otros, 2017](https://pubmed.ncbi.nlm.nih.gov/28834797/)). La fuerza para levantar mucho peso se gana levantando mucho peso.
-- **Fuerza o resistencia.** En el metaanálisis de Wilson, el músculo creció con un tamaño del efecto de 1,23 con fuerza sola y de 0,27 con aeróbico solo ([Wilson y otros, 2012](https://pubmed.ncbi.nlm.nih.gov/22002517/), según un resumen secundario; detalle en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md)).
+- **Fuerza o resistencia.** En el metaanálisis de Wilson, el músculo creció con un tamaño del efecto de 1,23 con fuerza sola y de 0,27 con aeróbico solo ([Wilson y otros, 2012](https://pubmed.ncbi.nlm.nih.gov/22002517/), según su resumen; detalle en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md)).
 - **El músculo que se trabaja, no la grasa de encima.** Seis semanas de abdominales mejoraron la resistencia de los abdominales sin bajar la grasa de la panza ([Vispute y otros, 2011](https://pubmed.ncbi.nlm.nih.gov/21804427/); está en [mitos del entrenamiento](../Fundamentos/mitos-del-entrenamiento.md)).
 
 En las habilidades la especificidad es más fuerte todavía. Según una revisión que lo cita, el trabajo de Henry encontró que incluso la coordinación y la agilidad, que algunos tratan como capacidades generales, eran específicas de cada tarea ([revisión sobre capacidades psicomotoras](https://core.ac.uk/works/8486311), según un resumen secundario). Eso pone en duda que exista una «coordinación» general que se entrene una vez para todo, como cuenta [capacidades coordinativas](../Capacidades/capacidades-coordinativas.md).
@@ -41,7 +41,7 @@ En las habilidades la especificidad es más fuerte todavía. Según una revisió
 
 Especificidad no quiere decir que nada se transfiera. Lo entrenado en una tarea mejora otras, tanto más cuanto más se parecen en músculos, velocidad y forma de moverse.
 
-El caso mejor estudiado es la fuerza y la velocidad. Un metaanálisis de 2014 encontró que la fuerza ganada en sentadilla se transfiere a la velocidad de sprint, con una mejora de alrededor del 3,11 % que los autores llaman «prácticamente relevante» ([Seitz y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/25059334/), según un resumen secundario). Otro, de 2021, halló que el levantamiento olímpico y la pliometría (saltos repetidos) dan mejoras parecidas en velocidad, potencia y fuerza ([metaanálisis de 2021](https://link.springer.com/article/10.1007/s40279-021-01627-2), según un resumen secundario). Son dos metaanálisis independientes; el detalle está en [velocidad](../Capacidades/velocidad.md).
+El caso mejor estudiado es la fuerza y la velocidad. Un metaanálisis de 2014 encontró que la fuerza ganada en sentadilla se transfiere a la velocidad de sprint, con una mejora de alrededor del 3,11 % que los autores llaman «prácticamente relevante», en 15 estudios con 510 participantes ([Seitz y otros, 2014](https://pubmed.ncbi.nlm.nih.gov/25059334/), según su resumen). Otro, de 2021, con 16 estudios y 427 participantes, halló que el levantamiento olímpico y la pliometría (saltos repetidos) dan mejoras parecidas en velocidad, potencia y fuerza ([metaanálisis de 2021](https://link.springer.com/article/10.1007/s40279-021-01627-2), leído completo). Son dos metaanálisis independientes; el detalle está en [velocidad](../Capacidades/velocidad.md).
 
 La otra cara es la interferencia: dos estímulos distintos en la misma semana podrían restarse. En un adulto común, sumar cardio a la fuerza no le quita músculo ni fuerza máxima, y solo se resiente algo la fuerza explosiva ([Schumann y otros, 2022](https://pubmed.ncbi.nlm.nih.gov/34757594/); detalle en [fuerza y cardio](../Planificacion/fuerza-y-cardio.md)).
 
@@ -57,4 +57,4 @@ La especificidad decide qué es «la carga» en cada disciplina. En la [resisten
 
 ## Qué tan firme es lo que dice esta nota
 
-El principio en sí no tiene fuente primaria leída. Los ejemplos salen de metaanálisis y ensayos leídos según su resumen; lo de Seitz, el metaanálisis de 2021 y Henry, según resúmenes secundarios.
+El principio en sí no tiene fuente primaria leída. El metaanálisis de 2021 y Schumann se leyeron en texto completo; Schoenfeld, Wilson, Vispute y Seitz, solo según su resumen; Henry, según una revisión que lo cita, que no se pudo abrir.

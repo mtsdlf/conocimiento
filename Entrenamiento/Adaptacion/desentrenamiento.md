@@ -6,6 +6,7 @@ estabilidad: estable
 dueno: familia
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/10966148/
+  - https://pubmed.ncbi.nlm.nih.gov/10999420/
   - https://pmc.ncbi.nlm.nih.gov/articles/PMC10853933/
   - https://www.frontiersin.org/articles/10.3389/fphys.2023.1334766/full
   - https://pubmed.ncbi.nlm.nih.gov/21131862/
@@ -25,14 +26,14 @@ Es el último tramo de la [supercompensación](supercompensacion.md): si no lleg
 
 Mujika y Padilla definen el desentrenamiento como «la pérdida parcial o completa de las adaptaciones inducidas por el entrenamiento» (en el original: "the partial or complete loss of training-induced adaptations"). Llaman de corto plazo a una pausa de menos de 4 semanas ([Mujika y Padilla, 2000](https://pubmed.ncbi.nlm.nih.gov/10966148/), según su resumen).
 
-En atletas muy entrenados, lo primero que cae es lo aeróbico. Según esa revisión, en una pausa corta bajan rápido el consumo máximo de oxígeno (la [capacidad aeróbica](../Capacidades/resistencia-aerobica.md)) y el volumen de sangre, el cuerpo pasa a usar más hidratos de carbono como combustible y baja la sensibilidad a la insulina. La fuerza cae menos. En pausas de más de 4 semanas, la segunda parte del trabajo dice que la capacidad aeróbica de los atletas «cae marcadamente pero queda por encima de los valores de control» (en el original: "declines markedly but remains above control values") ([resumen de Mujika y Padilla, parte II](https://pmc.ncbi.nlm.nih.gov/articles/PMC10853933/), según un resumen secundario).
+En atletas muy entrenados, lo primero que cae es lo aeróbico. Según esa revisión, en una pausa corta bajan rápido el consumo máximo de oxígeno (la [capacidad aeróbica](../Capacidades/resistencia-aerobica.md)) y el volumen de sangre, el cuerpo pasa a usar más hidratos de carbono como combustible y baja la sensibilidad a la insulina. La fuerza cae menos. En pausas de más de 4 semanas, la segunda parte del trabajo dice que la capacidad aeróbica de los atletas «cae marcadamente pero queda por encima de los valores de control» (en el original: "declines markedly but remains above control values") ([Mujika y Padilla, 2000, parte II](https://pubmed.ncbi.nlm.nih.gov/10999420/), según su resumen). Una revisión sistemática de 2023 sobre atletas de resistencia, leída completa, describe lo mismo: al parar del todo cae el consumo máximo de oxígeno por la baja del volumen de sangre, y reducir el entrenamiento en vez de cortarlo amortigua la pérdida ([Barbieri y otros, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10853933/)).
 
 > [!NOTE]
 > Sin fuente todavía: cuánto cae la capacidad aeróbica en semanas de pausa. Los resúmenes secundarios dan rangos distintos entre sí y no se leyó la parte II original, así que no se dan porcentajes. Además, son datos de atletas muy entrenados; llevarlos a un adulto que entrena por salud es un salto.
 
 ## Mantener cuesta menos que ganar
 
-El mejor dato sobre fuerza y músculo es un ensayo de Bickel, Cross y Bamman con 70 adultos jóvenes y mayores ([Bickel y otros, 2011](https://pubmed.ncbi.nlm.nih.gov/21131862/)). Primero entrenaron fuerza 16 semanas, tres veces por semana. Después pasaron 32 semanas sin entrenar o con uno de dos programas de mantenimiento, con el volumen reducido a un tercio o a un noveno del inicial, según el resumen de un buscador.
+El mejor dato sobre fuerza y músculo es un ensayo de Bickel, Cross y Bamman con 70 adultos jóvenes y mayores ([Bickel y otros, 2011](https://pubmed.ncbi.nlm.nih.gov/21131862/)). Primero entrenaron fuerza 16 semanas, tres veces por semana. Después pasaron 32 semanas sin entrenar o con uno de dos programas de mantenimiento, con el volumen reducido a un tercio o a un noveno del inicial, según el resumen del ensayo.
 
 Los resultados, también según ese resumen:
 
@@ -63,4 +64,4 @@ Después de un parate el cuerpo no está donde estaba. Lo prudente es arrancar c
 
 ## Qué tan firme es lo que dice esta nota
 
-Mujika y Padilla 2000 y Bickel se leyeron según su resumen; los detalles de Bickel (dosis de un tercio y un noveno, resultados por edad) y la parte II de Mujika, desde resúmenes secundarios. Lo del músculo y la grasa es divulgación. Por ser salud, cualquier dosis de mantenimiento espera dos fuentes independientes. La nota no reemplaza a un profesional del ejercicio.
+Mujika y Padilla 2000 (las dos partes) y Bickel se leyeron solo según su resumen, porque el texto completo no estaba abierto; la revisión de Barbieri, completa. Lo del músculo y la grasa es divulgación. Por ser salud, cualquier dosis de mantenimiento espera dos fuentes independientes. La nota no reemplaza a un profesional del ejercicio.

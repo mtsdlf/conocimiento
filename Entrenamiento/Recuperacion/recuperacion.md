@@ -24,7 +24,7 @@ Es la otra cara de la [carga](../Carga/carga.md). Una sesión cansa, y la mejora
 
 ## La recuperación depende de la carga
 
-Cuánto y cómo se carga pesa en la recuperación (lectura de esta base a partir de los consensos que siguen). El consenso de 2016 del Comité Olímpico Internacional (COI) sobre carga lo trata en dos partes: la primera dice que "poor load management is a major risk factor for injury" ([Soligard y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/27535989/), según su resumen) y la segunda, que "inappropriate load management is a significant risk factor for acute illness" ([Schwellnus y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/27535991/), según su resumen). Según esos dos consensos, manejar mal la carga se asocia con lesiones y con enfermedades agudas.
+Cuánto y cómo se carga pesa en la recuperación (lectura de esta base a partir de los consensos que siguen). El consenso de 2016 del Comité Olímpico Internacional (COI) sobre carga lo trata en dos partes: la primera dice que "poor load management is a major risk factor for injury" ([Soligard y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/27535989/), según su resumen) y la segunda, que "inappropriate load management is a significant risk factor for acute illness and the overtraining syndrome" ([Schwellnus y otros, 2016](https://pubmed.ncbi.nlm.nih.gov/27535991/), texto completo). Según esos dos consensos, manejar mal la carga se asocia con lesiones, con enfermedades agudas y con el síndrome de sobreentrenamiento. Los dos son de atletas de élite.
 
 Por eso los medios de recuperación (masaje, frío, compresión) son lo último de la lista. Ninguno compensa una carga mal puesta, un sueño corto o comer de menos. Es inferencia de esta base: ninguna fuente leída compara el peso de cada medio.
 
@@ -44,7 +44,7 @@ El dolor es la otra señal. El dolor muscular de los días siguientes es normal;
 
 ## Masaje, frío y compresión
 
-Los medios de recuperación tienen evidencia sobre todo para el dolor y la fatiga percibida, y para marcadores de inflamación. Un metaanálisis encontró que "Massage seems to be the most effective method for reducing DOMS and perceived fatigue" y que la compresión ayuda con la fatiga percibida ([Dupuy y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/29755363/), según su resumen). Qué hace cada medio, y lo que no se sabe sobre su efecto en el rendimiento siguiente, está en [sueño y recuperación](sueno-y-recuperacion.md). Estirar no reduce el dolor del día después: está en [mitos del entrenamiento](../Fundamentos/mitos-del-entrenamiento.md).
+Los medios de recuperación tienen evidencia sobre todo para el dolor y la fatiga percibida, y para marcadores de inflamación. Un metaanálisis encontró que "Massage seems to be the most effective method for reducing DOMS and perceived fatigue" y que la compresión ayuda con la fatiga percibida ([Dupuy y otros, 2018](https://pubmed.ncbi.nlm.nih.gov/29755363/), texto completo). Qué hace cada medio, y lo que no se sabe sobre su efecto en el rendimiento siguiente, está en [sueño y recuperación](sueno-y-recuperacion.md). Estirar no reduce el dolor del día después: está en [mitos del entrenamiento](../Fundamentos/mitos-del-entrenamiento.md).
 
 > [!IMPORTANT]
 > Esta vertical toca salud. No reemplaza a un médico ni a un kinesiólogo: un cansancio que no se va con descanso o un dolor que empeora se consultan.

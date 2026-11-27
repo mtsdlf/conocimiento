@@ -5,7 +5,8 @@ estado: vigente
 estabilidad: estable
 dueno: familia
 fuentes:
-  - https://acsm.org/resistance-training-guidelines-update-2026/
+  - https://doi.org/10.1249/MSS.0000000000003897
+  - https://doi.org/10.1249/MSS.0000000000003897
   - https://pubmed.ncbi.nlm.nih.gov/19204579/
   - https://pubmed.ncbi.nlm.nih.gov/38595233/
   - https://pubmed.ncbi.nlm.nih.gov/33433148/
@@ -23,7 +24,7 @@ Es una de las dos disciplinas de la base, junto con la [resistencia](../Resisten
 
 ## Lo que decide el resultado y lo que pesa poco
 
-La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM), que revisó 137 revisiones sistemáticas, encontró que pocas variables de la rutina cambiaron los resultados. Entrenar al fallo, el tipo de equipo, la estructura de las series y la periodización no los mejoraron de forma consistente; lo que más pesa es empezar y entrenar los grupos grandes al menos dos veces por semana ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/), según resúmenes). Con el volumen igualado, dividir el cuerpo o entrenarlo completo da lo mismo ([Ramos-Campo y otros, 2024](https://pubmed.ncbi.nlm.nih.gov/38595233/)), y para el músculo la carga elegida importa poco si las series llegan cerca del límite ([Lopez y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/33433148/)).
+La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM), que revisó 137 revisiones sistemáticas con más de 30.000 participantes, encontró que pocas variables de la rutina cambiaron los resultados. Entrenar al fallo, el tipo de equipo, la complejidad del ejercicio, la estructura de las series, el tiempo bajo tensión y la periodización no los mejoraron de forma consistente. Su recomendación principal es entrenar con esfuerzo alto al menos dos veces por semana, con todos los grupos grandes, y pide priorizar hacer fuerza de cualquier forma antes que afinar la receta ([Currier y otros, 2026](https://doi.org/10.1249/MSS.0000000000003897), texto completo). Con el volumen igualado, dividir el cuerpo o entrenarlo completo da lo mismo ([Ramos-Campo y otros, 2024](https://pubmed.ncbi.nlm.nih.gov/38595233/), 14 estudios, según su resumen), y para el músculo la carga elegida importa poco si las series llegan al fallo ([Lopez y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/33433148/), texto completo; adultos de 23 años de promedio, en su mayoría sin experiencia).
 
 Eso ordena la disciplina en dos niveles (el ordenamiento es lectura propia a partir de las fuentes de la carpeta):
 
@@ -31,11 +32,11 @@ Eso ordena la disciplina en dos niveles (el ordenamiento es lectura propia a par
 |---|---|
 | Series suficientes por músculo y por semana | El tipo de rutina, con el volumen igualado |
 | Terminar las series cerca del límite | Llegar al fallo |
-| Subir la carga o las repeticiones con el tiempo | Peso libre, máquinas o peso del cuerpo |
+| Subir la carga o las repeticiones con el tiempo | Peso libre o máquinas |
 | Cada grupo grande al menos dos veces por semana | El orden de los ejercicios, para el músculo, y el tempo |
 | Sostenerlo meses (se supone; ninguna fuente leída lo mide) | El esquema exacto de series y repeticiones |
 
-La segunda columna se elige por gusto, tiempo y equipo. Quien se traba en ella antes de tener la primera resuelta está optimizando lo que no mueve el resultado.
+La segunda columna se elige por gusto, tiempo y equipo. Quien se traba en ella antes de tener la primera resuelta está optimizando lo que no mueve el resultado. Dos matices del texto completo de la ACSM: peso libre y máquinas se compararon solo para la fuerza (para el músculo no hubo datos suficientes), y el peso del cuerpo no se estudió por separado.
 
 ## Cómo toma la musculación cada pieza de la parte general
 
@@ -63,7 +64,7 @@ Un profesor o un plan probado resuelven estas cinco decisiones de una vez; cómo
 La disciplina falla menos por la rutina que por la constancia y por la progresión. Las formas comunes son cambiar de rutina cada pocas semanas sin dejar que ninguna progrese, entrenar lejos del límite durante meses, o al revés, llevar todo al fallo y no poder sostenerlo; esta lista es inferencia a partir de lo que pesa, no un estudio de por qué la gente abandona. El riesgo de lesión es bajo comparado con los deportes de equipo, aunque la evidencia es sobre atletas de pesas ([Keogh y Winwood, 2017](https://research.usc.edu.au/esploro/outputs/journalArticle/The-Epidemiology-of-Injuries-Across-the/99451096702621); detalle en [técnica y seguridad](tecnica-y-seguridad.md)).
 
 > [!IMPORTANT]
-> La evidencia de la disciplina tiene límites que conviene tener presentes. La ACSM 2026, el ancla de casi todo, se leyó en resúmenes y en su comunicado, no en el artículo. La posición anterior, de 2009, fue criticada por cómo citaba la evidencia, y los ensayos individuales del campo suelen ser chicos. Las cifras de esta carpeta llevan cada una su fuente para que se puedan revisar.
+> La evidencia de la disciplina tiene límites que conviene tener presentes. La ACSM 2026, el ancla de casi todo, se leyó en texto completo; es una revisión de revisiones, y sus autores advierten que los ensayos del campo suelen ser chicos y de baja calidad, y que casi toda la evidencia viene de personas sin experiencia. La posición anterior, de 2009, fue criticada por cómo citaba la evidencia: la de 2026 cuenta que su consejo de 2 a 3 sesiones de cuerpo completo para principiantes se apoyaba en tres estudios con 59 personas. Las cifras de esta carpeta llevan cada una su fuente para que se puedan revisar.
 
 ## Qué hay en la musculación
 

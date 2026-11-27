@@ -6,8 +6,8 @@ estabilidad: semi
 dueno: familia
 fuentes:
   - https://pubmed.ncbi.nlm.nih.gov/34125411/
-  - https://acsm.org/resistance-training-guidelines-update-2026/
-  - https://pubmed.ncbi.nlm.nih.gov/32077380/
+  - https://doi.org/10.1249/MSS.0000000000003897
+  - https://doi.org/10.1249/MSS.0000000000003897
 aliases: [patrones de movimiento, movement patterns, ejercicios compuestos, ejercicios multiarticulares, compound exercises, ejercicios de aislamiento, peso libre, máquinas]
 creado: 2026-11-27
 revisado: 2026-11-27
@@ -24,13 +24,13 @@ Un patrón agrupa ejercicios que mueven las mismas articulaciones de la misma fo
 
 ## Primero los de varias articulaciones
 
-Los ejercicios multiarticulares (los que mueven varias articulaciones a la vez, como una sentadilla o un remo) trabajan varios músculos por serie, y por eso rendirían más con poco tiempo (razonamiento propio). Una revisión para quien tiene poco tiempo propone priorizar ejercicios multiarticulares y con las dos piernas o los dos brazos a la vez: uno de piernas (prensa o sentadilla), uno de tracción y uno de empuje ([Iversen y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/34125411/), opinión de los autores).
+Los ejercicios multiarticulares (los que mueven varias articulaciones a la vez, como una sentadilla o un remo) trabajan varios músculos por serie, y por eso rendirían más con poco tiempo (razonamiento propio). Una revisión para quien tiene poco tiempo propone priorizar ejercicios multiarticulares y con las dos piernas o los dos brazos a la vez: uno de piernas (prensa o sentadilla), uno de tracción y uno de empuje ([Iversen y otros, 2021](https://pubmed.ncbi.nlm.nih.gov/34125411/), opinión de los autores, texto completo).
 
-Los monoarticulares (los que mueven una sola articulación, como el curl de bíceps o la extensión de rodilla en máquina) completan, no reemplazan. Según un resumen secundario de un metaanálisis, dieron una ligera ventaja de hipertrofia en el músculo que aíslan, pero la evidencia se limita casi a bíceps y cuádriceps y es mixta ([Rosa y otros, 2023](https://pubmed.ncbi.nlm.nih.gov/32077380/), con la identificación del artículo sin confirmar). Es una sola fuente, de baja confianza.
+Los monoarticulares (los que mueven una sola articulación, como el curl de bíceps o la extensión de rodilla en máquina) completan, no reemplazan. Según un resumen secundario de un metaanálisis, dieron una ligera ventaja de hipertrofia en el músculo que aíslan, pero la evidencia se limita casi a bíceps y cuádriceps y es mixta (Rosa y otros, 2023, en *Strength and Conditioning Journal*; no se encontró el artículo, y el enlace que se usaba era de otro estudio). Es una sola fuente, de baja confianza. La ACSM 2026 juntó dos revisiones sobre esto y concluyó que no hay datos suficientes para decir si cambia la hipertrofia, e Iversen ve poco probable que los monoarticulares sumen mucho para el público general.
 
 ## Peso libre, máquinas o peso del cuerpo
 
-El equipo importa menos de lo que se cree. La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM) encontró que el tipo de equipo no cambió los resultados de forma consistente, y su comunicado dice que bandas elásticas, peso del cuerpo y rutinas en casa también dan beneficios notables ([Currier y otros, 2026](https://acsm.org/resistance-training-guidelines-update-2026/), según resúmenes). Lo que sí exige cualquier equipo es poder terminar las series cerca del límite y subir la exigencia con el tiempo ([progresión en el gimnasio](progresion-en-el-gimnasio.md)).
+El equipo importa menos de lo que se cree. La posición 2026 del Colegio Estadounidense de Medicina del Deporte (ACSM) encontró que el tipo de equipo no cambió los resultados de forma consistente: peso libre y máquinas dieron la misma fuerza, y para el músculo no hubo datos suficientes. Frente a no entrenar, las bandas elásticas mejoraron la fuerza, el músculo y la función física, y el entrenamiento en casa, la fuerza, la resistencia muscular y el equilibrio; el peso del cuerpo no se estudió por separado ([Currier y otros, 2026](https://doi.org/10.1249/MSS.0000000000003897), texto completo). Iversen y otros consideran que las bandas y el peso del cuerpo sirven para entrenar en casa (opinión de los autores). Lo que sí exige cualquier equipo es poder terminar las series cerca del límite y subir la exigencia con el tiempo ([progresión en el gimnasio](progresion-en-el-gimnasio.md)).
 
 En casa el límite es la carga: cuando un ejercicio con el propio peso necesita tantas repeticiones para acercarse al límite que la serie se vuelve de resistencia, se progresa con una variante más difícil (de la sentadilla a la sentadilla búlgara, de la flexión con apoyo de rodillas a la flexión con los pies elevados) o con más peso en una mochila. Es práctica corriente, sin fuente; ninguna fuente leída fija cuántas repeticiones son demasiadas.
 
@@ -62,4 +62,4 @@ Cómo se hace cada ejercicio paso a paso queda fuera de esta base. Se aprende co
 
 ## Qué tan firme es lo que dice esta nota
 
-La prioridad de los multiarticulares sale de una revisión narrativa; lo del equipo, de la ACSM 2026 leída en resúmenes; lo de los monoarticulares, de una sola fuente con identificación dudosa. La lista de patrones y los ejemplos son la práctica corriente, sin fuente que los respalde como clasificación.
+La prioridad de los multiarticulares sale de una revisión narrativa; lo del equipo, de la ACSM 2026, las dos leídas en texto completo; lo de los monoarticulares, de una sola fuente sin enlace y de una ACSM que no tuvo datos suficientes. La lista de patrones y los ejemplos son la práctica corriente, sin fuente que los respalde como clasificación.

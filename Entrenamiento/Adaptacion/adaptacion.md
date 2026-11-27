@@ -49,7 +49,7 @@ La buena noticia es que mantener cuesta menos que ganar. En un ensayo con 70 adu
 
 ## Con la misma carga, respuestas distintas
 
-Dos personas con el mismo plan no mejoran lo mismo. En 585 personas que entrenaron el bíceps 12 semanas con el mismo programa, el tamaño cambió entre -2 y +59 % ([Hubal y otros, 2005](https://pubmed.ncbi.nlm.nih.gov/15947721/); detalle en [estética y entrenamiento](../estetica-y-entrenamiento.md)). Según una revisión, en esa variabilidad pesan la genética, el programa, el estilo de vida, la dieta y el error de medida ([Mann, Lamberts y Lambert, 2014](https://pubmed.ncbi.nlm.nih.gov/24807838/), según un resumen secundario).
+Dos personas con el mismo plan no mejoran lo mismo. En 585 personas que entrenaron el bíceps 12 semanas con el mismo programa, el tamaño cambió entre -2 y +59 % ([Hubal y otros, 2005](https://pubmed.ncbi.nlm.nih.gov/15947721/); detalle en [estética y entrenamiento](../estetica-y-entrenamiento.md)). Según una revisión sobre entrenamiento de resistencia aeróbica, en esa variabilidad pesan la genética, el programa, el estilo de vida, la dieta y el error de medida ([Mann, Lamberts y Lambert, 2014](https://pubmed.ncbi.nlm.nih.gov/24807838/), según su resumen).
 
 Parte de lo que se llama «no responder» puede ser ruido de la medición, como cuenta [rendir y coordinar](../rendir-y-coordinar.md). La consecuencia práctica es medir la respuesta propia en vez de esperar la promedio: eso es la [evaluación](../Evaluacion/evaluacion.md), con sus [tests de capacidad](../Evaluacion/tests-de-capacidad.md) y el [registro de cada sesión](../Evaluacion/registro-y-monitoreo.md).
 
@@ -66,4 +66,4 @@ La adaptación falla de dos maneras. Por defecto, cuando la carga no sube y el c
 
 ## Qué tan firme es lo que dice esta nota
 
-Todas las fuentes se leyeron según su resumen; lo de Bickel y lo de Mann, en parte desde un buscador. Lo de la supercompensación es tradición con una crítica conceptual, no un hallazgo experimental. Esta base no reemplaza a un profesional del ejercicio ni a un médico.
+Kiely 2018 se leyó en texto completo; Gastin, Mujika y Padilla, Bickel, Mann y Hubal, solo según su resumen, porque el texto completo no estaba abierto. Lo de la supercompensación es tradición con una crítica conceptual, no un hallazgo experimental. Esta base no reemplaza a un profesional del ejercicio ni a un médico.
