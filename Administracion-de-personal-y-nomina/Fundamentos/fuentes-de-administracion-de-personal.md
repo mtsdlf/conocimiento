@@ -24,7 +24,7 @@ fuentes:
   - "Queensland Health Payroll System Commission of Inquiry, Report, 31 de julio de 2013: http://www.healthpayrollinquiry.qld.gov.au/__data/assets/pdf_file/0014/207203/Queensland-Health-Payroll-System-Commission-of-Inquiry-Report-31-July-2013.pdf"
   - "APQC, Process Classification Framework 7.2.1 (copia de terceros): https://www.slideshare.net/AsgharAghiliDehkordi/cross-industry-v721-final"
   - "APQC, Process Classification Framework 7.4 (agosto de 2024), Cross-Industry, copia de la IFRC: https://solutions.ifrc.org/sites/default/files/2024-10/K014750_APQC%20Process%20Classification%20Framework%20(PCF)%20-%20Cross%20Industry%20-%20PDF%20Version%207.4.pdf"
-  - "APQC, página del PCF Cross-Industry (8.0, no leído): https://www.apqc.org/pcf-pdf"
+  - "APQC, Process Classification Framework, Cross-Industry, versión 8.0 (febrero de 2026), PDF bajado por una persona desde el sitio de APQC, cotejado el 2026-11-27 en las categorías 7.0 y 9.5: https://www.apqc.org/pcf-pdf"
   - "SHRM, 2026 SHRM Body of Applied Skills and Knowledge (PDF): https://www.shrm.org/content/dam/en/shrm/credentials/shrm-certification/bask/shrm-bask.pdf"
   - "Oficina del Auditor General de Canadá, Fall 2017 Reports, Report 1, Phoenix Pay Problems: https://publications.gc.ca/collections/collection_2017/bvg-oag/FA1-23-2017-2-1-eng.pdf"
   - "OIT, Convenio sobre las vacaciones pagadas (revisado), 1970 (núm. 132), copia de terceros de la ficha de NORMLEX: https://lankalaw.net/wp-content/uploads/2024/12/C132-Holidays-with-Pay-Convention-Revised-1970.pdf"
@@ -88,7 +88,7 @@ Para la Argentina, el recurso primario es la LCT en InfoLEG, que ya incorpora lo
 ## Lo que no se pudo leer
 
 > [!NOTE]
-> Sin fuente todavía: los marcos profesionales en su versión vigente. El PCF de APQC 8.0 (2026) devolvió 403; la 7.4 (2024) se leyó en una copia de la IFRC y deja la nómina donde la ponía la 7.2.1 (7.5.4 y 9.5). Las certificaciones CPP y FPC de Payroll.org devolvieron 403, así que no se sabe cómo divide el dominio el cuerpo profesional de nómina de Estados Unidos. Del CIPP solo hay un resumen de su portada, sin temario.
+> Sin fuente todavía: los marcos profesionales en su versión vigente. Del PCF de APQC se leyó la 7.4 (2024) en una copia de la IFRC, y la 8.0 (2026) se cotejó después: las dos dejan la nómina donde la ponía la 7.2.1 (7.5.4 y 9.5). Las certificaciones CPP y FPC de Payroll.org devolvieron 403, así que no se sabe cómo divide el dominio el cuerpo profesional de nómina de Estados Unidos. Del CIPP solo hay un resumen de su portada, sin temario.
 
 > [!NOTE]
 > Sin fuente todavía: el informe del Auditor General de Canadá de primavera de 2018 sobre Phoenix. Su página da error 404 y el sitio del auditor ya no lista informes de más de cinco años; la cita «incomprehensible failure» sale de Wikipedia. El de otoño de 2017 se leyó en el archivo de publicaciones del gobierno. Del informe de Queensland se leyeron la apertura, los párrafos 1.4 a 1.15 y 2.13 a 2.15, y los pasajes de costos, no el documento entero.

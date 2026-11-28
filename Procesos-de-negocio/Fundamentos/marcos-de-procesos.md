@@ -8,7 +8,7 @@ fuentes:
   - "APQC, PCF Business Rules, reglas 1, 3, 4 y 6: https://www.apqc.org/sites/default/files/files/PCF%20Collateral/PCF%20Business%20Rules.pdf"
   - "APQC, Understanding the Elements of APQC's Process Classification Framework: https://www.apqc.org/sites/default/files/files/PCF%20Collateral/Understanding%20the%20PCF%20Elements%20%20-%20FINAL.pdf"
   - "Lundquist (APQC), Why are end-to-end processes important?, 15 de enero de 2024: https://www.apqc.org/blog/why-are-end-end-processes-important"
-  - "APQC, página del PCF 8.0 (27 de febrero de 2026; según el buscador, no leída): https://www.apqc.org/pcf-pdf"
+  - "APQC, Process Classification Framework, Cross-Industry, versión 8.0 (febrero de 2026), PDF bajado por una persona desde el sitio de APQC, cotejado el 2026-11-27 en los elementos que cita esta nota: https://www.apqc.org/pcf-pdf"
   - "ITU-T, Recomendación M.3050.1 (03/2007), resumen e índice: https://www.itu.int/dms_pubrec/itu-t/rec/m/T-REC-M.3050.1-200703-I!!SUM-HTM-E.htm"
   - "Wikipedia, Business Process Framework (eTOM): https://en.wikipedia.org/wiki/Business_Process_Framework_(eTOM) (secundaria)"
   - "Procesos-de-negocio/.investigacion/marcos-de-procesos.md (informe del 2026-11-27)"
@@ -59,11 +59,30 @@ Los nombres cambian entre versiones. En el índice de la 7.4, 5.0 es «Deliver S
 
 Cada categoría baja cuatro niveles más: grupo de procesos (nivel 2, como 9.2), proceso (nivel 3, como 9.2.3), actividad (nivel 4, como 9.2.3.3) y tarea (nivel 5). Cada elemento tiene dos números. El jerárquico lo ubica y cambia con cada versión: «The numbers are specific to a particular release and are not comparable across version numbers». El de cinco dígitos, como el 10185 de 3.5.4 «Manage sales orders», sigue al concepto entre versiones.
 
-Esta base leyó entera la versión 7.4, de agosto de 2024, en la copia que publica la Federación Internacional de la Cruz Roja. Según el buscador, APQC publicó la 8.0 el 27 de febrero de 2026. No se pudo leer, y los números de abajo pueden haber cambiado. Algunos temas de la base citan la 7.2.1, y sus números no se comparan con los de la 7.4. Un sistema que guarde códigos APQC tiene que guardar la versión y el identificador de cinco dígitos (inferencia de esta base).
+Esta base leyó entera la versión 7.4, de agosto de 2024, en la copia que publica la Federación Internacional de la Cruz Roja, y la cita en todos los temas. APQC publicó la 8.0 en febrero de 2026; se cotejaron con ella los elementos de esta nota, y lo que cambió está en [qué cambió en la 8.0](#qué-cambió-en-la-80). Algunos temas de la base citan la 7.2.1, y sus números no se comparan con los de la 7.4. Un sistema que guarde códigos APQC tiene que guardar la versión y el identificador de cinco dígitos (inferencia de esta base).
+
+## Qué cambió en la 8.0
+
+Las trece categorías siguen, con los mismos números y en el mismo orden. Una cambió de nombre: 7.0 pasó de «Develop and Manage Human Capital» a «Develop and Manage Human Resources» (10007). En la 8.0, 5.0 se llama «Deliver Services» en el índice y en el cuerpo.
+
+De los elementos que usan los ocho recorridos, la mayoría conserva número, nombre e ID. Estos cambiaron:
+
+| En la 7.4 | En la 8.0 | ID | Qué pasó |
+|---|---|---|---|
+| 4.2.3 Order materials and services | 4.2.4 | 10279 | la 8.0 agrega antes 4.2.3 «Select suppliers and develop/maintain contracts» (10278), y lo que seguía corre un lugar |
+| 4.2.4.4 Monitor quality of product delivered | 4.2.5.3 | 10302 en la 7.4, 10301 en la 8.0 | corre con su padre, 4.2.5 «Manage suppliers» |
+| 5.3.1 Initiate service delivery, 5.3.2 Execute service delivery, 5.3.3 Complete service delivery | 5.4.1, 5.4.2 y 5.4.3 | 20059, 20069 y 20077 | la 8.0 suma un grupo nuevo, 5.3, sobre el sistema de prestación, y entregar el servicio pasa a 5.4 «Deliver service to customer» |
+| 7.2.1 Manage employee requisitions | 7.2.1, mismo nombre | 10439 en la 7.4, 21698 en la 8.0 | ID nuevo: según la regla de APQC, la definición cambió de fondo |
+| 7.3.1 Manage employee orientation and deployment | 7.3.1 Manage employee onboarding | 10469 | cambió el nombre |
+| 7.6.3 Manage retirement y 7.6.4 Manage leave of absence | 7.6.2.1 y 7.6.2.2 | 10514 y 10515 | bajan un nivel, dentro de 7.6.2 «Manage separation» |
+| 9.1.2.1 Perform inventory accounting, 9.1.2.4 Perform product costing, 9.1.2.5 Perform variance analysis | 9.1.3.1, 9.1.3.4 y 9.1.3.5 | 10774, 10776 y 10777 | el costeo pasa de 9.1.2 a 9.1.3 «Perform cost accounting and control» |
+| 9.1.4.1 Assess customer and product profitability | 9.1.5.1 | 10782 | corre un lugar dentro de 9.1 |
+
+La regla que dice cuándo cambia el ID está en la introducción de la 8.0: «A new 5-digit number will be assigned to a process element if its definition substantially changes». El PDF de la 8.0 tiene errores de armado: en un salto de página repite 4.2.3.5 a 4.2.3.7 bajo el 4.2.3 nuevo y da el ID 10302 a dos actividades. Esta tabla sigue la jerarquía y los ID, no esas líneas sueltas.
 
 ## Los códigos de los ocho recorridos
 
-Los códigos y nombres son literales del PCF 7.4; qué piezas entran en cada recorrido es lectura de esta base. Cada nota de proceso los copia en una línea.
+Los códigos y nombres son literales del PCF 7.4 (los que cambiaron en la 8.0 están en la tabla de arriba); qué piezas entran en cada recorrido es lectura de esta base. Cada nota de proceso los copia en una línea.
 
 | Recorrido | Piezas del PCF 7.4 |
 |---|---|
@@ -106,4 +125,4 @@ El marco sirve para tres cosas, todas lectura de esta base sobre las reglas de A
 
 Tiene dos límites que importan para un sistema. No dice el orden ni las dependencias entre pasos, que es lo que un sistema tiene que validar. Y no dice qué se registra: ningún elemento nombra el documento que deja ni los datos que lleva, que vienen del dominio. Además, cada marco reparte distinto: en el PCF el crédito y la cobranza son contabilidad de ingresos (9.2) y no tesorería (9.7), y la nómina aparece dos veces (7.5.4 y 9.5).
 
-> [!NOTE] Sin fuente todavía: el PCF 8.0 y los mapas de punta a punta de APQC (el acceso no se pudo comprobar: la página responde 403), para cotejar los códigos de la tabla; el texto de TM Forum sobre el eTOM.
+> [!NOTE] Sin fuente todavía: los mapas de punta a punta de APQC (el acceso no se pudo comprobar: la página responde 403) y el texto de TM Forum sobre el eTOM.
